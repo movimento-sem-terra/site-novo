@@ -1,0 +1,24 @@
+section.newspaper {
+  @extend .banners;
+  width: 30%;
+  min-width: 0;
+  float: none;
+
+  ul{ 
+    li {
+      width: 100%;
+    }
+  }
+
+  p {
+    padding-top: 5px;
+    text-align: left;
+    width: 100%;
+  }
+
+  @media (min-width: $screen-big) {
+    p {
+      width: 260px;
+    }
+  }
+}

@@ -1,0 +1,55 @@
+<header id="site-header">
+  <a href="{{ site.baseurl }}/" id="logo">
+    <img alt="Logotipo" src="{{ site.baseurl }}/assets/img/logo.png" />
+    <h1>MST</h1>
+  </a>
+  
+  <nav role="navigation">
+    <button id="open-menu">Abrir Menu</button>
+    
+    <ul id="main-menu">
+      <li class="dropdown">
+        <a href="#">O MST</a>
+        <ul class="dropdown-menu">
+          <li><a href="{{ site.baseurl }}/quem-somos">Quem Somos</a></li>
+          <li><a href="{{ site.baseurl }}/bandeira">Nossas bandeiras</a></li>
+          <li><a href="{{ site.baseurl }}/organizacao">Organização</a></li>
+          <li><a href="{{ site.baseurl }}/linhas-politicas">Linhas políticas</a></li>
+          <li><a href="{{ site.baseurl }}/notas-oficiais">Notas oficiais</a></li>
+          <li><a href="{{ site.baseurl }}/lutadores-do-povo">Lutadores do povo</a></li>
+          <li><a href="{{ site.baseurl }}/poemas-e-poesias">Poemas e Poesias</a>
+          <li><a href="{{ site.baseurl }}/letra-viva">Letra Viva</a></li>
+          <li><a href="{{ site.baseurl }}/jornal-sem-terra">Jornal Sem Terra</a></li>
+          <li><a href="{{ site.baseurl }}/revista-sem-terra">Revista Sem Terra</a></li>
+        </ul>
+      </li>
+  
+      <li><a href="http://www.armazemmemoria.com.br/cdroms/videotecas/MST/index.htm" target="_blank">Videoteca</a></li>
+      <li><a href="{{ site.baseurl }}/nossa-producao">Nossa Produção</a></li>
+      <li><a href="http://www.reformaagrariaemdados.org.br/biblioteca" target="_blank">Biblioteca Digital</a></li>
+  
+      <li class="dropdown">
+        <a href="#">Editorias</a>
+        <ul class="dropdown-menu">
+          <li><a href="{{ site.baseurl }}/agricultura-camponesa">Agricultura camponesa</a></li>
+          <li><a href="{{ site.baseurl }}/agronegocio">Agronegócio</a></li>
+          <li><a href="{{ site.baseurl }}/direitos-humanos">Direitos Humanos</a></li>
+          <li><a href="{{ site.baseurl }}/educacao-cultura-e-comunicacao">Educação, Cultura e Comunicação</a></li>
+          <li><a href="{{ site.baseurl }}/lutas-e-mobilizacoes">Lutas e mobilizações</a></li>
+          <li><a href="{{ site.baseurl }}/solidariedade-internacional">Solidariedade Internacional</a></li>
+          <li><a href="{{ site.baseurl }}/meio-ambiente">Meio Ambiente</a></li>
+          <li><a href="{{ site.baseurl }}/projeto-popular">Projeto Popular</a></li>
+          <li><a href="{{ site.baseurl }}/reforma-agraria">Reforma Agrária</a></li>
+          <li><a href="{{ site.baseurl }}/transgenicos">Transgênicos</a></li>
+        </ul>
+      </li>
+  
+      <li><a href="{{ site.baseurl }}/especiais">Especiais</a></li>
+      <li><a href="{{ site.baseurl }}/sem-terrinha">Sem Terrinha</a></li>
+    </ul>
+    
+    <button id="open-search">Abrir Busca</button>
+
+    {% ddg_search_form site:novo.mst.org.br prefill:Pesquisar... %}
+  </nav>
+</header>

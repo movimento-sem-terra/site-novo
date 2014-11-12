@@ -1,0 +1,31 @@
+paginate: 20
+baseurl: 
+paginate_path: "/noticias/page:num"
+name: Movimento dos Trabalhadores Rurais Sem Terra
+markdown: redcarpet
+url: http://novo.mst.org.br
+asset_pipeline:
+  gzip: true
+sass:
+  style: :compressed
+collections:
+  banners:
+timezone: BR
+gems:
+  - jekyll-sitemap
+exclude:
+  - deploy
+  - Gemfile
+  - Gemfile.lock
+  - Gruntfile.js
+  - README.md
+  - bower_components
+  - node_modules
+  - package.json
+  - assets/less
+  - test
+  - Rakefile
+  - job_status.txt
+  - setup
+  - vendor 
+  - node/

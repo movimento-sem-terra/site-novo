@@ -1,0 +1,12 @@
+{% assign posts = site.articles  %}
+
+<section class="articles">
+  <h2 class="hat">Artigos</h2>
+  <ul>
+    {% for post in posts | limit:3 %}
+	    <li>
+         {% include headline-with-image.html post=post support_line=true thumbnail=true %}
+	    </li>
+    {% endfor %}
+  </ul>
+</section>

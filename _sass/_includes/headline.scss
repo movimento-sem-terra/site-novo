@@ -1,0 +1,35 @@
+article.headline {
+  padding: 0 !important;
+
+  figure {
+    height: 190px;
+    background-size: cover;
+
+    &:hover {
+      opacity: 0.8;
+    }
+  }
+
+  h1 {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.1;
+    margin: 0;
+    margin-top: 5px;
+    text-align: left;
+
+    a {
+      display: block;
+    }
+  }
+
+  p.support-line {
+    font-size: 14px;
+    font-weight: normal;
+
+    a {
+      color: $gray-dark;
+    }
+  }
+}
+

@@ -1,0 +1,12 @@
+<article class="headline">
+  <figure>
+    <iframe src="http://www.youtube.com/embed/{{ include.post.video }}?autohide=1&showinfo=0" allowfullscreen frameborder="0"></iframe>
+  </figure>
+  <h1>
+    <a href="{{ site.baseurl }}{{ include.post.url }}">{{ include.post.title }}</a>
+  </h1>
+  {% if include.support_line %}
+    <p class="support-line">{{ include.post.support_line}}</p>
+  {% endif %}
+</article>
+

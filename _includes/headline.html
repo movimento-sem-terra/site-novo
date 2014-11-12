@@ -1,0 +1,8 @@
+<article class="headline">
+  <h1>
+    <a href="{{ site.baseurl }}{{ include.post.url }}">{{ include.post.title }}</a>
+  </h1>
+  {% if include.support_line %}
+    <p class="support-line">{{ include.post.support_line | ellipsis: 150 }}</p>
+  {% endif %}
+</article>

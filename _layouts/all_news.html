@@ -1,0 +1,38 @@
+---
+layout: default
+---
+
+<main class="all-news">
+  <ul>
+    {% for post in paginator.posts %}
+      <li>
+        {% include headline-with-image.html post=post support_line=true %}
+        {% include tag-list.html tags = post.tags %}
+        <time datetime="{{ post.date }}">
+          {{ post.date | pretty_date }}
+        </time>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <footer class="pagination">
+    <nav>
+      {% if paginator.previous_page %}
+        {% if paginator.page == 2 %}
+          <a rel='prev' href="/noticias" class="previous">Anterior</a>
+        {% else %}
+          <a rel='prev' href="/noticias/page{{ paginator.previous_page }}" class="previous">Anterior</a>
+        {% endif %}  
+      {% else %}
+        <span class="previous">Anterior</span>
+      {% endif %}
+      <span class="page_number">Página {{ paginator.page }} de {{ paginator.total_pages }}</span>
+      {% if paginator.next_page %}
+        <a rel='next' href="/noticias/page{{ paginator.next_page }}" class="next">Próximo</a>
+      {% else %}
+        <span class="next">Próximo</span>
+      {% endif %}
+    </nav>
+  </footer>
+</main>
+

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://novo.mst.org.br/sitemap.xml

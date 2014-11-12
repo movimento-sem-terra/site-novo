@@ -1,0 +1,123 @@
+body > footer {
+  height: 100%;
+  width: 100%;
+  background-color: darken($brand-primary, 15%);
+  box-shadow: inset 0 5px 5px -5px black;
+  padding: 20px 0 20px;
+  color: $gray-lighter;
+
+  article {
+    width: 80%;
+    margin: auto;
+
+    h1 {
+      font-size: 1.8em; 
+      border-bottom: dashed #e74c3c 1px;
+      padding-bottom: 10px;
+      font-weight: lighter;
+      margin-top: 30px;
+    }
+
+    ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      padding-left: 5px;
+    }
+  }
+
+  article.social {
+    a {
+      font-family: 'Glyphicons Social Regular', Helvetica, Arial, sans-serif;
+
+      &:before {
+        margin-right: 10px;
+        vertical-align: middle;
+      }
+
+      &.facebook:before {
+        content: '\E031'; 
+      }  
+
+      &.twitter:before {
+        content: '\E032'; 
+      }  
+
+      &.rss:before {
+        content: '\E038'; 
+      }  
+    }
+  }
+
+  article.amigos {
+    ul {
+      li {
+        display: inline;
+        margin: 0 3px 0 3px;
+      }
+    }
+  }
+
+  article.parceiros {
+    ul {
+      padding-left: 0;
+      text-align: center;
+
+      li {
+        display: inline-block;
+        vertical-align: middle;
+
+        a {
+          display: inline-block;
+          height: 64px;
+          line-height: 55px;
+          padding: 2px;
+          margin: 3px;
+          margin-bottom: 6px;
+          background-color: $body-bg;
+          border-radius: 3px;
+          box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.125);
+        } 
+
+        a:hover {
+          opacity: 0.8;
+          box-shadow: none;
+        }
+      }
+    }
+  }
+
+  @media(min-width: $screen-md) {
+    text-align: center;
+
+    article {
+      display: inline-block;
+      width: 25%;
+      vertical-align: top;
+      text-align: left;
+      padding: 10px;
+    }
+
+    article.parceiros {
+      display: block;
+      width: 75%;
+    }
+  }
+
+  a {
+    color: $gray-lighter;
+  }
+  
+  a:hover {
+    color: $gray-light;
+  }
+
+  small {
+    display: block;
+    margin-top: 40px;
+    margin-bottom: 0;
+    font-size: 0.7em;
+    font-weight: lighter;
+    text-align: center;
+  }
+}

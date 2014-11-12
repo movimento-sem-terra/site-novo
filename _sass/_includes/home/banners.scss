@@ -1,0 +1,30 @@
+section.banners {
+  @extend .featured-news;
+  display: none;
+
+  @media (min-width: $screen-sm) {
+    display: inline-block;
+    width: 50%;
+    min-width: 560px;
+
+    figure {
+      margin: 0;
+      box-shadow: none;
+      width: 260px;
+      height: 260px;
+      
+      img {
+        width: 200px;
+      }
+    }
+
+    & > ul > li {
+      padding: 0 0 20px 0;
+      text-align: center;
+    }
+
+    figure:after {
+      background: none;
+    }
+  }
+}

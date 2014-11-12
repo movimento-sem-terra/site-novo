@@ -1,0 +1,19 @@
+{% assign banners = site.banners | between: 1,2  %}
+
+<section class='banners'>
+  <h2 class="hat">Outras lutas</h2>
+  <ul>
+    {% for banner in banners %}
+    <li>
+      <a href="{{ banner.link  }}"
+        class="headline-text-over-image"
+        target="_blank">
+          <figure
+            style="background-image:url('{{ banner.image }}');"
+            alt="{{ banner.title }}">
+          </figure>
+        </a>
+    </li>
+    {% endfor %}
+  </ul>
+</section>

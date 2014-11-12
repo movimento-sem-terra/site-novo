@@ -1,0 +1,15 @@
+{% assign default_image = site | extract_image_from_post_tag: include.post %}
+{% assign image = include.post | find_image: 'hd' %}
+
+<a href="{{ site.baseurl }}{{ include.post.url }}" class="headline-text-over-image">
+  {% if image and image != "" %}
+    <figure style="background-image:url('{{ image }}');">
+      <figcaption>{{ include.post.title }}</figcaption>
+    </figure>
+  {% else %}
+    <figure style="background-image:url('{{ default_image }}');">
+      <figcaption>{{ include.post.title }}</figcaption>
+    </figure>
+  {% endif %}
+</a>
+

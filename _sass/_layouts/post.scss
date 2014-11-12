@@ -1,0 +1,48 @@
+main.post {
+  article {
+    overflow: hidden;
+
+    header {
+      h1 {
+        margin-bottom: 2px;
+      }
+
+      p {
+        color: #929292;
+        font-size: 1.1em;
+      }
+    }
+
+    h1 {
+      margin-top: 0.4em;
+      word-wrap: break-word;
+    }
+
+    span.tag {
+      float: right;
+    }
+
+    img {
+      border-radius: 3px;
+      box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.125);
+    }
+    
+    object, iframe {
+      max-width: 100%;
+    }
+  }
+}
+
+@media(min-width: $screen-sm) { 
+  main.post {
+    article {
+      padding-right: 13%;
+    }
+  }
+}
+
+figure.social-button {
+  vertical-align: top; 
+  box-shadow: 0px 0px 0px;
+  margin-top: -2px;
+}

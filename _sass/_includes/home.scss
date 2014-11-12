@@ -1,0 +1,17 @@
+@import "home/recent";
+@import "home/featured-news";
+@import "home/featured-banner";
+@import "home/cover";
+@import "home/carousel";
+@import "home/tv-mst";
+@import "home/interviews";
+@import "home/debate";
+@import "home/banners";
+@import "home/newspaper";
+@import "home/sections";
+@import "home/articles";
+@import "home/special-stories";
+
+body > main.home {
+  @include default-figure-images();
+}

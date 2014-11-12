@@ -1,0 +1,5 @@
+{% for tag in include.tags %}
+  {% for t in tag %}
+    <span class="tag">{{ t[1]  }}</span>
+  {% endfor %}
+{% endfor %}

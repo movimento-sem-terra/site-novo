@@ -1,0 +1,14 @@
+{% assign special_story = site.posts | where: 'label', 'special-stories' | first %}
+
+<section class="special-stories">
+  <h2 class="hat">Reportagens Especiais</h2>
+
+  <a href="{{ site.baseurl }}{{ special_story.url }}"
+    class="headline-text-over-image">
+    <figure
+      style="background-image:url('{{ special_story.images_hd }}');"
+      alt="{{ special_story.title }}">
+      <figcaption>{{ special_story.title }}</figcaption>
+    </figure>
+  </a>
+</section>

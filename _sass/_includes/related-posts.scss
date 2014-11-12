@@ -1,0 +1,56 @@
+main.post > article > aside {
+  display: none;  
+}
+
+@media(min-width: $screen-md) {
+  main.post > article > aside {
+    display: block;
+    position: absolute;
+    right: 0;
+    padding-right: 10px;
+    width: 20%;
+
+    h1 {
+      font-weight: bold;
+      font-size: 1.1em;
+      border-bottom: 4px solid black;
+    }
+
+    ul {
+      padding: 0;
+      list-style-type: none;
+
+      li {
+        border-bottom: 1px solid #ddd;
+          
+        & + li {
+          margin-top: 10px;
+        }
+
+        a {
+          color: $mstred;
+
+          &:hover {
+            text-decoration: none;  
+          }
+
+          p {
+            font-size: 100%;
+            margin: 0;
+
+            &:hover {
+              text-decoration: underline;  
+            }
+          }
+
+          time {
+            display: block;  
+            font-size: 0.8em;
+            color: gray;  
+            margin-bottom: 5px;
+          }
+        }
+      }
+    }
+  }
+}

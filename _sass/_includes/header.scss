@@ -1,0 +1,243 @@
+@import "mixins";
+@import "header/search";
+
+header {
+  @include default-figure-images();
+}
+
+#logo {
+  display: block;
+  height: 60px;
+  text-align: center;
+  
+  
+  img {
+    display: inline-block;
+    height: 100%;
+  }
+  
+  h1 {
+    display: inline;
+    vertical-align: middle;
+    margin: 0;
+    margin-left: 5px;
+    font-size: 50px;
+    font-weight: bold;
+    text-shadow: 2px 2px black;
+    letter-spacing: -4px;
+  }
+}
+
+#site-header {
+  background: $mstred;
+  background: linear-gradient($mstred, darken($mstred, 5%));
+  padding: 20px 0 10px;
+  text-align: center;
+  color: white;
+  
+  a, a:hover, a:visited {
+    color: white;
+    text-decoration: none;
+  }
+  
+  nav {
+    padding-bottom: 5px;
+  }
+  
+  ul {
+    list-style: none;
+    width: auto;
+    font-size: 0.9em;
+    text-align: left;
+    
+    li {
+      display: block;
+
+      a, a:hover, a:visited {
+        padding: 10px 0px;
+        display: block;
+        color: #fff;
+        
+        &:hover {
+          color: $gray-light;
+          text-decoration: underline;
+        }
+      }
+      
+      &.dropdown > a:after {
+        font-family: 'Glyphicons Halflings Regular', Helvetica, Arial, sans-serif;
+        content: " \E114";
+        font-size: 0.7em;
+        display: inline-block;
+        margin-left: 0.5em;
+      }
+    }
+  }
+}
+
+#main-menu {
+  height: 0;
+  opacity: 0;
+  overflow: hidden;
+  margin: 0 20px;
+  padding: 5px 0;
+  @include transition(opacity, 0.2s, ease-in);
+  
+  &.open {
+    height: auto;
+    opacity: 1;
+    overflow: visible;
+  }
+}
+
+ul.dropdown-menu {
+  text-align: left;
+  height: 0;
+  opacity: 0;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+  @include transition(opacity, 0.2s, ease-in);
+
+  &.active {
+    margin: 0 20px;
+    padding: 5px 0;
+    height: auto;
+    opacity: 1;
+    overflow: visible;
+  }
+
+  li {
+    margin-left: 0px;
+  }
+}
+
+#open-menu {
+  position: absolute;
+  left: 10px;
+  top: 20px;
+  height: 60px;
+  width: 60px;
+  background: none;
+  border: none;
+  padding: 0;
+  text-indent: -9999px;
+  z-index: 5;
+  outline: none;
+  
+  &:after {
+    font-family: 'Glyphicons Halflings Regular', Helvetica, Arial, sans-serif;
+    content: '\E055';
+    text-indent: 0;
+    display: block;
+    height: 100%;
+    width: 100%;
+    line-height: 60px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    font-size: 2.3em;
+    color: white;
+  }
+}
+
+
+@media(min-width: $screen-xs) {
+  #site-header {
+    ul {
+      text-align: center;
+
+      li {
+        display: inline-block;
+
+        a, a:hover, a:visited {
+          display: inline-block;
+          padding: 10px 5px;
+        }
+      }
+    }
+  }
+  
+  #open-menu {
+    display: none;
+  }
+  
+  #main-menu {
+    height: auto;
+    opacity: 1;
+    overflow: visible;
+
+    li.dropdown {
+      position: relative;
+    }
+    
+    ul.dropdown-menu {
+      background: #fff;
+      position: absolute;
+      left: -9999px;
+      top: 100%;
+      max-width: 250px;
+      margin: 0;
+      border-radius: 4px;
+      white-space: nowrap;
+      box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
+      border: 1px solid $gray-dark;
+      border-color: rgba(0, 0, 0, 0.15);
+      text-align: left;
+
+      &.active {
+        left: 0;
+        z-index: 3;
+      }
+
+      li {
+        display: block;
+        margin: 0px 5px;
+
+        a {
+          display: block;
+          padding: 5px;
+          color: $gray-dark;
+
+          &:hover {
+            color: $gray-darker
+          }
+        }
+      }
+    }
+  }
+}
+
+@media(min-width: $screen-md) {
+  #site-header {
+    padding: 20px 10%;
+
+    nav {
+      display: inline-block;
+      vertical-align: middle;
+      padding-bottom: 0;
+      width: 77%;
+      text-align: right;
+      position: relative;
+    }
+
+    ul {
+      text-align: right;
+      display: inline-block;
+    }
+  }
+
+  #logo {
+    display: inline-block;
+    vertical-align: middle;
+    width: 22%;
+    text-align: left;
+  }
+
+  #main-menu {
+    margin: 0;
+    padding: 0;
+    white-space: nowrap;
+  }
+}
+

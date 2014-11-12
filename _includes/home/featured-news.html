@@ -1,0 +1,12 @@
+{% assign posts = site.featured_news %}
+
+<section class="featured-news">
+  <h2 class="hat">Destaques</h2>
+  <ul>
+    {% for post in posts | limit:2 %}
+	    <li>
+         {% include headline-with-image.html post=post support_line=true %}
+	    </li>
+    {% endfor %}
+  </ul>
+</section>

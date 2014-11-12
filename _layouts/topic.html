@@ -1,0 +1,63 @@
+---
+layout: default
+---
+
+{% assign posts = site.posts | where: 'topic',  page.tag %}
+{% assign news = posts | where: 'video', '' %}
+{% assign videos =  posts | where_not_null: 'video' %}
+
+<main class="topic">
+  <header>
+    <figure>
+      <img alt="imagem de {{ page.tag }}" src="{{ page.images_hd }}" />
+    </figure>
+    <h1>{{ page.title }}</h1>
+    <p>
+      {{ page.summary }}
+    </p>
+
+    {% if page.description %}
+       <details>
+         <summary>Leia mais...</summary>
+         <p>
+           {{ page.description }}
+           <span>[Fonte: <a href="https://www.expressaopopular.com.br/livros/expressao-popular/dicionario-da-educacao-do-campo">Dicionário da Educação do Campo</a>]</span>
+         </p>
+       </details>
+     {% endif %}
+    
+  </header>
+
+  {% if news.size > 0 %}
+    <section class="news">
+      <h2 class="hat">Notícias</h2>
+      <ul>
+        {% for post in news | limit:3 %}
+          <li>
+            {% include headline-with-image.html post=post %}
+          </li>
+        {% endfor %}
+      </ul>
+      <p class="more">
+        <a href="/noticias">Mais notícias...</a>
+      </p>
+    </section>
+  {% endif %}
+
+  {% if videos.size > 0 %}
+    <section class="videos">
+      <h2 class="hat">Vídeos</h2>
+      <ul>
+        {% for post in videos | limit:3 %}
+          <li>
+            {% include headline-with-video.html post=post %}
+          </li>
+        {% endfor %}
+      </ul>
+      <p class="more">
+        <a href="http://www.mst.org.br/videos">Mais vídeos...</a>
+      </p>
+    </section>
+  {% endif %}
+</main>
+

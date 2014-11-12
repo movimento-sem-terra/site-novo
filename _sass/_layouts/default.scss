@@ -1,0 +1,130 @@
+@mixin box-sizing($boxmodel) {
+  -webkit-box-sizing: $boxmodel;
+  -moz-box-sizing: $boxmodel;
+  box-sizing: $boxmodel;
+}
+
+@mixin tab-focus {
+  // Default
+  outline: thin dotted;
+  // WebKit
+  outline: 5px auto -webkit-focus-ring-color;
+  outline-offset: -2px;
+}
+
+@mixin transition ($prop: all, $time: 1s, $ease: linear) {
+    -webkit-transition: $prop $time $ease;
+    transition: $prop $time $ease;
+}
+
+* {
+  @include box-sizing(border-box);
+}
+
+*:before,
+*:after {
+  @include box-sizing(border-box);
+}
+
+html {
+  font-size: 62.5%;
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+
+body {
+  margin: 0;
+  font-family: $font-family-base;
+  font-size: $font-size-base;
+  line-height: $line-height-base;
+  color: $text-color;
+  background-color: $body-bg;
+
+  main {
+    padding: 30px 15px;
+  }
+}
+
+@media(min-width: $screen-md) { 
+  body > main {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+h1, h2 {
+  line-height: 1.1;
+  margin-bottom: 11px;
+  font-weight: 500;
+}
+
+h1 {
+  font-size: 41px;
+}
+
+h2 {
+  font-size: 34px;
+}
+
+section {
+  h1 { 
+   margin-top: 0;
+   font-size: 1.5em;
+  }
+
+  h2 { 
+   margin-top: 5px;
+   font-size: 1em;
+  }
+
+  h3 {
+   margin-bottom: 0;
+   margin-top: 5px;
+  }
+}
+
+section > h2.hat {
+  margin-top: 0;
+  color: $text-color;
+  font-weight: 200;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+ul {
+  margin-top: 0;
+  margin-bottom: 11px;
+  list-style: none;  
+  padding: 0;
+  width: 100%;
+
+}
+
+p {
+  margin: 0 0 11px;
+}
+
+input, button {
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+}
+
+a {
+  color: $link-color;
+  text-decoration: none;
+
+  &:hover, &:focus {
+    color: $link-hover-color;
+    text-decoration: underline;
+  }
+
+  &:focus {
+    @include tab-focus;
+  }
+}
+
+.list-square {
+  list-style-type: square;
+}
+

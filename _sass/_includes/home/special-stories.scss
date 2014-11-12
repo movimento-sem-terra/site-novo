@@ -1,0 +1,24 @@
+section.special-stories {
+  @include default-section-mobile();
+  clear: none;
+  width: 100%;
+
+  .headline-text-over-image figure{
+    width: 100%;
+  }
+
+  @media(min-width: $screen-sm) { 
+    border-top: none;
+    display: inline-block;
+    vertical-align:top;
+    width: 40%;
+    float: right;
+	  padding-right: 0;
+
+    a > figure {
+      max-width: 90%;
+      width: 90%;
+      height: 400px;
+    }
+  }
+}

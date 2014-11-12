@@ -1,0 +1,48 @@
+{% assign default_image = site | extract_image_from_post_tag: include.post %}
+{% assign image_cover = include.post | find_image: 'hd' %}
+
+{% if include.thumbnail %}
+  {% assign image_cover = include.post | find_image: 'tiny' %}
+{% endif %}
+<article class="headline">
+  {% if image_cover and image_cover != "" %}
+
+  <a href="{{ site.baseurl }}{{ include.post.url }}">
+      <figure
+        style="background-image:url('{{ image_cover  }}');"
+        alt="Imagem para a noticia: {{ include.post.title }}">
+      </figure>
+    </a>
+
+    {% else %}
+      {% if include.post.type == 'video' %}
+
+      <a href="{{ site.baseurl }}{{ include.post.url }}">
+          <figure
+            style="background-image:url('http://i1.ytimg.com/vi/{{ include.post.video }}/hqdefault.jpg');"
+            alt="Imagem para a noticia: {{ include.post.title }}">
+          </figure>
+        </a>
+
+      {% else %}
+        {% if default_image != '' %}
+
+        <a href="{{ site.baseurl }}{{ include.post.url }}">
+            <figure
+              style="background-image:url('{{ default_image }}');"
+              alt="Imagem para a noticia: {{ include.post.title }}">
+            </figure>
+          </a>
+
+        {% else %}
+          {% assign include.support_line = true %}
+        {% endif %}
+      {% endif %}
+    {% endif %}
+  <h1>
+    <a href="{{ site.baseurl  }}{{ include.post.url }}">{{ include.post.title }}</a>
+  </h1>
+  {% if include.support_line %}
+    <p class="support-line">{{ include.post.support_line}}</p>
+  {% endif %}
+</article>

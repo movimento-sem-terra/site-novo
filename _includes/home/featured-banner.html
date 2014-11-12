@@ -1,0 +1,17 @@
+{% assign banner = site.banners | first %}
+
+<section class="featured-banner">
+  <h2 class="hat">Outras lutas</h2>
+  <ul>
+    <li>
+      <a href="{{ banner.link }}"
+        class="headline-text-over-image"
+        target="_blank">
+          <figure
+            style="background-image:url('{{ banner.image }}');max-width: 260px;"
+            alt="{{ banner.title }}">
+          </figure>
+        </a>
+    </li>
+  </ul>
+</section>

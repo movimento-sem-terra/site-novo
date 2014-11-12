@@ -1,0 +1,43 @@
+.headline-text-over-image {
+  figure {
+    position: relative;
+    width: 370px;
+    height: 100%;
+    min-height: 250px;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+
+    &:hover {
+      opacity: 0.8;
+    }
+
+    &:after {
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      content: '';
+      background: -webkit-linear-gradient(transparent, rgba(0,0,0,0.75));
+      background: -moz-linear-gradient(transparent, rgba(0,0,0,0.75));
+      background: -o-linear-gradient(transparent, rgba(0,0,0,0.75));
+      background: linear-gradient(transparent, rgba(0,0,0,0.75));
+    }
+
+    figcaption {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      white-space: initial;
+      z-index: 1;
+      padding: 15px;
+      color: white;
+      font-weight: bold;
+      font-size: 1.3em;
+      line-height: 1;
+      white-space: normal;
+    }
+  }
+}
