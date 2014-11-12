@@ -15,8 +15,20 @@ image  : assets/img/logo.png
   {% include home/cover.html %}
   {% include home/recent.html %}
 
-  {% include home/section-zero.html %}
-  {% include home/section-one.html %}
-  {% include home/section-two.html %}
-  {% include home/section-three.html %}
+  <section class="section-zero">
+    {% include home/featured-news.html %}
+    {% include home/featured-banner.html %}
+  </section>
+  <section class="section-one">
+    {% include home/tv-mst.html %}
+    {% include home/special-stories.html %}
+  </section>
+  <section class="section-two">
+    {% include home/articles.html %}
+    {% include home/interviews.html %}
+  </section>
+  <section class="section-three"> 
+    {% include home/banners.html %}
+    {% include home/newspaper.html %}
+  </section>
 </main>
