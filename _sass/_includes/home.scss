@@ -8,10 +8,21 @@
 @import "home/debate";
 @import "home/banners";
 @import "home/newspaper";
-@import "home/sections";
 @import "home/articles";
 @import "home/special-stories";
 
 body > main.home {
   @include default-figure-images();
+}
+
+body > main.home > section.row {
+  clear: both;
+  display: block;
+  padding-bottom: 15px;
+  overflow: auto;
+
+  @media(min-width: $screen-sm) { 
+    padding-top: 15px;
+    border-top: $border-flat;
+  }
 }
