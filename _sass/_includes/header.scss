@@ -6,35 +6,33 @@ header {
 }
 
 #logo {
-  display: block;
+  display: inline-block;
+  // display: block;
   height: 60px;
+  // height: 150px;
   text-align: center;
-  
-  
+  margin-right: 11px;
+
   img {
     display: inline-block;
     height: 100%;
   }
-  
-  h1 {
-    display: inline;
-    vertical-align: middle;
-    margin: 0;
-    margin-left: 5px;
-    font-size: 50px;
-    font-weight: bold;
-    text-shadow: 2px 2px black;
-    letter-spacing: -4px;
-  }
 }
 
 #site-header {
-  background: $mstred;
-  background: linear-gradient($mstred, darken($mstred, 5%));
+  // background-position-y: -210px;
+  // height: 260px;
+  // padding: 50px 0 10px;
   padding: 20px 0 10px;
   text-align: center;
   color: white;
+  box-shadow: 0px 5px 10px rgba(0,0,0,0.3);
   
+  height: 150px;
+  background-image: linear-gradient(90deg, rgba(150,25,19,0.8), rgba(171,71,66,0.8), rgba(150,25,19,0.8)), url(../img/background_header.jpeg);
+  background-size: cover;
+  background-position-y: -285px;
+
   a, a:hover, a:visited {
     color: white;
     text-decoration: none;
@@ -42,13 +40,32 @@ header {
   
   nav {
     padding-bottom: 5px;
+    display: inline;
+    // display: block;
+
+    h1 {
+      display: inline;
+      // display: block;    
+      vertical-align: middle;
+      margin: 5px 0 0 0;
+      font-size: 50px;
+      // font-size: 100px;
+      font-weight: 600;
+      text-shadow: 2px 2px 0 black;
+      text-align: left;
+      letter-spacing: -4px;
+    }
   }
   
   ul {
     list-style: none;
     width: auto;
-    font-size: 0.9em;
+    font-size: 16px;
     text-align: left;
+
+    ul {
+      font-size: 14px;
+    }
     
     li {
       display: block;
@@ -144,6 +161,7 @@ ul.dropdown-menu {
 
 @media(min-width: $screen-xs) {
   #site-header {
+
     ul {
       text-align: center;
 
@@ -210,14 +228,13 @@ ul.dropdown-menu {
 
 @media(min-width: $screen-md) {
   #site-header {
-    padding: 20px 10%;
+    padding: 50px 10%;
 
     nav {
       display: inline-block;
       vertical-align: middle;
       padding-bottom: 0;
-      width: 77%;
-      text-align: right;
+      text-align: left;
       position: relative;
     }
 
@@ -230,7 +247,7 @@ ul.dropdown-menu {
   #logo {
     display: inline-block;
     vertical-align: middle;
-    width: 22%;
+    width: 150px;
     text-align: left;
   }
 
