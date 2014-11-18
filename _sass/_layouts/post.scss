@@ -23,8 +23,15 @@ main.post {
     }
 
     img {
-      border-radius: 3px;
-      box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.125);
+      display: block;
+      width: 100%;
+      height: 100%;
+    }
+
+    figcaption {
+      background-color: #DDD;
+      padding: 5px 10px;
+      font-size: 13px;
     }
     
     object, iframe {
