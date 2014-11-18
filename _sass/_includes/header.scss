@@ -30,11 +30,10 @@ header {
     color: white;
     text-decoration: none;
   }
-  
-  nav {
-    padding-bottom: 5px;
-    display: inline;
 
+  hgroup {
+    display: inline-block;
+  
     h1 {
       display: inline;    
       vertical-align: middle;
@@ -45,6 +44,14 @@ header {
       text-align: left;
       letter-spacing: -4px;
     }
+    h2{
+      display: none;
+    }
+  }
+
+  nav {
+    padding-bottom: 5px;
+    display: inline;
   }
   
   ul {
@@ -152,6 +159,10 @@ ul.dropdown-menu {
 @media(min-width: $screen-xs) {
   #site-header {
     height: auto;
+    
+    h2{
+      display: none;
+    }
 
     ul {
       text-align: center;
@@ -219,9 +230,27 @@ ul.dropdown-menu {
 
 @media(min-width: $screen-md) {
   #site-header {
-    padding: 50px 0;
-    height: 260px;
+    padding: 45px 0;
+    height: 240px;
     background-position-y: -210px;
+
+    hgroup {
+      text-align: left;
+
+      h1 {
+        display: inline-block;
+        font-size: 100px;
+        line-height: 82px;
+      }
+
+      h2 {
+        font-size: 28px;
+        margin: 18px 0 0 5px;
+        text-shadow: 2px 2px 0 black;
+        font-weight: 400;
+        display: block;
+      }
+    }
 
     nav {
       display: inline-block;
@@ -229,11 +258,6 @@ ul.dropdown-menu {
       padding-bottom: 0;
       text-align: left;
       position: relative;
-
-      h1 {
-        display: block;
-        font-size: 100px;
-      }
     }
 
     ul {
@@ -244,7 +268,7 @@ ul.dropdown-menu {
 
   #logo {
     display: inline-block;
-    vertical-align: middle;
+    vertical-align: top;
     width: 150px;
     height: 150px;
     text-align: left;
