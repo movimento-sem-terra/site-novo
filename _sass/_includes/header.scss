@@ -8,11 +8,9 @@ header {
 #logo {
   display: inline-block;
   height: 60px;
-  text-align: center;
   margin-right: 11px;
 
   img {
-    display: inline-block;
     height: 100%;
   }
 }
@@ -26,16 +24,11 @@ header {
   background-image: linear-gradient(90deg, rgba(150,25,19,0.8), rgba(171,71,66,0.8), rgba(150,25,19,0.8)), url(../img/background_header.jpeg);
   background-size: cover;
 
-  a, a:hover, a:visited {
-    color: white;
-    text-decoration: none;
-  }
-
   hgroup {
     display: inline-block;
   
     h1 {
-      display: inline;    
+      display: inline;
       vertical-align: middle;
       margin: 5px 0 0 0;
       font-size: 50px;
@@ -50,7 +43,6 @@ header {
   }
 
   nav {
-    padding-bottom: 5px;
     display: inline;
   }
   
@@ -59,15 +51,15 @@ header {
     width: auto;
     font-size: 16px;
     text-align: left;
-
-    ul {
-      font-size: 14px;
-    }
     
     li {
       display: block;
 
-      a, a:hover, a:visited {
+      ul {
+        font-size: 14px;
+      }
+
+      a, a:visited {
         padding: 10px 0px;
         display: block;
         color: #fff;
@@ -238,7 +230,6 @@ ul.dropdown-menu {
       text-align: left;
 
       h1 {
-        display: inline-block;
         font-size: 100px;
         line-height: 82px;
       }
@@ -255,7 +246,6 @@ ul.dropdown-menu {
     nav {
       display: inline-block;
       vertical-align: middle;
-      padding-bottom: 0;
       text-align: left;
       position: relative;
     }
@@ -271,7 +261,6 @@ ul.dropdown-menu {
     vertical-align: top;
     width: 150px;
     height: 150px;
-    text-align: left;
   }
 
   #main-menu {
