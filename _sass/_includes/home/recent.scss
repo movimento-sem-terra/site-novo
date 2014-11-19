@@ -27,22 +27,6 @@ section.recent {
     }
   }
 
-  ul {
-    padding-left: 20px;
-    list-style-type: square;
-
-    li {
-      line-height: 12pt;
-      margin-bottom: 5px;
-
-      article.headline > h1 {
-        font-size: 1em;
-        border: none;
-        padding-top: 0;
-      }
-    }
-  }
-
   @media (min-width: $screen-md) {
     padding-left: 470px;
   }
