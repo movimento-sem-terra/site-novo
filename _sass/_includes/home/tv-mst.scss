@@ -4,15 +4,17 @@ section.tv-mst {
   clear: both;
   border-top: 1px solid;
 
-  article.headline > h1 {
-    font-size: 1.1em;
-    line-height: 1.3em;
-    margin-bottom: 3px;
-  }
+  article.headline {
+    & > h1 {
+      font-size: 1.1em;
+      line-height: 1.3em;
+      margin-bottom: 3px;
+    }
 
-  article.headline > p {
-    font-weight: normal;
-    line-height: 1.1em;
+    & > p {
+      font-weight: normal;
+      line-height: 1.1em;
+    }
   }
 
   @media(min-width: $screen-sm) {
@@ -21,18 +23,20 @@ section.tv-mst {
     width: 55%;
 	  padding-left: 0;
 
-    & > article.headline > h1 {
-      font-size: 1.3em;
-      max-width: 100%;
-    }
+    & > article.headline {
+      h1 {
+        font-size: 1.3em;
+        max-width: 100%;
+      }
 
-    & > article.headline > figure {
-      height: auto;
-      max-height: 300px;  
-      max-width: 100%;
-      
-      iframe {
-        height: 300px;
+      figure {
+        height: auto;
+        max-height: 300px;  
+        max-width: 100%;
+        
+        iframe {
+          height: 300px;
+        }
       }
     }
   }
