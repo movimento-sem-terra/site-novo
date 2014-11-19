@@ -2,9 +2,7 @@ body > main.home > section.carousel {
   position: relative;
   width: 100%;
   height: 250px;
-  margin: 0;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 0 auto;
   padding: 0;
   overflow: hidden;
 
@@ -72,8 +70,7 @@ body > main.home > section.carousel {
     padding: 0;
     list-style: none;
     white-space: nowrap;
-    overflow-x: hidden;
-    overflow-y: hidden;
+    overflow: hidden;
 
     li {
       display: inline-block;
