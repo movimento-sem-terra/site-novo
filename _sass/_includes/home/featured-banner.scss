@@ -12,12 +12,12 @@ section.featured-banner {
     figure {
       float: none;
       height: 260px;
-      max-width: 260px;
+      max-width: 260px !important;
       margin: 0;
-    }
 
-    figure:after {
-      background: none;
+      &:after{
+        background: none;
+      }
     }
 
     & > h2.hat {
@@ -28,14 +28,10 @@ section.featured-banner {
       li {
         float: right;
         width: 100%;
-        padding-right: 2%;
+        padding-right: 0;
 
         & + li {
           padding-left: 2%;
-        }
-
-        &:last-child {
-          padding-right: 0;
         }
       }
     }
