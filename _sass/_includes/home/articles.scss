@@ -2,20 +2,20 @@ section.articles {
 
   @include default-section-mobile();
 
-.headline-text-over-image figure{
+  .headline-text-over-image figure{
     width: 100%;
   }
 
   @media(min-width: $screen-sm) {
 	  border: none;
-    display: inline-block;
     vertical-align:top;
     width: 55%;
-	  padding-right: 0;
     clear: left;
 
-    li {
-      float: left;
+    ul {
+      li + li {
+        margin-top: 10px;
+      }
     }
 
     article.headline {
@@ -32,12 +32,6 @@ section.articles {
 
       p {
         margin-bottom: 0;
-      }
-
-      ul {
-        li + li {
-          margin-top: 10px;
-        }
       }
     }
   }
