@@ -1,24 +1,25 @@
 ---
 layout: post
-title: "Após marcha, juventude se reúne com secretaria de educação em São Luís"
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+title: Após marcha, juventude se reúne com secretaria de educação em São Luís
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Educação
-  - tag: Juventude
-  - tag: Maranhão
+- tag: Educação
+- tag: Juventude
+- tag: Maranhão
 files: []
-type: ""
-support_line: A pauta entregue à Seduc declara a urgência na construção de 26 escolas de ensino médio distribuídas em 14 municípios.
-section: ""
+type: ''
+support_line: A pauta entregue à Seduc declara a urgência na construção de 26 escolas
+  de ensino médio distribuídas em 14 municípios.
+section: ''
 hat: Lutas
-label: ""
-images_hd: "http://farm4.staticflickr.com/3924/15035490512_c0e39cd60e_b.jpg"
+label: ''
+images_hd: http://farm4.staticflickr.com/3924/15035490512_c0e39cd60e_b.jpg
 menu: lutas e mobilizações
 published: true
-date: "2014-08-25T17:42:00-03:00"
+date: '2014-08-25T17:42:00-03:00'
 
 ---
 <p><em><img alt="" height="402" src="http://farm4.staticflickr.com/3855/14849302037_765ed5cdce_b.jpg" width="600" /><br />

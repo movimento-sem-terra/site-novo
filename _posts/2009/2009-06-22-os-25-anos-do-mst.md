@@ -4,7 +4,7 @@ title: Os 25 anos do MST
 legacy_url: http://www.mst.org.br/node/101
 images: ''
 video: ''
-tags: ''
+tags: []
 type: 
 support_line: ''
 section: 

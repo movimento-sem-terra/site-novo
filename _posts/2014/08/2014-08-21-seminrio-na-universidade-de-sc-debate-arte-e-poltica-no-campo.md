@@ -1,24 +1,25 @@
 ---
 layout: post
 title: Seminário na Universidade de SC debate arte e política no campo
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Formação
-  - tag: Cultura
-  - tag: Santa-Catarina
+- tag: Formação
+- tag: Cultura
+- tag: Santa-Catarina
 files: []
-type: ""
-support_line: A atividade tem o objetivo de promover o encontro e a troca de experiência sobre o fazer artístico e a cultura popular no campo.
-section: ""
+type: ''
+support_line: A atividade tem o objetivo de promover o encontro e a troca de experiência
+  sobre o fazer artístico e a cultura popular no campo.
+section: ''
 hat: Educação
-label: ""
-images_hd: "http://farm6.staticflickr.com/5559/14805794269_73f110802e_b.jpg"
-menu: "educação, cultura e comunicação"
+label: ''
+images_hd: http://farm6.staticflickr.com/5559/14805794269_73f110802e_b.jpg
+menu: educação, cultura e comunicação
 published: true
-date: "2014-08-21T16:30:13-03:00"
+date: '2014-08-21T16:30:13-03:00'
 
 ---
 <p><em><img alt="" height="264" src="http://farm6.staticflickr.com/5559/14805794269_73f110802e_b.jpg" width="600" /><br />

@@ -1,22 +1,23 @@
 ---
 layout: post
 title: Candidatos à presidência se submetem à barganha do agronegócio
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Eleições
+- tag: Eleições
 files: []
-type: ""
-support_line: "Em 2010 a JBS repassou R$ 35 milhões a comitês e diretórios partidários. Neste pleito, a empresa já doou R$ 71,9 milhões."
-section: ""
+type: ''
+support_line: Em 2010 a JBS repassou R$ 35 milhões a comitês e diretórios partidários.
+  Neste pleito, a empresa já doou R$ 71,9 milhões.
+section: ''
 hat: Eleições
-label: ""
-images_hd: "http://farm3.staticflickr.com/2943/15390764606_95bc8b5d32_b.jpg"
+label: ''
+images_hd: http://farm3.staticflickr.com/2943/15390764606_95bc8b5d32_b.jpg
 menu: agronegócio
 published: true
-date: "2014-09-23T17:00:50-03:00"
+date: '2014-09-23T17:00:50-03:00'
 
 ---
 <p><br />

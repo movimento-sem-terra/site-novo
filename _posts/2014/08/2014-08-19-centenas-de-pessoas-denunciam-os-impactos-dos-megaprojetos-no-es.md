@@ -1,23 +1,24 @@
 ---
 layout: post
 title: Centenas de pessoas denunciam os impactos dos megaprojetos no ES
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Espírito-Santo
-  - tag: Mobilização
+- tag: Espírito-Santo
+- tag: Mobilização
 files: []
-type: ""
-support_line: "Durante o 7° Congresso Brasileiro de Geografia, os participantes realizaram intervenções em frente ao WalMart, à Federação das Industrias e Petrobrás."
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm4.staticflickr.com/3892/14782897959_b6ef147910_b.jpg"
+type: ''
+support_line: Durante o 7° Congresso Brasileiro de Geografia, os participantes realizaram
+  intervenções em frente ao WalMart, à Federação das Industrias e Petrobrás.
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm4.staticflickr.com/3892/14782897959_b6ef147910_b.jpg
 menu: lutas e mobilizações
 published: true
-date: "2014-08-18T10:39:46-03:00"
+date: '2014-08-18T10:39:46-03:00'
 
 ---
 <p>&nbsp;</p>

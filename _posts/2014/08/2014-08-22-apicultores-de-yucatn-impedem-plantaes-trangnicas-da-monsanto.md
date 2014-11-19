@@ -1,24 +1,25 @@
 ---
 layout: post
 title: Apicultores de Yucatán impedem plantações trangênicas da Monsanto
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: México
-  - tag: Monsanto
-  - tag: Agronegócio
+- tag: México
+- tag: Monsanto
+- tag: Agronegócio
 files: []
-type: ""
-support_line: "Um tribunal do estado de Yucatán, no México, revogou permissão outorgado à Monsanto que permitia o plantio comercial de soja com o agrotóxico Roundup."
-section: ""
+type: ''
+support_line: Um tribunal do estado de Yucatán, no México, revogou permissão outorgado
+  à Monsanto que permitia o plantio comercial de soja com o agrotóxico Roundup.
+section: ''
 hat: Vitória
-label: ""
-images_hd: "http://farm6.staticflickr.com/5595/14999574705_78d39f0ea3_b.jpg"
+label: ''
+images_hd: http://farm6.staticflickr.com/5595/14999574705_78d39f0ea3_b.jpg
 menu: transgênicos
 published: true
-date: "2014-08-22T11:43:38-03:00"
+date: '2014-08-22T11:43:38-03:00'
 
 ---
 <p><br />

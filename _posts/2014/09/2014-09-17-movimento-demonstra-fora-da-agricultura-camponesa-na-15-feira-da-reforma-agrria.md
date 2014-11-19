@@ -1,24 +1,26 @@
 ---
 layout: post
-title: Sem Terra demonstram força da agricultura camponesa na 15ª Feira da Reforma Agrária
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+title: Sem Terra demonstram força da agricultura camponesa na 15ª Feira da Reforma
+  Agrária
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Feira-da-Reforma-Agrária
-  - tag: Alagoas
-  - tag: Produção
+- tag: Feira-da-Reforma-Agrária
+- tag: Alagoas
+- tag: Produção
 files: []
-type: ""
-support_line: A velocidade e o volume da comercialização demonstraram o déficit que vive a população urbana em relação ao acesso a alimentos saudáveis e sem agrotóxicos.
-section: ""
+type: ''
+support_line: A velocidade e o volume da comercialização demonstraram o déficit que
+  vive a população urbana em relação ao acesso a alimentos saudáveis e sem agrotóxicos.
+section: ''
 hat: Alagoas
-label: ""
-images_hd: "http://farm4.staticflickr.com/3851/15084469549_b58ddc19d4_b.jpg"
+label: ''
+images_hd: http://farm4.staticflickr.com/3851/15084469549_b58ddc19d4_b.jpg
 menu: agricultura camponesa
 published: true
-date: "2014-09-17T17:16:48-03:00"
+date: '2014-09-17T17:16:48-03:00'
 
 ---
 <p><em>&nbsp;<img alt="" src="http://farm4.staticflickr.com/3838/15084471710_4d7b02f341_b.jpg" /><br />

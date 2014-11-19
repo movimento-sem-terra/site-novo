@@ -1,24 +1,25 @@
 ---
 layout: post
-title: "Sem avanços, 2.500 trabalhadores rurais permanecem mobilizados no Pará"
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+title: Sem avanços, 2.500 trabalhadores rurais permanecem mobilizados no Pará
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Pará
-  - tag: Mobilizações
-  - tag: Reforma-Agrária
+- tag: Pará
+- tag: Mobilizações
+- tag: Reforma-Agrária
 files: []
-type: ""
-support_line: Os Sem Terra decidiram suspender a reunião até a próxima quarta (20) para obter ações mais concretas.
+type: ''
+support_line: Os Sem Terra decidiram suspender a reunião até a próxima quarta (20)
+  para obter ações mais concretas.
 section: featured-news
 hat: Mobilizações
-label: ""
-images_hd: "http://farm4.staticflickr.com/3919/14732114117_612973eddc_b.jpg"
+label: ''
+images_hd: http://farm4.staticflickr.com/3919/14732114117_612973eddc_b.jpg
 menu: lutas e mobilizações
 published: true
-date: "2014-08-14T15:17:37-03:00"
+date: '2014-08-14T15:17:37-03:00'
 
 ---
 <p><em>Da P&aacute;gina do MST</em><br />

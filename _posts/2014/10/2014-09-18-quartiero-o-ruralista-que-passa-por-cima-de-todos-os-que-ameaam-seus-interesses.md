@@ -1,23 +1,24 @@
 ---
 layout: post
-title: "Quartiero, o ruralista que passa por cima de todos os que ameaçam seus interesses"
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+title: Quartiero, o ruralista que passa por cima de todos os que ameaçam seus interesses
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Eleições
-  - tag: Bancada-Ruralista
+- tag: Eleições
+- tag: Bancada-Ruralista
 files: []
-type: ""
-support_line: "Dono de uma extensa ficha policial, Quartiero pretende criar uma lei apontando as exceções ao direito de uso exclusivo das terras indígenas."
-section: ""
+type: ''
+support_line: Dono de uma extensa ficha policial, Quartiero pretende criar uma lei
+  apontando as exceções ao direito de uso exclusivo das terras indígenas.
+section: ''
 hat: Eleições
-label: ""
-images_hd: "http://farm4.staticflickr.com/3928/15413051192_22ac0a0e60_b.jpg"
+label: ''
+images_hd: http://farm4.staticflickr.com/3928/15413051192_22ac0a0e60_b.jpg
 menu: agronegócio
 published: true
-date: "2014-09-18T16:05:02-03:00"
+date: '2014-09-18T16:05:02-03:00'
 
 ---
 <p><img alt="" height="350" src="http://farm4.staticflickr.com/3928/15413051192_22ac0a0e60_b.jpg" width="600" /></p>

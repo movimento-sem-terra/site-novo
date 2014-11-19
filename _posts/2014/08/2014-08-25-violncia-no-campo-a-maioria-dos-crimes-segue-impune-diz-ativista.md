@@ -1,23 +1,24 @@
 ---
 layout: post
-title: "Violência no campo: “A maioria dos crimes segue impune”, diz ativista"
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+title: 'Violência no campo: “A maioria dos crimes segue impune”, diz ativista'
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Violência
-  - tag: Mato-Grosso
+- tag: Violência
+- tag: Mato-Grosso
 files: []
-type: ""
-support_line: "Na semana passada, três lideranças de movimentos rurais foram assassinadas; CPT denuncia que autoridades tinham conhecimento das ameaças."
-section: ""
+type: ''
+support_line: Na semana passada, três lideranças de movimentos rurais foram assassinadas;
+  CPT denuncia que autoridades tinham conhecimento das ameaças.
+section: ''
 hat: Mato Grosso
 label: interviews
-images_hd: "http://farm4.staticflickr.com/3894/15035324535_351bcb63c9_b.jpg"
+images_hd: http://farm4.staticflickr.com/3894/15035324535_351bcb63c9_b.jpg
 menu: direitos humanos
 published: true
-date: "2014-08-25T16:46:11-03:00"
+date: '2014-08-25T16:46:11-03:00'
 
 ---
 <p><em>Por Marcelo Hailer<br />

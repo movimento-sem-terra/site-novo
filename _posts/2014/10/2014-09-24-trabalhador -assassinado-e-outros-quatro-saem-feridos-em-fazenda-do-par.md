@@ -1,23 +1,25 @@
 ---
 layout: post
 title: Trabalhador é assassinado e outros quatro saem feridos em fazenda do Pará
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Violência
-  - tag: Pará
+- tag: Violência
+- tag: Pará
 files: []
-type: ""
-support_line: "Quando o trator passava nas proximidades da sede da fazenda, Reginaldo Augusto atravessou uma caminhonete e impediu que a máquina passasse. Agricultores se dirigiram ao local para convencerem, mas foram recebidos a tiros."
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm4.staticflickr.com/3930/15227262578_41e6c31951_b.jpg"
+type: ''
+support_line: Quando o trator passava nas proximidades da sede da fazenda, Reginaldo
+  Augusto atravessou uma caminhonete e impediu que a máquina passasse. Agricultores
+  se dirigiram ao local para convencerem, mas foram recebidos a tiros.
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm4.staticflickr.com/3930/15227262578_41e6c31951_b.jpg
 menu: direitos humanos
 published: true
-date: "2014-09-24T17:07:05-03:00"
+date: '2014-09-24T17:07:05-03:00'
 
 ---
 <p><br />

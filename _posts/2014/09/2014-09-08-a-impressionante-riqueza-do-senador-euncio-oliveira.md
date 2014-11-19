@@ -1,23 +1,24 @@
 ---
 layout: post
 title: A impressionante riqueza do senador Eunício Oliveira
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Bancada-Ruralista
-  - tag: Eleições
+- tag: Bancada-Ruralista
+- tag: Eleições
 files: []
-type: ""
-support_line: "Após seis meses de apuração, cerca de 3 mil famílias do MST ocuparam as terras do senador."
+type: ''
+support_line: Após seis meses de apuração, cerca de 3 mil famílias do MST ocuparam
+  as terras do senador.
 section: featured-news
 hat: Eleições
-label: ""
-images_hd: "http://farm4.staticflickr.com/3842/15207627982_9255a9187a_b.jpg"
+label: ''
+images_hd: http://farm4.staticflickr.com/3842/15207627982_9255a9187a_b.jpg
 menu: agronegócio
 published: true
-date: "2014-09-08T11:27:34-03:00"
+date: '2014-09-08T11:27:34-03:00'
 
 ---
 <p><br />

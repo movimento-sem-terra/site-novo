@@ -4,7 +4,7 @@ title: Marcha Nacional pela Reforma Agrária
 legacy_url: http://www.mst.org.br/node/79
 images: ''
 video: ''
-tags: ''
+tags: []
 type: 
 support_line: ''
 section: 

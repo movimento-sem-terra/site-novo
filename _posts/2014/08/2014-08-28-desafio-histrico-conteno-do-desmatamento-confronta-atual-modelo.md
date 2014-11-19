@@ -1,24 +1,25 @@
 ---
 layout: post
-title: "Desafio histórico, contenção do desmatamento confronta atual modelo"
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+title: Desafio histórico, contenção do desmatamento confronta atual modelo
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Eleições
-  - tag: Agronegócio
-  - tag: Desmatamento
+- tag: Eleições
+- tag: Agronegócio
+- tag: Desmatamento
 files: []
-type: ""
-support_line: "Com desenvolvimentismo baseado na exploração de monoculturas e minérios, Brasil vê crescer flexibilização que permite destruição de biomas."
-section: ""
+type: ''
+support_line: Com desenvolvimentismo baseado na exploração de monoculturas e minérios,
+  Brasil vê crescer flexibilização que permite destruição de biomas.
+section: ''
 hat: Meio Ambiente
-label: ""
-images_hd: "http://farm6.staticflickr.com/5588/15049782256_66f456283c_b.jpg"
+label: ''
+images_hd: http://farm6.staticflickr.com/5588/15049782256_66f456283c_b.jpg
 menu: meio ambiente
 published: true
-date: "2014-08-28T10:40:37-03:00"
+date: '2014-08-28T10:40:37-03:00'
 
 ---
 <p><img alt="" height="367" src="http://farm6.staticflickr.com/5588/15049782256_66f456283c_b.jpg" width="600" /></p>

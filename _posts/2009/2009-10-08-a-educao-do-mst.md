@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/8302
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/Números
   da Educação do MST.copy_.jpg
 video: ''
-tags: ''
+tags: []
 type: 
 support_line: ''
 section: 

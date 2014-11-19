@@ -1,24 +1,25 @@
 ---
 layout: post
-title: "Seminário na UnB debate feminismo, campesinato e luta de classes"
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+title: Seminário na UnB debate feminismo, campesinato e luta de classes
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Formação
-  - tag: Brasília
-  - tag: Feminismo
+- tag: Formação
+- tag: Brasília
+- tag: Feminismo
 files: []
-type: ""
-support_line: "O seminário foi organizado pelo grupo MPAS junto aos movimentos sociais, e debateu assuntos do Brasil e América Latina."
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm4.staticflickr.com/3880/15277487942_a2050cea6e_b.jpg"
-menu: "educação, cultura e comunicação"
+type: ''
+support_line: O seminário foi organizado pelo grupo MPAS junto aos movimentos sociais,
+  e debateu assuntos do Brasil e América Latina.
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm4.staticflickr.com/3880/15277487942_a2050cea6e_b.jpg
+menu: educação, cultura e comunicação
 published: true
-date: "2014-09-18T10:19:12-03:00"
+date: '2014-09-18T10:19:12-03:00'
 
 ---
 <p><img alt="" height="500" src="http://farm4.staticflickr.com/3880/15277487942_a2050cea6e_b.jpg" width="750" /><br />

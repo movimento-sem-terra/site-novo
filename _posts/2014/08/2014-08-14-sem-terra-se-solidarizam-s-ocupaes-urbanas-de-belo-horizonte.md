@@ -1,24 +1,26 @@
 ---
 layout: post
 title: Sem Terra se solidarizam às ocupações urbanas de Belo Horizonte
-legacy_url: ""
-images: ""
+legacy_url: ''
+images: ''
 video: rVlTVNrqJLE
-youtube_link: "https://www.youtube.com/watch?v=rVlTVNrqJLE"
+youtube_link: https://www.youtube.com/watch?v=rVlTVNrqJLE
 tags:
-  - tag: Solidariedade
-  - tag: Moradia
-  - tag: Minas-Gerais
+- tag: Solidariedade
+- tag: Moradia
+- tag: Minas-Gerais
 files: []
-type: ""
-support_line: "Em carta, os Sem Terra de Minas Gerais se prontificam a se somarem às famílias em resistência a qualquer tentativa de despejo. Mais de 5 mil famílias estão ameaçadas de despejo em ocupações."
-section: ""
+type: ''
+support_line: Em carta, os Sem Terra de Minas Gerais se prontificam a se somarem às
+  famílias em resistência a qualquer tentativa de despejo. Mais de 5 mil famílias
+  estão ameaçadas de despejo em ocupações.
+section: ''
 hat: Solidariedade
-label: ""
-images_hd: "http://farm4.staticflickr.com/3837/14918656805_34dc6a2ef3_b.jpg"
+label: ''
+images_hd: http://farm4.staticflickr.com/3837/14918656805_34dc6a2ef3_b.jpg
 menu: lutas e mobilizações
 published: true
-date: "2014-08-14T15:12:29-03:00"
+date: '2014-08-14T15:12:29-03:00'
 
 ---
 <p><br />

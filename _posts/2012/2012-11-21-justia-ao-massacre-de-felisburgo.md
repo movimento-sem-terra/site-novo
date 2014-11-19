@@ -4,7 +4,7 @@ title: Justiça ao Massacre de Felisburgo
 legacy_url: http://www.mst.org.br/node/14105
 images: ''
 video: ''
-tags: ''
+tags: []
 type: 
 support_line: ''
 section: 

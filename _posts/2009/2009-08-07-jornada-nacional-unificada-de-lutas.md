@@ -4,7 +4,7 @@ title: Jornada Nacional Unificada de Lutas
 legacy_url: http://www.mst.org.br/node/7777
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/capa2.jpg
 video: ''
-tags: ''
+tags: []
 type: 
 support_line: ''
 section: 

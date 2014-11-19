@@ -1,23 +1,24 @@
 ---
 layout: post
-title: "Agronegócio: a farsa do admirável mundo novo"
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+title: 'Agronegócio: a farsa do admirável mundo novo'
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Transgênicos
-  - tag: Agrotóxicos
+- tag: Transgênicos
+- tag: Agrotóxicos
 files: []
-type: ""
-support_line: A questão dos transgênicos e dos agrotóxicos é somente mais um componente da atual situação da produção de alimentos industriais no mundo.
-section: ""
+type: ''
+support_line: A questão dos transgênicos e dos agrotóxicos é somente mais um componente
+  da atual situação da produção de alimentos industriais no mundo.
+section: ''
 hat: Agricultura
-label: ""
-images_hd: "http://farm6.staticflickr.com/5553/14983415925_0fddd98661_b.jpg"
+label: ''
+images_hd: http://farm6.staticflickr.com/5553/14983415925_0fddd98661_b.jpg
 menu: agronegócio
 published: true
-date: "2014-08-20T17:31:28-03:00"
+date: '2014-08-20T17:31:28-03:00'
 
 ---
 <p><br />

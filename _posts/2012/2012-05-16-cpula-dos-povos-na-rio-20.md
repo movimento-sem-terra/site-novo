@@ -4,7 +4,7 @@ title: Cúpula dos Povos na Rio + 20
 legacy_url: http://www.mst.org.br/node/13367
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/riomais20.jpg
 video: ''
-tags: ''
+tags: []
 type: 
 support_line: ''
 section: 

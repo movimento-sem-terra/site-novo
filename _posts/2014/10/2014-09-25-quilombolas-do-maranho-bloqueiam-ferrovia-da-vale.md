@@ -1,23 +1,24 @@
 ---
 layout: post
 title: Quilombolas do Maranhão bloqueiam ferrovia da Vale
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Vale
-  - tag: Maranhão
+- tag: Vale
+- tag: Maranhão
 files: []
-type: ""
-support_line: Trabalhadores de 35 comunidades negras do estado exigem do governo federal medidas que garantam o direito sobre seus territórios.
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm4.staticflickr.com/3934/15430099695_42640b370e_b.jpg"
+type: ''
+support_line: Trabalhadores de 35 comunidades negras do estado exigem do governo federal
+  medidas que garantam o direito sobre seus territórios.
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm4.staticflickr.com/3934/15430099695_42640b370e_b.jpg
 menu: lutas e mobilizações
 published: true
-date: "2014-09-25T14:32:17-03:00"
+date: '2014-09-25T14:32:17-03:00'
 
 ---
 <p><br />

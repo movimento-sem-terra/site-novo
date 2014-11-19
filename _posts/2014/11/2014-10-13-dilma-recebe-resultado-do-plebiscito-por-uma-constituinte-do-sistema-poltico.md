@@ -1,22 +1,23 @@
 ---
 layout: post
 title: Dilma recebe resultado do plebiscito por uma Constituinte do Sistema Político
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Plebiscito-Constituinte
+- tag: Plebiscito-Constituinte
 files: []
-type: ""
-support_line: "Nesta segunda, representantes de inúmeras entidades e movimentos sociais se reúnem com a presidenta Dilma Rousseff, às 17h30, em Brasília."
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm8.staticflickr.com/7474/15735472606_764d6da7b2_b.jpg"
+type: ''
+support_line: Nesta segunda, representantes de inúmeras entidades e movimentos sociais
+  se reúnem com a presidenta Dilma Rousseff, às 17h30, em Brasília.
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm8.staticflickr.com/7474/15735472606_764d6da7b2_b.jpg
 menu: projeto popular
 published: true
-date: "2014-10-13T17:24:35-03:00"
+date: '2014-10-13T17:24:35-03:00'
 
 ---
 <p><br />

@@ -1,22 +1,23 @@
 ---
 layout: post
 title: Anteprojeto prevê controle privado sobre sementes crioulas
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Sementes
+- tag: Sementes
 files: []
-type: ""
-support_line: O anteprojeto daria ao MAPA poderes de controlar as sementes crioulas e as grandes empresas poderiam se apropriar dessas sementes.
+type: ''
+support_line: O anteprojeto daria ao MAPA poderes de controlar as sementes crioulas
+  e as grandes empresas poderiam se apropriar dessas sementes.
 section: featured-news
 hat: Agronegócio
-label: ""
-images_hd: "http://farm4.staticflickr.com/3896/14998034711_507eda1030_b.jpg"
+label: ''
+images_hd: http://farm4.staticflickr.com/3896/14998034711_507eda1030_b.jpg
 menu: agronegócio
 published: true
-date: "2014-08-22T14:44:50-03:00"
+date: '2014-08-22T14:44:50-03:00'
 
 ---
 <p><br />

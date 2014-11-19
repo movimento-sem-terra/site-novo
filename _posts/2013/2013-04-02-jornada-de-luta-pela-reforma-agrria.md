@@ -4,7 +4,7 @@ title: Jornada de Luta pela Reforma Agrária
 legacy_url: http://www.mst.org.br/node/14599
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/banner_jornada_270113_pagina.jpg
 video: ''
-tags: ''
+tags: []
 type: 
 support_line: ''
 section: 

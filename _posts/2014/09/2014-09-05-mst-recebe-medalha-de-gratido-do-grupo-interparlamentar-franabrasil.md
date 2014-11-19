@@ -1,22 +1,23 @@
 ---
 layout: post
 title: MST recebe medalha de gratidão do Grupo Interparlamentar França-Brasil
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Homenagem
+- tag: Homenagem
 files: []
-type: ""
-support_line: Conversaram com os movimentos por entender que são organizações de grande representatividade.
+type: ''
+support_line: Conversaram com os movimentos por entender que são organizações de grande
+  representatividade.
 section: featured-news
 hat: Questão Agrária
-label: ""
-images_hd: "http://farm6.staticflickr.com/5570/15005734159_a4e20e8d2c_b.jpg"
+label: ''
+images_hd: http://farm6.staticflickr.com/5570/15005734159_a4e20e8d2c_b.jpg
 menu: solidariedade
 published: true
-date: "2014-09-05T17:27:00-03:00"
+date: '2014-09-05T17:27:00-03:00'
 
 ---
 <p><span contenteditable="false" tabindex="-1"><img alt="" data-widget="image" src="http://farm6.staticflickr.com/5570/15005734159_a4e20e8d2c_b.jpg" /></span><br />

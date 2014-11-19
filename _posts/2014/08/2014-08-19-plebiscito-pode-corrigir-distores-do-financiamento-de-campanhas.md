@@ -1,22 +1,23 @@
 ---
 layout: post
 title: Plebiscito pode corrigir distorções do financiamento de campanhas
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Plebiscito-Constituinte
+- tag: Plebiscito-Constituinte
 files: []
-type: ""
-support_line: "Consulta à população será realizada entre 1 a 7 de setembro, e é vista como retrato mais fiel das mudanças no sistema político demandadas pela sociedade."
-section: ""
+type: ''
+support_line: Consulta à população será realizada entre 1 a 7 de setembro, e é vista
+  como retrato mais fiel das mudanças no sistema político demandadas pela sociedade.
+section: ''
 hat: Projeto Popular
-label: ""
-images_hd: "http://farm6.staticflickr.com/5559/14782950420_75d8113342_b.jpg"
+label: ''
+images_hd: http://farm6.staticflickr.com/5559/14782950420_75d8113342_b.jpg
 menu: projeto popular
 published: true
-date: "2014-08-19T10:47:35-03:00"
+date: '2014-08-19T10:47:35-03:00'
 
 ---
 <p><br />

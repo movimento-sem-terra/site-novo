@@ -1,23 +1,24 @@
 ---
 layout: post
 title: Vinte e cinco militantes do MST se formam em medicina em Cuba
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Cuba
-  - tag: Saúde
+- tag: Cuba
+- tag: Saúde
 files: []
-type: ""
-support_line: Mais de 120 países já puderam formar gratuitamente milhares de estudantes em Cuba.
+type: ''
+support_line: Mais de 120 países já puderam formar gratuitamente milhares de estudantes
+  em Cuba.
 section: featured-news
 hat: Saúde
-label: ""
-images_hd: "http://farm4.staticflickr.com/3856/14732167990_24fdda5c68_b.jpg"
+label: ''
+images_hd: http://farm4.staticflickr.com/3856/14732167990_24fdda5c68_b.jpg
 menu: solidariedade
 published: true
-date: "2014-08-14T15:37:12-03:00"
+date: '2014-08-14T15:37:12-03:00'
 
 ---
 <p><em>Da P&aacute;gina do MST</em></p>

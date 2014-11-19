@@ -1,23 +1,24 @@
 ---
 layout: post
 title: Dois acampamentos do MST sofrem incêndio criminoso no DF
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Violência
-  - tag: Brasília
+- tag: Violência
+- tag: Brasília
 files: []
-type: ""
-support_line: O acampamento Keno e o 8 de março foram incendiados na tarde desta quinta-feira (13). Ambos estão localizados na região de Planaltina do DF.
-section: ""
+type: ''
+support_line: O acampamento Keno e o 8 de março foram incendiados na tarde desta quinta-feira
+  (13). Ambos estão localizados na região de Planaltina do DF.
+section: ''
 hat: Violência
-label: ""
-images_hd: "http://farm4.staticflickr.com/3847/14782959037_84fb7bd398_b.jpg"
+label: ''
+images_hd: http://farm4.staticflickr.com/3847/14782959037_84fb7bd398_b.jpg
 menu: direitos humanos
 published: true
-date: "2014-08-15T10:30:37-03:00"
+date: '2014-08-15T10:30:37-03:00'
 
 ---
 <p>&nbsp;</p>

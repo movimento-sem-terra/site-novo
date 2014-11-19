@@ -1,23 +1,24 @@
 ---
 layout: post
 title: Juventude Sem Terra realiza 1º seminário no noroeste do Paraná
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Paraná
-  - tag: Juventude
+- tag: Paraná
+- tag: Juventude
 files: []
-type: ""
-support_line: "A atividade também contribuiu para preparar a participação dos jovens no Acampamento Internacional da Juventude Camponesa, m novembro."
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm3.staticflickr.com/2946/15227095387_af02e1ece8_b.jpg"
-menu: "educação, cultura e comunicação"
+type: ''
+support_line: A atividade também contribuiu para preparar a participação dos jovens
+  no Acampamento Internacional da Juventude Camponesa, m novembro.
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm3.staticflickr.com/2946/15227095387_af02e1ece8_b.jpg
+menu: educação, cultura e comunicação
 published: true
-date: "2014-09-22T16:36:59-03:00"
+date: '2014-09-22T16:36:59-03:00'
 
 ---
 <p><em><img alt="" height="400" src="http://farm3.staticflickr.com/2946/15227095387_af02e1ece8_b.jpg" width="600" /><br />

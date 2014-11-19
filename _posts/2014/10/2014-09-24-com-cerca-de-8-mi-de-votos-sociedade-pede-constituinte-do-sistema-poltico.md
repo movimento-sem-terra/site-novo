@@ -1,22 +1,23 @@
 ---
 layout: post
-title: "Com cerca de 8 mi de votos, sociedade pede constituinte do Sistema Político"
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+title: Com cerca de 8 mi de votos, sociedade pede constituinte do Sistema Político
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Plebiscito-Constituinte
+- tag: Plebiscito-Constituinte
 files: []
-type: ""
-support_line: 7.754.436 pessoas votaram no Plebiscito Popular por uma Constituinte Exclusiva e Soberana do Sistema Político.
+type: ''
+support_line: 7.754.436 pessoas votaram no Plebiscito Popular por uma Constituinte
+  Exclusiva e Soberana do Sistema Político.
 section: featured-news
-hat: ""
-label: ""
-images_hd: "http://farm4.staticflickr.com/3928/15227216420_770df5202f_b.jpg"
+hat: ''
+label: ''
+images_hd: http://farm4.staticflickr.com/3928/15227216420_770df5202f_b.jpg
 menu: projeto popular
 published: true
-date: "2014-09-24T17:13:20-03:00"
+date: '2014-09-24T17:13:20-03:00'
 
 ---
 <p><br />

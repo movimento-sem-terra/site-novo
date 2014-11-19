@@ -4,7 +4,7 @@ title: Em defesa das Escolas Itinerantes
 legacy_url: http://www.mst.org.br/node/103
 images: ''
 video: ''
-tags: ''
+tags: []
 type: 
 support_line: ''
 section: 

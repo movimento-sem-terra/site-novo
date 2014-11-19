@@ -1,23 +1,24 @@
 ---
 layout: post
 title: Ex-pistoleiro da UDR é condenado pelo assassinato de trabalhador sem terra
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Violência
-  - tag: Paraná
+- tag: Violência
+- tag: Paraná
 files: []
-type: ""
-support_line: "Augusto Barbosa foi condenado a 12 anos pelo assassinato do sem terra Sebastião Camargo Filho, ocorrido em fevereiro de 1998, em Marilena/PR."
-section: ""
+type: ''
+support_line: Augusto Barbosa foi condenado a 12 anos pelo assassinato do sem terra
+  Sebastião Camargo Filho, ocorrido em fevereiro de 1998, em Marilena/PR.
+section: ''
 hat: Direitos Humanos
-label: ""
-images_hd: "http://farm4.staticflickr.com/3863/15032162491_5810d1f6dd_b.jpg"
+label: ''
+images_hd: http://farm4.staticflickr.com/3863/15032162491_5810d1f6dd_b.jpg
 menu: direitos humanos
 published: true
-date: "2014-08-25T16:35:50-03:00"
+date: '2014-08-25T16:35:50-03:00'
 
 ---
 <p><br />

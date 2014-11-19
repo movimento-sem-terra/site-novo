@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/12416
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/arte 30
   anos JST 21.png
 video: ''
-tags: ''
+tags: []
 type: 
 support_line: ''
 section: 

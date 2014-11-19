@@ -1,23 +1,24 @@
 ---
 layout: post
-title: "Resultado das lutas, produção da Reforma Agrária chega a Arapiraca"
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+title: Resultado das lutas, produção da Reforma Agrária chega a Arapiraca
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Feira-da-Reforma-Agrária
-  - tag: Alagoas
+- tag: Feira-da-Reforma-Agrária
+- tag: Alagoas
 files: []
-type: ""
-support_line: Agricultores de Alagoas comercializam a produção de assentamentos e acampamentos na 2ª Feira da Reforma Agrária de Arapiraca.
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm8.staticflickr.com/7551/15760622752_a7d769e835_b.jpg"
+type: ''
+support_line: Agricultores de Alagoas comercializam a produção de assentamentos e
+  acampamentos na 2ª Feira da Reforma Agrária de Arapiraca.
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm8.staticflickr.com/7551/15760622752_a7d769e835_b.jpg
 menu: agricultura camponesa
 published: true
-date: "2014-10-09T17:10:13-03:00"
+date: '2014-10-09T17:10:13-03:00'
 
 ---
 <p><br />

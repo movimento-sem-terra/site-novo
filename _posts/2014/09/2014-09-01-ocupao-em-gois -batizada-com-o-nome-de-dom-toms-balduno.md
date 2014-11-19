@@ -1,24 +1,25 @@
 ---
 layout: post
 title: Ocupação em Goiás é batizada com o nome de Dom Tomás Balduíno
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Reforma-Agrária
-  - tag: Ocupação
-  - tag: Brasília
+- tag: Reforma-Agrária
+- tag: Ocupação
+- tag: Brasília
 files: []
-type: ""
-support_line: As famílias Sem Terra denunciaram a expulsão de suas terras para que as mesmas fossem integradas ao complexo Santa Mônica.
+type: ''
+support_line: As famílias Sem Terra denunciaram a expulsão de suas terras para que
+  as mesmas fossem integradas ao complexo Santa Mônica.
 section: cover
 hat: Reforma Agrária
-label: ""
-images_hd: "http://farm6.staticflickr.com/5553/15106111291_3541336d62_b.jpg"
+label: ''
+images_hd: http://farm6.staticflickr.com/5553/15106111291_3541336d62_b.jpg
 menu: lutas e mobilizações
 published: true
-date: "2014-09-01T15:59:17-03:00"
+date: '2014-09-01T15:59:17-03:00'
 
 ---
 <p><img alt="" height="467" src="http://farm4.staticflickr.com/3888/15109118845_4bd92b6052_b.jpg" width="700" /><br />

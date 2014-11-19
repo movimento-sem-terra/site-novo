@@ -1,28 +1,30 @@
 ---
 layout: post
 title: Organizações pedem fim da ocupação militar brasileira no Haiti
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Minustah
-  - tag: Haiti
-  - tag: Direitos-Humanos
+- tag: Minustah
+- tag: Haiti
+- tag: Direitos-Humanos
 files:
-  - link: "http://farm4.staticflickr.com/3949/15285077209_b57a997f6e_b.jpg"
-    thumbnail: "http://farm4.staticflickr.com/3949/15285077209_b57a997f6e_t.jpg"
-    title: minustah=colera.jpg
-    $$hashKey: 1SR
-type: ""
-support_line: "Um dia antes de vencer o mandato anual de ocupação da Minustah, Conselho de Segurança da ONU\nirá decidir sobre a permanência das tropas no país."
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm4.staticflickr.com/3949/15285077209_b57a997f6e_b.jpg"
+- link: http://farm4.staticflickr.com/3949/15285077209_b57a997f6e_b.jpg
+  thumbnail: http://farm4.staticflickr.com/3949/15285077209_b57a997f6e_t.jpg
+  title: minustah=colera.jpg
+  "$$hashKey": 1SR
+type: ''
+support_line: |-
+  Um dia antes de vencer o mandato anual de ocupação da Minustah, Conselho de Segurança da ONU
+  irá decidir sobre a permanência das tropas no país.
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm4.staticflickr.com/3949/15285077209_b57a997f6e_b.jpg
 menu: solidariedade
 published: true
-date: "2014-10-07T14:49:27-03:00"
+date: '2014-10-07T14:49:27-03:00'
 
 ---
 <p>&nbsp;</p>

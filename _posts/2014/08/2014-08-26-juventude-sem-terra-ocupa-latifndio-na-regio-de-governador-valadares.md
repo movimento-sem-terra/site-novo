@@ -1,23 +1,24 @@
 ---
 layout: post
 title: Juventude Sem Terra ocupa latifúndio na região de Governador Valadares
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Ocupação
-  - tag: Minas-Gerais
+- tag: Ocupação
+- tag: Minas-Gerais
 files: []
-type: ""
-support_line: A ação do MST marca o encerramento do 2° Encontro Estadual da Juventude Sem Terra de Minas Gerais.
+type: ''
+support_line: A ação do MST marca o encerramento do 2° Encontro Estadual da Juventude
+  Sem Terra de Minas Gerais.
 section: cover
 hat: Reforma Agrária
-label: ""
-images_hd: "http://farm4.staticflickr.com/3910/14856502340_4513c02b63_b.jpg"
+label: ''
+images_hd: http://farm4.staticflickr.com/3910/14856502340_4513c02b63_b.jpg
 menu: reforma agrária
 published: true
-date: "2014-08-26T11:11:45-03:00"
+date: '2014-08-26T11:11:45-03:00'
 
 ---
 <p><em><img alt="" height="359" src="http://farm4.staticflickr.com/3910/14856502340_4513c02b63_b.jpg" width="600" /><br />

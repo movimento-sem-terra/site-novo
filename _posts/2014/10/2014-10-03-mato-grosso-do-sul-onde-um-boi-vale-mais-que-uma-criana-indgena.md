@@ -1,24 +1,25 @@
 ---
 layout: post
-title: "Mato Grosso do Sul: onde um boi vale mais que uma criança indígena"
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+title: 'Mato Grosso do Sul: onde um boi vale mais que uma criança indígena'
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: ONU
-  - tag: índios
-  - tag: Brasil
+- tag: ONU
+- tag: "índios"
+- tag: Brasil
 files: []
-type: ""
-support_line: "A liderança Guarani Kaiowá, Eliseu Lopes, denunciou o Estado brasileiro ao Conselho de Direitos Humanos da ONU."
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm4.staticflickr.com/3930/15276016217_a78cf2edfb_b.jpg"
+type: ''
+support_line: A liderança Guarani Kaiowá, Eliseu Lopes, denunciou o Estado brasileiro
+  ao Conselho de Direitos Humanos da ONU.
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm4.staticflickr.com/3930/15276016217_a78cf2edfb_b.jpg
 menu: direitos humanos
 published: true
-date: "2014-10-03T17:54:47-03:00"
+date: '2014-10-03T17:54:47-03:00'
 
 ---
 <p><img alt="" height="342" src="http://farm4.staticflickr.com/3930/15276016217_a78cf2edfb_b.jpg" width="579" /></p>

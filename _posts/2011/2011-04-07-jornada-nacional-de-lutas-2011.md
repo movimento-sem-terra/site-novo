@@ -4,7 +4,7 @@ title: Jornada Nacional de Lutas 2011
 legacy_url: http://www.mst.org.br/node/11514
 images: ''
 video: ''
-tags: ''
+tags: []
 type: 
 support_line: ''
 section: 

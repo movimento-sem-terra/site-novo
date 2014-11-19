@@ -1,22 +1,23 @@
 ---
 layout: post
-title: "Em carta aos presidenciáveis, Apib cobra fim de 514 anos de opressão"
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+title: Em carta aos presidenciáveis, Apib cobra fim de 514 anos de opressão
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Indígenas
+- tag: Indígenas
 files: []
-type: ""
-support_line: "\"Reafirmamos nossa determinação de fortalecer nossas alianças, solidariedade e lutas conjuntas com outros movimentos do campo\"."
-section: ""
+type: ''
+support_line: '"Reafirmamos nossa determinação de fortalecer nossas alianças, solidariedade
+  e lutas conjuntas com outros movimentos do campo".'
+section: ''
 hat: Indígenas
-label: ""
-images_hd: "http://farm3.staticflickr.com/2942/15226815398_e5478df27e_b.jpg"
+label: ''
+images_hd: http://farm3.staticflickr.com/2942/15226815398_e5478df27e_b.jpg
 menu: direitos humanos
 published: true
-date: "2014-09-18T16:07:44-03:00"
+date: '2014-09-18T16:07:44-03:00'
 
 ---
 <p><br />

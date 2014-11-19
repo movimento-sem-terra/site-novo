@@ -1,23 +1,24 @@
 ---
 layout: post
 title: STF recebe denúncia contra deputado federal por trabalho escravo
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Trabalho-Escravo
-  - tag: Direitos-Humanos
+- tag: Trabalho-Escravo
+- tag: Direitos-Humanos
 files: []
-type: ""
-support_line: "Em 2008 e 2010, o deputado federal João Lyra (PSD-AL) foi acusado de submeter 260 pessoas à escravidão nos seus canaviais."
-section: ""
+type: ''
+support_line: Em 2008 e 2010, o deputado federal João Lyra (PSD-AL) foi acusado de
+  submeter 260 pessoas à escravidão nos seus canaviais.
+section: ''
 hat: Direitos Humanos
-label: ""
-images_hd: "http://farm6.staticflickr.com/5586/14992099372_a7b85c2055_b.jpg"
+label: ''
+images_hd: http://farm6.staticflickr.com/5586/14992099372_a7b85c2055_b.jpg
 menu: direitos humanos
 published: true
-date: "2014-08-21T16:27:49-03:00"
+date: '2014-08-21T16:27:49-03:00'
 
 ---
 <p><em><img alt="" height="384" src="http://farm6.staticflickr.com/5586/14992099372_a7b85c2055_b.jpg" width="620" /><br />

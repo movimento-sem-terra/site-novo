@@ -1,24 +1,25 @@
 ---
 layout: post
 title: Camponesas estudam a relação das mulheres dentro e fora do MST
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Pará
-  - tag: Formação
-  - tag: Mulheres
+- tag: Pará
+- tag: Formação
+- tag: Mulheres
 files: []
-type: ""
-support_line: "Cerca de 45 mulheres participaram da primeira etapa do curso Feminismo e Marxismo da região amazônica, no município de Marabá (PA)."
-section: ""
+type: ''
+support_line: Cerca de 45 mulheres participaram da primeira etapa do curso Feminismo
+  e Marxismo da região amazônica, no município de Marabá (PA).
+section: ''
 hat: Formação
-label: ""
-images_hd: "http://farm4.staticflickr.com/3891/14783135208_6f82fc8e94_b.jpg"
-menu: "educação, cultura e comunicação"
+label: ''
+images_hd: http://farm4.staticflickr.com/3891/14783135208_6f82fc8e94_b.jpg
+menu: educação, cultura e comunicação
 published: true
-date: "2014-08-19T11:00:56-03:00"
+date: '2014-08-19T11:00:56-03:00'
 
 ---
 <p><br />

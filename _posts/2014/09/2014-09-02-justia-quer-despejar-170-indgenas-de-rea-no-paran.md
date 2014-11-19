@@ -1,23 +1,24 @@
 ---
 layout: post
 title: Justiça quer despejar 170 indígenas de área no Paraná
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Indígenas
-  - tag: Paraná
+- tag: Indígenas
+- tag: Paraná
 files: []
-type: ""
-support_line: Procurador da AGU considera reintegração ilegal. Aldeia existe há mais de 18 anos e território foi declarado pela justiça como de ocupação tradicional.
-section: ""
+type: ''
+support_line: Procurador da AGU considera reintegração ilegal. Aldeia existe há mais
+  de 18 anos e território foi declarado pela justiça como de ocupação tradicional.
+section: ''
 hat: Direitos Humanos
-label: ""
-images_hd: "http://farm4.staticflickr.com/3894/15189121211_869f458978_b.jpg"
+label: ''
+images_hd: http://farm4.staticflickr.com/3894/15189121211_869f458978_b.jpg
 menu: direitos humanos
 published: true
-date: "2014-09-02T16:43:14-03:00"
+date: '2014-09-02T16:43:14-03:00'
 
 ---
 <p><em><img alt="" height="386" src="http://farm6.staticflickr.com/5590/15189117491_b00c651729_b.jpg" width="580" /><br />

@@ -1,23 +1,24 @@
 ---
 layout: post
-title: "Neste sábado, juventude sai às ruas contra onda conservadora em São Paulo"
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+title: Neste sábado, juventude sai às ruas contra onda conservadora em São Paulo
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: São-Paulo
-  - tag: Eleições
+- tag: São-Paulo
+- tag: Eleições
 files: []
-type: ""
-support_line: "Neste sábado (11), diversos movimentos de cultura, juventude, negro, realizam uma atividade no centro de São Paulo contra o avanço do conservadorismo."
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm4.staticflickr.com/3953/15139188134_5b27654aed_b.jpg"
+type: ''
+support_line: Neste sábado (11), diversos movimentos de cultura, juventude, negro,
+  realizam uma atividade no centro de São Paulo contra o avanço do conservadorismo.
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm4.staticflickr.com/3953/15139188134_5b27654aed_b.jpg
 menu: lutas e mobilizações
 published: true
-date: "2014-10-09T17:22:33-03:00"
+date: '2014-10-09T17:22:33-03:00'
 
 ---
 <p><br />

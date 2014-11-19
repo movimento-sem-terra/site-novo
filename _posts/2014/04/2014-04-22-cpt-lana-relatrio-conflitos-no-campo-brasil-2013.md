@@ -4,7 +4,7 @@ title: 'CPT lança relatório Conflitos no Campo Brasil 2013 '
 legacy_url: http://www.mst.org.br/node/15997
 images: ''
 video: ''
-tags: ''
+tags: []
 type: 
 support_line: Relatório reúne dados sobre conflitos e  violências sofridas pelos trabalhadores
   do campo  brasileiro.

@@ -1,46 +1,47 @@
 ---
 layout: post
 title: Uma pequena revolução no sertão pernambucano
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Nossa-Produção
+- tag: Nossa-Produção
 files:
-  - link: "http://farm6.staticflickr.com/5594/15002016665_703dba24b8_b.jpg"
-    thumbnail: "http://farm6.staticflickr.com/5594/15002016665_703dba24b8_t.jpg"
-    title: seu everaldo.jpg
-    $$hashKey: 1ZI
-  - link: "http://farm6.staticflickr.com/5563/14998938141_8163141334_b.jpg"
-    thumbnail: "http://farm6.staticflickr.com/5563/14998938141_8163141334_t.jpg"
-    title: 1mulheres manejam parrerais.jpg
-    $$hashKey: 1ZM
-  - link: "http://farm4.staticflickr.com/3858/14815443638_0b810ef40d_b.jpg"
-    thumbnail: "http://farm4.staticflickr.com/3858/14815443638_0b810ef40d_t.jpg"
-    title: forragens pra animais atingidos pela estiagem.jpg
-    $$hashKey: 1ZQ
-  - link: "http://farm6.staticflickr.com/5580/14815405820_ab56cb5d67_b.jpg"
-    thumbnail: "http://farm6.staticflickr.com/5580/14815405820_ab56cb5d67_t.jpg"
-    title: detalhe e vista geral do parreiral em SJV_.jpg
-    $$hashKey: 1ZU
-  - link: "http://farm4.staticflickr.com/3857/15002072855_54733ed77b_b.jpg"
-    thumbnail: "http://farm4.staticflickr.com/3857/15002072855_54733ed77b_t.jpg"
-    title: Francisco Regivaldo dos Santos na frente da produção de pinha.jpg
-    $$hashKey: 1ZY
-  - link: !<tag:yaml.org,2002:js/function> "function link() { [native code] }"
-    thumbnail: !<tag:yaml.org,2002:js/undefined> ""
-    title: !<tag:yaml.org,2002:js/undefined> ""
-    $$hashKey: "200"
-type: ""
-support_line: Faz 40 anos que a chuva não faltou assim em Pernambuco. A seca de 2012 matou de fome cerca de 200 mil animais.
-section: ""
+- link: http://farm6.staticflickr.com/5594/15002016665_703dba24b8_b.jpg
+  thumbnail: http://farm6.staticflickr.com/5594/15002016665_703dba24b8_t.jpg
+  title: seu everaldo.jpg
+  "$$hashKey": 1ZI
+- link: http://farm6.staticflickr.com/5563/14998938141_8163141334_b.jpg
+  thumbnail: http://farm6.staticflickr.com/5563/14998938141_8163141334_t.jpg
+  title: 1mulheres manejam parrerais.jpg
+  "$$hashKey": 1ZM
+- link: http://farm4.staticflickr.com/3858/14815443638_0b810ef40d_b.jpg
+  thumbnail: http://farm4.staticflickr.com/3858/14815443638_0b810ef40d_t.jpg
+  title: forragens pra animais atingidos pela estiagem.jpg
+  "$$hashKey": 1ZQ
+- link: http://farm6.staticflickr.com/5580/14815405820_ab56cb5d67_b.jpg
+  thumbnail: http://farm6.staticflickr.com/5580/14815405820_ab56cb5d67_t.jpg
+  title: detalhe e vista geral do parreiral em SJV_.jpg
+  "$$hashKey": 1ZU
+- link: http://farm4.staticflickr.com/3857/15002072855_54733ed77b_b.jpg
+  thumbnail: http://farm4.staticflickr.com/3857/15002072855_54733ed77b_t.jpg
+  title: Francisco Regivaldo dos Santos na frente da produção de pinha.jpg
+  "$$hashKey": 1ZY
+- link: function link() { [native code] }
+  thumbnail: 
+  title: 
+  "$$hashKey": '200'
+type: ''
+support_line: Faz 40 anos que a chuva não faltou assim em Pernambuco. A seca de 2012
+  matou de fome cerca de 200 mil animais.
+section: ''
 hat: Nossa Produção
 label: special-stories
-images_hd: "http://farm4.staticflickr.com/3910/14586973993_6803a2f115_b.jpg"
+images_hd: http://farm4.staticflickr.com/3910/14586973993_6803a2f115_b.jpg
 menu: agricultura camponesa
 published: true
-date: "2013-03-14T16:20:06-03:00"
+date: '2013-03-14T16:20:06-03:00'
 
 ---
 <figure class="image"><img alt="" height="467" src="http://farm6.staticflickr.com/5594/15002016665_703dba24b8_b.jpg" width="700" />

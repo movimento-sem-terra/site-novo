@@ -4,7 +4,7 @@ title: Jornada de Lutas das Mulheres da Via Campesina 2011
 legacy_url: http://www.mst.org.br/node/11329
 images: ''
 video: ''
-tags: ''
+tags: []
 type: 
 support_line: ''
 section: 

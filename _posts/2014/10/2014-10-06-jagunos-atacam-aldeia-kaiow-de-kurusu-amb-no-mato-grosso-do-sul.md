@@ -1,24 +1,25 @@
 ---
 layout: post
-title: "Jagunços atacam Aldeia Kaiowá de Kurusu Ambá, no Mato Grosso do Sul"
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+title: Jagunços atacam Aldeia Kaiowá de Kurusu Ambá, no Mato Grosso do Sul
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Kaiowá
-  - tag: indíos
-  - tag: ataque
+- tag: Kaiowá
+- tag: indíos
+- tag: ataque
 files: []
-type: ""
-support_line: Jagunços armados atacaram as barracas de famílias Kaiowá em sua terra tradicional de Kurusu Ambá.
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm4.staticflickr.com/3938/15283664478_6e301b16fc_b.jpg"
+type: ''
+support_line: Jagunços armados atacaram as barracas de famílias Kaiowá em sua terra
+  tradicional de Kurusu Ambá.
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm4.staticflickr.com/3938/15283664478_6e301b16fc_b.jpg
 menu: direitos humanos
 published: true
-date: "2014-10-06T13:40:50-03:00"
+date: '2014-10-06T13:40:50-03:00'
 
 ---
 <p><em>Do Cimi</em></p>

@@ -1,24 +1,25 @@
 ---
 layout: post
 title: MST ocupa Fazenda Duas Barras no Norte de Minas Gerais
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Minas-Gerais
-  - tag: Ocupação
-  - tag: ReformaAgraria
+- tag: Minas-Gerais
+- tag: Ocupação
+- tag: ReformaAgraria
 files: []
-type: ""
-support_line: "Segundo os Sem Terra, a área, de propriedade de Marcos Maurício Dias, está completamente abandonada"
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm3.staticflickr.com/2950/15458086751_8bdeb7357d_b.jpg"
+type: ''
+support_line: Segundo os Sem Terra, a área, de propriedade de Marcos Maurício Dias,
+  está completamente abandonada
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm3.staticflickr.com/2950/15458086751_8bdeb7357d_b.jpg
 menu: reforma agrária
 published: true
-date: "2014-09-29T15:25:26-03:00"
+date: '2014-09-29T15:25:26-03:00'
 
 ---
 <p><em>Da P&aacute;gina do MST&nbsp;</em></p>

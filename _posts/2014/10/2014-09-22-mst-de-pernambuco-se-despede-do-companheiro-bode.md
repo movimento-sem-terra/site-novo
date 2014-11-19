@@ -1,22 +1,23 @@
 ---
 layout: post
 title: MST de Pernambuco se despede do companheiro Bode
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Homenagem
+- tag: Homenagem
 files: []
-type: ""
-support_line: "Aldo Soares da Silva, conhecido como Bode, foi assassinado com cerca de 20 tiros no Acampamento Maria Paraíba, em São Lourenço da Mata."
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm4.staticflickr.com/3931/15410343981_00b71c9f9a_b.jpg"
+type: ''
+support_line: Aldo Soares da Silva, conhecido como Bode, foi assassinado com cerca
+  de 20 tiros no Acampamento Maria Paraíba, em São Lourenço da Mata.
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm4.staticflickr.com/3931/15410343981_00b71c9f9a_b.jpg
 menu: lutadores-do-povo
 published: true
-date: "2014-09-22T16:22:40-03:00"
+date: '2014-09-22T16:22:40-03:00'
 
 ---
 <p>&nbsp;</p>

@@ -1,22 +1,23 @@
 ---
 layout: post
-title: "FAO: boa parte da diminuição da fome no Brasil se deve à agricultura camponesa"
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+title: 'FAO: boa parte da diminuição da fome no Brasil se deve à agricultura camponesa'
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Fome
+- tag: Fome
 files: []
-type: ""
-support_line: Políticas de incentivo à agricultura camponesa e familiar tiveram muita importância no resultado.
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm4.staticflickr.com/3930/15226870389_cb3741c3b6_b.jpg"
+type: ''
+support_line: Políticas de incentivo à agricultura camponesa e familiar tiveram muita
+  importância no resultado.
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm4.staticflickr.com/3930/15226870389_cb3741c3b6_b.jpg
 menu: agricultura camponesa
 published: true
-date: "2014-09-22T16:35:09-03:00"
+date: '2014-09-22T16:35:09-03:00'
 
 ---
 <p><br />

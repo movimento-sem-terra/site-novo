@@ -1,26 +1,27 @@
 ---
 layout: post
 title: Participação social na agricultura camponesa e na agroecologia
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: agricultura-familiar-agroecologia
+- tag: agricultura-familiar-agroecologia
 files:
-  - link: "http://farm3.staticflickr.com/2943/15427257211_49cac73f44_b.jpg"
-    thumbnail: "http://farm3.staticflickr.com/2943/15427257211_49cac73f44_t.jpg"
-    title: pi.gif
-    $$hashKey: 01W
-type: ""
-support_line: "Agricultura familiar e a agroecologia, as mais diversas vivências, os problemas e dificuldades e as experiências de vida em um projeto político comum."
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm3.staticflickr.com/2943/15427257211_49cac73f44_b.jpg"
+- link: http://farm3.staticflickr.com/2943/15427257211_49cac73f44_b.jpg
+  thumbnail: http://farm3.staticflickr.com/2943/15427257211_49cac73f44_t.jpg
+  title: pi.gif
+  "$$hashKey": 01W
+type: ''
+support_line: Agricultura familiar e a agroecologia, as mais diversas vivências, os
+  problemas e dificuldades e as experiências de vida em um projeto político comum.
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm3.staticflickr.com/2943/15427257211_49cac73f44_b.jpg
 menu: agricultura camponesa
 published: true
-date: "2014-09-25T15:04:47-03:00"
+date: '2014-09-25T15:04:47-03:00'
 
 ---
 <p>&nbsp;</p>

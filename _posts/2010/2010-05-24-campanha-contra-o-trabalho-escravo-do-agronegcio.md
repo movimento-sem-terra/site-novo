@@ -4,7 +4,7 @@ title: Campanha contra o Trabalho Escravo do Agronegócio
 legacy_url: http://www.mst.org.br/node/9919
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/trabalho_ecravo(2).jpg
 video: ''
-tags: ''
+tags: []
 type: 
 support_line: ''
 section: 

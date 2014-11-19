@@ -1,24 +1,25 @@
 ---
 layout: post
-title: "Democracia em crise: a chantagem do agronegócio"
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+title: 'Democracia em crise: a chantagem do agronegócio'
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: eleições
-  - tag: agronegocio
-  - tag: campanhas
+- tag: eleições
+- tag: agronegocio
+- tag: campanhas
 files: []
-type: ""
-support_line: Setor converte-se em financiador destacado dos partidos e elege bancada numerosa.
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm3.staticflickr.com/2948/15273954780_ee5e2b2395_b.jpg"
+type: ''
+support_line: Setor converte-se em financiador destacado dos partidos e elege bancada
+  numerosa.
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm3.staticflickr.com/2948/15273954780_ee5e2b2395_b.jpg
 menu: agronegócio
 published: true
-date: "2014-10-06T14:21:42-03:00"
+date: '2014-10-06T14:21:42-03:00'
 
 ---
 <p><br />

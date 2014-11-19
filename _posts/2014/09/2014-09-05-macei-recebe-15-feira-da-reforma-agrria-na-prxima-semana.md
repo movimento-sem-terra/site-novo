@@ -1,23 +1,24 @@
 ---
 layout: post
 title: Maceió recebe 15ª Feira da Reforma Agrária na próxima semana
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Alagoas
-  - tag: Feira-da-Reforma-Agrária
+- tag: Alagoas
+- tag: Feira-da-Reforma-Agrária
 files: []
-type: ""
-support_line: "Entre os dias 10 e 14 de setembro, a capital recebe a Feira que traz produtos direto dos acampamentos e assentamentos do Movimento."
-section: ""
+type: ''
+support_line: Entre os dias 10 e 14 de setembro, a capital recebe a Feira que traz
+  produtos direto dos acampamentos e assentamentos do Movimento.
+section: ''
 hat: Reforma Agrária
-label: ""
-images_hd: "http://farm4.staticflickr.com/3858/15184955916_b27432d47f_b.jpg"
+label: ''
+images_hd: http://farm4.staticflickr.com/3858/15184955916_b27432d47f_b.jpg
 menu: agricultura camponesa
 published: true
-date: "2014-09-05T11:23:09-03:00"
+date: '2014-09-05T11:23:09-03:00'
 
 ---
 <p><img alt="" src="http://farm4.staticflickr.com/3858/15184955916_b27432d47f_b.jpg" /><br />

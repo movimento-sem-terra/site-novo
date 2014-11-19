@@ -1,24 +1,25 @@
 ---
 layout: post
 title: Quem aperta o gatilho nos assassinatos do campo no Pará?
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: violência
-  - tag: Pará
-  - tag: Direitos-Humanos
+- tag: violência
+- tag: Pará
+- tag: Direitos-Humanos
 files: []
-type: ""
-support_line: Uma confluência de interesses tem determinado os assassinatos de trabalhadores rurais no Pará
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm4.staticflickr.com/3932/15274802659_c901d48f35_b.jpg"
+type: ''
+support_line: Uma confluência de interesses tem determinado os assassinatos de trabalhadores
+  rurais no Pará
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm4.staticflickr.com/3932/15274802659_c901d48f35_b.jpg
 menu: direitos humanos
 published: true
-date: "2014-09-30T16:05:07-03:00"
+date: '2014-09-30T16:05:07-03:00'
 
 ---
 <p><br />

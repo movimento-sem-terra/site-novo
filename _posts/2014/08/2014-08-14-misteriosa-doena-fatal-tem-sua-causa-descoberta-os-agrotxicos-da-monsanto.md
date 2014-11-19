@@ -1,23 +1,24 @@
 ---
 layout: post
-title: "Misteriosa doença fatal tem sua causa descoberta: os agrotóxicos da Monsanto"
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+title: 'Misteriosa doença fatal tem sua causa descoberta: os agrotóxicos da Monsanto'
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: monsanto
-  - tag: agrotóxicos
+- tag: monsanto
+- tag: agrotóxicos
 files: []
-type: ""
-support_line: "Há anos, os cientistas vêm tentando desvendar o mistério de uma epidemia de doença renal crônica que atingiu a América Central, a Índia e o Sri Lanka."
+type: ''
+support_line: Há anos, os cientistas vêm tentando desvendar o mistério de uma epidemia
+  de doença renal crônica que atingiu a América Central, a Índia e o Sri Lanka.
 section: featured-news
 hat: Agronegócio
 label: articles
-images_hd: "http://farm6.staticflickr.com/5593/14895520686_233e1c33a6_b.jpg"
+images_hd: http://farm6.staticflickr.com/5593/14895520686_233e1c33a6_b.jpg
 menu: agronegócio
 published: true
-date: "2014-08-14T14:54:52-03:00"
+date: '2014-08-14T14:54:52-03:00'
 
 ---
 <p><img alt="" height="397" src="http://farm6.staticflickr.com/5593/14895520686_233e1c33a6_b.jpg" width="600" /></p>

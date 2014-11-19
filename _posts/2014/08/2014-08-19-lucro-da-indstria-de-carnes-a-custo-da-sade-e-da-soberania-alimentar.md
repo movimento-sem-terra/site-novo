@@ -1,22 +1,23 @@
 ---
 layout: post
 title: Lucro da indústria de carnes a custo da saúde e da soberania alimentar
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Frigorífico
+- tag: Frigorífico
 files: []
-type: ""
-support_line: "\"As grandes instalações eliminam fontes de renda para milhões de camponeses e pequenos pecuaristas em nível mundial”, escreve Silvia Ribeiro."
-section: ""
+type: ''
+support_line: "\"As grandes instalações eliminam fontes de renda para milhões de camponeses
+  e pequenos pecuaristas em nível mundial”, escreve Silvia Ribeiro."
+section: ''
 hat: Agronegócio
 label: articles
-images_hd: "http://farm6.staticflickr.com/5574/14782995907_3162a2d3e6_b.jpg"
+images_hd: http://farm6.staticflickr.com/5574/14782995907_3162a2d3e6_b.jpg
 menu: agronegócio
 published: true
-date: "2014-08-15T10:35:04-03:00"
+date: '2014-08-15T10:35:04-03:00'
 
 ---
 <p><br />

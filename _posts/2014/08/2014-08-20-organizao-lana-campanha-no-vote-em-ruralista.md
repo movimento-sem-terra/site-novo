@@ -1,23 +1,24 @@
 ---
 layout: post
 title: Organização lança campanha “não vote em ruralista”
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Bancada-Ruralista
-  - tag: Eleições
+- tag: Bancada-Ruralista
+- tag: Eleições
 files: []
-type: ""
-support_line: "Campanha apresenta iniciativas recentes de políticos ligados ao agronegócio, como a ofensiva contra os indígenas."
+type: ''
+support_line: Campanha apresenta iniciativas recentes de políticos ligados ao agronegócio,
+  como a ofensiva contra os indígenas.
 section: featured-news
 hat: Eleições
-label: ""
-images_hd: "http://farm6.staticflickr.com/5566/14980382511_03ac4709e4_b.jpg"
+label: ''
+images_hd: http://farm6.staticflickr.com/5566/14980382511_03ac4709e4_b.jpg
 menu: agronegócio
 published: true
-date: "2014-08-20T17:38:43-03:00"
+date: '2014-08-20T17:38:43-03:00'
 
 ---
 <p><em><img alt="" height="303" src="http://farm6.staticflickr.com/5566/14980382511_03ac4709e4_b.jpg" width="513" /><br />

@@ -1,23 +1,24 @@
 ---
 layout: post
 title: Sem Terrinhas participam de Encontro Estadual no Rio Grande do Sul
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Jornada-Sem-Terrinha-2014
-  - tag: Rio-Grande-do-Sul
+- tag: Jornada-Sem-Terrinha-2014
+- tag: Rio-Grande-do-Sul
 files: []
-type: ""
-support_line: "Durante os dias 14 a 16 de outubro, cerca de 500 Sem Terrinha participam do 17º Encontro Estadual, no Parque de Exposições, em Esteio (RS)."
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm4.staticflickr.com/3947/15574533410_0bf0446147_b.jpg"
+type: ''
+support_line: Durante os dias 14 a 16 de outubro, cerca de 500 Sem Terrinha participam
+  do 17º Encontro Estadual, no Parque de Exposições, em Esteio (RS).
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm4.staticflickr.com/3947/15574533410_0bf0446147_b.jpg
 menu: lutas e mobilizações
 published: true
-date: "2014-10-13T17:48:08-03:00"
+date: '2014-10-13T17:48:08-03:00'
 
 ---
 <p><br />

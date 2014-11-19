@@ -1,23 +1,24 @@
 ---
 layout: post
-title: "O momento da agroecologia é agora, afirma especialista em ciências agrícolas"
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+title: O momento da agroecologia é agora, afirma especialista em ciências agrícolas
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: agricultura-camponesa
-  - tag: agroecologia
+- tag: agricultura-camponesa
+- tag: agroecologia
 files: []
-type: ""
-support_line: "Pablo Tittonell, disse ser necessário um novo modelo agrícola durante o Simpósio organizado pela FAO"
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm4.staticflickr.com/3933/15275372889_395590ca3f_b.jpg"
+type: ''
+support_line: Pablo Tittonell, disse ser necessário um novo modelo agrícola durante
+  o Simpósio organizado pela FAO
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm4.staticflickr.com/3933/15275372889_395590ca3f_b.jpg
 menu: agricultura camponesa
 published: true
-date: "2014-10-01T17:04:58-03:00"
+date: '2014-10-01T17:04:58-03:00'
 
 ---
 <p><br />

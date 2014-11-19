@@ -1,23 +1,24 @@
 ---
 layout: post
-title: "Em Brasília, marcha denuncia o genocídio da população negra"
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+title: Em Brasília, marcha denuncia o genocídio da população negra
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Mobilizações
-  - tag: Brasília
+- tag: Mobilizações
+- tag: Brasília
 files: []
-type: ""
-support_line: "A marcha acontece nesta sexta-feira (22), e está sendo organizada em 15 países e 18 estados do Brasil."
-section: ""
+type: ''
+support_line: A marcha acontece nesta sexta-feira (22), e está sendo organizada em
+  15 países e 18 estados do Brasil.
+section: ''
 hat: Luta
-label: ""
-images_hd: "http://farm6.staticflickr.com/5569/14992132002_a2f320ccb4_b.jpg"
+label: ''
+images_hd: http://farm6.staticflickr.com/5569/14992132002_a2f320ccb4_b.jpg
 menu: lutas e mobilizações
 published: true
-date: "2014-08-21T16:32:38-03:00"
+date: '2014-08-21T16:32:38-03:00'
 
 ---
 <p><br />

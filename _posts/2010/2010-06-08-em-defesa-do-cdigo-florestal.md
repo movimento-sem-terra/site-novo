@@ -4,7 +4,7 @@ title: Em defesa do Código Florestal
 legacy_url: http://www.mst.org.br/node/10049
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/codigoflorestal2.jpg
 video: ''
-tags: ''
+tags: []
 type: 
 support_line: ''
 section: 

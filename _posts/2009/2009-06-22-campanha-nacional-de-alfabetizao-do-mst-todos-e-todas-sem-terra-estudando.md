@@ -4,7 +4,7 @@ title: Campanha Nacional de Alfabetização do MST - Todos e Todas Sem Terra Est
 legacy_url: http://www.mst.org.br/node/91
 images: ''
 video: ''
-tags: ''
+tags: []
 type: 
 support_line: ''
 section: 

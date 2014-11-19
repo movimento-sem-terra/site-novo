@@ -1,24 +1,25 @@
 ---
 layout: post
 title: MST denúncia violação de Direitos Humanos no Acampamento Dom Tomás Balduíno
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Reforma-Agrária
-  - tag: Ocupação
-  - tag: Goiás
+- tag: Reforma-Agrária
+- tag: Ocupação
+- tag: Goiás
 files: []
-type: ""
-support_line: A preponderância do uso de poder político e econômico pelo Senador Eunício Oliveira tem tornado a situação crítica para os trabalhadores na região.
-section: ""
+type: ''
+support_line: A preponderância do uso de poder político e econômico pelo Senador Eunício
+  Oliveira tem tornado a situação crítica para os trabalhadores na região.
+section: ''
 hat: Goiás
-label: ""
-images_hd: "http://farm4.staticflickr.com/3893/15005569180_04e61424b0_b.jpg"
+label: ''
+images_hd: http://farm4.staticflickr.com/3893/15005569180_04e61424b0_b.jpg
 menu: direitos humanos
 published: true
-date: "2014-09-03T16:55:13-03:00"
+date: '2014-09-03T16:55:13-03:00'
 
 ---
 <p><br />

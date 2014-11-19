@@ -1,24 +1,26 @@
 ---
 layout: post
-title: "Três mil famílias do MST ocupam a fazenda Santa Mônica, do senador Eunício Oliveira"
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+title: Três mil famílias do MST ocupam a fazenda Santa Mônica, do senador Eunício
+  Oliveira
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Ocupação
-  - tag: Reforma-Agrária
-  - tag: Brasília
+- tag: Ocupação
+- tag: Reforma-Agrária
+- tag: Brasília
 files: []
-type: ""
-support_line: Os Sem Terra denunciam a relação do senador com expulsão de dezenas de famílias camponesas da região.
-section: null
+type: ''
+support_line: Os Sem Terra denunciam a relação do senador com expulsão de dezenas
+  de famílias camponesas da região.
+section: 
 hat: Brasília
-label: ""
-images_hd: "http://farm6.staticflickr.com/5555/14918753277_b6bdf42b8c_b.jpg"
+label: ''
+images_hd: http://farm6.staticflickr.com/5555/14918753277_b6bdf42b8c_b.jpg
 menu: lutas e mobilizações
 published: true
-date: "2014-09-01T10:06:43-03:00"
+date: '2014-09-01T10:06:43-03:00'
 
 ---
 <p><span contenteditable="false" tabindex="-1"><img alt="" data-widget="image" height="467" src="http://farm6.staticflickr.com/5555/14918753277_b6bdf42b8c_b.jpg" width="700" /></span><br />

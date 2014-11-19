@@ -1,23 +1,24 @@
 ---
 layout: post
 title: Milhares de Sem Terra trancam as principais rodovias na Paraíba
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Reforma-Agrária
-  - tag: Paraíba
+- tag: Reforma-Agrária
+- tag: Paraíba
 files: []
-type: ""
-support_line: Os Sem Terra denunciam a demora na desapropriação de terras pelo Incra para assentar as mais de 3.200 famílias acampadas em todo o estado.
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm6.staticflickr.com/5601/15243567158_74af96ccf8_b.jpg"
+type: ''
+support_line: Os Sem Terra denunciam a demora na desapropriação de terras pelo Incra
+  para assentar as mais de 3.200 famílias acampadas em todo o estado.
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm6.staticflickr.com/5601/15243567158_74af96ccf8_b.jpg
 menu: lutas e mobilizações
 published: true
-date: "2014-09-25T14:41:31-03:00"
+date: '2014-09-25T14:41:31-03:00'
 
 ---
 <p><br />

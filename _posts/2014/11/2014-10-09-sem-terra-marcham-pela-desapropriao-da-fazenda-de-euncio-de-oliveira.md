@@ -1,23 +1,24 @@
 ---
 layout: post
 title: Sem Terra marcham pela desapropriação da fazenda de Eunício de Oliveira
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Reforma-Agrária
-  - tag: Goiás
+- tag: Reforma-Agrária
+- tag: Goiás
 files: []
-type: ""
-support_line: "Em Goiânia, cerca de 2.000 trabalhadores rurais marcham para reivindicar a desapropriação de uma propriedade do senador Eunício de Oliveira (PMDB)."
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm9.staticflickr.com/8648/15735384036_b9039d672e_b.jpg"
+type: ''
+support_line: Em Goiânia, cerca de 2.000 trabalhadores rurais marcham para reivindicar
+  a desapropriação de uma propriedade do senador Eunício de Oliveira (PMDB).
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm9.staticflickr.com/8648/15735384036_b9039d672e_b.jpg
 menu: lutas e mobilizações
 published: true
-date: "2014-10-09T17:13:38-03:00"
+date: '2014-10-09T17:13:38-03:00'
 
 ---
 <p><br />

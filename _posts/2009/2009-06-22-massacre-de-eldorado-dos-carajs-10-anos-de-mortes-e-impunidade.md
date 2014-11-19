@@ -4,7 +4,7 @@ title: 'Massacre de Eldorado dos Carajás: 10 anos de mortes e impunidade'
 legacy_url: http://www.mst.org.br/node/81
 images: ''
 video: ''
-tags: ''
+tags: []
 type: 
 support_line: ''
 section: 

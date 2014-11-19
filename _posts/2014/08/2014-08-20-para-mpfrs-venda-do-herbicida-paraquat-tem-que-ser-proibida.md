@@ -1,23 +1,24 @@
 ---
 layout: post
-title: "Para MPF/RS, venda do herbicida paraquat tem que ser proibida"
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+title: Para MPF/RS, venda do herbicida paraquat tem que ser proibida
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Agrotóxicos
-  - tag: Rio-Grande-do-Sul
+- tag: Agrotóxicos
+- tag: Rio-Grande-do-Sul
 files: []
-type: ""
-support_line: "O MPF e entidades do contra agrotóxicos alertam para a urgência da proibição do herbicida paraqua, altamente perigoso para os humanos."
-section: ""
+type: ''
+support_line: O MPF e entidades do contra agrotóxicos alertam para a urgência da proibição
+  do herbicida paraqua, altamente perigoso para os humanos.
+section: ''
 hat: Saúde
-label: ""
-images_hd: "http://farm6.staticflickr.com/5577/14983374345_700ede89de_b.jpg"
+label: ''
+images_hd: http://farm6.staticflickr.com/5577/14983374345_700ede89de_b.jpg
 menu: agronegócio
 published: true
-date: "2014-08-20T17:26:04-03:00"
+date: '2014-08-20T17:26:04-03:00'
 
 ---
 <p><em>Do MPF/RS</em></p>

@@ -1,23 +1,24 @@
 ---
 layout: post
 title: Soberania alimentar e energética se faz com bens naturais à serviço do povo
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Energia
-  - tag: Soberania-Alimentar
+- tag: Energia
+- tag: Soberania-Alimentar
 files: []
-type: ""
-support_line: "Nesta quarta-feira, o tema debatido no Seminário para o Modelo Energético Brasileiro foram os desafios da soberania energética e alimentar."
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm4.staticflickr.com/3869/15207798442_fa605fd47e_b.jpg"
+type: ''
+support_line: Nesta quarta-feira, o tema debatido no Seminário para o Modelo Energético
+  Brasileiro foram os desafios da soberania energética e alimentar.
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm4.staticflickr.com/3869/15207798442_fa605fd47e_b.jpg
 menu: projeto popular
 published: true
-date: "2014-09-10T11:50:07-03:00"
+date: '2014-09-10T11:50:07-03:00'
 
 ---
 <p><em><img alt="" src="http://farm4.staticflickr.com/3869/15207798442_fa605fd47e_b.jpg" /><br />

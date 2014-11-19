@@ -1,23 +1,24 @@
 ---
 layout: post
 title: ENFF realiza Semana Florestan Fernandes
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: ENFF
-  - tag: Formação
+- tag: ENFF
+- tag: Formação
 files: []
-type: ""
-support_line: "A atividade se estende até o próximo sábado (20), e trabalha temas relacionados ao pensador brasileiro."
-section: ""
+type: ''
+support_line: A atividade se estende até o próximo sábado (20), e trabalha temas relacionados
+  ao pensador brasileiro.
+section: ''
 hat: Formação
-label: ""
-images_hd: "http://farm4.staticflickr.com/3856/15265941301_b739b4a1f9_b.jpg"
-menu: "educação, cultura e comunicação"
+label: ''
+images_hd: http://farm4.staticflickr.com/3856/15265941301_b739b4a1f9_b.jpg
+menu: educação, cultura e comunicação
 published: true
-date: "2014-09-17T13:20:14-03:00"
+date: '2014-09-17T13:20:14-03:00'
 
 ---
 <p><img alt="" src="http://farm4.staticflickr.com/3856/15265941301_b739b4a1f9_b.jpg" /><br />

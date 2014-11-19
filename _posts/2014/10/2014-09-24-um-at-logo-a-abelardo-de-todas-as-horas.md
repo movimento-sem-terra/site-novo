@@ -1,23 +1,24 @@
 ---
 layout: post
 title: Um até logo a Abelardo de todas as Horas
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Homenagem
-  - tag: Pernambuco
+- tag: Homenagem
+- tag: Pernambuco
 files: []
-type: ""
-support_line: "Lembraremos com carinho de quando o visitamos e ele dizia “tenho pressão baixa, tesão alto e muita vontade de trabalhar”."
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm4.staticflickr.com/3929/15410683551_9969ac36e0_b.jpg"
+type: ''
+support_line: Lembraremos com carinho de quando o visitamos e ele dizia “tenho pressão
+  baixa, tesão alto e muita vontade de trabalhar”.
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm4.staticflickr.com/3929/15410683551_9969ac36e0_b.jpg
 menu: lutadores-do-povo
 published: true
-date: "2014-09-24T17:09:06-03:00"
+date: '2014-09-24T17:09:06-03:00'
 
 ---
 <p><br />

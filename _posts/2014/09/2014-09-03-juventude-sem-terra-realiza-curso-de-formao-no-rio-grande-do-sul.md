@@ -1,24 +1,26 @@
 ---
 layout: post
 title: Juventude Sem Terra realiza curso de formação no Rio Grande do Sul
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Juventude
-  - tag: Formação
-  - tag: Rio-Grande-do-Sul
+- tag: Juventude
+- tag: Formação
+- tag: Rio-Grande-do-Sul
 files: []
-type: ""
-support_line: "O Curso é uma iniciativa do setor de educação do MST em conjunto com o IEJC, para proporcionar aos educandos e educandas ambientes educativos que ampliem o desenvolvimento da capacidade de viver coletivamente."
-section: ""
+type: ''
+support_line: O Curso é uma iniciativa do setor de educação do MST em conjunto com
+  o IEJC, para proporcionar aos educandos e educandas ambientes educativos que ampliem
+  o desenvolvimento da capacidade de viver coletivamente.
+section: ''
 hat: Educação
-label: ""
-images_hd: "http://farm4.staticflickr.com/3853/15169233896_0139432a08_b.jpg"
-menu: "educação, cultura e comunicação"
+label: ''
+images_hd: http://farm4.staticflickr.com/3853/15169233896_0139432a08_b.jpg
+menu: educação, cultura e comunicação
 published: true
-date: "2014-09-03T16:57:21-03:00"
+date: '2014-09-03T16:57:21-03:00'
 
 ---
 <p><em><img alt="" src="http://farm4.staticflickr.com/3853/15169233896_0139432a08_b.jpg" /><br />

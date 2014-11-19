@@ -1,22 +1,23 @@
 ---
 layout: post
 title: Campanha pela Constituinte faz ato público na Câmara Federal
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Plebiscito-Constituinte
+- tag: Plebiscito-Constituinte
 files: []
-type: ""
-support_line: Mais de 700 militantes se reuniram em Brasília para a entrega oficial do resultado do Plebiscito Popular ao Legislativo e Judiciário.
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm4.staticflickr.com/3940/15574242317_c4b3fd4ccc_b.jpg"
+type: ''
+support_line: Mais de 700 militantes se reuniram em Brasília para a entrega oficial
+  do resultado do Plebiscito Popular ao Legislativo e Judiciário.
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm4.staticflickr.com/3940/15574242317_c4b3fd4ccc_b.jpg
 menu: projeto popular
 published: true
-date: "2014-10-15T17:57:53-03:00"
+date: '2014-10-15T17:57:53-03:00'
 
 ---
 <p><em>Do site Plebiscito Constituinte</em></p>

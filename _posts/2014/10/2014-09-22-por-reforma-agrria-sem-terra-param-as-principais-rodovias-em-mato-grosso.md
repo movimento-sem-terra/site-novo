@@ -1,23 +1,24 @@
 ---
 layout: post
-title: "Por Reforma Agrária, Sem Terra param as principais rodovias em Mato Grosso"
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+title: Por Reforma Agrária, Sem Terra param as principais rodovias em Mato Grosso
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Mato-Grosso
-  - tag: Reforma-Agrária
+- tag: Mato-Grosso
+- tag: Reforma-Agrária
 files: []
-type: ""
-support_line: Cerca de 1000 Sem Terra pararam as principais rodovias no estado do Mato Grosso na manhã desta segunda-feira (22).
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm4.staticflickr.com/3928/15226945608_f9a62f92ab_b.jpg"
+type: ''
+support_line: Cerca de 1000 Sem Terra pararam as principais rodovias no estado do
+  Mato Grosso na manhã desta segunda-feira (22).
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm4.staticflickr.com/3928/15226945608_f9a62f92ab_b.jpg
 menu: lutas e mobilizações
 published: true
-date: "2014-09-22T16:25:56-03:00"
+date: '2014-09-22T16:25:56-03:00'
 
 ---
 <p><br />

@@ -4,7 +4,7 @@ title: 'Massacre de Felisburgo: retrato da atualidade da violência no campo'
 legacy_url: http://www.mst.org.br/node/100
 images: ''
 video: ''
-tags: ''
+tags: []
 type: 
 support_line: ''
 section: 

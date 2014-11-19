@@ -1,26 +1,27 @@
 ---
 layout: post
-title: "\"Nossa luta é contra os agrotóxicos e pela vida\", diz membro de campanha"
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+title: '"Nossa luta é contra os agrotóxicos e pela vida", diz membro de campanha'
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Agrotóxicos
+- tag: Agrotóxicos
 files:
-  - link: "http://farm4.staticflickr.com/3839/15005860888_6e18438f5d_b.jpg"
-    thumbnail: "http://farm4.staticflickr.com/3839/15005860888_6e18438f5d_t.jpg"
-    title: alantygel_ihu_unisinos.jpg
-    $$hashKey: 1RE
-type: ""
-support_line: O Brasil é o campeão mundial no consumo de agrotóxicos. Nesse cenário os movimentos vêm lutando em defesa de um modelo mais justo e saudável.
-section: ""
+- link: http://farm4.staticflickr.com/3839/15005860888_6e18438f5d_b.jpg
+  thumbnail: http://farm4.staticflickr.com/3839/15005860888_6e18438f5d_t.jpg
+  title: alantygel_ihu_unisinos.jpg
+  "$$hashKey": 1RE
+type: ''
+support_line: O Brasil é o campeão mundial no consumo de agrotóxicos. Nesse cenário
+  os movimentos vêm lutando em defesa de um modelo mais justo e saudável.
+section: ''
 hat: Agroecologia
 label: interviews
-images_hd: "http://farm4.staticflickr.com/3839/15005860888_6e18438f5d_b.jpg"
+images_hd: http://farm4.staticflickr.com/3839/15005860888_6e18438f5d_b.jpg
 menu: agronegócio
 published: true
-date: "2014-09-03T17:02:37-03:00"
+date: '2014-09-03T17:02:37-03:00'
 
 ---
 <p><br />

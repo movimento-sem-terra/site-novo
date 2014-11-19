@@ -1,23 +1,24 @@
 ---
 layout: post
 title: JBS é suspeita de enganar sócios minoritários e a Fisco
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Frigoríficos
-  - tag: JBS
+- tag: Frigoríficos
+- tag: JBS
 files: []
-type: ""
-support_line: "Um acordo secreto mostra que as famílias Batista e Bertin, sócias na Friboi, enganaram os acionistas minoritários e a Receita Federal."
-section: ""
+type: ''
+support_line: Um acordo secreto mostra que as famílias Batista e Bertin, sócias na
+  Friboi, enganaram os acionistas minoritários e a Receita Federal.
+section: ''
 hat: Agronegócio
-label: ""
-images_hd: "http://farm6.staticflickr.com/5559/15189324841_acff882a92_b.jpg"
+label: ''
+images_hd: http://farm6.staticflickr.com/5559/15189324841_acff882a92_b.jpg
 menu: agronegócio
 published: true
-date: "2014-09-04T17:08:02-03:00"
+date: '2014-09-04T17:08:02-03:00'
 
 ---
 <p><br />

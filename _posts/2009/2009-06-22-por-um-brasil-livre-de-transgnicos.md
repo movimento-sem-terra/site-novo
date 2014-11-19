@@ -4,7 +4,7 @@ title: Por um Brasil Livre de Transgênicos
 legacy_url: http://www.mst.org.br/node/86
 images: ''
 video: ''
-tags: ''
+tags: []
 type: 
 support_line: ''
 section: 

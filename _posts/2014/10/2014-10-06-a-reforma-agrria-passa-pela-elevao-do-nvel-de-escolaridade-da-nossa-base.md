@@ -1,24 +1,25 @@
 ---
 layout: post
-title: “A Reforma Agrária passa pela elevação do nível de escolaridade da nossa base”
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+title: "“A Reforma Agrária passa pela elevação do nível de escolaridade da nossa base”"
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: jovens
-  - tag: educação
-  - tag: pedagogia
+- tag: jovens
+- tag: educação
+- tag: pedagogia
 files: []
-type: ""
-support_line: "Em entrevista, Maria de Jesus, do setor de educação do MST, fala sobre as experiências do Movimento."
-section: ""
-hat: ""
+type: ''
+support_line: Em entrevista, Maria de Jesus, do setor de educação do MST, fala sobre
+  as experiências do Movimento.
+section: ''
+hat: ''
 label: interviews
-images_hd: "http://farm6.staticflickr.com/5602/15470222642_3e5c334bc9_b.jpg"
-menu: "educação, cultura e comunicação"
+images_hd: http://farm6.staticflickr.com/5602/15470222642_3e5c334bc9_b.jpg
+menu: educação, cultura e comunicação
 published: true
-date: "2014-10-06T14:15:32-03:00"
+date: '2014-10-06T14:15:32-03:00'
 
 ---
 <p><br />

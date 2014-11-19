@@ -1,24 +1,25 @@
 ---
 layout: post
-title: "Pará: Operação Castanheira combate grilagem de terras e crimes ambientais"
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+title: 'Pará: Operação Castanheira combate grilagem de terras e crimes ambientais'
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Latifundio
-  - tag: Meio-Ambiente
-  - tag: Grilagem
+- tag: Latifundio
+- tag: Meio-Ambiente
+- tag: Grilagem
 files: []
-type: ""
-support_line: Investigações apontaram que a quadrilha agia invadindo terras públicas e realizava desmatamentos e queimadas para formação de pastos.
-section: ""
+type: ''
+support_line: Investigações apontaram que a quadrilha agia invadindo terras públicas
+  e realizava desmatamentos e queimadas para formação de pastos.
+section: ''
 hat: Meio Ambiente
-label: ""
-images_hd: "http://farm4.staticflickr.com/3843/15069840941_4e33968c2e_b.jpg"
+label: ''
+images_hd: http://farm4.staticflickr.com/3843/15069840941_4e33968c2e_b.jpg
 menu: agronegócio
 published: true
-date: "2014-08-28T10:51:56-03:00"
+date: '2014-08-28T10:51:56-03:00'
 
 ---
 <p><em><img alt="" height="390" src="http://farm4.staticflickr.com/3843/15069840941_4e33968c2e_b.jpg" width="660" /><br />

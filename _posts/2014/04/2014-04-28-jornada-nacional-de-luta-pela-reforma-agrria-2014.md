@@ -4,7 +4,7 @@ title: Jornada Nacional de Luta pela Reforma Agrária 2014
 legacy_url: http://www.mst.org.br/node/16019
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/banner_jornadaabril_paginamst3.jpg
 video: ''
-tags: ''
+tags: []
 type: 
 support_line: ''
 section: 

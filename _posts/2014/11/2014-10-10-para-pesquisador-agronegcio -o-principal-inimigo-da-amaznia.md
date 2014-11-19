@@ -1,25 +1,26 @@
 ---
 layout: post
-title: "Para pesquisador, agronegócio é o principal inimigo da Amazônia"
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+title: Para pesquisador, agronegócio é o principal inimigo da Amazônia
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: amazônia
-  - tag: desmatamento
-  - tag: agronegocio
-  - tag: meio-ambiente
+- tag: amazônia
+- tag: desmatamento
+- tag: agronegocio
+- tag: meio-ambiente
 files: []
-type: ""
-support_line: "Para o renomado biólogo Philip Fearnside, o agronegócio é um dos principais \"motores do desmatamento\"."
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm6.staticflickr.com/5611/15573309709_4faebba2b9_b.jpg"
+type: ''
+support_line: Para o renomado biólogo Philip Fearnside, o agronegócio é um dos principais
+  "motores do desmatamento".
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm6.staticflickr.com/5611/15573309709_4faebba2b9_b.jpg
 menu: meio ambiente
 published: true
-date: "2014-10-10T17:18:45-03:00"
+date: '2014-10-10T17:18:45-03:00'
 
 ---
 <p><em>Por Lauro Veiga Filho<br />

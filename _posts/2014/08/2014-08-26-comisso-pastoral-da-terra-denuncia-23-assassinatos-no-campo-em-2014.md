@@ -1,22 +1,23 @@
 ---
 layout: post
 title: Comissão Pastoral da Terra denuncia 23 assassinatos no campo em 2014
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Violência
+- tag: Violência
 files: []
-type: ""
-support_line: "O governo de Mato Grosso criou equipe de trabalho, liderada pela delegacia-geral da Polícia Civil, para apurar quatro mortes neste mês."
-section: ""
+type: ''
+support_line: O governo de Mato Grosso criou equipe de trabalho, liderada pela delegacia-geral
+  da Polícia Civil, para apurar quatro mortes neste mês.
+section: ''
 hat: Direitos Humanos
-label: ""
-images_hd: "http://farm4.staticflickr.com/3881/14856486460_84aeab157a_b.jpg"
+label: ''
+images_hd: http://farm4.staticflickr.com/3881/14856486460_84aeab157a_b.jpg
 menu: direitos humanos
 published: true
-date: "2014-08-26T11:09:55-03:00"
+date: '2014-08-26T11:09:55-03:00'
 
 ---
 <p><br />

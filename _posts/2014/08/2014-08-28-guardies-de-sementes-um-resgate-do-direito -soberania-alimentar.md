@@ -1,23 +1,24 @@
 ---
 layout: post
-title: "Guardiões de sementes, um resgate do direito à soberania alimentar"
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+title: Guardiões de sementes, um resgate do direito à soberania alimentar
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Agricultura
-  - tag: Sementes
+- tag: Agricultura
+- tag: Sementes
 files: []
-type: ""
-support_line: "Em São Paulo, comunidades tradicionais chegam a trocar até 80 tipos de sementes crioulas em feiras."
-section: ""
+type: ''
+support_line: Em São Paulo, comunidades tradicionais chegam a trocar até 80 tipos
+  de sementes crioulas em feiras.
+section: ''
 hat: Agricultura Camponesa
-label: ""
-images_hd: "http://farm6.staticflickr.com/5563/15072486182_28a8e20151_b.jpg"
+label: ''
+images_hd: http://farm6.staticflickr.com/5563/15072486182_28a8e20151_b.jpg
 menu: agricultura camponesa
 published: true
-date: "2014-08-28T10:48:47-03:00"
+date: '2014-08-28T10:48:47-03:00'
 
 ---
 <p><em><img alt="" height="390" src="http://farm6.staticflickr.com/5563/15072486182_28a8e20151_b.jpg" width="660" /><br />

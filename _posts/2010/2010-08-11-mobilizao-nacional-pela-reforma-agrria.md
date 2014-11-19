@@ -4,7 +4,7 @@ title: Mobilização Nacional pela Reforma Agrária
 legacy_url: http://www.mst.org.br/node/10370
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/bone_especial_site2.jpg
 video: ''
-tags: ''
+tags: []
 type: 
 support_line: ''
 section: 

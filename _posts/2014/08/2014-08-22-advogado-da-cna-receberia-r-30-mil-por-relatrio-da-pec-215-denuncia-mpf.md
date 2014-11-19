@@ -1,23 +1,24 @@
 ---
 layout: post
-title: "Advogado da CNA receberia R$ 30 mil por relatório da PEC 215, denuncia MPF"
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+title: Advogado da CNA receberia R$ 30 mil por relatório da PEC 215, denuncia MPF
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: PEC-215
-  - tag: Bancada-Ruralista
+- tag: PEC-215
+- tag: Bancada-Ruralista
 files: []
-type: ""
-support_line: "Segundo as investigações, o líder ruralista Sebastião Prado planejava o pagamento de R$ 30 mil a advogado ligado à CNA."
-section: ""
+type: ''
+support_line: Segundo as investigações, o líder ruralista Sebastião Prado planejava
+  o pagamento de R$ 30 mil a advogado ligado à CNA.
+section: ''
 hat: Indígenas
-label: ""
-images_hd: "http://farm4.staticflickr.com/3846/14996475851_b3d5c01220_b.jpg"
+label: ''
+images_hd: http://farm4.staticflickr.com/3846/14996475851_b3d5c01220_b.jpg
 menu: agronegócio
 published: true
-date: "2014-08-22T11:41:39-03:00"
+date: '2014-08-22T11:41:39-03:00'
 
 ---
 <p><br />

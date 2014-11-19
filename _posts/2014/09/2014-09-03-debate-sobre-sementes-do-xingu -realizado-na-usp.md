@@ -1,22 +1,23 @@
 ---
 layout: post
 title: Debate sobre sementes do Xingu é realizado na USP
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Sementes
+- tag: Sementes
 files: []
-type: ""
-support_line: O evento tem como finalidade estimular trocas de conhecimentos sobre a produção e tecnologia de sementes.
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm6.staticflickr.com/5593/15192272775_fa9951c324_b.jpg"
+type: ''
+support_line: O evento tem como finalidade estimular trocas de conhecimentos sobre
+  a produção e tecnologia de sementes.
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm6.staticflickr.com/5593/15192272775_fa9951c324_b.jpg
 menu: agricultura camponesa
 published: true
-date: "2014-09-03T16:59:56-03:00"
+date: '2014-09-03T16:59:56-03:00'
 
 ---
 <p><br />

@@ -1,22 +1,23 @@
 ---
 layout: post
 title: Eucalipto transgênico pode causar graves danos ao ecossistema
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Agronegócio
+- tag: Agronegócio
 files: []
-type: ""
-support_line: Vale ressaltar que a Convenção de Biodiversidade recomenda cautela com relação ao plantio de transgênicos.
-section: ""
+type: ''
+support_line: Vale ressaltar que a Convenção de Biodiversidade recomenda cautela com
+  relação ao plantio de transgênicos.
+section: ''
 hat: Agronegócio
-label: ""
-images_hd: "http://farm4.staticflickr.com/3911/15021397248_27c8eb3de0_b.jpg"
+label: ''
+images_hd: http://farm4.staticflickr.com/3911/15021397248_27c8eb3de0_b.jpg
 menu: transgênicos
 published: true
-date: "2014-09-05T11:21:41-03:00"
+date: '2014-09-05T11:21:41-03:00'
 
 ---
 <p><br />

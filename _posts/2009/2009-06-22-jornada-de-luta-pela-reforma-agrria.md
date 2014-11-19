@@ -4,7 +4,7 @@ title: 'Jornada de Luta pela Reforma Agrária '
 legacy_url: http://www.mst.org.br/node/87
 images: ''
 video: ''
-tags: ''
+tags: []
 type: 
 support_line: ''
 section: 

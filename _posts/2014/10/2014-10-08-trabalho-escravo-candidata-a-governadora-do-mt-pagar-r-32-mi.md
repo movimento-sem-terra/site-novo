@@ -1,23 +1,24 @@
 ---
 layout: post
-title: "Trabalho escravo: candidata a governadora do MT pagará R$ 3,2 mi"
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+title: 'Trabalho escravo: candidata a governadora do MT pagará R$ 3,2 mi'
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Trabalho-Escravo
-  - tag: Mato-Grosso
+- tag: Trabalho-Escravo
+- tag: Mato-Grosso
 files: []
-type: ""
-support_line: "Em 2010 sete trabalhadores em condições análogas às de escravo foram encontrados numa fazenda da candidata ao governo de MT, Janete Riva (PSD)."
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm4.staticflickr.com/3933/15291760939_ae3e40a061_b.jpg"
+type: ''
+support_line: Em 2010 sete trabalhadores em condições análogas às de escravo foram
+  encontrados numa fazenda da candidata ao governo de MT, Janete Riva (PSD).
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm4.staticflickr.com/3933/15291760939_ae3e40a061_b.jpg
 menu: direitos humanos
 published: true
-date: "2014-10-08T11:43:22-03:00"
+date: '2014-10-08T11:43:22-03:00'
 
 ---
 <p>&nbsp;</p>

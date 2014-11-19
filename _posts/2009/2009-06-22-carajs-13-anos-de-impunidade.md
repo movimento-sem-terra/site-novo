@@ -4,7 +4,7 @@ title: 'CARAJÁS: 13 ANOS DE IMPUNIDADE'
 legacy_url: http://www.mst.org.br/node/105
 images: ''
 video: ''
-tags: ''
+tags: []
 type: 
 support_line: ''
 section: 

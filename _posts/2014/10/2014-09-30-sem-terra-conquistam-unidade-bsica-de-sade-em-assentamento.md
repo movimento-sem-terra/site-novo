@@ -1,24 +1,25 @@
 ---
 layout: post
 title: Sem Terra conquistam Unidade Básica de Saúde em assentamento
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Rio-Grande-do-Sul
-  - tag: Reforma-Agrária
-  - tag: saúde
+- tag: Rio-Grande-do-Sul
+- tag: Reforma-Agrária
+- tag: saúde
 files: []
-type: ""
-support_line: Assentados do MST aliam produção de alimentos saudáveis à luta por saúde básica e dignidade
+type: ''
+support_line: Assentados do MST aliam produção de alimentos saudáveis à luta por saúde
+  básica e dignidade
 section: featured-news
-hat: ""
-label: ""
-images_hd: "http://farm4.staticflickr.com/3930/15274899169_f1d6db91b8_b.jpg"
+hat: ''
+label: ''
+images_hd: http://farm4.staticflickr.com/3930/15274899169_f1d6db91b8_b.jpg
 menu: reforma agrária
 published: true
-date: "2014-09-30T16:12:41-03:00"
+date: '2014-09-30T16:12:41-03:00'
 
 ---
 <p><em><span contenteditable="false" tabindex="-1"><img alt="" data-widget="image" height="367" src="http://farm4.staticflickr.com/3930/15274899169_f1d6db91b8_b.jpg" width="550" /></span><br />

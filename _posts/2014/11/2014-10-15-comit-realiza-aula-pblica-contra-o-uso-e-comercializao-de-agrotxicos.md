@@ -1,24 +1,25 @@
 ---
 layout: post
 title: Comitê realiza aula pública contra o uso e comercialização de agrotóxicos
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: "agrotóxico]"
-  - tag: Pernambuco
-  - tag: agroecologia
+- tag: agrotóxico]
+- tag: Pernambuco
+- tag: agroecologia
 files: []
-type: ""
-support_line: O ato foi organizado pelo Comitê Permanente da Campanha Contra os Agrotóxicos e Pela Vida de Pernambuco.
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm6.staticflickr.com/5616/15759394395_3dd8224dcb_b.jpg"
+type: ''
+support_line: O ato foi organizado pelo Comitê Permanente da Campanha Contra os Agrotóxicos
+  e Pela Vida de Pernambuco.
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm6.staticflickr.com/5616/15759394395_3dd8224dcb_b.jpg
 menu: agronegócio
 published: true
-date: "2014-10-15T17:54:10-03:00"
+date: '2014-10-15T17:54:10-03:00'
 
 ---
 <p><em>Por Monyse Ravenna</em><br />

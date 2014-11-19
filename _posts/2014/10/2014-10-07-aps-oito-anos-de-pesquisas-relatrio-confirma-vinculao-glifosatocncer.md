@@ -1,28 +1,29 @@
 ---
 layout: post
-title: "Após oito anos de pesquisas, relatório confirma vinculação glifosato/câncer"
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+title: Após oito anos de pesquisas, relatório confirma vinculação glifosato/câncer
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: glifosato
-  - tag: agrotóxicos
-  - tag: genética
+- tag: glifosato
+- tag: agrotóxicos
+- tag: genética
 files:
-  - link: "http://farm4.staticflickr.com/3937/15285329658_aca378ab9a_b.jpg"
-    thumbnail: "http://farm4.staticflickr.com/3937/15285329658_aca378ab9a_t.jpg"
-    title: glifosato (1).jpg
-    $$hashKey: 1OO
-type: ""
-support_line: "Após oito anos de pesquisas, o grupo GEMA da UNRC elaborou um relatório no qual confirma a vinculação do glifosato ao câncer."
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm4.staticflickr.com/3937/15285329658_aca378ab9a_b.jpg"
+- link: http://farm4.staticflickr.com/3937/15285329658_aca378ab9a_b.jpg
+  thumbnail: http://farm4.staticflickr.com/3937/15285329658_aca378ab9a_t.jpg
+  title: glifosato (1).jpg
+  "$$hashKey": 1OO
+type: ''
+support_line: Após oito anos de pesquisas, o grupo GEMA da UNRC elaborou um relatório
+  no qual confirma a vinculação do glifosato ao câncer.
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm4.staticflickr.com/3937/15285329658_aca378ab9a_b.jpg
 menu: agronegócio
 published: true
-date: "2014-10-07T14:28:41-03:00"
+date: '2014-10-07T14:28:41-03:00'
 
 ---
 <p>&nbsp;</p>

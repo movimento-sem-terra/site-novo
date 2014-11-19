@@ -1,22 +1,23 @@
 ---
 layout: post
 title: As grandes questões ausentes no debate eleitoral
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Eleições
+- tag: Eleições
 files: []
-type: ""
-support_line: "As grandes questões do campo e dos recursos naturais, que interessam a todo povo, estão ausentes no debate eleitoral."
-section: ""
+type: ''
+support_line: As grandes questões do campo e dos recursos naturais, que interessam
+  a todo povo, estão ausentes no debate eleitoral.
+section: ''
 hat: Meio Ambiente
 label: articles
-images_hd: "http://farm6.staticflickr.com/5551/14930813488_d786c20c7b_b.jpg"
+images_hd: http://farm6.staticflickr.com/5551/14930813488_d786c20c7b_b.jpg
 menu: meio ambiente
 published: true
-date: "2014-09-01T10:02:47-03:00"
+date: '2014-09-01T10:02:47-03:00'
 
 ---
 <p><br />

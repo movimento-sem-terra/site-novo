@@ -1,22 +1,23 @@
 ---
 layout: post
 title: Juízes com auxílio moradia vão condenar pobres sem-teto e sem-terra?
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Poder-Judiciário
+- tag: Poder-Judiciário
 files: []
-type: ""
-support_line: Para esse povo todo nenhum “puxadinho” ou “jeitinho” para construir ou aumentar seus casebres e malocas é permitido.
-section: ""
-hat: ""
+type: ''
+support_line: Para esse povo todo nenhum “puxadinho” ou “jeitinho” para construir
+  ou aumentar seus casebres e malocas é permitido.
+section: ''
+hat: ''
 label: articles
-images_hd: "http://farm4.staticflickr.com/3929/15478274532_8109907e6f_b.jpg"
+images_hd: http://farm4.staticflickr.com/3929/15478274532_8109907e6f_b.jpg
 menu: direitos humanos
 published: true
-date: "2014-10-08T11:39:23-03:00"
+date: '2014-10-08T11:39:23-03:00'
 
 ---
 <p><br />

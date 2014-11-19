@@ -1,24 +1,24 @@
 ---
 layout: post
 title: Sem Terra é eleito deputado federal em SE
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: eleições
-  - tag: Sergipe
-  - tag: Sem-Terra
+- tag: eleições
+- tag: Sergipe
+- tag: Sem-Terra
 files: []
-type: ""
-support_line: "Com 52.959 votos, João Daniel é eleito Deputado Federal pelo PT em Sergipe."
+type: ''
+support_line: Com 52.959 votos, João Daniel é eleito Deputado Federal pelo PT em Sergipe.
 section: featured-news
-hat: ""
-label: ""
-images_hd: "http://farm6.staticflickr.com/5604/15283434039_0e0d5904aa_b.jpg"
+hat: ''
+label: ''
+images_hd: http://farm6.staticflickr.com/5604/15283434039_0e0d5904aa_b.jpg
 menu: reforma agrária
 published: true
-date: "2014-10-06T13:45:41-03:00"
+date: '2014-10-06T13:45:41-03:00'
 
 ---
 <p><span contenteditable="false" tabindex="-1"><img alt="" data-widget="image" height="427" src="http://farm6.staticflickr.com/5604/15283434039_0e0d5904aa_b.jpg" width="640" /></span></p>

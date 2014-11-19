@@ -1,24 +1,25 @@
 ---
 layout: post
 title: Escolas do MST debatem a importância da água nos assentamentos
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: saúde
-  - tag: água
-  - tag: agrotóxicos
+- tag: saúde
+- tag: "água"
+- tag: agrotóxicos
 files: []
-type: ""
-support_line: O MST Semente da Conquista e Paulo Freire realizam a Semana da Água nos assentamentos de Abelardo Luz em Santa Catarina.
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm8.staticflickr.com/7476/15760832622_67e6e1e799_b.jpg"
+type: ''
+support_line: O MST Semente da Conquista e Paulo Freire realizam a Semana da Água
+  nos assentamentos de Abelardo Luz em Santa Catarina.
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm8.staticflickr.com/7476/15760832622_67e6e1e799_b.jpg
 menu: meio ambiente
 published: true
-date: "2014-10-10T17:38:50-03:00"
+date: '2014-10-10T17:38:50-03:00'
 
 ---
 <p><em>Por Juliana Adriano<br />

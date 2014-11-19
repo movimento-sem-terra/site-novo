@@ -1,23 +1,24 @@
 ---
 layout: post
 title: Juventude Sem Terra levanta bandeira da Reforma Agrária em Escola Pública
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Educação
-  - tag: Bahia
+- tag: Educação
+- tag: Bahia
 files: []
-type: ""
-support_line: "A Juventude Sem Terra construiu um espaço de debate e formação de jovens estudantes da rede pública, em Salvador."
+type: ''
+support_line: A Juventude Sem Terra construiu um espaço de debate e formação de jovens
+  estudantes da rede pública, em Salvador.
 section: featured-news
 hat: Educação
-label: ""
-images_hd: "http://farm6.staticflickr.com/5581/14886186867_6d98ec7480_b.jpg"
-menu: "educação, cultura e comunicação"
+label: ''
+images_hd: http://farm6.staticflickr.com/5581/14886186867_6d98ec7480_b.jpg
+menu: educação, cultura e comunicação
 published: true
-date: "2014-08-27T10:32:42-03:00"
+date: '2014-08-27T10:32:42-03:00'
 
 ---
 <p><span contenteditable="false" tabindex="-1"><img alt="" data-widget="image" src="http://farm6.staticflickr.com/5581/14886186867_6d98ec7480_b.jpg" /></span><br />

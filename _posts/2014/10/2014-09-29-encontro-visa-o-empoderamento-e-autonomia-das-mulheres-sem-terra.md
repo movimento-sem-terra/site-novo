@@ -1,24 +1,25 @@
 ---
 layout: post
 title: Encontro visa o empoderamento e autonomia das mulheres Sem Terra
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Bahia
-  - tag: gênero
-  - tag: Reforma-Agrária
+- tag: Bahia
+- tag: gênero
+- tag: Reforma-Agrária
 files: []
-type: ""
-support_line: Nas oficinas as camponesas debatem o protagonismo e a autonomia da mulher Sem Terra
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm4.staticflickr.com/3931/15274820097_09723589d8_b.jpg"
+type: ''
+support_line: Nas oficinas as camponesas debatem o protagonismo e a autonomia da mulher
+  Sem Terra
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm4.staticflickr.com/3931/15274820097_09723589d8_b.jpg
 menu: reforma agrária
 published: true
-date: "2014-09-29T15:34:07-03:00"
+date: '2014-09-29T15:34:07-03:00'
 
 ---
 <p><em><img alt="" height="499" src="http://farm4.staticflickr.com/3931/15274820097_09723589d8_b.jpg" width="600" /><br />

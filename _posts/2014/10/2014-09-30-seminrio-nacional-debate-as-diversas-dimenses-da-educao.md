@@ -1,24 +1,25 @@
 ---
 layout: post
 title: Seminário nacional debate as diversas dimensões da educação
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: educação
-  - tag: Paraná
-  - tag: escolas-itinerantes
+- tag: educação
+- tag: Paraná
+- tag: escolas-itinerantes
 files: []
-type: ""
-support_line: Cerca de 150 educadores de todo o Brasil participaram do seminário no Paraná.
+type: ''
+support_line: Cerca de 150 educadores de todo o Brasil participaram do seminário no
+  Paraná.
 section: featured-news
-hat: ""
-label: ""
-images_hd: "http://farm4.staticflickr.com/3935/15275123598_5b50b1f0f4_b.jpg"
-menu: "educação, cultura e comunicação"
+hat: ''
+label: ''
+images_hd: http://farm4.staticflickr.com/3935/15275123598_5b50b1f0f4_b.jpg
+menu: educação, cultura e comunicação
 published: true
-date: "2014-09-30T16:23:18-03:00"
+date: '2014-09-30T16:23:18-03:00'
 
 ---
 <p><em><img alt="" src="http://farm4.staticflickr.com/3935/15275123598_5b50b1f0f4_b.jpg" /><br />

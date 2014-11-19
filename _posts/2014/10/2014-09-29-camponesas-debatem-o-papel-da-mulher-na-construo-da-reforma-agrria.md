@@ -1,24 +1,25 @@
 ---
 layout: post
 title: Camponesas debatem o papel da mulher na construção da Reforma Agrária
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: reforma-agrária
-  - tag: mulheres
-  - tag: agroecologia
+- tag: reforma-agrária
+- tag: mulheres
+- tag: agroecologia
 files: []
-type: ""
-support_line: "Em encontro, as mulheres definiram que se reunirão uma vez por ano para dar continuidade às discussões, visando o fortalecimento coletivo."
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm4.staticflickr.com/3929/15457434611_6c69ebcdff_b.jpg"
-menu: "educação, cultura e comunicação"
+type: ''
+support_line: Em encontro, as mulheres definiram que se reunirão uma vez por ano para
+  dar continuidade às discussões, visando o fortalecimento coletivo.
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm4.staticflickr.com/3929/15457434611_6c69ebcdff_b.jpg
+menu: educação, cultura e comunicação
 published: true
-date: "2014-09-29T14:07:38-03:00"
+date: '2014-09-29T14:07:38-03:00'
 
 ---
 <h1>&nbsp;</h1>

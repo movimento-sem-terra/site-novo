@@ -1,25 +1,26 @@
 ---
 layout: post
 title: Movimentos sociais discutem os desafios da reforma política
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Brasília
-  - tag: Plebiscito
-  - tag: Constituinte
-  - tag: Reforma-Política
+- tag: Brasília
+- tag: Plebiscito
+- tag: Constituinte
+- tag: Reforma-Política
 files: []
-type: ""
-support_line: Movimentos sociais de todo o país se reuniram  para discutir os desafios da reforma política.
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm4.staticflickr.com/3944/15139393184_b8fcb84f91_b.jpg"
+type: ''
+support_line: Movimentos sociais de todo o país se reuniram  para discutir os desafios
+  da reforma política.
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm4.staticflickr.com/3944/15139393184_b8fcb84f91_b.jpg
 menu: projeto popular
 published: true
-date: "2014-10-14T17:50:33-03:00"
+date: '2014-10-14T17:50:33-03:00'
 
 ---
 <p><em>Da P&aacute;gina do MST</em><br />

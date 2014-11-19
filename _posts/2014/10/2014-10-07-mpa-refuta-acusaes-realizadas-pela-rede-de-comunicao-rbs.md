@@ -1,28 +1,29 @@
 ---
 layout: post
 title: MPA refuta acusações realizadas pela rede de comunicação RBS
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: agricultura
-  - tag: RBS
-  - tag: Pronaf
+- tag: agricultura
+- tag: RBS
+- tag: Pronaf
 files:
-  - link: "http://farm4.staticflickr.com/3952/15448864256_5c0ec56ce1_b.jpg"
-    thumbnail: "http://farm4.staticflickr.com/3952/15448864256_5c0ec56ce1_t.jpg"
-    title: lasier-ana-amelia-rbs-eleicoes-rio-grande-do-sul.gif
-    $$hashKey: 1CN
-type: ""
-support_line: "Em nota, Movimento dos Pequenos Agricultores diz que acusações a supostos desvios de créditos do Pronaf tem intuito “claramente eleitoral”."
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm4.staticflickr.com/3952/15448864256_5c0ec56ce1_b.jpg"
+- link: http://farm4.staticflickr.com/3952/15448864256_5c0ec56ce1_b.jpg
+  thumbnail: http://farm4.staticflickr.com/3952/15448864256_5c0ec56ce1_t.jpg
+  title: lasier-ana-amelia-rbs-eleicoes-rio-grande-do-sul.gif
+  "$$hashKey": 1CN
+type: ''
+support_line: Em nota, Movimento dos Pequenos Agricultores diz que acusações a supostos
+  desvios de créditos do Pronaf tem intuito “claramente eleitoral”.
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm4.staticflickr.com/3952/15448864256_5c0ec56ce1_b.jpg
 menu: agricultura camponesa
 published: true
-date: "2014-10-07T14:24:58-03:00"
+date: '2014-10-07T14:24:58-03:00'
 
 ---
 <p>&nbsp;</p>

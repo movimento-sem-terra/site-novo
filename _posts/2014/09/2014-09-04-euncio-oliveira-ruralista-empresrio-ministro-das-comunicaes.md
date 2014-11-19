@@ -1,23 +1,24 @@
 ---
 layout: post
-title: "Eunício Oliveira: ruralista, empresário, ministro das comunicações"
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+title: 'Eunício Oliveira: ruralista, empresário, ministro das comunicações'
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Eleições
-  - tag: Bancada-Ruralista
+- tag: Eleições
+- tag: Bancada-Ruralista
 files: []
-type: ""
-support_line: O candidato mostra a sua ligação com o campo quando declara que só em imóveis rurais tem mais de R$ 5 milhões de nos estados de Goiás e Ceará.
-section: ""
+type: ''
+support_line: O candidato mostra a sua ligação com o campo quando declara que só em
+  imóveis rurais tem mais de R$ 5 milhões de nos estados de Goiás e Ceará.
+section: ''
 hat: Eleições
-label: ""
-images_hd: "http://farm6.staticflickr.com/5591/15189387921_a3ac630495_b.jpg"
+label: ''
+images_hd: http://farm6.staticflickr.com/5591/15189387921_a3ac630495_b.jpg
 menu: agronegócio
 published: true
-date: "2014-09-04T17:17:40-03:00"
+date: '2014-09-04T17:17:40-03:00'
 
 ---
 <p><br />

@@ -1,23 +1,24 @@
 ---
 layout: post
 title: Veracel Celulose é acusada de tentar expulsar posseiro de sua terra
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Veracel
-  - tag: Bahia
+- tag: Veracel
+- tag: Bahia
 files: []
-type: ""
-support_line: Em agosto de 1994 os dois posseiros já tinham sido expulsos de suas terras por homens armados que diziam estar a serviço da Veracruz.
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm3.staticflickr.com/2949/15226826708_de839fe434_b.jpg"
+type: ''
+support_line: Em agosto de 1994 os dois posseiros já tinham sido expulsos de suas
+  terras por homens armados que diziam estar a serviço da Veracruz.
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm3.staticflickr.com/2949/15226826708_de839fe434_b.jpg
 menu: agronegócio
 published: true
-date: "2014-09-18T16:10:26-03:00"
+date: '2014-09-18T16:10:26-03:00'
 
 ---
 <figure class="image"><img alt="" height="381" src="http://farm3.staticflickr.com/2949/15226826708_de839fe434_b.jpg" width="650" />

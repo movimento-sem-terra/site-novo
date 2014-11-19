@@ -1,24 +1,25 @@
 ---
 layout: post
 title: Movimentos sociais e a educação do campo perdem um grande militante
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: homenagem
-  - tag: Tocantins
-  - tag: Professor-Flávio-Moreira
+- tag: homenagem
+- tag: Tocantins
+- tag: Professor-Flávio-Moreira
 files: []
-type: ""
-support_line: Flavio Moreira procurou desenvolver um trabalho pedagógico que superasse as barreiras do tradicionalismo conservador
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm4.staticflickr.com/3929/15274471260_67f0003901_b.jpg"
+type: ''
+support_line: Flavio Moreira procurou desenvolver um trabalho pedagógico que superasse
+  as barreiras do tradicionalismo conservador
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm4.staticflickr.com/3929/15274471260_67f0003901_b.jpg
 menu: lutadores-do-povo
 published: true
-date: "2014-09-29T15:05:01-03:00"
+date: '2014-09-29T15:05:01-03:00'
 
 ---
 <p><br />

@@ -1,22 +1,22 @@
 ---
 layout: post
 title: Movimentos expressam linha política para o segundo turno da eleição presidencial
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Eleições
+- tag: Eleições
 files: []
-type: ""
-support_line: "\"O momento histórico não permite vacilações. É preciso derrotar o neoliberalismo.\""
+type: ''
+support_line: '"O momento histórico não permite vacilações. É preciso derrotar o neoliberalismo."'
 section: cover
-hat: ""
+hat: ''
 label: articles
-images_hd: "http://farm4.staticflickr.com/3948/15285292888_b0213b66d6_b.jpg"
+images_hd: http://farm4.staticflickr.com/3948/15285292888_b0213b66d6_b.jpg
 menu: projeto popular
 published: true
-date: "2014-10-07T16:58:35-03:00"
+date: '2014-10-07T16:58:35-03:00'
 
 ---
 <p><br />

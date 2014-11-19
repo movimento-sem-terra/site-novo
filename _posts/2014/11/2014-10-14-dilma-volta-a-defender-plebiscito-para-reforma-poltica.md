@@ -1,24 +1,25 @@
 ---
 layout: post
 title: Dilma volta a defender Plebiscito para Reforma Política
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: plebiscito
-  - tag: Constituinte
-  - tag: reforma-política
+- tag: plebiscito
+- tag: Constituinte
+- tag: reforma-política
 files: []
-type: ""
-support_line: A presidenta da República se disse favorável à realização de uma Constituinte para promover a reforma política no país.
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm4.staticflickr.com/3947/15757370421_77fcd09272_b.jpg"
+type: ''
+support_line: A presidenta da República se disse favorável à realização de uma Constituinte
+  para promover a reforma política no país.
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm4.staticflickr.com/3947/15757370421_77fcd09272_b.jpg
 menu: projeto popular
 published: true
-date: "2014-10-14T17:36:09-03:00"
+date: '2014-10-14T17:36:09-03:00'
 
 ---
 <p><em>Por Pedro Rafael&nbsp;</em></p>

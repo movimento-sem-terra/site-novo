@@ -1,23 +1,24 @@
 ---
 layout: post
-title: "No México, desapropriação de comunidades para o agronegócio"
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+title: No México, desapropriação de comunidades para o agronegócio
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: México
-  - tag: Questão-Agrária
+- tag: México
+- tag: Questão-Agrária
 files: []
-type: ""
-support_line: "O que está em jogo com relação ao cam­po é a imposição de um modelo que contribui para o aquecimento, prejudica a sociedade e impedi uma alternativa."
-section: ""
-hat: ""
+type: ''
+support_line: O que está em jogo com relação ao cam­po é a imposição de um modelo
+  que contribui para o aquecimento, prejudica a sociedade e impedi uma alternativa.
+section: ''
+hat: ''
 label: articles
-images_hd: "http://farm4.staticflickr.com/3927/15243643438_3c9cd055e3_b.jpg"
+images_hd: http://farm4.staticflickr.com/3927/15243643438_3c9cd055e3_b.jpg
 menu: agronegócio
 published: true
-date: "2014-09-25T14:54:09-03:00"
+date: '2014-09-25T14:54:09-03:00'
 
 ---
 <p><br />

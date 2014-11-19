@@ -4,7 +4,7 @@ title: Campanha Pela Demarcação das Terras Indígenas
 legacy_url: http://www.mst.org.br/node/84
 images: ''
 video: ''
-tags: ''
+tags: []
 type: 
 support_line: ''
 section: 

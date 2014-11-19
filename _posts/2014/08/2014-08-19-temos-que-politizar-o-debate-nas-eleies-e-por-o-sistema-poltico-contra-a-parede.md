@@ -1,22 +1,24 @@
 ---
 layout: post
-title: "\"Temos que politizar o debate nas eleições e por o sistema político contra a parede\""
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+title: '"Temos que politizar o debate nas eleições e por o sistema político contra
+  a parede"'
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Eleições
+- tag: Eleições
 files: []
-type: ""
-support_line: "Para membro do MST, os movimentos devem politizar o debate com a sociedade e mostrar os problemas estruturais do país."
-section: null
-hat: ""
+type: ''
+support_line: Para membro do MST, os movimentos devem politizar o debate com a sociedade
+  e mostrar os problemas estruturais do país.
+section: 
+hat: ''
 label: interviews
-images_hd: "http://farm4.staticflickr.com/3880/14948119386_6dc781e615_b.jpg"
+images_hd: http://farm4.staticflickr.com/3880/14948119386_6dc781e615_b.jpg
 menu: projeto popular
 published: true
-date: "2014-08-19T13:32:31-03:00"
+date: '2014-08-19T13:32:31-03:00'
 
 ---
 <p><em>Por Jos&eacute; Coutinho J&uacute;nior<br />

@@ -1,23 +1,24 @@
 ---
 layout: post
 title: Encontro de educadores do campo comemora os 30 anos do MST
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Educação
-  - tag: Espírito-Santo
+- tag: Educação
+- tag: Espírito-Santo
 files: []
-type: ""
-support_line: Cerca de 200 educadoras e educadores dos assentamentos e acampamentos do Espírito Santo se reuniram no 26º Encontro Estadual.
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm4.staticflickr.com/3930/15226991828_6df4d323fa_b.jpg"
-menu: "educação, cultura e comunicação"
+type: ''
+support_line: Cerca de 200 educadoras e educadores dos assentamentos e acampamentos
+  do Espírito Santo se reuniram no 26º Encontro Estadual.
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm4.staticflickr.com/3930/15226991828_6df4d323fa_b.jpg
+menu: educação, cultura e comunicação
 published: true
-date: "2014-09-22T16:31:50-03:00"
+date: '2014-09-22T16:31:50-03:00'
 
 ---
 <p>&nbsp;</p>

@@ -1,22 +1,23 @@
 ---
 layout: post
-title: "Ricardo Gebrim: “Nova política” não passa de demagogia sem Constituinte"
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+title: 'Ricardo Gebrim: “Nova política” não passa de demagogia sem Constituinte'
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Plebiscito-Constituinte
+- tag: Plebiscito-Constituinte
 files: []
-type: ""
-support_line: "Para o coordenador da campanha, é impossível ter uma “nova política” dentro do velho sistema político."
-section: ""
+type: ''
+support_line: Para o coordenador da campanha, é impossível ter uma “nova política”
+  dentro do velho sistema político.
+section: ''
 hat: Plebiscito
 label: interviews
-images_hd: "http://farm4.staticflickr.com/3873/15005795138_90475cf1a1_b.jpg"
+images_hd: http://farm4.staticflickr.com/3873/15005795138_90475cf1a1_b.jpg
 menu: projeto popular
 published: true
-date: "2014-09-04T17:11:47-03:00"
+date: '2014-09-04T17:11:47-03:00'
 
 ---
 <p><br />

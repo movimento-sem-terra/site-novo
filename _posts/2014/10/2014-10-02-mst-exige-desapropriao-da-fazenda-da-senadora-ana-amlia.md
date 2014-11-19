@@ -1,24 +1,25 @@
 ---
 layout: post
 title: MST exige desapropriação da fazenda da senadora Ana Amélia
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: reforma-agrária
-  - tag: latifundio
-  - tag: Ana-Amélia-Lemos
+- tag: reforma-agrária
+- tag: latifundio
+- tag: Ana-Amélia-Lemos
 files: []
-type: ""
-support_line: "Na região, existem diversos assentamentos e acampamentos a espera da desapropriação de novas terras."
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm4.staticflickr.com/3931/15462368695_3013446357_b.jpg"
+type: ''
+support_line: Na região, existem diversos assentamentos e acampamentos a espera da
+  desapropriação de novas terras.
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm4.staticflickr.com/3931/15462368695_3013446357_b.jpg
 menu: agronegócio
 published: true
-date: "2014-10-02T17:31:15-03:00"
+date: '2014-10-02T17:31:15-03:00'
 
 ---
 <p><em><img alt="" height="450" src="http://farm4.staticflickr.com/3931/15462368695_3013446357_b.jpg" width="600" /><br />

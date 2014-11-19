@@ -1,23 +1,24 @@
 ---
 layout: post
 title: Marcha contra genocídio negro mobiliza trabalhadores do campo e cidade
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Mobilização
-  - tag: Bahia
+- tag: Mobilização
+- tag: Bahia
 files: []
-type: ""
-support_line: "Reunindo trabalhadores do campo e da cidade, a marcha na capital Salvador protagonizou a luta contra o racismo."
-section: ""
+type: ''
+support_line: Reunindo trabalhadores do campo e da cidade, a marcha na capital Salvador
+  protagonizou a luta contra o racismo.
+section: ''
 hat: Luta
-label: ""
-images_hd: "http://farm4.staticflickr.com/3912/14856505608_dd205be5f0_b.jpg"
+label: ''
+images_hd: http://farm4.staticflickr.com/3912/14856505608_dd205be5f0_b.jpg
 menu: lutas e mobilizações
 published: true
-date: "2014-08-26T11:05:46-03:00"
+date: '2014-08-26T11:05:46-03:00'
 
 ---
 <p><img alt="" height="382" src="http://farm4.staticflickr.com/3912/14856505608_dd205be5f0_b.jpg" width="600" /><br />

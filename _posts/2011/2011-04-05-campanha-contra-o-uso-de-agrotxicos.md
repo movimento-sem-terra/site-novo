@@ -4,7 +4,7 @@ title: Campanha contra o uso de agrotóxicos
 legacy_url: http://www.mst.org.br/node/11494
 images: ''
 video: ''
-tags: ''
+tags: []
 type: 
 support_line: ''
 section: 

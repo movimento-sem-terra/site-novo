@@ -1,27 +1,28 @@
 ---
 layout: post
-title: "Fome: o ingênuo otimismo da ONU"
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+title: 'Fome: o ingênuo otimismo da ONU'
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: fome
-  - tag: agronegócio
+- tag: fome
+- tag: agronegócio
 files:
-  - link: "http://farm3.staticflickr.com/2947/15285483728_f99c0c755d_b.jpg"
-    thumbnail: "http://farm3.staticflickr.com/2947/15285483728_f99c0c755d_t.jpg"
-    title: portinari.jpg
-    $$hashKey: "043"
-type: ""
-support_line: "Jean Ziegler, considerado um dos maiores especialistas no assunto, questiona dados sobre desnutrição."
-section: ""
-hat: ""
+- link: http://farm3.staticflickr.com/2947/15285483728_f99c0c755d_b.jpg
+  thumbnail: http://farm3.staticflickr.com/2947/15285483728_f99c0c755d_t.jpg
+  title: portinari.jpg
+  "$$hashKey": '043'
+type: ''
+support_line: Jean Ziegler, considerado um dos maiores especialistas no assunto, questiona
+  dados sobre desnutrição.
+section: ''
+hat: ''
 label: articles
-images_hd: "http://farm3.staticflickr.com/2947/15285483728_f99c0c755d_b.jpg"
+images_hd: http://farm3.staticflickr.com/2947/15285483728_f99c0c755d_b.jpg
 menu: agronegócio
 published: true
-date: "2014-09-29T16:08:54-03:00"
+date: '2014-09-29T16:08:54-03:00'
 
 ---
 <p>&nbsp;</p>

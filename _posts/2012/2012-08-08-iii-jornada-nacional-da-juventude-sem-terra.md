@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/13719
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/banner
   III jornada juventude cópia.jpg
 video: ''
-tags: ''
+tags: []
 type: 
 support_line: ''
 section: 

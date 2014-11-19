@@ -4,7 +4,7 @@ title: Jornada de Lutas da Via Campesina
 legacy_url: http://www.mst.org.br/node/12298
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/jornadadeagosto_site1.jpg
 video: ''
-tags: ''
+tags: []
 type: 
 support_line: ''
 section: 

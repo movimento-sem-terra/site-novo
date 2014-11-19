@@ -4,7 +4,7 @@ title: 'Massacre de Felisburgo: após 5 anos, a conquista da terra '
 legacy_url: http://www.mst.org.br/node/8639
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/banner_site.jpg
 video: ''
-tags: ''
+tags: []
 type: 
 support_line: ''
 section: 

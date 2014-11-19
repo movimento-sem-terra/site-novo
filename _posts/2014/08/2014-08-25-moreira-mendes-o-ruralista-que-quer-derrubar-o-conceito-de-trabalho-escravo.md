@@ -1,23 +1,24 @@
 ---
 layout: post
-title: "Moreira Mendes, o ruralista que quer derrubar o conceito de trabalho escravo"
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+title: Moreira Mendes, o ruralista que quer derrubar o conceito de trabalho escravo
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Eleições
-  - tag: Bancada-Ruralista
+- tag: Eleições
+- tag: Bancada-Ruralista
 files: []
-type: ""
-support_line: A Página do MST inicia uma série de reportagens com informações sobre os candidatos da bancada ruralista que buscam se reeleger.
+type: ''
+support_line: A Página do MST inicia uma série de reportagens com informações sobre
+  os candidatos da bancada ruralista que buscam se reeleger.
 section: cover
 hat: Eleições
-label: ""
-images_hd: "http://farm6.staticflickr.com/5579/15035515832_74d4e615c1_b.jpg"
+label: ''
+images_hd: http://farm6.staticflickr.com/5579/15035515832_74d4e615c1_b.jpg
 menu: agronegócio
 published: true
-date: "2014-08-25T17:45:46-03:00"
+date: '2014-08-25T17:45:46-03:00'
 
 ---
 <p><em><img alt="" height="350" src="http://farm6.staticflickr.com/5579/15035515832_74d4e615c1_b.jpg" width="600" /><br />

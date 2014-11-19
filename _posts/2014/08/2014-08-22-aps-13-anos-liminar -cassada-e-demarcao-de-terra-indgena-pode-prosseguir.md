@@ -1,22 +1,23 @@
 ---
 layout: post
-title: "Após 13 anos, liminar é cassada e demarcação de terra indígena prossegue"
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+title: Após 13 anos, liminar é cassada e demarcação de terra indígena prossegue
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Indígenas
+- tag: Indígenas
 files: []
-type: ""
-support_line: "Medida liminar, que deveria ser provisória, paralisou homologação de área por mais de uma década."
-section: ""
+type: ''
+support_line: Medida liminar, que deveria ser provisória, paralisou homologação de
+  área por mais de uma década.
+section: ''
 hat: Vitória
-label: ""
-images_hd: "http://farm4.staticflickr.com/3910/14814573517_93e53f36d8_b.jpg"
+label: ''
+images_hd: http://farm4.staticflickr.com/3910/14814573517_93e53f36d8_b.jpg
 menu: agronegócio
 published: true
-date: "2014-08-22T14:41:52-03:00"
+date: '2014-08-22T14:41:52-03:00'
 
 ---
 <p><br />

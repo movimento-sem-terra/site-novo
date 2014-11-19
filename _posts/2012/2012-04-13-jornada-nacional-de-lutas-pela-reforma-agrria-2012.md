@@ -4,7 +4,7 @@ title: Jornada Nacional de Lutas pela Reforma Agrária 2012
 legacy_url: http://www.mst.org.br/node/13148
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/banner!!.jpg
 video: ''
-tags: ''
+tags: []
 type: 
 support_line: ''
 section: 

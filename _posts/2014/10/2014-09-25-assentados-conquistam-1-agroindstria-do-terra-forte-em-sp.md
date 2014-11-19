@@ -1,24 +1,25 @@
 ---
 layout: post
 title: Assentados conquistam 1° agroindústria do Terra Forte em SP
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: São-Paulo
-  - tag: Produção
-  - tag: Agricultura-Camponesa
+- tag: São-Paulo
+- tag: Produção
+- tag: Agricultura-Camponesa
 files: []
-type: ""
-support_line: "Atualmente, os assentamentos da região produzem 100 mil litros de leite por dia."
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm4.staticflickr.com/3927/15243585288_b72ef2ac2d_b.jpg"
+type: ''
+support_line: Atualmente, os assentamentos da região produzem 100 mil litros de leite
+  por dia.
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm4.staticflickr.com/3927/15243585288_b72ef2ac2d_b.jpg
 menu: reforma agrária
 published: true
-date: "2014-09-25T14:46:46-03:00"
+date: '2014-09-25T14:46:46-03:00'
 
 ---
 <p><br />

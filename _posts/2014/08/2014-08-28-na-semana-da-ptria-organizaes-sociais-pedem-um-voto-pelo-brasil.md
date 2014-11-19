@@ -1,22 +1,23 @@
 ---
 layout: post
-title: "Na Semana da Pátria, organizações sociais pedem um voto pelo Brasil"
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+title: Na Semana da Pátria, organizações sociais pedem um voto pelo Brasil
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Plebiscito-Constituinte
+- tag: Plebiscito-Constituinte
 files: []
-type: ""
-support_line: "De 1 a 7 de setembro, no meio da campanha eleitoral, organizações sociais coletam votos pela Reforma Política."
-section: ""
+type: ''
+support_line: De 1 a 7 de setembro, no meio da campanha eleitoral, organizações sociais
+  coletam votos pela Reforma Política.
+section: ''
 hat: Plebiscito Constituinte
-label: ""
-images_hd: "http://farm6.staticflickr.com/5555/14886060320_9d887ba159_b.jpg"
+label: ''
+images_hd: http://farm6.staticflickr.com/5555/14886060320_9d887ba159_b.jpg
 menu: projeto popular
 published: true
-date: "2014-08-28T10:30:42-03:00"
+date: '2014-08-28T10:30:42-03:00'
 
 ---
 <p><em><img alt="" height="590" src="http://farm6.staticflickr.com/5555/14886060320_9d887ba159_b.jpg" width="600" /><br />

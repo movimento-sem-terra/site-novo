@@ -1,23 +1,24 @@
 ---
 layout: post
-title: "Como Serra em 2010, Aécio não assina compromisso contra trabalho escravo"
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+title: Como Serra em 2010, Aécio não assina compromisso contra trabalho escravo
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Trabalho-Escravo
-  - tag: Eleições
+- tag: Trabalho-Escravo
+- tag: Eleições
 files: []
-type: ""
-support_line: Contag e CPT entendem que postura reforça conexão de tucano com setor retrógrado do empresariado.
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm3.staticflickr.com/2945/15480129152_996434f9f6_b.jpg"
+type: ''
+support_line: Contag e CPT entendem que postura reforça conexão de tucano com setor
+  retrógrado do empresariado.
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm3.staticflickr.com/2945/15480129152_996434f9f6_b.jpg
 menu: direitos humanos
 published: true
-date: "2014-10-08T15:32:29-03:00"
+date: '2014-10-08T15:32:29-03:00'
 
 ---
 <p><br />

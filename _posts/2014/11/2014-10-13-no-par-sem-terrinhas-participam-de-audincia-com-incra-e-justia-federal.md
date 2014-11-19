@@ -1,23 +1,24 @@
 ---
 layout: post
-title: "No Pará, Sem Terrinhas participam de audiência com Incra e Justiça Federal"
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+title: No Pará, Sem Terrinhas participam de audiência com Incra e Justiça Federal
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Jornada-de-Lutas-Sem-Terrinha-2014
-  - tag: Pará
+- tag: Jornada-de-Lutas-Sem-Terrinha-2014
+- tag: Pará
 files: []
-type: ""
-support_line: Cerca de 350 crianças realizaram uma marcha e participaram de audiência com o Incra e a Justiça Federal.
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm8.staticflickr.com/7545/15574508550_4dc90c1351_b.jpg"
+type: ''
+support_line: Cerca de 350 crianças realizaram uma marcha e participaram de audiência
+  com o Incra e a Justiça Federal.
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm8.staticflickr.com/7545/15574508550_4dc90c1351_b.jpg
 menu: lutas e mobilizações
 published: true
-date: "2014-10-13T17:35:06-03:00"
+date: '2014-10-13T17:35:06-03:00'
 
 ---
 <p><br />

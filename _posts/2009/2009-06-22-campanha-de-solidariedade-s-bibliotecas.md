@@ -4,7 +4,7 @@ title: Campanha de Solidariedade às Bibliotecas
 legacy_url: http://www.mst.org.br/node/89
 images: ''
 video: ''
-tags: ''
+tags: []
 type: 
 support_line: ''
 section: 

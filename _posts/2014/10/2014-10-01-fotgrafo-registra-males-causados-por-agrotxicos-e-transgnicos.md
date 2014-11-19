@@ -1,24 +1,25 @@
 ---
 layout: post
 title: Fotógrafo registra males causados por agrotóxicos e transgênicos
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: fotografia
-  - tag: agrotóxicos
-  - tag: transgênicos
+- tag: fotografia
+- tag: agrotóxicos
+- tag: transgênicos
 files: []
-type: ""
-support_line: "Durante quase três anos, Álvaro Ybarra Zavala, fotógrafo espanhol, fotografou a indústria alimentar questionando seus excessos."
-section: ""
-hat: ""
+type: ''
+support_line: Durante quase três anos, Álvaro Ybarra Zavala, fotógrafo espanhol, fotografou
+  a indústria alimentar questionando seus excessos.
+section: ''
+hat: ''
 label: interviews
-images_hd: "http://farm3.staticflickr.com/2950/15458813911_a7e4a9b09c_b.jpg"
+images_hd: http://farm3.staticflickr.com/2950/15458813911_a7e4a9b09c_b.jpg
 menu: direitos humanos
 published: true
-date: "2014-10-01T16:45:22-03:00"
+date: '2014-10-01T16:45:22-03:00'
 
 ---
 <p><em><span contenteditable="false" tabindex="-1"><img alt="" data-widget="image" height="254" src="http://farm3.staticflickr.com/2950/15458813911_a7e4a9b09c_b.jpg" width="600" /></span><br />

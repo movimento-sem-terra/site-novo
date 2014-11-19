@@ -1,22 +1,23 @@
 ---
 layout: post
-title: "Frei Betto: “É urgente a reforma política”"
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+title: 'Frei Betto: “É urgente a reforma política”'
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Constituinte
+- tag: Constituinte
 files: []
-type: ""
-support_line: "Segundo ele, o plebiscito popular sinaliza aos futuros governantes um anseio e uma proposta da população."
-section: ""
-hat: ""
+type: ''
+support_line: Segundo ele, o plebiscito popular sinaliza aos futuros governantes um
+  anseio e uma proposta da população.
+section: ''
+hat: ''
 label: interviews
-images_hd: "http://farm3.staticflickr.com/2948/15226855198_040f924ce0_b.jpg"
+images_hd: http://farm3.staticflickr.com/2948/15226855198_040f924ce0_b.jpg
 menu: projeto popular
 published: true
-date: "2014-09-19T16:14:35-03:00"
+date: '2014-09-19T16:14:35-03:00'
 
 ---
 <p><img alt="" src="http://farm3.staticflickr.com/2948/15226855198_040f924ce0_b.jpg" /><br />

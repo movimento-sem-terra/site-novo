@@ -1,22 +1,23 @@
 ---
 layout: post
-title: "Resultado do plebiscito será divulgado ao vivo, às 14h desta quarta-feira"
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+title: Resultado do plebiscito será divulgado ao vivo, às 14h desta quarta-feira
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Plebiscito-Constituinte
+- tag: Plebiscito-Constituinte
 files: []
-type: ""
-support_line: "João Paulo Rodrigues, do MST, e Vagner Freitas, da CUT, irão compor a mesa, marcada para as 14h no Sindicato dos Jornalistas de SP."
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm4.staticflickr.com/3931/15227134027_594071377c_b.jpg"
+type: ''
+support_line: João Paulo Rodrigues, do MST, e Vagner Freitas, da CUT, irão compor
+  a mesa, marcada para as 14h no Sindicato dos Jornalistas de SP.
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm4.staticflickr.com/3931/15227134027_594071377c_b.jpg
 menu: projeto popular
 published: true
-date: "2014-09-23T16:43:40-03:00"
+date: '2014-09-23T16:43:40-03:00'
 
 ---
 <p>&nbsp;</p>

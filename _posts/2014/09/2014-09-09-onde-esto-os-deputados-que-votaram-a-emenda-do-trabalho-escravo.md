@@ -1,23 +1,24 @@
 ---
 layout: post
 title: Onde estão os deputados que votaram a emenda do trabalho escravo?
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Trabalho-Escravo
-  - tag: Bancada-Ruralista
+- tag: Trabalho-Escravo
+- tag: Bancada-Ruralista
 files: []
-type: ""
-support_line: "Levantamento mostra que 85% dos parlamentares que votaram a PEC em 2012 são candidatos nas eleições deste ano. Relembre como cada um se posicionou."
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm6.staticflickr.com/5561/15185123286_60e340cbbf_b.jpg"
+type: ''
+support_line: Levantamento mostra que 85% dos parlamentares que votaram a PEC em 2012
+  são candidatos nas eleições deste ano. Relembre como cada um se posicionou.
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm6.staticflickr.com/5561/15185123286_60e340cbbf_b.jpg
 menu: direitos humanos
 published: true
-date: "2014-09-09T11:44:55-03:00"
+date: '2014-09-09T11:44:55-03:00'
 
 ---
 <p><br />

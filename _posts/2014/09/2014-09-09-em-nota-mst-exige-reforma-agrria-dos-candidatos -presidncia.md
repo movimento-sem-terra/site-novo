@@ -1,22 +1,23 @@
 ---
 layout: post
-title: "Em nota, MST exige Reforma Agrária dos candidatos à Presidência"
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+title: Em nota, MST exige Reforma Agrária dos candidatos à Presidência
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Eleições
+- tag: Eleições
 files: []
-type: ""
-support_line: "Movimento analisa a situação dos camponeses, Sem Terra e exige mudanças econômicas e sociais."
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm4.staticflickr.com/3862/15005549880_25bcb6ae42_b.jpg"
+type: ''
+support_line: Movimento analisa a situação dos camponeses, Sem Terra e exige mudanças
+  econômicas e sociais.
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm4.staticflickr.com/3862/15005549880_25bcb6ae42_b.jpg
 menu: reforma agrária
 published: true
-date: "2014-09-02T16:53:23-03:00"
+date: '2014-09-02T16:53:23-03:00'
 
 ---
 <p><br />

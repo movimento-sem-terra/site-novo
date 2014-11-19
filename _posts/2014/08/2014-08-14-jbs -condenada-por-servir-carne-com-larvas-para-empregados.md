@@ -1,24 +1,26 @@
 ---
 layout: post
 title: JBS é condenada por servir carne com larvas para empregados
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: JBS
-  - tag: Friboi
-  - tag: Direitos-Trabalhistas
+- tag: JBS
+- tag: Friboi
+- tag: Direitos-Trabalhistas
 files: []
-type: ""
-support_line: "Maior produtora de carne do planeta é condenada em segunda instância em duas ações por infrações sistemáticas, incluindo desrespeito a jornadas e assédio moral."
-section: ""
+type: ''
+support_line: Maior produtora de carne do planeta é condenada em segunda instância
+  em duas ações por infrações sistemáticas, incluindo desrespeito a jornadas e assédio
+  moral.
+section: ''
 hat: Agronegócio
-label: ""
-images_hd: "http://farm4.staticflickr.com/3882/14916240041_0ea9ebc45e_b.jpg"
+label: ''
+images_hd: http://farm4.staticflickr.com/3882/14916240041_0ea9ebc45e_b.jpg
 menu: agronegócio
 published: true
-date: "2014-08-14T16:38:21-03:00"
+date: '2014-08-14T16:38:21-03:00'
 
 ---
 <p><em>Por Daniel Santini e Stefano Wrobleski<br />

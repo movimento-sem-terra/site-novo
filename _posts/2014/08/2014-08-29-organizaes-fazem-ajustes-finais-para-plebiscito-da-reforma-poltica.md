@@ -1,22 +1,23 @@
 ---
 layout: post
 title: Organizações fazem ajustes finais para plebiscito da reforma política
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Plebiscito-Constituinte
+- tag: Plebiscito-Constituinte
 files: []
-type: ""
-support_line: Expectativa de 400 entidades é de conseguir aproximadamente 10 milhões de votos na consulta em apoio à mudança no atual sistema político-eleitoral.
+type: ''
+support_line: Expectativa de 400 entidades é de conseguir aproximadamente 10 milhões
+  de votos na consulta em apoio à mudança no atual sistema político-eleitoral.
 section: cover
 hat: Plebiscito Constituinte
-label: ""
-images_hd: "http://farm4.staticflickr.com/3855/14886273500_1c08faa2fd_b.jpg"
+label: ''
+images_hd: http://farm4.staticflickr.com/3855/14886273500_1c08faa2fd_b.jpg
 menu: projeto popular
 published: true
-date: "2014-08-29T10:57:15-03:00"
+date: '2014-08-29T10:57:15-03:00'
 
 ---
 <p><br />

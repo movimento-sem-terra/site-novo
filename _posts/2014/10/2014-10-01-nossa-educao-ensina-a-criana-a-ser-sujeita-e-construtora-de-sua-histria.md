@@ -1,24 +1,25 @@
 ---
 layout: post
-title: "\"Nossa educação ensina a criança a ser sujeita e construtora de sua história\""
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+title: '"Nossa educação ensina a criança a ser sujeita e construtora de sua história"'
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: educação
-  - tag: jornada-sem-terrinha
-  - tag: crianças
+- tag: educação
+- tag: jornada-sem-terrinha
+- tag: crianças
 files: []
-type: ""
-support_line: "Márcia Ramos, do setor de educação, relata a experiência do MST com as crianças ao longo desses 30 anos"
-section: ""
-hat: ""
+type: ''
+support_line: Márcia Ramos, do setor de educação, relata a experiência do MST com
+  as crianças ao longo desses 30 anos
+section: ''
+hat: ''
 label: interviews
-images_hd: "http://farm4.staticflickr.com/3932/15439069056_aefc816029_b.jpg"
-menu: "educação, cultura e comunicação"
+images_hd: http://farm4.staticflickr.com/3932/15439069056_aefc816029_b.jpg
+menu: educação, cultura e comunicação
 published: true
-date: "2014-10-01T17:08:41-03:00"
+date: '2014-10-01T17:08:41-03:00'
 
 ---
 <h1>&nbsp;</h1>

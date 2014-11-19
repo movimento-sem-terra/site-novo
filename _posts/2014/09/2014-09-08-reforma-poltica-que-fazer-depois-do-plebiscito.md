@@ -1,22 +1,23 @@
 ---
 layout: post
-title: "Reforma Política: que fazer, depois do plebiscito?"
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+title: 'Reforma Política: que fazer, depois do plebiscito?'
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Plebiscito-Constituinte
+- tag: Plebiscito-Constituinte
 files: []
-type: ""
-support_line: O historiador José Antonio Moroni vê a consulta desta semana como um ponto de virada.
-section: ""
-hat: ""
+type: ''
+support_line: O historiador José Antonio Moroni vê a consulta desta semana como um
+  ponto de virada.
+section: ''
+hat: ''
 label: interviews
-images_hd: "http://farm4.staticflickr.com/3873/15205043611_92e8dfe221_b.jpg"
+images_hd: http://farm4.staticflickr.com/3873/15205043611_92e8dfe221_b.jpg
 menu: projeto popular
 published: true
-date: "2014-09-08T11:38:32-03:00"
+date: '2014-09-08T11:38:32-03:00'
 
 ---
 <p><br />

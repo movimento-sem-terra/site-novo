@@ -1,24 +1,25 @@
 ---
 layout: post
-title: "Em Aracaju, centenas de pessoas participam do Grito dos Excluídos"
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+title: Em Aracaju, centenas de pessoas participam do Grito dos Excluídos
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Grito-dos-Excluídos
-  - tag: Projeto-Popular
-  - tag: Sergipe
+- tag: Grito-dos-Excluídos
+- tag: Projeto-Popular
+- tag: Sergipe
 files: []
-type: ""
-support_line: O tema do Plebiscito Popular por uma Constituinte Exclusiva e Soberana do Sistema Político foi o grande mote do Grito deste ano.
-section: ""
+type: ''
+support_line: O tema do Plebiscito Popular por uma Constituinte Exclusiva e Soberana
+  do Sistema Político foi o grande mote do Grito deste ano.
+section: ''
 hat: Lutas
-label: ""
-images_hd: "http://farm4.staticflickr.com/3863/15021310850_29d28274d7_b.jpg"
+label: ''
+images_hd: http://farm4.staticflickr.com/3863/15021310850_29d28274d7_b.jpg
 menu: lutas e mobilizações
 published: true
-date: "2014-09-08T11:25:17-03:00"
+date: '2014-09-08T11:25:17-03:00'
 
 ---
 <p><img alt="" height="366" src="http://farm4.staticflickr.com/3863/15021310850_29d28274d7_b.jpg" width="600" /></p>

@@ -1,23 +1,24 @@
 ---
 layout: post
 title: Monsanto impõem normas para controlar todos os camponeses e suas sementes
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: monsanto
-  - tag: agronegócio
+- tag: monsanto
+- tag: agronegócio
 files: []
-type: ""
-support_line: "As leis Monsanto, em escala mundial, impõem normas que criam um registro eletrônico de todos os camponeses que produzem suas próprias sementes."
-section: ""
+type: ''
+support_line: As leis Monsanto, em escala mundial, impõem normas que criam um registro
+  eletrônico de todos os camponeses que produzem suas próprias sementes.
+section: ''
 hat: Agronegócio
 label: articles
-images_hd: "http://farm4.staticflickr.com/3880/14699833157_9673fbf261_b.jpg"
+images_hd: http://farm4.staticflickr.com/3880/14699833157_9673fbf261_b.jpg
 menu: agronegócio
 published: true
-date: "2014-08-11T11:02:49-03:00"
+date: '2014-08-11T11:02:49-03:00'
 
 ---
 <p><em>Por R. G&oacute;mez Mederos<br />

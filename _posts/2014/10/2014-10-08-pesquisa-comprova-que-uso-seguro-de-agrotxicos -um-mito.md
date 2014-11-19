@@ -1,22 +1,23 @@
 ---
 layout: post
-title: "Pesquisa comprova que \"uso seguro\" de agrotóxicos é um mito"
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+title: Pesquisa comprova que "uso seguro" de agrotóxicos é um mito
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Agrotóxicos
+- tag: Agrotóxicos
 files: []
-type: ""
-support_line: "Pesquisador visitou 81 unidades. A conclusão é taxativa: não existe viabilidade de cumprimento das inúmeras e complexas medidas do “uso seguro”."
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm4.staticflickr.com/3937/15292088257_7d080333bb_b.jpg"
+type: ''
+support_line: 'Pesquisador visitou 81 unidades. A conclusão é taxativa: não existe
+  viabilidade de cumprimento das inúmeras e complexas medidas do “uso seguro”.'
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm4.staticflickr.com/3937/15292088257_7d080333bb_b.jpg
 menu: agronegócio
 published: true
-date: "2014-10-08T11:45:47-03:00"
+date: '2014-10-08T11:45:47-03:00'
 
 ---
 <p>&nbsp;</p>

@@ -1,22 +1,23 @@
 ---
 layout: post
-title: "Dez empresas são donas de 73% das sementes de todo o mundo"
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+title: Dez empresas são donas de 73% das sementes de todo o mundo
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Sementes
+- tag: Sementes
 files: []
-type: ""
-support_line: "Somente no México, 1.500 variedades de milho estão em perigo de extinção, em decorrência das práticas comerciais e legais introduzidas pela Monsanto."
-section: ""
+type: ''
+support_line: Somente no México, 1.500 variedades de milho estão em perigo de extinção,
+  em decorrência das práticas comerciais e legais introduzidas pela Monsanto.
+section: ''
 hat: Agronegócio
-label: ""
-images_hd: "http://farm6.staticflickr.com/5587/15049888086_b724fbfe68_b.jpg"
+label: ''
+images_hd: http://farm6.staticflickr.com/5587/15049888086_b724fbfe68_b.jpg
 menu: agronegócio
 published: true
-date: "2014-08-29T10:55:37-03:00"
+date: '2014-08-29T10:55:37-03:00'
 
 ---
 <p><br />

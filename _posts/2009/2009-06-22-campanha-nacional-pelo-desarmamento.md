@@ -4,7 +4,7 @@ title: Campanha Nacional pelo Desarmamento
 legacy_url: http://www.mst.org.br/node/80
 images: ''
 video: ''
-tags: ''
+tags: []
 type: 
 support_line: ''
 section: 

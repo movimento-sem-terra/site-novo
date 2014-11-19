@@ -4,7 +4,7 @@ title: Pela Libertação dos Cincos Patriotas Cubanos Presos nos EUA
 legacy_url: http://www.mst.org.br/node/92
 images: ''
 video: ''
-tags: ''
+tags: []
 type: 
 support_line: ''
 section: 

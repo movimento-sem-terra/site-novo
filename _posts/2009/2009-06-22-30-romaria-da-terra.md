@@ -4,7 +4,7 @@ title: 30ª Romaria da Terra
 legacy_url: http://www.mst.org.br/node/83
 images: ''
 video: ''
-tags: ''
+tags: []
 type: 
 support_line: ''
 section: 

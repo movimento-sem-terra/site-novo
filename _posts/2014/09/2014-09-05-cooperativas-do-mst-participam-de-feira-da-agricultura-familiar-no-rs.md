@@ -1,25 +1,26 @@
 ---
 layout: post
 title: Cooperativas do MST participam de Feira da Agricultura Familiar no RS
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Reforma-Agrária
-  - tag: Produção
-  - tag: Rio-Grande-do-Sul
-  - tag: Feira-da-Reforma-Agrária
+- tag: Reforma-Agrária
+- tag: Produção
+- tag: Rio-Grande-do-Sul
+- tag: Feira-da-Reforma-Agrária
 files: []
-type: ""
-support_line: "As cooperativas estão expondo e comercializando produtos como arroz e sementes orgânicas, salames, copa e sucos naturais."
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm4.staticflickr.com/3883/15207564322_8a634d63d8_b.jpg"
+type: ''
+support_line: As cooperativas estão expondo e comercializando produtos como arroz
+  e sementes orgânicas, salames, copa e sucos naturais.
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm4.staticflickr.com/3883/15207564322_8a634d63d8_b.jpg
 menu: agricultura camponesa
 published: true
-date: "2014-09-05T11:18:47-03:00"
+date: '2014-09-05T11:18:47-03:00'
 
 ---
 <p><em><img alt="" height="450" src="http://farm4.staticflickr.com/3883/15207564322_8a634d63d8_b.jpg" width="600" /><br />

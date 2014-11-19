@@ -1,24 +1,25 @@
 ---
 layout: post
 title: Jovens do MST realizam oficina em escola pública e debatem a Reforma Agrária
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Educação
-  - tag: Juventude
-  - tag: Bahia
+- tag: Educação
+- tag: Juventude
+- tag: Bahia
 files: []
-type: ""
-support_line: O contexto histórico do MST e algumas reflexões sobre a trajetória social brasileira foram às bases do debate.
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm6.staticflickr.com/5561/15254481666_79fbc10377_b.jpg"
-menu: "educação, cultura e comunicação"
+type: ''
+support_line: O contexto histórico do MST e algumas reflexões sobre a trajetória social
+  brasileira foram às bases do debate.
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm6.staticflickr.com/5561/15254481666_79fbc10377_b.jpg
+menu: educação, cultura e comunicação
 published: true
-date: "2014-09-18T09:38:53-03:00"
+date: '2014-09-18T09:38:53-03:00'
 
 ---
 <p><em><img alt="" src="http://farm6.staticflickr.com/5561/15254481666_79fbc10377_b.jpg" /></em></p>

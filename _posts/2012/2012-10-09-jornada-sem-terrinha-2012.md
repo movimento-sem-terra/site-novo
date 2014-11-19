@@ -4,7 +4,7 @@ title: Jornada Sem Terrinha 2012
 legacy_url: http://www.mst.org.br/node/13949
 images: ''
 video: ''
-tags: ''
+tags: []
 type: 
 support_line: ''
 section: 

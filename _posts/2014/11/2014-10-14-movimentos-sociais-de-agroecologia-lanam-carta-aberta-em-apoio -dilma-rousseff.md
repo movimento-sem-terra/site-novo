@@ -1,24 +1,25 @@
 ---
 layout: post
 title: Movimentos Sociais de Agroecologia lançam carta aberta em apoio à Dilma Rousseff
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Articulação-Nacional-de-Agroecologia
-  - tag: Agroecologia
-  - tag: agricultura-familiar
+- tag: Articulação-Nacional-de-Agroecologia
+- tag: Agroecologia
+- tag: agricultura-familiar
 files: []
-type: ""
-support_line: "As organizações que compõem a Articulação Nacional de Agroecologia (ANA), lançaram uma carta aberta à sociedade em apoio a eleição da DIlma Rousseff."
+type: ''
+support_line: As organizações que compõem a Articulação Nacional de Agroecologia (ANA),
+  lançaram uma carta aberta à sociedade em apoio a eleição da DIlma Rousseff.
 section: featured-news
-hat: ""
-label: ""
-images_hd: "http://farm8.staticflickr.com/7509/15139916713_08b490b841_b.jpg"
+hat: ''
+label: ''
+images_hd: http://farm8.staticflickr.com/7509/15139916713_08b490b841_b.jpg
 menu: lutas e mobilizações
 published: true
-date: "2014-10-14T17:43:45-03:00"
+date: '2014-10-14T17:43:45-03:00'
 
 ---
 <p><em>Da P&aacute;gina do MST</em></p>

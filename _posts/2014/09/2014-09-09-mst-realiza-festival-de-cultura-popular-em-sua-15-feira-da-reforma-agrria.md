@@ -1,24 +1,25 @@
 ---
 layout: post
 title: MST realiza Festival de Cultura Popular em sua 15ª Feira da Reforma Agrária
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Feira-Reforma-Agrária
-  - tag: Reforma-Agrária
-  - tag: Alagoas
+- tag: Feira-Reforma-Agrária
+- tag: Reforma-Agrária
+- tag: Alagoas
 files: []
-type: ""
-support_line: "Todas as noites, a partir das 17h, uma diversidade de atrações culturais locais e regionais se apresentam gratuitamente ao público de Maceió (AL)."
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm4.staticflickr.com/3879/15021446600_2f5b8c68ba_b.jpg"
+type: ''
+support_line: Todas as noites, a partir das 17h, uma diversidade de atrações culturais
+  locais e regionais se apresentam gratuitamente ao público de Maceió (AL).
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm4.staticflickr.com/3879/15021446600_2f5b8c68ba_b.jpg
 menu: agricultura camponesa
 published: true
-date: "2014-09-09T11:43:32-03:00"
+date: '2014-09-09T11:43:32-03:00'
 
 ---
 <p><em><img alt="" src="http://farm4.staticflickr.com/3879/15021446600_2f5b8c68ba_b.jpg" /><br />

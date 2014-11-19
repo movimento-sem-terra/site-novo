@@ -1,22 +1,23 @@
 ---
 layout: post
-title: "Monopólio da Cutrale obriga a derrubada de 5,7 milhões de pés de laranja"
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+title: Monopólio da Cutrale obriga a derrubada de 5,7 milhões de pés de laranja
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Cutrale
+- tag: Cutrale
 files: []
-type: ""
-support_line: "Quando MST derruba 100 pés de laranja é tragédia nacional. E quando a Cutrale derruba 5,7 milhões de pés?"
+type: ''
+support_line: Quando MST derruba 100 pés de laranja é tragédia nacional. E quando
+  a Cutrale derruba 5,7 milhões de pés?
 section: featured-news
 hat: Agronegócio
-label: ""
-images_hd: "http://farm4.staticflickr.com/3909/14783092649_c020b1f831_b.jpg"
+label: ''
+images_hd: http://farm4.staticflickr.com/3909/14783092649_c020b1f831_b.jpg
 menu: agronegócio
 published: true
-date: "2014-08-18T11:03:08-03:00"
+date: '2014-08-18T11:03:08-03:00'
 
 ---
 <p><br />

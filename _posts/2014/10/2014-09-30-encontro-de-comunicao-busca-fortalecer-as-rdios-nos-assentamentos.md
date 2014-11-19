@@ -1,24 +1,25 @@
 ---
 layout: post
 title: Encontro de comunicação busca fortalecer as rádios nos assentamentos
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Paraná
-  - tag: comunicação
-  - tag: rádio
+- tag: Paraná
+- tag: comunicação
+- tag: rádio
 files: []
-type: ""
-support_line: "O rádio foi o principal foco do encontro, já que é um importante instrumento de formação e mobilização do Movimento"
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm4.staticflickr.com/3931/15274723599_07dca10754_b.jpg"
-menu: "educação, cultura e comunicação"
+type: ''
+support_line: O rádio foi o principal foco do encontro, já que é um importante instrumento
+  de formação e mobilização do Movimento
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm4.staticflickr.com/3931/15274723599_07dca10754_b.jpg
+menu: educação, cultura e comunicação
 published: true
-date: "2014-09-30T15:53:45-03:00"
+date: '2014-09-30T15:53:45-03:00'
 
 ---
 <p><img alt="" src="http://farm4.staticflickr.com/3931/15274723599_07dca10754_b.jpg" /></p>

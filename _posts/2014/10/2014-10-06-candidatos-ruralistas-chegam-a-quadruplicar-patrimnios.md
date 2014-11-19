@@ -1,24 +1,25 @@
 ---
 layout: post
 title: Candidatos ruralistas chegam a quadruplicar patrimônios
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: ruralistas
-  - tag: latifundio
-  - tag: candidatos
+- tag: ruralistas
+- tag: latifundio
+- tag: candidatos
 files: []
-type: ""
-support_line: "Ano após ano, os candidatos do latifúndio se apresentam como os responsáveis pela comida que chega às mesas."
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm6.staticflickr.com/5599/15470211575_5f49cbe1cd_b.jpg"
+type: ''
+support_line: Ano após ano, os candidatos do latifúndio se apresentam como os responsáveis
+  pela comida que chega às mesas.
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm6.staticflickr.com/5599/15470211575_5f49cbe1cd_b.jpg
 menu: agronegócio
 published: true
-date: "2014-10-06T13:03:06-03:00"
+date: '2014-10-06T13:03:06-03:00'
 
 ---
 <p><em>Por Renato Santana<br />

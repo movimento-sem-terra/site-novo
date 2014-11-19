@@ -1,24 +1,25 @@
 ---
 layout: post
 title: Campanha cobra demarcação de terras para acabar com a escravidão indígena
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: indígenas
-  - tag: Direitos-Humanos
-  - tag: escravidão
+- tag: indígenas
+- tag: Direitos-Humanos
+- tag: escravidão
 files: []
-type: ""
-support_line: Somente 404 das 1047 terras indígenas do Brasil foram regularizadas e pelo menos 30 delas estão com processo pronto aguardando somente assinatura
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm4.staticflickr.com/3932/15439136846_690b7a0828_b.jpg"
+type: ''
+support_line: Somente 404 das 1047 terras indígenas do Brasil foram regularizadas
+  e pelo menos 30 delas estão com processo pronto aguardando somente assinatura
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm4.staticflickr.com/3932/15439136846_690b7a0828_b.jpg
 menu: direitos humanos
 published: true
-date: "2014-10-02T17:16:06-03:00"
+date: '2014-10-02T17:16:06-03:00'
 
 ---
 <p><img alt="" height="349" src="http://farm4.staticflickr.com/3932/15439136846_690b7a0828_b.jpg" width="590" /></p>

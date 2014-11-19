@@ -1,24 +1,25 @@
 ---
 layout: post
 title: MST realiza 11º Encontro Estadual dos Sem Terrinha em Curitiba
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: jornada-sem-terrinha-2014
-  - tag: Paraná
-  - tag: zona-rural
+- tag: jornada-sem-terrinha-2014
+- tag: Paraná
+- tag: zona-rural
 files: []
-type: ""
-support_line: "“Sem Terrinha: pelo Direito de Viver e estudar no campo” é o tema  do 11º Encontro Estadual dos Sem Terrinha"
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm4.staticflickr.com/3940/15574004988_bc0c85795d_b.jpg"
+type: ''
+support_line: "“Sem Terrinha: pelo Direito de Viver e estudar no campo” é o tema  do
+  11º Encontro Estadual dos Sem Terrinha"
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm4.staticflickr.com/3940/15574004988_bc0c85795d_b.jpg
 menu: lutas e mobilizações
 published: true
-date: "2014-10-15T18:00:55-03:00"
+date: '2014-10-15T18:00:55-03:00'
 
 ---
 <p><em>Da P&aacute;gina do MST</em></p>

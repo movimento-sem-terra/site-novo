@@ -1,23 +1,24 @@
 ---
 layout: post
-title: "Ana Amélia, a candidata ruralista que tenta esconder seu estigma"
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+title: Ana Amélia, a candidata ruralista que tenta esconder seu estigma
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Eleições
-  - tag: Bancada-Ruralista
+- tag: Eleições
+- tag: Bancada-Ruralista
 files: []
-type: ""
-support_line: "Líder na corrida eleitoral ao governo do RS, Ana Amélia omitiu ser a proprietária de uma modesta fazenda de criação de gado de quase 2 mil hectares."
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm4.staticflickr.com/3930/15227133000_341a92955a_b.jpg"
+type: ''
+support_line: Líder na corrida eleitoral ao governo do RS, Ana Amélia omitiu ser a
+  proprietária de uma modesta fazenda de criação de gado de quase 2 mil hectares.
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm4.staticflickr.com/3930/15227133000_341a92955a_b.jpg
 menu: agronegócio
 published: true
-date: "2014-09-23T17:02:44-03:00"
+date: '2014-09-23T17:02:44-03:00'
 
 ---
 <p><img alt="" src="http://farm4.staticflickr.com/3930/15227133000_341a92955a_b.jpg" /><br />

@@ -1,24 +1,25 @@
 ---
 layout: post
-title: "Jovens realizam encontro estadual da juventude Sem Terra, em São Luís"
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+title: Jovens realizam encontro estadual da juventude Sem Terra, em São Luís
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Jornada-da-Juventude
-  - tag: Juventude
-  - tag: Maranhão
+- tag: Jornada-da-Juventude
+- tag: Juventude
+- tag: Maranhão
 files: []
-type: ""
-support_line: O encontro pretende fortalecer a auto-organização da juventude para que possam estudar e discutir os problemas enfrentados no campo.
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm6.staticflickr.com/5566/15034942022_82e5b929e2_b.jpg"
+type: ''
+support_line: O encontro pretende fortalecer a auto-organização da juventude para
+  que possam estudar e discutir os problemas enfrentados no campo.
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm6.staticflickr.com/5566/15034942022_82e5b929e2_b.jpg
 menu: lutas e mobilizações
 published: true
-date: "2014-08-25T16:38:17-03:00"
+date: '2014-08-25T16:38:17-03:00'
 
 ---
 <p><br />

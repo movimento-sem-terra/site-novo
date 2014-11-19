@@ -1,24 +1,25 @@
 ---
 layout: post
 title: MPF pede mais de 50 anos de cadeia para desmatadores da Amazônia
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: desmatamento
-  - tag: grilagem
-  - tag: Pará
+- tag: desmatamento
+- tag: grilagem
+- tag: Pará
 files: []
-type: ""
-support_line: A denúncia relata que o grupo desmatava e incendiava terras públicas invadidas e as vendia como fazendas por até R$ 20 milhões.
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm4.staticflickr.com/3930/15275896800_0d01820eba_b.jpg"
+type: ''
+support_line: A denúncia relata que o grupo desmatava e incendiava terras públicas
+  invadidas e as vendia como fazendas por até R$ 20 milhões.
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm4.staticflickr.com/3930/15275896800_0d01820eba_b.jpg
 menu: meio ambiente
 published: true
-date: "2014-10-03T17:59:39-03:00"
+date: '2014-10-03T17:59:39-03:00'
 
 ---
 <p><img alt="" src="http://farm4.staticflickr.com/3930/15275896800_0d01820eba_b.jpg" /></p>

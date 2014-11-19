@@ -1,22 +1,23 @@
 ---
 layout: post
 title: Jornada da Juventude protagoniza a luta dos jovens pela Reforma Agrária Popular
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Jornada-da-Juventude
+- tag: Jornada-da-Juventude
 files: []
-type: ""
-support_line: "Debates, ciclos de formação, intervenções artísticas e culturais e lutas no campo e na cidade."
+type: ''
+support_line: Debates, ciclos de formação, intervenções artísticas e culturais e lutas
+  no campo e na cidade.
 section: featured-news
 hat: Mobilizações
-label: ""
-images_hd: "http://farm4.staticflickr.com/3878/14731886879_50fcd16b8b_b.jpg"
+label: ''
+images_hd: http://farm4.staticflickr.com/3878/14731886879_50fcd16b8b_b.jpg
 menu: lutas e mobilizações
 published: true
-date: "2014-08-14T15:00:25-03:00"
+date: '2014-08-14T15:00:25-03:00'
 
 ---
 <p><img alt="" height="400" src="http://farm4.staticflickr.com/3878/14731886879_50fcd16b8b_b.jpg" width="600" /><br />

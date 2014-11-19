@@ -1,23 +1,24 @@
 ---
 layout: post
 title: Ruralistas deixam Brasil fora de acordo internacional sobre biodiversidade
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Bancada-Ruralista
-  - tag: Agronegócio
+- tag: Bancada-Ruralista
+- tag: Agronegócio
 files: []
-type: ""
-support_line: O Protocolo de Nagoya estabelece regras para uso dos recursos e divisão dos lucros obtidos.
-section: ""
+type: ''
+support_line: O Protocolo de Nagoya estabelece regras para uso dos recursos e divisão
+  dos lucros obtidos.
+section: ''
 hat: Meio Ambiente
-label: ""
-images_hd: "http://farm6.staticflickr.com/5552/14796715029_dcfd93cf8d_b.jpg"
+label: ''
+images_hd: http://farm6.staticflickr.com/5552/14796715029_dcfd93cf8d_b.jpg
 menu: meio ambiente
 published: true
-date: "2014-08-20T17:29:03-03:00"
+date: '2014-08-20T17:29:03-03:00'
 
 ---
 <p><br />

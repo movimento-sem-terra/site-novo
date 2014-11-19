@@ -1,22 +1,23 @@
 ---
 layout: post
 title: Movimentos sociais exigem vistoria de fazenda da candidata Ana Amélia
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: reforma-agrária-Ana-Amélia-Lemos-fazenda
+- tag: reforma-agrária-Ana-Amélia-Lemos-fazenda
 files: []
-type: ""
-support_line: "Caso fazenda de quase 2 mil hectares em Goiás seja improdutiva, movimentos a reivindicam à Reforma Agrária"
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm4.staticflickr.com/3934/15243837360_1eb175339d_b.jpg"
+type: ''
+support_line: Caso fazenda de quase 2 mil hectares em Goiás seja improdutiva, movimentos
+  a reivindicam à Reforma Agrária
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm4.staticflickr.com/3934/15243837360_1eb175339d_b.jpg
 menu: lutas e mobilizações
 published: true
-date: "2014-09-25T15:29:20-03:00"
+date: '2014-09-25T15:29:20-03:00'
 
 ---
 <p><img alt="" height="438" src="http://farm4.staticflickr.com/3934/15243837360_1eb175339d_b.jpg" width="750" /></p>

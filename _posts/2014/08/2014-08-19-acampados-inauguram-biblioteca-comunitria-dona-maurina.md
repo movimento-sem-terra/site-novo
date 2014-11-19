@@ -1,23 +1,24 @@
 ---
 layout: post
 title: Acampados inauguram Biblioteca Comunitária Dona Maurina
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: educação
-  - tag: Sergipe
+- tag: educação
+- tag: Sergipe
 files: []
-type: ""
-support_line: "A Biblioteca Dona Maurina foi uma iniciativa das próprias famílias acampadas, por entenderem a importância da leitura no processo formativo da luta."
-section: ""
+type: ''
+support_line: A Biblioteca Dona Maurina foi uma iniciativa das próprias famílias acampadas,
+  por entenderem a importância da leitura no processo formativo da luta.
+section: ''
 hat: Educação
-label: ""
-images_hd: "http://farm6.staticflickr.com/5556/14969449215_2f61af5585_b.jpg"
-menu: "educação, cultura e comunicação"
+label: ''
+images_hd: http://farm6.staticflickr.com/5556/14969449215_2f61af5585_b.jpg
+menu: educação, cultura e comunicação
 published: true
-date: "2014-08-15T10:25:13-03:00"
+date: '2014-08-15T10:25:13-03:00'
 
 ---
 <p><span contenteditable="false" tabindex="-1"><img alt="" data-widget="image" height="450" src="http://farm4.staticflickr.com/3869/14782906967_15e09539f9_b.jpg" width="600" /></span></p>

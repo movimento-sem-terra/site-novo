@@ -4,7 +4,7 @@ title: Jornada de Luta das Mulheres da Via Campesina 2014
 legacy_url: http://www.mst.org.br/node/15806
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/8demarco_pagina.jpg
 video: ''
-tags: ''
+tags: []
 type: 
 support_line: ''
 section: 

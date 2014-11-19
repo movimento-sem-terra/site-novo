@@ -1,24 +1,25 @@
 ---
 layout: post
 title: Plenária discute os próximos passos da Campanha pela Constituinte
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Plebiscito-Constituinte
-  - tag: Plenária
-  - tag: Reforma-Política
+- tag: Plebiscito-Constituinte
+- tag: Plenária
+- tag: Reforma-Política
 files: []
-type: ""
-support_line: "De acordo com as resoluções da plenária, os comitês locais e estaduais serão mantidos através de encontros e reuniões regulares."
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm8.staticflickr.com/7517/15574646300_d797f66264_b.jpg"
+type: ''
+support_line: De acordo com as resoluções da plenária, os comitês locais e estaduais
+  serão mantidos através de encontros e reuniões regulares.
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm8.staticflickr.com/7517/15574646300_d797f66264_b.jpg
 menu: projeto popular
 published: true
-date: "2014-10-16T18:05:29-03:00"
+date: '2014-10-16T18:05:29-03:00'
 
 ---
 <p><em>Por Maura Silva<br />

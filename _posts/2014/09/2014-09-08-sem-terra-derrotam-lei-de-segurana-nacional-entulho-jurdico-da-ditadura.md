@@ -1,22 +1,23 @@
 ---
 layout: post
-title: "Sem Terra derrotam Lei de Segurança Nacional, entulho jurídico da ditadura"
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+title: Sem Terra derrotam Lei de Segurança Nacional, entulho jurídico da ditadura
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Poder-Judiciário
+- tag: Poder-Judiciário
 files: []
-type: ""
-support_line: "Em artigo, o jurista Jacques Alfonsin analisa a derrota de duas sentenças relacionadas com a lei de Segurança Nacional para criminalizar o MST."
-section: ""
+type: ''
+support_line: Em artigo, o jurista Jacques Alfonsin analisa a derrota de duas sentenças
+  relacionadas com a lei de Segurança Nacional para criminalizar o MST.
+section: ''
 hat: Direitos Humanos
 label: articles
-images_hd: "http://farm4.staticflickr.com/3865/15207702442_9f3fe0ddc5_b.jpg"
+images_hd: http://farm4.staticflickr.com/3865/15207702442_9f3fe0ddc5_b.jpg
 menu: direitos humanos
 published: true
-date: "2014-09-08T11:36:21-03:00"
+date: '2014-09-08T11:36:21-03:00'
 
 ---
 <p><br />

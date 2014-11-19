@@ -1,24 +1,25 @@
 ---
 layout: post
 title: MST irá fornecer arroz orgânico para as escolas de São Paulo
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: alimentação
-  - tag: agricultura-familiar
-  - tag: Cootap
+- tag: alimentação
+- tag: agricultura-familiar
+- tag: Cootap
 files: []
-type: ""
-support_line: A Cootap e a Prefeitura de São Paulo assinaram um acordo que prevê a comercialização do arroz orgânico Terra Livre.
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm4.staticflickr.com/3951/15574058057_8e5370e3ef_b.jpg"
+type: ''
+support_line: A Cootap e a Prefeitura de São Paulo assinaram um acordo que prevê a
+  comercialização do arroz orgânico Terra Livre.
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm4.staticflickr.com/3951/15574058057_8e5370e3ef_b.jpg
 menu: agricultura camponesa
 published: true
-date: "2014-10-10T17:32:59-03:00"
+date: '2014-10-10T17:32:59-03:00'
 
 ---
 <p><em>Por Maura Silva&nbsp;</em></p>

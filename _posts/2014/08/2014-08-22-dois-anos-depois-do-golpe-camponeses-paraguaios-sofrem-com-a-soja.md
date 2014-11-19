@@ -1,23 +1,24 @@
 ---
 layout: post
-title: "Dois anos depois do golpe, camponeses paraguaios sofrem com a soja"
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+title: Dois anos depois do golpe, camponeses paraguaios sofrem com a soja
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Paraguai
-  - tag: Soja
+- tag: Paraguai
+- tag: Soja
 files: []
-type: ""
-support_line: "Capitaneada por latifundiários brasileiros, produção industrial voltada para exportação substitui cultivo de alimentos."
-section: ""
+type: ''
+support_line: Capitaneada por latifundiários brasileiros, produção industrial voltada
+  para exportação substitui cultivo de alimentos.
+section: ''
 hat: Agronegócio
-label: ""
-images_hd: "http://farm6.staticflickr.com/5558/14999244712_ee71fedac4_b.jpg"
+label: ''
+images_hd: http://farm6.staticflickr.com/5558/14999244712_ee71fedac4_b.jpg
 menu: agronegócio
 published: true
-date: "2014-08-22T11:44:58-03:00"
+date: '2014-08-22T11:44:58-03:00'
 
 ---
 <p><em><img alt="" height="471" src="http://farm4.staticflickr.com/3875/14812908879_8b3be632dc_b.jpg" width="580" /><br />

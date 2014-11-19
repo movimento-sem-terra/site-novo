@@ -1,24 +1,25 @@
 ---
 layout: post
 title: Argentinos denunciam Monsanto por tentar controlar mercado de sementes
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Monsanto
-  - tag: Transgênicos
-  - tag: Sementes
+- tag: Monsanto
+- tag: Transgênicos
+- tag: Sementes
 files: []
-type: ""
-support_line: "Empresa quer restringir os produtores de comercializar, processar e armazenar o produto."
-section: ""
+type: ''
+support_line: Empresa quer restringir os produtores de comercializar, processar e
+  armazenar o produto.
+section: ''
 hat: Agronegócio
-label: ""
-images_hd: "http://farm4.staticflickr.com/3899/15005521790_d88689796e_b.jpg"
+label: ''
+images_hd: http://farm4.staticflickr.com/3899/15005521790_d88689796e_b.jpg
 menu: agronegócio
 published: true
-date: "2014-09-02T16:50:32-03:00"
+date: '2014-09-02T16:50:32-03:00'
 
 ---
 <p>&nbsp;</p>

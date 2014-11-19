@@ -4,7 +4,7 @@ title: VENHA PARTICIPAR!
 legacy_url: http://www.mst.org.br/node/106
 images: ''
 video: ''
-tags: ''
+tags: []
 type: 
 support_line: ''
 section: 

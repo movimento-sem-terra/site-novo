@@ -1,23 +1,24 @@
 ---
 layout: post
 title: Grito dos Excluídos lembra manifestações e estimula volta às ruas
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Projeto-Popular
-  - tag: Plebiscito-Constituinte
+- tag: Projeto-Popular
+- tag: Plebiscito-Constituinte
 files: []
-type: ""
-support_line: "Este ano, o lema do Grito dos Excluídos é \"Ocupar ruas e praças por liberdades e direitos\"."
-section: ""
+type: ''
+support_line: Este ano, o lema do Grito dos Excluídos é "Ocupar ruas e praças por
+  liberdades e direitos".
+section: ''
 hat: Projeto Popular
-label: ""
-images_hd: "http://farm4.staticflickr.com/3898/15005842807_8cba675e6c_b.jpg"
+label: ''
+images_hd: http://farm4.staticflickr.com/3898/15005842807_8cba675e6c_b.jpg
 menu: lutas e mobilizações
 published: true
-date: "2014-09-04T17:15:50-03:00"
+date: '2014-09-04T17:15:50-03:00'
 
 ---
 <p><em>Por Elaine Patricia Cruz<br />

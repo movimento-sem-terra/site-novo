@@ -1,23 +1,24 @@
 ---
 layout: post
 title: Movimentos sociais na balança de poder do sistema jurídico
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Movimentos-Sociais
-  - tag: Sistema-Jurídico
+- tag: Movimentos-Sociais
+- tag: Sistema-Jurídico
 files: []
-type: ""
-support_line: "Segundo o pesquisador George Mészáros, movimentos sociais exercem peso fundamental nas relações de poder do sistema jurídico."
-section: ""
-hat: ""
+type: ''
+support_line: Segundo o pesquisador George Mészáros, movimentos sociais exercem peso
+  fundamental nas relações de poder do sistema jurídico.
+section: ''
+hat: ''
 label: interviews
-images_hd: "http://farm4.staticflickr.com/3956/15139630733_4cceb2dbf7_b.jpg"
+images_hd: http://farm4.staticflickr.com/3956/15139630733_4cceb2dbf7_b.jpg
 menu: direitos humanos
 published: true
-date: "2014-10-09T17:04:40-03:00"
+date: '2014-10-09T17:04:40-03:00'
 
 ---
 <p><br />

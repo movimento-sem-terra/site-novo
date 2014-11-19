@@ -1,24 +1,25 @@
 ---
 layout: post
 title: MST apresenta reivindicações e reafirma luta aos candidatos de Alagoas
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: agricultura
-  - tag: governo
-  - tag: Alagoas
+- tag: agricultura
+- tag: governo
+- tag: Alagoas
 files: []
-type: ""
-support_line: "Débora Nunes, destacou o compromisso do Movimento de permanecer em luta em na defesa de uma vida digna para os trabalhadores rurais"
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm3.staticflickr.com/2948/15460476245_f9da081a74_b.jpg"
+type: ''
+support_line: Débora Nunes, destacou o compromisso do Movimento de permanecer em luta
+  em na defesa de uma vida digna para os trabalhadores rurais
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm3.staticflickr.com/2948/15460476245_f9da081a74_b.jpg
 menu: agricultura camponesa
 published: true
-date: "2014-09-29T13:50:52-03:00"
+date: '2014-09-29T13:50:52-03:00'
 
 ---
 <h1>&nbsp;</h1>

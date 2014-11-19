@@ -1,22 +1,24 @@
 ---
 layout: post
-title: "MST, CNBB, OAB, CUT concedem entrevista sobre a Semana de Luta pela Reforma Política"
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+title: MST, CNBB, OAB, CUT concedem entrevista sobre a Semana de Luta pela Reforma
+  Política
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Plebiscito-Constituinte
+- tag: Plebiscito-Constituinte
 files: []
-type: ""
-support_line: Mais de 400 organizações sociais sairão às ruas para recolher votos e coletar assinaturas em favor de mudanças no sistema político.
-section: ""
+type: ''
+support_line: Mais de 400 organizações sociais sairão às ruas para recolher votos
+  e coletar assinaturas em favor de mudanças no sistema político.
+section: ''
 hat: Plebiscito Constituinte
-label: ""
-images_hd: "http://farm6.staticflickr.com/5585/15049656236_a094bcf328_b.jpg"
+label: ''
+images_hd: http://farm6.staticflickr.com/5585/15049656236_a094bcf328_b.jpg
 menu: projeto popular
 published: true
-date: "2014-08-28T10:25:32-03:00"
+date: '2014-08-28T10:25:32-03:00'
 
 ---
 <h1>&nbsp;</h1>

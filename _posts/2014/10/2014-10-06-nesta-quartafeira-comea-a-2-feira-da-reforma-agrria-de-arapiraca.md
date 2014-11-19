@@ -1,24 +1,25 @@
 ---
 layout: post
-title: "Nesta quarta-feira, começa a 2ª Feira da Reforma Agrária de Arapiraca"
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+title: Nesta quarta-feira, começa a 2ª Feira da Reforma Agrária de Arapiraca
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: alimentos
-  - tag: agrotóxicos
-  - tag: Alagoas
+- tag: alimentos
+- tag: agrotóxicos
+- tag: Alagoas
 files: []
-type: ""
-support_line: "Entre os dias 9 e 11 de outubro, será realizada a 2ª Feira da Reforma Agrária de Arapiraca. A abertura acontece às 18h desta quinta-feira (9)."
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm6.staticflickr.com/5608/15283885370_c382ae40e5_b.jpg"
+type: ''
+support_line: Entre os dias 9 e 11 de outubro, será realizada a 2ª Feira da Reforma
+  Agrária de Arapiraca. A abertura acontece às 18h desta quinta-feira (9).
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm6.staticflickr.com/5608/15283885370_c382ae40e5_b.jpg
 menu: agricultura camponesa
 published: true
-date: "2014-10-06T14:20:31-03:00"
+date: '2014-10-06T14:20:31-03:00'
 
 ---
 <p><img alt="" src="http://farm6.staticflickr.com/5608/15283885370_c382ae40e5_b.jpg" /></p>

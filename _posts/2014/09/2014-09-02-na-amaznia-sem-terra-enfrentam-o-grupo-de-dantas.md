@@ -1,23 +1,24 @@
 ---
 layout: post
-title: "Na Amazônia, Sem Terra enfrentam o grupo de Dantas"
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+title: Na Amazônia, Sem Terra enfrentam o grupo de Dantas
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Pará
-  - tag: Dantas
+- tag: Pará
+- tag: Dantas
 files: []
-type: ""
-support_line: "No interior do Pará, militantes do MST tentam plantar alimentos em meio ao gado da Santa Bárbara, herdeira do Opportunity de Daniel Dantas"
-section: ""
+type: ''
+support_line: No interior do Pará, militantes do MST tentam plantar alimentos em meio
+  ao gado da Santa Bárbara, herdeira do Opportunity de Daniel Dantas
+section: ''
 hat: Reforma Agrária
-label: ""
-images_hd: "http://farm6.staticflickr.com/5580/14931446540_1f63f857d5_b.jpg"
+label: ''
+images_hd: http://farm6.staticflickr.com/5580/14931446540_1f63f857d5_b.jpg
 menu: reforma agrária
 published: true
-date: "2014-09-02T11:23:12-03:00"
+date: '2014-09-02T11:23:12-03:00'
 
 ---
 <figure class="image" style="float:left"><img alt="" height="266" src="http://farm6.staticflickr.com/5580/14931446540_1f63f857d5_b.jpg" width="400" />

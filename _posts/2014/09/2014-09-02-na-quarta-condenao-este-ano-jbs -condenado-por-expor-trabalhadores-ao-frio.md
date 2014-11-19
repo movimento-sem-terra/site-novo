@@ -1,23 +1,24 @@
 ---
 layout: post
 title: JBS expõe trabalhadores ao frio e sofre a quarta condenação este ano
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: JBS
-  - tag: Frigoríficos
+- tag: JBS
+- tag: Frigoríficos
 files: []
-type: ""
-support_line: A JBS foi condenada em R$ 2 milhões por não conceder aos funcionários locais adequados para fruição do intervalo de recuperação térmica.
-section: ""
+type: ''
+support_line: A JBS foi condenada em R$ 2 milhões por não conceder aos funcionários
+  locais adequados para fruição do intervalo de recuperação térmica.
+section: ''
 hat: Agronegócio
-label: ""
-images_hd: "http://farm4.staticflickr.com/3917/14930879550_0093fd7c39_b.jpg"
+label: ''
+images_hd: http://farm4.staticflickr.com/3917/14930879550_0093fd7c39_b.jpg
 menu: agronegócio
 published: true
-date: "2014-09-01T10:06:44-03:00"
+date: '2014-09-01T10:06:44-03:00'
 
 ---
 <p><br />

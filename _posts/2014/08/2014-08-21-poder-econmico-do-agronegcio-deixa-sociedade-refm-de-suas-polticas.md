@@ -1,22 +1,23 @@
 ---
 layout: post
 title: Poder econômico do agronegócio deixa sociedade refém de seus interesses
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Eleições
+- tag: Eleições
 files: []
-type: ""
-support_line: "Cerca de 40% das doações das campanhas eleitorais aos candidatos à Presidência vieram de setores ligados ao agronegócio."
+type: ''
+support_line: Cerca de 40% das doações das campanhas eleitorais aos candidatos à Presidência
+  vieram de setores ligados ao agronegócio.
 section: cover
 hat: Eleições
-label: ""
-images_hd: "http://farm4.staticflickr.com/3867/14988149981_7f040cd40f_b.jpg"
+label: ''
+images_hd: http://farm4.staticflickr.com/3867/14988149981_7f040cd40f_b.jpg
 menu: agronegócio
 published: true
-date: "2014-08-21T13:55:32-03:00"
+date: '2014-08-21T13:55:32-03:00'
 
 ---
 <p><em>Por Maura Silva<br />

@@ -1,22 +1,23 @@
 ---
 layout: post
-title: "Enterrado pelo Congresso, plebiscito da reforma política volta à tona"
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+title: Enterrado pelo Congresso, plebiscito da reforma política volta à tona
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Plebiscito-Constituinte
+- tag: Plebiscito-Constituinte
 files: []
-type: ""
-support_line: Movimentos organizam consulta à sociedade entre 1º e 7 de setembro e esperam fomentar debate que não será feito no Congresso.
+type: ''
+support_line: Movimentos organizam consulta à sociedade entre 1º e 7 de setembro e
+  esperam fomentar debate que não será feito no Congresso.
 section: cover
 hat: Projeto Popular
-label: ""
-images_hd: "http://farm4.staticflickr.com/3840/14983158562_58154bf9ff_b.jpg"
+label: ''
+images_hd: http://farm4.staticflickr.com/3840/14983158562_58154bf9ff_b.jpg
 menu: projeto popular
 published: true
-date: "2014-08-20T17:41:58-03:00"
+date: '2014-08-20T17:41:58-03:00'
 
 ---
 <p><br />

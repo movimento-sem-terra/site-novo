@@ -1,23 +1,25 @@
 ---
 layout: post
 title: Sem Terra de Mato Grosso celebram 19 anos da primeira ocupação na região
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Aniversário
-  - tag: Mato-Grosso
+- tag: Aniversário
+- tag: Mato-Grosso
 files: []
-type: ""
-support_line: Sob o marco histórico dessa data que cerca de 150 famílias vindas de diversos Assentamentos e Acampamentos do MST de Mato Grosso se reuniram entre os dias 16 e 17 para comemorar o 19º aniversário de fundação do MST no estado.
-section: ""
+type: ''
+support_line: Sob o marco histórico dessa data que cerca de 150 famílias vindas de
+  diversos Assentamentos e Acampamentos do MST de Mato Grosso se reuniram entre os
+  dias 16 e 17 para comemorar o 19º aniversário de fundação do MST no estado.
+section: ''
 hat: Celebração
-label: ""
-images_hd: "http://farm4.staticflickr.com/3890/14969343492_39bd1dcd20_b.jpg"
+label: ''
+images_hd: http://farm4.staticflickr.com/3890/14969343492_39bd1dcd20_b.jpg
 menu: reforma agrária
 published: true
-date: "2014-08-18T10:56:10-03:00"
+date: '2014-08-18T10:56:10-03:00'
 
 ---
 <p><br />

@@ -1,23 +1,24 @@
 ---
 layout: post
-title: "Nelson Padovavi, o ferrenho candidato ruralista anti-indígena"
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+title: Nelson Padovavi, o ferrenho candidato ruralista anti-indígena
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Eleições
-  - tag: Bancada-Ruralista
+- tag: Eleições
+- tag: Bancada-Ruralista
 files: []
-type: ""
-support_line: "Candidato a deputado estadual, Nelson Padovani parece não gostar muito dos povos indígenas."
-section: ""
+type: ''
+support_line: Candidato a deputado estadual, Nelson Padovani parece não gostar muito
+  dos povos indígenas.
+section: ''
 hat: Eleições
-label: ""
-images_hd: "http://farm4.staticflickr.com/3897/14886284478_9cda5571f0_b.jpg"
+label: ''
+images_hd: http://farm4.staticflickr.com/3897/14886284478_9cda5571f0_b.jpg
 menu: agronegócio
 published: true
-date: "2014-08-28T10:53:58-03:00"
+date: '2014-08-28T10:53:58-03:00'
 
 ---
 <p><em><img alt="" height="350" src="http://farm4.staticflickr.com/3897/14886284478_9cda5571f0_b.jpg" width="600" /><br />

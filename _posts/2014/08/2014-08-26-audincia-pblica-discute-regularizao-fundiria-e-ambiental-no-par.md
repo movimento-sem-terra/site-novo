@@ -1,23 +1,24 @@
 ---
 layout: post
 title: Audiência Pública discute regularização fundiária e ambiental no Pará
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Violência
-  - tag: Pará
+- tag: Violência
+- tag: Pará
 files: []
-type: ""
-support_line: Os conflitos por terra na região reúnem a combinação perigosa entre a insegurança fundiária com o intenso avanço do agronegócio.
-section: ""
+type: ''
+support_line: Os conflitos por terra na região reúnem a combinação perigosa entre
+  a insegurança fundiária com o intenso avanço do agronegócio.
+section: ''
 hat: Direitos Humanos
-label: ""
-images_hd: "http://farm4.staticflickr.com/3852/15043078955_0579051257_b.jpg"
+label: ''
+images_hd: http://farm4.staticflickr.com/3852/15043078955_0579051257_b.jpg
 menu: direitos humanos
 published: true
-date: "2014-08-26T11:03:54-03:00"
+date: '2014-08-26T11:03:54-03:00'
 
 ---
 <p><em>Por Terra de Direitos</em></p>

@@ -1,25 +1,26 @@
 ---
 layout: post
 title: A boiada de Eunício
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Eleições
-  - tag: Goiás
-  - tag: Ocupação
-  - tag: Reforma-Agrária
+- tag: Eleições
+- tag: Goiás
+- tag: Ocupação
+- tag: Reforma-Agrária
 files: []
-type: ""
-support_line: O integrante do do PMDB é um pecuarista de sucesso. De sitiante o parlamentar tornou-se o maior criador de gado da região.
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm4.staticflickr.com/3956/15735520436_0d6f0f6cf8_b.jpg"
+type: ''
+support_line: O integrante do do PMDB é um pecuarista de sucesso. De sitiante o parlamentar
+  tornou-se o maior criador de gado da região.
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm4.staticflickr.com/3956/15735520436_0d6f0f6cf8_b.jpg
 menu: agronegócio
 published: true
-date: "2014-10-13T17:32:19-03:00"
+date: '2014-10-13T17:32:19-03:00'
 
 ---
 <p>&nbsp;</p>

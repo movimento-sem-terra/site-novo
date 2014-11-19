@@ -1,22 +1,23 @@
 ---
 layout: post
 title: Governo Alckmin impede votação e discussão de plebiscito nas escolas
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Plebiscito-Constituinte
+- tag: Plebiscito-Constituinte
 files: []
-type: ""
-support_line: Militantes acreditam que o impedindo o debate nas instituições de ensino culminou numa ação truculenta das escolas para impedir a votação.
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm4.staticflickr.com/3929/15413497175_c5b8a59e7e_b.jpg"
+type: ''
+support_line: Militantes acreditam que o impedindo o debate nas instituições de ensino
+  culminou numa ação truculenta das escolas para impedir a votação.
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm4.staticflickr.com/3929/15413497175_c5b8a59e7e_b.jpg
 menu: projeto popular
 published: true
-date: "2014-09-19T16:18:39-03:00"
+date: '2014-09-19T16:18:39-03:00'
 
 ---
 <p><br />

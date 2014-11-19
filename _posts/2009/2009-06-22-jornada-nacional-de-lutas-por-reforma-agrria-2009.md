@@ -4,7 +4,7 @@ title: Jornada Nacional de Lutas por Reforma Agrária 2009
 legacy_url: http://www.mst.org.br/node/104
 images: ''
 video: ''
-tags: ''
+tags: []
 type: 
 support_line: ''
 section: 

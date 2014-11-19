@@ -1,22 +1,23 @@
 ---
 layout: post
 title: Onde está a Reforma Agrária no debate eleitoral?
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Eleições
+- tag: Eleições
 files: []
-type: ""
-support_line: "Em nota, a CPT analisa o período eleitoral, o perfil e os planos de governo dos principais candidatos."
-section: ""
+type: ''
+support_line: Em nota, a CPT analisa o período eleitoral, o perfil e os planos de
+  governo dos principais candidatos.
+section: ''
 hat: Eleições
-label: ""
-images_hd: "http://farm6.staticflickr.com/5568/15117314422_f48638f2f4_b.jpg"
+label: ''
+images_hd: http://farm6.staticflickr.com/5568/15117314422_f48638f2f4_b.jpg
 menu: reforma agrária
 published: true
-date: "2014-09-01T10:35:55-03:00"
+date: '2014-09-01T10:35:55-03:00'
 
 ---
 <p><br />

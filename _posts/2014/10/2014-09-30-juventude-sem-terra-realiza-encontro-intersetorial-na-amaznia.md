@@ -1,24 +1,25 @@
 ---
 layout: post
 title: Juventude Sem Terra realiza encontro intersetorial na Amazônia
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Amazônia
-  - tag: Cultura-e-Comunicação
-  - tag: Juventude
+- tag: Amazônia
+- tag: Cultura-e-Comunicação
+- tag: Juventude
 files: []
-type: ""
-support_line: "Jovens dos estados do Pará, Maranhão e Tocantins debateram e trocaram experiências de ações do coletivo na região"
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm4.staticflickr.com/3928/15274841239_70574d07be_b.jpg"
-menu: "educação, cultura e comunicação"
+type: ''
+support_line: Jovens dos estados do Pará, Maranhão e Tocantins debateram e trocaram
+  experiências de ações do coletivo na região
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm4.staticflickr.com/3928/15274841239_70574d07be_b.jpg
+menu: educação, cultura e comunicação
 published: true
-date: "2014-09-30T16:07:42-03:00"
+date: '2014-09-30T16:07:42-03:00'
 
 ---
 <p><img alt="" src="http://farm4.staticflickr.com/3928/15274841239_70574d07be_b.jpg" /></p>

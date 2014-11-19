@@ -1,23 +1,24 @@
 ---
 layout: post
 title: Encontro no Distrito Federal debate desafios da juventude do MST
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Juventude
-  - tag: Distrito-Federal
+- tag: Juventude
+- tag: Distrito-Federal
 files: []
-type: ""
-support_line: "O encontro reuniu cerca de 40 jovens de acampamentos e assentamentos de duas regionais do Estado, de Goiás e do Distrito Federal."
-section: ""
+type: ''
+support_line: O encontro reuniu cerca de 40 jovens de acampamentos e assentamentos
+  de duas regionais do Estado, de Goiás e do Distrito Federal.
+section: ''
 hat: Reforma Agrária
-label: ""
-images_hd: "http://farm4.staticflickr.com/3926/15080526818_93a0035cb3_b.jpg"
+label: ''
+images_hd: http://farm4.staticflickr.com/3926/15080526818_93a0035cb3_b.jpg
 menu: agricultura camponesa
 published: true
-date: "2014-09-17T09:05:54-03:00"
+date: '2014-09-17T09:05:54-03:00'
 
 ---
 <p><img alt="" height="500" src="http://farm4.staticflickr.com/3926/15080526818_93a0035cb3_b.jpg" width="750" /></p>

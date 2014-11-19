@@ -1,22 +1,23 @@
 ---
 layout: post
 title: China e Rússia proíbem produção de transgênicos em seus territórios
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Agronegócio
+- tag: Agronegócio
 files: []
-type: ""
-support_line: "“Se os americanos gostam de comer transgênicos, que os comam. Não precisamos fazer isso”, disse o primeiro-ministro Dmitriy Medvedev."
+type: ''
+support_line: "“Se os americanos gostam de comer transgênicos, que os comam. Não precisamos
+  fazer isso”, disse o primeiro-ministro Dmitriy Medvedev."
 section: featured-news
-hat: ""
-label: ""
-images_hd: "http://farm4.staticflickr.com/3891/14998048231_56ed8a6f1e_b.jpg"
+hat: ''
+label: ''
+images_hd: http://farm4.staticflickr.com/3891/14998048231_56ed8a6f1e_b.jpg
 menu: transgênicos
 published: true
-date: "2014-08-22T14:46:58-03:00"
+date: '2014-08-22T14:46:58-03:00'
 
 ---
 <p><br />

@@ -1,22 +1,23 @@
 ---
 layout: post
 title: CPT denuncia e repudia onda de violência no campo
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Violência
+- tag: Violência
 files: []
-type: ""
-support_line: "Além das 4 mortes na última semana, no mês de julho, em apenas 20 dias, a CPT registrou 7 assassinatos. Em 2014 já foram registrados 23."
-section: ""
+type: ''
+support_line: Além das 4 mortes na última semana, no mês de julho, em apenas 20 dias,
+  a CPT registrou 7 assassinatos. Em 2014 já foram registrados 23.
+section: ''
 hat: Direitos Humanos
-label: ""
-images_hd: "http://farm4.staticflickr.com/3895/14991163735_e353dacbc3_b.jpg"
+label: ''
+images_hd: http://farm4.staticflickr.com/3895/14991163735_e353dacbc3_b.jpg
 menu: direitos humanos
 published: true
-date: "2014-08-21T13:53:34-03:00"
+date: '2014-08-21T13:53:34-03:00'
 
 ---
 <p><br />

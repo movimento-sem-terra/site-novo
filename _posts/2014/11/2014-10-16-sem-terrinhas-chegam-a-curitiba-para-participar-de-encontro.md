@@ -1,24 +1,25 @@
 ---
 layout: post
 title: Sem Terrinhas chegam a Curitiba para participar de encontro
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: jornada-sem-terrinha-2014
-  - tag: educação
-  - tag: Curitiba
+- tag: jornada-sem-terrinha-2014
+- tag: educação
+- tag: Curitiba
 files: []
-type: ""
-support_line: Cerca de 900 crianças participam do 11° Encontro estadual dos Sem Terrinha no Paraná.
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm8.staticflickr.com/7522/15140070713_bd816e6673_b.jpg"
+type: ''
+support_line: Cerca de 900 crianças participam do 11° Encontro estadual dos Sem Terrinha
+  no Paraná.
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm8.staticflickr.com/7522/15140070713_bd816e6673_b.jpg
 menu: lutas e mobilizações
 published: true
-date: "2014-10-16T18:07:48-03:00"
+date: '2014-10-16T18:07:48-03:00'
 
 ---
 <p><br />

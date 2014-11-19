@@ -1,24 +1,25 @@
 ---
 layout: post
-title: "Sem Terrinha Vanessa: presente na caminhada!"
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+title: 'Sem Terrinha Vanessa: presente na caminhada!'
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: homenagem
-  - tag: sem-terrinha
-  - tag: Natal
+- tag: homenagem
+- tag: sem-terrinha
+- tag: Natal
 files: []
-type: ""
-support_line: "Vanessa, sem-terrinha acampada, foi atropelada logo após se despedir de sua mãe que saia para atividades do movimento"
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm6.staticflickr.com/5598/15462095525_f1ecf7f0f9_b.jpg"
+type: ''
+support_line: Vanessa, sem-terrinha acampada, foi atropelada logo após se despedir
+  de sua mãe que saia para atividades do movimento
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm6.staticflickr.com/5598/15462095525_f1ecf7f0f9_b.jpg
 menu: lutadores-do-povo
 published: true
-date: "2014-10-01T16:55:41-03:00"
+date: '2014-10-01T16:55:41-03:00'
 
 ---
 <p><em>Por Jo&atilde;o Paulo Medeiros*<br />

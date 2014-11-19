@@ -4,7 +4,7 @@ title: Jornada Nacional de Lutas por Reforma Agrária 2010
 legacy_url: http://www.mst.org.br/node/9460
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/bannersite.jpg
 video: ''
-tags: ''
+tags: []
 type: 
 support_line: ''
 section: 

@@ -1,23 +1,24 @@
 ---
 layout: post
 title: Sem Terra inauguram Escola Itinerante para atender 590 estudantes acampados
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Paraná
-  - tag: Escola-Itinerante
+- tag: Paraná
+- tag: Escola-Itinerante
 files: []
-type: ""
-support_line: "A Escola Itinerante no Acampamento Herdeiros da Terra de 1º de Maio, em Rio Bonito do Iguaçu (PR) contará com 14 turmas."
+type: ''
+support_line: A Escola Itinerante no Acampamento Herdeiros da Terra de 1º de Maio,
+  em Rio Bonito do Iguaçu (PR) contará com 14 turmas.
 section: cover
-hat: ""
-label: ""
-images_hd: "http://farm6.staticflickr.com/5575/15185175506_f4ded19167_b.jpg"
-menu: "educação, cultura e comunicação"
+hat: ''
+label: ''
+images_hd: http://farm6.staticflickr.com/5575/15185175506_f4ded19167_b.jpg
+menu: educação, cultura e comunicação
 published: true
-date: "2014-09-10T11:52:11-03:00"
+date: '2014-09-10T11:52:11-03:00'
 
 ---
 <p><em><img alt="" height="400" src="http://farm6.staticflickr.com/5575/15185175506_f4ded19167_b.jpg" width="600" /><br />

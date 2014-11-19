@@ -1,23 +1,24 @@
 ---
 layout: post
 title: MPF acusa ruralistas de interferirem ilegalmente na PEC das terras indígenas
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Agronegócio
-  - tag: Indígenas
+- tag: Agronegócio
+- tag: Indígenas
 files: []
-type: ""
-support_line: "Escutas apontam que relatório da PEC 215, de responsabilidade do deputado Osmar Serraglio, estaria sendo elaborado por advogado da CNA."
-section: ""
+type: ''
+support_line: Escutas apontam que relatório da PEC 215, de responsabilidade do deputado
+  Osmar Serraglio, estaria sendo elaborado por advogado da CNA.
+section: ''
 hat: Agronegócio
-label: ""
-images_hd: "http://farm4.staticflickr.com/3904/15005738768_17f04b00eb_b.jpg"
+label: ''
+images_hd: http://farm4.staticflickr.com/3904/15005738768_17f04b00eb_b.jpg
 menu: direitos humanos
 published: true
-date: "2014-09-03T17:04:58-03:00"
+date: '2014-09-03T17:04:58-03:00'
 
 ---
 <p><br />

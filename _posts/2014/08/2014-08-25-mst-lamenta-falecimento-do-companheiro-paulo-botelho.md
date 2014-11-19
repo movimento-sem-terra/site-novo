@@ -1,22 +1,24 @@
 ---
 layout: post
 title: MST lamenta falecimento do companheiro Paulo Botelho
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Homenagem
+- tag: Homenagem
 files: []
-type: ""
-support_line: "Quando o MST passou por Ribeirão Preto, em sua Marcha histórica para Brasília, em 1997, Paulo foi uma figura central ao ajudar os Sem Terra e, futuramente, a construir o MST no município paulista."
-section: ""
+type: ''
+support_line: Quando o MST passou por Ribeirão Preto, em sua Marcha histórica para
+  Brasília, em 1997, Paulo foi uma figura central ao ajudar os Sem Terra e, futuramente,
+  a construir o MST no município paulista.
+section: ''
 hat: Homenagem
-label: ""
-images_hd: "http://farm4.staticflickr.com/3899/14849185480_3f554cd31b_b.jpg"
+label: ''
+images_hd: http://farm4.staticflickr.com/3899/14849185480_3f554cd31b_b.jpg
 menu: lutadores-do-povo
 published: true
-date: "2014-08-25T17:40:46-03:00"
+date: '2014-08-25T17:40:46-03:00'
 
 ---
 <p><em>Da P&aacute;gina do MST</em></p>

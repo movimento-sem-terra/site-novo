@@ -1,23 +1,24 @@
 ---
 layout: post
 title: MST participa de campanha de ajuda humanitária à Faixa de Gaza
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Palestina
-  - tag: Rio-Grande-do-Sul
+- tag: Palestina
+- tag: Rio-Grande-do-Sul
 files: []
-type: ""
-support_line: "Durante o lançamento no RS, o embaixador da Palestina, Alzeben, afirmou que não existirá paz enquanto os palestinos não tiverem seu  território."
-section: ""
+type: ''
+support_line: Durante o lançamento no RS, o embaixador da Palestina, Alzeben, afirmou
+  que não existirá paz enquanto os palestinos não tiverem seu  território.
+section: ''
 hat: Solidariedade
-label: ""
-images_hd: "http://farm4.staticflickr.com/3841/14960441246_f102cc8ff8_b.jpg"
+label: ''
+images_hd: http://farm4.staticflickr.com/3841/14960441246_f102cc8ff8_b.jpg
 menu: solidariedade
 published: true
-date: "2014-08-20T17:34:43-03:00"
+date: '2014-08-20T17:34:43-03:00'
 
 ---
 <p><img alt="" height="400" src="http://farm4.staticflickr.com/3841/14960441246_f102cc8ff8_b.jpg" width="600" /><br />

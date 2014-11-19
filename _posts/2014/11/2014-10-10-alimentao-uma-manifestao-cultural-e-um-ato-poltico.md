@@ -1,23 +1,24 @@
 ---
 layout: post
-title: "Alimentação, uma manifestação cultural e um ato político"
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+title: Alimentação, uma manifestação cultural e um ato político
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: agricultura-camponesa
-  - tag: alimentação
+- tag: agricultura-camponesa
+- tag: alimentação
 files: []
-type: ""
-support_line: O novo Guia da Alimentação foge dos antigos padrões e apresenta uma proposta mais sobre as complexidades contemporâneas em torno da alimentação.
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm8.staticflickr.com/7558/15139760813_bd378ff1bb_b.jpg"
+type: ''
+support_line: O novo Guia da Alimentação foge dos antigos padrões e apresenta uma
+  proposta mais sobre as complexidades contemporâneas em torno da alimentação.
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm8.staticflickr.com/7558/15139760813_bd378ff1bb_b.jpg
 menu: agricultura camponesa
 published: true
-date: "2014-10-10T17:25:19-03:00"
+date: '2014-10-10T17:25:19-03:00'
 
 ---
 <p><em><img alt="" height="448" src="http://farm8.staticflickr.com/7558/15139760813_bd378ff1bb_b.jpg" style="float:left" width="350" />Da IHU</em></p>

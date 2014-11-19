@@ -4,7 +4,7 @@ title: Jornada da Juventude Sem Terra
 legacy_url: http://www.mst.org.br/node/12183
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/Logo juv.JPG
 video: ''
-tags: ''
+tags: []
 type: 
 support_line: ''
 section: 

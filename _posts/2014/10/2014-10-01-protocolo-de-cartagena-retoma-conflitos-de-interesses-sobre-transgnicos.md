@@ -1,23 +1,24 @@
 ---
 layout: post
 title: Protocolo de Cartagena retoma conflitos de interesses sobre transgênicos
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: meio-ambiente
-  - tag: Protocolo-de-Cartagena
+- tag: meio-ambiente
+- tag: Protocolo-de-Cartagena
 files: []
-type: ""
-support_line: Os primeiros dias do evento  retoma a disputa entre  para a implementação dos mecanismos de biossegurança
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm4.staticflickr.com/3931/15275142889_20b0b4b08f_b.jpg"
+type: ''
+support_line: Os primeiros dias do evento  retoma a disputa entre  para a implementação
+  dos mecanismos de biossegurança
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm4.staticflickr.com/3931/15275142889_20b0b4b08f_b.jpg
 menu: meio ambiente
 published: true
-date: "2014-10-01T16:34:41-03:00"
+date: '2014-10-01T16:34:41-03:00'
 
 ---
 <p><img alt="" src="http://farm4.staticflickr.com/3931/15275142889_20b0b4b08f_b.jpg" /></p>

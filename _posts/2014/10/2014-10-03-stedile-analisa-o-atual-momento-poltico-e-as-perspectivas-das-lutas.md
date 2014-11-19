@@ -1,23 +1,24 @@
 ---
 layout: post
 title: Stedile analisa o atual momento político e as perspectivas das lutas
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: eleições
-  - tag: Projeto-Popular
+- tag: eleições
+- tag: Projeto-Popular
 files: []
-type: ""
-support_line: "\"Este é ‘apenas o primeiro round de um intenso período de embates sobre os rumos da economia e do país\"."
-section: ""
-hat: ""
+type: ''
+support_line: '"Este é ‘apenas o primeiro round de um intenso período de embates sobre
+  os rumos da economia e do país".'
+section: ''
+hat: ''
 label: interviews
-images_hd: "http://farm4.staticflickr.com/3929/15275976967_06c2778bd2_b.jpg"
+images_hd: http://farm4.staticflickr.com/3929/15275976967_06c2778bd2_b.jpg
 menu: reforma agrária
 published: true
-date: "2014-10-03T17:49:10-03:00"
+date: '2014-10-03T17:49:10-03:00'
 
 ---
 <p><em>Da Carta Maior</em></p>

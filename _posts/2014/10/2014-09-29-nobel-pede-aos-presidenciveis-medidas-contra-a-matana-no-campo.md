@@ -1,24 +1,25 @@
 ---
 layout: post
 title: Nobel pede aos presidenciáveis medidas contra a matança no campo
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: nobel
-  - tag: violência
-  - tag: direitos-humanos
+- tag: nobel
+- tag: violência
+- tag: direitos-humanos
 files: []
-type: ""
-support_line: "Só em 2014, ao menos 25 pessoas foram assassinadas fruto do conflito agrário. Entre 2002 e 2013, foram 448 mortes"
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm4.staticflickr.com/3935/15274635528_bb9cc2f52c_b.jpg"
+type: ''
+support_line: Só em 2014, ao menos 25 pessoas foram assassinadas fruto do conflito
+  agrário. Entre 2002 e 2013, foram 448 mortes
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm4.staticflickr.com/3935/15274635528_bb9cc2f52c_b.jpg
 menu: direitos humanos
 published: true
-date: "2014-09-29T15:30:53-03:00"
+date: '2014-09-29T15:30:53-03:00'
 
 ---
 <h1>&nbsp;</h1>

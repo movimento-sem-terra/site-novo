@@ -1,23 +1,24 @@
 ---
 layout: post
 title: MST e Univasf procuram ampliar parceria na região do Vale do São Franscisco
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Pernambuco
-  - tag: Univasf
+- tag: Pernambuco
+- tag: Univasf
 files: []
-type: ""
-support_line: “Queremos levar o conhecimento para os trabalhadores rurais com uma Universidade que dialogue com os camponeses”.
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm3.staticflickr.com/2950/15275730017_1e4a6d7232_b.jpg"
-menu: "educação, cultura e comunicação"
+type: ''
+support_line: "“Queremos levar o conhecimento para os trabalhadores rurais com uma
+  Universidade que dialogue com os camponeses”."
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm3.staticflickr.com/2950/15275730017_1e4a6d7232_b.jpg
+menu: educação, cultura e comunicação
 published: true
-date: "2014-10-02T17:23:41-03:00"
+date: '2014-10-02T17:23:41-03:00'
 
 ---
 <p><em>Da P&aacute;gina do MST</em></p>

@@ -1,22 +1,23 @@
 ---
 layout: post
 title: Plebiscito popular da Reforma Política tem início no Brasil
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Plebiscito-Constituinte
+- tag: Plebiscito-Constituinte
 files: []
-type: ""
-support_line: O Plebiscito consultará os brasileiros sobre a convocação de uma assembleia nacional constituinte para fazer a Reforma Política.
-section: ""
+type: ''
+support_line: O Plebiscito consultará os brasileiros sobre a convocação de uma assembleia
+  nacional constituinte para fazer a Reforma Política.
+section: ''
 hat: Projeto Popular
-label: ""
-images_hd: "http://farm6.staticflickr.com/5569/15005622537_bc77d6918b_b.jpg"
+label: ''
+images_hd: http://farm6.staticflickr.com/5569/15005622537_bc77d6918b_b.jpg
 menu: projeto popular
 published: true
-date: "2014-09-02T16:48:07-03:00"
+date: '2014-09-02T16:48:07-03:00'
 
 ---
 <p><br />

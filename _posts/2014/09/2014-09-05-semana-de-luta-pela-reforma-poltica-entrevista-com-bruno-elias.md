@@ -1,22 +1,23 @@
 ---
 layout: post
-title: "Semana de Luta pela Reforma Política: entrevista com Bruno Elias"
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+title: 'Semana de Luta pela Reforma Política: entrevista com Bruno Elias'
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Plebiscito-Constituinte
+- tag: Plebiscito-Constituinte
 files: []
-type: ""
-support_line: “Uma reforma política popular deve contemplar medidas que fortaleçam a disputa de projetos e não de pessoas”
-section: ""
+type: ''
+support_line: "“Uma reforma política popular deve contemplar medidas que fortaleçam
+  a disputa de projetos e não de pessoas”"
+section: ''
 hat: Plebiscito
 label: interviews
-images_hd: "http://farm6.staticflickr.com/5563/15192547275_92f85f276f_b.jpg"
+images_hd: http://farm6.staticflickr.com/5563/15192547275_92f85f276f_b.jpg
 menu: projeto popular
 published: true
-date: "2014-09-05T17:33:14-03:00"
+date: '2014-09-05T17:33:14-03:00'
 
 ---
 <p><br />

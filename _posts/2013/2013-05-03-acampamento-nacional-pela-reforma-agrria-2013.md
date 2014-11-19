@@ -4,7 +4,7 @@ title: Acampamento Nacional pela Reforma Agrária 2013
 legacy_url: http://www.mst.org.br/node/14787
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/acampamento_pagina.jpg
 video: ''
-tags: ''
+tags: []
 type: 
 support_line: ''
 section: 

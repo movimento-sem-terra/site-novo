@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/8794
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/exposicao_capa
   copy.jpg
 video: ''
-tags: ''
+tags: []
 type: 
 support_line: ''
 section: 

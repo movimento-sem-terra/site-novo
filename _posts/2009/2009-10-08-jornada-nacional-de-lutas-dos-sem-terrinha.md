@@ -4,7 +4,7 @@ title: Jornada Nacional de Lutas dos Sem Terrinha
 legacy_url: http://www.mst.org.br/node/8300
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/jornadasemterrinha.jpg
 video: ''
-tags: ''
+tags: []
 type: 
 support_line: ''
 section: 

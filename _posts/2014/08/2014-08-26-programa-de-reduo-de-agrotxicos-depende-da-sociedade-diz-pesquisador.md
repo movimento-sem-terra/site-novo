@@ -1,23 +1,24 @@
 ---
 layout: post
-title: "Programa de redução de agrotóxicos depende da sociedade, diz pesquisador"
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+title: Programa de redução de agrotóxicos depende da sociedade, diz pesquisador
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Agroecologia
-  - tag: Agrotóxicos
+- tag: Agroecologia
+- tag: Agrotóxicos
 files: []
-type: ""
-support_line: O engenheiro agrônomo Leonardo Melgarejo explica em que contexto aparece o Programa.
-section: ""
+type: ''
+support_line: O engenheiro agrônomo Leonardo Melgarejo explica em que contexto aparece
+  o Programa.
+section: ''
 hat: Agroecologia
 label: interviews
-images_hd: "http://farm6.staticflickr.com/5577/14885935989_4e2d1b8e0c_b.jpg"
+images_hd: http://farm6.staticflickr.com/5577/14885935989_4e2d1b8e0c_b.jpg
 menu: agricultura camponesa
 published: true
-date: "2014-08-26T10:22:40-03:00"
+date: '2014-08-26T10:22:40-03:00'
 
 ---
 <p><em>Da ABA</em></p>

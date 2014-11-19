@@ -1,24 +1,25 @@
 ---
 layout: post
 title: Trabalho escravo financiou 61 candidatos
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: trabalho-escravo
-  - tag: financiamento
-  - tag: Aécio-Neves
+- tag: trabalho-escravo
+- tag: financiamento
+- tag: Aécio-Neves
 files: []
-type: ""
-support_line: "Aécio Neves, cinco candidatos ao governo e seis ao Senado foram bancados entre 2002 e 2014 por essas empresas"
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm3.staticflickr.com/2946/15459351331_f5e200c431_b.jpg"
+type: ''
+support_line: Aécio Neves, cinco candidatos ao governo e seis ao Senado foram bancados
+  entre 2002 e 2014 por essas empresas
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm3.staticflickr.com/2946/15459351331_f5e200c431_b.jpg
 menu: direitos humanos
 published: true
-date: "2014-10-03T17:35:10-03:00"
+date: '2014-10-03T17:35:10-03:00'
 
 ---
 <p><em>Por Piero Locatelli<br />

@@ -1,27 +1,28 @@
 ---
 layout: post
 title: Movimentos camponeses realizam atividades agroecológicas em Sergipe
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: agroecologia
-  - tag: Sergipe
+- tag: agroecologia
+- tag: Sergipe
 files:
-  - link: "http://farm4.staticflickr.com/3929/15244745057_906b38c512_b.jpg"
-    thumbnail: "http://farm4.staticflickr.com/3929/15244745057_906b38c512_t.jpg"
-    title: 1.jpg
-    $$hashKey: "023"
-type: ""
-support_line: "Com o objetivo de fortalecer a Agroecologia no estado de Sergipe, os movimentos sociais do campo realizaram um conjunto de atividades"
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm4.staticflickr.com/3936/15430332652_18a25be4c0_b.jpg"
+- link: http://farm4.staticflickr.com/3929/15244745057_906b38c512_b.jpg
+  thumbnail: http://farm4.staticflickr.com/3929/15244745057_906b38c512_t.jpg
+  title: 1.jpg
+  "$$hashKey": '023'
+type: ''
+support_line: Com o objetivo de fortalecer a Agroecologia no estado de Sergipe, os
+  movimentos sociais do campo realizaram um conjunto de atividades
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm4.staticflickr.com/3936/15430332652_18a25be4c0_b.jpg
 menu: agricultura camponesa
 published: true
-date: "2014-09-26T15:43:00-03:00"
+date: '2014-09-26T15:43:00-03:00'
 
 ---
 <h1><img alt="" height="525" src="http://farm4.staticflickr.com/3936/15430332652_18a25be4c0_b.jpg" width="700" /></h1>

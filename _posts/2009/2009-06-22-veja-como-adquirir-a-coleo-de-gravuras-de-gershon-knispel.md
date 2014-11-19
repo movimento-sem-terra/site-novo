@@ -4,7 +4,7 @@ title: Veja como adquirir a coleção de gravuras de Gershon Knispel
 legacy_url: http://www.mst.org.br/node/108
 images: ''
 video: ''
-tags: ''
+tags: []
 type: 
 support_line: ''
 section: 

@@ -1,22 +1,23 @@
 ---
 layout: post
 title: Plebiscito Popular pela Constituinte inicia a apuração de votos
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Plebiscito-Constituinte
+- tag: Plebiscito-Constituinte
 files: []
-type: ""
-support_line: "Ao todo, 40 mil urnas foram instaladas em todos os estados brasileiros. Ataques ao site da organização retardaram o fechamento da consulta."
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm6.staticflickr.com/5576/15207774292_5b3b77af68_b.jpg"
+type: ''
+support_line: Ao todo, 40 mil urnas foram instaladas em todos os estados brasileiros.
+  Ataques ao site da organização retardaram o fechamento da consulta.
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm6.staticflickr.com/5576/15207774292_5b3b77af68_b.jpg
 menu: projeto popular
 published: true
-date: "2014-09-09T11:46:57-03:00"
+date: '2014-09-09T11:46:57-03:00'
 
 ---
 <p><em>Da RBA</em></p>

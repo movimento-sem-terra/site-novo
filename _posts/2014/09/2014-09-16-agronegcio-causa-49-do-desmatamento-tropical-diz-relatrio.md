@@ -1,23 +1,24 @@
 ---
 layout: post
-title: "Agronegócio causa 49% do desmatamento tropical, diz relatório"
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+title: Agronegócio causa 49% do desmatamento tropical, diz relatório
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Meio-Ambiente
-  - tag: Agronegócio
+- tag: Meio-Ambiente
+- tag: Agronegócio
 files: []
-type: ""
-support_line: "No Brasil, segundo o documento, os principais motores da devastação foram a produção de gado e de soja."
-section: ""
+type: ''
+support_line: No Brasil, segundo o documento, os principais motores da devastação
+  foram a produção de gado e de soja.
+section: ''
 hat: Meio Ambiente
-label: ""
-images_hd: "http://farm6.staticflickr.com/5564/15080563129_1d31f46f9b_b.jpg"
+label: ''
+images_hd: http://farm6.staticflickr.com/5564/15080563129_1d31f46f9b_b.jpg
 menu: agronegócio
 published: true
-date: "2014-09-16T09:40:42-03:00"
+date: '2014-09-16T09:40:42-03:00'
 
 ---
 <p><br />

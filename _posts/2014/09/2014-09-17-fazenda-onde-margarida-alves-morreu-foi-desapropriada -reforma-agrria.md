@@ -1,23 +1,24 @@
 ---
 layout: post
 title: Camponeses conquistam fazenda onde Margarida Alves foi assassinada
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Paraíba
-  - tag: Reforma-Agrária
+- tag: Paraíba
+- tag: Reforma-Agrária
 files: []
-type: ""
-support_line: "Foram necessários 31 anos de luta para que a Usina Tanques, no município de Alagoa Grande (PB), fosse desapropriada e destinada à Reforma Agrária."
+type: ''
+support_line: Foram necessários 31 anos de luta para que a Usina Tanques, no município
+  de Alagoa Grande (PB), fosse desapropriada e destinada à Reforma Agrária.
 section: cover
 hat: Vitória
-label: ""
-images_hd: "http://farm6.staticflickr.com/5591/15080633428_ba900bc098_b.jpg"
+label: ''
+images_hd: http://farm6.staticflickr.com/5591/15080633428_ba900bc098_b.jpg
 menu: reforma agrária
 published: true
-date: "2014-09-17T09:22:08-03:00"
+date: '2014-09-17T09:22:08-03:00'
 
 ---
 <p><img alt="" height="419" src="http://farm6.staticflickr.com/5591/15080633428_ba900bc098_b.jpg" width="660" /><br />

@@ -1,24 +1,26 @@
 ---
 layout: post
-title: "Mobilização contra mudanças climáticas terá bloco 'Não Vote em Ruralista\", no Rio"
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+title: Mobilização contra mudanças climáticas terá bloco 'Não Vote em Ruralista",
+  no Rio
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Meio-Ambiente
-  - tag: Eleições
-  - tag: Bancada-Ruralista
+- tag: Meio-Ambiente
+- tag: Eleições
+- tag: Bancada-Ruralista
 files: []
-type: ""
-support_line: "No próximo domingo (21), cerca de 105 países de todo o mundo realizam uma das maiores mobilizações globais pelo clima do planeta."
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm4.staticflickr.com/3929/15413505885_242943c5bb_b.jpg"
+type: ''
+support_line: No próximo domingo (21), cerca de 105 países de todo o mundo realizam
+  uma das maiores mobilizações globais pelo clima do planeta.
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm4.staticflickr.com/3929/15413505885_242943c5bb_b.jpg
 menu: lutas e mobilizações
 published: true
-date: "2014-09-19T16:20:58-03:00"
+date: '2014-09-19T16:20:58-03:00'
 
 ---
 <p><br />

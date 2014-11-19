@@ -1,24 +1,25 @@
 ---
 layout: post
 title: Sem Terra realizam formação de promotores agroecológicos
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Educação
-  - tag: Agroecologia
-  - tag: Sergipe
+- tag: Educação
+- tag: Agroecologia
+- tag: Sergipe
 files: []
-type: ""
-support_line: "A atividade aconteceu no centro de formação Canudos, no Assentamento Moacir Wanderley, região metropolitana do Sergipe."
-section: ""
+type: ''
+support_line: A atividade aconteceu no centro de formação Canudos, no Assentamento
+  Moacir Wanderley, região metropolitana do Sergipe.
+section: ''
 hat: Educação
-label: ""
-images_hd: "http://farm6.staticflickr.com/5559/14886083368_686817832e_b.jpg"
-menu: "educação, cultura e comunicação"
+label: ''
+images_hd: http://farm6.staticflickr.com/5559/14886083368_686817832e_b.jpg
+menu: educação, cultura e comunicação
 published: true
-date: "2014-08-28T10:28:11-03:00"
+date: '2014-08-28T10:28:11-03:00'
 
 ---
 <p><span contenteditable="false" tabindex="-1"><img alt="" data-widget="image" height="346" src="http://farm6.staticflickr.com/5559/14886083368_686817832e_b.jpg" width="586" /></span></p>

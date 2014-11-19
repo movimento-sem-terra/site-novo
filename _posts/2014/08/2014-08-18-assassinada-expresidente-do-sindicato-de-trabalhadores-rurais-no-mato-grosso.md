@@ -1,23 +1,24 @@
 ---
 layout: post
 title: Assassinada ex-presidente do sindicato de trabalhadores rurais no Mato Grosso
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Violência
-  - tag: Mato-Grosso
+- tag: Violência
+- tag: Mato-Grosso
 files: []
-type: ""
-support_line: "Maria Lúcia do Nascimento foi assassinada a tiros. Recentemente, ela e mais 25 famílias haviam recebido da justiça a reintegração do assentamento."
-section: ""
+type: ''
+support_line: Maria Lúcia do Nascimento foi assassinada a tiros. Recentemente, ela
+  e mais 25 famílias haviam recebido da justiça a reintegração do assentamento.
+section: ''
 hat: Direitos Humanos
-label: ""
-images_hd: "http://farm6.staticflickr.com/5552/14969325022_bd87c55004_b.jpg"
+label: ''
+images_hd: http://farm6.staticflickr.com/5552/14969325022_bd87c55004_b.jpg
 menu: direitos humanos
 published: true
-date: "2014-08-18T10:53:51-03:00"
+date: '2014-08-18T10:53:51-03:00'
 
 ---
 <p><br />

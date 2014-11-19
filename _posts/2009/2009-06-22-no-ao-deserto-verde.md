@@ -4,7 +4,7 @@ title: Não ao Deserto Verde!
 legacy_url: http://www.mst.org.br/node/82
 images: ''
 video: ''
-tags: ''
+tags: []
 type: 
 support_line: ''
 section: 

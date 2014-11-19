@@ -1,22 +1,23 @@
 ---
 layout: post
-title: "Perdão e reparação, o primeiro povo indígena anistiado"
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+title: Perdão e reparação, o primeiro povo indígena anistiado
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Indígenas
+- tag: Indígenas
 files: []
-type: ""
-support_line: Pela primeira vez vão ser julgados processos de anistia solicitado por um povo indígena.
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm4.staticflickr.com/3931/15413320292_01996ef1e3_b.jpg"
+type: ''
+support_line: Pela primeira vez vão ser julgados processos de anistia solicitado por
+  um povo indígena.
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm4.staticflickr.com/3931/15413320292_01996ef1e3_b.jpg
 menu: direitos humanos
 published: true
-date: "2014-09-22T16:40:51-03:00"
+date: '2014-09-22T16:40:51-03:00'
 
 ---
 <p>&nbsp;</p>

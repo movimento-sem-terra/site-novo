@@ -1,22 +1,23 @@
 ---
 layout: post
 title: Costa Rica declara inconstitucional a aprovação de transgênicos
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Agronegócio
+- tag: Agronegócio
 files: []
-type: ""
-support_line: "Na Argentina, uma demanda coletiva pede a suspensão das resoluções similares e posteriores que concedem autorizações de “eventos” transgênicos."
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm4.staticflickr.com/3929/15227204700_08d07c8b45_b.jpg"
+type: ''
+support_line: Na Argentina, uma demanda coletiva pede a suspensão das resoluções similares
+  e posteriores que concedem autorizações de “eventos” transgênicos.
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm4.staticflickr.com/3929/15227204700_08d07c8b45_b.jpg
 menu: transgênicos
 published: true
-date: "2014-09-24T17:10:53-03:00"
+date: '2014-09-24T17:10:53-03:00'
 
 ---
 <p>&nbsp;</p>

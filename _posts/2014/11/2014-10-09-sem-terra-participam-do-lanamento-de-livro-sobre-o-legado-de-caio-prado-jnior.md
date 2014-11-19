@@ -1,23 +1,24 @@
 ---
 layout: post
 title: Sem Terra participam do lançamento de livro sobre o legado de Caio Prado Júnior
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Cultura
-  - tag: Ceará
+- tag: Cultura
+- tag: Ceará
 files: []
-type: ""
-support_line: A turma do curso de Serviço Social da Terra da UFC participou do lançamento do livro “Legado de um saber-fazer histórico”.
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm8.staticflickr.com/7474/15139096544_2207d151ed_b.jpg"
-menu: "educação, cultura e comunicação"
+type: ''
+support_line: A turma do curso de Serviço Social da Terra da UFC participou do lançamento
+  do livro “Legado de um saber-fazer histórico”.
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm8.staticflickr.com/7474/15139096544_2207d151ed_b.jpg
+menu: educação, cultura e comunicação
 published: true
-date: "2014-10-09T17:08:34-03:00"
+date: '2014-10-09T17:08:34-03:00'
 
 ---
 <p><br />

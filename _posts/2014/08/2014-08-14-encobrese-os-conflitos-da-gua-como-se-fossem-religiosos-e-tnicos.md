@@ -1,23 +1,24 @@
 ---
 layout: post
-title: “Encobre-se os conflitos da água como se fossem religiosos e étnicos”
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+title: "“Encobre-se os conflitos da água como se fossem religiosos e étnicos”"
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Multinacionais
-  - tag: àgua
+- tag: Multinacionais
+- tag: "àgua"
 files: []
-type: ""
-support_line: "A física e ativista do meio ambiente, Vandana Shiva, destaca a água enquanto um direito humano fundamental, o qual não pode ser tratado como uma mercadoria."
-section: ""
+type: ''
+support_line: A física e ativista do meio ambiente, Vandana Shiva, destaca a água
+  enquanto um direito humano fundamental, o qual não pode ser tratado como uma mercadoria.
+section: ''
 hat: Multinacionais
 label: interviews
-images_hd: "http://farm6.staticflickr.com/5572/14731959050_3fec95da17_b.jpg"
+images_hd: http://farm6.staticflickr.com/5572/14731959050_3fec95da17_b.jpg
 menu: agronegócio
 published: true
-date: "2014-08-14T15:10:07-03:00"
+date: '2014-08-14T15:10:07-03:00'
 
 ---
 <p><span contenteditable="false" tabindex="-1"><img alt="" data-widget="image" height="300" src="http://farm6.staticflickr.com/5572/14731959050_3fec95da17_b.jpg" width="522" /></span><br />

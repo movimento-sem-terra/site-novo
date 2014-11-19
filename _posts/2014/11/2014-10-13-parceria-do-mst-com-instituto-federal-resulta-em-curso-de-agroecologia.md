@@ -1,23 +1,24 @@
 ---
 layout: post
 title: Parceria do MST com Instituto Federal resulta em curso de agroecologia
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Pará
-  - tag: Formação
+- tag: Pará
+- tag: Formação
 files: []
-type: ""
-support_line: "Aliar o conhecimento técnico ao saber popular camponês. Essa é uma das motivações do Curso de Formação em Agroecologia, uma parceria entre MST e IFPA."
-section: ""
-hat: ""
-label: ""
-images_hd: "http://farm8.staticflickr.com/7494/15735501436_94f241f6bb_b.jpg"
+type: ''
+support_line: Aliar o conhecimento técnico ao saber popular camponês. Essa é uma das
+  motivações do Curso de Formação em Agroecologia, uma parceria entre MST e IFPA.
+section: ''
+hat: ''
+label: ''
+images_hd: http://farm8.staticflickr.com/7494/15735501436_94f241f6bb_b.jpg
 menu: agricultura camponesa
 published: true
-date: "2014-10-13T17:27:38-03:00"
+date: '2014-10-13T17:27:38-03:00'
 
 ---
 <p><br />
