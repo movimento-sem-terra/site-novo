@@ -8,7 +8,6 @@ section.banners {
     min-width: 560px;
 
     figure {
-      margin: 0;
       box-shadow: none;
       width: 260px;
       height: 260px;
@@ -16,15 +15,15 @@ section.banners {
       img {
         width: 200px;
       }
+
+      &:after {
+        background: none;  
+      }
     }
 
     & > ul > li {
       padding: 0 0 20px 0;
       text-align: center;
-    }
-
-    figure:after {
-      background: none;
     }
   }
 }
