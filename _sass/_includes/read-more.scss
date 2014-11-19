@@ -1,35 +1,30 @@
 main > footer {
-   @include default-figure-images();
-   article.headline {
-     figure {
-       height: 160px;
-     }
-     iframe {
-       height: 100%;
-     }
-   }
-   margin-top: 50px;
-   padding-top: 5px;
-   border-top: 2px solid #DDD;
+  @include default-figure-images();
 
-   h1 {
-     font-weight: bold;
-     font-size: 1.1em;
-     margin: 0;
-     padding: 4px 0;
-   }
+  margin-top: 50px;
+  padding-top: 5px;
+  border-top: 2px solid #DDD;
 
-  .headline p {
-    font-size: 14px;
-  }
-
-  .headline figure {
-    max-width: 100%;
+  h1 {
+   font-weight: bold;
+   font-size: 1.1em;
+   margin: 0;
+   padding: 4px 0;
   }
 
   ul {
     padding-left: 0;
-    padding-top: 10px
+    padding-top: 10px;
+
+    article.headline {
+     figure {
+       height: 160px;
+       max-width: 100%;
+     }
+     iframe {
+       height: 100%;
+     }
+    }
   }
 
   li {
