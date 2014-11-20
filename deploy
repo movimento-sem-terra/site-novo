@@ -51,7 +51,7 @@ function deploy {
 }
 
 function install_gems {
-  bundle install --jobs 8 --local --without test
+  bundle install --jobs 8
 }
 
 install_gems $1
