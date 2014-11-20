@@ -16,11 +16,17 @@ for(i=0; i<tracked_links.length; i++) {
   category = trackableItems[1];
   $(selector).each(function(index) {
     $(this).on('click', function() {
+      var label = $(this).attr('href');
+
+      if (label === '#') {
+        label = $(this).text();
+      }
+
       ga('send', {
         'hitType': 'event',
         'eventCategory': category,
         'eventAction': 'click',
-        'eventLabel': $(this).attr('href')
+        'eventLabel': label
       });
     });
   });
