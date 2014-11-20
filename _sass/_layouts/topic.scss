@@ -125,6 +125,10 @@ main.topic {
           vertical-align: top;
           margin-right: 1%;
 
+          h1 {
+            margin-top: 10px;
+          }
+
           & + li {
             margin-top: 0;
           }
