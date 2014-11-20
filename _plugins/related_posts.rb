@@ -33,7 +33,7 @@ module Jekyll
     def tag_freq(posts)
       return @tag_freq if @tag_freq
       @tag_freq = Hash.new(0)
-      posts.each do |post|
+      posts[0..50].each do |post|
         post.tags.each {|tag| @tag_freq[tag] += 1}
       end
       @tag_freq
