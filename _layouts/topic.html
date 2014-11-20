@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% assign posts = site.posts | where: 'topic',  page.tag %}
+{% assign posts = site.posts | where: 'menu',  page.topic %}
 {% assign news = posts | where: 'video', '' %}
 {% assign videos =  posts | where_not_null: 'video' %}
 
