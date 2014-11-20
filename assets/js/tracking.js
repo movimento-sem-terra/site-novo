@@ -1,8 +1,8 @@
 var tracked_links = [
   ['.parceiros ul li a', 'parceiros'],
-  ['.social ul li a', 'social'], 
+  ['.social ul li a', 'social'],
   ['.amigos ul li a', 'amigos'],
-  ['.links ul li a', 'links'], 
+  ['.links ul li a', 'links'],
   ['.news .more a', 'mais-noticias'],
   ['.videos .more a', 'mais-videos'],
   ['nav ul li a', 'header-links']
@@ -17,9 +17,9 @@ for(i=0; i<tracked_links.length; i++) {
   $(selector).each(function(index) {
     $(this).on('click', function() {
       ga('send', {
-        'hitType': 'event',          
+        'hitType': 'event',
         'eventCategory': category,
-        'eventAction': 'click',   
+        'eventAction': 'click',
         'eventLabel': $(this).attr('href')
       });
     });
@@ -44,18 +44,18 @@ $("main section").each(function(index, element){
 
 $(".details-inited summary").on('click', function() {
   ga('send', {
-    'hitType': 'event',          
+    'hitType': 'event',
     'eventCategory': 'leia-mais',
-    'eventAction': 'click',   
+    'eventAction': 'click',
     'eventLabel': $('.tema h1').text()
   });
 });
 
 $("header > a").on('click', function() {
   ga('send', {
-    'hitType': 'event',          
+    'hitType': 'event',
     'eventCategory': 'header-links',
-    'eventAction': 'click',   
+    'eventAction': 'click',
     'eventLabel': 'Logotipo'
   });
 });
@@ -79,7 +79,7 @@ $('.dropdown').children('a').on('click', function(event) {
 });
 
 $('#open-menu').on('click', function () {
-  $(this).siblings('ul').toggleClass('open');        
+  $(this).siblings('ul').toggleClass('open');
 });
 
 $('.arrow-right').on('click', function () {
