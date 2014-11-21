@@ -1,16 +1,10 @@
 section.newspaper {
   @extend .banners;
   float: left;
-  width: auto;
+  width: 25%;
   min-width: 0;
 
   figure {
     border: 2px dashed #AAA;
   }
-}
-
-section.facebook {
-  float: left;
-  margin-left: 30px;
-  display: inline-block;
 }

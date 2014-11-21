@@ -1,13 +1,22 @@
 section.banners {
-  @extend .featured-news;
   display: none;
 
   @media (min-width: $screen-sm) {
     display: inline-block;
+    float: left;
     width: 50%;
-    min-width: 560px;
+    min-width: 0;
+    padding-right: 40px;
+
+    a + a {
+      figure {
+        float: right;
+      }
+    }
 
     figure {
+      display: inline-block;
+      float: left;
       box-shadow: none;
       width: 260px;
       height: 260px;
@@ -19,11 +28,6 @@ section.banners {
       &:after {
         background: none;  
       }
-    }
-
-    & > ul > li {
-      padding: 0 0 20px 0;
-      text-align: center;
     }
   }
 }
