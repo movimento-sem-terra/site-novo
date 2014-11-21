@@ -1,24 +1,16 @@
 section.newspaper {
   @extend .banners;
-  width: 30%;
+  float: left;
+  width: auto;
   min-width: 0;
-  float: none;
 
-  ul{ 
-    li {
-      width: 100%;
-    }
+  figure {
+    border: 2px dashed #AAA;
   }
+}
 
-  p {
-    padding-top: 5px;
-    text-align: left;
-    width: 100%;
-  }
-
-  @media (min-width: $screen-big) {
-    p {
-      width: 260px;
-    }
-  }
+section.facebook {
+  float: left;
+  margin-left: 30px;
+  display: inline-block;
 }
