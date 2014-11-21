@@ -14,12 +14,12 @@ files:
     small: "http://farm8.staticflickr.com/7569/15845009362_e3c60fd486_n.jpg"
     title: encontro_CE.jpg
     $$hashKey: 01Q
-  - link: "http://farm8.staticflickr.com/7463/15225988573_b4c7303f75_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7463/15225988573_b4c7303f75_t.jpg"
-    medium: "http://farm8.staticflickr.com/7463/15225988573_b4c7303f75_z.jpg"
-    small: "http://farm8.staticflickr.com/7463/15225988573_b4c7303f75_n.jpg"
+  - link: "http://farm8.staticflickr.com/7547/15819918966_49485c6bc7_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7547/15819918966_49485c6bc7_t.jpg"
+    medium: "http://farm8.staticflickr.com/7547/15819918966_49485c6bc7_z.jpg"
+    small: "http://farm8.staticflickr.com/7547/15819918966_49485c6bc7_n.jpg"
     title: encontro_CE2.jpg
-    $$hashKey: 01T
+    $$hashKey: 03F
 published: true
 images_hd: "http://farm8.staticflickr.com/7569/15845009362_e3c60fd486_n.jpg"
 
@@ -50,14 +50,15 @@ Para ele o encontro permite perceber a abrang&ecirc;ncia que o MST tem desde a e
 
 <p style="margin: 0px; padding: 0px 0px 0.5em 8px; color: rgb(83, 93, 102); font-family: Arial, Verdana, Helvetica, sans-serif; font-size: 14px; line-height: 19.3151683807373px;">&nbsp;</p>
 
-<figure class="image" style="float:right"><img alt="encontro_CE2.jpg" src="http://farm8.staticflickr.com/7463/15225988573_b4c7303f75_n.jpg" />
+<p style="margin: 0px; padding: 0px 0px 0.5em 8px; color: rgb(83, 93, 102); font-family: Arial, Verdana, Helvetica, sans-serif; font-size: 14px; line-height: 19.3151683807373px;">Apenas no Cear&aacute;, os Sem Terra j&aacute; conquistaram 10 escolas do campo nas &aacute;reas de assentamentos. Cinco j&aacute; est&atilde;o funcionando, e as demais est&atilde;o em fase de constru&ccedil;&atilde;o. Com a demanda cada vez maior, o Movimento busca fortalecer uma rede dessas escolas no estado.&nbsp;</p>
+
+<p style="margin: 0px; padding: 0px 0px 0.5em 8px; color: rgb(83, 93, 102); font-family: Arial, Verdana, Helvetica, sans-serif; font-size: 14px; line-height: 19.3151683807373px;">&nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="encontro_CE2.jpg" src="http://farm8.staticflickr.com/7547/15819918966_49485c6bc7_n.jpg" />
 <figcaption>Legenda</figcaption>
 </figure>
 
-<p style="margin: 0px; padding: 0px 0px 0.5em 8px; color: rgb(83, 93, 102); font-family: Arial, Verdana, Helvetica, sans-serif; font-size: 14px; line-height: 19.3151683807373px;">Apenas no Cear&aacute;, os Sem Terra j&aacute; conquistaram 10 escolas do campo nas &aacute;reas de assentamentos. Cinco j&aacute; est&atilde;o funcionando, e as demais est&atilde;o em fase de constru&ccedil;&atilde;o. Com a demanda cada vez maior, o Movimento busca fortalecer uma rede dessas escolas no estado.&nbsp;</p>
-
-<p style="margin: 0px; padding: 0px 0px 0.5em 8px; color: rgb(83, 93, 102); font-family: Arial, Verdana, Helvetica, sans-serif; font-size: 14px; line-height: 19.3151683807373px;"><br />
-Entretanto, mesmo com a press&atilde;o dos movimentos sociais para se avan&ccedil;ar nessa &aacute;rea, na &uacute;ltima d&eacute;cada foram fechadas mais de 37 mil escolas do campo, segundo dados do pr&oacute;prio Minist&eacute;rio da Educa&ccedil;&atilde;o (MEC).&nbsp;</p>
+<p style="margin: 0px; padding: 0px 0px 0.5em 8px; color: rgb(83, 93, 102); font-family: Arial, Verdana, Helvetica, sans-serif; font-size: 14px; line-height: 19.3151683807373px;">Entretanto, mesmo com a press&atilde;o dos movimentos sociais para se avan&ccedil;ar nessa &aacute;rea, na &uacute;ltima d&eacute;cada foram fechadas mais de 37 mil escolas do campo, segundo dados do pr&oacute;prio Minist&eacute;rio da Educa&ccedil;&atilde;o (MEC).&nbsp;</p>
 
 <p style="margin: 0px; padding: 0px 0px 0.5em 8px; color: rgb(83, 93, 102); font-family: Arial, Verdana, Helvetica, sans-serif; font-size: 14px; line-height: 19.3151683807373px;"><br />
 Por isso, Jeov&aacute; tamb&eacute;m coloca a necessidade de continuar lutando para que n&atilde;o seja fechado mais nenhuma uma escola no meio rural.&nbsp;</p>
