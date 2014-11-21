@@ -37,7 +37,7 @@ Da P&aacute;gina do MST</em></p>
 Com o tema &ldquo;A Educa&ccedil;&atilde;o do Campo na Constru&ccedil;&atilde;o da Reforma Agr&aacute;ria Popular&rdquo;, o MST realiza o 6&deg; Encontro Estadual de Educadores e Educadoras no Cear&aacute;.&nbsp;</p>
 
 <p style="margin: 0px; padding: 0px 0px 0.5em 8px; color: rgb(83, 93, 102); font-family: Arial, Verdana, Helvetica, sans-serif; font-size: 14px; line-height: 19.3151683807373px;"><br />
-Com a participa&ccedil;&atilde;o de 300 educadores e convidados, o evento acontece entre os dias 20 a 23 no munic&iacute;pio de Beberibe, <img alt="" draggable="true" height="15" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" title="Click e arraste para mover" width="15" />h&aacute; 50 km de Fortaleza.</p>
+Com a participa&ccedil;&atilde;o de 300 educadores e convidados, o evento acontece entre os dias 20 a 23 no munic&iacute;pio de Beberibe,&nbsp;h&aacute; 50 km de Fortaleza.</p>
 
 <p style="margin: 0px; padding: 0px 0px 0.5em 8px; color: rgb(83, 93, 102); font-family: Arial, Verdana, Helvetica, sans-serif; font-size: 14px; line-height: 19.3151683807373px;"><br />
 O encontro pretende aprofundar a compreens&atilde;o do campo e da escola no projeto de Reforma Agr&aacute;ria Popular, fortalecer a luta pelo direito &agrave; educa&ccedil;&atilde;o em assentamentos e acampamentos e avan&ccedil;ar na organiza&ccedil;&atilde;o de base para a constru&ccedil;&atilde;o de escolas com pedagogia diferenciada.</p>
