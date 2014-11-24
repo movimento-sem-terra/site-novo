@@ -4,7 +4,6 @@ module Jekyll
 
     def generate(site)
       @newest_post = site.posts.sort { |a, b| b <=> a }[0..300]
-
       cover = find "cover"
       tv_mst = find 'tv'
       carousel = @newest_post.slice!(0,5) # the first five posts goes on carousel

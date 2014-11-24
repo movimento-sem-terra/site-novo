@@ -9,6 +9,7 @@ GEM
       timers (~> 4.0.0)
     classifier-reborn (2.0.2)
       fast-stemmer (~> 1.0)
+    coderay (1.1.0)
     coffee-script (2.3.0)
       coffee-script-source
       execjs
@@ -52,9 +53,16 @@ GEM
     neat (1.7.0)
       bourbon (>= 4.0)
       sass (>= 3.3)
+    method_source (0.8.2)
     parslet (1.5.0)
       blankslate (~> 2.0)
     posix-spawn (0.3.9)
+    pry (0.10.1)
+      coderay (~> 1.1.0)
+      method_source (~> 0.8.1)
+      slop (~> 3.4)
+    pry-nav (0.2.4)
+      pry (>= 0.9.10, < 0.11.0)
     pygments.rb (0.6.0)
       posix-spawn (~> 0.3.6)
       yajl-ruby (~> 1.1.0)
@@ -65,6 +73,7 @@ GEM
     safe_yaml (1.0.4)
     sass (3.4.8)
     thor (0.19.1)
+    slop (3.6.0)
     timers (4.0.1)
       hitimes
     toml (0.1.2)
@@ -79,3 +88,5 @@ DEPENDENCIES
   jekyll (~> 2.5.0)
   jekyll-sitemap (~> 0.5)
   neat
+  pry
+  pry-nav
