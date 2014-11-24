@@ -1,28 +1,5 @@
 section.tv-mst {
-  display: block;
-  width: 100%;
-  clear: both;
-  border-top: 1px solid;
-
-  article.headline {
-    & > h1 {
-      font-size: 1.1em;
-      line-height: 1.3em;
-      margin-bottom: 3px;
-    }
-
-    & > p {
-      font-weight: normal;
-      line-height: 1.1em;
-    }
-  }
-
   @media(min-width: $screen-sm) {
-    border: none;
-    display: inline-block;
-    width: 55%;
-	  padding-left: 0;
-
     & > article.headline {
       h1 {
         font-size: 1.3em;
@@ -31,9 +8,9 @@ section.tv-mst {
 
       figure {
         height: auto;
-        max-height: 300px;  
+        max-height: 300px;
         max-width: 100%;
-        
+
         iframe {
           height: 300px;
         }

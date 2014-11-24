@@ -57,3 +57,15 @@ body > main.home > section.row.three {
     @include span-columns(4);
   }
 }
+
+body > main.home > section.row.two {
+  @include outer-container;
+  max-width: 100%;
+
+  .tv-mst {
+    @include span-columns(8);
+  }
+  .special-stories {
+    @include span-columns(4);
+  }
+}
