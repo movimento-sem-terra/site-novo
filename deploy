@@ -52,6 +52,8 @@ function deploy {
 
 function install_gems {
   bundle install --jobs 8
+  bourbon install
+  neat install
 }
 
 install_gems $1
