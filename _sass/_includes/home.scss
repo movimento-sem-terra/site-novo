@@ -45,3 +45,15 @@ body > main.home > section.row.four {
     @include span-columns(3);
   }
 }
+
+body > main.home > section.row.three {
+  @include outer-container;
+  max-width: 100%;
+
+  .articles {
+    @include span-columns(8);
+  }
+  .interviews {
+    @include span-columns(4);
+  }
+}

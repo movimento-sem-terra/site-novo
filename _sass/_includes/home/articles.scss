@@ -1,7 +1,4 @@
 section.articles {
-
-  @include default-section-mobile();
-
   .headline-text-over-image figure{
     width: 100%;
   }
@@ -9,10 +6,11 @@ section.articles {
   @media(min-width: $screen-sm) {
 	  border: none;
     vertical-align:top;
-    width: 55%;
-    clear: left;
 
     ul {
+      li {
+        display: inline-block;
+      }
       li + li {
         margin-top: 10px;
       }
