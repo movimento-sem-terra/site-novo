@@ -1,10 +1,17 @@
 section.newspaper {
-  @extend .banners;
-  float: left;
-  width: 25%;
   min-width: 0;
 
   figure {
     border: 2px dashed #AAA;
+    box-shadow: none;
+    width: 100%;
+
+    img {
+      width: 100%;
+    }
+
+    &:after {
+      background: none;
+    }
   }
 }

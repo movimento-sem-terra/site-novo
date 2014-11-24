@@ -21,8 +21,27 @@ body > main.home > section.row {
   padding-bottom: 15px;
   overflow: auto;
 
-  @media(min-width: $screen-sm) { 
+  @media(min-width: $screen-sm) {
     padding-top: 15px;
     border-top: $border-flat;
+  }
+}
+
+body > main.home > section.row.four {
+  @include outer-container;
+  max-width: 100%;
+
+  .newspaper {
+    @include span-columns(4);
+  }
+  .facebook {
+    @include span-columns(5);
+
+    & * {
+     width: 100% !important;
+    }
+  }
+  .banners {
+    @include span-columns(3);
   }
 }

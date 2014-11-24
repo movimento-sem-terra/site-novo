@@ -2,31 +2,27 @@ section.banners {
   display: none;
 
   @media (min-width: $screen-sm) {
-    display: inline-block;
-    float: left;
-    width: 50%;
+    display: block;
     min-width: 0;
-    padding-right: 40px;
 
     a + a {
       figure {
-        float: right;
+        margin-top: 20px;
       }
     }
 
     figure {
       display: inline-block;
-      float: left;
       box-shadow: none;
       width: 260px;
       height: 260px;
-      
+
       img {
         width: 200px;
       }
 
       &:after {
-        background: none;  
+        background: none;
       }
     }
   }
