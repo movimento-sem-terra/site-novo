@@ -6,3 +6,5 @@ node_modules
 .ruby-version
 .node-version
 .sass-cache/
+neat/
+bourbon/
