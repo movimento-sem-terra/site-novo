@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 ruby '2.1.4'
-
+gem 'pry'
+gem 'pry-nav'
 gem 'jekyll', '~> 2.5.0'
 gem 'jekyll-sitemap', '~> 0.5'
