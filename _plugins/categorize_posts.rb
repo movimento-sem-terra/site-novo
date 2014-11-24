@@ -3,13 +3,14 @@ module Jekyll
     safe true
 
     def generate(site)
-      @newest_post = site.posts.sort { |a, b| b <=> a }[0..300]
+      @all_articles = site.posts
+      @newest_post = @all_articles.sort { |a, b| b <=> a }[0..300]
       cover = find "cover"
       tv_mst = find 'tv'
       carousel = @newest_post.slice!(0,5) # the first five posts goes on carousel
+      special_stories = find "special-stories", "label", 2, carousel
       recent = @newest_post.delete_at(0) # the sixth post goes on recent
       featured_news = find 'featured-news'
-
 
       articles = find "articles", "label"
       interviews = find 'interviews', "label"
@@ -21,14 +22,24 @@ module Jekyll
       site.config['featured_news'] = featured_news
       site.config['interviews'] = interviews
       site.config['tv_mst'] = tv_mst.first
+      site.config['special_stories'] = special_stories
     end
 
-    def find value, field = "section"
-      result = @newest_post.select do |post|
-        post.data[field] == value
+    def find value, field = "section", minimum = 0, except = []
+      result = filter_with_except(value, field, @newest_post, except)
+      if result.size < minimum
+        result = filter_with_except(value, field, @all_articles, except)
       end
+      result.sort! { |a, b| b <=> a }
       @newest_post = @newest_post - result
       result
     end
+    def filter_with_except value, field, collection, except = []
+      result = collection.select do |post|
+        post.data[field] == value && except.select{ |item| item.id==post.id }.size == 0
+      end
+      result
+    end
   end
+
 end
