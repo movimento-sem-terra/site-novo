@@ -1,5 +1,5 @@
 {% assign default_image = site | extract_image_from_post_tag: include.post %}
-{% assign image = include.post | find_image: 'hd' %}
+{% assign image = include.post | find_image: 'full_hd' %}
 
 <a href="{{ site.baseurl }}{{ include.post.url }}" class="headline-text-over-image">
   {% if image and image != "" %}

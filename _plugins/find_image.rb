@@ -5,10 +5,13 @@ module Jekyll
       result =(post[key].nil? || post[key].empty?) ? get_image_from(post['content']) : post[key]
       return "" unless result
 
-      if size == 'hd'
+      case size 
+      when 'hd'
         result.gsub /_b\.jpg/, '_n.jpg'
-      elsif size == 'tiny'
+      when 'tiny'
         result.gsub /_b\.jpg/, '_t.jpg'
+      when 'full_hd'
+        result.gsub /_n\.jpg/, '_b.jpg'
       else
         result
       end
