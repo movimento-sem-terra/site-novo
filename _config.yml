@@ -3,7 +3,7 @@ baseurl:
 paginate_path: "/noticias/page:num"
 name: Movimento dos Trabalhadores Rurais Sem Terra
 markdown: redcarpet
-url: http://novo.mst.org.br
+url: http://localhost:4000
 asset_pipeline:
   gzip: true
 facebook: 1542469885974977

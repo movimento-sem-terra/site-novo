@@ -1,4 +1,5 @@
-<a href="http://www.facebook.com/sharer.php?u={{include.article_url | prepend: site.url}}" target="_blank"><img src="http://389ehc3wt90l158d1l3qrzbsr86.wpengine.netdna-cdn.com/wp-content/plugins/simple-share-buttons-adder/buttons/somacro/facebook.png" title="Facebook" class="ssba" alt="Share on Facebook" style="width: 30px; height: 30px; display: inline"></a>
+<div>
+<a href="http://www.facebook.com/sharer.php?u={{include.article_url | prepend: site.url}}" target="_blank"><img src="{{site.url}}/assets/img/facebook.png" title="Facebook"  alt="Compartilhar no Facebook" style="width: 30px; height: 30px; display: inline"></a>
 
-<a href="https://twitter.com/share" class="twitter-share-button" data-lang="pt_BR">Tweet</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+<a href="http://www.twitter.com/share?url={{include.article_url | prepend: site.url}}" target="_blank"><img src="{{site.url}}/assets/img/twitter.png" title="Twitter"  alt="Compartilhar no Twitter" style="width: 30px; height: 30px; display: inline"></a>
+</div>
