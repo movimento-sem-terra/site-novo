@@ -38,6 +38,13 @@ main.post {
       max-width: 100%;
     }
   }
+  .social {
+    img{
+      display: inline;
+      width: auto;
+      height: auto; 
+    }
+  }
 }
 
 @media(min-width: $screen-sm) { 
