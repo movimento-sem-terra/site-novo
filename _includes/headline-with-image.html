@@ -2,7 +2,7 @@
 {% assign image_cover = include.post | find_image: 'hd' %}
 
 {% if include.thumbnail %}
-  {% assign image_cover = include.post | find_image: 'tiny' %}
+{% assign image_cover = include.post | find_image: 'hd' %}
 {% endif %}
 <article class="headline">
   {% if image_cover and image_cover != "" %}
