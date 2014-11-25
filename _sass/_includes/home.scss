@@ -69,3 +69,19 @@ body > main.home > section.row.two {
     @include span-columns(4);
   }
 }
+
+body > main.home > section.row.one {
+  @include outer-container;
+  max-width: 100%;
+
+  .featured-news {
+    @include span-columns(8);
+
+    article {
+      @include span-columns(4 of 8);
+    }
+  }
+  .featured-banner {
+    @include span-columns(4);
+  }
+}

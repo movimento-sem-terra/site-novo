@@ -2,16 +2,11 @@
 
 <section class="featured-banner">
   <h2 class="hat">Outras lutas</h2>
-  <ul>
-    <li>
-      <a href="{{ banner.link }}"
-        class="headline-text-over-image"
-        target="_blank">
-          <figure
-            style="background-image:url('{{ banner.image }}')"
-            alt="{{ banner.title }}">
-          </figure>
-        </a>
-    </li>
-  </ul>
+  <a href="{{ banner.link }}"
+    class="headline-text-over-image"
+    target="_blank">
+    <figure alt="banner: {{ banner.title }}">
+      <img src="{{ banner.image }}" alt="banner: {{ banner.title  }}"/>
+    </figure>
+  </a>
 </section>

@@ -1,37 +1,18 @@
 section.featured-news {
-  @include default-section-mobile();
-
   @media (min-width: $screen-sm) {
-    float: left;
-    border-top: 0;
-    margin-bottom: 7px;
-    clear: both;
-    display: inline-block;
-	  width: 68%;
-	  padding-left: 0;
-	  padding-right: 0;
-	
+    p, h1 {
+      max-width: 370px;
+    }
+
+    p {
+      margin-top: 5px;
+    }
+
     figure {
       float: none;
       height: 190px;
       max-width: 370px;
       margin: 0;
     }
-
-    ul {
-      li {
-        width: 48%;
-        padding-right: 2%;
-
-        & + li {
-          padding-left: 2%;
-        }
-
-        &:last-child {
-          padding-right: 0;
-        }
-      }
-    }
   }
-
 }

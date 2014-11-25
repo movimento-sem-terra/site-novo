@@ -2,16 +2,10 @@ section.featured-banner {
   display: none;
 
   @media (min-width: $screen-sm) {
-    margin-bottom: 7px;
-    clear: both;
-    display: inline-block;
-	  width: 32%;
-	  padding-left: 0;
-	  padding-right: 0;
-	
     figure {
       float: none;
       height: 260px;
+      width: 100%;
       max-width: 260px !important;
       margin: 0;
 
@@ -19,22 +13,5 @@ section.featured-banner {
         background: none;
       }
     }
-
-    & > h2.hat {
-      margin-bottom: 10px;
-    }
-
-    ul {
-      li {
-        float: right;
-        width: 100%;
-        padding-right: 0;
-
-        & + li {
-          padding-left: 2%;
-        }
-      }
-    }
   }
-
 }
