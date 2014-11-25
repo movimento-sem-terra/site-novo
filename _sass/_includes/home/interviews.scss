@@ -1,8 +1,4 @@
 section.interviews {
-  @include default-section-mobile();
-  clear: none;
-  float: none;
-
   .headline-text-over-image figure{
     width: 100%;
   }
@@ -10,14 +6,6 @@ section.interviews {
   & > ul {
     padding-left: 20px;
     list-style-type: square;
-  }
-
-  @media(min-width: $screen-sm) { 
-	  border: none;
-    vertical-align:top;
-    width: 40%;
-    float: right;
-	  padding-right: 0;
   }
 }
 

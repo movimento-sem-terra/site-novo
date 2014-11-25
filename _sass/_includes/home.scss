@@ -16,21 +16,28 @@ body > main.home {
 }
 
 body > main.home > section.row {
-  clear: both;
-  display: block;
   padding-bottom: 15px;
-  overflow: auto;
-
-  @media(min-width: $screen-sm) {
-    padding-top: 15px;
-    border-top: $border-flat;
-  }
-}
-
-body > main.home > section.row.four {
   @include outer-container;
   max-width: 100%;
 
+  section {
+    border-top: 2px solid;
+    padding-top: 5px;
+  }
+
+  @include media($screen-sm) {
+    padding-top: 15px;
+    border-top: $border-flat;
+
+    section {
+      border-top: none;
+      padding-top: 0;
+    }
+  }
+}
+
+@include media($screen-sm) {
+  //section four
   .newspaper {
     @include span-columns(4);
   }
@@ -44,36 +51,24 @@ body > main.home > section.row.four {
   .banners {
     @include span-columns(3);
   }
-}
 
-body > main.home > section.row.three {
-  @include outer-container;
-  max-width: 100%;
-
+  //section three
   .articles {
     @include span-columns(8);
   }
   .interviews {
     @include span-columns(4);
   }
-}
 
-body > main.home > section.row.two {
-  @include outer-container;
-  max-width: 100%;
-
+  //section two
   .tv-mst {
     @include span-columns(8);
   }
   .special-stories {
     @include span-columns(4);
   }
-}
 
-body > main.home > section.row.one {
-  @include outer-container;
-  max-width: 100%;
-
+  //section one
   .featured-news {
     @include span-columns(8);
 

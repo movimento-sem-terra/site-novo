@@ -2,6 +2,8 @@ section.featured-banner {
   display: none;
 
   @media (min-width: $screen-sm) {
+    display: block;
+
     figure {
       float: none;
       height: 260px;
