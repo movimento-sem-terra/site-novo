@@ -7,6 +7,10 @@ main.post {
         margin-bottom: 8px;
       }
 
+      time {
+        display: block;
+      }
+
       p {
         color: #929292;
         font-size: 1.1em;
@@ -24,8 +28,6 @@ main.post {
 
     img {
       display: block;
-      width: 100%;
-      height: 100%;
     }
 
     figcaption {
