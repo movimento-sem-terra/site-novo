@@ -1,5 +1,5 @@
 ---
-date: "2014-11-21T16:20:13-02:00"
+date: "2014-11-21T15:20:13-03:00"
 tags:
   - tag: Produção
   - tag: Espírito-Santo
@@ -46,7 +46,7 @@ O cen&aacute;rio segue em transforma&ccedil;&atilde;o at&eacute; chegar ao km 41
 <p>&nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="São Mateus E!.jpg" src="http://farm8.staticflickr.com/7534/15658322278_f422a42f46_n.jpg" />
-<figcaption>Legenda</figcaption>
+<figcaption></figcaption>
 </figure>
 
 <p>Com a distribui&ccedil;&atilde;o das terras agricult&aacute;veis, a localidade se desenvolveu sem que houvesse um processo vis&iacute;vel de concentra&ccedil;&atilde;o de riquezas. Quem passa v&ecirc; casas muito parecidas em tamanho, muitas das pessoas convivendo em harmonia e toda uma vida que movimenta o com&eacute;rcio local, surgido em decorr&ecirc;ncia da produ&ccedil;&atilde;o dos assentados. S&atilde;o mais de 292 fam&iacute;lias morando nas propriedades distribu&iacute;das pela reforma agr&aacute;ria na regi&atilde;o, que somam um total de 666 hectares de planta&ccedil;&atilde;o de caf&eacute;, em maioria da esp&eacute;cie conilon, e pelo menos 136 hectares de cultivo de pimenta-do-reino, de acordo com informa&ccedil;&otilde;es de agosto de 2012 da Cooperativa de Presta&ccedil;&atilde;o de Servi&ccedil;os T&eacute;cnicos e da Reforma Agr&aacute;ria do Esp&iacute;rito Santo (COOPTRAES).</p>
@@ -106,7 +106,7 @@ Juraci reconhece que, por outro lado, a cria&ccedil;&atilde;o extensiva de gado 
 &nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="São Mateus D!.jpg" src="http://farm8.staticflickr.com/7506/15843845771_203618ba82_n.jpg" />
-<figcaption>Legenda</figcaption>
+<figcaption></figcaption>
 </figure>
 
 <p><strong>Seu Ti&atilde;o e Georgina, ou &ldquo;come&ccedil;ou logo aqui com a gente&rdquo;</strong></p>
