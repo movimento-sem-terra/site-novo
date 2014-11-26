@@ -9,7 +9,7 @@ layout: default
       {% include tag-list.html tags = page.tags %}
       <h1 itemprop="name">{{ page.title }}</h1>
       <p>{{ page.support_line  }}</p>
-        <time datetime="{{ page.date }}">
+        <time datetime="{{ page.date }}" itemprop="datePublished">
           {{ page.date | pretty_date }}
         </time>
       {% include social-buttons.html article_url = page.url%}
