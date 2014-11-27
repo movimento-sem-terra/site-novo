@@ -14,6 +14,12 @@ files:
     small: "http://farm8.staticflickr.com/7482/15700309777_56736ec42e_n.jpg"
     title: valmir-assunção_0.jpg
     $$hashKey: 04Y
+  - link: "http://farm9.staticflickr.com/8634/15707557979_aeeab589dc_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8634/15707557979_aeeab589dc_t.jpg"
+    medium: "http://farm9.staticflickr.com/8634/15707557979_aeeab589dc_z.jpg"
+    small: "http://farm9.staticflickr.com/8634/15707557979_aeeab589dc_n.jpg"
+    title: 12508445633_f9f65e38e9_o.jpg
+    $$hashKey: "022"
 published: true
 images_hd: "http://farm8.staticflickr.com/7482/15700309777_56736ec42e_n.jpg"
 
@@ -66,7 +72,7 @@ Dos 100 decretos anunciados pela Presidenta no ano passado, houve quase que nenh
 <p style="margin: 0px; padding: 0px 0px 0.5em 8px;"><br />
 &Eacute; preciso reconhecer os avan&ccedil;os nas pol&iacute;ticas de habita&ccedil;&atilde;o rural, nas pol&iacute;ticas de compra de alimentos, tais como o PAA e o PNAE, mas ainda assim encontramos barreiras que burocratizam e engessam o acesso &agrave;s pol&iacute;ticas.</p>
 
-<p style="margin: 0px; padding: 0px 0px 0.5em 8px;"><br />
+<p style="margin: 0px; padding: 0px 0px 0.5em 8px;"><img alt="12508445633_f9f65e38e9_o.jpg" height="420" src="http://farm9.staticflickr.com/8634/15707557979_aeeab589dc_b.jpg" width="630" /><br />
 Precisamos de nomes que garantam n&atilde;o s&oacute; essas, mas novas pol&iacute;ticas de obten&ccedil;&atilde;o de terras, cr&eacute;dito espec&iacute;fico para as fam&iacute;lias assentadas (pois o Pronaf n&atilde;o &eacute; universal e nem atende a todas as necessidades) e tamb&eacute;m respeito aos seus servidores, os trabalhadores do Incra e MDA, que sobrevivem a este per&iacute;odo sob forte press&atilde;o diante da falta de concursos p&uacute;blicos e sal&aacute;rios melhores.</p>
 
 <p style="margin: 0px; padding: 0px 0px 0.5em 8px;"><br />
