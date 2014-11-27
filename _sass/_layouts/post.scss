@@ -31,6 +31,7 @@ main.post {
 
     span.tag {
       float: left;
+      margin-left: 5px;
     }
 
     & > img[style*="float:left"]{
@@ -62,6 +63,7 @@ main.post {
     visibility: hidden;
   }
   .social {
+    margin-bottom: 10px;
     img{
       display: inline;
       width: 36px;
