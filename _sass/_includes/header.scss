@@ -1,10 +1,6 @@
 @import "mixins";
 @import "header/search";
 
-header {
-  @include default-figure-images();
-}
-
 #logo {
   display: inline-block;
   height: 60px;
@@ -16,31 +12,11 @@ header {
 }
 
 #site-header {
-  padding: 20px 0 10px;
-  text-align: center;
   color: white;
   box-shadow: 0px 5px 10px rgba(0,0,0,0.3);
 
   background-image: linear-gradient(90deg, gray, rgba(0,0,0,0.8));
   background-size: cover;
-
-  hgroup {
-    display: inline-block;
-
-    h1 {
-      display: inline;
-      vertical-align: middle;
-      margin: 5px 0 0 0;
-      font-size: 50px;
-      font-weight: 600;
-      text-shadow: 2px 2px 0 black;
-      text-align: left;
-      letter-spacing: -4px;
-    }
-    h2{
-      display: none;
-    }
-  }
 
   nav {
     display: inline;
@@ -150,12 +126,6 @@ ul.dropdown-menu {
 
 @media(min-width: $screen-xs) {
   #site-header {
-    height: auto;
-
-    h2{
-      display: none;
-    }
-
     ul {
       text-align: center;
 
@@ -221,48 +191,11 @@ ul.dropdown-menu {
 }
 
 @media(min-width: $screen-md) {
-  $logo_height: 150px;
+  $logo_height: 100px;
+  $padding: 20px;
   #site-header {
-    height: $logo_height + 30px;
-    padding: 15px 0;
+    height: $logo_height + $padding;
     line-height: $logo_height;
-
-    h1 {
-      font-size: 100px;
-    }
-
-    h2 {
-      font-size: 25px;
-      font-weight: 200;
-
-      & + div {
-        display: inline-block;
-
-        input {
-          height: 30px;
-          vertical-align: middle;
-          padding-left: 30px;
-          border-radius: 3px;
-          border: none;
-          color: $gray-darker;
-          line-height: 1em;
-
-          &:focus {
-            outline: none;
-          }
-        }
-
-        &::before {
-          font-family: 'Glyphicons Halflings Regular';
-          content: "\E003";
-          color: $mstred;
-          position: absolute;
-          padding-left: 5px;
-          padding-top: 3px;
-        }
-      }
-    }
-
 
     h1, h2 {
       margin: 0;
@@ -270,12 +203,63 @@ ul.dropdown-menu {
       display: inline-block;
       line-height: $logo_height;
     }
+
+    h1 {
+      font-size: 3em;
+      font-weight: 600;
+      padding: 0 20px;
+    }
+
+    h2 {
+      font-size: 1.4em;
+      font-weight: 400;
+      line-height: $logo_height + 5px;
+    }
+
+    div {
+      display: inline-block;
+      float: right;
+
+      input {
+        height: 30px;
+        vertical-align: middle;
+        padding-left: 30px;
+        border-radius: 3px;
+        border: none;
+        color: $gray-darker;
+        line-height: 1em;
+
+        &:focus {
+          outline: none;
+          box-shadow: 0 0 5px #961913;
+        }
+      }
+
+      &::before {
+        font-family: 'Glyphicons Halflings Regular';
+        content: "\E003";
+        color: $mstred;
+        position: absolute;
+        padding-left: 5px;
+        padding-top: 3px;
+      }
+    }
+
+    @media(min-width: $screen-md) {
+      padding: ($padding / 2)  (100% - $home_screen_medium)/2;
+    }
+    @media(max-width: $screen-sm) {
+      padding: ($padding / 2)  (100% - $home_screen_small)/2;
+    }
+    @media(min-width: $screen-big) {
+      padding: ($padding / 2)  (100% - $home_screen_big)/2;
+    }
   }
 
   #logo {
     display: inline-block;
     vertical-align: top;
-    width: 150px;
+    width: auto;
     height: $logo_height;
   }
 }
