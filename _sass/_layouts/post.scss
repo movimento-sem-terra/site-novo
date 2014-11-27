@@ -33,8 +33,12 @@ main.post {
       float: left;
     }
 
-    img {
-      display: block;
+    img[style*="float:left"]{
+      margin: 15px 15px 15px 0;
+    }
+
+    img[style*="float:right"]{
+      margin: 15px 0px 15px 15px;
     }
 
     figcaption {
@@ -42,7 +46,6 @@ main.post {
       padding: 5px 10px;
       font-size: 13px;
     }
-    
     object, iframe {
       max-width: 100%;
     }
@@ -54,12 +57,12 @@ main.post {
     img{
       display: inline;
       width: 36px;
-      height: auto; 
+      height: auto;
     }
   }
 }
 
-@media(min-width: $screen-sm) { 
+@media(min-width: $screen-sm) {
   main.post {
     article {
       padding-right: 13%;
@@ -68,7 +71,7 @@ main.post {
 }
 
 figure.social-button {
-  vertical-align: top; 
+  vertical-align: top;
   box-shadow: 0px 0px 0px;
   margin-top: -2px;
 }
