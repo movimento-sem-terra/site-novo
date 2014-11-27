@@ -31,7 +31,7 @@ Aqui fa&ccedil;o coro &agrave;s diversas manifesta&ccedil;&otilde;es de moviment
 Tivemos uma campanha vitoriosa, mas bastante dif&iacute;cil.</p>
 
 <p style="margin: 0px; padding: 0px 0px 0.5em 8px;"><br />
-<img alt="valmir-assunção_0.jpg" src="http://farm8.staticflickr.com/7482/15700309777_56736ec42e_n.jpg" />Os projetos de Brasil foram confrontados e o discurso vencedor foi justamente o que coloca o nosso pa&iacute;s no rumo das transforma&ccedil;&otilde;es estruturais, do questionamento do monop&oacute;lio dos meios de comunica&ccedil;&atilde;o, da reivindica&ccedil;&atilde;o de uma reforma pol&iacute;tica que garanta participa&ccedil;&atilde;o popular, de executarmos uma reforma tribut&aacute;ria que seja justa, sendo priorit&aacute;rio o sal&aacute;rio e a renda.</p>
+<img alt="valmir-assunção_0.jpg" src="http://farm8.staticflickr.com/7482/15700309777_56736ec42e_n.jpg" style="float:left" />Os projetos de Brasil foram confrontados e o discurso vencedor foi justamente o que coloca o nosso pa&iacute;s no rumo das transforma&ccedil;&otilde;es estruturais, do questionamento do monop&oacute;lio dos meios de comunica&ccedil;&atilde;o, da reivindica&ccedil;&atilde;o de uma reforma pol&iacute;tica que garanta participa&ccedil;&atilde;o popular, de executarmos uma reforma tribut&aacute;ria que seja justa, sendo priorit&aacute;rio o sal&aacute;rio e a renda.</p>
 
 <p style="margin: 0px; padding: 0px 0px 0.5em 8px;"><br />
 No campo, a vit&oacute;ria dos que acreditam que podemos superar o trabalho escravo, democratizar a terra, produzir alimentos saud&aacute;veis, sem agrot&oacute;xicos que contaminam a nossa terra e o nosso corpo.</p>
