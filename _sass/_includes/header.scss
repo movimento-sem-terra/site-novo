@@ -20,13 +20,13 @@ header {
   text-align: center;
   color: white;
   box-shadow: 0px 5px 10px rgba(0,0,0,0.3);
-  
-  background-image: linear-gradient(90deg, rgba(150,25,19,0.8), rgba(171,71,66,0.8), rgba(150,25,19,0.8)), url(../img/background_header.jpeg);
+
+  background-image: linear-gradient(90deg, gray, rgba(0,0,0,0.8));
   background-size: cover;
 
   hgroup {
     display: inline-block;
-  
+
     h1 {
       display: inline;
       vertical-align: middle;
@@ -45,13 +45,13 @@ header {
   nav {
     display: inline;
   }
-  
+
   ul {
     list-style: none;
     width: auto;
     font-size: 16px;
     text-align: left;
-    
+
     li {
       display: block;
 
@@ -63,13 +63,13 @@ header {
         padding: 10px 0px;
         display: block;
         color: #fff;
-        
+
         &:hover {
           color: $gray-light;
           text-decoration: underline;
         }
       }
-      
+
       &.dropdown > a:after {
         font-family: 'Glyphicons Halflings Regular', Helvetica, Arial, sans-serif;
         content: " \E114";
@@ -88,7 +88,7 @@ header {
   margin: 0 20px;
   padding: 5px 0;
   @include transition(opacity, 0.2s, ease-in);
-  
+
   &.open {
     height: auto;
     opacity: 1;
@@ -130,7 +130,7 @@ ul.dropdown-menu {
   text-indent: -9999px;
   z-index: 5;
   outline: none;
-  
+
   &:after {
     font-family: 'Glyphicons Halflings Regular', Helvetica, Arial, sans-serif;
     content: '\E055';
@@ -151,7 +151,7 @@ ul.dropdown-menu {
 @media(min-width: $screen-xs) {
   #site-header {
     height: auto;
-    
+
     h2{
       display: none;
     }
@@ -169,11 +169,11 @@ ul.dropdown-menu {
       }
     }
   }
-  
+
   #open-menu {
     display: none;
   }
-  
+
   #main-menu {
     height: auto;
     opacity: 1;
@@ -182,7 +182,7 @@ ul.dropdown-menu {
     li.dropdown {
       position: relative;
     }
-    
+
     ul.dropdown-menu {
       background: #fff;
       position: absolute;
@@ -221,38 +221,54 @@ ul.dropdown-menu {
 }
 
 @media(min-width: $screen-md) {
+  $logo_height: 150px;
   #site-header {
-    padding: 45px 0;
-    height: 240px;
-    background-position-y: -210px;
+    height: $logo_height + 30px;
+    padding: 15px 0;
+    line-height: $logo_height;
 
-    hgroup {
-      text-align: left;
+    h1 {
+      font-size: 100px;
+    }
 
-      h1 {
-        font-size: 100px;
-        line-height: 82px;
-      }
+    h2 {
+      font-size: 25px;
+      font-weight: 200;
 
-      h2 {
-        font-size: 28px;
-        margin: 18px 0 0 5px;
-        text-shadow: 2px 2px 0 black;
-        font-weight: 400;
-        display: block;
+      & + div {
+        display: inline-block;
+
+        input {
+          height: 30px;
+          vertical-align: middle;
+          padding-left: 30px;
+          border-radius: 3px;
+          border: none;
+          color: $gray-darker;
+          line-height: 1em;
+
+          &:focus {
+            outline: none;
+          }
+        }
+
+        &::before {
+          font-family: 'Glyphicons Halflings Regular';
+          content: "\E003";
+          color: $mstred;
+          position: absolute;
+          padding-left: 5px;
+          padding-top: 3px;
+        }
       }
     }
 
-    nav {
-      display: inline-block;
-      vertical-align: middle;
-      text-align: left;
-      position: relative;
-    }
 
-    ul {
-      text-align: right;
+    h1, h2 {
+      margin: 0;
+      vertical-align: top;
       display: inline-block;
+      line-height: $logo_height;
     }
   }
 
@@ -260,12 +276,6 @@ ul.dropdown-menu {
     display: inline-block;
     vertical-align: top;
     width: 150px;
-    height: 150px;
-  }
-
-  #main-menu {
-    margin: 0;
-    padding: 0;
-    white-space: nowrap;
+    height: $logo_height;
   }
 }
