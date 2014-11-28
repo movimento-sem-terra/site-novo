@@ -1,3 +1,16 @@
+$('.dropdown').on({
+  mouseenter: function (event) {
+    $(this).children('.dropdown-menu').addClass('active');
+    $(this).children('a').addClass('active');
+    event.preventDefault();
+  },
+  mouseleave: function (event) {
+    $(this).children('.dropdown-menu').removeClass('active');
+    $(this).children('a').removeClass('active');
+    event.preventDefault();
+  }
+});
+
 $('.dropdown').children('a').on('click', function(event) {
   var myTarget = $(this).siblings('.dropdown-menu');
 
@@ -11,6 +24,7 @@ $('.dropdown').children('a').on('click', function(event) {
   $('#open-search').removeClass('active');
 
   myTarget.toggleClass('active');
+  $(this).toggleClass('active');
 
   event.preventDefault();
 });

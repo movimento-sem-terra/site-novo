@@ -58,6 +58,10 @@ $background_color_menu: #E1D7CC;
         display: inline-block;
         margin-left: 0.5em;
       }
+
+      &.dropdown > a.active::after {
+        content: " \E113";
+      }
     }
   }
 }
