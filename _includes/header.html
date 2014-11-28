@@ -2,9 +2,75 @@
   <a href="{{ site.baseurl }}/" id="logo">
     <img alt="Logotipo" src="{{ site.baseurl }}/assets/img/logo.png" />
   </a>
-  <h1>MST</h1>
-  <h2> Movimento dos Trabalhadores Rurais Sem Terra </h2>
-  <div>
-    <input type="search" placeholder="Buscar...">
-  </div>
+  <hgroup>
+    <h1>MST</h1>
+    <h2>Movimento dos Trabalhadores Rurais Sem Terra</h2>
+  </hgroup>
+  <nav role="navigation">
+    <button id="open-menu">Abrir Menu</button>
+    
+    <ul id="main-menu">
+      <li class="dropdown">
+        <a href="#">O MST</a>
+        <ul class="dropdown-menu">
+          <li><a href="{{ site.baseurl }}/construcao">Quem Somos</a></li>
+          <li><a href="{{ site.baseurl }}/construcao">Nossa história</a></li>
+          <li><a href="{{ site.baseurl }}/construcao">Símbolos</a></li>
+          <li><a href="{{ site.baseurl }}/construcao">Eu apoio o MST</a></li>
+          <li><a href="{{ site.baseurl }}/construcao">Via campesina</a></li>
+        </ul>
+      </li>
+     
+      <li class="dropdown">
+        <a href="#">NOSSOS FRUTOS</a>
+        <ul class="dropdown-menu">
+          <li><a href="{{ site.baseurl }}/construcao">Nossa produção</a></li>
+          <li><a href="{{ site.baseurla }}/construcao">Educação</a></li>
+        </ul>
+      </li>
+  
+      <li class="dropdown">
+        <a href="#">CULTURA</a>
+        <ul class="dropdown-menu">
+          <li><a href="{{ site.baseurl }}/construcao">Musicoteca</a></li>
+          <li><a href="http://www.armazemmemoria.com.br/cdroms/videotecas/MST/index.htm" target="_blank" >Videoteca</a></li>
+          <li><a href="{{ site.baseurla }}/construcao">Poemas e poesias</a></li>
+          <li><a href="{{ site.baseurla }}/construcao">Lutadores do povo</a></li>
+        </ul>
+      </li>
+     
+     <li class="dropdown">
+        <a href="#">PUBLICAÇÕES</a>
+        <ul class="dropdown-menu">
+          <li><a href="{{ site.baseurl }}/construcao">Revista Sem Terra</a></li>
+          <li><a href="{{ site.baseurla }}/construcao">Jornal Sem Terra</a></li>
+          <li><a href="{{ site.baseurla }}/construcao">Revista Sem Terra</a></li>
+          <li><a href="{{ site.baseurla }}/construcao">Biblioteca virtual</a></li>
+        </ul>
+      </li>
+       <li><a href="{{ site.baseurl }}/construcao">JORNADAS</a></li>
+      
+      <li class="dropdown">
+        <a href="#">EDITORIAS</a>
+        <ul class="dropdown-menu">
+          <li><a href="{{ site.baseurl }}/agricultura-camponesa">Agricultura camponesa</a></li>
+          <li><a href="{{ site.baseurl }}/agronegocio">Agronegócio</a></li>
+          <li><a href="{{ site.baseurl }}/direitos-humanos">Direitos Humanos</a></li>
+          <li><a href="{{ site.baseurl }}/educacao-cultura-e-comunicacao">Educação, Cultura e Comunicação</a></li>
+          <li><a href="{{ site.baseurl }}/lutas-e-mobilizacoes">Lutas e mobilizações</a></li>
+          <li><a href="{{ site.baseurl }}/solidariedade-internacional">Solidariedade Internacional</a></li>
+          <li><a href="{{ site.baseurl }}/meio-ambiente">Meio Ambiente</a></li>
+          <li><a href="{{ site.baseurl }}/projeto-popular">Projeto Popular</a></li>
+          <li><a href="{{ site.baseurl }}/reforma-agraria">Reforma Agrária</a></li>
+          <li><a href="{{ site.baseurl }}/transgenicos">Transgênicos</a></li>
+        </ul>
+      </li>
+  
+      <li><a href="http://www.mst.org.br/semterrinha" target="_blank">SEM TERRINHA</a></li>
+    </ul>
+    
+    <button id="open-search">Abrir Busca</button>
+
+    {% ddg_search_form site:novo.mst.org.br prefill:Pesquisar... %}
+  </nav>
 </header>
