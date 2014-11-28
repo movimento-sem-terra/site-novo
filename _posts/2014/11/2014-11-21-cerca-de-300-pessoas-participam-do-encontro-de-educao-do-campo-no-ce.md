@@ -1,5 +1,5 @@
 ---
-date: "2014-11-21T15:47:47-02:00"
+date: "2014-11-24T19:47:47-03:00"
 tags:
   - tag: Educação
   - tag: Ceará
@@ -55,7 +55,7 @@ Para ele o encontro permite perceber a abrang&ecirc;ncia que o MST tem desde a e
 <p style="margin: 0px; padding: 0px 0px 0.5em 8px; color: rgb(83, 93, 102); font-family: Arial, Verdana, Helvetica, sans-serif; font-size: 14px; line-height: 19.3151683807373px;">&nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="encontro_CE2.jpg" src="http://farm8.staticflickr.com/7547/15819918966_49485c6bc7_n.jpg" />
-<figcaption>Legenda</figcaption>
+<figcaption></figcaption>
 </figure>
 
 <p style="margin: 0px; padding: 0px 0px 0.5em 8px; color: rgb(83, 93, 102); font-family: Arial, Verdana, Helvetica, sans-serif; font-size: 14px; line-height: 19.3151683807373px;">Entretanto, mesmo com a press&atilde;o dos movimentos sociais para se avan&ccedil;ar nessa &aacute;rea, na &uacute;ltima d&eacute;cada foram fechadas mais de 37 mil escolas do campo, segundo dados do pr&oacute;prio Minist&eacute;rio da Educa&ccedil;&atilde;o (MEC).&nbsp;</p>
