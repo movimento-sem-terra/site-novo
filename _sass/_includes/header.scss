@@ -12,17 +12,16 @@
 }
 
 #site-header {
+  background-color: #E1D7CC;
   color: white;
-  box-shadow: 0px 5px 10px rgba(0,0,0,0.3);
-
-  background-image: url(/assets/img/capa.jpeg);
-  background-size: cover;
+  box-shadow: 0px 0px 3px rgba(0,0,0,0.3);
 
   nav {
     display: inline;
   }
 
   ul {
+    line-height: 1;
     list-style: none;
     width: auto;
     font-size: 16px;
@@ -31,6 +30,10 @@
     li {
       display: block;
 
+      & + li {
+        margin-left: 20px;
+      }
+
       ul {
         font-size: 14px;
       }
@@ -38,7 +41,7 @@
       a, a:visited {
         padding: 10px 0px;
         display: block;
-        color: #fff;
+        color: #343233;
 
         &:hover {
           color: $gray-light;
@@ -62,7 +65,7 @@
   opacity: 0;
   overflow: hidden;
   margin: 0 20px;
-  padding: 5px 0;
+  padding: 0;
   @include transition(opacity, 0.2s, ease-in);
 
   &.open {
@@ -193,7 +196,10 @@ ul.dropdown-menu {
 @media(min-width: $screen-md) {
   $logo_height: 100px;
   $padding: 20px;
-  #site-header {
+  #site-header > div.cover {
+    background-image: url(/assets/img/capa.jpeg);
+    background-size: cover;
+
     height: $logo_height + $padding;
     line-height: $logo_height;
 
@@ -216,7 +222,7 @@ ul.dropdown-menu {
       line-height: $logo_height + 5px;
     }
 
-    div {
+    div.search {
       display: inline-block;
       float: right;
 
@@ -254,12 +260,12 @@ ul.dropdown-menu {
     @media(min-width: $screen-big) {
       padding: ($padding / 2)  (100% - $home_screen_big)/2;
     }
-  }
 
-  #logo {
-    display: inline-block;
-    vertical-align: top;
-    width: auto;
-    height: $logo_height;
+    #logo {
+      display: inline-block;
+      vertical-align: top;
+      width: auto;
+      height: $logo_height;
+    }
   }
 }
