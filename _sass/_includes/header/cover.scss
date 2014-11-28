@@ -1,0 +1,86 @@
+#site-header > .cover {
+  .logo {
+    display: inline-block;
+    height: 60px;
+    margin-right: 11px;
+
+    img {
+      height: 100%;
+    }
+  }
+}
+
+@media(min-width: $screen-md) {
+  #site-header > .cover {
+    background-image: url(/assets/img/capa.jpeg);
+    background-size: cover;
+
+    height: $logo_height + $padding;
+    line-height: $logo_height;
+
+    h1, h2 {
+      margin: 0;
+      vertical-align: top;
+      display: inline-block;
+      line-height: $logo_height;
+    }
+
+    h1 {
+      font-size: 3em;
+      font-weight: 600;
+      padding: 0 20px;
+    }
+
+    h2 {
+      font-size: 1.4em;
+      font-weight: 400;
+      line-height: $logo_height + 5px;
+    }
+
+    .logo {
+      display: inline-block;
+      vertical-align: top;
+      width: auto;
+      height: $logo_height;
+    }
+
+    .search {
+      display: inline-block;
+      float: right;
+
+      input {
+        height: 30px;
+        vertical-align: middle;
+        padding-left: 30px;
+        border-radius: 3px;
+        border: none;
+        color: $gray-darker;
+        line-height: 1em;
+
+        &:focus {
+          outline: none;
+          box-shadow: 0 0 5px #961913;
+        }
+      }
+
+      &::before {
+        font-family: 'Glyphicons Halflings Regular';
+        content: "\E003";
+        color: $mstred;
+        position: absolute;
+        padding-left: 5px;
+        padding-top: 3px;
+      }
+    }
+
+    @media(min-width: $screen-md) {
+      padding: ($padding / 2)  (100% - $home_screen_medium)/2;
+    }
+    @media(max-width: $screen-sm) {
+      padding: ($padding / 2)  (100% - $home_screen_small)/2;
+    }
+    @media(min-width: $screen-big) {
+      padding: ($padding / 2)  (100% - $home_screen_big)/2;
+    }
+  }
+}
