@@ -17,7 +17,7 @@ main.post {
 
       p {
         color: #929292;
-        font-size: 1.3em;
+        font-size: 1.1em;
         margin-top: 7px;
         margin-bottom: 3px;
       }
@@ -27,6 +27,7 @@ main.post {
       margin-top: 0.4em;
       word-wrap: break-word;
       clear: both;
+      font-size: 23px;
     }
 
     .tags {
@@ -84,8 +85,16 @@ main.post {
   main.post {
     article {
       padding-right: 13%;
-    }
-  }
+      header{
+        h1{
+          font-size: 41px;
+        }
+        p{ 
+          font-size: 1.3em;
+         }
+      }
+   }
+ }
 }
 
 figure.social-button {
