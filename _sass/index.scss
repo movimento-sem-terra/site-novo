@@ -9,7 +9,7 @@ body > main.home {
 }
 
 body > aside {
-	display:none;
+	display: none;
 }
 
 
@@ -17,8 +17,8 @@ body > aside {
   body > main.home {
     display: table;
     vertical-align: top;
-    width: 85%;
-    padding: 0 15px;
+    width: $home_screen_medium;
+    padding: 0;
   }
 
   body > main.home {
@@ -28,14 +28,14 @@ body > aside {
 
 @media(max-width: $screen-sm) {
   body > main.home {
-    width: 100%;
+    width: $home_screen_small;
   }
 }
 
 @media(min-width: $screen-big) {
-  body { 
+  body {
     main.home, main.post {
-      width: 65%;
+      width: $home_screen_big;
     }
   }
 }
