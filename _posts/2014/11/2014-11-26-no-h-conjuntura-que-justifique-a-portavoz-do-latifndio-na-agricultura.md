@@ -38,9 +38,7 @@ Tivemos uma campanha vitoriosa, mas bastante dif&iacute;cil.</p>
 
 <p style="margin: 0px; padding: 0px 0px 0.5em 8px;">&nbsp;</p>
 
-<p style="text-align:center"><img alt="valmir-assunção_0.jpg" src="http://farm8.staticflickr.com/7482/15700309777_56736ec42e_n.jpg" /></p>
-
-<p style="margin: 0px; padding: 0px 0px 0.5em 8px;">Os projetos de Brasil foram confrontados e o discurso vencedor foi justamente o que coloca o nosso pa&iacute;s no rumo das transforma&ccedil;&otilde;es estruturais, do questionamento do monop&oacute;lio dos meios de comunica&ccedil;&atilde;o, da reivindica&ccedil;&atilde;o de uma reforma pol&iacute;tica que garanta participa&ccedil;&atilde;o popular, de executarmos uma reforma tribut&aacute;ria que seja<img alt="valmir-assunção_0.jpg" src="http://farm8.staticflickr.com/7482/15700309777_56736ec42e_n.jpg" style="float:left" />justa, sendo priorit&aacute;rio o sal&aacute;rio e a renda.</p>
+<p style="margin: 0px; padding: 0px 0px 0.5em 8px;">Os projetos de Brasil foram confrontados e o discurso vencedor foi justamente o que coloca o nosso pa&iacute;s no rumo das transforma&ccedil;&otilde;es estruturais, do questionamento do monop&oacute;lio dos meios de comunica&ccedil;&atilde;o, da reivindica&ccedil;&atilde;o de uma reforma pol&iacute;tica que garanta participa&ccedil;&atilde;o popular, de executarmos uma reforma tribut&aacute;ria que sejajusta, sendo priorit&aacute;rio o sal&aacute;rio e a renda.</p>
 
 <p style="margin: 0px; padding: 0px 0px 0.5em 8px;"><br />
 No campo, a vit&oacute;ria dos que acreditam que podemos superar o trabalho escravo, democratizar a terra, produzir alimentos saud&aacute;veis, sem agrot&oacute;xicos que contaminam a nossa terra e o nosso corpo.</p>
@@ -52,7 +50,7 @@ Avan&ccedil;ar na demarca&ccedil;&atilde;o do territ&oacute;rio ind&iacute;gena 
 Se essas indica&ccedil;&otilde;es se confirmarem, o Governo estar&aacute; promovendo um balde de &aacute;gua fria na pr&oacute;pria base que o elegeu.</p>
 
 <p style="margin: 0px; padding: 0px 0px 0.5em 8px;"><br />
-Do ponto de vista dos trabalhadores do campo, &eacute; uma sinaliza&ccedil;&atilde;o de alian&ccedil;a n&atilde;o s&oacute; com quem fez sua hist&oacute;ria se opondo &agrave;s pol&iacute;ticas que historicamente constru&iacute;mos, mas t<img alt="valmir-assunção_0.jpg" src="http://farm8.staticflickr.com/7482/15700309777_56736ec42e_n.jpg" style="float:right" />amb&eacute;m com den&uacute;ncias de uso do trabalho escravo, despejo irregular de pequenos agricultores, toda sorte de atua&ccedil;&atilde;o, pr&oacute;pria de quem sustenta o ruralismo no Brasil.</p>
+Do ponto de vista dos trabalhadores do campo, &eacute; uma sinaliza&ccedil;&atilde;o de alian&ccedil;a n&atilde;o s&oacute; com quem fez sua hist&oacute;ria se opondo &agrave;s pol&iacute;ticas que historicamente constru&iacute;mos, mas amb&eacute;m com den&uacute;ncias de uso do trabalho escravo, despejo irregular de pequenos agricultores, toda sorte de atua&ccedil;&atilde;o, pr&oacute;pria de quem sustenta o ruralismo no Brasil.</p>
 
 <p style="margin: 0px; padding: 0px 0px 0.5em 8px;"><br />
 A poss&iacute;vel ministra, que n&atilde;o possui o apoio total nem do seu pr&oacute;prio partido, &eacute; o s&iacute;mbolo do combate &agrave; reforma agr&aacute;ria, do ataque ao territ&oacute;rio ind&iacute;gena e quilombola, da legisla&ccedil;&atilde;o que preserva o meio ambiente &ndash; ou vamos esquecer os embates aqui vividos durante a aprova&ccedil;&atilde;o do C&oacute;digo Florestal?</p>
@@ -72,7 +70,7 @@ Dos 100 decretos anunciados pela Presidenta no ano passado, houve quase que nenh
 <p style="margin: 0px; padding: 0px 0px 0.5em 8px;"><br />
 &Eacute; preciso reconhecer os avan&ccedil;os nas pol&iacute;ticas de habita&ccedil;&atilde;o rural, nas pol&iacute;ticas de compra de alimentos, tais como o PAA e o PNAE, mas ainda assim encontramos barreiras que burocratizam e engessam o acesso &agrave;s pol&iacute;ticas.</p>
 
-<p style="margin: 0px; padding: 0px 0px 0.5em 8px;"><img alt="12508445633_f9f65e38e9_o.jpg" height="420" src="http://farm9.staticflickr.com/8634/15707557979_aeeab589dc_b.jpg" width="630" /><br />
+<p style="margin: 0px; padding: 0px 0px 0.5em 8px;"><br />
 Precisamos de nomes que garantam n&atilde;o s&oacute; essas, mas novas pol&iacute;ticas de obten&ccedil;&atilde;o de terras, cr&eacute;dito espec&iacute;fico para as fam&iacute;lias assentadas (pois o Pronaf n&atilde;o &eacute; universal e nem atende a todas as necessidades) e tamb&eacute;m respeito aos seus servidores, os trabalhadores do Incra e MDA, que sobrevivem a este per&iacute;odo sob forte press&atilde;o diante da falta de concursos p&uacute;blicos e sal&aacute;rios melhores.</p>
 
 <p style="margin: 0px; padding: 0px 0px 0.5em 8px;"><br />
