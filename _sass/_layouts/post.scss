@@ -39,7 +39,12 @@ main.post {
         margin-right: 5px;
       }
     }
-   
+    
+    img {
+       width: 100%;
+       height: auto;
+    }
+
     img[style*="float:left"]{
       margin: 30px 30px 30px 0;
     }
@@ -92,6 +97,9 @@ main.post {
         p{ 
           font-size: 1.3em;
          }
+      }
+      img {
+        width: auto;
       }
    }
  }
