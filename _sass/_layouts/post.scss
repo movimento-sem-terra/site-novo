@@ -81,6 +81,11 @@ main.post {
       height: auto;
     }
   }
+  footer{
+    a{
+      font-size: 17px;
+    }
+  }
 }
 
 @media(min-width: $screen-sm) {
