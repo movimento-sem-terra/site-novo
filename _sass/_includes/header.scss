@@ -5,7 +5,7 @@ $padding: 20px;
 @import "mixins";
 @import "header/cover";
 @import "header/menu";
-
+@import "header/menu_mobile";
 #site-header {
   background-color: $background_color_menu;
   color: white;

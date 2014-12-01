@@ -38,37 +38,44 @@
     }
   }
 }
+
 .menu {
-  & > ul {
-    height: 0;
-    opacity: 0;
-    overflow: hidden;
-    margin: 0 20px;
-    padding: 0;
-    @include transition(opacity, 0.2s, ease-in);
+  & > ul li.dropdown > a:after {
+    font-family: 'Glyphicons Halflings Regular', Helvetica, Arial, sans-serif;
+    content: " \E114";
+    font-size: 0.7em;
+    display: inline-block;
+    margin-left: 0.5em;
+  }
+}
 
-    &, ul {
-      line-height: 1;
-      list-style: none;
-      width: auto;
-      font-size: 16px;
-      text-align: left;
+@media(min-width: $screen-md) {
+  .menu {
+    display: inline;
 
-      li {
-        @include line-menu();
+    & > ul {
+      height: 0;
+      opacity: 0;
+      overflow: hidden;
+      margin: 0 20px;
+      padding: 0;
+      @include transition(opacity, 0.2s, ease-in);
+
+      &, ul {
+        line-height: 1;
+        list-style: none;
+        width: auto;
+        font-size: 16px;
+        text-align: left;
+
+        li {
+          @include line-menu();
+        }
       }
-    }
 
-    li.dropdown > a:after {
-      font-family: 'Glyphicons Halflings Regular', Helvetica, Arial, sans-serif;
-      content: " \E114";
-      font-size: 0.7em;
-      display: inline-block;
-      margin-left: 0.5em;
-    }
-
-    li.dropdown > a.active::after {
-      content: " \E113";
+      li.dropdown > a.active::after {
+        content: " \E113";
+      }
     }
   }
 }
@@ -88,10 +95,6 @@
         }
       }
     }
-  }
-
-  #open-menu {
-    display: none;
   }
 
   .menu > ul {
