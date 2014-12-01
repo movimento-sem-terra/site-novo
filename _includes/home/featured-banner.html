@@ -1,12 +1,19 @@
-{% assign banner = site.banners | first %}
+{% assign campaigns = site.campaigns %}
 
-<section class="featured-banner">
-  <h2 class="hat">Outras lutas</h2>
-  <a href="{{ banner.link }}"
-    class="headline-text-over-image"
-    target="_blank">
-    <figure alt="banner: {{ banner.title }}">
-      <img src="{{ banner.image }}" alt="banner: {{ banner.title  }}"/>
-    </figure>
-  </a>
+<section class="featured-banner jscarousel" data-index="0">
+  <h2 class="hat">Campanhas</h2>
+  <a data-direction="-1" href="#" class='arrow-left'></a>
+  <ul>
+    {% for campaign in campaigns %}
+      <li>
+        {% assign default_image = site | extract_image_from_post_tag: campaign %}
+        {% assign image = campaign | find_image: 'full_hd' %}
+
+        <a href="{{ site.baseurl }}{{ campaign.url }}">
+          <img src="{{ image }}">
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+  <a data-direction="1" href="#" class='arrow-right'></a>
 </section>

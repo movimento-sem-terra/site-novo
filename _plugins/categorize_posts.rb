@@ -7,6 +7,7 @@ module Jekyll
       @newest_post = @all_articles.sort { |a, b| b <=> a }[0..300]
       cover = find "cover"
       tv_mst = find 'tv'
+      campaigns = find 'campaign'
       carousel = @newest_post.slice!(0,5) # the first five posts goes on carousel
       special_stories = find "special-stories", "label", 2, carousel
       recent = @newest_post.delete_at(0) # the sixth post goes on recent
@@ -23,6 +24,8 @@ module Jekyll
       site.config['interviews'] = interviews
       site.config['tv_mst'] = tv_mst.first
       site.config['special_stories'] = special_stories
+      site.config['campaigns'] = campaigns.slice(0,3)
+
     end
 
     def find value, field = "section", minimum = 0, except = []
