@@ -17,7 +17,7 @@ main.post {
 
       p {
         color: #929292;
-        font-size: 1.3em;
+        font-size: 1.1em;
         margin-top: 7px;
         margin-bottom: 3px;
       }
@@ -27,11 +27,22 @@ main.post {
       margin-top: 0.4em;
       word-wrap: break-word;
       clear: both;
+      font-size: 23px;
     }
 
-    span.tag {
-      float: left;
-      margin-left: 5px;
+    .tags {
+      margin-bottom: 10px;
+      overflow: hidden;
+      .tag {
+        float: left;
+        margin-bottom: 5px;
+        margin-right: 5px;
+      }
+    }
+    
+    img {
+       width: 100%;
+       height: auto;
     }
 
     img[style*="float:left"]{
@@ -62,9 +73,6 @@ main.post {
       max-width: 100%;
     }
   }
-  .hidden {
-    visibility: hidden;
-  }
   .social {
     margin-bottom: 10px;
     img{
@@ -73,14 +81,30 @@ main.post {
       height: auto;
     }
   }
+  footer{
+    a{
+      font-size: 17px;
+    }
+  }
 }
 
 @media(min-width: $screen-sm) {
   main.post {
     article {
       padding-right: 13%;
-    }
-  }
+      header{
+        h1{
+          font-size: 41px;
+        }
+        p{ 
+          font-size: 1.3em;
+         }
+      }
+      img {
+        width: auto;
+      }
+   }
+ }
 }
 
 figure.social-button {

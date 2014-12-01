@@ -68,7 +68,8 @@
     "options": [
     {"name": "Capa", "id": "cover"},
     {"name": "Destaque", "id": "featured-news"},
-    {"name": "Vídeo", "id": "tv"}
+    {"name": "Vídeo", "id": "tv"},
+    {"name": "Campanha", "id": "campaign"}
     ]
   }
 },
