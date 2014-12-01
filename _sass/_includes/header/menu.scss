@@ -39,48 +39,50 @@
   }
 }
 
-ul.menu {
-  height: 0;
-  opacity: 0;
-  overflow: hidden;
-  margin: 0 20px;
-  padding: 0;
-  @include transition(opacity, 0.2s, ease-in);
-
-  &, ul {
-    line-height: 1;
-    list-style: none;
-    width: auto;
-    font-size: 16px;
-    text-align: left;
-
-    li {
-      @include line-menu();
-    }
-  }
-
-  &.open {
-    height: auto;
-    opacity: 1;
-    overflow: visible;
-  }
-
-  li.dropdown > a:after {
+.menu {
+  & > ul li.dropdown > a:after {
     font-family: 'Glyphicons Halflings Regular', Helvetica, Arial, sans-serif;
     content: " \E114";
     font-size: 0.7em;
     display: inline-block;
     margin-left: 0.5em;
   }
+}
 
-  li.dropdown > a.active::after {
-    content: " \E113";
+@media(min-width: $screen-md) {
+  .menu {
+    display: inline;
+
+    & > ul {
+      height: 0;
+      opacity: 0;
+      overflow: hidden;
+      margin: 0 20px;
+      padding: 0;
+      @include transition(opacity, 0.2s, ease-in);
+
+      &, ul {
+        line-height: 1;
+        list-style: none;
+        width: auto;
+        font-size: 16px;
+        text-align: left;
+
+        li {
+          @include line-menu();
+        }
+      }
+
+      li.dropdown > a.active::after {
+        content: " \E113";
+      }
+    }
   }
 }
 
 
 @media(min-width: $screen-xs) {
-  #site-header {
+  .menu {
     ul {
       text-align: center;
 
@@ -95,11 +97,7 @@ ul.menu {
     }
   }
 
-  #open-menu {
-    display: none;
-  }
-
-  #main-menu {
+  .menu > ul {
     height: auto;
     opacity: 1;
     overflow: visible;
@@ -141,34 +139,3 @@ ul.menu {
     }
   }
 }
-
-#open-menu {
-  position: absolute;
-  left: 10px;
-  top: 20px;
-  height: 60px;
-  width: 60px;
-  background: none;
-  border: none;
-  padding: 0;
-  text-indent: -9999px;
-  z-index: 5;
-  outline: none;
-
-  &:after {
-    font-family: 'Glyphicons Halflings Regular', Helvetica, Arial, sans-serif;
-    content: '\E055';
-    text-indent: 0;
-    display: block;
-    height: 100%;
-    width: 100%;
-    line-height: 60px;
-    position: absolute;
-    left: 0;
-    top: 0;
-    font-size: 2.3em;
-    color: white;
-  }
-}
-
-

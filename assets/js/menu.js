@@ -29,8 +29,12 @@ $('.dropdown').children('a').on('click', function(event) {
   event.preventDefault();
 });
 
-$('#open-menu').on('click', function () {
-  $(this).siblings('ul').toggleClass('open');
+$('.open').on('click', function () {
+  $('html').toggleClass('menu-active');
+});
+
+$('.menu').hammer().on('swipe', function () {
+  $('html').toggleClass('menu-active');
 });
 
 $('#open-search').on('click', function () {

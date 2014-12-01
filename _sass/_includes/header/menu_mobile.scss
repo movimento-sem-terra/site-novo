@@ -1,0 +1,93 @@
+
+
+/***** bbutao para abrir o menu *****/
+
+
+
+/* Isto é necessário para não haver rolagens horizontais quando movermos os elementos */
+html, body {overflow-x: hidden;}
+
+.menu-active .menu-anchor {background: #d55401}
+
+
+@media(max-width: $screen-sm) {
+  .menu {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    width: 220px;
+    height: auto;
+    padding-top: 10px;
+    background: $mstred;
+    box-shadow: inset -5px -10px 10px 0 rgba(0,0,0,.3);
+
+    .dropdown-menu li a {
+      padding-left: 40px;
+    }
+
+    li a {
+      display: block;
+      border-bottom: 1px solid rgba(255,255,255,.3);
+      margin: 0 10px;
+      padding: 10px;
+      color: #FFF;
+      text-decoration: none;
+    }
+
+    li a:hover {
+      background: #FFF;
+      color: $mstred;
+    }
+
+    /*
+      Aqui você esconde o menu para fora da tela
+        O valor é exatamente a largura da sidebar
+        */
+
+    -webkit-transform: translateX(-220px);
+    -moz-transform: translateX(-220px);
+    -ms-transform: translateX(-220px);
+    transform: translateX(-220px);
+    -webkit-transition: all .25s linear;
+    -moz-transition: all .25s linear;
+    -ms-transition: all .25s linear;
+    transition: all .25s linear;
+
+  }
+
+
+
+
+  /*
+    Essa é a posição original do HEADER e do MAIN
+    */
+  header, main, footer {
+    -webkit-transform: translateX(0);
+    -moz-transform: translateX(0);
+    -ms-transform: translateX(0);
+    transform: translateX(0);
+    -webkit-transition: all .25s linear;
+    -moz-transition: all .25s linear;
+    -ms-transition: all .25s linear;
+    transition: all .25s linear;
+  }
+
+  /*
+     Com a classe menu-active na tag HTML
+     */
+  .menu-active.menu {
+    -webkit-transform: translateX(0);
+    -moz-transform: translateX(0);
+    -ms-transform: translateX(0);
+    transform: translateX(0);
+  }
+
+  .menu-active header,
+  .menu-active main {
+    -webkit-transform: translateX(220px);
+    -moz-transform: translateX(220px);
+    -ms-transform: translateX(220px);
+    transform: translateX(220px);
+  }
+}
