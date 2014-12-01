@@ -1,17 +1,92 @@
 #site-header > .cover {
+  background-color: $mstred;
+  text-align: initial;
+  padding-top: 10px;
+
   .logo {
     display: inline-block;
     height: 60px;
     margin-right: 11px;
+    vertical-align: top;
 
     img {
       height: 100%;
+    }
+  }
+
+  h1 {
+    display: inline-block;
+    text-shadow: 2px 2px 0px black;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    line-height: 60px;
+  }
+
+  h2 {
+    display: none;
+  }
+
+  .open {
+    background: none;
+    border: none;
+    padding: 0;
+    text-indent: -9999px;
+    z-index: 5;
+    outline: none;
+    float: left;
+    margin: 0;
+    margin-right: 5px;
+
+    &::after {
+      font-family: 'Glyphicons Halflings Regular', Helvetica, Arial, sans-serif;
+      content: '\E055';
+      text-indent: 0;
+      font-size: 2.3em;
+      color: white;
+      float: left;
+    }
+  }
+
+  .search {
+    padding: 10px 5px;
+    display: block;
+
+    input {
+      width: 100%;
+      height: 30px;
+      vertical-align: middle;
+      padding-left: 30px;
+      border-radius: 3px;
+      border: none;
+      color: $gray-darker;
+      line-height: 1em;
+
+      &:focus {
+        outline: none;
+        box-shadow: 0 0 5px #961913;
+      }
+    }
+
+    &::before {
+      font-family: 'Glyphicons Halflings Regular';
+      content: "\E003";
+      color: $mstred;
+      position: absolute;
+      padding-left: 5px;
+      padding-top: 3px;
     }
   }
 }
 
 @media(min-width: $screen-md) {
   #site-header > .cover {
+    .logo {
+      height: 60px;
+    }
+    .open {
+      display: none;
+    }
+
     background-image: url(/assets/img/capa.jpeg);
     background-size: cover;
 
@@ -39,38 +114,15 @@
 
     .logo {
       display: inline-block;
-      vertical-align: top;
       width: auto;
       height: $logo_height;
     }
 
     .search {
+      padding: 0;
       display: inline-block;
       float: right;
 
-      input {
-        height: 30px;
-        vertical-align: middle;
-        padding-left: 30px;
-        border-radius: 3px;
-        border: none;
-        color: $gray-darker;
-        line-height: 1em;
-
-        &:focus {
-          outline: none;
-          box-shadow: 0 0 5px #961913;
-        }
-      }
-
-      &::before {
-        font-family: 'Glyphicons Halflings Regular';
-        content: "\E003";
-        color: $mstred;
-        position: absolute;
-        padding-left: 5px;
-        padding-top: 3px;
-      }
     }
 
     @media(min-width: $screen-md) {
