@@ -29,7 +29,11 @@ $('.dropdown').children('a').on('click', function(event) {
   event.preventDefault();
 });
 
-$('.open').on('click touchstart', function () {
+$('.open').on('click', function () {
+  $('html').toggleClass('menu-active');
+});
+
+$('.menu').hammer().on('swipe', function () {
   $('html').toggleClass('menu-active');
 });
 
