@@ -68,7 +68,9 @@
     "options": [
     {"name": "Capa", "id": "cover"},
     {"name": "Destaque", "id": "featured-news"},
-    {"name": "Vídeo", "id": "tv"}
+    {"name": "Vídeo", "id": "tv"},
+    {"name": "Banner Principal", "id": "main_banner"},
+    {"name": "Banner Secundario", "id": "secondary_banner"}
     ]
   }
 },
