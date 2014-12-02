@@ -1,5 +1,5 @@
 ---
-date: "2014-11-26T18:04:14-02:00"
+date: "2014-11-26T17:04:14-03:00"
 tags:
   - tag: katia-abreu
   - tag: agronegócio
@@ -22,7 +22,7 @@ images_hd: "http://farm9.staticflickr.com/8664/15746554109_b23992ab43_n.jpg"
 
 <p style="margin: 0px; padding: 0px 0px 0.5em 8px; color: rgb(83, 93, 102); font-family: Arial, Verdana, Helvetica, sans-serif; font-size: 14px; line-height: 19.3151683807373px;"><em>Por Valmir Assun&ccedil;&atilde;o*, em discurso, via e-mail</em></p>
 
-<p style="margin: 0px; padding: 0px 0px 0.5em 8px; color: rgb(83, 93, 102); font-family: Arial, Verdana, Helvetica, sans-serif; font-size: 14px; line-height: 19.3151683807373px;"><br />
+<p style="margin: 0px; padding: 0px 0px 0.5em 8px; color: rgb(83, 93, 102); font-family: Arial, Verdana, Helvetica, sans-serif; font-size: 14px; line-height: 19.3151683807373px;">&nbsp;<br />
 Um Governo, eleito pelas for&ccedil;as populares, por quem acredita em mudan&ccedil;as, n&atilde;o pode sucumbir antes mesmo de come&ccedil;ar.</p>
 
 <p style="margin: 0px; padding: 0px 0px 0.5em 8px; color: rgb(83, 93, 102); font-family: Arial, Verdana, Helvetica, sans-serif; font-size: 14px; line-height: 19.3151683807373px;"><br />
