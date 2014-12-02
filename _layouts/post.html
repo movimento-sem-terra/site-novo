@@ -11,12 +11,12 @@ layout: default
         <time datetime="{{ page.date }}" itemprop="datePublished">
           {{ page.date | pretty_date }}
         </time>
-      {% include social-buttons.html article_url = page.url%}
+      {% include social-buttons.html article = page %}
     </header>
     {% include related-posts.html %}
    <div itemprop="articleBody">{{ content }}</div>
   </article>
-  <br>{% include social-buttons.html article_url = page.url%}
+  <br>{% include social-buttons.html article = page %}
   {% include read-more.html actual_post = page%}
 </main>
-<script type="text/javascript" src="../../../assets/js/legend.js"></script>
+<script type="text/javascript" src="{{ site.baseurl}}assets/js/legend.js"></script>
