@@ -75,7 +75,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  bourbon
   jekyll (~> 2.5.0)
   jekyll-sitemap (~> 0.5)
   neat

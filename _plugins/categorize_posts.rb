@@ -1,3 +1,4 @@
+
 module Jekyll
   class CategorizeLoader < Generator
     safe true
@@ -8,14 +9,15 @@ module Jekyll
       cover = find "cover"
       tv_mst = find 'tv'
       campaigns = find 'campaign'
+
       carousel = @newest_post.slice!(0,5) # the first five posts goes on carousel
+
       special_stories = find "special-stories", "label", 2, carousel
       recent = @newest_post.delete_at(0) # the sixth post goes on recent
       featured_news = find 'featured-news'
 
       articles = find "articles", "label"
       interviews = find 'interviews', "label"
-
       site.config["cover"] = cover.first
       site.config["articles"] = articles
       site.config["carousel"] = carousel
