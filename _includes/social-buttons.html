@@ -1,5 +1,5 @@
 <div class='social'>
-  <a href="http://www.facebook.com/sharer.php?u={{include.article_url | prepend: site.url}}" target="_blank"><img src="{{site.url}}/assets/img/facebook.png" title="Facebook"  alt="Compartilhar no Facebook"></a>
-
+  <a href="https://www.facebook.com/dialog/share?app_id={{ site.facebook }}&display=popup&href={{ include.article_url | prepend: site.url }}&redirect_uri={{ site.url }}" target="_blank"><img src="{{site.url}}/assets/img/facebook.png" title="Facebook"  alt="Compartilhar no Facebook"></a>
+  
   <a href="http://www.twitter.com/share?url={{include.article_url | prepend: site.url}}" target="_blank"><img src="{{site.url}}/assets/img/twitter.png" title="Twitter"  alt="Compartilhar no Twitter"></a>
 </div>
