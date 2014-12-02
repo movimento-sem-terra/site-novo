@@ -7,10 +7,11 @@
 /* Isto é necessário para não haver rolagens horizontais quando movermos os elementos */
 html, body {overflow-x: hidden;}
 
-.menu-active .menu-anchor {background: #d55401}
-
 
 @media(max-width: $screen-sm) {
+  main.post{
+    min-height: 1290px; //tamanho do menu
+  }
   .menu {
     position: fixed;
     top: 0;
