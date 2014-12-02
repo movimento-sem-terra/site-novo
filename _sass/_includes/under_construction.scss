@@ -1,7 +1,21 @@
-.under-construction{
+main.post > article section.under-construction{
   height: 500px;
-  .facebook,.twitter {
+  h1 { 
+    font-size: 2.2em;
+    margin: 30px 0;
+ }
+ .facebook, .twitter { 
+    width: 100%;
+    display: block;
+    padding: 30px 0;
     float: left;
-    width: 390px;
+  }
+  @media(min-width: $screen-sm){ 
+    .facebook,.twitter {
+      width: 390px;
+    }
+    .twitter iframe {
+      height: 420px;
+    }
   }
 }
