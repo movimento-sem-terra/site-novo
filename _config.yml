@@ -6,7 +6,7 @@ markdown: redcarpet
 url: http://novo.mst.org.br
 asset_pipeline:
   gzip: true
-facebook: 1542469885974977
+facebook: 784439748288439
 sass:
   style: :compressed
 collections:
