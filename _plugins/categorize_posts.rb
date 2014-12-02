@@ -27,6 +27,7 @@ module Jekyll
       site.config['tv_mst'] = tv_mst.first
       site.config['special_stories'] = special_stories
       site.config['campaigns'] = campaigns.slice(0,3)
+      site.config['others'] = @newest_post
 
     end
 
