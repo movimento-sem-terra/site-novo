@@ -1,6 +1,6 @@
 <div class='social'>
   {% if include.article.images_hd %}
-  <a href="https://www.facebook.com/dialog/feed?app_id={{ site.facebook }}&display=popup&href={{ include.article.url | prepend: site.url }}&redirect_uri={{ site.url }}&picture={{ include.article.images_hd | uri_escape }}&name={{ include.article.title }}&description={{ include.article.support_line }}&link={{ include.article.url | prepend: site.url }}" target="_blank"><img src="{{site.url}}/assets/img/facebook.png" title="Facebook"  alt="Compartilhar no Facebook"></a>
+  <a href="https://www.facebook.com/dialog/feed?app_id={{ site.facebook }}&display=popup&href={{ include.article.url | prepend: site.url | uri_escape }}&redirect_uri={{ site.url | uri_escape }}&picture={{ include.article.images_hd | uri_escape }}&name={{ include.article.title | xml_escape }}&description={{ include.article.support_line | truncate: 150 | xml_escape }}&link={{ include.article.url | prepend: site.url | uri_escape }}" target="_blank"><img src="{{site.url}}/assets/img/facebook.png" title="Facebook"  alt="Compartilhar no Facebook"></a>
 
   <a href="http://www.twitter.com/share?url={{include.article.url | prepend: site.url}}" target="_blank"><img src="{{site.url}}/assets/img/twitter.png" title="Twitter"  alt="Compartilhar no Twitter"></a>
   {% endif %}
