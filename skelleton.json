@@ -57,6 +57,11 @@
     {"id": "poemas-e-poesias", "name": "poemas e poesias"},
     {"id": "lutadores-do-povo", "name": "lutadores do povo"}
     ]
+  },
+  "need": {
+    "field": "section",
+    "equal": false,
+    "value": "campaign"
   }
 },
 {
@@ -74,14 +79,27 @@
   }
 },
 {
-  "name": "linkCampaign",
+  "name": "link-campaign",
   "title": "Link da Campanha",
+  "required": true,
+  "type": {
+    "view": "textarea"
+  },
+  "need": {
+    "field": "section",
+    "equal": true,
+    "value": "campaign"
+  }
+},
+{
+  "name": "link-target",
+  "title": "Abrir link em",
   "required": true,
   "type": {
     "view": "select",
     "options": [
-      {"name": "Interno", "id": "internal"},
-      {"name": "Externo", "id": "external"}
+      {"name": "uma nova aba", "id": "new-tab"},
+      {"name": "na mesma aba", "id": "same-tab"}
     ]
   },
   "need": {
