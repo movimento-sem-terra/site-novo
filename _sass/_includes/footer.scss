@@ -25,6 +25,13 @@ body > footer {
     }
   }
 
+  article.links ul li a:before{
+    content: "\e164";
+    font-family: 'Glyphicons Halflings Regular';
+    margin-right: 7px;
+    font-size: 12px;
+  }
+
   article.social {
     a {
       font-family: 'Glyphicons Social Regular', Helvetica, Arial, sans-serif;
