@@ -74,6 +74,23 @@
   }
 },
 {
+  "name": "linkCampaign",
+  "title": "Link da Campanha",
+  "required": true,
+  "type": {
+    "view": "select",
+    "option": [
+      {"name": "Interno", "id": "internal"},
+      {"name": "Externo", "id": "external"}
+    ]
+  },
+  "need": {
+    "field": "section",
+    "equal": true,
+    "value": "campaign"
+  }
+},
+{
   "name": "label",
   "title": "Gênero",
   "required": false,
