@@ -19,6 +19,7 @@ images_hd: http://farm4.staticflickr.com/3929/15275976967_06c2778bd2_b.jpg
 menu: reforma agrária
 published: true
 date: '2014-10-03T17:49:10-03:00'
+created_date: 2014-10-03 12:00
 
 ---
 <p><em>Da Carta Maior</em></p>

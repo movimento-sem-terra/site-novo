@@ -14,6 +14,7 @@ images_hd: http://www.mst.org.br/sites/default/files/bone_especial_site2.jpg
 label: journeys
 published: true
 date: '2010-08-11T11:49:11-03:00'
+created_date: 2010-08-11 12:00
 
 ---
 <em></em>

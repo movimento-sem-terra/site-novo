@@ -14,6 +14,7 @@ images_hd: ''
 label: journeys
 published: true
 date: '2009-06-22T05:25:17-03:00'
+created_date: 2009-06-22 12:00
 
 ---
 A governadora Ana Júlia Carepa votou na última sexta-feira, dia 7, pela reestatização da Companhia Vale do Rio Doce (CVRD), no último dia do plebiscito popular organizado pelas organizações sociais brasileiras. A governadora respondeu “não” a pergunta: “A Vale deve continuar nas mãos do capital privado?”. 

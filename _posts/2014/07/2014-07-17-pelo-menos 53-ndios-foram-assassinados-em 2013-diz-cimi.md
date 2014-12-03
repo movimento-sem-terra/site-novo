@@ -18,6 +18,7 @@ label: ''
 images_hd: http://farm3.staticflickr.com/2911/14491651667_36f055201e_b.jpg
 menu: direitos humanos
 date: '2014-07-17T14:31:18-03:00'
+created_date: 2014-07-17 12:00
 
 ---
 <p><br />

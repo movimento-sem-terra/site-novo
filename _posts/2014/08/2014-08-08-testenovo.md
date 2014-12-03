@@ -18,6 +18,7 @@ images_hd: eeeeee
 menu: agricultura camponesa
 published: false
 date: '2014-08-08T11:26:09-03:00'
+created_date: 2014-08-08 12:00
 
 ---
 <p>MST ocupa fazendaMST ocupa fazendaMST ocupa fazendaMST ocupa fazendaMST ocupa fazendaMST ocupa fazendaaaaaaaaaa</p>

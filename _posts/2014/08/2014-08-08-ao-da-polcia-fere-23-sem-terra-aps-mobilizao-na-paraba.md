@@ -19,6 +19,7 @@ images_hd: http://farm4.staticflickr.com/3847/14837331096_5fed8fa260_b.jpg
 menu: agronegócio
 published: true
 date: '2014-07-19T12:32:36-03:00'
+created_date: 2014-08-08 12:00
 
 ---
 <p>Da P&aacute;gina do MST</p>

@@ -14,6 +14,7 @@ images_hd: ''
 label: journeys
 published: true
 date: '2009-06-22T05:25:17-03:00'
+created_date: 2009-06-22 12:00
 
 ---
 A Reforma Agrária continua parada em todo o país. Exigimos o assentamento das 100 mil famílias acampadas e investimentos públicos nos assentamentos, como crédito para produção, habitação rural, educação e saúde. Temos famílias acampadas há mais de cinco anos, vivendo em situação bastante difícil à beira de estradas e em áreas ocupadas, que são vítimas da violência do latifúndio e do agronegócio. Relembramos nessa data o assassinato de 19 companheiros em Eldorado dos Carajás, pelas mãos da própria Polícia Militar. Esse fato, que demonstra a brutalidade com que o Estado trata com as reivindicações sociais, é mais um dos tantos de impunidade dos responsáveis. Depois de 13 anos, ninguém foi preso e o processo está parado no STJ. 

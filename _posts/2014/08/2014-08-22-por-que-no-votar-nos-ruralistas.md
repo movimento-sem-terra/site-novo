@@ -19,6 +19,7 @@ images_hd: ''
 menu: agronegócio
 published: true
 date: '2014-08-22T14:40:41-03:00'
+created_date: 2014-08-22 12:00
 
 ---
 <p style="text-align: center;"><iframe allowfullscreen="" name="coverVideo" frameborder="0" height="360" src="//www.youtube.com/embed/WLg1wm7aw3w" width="640"></iframe></p>

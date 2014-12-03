@@ -14,6 +14,7 @@ images_hd: http://www.mst.org.br/sites/default/files/banner_site.jpg
 label: journeys
 published: true
 date: '2009-11-19T19:03:41-02:00'
+created_date: 2009-11-19 12:00
 
 ---
 Em 20 de novembro de 2004, o fazendeiro Adriano Chafik Luedy e seus jagunços invadiram o acampamento Terra Prometida, no município mineiro de Felisburgo, assassinaram cinco trabalhadores rurais Sem Terra e deixaram mais de 20 gravemente feridos. O Massacre de Felisburgo, que completa quatro anos nesta semana, é considerado um retrato da atualidade da violência no campo, da impunidade da Justiça e da paralisação da Reforma Agrária.

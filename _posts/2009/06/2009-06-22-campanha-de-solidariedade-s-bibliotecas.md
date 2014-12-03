@@ -14,6 +14,7 @@ images_hd: ''
 label: journeys
 published: true
 date: '2009-06-22T05:25:17-03:00'
+created_date: 2009-06-22 12:00
 
 ---
 Conhecido em todo o Brasil, Marcos Winter é um ator que faz da arte uma forma de expressar sua indignação diante das injustiças sociais. Atualmente vive o personagem Narciso Tellerman na novela Duas Caras exibida às 20 horas. Winter, que é um antigo amigo e apoiador do Movimento dos Trabalhadores Rurais Sem Terra (MST) recentemente deu declaração em apoio a Campanha de Solidareidade às Bibliotecas do MST, que pretende arrecadar 150 mil exemplares até dezembro.

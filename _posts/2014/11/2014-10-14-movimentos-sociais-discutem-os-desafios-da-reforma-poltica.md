@@ -21,6 +21,7 @@ images_hd: http://farm4.staticflickr.com/3944/15139393184_b8fcb84f91_b.jpg
 menu: projeto popular
 published: true
 date: '2014-10-14T17:50:33-03:00'
+created_date: 2014-10-14 12:00
 
 ---
 <p><em>Da P&aacute;gina do MST</em><br />

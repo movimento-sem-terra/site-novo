@@ -19,6 +19,7 @@ label:
 published: true
 menu: reforma agrária
 date: '2014-02-07T10:32:27-02:00'
+created_date: 2014-02-07 12:00
 
 ---
 <p><!--[if gte mso 9]><xml>

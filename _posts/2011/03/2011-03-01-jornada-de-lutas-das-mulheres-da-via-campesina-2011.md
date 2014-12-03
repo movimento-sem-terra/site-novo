@@ -14,6 +14,7 @@ images_hd: ''
 label: journeys
 published: true
 date: '2011-03-01T12:30:29-03:00'
+created_date: 2011-03-01 12:00
 
 ---
 <p><meta http-equiv="CONTENT-TYPE" content="text/html; charset=utf-8"><title></title><meta name="GENERATOR" content="BrOffice.org 3.2  (Win32)"><style type="text/css">

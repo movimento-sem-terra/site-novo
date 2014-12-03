@@ -14,6 +14,7 @@ images_hd: http://www.mst.org.br/sites/default/files/trabalho_ecravo(2).jpg
 label: journeys
 published: true
 date: '2010-05-24T12:32:15-03:00'
+created_date: 2010-05-24 12:00
 
 ---
 <em>

@@ -20,6 +20,7 @@ images_hd: http://farm4.staticflickr.com/3951/15574058057_8e5370e3ef_b.jpg
 menu: agricultura camponesa
 published: true
 date: '2014-10-10T17:32:59-03:00'
+created_date: 2014-10-10 12:00
 
 ---
 <p><em>Por Maura Silva&nbsp;</em></p>

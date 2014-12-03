@@ -1,27 +1,29 @@
 ---
-date: "2014-11-26T17:20:29-02:00"
+date: '2014-11-26T17:20:29-02:00'
 tags:
-  - tag: Mulheres
-  - tag: Pará
+- tag: Mulheres
+- tag: Pará
 title: Mulheres Sem Terra participam de ato pelo dia 25 de novembro
-support_line: Cerca de 200 camponesas participam do Dia Internacional da Não Violência contra as Mulheres.
+support_line: Cerca de 200 camponesas participam do Dia Internacional da Não Violência
+  contra as Mulheres.
 menu: lutas e mobilizações
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8588/15906708656_f2d8821c09_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8588/15906708656_f2d8821c09_t.jpg"
-    medium: "http://farm9.staticflickr.com/8588/15906708656_f2d8821c09_z.jpg"
-    small: "http://farm9.staticflickr.com/8588/15906708656_f2d8821c09_n.jpg"
-    title: Dia das mulheres_Para.jpg
-    $$hashKey: 02X
-  - link: "http://farm8.staticflickr.com/7569/15745222530_bf149886c0_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7569/15745222530_bf149886c0_t.jpg"
-    medium: "http://farm8.staticflickr.com/7569/15745222530_bf149886c0_z.jpg"
-    small: "http://farm8.staticflickr.com/7569/15745222530_bf149886c0_n.jpg"
-    title: Dia das mulheres_Para2.jpg
-    $$hashKey: 08D
+- link: http://farm9.staticflickr.com/8588/15906708656_f2d8821c09_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8588/15906708656_f2d8821c09_t.jpg
+  medium: http://farm9.staticflickr.com/8588/15906708656_f2d8821c09_z.jpg
+  small: http://farm9.staticflickr.com/8588/15906708656_f2d8821c09_n.jpg
+  title: Dia das mulheres_Para.jpg
+  "$$hashKey": 02X
+- link: http://farm8.staticflickr.com/7569/15745222530_bf149886c0_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7569/15745222530_bf149886c0_t.jpg
+  medium: http://farm8.staticflickr.com/7569/15745222530_bf149886c0_z.jpg
+  small: http://farm8.staticflickr.com/7569/15745222530_bf149886c0_n.jpg
+  title: Dia das mulheres_Para2.jpg
+  "$$hashKey": 08D
 published: true
-images_hd: "http://farm9.staticflickr.com/8588/15906708656_f2d8821c09_n.jpg"
+images_hd: http://farm9.staticflickr.com/8588/15906708656_f2d8821c09_n.jpg
+created_date: 2014-11-26 12:00
 
 ---
 <p><img alt="Dia das mulheres_Para.jpg" src="http://farm9.staticflickr.com/8588/15906708656_f2d8821c09_b.jpg" /></p>

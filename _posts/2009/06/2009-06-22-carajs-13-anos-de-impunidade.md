@@ -14,6 +14,7 @@ images_hd: ''
 label: journeys
 published: true
 date: '2009-06-22T05:25:17-03:00'
+created_date: 2009-06-22 12:00
 
 ---
 Em 17 de abril de 1996 policiais militares promoveram o Massacre de Eldorado de Carajás, que ganhou repercussão internacional e deixou marca na história do país, ao lado do Massacre do Carandiru (1992) e da Chacina da Candelária (1993), como uma das ações policiais mais violentas do Brasil. Em 2002, o presidente FHC instituiu essa data como o Dia Nacional de Luta pela Reforma Agrária.

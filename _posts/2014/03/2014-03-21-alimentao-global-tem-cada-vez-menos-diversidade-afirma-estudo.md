@@ -18,6 +18,7 @@ label:
 published: true
 menu: agronegócio
 date: '2014-03-21T14:11:13-03:00'
+created_date: 2014-03-21 12:00
 
 ---
 <p><!--[if gte mso 9]><xml>

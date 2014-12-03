@@ -14,6 +14,7 @@ images_hd: ''
 label: journeys
 published: true
 date: '2009-06-22T05:25:17-03:00'
+created_date: 2009-06-22 12:00
 
 ---
 Ao longo destes 25 anos de existência, o MST sempre contou com a solidariedade de milhares de homens e mulheres que acreditam na luta pela Reforma Agrária e pela transformação social.

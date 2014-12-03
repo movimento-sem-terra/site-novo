@@ -20,6 +20,7 @@ images_hd: http://farm4.staticflickr.com/3930/15275896800_0d01820eba_b.jpg
 menu: meio ambiente
 published: true
 date: '2014-10-03T17:59:39-03:00'
+created_date: 2014-10-03 12:00
 
 ---
 <p><img alt="" src="http://farm4.staticflickr.com/3930/15275896800_0d01820eba_b.jpg" /></p>

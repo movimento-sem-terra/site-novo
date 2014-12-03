@@ -18,6 +18,7 @@ picture_week: ''
 images_hd: ''
 menu: internacional
 date: '2013-05-10T16:53:30-03:00'
+created_date: 2013-05-10 12:00
 
 ---
 <p>&nbsp;</p><p>&nbsp;</p><p style="text-align: center;"><object data="http://www.youtube.com/v/6QopnsvGGqA" type="application/x-shockwave-flash" height="500" width="600"><param name="data" value="http://www.youtube.com/v/6QopnsvGGqA"><param name="src" value="http://www.youtube.com/v/6QopnsvGGqA"></object></p><p style="text-align: center;">&nbsp;</p><p style="text-align: left;"><strong><a href="http://www.youtube.com/user/MultimedioVTV?feature=watch" target="_blank">Clique aqui para ver mais vídeos da atividade com Maduro</a></strong></p>

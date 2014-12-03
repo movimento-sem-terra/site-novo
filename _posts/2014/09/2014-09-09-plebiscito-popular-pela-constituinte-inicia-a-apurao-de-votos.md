@@ -18,6 +18,7 @@ images_hd: http://farm6.staticflickr.com/5576/15207774292_5b3b77af68_b.jpg
 menu: projeto popular
 published: true
 date: '2014-09-09T11:46:57-03:00'
+created_date: 2014-09-09 12:00
 
 ---
 <p><em>Da RBA</em></p>

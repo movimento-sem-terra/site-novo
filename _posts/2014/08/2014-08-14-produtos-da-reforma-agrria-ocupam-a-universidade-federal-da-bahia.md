@@ -20,6 +20,7 @@ images_hd: http://farm4.staticflickr.com/3921/14729889489_a417f86c8d_b.jpg
 menu: reforma agrária
 published: true
 date: '2014-08-14T10:18:48-03:00'
+created_date: 2014-08-14 12:00
 
 ---
 <p>&nbsp;</p>

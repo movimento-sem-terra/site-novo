@@ -20,6 +20,7 @@ images_hd: http://farm4.staticflickr.com/3947/15757370421_77fcd09272_b.jpg
 menu: projeto popular
 published: true
 date: '2014-10-14T17:36:09-03:00'
+created_date: 2014-10-14 12:00
 
 ---
 <p><em>Por Pedro Rafael&nbsp;</em></p>

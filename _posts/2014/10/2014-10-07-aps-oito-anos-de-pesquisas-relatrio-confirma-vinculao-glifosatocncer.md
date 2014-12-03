@@ -24,6 +24,7 @@ images_hd: http://farm4.staticflickr.com/3937/15285329658_aca378ab9a_b.jpg
 menu: agronegócio
 published: true
 date: '2014-10-07T14:28:41-03:00'
+created_date: 2014-10-07 12:00
 
 ---
 <p>&nbsp;</p>

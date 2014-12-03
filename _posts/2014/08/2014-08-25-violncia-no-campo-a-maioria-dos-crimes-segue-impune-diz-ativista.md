@@ -19,6 +19,7 @@ images_hd: http://farm4.staticflickr.com/3894/15035324535_351bcb63c9_b.jpg
 menu: direitos humanos
 published: true
 date: '2014-08-25T16:46:11-03:00'
+created_date: 2014-08-25 12:00
 
 ---
 <p><em>Por Marcelo Hailer<br />

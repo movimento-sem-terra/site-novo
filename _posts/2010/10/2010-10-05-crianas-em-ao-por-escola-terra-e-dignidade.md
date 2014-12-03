@@ -14,6 +14,7 @@ images_hd: http://www.mst.org.br/sites/default/files/especial_semterrinha_20101.
 label: journeys
 published: true
 date: '2010-10-05T11:45:26-03:00'
+created_date: 2010-10-05 12:00
 
 ---
 <em>

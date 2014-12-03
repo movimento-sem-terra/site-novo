@@ -18,6 +18,7 @@ images_hd: http://farm4.staticflickr.com/3929/15227204700_08d07c8b45_b.jpg
 menu: transgênicos
 published: true
 date: '2014-09-24T17:10:53-03:00'
+created_date: 2014-09-24 12:00
 
 ---
 <p>&nbsp;</p>

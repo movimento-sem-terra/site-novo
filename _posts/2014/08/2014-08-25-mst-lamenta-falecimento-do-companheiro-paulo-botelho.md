@@ -19,6 +19,7 @@ images_hd: http://farm4.staticflickr.com/3899/14849185480_3f554cd31b_b.jpg
 menu: lutadores-do-povo
 published: true
 date: '2014-08-25T17:40:46-03:00'
+created_date: 2014-08-25 12:00
 
 ---
 <p><em>Da P&aacute;gina do MST</em></p>

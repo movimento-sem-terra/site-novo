@@ -18,6 +18,7 @@ images_hd: http://farm6.staticflickr.com/5570/15005734159_a4e20e8d2c_b.jpg
 menu: solidariedade
 published: true
 date: '2014-09-05T17:27:00-03:00'
+created_date: 2014-09-05 12:00
 
 ---
 <p><span contenteditable="false" tabindex="-1"><img alt="" data-widget="image" src="http://farm6.staticflickr.com/5570/15005734159_a4e20e8d2c_b.jpg" /></span><br />

@@ -17,6 +17,7 @@ images_hd: http://farm4.staticflickr.com/3915/14669227481_e441ac57da_b.jpg
 menu: solidariedade internacional
 published: true
 date: '2014-07-16T18:53:13-03:00'
+created_date: 2014-07-16 12:00
 
 ---
 <p><img alt="" src="https://farm4.staticflickr.com/3915/14669227481_e441ac57da_b.jpg" style="float:left; height:374px; margin:10px; width:610px" /><br />

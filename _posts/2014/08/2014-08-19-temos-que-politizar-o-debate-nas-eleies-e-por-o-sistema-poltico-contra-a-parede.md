@@ -19,6 +19,7 @@ images_hd: http://farm4.staticflickr.com/3880/14948119386_6dc781e615_b.jpg
 menu: projeto popular
 published: true
 date: '2014-08-19T13:32:31-03:00'
+created_date: 2014-08-19 12:00
 
 ---
 <p><em>Por Jos&eacute; Coutinho J&uacute;nior<br />

@@ -18,6 +18,7 @@ label:
 published: true
 menu: educação, cultura e comunicação
 date: '2014-02-11T08:34:24-02:00'
+created_date: 2014-02-11 12:00
 
 ---
 <p style="text-align: center;"><iframe src="//www.youtube.com/embed/ne1iQtPBFuQ" allowfullscreen="" height="560" width="560" frameborder="0"></iframe></p>

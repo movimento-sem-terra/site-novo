@@ -20,6 +20,7 @@ images_hd: http://farm6.staticflickr.com/5608/15283885370_c382ae40e5_b.jpg
 menu: agricultura camponesa
 published: true
 date: '2014-10-06T14:20:31-03:00'
+created_date: 2014-10-06 12:00
 
 ---
 <p><img alt="" src="http://farm6.staticflickr.com/5608/15283885370_c382ae40e5_b.jpg" /></p>

@@ -14,6 +14,7 @@ images_hd: ''
 label: journeys
 published: true
 date: '2009-06-22T05:25:17-03:00'
+created_date: 2009-06-22 12:00
 
 ---
 O Acampamento 1° de Agosto, localizado em Cascavel, região Oeste do Paraná, recebe hoje, 50 aparelhos de televisão e 50 aparelhos de DVD. Os eletrônicos serão utilizados na alfabetização de jovens e adultos do método cubano "Sim, eu posso", que conta com 46 turmas na região Oeste e Noroeste do estado. Os aparelhos estão sendo doados pela Secretária de Educação do Paraná.

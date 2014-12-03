@@ -15,6 +15,7 @@ images_hd: http://www.mst.org.br/sites/default/files/Números da Educação do M
 label: journeys
 published: true
 date: '2009-10-08T11:48:02-03:00'
+created_date: 2009-10-08 12:00
 
 ---
 A democratização do conhecimento é considerada tão importante quanto a Reforma Agrária no processo de consolidação da democracia. Além dos acampamentos à beira de estradas, das ocupações de terra e de marchas para pressionar pela desconcentração da terra, o MST luta desde 1984 pelo acesso à educação pública, gratuita e de qualidade em todos os níveis para as crianças, jovens e adultos de acampamentos e assentamentos.

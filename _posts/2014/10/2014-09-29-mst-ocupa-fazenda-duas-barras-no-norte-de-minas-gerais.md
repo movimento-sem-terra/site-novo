@@ -20,6 +20,7 @@ images_hd: http://farm3.staticflickr.com/2950/15458086751_8bdeb7357d_b.jpg
 menu: reforma agrária
 published: true
 date: '2014-09-29T15:25:26-03:00'
+created_date: 2014-09-29 12:00
 
 ---
 <p><em>Da P&aacute;gina do MST&nbsp;</em></p>

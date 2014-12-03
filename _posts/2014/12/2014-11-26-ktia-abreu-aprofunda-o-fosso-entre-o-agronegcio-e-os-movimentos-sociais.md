@@ -1,20 +1,22 @@
 ---
-date: "2014-11-26T17:25:35-02:00"
+date: '2014-11-26T17:25:35-02:00'
 tags:
-  - tag: Kátia-Abreu
+- tag: Kátia-Abreu
 title: Kátia Abreu aprofunda o fosso entre o agronegócio e os movimentos sociais
-support_line: "A provável ministra da Agricultura agrada aos grandes produtores, mas desagrada a entidades como o MST."
+support_line: A provável ministra da Agricultura agrada aos grandes produtores, mas
+  desagrada a entidades como o MST.
 menu: agronegócio
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7558/15932522145_696cb7f97c_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7558/15932522145_696cb7f97c_t.jpg"
-    medium: "http://farm8.staticflickr.com/7558/15932522145_696cb7f97c_z.jpg"
-    small: "http://farm8.staticflickr.com/7558/15932522145_696cb7f97c_n.jpg"
-    title: katia-abreu.jpg
-    $$hashKey: 0F6
+- link: http://farm8.staticflickr.com/7558/15932522145_696cb7f97c_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7558/15932522145_696cb7f97c_t.jpg
+  medium: http://farm8.staticflickr.com/7558/15932522145_696cb7f97c_z.jpg
+  small: http://farm8.staticflickr.com/7558/15932522145_696cb7f97c_n.jpg
+  title: katia-abreu.jpg
+  "$$hashKey": 0F6
 published: true
-images_hd: "http://farm8.staticflickr.com/7558/15932522145_696cb7f97c_n.jpg"
+images_hd: http://farm8.staticflickr.com/7558/15932522145_696cb7f97c_n.jpg
+created_date: 2014-11-26 12:00
 
 ---
 <p style="margin: 0px; padding: 0px 0px 0.5em 8px; color: rgb(83, 93, 102); font-family: Arial, Verdana, Helvetica, sans-serif; font-size: 14px; line-height: 19.3151683807373px;">&nbsp;</p>

@@ -14,6 +14,7 @@ images_hd: http://www.mst.org.br/sites/default/files/jornadasemterrinha.jpg
 label: journeys
 published: true
 date: '2009-10-08T11:40:27-03:00'
+created_date: 2009-10-08 12:00
 
 ---
 Em outubro acontece, nos 24 estados em que o MST está organizado, a Jornada Nacional dos Sem Terrinha. Os assentamentos, acampamentos, escolas e centros de formação tornam-se palco de encontros que pautam, através da luta das crianças por escolas e pelo direito de ser reconhecido no campo como sujeito de sua própria história, a luta pela soberania popular.

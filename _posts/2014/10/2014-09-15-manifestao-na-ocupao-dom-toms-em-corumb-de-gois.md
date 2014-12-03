@@ -20,6 +20,7 @@ images_hd: ''
 menu: lutas e mobilizações
 published: true
 date: '2014-09-15T13:55:37-03:00'
+created_date: 2014-09-15 12:00
 
 ---
 <p style="text-align: center;"><iframe allowfullscreen="" name="coverVideo" frameborder="0" height="360" src="//www.youtube.com/embed/iNvrvQPPUKI" width="640"></iframe></p>

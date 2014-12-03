@@ -1,35 +1,36 @@
 ---
-date: "2014-10-21T15:20:13-03:00"
+date: '2014-10-21T15:20:13-03:00'
 tags:
-  - tag: Produção
-  - tag: Espírito-Santo
-  - tag: Reforma-Agrária
-title: "Reforma Agrária: Luta, reforma e produção no Espírito Santo"
-support_line: "Cultivos de café e pimenta-do-reino, frutos da luta pela reforma agrária."
+- tag: Produção
+- tag: Espírito-Santo
+- tag: Reforma-Agrária
+title: 'Reforma Agrária: Luta, reforma e produção no Espírito Santo'
+support_line: Cultivos de café e pimenta-do-reino, frutos da luta pela reforma agrária.
 menu: agricultura camponesa
 label: special-stories
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7549/15223571574_7907c15b0c_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7549/15223571574_7907c15b0c_t.jpg"
-    medium: "http://farm8.staticflickr.com/7549/15223571574_7907c15b0c_z.jpg"
-    small: "http://farm8.staticflickr.com/7549/15223571574_7907c15b0c_n.jpg"
-    title: "São Mateus A!.jpg"
-    $$hashKey: 07L
-  - link: "http://farm8.staticflickr.com/7506/15843845771_203618ba82_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7506/15843845771_203618ba82_t.jpg"
-    medium: "http://farm8.staticflickr.com/7506/15843845771_203618ba82_z.jpg"
-    small: "http://farm8.staticflickr.com/7506/15843845771_203618ba82_n.jpg"
-    title: "São Mateus D!.jpg"
-    $$hashKey: 07O
-  - link: "http://farm8.staticflickr.com/7534/15658322278_f422a42f46_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7534/15658322278_f422a42f46_t.jpg"
-    medium: "http://farm8.staticflickr.com/7534/15658322278_f422a42f46_z.jpg"
-    small: "http://farm8.staticflickr.com/7534/15658322278_f422a42f46_n.jpg"
-    title: "São Mateus E!.jpg"
-    $$hashKey: 07R
+- link: http://farm8.staticflickr.com/7549/15223571574_7907c15b0c_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7549/15223571574_7907c15b0c_t.jpg
+  medium: http://farm8.staticflickr.com/7549/15223571574_7907c15b0c_z.jpg
+  small: http://farm8.staticflickr.com/7549/15223571574_7907c15b0c_n.jpg
+  title: São Mateus A!.jpg
+  "$$hashKey": 07L
+- link: http://farm8.staticflickr.com/7506/15843845771_203618ba82_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7506/15843845771_203618ba82_t.jpg
+  medium: http://farm8.staticflickr.com/7506/15843845771_203618ba82_z.jpg
+  small: http://farm8.staticflickr.com/7506/15843845771_203618ba82_n.jpg
+  title: São Mateus D!.jpg
+  "$$hashKey": 07O
+- link: http://farm8.staticflickr.com/7534/15658322278_f422a42f46_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7534/15658322278_f422a42f46_t.jpg
+  medium: http://farm8.staticflickr.com/7534/15658322278_f422a42f46_z.jpg
+  small: http://farm8.staticflickr.com/7534/15658322278_f422a42f46_n.jpg
+  title: São Mateus E!.jpg
+  "$$hashKey": 07R
 published: true
-images_hd: "http://farm8.staticflickr.com/7534/15658322278_f422a42f46_n.jpg"
+images_hd: http://farm8.staticflickr.com/7534/15658322278_f422a42f46_n.jpg
+created_date: 2014-11-21 12:00
 
 ---
 <p><img alt="São Mateus A!.jpg" src="http://farm8.staticflickr.com/7549/15223571574_7907c15b0c_n.jpg" /></p>

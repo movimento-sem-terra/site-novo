@@ -14,6 +14,7 @@ images_hd: ''
 label: journeys
 published: true
 date: '2009-06-22T05:25:17-03:00'
+created_date: 2009-06-22 12:00
 
 ---
 O Brasil vivia uma conjuntura de duras lutas pela abertura política, pelo fim da ditadura e de mobilizações operárias nas cidades. Como parte desse contexto, entre 20 e 22 de janeiro de 1984, foi realizado o 1º Encontro Nacional dos Sem Terra, em Cascavel, no Paraná. Ou seja, o Movimento não tem um dia de fundação, mas essa reunião marca o ponto de partida da sua construção. 

@@ -18,6 +18,7 @@ label:
 published: true
 menu: lutas e mobilizações
 date: '2014-02-14T13:36:30-02:00'
+created_date: 2014-02-14 12:00
 
 ---
 <p style="text-align: center;"><iframe allowfullscreen="" src="//www.youtube.com/embed/BNcHX30oUrg" frameborder="0" height="500" width="600"></iframe></p>

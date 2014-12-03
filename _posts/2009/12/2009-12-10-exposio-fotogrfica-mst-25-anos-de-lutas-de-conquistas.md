@@ -15,6 +15,7 @@ images_hd: http://www.mst.org.br/sites/default/files/exposicao_capa copy.jpg
 label: journeys
 published: true
 date: '2009-12-10T16:35:19-02:00'
+created_date: 2009-12-10 12:00
 
 ---
 Em 2009, comemoramos 25 anos de MST. Não é um pondo de chegada, apenas um marco numa trajetória histórica construída coletivamente. 

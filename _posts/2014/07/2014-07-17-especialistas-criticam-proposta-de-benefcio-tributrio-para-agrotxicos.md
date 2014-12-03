@@ -16,6 +16,7 @@ label: ''
 images_hd: http://farm3.staticflickr.com/2915/14675742734_89b7670232_b.jpg
 menu: agronegócio
 date: '2014-07-17T14:23:11-03:00'
+created_date: 2014-07-17 12:00
 
 ---
 <p><br />

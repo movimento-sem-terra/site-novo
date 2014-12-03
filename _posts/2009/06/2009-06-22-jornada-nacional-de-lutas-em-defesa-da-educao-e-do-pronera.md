@@ -14,6 +14,7 @@ images_hd: ''
 label: journeys
 published: true
 date: '2009-06-22T05:25:17-03:00'
+created_date: 2009-06-22 12:00
 
 ---
 Nós, trabalhadores e trabalhadoras rurais Sem Terra de todo o país, estamos mobilizados para defender a educação do campo e o Programa Nacional de Educação na Reforma Agrária (PRONERA), uma conquista histórica dos movimentos sociais que lutam pela Reforma Agrária no Brasil. 

@@ -14,6 +14,7 @@ images_hd: ''
 label: journeys
 published: true
 date: '2009-06-22T05:25:17-03:00'
+created_date: 2009-06-22 12:00
 
 ---
 <b><a href="http://www.mst.org.br/mst/pagina.php?cd=6398">English version</a>/<a href="http://www.mst.org.br/mst/pagina.php?cd=6396">Versión en Español</a></b>

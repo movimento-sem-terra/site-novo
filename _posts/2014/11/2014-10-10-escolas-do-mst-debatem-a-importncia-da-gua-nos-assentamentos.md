@@ -20,6 +20,7 @@ images_hd: http://farm8.staticflickr.com/7476/15760832622_67e6e1e799_b.jpg
 menu: meio ambiente
 published: true
 date: '2014-10-10T17:38:50-03:00'
+created_date: 2014-10-10 12:00
 
 ---
 <p><em>Por Juliana Adriano<br />

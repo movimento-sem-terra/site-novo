@@ -17,6 +17,7 @@ images_hd: http://farm6.staticflickr.com/5583/14838259936_7141b592c8_b.jpg
 menu: educação, cultura e comunicação
 published: true
 date: '2014-07-24T14:42:12-03:00'
+created_date: 2014-08-08 12:00
 
 ---
 <h1><span style="font-size:13px; line-height:1.6">​</span><em style="font-size:13px; line-height:1.6">Da&nbsp;P&aacute;gina do MST</em></h1>

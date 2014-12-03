@@ -20,6 +20,7 @@ images_hd: http://farm8.staticflickr.com/7509/15139916713_08b490b841_b.jpg
 menu: lutas e mobilizações
 published: true
 date: '2014-10-14T17:43:45-03:00'
+created_date: 2014-10-14 12:00
 
 ---
 <p><em>Da P&aacute;gina do MST</em></p>

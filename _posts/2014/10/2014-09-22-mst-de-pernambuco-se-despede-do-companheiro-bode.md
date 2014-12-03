@@ -18,6 +18,7 @@ images_hd: http://farm4.staticflickr.com/3931/15410343981_00b71c9f9a_b.jpg
 menu: lutadores-do-povo
 published: true
 date: '2014-09-22T16:22:40-03:00'
+created_date: 2014-09-22 12:00
 
 ---
 <p>&nbsp;</p>

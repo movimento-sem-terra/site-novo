@@ -18,6 +18,7 @@ label:
 published: true
 menu: lutas e mobilizações
 date: '2014-04-30T11:00:48-03:00'
+created_date: 2014-04-30 12:00
 
 ---
 <p><br><em>Da Página do MST<!--[if gte mso 9]><xml>

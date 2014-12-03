@@ -14,6 +14,7 @@ images_hd: ''
 label: journeys
 published: true
 date: '2009-06-22T05:25:17-03:00'
+created_date: 2009-06-22 12:00
 
 ---
 Na próxima terça-feira, dia 20, acontece a 30ª Romaria da Terra, que terá como tema "Preservar terra e água: garantia de vida”. A idéia é fazer com que as pessoas assumam novas práticas de vida que consolidem a preservação do meio ambiente e a defesa da vida. O plantio de eucalipto será um dos temas principais a serem debatidos durante a Romaria.

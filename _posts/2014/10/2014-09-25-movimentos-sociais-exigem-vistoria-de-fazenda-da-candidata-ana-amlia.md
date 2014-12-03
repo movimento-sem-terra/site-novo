@@ -18,6 +18,7 @@ images_hd: http://farm4.staticflickr.com/3934/15243837360_1eb175339d_b.jpg
 menu: lutas e mobilizações
 published: true
 date: '2014-09-25T15:29:20-03:00'
+created_date: 2014-09-25 12:00
 
 ---
 <p><img alt="" height="438" src="http://farm4.staticflickr.com/3934/15243837360_1eb175339d_b.jpg" width="750" /></p>

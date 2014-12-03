@@ -19,6 +19,7 @@ images_hd: http://farm4.staticflickr.com/3852/15043078955_0579051257_b.jpg
 menu: direitos humanos
 published: true
 date: '2014-08-26T11:03:54-03:00'
+created_date: 2014-08-26 12:00
 
 ---
 <p><em>Por Terra de Direitos</em></p>

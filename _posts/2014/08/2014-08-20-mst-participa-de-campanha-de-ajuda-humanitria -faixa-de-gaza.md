@@ -19,6 +19,7 @@ images_hd: http://farm4.staticflickr.com/3841/14960441246_f102cc8ff8_b.jpg
 menu: solidariedade
 published: true
 date: '2014-08-20T17:34:43-03:00'
+created_date: 2014-08-20 12:00
 
 ---
 <p><img alt="" height="400" src="http://farm4.staticflickr.com/3841/14960441246_f102cc8ff8_b.jpg" width="600" /><br />

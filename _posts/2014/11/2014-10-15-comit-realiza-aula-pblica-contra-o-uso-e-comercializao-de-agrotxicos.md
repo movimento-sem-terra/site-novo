@@ -20,6 +20,7 @@ images_hd: http://farm6.staticflickr.com/5616/15759394395_3dd8224dcb_b.jpg
 menu: agronegócio
 published: true
 date: '2014-10-15T17:54:10-03:00'
+created_date: 2014-10-15 12:00
 
 ---
 <p><em>Por Monyse Ravenna</em><br />

@@ -14,6 +14,7 @@ images_hd: ''
 label: journeys
 published: true
 date: '2009-06-22T05:25:17-03:00'
+created_date: 2009-06-22 12:00
 
 ---
 A mulher Sem Terra é duplamente oprimida, pela exploração do capital e por ser mulher. Não enfrentam somente as privações sobre seu próprio corpo impostas pela sociedade capitalista machista, mas também a dura caminhada pela sobrevivência na luta pela terra que lhes pertence e pela terra que é hoje devastada pela ambição produtivista imposta pelo capitalismo.    

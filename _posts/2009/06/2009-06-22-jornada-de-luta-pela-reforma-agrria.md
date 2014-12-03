@@ -14,6 +14,7 @@ images_hd: ''
 label: journeys
 published: true
 date: '2009-06-22T05:25:17-03:00'
+created_date: 2009-06-22 12:00
 
 ---
 Depois de 11 anos do <b><a href=http://www.mst.org.br/mst/pagina.php?cd=2079>Massacre de Eldorado de Carajás</a></b>, que ganhou repercussão internacional e marcou a história do país, o processo dos dois comandantes da operação policial está parado nos tribunais superiores e ambos continuam em liberdade. 

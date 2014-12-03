@@ -14,6 +14,7 @@ images_hd: ''
 label: journeys
 published: true
 date: '2009-06-22T05:25:17-03:00'
+created_date: 2009-06-22 12:00
 
 ---
 A Reforma Agrária está parada. Cresce a concentração fundiária, os assentamentos não recebem apoio efetivo e aumenta a violência contra os sem-terra e a impunidade dos latifundiários e do agronegócio. O Massacre de Eldorado de Carajás é o principal símbolo do descaso do Estado brasileiro com os trabalhadores rurais, com o povo brasileiro. Depois de 12 anos da chacina que assassinou 19 trabalhadores rurais, no município de Eldorado de Carajás, no Pará, no dia 17 de abril de 1996, pouco mudou para os sem-terra.

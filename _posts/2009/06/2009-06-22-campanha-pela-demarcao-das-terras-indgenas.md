@@ -14,6 +14,7 @@ images_hd: ''
 label: journeys
 published: true
 date: '2009-06-22T05:25:17-03:00'
+created_date: 2009-06-22 12:00
 
 ---
 O Ministro da Justiça, Márcio Thomas Bastos tomou, nessa semana, a decisão de devolver à Fundação Nacional do Índio (Funai) o procedimento com parecer sobre as terras Tupinikim e Guarani no Espírito Santo. A decisão contraria todas as expectativas e vai de encontro ao compromisso firmado pelo Ministro, em reunião pública, realizada em fevereiro de 2006, com os povos indígenas, em Vitória, Espírito Santo. O ministro devolveu o relatório com parecer sobre as terras à Funai para que o órgão possa "conciliar" os interesses dos índios e da empresa Aracruz Celulose. 

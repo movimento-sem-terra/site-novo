@@ -20,6 +20,7 @@ images_hd: http://farm8.staticflickr.com/7517/15574646300_d797f66264_b.jpg
 menu: projeto popular
 published: true
 date: '2014-10-16T18:05:29-03:00'
+created_date: 2014-10-16 12:00
 
 ---
 <p><em>Por Maura Silva<br />

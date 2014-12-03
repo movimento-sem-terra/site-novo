@@ -14,6 +14,7 @@ images_hd: ''
 label: journeys
 published: true
 date: '2009-06-22T05:25:17-03:00'
+created_date: 2009-06-22 12:00
 
 ---
 Com feixes de cana-de-açúcar nas mãos e lenços amarrados sobre o rosto, as mulheres da Via Campesina entraram na Avenida Paulista para se somar às milhares de mulheres de diversos movimentos sociais que aproveitaram o 8 de março - Dia Internacional da Mulher – para denunciar a violência de gênero e a exploração capitalista. 

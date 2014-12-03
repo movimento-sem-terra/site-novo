@@ -20,6 +20,7 @@ images_hd: http://farm4.staticflickr.com/3879/14857548944_22c4d30f3c_b.jpg
 menu: solidariedade
 published: true
 date: '2014-08-08 11:55:44'
+created_date: 2014-08-08 12:00
 
 ---
 <p><em>Da P&aacute;gina do MST</em></p>

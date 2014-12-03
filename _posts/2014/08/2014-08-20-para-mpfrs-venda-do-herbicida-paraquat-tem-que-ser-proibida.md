@@ -19,6 +19,7 @@ images_hd: http://farm6.staticflickr.com/5577/14983374345_700ede89de_b.jpg
 menu: agronegócio
 published: true
 date: '2014-08-20T17:26:04-03:00'
+created_date: 2014-08-20 12:00
 
 ---
 <p><em>Do MPF/RS</em></p>

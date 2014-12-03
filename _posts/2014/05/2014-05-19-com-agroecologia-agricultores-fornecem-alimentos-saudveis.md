@@ -18,6 +18,7 @@ label:
 published: true
 menu: agricultura camponesa
 date: '2014-05-19T11:21:26-03:00'
+created_date: 2014-05-19 12:00
 
 ---
 <iframe src="//player.vimeo.com/video/92963842" width="600" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/92963842">O CIRCUITO</a> from <a href="http://vimeo.com/agroecologia">AGROECOLOGIA</a> on <a href="https://vimeo.com">Vimeo</a>.</p>

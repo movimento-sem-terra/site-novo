@@ -19,6 +19,7 @@ images_hd: http://farm6.staticflickr.com/5581/14886186867_6d98ec7480_b.jpg
 menu: educação, cultura e comunicação
 published: true
 date: '2014-08-27T10:32:42-03:00'
+created_date: 2014-08-29 12:00
 
 ---
 <p><span contenteditable="false" tabindex="-1"><img alt="" data-widget="image" src="http://farm6.staticflickr.com/5581/14886186867_6d98ec7480_b.jpg" /></span><br />

@@ -14,6 +14,7 @@ images_hd: ''
 label: journeys
 published: true
 date: '2009-06-22T05:25:17-03:00'
+created_date: 2009-06-22 12:00
 
 ---
 1. Cerca de 40 mil pessoas são mortas por ano no Brasil por armas de fogo, e por motivos banais. A ampla maioria se trata de pessoas pobres, nas periferias das grandes cidades. Cada uma das vitimas deixa, em média, 5 outras vítimas ocultas: mãe, pai, filhos, namorada, esposa, maior amigo etc. 

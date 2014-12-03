@@ -14,6 +14,7 @@ images_hd: http://www.mst.org.br/sites/default/files/capa2.jpg
 label: journeys
 published: true
 date: '2009-08-07T12:38:26-03:00'
+created_date: 2009-08-07 12:00
 
 ---
 <b>AGOSTO É MÊS DE LUTA!

@@ -1,22 +1,24 @@
 ---
 layout: post
-title: "Lembrem-se dos 3,8 mi deixados de fora"
-legacy_url: ""
-images: ""
-video: ""
-youtube_link: ""
+title: Lembrem-se dos 3,8 mi deixados de fora
+legacy_url: ''
+images: ''
+video: ''
+youtube_link: ''
 tags:
-  - tag: Fome
+- tag: Fome
 files: []
-type: ""
-support_line: "Para Valmir Assunção, a reforma agrária é necessária para a superação da fome no Brasil."
-section: ""
-hat: ""
+type: ''
+support_line: Para Valmir Assunção, a reforma agrária é necessária para a superação
+  da fome no Brasil.
+section: ''
+hat: ''
 label: articles
-images_hd: "http://farm4.staticflickr.com/3931/15226930987_a2b33fea46_b.jpg"
+images_hd: http://farm4.staticflickr.com/3931/15226930987_a2b33fea46_b.jpg
 menu: reforma agrária
 published: true
-date: "2014-09-19T16:16:50-03:00"
+date: '2014-09-19T16:16:50-03:00'
+created_date: 2014-09-19 12:00
 
 ---
 <p><br />

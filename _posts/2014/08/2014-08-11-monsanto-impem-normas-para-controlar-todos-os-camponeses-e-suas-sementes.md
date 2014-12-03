@@ -19,6 +19,7 @@ images_hd: http://farm4.staticflickr.com/3880/14699833157_9673fbf261_b.jpg
 menu: agronegócio
 published: true
 date: '2014-08-11T11:02:49-03:00'
+created_date: 2014-08-11 12:00
 
 ---
 <p><em>Por R. G&oacute;mez Mederos<br />

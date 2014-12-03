@@ -18,6 +18,7 @@ images_hd: http://farm4.staticflickr.com/3940/15574242317_c4b3fd4ccc_b.jpg
 menu: projeto popular
 published: true
 date: '2014-10-15T17:57:53-03:00'
+created_date: 2014-10-15 12:00
 
 ---
 <p><em>Do site Plebiscito Constituinte</em></p>

@@ -20,6 +20,7 @@ label:
 published: true
 menu: lutas e mobilizações
 date: '2014-03-12T07:00:19-03:00'
+created_date: 2014-03-12 12:00
 
 ---
 <p><!--[if gte mso 9]><xml>

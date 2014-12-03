@@ -20,6 +20,7 @@ images_hd: http://farm4.staticflickr.com/3938/15283664478_6e301b16fc_b.jpg
 menu: direitos humanos
 published: true
 date: '2014-10-06T13:40:50-03:00'
+created_date: 2014-10-06 12:00
 
 ---
 <p><em>Do Cimi</em></p>

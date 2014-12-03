@@ -18,6 +18,7 @@ images_hd: http://farm4.staticflickr.com/3931/15413320292_01996ef1e3_b.jpg
 menu: direitos humanos
 published: true
 date: '2014-09-22T16:40:51-03:00'
+created_date: 2014-09-22 12:00
 
 ---
 <p>&nbsp;</p>

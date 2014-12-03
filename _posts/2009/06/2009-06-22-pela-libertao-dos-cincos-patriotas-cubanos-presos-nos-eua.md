@@ -14,6 +14,7 @@ images_hd: ''
 label: journeys
 published: true
 date: '2009-06-22T05:25:17-03:00'
+created_date: 2009-06-22 12:00
 
 ---
 Sobre o assunto, a ativista do Movimento de Solidariedade com Cuba nos Estados Unidos e do comitê estadunidense pela liberação dos cinco, <b>Alicia Jrapko</b>, se mostrou otimista em relação ao processo por conta do espaço que o movimento vem ganhando na mídia. Por outro lado, ela diz ainda ter muito o que fazer para que o governo dos Estados Unidos respeite as leis internacionais de direitos humanos e liberem os cincos presos. Leia abaixo a entrevista publicada na agência <a href= http://www.adital.org.br/site/index.asp?lang=PT>Adital</a>. 

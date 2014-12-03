@@ -14,6 +14,7 @@ images_hd: ''
 label: journeys
 published: true
 date: '2009-06-22T05:25:17-03:00'
+created_date: 2009-06-22 12:00
 
 ---
 O MST realizou uma série de ações no Dia Internacional da Luta Camponesa da Via Campesina, com atos, manifestações, marchas, vigílias e sessões solenes em 13 estados do país, em memória aos 19 trabalhadores assassinados 10 anos atrás pela PM (Polícia Militar) do estado do Pará, que ficou conhecido como Massacre Eldorado de Carajás. Até o final da semana, mais atividades devem acontecer em outros estados.

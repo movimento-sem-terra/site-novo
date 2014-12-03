@@ -20,6 +20,7 @@ label:
 published: true
 menu: agricultura camponesa
 date: '2014-05-21T15:23:06-03:00'
+created_date: 2014-05-21 12:00
 
 ---
 <p><br />

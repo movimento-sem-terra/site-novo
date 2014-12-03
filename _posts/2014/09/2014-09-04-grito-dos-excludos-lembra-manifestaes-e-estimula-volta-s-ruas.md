@@ -19,6 +19,7 @@ images_hd: http://farm4.staticflickr.com/3898/15005842807_8cba675e6c_b.jpg
 menu: lutas e mobilizações
 published: true
 date: '2014-09-04T17:15:50-03:00'
+created_date: 2014-09-04 12:00
 
 ---
 <p><em>Por Elaine Patricia Cruz<br />

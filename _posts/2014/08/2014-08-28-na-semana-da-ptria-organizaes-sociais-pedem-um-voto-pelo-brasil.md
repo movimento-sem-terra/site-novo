@@ -18,6 +18,7 @@ images_hd: http://farm6.staticflickr.com/5555/14886060320_9d887ba159_b.jpg
 menu: projeto popular
 published: true
 date: '2014-08-28T10:30:42-03:00'
+created_date: 2014-08-28 12:00
 
 ---
 <p><em><img alt="" height="590" src="http://farm6.staticflickr.com/5555/14886060320_9d887ba159_b.jpg" width="600" /><br />

@@ -14,6 +14,7 @@ images_hd: http://www.mst.org.br/sites/default/files/bannersite.jpg
 label: journeys
 published: true
 date: '2010-04-12T14:19:50-03:00'
+created_date: 2010-04-12 12:00
 
 ---
 A <strong>Jornada Nacional de Lutas por Reforma Agrária </strong> é realizada em memória dos 19 companheiros assassinados no Massacre de Eldorado de Carajás, durante operação da Polícia Militar, no município de Eldorado dos Carajás, no Pará, em 1996. O dia 17 de abril, data do massacre que teve repercussão internacional, tornou-se o Dia Nacional de Luta pela Reforma Agrária.

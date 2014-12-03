@@ -17,6 +17,7 @@ label: ''
 images_hd: http://farm4.staticflickr.com/3907/14490043697_7094ae2cf4_b.jpg
 menu: reforma agrária
 date: '2014-07-17T09:54:03-03:00'
+created_date: 2014-07-17 12:00
 
 ---
 <p><em><img alt="" src="https://farm4.staticflickr.com/3907/14490043697_7094ae2cf4_b.jpg" style="float:left; height:298px; margin:10px; width:450px" />Por Juliana Adriano<br />

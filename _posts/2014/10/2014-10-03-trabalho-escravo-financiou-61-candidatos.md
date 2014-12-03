@@ -20,6 +20,7 @@ images_hd: http://farm3.staticflickr.com/2946/15459351331_f5e200c431_b.jpg
 menu: direitos humanos
 published: true
 date: '2014-10-03T17:35:10-03:00'
+created_date: 2014-10-03 12:00
 
 ---
 <p><em>Por Piero Locatelli<br />

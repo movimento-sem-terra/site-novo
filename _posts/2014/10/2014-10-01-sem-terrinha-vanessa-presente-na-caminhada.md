@@ -20,6 +20,7 @@ images_hd: http://farm6.staticflickr.com/5598/15462095525_f1ecf7f0f9_b.jpg
 menu: lutadores-do-povo
 published: true
 date: '2014-10-01T16:55:41-03:00'
+created_date: 2014-10-01 12:00
 
 ---
 <p><em>Por Jo&atilde;o Paulo Medeiros*<br />

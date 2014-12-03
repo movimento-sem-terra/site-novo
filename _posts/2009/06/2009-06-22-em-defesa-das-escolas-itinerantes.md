@@ -14,6 +14,7 @@ images_hd: ''
 label: journeys
 published: true
 date: '2009-06-22T05:25:17-03:00'
+created_date: 2009-06-22 12:00
 
 ---
 A governadora do Rio Grande do Sul, Yeda Crucius, e parte direitista do Ministério Público do estado estão golpeando as Escolas Itinerantes do MST no Rio Grande do Sul, decretando o banimento dessas instituições educativas. O ato de proscrever essa inspiradora iniciativa educativa do MST é parte do processo de criminalização e de expulsão do MST do estado, conforme vem sendo denunciado pelas entidades democráticas de dezenas de países.

@@ -1,27 +1,29 @@
 ---
-date: "2014-11-24T19:47:47-03:00"
+date: '2014-11-24T19:47:47-03:00'
 tags:
-  - tag: Educação
-  - tag: Ceará
+- tag: Educação
+- tag: Ceará
 title: Cerca de 300 pessoas participam do Encontro de Educação do Campo no CE
-support_line: O encontro pretende aprofundar a compreensão do campo e da escola no projeto de Reforma Agrária Popular.
-menu: "educação, cultura e comunicação"
+support_line: O encontro pretende aprofundar a compreensão do campo e da escola no
+  projeto de Reforma Agrária Popular.
+menu: educação, cultura e comunicação
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7569/15845009362_e3c60fd486_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7569/15845009362_e3c60fd486_t.jpg"
-    medium: "http://farm8.staticflickr.com/7569/15845009362_e3c60fd486_z.jpg"
-    small: "http://farm8.staticflickr.com/7569/15845009362_e3c60fd486_n.jpg"
-    title: encontro_CE.jpg
-    $$hashKey: 01Q
-  - link: "http://farm8.staticflickr.com/7547/15819918966_49485c6bc7_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7547/15819918966_49485c6bc7_t.jpg"
-    medium: "http://farm8.staticflickr.com/7547/15819918966_49485c6bc7_z.jpg"
-    small: "http://farm8.staticflickr.com/7547/15819918966_49485c6bc7_n.jpg"
-    title: encontro_CE2.jpg
-    $$hashKey: 03F
+- link: http://farm8.staticflickr.com/7569/15845009362_e3c60fd486_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7569/15845009362_e3c60fd486_t.jpg
+  medium: http://farm8.staticflickr.com/7569/15845009362_e3c60fd486_z.jpg
+  small: http://farm8.staticflickr.com/7569/15845009362_e3c60fd486_n.jpg
+  title: encontro_CE.jpg
+  "$$hashKey": 01Q
+- link: http://farm8.staticflickr.com/7547/15819918966_49485c6bc7_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7547/15819918966_49485c6bc7_t.jpg
+  medium: http://farm8.staticflickr.com/7547/15819918966_49485c6bc7_z.jpg
+  small: http://farm8.staticflickr.com/7547/15819918966_49485c6bc7_n.jpg
+  title: encontro_CE2.jpg
+  "$$hashKey": 03F
 published: true
-images_hd: "http://farm8.staticflickr.com/7569/15845009362_e3c60fd486_n.jpg"
+images_hd: http://farm8.staticflickr.com/7569/15845009362_e3c60fd486_n.jpg
+created_date: 2014-11-21 12:00
 
 ---
 <figure class="image" style="float:left"><img alt="encontro_CE.jpg" src="http://farm8.staticflickr.com/7569/15845009362_e3c60fd486_n.jpg" />

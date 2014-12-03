@@ -20,6 +20,7 @@ images_hd: http://farm6.staticflickr.com/5599/15470211575_5f49cbe1cd_b.jpg
 menu: agronegócio
 published: true
 date: '2014-10-06T13:03:06-03:00'
+created_date: 2014-10-06 12:00
 
 ---
 <p><em>Por Renato Santana<br />

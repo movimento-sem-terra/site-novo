@@ -19,6 +19,7 @@ images_hd: http://farm8.staticflickr.com/7558/15139760813_bd378ff1bb_b.jpg
 menu: agricultura camponesa
 published: true
 date: '2014-10-10T17:25:19-03:00'
+created_date: 2014-10-10 12:00
 
 ---
 <p><em><img alt="" height="448" src="http://farm8.staticflickr.com/7558/15139760813_bd378ff1bb_b.jpg" style="float:left" width="350" />Da IHU</em></p>

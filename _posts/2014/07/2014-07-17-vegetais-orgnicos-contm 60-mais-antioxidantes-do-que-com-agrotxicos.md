@@ -19,6 +19,7 @@ label: ''
 images_hd: http://farm6.staticflickr.com/5564/14491290509_2e676ff086_b.jpg
 menu: agricultura camponesa
 date: '2014-07-17T13:57:11-03:00'
+created_date: 2014-07-17 12:00
 
 ---
 <p><br />

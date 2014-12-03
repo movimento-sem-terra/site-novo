@@ -14,6 +14,7 @@ images_hd: ''
 label: journeys
 published: true
 date: '2009-06-22T05:25:17-03:00'
+created_date: 2009-06-22 12:00
 
 ---
 Entre os dias 21 e 24/5, o MST e Associação Nacional de Violeiros (ANVB) realizam o V Encontro Nacional de Violeiros e Violeiras. Com o tema "Os Mestres e Mestras do Saber Popular", o encontro  homenageará os grandes representantes das Fulias de Reis, Cantadores, Cururu, Samba, Oralidade Popular, e outras categorias dentre as quais estão os mestres e mestras da luta Luís Beltrame (SP), Elizabete Teixeira (PB), João Eleotério (MT) entre muitos outros.

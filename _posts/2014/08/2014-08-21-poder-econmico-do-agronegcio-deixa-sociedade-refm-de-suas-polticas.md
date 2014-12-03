@@ -18,6 +18,7 @@ images_hd: http://farm4.staticflickr.com/3867/14988149981_7f040cd40f_b.jpg
 menu: agronegócio
 published: true
 date: '2014-08-21T13:55:32-03:00'
+created_date: 2014-08-21 12:00
 
 ---
 <p><em>Por Maura Silva<br />

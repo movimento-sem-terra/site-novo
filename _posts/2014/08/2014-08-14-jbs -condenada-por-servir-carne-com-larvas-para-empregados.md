@@ -21,6 +21,7 @@ images_hd: http://farm4.staticflickr.com/3882/14916240041_0ea9ebc45e_b.jpg
 menu: agronegócio
 published: true
 date: '2014-08-14T16:38:21-03:00'
+created_date: 2014-08-14 12:00
 
 ---
 <p><em>Por Daniel Santini e Stefano Wrobleski<br />

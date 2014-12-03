@@ -18,6 +18,7 @@ label:
 published: true
 menu: reforma agrária
 date: '2014-02-11T15:58:29-02:00'
+created_date: 2014-02-11 12:00
 
 ---
 <p>Entrevista com Anita Prestes no 6º Congresso do MST.&nbsp;<br>&nbsp;</p> <p><iframe allowfullscreen="" src="//www.youtube.com/embed/Bs7Huz6-Wrg" height="500" width="600" frameborder="0"></iframe></p>
