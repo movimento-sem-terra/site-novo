@@ -24,7 +24,7 @@ module Jekyll
       site.config["recent"] = recent
       site.config['featured_news'] = featured_news
       site.config['interviews'] = interviews
-      site.config['tv_mst'] = tv_mst.first
+      site.config['tv_mst'] = tv_mst.slice(0,6)
       site.config['special_stories'] = special_stories
       site.config['campaigns'] = campaigns.slice(0,3)
       site.config['others'] = @newest_post

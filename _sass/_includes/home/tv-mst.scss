@@ -1,18 +1,70 @@
 section.tv-mst {
+  ul {
+    display: none;
+  }
+
   @media(min-width: $screen-sm) {
-    & > article.headline {
-      h1 {
+    background-color: rgb(38, 38, 38);
+    margin-top: 28px;
+    min-height: 400px;
+    height: auto;
+
+    div {
+      display: inline-block;
+      width: 35%;
+      vertical-align: top;
+      padding: 12px 12px 0 12px;
+      height: 400px;
+      overflow: scroll;
+
+      h2 {
+        border-bottom: 2px solid #383838;
+        padding-bottom: 5px;
+        color: rgb(165,165,165);
+        margin-bottom: 0;
         font-size: 1.3em;
-        max-width: 100%;
       }
+
+      ul { 
+        display: block;
+
+        li {
+          margin-top: 20px;
+
+          a {
+            color: #FFF;
+            font-weight: 300;
+          }
+        }
+      }
+    }
+
+    & > article.headline {
+      display: inline-block;
+      width: 64%;
+      vertical-align: top;
+      background: rgb(56,56,56);
+      border-left: 1px dotted rgb(153, 153, 153);
+      min-height: 400px;
 
       figure {
         height: auto;
         max-height: 300px;
         max-width: 100%;
+        margin: 12px 12px 0 12px;
 
         iframe {
           height: 300px;
+        }
+      }
+
+      h1 {
+        font-size: 1.3em;
+        max-width: 100%;
+        margin: 12px;
+
+        a {
+          color: #FFF;
         }
       }
     }
