@@ -9,7 +9,7 @@
         {% assign default_image = site | extract_image_from_post_tag: campaign %}
         {% assign image = campaign | find_image: 'full_hd' %}
 
-        <a href="{{ site.baseurl }}{{ campaign.url }}">
+        <a href="{{ site.baseurl }}{{ campaign.link-campaign }}" target="{{ campaign.link-target }}">
           <img src="{{ image }}">
         </a>
       </li>

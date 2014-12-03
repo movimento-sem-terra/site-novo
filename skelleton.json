@@ -98,8 +98,8 @@
   "type": {
     "view": "select",
     "options": [
-      {"name": "uma nova aba", "id": "new-tab"},
-      {"name": "na mesma aba", "id": "same-tab"}
+      {"name": "uma nova aba", "id": "_blank"},
+      {"name": "na mesma aba", "id": "_self"}
     ]
   },
   "need": {
