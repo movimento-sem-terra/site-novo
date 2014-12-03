@@ -79,7 +79,7 @@
   "required": true,
   "type": {
     "view": "select",
-    "option": [
+    "options": [
       {"name": "Interno", "id": "internal"},
       {"name": "Externo", "id": "external"}
     ]
