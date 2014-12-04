@@ -8,6 +8,7 @@ module Jekyll
       @newest_post = @all_articles.sort { |a, b| b <=> a }[0..300]
       cover = find("cover").first
       tv_mst = find('tv').slice(0,5)
+      newspapers = find('newspaper')
 
       campaigns = find('campaign')
       carousel = @newest_post.slice!(0,5) # the first five posts goes on carousel
@@ -33,6 +34,7 @@ module Jekyll
       site.config['tv_mst'] = tv_mst
       site.config['special_stories'] = special_stories
       site.config['campaigns'] = campaigns
+      site.config['newspaper'] = newspapers.first
       site.config['others'] = @newest_post
 
     end

@@ -61,7 +61,7 @@
   "need": {
     "field": "section",
     "equal": false,
-    "value": "campaign"
+    "value": ["campaign", "newspaper"]
   }
 },
 {
@@ -74,7 +74,8 @@
     {"name": "Capa", "id": "cover"},
     {"name": "Destaque", "id": "featured-news"},
     {"name": "Vídeo", "id": "tv"},
-    {"name": "Campanha", "id": "campaign"}
+    {"name": "Campanha", "id": "campaign"},
+    {"name": "Jornal", "id": "newspaper"}
     ]
   }
 },

@@ -1,5 +1,5 @@
 ---
-date: "2014-11-21T14:18:39-02:00"
+date: "2014-10-21T14:18:39-02:00"
 tags:
   - tag: Meio-Ambiente
 title: Simpósio reúne academia e movimentos Sociais para discutir impactos ambientais

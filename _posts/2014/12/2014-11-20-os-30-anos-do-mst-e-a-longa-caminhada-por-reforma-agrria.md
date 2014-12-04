@@ -1,5 +1,5 @@
 ---
-date: "2014-11-20T11:00:49-02:00"
+date: "2014-10-20T11:00:49-02:00"
 tags:
   - tag: 30-anos-MST
 title: Os 30 anos do MST e a longa caminhada por Reforma Agrária

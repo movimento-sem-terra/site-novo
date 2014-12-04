@@ -1,5 +1,5 @@
 ---
-date: "2014-11-21T14:11:28-02:00"
+date: "2014-10-21T14:11:28-02:00"
 tags:
   - tag: Jornada-Sem-Terrinha-2014
   - tag: Educação

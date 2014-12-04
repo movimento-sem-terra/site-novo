@@ -1,5 +1,5 @@
 ---
-date: "2014-11-20T10:49:28-02:00"
+date: "2014-10-20T10:49:28-02:00"
 tags:
   - tag: Jornada-Sem-Terrinha-2014
   - tag: Maranhão
