@@ -1,5 +1,5 @@
 ---
-date: "2014-11-21T11:55:15-02:00"
+date: "2014-10-21T11:55:15-02:00"
 tags:
   - tag: Agrotóxicos
 title: "Intoxicações com agrotóxicos aumentam 126,8% entre os trabalhadores rurais"
