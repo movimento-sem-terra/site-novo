@@ -36,7 +36,11 @@ published: true
 images_hd: "http://farm9.staticflickr.com/8675/15759316837_6bbd89e541_n.jpg"
 
 ---
-<p><img alt="IMG_6283.jpg" src="http://farm9.staticflickr.com/8675/15759316837_6bbd89e541_b.jpg" /><br />
+<figure class="image"><img alt="IMG_6283.jpg" src="http://farm9.staticflickr.com/8675/15759316837_6bbd89e541_b.jpg" />
+<figcaption>Dona Neli espera por dias melhores em Charqueadas</figcaption>
+</figure>
+
+<p><br />
 <br />
 <em>Por Gabrielle de Paula<br />
 Da Revista Sextante</em></p>
@@ -58,7 +62,7 @@ Para Jo&atilde;o Pedro Stedile, membro da coordena&ccedil;&atilde;o nacional do 
 <p>&nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="IMG_6390.jpg" src="http://farm9.staticflickr.com/8628/15325433113_30d8e29ab9_b.jpg" />
-<figcaption></figcaption>
+<figcaption>Cigano &eacute; uma das lideran&ccedil;as do Assentamento Nova Esperan&ccedil;a&nbsp;</figcaption>
 </figure>
 
 <p>A cada dia mais numerosos, colonos expulsos do campo come&ccedil;avam a formar um ex&eacute;rcito &ldquo;maltrapilho&rdquo;, como denomina o jornalista Caco Barcellos em uma passagem do livro &ldquo;Rep&oacute;rteres&rdquo;.&nbsp;</p>
@@ -81,7 +85,7 @@ Os artigos 184 e 186 fazem refer&ecirc;ncia &agrave; fun&ccedil;&atilde;o social
 <p>&nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="3899.jpg" src="http://farm8.staticflickr.com/7516/15759331757_304a33b63d_b.jpg" />
-<figcaption></figcaption>
+<figcaption>Para a sergipana Gorete, &quot;a luta pela terra n&atilde;o tem fronteiras&quot;</figcaption>
 </figure>
 
 <p>A fiscaliza&ccedil;&atilde;o cabe ao Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria, o Incra, que &eacute; dividido em</p>
