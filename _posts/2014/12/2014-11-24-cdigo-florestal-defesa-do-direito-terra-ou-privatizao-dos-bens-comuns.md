@@ -4,7 +4,7 @@ tags:
   - tag: Código-Florestal
 title: "Código Florestal: defesa do direito à terra ou privatização dos bens comuns?"
 label: articles
-support_line: As “falsas soluções” antes anunciadas por setores ruralistas e rentistas para “superação” da reforma agrária agora fazem propaganda de “oportunidades de negócio” que conciliariam a proteção do meio ambiente com os negócios corporativos.
+support_line: As “falsas soluções” antes anunciadas por setores ruralistas e rentistas para “superação” da reforma agrária agora fazem propaganda de “oportunidades de negócio”.
 menu: meio ambiente
 layout: post
 files:
