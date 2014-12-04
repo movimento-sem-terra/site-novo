@@ -1,5 +1,5 @@
 ---
-date: "2014-11-24T15:43:20-02:00"
+date: "2014-10-24T15:43:20-02:00"
 tags:
   - tag: Paraná
   - tag: Quilombolas
