@@ -1,10 +1,6 @@
 section.newspaper {
   min-width: 0;
 
-  & + section {
-    margin-top: 15px;
-  }
-
   figure {
     border: 2px dashed #AAA;
     box-shadow: none;

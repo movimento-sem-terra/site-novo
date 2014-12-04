@@ -42,14 +42,14 @@ body > main.home > section.row {
     @include span-columns(4);
   }
   .facebook {
-    @include span-columns(5);
+    @include span-columns(4);
 
     & * {
      width: 100% !important;
     }
   }
-  .banners {
-    @include span-columns(3);
+  .twitter {
+    @include span-columns(4);
   }
 
   //section three
