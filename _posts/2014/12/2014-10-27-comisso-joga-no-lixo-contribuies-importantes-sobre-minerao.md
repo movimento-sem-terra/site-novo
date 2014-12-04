@@ -4,7 +4,7 @@ tags:
   - tag: Mineração
 title: "Comissão joga \"no lixo\" contribuições importantes sobre mineração"
 menu: meio ambiente
-support_line: "Para Gustavo Gazzinelli, a comissão presidida por Gabriel Guimarães jogou na lata do lixo contribuições importantes que propuseram medidas e conceitos chaves para a sustentabilidade da mineração."
+support_line: "Para Gustavo Gazzinelli, a comissão jogou na lata do lixo contribuições importantes que propuseram medidas e conceitos chaves para a sustentabilidade da mineração."
 label: articles
 layout: post
 files:
