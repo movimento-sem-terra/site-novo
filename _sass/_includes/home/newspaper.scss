@@ -2,12 +2,23 @@ section.newspaper {
   min-width: 0;
 
   figure {
-    border: 2px dashed #AAA;
+    border: 1px solid $mstred;
+    padding: 14px;
+    min-height: 400px;
+    text-align: center;
     box-shadow: none;
     width: 100%;
 
     img {
-      width: 100%;
+      width: 72%;
+      border: 1px solid #666;
+      border-radius: 3px;
+    }
+
+    figcaption {
+      color: $mstred;
+      font-weight: 300;
+      font-size: 19px;
     }
 
     &:after {
