@@ -4,7 +4,7 @@ tags:
   - tag: denúncia
   - tag: Kátia-Abreu
   - tag: agricultura
-title: Relembremos da história do golpe de Kátia Abreu contra camponeses do Tocantins
+title: A história do golpe de Kátia Abreu contra camponeses do Tocantins
 support_line: A Página do MST resgata a denuncia do golpe da família Kátia Abreu contra pequenos agricultores em Tocantins.
 menu: agronegócio
 layout: post
