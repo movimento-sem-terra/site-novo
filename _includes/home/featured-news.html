@@ -1,8 +1,11 @@
 {% assign posts = site.featured_news %}
-
-<section class="featured-news">
+{% if posts.size > 2 %}
+  <section class="featured-news-large">
+{% else %}
+  <section class="featured-news">
+{% endif %}
   <h2 class="hat">Destaques</h2>
-  {% for post in posts | limit:2 %}
+  {% for post in posts %}
     {% include headline-with-image.html post=post support_line=true %}
   {% endfor %}
 </section>

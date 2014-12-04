@@ -76,6 +76,13 @@ body > main.home > section.row {
       @include span-columns(4 of 8);
     }
   }
+  .featured-news-large {
+    @include span-columns(12);
+
+    article {
+      @include span-columns(4 of 12);
+    }
+  }
   .featured-banner {
     @include span-columns(4);
   }

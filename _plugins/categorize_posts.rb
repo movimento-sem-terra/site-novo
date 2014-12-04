@@ -6,27 +6,33 @@ module Jekyll
     def generate(site)
       @all_articles = site.posts
       @newest_post = @all_articles.sort { |a, b| b <=> a }[0..300]
-      cover = find "cover"
-      tv_mst = find 'tv'
-      campaigns = find 'campaign'
+      cover = find("cover").first
+      tv_mst = find('tv').slice(0,5)
 
+      campaigns = find('campaign')
       carousel = @newest_post.slice!(0,5) # the first five posts goes on carousel
 
-      special_stories = find "special-stories", "label", 2, carousel
+      special_stories = find("special-stories", "label", 2, carousel)
       recent = @newest_post.delete_at(0) # the sixth post goes on recent
-      featured_news = find 'featured-news'
+
+      if campaigns.size < 1
+        featured_news = find('featured-news').slice(0,3)
+      else
+        featured_news = find('featured-news').slice(0,2)
+      end
+
 
       articles = find "articles", "label"
       interviews = find 'interviews', "label"
-      site.config["cover"] = cover.first
+      site.config["cover"] = cover
       site.config["articles"] = articles
       site.config["carousel"] = carousel
       site.config["recent"] = recent
       site.config['featured_news'] = featured_news
       site.config['interviews'] = interviews
-      site.config['tv_mst'] = tv_mst.slice(0,5)
+      site.config['tv_mst'] = tv_mst
       site.config['special_stories'] = special_stories
-      site.config['campaigns'] = campaigns.slice(0,3)
+      site.config['campaigns'] = campaigns
       site.config['others'] = @newest_post
 
     end
