@@ -4,38 +4,12 @@
 @import "_includes/home";
 @import "_includes/under_construction";
 
-body > main.home {
-  display: block;
-}
 
 body > aside {
 	display: none;
 }
 
-
-@media(min-width: $screen-md) {
-  body > main.home {
-    display: table;
-    vertical-align: top;
-    width: $home_screen_medium;
-    padding: 0;
-  }
-
-  body > main.home {
-    margin: 30px auto;
-  }
-}
-
-@media(max-width: $screen-sm) {
-  body > main.home {
-    width: $home_screen_small;
-  }
-}
-
-@media(min-width: $screen-big) {
-  body {
-    main.home, main.post {
-      width: $home_screen_big;
-    }
-  }
+section{
+  padding-top: 10px;
+  padding-bottom: 10px;
 }

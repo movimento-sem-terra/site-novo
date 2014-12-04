@@ -20,8 +20,7 @@ function initializeCarousel() {
       change_slide(target, $(event.currentTarget).data('direction'));
       event.preventDefault();
     }
-
-    $item.find('> a').on('click', $item.handleClick);
+    $item.find('.container > a').on('click', $item.handleClick);
     if ($item.loop){
       $item.interval = setTimeout(function(){ $item.autoScroll() },4000);
     }

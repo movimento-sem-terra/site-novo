@@ -1,13 +1,15 @@
 {% assign posts = site.carousel %}
 
 <section class="carousel jscarousel" data-loop="true" data-index="0">
-  <a data-direction="-1" href="#" class='arrow-left'></a>
-  <ul>
-    {% for post in posts %}
-      <li>
-        {% include headline-text-over-image.html post=post %}
-      </li>
-    {% endfor %}
-  </ul>
-  <a data-direction="1" href="#" class='arrow-right'></a>
+  <div class= 'container'>
+    <a data-direction="-1" href="#" class='arrow-left'></a>
+    <ul>
+      {% for post in posts %}
+        <li>
+          {% include headline-text-over-image.html post=post %}
+        </li>
+      {% endfor %}
+    </ul>
+    <a data-direction="1" href="#" class='arrow-right'></a>
+  </div>
 </section>
