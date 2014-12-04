@@ -22,8 +22,10 @@ images_hd: "http://farm8.staticflickr.com/7470/15946651995_c9ecfcc523_n.jpg"
 
 <p>&nbsp;</p>
 
-<p><strong>Por Comunica&ccedil;&atilde;o Via Campesina&nbsp;<br />
-Para &nbsp;P&aacute;gina do MST</strong></p>
+<p><strong>Por Comunica&ccedil;&atilde;o Via Campesina&nbsp;</strong><br />
+&nbsp;</p>
+
+<p><strong>Para &nbsp;P&aacute;gina do MST</strong></p>
 
 <p><br />
 &ldquo;Lutar para ver se a conseguimos mais igualdade econ&ocirc;mica, social e pol&iacute;tica na sociedade brasileira&rdquo;, &nbsp;ressaltou Erm&iacute;nia Maricato, professora da Universidade de S&atilde;o Paulo, no 14&deg; acampamento Latino-americano da juventude Cloc-Via Campesina.<br />
