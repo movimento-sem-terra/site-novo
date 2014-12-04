@@ -1,21 +1,21 @@
 section.featured-banner{
   position: relative;
   // width: 100%;
-  
+
   margin: 0 auto;
   padding: 0;
   overflow: hidden;
 
-  & > ul > li:first-child { 
+  & > ul > li:first-child {
     -webkit-transition: margin-left 0.5s ease;
     -moz-transition: margin-left 0.5s ease;
     -o-transition: margin-left 0.5s ease;
     transition: margin-left 0.5s ease;
   }
 
-  &[data-index="0"] > ul > li:first-child { margin-left: 0; } 
-  &[data-index="1"] > ul > li:first-child { margin-left: -378px; } 
-  &[data-index="2"] > ul > li:first-child { margin-left: -756px; } 
+  &[data-index="0"] > ul > li:first-child { margin-left: 0; }
+  &[data-index="1"] > ul > li:first-child { margin-left: -378px; }
+  &[data-index="2"] > ul > li:first-child { margin-left: -756px; }
   &[data-index="3"] > ul > li:first-child { margin-left:-1134px; }
   &[data-index="4"] > ul > li:first-child { margin-left:-1512px; }
 
@@ -64,7 +64,7 @@ section.featured-banner{
   }
 
   ul {
-    width: 100%;
+    width: 345px;
     height: 100%;
     margin: 0;
     padding: 0;
@@ -89,8 +89,8 @@ section.featured-banner{
       }
     }
 
-    &[data-index="0"] > ul > li:first-child { margin-left: 0; } 
-    &[data-index="1"] > ul > li:first-child { margin-left: -350px; } 
+    &[data-index="0"] > ul > li:first-child { margin-left: 0; }
+    &[data-index="1"] > ul > li:first-child { margin-left: -350px; }
     &[data-index="2"] > ul > li:first-child { margin-left: -705px; }
 
     @media(min-width: $screen-md) {
