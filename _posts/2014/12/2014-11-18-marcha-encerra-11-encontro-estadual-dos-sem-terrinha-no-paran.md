@@ -1,5 +1,5 @@
 ---
-date: "2014-11-18T10:32:19-02:00"
+date: "2014-10-18T10:32:19-03:00"
 tags:
   - tag: Jornada-Sem-Terrinha-2014
 title: Marcha encerra 11º Encontro Estadual dos Sem Terrinha no Paraná
