@@ -110,7 +110,9 @@ Apesar de o Movimento dos Sem-Terra ser considerado uma continuidade das Ligas C
 <p><br />
 Neste mesmo ano, o governo de Jos&eacute; Sarney aprova o Plano Nacional de Reforma Agr&aacute;ria (PNRA), que tinha por objetivo dar aplica&ccedil;&atilde;o r&aacute;pida ao Estatuto da Terra, mas pressionado pelos interesses do latif&uacute;ndio, ao final de um mandato de cinco anos, assentou menos de 90 mil fam&iacute;lias.&nbsp;</p>
 
-<p><img alt="IMG_6511-3.jpg" src="http://farm8.staticflickr.com/7468/15944417142_0ce4f2c7dd_b.jpg" /><br />
+<p style="text-align:center"><img alt="IMG_6511-3.jpg" src="http://farm8.staticflickr.com/7468/15944417142_0ce4f2c7dd_b.jpg" /></p>
+
+<p><br />
 <br />
 <strong>L&aacute; fora faz um tempo confort&aacute;vel, a vigil&acirc;ncia cuida do normal</strong></p>
 
