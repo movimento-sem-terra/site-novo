@@ -1,14 +1,15 @@
 
 
-/***** bbutao para abrir o menu *****/
+/***** botão para abrir o menu *****/
 
 
 
 /* Isto é necessário para não haver rolagens horizontais quando movermos os elementos */
-html, body {overflow-x: hidden;}
+
 
 
 @media(max-width: $screen-sm) {
+  html, body {overflow-x: hidden;}
   main.post{
     min-height: 1290px; //tamanho do menu
   }
@@ -50,10 +51,6 @@ html, body {overflow-x: hidden;}
     -moz-transform: translateX(-220px);
     -ms-transform: translateX(-220px);
     transform: translateX(-220px);
-    -webkit-transition: all .25s linear;
-    -moz-transition: all .25s linear;
-    -ms-transition: all .25s linear;
-    transition: all .25s linear;
 
   }
 
@@ -64,14 +61,15 @@ html, body {overflow-x: hidden;}
     Essa é a posição original do HEADER e do MAIN
     */
   header, main, footer {
-    -webkit-transform: translateX(0);
-    -moz-transform: translateX(0);
-    -ms-transform: translateX(0);
-    transform: translateX(0);
     -webkit-transition: all .25s linear;
     -moz-transition: all .25s linear;
     -ms-transition: all .25s linear;
     transition: all .25s linear;
+    -webkit-transform: translateX(0);
+    -moz-transform: translateX(0);
+    -ms-transform: translateX(0);
+    transform: translateX(0);
+
   }
 
   /*

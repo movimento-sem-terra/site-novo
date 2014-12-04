@@ -101,11 +101,11 @@
     h1 {
       font-size: 3em;
       font-weight: 600;
-      padding: 0 20px;
+      padding: 0 5px;
     }
 
     h2 {
-      font-size: 1.4em;
+      font-size: 1.3em;
       font-weight: 400;
       line-height: $logo_height + 5px;
     }
@@ -122,15 +122,19 @@
       float: right;
 
     }
+    #logo-container{
+      width: 961px;
+      margin: 0 auto;
+    }
 
-    @media(min-width: $screen-md) {
-      padding: ($padding / 2)  (100% - $home_screen_medium)/2;
-    }
-    @media(max-width: $screen-sm) {
-      padding: ($padding / 2)  (100% - $home_screen_small)/2;
-    }
-    @media(min-width: $screen-big) {
-      padding: ($padding / 2)  (100% - $home_screen_big)/2;
-    }
+  /*   @media(min-width: \$screen-md) {
+    padding: (\$padding / 2)  (100% - \$home_screen_medium)/2;
+  }
+  @media(max-width: \$screen-sm) {
+    padding: (\$padding / 2)  (100% - \$home_screen_small)/2;
+  }
+  @media(min-width: \$screen-big) {
+    padding: (\$padding / 2)  (100% - \$home_screen_big)/2;
+  } */
   }
 }
