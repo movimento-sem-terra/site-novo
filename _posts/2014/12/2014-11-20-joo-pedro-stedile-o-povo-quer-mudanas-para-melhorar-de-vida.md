@@ -16,6 +16,7 @@ files:
     $$hashKey: 1FX
 published: true
 images_hd: "http://farm8.staticflickr.com/7546/15944296982_03f4775978_n.jpg"
+label: interviews
 
 ---
 <p><img alt="Joaopedrostedile_PabloVergara.gif" src="http://farm8.staticflickr.com/7546/15944296982_03f4775978_b.jpg" /></p>
