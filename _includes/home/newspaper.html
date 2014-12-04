@@ -1,10 +1,12 @@
+{% assign newspaper = site.newspaper %}
+
 <section class='newspaper'>
-  <a href="https://docs.google.com/uc?id=0Bwus_4SL8MWDSlgwU1pyY1QzMjA&export=download"
+  <a href="{{ newspaper.url | prepend: site.url }}"
     class="headline-text-over-image" title="Jornal sem terra Novembro">
     <figure
-      alt="Jornal Sem Terrai Novembro">
-      <img src="http://farm8.staticflickr.com/7533/15684195759_9ce06c0dfc_z.jpg"/>
-      <figcaption>Movimentos sociais devem politizar o debate com a sociedade nas eleições</figcaption>
+      alt="Jornal Sem Terra">
+      <img src="{{ newspaper.images_hd }}"/>
+      <figcaption>{{ newspaper.title }}</figcaption>
     </figure>
   </a>
 </section>
