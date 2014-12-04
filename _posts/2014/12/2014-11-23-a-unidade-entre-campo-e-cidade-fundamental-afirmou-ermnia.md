@@ -4,7 +4,7 @@ tags:
   - tag: Ermínia-Maricato
   - tag: acampamento-Via-Campesina
 title: "“A unidade entre campo e cidade é fundamental”, afirmou Ermínia"
-support_line: "Ermínia participou da mesa de debate sobre o “Impacto e o avanço do capital sobre a juventude e as alternativas”, onde enfatizou o desafio dessa nova geração da juventude para com as lutas populares."
+support_line: Ermínia participou da mesa de debate sobre o “Impacto e o avanço do capital sobre a juventude e as alternativas”.
 menu: projeto popular
 layout: post
 files:
@@ -18,18 +18,13 @@ published: true
 images_hd: "http://farm8.staticflickr.com/7470/15946651995_c9ecfcc523_n.jpg"
 
 ---
-<p><img alt="safe_image.php.jpg" src="http://farm8.staticflickr.com/7470/15946651995_c9ecfcc523_b.jpg" /></p>
-
-<p>&nbsp;</p>
-
 <p><strong>Por Comunica&ccedil;&atilde;o Via Campesina&nbsp;</strong><br />
 &nbsp;</p>
 
-<p><strong>Para &nbsp;P&aacute;gina do MST</strong></p>
+<p><strong>Da&nbsp; P&aacute;gina do MST</strong></p>
 
 <p><br />
-&ldquo;Lutar para ver se a conseguimos mais igualdade econ&ocirc;mica, social e pol&iacute;tica na sociedade brasileira&rdquo;, &nbsp;ressaltou Erm&iacute;nia Maricato, professora da Universidade de S&atilde;o Paulo, no 14&deg; acampamento Latino-americano da juventude Cloc-Via Campesina.<br />
-&nbsp;</p>
+<img alt="safe_image.php.jpg" height="157" src="http://farm8.staticflickr.com/7470/15946651995_c9ecfcc523_b.jpg" style="float:left" width="300" />&ldquo;Lutar para ver se a conseguimos mais igualdade econ&ocirc;mica, social e pol&iacute;tica na sociedade brasileira&rdquo;, &nbsp;ressaltou Erm&iacute;nia Maricato, professora da Universidade de S&atilde;o Paulo, no 14&deg; acampamento Latino-americano da juventude Cloc-Via Campesina.</p>
 
 <p>Erm&iacute;nia participou da mesa de debate sobre o &ldquo;Impacto e o avan&ccedil;o do capital sobre a juventude e as alternativas&rdquo;, onde enfatizou o desafio dessa nova gera&ccedil;&atilde;o da juventude para com as lutas populares.<br />
 &nbsp;</p>
