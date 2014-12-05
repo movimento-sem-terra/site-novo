@@ -19,6 +19,10 @@ files:
     small: "http://farm8.staticflickr.com/7546/15764844520_5338b2f862_n.jpg"
     title: JST CAPA.bmp
     $$hashKey: 2BZ
+  - link: "https://docs.google.com/uc?id=0Bwus_4SL8MWDNHdHYVU1OUEyRDA&export=download"
+    thumbnail: "http://farm4.staticflickr.com/3852/15187675380_7b00f5fdff_b.jpg"
+    title: JST -  Final.pdf
+    $$hashKey: 2Z6
 created_date: "2014-12-05T11:46:34-02:00"
 published: true
 images_hd: "http://farm8.staticflickr.com/7546/15764844520_5338b2f862_n.jpg"
@@ -32,5 +36,4 @@ images_hd: "http://farm8.staticflickr.com/7546/15764844520_5338b2f862_n.jpg"
 <br />
 - Os 10 anos da Escola Nacional Florestan Fernandes<br />
 <br />
-<br />
-<code>&lt;div data-configid=&quot;2795394/10448393&quot; style=&quot;width: 525px; height: 345px;&quot; class=&quot;issuuembed&quot;&gt;&lt;/div&gt;&lt;script type=&quot;text/javascript&quot; src=&quot;//e.issuu.com/embed.js&quot; async=&quot;true&quot;&gt;&lt;/script&gt;</code></p>
+<a href="https://docs.google.com/uc?id=0Bwus_4SL8MWDNHdHYVU1OUEyRDA&amp;export=download">JST326.pdf</a></p>
