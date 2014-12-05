@@ -1,6 +1,7 @@
 paginate: 20
-baseurl: 
-paginate_path: "/noticias/page:num"
+baseurl:
+paginate_path: "/:dir_name/page:num"
+paginate_layout: "/noticias"
 name: Movimento dos Trabalhadores Rurais Sem Terra
 markdown: redcarpet
 url: http://novo.mst.org.br
@@ -14,6 +15,7 @@ collections:
 timezone: BR
 gems:
   - jekyll-sitemap
+  - jekyll-paginate
 exclude:
   - deploy
   - Gemfile
@@ -28,5 +30,5 @@ exclude:
   - Rakefile
   - job_status.txt
   - setup
-  - vendor 
+  - vendor
   - node/

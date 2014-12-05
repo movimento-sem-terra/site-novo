@@ -19,20 +19,19 @@ layout: default
     <nav>
       {% if paginator.previous_page %}
         {% if paginator.page == 2 %}
-          <a rel='prev' href="/noticias" class="previous">Anterior</a>
+          <a rel='prev' href="{{ paginator.first_page_path }}" class="previous">Anterior</a>
         {% else %}
-          <a rel='prev' href="/noticias/page{{ paginator.previous_page }}" class="previous">Anterior</a>
-        {% endif %}  
+          <a rel='prev' href="{{ paginator.previous_page_path }}" class="previous">Anterior</a>
+        {% endif %}
       {% else %}
         <span class="previous">Anterior</span>
       {% endif %}
       <span class="page_number">Página {{ paginator.page }} de {{ paginator.total_pages }}</span>
       {% if paginator.next_page %}
-        <a rel='next' href="/noticias/page{{ paginator.next_page }}" class="next">Próximo</a>
+        <a rel='next' href="{{ paginator.next_page_path }}" class="next">Próximo</a>
       {% else %}
         <span class="next">Próximo</span>
       {% endif %}
     </nav>
   </footer>
 </main>
-
