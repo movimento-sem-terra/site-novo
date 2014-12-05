@@ -25,6 +25,7 @@ files:
 created_date: "2014-12-05T11:22:33-02:00"
 published: true
 images_hd: "http://farm9.staticflickr.com/8631/15764718100_ef8bc92218_n.jpg"
+section: featured-news
 
 ---
 <p><img alt="Mineroduto3.jpg" src="http://farm9.staticflickr.com/8631/15764718100_ef8bc92218_b.jpg" /></p>
