@@ -17,6 +17,7 @@ files:
 created_date: "2014-12-05T14:48:56-02:00"
 published: true
 images_hd: "http://farm8.staticflickr.com/7523/15765716628_6f406c44f6_n.jpg"
+label: interviews
 
 ---
 <p><img alt="logoacampamento_face.jpg" src="http://farm8.staticflickr.com/7523/15765716628_6f406c44f6_b.jpg" /></p>
