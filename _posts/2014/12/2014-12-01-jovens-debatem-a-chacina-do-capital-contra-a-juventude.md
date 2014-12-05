@@ -38,7 +38,7 @@ Cristian, Michael, Miguel, Jean, Francisca, Paula, nomes diferentes, pa&iacute;s
 Todos foram jovens vitimados pela exclus&atilde;o e repress&atilde;o em seus pa&iacute;ses. De fato se existe algo que o capital vem globalizando &eacute; o exterm&iacute;nio da juventude. E este ocorre tanto no campo, quanto na cidade.</p>
 
 <p><br />
-Mas por que os jovens?</p>
+<strong>Mas por que os jovens?</strong></p>
 
 <p><br />
 A l&oacute;gica de quanto mais novo &eacute; mais inofensivo se mostra n&atilde;o funcional para a juventude. Os valores da rebeldia e da mudan&ccedil;a fazem da juventude o motor das lutas contra a injusti&ccedil;a social, &eacute; o que afirma o Argentino Juan Moyano, militante do Movimento Nacional Campesino Ind&iacute;gena (MNCI). &quot;O momento vivido pelos jovens &eacute; de muita for&ccedil;a, f&iacute;sica e mental, por isso n&atilde;o temos como ficar calados contra as injusti&ccedil;as que o capital promove contra nosso povo&quot;, afirmou.</p>
@@ -56,11 +56,10 @@ Ap&oacute;s tr&ecirc;s anos, o assassinato de Cristian ir&aacute; a julgamento. 
 A trajet&oacute;ria de luta do Jovem Cristian e de tantos outros passa na regi&atilde;o de Santiago del Estero, onde vivem cerca de 63 mil fam&iacute;lias camponesas e ind&iacute;genas que se encontram amea&ccedil;adas em um territ&oacute;rio de mais de 9 milh&otilde;es de hectares, que incansavelmente tenta ser arrematado por empres&aacute;rios e corpora&ccedil;&otilde;es.</p>
 
 <p><br />
-Ferguson e o exterm&iacute;nio da Juventude nos EUA</p>
+<strong>Ferguson e o exterm&iacute;nio da Juventude nos EUA</strong></p>
 
-<p>&nbsp;</p>
-
-<p>Quando se fala de exterm&iacute;nio da juventude pelo capital n&atilde;o &eacute; poss&iacute;vel deixarmos de lado o que ocorre no pa&iacute;s que o centraliza, os Estados Unidos. O povo norte-americano est&aacute; sujeito igualmente a injusti&ccedil;as das pol&iacute;ticas culturais e econ&ocirc;micas opressivas de uma das na&ccedil;&otilde;es mais racistas do mundo.</p>
+<p><br />
+Quando se fala de exterm&iacute;nio da juventude pelo capital n&atilde;o &eacute; poss&iacute;vel deixarmos de lado o que ocorre no pa&iacute;s que o centraliza, os Estados Unidos. O povo norte-americano est&aacute; sujeito igualmente a injusti&ccedil;as das pol&iacute;ticas culturais e econ&ocirc;micas opressivas de uma das na&ccedil;&otilde;es mais racistas do mundo.</p>
 
 <p><br />
 &quot;De todas as formas a m&iacute;dia tenta mostrar que o capitalismo d&aacute; certo, que ele &eacute; bom, justo e funcional. Agora me digam, que sistema considerado bom provoca o exterm&iacute;nio da juventude? A morte do Michael Brown &eacute; mais uma afirma&ccedil;&atilde;o de que esse sistema n&atilde;o funciona para o povo&quot; afirmou Carey Jenkins, o popular &quot; CJ&quot;, que junto com diversos jovens norte-americanos se mudaram para a cidade de Fergunson depois do assassinato do jovem Michael Brown por um policial. A mudan&ccedil;a de cidade foi para contribuir na organiza&ccedil;&atilde;o popular que emergiu depois desse assassinato.</p>
@@ -81,7 +80,7 @@ Michel Brown era um jovem negro de 18 anos que em agosto foi baleado com dois ti
 A justi&ccedil;a decidiu n&atilde;o indiciar o policial porque considerou n&atilde;o existir provas suficiente para process&aacute;-lo por assassinato. O policial segue em liberdade e recebendo seu sal&aacute;rio desde o fato, que desencadeou uma das maiores ondas de protestos raciais das &uacute;ltimas d&eacute;cadas nos EUA.</p>
 
 <p><br />
-Nos faltam 43 companheiros</p>
+<strong>Nos faltam 43 companheiros</strong></p>
 
 <p><br />
 Quando jovens saem de &ocirc;nibus, sejam para estudar, protestar, ou passear, nunca imaginam que n&atilde;o voltem para seus lares. Infelizmente n&atilde;o foi isso que aconteceu com os 43 jovens da escola rural Raul Isidro Burgos de Ayotzinapa, uma cidade que fica cerca de 125 km de Iguala, no M&eacute;xico.</p>
@@ -102,7 +101,7 @@ O fato desencadeou diversas mobiliza&ccedil;&otilde;es populares em todo o M&eac
 A chacina em Iguala n&atilde;o cumpriu o objetivo de seus mandantes. Pelo contr&aacute;rio, provocou um levante popular do povo e da juventude em todo o pa&iacute;s.</p>
 
 <p><br />
-Jovens camponeses na luta pela terra no Paraguai</p>
+<strong>Jovens camponeses na luta pela terra no Paraguai</strong></p>
 
 <p><br />
 &quot;O assassinato de um jovem j&aacute; come&ccedil;a quando s&atilde;o negados seus direitos mais b&aacute;sicos, como sa&uacute;de, educa&ccedil;&atilde;o e direito a terra&quot; afirmou Angelina Barrento, militante da Coordena&ccedil;&atilde;o Nacional de Organiza&ccedil;&otilde;es de Mulheres Trabalhadoras Rurais e Ind&iacute;genas (CONAMURI).&nbsp;</p>
@@ -117,7 +116,7 @@ Angelina relata o caso de Curuguaty, onde camponeses, maioria jovens, foram dura
 A militante refor&ccedil;ou que agora a luta &eacute; por justi&ccedil;a. &quot;N&atilde;o vamos parar de lutar pela terra, mas agora tamb&eacute;m queremos e exigimos justi&ccedil;a aos nossos mortos, ficamos muito revoltados a saber que o julgamento foi adiado para 2015, &eacute; muito tempo para esperar pela justi&ccedil;a&quot;. Segundo Angelina, a responsabilidade do massacre pela juventude &eacute; do Estado e do modelo capitalista. &quot;Se existisse reforma agr&aacute;ria em Curuguaty n&atilde;o ter&iacute;amos mortos. Se existe educa&ccedil;&atilde;o, sa&uacute;de, liberdade para todos, n&atilde;o haveria nenhum jovem morto&quot; concluiu.</p>
 
 <p><br />
-No Brasil</p>
+<strong>No Brasil</strong></p>
 
 <p><br />
 Em todos os casos, a impunidade &eacute; uma caracter&iacute;stica marcante. A morosidade do Estado em fazer prevalecer a justi&ccedil;a pelos direitos dos povos &eacute; gritante. E a forma opressora com que o capital suga essa juventude e depois as descarta amea&ccedil;a um futuro com valores de solidariedade e unidade para a sociedade camponesa e urbana.&nbsp;</p>
