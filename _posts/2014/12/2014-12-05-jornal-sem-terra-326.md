@@ -28,6 +28,8 @@ published: true
 images_hd: "http://farm8.staticflickr.com/7546/15764844520_5338b2f862_n.jpg"
 
 ---
+<p><img alt="JST CAPA.bmp" src="http://farm8.staticflickr.com/7546/15764844520_5338b2f862_b.jpg" /></p>
+
 <p><strong>Nesta edi&ccedil;&atilde;o: </strong><br />
 <br />
 - Jaime Amorim: &quot;2015 ser&aacute; o ano de retomar grandes mobiliza&ccedil;&otilde;es pela Reforma Agr&aacute;ria&quot;<br />
@@ -36,4 +38,4 @@ images_hd: "http://farm8.staticflickr.com/7546/15764844520_5338b2f862_n.jpg"
 <br />
 - Os 10 anos da Escola Nacional Florestan Fernandes<br />
 <br />
-<a href="https://docs.google.com/uc?id=0Bwus_4SL8MWDNHdHYVU1OUEyRDA&amp;export=download">JST326.pdf</a></p>
+<a href="https://docs.google.com/uc?id=0Bwus_4SL8MWDNHdHYVU1OUEyRDA&amp;export=download">Clique aqui para baixar o JST</a></p>
