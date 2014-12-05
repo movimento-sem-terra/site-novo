@@ -1,10 +1,10 @@
 ---
-date: "2014-11-07T16:40:09-03:00"
+date: "2014-11-07T17:40:09-02:00"
 tags:
   - tag: Juventude
   - tag: Agroecologia
 section: tv
-video: lTX_bU4RgNU
+video: "https://www.youtube.com/watch?v=lTX_bU4RgNU"
 title: Juventude e Agroecologia; as respostas não vêm apenas das palavras
 menu: agricultura camponesa
 support_line: Durante a 12° Jornada de Agroecologia do Paraná os educandos da Turma Josué de Castro do CTMA perguntaram aos participantes a relação entre a Agroecologia e a Juventude.
