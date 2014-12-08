@@ -5,7 +5,7 @@ tags:
   - tag: Reforma-Agrária
   - tag: São-Paulo
 title: Sem Terra ocupam IBS e denunciam paralisação da Reforma Agrária
-support_line: "Dia Mundial da Luta contra os Agrotóxicos, Sem Terra ocupam empresa de assistência técnica, em Ribeirão Preto (SP), e denunciam paralisação da Reforma Agrária em todo país."
+support_line: "Dia Mundial da Luta contra os Agrotóxicos, Sem Terra ocupam empresa de assistência técnica, em Ribeirão Preto (SP), e denunciam paralisação da Reforma Agrária."
 menu: lutas e mobilizações
 layout: post
 files:
