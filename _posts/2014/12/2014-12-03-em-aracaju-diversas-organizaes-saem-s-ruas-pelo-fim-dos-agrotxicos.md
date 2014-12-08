@@ -4,7 +4,7 @@ tags:
   - tag: Sergipe
   - tag: Agrotóxicos
 title: "Em Aracaju, diversas organizações saem às ruas pelo fim dos agrotóxicos"
-support_line: "Durante todo o percurso ocorreram várias intervenções de agitação e propaganda como stencil, esquete teatral, panfletagem e grafitagem, que contribuíram para uma boa visibilidade da ação."
+support_line: "Durante todo o percurso ocorreram várias intervenções de agitação e propaganda como stencil, esquete teatral, panfletagem e grafitagem."
 menu: lutas e mobilizações
 layout: post
 files:
@@ -36,7 +36,7 @@ O desastre qu&iacute;mico foi considerado o pior da hist&oacute;ria, e a data fo
 A empresa Dow, respons&aacute;vel pelo acidente, &eacute; hoje uma das seis gigantes do mercado de venenos e sementes transg&ecirc;nicos. Em 2012 faturou U$ 60 bilh&otilde;es.</p>
 
 <p><br />
-Mobiliza&ccedil;&atilde;o&nbsp;</p>
+<strong>Mobiliza&ccedil;&atilde;o&nbsp;</strong></p>
 
 <p><br />
 Diante disso, diversas organiza&ccedil;&otilde;es do campo e da cidade, como o MST, Movimento dos Pequenos Agricultores (MPA), Levante Popular da Juventude (LPJ), Articula&ccedil;&atilde;o do Semi&aacute;rido Brasileiro (ASA), Marcha Mundial de Mulheres (MMM), Movimento Nacional de direitos Humanos(MNDH), Central &Uacute;nica dos Trabalhadores (CUT) e Central dos Trabalhadores do Brasil (CTB), denunciam o modelo do agroneg&oacute;cio.&nbsp;</p>
