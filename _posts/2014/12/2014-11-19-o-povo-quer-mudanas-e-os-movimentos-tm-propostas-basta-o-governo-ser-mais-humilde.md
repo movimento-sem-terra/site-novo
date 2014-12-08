@@ -21,6 +21,7 @@ files:
 created_date: "2014-12-05T17:14:49-02:00"
 published: true
 images_hd: "http://farm8.staticflickr.com/7517/15767901489_c2d2de6c82_n.jpg"
+label: interviews
 
 ---
 <p>&nbsp;</p>
