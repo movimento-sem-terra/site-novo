@@ -6,7 +6,7 @@ body > footer {
   padding: 20px 0 20px;
   color: $gray-lighter;
 
-  article {
+  div {
     width: 80%;
     margin: auto;
 
@@ -25,14 +25,14 @@ body > footer {
     }
   }
 
-  article.links ul li a:before{
+  .links ul li a:before{
     content: "\e164";
     font-family: 'Glyphicons Halflings Regular';
     margin-right: 7px;
     font-size: 12px;
   }
 
-  article.social {
+  .social {
     a {
       font-family: 'Glyphicons Social Regular', Helvetica, Arial, sans-serif;
 
@@ -41,7 +41,7 @@ body > footer {
         vertical-align: middle;
       }
       &.facebook{
-        margin-left: 4px;
+        margin-right: 23px;
         &:before {
           content: '\E031'; 
         }
@@ -58,7 +58,7 @@ body > footer {
     }
   }
 
-  article.parceiros {
+  .parceiros {
     ul {
       padding-left: 0;
       text-align: center;
@@ -90,7 +90,7 @@ body > footer {
   @media(min-width: $screen-md) {
     text-align: center;
 
-    article {
+    div {
       display: inline-block;
       width: 25%;
       vertical-align: top;
@@ -98,7 +98,7 @@ body > footer {
       padding: 10px;
     }
 
-    article.parceiros {
+    div.parceiros {
       display: block;
       width: 75%;
     }

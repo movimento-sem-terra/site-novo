@@ -1,6 +1,7 @@
 {% assign cover = site.cover %}
 
+{% if cover %}
 <section class="cover">
   {% include headline.html post=cover support_line=true %}
 </section>
-
+{% endif %}
