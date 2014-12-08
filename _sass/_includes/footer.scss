@@ -40,10 +40,13 @@ body > footer {
         margin-right: 10px;
         vertical-align: middle;
       }
+      &.facebook{
+        margin-left: 4px;
+        &:before {
+          content: '\E031'; 
+        }
+      }
 
-      &.facebook:before {
-        content: '\E031'; 
-      }  
 
       &.twitter:before {
         content: '\E032'; 
