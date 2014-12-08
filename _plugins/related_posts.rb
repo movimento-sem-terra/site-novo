@@ -15,7 +15,7 @@ module Jekyll
       return [] unless posts.size > 1
       highest_freq = tag_freq(posts).values.max
       related_scores = Hash.new(0)
-
+      posts = posts - site.campaigns
       posts.each do |post|
         post.tags.each do |tag|
           if self.tags.include?(tag) && post != self
