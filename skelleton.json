@@ -127,7 +127,7 @@
   "pattern": "",
   "icon": "fa-youtube",
   "title": "Video de capa",
-  "placeholder": "Coloque o link para o video no Youtube",
+  "placeholder": "Exemplos: https://www.youtube.com/watch?v=AgZj4YgYqsc, http://vimeo.com/30915962",
   "required": true,
   "type": {
     "view": "video"
