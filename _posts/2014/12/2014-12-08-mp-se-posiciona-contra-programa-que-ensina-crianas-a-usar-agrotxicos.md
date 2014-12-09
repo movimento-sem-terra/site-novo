@@ -50,13 +50,13 @@ At&eacute; o momento, o CEE do Paran&aacute; n&atilde;o se pronunciou sobre o pe
 A Organiza&ccedil;&atilde;o Mundial de Sa&uacute;de (OMS) estima que, anualmente, 500 mil a 1 milh&atilde;o de pessoas sofrem contamina&ccedil;&otilde;es graves por agrot&oacute;xicos, das quais de 5 a 10 mil casos s&atilde;o fatais. Somente no Paran&aacute;, entre 1982 e 1990, mais de nove mil pessoas foram contaminadas por agrot&oacute;xicos, determinando a morte de 546 pessoas.</p>
 
 <p><br />
-Para conferir o parecer do MP, clique <a _fcksavedurl="http://www.mst.org.br/sites/default/files/ParecerTecnicoAgrinho.pdf" href="http://www.mst.org.br/sites/default/files/ParecerTecnicoAgrinho.pdf">aqui</a><a href="http://www.mst.org.br/sites/default/files/ParecerTecnicoAgrinho.pdf">.</a></p>
+Para conferir o parecer do MP, clique <a href="http://www.mst.org.br/sites/default/files/ParecerTecnicoAgrinho.pdf">aqui.</a></p>
 
 <p><br />
 <strong>&ldquo;Partido do Agroneg&oacute;cio&rdquo;</strong></p>
 
 <p><br />
-<a _fcksavedurl="http://www.mst.org.br/node/16729" href="http://www.mst.org.br/node/16729" target="_blank">Em recente entrevista &agrave; P&aacute;gina do MST</a>, o professor doutor pelo Programa de P&oacute;s-Gradua&ccedil;&atilde;o em Educa&ccedil;&atilde;o da Universidade Federal do Rio de Janeiro, Rodrigo Lamosa, falou sobre a estrat&eacute;gia de inser&ccedil;&atilde;o do agroneg&oacute;cio nas escolas p&uacute;blicas do pa&iacute;s.</p>
+<a href="http://www.mst.org.br/node/16729" target="_blank">Em recente entrevista &agrave; P&aacute;gina do MST</a>, o professor doutor pelo Programa de P&oacute;s-Gradua&ccedil;&atilde;o em Educa&ccedil;&atilde;o da Universidade Federal do Rio de Janeiro, Rodrigo Lamosa, falou sobre a estrat&eacute;gia de inser&ccedil;&atilde;o do agroneg&oacute;cio nas escolas p&uacute;blicas do pa&iacute;s.</p>
 
 <p><br />
 A Associa&ccedil;&atilde;o Brasileira do Agroneg&oacute;cio (ABAG), por exemplo, realiza o Programa Educacional Agroneg&oacute;cio na Escola, em que a &ldquo;associa&ccedil;&atilde;o incorpora os professores da Educa&ccedil;&atilde;o B&aacute;sica enquanto intelectuais org&acirc;nicos de &lsquo;baixa patente&rsquo; como verdadeiros funcion&aacute;rios respons&aacute;veis por &lsquo;valorizar a imagem do agroneg&oacute;cio&rsquo;&rdquo;, observa Lamosa.</p>
@@ -66,5 +66,3 @@ Por meio de cursos de forma&ccedil;&atilde;o oferecidos pela ABAG, os professore
 
 <p><br />
 Desta maneira, Lamosa, que tamb&eacute;m &eacute; autor do artigo &ldquo;A Hegemonia do Agroneg&oacute;cio: o capital vai &agrave; escola e forma seus novos intelectuais&rdquo;, acredita que a ABAG se consolidou como o &ldquo;Partido do Agroneg&oacute;cio&rdquo; no Brasil.</p>
-
-<p>&nbsp;</p>
