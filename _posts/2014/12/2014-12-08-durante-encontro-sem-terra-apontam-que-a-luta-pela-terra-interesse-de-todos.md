@@ -25,10 +25,8 @@ images_hd: "http://farm9.staticflickr.com/8600/15799415377_7573467df0_n.jpg"
 
 <p>&nbsp;</p>
 
-<p><em>Por&nbsp;Karina Vilas Boas&nbsp;</em><br />
-&nbsp;</p>
-
-<p><em>Da P&aacute;gina do MST</em></p>
+<p><em>Por&nbsp;Karina Vilas Boas&nbsp;<br />
+Da P&aacute;gina do MST</em></p>
 
 <p><em>Fotos: Eliel</em></p>
 
@@ -61,5 +59,3 @@ Segundo Jos&eacute; Batista (MST/MS), o poder econ&ocirc;mico do agroneg&oacute;
 
 <p><br />
 Jos&eacute; ainda colocou que a &aacute;rea agr&iacute;cola de alimentos tem diminu&iacute;do ano a ano para dar lugar aos monocultivos. &ldquo;O resultado &eacute; que muito do que os brasileiros comem tem que ser produzido e importado de outros pa&iacute;ses, como &eacute; o caso do &ldquo;feij&atilde;o com arroz&rdquo;, nossa comida mais comum&rdquo;, concluiu.</p>
-
-<div>&nbsp;</div>
