@@ -2,6 +2,7 @@ paginate: 20
 baseurl: 
 paginate_path: "/noticias/page:num"
 name: Movimento dos Trabalhadores Rurais Sem Terra
+description: "Há 29 anos, em Cascavel (PR), centenas de trabalhadores rurais decidiram fundar um movimento social camponês, autônomo, que lutasse pela terra, pela Reforma Agrária e pelas transformações sociais necessárias para o nosso país. Eram posseiros, atingidos por barragens, migrantes, meeiros, parceiros e pequenos agricultores"
 markdown: redcarpet
 url: http://novo.mst.org.br
 asset_pipeline:
