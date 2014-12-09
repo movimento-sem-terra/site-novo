@@ -11,23 +11,23 @@ section.tv-mst {
   }
 
   @media(min-width: $screen-sm) {
-    background-color: rgb(38, 38, 38);
+    background-color: #262626;
     margin-top: 28px;
     min-height: 400px;
     height: auto;
 
-    div {
+    .videos {
       display: inline-block;
       width: 35%;
       vertical-align: top;
       padding: 12px 12px 0 12px;
       height: 400px;
-      overflow: scroll;
+      overflow: hidden;
 
       h2 {
         border-bottom: 2px solid #383838;
         padding-bottom: 5px;
-        color: rgb(165,165,165);
+        color: #A5A5A5;
         margin-bottom: 0;
         font-size: 1.3em;
       }
@@ -50,8 +50,8 @@ section.tv-mst {
       display: inline-block;
       width: 64%;
       vertical-align: top;
-      background: rgb(56,56,56);
-      border-left: 1px dotted rgb(153, 153, 153);
+      background: #383838;
+      border-left: 1px dotted #999999;
       min-height: 400px;
 
       iframe {

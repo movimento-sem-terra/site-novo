@@ -1,13 +1,13 @@
 {% assign videos = site.tv_mst %}
 
 <section class="tv-mst">
-  <div>
-	<h2 class="hat">VÍDEOS</h2>
+  <aside class='videos'>
+	  <h2 class="hat">VÍDEOS</h2>
     <ul>
   	  {% for video in videos | offset: 1 %}
   		<li><a href="{{ site.baseurl }}{{ video.url }}">{{ video.title }}</a></li>
   	  {% endfor %}
     </ul>
-  </div>
+  </aside>
   {% include headline-with-video.html post=videos.first %}
 </section>
