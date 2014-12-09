@@ -11,18 +11,19 @@ menu: "educação, cultura e comunicação"
 support_line: "Documento sugere a adoção de medidas que impeçam a participação das escolas, professores e alunos das redes públicas ou privadas de ensino no programa."
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8562/15797860590_2120294170_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8562/15797860590_2120294170_t.jpg"
-    medium: "http://farm9.staticflickr.com/8562/15797860590_2120294170_z.jpg"
-    small: "http://farm9.staticflickr.com/8562/15797860590_2120294170_n.jpg"
-    title: Índice.jpg
-    $$hashKey: 04Q
+  - link: "http://farm8.staticflickr.com/7556/15985188015_83f602157d_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7556/15985188015_83f602157d_t.jpg"
+    medium: "http://farm8.staticflickr.com/7556/15985188015_83f602157d_z.jpg"
+    small: "http://farm8.staticflickr.com/7556/15985188015_83f602157d_n.jpg"
+    title: Aplicação-dos-agrotóxicos-2.jpg
+    $$hashKey: 03S
 created_date: "2014-12-09T16:47:13-02:00"
 published: true
-images_hd: "http://farm9.staticflickr.com/8562/15797860590_2120294170_n.jpg"
+images_hd: "http://farm8.staticflickr.com/7556/15985188015_83f602157d_n.jpg"
 
 ---
-<p><em>Por Maura Silva<br />
+<p><br />
+<em>Por Maura Silva<br />
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
