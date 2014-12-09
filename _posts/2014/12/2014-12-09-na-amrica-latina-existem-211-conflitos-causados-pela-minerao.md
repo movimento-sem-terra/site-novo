@@ -11,15 +11,15 @@ menu: solidariedade
 label: interviews
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7517/15983325131_cf66165f5a_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7517/15983325131_cf66165f5a_t.jpg"
-    medium: "http://farm8.staticflickr.com/7517/15983325131_cf66165f5a_z.jpg"
-    small: "http://farm8.staticflickr.com/7517/15983325131_cf66165f5a_n.jpg"
-    title: Índice.jpg
-    $$hashKey: 0U3
+  - link: "http://farm9.staticflickr.com/8590/15984710822_66fba68687_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8590/15984710822_66fba68687_t.jpg"
+    medium: "http://farm9.staticflickr.com/8590/15984710822_66fba68687_z.jpg"
+    small: "http://farm9.staticflickr.com/8590/15984710822_66fba68687_n.jpg"
+    title: mineradora.jpg
+    $$hashKey: "022"
 created_date: "2014-12-09T17:19:57-02:00"
 published: true
-images_hd: "http://farm8.staticflickr.com/7517/15983325131_cf66165f5a_n.jpg"
+images_hd: "http://farm9.staticflickr.com/8590/15984710822_66fba68687_n.jpg"
 
 ---
 <p><em>Do Canal Ibase</em></p>
