@@ -21,7 +21,11 @@ images_hd: "http://farm8.staticflickr.com/7491/15798431817_df822ac576_n.jpg"
 ---
 <div id="content-header">
 <div id="content-title">
-<p><img alt="JOKA_herdeiros.jpg" src="http://farm8.staticflickr.com/7491/15798431817_df822ac576_b.jpg" /><br />
+<figure class="image"><img alt="JOKA_herdeiros.jpg" src="http://farm8.staticflickr.com/7491/15798431817_df822ac576_b.jpg" />
+<figcaption>Acampamento Herdeiros da Luta 1&deg; de Maio, no PR. Cerca de 3 mil fam&iacute;lias lutam pelas terras griladas da Araupel</figcaption>
+</figure>
+
+<p><br />
 <br />
 <br />
 <em>Por Jos&eacute; Coutinho J&uacute;nior<br />
