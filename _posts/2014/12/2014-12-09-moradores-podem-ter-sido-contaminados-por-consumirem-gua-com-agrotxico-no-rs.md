@@ -10,21 +10,20 @@ support_line: Dez pessoas foram internadas após ingerirem água de um riacho em
 menu: agronegócio
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8671/15799508517_db5ef34719_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8671/15799508517_db5ef34719_t.jpg"
-    medium: "http://farm9.staticflickr.com/8671/15799508517_db5ef34719_z.jpg"
-    small: "http://farm9.staticflickr.com/8671/15799508517_db5ef34719_n.jpg"
-    title: images.jpg
-    $$hashKey: 0PD
+  - link: "http://farm8.staticflickr.com/7572/15799691847_a687529052_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7572/15799691847_a687529052_t.jpg"
+    medium: "http://farm8.staticflickr.com/7572/15799691847_a687529052_z.jpg"
+    small: "http://farm8.staticflickr.com/7572/15799691847_a687529052_n.jpg"
+    title: 05_contaminacao.jpg
+    $$hashKey: 03Q
 created_date: "2014-12-09T17:05:26-02:00"
 published: true
-images_hd: "http://farm9.staticflickr.com/8671/15799508517_db5ef34719_n.jpg"
+images_hd: "http://farm8.staticflickr.com/7572/15799691847_a687529052_n.jpg"
 
 ---
-<p><em>Por Maura Silva</em><br />
-&nbsp;</p>
-
-<p><em>Da P&aacute;gina do MST</em></p>
+<p><br />
+<em>Por Maura Silva</em><br />
+<em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
 Na semana passada, dez pessoas foram internadas ap&oacute;s ingerirem &aacute;gua de um riacho em Lajeadinho, Cacique Doble, no norte do Rio Grande do Sul.&nbsp;</p>
