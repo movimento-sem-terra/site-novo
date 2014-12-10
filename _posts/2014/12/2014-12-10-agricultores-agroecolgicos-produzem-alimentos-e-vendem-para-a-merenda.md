@@ -4,7 +4,7 @@ tags:
   - tag: Agroecologia
 title: Agricultores agroecológicos produzem alimentos e vendem para a merenda
 section: tv
-video: "<iframe src=\"//player.vimeo.com/video/44000619\" width=\"500\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+video: http://vimeo.com/44000619
 support_line: Agricultores agroecológicos produzem alimentos e vendem para a merenda
 menu: agricultura camponesa
 layout: post
