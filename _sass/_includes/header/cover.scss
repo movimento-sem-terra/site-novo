@@ -3,6 +3,10 @@
   text-align: initial;
   padding-top: 10px;
 
+  #logo-container {
+    padding-bottom: 12px;
+  }
+
   .logo {
     display: inline-block;
     height: 60px;
@@ -47,7 +51,7 @@
 
   .search {
     padding: 0 0 0 5px;
-    display: block;
+    display: none;
     
     #___gcse_0 {
       width: 102%;
@@ -119,6 +123,9 @@
 
 @media(min-width: $screen-md) {
   #site-header > .cover {
+    #logo-container {
+      padding-bottom: 0;
+    }
     .logo {
       height: 60px;
     }
@@ -161,7 +168,7 @@
       display: inline-block;
       float: right;
       padding: 10px 20px;
-      margin-top: 5px;
+      margin-top: px;
 
       #___gcse_0 {
         width: 300px;
