@@ -3,6 +3,10 @@
   text-align: initial;
   padding-top: 10px;
 
+  #logo-container {
+    padding-bottom: 12px;
+  }
+
   .logo {
     display: inline-block;
     height: 60px;
@@ -46,8 +50,45 @@
   }
 
   .search {
-    padding: 10px 20px;
-    display: block;
+    padding: 0 0 0 5px;
+    display: none;
+    
+    #___gcse_0 {
+      width: 102%;
+
+      & > div {
+        padding: auto 0;
+      }
+    }
+
+    .gsc-selected-option-container {
+      min-width: 90px;
+    }  
+
+    .gsc-control-cse {
+      background-color: transparent;
+      border-color: transparent;
+    }
+    
+    .gsc-search-button {
+      display: none;
+    }
+
+    .gsc-input-box {
+      border-radius: 3px;
+      height: 30px;
+
+      #gs_tti50{
+        padding-top: 6px;
+
+        input:focus {
+          border-color: transparent;
+          outline: none;
+          box-shadow: none;
+        }
+      
+      }
+    }
 
     input {
       width: 100%;
@@ -65,14 +106,14 @@
       }
     }
 
-    &::before {
+    /* &::before {
       font-family: 'Glyphicons Halflings Regular';
       content: "\E003";
       color: $mstred;
       position: absolute;
       padding-left: 5px;
       padding-top: 3px;
-    }
+    }*/ 
 
     button {
       display: none;
@@ -82,6 +123,9 @@
 
 @media(min-width: $screen-md) {
   #site-header > .cover {
+    #logo-container {
+      padding-bottom: 0;
+    }
     .logo {
       height: 60px;
     }
@@ -93,7 +137,6 @@
     background-size: cover;
 
     height: $logo_height + $padding;
-    line-height: $logo_height;
 
     h1, h2 {
       margin: 0;
@@ -124,7 +167,12 @@
       padding: 0;
       display: inline-block;
       float: right;
+      padding: 10px 20px;
+      margin-top: px;
 
+      #___gcse_0 {
+        width: 300px;
+      }
     }
     #logo-container{
       width: 1100px;
