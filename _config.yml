@@ -29,8 +29,11 @@ exclude:
   - setup
   - vendor
   - node/
+  - templates/
 paginate: 20 
+paginate_by:
+  - "type"
+  - 'menu'
+paginate_folder: 'noticias'
 paginate_path: "page:num"
-paginate_layout: "/noticias"
-paginate_by: menu
-
+paginate_layout: "_templates/list"
