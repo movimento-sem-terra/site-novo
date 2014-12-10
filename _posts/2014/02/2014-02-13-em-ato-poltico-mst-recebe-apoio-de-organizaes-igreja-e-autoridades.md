@@ -5,9 +5,9 @@ legacy_url: http://www.mst.org.br/node/15726
 images: http://www.mst.org.br/sites/default/files/JOKA2235.jpg
 video: wpLzigfylRE
 tags:
-- destaque: manchete
-- congresso: '6'
-- assuntos: 6° congresso nacional
+- tag: manchete
+- tag: '6'
+- tag: 6° congresso nacional
 - tag: reforma agrária
 type: video
 support_line: Diversas organizações e lideranças políticas apoiaram o MST em ato realizado

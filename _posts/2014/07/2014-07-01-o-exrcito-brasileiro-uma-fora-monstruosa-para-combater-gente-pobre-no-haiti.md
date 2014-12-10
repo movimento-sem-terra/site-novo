@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16258
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/Heriberto_Paredes-LR-82.jpg
 video: ''
 tags:
-- destaque: manchete
-- assuntos: haiti
+- tag: manchete
+- tag: haiti
 - tag: internacional
 type: 
 support_line: Militante do MST que esteve no país critica o papel de ONGs internacionais,

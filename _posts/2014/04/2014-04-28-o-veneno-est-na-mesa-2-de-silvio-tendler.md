@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16021
 images: ''
 video: fyvoKljtvG4
 tags:
-- assuntos: agrotóxicos
-- destaque: destaque
+- tag: agrotóxicos
+- tag: destaque
 - tag: educação, cultura e comunicação
 type: video
 support_line: ''

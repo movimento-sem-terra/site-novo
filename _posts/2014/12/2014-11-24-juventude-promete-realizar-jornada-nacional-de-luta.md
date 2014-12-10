@@ -1,24 +1,26 @@
 ---
-date: "2014-11-24T16:08:13-02:00"
+date: '2014-11-24T16:08:13-02:00'
 tags:
-  - tag: Acampamento-da-Juventude
-  - tag: Via-Campesina
-  - tag: desafios
-  - tag: agronegócio
+- tag: Acampamento-da-Juventude
+- tag: Via-Campesina
+- tag: desafios
+- tag: agronegócio
 title: Juventude promete realizar jornada nacional de luta
 menu: lutas e mobilizações
-support_line: A última mesa do Acampamento da Juventude trouxe a importante reflexão e proposição sobre os desafios da juventude para a construção de um projeto digno de vida para nosso povo.
+support_line: A última mesa do Acampamento da Juventude trouxe a importante reflexão
+  e proposição sobre os desafios da juventude para a construção de um projeto digno
+  de vida para nosso povo.
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7489/15767839577_aa968ca737_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7489/15767839577_aa968ca737_t.jpg"
-    medium: "http://farm8.staticflickr.com/7489/15767839577_aa968ca737_z.jpg"
-    small: "http://farm8.staticflickr.com/7489/15767839577_aa968ca737_n.jpg"
-    title: 140210_CongMST_88.jpg
-    $$hashKey: "219"
-created_date: "2014-12-05T16:10:44-02:00"
+- link: http://farm8.staticflickr.com/7489/15767839577_aa968ca737_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7489/15767839577_aa968ca737_t.jpg
+  medium: http://farm8.staticflickr.com/7489/15767839577_aa968ca737_z.jpg
+  small: http://farm8.staticflickr.com/7489/15767839577_aa968ca737_n.jpg
+  title: 140210_CongMST_88.jpg
+  "$$hashKey": '219'
+created_date: '2014-12-05T16:10:44-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7489/15767839577_aa968ca737_n.jpg"
+images_hd: http://farm8.staticflickr.com/7489/15767839577_aa968ca737_n.jpg
 
 ---
 <p><em>Da P&aacute;gina do MST</em></p>

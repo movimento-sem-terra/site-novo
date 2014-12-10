@@ -1,27 +1,29 @@
 ---
-date: "2014-10-29T16:51:52-02:00"
+date: '2014-10-29T16:51:52-02:00'
 tags:
-  - tag: Papa-Francisco
-  - tag: movimentos-sociais
-title: "\"A reforma agrária é, além de uma necessidade política, uma obrigação moral\", disse Papa"
-support_line: "Em seu discurso, Papa Francisco defendeu a Reforma Agrária e fez duras críticas ao agronegócio."
+- tag: Papa-Francisco
+- tag: movimentos-sociais
+title: '"A reforma agrária é, além de uma necessidade política, uma obrigação moral",
+  disse Papa'
+support_line: Em seu discurso, Papa Francisco defendeu a Reforma Agrária e fez duras
+  críticas ao agronegócio.
 menu: projeto popular
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8659/15946358482_7055fb3f3f_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8659/15946358482_7055fb3f3f_t.jpg"
-    medium: "http://farm9.staticflickr.com/8659/15946358482_7055fb3f3f_z.jpg"
-    small: "http://farm9.staticflickr.com/8659/15946358482_7055fb3f3f_n.jpg"
-    title: papa_movimentos.jpg
-    $$hashKey: AMR
-  - link: "http://farm8.staticflickr.com/7532/15759603108_6dd3b9b41c_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7532/15759603108_6dd3b9b41c_t.jpg"
-    medium: "http://farm8.staticflickr.com/7532/15759603108_6dd3b9b41c_z.jpg"
-    small: "http://farm8.staticflickr.com/7532/15759603108_6dd3b9b41c_n.jpg"
-    title: papa_movimentosII.jpg
-    $$hashKey: AUV
+- link: http://farm9.staticflickr.com/8659/15946358482_7055fb3f3f_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8659/15946358482_7055fb3f3f_t.jpg
+  medium: http://farm9.staticflickr.com/8659/15946358482_7055fb3f3f_z.jpg
+  small: http://farm9.staticflickr.com/8659/15946358482_7055fb3f3f_n.jpg
+  title: papa_movimentos.jpg
+  "$$hashKey": AMR
+- link: http://farm8.staticflickr.com/7532/15759603108_6dd3b9b41c_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7532/15759603108_6dd3b9b41c_t.jpg
+  medium: http://farm8.staticflickr.com/7532/15759603108_6dd3b9b41c_z.jpg
+  small: http://farm8.staticflickr.com/7532/15759603108_6dd3b9b41c_n.jpg
+  title: papa_movimentosII.jpg
+  "$$hashKey": AUV
 published: true
-images_hd: "http://farm9.staticflickr.com/8659/15946358482_7055fb3f3f_n.jpg"
+images_hd: http://farm9.staticflickr.com/8659/15946358482_7055fb3f3f_n.jpg
 
 ---
 <p><img alt="papa_movimentos.jpg" src="http://farm9.staticflickr.com/8659/15946358482_7055fb3f3f_b.jpg" /></p>

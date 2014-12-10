@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/14856
 images: ''
 video: uCs-Te9COUU
 tags:
-- destaque: destaque
-- assuntos: alba
+- tag: destaque
+- tag: alba
 - tag: internacional
 type: video
 support_line: ''

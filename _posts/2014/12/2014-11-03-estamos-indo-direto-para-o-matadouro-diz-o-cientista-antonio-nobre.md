@@ -1,27 +1,29 @@
 ---
-date: "2014-11-03T12:00:50-02:00"
+date: '2014-11-03T12:00:50-02:00'
 tags:
-  - tag: Entrevista
-  - tag: Antonio-Nobre
-  - tag: Meio-Ambiente
-  - tag: Seca
-  - tag: desmatamento
-support_line: "Nos últimos 40 anos foram destruídas 40 bilhões de árvores na floresta. Especialista na relação da Amazônia com o clima, o agrônomo Antonio Nobre faz conexões entre a seca no Sudeste e o desmatamento das florestas."
-title: "\"Estamos indo direto para o matadouro\", diz o cientista Antonio Nobre"
+- tag: Entrevista
+- tag: Antonio-Nobre
+- tag: Meio-Ambiente
+- tag: Seca
+- tag: desmatamento
+support_line: Nos últimos 40 anos foram destruídas 40 bilhões de árvores na floresta.
+  Especialista na relação da Amazônia com o clima, o agrônomo Antonio Nobre faz conexões
+  entre a seca no Sudeste e o desmatamento das florestas.
+title: '"Estamos indo direto para o matadouro", diz o cientista Antonio Nobre'
 hat: Desmatamento
 menu: meio ambiente
 label: interviews
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7573/15952225245_196a6b7666_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7573/15952225245_196a6b7666_t.jpg"
-    medium: "http://farm8.staticflickr.com/7573/15952225245_196a6b7666_z.jpg"
-    small: "http://farm8.staticflickr.com/7573/15952225245_196a6b7666_n.jpg"
-    title: seca.JPG
-    $$hashKey: 2RZ
-created_date: "2014-12-05T12:05:23-02:00"
+- link: http://farm8.staticflickr.com/7573/15952225245_196a6b7666_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7573/15952225245_196a6b7666_t.jpg
+  medium: http://farm8.staticflickr.com/7573/15952225245_196a6b7666_z.jpg
+  small: http://farm8.staticflickr.com/7573/15952225245_196a6b7666_n.jpg
+  title: seca.JPG
+  "$$hashKey": 2RZ
+created_date: '2014-12-05T12:05:23-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7573/15952225245_196a6b7666_n.jpg"
+images_hd: http://farm8.staticflickr.com/7573/15952225245_196a6b7666_n.jpg
 
 ---
 <p><br />

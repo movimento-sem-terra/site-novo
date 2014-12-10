@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15430
 images: ''
 video: XbyEDVcsXTE
 tags:
-- destaque: destaque
+- tag: destaque
 - tag: educação, cultura e comunicação
 type: video
 menu: educação, cultura e comunicação

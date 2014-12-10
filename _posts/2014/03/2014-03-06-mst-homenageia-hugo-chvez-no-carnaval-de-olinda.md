@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15789
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/boneco_chavez_II.jpg
 video: ''
 tags:
-- localização: pernambuco
-- assuntos: cultura
+- tag: pernambuco
+- tag: cultura
 - tag: educação, cultura e comunicação
 type: news
 support_line: Sob o som da orquestra e com muita simbologia cultural, o MST junto

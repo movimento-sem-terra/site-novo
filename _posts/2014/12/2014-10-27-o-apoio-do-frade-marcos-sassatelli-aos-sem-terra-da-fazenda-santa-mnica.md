@@ -1,22 +1,23 @@
 ---
-date: "2014-10-27T16:22:02-02:00"
+date: '2014-10-27T16:22:02-02:00'
 tags:
-  - tag: Ocupação
-  - tag: Goiás
+- tag: Ocupação
+- tag: Goiás
 title: O apoio do frade Marcos Sassatelli aos Sem Terra da Fazenda Santa Mônica
 menu: reforma agrária
 label: articles
-support_line: "Todos e todas que estamos comprometidos com os Direitos Humanos, unimo-nos no apoio e na solidariedade à luta dos sem-terra, que ocupam a Fazenda Santa Mônica."
+support_line: Todos e todas que estamos comprometidos com os Direitos Humanos, unimo-nos
+  no apoio e na solidariedade à luta dos sem-terra, que ocupam a Fazenda Santa Mônica.
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7547/15761127617_215f2fe894_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7547/15761127617_215f2fe894_t.jpg"
-    medium: "http://farm8.staticflickr.com/7547/15761127617_215f2fe894_z.jpg"
-    small: "http://farm8.staticflickr.com/7547/15761127617_215f2fe894_n.jpg"
-    title: ocupação_goias.jpg
-    $$hashKey: 88O
+- link: http://farm8.staticflickr.com/7547/15761127617_215f2fe894_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7547/15761127617_215f2fe894_t.jpg
+  medium: http://farm8.staticflickr.com/7547/15761127617_215f2fe894_z.jpg
+  small: http://farm8.staticflickr.com/7547/15761127617_215f2fe894_n.jpg
+  title: ocupação_goias.jpg
+  "$$hashKey": 88O
 published: true
-images_hd: "http://farm8.staticflickr.com/7547/15761127617_215f2fe894_n.jpg"
+images_hd: http://farm8.staticflickr.com/7547/15761127617_215f2fe894_n.jpg
 
 ---
 <div id="content-header">

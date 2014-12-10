@@ -1,22 +1,23 @@
 ---
-date: "2014-11-06T11:52:12-02:00"
+date: '2014-11-06T11:52:12-02:00'
 tags:
-  - tag: Pronera
-  - tag: Paraná
-title: "UFPR abre vagas de Direito para assentados, acampados e quilombolas"
-support_line: "Demais famílias cadastradas pelo INCRA também podem concorrem às 60 vagas do projeto, voltado especialmente para a educação no campo."
-menu: "educação, cultura e comunicação"
+- tag: Pronera
+- tag: Paraná
+title: UFPR abre vagas de Direito para assentados, acampados e quilombolas
+support_line: Demais famílias cadastradas pelo INCRA também podem concorrem às 60
+  vagas do projeto, voltado especialmente para a educação no campo.
+menu: educação, cultura e comunicação
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7509/15332561343_31b5d817b4_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7509/15332561343_31b5d817b4_t.jpg"
-    medium: "http://farm8.staticflickr.com/7509/15332561343_31b5d817b4_z.jpg"
-    small: "http://farm8.staticflickr.com/7509/15332561343_31b5d817b4_n.jpg"
-    title: educar_campo.jpg
-    $$hashKey: 0AX
-created_date: "2014-12-05T11:54:38-02:00"
+- link: http://farm8.staticflickr.com/7509/15332561343_31b5d817b4_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7509/15332561343_31b5d817b4_t.jpg
+  medium: http://farm8.staticflickr.com/7509/15332561343_31b5d817b4_z.jpg
+  small: http://farm8.staticflickr.com/7509/15332561343_31b5d817b4_n.jpg
+  title: educar_campo.jpg
+  "$$hashKey": 0AX
+created_date: '2014-12-05T11:54:38-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7509/15332561343_31b5d817b4_n.jpg"
+images_hd: http://farm8.staticflickr.com/7509/15332561343_31b5d817b4_n.jpg
 
 ---
 <div id="content-header">

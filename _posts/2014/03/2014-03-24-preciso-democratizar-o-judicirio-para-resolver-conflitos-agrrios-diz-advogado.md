@@ -6,9 +6,9 @@ legacy_url: http://www.mst.org.br/node/15884
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/judiciario!.jpg
 video: ''
 tags:
-- destaque: manchete
-- assuntos: direitos humanos
-- tipo de matéria: entrevistas
+- tag: manchete
+- tag: direitos humanos
+- tag: entrevistas
 - tag: direitos humanos
 type: news
 support_line: Pesquisa da organização Terra de Direitos propõe outras formas para

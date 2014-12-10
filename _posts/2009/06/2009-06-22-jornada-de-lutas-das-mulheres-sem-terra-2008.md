@@ -4,7 +4,7 @@ title: Jornada de Lutas das Mulheres Sem Terra 2008
 legacy_url: http://www.mst.org.br/node/95
 images: ''
 video: ''
-tags: []
+tags: 
 type: 
 support_line: ''
 section: 

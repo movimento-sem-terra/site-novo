@@ -1,20 +1,21 @@
 ---
-date: "2014-10-27T15:58:47-02:00"
+date: '2014-10-27T15:58:47-02:00'
 tags:
-  - tag: Indígenas
+- tag: Indígenas
 title: CNBB manifesta preocupação com direitos indígenas
-support_line: 2ª Turma do STF de anulou portarias do Ministério da Justiça que reconheciam territórios indígenas no MA e no MS.
+support_line: 2ª Turma do STF de anulou portarias do Ministério da Justiça que reconheciam
+  territórios indígenas no MA e no MS.
 menu: direitos humanos
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8637/15946063792_ed0765e94d_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8637/15946063792_ed0765e94d_t.jpg"
-    medium: "http://farm9.staticflickr.com/8637/15946063792_ed0765e94d_z.jpg"
-    small: "http://farm9.staticflickr.com/8637/15946063792_ed0765e94d_n.jpg"
-    title: indio.jpg
-    $$hashKey: 1JR
+- link: http://farm9.staticflickr.com/8637/15946063792_ed0765e94d_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8637/15946063792_ed0765e94d_t.jpg
+  medium: http://farm9.staticflickr.com/8637/15946063792_ed0765e94d_z.jpg
+  small: http://farm9.staticflickr.com/8637/15946063792_ed0765e94d_n.jpg
+  title: indio.jpg
+  "$$hashKey": 1JR
 published: true
-images_hd: "http://farm9.staticflickr.com/8637/15946063792_ed0765e94d_n.jpg"
+images_hd: http://farm9.staticflickr.com/8637/15946063792_ed0765e94d_n.jpg
 
 ---
 <div id="content-header">

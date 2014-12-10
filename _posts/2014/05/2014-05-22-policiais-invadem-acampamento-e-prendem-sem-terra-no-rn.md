@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16146
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/vio.jpg
 video: ''
 tags:
-- localização: rio grande do norte
-- assuntos: violência
+- tag: rio grande do norte
+- tag: violência
 - tag: direitos humanos
 type: news
 support_line: Nesta quinta, o Acampamento Luis Carlos Prestes foi invadido e destruído

@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16112
 images: ''
 video: ''
 tags:
-- assuntos: direitos humanos
-- localização: rio de janeiro
+- tag: direitos humanos
+- tag: rio de janeiro
 - tag: direitos humanos
 type: 
 support_line: Gilcilane Paes Pereira, 44 anos, assentada no Zumbi dos Palmares, em

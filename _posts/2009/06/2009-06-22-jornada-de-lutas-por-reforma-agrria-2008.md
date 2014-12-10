@@ -4,7 +4,7 @@ title: Jornada de Lutas por Reforma Agrária 2008
 legacy_url: http://www.mst.org.br/node/97
 images: ''
 video: ''
-tags: []
+tags: 
 type: 
 support_line: ''
 section: 

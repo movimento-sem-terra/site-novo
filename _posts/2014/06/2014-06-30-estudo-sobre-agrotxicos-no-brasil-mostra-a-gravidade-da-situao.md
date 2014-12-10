@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/16252
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/paracatu-site.jpg
 video: ''
 tags:
-- assuntos: agrotóxicos
+- tag: agrotóxicos
 - tag: agronegócio
 type: news
 support_line: A publicação também apresenta relatos de várias ocorrências nas cinco

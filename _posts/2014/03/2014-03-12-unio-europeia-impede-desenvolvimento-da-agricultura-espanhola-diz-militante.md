@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15838
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/rosa abre.JPG
 video: ''
 tags:
-- tipo de matéria: entrevistas
+- tag: entrevistas
 - tag: agronegócio
 type: news
 support_line: Entrevista com Rosa Cañadel, do comitê de amigos do MST.

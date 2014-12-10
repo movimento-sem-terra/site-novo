@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16202
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/perigo-agrotoxico.jpg
 video: ''
 tags:
-- localização: paraná
-- assuntos: agrotóxicos
+- tag: paraná
+- tag: agrotóxicos
 - tag: agronegócio
 type: news
 support_line: A água tratada fornecida pela Sanepar aos moradores do distrito de Aricanduva,

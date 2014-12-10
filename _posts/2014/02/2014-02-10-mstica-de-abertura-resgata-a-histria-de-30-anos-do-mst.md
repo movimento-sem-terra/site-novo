@@ -5,9 +5,9 @@ legacy_url: http://www.mst.org.br/node/15693
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/melgarejo.v01.jpg
 video: ''
 tags:
-- congresso: '6'
-- assuntos: 6° congresso nacional
-- semana: tema da semana
+- tag: '6'
+- tag: 6° congresso nacional
+- tag: tema da semana
 - tag: lutas e mobilizações
 type: news
 support_line: A mística de abertura emocionou as milhares de pessoas que lotaram o  ginásio

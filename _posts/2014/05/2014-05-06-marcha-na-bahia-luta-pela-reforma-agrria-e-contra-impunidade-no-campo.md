@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16066
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/Untitled.png
 video: ''
 tags:
-- localização: bahia
-- assuntos: jornada de lutas abril 2014
+- tag: bahia
+- tag: jornada de lutas abril 2014
 - tag: lutas e mobilizações
 type: news
 support_line: Cerca de 3 mil militantes do MST estão em marcha na Bahia em direção

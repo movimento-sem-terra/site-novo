@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15963
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/homenagem_BA!.png
 video: ''
 tags:
-- localização: bahia
-- assuntos: homenagem
+- tag: bahia
+- tag: homenagem
 - tag: reforma agrária
 type: news
 support_line: A atividade relembrou o processo histórico, as lutas e conquistas do

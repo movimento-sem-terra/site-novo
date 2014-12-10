@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15957
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/educar_campo.jpg
 video: ''
 tags:
-- localização: brasília
-- assuntos: educação
+- tag: brasília
+- tag: educação
 - tag: educação, cultura e comunicação
 type: news
 support_line: Até esta sexta-feira (9), representantes de movimentos sociais do campo,

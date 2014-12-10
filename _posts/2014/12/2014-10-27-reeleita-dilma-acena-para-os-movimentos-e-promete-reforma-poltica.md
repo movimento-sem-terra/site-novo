@@ -1,23 +1,24 @@
 ---
-date: "2014-10-27T16:28:35-02:00"
+date: '2014-10-27T16:28:35-02:00'
 tags:
-  - tag: Eleições
-  - tag: Dilma-Rousseff
-  - tag: Reforma-Política
-  - tag: Constituinte
-title: "Reeleita, Dilma acena para os movimentos e promete reforma política"
+- tag: Eleições
+- tag: Dilma-Rousseff
+- tag: Reforma-Política
+- tag: Constituinte
+title: Reeleita, Dilma acena para os movimentos e promete reforma política
 menu: projeto popular
-support_line: A convocação de uma constituinte foi tema de consulta pública realizada entre os dias 1º e 7 de setembro.
+support_line: A convocação de uma constituinte foi tema de consulta pública realizada
+  entre os dias 1º e 7 de setembro.
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7573/15324616994_dd2801a0b1_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7573/15324616994_dd2801a0b1_t.jpg"
-    medium: "http://farm8.staticflickr.com/7573/15324616994_dd2801a0b1_z.jpg"
-    small: "http://farm8.staticflickr.com/7573/15324616994_dd2801a0b1_n.jpg"
-    title: dilma_lula.jpg
-    $$hashKey: "902"
+- link: http://farm8.staticflickr.com/7573/15324616994_dd2801a0b1_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7573/15324616994_dd2801a0b1_t.jpg
+  medium: http://farm8.staticflickr.com/7573/15324616994_dd2801a0b1_z.jpg
+  small: http://farm8.staticflickr.com/7573/15324616994_dd2801a0b1_n.jpg
+  title: dilma_lula.jpg
+  "$$hashKey": '902'
 published: true
-images_hd: "http://farm8.staticflickr.com/7573/15324616994_dd2801a0b1_n.jpg"
+images_hd: http://farm8.staticflickr.com/7573/15324616994_dd2801a0b1_n.jpg
 
 ---
 <p><img alt="dilma_lula.jpg" src="http://farm8.staticflickr.com/7573/15324616994_dd2801a0b1_b.jpg" /></p>

@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16017
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/greve PR.png
 video: ''
 tags:
-- localização: paraná
-- assuntos: solidariedade
+- tag: paraná
+- tag: solidariedade
 - tag: lutas e mobilizações
 type: news
 support_line: Em solidariedade à luta dos funcionários da educação, militantes do

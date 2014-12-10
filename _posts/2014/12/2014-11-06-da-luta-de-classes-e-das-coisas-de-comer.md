@@ -1,23 +1,24 @@
 ---
-date: "2014-11-06T11:59:17-02:00"
+date: '2014-11-06T11:59:17-02:00'
 tags:
-  - tag: Alimentação
-  - tag: Saúde
+- tag: Alimentação
+- tag: Saúde
 title: Da luta de classes e das coisas de comer
-support_line: "O sistema capitalista, em sua corrida para transformar direitos em privilégios, transformou alimentos, mais ainda aqueles de qualidade, em objeto de luxo."
+support_line: O sistema capitalista, em sua corrida para transformar direitos em privilégios,
+  transformou alimentos, mais ainda aqueles de qualidade, em objeto de luxo.
 menu: agronegócio
 label: articles
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7466/15766188019_887edb3def_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7466/15766188019_887edb3def_t.jpg"
-    medium: "http://farm8.staticflickr.com/7466/15766188019_887edb3def_z.jpg"
-    small: "http://farm8.staticflickr.com/7466/15766188019_887edb3def_n.jpg"
-    title: supermercado.jpg
-    $$hashKey: 0VY
-created_date: "2014-12-05T12:00:54-02:00"
+- link: http://farm8.staticflickr.com/7466/15766188019_887edb3def_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7466/15766188019_887edb3def_t.jpg
+  medium: http://farm8.staticflickr.com/7466/15766188019_887edb3def_z.jpg
+  small: http://farm8.staticflickr.com/7466/15766188019_887edb3def_n.jpg
+  title: supermercado.jpg
+  "$$hashKey": 0VY
+created_date: '2014-12-05T12:00:54-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7466/15766188019_887edb3def_n.jpg"
+images_hd: http://farm8.staticflickr.com/7466/15766188019_887edb3def_n.jpg
 
 ---
 <p><img alt="supermercado.jpg" src="http://farm8.staticflickr.com/7466/15766188019_887edb3def_b.jpg" /></p>

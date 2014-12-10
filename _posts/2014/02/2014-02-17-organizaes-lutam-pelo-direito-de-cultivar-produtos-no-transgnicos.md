@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15734
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/milho colorido.jpg
 video: ''
 tags:
-- assuntos: transgênicos
+- tag: transgênicos
 - tag: transgênicos
 type: news
 support_line: O julgamento da  Ação Civil Pública do Milho será realizada no dia 19/02,

@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/13661
 images: ''
 video: FpEL21Lr8kk
 tags:
-- assuntos: agroecologia
+- tag: agroecologia
 - tag: agricultura camponesa
 type: video
 support_line: ''

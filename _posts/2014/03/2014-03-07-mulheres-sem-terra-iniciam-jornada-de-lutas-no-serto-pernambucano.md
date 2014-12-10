@@ -6,7 +6,7 @@ images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/march
   mulheresabre.jpg
 video: ''
 tags:
-- assuntos: jornada de luta das mulheres 2014
+- tag: jornada de luta das mulheres 2014
 - tag: lutas e mobilizações
 type: news
 support_line: Cerca de 200 mulheres do MST ocuparam vários órgãos públicos do  município

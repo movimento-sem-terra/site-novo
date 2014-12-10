@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16089
 images: ''
 video: ''
 tags:
-- localização: rondônia
-- assuntos: jornada de lutas abril 2014
+- tag: rondônia
+- tag: jornada de lutas abril 2014
 - tag: lutas e mobilizações
 type: news
 support_line: Os trabalhadores rurais pautaram o início do período letivo e a construção

@@ -1,23 +1,25 @@
 ---
-date: "2014-12-08T13:46:51-02:00"
+date: '2014-12-08T13:46:51-02:00'
 tags:
-  - tag: Mato-Grosso
-  - tag: Grilagem
-  - tag: Bunge
-title: "Bunge foi beneficiada por fraudes em lotes da Reforma Agrária, diz PF"
-support_line: "Segundo Polícia Federal, empresa corrompia funcionários do Incra. Operação \"Terra Prometida\" investiga ilegalidades nas terras da União e já indiciou diversos latifundiários."
+- tag: Mato-Grosso
+- tag: Grilagem
+- tag: Bunge
+title: Bunge foi beneficiada por fraudes em lotes da Reforma Agrária, diz PF
+support_line: Segundo Polícia Federal, empresa corrompia funcionários do Incra. Operação
+  "Terra Prometida" investiga ilegalidades nas terras da União e já indiciou diversos
+  latifundiários.
 menu: agronegócio
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7493/15798367297_cf107e419a_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7493/15798367297_cf107e419a_t.jpg"
-    medium: "http://farm8.staticflickr.com/7493/15798367297_cf107e419a_z.jpg"
-    small: "http://farm8.staticflickr.com/7493/15798367297_cf107e419a_n.jpg"
-    title: bunge.jpg
-    $$hashKey: 1TS
-created_date: "2014-12-09T13:50:17-02:00"
+- link: http://farm8.staticflickr.com/7493/15798367297_cf107e419a_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7493/15798367297_cf107e419a_t.jpg
+  medium: http://farm8.staticflickr.com/7493/15798367297_cf107e419a_z.jpg
+  small: http://farm8.staticflickr.com/7493/15798367297_cf107e419a_n.jpg
+  title: bunge.jpg
+  "$$hashKey": 1TS
+created_date: '2014-12-09T13:50:17-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7493/15798367297_cf107e419a_n.jpg"
+images_hd: http://farm8.staticflickr.com/7493/15798367297_cf107e419a_n.jpg
 
 ---
 <div id="content-header">

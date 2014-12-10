@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16240
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/vio.jpg
 video: ''
 tags:
-- localização: paraná
-- assuntos: direitos humanos
+- tag: paraná
+- tag: direitos humanos
 - tag: direitos humanos
 type: news
 support_line: Diniz Bento da Silva, conhecido como Teixeirinha, foi morto por policiais

@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15722
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/dilma_MST!.jpg
 video: ''
 tags:
-- congresso: '6'
-- assuntos: 6° congresso nacional
+- tag: '6'
+- tag: 6° congresso nacional
 - tag: reforma agrária
 type: news
 support_line: Durante a reunião, os Sem Terra levaram demandas à mesa da presidenta.

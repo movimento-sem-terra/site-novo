@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15764
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/reformaagraria.jpg
 video: ''
 tags:
-- assuntos: reforma agrária
+- tag: reforma agrária
 - tag: reforma agrária
 type: news
 support_line: Em reunião realizada nesta sexta, que contou com a  participação de

@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/16154
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/agricultura_familiar_ABr.JPG
 video: ''
 tags:
-- assuntos: plano safra
+- tag: plano safra
 - tag: agricultura camponesa
 type: news
 support_line: O Plano Safra da Agricultura Familiar para o período 2014/2015, lançado

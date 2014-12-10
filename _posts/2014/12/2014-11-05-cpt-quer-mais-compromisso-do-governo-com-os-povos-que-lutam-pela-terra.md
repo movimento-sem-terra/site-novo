@@ -1,29 +1,31 @@
 ---
-date: "2014-11-05T13:20:56-02:00"
+date: '2014-11-05T13:20:56-02:00'
 tags:
-  - tag: CPT
-  - tag: Conflitos-no-campo
-  - tag: agronegócio
-  - tag: entrevista
-  - tag: Dom-Enemésio
-  - tag: Reforma-Agrária
-  - tag: Trabalho-escravo
-  - tag: indígenas
+- tag: CPT
+- tag: Conflitos-no-campo
+- tag: agronegócio
+- tag: entrevista
+- tag: Dom-Enemésio
+- tag: Reforma-Agrária
+- tag: Trabalho-escravo
+- tag: indígenas
 title: CPT quer mais compromisso do governo com os povos que lutam pela terra
 hat: Conflitos no campo
-support_line: "Para Dom Enemésio Lazzaris, presidente nacional da Comissão Pastoral da Terra, se não houver uma política agrária que favoreça a permanência no campo, haverá mais despejos, ameaças, prisões e conflitos."
+support_line: Para Dom Enemésio Lazzaris, presidente nacional da Comissão Pastoral
+  da Terra, se não houver uma política agrária que favoreça a permanência no campo,
+  haverá mais despejos, ameaças, prisões e conflitos.
 menu: direitos humanos
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8674/15766620369_47208e9823_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8674/15766620369_47208e9823_t.jpg"
-    medium: "http://farm9.staticflickr.com/8674/15766620369_47208e9823_z.jpg"
-    small: "http://farm9.staticflickr.com/8674/15766620369_47208e9823_n.jpg"
-    title: dom-enemesio-balsas.jpg
-    $$hashKey: 0EK
-created_date: "2014-12-05T13:25:51-02:00"
+- link: http://farm9.staticflickr.com/8674/15766620369_47208e9823_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8674/15766620369_47208e9823_t.jpg
+  medium: http://farm9.staticflickr.com/8674/15766620369_47208e9823_z.jpg
+  small: http://farm9.staticflickr.com/8674/15766620369_47208e9823_n.jpg
+  title: dom-enemesio-balsas.jpg
+  "$$hashKey": 0EK
+created_date: '2014-12-05T13:25:51-02:00'
 published: true
-images_hd: "http://farm9.staticflickr.com/8674/15766620369_47208e9823_n.jpg"
+images_hd: http://farm9.staticflickr.com/8674/15766620369_47208e9823_n.jpg
 
 ---
 <p>&nbsp;

@@ -1,52 +1,52 @@
 ---
-date: "2014-10-21T14:11:28-02:00"
+date: '2014-10-21T14:11:28-02:00'
 tags:
-  - tag: Jornada-Sem-Terrinha-2014
-  - tag: Educação
-  - tag: Rio-Grande-do-Sul
-title: "Sem Terrinhas gaúchos realizam Mostra de arte e cultura, estudos e brincadeiras"
-menu: "educação, cultura e comunicação"
+- tag: Jornada-Sem-Terrinha-2014
+- tag: Educação
+- tag: Rio-Grande-do-Sul
+title: Sem Terrinhas gaúchos realizam Mostra de arte e cultura, estudos e brincadeiras
+menu: educação, cultura e comunicação
 support_line: A jornada dos Sem Terrinha no RS reuniu crianças de 14 regiões do estado.
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8591/15758691358_722d908239_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8591/15758691358_722d908239_t.jpg"
-    medium: "http://farm9.staticflickr.com/8591/15758691358_722d908239_z.jpg"
-    small: "http://farm9.staticflickr.com/8591/15758691358_722d908239_n.jpg"
-    title: semterrinharsII.jpg
-    $$hashKey: 40R
-  - link: "http://farm8.staticflickr.com/7493/15760078409_670d41d0f4_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7493/15760078409_670d41d0f4_t.jpg"
-    medium: "http://farm8.staticflickr.com/7493/15760078409_670d41d0f4_z.jpg"
-    small: "http://farm8.staticflickr.com/7493/15760078409_670d41d0f4_n.jpg"
-    title: semterrinhars.jpg
-    $$hashKey: 40U
-  - link: "http://farm8.staticflickr.com/7524/15945447862_da57e9a318_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7524/15945447862_da57e9a318_t.jpg"
-    medium: "http://farm8.staticflickr.com/7524/15945447862_da57e9a318_z.jpg"
-    small: "http://farm8.staticflickr.com/7524/15945447862_da57e9a318_n.jpg"
-    title: semterrinharsIII.jpg
-    $$hashKey: 40X
-  - link: "http://farm8.staticflickr.com/7486/15945452062_e650d004da_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7486/15945452062_e650d004da_t.jpg"
-    medium: "http://farm8.staticflickr.com/7486/15945452062_e650d004da_z.jpg"
-    small: "http://farm8.staticflickr.com/7486/15945452062_e650d004da_n.jpg"
-    title: semterrinharsV.jpg
-    $$hashKey: "410"
-  - link: "http://farm8.staticflickr.com/7559/15920321406_176ba20735_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7559/15920321406_176ba20735_t.jpg"
-    medium: "http://farm8.staticflickr.com/7559/15920321406_176ba20735_z.jpg"
-    small: "http://farm8.staticflickr.com/7559/15920321406_176ba20735_n.jpg"
-    title: semterrinharsIV.jpg
-    $$hashKey: "413"
-  - link: "http://farm8.staticflickr.com/7506/15760391187_b40eea789e_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7506/15760391187_b40eea789e_t.jpg"
-    medium: "http://farm8.staticflickr.com/7506/15760391187_b40eea789e_z.jpg"
-    small: "http://farm8.staticflickr.com/7506/15760391187_b40eea789e_n.jpg"
-    title: semterrinharsVI.jpg
-    $$hashKey: "416"
+- link: http://farm9.staticflickr.com/8591/15758691358_722d908239_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8591/15758691358_722d908239_t.jpg
+  medium: http://farm9.staticflickr.com/8591/15758691358_722d908239_z.jpg
+  small: http://farm9.staticflickr.com/8591/15758691358_722d908239_n.jpg
+  title: semterrinharsII.jpg
+  "$$hashKey": 40R
+- link: http://farm8.staticflickr.com/7493/15760078409_670d41d0f4_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7493/15760078409_670d41d0f4_t.jpg
+  medium: http://farm8.staticflickr.com/7493/15760078409_670d41d0f4_z.jpg
+  small: http://farm8.staticflickr.com/7493/15760078409_670d41d0f4_n.jpg
+  title: semterrinhars.jpg
+  "$$hashKey": 40U
+- link: http://farm8.staticflickr.com/7524/15945447862_da57e9a318_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7524/15945447862_da57e9a318_t.jpg
+  medium: http://farm8.staticflickr.com/7524/15945447862_da57e9a318_z.jpg
+  small: http://farm8.staticflickr.com/7524/15945447862_da57e9a318_n.jpg
+  title: semterrinharsIII.jpg
+  "$$hashKey": 40X
+- link: http://farm8.staticflickr.com/7486/15945452062_e650d004da_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7486/15945452062_e650d004da_t.jpg
+  medium: http://farm8.staticflickr.com/7486/15945452062_e650d004da_z.jpg
+  small: http://farm8.staticflickr.com/7486/15945452062_e650d004da_n.jpg
+  title: semterrinharsV.jpg
+  "$$hashKey": '410'
+- link: http://farm8.staticflickr.com/7559/15920321406_176ba20735_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7559/15920321406_176ba20735_t.jpg
+  medium: http://farm8.staticflickr.com/7559/15920321406_176ba20735_z.jpg
+  small: http://farm8.staticflickr.com/7559/15920321406_176ba20735_n.jpg
+  title: semterrinharsIV.jpg
+  "$$hashKey": '413'
+- link: http://farm8.staticflickr.com/7506/15760391187_b40eea789e_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7506/15760391187_b40eea789e_t.jpg
+  medium: http://farm8.staticflickr.com/7506/15760391187_b40eea789e_z.jpg
+  small: http://farm8.staticflickr.com/7506/15760391187_b40eea789e_n.jpg
+  title: semterrinharsVI.jpg
+  "$$hashKey": '416'
 published: true
-images_hd: "http://farm9.staticflickr.com/8591/15758691358_722d908239_n.jpg"
+images_hd: http://farm9.staticflickr.com/8591/15758691358_722d908239_n.jpg
 
 ---
 <p><img alt="semterrinharsII.jpg" src="http://farm9.staticflickr.com/8591/15758691358_722d908239_b.jpg" /></p>

@@ -5,9 +5,9 @@ legacy_url: http://www.mst.org.br/node/16264
 images: ''
 video: ''
 tags:
-- destaque: manchete
-- localização: são paulo
-- assuntos: despejo
+- tag: manchete
+- tag: são paulo
+- tag: despejo
 - tag: reforma agrária
 type: 
 support_line: Segundo o porta-voz do MST, Luciano Carvalho, a guarda municipal não

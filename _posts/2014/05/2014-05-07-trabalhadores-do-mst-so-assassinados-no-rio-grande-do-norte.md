@@ -6,7 +6,7 @@ images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/Brasi
   de Dorothy Stang por Jailson2.jpg
 video: ''
 tags:
-- assuntos: jornada de lutas abril 2014
+- tag: jornada de lutas abril 2014
 - tag: agronegócio
 type: news
 support_line: Francisco Fernandes e Francisco de Paiva estavam há oito meses ajudando

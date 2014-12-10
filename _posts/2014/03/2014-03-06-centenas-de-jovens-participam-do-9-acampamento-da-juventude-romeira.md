@@ -6,7 +6,7 @@ images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/CARTA
   ROMARIA DA TERRA.jpg
 video: ''
 tags:
-- localização: rio grande do sul
+- tag: rio grande do sul
 - tag: lutas e mobilizações
 type: news
 support_line: Mais de 530 jovens de diversos movimentos sociais se encontraram no  9º&nbsp;

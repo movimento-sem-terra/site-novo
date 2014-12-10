@@ -1,21 +1,22 @@
 ---
-date: "2014-12-02T16:16:49-02:00"
+date: '2014-12-02T16:16:49-02:00'
 tags:
-  - tag: Prêmio-Nobel-Alternativo
-title: "Ao receber Nobel alternativo, Snowden defende sociedade mais aberta e livre"
-support_line: "Ex-analista admitiu que é \"improvável\" que as mudanças que defende aconteçam em breve, e mostrou seu compromisso com essa luta."
+- tag: Prêmio-Nobel-Alternativo
+title: Ao receber Nobel alternativo, Snowden defende sociedade mais aberta e livre
+support_line: Ex-analista admitiu que é "improvável" que as mudanças que defende aconteçam
+  em breve, e mostrou seu compromisso com essa luta.
 menu: projeto popular
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7549/15951612586_0c70381a94_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7549/15951612586_0c70381a94_t.jpg"
-    medium: "http://farm8.staticflickr.com/7549/15951612586_0c70381a94_z.jpg"
-    small: "http://farm8.staticflickr.com/7549/15951612586_0c70381a94_n.jpg"
-    title: snowden.jpg
-    $$hashKey: 36S
-created_date: "2014-12-08T16:19:25-02:00"
+- link: http://farm8.staticflickr.com/7549/15951612586_0c70381a94_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7549/15951612586_0c70381a94_t.jpg
+  medium: http://farm8.staticflickr.com/7549/15951612586_0c70381a94_z.jpg
+  small: http://farm8.staticflickr.com/7549/15951612586_0c70381a94_n.jpg
+  title: snowden.jpg
+  "$$hashKey": 36S
+created_date: '2014-12-08T16:19:25-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7549/15951612586_0c70381a94_n.jpg"
+images_hd: http://farm8.staticflickr.com/7549/15951612586_0c70381a94_n.jpg
 
 ---
 <div id="content-header">

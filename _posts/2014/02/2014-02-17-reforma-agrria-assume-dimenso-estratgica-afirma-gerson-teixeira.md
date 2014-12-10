@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15732
 images: ''
 video: ''
 tags:
-- destaque: manchete
-- assuntos: reforma agrária
+- tag: manchete
+- tag: reforma agrária
 - tag: reforma agrária
 type: news
 support_line: "“Nos dias atuais, qualquer avaliação isenta e atenta conclui pela  relevância

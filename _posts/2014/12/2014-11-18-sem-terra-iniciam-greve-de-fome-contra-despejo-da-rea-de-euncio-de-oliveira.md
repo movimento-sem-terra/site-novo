@@ -1,23 +1,24 @@
 ---
-date: "2014-11-18T14:34:11-02:00"
+date: '2014-11-18T14:34:11-02:00'
 tags:
-  - tag: Goiás
-  - tag: Ocupação
-  - tag: Reforma-Agrária
+- tag: Goiás
+- tag: Ocupação
+- tag: Reforma-Agrária
 title: Sem Terra iniciam greve de fome contra despejo da área de Eunício de Oliveira
-support_line: "O acampamento está localizado em um dos 91 imóveis rurais que o Senador, Eunício Oliveira (PMDB-CE), possui no estado de Goiás."
+support_line: O acampamento está localizado em um dos 91 imóveis rurais que o Senador,
+  Eunício Oliveira (PMDB-CE), possui no estado de Goiás.
 menu: lutas e mobilizações
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7471/15952423182_4841c14d26_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7471/15952423182_4841c14d26_t.jpg"
-    medium: "http://farm8.staticflickr.com/7471/15952423182_4841c14d26_z.jpg"
-    small: "http://farm8.staticflickr.com/7471/15952423182_4841c14d26_n.jpg"
-    title: grevedefome.jpg
-    $$hashKey: 12Z
-created_date: "2014-12-05T14:40:54-02:00"
+- link: http://farm8.staticflickr.com/7471/15952423182_4841c14d26_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7471/15952423182_4841c14d26_t.jpg
+  medium: http://farm8.staticflickr.com/7471/15952423182_4841c14d26_z.jpg
+  small: http://farm8.staticflickr.com/7471/15952423182_4841c14d26_n.jpg
+  title: grevedefome.jpg
+  "$$hashKey": 12Z
+created_date: '2014-12-05T14:40:54-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7471/15952423182_4841c14d26_n.jpg"
+images_hd: http://farm8.staticflickr.com/7471/15952423182_4841c14d26_n.jpg
 
 ---
 <p><iframe allowfullscreen="" frameborder="0" height="281" mozallowfullscreen="" src="//player.vimeo.com/video/112237515" webkitallowfullscreen="" width="500"></iframe></p>

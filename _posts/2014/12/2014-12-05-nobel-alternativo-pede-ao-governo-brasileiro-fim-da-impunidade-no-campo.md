@@ -1,21 +1,22 @@
 ---
-date: "2014-12-05T13:21:50-02:00"
+date: '2014-12-05T13:21:50-02:00'
 tags:
-  - tag: Prêmio-Nobel-Alternativo
+- tag: Prêmio-Nobel-Alternativo
 title: Nobel Alternativo pede ao governo brasileiro fim da impunidade no campo
-support_line: "O MST e a CPT foram convidados. Na abertura, o fundador da Right Livelihood Award, citou os movimentos."
+support_line: O MST e a CPT foram convidados. Na abertura, o fundador da Right Livelihood
+  Award, citou os movimentos.
 menu: direitos humanos
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7545/15983267242_4bbe128f23_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7545/15983267242_4bbe128f23_t.jpg"
-    medium: "http://farm8.staticflickr.com/7545/15983267242_4bbe128f23_z.jpg"
-    small: "http://farm8.staticflickr.com/7545/15983267242_4bbe128f23_n.jpg"
-    title: premiacaonobelalternativo.jpg
-    $$hashKey: 17Y
-created_date: "2014-12-09T13:23:05-02:00"
+- link: http://farm8.staticflickr.com/7545/15983267242_4bbe128f23_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7545/15983267242_4bbe128f23_t.jpg
+  medium: http://farm8.staticflickr.com/7545/15983267242_4bbe128f23_z.jpg
+  small: http://farm8.staticflickr.com/7545/15983267242_4bbe128f23_n.jpg
+  title: premiacaonobelalternativo.jpg
+  "$$hashKey": 17Y
+created_date: '2014-12-09T13:23:05-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7545/15983267242_4bbe128f23_n.jpg"
+images_hd: http://farm8.staticflickr.com/7545/15983267242_4bbe128f23_n.jpg
 
 ---
 <p><img alt="premiacaonobelalternativo.jpg" src="http://farm8.staticflickr.com/7545/15983267242_4bbe128f23_b.jpg" /></p>

@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16142
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/cenan!.jpg
 video: ''
 tags:
-- assuntos: educação
-- localização: rio de janeiro
+- tag: educação
+- tag: rio de janeiro
 - tag: educação, cultura e comunicação
 type: news
 support_line: Cerca de 80 pessoas iniciaram a Especialização em Trabalho, Educação

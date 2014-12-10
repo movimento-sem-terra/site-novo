@@ -4,7 +4,7 @@ title: 'Carajás: 12 anos de impunidade'
 legacy_url: http://www.mst.org.br/node/96
 images: ''
 video: ''
-tags: []
+tags: 
 type: 
 support_line: ''
 section: 

@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16115
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/bdf.gif
 video: ''
 tags:
-- assuntos: questão agrária
-- tipo de matéria: entrevistas
+- tag: questão agrária
+- tag: entrevistas
 - tag: reforma agrária
 type: news
 support_line: Em entrevista, João Pedro Stedile fala sobre reforma agrária, Lula e

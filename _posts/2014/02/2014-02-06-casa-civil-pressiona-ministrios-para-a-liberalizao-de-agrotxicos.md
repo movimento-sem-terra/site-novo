@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15677
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/ag!.jpg
 video: ''
 tags:
-- assuntos: agrotóxicos
+- tag: agrotóxicos
 - tag: agronegócio
 type: news
 support_line: Em entrevista, o professor da UnB, Fernando Carneiro, fala como a  "Casa

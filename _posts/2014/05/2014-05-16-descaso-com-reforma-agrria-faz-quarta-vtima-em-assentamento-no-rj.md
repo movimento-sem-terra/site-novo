@@ -6,8 +6,8 @@ images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/mulhe
   assassinada!.jpg
 video: ''
 tags:
-- localização: rio de janeiro
-- assuntos: direitos humanos
+- tag: rio de janeiro
+- tag: direitos humanos
 - tag: direitos humanos
 type: 
 support_line: Gilcilane Paes Pereira, 44 anos, assentada no Zumbi dos Palmares, em

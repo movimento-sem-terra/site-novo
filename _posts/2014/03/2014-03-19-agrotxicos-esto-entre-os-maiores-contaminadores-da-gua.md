@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15863
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/sabesp-033-600x380.jpg
 video: ''
 tags:
-- assuntos: agrotóxicos
+- tag: agrotóxicos
 - tag: agronegócio
 type: news
 support_line: Agrotóxicos,  metais pesados e substâncias que imitam hormônios podem

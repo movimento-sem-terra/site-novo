@@ -1,22 +1,23 @@
 ---
-date: "2014-12-08T13:51:08-02:00"
+date: '2014-12-08T13:51:08-02:00'
 tags:
-  - tag: Paraná
-  - tag: Educação
+- tag: Paraná
+- tag: Educação
 title: Justiça proíbe Estado de fechar escola rural no Paraná
-support_line: "Segundo a Promotoria, medida contraria a Lei que estabelece que fechamento de escolas do campo depende da análise do diagnóstico do impacto da ação."
-menu: "educação, cultura e comunicação"
+support_line: Segundo a Promotoria, medida contraria a Lei que estabelece que fechamento
+  de escolas do campo depende da análise do diagnóstico do impacto da ação.
+menu: educação, cultura e comunicação
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7480/15982133071_13c9e6f312_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7480/15982133071_13c9e6f312_t.jpg"
-    medium: "http://farm8.staticflickr.com/7480/15982133071_13c9e6f312_z.jpg"
-    small: "http://farm8.staticflickr.com/7480/15982133071_13c9e6f312_n.jpg"
-    title: Cartaz_Final_fechar_escola.jpg
-    $$hashKey: 1YE
-created_date: "2014-12-09T13:55:36-02:00"
+- link: http://farm8.staticflickr.com/7480/15982133071_13c9e6f312_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7480/15982133071_13c9e6f312_t.jpg
+  medium: http://farm8.staticflickr.com/7480/15982133071_13c9e6f312_z.jpg
+  small: http://farm8.staticflickr.com/7480/15982133071_13c9e6f312_n.jpg
+  title: Cartaz_Final_fechar_escola.jpg
+  "$$hashKey": 1YE
+created_date: '2014-12-09T13:55:36-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7480/15982133071_13c9e6f312_n.jpg"
+images_hd: http://farm8.staticflickr.com/7480/15982133071_13c9e6f312_n.jpg
 
 ---
 <div id="content-header">

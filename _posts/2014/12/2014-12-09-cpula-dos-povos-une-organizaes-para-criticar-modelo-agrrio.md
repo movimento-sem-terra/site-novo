@@ -1,25 +1,26 @@
 ---
-date: "2014-12-09T17:23:24-02:00"
+date: '2014-12-09T17:23:24-02:00'
 tags:
-  - tag: Cúpula-dos-povos
-  - tag: clima
-  - tag: meio-ambiente
-  - tag: Cop-20
+- tag: Cúpula-dos-povos
+- tag: clima
+- tag: meio-ambiente
+- tag: Cop-20
 title: Cúpula dos Povos une organizações para criticar modelo agrário
-support_line: "Movimentos sociais, campesinos e indígenas se reuniram em Lima para traçar um paralelo à conferência sobre as Mudanças Climáticas da ONU."
+support_line: Movimentos sociais, campesinos e indígenas se reuniram em Lima para
+  traçar um paralelo à conferência sobre as Mudanças Climáticas da ONU.
 menu: solidariedade
 label: articles
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7465/15799342539_2b932d3214_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7465/15799342539_2b932d3214_t.jpg"
-    medium: "http://farm8.staticflickr.com/7465/15799342539_2b932d3214_z.jpg"
-    small: "http://farm8.staticflickr.com/7465/15799342539_2b932d3214_n.jpg"
-    title: cupula.jpg
-    $$hashKey: 0XK
-created_date: "2014-12-09T17:25:22-02:00"
+- link: http://farm8.staticflickr.com/7465/15799342539_2b932d3214_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7465/15799342539_2b932d3214_t.jpg
+  medium: http://farm8.staticflickr.com/7465/15799342539_2b932d3214_z.jpg
+  small: http://farm8.staticflickr.com/7465/15799342539_2b932d3214_n.jpg
+  title: cupula.jpg
+  "$$hashKey": 0XK
+created_date: '2014-12-09T17:25:22-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7465/15799342539_2b932d3214_n.jpg"
+images_hd: http://farm8.staticflickr.com/7465/15799342539_2b932d3214_n.jpg
 
 ---
 <p><img alt="cupula.jpg" src="http://farm8.staticflickr.com/7465/15799342539_2b932d3214_b.jpg" /></p>

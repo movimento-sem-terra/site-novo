@@ -6,9 +6,9 @@ legacy_url: http://www.mst.org.br/node/15820
 images: ''
 video: ''
 tags:
-- destaque: manchete
-- localização: pernambuco
-- assuntos: jornada de luta das mulheres 2014
+- tag: manchete
+- tag: pernambuco
+- tag: jornada de luta das mulheres 2014
 - tag: lutas e mobilizações
 type: news
 support_line: As mulheres exigem que a Codevasf seja a adutora para o  abastecimento

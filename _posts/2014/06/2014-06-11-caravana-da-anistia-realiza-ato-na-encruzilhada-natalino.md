@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/16212
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/natalino.jpg
 video: ''
 tags:
-- localização: rio grande do sul
+- tag: rio grande do sul
 - tag: reforma agrária
 type: news
 support_line: Atividade, que acontece no local onde originou o MST, presta homenagem

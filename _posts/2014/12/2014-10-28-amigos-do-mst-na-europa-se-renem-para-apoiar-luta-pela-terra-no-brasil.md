@@ -1,23 +1,24 @@
 ---
-date: "2014-10-28T17:08:50-02:00"
+date: '2014-10-28T17:08:50-02:00'
 tags:
-  - tag: encontro
-  - tag: MST
-  - tag: agronegócio
-  - tag: eucalipto
+- tag: encontro
+- tag: MST
+- tag: agronegócio
+- tag: eucalipto
 title: Amigos do MST na Europa se reúnem para apoiar luta pela terra no Brasil
-support_line: Encontro analisou a situação do campo brasileiro e pensou em formas de apoiar a luta do Movimento na Europa.
+support_line: Encontro analisou a situação do campo brasileiro e pensou em formas
+  de apoiar a luta do Movimento na Europa.
 menu: solidariedade
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7470/15324838904_381e29d6f0_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7470/15324838904_381e29d6f0_t.jpg"
-    medium: "http://farm8.staticflickr.com/7470/15324838904_381e29d6f0_z.jpg"
-    small: "http://farm8.staticflickr.com/7470/15324838904_381e29d6f0_n.jpg"
-    title: bdf_3.gif
-    $$hashKey: 3RD
+- link: http://farm8.staticflickr.com/7470/15324838904_381e29d6f0_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7470/15324838904_381e29d6f0_t.jpg
+  medium: http://farm8.staticflickr.com/7470/15324838904_381e29d6f0_z.jpg
+  small: http://farm8.staticflickr.com/7470/15324838904_381e29d6f0_n.jpg
+  title: bdf_3.gif
+  "$$hashKey": 3RD
 published: true
-images_hd: "http://farm8.staticflickr.com/7470/15324838904_381e29d6f0_n.jpg"
+images_hd: http://farm8.staticflickr.com/7470/15324838904_381e29d6f0_n.jpg
 
 ---
 <p><em>Dos Amigos do MST nos EUA</em><br />

@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/16229
 images: ''
 video: ''
 tags:
-- assuntos: homenagem
+- tag: homenagem
 type: 
 support_line: 'Perdemos uma genial mulher de visão antecipadora: Rose Marie Muraro.&nbsp;Mulher
   fora de todos os parâmetros, lúcida, implacável e sempre atualizada, leitora incansável,

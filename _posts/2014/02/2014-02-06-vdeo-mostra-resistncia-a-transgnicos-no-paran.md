@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15676
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/video.jpg
 video: ''
 tags:
-- destaque: destaque
-- assuntos: agroecologia
+- tag: destaque
+- tag: agroecologia
 - tag: transgênicos
 type: news
 support_line: ''

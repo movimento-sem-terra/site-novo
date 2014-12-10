@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15898
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/indios!.jpg
 video: ''
 tags:
-- assuntos: direitos humanos
+- tag: direitos humanos
 - tag: direitos humanos
 type: news
 support_line: Levantamento sobre inconsequentes ações dos governos militares faz parte

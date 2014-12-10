@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15660
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/bancada-ruralista!.jpg
 video: ''
 tags:
-- assuntos: reforma agrária
+- tag: reforma agrária
 - tag: reforma agrária
 type: news
 support_line: Em entrevista, Stedile afirma que é necessário realizar mudanças, barrar  o

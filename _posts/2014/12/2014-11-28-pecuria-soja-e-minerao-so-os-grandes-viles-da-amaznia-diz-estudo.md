@@ -1,23 +1,25 @@
 ---
-date: "2014-11-28T15:34:01-02:00"
+date: '2014-11-28T15:34:01-02:00'
 tags:
-  - tag: Agronegócio
-  - tag: Amazônia
-  - tag: Desmatamento
-title: "Pecuária, soja e mineração são os grandes vilões da Amazônia, diz estudo"
-support_line: "O estudo revelou que 60% da área desmatada na região foi convertida em pasto, um total de 450,8 mil quilômetros quadrados, 7,5% se tornou área de mineração 5,6% soja."
+- tag: Agronegócio
+- tag: Amazônia
+- tag: Desmatamento
+title: Pecuária, soja e mineração são os grandes vilões da Amazônia, diz estudo
+support_line: O estudo revelou que 60% da área desmatada na região foi convertida
+  em pasto, um total de 450,8 mil quilômetros quadrados, 7,5% se tornou área de mineração
+  5,6% soja.
 menu: meio ambiente
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8679/15789705808_1dab3afa4e_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8679/15789705808_1dab3afa4e_t.jpg"
-    medium: "http://farm9.staticflickr.com/8679/15789705808_1dab3afa4e_z.jpg"
-    small: "http://farm9.staticflickr.com/8679/15789705808_1dab3afa4e_n.jpg"
-    title: febreaftosa.jpg
-    $$hashKey: 1DO
-created_date: "2014-12-08T15:35:48-02:00"
+- link: http://farm9.staticflickr.com/8679/15789705808_1dab3afa4e_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8679/15789705808_1dab3afa4e_t.jpg
+  medium: http://farm9.staticflickr.com/8679/15789705808_1dab3afa4e_z.jpg
+  small: http://farm9.staticflickr.com/8679/15789705808_1dab3afa4e_n.jpg
+  title: febreaftosa.jpg
+  "$$hashKey": 1DO
+created_date: '2014-12-08T15:35:48-02:00'
 published: true
-images_hd: "http://farm9.staticflickr.com/8679/15789705808_1dab3afa4e_n.jpg"
+images_hd: http://farm9.staticflickr.com/8679/15789705808_1dab3afa4e_n.jpg
 
 ---
 <div id="content-header">

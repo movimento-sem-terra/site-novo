@@ -5,9 +5,9 @@ legacy_url: http://www.mst.org.br/node/15988
 images: http://www.mst.org.br/sites/default/files/jp.jpeg
 video: ''
 tags:
-- tipo de matéria: entrevistas
-- destaque: manchete
-- assuntos: reforma agrária
+- tag: entrevistas
+- tag: manchete
+- tag: reforma agrária
 - tag: projeto popular
 type: news
 support_line: Para ele, a reforma agrária popular sairá apenas com a aliança entre

@@ -1,22 +1,23 @@
 ---
-date: "2014-11-07T13:07:34-02:00"
+date: '2014-11-07T13:07:34-02:00'
 tags:
-  - tag: Alimentação
-  - tag: Saúde
+- tag: Alimentação
+- tag: Saúde
 title: Ministério da Saúde lança ‘Guia Alimentar para a População Brasileira’
-support_line: "A intenção do Guia Alimentar é promover a saúde e a boa alimentação, combatendo a desnutrição, em forte declínio em todo o país."
+support_line: A intenção do Guia Alimentar é promover a saúde e a boa alimentação,
+  combatendo a desnutrição, em forte declínio em todo o país.
 menu: agricultura camponesa
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7466/15926780256_37b156de0e_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7466/15926780256_37b156de0e_t.jpg"
-    medium: "http://farm8.staticflickr.com/7466/15926780256_37b156de0e_z.jpg"
-    small: "http://farm8.staticflickr.com/7466/15926780256_37b156de0e_n.jpg"
-    title: novo-guia-alimentar-para-a-populacao-brasileira.jpg
-    $$hashKey: "131"
-created_date: "2014-12-05T13:09:42-02:00"
+- link: http://farm8.staticflickr.com/7466/15926780256_37b156de0e_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7466/15926780256_37b156de0e_t.jpg
+  medium: http://farm8.staticflickr.com/7466/15926780256_37b156de0e_z.jpg
+  small: http://farm8.staticflickr.com/7466/15926780256_37b156de0e_n.jpg
+  title: novo-guia-alimentar-para-a-populacao-brasileira.jpg
+  "$$hashKey": '131'
+created_date: '2014-12-05T13:09:42-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7466/15926780256_37b156de0e_n.jpg"
+images_hd: http://farm8.staticflickr.com/7466/15926780256_37b156de0e_n.jpg
 
 ---
 <div id="content-header">

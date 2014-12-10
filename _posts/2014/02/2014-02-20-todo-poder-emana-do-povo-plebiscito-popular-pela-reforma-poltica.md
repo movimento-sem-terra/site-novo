@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15759
 images: ''
 video: TvvIl-3iPc4
 tags:
-- destaque: destaque
-- assuntos: plebiscito
+- tag: destaque
+- tag: plebiscito
 - tag: projeto popular
 type: video
 menu: projeto popular

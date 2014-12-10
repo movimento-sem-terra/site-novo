@@ -1,23 +1,24 @@
 ---
-date: "2014-12-03T16:48:41-02:00"
+date: '2014-12-03T16:48:41-02:00'
 tags:
-  - tag: São-Paulo
-  - tag: Agrotóxicos
-  - tag: Agronegócio
+- tag: São-Paulo
+- tag: Agrotóxicos
+- tag: Agronegócio
 title: Movimentos fazem atividade para alertar população de SP contra agrotóxicos
-support_line: "Brasil é o país que mais consome agrotóxicos e sementes transgênicas. População é diariamente envenenada através da água, do solo e dos alimentos."
+support_line: Brasil é o país que mais consome agrotóxicos e sementes transgênicas.
+  População é diariamente envenenada através da água, do solo e dos alimentos.
 menu: lutas e mobilizações
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7568/15790218578_445d8fa0c0_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7568/15790218578_445d8fa0c0_t.jpg"
-    medium: "http://farm8.staticflickr.com/7568/15790218578_445d8fa0c0_z.jpg"
-    small: "http://farm8.staticflickr.com/7568/15790218578_445d8fa0c0_n.jpg"
-    title: Protesto-contra-o-uso-de-agrotoxicos.jpg
-    $$hashKey: 45B
-created_date: "2014-12-08T16:53:35-02:00"
+- link: http://farm8.staticflickr.com/7568/15790218578_445d8fa0c0_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7568/15790218578_445d8fa0c0_t.jpg
+  medium: http://farm8.staticflickr.com/7568/15790218578_445d8fa0c0_z.jpg
+  small: http://farm8.staticflickr.com/7568/15790218578_445d8fa0c0_n.jpg
+  title: Protesto-contra-o-uso-de-agrotoxicos.jpg
+  "$$hashKey": 45B
+created_date: '2014-12-08T16:53:35-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7568/15790218578_445d8fa0c0_n.jpg"
+images_hd: http://farm8.staticflickr.com/7568/15790218578_445d8fa0c0_n.jpg
 
 ---
 <div id="content-header">

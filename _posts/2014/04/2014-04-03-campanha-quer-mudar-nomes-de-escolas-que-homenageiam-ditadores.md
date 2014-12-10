@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15920
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/campanhalevante1-1!.png
 video: ''
 tags:
-- assuntos: ditadura
+- tag: ditadura
 - tag: direitos humanos
 type: news
 support_line: De acordo com o Inep, 976 escolas públicas têm nomes de presidentes

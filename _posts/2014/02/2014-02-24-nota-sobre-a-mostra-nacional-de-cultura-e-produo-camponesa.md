@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15767
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/mst 302.jpg
 video: ''
 tags:
-- destaque: manchete
+- tag: manchete
 - tag: reforma agrária
 type: news
 support_line: Veja nota do MST sobre&nbsp;a matéria “ BNDES liberou R$ 350 mil a evento

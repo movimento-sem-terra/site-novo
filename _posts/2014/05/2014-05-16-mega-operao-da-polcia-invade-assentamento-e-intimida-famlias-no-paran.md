@@ -5,9 +5,9 @@ legacy_url: http://www.mst.org.br/node/16113
 images: ''
 video: eWqTda6PTM8
 tags:
-- destaque: manchete
-- localização: paraná
-- assuntos: latifúndio
+- tag: manchete
+- tag: paraná
+- tag: latifúndio
 - tag: direitos humanos
 type: video
 support_line: Os Sem Terra acreditam que a ação se deve ao fato do MST estar organizando

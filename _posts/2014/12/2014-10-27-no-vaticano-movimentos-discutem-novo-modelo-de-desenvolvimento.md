@@ -1,21 +1,22 @@
 ---
-date: "2014-10-27T16:30:18-02:00"
+date: '2014-10-27T16:30:18-02:00'
 tags:
-  - tag: Papa-Francisco
-  - tag: movimentos-sociais
-title: "No Vaticano, movimentos discutem novo modelo de desenvolvimento"
+- tag: Papa-Francisco
+- tag: movimentos-sociais
+title: No Vaticano, movimentos discutem novo modelo de desenvolvimento
 menu: projeto popular
-support_line: "O evento é considerado por seus participantes como algo sem precedentes, pois ocorre no Vaticano, com a participação de diversos movimentos sociais e bispos."
+support_line: O evento é considerado por seus participantes como algo sem precedentes,
+  pois ocorre no Vaticano, com a participação de diversos movimentos sociais e bispos.
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8591/15759481068_e5e82e3e5e_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8591/15759481068_e5e82e3e5e_t.jpg"
-    medium: "http://farm9.staticflickr.com/8591/15759481068_e5e82e3e5e_z.jpg"
-    small: "http://farm9.staticflickr.com/8591/15759481068_e5e82e3e5e_n.jpg"
-    title: papa-francisco.jpg
-    $$hashKey: 99V
+- link: http://farm9.staticflickr.com/8591/15759481068_e5e82e3e5e_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8591/15759481068_e5e82e3e5e_t.jpg
+  medium: http://farm9.staticflickr.com/8591/15759481068_e5e82e3e5e_z.jpg
+  small: http://farm9.staticflickr.com/8591/15759481068_e5e82e3e5e_n.jpg
+  title: papa-francisco.jpg
+  "$$hashKey": 99V
 published: true
-images_hd: "http://farm9.staticflickr.com/8591/15759481068_e5e82e3e5e_n.jpg"
+images_hd: http://farm9.staticflickr.com/8591/15759481068_e5e82e3e5e_n.jpg
 
 ---
 <div id="content-header">

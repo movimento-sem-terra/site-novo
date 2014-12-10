@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15082
 images: ''
 video: 73Y4AGm5gW0
 tags:
-- destaque: destaque
+- tag: destaque
 - tag: projeto popular
 type: video
 support_line: ''

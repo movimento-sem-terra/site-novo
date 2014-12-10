@@ -1,22 +1,23 @@
 ---
-date: "2014-11-13T13:47:22-02:00"
+date: '2014-11-13T13:47:22-02:00'
 tags:
-  - tag: Constituinte
-  - tag: Reforma-Política
+- tag: Constituinte
+- tag: Reforma-Política
 title: Movimentos se unem em Dia Nacional de Luta pelo Plebiscito Constituinte
 menu: lutas e mobilizações
-support_line: "O ato demonstra a força dos movimentos na luta pela Constituinte, a única maneira de conseguir as demais reformas estruturais no Brasil."
+support_line: O ato demonstra a força dos movimentos na luta pela Constituinte, a
+  única maneira de conseguir as demais reformas estruturais no Brasil.
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7541/15952143672_46a2681db0_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7541/15952143672_46a2681db0_t.jpg"
-    medium: "http://farm8.staticflickr.com/7541/15952143672_46a2681db0_z.jpg"
-    small: "http://farm8.staticflickr.com/7541/15952143672_46a2681db0_n.jpg"
-    title: constituintejá.jpg
-    $$hashKey: 2Z7
-created_date: "2014-12-05T13:51:08-02:00"
+- link: http://farm8.staticflickr.com/7541/15952143672_46a2681db0_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7541/15952143672_46a2681db0_t.jpg
+  medium: http://farm8.staticflickr.com/7541/15952143672_46a2681db0_z.jpg
+  small: http://farm8.staticflickr.com/7541/15952143672_46a2681db0_n.jpg
+  title: constituintejá.jpg
+  "$$hashKey": 2Z7
+created_date: '2014-12-05T13:51:08-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7541/15952143672_46a2681db0_n.jpg"
+images_hd: http://farm8.staticflickr.com/7541/15952143672_46a2681db0_n.jpg
 
 ---
 <div id="content-header">

@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16085
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/Monsanto_Por-Latuff!.jpg
 video: ''
 tags:
-- assuntos: agronegócio
-- tipo de matéria: artigos
+- tag: agronegócio
+- tag: artigos
 - tag: agronegócio
 type: news
 support_line: Transnacional foca atuação no Brasil e lança “nova” variedade de soja

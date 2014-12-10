@@ -5,9 +5,9 @@ legacy_url: http://www.mst.org.br/node/15798
 images: ''
 video: jMeFLaPZNHE
 tags:
-- assuntos: cultura
-- localização: são paulo
-- destaque: destaque
+- tag: cultura
+- tag: são paulo
+- tag: destaque
 - tag: educação, cultura e comunicação
 type: video
 support_line: ''

@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16220
 images: http://farm3.staticflickr.com/2907/14494652109_2a166e565c_b.jpg
 video: ''
 tags:
-- assuntos: trabalho escravo
-- tipo de matéria: artigos
+- tag: trabalho escravo
+- tag: artigos
 - tag: direitos humanos
 type: 
 support_line: “O discurso no Congresso esconde o fato de que parte dos parlamentares

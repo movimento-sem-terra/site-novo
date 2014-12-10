@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16100
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/MST LGBTabre.JPG
 video: ''
 tags:
-- localização: bahia
-- assuntos: jornada de lutas abril 2014
+- tag: bahia
+- tag: jornada de lutas abril 2014
 - tag: lutas e mobilizações
 type: news
 support_line: Jovens trazem reflexão sobre  os diversos tipos de violência cometidas

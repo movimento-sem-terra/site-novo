@@ -1,22 +1,23 @@
 ---
-date: "2014-11-10T13:18:18-02:00"
+date: '2014-11-10T13:18:18-02:00'
 tags:
-  - tag: Educação
-  - tag: Paraná
+- tag: Educação
+- tag: Paraná
 title: O Assentamento Oito de Junho e a Universidade
 menu: reforma agrária
-support_line: "“A UFFS é fruto dos movimentos, pois nosso desafio era construir uma universidade pública, democrática e popular”."
+support_line: "“A UFFS é fruto dos movimentos, pois nosso desafio era construir uma
+  universidade pública, democrática e popular”."
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7468/15951965272_cf2d1e760a_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7468/15951965272_cf2d1e760a_t.jpg"
-    medium: "http://farm8.staticflickr.com/7468/15951965272_cf2d1e760a_z.jpg"
-    small: "http://farm8.staticflickr.com/7468/15951965272_cf2d1e760a_n.jpg"
-    title: uni.jpg
-    $$hashKey: 1LJ
-created_date: "2014-12-05T13:20:48-02:00"
+- link: http://farm8.staticflickr.com/7468/15951965272_cf2d1e760a_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7468/15951965272_cf2d1e760a_t.jpg
+  medium: http://farm8.staticflickr.com/7468/15951965272_cf2d1e760a_z.jpg
+  small: http://farm8.staticflickr.com/7468/15951965272_cf2d1e760a_n.jpg
+  title: uni.jpg
+  "$$hashKey": 1LJ
+created_date: '2014-12-05T13:20:48-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7468/15951965272_cf2d1e760a_n.jpg"
+images_hd: http://farm8.staticflickr.com/7468/15951965272_cf2d1e760a_n.jpg
 
 ---
 <div id="content-header">

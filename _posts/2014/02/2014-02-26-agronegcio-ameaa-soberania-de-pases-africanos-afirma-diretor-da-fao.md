@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15773
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/moçambique.jpg
 video: ''
 tags:
-- assuntos: agronegócio
+- tag: agronegócio
 - tag: agronegócio
 type: news
 support_line: O diretor-geral da FAO, o brasileiro José Graziano da Silva, alertou

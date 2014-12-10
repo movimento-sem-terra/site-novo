@@ -6,9 +6,9 @@ images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/camar
   anos!.jpg
 video: ''
 tags:
-- congresso: '6'
-- assuntos: 6° congresso nacional
-- semana: tema da semana
+- tag: '6'
+- tag: 6° congresso nacional
+- tag: tema da semana
 - tag: reforma agrária
 type: news
 support_line: Na tarde desta quarta, o Plenário 1 da Câmara dos Deputados recebeu

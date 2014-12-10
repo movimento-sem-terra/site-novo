@@ -1,23 +1,26 @@
 ---
-date: "2014-10-31T10:49:14-02:00"
+date: '2014-10-31T10:49:14-02:00'
 tags:
-  - tag: Movimentos-sociais
-  - tag: Eleições
+- tag: Movimentos-sociais
+- tag: Eleições
 title: Movimentos prometem intensificar cobranças sobre governo e Parlamento
 hat: Mobilizações
 menu: lutas e mobilizações
-support_line: "Independentemente do apoio dado durante o pleito, organizações sociais prometem intensificar a vigilância e a pressão sobre a presidenta reeleita Dilma Rousseff, sobre governadores e parlamentares para evitar “retrocessos em direitos sociais”."
+support_line: Independentemente do apoio dado durante o pleito, organizações sociais
+  prometem intensificar a vigilância e a pressão sobre a presidenta reeleita Dilma
+  Rousseff, sobre governadores e parlamentares para evitar “retrocessos em direitos
+  sociais”.
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7549/15951876275_2a5d441af1_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7549/15951876275_2a5d441af1_t.jpg"
-    medium: "http://farm8.staticflickr.com/7549/15951876275_2a5d441af1_z.jpg"
-    small: "http://farm8.staticflickr.com/7549/15951876275_2a5d441af1_n.jpg"
-    title: mst3 poderes.jpg
-    $$hashKey: 1EX
-created_date: "2014-12-05T10:54:12-02:00"
+- link: http://farm8.staticflickr.com/7549/15951876275_2a5d441af1_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7549/15951876275_2a5d441af1_t.jpg
+  medium: http://farm8.staticflickr.com/7549/15951876275_2a5d441af1_z.jpg
+  small: http://farm8.staticflickr.com/7549/15951876275_2a5d441af1_n.jpg
+  title: mst3 poderes.jpg
+  "$$hashKey": 1EX
+created_date: '2014-12-05T10:54:12-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7549/15951876275_2a5d441af1_n.jpg"
+images_hd: http://farm8.staticflickr.com/7549/15951876275_2a5d441af1_n.jpg
 
 ---
 <p><br />

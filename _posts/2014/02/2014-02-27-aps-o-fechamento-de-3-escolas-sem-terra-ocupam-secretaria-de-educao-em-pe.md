@@ -6,8 +6,8 @@ legacy_url: http://www.mst.org.br/node/15781
 images: ''
 video: ''
 tags:
-- destaque: manchete
-- assuntos: educação
+- tag: manchete
+- tag: educação
 - tag: educação, cultura e comunicação
 type: news
 support_line: 600 Sem Terra ocuparam a Secretaria de Educação em  Santa Maria (PE)

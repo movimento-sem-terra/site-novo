@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15840
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/indios!.jpg
 video: ''
 tags:
-- localização: bahia
-- assuntos: violência
+- tag: bahia
+- tag: violência
 - tag: direitos humanos
 type: news
 support_line: '“Foi um massacre. Queimaram tudo o que estava dentro das casas: roupa,  comida,

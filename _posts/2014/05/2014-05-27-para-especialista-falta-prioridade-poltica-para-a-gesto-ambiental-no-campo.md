@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/16160
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/desmatamento.jpg
 video: ''
 tags:
-- assuntos: código florestal
+- tag: código florestal
 - tag: meio ambiente
 type: 
 support_line: "“A falta de comprometimento do Poder Público com a implantação de um

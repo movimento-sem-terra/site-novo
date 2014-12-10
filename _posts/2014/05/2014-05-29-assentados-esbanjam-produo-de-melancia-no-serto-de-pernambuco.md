@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16163
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/produção_melancia_PE!.jpg
 video: ''
 tags:
-- localização: pernambuco
-- assuntos: produção
+- tag: pernambuco
+- tag: produção
 - tag: agricultura camponesa
 type: news
 support_line: Em apenas três meses de trabalho, a produção de 75 famílias assentadas

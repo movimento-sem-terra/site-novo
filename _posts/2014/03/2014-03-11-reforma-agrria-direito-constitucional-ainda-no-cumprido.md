@@ -6,7 +6,7 @@ images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/justi
   social!.jpg
 video: ''
 tags:
-- assuntos: reforma agrária
+- tag: reforma agrária
 - tag: reforma agrária
 type: news
 support_line: Vinte e cinco anos se passaram da Constituição, mas pouco ou nada  foi

@@ -6,8 +6,8 @@ images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/sess]
   especail_BA.jpg
 video: ''
 tags:
-- localização: bahia
-- assuntos: homenagem
+- tag: bahia
+- tag: homenagem
 - tag: reforma agrária
 type: news
 support_line: Em homenagem aos 30 anos do MST, completados neste ano, a Assembleia

@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/16145
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/curso-residencia-agraria.jpg
 video: ''
 tags:
-- assuntos: residência agrária
+- tag: residência agrária
 - tag: educação, cultura e comunicação
 type: news
 support_line: Os beneficiários da Reforma Agrária e remanescentes de quilombos têm

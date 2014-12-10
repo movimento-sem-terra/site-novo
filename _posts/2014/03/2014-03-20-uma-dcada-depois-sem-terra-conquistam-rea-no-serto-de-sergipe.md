@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15869
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/novo sonho_SE.jpg
 video: ''
 tags:
-- localização: sergipe
-- assuntos: reforma agrária
+- tag: sergipe
+- tag: reforma agrária
 - tag: reforma agrária
 type: news
 support_line: As famílias comemorassem a conquista da Fazenda Santa Maria, localizada

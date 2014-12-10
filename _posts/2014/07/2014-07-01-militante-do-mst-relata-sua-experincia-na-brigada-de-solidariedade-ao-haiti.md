@@ -5,9 +5,9 @@ legacy_url: http://www.mst.org.br/node/16258
 images: http://farm4.staticflickr.com/3890/14681106822_a934179e35_t.jpg
 video: ''
 tags:
-- tipo de matéria: entrevistas
-- destaque: manchete
-- assuntos: haiti
+- tag: entrevistas
+- tag: manchete
+- tag: haiti
 - tag: internacional
 type: 
 support_line: Leonel critica o papel de ONGs, do estado haitiano e analisa a Missão

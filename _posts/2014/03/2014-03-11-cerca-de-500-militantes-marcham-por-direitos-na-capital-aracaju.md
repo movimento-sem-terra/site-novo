@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15830
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/8 de março_SE_II!.jpg
 video: ''
 tags:
-- localização: sergipe
-- assuntos: jornada de luta das mulheres 2014
+- tag: sergipe
+- tag: jornada de luta das mulheres 2014
 - tag: lutas e mobilizações
 type: news
 support_line: As militantes reivindicaram o fim das violências sofridas pelas mulheres,

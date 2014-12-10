@@ -1,24 +1,25 @@
 ---
-date: "2014-11-04T13:20:10-02:00"
+date: '2014-11-04T13:20:10-02:00'
 tags:
-  - tag: entrevista
-  - tag: golpe-militar
-  - tag: CNV
-  - tag: memória-e-verdade
+- tag: entrevista
+- tag: golpe-militar
+- tag: CNV
+- tag: memória-e-verdade
 title: O golpe civil-militar e os 1.196 camponeses mortos pela ditadura
 menu: direitos humanos
-support_line: "Ao longo de toda a história, camponeses e indígenas foram subjugados em torno desse processo."
+support_line: Ao longo de toda a história, camponeses e indígenas foram subjugados
+  em torno desse processo.
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7500/15766644719_26d3b7fc70_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7500/15766644719_26d3b7fc70_t.jpg"
-    medium: "http://farm8.staticflickr.com/7500/15766644719_26d3b7fc70_z.jpg"
-    small: "http://farm8.staticflickr.com/7500/15766644719_26d3b7fc70_n.jpg"
-    title: Índice.jpg
-    $$hashKey: 35Q
-created_date: "2014-12-05T13:29:59-02:00"
+- link: http://farm8.staticflickr.com/7500/15766644719_26d3b7fc70_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7500/15766644719_26d3b7fc70_t.jpg
+  medium: http://farm8.staticflickr.com/7500/15766644719_26d3b7fc70_z.jpg
+  small: http://farm8.staticflickr.com/7500/15766644719_26d3b7fc70_n.jpg
+  title: "Índice.jpg"
+  "$$hashKey": 35Q
+created_date: '2014-12-05T13:29:59-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7500/15766644719_26d3b7fc70_n.jpg"
+images_hd: http://farm8.staticflickr.com/7500/15766644719_26d3b7fc70_n.jpg
 
 ---
 <p><em>Da P&aacute;gina do MST</em></p>

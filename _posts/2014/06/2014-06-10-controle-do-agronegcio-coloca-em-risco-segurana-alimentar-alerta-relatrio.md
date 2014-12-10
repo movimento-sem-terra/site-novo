@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/16204
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/portinario2.jpg
 video: ''
 tags:
-- assuntos: agronegócio
+- tag: agronegócio
 - tag: agronegócio
 type: news
 support_line: Três empresas controlam 53% do mercado mundial de sementes, seis empresas

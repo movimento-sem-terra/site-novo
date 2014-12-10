@@ -6,9 +6,9 @@ images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/Fazae
   Santa Tereza!.jpg
 video: ''
 tags:
-- destaque: manchete
-- localização: pará
-- assuntos: ocupação
+- tag: manchete
+- tag: pará
+- tag: ocupação
 - tag: lutas e mobilizações
 type: news
 support_line: José Batista Afonso, advogado da CPT em Marabá, destaca as principais

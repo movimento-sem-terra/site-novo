@@ -1,25 +1,26 @@
 ---
-date: "2014-11-05T13:16:27-02:00"
+date: '2014-11-05T13:16:27-02:00'
 tags:
-  - tag: Reforma-Agrária
-  - tag: Paraná
-  - tag: Educação
-  - tag: Assentamento-Celso-Furtado
+- tag: Reforma-Agrária
+- tag: Paraná
+- tag: Educação
+- tag: Assentamento-Celso-Furtado
 menu: reforma agrária
-support_line: O Assentamento Celso Furtado é um retrato de corpo inteiro do que poderia ser o campo brasileiro.
+support_line: O Assentamento Celso Furtado é um retrato de corpo inteiro do que poderia
+  ser o campo brasileiro.
 hat: Reforma Agrária
-title: "Brava gente assentada: o assentamento Celso Furtado"
+title: 'Brava gente assentada: o assentamento Celso Furtado'
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7498/15951952222_188f2babf0_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7498/15951952222_188f2babf0_t.jpg"
-    medium: "http://farm8.staticflickr.com/7498/15951952222_188f2babf0_z.jpg"
-    small: "http://farm8.staticflickr.com/7498/15951952222_188f2babf0_n.jpg"
-    title: celso.jpg
-    $$hashKey: 07D
-created_date: "2014-12-05T13:19:54-02:00"
+- link: http://farm8.staticflickr.com/7498/15951952222_188f2babf0_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7498/15951952222_188f2babf0_t.jpg
+  medium: http://farm8.staticflickr.com/7498/15951952222_188f2babf0_z.jpg
+  small: http://farm8.staticflickr.com/7498/15951952222_188f2babf0_n.jpg
+  title: celso.jpg
+  "$$hashKey": 07D
+created_date: '2014-12-05T13:19:54-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7498/15951952222_188f2babf0_n.jpg"
+images_hd: http://farm8.staticflickr.com/7498/15951952222_188f2babf0_n.jpg
 
 ---
 <p><br />

@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15999
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/ZeMaria_CamilaGarcia.JPG
 video: ''
 tags:
-- assuntos: direitos humanos
+- tag: direitos humanos
 - tag: direitos humanos
 type: news
 support_line: Zé Maria do Tomé, líder comunitário e ambientalista, foi assassinado

@@ -6,7 +6,7 @@ images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/justi
   social!.jpg
 video: ''
 tags:
-- assuntos: questão agrária
+- tag: questão agrária
 - tag: agronegócio
 type: news
 support_line: Se a terra fosse cultivada com 100% de sua capacidade poderia alimentar

@@ -6,8 +6,8 @@ images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/Medic
   cubanos RS 02 - Ricardo Haesbaert.jpg
 video: ''
 tags:
-- localização: rio grande do sul
-- assuntos: solidariedade
+- tag: rio grande do sul
+- tag: solidariedade
 - tag: internacional
 type: news
 support_line: As famílias do assentamento Sepé Tiarajú, em Viamão (RS), recepcionaram

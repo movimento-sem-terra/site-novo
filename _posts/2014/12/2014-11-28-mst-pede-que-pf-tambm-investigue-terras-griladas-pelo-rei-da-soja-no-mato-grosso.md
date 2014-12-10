@@ -1,22 +1,24 @@
 ---
-date: "2014-11-28T15:43:07-02:00"
+date: '2014-11-28T15:43:07-02:00'
 tags:
-  - tag: Mato-Grosso
-  - tag: Grilagem
-title: "MST pede que PF também investigue terras griladas pelo rei da soja, no Mato Grosso"
-support_line: "Após operação que prendeu fazendeiros por comprar lotes, Movimento diz que agora é a vez da Gleba Marzagão."
+- tag: Mato-Grosso
+- tag: Grilagem
+title: MST pede que PF também investigue terras griladas pelo rei da soja, no Mato
+  Grosso
+support_line: Após operação que prendeu fazendeiros por comprar lotes, Movimento diz
+  que agora é a vez da Gleba Marzagão.
 menu: agronegócio
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7492/15357526993_1bb8fbf3ea_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7492/15357526993_1bb8fbf3ea_t.jpg"
-    medium: "http://farm8.staticflickr.com/7492/15357526993_1bb8fbf3ea_z.jpg"
-    small: "http://farm8.staticflickr.com/7492/15357526993_1bb8fbf3ea_n.jpg"
-    title: reidasoja.jpg
-    $$hashKey: "261"
-created_date: "2014-12-08T15:46:21-02:00"
+- link: http://farm8.staticflickr.com/7492/15357526993_1bb8fbf3ea_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7492/15357526993_1bb8fbf3ea_t.jpg
+  medium: http://farm8.staticflickr.com/7492/15357526993_1bb8fbf3ea_z.jpg
+  small: http://farm8.staticflickr.com/7492/15357526993_1bb8fbf3ea_n.jpg
+  title: reidasoja.jpg
+  "$$hashKey": '261'
+created_date: '2014-12-08T15:46:21-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7492/15357526993_1bb8fbf3ea_n.jpg"
+images_hd: http://farm8.staticflickr.com/7492/15357526993_1bb8fbf3ea_n.jpg
 
 ---
 <div id="content-header">

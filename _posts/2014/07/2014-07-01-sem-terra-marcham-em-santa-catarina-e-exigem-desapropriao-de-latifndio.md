@@ -5,9 +5,9 @@ legacy_url: http://www.mst.org.br/node/16256
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/elemar.jpg
 video: ''
 tags:
-- destaque: manchete
-- localização: santa catarina
-- assuntos: marcha
+- tag: manchete
+- tag: santa catarina
+- tag: marcha
 - tag: lutas e mobilizações
 type: news
 support_line: Os trabalhadores rurais esperam obter decisão favorável da justiça sobre

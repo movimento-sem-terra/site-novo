@@ -1,22 +1,24 @@
 ---
-date: "2014-11-06T11:54:48-02:00"
+date: '2014-11-06T11:54:48-02:00'
 tags:
-  - tag: Agronegócio
-  - tag: Agrotóxicos
-title: "Exposição a agrotóxicos pode causar distúrbios reprodutivos, aponta estudo"
-support_line: "Câncer de mama, de ovário, de testículo e próstata, infertilidade, declínio da qualidade seminal e malformação de órgãos reprodutivos são alguns dos exemplos dessas complicações."
+- tag: Agronegócio
+- tag: Agrotóxicos
+title: Exposição a agrotóxicos pode causar distúrbios reprodutivos, aponta estudo
+support_line: Câncer de mama, de ovário, de testículo e próstata, infertilidade, declínio
+  da qualidade seminal e malformação de órgãos reprodutivos são alguns dos exemplos
+  dessas complicações.
 menu: agronegócio
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8637/15926404386_e95e3d55e4_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8637/15926404386_e95e3d55e4_t.jpg"
-    medium: "http://farm9.staticflickr.com/8637/15926404386_e95e3d55e4_z.jpg"
-    small: "http://farm9.staticflickr.com/8637/15926404386_e95e3d55e4_n.jpg"
-    title: 05_contaminacao.jpg
-    $$hashKey: 0HY
-created_date: "2014-12-05T11:57:26-02:00"
+- link: http://farm9.staticflickr.com/8637/15926404386_e95e3d55e4_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8637/15926404386_e95e3d55e4_t.jpg
+  medium: http://farm9.staticflickr.com/8637/15926404386_e95e3d55e4_z.jpg
+  small: http://farm9.staticflickr.com/8637/15926404386_e95e3d55e4_n.jpg
+  title: 05_contaminacao.jpg
+  "$$hashKey": 0HY
+created_date: '2014-12-05T11:57:26-02:00'
 published: true
-images_hd: "http://farm9.staticflickr.com/8637/15926404386_e95e3d55e4_n.jpg"
+images_hd: http://farm9.staticflickr.com/8637/15926404386_e95e3d55e4_n.jpg
 
 ---
 <div id="content-header">

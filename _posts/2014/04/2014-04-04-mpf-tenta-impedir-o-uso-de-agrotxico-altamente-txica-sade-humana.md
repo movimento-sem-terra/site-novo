@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15929
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/morte!.jpg
 video: ''
 tags:
-- assuntos: agrotóxicos
+- tag: agrotóxicos
 - tag: agronegócio
 type: news
 support_line: O benzoato de emamectina não possui registro no Ministério da Agricultura

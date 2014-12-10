@@ -1,22 +1,23 @@
 ---
-date: "2014-12-02T16:05:57-02:00"
+date: '2014-12-02T16:05:57-02:00'
 tags:
-  - tag: Paraná
-  - tag: Educação
-title: "De volta das férias no Caribe, Beto Richa manda fechar escolas no Paraná"
-support_line: Estima-se que serão extintas 141 escolas de Educação de Jovens e Adultos (EJA) em todo o Paraná.
-menu: "educação, cultura e comunicação"
+- tag: Paraná
+- tag: Educação
+title: De volta das férias no Caribe, Beto Richa manda fechar escolas no Paraná
+support_line: Estima-se que serão extintas 141 escolas de Educação de Jovens e Adultos
+  (EJA) em todo o Paraná.
+menu: educação, cultura e comunicação
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7576/15976630802_b8cfeb7572_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7576/15976630802_b8cfeb7572_t.jpg"
-    medium: "http://farm8.staticflickr.com/7576/15976630802_b8cfeb7572_z.jpg"
-    small: "http://farm8.staticflickr.com/7576/15976630802_b8cfeb7572_n.jpg"
-    title: richa_eja_educacao.jpg-592x328.jpg
-    $$hashKey: 2FO
-created_date: "2014-12-08T16:07:40-02:00"
+- link: http://farm8.staticflickr.com/7576/15976630802_b8cfeb7572_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7576/15976630802_b8cfeb7572_t.jpg
+  medium: http://farm8.staticflickr.com/7576/15976630802_b8cfeb7572_z.jpg
+  small: http://farm8.staticflickr.com/7576/15976630802_b8cfeb7572_n.jpg
+  title: richa_eja_educacao.jpg-592x328.jpg
+  "$$hashKey": 2FO
+created_date: '2014-12-08T16:07:40-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7576/15976630802_b8cfeb7572_n.jpg"
+images_hd: http://farm8.staticflickr.com/7576/15976630802_b8cfeb7572_n.jpg
 
 ---
 <p><img alt="richa_eja_educacao.jpg-592x328.jpg" src="http://farm8.staticflickr.com/7576/15976630802_b8cfeb7572_b.jpg" /></p>

@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16260
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/transgenico_duvida!!.jpg
 video: ''
 tags:
-- destaque: manchete
-- assuntos: embrapa
+- tag: manchete
+- tag: embrapa
 - tag: transgênicos
 type: 
 support_line: A&nbsp;Embrapa apresentou recentemente a alface transgênica. Para Leonardo

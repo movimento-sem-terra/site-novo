@@ -5,9 +5,9 @@ legacy_url: http://www.mst.org.br/node/16091
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/luta_bahia!!.jpg
 video: ''
 tags:
-- destaque: manchete
-- localização: bahia
-- assuntos: jornada de lutas abril 2014
+- tag: manchete
+- tag: bahia
+- tag: jornada de lutas abril 2014
 - tag: lutas e mobilizações
 type: news
 support_line: Os trabalhadores rurais cruzaram o Centro Administrativo da Bahia (CAB)

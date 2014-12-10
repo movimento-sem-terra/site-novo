@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/16221
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/transgenico_duvida!!.jpg
 video: ''
 tags:
-- assuntos: bancada ruralista
+- tag: bancada ruralista
 - tag: agronegócio
 type: news
 support_line: O detentores dessas novas tecnologias tentam provar a eficácia. O caso

@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16026
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/pedagio_MG!.jpg
 video: ''
 tags:
-- localização: minas gerais
-- assuntos: jornada de lutas abril 2014
+- tag: minas gerais
+- tag: jornada de lutas abril 2014
 - tag: lutas e mobilizações
 type: news
 support_line: Após 24h de abertura que garantiu a gratuidade no pedágio, os Sem Terra

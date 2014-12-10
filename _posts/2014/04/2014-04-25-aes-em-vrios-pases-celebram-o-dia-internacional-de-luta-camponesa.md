@@ -6,7 +6,7 @@ images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/açã
   londres_3.jpg
 video: ''
 tags:
-- assuntos: jornada de lutas abril 2014
+- tag: jornada de lutas abril 2014
 - tag: internacional
 type: news
 support_line: Durante o mês de abril, Organizações internacionais e grupos de apoio

@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15941
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/glifosato.jpg
 video: ''
 tags:
-- assuntos: agrotóxicos
+- tag: agrotóxicos
 - tag: agronegócio
 type: news
 support_line: Há seis anos, o glifosato, um dos agrotóxicos mais usados no mundo e

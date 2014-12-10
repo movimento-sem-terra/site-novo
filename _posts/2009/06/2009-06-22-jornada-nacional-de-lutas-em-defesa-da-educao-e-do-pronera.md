@@ -4,7 +4,7 @@ title: Jornada Nacional de Lutas em Defesa da Educação e do Pronera
 legacy_url: http://www.mst.org.br/node/107
 images: ''
 video: ''
-tags: []
+tags: 
 type: 
 support_line: ''
 section: 

@@ -5,9 +5,9 @@ legacy_url: http://www.mst.org.br/node/16182
 images: ''
 video: ''
 tags:
-- destaque: manchete
-- localização: paraná
-- assuntos: 13° jornada de agroecologia
+- tag: manchete
+- tag: paraná
+- tag: 13° jornada de agroecologia
 - tag: projeto popular
 type: news
 support_line: No primeiro dia da 13º Jornada de Agroecologia, o coordenador do Terra

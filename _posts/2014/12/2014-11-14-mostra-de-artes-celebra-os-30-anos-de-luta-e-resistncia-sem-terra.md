@@ -1,36 +1,37 @@
 ---
-date: "2014-11-14T14:58:45-02:00"
+date: '2014-11-14T14:58:45-02:00'
 tags:
-  - tag: Paraná
-  - tag: Arte
-  - tag: MST-30-anos
+- tag: Paraná
+- tag: Arte
+- tag: MST-30-anos
 title: Mostra de Artes celebra os 30 anos de luta e resistência Sem Terra
 hat: Paraná
-support_line: Escolas de Assentamento expressam o significado da histórica luta de 30 anos do MST.
-menu: "educação, cultura e comunicação"
+support_line: Escolas de Assentamento expressam o significado da histórica luta de
+  30 anos do MST.
+menu: educação, cultura e comunicação
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7504/15767162639_1ec8806172_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7504/15767162639_1ec8806172_t.jpg"
-    medium: "http://farm8.staticflickr.com/7504/15767162639_1ec8806172_z.jpg"
-    small: "http://farm8.staticflickr.com/7504/15767162639_1ec8806172_n.jpg"
-    title: mostradeartes.JPG
-    $$hashKey: 24G
-  - link: "http://farm8.staticflickr.com/7563/15951233671_db2832f15d_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7563/15951233671_db2832f15d_t.jpg"
-    medium: "http://farm8.staticflickr.com/7563/15951233671_db2832f15d_z.jpg"
-    small: "http://farm8.staticflickr.com/7563/15951233671_db2832f15d_n.jpg"
-    title: mostradeartes2.JPG
-    $$hashKey: 24J
-  - link: "http://farm8.staticflickr.com/7559/15765783218_98fc7f5745_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7559/15765783218_98fc7f5745_t.jpg"
-    medium: "http://farm8.staticflickr.com/7559/15765783218_98fc7f5745_z.jpg"
-    small: "http://farm8.staticflickr.com/7559/15765783218_98fc7f5745_n.jpg"
-    title: mostradeartes3.JPG
-    $$hashKey: 24M
-created_date: "2014-12-05T15:02:13-02:00"
+- link: http://farm8.staticflickr.com/7504/15767162639_1ec8806172_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7504/15767162639_1ec8806172_t.jpg
+  medium: http://farm8.staticflickr.com/7504/15767162639_1ec8806172_z.jpg
+  small: http://farm8.staticflickr.com/7504/15767162639_1ec8806172_n.jpg
+  title: mostradeartes.JPG
+  "$$hashKey": 24G
+- link: http://farm8.staticflickr.com/7563/15951233671_db2832f15d_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7563/15951233671_db2832f15d_t.jpg
+  medium: http://farm8.staticflickr.com/7563/15951233671_db2832f15d_z.jpg
+  small: http://farm8.staticflickr.com/7563/15951233671_db2832f15d_n.jpg
+  title: mostradeartes2.JPG
+  "$$hashKey": 24J
+- link: http://farm8.staticflickr.com/7559/15765783218_98fc7f5745_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7559/15765783218_98fc7f5745_t.jpg
+  medium: http://farm8.staticflickr.com/7559/15765783218_98fc7f5745_z.jpg
+  small: http://farm8.staticflickr.com/7559/15765783218_98fc7f5745_n.jpg
+  title: mostradeartes3.JPG
+  "$$hashKey": 24M
+created_date: '2014-12-05T15:02:13-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7563/15951233671_db2832f15d_n.jpg"
+images_hd: http://farm8.staticflickr.com/7563/15951233671_db2832f15d_n.jpg
 
 ---
 <p><img alt="mostradeartes2.JPG" src="http://farm8.staticflickr.com/7563/15951233671_db2832f15d_b.jpg" /></p>

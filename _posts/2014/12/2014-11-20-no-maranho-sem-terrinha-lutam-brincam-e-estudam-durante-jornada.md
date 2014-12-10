@@ -1,45 +1,46 @@
 ---
-date: "2014-10-20T10:49:28-02:00"
+date: '2014-10-20T10:49:28-02:00'
 tags:
-  - tag: Jornada-Sem-Terrinha-2014
-  - tag: Maranhão
-title: "No Maranhão, Sem Terrinha lutam, brincam e estudam durante jornada"
-support_line: "Mais de 16 assentamentos e comunidades do campo se juntaram aos Sem Terrinha para lutar, brincar, estudar e socializar conhecimentos, cultura e arte."
+- tag: Jornada-Sem-Terrinha-2014
+- tag: Maranhão
+title: No Maranhão, Sem Terrinha lutam, brincam e estudam durante jornada
+support_line: Mais de 16 assentamentos e comunidades do campo se juntaram aos Sem
+  Terrinha para lutar, brincar, estudar e socializar conhecimentos, cultura e arte.
 menu: lutas e mobilizações
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7575/15942959141_5d57c45cb9_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7575/15942959141_5d57c45cb9_t.jpg"
-    medium: "http://farm8.staticflickr.com/7575/15942959141_5d57c45cb9_z.jpg"
-    small: "http://farm8.staticflickr.com/7575/15942959141_5d57c45cb9_n.jpg"
-    title: semterrinhaaçailandia.jpg
-    $$hashKey: 16V
-  - link: "http://farm8.staticflickr.com/7500/15322656624_2ba9772a5b_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7500/15322656624_2ba9772a5b_t.jpg"
-    medium: "http://farm8.staticflickr.com/7500/15322656624_2ba9772a5b_z.jpg"
-    small: "http://farm8.staticflickr.com/7500/15322656624_2ba9772a5b_n.jpg"
-    title: semterrinhaaçailandiaII.jpg
-    $$hashKey: 16Y
-  - link: "http://farm9.staticflickr.com/8680/15944260002_3e1f0f2f2e_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8680/15944260002_3e1f0f2f2e_t.jpg"
-    medium: "http://farm9.staticflickr.com/8680/15944260002_3e1f0f2f2e_z.jpg"
-    small: "http://farm9.staticflickr.com/8680/15944260002_3e1f0f2f2e_n.jpg"
-    title: semterrinhaaçailandiaIII.jpg
-    $$hashKey: "171"
-  - link: "http://farm8.staticflickr.com/7576/15322662904_0b65383251_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7576/15322662904_0b65383251_t.jpg"
-    medium: "http://farm8.staticflickr.com/7576/15322662904_0b65383251_z.jpg"
-    small: "http://farm8.staticflickr.com/7576/15322662904_0b65383251_n.jpg"
-    title: semterrinhaaçailandiaIV.jpg
-    $$hashKey: "174"
-  - link: "http://farm9.staticflickr.com/8581/15757637100_25f499f593_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8581/15757637100_25f499f593_t.jpg"
-    medium: "http://farm9.staticflickr.com/8581/15757637100_25f499f593_z.jpg"
-    small: "http://farm9.staticflickr.com/8581/15757637100_25f499f593_n.jpg"
-    title: semterrinhaaçailandiaV.jpg
-    $$hashKey: "177"
+- link: http://farm8.staticflickr.com/7575/15942959141_5d57c45cb9_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7575/15942959141_5d57c45cb9_t.jpg
+  medium: http://farm8.staticflickr.com/7575/15942959141_5d57c45cb9_z.jpg
+  small: http://farm8.staticflickr.com/7575/15942959141_5d57c45cb9_n.jpg
+  title: semterrinhaaçailandia.jpg
+  "$$hashKey": 16V
+- link: http://farm8.staticflickr.com/7500/15322656624_2ba9772a5b_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7500/15322656624_2ba9772a5b_t.jpg
+  medium: http://farm8.staticflickr.com/7500/15322656624_2ba9772a5b_z.jpg
+  small: http://farm8.staticflickr.com/7500/15322656624_2ba9772a5b_n.jpg
+  title: semterrinhaaçailandiaII.jpg
+  "$$hashKey": 16Y
+- link: http://farm9.staticflickr.com/8680/15944260002_3e1f0f2f2e_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8680/15944260002_3e1f0f2f2e_t.jpg
+  medium: http://farm9.staticflickr.com/8680/15944260002_3e1f0f2f2e_z.jpg
+  small: http://farm9.staticflickr.com/8680/15944260002_3e1f0f2f2e_n.jpg
+  title: semterrinhaaçailandiaIII.jpg
+  "$$hashKey": '171'
+- link: http://farm8.staticflickr.com/7576/15322662904_0b65383251_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7576/15322662904_0b65383251_t.jpg
+  medium: http://farm8.staticflickr.com/7576/15322662904_0b65383251_z.jpg
+  small: http://farm8.staticflickr.com/7576/15322662904_0b65383251_n.jpg
+  title: semterrinhaaçailandiaIV.jpg
+  "$$hashKey": '174'
+- link: http://farm9.staticflickr.com/8581/15757637100_25f499f593_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8581/15757637100_25f499f593_t.jpg
+  medium: http://farm9.staticflickr.com/8581/15757637100_25f499f593_z.jpg
+  small: http://farm9.staticflickr.com/8581/15757637100_25f499f593_n.jpg
+  title: semterrinhaaçailandiaV.jpg
+  "$$hashKey": '177'
 published: true
-images_hd: "http://farm8.staticflickr.com/7575/15942959141_5d57c45cb9_n.jpg"
+images_hd: http://farm8.staticflickr.com/7575/15942959141_5d57c45cb9_n.jpg
 
 ---
 <p><img alt="semterrinhaaçailandia.jpg" src="http://farm8.staticflickr.com/7575/15942959141_5d57c45cb9_b.jpg" /></p>

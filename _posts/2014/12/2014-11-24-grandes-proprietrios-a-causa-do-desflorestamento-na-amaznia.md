@@ -1,21 +1,22 @@
 ---
-date: "2014-10-24T15:47:52-02:00"
+date: '2014-10-24T15:47:52-02:00'
 tags:
-  - tag: Desmatamento
-  - tag: Amazônia
-title: "Grandes proprietários, a causa do desflorestamento na Amazônia"
-support_line: "Pecuaristas respondem à 70% e os sojicultores a 10% do desmatamento da Amazônia."
+- tag: Desmatamento
+- tag: Amazônia
+title: Grandes proprietários, a causa do desflorestamento na Amazônia
+support_line: Pecuaristas respondem à 70% e os sojicultores a 10% do desmatamento
+  da Amazônia.
 menu: meio ambiente
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8570/15327033013_486ff71d69_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8570/15327033013_486ff71d69_t.jpg"
-    medium: "http://farm9.staticflickr.com/8570/15327033013_486ff71d69_z.jpg"
-    small: "http://farm9.staticflickr.com/8570/15327033013_486ff71d69_n.jpg"
-    title: desmatamento.jpg
-    $$hashKey: 0Y0
+- link: http://farm9.staticflickr.com/8570/15327033013_486ff71d69_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8570/15327033013_486ff71d69_t.jpg
+  medium: http://farm9.staticflickr.com/8570/15327033013_486ff71d69_z.jpg
+  small: http://farm9.staticflickr.com/8570/15327033013_486ff71d69_n.jpg
+  title: desmatamento.jpg
+  "$$hashKey": 0Y0
 published: true
-images_hd: "http://farm9.staticflickr.com/8570/15327033013_486ff71d69_n.jpg"
+images_hd: http://farm9.staticflickr.com/8570/15327033013_486ff71d69_n.jpg
 
 ---
 <div id="content-header">

@@ -6,7 +6,7 @@ images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/diret
   greenpeace.jpg
 video: ''
 tags:
-- assuntos: meio ambiente
+- tag: meio ambiente
 - tag: agronegócio
 type: news
 support_line: Durante um megaevento do agronegócio, o diretor-executivo do Greenpeace

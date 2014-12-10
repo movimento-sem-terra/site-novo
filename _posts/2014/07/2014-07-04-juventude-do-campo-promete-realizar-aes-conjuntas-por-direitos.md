@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16267
 images: http://farm3.staticflickr.com/2929/14679135914_9c74a1a94b_b.jpg
 video: ''
 tags:
-- destaque: manchete
-- assuntos: juventude
+- tag: manchete
+- tag: juventude
 - tag: lutas e mobilizações
 type: 
 support_line: As ações surgiram após a apresentação de um programa do governo federal

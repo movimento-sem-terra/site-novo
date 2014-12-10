@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/16037
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/frigorifico.jpg
 video: ''
 tags:
-- assuntos: agronegócio
+- tag: agronegócio
 - tag: direitos humanos
 type: news
 support_line: Além disso, 79% usavam medicamentos para conter a dor; 71,4% afirmaram

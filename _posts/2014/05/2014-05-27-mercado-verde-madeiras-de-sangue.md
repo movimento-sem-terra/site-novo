@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/16158
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/campanha_greenpeace.jpg
 video: ''
 tags:
-- assuntos: questão agrária
+- tag: questão agrária
 - tag: meio ambiente
 type: 
 support_line: Denúncia do Greenpeace liga corrupção do sistema de comércio de produtos

@@ -6,8 +6,8 @@ images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/jorna
   Madruga!.jpg
 video: ''
 tags:
-- localização: paraná
-- assuntos: 13° jornada de agroecologia
+- tag: paraná
+- tag: 13° jornada de agroecologia
 - tag: agricultura camponesa
 type: news
 support_line: A expectativa é de reunir aproximadamente 2500 participantes de diversos

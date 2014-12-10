@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16033
 images: ''
 video: ''
 tags:
-- destaque: manchete
-- assuntos: jornada de lutas abril 2014
+- tag: manchete
+- tag: jornada de lutas abril 2014
 - tag: lutas e mobilizações
 type: news
 support_line: As ações se concentram entre os dias 28 de abril a 10 de maio.

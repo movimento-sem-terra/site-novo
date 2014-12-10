@@ -5,9 +5,9 @@ legacy_url: http://www.mst.org.br/node/15839
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/agen!.jpg
 video: ''
 tags:
-- destaque: manchete
-- localização: são paulo
-- assuntos: mobilização
+- tag: manchete
+- tag: são paulo
+- tag: mobilização
 - tag: lutas e mobilizações
 type: news
 support_line: Na manhã desta quinta feira (13), cerca de 350 famílias de sete  acampamentos

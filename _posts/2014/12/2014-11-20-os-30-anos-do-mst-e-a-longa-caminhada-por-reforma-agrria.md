@@ -1,39 +1,40 @@
 ---
-date: "2014-10-20T11:00:49-02:00"
+date: '2014-10-20T11:00:49-02:00'
 tags:
-  - tag: 30-anos-MST
+- tag: 30-anos-MST
 title: Os 30 anos do MST e a longa caminhada por Reforma Agrária
 menu: reforma agrária
 label: special-stories
-support_line: "Foi para romper com o modelo de agrícola adotado pelos militares que, há 30 anos, surgia o MST."
+support_line: Foi para romper com o modelo de agrícola adotado pelos militares que,
+  há 30 anos, surgia o MST.
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8675/15759316837_6bbd89e541_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8675/15759316837_6bbd89e541_t.jpg"
-    medium: "http://farm9.staticflickr.com/8675/15759316837_6bbd89e541_z.jpg"
-    small: "http://farm9.staticflickr.com/8675/15759316837_6bbd89e541_n.jpg"
-    title: IMG_6283.jpg
-    $$hashKey: 1SE
-  - link: "http://farm9.staticflickr.com/8628/15325433113_30d8e29ab9_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8628/15325433113_30d8e29ab9_t.jpg"
-    medium: "http://farm9.staticflickr.com/8628/15325433113_30d8e29ab9_z.jpg"
-    small: "http://farm9.staticflickr.com/8628/15325433113_30d8e29ab9_n.jpg"
-    title: IMG_6390.jpg
-    $$hashKey: 1SH
-  - link: "http://farm8.staticflickr.com/7516/15759331757_304a33b63d_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7516/15759331757_304a33b63d_t.jpg"
-    medium: "http://farm8.staticflickr.com/7516/15759331757_304a33b63d_z.jpg"
-    small: "http://farm8.staticflickr.com/7516/15759331757_304a33b63d_n.jpg"
-    title: 3899.jpg
-    $$hashKey: 1SK
-  - link: "http://farm8.staticflickr.com/7468/15944417142_0ce4f2c7dd_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7468/15944417142_0ce4f2c7dd_t.jpg"
-    medium: "http://farm8.staticflickr.com/7468/15944417142_0ce4f2c7dd_z.jpg"
-    small: "http://farm8.staticflickr.com/7468/15944417142_0ce4f2c7dd_n.jpg"
-    title: IMG_6511-3.jpg
-    $$hashKey: 1SN
+- link: http://farm9.staticflickr.com/8675/15759316837_6bbd89e541_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8675/15759316837_6bbd89e541_t.jpg
+  medium: http://farm9.staticflickr.com/8675/15759316837_6bbd89e541_z.jpg
+  small: http://farm9.staticflickr.com/8675/15759316837_6bbd89e541_n.jpg
+  title: IMG_6283.jpg
+  "$$hashKey": 1SE
+- link: http://farm9.staticflickr.com/8628/15325433113_30d8e29ab9_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8628/15325433113_30d8e29ab9_t.jpg
+  medium: http://farm9.staticflickr.com/8628/15325433113_30d8e29ab9_z.jpg
+  small: http://farm9.staticflickr.com/8628/15325433113_30d8e29ab9_n.jpg
+  title: IMG_6390.jpg
+  "$$hashKey": 1SH
+- link: http://farm8.staticflickr.com/7516/15759331757_304a33b63d_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7516/15759331757_304a33b63d_t.jpg
+  medium: http://farm8.staticflickr.com/7516/15759331757_304a33b63d_z.jpg
+  small: http://farm8.staticflickr.com/7516/15759331757_304a33b63d_n.jpg
+  title: 3899.jpg
+  "$$hashKey": 1SK
+- link: http://farm8.staticflickr.com/7468/15944417142_0ce4f2c7dd_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7468/15944417142_0ce4f2c7dd_t.jpg
+  medium: http://farm8.staticflickr.com/7468/15944417142_0ce4f2c7dd_z.jpg
+  small: http://farm8.staticflickr.com/7468/15944417142_0ce4f2c7dd_n.jpg
+  title: IMG_6511-3.jpg
+  "$$hashKey": 1SN
 published: true
-images_hd: "http://farm9.staticflickr.com/8675/15759316837_6bbd89e541_n.jpg"
+images_hd: http://farm9.staticflickr.com/8675/15759316837_6bbd89e541_n.jpg
 
 ---
 <figure class="image"><img alt="IMG_6283.jpg" src="http://farm9.staticflickr.com/8675/15759316837_6bbd89e541_b.jpg" />

@@ -1,22 +1,24 @@
 ---
-date: "2014-11-27T15:27:46-02:00"
+date: '2014-11-27T15:27:46-02:00'
 tags:
-  - tag: Eleições
-  - tag: Kátia-Abreu
+- tag: Eleições
+- tag: Kátia-Abreu
 title: Kátia Abreu é acusada de usar a CNA para arrecadar recursos para campanha
-support_line: "600 mil boletos, no valor de R$ 100 cada, foram enviados para produtores rurais de todo o país, em pedido de doação a campanhas; medida beneficiou diretamente a eleição do filho, deputado federal Irajá Abreu (PSD)."
+support_line: 600 mil boletos, no valor de R$ 100 cada, foram enviados para produtores
+  rurais de todo o país, em pedido de doação a campanhas; medida beneficiou diretamente
+  a eleição do filho, deputado federal Irajá Abreu (PSD).
 menu: agronegócio
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8608/15791032959_0e1cd0304a_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8608/15791032959_0e1cd0304a_t.jpg"
-    medium: "http://farm9.staticflickr.com/8608/15791032959_0e1cd0304a_z.jpg"
-    small: "http://farm9.staticflickr.com/8608/15791032959_0e1cd0304a_n.jpg"
-    title: katia-abreu-e-iraja-abreu.jpg
-    $$hashKey: 0SP
-created_date: "2014-12-08T15:29:11-02:00"
+- link: http://farm9.staticflickr.com/8608/15791032959_0e1cd0304a_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8608/15791032959_0e1cd0304a_t.jpg
+  medium: http://farm9.staticflickr.com/8608/15791032959_0e1cd0304a_z.jpg
+  small: http://farm9.staticflickr.com/8608/15791032959_0e1cd0304a_n.jpg
+  title: katia-abreu-e-iraja-abreu.jpg
+  "$$hashKey": 0SP
+created_date: '2014-12-08T15:29:11-02:00'
 published: true
-images_hd: "http://farm9.staticflickr.com/8608/15791032959_0e1cd0304a_n.jpg"
+images_hd: http://farm9.staticflickr.com/8608/15791032959_0e1cd0304a_n.jpg
 
 ---
 <p><img alt="katia-abreu-e-iraja-abreu.jpg" src="http://farm9.staticflickr.com/8608/15791032959_0e1cd0304a_b.jpg" /></p>

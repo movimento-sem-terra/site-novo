@@ -1,21 +1,23 @@
 ---
-date: "2014-10-20T10:56:19-02:00"
+date: '2014-10-20T10:56:19-02:00'
 tags:
-  - tag: Eleições
-  - tag: Dilma-Rousseff
-title: "João Pedro Stedile: “O povo quer mudanças para melhorar de vida”"
-support_line: Membro da coordenação do MST analisa o que pode significar para o país o retorno ao neoliberalismo e aponta como um segundo governo Dilma poderia avançar em mudanças.
+- tag: Eleições
+- tag: Dilma-Rousseff
+title: 'João Pedro Stedile: “O povo quer mudanças para melhorar de vida”'
+support_line: Membro da coordenação do MST analisa o que pode significar para o país
+  o retorno ao neoliberalismo e aponta como um segundo governo Dilma poderia avançar
+  em mudanças.
 menu: projeto popular
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7546/15944296982_03f4775978_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7546/15944296982_03f4775978_t.jpg"
-    medium: "http://farm8.staticflickr.com/7546/15944296982_03f4775978_z.jpg"
-    small: "http://farm8.staticflickr.com/7546/15944296982_03f4775978_n.jpg"
-    title: Joaopedrostedile_PabloVergara.gif
-    $$hashKey: 1FX
+- link: http://farm8.staticflickr.com/7546/15944296982_03f4775978_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7546/15944296982_03f4775978_t.jpg
+  medium: http://farm8.staticflickr.com/7546/15944296982_03f4775978_z.jpg
+  small: http://farm8.staticflickr.com/7546/15944296982_03f4775978_n.jpg
+  title: Joaopedrostedile_PabloVergara.gif
+  "$$hashKey": 1FX
 published: true
-images_hd: "http://farm8.staticflickr.com/7546/15944296982_03f4775978_n.jpg"
+images_hd: http://farm8.staticflickr.com/7546/15944296982_03f4775978_n.jpg
 label: interviews
 
 ---

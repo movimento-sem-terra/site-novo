@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/16076
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/noname!.jpg
 video: ''
 tags:
-- assuntos: jornada de lu
+- tag: jornada de lu
 type: 
 support_line: Entre as principais demandas está a desapropriação de terras improdutivas
   no estado, o assentamento imediato das mais de 4.500 famílias acampadas na Paraíba,

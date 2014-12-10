@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15733
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/eu!.jpg
 video: ''
 tags:
-- assuntos: reforma agrária
-- semana: tema da semana
+- tag: reforma agrária
+- tag: tema da semana
 - tag: reforma agrária
 type: news
 support_line: No VI Congresso, o MST atualiza sua visão e  suas propostas, lançando

@@ -6,8 +6,8 @@ images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/Jorna
   Agroecologia.jpg
 video: ''
 tags:
-- localização: paraná
-- assuntos: 13° jornada de agroecologia
+- tag: paraná
+- tag: 13° jornada de agroecologia
 - tag: agricultura camponesa
 type: news
 support_line: A Jornada representa a síntese do processo de construção da agroecologia

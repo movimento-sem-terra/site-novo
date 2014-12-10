@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15743
 images: ''
 video: ''
 tags:
-- tipo de matéria: entrevistas
-- assuntos: reforma agrária
+- tag: entrevistas
+- tag: reforma agrária
 - tag: reforma agrária
 type: news
 support_line: A MP da Reforma Agrária traz consigo uma proposta que poderia acabar  com

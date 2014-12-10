@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/16150
 images: ''
 video: ''
 tags:
-- assuntos: homenagem
+- tag: homenagem
 - tag: projeto popular
 type: news
 support_line: O representante da direção nacional do MST, Ênio Bonenberg, agradeceu

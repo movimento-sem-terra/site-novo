@@ -1,38 +1,40 @@
 ---
-date: "2014-11-03T11:15:49-02:00"
+date: '2014-11-03T11:15:49-02:00'
 tags:
-  - tag: Agricultura-Familiar
-  - tag: Produção
-  - tag: Bahia
-  - tag: Assentamentos
-  - tag: Reforma-Agrária
+- tag: Agricultura-Familiar
+- tag: Produção
+- tag: Bahia
+- tag: Assentamentos
+- tag: Reforma-Agrária
 title: Sem Terra expõem sua produção em Feira da Agricultura Familiar
 hat: Bahia
-support_line: "Os trabalhadores Sem Terra do extremo sul da Bahia trouxeram uma variedade de alimentos dos acampamentos e assentamentos agroecológicos da região, além de compartilharam músicas e vídeos sobre a identidade Sem Terra."
+support_line: Os trabalhadores Sem Terra do extremo sul da Bahia trouxeram uma variedade
+  de alimentos dos acampamentos e assentamentos agroecológicos da região, além de
+  compartilharam músicas e vídeos sobre a identidade Sem Terra.
 menu: agricultura camponesa
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7463/15765988319_bce0dfa0f4_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7463/15765988319_bce0dfa0f4_t.jpg"
-    medium: "http://farm8.staticflickr.com/7463/15765988319_bce0dfa0f4_z.jpg"
-    small: "http://farm8.staticflickr.com/7463/15765988319_bce0dfa0f4_n.jpg"
-    title: 15513417829_d26e05754a_b.jpg
-    $$hashKey: 22V
-  - link: "http://farm9.staticflickr.com/8654/15766281697_9eae464bc1_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8654/15766281697_9eae464bc1_t.jpg"
-    medium: "http://farm9.staticflickr.com/8654/15766281697_9eae464bc1_z.jpg"
-    small: "http://farm9.staticflickr.com/8654/15766281697_9eae464bc1_n.jpg"
-    title: 15675563156_f4968300a5_b.jpg
-    $$hashKey: 22Y
-  - link: "http://farm9.staticflickr.com/8580/15950063471_938a4a6e00_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8580/15950063471_938a4a6e00_t.jpg"
-    medium: "http://farm9.staticflickr.com/8580/15950063471_938a4a6e00_z.jpg"
-    small: "http://farm9.staticflickr.com/8580/15950063471_938a4a6e00_n.jpg"
-    title: 15514479140_769efbe3d4_b.jpg
-    $$hashKey: "231"
-created_date: "2014-12-05T11:26:40-02:00"
+- link: http://farm8.staticflickr.com/7463/15765988319_bce0dfa0f4_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7463/15765988319_bce0dfa0f4_t.jpg
+  medium: http://farm8.staticflickr.com/7463/15765988319_bce0dfa0f4_z.jpg
+  small: http://farm8.staticflickr.com/7463/15765988319_bce0dfa0f4_n.jpg
+  title: 15513417829_d26e05754a_b.jpg
+  "$$hashKey": 22V
+- link: http://farm9.staticflickr.com/8654/15766281697_9eae464bc1_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8654/15766281697_9eae464bc1_t.jpg
+  medium: http://farm9.staticflickr.com/8654/15766281697_9eae464bc1_z.jpg
+  small: http://farm9.staticflickr.com/8654/15766281697_9eae464bc1_n.jpg
+  title: 15675563156_f4968300a5_b.jpg
+  "$$hashKey": 22Y
+- link: http://farm9.staticflickr.com/8580/15950063471_938a4a6e00_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8580/15950063471_938a4a6e00_t.jpg
+  medium: http://farm9.staticflickr.com/8580/15950063471_938a4a6e00_z.jpg
+  small: http://farm9.staticflickr.com/8580/15950063471_938a4a6e00_n.jpg
+  title: 15514479140_769efbe3d4_b.jpg
+  "$$hashKey": '231'
+created_date: '2014-12-05T11:26:40-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7463/15765988319_bce0dfa0f4_n.jpg"
+images_hd: http://farm8.staticflickr.com/7463/15765988319_bce0dfa0f4_n.jpg
 
 ---
 <p><img alt="15513417829_d26e05754a_b.jpg" height="430" src="http://farm8.staticflickr.com/7463/15765988319_bce0dfa0f4_b.jpg" width="600" /></p>

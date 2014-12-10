@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15661
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/sem terras!.jpg
 video: ''
 tags:
-- localização: minas gerais
-- assuntos: ocupação
+- tag: minas gerais
+- tag: ocupação
 - tag: lutas e mobilizações
 type: news
 support_line: Na manhã da última quinta-feira (30), cerca de 60 famílias do MST  ocuparam

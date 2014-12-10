@@ -1,24 +1,25 @@
 ---
-date: "2014-12-09T16:54:55-02:00"
+date: '2014-12-09T16:54:55-02:00'
 tags:
-  - tag: educandos
-  - tag: professores
-  - tag: graduação
-  - tag: assentados
+- tag: educandos
+- tag: professores
+- tag: graduação
+- tag: assentados
 title: Sem Terra iniciam curso de graduação em ciências sociais na UFRN
-support_line: "Os estudantes estão realizando a primeira etapa do curso, que tem duração de quatro anos."
-menu: "educação, cultura e comunicação"
+support_line: Os estudantes estão realizando a primeira etapa do curso, que tem duração
+  de quatro anos.
+menu: educação, cultura e comunicação
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8585/15797802468_b38a2a2230_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8585/15797802468_b38a2a2230_t.jpg"
-    medium: "http://farm9.staticflickr.com/8585/15797802468_b38a2a2230_z.jpg"
-    small: "http://farm9.staticflickr.com/8585/15797802468_b38a2a2230_n.jpg"
-    title: curso_UFRN.jpg
-    $$hashKey: 0KA
-created_date: "2014-12-09T16:57:22-02:00"
+- link: http://farm9.staticflickr.com/8585/15797802468_b38a2a2230_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8585/15797802468_b38a2a2230_t.jpg
+  medium: http://farm9.staticflickr.com/8585/15797802468_b38a2a2230_z.jpg
+  small: http://farm9.staticflickr.com/8585/15797802468_b38a2a2230_n.jpg
+  title: curso_UFRN.jpg
+  "$$hashKey": 0KA
+created_date: '2014-12-09T16:57:22-02:00'
 published: true
-images_hd: "http://farm9.staticflickr.com/8585/15797802468_b38a2a2230_n.jpg"
+images_hd: http://farm9.staticflickr.com/8585/15797802468_b38a2a2230_n.jpg
 
 ---
 <p><img alt="curso_UFRN.jpg" src="http://farm9.staticflickr.com/8585/15797802468_b38a2a2230_b.jpg" /></p>

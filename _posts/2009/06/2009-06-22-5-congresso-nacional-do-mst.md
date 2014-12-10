@@ -4,7 +4,7 @@ title: 5° Congresso Nacional do MST
 legacy_url: http://www.mst.org.br/node/88
 images: ''
 video: ''
-tags: []
+tags: 
 type: 
 support_line: ''
 section: 

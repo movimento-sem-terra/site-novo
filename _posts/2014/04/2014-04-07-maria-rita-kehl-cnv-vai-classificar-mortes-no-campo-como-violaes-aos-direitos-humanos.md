@@ -6,9 +6,9 @@ legacy_url: http://www.mst.org.br/node/15936
 images: ''
 video: ''
 tags:
-- semana: tema da semana
-- destaque: manchete
-- tipo de matéria: entrevistas
+- tag: tema da semana
+- tag: manchete
+- tag: entrevistas
 - tag: direitos humanos
 type: 
 support_line: Psicóloga participa da Comissão da Verdade  no Grupo de Violações de

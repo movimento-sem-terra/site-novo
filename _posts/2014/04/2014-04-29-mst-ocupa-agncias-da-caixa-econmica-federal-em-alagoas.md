@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/16031
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/mst-640x354.jpg
 video: ''
 tags:
-- assuntos: jornada de lutas abril 2014
+- tag: jornada de lutas abril 2014
 - tag: lutas e mobilizações
 type: news
 support_line: A mobilização se soma a uma série de ocupações em todo país  para pressionar

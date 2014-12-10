@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16232
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/iindigenas_estrada!.jpg
 video: ''
 tags:
-- localização: mato grosso do sul
-- assuntos: indígenas
+- tag: mato grosso do sul
+- tag: indígenas
 - tag: direitos humanos
 type: news
 support_line: O MPF em Mato Grosso do Sul divulgou um ofício encaminhado à presidente

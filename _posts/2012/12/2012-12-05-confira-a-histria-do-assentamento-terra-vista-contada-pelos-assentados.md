@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/14166
 images: ''
 video: uryG5dx1cRM
 tags:
-- localização: bahia
-- assuntos: assentamento
+- tag: bahia
+- tag: assentamento
 - tag: agricultura camponesa
 type: video
 support_line: A união dos esforços  permitiu a criação de uma área de produção de

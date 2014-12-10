@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/16116
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/latu.jpg
 video: ''
 tags:
-- assuntos: direitos humanos
+- tag: direitos humanos
 - tag: direitos humanos
 type: news
 support_line: O resultado do trabalho será um diagnóstico do volume e situação dos

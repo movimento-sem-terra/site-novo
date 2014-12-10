@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15851
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/comissão.jpg
 video: ''
 tags:
-- assuntos: lutadores e lutadoras do povo
-- semana: tema da semana
+- tag: lutadores e lutadoras do povo
+- tag: tema da semana
 - tag: direitos humanos
 type: news
 support_line: Líder camponês José Porfírio de Souza liderou o movimento rebelde de

@@ -1,25 +1,27 @@
 ---
-date: "2014-11-05T13:39:48-02:00"
+date: '2014-11-05T13:39:48-02:00'
 tags:
-  - tag: Seca
-  - tag: Nordeste
-  - tag: Ocupação-Incra
-  - tag: Reforma-Agrária
+- tag: Seca
+- tag: Nordeste
+- tag: Ocupação-Incra
+- tag: Reforma-Agrária
 hat: Luta
-title: "Contra seca e pela Reforma Agrária, Sem Terra ocupam Incra em Fortaleza"
+title: Contra seca e pela Reforma Agrária, Sem Terra ocupam Incra em Fortaleza
 menu: lutas e mobilizações
-support_line: Cerca de 800 trabalhadores Sem Terra do MST ocuparam a sede do Incra. Eles exigem o assentamento das mais de três mil famílias acampadas em todo o estado e soluções para a seca que assola o interior do Ceará.
+support_line: Cerca de 800 trabalhadores Sem Terra do MST ocuparam a sede do Incra.
+  Eles exigem o assentamento das mais de três mil famílias acampadas em todo o estado
+  e soluções para a seca que assola o interior do Ceará.
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7569/15765337578_dc379dd0c4_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7569/15765337578_dc379dd0c4_t.jpg"
-    medium: "http://farm8.staticflickr.com/7569/15765337578_dc379dd0c4_z.jpg"
-    small: "http://farm8.staticflickr.com/7569/15765337578_dc379dd0c4_n.jpg"
-    title: mst-640x354.jpg
-    $$hashKey: 0ST
-created_date: "2014-12-05T13:43:18-02:00"
+- link: http://farm8.staticflickr.com/7569/15765337578_dc379dd0c4_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7569/15765337578_dc379dd0c4_t.jpg
+  medium: http://farm8.staticflickr.com/7569/15765337578_dc379dd0c4_z.jpg
+  small: http://farm8.staticflickr.com/7569/15765337578_dc379dd0c4_n.jpg
+  title: mst-640x354.jpg
+  "$$hashKey": 0ST
+created_date: '2014-12-05T13:43:18-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7569/15765337578_dc379dd0c4_n.jpg"
+images_hd: http://farm8.staticflickr.com/7569/15765337578_dc379dd0c4_n.jpg
 
 ---
 <p>&nbsp;

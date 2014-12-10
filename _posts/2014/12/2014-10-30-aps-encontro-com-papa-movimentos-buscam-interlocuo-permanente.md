@@ -1,24 +1,25 @@
 ---
-date: "2014-10-30T17:39:26-02:00"
+date: '2014-10-30T17:39:26-02:00'
 tags:
-  - tag: Papa
-  - tag: Francisco
-  - tag: encontro
-  - tag: Vaticano
-  - tag: MST
-title: "Após encontro com Papa, movimentos buscam interlocução permanente"
+- tag: Papa
+- tag: Francisco
+- tag: encontro
+- tag: Vaticano
+- tag: MST
+title: Após encontro com Papa, movimentos buscam interlocução permanente
 menu: projeto popular
-support_line: Confira a declaração final do Encontro Mundial dos Movimentos Populares com o Papa Francisco.
+support_line: Confira a declaração final do Encontro Mundial dos Movimentos Populares
+  com o Papa Francisco.
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7468/15947290435_c3d1046180_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7468/15947290435_c3d1046180_t.jpg"
-    medium: "http://farm8.staticflickr.com/7468/15947290435_c3d1046180_z.jpg"
-    small: "http://farm8.staticflickr.com/7468/15947290435_c3d1046180_n.jpg"
-    title: encontro_mundial_de_movimentos_sociais70069.jpg
-    $$hashKey: 4W6
+- link: http://farm8.staticflickr.com/7468/15947290435_c3d1046180_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7468/15947290435_c3d1046180_t.jpg
+  medium: http://farm8.staticflickr.com/7468/15947290435_c3d1046180_z.jpg
+  small: http://farm8.staticflickr.com/7468/15947290435_c3d1046180_n.jpg
+  title: encontro_mundial_de_movimentos_sociais70069.jpg
+  "$$hashKey": 4W6
 published: true
-images_hd: "http://farm8.staticflickr.com/7468/15947290435_c3d1046180_n.jpg"
+images_hd: http://farm8.staticflickr.com/7468/15947290435_c3d1046180_n.jpg
 
 ---
 <p><em>Da P&aacute;gina do MST</em></p>

@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/16084
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/DomEnemsio_Divulgacao.JPG
 video: ''
 tags:
-- assuntos: questão agrária
+- tag: questão agrária
 - tag: projeto popular
 type: news
 support_line: 'A parte final do Documento apresenta os desafios diante de realidades

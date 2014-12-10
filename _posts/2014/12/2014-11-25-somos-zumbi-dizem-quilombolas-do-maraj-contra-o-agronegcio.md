@@ -1,30 +1,31 @@
 ---
-date: "2014-11-25T16:20:02-02:00"
+date: '2014-11-25T16:20:02-02:00'
 tags:
-  - tag: Agronegócio
-  - tag: Direitos-Humanos
-  - tag: Quilombolas
-  - tag: Marajó
-title: "\"Somos Zumbi\", dizem quilombolas do Marajó contra o agronegócio"
-support_line: A principal resistência a transformação pelo agronegócio está concentrada nas comunidades remanescentes de quilombos.
+- tag: Agronegócio
+- tag: Direitos-Humanos
+- tag: Quilombolas
+- tag: Marajó
+title: '"Somos Zumbi", dizem quilombolas do Marajó contra o agronegócio'
+support_line: A principal resistência a transformação pelo agronegócio está concentrada
+  nas comunidades remanescentes de quilombos.
 menu: direitos humanos
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7534/15953635975_bf0f2a38ac_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7534/15953635975_bf0f2a38ac_t.jpg"
-    medium: "http://farm8.staticflickr.com/7534/15953635975_bf0f2a38ac_z.jpg"
-    small: "http://farm8.staticflickr.com/7534/15953635975_bf0f2a38ac_n.jpg"
-    title: quilombolas_marajo.jpeg
-    $$hashKey: 3YB
-  - link: "http://farm8.staticflickr.com/7513/15951682551_201deedf90_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7513/15951682551_201deedf90_t.jpg"
-    medium: "http://farm8.staticflickr.com/7513/15951682551_201deedf90_z.jpg"
-    small: "http://farm8.staticflickr.com/7513/15951682551_201deedf90_n.jpg"
-    title: quilombolas_marajo2.jpg
-    $$hashKey: 3YE
-created_date: "2014-12-05T16:23:46-02:00"
+- link: http://farm8.staticflickr.com/7534/15953635975_bf0f2a38ac_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7534/15953635975_bf0f2a38ac_t.jpg
+  medium: http://farm8.staticflickr.com/7534/15953635975_bf0f2a38ac_z.jpg
+  small: http://farm8.staticflickr.com/7534/15953635975_bf0f2a38ac_n.jpg
+  title: quilombolas_marajo.jpeg
+  "$$hashKey": 3YB
+- link: http://farm8.staticflickr.com/7513/15951682551_201deedf90_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7513/15951682551_201deedf90_t.jpg
+  medium: http://farm8.staticflickr.com/7513/15951682551_201deedf90_z.jpg
+  small: http://farm8.staticflickr.com/7513/15951682551_201deedf90_n.jpg
+  title: quilombolas_marajo2.jpg
+  "$$hashKey": 3YE
+created_date: '2014-12-05T16:23:46-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7534/15953635975_bf0f2a38ac_n.jpg"
+images_hd: http://farm8.staticflickr.com/7534/15953635975_bf0f2a38ac_n.jpg
 
 ---
 <p><img alt="quilombolas_marajo.jpeg" src="http://farm8.staticflickr.com/7534/15953635975_bf0f2a38ac_b.jpg" /></p>

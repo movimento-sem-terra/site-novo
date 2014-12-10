@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15881
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/opa.jpg
 video: ''
 tags:
-- assuntos: 50 anos do golpe militar
+- tag: 50 anos do golpe militar
 - tag: direitos humanos
 type: news
 support_line: Segundo Larissa Bombardi o período serviu para que&nbsp;grupos de poder

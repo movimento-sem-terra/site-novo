@@ -1,40 +1,42 @@
 ---
-date: "2014-11-28T15:35:51-02:00"
+date: '2014-11-28T15:35:51-02:00'
 tags:
-  - tag: Bahia
-  - tag: Agroecologia
+- tag: Bahia
+- tag: Agroecologia
 title: Escola de Agroecologia Egídio Brunetto realiza 1º seminário sobre meio ambiente
-support_line: O seminário teve como objetivo debater formas e estratégias de inserir o tema da questão ambiental nos currículos escolares e nas práticas pedagógicas das escolas dos assentamentos.
+support_line: O seminário teve como objetivo debater formas e estratégias de inserir
+  o tema da questão ambiental nos currículos escolares e nas práticas pedagógicas
+  das escolas dos assentamentos.
 menu: meio ambiente
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8605/15357470473_df8b4f548d_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8605/15357470473_df8b4f548d_t.jpg"
-    medium: "http://farm9.staticflickr.com/8605/15357470473_df8b4f548d_z.jpg"
-    small: "http://farm9.staticflickr.com/8605/15357470473_df8b4f548d_n.jpg"
-    title: escola_egidiobruneto.jpg
-    $$hashKey: 1KN
-  - link: "http://farm9.staticflickr.com/8640/15354828104_99132700aa_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8640/15354828104_99132700aa_t.jpg"
-    medium: "http://farm9.staticflickr.com/8640/15354828104_99132700aa_z.jpg"
-    small: "http://farm9.staticflickr.com/8640/15354828104_99132700aa_n.jpg"
-    title: escola_egidiobruneto2.jpg
-    $$hashKey: 1KQ
-  - link: "http://farm8.staticflickr.com/7501/15791368317_edb033f1e2_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7501/15791368317_edb033f1e2_t.jpg"
-    medium: "http://farm8.staticflickr.com/7501/15791368317_edb033f1e2_z.jpg"
-    small: "http://farm8.staticflickr.com/7501/15791368317_edb033f1e2_n.jpg"
-    title: escola_egidiobruneto3.jpg
-    $$hashKey: 1KT
-  - link: "http://farm8.staticflickr.com/7562/15951338336_414d2588af_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7562/15951338336_414d2588af_t.jpg"
-    medium: "http://farm8.staticflickr.com/7562/15951338336_414d2588af_z.jpg"
-    small: "http://farm8.staticflickr.com/7562/15951338336_414d2588af_n.jpg"
-    title: escola_egidiobruneto4.jpg
-    $$hashKey: 1KW
-created_date: "2014-12-08T15:39:33-02:00"
+- link: http://farm9.staticflickr.com/8605/15357470473_df8b4f548d_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8605/15357470473_df8b4f548d_t.jpg
+  medium: http://farm9.staticflickr.com/8605/15357470473_df8b4f548d_z.jpg
+  small: http://farm9.staticflickr.com/8605/15357470473_df8b4f548d_n.jpg
+  title: escola_egidiobruneto.jpg
+  "$$hashKey": 1KN
+- link: http://farm9.staticflickr.com/8640/15354828104_99132700aa_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8640/15354828104_99132700aa_t.jpg
+  medium: http://farm9.staticflickr.com/8640/15354828104_99132700aa_z.jpg
+  small: http://farm9.staticflickr.com/8640/15354828104_99132700aa_n.jpg
+  title: escola_egidiobruneto2.jpg
+  "$$hashKey": 1KQ
+- link: http://farm8.staticflickr.com/7501/15791368317_edb033f1e2_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7501/15791368317_edb033f1e2_t.jpg
+  medium: http://farm8.staticflickr.com/7501/15791368317_edb033f1e2_z.jpg
+  small: http://farm8.staticflickr.com/7501/15791368317_edb033f1e2_n.jpg
+  title: escola_egidiobruneto3.jpg
+  "$$hashKey": 1KT
+- link: http://farm8.staticflickr.com/7562/15951338336_414d2588af_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7562/15951338336_414d2588af_t.jpg
+  medium: http://farm8.staticflickr.com/7562/15951338336_414d2588af_z.jpg
+  small: http://farm8.staticflickr.com/7562/15951338336_414d2588af_n.jpg
+  title: escola_egidiobruneto4.jpg
+  "$$hashKey": 1KW
+created_date: '2014-12-08T15:39:33-02:00'
 published: true
-images_hd: "http://farm9.staticflickr.com/8605/15357470473_df8b4f548d_n.jpg"
+images_hd: http://farm9.staticflickr.com/8605/15357470473_df8b4f548d_n.jpg
 
 ---
 <p><img alt="escola_egidiobruneto.jpg" src="http://farm9.staticflickr.com/8605/15357470473_df8b4f548d_b.jpg" /><br />

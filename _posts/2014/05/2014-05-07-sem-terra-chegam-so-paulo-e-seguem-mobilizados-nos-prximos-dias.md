@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16072
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/marchasp.png
 video: ''
 tags:
-- assuntos: jornada de lutas abril 2014
-- localização: são paulo
+- tag: jornada de lutas abril 2014
+- tag: são paulo
 - tag: lutas e mobilizações
 type: news
 support_line: 'No começo da tarde desta quarta-feira (7), os cerca de 1000 Sem Terra

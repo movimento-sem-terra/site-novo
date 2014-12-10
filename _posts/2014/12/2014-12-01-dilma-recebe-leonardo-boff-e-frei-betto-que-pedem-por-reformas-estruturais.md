@@ -1,24 +1,25 @@
 ---
-date: "2014-12-01T11:22:41-02:00"
+date: '2014-12-01T11:22:41-02:00'
 tags:
-  - tag: reformas
-  - tag: movimentos-sociais
-  - tag: governo
-  - tag: teologia-da-libertação
-title: "Dilma recebe Leonardo Boff e Frei Betto, que pedem por reformas estruturais"
-support_line: Os teólogos entregaram a ela uma carta assinada por 34 participantes do Emaús
+- tag: reformas
+- tag: movimentos-sociais
+- tag: governo
+- tag: teologia-da-libertação
+title: Dilma recebe Leonardo Boff e Frei Betto, que pedem por reformas estruturais
+support_line: Os teólogos entregaram a ela uma carta assinada por 34 participantes
+  do Emaús
 menu: projeto popular
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7495/15329757284_88ec180e01_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7495/15329757284_88ec180e01_t.jpg"
-    medium: "http://farm8.staticflickr.com/7495/15329757284_88ec180e01_z.jpg"
-    small: "http://farm8.staticflickr.com/7495/15329757284_88ec180e01_n.jpg"
-    title: fotorcreated_3.jpg
-    $$hashKey: 0XN
-created_date: "2014-12-05T11:28:08-02:00"
+- link: http://farm8.staticflickr.com/7495/15329757284_88ec180e01_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7495/15329757284_88ec180e01_t.jpg
+  medium: http://farm8.staticflickr.com/7495/15329757284_88ec180e01_z.jpg
+  small: http://farm8.staticflickr.com/7495/15329757284_88ec180e01_n.jpg
+  title: fotorcreated_3.jpg
+  "$$hashKey": 0XN
+created_date: '2014-12-05T11:28:08-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7495/15329757284_88ec180e01_n.jpg"
+images_hd: http://farm8.staticflickr.com/7495/15329757284_88ec180e01_n.jpg
 
 ---
 <p><em>Por Frei Betto</em></p>

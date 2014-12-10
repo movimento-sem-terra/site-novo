@@ -5,9 +5,9 @@ legacy_url: http://www.mst.org.br/node/15878
 images: ''
 video: ''
 tags:
-- destaque: manchete
-- localização: rio grande do sul
-- assuntos: mobilização
+- tag: manchete
+- tag: rio grande do sul
+- tag: mobilização
 - tag: lutas e mobilizações
 type: news
 support_line: Cerca de 300 pais e estudantes da Escola Estadual de Ensino Fundamental  Rui

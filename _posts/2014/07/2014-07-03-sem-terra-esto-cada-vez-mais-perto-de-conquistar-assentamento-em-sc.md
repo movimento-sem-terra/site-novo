@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16263
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/Papuã.jpg
 video: ''
 tags:
-- localização: santa catarina
-- assuntos: reforma agrária
+- tag: santa catarina
+- tag: reforma agrária
 - tag: reforma agrária
 type: news
 support_line: Após audiência, as famílias retornam animadas ao acampamento para organizar

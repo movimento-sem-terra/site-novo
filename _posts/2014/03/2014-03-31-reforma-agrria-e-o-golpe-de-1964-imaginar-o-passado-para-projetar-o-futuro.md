@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15901
 images: ''
 video: ''
 tags:
-- semana: tema da semana
-- assuntos: 50 anos do golpe militar
+- tag: tema da semana
+- tag: 50 anos do golpe militar
 - tag: direitos humanos
 type: news
 support_line: A relevância da Reforma Agrária para o país era proporcional às medidas

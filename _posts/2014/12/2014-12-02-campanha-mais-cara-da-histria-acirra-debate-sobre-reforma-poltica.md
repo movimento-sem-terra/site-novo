@@ -1,23 +1,24 @@
 ---
-date: "2014-12-02T16:07:49-02:00"
+date: '2014-12-02T16:07:49-02:00'
 tags:
-  - tag: Eleições
-  - tag: Constituinte
-  - tag: Reforma-Política
+- tag: Eleições
+- tag: Constituinte
+- tag: Reforma-Política
 title: Campanha mais cara da história acirra debate sobre reforma política
-support_line: Políticos usaram R$ 5 bilhões de doações das empresas nas últimas eleições. Há sete meses Gilmar Mendes segura julgamento no STF.
+support_line: Políticos usaram R$ 5 bilhões de doações das empresas nas últimas eleições.
+  Há sete meses Gilmar Mendes segura julgamento no STF.
 menu: projeto popular
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7493/15975330691_7241ee9d50_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7493/15975330691_7241ee9d50_t.jpg"
-    medium: "http://farm8.staticflickr.com/7493/15975330691_7241ee9d50_z.jpg"
-    small: "http://farm8.staticflickr.com/7493/15975330691_7241ee9d50_n.jpg"
-    title: "stf_reformapolitica!.jpg"
-    $$hashKey: 2K7
-created_date: "2014-12-08T16:10:06-02:00"
+- link: http://farm8.staticflickr.com/7493/15975330691_7241ee9d50_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7493/15975330691_7241ee9d50_t.jpg
+  medium: http://farm8.staticflickr.com/7493/15975330691_7241ee9d50_z.jpg
+  small: http://farm8.staticflickr.com/7493/15975330691_7241ee9d50_n.jpg
+  title: stf_reformapolitica!.jpg
+  "$$hashKey": 2K7
+created_date: '2014-12-08T16:10:06-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7493/15975330691_7241ee9d50_n.jpg"
+images_hd: http://farm8.staticflickr.com/7493/15975330691_7241ee9d50_n.jpg
 
 ---
 <div id="content-header">

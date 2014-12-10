@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/16088
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/livroabre.jpg
 video: ''
 tags:
-- assuntos: questão agrária
+- tag: questão agrária
 - tag: educação, cultura e comunicação
 type: news
 support_line: Com mais de 1600 arquivos já disponíveis, o objetivo é  reunir, organizar

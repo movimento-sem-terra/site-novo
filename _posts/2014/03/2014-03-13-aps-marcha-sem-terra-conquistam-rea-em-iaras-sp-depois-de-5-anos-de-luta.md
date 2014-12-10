@@ -5,9 +5,9 @@ legacy_url: http://www.mst.org.br/node/15845
 images: http://www.mst.org.br/sites/default/files/marcha_Iaras.jpg
 video: ''
 tags:
-- destaque: manchete
-- localização: são paulo
-- assuntos: reforma agrária
+- tag: manchete
+- tag: são paulo
+- tag: reforma agrária
 - tag: reforma agrária
 type: news
 support_line: Após 350 marcharem à Justiça Federal de Bauru, os Sem  Terra finalmente

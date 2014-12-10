@@ -1,43 +1,45 @@
 ---
-date: "2014-11-04T11:58:55-02:00"
+date: '2014-11-04T11:58:55-02:00'
 tags:
-  - tag: projeto
-  - tag: prêmio
-  - tag: assentamento
-  - tag: educação
+- tag: projeto
+- tag: prêmio
+- tag: assentamento
+- tag: educação
 hat: Escola de assentamento é premiada na Mostra de Ciência e Tecnologia
-title: "A escola do assentamento Bom Será, em Santana do Livramento (RS), foi premiado com o 2° lugar na Mostratec."
-menu: "educação, cultura e comunicação"
-support_line: "A escola do assentamento Bom Será, em Santana do Livramento (RS), foi premiado com o 2° lugar na Mostratec."
+title: A escola do assentamento Bom Será, em Santana do Livramento (RS), foi premiado
+  com o 2° lugar na Mostratec.
+menu: educação, cultura e comunicação
+support_line: A escola do assentamento Bom Será, em Santana do Livramento (RS), foi
+  premiado com o 2° lugar na Mostratec.
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8645/15765300880_47e23e8de8_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8645/15765300880_47e23e8de8_t.jpg"
-    medium: "http://farm9.staticflickr.com/8645/15765300880_47e23e8de8_z.jpg"
-    small: "http://farm9.staticflickr.com/8645/15765300880_47e23e8de8_n.jpg"
-    title: Escola na Mostratec.jpg
-    $$hashKey: 1TZ
-  - link: "http://farm9.staticflickr.com/8582/15766848977_004d952488_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8582/15766848977_004d952488_t.jpg"
-    medium: "http://farm9.staticflickr.com/8582/15766848977_004d952488_z.jpg"
-    small: "http://farm9.staticflickr.com/8582/15766848977_004d952488_n.jpg"
-    title: Escola premiaçao.jpg
-    $$hashKey: 1U2
-  - link: "http://farm8.staticflickr.com/7494/15765175598_5f6a6d0e6d_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7494/15765175598_5f6a6d0e6d_t.jpg"
-    medium: "http://farm8.staticflickr.com/7494/15765175598_5f6a6d0e6d_z.jpg"
-    small: "http://farm8.staticflickr.com/7494/15765175598_5f6a6d0e6d_n.jpg"
-    title: "Escola1 (1)!.jpg"
-    $$hashKey: 1U5
-  - link: "http://farm9.staticflickr.com/8578/15766559919_92e113dc5b_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8578/15766559919_92e113dc5b_t.jpg"
-    medium: "http://farm9.staticflickr.com/8578/15766559919_92e113dc5b_z.jpg"
-    small: "http://farm9.staticflickr.com/8578/15766559919_92e113dc5b_n.jpg"
-    title: escola2_0.jpg
-    $$hashKey: 1U8
-created_date: "2014-12-05T13:17:02-02:00"
+- link: http://farm9.staticflickr.com/8645/15765300880_47e23e8de8_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8645/15765300880_47e23e8de8_t.jpg
+  medium: http://farm9.staticflickr.com/8645/15765300880_47e23e8de8_z.jpg
+  small: http://farm9.staticflickr.com/8645/15765300880_47e23e8de8_n.jpg
+  title: Escola na Mostratec.jpg
+  "$$hashKey": 1TZ
+- link: http://farm9.staticflickr.com/8582/15766848977_004d952488_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8582/15766848977_004d952488_t.jpg
+  medium: http://farm9.staticflickr.com/8582/15766848977_004d952488_z.jpg
+  small: http://farm9.staticflickr.com/8582/15766848977_004d952488_n.jpg
+  title: Escola premiaçao.jpg
+  "$$hashKey": 1U2
+- link: http://farm8.staticflickr.com/7494/15765175598_5f6a6d0e6d_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7494/15765175598_5f6a6d0e6d_t.jpg
+  medium: http://farm8.staticflickr.com/7494/15765175598_5f6a6d0e6d_z.jpg
+  small: http://farm8.staticflickr.com/7494/15765175598_5f6a6d0e6d_n.jpg
+  title: Escola1 (1)!.jpg
+  "$$hashKey": 1U5
+- link: http://farm9.staticflickr.com/8578/15766559919_92e113dc5b_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8578/15766559919_92e113dc5b_t.jpg
+  medium: http://farm9.staticflickr.com/8578/15766559919_92e113dc5b_z.jpg
+  small: http://farm9.staticflickr.com/8578/15766559919_92e113dc5b_n.jpg
+  title: escola2_0.jpg
+  "$$hashKey": 1U8
+created_date: '2014-12-05T13:17:02-02:00'
 published: true
-images_hd: "http://farm9.staticflickr.com/8578/15766559919_92e113dc5b_n.jpg"
+images_hd: http://farm9.staticflickr.com/8578/15766559919_92e113dc5b_n.jpg
 
 ---
 <p><img alt="Escola premiaçao.jpg" src="http://farm9.staticflickr.com/8582/15766848977_004d952488_b.jpg" /></p>

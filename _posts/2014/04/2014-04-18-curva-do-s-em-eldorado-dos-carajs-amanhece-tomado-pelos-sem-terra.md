@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15990
 images: ''
 video: ''
 tags:
-- assuntos: jornada de lutas abril 2014
+- tag: jornada de lutas abril 2014
 - tag: lutas e mobilizações
 type: news
 support_line: Vinte e um trabalhadores tombados no dia 17 de abril de 1996 pela Polícia

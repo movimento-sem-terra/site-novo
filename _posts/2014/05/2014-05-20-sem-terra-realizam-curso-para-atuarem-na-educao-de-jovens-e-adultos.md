@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16130
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/curso EJA.jpg
 video: ''
 tags:
-- localização: rio grande do norte
-- assuntos: educação
+- tag: rio grande do norte
+- tag: educação
 - tag: educação, cultura e comunicação
 type: news
 support_line: No Rio Grande do Norte, 1.200 educandos das áreas de assentamentos e

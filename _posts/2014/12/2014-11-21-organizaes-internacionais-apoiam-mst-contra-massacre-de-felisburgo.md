@@ -1,22 +1,23 @@
 ---
-date: "2014-11-21T16:10:49-02:00"
+date: '2014-11-21T16:10:49-02:00'
 tags:
-  - tag: Massacre-de-Felisburgo
-  - tag: Minas-Gerais
+- tag: Massacre-de-Felisburgo
+- tag: Minas-Gerais
 title: Organizações internacionais apoiam MST contra ‘Massacre de Felisburgo’
-support_line: "Há dez anos, cinco trabalhadores rurais morreram e cerca de 20 outras pessoas ficaram feridas depois de um ataque a um acampamento em Felisburgo (MG)."
+support_line: Há dez anos, cinco trabalhadores rurais morreram e cerca de 20 outras
+  pessoas ficaram feridas depois de um ataque a um acampamento em Felisburgo (MG).
 menu: direitos humanos
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8625/15333976613_a79e2e0f11_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8625/15333976613_a79e2e0f11_t.jpg"
-    medium: "http://farm9.staticflickr.com/8625/15333976613_a79e2e0f11_z.jpg"
-    small: "http://farm9.staticflickr.com/8625/15333976613_a79e2e0f11_n.jpg"
-    title: violência-do-latifúndio.jpg
-    $$hashKey: 3DB
-created_date: "2014-12-05T16:13:39-02:00"
+- link: http://farm9.staticflickr.com/8625/15333976613_a79e2e0f11_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8625/15333976613_a79e2e0f11_t.jpg
+  medium: http://farm9.staticflickr.com/8625/15333976613_a79e2e0f11_z.jpg
+  small: http://farm9.staticflickr.com/8625/15333976613_a79e2e0f11_n.jpg
+  title: violência-do-latifúndio.jpg
+  "$$hashKey": 3DB
+created_date: '2014-12-05T16:13:39-02:00'
 published: true
-images_hd: "http://farm9.staticflickr.com/8625/15333976613_a79e2e0f11_n.jpg"
+images_hd: http://farm9.staticflickr.com/8625/15333976613_a79e2e0f11_n.jpg
 
 ---
 <div id="content-header">

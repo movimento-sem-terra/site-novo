@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15740
 images: ''
 video: ''
 tags:
-- assuntos: democratização da comunicação
-- tipo de matéria: artigos
+- tag: democratização da comunicação
+- tag: artigos
 - tag: educação, cultura e comunicação
 type: news
 support_line: Para os sem terra, a comunicação popular é fundamental no processo  coletivo

@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15858
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/jornada_de_lutas.jpg
 video: ''
 tags:
-- assuntos: jornada nacional da juventude brasileira 2014
+- tag: jornada nacional da juventude brasileira 2014
 - tag: lutas e mobilizações
 type: news
 support_line: Entre os dias 26 de março a 9 de abril milhares de jovens realizam ações

@@ -1,23 +1,25 @@
 ---
-date: "2014-12-03T16:53:53-02:00"
+date: '2014-12-03T16:53:53-02:00'
 tags:
-  - tag: Agrotóxicos
-  - tag: Reforma-Agrária
-  - tag: São-Paulo
+- tag: Agrotóxicos
+- tag: Reforma-Agrária
+- tag: São-Paulo
 title: Sem Terra ocupam IBS e denunciam paralisação da Reforma Agrária
-support_line: "Dia Mundial da Luta contra os Agrotóxicos, Sem Terra ocupam empresa de assistência técnica, em Ribeirão Preto (SP), e denunciam paralisação da Reforma Agrária."
+support_line: Dia Mundial da Luta contra os Agrotóxicos, Sem Terra ocupam empresa
+  de assistência técnica, em Ribeirão Preto (SP), e denunciam paralisação da Reforma
+  Agrária.
 menu: lutas e mobilizações
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7499/15790334290_eb98424652_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7499/15790334290_eb98424652_t.jpg"
-    medium: "http://farm8.staticflickr.com/7499/15790334290_eb98424652_z.jpg"
-    small: "http://farm8.staticflickr.com/7499/15790334290_eb98424652_n.jpg"
-    title: reformaagraria.jpg
-    $$hashKey: 49S
-created_date: "2014-12-08T16:55:18-02:00"
+- link: http://farm8.staticflickr.com/7499/15790334290_eb98424652_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7499/15790334290_eb98424652_t.jpg
+  medium: http://farm8.staticflickr.com/7499/15790334290_eb98424652_z.jpg
+  small: http://farm8.staticflickr.com/7499/15790334290_eb98424652_n.jpg
+  title: reformaagraria.jpg
+  "$$hashKey": 49S
+created_date: '2014-12-08T16:55:18-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7499/15790334290_eb98424652_n.jpg"
+images_hd: http://farm8.staticflickr.com/7499/15790334290_eb98424652_n.jpg
 
 ---
 <div id="content-header">

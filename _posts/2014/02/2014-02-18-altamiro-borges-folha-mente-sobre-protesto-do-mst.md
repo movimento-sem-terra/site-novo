@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15741
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/protesto!.jpg
 video: ''
 tags:
-- assuntos: 6° congresso nacional
+- tag: 6° congresso nacional
 - tag: reforma agrária
 type: news
 support_line: Nesta sexta, a Folha obrou mais uma calúnia contra os  sem-terra. Afirmou

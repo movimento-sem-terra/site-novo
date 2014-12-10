@@ -1,24 +1,25 @@
 ---
-date: "2014-11-17T15:13:29-02:00"
+date: '2014-11-17T15:13:29-02:00'
 tags:
-  - tag: agroecologia
-  - tag: indígenas
-  - tag: quilombolas
-  - tag: assentamentos
+- tag: agroecologia
+- tag: indígenas
+- tag: quilombolas
+- tag: assentamentos
 title: Assentamento Terra Vista será palco da 3° Jornada de Agroecologia da Bahia
 menu: agricultura camponesa
-support_line: A programação se distribui em espaços com o objetivo de promover a troca permanente de saberes agroecológicos.
+support_line: A programação se distribui em espaços com o objetivo de promover a troca
+  permanente de saberes agroecológicos.
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7477/15767260369_945550f2f5_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7477/15767260369_945550f2f5_t.jpg"
-    medium: "http://farm8.staticflickr.com/7477/15767260369_945550f2f5_z.jpg"
-    small: "http://farm8.staticflickr.com/7477/15767260369_945550f2f5_n.jpg"
-    title: cartaz_novo_jornada.jpg
-    $$hashKey: 0T8
-created_date: "2014-12-05T15:22:40-02:00"
+- link: http://farm8.staticflickr.com/7477/15767260369_945550f2f5_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7477/15767260369_945550f2f5_t.jpg
+  medium: http://farm8.staticflickr.com/7477/15767260369_945550f2f5_z.jpg
+  small: http://farm8.staticflickr.com/7477/15767260369_945550f2f5_n.jpg
+  title: cartaz_novo_jornada.jpg
+  "$$hashKey": 0T8
+created_date: '2014-12-05T15:22:40-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7477/15767260369_945550f2f5_n.jpg"
+images_hd: http://farm8.staticflickr.com/7477/15767260369_945550f2f5_n.jpg
 
 ---
 <p>&nbsp;</p>

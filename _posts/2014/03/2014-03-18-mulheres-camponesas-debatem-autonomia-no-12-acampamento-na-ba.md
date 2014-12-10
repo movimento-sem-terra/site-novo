@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15860
 images: http://www.mst.org.br/sites/default/files/Mulheres_BA.jpg
 video: CX104iHvwf4
 tags:
-- assuntos: jornada de luta das mulheres 2014
+- tag: jornada de luta das mulheres 2014
 - tag: lutas e mobilizações
 type: video
 support_line: Sob o compasso da mística e da força do campo e das florestas, cerca

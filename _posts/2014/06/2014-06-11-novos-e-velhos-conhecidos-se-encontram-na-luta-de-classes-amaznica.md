@@ -5,9 +5,9 @@ legacy_url: http://www.mst.org.br/node/16211
 images: ''
 video: ''
 tags:
-- destaque: manchete
-- localização: pará
-- assuntos: reforma agrária
+- tag: manchete
+- tag: pará
+- tag: reforma agrária
 - tag: reforma agrária
 type: news
 support_line: Ao embarcar num dos ônibus que levaria mais de mil famílias à ocupação,

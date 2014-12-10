@@ -1,23 +1,24 @@
 ---
-date: "2014-12-09T17:05:45-02:00"
+date: '2014-12-09T17:05:45-02:00'
 tags:
-  - tag: alimentos
-  - tag: reforma-agraria
-  - tag: cesta-Natal
+- tag: alimentos
+- tag: reforma-agraria
+- tag: cesta-Natal
 title: MST lança cesta de natal com produtos da Reforma Agrária
 menu: reforma agrária
-support_line: São 17 produtos vindos de diversas partes do Brasil das áreas de assentamento do Movimento.
+support_line: São 17 produtos vindos de diversas partes do Brasil das áreas de assentamento
+  do Movimento.
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7469/15797858758_7837b895c3_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7469/15797858758_7837b895c3_t.jpg"
-    medium: "http://farm8.staticflickr.com/7469/15797858758_7837b895c3_z.jpg"
-    small: "http://farm8.staticflickr.com/7469/15797858758_7837b895c3_n.jpg"
-    title: cestadenatal2 (1).fw_.png
-    $$hashKey: 0QZ
-created_date: "2014-12-09T17:08:08-02:00"
+- link: http://farm8.staticflickr.com/7469/15797858758_7837b895c3_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7469/15797858758_7837b895c3_t.jpg
+  medium: http://farm8.staticflickr.com/7469/15797858758_7837b895c3_z.jpg
+  small: http://farm8.staticflickr.com/7469/15797858758_7837b895c3_n.jpg
+  title: cestadenatal2 (1).fw_.png
+  "$$hashKey": 0QZ
+created_date: '2014-12-09T17:08:08-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7469/15797858758_7837b895c3_n.jpg"
+images_hd: http://farm8.staticflickr.com/7469/15797858758_7837b895c3_n.jpg
 
 ---
 <p><img alt="cestadenatal2 (1).fw_.png" src="http://farm8.staticflickr.com/7469/15797858758_7837b895c3_b.jpg" /></p>

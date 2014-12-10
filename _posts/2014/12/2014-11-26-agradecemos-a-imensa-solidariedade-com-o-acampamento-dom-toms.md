@@ -1,22 +1,23 @@
 ---
-date: "2014-11-26T17:30:42-02:00"
+date: '2014-11-26T17:30:42-02:00'
 tags:
-  - tag: Solidariedade
-  - tag: Goiás
-title: "\"Agradecemos a imensa solidariedade com o Acampamento Dom Tomás\""
-support_line: "Em carta, os Sem Terra que ocupam a Fazenda Santa Mônica, do senador Eunício de Oliveira, agradecem a solidariedade recebida."
+- tag: Solidariedade
+- tag: Goiás
+title: '"Agradecemos a imensa solidariedade com o Acampamento Dom Tomás"'
+support_line: Em carta, os Sem Terra que ocupam a Fazenda Santa Mônica, do senador
+  Eunício de Oliveira, agradecem a solidariedade recebida.
 menu: reforma agrária
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8627/15931905562_97feaf7205_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8627/15931905562_97feaf7205_t.jpg"
-    medium: "http://farm9.staticflickr.com/8627/15931905562_97feaf7205_z.jpg"
-    small: "http://farm9.staticflickr.com/8627/15931905562_97feaf7205_n.jpg"
-    title: mst_ato2_0.jpg
-    $$hashKey: 0T0
+- link: http://farm9.staticflickr.com/8627/15931905562_97feaf7205_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8627/15931905562_97feaf7205_t.jpg
+  medium: http://farm9.staticflickr.com/8627/15931905562_97feaf7205_z.jpg
+  small: http://farm9.staticflickr.com/8627/15931905562_97feaf7205_n.jpg
+  title: mst_ato2_0.jpg
+  "$$hashKey": 0T0
 published: true
-images_hd: "http://farm9.staticflickr.com/8627/15931905562_97feaf7205_n.jpg"
-created_date: "2014-11-26 12:00"
+images_hd: http://farm9.staticflickr.com/8627/15931905562_97feaf7205_n.jpg
+created_date: 2014-11-26 12:00
 
 ---
 <p><br />

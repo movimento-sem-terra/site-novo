@@ -1,22 +1,23 @@
 ---
-date: "2014-11-10T13:31:17-02:00"
+date: '2014-11-10T13:31:17-02:00'
 tags:
-  - tag: Agrotóxicos
-  - tag: Agronegócio
+- tag: Agrotóxicos
+- tag: Agronegócio
 title: Campanha convoca população às ruas contra o uso de agrotóxicos
-support_line: "No próximo dia 3 de dezembro, os brasileiros devem ir às ruas e se unir para exigir comida sem veneno."
+support_line: No próximo dia 3 de dezembro, os brasileiros devem ir às ruas e se unir
+  para exigir comida sem veneno.
 menu: lutas e mobilizações
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7468/15952704635_217cb6d035_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7468/15952704635_217cb6d035_t.jpg"
-    medium: "http://farm8.staticflickr.com/7468/15952704635_217cb6d035_z.jpg"
-    small: "http://farm8.staticflickr.com/7468/15952704635_217cb6d035_n.jpg"
-    title: pulverização.jpg
-    $$hashKey: "270"
-created_date: "2014-12-05T13:34:22-02:00"
+- link: http://farm8.staticflickr.com/7468/15952704635_217cb6d035_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7468/15952704635_217cb6d035_t.jpg
+  medium: http://farm8.staticflickr.com/7468/15952704635_217cb6d035_z.jpg
+  small: http://farm8.staticflickr.com/7468/15952704635_217cb6d035_n.jpg
+  title: pulverização.jpg
+  "$$hashKey": '270'
+created_date: '2014-12-05T13:34:22-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7468/15952704635_217cb6d035_n.jpg"
+images_hd: http://farm8.staticflickr.com/7468/15952704635_217cb6d035_n.jpg
 
 ---
 <div id="content-header">

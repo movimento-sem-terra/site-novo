@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16259
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/EIVI_BA.jpg
 video: ''
 tags:
-- localização: bahia
-- assuntos: eivi
+- tag: bahia
+- tag: eivi
 - tag: projeto popular
 type: news
 support_line: Cerca de 80 pessoas participaram do&nbsp;VIII Estágio de Vivência e

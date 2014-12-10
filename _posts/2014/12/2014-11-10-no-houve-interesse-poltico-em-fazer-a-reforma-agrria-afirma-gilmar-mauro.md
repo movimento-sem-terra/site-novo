@@ -1,21 +1,23 @@
 ---
-date: "2014-11-10T13:34:27-02:00"
+date: '2014-11-10T13:34:27-02:00'
 tags:
-  - tag: Reforma-Agrária
-support_line: "Mesa realizada pelo CONSEA debateu a relação entre os conflitos fundiários, os impactos das grandes obras e a segurança alimentar de povos indígenas e comunidades tradicionais."
+- tag: Reforma-Agrária
+support_line: Mesa realizada pelo CONSEA debateu a relação entre os conflitos fundiários,
+  os impactos das grandes obras e a segurança alimentar de povos indígenas e comunidades
+  tradicionais.
 menu: reforma agrária
 title: "“Não houve interesse político em fazer a Reforma Agrária”, afirma Gilmar Mauro"
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7473/15333109903_5186bc28fd_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7473/15333109903_5186bc28fd_t.jpg"
-    medium: "http://farm8.staticflickr.com/7473/15333109903_5186bc28fd_z.jpg"
-    small: "http://farm8.staticflickr.com/7473/15333109903_5186bc28fd_n.jpg"
-    title: Mesa-de-Controvérsias-2.jpg
-    $$hashKey: 2E3
-created_date: "2014-12-05T13:37:44-02:00"
+- link: http://farm8.staticflickr.com/7473/15333109903_5186bc28fd_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7473/15333109903_5186bc28fd_t.jpg
+  medium: http://farm8.staticflickr.com/7473/15333109903_5186bc28fd_z.jpg
+  small: http://farm8.staticflickr.com/7473/15333109903_5186bc28fd_n.jpg
+  title: Mesa-de-Controvérsias-2.jpg
+  "$$hashKey": 2E3
+created_date: '2014-12-05T13:37:44-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7473/15333109903_5186bc28fd_n.jpg"
+images_hd: http://farm8.staticflickr.com/7473/15333109903_5186bc28fd_n.jpg
 
 ---
 <div id="content-header">

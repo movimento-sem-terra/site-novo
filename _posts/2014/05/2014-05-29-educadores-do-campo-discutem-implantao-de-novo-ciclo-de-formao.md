@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16165
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/educação!!!.jpg
 video: ''
 tags:
-- localização: rio grande do sul
-- assuntos: educação
+- tag: rio grande do sul
+- tag: educação
 - tag: educação, cultura e comunicação
 type: news
 support_line: O novo ciclo de formação a ser implementado nas escolas do campo no

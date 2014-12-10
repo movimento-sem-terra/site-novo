@@ -1,22 +1,23 @@
 ---
-date: "2014-11-13T13:43:53-02:00"
+date: '2014-11-13T13:43:53-02:00'
 tags:
-  - tag: Leandro-Konder
-  - tag: Homenagem
-title: "Em nota, MST se despede do filósofo marxista Leandro Konder"
+- tag: Leandro-Konder
+- tag: Homenagem
+title: Em nota, MST se despede do filósofo marxista Leandro Konder
 menu: lutadores-do-povo
-support_line: O companheiro que perdemos sabia como poucos transitar da filosofia à política.
+support_line: O companheiro que perdemos sabia como poucos transitar da filosofia
+  à política.
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8633/15952118542_3670d67eac_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8633/15952118542_3670d67eac_t.jpg"
-    medium: "http://farm9.staticflickr.com/8633/15952118542_3670d67eac_z.jpg"
-    small: "http://farm9.staticflickr.com/8633/15952118542_3670d67eac_n.jpg"
-    title: akonder.jpg
-    $$hashKey: 2S6
-created_date: "2014-12-05T13:47:12-02:00"
+- link: http://farm9.staticflickr.com/8633/15952118542_3670d67eac_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8633/15952118542_3670d67eac_t.jpg
+  medium: http://farm9.staticflickr.com/8633/15952118542_3670d67eac_z.jpg
+  small: http://farm9.staticflickr.com/8633/15952118542_3670d67eac_n.jpg
+  title: akonder.jpg
+  "$$hashKey": 2S6
+created_date: '2014-12-05T13:47:12-02:00'
 published: true
-images_hd: "http://farm9.staticflickr.com/8633/15952118542_3670d67eac_n.jpg"
+images_hd: http://farm9.staticflickr.com/8633/15952118542_3670d67eac_n.jpg
 
 ---
 <div id="content-header">

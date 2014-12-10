@@ -1,23 +1,24 @@
 ---
-date: "2014-11-17T13:59:25-02:00"
+date: '2014-11-17T13:59:25-02:00'
 tags:
-  - tag: democracia
-  - tag: monopólio
-  - tag: golpe-militar
-title: "Para MPA, está em jogo um golpe contra a soberania nacional"
-support_line: O Movimento dos Pequenos Agricultores se mostra preocupado com a atual conjuntura política do país.
+- tag: democracia
+- tag: monopólio
+- tag: golpe-militar
+title: Para MPA, está em jogo um golpe contra a soberania nacional
+support_line: O Movimento dos Pequenos Agricultores se mostra preocupado com a atual
+  conjuntura política do país.
 menu: direitos humanos
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8676/15333341473_321f7f8bde_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8676/15333341473_321f7f8bde_t.jpg"
-    medium: "http://farm9.staticflickr.com/8676/15333341473_321f7f8bde_z.jpg"
-    small: "http://farm9.staticflickr.com/8676/15333341473_321f7f8bde_n.jpg"
-    title: Índice.jpg
-    $$hashKey: 5T6
-created_date: "2014-12-05T14:19:23-02:00"
+- link: http://farm9.staticflickr.com/8676/15333341473_321f7f8bde_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8676/15333341473_321f7f8bde_t.jpg
+  medium: http://farm9.staticflickr.com/8676/15333341473_321f7f8bde_z.jpg
+  small: http://farm9.staticflickr.com/8676/15333341473_321f7f8bde_n.jpg
+  title: "Índice.jpg"
+  "$$hashKey": 5T6
+created_date: '2014-12-05T14:19:23-02:00'
 published: true
-images_hd: "http://farm9.staticflickr.com/8676/15333341473_321f7f8bde_n.jpg"
+images_hd: http://farm9.staticflickr.com/8676/15333341473_321f7f8bde_n.jpg
 
 ---
 <p><em>Da P&aacute;gina do MST</em></p>

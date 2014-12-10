@@ -1,34 +1,36 @@
 ---
-date: "2014-11-21T16:07:59-02:00"
+date: '2014-11-21T16:07:59-02:00'
 tags:
-  - tag: Bahia
-  - tag: Formação
+- tag: Bahia
+- tag: Formação
 title: Trabalhadores Sem Terra debatem a identidade camponesa e a luta pela terra
-support_line: "Durante os quatro dias de estudo foram abordados diversos temas que ajudaram a compreender a percepção identitária, social, cultural e política dos Sem Terra."
-menu: "educação, cultura e comunicação"
+support_line: Durante os quatro dias de estudo foram abordados diversos temas que
+  ajudaram a compreender a percepção identitária, social, cultural e política dos
+  Sem Terra.
+menu: educação, cultura e comunicação
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8624/15927785716_f4fce51f2b_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8624/15927785716_f4fce51f2b_t.jpg"
-    medium: "http://farm9.staticflickr.com/8624/15927785716_f4fce51f2b_z.jpg"
-    small: "http://farm9.staticflickr.com/8624/15927785716_f4fce51f2b_n.jpg"
-    title: curso_BAHIA.jpg
-    $$hashKey: 30P
-  - link: "http://farm8.staticflickr.com/7494/15951616971_9a4ed1c8c5_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7494/15951616971_9a4ed1c8c5_t.jpg"
-    medium: "http://farm8.staticflickr.com/7494/15951616971_9a4ed1c8c5_z.jpg"
-    small: "http://farm8.staticflickr.com/7494/15951616971_9a4ed1c8c5_n.jpg"
-    title: curso_BAHIA2.jpg
-    $$hashKey: 30U
-  - link: "http://farm9.staticflickr.com/8636/15766167748_f2fe2db2e7_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8636/15766167748_f2fe2db2e7_t.jpg"
-    medium: "http://farm9.staticflickr.com/8636/15766167748_f2fe2db2e7_z.jpg"
-    small: "http://farm9.staticflickr.com/8636/15766167748_f2fe2db2e7_n.jpg"
-    title: curso_BAHIA3.jpg
-    $$hashKey: 30X
-created_date: "2014-12-05T16:10:29-02:00"
+- link: http://farm9.staticflickr.com/8624/15927785716_f4fce51f2b_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8624/15927785716_f4fce51f2b_t.jpg
+  medium: http://farm9.staticflickr.com/8624/15927785716_f4fce51f2b_z.jpg
+  small: http://farm9.staticflickr.com/8624/15927785716_f4fce51f2b_n.jpg
+  title: curso_BAHIA.jpg
+  "$$hashKey": 30P
+- link: http://farm8.staticflickr.com/7494/15951616971_9a4ed1c8c5_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7494/15951616971_9a4ed1c8c5_t.jpg
+  medium: http://farm8.staticflickr.com/7494/15951616971_9a4ed1c8c5_z.jpg
+  small: http://farm8.staticflickr.com/7494/15951616971_9a4ed1c8c5_n.jpg
+  title: curso_BAHIA2.jpg
+  "$$hashKey": 30U
+- link: http://farm9.staticflickr.com/8636/15766167748_f2fe2db2e7_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8636/15766167748_f2fe2db2e7_t.jpg
+  medium: http://farm9.staticflickr.com/8636/15766167748_f2fe2db2e7_z.jpg
+  small: http://farm9.staticflickr.com/8636/15766167748_f2fe2db2e7_n.jpg
+  title: curso_BAHIA3.jpg
+  "$$hashKey": 30X
+created_date: '2014-12-05T16:10:29-02:00'
 published: true
-images_hd: "http://farm9.staticflickr.com/8636/15766167748_f2fe2db2e7_n.jpg"
+images_hd: http://farm9.staticflickr.com/8636/15766167748_f2fe2db2e7_n.jpg
 
 ---
 <p><img alt="curso_BAHIA2.jpg" src="http://farm8.staticflickr.com/7494/15951616971_9a4ed1c8c5_b.jpg" /></p>

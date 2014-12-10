@@ -1,25 +1,26 @@
 ---
-date: "2014-12-08T16:38:43-02:00"
+date: '2014-12-08T16:38:43-02:00'
 tags:
-  - tag: educação
-  - tag: agronegócio
-  - tag: escolas
-  - tag: ABAG
-  - tag: Agrinho
+- tag: educação
+- tag: agronegócio
+- tag: escolas
+- tag: ABAG
+- tag: Agrinho
 title: MP se posiciona contra programa que ensina crianças a usar agrotóxicos
-menu: "educação, cultura e comunicação"
-support_line: "Documento sugere a adoção de medidas que impeçam a participação das escolas, professores e alunos das redes públicas ou privadas de ensino no programa."
+menu: educação, cultura e comunicação
+support_line: Documento sugere a adoção de medidas que impeçam a participação das
+  escolas, professores e alunos das redes públicas ou privadas de ensino no programa.
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7556/15985188015_83f602157d_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7556/15985188015_83f602157d_t.jpg"
-    medium: "http://farm8.staticflickr.com/7556/15985188015_83f602157d_z.jpg"
-    small: "http://farm8.staticflickr.com/7556/15985188015_83f602157d_n.jpg"
-    title: Aplicação-dos-agrotóxicos-2.jpg
-    $$hashKey: 03S
-created_date: "2014-12-09T16:47:13-02:00"
+- link: http://farm8.staticflickr.com/7556/15985188015_83f602157d_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7556/15985188015_83f602157d_t.jpg
+  medium: http://farm8.staticflickr.com/7556/15985188015_83f602157d_z.jpg
+  small: http://farm8.staticflickr.com/7556/15985188015_83f602157d_n.jpg
+  title: Aplicação-dos-agrotóxicos-2.jpg
+  "$$hashKey": 03S
+created_date: '2014-12-09T16:47:13-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7556/15985188015_83f602157d_n.jpg"
+images_hd: http://farm8.staticflickr.com/7556/15985188015_83f602157d_n.jpg
 
 ---
 <p><br />

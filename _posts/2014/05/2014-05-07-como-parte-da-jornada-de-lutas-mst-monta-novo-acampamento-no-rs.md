@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/16068
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/acampaRs.jpg
 video: ''
 tags:
-- assuntos: jornada de lutas abril 2014
+- tag: jornada de lutas abril 2014
 - tag: lutas e mobilizações
 type: news
 support_line: A proposta da ação é reunir novas famílias de trabalhadores Sem Terra

@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15678
 images: ''
 video: aTk_4rm7QD8
 tags:
-- destaque: destaque
-- assuntos: unidos da lona preta
+- tag: destaque
+- tag: unidos da lona preta
 - tag: educação, cultura e comunicação
 type: video
 support_line: ''

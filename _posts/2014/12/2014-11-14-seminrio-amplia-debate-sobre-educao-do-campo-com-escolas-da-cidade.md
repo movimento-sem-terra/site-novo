@@ -1,24 +1,26 @@
 ---
-date: "2014-11-14T15:06:24-02:00"
+date: '2014-11-14T15:06:24-02:00'
 tags:
-  - tag: Educação
-  - tag: Santa-Catarina
-  - tag: Seminário
+- tag: Educação
+- tag: Santa-Catarina
+- tag: Seminário
 title: Seminário amplia debate sobre educação do campo com escolas da cidade
 hat: Santa Catarina
-menu: "educação, cultura e comunicação"
-support_line: "Em Abelardo Luz (SC), professores das redes estadual e municipal das áreas de assentamento e acampamento e da cidade aprofundam debate sobre educação do campo dentro das escolas do Movimento."
+menu: educação, cultura e comunicação
+support_line: Em Abelardo Luz (SC), professores das redes estadual e municipal das
+  áreas de assentamento e acampamento e da cidade aprofundam debate sobre educação
+  do campo dentro das escolas do Movimento.
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8576/15767225099_3b63fc55d3_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8576/15767225099_3b63fc55d3_t.jpg"
-    medium: "http://farm9.staticflickr.com/8576/15767225099_3b63fc55d3_z.jpg"
-    small: "http://farm9.staticflickr.com/8576/15767225099_3b63fc55d3_n.jpg"
-    title: seminario educ sc.jpg
-    $$hashKey: 2IU
-created_date: "2014-12-05T15:12:34-02:00"
+- link: http://farm9.staticflickr.com/8576/15767225099_3b63fc55d3_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8576/15767225099_3b63fc55d3_t.jpg
+  medium: http://farm9.staticflickr.com/8576/15767225099_3b63fc55d3_z.jpg
+  small: http://farm9.staticflickr.com/8576/15767225099_3b63fc55d3_n.jpg
+  title: seminario educ sc.jpg
+  "$$hashKey": 2IU
+created_date: '2014-12-05T15:12:34-02:00'
 published: true
-images_hd: "http://farm9.staticflickr.com/8576/15767225099_3b63fc55d3_n.jpg"
+images_hd: http://farm9.staticflickr.com/8576/15767225099_3b63fc55d3_n.jpg
 
 ---
 <p><img alt="seminario educ sc.jpg" height="443" src="http://farm9.staticflickr.com/8576/15767225099_3b63fc55d3_b.jpg" width="668" /><br />

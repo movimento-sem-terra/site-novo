@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16086
 images: ''
 video: ''
 tags:
-- localização: paraíba
-- assuntos: jornada de lutas abril 2014
+- tag: paraíba
+- tag: jornada de lutas abril 2014
 - tag: lutas e mobilizações
 type: news
 support_line: A ação realizada por mais de 350 mulheres reivindica a suspensão da

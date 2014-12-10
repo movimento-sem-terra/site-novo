@@ -5,9 +5,9 @@ legacy_url: http://www.mst.org.br/node/16129
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/9abre2.JPG
 video: ''
 tags:
-- destaque: manchete
-- localização: paraná
-- assuntos: reforma agrária
+- tag: manchete
+- tag: paraná
+- tag: reforma agrária
 - tag: lutas e mobilizações
 type: news
 support_line: Filhos e filhas de assentados do PR colocam em pauta a  necessidade

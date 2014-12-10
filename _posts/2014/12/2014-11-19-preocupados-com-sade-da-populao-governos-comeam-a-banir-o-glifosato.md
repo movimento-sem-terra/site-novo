@@ -1,26 +1,28 @@
 ---
-date: "2014-11-19T16:10:11-02:00"
+date: '2014-11-19T16:10:11-02:00'
 tags:
-  - tag: Agrotóxicos
-  - tag: Venenos
-  - tag: agronegócio
-  - tag: glifosato
-  - tag: banimento
-title: "Preocupados com saúde da população, governos começam a banir o Glifosato"
-support_line: "Comercializado pela Monsanto com o nome de Round Up, o agrotóxico mata praticamente todos os tipos de plantas, exceto as geneticamente modificadas para serem resistentes."
+- tag: Agrotóxicos
+- tag: Venenos
+- tag: agronegócio
+- tag: glifosato
+- tag: banimento
+title: Preocupados com saúde da população, governos começam a banir o Glifosato
+support_line: Comercializado pela Monsanto com o nome de Round Up, o agrotóxico mata
+  praticamente todos os tipos de plantas, exceto as geneticamente modificadas para
+  serem resistentes.
 hat: Agronegócio
 menu: agronegócio
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8662/15766301570_31b280a969_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8662/15766301570_31b280a969_t.jpg"
-    medium: "http://farm9.staticflickr.com/8662/15766301570_31b280a969_z.jpg"
-    small: "http://farm9.staticflickr.com/8662/15766301570_31b280a969_n.jpg"
-    title: efectos-negativos-del-herbicida-glifosato.jpg
-    $$hashKey: 3CL
-created_date: "2014-12-05T16:12:35-02:00"
+- link: http://farm9.staticflickr.com/8662/15766301570_31b280a969_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8662/15766301570_31b280a969_t.jpg
+  medium: http://farm9.staticflickr.com/8662/15766301570_31b280a969_z.jpg
+  small: http://farm9.staticflickr.com/8662/15766301570_31b280a969_n.jpg
+  title: efectos-negativos-del-herbicida-glifosato.jpg
+  "$$hashKey": 3CL
+created_date: '2014-12-05T16:12:35-02:00'
 published: true
-images_hd: "http://farm9.staticflickr.com/8662/15766301570_31b280a969_n.jpg"
+images_hd: http://farm9.staticflickr.com/8662/15766301570_31b280a969_n.jpg
 
 ---
 <p><br />

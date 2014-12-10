@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/14156
 images: ''
 video: G3urWwIwwoc
 tags:
-- assuntos: agrotóxicos
+- tag: agrotóxicos
 - tag: agronegócio
 type: video
 support_line: Debate realizado no 1º Seminário   Agrotóxicos e Câncer, no Rio de Janeiro.

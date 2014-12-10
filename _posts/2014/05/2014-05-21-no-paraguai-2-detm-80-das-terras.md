@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16133
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/Soja_Goioerê.jpg
 video: ''
 tags:
-- assuntos: questão agrária
-- localização: paraguai
+- tag: questão agrária
+- tag: paraguai
 - tag: agronegócio
 type: news
 support_line: Nos dez últimos anos, denuncia a ONG, mais de 900.000 pessoas foram

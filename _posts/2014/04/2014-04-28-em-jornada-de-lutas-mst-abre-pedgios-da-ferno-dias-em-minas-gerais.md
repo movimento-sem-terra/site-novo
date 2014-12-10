@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16020
 images: ''
 video: ''
 tags:
-- localização: minas gerais
-- assuntos: jornada de lutas abril 2014
+- tag: minas gerais
+- tag: jornada de lutas abril 2014
 - tag: lutas e mobilizações
 type: news
 support_line: Dentre as pautas, está a denúncia da paralização da Reforma Agrária,

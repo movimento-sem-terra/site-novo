@@ -1,22 +1,23 @@
 ---
-date: "2014-11-22T14:58:07-02:00"
+date: '2014-11-22T14:58:07-02:00'
 tags:
-  - tag: denúncia
-  - tag: Kátia-Abreu
-  - tag: agricultura
+- tag: denúncia
+- tag: Kátia-Abreu
+- tag: agricultura
 title: A história do golpe de Kátia Abreu contra camponeses do Tocantins
-support_line: A Página do MST resgata a denuncia do golpe da família Kátia Abreu contra pequenos agricultores em Tocantins.
+support_line: A Página do MST resgata a denuncia do golpe da família Kátia Abreu contra
+  pequenos agricultores em Tocantins.
 menu: agronegócio
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8637/15760540529_878fb5bdd8_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8637/15760540529_878fb5bdd8_t.jpg"
-    medium: "http://farm9.staticflickr.com/8637/15760540529_878fb5bdd8_z.jpg"
-    small: "http://farm9.staticflickr.com/8637/15760540529_878fb5bdd8_n.jpg"
-    title: campones.jpg
-    $$hashKey: 0LQ
+- link: http://farm9.staticflickr.com/8637/15760540529_878fb5bdd8_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8637/15760540529_878fb5bdd8_t.jpg
+  medium: http://farm9.staticflickr.com/8637/15760540529_878fb5bdd8_z.jpg
+  small: http://farm9.staticflickr.com/8637/15760540529_878fb5bdd8_n.jpg
+  title: campones.jpg
+  "$$hashKey": 0LQ
 published: true
-images_hd: "http://farm9.staticflickr.com/8637/15760540529_878fb5bdd8_n.jpg"
+images_hd: http://farm9.staticflickr.com/8637/15760540529_878fb5bdd8_n.jpg
 section: featured-news
 
 ---

@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16243
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/ocupação-fazenda-Santa-Tereza-no-Pará2.gif
 video: ''
 tags:
-- assuntos: direitos humanos
-- localização: pará
+- tag: direitos humanos
+- tag: pará
 - tag: agronegócio
 type: news
 support_line: Para o MST, há uma estratégia dos fazendeiros e do Incra para intimidar

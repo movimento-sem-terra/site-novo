@@ -1,21 +1,23 @@
 ---
-date: "2014-11-25T16:18:28-02:00"
+date: '2014-11-25T16:18:28-02:00'
 tags:
-  - tag: Mineração
-title: "Relator do Código da Mineração recebeu 1,8 milhão de empresas de mineração"
-support_line: "O deputado federal Leonardo Quintão (PMDB-MG) recebeu R$ 1,8 milhão de empresas de mineração para a campanha à reeleição. O deputado Chico Alencar (PSOL-RJ) apresentou uma questão de ordem que pede a substituição de Quintão."
+- tag: Mineração
+title: Relator do Código da Mineração recebeu 1,8 milhão de empresas de mineração
+support_line: O deputado federal Leonardo Quintão (PMDB-MG) recebeu R$ 1,8 milhão
+  de empresas de mineração para a campanha à reeleição. O deputado Chico Alencar (PSOL-RJ)
+  apresentou uma questão de ordem que pede a substituição de Quintão.
 menu: agronegócio
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8639/15767896017_0efbc8363a_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8639/15767896017_0efbc8363a_t.jpg"
-    medium: "http://farm9.staticflickr.com/8639/15767896017_0efbc8363a_z.jpg"
-    small: "http://farm9.staticflickr.com/8639/15767896017_0efbc8363a_n.jpg"
-    title: Leonardo Quintão (PMDB-MG).jpg
-    $$hashKey: 3RB
-created_date: "2014-12-05T16:19:45-02:00"
+- link: http://farm9.staticflickr.com/8639/15767896017_0efbc8363a_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8639/15767896017_0efbc8363a_t.jpg
+  medium: http://farm9.staticflickr.com/8639/15767896017_0efbc8363a_z.jpg
+  small: http://farm9.staticflickr.com/8639/15767896017_0efbc8363a_n.jpg
+  title: Leonardo Quintão (PMDB-MG).jpg
+  "$$hashKey": 3RB
+created_date: '2014-12-05T16:19:45-02:00'
 published: true
-images_hd: "http://farm9.staticflickr.com/8639/15767896017_0efbc8363a_n.jpg"
+images_hd: http://farm9.staticflickr.com/8639/15767896017_0efbc8363a_n.jpg
 
 ---
 <p><img alt="Leonardo Quintão (PMDB-MG).jpg" src="http://farm9.staticflickr.com/8639/15767896017_0efbc8363a_b.jpg" /></p>

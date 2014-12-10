@@ -1,24 +1,26 @@
 ---
-date: "2014-11-04T13:30:06-02:00"
+date: '2014-11-04T13:30:06-02:00'
 tags:
-  - tag: Papa-Franscico
-  - tag: Sem-Terra
-  - tag: crise
-  - tag: Vaticano
-title: "''Nós, marxistas, lutamos junto com o papa para parar o diabo\""
+- tag: Papa-Franscico
+- tag: Sem-Terra
+- tag: crise
+- tag: Vaticano
+title: '''''Nós, marxistas, lutamos junto com o papa para parar o diabo"'
 menu: projeto popular
-support_line: "Em entrevista Papa Francisco afirma que a atual crise também oferece oportunidades de mudança, e qualquer pessoa disposta a participar dele deve ser incluída."
+support_line: Em entrevista Papa Francisco afirma que a atual crise também oferece
+  oportunidades de mudança, e qualquer pessoa disposta a participar dele deve ser
+  incluída.
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7463/15950735911_a65d159112_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7463/15950735911_a65d159112_t.jpg"
-    medium: "http://farm8.staticflickr.com/7463/15950735911_a65d159112_z.jpg"
-    small: "http://farm8.staticflickr.com/7463/15950735911_a65d159112_n.jpg"
-    title: Índice.jpg
-    $$hashKey: 3OU
-created_date: "2014-12-05T13:34:19-02:00"
+- link: http://farm8.staticflickr.com/7463/15950735911_a65d159112_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7463/15950735911_a65d159112_t.jpg
+  medium: http://farm8.staticflickr.com/7463/15950735911_a65d159112_z.jpg
+  small: http://farm8.staticflickr.com/7463/15950735911_a65d159112_n.jpg
+  title: "Índice.jpg"
+  "$$hashKey": 3OU
+created_date: '2014-12-05T13:34:19-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7463/15950735911_a65d159112_n.jpg"
+images_hd: http://farm8.staticflickr.com/7463/15950735911_a65d159112_n.jpg
 label: interviews
 
 ---

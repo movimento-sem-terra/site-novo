@@ -1,23 +1,24 @@
 ---
-date: "2014-11-21T16:03:08-02:00"
+date: '2014-11-21T16:03:08-02:00'
 tags:
-  - tag: Eucalipto
-  - tag: Paraná
-  - tag: Meio-Ambiente
+- tag: Eucalipto
+- tag: Paraná
+- tag: Meio-Ambiente
 title: Seminário discute consequências da monocultura do eucalipto
-support_line: Mais de 300 mil hectares no Paraná são propriedade de apenas uma fábrica de celulose e papel. O município de Imbaú é um dos mais afetados pela monocultura.
+support_line: Mais de 300 mil hectares no Paraná são propriedade de apenas uma fábrica
+  de celulose e papel. O município de Imbaú é um dos mais afetados pela monocultura.
 menu: agronegócio
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8658/15927769476_d936a30fe3_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8658/15927769476_d936a30fe3_t.jpg"
-    medium: "http://farm9.staticflickr.com/8658/15927769476_d936a30fe3_z.jpg"
-    small: "http://farm9.staticflickr.com/8658/15927769476_d936a30fe3_n.jpg"
-    title: eucalipto.jpg
-    $$hashKey: 2S5
-created_date: "2014-12-05T16:05:53-02:00"
+- link: http://farm9.staticflickr.com/8658/15927769476_d936a30fe3_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8658/15927769476_d936a30fe3_t.jpg
+  medium: http://farm9.staticflickr.com/8658/15927769476_d936a30fe3_z.jpg
+  small: http://farm9.staticflickr.com/8658/15927769476_d936a30fe3_n.jpg
+  title: eucalipto.jpg
+  "$$hashKey": 2S5
+created_date: '2014-12-05T16:05:53-02:00'
 published: true
-images_hd: "http://farm9.staticflickr.com/8658/15927769476_d936a30fe3_n.jpg"
+images_hd: http://farm9.staticflickr.com/8658/15927769476_d936a30fe3_n.jpg
 
 ---
 <div id="content-header">

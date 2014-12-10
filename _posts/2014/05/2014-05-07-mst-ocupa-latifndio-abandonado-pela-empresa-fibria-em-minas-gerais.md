@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16074
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/MG.png
 video: ''
 tags:
-- localização: minas gerais
-- assuntos: jornada de lutas abril 2014
+- tag: minas gerais
+- tag: jornada de lutas abril 2014
 - tag: lutas e mobilizações
 type: news
 support_line: A terra foi adquirida pela empresa de celulose Fibria, com 46% de recursos

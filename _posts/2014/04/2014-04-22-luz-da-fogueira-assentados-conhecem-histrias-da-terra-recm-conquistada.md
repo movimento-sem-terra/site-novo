@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15996
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/contadores!.jpg
 video: ''
 tags:
-- localização: minas gerais
-- assuntos: reforma agrária
+- tag: minas gerais
+- tag: reforma agrária
 - tag: reforma agrária
 type: news
 support_line: Servidos de canjiquinha, quentão e canjicão, os colonos da antiga Fazenda

@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15931
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/Luta_condiçõesdetrabalho.jpg
 video: ''
 tags:
-- localização: minas gerais
-- assuntos: mobilização
+- tag: minas gerais
+- tag: mobilização
 - tag: lutas e mobilizações
 type: news
 support_line: Mais de 350 trabalhadores rurais ocuparam o prédio do Ministério do

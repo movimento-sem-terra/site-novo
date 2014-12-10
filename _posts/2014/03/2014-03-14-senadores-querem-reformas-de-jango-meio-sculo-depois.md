@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15850
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/comício-da-central-do-Brasil-e1394723959897.jpg
 video: ''
 tags:
-- assuntos: reforma agrária
-- semana: tema da semana
+- tag: reforma agrária
+- tag: tema da semana
 - tag: reforma agrária
 type: news
 support_line: A intenção das propostas dos senadores Requião, Pedro Simon e Cristovam

@@ -1,21 +1,23 @@
 ---
-date: "2014-12-02T16:10:08-02:00"
+date: '2014-12-02T16:10:08-02:00'
 tags:
-  - tag: Kátia-Abreu
-title: "Kátia Abreu: me diga com quem andas que te direi quem és"
-support_line: "No artigo \"Conflitos intermináveis\", ela publicou elogios rasgados ao ministro Gilmar Mendes, que se tornou o maior inimigo do PT, no Poder Judiciário e está prestes a avaliar as contas de campanha da presidente Dilma Rousseff."
+- tag: Kátia-Abreu
+title: 'Kátia Abreu: me diga com quem andas que te direi quem és'
+support_line: No artigo "Conflitos intermináveis", ela publicou elogios rasgados ao
+  ministro Gilmar Mendes, que se tornou o maior inimigo do PT, no Poder Judiciário
+  e está prestes a avaliar as contas de campanha da presidente Dilma Rousseff.
 menu: agronegócio
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8605/15355063234_5ea172ba01_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8605/15355063234_5ea172ba01_t.jpg"
-    medium: "http://farm9.staticflickr.com/8605/15355063234_5ea172ba01_z.jpg"
-    small: "http://farm9.staticflickr.com/8605/15355063234_5ea172ba01_n.jpg"
-    title: katia_gilmar.jpg
-    $$hashKey: 2TY
-created_date: "2014-12-08T16:12:28-02:00"
+- link: http://farm9.staticflickr.com/8605/15355063234_5ea172ba01_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8605/15355063234_5ea172ba01_t.jpg
+  medium: http://farm9.staticflickr.com/8605/15355063234_5ea172ba01_z.jpg
+  small: http://farm9.staticflickr.com/8605/15355063234_5ea172ba01_n.jpg
+  title: katia_gilmar.jpg
+  "$$hashKey": 2TY
+created_date: '2014-12-08T16:12:28-02:00'
 published: true
-images_hd: "http://farm9.staticflickr.com/8605/15355063234_5ea172ba01_n.jpg"
+images_hd: http://farm9.staticflickr.com/8605/15355063234_5ea172ba01_n.jpg
 
 ---
 <p><img alt="katia_gilmar.jpg" src="http://farm9.staticflickr.com/8605/15355063234_5ea172ba01_b.jpg" /></p>

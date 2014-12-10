@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16269
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/quilombo!.jpg
 video: ''
 tags:
-- localização: pará
-- assuntos: violência
+- tag: pará
+- tag: violência
 - tag: direitos humanos
 type: 
 support_line: Artêmio Gusmão foi encontrado morto e esquartejado na manhã do último

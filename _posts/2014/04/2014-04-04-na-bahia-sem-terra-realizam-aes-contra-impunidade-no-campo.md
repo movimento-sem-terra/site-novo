@@ -5,9 +5,9 @@ legacy_url: http://www.mst.org.br/node/15926
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/Marcha_fabiosantos!.jpg
 video: ''
 tags:
-- destaque: manchete
-- localização: bahia
-- assuntos: violência
+- tag: manchete
+- tag: bahia
+- tag: violência
 - tag: direitos humanos
 type: news
 support_line: Completado um ano de impunidade, cerca de mil trabalhadores rurais Sem

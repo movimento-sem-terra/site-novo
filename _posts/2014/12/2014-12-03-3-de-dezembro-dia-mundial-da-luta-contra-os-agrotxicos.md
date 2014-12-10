@@ -1,21 +1,22 @@
 ---
-date: "2014-12-03T16:27:22-02:00"
+date: '2014-12-03T16:27:22-02:00'
 tags:
-  - tag: Agrotóxicos
-title: "3 de dezembro: Dia Mundial da Luta contra os Agrotóxicos"
+- tag: Agrotóxicos
+title: '3 de dezembro: Dia Mundial da Luta contra os Agrotóxicos'
 menu: lutas e mobilizações
-support_line: Dezenas de cidades brasileiras realizam nesta quarta-feira mobilizações para denunciar os males causados pelos agrotóxicos e pelo agronegócio.
+support_line: Dezenas de cidades brasileiras realizam nesta quarta-feira mobilizações
+  para denunciar os males causados pelos agrotóxicos e pelo agronegócio.
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7520/15790068048_75c591ac43_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7520/15790068048_75c591ac43_t.jpg"
-    medium: "http://farm8.staticflickr.com/7520/15790068048_75c591ac43_z.jpg"
-    small: "http://farm8.staticflickr.com/7520/15790068048_75c591ac43_n.jpg"
-    title: Agrotoxicos_no_brasil1.jpg
-    $$hashKey: 3JU
-created_date: "2014-12-08T16:30:01-02:00"
+- link: http://farm8.staticflickr.com/7520/15790068048_75c591ac43_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7520/15790068048_75c591ac43_t.jpg
+  medium: http://farm8.staticflickr.com/7520/15790068048_75c591ac43_z.jpg
+  small: http://farm8.staticflickr.com/7520/15790068048_75c591ac43_n.jpg
+  title: Agrotoxicos_no_brasil1.jpg
+  "$$hashKey": 3JU
+created_date: '2014-12-08T16:30:01-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7520/15790068048_75c591ac43_n.jpg"
+images_hd: http://farm8.staticflickr.com/7520/15790068048_75c591ac43_n.jpg
 
 ---
 <div id="content-header">

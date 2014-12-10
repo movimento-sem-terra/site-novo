@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/16115
 images: ''
 video: ''
 tags:
-- assuntos: questão agrária
+- tag: questão agrária
 - tag: reforma agrária
 type: 
 support_line: Em entrevista, João Pedro Stedile, do MST, explica quais são as análises

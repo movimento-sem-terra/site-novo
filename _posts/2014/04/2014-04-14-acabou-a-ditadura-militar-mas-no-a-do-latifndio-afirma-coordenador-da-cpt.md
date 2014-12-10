@@ -6,7 +6,7 @@ legacy_url: http://www.mst.org.br/node/15969
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/joanil.jpg
 video: ''
 tags:
-- tipo de matéria: entrevistas
+- tag: entrevistas
 - tag: reforma agrária
 type: news
 support_line: Padre Joanil analisa os conflitos pela terra na ditadura militar, a

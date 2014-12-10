@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15723
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/DH.jpg
 video: ''
 tags:
-- congresso: '6'
+- tag: '6'
 - tag: direitos humanos
 type: news
 support_line: Setor de direitos humanos do MST debate mudanças nas leis que envolvem

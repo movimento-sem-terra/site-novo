@@ -4,7 +4,7 @@ title: Che Vive! Hoje e Sempre!
 legacy_url: http://www.mst.org.br/node/93
 images: ''
 video: ''
-tags: []
+tags: 
 type: 
 support_line: ''
 section: 

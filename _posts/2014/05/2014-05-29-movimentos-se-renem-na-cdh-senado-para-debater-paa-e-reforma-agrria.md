@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16164
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/pa.jpg
 video: ''
 tags:
-- localização: brasília
-- assuntos: reforma agrária
+- tag: brasília
+- tag: reforma agrária
 - tag: reforma agrária
 type: news
 support_line: A Comissão de Direitos Humanos e Legislação Participativa realiza na

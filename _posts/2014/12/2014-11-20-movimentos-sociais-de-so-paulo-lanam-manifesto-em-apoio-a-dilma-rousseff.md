@@ -1,21 +1,23 @@
 ---
-date: "2014-10-20T11:22:37-02:00"
+date: '2014-10-20T11:22:37-02:00'
 tags:
-  - tag: Eleições
-  - tag: Dilma-Rousseff
+- tag: Eleições
+- tag: Dilma-Rousseff
 title: Movimentos sociais de São Paulo lançam manifesto em apoio a Dilma Rousseff
 menu: projeto popular
-support_line: "Diversas organizações e movimentos sociais de São Paulo realizaram uma plenária, na sexta-feira passada (17/10) em apoio à reeleição da Presidenta Dilma Rousseff."
+support_line: Diversas organizações e movimentos sociais de São Paulo realizaram uma
+  plenária, na sexta-feira passada (17/10) em apoio à reeleição da Presidenta Dilma
+  Rousseff.
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7462/15944453942_bcf51ec9cd_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7462/15944453942_bcf51ec9cd_t.jpg"
-    medium: "http://farm8.staticflickr.com/7462/15944453942_bcf51ec9cd_z.jpg"
-    small: "http://farm8.staticflickr.com/7462/15944453942_bcf51ec9cd_n.jpg"
-    title: dilma.jpg
-    $$hashKey: 1ZO
+- link: http://farm8.staticflickr.com/7462/15944453942_bcf51ec9cd_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7462/15944453942_bcf51ec9cd_t.jpg
+  medium: http://farm8.staticflickr.com/7462/15944453942_bcf51ec9cd_z.jpg
+  small: http://farm8.staticflickr.com/7462/15944453942_bcf51ec9cd_n.jpg
+  title: dilma.jpg
+  "$$hashKey": 1ZO
 published: true
-images_hd: "http://farm8.staticflickr.com/7462/15944453942_bcf51ec9cd_n.jpg"
+images_hd: http://farm8.staticflickr.com/7462/15944453942_bcf51ec9cd_n.jpg
 
 ---
 <div id="content-header">

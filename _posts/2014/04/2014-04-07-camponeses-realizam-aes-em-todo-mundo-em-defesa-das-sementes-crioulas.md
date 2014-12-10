@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15935
 images: ''
 video: ''
 tags:
-- assuntos: mobilização
+- tag: mobilização
 - tag: lutas e mobilizações
 type: news
 support_line: Os movimentos sociais ligados a Via Campesina Internacional realizam,

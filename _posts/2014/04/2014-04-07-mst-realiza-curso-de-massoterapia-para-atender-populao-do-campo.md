@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15934
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/massoterapia!.jpg
 video: ''
 tags:
-- localização: sergipe
-- assuntos: saúde
+- tag: sergipe
+- tag: saúde
 - tag: agricultura camponesa
 type: news
 support_line: Sem Terra iniciam a terceira semana de aula do curso, em Nossa Senhora

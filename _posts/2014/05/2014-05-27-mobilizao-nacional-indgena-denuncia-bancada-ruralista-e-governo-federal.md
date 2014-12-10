@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/16159
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/indigenas.jpg
 video: ''
 tags:
-- assuntos: indígenas
+- tag: indígenas
 - tag: lutas e mobilizações
 type: news
 support_line: A Mobilização Nacional Indígena teve início nesta segunda-feira e segue

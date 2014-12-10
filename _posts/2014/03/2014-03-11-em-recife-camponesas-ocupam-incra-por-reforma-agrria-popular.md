@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15826
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/foto mulheres_PE!.jpg
 video: ''
 tags:
-- localização: pernambuco
-- assuntos: jornada de luta das mulheres 2013
+- tag: pernambuco
+- tag: jornada de luta das mulheres 2013
 - tag: lutas e mobilizações
 type: news
 support_line: Além de Recife, a Jornada Nacional de Lutas das Mulheres Camponesas  também

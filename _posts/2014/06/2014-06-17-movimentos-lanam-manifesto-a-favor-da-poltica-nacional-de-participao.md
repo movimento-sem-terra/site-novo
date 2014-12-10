@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/16223
 images: ''
 video: ''
 tags:
-- destaque: manchete
+- tag: manchete
 - tag: projeto popular
 type: news
 support_line: Para juristas como Dalmo Dallari e Fabio Konder Comparato, isso apenas

@@ -1,27 +1,28 @@
 ---
-date: "2014-11-14T15:15:35-02:00"
+date: '2014-11-14T15:15:35-02:00'
 tags:
-  - tag: Entrevista
-  - tag: Incra
-  - tag: Paraná
-  - tag: Edital
-  - tag: Assentamentos
-  - tag: Araupel
-title: "\"Queremos obter terras para criar assentamentos agroecológiocos\""
+- tag: Entrevista
+- tag: Incra
+- tag: Paraná
+- tag: Edital
+- tag: Assentamentos
+- tag: Araupel
+title: '"Queremos obter terras para criar assentamentos agroecológiocos"'
 hat: Entrevista
 menu: reforma agrária
-support_line: "Superintendente do Incra no Paraná explica como funcionará a compra de terras, que serão destinadas à Reforma Agrária para a produção de alimentos agroecológicos."
+support_line: Superintendente do Incra no Paraná explica como funcionará a compra
+  de terras, que serão destinadas à Reforma Agrária para a produção de alimentos agroecológicos.
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8562/15331014394_c26112af7d_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8562/15331014394_c26112af7d_t.jpg"
-    medium: "http://farm9.staticflickr.com/8562/15331014394_c26112af7d_z.jpg"
-    small: "http://farm9.staticflickr.com/8562/15331014394_c26112af7d_n.jpg"
-    title: guedes.jpg
-    $$hashKey: 2YE
-created_date: "2014-12-05T15:19:09-02:00"
+- link: http://farm9.staticflickr.com/8562/15331014394_c26112af7d_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8562/15331014394_c26112af7d_t.jpg
+  medium: http://farm9.staticflickr.com/8562/15331014394_c26112af7d_z.jpg
+  small: http://farm9.staticflickr.com/8562/15331014394_c26112af7d_n.jpg
+  title: guedes.jpg
+  "$$hashKey": 2YE
+created_date: '2014-12-05T15:19:09-02:00'
 published: true
-images_hd: "http://farm9.staticflickr.com/8562/15331014394_c26112af7d_n.jpg"
+images_hd: http://farm9.staticflickr.com/8562/15331014394_c26112af7d_n.jpg
 label: interviews
 
 ---

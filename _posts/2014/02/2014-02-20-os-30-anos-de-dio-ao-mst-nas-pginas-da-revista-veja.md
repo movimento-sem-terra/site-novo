@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15755
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/Vejqabre.jpg
 video: ''
 tags:
-- assuntos: mst 30 anos
-- semana: tema da semana
+- tag: mst 30 anos
+- tag: tema da semana
 - tag: agronegócio
 type: news
 support_line: O que os ataques e silêncios da revista sobre o maior movimento social  brasileiro

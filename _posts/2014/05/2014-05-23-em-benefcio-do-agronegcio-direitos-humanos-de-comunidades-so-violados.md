@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/16151
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/charge-latuff-agro_comendo!.jpg
 video: ''
 tags:
-- assuntos: agronegócio
+- tag: agronegócio
 - tag: direitos humanos
 type: news
 support_line: Estudo demonstra como a expansão do agronegócio em várias regiões brasileiras

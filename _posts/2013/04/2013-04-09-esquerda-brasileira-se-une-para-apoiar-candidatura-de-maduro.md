@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/14631
 images: ''
 video: NnhDL5VTTkk
 tags:
-- destaque: destaque
+- tag: destaque
 - tag: internacional
 type: video
 support_line: ''

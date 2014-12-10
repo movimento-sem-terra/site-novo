@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16024
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/mst-2555.jpg
 video: ''
 tags:
-- localização: rio grande do sul
-- assuntos: jornada de lutas abril 2014
+- tag: rio grande do sul
+- tag: jornada de lutas abril 2014
 - tag: lutas e mobilizações
 type: news
 support_line: Cerca de 800 famílias participam das mobilizações, que relembram os

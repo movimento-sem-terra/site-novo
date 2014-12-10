@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16206
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/MS.jpg
 video: ''
 tags:
-- localização: mato grosso do sul
-- assuntos: reforma agrária
+- tag: mato grosso do sul
+- tag: reforma agrária
 - tag: agricultura camponesa
 type: news
 support_line: Durante a atividade no Assentamento Itamarati (MS), diversas autoridades

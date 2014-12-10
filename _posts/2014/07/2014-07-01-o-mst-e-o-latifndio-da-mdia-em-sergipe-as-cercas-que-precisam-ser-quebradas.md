@@ -5,9 +5,9 @@ legacy_url: http://www.mst.org.br/node/16257
 images: ''
 video: QtqUJV38A1o
 tags:
-- localização: sergipe
-- assuntos: democratização da comunicação
-- tipo de matéria: artigos
+- tag: sergipe
+- tag: democratização da comunicação
+- tag: artigos
 - tag: lutas e mobilizações
 type: video
 support_line: Cerca de 500 Sem Terra ocuparam a emissora de rádio Xodó FM na cidade

@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16039
 images: ''
 video: ''
 tags:
-- assuntos: jornada de lutas abril 2014
-- localização: bahia
+- tag: jornada de lutas abril 2014
+- tag: bahia
 - tag: educação, cultura e comunicação
 type: news
 support_line: Ao longo de todo mês de abril, as cerca de 50 universidades espalhadas

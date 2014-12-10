@@ -6,7 +6,7 @@ images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/mst o
   pr2.jpg
 video: ''
 tags:
-- assuntos: jornada de lutas abril 2014
+- tag: jornada de lutas abril 2014
 - tag: lutas e mobilizações
 type: news
 support_line: As ações fazem parte da Jornada Nacional de Lutas  pela Reforma Agrária,

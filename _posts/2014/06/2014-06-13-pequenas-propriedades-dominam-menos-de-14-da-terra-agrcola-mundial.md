@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16217
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/reformaagraria.jpg
 video: ''
 tags:
-- destaque: manchete
-- assuntos: questão agrária
+- tag: manchete
+- tag: questão agrária
 - tag: reforma agrária
 type: news
 support_line: Uma nova pesquisa revela que as pequenas propriedades estão em menos

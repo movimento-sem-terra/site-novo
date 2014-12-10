@@ -5,9 +5,9 @@ legacy_url: http://www.mst.org.br/node/16136
 images: http://farm4.staticflickr.com/3877/14494869150_f3e7565df4_t.jpg
 video: ''
 tags:
-- localização: paraná
-- assuntos: jornada de agroecologia
-- tipo de matéria: artigos
+- tag: paraná
+- tag: jornada de agroecologia
+- tag: artigos
 - tag: agricultura camponesa
 type: 
 support_line: Entre os dias 4 a 7 de junho será realizado a 13° edição da Jornada

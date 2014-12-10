@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15809
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/Cartaz_Final_fechar_escola.jpg
 video: ''
 tags:
-- assuntos: campanha fechar escola é crime
+- tag: campanha fechar escola é crime
 - tag: educação, cultura e comunicação
 type: news
 support_line: Nos últimos dez anos, são 32,5 mil unidades a menos no campo, com base

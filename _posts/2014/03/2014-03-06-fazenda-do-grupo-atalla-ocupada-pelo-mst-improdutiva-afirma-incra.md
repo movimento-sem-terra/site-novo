@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15795
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/ocupapr22.JPG
 video: ''
 tags:
-- assuntos: ocupação
+- tag: ocupação
 - tag: lutas e mobilizações
 type: news
 support_line: O Incra já vistoriou mais de 32 mil hectares de áreas pertencentes ao  grupo.

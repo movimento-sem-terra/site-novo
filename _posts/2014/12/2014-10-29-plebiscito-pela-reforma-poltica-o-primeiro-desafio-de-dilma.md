@@ -1,21 +1,23 @@
 ---
-date: "2014-10-29T16:46:03-02:00"
+date: '2014-10-29T16:46:03-02:00'
 tags:
-  - tag: Constituinte
-  - tag: Reforma-Política
-title: "Plebiscito pela reforma política: o primeiro desafio de Dilma"
-support_line: "Parlamentares da oposição criticam projeto e pedem um referendo; Nesta segunda-feira (27), em entrevista ao Jornal Nacional, a presidenta reforçou sua defesa pelo plebiscito popular."
+- tag: Constituinte
+- tag: Reforma-Política
+title: 'Plebiscito pela reforma política: o primeiro desafio de Dilma'
+support_line: Parlamentares da oposição criticam projeto e pedem um referendo; Nesta
+  segunda-feira (27), em entrevista ao Jornal Nacional, a presidenta reforçou sua
+  defesa pelo plebiscito popular.
 menu: projeto popular
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8644/15921213186_8eb72dba88_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8644/15921213186_8eb72dba88_t.jpg"
-    medium: "http://farm9.staticflickr.com/8644/15921213186_8eb72dba88_z.jpg"
-    small: "http://farm9.staticflickr.com/8644/15921213186_8eb72dba88_n.jpg"
-    title: reforma_politica_protesto.jpg
-    $$hashKey: AL5
+- link: http://farm9.staticflickr.com/8644/15921213186_8eb72dba88_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8644/15921213186_8eb72dba88_t.jpg
+  medium: http://farm9.staticflickr.com/8644/15921213186_8eb72dba88_z.jpg
+  small: http://farm9.staticflickr.com/8644/15921213186_8eb72dba88_n.jpg
+  title: reforma_politica_protesto.jpg
+  "$$hashKey": AL5
 published: true
-images_hd: "http://farm9.staticflickr.com/8644/15921213186_8eb72dba88_n.jpg"
+images_hd: http://farm9.staticflickr.com/8644/15921213186_8eb72dba88_n.jpg
 
 ---
 <div id="content-header">

@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15812
 images: ''
 video: ''
 tags:
-- localização: piauí
-- assuntos: jornada de luta das mulheres 2014
+- tag: piauí
+- tag: jornada de luta das mulheres 2014
 - tag: lutas e mobilizações
 type: news
 support_line: Na véspera do Dia Internacional da Mulher, as escolas do assentamento

@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15824
 images: ''
 video: a7DV03qvO7U
 tags:
-- assuntos: mobilização
+- tag: mobilização
 - tag: lutas e mobilizações
 type: video
 support_line: Dia 14 a população atingida por barragens realizam uma série de mobilizações

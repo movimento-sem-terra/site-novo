@@ -1,24 +1,25 @@
 ---
-date: "2014-12-09T17:27:03-02:00"
+date: '2014-12-09T17:27:03-02:00'
 tags:
-  - tag: máquinas
-  - tag: assentamento
-  - tag: reforma-agrária
-  - tag: produção
-title: "Após anos de luta, Sem Terra conquistam maquinário no MS"
+- tag: máquinas
+- tag: assentamento
+- tag: reforma-agrária
+- tag: produção
+title: Após anos de luta, Sem Terra conquistam maquinário no MS
 menu: reforma agrária
-support_line: "No Assentamento Itamarati (MS), os Sem Terra conquistaram diversas máquinas que permitirão melhores condições de vida e de trabalho às famílias assentadas."
+support_line: No Assentamento Itamarati (MS), os Sem Terra conquistaram diversas máquinas
+  que permitirão melhores condições de vida e de trabalho às famílias assentadas.
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7498/15984704082_f93d5081c9_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7498/15984704082_f93d5081c9_t.jpg"
-    medium: "http://farm8.staticflickr.com/7498/15984704082_f93d5081c9_z.jpg"
-    small: "http://farm8.staticflickr.com/7498/15984704082_f93d5081c9_n.jpg"
-    title: fotoimprensa1.jpg
-    $$hashKey: 0ZA
-created_date: "2014-12-09T17:29:36-02:00"
+- link: http://farm8.staticflickr.com/7498/15984704082_f93d5081c9_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7498/15984704082_f93d5081c9_t.jpg
+  medium: http://farm8.staticflickr.com/7498/15984704082_f93d5081c9_z.jpg
+  small: http://farm8.staticflickr.com/7498/15984704082_f93d5081c9_n.jpg
+  title: fotoimprensa1.jpg
+  "$$hashKey": 0ZA
+created_date: '2014-12-09T17:29:36-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7498/15984704082_f93d5081c9_n.jpg"
+images_hd: http://farm8.staticflickr.com/7498/15984704082_f93d5081c9_n.jpg
 
 ---
 <p><img alt="fotoimprensa1.jpg" src="http://farm8.staticflickr.com/7498/15984704082_f93d5081c9_b.jpg" /></p>

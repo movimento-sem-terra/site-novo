@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16185
 images: ''
 video: ''
 tags:
-- localização: paraná
-- assuntos: 13° jornada de agroecologia
+- tag: paraná
+- tag: 13° jornada de agroecologia
 - tag: projeto popular
 type: news
 support_line: Durante a 13ª Jornada de Agroecologia, foi realizada a 3ª edição da

@@ -1,21 +1,22 @@
 ---
-date: "2014-11-23T16:10:47-02:00"
+date: '2014-11-23T16:10:47-02:00'
 tags:
-  - tag: 14°-Acampamento-da-Juventude
-  - tag: justiça-social
+- tag: 14°-Acampamento-da-Juventude
+- tag: justiça-social
 title: Carta da juventude reafirma a unidade da luta popular
-support_line: Os jovens costruíram uma carta onde reafimam seus compromissos com a classe trabalhadora e com a construção da unidade popular na América Latina.
+support_line: Os jovens costruíram uma carta onde reafimam seus compromissos com a
+  classe trabalhadora e com a construção da unidade popular na América Latina.
 menu: projeto popular
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8625/15944842201_28c4eb0f63_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8625/15944842201_28c4eb0f63_t.jpg"
-    medium: "http://farm9.staticflickr.com/8625/15944842201_28c4eb0f63_z.jpg"
-    small: "http://farm9.staticflickr.com/8625/15944842201_28c4eb0f63_n.jpg"
-    title: unnamed (1)_0_0.jpg
-    $$hashKey: 22L
+- link: http://farm9.staticflickr.com/8625/15944842201_28c4eb0f63_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8625/15944842201_28c4eb0f63_t.jpg
+  medium: http://farm9.staticflickr.com/8625/15944842201_28c4eb0f63_z.jpg
+  small: http://farm9.staticflickr.com/8625/15944842201_28c4eb0f63_n.jpg
+  title: unnamed (1)_0_0.jpg
+  "$$hashKey": 22L
 published: true
-images_hd: "http://farm9.staticflickr.com/8625/15944842201_28c4eb0f63_n.jpg"
+images_hd: http://farm9.staticflickr.com/8625/15944842201_28c4eb0f63_n.jpg
 
 ---
 <p>Por Comunica&ccedil;&atilde;o Via Campesina<br />

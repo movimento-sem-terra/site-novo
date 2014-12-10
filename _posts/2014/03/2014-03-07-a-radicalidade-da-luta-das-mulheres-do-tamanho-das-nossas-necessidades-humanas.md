@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15805
 images: ''
 video: ''
 tags:
-- destaque: manchete
-- assuntos: jornada de luta das mulheres 2014
+- tag: manchete
+- tag: jornada de luta das mulheres 2014
 - tag: lutas e mobilizações
 type: news
 support_line: Quando  as mulheres decidem entrar na luta, levam consigo diversas determinações  sociais.

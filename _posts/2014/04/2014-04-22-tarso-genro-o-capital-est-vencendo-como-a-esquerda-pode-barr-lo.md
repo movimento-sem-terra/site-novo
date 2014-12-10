@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15992
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/tarso abre.jpg
 video: ''
 tags:
-- assuntos: reforma agrária
-- tipo de matéria: artigos
+- tag: reforma agrária
+- tag: artigos
 - tag: reforma agrária
 type: news
 support_line: O MST deu um belo exemplo ao vincular a Reforma Agrária ao tema da  produção

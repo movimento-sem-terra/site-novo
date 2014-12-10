@@ -6,8 +6,8 @@ images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/audie
   publica.jpg
 video: ''
 tags:
-- localização: brasília
-- assuntos: jornada de lutas abril 2014
+- tag: brasília
+- tag: jornada de lutas abril 2014
 - tag: reforma agrária
 type: news
 support_line: Cerca de 500 pessoas de movimentos sociais participaram da atividade,

@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15896
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/encontro_amigos_SE.jpg
 video: ''
 tags:
-- localização: sergipe
-- assuntos: reforma agrária
+- tag: sergipe
+- tag: reforma agrária
 - tag: reforma agrária
 type: news
 support_line: Cerca de 200 pessoas de movimentos sociais, sindicatos e partidos políticos

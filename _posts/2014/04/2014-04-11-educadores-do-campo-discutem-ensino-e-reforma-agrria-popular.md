@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15959
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/educação_RS.png
 video: ''
 tags:
-- localização: rio grande do sul
-- assuntos: educação
+- tag: rio grande do sul
+- tag: educação
 - tag: educação, cultura e comunicação
 type: news
 support_line: Centenas de educadores de escolas do campo de nove estados discutem,

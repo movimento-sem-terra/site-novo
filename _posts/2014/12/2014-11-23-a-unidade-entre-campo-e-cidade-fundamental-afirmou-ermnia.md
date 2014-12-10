@@ -1,21 +1,22 @@
 ---
-date: "2014-11-23T15:42:58-02:00"
+date: '2014-11-23T15:42:58-02:00'
 tags:
-  - tag: Ermínia-Maricato
-  - tag: acampamento-Via-Campesina
+- tag: Ermínia-Maricato
+- tag: acampamento-Via-Campesina
 title: "“A unidade entre campo e cidade é fundamental”, afirmou Ermínia"
-support_line: Ermínia participou da mesa de debate sobre o “Impacto e o avanço do capital sobre a juventude e as alternativas”.
+support_line: Ermínia participou da mesa de debate sobre o “Impacto e o avanço do
+  capital sobre a juventude e as alternativas”.
 menu: projeto popular
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7470/15946651995_c9ecfcc523_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7470/15946651995_c9ecfcc523_t.jpg"
-    medium: "http://farm8.staticflickr.com/7470/15946651995_c9ecfcc523_z.jpg"
-    small: "http://farm8.staticflickr.com/7470/15946651995_c9ecfcc523_n.jpg"
-    title: safe_image.php.jpg
-    $$hashKey: 0ZR
+- link: http://farm8.staticflickr.com/7470/15946651995_c9ecfcc523_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7470/15946651995_c9ecfcc523_t.jpg
+  medium: http://farm8.staticflickr.com/7470/15946651995_c9ecfcc523_z.jpg
+  small: http://farm8.staticflickr.com/7470/15946651995_c9ecfcc523_n.jpg
+  title: safe_image.php.jpg
+  "$$hashKey": 0ZR
 published: true
-images_hd: "http://farm8.staticflickr.com/7470/15946651995_c9ecfcc523_n.jpg"
+images_hd: http://farm8.staticflickr.com/7470/15946651995_c9ecfcc523_n.jpg
 
 ---
 <p><strong>Por Comunica&ccedil;&atilde;o Via Campesina&nbsp;</strong><br />

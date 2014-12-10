@@ -6,8 +6,8 @@ images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/plena
   plebiscito!.png
 video: ''
 tags:
-- localização: são paulo
-- assuntos: plebiscito
+- tag: são paulo
+- tag: plebiscito
 - tag: projeto popular
 type: news
 support_line: Comitês se organizam para debater a proposta de uma nova Constituinte

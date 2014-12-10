@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/16125
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/ENA_AnnaBeatrizAnjos.gif
 video: ''
 tags:
-- assuntos: questão agrária
+- tag: questão agrária
 - tag: reforma agrária
 type: news
 support_line: A importância da reforma agrária foi destacada durante o terceiro dia

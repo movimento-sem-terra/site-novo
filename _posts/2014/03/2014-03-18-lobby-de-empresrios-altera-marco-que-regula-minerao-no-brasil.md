@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15859
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/Mineração-Congonhas-MidiaNinja.gif
 video: ''
 tags:
-- assuntos: código mineral
+- tag: código mineral
 - tag: direitos humanos
 type: news
 support_line: Elaborado  pelo deputado Leonardo Quintão (PMDB-MG), o PL 5.807 favorece

@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16000
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/Jornada_UnBII.jpg
 video: ''
 tags:
-- localização: brasília
-- assuntos: jornada de lutas abril 2014
+- tag: brasília
+- tag: jornada de lutas abril 2014
 - tag: educação, cultura e comunicação
 type: news
 support_line: De acordo Geraldo Gasparin, da Escola Nacional Florestan Fernandes (ENFF),

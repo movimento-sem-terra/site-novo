@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16152
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/fotos pr.jpg
 video: ''
 tags:
-- localização: paraná
-- assuntos: reforma agrária
+- tag: paraná
+- tag: reforma agrária
 - tag: reforma agrária
 type: news
 support_line: Estiveram presentes o Secretário para Assuntos Fundiários do Paraná,

@@ -1,24 +1,28 @@
 ---
-date: "2014-12-09T16:57:32-02:00"
+date: '2014-12-09T16:57:32-02:00'
 tags:
-  - tag: mulheres
-  - tag: seminário
-  - tag: organização
-  - tag: luta
-title: "Mulheres Sem Terra estudam e planejam ações em Seminário de Integração\n9 de dezembro de 2014"
-support_line: "500 mulheres Sem Terra de oito regiões da Bahia se reuniram no Seminário de Integração, Culminância e Avaliação do Projeto de Capacitação de Mulheres Assentadas e Acampadas no estado da Bahia."
-menu: "educação, cultura e comunicação"
+- tag: mulheres
+- tag: seminário
+- tag: organização
+- tag: luta
+title: |-
+  Mulheres Sem Terra estudam e planejam ações em Seminário de Integração
+  9 de dezembro de 2014
+support_line: 500 mulheres Sem Terra de oito regiões da Bahia se reuniram no Seminário
+  de Integração, Culminância e Avaliação do Projeto de Capacitação de Mulheres Assentadas
+  e Acampadas no estado da Bahia.
+menu: educação, cultura e comunicação
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7548/15797818258_7697c3a26d_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7548/15797818258_7697c3a26d_t.jpg"
-    medium: "http://farm8.staticflickr.com/7548/15797818258_7697c3a26d_z.jpg"
-    small: "http://farm8.staticflickr.com/7548/15797818258_7697c3a26d_n.jpg"
-    title: encontro_meulheresBA.jpg
-    $$hashKey: 0M0
-created_date: "2014-12-09T17:00:37-02:00"
+- link: http://farm8.staticflickr.com/7548/15797818258_7697c3a26d_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7548/15797818258_7697c3a26d_t.jpg
+  medium: http://farm8.staticflickr.com/7548/15797818258_7697c3a26d_z.jpg
+  small: http://farm8.staticflickr.com/7548/15797818258_7697c3a26d_n.jpg
+  title: encontro_meulheresBA.jpg
+  "$$hashKey": 0M0
+created_date: '2014-12-09T17:00:37-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7548/15797818258_7697c3a26d_n.jpg"
+images_hd: http://farm8.staticflickr.com/7548/15797818258_7697c3a26d_n.jpg
 
 ---
 <p><img alt="encontro_meulheresBA.jpg" src="http://farm8.staticflickr.com/7548/15797818258_7697c3a26d_b.jpg" /></p>

@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15701
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/feira_melgarejo.JPG
 video: ''
 tags:
-- congresso: '6'
-- assuntos: 6° congresso nacional
+- tag: '6'
+- tag: 6° congresso nacional
 - tag: agricultura camponesa
 type: news
 support_line: A Mostra acontece entre os dias 10 e 13 de fevereiro  simultaneamente

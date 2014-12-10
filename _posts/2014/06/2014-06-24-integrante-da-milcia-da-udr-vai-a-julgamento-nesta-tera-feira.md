@@ -5,9 +5,9 @@ legacy_url: http://www.mst.org.br/node/16233
 images: ''
 video: ''
 tags:
-- destaque: manchete
-- localização: paraná
-- assuntos: violência no campo
+- tag: manchete
+- tag: paraná
+- tag: violência no campo
 - tag: direitos humanos
 type: news
 support_line: Augusto Barbosa da Costa, acusado de participar do assassinato do sem

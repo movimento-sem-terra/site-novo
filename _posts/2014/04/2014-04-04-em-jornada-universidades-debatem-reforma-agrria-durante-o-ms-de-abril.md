@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15930
 images: ''
 video: ''
 tags:
-- destaque: manchete
-- assuntos: jornada de lutas abril 2014
+- tag: manchete
+- tag: jornada de lutas abril 2014
 - tag: educação, cultura e comunicação
 type: news
 support_line: As cerca de 50 universidades nas quais o MST tem parceria realizam a

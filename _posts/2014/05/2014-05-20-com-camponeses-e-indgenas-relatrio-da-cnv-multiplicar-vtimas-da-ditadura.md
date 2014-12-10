@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/16127
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/comissão-da-verdade.jpg
 video: ''
 tags:
-- assuntos: ditadura
+- tag: ditadura
 - tag: direitos humanos
 type: news
 support_line: Coordenador da CNV, Pedro Dallari, afirma que inclusão de vítimas do

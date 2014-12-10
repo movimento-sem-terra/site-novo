@@ -1,23 +1,24 @@
 ---
-date: "2014-11-13T13:57:04-02:00"
+date: '2014-11-13T13:57:04-02:00'
 tags:
-  - tag: Brasília
-  - tag: Reforma-Agrária
-  - tag: Ocupação
+- tag: Brasília
+- tag: Reforma-Agrária
+- tag: Ocupação
 title: Camponeses ocupam Terracap e Secretaria de Agricultura no DF
 menu: lutas e mobilizações
-support_line: "A Jornada Distrital pela Terra, Democracia e Vida reúne nove movimentos de trabalhadores rurais em uma ação unitária por Reforma Agrária e reforma política."
+support_line: A Jornada Distrital pela Terra, Democracia e Vida reúne nove movimentos
+  de trabalhadores rurais em uma ação unitária por Reforma Agrária e reforma política.
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7529/15767125017_38fd26365d_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7529/15767125017_38fd26365d_t.jpg"
-    medium: "http://farm8.staticflickr.com/7529/15767125017_38fd26365d_z.jpg"
-    small: "http://farm8.staticflickr.com/7529/15767125017_38fd26365d_n.jpg"
-    title: ocupacaod_a_terracap70865.jpg
-    $$hashKey: "072"
-created_date: "2014-12-05T14:00:34-02:00"
+- link: http://farm8.staticflickr.com/7529/15767125017_38fd26365d_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7529/15767125017_38fd26365d_t.jpg
+  medium: http://farm8.staticflickr.com/7529/15767125017_38fd26365d_z.jpg
+  small: http://farm8.staticflickr.com/7529/15767125017_38fd26365d_n.jpg
+  title: ocupacaod_a_terracap70865.jpg
+  "$$hashKey": '072'
+created_date: '2014-12-05T14:00:34-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7529/15767125017_38fd26365d_n.jpg"
+images_hd: http://farm8.staticflickr.com/7529/15767125017_38fd26365d_n.jpg
 
 ---
 <p><br />

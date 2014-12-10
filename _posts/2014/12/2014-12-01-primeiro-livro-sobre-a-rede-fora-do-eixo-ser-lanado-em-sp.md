@@ -1,24 +1,25 @@
 ---
-date: "2014-12-01T11:28:13-02:00"
+date: '2014-12-01T11:28:13-02:00'
 tags:
-  - tag: Fora-do-Eixo
-  - tag: lançamento
-  - tag: livro
-  - tag: Cubo-Card
+- tag: Fora-do-Eixo
+- tag: lançamento
+- tag: livro
+- tag: Cubo-Card
 title: Primeiro livro sobre a rede Fora do Eixo será lançado em SP
-support_line: "“Os Novos Bárbaros – A aventura política do Fora do Eixo”, de Rodrigo Savazoni, se debruça sobre a história da rede e será lançado dia dois de dezembro."
-menu: "educação, cultura e comunicação"
+support_line: "“Os Novos Bárbaros – A aventura política do Fora do Eixo”, de Rodrigo
+  Savazoni, se debruça sobre a história da rede e será lançado dia dois de dezembro."
+menu: educação, cultura e comunicação
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7573/15926302316_b224616c93_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7573/15926302316_b224616c93_t.jpg"
-    medium: "http://farm8.staticflickr.com/7573/15926302316_b224616c93_z.jpg"
-    small: "http://farm8.staticflickr.com/7573/15926302316_b224616c93_n.jpg"
-    title: 1907990_1729456670612946_6202663176170313414_n.png
-    $$hashKey: "126"
-created_date: "2014-12-05T11:38:14-02:00"
+- link: http://farm8.staticflickr.com/7573/15926302316_b224616c93_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7573/15926302316_b224616c93_t.jpg
+  medium: http://farm8.staticflickr.com/7573/15926302316_b224616c93_z.jpg
+  small: http://farm8.staticflickr.com/7573/15926302316_b224616c93_n.jpg
+  title: 1907990_1729456670612946_6202663176170313414_n.png
+  "$$hashKey": '126'
+created_date: '2014-12-05T11:38:14-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7573/15926302316_b224616c93_n.jpg"
+images_hd: http://farm8.staticflickr.com/7573/15926302316_b224616c93_n.jpg
 
 ---
 <p><em>Do&nbsp;Fora do Eixo</em></p>

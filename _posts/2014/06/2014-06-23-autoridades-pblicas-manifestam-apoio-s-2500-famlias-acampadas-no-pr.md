@@ -6,8 +6,8 @@ images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/herde
   da terra II.jpg
 video: ''
 tags:
-- localização: paraná
-- assuntos: reforma agrária
+- tag: paraná
+- tag: reforma agrária
 - tag: reforma agrária
 type: news
 support_line: O deputado estadual Professor Lemos (PT) e o prefeito de Rio Bonito,

@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15819
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/8mar_campogrande.jpg
 video: ''
 tags:
-- assuntos: jornada de luta das mulheres 2014
-- localização: mato grosso do sul
+- tag: jornada de luta das mulheres 2014
+- tag: mato grosso do sul
 - tag: lutas e mobilizações
 type: news
 support_line: A atividade se iniciou com um ato no centro da cidade, seguindo em  caminhada

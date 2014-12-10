@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/14997
 images: ''
 video: j58lp9Ub83U
 tags:
-- destaque: destaque
+- tag: destaque
 - tag: lutas e mobilizações
 type: video
 menu: lutas e mobilizações

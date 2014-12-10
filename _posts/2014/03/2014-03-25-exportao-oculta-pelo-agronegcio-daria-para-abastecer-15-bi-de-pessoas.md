@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15886
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/seca!.jpg
 video: ''
 tags:
-- assuntos: agronegócio
+- tag: agronegócio
 - tag: agronegócio
 type: news
 support_line: O Brasil é o quarto maior exportador de água virtual do mundo. São 112

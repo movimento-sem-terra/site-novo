@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15866
 images: ''
 video: ''
 tags:
-- destaque: manchete
-- assuntos: reforma agrária
+- tag: manchete
+- tag: reforma agrária
 - tag: reforma agrária
 type: news
 support_line: Em audiência pública nesta terça-feira (18), movimentos sociais do campo

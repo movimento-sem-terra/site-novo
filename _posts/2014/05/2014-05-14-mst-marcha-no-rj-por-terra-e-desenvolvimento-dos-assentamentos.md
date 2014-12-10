@@ -6,9 +6,9 @@ images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/jorna
   rio2.jpg
 video: ''
 tags:
-- destaque: manchete
-- localização: rio de janeiro
-- assuntos: jornada de lutas abril 2014
+- tag: manchete
+- tag: rio de janeiro
+- tag: jornada de lutas abril 2014
 - tag: lutas e mobilizações
 type: news
 support_line: o MST exige a desapropriação de 10 áreas no estado do Rio. Muitas delas  já

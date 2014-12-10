@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15855
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/Agrotoxicos_no_brasil1.jpg
 video: ''
 tags:
-- assuntos: agrotóxicos
+- tag: agrotóxicos
 - tag: agronegócio
 type: news
 support_line: Recentemente, a Fiocruz soltou uma carta aberta criticando veementemente

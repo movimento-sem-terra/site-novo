@@ -6,7 +6,7 @@ images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/Unido
   abre.gif
 video: ''
 tags:
-- destaque: manchete
+- tag: manchete
 - tag: educação, cultura e comunicação
 type: news
 support_line: Fundada em 2005, a escola de samba do MST busca resgatar o papel de

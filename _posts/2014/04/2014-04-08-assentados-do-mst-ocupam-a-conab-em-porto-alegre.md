@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15937
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/Sem Terra.jpg
 video: ''
 tags:
-- localização: rio grande do sul
-- assuntos: mobilização
+- tag: rio grande do sul
+- tag: mobilização
 - tag: lutas e mobilizações
 type: news
 support_line: Os assentados exigem a retomada dos programas da Conab, parados desde

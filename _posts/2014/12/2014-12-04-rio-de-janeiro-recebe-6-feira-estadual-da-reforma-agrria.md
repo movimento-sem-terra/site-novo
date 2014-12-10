@@ -1,29 +1,30 @@
 ---
-date: "2014-12-04T11:47:53-02:00"
+date: '2014-12-04T11:47:53-02:00'
 tags:
-  - tag: Rio-de-Janeiro
-  - tag: Feira-da-Reforma-Agrária
-  - tag: Agricultura-Camponesa
+- tag: Rio-de-Janeiro
+- tag: Feira-da-Reforma-Agrária
+- tag: Agricultura-Camponesa
 title: Rio de Janeiro recebe 6° Feira Estadual da Reforma Agrária
 menu: reforma agrária
-support_line: "A feira acontece no Largo da Carioca, e terá arroz, feijão, leite, frutas e verduras, além de místicas, atividades culturais e de formação."
+support_line: A feira acontece no Largo da Carioca, e terá arroz, feijão, leite, frutas
+  e verduras, além de místicas, atividades culturais e de formação.
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8561/15957578046_ec2be43078_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8561/15957578046_ec2be43078_t.jpg"
-    medium: "http://farm9.staticflickr.com/8561/15957578046_ec2be43078_z.jpg"
-    small: "http://farm9.staticflickr.com/8561/15957578046_ec2be43078_n.jpg"
-    title: cartaz-A3-FeiraRA-DEZ-2014-01.jpg
-    $$hashKey: 0DC
-  - link: "http://farm8.staticflickr.com/7560/15797348959_9339a8304a_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7560/15797348959_9339a8304a_t.jpg"
-    medium: "http://farm8.staticflickr.com/7560/15797348959_9339a8304a_z.jpg"
-    small: "http://farm8.staticflickr.com/7560/15797348959_9339a8304a_n.jpg"
-    title: "cartaz-A3-FeiraRA-DEZ-2014-01!.jpg"
-    $$hashKey: 0DI
-created_date: "2014-12-09T11:50:28-02:00"
+- link: http://farm9.staticflickr.com/8561/15957578046_ec2be43078_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8561/15957578046_ec2be43078_t.jpg
+  medium: http://farm9.staticflickr.com/8561/15957578046_ec2be43078_z.jpg
+  small: http://farm9.staticflickr.com/8561/15957578046_ec2be43078_n.jpg
+  title: cartaz-A3-FeiraRA-DEZ-2014-01.jpg
+  "$$hashKey": 0DC
+- link: http://farm8.staticflickr.com/7560/15797348959_9339a8304a_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7560/15797348959_9339a8304a_t.jpg
+  medium: http://farm8.staticflickr.com/7560/15797348959_9339a8304a_z.jpg
+  small: http://farm8.staticflickr.com/7560/15797348959_9339a8304a_n.jpg
+  title: cartaz-A3-FeiraRA-DEZ-2014-01!.jpg
+  "$$hashKey": 0DI
+created_date: '2014-12-09T11:50:28-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7560/15797348959_9339a8304a_n.jpg"
+images_hd: http://farm8.staticflickr.com/7560/15797348959_9339a8304a_n.jpg
 
 ---
 <div id="content-header">

@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16032
 images: ''
 video: chudOhJnipo
 tags:
-- localização: minas gerais
-- assuntos: mobilização
+- tag: minas gerais
+- tag: mobilização
 - tag: lutas e mobilizações
 type: video
 support_line: 'A atividade acontece na Praça da Assembleia Legislativa, a partir de

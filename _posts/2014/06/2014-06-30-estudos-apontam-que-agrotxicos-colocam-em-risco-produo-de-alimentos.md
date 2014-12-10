@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/16248
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/maça.jpg
 video: ''
 tags:
-- assuntos: agrotóxicos
+- tag: agrotóxicos
 - tag: agronegócio
 type: news
 support_line: Pesquisadores analisaram mais de 800 estudos realizados nas últimas

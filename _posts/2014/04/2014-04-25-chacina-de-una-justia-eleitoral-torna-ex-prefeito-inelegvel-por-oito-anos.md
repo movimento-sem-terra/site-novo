@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/16010
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/unai.jpg
 video: ''
 tags:
-- assuntos: violência
+- tag: violência
 - tag: direitos humanos
 type: news
 support_line: O ex-prefeito é um dos acusados de mandante da chamada Chacina de Unaí,

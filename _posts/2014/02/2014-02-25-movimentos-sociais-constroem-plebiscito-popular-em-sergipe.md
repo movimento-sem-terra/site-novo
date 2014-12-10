@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15768
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/reforma_politica_protesto22.jpg
 video: ''
 tags:
-- destaque: manchete
+- tag: manchete
 - tag: projeto popular
 type: news
 support_line: O Plebiscito por uma reforma do  Sistema Político foi lançado no dia

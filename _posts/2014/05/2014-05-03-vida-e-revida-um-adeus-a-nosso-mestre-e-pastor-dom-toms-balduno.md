@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/16051
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/dom tomas2.jpg
 video: ''
 tags:
-- destaque: manchete
+- tag: manchete
 - tag: lutadores e lutadoras do povo
 type: 
 support_line: Vigiai por nós enquanto caminhamos/Que aqui ficamos e de ti lembramos/De

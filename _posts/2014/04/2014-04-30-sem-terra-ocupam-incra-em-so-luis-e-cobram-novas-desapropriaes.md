@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16036
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/mst_ato2!.jpg
 video: ''
 tags:
-- localização: maranhão
-- assuntos: jornada de lutas abril 2014
+- tag: maranhão
+- tag: jornada de lutas abril 2014
 - tag: lutas e mobilizações
 type: news
 support_line: Os Sem Terra cobram desapropriações de novas áreas para a Reforma Agrária

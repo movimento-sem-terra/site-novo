@@ -1,22 +1,23 @@
 ---
-date: "2014-12-05T13:23:21-02:00"
+date: '2014-12-05T13:23:21-02:00'
 tags:
-  - tag: Rio-Grande-do-Sul
-  - tag: Agrotóxicos
+- tag: Rio-Grande-do-Sul
+- tag: Agrotóxicos
 title: Projeto que proíbe pulverização aérea em lavouras é protocolado na ALERS
-support_line: "Além da proibição da pulverização aérea, outro projeto proíbe a fabricação, comercialização e uso de produtos que contenham em sua fórmula a substância 2,4-D."
+support_line: Além da proibição da pulverização aérea, outro projeto proíbe a fabricação,
+  comercialização e uso de produtos que contenham em sua fórmula a substância 2,4-D.
 menu: agronegócio
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7534/15798210257_caa4d08e7f_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7534/15798210257_caa4d08e7f_t.jpg"
-    medium: "http://farm8.staticflickr.com/7534/15798210257_caa4d08e7f_z.jpg"
-    small: "http://farm8.staticflickr.com/7534/15798210257_caa4d08e7f_n.jpg"
-    title: edegar.jpg
-    $$hashKey: 1CA
-created_date: "2014-12-09T13:25:22-02:00"
+- link: http://farm8.staticflickr.com/7534/15798210257_caa4d08e7f_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7534/15798210257_caa4d08e7f_t.jpg
+  medium: http://farm8.staticflickr.com/7534/15798210257_caa4d08e7f_z.jpg
+  small: http://farm8.staticflickr.com/7534/15798210257_caa4d08e7f_n.jpg
+  title: edegar.jpg
+  "$$hashKey": 1CA
+created_date: '2014-12-09T13:25:22-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7534/15798210257_caa4d08e7f_n.jpg"
+images_hd: http://farm8.staticflickr.com/7534/15798210257_caa4d08e7f_n.jpg
 
 ---
 <p><img alt="edegar.jpg" src="http://farm8.staticflickr.com/7534/15798210257_caa4d08e7f_b.jpg" /></p>

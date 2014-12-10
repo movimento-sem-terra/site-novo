@@ -6,7 +6,7 @@ images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/synge
   assassina.jpg
 video: ''
 tags:
-- assuntos: agronegócio
+- tag: agronegócio
 - tag: agronegócio
 type: news
 support_line: Em 1998 Tyrone Hayes foi convidado pela  Syngenta para fazer uma pesquisa

@@ -5,9 +5,9 @@ legacy_url: http://www.mst.org.br/node/16006
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/feira_1.jpg
 video: ''
 tags:
-- destaque: manchete
-- localização: pará
-- assuntos: jornada de lutas abril 2014
+- tag: manchete
+- tag: pará
+- tag: jornada de lutas abril 2014
 - tag: agricultura camponesa
 type: news
 support_line: A atividade faz parte da 1º Jornada Universitária em Defesa da Reforma

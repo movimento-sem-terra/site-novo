@@ -1,22 +1,23 @@
 ---
-date: "2014-12-05T13:27:28-02:00"
+date: '2014-12-05T13:27:28-02:00'
 tags:
-  - tag: Rio-de-Janeiro
-  - tag: Feira-da-Reforma-Agrária
+- tag: Rio-de-Janeiro
+- tag: Feira-da-Reforma-Agrária
 title: Da produção dos assentamentos para o prato do consumidor
-support_line: "Entre os dias 8 a 10/12, o MST realiza a 6° Feira da Reforma Agrária, no Largo da Carioca, no RJ."
+support_line: Entre os dias 8 a 10/12, o MST realiza a 6° Feira da Reforma Agrária,
+  no Largo da Carioca, no RJ.
 menu: agricultura camponesa
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8660/15981973681_f3502ea4dd_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8660/15981973681_f3502ea4dd_t.jpg"
-    medium: "http://farm9.staticflickr.com/8660/15981973681_f3502ea4dd_z.jpg"
-    small: "http://farm9.staticflickr.com/8660/15981973681_f3502ea4dd_n.jpg"
-    title: "cartaz-A3-FeiraRA-DEZ-2014-01!.jpg"
-    $$hashKey: 1L1
-created_date: "2014-12-09T13:28:49-02:00"
+- link: http://farm9.staticflickr.com/8660/15981973681_f3502ea4dd_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8660/15981973681_f3502ea4dd_t.jpg
+  medium: http://farm9.staticflickr.com/8660/15981973681_f3502ea4dd_z.jpg
+  small: http://farm9.staticflickr.com/8660/15981973681_f3502ea4dd_n.jpg
+  title: cartaz-A3-FeiraRA-DEZ-2014-01!.jpg
+  "$$hashKey": 1L1
+created_date: '2014-12-09T13:28:49-02:00'
 published: true
-images_hd: "http://farm9.staticflickr.com/8660/15981973681_f3502ea4dd_n.jpg"
+images_hd: http://farm9.staticflickr.com/8660/15981973681_f3502ea4dd_n.jpg
 
 ---
 <div id="content-header">

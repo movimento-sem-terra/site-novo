@@ -1,22 +1,23 @@
 ---
-date: "2014-11-27T15:26:05-02:00"
+date: '2014-11-27T15:26:05-02:00'
 tags:
-  - tag: São-Paulo
-  - tag: Feira-da-Reforma-Agrária
+- tag: São-Paulo
+- tag: Feira-da-Reforma-Agrária
 title: Mercado Municipal de São Paulo recebe Feira da Reforma Agrária
 menu: reforma agrária
-support_line: "Nesta sexta-feira e sábado, acontece a 2ª Feira de Produtos Orgânicos da Agricultura Familiar em São Paulo."
+support_line: Nesta sexta-feira e sábado, acontece a 2ª Feira de Produtos Orgânicos
+  da Agricultura Familiar em São Paulo.
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7545/15357411183_ec2922c2e3_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7545/15357411183_ec2922c2e3_t.jpg"
-    medium: "http://farm8.staticflickr.com/7545/15357411183_ec2922c2e3_z.jpg"
-    small: "http://farm8.staticflickr.com/7545/15357411183_ec2922c2e3_n.jpg"
-    title: feira_RA_Mercadao.jpg
-    $$hashKey: 0LQ
-created_date: "2014-12-08T15:27:34-02:00"
+- link: http://farm8.staticflickr.com/7545/15357411183_ec2922c2e3_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7545/15357411183_ec2922c2e3_t.jpg
+  medium: http://farm8.staticflickr.com/7545/15357411183_ec2922c2e3_z.jpg
+  small: http://farm8.staticflickr.com/7545/15357411183_ec2922c2e3_n.jpg
+  title: feira_RA_Mercadao.jpg
+  "$$hashKey": 0LQ
+created_date: '2014-12-08T15:27:34-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7545/15357411183_ec2922c2e3_n.jpg"
+images_hd: http://farm8.staticflickr.com/7545/15357411183_ec2922c2e3_n.jpg
 
 ---
 <p><img alt="feira_RA_Mercadao.jpg" src="http://farm8.staticflickr.com/7545/15357411183_ec2922c2e3_b.jpg" /></p>

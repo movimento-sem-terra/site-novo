@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15948
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/SC.png
 video: ''
 tags:
-- localização: santa catarina
-- assuntos: jornada de lutas abril 2014
+- tag: santa catarina
+- tag: jornada de lutas abril 2014
 - tag: lutas e mobilizações
 type: news
 support_line: Os Sem Terra de Santa Catarina se juntaram à marcha das centrais sindicais

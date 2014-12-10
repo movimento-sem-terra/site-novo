@@ -1,23 +1,24 @@
 ---
-date: "2014-12-04T11:46:11-02:00"
+date: '2014-12-04T11:46:11-02:00'
 tags:
-  - tag: Agrotóxicos
-  - tag: Meio-Ambiente
-  - tag: Saúde
-title: "No Pará, MP quer instalar fóruns para combater impactos dos agrotóxicos"
-support_line: O objetivo é fortalecer a atuação conjunta dos ramos do MP junto à sociedade e às instituições de ensino superior no combate ao uso indiscriminado de agrotóxicos.
+- tag: Agrotóxicos
+- tag: Meio-Ambiente
+- tag: Saúde
+title: No Pará, MP quer instalar fóruns para combater impactos dos agrotóxicos
+support_line: O objetivo é fortalecer a atuação conjunta dos ramos do MP junto à sociedade
+  e às instituições de ensino superior no combate ao uso indiscriminado de agrotóxicos.
 menu: agronegócio
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8605/15795947048_f1cfebb265_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8605/15795947048_f1cfebb265_t.jpg"
-    medium: "http://farm9.staticflickr.com/8605/15795947048_f1cfebb265_z.jpg"
-    small: "http://farm9.staticflickr.com/8605/15795947048_f1cfebb265_n.jpg"
-    title: glifosato.jpg
-    $$hashKey: 091
-created_date: "2014-12-09T11:47:50-02:00"
+- link: http://farm9.staticflickr.com/8605/15795947048_f1cfebb265_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8605/15795947048_f1cfebb265_t.jpg
+  medium: http://farm9.staticflickr.com/8605/15795947048_f1cfebb265_z.jpg
+  small: http://farm9.staticflickr.com/8605/15795947048_f1cfebb265_n.jpg
+  title: glifosato.jpg
+  "$$hashKey": 091
+created_date: '2014-12-09T11:47:50-02:00'
 published: true
-images_hd: "http://farm9.staticflickr.com/8605/15795947048_f1cfebb265_n.jpg"
+images_hd: http://farm9.staticflickr.com/8605/15795947048_f1cfebb265_n.jpg
 
 ---
 <div id="content-header">

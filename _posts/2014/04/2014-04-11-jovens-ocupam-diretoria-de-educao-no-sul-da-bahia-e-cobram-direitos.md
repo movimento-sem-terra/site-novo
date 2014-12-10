@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15960
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/ba II.png
 video: ''
 tags:
-- localização: bahia
-- assuntos: mobilização
+- tag: bahia
+- tag: mobilização
 - tag: lutas e mobilizações
 type: news
 support_line: A Juventude Sem Terra ocupou nesta quinta-feira (10) a sede da Diretoria

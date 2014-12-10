@@ -4,7 +4,7 @@ title: Jornada de Lutas das Mulheres Camponesas 2009
 legacy_url: http://www.mst.org.br/node/102
 images: ''
 video: ''
-tags: []
+tags: 
 type: 
 support_line: ''
 section: 

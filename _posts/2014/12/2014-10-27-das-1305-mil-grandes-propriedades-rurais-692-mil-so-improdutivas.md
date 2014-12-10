@@ -1,22 +1,22 @@
 ---
-date: "2014-10-27T16:39:47-02:00"
+date: '2014-10-27T16:39:47-02:00'
 tags:
-  - tag: Índice-de-produtividade
-  - tag: Kátia-Abreu
+- tag: "Índice-de-produtividade"
+- tag: Kátia-Abreu
 label: articles
-title: "Das 130,5 mil grandes propriedades rurais, 69,2 mil são improdutivas"
+title: Das 130,5 mil grandes propriedades rurais, 69,2 mil são improdutivas
 menu: reforma agrária
-support_line: "Segundo o Incra, há 228,5 milhões de hectares improdutivos."
+support_line: Segundo o Incra, há 228,5 milhões de hectares improdutivos.
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8642/15761225827_0a0eb3eff9_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8642/15761225827_0a0eb3eff9_t.jpg"
-    medium: "http://farm9.staticflickr.com/8642/15761225827_0a0eb3eff9_z.jpg"
-    small: "http://farm9.staticflickr.com/8642/15761225827_0a0eb3eff9_n.jpg"
-    title: arame.jpg
-    $$hashKey: A2Y
+- link: http://farm9.staticflickr.com/8642/15761225827_0a0eb3eff9_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8642/15761225827_0a0eb3eff9_t.jpg
+  medium: http://farm9.staticflickr.com/8642/15761225827_0a0eb3eff9_z.jpg
+  small: http://farm9.staticflickr.com/8642/15761225827_0a0eb3eff9_n.jpg
+  title: arame.jpg
+  "$$hashKey": A2Y
 published: true
-images_hd: "http://farm9.staticflickr.com/8642/15761225827_0a0eb3eff9_n.jpg"
+images_hd: http://farm9.staticflickr.com/8642/15761225827_0a0eb3eff9_n.jpg
 
 ---
 <div id="content-header">

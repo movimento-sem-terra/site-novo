@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/16271
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/mundo agroecologico!.jpg
 video: ''
 tags:
-- assuntos: agroecologia
+- tag: agroecologia
 - tag: agricultura camponesa
 type: 
 support_line: Nos últimos 30 anos, esse modelo vem se apresentando como opção estratégica

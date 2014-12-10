@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15801
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/mst_macae_meninas_bandeira!.jpg
 video: ''
 tags:
-- localização: rio de janeiro
-- assuntos: reforma agrária
+- tag: rio de janeiro
+- tag: reforma agrária
 - tag: reforma agrária
 type: news
 support_line: Depois de três anos e meio de muita luta e sofrimento, as 78 famílias

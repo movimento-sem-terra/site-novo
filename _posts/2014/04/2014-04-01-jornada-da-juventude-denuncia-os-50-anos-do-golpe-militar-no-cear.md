@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15912
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/ato-da-frente.jpg
 video: ''
 tags:
-- localização: ceará
-- assuntos: 50 anos do golpe militar
+- tag: ceará
+- tag: 50 anos do golpe militar
 - tag: direitos humanos
 type: news
 support_line: A marcha seguiu em direção ao hospital do exército brasileiro, sedes

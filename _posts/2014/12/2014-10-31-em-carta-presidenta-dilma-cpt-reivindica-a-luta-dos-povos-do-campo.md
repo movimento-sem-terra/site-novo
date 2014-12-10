@@ -1,25 +1,27 @@
 ---
-date: "2014-10-31T10:29:40-02:00"
+date: '2014-10-31T10:29:40-02:00'
 tags:
-  - tag: CPT
-  - tag: eleições
-  - tag: Indígenas
-  - tag: Reforma-Agrária
+- tag: CPT
+- tag: eleições
+- tag: Indígenas
+- tag: Reforma-Agrária
 hat: Reforma Agrária
-title: "Em carta à presidenta Dilma, CPT reivindica a luta dos povos do campo"
-support_line: "\"Constatamos que, sobretudo em seu mandato atual, no que exige este artigo (função social da terra), a Constituição foi tratada como letra morta, pois foi efetuado o menor número de desapropriações dos últimos 20 anos\", diz a carta."
+title: Em carta à presidenta Dilma, CPT reivindica a luta dos povos do campo
+support_line: '"Constatamos que, sobretudo em seu mandato atual, no que exige este
+  artigo (função social da terra), a Constituição foi tratada como letra morta, pois
+  foi efetuado o menor número de desapropriações dos últimos 20 anos", diz a carta.'
 menu: reforma agrária
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7498/15332203813_ce213983fb_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7498/15332203813_ce213983fb_t.jpg"
-    medium: "http://farm8.staticflickr.com/7498/15332203813_ce213983fb_z.jpg"
-    small: "http://farm8.staticflickr.com/7498/15332203813_ce213983fb_n.jpg"
-    title: 19-reforma_agraria.jpg
-    $$hashKey: 0KT
-created_date: "2014-12-05T10:42:32-02:00"
+- link: http://farm8.staticflickr.com/7498/15332203813_ce213983fb_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7498/15332203813_ce213983fb_t.jpg
+  medium: http://farm8.staticflickr.com/7498/15332203813_ce213983fb_z.jpg
+  small: http://farm8.staticflickr.com/7498/15332203813_ce213983fb_n.jpg
+  title: 19-reforma_agraria.jpg
+  "$$hashKey": 0KT
+created_date: '2014-12-05T10:42:32-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7498/15332203813_ce213983fb_n.jpg"
+images_hd: http://farm8.staticflickr.com/7498/15332203813_ce213983fb_n.jpg
 
 ---
 <p>&nbsp;</p>

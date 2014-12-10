@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15728
 images: ''
 video: ''
 tags:
-- destaque: destaque
-- congresso: '6'
+- tag: destaque
+- tag: '6'
 - tag: lutas e mobilizações
 type: news
 support_line: ''

@@ -1,26 +1,28 @@
 ---
-date: "2014-11-19T17:11:14-02:00"
+date: '2014-11-19T17:11:14-02:00'
 tags:
-  - tag: Stedile
-  - tag: eleições
-  - tag: entrevista
-  - tag: reforma-política
-  - tag: conjuntura
-title: "O povo quer mudanças e os movimentos têm propostas, basta o governo ser mais humilde"
+- tag: Stedile
+- tag: eleições
+- tag: entrevista
+- tag: reforma-política
+- tag: conjuntura
+title: O povo quer mudanças e os movimentos têm propostas, basta o governo ser mais
+  humilde
 hat: Entrevista
-support_line: Stedile analisa a atual movimentação da direita e os desdobramentos que podem acontecer.
+support_line: Stedile analisa a atual movimentação da direita e os desdobramentos
+  que podem acontecer.
 menu: projeto popular
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7517/15767901489_c2d2de6c82_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7517/15767901489_c2d2de6c82_t.jpg"
-    medium: "http://farm8.staticflickr.com/7517/15767901489_c2d2de6c82_z.jpg"
-    small: "http://farm8.staticflickr.com/7517/15767901489_c2d2de6c82_n.jpg"
-    title: stedile.jpg
-    $$hashKey: 0EG
-created_date: "2014-12-05T17:14:49-02:00"
+- link: http://farm8.staticflickr.com/7517/15767901489_c2d2de6c82_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7517/15767901489_c2d2de6c82_t.jpg
+  medium: http://farm8.staticflickr.com/7517/15767901489_c2d2de6c82_z.jpg
+  small: http://farm8.staticflickr.com/7517/15767901489_c2d2de6c82_n.jpg
+  title: stedile.jpg
+  "$$hashKey": 0EG
+created_date: '2014-12-05T17:14:49-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7517/15767901489_c2d2de6c82_n.jpg"
+images_hd: http://farm8.staticflickr.com/7517/15767901489_c2d2de6c82_n.jpg
 label: interviews
 
 ---

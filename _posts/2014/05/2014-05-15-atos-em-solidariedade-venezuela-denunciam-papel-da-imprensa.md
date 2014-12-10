@@ -6,8 +6,8 @@ images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/ato v
   abre.jpg
 video: ''
 tags:
-- localização: são paulo
-- assuntos: venezuela
+- tag: são paulo
+- tag: venezuela
 - tag: lutas e mobilizações
 type: news
 support_line: Mídia tem ocultado os crimes cometidos pela direita venezuelana e  tratado

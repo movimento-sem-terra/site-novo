@@ -6,7 +6,7 @@ images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/sem t
   RS_2!.jpg
 video: ''
 tags:
-- assuntos: educação
+- tag: educação
 - tag: educação, cultura e comunicação
 type: news
 support_line: Nos últimos cinco anos foram fechadas mais de 13 mil escolas do campo.

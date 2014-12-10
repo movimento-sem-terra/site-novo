@@ -5,9 +5,9 @@ legacy_url: http://www.mst.org.br/node/15654
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/mulheres-MST2.jpg
 video: ''
 tags:
-- tipo de matéria: artigos
-- assuntos: 6° congresso nacional
-- congresso: '6'
+- tag: artigos
+- tag: 6° congresso nacional
+- tag: '6'
 - tag: projeto popular
 type: news
 menu: projeto popular

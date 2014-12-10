@@ -6,8 +6,8 @@ images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/miner
   (1).jpg
 video: ''
 tags:
-- assuntos: mineração
-- tipo de matéria: entrevistas
+- tag: mineração
+- tag: entrevistas
 - tag: meio ambiente
 type: 
 support_line: "\"O Marco Legal da Mineração deveria incluir mecanismos de controle

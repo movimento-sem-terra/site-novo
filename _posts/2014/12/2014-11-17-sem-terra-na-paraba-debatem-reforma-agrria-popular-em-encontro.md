@@ -1,23 +1,24 @@
 ---
-date: "2014-11-17T15:39:41-02:00"
+date: '2014-11-17T15:39:41-02:00'
 tags:
-  - tag: reforma-agrária
-  - tag: assentamento
-  - tag: agricultores
+- tag: reforma-agrária
+- tag: assentamento
+- tag: agricultores
 title: Sem Terra na Paraíba debatem Reforma Agrária popular em encontro
-support_line: "Durante os dois dias foram debatidos temas como convivência com o semiárido, agroecologia, análise da conjuntura política brasileira e os setores do MST."
+support_line: Durante os dois dias foram debatidos temas como convivência com o semiárido,
+  agroecologia, análise da conjuntura política brasileira e os setores do MST.
 menu: reforma agrária
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7567/15952769362_d013a05789_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7567/15952769362_d013a05789_t.jpg"
-    medium: "http://farm8.staticflickr.com/7567/15952769362_d013a05789_z.jpg"
-    small: "http://farm8.staticflickr.com/7567/15952769362_d013a05789_n.jpg"
-    title: mst pb.JPG
-    $$hashKey: 17E
-created_date: "2014-12-05T15:45:43-02:00"
+- link: http://farm8.staticflickr.com/7567/15952769362_d013a05789_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7567/15952769362_d013a05789_t.jpg
+  medium: http://farm8.staticflickr.com/7567/15952769362_d013a05789_z.jpg
+  small: http://farm8.staticflickr.com/7567/15952769362_d013a05789_n.jpg
+  title: mst pb.JPG
+  "$$hashKey": 17E
+created_date: '2014-12-05T15:45:43-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7567/15952769362_d013a05789_n.jpg"
+images_hd: http://farm8.staticflickr.com/7567/15952769362_d013a05789_n.jpg
 
 ---
 <p><img alt="mst pb.JPG" src="http://farm8.staticflickr.com/7567/15952769362_d013a05789_b.jpg" /></p>

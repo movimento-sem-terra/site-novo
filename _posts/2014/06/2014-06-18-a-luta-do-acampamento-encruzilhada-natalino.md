@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16225
 images: ''
 video: ''
 tags:
-- assuntos: ditadura
-- localização: rio grande do sul
+- tag: ditadura
+- tag: rio grande do sul
 - tag: direitos humanos
 type: news
 support_line: ''

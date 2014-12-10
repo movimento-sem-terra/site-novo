@@ -5,9 +5,9 @@ legacy_url: http://www.mst.org.br/node/16196
 images: ''
 video: eDbEk8JUX-E
 tags:
-- assuntos: 13° jornada de agroecologia
-- localização: paraná
-- destaque: destaque
+- tag: 13° jornada de agroecologia
+- tag: paraná
+- tag: destaque
 - tag: lutas e mobilizações
 type: video
 support_line: ''

@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15877
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/AL_prefeitura!.jpg
 video: ''
 tags:
-- localização: alagoas
-- assuntos: mobilização
+- tag: alagoas
+- tag: mobilização
 - tag: lutas e mobilizações
 type: news
 support_line: Para os Sem Terra, trata-se de uma irresponsabilidade deixar as águas

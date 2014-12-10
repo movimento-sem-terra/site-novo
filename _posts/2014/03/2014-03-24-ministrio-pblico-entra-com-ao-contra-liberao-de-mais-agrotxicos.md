@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15882
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/ag!.jpg
 video: ''
 tags:
-- assuntos: agrotóxicos
+- tag: agrotóxicos
 - tag: agronegócio
 type: news
 support_line: Num momento em que o setor produtivo faz pressão para a aprovação de

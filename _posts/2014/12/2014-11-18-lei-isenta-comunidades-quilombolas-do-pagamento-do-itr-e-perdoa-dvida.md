@@ -1,21 +1,22 @@
 ---
-date: "2014-11-18T14:27:46-02:00"
+date: '2014-11-18T14:27:46-02:00'
 tags:
-  - tag: Quilombolas
+- tag: Quilombolas
 title: Lei isenta comunidades quilombolas do pagamento do ITR e perdoa dívida
-support_line: "Esta vitória, no mês da consciência negra, além de reparar uma injustiça histórica, representa um capítulo importante no reconhecimento dos direitos territoriais."
+support_line: Esta vitória, no mês da consciência negra, além de reparar uma injustiça
+  histórica, representa um capítulo importante no reconhecimento dos direitos territoriais.
 menu: direitos humanos
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7495/15952360262_6e5d03c654_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7495/15952360262_6e5d03c654_t.jpg"
-    medium: "http://farm8.staticflickr.com/7495/15952360262_6e5d03c654_z.jpg"
-    small: "http://farm8.staticflickr.com/7495/15952360262_6e5d03c654_n.jpg"
-    title: quilombola.jpg
-    $$hashKey: 0HV
-created_date: "2014-12-05T14:29:55-02:00"
+- link: http://farm8.staticflickr.com/7495/15952360262_6e5d03c654_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7495/15952360262_6e5d03c654_t.jpg
+  medium: http://farm8.staticflickr.com/7495/15952360262_6e5d03c654_z.jpg
+  small: http://farm8.staticflickr.com/7495/15952360262_6e5d03c654_n.jpg
+  title: quilombola.jpg
+  "$$hashKey": 0HV
+created_date: '2014-12-05T14:29:55-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7495/15952360262_6e5d03c654_n.jpg"
+images_hd: http://farm8.staticflickr.com/7495/15952360262_6e5d03c654_n.jpg
 
 ---
 <p><img alt="quilombola.jpg" src="http://farm8.staticflickr.com/7495/15952360262_6e5d03c654_b.jpg" /></p>

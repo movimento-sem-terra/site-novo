@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15998
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/Sem Terra.jpg
 video: ''
 tags:
-- localização: ceará
-- assuntos: jornada de lutas abril 2014
+- tag: ceará
+- tag: jornada de lutas abril 2014
 - tag: lutas e mobilizações
 type: news
 support_line: 200 famílias ocuparam uma fazenda em Quixeramobim, outras 300 em Ibaretama

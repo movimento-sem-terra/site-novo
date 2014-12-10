@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16079
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/bahia.png
 video: ''
 tags:
-- localização: bahia
-- assuntos: jornada de lutas abril 2014
+- tag: bahia
+- tag: jornada de lutas abril 2014
 - tag: lutas e mobilizações
 type: news
 support_line: "“Lutar, construir Reforma Agrária Popular” foi o grito que motivou

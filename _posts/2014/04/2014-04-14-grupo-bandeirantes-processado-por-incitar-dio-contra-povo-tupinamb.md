@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15968
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/atencao_manipulacao.png
 video: ''
 tags:
-- assuntos: indígenas
+- tag: indígenas
 - tag: educação, cultura e comunicação
 type: news
 support_line: O Grupo Bandeirantes de Comunicação veiculou, em rede nacional, duas

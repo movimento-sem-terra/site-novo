@@ -1,22 +1,23 @@
 ---
-date: "2014-11-18T14:42:37-02:00"
+date: '2014-11-18T14:42:37-02:00'
 tags:
-  - tag: Homenagem
+- tag: Homenagem
 title: MST lança cartazes em homenagem aos lutadores e lutadoras do povo brasileiro
 menu: lutas e mobilizações
-support_line: "Em comemoração aos 30 anos, o Movimento lançou uma coleção em homenagem a 10 lutadores do povo brasileiro."
+support_line: Em comemoração aos 30 anos, o Movimento lançou uma coleção em homenagem
+  a 10 lutadores do povo brasileiro.
 section: featured-news
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7547/15952452932_bdb775e9a8_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7547/15952452932_bdb775e9a8_t.jpg"
-    medium: "http://farm8.staticflickr.com/7547/15952452932_bdb775e9a8_z.jpg"
-    small: "http://farm8.staticflickr.com/7547/15952452932_bdb775e9a8_n.jpg"
-    title: colecaocartazesparaface.jpg
-    $$hashKey: 1H3
-created_date: "2014-12-05T14:46:14-02:00"
+- link: http://farm8.staticflickr.com/7547/15952452932_bdb775e9a8_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7547/15952452932_bdb775e9a8_t.jpg
+  medium: http://farm8.staticflickr.com/7547/15952452932_bdb775e9a8_z.jpg
+  small: http://farm8.staticflickr.com/7547/15952452932_bdb775e9a8_n.jpg
+  title: colecaocartazesparaface.jpg
+  "$$hashKey": 1H3
+created_date: '2014-12-05T14:46:14-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7547/15952452932_bdb775e9a8_n.jpg"
+images_hd: http://farm8.staticflickr.com/7547/15952452932_bdb775e9a8_n.jpg
 
 ---
 <p><img alt="colecaocartazesparaface.jpg" src="http://farm8.staticflickr.com/7547/15952452932_bdb775e9a8_b.jpg" /></p>

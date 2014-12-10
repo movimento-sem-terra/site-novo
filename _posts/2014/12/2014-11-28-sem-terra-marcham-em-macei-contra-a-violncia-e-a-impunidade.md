@@ -1,23 +1,24 @@
 ---
-date: "2014-11-28T15:32:03-02:00"
+date: '2014-11-28T15:32:03-02:00'
 tags:
-  - tag: Reforma-Agrária
-  - tag: Alagoas
-  - tag: Direitos-Humanos
+- tag: Reforma-Agrária
+- tag: Alagoas
+- tag: Direitos-Humanos
 title: Sem Terra marcham em Maceió contra a violência e a impunidade
 menu: lutas e mobilizações
-support_line: "Os 1.200 Sem Terra acampados desde quarta em Maceió, realizam diversas ações do Dia Estadual de Luta contra a Violência e a Impunidade."
+support_line: Os 1.200 Sem Terra acampados desde quarta em Maceió, realizam diversas
+  ações do Dia Estadual de Luta contra a Violência e a Impunidade.
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8647/15791058679_aa969b99e2_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8647/15791058679_aa969b99e2_t.jpg"
-    medium: "http://farm9.staticflickr.com/8647/15791058679_aa969b99e2_z.jpg"
-    small: "http://farm9.staticflickr.com/8647/15791058679_aa969b99e2_n.jpg"
-    title: marcha_maceio.jpg
-    $$hashKey: 16S
-created_date: "2014-12-08T15:33:56-02:00"
+- link: http://farm9.staticflickr.com/8647/15791058679_aa969b99e2_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8647/15791058679_aa969b99e2_t.jpg
+  medium: http://farm9.staticflickr.com/8647/15791058679_aa969b99e2_z.jpg
+  small: http://farm9.staticflickr.com/8647/15791058679_aa969b99e2_n.jpg
+  title: marcha_maceio.jpg
+  "$$hashKey": 16S
+created_date: '2014-12-08T15:33:56-02:00'
 published: true
-images_hd: "http://farm9.staticflickr.com/8647/15791058679_aa969b99e2_n.jpg"
+images_hd: http://farm9.staticflickr.com/8647/15791058679_aa969b99e2_n.jpg
 
 ---
 <p><img alt="marcha_maceio.jpg" src="http://farm9.staticflickr.com/8647/15791058679_aa969b99e2_b.jpg" /></p>

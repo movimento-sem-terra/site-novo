@@ -6,8 +6,8 @@ images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/filho
   da luta.jpg
 video: ''
 tags:
-- localização: pernambuco
-- assuntos: reforma agrária
+- tag: pernambuco
+- tag: reforma agrária
 - tag: agricultura camponesa
 type: news
 support_line: "\"Se não nos tirarem dessa terra, prometemos produzir muito mais”,

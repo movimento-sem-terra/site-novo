@@ -1,22 +1,23 @@
 ---
-date: "2014-12-02T16:19:34-02:00"
+date: '2014-12-02T16:19:34-02:00'
 tags:
-  - tag: São-Paulo
-  - tag: Reforma-Agrária
+- tag: São-Paulo
+- tag: Reforma-Agrária
 title: MST ocupa Itesp em SP para exigir desapropriações de terras
-support_line: "Acordo firmado no início deste ano prometia a desapropriação de 32 mil hectares, que se tornariam áreas de assentamento. Até agora, o acordo não se cumpriu."
+support_line: Acordo firmado no início deste ano prometia a desapropriação de 32 mil
+  hectares, que se tornariam áreas de assentamento. Até agora, o acordo não se cumpriu.
 menu: lutas e mobilizações
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7479/15790016868_340394c02d_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7479/15790016868_340394c02d_t.jpg"
-    medium: "http://farm8.staticflickr.com/7479/15790016868_340394c02d_z.jpg"
-    small: "http://farm8.staticflickr.com/7479/15790016868_340394c02d_n.jpg"
-    title: ocupação_itesp.jpg
-    $$hashKey: 3B5
-created_date: "2014-12-08T16:22:33-02:00"
+- link: http://farm8.staticflickr.com/7479/15790016868_340394c02d_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7479/15790016868_340394c02d_t.jpg
+  medium: http://farm8.staticflickr.com/7479/15790016868_340394c02d_z.jpg
+  small: http://farm8.staticflickr.com/7479/15790016868_340394c02d_n.jpg
+  title: ocupação_itesp.jpg
+  "$$hashKey": 3B5
+created_date: '2014-12-08T16:22:33-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7479/15790016868_340394c02d_n.jpg"
+images_hd: http://farm8.staticflickr.com/7479/15790016868_340394c02d_n.jpg
 
 ---
 <div id="content-header">

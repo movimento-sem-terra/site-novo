@@ -6,8 +6,8 @@ images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/ocupa
   em abelardo luz -  por juliana adriano!.jpg
 video: ''
 tags:
-- localização: santa catarina
-- assuntos: ocupação
+- tag: santa catarina
+- tag: ocupação
 - tag: reforma agrária
 type: news
 support_line: Há mais de dez anos, a área em questão foi grilada de pequenos agricultores

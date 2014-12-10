@@ -1,23 +1,24 @@
 ---
-date: "2014-11-07T13:10:07-02:00"
+date: '2014-11-07T13:10:07-02:00'
 tags:
-  - tag: Eleições
-  - tag: Constituinte
-  - tag: Reforma-Política
+- tag: Eleições
+- tag: Constituinte
+- tag: Reforma-Política
 title: A maior bancada do Congresso não será de um partido; será da JBS
 menu: agronegócio
-support_line: "Grandes empresas transnacionais elegem as maiores bancadas do Congresso. Apenas a bancada financiada pela J&F é maior que os deputados do PT e PMDB."
+support_line: Grandes empresas transnacionais elegem as maiores bancadas do Congresso.
+  Apenas a bancada financiada pela J&F é maior que os deputados do PT e PMDB.
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8677/15765322190_5dbae22d60_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8677/15765322190_5dbae22d60_t.jpg"
-    medium: "http://farm9.staticflickr.com/8677/15765322190_5dbae22d60_z.jpg"
-    small: "http://farm9.staticflickr.com/8677/15765322190_5dbae22d60_n.jpg"
-    title: congresso_escuro.jpg
-    $$hashKey: 1A3
-created_date: "2014-12-05T13:16:57-02:00"
+- link: http://farm9.staticflickr.com/8677/15765322190_5dbae22d60_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8677/15765322190_5dbae22d60_t.jpg
+  medium: http://farm9.staticflickr.com/8677/15765322190_5dbae22d60_z.jpg
+  small: http://farm9.staticflickr.com/8677/15765322190_5dbae22d60_n.jpg
+  title: congresso_escuro.jpg
+  "$$hashKey": 1A3
+created_date: '2014-12-05T13:16:57-02:00'
 published: true
-images_hd: "http://farm9.staticflickr.com/8677/15765322190_5dbae22d60_n.jpg"
+images_hd: http://farm9.staticflickr.com/8677/15765322190_5dbae22d60_n.jpg
 
 ---
 <div id="content-header">

@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15718
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/marcha1222.jpg
 video: ''
 tags:
-- congresso: '6'
-- assuntos: 6° congresso nacional
+- tag: '6'
+- tag: 6° congresso nacional
 - tag: lutas e mobilizações
 type: news
 support_line: A imprensa realizou uma cobertura tendenciosa da marcha do 6º Congresso

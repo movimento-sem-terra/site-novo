@@ -5,9 +5,9 @@ legacy_url: http://www.mst.org.br/node/16191
 images: ''
 video: ''
 tags:
-- destaque: manchete
-- localização: pará
-- assuntos: ocupação
+- tag: manchete
+- tag: pará
+- tag: ocupação
 - tag: lutas e mobilizações
 type: news
 support_line: O Movimento alega que ambas as áreas são terras públicas e improdutivas.

@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15991
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/pereira.png
 video: ''
 tags:
-- localização: são paulo
+- tag: são paulo
 - tag: educação, cultura e comunicação
 type: news
 support_line: Pereira da Viola e Dito Rodrigues dançaram e cantaram, nesta sexta-feira

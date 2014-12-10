@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16108
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/PR_IMG_3848.jpg
 video: ''
 tags:
-- localização: paraná
-- assuntos: produção
+- tag: paraná
+- tag: produção
 - tag: reforma agrária
 type: news
 support_line: Caso haja novos linhas de financiamento, os recursos serão aplicados

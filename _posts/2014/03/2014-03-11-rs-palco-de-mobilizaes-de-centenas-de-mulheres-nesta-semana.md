@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15828
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/mulheres-em-luta!.jpg
 video: ''
 tags:
-- localização: rio grande do sul
-- assuntos: jornada de luta das mulheres 2014
+- tag: rio grande do sul
+- tag: jornada de luta das mulheres 2014
 - tag: lutas e mobilizações
 type: news
 support_line: Desde sábado, centenas de mulheres realizam diversas manifestações por

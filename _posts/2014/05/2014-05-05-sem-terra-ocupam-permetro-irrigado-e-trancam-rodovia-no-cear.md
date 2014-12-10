@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16054
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/22 de agosoto.jpg
 video: ''
 tags:
-- localização: ceará
-- assuntos: jornada de lutas abril 2014
+- tag: ceará
+- tag: jornada de lutas abril 2014
 - tag: lutas e mobilizações
 type: news
 support_line: Em Limoeiro do Norte, cerca de 1000 trabalhadores de diversos movimentos

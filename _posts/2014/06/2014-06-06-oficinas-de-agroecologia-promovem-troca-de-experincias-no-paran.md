@@ -6,8 +6,8 @@ images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/IMG_9
   Jornada de Agroecologia-OFICINAS_Foto- Leandro Taques!.jpg
 video: ''
 tags:
-- localização: paraná
-- assuntos: 13° jornada de agroecologia
+- tag: paraná
+- tag: 13° jornada de agroecologia
 - tag: agricultura camponesa
 type: news
 support_line: A forte chuva que caiu na manhã desta sexta-feira na cidade de Maringá

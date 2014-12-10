@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15746
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/container_soja.jpg
 video: ''
 tags:
-- assuntos: economia
-- tipo de matéria: entrevistas
+- tag: economia
+- tag: entrevistas
 - tag: agronegócio
 type: news
 support_line: Em entrevista, Guilherme Delgado diz que os déficits da economia brasileira

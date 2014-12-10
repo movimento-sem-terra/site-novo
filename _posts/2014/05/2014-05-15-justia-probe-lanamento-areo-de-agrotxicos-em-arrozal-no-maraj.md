@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16102
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/aviao!.jpg
 video: ''
 tags:
-- localização: pará
-- assuntos: agrotóxicos
+- tag: pará
+- tag: agrotóxicos
 - tag: agronegócio
 type: news
 support_line: “É importante ressaltar que, por razões de segurança operacional, não

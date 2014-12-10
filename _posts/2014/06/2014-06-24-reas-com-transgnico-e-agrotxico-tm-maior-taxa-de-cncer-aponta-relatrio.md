@@ -5,11 +5,11 @@ legacy_url: http://www.mst.org.br/node/16234
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/veneno.jpg
 video: ''
 tags:
-- destaque: manchete
-- localização: argentina
-- assuntos: transgênicos
-- assuntos: saúde
-- assuntos: agrotóxicos
+- tag: manchete
+- tag: argentina
+- tag: transgênicos
+- tag: saúde
+- tag: agrotóxicos
 - tag: agronegócio
 type: news
 support_line: Ministério da Saúde de Córdoba revelou que nas áreas que se aplicam

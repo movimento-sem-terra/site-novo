@@ -1,23 +1,25 @@
 ---
-date: "2014-11-06T11:57:37-02:00"
+date: '2014-11-06T11:57:37-02:00'
 tags:
-  - tag: Constituinte
-  - tag: Reforma-Política
-title: "Do referendo à Constituinte: próximos capítulos prometem mais embates"
+- tag: Constituinte
+- tag: Reforma-Política
+title: 'Do referendo à Constituinte: próximos capítulos prometem mais embates'
 menu: projeto popular
-support_line: "O referendo da reforma política Vaccarezza será o momento central, quando a população admitirá uma proposta feita de cima pra baixo ou representará um salto à frente, com a deslegitimação do sistema político e a convocação da Constituinte."
+support_line: O referendo da reforma política Vaccarezza será o momento central, quando
+  a população admitirá uma proposta feita de cima pra baixo ou representará um salto
+  à frente, com a deslegitimação do sistema político e a convocação da Constituinte.
 label: articles
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8578/15950241291_d96111f08a_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8578/15950241291_d96111f08a_t.jpg"
-    medium: "http://farm9.staticflickr.com/8578/15950241291_d96111f08a_z.jpg"
-    small: "http://farm9.staticflickr.com/8578/15950241291_d96111f08a_n.jpg"
-    title: reforma_no_congresso.jpg
-    $$hashKey: 0OX
-created_date: "2014-12-05T11:59:12-02:00"
+- link: http://farm9.staticflickr.com/8578/15950241291_d96111f08a_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8578/15950241291_d96111f08a_t.jpg
+  medium: http://farm9.staticflickr.com/8578/15950241291_d96111f08a_z.jpg
+  small: http://farm9.staticflickr.com/8578/15950241291_d96111f08a_n.jpg
+  title: reforma_no_congresso.jpg
+  "$$hashKey": 0OX
+created_date: '2014-12-05T11:59:12-02:00'
 published: true
-images_hd: "http://farm9.staticflickr.com/8578/15950241291_d96111f08a_n.jpg"
+images_hd: http://farm9.staticflickr.com/8578/15950241291_d96111f08a_n.jpg
 
 ---
 <p><img alt="reforma_no_congresso.jpg" src="http://farm9.staticflickr.com/8578/15950241291_d96111f08a_b.jpg" /><br />

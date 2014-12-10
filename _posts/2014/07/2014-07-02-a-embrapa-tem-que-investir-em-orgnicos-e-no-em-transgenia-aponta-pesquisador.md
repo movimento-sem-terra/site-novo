@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16260
 images: ''
 video: ''
 tags:
-- assuntos: embrapa
-- destaque: manchete
+- tag: embrapa
+- tag: manchete
 - tag: transgênicos
 type: 
 support_line: A&nbsp;Empresa Brasileira de Pesquisa Agropecuária apresentou recentemente

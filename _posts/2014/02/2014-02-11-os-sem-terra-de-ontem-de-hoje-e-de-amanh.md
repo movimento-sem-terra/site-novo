@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15698
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/lutar!.jpg
 video: ''
 tags:
-- semana: tema da semana
-- assuntos: reforma agrária
+- tag: tema da semana
+- tag: reforma agrária
 - tag: reforma agrária
 type: news
 support_line: Apenas a luta pode garantir a reforma agrária popular, baseada na defesa

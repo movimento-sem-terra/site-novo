@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16168
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/materia_itapeva.jpg
 video: ''
 tags:
-- assuntos: agricultura familiar
-- tipo de matéria: entrevistas
+- tag: agricultura familiar
+- tag: entrevistas
 - tag: agricultura camponesa
 type: 
 support_line: Os incentivos para o desenvolvimento da agricultura familiar brasileira

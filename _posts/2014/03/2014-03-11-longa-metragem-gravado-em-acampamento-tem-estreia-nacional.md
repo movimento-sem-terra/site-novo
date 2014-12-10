@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15825
 images: http://www.mst.org.br/sites/default/files/Elayne_FotoTallesReis-MST.jpg
 video: HMwCKU8SdiQ
 tags:
-- destaque: manchete
-- assuntos: cultura
+- tag: manchete
+- tag: cultura
 - tag: educação, cultura e comunicação
 type: video
 support_line: Elayne de Moura, filha de assentada, ganhou o Candango de Melhor Atriz

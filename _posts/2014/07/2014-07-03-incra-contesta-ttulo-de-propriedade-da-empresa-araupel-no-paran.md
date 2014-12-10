@@ -5,9 +5,9 @@ legacy_url: http://www.mst.org.br/node/16262
 images: http://farm3.staticflickr.com/2909/14679150444_ceb4903c3e_t.jpg
 video: ''
 tags:
-- destaque: manchete
-- localização: paraná
-- assuntos: ocupação
+- tag: manchete
+- tag: paraná
+- tag: ocupação
 - tag: reforma agrária
 type: 
 support_line: Mais de 2.500 famílias Sem Terra reivindicam a desapropriação de fazenda

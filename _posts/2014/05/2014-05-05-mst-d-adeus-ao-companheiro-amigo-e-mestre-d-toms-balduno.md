@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/16052
 images: ''
 video: ''
 tags:
-- destaque: manchete
+- tag: manchete
 - tag: lutadores e lutadoras do povo
 type: 
 support_line: Confira a nota da Direção Nacional do MST&nbsp;em  homenagem a D. Tomás

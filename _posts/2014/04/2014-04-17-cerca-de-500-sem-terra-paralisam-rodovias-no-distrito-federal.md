@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15984
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/brasilia!.png
 video: ''
 tags:
-- localização: brasília
-- assuntos: jornada de lutas abril 2014
+- tag: brasília
+- tag: jornada de lutas abril 2014
 - tag: lutas e mobilizações
 type: news
 support_line: A ação tem o objetivo de pressionar por agilidade na Reforma Agrária

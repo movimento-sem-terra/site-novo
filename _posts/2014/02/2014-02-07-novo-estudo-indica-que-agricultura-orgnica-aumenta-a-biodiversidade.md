@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15686
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/organic1.jpg
 video: ''
 tags:
-- assuntos: agroecologia
+- tag: agroecologia
 - tag: agricultura camponesa
 type: news
 support_line: Um grupo de cientistas analisaram 94 estudos anteriores,  concluindo

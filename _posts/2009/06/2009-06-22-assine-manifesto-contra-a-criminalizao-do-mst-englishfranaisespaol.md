@@ -4,7 +4,7 @@ title: 'ASSINE MANIFESTO CONTRA A CRIMINALIZAÇÃO DO MST (english/français/esp
 legacy_url: http://www.mst.org.br/node/98
 images: ''
 video: ''
-tags: []
+tags: 
 type: 
 support_line: ''
 section: 

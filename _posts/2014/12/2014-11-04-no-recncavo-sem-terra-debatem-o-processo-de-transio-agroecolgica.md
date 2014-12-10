@@ -1,24 +1,26 @@
 ---
-date: "2014-11-04T13:17:05-02:00"
+date: '2014-11-04T13:17:05-02:00'
 tags:
-  - tag: agroecologia
-  - tag: seminário
-  - tag: Recôncavo
-  - tag: Bahia
-title: "No Recôncavo, Sem Terra debatem o processo de transição agroecológica"
-support_line: "A atividade visa a capacitação dos agricultores em técnicas agrícolas de base ecológica. O Seminário será realizado no Assentamento Eldorado, localizado no município de Santo Amaro."
-menu: "educação, cultura e comunicação"
+- tag: agroecologia
+- tag: seminário
+- tag: Recôncavo
+- tag: Bahia
+title: No Recôncavo, Sem Terra debatem o processo de transição agroecológica
+support_line: A atividade visa a capacitação dos agricultores em técnicas agrícolas
+  de base ecológica. O Seminário será realizado no Assentamento Eldorado, localizado
+  no município de Santo Amaro.
+menu: educação, cultura e comunicação
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7488/15766872407_48361251d2_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7488/15766872407_48361251d2_t.jpg"
-    medium: "http://farm8.staticflickr.com/7488/15766872407_48361251d2_z.jpg"
-    small: "http://farm8.staticflickr.com/7488/15766872407_48361251d2_n.jpg"
-    title: seminário_BA.jpg
-    $$hashKey: "280"
-created_date: "2014-12-05T13:20:05-02:00"
+- link: http://farm8.staticflickr.com/7488/15766872407_48361251d2_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7488/15766872407_48361251d2_t.jpg
+  medium: http://farm8.staticflickr.com/7488/15766872407_48361251d2_z.jpg
+  small: http://farm8.staticflickr.com/7488/15766872407_48361251d2_n.jpg
+  title: seminário_BA.jpg
+  "$$hashKey": '280'
+created_date: '2014-12-05T13:20:05-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7488/15766872407_48361251d2_n.jpg"
+images_hd: http://farm8.staticflickr.com/7488/15766872407_48361251d2_n.jpg
 
 ---
 <p><em>Por Wesley Lima<br />

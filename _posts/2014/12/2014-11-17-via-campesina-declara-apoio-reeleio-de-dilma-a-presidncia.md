@@ -1,21 +1,22 @@
 ---
-date: "2014-10-17T10:21:30-03:00"
+date: '2014-10-17T10:21:30-03:00'
 tags:
-  - tag: Eleições
-  - tag: Dilma-Rousseff
+- tag: Eleições
+- tag: Dilma-Rousseff
 title: Via Campesina declara apoio à reeleição de Dilma a Presidência
 menu: lutas e mobilizações
-support_line: "\"Não podemos permitir retrocessos nas conquistas que tivemos. Isso acontecerá com uma possível “vitória” de Aécio\"."
+support_line: '"Não podemos permitir retrocessos nas conquistas que tivemos. Isso
+  acontecerá com uma possível “vitória” de Aécio".'
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7524/15942843071_423d6e4a2f_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7524/15942843071_423d6e4a2f_t.jpg"
-    medium: "http://farm8.staticflickr.com/7524/15942843071_423d6e4a2f_z.jpg"
-    small: "http://farm8.staticflickr.com/7524/15942843071_423d6e4a2f_n.jpg"
-    title: dilma.jpg
-    $$hashKey: 0EF
+- link: http://farm8.staticflickr.com/7524/15942843071_423d6e4a2f_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7524/15942843071_423d6e4a2f_t.jpg
+  medium: http://farm8.staticflickr.com/7524/15942843071_423d6e4a2f_z.jpg
+  small: http://farm8.staticflickr.com/7524/15942843071_423d6e4a2f_n.jpg
+  title: dilma.jpg
+  "$$hashKey": 0EF
 published: true
-images_hd: "http://farm8.staticflickr.com/7524/15942843071_423d6e4a2f_n.jpg"
+images_hd: http://farm8.staticflickr.com/7524/15942843071_423d6e4a2f_n.jpg
 
 ---
 <div id="content-header">

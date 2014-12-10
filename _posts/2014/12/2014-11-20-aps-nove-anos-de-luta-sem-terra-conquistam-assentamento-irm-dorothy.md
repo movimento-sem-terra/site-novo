@@ -1,21 +1,22 @@
 ---
-date: "2014-10-20T11:33:35-02:00"
+date: '2014-10-20T11:33:35-02:00'
 tags:
-  - tag: Rio-de-Janeiro
-  - tag: Conquista
+- tag: Rio-de-Janeiro
+- tag: Conquista
 title: Após nove anos de luta Sem Terra conquistam Assentamento Irmã Dorothy
-support_line: "O acampamento, fundado em outubro de 2005, abriga cerca de 30 famílias que desde então esperavam pela decisão de posse do terreno."
+support_line: O acampamento, fundado em outubro de 2005, abriga cerca de 30 famílias
+  que desde então esperavam pela decisão de posse do terreno.
 menu: reforma agrária
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8614/15757737148_98f52fc05a_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8614/15757737148_98f52fc05a_t.jpg"
-    medium: "http://farm9.staticflickr.com/8614/15757737148_98f52fc05a_z.jpg"
-    small: "http://farm9.staticflickr.com/8614/15757737148_98f52fc05a_n.jpg"
-    title: irma dorothy_0.JPG
-    $$hashKey: 2AS
+- link: http://farm9.staticflickr.com/8614/15757737148_98f52fc05a_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8614/15757737148_98f52fc05a_t.jpg
+  medium: http://farm9.staticflickr.com/8614/15757737148_98f52fc05a_z.jpg
+  small: http://farm9.staticflickr.com/8614/15757737148_98f52fc05a_n.jpg
+  title: irma dorothy_0.JPG
+  "$$hashKey": 2AS
 published: true
-images_hd: "http://farm9.staticflickr.com/8614/15757737148_98f52fc05a_n.jpg"
+images_hd: http://farm9.staticflickr.com/8614/15757737148_98f52fc05a_n.jpg
 
 ---
 <p><img alt="irma dorothy_0.JPG" src="http://farm9.staticflickr.com/8614/15757737148_98f52fc05a_b.jpg" /></p>

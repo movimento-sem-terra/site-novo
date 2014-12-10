@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16138
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/lançamento_OIT!.jpg
 video: ''
 tags:
-- destaque: manchete
-- assuntos: trabalho escravo
+- tag: manchete
+- tag: trabalho escravo
 - tag: direitos humanos
 type: 
 support_line: Proposta de Emenda Constitucional que tipifica o crime de trabalho escravo

@@ -1,25 +1,27 @@
 ---
-date: "2014-11-03T11:55:32-02:00"
+date: '2014-11-03T11:55:32-02:00'
 tags:
-  - tag: Plebiscito
-  - tag: Reforma-Política
-  - tag: Constituinte
-  - tag: Mobilizações
-title: "Nesta terça, movimentos se mobilizam em defesa do Plebiscito Oficial pela Constituinte"
+- tag: Plebiscito
+- tag: Reforma-Política
+- tag: Constituinte
+- tag: Mobilizações
+title: Nesta terça, movimentos se mobilizam em defesa do Plebiscito Oficial pela Constituinte
 hat: Lutas
 menu: lutas e mobilizações
-support_line: "A mobilização acontece no vão do Masp, na Avenida Paulista, a partir das 18h. Além de São Paulo, Pernambuco, Distrito Federal, Ceará, Minas Gerais e Paraíba também realizarão atos neste mesmo dia."
+support_line: A mobilização acontece no vão do Masp, na Avenida Paulista, a partir
+  das 18h. Além de São Paulo, Pernambuco, Distrito Federal, Ceará, Minas Gerais e
+  Paraíba também realizarão atos neste mesmo dia.
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7581/15764788118_671faa892a_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7581/15764788118_671faa892a_t.jpg"
-    medium: "http://farm8.staticflickr.com/7581/15764788118_671faa892a_z.jpg"
-    small: "http://farm8.staticflickr.com/7581/15764788118_671faa892a_n.jpg"
-    title: reforma_politica_protesto.jpg
-    $$hashKey: 2Q8
-created_date: "2014-12-05T11:59:45-02:00"
+- link: http://farm8.staticflickr.com/7581/15764788118_671faa892a_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7581/15764788118_671faa892a_t.jpg
+  medium: http://farm8.staticflickr.com/7581/15764788118_671faa892a_z.jpg
+  small: http://farm8.staticflickr.com/7581/15764788118_671faa892a_n.jpg
+  title: reforma_politica_protesto.jpg
+  "$$hashKey": 2Q8
+created_date: '2014-12-05T11:59:45-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7581/15764788118_671faa892a_n.jpg"
+images_hd: http://farm8.staticflickr.com/7581/15764788118_671faa892a_n.jpg
 
 ---
 <p><em>Da P&aacute;gina do MST&nbsp;</em></p>

@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16156
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/incra_imperatriz.jpg
 video: ''
 tags:
-- localização: maranhão
-- assuntos: mobilização
+- tag: maranhão
+- tag: mobilização
 - tag: lutas e mobilizações
 type: news
 support_line: Os Sem Terra reivindicam maior rapidez em processos de regularização

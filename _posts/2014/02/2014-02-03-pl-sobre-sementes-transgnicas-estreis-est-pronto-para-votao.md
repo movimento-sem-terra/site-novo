@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15662
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/monsanto-vancouver222.jpg
 video: ''
 tags:
-- assuntos: transgênicos
+- tag: transgênicos
 - tag: transgênicos
 type: news
 support_line: Segundo deputado, não há estudos conclusivos sobre a segurança ambiental

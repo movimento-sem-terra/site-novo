@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15918
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/colonização.jpg
 video: ''
 tags:
-- assuntos: golpe militar
+- tag: golpe militar
 - tag: direitos humanos
 type: news
 support_line: Até a década de 60, o Brasil desconhecia a região amazônica. A primeira

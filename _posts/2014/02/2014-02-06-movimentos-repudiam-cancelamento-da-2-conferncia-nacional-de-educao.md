@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15674
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/escola!.jpg
 video: ''
 tags:
-- assuntos: educação
+- tag: educação
 - tag: educação, cultura e comunicação
 type: news
 support_line: Entre os dias 17 a 21/02 estava marcado para acontecer a 2ª Conae, um

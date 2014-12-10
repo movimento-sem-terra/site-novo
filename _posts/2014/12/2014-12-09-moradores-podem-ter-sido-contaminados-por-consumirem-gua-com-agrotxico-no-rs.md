@@ -1,24 +1,26 @@
 ---
-date: "2014-12-09T17:02:19-02:00"
+date: '2014-12-09T17:02:19-02:00'
 tags:
-  - tag: contaminação
-  - tag: água
-  - tag: agrotóxico
-  - tag: intoxicação
-title: "Moradores podem ter sido contaminados por consumirem água com agrotóxico, no RS"
-support_line: Dez pessoas foram internadas após ingerirem água de um riacho em Lajeadinho (RS).
+- tag: contaminação
+- tag: "água"
+- tag: agrotóxico
+- tag: intoxicação
+title: Moradores podem ter sido contaminados por consumirem água com agrotóxico, no
+  RS
+support_line: Dez pessoas foram internadas após ingerirem água de um riacho em Lajeadinho
+  (RS).
 menu: agronegócio
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7572/15799691847_a687529052_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7572/15799691847_a687529052_t.jpg"
-    medium: "http://farm8.staticflickr.com/7572/15799691847_a687529052_z.jpg"
-    small: "http://farm8.staticflickr.com/7572/15799691847_a687529052_n.jpg"
-    title: 05_contaminacao.jpg
-    $$hashKey: 03Q
-created_date: "2014-12-09T17:05:26-02:00"
+- link: http://farm8.staticflickr.com/7572/15799691847_a687529052_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7572/15799691847_a687529052_t.jpg
+  medium: http://farm8.staticflickr.com/7572/15799691847_a687529052_z.jpg
+  small: http://farm8.staticflickr.com/7572/15799691847_a687529052_n.jpg
+  title: 05_contaminacao.jpg
+  "$$hashKey": 03Q
+created_date: '2014-12-09T17:05:26-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7572/15799691847_a687529052_n.jpg"
+images_hd: http://farm8.staticflickr.com/7572/15799691847_a687529052_n.jpg
 
 ---
 <p><br />

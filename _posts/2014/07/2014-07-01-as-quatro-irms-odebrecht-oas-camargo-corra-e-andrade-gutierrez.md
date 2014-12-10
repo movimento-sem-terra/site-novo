@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/16255
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/oderecht.jpg
 video: ''
 tags:
-- assuntos: multinacionais
+- tag: multinacionais
 - tag: agronegócio
 type: news
 support_line: Negócios familiares, proximidade com governos, financiamento de campanhas

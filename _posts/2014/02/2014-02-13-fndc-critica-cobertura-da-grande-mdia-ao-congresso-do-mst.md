@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15729
 images: http://www.fndc.org.br/system/images/e2a854282070cb9b294b32262388a671.jpg
 video: ''
 tags:
-- assuntos: 6° congresso nacional
-- congresso: '6'
+- tag: 6° congresso nacional
+- tag: '6'
 - tag: educação, cultura e comunicação
 type: news
 support_line: ''

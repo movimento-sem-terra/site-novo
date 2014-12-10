@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15699
 images: ''
 video: ''
 tags:
-- congresso: '6'
-- assuntos: 6° congresso nacional
+- tag: '6'
+- tag: 6° congresso nacional
 - tag: reforma agrária
 type: news
 support_line: ''

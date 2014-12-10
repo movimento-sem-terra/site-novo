@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15985
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/agrotoxico-morte.jpg
 video: ''
 tags:
-- assuntos: agrotóxicos
+- tag: agrotóxicos
 - tag: agronegócio
 type: news
 support_line: Em dezembro passado, o&nbsp;Ministério Público Federal realizou audiência

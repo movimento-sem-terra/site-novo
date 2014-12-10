@@ -6,7 +6,7 @@ images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/grito
   terra!.jpg
 video: ''
 tags:
-- assuntos: mobilização
+- tag: mobilização
 - tag: lutas e mobilizações
 type: news
 support_line: A Contag, em parceria com as Fetags, realizam manifestações pelo país

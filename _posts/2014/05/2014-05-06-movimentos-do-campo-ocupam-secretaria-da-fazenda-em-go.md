@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/16062
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/mov go22.jpg
 video: ''
 tags:
-- assuntos: jornada de lutas abril 2014
+- tag: jornada de lutas abril 2014
 - tag: lutadores e lutadoras do povo
 type: 
 support_line: A atividade faz parte do Levante Unitário do Campo em Goiás, que tem  objetivo

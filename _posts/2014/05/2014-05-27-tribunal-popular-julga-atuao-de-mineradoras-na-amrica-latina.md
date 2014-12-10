@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/16161
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/mi!!!!.jpg
 video: ''
 tags:
-- assuntos: mineração
+- tag: mineração
 - tag: direitos humanos
 type: news
 support_line: Em Montreal, no Canadá, entre 29 de maio e 1 de junho, haverá, pela

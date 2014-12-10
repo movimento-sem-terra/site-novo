@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16137
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/convite_MST_CE.jpg
 video: ''
 tags:
-- localização: ceará
-- assuntos: mst
+- tag: ceará
+- tag: mst
 - tag: reforma agrária
 type: news
 support_line: Para comemorar a data do surgimento do MST no estado do Ceará, entre

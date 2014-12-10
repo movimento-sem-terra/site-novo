@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16224
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/caravanaanistia1.jpg
 video: ''
 tags:
-- localização: rio grande do sul
-- assuntos: ditadura
+- tag: rio grande do sul
+- tag: ditadura
 - tag: direitos humanos
 type: news
 support_line: 85ª Caravana da Anistia homenageia agricultores da Encruzilhada Natalino,

@@ -1,22 +1,23 @@
 ---
-date: "2014-12-04T11:54:20-02:00"
+date: '2014-12-04T11:54:20-02:00'
 tags:
-  - tag: Índia
-  - tag: Agrotóxicos
-title: "Bhopal, a 30 anos de um crime corporativo impune"
-support_line: "Em 1984, um vazamento de gás na fábrica de pesticidas da Union Carbide na região de Bhopal, na Índia, provocou um dos mais graves desastres humanitários."
+- tag: "Índia"
+- tag: Agrotóxicos
+title: Bhopal, a 30 anos de um crime corporativo impune
+support_line: Em 1984, um vazamento de gás na fábrica de pesticidas da Union Carbide
+  na região de Bhopal, na Índia, provocou um dos mais graves desastres humanitários.
 menu: solidariedade
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8581/15797380969_eebd295fec_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8581/15797380969_eebd295fec_t.jpg"
-    medium: "http://farm9.staticflickr.com/8581/15797380969_eebd295fec_z.jpg"
-    small: "http://farm9.staticflickr.com/8581/15797380969_eebd295fec_n.jpg"
-    title: bihal.jpg
-    $$hashKey: 0QK
-created_date: "2014-12-09T11:57:07-02:00"
+- link: http://farm9.staticflickr.com/8581/15797380969_eebd295fec_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8581/15797380969_eebd295fec_t.jpg
+  medium: http://farm9.staticflickr.com/8581/15797380969_eebd295fec_z.jpg
+  small: http://farm9.staticflickr.com/8581/15797380969_eebd295fec_n.jpg
+  title: bihal.jpg
+  "$$hashKey": 0QK
+created_date: '2014-12-09T11:57:07-02:00'
 published: true
-images_hd: "http://farm9.staticflickr.com/8581/15797380969_eebd295fec_n.jpg"
+images_hd: http://farm9.staticflickr.com/8581/15797380969_eebd295fec_n.jpg
 
 ---
 <p><br />

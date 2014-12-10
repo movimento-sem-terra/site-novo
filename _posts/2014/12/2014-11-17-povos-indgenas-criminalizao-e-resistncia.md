@@ -1,24 +1,25 @@
 ---
-date: "2014-11-17T15:23:35-02:00"
+date: '2014-11-17T15:23:35-02:00'
 tags:
-  - tag: indígenas
-  - tag: resistência
-  - tag: luta
-  - tag: agronegocio
+- tag: indígenas
+- tag: resistência
+- tag: luta
+- tag: agronegocio
 title: Povos Indígenas; criminalização e resistência
-support_line: "Para Egon Heck, do Cimi, o aumento das bancadas ruralista, apontam para um cenário de recrudescimento aos direitos indígenas."
+support_line: Para Egon Heck, do Cimi, o aumento das bancadas ruralista, apontam para
+  um cenário de recrudescimento aos direitos indígenas.
 menu: direitos humanos
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7552/15952674352_f27382fc8f_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7552/15952674352_f27382fc8f_t.jpg"
-    medium: "http://farm8.staticflickr.com/7552/15952674352_f27382fc8f_z.jpg"
-    small: "http://farm8.staticflickr.com/7552/15952674352_f27382fc8f_n.jpg"
-    title: 1390711_785115971561119_587846609058014810_n.jpg
-    $$hashKey: 10B
-created_date: "2014-12-05T15:28:18-02:00"
+- link: http://farm8.staticflickr.com/7552/15952674352_f27382fc8f_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7552/15952674352_f27382fc8f_t.jpg
+  medium: http://farm8.staticflickr.com/7552/15952674352_f27382fc8f_z.jpg
+  small: http://farm8.staticflickr.com/7552/15952674352_f27382fc8f_n.jpg
+  title: 1390711_785115971561119_587846609058014810_n.jpg
+  "$$hashKey": 10B
+created_date: '2014-12-05T15:28:18-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7552/15952674352_f27382fc8f_n.jpg"
+images_hd: http://farm8.staticflickr.com/7552/15952674352_f27382fc8f_n.jpg
 
 ---
 <p><em>Por Egon Heck*<br />

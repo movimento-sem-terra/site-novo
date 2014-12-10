@@ -1,22 +1,23 @@
 ---
-date: "2014-11-27T15:20:50-02:00"
+date: '2014-11-27T15:20:50-02:00'
 tags:
-  - tag: Alagoas
-  - tag: Reforma-Agrária
+- tag: Alagoas
+- tag: Reforma-Agrária
 title: Mais de 1.200 Sem Terra chegam a Maceió para cobrar Reforma Agrária
-support_line: "Nesta quinta, os Sem Terra ocuparam a agência do Banco do Brasil. Na quarta, o Movimento também ocupou o Cartório da cidade de Teotônio Vilela."
+support_line: Nesta quinta, os Sem Terra ocuparam a agência do Banco do Brasil. Na
+  quarta, o Movimento também ocupou o Cartório da cidade de Teotônio Vilela.
 menu: lutas e mobilizações
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8580/15789643408_10be3d7735_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8580/15789643408_10be3d7735_t.jpg"
-    medium: "http://farm9.staticflickr.com/8580/15789643408_10be3d7735_z.jpg"
-    small: "http://farm9.staticflickr.com/8580/15789643408_10be3d7735_n.jpg"
-    title: soriano_2.jpg
-    $$hashKey: 0EP
-created_date: "2014-12-08T15:25:50-02:00"
+- link: http://farm9.staticflickr.com/8580/15789643408_10be3d7735_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8580/15789643408_10be3d7735_t.jpg
+  medium: http://farm9.staticflickr.com/8580/15789643408_10be3d7735_z.jpg
+  small: http://farm9.staticflickr.com/8580/15789643408_10be3d7735_n.jpg
+  title: soriano_2.jpg
+  "$$hashKey": 0EP
+created_date: '2014-12-08T15:25:50-02:00'
 published: true
-images_hd: "http://farm9.staticflickr.com/8580/15789643408_10be3d7735_n.jpg"
+images_hd: http://farm9.staticflickr.com/8580/15789643408_10be3d7735_n.jpg
 
 ---
 <div id="content-header">

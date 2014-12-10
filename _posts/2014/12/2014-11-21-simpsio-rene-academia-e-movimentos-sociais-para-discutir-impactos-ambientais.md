@@ -1,20 +1,22 @@
 ---
-date: "2014-10-21T14:18:39-02:00"
+date: '2014-10-21T14:18:39-02:00'
 tags:
-  - tag: Meio-Ambiente
+- tag: Meio-Ambiente
 title: Simpósio reúne academia e movimentos Sociais para discutir impactos ambientais
-support_line: "Evento discute como diversos retrocessos ocorridos na área ambiental tem impactado negativamente a vida e a saúde da população brasileira, além de formas de combater esse processo."
+support_line: Evento discute como diversos retrocessos ocorridos na área ambiental
+  tem impactado negativamente a vida e a saúde da população brasileira, além de formas
+  de combater esse processo.
 menu: meio ambiente
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7490/15760418807_0488b4d76a_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7490/15760418807_0488b4d76a_t.jpg"
-    medium: "http://farm8.staticflickr.com/7490/15760418807_0488b4d76a_z.jpg"
-    small: "http://farm8.staticflickr.com/7490/15760418807_0488b4d76a_n.jpg"
-    title: simposio.jpg
-    $$hashKey: "489"
+- link: http://farm8.staticflickr.com/7490/15760418807_0488b4d76a_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7490/15760418807_0488b4d76a_t.jpg
+  medium: http://farm8.staticflickr.com/7490/15760418807_0488b4d76a_z.jpg
+  small: http://farm8.staticflickr.com/7490/15760418807_0488b4d76a_n.jpg
+  title: simposio.jpg
+  "$$hashKey": '489'
 published: true
-images_hd: "http://farm8.staticflickr.com/7490/15760418807_0488b4d76a_n.jpg"
+images_hd: http://farm8.staticflickr.com/7490/15760418807_0488b4d76a_n.jpg
 
 ---
 <div id="content-header">

@@ -1,49 +1,50 @@
 ---
-date: "2014-11-19T16:14:08-02:00"
+date: '2014-11-19T16:14:08-02:00'
 tags:
-  - tag: Reforma-Agrária
-  - tag: Congresso-conservador
-  - tag: Reforma-Política
-  - tag: Democratização-da-comunicação
+- tag: Reforma-Agrária
+- tag: Congresso-conservador
+- tag: Reforma-Política
+- tag: Democratização-da-comunicação
 title: Parlamentares se reúnem com MST para enfrentar Congresso conservador
 hat: Luta
 menu: projeto popular
-support_line: "Deputados se comprometeram com a defesa das reformas agrária, política e tributária e democratização da comunicação."
+support_line: Deputados se comprometeram com a defesa das reformas agrária, política
+  e tributária e democratização da comunicação.
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7496/15952948412_dc3818aa0c_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7496/15952948412_dc3818aa0c_t.jpg"
-    medium: "http://farm8.staticflickr.com/7496/15952948412_dc3818aa0c_z.jpg"
-    small: "http://farm8.staticflickr.com/7496/15952948412_dc3818aa0c_n.jpg"
-    title: parlamentares3.jpg
-    $$hashKey: 3E7
-  - link: "http://farm8.staticflickr.com/7462/15766201688_465641308e_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7462/15766201688_465641308e_t.jpg"
-    medium: "http://farm8.staticflickr.com/7462/15766201688_465641308e_z.jpg"
-    small: "http://farm8.staticflickr.com/7462/15766201688_465641308e_n.jpg"
-    title: parlamentares.jpg
-    $$hashKey: 3EA
-  - link: "http://farm8.staticflickr.com/7480/15767584739_3cd4237858_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7480/15767584739_3cd4237858_t.jpg"
-    medium: "http://farm8.staticflickr.com/7480/15767584739_3cd4237858_z.jpg"
-    small: "http://farm8.staticflickr.com/7480/15767584739_3cd4237858_n.jpg"
-    title: parlamentares2.jpg
-    $$hashKey: 3ED
-  - link: "http://farm8.staticflickr.com/7481/15953608215_85aab78546_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7481/15953608215_85aab78546_t.jpg"
-    medium: "http://farm8.staticflickr.com/7481/15953608215_85aab78546_z.jpg"
-    small: "http://farm8.staticflickr.com/7481/15953608215_85aab78546_n.jpg"
-    title: paulo_teixeira.jpg
-    $$hashKey: 3EG
-  - link: "http://farm8.staticflickr.com/7560/15952954782_db43ba4f86_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7560/15952954782_db43ba4f86_t.jpg"
-    medium: "http://farm8.staticflickr.com/7560/15952954782_db43ba4f86_z.jpg"
-    small: "http://farm8.staticflickr.com/7560/15952954782_db43ba4f86_n.jpg"
-    title: ivan_valente.jpg
-    $$hashKey: 3EJ
-created_date: "2014-12-05T16:20:22-02:00"
+- link: http://farm8.staticflickr.com/7496/15952948412_dc3818aa0c_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7496/15952948412_dc3818aa0c_t.jpg
+  medium: http://farm8.staticflickr.com/7496/15952948412_dc3818aa0c_z.jpg
+  small: http://farm8.staticflickr.com/7496/15952948412_dc3818aa0c_n.jpg
+  title: parlamentares3.jpg
+  "$$hashKey": 3E7
+- link: http://farm8.staticflickr.com/7462/15766201688_465641308e_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7462/15766201688_465641308e_t.jpg
+  medium: http://farm8.staticflickr.com/7462/15766201688_465641308e_z.jpg
+  small: http://farm8.staticflickr.com/7462/15766201688_465641308e_n.jpg
+  title: parlamentares.jpg
+  "$$hashKey": 3EA
+- link: http://farm8.staticflickr.com/7480/15767584739_3cd4237858_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7480/15767584739_3cd4237858_t.jpg
+  medium: http://farm8.staticflickr.com/7480/15767584739_3cd4237858_z.jpg
+  small: http://farm8.staticflickr.com/7480/15767584739_3cd4237858_n.jpg
+  title: parlamentares2.jpg
+  "$$hashKey": 3ED
+- link: http://farm8.staticflickr.com/7481/15953608215_85aab78546_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7481/15953608215_85aab78546_t.jpg
+  medium: http://farm8.staticflickr.com/7481/15953608215_85aab78546_z.jpg
+  small: http://farm8.staticflickr.com/7481/15953608215_85aab78546_n.jpg
+  title: paulo_teixeira.jpg
+  "$$hashKey": 3EG
+- link: http://farm8.staticflickr.com/7560/15952954782_db43ba4f86_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7560/15952954782_db43ba4f86_t.jpg
+  medium: http://farm8.staticflickr.com/7560/15952954782_db43ba4f86_z.jpg
+  small: http://farm8.staticflickr.com/7560/15952954782_db43ba4f86_n.jpg
+  title: ivan_valente.jpg
+  "$$hashKey": 3EJ
+created_date: '2014-12-05T16:20:22-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7462/15766201688_465641308e_n.jpg"
+images_hd: http://farm8.staticflickr.com/7462/15766201688_465641308e_n.jpg
 
 ---
 <p><img alt="parlamentares2.jpg" src="http://farm8.staticflickr.com/7480/15767584739_3cd4237858_b.jpg" /></p>

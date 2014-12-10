@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15974
 images: ''
 video: WYUn7Q5cpJ8
 tags:
-- destaque: manchete
-- assuntos: cultura
+- tag: manchete
+- tag: cultura
 - tag: educação, cultura e comunicação
 type: video
 support_line: O filme será lançado na próxima quarta-feira (16), às 20h, no Teatro

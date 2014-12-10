@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15738
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/perigo-agrotoxico.jpg
 video: ''
 tags:
-- localização: mato grosso
-- assuntos: agronegócio
+- tag: mato grosso
+- tag: agronegócio
 - tag: agronegócio
 type: news
 support_line: Lucas do Rio Verde (MT), integra uma das cidades que mais contaminam

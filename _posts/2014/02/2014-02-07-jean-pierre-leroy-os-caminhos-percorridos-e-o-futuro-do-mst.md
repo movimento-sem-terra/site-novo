@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15688
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/leroy.jpg
 video: ''
 tags:
-- congresso: '6'
-- assuntos: 6° congresso nacional
+- tag: '6'
+- tag: 6° congresso nacional
 - tag: reforma agrária
 type: news
 support_line: A conjuntura atual, em que o domínio do grande capital produtivo e  financeiro,

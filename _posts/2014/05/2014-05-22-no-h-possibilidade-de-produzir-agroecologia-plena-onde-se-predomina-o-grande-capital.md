@@ -6,9 +6,9 @@ legacy_url: http://www.mst.org.br/node/16140
 images: ''
 video: ''
 tags:
-- tipo de matéria: entrevistas
-- destaque: manchete
-- assuntos: agroecologia
+- tag: entrevistas
+- tag: manchete
+- tag: agroecologia
 - tag: agricultura camponesa
 type: news
 support_line: Para Chicão, coordenador do Setor de Produção do MST, o "agronegócio

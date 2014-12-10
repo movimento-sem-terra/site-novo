@@ -6,7 +6,7 @@ images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/elisa
   abre.jpg
 video: ''
 tags:
-- semana: tema da semana
+- tag: tema da semana
 - tag: lutadores e lutadoras do povo
 type: 
 support_line: '"Tive que fugir para o Rio Grande do Norte, onde ninguém me conhecia

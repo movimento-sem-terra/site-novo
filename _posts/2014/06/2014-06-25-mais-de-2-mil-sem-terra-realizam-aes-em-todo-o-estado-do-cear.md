@@ -5,9 +5,9 @@ legacy_url: http://www.mst.org.br/node/16239
 images: ''
 video: ''
 tags:
-- destaque: manchete
-- localização: ceará
-- assuntos: mobilização
+- tag: manchete
+- tag: ceará
+- tag: mobilização
 - tag: lutas e mobilizações
 type: news
 support_line: Os integrantes do MST cobram do governo do estado ações imediatas no

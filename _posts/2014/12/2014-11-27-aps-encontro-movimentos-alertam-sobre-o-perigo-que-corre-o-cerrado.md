@@ -1,22 +1,23 @@
 ---
-date: "2014-11-27T15:18:38-02:00"
+date: '2014-11-27T15:18:38-02:00'
 tags:
-  - tag: Cerrado
-  - tag: Meio-Ambiente
-title: "Após encontro, movimentos alertam sobre o perigo que corre o Cerrado"
-support_line: "\"Preocupam-nos muito o atual modelo agrícola praticado e o avanço das suas fronteiras, principalmente as commodities e a mineração sobre o Cerrado\"."
+- tag: Cerrado
+- tag: Meio-Ambiente
+title: Após encontro, movimentos alertam sobre o perigo que corre o Cerrado
+support_line: '"Preocupam-nos muito o atual modelo agrícola praticado e o avanço das
+  suas fronteiras, principalmente as commodities e a mineração sobre o Cerrado".'
 menu: agronegócio
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7533/15789699450_51a997d611_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7533/15789699450_51a997d611_t.jpg"
-    medium: "http://farm8.staticflickr.com/7533/15789699450_51a997d611_z.jpg"
-    small: "http://farm8.staticflickr.com/7533/15789699450_51a997d611_n.jpg"
-    title: cerrado.JPG
-    $$hashKey: 07J
-created_date: "2014-12-08T15:20:38-02:00"
+- link: http://farm8.staticflickr.com/7533/15789699450_51a997d611_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7533/15789699450_51a997d611_t.jpg
+  medium: http://farm8.staticflickr.com/7533/15789699450_51a997d611_z.jpg
+  small: http://farm8.staticflickr.com/7533/15789699450_51a997d611_n.jpg
+  title: cerrado.JPG
+  "$$hashKey": 07J
+created_date: '2014-12-08T15:20:38-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7533/15789699450_51a997d611_n.jpg"
+images_hd: http://farm8.staticflickr.com/7533/15789699450_51a997d611_n.jpg
 
 ---
 <div id="content-header">

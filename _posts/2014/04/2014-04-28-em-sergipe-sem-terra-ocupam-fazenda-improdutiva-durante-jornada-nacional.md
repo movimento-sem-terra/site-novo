@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16018
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/elemar.jpg
 video: ''
 tags:
-- localização: sergipe
-- assuntos: jornada de lutas abril 2014
+- tag: sergipe
+- tag: jornada de lutas abril 2014
 - tag: lutas e mobilizações
 type: news
 support_line: Cerca de 90 famílias ocuparam a Fazenda São Raimundo, no Povoado Rio

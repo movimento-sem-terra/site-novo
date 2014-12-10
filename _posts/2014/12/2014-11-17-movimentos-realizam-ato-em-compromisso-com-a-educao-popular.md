@@ -1,22 +1,23 @@
 ---
-date: "2014-10-17T10:16:54-03:00"
+date: '2014-10-17T10:16:54-03:00'
 tags:
-  - tag: Alagoas
-  - tag: Educação
-hat: ""
+- tag: Alagoas
+- tag: Educação
+hat: ''
 title: Movimentos realizam ato em compromisso com a educação popular
-support_line: "O Sindicato dos Trabalhadores da Educação de Alagoas e o MST realizam, em Maceió, o ato em defesa da Educação de Jovens e Adultos e da Educação Popular."
-menu: "educação, cultura e comunicação"
+support_line: O Sindicato dos Trabalhadores da Educação de Alagoas e o MST realizam,
+  em Maceió, o ato em defesa da Educação de Jovens e Adultos e da Educação Popular.
+menu: educação, cultura e comunicação
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7529/15918972436_c717655beb_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7529/15918972436_c717655beb_t.jpg"
-    medium: "http://farm8.staticflickr.com/7529/15918972436_c717655beb_z.jpg"
-    small: "http://farm8.staticflickr.com/7529/15918972436_c717655beb_n.jpg"
-    title: que brasil queremos.jpg
-    $$hashKey: 07B
+- link: http://farm8.staticflickr.com/7529/15918972436_c717655beb_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7529/15918972436_c717655beb_t.jpg
+  medium: http://farm8.staticflickr.com/7529/15918972436_c717655beb_z.jpg
+  small: http://farm8.staticflickr.com/7529/15918972436_c717655beb_n.jpg
+  title: que brasil queremos.jpg
+  "$$hashKey": 07B
 published: true
-images_hd: "http://farm8.staticflickr.com/7529/15918972436_c717655beb_n.jpg"
+images_hd: http://farm8.staticflickr.com/7529/15918972436_c717655beb_n.jpg
 
 ---
 <div id="content-header">

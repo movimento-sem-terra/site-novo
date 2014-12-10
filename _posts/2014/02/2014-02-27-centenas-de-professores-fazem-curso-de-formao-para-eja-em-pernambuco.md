@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15780
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/EJA_PE.jpg
 video: ''
 tags:
-- localização: pernambuco
-- assuntos: educação
+- tag: pernambuco
+- tag: educação
 - tag: educação, cultura e comunicação
 type: news
 support_line: 150 professores das escolas do campo realizaram um curso de formação

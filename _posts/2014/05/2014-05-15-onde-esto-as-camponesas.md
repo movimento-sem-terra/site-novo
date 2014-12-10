@@ -6,7 +6,7 @@ images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/mulhe
   camponesas!.jpg
 video: ''
 tags:
-- assuntos: agricultura camponesa
+- tag: agricultura camponesa
 - tag: agricultura camponesa
 type: news
 support_line: '"O pape da mulher camponesa sempre foi chave no campo. Mulheres que

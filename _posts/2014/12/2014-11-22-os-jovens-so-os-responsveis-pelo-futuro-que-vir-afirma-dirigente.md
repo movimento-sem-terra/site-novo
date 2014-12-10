@@ -1,22 +1,24 @@
 ---
-date: "2014-11-22T15:36:42-02:00"
+date: '2014-11-22T15:36:42-02:00'
 tags:
-  - tag: MNCI
-  - tag: Via-Campesina
-  - tag: Acampamento-Latino-Americano
-title: "\"Os jovens são os responsáveis pelo futuro que virá\", afirma dirigente"
-support_line: "A juventude argentina mostrou sua força e sua luta no 14º Acampamento Latino-Americano CLOC-Via Campesina. Entre os representantes dos movimentos presentes, conversamos com Gonzalo Galvan, dirigente do MNCI."
+- tag: MNCI
+- tag: Via-Campesina
+- tag: Acampamento-Latino-Americano
+title: '"Os jovens são os responsáveis pelo futuro que virá", afirma dirigente'
+support_line: A juventude argentina mostrou sua força e sua luta no 14º Acampamento
+  Latino-Americano CLOC-Via Campesina. Entre os representantes dos movimentos presentes,
+  conversamos com Gonzalo Galvan, dirigente do MNCI.
 menu: lutas e mobilizações
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7493/15759314980_07d1aca9c0_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7493/15759314980_07d1aca9c0_t.jpg"
-    medium: "http://farm8.staticflickr.com/7493/15759314980_07d1aca9c0_z.jpg"
-    small: "http://farm8.staticflickr.com/7493/15759314980_07d1aca9c0_n.jpg"
-    title: safe_image.php.jpg
-    $$hashKey: 0SS
+- link: http://farm8.staticflickr.com/7493/15759314980_07d1aca9c0_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7493/15759314980_07d1aca9c0_t.jpg
+  medium: http://farm8.staticflickr.com/7493/15759314980_07d1aca9c0_z.jpg
+  small: http://farm8.staticflickr.com/7493/15759314980_07d1aca9c0_n.jpg
+  title: safe_image.php.jpg
+  "$$hashKey": 0SS
 published: true
-images_hd: "http://farm8.staticflickr.com/7493/15759314980_07d1aca9c0_n.jpg"
+images_hd: http://farm8.staticflickr.com/7493/15759314980_07d1aca9c0_n.jpg
 
 ---
 <p>Por Comunica&ccedil;&atilde;o Via Campesina&nbsp;</p>

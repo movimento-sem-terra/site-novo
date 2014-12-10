@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/16170
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/mon!.jpg
 video: ''
 tags:
-- assuntos: agronegócio
+- tag: agronegócio
 - tag: agronegócio
 type: news
 support_line: A história da Monsanto “é a história da sacarina e o aspartame, do PBC,

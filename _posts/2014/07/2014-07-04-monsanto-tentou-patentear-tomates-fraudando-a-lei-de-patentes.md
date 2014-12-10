@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/16266
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/tomates.jpg
 video: ''
 tags:
-- assuntos: monsanto
+- tag: monsanto
 - tag: agronegócio
 type: 
 support_line: O tomate não é modificado geneticamente, mas a Monsanto tentou manipular

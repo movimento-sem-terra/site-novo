@@ -5,9 +5,9 @@ legacy_url: http://www.mst.org.br/node/16242
 images: http://www.mst.org.br/sites/default/files/GEDC0140.JPG
 video: ''
 tags:
-- destaque: manchete
-- localização: sergipe
-- assuntos: democratização da comunicação
+- tag: manchete
+- tag: sergipe
+- tag: democratização da comunicação
 - tag: lutas e mobilizações
 type: news
 support_line: Os trabalhadores rurais denunciaram a forma difamatória com  a qual

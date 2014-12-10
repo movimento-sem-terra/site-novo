@@ -6,8 +6,8 @@ images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/mst 3
   anos - revivendo a historia.jpg
 video: ''
 tags:
-- localização: santa catarina
-- assuntos: mst 30 anos
+- tag: santa catarina
+- tag: mst 30 anos
 - tag: educação, cultura e comunicação
 type: news
 support_line: A intenção é que crianças, jovens e adultos conhecessem mais sobre a

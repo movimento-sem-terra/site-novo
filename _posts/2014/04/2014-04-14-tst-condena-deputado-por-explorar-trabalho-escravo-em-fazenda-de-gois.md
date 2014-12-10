@@ -6,7 +6,7 @@ images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/José
   Gomes Mansur.jpg
 video: ''
 tags:
-- assuntos: direitos humanos
+- tag: direitos humanos
 - tag: direitos humanos
 type: news
 support_line: José Roberto Gomes Mansur (PRB-SP) foi condenado por promover trabalho

@@ -6,7 +6,7 @@ images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/justi
   social!.jpg
 video: ''
 tags:
-- assuntos: reforma agrária
+- tag: reforma agrária
 - tag: reforma agrária
 type: news
 support_line: O Plenário do STF considerou que a Fazenda Antas de interesse social

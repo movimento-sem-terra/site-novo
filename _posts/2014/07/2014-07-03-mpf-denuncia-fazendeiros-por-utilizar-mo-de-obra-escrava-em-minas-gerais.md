@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16261
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/carvoariaII.jpg
 video: ''
 tags:
-- localização: minas gerais
-- assuntos: trabalho escravo
+- tag: minas gerais
+- tag: trabalho escravo
 - tag: direitos humanos
 type: news
 support_line: Uma &nbsp;equipe formada por auditores do Ministério do Trabalho e Emprego

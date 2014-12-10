@@ -6,9 +6,9 @@ images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/Sem t
   mec22.jpg
 video: ''
 tags:
-- destaque: manchete
-- congresso: '6'
-- assuntos: 6° congresso nacional
+- tag: manchete
+- tag: '6'
+- tag: 6° congresso nacional
 - tag: lutas e mobilizações
 type: news
 support_line: Ação faz parte do VI Congresso do MST e denuncia precarização da educação

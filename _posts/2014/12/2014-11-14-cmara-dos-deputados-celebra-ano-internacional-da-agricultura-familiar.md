@@ -1,24 +1,26 @@
 ---
-date: "2014-11-14T14:04:28-02:00"
+date: '2014-11-14T14:04:28-02:00'
 tags:
-  - tag: Agricultura-familiar
-  - tag: Distrito-Federal
-  - tag: homenagem
+- tag: Agricultura-familiar
+- tag: Distrito-Federal
+- tag: homenagem
 title: Câmara dos Deputados celebra Ano Internacional da Agricultura Familiar
 hat: Distrito Federal
-support_line: "A Câmara dos Deputados promoverá uma série de eventos especiais que reconhecem à importância dessa atividade nas áreas de produção sustentável de alimentos, segurança alimentar e a erradicação da pobreza."
+support_line: A Câmara dos Deputados promoverá uma série de eventos especiais que
+  reconhecem à importância dessa atividade nas áreas de produção sustentável de alimentos,
+  segurança alimentar e a erradicação da pobreza.
 menu: agricultura camponesa
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8598/15330617044_2e81db6a9e_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8598/15330617044_2e81db6a9e_t.jpg"
-    medium: "http://farm9.staticflickr.com/8598/15330617044_2e81db6a9e_z.jpg"
-    small: "http://farm9.staticflickr.com/8598/15330617044_2e81db6a9e_n.jpg"
-    title: ano internacional  da agricultura familiar.JPG
-    $$hashKey: 1HW
-created_date: "2014-12-05T14:07:26-02:00"
+- link: http://farm9.staticflickr.com/8598/15330617044_2e81db6a9e_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8598/15330617044_2e81db6a9e_t.jpg
+  medium: http://farm9.staticflickr.com/8598/15330617044_2e81db6a9e_z.jpg
+  small: http://farm9.staticflickr.com/8598/15330617044_2e81db6a9e_n.jpg
+  title: ano internacional  da agricultura familiar.JPG
+  "$$hashKey": 1HW
+created_date: '2014-12-05T14:07:26-02:00'
 published: true
-images_hd: "http://farm9.staticflickr.com/8598/15330617044_2e81db6a9e_n.jpg"
+images_hd: http://farm9.staticflickr.com/8598/15330617044_2e81db6a9e_n.jpg
 
 ---
 <p><em>Da P&aacute;gina do MST</em></p>

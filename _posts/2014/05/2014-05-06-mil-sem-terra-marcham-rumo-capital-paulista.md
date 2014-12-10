@@ -5,9 +5,9 @@ legacy_url: http://www.mst.org.br/node/16065
 images: http://www.mst.org.br/sites/default/files/marcha.png
 video: ''
 tags:
-- destaque: manchete
-- localização: são paulo
-- assuntos: jornada de lutas abril 2014
+- tag: manchete
+- tag: são paulo
+- tag: jornada de lutas abril 2014
 - tag: lutas e mobilizações
 type: news
 support_line: Em São Paulo, ainda existem cerca de 4 mil famílias acampadas na luta

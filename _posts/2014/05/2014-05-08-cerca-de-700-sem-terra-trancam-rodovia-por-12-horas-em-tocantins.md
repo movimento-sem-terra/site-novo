@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16075
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/TO!.png
 video: ''
 tags:
-- localização: tocantins
-- assuntos: jornada de lutas abril 2014
+- tag: tocantins
+- tag: jornada de lutas abril 2014
 - tag: lutas e mobilizações
 type: news
 support_line: Os Trabalhadores Rurais Sem Terra trancaram a BR-153, entre as cidades

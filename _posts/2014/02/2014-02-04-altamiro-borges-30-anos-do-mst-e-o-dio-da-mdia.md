@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15667
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/criminalization_of_the_mst_1_by_latuff2!.jpg
 video: ''
 tags:
-- assuntos: mst
-- semana: tema da semana
+- tag: mst
+- tag: tema da semana
 - tag: reforma agrária
 type: news
 support_line: Na semana passada, o MST completou 30 anos. Alguns jornais, como o Estadão,

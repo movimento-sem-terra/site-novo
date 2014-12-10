@@ -6,8 +6,8 @@ images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/justi
   social!.jpg
 video: ''
 tags:
-- localização: goiás
-- assuntos: ocupação
+- tag: goiás
+- tag: ocupação
 - tag: lutas e mobilizações
 type: news
 support_line: Mais de 200 famílias ocuparam uma área da Usina Santa Elena, no  município

@@ -5,9 +5,9 @@ legacy_url: http://www.mst.org.br/node/15962
 images: ''
 video: ''
 tags:
-- destaque: manchete
-- localização: pará
-- assuntos: jornada de lutas abril 2014
+- tag: manchete
+- tag: pará
+- tag: jornada de lutas abril 2014
 - tag: lutas e mobilizações
 type: news
 support_line: O MST realiza entre os dias 10 a 17 de abril, o Acampamento Pedagógico

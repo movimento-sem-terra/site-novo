@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/16144
 images: http://farm3.staticflickr.com/2900/14494694918_7d235c47c2_b.jpg
 video: ''
 tags:
-- tipo de matéria: artigos
+- tag: artigos
 - tag: agronegócio
 type: 
 support_line: 'As últimas notícias alertam o que os movimentos já diziam: os transgênicos

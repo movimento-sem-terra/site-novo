@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/16230
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/não.jpg
 video: ''
 tags:
-- assuntos: agronegócio
+- tag: agronegócio
 - tag: transgênicos
 type: news
 support_line: Em carta destinada à Presidência da República, membros do Consea reafirmam

@@ -1,24 +1,25 @@
 ---
-date: "2014-12-01T11:38:18-02:00"
+date: '2014-12-01T11:38:18-02:00'
 tags:
-  - tag: Reforma-Agrária
-  - tag: MST
-  - tag: assentamento
-  - tag: governo
-title: "Para dirigente do MST, pauta mínima será o assentamento de 120 mil famílias"
-support_line: "O Movimento exige que, até julho do próximo ano, a presidente zere a demanda imediata de assentar 120 mil famílias."
+- tag: Reforma-Agrária
+- tag: MST
+- tag: assentamento
+- tag: governo
+title: Para dirigente do MST, pauta mínima será o assentamento de 120 mil famílias
+support_line: O Movimento exige que, até julho do próximo ano, a presidente zere a
+  demanda imediata de assentar 120 mil famílias.
 menu: reforma agrária
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7547/15329829974_ceafb77cf0_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7547/15329829974_ceafb77cf0_t.jpg"
-    medium: "http://farm8.staticflickr.com/7547/15329829974_ceafb77cf0_z.jpg"
-    small: "http://farm8.staticflickr.com/7547/15329829974_ceafb77cf0_n.jpg"
-    title: alexandre.jpg
-    $$hashKey: 16H
-created_date: "2014-12-05T11:43:02-02:00"
+- link: http://farm8.staticflickr.com/7547/15329829974_ceafb77cf0_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7547/15329829974_ceafb77cf0_t.jpg
+  medium: http://farm8.staticflickr.com/7547/15329829974_ceafb77cf0_z.jpg
+  small: http://farm8.staticflickr.com/7547/15329829974_ceafb77cf0_n.jpg
+  title: alexandre.jpg
+  "$$hashKey": 16H
+created_date: '2014-12-05T11:43:02-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7547/15329829974_ceafb77cf0_n.jpg"
+images_hd: http://farm8.staticflickr.com/7547/15329829974_ceafb77cf0_n.jpg
 
 ---
 <p><img alt="alexandre.jpg" src="http://farm8.staticflickr.com/7547/15329829974_ceafb77cf0_b.jpg" /></p>

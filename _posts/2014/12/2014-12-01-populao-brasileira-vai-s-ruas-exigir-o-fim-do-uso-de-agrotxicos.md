@@ -1,24 +1,25 @@
 ---
-date: "2014-12-01T11:43:06-02:00"
+date: '2014-12-01T11:43:06-02:00'
 tags:
-  - tag: agrotóxicos
-  - tag: agroecologia
-  - tag: agricultura-familiar
-  - tag: venenos
+- tag: agrotóxicos
+- tag: agroecologia
+- tag: agricultura-familiar
+- tag: venenos
 title: População brasileira vai às ruas exigir o fim do uso de agrotóxicos
-support_line: O dia três de dezembro é considerado internacionalmente como Dia de Luta contra os Agrotóxicos.
+support_line: O dia três de dezembro é considerado internacionalmente como Dia de
+  Luta contra os Agrotóxicos.
 menu: agronegócio
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7543/15764896540_9bb12676a6_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7543/15764896540_9bb12676a6_t.jpg"
-    medium: "http://farm8.staticflickr.com/7543/15764896540_9bb12676a6_z.jpg"
-    small: "http://farm8.staticflickr.com/7543/15764896540_9bb12676a6_n.jpg"
-    title: nh.jpg
-    $$hashKey: 1JK
-created_date: "2014-12-05T11:47:46-02:00"
+- link: http://farm8.staticflickr.com/7543/15764896540_9bb12676a6_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7543/15764896540_9bb12676a6_t.jpg
+  medium: http://farm8.staticflickr.com/7543/15764896540_9bb12676a6_z.jpg
+  small: http://farm8.staticflickr.com/7543/15764896540_9bb12676a6_n.jpg
+  title: nh.jpg
+  "$$hashKey": 1JK
+created_date: '2014-12-05T11:47:46-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7543/15764896540_9bb12676a6_n.jpg"
+images_hd: http://farm8.staticflickr.com/7543/15764896540_9bb12676a6_n.jpg
 
 ---
 <p><em>Da Campanha Contra os Agrot&oacute;xicos</em></p>

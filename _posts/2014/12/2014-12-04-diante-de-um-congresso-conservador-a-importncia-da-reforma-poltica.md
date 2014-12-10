@@ -1,21 +1,22 @@
 ---
-date: "2014-11-21T11:59:35-02:00"
+date: '2014-11-21T11:59:35-02:00'
 tags:
-  - tag: Constituinte
-  - tag: Reforma-Política
-title: "Diante de um Congresso conservador, a importância da reforma política"
+- tag: Constituinte
+- tag: Reforma-Política
+title: Diante de um Congresso conservador, a importância da reforma política
 menu: projeto popular
-support_line: A falta de reforma e de alternativas à esquerda do PT são apontadas como principais responsáveis pela guinada conservadora do Congresso.
+support_line: A falta de reforma e de alternativas à esquerda do PT são apontadas
+  como principais responsáveis pela guinada conservadora do Congresso.
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7558/15943346831_44a920028e_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7558/15943346831_44a920028e_t.jpg"
-    medium: "http://farm8.staticflickr.com/7558/15943346831_44a920028e_z.jpg"
-    small: "http://farm8.staticflickr.com/7558/15943346831_44a920028e_n.jpg"
-    title: congresso.manifestação.Wilson-Dias_Abr.jpg
-    $$hashKey: 3MS
+- link: http://farm8.staticflickr.com/7558/15943346831_44a920028e_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7558/15943346831_44a920028e_t.jpg
+  medium: http://farm8.staticflickr.com/7558/15943346831_44a920028e_z.jpg
+  small: http://farm8.staticflickr.com/7558/15943346831_44a920028e_n.jpg
+  title: congresso.manifestação.Wilson-Dias_Abr.jpg
+  "$$hashKey": 3MS
 published: true
-images_hd: "http://farm8.staticflickr.com/7558/15943346831_44a920028e_n.jpg"
+images_hd: http://farm8.staticflickr.com/7558/15943346831_44a920028e_n.jpg
 
 ---
 <div id="content-header">

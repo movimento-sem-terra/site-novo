@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/16149
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/camponeis!.jpg
 video: ''
 tags:
-- assuntos: agricultura
+- tag: agricultura
 - tag: agricultura camponesa
 type: news
 support_line: Para a jornalista Esther Vivas, ativista social e política, “a agricultura

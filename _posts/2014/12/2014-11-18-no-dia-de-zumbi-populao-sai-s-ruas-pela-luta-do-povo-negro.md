@@ -1,22 +1,23 @@
 ---
-date: "2014-11-18T14:30:10-02:00"
+date: '2014-11-18T14:30:10-02:00'
 tags:
-  - tag: Consciência-Negra
-  - tag: Mobilizações
-title: "No dia de Zumbi, população sai às ruas pela luta do povo negro"
+- tag: Consciência-Negra
+- tag: Mobilizações
+title: No dia de Zumbi, população sai às ruas pela luta do povo negro
 menu: lutas e mobilizações
-support_line: "126 anos da abolição, negros e negras brasileiros ainda enfrentam obstáculos para conquistar igualdade."
+support_line: 126 anos da abolição, negros e negras brasileiros ainda enfrentam obstáculos
+  para conquistar igualdade.
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7567/15767298077_f5210ed58b_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7567/15767298077_f5210ed58b_t.jpg"
-    medium: "http://farm8.staticflickr.com/7567/15767298077_f5210ed58b_z.jpg"
-    small: "http://farm8.staticflickr.com/7567/15767298077_f5210ed58b_n.jpg"
-    title: marcha_consciencianegra.jpg
-    $$hashKey: 0OV
-created_date: "2014-12-05T14:31:49-02:00"
+- link: http://farm8.staticflickr.com/7567/15767298077_f5210ed58b_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7567/15767298077_f5210ed58b_t.jpg
+  medium: http://farm8.staticflickr.com/7567/15767298077_f5210ed58b_z.jpg
+  small: http://farm8.staticflickr.com/7567/15767298077_f5210ed58b_n.jpg
+  title: marcha_consciencianegra.jpg
+  "$$hashKey": 0OV
+created_date: '2014-12-05T14:31:49-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7567/15767298077_f5210ed58b_n.jpg"
+images_hd: http://farm8.staticflickr.com/7567/15767298077_f5210ed58b_n.jpg
 
 ---
 <p><img alt="marcha_consciencianegra.jpg" src="http://farm8.staticflickr.com/7567/15767298077_f5210ed58b_b.jpg" /></p>

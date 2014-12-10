@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15924
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/ditadura_indigenas.jpg
 video: ''
 tags:
-- assuntos: indígenas
+- tag: indígenas
 - tag: direitos humanos
 type: news
 support_line: violência contra os povos indígenas durante a Ditadura merece uma investigação

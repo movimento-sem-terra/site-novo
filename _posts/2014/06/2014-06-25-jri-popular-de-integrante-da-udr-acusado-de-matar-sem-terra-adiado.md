@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16241
 images: ''
 video: ''
 tags:
-- localização: paraná
-- assuntos: violência no campo
+- tag: paraná
+- tag: violência no campo
 - tag: direitos humanos
 type: news
 support_line: Advogado do réu Augusto Barbosa da Costa, acusado de assassinar o sem

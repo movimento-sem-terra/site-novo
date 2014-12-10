@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15955
 images: ''
 video: ''
 tags:
-- localização: sergipe
-- assuntos: reforma agrária
+- tag: sergipe
+- tag: reforma agrária
 - tag: reforma agrária
 type: news
 support_line: As 40 famílias Sem Terra do acampamento Eldorado de Carajás, no município

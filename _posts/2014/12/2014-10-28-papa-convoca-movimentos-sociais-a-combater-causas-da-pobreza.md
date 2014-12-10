@@ -1,22 +1,24 @@
 ---
-date: "2014-10-28T16:55:18-02:00"
+date: '2014-10-28T16:55:18-02:00'
 tags:
-  - tag: Papa
-  - tag: Vaticano
-  - tag: Movimentos-Sociais
+- tag: Papa
+- tag: Vaticano
+- tag: Movimentos-Sociais
 title: Papa convoca movimentos sociais a combater causas da pobreza
-support_line: "\"Esse encontro responde a um anseio concreto, que deve estar ao alcance de todos, mas está cada vez mais longe da maioria: terra, teto e trabalho\", afirmou pontífice."
+support_line: '"Esse encontro responde a um anseio concreto, que deve estar ao alcance
+  de todos, mas está cada vez mais longe da maioria: terra, teto e trabalho", afirmou
+  pontífice.'
 menu: projeto popular
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7565/15759766430_7d9276c65b_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7565/15759766430_7d9276c65b_t.jpg"
-    medium: "http://farm8.staticflickr.com/7565/15759766430_7d9276c65b_z.jpg"
-    small: "http://farm8.staticflickr.com/7565/15759766430_7d9276c65b_n.jpg"
-    title: encontro_mundial_de_movimentos_sociais70069.jpg
-    $$hashKey: 37Z
+- link: http://farm8.staticflickr.com/7565/15759766430_7d9276c65b_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7565/15759766430_7d9276c65b_t.jpg
+  medium: http://farm8.staticflickr.com/7565/15759766430_7d9276c65b_z.jpg
+  small: http://farm8.staticflickr.com/7565/15759766430_7d9276c65b_n.jpg
+  title: encontro_mundial_de_movimentos_sociais70069.jpg
+  "$$hashKey": 37Z
 published: true
-images_hd: "http://farm8.staticflickr.com/7565/15759766430_7d9276c65b_n.jpg"
+images_hd: http://farm8.staticflickr.com/7565/15759766430_7d9276c65b_n.jpg
 
 ---
 <p><em>Do Adital</em><br />

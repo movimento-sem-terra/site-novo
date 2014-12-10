@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15945
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/cana_trabalho_escravo.jpg
 video: ''
 tags:
-- assuntos: agronegócio
+- tag: agronegócio
 - tag: agronegócio
 type: news
 support_line: Pesquisa realizada pelo Instituto Observatório Social aponta que máquinas

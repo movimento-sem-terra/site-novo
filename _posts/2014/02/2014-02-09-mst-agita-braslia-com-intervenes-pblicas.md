@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15689
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/Intervenção22.jpg
 video: ''
 tags:
-- congresso: '6'
-- assuntos: 6° congresso nacional
+- tag: '6'
+- tag: 6° congresso nacional
 - tag: reforma agrária
 type: news
 support_line: Brasília é palco de luta pela Reforma Agrária, motivada a refletir sobre

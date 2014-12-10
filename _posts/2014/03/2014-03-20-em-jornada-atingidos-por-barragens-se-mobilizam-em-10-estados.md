@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15871
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/MAB_jornada.JPG
 video: ''
 tags:
-- assuntos: mobilização
+- tag: mobilização
 - tag: lutas e mobilizações
 type: news
 support_line: Durante  a Jornada Nacional de Lutas, milhares de atingidos e  atingidas

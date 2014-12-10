@@ -1,23 +1,24 @@
 ---
-date: "2014-12-04T11:43:45-02:00"
+date: '2014-12-04T11:43:45-02:00'
 tags:
-  - tag: Agricultura-Camponesa
-  - tag: Agroecologia
+- tag: Agricultura-Camponesa
+- tag: Agroecologia
 title: A agroecologia é a solução para a fome e a mudança climática
-support_line: "\"Para erradicar a fome é imprescindível contribuir para que os produtores de alimentos possam manter seu modo de vida\"."
+support_line: '"Para erradicar a fome é imprescindível contribuir para que os produtores
+  de alimentos possam manter seu modo de vida".'
 menu: meio ambiente
 label: articles
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7506/15983332285_ccd4cbe9d8_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7506/15983332285_ccd4cbe9d8_t.jpg"
-    medium: "http://farm8.staticflickr.com/7506/15983332285_ccd4cbe9d8_z.jpg"
-    small: "http://farm8.staticflickr.com/7506/15983332285_ccd4cbe9d8_n.jpg"
-    title: agroecologia.gif
-    $$hashKey: 04N
-created_date: "2014-12-09T11:46:09-02:00"
+- link: http://farm8.staticflickr.com/7506/15983332285_ccd4cbe9d8_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7506/15983332285_ccd4cbe9d8_t.jpg
+  medium: http://farm8.staticflickr.com/7506/15983332285_ccd4cbe9d8_z.jpg
+  small: http://farm8.staticflickr.com/7506/15983332285_ccd4cbe9d8_n.jpg
+  title: agroecologia.gif
+  "$$hashKey": 04N
+created_date: '2014-12-09T11:46:09-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7506/15983332285_ccd4cbe9d8_n.jpg"
+images_hd: http://farm8.staticflickr.com/7506/15983332285_ccd4cbe9d8_n.jpg
 
 ---
 <div id="content-header">

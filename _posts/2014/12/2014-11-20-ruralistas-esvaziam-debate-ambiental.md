@@ -1,22 +1,23 @@
 ---
-date: "2014-10-20T10:54:04-02:00"
+date: '2014-10-20T10:54:04-02:00'
 tags:
-  - tag: Eleições
-  - tag: Bancada-Ruralista
-  - tag: Meio-Ambiente
+- tag: Eleições
+- tag: Bancada-Ruralista
+- tag: Meio-Ambiente
 title: Ruralistas esvaziam debate ambiental
 menu: agronegócio
-support_line: "Seja com Aécio ou Dilma na presidência, os projetos de cunho ambientalista devem ter mais dificuldade para serem aprovados a partir de 2015."
+support_line: Seja com Aécio ou Dilma na presidência, os projetos de cunho ambientalista
+  devem ter mais dificuldade para serem aprovados a partir de 2015.
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7566/15757654410_6ccaacfca3_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7566/15757654410_6ccaacfca3_t.jpg"
-    medium: "http://farm8.staticflickr.com/7566/15757654410_6ccaacfca3_z.jpg"
-    small: "http://farm8.staticflickr.com/7566/15757654410_6ccaacfca3_n.jpg"
-    title: Bancada_Ruralistas.jpg
-    $$hashKey: 1EB
+- link: http://farm8.staticflickr.com/7566/15757654410_6ccaacfca3_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7566/15757654410_6ccaacfca3_t.jpg
+  medium: http://farm8.staticflickr.com/7566/15757654410_6ccaacfca3_z.jpg
+  small: http://farm8.staticflickr.com/7566/15757654410_6ccaacfca3_n.jpg
+  title: Bancada_Ruralistas.jpg
+  "$$hashKey": 1EB
 published: true
-images_hd: "http://farm8.staticflickr.com/7566/15757654410_6ccaacfca3_n.jpg"
+images_hd: http://farm8.staticflickr.com/7566/15757654410_6ccaacfca3_n.jpg
 
 ---
 <div id="content-header">

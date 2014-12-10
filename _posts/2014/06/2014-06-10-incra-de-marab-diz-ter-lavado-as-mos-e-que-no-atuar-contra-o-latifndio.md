@@ -6,9 +6,9 @@ images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/Super
   do INCRA Eudério Coelho!.jpg
 video: ''
 tags:
-- destaque: manchete
-- localização: pará
-- assuntos: direitos humanos
+- tag: manchete
+- tag: pará
+- tag: direitos humanos
 - tag: lutas e mobilizações
 type: news
 support_line: No encontro com o superintendente da região, os Sem Terra solicitavam

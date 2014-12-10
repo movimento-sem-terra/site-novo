@@ -1,25 +1,27 @@
 ---
-date: "2014-11-19T16:07:46-02:00"
+date: '2014-11-19T16:07:46-02:00'
 tags:
-  - tag: Homenagem
-  - tag: Goiás
-  - tag: CPT
-  - tag: Dom-Tomás-Balduíno
+- tag: Homenagem
+- tag: Goiás
+- tag: CPT
+- tag: Dom-Tomás-Balduíno
 title: Livro em homenagem a Dom Tomás Balduino será lançado nesta quinta
 hat: Goiás
 menu: lutadores-do-povo
-support_line: "No dia 20 de novembro, a partir das 19h30, serão lançadas no Centro Cultural Cara Vídeo (rua 83, nº 361 – Setor Sul), as publicações “Dom Tomás é terra e dignidade” e “Advertências e Esperanças: Justiça, Paz e Direitos Humanos”."
+support_line: 'No dia 20 de novembro, a partir das 19h30, serão lançadas no Centro
+  Cultural Cara Vídeo (rua 83, nº 361 – Setor Sul), as publicações “Dom Tomás é terra
+  e dignidade” e “Advertências e Esperanças: Justiça, Paz e Direitos Humanos”.'
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8670/15331295284_f7f382a04b_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8670/15331295284_f7f382a04b_t.jpg"
-    medium: "http://farm9.staticflickr.com/8670/15331295284_f7f382a04b_z.jpg"
-    small: "http://farm9.staticflickr.com/8670/15331295284_f7f382a04b_n.jpg"
-    title: Livro sobre Dom Tomás Balduíno.jpg
-    $$hashKey: 35H
-created_date: "2014-12-05T16:10:08-02:00"
+- link: http://farm9.staticflickr.com/8670/15331295284_f7f382a04b_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8670/15331295284_f7f382a04b_t.jpg
+  medium: http://farm9.staticflickr.com/8670/15331295284_f7f382a04b_z.jpg
+  small: http://farm9.staticflickr.com/8670/15331295284_f7f382a04b_n.jpg
+  title: Livro sobre Dom Tomás Balduíno.jpg
+  "$$hashKey": 35H
+created_date: '2014-12-05T16:10:08-02:00'
 published: true
-images_hd: "http://farm9.staticflickr.com/8670/15331295284_f7f382a04b_n.jpg"
+images_hd: http://farm9.staticflickr.com/8670/15331295284_f7f382a04b_n.jpg
 
 ---
 <p><img alt="Livro sobre Dom Tomás Balduíno.jpg" src="http://farm9.staticflickr.com/8670/15331295284_f7f382a04b_b.jpg" /></p>

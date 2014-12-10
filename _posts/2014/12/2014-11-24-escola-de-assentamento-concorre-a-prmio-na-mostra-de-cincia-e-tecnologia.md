@@ -1,33 +1,34 @@
 ---
-date: "2014-10-24T15:53:04-02:00"
+date: '2014-10-24T15:53:04-02:00'
 tags:
-  - tag: Rio-Grande-do-Sul
-  - tag: Educação
+- tag: Rio-Grande-do-Sul
+- tag: Educação
 title: Escola de assentamento concorre a prêmio na Mostra de Ciência e Tecnologia
-support_line: O projeto visa nomear as estradas de dez assentamentos para melhorar o acesso das famílias aos serviços.
-menu: "educação, cultura e comunicação"
+support_line: O projeto visa nomear as estradas de dez assentamentos para melhorar
+  o acesso das famílias aos serviços.
+menu: educação, cultura e comunicação
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7583/15944733411_3c237895b8_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7583/15944733411_3c237895b8_t.jpg"
-    medium: "http://farm8.staticflickr.com/7583/15944733411_3c237895b8_z.jpg"
-    small: "http://farm8.staticflickr.com/7583/15944733411_3c237895b8_n.jpg"
-    title: escola2.jpg
-    $$hashKey: 0ZM
-  - link: "http://farm9.staticflickr.com/8593/15327058413_020861e1b3_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8593/15327058413_020861e1b3_t.jpg"
-    medium: "http://farm9.staticflickr.com/8593/15327058413_020861e1b3_z.jpg"
-    small: "http://farm9.staticflickr.com/8593/15327058413_020861e1b3_n.jpg"
-    title: Foto escola_girassol.jpg
-    $$hashKey: "152"
-  - link: "http://farm8.staticflickr.com/7541/15760660699_a06f2223cc_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7541/15760660699_a06f2223cc_t.jpg"
-    medium: "http://farm8.staticflickr.com/7541/15760660699_a06f2223cc_z.jpg"
-    small: "http://farm8.staticflickr.com/7541/15760660699_a06f2223cc_n.jpg"
-    title: Escola1.jpg
-    $$hashKey: "155"
+- link: http://farm8.staticflickr.com/7583/15944733411_3c237895b8_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7583/15944733411_3c237895b8_t.jpg
+  medium: http://farm8.staticflickr.com/7583/15944733411_3c237895b8_z.jpg
+  small: http://farm8.staticflickr.com/7583/15944733411_3c237895b8_n.jpg
+  title: escola2.jpg
+  "$$hashKey": 0ZM
+- link: http://farm9.staticflickr.com/8593/15327058413_020861e1b3_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8593/15327058413_020861e1b3_t.jpg
+  medium: http://farm9.staticflickr.com/8593/15327058413_020861e1b3_z.jpg
+  small: http://farm9.staticflickr.com/8593/15327058413_020861e1b3_n.jpg
+  title: Foto escola_girassol.jpg
+  "$$hashKey": '152'
+- link: http://farm8.staticflickr.com/7541/15760660699_a06f2223cc_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7541/15760660699_a06f2223cc_t.jpg
+  medium: http://farm8.staticflickr.com/7541/15760660699_a06f2223cc_z.jpg
+  small: http://farm8.staticflickr.com/7541/15760660699_a06f2223cc_n.jpg
+  title: Escola1.jpg
+  "$$hashKey": '155'
 published: true
-images_hd: "http://farm8.staticflickr.com/7583/15944733411_3c237895b8_n.jpg"
+images_hd: http://farm8.staticflickr.com/7583/15944733411_3c237895b8_n.jpg
 
 ---
 <p><img alt="escola2.jpg" src="http://farm8.staticflickr.com/7583/15944733411_3c237895b8_b.jpg" /></p>

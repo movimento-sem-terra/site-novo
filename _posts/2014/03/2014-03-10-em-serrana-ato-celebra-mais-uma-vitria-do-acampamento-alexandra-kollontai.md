@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15817
 images: http://www.mst.org.br/sites/default/files/ato_serrana.jpg
 video: '15816'
 tags:
-- localização: são paulo
-- assuntos: reforma agrária
+- tag: são paulo
+- tag: reforma agrária
 - tag: reforma agrária
 type: video
 support_line: A comemoração se deve ao fato do pedido de reintegração de posse da  fazenda

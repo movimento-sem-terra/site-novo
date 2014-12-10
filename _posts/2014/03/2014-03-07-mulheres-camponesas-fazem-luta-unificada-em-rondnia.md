@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15829
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/mulheres_RO.JPG
 video: ''
 tags:
-- assuntos: jornada de luta das mulheres 2014
-- localização: rondônia
+- tag: jornada de luta das mulheres 2014
+- tag: rondônia
 - tag: lutas e mobilizações
 type: news
 support_line: ''

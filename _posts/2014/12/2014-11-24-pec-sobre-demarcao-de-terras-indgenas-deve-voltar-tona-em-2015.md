@@ -1,22 +1,23 @@
 ---
-date: "2014-10-24T15:45:28-02:00"
+date: '2014-10-24T15:45:28-02:00'
 tags:
-  - tag: PEC-215
-  - tag: Indígenas
-  - tag: Bancada-Ruralista
+- tag: PEC-215
+- tag: Indígenas
+- tag: Bancada-Ruralista
 title: PEC sobre demarcação de terras indígenas deve voltar à tona em 2015
-support_line: "A partir de fevereiro, mais da metade da Casa será composta por deputados ligados ao agronegócio, defensores da PEC 215."
+support_line: A partir de fevereiro, mais da metade da Casa será composta por deputados
+  ligados ao agronegócio, defensores da PEC 215.
 menu: direitos humanos
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8650/15759230008_7fcc7b724c_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8650/15759230008_7fcc7b724c_t.jpg"
-    medium: "http://farm9.staticflickr.com/8650/15759230008_7fcc7b724c_z.jpg"
-    small: "http://farm9.staticflickr.com/8650/15759230008_7fcc7b724c_n.jpg"
-    title: in.jpg
-    $$hashKey: 0QY
+- link: http://farm9.staticflickr.com/8650/15759230008_7fcc7b724c_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8650/15759230008_7fcc7b724c_t.jpg
+  medium: http://farm9.staticflickr.com/8650/15759230008_7fcc7b724c_z.jpg
+  small: http://farm9.staticflickr.com/8650/15759230008_7fcc7b724c_n.jpg
+  title: in.jpg
+  "$$hashKey": 0QY
 published: true
-images_hd: "http://farm9.staticflickr.com/8650/15759230008_7fcc7b724c_n.jpg"
+images_hd: http://farm9.staticflickr.com/8650/15759230008_7fcc7b724c_n.jpg
 
 ---
 <div id="content-header">

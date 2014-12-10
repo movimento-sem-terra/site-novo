@@ -1,24 +1,25 @@
 ---
-date: "2014-12-09T17:20:58-02:00"
+date: '2014-12-09T17:20:58-02:00'
 tags:
-  - tag: agroecologia
-  - tag: quilombolas
-  - tag: indígenas
-  - tag: Terra-Vista
+- tag: agroecologia
+- tag: quilombolas
+- tag: indígenas
+- tag: Terra-Vista
 title: Jornada de Agroecologia da Bahia afirma luta por nova forma de produção
-support_line: "O evento reuniu diversos militantes e assentados do Movimento, além de quilombolas, indígenas e estudiosos."
+support_line: O evento reuniu diversos militantes e assentados do Movimento, além
+  de quilombolas, indígenas e estudiosos.
 menu: agricultura camponesa
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8597/15797942038_37e12a2d4d_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8597/15797942038_37e12a2d4d_t.jpg"
-    medium: "http://farm9.staticflickr.com/8597/15797942038_37e12a2d4d_z.jpg"
-    small: "http://farm9.staticflickr.com/8597/15797942038_37e12a2d4d_n.jpg"
-    title: 3jornadaagroecologia.jpg
-    $$hashKey: 0VT
-created_date: "2014-12-09T17:22:45-02:00"
+- link: http://farm9.staticflickr.com/8597/15797942038_37e12a2d4d_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8597/15797942038_37e12a2d4d_t.jpg
+  medium: http://farm9.staticflickr.com/8597/15797942038_37e12a2d4d_z.jpg
+  small: http://farm9.staticflickr.com/8597/15797942038_37e12a2d4d_n.jpg
+  title: 3jornadaagroecologia.jpg
+  "$$hashKey": 0VT
+created_date: '2014-12-09T17:22:45-02:00'
 published: true
-images_hd: "http://farm9.staticflickr.com/8597/15797942038_37e12a2d4d_n.jpg"
+images_hd: http://farm9.staticflickr.com/8597/15797942038_37e12a2d4d_n.jpg
 
 ---
 <p><img alt="3jornadaagroecologia.jpg" src="http://farm9.staticflickr.com/8597/15797942038_37e12a2d4d_b.jpg" /></p>

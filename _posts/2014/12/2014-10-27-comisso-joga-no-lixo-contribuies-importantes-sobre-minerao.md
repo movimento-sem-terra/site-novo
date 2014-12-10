@@ -1,21 +1,23 @@
 ---
-date: "2014-10-27T16:19:05-02:00"
+date: '2014-10-27T16:19:05-02:00'
 tags:
-  - tag: Mineração
-title: "Comissão joga \"no lixo\" contribuições importantes sobre mineração"
+- tag: Mineração
+title: Comissão joga "no lixo" contribuições importantes sobre mineração
 menu: meio ambiente
-support_line: "Para Gustavo Gazzinelli, a comissão jogou na lata do lixo contribuições importantes que propuseram medidas e conceitos chaves para a sustentabilidade da mineração."
+support_line: Para Gustavo Gazzinelli, a comissão jogou na lata do lixo contribuições
+  importantes que propuseram medidas e conceitos chaves para a sustentabilidade da
+  mineração.
 label: articles
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8675/15324572734_2eab45cddd_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8675/15324572734_2eab45cddd_t.jpg"
-    medium: "http://farm9.staticflickr.com/8675/15324572734_2eab45cddd_z.jpg"
-    small: "http://farm9.staticflickr.com/8675/15324572734_2eab45cddd_n.jpg"
-    title: "mi!!.jpg"
-    $$hashKey: "870"
+- link: http://farm9.staticflickr.com/8675/15324572734_2eab45cddd_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8675/15324572734_2eab45cddd_t.jpg
+  medium: http://farm9.staticflickr.com/8675/15324572734_2eab45cddd_z.jpg
+  small: http://farm9.staticflickr.com/8675/15324572734_2eab45cddd_n.jpg
+  title: mi!!.jpg
+  "$$hashKey": '870'
 published: true
-images_hd: "http://farm9.staticflickr.com/8675/15324572734_2eab45cddd_n.jpg"
+images_hd: http://farm9.staticflickr.com/8675/15324572734_2eab45cddd_n.jpg
 
 ---
 <div id="content-header">

@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16096
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/quilombolas_MA.jpg
 video: ''
 tags:
-- localização: maranhão
-- assuntos: mobilização
+- tag: maranhão
+- tag: mobilização
 - tag: lutas e mobilizações
 type: news
 support_line: Eles cobram pela regularização dos territórios, assistência médica,

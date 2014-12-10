@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15526
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/unnamed!.jpg
 video: ''
 tags:
-- assuntos: palestina
+- tag: palestina
 - tag: internacional
 type: news
 menu: internacional

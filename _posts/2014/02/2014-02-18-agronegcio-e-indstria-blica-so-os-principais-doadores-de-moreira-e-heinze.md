@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15745
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/moreiraeheinze!!!.jpg
 video: ''
 tags:
-- assuntos: violência
+- tag: violência
 - tag: direitos humanos
 type: news
 support_line: Os deputados federais Luiz Carlos Heinze (PP) e Alceu  Moreira (PMDB)

@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16027
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/SC_Caixa!.jpg
 video: ''
 tags:
-- localização: santa catarina
-- assuntos: jornada de lutas abril 2014
+- tag: santa catarina
+- tag: jornada de lutas abril 2014
 - tag: lutas e mobilizações
 type: news
 support_line: Os manifestantes pedem ao governo federal agilidade e atualização do

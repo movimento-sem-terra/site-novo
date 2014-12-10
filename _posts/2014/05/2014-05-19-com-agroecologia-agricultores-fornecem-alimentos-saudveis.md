@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16119
 images: ''
 video: ''
 tags:
-- destaque: destaque
-- assuntos: agroecologia
+- tag: destaque
+- tag: agroecologia
 - tag: agricultura camponesa
 type: news
 support_line: " O CIRCUITO from AGROECOLOGIA on Vimeo."

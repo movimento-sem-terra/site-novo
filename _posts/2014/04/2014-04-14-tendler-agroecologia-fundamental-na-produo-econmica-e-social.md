@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15971
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/tendler!.png
 video: ''
 tags:
-- tipo de matéria: entrevistas
-- assuntos: cultura
+- tag: entrevistas
+- tag: cultura
 - tag: educação, cultura e comunicação
 type: news
 support_line: Nesta entrevista, o cineasta fala do novo filme, sua relação com os

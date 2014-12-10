@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16121
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/ocupação_SC!.jpg
 video: ''
 tags:
-- assuntos: ocupação
-- localização: santa catarina
+- tag: ocupação
+- tag: santa catarina
 - tag: lutas e mobilizações
 type: news
 support_line: Neste domingo (18), 300 famílias do MST ocuparam mais uma área improdutiva

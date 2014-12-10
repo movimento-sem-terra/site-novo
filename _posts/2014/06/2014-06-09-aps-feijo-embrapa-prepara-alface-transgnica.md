@@ -6,7 +6,7 @@ images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/image
   (1).jpg
 video: ''
 tags:
-- assuntos: transgênicos
+- tag: transgênicos
 - tag: transgênicos
 type: news
 support_line: Segunda variedade geneticamente modificada produzida pela empresa pública

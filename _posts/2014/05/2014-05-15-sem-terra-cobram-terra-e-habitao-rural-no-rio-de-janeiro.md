@@ -5,9 +5,9 @@ legacy_url: http://www.mst.org.br/node/16106
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/MSTIncra_PabloVergara.jpg
 video: ''
 tags:
-- destaque: manchete
-- localização: rio de janeiro
-- assuntos: jornada de lutas abril 2014
+- tag: manchete
+- tag: rio de janeiro
+- tag: jornada de lutas abril 2014
 - tag: lutas e mobilizações
 type: news
 support_line: Assentados e acampados de todas as regiões do estado pressionaram o

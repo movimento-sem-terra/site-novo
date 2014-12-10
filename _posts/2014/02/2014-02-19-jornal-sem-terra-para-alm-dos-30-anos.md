@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15749
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/jst.jpg
 video: ''
 tags:
-- assuntos: comunicação
+- tag: comunicação
 - tag: educação, cultura e comunicação
 type: news
 support_line: A história do  Jornal Sem Terra confunde-se com a  própria trajetória

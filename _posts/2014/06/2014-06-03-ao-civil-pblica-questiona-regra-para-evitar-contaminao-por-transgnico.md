@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16175
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/contaminacao_milho!.jpg
 video: ''
 tags:
-- localização: rio grande do sul
-- assuntos: agronegócio
+- tag: rio grande do sul
+- tag: agronegócio
 - tag: transgênicos
 type: news
 support_line: A ACP acontece nesta quarta, no Tribunal Regional Federal da 4ª região,

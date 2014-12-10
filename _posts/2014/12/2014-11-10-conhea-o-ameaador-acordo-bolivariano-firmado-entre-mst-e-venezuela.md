@@ -1,23 +1,24 @@
 ---
-date: "2014-11-10T13:25:16-02:00"
+date: '2014-11-10T13:25:16-02:00'
 tags:
-  - tag: Venezuela
-  - tag: Agricultura
-  - tag: Solidariedade
-title: "Conheça o \"ameaçador\" acordo bolivariano firmado entre MST e Venezuela"
-support_line: Mais uma vez os setores conservadores demonstram que não admitem qualquer participação popular.
+- tag: Venezuela
+- tag: Agricultura
+- tag: Solidariedade
+title: Conheça o "ameaçador" acordo bolivariano firmado entre MST e Venezuela
+support_line: Mais uma vez os setores conservadores demonstram que não admitem qualquer
+  participação popular.
 menu: solidariedade
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7518/15765401290_f8a13cfd32_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7518/15765401290_f8a13cfd32_t.jpg"
-    medium: "http://farm8.staticflickr.com/7518/15765401290_f8a13cfd32_z.jpg"
-    small: "http://farm8.staticflickr.com/7518/15765401290_f8a13cfd32_n.jpg"
-    title: bolivariano.jpg
-    $$hashKey: 1ZZ
-created_date: "2014-12-05T13:31:08-02:00"
+- link: http://farm8.staticflickr.com/7518/15765401290_f8a13cfd32_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7518/15765401290_f8a13cfd32_t.jpg
+  medium: http://farm8.staticflickr.com/7518/15765401290_f8a13cfd32_z.jpg
+  small: http://farm8.staticflickr.com/7518/15765401290_f8a13cfd32_n.jpg
+  title: bolivariano.jpg
+  "$$hashKey": 1ZZ
+created_date: '2014-12-05T13:31:08-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7518/15765401290_f8a13cfd32_n.jpg"
+images_hd: http://farm8.staticflickr.com/7518/15765401290_f8a13cfd32_n.jpg
 
 ---
 <div id="content-header">

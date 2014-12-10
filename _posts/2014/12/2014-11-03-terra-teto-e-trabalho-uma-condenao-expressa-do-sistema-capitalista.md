@@ -1,25 +1,27 @@
 ---
-date: "2014-11-03T11:27:04-02:00"
+date: '2014-11-03T11:27:04-02:00'
 tags:
-  - tag: Papa-Francisco
-  - tag: Movimentos-sociais
-  - tag: encontro
-  - tag: Reforma-Agrária
-title: "Terra, teto e trabalho. Uma condenação expressa do sistema capitalista"
+- tag: Papa-Francisco
+- tag: Movimentos-sociais
+- tag: encontro
+- tag: Reforma-Agrária
+title: Terra, teto e trabalho. Uma condenação expressa do sistema capitalista
 hat: Artigo
-support_line: "O jurista Jacques Alfonsin escreve que \"o Papa identificou os movimentos populares pelos grupos de pobres que eles defendem, recordando a doutrina social da Igreja sobre uma das políticas públicas das mais necessárias e trancadas no Brasil\"."
+support_line: O jurista Jacques Alfonsin escreve que "o Papa identificou os movimentos
+  populares pelos grupos de pobres que eles defendem, recordando a doutrina social
+  da Igreja sobre uma das políticas públicas das mais necessárias e trancadas no Brasil".
 menu: reforma agrária
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8600/15329781694_1929a657ff_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8600/15329781694_1929a657ff_t.jpg"
-    medium: "http://farm9.staticflickr.com/8600/15329781694_1929a657ff_z.jpg"
-    small: "http://farm9.staticflickr.com/8600/15329781694_1929a657ff_n.jpg"
-    title: papa francisco.jpg
-    $$hashKey: 2A7
-created_date: "2014-12-05T11:31:16-02:00"
+- link: http://farm9.staticflickr.com/8600/15329781694_1929a657ff_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8600/15329781694_1929a657ff_t.jpg
+  medium: http://farm9.staticflickr.com/8600/15329781694_1929a657ff_z.jpg
+  small: http://farm9.staticflickr.com/8600/15329781694_1929a657ff_n.jpg
+  title: papa francisco.jpg
+  "$$hashKey": 2A7
+created_date: '2014-12-05T11:31:16-02:00'
 published: true
-images_hd: "http://farm9.staticflickr.com/8600/15329781694_1929a657ff_n.jpg"
+images_hd: http://farm9.staticflickr.com/8600/15329781694_1929a657ff_n.jpg
 
 ---
 <p><br />

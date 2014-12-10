@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15951
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/cacau.jpg
 video: ''
 tags:
-- assuntos: agroecologia
+- tag: agroecologia
 - tag: agricultura camponesa
 type: news
 support_line: O biochar, junto de sistemas agroecológicos e de produção orgânica,

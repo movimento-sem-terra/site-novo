@@ -1,22 +1,23 @@
 ---
-date: "2014-11-26T18:04:14-02:00"
+date: '2014-11-26T18:04:14-02:00'
 tags:
-  - tag: katia-abreu
-  - tag: agronegócio
-title: "\"Não há conjuntura que justifique a porta-voz do latifúndio na Agricultura\""
-support_line: "Em discurso na tribuna, o deputado federal Valmir Assunção foi enfático na possibilidade de Kátia Abreu ser ministra da agricultura."
+- tag: katia-abreu
+- tag: agronegócio
+title: '"Não há conjuntura que justifique a porta-voz do latifúndio na Agricultura"'
+support_line: Em discurso na tribuna, o deputado federal Valmir Assunção foi enfático
+  na possibilidade de Kátia Abreu ser ministra da agricultura.
 menu: agronegócio
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8664/15746554109_b23992ab43_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8664/15746554109_b23992ab43_t.jpg"
-    medium: "http://farm9.staticflickr.com/8664/15746554109_b23992ab43_z.jpg"
-    small: "http://farm9.staticflickr.com/8664/15746554109_b23992ab43_n.jpg"
-    title: valmir-assunção.jpg
-    $$hashKey: 0VP
+- link: http://farm9.staticflickr.com/8664/15746554109_b23992ab43_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8664/15746554109_b23992ab43_t.jpg
+  medium: http://farm9.staticflickr.com/8664/15746554109_b23992ab43_z.jpg
+  small: http://farm9.staticflickr.com/8664/15746554109_b23992ab43_n.jpg
+  title: valmir-assunção.jpg
+  "$$hashKey": 0VP
 published: true
-images_hd: "http://farm9.staticflickr.com/8664/15746554109_b23992ab43_n.jpg"
-created_date: "2014-11-26 12:00"
+images_hd: http://farm9.staticflickr.com/8664/15746554109_b23992ab43_n.jpg
+created_date: 2014-11-26 12:00
 label: articles
 
 ---

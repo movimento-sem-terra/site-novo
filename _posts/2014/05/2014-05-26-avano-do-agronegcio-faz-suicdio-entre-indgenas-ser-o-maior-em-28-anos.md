@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/16153
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/indios!.jpg
 video: ''
 tags:
-- localização: mato grosso do sul
+- tag: mato grosso do sul
 - tag: agronegócio
 type: news
 support_line: No período de 1986 a 1997, foram registradas 244 mortes por suicídio

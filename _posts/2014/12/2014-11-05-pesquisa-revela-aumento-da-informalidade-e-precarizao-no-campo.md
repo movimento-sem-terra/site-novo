@@ -1,25 +1,26 @@
 ---
-date: "2014-11-05T13:47:02-02:00"
+date: '2014-11-05T13:47:02-02:00'
 tags:
-  - tag: Dieese
-  - tag: Pesquisa
-  - tag: agricultura-camponesa
-  - tag: trabalho-precarizado
+- tag: Dieese
+- tag: Pesquisa
+- tag: agricultura-camponesa
+- tag: trabalho-precarizado
 title: Pesquisa revela aumento da informalidade e precarização no campo
 hat: Agricultura
 menu: agricultura camponesa
-support_line: "Estudo feito pelo Dieese traçou o perfil do trabalhador do campo brasileiro, e mostrou que as condições de vida dos trabalhadores tem piorado."
+support_line: Estudo feito pelo Dieese traçou o perfil do trabalhador do campo brasileiro,
+  e mostrou que as condições de vida dos trabalhadores tem piorado.
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7529/15952125932_6c9e366f64_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7529/15952125932_6c9e366f64_t.jpg"
-    medium: "http://farm8.staticflickr.com/7529/15952125932_6c9e366f64_z.jpg"
-    small: "http://farm8.staticflickr.com/7529/15952125932_6c9e366f64_n.jpg"
-    title: cana_trabalho_escravo.jpg
-    $$hashKey: "191"
-created_date: "2014-12-05T13:50:11-02:00"
+- link: http://farm8.staticflickr.com/7529/15952125932_6c9e366f64_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7529/15952125932_6c9e366f64_t.jpg
+  medium: http://farm8.staticflickr.com/7529/15952125932_6c9e366f64_z.jpg
+  small: http://farm8.staticflickr.com/7529/15952125932_6c9e366f64_n.jpg
+  title: cana_trabalho_escravo.jpg
+  "$$hashKey": '191'
+created_date: '2014-12-05T13:50:11-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7529/15952125932_6c9e366f64_n.jpg"
+images_hd: http://farm8.staticflickr.com/7529/15952125932_6c9e366f64_n.jpg
 
 ---
 <div id="content-title">

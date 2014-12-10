@@ -6,8 +6,8 @@ images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/juven
   jmst2.JPG
 video: ''
 tags:
-- congresso: '6'
-- assuntos: 6° congresso nacional
+- tag: '6'
+- tag: 6° congresso nacional
 - tag: projeto popular
 type: news
 support_line: A participação da juventude é fruto de um processo de construção coletiva,

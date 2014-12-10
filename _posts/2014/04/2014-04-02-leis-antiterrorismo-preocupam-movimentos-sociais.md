@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15919
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/senado.jpg
 video: ''
 tags:
-- assuntos: lei antiterror
+- tag: lei antiterror
 - tag: direitos humanos
 type: news
 support_line: O Senado pode, a qualquer momento, nas próximas semanas, avançar com

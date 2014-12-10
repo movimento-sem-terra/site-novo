@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15721
 images: ''
 video: ''
 tags:
-- congresso: '6'
+- tag: '6'
 - tag: reforma agrária
 type: news
 support_line: Para o militante o que mais lhe deixa feliz e realizado é a formação

@@ -6,8 +6,8 @@ images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/ofici
   musicaç.jpg
 video: ''
 tags:
-- localização: santa catarina
-- assuntos: cultura
+- tag: santa catarina
+- tag: cultura
 - tag: educação, cultura e comunicação
 type: news
 support_line: O compositor Pedro Munhoz foi o responsável em organizar uma oficina

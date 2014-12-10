@@ -1,24 +1,25 @@
 ---
-date: "2014-12-01T11:47:49-02:00"
+date: '2014-12-01T11:47:49-02:00'
 tags:
-  - tag: Encruzilhada-Natalino
-  - tag: assentamentos
-  - tag: reforma-agrária
-  - tag: latifúndio
-title: "No RS, MST reúne amigos e aliados para comemorar 30 anos de luta"
-support_line: "Estiveram presentes autoridades estaduais, regionais e municipais, dirigentes de movimentos sociais e sindicais urbanos, além de trabalhadores Sem Terra e amigos."
+- tag: Encruzilhada-Natalino
+- tag: assentamentos
+- tag: reforma-agrária
+- tag: latifúndio
+title: No RS, MST reúne amigos e aliados para comemorar 30 anos de luta
+support_line: Estiveram presentes autoridades estaduais, regionais e municipais, dirigentes
+  de movimentos sociais e sindicais urbanos, além de trabalhadores Sem Terra e amigos.
 menu: reforma agrária
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7499/15926364246_c5004de880_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7499/15926364246_c5004de880_t.jpg"
-    medium: "http://farm8.staticflickr.com/7499/15926364246_c5004de880_z.jpg"
-    small: "http://farm8.staticflickr.com/7499/15926364246_c5004de880_n.jpg"
-    title: MST RS 2_0.jpg
-    $$hashKey: 1FC
-created_date: "2014-12-05T11:52:44-02:00"
+- link: http://farm8.staticflickr.com/7499/15926364246_c5004de880_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7499/15926364246_c5004de880_t.jpg
+  medium: http://farm8.staticflickr.com/7499/15926364246_c5004de880_z.jpg
+  small: http://farm8.staticflickr.com/7499/15926364246_c5004de880_n.jpg
+  title: MST RS 2_0.jpg
+  "$$hashKey": 1FC
+created_date: '2014-12-05T11:52:44-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7499/15926364246_c5004de880_n.jpg"
+images_hd: http://farm8.staticflickr.com/7499/15926364246_c5004de880_n.jpg
 
 ---
 <p><img alt="MST RS 2_0.jpg" src="http://farm8.staticflickr.com/7499/15926364246_c5004de880_b.jpg" /></p>

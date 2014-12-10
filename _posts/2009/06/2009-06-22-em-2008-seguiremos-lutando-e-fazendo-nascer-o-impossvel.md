@@ -4,7 +4,7 @@ title: Em 2008 Seguiremos Lutando e Fazendo Nascer o Impossível !
 legacy_url: http://www.mst.org.br/node/94
 images: ''
 video: ''
-tags: []
+tags: 
 type: 
 support_line: ''
 section: 

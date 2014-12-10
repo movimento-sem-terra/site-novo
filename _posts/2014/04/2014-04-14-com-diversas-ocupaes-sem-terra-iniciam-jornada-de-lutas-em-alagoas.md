@@ -5,9 +5,9 @@ legacy_url: http://www.mst.org.br/node/15970
 images: ''
 video: ''
 tags:
-- destaque: manchete
-- localização: alagoas
-- assuntos: jornada de lutas abril 2014
+- tag: manchete
+- tag: alagoas
+- tag: jornada de lutas abril 2014
 - tag: lutas e mobilizações
 type: news
 support_line: As ocupações trazem reivindicações por estruturas físicas e sociais

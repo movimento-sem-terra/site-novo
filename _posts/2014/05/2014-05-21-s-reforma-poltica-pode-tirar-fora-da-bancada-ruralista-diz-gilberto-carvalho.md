@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/16132
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/carvalho!.jpg
 video: ''
 tags:
-- assuntos: reforma agrária
+- tag: reforma agrária
 - tag: projeto popular
 type: news
 support_line: Ministro da Secretaria Geral da Presidência afirma que poder econômico

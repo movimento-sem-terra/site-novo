@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16001
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/lançamento_veneno_bsb!.jpg
 video: ''
 tags:
-- localização: brasília
-- assuntos: agrotóxico
+- tag: brasília
+- tag: agrotóxico
 - tag: agronegócio
 type: news
 support_line: O lançamento do novo filme de Silvio Tendler acontece no Auditório principal

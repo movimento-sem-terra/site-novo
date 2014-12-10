@@ -5,9 +5,9 @@ legacy_url: http://www.mst.org.br/node/16013
 images: ''
 video: ''
 tags:
-- destaque: manchete
-- localização: pernambuco
-- assuntos: jornada de lutas abril 2014
+- tag: manchete
+- tag: pernambuco
+- tag: jornada de lutas abril 2014
 - tag: lutas e mobilizações
 type: news
 support_line: Metade das famílias ocuparam o Engenho Moreno, pertencente aos latifundiários

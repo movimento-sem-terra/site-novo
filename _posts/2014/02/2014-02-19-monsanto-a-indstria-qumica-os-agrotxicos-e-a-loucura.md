@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15748
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/gmo-monsanto-nrcs-294.jpg
 video: ''
 tags:
-- assuntos: agronegócio
+- tag: agronegócio
 - tag: agronegócio
 type: news
 support_line: Setor faturou  no mundo US$3,4 trilhões em 2010 e no Brasil US$100  bilhões.

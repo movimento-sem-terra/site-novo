@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/16060
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/MST BA2.jpg
 video: ''
 tags:
-- assuntos: jornada de lutas abril 2014
+- tag: jornada de lutas abril 2014
 - tag: lutas e mobilizações
 type: news
 support_line: 3 mil Sem Terra marcharam pelas ruas de Camaçari, no  recôncavo baiano,

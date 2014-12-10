@@ -1,40 +1,41 @@
 ---
-date: "2014-10-28T16:22:31-02:00"
+date: '2014-10-28T16:22:31-02:00'
 tags:
-  - tag: Jornada-dos-Sem-Terrinha
-  - tag: agroecologia
-  - tag: crianças
+- tag: Jornada-dos-Sem-Terrinha
+- tag: agroecologia
+- tag: crianças
 title: Sem Terrinha do RN conquistam ciranda infantil em centro de formação
-support_line: A luta protagonizada pelas crianças durante a jornada no RN já resultou em frutos.
+support_line: A luta protagonizada pelas crianças durante a jornada no RN já resultou
+  em frutos.
 menu: lutas e mobilizações
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7572/15324594344_e6087842fe_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7572/15324594344_e6087842fe_t.jpg"
-    medium: "http://farm8.staticflickr.com/7572/15324594344_e6087842fe_z.jpg"
-    small: "http://farm8.staticflickr.com/7572/15324594344_e6087842fe_n.jpg"
-    title: sem terrinha_RNII.jpg
-    $$hashKey: 29Q
-  - link: "http://farm8.staticflickr.com/7499/15946196602_489ce59637_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7499/15946196602_489ce59637_t.jpg"
-    medium: "http://farm8.staticflickr.com/7499/15946196602_489ce59637_z.jpg"
-    small: "http://farm8.staticflickr.com/7499/15946196602_489ce59637_n.jpg"
-    title: marcha dos sem terrinhaRN.jpg
-    $$hashKey: 29T
-  - link: "http://farm9.staticflickr.com/8653/15759438528_6eea9ac232_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8653/15759438528_6eea9ac232_t.jpg"
-    medium: "http://farm9.staticflickr.com/8653/15759438528_6eea9ac232_z.jpg"
-    small: "http://farm9.staticflickr.com/8653/15759438528_6eea9ac232_n.jpg"
-    title: bandeira_sem terrinha_RN.jpg
-    $$hashKey: 29W
-  - link: "http://farm8.staticflickr.com/7574/15944909491_c37253a8a0_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7574/15944909491_c37253a8a0_t.jpg"
-    medium: "http://farm8.staticflickr.com/7574/15944909491_c37253a8a0_z.jpg"
-    small: "http://farm8.staticflickr.com/7574/15944909491_c37253a8a0_n.jpg"
-    title: sem terrinha_RN.jpg
-    $$hashKey: 29Z
+- link: http://farm8.staticflickr.com/7572/15324594344_e6087842fe_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7572/15324594344_e6087842fe_t.jpg
+  medium: http://farm8.staticflickr.com/7572/15324594344_e6087842fe_z.jpg
+  small: http://farm8.staticflickr.com/7572/15324594344_e6087842fe_n.jpg
+  title: sem terrinha_RNII.jpg
+  "$$hashKey": 29Q
+- link: http://farm8.staticflickr.com/7499/15946196602_489ce59637_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7499/15946196602_489ce59637_t.jpg
+  medium: http://farm8.staticflickr.com/7499/15946196602_489ce59637_z.jpg
+  small: http://farm8.staticflickr.com/7499/15946196602_489ce59637_n.jpg
+  title: marcha dos sem terrinhaRN.jpg
+  "$$hashKey": 29T
+- link: http://farm9.staticflickr.com/8653/15759438528_6eea9ac232_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8653/15759438528_6eea9ac232_t.jpg
+  medium: http://farm9.staticflickr.com/8653/15759438528_6eea9ac232_z.jpg
+  small: http://farm9.staticflickr.com/8653/15759438528_6eea9ac232_n.jpg
+  title: bandeira_sem terrinha_RN.jpg
+  "$$hashKey": 29W
+- link: http://farm8.staticflickr.com/7574/15944909491_c37253a8a0_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7574/15944909491_c37253a8a0_t.jpg
+  medium: http://farm8.staticflickr.com/7574/15944909491_c37253a8a0_z.jpg
+  small: http://farm8.staticflickr.com/7574/15944909491_c37253a8a0_n.jpg
+  title: sem terrinha_RN.jpg
+  "$$hashKey": 29Z
 published: true
-images_hd: "http://farm8.staticflickr.com/7499/15946196602_489ce59637_n.jpg"
+images_hd: http://farm8.staticflickr.com/7499/15946196602_489ce59637_n.jpg
 
 ---
 <p><img alt="sem terrinha_RN.jpg" src="http://farm8.staticflickr.com/7574/15944909491_c37253a8a0_b.jpg" /></p>

@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/16254
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/guilherme-delgado.jpg
 video: ''
 tags:
-- assuntos: questão agrária
+- tag: questão agrária
 - tag: projeto popular
 type: 
 support_line: Para o economista Guilherme Delgado, “o pronunciamento da Igreja sobre

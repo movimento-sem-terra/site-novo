@@ -1,25 +1,27 @@
 ---
-date: "2014-12-09T17:17:08-02:00"
+date: '2014-12-09T17:17:08-02:00'
 tags:
-  - tag: mineração
-  - tag: conflitos
-  - tag: indígenas
-  - tag: direitos-humanos
-title: "Na América Latina, existem 211 conflitos causados pela mineração"
-support_line: "Em Brasília está acontecendo o encontro internacional “Igrejas e Mineração”, que reúne mais de 90 pessoas representando as comunidades atingidas por projetos de mineração em 12 países latino-americanos."
+- tag: mineração
+- tag: conflitos
+- tag: indígenas
+- tag: direitos-humanos
+title: Na América Latina, existem 211 conflitos causados pela mineração
+support_line: Em Brasília está acontecendo o encontro internacional “Igrejas e Mineração”,
+  que reúne mais de 90 pessoas representando as comunidades atingidas por projetos
+  de mineração em 12 países latino-americanos.
 menu: solidariedade
 label: interviews
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8590/15984710822_66fba68687_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8590/15984710822_66fba68687_t.jpg"
-    medium: "http://farm9.staticflickr.com/8590/15984710822_66fba68687_z.jpg"
-    small: "http://farm9.staticflickr.com/8590/15984710822_66fba68687_n.jpg"
-    title: mineradora.jpg
-    $$hashKey: "022"
-created_date: "2014-12-09T17:19:57-02:00"
+- link: http://farm9.staticflickr.com/8590/15984710822_66fba68687_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8590/15984710822_66fba68687_t.jpg
+  medium: http://farm9.staticflickr.com/8590/15984710822_66fba68687_z.jpg
+  small: http://farm9.staticflickr.com/8590/15984710822_66fba68687_n.jpg
+  title: mineradora.jpg
+  "$$hashKey": '022'
+created_date: '2014-12-09T17:19:57-02:00'
 published: true
-images_hd: "http://farm9.staticflickr.com/8590/15984710822_66fba68687_n.jpg"
+images_hd: http://farm9.staticflickr.com/8590/15984710822_66fba68687_n.jpg
 
 ---
 <p><em>Do Canal Ibase</em></p>

@@ -6,9 +6,9 @@ images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/fran�
   abre2.jpg
 video: ''
 tags:
-- congresso: '6'
-- assuntos: 6° congresso nacional
-- tipo de matéria: entrevistas
+- tag: '6'
+- tag: 6° congresso nacional
+- tag: entrevistas
 - tag: lutas e mobilizações
 type: news
 support_line: O filósofo analisa os motivos da crise global, o impacto das mobilizações

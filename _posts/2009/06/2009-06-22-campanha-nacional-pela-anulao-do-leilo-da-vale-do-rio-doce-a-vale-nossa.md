@@ -4,7 +4,7 @@ title: Campanha Nacional pela Anulação do Leilão da Vale do Rio Doce - A VALE
 legacy_url: http://www.mst.org.br/node/90
 images: ''
 video: ''
-tags: []
+tags: 
 type: 
 support_line: ''
 section: 

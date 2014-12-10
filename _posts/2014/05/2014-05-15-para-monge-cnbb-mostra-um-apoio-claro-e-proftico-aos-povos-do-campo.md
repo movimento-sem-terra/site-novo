@@ -6,8 +6,8 @@ images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/marce
   barros.jpg
 video: ''
 tags:
-- assuntos: questão agrária
-- tipo de matéria: entrevistas
+- tag: questão agrária
+- tag: entrevistas
 - tag: reforma agrária
 type: news
 support_line: Confira a entrevista com o monge Benedito Marcelo Barros sobre o documento

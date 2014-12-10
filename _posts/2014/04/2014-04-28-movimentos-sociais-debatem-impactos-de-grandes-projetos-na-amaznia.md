@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16014
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/mi!!!!.jpg
 video: ''
 tags:
-- localização: amazônia
-- assuntos: mineração
+- tag: amazônia
+- tag: mineração
 - tag: lutas e mobilizações
 type: news
 support_line: Movimentos de diversas áreas realizam o Seminário Internacional Carajás

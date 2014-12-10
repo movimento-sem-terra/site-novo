@@ -5,9 +5,9 @@ legacy_url: http://www.mst.org.br/node/16041
 images: ''
 video: ''
 tags:
-- destaque: manchete
-- localização: são paulo
-- assuntos: jornada de lutas abril 2014
+- tag: manchete
+- tag: são paulo
+- tag: jornada de lutas abril 2014
 - tag: lutas e mobilizações
 type: news
 support_line: Neste mês de maio, o acampamento Alexandra Kollontai completa seis anos.

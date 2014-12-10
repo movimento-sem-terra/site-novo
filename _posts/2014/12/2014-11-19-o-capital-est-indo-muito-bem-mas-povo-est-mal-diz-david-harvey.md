@@ -1,24 +1,26 @@
 ---
-date: "2014-11-19T16:43:18-02:00"
+date: '2014-11-19T16:43:18-02:00'
 tags:
-  - tag: David-Harley
-  - tag: Economia
-  - tag: Especulação-imobiliária
+- tag: David-Harley
+- tag: Economia
+- tag: Especulação-imobiliária
 title: "“O capital está indo muito bem, mas povo está mal”, diz David Harvey"
 hat: Economia política
 menu: solidariedade
-support_line: "Conhecido pelas suas análises das dinâmicas do capital, Harvey falou sobre a forma como a construção do capital interfere no âmbito econômico e na insatisfação social. As manifestações ocorridas no Brasil, em junho de 2013, refletem isso."
+support_line: Conhecido pelas suas análises das dinâmicas do capital, Harvey falou
+  sobre a forma como a construção do capital interfere no âmbito econômico e na insatisfação
+  social. As manifestações ocorridas no Brasil, em junho de 2013, refletem isso.
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8653/15953090082_6615a74a6b_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8653/15953090082_6615a74a6b_t.jpg"
-    medium: "http://farm9.staticflickr.com/8653/15953090082_6615a74a6b_z.jpg"
-    small: "http://farm9.staticflickr.com/8653/15953090082_6615a74a6b_n.jpg"
-    title: david harvey.jpg
-    $$hashKey: 01W
-created_date: "2014-12-05T17:11:08-02:00"
+- link: http://farm9.staticflickr.com/8653/15953090082_6615a74a6b_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8653/15953090082_6615a74a6b_t.jpg
+  medium: http://farm9.staticflickr.com/8653/15953090082_6615a74a6b_z.jpg
+  small: http://farm9.staticflickr.com/8653/15953090082_6615a74a6b_n.jpg
+  title: david harvey.jpg
+  "$$hashKey": 01W
+created_date: '2014-12-05T17:11:08-02:00'
 published: true
-images_hd: "http://farm9.staticflickr.com/8653/15953090082_6615a74a6b_n.jpg"
+images_hd: http://farm9.staticflickr.com/8653/15953090082_6615a74a6b_n.jpg
 
 ---
 <p><img alt="david harvey.jpg" src="http://farm9.staticflickr.com/8653/15953090082_6615a74a6b_b.jpg" /><br />

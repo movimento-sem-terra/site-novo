@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15927
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/escravo.jpg
 video: ''
 tags:
-- assuntos: trabalho escravo
+- tag: trabalho escravo
 - tag: direitos humanos
 type: news
 support_line: Proposta precisa ser votada em dois turnos na Casa e teve relatório

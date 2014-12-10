@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16270
 images: http://www.mst.org.br/sites/default/files/ato_plebiscitoII_0.jpg
 video: ''
 tags:
-- destaque: manchete
-- assuntos: plebiscito constituinte
+- tag: manchete
+- tag: plebiscito constituinte
 - tag: projeto popular
 type: 
 support_line: As ações, que aconteceram em 14 estados, tiveram como objetivo chamar

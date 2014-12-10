@@ -6,8 +6,8 @@ images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/curso
   mil!.jpg
 video: ''
 tags:
-- localização: são paulo
-- assuntos: plebiscito constituinte
+- tag: são paulo
+- tag: plebiscito constituinte
 - tag: projeto popular
 type: news
 support_line: Primeiro de caráter massivo, curso de formação reúne mais de mil pessoas

@@ -6,10 +6,10 @@ legacy_url: http://www.mst.org.br/node/15753
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/congresso_talles!.jpg
 video: ''
 tags:
-- destaque: manchete
-- congresso: '6'
-- assuntos: 6° congresso nacional
-- tipo de matéria: entrevistas
+- tag: manchete
+- tag: '6'
+- tag: 6° congresso nacional
+- tag: entrevistas
 - tag: reforma agrária
 type: news
 support_line: Em entrevista Alexandre Conceição, da coordenação nacional do MST, avalia

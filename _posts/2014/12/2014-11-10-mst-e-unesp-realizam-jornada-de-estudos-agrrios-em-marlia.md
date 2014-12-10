@@ -1,23 +1,24 @@
 ---
-date: "2014-11-10T13:37:54-02:00"
+date: '2014-11-10T13:37:54-02:00'
 tags:
-  - tag: São-Paulo
-  - tag: Questão-Agrária
-  - tag: Formação
+- tag: São-Paulo
+- tag: Questão-Agrária
+- tag: Formação
 title: MST e Unesp realizam Jornada de Estudos Agrários em Marília
-support_line: "Entre os dias 17 e 19 de novembro, a Unesp sedia a Jornada de Estudos Agrários: Territórios e Movimentos Sociais no Brasil Contemporâneo."
-menu: "educação, cultura e comunicação"
+support_line: 'Entre os dias 17 e 19 de novembro, a Unesp sedia a Jornada de Estudos
+  Agrários: Territórios e Movimentos Sociais no Brasil Contemporâneo.'
+menu: educação, cultura e comunicação
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7545/15767005507_a9c31d8479_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7545/15767005507_a9c31d8479_t.jpg"
-    medium: "http://farm8.staticflickr.com/7545/15767005507_a9c31d8479_z.jpg"
-    small: "http://farm8.staticflickr.com/7545/15767005507_a9c31d8479_n.jpg"
-    title: bdf.gif
-    $$hashKey: 2L5
-created_date: "2014-12-05T13:39:52-02:00"
+- link: http://farm8.staticflickr.com/7545/15767005507_a9c31d8479_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7545/15767005507_a9c31d8479_t.jpg
+  medium: http://farm8.staticflickr.com/7545/15767005507_a9c31d8479_z.jpg
+  small: http://farm8.staticflickr.com/7545/15767005507_a9c31d8479_n.jpg
+  title: bdf.gif
+  "$$hashKey": 2L5
+created_date: '2014-12-05T13:39:52-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7545/15767005507_a9c31d8479_n.jpg"
+images_hd: http://farm8.staticflickr.com/7545/15767005507_a9c31d8479_n.jpg
 
 ---
 <div id="content-header">

@@ -6,8 +6,8 @@ images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/anhto
   marcos.jpg
 video: ''
 tags:
-- localização: rio de janeiro
-- assuntos: reforma agrária
+- tag: rio de janeiro
+- tag: reforma agrária
 - tag: lutas e mobilizações
 type: news
 support_line: A iniciativa teve como objetivo pressionar o governo a realizar a desapropriação

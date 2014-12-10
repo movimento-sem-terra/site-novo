@@ -1,22 +1,23 @@
 ---
-date: "2014-11-22T14:49:14-02:00"
+date: '2014-11-22T14:49:14-02:00'
 tags:
-  - tag: ocupação
-  - tag: despejo
-  - tag: reforma-agrária
+- tag: ocupação
+- tag: despejo
+- tag: reforma-agrária
 title: Despejo na fazenda do senador Eunício de Oliveira é suspenso pela Justiça
-support_line: O senador Eunício Oliveira mantém um latifúndio improdutivo de mais de 20 mil hectares.
+support_line: O senador Eunício Oliveira mantém um latifúndio improdutivo de mais
+  de 20 mil hectares.
 menu: lutas e mobilizações
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8616/15945674082_07abcb0c34_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8616/15945674082_07abcb0c34_t.jpg"
-    medium: "http://farm9.staticflickr.com/8616/15945674082_07abcb0c34_z.jpg"
-    small: "http://farm9.staticflickr.com/8616/15945674082_07abcb0c34_n.jpg"
-    title: Índice.jpg
-    $$hashKey: 0EM
+- link: http://farm9.staticflickr.com/8616/15945674082_07abcb0c34_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8616/15945674082_07abcb0c34_t.jpg
+  medium: http://farm9.staticflickr.com/8616/15945674082_07abcb0c34_z.jpg
+  small: http://farm9.staticflickr.com/8616/15945674082_07abcb0c34_n.jpg
+  title: "Índice.jpg"
+  "$$hashKey": 0EM
 published: true
-images_hd: "http://farm9.staticflickr.com/8616/15945674082_07abcb0c34_n.jpg"
+images_hd: http://farm9.staticflickr.com/8616/15945674082_07abcb0c34_n.jpg
 
 ---
 <div><em>Da P&aacute;gina do MST</em></div>

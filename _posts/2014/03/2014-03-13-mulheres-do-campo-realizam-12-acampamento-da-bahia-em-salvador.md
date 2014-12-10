@@ -6,8 +6,8 @@ images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/Mulhe
   2014_ BAhia!.jpg
 video: ''
 tags:
-- localização: bahia
-- assuntos: jornada de luta das mulheres 2014
+- tag: bahia
+- tag: jornada de luta das mulheres 2014
 - tag: lutas e mobilizações
 type: news
 support_line: Cerca de 700 Sem Terra, agricultoras,  quilombolas, indígenas e desempregadas

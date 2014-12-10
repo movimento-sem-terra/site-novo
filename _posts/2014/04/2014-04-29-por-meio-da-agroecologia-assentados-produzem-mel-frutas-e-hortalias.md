@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16028
 images: ''
 video: PrTjeCqnpp0
 tags:
-- assuntos: produção
-- destaque: destaque
+- tag: produção
+- tag: destaque
 - tag: agricultura camponesa
 type: video
 support_line: ''

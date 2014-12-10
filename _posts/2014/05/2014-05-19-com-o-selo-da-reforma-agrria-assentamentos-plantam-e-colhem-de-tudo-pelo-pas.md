@@ -6,8 +6,8 @@ legacy_url: http://www.mst.org.br/node/16120
 images: http://www.mst.org.br/sites/default/files/materia_itapeva.jpg
 video: ''
 tags:
-- destaque: manchete
-- assuntos: agricultura camponesa
+- tag: manchete
+- tag: agricultura camponesa
 - tag: reforma agrária
 type: news
 support_line: A dificuldade maior é fazer a produção chegar a mesa do consumidor,

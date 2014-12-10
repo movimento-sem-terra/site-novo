@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15905
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/mon!.jpg
 video: ''
 tags:
-- localização: chile
-- assuntos: transgênicos
+- tag: chile
+- tag: transgênicos
 - tag: transgênicos
 type: news
 support_line: A lei facilitaria a apropriação de sementes locais por parte de empresas,

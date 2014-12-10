@@ -1,21 +1,22 @@
 ---
-date: "2014-10-30T17:03:50-02:00"
+date: '2014-10-30T17:03:50-02:00'
 tags:
-  - tag: Papa-Francisco
-title: "Ignacio Ramonet: o dia histórico em que o Papa se reuniu com os movimentos"
-support_line: "\"Fazia muito tempo que um Papa não pronunciava um discurso tão social, tão “progressista” sobre um tema, os pobres\",  escreve Ignacio Ramonet."
+- tag: Papa-Francisco
+title: 'Ignacio Ramonet: o dia histórico em que o Papa se reuniu com os movimentos'
+support_line: '"Fazia muito tempo que um Papa não pronunciava um discurso tão social,
+  tão “progressista” sobre um tema, os pobres",  escreve Ignacio Ramonet.'
 menu: projeto popular
 label: articles
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7491/15945138361_cd24cf3c36_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7491/15945138361_cd24cf3c36_t.jpg"
-    medium: "http://farm8.staticflickr.com/7491/15945138361_cd24cf3c36_z.jpg"
-    small: "http://farm8.staticflickr.com/7491/15945138361_cd24cf3c36_n.jpg"
-    title: papa_movimentosII.jpg
-    $$hashKey: BUL
+- link: http://farm8.staticflickr.com/7491/15945138361_cd24cf3c36_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7491/15945138361_cd24cf3c36_t.jpg
+  medium: http://farm8.staticflickr.com/7491/15945138361_cd24cf3c36_z.jpg
+  small: http://farm8.staticflickr.com/7491/15945138361_cd24cf3c36_n.jpg
+  title: papa_movimentosII.jpg
+  "$$hashKey": BUL
 published: true
-images_hd: "http://farm8.staticflickr.com/7491/15945138361_cd24cf3c36_n.jpg"
+images_hd: http://farm8.staticflickr.com/7491/15945138361_cd24cf3c36_n.jpg
 
 ---
 <div id="content-header">

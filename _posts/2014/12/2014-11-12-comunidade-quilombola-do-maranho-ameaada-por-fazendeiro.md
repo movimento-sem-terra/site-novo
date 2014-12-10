@@ -1,24 +1,25 @@
 ---
-date: "2014-11-12T13:54:14-02:00"
+date: '2014-11-12T13:54:14-02:00'
 tags:
-  - tag: quilombola
-  - tag: ameaça
-  - tag: conflito
-  - tag: terras
+- tag: quilombola
+- tag: ameaça
+- tag: conflito
+- tag: terras
 title: Comunidade quilombola do Maranhão é ameaçada por fazendeiro
-support_line: "O fazendeiro disse aos quilombolas que pretendia tomar as terras, que pertenciam a ele, e que \"isso poderia até mesmo resultar em mortes”."
+support_line: O fazendeiro disse aos quilombolas que pretendia tomar as terras, que
+  pertenciam a ele, e que "isso poderia até mesmo resultar em mortes”.
 menu: lutas e mobilizações
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7549/15927048376_4878339ccd_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7549/15927048376_4878339ccd_t.jpg"
-    medium: "http://farm8.staticflickr.com/7549/15927048376_4878339ccd_z.jpg"
-    small: "http://farm8.staticflickr.com/7549/15927048376_4878339ccd_n.jpg"
-    title: 1611_quilombolas70700.jpg
-    $$hashKey: 5LY
-created_date: "2014-12-05T13:59:03-02:00"
+- link: http://farm8.staticflickr.com/7549/15927048376_4878339ccd_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7549/15927048376_4878339ccd_t.jpg
+  medium: http://farm8.staticflickr.com/7549/15927048376_4878339ccd_z.jpg
+  small: http://farm8.staticflickr.com/7549/15927048376_4878339ccd_n.jpg
+  title: 1611_quilombolas70700.jpg
+  "$$hashKey": 5LY
+created_date: '2014-12-05T13:59:03-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7549/15927048376_4878339ccd_n.jpg"
+images_hd: http://farm8.staticflickr.com/7549/15927048376_4878339ccd_n.jpg
 
 ---
 <p><em>Da&nbsp;Anistia Internacional</em><br />

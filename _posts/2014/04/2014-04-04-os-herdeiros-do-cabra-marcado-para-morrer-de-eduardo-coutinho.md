@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15925
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/Elisabeth-com-Coutinho-e-o-filho-Carlos-e-em-foto-de-1964_divulgação.JPG
 video: ''
 tags:
-- assuntos: cultura
+- tag: cultura
 - tag: educação, cultura e comunicação
 type: news
 support_line: Meses antes de morrer de forma trágica, Eduardo Coutinho registrou novos

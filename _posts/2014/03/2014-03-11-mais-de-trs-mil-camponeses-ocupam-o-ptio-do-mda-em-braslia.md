@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15823
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/mcp.jpg
 video: ''
 tags:
-- localização: brasília
-- assuntos: mobilização
+- tag: brasília
+- tag: mobilização
 - tag: lutas e mobilizações
 type: news
 support_line: A atividade integra a “Jornada de Luta em Defesa da Produção de  Alimentos

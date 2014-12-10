@@ -5,9 +5,9 @@ legacy_url: http://www.mst.org.br/node/15944
 images: ''
 video: ''
 tags:
-- destaque: manchete
-- assuntos: jornada de lutas abril 2014
-- tipo de matéria: entrevistas
+- tag: manchete
+- tag: jornada de lutas abril 2014
+- tag: entrevistas
 - tag: lutas e mobilizações
 type: news
 support_line: Em entrevista, professora Crsitina Bezerra discute a importância do

@@ -1,27 +1,28 @@
 ---
-date: "2014-10-21T11:41:43-02:00"
+date: '2014-10-21T11:41:43-02:00'
 tags:
-  - tag: Jornada-Sem-Terrinha-2014
-  - tag: São-Paulo
+- tag: Jornada-Sem-Terrinha-2014
+- tag: São-Paulo
 title: São Paulo realiza o 8° Encontro Regional dos Sem Terrinha na ENFF
-support_line: "A Escola Nacional Florestan Fernandes, em Guararema (SP) se encheu de gritos, risadas e muita festa com a presença de cerca de 150 crianças e 60 educadores."
-menu: "educação, cultura e comunicação"
+support_line: A Escola Nacional Florestan Fernandes, em Guararema (SP) se encheu de
+  gritos, risadas e muita festa com a presença de cerca de 150 crianças e 60 educadores.
+menu: educação, cultura e comunicação
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7542/15759499667_19fc552540_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7542/15759499667_19fc552540_t.jpg"
-    medium: "http://farm8.staticflickr.com/7542/15759499667_19fc552540_z.jpg"
-    small: "http://farm8.staticflickr.com/7542/15759499667_19fc552540_n.jpg"
-    title: semterrinhasp.jpg
-    $$hashKey: 2YG
-  - link: "http://farm9.staticflickr.com/8636/15944582612_e27aa9c5d6_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8636/15944582612_e27aa9c5d6_t.jpg"
-    medium: "http://farm9.staticflickr.com/8636/15944582612_e27aa9c5d6_z.jpg"
-    small: "http://farm9.staticflickr.com/8636/15944582612_e27aa9c5d6_n.jpg"
-    title: semterrinhaspII.jpg
-    $$hashKey: 2YJ
+- link: http://farm8.staticflickr.com/7542/15759499667_19fc552540_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7542/15759499667_19fc552540_t.jpg
+  medium: http://farm8.staticflickr.com/7542/15759499667_19fc552540_z.jpg
+  small: http://farm8.staticflickr.com/7542/15759499667_19fc552540_n.jpg
+  title: semterrinhasp.jpg
+  "$$hashKey": 2YG
+- link: http://farm9.staticflickr.com/8636/15944582612_e27aa9c5d6_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8636/15944582612_e27aa9c5d6_t.jpg
+  medium: http://farm9.staticflickr.com/8636/15944582612_e27aa9c5d6_z.jpg
+  small: http://farm9.staticflickr.com/8636/15944582612_e27aa9c5d6_n.jpg
+  title: semterrinhaspII.jpg
+  "$$hashKey": 2YJ
 published: true
-images_hd: "http://farm8.staticflickr.com/7542/15759499667_19fc552540_n.jpg"
+images_hd: http://farm8.staticflickr.com/7542/15759499667_19fc552540_n.jpg
 
 ---
 <p><img alt="semterrinhasp.jpg" src="http://farm8.staticflickr.com/7542/15759499667_19fc552540_b.jpg" /></p>

@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15761
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/congresso-nacional-lei-antiterrorismo-2!.jpg
 video: ''
 tags:
-- assuntos: direitos humanos
+- tag: direitos humanos
 - tag: direitos humanos
 type: news
 support_line: Diante da ofensiva para a aprovação do o Projeto da Lei Antiterrorismo,

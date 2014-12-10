@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/16051
 images: ''
 video: ''
 tags:
-- destaque: manchete
+- tag: manchete
 - tag: lutadores e lutadoras do povo
 type: 
 support_line: 'Calou-se a voz de Tomás Balduíno, nessa noite de 2 de maio. Uma voz

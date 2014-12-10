@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15841
 images: ''
 video: ''
 tags:
-- assuntos: reforma agrária
-- semana: tema da semana
+- tag: reforma agrária
+- tag: tema da semana
 - tag: reforma agrária
 type: news
 support_line: Antes de seguir para o palanque, Jango assinou o decreto que autorizava

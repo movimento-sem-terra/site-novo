@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15902
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/capital.jpg
 video: ''
 tags:
-- assuntos: agronegócio
+- tag: agronegócio
 - tag: agronegócio
 type: news
 support_line: Os bancos são os principais especuladores nos mercados de comércio direto

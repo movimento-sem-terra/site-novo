@@ -1,21 +1,23 @@
 ---
-date: "2014-12-03T16:45:44-02:00"
+date: '2014-12-03T16:45:44-02:00'
 tags:
-  - tag: COP20
+- tag: COP20
 title: Organizações de todo o mundo lançam manifesto contra nova política ambiental
-support_line: "A carta foi escrita na semana em que se inicia a 20ª conferência do clima da ONU, COP 20, realizada em Lima, no Peru. A COP-20 começou no dia 1º, em Lima, capital peruana, e se estenderá até o próximo dia 12."
+support_line: A carta foi escrita na semana em que se inicia a 20ª conferência do
+  clima da ONU, COP 20, realizada em Lima, no Peru. A COP-20 começou no dia 1º, em
+  Lima, capital peruana, e se estenderá até o próximo dia 12.
 menu: meio ambiente
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7535/15975567071_aa8ba21412_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7535/15975567071_aa8ba21412_t.jpg"
-    medium: "http://farm8.staticflickr.com/7535/15975567071_aa8ba21412_z.jpg"
-    small: "http://farm8.staticflickr.com/7535/15975567071_aa8ba21412_n.jpg"
-    title: cop20.jpg
-    $$hashKey: 3WL
-created_date: "2014-12-08T16:46:52-02:00"
+- link: http://farm8.staticflickr.com/7535/15975567071_aa8ba21412_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7535/15975567071_aa8ba21412_t.jpg
+  medium: http://farm8.staticflickr.com/7535/15975567071_aa8ba21412_z.jpg
+  small: http://farm8.staticflickr.com/7535/15975567071_aa8ba21412_n.jpg
+  title: cop20.jpg
+  "$$hashKey": 3WL
+created_date: '2014-12-08T16:46:52-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7535/15975567071_aa8ba21412_n.jpg"
+images_hd: http://farm8.staticflickr.com/7535/15975567071_aa8ba21412_n.jpg
 
 ---
 <p><img alt="cop20.jpg" src="http://farm8.staticflickr.com/7535/15975567071_aa8ba21412_b.jpg" /></p>

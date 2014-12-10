@@ -5,9 +5,9 @@ legacy_url: http://www.mst.org.br/node/16205
 images: ''
 video: ''
 tags:
-- destaque: manchete
-- localização: pará
-- assuntos: ocupação
+- tag: manchete
+- tag: pará
+- tag: ocupação
 - tag: direitos humanos
 type: news
 support_line: A afirmação de Eudério de que não enfrentará o latifúndio na região

@@ -6,8 +6,8 @@ images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/pales
   gislene hino 2!.jpg
 video: ''
 tags:
-- localização: sergipe
-- assuntos: mst 30 anos
+- tag: sergipe
+- tag: mst 30 anos
 - tag: lutas e mobilizações
 type: news
 support_line: Gislene Reis, da direção nacional do Movimento falou sobre as três décadas

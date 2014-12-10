@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15973
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/jornada_AL.jpg
 video: ''
 tags:
-- localização: alagoas
-- assuntos: jornada de lutas abril 2014
+- tag: alagoas
+- tag: jornada de lutas abril 2014
 - tag: lutas e mobilizações
 type: news
 support_line: Cerca de 800 trabalhadores bloqueiam o acesso ao canteiro de obras do

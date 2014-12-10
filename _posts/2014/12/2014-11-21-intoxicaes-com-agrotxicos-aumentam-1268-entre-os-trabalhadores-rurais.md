@@ -1,20 +1,21 @@
 ---
-date: "2014-10-21T11:55:15-02:00"
+date: '2014-10-21T11:55:15-02:00'
 tags:
-  - tag: Agrotóxicos
-title: "Intoxicações com agrotóxicos aumentam 126,8% entre os trabalhadores rurais"
-support_line: "Entre 2007 e 2011 houve um crescimento de 67,4% novos casos de acidentes de trabalho devido aos agrotóxicos."
+- tag: Agrotóxicos
+title: Intoxicações com agrotóxicos aumentam 126,8% entre os trabalhadores rurais
+support_line: Entre 2007 e 2011 houve um crescimento de 67,4% novos casos de acidentes
+  de trabalho devido aos agrotóxicos.
 menu: agronegócio
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8679/15325647163_4e2dc97216_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8679/15325647163_4e2dc97216_t.jpg"
-    medium: "http://farm9.staticflickr.com/8679/15325647163_4e2dc97216_z.jpg"
-    small: "http://farm9.staticflickr.com/8679/15325647163_4e2dc97216_n.jpg"
-    title: agrotóxicos.jpg
-    $$hashKey: 3JL
+- link: http://farm9.staticflickr.com/8679/15325647163_4e2dc97216_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8679/15325647163_4e2dc97216_t.jpg
+  medium: http://farm9.staticflickr.com/8679/15325647163_4e2dc97216_z.jpg
+  small: http://farm9.staticflickr.com/8679/15325647163_4e2dc97216_n.jpg
+  title: agrotóxicos.jpg
+  "$$hashKey": 3JL
 published: true
-images_hd: "http://farm9.staticflickr.com/8679/15325647163_4e2dc97216_n.jpg"
+images_hd: http://farm9.staticflickr.com/8679/15325647163_4e2dc97216_n.jpg
 
 ---
 <div id="content-header">

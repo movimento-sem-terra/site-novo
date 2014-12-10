@@ -1,24 +1,25 @@
 ---
-date: "2014-11-24T16:11:20-02:00"
+date: '2014-11-24T16:11:20-02:00'
 tags:
-  - tag: seminário
-  - tag: produção
-  - tag: consumo
-  - tag: Reforma-Agrária
+- tag: seminário
+- tag: produção
+- tag: consumo
+- tag: Reforma-Agrária
 title: Seminário sobre produção de alimentos está disponível em vídeo
-support_line: "Entre os principais assuntos, destacaram-se os alimentos transgênicos, agrotóxicos, as multinacionais"
+support_line: Entre os principais assuntos, destacaram-se os alimentos transgênicos,
+  agrotóxicos, as multinacionais
 menu: agricultura camponesa
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7556/15953631595_36894716cd_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7556/15953631595_36894716cd_t.jpg"
-    medium: "http://farm8.staticflickr.com/7556/15953631595_36894716cd_z.jpg"
-    small: "http://farm8.staticflickr.com/7556/15953631595_36894716cd_n.jpg"
-    title: release_palestrantes (1).jpg
-    $$hashKey: 28C
-created_date: "2014-12-05T16:21:51-02:00"
+- link: http://farm8.staticflickr.com/7556/15953631595_36894716cd_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7556/15953631595_36894716cd_t.jpg
+  medium: http://farm8.staticflickr.com/7556/15953631595_36894716cd_z.jpg
+  small: http://farm8.staticflickr.com/7556/15953631595_36894716cd_n.jpg
+  title: release_palestrantes (1).jpg
+  "$$hashKey": 28C
+created_date: '2014-12-05T16:21:51-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7556/15953631595_36894716cd_n.jpg"
+images_hd: http://farm8.staticflickr.com/7556/15953631595_36894716cd_n.jpg
 
 ---
 <p><img alt="release_palestrantes (1).jpg" src="http://farm8.staticflickr.com/7556/15953631595_36894716cd_b.jpg" /></p>

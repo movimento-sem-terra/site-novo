@@ -6,8 +6,8 @@ images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/justi
   social!.jpg
 video: ''
 tags:
-- localização: são paulo
-- assuntos: reforma agrária
+- tag: são paulo
+- tag: reforma agrária
 - tag: reforma agrária
 type: news
 support_line: As 450 famílias Sem Terra que ocupam a área, organizadas pelo MST, esperam

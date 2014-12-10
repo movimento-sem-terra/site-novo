@@ -1,30 +1,31 @@
 ---
-date: "2014-12-01T11:17:08-02:00"
+date: '2014-12-01T11:17:08-02:00'
 tags:
-  - tag: mineroduto
-  - tag: água
-  - tag: Samarco
-  - tag: ecossistema
+- tag: mineroduto
+- tag: "água"
+- tag: Samarco
+- tag: ecossistema
 title: A ofensiva das mineradoras sobre as águas de Minas Gerais
-support_line: Como grandes empresas estão desviando recursos hídricos para minerodutos – sem que a sociedade saiba que são e a quem servem.
+support_line: Como grandes empresas estão desviando recursos hídricos para minerodutos
+  – sem que a sociedade saiba que são e a quem servem.
 menu: meio ambiente
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7492/15766269287_68e64b1753_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7492/15766269287_68e64b1753_t.jpg"
-    medium: "http://farm8.staticflickr.com/7492/15766269287_68e64b1753_z.jpg"
-    small: "http://farm8.staticflickr.com/7492/15766269287_68e64b1753_n.jpg"
-    title: Mineroduto1-485x323.jpg
-    $$hashKey: 0NX
-  - link: "http://farm9.staticflickr.com/8631/15764718100_ef8bc92218_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8631/15764718100_ef8bc92218_t.jpg"
-    medium: "http://farm9.staticflickr.com/8631/15764718100_ef8bc92218_z.jpg"
-    small: "http://farm9.staticflickr.com/8631/15764718100_ef8bc92218_n.jpg"
-    title: Mineroduto3.jpg
-    $$hashKey: 0O0
-created_date: "2014-12-05T11:22:33-02:00"
+- link: http://farm8.staticflickr.com/7492/15766269287_68e64b1753_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7492/15766269287_68e64b1753_t.jpg
+  medium: http://farm8.staticflickr.com/7492/15766269287_68e64b1753_z.jpg
+  small: http://farm8.staticflickr.com/7492/15766269287_68e64b1753_n.jpg
+  title: Mineroduto1-485x323.jpg
+  "$$hashKey": 0NX
+- link: http://farm9.staticflickr.com/8631/15764718100_ef8bc92218_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8631/15764718100_ef8bc92218_t.jpg
+  medium: http://farm9.staticflickr.com/8631/15764718100_ef8bc92218_z.jpg
+  small: http://farm9.staticflickr.com/8631/15764718100_ef8bc92218_n.jpg
+  title: Mineroduto3.jpg
+  "$$hashKey": 0O0
+created_date: '2014-12-05T11:22:33-02:00'
 published: true
-images_hd: "http://farm9.staticflickr.com/8631/15764718100_ef8bc92218_n.jpg"
+images_hd: http://farm9.staticflickr.com/8631/15764718100_ef8bc92218_n.jpg
 section: featured-news
 
 ---

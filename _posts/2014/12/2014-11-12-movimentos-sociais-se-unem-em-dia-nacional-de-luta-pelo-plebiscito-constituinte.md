@@ -1,23 +1,25 @@
 ---
-date: "2014-11-12T13:50:17-02:00"
+date: '2014-11-12T13:50:17-02:00'
 tags:
-  - tag: Constituinte
-  - tag: reforma-política
-  - tag: plebiscito
+- tag: Constituinte
+- tag: reforma-política
+- tag: plebiscito
 title: Movimentos sociais se unem em Dia Nacional de Luta pelo Plebiscito Constituinte
-support_line: "Nesta quinta-feira (13), ao menos 15 estados do país realizam mobilizações pela Constituinte. Em São Paulo, diversas organizações se unficam em marcha pelo centro da cidade."
+support_line: Nesta quinta-feira (13), ao menos 15 estados do país realizam mobilizações
+  pela Constituinte. Em São Paulo, diversas organizações se unficam em marcha pelo
+  centro da cidade.
 menu: projeto popular
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8631/15766781729_4eb38da879_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8631/15766781729_4eb38da879_t.jpg"
-    medium: "http://farm9.staticflickr.com/8631/15766781729_4eb38da879_z.jpg"
-    small: "http://farm9.staticflickr.com/8631/15766781729_4eb38da879_n.jpg"
-    title: 2014_11_plebiscito_interno_legenda1.jpg
-    $$hashKey: 54I
-created_date: "2014-12-05T13:54:10-02:00"
+- link: http://farm9.staticflickr.com/8631/15766781729_4eb38da879_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8631/15766781729_4eb38da879_t.jpg
+  medium: http://farm9.staticflickr.com/8631/15766781729_4eb38da879_z.jpg
+  small: http://farm9.staticflickr.com/8631/15766781729_4eb38da879_n.jpg
+  title: 2014_11_plebiscito_interno_legenda1.jpg
+  "$$hashKey": 54I
+created_date: '2014-12-05T13:54:10-02:00'
 published: true
-images_hd: "http://farm9.staticflickr.com/8631/15766781729_4eb38da879_n.jpg"
+images_hd: http://farm9.staticflickr.com/8631/15766781729_4eb38da879_n.jpg
 
 ---
 <p><em>Da P&aacute;gina do MST</em></p>

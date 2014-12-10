@@ -6,7 +6,7 @@ images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/banca
   ruralista!!!.jpg
 video: ''
 tags:
-- assuntos: questão agrária
+- tag: questão agrária
 - tag: direitos humanos
 type: news
 support_line: Para eles o Judiciário não  pode trabalhar para resolver conflitos por

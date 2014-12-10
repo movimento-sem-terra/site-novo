@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15975
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/formação_lagoinha!.jpg
 video: ''
 tags:
-- localização: são paulo
-- assuntos: reforma agrária
+- tag: são paulo
+- tag: reforma agrária
 - tag: reforma agrária
 type: news
 support_line: Uma semana após a conquista da Fazenda Bela Vista, no município de Lagoinha,

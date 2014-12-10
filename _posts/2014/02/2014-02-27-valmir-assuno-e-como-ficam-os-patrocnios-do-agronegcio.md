@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15776
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/charge-latuff-agro_comendo!.jpg
 video: ''
 tags:
-- assuntos: agronegócio
+- tag: agronegócio
 - tag: agronegócio
 type: news
 support_line: 'Há pelo menos 10 anos a ladainha é a mesma: trabalhador não pode  recorrer

@@ -6,7 +6,7 @@ images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/pobre
   rural!.jpg
 video: ''
 tags:
-- assuntos: reforma agrária
+- tag: reforma agrária
 - tag: reforma agrária
 type: news
 support_line: "“É  preciso entender a política agrária que acontece no país,  pois

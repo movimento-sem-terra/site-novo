@@ -1,34 +1,35 @@
 ---
-date: "2014-11-26T17:51:11-02:00"
+date: '2014-11-26T17:51:11-02:00'
 tags:
-  - tag: direitos-humanos
-  - tag: sao-paulo
-title: "Depois de incêndio, famílias lutam para retomar produção no assentamento"
-support_line: "Todas as 63 famílias foram atingidas pelo incêndio que aconteceu há um mês, no Assentamento Dom Tomás Balduino, próximo à cidade de São Paulo."
+- tag: direitos-humanos
+- tag: sao-paulo
+title: Depois de incêndio, famílias lutam para retomar produção no assentamento
+support_line: Todas as 63 famílias foram atingidas pelo incêndio que aconteceu há
+  um mês, no Assentamento Dom Tomás Balduino, próximo à cidade de São Paulo.
 menu: direitos humanos
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7547/15312953303_88f2a5c417_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7547/15312953303_88f2a5c417_t.jpg"
-    medium: "http://farm8.staticflickr.com/7547/15312953303_88f2a5c417_z.jpg"
-    small: "http://farm8.staticflickr.com/7547/15312953303_88f2a5c417_n.jpg"
-    title: "incêndio_domtomás!.jpg"
-    $$hashKey: 0XZ
-  - link: "http://farm8.staticflickr.com/7577/15906798616_a9b4883873_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7577/15906798616_a9b4883873_t.jpg"
-    medium: "http://farm8.staticflickr.com/7577/15906798616_a9b4883873_z.jpg"
-    small: "http://farm8.staticflickr.com/7577/15906798616_a9b4883873_n.jpg"
-    title: incendio_domtomas.jpg
-    $$hashKey: 0Y2
-  - link: "http://farm8.staticflickr.com/7565/15746576759_79b20c43aa_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7565/15746576759_79b20c43aa_t.jpg"
-    medium: "http://farm8.staticflickr.com/7565/15746576759_79b20c43aa_z.jpg"
-    small: "http://farm8.staticflickr.com/7565/15746576759_79b20c43aa_n.jpg"
-    title: incencio_domtomás_paco.jpg
-    $$hashKey: 0Y5
+- link: http://farm8.staticflickr.com/7547/15312953303_88f2a5c417_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7547/15312953303_88f2a5c417_t.jpg
+  medium: http://farm8.staticflickr.com/7547/15312953303_88f2a5c417_z.jpg
+  small: http://farm8.staticflickr.com/7547/15312953303_88f2a5c417_n.jpg
+  title: incêndio_domtomás!.jpg
+  "$$hashKey": 0XZ
+- link: http://farm8.staticflickr.com/7577/15906798616_a9b4883873_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7577/15906798616_a9b4883873_t.jpg
+  medium: http://farm8.staticflickr.com/7577/15906798616_a9b4883873_z.jpg
+  small: http://farm8.staticflickr.com/7577/15906798616_a9b4883873_n.jpg
+  title: incendio_domtomas.jpg
+  "$$hashKey": 0Y2
+- link: http://farm8.staticflickr.com/7565/15746576759_79b20c43aa_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7565/15746576759_79b20c43aa_t.jpg
+  medium: http://farm8.staticflickr.com/7565/15746576759_79b20c43aa_z.jpg
+  small: http://farm8.staticflickr.com/7565/15746576759_79b20c43aa_n.jpg
+  title: incencio_domtomás_paco.jpg
+  "$$hashKey": 0Y5
 published: true
-images_hd: "http://farm8.staticflickr.com/7547/15312953303_88f2a5c417_n.jpg"
-created_date: "2014-11-26 12:00"
+images_hd: http://farm8.staticflickr.com/7547/15312953303_88f2a5c417_n.jpg
+created_date: 2014-11-26 12:00
 
 ---
 <p style="margin: 0px; padding: 0px 0px 0.5em 8px; color: rgb(83, 93, 102); font-family: Arial, Verdana, Helvetica, sans-serif; font-size: 14px; line-height: 19.315168380737305px;"><img alt="incêndio_domtomás!.jpg" src="http://farm8.staticflickr.com/7547/15312953303_88f2a5c417_b.jpg" /></p>

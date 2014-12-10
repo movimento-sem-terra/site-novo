@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15868
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/jango1!.jpg
 video: ''
 tags:
-- semana: tema da semana
-- assuntos: reforma agrária
+- tag: tema da semana
+- tag: reforma agrária
 - tag: reforma agrária
 type: 
 support_line: Pesquisas do IBOPE feitas na época demonstram que a reforma agrária

@@ -1,22 +1,24 @@
 ---
-date: "2014-10-18T10:26:55-03:00"
+date: '2014-10-18T10:26:55-03:00'
 tags:
-  - tag: Feira-da-Reforma-Agrária
-  - tag: Produção
-  - tag: São-Paulo
-support_line: "Os Sem Terras comercializam a produção dos assentamentos de São Paulo, Rio Grande do Sul e Minas Gerais."
+- tag: Feira-da-Reforma-Agrária
+- tag: Produção
+- tag: São-Paulo
+support_line: Os Sem Terras comercializam a produção dos assentamentos de São Paulo,
+  Rio Grande do Sul e Minas Gerais.
 menu: agricultura camponesa
-title: MST participa da 1ª Feira de Produtos Orgânicos da Agricultura Familiar em SP
+title: MST participa da 1ª Feira de Produtos Orgânicos da Agricultura Familiar em
+  SP
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7542/15944831425_53df69b8c0_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7542/15944831425_53df69b8c0_t.jpg"
-    medium: "http://farm8.staticflickr.com/7542/15944831425_53df69b8c0_z.jpg"
-    small: "http://farm8.staticflickr.com/7542/15944831425_53df69b8c0_n.jpg"
-    title: feira_RA_Mercadao.jpg
-    $$hashKey: 0LH
+- link: http://farm8.staticflickr.com/7542/15944831425_53df69b8c0_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7542/15944831425_53df69b8c0_t.jpg
+  medium: http://farm8.staticflickr.com/7542/15944831425_53df69b8c0_z.jpg
+  small: http://farm8.staticflickr.com/7542/15944831425_53df69b8c0_n.jpg
+  title: feira_RA_Mercadao.jpg
+  "$$hashKey": 0LH
 published: true
-images_hd: "http://farm8.staticflickr.com/7542/15944831425_53df69b8c0_n.jpg"
+images_hd: http://farm8.staticflickr.com/7542/15944831425_53df69b8c0_n.jpg
 
 ---
 <div id="content-header">

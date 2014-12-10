@@ -7,8 +7,8 @@ images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/estru
   judiciário.jpg
 video: ''
 tags:
-- assuntos: conflitos no campo
-- tipo de matéria: artigos
+- tag: conflitos no campo
+- tag: artigos
 - tag: direitos humanos
 type: news
 support_line: Em artigo, Carlos Marés diz que o Poder  Judiciário, "tal como está

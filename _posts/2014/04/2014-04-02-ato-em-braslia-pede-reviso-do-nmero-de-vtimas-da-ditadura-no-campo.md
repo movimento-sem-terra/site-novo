@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15916
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/ato_ditadura!.jpg
 video: ''
 tags:
-- localização: brasília
-- assuntos: direitos humanos
+- tag: brasília
+- tag: direitos humanos
 - tag: direitos humanos
 type: news
 support_line: Movimentos pedem o reconhecimento dos 1196 camponeses assassinados entre

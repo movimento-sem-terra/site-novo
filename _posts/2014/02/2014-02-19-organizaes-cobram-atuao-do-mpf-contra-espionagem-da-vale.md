@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15750
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/vale.jpg
 video: ''
 tags:
-- assuntos: vale
+- tag: vale
 - tag: direitos humanos
 type: news
 support_line: "“Há um esquema privado que acessa banco de dados do governo federal

@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/16083
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/eu!.jpg
 video: ''
 tags:
-- assuntos: educação
+- tag: educação
 - tag: educação, cultura e comunicação
 type: news
 support_line: A Escola Nacional Florestan Fernandes (ENFF) foi palco do 3° Seminário

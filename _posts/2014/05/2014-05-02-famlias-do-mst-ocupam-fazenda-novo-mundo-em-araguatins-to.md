@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16045
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/Foto-7.jpg
 video: ''
 tags:
-- localização: tocantins
-- assuntos: jornada de lutas abril 2014
+- tag: tocantins
+- tag: jornada de lutas abril 2014
 - tag: lutas e mobilizações
 type: news
 support_line: A ação dos trabalhadores Sem Terra é uma resposta à morosidade do Incra,

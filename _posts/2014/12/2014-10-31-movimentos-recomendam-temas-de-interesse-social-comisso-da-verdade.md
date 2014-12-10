@@ -1,23 +1,25 @@
 ---
-date: "2014-10-31T11:06:57-02:00"
+date: '2014-10-31T11:06:57-02:00'
 tags:
-  - tag: Comissão-da-Verdade
-  - tag: Ditadura-Militar
+- tag: Comissão-da-Verdade
+- tag: Ditadura-Militar
 hat: Direitos Humanos
 title: Movimentos recomendam temas de interesse social à Comissão da Verdade
-support_line: "Em carta enviada à Comissão Nacional da Verdade, diversos movimentos sugeriram alguns elementos que consideram fundamentais \"para que a juventude sofra cada vez menos com a nefasta influência deixadas por anos tão sombrios\"."
+support_line: Em carta enviada à Comissão Nacional da Verdade, diversos movimentos
+  sugeriram alguns elementos que consideram fundamentais "para que a juventude sofra
+  cada vez menos com a nefasta influência deixadas por anos tão sombrios".
 menu: direitos humanos
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7527/15949989721_5ac6a09a09_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7527/15949989721_5ac6a09a09_t.jpg"
-    medium: "http://farm8.staticflickr.com/7527/15949989721_5ac6a09a09_z.jpg"
-    small: "http://farm8.staticflickr.com/7527/15949989721_5ac6a09a09_n.jpg"
-    title: levante-popular.gif
-    $$hashKey: 1OM
-created_date: "2014-12-05T11:09:46-02:00"
+- link: http://farm8.staticflickr.com/7527/15949989721_5ac6a09a09_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7527/15949989721_5ac6a09a09_t.jpg
+  medium: http://farm8.staticflickr.com/7527/15949989721_5ac6a09a09_z.jpg
+  small: http://farm8.staticflickr.com/7527/15949989721_5ac6a09a09_n.jpg
+  title: levante-popular.gif
+  "$$hashKey": 1OM
+created_date: '2014-12-05T11:09:46-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7527/15949989721_5ac6a09a09_n.jpg"
+images_hd: http://farm8.staticflickr.com/7527/15949989721_5ac6a09a09_n.jpg
 
 ---
 <p><em>Da P&aacute;gina do MST</em></p>

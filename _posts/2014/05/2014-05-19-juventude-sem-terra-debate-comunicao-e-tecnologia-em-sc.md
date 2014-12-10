@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16118
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/juventude_comunicação_SC!.jpg
 video: ''
 tags:
-- localização: santa catarina
-- assuntos: comunicação
+- tag: santa catarina
+- tag: comunicação
 - tag: educação, cultura e comunicação
 type: news
 support_line: Entre os dias 17 e 18 de maio, a juventude Sem Terra do estado de Santa

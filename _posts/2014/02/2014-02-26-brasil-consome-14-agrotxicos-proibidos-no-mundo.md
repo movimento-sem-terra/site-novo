@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15772
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/agrotoxico!.jpg
 video: ''
 tags:
-- assuntos: agrotóxicos
+- tag: agrotóxicos
 - tag: agronegócio
 type: news
 support_line: Especialista indica que pelo menos 30% de 20 alimentos analisados não

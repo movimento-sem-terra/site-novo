@@ -1,27 +1,28 @@
 ---
-date: "2014-11-03T11:12:12-02:00"
+date: '2014-11-03T11:12:12-02:00'
 tags:
-  - tag: Incra
-  - tag: Paraná
-  - tag: Edital
-  - tag: Assentamentos
-  - tag: Mobilizações
-  - tag: Araupel
+- tag: Incra
+- tag: Paraná
+- tag: Edital
+- tag: Assentamentos
+- tag: Mobilizações
+- tag: Araupel
 title: Luta pela terra no PR faz Incra lançar edital para compra de áreas ocupadas
 hat: Luta
-support_line: "O objetivo desse edital é distensionar a disputa de terras na região,  que conta com seis mil famílias acampadas."
+support_line: O objetivo desse edital é distensionar a disputa de terras na região,  que
+  conta com seis mil famílias acampadas.
 menu: lutas e mobilizações
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7461/15926189226_d6ee80d93e_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7461/15926189226_d6ee80d93e_t.jpg"
-    medium: "http://farm8.staticflickr.com/7461/15926189226_d6ee80d93e_z.jpg"
-    small: "http://farm8.staticflickr.com/7461/15926189226_d6ee80d93e_n.jpg"
-    title: mst-640x354.jpg
-    $$hashKey: 1QE
-created_date: "2014-12-05T11:15:46-02:00"
+- link: http://farm8.staticflickr.com/7461/15926189226_d6ee80d93e_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7461/15926189226_d6ee80d93e_t.jpg
+  medium: http://farm8.staticflickr.com/7461/15926189226_d6ee80d93e_z.jpg
+  small: http://farm8.staticflickr.com/7461/15926189226_d6ee80d93e_n.jpg
+  title: mst-640x354.jpg
+  "$$hashKey": 1QE
+created_date: '2014-12-05T11:15:46-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7461/15926189226_d6ee80d93e_n.jpg"
+images_hd: http://farm8.staticflickr.com/7461/15926189226_d6ee80d93e_n.jpg
 
 ---
 <p><br />

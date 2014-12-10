@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15961
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/laranja.jpg
 video: ''
 tags:
-- assuntos: transgênicos
+- tag: transgênicos
 - tag: transgênicos
 type: news
 support_line: Avaliações para comercialização do cítrico podem começar após sete anos

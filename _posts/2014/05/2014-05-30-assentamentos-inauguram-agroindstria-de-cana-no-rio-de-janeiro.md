@@ -6,8 +6,8 @@ images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/cana-
   (1).jpg
 video: ''
 tags:
-- localização: rio de janeiro
-- assuntos: reforma agrária
+- tag: rio de janeiro
+- tag: reforma agrária
 - tag: agricultura camponesa
 type: news
 support_line: Iniciativa beneficiará 132 famílias em Campos dos Goytacazes, no Rio

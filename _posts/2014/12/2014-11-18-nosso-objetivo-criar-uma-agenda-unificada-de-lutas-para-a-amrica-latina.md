@@ -1,22 +1,23 @@
 ---
-date: "2014-11-18T14:46:27-02:00"
+date: '2014-11-18T14:46:27-02:00'
 tags:
-  - tag: 14-Acampamento-da-Juventude
-  - tag: Rio-Grande-do-Sul
-title: “Nosso objetivo é criar uma agenda unificada de lutas para a América Latina”
+- tag: 14-Acampamento-da-Juventude
+- tag: Rio-Grande-do-Sul
+title: "“Nosso objetivo é criar uma agenda unificada de lutas para a América Latina”"
 menu: projeto popular
-support_line: "14º Acampamento da Juventude começa nesta quinta-feira, e pretende juntar mais de 2.000 jovens de 16 países."
+support_line: 14º Acampamento da Juventude começa nesta quinta-feira, e pretende juntar
+  mais de 2.000 jovens de 16 países.
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7523/15765716628_6f406c44f6_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7523/15765716628_6f406c44f6_t.jpg"
-    medium: "http://farm8.staticflickr.com/7523/15765716628_6f406c44f6_z.jpg"
-    small: "http://farm8.staticflickr.com/7523/15765716628_6f406c44f6_n.jpg"
-    title: logoacampamento_face.jpg
-    $$hashKey: 1IP
-created_date: "2014-12-05T14:48:56-02:00"
+- link: http://farm8.staticflickr.com/7523/15765716628_6f406c44f6_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7523/15765716628_6f406c44f6_t.jpg
+  medium: http://farm8.staticflickr.com/7523/15765716628_6f406c44f6_z.jpg
+  small: http://farm8.staticflickr.com/7523/15765716628_6f406c44f6_n.jpg
+  title: logoacampamento_face.jpg
+  "$$hashKey": 1IP
+created_date: '2014-12-05T14:48:56-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7523/15765716628_6f406c44f6_n.jpg"
+images_hd: http://farm8.staticflickr.com/7523/15765716628_6f406c44f6_n.jpg
 label: interviews
 
 ---

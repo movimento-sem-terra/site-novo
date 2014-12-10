@@ -1,23 +1,24 @@
 ---
-date: "2014-11-17T14:34:45-02:00"
+date: '2014-11-17T14:34:45-02:00'
 tags:
-  - tag: OGM
-  - tag: biotecnologia
-  - tag: transgênicos
+- tag: OGM
+- tag: biotecnologia
+- tag: transgênicos
 title: Parlamento europeu dá um passo a mais para proibir o cultivo de transgênicos
-support_line: Novo texto reintroduz uma base jurídica que lhes permite proibir os transgênicos.
+support_line: Novo texto reintroduz uma base jurídica que lhes permite proibir os
+  transgênicos.
 menu: transgênicos
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7578/15767322597_8b2ee7e486_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7578/15767322597_8b2ee7e486_t.jpg"
-    medium: "http://farm8.staticflickr.com/7578/15767322597_8b2ee7e486_z.jpg"
-    small: "http://farm8.staticflickr.com/7578/15767322597_8b2ee7e486_n.jpg"
-    title: Índice.jpg
-    $$hashKey: 083
-created_date: "2014-12-05T14:38:26-02:00"
+- link: http://farm8.staticflickr.com/7578/15767322597_8b2ee7e486_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7578/15767322597_8b2ee7e486_t.jpg
+  medium: http://farm8.staticflickr.com/7578/15767322597_8b2ee7e486_z.jpg
+  small: http://farm8.staticflickr.com/7578/15767322597_8b2ee7e486_n.jpg
+  title: "Índice.jpg"
+  "$$hashKey": 083
+created_date: '2014-12-05T14:38:26-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7578/15767322597_8b2ee7e486_n.jpg"
+images_hd: http://farm8.staticflickr.com/7578/15767322597_8b2ee7e486_n.jpg
 
 ---
 <p><em>Da P&aacute;gina do MST*</em></p>

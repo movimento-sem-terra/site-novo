@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15672
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/fotos_douglas_mansur_Chavez!.jpg
 video: ''
 tags:
-- localização: são paulo
-- assuntos: hugo chávez
+- tag: são paulo
+- tag: hugo chávez
 - tag: internacional
 type: news
 support_line: Na noite desta terça-feira (4), foi lançada oficialmente a jornada  mundial

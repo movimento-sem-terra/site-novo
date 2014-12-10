@@ -6,8 +6,8 @@ images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/Foto_
   Antonio.jpg
 video: ''
 tags:
-- localização: paraná
-- assuntos: jornada de lutas abril 2014
+- tag: paraná
+- tag: jornada de lutas abril 2014
 - tag: lutas e mobilizações
 type: news
 support_line: Os Sem Terra cobraram do governo federal a liberação de recursos para

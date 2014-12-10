@@ -5,9 +5,9 @@ legacy_url: http://www.mst.org.br/node/15770
 images: http://www.mst.org.br/sites/default/files/cedenir.jpg
 video: ''
 tags:
-- destaque: manchete
-- assuntos: reforma agrária
-- tipo de matéria: entrevistas
+- tag: manchete
+- tag: reforma agrária
+- tag: entrevistas
 - tag: reforma agrária
 type: news
 support_line: Assentamento Filhos de Sepé é a prova de que é possível produzir  alimentos

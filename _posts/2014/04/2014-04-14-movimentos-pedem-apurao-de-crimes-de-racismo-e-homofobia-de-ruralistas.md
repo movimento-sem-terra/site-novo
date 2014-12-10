@@ -6,7 +6,7 @@ images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/Luiz 
   Heinze e Alceu Moreira.gif
 video: ''
 tags:
-- assuntos: direitos humanos
+- tag: direitos humanos
 - tag: direitos humanos
 type: news
 support_line: Durante uma audiência pública, deputados federais Luiz Carlos Heinze

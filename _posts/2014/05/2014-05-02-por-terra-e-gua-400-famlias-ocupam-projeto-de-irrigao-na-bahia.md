@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16050
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/rf1.jpg
 video: ''
 tags:
-- localização: bahia
-- assuntos: jornada de lutas abril 2014
+- tag: bahia
+- tag: jornada de lutas abril 2014
 - tag: lutas e mobilizações
 type: news
 support_line: A ocupação visa garantir que os pequenos agricultores e Sem Terra que

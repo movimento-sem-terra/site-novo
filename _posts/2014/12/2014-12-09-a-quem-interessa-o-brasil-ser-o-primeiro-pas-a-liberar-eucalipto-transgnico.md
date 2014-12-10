@@ -1,24 +1,26 @@
 ---
-date: "2014-12-09T17:08:22-02:00"
+date: '2014-12-09T17:08:22-02:00'
 tags:
-  - tag: transgênicos
-  - tag: árvores
-  - tag: eucalipto
+- tag: transgênicos
+- tag: "árvores"
+- tag: eucalipto
 title: A quem interessa o Brasil ser o primeiro país a liberar eucalipto transgênico?
 label: articles
-support_line: A liberação de árvores transgênicas requer maior precaução tendo em vista que as árvores têm ciclos bem mais longos de vida e a sua interação com o meio ambiente é bem mais complexa
+support_line: A liberação de árvores transgênicas requer maior precaução tendo em
+  vista que as árvores têm ciclos bem mais longos de vida e a sua interação com o
+  meio ambiente é bem mais complexa
 menu: transgênicos
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7537/15984724022_628e336746_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7537/15984724022_628e336746_t.jpg"
-    medium: "http://farm8.staticflickr.com/7537/15984724022_628e336746_z.jpg"
-    small: "http://farm8.staticflickr.com/7537/15984724022_628e336746_n.jpg"
-    title: Eucalyptus_sp.jpg
-    $$hashKey: 11F
-created_date: "2014-12-09T17:14:16-02:00"
+- link: http://farm8.staticflickr.com/7537/15984724022_628e336746_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7537/15984724022_628e336746_t.jpg
+  medium: http://farm8.staticflickr.com/7537/15984724022_628e336746_z.jpg
+  small: http://farm8.staticflickr.com/7537/15984724022_628e336746_n.jpg
+  title: Eucalyptus_sp.jpg
+  "$$hashKey": 11F
+created_date: '2014-12-09T17:14:16-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7537/15984724022_628e336746_n.jpg"
+images_hd: http://farm8.staticflickr.com/7537/15984724022_628e336746_n.jpg
 
 ---
 <div>&nbsp;</div>

@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15646
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/385584_palestina_flag_kraski_1680x1050_(www.GdeFon.ru).jpg
 video: ''
 tags:
-- semana: tema da semana
+- tag: tema da semana
 - tag: internacional
 type: news
 support_line: A União dos Comitês de Mulheres Palestinas&nbsp; saúda os 30 anos do

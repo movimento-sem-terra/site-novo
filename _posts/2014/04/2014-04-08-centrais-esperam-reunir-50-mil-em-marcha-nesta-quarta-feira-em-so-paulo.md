@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15939
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/centrais.jpg
 video: ''
 tags:
-- assuntos: mobilização
+- tag: mobilização
 - tag: lutas e mobilizações
 type: news
 support_line: A pauta inclui o fim do fator previdenciário, redução da jornada para

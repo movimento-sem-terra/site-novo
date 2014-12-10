@@ -1,21 +1,22 @@
 ---
-date: "2014-10-30T17:07:34-02:00"
+date: '2014-10-30T17:07:34-02:00'
 tags:
-  - tag: Paraná
-  - tag: Violência
+- tag: Paraná
+- tag: Violência
 title: Syngenta no banco dos réus
-support_line: "Testemunhas do caso “Keno”, deporão sobre o episódio nesta quinta-feira (30)."
+support_line: Testemunhas do caso “Keno”, deporão sobre o episódio nesta quinta-feira
+  (30).
 menu: direitos humanos
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7475/15759820490_bf8da50a98_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7475/15759820490_bf8da50a98_t.jpg"
-    medium: "http://farm8.staticflickr.com/7475/15759820490_bf8da50a98_z.jpg"
-    small: "http://farm8.staticflickr.com/7475/15759820490_bf8da50a98_n.jpg"
-    title: Keno.jpeg
-    $$hashKey: 0BQ
+- link: http://farm8.staticflickr.com/7475/15759820490_bf8da50a98_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7475/15759820490_bf8da50a98_t.jpg
+  medium: http://farm8.staticflickr.com/7475/15759820490_bf8da50a98_z.jpg
+  small: http://farm8.staticflickr.com/7475/15759820490_bf8da50a98_n.jpg
+  title: Keno.jpeg
+  "$$hashKey": 0BQ
 published: true
-images_hd: "http://farm8.staticflickr.com/7475/15759820490_bf8da50a98_n.jpg"
+images_hd: http://farm8.staticflickr.com/7475/15759820490_bf8da50a98_n.jpg
 
 ---
 <div id="content-header">

@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/16025
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/indígenas_mortes_latuff.JPG
 video: ''
 tags:
-- assuntos: violência
+- tag: violência
 - tag: direitos humanos
 type: news
 support_line: Em 2013, contabilizam-se 1007 conflitos por terra, 154 conflitos trabalhistas

@@ -1,22 +1,23 @@
 ---
-date: "2014-12-05T13:10:07-02:00"
+date: '2014-12-05T13:10:07-02:00'
 tags:
-  - tag: Comissão-da-Verdade
+- tag: Comissão-da-Verdade
 title: Ditadores e torturadores verão publicada a história das suas maldades
 label: articles
 menu: direitos humanos
-support_line: "Com a Comissão Nacional da Verdade, \"quem humilhou, torturou, matou e fez desaparecer brasileiros verá publicada a história das suas maldades\"."
+support_line: Com a Comissão Nacional da Verdade, "quem humilhou, torturou, matou
+  e fez desaparecer brasileiros verá publicada a história das suas maldades".
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7522/15981926181_654b4dd2ee_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7522/15981926181_654b4dd2ee_t.jpg"
-    medium: "http://farm8.staticflickr.com/7522/15981926181_654b4dd2ee_z.jpg"
-    small: "http://farm8.staticflickr.com/7522/15981926181_654b4dd2ee_n.jpg"
-    title: comissão.jpg
-    $$hashKey: 13N
-created_date: "2014-12-09T13:21:34-02:00"
+- link: http://farm8.staticflickr.com/7522/15981926181_654b4dd2ee_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7522/15981926181_654b4dd2ee_t.jpg
+  medium: http://farm8.staticflickr.com/7522/15981926181_654b4dd2ee_z.jpg
+  small: http://farm8.staticflickr.com/7522/15981926181_654b4dd2ee_n.jpg
+  title: comissão.jpg
+  "$$hashKey": 13N
+created_date: '2014-12-09T13:21:34-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7522/15981926181_654b4dd2ee_n.jpg"
+images_hd: http://farm8.staticflickr.com/7522/15981926181_654b4dd2ee_n.jpg
 
 ---
 <div id="content-header">

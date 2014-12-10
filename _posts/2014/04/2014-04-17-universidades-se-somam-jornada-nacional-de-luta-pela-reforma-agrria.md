@@ -6,7 +6,7 @@ images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/jorna
   universitaria!.jpg
 video: ''
 tags:
-- assuntos: jornada de lutas abril 2014
+- tag: jornada de lutas abril 2014
 - tag: educação, cultura e comunicação
 type: news
 support_line: Ao longo de todo mês de abril, cerca de 50 universidades realizam a

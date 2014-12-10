@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15713
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/mec2.jpg
 video: ''
 tags:
-- congresso: '6'
-- assuntos: 6° congresso nacional
+- tag: '6'
+- tag: 6° congresso nacional
 - tag: educação, cultura e comunicação
 type: news
 support_line: Crianças ocuparam o MEC e&nbsp;leram manifesto para o ministro.

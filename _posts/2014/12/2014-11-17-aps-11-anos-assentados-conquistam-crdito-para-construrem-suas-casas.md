@@ -1,23 +1,24 @@
 ---
-date: "2014-11-17T14:38:31-02:00"
+date: '2014-11-17T14:38:31-02:00'
 tags:
-  - tag: assentados
-  - tag: moradias
-  - tag: COOPTERA
-title: "Após 11 anos, assentados conquistam crédito para construírem suas casas"
-support_line: "Durante o processo, as famílias assentadas criaram uma cooperativa para atuar como entidade organizadora"
+- tag: assentados
+- tag: moradias
+- tag: COOPTERA
+title: Após 11 anos, assentados conquistam crédito para construírem suas casas
+support_line: Durante o processo, as famílias assentadas criaram uma cooperativa para
+  atuar como entidade organizadora
 menu: lutas e mobilizações
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7521/15767056999_0bbd52e922_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7521/15767056999_0bbd52e922_t.jpg"
-    medium: "http://farm8.staticflickr.com/7521/15767056999_0bbd52e922_z.jpg"
-    small: "http://farm8.staticflickr.com/7521/15767056999_0bbd52e922_n.jpg"
-    title: contratos casas.jpg
-    $$hashKey: 0F5
-created_date: "2014-12-05T14:44:41-02:00"
+- link: http://farm8.staticflickr.com/7521/15767056999_0bbd52e922_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7521/15767056999_0bbd52e922_t.jpg
+  medium: http://farm8.staticflickr.com/7521/15767056999_0bbd52e922_z.jpg
+  small: http://farm8.staticflickr.com/7521/15767056999_0bbd52e922_n.jpg
+  title: contratos casas.jpg
+  "$$hashKey": 0F5
+created_date: '2014-12-05T14:44:41-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7521/15767056999_0bbd52e922_n.jpg"
+images_hd: http://farm8.staticflickr.com/7521/15767056999_0bbd52e922_n.jpg
 
 ---
 <p><img alt="contratos casas.jpg" height="401" src="http://farm8.staticflickr.com/7521/15767056999_0bbd52e922_b.jpg" width="600" /></p>

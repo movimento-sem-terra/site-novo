@@ -1,21 +1,22 @@
 ---
-date: "2014-11-18T14:32:26-02:00"
+date: '2014-11-18T14:32:26-02:00'
 tags:
-  - tag: Mineração
-title: "Após manobra, Câmara tenta votar novo Código da Mineração nesta quarta"
+- tag: Mineração
+title: Após manobra, Câmara tenta votar novo Código da Mineração nesta quarta
 menu: direitos humanos
-support_line: O Comitê Nacional em Defesa dos Territórios Frente à Mineração entende tal ação como uma tentativa de golpe à democracia brasileira.
+support_line: O Comitê Nacional em Defesa dos Territórios Frente à Mineração entende
+  tal ação como uma tentativa de golpe à democracia brasileira.
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8634/15330769394_54b2e5195c_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8634/15330769394_54b2e5195c_t.jpg"
-    medium: "http://farm9.staticflickr.com/8634/15330769394_54b2e5195c_z.jpg"
-    small: "http://farm9.staticflickr.com/8634/15330769394_54b2e5195c_n.jpg"
-    title: naovotaçãomineração.jpg
-    $$hashKey: 0VW
-created_date: "2014-12-05T14:33:50-02:00"
+- link: http://farm9.staticflickr.com/8634/15330769394_54b2e5195c_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8634/15330769394_54b2e5195c_t.jpg
+  medium: http://farm9.staticflickr.com/8634/15330769394_54b2e5195c_z.jpg
+  small: http://farm9.staticflickr.com/8634/15330769394_54b2e5195c_n.jpg
+  title: naovotaçãomineração.jpg
+  "$$hashKey": 0VW
+created_date: '2014-12-05T14:33:50-02:00'
 published: true
-images_hd: "http://farm9.staticflickr.com/8634/15330769394_54b2e5195c_n.jpg"
+images_hd: http://farm9.staticflickr.com/8634/15330769394_54b2e5195c_n.jpg
 
 ---
 <p><img alt="naovotaçãomineração.jpg" src="http://farm9.staticflickr.com/8634/15330769394_54b2e5195c_b.jpg" /></p>

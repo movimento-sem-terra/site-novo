@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15071
 images: ''
 video: cn9li_NePro
 tags:
-- destaque: destaque
+- tag: destaque
 - tag: projeto popular
 type: video
 support_line: ''

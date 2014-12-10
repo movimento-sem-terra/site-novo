@@ -1,36 +1,37 @@
 ---
-date: "2014-11-22T14:22:20-02:00"
+date: '2014-11-22T14:22:20-02:00'
 tags:
-  - tag: milho-transgênico
-  - tag: juventude
-  - tag: Via-Campesina
-  - tag: agronegócio
-  - tag: ocupação
+- tag: milho-transgênico
+- tag: juventude
+- tag: Via-Campesina
+- tag: agronegócio
+- tag: ocupação
 title: Juventude ocupa fazenda de milho transgênico no Rio Grande do Sul
-support_line: "Cerca de 2 mil jovens ocuparam a Fazenda Pompílio, com 2 mil hacteres de cultivo de milho transgênico."
+support_line: Cerca de 2 mil jovens ocuparam a Fazenda Pompílio, com 2 mil hacteres
+  de cultivo de milho transgênico.
 menu: lutas e mobilizações
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7463/15945507862_7017443d34_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7463/15945507862_7017443d34_t.jpg"
-    medium: "http://farm8.staticflickr.com/7463/15945507862_7017443d34_z.jpg"
-    small: "http://farm8.staticflickr.com/7463/15945507862_7017443d34_n.jpg"
-    title: ocupação_juventude_RS2.jpg
-    $$hashKey: 079
-  - link: "http://farm9.staticflickr.com/8569/15760441877_7ee87cbd3a_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8569/15760441877_7ee87cbd3a_t.jpg"
-    medium: "http://farm9.staticflickr.com/8569/15760441877_7ee87cbd3a_z.jpg"
-    small: "http://farm9.staticflickr.com/8569/15760441877_7ee87cbd3a_n.jpg"
-    title: ocupação_juventude_RS.jpg
-    $$hashKey: 07C
-  - link: "http://farm9.staticflickr.com/8648/15758805998_f727312e49_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8648/15758805998_f727312e49_t.jpg"
-    medium: "http://farm9.staticflickr.com/8648/15758805998_f727312e49_z.jpg"
-    small: "http://farm9.staticflickr.com/8648/15758805998_f727312e49_n.jpg"
-    title: ocupação_juventude_RS3.jpg
-    $$hashKey: 07F
+- link: http://farm8.staticflickr.com/7463/15945507862_7017443d34_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7463/15945507862_7017443d34_t.jpg
+  medium: http://farm8.staticflickr.com/7463/15945507862_7017443d34_z.jpg
+  small: http://farm8.staticflickr.com/7463/15945507862_7017443d34_n.jpg
+  title: ocupação_juventude_RS2.jpg
+  "$$hashKey": 079
+- link: http://farm9.staticflickr.com/8569/15760441877_7ee87cbd3a_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8569/15760441877_7ee87cbd3a_t.jpg
+  medium: http://farm9.staticflickr.com/8569/15760441877_7ee87cbd3a_z.jpg
+  small: http://farm9.staticflickr.com/8569/15760441877_7ee87cbd3a_n.jpg
+  title: ocupação_juventude_RS.jpg
+  "$$hashKey": 07C
+- link: http://farm9.staticflickr.com/8648/15758805998_f727312e49_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8648/15758805998_f727312e49_t.jpg
+  medium: http://farm9.staticflickr.com/8648/15758805998_f727312e49_z.jpg
+  small: http://farm9.staticflickr.com/8648/15758805998_f727312e49_n.jpg
+  title: ocupação_juventude_RS3.jpg
+  "$$hashKey": 07F
 published: true
-images_hd: "http://farm9.staticflickr.com/8569/15760441877_7ee87cbd3a_n.jpg"
+images_hd: http://farm9.staticflickr.com/8569/15760441877_7ee87cbd3a_n.jpg
 
 ---
 <p><img alt="ocupação_juventude_RS.jpg" src="http://farm9.staticflickr.com/8569/15760441877_7ee87cbd3a_b.jpg" /></p>

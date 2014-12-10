@@ -1,21 +1,22 @@
 ---
-date: "2014-10-27T16:38:06-02:00"
+date: '2014-10-27T16:38:06-02:00'
 tags:
-  - tag: Goiás
-  - tag: Assentmaneto
+- tag: Goiás
+- tag: Assentmaneto
 title: Sem Terra comemoram a conquista de mais um assentamento em Goiás
 menu: reforma agrária
-support_line: "A área localizada no município de Amaralina, a 306 quilômetros da capital Goiânia, abriga 250 famílias que há mais de oito anos esperavam pela legalização."
+support_line: A área localizada no município de Amaralina, a 306 quilômetros da capital
+  Goiânia, abriga 250 famílias que há mais de oito anos esperavam pela legalização.
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7508/15759515458_237116f375_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7508/15759515458_237116f375_t.jpg"
-    medium: "http://farm8.staticflickr.com/7508/15759515458_237116f375_z.jpg"
-    small: "http://farm8.staticflickr.com/7508/15759515458_237116f375_n.jpg"
-    title: conquista_GO.jpg
-    $$hashKey: 9T7
+- link: http://farm8.staticflickr.com/7508/15759515458_237116f375_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7508/15759515458_237116f375_t.jpg
+  medium: http://farm8.staticflickr.com/7508/15759515458_237116f375_z.jpg
+  small: http://farm8.staticflickr.com/7508/15759515458_237116f375_n.jpg
+  title: conquista_GO.jpg
+  "$$hashKey": 9T7
 published: true
-images_hd: "http://farm8.staticflickr.com/7508/15759515458_237116f375_n.jpg"
+images_hd: http://farm8.staticflickr.com/7508/15759515458_237116f375_n.jpg
 
 ---
 <p><img alt="conquista_GO.jpg" src="http://farm8.staticflickr.com/7508/15759515458_237116f375_b.jpg" /></p>

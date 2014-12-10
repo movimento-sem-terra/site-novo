@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15940
 images: ''
 video: WYUn7Q5cpJ8
 tags:
-- localização: rio de janeiro
-- assuntos: cultura
+- tag: rio de janeiro
+- tag: cultura
 - tag: educação, cultura e comunicação
 type: video
 support_line: Será no Teatro Casa Grande (RJ) e haverá um debate com Tendler, Stedile

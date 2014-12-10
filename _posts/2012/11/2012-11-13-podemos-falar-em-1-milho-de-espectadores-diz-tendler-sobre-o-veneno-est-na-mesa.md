@@ -6,8 +6,8 @@ legacy_url: http://www.mst.org.br/node/14090
 images: http://www.youtube.com/watch?v=z0Em-RTYDAw&amp;feature=plcp
 video: z0Em-RTYDAw
 tags:
-- destaque: manchete
-- assuntos: agrotóxicos
+- tag: manchete
+- tag: agrotóxicos
 - tag: agronegócio
 type: video
 support_line: Em entrevista com Silvio Tendler, o diretor fala sobre o sucesso do

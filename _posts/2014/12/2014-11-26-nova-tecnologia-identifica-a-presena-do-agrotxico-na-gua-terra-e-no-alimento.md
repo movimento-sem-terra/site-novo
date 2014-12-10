@@ -1,22 +1,23 @@
 ---
-date: "2014-11-26T17:28:04-02:00"
+date: '2014-11-26T17:28:04-02:00'
 tags:
-  - tag: Saúde
-  - tag: Agrotóxicos
-title: "Nova tecnologia identifica a presença do agrotóxico na água, terra e no alimento"
-support_line: "Desde 2012 o uso do inseticida metamidofós foi proibido, mas ele permanece no ambiente por 10, 20 anos. Uma gota pode matar um adulto."
+- tag: Saúde
+- tag: Agrotóxicos
+title: Nova tecnologia identifica a presença do agrotóxico na água, terra e no alimento
+support_line: Desde 2012 o uso do inseticida metamidofós foi proibido, mas ele permanece
+  no ambiente por 10, 20 anos. Uma gota pode matar um adulto.
 menu: agronegócio
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8614/15745115648_2b132db902_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8614/15745115648_2b132db902_t.jpg"
-    medium: "http://farm9.staticflickr.com/8614/15745115648_2b132db902_z.jpg"
-    small: "http://farm9.staticflickr.com/8614/15745115648_2b132db902_n.jpg"
-    title: agrotóxicos.jpg
-    $$hashKey: 0M5
+- link: http://farm9.staticflickr.com/8614/15745115648_2b132db902_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8614/15745115648_2b132db902_t.jpg
+  medium: http://farm9.staticflickr.com/8614/15745115648_2b132db902_z.jpg
+  small: http://farm9.staticflickr.com/8614/15745115648_2b132db902_n.jpg
+  title: agrotóxicos.jpg
+  "$$hashKey": 0M5
 published: true
-images_hd: "http://farm9.staticflickr.com/8614/15745115648_2b132db902_n.jpg"
-created_date: "2014-11-26 12:00"
+images_hd: http://farm9.staticflickr.com/8614/15745115648_2b132db902_n.jpg
+created_date: 2014-11-26 12:00
 
 ---
 <p><br />

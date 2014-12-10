@@ -1,22 +1,23 @@
 ---
-date: "2014-12-03T16:55:27-02:00"
+date: '2014-12-03T16:55:27-02:00'
 tags:
-  - tag: Sergipe
-  - tag: Agrotóxicos
-title: "Em Aracaju, diversas organizações saem às ruas pelo fim dos agrotóxicos"
-support_line: "Durante todo o percurso ocorreram várias intervenções de agitação e propaganda como stencil, esquete teatral, panfletagem e grafitagem."
+- tag: Sergipe
+- tag: Agrotóxicos
+title: Em Aracaju, diversas organizações saem às ruas pelo fim dos agrotóxicos
+support_line: Durante todo o percurso ocorreram várias intervenções de agitação e
+  propaganda como stencil, esquete teatral, panfletagem e grafitagem.
 menu: lutas e mobilizações
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8677/15790343960_d1ce9dd57d_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8677/15790343960_d1ce9dd57d_t.jpg"
-    medium: "http://farm9.staticflickr.com/8677/15790343960_d1ce9dd57d_z.jpg"
-    small: "http://farm9.staticflickr.com/8677/15790343960_d1ce9dd57d_n.jpg"
-    title: sergiep_contraagrotoxico.jpg
-    $$hashKey: 4E5
-created_date: "2014-12-08T16:56:44-02:00"
+- link: http://farm9.staticflickr.com/8677/15790343960_d1ce9dd57d_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8677/15790343960_d1ce9dd57d_t.jpg
+  medium: http://farm9.staticflickr.com/8677/15790343960_d1ce9dd57d_z.jpg
+  small: http://farm9.staticflickr.com/8677/15790343960_d1ce9dd57d_n.jpg
+  title: sergiep_contraagrotoxico.jpg
+  "$$hashKey": 4E5
+created_date: '2014-12-08T16:56:44-02:00'
 published: true
-images_hd: "http://farm9.staticflickr.com/8677/15790343960_d1ce9dd57d_n.jpg"
+images_hd: http://farm9.staticflickr.com/8677/15790343960_d1ce9dd57d_n.jpg
 
 ---
 <p><img alt="sergiep_contraagrotoxico.jpg" src="http://farm9.staticflickr.com/8677/15790343960_d1ce9dd57d_b.jpg" /></p>

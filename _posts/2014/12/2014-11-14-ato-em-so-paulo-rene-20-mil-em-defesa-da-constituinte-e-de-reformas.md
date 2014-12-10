@@ -1,23 +1,24 @@
 ---
-date: "2014-11-14T15:13:23-02:00"
+date: '2014-11-14T15:13:23-02:00'
 tags:
-  - tag: Plebiscito-Constituinte
-  - tag: Mobilização
+- tag: Plebiscito-Constituinte
+- tag: Mobilização
 hat: Projeto Popular
 title: Ato em São Paulo reúne 20 mil em defesa da Constituinte e de reformas
-support_line: 20 mil pessoas saíram em defesa de reformas estruturais e em apoio ao plebiscito constituinte.
+support_line: 20 mil pessoas saíram em defesa de reformas estruturais e em apoio ao
+  plebiscito constituinte.
 menu: projeto popular
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7555/15330995314_ccb105a0af_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7555/15330995314_ccb105a0af_t.jpg"
-    medium: "http://farm8.staticflickr.com/7555/15330995314_ccb105a0af_z.jpg"
-    small: "http://farm8.staticflickr.com/7555/15330995314_ccb105a0af_n.jpg"
-    title: ato sp constituinte.jpg
-    $$hashKey: 2PW
-created_date: "2014-12-05T15:15:31-02:00"
+- link: http://farm8.staticflickr.com/7555/15330995314_ccb105a0af_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7555/15330995314_ccb105a0af_t.jpg
+  medium: http://farm8.staticflickr.com/7555/15330995314_ccb105a0af_z.jpg
+  small: http://farm8.staticflickr.com/7555/15330995314_ccb105a0af_n.jpg
+  title: ato sp constituinte.jpg
+  "$$hashKey": 2PW
+created_date: '2014-12-05T15:15:31-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7555/15330995314_ccb105a0af_n.jpg"
+images_hd: http://farm8.staticflickr.com/7555/15330995314_ccb105a0af_n.jpg
 
 ---
 <p><img alt="ato sp constituinte.jpg" height="440" src="http://farm8.staticflickr.com/7555/15330995314_ccb105a0af_b.jpg" width="660" /></p>

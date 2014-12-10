@@ -6,8 +6,8 @@ images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/PR_pa
   sem terra.JPG
 video: ''
 tags:
-- localização: paraná
-- assuntos: reforma agrária
+- tag: paraná
+- tag: reforma agrária
 - tag: reforma agrária
 type: news
 support_line: O Incra no Paraná recebe, a partir desta segunda-feira (7), representantes

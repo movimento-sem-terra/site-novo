@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16166
 images: http://www.mst.org.br/sites/default/files/pec_juca.jpg
 video: ''
 tags:
-- destaque: manchete
-- assuntos: trabalho escravo
+- tag: manchete
+- tag: trabalho escravo
 - tag: direitos humanos
 type: news
 support_line: Projeto de regulamentação do conceito de escravidão, imposto por ruralistas,

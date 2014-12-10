@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16222
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/indios!.jpg
 video: ''
 tags:
-- localização: mato grosso do sul
-- assuntos: indígenas
+- tag: mato grosso do sul
+- tag: indígenas
 - tag: direitos humanos
 type: news
 support_line: A Relatoria do Direito Humano à Terra, Território e Alimentação divulgou

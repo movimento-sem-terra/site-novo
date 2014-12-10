@@ -1,22 +1,23 @@
 ---
-date: "2014-11-21T15:57:27-02:00"
+date: '2014-11-21T15:57:27-02:00'
 tags:
-  - tag: Agronegócio
-  - tag: Agrotóxicos
+- tag: Agronegócio
+- tag: Agrotóxicos
 title: Seminário aponta impactos dos agrotóxicos na educação e saúde pública
-support_line: "As intoxicações por agrotóxicos agrícolas, raticidas, agrotóxicos domésticos e de saúde pública resultaram em 645 notificações, cerca de 20%."
-menu: "educação, cultura e comunicação"
+support_line: As intoxicações por agrotóxicos agrícolas, raticidas, agrotóxicos domésticos
+  e de saúde pública resultaram em 645 notificações, cerca de 20%.
+menu: educação, cultura e comunicação
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7496/15953511635_73b0017505_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7496/15953511635_73b0017505_t.jpg"
-    medium: "http://farm8.staticflickr.com/7496/15953511635_73b0017505_z.jpg"
-    small: "http://farm8.staticflickr.com/7496/15953511635_73b0017505_n.jpg"
-    title: Seminário-3-660x330.jpg
-    $$hashKey: 28I
-created_date: "2014-12-05T15:59:00-02:00"
+- link: http://farm8.staticflickr.com/7496/15953511635_73b0017505_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7496/15953511635_73b0017505_t.jpg
+  medium: http://farm8.staticflickr.com/7496/15953511635_73b0017505_z.jpg
+  small: http://farm8.staticflickr.com/7496/15953511635_73b0017505_n.jpg
+  title: Seminário-3-660x330.jpg
+  "$$hashKey": 28I
+created_date: '2014-12-05T15:59:00-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7496/15953511635_73b0017505_n.jpg"
+images_hd: http://farm8.staticflickr.com/7496/15953511635_73b0017505_n.jpg
 
 ---
 <p><img alt="Seminário-3-660x330.jpg" src="http://farm8.staticflickr.com/7496/15953511635_73b0017505_b.jpg" /></p>

@@ -1,24 +1,25 @@
 ---
-date: "2014-12-01T10:55:49-02:00"
+date: '2014-12-01T10:55:49-02:00'
 tags:
-  - tag: juventude
-  - tag: violência
-  - tag: Ferguson
-  - tag: camponeses
+- tag: juventude
+- tag: violência
+- tag: Ferguson
+- tag: camponeses
 title: Jovens debatem a chacina do Capital contra a juventude
-support_line: O capital cada vez mais gradativamente vem causando um extermínio do jovem no mundo
+support_line: O capital cada vez mais gradativamente vem causando um extermínio do
+  jovem no mundo
 menu: projeto popular
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7553/15764493778_d68a637c6d_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7553/15764493778_d68a637c6d_t.jpg"
-    medium: "http://farm8.staticflickr.com/7553/15764493778_d68a637c6d_z.jpg"
-    small: "http://farm8.staticflickr.com/7553/15764493778_d68a637c6d_n.jpg"
-    title: acampamento juve_0.jpg
-    $$hashKey: 04L
-created_date: "2014-12-05T11:00:40-02:00"
+- link: http://farm8.staticflickr.com/7553/15764493778_d68a637c6d_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7553/15764493778_d68a637c6d_t.jpg
+  medium: http://farm8.staticflickr.com/7553/15764493778_d68a637c6d_z.jpg
+  small: http://farm8.staticflickr.com/7553/15764493778_d68a637c6d_n.jpg
+  title: acampamento juve_0.jpg
+  "$$hashKey": 04L
+created_date: '2014-12-05T11:00:40-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7553/15764493778_d68a637c6d_n.jpg"
+images_hd: http://farm8.staticflickr.com/7553/15764493778_d68a637c6d_n.jpg
 
 ---
 <p><img alt="acampamento juve_0.jpg" src="http://farm8.staticflickr.com/7553/15764493778_d68a637c6d_b.jpg" /></p>

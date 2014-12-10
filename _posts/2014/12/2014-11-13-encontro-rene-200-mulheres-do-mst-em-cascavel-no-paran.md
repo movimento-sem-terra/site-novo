@@ -1,29 +1,30 @@
 ---
-date: "2014-11-13T13:51:26-02:00"
+date: '2014-11-13T13:51:26-02:00'
 tags:
-  - tag: Paraná
-  - tag: Mulheres
-  - tag: Formação
+- tag: Paraná
+- tag: Mulheres
+- tag: Formação
 title: Encontro reúne 200 mulheres do MST em Cascavel no Paraná
-support_line: "Entre os temas debatidos estão a Reforma Agrárira Popular, a situação da mulher no campo e o câncer de mama."
-menu: "educação, cultura e comunicação"
+support_line: Entre os temas debatidos estão a Reforma Agrárira Popular, a situação
+  da mulher no campo e o câncer de mama.
+menu: educação, cultura e comunicação
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8624/15767093367_a6afddeef8_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8624/15767093367_a6afddeef8_t.jpg"
-    medium: "http://farm9.staticflickr.com/8624/15767093367_a6afddeef8_z.jpg"
-    small: "http://farm9.staticflickr.com/8624/15767093367_a6afddeef8_n.jpg"
-    title: 200mulheres.jpg
-    $$hashKey: "366"
-  - link: "http://farm8.staticflickr.com/7570/15927044976_6c577bef58_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7570/15927044976_6c577bef58_t.jpg"
-    medium: "http://farm8.staticflickr.com/7570/15927044976_6c577bef58_z.jpg"
-    small: "http://farm8.staticflickr.com/7570/15927044976_6c577bef58_n.jpg"
-    title: 200mulheres2.jpg
-    $$hashKey: 36C
-created_date: "2014-12-05T13:55:52-02:00"
+- link: http://farm9.staticflickr.com/8624/15767093367_a6afddeef8_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8624/15767093367_a6afddeef8_t.jpg
+  medium: http://farm9.staticflickr.com/8624/15767093367_a6afddeef8_z.jpg
+  small: http://farm9.staticflickr.com/8624/15767093367_a6afddeef8_n.jpg
+  title: 200mulheres.jpg
+  "$$hashKey": '366'
+- link: http://farm8.staticflickr.com/7570/15927044976_6c577bef58_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7570/15927044976_6c577bef58_t.jpg
+  medium: http://farm8.staticflickr.com/7570/15927044976_6c577bef58_z.jpg
+  small: http://farm8.staticflickr.com/7570/15927044976_6c577bef58_n.jpg
+  title: 200mulheres2.jpg
+  "$$hashKey": 36C
+created_date: '2014-12-05T13:55:52-02:00'
 published: true
-images_hd: "http://farm9.staticflickr.com/8624/15767093367_a6afddeef8_n.jpg"
+images_hd: http://farm9.staticflickr.com/8624/15767093367_a6afddeef8_n.jpg
 
 ---
 <p><img alt="200mulheres.jpg" src="http://farm9.staticflickr.com/8624/15767093367_a6afddeef8_b.jpg" /></p>

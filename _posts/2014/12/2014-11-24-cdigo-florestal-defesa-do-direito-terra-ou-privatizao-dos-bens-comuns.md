@@ -1,21 +1,23 @@
 ---
-date: "2014-11-24T15:56:21-02:00"
+date: '2014-11-24T15:56:21-02:00'
 tags:
-  - tag: Código-Florestal
-title: "Código Florestal: defesa do direito à terra ou privatização dos bens comuns?"
+- tag: Código-Florestal
+title: 'Código Florestal: defesa do direito à terra ou privatização dos bens comuns?'
 label: articles
-support_line: As “falsas soluções” antes anunciadas por setores ruralistas e rentistas para “superação” da reforma agrária agora fazem propaganda de “oportunidades de negócio”.
+support_line: As “falsas soluções” antes anunciadas por setores ruralistas e rentistas
+  para “superação” da reforma agrária agora fazem propaganda de “oportunidades de
+  negócio”.
 menu: meio ambiente
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7484/15759415730_449d4e868e_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7484/15759415730_449d4e868e_t.jpg"
-    medium: "http://farm8.staticflickr.com/7484/15759415730_449d4e868e_z.jpg"
-    small: "http://farm8.staticflickr.com/7484/15759415730_449d4e868e_n.jpg"
-    title: Bancada_Ruralistas.jpg
-    $$hashKey: 1C7
+- link: http://farm8.staticflickr.com/7484/15759415730_449d4e868e_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7484/15759415730_449d4e868e_t.jpg
+  medium: http://farm8.staticflickr.com/7484/15759415730_449d4e868e_z.jpg
+  small: http://farm8.staticflickr.com/7484/15759415730_449d4e868e_n.jpg
+  title: Bancada_Ruralistas.jpg
+  "$$hashKey": 1C7
 published: true
-images_hd: "http://farm8.staticflickr.com/7484/15759415730_449d4e868e_n.jpg"
+images_hd: http://farm8.staticflickr.com/7484/15759415730_449d4e868e_n.jpg
 
 ---
 <div id="content-header">

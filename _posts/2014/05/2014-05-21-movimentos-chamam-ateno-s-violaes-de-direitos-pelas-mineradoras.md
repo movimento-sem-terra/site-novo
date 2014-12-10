@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/16135
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/Audiência-Mineração-1!.jpg
 video: ''
 tags:
-- assuntos: mineração
+- tag: mineração
 - tag: direitos humanos
 type: news
 support_line: Em audiência da Comissão de Direitos Humanos, as organizações foram

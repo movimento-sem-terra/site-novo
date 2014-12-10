@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/14738
 images: ''
 video: Bmeb7-4OAKw
 tags:
-- assuntos: jornada de lutas abril 2013
+- tag: jornada de lutas abril 2013
 - tag: lutas e mobilizações
 type: video
 menu: lutas e mobilizações

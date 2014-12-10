@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/16097
 images: ''
 video: ''
 tags:
-- assuntos: agrotóxicos
+- tag: agrotóxicos
 - tag: agronegócio
 type: news
 support_line: Em debate com o Engenheiro Agrônomo Gabriel Sollero, diretoria do Sindicato,

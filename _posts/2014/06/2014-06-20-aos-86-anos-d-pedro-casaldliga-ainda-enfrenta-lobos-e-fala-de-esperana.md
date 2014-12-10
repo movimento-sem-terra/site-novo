@@ -6,7 +6,7 @@ images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/dom p
   casaldáglia.jpg
 video: ''
 tags:
-- destaque: manchete
+- tag: manchete
 - tag: lutadores e lutadoras do povo
 type: 
 support_line: Bispo resiste a ameaças, critica o  sistema político, o agronegócio

@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16173
 images: ''
 video: ''
 tags:
-- destaque: manchete
-- assuntos: ruralistas
+- tag: manchete
+- tag: ruralistas
 - tag: direitos humanos
 type: news
 support_line: Deputados realizam audiência pública para debater a revogação do Brasil

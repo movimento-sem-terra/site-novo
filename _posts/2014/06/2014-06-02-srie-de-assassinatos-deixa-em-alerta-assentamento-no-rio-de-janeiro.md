@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16172
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/zumbi_RJ.jpg
 video: ''
 tags:
-- assuntos: direitos humanos
-- localização: rio de janeiro
+- tag: direitos humanos
+- tag: rio de janeiro
 - tag: direitos humanos
 type: news
 support_line: No último ano e meio, o assentamento Zumbi dos Palmares, de 8,5 mil

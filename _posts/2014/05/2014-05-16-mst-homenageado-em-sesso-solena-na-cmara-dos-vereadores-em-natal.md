@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16114
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/camara.jpg
 video: ''
 tags:
-- localização: rio grande do norte
-- assuntos: mst 30 anos
+- tag: rio grande do norte
+- tag: mst 30 anos
 - tag: reforma agrária
 type: 
 support_line: Na oportunidade, foram tratados temas relacionados à importância do

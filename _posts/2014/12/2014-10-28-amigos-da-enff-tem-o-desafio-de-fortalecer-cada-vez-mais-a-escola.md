@@ -1,60 +1,61 @@
 ---
-date: "2014-10-28T16:35:17-02:00"
+date: '2014-10-28T16:35:17-02:00'
 tags:
-  - tag: ENFF
-  - tag: MST
-  - tag: amigos
-  - tag: AAENFF
+- tag: ENFF
+- tag: MST
+- tag: amigos
+- tag: AAENFF
 title: Amigos da ENFF tem o desafio de fortalecer cada vez mais a escola
-support_line: "Entrevista com Carlos Alberto Duarte, atual coordenador da Associação dos Amigos da Escola Florestan Fernandes."
+support_line: Entrevista com Carlos Alberto Duarte, atual coordenador da Associação
+  dos Amigos da Escola Florestan Fernandes.
 label: interviews
 menu: projeto popular
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7514/15324726014_0bee8a7a6c_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7514/15324726014_0bee8a7a6c_t.jpg"
-    medium: "http://farm8.staticflickr.com/7514/15324726014_0bee8a7a6c_z.jpg"
-    small: "http://farm8.staticflickr.com/7514/15324726014_0bee8a7a6c_n.jpg"
-    title: formacao_ENFF.jpg
-    $$hashKey: 2XM
-  - link: "http://farm8.staticflickr.com/7567/15760961829_8717f8e4e5_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7567/15760961829_8717f8e4e5_t.jpg"
-    medium: "http://farm8.staticflickr.com/7567/15760961829_8717f8e4e5_z.jpg"
-    small: "http://farm8.staticflickr.com/7567/15760961829_8717f8e4e5_n.jpg"
-    title: harvey.jpg
-    $$hashKey: 2XP
-  - link: "http://farm9.staticflickr.com/8614/15760961669_aa6e1be71a_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8614/15760961669_aa6e1be71a_t.jpg"
-    medium: "http://farm9.staticflickr.com/8614/15760961669_aa6e1be71a_z.jpg"
-    small: "http://farm9.staticflickr.com/8614/15760961669_aa6e1be71a_n.jpg"
-    title: mostracultura2.jpg
-    $$hashKey: 2XS
-  - link: "http://farm8.staticflickr.com/7472/15946329002_f8cd9ea8ed_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7472/15946329002_f8cd9ea8ed_t.jpg"
-    medium: "http://farm8.staticflickr.com/7472/15946329002_f8cd9ea8ed_z.jpg"
-    small: "http://farm8.staticflickr.com/7472/15946329002_f8cd9ea8ed_n.jpg"
-    title: ENFF_educlingu.jpg
-    $$hashKey: 2XV
-  - link: "http://farm9.staticflickr.com/8674/15759703590_86873f0c65_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8674/15759703590_86873f0c65_t.jpg"
-    medium: "http://farm9.staticflickr.com/8674/15759703590_86873f0c65_z.jpg"
-    small: "http://farm9.staticflickr.com/8674/15759703590_86873f0c65_n.jpg"
-    title: aassociacao.jpg
-    $$hashKey: 2XY
-  - link: "http://farm8.staticflickr.com/7526/15759572578_3081a51d61_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7526/15759572578_3081a51d61_t.jpg"
-    medium: "http://farm8.staticflickr.com/7526/15759572578_3081a51d61_z.jpg"
-    small: "http://farm8.staticflickr.com/7526/15759572578_3081a51d61_n.jpg"
-    title: ciranda1_ENFF.jpg
-    $$hashKey: 2Y1
-  - link: "http://farm8.staticflickr.com/7563/15759573018_3285ef33ea_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7563/15759573018_3285ef33ea_t.jpg"
-    medium: "http://farm8.staticflickr.com/7563/15759573018_3285ef33ea_z.jpg"
-    small: "http://farm8.staticflickr.com/7563/15759573018_3285ef33ea_n.jpg"
-    title: teorpollatam2011b.jpg
-    $$hashKey: 2Y4
+- link: http://farm8.staticflickr.com/7514/15324726014_0bee8a7a6c_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7514/15324726014_0bee8a7a6c_t.jpg
+  medium: http://farm8.staticflickr.com/7514/15324726014_0bee8a7a6c_z.jpg
+  small: http://farm8.staticflickr.com/7514/15324726014_0bee8a7a6c_n.jpg
+  title: formacao_ENFF.jpg
+  "$$hashKey": 2XM
+- link: http://farm8.staticflickr.com/7567/15760961829_8717f8e4e5_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7567/15760961829_8717f8e4e5_t.jpg
+  medium: http://farm8.staticflickr.com/7567/15760961829_8717f8e4e5_z.jpg
+  small: http://farm8.staticflickr.com/7567/15760961829_8717f8e4e5_n.jpg
+  title: harvey.jpg
+  "$$hashKey": 2XP
+- link: http://farm9.staticflickr.com/8614/15760961669_aa6e1be71a_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8614/15760961669_aa6e1be71a_t.jpg
+  medium: http://farm9.staticflickr.com/8614/15760961669_aa6e1be71a_z.jpg
+  small: http://farm9.staticflickr.com/8614/15760961669_aa6e1be71a_n.jpg
+  title: mostracultura2.jpg
+  "$$hashKey": 2XS
+- link: http://farm8.staticflickr.com/7472/15946329002_f8cd9ea8ed_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7472/15946329002_f8cd9ea8ed_t.jpg
+  medium: http://farm8.staticflickr.com/7472/15946329002_f8cd9ea8ed_z.jpg
+  small: http://farm8.staticflickr.com/7472/15946329002_f8cd9ea8ed_n.jpg
+  title: ENFF_educlingu.jpg
+  "$$hashKey": 2XV
+- link: http://farm9.staticflickr.com/8674/15759703590_86873f0c65_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8674/15759703590_86873f0c65_t.jpg
+  medium: http://farm9.staticflickr.com/8674/15759703590_86873f0c65_z.jpg
+  small: http://farm9.staticflickr.com/8674/15759703590_86873f0c65_n.jpg
+  title: aassociacao.jpg
+  "$$hashKey": 2XY
+- link: http://farm8.staticflickr.com/7526/15759572578_3081a51d61_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7526/15759572578_3081a51d61_t.jpg
+  medium: http://farm8.staticflickr.com/7526/15759572578_3081a51d61_z.jpg
+  small: http://farm8.staticflickr.com/7526/15759572578_3081a51d61_n.jpg
+  title: ciranda1_ENFF.jpg
+  "$$hashKey": 2Y1
+- link: http://farm8.staticflickr.com/7563/15759573018_3285ef33ea_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7563/15759573018_3285ef33ea_t.jpg
+  medium: http://farm8.staticflickr.com/7563/15759573018_3285ef33ea_z.jpg
+  small: http://farm8.staticflickr.com/7563/15759573018_3285ef33ea_n.jpg
+  title: teorpollatam2011b.jpg
+  "$$hashKey": 2Y4
 published: true
-images_hd: "http://farm9.staticflickr.com/8674/15759703590_86873f0c65_n.jpg"
+images_hd: http://farm9.staticflickr.com/8674/15759703590_86873f0c65_n.jpg
 
 ---
 <p><img alt="formacao_ENFF.jpg" src="http://farm8.staticflickr.com/7514/15324726014_0bee8a7a6c_b.jpg" /></p>

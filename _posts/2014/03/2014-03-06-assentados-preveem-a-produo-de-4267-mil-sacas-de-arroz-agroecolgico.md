@@ -5,9 +5,9 @@ legacy_url: http://www.mst.org.br/node/15802
 images: ''
 video: ''
 tags:
-- destaque: manchete
-- localização: rio grande do sul
-- assuntos: reforma agrária
+- tag: manchete
+- tag: rio grande do sul
+- tag: reforma agrária
 - tag: agricultura camponesa
 type: news
 support_line: Centenas de pessoas participaram da 11° Abertura Oficial da Colheita  do

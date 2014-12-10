@@ -6,8 +6,8 @@ images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/Tens�
   3!.jpg
 video: ''
 tags:
-- localização: maranhão
-- assuntos: mobilização
+- tag: maranhão
+- tag: mobilização
 - tag: lutas e mobilizações
 type: news
 support_line: Cerca de 150 famílias do distrito do Piquiá de Baixo (MA) ocuparam nesta  quinta-feira

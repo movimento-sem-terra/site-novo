@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15777
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/olinda!.jpg
 video: ''
 tags:
-- assuntos: cultura
+- tag: cultura
 - tag: educação, cultura e comunicação
 type: news
 support_line: A barraca do MST funcionará de sábado (1) à terça-feira (4), no Sítio

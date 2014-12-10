@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16214
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/katia-abreu.jpg
 video: ''
 tags:
-- localização: tocantins
-- assuntos: reintegração de posse
+- tag: tocantins
+- tag: reintegração de posse
 - tag: reforma agrária
 type: news
 support_line: Para Sem Terra, isso acontece pelo fato do acampamento ser uma forte

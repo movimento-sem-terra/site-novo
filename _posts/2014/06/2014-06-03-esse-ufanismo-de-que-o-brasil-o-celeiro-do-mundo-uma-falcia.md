@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16176
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/Sérgio-Sauer-1-600x399.jpg
 video: ''
 tags:
-- assuntos: questão agrária
-- tipo de matéria: entrevistas
+- tag: questão agrária
+- tag: entrevistas
 - tag: agronegócio
 type: 
 support_line: Para o sociólogo Sérgio Sauer, a produção de alimentos passa pelo que,

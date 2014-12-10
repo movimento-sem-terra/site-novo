@@ -5,9 +5,9 @@ legacy_url: http://www.mst.org.br/node/15897
 images: ''
 video: ''
 tags:
-- destaque: manchete
-- localização: minas gerais
-- assuntos: reforma agrária
+- tag: manchete
+- tag: minas gerais
+- tag: reforma agrária
 - tag: reforma agrária
 type: news
 support_line: Serão entregues sete tipos de hortifrútis produzidos pelas famílias

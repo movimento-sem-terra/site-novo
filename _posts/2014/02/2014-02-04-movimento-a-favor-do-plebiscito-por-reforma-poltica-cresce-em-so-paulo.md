@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15668
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/REFORMAPOLITICA.gif
 video: ''
 tags:
-- assuntos: reforma política
+- tag: reforma política
 - tag: lutas e mobilizações
 type: news
 support_line: Cerca de 200 pessoas de 79 organizações participaram neste final de  semana

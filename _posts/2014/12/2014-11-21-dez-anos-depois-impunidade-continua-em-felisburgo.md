@@ -1,23 +1,24 @@
 ---
-date: "2014-11-21T14:50:30-02:00"
+date: '2014-11-21T14:50:30-02:00'
 tags:
-  - tag: Minas-Gerais
-  - tag: Massacre-de-Felisburgo
-  - tag: Violência
-title: "Dez anos depois, impunidade continua em Felisburgo"
-support_line: "No dia 20/10 de 2004, um fazendeiro, acompanhado de dezenas de pistoleiros, invadiu um acampamento e comandou um massacre que vitimou cinco trabalhadores."
+- tag: Minas-Gerais
+- tag: Massacre-de-Felisburgo
+- tag: Violência
+title: Dez anos depois, impunidade continua em Felisburgo
+support_line: No dia 20/10 de 2004, um fazendeiro, acompanhado de dezenas de pistoleiros,
+  invadiu um acampamento e comandou um massacre que vitimou cinco trabalhadores.
 menu: direitos humanos
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7553/15951533841_fcbecb20d4_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7553/15951533841_fcbecb20d4_t.jpg"
-    medium: "http://farm8.staticflickr.com/7553/15951533841_fcbecb20d4_z.jpg"
-    small: "http://farm8.staticflickr.com/7553/15951533841_fcbecb20d4_n.jpg"
-    title: felisburgoa.jpg
-    $$hashKey: 1UF
-created_date: "2014-12-05T15:55:18-02:00"
+- link: http://farm8.staticflickr.com/7553/15951533841_fcbecb20d4_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7553/15951533841_fcbecb20d4_t.jpg
+  medium: http://farm8.staticflickr.com/7553/15951533841_fcbecb20d4_z.jpg
+  small: http://farm8.staticflickr.com/7553/15951533841_fcbecb20d4_n.jpg
+  title: felisburgoa.jpg
+  "$$hashKey": 1UF
+created_date: '2014-12-05T15:55:18-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7553/15951533841_fcbecb20d4_n.jpg"
+images_hd: http://farm8.staticflickr.com/7553/15951533841_fcbecb20d4_n.jpg
 
 ---
 <p><img alt="felisburgoa.jpg" src="http://farm8.staticflickr.com/7553/15951533841_fcbecb20d4_b.jpg" /></p>

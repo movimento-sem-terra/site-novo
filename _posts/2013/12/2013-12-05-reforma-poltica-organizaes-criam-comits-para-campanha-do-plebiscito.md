@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15521
 images: ''
 video: bsy7VQL-wrg
 tags:
-- destaque: destaque
-- assuntos: reforma política
+- tag: destaque
+- tag: reforma política
 - tag: lutas e mobilizações
 type: video
 support_line: ''

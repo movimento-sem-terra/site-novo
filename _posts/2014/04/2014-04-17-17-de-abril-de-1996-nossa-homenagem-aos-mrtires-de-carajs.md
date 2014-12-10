@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15995
 images: http://www.mst.org.br/sites/default/files/carajas.png
 video: ''
 tags:
-- assuntos: massacre de eldorado dos carajás
+- tag: massacre de eldorado dos carajás
 - tag: direitos humanos
 type: news
 support_line: Não podemos nos esquecer jamais.&nbsp;Até hoje nenhum dos responsáveis

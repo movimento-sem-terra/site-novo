@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15994
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/Filme-O-Veneno-Esta-na-Mesa-122.jpg
 video: ''
 tags:
-- destaque: manchete
-- assuntos: agrotóxicos
+- tag: manchete
+- tag: agrotóxicos
 - tag: agronegócio
 type: news
 support_line: Mais de  600 pessoas viram a estreia no Rio. Agora, o documentário passa

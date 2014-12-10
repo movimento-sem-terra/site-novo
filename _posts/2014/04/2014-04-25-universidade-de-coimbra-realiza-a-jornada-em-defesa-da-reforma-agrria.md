@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/16012
 images: ''
 video: ''
 tags:
-- assuntos: jornada de lutas abril 2014
+- tag: jornada de lutas abril 2014
 - tag: internacional
 type: news
 support_line: A atividade na universidade portuguesa se soma as mais de 45 universidades

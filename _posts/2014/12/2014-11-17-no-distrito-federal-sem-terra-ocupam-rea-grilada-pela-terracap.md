@@ -1,22 +1,23 @@
 ---
-date: "2014-11-17T14:44:56-02:00"
+date: '2014-11-17T14:44:56-02:00'
 tags:
-  - tag: Reforma-Agrária
-  - tag: reforma-política
-title: "No Distrito Federal, Sem Terra ocupam área grilada pela Terracap"
+- tag: Reforma-Agrária
+- tag: reforma-política
+title: No Distrito Federal, Sem Terra ocupam área grilada pela Terracap
 menu: lutas e mobilizações
-support_line: "Neste domingo, 200 famílias ocuparam uma fazenda da Companhia Imobiliária de Brasília."
+support_line: Neste domingo, 200 famílias ocuparam uma fazenda da Companhia Imobiliária
+  de Brasília.
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7554/15767496127_984afc4dc4_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7554/15767496127_984afc4dc4_t.jpg"
-    medium: "http://farm8.staticflickr.com/7554/15767496127_984afc4dc4_z.jpg"
-    small: "http://farm8.staticflickr.com/7554/15767496127_984afc4dc4_n.jpg"
-    title: ocupação_terracap3.jpg
-    $$hashKey: 0GU
-created_date: "2014-12-05T15:09:24-02:00"
+- link: http://farm8.staticflickr.com/7554/15767496127_984afc4dc4_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7554/15767496127_984afc4dc4_t.jpg
+  medium: http://farm8.staticflickr.com/7554/15767496127_984afc4dc4_z.jpg
+  small: http://farm8.staticflickr.com/7554/15767496127_984afc4dc4_n.jpg
+  title: ocupação_terracap3.jpg
+  "$$hashKey": 0GU
+created_date: '2014-12-05T15:09:24-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7554/15767496127_984afc4dc4_n.jpg"
+images_hd: http://farm8.staticflickr.com/7554/15767496127_984afc4dc4_n.jpg
 
 ---
 <p><img alt="ocupação_terracap3.jpg" src="http://farm8.staticflickr.com/7554/15767496127_984afc4dc4_b.jpg" /></p>

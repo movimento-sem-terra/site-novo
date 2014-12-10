@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15921
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/dom moacirII!.jpg
 video: ''
 tags:
-- localização: são paulo
-- assuntos: despejo
+- tag: são paulo
+- tag: despejo
 - tag: reforma agrária
 type: news
 support_line: O arcebispo de Ribeirão Preto, Dom Moacir Silva, visitou as famílias

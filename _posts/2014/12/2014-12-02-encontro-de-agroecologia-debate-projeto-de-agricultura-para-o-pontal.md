@@ -1,28 +1,30 @@
 ---
-date: "2014-12-02T16:14:36-02:00"
+date: '2014-12-02T16:14:36-02:00'
 tags:
-  - tag: Agroecologia
-  - tag: São-Paulo
+- tag: Agroecologia
+- tag: São-Paulo
 title: Encontro de agroecologia debate projeto de agricultura para o Pontal
-support_line: "O evento reuniu mais de 400 participantes e apontou a necessidade de construir e experiências concretas na região,além de um Centro de Referência em Agroecologia."
+support_line: O evento reuniu mais de 400 participantes e apontou a necessidade de
+  construir e experiências concretas na região,além de um Centro de Referência em
+  Agroecologia.
 menu: reforma agrária
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7535/15791622747_d85c08d85d_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7535/15791622747_d85c08d85d_t.jpg"
-    medium: "http://farm8.staticflickr.com/7535/15791622747_d85c08d85d_z.jpg"
-    small: "http://farm8.staticflickr.com/7535/15791622747_d85c08d85d_n.jpg"
-    title: debate_pontal.jpg
-    $$hashKey: 2ZW
-  - link: "http://farm8.staticflickr.com/7496/15977342535_5e33605d91_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7496/15977342535_5e33605d91_t.jpg"
-    medium: "http://farm8.staticflickr.com/7496/15977342535_5e33605d91_z.jpg"
-    small: "http://farm8.staticflickr.com/7496/15977342535_5e33605d91_n.jpg"
-    title: debate_pontal2.jpg
-    $$hashKey: 2ZZ
-created_date: "2014-12-08T16:16:44-02:00"
+- link: http://farm8.staticflickr.com/7535/15791622747_d85c08d85d_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7535/15791622747_d85c08d85d_t.jpg
+  medium: http://farm8.staticflickr.com/7535/15791622747_d85c08d85d_z.jpg
+  small: http://farm8.staticflickr.com/7535/15791622747_d85c08d85d_n.jpg
+  title: debate_pontal.jpg
+  "$$hashKey": 2ZW
+- link: http://farm8.staticflickr.com/7496/15977342535_5e33605d91_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7496/15977342535_5e33605d91_t.jpg
+  medium: http://farm8.staticflickr.com/7496/15977342535_5e33605d91_z.jpg
+  small: http://farm8.staticflickr.com/7496/15977342535_5e33605d91_n.jpg
+  title: debate_pontal2.jpg
+  "$$hashKey": 2ZZ
+created_date: '2014-12-08T16:16:44-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7535/15791622747_d85c08d85d_n.jpg"
+images_hd: http://farm8.staticflickr.com/7535/15791622747_d85c08d85d_n.jpg
 
 ---
 <p><img alt="debate_pontal.jpg" src="http://farm8.staticflickr.com/7535/15791622747_d85c08d85d_b.jpg" /></p>

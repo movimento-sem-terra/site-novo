@@ -6,7 +6,7 @@ images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/melga
   foto2.jpg
 video: ''
 tags:
-- assuntos: transgênicos
+- tag: transgênicos
 - tag: transgênicos
 type: news
 support_line: Engenheiro agrônomo critica a forma com que a comissão  libera transgênicos

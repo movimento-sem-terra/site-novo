@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16273
 images: ''
 video: ''
 tags:
-- assuntos: transgênicos
-- assuntos: saúde
+- tag: transgênicos
+- tag: saúde
 - tag: agronegócio
 - tag: transgênicos
 type: 

@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15762
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/fetraf.jpg
 video: ''
 tags:
-- assuntos: mobilização
+- tag: mobilização
 - tag: lutas e mobilizações
 type: news
 support_line: 'Na pauta de reivindicações, dois pontos centrais: a ampliação da  licença-maternidade

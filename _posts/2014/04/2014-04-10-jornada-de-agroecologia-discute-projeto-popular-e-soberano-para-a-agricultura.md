@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15950
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/jornada_agroecologia!.png
 video: ''
 tags:
-- localização: paraná
-- assuntos: 13° jornada de agroecologia
+- tag: paraná
+- tag: 13° jornada de agroecologia
 - tag: reforma agrária
 type: news
 support_line: A 13 Jornada de Agroecologia acontece na Escola Milton Santos (EMS),

@@ -5,9 +5,9 @@ legacy_url: http://www.mst.org.br/node/16188
 images: http://www.mst.org.br/sites/default/files/IMG_7706.jpg
 video: ''
 tags:
-- destaque: manchete
-- localização: paraná
-- assuntos: 13° jornada de agroecologia
+- tag: manchete
+- tag: paraná
+- tag: 13° jornada de agroecologia
 - tag: lutas e mobilizações
 type: 
 support_line: A marcha teve como objetivo apresentar a Jornada de Agroecologia para

@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16101
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/agroecologia.gif
 video: ''
 tags:
-- localização: bahia
-- assuntos: agroecologia
+- tag: bahia
+- tag: agroecologia
 - tag: agricultura camponesa
 type: news
 support_line: Emtre os dias 16 e 19 acontece o 3º Encontro Nacional de Agroecologia,

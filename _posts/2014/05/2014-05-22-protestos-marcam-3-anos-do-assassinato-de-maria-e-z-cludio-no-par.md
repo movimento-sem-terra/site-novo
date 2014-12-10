@@ -6,8 +6,8 @@ images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/maria
   ze!.jpg
 video: ''
 tags:
-- assuntos: direitos humanos
-- localização: pará
+- tag: direitos humanos
+- tag: pará
 - tag: direitos humanos
 type: news
 support_line: Familiares de José Claudio e Maria do Espírito Santo e entidades ligadas

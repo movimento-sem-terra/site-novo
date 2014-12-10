@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16251
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/Cidona.jpg
 video: ''
 tags:
-- destaque: manchete
-- assuntos: homenagem
+- tag: manchete
+- tag: homenagem
 - tag: lutadores e lutadoras do povo
 type: 
 support_line: 'Nos últimos dias, o MST perdeu duas grandes militantes históricas da

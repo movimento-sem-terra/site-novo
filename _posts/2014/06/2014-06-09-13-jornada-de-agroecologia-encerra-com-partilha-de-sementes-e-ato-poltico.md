@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16199
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/encerramento_jornada.jpg
 video: ''
 tags:
-- localização: paraná
-- assuntos: 13° jornada de agroecologia
+- tag: paraná
+- tag: 13° jornada de agroecologia
 - tag: projeto popular
 type: news
 support_line: A mística de encerramento colocou a importância da juventude enquanto

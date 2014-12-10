@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15862
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/del monte!.jpg
 video: ''
 tags:
-- localização: nordeste
-- assuntos: agronegócio
+- tag: nordeste
+- tag: agronegócio
 - tag: agronegócio
 type: news
 support_line: Seis mil e duzentas pessoas deverão ser demitidas no Rio Grane do Norte

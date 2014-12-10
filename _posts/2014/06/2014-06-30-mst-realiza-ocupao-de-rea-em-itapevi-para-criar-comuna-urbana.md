@@ -5,9 +5,9 @@ legacy_url: http://www.mst.org.br/node/16246
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/itapevi_nova!.jpg
 video: ''
 tags:
-- destaque: manchete
-- localização: são paulo
-- assuntos: ocupação
+- tag: manchete
+- tag: são paulo
+- tag: ocupação
 - tag: lutas e mobilizações
 type: news
 support_line: 150 militantes do MST ocuparam um novo terreno no município de Itapevi,

@@ -6,10 +6,10 @@ legacy_url: http://www.mst.org.br/node/15854
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/isabele.jpg
 video: ''
 tags:
-- tipo de matéria: entrevistas
-- destaque: manchete
-- localização: rio grande do sul
-- assuntos: educação
+- tag: entrevistas
+- tag: manchete
+- tag: rio grande do sul
+- tag: educação
 - tag: educação, cultura e comunicação
 type: news
 support_line: Isabela Camini foi uma das precursoras dos cursos de formação de professores

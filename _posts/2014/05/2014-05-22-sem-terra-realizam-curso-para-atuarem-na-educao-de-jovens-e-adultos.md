@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/16139
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/MEB_ENFF.jpg
 video: ''
 tags:
-- assuntos: educação
+- tag: educação
 - tag: educação, cultura e comunicação
 type: news
 support_line: A atividade está sendo realizada na Escola Nacional Florestan Fernandes,

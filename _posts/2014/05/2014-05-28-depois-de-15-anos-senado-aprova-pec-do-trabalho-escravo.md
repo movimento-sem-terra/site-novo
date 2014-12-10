@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16162
 images: ''
 video: ''
 tags:
-- assuntos: trabalho escravo
-- destaque: manchete
+- tag: trabalho escravo
+- tag: manchete
 - tag: direitos humanos
 type: 
 support_line: Promulgação da emenda constitucional será em sessão solene na próxima

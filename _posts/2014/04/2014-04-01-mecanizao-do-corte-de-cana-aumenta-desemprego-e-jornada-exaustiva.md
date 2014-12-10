@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15909
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/image_large_cana.jpg
 video: ''
 tags:
-- assuntos: agronegócio
+- tag: agronegócio
 - tag: agronegócio
 type: news
 support_line: Pesquisa do Instituto Observatório Social aponta que, apesar dos avanços,

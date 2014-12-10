@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15827
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/guarani-kaiowa-agronegocio2.jpg
 video: ''
 tags:
-- tipo de matéria: artigos
+- tag: artigos
 - tag: agronegócio
 type: news
 support_line: A noção de agronegócio como setor de atividade é limitada, porque não

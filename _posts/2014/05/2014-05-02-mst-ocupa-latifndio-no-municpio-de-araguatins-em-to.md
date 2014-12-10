@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/16046
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/ocupa TO.jpg
 video: ''
 tags:
-- assuntos: jornada de lutas abril 2014
+- tag: jornada de lutas abril 2014
 - tag: lutas e mobilizações
 type: news
 support_line: Mobilização ocorre em jornada de lutas do Movimento, para denunciar

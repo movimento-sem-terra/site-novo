@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15730
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/cultural.jpg
 video: ''
 tags:
-- assuntos: 6° congresso nacional
-- congresso: '6'
+- tag: 6° congresso nacional
+- tag: '6'
 - tag: reforma agrária
 type: news
 support_line: As apresentações culturais animaram os intervalos e noites do VI Congresso

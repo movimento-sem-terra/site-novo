@@ -6,8 +6,8 @@ images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/domin
   do fato.jpg
 video: ''
 tags:
-- localização: rio grande do sul
-- assuntos: direitos humanos
+- tag: rio grande do sul
+- tag: direitos humanos
 - tag: direitos humanos
 type: news
 support_line: Neste sábdo (15), seis jovens da articulação Bloco de Lutas foram indiciados

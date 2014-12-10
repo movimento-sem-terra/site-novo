@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/16124
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/abelhas.jpg
 video: ''
 tags:
-- assuntos: agrotóxicos
+- tag: agrotóxicos
 - tag: agronegócio
 type: news
 support_line: Conduzido por pesquisadores da Universidade de Harvard, o trabalho salienta

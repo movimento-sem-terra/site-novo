@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15942
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/lagoas.jpg
 video: ''
 tags:
-- assuntos: reforma agrária
+- tag: reforma agrária
 - tag: reforma agrária
 type: news
 support_line: Por ser improdutiva, a área de 1.650 hectares foi decretada de interesse

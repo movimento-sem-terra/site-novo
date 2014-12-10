@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15735
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/abelhas.jpg
 video: ''
 tags:
-- assuntos: agrotóxicos
+- tag: agrotóxicos
 - tag: agronegócio
 type: news
 support_line: Um estudo publicado na revista científica Proceedings of the National  Academy

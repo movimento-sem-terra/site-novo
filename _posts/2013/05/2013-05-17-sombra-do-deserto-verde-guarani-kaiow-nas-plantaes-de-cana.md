@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/14844
 images: ''
 video: 2NB61WU1WfM
 tags:
-- destaque: destaque
-- assuntos: indígenas
+- tag: destaque
+- tag: indígenas
 - tag: direitos humanos
 type: video
 support_line: ''

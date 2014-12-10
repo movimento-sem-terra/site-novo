@@ -1,25 +1,27 @@
 ---
-date: "2014-11-14T15:03:30-02:00"
+date: '2014-11-14T15:03:30-02:00'
 tags:
-  - tag: Agrotóxico
-  - tag: veneno
-  - tag: Morte
-  - tag: Apodi
+- tag: Agrotóxico
+- tag: veneno
+- tag: Morte
+- tag: Apodi
 title: Del Monte é condenada por morte de trabalhador por agrotóxicos
 hat: Agronegócio
 menu: agronegócio
-support_line: Tribunal Regional do Trabalho do Ceará mantém decisão que condena multinacional Del Monte (2ª maior fruticultora do mundo) pela morte do agricultutor em razão do trabalho com agrotóxicos.
+support_line: Tribunal Regional do Trabalho do Ceará mantém decisão que condena multinacional
+  Del Monte (2ª maior fruticultora do mundo) pela morte do agricultutor em razão do
+  trabalho com agrotóxicos.
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8587/15951258991_144324102e_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8587/15951258991_144324102e_t.jpg"
-    medium: "http://farm9.staticflickr.com/8587/15951258991_144324102e_z.jpg"
-    small: "http://farm9.staticflickr.com/8587/15951258991_144324102e_n.jpg"
-    title: agrotoxicos.jpg
-    $$hashKey: 2BS
-created_date: "2014-12-05T15:06:19-02:00"
+- link: http://farm9.staticflickr.com/8587/15951258991_144324102e_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8587/15951258991_144324102e_t.jpg
+  medium: http://farm9.staticflickr.com/8587/15951258991_144324102e_z.jpg
+  small: http://farm9.staticflickr.com/8587/15951258991_144324102e_n.jpg
+  title: agrotoxicos.jpg
+  "$$hashKey": 2BS
+created_date: '2014-12-05T15:06:19-02:00'
 published: true
-images_hd: "http://farm9.staticflickr.com/8587/15951258991_144324102e_n.jpg"
+images_hd: http://farm9.staticflickr.com/8587/15951258991_144324102e_n.jpg
 
 ---
 <p><br />

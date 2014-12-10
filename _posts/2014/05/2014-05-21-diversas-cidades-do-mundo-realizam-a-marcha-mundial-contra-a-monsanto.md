@@ -6,7 +6,7 @@ images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/monsa
   paris.jpg
 video: ''
 tags:
-- assuntos: agronegócio
+- tag: agronegócio
 - tag: lutas e mobilizações
 type: news
 support_line: A mobilização, que acontece neste sábado, serve para denunciar as práticas

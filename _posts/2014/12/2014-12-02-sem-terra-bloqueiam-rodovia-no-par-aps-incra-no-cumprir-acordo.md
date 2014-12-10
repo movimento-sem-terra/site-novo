@@ -1,22 +1,23 @@
 ---
-date: "2014-12-02T16:22:45-02:00"
+date: '2014-12-02T16:22:45-02:00'
 tags:
-  - tag: Pará
-  - tag: Reforma-Agrária
+- tag: Pará
+- tag: Reforma-Agrária
 title: Sem Terra bloqueiam rodovia no Pará após Incra não cumprir acordo
-support_line: "Desde segunda, cerca de 3.000 famílias ocupam a estrada PA- 155, que liga Marabá ao restante do sudeste do estado."
+support_line: Desde segunda, cerca de 3.000 famílias ocupam a estrada PA- 155, que
+  liga Marabá ao restante do sudeste do estado.
 menu: lutas e mobilizações
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7491/15790025478_c758b266f6_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7491/15790025478_c758b266f6_t.jpg"
-    medium: "http://farm8.staticflickr.com/7491/15790025478_c758b266f6_z.jpg"
-    small: "http://farm8.staticflickr.com/7491/15790025478_c758b266f6_n.jpg"
-    title: Sem Terra.jpg
-    $$hashKey: 3FG
-created_date: "2014-12-08T16:27:14-02:00"
+- link: http://farm8.staticflickr.com/7491/15790025478_c758b266f6_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7491/15790025478_c758b266f6_t.jpg
+  medium: http://farm8.staticflickr.com/7491/15790025478_c758b266f6_z.jpg
+  small: http://farm8.staticflickr.com/7491/15790025478_c758b266f6_n.jpg
+  title: Sem Terra.jpg
+  "$$hashKey": 3FG
+created_date: '2014-12-08T16:27:14-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7491/15790025478_c758b266f6_n.jpg"
+images_hd: http://farm8.staticflickr.com/7491/15790025478_c758b266f6_n.jpg
 
 ---
 <div id="content-header">

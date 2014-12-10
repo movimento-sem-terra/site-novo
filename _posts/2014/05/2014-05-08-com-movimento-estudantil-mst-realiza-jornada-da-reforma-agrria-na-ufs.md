@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16078
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/SE.png
 video: ''
 tags:
-- localização: sergipe
-- assuntos: jornada de lutas abril 2014
+- tag: sergipe
+- tag: jornada de lutas abril 2014
 type: 
 support_line: Assentados do MST apresentam e comercializam produtos da Reforma Agrária
   no campos da universidade.

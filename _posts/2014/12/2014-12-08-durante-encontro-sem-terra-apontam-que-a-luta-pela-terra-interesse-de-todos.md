@@ -1,24 +1,25 @@
 ---
-date: "2014-12-08T16:47:17-02:00"
+date: '2014-12-08T16:47:17-02:00'
 tags:
-  - tag: reforma-agrária
-  - tag: debate
-  - tag: latifundiários
-  - tag: agroindústria
-title: "Durante encontro, Sem Terra apontam que a luta pela terra é interesse de todos"
-support_line: "Durante encontro estadual do MST em MS, os Sem Terra debateram o conceito de Reforma Agrária Popular."
+- tag: reforma-agrária
+- tag: debate
+- tag: latifundiários
+- tag: agroindústria
+title: Durante encontro, Sem Terra apontam que a luta pela terra é interesse de todos
+support_line: Durante encontro estadual do MST em MS, os Sem Terra debateram o conceito
+  de Reforma Agrária Popular.
 menu: reforma agrária
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8600/15799415377_7573467df0_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8600/15799415377_7573467df0_t.jpg"
-    medium: "http://farm9.staticflickr.com/8600/15799415377_7573467df0_z.jpg"
-    small: "http://farm9.staticflickr.com/8600/15799415377_7573467df0_n.jpg"
-    title: encontro_MS.jpg
-    $$hashKey: 091
-created_date: "2014-12-09T16:50:32-02:00"
+- link: http://farm9.staticflickr.com/8600/15799415377_7573467df0_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8600/15799415377_7573467df0_t.jpg
+  medium: http://farm9.staticflickr.com/8600/15799415377_7573467df0_z.jpg
+  small: http://farm9.staticflickr.com/8600/15799415377_7573467df0_n.jpg
+  title: encontro_MS.jpg
+  "$$hashKey": 091
+created_date: '2014-12-09T16:50:32-02:00'
 published: true
-images_hd: "http://farm9.staticflickr.com/8600/15799415377_7573467df0_n.jpg"
+images_hd: http://farm9.staticflickr.com/8600/15799415377_7573467df0_n.jpg
 
 ---
 <p><img alt="encontro_MS.jpg" src="http://farm9.staticflickr.com/8600/15799415377_7573467df0_b.jpg" /></p>

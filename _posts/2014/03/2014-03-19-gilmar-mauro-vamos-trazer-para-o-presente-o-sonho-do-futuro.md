@@ -6,8 +6,8 @@ images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/gilma
   mauro.jpg
 video: ''
 tags:
-- assuntos: reforma agrária
-- tipo de matéria: entrevistas
+- tag: reforma agrária
+- tag: entrevistas
 - tag: reforma agrária
 type: news
 support_line: Em entrevista, Gilmar Maurofala sobre os caminhos percorridos e os desafios

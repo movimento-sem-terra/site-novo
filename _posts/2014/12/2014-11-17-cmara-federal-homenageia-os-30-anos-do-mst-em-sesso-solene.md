@@ -1,24 +1,25 @@
 ---
-date: "2014-11-17T15:45:47-02:00"
+date: '2014-11-17T15:45:47-02:00'
 tags:
-  - tag: MST
-  - tag: homenagem
-  - tag: 30-anos
-  - tag: Câmara-dos-Deputados
-support_line: "Câmara dos Deputados, em Brasília, realizou uma sessão solene para homenagear os 30 anos do MST."
+- tag: MST
+- tag: homenagem
+- tag: 30-anos
+- tag: Câmara-dos-Deputados
+support_line: Câmara dos Deputados, em Brasília, realizou uma sessão solene para homenagear
+  os 30 anos do MST.
 title: Câmara Federal homenageia os 30 anos do MST em sessão solene
 menu: reforma agrária
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7541/15767425479_2520e62dfe_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7541/15767425479_2520e62dfe_t.jpg"
-    medium: "http://farm8.staticflickr.com/7541/15767425479_2520e62dfe_z.jpg"
-    small: "http://farm8.staticflickr.com/7541/15767425479_2520e62dfe_n.jpg"
-    title: 30anoscamara.jpg
-    $$hashKey: 1EM
-created_date: "2014-12-05T15:48:52-02:00"
+- link: http://farm8.staticflickr.com/7541/15767425479_2520e62dfe_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7541/15767425479_2520e62dfe_t.jpg
+  medium: http://farm8.staticflickr.com/7541/15767425479_2520e62dfe_z.jpg
+  small: http://farm8.staticflickr.com/7541/15767425479_2520e62dfe_n.jpg
+  title: 30anoscamara.jpg
+  "$$hashKey": 1EM
+created_date: '2014-12-05T15:48:52-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7541/15767425479_2520e62dfe_n.jpg"
+images_hd: http://farm8.staticflickr.com/7541/15767425479_2520e62dfe_n.jpg
 
 ---
 <p><img alt="30anoscamara.jpg" src="http://farm8.staticflickr.com/7541/15767425479_2520e62dfe_b.jpg" /></p>

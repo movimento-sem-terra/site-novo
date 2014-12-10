@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15774
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/cpi-frigori.jpg
 video: ''
 tags:
-- assuntos: agronegócio
+- tag: agronegócio
 - tag: agronegócio
 type: news
 support_line: O&nbsp; MTE e o MPT tinha verificado problemas como máquinas com risco

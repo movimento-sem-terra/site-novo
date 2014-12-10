@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15786
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/seca rs.jpg
 video: ''
 tags:
-- localização: são paulo
-- assuntos: seca
+- tag: são paulo
+- tag: seca
 - tag: agricultura camponesa
 type: news
 support_line: Prejuízo  pode chegar a 30% da produção de grãos pela falta de chuvas

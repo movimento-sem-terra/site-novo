@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/14646
 images: ''
 video: 9mw5Wg02yAA
 tags:
-- assuntos: agrotóxicos
+- tag: agrotóxicos
 - tag: agronegócio
 type: video
 support_line: Multinacionais assinam acordo se comprometendo a pagar atendimento  médico

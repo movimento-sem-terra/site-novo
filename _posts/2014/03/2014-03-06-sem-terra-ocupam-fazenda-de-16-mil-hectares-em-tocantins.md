@@ -5,9 +5,9 @@ legacy_url: http://www.mst.org.br/node/15790
 images: ''
 video: ''
 tags:
-- destaque: manchete
-- localização: tocantins
-- assuntos: ocupação
+- tag: manchete
+- tag: tocantins
+- tag: ocupação
 - tag: lutas e mobilizações
 type: news
 support_line: Mais de 300 famílias do acampamento Olga Benário, localizado às margens

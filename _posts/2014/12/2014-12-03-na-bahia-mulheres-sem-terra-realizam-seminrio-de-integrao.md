@@ -1,23 +1,24 @@
 ---
-date: "2014-12-03T16:30:05-02:00"
+date: '2014-12-03T16:30:05-02:00'
 tags:
-  - tag: Bahia
-  - tag: Mulheres-Camponesas
-  - tag: Formação
-title: "Na Bahia, mulheres Sem Terra realizam Seminário de Integração"
-support_line: "500 mulheres se encontram neste final de semana (5 a 7) para o Seminário de Integração, Culminância e Avaliação."
+- tag: Bahia
+- tag: Mulheres-Camponesas
+- tag: Formação
+title: Na Bahia, mulheres Sem Terra realizam Seminário de Integração
+support_line: 500 mulheres se encontram neste final de semana (5 a 7) para o Seminário
+  de Integração, Culminância e Avaliação.
 menu: agricultura camponesa
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8628/15976867672_341e934066_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8628/15976867672_341e934066_t.jpg"
-    medium: "http://farm9.staticflickr.com/8628/15976867672_341e934066_z.jpg"
-    small: "http://farm9.staticflickr.com/8628/15976867672_341e934066_n.jpg"
-    title: Mulheres Convênio BLOCO e CANETA JPEG.jpg
-    $$hashKey: 3LG
-created_date: "2014-12-08T16:43:57-02:00"
+- link: http://farm9.staticflickr.com/8628/15976867672_341e934066_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8628/15976867672_341e934066_t.jpg
+  medium: http://farm9.staticflickr.com/8628/15976867672_341e934066_z.jpg
+  small: http://farm9.staticflickr.com/8628/15976867672_341e934066_n.jpg
+  title: Mulheres Convênio BLOCO e CANETA JPEG.jpg
+  "$$hashKey": 3LG
+created_date: '2014-12-08T16:43:57-02:00'
 published: true
-images_hd: "http://farm9.staticflickr.com/8628/15976867672_341e934066_n.jpg"
+images_hd: http://farm9.staticflickr.com/8628/15976867672_341e934066_n.jpg
 
 ---
 <p><img alt="Mulheres Convênio BLOCO e CANETA JPEG.jpg" src="http://farm9.staticflickr.com/8628/15976867672_341e934066_b.jpg" /></p>

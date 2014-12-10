@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/16004
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/ze dirceu.jpg
 video: ''
 tags:
-- assuntos: direitos humanos
+- tag: direitos humanos
 - tag: direitos humanos
 type: news
 support_line: Em repúdio à criminalização e à exasperação da pena contra José Dirceu,

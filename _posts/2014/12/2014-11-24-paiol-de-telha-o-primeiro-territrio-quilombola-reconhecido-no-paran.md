@@ -1,21 +1,22 @@
 ---
-date: "2014-10-24T15:43:20-02:00"
+date: '2014-10-24T15:43:20-02:00'
 tags:
-  - tag: Paraná
-  - tag: Quilombolas
+- tag: Paraná
+- tag: Quilombolas
 title: Paiol de Telha é o primeiro território quilombola reconhecido no Paraná
-support_line: "Quase 10 anos após abertura do processo, comunidade Invernada Paiol de Telha – Fundão é a primeira do Paraná a chegar nessa fase."
+support_line: Quase 10 anos após abertura do processo, comunidade Invernada Paiol
+  de Telha – Fundão é a primeira do Paraná a chegar nessa fase.
 menu: direitos humanos
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8678/15946635685_430c10b3a3_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8678/15946635685_430c10b3a3_t.jpg"
-    medium: "http://farm9.staticflickr.com/8678/15946635685_430c10b3a3_z.jpg"
-    small: "http://farm9.staticflickr.com/8678/15946635685_430c10b3a3_n.jpg"
-    title: Assinatura-portaria_21.10.jpg
-    $$hashKey: 0EE
+- link: http://farm9.staticflickr.com/8678/15946635685_430c10b3a3_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8678/15946635685_430c10b3a3_t.jpg
+  medium: http://farm9.staticflickr.com/8678/15946635685_430c10b3a3_z.jpg
+  small: http://farm9.staticflickr.com/8678/15946635685_430c10b3a3_n.jpg
+  title: Assinatura-portaria_21.10.jpg
+  "$$hashKey": 0EE
 published: true
-images_hd: "http://farm9.staticflickr.com/8678/15946635685_430c10b3a3_n.jpg"
+images_hd: http://farm9.staticflickr.com/8678/15946635685_430c10b3a3_n.jpg
 
 ---
 <p><img alt="Assinatura-portaria_21.10.jpg" src="http://farm9.staticflickr.com/8678/15946635685_430c10b3a3_b.jpg" /></p>

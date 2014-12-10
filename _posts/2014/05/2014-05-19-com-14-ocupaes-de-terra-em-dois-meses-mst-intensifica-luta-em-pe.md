@@ -6,8 +6,8 @@ images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/justi
   social!.jpg
 video: ''
 tags:
-- localização: pernambuco
-- assuntos: reforma agrária
+- tag: pernambuco
+- tag: reforma agrária
 - tag: lutas e mobilizações
 type: news
 support_line: 'Cerca de 350 famílias ocuparam neste sábado dois Engenhos falidos no

@@ -1,21 +1,23 @@
 ---
-date: "2014-10-21T11:51:19-02:00"
+date: '2014-10-21T11:51:19-02:00'
 tags:
-  - tag: Transgênicos
-  - tag: Mulheres-Camponesas
+- tag: Transgênicos
+- tag: Mulheres-Camponesas
 title: Camponesas protagonizam luta contra os transgênicos
 menu: agronegócio
-support_line: "Argentinas e brasileiras são protagonistas de frentes de resistência ao modelo de agricultura industrial, contra as sementes transgênicas e pela soberania alimentar na América Latina."
+support_line: Argentinas e brasileiras são protagonistas de frentes de resistência
+  ao modelo de agricultura industrial, contra as sementes transgênicas e pela soberania
+  alimentar na América Latina.
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8679/15919455426_6625737d35_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8679/15919455426_6625737d35_t.jpg"
-    medium: "http://farm9.staticflickr.com/8679/15919455426_6625737d35_z.jpg"
-    small: "http://farm9.staticflickr.com/8679/15919455426_6625737d35_n.jpg"
-    title: mulheres camponesas.jpg
-    $$hashKey: 35K
+- link: http://farm9.staticflickr.com/8679/15919455426_6625737d35_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8679/15919455426_6625737d35_t.jpg
+  medium: http://farm9.staticflickr.com/8679/15919455426_6625737d35_z.jpg
+  small: http://farm9.staticflickr.com/8679/15919455426_6625737d35_n.jpg
+  title: mulheres camponesas.jpg
+  "$$hashKey": 35K
 published: true
-images_hd: "http://farm9.staticflickr.com/8679/15919455426_6625737d35_n.jpg"
+images_hd: http://farm9.staticflickr.com/8679/15919455426_6625737d35_n.jpg
 
 ---
 <div id="content-header">

@@ -1,22 +1,23 @@
 ---
-date: "2014-10-20T11:36:40-02:00"
+date: '2014-10-20T11:36:40-02:00'
 tags:
-  - tag: São-Paulo
-  - tag: Produção
-  - tag: Pnae
+- tag: São-Paulo
+- tag: Produção
+- tag: Pnae
 title: MST vende feijão da Reforma Agrária para as escolas de São Paulo
 menu: reforma agrária
-support_line: A prefeitura de São Paulo fechou um acordo com duas cooperativas do MST para a compra de 520 toneladas de feijão pelo PNAE.
+support_line: A prefeitura de São Paulo fechou um acordo com duas cooperativas do
+  MST para a compra de 520 toneladas de feijão pelo PNAE.
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7511/15757892360_917c48c660_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7511/15757892360_917c48c660_t.jpg"
-    medium: "http://farm8.staticflickr.com/7511/15757892360_917c48c660_z.jpg"
-    small: "http://farm8.staticflickr.com/7511/15757892360_917c48c660_n.jpg"
-    title: Feijão-Marrom.jpg
-    $$hashKey: 2N9
+- link: http://farm8.staticflickr.com/7511/15757892360_917c48c660_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7511/15757892360_917c48c660_t.jpg
+  medium: http://farm8.staticflickr.com/7511/15757892360_917c48c660_z.jpg
+  small: http://farm8.staticflickr.com/7511/15757892360_917c48c660_n.jpg
+  title: Feijão-Marrom.jpg
+  "$$hashKey": 2N9
 published: true
-images_hd: "http://farm8.staticflickr.com/7511/15757892360_917c48c660_n.jpg"
+images_hd: http://farm8.staticflickr.com/7511/15757892360_917c48c660_n.jpg
 
 ---
 <div id="content-header">

@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/16113
 images: ''
 video: ''
 tags:
-- destaque: manchete
+- tag: manchete
 type: 
 support_line: ''
 section: cover

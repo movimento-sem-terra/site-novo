@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/14799
 images: ''
 video: 6QopnsvGGqA
 tags:
-- assuntos: nicolás maduro
-- localização: venezuela
+- tag: nicolás maduro
+- tag: venezuela
 - tag: internacional
 type: video
 support_line: O presidente da Venezuela Nicolas Maduro participou de uma palestra

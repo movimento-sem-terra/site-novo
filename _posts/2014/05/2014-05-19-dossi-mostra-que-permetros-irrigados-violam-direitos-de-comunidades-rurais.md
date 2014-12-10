@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/16122
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/ena.jpg
 video: ''
 tags:
-- assuntos: agronegócio
+- tag: agronegócio
 - tag: agronegócio
 type: news
 support_line: Pesquisa inédita coordenada pela UFC mostra que as expectativas para

@@ -6,7 +6,7 @@ images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/refor
   política!.jpg
 video: ''
 tags:
-- assuntos: reforma política
+- tag: reforma política
 - tag: projeto popular
 type: news
 support_line: Consulta popular acontecerá entre os dias 1º e 7 de setembro de 2014.

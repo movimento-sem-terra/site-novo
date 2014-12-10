@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15760
 images: ''
 video: aTk_4rm7QD8
 tags:
-- assuntos: unidos da lona preta
+- tag: unidos da lona preta
 - tag: educação, cultura e comunicação
 type: video
 support_line: A Unidos da Lona Preta tem  como principais objetivos contribuir com

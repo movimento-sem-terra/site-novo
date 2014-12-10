@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16219
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/organico!.jpg
 video: ''
 tags:
-- assuntos: agricultura
-- tipo de matéria: entrevistas
+- tag: agricultura
+- tag: entrevistas
 - tag: agricultura camponesa
 type: 
 support_line: Em entrevista, a&nbsp;nutricionista Elaine de Azevedo, pesquisadora

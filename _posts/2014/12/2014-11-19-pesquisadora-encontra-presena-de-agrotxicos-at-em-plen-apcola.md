@@ -1,25 +1,27 @@
 ---
-date: "2014-11-19T16:20:46-02:00"
+date: '2014-11-19T16:20:46-02:00'
 tags:
-  - tag: Abelhas
-  - tag: Pólen
-  - tag: Meio-ambiente
-  - tag: agrotóxicos
+- tag: Abelhas
+- tag: Pólen
+- tag: Meio-ambiente
+- tag: agrotóxicos
 title: Pesquisadora encontra presença de agrotóxicos até em pólen apícola
 hat: Meio Ambiente
 menu: meio ambiente
-support_line: "“Se as substâncias estão no pólen, é sinal de que estão também no ambiente. Isso revela a necessidade de maior controle em torno do uso desses produtos”, afirma a autora do trabalho."
+support_line: "“Se as substâncias estão no pólen, é sinal de que estão também no ambiente.
+  Isso revela a necessidade de maior controle em torno do uso desses produtos”, afirma
+  a autora do trabalho."
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7464/15927860816_c370dc5a01_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7464/15927860816_c370dc5a01_t.jpg"
-    medium: "http://farm8.staticflickr.com/7464/15927860816_c370dc5a01_z.jpg"
-    small: "http://farm8.staticflickr.com/7464/15927860816_c370dc5a01_n.jpg"
-    title: abelha.jpg
-    $$hashKey: 3R3
-created_date: "2014-12-05T16:24:10-02:00"
+- link: http://farm8.staticflickr.com/7464/15927860816_c370dc5a01_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7464/15927860816_c370dc5a01_t.jpg
+  medium: http://farm8.staticflickr.com/7464/15927860816_c370dc5a01_z.jpg
+  small: http://farm8.staticflickr.com/7464/15927860816_c370dc5a01_n.jpg
+  title: abelha.jpg
+  "$$hashKey": 3R3
+created_date: '2014-12-05T16:24:10-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7464/15927860816_c370dc5a01_n.jpg"
+images_hd: http://farm8.staticflickr.com/7464/15927860816_c370dc5a01_n.jpg
 
 ---
 <p><br />

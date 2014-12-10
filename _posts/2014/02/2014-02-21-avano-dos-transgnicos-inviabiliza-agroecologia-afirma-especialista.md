@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15763
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/transgenicos.jpg
 video: ''
 tags:
-- assuntos: transgênicos
-- tipo de matéria: entrevistas
+- tag: transgênicos
+- tag: entrevistas
 - tag: transgênicos
 type: news
 support_line: "“O  artigo 9º da Lei 10.814 previa que o produtor de transgênicos que

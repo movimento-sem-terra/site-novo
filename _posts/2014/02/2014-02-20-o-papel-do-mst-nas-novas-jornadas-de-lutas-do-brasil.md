@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15757
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/mst 302.jpg
 video: ''
 tags:
-- tipo de matéria: artigos
+- tag: artigos
 - tag: lutas e mobilizações
 type: news
 support_line: O movimento mantém referência na sociedade e pode cumprir um papel pedagógico,

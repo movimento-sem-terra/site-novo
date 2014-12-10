@@ -1,25 +1,26 @@
 ---
-date: "2014-11-20T15:56:52-02:00"
+date: '2014-11-20T15:56:52-02:00'
 tags:
-  - tag: Juventude
-  - tag: MST
-  - tag: acampamento
-  - tag: luta
-  - tag: campo
+- tag: Juventude
+- tag: MST
+- tag: acampamento
+- tag: luta
+- tag: campo
 title: Brasil recebe 14° Acampamento da juventude latino-americana
 menu: lutas e mobilizações
-support_line: Evento faz parte do processo de articulação da juventude do campo e da cidade latinoamericana
+support_line: Evento faz parte do processo de articulação da juventude do campo e
+  da cidade latinoamericana
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7543/15767480849_83486a9d78_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7543/15767480849_83486a9d78_t.jpg"
-    medium: "http://farm8.staticflickr.com/7543/15767480849_83486a9d78_z.jpg"
-    small: "http://farm8.staticflickr.com/7543/15767480849_83486a9d78_n.jpg"
-    title: acampamento juventude_0.jpg
-    $$hashKey: 1LL
-created_date: "2014-12-05T15:59:10-02:00"
+- link: http://farm8.staticflickr.com/7543/15767480849_83486a9d78_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7543/15767480849_83486a9d78_t.jpg
+  medium: http://farm8.staticflickr.com/7543/15767480849_83486a9d78_z.jpg
+  small: http://farm8.staticflickr.com/7543/15767480849_83486a9d78_n.jpg
+  title: acampamento juventude_0.jpg
+  "$$hashKey": 1LL
+created_date: '2014-12-05T15:59:10-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7543/15767480849_83486a9d78_n.jpg"
+images_hd: http://farm8.staticflickr.com/7543/15767480849_83486a9d78_n.jpg
 
 ---
 <p><img alt="acampamento juventude_0.jpg" src="http://farm8.staticflickr.com/7543/15767480849_83486a9d78_b.jpg" /></p>

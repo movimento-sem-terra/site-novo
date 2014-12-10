@@ -1,21 +1,22 @@
 ---
-date: "2014-12-04T11:59:17-02:00"
+date: '2014-12-04T11:59:17-02:00'
 tags:
-  - tag: Embrapa
+- tag: Embrapa
 title: Ruralistas e a Senadora Kátia Abreu querem privatizar a Embrapa
 menu: agronegócio
-support_line: "Qual seria o interesse das empresas estrangeiras de sementes, transgênicos, fertilizantes e agrotóxicos?"
+support_line: Qual seria o interesse das empresas estrangeiras de sementes, transgênicos,
+  fertilizantes e agrotóxicos?
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8587/15797413449_9be732e455_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8587/15797413449_9be732e455_t.jpg"
-    medium: "http://farm9.staticflickr.com/8587/15797413449_9be732e455_z.jpg"
-    small: "http://farm9.staticflickr.com/8587/15797413449_9be732e455_n.jpg"
-    title: embrapa222.jpg
-    $$hashKey: 0ZB
-created_date: "2014-12-09T12:00:51-02:00"
+- link: http://farm9.staticflickr.com/8587/15797413449_9be732e455_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8587/15797413449_9be732e455_t.jpg
+  medium: http://farm9.staticflickr.com/8587/15797413449_9be732e455_z.jpg
+  small: http://farm9.staticflickr.com/8587/15797413449_9be732e455_n.jpg
+  title: embrapa222.jpg
+  "$$hashKey": 0ZB
+created_date: '2014-12-09T12:00:51-02:00'
 published: true
-images_hd: "http://farm9.staticflickr.com/8587/15797413449_9be732e455_n.jpg"
+images_hd: http://farm9.staticflickr.com/8587/15797413449_9be732e455_n.jpg
 
 ---
 <div id="content-header">

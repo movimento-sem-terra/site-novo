@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/16147
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/plebiscito_retafinal.jpg
 video: ''
 tags:
-- assuntos: plebiscito
+- tag: plebiscito
 - tag: projeto popular
 type: news
 support_line: Em todo o Brasil há 400 comitês constituídos participando da campanha

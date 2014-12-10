@@ -5,9 +5,9 @@ legacy_url: http://www.mst.org.br/node/16155
 images: ''
 video: ''
 tags:
-- destaque: manchete
-- localização: méxico
-- assuntos: solidariedade
+- tag: manchete
+- tag: méxico
+- tag: solidariedade
 - tag: internacional
 type: news
 support_line: No caracol&nbsp;La Realidad&nbsp;foram escutadas as “últimas palavras

@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16095
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/não.jpg
 video: ''
 tags:
-- assuntos: agronegócio
-- tipo de matéria: artigos
+- tag: agronegócio
+- tag: artigos
 - tag: transgênicos
 type: news
 support_line: '"São questões que envolvem altos interesses. Apenas nove fabricantes

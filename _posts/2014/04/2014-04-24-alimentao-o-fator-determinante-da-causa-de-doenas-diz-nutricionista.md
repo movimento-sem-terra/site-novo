@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16005
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/alimento.JPG
 video: ''
 tags:
-- assuntos: alimentação
-- tipo de matéria: entrevistas
+- tag: alimentação
+- tag: entrevistas
 - tag: agricultura camponesa
 type: news
 support_line: A nutricionista Signorá Konrad, a frente da construção do novo Guia

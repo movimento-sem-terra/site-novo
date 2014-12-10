@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/16236
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/cemig!.jpg
 video: ''
 tags:
-- localização: paraná
+- tag: paraná
 - tag: lutas e mobilizações
 type: news
 support_line: Manifestantes pedem à COPEL e ao governador o cancelamento imediato

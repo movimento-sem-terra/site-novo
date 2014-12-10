@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16034
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/terra_liberdade!.jpg
 video: ''
 tags:
-- localização: minas gerais
-- assuntos: jornada de lutas abril 2014
+- tag: minas gerais
+- tag: jornada de lutas abril 2014
 - tag: lutas e mobilizações
 type: news
 support_line: Os manifestantes reclamam do descaso do governo federal com a pauta

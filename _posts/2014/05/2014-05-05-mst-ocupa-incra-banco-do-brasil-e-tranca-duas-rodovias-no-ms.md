@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16058
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/ocupação_incra_MS!.jpg
 video: ''
 tags:
-- localização: mato grosso do sul
-- assuntos: jornada de lutas abril 2014
+- tag: mato grosso do sul
+- tag: jornada de lutas abril 2014
 - tag: lutas e mobilizações
 type: news
 support_line: Atualmente, há mais de nove mil famílias acampadas em todo o estado,

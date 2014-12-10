@@ -1,22 +1,23 @@
 ---
-date: "2014-10-27T16:25:43-02:00"
+date: '2014-10-27T16:25:43-02:00'
 tags:
-  - tag: MST
-  - tag: MTST
-  - tag: MObilizações
+- tag: MST
+- tag: MTST
+- tag: MObilizações
 title: Sem Terra e sem-teto planejam intensificar ações em 2015
 menu: lutas e mobilizações
-support_line: "\"O próximo governo terá de escolher quem vai sair perdendo, e nós precisamos lutar para que não sejam os trabalhadores\", disse Gilmar Mauro, do MST."
+support_line: '"O próximo governo terá de escolher quem vai sair perdendo, e nós precisamos
+  lutar para que não sejam os trabalhadores", disse Gilmar Mauro, do MST.'
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7502/15921082056_fd926defcc_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7502/15921082056_fd926defcc_t.jpg"
-    medium: "http://farm8.staticflickr.com/7502/15921082056_fd926defcc_z.jpg"
-    small: "http://farm8.staticflickr.com/7502/15921082056_fd926defcc_n.jpg"
-    title: herdeiros da terra II.jpg
-    $$hashKey: 8QF
+- link: http://farm8.staticflickr.com/7502/15921082056_fd926defcc_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7502/15921082056_fd926defcc_t.jpg
+  medium: http://farm8.staticflickr.com/7502/15921082056_fd926defcc_z.jpg
+  small: http://farm8.staticflickr.com/7502/15921082056_fd926defcc_n.jpg
+  title: herdeiros da terra II.jpg
+  "$$hashKey": 8QF
 published: true
-images_hd: "http://farm8.staticflickr.com/7502/15921082056_fd926defcc_n.jpg"
+images_hd: http://farm8.staticflickr.com/7502/15921082056_fd926defcc_n.jpg
 
 ---
 <div id="content-header">

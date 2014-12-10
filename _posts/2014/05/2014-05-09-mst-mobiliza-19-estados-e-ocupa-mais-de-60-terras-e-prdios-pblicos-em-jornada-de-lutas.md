@@ -6,8 +6,8 @@ legacy_url: http://www.mst.org.br/node/16082
 images: ''
 video: ''
 tags:
-- destaque: manchete
-- assuntos: jornada de lutas abril 2014
+- tag: manchete
+- tag: jornada de lutas abril 2014
 - tag: lutas e mobilizações
 type: news
 support_line: A Jornada Nacional por Reforma Agrária mobilizou 19 estados e o DF,

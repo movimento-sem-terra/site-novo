@@ -1,22 +1,24 @@
 ---
-date: "2014-12-04T11:50:44-02:00"
+date: '2014-12-04T11:50:44-02:00'
 tags:
-  - tag: Indígenas
-  - tag: PEC-215
+- tag: Indígenas
+- tag: PEC-215
 title: Ruralistas ampliam ataque aos direitos fundiários dos povos indígenas
-support_line: "O texto do Substitutivo à PEC 215 inviabiliza novas demarcações de terras indígenas, reabre procedimentos já finalizados e legaliza a invasão, a posse e a exploração das terras indígenas."
+support_line: O texto do Substitutivo à PEC 215 inviabiliza novas demarcações de terras
+  indígenas, reabre procedimentos já finalizados e legaliza a invasão, a posse e a
+  exploração das terras indígenas.
 menu: direitos humanos
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7559/15363746693_3617e55404_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7559/15363746693_3617e55404_t.jpg"
-    medium: "http://farm8.staticflickr.com/7559/15363746693_3617e55404_z.jpg"
-    small: "http://farm8.staticflickr.com/7559/15363746693_3617e55404_n.jpg"
-    title: in.jpg
-    $$hashKey: 0HW
-created_date: "2014-12-09T11:52:21-02:00"
+- link: http://farm8.staticflickr.com/7559/15363746693_3617e55404_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7559/15363746693_3617e55404_t.jpg
+  medium: http://farm8.staticflickr.com/7559/15363746693_3617e55404_z.jpg
+  small: http://farm8.staticflickr.com/7559/15363746693_3617e55404_n.jpg
+  title: in.jpg
+  "$$hashKey": 0HW
+created_date: '2014-12-09T11:52:21-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7559/15363746693_3617e55404_n.jpg"
+images_hd: http://farm8.staticflickr.com/7559/15363746693_3617e55404_n.jpg
 
 ---
 <div id="content-header">

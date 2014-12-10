@@ -1,24 +1,25 @@
 ---
-date: "2014-11-20T15:59:18-02:00"
+date: '2014-11-20T15:59:18-02:00'
 tags:
-  - tag: acampamento
-  - tag: juventude
-  - tag: unidade
-  - tag: Latino-Americana
+- tag: acampamento
+- tag: juventude
+- tag: unidade
+- tag: Latino-Americana
 title: Juventude reafirma a unidade contra o Imperialismo na América
-support_line: Foi com o chamado para Internacionalizar a luta e a esperança que a juventude do campo e cidade iniciaram o primeiro dia de acampamento.
+support_line: Foi com o chamado para Internacionalizar a luta e a esperança que a
+  juventude do campo e cidade iniciaram o primeiro dia de acampamento.
 menu: solidariedade
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7494/15953531875_e99a09eec8_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7494/15953531875_e99a09eec8_t.jpg"
-    medium: "http://farm8.staticflickr.com/7494/15953531875_e99a09eec8_z.jpg"
-    small: "http://farm8.staticflickr.com/7494/15953531875_e99a09eec8_n.jpg"
-    title: 14-acampamento-juventude-latino-americana.jpg
-    $$hashKey: 1SP
-created_date: "2014-12-05T16:03:56-02:00"
+- link: http://farm8.staticflickr.com/7494/15953531875_e99a09eec8_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7494/15953531875_e99a09eec8_t.jpg
+  medium: http://farm8.staticflickr.com/7494/15953531875_e99a09eec8_z.jpg
+  small: http://farm8.staticflickr.com/7494/15953531875_e99a09eec8_n.jpg
+  title: 14-acampamento-juventude-latino-americana.jpg
+  "$$hashKey": 1SP
+created_date: '2014-12-05T16:03:56-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7494/15953531875_e99a09eec8_n.jpg"
+images_hd: http://farm8.staticflickr.com/7494/15953531875_e99a09eec8_n.jpg
 
 ---
 <p><em>Por Comunica&ccedil;&atilde;o da Via Campesina&nbsp;<br />

@@ -6,7 +6,7 @@ images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/pobre
   rural!.jpg
 video: ''
 tags:
-- assuntos: "êxodo rural"
+- tag: "êxodo rural"
 - tag: agronegócio
 type: news
 support_line: Os pequenos agricultores e as comunidades tradicionais brasileiras  sofrem

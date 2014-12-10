@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16069
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/apodi elitiel.jpg
 video: ''
 tags:
-- localização: ceará
-- assuntos: jornada de lutas abril 2014
+- tag: ceará
+- tag: jornada de lutas abril 2014
 - tag: lutas e mobilizações
 type: news
 support_line: Mil trabalhadores do MST, CPT e Movimento 21 estão acampados desde segunda-feira

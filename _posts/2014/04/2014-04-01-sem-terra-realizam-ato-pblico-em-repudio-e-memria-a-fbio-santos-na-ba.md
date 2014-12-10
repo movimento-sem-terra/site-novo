@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15910
 images: ''
 video: ''
 tags:
-- localização: bahia
-- assuntos: direitos humanos
+- tag: bahia
+- tag: direitos humanos
 - tag: direitos humanos
 type: news
 support_line: Além de relembrar o legado do militante Fábio e sua atuação no município,

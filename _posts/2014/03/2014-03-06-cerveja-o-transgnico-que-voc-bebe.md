@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15797
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/cervejamilho.jpg
 video: ''
 tags:
-- assuntos: transgênicos
+- tag: transgênicos
 - tag: transgênicos
 type: news
 support_line: Sem informar consumidores, Ambev, Itaipava, Kaiser e outras marcas  trocam

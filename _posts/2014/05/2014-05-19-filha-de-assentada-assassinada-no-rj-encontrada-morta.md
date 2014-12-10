@@ -6,8 +6,8 @@ images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/mulhe
   assassinada!.jpg
 video: ''
 tags:
-- localização: rio de janeiro
-- assuntos: direitos humanos
+- tag: rio de janeiro
+- tag: direitos humanos
 - tag: direitos humanos
 type: news
 support_line: Menina de 10 anos foi encontrada dentro de um poço na manhã desta segunda-feira  (19/05).

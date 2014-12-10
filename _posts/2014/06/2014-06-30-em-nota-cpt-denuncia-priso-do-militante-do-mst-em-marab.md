@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16247
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/mstcpt.jpg
 video: ''
 tags:
-- localização: pará
-- assuntos: violência
+- tag: pará
+- tag: violência
 - tag: direitos humanos
 type: news
 support_line: A criminalização aos militantes do MST no Pará tem se intensificado,

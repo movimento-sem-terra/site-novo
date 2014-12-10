@@ -1,21 +1,23 @@
 ---
-date: "2014-12-05T13:25:33-02:00"
+date: '2014-12-05T13:25:33-02:00'
 tags:
-  - tag: dom-Pedro-Casaldáliga
+- tag: dom-Pedro-Casaldáliga
 title: Formação de camponeses no Araguaia é legado de dom Pedro Casaldáliga
-support_line: "De cunho crítico, a formação incentivada pelo bispo emérito no início da década de 1970 foi fundamental para a resistência e permanência das famílias de camponeses e indígenas na região, em contraposição aos latifundiários."
+support_line: De cunho crítico, a formação incentivada pelo bispo emérito no início
+  da década de 1970 foi fundamental para a resistência e permanência das famílias
+  de camponeses e indígenas na região, em contraposição aos latifundiários.
 menu: lutadores-do-povo
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7519/15364337603_4a053d22bf_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7519/15364337603_4a053d22bf_t.jpg"
-    medium: "http://farm8.staticflickr.com/7519/15364337603_4a053d22bf_z.jpg"
-    small: "http://farm8.staticflickr.com/7519/15364337603_4a053d22bf_n.jpg"
-    title: dom_pedro.jpg
-    $$hashKey: 1GN
-created_date: "2014-12-09T13:27:11-02:00"
+- link: http://farm8.staticflickr.com/7519/15364337603_4a053d22bf_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7519/15364337603_4a053d22bf_t.jpg
+  medium: http://farm8.staticflickr.com/7519/15364337603_4a053d22bf_z.jpg
+  small: http://farm8.staticflickr.com/7519/15364337603_4a053d22bf_n.jpg
+  title: dom_pedro.jpg
+  "$$hashKey": 1GN
+created_date: '2014-12-09T13:27:11-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7519/15364337603_4a053d22bf_n.jpg"
+images_hd: http://farm8.staticflickr.com/7519/15364337603_4a053d22bf_n.jpg
 
 ---
 <p><img alt="dom_pedro.jpg" src="http://farm8.staticflickr.com/7519/15364337603_4a053d22bf_b.jpg" /></p>

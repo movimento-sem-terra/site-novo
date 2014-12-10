@@ -1,22 +1,23 @@
 ---
-date: "2014-11-28T15:41:21-02:00"
+date: '2014-11-28T15:41:21-02:00'
 tags:
-  - tag: Sergipe
-  - tag: Assentamento
-title: "Após 17 anos, Sem Terra conquistam o Assentamento Zumbi dos Palmares"
-support_line: "As 250 famílias receberam a imissão de posse da Fazenda Tinguí, na região metropolitana de Sergipe."
+- tag: Sergipe
+- tag: Assentamento
+title: Após 17 anos, Sem Terra conquistam o Assentamento Zumbi dos Palmares
+support_line: As 250 famílias receberam a imissão de posse da Fazenda Tinguí, na região
+  metropolitana de Sergipe.
 menu: reforma agrária
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7561/15976460592_256867a342_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7561/15976460592_256867a342_t.jpg"
-    medium: "http://farm8.staticflickr.com/7561/15976460592_256867a342_z.jpg"
-    small: "http://farm8.staticflickr.com/7561/15976460592_256867a342_n.jpg"
-    title: Zumbi dos Palamres_SE.jpg
-    $$hashKey: 1YY
-created_date: "2014-12-08T15:42:52-02:00"
+- link: http://farm8.staticflickr.com/7561/15976460592_256867a342_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7561/15976460592_256867a342_t.jpg
+  medium: http://farm8.staticflickr.com/7561/15976460592_256867a342_z.jpg
+  small: http://farm8.staticflickr.com/7561/15976460592_256867a342_n.jpg
+  title: Zumbi dos Palamres_SE.jpg
+  "$$hashKey": 1YY
+created_date: '2014-12-08T15:42:52-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7561/15976460592_256867a342_n.jpg"
+images_hd: http://farm8.staticflickr.com/7561/15976460592_256867a342_n.jpg
 
 ---
 <p><img alt="Zumbi dos Palamres_SE.jpg" src="http://farm8.staticflickr.com/7561/15976460592_256867a342_b.jpg" /></p>

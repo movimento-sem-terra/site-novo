@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15739
 images: ''
 video: ''
 tags:
-- semana: tema da semana
-- assuntos: mst 30 anos
+- tag: tema da semana
+- tag: mst 30 anos
 - tag: reforma agrária
 type: news
 support_line: ''

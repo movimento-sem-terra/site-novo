@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15980
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/levante!.jpg
 video: ''
 tags:
-- localização: são paulo
-- assuntos: mobilização
+- tag: são paulo
+- tag: mobilização
 - tag: lutas e mobilizações
 type: news
 support_line: O movimento realiza seu 2º Acampamento Nacional entre os dias 17 e 21

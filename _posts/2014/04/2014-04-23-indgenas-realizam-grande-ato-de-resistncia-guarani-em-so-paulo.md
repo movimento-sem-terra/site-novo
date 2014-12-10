@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16003
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/indigenas!.jpg
 video: ''
 tags:
-- localização: são paulo
-- assuntos: indígenas
+- tag: são paulo
+- tag: indígenas
 - tag: lutas e mobilizações
 type: news
 support_line: 'Nesta quinta-feira (24), será realizado em São Paulo o "Grande Ato

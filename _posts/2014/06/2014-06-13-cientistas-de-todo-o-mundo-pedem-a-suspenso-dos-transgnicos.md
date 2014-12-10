@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/16213
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/transgenicos.jpg
 video: ''
 tags:
-- assuntos: agronegócio
+- tag: agronegócio
 - tag: transgênicos
 type: news
 support_line: Em carta aberta, os cientistas se demonstram extremamente preocupados

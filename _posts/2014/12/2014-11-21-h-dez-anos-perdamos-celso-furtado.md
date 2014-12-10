@@ -1,22 +1,24 @@
 ---
-date: "2014-11-21T15:55:28-02:00"
+date: '2014-11-21T15:55:28-02:00'
 tags:
-  - tag: Homenagem
-  - tag: Celso-Furtado
+- tag: Homenagem
+- tag: Celso-Furtado
 title: Há dez anos perdíamos Celso Furtado
-support_line: "Celso Furtado é um dos grandes pensadores da realidade brasileira, considerado por muitos como o arquiteto da economia política brasileira, ao ser o pai do Modelo de Subsituição de Importações."
+support_line: Celso Furtado é um dos grandes pensadores da realidade brasileira, considerado
+  por muitos como o arquiteto da economia política brasileira, ao ser o pai do Modelo
+  de Subsituição de Importações.
 menu: lutadores-do-povo
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7543/15951545161_11e47d7cfc_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7543/15951545161_11e47d7cfc_t.jpg"
-    medium: "http://farm8.staticflickr.com/7543/15951545161_11e47d7cfc_z.jpg"
-    small: "http://farm8.staticflickr.com/7543/15951545161_11e47d7cfc_n.jpg"
-    title: 2closerosto.jpg
-    $$hashKey: 26U
-created_date: "2014-12-05T15:57:04-02:00"
+- link: http://farm8.staticflickr.com/7543/15951545161_11e47d7cfc_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7543/15951545161_11e47d7cfc_t.jpg
+  medium: http://farm8.staticflickr.com/7543/15951545161_11e47d7cfc_z.jpg
+  small: http://farm8.staticflickr.com/7543/15951545161_11e47d7cfc_n.jpg
+  title: 2closerosto.jpg
+  "$$hashKey": 26U
+created_date: '2014-12-05T15:57:04-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7543/15951545161_11e47d7cfc_n.jpg"
+images_hd: http://farm8.staticflickr.com/7543/15951545161_11e47d7cfc_n.jpg
 
 ---
 <figure class="image" style="float:left"><img alt="2closerosto.jpg" src="http://farm8.staticflickr.com/7543/15951545161_11e47d7cfc_b.jpg" />

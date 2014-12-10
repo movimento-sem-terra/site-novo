@@ -1,22 +1,23 @@
 ---
-date: "2014-12-04T11:57:20-02:00"
+date: '2014-12-04T11:57:20-02:00'
 tags:
-  - tag: COP-20
-  - tag: Cúpula-dos-Povos
+- tag: COP-20
+- tag: Cúpula-dos-Povos
 title: Cúpula dos Povos amplia discussões não priorizadas pela COP20
 menu: meio ambiente
-support_line: "A Cúpula dos Povos, um encontro paralelo a COP20, acontece entre os dias 8 a 11 de dezembro, em Lima, no Peru."
+support_line: A Cúpula dos Povos, um encontro paralelo a COP20, acontece entre os
+  dias 8 a 11 de dezembro, em Lima, no Peru.
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8658/15796012668_3417be5ea2_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8658/15796012668_3417be5ea2_t.jpg"
-    medium: "http://farm9.staticflickr.com/8658/15796012668_3417be5ea2_z.jpg"
-    small: "http://farm9.staticflickr.com/8658/15796012668_3417be5ea2_n.jpg"
-    title: cumbre_los_pueblos3_reproducao.jpg
-    $$hashKey: 0UZ
-created_date: "2014-12-09T11:59:06-02:00"
+- link: http://farm9.staticflickr.com/8658/15796012668_3417be5ea2_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8658/15796012668_3417be5ea2_t.jpg
+  medium: http://farm9.staticflickr.com/8658/15796012668_3417be5ea2_z.jpg
+  small: http://farm9.staticflickr.com/8658/15796012668_3417be5ea2_n.jpg
+  title: cumbre_los_pueblos3_reproducao.jpg
+  "$$hashKey": 0UZ
+created_date: '2014-12-09T11:59:06-02:00'
 published: true
-images_hd: "http://farm9.staticflickr.com/8658/15796012668_3417be5ea2_n.jpg"
+images_hd: http://farm9.staticflickr.com/8658/15796012668_3417be5ea2_n.jpg
 
 ---
 <div id="content-header">

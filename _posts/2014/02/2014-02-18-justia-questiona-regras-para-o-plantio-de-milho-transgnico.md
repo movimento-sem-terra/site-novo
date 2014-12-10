@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15744
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/transgenico_duvida!.jpg
 video: ''
 tags:
-- assuntos: transgênicos
+- tag: transgênicos
 - tag: transgênicos
 type: news
 support_line: Julgamento  será amanhã (19/02), às 19h, em Porto Alegre. ACP pede a

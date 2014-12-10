@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/16218
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/friboi!.jpg
 video: ''
 tags:
-- assuntos: frigoríficos
+- tag: frigoríficos
 - tag: agronegócio
 type: news
 support_line: Apoiado por uma política até hoje mal explicada, a JBS expande-se no

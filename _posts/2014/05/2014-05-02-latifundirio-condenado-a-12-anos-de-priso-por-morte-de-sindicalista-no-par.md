@@ -7,7 +7,7 @@ images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/Brasi
   de Dorothy Stang por Jailson2.jpg
 video: ''
 tags:
-- assuntos: direitos humanos
+- tag: direitos humanos
 - tag: agronegócio
 type: news
 support_line: Após 14 anos de impunidade e proteção do Judiciário,  mandante de assassinato

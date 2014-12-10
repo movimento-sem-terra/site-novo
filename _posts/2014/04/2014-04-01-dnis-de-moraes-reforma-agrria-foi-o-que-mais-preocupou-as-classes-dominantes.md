@@ -5,10 +5,10 @@ legacy_url: http://www.mst.org.br/node/15908
 images: ''
 video: ''
 tags:
-- semana: tema da semana
-- destaque: manchete
-- assuntos: 50 anos do golpe militar
-- tipo de matéria: entrevistas
+- tag: tema da semana
+- tag: manchete
+- tag: 50 anos do golpe militar
+- tag: entrevistas
 - tag: direitos humanos
 type: 
 support_line: Dênis de Moraes analisa o papel das lutas sociais no campo durante o

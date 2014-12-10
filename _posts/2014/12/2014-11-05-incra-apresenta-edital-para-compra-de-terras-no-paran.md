@@ -1,25 +1,27 @@
 ---
-date: "2014-11-05T13:43:30-02:00"
+date: '2014-11-05T13:43:30-02:00'
 tags:
-  - tag: Paraná
-  - tag: Reforma-Agrária
-  - tag: Incra
-  - tag: Assentamentos
+- tag: Paraná
+- tag: Reforma-Agrária
+- tag: Incra
+- tag: Assentamentos
 title: Incra apresenta edital para compra de terras no Paraná
 hat: Reforma Agrária
 menu: reforma agrária
-support_line: "O Edital será apresentado nesta quarta-feira, e tem como objetivo arrecadar novas áreas para a implantação de projetos de assentamento do Programa Nacional de Reforma Agrária."
+support_line: O Edital será apresentado nesta quarta-feira, e tem como objetivo arrecadar
+  novas áreas para a implantação de projetos de assentamento do Programa Nacional
+  de Reforma Agrária.
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7543/15330489334_10a07ce6ab_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7543/15330489334_10a07ce6ab_t.jpg"
-    medium: "http://farm8.staticflickr.com/7543/15330489334_10a07ce6ab_z.jpg"
-    small: "http://farm8.staticflickr.com/7543/15330489334_10a07ce6ab_n.jpg"
-    title: 1 maio rj.jpg
-    $$hashKey: 0ZV
-created_date: "2014-12-05T13:46:24-02:00"
+- link: http://farm8.staticflickr.com/7543/15330489334_10a07ce6ab_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7543/15330489334_10a07ce6ab_t.jpg
+  medium: http://farm8.staticflickr.com/7543/15330489334_10a07ce6ab_z.jpg
+  small: http://farm8.staticflickr.com/7543/15330489334_10a07ce6ab_n.jpg
+  title: 1 maio rj.jpg
+  "$$hashKey": 0ZV
+created_date: '2014-12-05T13:46:24-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7543/15330489334_10a07ce6ab_n.jpg"
+images_hd: http://farm8.staticflickr.com/7543/15330489334_10a07ce6ab_n.jpg
 
 ---
 <p><br />

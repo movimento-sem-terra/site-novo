@@ -6,7 +6,7 @@ legacy_url: http://www.mst.org.br/node/16235
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/desertificação.jpg
 video: ''
 tags:
-- assuntos: agronegócio
+- tag: agronegócio
 - tag: meio ambiente
 type: news
 support_line: Imaginemos uma extensão de território árido, que se estende por quilômetros,

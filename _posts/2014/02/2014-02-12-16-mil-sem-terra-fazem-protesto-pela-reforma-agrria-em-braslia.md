@@ -5,9 +5,9 @@ legacy_url: http://www.mst.org.br/node/15710
 images: http://www.mst.org.br/sites/default/files/marcha1.jpg
 video: KdfZuh60xf8
 tags:
-- destaque: manchete
-- congresso: '6'
-- assuntos: 6° congresso nacional
+- tag: manchete
+- tag: '6'
+- tag: 6° congresso nacional
 - tag: reforma agrária
 type: video
 support_line: Manifestação pacífica foi recebida com violência pela polícia.

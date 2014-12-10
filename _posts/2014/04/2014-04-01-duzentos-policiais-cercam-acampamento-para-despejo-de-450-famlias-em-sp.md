@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15914
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/presa.jpg
 video: ''
 tags:
-- assuntos: despejo
+- tag: despejo
 - tag: reforma agrária
 type: news
 support_line: Há diversos processos de execução fiscal movido contra a Usina Martinópolis,

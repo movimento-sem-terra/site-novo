@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15766
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/joao pedro.JPG
 video: ''
 tags:
-- tipo de matéria: entrevistas
+- tag: entrevistas
 - tag: agronegócio
 type: news
 support_line: Stedile diz que  confronto com a polícia "arrancou" espaço na agenda

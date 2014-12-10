@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/16253
 images: ''
 video: ''
 tags:
-- destaque: manchete
+- tag: manchete
 - tag: projeto popular
 type: news
 support_line: 'Adepto da  Teologia da Libertação defende decreto da Política Nacional

@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/16148
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/morte!.jpg
 video: ''
 tags:
-- assuntos: agrotóxicos
+- tag: agrotóxicos
 - tag: agronegócio
 type: news
 support_line: 100% das amostras de leite materno pesquisadas estavam contaminados

@@ -6,7 +6,7 @@ images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/mulhe
   PR2.jpg
 video: ''
 tags:
-- assuntos: jornada de luta das mulheres 2014
+- tag: jornada de luta das mulheres 2014
 - tag: lutas e mobilizações
 type: news
 support_line: Cerca de 1000 mulheres do MST e do MPA realizaram o 9º Encontro Regional  de

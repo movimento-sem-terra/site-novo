@@ -6,8 +6,8 @@ legacy_url: http://www.mst.org.br/node/15913
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/mulheresba!.jpg
 video: ''
 tags:
-- localização: bahia
-- assuntos: luta
+- tag: bahia
+- tag: luta
 - tag: lutas e mobilizações
 type: news
 support_line: Segundo as Sem Terra, a área está em total situação de abandono desde

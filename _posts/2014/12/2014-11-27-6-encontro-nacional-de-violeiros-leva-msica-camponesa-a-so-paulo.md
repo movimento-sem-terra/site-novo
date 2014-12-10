@@ -1,23 +1,24 @@
 ---
-date: "2014-11-27T15:29:14-02:00"
+date: '2014-11-27T15:29:14-02:00'
 tags:
-  - tag: São-Paulo
-  - tag: Cultura
-  - tag: Viola-Caipira
+- tag: São-Paulo
+- tag: Cultura
+- tag: Viola-Caipira
 title: 6° Encontro Nacional de Violeiros leva música camponesa a São Paulo
-support_line: "O evento ocorre na Galeria Olido, a partir das 19 horas, e vai até sábado (29/11), com artistas de diferentes regiões do Brasil. A entrada é franca."
-menu: "educação, cultura e comunicação"
+support_line: O evento ocorre na Galeria Olido, a partir das 19 horas, e vai até sábado
+  (29/11), com artistas de diferentes regiões do Brasil. A entrada é franca.
+menu: educação, cultura e comunicação
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7567/15975076691_f90366d138_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7567/15975076691_f90366d138_t.jpg"
-    medium: "http://farm8.staticflickr.com/7567/15975076691_f90366d138_z.jpg"
-    small: "http://farm8.staticflickr.com/7567/15975076691_f90366d138_n.jpg"
-    title: os violeiros.jpg
-    $$hashKey: 0ZT
-created_date: "2014-12-08T15:32:01-02:00"
+- link: http://farm8.staticflickr.com/7567/15975076691_f90366d138_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7567/15975076691_f90366d138_t.jpg
+  medium: http://farm8.staticflickr.com/7567/15975076691_f90366d138_z.jpg
+  small: http://farm8.staticflickr.com/7567/15975076691_f90366d138_n.jpg
+  title: os violeiros.jpg
+  "$$hashKey": 0ZT
+created_date: '2014-12-08T15:32:01-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7567/15975076691_f90366d138_n.jpg"
+images_hd: http://farm8.staticflickr.com/7567/15975076691_f90366d138_n.jpg
 
 ---
 <div id="content-header">

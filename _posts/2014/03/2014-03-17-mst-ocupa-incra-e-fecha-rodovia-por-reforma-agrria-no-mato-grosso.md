@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15857
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/sem terras!.jpg
 video: ''
 tags:
-- localização: mato grosso
-- assuntos: mobilização
+- tag: mato grosso
+- tag: mobilização
 - tag: lutas e mobilizações
 type: news
 support_line: Os Sem Terra reivindicam o assentamento das famílias acampadas e o melhoraramento

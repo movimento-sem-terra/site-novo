@@ -1,34 +1,35 @@
 ---
-date: "2014-11-23T16:02:11-02:00"
+date: '2014-11-23T16:02:11-02:00'
 tags:
-  - tag: juventude
-  - tag: América-Latina
-  - tag: Che
+- tag: juventude
+- tag: América-Latina
+- tag: Che
 title: Aleida Guevara aponta os desafios à juventude latino-americana
-support_line: "Aleida Guevara, filha de Ernesto \"Che\" Guevara, esteve no 14° Acampamento Latino-americano da Juventude."
+support_line: Aleida Guevara, filha de Ernesto "Che" Guevara, esteve no 14° Acampamento
+  Latino-americano da Juventude.
 menu: solidariedade
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7571/15761018467_5a3ea97b82_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7571/15761018467_5a3ea97b82_t.jpg"
-    medium: "http://farm8.staticflickr.com/7571/15761018467_5a3ea97b82_z.jpg"
-    small: "http://farm8.staticflickr.com/7571/15761018467_5a3ea97b82_n.jpg"
-    title: aleda_guevara.jpg
-    $$hashKey: 1U0
-  - link: "http://farm9.staticflickr.com/8579/15946085462_26f1bc0f51_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8579/15946085462_26f1bc0f51_t.jpg"
-    medium: "http://farm9.staticflickr.com/8579/15946085462_26f1bc0f51_z.jpg"
-    small: "http://farm9.staticflickr.com/8579/15946085462_26f1bc0f51_n.jpg"
-    title: aleda_guevara3.jpg
-    $$hashKey: 1U3
-  - link: "http://farm9.staticflickr.com/8681/15920951876_12ee816a86_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8681/15920951876_12ee816a86_t.jpg"
-    medium: "http://farm9.staticflickr.com/8681/15920951876_12ee816a86_z.jpg"
-    small: "http://farm9.staticflickr.com/8681/15920951876_12ee816a86_n.jpg"
-    title: aleda_guevara2.jpg
-    $$hashKey: 1U6
+- link: http://farm8.staticflickr.com/7571/15761018467_5a3ea97b82_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7571/15761018467_5a3ea97b82_t.jpg
+  medium: http://farm8.staticflickr.com/7571/15761018467_5a3ea97b82_z.jpg
+  small: http://farm8.staticflickr.com/7571/15761018467_5a3ea97b82_n.jpg
+  title: aleda_guevara.jpg
+  "$$hashKey": 1U0
+- link: http://farm9.staticflickr.com/8579/15946085462_26f1bc0f51_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8579/15946085462_26f1bc0f51_t.jpg
+  medium: http://farm9.staticflickr.com/8579/15946085462_26f1bc0f51_z.jpg
+  small: http://farm9.staticflickr.com/8579/15946085462_26f1bc0f51_n.jpg
+  title: aleda_guevara3.jpg
+  "$$hashKey": 1U3
+- link: http://farm9.staticflickr.com/8681/15920951876_12ee816a86_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8681/15920951876_12ee816a86_t.jpg
+  medium: http://farm9.staticflickr.com/8681/15920951876_12ee816a86_z.jpg
+  small: http://farm9.staticflickr.com/8681/15920951876_12ee816a86_n.jpg
+  title: aleda_guevara2.jpg
+  "$$hashKey": 1U6
 published: true
-images_hd: "http://farm8.staticflickr.com/7571/15761018467_5a3ea97b82_n.jpg"
+images_hd: http://farm8.staticflickr.com/7571/15761018467_5a3ea97b82_n.jpg
 section: featured-news
 
 ---

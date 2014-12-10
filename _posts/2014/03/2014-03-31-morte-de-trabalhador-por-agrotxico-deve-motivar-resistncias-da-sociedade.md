@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15899
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/ag!.jpg
 video: ''
 tags:
-- assuntos: agrotóxico
+- tag: agrotóxico
 - tag: agronegócio
 type: news
 support_line: Vanderlei Matos trabalhava na empresa multinacional Del Monte, uma das

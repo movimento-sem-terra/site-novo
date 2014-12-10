@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16056
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/RN_trancamento!.jpg
 video: ''
 tags:
-- assuntos: jornada de lutas abril 2014
-- localização: rio grande do norte
+- tag: jornada de lutas abril 2014
+- tag: rio grande do norte
 - tag: lutas e mobilizações
 type: news
 support_line: Os Sem Terra denunciam o descaso da Reforma Agrária no estado, o sucateamento

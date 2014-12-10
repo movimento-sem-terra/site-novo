@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15964
 images: ''
 video: 3cnLkFCcZUY
 tags:
-- assuntos: educação
-- destaque: destaque
+- tag: educação
+- tag: destaque
 - tag: educação, cultura e comunicação
 type: video
 support_line: ''

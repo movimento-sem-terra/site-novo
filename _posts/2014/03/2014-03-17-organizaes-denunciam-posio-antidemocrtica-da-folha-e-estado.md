@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15852
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/irma!.jpg
 video: ''
 tags:
-- destaque: manchete
-- assuntos: direitos humanos
+- tag: manchete
+- tag: direitos humanos
 - tag: direitos humanos
 type: news
 support_line: Oso editoriais atacam propostas de mediação de conflitos fundiários

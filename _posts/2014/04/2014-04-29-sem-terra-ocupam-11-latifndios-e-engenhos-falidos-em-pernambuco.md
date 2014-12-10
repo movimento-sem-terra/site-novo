@@ -5,9 +5,9 @@ legacy_url: http://www.mst.org.br/node/16023
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/ocupação_PE!.jpg
 video: ''
 tags:
-- destaque: manchete
-- localização: pernambuco
-- assuntos: jornada de lutas abril 2014
+- tag: manchete
+- tag: pernambuco
+- tag: jornada de lutas abril 2014
 - tag: lutas e mobilizações
 type: news
 support_line: No estado, há acampamentos que existem há mais de 14 anos. Nos últimos

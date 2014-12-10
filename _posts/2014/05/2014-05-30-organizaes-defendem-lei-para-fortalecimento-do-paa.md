@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/16169
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/russo.jpg
 video: ''
 tags:
-- assuntos: políticas públicas
+- tag: políticas públicas
 - tag: agricultura camponesa
 type: news
 support_line: Representantes das organizações de agricultores familiares defenderam

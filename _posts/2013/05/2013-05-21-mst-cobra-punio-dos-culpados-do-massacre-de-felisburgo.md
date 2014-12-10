@@ -5,10 +5,10 @@ legacy_url: http://www.mst.org.br/node/14855
 images: ''
 video: CqvmOzGt2v4
 tags:
-- assuntos: massacre de felisburgo
-- localização: felisburgo
-- localização: minas gerais
-- destaque: destaque
+- tag: massacre de felisburgo
+- tag: felisburgo
+- tag: minas gerais
+- tag: destaque
 - tag: direitos humanos
 type: video
 support_line: ''

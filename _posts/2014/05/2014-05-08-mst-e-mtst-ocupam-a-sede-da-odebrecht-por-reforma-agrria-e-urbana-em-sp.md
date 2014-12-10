@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/16073
 images: http://www.mst.org.br/sites/default/files/marchasp.png
 video: ''
 tags:
-- destaque: manchete
+- tag: manchete
 - tag: lutas e mobilizações
 type: news
 support_line: Mais de 1500 pessoas do MST junto ao Movimento dos Trabalhadores Sem  Teto

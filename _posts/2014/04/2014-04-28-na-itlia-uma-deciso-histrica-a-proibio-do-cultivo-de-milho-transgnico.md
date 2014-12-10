@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/16022
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/transgenicos.jpg
 video: ''
 tags:
-- assuntos: transgênicos
+- tag: transgênicos
 - tag: agronegócio
 type: news
 support_line: Um agrônomo e um agricultor italianos haviam apresentado um recurso

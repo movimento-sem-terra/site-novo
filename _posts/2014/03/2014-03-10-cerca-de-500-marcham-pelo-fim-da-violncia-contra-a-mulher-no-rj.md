@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15822
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/mulheres_RJ!.jpg
 video: ''
 tags:
-- localização: rio de janeiro
-- assuntos: jornada de luta das mulheres 2014
+- tag: rio de janeiro
+- tag: jornada de luta das mulheres 2014
 - tag: transgênicos
 type: news
 support_line: Dia Internacional de Luta das Mulheres é celebrado pelas mulheres nas

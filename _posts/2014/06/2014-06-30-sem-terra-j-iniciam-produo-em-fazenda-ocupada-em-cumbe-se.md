@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16250
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/camponeses.jpg
 video: ''
 tags:
-- localização: sergipe
-- assuntos: ocupação
+- tag: sergipe
+- tag: ocupação
 - tag: lutas e mobilizações
 type: news
 support_line: A Fazenda Araça, no município de Cumbe, a 60 quilômetros da capital

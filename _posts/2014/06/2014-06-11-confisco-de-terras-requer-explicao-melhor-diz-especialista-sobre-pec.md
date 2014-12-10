@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/16208
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/carvoariaII.jpg
 video: ''
 tags:
-- assuntos: trabalho escravo
+- tag: trabalho escravo
 - tag: direitos humanos
 type: news
 support_line: Para Sakamoto, a PEC do Trabalho Escravo tem a função de convencer as

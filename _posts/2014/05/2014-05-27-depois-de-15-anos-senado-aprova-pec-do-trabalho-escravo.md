@@ -6,8 +6,8 @@ images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/traba
   escravo!!.jpg
 video: ''
 tags:
-- destaque: manchete
-- assuntos: trabalho escravo
+- tag: manchete
+- tag: trabalho escravo
 - tag: direitos humanos
 type: news
 support_line: Promulgação da emenda constitucional será em sessão solene na próxima

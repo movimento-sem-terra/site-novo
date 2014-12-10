@@ -1,20 +1,21 @@
 ---
-date: "2014-10-29T17:00:24-02:00"
+date: '2014-10-29T17:00:24-02:00'
 tags:
-  - tag: Palestina
-title: "Campanha internacional pede a liberdade do palestino Ahmad Sa'adat"
+- tag: Palestina
+title: Campanha internacional pede a liberdade do palestino Ahmad Sa'adat
 menu: solidariedade
-support_line: Ao longo de todo o mês de outubro os Sem Terrinha homenagearam o povo palestino. o MST também entregou 50 bolas de futebol às crianças palestinas.
+support_line: Ao longo de todo o mês de outubro os Sem Terrinha homenagearam o povo
+  palestino. o MST também entregou 50 bolas de futebol às crianças palestinas.
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8620/15324795344_2c5af3aa86_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8620/15324795344_2c5af3aa86_t.jpg"
-    medium: "http://farm9.staticflickr.com/8620/15324795344_2c5af3aa86_z.jpg"
-    small: "http://farm9.staticflickr.com/8620/15324795344_2c5af3aa86_n.jpg"
-    title: lider-palestino-ahmad-sa-adat.gif
-    $$hashKey: B66
+- link: http://farm9.staticflickr.com/8620/15324795344_2c5af3aa86_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8620/15324795344_2c5af3aa86_t.jpg
+  medium: http://farm9.staticflickr.com/8620/15324795344_2c5af3aa86_z.jpg
+  small: http://farm9.staticflickr.com/8620/15324795344_2c5af3aa86_n.jpg
+  title: lider-palestino-ahmad-sa-adat.gif
+  "$$hashKey": B66
 published: true
-images_hd: "http://farm9.staticflickr.com/8620/15324795344_2c5af3aa86_n.jpg"
+images_hd: http://farm9.staticflickr.com/8620/15324795344_2c5af3aa86_n.jpg
 
 ---
 <p><img alt="lider-palestino-ahmad-sa-adat.gif" src="http://farm9.staticflickr.com/8620/15324795344_2c5af3aa86_b.jpg" /></p>

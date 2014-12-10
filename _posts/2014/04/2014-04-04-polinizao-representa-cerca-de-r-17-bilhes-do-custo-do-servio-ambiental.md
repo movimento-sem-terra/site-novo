@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15928
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/abelhas.jpg
 video: ''
 tags:
-- assuntos: agrotóxicos
+- tag: agrotóxicos
 - tag: agronegócio
 type: news
 support_line: No Brasil há dois casos de eliminação de comunidades de abelhas cujas

@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16238
 images: ''
 video: kuO71TfKNZo
 tags:
-- assuntos: plebiscito constituinte
-- destaque: destaque
+- tag: plebiscito constituinte
+- tag: destaque
 - tag: projeto popular
 type: video
 support_line: ''

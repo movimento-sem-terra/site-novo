@@ -1,20 +1,20 @@
 ---
-date: "2014-10-20T10:46:34-02:00"
+date: '2014-10-20T10:46:34-02:00'
 tags:
-  - tag: Reforma-Agrária
+- tag: Reforma-Agrária
 title: O Sem Terra mais velho do país
 menu: lutadores-do-povo
-support_line: "Seu Luiz Beltrame, lutador e poeta, completou 106 anos no mês de outubro."
+support_line: Seu Luiz Beltrame, lutador e poeta, completou 106 anos no mês de outubro.
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8568/15944239842_30042343e4_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8568/15944239842_30042343e4_t.jpg"
-    medium: "http://farm9.staticflickr.com/8568/15944239842_30042343e4_z.jpg"
-    small: "http://farm9.staticflickr.com/8568/15944239842_30042343e4_n.jpg"
-    title: seu luiz.jpg
-    $$hashKey: 0UI
+- link: http://farm9.staticflickr.com/8568/15944239842_30042343e4_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8568/15944239842_30042343e4_t.jpg
+  medium: http://farm9.staticflickr.com/8568/15944239842_30042343e4_z.jpg
+  small: http://farm9.staticflickr.com/8568/15944239842_30042343e4_n.jpg
+  title: seu luiz.jpg
+  "$$hashKey": 0UI
 published: true
-images_hd: "http://farm9.staticflickr.com/8568/15944239842_30042343e4_n.jpg"
+images_hd: http://farm9.staticflickr.com/8568/15944239842_30042343e4_n.jpg
 
 ---
 <p><img alt="seu luiz.jpg" src="http://farm9.staticflickr.com/8568/15944239842_30042343e4_b.jpg" /></p>

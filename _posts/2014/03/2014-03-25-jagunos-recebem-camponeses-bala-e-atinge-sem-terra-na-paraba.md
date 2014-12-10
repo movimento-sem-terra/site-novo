@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15888
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/jagunço!.jpg
 video: ''
 tags:
-- localização: paraíba
-- assuntos: violência
+- tag: paraíba
+- tag: violência
 - tag: lutas e mobilizações
 type: news
 support_line: Nesta segunda-feira (24), 80 famílias Sem Terra ocuparam a Fazenda Imbiguida,

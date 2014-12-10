@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/16268
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/Graos-e-Sementes.jpg
 video: ''
 tags:
-- assuntos: sementes
+- tag: sementes
 - tag: agronegócio
 type: 
 support_line: As sementes nos criaram, e nós criamos as sementes, mas hoje, mais que

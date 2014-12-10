@@ -1,22 +1,24 @@
 ---
-date: "2014-10-27T16:33:17-02:00"
+date: '2014-10-27T16:33:17-02:00'
 tags:
-  - tag: Eleições
-  - tag: Dilma-Rousseff
-title: "“O grande desafio é seguir lutando por reformas estruturais”, diz dirigente do MST"
+- tag: Eleições
+- tag: Dilma-Rousseff
+title: "“O grande desafio é seguir lutando por reformas estruturais”, diz dirigente
+  do MST"
 label: interviews
 menu: projeto popular
-support_line: "Para Alexandre Conceição, agora o povo deve fazer a pressão nas ruas por reformas estruturais na sociedade."
+support_line: Para Alexandre Conceição, agora o povo deve fazer a pressão nas ruas
+  por reformas estruturais na sociedade.
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7530/15759508438_bcc6417780_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7530/15759508438_bcc6417780_t.jpg"
-    medium: "http://farm8.staticflickr.com/7530/15759508438_bcc6417780_z.jpg"
-    small: "http://farm8.staticflickr.com/7530/15759508438_bcc6417780_n.jpg"
-    title: manifestação_paulista_Marcelo-Camargo_ABr.gif
-    $$hashKey: 9JK
+- link: http://farm8.staticflickr.com/7530/15759508438_bcc6417780_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7530/15759508438_bcc6417780_t.jpg
+  medium: http://farm8.staticflickr.com/7530/15759508438_bcc6417780_z.jpg
+  small: http://farm8.staticflickr.com/7530/15759508438_bcc6417780_n.jpg
+  title: manifestação_paulista_Marcelo-Camargo_ABr.gif
+  "$$hashKey": 9JK
 published: true
-images_hd: "http://farm8.staticflickr.com/7530/15759508438_bcc6417780_n.jpg"
+images_hd: http://farm8.staticflickr.com/7530/15759508438_bcc6417780_n.jpg
 
 ---
 <div id="content-header">

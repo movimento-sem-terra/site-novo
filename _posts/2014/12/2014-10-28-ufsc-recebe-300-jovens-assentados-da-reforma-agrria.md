@@ -1,40 +1,41 @@
 ---
-date: "2014-10-28T16:28:30-02:00"
+date: '2014-10-28T16:28:30-02:00'
 tags:
-  - tag: juventude
-  - tag: seminário
-  - tag: Reforma-Agrária
+- tag: juventude
+- tag: seminário
+- tag: Reforma-Agrária
 title: UFSC recebe 300 jovens assentados da Reforma Agrária
-menu: "educação, cultura e comunicação"
-support_line: "Durante três dias de encontro os jovens terão a oportunidade de conhecer a universidade, participar de estudos, oficinas de teatro e práticas de comunicação"
+menu: educação, cultura e comunicação
+support_line: Durante três dias de encontro os jovens terão a oportunidade de conhecer
+  a universidade, participar de estudos, oficinas de teatro e práticas de comunicação
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7568/15324621054_deb372df16_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7568/15324621054_deb372df16_t.jpg"
-    medium: "http://farm8.staticflickr.com/7568/15324621054_deb372df16_z.jpg"
-    small: "http://farm8.staticflickr.com/7568/15324621054_deb372df16_n.jpg"
-    title: oficina_abelardo Luz - Cópia.jpg
-    $$hashKey: 2NN
-  - link: "http://farm8.staticflickr.com/7549/15761158297_b90cf63f02_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7549/15761158297_b90cf63f02_t.jpg"
-    medium: "http://farm8.staticflickr.com/7549/15761158297_b90cf63f02_z.jpg"
-    small: "http://farm8.staticflickr.com/7549/15761158297_b90cf63f02_n.jpg"
-    title: Abelardo Luz - Cópia.jpg
-    $$hashKey: 2NQ
-  - link: "http://farm8.staticflickr.com/7562/15944937831_013ac9d240_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7562/15944937831_013ac9d240_t.jpg"
-    medium: "http://farm8.staticflickr.com/7562/15944937831_013ac9d240_z.jpg"
-    small: "http://farm8.staticflickr.com/7562/15944937831_013ac9d240_n.jpg"
-    title: abelardo LUZII - Cópia.jpg
-    $$hashKey: 2NT
-  - link: "http://farm8.staticflickr.com/7532/15921100056_795651b744_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7532/15921100056_795651b744_t.jpg"
-    medium: "http://farm8.staticflickr.com/7532/15921100056_795651b744_z.jpg"
-    small: "http://farm8.staticflickr.com/7532/15921100056_795651b744_n.jpg"
-    title: Mapa dos telecentros.jpg
-    $$hashKey: 2NW
+- link: http://farm8.staticflickr.com/7568/15324621054_deb372df16_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7568/15324621054_deb372df16_t.jpg
+  medium: http://farm8.staticflickr.com/7568/15324621054_deb372df16_z.jpg
+  small: http://farm8.staticflickr.com/7568/15324621054_deb372df16_n.jpg
+  title: oficina_abelardo Luz - Cópia.jpg
+  "$$hashKey": 2NN
+- link: http://farm8.staticflickr.com/7549/15761158297_b90cf63f02_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7549/15761158297_b90cf63f02_t.jpg
+  medium: http://farm8.staticflickr.com/7549/15761158297_b90cf63f02_z.jpg
+  small: http://farm8.staticflickr.com/7549/15761158297_b90cf63f02_n.jpg
+  title: Abelardo Luz - Cópia.jpg
+  "$$hashKey": 2NQ
+- link: http://farm8.staticflickr.com/7562/15944937831_013ac9d240_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7562/15944937831_013ac9d240_t.jpg
+  medium: http://farm8.staticflickr.com/7562/15944937831_013ac9d240_z.jpg
+  small: http://farm8.staticflickr.com/7562/15944937831_013ac9d240_n.jpg
+  title: abelardo LUZII - Cópia.jpg
+  "$$hashKey": 2NT
+- link: http://farm8.staticflickr.com/7532/15921100056_795651b744_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7532/15921100056_795651b744_t.jpg
+  medium: http://farm8.staticflickr.com/7532/15921100056_795651b744_z.jpg
+  small: http://farm8.staticflickr.com/7532/15921100056_795651b744_n.jpg
+  title: Mapa dos telecentros.jpg
+  "$$hashKey": 2NW
 published: true
-images_hd: "http://farm8.staticflickr.com/7549/15761158297_b90cf63f02_n.jpg"
+images_hd: http://farm8.staticflickr.com/7549/15761158297_b90cf63f02_n.jpg
 
 ---
 <p><img alt="Abelardo Luz - Cópia.jpg" src="http://farm8.staticflickr.com/7549/15761158297_b90cf63f02_b.jpg" /></p>

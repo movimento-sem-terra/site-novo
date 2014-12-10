@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16201
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/ocupação_to.JPG
 video: ''
 tags:
-- localização: tocantins
-- assuntos: ocupação
+- tag: tocantins
+- tag: ocupação
 - tag: lutas e mobilizações
 type: news
 support_line: Mais de 250 famílias do MST&nbsp;ocuparam novamente Fazenda Dom Augusto,

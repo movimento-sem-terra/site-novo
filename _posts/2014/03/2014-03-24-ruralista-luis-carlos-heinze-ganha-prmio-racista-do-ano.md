@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15879
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/Heinze_Reproducao.gif
 video: ''
 tags:
-- assuntos: bancada ruralista
+- tag: bancada ruralista
 - tag: direitos humanos
 type: news
 support_line: Em uma audiência pública com produtores rurais na cidade gaúcha de Vicente

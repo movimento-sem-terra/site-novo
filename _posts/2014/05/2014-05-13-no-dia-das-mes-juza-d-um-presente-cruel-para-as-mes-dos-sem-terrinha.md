@@ -6,7 +6,7 @@ images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/justi
   cega.jpg
 video: ''
 tags:
-- localização: rio grande do sul
+- tag: rio grande do sul
 - tag: reforma agrária
 type: news
 support_line: Já não bastasse ter mandado a multidão de sem-terra sair imediatamente

@@ -1,22 +1,23 @@
 ---
-date: "2014-11-28T15:39:38-02:00"
+date: '2014-11-28T15:39:38-02:00'
 tags:
-  - tag: Mato-Grosso
-  - tag: Grilagem
+- tag: Mato-Grosso
+- tag: Grilagem
 title: Grandes fazendeiros do agronegócio grilam terras públicas de R$ 1 bi
-support_line: Fazendeiros e políticos pegavam pequenos produtores para serem laranjas e tomarem posse de seus lotes.
+support_line: Fazendeiros e políticos pegavam pequenos produtores para serem laranjas
+  e tomarem posse de seus lotes.
 menu: agronegócio
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7540/15791108769_3de23b83ab_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7540/15791108769_3de23b83ab_t.jpg"
-    medium: "http://farm8.staticflickr.com/7540/15791108769_3de23b83ab_z.jpg"
-    small: "http://farm8.staticflickr.com/7540/15791108769_3de23b83ab_n.jpg"
-    title: violencia_campo_3.jpg
-    $$hashKey: 1RZ
-created_date: "2014-12-08T15:41:15-02:00"
+- link: http://farm8.staticflickr.com/7540/15791108769_3de23b83ab_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7540/15791108769_3de23b83ab_t.jpg
+  medium: http://farm8.staticflickr.com/7540/15791108769_3de23b83ab_z.jpg
+  small: http://farm8.staticflickr.com/7540/15791108769_3de23b83ab_n.jpg
+  title: violencia_campo_3.jpg
+  "$$hashKey": 1RZ
+created_date: '2014-12-08T15:41:15-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7540/15791108769_3de23b83ab_n.jpg"
+images_hd: http://farm8.staticflickr.com/7540/15791108769_3de23b83ab_n.jpg
 
 ---
 <div id="content-header">

@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/16110
 images: ''
 video: ''
 tags:
-- destaque: manchete
+- tag: manchete
 type: 
 support_line: Nesta quinta-feira, João Paulo Rodrigues, da coordenação nacional do
   MST, se reuniu com o fundador do Wikileaks, Julian Assange, para tratar da aliança

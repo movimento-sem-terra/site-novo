@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/16105
 images: ''
 video: guNdzsJ1thI
 tags:
-- destaque: destaque
+- tag: destaque
 type: video
 support_line: ''
 section: tv

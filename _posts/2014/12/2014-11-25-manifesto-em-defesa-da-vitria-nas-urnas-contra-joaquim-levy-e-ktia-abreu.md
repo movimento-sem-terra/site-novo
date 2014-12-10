@@ -1,22 +1,23 @@
 ---
-date: "2014-11-25T16:14:54-02:00"
+date: '2014-11-25T16:14:54-02:00'
 tags:
-  - tag: Eleições
-  - tag: Kátia-Abreu
-title: "Manifesto em Defesa da Vitória nas Urnas, contra Joaquim Levy e Kátia Abreu"
-support_line: A presidenta parece levar mais em conta as forças derrotadas do que quem a elegeu.
+- tag: Eleições
+- tag: Kátia-Abreu
+title: Manifesto em Defesa da Vitória nas Urnas, contra Joaquim Levy e Kátia Abreu
+support_line: A presidenta parece levar mais em conta as forças derrotadas do que
+  quem a elegeu.
 menu: agronegócio
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7522/15952951942_6aa263c49b_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7522/15952951942_6aa263c49b_t.jpg"
-    medium: "http://farm8.staticflickr.com/7522/15952951942_6aa263c49b_z.jpg"
-    small: "http://farm8.staticflickr.com/7522/15952951942_6aa263c49b_n.jpg"
-    title: levy_Kátia.png
-    $$hashKey: 3KC
-created_date: "2014-12-05T16:16:49-02:00"
+- link: http://farm8.staticflickr.com/7522/15952951942_6aa263c49b_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7522/15952951942_6aa263c49b_t.jpg
+  medium: http://farm8.staticflickr.com/7522/15952951942_6aa263c49b_z.jpg
+  small: http://farm8.staticflickr.com/7522/15952951942_6aa263c49b_n.jpg
+  title: levy_Kátia.png
+  "$$hashKey": 3KC
+created_date: '2014-12-05T16:16:49-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7522/15952951942_6aa263c49b_n.jpg"
+images_hd: http://farm8.staticflickr.com/7522/15952951942_6aa263c49b_n.jpg
 
 ---
 <div id="content-header">

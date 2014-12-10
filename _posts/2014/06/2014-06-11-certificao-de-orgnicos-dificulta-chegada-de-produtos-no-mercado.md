@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/16209
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/cacau.png
 video: ''
 tags:
-- assuntos: agroceologia
+- tag: agroceologia
 - tag: agricultura camponesa
 type: news
 support_line: As famílias do assentamento Terra Vista, em Arataca (BA), levaram oito

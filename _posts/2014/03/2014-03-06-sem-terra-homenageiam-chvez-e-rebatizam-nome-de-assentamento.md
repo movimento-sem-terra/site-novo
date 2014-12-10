@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15800
 images: ''
 video: QSK7HnMLqks
 tags:
-- localização: rio grande do sul
-- assuntos: reforma agrária
+- tag: rio grande do sul
+- tag: reforma agrária
 - tag: reforma agrária
 type: video
 support_line: 'Em homenagem ao 1° ano do falecimento do ex-presidente da Venezuela,  Hugo

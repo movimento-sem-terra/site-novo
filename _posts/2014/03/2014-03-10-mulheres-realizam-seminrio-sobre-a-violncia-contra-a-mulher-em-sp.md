@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15815
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/mulheresalexandraII.jpg
 video: ''
 tags:
-- localização: são paulo
-- assuntos: jornada de luta das mulheres 2014
+- tag: são paulo
+- tag: jornada de luta das mulheres 2014
 - tag: lutas e mobilizações
 type: news
 support_line: O encontro aconteceu no Acampamento Alexandra Kollontai, que há seis  meses

@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15867
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/acampamento_mulheres_BA.jpg
 video: ''
 tags:
-- assuntos: jornada de luta das mulheres 2014
+- tag: jornada de luta das mulheres 2014
 - tag: lutas e mobilizações
 type: news
 support_line: São diversos os temas em debate que perpassam pelo 12º Acampamento das  Trabalhadoras

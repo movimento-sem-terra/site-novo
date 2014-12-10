@@ -6,8 +6,8 @@ images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/Audie
   Incra e governo do RS!.jpg
 video: ''
 tags:
-- localização: rio grande do sul
-- assuntos: jornada de lutas abril 2014
+- tag: rio grande do sul
+- tag: jornada de lutas abril 2014
 - tag: reforma agrária
 type: news
 support_line: A audiência aconteceu nesta segunda, na sede do Incra, em Porto Alegre.

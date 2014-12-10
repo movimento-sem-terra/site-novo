@@ -1,22 +1,23 @@
 ---
-date: "2014-11-18T14:41:00-02:00"
+date: '2014-11-18T14:41:00-02:00'
 tags:
-  - tag: Maranhão
-  - tag: Trabalho-Escravo
+- tag: Maranhão
+- tag: Trabalho-Escravo
 title: Fazendeiro ameaça missionário após denunciar trabalho escravo
 menu: direitos humanos
-support_line: "Depois de denunciar o trabalho escravo na região de Grajaú (MA) em sua coluna no blog Grajaú de Fato, o padre missionário Marcos Bassani foi intimidado."
+support_line: Depois de denunciar o trabalho escravo na região de Grajaú (MA) em sua
+  coluna no blog Grajaú de Fato, o padre missionário Marcos Bassani foi intimidado.
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7466/15952432292_3fa1fd931c_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7466/15952432292_3fa1fd931c_t.jpg"
-    medium: "http://farm8.staticflickr.com/7466/15952432292_3fa1fd931c_z.jpg"
-    small: "http://farm8.staticflickr.com/7466/15952432292_3fa1fd931c_n.jpg"
-    title: trabalho escravo.gif
-    $$hashKey: 1A0
-created_date: "2014-12-05T14:42:35-02:00"
+- link: http://farm8.staticflickr.com/7466/15952432292_3fa1fd931c_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7466/15952432292_3fa1fd931c_t.jpg
+  medium: http://farm8.staticflickr.com/7466/15952432292_3fa1fd931c_z.jpg
+  small: http://farm8.staticflickr.com/7466/15952432292_3fa1fd931c_n.jpg
+  title: trabalho escravo.gif
+  "$$hashKey": 1A0
+created_date: '2014-12-05T14:42:35-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7466/15952432292_3fa1fd931c_n.jpg"
+images_hd: http://farm8.staticflickr.com/7466/15952432292_3fa1fd931c_n.jpg
 
 ---
 <div id="content-header">

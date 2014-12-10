@@ -5,9 +5,9 @@ legacy_url: http://www.mst.org.br/node/15690
 images: ''
 video: ''
 tags:
-- destaque: manchete
-- localização: brasília
-- assuntos: 6° congresso nacional
+- tag: manchete
+- tag: brasília
+- tag: 6° congresso nacional
 - tag: reforma agrária
 type: news
 support_line: Atividade acontece entre 10 a 14 de fevereiro.

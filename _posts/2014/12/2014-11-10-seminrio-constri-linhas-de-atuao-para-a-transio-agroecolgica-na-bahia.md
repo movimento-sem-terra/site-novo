@@ -1,43 +1,45 @@
 ---
-date: "2014-11-10T13:20:54-02:00"
+date: '2014-11-10T13:20:54-02:00'
 tags:
-  - tag: Bahia
-  - tag: Formação
-  - tag: Educação
-  - tag: Agroecologia
-  - tag: Reforma-Agrária
+- tag: Bahia
+- tag: Formação
+- tag: Educação
+- tag: Agroecologia
+- tag: Reforma-Agrária
 title: Seminário constrói linhas de atuação para a transição agroecológica na Bahia
-menu: "educação, cultura e comunicação"
-support_line: O propósito do evento foi refletir sobre o desenvolvimento social e pensar a agroecologia como modelo de produção das famílias assentadas e acampadas no estado.
+menu: educação, cultura e comunicação
+support_line: O propósito do evento foi refletir sobre o desenvolvimento social e
+  pensar a agroecologia como modelo de produção das famílias assentadas e acampadas
+  no estado.
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7546/15766607769_5418c61cef_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7546/15766607769_5418c61cef_t.jpg"
-    medium: "http://farm8.staticflickr.com/7546/15766607769_5418c61cef_z.jpg"
-    small: "http://farm8.staticflickr.com/7546/15766607769_5418c61cef_n.jpg"
-    title: seminario_BAhia.jpg
-    $$hashKey: 1SI
-  - link: "http://farm8.staticflickr.com/7473/15926849626_e115ef7e3c_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7473/15926849626_e115ef7e3c_t.jpg"
-    medium: "http://farm8.staticflickr.com/7473/15926849626_e115ef7e3c_z.jpg"
-    small: "http://farm8.staticflickr.com/7473/15926849626_e115ef7e3c_n.jpg"
-    title: seminario_BAhiaII.jpg
-    $$hashKey: 1SL
-  - link: "http://farm8.staticflickr.com/7476/15766612269_83abb125d2_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7476/15766612269_83abb125d2_t.jpg"
-    medium: "http://farm8.staticflickr.com/7476/15766612269_83abb125d2_z.jpg"
-    small: "http://farm8.staticflickr.com/7476/15766612269_83abb125d2_n.jpg"
-    title: seminario_BAhiaIII.jpg
-    $$hashKey: 1SO
-  - link: "http://farm8.staticflickr.com/7552/15766905007_9f3100abbb_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7552/15766905007_9f3100abbb_t.jpg"
-    medium: "http://farm8.staticflickr.com/7552/15766905007_9f3100abbb_z.jpg"
-    small: "http://farm8.staticflickr.com/7552/15766905007_9f3100abbb_n.jpg"
-    title: seminario_BAhiaIV.jpg
-    $$hashKey: 1SR
-created_date: "2014-12-05T13:24:36-02:00"
+- link: http://farm8.staticflickr.com/7546/15766607769_5418c61cef_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7546/15766607769_5418c61cef_t.jpg
+  medium: http://farm8.staticflickr.com/7546/15766607769_5418c61cef_z.jpg
+  small: http://farm8.staticflickr.com/7546/15766607769_5418c61cef_n.jpg
+  title: seminario_BAhia.jpg
+  "$$hashKey": 1SI
+- link: http://farm8.staticflickr.com/7473/15926849626_e115ef7e3c_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7473/15926849626_e115ef7e3c_t.jpg
+  medium: http://farm8.staticflickr.com/7473/15926849626_e115ef7e3c_z.jpg
+  small: http://farm8.staticflickr.com/7473/15926849626_e115ef7e3c_n.jpg
+  title: seminario_BAhiaII.jpg
+  "$$hashKey": 1SL
+- link: http://farm8.staticflickr.com/7476/15766612269_83abb125d2_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7476/15766612269_83abb125d2_t.jpg
+  medium: http://farm8.staticflickr.com/7476/15766612269_83abb125d2_z.jpg
+  small: http://farm8.staticflickr.com/7476/15766612269_83abb125d2_n.jpg
+  title: seminario_BAhiaIII.jpg
+  "$$hashKey": 1SO
+- link: http://farm8.staticflickr.com/7552/15766905007_9f3100abbb_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7552/15766905007_9f3100abbb_t.jpg
+  medium: http://farm8.staticflickr.com/7552/15766905007_9f3100abbb_z.jpg
+  small: http://farm8.staticflickr.com/7552/15766905007_9f3100abbb_n.jpg
+  title: seminario_BAhiaIV.jpg
+  "$$hashKey": 1SR
+created_date: '2014-12-05T13:24:36-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7546/15766607769_5418c61cef_n.jpg"
+images_hd: http://farm8.staticflickr.com/7546/15766607769_5418c61cef_n.jpg
 
 ---
 <p><img alt="seminario_BAhia.jpg" src="http://farm8.staticflickr.com/7546/15766607769_5418c61cef_b.jpg" /></p>

@@ -6,8 +6,8 @@ images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/integ
   latina.jpeg
 video: ''
 tags:
-- localização: brasília
-- assuntos: solidariedade
+- tag: brasília
+- tag: solidariedade
 - tag: lutas e mobilizações
 type: news
 support_line: A ação acontece em defesa da integração latinoamericana e pela democratização

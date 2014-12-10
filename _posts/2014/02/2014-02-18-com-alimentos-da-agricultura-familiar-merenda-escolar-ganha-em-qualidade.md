@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15742
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/merenda.jpg
 video: ''
 tags:
-- assuntos: paa
+- tag: paa
 - tag: reforma agrária
 type: news
 support_line: Programa de aquisição de alimentos fortalece agricultura familiar. Atendimento  de

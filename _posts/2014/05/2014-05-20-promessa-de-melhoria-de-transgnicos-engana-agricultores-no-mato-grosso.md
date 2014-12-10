@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16128
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/transgenico_duvida!!.jpg
 video: ''
 tags:
-- localização: mato grosso
-- assuntos: agronegócio
+- tag: mato grosso
+- tag: agronegócio
 - tag: transgênicos
 type: news
 support_line: O produtor Fernando Ferri plantou 700 hectares com milho geneticamente

@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/16272
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/8686.jpg
 video: ''
 tags:
-- assuntos: trabalho escravo
+- tag: trabalho escravo
 - tag: direitos humanos
 type: 
 support_line: Quatro carvoeiros foram submetidos a condições degradantes e jornadas

@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15885
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/jornada_de_lutas.jpg
 video: ''
 tags:
-- assuntos: jornada da juventude
-- tipo de matéria: entrevistas
+- tag: jornada da juventude
+- tag: entrevistas
 - tag: lutas e mobilizações
 type: news
 support_line: Entre os dias 26 de março a 9/04, diversas organizações realizam a Jornada

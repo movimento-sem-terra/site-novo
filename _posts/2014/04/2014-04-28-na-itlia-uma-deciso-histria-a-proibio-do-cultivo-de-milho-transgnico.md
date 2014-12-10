@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/16022
 images: ''
 video: ''
 tags:
-- assuntos: transgênicos
+- tag: transgênicos
 - tag: agronegócio
 type: 
 support_line: Um agrônomo e um agricultor italianos haviam apresentado um recurso

@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15793
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/ato_mulheres_PA!.jpg
 video: ''
 tags:
-- localização: pará
-- assuntos: jornada de luta das mulheres 2014
+- tag: pará
+- tag: jornada de luta das mulheres 2014
 - tag: lutas e mobilizações
 type: news
 support_line: Movimentos realizaram ato político e o lançamento da exposição “Por  aqui

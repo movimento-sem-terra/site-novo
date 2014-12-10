@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15833
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/vale.jpg
 video: ''
 tags:
-- assuntos: direitos humanos
+- tag: direitos humanos
 - tag: direitos humanos
 type: news
 support_line: Diante disto, organizações de direitos humanos estão agindo no sentido  de

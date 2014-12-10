@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16002
 images: ''
 video: 93T3y4x7nZY
 tags:
-- localização: pará
-- assuntos: direitos humanos
+- tag: pará
+- tag: direitos humanos
 - tag: direitos humanos
 type: video
 support_line: Entre o final da década de 1960 e início da década de 1970, período

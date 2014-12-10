@@ -1,25 +1,26 @@
 ---
-date: "2014-11-05T13:34:23-02:00"
+date: '2014-11-05T13:34:23-02:00'
 tags:
-  - tag: Bienal
-  - tag: Palestina
-  - tag: história
-  - tag: memória
-  - tag: Baobá
-title: "As contações de histórias ao pé da baobá, uma árvore ancestral"
-menu: "educação, cultura e comunicação"
-support_line: "Obra criada após discussões com coletivos da Palestina, MST e quilombolas se torna tema na 31ª Bienal."
+- tag: Bienal
+- tag: Palestina
+- tag: história
+- tag: memória
+- tag: Baobá
+title: As contações de histórias ao pé da baobá, uma árvore ancestral
+menu: educação, cultura e comunicação
+support_line: Obra criada após discussões com coletivos da Palestina, MST e quilombolas
+  se torna tema na 31ª Bienal.
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7490/15766691069_ddae3c4339_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7490/15766691069_ddae3c4339_t.jpg"
-    medium: "http://farm8.staticflickr.com/7490/15766691069_ddae3c4339_z.jpg"
-    small: "http://farm8.staticflickr.com/7490/15766691069_ddae3c4339_n.jpg"
-    title: DSC_1934.JPG
-    $$hashKey: 49C
-created_date: "2014-12-05T13:38:22-02:00"
+- link: http://farm8.staticflickr.com/7490/15766691069_ddae3c4339_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7490/15766691069_ddae3c4339_t.jpg
+  medium: http://farm8.staticflickr.com/7490/15766691069_ddae3c4339_z.jpg
+  small: http://farm8.staticflickr.com/7490/15766691069_ddae3c4339_n.jpg
+  title: DSC_1934.JPG
+  "$$hashKey": 49C
+created_date: '2014-12-05T13:38:22-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7490/15766691069_ddae3c4339_n.jpg"
+images_hd: http://farm8.staticflickr.com/7490/15766691069_ddae3c4339_n.jpg
 
 ---
 <p><img alt="DSC_1934.JPG" src="http://farm8.staticflickr.com/7490/15766691069_ddae3c4339_b.jpg" /></p>

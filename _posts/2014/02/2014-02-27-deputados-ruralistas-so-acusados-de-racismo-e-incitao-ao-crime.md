@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15778
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/heinzeemoreira.jpg
 video: ''
 tags:
-- assuntos: direitos humanos
+- tag: direitos humanos
 - tag: direitos humanos
 type: news
 support_line: Os pedidos foram encaminhados na semana passada ao procurador-geral

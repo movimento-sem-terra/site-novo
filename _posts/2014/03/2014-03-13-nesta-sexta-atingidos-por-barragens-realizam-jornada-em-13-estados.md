@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15844
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/JOKA2192.jpg
 video: ''
 tags:
-- assuntos: mab
+- tag: mab
 - tag: lutas e mobilizações
 type: news
 support_line: Milhares  de atingidos saem às ruas nesse dia 14 de março para protestar

@@ -1,22 +1,23 @@
 ---
-date: "2014-12-03T16:44:13-02:00"
+date: '2014-12-03T16:44:13-02:00'
 tags:
-  - tag: Agrotóxicos
+- tag: Agrotóxicos
 title: Lucro de empresas e bancos está à frente da segurança alimentar
 label: articles
-support_line: "O Brasil consome mais de um bilhão de litros de venenos agrícolas por ano. Isso representa 20% do mundo."
+support_line: O Brasil consome mais de um bilhão de litros de venenos agrícolas por
+  ano. Isso representa 20% do mundo.
 menu: agronegócio
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8585/15791819787_0f11bcbe24_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8585/15791819787_0f11bcbe24_t.jpg"
-    medium: "http://farm9.staticflickr.com/8585/15791819787_0f11bcbe24_z.jpg"
-    small: "http://farm9.staticflickr.com/8585/15791819787_0f11bcbe24_n.jpg"
-    title: Agrotoxicos_no_brasil1.jpg
-    $$hashKey: 3SK
-created_date: "2014-12-08T16:45:31-02:00"
+- link: http://farm9.staticflickr.com/8585/15791819787_0f11bcbe24_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8585/15791819787_0f11bcbe24_t.jpg
+  medium: http://farm9.staticflickr.com/8585/15791819787_0f11bcbe24_z.jpg
+  small: http://farm9.staticflickr.com/8585/15791819787_0f11bcbe24_n.jpg
+  title: Agrotoxicos_no_brasil1.jpg
+  "$$hashKey": 3SK
+created_date: '2014-12-08T16:45:31-02:00'
 published: true
-images_hd: "http://farm9.staticflickr.com/8585/15791819787_0f11bcbe24_n.jpg"
+images_hd: http://farm9.staticflickr.com/8585/15791819787_0f11bcbe24_n.jpg
 
 ---
 <div id="content-header">

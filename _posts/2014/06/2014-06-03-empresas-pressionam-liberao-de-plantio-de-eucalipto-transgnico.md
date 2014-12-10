@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/16177
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/eucalipto.jpg
 video: ''
 tags:
-- assuntos: agronegócio
+- tag: agronegócio
 - tag: agronegócio
 type: news
 support_line: Organizações sociais denunciam que as plantações industriais aumentariam

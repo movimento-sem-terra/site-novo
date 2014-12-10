@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16117
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/ana.jpg
 video: ''
 tags:
-- localização: bahia
-- assuntos: agroecologia
+- tag: bahia
+- tag: agroecologia
 - tag: agricultura camponesa
 type: news
 support_line: A luta dos agroecologistas é por mudanças no padrão de produção, contra

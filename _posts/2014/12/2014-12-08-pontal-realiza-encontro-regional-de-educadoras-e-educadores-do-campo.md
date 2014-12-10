@@ -1,22 +1,23 @@
 ---
-date: "2014-12-08T13:41:35-02:00"
+date: '2014-12-08T13:41:35-02:00'
 tags:
-  - tag: São-Paulo
-  - tag: Formação
+- tag: São-Paulo
+- tag: Formação
 title: Pontal realiza Encontro Regional de Educadoras e Educadores do campo
-support_line: "O evento, que aconteceu na cidade de Teodoro Sampaio, é um marco no fortalecimento do setor de educação regional."
-menu: "educação, cultura e comunicação"
+support_line: O evento, que aconteceu na cidade de Teodoro Sampaio, é um marco no
+  fortalecimento do setor de educação regional.
+menu: educação, cultura e comunicação
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8663/15361812114_dffe3b6898_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8663/15361812114_dffe3b6898_t.jpg"
-    medium: "http://farm9.staticflickr.com/8663/15361812114_dffe3b6898_z.jpg"
-    small: "http://farm9.staticflickr.com/8663/15361812114_dffe3b6898_n.jpg"
-    title: educar_campo.jpg
-    $$hashKey: 1PE
-created_date: "2014-12-09T13:46:33-02:00"
+- link: http://farm9.staticflickr.com/8663/15361812114_dffe3b6898_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8663/15361812114_dffe3b6898_t.jpg
+  medium: http://farm9.staticflickr.com/8663/15361812114_dffe3b6898_z.jpg
+  small: http://farm9.staticflickr.com/8663/15361812114_dffe3b6898_n.jpg
+  title: educar_campo.jpg
+  "$$hashKey": 1PE
+created_date: '2014-12-09T13:46:33-02:00'
 published: true
-images_hd: "http://farm9.staticflickr.com/8663/15361812114_dffe3b6898_n.jpg"
+images_hd: http://farm9.staticflickr.com/8663/15361812114_dffe3b6898_n.jpg
 
 ---
 <div id="content-header">

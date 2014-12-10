@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/16007
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/algodão.jpg
 video: ''
 tags:
-- localização: ceará
-- assuntos: agroecologia
+- tag: ceará
+- tag: agroecologia
 - tag: agricultura camponesa
 type: news
 support_line: 'A terra, antes seca, passa a receber esterco e palha de carnaúba: é

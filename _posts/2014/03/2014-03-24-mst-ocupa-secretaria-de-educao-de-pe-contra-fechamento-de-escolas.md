@@ -5,9 +5,9 @@ legacy_url: http://www.mst.org.br/node/15880
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/seceducação_PE.jpg
 video: ''
 tags:
-- destaque: manchete
-- localização: pernambuco
-- assuntos: educação
+- tag: manchete
+- tag: pernambuco
+- tag: educação
 - tag: educação, cultura e comunicação
 type: news
 support_line: Integrantes do MST e da (CPT) ocuparam, na manhã desta segunda-feira

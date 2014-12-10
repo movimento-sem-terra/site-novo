@@ -1,22 +1,23 @@
 ---
-date: "2014-12-04T11:52:24-02:00"
+date: '2014-12-04T11:52:24-02:00'
 tags:
-  - tag: Mato-Grosso
-  - tag: Reforma-Agrária
+- tag: Mato-Grosso
+- tag: Reforma-Agrária
 title: Juiz considera latifúndio produtivo e Sem Terra saem às ruas para protestar
-support_line: O juiz federal Raphael Carvalho considerou a Fazenda Rancho Verde como produtiva. A área é pleiteada pelo MST há cerca de quatro anos.
+support_line: O juiz federal Raphael Carvalho considerou a Fazenda Rancho Verde como
+  produtiva. A área é pleiteada pelo MST há cerca de quatro anos.
 menu: lutas e mobilizações
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7524/15795980298_f067c8ee55_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7524/15795980298_f067c8ee55_t.jpg"
-    medium: "http://farm8.staticflickr.com/7524/15795980298_f067c8ee55_z.jpg"
-    small: "http://farm8.staticflickr.com/7524/15795980298_f067c8ee55_n.jpg"
-    title: cáceres.jpg
-    $$hashKey: 0M7
-created_date: "2014-12-09T11:53:56-02:00"
+- link: http://farm8.staticflickr.com/7524/15795980298_f067c8ee55_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7524/15795980298_f067c8ee55_t.jpg
+  medium: http://farm8.staticflickr.com/7524/15795980298_f067c8ee55_z.jpg
+  small: http://farm8.staticflickr.com/7524/15795980298_f067c8ee55_n.jpg
+  title: cáceres.jpg
+  "$$hashKey": 0M7
+created_date: '2014-12-09T11:53:56-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7524/15795980298_f067c8ee55_n.jpg"
+images_hd: http://farm8.staticflickr.com/7524/15795980298_f067c8ee55_n.jpg
 
 ---
 <p><img alt="cáceres.jpg" src="http://farm8.staticflickr.com/7524/15795980298_f067c8ee55_b.jpg" /></p>

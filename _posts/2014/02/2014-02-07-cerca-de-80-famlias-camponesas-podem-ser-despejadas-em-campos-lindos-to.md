@@ -5,8 +5,8 @@ legacy_url: http://www.mst.org.br/node/15687
 images: ''
 video: ''
 tags:
-- assuntos: reintegração
-- localização: tocantins
+- tag: reintegração
+- tag: tocantins
 - tag: reforma agrária
 type: news
 support_line: Mais de 90 mil hectares já ocupados  por camponeses foram transferidos

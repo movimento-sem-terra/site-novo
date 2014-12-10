@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15682
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/justiça.JPG
 video: ''
 tags:
-- assuntos: direitos humanos
+- tag: direitos humanos
 - tag: direitos humanos
 type: news
 support_line: Ninguém foi punido pela morte do Sem Terra Sebastião Camargo Filho.

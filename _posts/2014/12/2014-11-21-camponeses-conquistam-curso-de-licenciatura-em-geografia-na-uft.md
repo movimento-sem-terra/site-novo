@@ -1,21 +1,22 @@
 ---
-date: "2014-10-21T11:53:34-02:00"
+date: '2014-10-21T11:53:34-02:00'
 tags:
-  - tag: Tocantins
-  - tag: Pronera
+- tag: Tocantins
+- tag: Pronera
 title: Camponeses conquistam curso de Licenciatura em Geografia na UFT
-support_line: "Para os trabalhadores rurais, é de extrema importância a conquista de mais um curso numa universidade pública voltada aos camponeses."
-menu: "educação, cultura e comunicação"
+support_line: Para os trabalhadores rurais, é de extrema importância a conquista de
+  mais um curso numa universidade pública voltada aos camponeses.
+menu: educação, cultura e comunicação
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7472/15757972700_35182666ff_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7472/15757972700_35182666ff_t.jpg"
-    medium: "http://farm8.staticflickr.com/7472/15757972700_35182666ff_z.jpg"
-    small: "http://farm8.staticflickr.com/7472/15757972700_35182666ff_n.jpg"
-    title: UFT.jpg
-    $$hashKey: 3CJ
+- link: http://farm8.staticflickr.com/7472/15757972700_35182666ff_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7472/15757972700_35182666ff_t.jpg
+  medium: http://farm8.staticflickr.com/7472/15757972700_35182666ff_z.jpg
+  small: http://farm8.staticflickr.com/7472/15757972700_35182666ff_n.jpg
+  title: UFT.jpg
+  "$$hashKey": 3CJ
 published: true
-images_hd: "http://farm8.staticflickr.com/7472/15757972700_35182666ff_n.jpg"
+images_hd: http://farm8.staticflickr.com/7472/15757972700_35182666ff_n.jpg
 
 ---
 <p><img alt="UFT.jpg" src="http://farm8.staticflickr.com/7472/15757972700_35182666ff_b.jpg" /></p>

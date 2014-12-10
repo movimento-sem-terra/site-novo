@@ -6,8 +6,8 @@ images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/Entre
   do Boneco Gigante de Hugo Cháves-2.jpg
 video: ''
 tags:
-- localização: pernambuco
-- assuntos: cultura
+- tag: pernambuco
+- tag: cultura
 - tag: educação, cultura e comunicação
 type: news
 support_line: Representantes do MST, partidos de esquerda e movimentos sociais e culturais

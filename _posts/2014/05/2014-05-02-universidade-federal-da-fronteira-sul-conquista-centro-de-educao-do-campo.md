@@ -6,8 +6,8 @@ images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/Foto_
   paula (1)!.jpg
 video: ''
 tags:
-- localização: paraná
-- assuntos: educação
+- tag: paraná
+- tag: educação
 - tag: educação, cultura e comunicação
 type: news
 support_line: Nesta quarta-feira (30), cerca de 4000 pessoas ligadas ao MST participaram

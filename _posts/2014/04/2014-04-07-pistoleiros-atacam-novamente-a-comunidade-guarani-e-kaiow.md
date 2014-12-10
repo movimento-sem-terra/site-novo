@@ -5,7 +5,7 @@ legacy_url: http://www.mst.org.br/node/15932
 images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/indígenas_mortes_latuff.gif
 video: ''
 tags:
-- assuntos: violência
+- tag: violência
 - tag: direitos humanos
 type: news
 support_line: Assustados, os moradores de barracos situados nas proximidades da rodovia
