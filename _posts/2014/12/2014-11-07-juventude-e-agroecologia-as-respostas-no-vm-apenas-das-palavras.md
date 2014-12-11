@@ -14,7 +14,7 @@ layout: post
 files:
 - thumbnail: ''
   small: ''
-  "$$hashKey": '072'
+  $$hashKey: '072'
 published: true
 images_hd: ''
 created_date: '2014-12-05T10:10:31-03:00'

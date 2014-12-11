@@ -3,7 +3,7 @@ layout: post
 title: Jornada das centrais e movimentos sociais no 11 de julho
 legacy_url: http://www.mst.org.br/node/14997
 images: ''
-video: j58lp9Ub83U
+video: https://youtube.com/watch?v=j58lp9Ub83U
 tags:
 - tag: destaque
 - tag: lutas e mobilizações

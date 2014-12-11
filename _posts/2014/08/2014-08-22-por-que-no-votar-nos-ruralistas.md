@@ -3,7 +3,8 @@ layout: post
 title: Por que não votar nos ruralistas?
 legacy_url: ''
 images: ''
-video: https://www.youtube.com/watch?v=WLg1wm7aw3w
+video: https://youtube.com/watch?v=WLg1wm7aw3w
+youtube_link: https://www.youtube.com/watch?v=WLg1wm7aw3w
 tags:
 - tag: Eleições
 - tag: Bancada-Ruralista

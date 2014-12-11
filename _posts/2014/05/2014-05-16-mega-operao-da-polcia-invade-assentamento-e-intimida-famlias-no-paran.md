@@ -3,7 +3,7 @@ layout: post
 title: Mega operação da polícia invade assentamento e intimida famílias no Paraná
 legacy_url: http://www.mst.org.br/node/16113
 images: ''
-video: eWqTda6PTM8
+video: https://youtube.com/watch?v=eWqTda6PTM8
 tags:
 - tag: manchete
 - tag: paraná

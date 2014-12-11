@@ -3,7 +3,7 @@ layout: post
 title: Movimentos sociais realizam encontro estadual em Belo Horizonte
 legacy_url: http://www.mst.org.br/node/16032
 images: ''
-video: chudOhJnipo
+video: https://youtube.com/watch?v=chudOhJnipo
 tags:
 - tag: minas gerais
 - tag: mobilização

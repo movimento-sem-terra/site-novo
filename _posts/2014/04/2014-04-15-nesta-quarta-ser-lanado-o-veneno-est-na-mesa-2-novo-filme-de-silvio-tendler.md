@@ -3,7 +3,7 @@ layout: post
 title: Nesta quarta será lançado O Veneno está na Mesa 2, novo filme de Silvio Tendler
 legacy_url: http://www.mst.org.br/node/15974
 images: ''
-video: WYUn7Q5cpJ8
+video: https://youtube.com/watch?v=WYUn7Q5cpJ8
 tags:
 - tag: manchete
 - tag: cultura

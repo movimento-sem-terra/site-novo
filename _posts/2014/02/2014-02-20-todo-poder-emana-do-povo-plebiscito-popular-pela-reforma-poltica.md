@@ -3,7 +3,7 @@ layout: post
 title: Todo poder emana do povo - Plebiscito Popular pela Reforma Política
 legacy_url: http://www.mst.org.br/node/15759
 images: ''
-video: TvvIl-3iPc4
+video: https://youtube.com/watch?v=TvvIl-3iPc4
 tags:
 - tag: destaque
 - tag: plebiscito

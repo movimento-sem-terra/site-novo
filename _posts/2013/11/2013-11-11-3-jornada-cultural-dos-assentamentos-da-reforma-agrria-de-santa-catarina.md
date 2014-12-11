@@ -3,7 +3,7 @@ layout: post
 title: 3° Jornada Cultural dos Assentamentos da Reforma Agrária de Santa Catarina
 legacy_url: http://www.mst.org.br/node/15430
 images: ''
-video: XbyEDVcsXTE
+video: https://youtube.com/watch?v=XbyEDVcsXTE
 tags:
 - tag: destaque
 - tag: educação, cultura e comunicação

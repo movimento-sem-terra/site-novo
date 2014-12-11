@@ -3,7 +3,7 @@ layout: post
 title: Longa-metragem gravado em acampamento tem estreia nacional
 legacy_url: http://www.mst.org.br/node/15825
 images: http://www.mst.org.br/sites/default/files/Elayne_FotoTallesReis-MST.jpg
-video: HMwCKU8SdiQ
+video: https://youtube.com/watch?v=HMwCKU8SdiQ
 tags:
 - tag: manchete
 - tag: cultura

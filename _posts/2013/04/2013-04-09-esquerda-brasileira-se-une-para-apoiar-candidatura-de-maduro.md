@@ -3,7 +3,7 @@ layout: post
 title: Esquerda brasileira se une para apoiar candidatura de Maduro
 legacy_url: http://www.mst.org.br/node/14631
 images: ''
-video: NnhDL5VTTkk
+video: https://youtube.com/watch?v=NnhDL5VTTkk
 tags:
 - tag: destaque
 - tag: internacional

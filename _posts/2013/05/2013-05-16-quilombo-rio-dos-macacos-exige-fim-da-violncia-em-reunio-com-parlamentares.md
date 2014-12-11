@@ -3,7 +3,7 @@ layout: post
 title: Quilombo Rio dos Macacos exige fim da violência em reunião com parlamentares
 legacy_url: http://www.mst.org.br/node/14834
 images: ''
-video: bwUXjUzqU6w
+video: https://youtube.com/watch?v=bwUXjUzqU6w
 tags:
 - tag: direitos humanos
 type: video

@@ -3,7 +3,7 @@ layout: post
 title: Movimentos sociais propõem plebiscito por Constituinte para Reforma Política
 legacy_url: http://www.mst.org.br/node/15082
 images: ''
-video: 73Y4AGm5gW0
+video: https://youtube.com/watch?v=73Y4AGm5gW0
 tags:
 - tag: destaque
 - tag: projeto popular

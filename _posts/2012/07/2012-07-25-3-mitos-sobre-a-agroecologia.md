@@ -3,7 +3,7 @@ layout: post
 title: 3 mitos sobre a agroecologia
 legacy_url: http://www.mst.org.br/node/13661
 images: ''
-video: FpEL21Lr8kk
+video: https://youtube.com/watch?v=FpEL21Lr8kk
 tags:
 - tag: agroecologia
 - tag: agricultura camponesa

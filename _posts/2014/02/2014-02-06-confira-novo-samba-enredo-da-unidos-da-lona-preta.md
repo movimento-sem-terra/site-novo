@@ -3,7 +3,7 @@ layout: post
 title: Confira novo samba enredo da Unidos da Lona Preta
 legacy_url: http://www.mst.org.br/node/15678
 images: ''
-video: aTk_4rm7QD8
+video: https://youtube.com/watch?v=aTk_4rm7QD8
 tags:
 - tag: destaque
 - tag: unidos da lona preta

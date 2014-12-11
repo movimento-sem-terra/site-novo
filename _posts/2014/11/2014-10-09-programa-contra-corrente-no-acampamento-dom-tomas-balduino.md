@@ -3,7 +3,7 @@ layout: post
 title: Programa Contra Corrente no Acampamento Dom Tomas Balduino
 legacy_url: ''
 images: ''
-video: VWYo2vffXbw
+video: https://youtube.com/watch?v=VWYo2vffXbw
 youtube_link: https://www.youtube.com/watch?v=VWYo2vffXbw
 tags:
 - tag: Reforma-Agrária

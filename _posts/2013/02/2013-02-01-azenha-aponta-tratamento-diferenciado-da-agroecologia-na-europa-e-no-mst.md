@@ -3,7 +3,7 @@ layout: post
 title: Azenha aponta tratamento diferenciado da agroecologia na Europa e no MST
 legacy_url: http://www.mst.org.br/node/14364
 images: http://www.viomundo.com.br/wp-content/uploads/2013/01/suco-de-uva-1-e1359585880534.jpg
-video: 8RVAgD44AGg
+video: https://youtube.com/watch?v=8RVAgD44AGg
 tags:
 - tag: agricultura camponesa
 type: video

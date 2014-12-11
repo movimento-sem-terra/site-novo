@@ -3,7 +3,7 @@ layout: post
 title: Atingidos por barragens realizam mobilizações nesta sexta-feira
 legacy_url: http://www.mst.org.br/node/15824
 images: ''
-video: a7DV03qvO7U
+video: https://youtube.com/watch?v=a7DV03qvO7U
 tags:
 - tag: mobilização
 - tag: lutas e mobilizações

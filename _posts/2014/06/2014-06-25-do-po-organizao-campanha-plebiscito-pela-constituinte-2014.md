@@ -3,7 +3,7 @@ layout: post
 title: Do pão à organização - Campanha Plebiscito pela Constituinte 2014
 legacy_url: http://www.mst.org.br/node/16238
 images: ''
-video: kuO71TfKNZo
+video: https://youtube.com/watch?v=kuO71TfKNZo
 tags:
 - tag: plebiscito constituinte
 - tag: destaque

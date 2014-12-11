@@ -3,7 +3,7 @@ layout: post
 title: 'Stedile a Maduro: Estado burguês impõe limites aos governos de esquerda '
 legacy_url: http://www.mst.org.br/node/14799
 images: ''
-video: 6QopnsvGGqA
+video: https://youtube.com/watch?v=6QopnsvGGqA
 tags:
 - tag: nicolás maduro
 - tag: venezuela

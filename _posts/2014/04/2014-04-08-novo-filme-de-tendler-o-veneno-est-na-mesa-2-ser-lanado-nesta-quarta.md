@@ -3,7 +3,7 @@ layout: post
 title: Novo filme de Tendler, O Veneno Está na Mesa 2, será lançado nesta quarta
 legacy_url: http://www.mst.org.br/node/15940
 images: ''
-video: WYUn7Q5cpJ8
+video: https://youtube.com/watch?v=WYUn7Q5cpJ8
 tags:
 - tag: rio de janeiro
 - tag: cultura

@@ -3,7 +3,7 @@ layout: post
 title: Mobilização pelo Plebiscito por uma Constituição Popular
 legacy_url: ''
 images: ''
-video: L5UQgFpQW-8
+video: https://youtube.com/watch?v=L5UQgFpQW-8
 youtube_link: https://www.youtube.com/watch?v=L5UQgFpQW-8
 tags:
 - tag: Plebiscito-Constituinte

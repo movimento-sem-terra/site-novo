@@ -3,7 +3,7 @@ layout: post
 title: Por meio da agroecologia, assentados produzem mel, frutas e hortaliças
 legacy_url: http://www.mst.org.br/node/16028
 images: ''
-video: PrTjeCqnpp0
+video: https://youtube.com/watch?v=PrTjeCqnpp0
 tags:
 - tag: produção
 - tag: destaque

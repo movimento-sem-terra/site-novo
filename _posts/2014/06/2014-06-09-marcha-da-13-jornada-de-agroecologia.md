@@ -3,7 +3,7 @@ layout: post
 title: Marcha da 13ª Jornada de Agroecologia
 legacy_url: http://www.mst.org.br/node/16196
 images: ''
-video: eDbEk8JUX-E
+video: https://youtube.com/watch?v=eDbEk8JUX-E
 tags:
 - tag: 13° jornada de agroecologia
 - tag: paraná

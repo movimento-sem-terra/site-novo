@@ -3,7 +3,7 @@ layout: post
 title: Escola Estadual da Juventude Sem Terra do Paraná
 legacy_url: http://www.mst.org.br/node/15964
 images: ''
-video: 3cnLkFCcZUY
+video: https://youtube.com/watch?v=3cnLkFCcZUY
 tags:
 - tag: educação
 - tag: destaque

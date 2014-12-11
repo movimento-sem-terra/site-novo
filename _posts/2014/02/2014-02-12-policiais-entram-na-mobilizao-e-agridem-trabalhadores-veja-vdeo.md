@@ -3,7 +3,7 @@ layout: post
 title: Policiais entram na mobilização e agridem trabalhadores, veja vídeo
 legacy_url: http://www.mst.org.br/node/15711
 images: ''
-video: KdfZuh60xf8
+video: https://youtube.com/watch?v=KdfZuh60xf8
 tags:
 - tag: '6'
 - tag: 6° congresso nacional

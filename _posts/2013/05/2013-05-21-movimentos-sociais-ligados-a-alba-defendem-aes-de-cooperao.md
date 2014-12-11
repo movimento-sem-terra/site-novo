@@ -3,7 +3,7 @@ layout: post
 title: 'Movimentos sociais ligados a Alba defendem ações de cooperação '
 legacy_url: http://www.mst.org.br/node/14856
 images: ''
-video: uCs-Te9COUU
+video: https://youtube.com/watch?v=uCs-Te9COUU
 tags:
 - tag: destaque
 - tag: alba

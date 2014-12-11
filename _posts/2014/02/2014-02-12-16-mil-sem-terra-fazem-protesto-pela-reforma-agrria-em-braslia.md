@@ -3,7 +3,7 @@ layout: post
 title: 16 mil Sem Terra fazem protesto pela Reforma Agrária em Brasília
 legacy_url: http://www.mst.org.br/node/15710
 images: http://www.mst.org.br/sites/default/files/marcha1.jpg
-video: KdfZuh60xf8
+video: https://youtube.com/watch?v=KdfZuh60xf8
 tags:
 - tag: manchete
 - tag: '6'

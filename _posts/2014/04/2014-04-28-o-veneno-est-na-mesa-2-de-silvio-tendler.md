@@ -3,7 +3,7 @@ layout: post
 title: O Veneno está na mesa 2, de Silvio Tendler
 legacy_url: http://www.mst.org.br/node/16021
 images: ''
-video: fyvoKljtvG4
+video: https://youtube.com/watch?v=fyvoKljtvG4
 tags:
 - tag: agrotóxicos
 - tag: destaque

@@ -3,7 +3,7 @@ layout: post
 title: No Pará, camponeses são indenizados por perda de terras durante a ditadura
 legacy_url: http://www.mst.org.br/node/16002
 images: ''
-video: 93T3y4x7nZY
+video: https://youtube.com/watch?v=93T3y4x7nZY
 tags:
 - tag: pará
 - tag: direitos humanos

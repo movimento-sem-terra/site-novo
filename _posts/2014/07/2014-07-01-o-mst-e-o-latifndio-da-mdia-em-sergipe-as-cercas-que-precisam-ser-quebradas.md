@@ -3,7 +3,7 @@ layout: post
 title: 'O MST e o latifúndio da mídia em Sergipe: as cercas que precisam ser quebradas'
 legacy_url: http://www.mst.org.br/node/16257
 images: ''
-video: QtqUJV38A1o
+video: https://youtube.com/watch?v=QtqUJV38A1o
 tags:
 - tag: sergipe
 - tag: democratização da comunicação

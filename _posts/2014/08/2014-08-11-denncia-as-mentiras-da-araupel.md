@@ -3,7 +3,7 @@ layout: post
 title: Denúncia! As mentiras da Araupel
 legacy_url: ''
 images: ''
-video: 3NjivwG5f1s
+video: https://youtube.com/watch?v=3NjivwG5f1s
 tags:
 - tag: Araupel
 - tag: agronegócio

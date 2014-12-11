@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "À Sombra do Deserto Verde: Guarani Kaiowá nas plantações de cana"
+title: 'À Sombra do Deserto Verde: Guarani Kaiowá nas plantações de cana'
 legacy_url: http://www.mst.org.br/node/14844
 images: ''
-video: 2NB61WU1WfM
+video: https://youtube.com/watch?v=2NB61WU1WfM
 tags:
 - tag: destaque
 - tag: indígenas

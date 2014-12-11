@@ -3,7 +3,7 @@ layout: post
 title: Animação de pintura à óleo sobre vidro expõe a atual realidade do campo
 legacy_url: http://www.mst.org.br/node/16105
 images: ''
-video: guNdzsJ1thI
+video: https://youtube.com/watch?v=guNdzsJ1thI
 tags:
 - tag: destaque
 type: video

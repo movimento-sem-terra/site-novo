@@ -3,7 +3,7 @@ layout: post
 title: Manifestação na Ocupação Dom Tomás em Corumbá de Goiás
 legacy_url: ''
 images: ''
-video: iNvrvQPPUKI
+video: https://youtube.com/watch?v=iNvrvQPPUKI
 youtube_link: https://www.youtube.com/watch?v=iNvrvQPPUKI
 tags:
 - tag: Goiás

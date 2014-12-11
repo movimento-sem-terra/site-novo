@@ -3,7 +3,7 @@ layout: post
 title: Confira a história do Assentamento Terra Vista contada pelos assentados
 legacy_url: http://www.mst.org.br/node/14166
 images: ''
-video: uryG5dx1cRM
+video: https://youtube.com/watch?v=uryG5dx1cRM
 tags:
 - tag: bahia
 - tag: assentamento

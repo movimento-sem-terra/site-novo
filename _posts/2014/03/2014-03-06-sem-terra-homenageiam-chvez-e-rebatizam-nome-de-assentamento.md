@@ -3,7 +3,7 @@ layout: post
 title: Sem Terra homenageiam Chávez e rebatizam nome de assentamento
 legacy_url: http://www.mst.org.br/node/15800
 images: ''
-video: QSK7HnMLqks
+video: https://youtube.com/watch?v=QSK7HnMLqks
 tags:
 - tag: rio grande do sul
 - tag: reforma agrária

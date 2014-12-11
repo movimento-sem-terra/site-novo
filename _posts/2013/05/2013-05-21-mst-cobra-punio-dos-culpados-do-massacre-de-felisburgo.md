@@ -3,7 +3,7 @@ layout: post
 title: 'MST cobra punição dos culpados do massacre de Felisburgo '
 legacy_url: http://www.mst.org.br/node/14855
 images: ''
-video: CqvmOzGt2v4
+video: https://youtube.com/watch?v=CqvmOzGt2v4
 tags:
 - tag: massacre de felisburgo
 - tag: felisburgo

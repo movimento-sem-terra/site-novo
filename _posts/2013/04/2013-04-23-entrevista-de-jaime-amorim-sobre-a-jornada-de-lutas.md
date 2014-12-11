@@ -3,7 +3,7 @@ layout: post
 title: Entrevista de Jaime Amorim sobre a jornada de lutas
 legacy_url: http://www.mst.org.br/node/14738
 images: ''
-video: Bmeb7-4OAKw
+video: https://youtube.com/watch?v=Bmeb7-4OAKw
 tags:
 - tag: jornada de lutas abril 2013
 - tag: lutas e mobilizações

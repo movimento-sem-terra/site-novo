@@ -3,7 +3,7 @@ layout: post
 title: Dezoito anos depois, a luta pela terra continua
 legacy_url: ''
 images: ''
-video: fuzeVn1XqhY
+video: https://youtube.com/watch?v=fuzeVn1XqhY
 youtube_link: https://www.youtube.com/watch?v=fuzeVn1XqhY
 tags:
 - tag: Reforma-Agrária

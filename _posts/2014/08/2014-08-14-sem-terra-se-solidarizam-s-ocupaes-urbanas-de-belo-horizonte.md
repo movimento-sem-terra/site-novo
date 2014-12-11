@@ -3,7 +3,7 @@ layout: post
 title: Sem Terra se solidarizam às ocupações urbanas de Belo Horizonte
 legacy_url: ''
 images: ''
-video: rVlTVNrqJLE
+video: https://youtube.com/watch?v=rVlTVNrqJLE
 youtube_link: https://www.youtube.com/watch?v=rVlTVNrqJLE
 tags:
 - tag: Solidariedade

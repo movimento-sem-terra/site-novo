@@ -3,7 +3,7 @@ layout: post
 title: Unidos da Lona Preta agita carnaval de São Paulo
 legacy_url: http://www.mst.org.br/node/15798
 images: ''
-video: jMeFLaPZNHE
+video: https://youtube.com/watch?v=jMeFLaPZNHE
 tags:
 - tag: cultura
 - tag: são paulo
