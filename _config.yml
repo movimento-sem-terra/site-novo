@@ -1,6 +1,4 @@
-paginate: 20
-baseurl: 
-paginate_path: "/noticias/page:num"
+baseurl:
 name: Movimento dos Trabalhadores Rurais Sem Terra
 description: "Há 29 anos, em Cascavel (PR), centenas de trabalhadores rurais decidiram fundar um movimento social camponês, autônomo, que lutasse pela terra, pela Reforma Agrária e pelas transformações sociais necessárias para o nosso país. Eram posseiros, atingidos por barragens, migrantes, meeiros, parceiros e pequenos agricultores"
 markdown: redcarpet
@@ -15,6 +13,7 @@ collections:
 timezone: BR
 gems:
   - jekyll-sitemap
+  - jekyll-paginate
 exclude:
   - deploy
   - Gemfile
@@ -29,5 +28,14 @@ exclude:
   - Rakefile
   - job_status.txt
   - setup
-  - vendor 
+  - vendor
   - node/
+  - templates/
+paginate: 20 
+paginate_by_attr:
+  - menu
+  - type
+paginate_by_tags: 'tags'
+paginate_tag_folder: 'tags'
+paginate_path: "page:num"
+paginate_layout: "_templates/list"
