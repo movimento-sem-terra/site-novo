@@ -5,7 +5,7 @@ tags:
 title: "Jaime Amorim: “2015 vai ser o ano de retomar as grandes mobilizações pela Reforma Agrária”"
 support_line: "Para o coordenador do MST, diante do atual Congresso e da polarização da luta, “ou vamos às ruas, ou vamos perder”."
 menu: reforma agrária
-section: cover
+section: featured-news
 layout: post
 files:
   - link: "http://farm8.staticflickr.com/7491/15798431817_df822ac576_b.jpg"
