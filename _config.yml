@@ -35,7 +35,8 @@ paginate: 20
 paginate_by_attr:
   - menu
   - type
+paginate_by_attr_path: 'editoriais'
 paginate_by_tags: 'tags'
-paginate_tag_folder: 'tags'
+paginate_tag_path: 'tags'
 paginate_path: "page:num"
 paginate_layout: "_templates/list"
