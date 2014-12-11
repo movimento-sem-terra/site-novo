@@ -1,24 +1,23 @@
 ---
-date: '2014-12-08T13:58:10-02:00'
+date: "2014-12-08T13:58:10-02:00"
 tags:
-- tag: Mobilizações
-title: 'Jaime Amorim: “2015 vai ser o ano de retomar as grandes mobilizações pela
-  Reforma Agrária”'
-support_line: Para o coordenador do MST, diante do atual Congresso e da polarização
-  da luta, “ou vamos às ruas, ou vamos perder”.
+  - tag: Mobilizações
+title: "Jaime Amorim: “2015 vai ser o ano de retomar as grandes mobilizações pela Reforma Agrária”"
+support_line: "Para o coordenador do MST, diante do atual Congresso e da polarização da luta, “ou vamos às ruas, ou vamos perder”."
 menu: reforma agrária
 section: cover
 layout: post
 files:
-- link: http://farm8.staticflickr.com/7491/15798431817_df822ac576_b.jpg
-  thumbnail: http://farm8.staticflickr.com/7491/15798431817_df822ac576_t.jpg
-  medium: http://farm8.staticflickr.com/7491/15798431817_df822ac576_z.jpg
-  small: http://farm8.staticflickr.com/7491/15798431817_df822ac576_n.jpg
-  title: JOKA_herdeiros.jpg
-  "$$hashKey": 22Q
-created_date: '2014-12-09T14:00:54-02:00'
+  - link: "http://farm8.staticflickr.com/7491/15798431817_df822ac576_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7491/15798431817_df822ac576_t.jpg"
+    medium: "http://farm8.staticflickr.com/7491/15798431817_df822ac576_z.jpg"
+    small: "http://farm8.staticflickr.com/7491/15798431817_df822ac576_n.jpg"
+    title: JOKA_herdeiros.jpg
+    $$hashKey: 22Q
+created_date: "2014-12-09T14:00:54-02:00"
 published: true
-images_hd: http://farm8.staticflickr.com/7491/15798431817_df822ac576_n.jpg
+images_hd: "http://farm8.staticflickr.com/7491/15798431817_df822ac576_n.jpg"
+label: interviews
 
 ---
 <div id="content-header">
