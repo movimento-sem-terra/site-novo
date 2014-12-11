@@ -91,8 +91,13 @@ main.post {
 
 @media(min-width: $screen-sm) {
   main.post {
+    width: 80%;
+    margin-left: 128px;
     article {
-      padding-right: 13%;
+      padding-right: 0;
+      .article-body{  
+        width: 74%;
+      }
       header{
         h1{
           font-size: 41px;
