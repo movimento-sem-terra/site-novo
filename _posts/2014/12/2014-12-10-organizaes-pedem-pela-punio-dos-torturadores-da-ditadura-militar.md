@@ -1,22 +1,24 @@
 ---
-date: "2014-12-10T14:32:50-02:00"
+date: '2014-12-10T14:32:50-02:00'
 tags:
-  - tag: Comissão-Nacional-da-Verdade
-  - tag: Ditadura-Militar
+- tag: Comissão-Nacional-da-Verdade
+- tag: Ditadura-Militar
 title: Organizações pedem pela punição dos torturadores da Ditadura Militar
-support_line: "Nesta quarta foi entregue o relatório final da CNV. Agora, diversas organizações esperam pela responsabilização de agentes do Estado pelas violações aos direitos humanos."
+support_line: Nesta quarta foi entregue o relatório final da CNV. Agora, diversas
+  organizações esperam pela responsabilização de agentes do Estado pelas violações
+  aos direitos humanos.
 menu: direitos humanos
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7508/15991436285_0c2c845576_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7508/15991436285_0c2c845576_t.jpg"
-    medium: "http://farm8.staticflickr.com/7508/15991436285_0c2c845576_z.jpg"
-    small: "http://farm8.staticflickr.com/7508/15991436285_0c2c845576_n.jpg"
-    title: levante_pelajustiça.jpg
-    $$hashKey: 08L
-created_date: "2014-12-10T14:34:34-02:00"
+- link: http://farm8.staticflickr.com/7508/15991436285_0c2c845576_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7508/15991436285_0c2c845576_t.jpg
+  medium: http://farm8.staticflickr.com/7508/15991436285_0c2c845576_z.jpg
+  small: http://farm8.staticflickr.com/7508/15991436285_0c2c845576_n.jpg
+  title: levante_pelajustiça.jpg
+  "$$hashKey": 08L
+created_date: '2014-12-10T14:34:34-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7508/15991436285_0c2c845576_n.jpg"
+images_hd: http://farm8.staticflickr.com/7508/15991436285_0c2c845576_n.jpg
 
 ---
 <div id="content-header">

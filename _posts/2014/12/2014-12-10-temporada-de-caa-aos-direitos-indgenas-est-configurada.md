@@ -1,24 +1,25 @@
 ---
-date: "2014-12-10T14:20:33-02:00"
+date: '2014-12-10T14:20:33-02:00'
 tags:
-  - tag: Indígenas
-  - tag: Agronegócio
-  - tag: Bancada-Ruralista
+- tag: Indígenas
+- tag: Agronegócio
+- tag: Bancada-Ruralista
 label: articles
 title: Temporada de caça aos direitos indígenas está configurada
-support_line: "\"Por parte do movimento indígena existe uma esperança de mobilização pela vida e pelos direitos, baseada em suas estratégias de resistência secular\"."
+support_line: '"Por parte do movimento indígena existe uma esperança de mobilização
+  pela vida e pelos direitos, baseada em suas estratégias de resistência secular".'
 menu: direitos humanos
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7481/15805379999_66b531b1a0_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7481/15805379999_66b531b1a0_t.jpg"
-    medium: "http://farm8.staticflickr.com/7481/15805379999_66b531b1a0_z.jpg"
-    small: "http://farm8.staticflickr.com/7481/15805379999_66b531b1a0_n.jpg"
-    title: indios_ritual.gif
-    $$hashKey: 03O
-created_date: "2014-12-10T14:23:20-02:00"
+- link: http://farm8.staticflickr.com/7481/15805379999_66b531b1a0_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7481/15805379999_66b531b1a0_t.jpg
+  medium: http://farm8.staticflickr.com/7481/15805379999_66b531b1a0_z.jpg
+  small: http://farm8.staticflickr.com/7481/15805379999_66b531b1a0_n.jpg
+  title: indios_ritual.gif
+  "$$hashKey": 03O
+created_date: '2014-12-10T14:23:20-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7481/15805379999_66b531b1a0_n.jpg"
+images_hd: http://farm8.staticflickr.com/7481/15805379999_66b531b1a0_n.jpg
 
 ---
 <p><br />

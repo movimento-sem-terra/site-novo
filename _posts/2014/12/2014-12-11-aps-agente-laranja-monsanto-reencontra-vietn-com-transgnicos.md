@@ -1,29 +1,30 @@
 ---
-date: "2014-12-11T12:43:57-02:00"
+date: '2014-12-11T12:43:57-02:00'
 tags:
-  - tag: Vietnã
-  - tag: Monsanto
-  - tag: Transgênicos
-title: "Após Agente Laranja, Monsanto reencontra Vietnã com transgênicos"
-support_line: A Monsanto é uma das responsáveis pelo desfoliante tóxico utilizado como arma na Guerra do Vietnã e que faz vítimas até hoje.
+- tag: Vietnã
+- tag: Monsanto
+- tag: Transgênicos
+title: Após Agente Laranja, Monsanto reencontra Vietnã com transgênicos
+support_line: A Monsanto é uma das responsáveis pelo desfoliante tóxico utilizado
+  como arma na Guerra do Vietnã e que faz vítimas até hoje.
 menu: agronegócio
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7533/15810549340_09a29778cf_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7533/15810549340_09a29778cf_t.jpg"
-    medium: "http://farm8.staticflickr.com/7533/15810549340_09a29778cf_z.jpg"
-    small: "http://farm8.staticflickr.com/7533/15810549340_09a29778cf_n.jpg"
-    title: vietnã.jpg
-    $$hashKey: 0EX
-  - link: "http://farm8.staticflickr.com/7567/15810437408_62f1935af0_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7567/15810437408_62f1935af0_t.jpg"
-    medium: "http://farm8.staticflickr.com/7567/15810437408_62f1935af0_z.jpg"
-    small: "http://farm8.staticflickr.com/7567/15810437408_62f1935af0_n.jpg"
-    title: milho_vietnam.jpg
-    $$hashKey: 0F3
-created_date: "2014-12-11T12:46:51-02:00"
+- link: http://farm8.staticflickr.com/7533/15810549340_09a29778cf_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7533/15810549340_09a29778cf_t.jpg
+  medium: http://farm8.staticflickr.com/7533/15810549340_09a29778cf_z.jpg
+  small: http://farm8.staticflickr.com/7533/15810549340_09a29778cf_n.jpg
+  title: vietnã.jpg
+  "$$hashKey": 0EX
+- link: http://farm8.staticflickr.com/7567/15810437408_62f1935af0_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7567/15810437408_62f1935af0_t.jpg
+  medium: http://farm8.staticflickr.com/7567/15810437408_62f1935af0_z.jpg
+  small: http://farm8.staticflickr.com/7567/15810437408_62f1935af0_n.jpg
+  title: milho_vietnam.jpg
+  "$$hashKey": 0F3
+created_date: '2014-12-11T12:46:51-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7533/15810549340_09a29778cf_n.jpg"
+images_hd: http://farm8.staticflickr.com/7533/15810549340_09a29778cf_n.jpg
 
 ---
 <p><img alt="vietnã.jpg" src="http://farm8.staticflickr.com/7533/15810549340_09a29778cf_b.jpg" /><br />

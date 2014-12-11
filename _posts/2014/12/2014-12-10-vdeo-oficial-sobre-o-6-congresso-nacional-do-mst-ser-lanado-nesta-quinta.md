@@ -1,21 +1,23 @@
 ---
-date: "2014-12-10T14:34:49-02:00"
+date: '2014-12-10T14:34:49-02:00'
 tags:
-  - tag: 6°-Congresso-Nacional-do-MST
+- tag: 6°-Congresso-Nacional-do-MST
 title: Vídeo oficial sobre o 6° Congresso Nacional do MST será lançado nesta quinta
-support_line: Mais de 15 mil Sem Terra de 23 estados do Brasil mais o Distrito Federal se reuniram em Brasília e para participarem de um dos momentos mais importantes do MST.
+support_line: Mais de 15 mil Sem Terra de 23 estados do Brasil mais o Distrito Federal
+  se reuniram em Brasília e para participarem de um dos momentos mais importantes
+  do MST.
 menu: reforma agrária
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8627/15371840303_3d0ceaf65c_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8627/15371840303_3d0ceaf65c_t.jpg"
-    medium: "http://farm9.staticflickr.com/8627/15371840303_3d0ceaf65c_z.jpg"
-    small: "http://farm9.staticflickr.com/8627/15371840303_3d0ceaf65c_n.jpg"
-    title: congresso_talles.jpg
-    $$hashKey: 0A8
-created_date: "2014-12-10T14:37:43-02:00"
+- link: http://farm9.staticflickr.com/8627/15371840303_3d0ceaf65c_b.jpg
+  thumbnail: http://farm9.staticflickr.com/8627/15371840303_3d0ceaf65c_t.jpg
+  medium: http://farm9.staticflickr.com/8627/15371840303_3d0ceaf65c_z.jpg
+  small: http://farm9.staticflickr.com/8627/15371840303_3d0ceaf65c_n.jpg
+  title: congresso_talles.jpg
+  "$$hashKey": 0A8
+created_date: '2014-12-10T14:37:43-02:00'
 published: true
-images_hd: "http://farm9.staticflickr.com/8627/15371840303_3d0ceaf65c_n.jpg"
+images_hd: http://farm9.staticflickr.com/8627/15371840303_3d0ceaf65c_n.jpg
 
 ---
 <p>&nbsp;</p>

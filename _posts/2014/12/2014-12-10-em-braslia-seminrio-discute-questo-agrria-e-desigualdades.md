@@ -1,22 +1,24 @@
 ---
-date: "2014-12-10T11:54:15-02:00"
+date: '2014-12-10T11:54:15-02:00'
 tags:
-  - tag: Brasília
-  - tag: Questão-Agrária
-title: "Em Brasília, seminário discute questão agrária e desigualdades"
-support_line: "O objetivo da atividade é apontar os desafios e formular propostas para enfrentar a questão agrária brasileira na atualidade, com as suas repercussões econômicas e sociais para o país."
+- tag: Brasília
+- tag: Questão-Agrária
+title: Em Brasília, seminário discute questão agrária e desigualdades
+support_line: O objetivo da atividade é apontar os desafios e formular propostas para
+  enfrentar a questão agrária brasileira na atualidade, com as suas repercussões econômicas
+  e sociais para o país.
 menu: projeto popular
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7517/15378160253_7ba6ebaf6d_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7517/15378160253_7ba6ebaf6d_t.jpg"
-    medium: "http://farm8.staticflickr.com/7517/15378160253_7ba6ebaf6d_z.jpg"
-    small: "http://farm8.staticflickr.com/7517/15378160253_7ba6ebaf6d_n.jpg"
-    title: questão-agraria.jpg
-    $$hashKey: 08Z
-created_date: "2014-12-11T12:40:40-02:00"
+- link: http://farm8.staticflickr.com/7517/15378160253_7ba6ebaf6d_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7517/15378160253_7ba6ebaf6d_t.jpg
+  medium: http://farm8.staticflickr.com/7517/15378160253_7ba6ebaf6d_z.jpg
+  small: http://farm8.staticflickr.com/7517/15378160253_7ba6ebaf6d_n.jpg
+  title: questão-agraria.jpg
+  "$$hashKey": 08Z
+created_date: '2014-12-11T12:40:40-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7517/15378160253_7ba6ebaf6d_n.jpg"
+images_hd: http://farm8.staticflickr.com/7517/15378160253_7ba6ebaf6d_n.jpg
 
 ---
 <div id="content-header">

@@ -1,22 +1,23 @@
 ---
-date: "2014-12-10T14:23:25-02:00"
+date: '2014-12-10T14:23:25-02:00'
 tags:
-  - tag: Kátia-Abreu
+- tag: Kátia-Abreu
 title: O erro Kátia Abreu é ela representar o que há de mais atrasado
-support_line: "\"Se Dilma quer no ministério um nome forte, Kátia Abreu não cumpre os pré-requisitos e deixará o governo com o carimbo do latifúndio\", diz Igor Felippe."
+support_line: '"Se Dilma quer no ministério um nome forte, Kátia Abreu não cumpre
+  os pré-requisitos e deixará o governo com o carimbo do latifúndio", diz Igor Felippe.'
 label: articles
 menu: agronegócio
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7486/15989418771_4e143376c1_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7486/15989418771_4e143376c1_t.jpg"
-    medium: "http://farm8.staticflickr.com/7486/15989418771_4e143376c1_z.jpg"
-    small: "http://farm8.staticflickr.com/7486/15989418771_4e143376c1_n.jpg"
-    title: KatiaAbreuFabioPozzebom3.jpg
-    $$hashKey: 05B
-created_date: "2014-12-10T14:27:35-02:00"
+- link: http://farm8.staticflickr.com/7486/15989418771_4e143376c1_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7486/15989418771_4e143376c1_t.jpg
+  medium: http://farm8.staticflickr.com/7486/15989418771_4e143376c1_z.jpg
+  small: http://farm8.staticflickr.com/7486/15989418771_4e143376c1_n.jpg
+  title: KatiaAbreuFabioPozzebom3.jpg
+  "$$hashKey": 05B
+created_date: '2014-12-10T14:27:35-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7486/15989418771_4e143376c1_n.jpg"
+images_hd: http://farm8.staticflickr.com/7486/15989418771_4e143376c1_n.jpg
 
 ---
 <div id="content-header">

@@ -1,22 +1,24 @@
 ---
-date: "2014-12-10T11:51:31-02:00"
+date: '2014-12-10T11:51:31-02:00'
 tags:
-  - tag: 30-anos-MST
-title: "\"A longa marcha dos Sem Terra\" mostra que sementes do futuro já germinam"
-support_line: "Frei Betto fala do mais recente livro lançado na Itália sobre a hitória do MST, demonstrando como pessoas e famílias empobrecidas são capazes de se transformar em sujeitos históricos."
+- tag: 30-anos-MST
+title: '"A longa marcha dos Sem Terra" mostra que sementes do futuro já germinam'
+support_line: Frei Betto fala do mais recente livro lançado na Itália sobre a hitória
+  do MST, demonstrando como pessoas e famílias empobrecidas são capazes de se transformar
+  em sujeitos históricos.
 label: articles
 menu: reforma agrária
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7537/15811513829_92cab7117b_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7537/15811513829_92cab7117b_t.jpg"
-    medium: "http://farm8.staticflickr.com/7537/15811513829_92cab7117b_z.jpg"
-    small: "http://farm8.staticflickr.com/7537/15811513829_92cab7117b_n.jpg"
-    title: grito_marcha_al.jpg
-    $$hashKey: 04L
-created_date: "2014-12-11T11:54:12-02:00"
+- link: http://farm8.staticflickr.com/7537/15811513829_92cab7117b_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7537/15811513829_92cab7117b_t.jpg
+  medium: http://farm8.staticflickr.com/7537/15811513829_92cab7117b_z.jpg
+  small: http://farm8.staticflickr.com/7537/15811513829_92cab7117b_n.jpg
+  title: grito_marcha_al.jpg
+  "$$hashKey": 04L
+created_date: '2014-12-11T11:54:12-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7537/15811513829_92cab7117b_n.jpg"
+images_hd: http://farm8.staticflickr.com/7537/15811513829_92cab7117b_n.jpg
 
 ---
 <div id="content-header">

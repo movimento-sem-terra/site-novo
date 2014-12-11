@@ -1,23 +1,24 @@
 ---
-date: "2014-12-10T14:18:51-02:00"
+date: '2014-12-10T14:18:51-02:00'
 tags:
-  - tag: Pará
-  - tag: Vale
-  - tag: Direitos-Humanos
+- tag: Pará
+- tag: Vale
+- tag: Direitos-Humanos
 title: Famílias atingidas pela Vale ocupam trilhos da Estrada de Ferro de Carajás
-support_line: "Por contas das obras da duplicação do trilho da Vale, no período chuvoso ocorrem vários alagamentos que causam grandes prejuízos."
+support_line: Por contas das obras da duplicação do trilho da Vale, no período chuvoso
+  ocorrem vários alagamentos que causam grandes prejuízos.
 menu: lutas e mobilizações
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7553/15991348995_11a22db4b3_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7553/15991348995_11a22db4b3_t.jpg"
-    medium: "http://farm8.staticflickr.com/7553/15991348995_11a22db4b3_z.jpg"
-    small: "http://farm8.staticflickr.com/7553/15991348995_11a22db4b3_n.jpg"
-    title: marabá_ma_ocupação_estrada_reprodução.gif
-    $$hashKey: 01W
-created_date: "2014-12-10T14:20:31-02:00"
+- link: http://farm8.staticflickr.com/7553/15991348995_11a22db4b3_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7553/15991348995_11a22db4b3_t.jpg
+  medium: http://farm8.staticflickr.com/7553/15991348995_11a22db4b3_z.jpg
+  small: http://farm8.staticflickr.com/7553/15991348995_11a22db4b3_n.jpg
+  title: marabá_ma_ocupação_estrada_reprodução.gif
+  "$$hashKey": 01W
+created_date: '2014-12-10T14:20:31-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7553/15991348995_11a22db4b3_n.jpg"
+images_hd: http://farm8.staticflickr.com/7553/15991348995_11a22db4b3_n.jpg
 
 ---
 <p><img alt="marabá_ma_ocupação_estrada_reprodução.gif" src="http://farm8.staticflickr.com/7553/15991348995_11a22db4b3_b.jpg" /></p>

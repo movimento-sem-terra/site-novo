@@ -1,21 +1,23 @@
 ---
-date: "2014-12-10T12:40:43-02:00"
+date: '2014-12-10T12:40:43-02:00'
 tags:
-  - tag: Maria-do-Rosário
+- tag: Maria-do-Rosário
 title: MST se solidariza com Maria do Rosário e repudia truculência de Bolsonaro
-support_line: "Temos certeza que a sociedade brasileira repulsa com energia atitudes como essa do deputado direitista, que revelam a distorção política de representação que envolve o parlamento brasileiro."
+support_line: Temos certeza que a sociedade brasileira repulsa com energia atitudes
+  como essa do deputado direitista, que revelam a distorção política de representação
+  que envolve o parlamento brasileiro.
 menu: direitos humanos
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7579/15375554224_6cd7e6e01a_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7579/15375554224_6cd7e6e01a_t.jpg"
-    medium: "http://farm8.staticflickr.com/7579/15375554224_6cd7e6e01a_z.jpg"
-    small: "http://farm8.staticflickr.com/7579/15375554224_6cd7e6e01a_n.jpg"
-    title: maria-do-rosario.jpg
-    $$hashKey: 0DA
-created_date: "2014-12-11T12:43:39-02:00"
+- link: http://farm8.staticflickr.com/7579/15375554224_6cd7e6e01a_b.jpg
+  thumbnail: http://farm8.staticflickr.com/7579/15375554224_6cd7e6e01a_t.jpg
+  medium: http://farm8.staticflickr.com/7579/15375554224_6cd7e6e01a_z.jpg
+  small: http://farm8.staticflickr.com/7579/15375554224_6cd7e6e01a_n.jpg
+  title: maria-do-rosario.jpg
+  "$$hashKey": 0DA
+created_date: '2014-12-11T12:43:39-02:00'
 published: true
-images_hd: "http://farm8.staticflickr.com/7579/15375554224_6cd7e6e01a_n.jpg"
+images_hd: http://farm8.staticflickr.com/7579/15375554224_6cd7e6e01a_n.jpg
 
 ---
 <div id="content-header">
