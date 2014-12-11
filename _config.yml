@@ -43,3 +43,4 @@ paginate_path: "page:num"
 paginate_layout: "_templates/list"
 paginate_exclude:
   - section: "campaign"
+  - section: "newspaper"
