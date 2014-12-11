@@ -41,3 +41,5 @@ paginate_by_tags: 'tags'
 paginate_tag_path: 'tags'
 paginate_path: "page:num"
 paginate_layout: "_templates/list"
+paginate_exclude:
+  - section: "campaign"
