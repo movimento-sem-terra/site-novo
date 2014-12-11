@@ -54,11 +54,9 @@ Um relat&oacute;rio da Avalia&ccedil;&atilde;o Internacional de Conhecimento, Ci
 <p><br />
 A Monsanto era a principal fabricante do Agente Laranja durante a Guerra do Vietn&atilde;, que terminou em 1975. O Vietn&atilde; alega que o desfolhante t&oacute;xico faz v&iacute;timas at&eacute; hoje. Durante a guerra, entre 2,1 e 4,8 milh&otilde;es de vietnamitas foram expostos ao Agente Laranja e a outros produtos qu&iacute;micos ligados ao desenvolvimento de c&acirc;nceres, m&aacute;-forma&ccedil;&atilde;o fetal e outras doen&ccedil;as cr&ocirc;nicas, de acordo com a Cruz Vermelha no Vietn&atilde;. Ativistas acreditam que a introdu&ccedil;&atilde;o do milho geneticamente modificado ou do herbicida Roundup da Monsanto nos cultivos locais poderia levar a uma repeti&ccedil;&atilde;o da trag&eacute;dia do Agente Laranja.</p>
 
-<div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="milho_vietnam.jpg" src="http://farm8.staticflickr.com/7567/15810437408_62f1935af0_b.jpg" />
+<figure class="image" style="float:left"><img alt="milho_vietnam.jpg" src="http://farm8.staticflickr.com/7567/15810437408_62f1935af0_b.jpg" />
 <figcaption></figcaption>
 </figure>
-</div>
 
 <p>&quot;&Eacute; uma grande ironia, porque o Vietn&atilde; ainda sofre os danos causados pelo Agente Laranja, herbicida produzido pela Monsanto e usado como arma durante a guerra. O Roundup, tamb&eacute;m produzido pela Monsanto e empregado no cultivo da maior parte dos OGMs, foi igualmente relacionado a m&aacute;-forma&ccedil;&atilde;o fetal&quot;, diz Jeffrey Smith, autor do livro &ldquo;Seeds of Deception&rdquo; [Sementes do Engano, em tradu&ccedil;&atilde;o livre] e fundador e diretor-executivo da ONG Instituto pela Tecnologia Respons&aacute;vel, sediada na Calif&oacute;rnia. &nbsp;&quot;Esta evid&ecirc;ncia pode ser encontrada nas pesquisas da pr&oacute;pria Monsanto, e os danos s&atilde;o vistos hoje na Argentina e em outros pa&iacute;ses onde tem sido observado um aumento dr&aacute;stico nas estat&iacute;sticas de m&aacute;-forma&ccedil;&atilde;o fetal derivada da exposi&ccedil;&atilde;o ao herbicida. Estudos em laborat&oacute;rio demonstraram que a exposi&ccedil;&atilde;o de embri&otilde;es ao Roundup causa o mesmo tipo de m&aacute;-forma&ccedil;&atilde;o experimentado por camponeses que vivem pr&oacute;ximos aos locais onde o produto foi aplicado. De modo similar, animais que consomem produtos cultivados com Roundup apresentam alta incid&ecirc;ncia do mesmo tipo de m&aacute;-forma&ccedil;&atilde;o&quot;, sustenta Smith.</p>
 
