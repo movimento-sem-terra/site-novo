@@ -44,3 +44,5 @@ paginate_layout: "_templates/list"
 paginate_exclude:
   - section: "campaign"
   - section: "newspaper"
+paginate_limit_pages: 10
+
