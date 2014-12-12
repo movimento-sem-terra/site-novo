@@ -2,7 +2,7 @@
 {% assign first_post = posts.first %}
 
 <section class="interviews">
-  <h2 class="hat">Entrevistas</h2>
+  <h2 class="hat"><a href="http://127.0.0.1:4000/editorias/interviews/">Entrevistas</a></h2>
   {% include headline-text-over-image.html post=first_post %}
   <ul>
     {% for post in posts | limit:3 %} 
