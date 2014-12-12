@@ -4,7 +4,7 @@
   padding-top: 10px;
 
   #logo-container {
-    padding-bottom: 12px;
+    padding-bottom: 3px;
   }
 
   .logo {
@@ -46,77 +46,6 @@
       font-size: 2.3em;
       color: white;
       float: left;
-    }
-  }
-
-  .search {
-    padding: 0 0 0 5px;
-    display: none;
-    
-    #___gcse_0 {
-      width: 102%;
-
-      & > div {
-        padding: auto 0;
-      }
-    }
-
-    .gsc-selected-option-container {
-      min-width: 90px;
-    }  
-
-    .gsc-control-cse {
-      background-color: transparent;
-      border-color: transparent;
-    }
-    
-    .gsc-search-button {
-      display: none;
-    }
-
-    .gsc-input-box {
-      border-radius: 3px;
-      height: 30px;
-
-      #gs_tti50{
-        padding-top: 6px;
-
-        input:focus {
-          border-color: transparent;
-          outline: none;
-          box-shadow: none;
-        }
-      
-      }
-    }
-
-    input {
-      width: 100%;
-      height: 30px;
-      vertical-align: middle;
-      padding-left: 30px;
-      border-radius: 3px;
-      border: none;
-      color: $gray-darker;
-      line-height: 1em;
-
-      &:focus {
-        outline: none;
-        box-shadow: 0 0 5px $mstred;
-      }
-    }
-
-    /* &::before {
-      font-family: 'Glyphicons Halflings Regular';
-      content: "\E003";
-      color: $mstred;
-      position: absolute;
-      padding-left: 5px;
-      padding-top: 3px;
-    }*/ 
-
-    button {
-      display: none;
     }
   }
 }
@@ -163,17 +92,6 @@
       height: $logo_height;
     }
 
-    .search {
-      padding: 0;
-      display: inline-block;
-      float: right;
-      padding: 10px 20px;
-      margin-top: 14px;
-
-      #___gcse_0 {
-        width: 300px;
-      }
-    }
     #logo-container{
       width: 1100px;
       margin: 0 auto;
