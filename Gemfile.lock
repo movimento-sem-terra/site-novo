@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/marighella/jekyll-paginate.git
-  revision: 04c2a1afce93ab8d897879615833cc8fcb6a6f2b
+  revision: 9f446b7db73e2428beede7a11eeb2f9108ec14a9
   specs:
     jekyll-paginate (1.1.0)
       slugify
@@ -72,7 +72,7 @@ GEM
     rb-fsevent (0.9.4)
     rb-inotify (0.9.5)
       ffi (>= 0.5.0)
-    redcarpet (3.2.1)
+    redcarpet (3.2.2)
     safe_yaml (1.0.4)
     sass (3.4.9)
     slugify (1.0.5)
