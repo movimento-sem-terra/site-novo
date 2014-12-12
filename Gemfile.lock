@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/marighella/jekyll-paginate.git
-  revision: 9f446b7db73e2428beede7a11eeb2f9108ec14a9
+  revision: 54d50bd7703f692ca6b69fb5682c84a14c1f570c
   specs:
     jekyll-paginate (1.1.0)
       slugify
