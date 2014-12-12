@@ -33,17 +33,21 @@ exclude:
   - templates/
   - skelleton.json
 paginate: 20 
-paginate_by_attr:
-  - menu
-  - type
-  - label
-paginate_by_attr_path: 'editorias'
-paginate_by_tags: 'tags'
-paginate_tag_path: 'tags'
-paginate_path: "page:num"
-paginate_layout: "_templates/list"
-paginate_exclude:
-  - section: "campaign"
-  - section: "newspaper"
-paginate_limit_pages: 10
+paginate_by:
+  - menu:
+      per_page: 20
+      limit_pages: 10
+      permalink: "editorias/$"
+      template: "_templates/list"
+      page_link: "page:num"
+      exclude:
+        - section: "campaign"
+        - section: "newspaper"
+  - tags:
+      is_tag: true
+      per_page: 20
+      limit_pages: 10
+      permalink: "tags/$"
+      template: "_templates/list"
+      page_link: "page:num"
 
