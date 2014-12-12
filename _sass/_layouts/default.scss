@@ -124,6 +124,14 @@ a {
   }
 }
 
+h2.hat > a {
+  color: $text-color;
+
+  &:hover, &:focus {
+    color: $text-color;
+  }
+}
+
 .list-square {
   list-style-type: square;
 }
