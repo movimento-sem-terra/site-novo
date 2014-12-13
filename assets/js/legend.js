@@ -1,7 +1,13 @@
+var intervalo;
 var resizeLegend = function(){
-	var widthPattern = document.getElementsByClassName("image")[0].children[0].clientWidth;
-	document.getElementsByClassName("image")[0].children[1].style.width = widthPattern + "px";
+	var figure = document.querySelector(".image");
+	var widthPattern = figure.children[0].clientWidth;
+	
+	if(widthPattern !== 0){
+		figure.children[1].style.width = widthPattern + "px";
+		clearInterval(intervalo);
+	}
 };
 
-window.onload = resizeLegend;
+intervalo = setInterval(resizeLegend, 1);
 window.onresize = resizeLegend;
