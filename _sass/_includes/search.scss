@@ -12,16 +12,26 @@
     }
   }
 
+  #gs_cb50 {
+    color: $mst-red;
+    position: relative;
+    top: 5px;
+
+    &:hover, &:focus {
+      color: $link-hover-color;
+    }
+  }
+
   .gsc-selected-option-container {
     min-width: 90px;
-  }  
+  }
 
   .gsc-control-cse {
     background-color: transparent;
     border-color: transparent;
     padding: 0 18px 12px 18px;
   }
-  
+
   .gsc-search-button {
     display: none;
   }
