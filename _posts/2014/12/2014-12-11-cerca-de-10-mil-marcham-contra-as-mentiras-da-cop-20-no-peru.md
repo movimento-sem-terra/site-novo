@@ -30,6 +30,8 @@ images_hd: "http://farm8.staticflickr.com/7479/15839957390_ab27ecf084_n.jpg"
 <figcaption></figcaption>
 </figure>
 
+<p>&nbsp;</p>
+
 <p><em>Por Marcio Zonta<br />
 Do Brasil de Fato</em></p>
 
