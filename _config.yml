@@ -50,4 +50,9 @@ paginate_by:
       permalink: "tags/$"
       template: "_templates/list"
       page_link: "page:num"
-
+  - label:
+      per_page: 20
+      limit_pages: 10
+      permalink: "secao/$"
+      template: "_templates/list"
+      page_link: "page:num"
