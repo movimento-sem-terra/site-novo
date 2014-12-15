@@ -8,15 +8,15 @@ support_line: "O relatório abre as Terras indígenas à implantação de todos 
 menu: direitos humanos
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7479/15839966080_5904567d08_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7479/15839966080_5904567d08_t.jpg"
-    medium: "http://farm8.staticflickr.com/7479/15839966080_5904567d08_z.jpg"
-    small: "http://farm8.staticflickr.com/7479/15839966080_5904567d08_n.jpg"
-    title: indio.jpg
-    $$hashKey: 0AM
+  - link: "http://farm9.staticflickr.com/8675/15407638003_84cc977e5d_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8675/15407638003_84cc977e5d_t.jpg"
+    medium: "http://farm9.staticflickr.com/8675/15407638003_84cc977e5d_z.jpg"
+    small: "http://farm9.staticflickr.com/8675/15407638003_84cc977e5d_n.jpg"
+    title: in.jpg
+    $$hashKey: 0E2
 created_date: "2014-12-15T09:48:48-02:00"
 published: true
-images_hd: "http://farm8.staticflickr.com/7479/15839966080_5904567d08_n.jpg"
+images_hd: "http://farm9.staticflickr.com/8675/15407638003_84cc977e5d_n.jpg"
 
 ---
 <div id="content-header">
