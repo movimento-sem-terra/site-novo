@@ -8,15 +8,15 @@ support_line: Investigações realizadas durante anos apontaram a negligência d
 menu: agronegócio
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7472/15839805578_ebae2e45a8_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7472/15839805578_ebae2e45a8_t.jpg"
-    medium: "http://farm8.staticflickr.com/7472/15839805578_ebae2e45a8_z.jpg"
-    small: "http://farm8.staticflickr.com/7472/15839805578_ebae2e45a8_n.jpg"
-    title: gmo-monsanto-nrcs-294.jpg
-    $$hashKey: 0CC
+  - link: "http://farm8.staticflickr.com/7483/16026601472_77fee3b123_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7483/16026601472_77fee3b123_t.jpg"
+    medium: "http://farm8.staticflickr.com/7483/16026601472_77fee3b123_z.jpg"
+    small: "http://farm8.staticflickr.com/7483/16026601472_77fee3b123_n.jpg"
+    title: fabrcia de agrotoxicos.jpg
+    $$hashKey: 0FS
 created_date: "2014-12-15T09:50:20-02:00"
 published: true
-images_hd: "http://farm8.staticflickr.com/7472/15839805578_ebae2e45a8_n.jpg"
+images_hd: "http://farm8.staticflickr.com/7483/16026601472_77fee3b123_n.jpg"
 
 ---
 <div id="content-header">
@@ -45,7 +45,7 @@ Investiga&ccedil;&otilde;es realizadas durante anos apontaram a neglig&ecirc;nci
 Uma a&ccedil;&atilde;o foi movida em 2007, pelo MPT, em Campinas, resultou no acordo. Segundo o &oacute;rg&atilde;o, mais de 60 pessoas que trabalhavam na f&aacute;brica morreram desde o ajuizamento da a&ccedil;&atilde;o. Al&eacute;m de dano moral coletivo, a Ra&iacute;zen e a Basf tiveram que pagar indeniza&ccedil;&atilde;o por danos morais individuais e garantir atendimento m&eacute;dico vital&iacute;cio a 1.058 v&iacute;timas, al&eacute;m de outras pessoas que comprovem a necessidade desse atendimento no futuro.&nbsp;</p>
 
 <p><br />
-<em>*Fonte: Ag&ecirc;ncia Brasil</em></p>
+<em>*Com informa&ccedil;&otilde;es da Ag&ecirc;ncia Brasil</em></p>
 </div>
 </div>
 </div>
