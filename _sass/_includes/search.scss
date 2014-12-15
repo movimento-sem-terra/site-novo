@@ -2,8 +2,8 @@
   position: static;
   padding: 0;
   margin: 0;
-  background-color: $mstred;
-  
+  background-color: $mst-red;
+
   #___gcse_0 {
     width: 102%;
 
@@ -62,7 +62,7 @@
 
     &:focus {
       outline: none;
-      box-shadow: 0 0 5px $mstred;
+      box-shadow: 0 0 5px $mst-red;
     }
   }
 

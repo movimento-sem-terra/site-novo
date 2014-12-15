@@ -5,12 +5,12 @@ $gray-light: lighten(#222, 60%);   // #999
 $gray-lighter: lighten(#222, 93.5%); // #eee
 
 $brand-primary: #DA251C;
-$mstgreen: darkgreen;
-$mstred: #961913;
+$mst-green: darkgreen;
+$mst-red: #961913;
 $body-bg: white;
 
-$link-hover-color: darken($mstred, 20%);
-$link-color: $mstred;
+$link-hover-color: darken($mst-red, 20%);
+$link-color: $mst-red;
 
 $text-color: $gray-dark;
 $font-size-base: 16px;

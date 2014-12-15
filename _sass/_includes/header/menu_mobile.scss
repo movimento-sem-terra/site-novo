@@ -21,7 +21,7 @@
     width: 220px;
     height: auto;
     padding-top: 10px;
-    background: $mstred;
+    background: $mst-red;
     box-shadow: inset -5px -10px 10px 0 rgba(0,0,0,.3);
 
     .dropdown-menu li a {
@@ -39,7 +39,7 @@
 
     li a:hover {
       background: #FFF;
-      color: $mstred;
+      color: $mst-red;
     }
 
     /*

@@ -51,14 +51,14 @@ main.topic {
 
       summary {
         cursor: pointer;
-        color: $mstgreen;
+        color: $mst-green;
         font-weight: bold;
         float: right;
-        
+
         &:focus {
           outline: none;
         }
-        
+
         &:hover {
           text-decoration: underline;
         }
@@ -89,11 +89,11 @@ main.topic {
       text-align: right;
       font-weight: bold;
       clear: both;
-      
+
       a {
-        color: $mstgreen;
+        color: $mst-green;
       }
-      
+
       a:hover {
         opacity: 0.8;
       }

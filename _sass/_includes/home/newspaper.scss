@@ -2,7 +2,7 @@ section.newspaper {
   min-width: 0;
 
   figure {
-    border: 1px solid $mstred;
+    border: 1px solid $mst-red;
     padding: 14px;
     min-height: 400px;
     text-align: center;
@@ -16,7 +16,7 @@ section.newspaper {
     }
 
     figcaption {
-      color: $mstred;
+      color: $mst-red;
       font-weight: 300;
       font-size: 19px;
     }
