@@ -97,7 +97,7 @@ A ind&uacute;stria de minera&ccedil;&atilde;o tamb&eacute;m est&aacute; em uma c
 &nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="nilson leitão!.jpg" src="http://farm9.staticflickr.com/8593/15414274944_e44957fa0a_b.jpg" />
-<figcaption></figcaption>
+<figcaption><strong>N&iacute;lson Leit&atilde;o</strong>&nbsp;(PSDB-MT)</figcaption>
 </figure>
 
 <p><br />
@@ -107,7 +107,7 @@ A ind&uacute;stria de minera&ccedil;&atilde;o tamb&eacute;m est&aacute; em uma c
 &nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="osmarserraglio!.jpg" src="http://farm8.staticflickr.com/7482/15849274710_466ff59aeb_b.jpg" />
-<figcaption></figcaption>
+<figcaption><strong>Osmar Serraglio</strong>&nbsp;(PMDB-PR)</figcaption>
 </figure>
 
 <p><br />
@@ -117,7 +117,7 @@ A ind&uacute;stria de minera&ccedil;&atilde;o tamb&eacute;m est&aacute; em uma c
 &nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="luiz carlos heinze!.jpg" src="http://farm8.staticflickr.com/7541/15850498149_cf50d40457_b.jpg" />
-<figcaption></figcaption>
+<figcaption><strong>Luis Carlos Heinze</strong>&nbsp;(PP-RS)</figcaption>
 </figure>
 
 <p><br />
@@ -127,7 +127,7 @@ A ind&uacute;stria de minera&ccedil;&atilde;o tamb&eacute;m est&aacute; em uma c
 &nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="junji abe!.jpg" src="http://farm8.staticflickr.com/7479/15414281554_ce8036de59_b.jpg" />
-<figcaption></figcaption>
+<figcaption><strong>Junji Abe&nbsp;</strong>(PSD-SP)</figcaption>
 </figure>
 
 <p><br />
@@ -137,7 +137,7 @@ A ind&uacute;stria de minera&ccedil;&atilde;o tamb&eacute;m est&aacute; em uma c
 &nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="padovani.jpg" src="http://farm8.staticflickr.com/7466/15416909823_ed66868d49_b.jpg" />
-<figcaption></figcaption>
+<figcaption><strong>Nelson Padovani&nbsp;</strong>(PSC-PR)</figcaption>
 </figure>
 
 <p><br />
@@ -147,7 +147,7 @@ A ind&uacute;stria de minera&ccedil;&atilde;o tamb&eacute;m est&aacute; em uma c
 &nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="moreira mendes.jpg" src="http://farm8.staticflickr.com/7578/15850509279_e290b2f544_b.jpg" />
-<figcaption></figcaption>
+<figcaption><strong>Moreira Mendes&nbsp;</strong>(PSD/RO)</figcaption>
 </figure>
 
 <p><strong>Moreira Mendes </strong>(PSD/RO). Recebeu doa&ccedil;&otilde;es da Bunge, Associa&ccedil;&atilde;o de Armas e Muni&ccedil;&otilde;es e Cosan. Engajado na mudan&ccedil;a dos procedimentos de demarca&ccedil;&atilde;o de Terras Ind&iacute;genas. &Eacute; o autor do projeto de lei que modifica o conceito de trabalho escravo (PL 3842/12). Defende que &ldquo;terra ind&iacute;gena &eacute; a que estava ocupada at&eacute; a Constitui&ccedil;&atilde;o de 88&rdquo;.</p>
