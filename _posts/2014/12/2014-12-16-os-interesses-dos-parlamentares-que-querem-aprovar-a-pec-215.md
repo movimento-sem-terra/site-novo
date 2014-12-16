@@ -5,7 +5,7 @@ tags:
   - tag: indígenas
   - tag: bancada-ruralista
 title: Os interesses dos parlamentares que querem aprovar a PEC 215
-support_line: "Parlamentares receberam mais de R$ 18 milhões de empresas como JBS, Bunge, Gerdau, Suzano, Klabin, Embraer. Se aprovado, projeto deverá paralisar definitivamente oficialização de Terras Indígenas e quilombolas e Unidades de Conservação."
+support_line: "Parlamentares receberam mais de R$ 18 milhões de empresas como JBS, Bunge, Gerdau, Suzano, Klabin, Embraer."
 menu: agronegócio
 layout: post
 files:
@@ -62,7 +62,8 @@ published: true
 images_hd: "http://farm8.staticflickr.com/7576/15416934113_fc176de12f_n.jpg"
 
 ---
-<p><br />
+<p><img alt="republica-ruralistas-728x377.jpg" src="http://farm8.staticflickr.com/7576/15416934113_fc176de12f_b.jpg" /><br />
+<br />
 <em>Do Instituto Socioambiental - Isa</em></p>
 
 <p><br />
@@ -99,16 +100,18 @@ A ind&uacute;stria de minera&ccedil;&atilde;o tamb&eacute;m est&aacute; em uma c
 <figcaption></figcaption>
 </figure>
 
-<p><strong>N&iacute;lson Leit&atilde;o</strong> (PSDB-MT). Vice-presidente da Comiss&atilde;o Especial que analisa a PEC 215. Recebeu doa&ccedil;&atilde;o da Agrimat Engenharia. Na &uacute;ltima quarta-feira, chegou a expulsar ind&iacute;genas da sess&atilde;o da Comiss&atilde;o. Pediu a cria&ccedil;&atilde;o da CPI para investigar a Funai e o Incra. Votou a favor da altera&ccedil;&atilde;o do C&oacute;digo Florestal. Segundo escutas do Minist&eacute;rio P&uacute;blico Federal, pode ser um dos incentivadores da invas&atilde;o da Terra Ind&iacute;gena Mar&atilde;iwats&eacute;d&eacute; (MT).</p>
+<p><br />
+<strong>N&iacute;lson Leit&atilde;o</strong> (PSDB-MT). Vice-presidente da Comiss&atilde;o Especial que analisa a PEC 215. Recebeu doa&ccedil;&atilde;o da Agrimat Engenharia. Na &uacute;ltima quarta-feira, chegou a expulsar ind&iacute;genas da sess&atilde;o da Comiss&atilde;o. Pediu a cria&ccedil;&atilde;o da CPI para investigar a Funai e o Incra. Votou a favor da altera&ccedil;&atilde;o do C&oacute;digo Florestal. Segundo escutas do Minist&eacute;rio P&uacute;blico Federal, pode ser um dos incentivadores da invas&atilde;o da Terra Ind&iacute;gena Mar&atilde;iwats&eacute;d&eacute; (MT).</p>
 
 <p><br />
 &nbsp;</p>
 
-<figure class="image" style="float:right"><img alt="osmarserraglio!.jpg" src="http://farm8.staticflickr.com/7482/15849274710_466ff59aeb_b.jpg" />
+<figure class="image" style="float:left"><img alt="osmarserraglio!.jpg" src="http://farm8.staticflickr.com/7482/15849274710_466ff59aeb_b.jpg" />
 <figcaption></figcaption>
 </figure>
 
-<p><strong>Osmar Serraglio</strong> (PMDB-PR). Relator da Comiss&atilde;o Especial. Recebeu doa&ccedil;&atilde;o da Klabin. Engajado na mudan&ccedil;a do procedimento de demarca&ccedil;&atilde;o de terras ind&iacute;genas. Votou a favor da altera&ccedil;&atilde;o do C&oacute;digo Florestal. Segundo escutas do Minist&eacute;rio P&uacute;blico Federal, seu relat&oacute;rio sobre a PEC 215 pode ter sido elaborado por um lobista da CNA.</p>
+<p><br />
+<strong>Osmar Serraglio</strong> (PMDB-PR). Relator da Comiss&atilde;o Especial. Recebeu doa&ccedil;&atilde;o da Klabin. Engajado na mudan&ccedil;a do procedimento de demarca&ccedil;&atilde;o de terras ind&iacute;genas. Votou a favor da altera&ccedil;&atilde;o do C&oacute;digo Florestal. Segundo escutas do Minist&eacute;rio P&uacute;blico Federal, seu relat&oacute;rio sobre a PEC 215 pode ter sido elaborado por um lobista da CNA.</p>
 
 <p><br />
 &nbsp;</p>
@@ -117,16 +120,18 @@ A ind&uacute;stria de minera&ccedil;&atilde;o tamb&eacute;m est&aacute; em uma c
 <figcaption></figcaption>
 </figure>
 
-<p><strong>Luis Carlos Heinze</strong> (PP-RS). 2o Vice-presidente da Comiss&atilde;o Especial que analisa a PEC 215. Recebeu doa&ccedil;&otilde;es da Bunge, Camil, Gerdau, JBS, Klabin, Cosan e Seara. Foi eleito &quot;Racista do Ano&quot;, pela ONG brit&acirc;nica Survival International, por dizer em audi&ecirc;ncia p&uacute;blica que negros, homossexuais e ind&iacute;genas representam &quot;tudo que n&atilde;o presta&rdquo;. Apoiou CPI da Funda&ccedil;&atilde;o Nacional do &Iacute;ndio (Funai).</p>
+<p><br />
+<strong>Luis Carlos Heinze</strong> (PP-RS). 2o Vice-presidente da Comiss&atilde;o Especial que analisa a PEC 215. Recebeu doa&ccedil;&otilde;es da Bunge, Camil, Gerdau, JBS, Klabin, Cosan e Seara. Foi eleito &quot;Racista do Ano&quot;, pela ONG brit&acirc;nica Survival International, por dizer em audi&ecirc;ncia p&uacute;blica que negros, homossexuais e ind&iacute;genas representam &quot;tudo que n&atilde;o presta&rdquo;. Apoiou CPI da Funda&ccedil;&atilde;o Nacional do &Iacute;ndio (Funai).</p>
 
 <p><br />
 &nbsp;</p>
 
-<figure class="image" style="float:right"><img alt="junji abe!.jpg" src="http://farm8.staticflickr.com/7479/15414281554_ce8036de59_b.jpg" />
+<figure class="image" style="float:left"><img alt="junji abe!.jpg" src="http://farm8.staticflickr.com/7479/15414281554_ce8036de59_b.jpg" />
 <figcaption></figcaption>
 </figure>
 
-<p><strong>Junji Abe </strong>(PSD-SP). 3o Vice-presidente da Comiss&atilde;o Especial que analisa a PEC 215. Recebeu doa&ccedil;&atilde;o da Suzano Papel e Celulose. Votou a favor da altera&ccedil;&atilde;o do C&oacute;digo Florestal e contra a PEC do Trabalho Escravo.</p>
+<p><br />
+<strong>Junji Abe </strong>(PSD-SP). 3o Vice-presidente da Comiss&atilde;o Especial que analisa a PEC 215. Recebeu doa&ccedil;&atilde;o da Suzano Papel e Celulose. Votou a favor da altera&ccedil;&atilde;o do C&oacute;digo Florestal e contra a PEC do Trabalho Escravo.</p>
 
 <p><br />
 &nbsp;</p>
@@ -135,12 +140,13 @@ A ind&uacute;stria de minera&ccedil;&atilde;o tamb&eacute;m est&aacute; em uma c
 <figcaption></figcaption>
 </figure>
 
-<p><strong>Nelson Padovani </strong>(PSC-PR). Vice-relator da Comiss&atilde;o Especial. Articuladores de propostas que visam permitir a &ldquo;concess&atilde;o&rdquo; de terras ind&iacute;genas a produtores rurais. Pediu a cria&ccedil;&atilde;o da CPI da Funai. Votou a favor da altera&ccedil;&atilde;o do C&oacute;digo Florestal. Votou contra a PEC do Trabalho Escravo.</p>
+<p><br />
+<strong>Nelson Padovani </strong>(PSC-PR). Vice-relator da Comiss&atilde;o Especial. Articuladores de propostas que visam permitir a &ldquo;concess&atilde;o&rdquo; de terras ind&iacute;genas a produtores rurais. Pediu a cria&ccedil;&atilde;o da CPI da Funai. Votou a favor da altera&ccedil;&atilde;o do C&oacute;digo Florestal. Votou contra a PEC do Trabalho Escravo.</p>
 
 <p><br />
 &nbsp;</p>
 
-<figure class="image" style="float:right"><img alt="moreira mendes.jpg" src="http://farm8.staticflickr.com/7578/15850509279_e290b2f544_b.jpg" />
+<figure class="image" style="float:left"><img alt="moreira mendes.jpg" src="http://farm8.staticflickr.com/7578/15850509279_e290b2f544_b.jpg" />
 <figcaption></figcaption>
 </figure>
 
