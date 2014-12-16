@@ -50,15 +50,43 @@ function deploy {
   popd
 }
 
+function heroku {
+  DIST_DIR=$1
+  MASTER_HEAD_SHA=$(git rev-parse --short HEAD)
+  mkdir $DIST_DIR
+  pushd $DIST_DIR 
+    git init
+    git remote add heroku git@heroku.com:mst-ba.git
+    git commit -qam "" --allow-empty --allow-empty-message
+  popd
+
+  time bundle exec jekyll build
+  rsync -r _site/* $DIST_DIR/
+
+  pushd $DIST_DIR 
+    touch index.php
+    echo '<?php include_once("index.html"); ?>' > index.php
+    git add . -A
+    git commit -m "Site-novo to staging"
+    git push -f heroku master
+  popd
+}
+
 function install_gems {
   bundle install --jobs 8
   bundle exec bourbon install
   bundle exec neat install
 }
+DIST_FOLDER="/tmp/$(LC_CTYPE=C tr -dc 0-9 < /dev/urandom | head -c 20 | xargs | cat)"
+TARGET=$1
 
 install_gems $1
-dirty_check $1
-create_gh_pages
-dist
-deploy
 
+if [ "$TARGET" == "production" ]; then
+  dirty_check $1
+  create_gh_pages
+  dist
+  deploy
+else
+  heroku $DIST_FOLDER
+fi
