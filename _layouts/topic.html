@@ -3,7 +3,7 @@ layout: default
 ---
 
 {% assign posts = site.posts | where: 'menu',  page.topic %}
-{% assign news = posts | where: 'video', '' %}
+{% assign news = posts | where_not: 'section', 'tv' %}
 {% assign videos =  posts | where_not_null: 'video' %}
 
 <main class="topic">
