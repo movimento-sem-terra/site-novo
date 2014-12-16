@@ -14,24 +14,26 @@ layout: default
       </li>
     {% endfor %}
   </ul>
+  {% if paginator.total_pages > 1 %}
 
-  <footer class="pagination">
-    <nav>
-      {% if paginator.previous_page %}
-        {% if paginator.page == 2 %}
-          <a rel='prev' href="{{ paginator.first_page_path }}" class="previous">Anterior</a>
+    <footer class="pagination">
+      <nav>
+        {% if paginator.previous_page %}
+          {% if paginator.page == 2 %}
+            <a rel='prev' href="{{ paginator.first_page_path }}" class="previous">Anterior</a>
+          {% else %}
+            <a rel='prev' href="{{ paginator.previous_page_path }}" class="previous">Anterior</a>
+          {% endif %}
         {% else %}
-          <a rel='prev' href="{{ paginator.previous_page_path }}" class="previous">Anterior</a>
+          <span class="previous">Anterior</span>
         {% endif %}
-      {% else %}
-        <span class="previous">Anterior</span>
-      {% endif %}
-      <span class="page_number">Página {{ paginator.page }} de {{ paginator.total_pages }}</span>
-      {% if paginator.next_page %}
-        <a rel='next' href="{{ paginator.next_page_path }}" class="next">Próximo</a>
-      {% else %}
-        <span class="next">Próximo</span>
-      {% endif %}
-    </nav>
-  </footer>
+        <span class="page_number">Página {{ paginator.page }} de {{ paginator.total_pages }}</span>
+        {% if paginator.next_page %}
+          <a rel='next' href="{{ paginator.next_page_path }}" class="next">Próximo</a>
+        {% else %}
+          <span class="next">Próximo</span>
+        {% endif %}
+      </nav>
+    </footer>
+  {% endif %}
 </main>
