@@ -32,27 +32,27 @@ exclude:
   - node/
   - templates/
   - skelleton.json
-paginate: 20 
+paginate: 1
 paginate_by:
-  - menu:
-      per_page: 20
-      limit_pages: 10
-      permalink: "editorias/$"
-      template: "_templates/list"
-      page_link: "page:num"
-      exclude:
-        - section: "campaign"
-        - section: "newspaper"
-  - tags:
-      is_tag: true
-      per_page: 20
-      limit_pages: 10
-      permalink: "tags/$"
-      template: "_templates/list"
-      page_link: "page:num"
-  - label:
-      per_page: 20
-      limit_pages: 10
-      permalink: "secao/$"
-      template: "_templates/list"
-      page_link: "page:num"
+  defaults:
+    template: "_templates/list"
+    per_page: 10
+    page_link: ":num"
+    pages_limit: 20
+  filters:
+    - menu:
+        permalink: "editorias/$"
+        exclude:
+          - section: "campaign"
+          - section: "newspaper"
+          - section: "tv"
+    - section: 
+        permalink: "videos" 
+        only:
+          - section: "tv"
+    - all:
+        permalink: "noticias/"
+        exclude:
+          - section: "campaign"
+          - section: "tv"
+          - section: "newspaper"
