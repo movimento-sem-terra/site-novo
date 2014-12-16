@@ -2,7 +2,7 @@
 {% assign first_post = posts.first %}
 
 <section class="interviews">
-  <h2 class="hat"><a href="{{ site.baseurl }}/secao/interviews/">Entrevistas</a></h2>
+  <h2 class="hat"><a href="{{ site.baseurl }}/entrevistas">Entrevistas</a></h2>
   {% include headline-text-over-image.html post=first_post %}
   <ul>
     {% for post in posts | limit:3 %}

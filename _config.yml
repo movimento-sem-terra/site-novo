@@ -50,6 +50,14 @@ paginate_by:
         permalink: "videos" 
         only:
           - section: "tv"
+    - section: 
+        permalink: "reportagens-especiais/" 
+        only:
+          - label: "special-stories"
+    - section: 
+        permalink: "entrevistas/" 
+        only:
+          - label: "interviews"
     - all:
         permalink: "noticias/"
         exclude:
