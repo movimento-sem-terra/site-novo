@@ -39,6 +39,11 @@
         {% endif %}
       {% endif %}
     {% endif %}
+  {% if include.show_time %}
+    <time datetime="{{ post.date }}">
+        {{ post.date | pretty_date }}
+    </time>
+  {% endif %}
   <h1>
     <a href="{{ site.baseurl  }}{{ include.post.url }}">{{ include.post.title }}</a>
   </h1>

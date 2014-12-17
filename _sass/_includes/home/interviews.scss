@@ -4,8 +4,10 @@ section.interviews {
   }
 
   & > ul {
-    padding-left: 20px;
-    list-style-type: square;
+    margin-top: 10px;
+    li{
+      margin-bottom: 20px;
+    }
   }
 }
 

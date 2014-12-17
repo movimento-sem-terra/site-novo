@@ -6,11 +6,8 @@ layout: default
   <ul>
     {% for post in paginator.posts %}
       <li>
-        {% include headline-with-image.html post=post support_line=true %}
+        {% include headline-with-image.html post=post support_line=true show_time=true %}
         {% include tag-list.html tags = post.tags %}
-        <time datetime="{{ post.date }}">
-          {{ post.date | pretty_date }}
-        </time>
       </li>
     {% endfor %}
   </ul>
