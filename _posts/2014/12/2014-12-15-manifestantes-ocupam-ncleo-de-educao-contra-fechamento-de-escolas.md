@@ -18,6 +18,7 @@ files:
 created_date: "2014-12-16T13:45:41-02:00"
 published: true
 images_hd: "http://farm8.staticflickr.com/7546/16035551722_f912a350c5_n.jpg"
+section: featured-news
 
 ---
 <div id="content-header">
