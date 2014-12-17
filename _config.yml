@@ -33,7 +33,7 @@ exclude:
   - templates/
   - skelleton.json
 paginate_by:
-  defaults:
+  options:
     template: "_templates/list"
     per_page: 10
     page_link: ":num"
