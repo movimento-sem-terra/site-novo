@@ -4,7 +4,7 @@ tags:
   - tag: Ceará
   - tag: Encontro-Estadual
 title: Cerca de mil Sem Terra celebram os 25 anos do MST no Ceará
-support_line: "Em seu 27° Encontro Estadual do Ceará, que acontece entre os dias 18 a 20, os Sem Terra aproveitam para comemorar os 25 anos do MST no assentamento 25 de Maio, a primeira ocupação do estado."
+support_line: "Em seu 27° Encontro Estadual do Ceará, os Sem Terra aproveitam para comemorar os 25 anos do MST no assentamento 25 de Maio, a primeira ocupação do estado."
 menu: reforma agrária
 layout: post
 files:
