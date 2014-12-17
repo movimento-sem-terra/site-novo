@@ -21,7 +21,8 @@ images_hd: "http://farm8.staticflickr.com/7471/15857496930_21d07b6ae7_n.jpg"
 ---
 <div id="content-header">
 <div id="content-title">
-<p>&nbsp;</p>
+<p><br />
+<img alt="cupula.jpg" src="http://farm8.staticflickr.com/7471/15857496930_21d07b6ae7_b.jpg" /></p>
 </div>
 </div>
 
