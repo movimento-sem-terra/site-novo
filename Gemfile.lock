@@ -1,8 +1,8 @@
 GIT
-  remote: git://github.com/marighella/jekyll-paginate.git
-  revision: 65d3de73c391c665d02dd12f0310db5fb158794f
+  remote: git://github.com/marighella/jekyll-paginate-by.git
+  revision: e92ac1de18656b9c958d35f615928be93208f32c
   specs:
-    jekyll-paginate (1.2.0)
+    jekyll-paginate-by (1.0.0)
       slugify
 
 GEM
@@ -46,6 +46,7 @@ GEM
     jekyll-coffeescript (1.0.1)
       coffee-script (~> 2.2)
     jekyll-gist (1.1.0)
+    jekyll-paginate (1.1.0)
     jekyll-sass-converter (1.3.0)
       sass (~> 3.2)
     jekyll-sitemap (0.7.0)
@@ -89,6 +90,6 @@ PLATFORMS
 DEPENDENCIES
   httparty
   jekyll (~> 2.5.0)
-  jekyll-paginate!
+  jekyll-paginate-by!
   jekyll-sitemap (~> 0.5)
   neat

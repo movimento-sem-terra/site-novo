@@ -13,7 +13,7 @@ collections:
 timezone: BR
 gems:
   - jekyll-sitemap
-  - jekyll-paginate
+  - jekyll-paginate-by
 exclude:
   - deploy
   - Gemfile
@@ -32,7 +32,6 @@ exclude:
   - node/
   - templates/
   - skelleton.json
-paginate: 1
 paginate_by:
   defaults:
     template: "_templates/list"
