@@ -47,6 +47,7 @@ paginate_by:
           - section: "tv"
     - section: 
         permalink: "videos" 
+        per_page: 9
         template: "_templates/videos"
         only:
           - section: "tv"
