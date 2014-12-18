@@ -34,7 +34,7 @@ exclude:
   - skelleton.json
 paginate_by:
   options:
-    template: "_templates/list"
+    template: "_templates/news"
     per_page: 10
     page_link: ":num"
     pages_limit: 20
@@ -47,6 +47,7 @@ paginate_by:
           - section: "tv"
     - section: 
         permalink: "videos" 
+        template: "_templates/videos"
         only:
           - section: "tv"
     - section: 

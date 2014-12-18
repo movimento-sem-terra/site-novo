@@ -1,0 +1,41 @@
+main.all-videos {
+  padding-top: 0px;
+
+  @include outer-container;
+  & > article.headline{
+    display: block;
+    padding: 20px 20px 20px 40px !important;
+    overflow: hidden;
+    height: 263px;
+    @include span-columns(12);
+    @include omega();
+    border-bottom: dashed 1px #c3c3c3;
+    margin-top: 21px;
+    h1{
+      text-overflow: ellipsis;
+      font-size: 16px;
+    }
+    @media(min-width: $screen-sm) {
+      @include span-columns(4);
+      @include omega();
+    }
+  }
+  & > footer.pagination {
+    margin: 0;
+    padding: 0;
+    padding-top: 30px;
+    clear: both;
+    text-align: center;
+    font-weight: 200;
+    nav {
+      .previous, .next {
+        text-transform: uppercase; 
+      }
+
+      span.page_number {
+        padding-left: 20px;
+        padding-right: 20px;
+      }
+    }
+  }
+}
