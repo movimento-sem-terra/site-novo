@@ -1,4 +1,5 @@
 var intervalo;
+
 var resizeLegend = function(){
 	var figure = document.querySelector(".image");
 	var widthPattern = figure.children[0].clientWidth;
@@ -10,4 +11,8 @@ var resizeLegend = function(){
 };
 
 intervalo = setInterval(resizeLegend, 1);
-window.onresize = resizeLegend;
+
+window.addEventListener('resize', resizeLegend, false);
+window.addEventListener('load', function(){
+	clearInterval(intervalo);
+}, false);
