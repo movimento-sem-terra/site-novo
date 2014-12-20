@@ -9,3 +9,4 @@ node_modules
 neat/
 bourbon/
 .rvmrc
+tags.json
