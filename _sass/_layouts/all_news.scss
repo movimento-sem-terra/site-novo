@@ -8,12 +8,12 @@ main.all-news {
     clear: both;
     border-bottom: dashed 1px #c3c3c3;
     & h1 > a{
+      font-weight: bold; 
       color: #555;
     } 
 
     @media(min-width: $screen-sm) {
       height: 218px;
-
       & > article.headline {
         figure {
           float:left;
@@ -38,12 +38,10 @@ main.all-news {
     clear: both;
     text-align: center;
     font-weight: 200;
-    
     nav {
       .previous, .next {
         text-transform: uppercase; 
       }
-
       span.page_number {
         padding-left: 20px;
         padding-right: 20px;
