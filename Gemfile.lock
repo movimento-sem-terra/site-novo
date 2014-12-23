@@ -93,3 +93,4 @@ DEPENDENCIES
   jekyll-paginate-by!
   jekyll-sitemap (~> 0.5)
   neat
+  slugify

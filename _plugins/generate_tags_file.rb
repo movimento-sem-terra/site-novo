@@ -1,5 +1,6 @@
 require 'jekyll/post'
 require 'json'
+require 'slugify'
 
 module Jekyll
   class TagsFileGenerator < Generator
@@ -13,15 +14,14 @@ module Jekyll
           key = tag.values.first
 
           if tags[key].class == Array
-            tags[key] << post.name.downcase
+            tags[key] << post.name.slugify
           else
             tags[key] = [post.name]
           end
         end
       end
 
-      #encoding: UTF-8
-      File.open('tags.json','w:UTF-8"') do |f|
+      File.open('tags.json','w') do |f|
         f.write(tags.to_json)
       end
 
