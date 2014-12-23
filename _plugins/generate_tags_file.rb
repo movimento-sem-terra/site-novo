@@ -13,7 +13,7 @@ module Jekyll
           key = tag.values.first
 
           if tags[key].class == Array
-            tags[key] << post.name
+            tags[key] << post.name.downcase
           else
             tags[key] = [post.name]
           end
