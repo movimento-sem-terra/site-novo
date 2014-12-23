@@ -20,7 +20,8 @@ module Jekyll
         end
       end
 
-      File.open('tags.json','w') do |f|
+      #encoding: UTF-8
+      File.open('tags.json','w:UTF-8"') do |f|
         f.write(tags.to_json)
       end
 
