@@ -12,11 +12,12 @@ module Jekyll
       site.posts.each do |post|
         post.tags.each do |tag|
           key = tag.values.first
+          name = post.name.slugify.downcase
 
           if tags[key].class == Array
-            tags[key] << post.name.slugify
+            tags[key] << name
           else
-            tags[key] = [post.name]
+            tags[key] = [name]
           end
         end
       end
