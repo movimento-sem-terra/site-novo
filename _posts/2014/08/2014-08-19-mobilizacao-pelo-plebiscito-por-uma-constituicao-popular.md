@@ -19,6 +19,7 @@ menu: projeto popular
 published: true
 date: '2014-08-19T15:55:39-03:00'
 created_date: 2014-08-19 12:00
+video_thumbnail: http://i.ytimg.com/vi/L5UQgFpQW-8/hqdefault.jpg
 
 ---
 <p style="text-align:center"><iframe allowfullscreen="" frameborder="0" height="360" name="coverVideo" src="//www.youtube.com/embed/L5UQgFpQW-8" width="640"></iframe></p>

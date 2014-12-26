@@ -20,6 +20,7 @@ published: true
 menu: lutas e mobilizações
 date: '2014-06-09T11:46:46-03:00'
 created_date: 2014-06-09 12:00
+video_thumbnail: http://i.ytimg.com/vi/eDbEk8JUX-E/hqdefault.jpg
 
 ---
 <p><object width="600" height="500" data="http://www.youtube.com/v/eDbEk8JUX-E" type="application/x-shockwave-flash"><param name="src" value="http://www.youtube.com/v/eDbEk8JUX-E"></object></p>

@@ -13,7 +13,8 @@ files:
     $$hashKey: 0IX
 created_date: "2014-12-15T15:08:43-02:00"
 published: true
-images_hd: ""
+images_hd: ''
+video_thumbnail: http://i.vimeocdn.com/video/473428279_640.jpg
 
 ---
 <p><iframe allowfullscreen="" frameborder="0" height="281" mozallowfullscreen="" src="//player.vimeo.com/video/92963842" webkitallowfullscreen="" width="500"></iframe></p>

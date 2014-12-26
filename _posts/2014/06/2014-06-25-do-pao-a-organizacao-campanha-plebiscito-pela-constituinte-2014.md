@@ -19,6 +19,7 @@ published: true
 menu: projeto popular
 date: '2014-06-25T10:59:57-03:00'
 created_date: 2014-06-25 12:00
+video_thumbnail: http://i.ytimg.com/vi/kuO71TfKNZo/hqdefault.jpg
 
 ---
 <p><object style="width: 600px; height: 500px;" width="600" height="500" data="http://www.youtube.com/v/kuO71TfKNZo" type="application/x-shockwave-flash"><param name="src" value="http://www.youtube.com/v/kuO71TfKNZo"></object></p>

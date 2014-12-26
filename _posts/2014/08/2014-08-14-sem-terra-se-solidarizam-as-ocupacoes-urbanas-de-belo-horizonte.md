@@ -22,6 +22,7 @@ menu: lutas e mobilizações
 published: true
 date: '2014-08-14T15:12:29-03:00'
 created_date: 2014-08-14 12:00
+video_thumbnail: http://i.ytimg.com/vi/rVlTVNrqJLE/hqdefault.jpg
 
 ---
 <p><br />

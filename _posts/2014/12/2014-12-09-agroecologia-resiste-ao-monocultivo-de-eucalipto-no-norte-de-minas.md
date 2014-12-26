@@ -15,5 +15,6 @@ files:
 created_date: '2014-12-09T17:54:21-02:00'
 published: true
 images_hd: ''
+video_thumbnail: http://i.vimeocdn.com/video/477978663_640.jpg
 
 ---

@@ -13,6 +13,7 @@ files: []
 created_date: '2014-12-05T16:07:40-02:00'
 published: true
 images_hd: ''
+video_thumbnail: http://i.ytimg.com/vi/Hy2kB4ZYcHE/hqdefault.jpg
 
 ---
 <p><iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/Hy2kB4ZYcHE" width="640"></iframe></p>

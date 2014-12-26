@@ -20,6 +20,7 @@ menu: reforma agrária
 published: true
 date: '2014-09-10T14:06:08-03:00'
 created_date: 2014-10-07 12:00
+video_thumbnail: http://i.ytimg.com/vi/fuzeVn1XqhY/hqdefault.jpg
 
 ---
 <p style="text-align:center"><iframe allowfullscreen="" frameborder="0" height="360" name="coverVideo" src="//www.youtube.com/embed/fuzeVn1XqhY" width="640"></iframe></p>

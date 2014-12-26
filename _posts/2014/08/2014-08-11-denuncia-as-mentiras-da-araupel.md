@@ -20,6 +20,7 @@ menu: agronegócio
 published: true
 date: '2014-08-11T13:49:10-03:00'
 created_date: 2014-08-11 12:00
+video_thumbnail: http://i.ytimg.com/vi/3NjivwG5f1s/hqdefault.jpg
 
 ---
 <p><iframe allowfullscreen="" frameborder="0" height="500" src="//www.youtube.com/embed/3NjivwG5f1s" width="600"></iframe></p>

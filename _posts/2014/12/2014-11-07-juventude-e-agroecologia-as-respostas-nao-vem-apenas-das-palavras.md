@@ -18,6 +18,7 @@ files:
 published: true
 images_hd: ''
 created_date: '2014-12-05T10:10:31-03:00'
+video_thumbnail: http://i.ytimg.com/vi/lTX_bU4RgNU/hqdefault.jpg
 
 ---
 <p><iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/lTX_bU4RgNU" width="640"></iframe></p>

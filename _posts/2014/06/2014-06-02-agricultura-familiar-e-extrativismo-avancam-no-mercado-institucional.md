@@ -19,6 +19,7 @@ published: true
 menu: agricultura camponesa
 date: '2014-06-02T13:22:46-03:00'
 created_date: 2014-06-02 12:00
+video_thumbnail: http://i.ytimg.com/vi/Jup_yPkKEMk/hqdefault.jpg
 
 ---
 <p><object width="600" height="500" data="http://www.youtube.com/v/Jup_yPkKEMk&amp;feature" type="application/x-shockwave-flash"><param name="src" value="http://www.youtube.com/v/Jup_yPkKEMk&amp;feature"></object></p>
