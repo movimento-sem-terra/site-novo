@@ -1,14 +1,11 @@
 {% assign special_story = site.special_stories | first %}
 
-<section class="special-stories">
+<section class="special-stories headline-text-over-image">
   <h2 class="hat"><a href="{{ site.baseurl }}/reportagens-especiais/">Reportagens Especiais</a></h2>
-
-  <a href="{{ site.baseurl }}{{ special_story.url }}"
-    class="headline-text-over-image">
-    <figure
-      style="background-image:url('{{ special_story.images_hd }}');"
-      alt="{{ special_story.title }}">
-      <figcaption>{{ special_story.title }}</figcaption>
+    <figure>
+      <a href="{{ site.baseurl }}{{ special_story.url }}">
+      	<img src="{{ special_story.images_hd }}" alt="{{ special_story.title }}">
+      	<figcaption>{{ special_story.title }}</figcaption>
+      </a>
     </figure>
-  </a>
 </section>

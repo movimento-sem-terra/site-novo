@@ -1,12 +1,11 @@
 {% assign newspaper = site.newspaper %}
 
 <section class='newspaper'>
-  <a href="{{ newspaper.url | prepend: site.url }}"
+    <figure>
+      <a href="{{ newspaper.url | prepend: site.url }}"
     class="headline-text-over-image" title="Jornal sem terra Novembro">
-    <figure
-      alt="Jornal Sem Terra">
-      <img src="{{ newspaper.images_hd }}"/>
-      <figcaption>{{ newspaper.title }}</figcaption>
+      	<img src="{{ newspaper.images_hd }}" alt="Jornal Sem Terra">
+      	<figcaption>{{ newspaper.title }}</figcaption>
+      </a>
     </figure>
-  </a>
 </section>

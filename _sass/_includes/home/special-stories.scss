@@ -1,13 +1,21 @@
 section.special-stories {
-  .headline-text-over-image figure{
+  figure{
     width: 100%;
+    height: 250px;
+
+    & > a > img {
+      width: 100%;
+    }
   }
 
   @media(min-width: $screen-sm) { 
-    a > figure {
-      max-width: 90%;
-      width: 90%;
+    figure {
+      width: 100%;
       height: 400px;
+
+      & a > img {
+        width: 100%;
+      }
     }
   }
 }
