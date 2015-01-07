@@ -1,10 +1,15 @@
-<article class="headline">
+<article class="headline" itemprop="video" itemscope itemtype="http://schema.org/VideoObject">
+  {% if include.post.video_duration %}
+  <span class='meta' itemprop="duration">{{ include.post.video_duration }}</span> 
+  {% endif %}
+  <span class='meta' itemprop="thumbnailURL">{{ include.post.video_thumbnail }}</span> 
+  <span class='meta' itemprop="embedURL">{{ include.post.video }}</span> 
   <iframe width="100%" src="{{ include.post.video | get_video_embeded }}" allowfullscreen frameborder="0"></iframe>
   <h1>
-    <a href="{{ site.baseurl }}{{ include.post.url }}">{{ include.post.title }}</a>
+    <a href="{{ site.baseurl }}{{ include.post.url }}"><span itemprop="name">{{ include.post.title }}</span></a>
   </h1>
   {% if include.support_line %}
-    <p class="support-line">{{ include.post.support_line}}</p>
+  <p class="support-line" itemprop="description">{{ include.post.support_line}}</p>
   {% endif %}
 </article>
 

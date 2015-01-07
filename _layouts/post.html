@@ -3,20 +3,29 @@ layout: default
 ---
 
 <main class="post">
-  <article>
-    <header>
-      {% include tag-list.html tags = page.tags %}
-      <h1 itemprop="name">{{ page.title }}</h1>
-      <p>{{ page.support_line  }}</p>
+<h1>{{ page | debug }}</h1>
+  {% if page.section == 'tv'%}
+    {% if page.video_duration %}
+      <span class='meta' itemprop="duration">{{ page.video_duration }}</span> 
+    {% endif %}
+    <span class='meta' itemprop="thumbnailURL">{{ page.video_thumbnail }}</span> 
+    <span class='meta' itemprop="embedURL">{{ page.video  }}</span>
+    <article itemprop="video" itemscope itemtype="http://schema.org/VideoObject">
+  {% else %}
+    <article>
+  {% endif %}
+      <header>
+        {% include tag-list.html tags = page.tags %}
+        <h1 itemprop="name">{{ page.title }}</h1>
+        <p itemprop="description">{{ page.support_line  }}</p>
         <time datetime="{{ page.date }}" itemprop="datePublished">
           {{ page.date | pretty_date }}
         </time>
-      {% include social-buttons.html article = page %}
-    </header>
-    {% include related-posts.html %}
-   <div itemprop="articleBody" class="article-body">{{ content }}</div>
-  </article>
-  <br>{% include social-buttons.html article = page %}
-  {% include read-more.html actual_post = page%}
+        {% include social-buttons.html article = page %}
+      </header>
+      <div itemprop="articleBody" class="article-body">{{ content }}</div>
+    </article>
+<br>{% include social-buttons.html article = page %}
+{% include read-more.html actual_post = page%}
 </main>
 <script type="text/javascript" src="{{ site.baseurl}}/assets/js/legend.js"></script>
