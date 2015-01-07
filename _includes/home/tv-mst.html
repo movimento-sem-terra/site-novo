@@ -1,8 +1,8 @@
 {% assign videos = site.tv_mst %}
 
 <section class="tv-mst">
+  <h2 class="hat"><a href='/videos' title= 'ver todos os vídeos'>VÍDEOS</a></h2>
   <aside class='videos'>
-    <h2 class="hat"><a href='/videos' title= 'ver todos os vídeos'>VÍDEOS</a></h2>
     <ul>
   	  {% for video in videos | offset: 1 %}
   		<li><a href="{{ site.baseurl }}{{ video.url }}">{{ video.title }}</a></li>

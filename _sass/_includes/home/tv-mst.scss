@@ -12,11 +12,17 @@ section.tv-mst {
 
   @media(min-width: $screen-sm) {
     background-color: #262626;
-    margin-top: 28px;
     min-height: 400px;
     height: auto;
 
+    h2.hat {
+        height: 35px;
+        background-color: white;
+        margin-bottom: 0px;
+    }
+
     .videos {
+      background-color: #262626;
       display: inline-block;
       width: 35%;
       vertical-align: top;
