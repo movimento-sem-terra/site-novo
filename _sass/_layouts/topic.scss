@@ -54,6 +54,8 @@ main.topic {
         color: $mst-green;
         font-weight: bold;
         float: right;
+        padding-top: 1.2em;
+        text-decoration: underline;
 
         &:focus {
           outline: none;
@@ -92,6 +94,7 @@ main.topic {
 
       a {
         color: $mst-green;
+        text-decoration: underline;
       }
 
       a:hover {
