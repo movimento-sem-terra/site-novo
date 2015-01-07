@@ -3,7 +3,6 @@ layout: default
 ---
 
 <main class="post">
-<h1>{{ page | debug }}</h1>
   {% if page.section == 'tv'%}
     {% if page.video_duration %}
       <span class='meta' itemprop="duration">{{ page.video_duration }}</span> 
