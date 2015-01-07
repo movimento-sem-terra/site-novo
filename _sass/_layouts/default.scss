@@ -84,17 +84,23 @@ section {
 }
 
 section > h2.hat {
+  font-family: 'Exo 2 ExtraBold';
+  font-size: 22px;
   margin-top: 0;
-  color: $text-color;
-  font-weight: 200;
+  color: #006400;
   text-transform: uppercase;
   letter-spacing: 1px;
+
+  a {
+    color: #006400;
+    text-decoration: underline;
+  }
 }
 
 ul {
   margin-top: 0;
   margin-bottom: 11px;
-  list-style: none;  
+  list-style: none;
   padding: 0;
   width: 100%;
 
@@ -138,4 +144,3 @@ h2.hat > a {
 .list-square {
   list-style-type: square;
 }
-

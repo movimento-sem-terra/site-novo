@@ -17,11 +17,11 @@ article.headline {
 
   h1 {
     font-size: 20px;
-    font-weight: 500;
-    line-height: 1.1;
     margin: 0;
     margin-top: 8px;
     text-align: left;
+    font-family: 'Exo 2 Bold';
+    line-height: 120%;
 
     a {
       color: #555;
@@ -30,13 +30,12 @@ article.headline {
   }
 
   p.support-line {
-    font-size: 14px;
-    font-weight: normal;
-    color: #929292;
+    font-family: 'Exo 2 Medium';
+    line-height: 120%;
+    font-size: 16px;
     margin: 8px 0 8px 0;
     a {
       color: $gray-dark;
     }
   }
 }
-
