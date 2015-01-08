@@ -2,7 +2,7 @@ section.newspaper {
   min-width: 0;
 
   figure {
-    border: 1px solid $mst-red;
+    border: 1px solid $mst-light-gray;
     padding: 14px;
     min-height: 400px;
     text-align: center;
@@ -16,9 +16,12 @@ section.newspaper {
     }
 
     figcaption {
-      color: $mst-red;
+      color: $mst-green;
       font-weight: 300;
       font-size: 19px;
+      font-family: $font-family-bold;
+      text-decoration: underline;
+      padding-top: 20px;
     }
 
     &:after {

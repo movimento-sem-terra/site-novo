@@ -17,7 +17,7 @@ section.tv-mst {
 
     h2.hat {
         height: 35px;
-        background-color: white;
+        background-color: $body-bg;
         margin-bottom: 0px;
     }
 
@@ -38,7 +38,7 @@ section.tv-mst {
         font-size: 1.3em;
       }
 
-      ul { 
+      ul {
         display: block;
 
         li {

@@ -7,7 +7,13 @@ section.interviews {
     margin-top: 10px;
     li{
       margin-bottom: 20px;
+
+      a {
+        color: $mst-dark-gray;
+        font-family: $font-family-bold;
+        font-size: 18px;
+        line-height: 120%;
+      }
     }
   }
 }
-

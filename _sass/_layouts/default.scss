@@ -84,7 +84,7 @@ section {
 }
 
 section > h2.hat {
-  font-family: 'Exo 2 ExtraBold';
+  font-family: $font-family-extra-bold;
   font-size: 22px;
   margin-top: 0;
   color: #006400;
@@ -134,7 +134,7 @@ h2.hat > a {
   color: $text-color;
 
   &:hover, &:focus {
-    color: $text-color;
+    color: $link-hover-color;
   }
 }
 .meta{

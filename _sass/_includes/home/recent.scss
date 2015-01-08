@@ -14,11 +14,15 @@ section.recent {
       font-weight: bold;
       text-decoration: underline;
     }
+
+    a:hover {
+      color: $link-hover-color;
+    }
   }
 
   article.headline {
     & > h1 {
-      font-family: 'Exo 2 ExtraBold';
+      font-family: $font-family-extra-bold;
       line-height: 120%;
       border-top: 1px solid #dddddd;
       padding-top: 10px;
