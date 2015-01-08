@@ -22,13 +22,13 @@ section.recent {
 
   article.headline {
     & > h1 {
-      font-family: $font-family-extra-bold;
+      font-family: $font-family-base;
+      font-weight: 800;
       line-height: 120%;
       border-top: 1px solid #dddddd;
       padding-top: 10px;
       font-size: 26px;
       margin-bottom: 10px;
-      font-weight: bold;
     }
 
     & > p {

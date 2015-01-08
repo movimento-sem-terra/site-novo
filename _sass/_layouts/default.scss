@@ -84,7 +84,8 @@ section {
 }
 
 section > h2.hat {
-  font-family: $font-family-extra-bold;
+  font-family: $font-family-base;
+  font-weight: 800;
   font-size: 22px;
   margin-top: 0;
   color: #006400;

@@ -7,7 +7,8 @@ main.post > article section.under-construction{
 
  a {
    text-decoration: underline;
-   font-family: $font-family-bold;
+   font-family: $font-family-base;
+   font-weight: 700;
  }
  .facebook, .twitter {
     width: 100%;
