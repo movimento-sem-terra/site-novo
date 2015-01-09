@@ -2,9 +2,8 @@ article.headline {
   padding: 0 !important;
 
   time{
-    font-style: italic;
-    color: #C3C3CC;
-    font-size: 0.8em;
+    color: $mst-medium-gray;
+    font-size: 13px;
   }
   figure {
     height: 190px;
@@ -35,7 +34,7 @@ article.headline {
     font-weight: 500;
     line-height: 120%;
     font-size: 16px;
-    margin: 8px 0 8px 0;
+    margin: 8px 0 15px 0;
     a {
       color: $gray-dark;
     }

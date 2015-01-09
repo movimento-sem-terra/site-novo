@@ -9,17 +9,17 @@ main.post {
 
       time {
         display: block;
-        font-style: italic;
-        font-size: 0.9em;
-        color: #c3c3c3;
-        margin-bottom: 9px;
+        font-size: 14px;
+        color: $mst-medium-gray;
+        margin-bottom: 15px;
       }
 
       p {
         color: #929292;
         font-size: 1.1em;
         margin-top: 7px;
-        margin-bottom: 3px;
+        margin-bottom: 10px;
+        line-height: 115%;
       }
     }
 
@@ -28,6 +28,7 @@ main.post {
       word-wrap: break-word;
       clear: both;
       font-size: 23px;
+      line-height: 96%;
     }
 
     .tags {
@@ -78,7 +79,7 @@ main.post {
     margin-bottom: 10px;
     img{
       display: inline;
-      width: 36px;
+      width: 28px;
       height: auto;
     }
   }
@@ -95,14 +96,16 @@ main.post {
     margin-left: 128px;
     article {
       padding-right: 0;
-      .article-body{  
+      .article-body{
         width: 74%;
       }
       header{
         h1{
           font-size: 41px;
+          margin-bottom: 16px;
+          margin-top: 0.2em;
         }
-        p{ 
+        p{
           font-size: 1.3em;
          }
       }

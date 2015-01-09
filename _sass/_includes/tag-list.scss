@@ -1,18 +1,15 @@
 span.tag {
-  background-color: $mst-green;
+  background-color: white;
   padding: .2em .7em .3em;
   font-size: 81%;
   line-height: 1;
-  color: #ffffff;
+  color: #A3A3AB;
   text-align: center;
   white-space: nowrap;
   vertical-align: baseline;
   text-transform: lowercase;
   border-radius: .25em;
-  
-  & + span {
-    margin-right: 0.4em;
-  }
+  border-color: #A3A3AB;
+  border-style: solid;
+  border-width: thin;
 }
-
-
