@@ -22,7 +22,7 @@
   "name": "title",
   "title": "Título da notícia",
   "required": true,
-  "withLimitChar": 140,
+  "withCharLimit": 140,
   "placeholder": "Informe o título",
   "type": {
     "view": "textarea"
