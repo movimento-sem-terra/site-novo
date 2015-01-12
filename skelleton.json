@@ -32,7 +32,7 @@
   "name": "support_line",
   "title": "Linha fina",
   "required": true,
-  "limit": 140,
+  "limit": 240,
   "placeholder": "Informe o título",
   "type": {
     "view": "textarea"
