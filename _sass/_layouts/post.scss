@@ -40,10 +40,10 @@ main.post {
         margin-right: 5px;
       }
     }
-    
+
     img {
-       width: 100%;
-       height: auto;
+      width: 100%;
+      height: auto;
     }
 
     img[style*="float:left"]{
@@ -98,6 +98,7 @@ main.post {
       padding-right: 0;
       .article-body{
         width: 74%;
+        max-width: 753px;
       }
       header{
         h1{
@@ -107,13 +108,13 @@ main.post {
         }
         p{
           font-size: 1.3em;
-         }
+        }
       }
       img {
-        width: auto;
+        width: 100%;
       }
-   }
- }
+    }
+  }
 }
 
 figure.social-button {
