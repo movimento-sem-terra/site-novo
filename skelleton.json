@@ -22,7 +22,7 @@
   "name": "title",
   "title": "Título da notícia",
   "required": true,
-  "limit": 140,
+  "withLimitChar": 140,
   "placeholder": "Informe o título",
   "type": {
     "view": "textarea"
@@ -32,6 +32,7 @@
   "name": "support_line",
   "title": "Linha fina",
   "required": true,
+  "limit": 140,
   "placeholder": "Informe o título",
   "type": {
     "view": "textarea"
