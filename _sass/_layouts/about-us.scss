@@ -1,5 +1,36 @@
 main.about-us {
   @include default-figure-images();
-
   
+  section {
+    border-bottom: solid 1px #006400;
+    
+    &.begin {
+      overflow: hidden;
+      h2, h3 {
+        margin-left: 16px;
+        font-weight: 500;
+      }
+      h3 {
+        font-size: 18px;
+      }
+
+      h2 {
+        font-size: 36px;
+        margin-top: 0px;
+        font-style: italic;
+      }
+
+      .content {
+        margin-top: 55px;
+        margin-left: 22px;
+        width: 70%;
+        float: left;
+      }
+
+      .thumb-video {
+        width: 28%;
+        float: right;
+      }
+    }
+  }
 }
