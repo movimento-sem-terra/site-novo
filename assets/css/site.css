@@ -26,3 +26,5 @@
 @import "_layouts/all_videos";
 @import "_includes/related-posts";
 
+//about us
+@import "_layouts/about-us";
