@@ -1,35 +1,215 @@
 main.about-us {
-  @include default-figure-images();
-  
+  width: 100%;
+  padding: 0;
+
   section {
     border-bottom: solid 1px #006400;
-    
+
+
+    h2, h3 {
+      font-weight: 500;
+    }
+
+    h2 {
+      font-size: 36px;
+      margin-top: 0px;
+      font-style: italic;
+    }
+
+    h3 {
+      font-size: 18px;
+    }
+
+    & > .content{
+      width: 80%;
+      max-width: 1080px;
+      margin: 0 auto;
+      padding-top: 80px;
+    }
+
     &.begin {
       overflow: hidden;
-      h2, h3 {
-        margin-left: 16px;
-        font-weight: 500;
-      }
-      h3 {
-        font-size: 18px;
+      padding-bottom: 55px;
+      & > .content{
+        padding-top: 0px;
       }
 
-      h2 {
-        font-size: 36px;
-        margin-top: 0px;
-        font-style: italic;
-      }
-
-      .content {
-        margin-top: 55px;
-        margin-left: 22px;
+      .quote-content {
+        margin-top: 45px;
         width: 70%;
         float: left;
+
+        p{
+           margin-left: 43px;
+           margin-top: 12px;
+           padding-right: 20px;
+        }
+        .quote{
+          width: 30px;
+          height: 30px;
+          display: inline-block;
+          text-indent: -9999px;
+          &.start{
+            float: left;
+            background: transparent url(../img/quem-somos/quote-a.jpg) no-repeat left top;
+          }
+
+          &.end{
+            background: transparent url(../img/quem-somos/quote-b.jpg) no-repeat right bottom;
+            float: right;
+            margin-top:  -30px;
+          }
+
+        }
       }
 
       .thumb-video {
         width: 28%;
-        float: right;
+        float: left;
+        margin: 60px 0 0 5%;
+        max-width: 220px;
+        text-align: center;
+        .btn-show-video{
+          display: inline-block;
+          background-color: #006400;
+          color: #fff;
+          width: 100%;
+          padding: 8px;
+          border-radius: 5px;
+        }
+      }
+    }
+
+    &.organization{
+      background-color: #f8f8f9;
+      overflow: hidden;
+
+      .content{
+        h2{
+          margin-bottom: 40px;
+        }
+        @include outer-container;
+
+        & > div{
+          @include span-columns(4);
+          background-color: #fff;
+          text-align: center;
+          border: solid 1px #ebebeb;
+
+          & > h3{
+            padding: 18px;
+            color: #006400;
+            border-bottom: solid 2px #006400;
+            font-size: 20px;
+          }
+          p{
+            padding: 0 20px 0px 20px;
+            text-align: left;
+          }
+        }
+      }
+
+      .list{
+        ul li{
+          display: block;
+          border-bottom: solid 1px #e3e2e2;
+          font-size: 16px;
+          width: 100%;
+          transition: all .4s ease-in-out;
+          position: relative;
+
+
+          .inner-content{
+            opacity: 0;
+            position: absolute;
+            padding: 28px;
+            right: -160px;
+            background-color: #fff;
+            border: solid 1px #006400;
+            top: 0px;
+            text-align: left;
+            width: 140%;
+            z-index: 999;
+            left: 109%;
+            transform: rotate(13deg);
+            transition: all .4s ease-out-back;
+            transform-origin: 0 10px;
+            -webkit-transition: all 500ms cubic-bezier(0.175, 0.885, 0.320, 1);
+            -webkit-transition: all 500ms cubic-bezier(0.175, 0.885, 0.320, 1.275);
+            -moz-transition: all 500ms cubic-bezier(0.175, 0.885, 0.320, 1.275);
+            -o-transition: all 500ms cubic-bezier(0.175, 0.885, 0.320, 1.275);
+            transition: all 400ms cubic-bezier(0.175, 0.885, 0.320, 1.275);
+            -webkit-transition-timing-function: cubic-bezier(0.175, 0.885, 0.320, 1);
+            -webkit-transition-timing-function: cubic-bezier(0.175, 0.885, 0.320, 1.275);
+            -moz-transition-timing-function: cubic-bezier(0.175, 0.885, 0.320, 1.275);
+            -o-transition-timing-function: cubic-bezier(0.175, 0.885, 0.320, 1.275);
+            transition-timing-function: cubic-bezier(0.175, 0.885, 0.320, 1.275);
+
+
+            p{
+              padding: 0;
+            }
+            //
+            span{
+              display: block;
+              text-indent: -9990px;
+              width: 11px;
+              height: 19px;
+              position: absolute;
+              left: -11px;
+              background: transparent url(../img/quem-somos/arrow-pointer.png) no-repeat left top;
+            }
+            //
+            h4{
+              font-size: 16px;
+            }
+          }
+
+          &:hover{
+            background-color: #ebebeb;
+
+            a{
+              border-left: solid 21px #006400;
+            }
+            .inner-content{
+              display: block;
+              opacity: 1;
+              transform: rotate(0deg);
+              -moz-box-shadow: 0 0 10px #111;
+              -webkit-box-shadow: 0 0 10px #111;
+                      box-shadow: 0 0 10px #111;
+            }
+          }
+
+          a{
+            border-left: solid 0px #006400;
+            font-size: 16px;
+            color: #555555;
+            padding: 21px;
+            display: block;
+            text-decoration: none;
+            transition: all .4s ease-in-out;
+          }
+        }
+      }
+      .mystic{
+        p{
+          text-align: left;
+          padding-right: 20px;
+          padding-left: 20px;
+        }
+      }
+      .fight-ways.list{
+        ul li{
+          a{
+            border-left: none;
+            border-right: solid 0px #006400;
+            &:hover{
+              border-left: none;
+              border-right: solid 21px #006400;
+            }
+          }
+        }
       }
     }
   }
