@@ -1,6 +1,5 @@
 main.about-us {
   width: 100%;
-  padding: 0;
 
   section {
     border-bottom: solid 1px #006400;
@@ -24,12 +23,13 @@ main.about-us {
       width: 80%;
       max-width: 1080px;
       margin: 0 auto;
-      padding-top: 80px;
+      padding-top: 42px;
+      padding: 42px 0 38px 0;
     }
 
     &.begin {
       overflow: hidden;
-      padding-bottom: 55px;
+      padding: 0 0 55px 0;
       & > .content{
         padding-top: 0px;
       }
@@ -109,6 +109,12 @@ main.about-us {
         }
       }
 
+      .sectors {
+        ul {
+          padding: 0;
+        }
+      }
+      
       .list{
         ul li{
           display: block;
