@@ -9,15 +9,15 @@ menu: agricultura camponesa
 support_line: "Segundo a Companhia, foram aplicados R$ 25 milhões em mais de sete milhões de quilos de produtos."
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7500/16213057006_7cfc72a584_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7500/16213057006_7cfc72a584_t.jpg"
-    medium: "http://farm8.staticflickr.com/7500/16213057006_7cfc72a584_z.jpg"
-    small: "http://farm8.staticflickr.com/7500/16213057006_7cfc72a584_n.jpg"
-    title: Índice.jpg
-    $$hashKey: 1GG
+  - link: "http://farm8.staticflickr.com/7492/15657170194_a48ef72987_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7492/15657170194_a48ef72987_t.jpg"
+    medium: "http://farm8.staticflickr.com/7492/15657170194_a48ef72987_z.jpg"
+    small: "http://farm8.staticflickr.com/7492/15657170194_a48ef72987_n.jpg"
+    title: arroz_sape.jpg
+    $$hashKey: "027"
 created_date: "2015-01-09T14:35:07-02:00"
 published: true
-images_hd: "http://farm8.staticflickr.com/7500/16213057006_7cfc72a584_n.jpg"
+images_hd: "http://farm8.staticflickr.com/7492/15657170194_a48ef72987_n.jpg"
 
 ---
 <p><em>Por Tomaz Silva</em><br />
