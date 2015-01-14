@@ -169,7 +169,7 @@ main.about-us {
             }
           }
 
-          &:hover{
+          &.open{
             background-color: #ebebeb;
             a{
               border-left: solid 11px #006400;
@@ -206,7 +206,7 @@ main.about-us {
             border-left: none;
             border-right: solid 0px #006400;
           }
-          &:hover{
+          &.open{
             a{
               border-right: solid 11px #006400;
             }
