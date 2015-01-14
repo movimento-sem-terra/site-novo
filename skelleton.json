@@ -54,10 +54,7 @@
     {"id": "meio ambiente", "name": "meio ambiente"},
     {"id": "projeto popular", "name": "projeto popular"},
     {"id": "reforma agrária", "name": "reforma agrária"},
-    {"id": "transgênicos", "name": "transgênicos"},
-    {"id": "nossa-producao", "name": "nossa produção"},
-    {"id": "poemas-e-poesias", "name": "poemas e poesias"},
-    {"id": "lutadores-do-povo", "name": "lutadores do povo"}
+    {"id": "transgênicos", "name": "transgênicos"}
     ]
   },
   "need": {
@@ -125,7 +122,7 @@
   }
 },
 {
-  "name": "label",
+  "name": "sector",
   "title": "Setor",
   "required": false,
   "type": {
