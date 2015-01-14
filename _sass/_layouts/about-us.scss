@@ -129,15 +129,14 @@ main.about-us {
             opacity: 0;
             position: absolute;
             top: 0px;
-            left: 109%;
+            left: 105%;
             padding: 28px;
             background-color: #fff;
             border: solid 1px #006400;
             text-align: left;
             width: 140%;
             z-index: 999;
-            transform: rotate(13deg);
-            transition: all .4s ease-out-back;
+
             transform-origin: 0 10px;
             -webkit-transition: all 400ms cubic-bezier(0.175, 0.885, 0.320, 1);
             -webkit-transition: all 400ms cubic-bezier(0.175, 0.885, 0.320, 1.275);
@@ -172,13 +171,11 @@ main.about-us {
 
           &:hover{
             background-color: #ebebeb;
-
             a{
-              border-left: solid 21px #006400;
+              border-left: solid 11px #006400;
             }
             .inner-content{
               opacity: 1;
-              transform: rotate(0deg);
               -moz-box-shadow: 0 0 10px #111;
               -webkit-box-shadow: 0 0 10px #111;
                       box-shadow: 0 0 10px #111;
@@ -211,14 +208,13 @@ main.about-us {
           }
           &:hover{
             a{
-              border-right: solid 21px #006400;
+              border-right: solid 11px #006400;
             }
           }
 
           .inner-content{
             left: -144%;
             transform-origin: 100% 10px;
-            // transform: rotate(335deg);
             transition: all .4s ease-out-back;
 
 
