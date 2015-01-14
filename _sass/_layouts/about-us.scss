@@ -109,14 +109,11 @@ main.about-us {
         }
       }
 
-      .sectors {
-        ul {
-          padding: 0;
-        }
-      }
-      
       .list{
-        ul li{
+        ul {
+          margin-bottom: 0;
+        }
+        li{
           display: block;
           border-bottom: solid 1px #e3e2e2;
           font-size: 16px;
@@ -124,6 +121,9 @@ main.about-us {
           transition: all .4s ease-in-out;
           position: relative;
 
+          &:last-child {
+            border-bottom: none;
+          }
 
           .inner-content{
             opacity: 0;
@@ -150,11 +150,10 @@ main.about-us {
             -o-transition-timing-function: cubic-bezier(0.175, 0.885, 0.320, 1.275);
             transition-timing-function: cubic-bezier(0.175, 0.885, 0.320, 1.275);
 
-
             p{
               padding: 0;
             }
-            //
+
             span{
               display: block;
               text-indent: -9990px;
@@ -164,7 +163,7 @@ main.about-us {
               left: -11px;
               background: transparent url(../img/quem-somos/arrow-pointer.png) no-repeat left top;
             }
-            //
+
             h4{
               font-size: 16px;
               margin-top: 0;
@@ -178,7 +177,6 @@ main.about-us {
               border-left: solid 21px #006400;
             }
             .inner-content{
-              display: block;
               opacity: 1;
               transform: rotate(0deg);
               -moz-box-shadow: 0 0 10px #111;
@@ -210,21 +208,27 @@ main.about-us {
           a{
             border-left: none;
             border-right: solid 0px #006400;
-            &:hover{
-              border-left: none;
+          }
+          &:hover{
+            a{
               border-right: solid 21px #006400;
             }
           }
 
           .inner-content{
-            left: -148%;
+            left: -144%;
+            transform-origin: 100% 10px;
+            // transform: rotate(335deg);
+            transition: all .4s ease-out-back;
+
 
             span{
               text-indent: -9990px;
               width: 11px;
               height: 19px;
               position: absolute;
-              left: -11px;
+              left: auto;
+              right: -10px;
               background: transparent url(../img/quem-somos/arrow-pointer-right.png) no-repeat left top;
             }
           }
