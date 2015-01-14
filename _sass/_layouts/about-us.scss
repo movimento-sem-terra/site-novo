@@ -19,12 +19,18 @@ main.about-us {
       font-size: 18px;
     }
 
-    & > .content{
-      width: 80%;
+
+    .content{
       max-width: 1080px;
-      margin: 0 auto;
-      padding-top: 42px;
       padding: 42px 0 38px 0;
+      @include outer-container;
+
+      h2{
+        margin-bottom: 40px;
+      }
+      & > div{
+        @include span-columns(4);
+      }
     }
 
     &.begin {
@@ -80,32 +86,27 @@ main.about-us {
       }
     }
 
+
+
     &.organization{
       background-color: #f8f8f9;
       overflow: hidden;
 
-      .content{
-        h2{
-          margin-bottom: 40px;
+      & .content > div{
+        background-color: #fff;
+        text-align: center;
+        border: solid 1px #ebebeb;
+
+        & > h3{
+          padding: 18px;
+          color: #006400;
+          border-bottom: solid 2px #006400;
+          font-size: 20px;
         }
-        @include outer-container;
 
-        & > div{
-          @include span-columns(4);
-          background-color: #fff;
-          text-align: center;
-          border: solid 1px #ebebeb;
-
-          & > h3{
-            padding: 18px;
-            color: #006400;
-            border-bottom: solid 2px #006400;
-            font-size: 20px;
-          }
-          p{
-            padding: 0 20px 0px 20px;
-            text-align: left;
-          }
+        p{
+          padding: 0 20px 0px 20px;
+          text-align: left;
         }
       }
 
@@ -120,6 +121,7 @@ main.about-us {
           width: 100%;
           transition: all .4s ease-in-out;
           position: relative;
+          z-index: 500;
 
           &:last-child {
             border-bottom: none;
@@ -135,8 +137,6 @@ main.about-us {
             border: solid 1px #006400;
             text-align: left;
             width: 140%;
-            z-index: 999;
-
             transform-origin: 0 10px;
             -webkit-transition: all 400ms cubic-bezier(0.175, 0.885, 0.320, 1);
             -webkit-transition: all 400ms cubic-bezier(0.175, 0.885, 0.320, 1.275);
@@ -168,18 +168,25 @@ main.about-us {
               margin-top: 0;
             }
           }
+          &:hover{
+            background-color: #ebebeb;
+          }
 
           &.open{
             background-color: #ebebeb;
+            z-index: 900;
+
             a{
               border-left: solid 11px #006400;
             }
+
             .inner-content{
               opacity: 1;
               -moz-box-shadow: 0 0 10px #111;
               -webkit-box-shadow: 0 0 10px #111;
                       box-shadow: 0 0 10px #111;
             }
+
           }
 
           a{
@@ -194,10 +201,17 @@ main.about-us {
         }
       }
       .mystic{
+        padding-bottom: 15px;
+
         p{
           text-align: left;
           padding-right: 20px;
           padding-left: 20px;
+        }
+
+        img {
+          margin-bottom: 10px;
+          width: 100%;
         }
       }
       .fight-ways.list{
@@ -226,8 +240,78 @@ main.about-us {
               left: auto;
               right: -10px;
               background: transparent url(../img/quem-somos/arrow-pointer-right.png) no-repeat left top;
+
             }
           }
+        }
+      }
+    }
+
+    &.objectives{
+      .goals{
+        @include span-columns(12);
+        margin-bottom: 58px;
+        .goal{
+          @include span-columns(4);
+          div {
+            width: 260px;
+            margin: 0 auto;
+            text-align: center;
+          }
+          a{
+            font-size: 20px;
+            font-weight: bold;
+            text-decoration: none;
+            transition: all .5s ease-out;
+            span.cut {
+              margin: 0 auto 10px auto;
+              width: 148px;
+              height: 148px;
+              overflow: hidden;
+              border-radius: 74px;
+              display: block;
+              border: solid 4px #961913;
+              transition: all .5s ease-out;
+
+              img{
+                margin-left: -4px;
+                margin-top: -2px;
+              }
+            }
+            &:hover{
+              color: #961913;
+
+              span.cut{
+                border: solid 4px red;
+              }
+            }
+          }
+        }
+
+        img{
+          display: block;
+          margin: 1px auto;
+          margin-bottom: 22px;
+        }
+      }
+
+      .besides{
+        @include span-columns(12);
+        h4{
+          text-align: center;
+          color: #036603;
+          font-size: 30px;
+          margin-bottom: 10px;
+        }
+
+        hr{
+          border: 0;
+          height: 4px;
+          margin-bottom: 30px;
+          background-image: -webkit-linear-gradient(left, rgba(0,0,0,0), rgba(150,15,19,0.75), rgba(0,0,0,0));
+          background-image:    -moz-linear-gradient(left, rgba(0,0,0,0), rgba(150,15,19,0.75), rgba(0,0,0,0));
+          background-image:     -ms-linear-gradient(left, rgba(0,0,0,0), rgba(150,15,19,0.75), rgba(0,0,0,0));
+          background-image:      -o-linear-gradient(left, rgba(0,0,0,0), rgba(150,15,19,0.75), rgba(0,0,0,0));
         }
       }
     }
