@@ -125,6 +125,18 @@
   }
 },
 {
+  "name": "label",
+  "title": "Setor",
+  "required": false,
+  "type": {
+    "view": "select",
+    "options": [
+    {"name": "Produção", "id": "production"},
+    {"name": "Educação", "id": "education"}
+    ]
+  }
+},
+{
   "name": "video",
   "pattern": "",
   "icon": "fa-youtube",
