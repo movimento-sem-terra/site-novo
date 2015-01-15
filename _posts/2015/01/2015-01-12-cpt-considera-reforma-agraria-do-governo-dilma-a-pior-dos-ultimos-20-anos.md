@@ -5,22 +5,23 @@ tags:
   - tag: latifundio
   - tag: agricultura
 title: "CPT considera reforma agrária do governo Dilma a pior dos últimos 20 anos "
-support_line: "No documento, a comissão critica a demora do governo no anúncio de decretos de desapropriação em 2014"
+support_line: "No documento, a comissão critica a demora do governo no anúncio de decretos de desapropriação em 2014."
 menu: reforma agrária
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8648/16095082507_8edf65e927_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8648/16095082507_8edf65e927_t.jpg"
-    medium: "http://farm9.staticflickr.com/8648/16095082507_8edf65e927_z.jpg"
-    small: "http://farm9.staticflickr.com/8648/16095082507_8edf65e927_n.jpg"
-    title: mst-e1387395881968.jpg
-    $$hashKey: 10T
+  - link: "http://farm8.staticflickr.com/7580/16098380790_65cec295f7_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7580/16098380790_65cec295f7_t.jpg"
+    medium: "http://farm8.staticflickr.com/7580/16098380790_65cec295f7_z.jpg"
+    small: "http://farm8.staticflickr.com/7580/16098380790_65cec295f7_n.jpg"
+    title: ref_agraria_br_0.jpg
+    $$hashKey: 02A
 created_date: "2015-01-14T17:34:45-02:00"
 published: true
-images_hd: "http://farm9.staticflickr.com/8648/16095082507_8edf65e927_n.jpg"
+images_hd: "http://farm8.staticflickr.com/7580/16098380790_65cec295f7_n.jpg"
 
 ---
-<p><em>Da Ag&ecirc;ncia Brasil</em></p>
+<p><br />
+<em>Da Ag&ecirc;ncia Brasil</em></p>
 
 <p><br />
 A diminui&ccedil;&atilde;o de desapropria&ccedil;&otilde;es de terra, da quantidade de fam&iacute;lias assentadas e de novas demarca&ccedil;&otilde;es de terras de ind&iacute;genas e quilombolas levou a Comiss&atilde;o Pastoral da Terra (CPT) a classificar os n&uacute;meros da reforma agr&aacute;ria no primeiro governo da presidenta Dilma Rousseff como &ldquo;os piores dos &uacute;ltimos 20 anos&rdquo;.</p>
@@ -47,4 +48,4 @@ Em nota publicada em sua p&aacute;gina na internet nesta quarta-feira, o Institu
 &ldquo;Ao longo desse per&iacute;odo, foram criados 493 projetos de assentamento em benef&iacute;cio de 107,4 mil fam&iacute;lias. Em 2014, foram assentadas 32.019 fam&iacute;lias ante uma meta de assentamento de 30 mil. Considerando a m&eacute;dia de 2,8 ocupa&ccedil;&otilde;es por lote, projeta-se que 89,6 mil pessoas viver&atilde;o e trabalhar&atilde;o nos novos projetos de assentamentos&rdquo;, diz o texto.</p>
 
 <p><br />
-O Incra informou ainda que, ao longo de 2014, foram investidos R$ 1,39 bilh&atilde;o nas a&ccedil;&otilde;es finais do instituto e que, desse montante, R$ 527.904 foram empenhados na desapropria&ccedil;&atilde;o e aquisi&ccedil;&atilde;o de im&oacute;veis para assentamentos.&nbsp;</p>
+O Incra informou ainda que, ao longo de 2014, foram investidos R$ 1,39 bilh&atilde;o nas a&ccedil;&otilde;es finais do instituto e que, desse montante, R$ 527.904 foram empenhados na desapropria&ccedil;&atilde;o e aquisi&ccedil;&atilde;o de im&oacute;veis para assentamentos.</p>
