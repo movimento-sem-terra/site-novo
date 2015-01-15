@@ -21,7 +21,7 @@ images_hd: "http://farm8.staticflickr.com/7580/16098380790_65cec295f7_n.jpg"
 section: featured-news
 
 ---
-<p><br />
+<p>
 <em>Da Ag&ecirc;ncia Brasil</em></p>
 
 <p><br />
