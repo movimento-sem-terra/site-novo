@@ -9,7 +9,6 @@ function popover() {
         element.parent().find('.inner-content').prepend("<span class= 'arrow-pointer'> * </span>");
         element.on('click', function (e) {
           $('.popover li').removeClass('open');
-          // TODO adicionar listener para dar um display none ao final da animaçao da div popover
           $(e.currentTarget).parent().toggleClass('open');
           opened.push(e.currentTarget);
           e.preventDefault();
