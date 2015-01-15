@@ -1,8 +1,5 @@
 function popover() {
-  var opened = [];
-  //
   if ($('.popover').length > 0){
-    //
     $('.popover li a').each(
       function (index, element) {
         element = $(element);
@@ -10,7 +7,7 @@ function popover() {
         element.on('click', function (e) {
           $('.popover li').removeClass('open');
           $(e.currentTarget).parent().toggleClass('open');
-          opened.push(e.currentTarget);
+
           e.preventDefault();
 
           if (event.stopPropagation) {
