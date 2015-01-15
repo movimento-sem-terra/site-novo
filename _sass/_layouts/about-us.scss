@@ -35,13 +35,12 @@ main.about-us {
 
     &.begin {
       overflow: hidden;
-      padding: 0 0 55px 0;
+      padding: 0 0 20px 0;
       & > .content{
         padding-top: 0px;
       }
 
       .quote-content {
-        margin-top: 45px;
         width: 70%;
         float: left;
 
@@ -72,7 +71,7 @@ main.about-us {
       .thumb-video {
         width: 28%;
         float: left;
-        margin: 60px 0 0 5%;
+        margin: 20px 0 0 5%;
         max-width: 220px;
         text-align: center;
         .btn-show-video{
@@ -250,7 +249,7 @@ main.about-us {
     &.objectives{
       .goals{
         @include span-columns(12);
-        margin-bottom: 58px;
+        margin-bottom: 0;
         .goal{
           @include span-columns(4);
           div {
@@ -307,6 +306,7 @@ main.about-us {
         hr{
           border: 0;
           height: 4px;
+          width: 85%;
           margin-bottom: 30px;
           background-image: -webkit-linear-gradient(left, rgba(0,0,0,0), rgba(150,15,19,0.75), rgba(0,0,0,0));
           background-image:    -moz-linear-gradient(left, rgba(0,0,0,0), rgba(150,15,19,0.75), rgba(0,0,0,0));
