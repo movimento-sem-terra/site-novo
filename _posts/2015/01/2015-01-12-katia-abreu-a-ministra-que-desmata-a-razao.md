@@ -7,21 +7,22 @@ tags:
   - tag: Kátia-Abreu
 title: "Kátia Abreu, a ministra que desmata a razão "
 menu: agronegócio
-support_line: "O Brasil possui cerca de 130,3 mil latifúndios ou grandes propriedades rurais, que concentram uma área superior a 244,7 milhões de hectares"
+support_line: "O Brasil possui cerca de 130,3 mil latifúndios ou grandes propriedades rurais, que concentram uma área superior a 244,7 milhões de hectares."
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8585/16093556220_9648409e36_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8585/16093556220_9648409e36_t.jpg"
-    medium: "http://farm9.staticflickr.com/8585/16093556220_9648409e36_z.jpg"
-    small: "http://farm9.staticflickr.com/8585/16093556220_9648409e36_n.jpg"
-    title: Índice.jpg
-    $$hashKey: 0W8
+  - link: "http://farm8.staticflickr.com/7580/16285740785_4114594070_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7580/16285740785_4114594070_t.jpg"
+    medium: "http://farm8.staticflickr.com/7580/16285740785_4114594070_z.jpg"
+    small: "http://farm8.staticflickr.com/7580/16285740785_4114594070_n.jpg"
+    title: kátia.jpg
+    $$hashKey: 04B
 created_date: "2015-01-14T17:30:21-02:00"
 published: true
-images_hd: "http://farm9.staticflickr.com/8585/16093556220_9648409e36_n.jpg"
+images_hd: "http://farm8.staticflickr.com/7580/16285740785_4114594070_n.jpg"
 
 ---
-<p><em>Por Rodrigo Martins<br />
+<p><br />
+<em>Por Rodrigo Martins<br />
 Da Carta Capital</em></p>
 
 <p><br />
