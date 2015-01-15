@@ -1,5 +1,8 @@
 main.about-us {
   width: 100%;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-left: 0px;
 
   section {
     border-bottom: solid 1px #006400;
@@ -19,29 +22,28 @@ main.about-us {
       font-size: 18px;
     }
 
-
     .content{
-      max-width: 1080px;
       padding: 42px 0 38px 0;
       @include outer-container;
 
       h2{
         margin-bottom: 40px;
       }
-      & > div{
-        @include span-columns(4);
-      }
     }
 
     &.begin {
       overflow: hidden;
       padding: 0 0 55px 0;
-      & > .content{
+
+      .content{
         padding-top: 0px;
+        & > h2{
+          margin-top: 0px;
+        }
       }
 
       .quote-content {
-        margin-top: 45px;
+        margin-top: 15px;
         width: 70%;
         float: left;
 
@@ -72,7 +74,7 @@ main.about-us {
       .thumb-video {
         width: 28%;
         float: left;
-        margin: 60px 0 0 5%;
+        margin: 24px 0 0 5%;
         max-width: 220px;
         text-align: center;
         .btn-show-video{
@@ -96,6 +98,7 @@ main.about-us {
         background-color: #fff;
         text-align: center;
         border: solid 1px #ebebeb;
+        @include span-columns(4);
 
         & > h3{
           padding: 18px;
@@ -306,7 +309,9 @@ main.about-us {
 
         hr{
           border: 0;
-          height: 4px;
+          height: 2px;
+          width: 720px;
+          margin: 0 auto;
           margin-bottom: 30px;
           background-image: -webkit-linear-gradient(left, rgba(0,0,0,0), rgba(150,15,19,0.75), rgba(0,0,0,0));
           background-image:    -moz-linear-gradient(left, rgba(0,0,0,0), rgba(150,15,19,0.75), rgba(0,0,0,0));
@@ -314,6 +319,132 @@ main.about-us {
           background-image:      -o-linear-gradient(left, rgba(0,0,0,0), rgba(150,15,19,0.75), rgba(0,0,0,0));
         }
       }
+    }
+    &.flags{
+      background-color: #f8f8f9;
+      #tabs-container{
+        border: solid 2px #ebebeb;
+        background-color: #ffffff;
+        overflow: hidden;
+        .tab{
+          display: none;
+          padding: 47px 20px 20px 20px;
+          min-height: 400px;
+
+
+
+          &.show{
+            display: block;
+          }
+
+          p{
+            width: 53%;
+            float: left;
+            margin-right: 20px;
+          }
+
+          figure{
+            float: right;
+            margin: 0;
+            text-align: center;
+
+          }
+        }
+      }
+      ul{
+        display: block;
+        height: 95px;
+        width: 1180px;
+
+      }
+      ul li{
+        background-color: #f8f8f9;
+        width: 121px;
+        height: 93px;
+        display: block;
+        float: left;
+        text-align: center;
+        border-right: solid 2px #ebebeb;
+        border-bottom: solid 2px #ebebeb;
+        color: #036603;
+        font-weight: bold;
+        padding: 1px;
+
+        @include transition(all, .4s, ease-out);
+
+        &.selected{
+          background-color: #ffffff;
+          border-bottom: solid 2px #ffffff;
+        }
+        a{
+          display: block;
+          text-align: center;
+          line-height: 110%;
+          font-size: 12.4px;
+          text-decoration: none;
+
+          span{
+            width: 100px;
+            margin: 14px auto 8px auto;
+            display: block;
+          }
+
+          img{
+            margin-bottom: 0;
+          }
+        }
+      }
+
+    }
+    &.ask-us{
+      background-color: $mst-green;
+      height: 124px;
+
+      .content{
+        padding-top: 24px;
+      }
+
+      form{
+        width: 940px;
+        margin: 0 auto;
+
+        label{
+          font-weight: 600;
+          color: #fff;
+          font-style: italic;
+          font-size: 26px;
+          margin-right: 30px;
+        }
+        input{
+          font-style: italic;
+          color: #888888;
+          padding: 13px;
+          border: solid 1px #fff;
+          margin-right: 10px;
+          border-radius: 5px;
+          font-size: 15px;
+
+
+
+          &[type="submit"]{
+            border: solid 1px #ebebeb;
+            color: #fff;
+            background-color: $mst-red;
+            font-style: normal;
+            width: 100px;
+          }
+
+          &[name="question"]{
+            width: 290px;
+          }
+
+          &[name="email"]{
+            width: 200px;
+          }
+
+        }
+      }
+
     }
   }
 }
