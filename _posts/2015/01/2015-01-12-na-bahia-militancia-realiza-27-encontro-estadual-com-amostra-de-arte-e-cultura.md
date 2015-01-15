@@ -7,7 +7,7 @@ tags:
   - tag: militânia
   - tag: organização
 title: "Na Bahia, militância realiza 27° Encontro Estadual com amostra de arte e cultura "
-support_line: Encontro de militantes na Bahia discute as linhas políticas para o ano de 2015
+support_line: Encontro de militantes na Bahia discute as linhas políticas para o ano de 2015.
 menu: reforma agrária
 layout: post
 files:
