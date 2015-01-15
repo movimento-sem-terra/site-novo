@@ -6,7 +6,7 @@ tags:
   - tag: Educação
   - tag: Bahia
 hat: ""
-title: "Com método cubano, Sem Terra buscam erradicar analfabetismo no sul da Bahia"
+title: "Com método cubano, Sem Terra buscam erradicar analfabetismo"
 support_line: "Cerca de 220 acampados, de seis localidades do extremo sul da Bahia, participaram do Projeto “Sim, eu Posso”."
 menu: "educação, cultura e comunicação"
 section: featured-news
