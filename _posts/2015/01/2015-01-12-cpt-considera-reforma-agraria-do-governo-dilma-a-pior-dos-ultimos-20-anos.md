@@ -4,7 +4,7 @@ tags:
   - tag: reforma-agrária
   - tag: latifundio
   - tag: agricultura
-title: "CPT considera reforma agrária do governo Dilma a pior dos últimos 20 anos "
+title: "CPT considera reforma agrária de Dilma a pior dos últimos 20 anos "
 support_line: "No documento, a comissão critica a demora do governo no anúncio de decretos de desapropriação em 2014."
 menu: reforma agrária
 layout: post
