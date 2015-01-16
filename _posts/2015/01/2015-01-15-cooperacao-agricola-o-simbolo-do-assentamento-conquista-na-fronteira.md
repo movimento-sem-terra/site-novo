@@ -42,12 +42,6 @@ files:
     small: "http://farm8.staticflickr.com/7511/16287053065_20f0cf8a70_n.jpg"
     title: Distribuição de hortaliças e legumes na horta coletiva.jpg
     $$hashKey: 02K
-  - link: "http://farm8.staticflickr.com/7493/16261138466_b86fd197b3_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7493/16261138466_b86fd197b3_t.jpg"
-    medium: "http://farm8.staticflickr.com/7493/16261138466_b86fd197b3_z.jpg"
-    small: "http://farm8.staticflickr.com/7493/16261138466_b86fd197b3_n.jpg"
-    title: Frigorífico (1).jpg
-    $$hashKey: 02Q
   - link: "http://farm8.staticflickr.com/7512/16285288051_c586da75c9_b.jpg"
     thumbnail: "http://farm8.staticflickr.com/7512/16285288051_c586da75c9_t.jpg"
     medium: "http://farm8.staticflickr.com/7512/16285288051_c586da75c9_z.jpg"
@@ -72,6 +66,12 @@ files:
     small: "http://farm9.staticflickr.com/8641/16101271757_beb16305f1_n.jpg"
     title: Escola (1).jpg
     $$hashKey: "035"
+  - link: "http://farm8.staticflickr.com/7579/16106706087_fdca1881c4_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7579/16106706087_fdca1881c4_t.jpg"
+    medium: "http://farm8.staticflickr.com/7579/16106706087_fdca1881c4_z.jpg"
+    small: "http://farm8.staticflickr.com/7579/16106706087_fdca1881c4_n.jpg"
+    title: Frigorífico (1).jpg
+    $$hashKey: 02S
 created_date: "2015-01-15T14:46:13-02:00"
 published: true
 images_hd: "http://farm8.staticflickr.com/7468/15664540334_6f0dae4842_n.jpg"
@@ -94,7 +94,7 @@ S&atilde;o 60 fam&iacute;lias vivendo nos 1198 hectares do assentamento, mas nen
 <p>&nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="Distribuição de hortaliças e legumes na horta coletiva.jpg" src="http://farm8.staticflickr.com/7511/16287053065_20f0cf8a70_b.jpg" />
-<figcaption>Distribui&ccedil;&atilde;o de hortali&ccedil;as e legumes na horta coletiva</figcaption>
+<figcaption>Distribui&ccedil;&atilde;o de hortali&ccedil;as e legumes na horta coletiva do assentamento</figcaption>
 </figure>
 
 <p>Trata-se de um processo relativamente complexo que s&oacute; funciona com muita organiza&ccedil;&atilde;o. &ldquo;A principal caracter&iacute;stica do assentamento &eacute; a organiza&ccedil;&atilde;o, o que exige muito trabalho. H&aacute; uma divis&atilde;o entre setores de produ&ccedil;&atilde;o que n&atilde;o se encontra em qualquer lugar&rdquo;, afirma Neudi Guindani, integrante da coordena&ccedil;&atilde;o da cooperativa.</p>
@@ -105,19 +105,19 @@ A Cooperuni&atilde;o &eacute; uma Cooperativa de Produ&ccedil;&atilde;o Agropecu
 <p><br />
 A estrat&eacute;gia &eacute; primeiro garantir a subsist&ecirc;ncia das fam&iacute;lias com alimenta&ccedil;&atilde;o de qualidade e, depois, industrializar a produ&ccedil;&atilde;o para a gera&ccedil;&atilde;o de renda, que &eacute; colocada em pr&aacute;tica por cinco equipes de trabalho do Setor de Produ&ccedil;&atilde;o: Subsist&ecirc;ncia e Reflorestamento, Bovinocultura, Avicultura, Gr&atilde;os e Administrativo e Social. Todos eles atuam de forma coordenada. A cooperativa tamb&eacute;m conta com comiss&otilde;es de Educa&ccedil;&atilde;o, Sa&uacute;de, Esporte e Lazer, Anima&ccedil;&atilde;o e Visitas e Grupo de Jovens, que organizam as demais demandas na vida do assentamento.</p>
 
-<p><br />
-&nbsp;</p>
+<p>&nbsp;</p>
 
-<figure class="image" style="float:left"><img alt="Frigorífico (1).jpg" src="http://farm8.staticflickr.com/7493/16261138466_b86fd197b3_b.jpg" />
-<figcaption></figcaption>
+<figure class="image" style="float:left"><img alt="Frigorífico (1).jpg" src="http://farm8.staticflickr.com/7579/16106706087_fdca1881c4_b.jpg" />
+<figcaption>Em m&eacute;dia, s&atilde;o abatidos 3 mil frangos por dia no frigor&iacute;fico</figcaption>
 </figure>
 
-<p><strong>Coopera&ccedil;&atilde;o</strong><br clear="all" />
-<br />
+<p><strong>Coopera&ccedil;&atilde;o</strong></p>
+
+<p><br />
 A melhor maneira de compreender como se organiza a produ&ccedil;&atilde;o na Cooperuni&atilde;o &eacute; percorrer os caminhos do assentamento. Na &aacute;rea central est&aacute; o escrit&oacute;rio, onde funciona a parte administrativa da cooperativa. Ao lado, localizam-se o setor de sa&uacute;de e o alojamento para visitantes, e defronte est&aacute; o sal&atilde;o comunit&aacute;rio. Mais adiante fica o galp&atilde;o que funciona como central da equipe de gr&atilde;os, respons&aacute;vel pelo abastecimento de sementes, fabrica&ccedil;&atilde;o de ra&ccedil;&atilde;o para as cria&ccedil;&otilde;es e organiza&ccedil;&atilde;o do uso do maquin&aacute;rio pelos outros setores. &ldquo;Onde precisa de m&aacute;quina ou de sementes, n&oacute;s somos acionados&rdquo;, explica o coordenador Matias Weber.</p>
 
 <p><br />
-Bem perto deste galp&atilde;o est&aacute; o frigor&iacute;fico de aves, que beneficia o frango Terra Viva, que presta servi&ccedil;os para empresas avicultoras da regi&atilde;o. Ele nasceu em 1997, a partir de uma orienta&ccedil;&atilde;o da Empresa Brasileira de Pesquisa Agropecu&aacute;ria (Embrapa) sobre as potencialidades do assentamento. Atualmente, o frigor&iacute;fico funciona apenas &agrave; tarde e, durante cerca de quatro horas, s&atilde;o abatidos uma m&eacute;dia de tr&ecirc;s mil frangos por dia. Trata-se de uma &aacute;rea estrat&eacute;gica dentro do Setor de Produ&ccedil;&atilde;o da Cooperuni&atilde;o, j&aacute; que contribui para capitalizar a cooperativa.</p>
+Bem perto deste galp&atilde;o est&aacute; o frigor&iacute;fico de aves, que beneficia o frango Terra Viva, que presta servi&ccedil;os para empresas avicultoras da regi&atilde;o. Ele nasceu em 1997, a partir de uma orienta&ccedil;&atilde;o da Empresa Brasileira de Pesquisa Agropecu&aacute;ria (Embrapa) sobre as potencialidades do assentamento. Atualmente, o frigor&iacute;fico funciona apenas &agrave; tarde e, durante cerca de quatro horas, s&atilde;o abatidos uma m&eacute;dia tr&ecirc;s mil frangos por dia. Trata-se de uma &aacute;rea estrat&eacute;gica dentro do Setor de Produ&ccedil;&atilde;o da Cooperuni&atilde;o, j&aacute; que contribui para capitalizar a cooperativa.</p>
 
 <p><br />
 &Eacute; no frigor&iacute;fico que trabalha a maior parte dos assentados, numa m&eacute;dia de 45 pessoas que se dividem entre os diferentes setores da linha de produ&ccedil;&atilde;o. O coordenador H&eacute;lio Draszevski explica que o frigor&iacute;fico &eacute; estrat&eacute;gico para o assentamento n&atilde;o apenas na quest&atilde;o econ&ocirc;mica, mas tamb&eacute;m &ldquo;&eacute; um trabalho diferenciado que agrada os jovens. Por isso, al&eacute;m de suprir a parte econ&ocirc;mica, cria uma alternativa para a perman&ecirc;ncia da juventude no campo&rdquo;, avalia o assentado.</p>
@@ -138,7 +138,7 @@ Dali, pouco se perde e muito se aproveita. Com a finalidade de se pensar numa pr
 <p>&nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="Escola_conquista da fornteira.jpg" src="http://farm8.staticflickr.com/7578/16099735430_f67e33ee0b_b.jpg" />
-<figcaption>Escola do Conquista na Fronteira</figcaption>
+<figcaption>A Escola Municipal Construindo o Caminho nasceu de uma reivindica&ccedil;&atilde;o das fam&iacute;lias quando estavam acampadas</figcaption>
 </figure>
 
 <p>Percorridas as &aacute;reas administrativa, de gr&atilde;os, maquin&aacute;rio e de avicultura, uma quarta estrutura dentro do setor de produ&ccedil;&atilde;o cuida da produ&ccedil;&atilde;o de alimentos e do reflorestamento. Trata-se de um dos setores mais importantes e diversificados dentro da estrutura da cooperativa, espalhados por toda a &aacute;rea do assentamento: as lavouras de feij&atilde;o, os 12 a&ccedil;udes de produ&ccedil;&atilde;o de peixes, os su&iacute;nos, as aves de postura, a cria&ccedil;&atilde;o de abelhas para a produ&ccedil;&atilde;o de mel garantem, de forma coletiva, a subsist&ecirc;ncia dos assentados e a renda por meio da comercializa&ccedil;&atilde;o.</p>
@@ -192,7 +192,7 @@ O come&ccedil;o da produ&ccedil;&atilde;o no assentamento foi de muita dificulda
 &nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="Escola (1).jpg" src="http://farm9.staticflickr.com/8641/16101271757_beb16305f1_b.jpg" />
-<figcaption></figcaption>
+<figcaption>A escola do assentamento trabalha com uma realidade voltada &agrave; Reforma Agr&aacute;ria</figcaption>
 </figure>
 
 <p><strong>Educa&ccedil;&atilde;o, sa&uacute;de e lazer</strong></p>
@@ -207,11 +207,10 @@ No organograma da Cooperuni&atilde;o, a escola, a ciranda infantil e o Setor de 
 A Escola Municipal Construindo o Caminho nasceu de uma reivindica&ccedil;&atilde;o das fam&iacute;lias quando elas ainda estavam acampadas. Formalizada em 1990, ela surgiu da necessidade n&atilde;o apenas de alfabetizar os filhos de assentados, mas inseri-los numa proposta pedag&oacute;gica adequada &agrave; Reforma Agr&aacute;ria. A come&ccedil;ar pelo nome. A prefeitura municipal queria que a escola se chamasse &ldquo;Tracutinga&rdquo;, nome da comunidade onde se localiza o assentamento e da antiga fazenda que existia no local. Mas os assentados optaram por &ldquo;Construindo o Caminho&rdquo;.</p>
 
 <figure class="image"><img alt="Escola (3).jpg" src="http://farm8.staticflickr.com/7512/16285222341_27a81e4d87_b.jpg" />
-<figcaption>A escola do assentamento trabalha com uma realidade voltada &agrave; Reforma Agr&aacute;ria</figcaption>
+<figcaption>A escola tamb&eacute;m conta com atividades curriculares complementares para as crian&ccedil;as</figcaption>
 </figure>
 
-<p><br />
-A escola hoje tem atividades curriculares e complementares para crian&ccedil;as da pr&eacute;-escola ao quarto ano do ensino fundamental. Dentro da proposta pedag&oacute;gica do MST, os professores trabalham os temas a partir do fato gerador. As crian&ccedil;as tamb&eacute;m s&atilde;o respons&aacute;veis pela gest&atilde;o da escola: assim como na cooperativa, elas tomam decis&otilde;es em conjunto, definem regras para o funcionamento da escola e atividades que ser&atilde;o desenvolvidas. Por sua hist&oacute;ria, m&eacute;todo de aprendizagem e import&acirc;ncia no contexto do assentamento, a escola Construindo o Caminho &eacute; um dos motivos que faz do Conquista na Fronteira uma refer&ecirc;ncia para a Reforma Agr&aacute;ria.</p>
+<p>A escola hoje tem atividades curriculares e complementares para crian&ccedil;as da pr&eacute;-escola ao quarto ano do ensino fundamental. Dentro da proposta pedag&oacute;gica do MST, os professores trabalham os temas a partir do fato gerador. As crian&ccedil;as tamb&eacute;m s&atilde;o respons&aacute;veis pela gest&atilde;o da escola: assim como na cooperativa, elas tomam decis&otilde;es em conjunto, definem regras para o funcionamento da escola e atividades que ser&atilde;o desenvolvidas. Por sua hist&oacute;ria, m&eacute;todo de aprendizagem e import&acirc;ncia no contexto do assentamento, a escola Construindo o Caminho &eacute; um dos motivos que faz do Conquista na Fronteira uma refer&ecirc;ncia para a Reforma Agr&aacute;ria.</p>
 
 <p><br />
 Marin&ecirc;s Brunetto e Vanda Grespan, professoras efetivas da escola, explicam que Dion&iacute;sio Cerqueira conta atualmente com apenas duas escolas do campo. O munic&iacute;pio, que j&aacute; teve 56 escolas, hoje tem quatro n&uacute;cleos municipais. &ldquo;Concordamos com a nuclea&ccedil;&atilde;o, mas com escolas que se enquadrem no mesmo objetivo. Por isso a import&acirc;ncia da nossa escola&rdquo;, afirma Marin&ecirc;s.</p>
