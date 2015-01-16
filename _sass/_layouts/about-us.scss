@@ -188,7 +188,16 @@ main.about-us {
               -moz-box-shadow: 0 0 10px #111;
               -webkit-box-shadow: 0 0 10px #111;
                       box-shadow: 0 0 10px #111;
+
+              &.bottom{
+                top: -220px;
+                min-height: 290px;
+                span{
+                  top: 245px;
+                }
+              }
             }
+
 
           }
 
