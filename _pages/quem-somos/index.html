@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Quem Somos
-scripts: ["popover.js", "tabs.js"]
+scripts: ["popover.js", "tabs.js", "about-us.js"]
 ---
 <main class="about-us">
   <section class="begin">
@@ -20,7 +20,7 @@ scripts: ["popover.js", "tabs.js"]
       </div>
 
       <div class="thumb-video">
-        <iframe width="320" height="215" src="//www.youtube.com/embed/UuOgk_fVpYg" frameborder="0" allowfullscreen></iframe>
+        <iframe width="320" height="215" src="//www.youtube.com/embed/kvKhNUkxfYk" frameborder="0" allowfullscreen></iframe>
       </div>
     </div>
   </section>
@@ -125,9 +125,9 @@ scripts: ["popover.js", "tabs.js"]
 
           <li><a href="#">Relações internacionais</a>
             <!-- Conteudo -->
-            <div class="inner-content">
+            <div class="inner-content bottom last">
               <h4>Relações internacionais</h4>
-              <p></p>
+              <p>A política de Relações Internacionais do MST tem como alicerce os valores da solidariedade, do humanismo e do internacionalismo, um legado histórico da classe trabalhadora. Não há fronteiras, geográficas ou étnicas, que devam limitar as lutas contra a exploração do ser humano pelo ser humano. O Coletivo de Relações Internacionais (CRI) do MST tem o papel de articular a solidariedade às nossa lutas, contribuir com as lutas de todos os povos e despertar e aprimorar, junto à nossa base social, os valores que nos fazem mais humanos e solidários, construtores de uma sociedade socialista.</p>
             </div>
             <!-- Fim Conteudo -->
           </li>
@@ -340,7 +340,7 @@ scripts: ["popover.js", "tabs.js"]
           <div class="tab" id="democratizacao-da-comunicacao">
 
             <figure>
-              <img src="http://dummyimage.com/461x306/ebebeb/000&text=sem+imagem" alt="Foto ilustrativa sobre democratização da comunicação" />
+              <img src="{{site.baseurl}}/assets/img/quem-somos/democratizacao-da-comunicacao.jpg" alt="Foto ilustrativa sobre democratização da comunicação" />
             </figure>
             <p>O povo tem o direito de organizar seus próprios meios de comunicação social, de forma associativa. E o Estado deve garantir os recursos para que exerça esse direito. É preciso democratizar os meios de comunicação, começando por acabar com o monopólio privado dos meios. Atualmente no Brasil menos de dez grupos – constituídos por famílias ou agremiações religiosas – controlam as maiores redes de comunicação, incluindo televisão, rádio, jornais, revistas e portais na internet.</p>
             <p>O Estado deve estimular, com políticas e recursos para que se amplie o maior número possível de meios de comunicação, sob controle social, nas mais diferentes formas de organização popular. Devemos lutar pela garantia de funcionamento de milhares de rádios comunitárias existentes no país e não compactuar com a burocracia criada pelo próprio Estado para a manutenção do poder da comunicação nas mãos de poucos.</p>
@@ -394,7 +394,7 @@ scripts: ["popover.js", "tabs.js"]
           <div class="tab" id="soberania-nacional-e-popular">
 
             <figure>
-              <img src="http://dummyimage.com/461x306/ebebeb/000&text=sem+imagem" alt="Foto ilustrativa sobre soberania nacional e popular" />
+              <img src="{{site.baseurl}}/assets/img/quem-somos/soberania-nacional-e-popular.jpg" alt="Foto ilustrativa sobre soberania nacional e popular" />
             </figure>
             <p>Precisamos de políticas e práticas dos governantes que garantam a plena soberania de nosso povo, sobre nosso território, nossas riquezas naturais, minerais, nossa biodiversidade, a água e as sementes. O Estado deve ter o controle com a participação da sociedade e dos trabalhadores, e das empresas estratégicas para o desenvolvimento nacional que já existem e criar as que forem necessárias para gerirem as riquezas. E instalar uma auditoria da dívida externa e examinar todos os contratos, para controlar a transferência de riquezas para o exterior, a título de juros e amortização de dívidas e de contratos não transparentes ou ilegais e imorais.</p>
 
@@ -406,13 +406,30 @@ scripts: ["popover.js", "tabs.js"]
   </section>
 
   <section class="ask-us">
+    <p class='message error'>Desculpe ocorreu um erro, tente novamente.</p>
+    <p class='message success'>Obrigado! Em breve entraremos em contato.</p>
     <div class="content">
-      <form>
+      <form action='http://www.mst.org.br/' class='show' novalidate method="post">
         <label>Pergunte ao MST</label>
-        <input type="text" name="email" placeholder="Digite seu email" />
-        <input type="text" name="question" placeholder="Insira sua dúvida ou questionamento" />
+        <div class='form-input'>
+          <input type="email" name="email" placeholder="Digite seu email" />
+          <p class='message'>Campo obrigatório</p>
+        </div>
+
+        <div class='form-input'>
+          <input type="text" name="question" placeholder="Insira sua dúvida ou questionamento" />
+          <p class='message'>Campo obrigatório</p>
+        </div>
         <input type="submit" value="Enviar" />
       </form>
+
+      <span class='loading'>
+        <svg class="spinner" width="45px" height="45px" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
+           <circle class="path" fill="none" stroke-width="6" stroke-linecap="round" cx="33" cy="33" r="30"></circle>
+        </svg>
+      </span>
+
+
     </div>
   </section>
 </main>

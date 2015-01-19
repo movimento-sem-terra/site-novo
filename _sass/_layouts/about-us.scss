@@ -141,16 +141,7 @@ main.about-us {
             text-align: left;
             width: 140%;
             transform-origin: 0 10px;
-            -webkit-transition: all 400ms cubic-bezier(0.175, 0.885, 0.320, 1);
-            -webkit-transition: all 400ms cubic-bezier(0.175, 0.885, 0.320, 1.275);
-            -moz-transition: all 400ms cubic-bezier(0.175, 0.885, 0.320, 1.275);
-            -o-transition: all 400ms cubic-bezier(0.175, 0.885, 0.320, 1.275);
-            transition: all 400ms cubic-bezier(0.175, 0.885, 0.320, 1.275);
-            -webkit-transition-timing-function: cubic-bezier(0.175, 0.885, 0.320, 1);
-            -webkit-transition-timing-function: cubic-bezier(0.175, 0.885, 0.320, 1.275);
-            -moz-transition-timing-function: cubic-bezier(0.175, 0.885, 0.320, 1.275);
-            -o-transition-timing-function: cubic-bezier(0.175, 0.885, 0.320, 1.275);
-            transition-timing-function: cubic-bezier(0.175, 0.885, 0.320, 1.275);
+            @include transition(all 0.4s cubic-bezier(0.175, 0.885, 0.320, 1.275) );
 
             p{
               padding: 0;
@@ -195,10 +186,11 @@ main.about-us {
                 span{
                   top: 245px;
                 }
+                &.last{
+                  top: -260px;
+                }
               }
             }
-
-
           }
 
           a{
@@ -244,6 +236,7 @@ main.about-us {
             transition: all .4s ease-out-back;
 
 
+
             span{
               text-indent: -9990px;
               width: 11px;
@@ -252,7 +245,6 @@ main.about-us {
               left: auto;
               right: -10px;
               background: transparent url(../img/quem-somos/arrow-pointer-right.png) no-repeat left top;
-
             }
           }
         }
@@ -406,32 +398,128 @@ main.about-us {
     &.ask-us{
       background-color: $mst-green;
       height: 124px;
+      position: relative;
 
       .content{
         padding-top: 24px;
       }
 
+      $offset: 187;
+      $duration: 1.4s;
+
+      .loading{
+        width: 45px;
+        margin: 0 auto;
+        display: none;
+
+        &.show{
+          display: block;
+        }
+
+        .spinner{
+          @include animation(rotator $duration linear infinite);
+          .path{
+            stroke-dasharray: $offset;
+            stroke-dashoffset: 0;
+            transform-origin: center;
+            stroke: #fff;
+            @include animation(dash $duration ease-in-out infinite)
+          }
+
+          @include keyframes(rotator) {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(270deg); }
+          }
+
+          @include keyframes(dash) {
+           0% { stroke-dashoffset: $offset; }
+           50% {
+             stroke-dashoffset: 1;
+             transform:rotate(135deg);
+           }
+           100% {
+             stroke-dashoffset: $offset;
+             transform:rotate(450deg);
+           }
+          }
+        }
+      }
+
+
+      p.message{
+        background-color: orange;
+        position: relative;
+        color: white;
+        list-style: none;
+        width: 100%;
+        text-align: center;
+        color: #fff;
+        font-size: 14px;
+        opacity: 0;
+        padding: 8px;
+        border-bottom-left-radius: 10px;
+        border-bottom-right-radius: 10px;
+        @include transform(translate(0,-20px) );
+        @include transition(all 0.3s cubic-bezier(0.175, 0.885, 0.320, 1.275) );
+
+        &.show{
+          opacity: 1;
+          @include transform(translate(0, -5px));
+        }
+        &.error{
+          color: white;
+          background-color: #961913;
+          position: absolute;
+          top: 0px;
+          height: 24px;
+          padding-top: 0px;
+        }
+
+        &.success{
+          position: absolute;
+          top: 0px;
+          height: 24px;
+          padding-top: 0px;
+          background-color: #fff;
+          color: $mst-green;
+        }
+      }
+
       form{
         width: 940px;
         margin: 0 auto;
+        display: none;
+
+        &.show{
+          display: block;
+        }
+
+        div.form-input{
+          float: left;
+          margin-right: 10px;
+
+
+        }
 
         label{
           font-weight: 600;
           color: #fff;
           font-style: italic;
           font-size: 26px;
-          margin-right: 30px;
+          margin-right: 20px;
+          margin-top: 7px;
+          float: left;
         }
+
         input{
           font-style: italic;
           color: #888888;
           padding: 13px;
           border: solid 1px #fff;
-          margin-right: 10px;
           border-radius: 5px;
           font-size: 15px;
-
-
+          z-index: 999;
+          position: relative;
 
           &[type="submit"]{
             border: solid 1px #ebebeb;
@@ -439,6 +527,7 @@ main.about-us {
             background-color: $mst-red;
             font-style: normal;
             width: 100px;
+            float: left;
           }
 
           &[name="question"]{
