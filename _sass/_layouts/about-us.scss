@@ -285,11 +285,7 @@ main.about-us {
           li.goal{
             @include span-columns(4);
             position: relative;
-            // div {
-            //   width: 260px;
-            //   margin: 0 auto;
-            //   text-align: center;
-            // }
+            text-align: center;
 
             .inner-content{
               @extend .inner-content-closed;
