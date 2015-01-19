@@ -14,7 +14,6 @@
 body > main.home {
   @include default-figure-images();
   display: block;
-
 }
 
 
@@ -67,8 +66,6 @@ body > main.home > section.row {
       padding:0;
     }
   }
-
-
 }
 
 @media(max-width: $screen-sm) {
@@ -77,6 +74,15 @@ body > main.home > section.row {
     margin: 0 auto;
   }
 }
+
+@media(max-width: 320px) {
+  body > main.home {
+    width: 330px;
+  }
+}
+
+
+// Grids
 @include media($screen-sm) {
   //section four
   .newspaper {
