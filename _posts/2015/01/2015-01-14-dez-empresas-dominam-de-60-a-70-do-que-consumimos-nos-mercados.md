@@ -3,7 +3,7 @@ date: "2015-01-14T10:52:32-02:00"
 tags:
   - tag: Alimentação
 title: "Dez empresas dominam de 60% a 70% do que consumimos nos mercados"
-support_line: "Dez grandes companhias abocanham de 60% a 70% das compras de uma família e tornam o Brasil um dos países com maior nível de concentração."
+support_line: "Dez grandes companhias tornam o Brasil um dos países com maior nível de concentração."
 menu: agronegócio
 layout: post
 files:
@@ -46,6 +46,7 @@ files:
 created_date: "2015-01-15T10:58:58-02:00"
 published: true
 images_hd: "http://farm8.staticflickr.com/7529/15665956813_ffffbdefa9_n.jpg"
+section: featured-news
 
 ---
 <p><br />
