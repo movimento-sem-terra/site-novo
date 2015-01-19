@@ -26,9 +26,8 @@ published: true
 images_hd: "http://farm8.staticflickr.com/7512/16292293596_4d937554b9_n.jpg"
 
 ---
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
+<p><br />
+&nbsp;</p>
 
 <p><em>Por Coletivo de Comunica&ccedil;&atilde;o do MST na Bahia<br />
 Da P&aacute;gina do MST</em></p>
