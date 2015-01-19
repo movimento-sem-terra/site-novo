@@ -9,7 +9,7 @@ support_line: "Assentamento Conquista na Fronteira, em Santa Catarina, é exempl
 menu: reforma agrária
 sector: production
 label: special-stories
-section: cover
+section: null
 layout: post
 files:
   - link: "http://farm8.staticflickr.com/7468/15664540334_6f0dae4842_b.jpg"
