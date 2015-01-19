@@ -23,13 +23,24 @@ files:
     small: "http://farm9.staticflickr.com/8614/15694698584_fe6022c127_n.jpg"
     title: ciranda_bahia2.jpg
     $$hashKey: 0GO
+  - link: "http://farm8.staticflickr.com/7494/16131411147_29d94fc1fc_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7494/16131411147_29d94fc1fc_t.jpg"
+    medium: "http://farm8.staticflickr.com/7494/16131411147_29d94fc1fc_z.jpg"
+    small: "http://farm8.staticflickr.com/7494/16131411147_29d94fc1fc_n.jpg"
+    title: "ciranda_bahia!!!.jpg"
+    $$hashKey: 0K6
+  - link: "http://farm9.staticflickr.com/8628/16315490571_78f109d130_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8628/16315490571_78f109d130_t.jpg"
+    medium: "http://farm9.staticflickr.com/8628/16315490571_78f109d130_z.jpg"
+    small: "http://farm9.staticflickr.com/8628/16315490571_78f109d130_n.jpg"
+    title: "ciranda_bahia4!!.jpg"
+    $$hashKey: 0K9
 created_date: "2015-01-19T10:36:51-02:00"
 published: true
 images_hd: "http://farm9.staticflickr.com/8614/15694698584_fe6022c127_n.jpg"
 
 ---
-<p><br />
-&nbsp;</p>
+<p><img alt="ciranda_bahia2.jpg" src="http://farm9.staticflickr.com/8614/15694698584_fe6022c127_b.jpg" /></p>
 
 <p><em>Do Coletivo de Comunica&ccedil;&atilde;o do MST na Bahia<br />
 Da P&aacute;gina do MST</em></p>
@@ -43,8 +54,13 @@ Organizada por um coletivo de 30 educadores, o espa&ccedil;o tem como objetivo r
 <p><br />
 Na ciranda, as crian&ccedil;as aprendem sobre a sua hist&oacute;ria e identidade camponesa, quando diversos temas s&atilde;o abordados, inclusive a luta pela Reforma Agr&aacute;ria, por meio do teatro, m&uacute;sicas, filmes, desenhos e pinturas.&nbsp;</p>
 
-<p><br />
-Os elementos l&uacute;dicos, a arte, o estudo e a brincadeira se misturam neste espa&ccedil;o de aprendizado onde os Sem Terrinha constroem conhecimento.</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="ciranda_bahia!!!.jpg" src="http://farm8.staticflickr.com/7494/16131411147_29d94fc1fc_b.jpg" />
+<figcaption></figcaption>
+</figure>
+
+<p>Os elementos l&uacute;dicos, a arte, o estudo e a brincadeira se misturam neste espa&ccedil;o de aprendizado onde os Sem Terrinha constroem conhecimento.</p>
 
 <p><br />
 Para este ano, a Ciranda comemorou os 30 anos do MST, resgatando a hist&oacute;ria e a luta do Movimento.&nbsp;</p>
@@ -64,7 +80,8 @@ J&aacute; Eduardo, de 6 anos, do Assentamnto S&atilde;o Domingos, e que particip
 <p><br />
 &ldquo;Assistimos filmes, fazemos muito dever e gosto de ser chamado de Sem Terrinha porque na escola aprendo assim&rdquo;.&nbsp;</p>
 
-<p><br />
+<p><img alt="ciranda_bahia.jpg" src="http://farm8.staticflickr.com/7487/16130931089_c62b363b25_b.jpg" /><br />
+<br />
 <strong>Hist&oacute;rico</strong></p>
 
 <p><br />
@@ -73,8 +90,13 @@ A Ciranda Infantil surgiu em 1987 durante o 1&ordm; Encontro Nacional de Educado
 <p><br />
 Com os aprendizados e conquistas da luta, a proposta pedag&oacute;gica do MST amadureceu e a ciranda passou a ter como foco principal a forma&ccedil;&atilde;o das crian&ccedil;as.</p>
 
-<p><br />
-Segundo Luana Soares, coordenadora da Frente de Inf&acirc;ncia do MST na Bahia, a Ciranda representa mais um espa&ccedil;o de forma&ccedil;&atilde;o do Movimento, que tamb&eacute;m visa a luta pelo acesso dos trabalhadores a todos n&iacute;veis de conhecimento.&nbsp;</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="ciranda_bahia4!!.jpg" src="http://farm9.staticflickr.com/8628/16315490571_78f109d130_b.jpg" />
+<figcaption></figcaption>
+</figure>
+
+<p>Segundo Luana Soares, coordenadora da Frente de Inf&acirc;ncia do MST na Bahia, a Ciranda representa mais um espa&ccedil;o de forma&ccedil;&atilde;o do Movimento, que tamb&eacute;m visa a luta pelo acesso dos trabalhadores a todos n&iacute;veis de conhecimento.&nbsp;</p>
 
 <p><br />
 Luana, que j&aacute; fora uma Sem Terrinha que iniciou sua participa&ccedil;&atilde;o na Ciranda Infantil aos sete anos, estudou em escolas de assentamento e graduou-se em Pedagogia na turma do Programa Nacional de Educa&ccedil;&atilde;o nos Assentamentos de Reforma Agr&aacute;ria (Pronera).</p>
