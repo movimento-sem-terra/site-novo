@@ -1,12 +1,88 @@
+// EXTENDS
+.inner-content-closed{
+  display: none;
+  opacity: 0;
+  position: absolute;
+  top: 0px;
+  left: 105%;
+  padding: 28px;
+  background-color: #fff;
+  border: solid 1px #006400;
+  text-align: left;
+  width: 140%;
+  transform-origin: 0 10px;
+  @include transition(all 0.4s cubic-bezier(0.175, 0.885, 0.320, 1.275) );
+
+  p{
+    padding: 0;
+  }
+
+  span{
+    display: block;
+    text-indent: -9990px;
+    width: 11px;
+    height: 19px;
+    position: absolute;
+    left: -11px;
+    background: transparent url(../img/quem-somos/arrow-pointer.png) no-repeat left top;
+  }
+
+  h4{
+    font-size: 16px;
+    margin-top: 0;
+  }
+}
+
+.inner-content-opened{
+  opacity: 1;
+  -moz-box-shadow: 0 0 10px #111;
+  -webkit-box-shadow: 0 0 10px #111;
+          box-shadow: 0 0 10px #111;
+
+  &.bottom{
+    top: -220px;
+    min-height: 290px;
+
+    span{
+      top: 245px;
+    }
+
+    &.last{
+      top: -260px;
+    }
+  }
+}
+
+.inner-content-opened-right{
+  left: -144%;
+  transform-origin: 100% 10px;
+  transition: all .4s ease-out-back;
+
+  span{
+    text-indent: -9990px;
+    width: 11px;
+    height: 19px;
+    position: absolute;
+    left: auto;
+    right: -10px;
+    background: transparent url(../img/quem-somos/arrow-pointer-right.png) no-repeat left top;
+  }
+}
+
+// END EXTENDS
+
+
+
 main.about-us {
   width: 100%;
   padding-bottom: 0px;
   padding-right: 0px;
   padding-left: 0px;
 
+
+
   section {
     border-bottom: solid 1px #006400;
-
 
     h2, h3 {
       font-weight: 500;
@@ -31,6 +107,7 @@ main.about-us {
       }
     }
 
+    // START BEGIN
     &.begin {
       overflow: hidden;
 
@@ -87,9 +164,10 @@ main.about-us {
         }
       }
     }
+    // END BEGIN
 
 
-
+    // ORGANIZATION
     &.organization{
       background-color: #f8f8f9;
       overflow: hidden;
@@ -132,37 +210,7 @@ main.about-us {
           }
 
           .inner-content{
-            display: none;
-            opacity: 0;
-            position: absolute;
-            top: 0px;
-            left: 105%;
-            padding: 28px;
-            background-color: #fff;
-            border: solid 1px #006400;
-            text-align: left;
-            width: 140%;
-            transform-origin: 0 10px;
-            @include transition(all 0.4s cubic-bezier(0.175, 0.885, 0.320, 1.275) );
-
-            p{
-              padding: 0;
-            }
-
-            span{
-              display: block;
-              text-indent: -9990px;
-              width: 11px;
-              height: 19px;
-              position: absolute;
-              left: -11px;
-              background: transparent url(../img/quem-somos/arrow-pointer.png) no-repeat left top;
-            }
-
-            h4{
-              font-size: 16px;
-              margin-top: 0;
-            }
+            @extend .inner-content-closed;
           }
 
           &:hover{
@@ -178,23 +226,7 @@ main.about-us {
             }
 
             .inner-content{
-              opacity: 1;
-              -moz-box-shadow: 0 0 10px #111;
-              -webkit-box-shadow: 0 0 10px #111;
-                      box-shadow: 0 0 10px #111;
-
-              &.bottom{
-                top: -220px;
-                min-height: 290px;
-
-                span{
-                  top: 245px;
-                }
-
-                &.last{
-                  top: -260px;
-                }
-              }
+              @extend .inner-content-opened;
             }
           }
 
@@ -237,65 +269,76 @@ main.about-us {
           }
 
           .inner-content{
-            left: -144%;
-            transform-origin: 100% 10px;
-            transition: all .4s ease-out-back;
-
-            span{
-              text-indent: -9990px;
-              width: 11px;
-              height: 19px;
-              position: absolute;
-              left: auto;
-              right: -10px;
-              background: transparent url(../img/quem-somos/arrow-pointer-right.png) no-repeat left top;
-            }
+            @extend .inner-content-opened-right;
           }
+
         }
       }
     }
+    // END ORGANIZATION
 
     &.objectives{
       .goals{
         @include span-columns(12);
         margin-bottom: 0;
+        ul.popover{
+          li.goal{
+            @include span-columns(4);
+            position: relative;
+            // div {
+            //   width: 260px;
+            //   margin: 0 auto;
+            //   text-align: center;
+            // }
 
-        .goal{
-          @include span-columns(4);
+            .inner-content{
+              @extend .inner-content-closed;
+              z-index: 999;
+              left: 76%;
+              top: 30px;
 
-          div {
-            width: 260px;
-            margin: 0 auto;
-            text-align: center;
-          }
 
-          a{
-            font-size: 20px;
-            font-weight: bold;
-            text-decoration: none;
-            transition: all .5s ease-out;
+            }
 
-            span.cut {
-              margin: 0 auto 10px auto;
-              width: 148px;
-              height: 148px;
-              overflow: hidden;
-              border-radius: 74px;
-              display: block;
-              border: solid 4px #961913;
-              transition: all .5s ease-out;
+            &.open{
+              .inner-content{
+                @extend .inner-content-opened;
 
-              img{
-                margin-left: -4px;
-                margin-top: -2px;
+                &.right{
+                  @extend .inner-content-opened-right;
+                  left: -118%;
+                }
+
               }
             }
 
-            &:hover{
-              color: #961913;
+            a{
+              font-size: 20px;
+              font-weight: bold;
+              text-decoration: none;
+              @include transition(all .5s ease-out);
 
-              span.cut{
-                border: solid 4px red;
+              span.cut {
+                margin: 0 auto 10px auto;
+                width: 148px;
+                height: 148px;
+                overflow: hidden;
+                border-radius: 74px;
+                display: block;
+                border: solid 4px $mst-red;
+                @include transition(all .5s ease-out);
+
+                img{
+                  margin-left: -4px;
+                  margin-top: -2px;
+                }
+              }
+
+              &:hover{
+                color: $mst-red;
+                span.cut{
+                  border: solid 4px red;
+                }
               }
             }
           }
@@ -330,6 +373,7 @@ main.about-us {
         }
       }
     }
+
     &.flags{
       background-color: #f8f8f9;
 
@@ -406,7 +450,6 @@ main.about-us {
           }
         }
       }
-
     }
 
     &.ask-us{
@@ -483,7 +526,7 @@ main.about-us {
 
         &.error{
           color: white;
-          background-color: #961913;
+          background-color: $mst-red;
           position: absolute;
           top: 0px;
           height: 24px;
@@ -553,7 +596,6 @@ main.about-us {
 
         }
       }
-
     }
   }
 }
