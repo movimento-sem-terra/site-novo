@@ -4,7 +4,7 @@ tags:
   - tag: Juventude
   - tag: Bahia
   - tag: Encontro-estadual
-title: Juventude Sem Terra se compromete em fortalecer a luta na Bahia
+title: "Juventude Sem Terra se compromete em fortalecer a luta na Bahia!"
 support_line: "Os novos desafios da luta de classes exige uma geração preparada para assumir as trincheiras da luta, com a indignação, rebeldia e energia que são características da juventude."
 menu: reforma agrária
 layout: post
