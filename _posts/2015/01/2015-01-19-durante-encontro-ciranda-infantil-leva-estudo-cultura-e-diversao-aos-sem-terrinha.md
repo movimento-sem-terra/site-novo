@@ -6,7 +6,7 @@ tags:
   - tag: Sem-Terrinha
   - tag: Bahia
   - tag: encontro-estadual
-title: "Durante encontro, Ciranda Infantil leva estudo, cultura e diversão aos Sem Terrinha"
+title: "Durante encontro, Ciranda leva estudo, cultura e diversão aos Sem Terrinha"
 support_line: O espaço tem como objetivo realizar atividades pedagógicas com os Sem Terrinha durante o Encontro Estadual do MST na Bahia.
 menu: "educação, cultura e comunicação"
 layout: post
