@@ -42,7 +42,6 @@ main.about-us {
       }
 
       .quote-content {
-
         width: 60%;
         float: left;
 
@@ -51,11 +50,13 @@ main.about-us {
            margin-top: 12px;
            padding-right: 20px;
         }
+
         .quote{
           width: 30px;
           height: 30px;
           display: inline-block;
           text-indent: -9999px;
+
           &.start{
             float: left;
             background: transparent url(../img/quem-somos/quote-a.jpg) no-repeat left top;
@@ -116,6 +117,7 @@ main.about-us {
         ul {
           margin-bottom: 0;
         }
+
         li{
           display: block;
           border-bottom: solid 1px #e3e2e2;
@@ -162,6 +164,7 @@ main.about-us {
               margin-top: 0;
             }
           }
+
           &:hover{
             background-color: #ebebeb;
           }
@@ -183,9 +186,11 @@ main.about-us {
               &.bottom{
                 top: -220px;
                 min-height: 290px;
+
                 span{
                   top: 245px;
                 }
+
                 &.last{
                   top: -260px;
                 }
@@ -224,6 +229,7 @@ main.about-us {
             border-left: none;
             border-right: solid 0px #006400;
           }
+
           &.open{
             a{
               border-right: solid 11px #006400;
@@ -234,8 +240,6 @@ main.about-us {
             left: -144%;
             transform-origin: 100% 10px;
             transition: all .4s ease-out-back;
-
-
 
             span{
               text-indent: -9990px;
@@ -255,18 +259,22 @@ main.about-us {
       .goals{
         @include span-columns(12);
         margin-bottom: 0;
+
         .goal{
           @include span-columns(4);
+
           div {
             width: 260px;
             margin: 0 auto;
             text-align: center;
           }
+
           a{
             font-size: 20px;
             font-weight: bold;
             text-decoration: none;
             transition: all .5s ease-out;
+
             span.cut {
               margin: 0 auto 10px auto;
               width: 148px;
@@ -282,6 +290,7 @@ main.about-us {
                 margin-top: -2px;
               }
             }
+
             &:hover{
               color: #961913;
 
@@ -301,6 +310,7 @@ main.about-us {
 
       .besides{
         @include span-columns(12);
+
         h4{
           text-align: center;
           color: #036603;
@@ -322,6 +332,7 @@ main.about-us {
     }
     &.flags{
       background-color: #f8f8f9;
+
       #tabs-container{
         border: solid 2px #ebebeb;
         background-color: #ffffff;
@@ -350,6 +361,7 @@ main.about-us {
           }
         }
       }
+
       ul{
         display: block;
         height: 95px;
@@ -360,27 +372,28 @@ main.about-us {
         background-color: #f8f8f9;
         width: 121px;
         height: 93px;
-        display: block;
         float: left;
         text-align: center;
         border-right: solid 2px #ebebeb;
         border-bottom: solid 2px #ebebeb;
         color: #036603;
         font-weight: bold;
-        padding: 1px;
-
+        padding: 3px;
+        display: table;
         @include transition(all, .4s, ease-out);
 
         &.selected{
           background-color: #ffffff;
           border-bottom: solid 2px #ffffff;
         }
+
         a{
-          display: block;
+          display: table-cell;
+          vertical-align: middle;
           text-align: center;
           line-height: 110%;
-          font-size: 12.4px;
           text-decoration: none;
+          font-size: 13px;
 
           span{
             width: 100px;
@@ -395,6 +408,7 @@ main.about-us {
       }
 
     }
+
     &.ask-us{
       background-color: $mst-green;
       height: 124px;
@@ -466,6 +480,7 @@ main.about-us {
           opacity: 1;
           @include transform(translate(0, -5px));
         }
+
         &.error{
           color: white;
           background-color: #961913;
@@ -497,8 +512,6 @@ main.about-us {
         div.form-input{
           float: left;
           margin-right: 10px;
-
-
         }
 
         label{
