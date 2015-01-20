@@ -30,7 +30,7 @@ for(i=0; i<tracked_links.length; i++) {
       });
     });
   });
-};
+}
 
 $("main section").each(function(index, element){
   $(element).find("a[href!='#']").each(function(index,e){
@@ -57,10 +57,10 @@ $(".details-inited summary").on('click', function() {
   });
 });
 
-$("header > a").on('click', function() {
+$("header a.logo").on('click', function() {
   ga('send', {
     'hitType': 'event',
-    'eventCategory': 'header-links',
+    'eventCategory': 'header-link-home',
     'eventAction': 'click',
     'eventLabel': 'Logotipo'
   });
