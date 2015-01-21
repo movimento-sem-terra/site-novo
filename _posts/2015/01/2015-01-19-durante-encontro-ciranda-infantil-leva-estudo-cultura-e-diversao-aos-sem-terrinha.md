@@ -1,13 +1,13 @@
 ---
-date: "2015-01-19T09:23:24-03:00"
+date: "2015-01-19T10:23:24-02:00"
 tags:
   - tag: Reforma-Agrária
   - tag: Ciranda-Infantil
   - tag: Sem-Terrinha
   - tag: Bahia
   - tag: encontro-estadual
-title: "Durante encontro, Ciranda leva estudo, cultura e diversão aos Sem Terrinha"
-support_line: O espaço tem como objetivo realizar atividades pedagógicas com os Sem Terrinha durante o Encontro Estadual do MST na Bahia.
+title: "Ciranda Infantil leva estudo, cultura e diversão aos Sem Terrinha"
+support_line: O espaço realizou atividades pedagógicas com os Sem Terrinha durante o Encontro Estadual do MST na Bahia.
 menu: "educação, cultura e comunicação"
 layout: post
 files:
@@ -38,6 +38,7 @@ files:
 created_date: "2015-01-19T10:36:51-02:00"
 published: true
 images_hd: "http://farm9.staticflickr.com/8614/15694698584_fe6022c127_n.jpg"
+section: featured-news
 
 ---
 <p><img alt="ciranda_bahia2.jpg" src="http://farm9.staticflickr.com/8614/15694698584_fe6022c127_b.jpg" /></p>
