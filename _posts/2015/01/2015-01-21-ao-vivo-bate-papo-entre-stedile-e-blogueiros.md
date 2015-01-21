@@ -2,7 +2,7 @@
 date: "2015-01-21T18:59:42-02:00"
 tags: []
 menu: "educação, cultura e comunicação"
-section: tv
+section: cover
 video: "https://www.youtube.com/watch?v=vsmry7SYzr0"
 title: "Ao vivo: bate papo entre Stedile e blogueiros"
 support_line: Acompanhe a transmissão ao vivo de lançamento da nova página do MST.
