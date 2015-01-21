@@ -27,7 +27,7 @@ images_hd: "http://farm8.staticflickr.com/7512/16292293596_4d937554b9_n.jpg"
 
 ---
 <p><br />
-&nbsp;</p>
+<img alt="coletivo_juventude_BA.jpg" src="http://farm8.staticflickr.com/7512/16292293596_4d937554b9_b.jpg" /></p>
 
 <p><em>Por Coletivo de Comunica&ccedil;&atilde;o do MST na Bahia<br />
 Da P&aacute;gina do MST</em></p>
@@ -59,7 +59,7 @@ A representa&ccedil;&atilde;o do Movimento na vida dos jovens &eacute; descrita 
 <p><br />
 J&aacute; Crislane, de 16 e do extremo sul do estado, afirma que a luta da juventude &ldquo;representa melhoria na vida e no car&aacute;ter do pr&oacute;prio jovem, porque afasta a juventude da maldade, dos v&iacute;cios e tenta&ccedil;&otilde;es que a sociedade oferece&rdquo;.</p>
 
-<p><br />
+<p><img alt="coletivo_juventude_BA2.jpg" src="http://farm8.staticflickr.com/7496/16132046859_92945478a3_b.jpg" /><br />
 <strong>Inser&ccedil;&atilde;o da juventude</strong></p>
 
 <p><br />
