@@ -1,5 +1,5 @@
 ---
-date: "2015-01-19T10:23:24-02:00"
+date: "2015-01-19T09:23:24-03:00"
 tags:
   - tag: Reforma-Agrária
   - tag: Ciranda-Infantil

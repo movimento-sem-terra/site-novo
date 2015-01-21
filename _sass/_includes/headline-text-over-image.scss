@@ -32,13 +32,21 @@
       right: 0;
       white-space: initial;
       z-index: 1;
-      padding: 15px;
+      padding: 15px 0 15px;
       color: white;
       font-weight: bold;
-      font-size: 1.3em;
+      font-size: 1.0em;
       line-height: 1;
       white-space: normal;
-      text-align: center;
+      text-align: left;
+      width: 85%;
+    }
+    @media(min-width: $screen-sm) {
+      figcaption {
+        width: 100%;
+        text-align: center;
+        font-size: 1.3em;
+      }
     }
   }
 }

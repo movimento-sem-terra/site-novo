@@ -1,4 +1,4 @@
-{% assign posts = site.others | where_not: 'id', include.actual_post.id | where_not: 'menu', 'campaign'%}
+{% assign posts = site.posts | where_not: 'id', include.actual_post.id | where_not: 'menu', 'campaign' %}
 
 <footer>
   <h1>Últimas notícias</h1>
