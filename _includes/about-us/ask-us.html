@@ -1,7 +1,7 @@
 <p class='message error'>Desculpe ocorreu um erro, tente novamente.</p>
 <p class='message success'>Obrigado! Em breve entraremos em contato.</p>
 <div class="content">
-  <form action='http://www.mst.org.br/' class='show' novalidate method="post">
+  <form action='https://mst-mail-service.herokuapp.com/send' class='show' novalidate method="post">
     <label>Pergunte ao MST</label>
     <div class='form-input'>
       <input type="email" name="email" placeholder="Digite seu email" />
@@ -13,6 +13,7 @@
       <p class='message'>Campo obrigatório</p>
     </div>
     <input type="submit" value="Enviar" />
+    <input type="hidden" name="spam"  />
   </form>
 
   <span class='loading'>
