@@ -14,6 +14,18 @@ files:
     small: "http://farm8.staticflickr.com/7524/16309077966_b0eea23fb1_n.jpg"
     title: encontroestadualbahia.jpg
     $$hashKey: 0GI
+  - link: "http://farm8.staticflickr.com/7570/16147493118_18070ced13_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7570/16147493118_18070ced13_t.jpg"
+    medium: "http://farm8.staticflickr.com/7570/16147493118_18070ced13_z.jpg"
+    small: "http://farm8.staticflickr.com/7570/16147493118_18070ced13_n.jpg"
+    title: encontro_BA2.jpg
+    $$hashKey: 0PG
+  - link: "http://farm9.staticflickr.com/8593/15712654494_70f4746cdd_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8593/15712654494_70f4746cdd_t.jpg"
+    medium: "http://farm9.staticflickr.com/8593/15712654494_70f4746cdd_z.jpg"
+    small: "http://farm9.staticflickr.com/8593/15712654494_70f4746cdd_n.jpg"
+    title: "ciranda_bahia2!.jpg"
+    $$hashKey: 0PJ
 created_date: "2015-01-21T16:27:21-02:00"
 published: true
 images_hd: "http://farm8.staticflickr.com/7524/16309077966_b0eea23fb1_n.jpg"
@@ -31,8 +43,13 @@ Lutar, Construir Reforma Agr&aacute;ria Popular! foi um dos gritos de ordem que 
 <p><br />
 O Encontro contou com a participa&ccedil;&atilde;o de 800 trabalhadores e trabalhadoras Sem Terra, e avaliou&nbsp;as lutas e a organiza&ccedil;&atilde;o do Movimento durante o ano de 2014, construindo linhas de atua&ccedil;&atilde;o para 2015.</p>
 
-<p><br />
-Pensando nisto, foi poss&iacute;vel levantar as principais demandas na luta pela terra, visando a organiza&ccedil;&atilde;o da base social no estado, criando uma agenda de mobiliza&ccedil;&otilde;es e ocupa&ccedil;&otilde;es.</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="encontro_BA2.jpg" src="http://farm8.staticflickr.com/7570/16147493118_18070ced13_b.jpg" />
+<figcaption></figcaption>
+</figure>
+
+<p>Pensando nisto, foi poss&iacute;vel levantar as principais demandas na luta pela terra, visando a organiza&ccedil;&atilde;o da base social no estado, criando uma agenda de mobiliza&ccedil;&otilde;es e ocupa&ccedil;&otilde;es.</p>
 
 <p><br />
 O Movimento consolidou pautas no campo da forma&ccedil;&atilde;o e mobiliza&ccedil;&atilde;o, tendo como base a unidade entre os diversos movimentos populares.&nbsp;</p>
@@ -49,8 +66,13 @@ Ao analisar a conjuntura pol&iacute;tica e as lutas no estado, Elizabeth Rocha, 
 <p><br />
 A juventude, as mulheres e os Sem Terrinhas foram colocados como alicerce deste novo per&iacute;odo. Tamb&eacute;m foi colocado a eles o desafio de se tornarem protagonistas de diversos espa&ccedil;os, como a organiza&ccedil;&atilde;o de coletivos de cultura, agita&ccedil;&atilde;o e propaganda, grupo de mulheres, associa&ccedil;&otilde;es com as trabalhadoras e lutas que dialoguem com cada uma destas pautas.</p>
 
-<p><br />
-Para os trabalhadores rurais, o ano de 2015 representa um novo momento hist&oacute;rico na luta pela Reforma Agr&aacute;ria Popular. Por isso colocaram a necessidade constante de planejar e articular as a&ccedil;&otilde;es contra o avan&ccedil;o do capital na agricultura.&nbsp;</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="ciranda_bahia2!.jpg" src="http://farm9.staticflickr.com/8593/15712654494_70f4746cdd_b.jpg" />
+<figcaption></figcaption>
+</figure>
+
+<p>Para os trabalhadores rurais, o ano de 2015 representa um novo momento hist&oacute;rico na luta pela Reforma Agr&aacute;ria Popular. Por isso colocaram a necessidade constante de planejar e articular as a&ccedil;&otilde;es contra o avan&ccedil;o do capital na agricultura.&nbsp;</p>
 
 <p><br />
 Dentro destes desafios, M&aacute;rcio Matos, da dire&ccedil;&atilde;o nacional, apontou que &ldquo;as elei&ccedil;&otilde;es de 2014 apontaram os interesses e a ofensiva da burguesia para conquistar o governo. Com a reelei&ccedil;&atilde;o de Dilma se abre novas perspectivas para a transforma&ccedil;&atilde;o social&rdquo;.</p>
