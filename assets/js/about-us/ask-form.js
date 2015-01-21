@@ -44,19 +44,18 @@ var AskForm = {
       toggleUI(!isValidEmail, email.message);
       toggleUI(!isValidQuestion, question.message);
       toggleUI(false, fail);
+      toggleUI(false , success);
 
       if(canSend){
-        form.hide();
-
         toggleUI(false, form);
-        toggleUI(true, [form,loading]);
+        toggleUI(true, loading);
 
-        $.post(form.attr('action')).done(function(data){
-          toggle(true, success);
+        $.post(form.attr('action'), form.serialize() ).done(function(data){
+          toggleUI(true, success);
 
         }).always(function(){
-          form.show();
-          toggleUI(true, [form,loading]);
+          toggleUI(true, form);
+          toggleUI(false, loading);
 
         }).fail(function() {
           toggleUI(true, fail);
