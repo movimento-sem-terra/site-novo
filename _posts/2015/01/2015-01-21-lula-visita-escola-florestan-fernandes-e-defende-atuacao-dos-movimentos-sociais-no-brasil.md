@@ -27,8 +27,11 @@ published: true
 images_hd: "http://farm8.staticflickr.com/7551/15715383873_93eb99c732_n.jpg"
 
 ---
+<figure class="image" style="float:right"><img alt="Lula_ENFF.jpg" src="http://farm8.staticflickr.com/7540/16333528841_5190d64c5f_b.jpg" />
+<figcaption></figcaption>
+</figure>
+
 <p><br />
-<br />
 <em>Por Mayr&aacute; Lima<br />
 Da P&aacute;gina do MST</em></p>
 
@@ -52,3 +55,5 @@ De acordo com Rosana Fernandes, integrante da Dire&ccedil;&atilde;o Nacional do 
 
 <p><br />
 &ldquo;A luta pela terra &eacute; o grande motor da nossa organiza&ccedil;&atilde;o. Por isso,&nbsp;perguntas como o porqu&ecirc; que n&atilde;o se fez a reforma agr&aacute;ria e o porqu&ecirc; que nossa pauta de reivindica&ccedil;&atilde;o n&atilde;o foi executada devem ser feitas. N&atilde;o queremos que Lula fique contra a presidenta Dilma, mas que ele influencie para que a reforma agr&aacute;ria seja feita&rdquo;, disse Rosana.</p>
+
+<p><img alt="HEINRICH AIKAWA.jpg" src="http://farm8.staticflickr.com/7551/15715383873_93eb99c732_b.jpg" /></p>
