@@ -69,7 +69,7 @@ A juventude, as mulheres e os Sem Terrinhas foram colocados como alicerce deste 
 <p>&nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="ciranda_bahia2!.jpg" src="http://farm9.staticflickr.com/8593/15712654494_70f4746cdd_b.jpg" />
-<figcaption></figcaption>
+<figcaption>Durante encontro, Sem Terrinha participam da Ciranda Infantil</figcaption>
 </figure>
 
 <p>Para os trabalhadores rurais, o ano de 2015 representa um novo momento hist&oacute;rico na luta pela Reforma Agr&aacute;ria Popular. Por isso colocaram a necessidade constante de planejar e articular as a&ccedil;&otilde;es contra o avan&ccedil;o do capital na agricultura.&nbsp;</p>
