@@ -27,6 +27,10 @@ published: true
 images_hd: "http://farm8.staticflickr.com/7551/15715383873_93eb99c732_n.jpg"
 
 ---
+<p>&nbsp;</p>
+
+<p><iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/d-9AMSYpR84" width="640"></iframe></p>
+
 <figure class="image" style="float:right"><img alt="Lula_ENFF.jpg" src="http://farm8.staticflickr.com/7540/16333528841_5190d64c5f_b.jpg" />
 <figcaption></figcaption>
 </figure>
