@@ -3,7 +3,7 @@ date: "2015-01-19T14:29:41-02:00"
 tags:
   - tag: Educação
   - tag: Paraná
-title: Sem Terra é premiada nas olimpíadas nacional de Língua Portuguesa
+title: Sem Terra é premiada nas olimpíadas de Língua Portuguesa
 support_line: Valdirene escreveu um texto em que retrata a trajetória de ocupação e conquista do seu assentamento.
 menu: "educação, cultura e comunicação"
 layout: post
