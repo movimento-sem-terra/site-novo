@@ -3,7 +3,7 @@ date: "2015-01-20T14:54:11-02:00"
 tags:
   - tag: reforma-agrária
 title: "Uma data e muitos fatos: causas do fracasso das leis sobre reforma agrária"
-support_line: "Em artigo, o jurista Jacques Alfosin relembra o simbolismo da derrota do exército em Canudos, no dia 19 de janeiro 1897, e depois a vitória secular do latifúndio contra a reforma agrária."
+support_line: Jacques Alfosin relembra o simbolismo da derrota do exército em Canudos e a vitória secular do latifúndio contra a reforma agrária.
 menu: reforma agrária
 label: articles
 layout: post
