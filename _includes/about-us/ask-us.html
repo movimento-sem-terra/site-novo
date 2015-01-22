@@ -1,0 +1,24 @@
+<p class='message error'>Desculpe ocorreu um erro, tente novamente.</p>
+<p class='message success'>Obrigado! Em breve entraremos em contato.</p>
+<div class="content">
+  <form action='https://mst-mail-service.herokuapp.com/send' class='show' novalidate method="post">
+    <label>Pergunte ao MST</label>
+    <div class='form-input'>
+      <input type="email" name="email" placeholder="Digite seu email" />
+      <p class='message'>Campo obrigatório</p>
+    </div>
+
+    <div class='form-input'>
+      <input type="text" name="question" placeholder="Insira sua dúvida ou questionamento" />
+      <p class='message'>Campo obrigatório</p>
+    </div>
+    <input type="submit" value="Enviar" />
+    <input type="hidden" name="spam"  />
+  </form>
+
+  <span class='loading'>
+    <svg class="spinner" width="45px" height="45px" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
+       <circle class="path" fill="none" stroke-width="6" stroke-linecap="round" cx="33" cy="33" r="30"></circle>
+    </svg>
+  </span>
+</div>
