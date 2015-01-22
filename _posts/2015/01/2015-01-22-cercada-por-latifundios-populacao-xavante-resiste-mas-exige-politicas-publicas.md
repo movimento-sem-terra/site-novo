@@ -50,7 +50,9 @@ images_hd: "http://farm8.staticflickr.com/7533/16156247999_a0ab13bf3f_n.jpg"
 
 <p>Os meninos, quando fazem por volta de 13 anos, saem da casa dos pais e v&atilde;o viver todos juntos na H&ouml;, ou em portugu&ecirc;s, &#39;Casa do Adolescente&#39;, onde ir&atilde;o aprender, durante sete anos, a cultura tradicional xavante. Encerrado o per&iacute;odo, ocorre o ritual de fura&ccedil;&atilde;o da orelha, uma das festas mais fortes e tradicionais dos xavantes. A partir da&iacute; os meninos recebem um par de brincos e est&atilde;o prontos para casar e assumir o papel de homens na tribo. Sendo um povo tradicionalmente guerreiro, participar&atilde;o das &aacute;rduas corridas com as toras de buriti nas costas e das lutas entre os dois cl&atilde;s que dividem as aldeias: &acirc;wawẽ e po&#39;reza&#39;&otilde;no.</p>
 
-<p><img alt="" src="http://i62.tinypic.com/96hssy.gif" style="vertical-align: top;" width="640" />Foto:&nbsp;Sarah Fernandes</p>
+<figure class="image"><img alt="Foto: Sarah Fernandes" src="http://i62.tinypic.com/96hssy.gif" style="vertical-align: top;" width="640" />
+<figcaption>Foto:&nbsp;Sarah Fernandes</figcaption>
+</figure>
 
 <p>&ldquo;O governo tem que dar mais aten&ccedil;&atilde;o para o &iacute;ndio. Quem esta destruindo o pa&iacute;s &eacute; o branco, n&atilde;o o &iacute;ndio. Antigamente, nos anos 1970 e 1980, no rio que corre em frente minha aldeia era fartura de pintado e de todo tipo de peixe. Hoje voc&ecirc; n&atilde;o v&ecirc; nenhum matrinx&atilde; (peixe muito comum na regi&atilde;o)&rdquo;, critica a ind&iacute;gena &Acirc;ngela Rootsitsimro Tsupto, que vive na aldeia Tr&ecirc;s Marias. &ldquo;Agora o &iacute;ndio tem que comprar peixe em Campin&aacute;polis e est&aacute; muito caro. Qualquer um &eacute; R$ 25 reais. S&oacute; quem trabalha, &eacute; aposentado ou recebe Bolsa Fam&iacute;lia consegue, e ainda assim s&oacute; um pouquinho.&rdquo;</p>
 
