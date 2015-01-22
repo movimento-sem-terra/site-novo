@@ -4,7 +4,7 @@ tags:
   - tag: Educação
   - tag: Paraná
 title: Estudante do MST é premiada nas olimpíadas nacional de Língua Portuguesa
-support_line: "Valdirene escreveu o texto “Um segredo revelado”, em que retrata a trajetória de ocupação e conquista do seu assentamento, o 8 de Abril."
+support_line: Valdirene escreveu um texto em que retrata a trajetória de ocupação e conquista do seu assentamento.
 menu: "educação, cultura e comunicação"
 layout: post
 files:
@@ -23,6 +23,7 @@ files:
 created_date: "2015-01-19T14:38:06-02:00"
 published: true
 images_hd: "http://farm9.staticflickr.com/8573/16318657335_4b05e42a07_n.jpg"
+section: featured-news
 
 ---
 <p><img alt="foto premiação 03.jpg" src="http://farm9.staticflickr.com/8573/16318657335_4b05e42a07_b.jpg" /></p>
