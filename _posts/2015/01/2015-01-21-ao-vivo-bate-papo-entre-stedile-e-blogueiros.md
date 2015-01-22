@@ -1,5 +1,5 @@
 ---
-date: "2015-01-21T18:59:42-02:00"
+date: "2013-01-04T18:59:42-02:00"
 tags: []
 menu: "educação, cultura e comunicação"
 section: cover
