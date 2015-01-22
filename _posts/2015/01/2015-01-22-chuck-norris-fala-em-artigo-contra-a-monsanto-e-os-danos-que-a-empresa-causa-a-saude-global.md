@@ -4,8 +4,8 @@ tags:
   - tag: glifosato
   - tag: Monsanto
   - tag: agrotóxicos
-title: Chuck Norris fala em artigo contra a Monsanto e os danos que a empresa causa ​​à saúde global
-support_line: "O ator fala dentre outras coisas sobre o perigo do glifosato, o herbicida mais utilizado no mundo "
+title: Chuck Norris critica Monsanto e os danos que a empresa causa ​​à saúde global
+support_line: "Em artigo, o ator estadunidense fala sobre o perigo do glifosato, o herbicida mais utilizado no mundo."
 menu: agronegócio
 layout: post
 files:
@@ -20,7 +20,12 @@ published: true
 images_hd: "http://farm9.staticflickr.com/8614/16341359132_19c6874a58_n.jpg"
 
 ---
-<p>O ator Chuck Norris escreveu um contundente artigo contra a Monsanto e os danos que a empresa causa ​​&agrave; sa&uacute;de global</p>
+<p>&nbsp;</p>
+
+<p><em>Da LaiguanaTV</em></p>
+
+<p><br />
+O ator Chuck Norris escreveu um contundente artigo contra a Monsanto e os danos que a empresa causa ​​&agrave; sa&uacute;de global</p>
 
 <p>&nbsp;</p>
 
@@ -43,6 +48,6 @@ images_hd: "http://farm9.staticflickr.com/8614/16341359132_19c6874a58_n.jpg"
 <p>Norris argumenta que &quot;devemos estar vigilantes neste momento em que o glifosato est&aacute; sendo submetido a um registro padr&atilde;o pela Ag&ecirc;ncia de Prote&ccedil;&atilde;o Ambiental.&quot; A ag&ecirc;ncia est&aacute; determinando seu uso. Se o mesmo deve continuar como est&aacute;, ou se dever&aacute; ser limitado ou suspenso.</p>
 
 <p><br />
-Para ler o artigo em ingl&ecirc;s, clique aqui:</p>
+<a href="http://www.wnd.com/2015/01/chuck-norris-raises-red-flag-over-monsanto/" target="_blank">Clique aqui</a> para ler o artigo em ingl&ecirc;s.</p>
 
-<p><a href="http://www.wnd.com/2015/01/chuck-norris-raises-red-flag-over-monsanto/">http://www.wnd.com/2015/01/chuck-norris-raises-red-flag-over-monsanto/</a></p>
+<p>&nbsp;</p>
