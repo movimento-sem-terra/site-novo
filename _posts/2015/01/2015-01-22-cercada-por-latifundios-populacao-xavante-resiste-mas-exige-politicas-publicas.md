@@ -7,8 +7,8 @@ tags:
   - tag: pobreza
 title: "Cercada por latifúndios, população xavante resiste, mas exige políticas públicas "
 menu: agronegócio
-label: special-stories
-support_line: "Cercados pelo agronegócio, os índios resistem em um bolsão de pobreza, onde os programas sociais dos governos PT chegaram, mas não foram suficientes "
+label: null
+support_line: "Cercados pelo agronegócio, os índios resistem em um bolsão de pobreza, onde os programas sociais chegaram, mas não foram suficientes."
 layout: post
 files:
   - link: "http://farm8.staticflickr.com/7533/16156247999_a0ab13bf3f_b.jpg"
@@ -22,13 +22,13 @@ published: true
 images_hd: "http://farm8.staticflickr.com/7533/16156247999_a0ab13bf3f_n.jpg"
 
 ---
-<p><em>Por Sarah Fernandes</em></p>
-
-<p><em>Da R&aacute;dio Brasil Atual</em></p>
-
 <p>&nbsp;</p>
 
-<p>Com altos &iacute;ndices de mortalidade infantil e subnutri&ccedil;&atilde;o, baixa expectativa de vida e ocorr&ecirc;ncias de doen&ccedil;as praticamente j&aacute; erradicadas do restante do pa&iacute;s, os xavantes da terra ind&iacute;gena de Parabubure, em Mato Grosso, s&atilde;o um dos desafios para o segundo mandato da presidenta&nbsp;&nbsp; Dilma Rousself, que tem como prioridade zerar a mis&eacute;ria do pa&iacute;s. Cercados por fazendas pujantes pelo agroneg&oacute;cio, que alteraram drasticamente o meio ambiente e o modo de vida tradicional, eles resistem em um bols&atilde;o de pobreza, onde os programas sociais dos governos PT chegaram, mas n&atilde;o foram suficientes para resolver em definitivo os problemas.</p>
+<p><em>Por Sarah Fernandes<br />
+Da R&aacute;dio Brasil Atual</em></p>
+
+<p><br />
+Com altos &iacute;ndices de mortalidade infantil e subnutri&ccedil;&atilde;o, baixa expectativa de vida e ocorr&ecirc;ncias de doen&ccedil;as praticamente j&aacute; erradicadas do restante do pa&iacute;s, os xavantes da terra ind&iacute;gena de Parabubure, em Mato Grosso, s&atilde;o um dos desafios para o segundo mandato da presidenta&nbsp;&nbsp; Dilma Rousself, que tem como prioridade zerar a mis&eacute;ria do pa&iacute;s. Cercados por fazendas pujantes pelo agroneg&oacute;cio, que alteraram drasticamente o meio ambiente e o modo de vida tradicional, eles resistem em um bols&atilde;o de pobreza, onde os programas sociais dos governos PT chegaram, mas n&atilde;o foram suficientes para resolver em definitivo os problemas.</p>
 
 <p>&nbsp;</p>
 
