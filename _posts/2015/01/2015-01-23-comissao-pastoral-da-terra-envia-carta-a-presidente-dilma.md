@@ -5,7 +5,7 @@ tags:
   - tag: CPT
   - tag: STF
   - tag: lista-suja
-title: CPT envia carta à Dilma contra liminar que retarda o julgamento da Lista Suja do Trabalho Escravo
+title: "Em carta à Dilma, CPT critica liminar que retarda a Lista Suja do Trabalho Escravo"
 support_line: O texto critica a decisão tomada pelo STF de adiar os julgamentos das empresas detentoras de trabalho escravo no Brasil.
 menu: direitos humanos
 layout: post
