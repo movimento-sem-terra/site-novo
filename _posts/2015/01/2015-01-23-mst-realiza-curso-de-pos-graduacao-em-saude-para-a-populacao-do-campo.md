@@ -4,7 +4,7 @@ tags:
   - tag: Saúde
   - tag: Pernambuco
   - tag: Formação
-title: MST realiza curso de pós-graduação em saúde para a população do campo.
+title: MST realiza curso de pós-graduação em saúde para a população do campo
 support_line: "A seleção do curso, em parceria com a Universidade de Pernambuco, acontece até o dia 25/02, e pretende formar 20 profissionais em 10 áreas de formação."
 menu: "educação, cultura e comunicação"
 layout: post
