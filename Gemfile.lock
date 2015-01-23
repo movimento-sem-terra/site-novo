@@ -5,6 +5,12 @@ GIT
     jekyll-paginate-by (1.0.0)
       slugify
 
+GIT
+  remote: git://github.com/movimento-sem-terra/jekyll-sitemap.git
+  revision: ec29f919e143e8f46690ea54d9d720ed5a3f4bf2
+  specs:
+    jekyll-sitemap (0.7.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -49,7 +55,6 @@ GEM
     jekyll-paginate (1.1.0)
     jekyll-sass-converter (1.3.0)
       sass (~> 3.2)
-    jekyll-sitemap (0.7.0)
     jekyll-watch (1.2.0)
       listen (~> 2.7)
     json (1.8.1)
@@ -91,6 +96,6 @@ DEPENDENCIES
   httparty
   jekyll (~> 2.5.0)
   jekyll-paginate-by!
-  jekyll-sitemap (~> 0.5)
+  jekyll-sitemap!
   neat
   slugify

@@ -1,0 +1,93 @@
+---
+---
+
+//EXTENDS
+.center{
+  max-width: 1020px;
+  margin: 0 auto;
+}
+.text-with-shadow{
+  text-shadow: 1px 2px 1px #000000;
+  font-family: 'Exo 2';
+  color: #ffffff;
+  font-weight: 500;
+
+}
+.title-with-shadow{
+  text-shadow: 1px 2px 4px #000000;
+  color: #ffffff;
+}
+
+.truncate {
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+//END Of EXTENDS
+
+#our-production {
+  padding: 0;
+  width: 100%;
+
+  #about {
+    padding-bottom: 36px;
+    overflow: hidden;
+    background: url(../img/nossa-producao/background.jpg) no-repeat left top;
+            background-size: cover;
+         -o-background-size: cover;
+       -moz-background-size: cover;
+    -webkit-background-size: cover;
+
+    .content {
+      @extend .center;
+      & > p{
+        font-size: 18px;
+        @extend .text-with-shadow;
+      }
+      h2 {
+        @extend .title-with-shadow;
+        color: #ffffff;
+        font-size: 36px;
+        color: #ffffff;
+      }
+      #summary {
+        overflow: hidden;
+        width: 377px;
+        float: left;
+        margin-right: 43px;
+        p {
+          font: 500 18px / 24px;
+          color: #ffffff;
+        }
+      }
+      #testimonials{
+        h4{
+          @extend .title-with-shadow;
+          font-size: 24px;
+          font-weight: 500;
+          text-align: center;
+        }
+        .testimonial{
+          width: 248px;
+          margin-right: 34px;
+          height: 183px;
+          background: url(../img/nossa-producao/ballon.png) no-repeat left top;
+          float: left;
+          text-align: center;
+          padding: 30px 14px 30px 14px;
+          p{
+            font: 700 16px "Exo 2";
+            color: #961913;
+            @extend .truncate;
+            height: 93px;
+            font-weight: 600;
+          }
+          a{
+            color: #555555;
+            font-weight: 200;
+          }
+        }
+      }
+    }
+  }
+}
