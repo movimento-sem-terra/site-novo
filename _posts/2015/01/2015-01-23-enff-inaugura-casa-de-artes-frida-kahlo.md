@@ -54,7 +54,7 @@ images_hd: "http://farm9.staticflickr.com/8678/16161620550_2620623c1d_n.jpg"
 
 <p>&nbsp;</p>
 
-<p>Por Riquieli Capitani</p>
+<p><em>Por Riquieli Capitani</em></p>
 
 <p>Frida Kahlo, esse foi o nome dado a Casa das Artes, inaugurada na noite dessa quarta-feira (21/01), na Escola Nacional Florestan Fernandes (ENFF) em Guararema, S&atilde;o Paulo.</p>
 
