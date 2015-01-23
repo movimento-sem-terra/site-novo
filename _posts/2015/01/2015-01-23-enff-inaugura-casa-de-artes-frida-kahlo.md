@@ -65,7 +65,7 @@ images_hd: "http://farm9.staticflickr.com/8678/16161620550_2620623c1d_n.jpg"
 <p>&ldquo;Os materiais e o processo de constru&ccedil;&atilde;o, ambos s&atilde;o revolucion&aacute;rios, aqui n&oacute;s estamos fazendo uma critica ao capital do inicio ao fim, todos se inseriram no processo de planejamento, elabora&ccedil;&atilde;o e execu&ccedil;&atilde;o desse projeto. O tempo inteiro foi tudo coletivo, o que fez a obra rica, sem nenhuma ideia exploradora e alienada. Tudo aqui &eacute; resultado da forma socialista de constru&ccedil;&atilde;o&rdquo;. E acrescenta. &ldquo;Uma obra socialista e democr&aacute;tica&rdquo;</p>
 
 <figure class="image" style="float:left"><img alt="IMG_6831.JPG" height="280" src="http://farm9.staticflickr.com/8578/16347232151_355f65c048_b.jpg" width="419" />
-<figcaption>Interior da Casa das Artes</figcaption>
+<figcaption>Interior da Casa das Artes.</figcaption>
 </figure>
 
 <p>A casa constru&iacute;da pelo trabalho coletivo de militantes Sem Terra, integrantes da Brigada Nacional de Artes C&acirc;ndido Portinari, e da Brigada Apol&ocirc;nio de Carvalho, militantes que contribuem na ENFF, ficaram cerca de dez dias trabalhando para criar o cen&aacute;rio que pudesse remeter a &ldquo;Casa Azul de Frida&rdquo;, hoje um museu em sua homenagem, no M&eacute;xico.</p>
