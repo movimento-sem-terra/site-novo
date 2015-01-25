@@ -198,14 +198,12 @@ Anne Caroline, da Congrega&ccedil;&atilde;o de Notredame, dedicou o pr&ecirc;mio
 <figure class="image"><img alt="mauro.jpg" src="http://farm8.staticflickr.com/7438/16361565071_f3dbb6a69a_b.jpg" />
 <figcaption>Mauro Rubem &eacute; um militante social do povo goiano. Atuou desde jovem nas lutas sociais do direito &agrave; sa&uacute;de p&uacute;blica. Ajudou a organizar o MST, os sindicatos, a CUT e o PT.<br />
 Teve o reconhecimento do povo para ocupar diversos cargos p&uacute;blicos de vereador a deputado. Sofreu amea&ccedil;as e persegui&ccedil;&otilde;es por sua luta na causa dos direitos humanos e defesa dos mais humilhados em nossa sociedade.<br />
-Mas acima de tudo, sempre nos serviu de exemplo por sua dedica&ccedil;&atilde;o, sua humildade e compromisso com a classe trabalhadora.<br />
-</figcaption>
+Mas acima de tudo, sempre nos serviu de exemplo por sua dedica&ccedil;&atilde;o, sua humildade e compromisso com a classe trabalhadora.</figcaption>
 </figure>
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="marcelo.jpg" src="http://farm8.staticflickr.com/7460/15741272924_a9768cc651_b.jpg" />
-<figcaption>Marcelo Santa Cruz &eacute; um advogado pernambucano dos bons e brabos. &Eacute; reconhecido como defensor dos direitos humanos e da cidadania, sendo um dos fundadores do Movimento Nacional dos Direitos Humanos. Participou ativamente da luta pela Anistia aos perseguidos pol&iacute;ticos. Marcelo Santa Cruz &eacute; um dos membros da Comiss&atilde;o da Mem&oacute;ria, Justi&ccedil;a e Verdade. Sempre se apresentou como defensor jur&iacute;dico do MST e de seus militantes.<br />
-</figcaption>
+<figcaption>Marcelo Santa Cruz &eacute; um advogado pernambucano dos bons e brabos. &Eacute; reconhecido como defensor dos direitos humanos e da cidadania, sendo um dos fundadores do Movimento Nacional dos Direitos Humanos. Participou ativamente da luta pela Anistia aos perseguidos pol&iacute;ticos. Marcelo Santa Cruz &eacute; um dos membros da Comiss&atilde;o da Mem&oacute;ria, Justi&ccedil;a e Verdade. Sempre se apresentou como defensor jur&iacute;dico do MST e de seus militantes.</figcaption>
 </figure>
 </div>
 
@@ -214,22 +212,29 @@ Mas acima de tudo, sempre nos serviu de exemplo por sua dedica&ccedil;&atilde;o,
 <figure class="image"><img alt="pinheiro.jpg" src="http://farm8.staticflickr.com/7305/16362834332_8f644203b1_b.jpg" />
 <figcaption>Luiz Carlos Pinheiro &eacute; professor universit&aacute;rio e pesquisador. Um verdadeiro cientista popular, que colocou a pesquisa e a ci&ecirc;ncia a servi&ccedil;o dos interesses do povo. &Eacute; um dos nossos percursores da ci&ecirc;ncia da agroecologia. Difusor incans&aacute;vel das t&eacute;cnicas de produ&ccedil;&atilde;o de leite org&acirc;nico. &nbsp;&nbsp;<br />
 Sempre nos ajudou a construir o conhecimento e as t&eacute;cnicas, formando t&eacute;cnicos-militantes para que pud&eacute;ssemos ter uma agricultura sustent&aacute;vel e voltada para a produ&ccedil;&atilde;o de alimentos saud&aacute;veis.<br />
-Ele &eacute; um exemplo do cientista popular. E com orgulho o consideramos nosso militante.<br />
-</figcaption>
+Ele &eacute; um exemplo do cientista popular. E com orgulho o consideramos nosso militante.</figcaption>
 </figure>
 
 <figure class="image"><img alt="virginia.jpg" src="http://farm9.staticflickr.com/8647/16176351690_ab990b7ccf_b.jpg" />
 <figcaption>Virg&iacute;nia Fontes &eacute; professora, estudiosa, talvez tenha sido uma das primeiras doutoras que o MST teve. &nbsp;<br />
-Sempre usou seu conhecimento e sua sabedoria para multiplicar e democratizar o conhecimento entre mais e mais militantes. Estamos muito gratos por suas contribui&ccedil;&otilde;es em nossos cursos e nos mais diferentes espa&ccedil;os educacionais, que sempre se colocou na defesa dos trabalhadores. E da necess&aacute;ria reforma agr&aacute;ria radical.<br />
-</figcaption>
+Sempre usou seu conhecimento e sua sabedoria para multiplicar e democratizar o conhecimento entre mais e mais militantes. Estamos muito gratos por suas contribui&ccedil;&otilde;es em nossos cursos e nos mais diferentes espa&ccedil;os educacionais, que sempre se colocou na defesa dos trabalhadores. E da necess&aacute;ria reforma agr&aacute;ria radical.</figcaption>
 </figure>
 
-<p>&nbsp;</p>
+<p>Carta de Dom Pedro Casald&aacute;liga:</p>
+
+<p>Associamo-nos &agrave;s presen&ccedil;as t&atilde;o representativas para celebrar o trig&eacute;simo anivers&aacute;rio do MST e o d&eacute;cimo anivers&aacute;rio da Escola Nacional Florestan Fernades.</p>
+
+<p>Voc&ecirc;s fazem mem&oacute;ria que &eacute; um gesto indispens&aacute;vel para caminhar na hist&oacute;ria, assumida com responsabilidade cr&iacute;tica e autocr&iacute;tica. Recolhemos nesses 30 anos de MST desafios, vit&oacute;rias, fracassos, testemunhas de tantos irm&atilde;os e irm&atilde;s que tem dado, com a sofrida viv&ecirc;ncia di&aacute;ria e com um gesto do &quot;maior amor&quot; um passo decisivo para a sociedade alternativa que sonhamos.</p>
+
+<p>&Eacute; hora de retomar a bandeira de um MST apaixonado e em companhia das for&ccedil;as pol&iacute;ticas, sociais e culturais que assimilam o conselho do grande sert&atilde;o:</p>
+
+<p>Voc&ecirc;s sabem que o &quot;essencial &eacute; a travessia&quot;.</p>
+
+<p>Com um Esperan&ccedil;a inabal&aacute;vel sabemos qausa ue somos derrotados de uma c</p>
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="cristina.jpg" src="http://farm8.staticflickr.com/7292/15743762983_e6dcf38f32_b.jpg" />
-<figcaption>Cristina Bezerra &eacute; professora universit&aacute;ria, atuante e combativa nos prop&oacute;sitos da classe trabalhadora. Nos mostrou como o servi&ccedil;o social poderia deixar de ser assistencialismo para amenizar as maldades do capital, e transform&aacute;-lo em instrumento de liberta&ccedil;&atilde;o do capital. Sua sabedoria e capacidade de articula&ccedil;&atilde;o permitiu a que centenas de jovens camponeses, militantes da reforma agr&aacute;ria, pudessem frequentar a universidade brasileira. E aplica como ningu&eacute;m &agrave;s id&eacute;ias de Gramcsi, de que todas as trincheiras de sua luta s&atilde;o importantes, se estivermos do lado da classe trabalhadora.<br />
-</figcaption>
+<figcaption>Cristina Bezerra &eacute; professora universit&aacute;ria, atuante e combativa nos prop&oacute;sitos da classe trabalhadora. Nos mostrou como o servi&ccedil;o social poderia deixar de ser assistencialismo para amenizar as maldades do capital, e transform&aacute;-lo em instrumento de liberta&ccedil;&atilde;o do capital. Sua sabedoria e capacidade de articula&ccedil;&atilde;o permitiu a que centenas de jovens camponeses, militantes da reforma agr&aacute;ria, pudessem frequentar a universidade brasileira. E aplica como ningu&eacute;m &agrave;s id&eacute;ias de Gramcsi, de que todas as trincheiras de sua luta s&atilde;o importantes, se estivermos do lado da classe trabalhadora.</figcaption>
 </figure>
 </div>
 
@@ -242,23 +247,20 @@ Sempre usou seu conhecimento e sua sabedoria para multiplicar e democratizar o c
 <p>&nbsp;</p>
 
 <figure class="image"><img alt="olivio.jpg" src="http://farm8.staticflickr.com/7373/16363742535_6ec164b24d_b.jpg" />
-<figcaption>Ol&iacute;vio de Oliveira Dutra &eacute; um lutador social criado pelo povo ga&uacute;cho. Missioneiro, resgatou ao longo de sua vida, os ideais de liberta&ccedil;&atilde;o de seu conterr&acirc;neo Sep&eacute; Tiaraju. Como lutador social, militou nos sindicatos, ajudou a construir a CUT, o PT e teve presen&ccedil;a ass&iacute;dua nas lutas sociais do Rio Grande do Sul. Teve reconhecimento do povo e foi Prefeito de Porto Alegre e Governador do Estado. Mas para n&oacute;s &eacute; sobretudo um militante do MST.<br />
-</figcaption>
+<figcaption>Ol&iacute;vio de Oliveira Dutra &eacute; um lutador social criado pelo povo ga&uacute;cho. Missioneiro, resgatou ao longo de sua vida, os ideais de liberta&ccedil;&atilde;o de seu conterr&acirc;neo Sep&eacute; Tiaraju. Como lutador social, militou nos sindicatos, ajudou a construir a CUT, o PT e teve presen&ccedil;a ass&iacute;dua nas lutas sociais do Rio Grande do Sul. Teve reconhecimento do povo e foi Prefeito de Porto Alegre e Governador do Estado. Mas para n&oacute;s &eacute; sobretudo um militante do MST.</figcaption>
 </figure>
 
 <p>&nbsp;</p>
 
 <figure class="image"><img alt="boff.jpg" src="http://farm8.staticflickr.com/7444/16176136458_a82ae721f8_b.jpg" />
 <figcaption>Leonardo Boff &eacute; filho de camponeses no sul. Formou-se no esp&iacute;rito franciscano. Te&oacute;logo comprometido com a verdade, com o Deus verdadeiro e com o povo, enfrentou o conservadorismo das C&uacute;rias. N&atilde;o esmoreceu e continuou seu trabalho incans&aacute;vel. Um pensador da vida. Um pensador que nos ajuda a pensar. Um pensador que nos ajuda a lutar. Sempre esteve conosco nas lutas, nas alegrias e nos sofrimentos.<br />
-Oxal&aacute;, agora, o Papa Francisco, o jesu&iacute;ta, tamb&eacute;m possa escut&aacute;-lo.<br />
-</figcaption>
+Oxal&aacute;, agora, o Papa Francisco, o jesu&iacute;ta, tamb&eacute;m possa escut&aacute;-lo.</figcaption>
 </figure>
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="saul.jpg" src="http://farm8.staticflickr.com/7352/16363759435_145810e98d_b.jpg" />
 <figcaption>Saulo Ara&uacute;jo &eacute; um os fundadores e membros mais ativos do Comit&ecirc; de Amigos do MST nos EUA. A partir de sua atua&ccedil;&atilde;o no Comit&ecirc;, Saulo tem contribu&iacute;do com o MST e a luta pela Reforma Agraria no Brasil em v&aacute;rias frentes.<br />
-Atuar no seio do imp&eacute;rio &eacute; muito dif&iacute;cil. Mas Saulo n&atilde;o se acovardou e transformou sua vida na pr&aacute;tica permanente da mais bela qualidade do ser humano: a solidariedade. E essa solidariedade praticou n&atilde;o apenas com o MST e o povo brasileiro, mas tamb&eacute;m ajudando a Via Campesina e o povo do Haiti. Nosso reconhecimento.<br />
-</figcaption>
+Atuar no seio do imp&eacute;rio &eacute; muito dif&iacute;cil. Mas Saulo n&atilde;o se acovardou e transformou sua vida na pr&aacute;tica permanente da mais bela qualidade do ser humano: a solidariedade. E essa solidariedade praticou n&atilde;o apenas com o MST e o povo brasileiro, mas tamb&eacute;m ajudando a Via Campesina e o povo do Haiti. Nosso reconhecimento.</figcaption>
 </figure>
 </div>
 
