@@ -220,17 +220,25 @@ Ele &eacute; um exemplo do cientista popular. E com orgulho o consideramos nosso
 Sempre usou seu conhecimento e sua sabedoria para multiplicar e democratizar o conhecimento entre mais e mais militantes. Estamos muito gratos por suas contribui&ccedil;&otilde;es em nossos cursos e nos mais diferentes espa&ccedil;os educacionais, que sempre se colocou na defesa dos trabalhadores. E da necess&aacute;ria reforma agr&aacute;ria radical.</figcaption>
 </figure>
 
-<p>Carta de Dom Pedro Casald&aacute;liga:</p>
+<p style="line-height: 20.7999992370605px;"><strong>Carta de Dom Pedro Casald&aacute;liga:</strong><br />
+<br />
+<em>Companheiros e companheiras do MST</em></p>
 
-<p>Associamo-nos &agrave;s presen&ccedil;as t&atilde;o representativas para celebrar o trig&eacute;simo anivers&aacute;rio do MST e o d&eacute;cimo anivers&aacute;rio da Escola Nacional Florestan Fernades.</p>
+<p style="line-height: 20.7999992370605px; text-align: center;"><em>Associamo-nos &agrave;s presen&ccedil;as t&atilde;o representativas para celebrar o trig&eacute;simo anivers&aacute;rio do MST e o d&eacute;cimo anivers&aacute;rio da Escola Nacional Florestan Fernades.</em></p>
 
-<p>Voc&ecirc;s fazem mem&oacute;ria que &eacute; um gesto indispens&aacute;vel para caminhar na hist&oacute;ria, assumida com responsabilidade cr&iacute;tica e autocr&iacute;tica. Recolhemos nesses 30 anos de MST desafios, vit&oacute;rias, fracassos, testemunhas de tantos irm&atilde;os e irm&atilde;s que tem dado, com a sofrida viv&ecirc;ncia di&aacute;ria e com um gesto do &quot;maior amor&quot; um passo decisivo para a sociedade alternativa que sonhamos.</p>
+<p style="line-height: 20.7999992370605px; text-align: center;"><em>Voc&ecirc;s fazem mem&oacute;ria que &eacute; um gesto indispens&aacute;vel para caminhar na hist&oacute;ria, assumida com responsabilidade cr&iacute;tica e autocr&iacute;tica. Recolhemos nesses 30 anos de MST desafios, vit&oacute;rias, fracassos, testemunhas de tantos irm&atilde;os e irm&atilde;s que tem dado, com a sofrida viv&ecirc;ncia di&aacute;ria e com um gesto do &quot;maior amor&quot; um passo decisivo para a sociedade alternativa que sonhamos.</em></p>
 
-<p>&Eacute; hora de retomar a bandeira de um MST apaixonado e em companhia das for&ccedil;as pol&iacute;ticas, sociais e culturais que assimilam o conselho do grande sert&atilde;o:</p>
+<p style="line-height: 20.7999992370605px; text-align: center;"><em>&Eacute; hora de retomar a bandeira de um MST apaixonado e em companhia das for&ccedil;as pol&iacute;ticas, sociais e culturais que assimilam o conselho do grande sert&atilde;o:</em></p>
 
-<p>Voc&ecirc;s sabem que o &quot;essencial &eacute; a travessia&quot;.</p>
+<p style="line-height: 20.7999992370605px; text-align: center;"><em>Voc&ecirc;s sabem que o &quot;essencial &eacute; a travessia&quot;.</em></p>
 
-<p>Com um Esperan&ccedil;a inabal&aacute;vel sabemos qausa ue somos derrotados de uma c</p>
+<p style="line-height: 20.7999992370605px; text-align: center;"><em>Com um Esperan&ccedil;a inabal&aacute;vel sabemos que somos derrotados de uma causa invenc&iacute;vel.</em></p>
+
+<p style="line-height: 20.7999992370605px; text-align: center;"><em>Eu pe&ccedil;o para voc&ecirc;s, para todos os que estamos em caminhada, a b&ecirc;n&ccedil;&atilde;o do Deus da Terra, da Vida e do Amor.</em></p>
+
+<p style="line-height: 20.7999992370605px; text-align: center;"><em>Pedro</em></p>
+
+<p style="line-height: 20.7999992370605px;"><em>S&atilde;o F&eacute;lix do Araguaia, 20 de janeiro de 2015</em></p>
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="cristina.jpg" src="http://farm8.staticflickr.com/7292/15743762983_e6dcf38f32_b.jpg" />
