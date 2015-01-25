@@ -109,7 +109,9 @@ images_hd: "http://farm9.staticflickr.com/8612/16175618518_5129c3830c_n.jpg"
 <p><img alt="geral.jpg" src="http://farm9.staticflickr.com/8612/16175618518_5129c3830c_b.jpg" /></p>
 
 <p><em>Por Luiz Felipe Albuquerque<br />
-Da P&aacute;gina do MST</em></p>
+Da P&aacute;gina do MSTdile</em></p>
+
+<p><em>Fotos: Rafael Ste</em></p>
 
 <p><br />
 Cerca de 600 pessoas participaram do pr&ecirc;mio Luta pela Terra, realizado neste s&aacute;bado (24) na Escola Nacional Florestan Fernandes (ENFF), em Guararema (SP).</p>
@@ -123,7 +125,7 @@ O pr&ecirc;mio &eacute; conferido pelo MST em datas significativas a pessoas que
 <figcaption></figcaption>
 </figure>
 
-<p>Sua &uacute;ltima edi&ccedil;&atilde;o aconteceu em 2009, no per&iacute;odo de celebra&ccedil;&atilde;o de 25 anos do MST. Agora, os Sem Terra realizam novamente o pr&ecirc;mio ao celebrar o 30&deg; anivers&aacute;rio do Movimento, completados em 2014.&nbsp;</p>
+<p>Sua &uacute;ltima edi&ccedil;&atilde;o aconteceu em 2009, no per&iacute;odo de celebra&ccedil;&atilde;o de 25 anos do MST. Agora, os Sem Terra realizam novamente o pr&ecirc;mio ao celebrar o 30&deg; anivers&aacute;rio do Movimento, completado&nbsp;em 2014.&nbsp;</p>
 
 <p><br />
 Nesta 7&deg; edi&ccedil;&atilde;o, 22 nomes foram homenageados, reconhecendo o trabalho de diversos lutadores e lutadoras do povo brasileiro.</p>
@@ -168,7 +170,7 @@ Para Jo&atilde;o Paulo Rodrigues, da coordena&ccedil;&atilde;o nacional do MST, 
 Ao falar sobre a Reforma Agr&aacute;ria Popular, Rodrigues atentou para seu principal componente: a luta. &ldquo;A luta &eacute; que vai nos permitir formar novos quadros, enfrentar o estado burgu&ecirc;s e fazer alian&ccedil;as com outros setores. Esse &eacute; o compromisso do nosso Movimento com os amigos e companheiros que est&atilde;o aqui&rdquo;.</p>
 
 <p><br />
-E finalizou ao lembrar que o MST se prop&ocirc;s o desafio &ldquo;de transformar o ano de 2015 no ano da forma&ccedil;&atilde;o pol&iacute;tica no MST. Uma combina&ccedil;&atilde;o de tr&ecirc;s elementos: a organiza&ccedil;&atilde;o pol&iacute;tica, o estudo e a participa&ccedil;&atilde;o na luta, porque essa &eacute; nossa principal universidade: a ocupa&ccedil;&atilde;o de terra&rdquo;.</p>
+E finalizou ao lembrar que o MST se prop&ocirc;s o desafio &ldquo;de transformar o ano de 2015 no ano da forma&ccedil;&atilde;o pol&iacute;tica no Movimento. Uma combina&ccedil;&atilde;o de tr&ecirc;s elementos: a organiza&ccedil;&atilde;o pol&iacute;tica, o estudo e a participa&ccedil;&atilde;o na luta, porque essa &eacute; nossa principal universidade: a ocupa&ccedil;&atilde;o de terra&rdquo;.</p>
 
 <p><br />
 <strong>Premiados</strong></p>
@@ -189,7 +191,7 @@ O professor Luiz Carlos Pinheiro Machado lembrou que &ldquo;todos esses anos de 
 J&aacute; Cristina Bezerra, da Universidade Federal de Juiz de Fora, destacou &ldquo;o quanto a universidade ganhou com a entrada do MST nesse espa&ccedil;o&rdquo;, e que o Movimento, assim como a ENFF, &ldquo;s&atilde;o nossos nortes, e a eles que devemos e com eles que temos que nos comprometer&rdquo;.</p>
 
 <p><br />
-Anne Caroline, da Congrega&ccedil;&atilde;o de Notredame, dedicou o pr&ecirc;mio &ldquo;a todos os que est&atilde;o ao lado do MST&rdquo;, e lembrou que este ano tamb&eacute;m se completam 5 anos do assassinado da Irm&atilde; Dorothy, e que devemos enfrentar a injusti&ccedil;a com a amor, e n&atilde;o com armas.</p>
+Anne Caroline, da Congrega&ccedil;&atilde;o de Notredame, dedicou o pr&ecirc;mio &ldquo;a todos os que est&atilde;o ao lado do MST&rdquo;, e lembrou que este ano tamb&eacute;m se completam 5 anos do assassinado da Irm&atilde; Dorothy, e que devemos enfrentar a injusti&ccedil;a com amor, e n&atilde;o com armas.</p>
 
 <figure class="image"><img alt="seu luiz.jpg" src="http://farm8.staticflickr.com/7454/16177408547_53017cb24a_b.jpg" />
 <figcaption>Seu Luis Beltrame, o Sem Terra mais velho do pa&iacute;s com 106 anos.</figcaption>
