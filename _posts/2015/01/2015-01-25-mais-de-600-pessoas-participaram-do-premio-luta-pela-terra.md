@@ -109,9 +109,9 @@ images_hd: "http://farm9.staticflickr.com/8612/16175618518_5129c3830c_n.jpg"
 <p><img alt="geral.jpg" src="http://farm9.staticflickr.com/8612/16175618518_5129c3830c_b.jpg" /></p>
 
 <p><em>Por Luiz Felipe Albuquerque<br />
-Da P&aacute;gina do MSTdile</em></p>
+Da P&aacute;gina do MST</em></p>
 
-<p><em>Fotos: Rafael Ste</em></p>
+<p><em>Fotos: Rafael Stedile</em></p>
 
 <p><br />
 Cerca de 600 pessoas participaram do pr&ecirc;mio Luta pela Terra, realizado neste s&aacute;bado (24) na Escola Nacional Florestan Fernandes (ENFF), em Guararema (SP).</p>
