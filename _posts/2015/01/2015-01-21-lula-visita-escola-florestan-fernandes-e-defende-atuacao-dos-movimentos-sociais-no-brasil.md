@@ -5,9 +5,9 @@ tags:
   - tag: ENFF
   - tag: Reforma-Agrária
 title: Lula visita ENFF e defende atuação dos movimentos sociais no Brasil
-support_line: "“Esta Escola é exemplar e o MST está de parabéns pelo sucesso alcançado. Continuem formando quadros para as mudanças que o país tanto precisa”, afirmou."
+support_line: “Esta Escola é exemplar. Continuem formando quadros para as mudanças que o país tanto precisa”.
 menu: reforma agrária
-section: cover
+section: featured-news
 layout: post
 files:
   - link: "http://farm8.staticflickr.com/7540/16333528841_5190d64c5f_b.jpg"
