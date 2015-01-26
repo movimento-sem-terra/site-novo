@@ -4,7 +4,7 @@ tags:
   - tag: Reforma-Agrária
   - tag: ruralistas
 support_line: "\"A discussão sobre a função social da propriedade, por outro lado, só retrocedeu nos últimos 30 anos\", escreve Gustavo Noronha."
-title: "Com maioria na câmara, Reforma Agrária causa aversão aos ruralistas"
+title: "Com maioria na câmara, ruralistas criam aversão à Reforma Agrária"
 menu: reforma agrária
 layout: post
 files:
