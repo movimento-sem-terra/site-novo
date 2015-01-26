@@ -70,10 +70,10 @@ Somente uma reforma agr&aacute;ria radical pode promover a ruptura com o poderio
 No Manifesto do Partido Comunista, Marx e Engels colocaram:</p>
 
 <p><br />
-Ficais horrorizados por querermos abolir a propriedade privada. Mas na vossa sociedade atual a propriedade privada est&aacute; abolida para nove d&eacute;cimos dos seus membros. &Eacute; precisamente porque n&atilde;o existe para esses nove d&eacute;cimos que ele existe para v&oacute;s. Reprovai-nos, pois, o querer abolir uma forma de propriedade que s&oacute; pode existir na condi&ccedil;&atilde;o da imensa maioria da sociedade ser privada de qualquer propriedade.</p>
+<em>Ficais horrorizados por querermos abolir a propriedade privada. Mas na vossa sociedade atual a propriedade privada est&aacute; abolida para nove d&eacute;cimos dos seus membros. &Eacute; precisamente porque n&atilde;o existe para esses nove d&eacute;cimos que ele existe para v&oacute;s. Reprovai-nos, pois, o querer abolir uma forma de propriedade que s&oacute; pode existir na condi&ccedil;&atilde;o da imensa maioria da sociedade ser privada de qualquer propriedade.</em></p>
 
 <p><br />
-Numa palavra, acusais-nos de querer abolir a vossa propriedade. Na verdade, &eacute; isso que queremos.</p>
+<em>Numa palavra, acusais-nos de querer abolir a vossa propriedade. Na verdade, &eacute; isso que queremos.</em></p>
 
 <p><br />
 N&atilde;o estamos sendo t&atilde;o radicais: quando defendemos a reforma agr&aacute;ria, buscamos apenas a universaliza&ccedil;&atilde;o do direito de propriedade no campo.</p>
