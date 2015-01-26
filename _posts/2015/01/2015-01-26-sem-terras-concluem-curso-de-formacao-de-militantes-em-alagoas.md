@@ -4,7 +4,7 @@ tags:
   - tag: Formação
   - tag: Alagoas
   - tag: Reforma-Agrária
-title: Sem Terras concluem curso de formação de militantes em Alagoas
+title: Sem Terra concluem curso de formação de militantes em Alagoas
 support_line: "O curso aconteceu em duas etapas, e trouxe aos militantes os desafios e os elementos fundamentais na construção e na luta pela Reforma Agrária Popular."
 menu: "educação, cultura e comunicação"
 layout: post
