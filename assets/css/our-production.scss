@@ -1,18 +1,28 @@
 ---
 ---
 
+@import "../bourbon/bourbon";
+$visual-grid: yes;
+@import "../neat/neat";
+@import "../_sass/variables";
+
+
 //EXTENDS
 .center{
   max-width: 1020px;
   margin: 0 auto;
+}
+.default-container{
+  @include outer-container;
+  @extend .center;
 }
 .text-with-shadow{
   text-shadow: 1px 2px 1px #000000;
   font-family: 'Exo 2';
   color: #ffffff;
   font-weight: 500;
-
 }
+
 .title-with-shadow{
   text-shadow: 1px 2px 4px #000000;
   color: #ffffff;
@@ -22,8 +32,8 @@
   overflow: hidden;
   text-overflow: ellipsis;
 }
+//END
 
-//END Of EXTENDS
 
 #our-production {
   padding: 0;
@@ -39,7 +49,8 @@
     -webkit-background-size: cover;
 
     .content {
-      @extend .center;
+      @extend .default-container;
+      margin-top: 49px;
       & > p{
         font-size: 18px;
         @extend .text-with-shadow;
@@ -49,36 +60,49 @@
         color: #ffffff;
         font-size: 36px;
         color: #ffffff;
+        font-style: italic;
       }
+
       #summary {
+        @include span-columns(6);
         overflow: hidden;
-        width: 377px;
         float: left;
-        margin-right: 43px;
         p {
+          @extend .title-with-shadow;
           font: 500 18px / 24px;
           color: #ffffff;
+          font-weight: 200;
         }
       }
       #testimonials{
+        @include span-columns(6);
+        text-align: center;
+
         h4{
           @extend .title-with-shadow;
           font-size: 24px;
-          font-weight: 500;
+          font-weight: 200;
+          letter-spacing: 1px;
           text-align: center;
+          margin: 0 0 14px 0px;
         }
+
         .testimonial{
           width: 248px;
-          margin-right: 34px;
           height: 183px;
           background: url(../img/nossa-producao/ballon.png) no-repeat left top;
           float: left;
           text-align: center;
           padding: 30px 14px 30px 14px;
+
+          &:first-of-type{
+            margin-right: 22px;
+          }
+
           p{
-            font: 700 16px "Exo 2";
-            color: #961913;
             @extend .truncate;
+            font: 700 16px "Exo 2";
+            color: $mst-red;
             height: 93px;
             font-weight: 600;
           }
@@ -90,4 +114,46 @@
       }
     }
   }
+
+  #highlights{
+    background-color: $mst-red;
+    width: 100%;
+    min-height: 110px;
+    .content{
+      @extend .default-container;
+
+      h5#brasil{
+        @extend .title-with-shadow;
+        @include span-columns(3);
+        font-size: 60px;
+        float: left;
+        font-style: italic;
+        margin-top: 0;
+        margin-bottom: 0;
+        min-width: 235px;
+      }
+      #infos{
+        @include span-columns(9);
+        .info{
+          text-align: center;
+          @include span-columns(3 of 9);
+          p{
+            font-size: 19px;
+            color: #da6164;
+            margin-top: 7px;
+            strong{
+              @extend .text-with-shadow;
+              margin-bottom: -12px;
+              font-size: 37px;
+              font-weight: 700;
+              display: block;
+
+            }
+          }
+        }
+      }
+
+    }
+  }
+
 }
