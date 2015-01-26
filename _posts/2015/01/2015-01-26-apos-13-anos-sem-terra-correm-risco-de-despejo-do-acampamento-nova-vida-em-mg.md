@@ -4,7 +4,7 @@ tags:
   - tag: despejo
   - tag: minas-gerais
   - tag: reforma-agrária
-title: "Após 13 anos, Sem Terra correm risco de despejo do Acampamento Nova Vida, em MG"
+title: "Após 13 anos, famílias correm risco de despejo do Acampamento Nova Vida, em MG"
 support_line: A área de 340 hectares abriga 32 famílias e produz alta quantidade de alimentos orgânicos para os municípios da região.
 menu: direitos humanos
 layout: post
