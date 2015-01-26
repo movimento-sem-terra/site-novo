@@ -17,6 +17,7 @@ files:
 created_date: "2015-01-26T13:10:14-02:00"
 published: true
 images_hd: "http://farm8.staticflickr.com/7281/16185403938_22b35a37b9_n.jpg"
+label: articles
 
 ---
 <p><br />
