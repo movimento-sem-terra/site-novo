@@ -6,7 +6,7 @@ tags:
 title: MST realiza prêmio Luta pela Terra e homenageia 22 lutadores
 support_line: "Mais de 600 pessoas participaram da premiação, que é conferido em datas significativas a pessoas que se destacaram em defesa das lutas camponesas."
 menu: reforma agrária
-section: cover
+section: featured-news
 layout: post
 files:
   - link: "http://farm9.staticflickr.com/8612/16175618518_5129c3830c_b.jpg"
