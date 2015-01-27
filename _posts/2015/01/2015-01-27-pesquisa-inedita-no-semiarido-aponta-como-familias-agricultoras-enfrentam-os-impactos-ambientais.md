@@ -22,9 +22,15 @@ files:
     small: "http://farm8.staticflickr.com/7373/16380230751_a6198e43c0_n.jpg"
     title: pesquisa_semiarido2_capa.jpg
     $$hashKey: 11H
+  - link: "http://farm8.staticflickr.com/7290/16382052425_6f9cdb10ce_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7290/16382052425_6f9cdb10ce_t.jpg"
+    medium: "http://farm8.staticflickr.com/7290/16382052425_6f9cdb10ce_z.jpg"
+    small: "http://farm8.staticflickr.com/7290/16382052425_6f9cdb10ce_n.jpg"
+    title: "pesquisa_semiarido2_capa!.jpg"
+    $$hashKey: 18G
 created_date: "2015-01-27T15:44:51-02:00"
 published: true
-images_hd: "http://farm8.staticflickr.com/7373/16380230751_a6198e43c0_n.jpg"
+images_hd: "http://farm8.staticflickr.com/7290/16382052425_6f9cdb10ce_n.jpg"
 
 ---
 <p><br />
@@ -69,4 +75,4 @@ De acordo com Paulo Petersen, da AS-PTA, uma das entidades que coordena a pesqui
 A pesquisa busca a sistematiza&ccedil;&atilde;o de pr&aacute;ticas acumuladas pelos agricultores e agricultoras e o mapeamento das estrat&eacute;gias adotadas para a conviv&ecirc;ncia com o semi&aacute;rido. O projeto utiliza a metodologia de pesquisa participativa, incentivando que os pr&oacute;prios atores realizem as avalia&ccedil;&otilde;es de resili&ecirc;ncia dos agroecossistemas. &Eacute; uma experi&ecirc;ncia de pesquisa in&eacute;dita que re&uacute;ne uma rede formada por organiza&ccedil;&otilde;es sociais, um centro de pesquisa em ci&ecirc;ncia, tecnologia e inova&ccedil;&atilde;o para o Semi&aacute;rido brasileiro e os pr&oacute;prios agricultores experimentadores. Deste modo, inaugura na regi&atilde;o uma estrat&eacute;gia sem precedentes de mapear, construir e aperfei&ccedil;oar conhecimentos, visando subsidiar a formula&ccedil;&atilde;o de pol&iacute;ticas p&uacute;blicas.</p>
 
 <p><br />
-Paulo Petersen destaca a pesquisa como um processo de constru&ccedil;&atilde;o do conhecimento que envolve diversas entidades da agricultura familiar, e o desafio de que os resultados levantados possam influenciar as politicas p&uacute;blicas. &quot;Nosso desafio &eacute; entender as estrat&eacute;gias das fam&iacute;lias e tirar ensinamentos que possam inspirar a formula&ccedil;&atilde;o de pol&iacute;ticas que sejam sens&iacute;veis ao que as experi&ecirc;ncias est&atilde;o dizendo&rdquo;, conclui</p>
+Paulo Petersen destaca a pesquisa como um processo de constru&ccedil;&atilde;o do conhecimento que envolve diversas entidades da agricultura familiar, e o desafio de que os resultados levantados possam influenciar as politicas p&uacute;blicas. &quot;Nosso desafio &eacute; entender as estrat&eacute;gias das fam&iacute;lias e tirar ensinamentos que possam inspirar a formula&ccedil;&atilde;o de pol&iacute;ticas que sejam sens&iacute;veis ao que as experi&ecirc;ncias est&atilde;o dizendo&rdquo;, conclui.</p>
