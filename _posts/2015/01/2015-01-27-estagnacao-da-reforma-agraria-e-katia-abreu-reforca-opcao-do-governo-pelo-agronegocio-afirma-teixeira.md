@@ -10,21 +10,23 @@ menu: reforma agrária
 label: interviews
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8586/16378391601_5de1229046_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8586/16378391601_5de1229046_t.jpg"
-    medium: "http://farm9.staticflickr.com/8586/16378391601_5de1229046_z.jpg"
-    small: "http://farm9.staticflickr.com/8586/16378391601_5de1229046_n.jpg"
-    title: agroecologia.gif
-    $$hashKey: 04D
+  - link: "http://farm8.staticflickr.com/7371/16193897419_5f03d82de2_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7371/16193897419_5f03d82de2_t.jpg"
+    medium: "http://farm8.staticflickr.com/7371/16193897419_5f03d82de2_z.jpg"
+    small: "http://farm8.staticflickr.com/7371/16193897419_5f03d82de2_n.jpg"
+    title: estagnação.jpg
+    $$hashKey: 02K
 created_date: "2015-01-27T10:34:56-02:00"
 published: true
-images_hd: "http://farm9.staticflickr.com/8586/16378391601_5de1229046_n.jpg"
+images_hd: "http://farm8.staticflickr.com/7371/16193897419_5f03d82de2_n.jpg"
 
 ---
-<p>&nbsp;
+<p>&nbsp;</p>
+
 <p><em>Por Ricardo Machado e Jo&atilde;o Vitor Santos<br />
 Da IHU On-Line</em></p>
-</p>
+
+<p>&nbsp;</p>
 
 <p><br />
 Passados 12 anos do governo petista, pouco ou quase nada se avan&ccedil;ou no tema reforma agr&aacute;ria. Agora, em nome do presidencialismo de coaliz&atilde;o, o novo governo Dilma inicia com aliados que sempre foram &iacute;cones na defesa do agroneg&oacute;cio &ndash; vide a ministra da Agricultura K&aacute;tia Abreu. Diante desse cen&aacute;rio, &eacute; poss&iacute;vel ainda acreditar em avan&ccedil;os nos temas relacionados &agrave; posse da terra?</p>
