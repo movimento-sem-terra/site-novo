@@ -2,6 +2,7 @@ var AskForm = {
   init: function() {
     this.initForm();
   },
+
   initForm: function(){
 
     function validateEmail(val){
@@ -22,7 +23,6 @@ var AskForm = {
     }
 
     var form = $('section.ask-us form');
-
     form.on('submit', function(e){
 
       var loading = form.parent().find('.loading');

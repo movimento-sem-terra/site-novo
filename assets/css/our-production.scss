@@ -3,8 +3,12 @@
 
 @import "../bourbon/bourbon";
 $visual-grid: yes;
+$visual-grid-color: red;
 @import "../neat/neat";
 @import "../_sass/variables";
+@import "../_sass/_includes/spinner";
+@import "../_sass/_includes/ask-us";
+
 
 
 //EXTENDS
@@ -12,6 +16,7 @@ $visual-grid: yes;
   max-width: 1020px;
   margin: 0 auto;
 }
+
 .default-container{
   @include outer-container;
   @extend .center;
@@ -35,9 +40,11 @@ $visual-grid: yes;
 //END
 
 
+
 #our-production {
   padding: 0;
   width: 100%;
+  background-color: #f8f8f9;
 
   #about {
     padding-bottom: 36px;
@@ -52,14 +59,13 @@ $visual-grid: yes;
       @extend .default-container;
       margin-top: 49px;
       & > p{
-        font-size: 18px;
+
         @extend .text-with-shadow;
+        font-size: 18px;
       }
       h2 {
         @extend .title-with-shadow;
-        color: #ffffff;
         font-size: 36px;
-        color: #ffffff;
         font-style: italic;
       }
 
@@ -124,14 +130,16 @@ $visual-grid: yes;
 
       h5#brasil{
         @extend .title-with-shadow;
-        @include span-columns(3);
+        @include span-columns(2);
         font-size: 60px;
         float: left;
         font-style: italic;
         margin-top: 0;
         margin-bottom: 0;
         min-width: 235px;
+        text-align: center;
       }
+
       #infos{
         @include span-columns(9);
         .info{
@@ -152,8 +160,215 @@ $visual-grid: yes;
           }
         }
       }
+    }
+  }
+
+  #news-production{
+    padding-top: 0;
+    height: 100%;
+
+    section{
+      padding-top: 0px;
+    }
+
+    .news{
+      margin-bottom: 24px;
+      img{
+        float: left;
+        margin-right: 10px;
+      }
+    }
+
+    a {
+      font-size: 18px;
+      color: #555555;
+      line-height: 18px;
+      font-weight: 700;
+      span.support-line{
+        font-weight: 500;
+        display: block;
+        font-size: 16px;
+      }
+    }
+
+    h4{
+      margin: 23px 0 22px 0;
+      font-size: 24px;
+      color: #555555;
+      font-weight: 900;
+    }
+
+    & > .content{
+      @extend .default-container;
+      border-bottom: solid 1px $mst-green;
+
+    }
+
+    #latest-news{
+      @include span-columns(3);
+      #more-news{
+        border-radius: 5px;
+        background-color: $mst-green;
+        color: #fff;
+        widows: 100%;
+        text-align: center;
+        display: block;
+        width: 100%;
+        padding: 10px 30px;
+        text-decoration: none;
+        @include transition(background-color 0.4s ease-out);
+
+        &:hover{
+          background-color: $mst-red;
+        }
+      }
+    }
+
+    #others-container{
+      @include span-columns(9);
+      border-left: solid 1px #b7b7b7;
+      min-height: 572px;
+
+      #keep-an-eye{
+        padding-left: 16px;
+        @include span-columns(4 of 9);
+        img{
+          display: block;
+          margin-bottom: 5px;
+        }
+      }
+
+
+      #others{
+        @include span-columns(5 of 9);
+        @include omega();
+      }
+
+      .news{
+        @include span-columns(3 of 9);
+        .support-line{
+          font-size: 15px;
+          font-weight: 200;
+        }
+
+        a{
+          font-size: 15px;
+        }
+        img{
+          margin-bottom: 5px;
+        }
+      }
+
+      .ask-us{
+        @extend .ask-us-default;
+        @include span-columns(9 of 9);
+        padding-bottom: 10px;
+        border-top: solid 1px #b7b7b7;
+        background-color: transparent;
+        padding-left: 16px;
+
+        form .form-input{
+          &.email{
+            @include span-columns(4);
+          }
+          &.question{
+            @include span-columns(4);
+          }
+        }
+
+        form input{
+          border: solid 1px #b7b7b7;
+          &[type="email"], &[type="text"]{
+            width: 100%;
+            margin-right: 0px;
+          }
+          &[type="submit"]{
+            @include span-columns(2);
+            background-color: $mst-green;
+          }
+        }
+        form label{
+          width: 100%;
+          color: #555555;
+          font-style: normal;
+          margin-top: 15px;
+          margin-bottom: 10px;
+        }
+        .content{
+          padding: 0px;
+        }
+      }
 
     }
   }
 
+  #settlement{
+    .content{
+      @extend .default-container;
+      margin-top: 20px;
+
+      h3{
+        font-size: 34px;
+        color: #555555;
+        margin-bottom: 34px;
+      }
+
+      #text{
+        @include span-columns(5);
+      }
+
+      #gallery{
+        @include shift(1);
+        @include span-columns(6);
+        overflow: hidden;
+
+        figure{
+          position: relative;
+          margin: 0;
+          text-align: center;
+
+          legend{
+            display: block;
+            margin: 0 auto;
+            margin-top: 12px;
+          }
+
+          strong{
+            display: block;
+          }
+          .loading{
+            position: absolute;
+            top: 40%;
+            left: 50%;
+            margin-left: -20px;
+
+            .spinner{
+              @extend .spinner-default;
+              .path{
+                stroke: #000;
+              }
+            }
+          }
+        }
+
+        ul{
+          overflow: hidden;
+          width: 800px;
+          margin-top: 24px;
+
+          li{
+            float: left;
+            margin-left: 5px;
+            a{
+              border: solid 1px #fff;
+              &:open{
+                border: solid 1px $mst-red;
+              }
+            }
+          }
+        }
+
+      }
+    }
+  }
 }

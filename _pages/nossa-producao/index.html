@@ -2,126 +2,24 @@
 layout: default
 title: Nossa Produção
 styles: "our-production.css"
+scripts: ["velocity.min.js", "about-us/ask-form.js", "our-production/gallery.js"]
 ---
-
 <main id="our-production">
   <div id="container">
     <section id="about">
-      <div class="content">
-        <h2>Nossa Produção</h2>
-        <div id="summary">
-          <p>Uma das nossas principais contribuições para a sociedade brasileira é cumprir nosso compromisso em produzir alimentos saudáveis para o povo brasileiro. Fruto da organização de cooperativas, associações e agroindústrias nos assentamentos, procuramos desenvolver a cooperação agrícola como um ato concreto de ajuda mútua que fortaleça a solidariedade e potencialize as condições de produção das famílias assentadas, e que também melhorem a renda e as condições do trabalho no campo.</p>
-        </div>
-
-        <div id="testimonials">
-          <h4>Veja como nossa produção mudou histórias</h4>
-          <div class="testimonial">
-            <p>Soubemos que essa terra aqui era improdutiva que era terra devoluta e tudo.E a gente, naquela e necessidade...</p>
-            <a href="#">Saiba mais sobre <strong>Seu José</strong></a>
-          </div>
-
-          <div class="testimonial">
-            <p>Soubemos que essa terra aqui era improdutiva que era terra devoluta e tudo.E a gente, naquela e necessidade...</p>
-            <a href="#">Saiba mais sobre <strong>Seu José</strong></a>
-          </div>
-        </div>
-      </div>
+      {% include our-production/about.html %}
     </section>
+
     <section id="highlights">
-      <div class='content'>
-        <h5 id="brasil">Brasil</h5>
-        <div id='infos'>
-          <div class='info'>
-            <p><strong>100</strong>cooperativas</p>
-          </div>
-
-          <div class="info">
-            <p><strong>1,9 mil</strong> associações</p>
-          </div>
-
-          <div class="info">
-            <p><strong>350 mil</strong> famílias assentadas</p>
-          </div>
-        </div>
-      </div>
+     {% include our-production/highlights.html %}
     </section>
-    <section id="news">
-      <section id="last-news">
-        <h4>Últimas notícias</h4>
-        <div class="news">
-          <a href="#">
-            <span class="title">Compromisso com a sociedade</span>
-            <span class="support-line">Uma das nossas principais contribuições para a sociedade é...</span>
-          </a>
-        </div>
-        <div class="news">
-          <a href="#">
-            <img src="http://dummyimage.com/81x53/000000/fff" />
-            <span class="title">Compromisso com a sociedade</span>
-            <span class="support-line">Uma das nossas principais contribuições para a sociedade é...</span>
-          </a>
-        </div>
-        <div class="news">
-          <a href="#">
-            <img src="http://dummyimage.com/81x53/000000/fff" />
-            <span class="title">Compromisso com a sociedade</span>
-            <span class="support-line">Uma das nossas principais contribuições para a sociedade é...</span>
-          </a>
-        </div>
-        <a id="more-news">Mais notícias</a>
-      </section>
-      <section id="keep-an-eye">
-        <h4>Fique de olho</h4>
-        <a href="#">
-          <img src="http://dummyimage.com/300x200/000000/fff" />
-          <span class="title">Fim da fome</span>
-          <span class="support-line">Programa de aquisição de alimentos são avaliados por movimentos</span>
-        </a>
-      </section>
 
-      <section id="others">
-        <section id="by-brazil">
-          <div class="news">
-            <a href="#">
-              <img src="http://dummyimage.com/81x53/000000/fff" />
-              <span class="title">Compromisso com a sociedade</span>
-              <span class="support-line">Uma das nossas principais contribuições para a sociedade é...</span>
-            </a>
-          </div>
-          <div class="news">
-            <a href="#">
-              <img src="http://dummyimage.com/81x53/000000/fff" />
-              <span class="title">Compromisso com a sociedade</span>
-              <span class="support-line">Uma das nossas principais contribuições para a sociedade é...</span>
-            </a>
-          </div>
-          <div class="news">
-            <a href="#">
-              <img src="http://dummyimage.com/81x53/000000/fff" />
-              <span class="title">Compromisso com a sociedade</span>
-              <span class="support-line">Uma das nossas principais contribuições para a sociedade é...</span>
-            </a>
-          </div>
-        </section>
-        <section id="our-historic">
-          <div class="news">
-            <a href="#">
-              <img src="http://dummyimage.com/81x53/000000/fff" />
-              <span class="title">Compromisso com a sociedade</span>
-            </a>
-          </div>
-        </section>
-      </section>
-  </div>
+    <section id="news-production">
+      {% include our-production/news-production.html %}
+    </section>
 
-  <section id="settlement">
-    <div class="content">
-      <h3>Assentamentos pelo Brasil</h3>
-      <p>O assentamento é um espaço para o conjunto de famílias camponesas viverem, trabalhar e produzir, dando uma função social a terra e garantindo um futuro melhor à população. A vida no assentamento garante às famílias direitos sociais que não são garantidos a todo o povo brasileiro, como casa, escola e comida.</p>
-      <p>O impacto da criação de um assentamento marca a vida de um município, tanto do ponto de vista social como econômico. Em primeiro lugar, a terra ganha uma função social. Em segundo lugar, um conjunto de famílias ganha instrumentos para a sua sobrevivência. Depois de um período, constroem a casa, conquistam a escola e começam a produzir. A produção garante o abastecimento de alimentos aos moradores das pequenas cidades e gera renda às famílias assentadas.</p>
-      <p>Buscamos, em cada assentamento, desenvolver uma mentalidade e uma atitude de Soberania Alimentar, compreendendo que a nossa função social é produzir alimentos, sendo esta a nossa primeira tarefa histórica, eliminando a fome do meio das famílias camponesas.</p>
-    </div>
-    <img src="http://dummyimage.com/538x359/000000/fff" />
-  </section>
+    <section id="settlement">
+      {% include our-production/settlement.html %}
+    </section>
   </div>
 </main>
