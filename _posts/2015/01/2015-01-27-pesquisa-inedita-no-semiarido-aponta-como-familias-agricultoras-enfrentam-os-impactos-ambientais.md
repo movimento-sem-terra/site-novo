@@ -5,7 +5,7 @@ tags:
   - tag: nordeste
   - tag: agricultura
   - tag: meio-ambiente
-title: Pesquisa inédita no Semiárido aponta como famílias agricultoras enfrentam os impactos ambientais
+title: Pesquisa inédita no Semiárido aponta como agricultores enfrentam a seca
 menu: agricultura camponesa
 support_line: "Mesmo no período da pior seca dos últimos 50 anos, famílias conseguiram manter o mesmo número de animais."
 layout: post
@@ -27,13 +27,14 @@ published: true
 images_hd: "http://farm8.staticflickr.com/7373/16380230751_a6198e43c0_n.jpg"
 
 ---
-<p>&nbsp;</p>
-
-<p><em>Da Adital</em></p>
+<p><br />
+&nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="pesquisa_semiarido2_capa.jpg" src="http://farm8.staticflickr.com/7373/16380230751_a6198e43c0_b.jpg" />
 <figcaption></figcaption>
 </figure>
+
+<p><em>Da Adital</em></p>
 
 <p><br />
 Desde 2013, uma pesquisa vem acompanhando a trajet&oacute;ria de vida de 100 fam&iacute;lias, distribu&iacute;das em 10 territ&oacute;rios dos nove estados do Semi&aacute;rido brasileiro. O objetivo &eacute; identificar as estrat&eacute;gias ecol&oacute;gicas e sociais implementadas pelos agricultores e agricultoras que lhes t&ecirc;m possibilitado resistir e/ou recuperar-se de impactos ambientais extremos, como a desertifica&ccedil;&atilde;o, as mudan&ccedil;as clim&aacute;ticas e os per&iacute;odos longos de estiagem.</p>
@@ -47,16 +48,16 @@ Os primeiros resultados da pesquisa pesquisa &quot;Sistemas Agr&iacute;colas Fam
 <p><br />
 O acesso &agrave; terra e ao territ&oacute;rio tamb&eacute;m s&atilde;o aspectos importantes apontados. No agroecossistema do casal Jo&atilde;o Almeida e Sueli,na comunidade geraizeira de Vereda Funda, no territ&oacute;rio do Alto Rio Pardo, em Minas Gerais, a conquista da terra possibilitou o maior controle e autonomia da fam&iacute;lia em rela&ccedil;&atilde;o &agrave;s fontes de &aacute;gua, ao trabalho de recupera&ccedil;&atilde;o ambiental, reaparecimento de nascentes e fortalecimento da pr&aacute;tica agroextrativista, por meio da coleta de frutos nativos e plantas medicinais numa &aacute;rea coletiva do assentamento.</p>
 
-<p><br />
-Durante o semin&aacute;rio se apresenta&ccedil;&atilde;o dos resultados da pesquisa, realizado na semana passada, foram apresentadas informa&ccedil;&otilde;es referentes a quatro propriedades, entre elas, a do casal Maria do Socorro e J&uacute;lio Rodrigues, da comunidade Jaquinic&oacute;, no munic&iacute;pio de Cura&ccedil;&aacute;, no territ&oacute;rio do S&atilde;o Francisco (Bahia). Na propriedade de 15 hectares, a fam&iacute;lia desenvolve diversos subsistemas agr&iacute;colas, como o ro&ccedil;ado, o plantio de hortali&ccedil;as e a cria&ccedil;&atilde;o de galinhas. Al&eacute;m disso, criam animais (caprino e bovino) soltos na Caatinga e praticam o extrativismo numa &aacute;rea coletiva de 3000 hectares. Essa pr&aacute;tica &eacute; conhecida tradicionalmente como fundo de pasto.</p>
-
 <p>&nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="pesquisa_semiarido_capa.jpg" src="http://farm9.staticflickr.com/8646/16355984346_14c291fe49_b.jpg" />
 <figcaption></figcaption>
 </figure>
 
-<p>Ant&ocirc;nia Iva Ferreira, uma das bolsistas do Projeto, acompanha a pesquisa com o casal de agricultores, dona Maria Aparecida e seu Claudionor, no povoado S&iacute;tio Verde, munic&iacute;pio de Porto da Folha, Estado de Sergipe. Ela observa que a participa&ccedil;&atilde;o de dona Maria Aparecida na Associa&ccedil;&atilde;o de Mulheres Resgatando sua Hist&oacute;ria, que promove forma&ccedil;&atilde;o, interc&acirc;mbio e partilha de experi&ecirc;ncias, permitiu o acesso a informa&ccedil;&otilde;es e conhecimentos que possibilitou inova&ccedil;&otilde;es no sistema agroecol&oacute;gico. Dentre as alternativas adotadas pelo casal em um pequeno espa&ccedil;o de terra (0,3 hectare), est&aacute; a organiza&ccedil;&atilde;o de um quintal diversificado, onde possui frutas, hortali&ccedil;as, cria&ccedil;&atilde;o de aves, abelhas e produ&ccedil;&atilde;o energ&eacute;tica, que contribu&iacute;ram para aumentar a resili&ecirc;ncia de seu sistema produtivo.</p>
+<p>Durante o semin&aacute;rio se apresenta&ccedil;&atilde;o dos resultados da pesquisa, realizado na semana passada, foram apresentadas informa&ccedil;&otilde;es referentes a quatro propriedades, entre elas, a do casal Maria do Socorro e J&uacute;lio Rodrigues, da comunidade Jaquinic&oacute;, no munic&iacute;pio de Cura&ccedil;&aacute;, no territ&oacute;rio do S&atilde;o Francisco (Bahia). Na propriedade de 15 hectares, a fam&iacute;lia desenvolve diversos subsistemas agr&iacute;colas, como o ro&ccedil;ado, o plantio de hortali&ccedil;as e a cria&ccedil;&atilde;o de galinhas. Al&eacute;m disso, criam animais (caprino e bovino) soltos na Caatinga e praticam o extrativismo numa &aacute;rea coletiva de 3000 hectares. Essa pr&aacute;tica &eacute; conhecida tradicionalmente como fundo de pasto.</p>
+
+<p>&nbsp;<br />
+Ant&ocirc;nia Iva Ferreira, uma das bolsistas do Projeto, acompanha a pesquisa com o casal de agricultores, dona Maria Aparecida e seu Claudionor, no povoado S&iacute;tio Verde, munic&iacute;pio de Porto da Folha, Estado de Sergipe. Ela observa que a participa&ccedil;&atilde;o de dona Maria Aparecida na Associa&ccedil;&atilde;o de Mulheres Resgatando sua Hist&oacute;ria, que promove forma&ccedil;&atilde;o, interc&acirc;mbio e partilha de experi&ecirc;ncias, permitiu o acesso a informa&ccedil;&otilde;es e conhecimentos que possibilitou inova&ccedil;&otilde;es no sistema agroecol&oacute;gico. Dentre as alternativas adotadas pelo casal em um pequeno espa&ccedil;o de terra (0,3 hectare), est&aacute; a organiza&ccedil;&atilde;o de um quintal diversificado, onde possui frutas, hortali&ccedil;as, cria&ccedil;&atilde;o de aves, abelhas e produ&ccedil;&atilde;o energ&eacute;tica, que contribu&iacute;ram para aumentar a resili&ecirc;ncia de seu sistema produtivo.</p>
 
 <p><br />
 De acordo com Paulo Petersen, da AS-PTA, uma das entidades que coordena a pesquisa, a resili&ecirc;ncia n&atilde;o pode ser analisada por um ou dois indicadores, e sim pela intera&ccedil;&atilde;o de v&aacute;rios fatores ecol&oacute;gicos e sociais articulados num sistema. &quot;Voc&ecirc; n&atilde;o explica a resili&ecirc;ncia s&oacute; pelo solo, s&oacute; pela vegeta&ccedil;&atilde;o, pelo tamanho da terra, pela participa&ccedil;&atilde;o da mulher, mas tudo isso em conjunto. Essa &eacute; a grande complexidade e dificuldade de fazer esse tipo de pesquisa&rdquo;, avalia.</p>
@@ -69,5 +70,3 @@ A pesquisa busca a sistematiza&ccedil;&atilde;o de pr&aacute;ticas acumuladas pe
 
 <p><br />
 Paulo Petersen destaca a pesquisa como um processo de constru&ccedil;&atilde;o do conhecimento que envolve diversas entidades da agricultura familiar, e o desafio de que os resultados levantados possam influenciar as politicas p&uacute;blicas. &quot;Nosso desafio &eacute; entender as estrat&eacute;gias das fam&iacute;lias e tirar ensinamentos que possam inspirar a formula&ccedil;&atilde;o de pol&iacute;ticas que sejam sens&iacute;veis ao que as experi&ecirc;ncias est&atilde;o dizendo&rdquo;, conclui</p>
-
-<p>&nbsp;</p>
