@@ -79,7 +79,7 @@ images_hd: "http://farm8.staticflickr.com/7434/16386565081_548c4235a3_n.jpg"
 
 <p>&nbsp;</p>
 
-<figure class="image" style="float:right"><img alt="2.jpg" height="450" src="http://farm8.staticflickr.com/7434/16386565081_548c4235a3_b.jpg" width="300" />
+<figure class="image" style="float:right"><img alt="2.jpg" height="448" src="http://farm8.staticflickr.com/7434/16386565081_548c4235a3_b.jpg" width="299" />
 <figcaption></figcaption>
 </figure>
 
