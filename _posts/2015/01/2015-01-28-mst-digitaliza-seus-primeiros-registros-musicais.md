@@ -4,7 +4,7 @@ tags:
   - tag: Dor-e-Esperança
   - tag: Música
   - tag: Cultura
-title: MST digitaliza seus primeiros registros musicais no CD Dor e Esperança
+title: MST digitaliza seus primeiros registros musicais e lança novo álbum
 support_line: "Mais de 30 anos depois, a fita ‘Dor e Esperança’ foi recuperada com as músicas que mobilizavam os Sem Terra no nascimento do Movimento."
 menu: "educação, cultura e comunicação"
 section: cover
