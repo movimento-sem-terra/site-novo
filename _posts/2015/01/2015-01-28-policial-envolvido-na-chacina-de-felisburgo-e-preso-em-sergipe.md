@@ -1,7 +1,7 @@
 ---
 date: "2015-01-28T15:39:22-02:00"
 tags: []
-title: Policial envolvido na chacina de Felisburgo é preso em Sergipe
+title: Policial envolvido no Massacre de Felisburgo é preso em Sergipe
 support_line: "Calixto Luedy é primo de Adriano Chafik, mandante do crime ocorrido em Minas Gerais\n"
 menu: direitos humanos
 layout: post
