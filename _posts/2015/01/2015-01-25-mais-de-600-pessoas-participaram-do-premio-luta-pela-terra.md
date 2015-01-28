@@ -4,7 +4,7 @@ tags:
   - tag: ENFF
   - tag: premio-luta-pela-terra
 title: MST realiza prêmio Luta pela Terra e homenageia 22 lutadores
-support_line: "Mais de 600 pessoas participaram da premiação, que é conferido em datas significativas a pessoas que se destacaram em defesa das lutas camponesas."
+support_line: O prêmio é conferido em datas significativas a pessoas que se destacaram em defesa das lutas camponesas.
 menu: reforma agrária
 section: featured-news
 layout: post
