@@ -4,7 +4,7 @@ tags:
   - tag: Agrotóxico
   - tag: Saúde
   - tag: ANVISA
-title: "Pesquisador denuncia sucateamento de agência reguladora de agrotóxicos "
+title: Pesquisador analisa a situação dos agrotóxicos e a fragilidade da Anvisa
 support_line: Isso faz com que o modelo de fiscalização e controle seja inviabilizado no país que é o maior consumidor de venenos agrícolas do mundo.
 menu: agronegócio
 label: interviews
@@ -21,10 +21,12 @@ published: true
 images_hd: "http://farm8.staticflickr.com/7286/16382668425_1e35601e70_n.jpg"
 
 ---
-<p><em>Por Jo&atilde;o Vitor Santos<br />
+<p><br />
+<em>Por Jo&atilde;o Vitor Santos<br />
 Do IHU On-line</em></p>
 
-<p>Imagine um &oacute;rg&atilde;o que tem responsabilidade de fiscalizar o uso de agrot&oacute;xicos. Esse mesmo departamento sofre com a falta de corpo t&eacute;cnico qualificado e infraestrutura. &Eacute; gerado pouco conhecimento cientifico &ndash; e h&aacute; pouco material &ndash; que garanta an&aacute;lises de qualidade que poderiam banir subst&acirc;ncias que causem danos ao ser humano e ao meio ambiente. Do outro lado do balc&atilde;o, multinacionais produtoras de agrot&oacute;xicos que lutam com alta tecnologia e grande corpo t&eacute;cnico qualificado contra esse fr&aacute;gil &oacute;rg&atilde;o.</p>
+<p><br />
+Imagine um &oacute;rg&atilde;o que tem responsabilidade de fiscalizar o uso de agrot&oacute;xicos. Esse mesmo departamento sofre com a falta de corpo t&eacute;cnico qualificado e infraestrutura. &Eacute; gerado pouco conhecimento cientifico &ndash; e h&aacute; pouco material &ndash; que garanta an&aacute;lises de qualidade que poderiam banir subst&acirc;ncias que causem danos ao ser humano e ao meio ambiente. Do outro lado do balc&atilde;o, multinacionais produtoras de agrot&oacute;xicos que lutam com alta tecnologia e grande corpo t&eacute;cnico qualificado contra esse fr&aacute;gil &oacute;rg&atilde;o.</p>
 
 <p><br />
 Essa &eacute; a realidade da Ag&ecirc;ncia Nacional de Vigil&acirc;ncia Sanit&aacute;ria &ndash; Anvisa. Em entrevista concedida por e-mail &agrave; IHU On-Line, o professor da Universidade Federal do Paran&aacute;, Victor Manoel Pelaez Alvarez, revela esse cen&aacute;rio. Embora comemore a evolu&ccedil;&atilde;o de um processo que baniu Forato e Parationa Met&iacute;lica do pa&iacute;s, reconhece que a regula&ccedil;&atilde;o do uso de agrot&oacute;xicos precisa melhorar muito.</p>
@@ -32,9 +34,8 @@ Essa &eacute; a realidade da Ag&ecirc;ncia Nacional de Vigil&acirc;ncia Sanit&aa
 <p><br />
 &ldquo;O Brasil &eacute; o segundo maior mercado consumidor de agrot&oacute;xico do mundo, &eacute; o maior importador de agrot&oacute;xicos no mundo e com a maior taxa de crescimento das importa&ccedil;&otilde;es. Veja que o Brasil tem em torno de 45 t&eacute;cnicos que fazem avalia&ccedil;&atilde;o. Nos Estados Unidos, s&atilde;o 850 pessoas para fazer a mesma coisa&rdquo;, complementa.</p>
 
-<p>&nbsp;</p>
-
-<p>Para Alvarez, mais importante do que repensar a legisla&ccedil;&atilde;o brasileira sobre o uso de agrot&oacute;xicos &eacute; de fato colocar em pr&aacute;tica o que j&aacute; existe. &ldquo;Outro problema &eacute; que, quando a Anvisa tenta ter crit&eacute;rios mais rigorosos no processo de an&aacute;lise, come&ccedil;a a congestionar em fun&ccedil;&atilde;o do grande n&uacute;mero de an&aacute;lises que precisa ser feito. Para se ter ideia: h&aacute; uma fila de 1500 produtos para avalia&ccedil;&atilde;o, at&eacute; junho de 2013. &Eacute; uma fila que cresce com muita rapidez e n&atilde;o h&aacute; capacidade de avalia&ccedil;&atilde;o para atender a essa demanda&rdquo;, destaca. O cen&aacute;rio ainda piora porque, al&eacute;m de deixar a Anvisa de bra&ccedil;os amarrados em decorr&ecirc;ncia do pouco investimento, a Ag&ecirc;ncia &eacute; negociada na l&oacute;gica da lota&ccedil;&atilde;o de cargos pol&iacute;ticos. &ldquo;O atual governo passou a capturar as pr&oacute;prias ag&ecirc;ncias reguladoras. Isso na medida em que s&atilde;o cargos colocados &agrave; disposi&ccedil;&atilde;o de partidos pol&iacute;ticos para a barganha pol&iacute;tica que a gente conhece&rdquo;.</p>
+<p><br />
+Para Alvarez, mais importante do que repensar a legisla&ccedil;&atilde;o brasileira sobre o uso de agrot&oacute;xicos &eacute; de fato colocar em pr&aacute;tica o que j&aacute; existe. &ldquo;Outro problema &eacute; que, quando a Anvisa tenta ter crit&eacute;rios mais rigorosos no processo de an&aacute;lise, come&ccedil;a a congestionar em fun&ccedil;&atilde;o do grande n&uacute;mero de an&aacute;lises que precisa ser feito. Para se ter ideia: h&aacute; uma fila de 1500 produtos para avalia&ccedil;&atilde;o, at&eacute; junho de 2013. &Eacute; uma fila que cresce com muita rapidez e n&atilde;o h&aacute; capacidade de avalia&ccedil;&atilde;o para atender a essa demanda&rdquo;, destaca. O cen&aacute;rio ainda piora porque, al&eacute;m de deixar a Anvisa de bra&ccedil;os amarrados em decorr&ecirc;ncia do pouco investimento, a Ag&ecirc;ncia &eacute; negociada na l&oacute;gica da lota&ccedil;&atilde;o de cargos pol&iacute;ticos. &ldquo;O atual governo passou a capturar as pr&oacute;prias ag&ecirc;ncias reguladoras. Isso na medida em que s&atilde;o cargos colocados &agrave; disposi&ccedil;&atilde;o de partidos pol&iacute;ticos para a barganha pol&iacute;tica que a gente conhece&rdquo;.</p>
 
 <p><br />
 Como mudar esse cen&aacute;rio e efetivamente reduzir o consumo de agrot&oacute;xicos? Al&eacute;m de dar o devido valor &agrave; Anvisa, o pesquisador acredita que o debate tamb&eacute;m passe por novos modelo de produ&ccedil;&atilde;o. No entanto, adverte: &ldquo;voc&ecirc; n&atilde;o consegue introduzir novos modelos agr&iacute;colas, novas tecnologias no curto prazo. &Eacute; logico que se diz que agricultura org&acirc;nica n&atilde;o &eacute; vi&aacute;vel. N&atilde;o &eacute; vi&aacute;vel no curto prazo, como n&atilde;o era vi&aacute;vel o modelo atual no curto prazo. S&atilde;o escolhas, trajet&oacute;rias tecnol&oacute;gicas cujo resultado vai se dar no m&eacute;dio e longo prazo&rdquo;.</p>
@@ -42,11 +43,11 @@ Como mudar esse cen&aacute;rio e efetivamente reduzir o consumo de agrot&oacute;
 <p><br />
 Victor Manoel Pelaez Alvarez &eacute; graduado em Engenharia de Alimentos, mestre em Pol&iacute;tica Cient&iacute;fica e Tecnol&oacute;gica pela Universidade Estadual de Campinas e doutor em Ci&ecirc;ncias Econ&ocirc;micas pela Universit&eacute; de Montpellier I. Al&eacute;m de professor da Universidade Federal do Paran&aacute;, &eacute; membro do Conselho Editorial do International Journal of Biotechnology e da Revista Brasileira de Inova&ccedil;&atilde;o.</p>
 
-<p>Confira a entrevista.</p>
+<p><br />
+<strong>Em dezembro do ano passado, a Ag&ecirc;ncia Nacional de Vigil&acirc;ncia Sanit&aacute;ria - Anvisa aprovou o banimento dos agrot&oacute;xicos Forato e Parationa Met&iacute;lica. O que s&atilde;o essas subst&acirc;ncias?</strong></p>
 
-<p><strong>Em dezembro do ano passado, a Ag&ecirc;ncia Nacional de Vigil&acirc;ncia Sanit&aacute;ria - Anvisa aprovou o banimento dos agrot&oacute;xicos Forato e Parationa Met&iacute;lica. O que s&atilde;o essas subst&acirc;ncias?</strong></p>
-
-<p>Parationa Met&iacute;lica &eacute; um inseticida usado em v&aacute;rias culturas e o Forato &eacute; um fungicida e tamb&eacute;m acaricida usado tamb&eacute;m em v&aacute;rias culturas. A quest&atilde;o &eacute; que s&atilde;o produtos, no caso do Forato, proibido na Uni&atilde;o Europeia. A Parationa &eacute; proibida nos Estados Unidos desde 2013, tamb&eacute;m na Uni&atilde;o Europeia e na China.</p>
+<p><br />
+Parationa Met&iacute;lica &eacute; um inseticida usado em v&aacute;rias culturas e o Forato &eacute; um fungicida e tamb&eacute;m acaricida usado tamb&eacute;m em v&aacute;rias culturas. A quest&atilde;o &eacute; que s&atilde;o produtos, no caso do Forato, proibido na Uni&atilde;o Europeia. A Parationa &eacute; proibida nos Estados Unidos desde 2013, tamb&eacute;m na Uni&atilde;o Europeia e na China.</p>
 
 <p><br />
 Essa &eacute; a continuidade de um processo que come&ccedil;ou em 2008, quando a Anvisa colocou em reavalia&ccedil;&atilde;o 14 ingredientes ativos e que, at&eacute; hoje, foram quatro desses ingredientes proibidos. Em 2008, as empresas entraram com processo liminar na Justi&ccedil;a para sustar esse processo de reavalia&ccedil;&atilde;o.</p>
@@ -60,18 +61,19 @@ No Brasil e tamb&eacute;m no mundo inteiro, a estrat&eacute;gia das empresas &ea
 <p><br />
 <strong>E qual a alega&ccedil;&atilde;o das empresas na Justi&ccedil;a para suspender esses processos? Defendem que o produto n&atilde;o tem rea&ccedil;&otilde;es adversas ao ser humano e ao meio ambiente?</strong></p>
 
-<p>H&aacute; v&aacute;rios argumentos. Tanto entram com contraprovas como tamb&eacute;m dizem que aquilo (o processo) &eacute; prejudicial &agrave; imagem das empresas. O que n&atilde;o faz sentido nenhum do ponto de vista t&eacute;cnico. Mas, tudo &eacute; poss&iacute;vel. Ainda mais porque todo processo de avalia&ccedil;&atilde;o toxicol&oacute;gica &eacute; pol&ecirc;mico. N&atilde;o &eacute; perfeito, &eacute; cheio de limita&ccedil;&otilde;es, de crit&eacute;rios de subjetividade. Na realidade, a objetividade surge de uma quest&atilde;o subjetiva.</p>
+<p><br />
+H&aacute; v&aacute;rios argumentos. Tanto entram com contraprovas como tamb&eacute;m dizem que aquilo (o processo) &eacute; prejudicial &agrave; imagem das empresas. O que n&atilde;o faz sentido nenhum do ponto de vista t&eacute;cnico. Mas, tudo &eacute; poss&iacute;vel. Ainda mais porque todo processo de avalia&ccedil;&atilde;o toxicol&oacute;gica &eacute; pol&ecirc;mico. N&atilde;o &eacute; perfeito, &eacute; cheio de limita&ccedil;&otilde;es, de crit&eacute;rios de subjetividade. Na realidade, a objetividade surge de uma quest&atilde;o subjetiva.</p>
 
 <p><br />
 Por qu&ecirc;? Grupos da comunidade cient&iacute;fica entram em acordo sobre determinados crit&eacute;rios a serem adotados. Mas, necessariamente, n&atilde;o s&atilde;o perfeitos, pelo contr&aacute;rio. Uma das imperfei&ccedil;&otilde;es &eacute; justamente que o processo de avalia&ccedil;&atilde;o &eacute; feito caso a caso. Ou seja, o efeito de um &uacute;nico ingrediente ativo sobre as cobaias. Acontece que, na vida real, nos aplicadores ou como a popula&ccedil;&atilde;o vai comer (ingerir a subst&acirc;ncia) h&aacute; um conjunto de produtos, de res&iacute;duos de ingredientes ativos. Ent&atilde;o, vai usar uma s&eacute;rie de ingredientes na sequencia ou em conjunto. E n&atilde;o &eacute; feito nenhum estudo sobre o efeito sin&eacute;rgico da combina&ccedil;&atilde;o de diferentes ingredientes ativos. H&aacute; uma s&eacute;rie de limita&ccedil;&otilde;es, portanto, nas avalia&ccedil;&otilde;es que s&atilde;o feitas. De qualquer forma, &eacute; um grande avan&ccedil;o poder ver que alguns produtos est&atilde;o saindo do mercado. Veja que &eacute; um processo lento. Isso come&ccedil;ou em 2008, mas aconteceu mesmo em 2013. Em mar&ccedil;o de 2008 mesmo, o pr&oacute;prio Minist&eacute;rio P&uacute;blico entrou com uma a&ccedil;&atilde;o para que a Anvisa de fato retomasse o processo de reavalia&ccedil;&atilde;o que ficou parado.</p>
 
 <p><br />
-E assim a gente entra num outro aspecto que &eacute; importante: a falta de infraestrutura regulat&oacute;ria do pa&iacute;s. E o Brasil &eacute; o segundo maior mercado consumidor de agrot&oacute;xico do mundo, &eacute; o maior importador de agrot&oacute;xicos no mundo e com a maior taxa de crescimento das importa&ccedil;&otilde;es. S&oacute; para comprar, veja que o Brasil tem em torno de 45 t&eacute;cnicos vinculados aos tr&ecirc;s minist&eacute;rios que fazem avalia&ccedil;&atilde;o, que &eacute; Agricultura, Sa&uacute;de e Meio Ambiente. S&atilde;o eles que fazem avalia&ccedil;&atilde;o de produtos. Nos Estados Unidos, s&atilde;o 850 pessoas para fazer a mesma coisa.<br />
-<br />
-<br />
-Lembrando que os Estados Unidos &eacute; o maior mercado de agrot&oacute;xico. Veja a defasagem em termos de infraestrutura. Nos Estados Unidos, o custo de um registro de um novo ingrediente ativo que vai ser utilizado em alimentos para consumo humano chega at&eacute; 630 mil d&oacute;lares. No Brasil, o custo m&aacute;ximo &eacute; de mil d&oacute;lares. Nos Estados Unidos, h&aacute; uma taxa de manuten&ccedil;&atilde;o de registro anual e no Brasil n&atilde;o &eacute; cobrado nada.<br />
-<br />
-<br />
+E assim a gente entra num outro aspecto que &eacute; importante: a falta de infraestrutura regulat&oacute;ria do pa&iacute;s. E o Brasil &eacute; o segundo maior mercado consumidor de agrot&oacute;xico do mundo, &eacute; o maior importador de agrot&oacute;xicos no mundo e com a maior taxa de crescimento das importa&ccedil;&otilde;es. S&oacute; para comprar, veja que o Brasil tem em torno de 45 t&eacute;cnicos vinculados aos tr&ecirc;s minist&eacute;rios que fazem avalia&ccedil;&atilde;o, que &eacute; Agricultura, Sa&uacute;de e Meio Ambiente. S&atilde;o eles que fazem avalia&ccedil;&atilde;o de produtos. Nos Estados Unidos, s&atilde;o 850 pessoas para fazer a mesma coisa.</p>
+
+<p><br />
+Lembrando que os Estados Unidos &eacute; o maior mercado de agrot&oacute;xico. Veja a defasagem em termos de infraestrutura. Nos Estados Unidos, o custo de um registro de um novo ingrediente ativo que vai ser utilizado em alimentos para consumo humano chega at&eacute; 630 mil d&oacute;lares. No Brasil, o custo m&aacute;ximo &eacute; de mil d&oacute;lares. Nos Estados Unidos, h&aacute; uma taxa de manuten&ccedil;&atilde;o de registro anual e no Brasil n&atilde;o &eacute; cobrado nada.</p>
+
+<p><br />
 <strong>No Brasil, os registros de agrot&oacute;xicos n&atilde;o tem data de validade. Uma vez alcan&ccedil;ado o registro, passa a valer eternamente. Ou seja, fica a crit&eacute;rio do fabricante e de inspe&ccedil;&otilde;es da Anvisa buscar reavalia&ccedil;&otilde;es. Qual a sua avalia&ccedil;&atilde;o sobre essa forma de concess&atilde;o de registros de agrot&oacute;xicos?</strong></p>
 
 <p><br />
@@ -93,9 +95,9 @@ Ou seja, primeiro se avalia se tem perigo. Se h&aacute; perigo, vamos avaliar co
 Bem, est&aacute; na lei desde 89. S&oacute; que uma coisa &eacute; estar na lei e a outra &eacute; implementar. E a&iacute; faltava um grande caminho para chegar l&aacute;. A Uni&atilde;o Europeia substituiu esse tipo de crit&eacute;rio agora em 2013. Inclusive, uma s&eacute;rie de subst&acirc;ncias que s&atilde;o comercializadas nos Estados Unidos j&aacute; n&atilde;o podem ser na Uni&atilde;o Europeia. Isso &eacute; um grande inc&ocirc;modo para a ind&uacute;stria de agrot&oacute;xicos, que &eacute; uma ind&uacute;stria globalizada. S&atilde;o 13 multinacionais que controlam cerca de 90% do mercado mundial. Portanto, n&atilde;o tem interesse nenhuma que haja essa falta de harmoniza&ccedil;&atilde;o. Obviamente clamam e defendem que o modelo de regula&ccedil;&atilde;o dos Estados Unidos &eacute; o melhor.</p>
 
 <p><br />
-Outro problema &eacute; que quando a Anvisa tenta ter crit&eacute;rios mais rigorosos no processo de an&aacute;lise come&ccedil;a a congestionar, em fun&ccedil;&atilde;o do grande n&uacute;mero de an&aacute;lises que precisa ser feito. Para se ter ideia: hoje, na Anvisa, h&aacute; uma fila de 1500 produtos para avalia&ccedil;&atilde;o, at&eacute; junho de 2013. &Eacute; uma fila que cresce com muita rapidez e n&atilde;o h&aacute; capacidade de avalia&ccedil;&atilde;o para atender a essa demanda. Em fun&ccedil;&atilde;o disso, come&ccedil;am a surgir demandas por uma mudan&ccedil;a na legisla&ccedil;&atilde;o por parte do setor produtivo, dos agricultores, etc. E a&iacute; a tend&ecirc;ncia &eacute; sempre minimizar, simplificar o problema.<br />
-<br />
-<br />
+Outro problema &eacute; que quando a Anvisa tenta ter crit&eacute;rios mais rigorosos no processo de an&aacute;lise come&ccedil;a a congestionar, em fun&ccedil;&atilde;o do grande n&uacute;mero de an&aacute;lises que precisa ser feito. Para se ter ideia: hoje, na Anvisa, h&aacute; uma fila de 1500 produtos para avalia&ccedil;&atilde;o, at&eacute; junho de 2013. &Eacute; uma fila que cresce com muita rapidez e n&atilde;o h&aacute; capacidade de avalia&ccedil;&atilde;o para atender a essa demanda. Em fun&ccedil;&atilde;o disso, come&ccedil;am a surgir demandas por uma mudan&ccedil;a na legisla&ccedil;&atilde;o por parte do setor produtivo, dos agricultores, etc. E a&iacute; a tend&ecirc;ncia &eacute; sempre minimizar, simplificar o problema.</p>
+
+<p><br />
 O que est&aacute; atravancando? &Eacute; a atitude da Anvisa? Ent&atilde;o, tira fora. Ou seja, coloca tudo num &oacute;rg&atilde;o s&oacute;, centraliza na Agricultura, que historicamente em todos os pa&iacute;ses sempre foi mais flex&iacute;vel, menos exigente com quest&otilde;es ambientais e de sa&uacute;de. H&aacute; projetos de lei justamente tentando retirar o poder de regula&ccedil;&atilde;o e de decis&atilde;o do Ibama e da Anvisa. Ou, ainda, de criar uma ag&ecirc;ncia &uacute;nica, mas tamb&eacute;m no qual se centraliza o poder no que tange a quest&atilde;o de produ&ccedil;&atilde;o e n&atilde;o de sa&uacute;de e meio ambiente. O modelo atual tamb&eacute;m n&atilde;o &eacute; satisfat&oacute;rio, nem para as empresas e nem para a popula&ccedil;&atilde;o. &Eacute; um modelo que n&atilde;o tem pessoal suficiente, h&aacute; sempre conflitos de interesses entre os pr&oacute;prios &oacute;rg&atilde;os que n&atilde;o se entendem, &eacute; muito pouco eficiente.</p>
 
 <p><br />
@@ -114,9 +116,9 @@ Um aspecto importante, que faz parte da Revolu&ccedil;&atilde;o Verde &ndash; qu
 Como &eacute; que a gente faz isso? A f&oacute;rmula capitalista era baratear os alimentos. Fa&ccedil;o um alimento mais barato, que foi justamente a Revolu&ccedil;&atilde;o Verde, que assim h&aacute; um aumento na produtividade. S&oacute; que para ter um aumento de produtividade teve de haver um uso intenso de insumos agr&iacute;colas, fertilizantes, sementes, agrot&oacute;xicos. E para isso &eacute; necess&aacute;rio investimento, capitaliza&ccedil;&atilde;o. E &eacute; a&iacute; que h&aacute; uma concentra&ccedil;&atilde;o dessa produ&ccedil;&atilde;o.</p>
 
 <p><br />
-&Eacute; um modelo j&aacute; excludente, socialmente e economicamente, caro, tem o efeito de redu&ccedil;&atilde;o do custo do alimento pelo menos da produtividade. No entanto, n&atilde;o adianta ter oferta de alimento se n&atilde;o h&aacute; distribui&ccedil;&atilde;o da renda. E esse &eacute; o grande desafio que ainda permanece. Se boa parte da popula&ccedil;&atilde;o consegue ter acesso a alimentos mais baratos, uma grande parte n&atilde;o consegue ter acesso porque n&atilde;o tem renda.<br />
-<br />
-<br />
+&Eacute; um modelo j&aacute; excludente, socialmente e economicamente, caro, tem o efeito de redu&ccedil;&atilde;o do custo do alimento pelo menos da produtividade. No entanto, n&atilde;o adianta ter oferta de alimento se n&atilde;o h&aacute; distribui&ccedil;&atilde;o da renda. E esse &eacute; o grande desafio que ainda permanece. Se boa parte da popula&ccedil;&atilde;o consegue ter acesso a alimentos mais baratos, uma grande parte n&atilde;o consegue ter acesso porque n&atilde;o tem renda.</p>
+
+<p><br />
 O modelo tecnol&oacute;gico colocado, de uso intensivo desses insumos, demandava um marco regulat&oacute;rio para tentar minimizar os efeitos adversos. E isso tamb&eacute;m tem um custo. Para difundir esses alimentos a baixo custo, foi feito a retirada de impostos de insumos e agrot&oacute;xicos.</p>
 
 <p><br />
@@ -126,9 +128,9 @@ No Brasil, os insumos agr&iacute;colas em geral, incluindo agrot&oacute;xicos, s
 Ent&atilde;o, o modelo em si j&aacute; &eacute; falido. E isso est&aacute; ligado a um processo de democratiza&ccedil;&atilde;o da sociedade. Existem sociedades mais democr&aacute;ticas em que esse custo acaba sendo privatizado, recai sobre as empresas. Em sociedade menos democr&aacute;tica esse custo &eacute; socializado, ou seja, &eacute; a popula&ccedil;&atilde;o que paga. Que &eacute; o que acontece no Brasil. O poder pol&iacute;tico das empresas &eacute; muito forte, no sentido de evitar que haja taxa&ccedil;&atilde;o e impostos sobre esses produtos.</p>
 
 <p><br />
-<strong>Pensando nesse sentido, um caminho para reduzir o consumo de agrot&oacute;xicos n&atilde;o seria o governo investir em outros modelos de cultura? A produ&ccedil;&atilde;o de org&acirc;nicos &eacute; uma sa&iacute;da?</strong><br />
-<br />
-<br />
+<strong>Pensando nesse sentido, um caminho para reduzir o consumo de agrot&oacute;xicos n&atilde;o seria o governo investir em outros modelos de cultura? A produ&ccedil;&atilde;o de org&acirc;nicos &eacute; uma sa&iacute;da?</strong></p>
+
+<p><br />
 Com certeza. E isso tudo &eacute; investimento de longo prazo. A pr&oacute;pria Revolu&ccedil;&atilde;o Verde foi um investimento de longo prazo. Voc&ecirc; n&atilde;o consegue introduzir novos modelos agr&iacute;colas, novas tecnologias no curto prazo. &Eacute; um processo lento. Levou d&eacute;cadas at&eacute; a revolu&ccedil;&atilde;o agr&iacute;cola de fato se difundir em grande escala, o que envolveu uma grande rede de financiamento p&uacute;blico, de pesquisa p&uacute;blica, de extens&atilde;o rural. Ou seja, da mesma forma, se isso fosse feito com tecnologias agroecol&oacute;gicas ou org&acirc;nicas tamb&eacute;m seria vi&aacute;vel. &Eacute; logico que se diz que agricultura org&acirc;nica n&atilde;o &eacute; vi&aacute;vel. N&atilde;o &eacute; vi&aacute;vel no curto prazo, como n&atilde;o era vi&aacute;vel o modelo atual no curto prazo. S&atilde;o escolhas, trajet&oacute;rias tecnol&oacute;gicas cujo resultado vai se dar no medio e longo prazo.<br />
 <br />
 <br />
