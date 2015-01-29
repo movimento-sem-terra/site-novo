@@ -2,8 +2,6 @@
 ---
 
 @import "../bourbon/bourbon";
-$visual-grid: yes;
-$visual-grid-color: red;
 @import "../neat/neat";
 @import "../_sass/variables";
 @import "../_sass/_includes/spinner";
@@ -58,11 +56,12 @@ $visual-grid-color: red;
     .content {
       @extend .default-container;
       margin-top: 49px;
-      & > p{
 
+      & > p{
         @extend .text-with-shadow;
         font-size: 18px;
       }
+
       h2 {
         @extend .title-with-shadow;
         font-size: 36px;
