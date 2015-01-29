@@ -80,3 +80,7 @@ Do povo brasileiro&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
 <p>&nbsp;</p>
 
 <p>&nbsp;</p>
+
+<p>Para saber mais sobre a Unidos da Lona Preta, clique <a href="http://batucadaunidos.wix.com/unidosdalonapreta">aqui</a></p>
+
+<p>&nbsp;</p>
