@@ -330,7 +330,7 @@ $visual-grid-color: red;
         @include span-columns(6);
         overflow: hidden;
         position: relative;
-
+        margin-top: 17px;
         .loading{
           position: absolute;
           top: 31%;
