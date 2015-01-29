@@ -1,45 +1,95 @@
 var Gallery = {
-  target: null,
-
+  thumbs: null,
+  largeImage: null,
+  figure: null,
+  legend: null,
+  links: null,
+  currentPage: 0,
+  totalPages: 0,
+  itemWidth: 0,
+  fadeIn: {opacity: 0, scale: 1.2, easing: 'easeInOutQuad'},
+  fadeOut: {opacity: 1, scale: 1},
 
   init: function(selector){
-    var fadeIn = {opacity: 0,scale: 1.2};
-        fadeOut = {opacity: 1,scale: 1};
-        links = $(selector).find('ul li a');
+    this.figure = $(selector).find('figure');
+    this.largeImage = this.figure.find('img');
+    this.legend =  this.figure.find('legend');
+    this.thumbs = $(selector).find('#thumbs');
+    this.links = this.thumbs.find('ul li a');
+    this.setLinkEvents(this.links);
+    this.setupNav(this.thumbs);
 
-    this.target = $(selector).find('figure > img');
-    this.setLinkEvents(links, fadeIn);
-    this.setLoaderEvent(this.target, fadeOut);
+  },
+
+  setupNav: function(container){
+    var thumbs = container.find("ul");
+        totalItems = container.find( 'li a').length;
+        navButtons = container.find('a[data-direction]');
+             limit = container.outerWidth();
+        itemWidth = thumbs.find('li:first').outerWidth(true);
+        totalWidth = (totalItems * itemWidth);
+         outerSize =  totalWidth - limit;
+   this.totalPages = Math.round(outerSize / itemWidth) ;
+    this.itemWidth = itemWidth;
+
+    thumbs.css({width: totalWidth });
+    navButtons.on('click', function(e){
+        var direction = parseInt($(e.currentTarget).attr('data-direction'));
+        Gallery.changePage(direction);
+        e.preventDefault();
+    });
+  },
+  changePage: function(direction){
+    this.currentPage += direction * -1;
+    this.currentPage = this.currentPage < 0 ? 0 : this.currentPage;
+    this.currentPage = this.currentPage >= this.totalPages ? this.totalPages : this.currentPage;
+
+    this.thumbs.find('ul').velocity({left: ((this.currentPage * this.itemWidth)*-1) + "px" });
   },
 
   animate: function(animation, callback){
-    this.target.stop();
-    this.target.animate(animation, callback );
+    this.figure.stop();
+    this.figure.velocity(animation, callback);
   },
 
-  setLoaderEvent: function(target, animation){
-    target.on("load", function(){
+  setLoaderEvent: function(target){
+    var animation = Gallery.fadeOut;
+    $(target).on('load', function(){
       Gallery.animate(animation);
     });
   },
 
-  setLinkEvents: function(elements,animation){
-    elements.on('click', function(e){
+  setLinkEvents: function(links){
+    links.on('click', function(e){
+      console.log(e.currentTarget);
       e.preventDefault();
-      elements.removeClass('open');
+      links.removeClass('open');
       var seletecteItem = $(e.currentTarget);
           imageURL = $(e.currentTarget).attr('href');
-          callback = function(){ Gallery.loadImage(imageURL); };
+          legendText = $(e.currentTarget).attr('title');
+          callback = function(){ Gallery.setImage(imageURL, legendText); };
 
       seletecteItem.addClass('open');
-      Gallery.animate(animation, callback);
-
+      Gallery.animate(Gallery.fadeIn, callback);
     });
   },
 
-  loadImage: function(image){
-    Gallery.target.attr('src', image);
-  }
+  setImage: function(url, legendText){
+    var newImage = this.createImage(url);
+          legend = this.legend;
+          target = this.largeImage;
+
+    legend.html(legendText);
+    Gallery.largeImage.replaceWith(newImage);
+    Gallery.largeImage = $(newImage);
+    newImage.src = url;
+   },
+
+   createImage: function(url){
+     var img = new Image();
+     this.setLoaderEvent(img);
+     return img;
+   }
 };
 
 $(function(){ Gallery.init('#gallery') });

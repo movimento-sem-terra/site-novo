@@ -95,7 +95,7 @@ $visual-grid-color: red;
 
         .testimonial{
           width: 248px;
-          height: 183px;
+          height: 191px;
           background: url(../img/nossa-producao/ballon.png) no-repeat left top;
           float: left;
           text-align: center;
@@ -235,6 +235,7 @@ $visual-grid-color: red;
         img{
           display: block;
           margin-bottom: 5px;
+          width: 100%;
         }
       }
 
@@ -250,18 +251,21 @@ $visual-grid-color: red;
           font-size: 15px;
           font-weight: 200;
         }
+        img{
+          width: 100%;
+          margin-bottom: 5px;
+        }
 
         a{
           font-size: 15px;
         }
-        img{
-          margin-bottom: 5px;
-        }
+
       }
 
       .ask-us{
         @extend .ask-us-default;
         @include span-columns(9 of 9);
+        min-height: 141px;
         padding-bottom: 10px;
         border-top: solid 1px #b7b7b7;
         background-color: transparent;
@@ -269,13 +273,13 @@ $visual-grid-color: red;
 
         form .form-input{
           &.email{
-            @include span-columns(4);
+            @include span-columns(5);
           }
           &.question{
-            @include span-columns(4);
+            @include span-columns(5);
           }
         }
-
+        form { width: 100%; }
         form input{
           border: solid 1px #b7b7b7;
           &[type="email"], &[type="text"]{
@@ -284,11 +288,14 @@ $visual-grid-color: red;
           }
           &[type="submit"]{
             @include span-columns(2);
+            margin-right: 0;
             background-color: $mst-green;
           }
         }
         form label{
-          width: 100%;
+          width: auto;
+          float: none;
+          display: block;
           color: #555555;
           font-style: normal;
           margin-top: 15px;
@@ -306,6 +313,7 @@ $visual-grid-color: red;
     .content{
       @extend .default-container;
       margin-top: 20px;
+      padding-bottom: 70px;
 
       h3{
         font-size: 34px;
@@ -321,11 +329,29 @@ $visual-grid-color: red;
         @include shift(1);
         @include span-columns(6);
         overflow: hidden;
+        position: relative;
+
+        .loading{
+          position: absolute;
+          top: 31%;
+          left: 50%;
+          margin-left: -20px;
+          .spinner{
+            @extend .spinner-default;
+            .path{
+              stroke: #000;
+            }
+          }
+        }
 
         figure{
-          position: relative;
           margin: 0;
           text-align: center;
+          position: relative;
+          z-index: 999;
+
+          min-height: 421px;
+          min-width: 538px;
 
           legend{
             display: block;
@@ -336,37 +362,77 @@ $visual-grid-color: red;
           strong{
             display: block;
           }
-          .loading{
+        }
+
+        #thumbs{
+          position: relative;
+
+          a.arrow{
+            @include transition(all .4s ease-out);
+            background-color: rgba(255,255,255,0.6);
+            display: block;
+            width: 60px;
+            height: 60px;
             position: absolute;
-            top: 40%;
-            left: 50%;
-            margin-left: -20px;
+            z-index: 999;
+            margin: 0;
+            border-radius: 100%;
+            padding-top: 18px;
+            top: 12px;
+            &:hover{
+              background-color: #000;
+              color: #fff;
+            }
+            padding: 19px;
+            font-family: 'Glyphicons Halflings Regular', Helvetica, Arial, sans-serif;
+            text-decoration: none;
+            color: rgba(0,0,0,0.6);
+          }
 
-            .spinner{
-              @extend .spinner-default;
-              .path{
-                stroke: #000;
+          a.arrow.left{
+            left: -26px;
+            padding-left: 29px;
+            &:before{
+              content: '\E079';
+            }
+          }
+          a.arrow.right{
+            left: 497px;
+            bottom: 11%;
+            padding-left: 11px;
+            &:before{
+              content: '\E080';
+
+            }
+          }
+
+          ul{
+            overflow: hidden;
+            width: 800px;
+            height: 130px;
+            margin-top: 24px;
+            position: relative;
+
+            li{
+              float: left;
+              margin-right: 5px;
+              position: relative;
+
+              a{
+                @include transition(all 0.3s ease-out);
+                border-bottom: solid 1px #fff;
+                img {
+                  min-width: 129px;
+                  padding-bottom: 0px;
+                }
+                &.open{
+                  border-bottom: solid 6px $mst-red;
+                }
               }
             }
           }
         }
 
-        ul{
-          overflow: hidden;
-          width: 800px;
-          margin-top: 24px;
-
-          li{
-            float: left;
-            margin-left: 5px;
-            a{
-              border: solid 1px #fff;
-              &:open{
-                border: solid 1px $mst-red;
-              }
-            }
-          }
-        }
 
       }
     }
