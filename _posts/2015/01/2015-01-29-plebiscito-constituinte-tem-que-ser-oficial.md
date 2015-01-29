@@ -5,7 +5,7 @@ tags:
   - tag: Constituinte
   - tag: Reforma-Política
   - tag: Plebiscito-Popular
-title: "Plebiscito Constituinte: tem que ser oficial!"
+title: Campanha pelo Plebiscito Oficial covoca ato em Brasília
 support_line: "Ato no Congresso Nacional chama sociedade civil a se engajar na lutar pela Reforma Política "
 menu: lutas e mobilizações
 layout: post
@@ -21,34 +21,21 @@ published: true
 images_hd: "http://farm8.staticflickr.com/7379/16208312810_c065687c15_n.jpg"
 
 ---
-<p>&nbsp;</p>
+<p><em>Da&nbsp;p&aacute;gina do MST</em></p>
 
-<p><em>D&aacute; p&aacute;gina do MST</em></p>
+<p><br />
+<span style="line-height: 20.7999992370605px;">No pr&oacute;ximo dia 04 de fevereiro, um ato em apoio ao Decreto Legislativo que prop&otilde;e um Plebiscito Oficial com uma &uacute;nica pergunta: Voc&ecirc; &eacute; favor de uma Assembleia Nacional Constituinte Exclusiva e Soberana sobre o Sistema Pol&iacute;tico? A atividade ser&aacute; &agrave;s 14h, no Audit&oacute;rio Nereu Ramos da C&acirc;mara dos Deputados,&nbsp;em Brasilia.&nbsp;</span></p>
 
-<p>&nbsp;</p>
+<p><br />
+A proposta de Decreto Legislativo foi assinada por 181 parlamentares e foi entregue ao Congresso Nacional ainda no ano passado. De acordo com a Secretaria Operativa da Campanha do Plebiscito Constituinte, atrav&eacute;s de nota, &quot;o<span style="line-height: 20.7999992370605px;">&nbsp;povo &eacute; quem deve ter a palavra e decidir qual a reforma necess&aacute;ria para reverter as distor&ccedil;&otilde;es na representa&ccedil;&atilde;o pol&iacute;tica em nosso pa&iacute;s causadas pelo atual sistema pol&iacute;tico&quot;.</span></p>
 
-<p>No Plebiscito Popular, em setembro de 2014, quase oito milh&otilde;es de brasileiros e brasileiras disseram SIM &agrave; Constituinte Soberana e Exclusiva do Sistema Pol&iacute;tico.</p>
+<p><br />
+Em 2014, um Plebiscito Popular mobilizou todo o pa&iacute;s. Quase&nbsp;oito milh&otilde;es de brasileiros e brasileiras disseram SIM &agrave; Constituinte Soberana e Exclusiva do Sistema Pol&iacute;tico.</p>
 
-<p>&nbsp;</p>
-
-<p>&Eacute; hora de refor&ccedil;ar a luta e fazer valer a vontade popular!</p>
-
-<p>&nbsp;</p>
-
-<p>Em outubro, um Decreto Legislativo, assinado por 181 parlamentares, foi entregue ao Congresso Nacional e prop&otilde;e um Plebiscito Oficial com a mesma e &uacute;nica pergunta do Plebiscito Popular: Voc&ecirc; &eacute; favor de uma Assembleia Nacional Constituinte Exclusiva e Soberana sobre o Sistema Pol&iacute;tico?</p>
+<p><br />
+&quot;Neste ano de 2015, desde o in&iacute;cio marcado pela luta dos trabalhadores e trabalhadoras, &eacute; imprescind&iacute;vel retomar a for&ccedil;a de nossa campanha para conquistarmos a Constituinte e transformarmos o sistema pol&iacute;tico, destravando todas as mudan&ccedil;as profundas e necess&aacute;rias em favor do povo brasileiro&quot;, completa a nota da Secretaria da campanha.</p>
 
 <p>&nbsp;</p>
 
-<p>O povo &eacute; quem deve ter a palavra e decidir qual a reforma necess&aacute;ria para reverter as distor&ccedil;&otilde;es na representa&ccedil;&atilde;o pol&iacute;tica em nosso pa&iacute;s causadas pelo atual sistema pol&iacute;tico. O povo j&aacute; disse: com esse Congresso n&atilde;o d&aacute;!</p>
-
-<p>&nbsp;</p>
-
-<p>Neste ano de 2015, desde o in&iacute;cio marcado pela luta dos trabalhadores e trabalhadoras, &eacute; imprescind&iacute;vel retomar a for&ccedil;a de nossa campanha para conquistarmos a Constituinte e transformarmos o sistema pol&iacute;tico, destravando todas as mudan&ccedil;as profundas e necess&aacute;rias em favor do povo brasileiro.</p>
-
-<p>&nbsp;</p>
-
-<p>Portanto, para avan&ccedil;ar na mobiliza&ccedil;&atilde;o e conquistar o Plebiscito Oficial, convidamos todas as mais de 500 entidades, movimentos, sindicatos, pastorais sociais, partidos, organiza&ccedil;&otilde;es e mais de 100.000 ativistas que se engajaram no Plebiscito Popular, a participarem do ato no dia 4 de fevereiro, em apoio ao Decreto Legislativo, &agrave;s 14h, no Audit&oacute;rio Nereu Ramos, no Congresso Nacional, em Bras&iacute;lia (DF).</p>
-
-<p>&nbsp;</p>
-
-<p>Para mais informa&ccedil;&otilde;es sobre o Plebiscito Popular por uma Constituinte Exclusiva e Soberana do Sistema Pol&iacute;tico, clique <a href="http://www.plebiscitoconstituinte.org.br/">aqui</a></p>
+<p><br />
+Para mais informa&ccedil;&otilde;es sobre o Plebiscito Popular por uma Constituinte Exclusiva e Soberana do Sistema Pol&iacute;tico, clique <a href="http://www.plebiscitoconstituinte.org.br/">aqui</a></p>
