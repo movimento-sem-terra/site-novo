@@ -21,11 +21,11 @@ published: true
 images_hd: "http://farm8.staticflickr.com/7299/15774036944_f70d0373ea_n.jpg"
 
 ---
-<p><em>D&aacute; p&aacute;gina do MST</em></p>
+<p><em>Da&nbsp;p&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
-<p>A Unidos da Lona Preta comemora 10 anos de funda&ccedil;&atilde;o em 2015, com energia renovada e for&ccedil;a no samba e na luta, a escola traz o enredo&quot;Quem sou eu? Sou Unidos da Lona Preta, a Escola de Samba do Movimento Sem Terra. 10 anos de samba e luta&quot;.</p>
+<p>A Unidos da Lona Preta comemora 10 anos de funda&ccedil;&atilde;o em 2015. Com energia renovada e for&ccedil;a no samba e na luta, a escola traz o enredo&quot;Quem sou eu? Sou Unidos da Lona Preta, a Escola de Samba do Movimento Sem Terra. 10 anos de samba e luta&quot;.</p>
 
 <p>&nbsp;</p>
 
