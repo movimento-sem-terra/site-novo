@@ -4,7 +4,7 @@ tags:
   - tag: Despejo
   - tag: Violência
 title: Famílias sofrem despejo violento no MS
-support_line: "Polícia Militar ateou fogo nos barracos de acampamento localizado no distrito Quebra Coco, Sidrolândia"
+support_line: "Polícia Militar ateou fogo nos barracos de acampamento localizado no distrito Quebra Coco, Sidrolândia. "
 menu: direitos humanos
 section: cover
 layout: post
@@ -23,6 +23,8 @@ images_hd: "http://farm8.staticflickr.com/7388/16397356692_7314dcd59b_n.jpg"
 <p style="line-height: 20.7999992370605px;"><em>Da P&aacute;gina do MST</em></p>
 
 <p style="line-height: 20.7999992370605px;"><br />
+<img alt="área de barracos que a policia colocou fogo2.JPG" height="414" src="http://farm8.staticflickr.com/7388/16397356692_7314dcd59b_b.jpg" width="620" /><br />
+<br />
 Na madrugada desta quinta-feira (29), as cerca de 140 fam&iacute;lias do MST, acampadas nas terras improdutivas da Usina Sucroenerg&eacute;tica Agrisul Agr&iacute;cola, no distrito de Quebra Coco, em Sidrol&acirc;ndia (MS) foram surpreendidas com o batalh&atilde;o de choque da Companhia de Gerenciamento de Crises e Opera&ccedil;&otilde;es Especiais, grupo de elite da Pol&iacute;cia Militar.</p>
 
 <p style="line-height: 20.7999992370605px;"><br />
