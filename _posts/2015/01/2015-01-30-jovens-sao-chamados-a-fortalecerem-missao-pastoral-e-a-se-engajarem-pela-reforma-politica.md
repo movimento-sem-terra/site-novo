@@ -39,7 +39,13 @@ images_hd: "http://farm8.staticflickr.com/7390/16402732171_2825f060d8_n.jpg"
 <p>&nbsp;</p>
 
 <p><br />
-Para encerrar o fim de uma semana de Encontro, foi realizada, na manh&atilde; do &uacute;ltimo domingo, 25 de janeiro, uma celebra&ccedil;&atilde;o eucar&iacute;stica de envio na Catedral Nossa Senhora da Concei&ccedil;&atilde;o, Centro de Manaus, <img alt="" border="0" height="251" src="http://www.pom.org.br/images/stories/0%200%20a%20a%20a%20pj.jpg" style="margin:9px; float:right" width="335" />para reafirmar o compromisso de &quot;Somos Igreja Jovem&rdquo;. &quot;Agora, a gente vai viver o processo posterior ao ENPJ, vamos levar a partilha para a nossa comunidade. &Eacute; com a nossa gente e com o nosso povo que vamos construir um novo mundo poss&iacute;vel&rdquo;, disse a secret&aacute;ria nacional da Pastoral da Juventude, Aline Ogliari.</p>
+Para encerrar o fim de uma semana de Encontro, foi realizada, na manh&atilde; do &uacute;ltimo domingo, 25 de janeiro, uma celebra&ccedil;&atilde;o eucar&iacute;stica de envio na Catedral Nossa Senhora da Concei&ccedil;&atilde;o, Centro de Manaus,</p>
+
+<figure class="image" style="float:right"><img alt="" border="0" height="251" src="http://www.pom.org.br/images/stories/0%200%20a%20a%20a%20pj.jpg" style="margin: 9px;" width="335" />
+<figcaption></figcaption>
+</figure>
+
+<p>para reafirmar o compromisso de &quot;Somos Igreja Jovem&rdquo;. &quot;Agora, a gente vai viver o processo posterior ao ENPJ, vamos levar a partilha para a nossa comunidade. &Eacute; com a nossa gente e com o nosso povo que vamos construir um novo mundo poss&iacute;vel&rdquo;, disse a secret&aacute;ria nacional da Pastoral da Juventude, Aline Ogliari.</p>
 
 <p><br />
 <br />
@@ -57,8 +63,13 @@ A jovem paulista Daiane Zito Rosa, da coordena&ccedil;&atilde;o da Pastoral da J
 
 <p><strong>Ato pela Reforma Pol&iacute;tica</strong></p>
 
-<p><br />
-<img alt="" border="0" src="http://www.pom.org.br/images/stories/0%200%20a%20a%20a%20assina01_n.jpg" style="margin:9px; float:left" width="323" />Ao final da celebra&ccedil;&atilde;o, foi realizado o Ato Nacional pela Reforma Pol&iacute;tica com o objetivo de relembrar a popula&ccedil;&atilde;o sobre a import&acirc;ncia de se engajar por uma reforma no sistema pol&iacute;tico no pa&iacute;s. Durante toda a manh&atilde; do domingo, 25, houve coleta de assinaturas para a lei de iniciativa popular. De acordo com o deputado estadual Jos&eacute; Ricardo (Partido dos Trabalhadores &ndash; PT - Amazonas), ex-integrante da Pastoral da Juventude em Manaus, o momento &eacute; oportuno j&aacute; que a Campanha da Fraternidade, da Confer&ecirc;ncia Nacional dos Bispos do Brasil (CNBB), este ano, abordar&aacute; o tema &quot;Fraternidade e Sociedade&rdquo;.</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="" border="0" src="http://www.pom.org.br/images/stories/0%200%20a%20a%20a%20assina01_n.jpg" style="margin: 9px;" width="323" />
+<figcaption></figcaption>
+</figure>
+
+<p>Ao final da celebra&ccedil;&atilde;o, foi realizado o Ato Nacional pela Reforma Pol&iacute;tica com o objetivo de relembrar a popula&ccedil;&atilde;o sobre a import&acirc;ncia de se engajar por uma reforma no sistema pol&iacute;tico no pa&iacute;s. Durante toda a manh&atilde; do domingo, 25, houve coleta de assinaturas para a lei de iniciativa popular. De acordo com o deputado estadual Jos&eacute; Ricardo (Partido dos Trabalhadores &ndash; PT - Amazonas), ex-integrante da Pastoral da Juventude em Manaus, o momento &eacute; oportuno j&aacute; que a Campanha da Fraternidade, da Confer&ecirc;ncia Nacional dos Bispos do Brasil (CNBB), este ano, abordar&aacute; o tema &quot;Fraternidade e Sociedade&rdquo;.</p>
 
 <p>&nbsp;</p>
 
