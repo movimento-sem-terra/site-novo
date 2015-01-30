@@ -11,15 +11,15 @@ menu: agronegócio
 support_line: "Jacques Távora Alfonsin analisa as contradições na pasta da agricultura "
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7366/16217014900_347383f74b_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7366/16217014900_347383f74b_t.jpg"
-    medium: "http://farm8.staticflickr.com/7366/16217014900_347383f74b_z.jpg"
-    small: "http://farm8.staticflickr.com/7366/16217014900_347383f74b_n.jpg"
-    title: images_cms-image-000411964.jpg
-    $$hashKey: 04F
+  - link: "http://farm8.staticflickr.com/7395/16403597792_53f1d4dc78_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7395/16403597792_53f1d4dc78_t.jpg"
+    medium: "http://farm8.staticflickr.com/7395/16403597792_53f1d4dc78_z.jpg"
+    small: "http://farm8.staticflickr.com/7395/16403597792_53f1d4dc78_n.jpg"
+    title: montagem-brasil-patrus-ananias-katia-abreu-size-620.jpg
+    $$hashKey: 08P
 created_date: "2015-01-30T17:07:11-02:00"
 published: true
-images_hd: "http://farm8.staticflickr.com/7366/16217014900_347383f74b_n.jpg"
+images_hd: "http://farm8.staticflickr.com/7395/16403597792_53f1d4dc78_n.jpg"
 
 ---
 <p>Declara&ccedil;&otilde;es recentes da ministra da Agricultura, K&aacute;tia Abreu e do ministro do Desenvolvimento Agr&aacute;rio, Patrus Ananias, evidenciaram diferen&ccedil;as sobre o funcionamento das pastas. Em artigo, Jacques T&aacute;vora Alfonsin, fala sobre posi&ccedil;&otilde;es difusas que toam conta do Congresso Nacional.</p>
@@ -84,6 +84,6 @@ images_hd: "http://farm8.staticflickr.com/7366/16217014900_347383f74b_n.jpg"
 
 <p>&nbsp;</p>
 
-<p><em>&nbsp;Jacques T&aacute;vora Alfonsin, advogado do MST, procurador aposentado do estado do Rio Grande do Sul e membro da ONG Acesso, Cidadania e Direitos Humanos.</em></p>
+<p><em>&nbsp;* Jacques T&aacute;vora Alfonsin, advogado do MST, procurador aposentado do estado do Rio Grande do Sul e membro da ONG Acesso, Cidadania e Direitos Humanos.</em></p>
 
 <p>&nbsp;</p>
