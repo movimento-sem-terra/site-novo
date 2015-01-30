@@ -31,6 +31,11 @@ Na madrugada desta quinta-feira (29), as cerca de 140 fam&iacute;lias do MST, ac
 Os pol&iacute;cias alegaram estar cumprindo um mandato de desocupa&ccedil;&atilde;o da &aacute;rea e queriam dar apenas 15 minutos para as fam&iacute;lias desocuparem o local. Segundo os Sem Terra, os policiais amea&ccedil;aram atear fogo nos barracos, onde vivem, em sua maioria, mulheres, crian&ccedil;as e idosos.</p>
 
 <p style="line-height: 20.7999992370605px;"><br />
+<iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/DGyHplj_HmY" width="640"><br />
+<br />
+</iframe><br />
+<br />
+<br />
 As fam&iacute;lias tamb&eacute;m relataram que durante o processo de desocupa&ccedil;&atilde;o, por diversas vezes, os acampados presenciaram cenas de preconceito dos pol&iacute;cias, ao utilizarem palavras de baixo cal&atilde;o e ao afirmarem que seria mais r&aacute;pido &ldquo;passar a patrola por cima de todo mundo&rdquo;. &nbsp;Jornalistas que cobriam a desocupa&ccedil;&atilde;o foram acuados pelos policiais que n&atilde;o queriam mostrar seus rostos.</p>
 
 <p style="line-height: 20.7999992370605px;"><br />
