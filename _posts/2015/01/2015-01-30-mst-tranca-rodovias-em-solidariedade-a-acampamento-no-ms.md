@@ -20,7 +20,8 @@ published: true
 images_hd: "http://farm8.staticflickr.com/7431/16401629772_fe0db1bdb5_n.jpg"
 
 ---
-<p>&nbsp;</p>
+<p><em>Da P&aacute;gina do MST</em><br />
+&nbsp;</p>
 
 <p><img alt="MS_rodovias.jpg" height="440" src="http://farm8.staticflickr.com/7431/16401629772_fe0db1bdb5_b.jpg" width="620" /></p>
 
