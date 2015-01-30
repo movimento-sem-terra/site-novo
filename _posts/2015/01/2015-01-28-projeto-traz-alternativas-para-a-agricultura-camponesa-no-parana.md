@@ -1,5 +1,5 @@
 ---
-date: "2015-01-28T12:21:10-02:00"
+date: "2015-01-28T11:21:10-03:00"
 tags:
   - tag: agroecologia
   - tag: sustentabilidade
@@ -37,6 +37,7 @@ files:
 created_date: "2015-01-28T12:33:56-02:00"
 published: true
 images_hd: "http://farm8.staticflickr.com/7434/16386565081_548c4235a3_n.jpg"
+sector: production
 
 ---
 <p><img alt="4.jpg" src="http://farm8.staticflickr.com/7343/15768298153_f12a36ca83_b.jpg" /></p>
