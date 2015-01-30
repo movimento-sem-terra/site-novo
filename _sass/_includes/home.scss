@@ -10,6 +10,7 @@
 @import "home/facebook";
 @import "home/articles";
 @import "home/special-stories";
+@import "home/lollipop";
 
 body > main.home {
   @include default-figure-images();

@@ -1,6 +1,5 @@
 require 'jekyll/post'
 require 'json'
-require 'slugify'
 
 module Jekyll
   class TagsFileGenerator < Generator
@@ -11,7 +10,7 @@ module Jekyll
 
       site.posts.each do |post|
         post.tags.each do |tag|
-          key = tag.values.first.slugify.downcase
+          key = tag.values.first.downcase
           value = post.name
 
           if tags[key].class == Array

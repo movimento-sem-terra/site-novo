@@ -12,6 +12,10 @@ sass:
 collections:
   banners:
 timezone: BR
+lollipop:
+  title: Quem somos
+  link: quem-somos
+  enabled: true
 gems:
   - jekyll-sitemap
   - jekyll-paginate-by
