@@ -3,8 +3,8 @@ date: "2015-01-30T12:03:36-02:00"
 tags:
   - tag: Juventude
   - tag: Pará
-title: Juventude do campo e da cidade se reúnem em Belém (PA)
-support_line: "Além da juventude do MST, diversos coletivos e movimentos trouxeram suas delegações para o Encontro.\n"
+title: "Juventude do campo e da cidade se reúnem em Belém "
+support_line: "Além da juventude do MST do Pará, diversos coletivos e movimentos trouxeram suas delegações para o Encontro.\n"
 menu: lutas e mobilizações
 layout: post
 files:
