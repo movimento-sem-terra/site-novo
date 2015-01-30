@@ -205,6 +205,26 @@
 
     #latest-news{
       @include span-columns(3);
+      .news{
+        height: 59px;
+        overflow: hidden;
+        margin-bottom: 19px;
+
+        .support_line{
+          margin-top: 3px;
+          font-weight: 500;
+        }
+        a{
+          display: block;
+          font-size: 14px;
+          line-height: 14px;
+          font-weight: 700;
+        }
+        img{
+          min-width: 100px;
+        }
+      }
+
       #more-news{
         border-radius: 5px;
         background-color: $mst-green;

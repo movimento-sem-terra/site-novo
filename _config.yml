@@ -46,18 +46,18 @@ paginate_by:
           - section: "campaign"
           - section: "newspaper"
           - section: "tv"
-    - section: 
-        permalink: "videos" 
+    - section:
+        permalink: "videos"
         per_page: 9
         template: "_templates/videos"
         only:
           - section: "tv"
-    - section: 
-        permalink: "reportagens-especiais/" 
+    - section:
+        permalink: "reportagens-especiais/"
         only:
           - label: "special-stories"
-    - section: 
-        permalink: "entrevistas/" 
+    - section:
+        permalink: "entrevistas/"
         only:
           - label: "interviews"
     - all:

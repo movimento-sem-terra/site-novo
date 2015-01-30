@@ -56,7 +56,7 @@ module Jekyll
         item_id = except.select do |item|
           item.id == post.id
         end
-        
+
         field_value && item_id.size == 0
       end
     end

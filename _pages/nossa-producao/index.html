@@ -4,10 +4,12 @@ title: Nossa Produção
 styles: "our-production.css"
 scripts: ["velocity.min.js", "about-us/ask-form.js", "our-production/gallery.js"]
 ---
+<!-- TODO: Filtrar posts (where: 'sector', 'production') -->
+{% assign news = site.posts %}
 <main id="our-production">
   <div id="container">
     <section id="about">
-      {% include our-production/about.html %}
+      {% include our-production/about.html%}
     </section>
 
     <section id="highlights">
@@ -15,7 +17,7 @@ scripts: ["velocity.min.js", "about-us/ask-form.js", "our-production/gallery.js"
     </section>
 
     <section id="news-production">
-      {% include our-production/news-production.html %}
+      {% include our-production/news-production.html posts = news %}
     </section>
 
     <section id="settlement">

@@ -1,70 +1,54 @@
+{% assign keep = include.posts | where : 'section', 'cover' | first %}
+{% assign latest_posts = include.posts | where_not: 'section', 'cover'  %}
+{% assign videos = include.posts | where: 'section', 'tv'  %}
 <div class="content">
   <section id="latest-news">
     <h4>Últimas notícias</h4>
-    <div class="news">
-      <a href="#">
-        Compromisso com a sociedade
-        <span class="support-line">Uma das nossas principais contribuições para a sociedade é...</span>
-      </a>
-    </div>
-    <div class="news">
-      <a href="#">
-        <img src="http://dummyimage.com/81x53/000000/fff" />
-        Compromisso com a sociedade
-        <span class="support-line">Uma das nossas principais contribuições para a sociedade é...</span>
-      </a>
-    </div>
-    <div class="news">
-      <a href="#">
-        <img src="http://dummyimage.com/81x53/000000/fff" />
-        Compromisso com a sociedade
-        <span class="support-line">Uma das nossas principais contribuições para a sociedade é...</span>
-      </a>
-    </div>
-    <div class="news">
-      <a href="#">
-        <img src="http://dummyimage.com/81x53/000000/fff" />
-        Compromisso com a sociedade
-        <span class="support-line">Uma das nossas principais contribuições para a sociedade é...</span>
-      </a>
-    </div>
+    {% for post in latest_posts | limit: 6 %}
+      {% assign thumbnail = post | find_image: 'tiny' %}
+      <div class="news">
+        <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">
+          {% if thumbnail != '' %}
+            <img src="{{ thumbnail }}" alt="{{ post.title }}" />
+            {{ post.title | truncate: 60 }}
+          {% else %}
+            {{ post.title | truncate: 70 }}
+            <span class='support_line'>{{ post.support_line | truncate: 60}}</span>
+          {% endif %}
+
+        </a>
+      </div>
+    {% endfor %}
+
     <a id="more-news" href="#">Mais notícias</a>
   </section>
   <!--  -->
   <div id="others-container">
     <section id="keep-an-eye">
       <h4>Fique de olho</h4>
-      <a href="#">
-        <img src="http://dummyimage.com/329x219/000000/fff" />
-        Fim da fome
-        <span class="support-line">Programa de aquisição de alimentos são avaliados por movimentos</span>
+      <a href="{{ site.baseurl }}{{ keep.url }}" title="{{ keep.title }}">
+        <img src="{{ keep | find_image: 'hd' }}" />
+        {{ keep.title }}
+        <span class="support-line">{{ keep.support_line }}</span>
       </a>
     </section>
 
     <div id="others" >
       <section id="video">
         <h4>Vídeos</h4>
-        <div class="news">
-          <a href="#">
-            <img src="http://dummyimage.com/136x90/000000/fff" />
-            Brasil
-            <span class="support-line">Programas de bolsa de alimentos</span>
-          </a>
-        </div>
-        <div class="news">
-          <a href="#">
-            <img src="http://dummyimage.com/136x90/000000/fff" />
-            Brasil
-            <span class="support-line">Programas de bolsa de alimentos</span>
-          </a>
-        </div>
-        <div class="news">
-          <a href="#">
-            <img src="http://dummyimage.com/136x90/000000/fff" />
-            Brasil
-            <span class="support-line">Programas de bolsa de alimentos</span>
-          </a>
-        </div>
+        {% for post in videos | limit: 3 %}
+          <div class="news">
+            <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">
+              {% if post.video_thumbnail != '' %}
+                <img src="{{ post.video_thumbnail }}" alt="{{ post.title }}" />
+                {{ post.title | truncate: 60 }}
+              {% else %}
+                {{ post.title | truncate: 70 }}
+                <span class='support_line'>{{ post.support_line | truncate: 60}}</span>
+              {% endif %}
+            </a>
+          </div>
+        {% endfor %}
       </section>
       <section id="our-historic">
         <h4>Conheça nosso histórico</h4>

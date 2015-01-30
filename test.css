@@ -1,0 +1,2516 @@
+/*** uncss> filename: http://0.0.0.0:4000/assets/css/site.css ***/
+
+@import url(http://fonts.googleapis.com/css?family=Exo+2:200,500,600,700,800);
+
+@font-face {
+  font-family: 'Glyphicons Social Regular';
+  src: url("../fonts/glyphicons-social-regular.eot");
+  src: url("../fonts/glyphicons-social-regular.eot?#iefix") format("embedded-opentype"),url("../fonts/glyphicons-social-regular.woff") format("woff"),url("../fonts/glyphicons-social-regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Glyphicons Halflings Regular';
+  src: url("../fonts/glyphicons-halflings-regular.eot");
+  src: url("../fonts/glyphicons-halflings-regular.eot?#iefix") format("embedded-opentype"),url("../fonts/glyphicons-halflings-regular.woff") format("woff"),url("../fonts/glyphicons-halflings-regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+*:before,
+*:after {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+  -webkit-tap-highlight-color: transparent;
+}
+
+body {
+  margin: 0;
+  font-family: "Exo 2",Helvetica,Arial,sans-serif;
+  font-size: 16px;
+  line-height: 1.42857;
+  color: #555;
+  background-color: #fff;
+}
+
+body main {
+  padding: 30px 15px;
+}
+
+@media (min-width: 1090px) {
+  body>main {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+h1,
+h2 {
+  line-height: 1.1;
+  margin-bottom: 11px;
+  font-weight: 500;
+}
+
+h1 {
+  font-size: 41px;
+}
+
+h2 {
+  font-size: 34px;
+}
+
+section h2 {
+  margin-top: 5px;
+  font-size: 1em;
+}
+
+section h3 {
+  margin-bottom: 0;
+  margin-top: 5px;
+}
+
+ul {
+  margin-top: 0;
+  margin-bottom: 11px;
+  list-style: none;
+  padding: 0;
+  width: 100%;
+}
+
+p {
+  margin: 0 0 11px;
+}
+
+input,
+button {
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+}
+
+a {
+  color: #006400;
+  text-decoration: none;
+}
+
+a:hover,
+a:focus {
+  color: #007e00;
+  text-decoration: underline;
+}
+
+a:focus {
+  outline: thin dotted;
+  outline: 5px auto -webkit-focus-ring-color;
+  outline-offset: -2px;
+}
+
+#site-header>.cover {
+  background-color: #961913;
+  text-align: initial;
+  padding-top: 10px;
+}
+
+#site-header>.cover #logo-container {
+  padding-bottom: 12px;
+}
+
+#site-header>.cover .logo {
+  display: inline-block;
+  height: 60px;
+  margin-right: 11px;
+  vertical-align: top;
+}
+
+#site-header>.cover .logo img {
+  height: 100%;
+}
+
+#site-header>.cover h1 {
+  display: inline-block;
+  text-shadow: 2px 2px 0px black;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  line-height: 60px;
+}
+
+#site-header>.cover h2 {
+  display: none;
+  text-shadow: 2px 2px 0px black;
+}
+
+#site-header>.cover .open {
+  line-height: 60px;
+  padding: 0 30px 0 20px;
+  background: none;
+  border: none;
+  outline: none;
+  float: left;
+  margin: 0;
+}
+
+#site-header>.cover .open::after {
+  font-family: 'Glyphicons Halflings Regular', Helvetica, Arial, sans-serif;
+  content: '\E055';
+  text-indent: 0;
+  font-size: 2.3em;
+  color: white;
+  float: left;
+}
+
+@media (min-width: 1090px) {
+  #site-header>.cover {
+    background-image: url(/assets/img/capa.jpeg);
+    background-size: cover;
+    height: 120px;
+  }
+
+  #site-header>.cover #logo-container {
+    padding-bottom: 0;
+  }
+
+  #site-header>.cover .logo {
+    height: 60px;
+  }
+
+  #site-header>.cover .open {
+    display: none;
+  }
+
+  #site-header>.cover h1,
+  #site-header>.cover h2 {
+    margin: 0;
+    vertical-align: top;
+    display: inline-block;
+    line-height: 100px;
+  }
+
+  #site-header>.cover h1 {
+    font-size: 3em;
+    font-weight: 600;
+    padding: 0 5px;
+  }
+
+  #site-header>.cover h2 {
+    font-size: 1.3em;
+    font-weight: 400;
+    line-height: 105px;
+  }
+
+  #site-header>.cover .logo {
+    display: inline-block;
+    width: auto;
+    height: 100px;
+  }
+
+  #site-header>.cover #logo-container {
+    width: 1100px;
+    margin: 0 auto;
+  }
+}
+
+.menu>ul li.dropdown>a:after {
+  font-family: 'Glyphicons Halflings Regular', Helvetica, Arial, sans-serif;
+  content: " \E114";
+  font-size: 0.7em;
+  display: inline-block;
+  margin-left: 0.5em;
+}
+
+@media (min-width: 1090px) {
+  .menu {
+    display: inline;
+  }
+
+  .menu>ul {
+    height: 0;
+    opacity: 0;
+    overflow: hidden;
+    margin: 0 20px;
+    padding: 0;
+    -webkit-transition: opacity 0.2s ease-in;
+    transition: opacity 0.2s ease-in;
+  }
+
+  .menu>ul,
+  .menu>ul ul {
+    line-height: 1;
+    list-style: none;
+    width: auto;
+    font-size: 17px;
+    text-align: left;
+  }
+
+  .menu>ul li,
+  .menu>ul ul li {
+    display: block;
+  }
+
+  .menu>ul li ul.dropdown-menu {
+    text-align: left;
+    font-size: 14px;
+    height: 0;
+    opacity: 0;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    -webkit-transition: opacity 0.2s ease-in;
+    transition: opacity 0.2s ease-in;
+  }
+
+  .menu>ul li ul.dropdown-menu li {
+    margin-left: 0px;
+  }
+
+  .menu>ul li+li,
+  .menu>ul ul li+li {
+    margin-left: 20px;
+  }
+
+  .menu>ul li a,
+  .menu>ul li a:visited,
+  .menu>ul ul li a,
+  .menu>ul ul li a:visited {
+    padding: 10px 0px;
+    display: block;
+    color: #343233;
+  }
+
+  .menu>ul li a:hover,
+  .menu>ul li a:visited:hover,
+  .menu>ul ul li a:hover,
+  .menu>ul ul li a:visited:hover {
+    color: #686466;
+    text-decoration: underline;
+  }
+}
+
+@media (min-width: 480px) {
+  .menu ul {
+    text-align: center;
+    margin-bottom: 0;
+  }
+
+  .menu ul li {
+    display: inline-block;
+  }
+
+  .menu ul li a,
+  .menu ul li a:hover,
+  .menu ul li a:visited {
+    display: inline-block;
+    padding: 10px 5px;
+  }
+
+  .menu>ul {
+    height: auto;
+    opacity: 1;
+    overflow: visible;
+  }
+
+  .menu>ul li.dropdown {
+    position: relative;
+  }
+
+  .menu>ul ul.dropdown-menu {
+    background: #E1D7CC;
+    position: absolute;
+    left: -9999px;
+    top: 100%;
+    max-width: 250px;
+    margin: 0;
+    border-radius: 0 0 4px 4px;
+    white-space: nowrap;
+    text-align: left;
+  }
+
+  .menu>ul ul.dropdown-menu li {
+    display: block;
+    margin: 0px 5px;
+  }
+
+  .menu>ul ul.dropdown-menu li a {
+    display: block;
+    padding: 5px;
+    color: #343233;
+  }
+
+  .menu>ul ul.dropdown-menu li a:hover {
+    color: #686466;
+  }
+}
+
+@media (max-width: 768px) {
+  html,
+  body {
+    overflow-x: hidden;
+  }
+
+  .menu {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    width: 220px;
+    height: auto;
+    padding-top: 10px;
+    background: #961913;
+    box-shadow: inset -5px -10px 10px 0 rgba(0,0,0,0.3);
+    -webkit-transform: translateX(-220px);
+    -moz-transform: translateX(-220px);
+    -ms-transform: translateX(-220px);
+    transform: translateX(-220px);
+  }
+
+  .menu .dropdown-menu li a {
+    padding-left: 40px;
+  }
+
+  .menu li a {
+    display: block;
+    border-bottom: 1px solid rgba(255,255,255,0.3);
+    margin: 0 10px;
+    padding: 10px;
+    color: #FFF;
+    text-decoration: none;
+  }
+
+  .menu li a:hover {
+    background: #FFF;
+    color: #961913;
+  }
+
+  header,
+  main,
+  footer {
+    -webkit-transition: all .25s linear;
+    -moz-transition: all .25s linear;
+    -ms-transition: all .25s linear;
+    transition: all .25s linear;
+    -webkit-transform: translateX(0);
+    -moz-transform: translateX(0);
+    -ms-transform: translateX(0);
+    transform: translateX(0);
+  }
+}
+
+#site-header {
+  background-color: #E1D7CC;
+  color: white;
+  box-shadow: none;
+}
+
+#site-header nav {
+  display: inline;
+}
+
+@media (min-width: 1090px) {
+  #site-header {
+    box-shadow: 0px 0px 3px rgba(0,0,0,0.3);
+  }
+}
+
+.search {
+  position: static;
+  padding: 0;
+  margin: 0;
+  background-color: #961913;
+}
+
+.search #___gcse_0 {
+  width: 102%;
+}
+
+.search #___gcse_0>div {
+  padding: auto 0;
+}
+
+.search #gs_cb50 {
+  color: #961913;
+  position: relative;
+  top: 5px;
+}
+
+.search #gs_cb50:hover,
+.search #gs_cb50:focus {
+  color: #007e00;
+}
+
+.search .gsc-selected-option-container {
+  min-width: 90px;
+}
+
+.search .gsc-control-cse {
+  background-color: transparent;
+  border-color: transparent;
+  padding: 0 18px 12px 18px;
+}
+
+.search .gsc-search-button {
+  display: none;
+}
+
+.search .gsc-input-box {
+  border-radius: 3px;
+  height: 30px;
+}
+
+.search .gsc-input-box #gs_tti50 {
+  padding-top: 6px;
+}
+
+.search .gsc-input-box #gs_tti50 input:focus {
+  border-color: transparent;
+  outline: none;
+  box-shadow: none;
+}
+
+.search .gsc-results-wrapper-overlay {
+  width: 96%;
+  height: 96%;
+  top: 2%;
+  left: 2%;
+  padding: 25px 10px;
+}
+
+.search input {
+  width: 100%;
+  height: 30px;
+  vertical-align: middle;
+  padding-left: 30px;
+  border-radius: 3px;
+  border: none;
+  color: #444;
+  line-height: 1em;
+}
+
+.search input:focus {
+  outline: none;
+  box-shadow: 0 0 5px #961913;
+}
+
+@media (min-width: 768px) {
+  .search .gsc-control-cse {
+    padding: 12px 18px 12px 18px;
+  }
+}
+
+@media (min-width: 1090px) {
+  .search {
+    position: absolute;
+    top: 45px;
+    background-color: transparent;
+  }
+
+  .search #___gcse_0 {
+    width: 300px;
+  }
+
+  .search .gsc-results-wrapper-overlay {
+    width: 70%;
+    height: 80%;
+    top: 5%;
+    left: 12%;
+    padding: 30px;
+  }
+
+  .search .gsc-control-cse {
+    padding: 0 18px 12px 18px;
+  }
+}
+
+body>footer {
+  height: 100%;
+  width: 100%;
+  background-color: #961913;
+  box-shadow: inset 0 5px 5px -5px black;
+  padding: 20px 0 20px;
+  color: #fff;
+}
+
+body>footer div {
+  width: 80%;
+  margin: auto;
+}
+
+body>footer div h1 {
+  font-size: 1.8em;
+  border-bottom: dashed #e74c3c 1px;
+  padding-bottom: 10px;
+  font-weight: lighter;
+  margin-top: 30px;
+}
+
+body>footer div ul {
+  margin: 0;
+  padding: 0;
+  padding-left: 5px;
+}
+
+body>footer .links ul li a:before {
+  content: "\e164";
+  font-family: 'Glyphicons Halflings Regular';
+  margin-right: 7px;
+  font-size: 12px;
+}
+
+body>footer .social a {
+  font-family: 'Glyphicons Social Regular', Helvetica, Arial, sans-serif;
+}
+
+body>footer .social a:before {
+  margin-right: 10px;
+  vertical-align: middle;
+}
+
+body>footer .social a.facebook {
+  margin-right: 23px;
+}
+
+body>footer .social a.facebook:before {
+  content: '\E031';
+}
+
+body>footer .social a.twitter:before {
+  content: '\E032';
+}
+
+body>footer .social a.rss:before {
+  content: '\E038';
+}
+
+body>footer .parceiros ul {
+  padding-left: 0;
+  text-align: center;
+}
+
+body>footer .parceiros ul li {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+body>footer .parceiros ul li a {
+  display: inline-block;
+  height: 64px;
+  line-height: 55px;
+  padding: 2px;
+  margin: 3px;
+  margin-bottom: 6px;
+  background-color: #fff;
+  border-radius: 3px;
+  box-shadow: 3px 3px 3px rgba(0,0,0,0.125);
+}
+
+body>footer .parceiros ul li a:hover {
+  opacity: 0.8;
+  box-shadow: none;
+}
+
+@media (min-width: 1090px) {
+  body>footer {
+    text-align: center;
+  }
+
+  body>footer div {
+    display: inline-block;
+    width: 25%;
+    vertical-align: top;
+    text-align: left;
+    padding: 10px;
+  }
+
+  body>footer div.parceiros {
+    display: block;
+    width: 75%;
+  }
+}
+
+body>footer a {
+  color: #fff;
+}
+
+body>footer a:hover {
+  color: #bbb;
+}
+
+body>footer small {
+  display: block;
+  margin-top: 40px;
+  margin-bottom: 0;
+  font-size: 0.7em;
+  font-weight: lighter;
+  text-align: center;
+}
+
+html {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  -webkit-box-sizing: inherit;
+  -moz-box-sizing: inherit;
+  box-sizing: inherit;
+}
+
+@media screen and (min-width: 768px) {
+  .facebook {
+    float: left;
+    display: block;
+    margin-right: 2.35765%;
+    width: 31.76157%;
+  }
+
+  .facebook:last-child {
+    margin-right: 0;
+  }
+
+  .twitter {
+    float: left;
+    display: block;
+    margin-right: 2.35765%;
+    width: 31.76157%;
+  }
+
+  .twitter:last-child {
+    margin-right: 0;
+  }
+}
+
+section {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+@-webkit-keyframes rotator {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(270deg);
+  }
+}
+
+@-moz-keyframes rotator {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(270deg);
+  }
+}
+
+@keyframes rotator {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(270deg);
+  }
+}
+
+@-webkit-keyframes dash {
+  0% {
+    stroke-dashoffset: 187;
+  }
+
+  50% {
+    stroke-dashoffset: 1;
+    transform: rotate(135deg);
+  }
+
+  100% {
+    stroke-dashoffset: 187;
+    transform: rotate(450deg);
+  }
+}
+
+@-moz-keyframes dash {
+  0% {
+    stroke-dashoffset: 187;
+  }
+
+  50% {
+    stroke-dashoffset: 1;
+    transform: rotate(135deg);
+  }
+
+  100% {
+    stroke-dashoffset: 187;
+    transform: rotate(450deg);
+  }
+}
+
+@keyframes dash {
+  0% {
+    stroke-dashoffset: 187;
+  }
+
+  50% {
+    stroke-dashoffset: 1;
+    transform: rotate(135deg);
+  }
+
+  100% {
+    stroke-dashoffset: 187;
+    transform: rotate(450deg);
+  }
+}
+
+/*** uncss> filename: http://0.0.0.0:4000/assets/css/our-production.css ***/
+
+html {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  -webkit-box-sizing: inherit;
+  -moz-box-sizing: inherit;
+  box-sizing: inherit;
+}
+
+#our-production #news-production #others-container .ask-us .loading .spinner,
+#our-production #settlement .content #gallery .loading .spinner {
+  -webkit-animation: rotator 1.4s linear infinite;
+  -moz-animation: rotator 1.4s linear infinite;
+  animation: rotator 1.4s linear infinite;
+}
+
+#our-production #news-production #others-container .ask-us .loading .spinner .path,
+#our-production #settlement .content #gallery .loading .spinner .path {
+  stroke-dasharray: 187;
+  stroke-dashoffset: 0;
+  transform-origin: center;
+  stroke: #fff;
+  -webkit-animation: dash 1.4s ease-in-out infinite;
+  -moz-animation: dash 1.4s ease-in-out infinite;
+  animation: dash 1.4s ease-in-out infinite;
+}
+
+@-webkit-keyframes rotator {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(270deg);
+  }
+}
+
+@-moz-keyframes rotator {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(270deg);
+  }
+}
+
+@keyframes rotator {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(270deg);
+  }
+}
+
+@-webkit-keyframes dash {
+  0% {
+    stroke-dashoffset: 187;
+  }
+
+  50% {
+    stroke-dashoffset: 1;
+    transform: rotate(135deg);
+  }
+
+  100% {
+    stroke-dashoffset: 187;
+    transform: rotate(450deg);
+  }
+}
+
+@-moz-keyframes dash {
+  0% {
+    stroke-dashoffset: 187;
+  }
+
+  50% {
+    stroke-dashoffset: 1;
+    transform: rotate(135deg);
+  }
+
+  100% {
+    stroke-dashoffset: 187;
+    transform: rotate(450deg);
+  }
+}
+
+@keyframes dash {
+  0% {
+    stroke-dashoffset: 187;
+  }
+
+  50% {
+    stroke-dashoffset: 1;
+    transform: rotate(135deg);
+  }
+
+  100% {
+    stroke-dashoffset: 187;
+    transform: rotate(450deg);
+  }
+}
+
+#our-production #news-production #others-container .ask-us .loading .spinner,
+#our-production #settlement .content #gallery .loading .spinner {
+  -webkit-animation: rotator 1.4s linear infinite;
+  -moz-animation: rotator 1.4s linear infinite;
+  animation: rotator 1.4s linear infinite;
+}
+
+#our-production #news-production #others-container .ask-us .loading .spinner .path,
+#our-production #settlement .content #gallery .loading .spinner .path {
+  stroke-dasharray: 187;
+  stroke-dashoffset: 0;
+  transform-origin: center;
+  stroke: #fff;
+  -webkit-animation: dash 1.4s ease-in-out infinite;
+  -moz-animation: dash 1.4s ease-in-out infinite;
+  animation: dash 1.4s ease-in-out infinite;
+}
+
+@-webkit-keyframes rotator {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(270deg);
+  }
+}
+
+@-moz-keyframes rotator {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(270deg);
+  }
+}
+
+@keyframes rotator {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(270deg);
+  }
+}
+
+@-webkit-keyframes dash {
+  0% {
+    stroke-dashoffset: 187;
+  }
+
+  50% {
+    stroke-dashoffset: 1;
+    transform: rotate(135deg);
+  }
+
+  100% {
+    stroke-dashoffset: 187;
+    transform: rotate(450deg);
+  }
+}
+
+@-moz-keyframes dash {
+  0% {
+    stroke-dashoffset: 187;
+  }
+
+  50% {
+    stroke-dashoffset: 1;
+    transform: rotate(135deg);
+  }
+
+  100% {
+    stroke-dashoffset: 187;
+    transform: rotate(450deg);
+  }
+}
+
+@keyframes dash {
+  0% {
+    stroke-dashoffset: 187;
+  }
+
+  50% {
+    stroke-dashoffset: 1;
+    transform: rotate(135deg);
+  }
+
+  100% {
+    stroke-dashoffset: 187;
+    transform: rotate(450deg);
+  }
+}
+
+#our-production #news-production #others-container .ask-us {
+  background-color: #006400;
+  height: 124px;
+  position: relative;
+}
+
+#our-production #news-production #others-container .ask-us .content {
+  padding-top: 24px;
+}
+
+#our-production #news-production #others-container .ask-us .loading {
+  width: 45px;
+  margin: 0 auto;
+  display: none;
+}
+
+#our-production #news-production #others-container .ask-us p.message {
+  background-color: orange;
+  position: relative;
+  color: white;
+  list-style: none;
+  width: 100%;
+  text-align: center;
+  color: #fff;
+  font-size: 14px;
+  opacity: 0;
+  padding: 8px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  -webkit-transform: translate(0, -20px);
+  -moz-transform: translate(0, -20px);
+  -ms-transform: translate(0, -20px);
+  -o-transform: translate(0, -20px);
+  transform: translate(0, -20px);
+  -webkit-transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  -moz-transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+#our-production #news-production #others-container .ask-us p.message.error {
+  color: white;
+  background-color: #961913;
+  position: absolute;
+  top: 0px;
+  height: 24px;
+  padding-top: 0px;
+}
+
+#our-production #news-production #others-container .ask-us p.message.success {
+  position: absolute;
+  top: 0px;
+  height: 24px;
+  padding-top: 0px;
+  background-color: #fff;
+  color: #006400;
+}
+
+#our-production #news-production #others-container .ask-us form {
+  width: 940px;
+  margin: 0 auto;
+  display: none;
+}
+
+#our-production #news-production #others-container .ask-us form.show {
+  display: block;
+}
+
+#our-production #news-production #others-container .ask-us form div.form-input {
+  float: left;
+  margin-right: 10px;
+}
+
+#our-production #news-production #others-container .ask-us form label {
+  font-weight: 600;
+  color: #fff;
+  font-style: italic;
+  font-size: 26px;
+  margin-right: 20px;
+  margin-top: 7px;
+  float: left;
+}
+
+#our-production #news-production #others-container .ask-us form input {
+  font-style: italic;
+  color: #888888;
+  padding: 13px;
+  border: solid 1px #fff;
+  border-radius: 5px;
+  font-size: 15px;
+  z-index: 999;
+  position: relative;
+}
+
+#our-production #news-production #others-container .ask-us form input[type="submit"] {
+  border: solid 1px #ebebeb;
+  color: #fff;
+  background-color: #961913;
+  font-style: normal;
+  width: 100px;
+  float: left;
+}
+
+#our-production #news-production #others-container .ask-us form input[name="question"] {
+  width: 290px;
+}
+
+#our-production #news-production #others-container .ask-us form input[name="email"] {
+  width: 200px;
+}
+
+#our-production #about .content,
+#our-production #highlights .content,
+#our-production #news-production>.content,
+#our-production #settlement .content {
+  max-width: 1020px;
+  margin: 0 auto;
+}
+
+#our-production #about .content,
+#our-production #highlights .content,
+#our-production #news-production>.content,
+#our-production #settlement .content {
+  max-width: 68em;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#our-production #about .content:after,
+#our-production #highlights .content:after,
+#our-production #news-production>.content:after,
+#our-production #settlement .content:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+#our-production #highlights .content #infos .info p strong {
+  text-shadow: 1px 2px 1px #000000;
+  font-family: 'Exo 2';
+  color: #ffffff;
+  font-weight: 500;
+}
+
+#our-production #about .content h2,
+#our-production #about .content #summary p,
+#our-production #about .content #testimonials h4,
+#our-production #highlights .content h5#brasil {
+  text-shadow: 1px 2px 4px #000000;
+  color: #ffffff;
+}
+
+#our-production #about .content #testimonials .testimonial p {
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+#our-production {
+  padding: 0;
+  width: 100%;
+  background-color: #f8f8f9;
+}
+
+#our-production #about {
+  padding-bottom: 36px;
+  overflow: hidden;
+  background: url(../img/nossa-producao/background.jpg) no-repeat left top;
+  background-size: cover;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+}
+
+#our-production #about .content {
+  margin-top: 49px;
+}
+
+#our-production #about .content h2 {
+  font-size: 36px;
+  font-style: italic;
+}
+
+#our-production #about .content #summary {
+  float: left;
+  display: block;
+  margin-right: 2.35765%;
+  width: 48.82117%;
+  overflow: hidden;
+  float: left;
+}
+
+#our-production #about .content #summary p {
+  font: 500 18px / 24px;
+  color: #ffffff;
+  font-weight: 200;
+}
+
+#our-production #about .content #testimonials {
+  float: left;
+  display: block;
+  margin-right: 2.35765%;
+  width: 48.82117%;
+  text-align: center;
+}
+
+#our-production #about .content #testimonials:last-child {
+  margin-right: 0;
+}
+
+#our-production #about .content #testimonials h4 {
+  font-size: 24px;
+  font-weight: 200;
+  letter-spacing: 1px;
+  text-align: center;
+  margin: 0 0 14px 0px;
+}
+
+#our-production #about .content #testimonials .testimonial {
+  width: 248px;
+  height: 191px;
+  background: url(../img/nossa-producao/ballon.png) no-repeat left top;
+  float: left;
+  text-align: center;
+  padding: 30px 14px 30px 14px;
+}
+
+#our-production #about .content #testimonials .testimonial:first-of-type {
+  margin-right: 22px;
+}
+
+#our-production #about .content #testimonials .testimonial p {
+  font: 700 16px "Exo 2";
+  color: #961913;
+  height: 93px;
+  font-weight: 600;
+}
+
+#our-production #about .content #testimonials .testimonial a {
+  color: #555555;
+  font-weight: 200;
+}
+
+#our-production #highlights {
+  background-color: #961913;
+  width: 100%;
+  min-height: 110px;
+}
+
+#our-production #highlights .content h5#brasil {
+  float: left;
+  display: block;
+  margin-right: 2.35765%;
+  width: 14.70196%;
+  font-size: 60px;
+  float: left;
+  font-style: italic;
+  margin-top: 0;
+  margin-bottom: 0;
+  min-width: 235px;
+  text-align: center;
+}
+
+#our-production #highlights .content #infos {
+  float: left;
+  display: block;
+  margin-right: 2.35765%;
+  width: 74.41059%;
+}
+
+#our-production #highlights .content #infos:last-child {
+  margin-right: 0;
+}
+
+#our-production #highlights .content #infos .info {
+  text-align: center;
+  float: left;
+  display: block;
+  margin-right: 3.16844%;
+  width: 31.22104%;
+}
+
+#our-production #highlights .content #infos .info:last-child {
+  margin-right: 0;
+}
+
+#our-production #highlights .content #infos .info p {
+  font-size: 19px;
+  color: #da6164;
+  margin-top: 7px;
+}
+
+#our-production #highlights .content #infos .info p strong {
+  margin-bottom: -12px;
+  font-size: 37px;
+  font-weight: 700;
+  display: block;
+}
+
+#our-production #news-production {
+  padding-top: 0;
+  height: 100%;
+}
+
+#our-production #news-production section {
+  padding-top: 0px;
+}
+
+#our-production #news-production .news {
+  margin-bottom: 24px;
+}
+
+#our-production #news-production .news img {
+  float: left;
+  margin-right: 10px;
+}
+
+#our-production #news-production a {
+  font-size: 18px;
+  color: #555555;
+  line-height: 18px;
+  font-weight: 700;
+}
+
+#our-production #news-production a span.support-line {
+  font-weight: 500;
+  display: block;
+  font-size: 16px;
+}
+
+#our-production #news-production h4 {
+  margin: 23px 0 22px 0;
+  font-size: 24px;
+  color: #555555;
+  font-weight: 900;
+}
+
+#our-production #news-production>.content {
+  border-bottom: solid 1px #006400;
+}
+
+#our-production #news-production #latest-news {
+  min-height: 616px;
+  float: left;
+  display: block;
+  margin-right: 2.35765%;
+  width: 23.23176%;
+}
+
+#our-production #news-production #latest-news .news img {
+  max-height: 53px;
+}
+
+#our-production #news-production #latest-news #more-news {
+  border-radius: 5px;
+  background-color: #006400;
+  color: #fff;
+  text-align: center;
+  display: block;
+  width: 100%;
+  padding: 10px 30px;
+  text-decoration: none;
+  -webkit-transition: background-color 0.4s ease-out;
+  -moz-transition: background-color 0.4s ease-out;
+  transition: background-color 0.4s ease-out;
+}
+
+#our-production #news-production #latest-news #more-news:hover {
+  background-color: #961913;
+}
+
+#our-production #news-production #others-container {
+  float: left;
+  display: block;
+  margin-right: 2.35765%;
+  width: 74.41059%;
+  border-left: solid 1px #b7b7b7;
+  min-height: 572px;
+}
+
+#our-production #news-production #others-container:last-child {
+  margin-right: 0;
+}
+
+#our-production #news-production #others-container #keep-an-eye {
+  padding-left: 16px;
+  float: left;
+  display: block;
+  margin-right: 3.16844%;
+  width: 42.6842%;
+}
+
+#our-production #news-production #others-container #keep-an-eye img {
+  display: block;
+  margin-bottom: 5px;
+  width: 100%;
+}
+
+#our-production #news-production #others-container #others {
+  float: left;
+  display: block;
+  margin-right: 3.16844%;
+  width: 54.14736%;
+  margin-right: 0;
+}
+
+#our-production #news-production #others-container .news {
+  float: left;
+  display: block;
+  margin-right: 3.16844%;
+  width: 31.22104%;
+}
+
+#our-production #news-production #others-container .news:last-child {
+  margin-right: 0;
+}
+
+#our-production #news-production #others-container .news .support-line {
+  font-size: 15px;
+  font-weight: 200;
+}
+
+#our-production #news-production #others-container .news img {
+  width: 100%;
+  margin-bottom: 5px;
+}
+
+#our-production #news-production #others-container .news a {
+  font-size: 15px;
+}
+
+#our-production #news-production #others-container .ask-us {
+  float: left;
+  display: block;
+  margin-right: 3.16844%;
+  width: 100%;
+  min-height: 141px;
+  padding-bottom: 10px;
+  border-top: solid 1px #b7b7b7;
+  background-color: transparent;
+  padding-left: 16px;
+}
+
+#our-production #news-production #others-container .ask-us:last-child {
+  margin-right: 0;
+}
+
+#our-production #news-production #others-container .ask-us form .form-input.email {
+  float: left;
+  display: block;
+  margin-right: 2.35765%;
+  width: 40.29137%;
+}
+
+#our-production #news-production #others-container .ask-us form .form-input.question {
+  float: left;
+  display: block;
+  margin-right: 2.35765%;
+  width: 40.29137%;
+}
+
+#our-production #news-production #others-container .ask-us form {
+  width: 100%;
+}
+
+#our-production #news-production #others-container .ask-us form input {
+  border: solid 1px #b7b7b7;
+}
+
+#our-production #news-production #others-container .ask-us form input[type="email"],
+#our-production #news-production #others-container .ask-us form input[type="text"] {
+  width: 100%;
+  margin-right: 0px;
+}
+
+#our-production #news-production #others-container .ask-us form input[type="submit"] {
+  float: left;
+  display: block;
+  margin-right: 2.35765%;
+  width: 14.70196%;
+  margin-right: 0;
+  background-color: #006400;
+}
+
+#our-production #news-production #others-container .ask-us form label {
+  width: auto;
+  float: none;
+  display: block;
+  color: #555555;
+  font-style: normal;
+  margin-top: 15px;
+  margin-bottom: 10px;
+}
+
+#our-production #news-production #others-container .ask-us .content {
+  padding: 0px;
+}
+
+#our-production #settlement .content {
+  margin-top: 20px;
+  padding-bottom: 70px;
+}
+
+#our-production #settlement .content h3 {
+  font-size: 34px;
+  color: #555555;
+  margin-bottom: 34px;
+}
+
+#our-production #settlement .content #text {
+  float: left;
+  display: block;
+  margin-right: 2.35765%;
+  width: 40.29137%;
+}
+
+#our-production #settlement .content #gallery {
+  margin-left: 8.5298%;
+  float: left;
+  display: block;
+  margin-right: 2.35765%;
+  width: 48.82117%;
+  overflow: hidden;
+  position: relative;
+  margin-top: 17px;
+}
+
+#our-production #settlement .content #gallery:last-child {
+  margin-right: 0;
+}
+
+#our-production #settlement .content #gallery .loading {
+  position: absolute;
+  top: 31%;
+  left: 50%;
+  margin-left: -20px;
+}
+
+#our-production #settlement .content #gallery .loading .spinner .path {
+  stroke: #000;
+}
+
+#our-production #settlement .content #gallery figure {
+  margin: 0;
+  text-align: center;
+  position: relative;
+  z-index: 999;
+  min-height: 421px;
+  min-width: 538px;
+}
+
+#our-production #settlement .content #gallery figure legend {
+  display: block;
+  margin: 0 auto;
+  margin-top: 12px;
+}
+
+#our-production #settlement .content #gallery figure strong {
+  display: block;
+}
+
+#our-production #settlement .content #gallery #thumbs {
+  position: relative;
+}
+
+#our-production #settlement .content #gallery #thumbs a.arrow {
+  -webkit-transition: all 0.4s ease-out;
+  -moz-transition: all 0.4s ease-out;
+  transition: all 0.4s ease-out;
+  background-color: rgba(255,255,255,0.6);
+  display: block;
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  z-index: 999;
+  margin: 0;
+  border-radius: 100%;
+  padding-top: 18px;
+  top: 12px;
+  padding: 19px;
+  font-family: 'Glyphicons Halflings Regular', Helvetica, Arial, sans-serif;
+  text-decoration: none;
+  color: rgba(0,0,0,0.6);
+}
+
+#our-production #settlement .content #gallery #thumbs a.arrow:hover {
+  background-color: #000;
+  color: #fff;
+}
+
+#our-production #settlement .content #gallery #thumbs a.arrow.left {
+  left: -26px;
+  padding-left: 29px;
+}
+
+#our-production #settlement .content #gallery #thumbs a.arrow.left:before {
+  content: '\E079';
+}
+
+#our-production #settlement .content #gallery #thumbs a.arrow.right {
+  left: 497px;
+  bottom: 11%;
+  padding-left: 11px;
+}
+
+#our-production #settlement .content #gallery #thumbs a.arrow.right:before {
+  content: '\E080';
+}
+
+#our-production #settlement .content #gallery #thumbs ul {
+  overflow: hidden;
+  width: 800px;
+  height: 130px;
+  margin-top: 24px;
+  position: relative;
+}
+
+#our-production #settlement .content #gallery #thumbs ul li {
+  float: left;
+  margin-right: 5px;
+  position: relative;
+}
+
+#our-production #settlement .content #gallery #thumbs ul li a {
+  -webkit-transition: all 0.3s ease-out;
+  -moz-transition: all 0.3s ease-out;
+  transition: all 0.3s ease-out;
+  border-bottom: solid 1px #fff;
+}
+
+#our-production #settlement .content #gallery #thumbs ul li a img {
+  min-width: 129px;
+  padding-bottom: 0px;
+}
+
+/*** uncss> filename: http://www.google.com/uds/api/search/1.0/23952f7483f1bca4119a89c020d13def/default+pt_PT.css ***/
+
+/** Copyright 2005 Google Inc. All rights reserved. */
+
+/* the GSearchControl CSS Classes
+ * .gsc-control : the primary class of the control
+ */
+
+.gsc-control-cse {
+  width: 100%;
+  font-family: Arial, sans-serif;
+  font-size: 13px;
+}
+
+.gsc-control-cse div {
+  position: static;
+}
+
+/* control inputs
+ * .gsc-search-box : the container that hosts the text input area
+ * .gsc-input : the text input area
+ * .gsc-keeper : the save link below savable results
+ */
+
+form.gsc-search-box {
+  font-size: 13px;
+  margin-top: 0;
+  margin-right: 0;
+  margin-bottom: 4px;
+  margin-left: 0;
+  width: 100%;
+}
+
+/*
+ * This table contains the input element as well as the search button
+ * Note that the search button column is fixed width, designed to hold the
+ * button div's background image
+ */
+
+table.gsc-search-box {
+  border-style: none;
+  border-width: 0;
+  border-spacing: 0 0;
+  width: 100%;
+  margin-bottom: 2px;
+}
+
+table.gsc-search-box td {
+  vertical-align: middle;
+}
+
+table.gsc-search-box td.gsc-input {
+  padding-right: 12px;
+}
+
+td.gsc-search-button {
+  width: 1%;
+}
+
+td.gsc-clear-button {
+  width: 14px;
+}
+
+/**
+ * undo common generic table rules
+ * that tend to impact branding
+ */
+
+table.gsc-branding td,
+table.gsc-branding {
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;
+  border: none;
+}
+
+table.gsc-branding {
+  border-style: none;
+  border-width: 0;
+  border-spacing: 0 0;
+  width: 100%;
+}
+
+.gsc-branding-text,
+ {
+  color: #676767;
+}
+
+td.gsc-branding-text {
+  vertical-align: top;
+}
+
+td.gsc-branding-text div.gsc-branding-text {
+  padding-bottom: 2px;
+  text-align: right;
+  font-size: 11px;
+  margin-right: 2px;
+}
+
+td.gsc-branding-img {
+  width: 65px;
+  vertical-align: bottom;
+}
+
+img.gsc-branding-img {
+  padding-top: 1px;
+}
+
+img.gsc-branding-img {
+  margin: 0 0 0 0;
+  padding-right: 0;
+  padding-left: 0;
+  padding-bottom: 0;
+  border: none;
+  display: inline;
+}
+
+input.gsc-search-button {
+  margin-left: 2px;
+}
+
+div.gsc-clear-button {
+  display: inline;
+  text-align: right;
+  margin-left: 4px;
+  margin-right: 4px;
+  padding-left: 10px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-image: url('//www.google.com/uds/css/clear.gif');
+  cursor: pointer;
+}
+
+.gsc-search-box-tools .gsc-clear-button {
+  display: none;
+}
+
+.gsc-results-close-btn {
+  background-image: url("//www.google.com/images/nav_logo114.png");
+  background-repeat: no-repeat;
+  background-position: -140px -230px;
+  float: right;
+  display: none;
+  opacity: 0;
+  height: 12px;
+  width: 12px;
+  position: absolute !important;
+  top: 20px;
+  right: 20px;
+  cursor: pointer;
+}
+
+.gsc-results-wrapper-overlay {
+  border: none;
+  margin: auto;
+  border-radius: 1px;
+  overflow: auto;
+  height: 80%;
+  -webkit-box-shadow: 0px 3px 10px rgba(34, 25, 25, 0.4);
+  -moz-box-shadow: 0px 3px 10px rgba(34, 25, 25, 0.4);
+  -ms-box-shadow: 0px 3px 10px rgba(34, 25, 25, 0.4);
+  -o-box-shadow: 0px 3px 10px rgba(34, 25, 25, 0.4);
+  box-shadow: 0px 3px 10px rgba(34, 25, 25, 0.4);
+  border-collapse: separate;
+  background: white;
+  padding: 30px;
+  width: 70%;
+  position: fixed !important;
+  top: 5%;
+  left: 12%;
+  opacity: 0;
+  z-index: 100002;
+  visibility: hidden;
+  -webkit-transition: all 0.25s linear;
+  -moz-transition: all 0.25s linear;
+  -ms-transition: all 0.25s linear;
+  -o-transition: all 0.25s linear;
+  transition: all 0.25s linear;
+  /* For IE 8 */
+  -ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=7, Direction=135, Color='#888888')";
+  /* For IE 5.5 - 7 */
+  filter: progid:DXImageTransform.Microsoft.Shadow(Strength=7, Direction=135, Color='#888888');
+}
+
+.gsc-modal-background-image {
+  position: fixed !important;
+  top: 0px;
+  left: 0px;
+  height: 130%;
+  width: 100%;
+  z-index: 100001;
+  background-color: white;
+  opacity: 0;
+  -ms-filter: "alpha(opacity=0)";
+  filter: alpha(opacity=0);
+  display: none;
+  -webkit-transition: all 0.25s linear;
+  -moz-transition: all 0.25s linear;
+  -ms-transition: all 0.25s linear;
+  -o-transition: all 0.25s linear;
+  transition: all 0.25s linear;
+}
+
+/*
+ * Given that this is sitting in a variable width tabel cell, the idea is
+ * for it to consume the entire cell. The adjacent cell contains the search
+ * button and that is a fixed width cell.
+ */
+
+input.gsc-input {
+  padding: 1px 6px;
+  border: 1px solid #DDD;
+  width: 99%;
+}
+
+/* each section of results has a results header table
+ * .gsc-resultsHeader : the header itseld
+ * td.twiddleRegionCell : the section that controls twiddleing of the section to expand/collapse
+ * td.configLabelCell : the twiddler that controls active configuration of a searcher (used in GlocalSearch)
+ * .gsc-twiddle : the twiddle image, note, this is a div that wraps gsc-title so that standard image replacement is feasible
+ * .gsc-twiddle-closed : class added to gsc-twiddle when the twiddler is in the closed state
+ * .gsc-twiddle-opened : class added to gsc-twiddle when the twiddler is in the opened state
+ * .gsc-title : the section's title (e.g., Web Results, etc.)
+ * .gsc-stats : contains the result counts
+ * .gsc-stats
+ */
+
+.gsc-resultsHeader {
+  width: 100%;
+  clear: both;
+}
+
+.gsc-resultsHeader td.gsc-twiddleRegionCell {
+  width: 75%;
+}
+
+.gsc-resultsHeader td.gsc-configLabelCell {
+  text-align: right;
+  width: 75%;
+}
+
+/*
+ * note that the next three classes are all joined together
+ * to implement the twiddle image. apps can substitute in their
+ * own images but will need to account for the image size here
+ * as well as in the left padding of the title element
+ *
+ * Note: uds provides the following images that work with the geometry/padding defined below
+ *  to use these images simply over-ride the.gsc-twiddle-opened/-closed class and specify an alternate image
+ *  or use an image of your own design
+ */
+
+.gsc-resultsHeader .gsc-twiddle {
+  margin-top: 4px;
+  display: inline;
+  cursor: pointer;
+  background-repeat: no-repeat;
+  background-position: 0 2px;
+}
+
+.gsc-resultsHeader .gsc-title {
+  color: #676767;
+  margin-right: 10px;
+  padding-left: 14px;
+  display: inline;
+}
+
+.gsc-resultsHeader .gsc-stats {
+  color: #676767;
+  font-size: 11px;
+  font-weight: normal;
+  display: inline;
+}
+
+/*
+ * .gsc-results-selector : box surrounding individual selectors for 1, more, or all results
+ * .gsc-result-selector : an individual selector
+ * .gsc-one-result : single result selector
+ * .gsc-more-results : more (4) results selector
+ * .gsc-all-results : all results (8) selector
+ */
+
+.gsc-results-selector {
+  display: inline;
+}
+
+.gsc-result-selector {
+  cursor: pointer;
+  display: inline;
+  font-size: 13px;
+  padding-left: 13px;
+  background-repeat: no-repeat;
+  background-position: center left;
+}
+
+/* default mode is dark */
+
+.gsc-one-result {
+  background-image: url('//www.google.com/uds/css/one-complex-dark.gif');
+}
+
+.gsc-more-results {
+  background-image: url('//www.google.com/uds/css/more-complex-dark.gif');
+}
+
+.gsc-all-results {
+  background-image: url('//www.google.com/uds/css/all-complex-dark.gif');
+  padding-right: 1px;
+}
+
+/* active mode is light */
+
+.gsc-all-results-active .gsc-all-results {
+  background-image: url('//www.google.com/uds/css/all-complex-light-blue.gif');
+}
+
+/* tabbed mode of search control
+ * .gsc-tabsArea : the box containing all of the tabs
+ * .gsc-tabsAreaInvisible : same as above, but this is the state when search has been cleared
+ * .gsc-tabHeader : an individual tab
+ * .gsc-tabHeader.gsc-tabhActive : the active tab
+ * .gsc-tabHeader.gsc-tabhInactive : an inactive tab
+ * .gsc-tabData : the data area/box containg results and header data for each tab
+ * .gsc-tabData.gsc-tabdActive : the data area for the active tab
+ * .gsc-tabData.gsc-tabdInactive : the data area for inactive tabs
+ */
+
+.gsc-tabsAreaInvisible {
+  display: none;
+}
+
+.gsc-tabHeader {
+  padding-left: 6px;
+  padding-right: 6px;
+  margin-right: 2px;
+  margin-top: 2px;
+}
+
+.gsc-tabHeader.gsc-tabhActive {
+  border-left: 1px solid #e9e9e9;
+  border-right: 1px solid #e9e9e9;
+  border-top: 2px solid #ff9900;
+  color: black;
+}
+
+.gsc-tabData.gsc-tabdActive {
+  display: block;
+}
+
+/* gsc-resultsbox-invisible is preferred over gsc-tabdActive */
+
+/* tab specific results header supression
+ * - no twiddle, tabbed mode runs in full expand mode
+ * - no title
+ * - no stats
+ */
+
+.gsc-tabData .gsc-resultsHeader .gsc-title {
+  display: none;
+}
+
+.gsc-tabData .gsc-resultsHeader .gsc-stats {
+  display: none;
+}
+
+.gsc-tabData .gsc-resultsHeader .gsc-results-selector {
+  display: none;
+}
+
+/* style for auto-completion table
+ * .gsc-completion-selected : highlighted completions.
+ * .gsc-completion-container : styling for the table which contains the completions
+ * .gsc-completion-promotion-selected: highlighted promotions
+ */
+
+/* the results for each section
+ * .gsc-resultsbox-{visible,invisible} : a complete-collection of results including headers
+ * .gsc-results : the collection of results for a given searcher
+ * .gsc-result : a generic result within the control. each result has this class, as well as .gsc-xxxResult where xxx is web, image, local, blog, etc.
+ */
+
+.gsc-resultsbox-invisible {
+  display: none;
+}
+
+/* specialized, result type specific, fine grained controls */
+
+/* Ads
+ */
+
+.gsc-wrapper {
+  position: relative;
+  display: block;
+}
+
+.gsc-adBlockInvisible {
+  display: none;
+}
+
+/* Standard configuration div/form */
+
+/* Added so elements inside a result are properly cleared by the container. */
+
+/* Wrapper for a result. */
+
+.gsc-above-wrapper-area-invisible {
+  display: none;
+}
+
+.gsc-above-wrapper-area-container {
+  width: 100%;
+}
+
+.gsc-result-info-container {
+  text-align: left;
+}
+
+.gsc-result-info-invisible {
+  display: none;
+}
+
+.gsc-orderby-container {
+  text-align: right;
+  background: transparent;
+}
+
+.gsc-orderby-invisible {
+  display: none;
+}
+
+.gsc-orderby-label {
+  color: #676767;
+  padding: 5px 5px 6px 0;
+}
+
+.gsc-selected-option-container {
+  background-color: transparent;
+  border: 1px solid #eee;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 2px;
+  box-shadow: 0 1px 1px #eee;
+  box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+  color: #444;
+  cursor: default;
+  font-size: 11px;
+  font-weight: bold;
+  height: 27px;
+  line-height: 27px;
+  max-width: 90%;
+  min-width: 54px;
+  outline: 0;
+  padding: 0 28px 0 6px;
+  position: relative;
+  text-align: center;
+  width: 50px!important;
+}
+
+.gsc-selected-option {
+  position: relative;
+  width: 100%;
+}
+
+.gsc-control-cse .gsc-option-selector {
+  border: none;
+  height: 11px;
+  margin-top: -4px;
+  position: absolute;
+  right: 5px;
+  top: 12px;
+  width: 7px;
+  padding: 0 5px 0 5px;
+  background: url(//ssl.gstatic.com/ui/v1/disclosure/small-grey-disclosure-arrow-down.png) center no-repeat;
+}
+
+.gsc-option-menu-invisible {
+  display: none;
+}
+
+.gsc-control-cse .gsc-option-menu-container {
+  color: #000;
+  font-size: 80%;
+  position: relative;
+}
+
+.gsc-option-menu-item {
+  color: #777;
+  cursor: pointer;
+  list-style: none;
+  margin: 0;
+  padding: 0 30px 0 30px;
+  white-space: nowrap;
+}
+
+.gsc-option-menu-item-highlighted {
+  background-color: #EEE;
+  border-color: #EEE;
+  border-width: 1px 0;
+  color: #333;
+}
+
+.gsc-option {
+  cursor: pointer;
+  list-style: none;
+  white-space: nowrap;
+  line-height: 27px;
+  text-align: left;
+}
+
+/* Image Search
+ */
+
+/* No padding for image result */
+
+/* Classic layout related styles */
+
+/* Do not show title for compact layout such as classic and popup */
+
+/* Column layout related styles */
+
+/* Popup layout related styles */
+
+/* No margin, padding or border for popup layout */
+
+/* Instead put margin bottom and right on searcher image thumbnail. */
+
+/* Do not show title for compact layout such as classic and popup */
+
+/* Video Search
+ * - single line title
+ */
+
+/* trailing more link at the bottom of
+ * a collection of results
+ */
+
+/* trailing cursor section
+ */
+
+/*** End of Control, Begin Results ***/
+
+/* generic, cross cutting result style
+ * - in the form of .gs-result .gs-xxx where xxx is the generic style
+ * .gs-title : typically the first line of a result, typically a link, image results over ride this, since for image results, the image is the link
+ * .gs-divider : typically seperates results from ads
+ * .gs-visibleUrl : typically the last line of a result, displayed in green. sometimes a link (like in blog search)
+ * .gs-clusterUrl : for news, and other similar services, this is a cluster of additional results
+ * img.gs-image : an actial image in a result
+ * .gs-phone : a phone number
+ * .gs-address : an address (includes street, city, region, country)
+ * .gs-streetAddress : a street (including #)
+ * .gs-city : a city
+ * .gs-region : a region (zip code, area, etc.)
+ * .gs-country : a country
+ * .gs-snippet : snippetized content
+ * .gs-watermark : indicator that user selected this result
+ * .gs-metadata : generic metadata, e.g.,
+ * .gs-image-box : generic container for a result's image (within a table)
+ * .gs-text-box : generic container for a result's text content (within a table). Note that this class, and image-box are only used in video
+ */
+
+/* relative and absolute dates, note, news/books inlines these */
+
+/*
+ * For news results there are two dates...
+ * The relative date is visible while in the
+ * search control and the published date
+ * is visible when clipped. Why? It doesn't
+ * make sense to say 4 hours ago for a clipped
+ * result...
+ */
+
+/* establish the base style */
+
+/* base styling for relative date is none */
+
+/* suppress publishedDate while in the control */
+
+/* enable relativePublishedDate while in the control */
+
+/* wrapper around user supplied to/from mode directions
+ * normally this is disabled by default, and gs-directions is enabled
+ * apps can easily switch this by setting display:block on the rule below,
+ * and display:none on the rule above
+ * e.g., add these two rules to switch local results into
+ * alternate style driving directions
+ * .gs-localResult .gs-directions-to-from { display : block; }
+ * .gs-localResult .gs-directions { display : none; }
+ */
+
+/* searcher specific styling for
+ * - web ad
+ * - web
+ * - local
+ * - image (none)
+ * - blog (none)
+ * - video (none)
+ */
+
+/* webAd search specific over rides
+ * .gs-ad-marker : disabled in control, but on in green to indicate clipped result is an ad
+ */
+
+/* default is to not show long mode visible urls
+ * apps should selectively enable this while disabling
+ * div.gs-visibleUrl-short
+ */
+
+/* Per result labels
+ */
+
+/* local search specific over rides
+ * - city, region displayed inline
+ * - country supressed
+ * - small font size for info window's
+ */
+
+/* video search specific over rides
+ * - align the table data
+ * - default image width garuntee
+ * - appropriate cell seperation
+ */
+
+/* todo(markl): workaround until gre in gmail fixes his styles */
+
+/*
+.gs-videoResult td .gs-image {
+  vertical-align : middle;
+}
+
+.gs-videoResult td.gs-image-box {
+  background-color : #000000;
+}*/
+
+/* book search specific over rides
+ * - default image width garuntee
+ * - appropriate cell seperation
+ */
+
+/* book search specific over rides
+ * - default image width garuntee
+ * - appropriate cell seperation
+ */
+
+.gsc-control-cse:after {
+  content: ".";
+  display: block;
+  clear: both;
+  height: 0;
+  visibility: hidden;
+}
+
+/*
+ * Cross-browser implementation of the "display: inline-block" CSS property.
+ * See http://www.w3.org/TR/CSS21/visuren.html#propdef-display for details.
+ */
+
+/* Gecko hack */
+
+html>body .gsc-inline-block {
+  display: -moz-inline-box;
+  display: inline-block;
+}
+
+/* Default rule */
+
+.gsc-inline-block {
+  position: relative;
+  display: inline-block;
+}
+
+/* Pre-IE7 IE hack */
+
+/* IE7-only hack */
+
+/* By default show url at the bottom of the snippet */
+
+/* By default show thumbnail at the left of the snippet */
+
+/* CSS for labeling search results feature. */
+
+/* CSS for richsnippets feature. */
+
+/*** uncss> filename: http://www.google.com/cse/style/look/v2/default.css ***/
+
+/**
+ * Default Theme, v2.
+ *
+ */
+
+/* Slight reset to make the preview have ample padding. */
+
+.gsc-control-cse {
+  padding: 1em;
+  width: auto;
+}
+
+.gsc-control-wrapper-cse {
+  width: 100%;
+}
+
+.gsc-branding {
+  display: none;
+}
+
+/* Selector for entire element. */
+
+.gsc-control-cse {
+  background-color: #fff;
+  border: 1px solid #fff;
+}
+
+.gsc-control-cse:after {
+  content: ".";
+  display: block;
+  height: 0;
+  clear: both;
+  visibility: hidden;
+}
+
+.gsc-resultsHeader {
+  border: block;
+}
+
+table.gsc-search-box td.gsc-input {
+  padding-right: 24px;
+}
+
+.gsc-search-box-tools .gsc-search-box .gsc-input {
+  padding-right: 12px;
+}
+
+input.gsc-input {
+  font-size: 16px;
+  padding: 4px 9px;
+  border: 1px solid #D9D9D9;
+  width: 99%;
+}
+
+.gsc-input-box {
+  border: 1px solid #D9D9D9;
+  background: #fff;
+  height: 25px;
+}
+
+.gsc-search-box .gsc-input>input:hover {
+  border: 1px solid #b9b9b9;
+  border-top-color: #a0a0a0;
+  -moz-box-shadow: inset 0 1px 2px rgba(0,0,0,.1);
+  -webkit-box-shadow: inset 0 1px 2px rgba(0,0,0,.1);
+  box-shadow: inset 0 1px 2px rgba(0,0,0,.1);
+  outline: none;
+}
+
+.gsc-search-box .gsc-input>input:focus {
+  border: 1px solid #4d90fe;
+  -moz-box-shadow: inset 0 1px 2px rgba(0,0,0,.3);
+  -webkit-box-shadow: inset 0 1px 2px rgba(0,0,0,.3);
+  box-shadow: inset 0 1px 2px rgba(0,0,0,.3);
+  outline: none;
+}
+
+/* Search button */
+
+input.gsc-search-button {
+  font-family: inherit;
+  font-size: 11px;
+  font-weight: bold;
+  color: #fff;
+  padding: 0 8px;
+  height: 29px;
+  min-width: 54px;
+  border: 1px solid #666666;
+  border-radius: 2px;
+  -moz-border-radius: 2px;
+  -webkit-border-radius: 2px;
+  border-color: #3079ed;
+  background-color: #4d90fe;
+  background-image: -webkit-gradient(linear,left top,left bottom,from(#4d90fe),to(#4787ed));
+  background-image: -webkit-linear-gradient(top,#4d90fe,#4787ed);
+  background-image: -moz-linear-gradient(top,#4d90fe,#4787ed);
+  background-image: -ms-linear-gradient(top,#4d90fe,#4787ed);
+  background-image: -o-linear-gradient(top,#4d90fe,#4787ed);
+  background-image: linear-gradient(top,#4d90fe,#4787ed);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#4d90fe',EndColorStr='#4787ed');
+}
+
+input.gsc-search-button:hover {
+  border-color: #2f5bb7;
+  background-color: #357ae8;
+  background-image: -webkit-gradient(linear,left top,left bottom,from(#4d90fe),to(#357ae8));
+  background-image: -webkit-linear-gradient(top,#4d90fe,#357ae8);
+  background-image: -moz-linear-gradient(top,#4d90fe,#357ae8);
+  background-image: -ms-linear-gradient(top,#4d90fe,#357ae8);
+  background-image: -o-linear-gradient(top,#4d90fe,#357ae8);
+  background-image: linear-gradient(top,#4d90fe,#357ae8);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#4d90fe',EndColorStr='#357ae8');
+}
+
+input.gsc-search-button:focus {
+  box-shadow: inset 0 0 0 1px rgba(255,255,255,0.5);
+  -webkit-box-shadow: inset 0 0 0 1px rgba(255,255,255,0.5);
+  -moz-box-shadow: inset 0 0 0 1px rgba(255,255,255,0.5);
+}
+
+input.gsc-search-button-v2 {
+  width: 13px;
+  height: 13px;
+  padding: 6px 27px;
+  min-width: 13px;
+  margin-top: 2px;
+}
+
+/* Foont size for refinements */
+
+/* For searcher tabs */
+
+/* No spacers needed for keneddy refinements */
+
+/* Refinement tab properties */
+
+.gsc-tabHeader {
+  display: inline-block;
+  padding: 0 8px 1px 8px;
+  margin-right: 0px;
+  margin-top: 0px;
+  font-weight: bold;
+  height: 27px;
+  line-height: 27px;
+  min-width: 54px;
+  text-align: center;
+}
+
+/* Active refinement tab properties */
+
+.gsc-tabHeader.gsc-tabhActive {
+  border: 1px solid #ccc;
+  border-bottom-color: #fff;
+  color: #202020;
+}
+
+/* Inactive refinement tab properties */
+
+/* Inner wrapper for an image result */
+
+/* Inner wrapper for a result */
+
+/* Inner wrapper for a result */
+
+/* Wrapper for a result. */
+
+/* Result hover event styling */
+
+/*Promotion Settings*/
+
+/* The entire promo */
+
+/* Promotion links */
+
+/* Promotion snippet */
+
+/* Promotion url */
+
+/* Style for auto-completion table
+ * .gsc-completion-selected : styling for a suggested query which the user has moused-over
+ * .gsc-completion-container : styling for the table which contains the completions
+ */
+
+/* Full URL */
+
+/* Keneddy shows url at the top of the snippet, after title */
+
+/* Keneddy shows thumbnail inside the snippet, under title and url */
+
+div.gsc-clear-button {
+  background-image: url('//www.google.com/uds/css/v2/clear.png');
+}
+
+div.gsc-clear-button:hover {
+  background-image: url('//www.google.com/uds/css/v2/clear-hover.png');
+}
+
+td.gsc-branding-text {
+  color: #666;
+}
+
+.gsc-selected-option-container {
+  background-color: whiteSmoke;
+  background-image: linear-gradient(top,whiteSmoke,#F1F1F1);
+  background-image: -webkit-linear-gradient(top,whiteSmoke,#F1F1F1);
+  background-image: -moz-linear-gradient(top,whiteSmoke,#F1F1F1);
+  background-image: -ms-linear-gradient(top,whiteSmoke,#F1F1F1);
+  background-image: -o-linear-gradient(top,whiteSmoke,#F1F1F1);
+}
+
+/* Facet box css */
+
+/* Universal one box css. */
+
