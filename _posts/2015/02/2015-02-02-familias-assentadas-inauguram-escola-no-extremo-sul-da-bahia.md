@@ -1,8 +1,8 @@
 ---
 date: "2015-02-02T11:05:55-02:00"
 tags: []
-title: Famílias assentadas inauguram escola no extremo sul da Bahia
-support_line: "A escola, localizada dentro de um pré-assentamento, atenderá cerca de 180 alunos nas modalidades de alfabetização e ensino fundamental"
+title: Famílias pré-assentadas inauguram escola no extremo sul da Bahia
+support_line: "A escola, localizada em Eunápolis, atenderá cerca de 180 alunos nas modalidades de alfabetização e ensino fundamental"
 menu: "educação, cultura e comunicação"
 section: cover
 layout: post
@@ -22,6 +22,7 @@ files:
 created_date: "2015-02-02T11:48:47-02:00"
 published: true
 images_hd: "http://farm8.staticflickr.com/7380/16239888880_63c2b1a127_n.jpg"
+releated_posts: []
 
 ---
 <p><em>Por Coletivo de Comunica&ccedil;&atilde;o do MST no Extremo Sul</em></p>
