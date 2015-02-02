@@ -9,15 +9,15 @@ support_line: Ministra da Agricultura é questionada pelo não pagamento de um e
 menu: agronegócio
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7460/16427414985_685ed80bee_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7460/16427414985_685ed80bee_t.jpg"
-    medium: "http://farm8.staticflickr.com/7460/16427414985_685ed80bee_z.jpg"
-    small: "http://farm8.staticflickr.com/7460/16427414985_685ed80bee_n.jpg"
+  - link: "http://farm8.staticflickr.com/7454/16241219469_91766c2429_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7454/16241219469_91766c2429_t.jpg"
+    medium: "http://farm8.staticflickr.com/7454/16241219469_91766c2429_z.jpg"
+    small: "http://farm8.staticflickr.com/7454/16241219469_91766c2429_n.jpg"
     title: ka.jpg
-    $$hashKey: 05E
+    $$hashKey: 07D
 created_date: "2015-02-02T12:04:04-02:00"
 published: true
-images_hd: "http://farm8.staticflickr.com/7460/16427414985_685ed80bee_n.jpg"
+images_hd: "http://farm8.staticflickr.com/7454/16241219469_91766c2429_n.jpg"
 
 ---
 <p><em>Do Brasil 247</em><br />
