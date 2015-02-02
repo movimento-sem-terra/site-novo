@@ -2,7 +2,7 @@
 date: "2015-02-02T11:05:55-02:00"
 tags: []
 title: Famílias pré-assentadas inauguram escola no extremo sul da Bahia
-support_line: "A escola, localizada em Eunápolis, atenderá cerca de 180 alunos nas modalidades de alfabetização e ensino fundamental"
+support_line: "A escola, localizada em Eunápolis, atenderá cerca de 180 alunos nas modalidades de alfabetização e ensino fundamental."
 menu: "educação, cultura e comunicação"
 section: cover
 layout: post
