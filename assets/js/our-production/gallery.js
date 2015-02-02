@@ -43,9 +43,16 @@
     },
     changePage: function(direction){
       this.currentPage += direction * -1;
-      this.currentPage = this.currentPage < 0 ? 0 : this.currentPage;
-      this.currentPage = this.currentPage >= this.totalPages ? this.totalPages : this.currentPage;
-
+      var first_page = 0;
+      
+      if( this.currentPage < first_page ){
+        this.currentPage  = first_page; 
+      }
+      
+      if (this.currentPage >= this.totalPages){
+        this.currentPage = this.totalPages;
+      } 
+      
       this.thumbs.find('ul').velocity({left: ((this.currentPage * this.itemWidth)*-1) + "px" });
     },
 
@@ -63,16 +70,15 @@
 
     setLinkEvents: function(links){
       links.on('click', function(e){
-        console.log(e.currentTarget);
-        e.preventDefault();
-        links.removeClass('open');
         var seletecteItem = $(e.currentTarget);
-            imageURL = $(e.currentTarget).attr('href');
-            legendText = $(e.currentTarget).attr('title');
-            callback = function(){ Gallery.setImage(imageURL, legendText); };
-
+        var imageURL = $(e.currentTarget).attr('href');
+        var legendText = $(e.currentTarget).attr('title');
+        
+        var callback = function(){ Gallery.setImage(imageURL, legendText); };
+        links.removeClass('open');
         seletecteItem.addClass('open');
         Gallery.animate(Gallery.fadeIn, callback);
+        e.preventDefault();
       });
     },
 
