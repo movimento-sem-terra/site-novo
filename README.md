@@ -1,6 +1,6 @@
 MST site-novo
 ===
-Novo site do Movimento dos Trabalhadores sem Terra (http://www.mst.org.br)
+Novo site do Movimento dos Trabalhadores sem Terra http://www.mst.org.br
 
 
 ## Setup
@@ -19,15 +19,15 @@ Para instalar o projeto, basta executar
 
 ## Run
 
-Start Jekyll:
+Inicie o Jekyll:
 
 ```
 bundle exec jekyll serve
 ```
 
-Point you browser to [http://localhost:4000/]()
+Acesso o endereço [http://localhost:4000/]()
 
-Done :)
+Pronto :)
 
 Seja feliz
 
