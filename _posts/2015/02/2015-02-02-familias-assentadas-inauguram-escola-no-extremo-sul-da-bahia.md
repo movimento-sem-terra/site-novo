@@ -2,7 +2,7 @@
 date: "2015-02-02T11:05:55-02:00"
 tags: []
 title: Famílias assentadas inauguram escola no extremo sul da Bahia
-support_line: A escola atenderá cerca de 180 alunos nas modalidades de alfabetização e ensino fundamental
+support_line: "A escola, localizada dentro de um pré-assentamento, atenderá cerca de 180 alunos nas modalidades de alfabetização e ensino fundamental"
 menu: "educação, cultura e comunicação"
 section: cover
 layout: post
@@ -38,14 +38,18 @@ Em comemora&ccedil;&atilde;o a esta conquista, as fam&iacute;lias assentadas rea
 
 <p>&nbsp;</p>
 
-<p><img alt="escola 2.jpg" height="270" src="http://farm9.staticflickr.com/8610/16239663558_703c21e3e5_b.jpg" style="float:right" width="360" />&ldquo;Acreditamos que a transforma&ccedil;&atilde;o da sociedade e a constru&ccedil;&atilde;o de um mundo melhor tamb&eacute;m perpassa pela educa&ccedil;&atilde;o. &Eacute; fundamental ter uma escola nos assentamentos e acampamentos, pois &eacute; um espa&ccedil;o de educar o futuro &nbsp;homem e a futura mulher do amanha&rdquo;, declara Preto, integrante&nbsp;da dire&ccedil;&atilde;o estadual do MST da Bahia.</p>
+<figure class="image" style="float:right"><img alt="escola 2.jpg" height="270" src="http://farm9.staticflickr.com/8610/16239663558_703c21e3e5_b.jpg" width="360" />
+<figcaption></figcaption>
+</figure>
+
+<p>&ldquo;Acreditamos que a transforma&ccedil;&atilde;o da sociedade e a constru&ccedil;&atilde;o de um mundo melhor tamb&eacute;m perpassa pela educa&ccedil;&atilde;o. &Eacute; fundamental ter uma escola nos assentamentos e acampamentos, pois &eacute; um espa&ccedil;o de educar o futuro &nbsp;homem e a futura mulher do amanha&rdquo;, declara Preto, integrante&nbsp;da dire&ccedil;&atilde;o estadual do MST da Bahia.</p>
 
 <p>&nbsp;</p>
 
 <p>Para os assentados, a constru&ccedil;&atilde;o da escola representa uma conquista fundamental, pois nossa primeira prioridade ao ocupar um latif&uacute;ndio &eacute; o desenvolvimento da educa&ccedil;&atilde;o do campo.As fam&iacute;lias acreditam tamb&eacute;m que a educa&ccedil;&atilde;o precisa estar presente mesmo que a sala de aula seja debaixo de uma &aacute;rvore ou lona preta.&nbsp;<br />
 <br />
 <br />
-&quot;Esse espa&ccedil;o proporcionar&aacute; melhores condi&ccedil;&otilde;es, mais comodidade e conforto &agrave; nossas crian&ccedil;as e &aacute; nossos educadores, melhorando o aprendizado&rdquo;, afirmou&nbsp;<span style="line-height: 20.7999992370605px;">Jaziam Mota, tamb&eacute;m&nbsp;da dire&ccedil;&atilde;o estadual do Movimento.</span><br />
+&quot;Esse espa&ccedil;o proporcionar&aacute; melhores condi&ccedil;&otilde;es, mais comodidade e conforto &agrave; nossas crian&ccedil;as e a&nbsp;nossos educadores, melhorando o aprendizado&rdquo;, afirmou&nbsp;<span style="line-height: 20.7999992370605px;">Jaziam Mota, tamb&eacute;m&nbsp;da dire&ccedil;&atilde;o estadual do Movimento.</span><br />
 &nbsp;</p>
 
 <p>Para o futuro, j&aacute; existe em andamento um projeto que visa a constru&ccedil;&atilde;o de uma Escola de Ensino M&eacute;dio, pensando em atender a demanda do Pr&eacute; Assentamento e comunidades rurais vizinhas.</p>
