@@ -1,17 +1,17 @@
 MST site-novo
 ===
-Projeto da TW Brasil em conjunto com MST e Brasil de Fato.
+Novo site do Movimento dos Trabalhadores sem Terra (http://www.mst.org.br)
 
 
 ## Setup
 
-Clone the repository:
+Faça o clone do repositório
 
 ```
 git clone https://github.com/movimento-sem-terra/site-novo.git && cd site-novo
 ```
 
-Run the setup script (it assumes you have a db user called "root"):
+Para instalar o projeto, basta executar
 
 ```
 ./setup
@@ -22,7 +22,7 @@ Run the setup script (it assumes you have a db user called "root"):
 Start Jekyll:
 
 ```
-bundle exec jekyll serve -w
+bundle exec jekyll serve
 ```
 
 Point you browser to [http://localhost:4000/]()
