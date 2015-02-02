@@ -280,7 +280,6 @@
         }
 
       }
-
       .ask-us{
         @extend .ask-us-default;
         @include span-columns(9 of 9);
@@ -325,6 +324,12 @@
         }
       }
 
+      #video{
+        @include span-columns(12);
+        .news{
+          @include span-columns(6 of 12);
+        }
+      }
     }
   }
 
