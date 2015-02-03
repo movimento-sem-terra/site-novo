@@ -40,7 +40,7 @@ releated_posts:
 
 <div style="line-height: 20.7999992370605px;">&nbsp;</div>
 
-<figure class="image" style="float:left"><img alt="unnamed.jpg" height="300" src="http://farm8.staticflickr.com/7309/16434962051_7a1879126c_b.jpg" width="400" />
+<figure class="image"><img alt="unnamed.jpg" height="465" src="http://farm8.staticflickr.com/7309/16434962051_7a1879126c_b.jpg" width="620" />
 <figcaption></figcaption>
 </figure>
 
@@ -54,9 +54,10 @@ Ap&oacute;s v&aacute;rias reuni&otilde;es, assentados do estado de Sergipe reati
 Os coordenadores esperam trazer empregos e gera&ccedil;&atilde;o de renda para a juventude das comunidades locais com a reabertura da f&aacute;brica.&nbsp;<br />
 <br />
 <br />
-<br />
 <span style="line-height: 20.7999992370605px;">Para Lesly, do coletivo de juventude do MST, a reabertura da f&aacute;brica tende a diminuir o &ecirc;xodo dos jovens do&nbsp;campo.&nbsp;</span><span style="line-height: 20.7999992370605px;">&ldquo;Os jovens acabam saindo daqui em busca de emprego em outros estados, como por exemplo,&nbsp;S&atilde;o Paulo, para trabalharem em constru&ccedil;&otilde;es civis, colheita da laranja e corte de cana. Isso acontece por n&atilde;o terem op&ccedil;&otilde;es de trabalho nas regi&otilde;es onde vivem. A reativa&ccedil;&atilde;o dessa f&aacute;brica vai ajudar na perman&ecirc;ncia desses jovens dentro do seu local de conviv&ecirc;ncia&quot;, disse.</span></p>
 </div>
 
 <div><br />
-Uma das ideias &eacute; aproveitar o espa&ccedil;o da &nbsp;escola para cria&ccedil;&atilde;o de uma horta coletiva, onde ser&aacute; utilizado o pr&oacute;prio adubo, mostrando na pr&aacute;tica sua potencialidade. O&nbsp;espa&ccedil;o ainda apresenta outras estruturas em estado de abandono que ser&atilde;o recuperados futuramente.</div>
+Uma das ideias &eacute; aproveitar o espa&ccedil;o da &nbsp;escola para cria&ccedil;&atilde;o de uma horta coletiva, onde ser&aacute; utilizado o pr&oacute;prio adubo, mostrando na pr&aacute;tica sua potencialidade.<br />
+<br />
+O&nbsp;espa&ccedil;o ainda apresenta outras estruturas em estado de abandono que ser&atilde;o recuperados futuramente.</div>
