@@ -206,7 +206,7 @@
     #latest-news{
       @include span-columns(3);
       .news{
-        height: 63px;
+        max-height: 57px;
         overflow: hidden;
         margin-bottom: 19px;
 
