@@ -26,6 +26,7 @@ images_hd: "http://farm8.staticflickr.com/7448/16248675429_8399c3e457_n.jpg"
 releated_posts:
   - 2014/03/2014-03-06-familias-sao-despejadas-violentamente-de-area-improdutiva-no-maranhao.md
   - 2014/12/2014-12-15-em-solidariedade-aos-indigenas-sem-terra-bloqueiam-rodovia-em-mato-grosso-do-sul.md
+section: cover
 
 ---
 <p><em>Da P&aacute;gina do MST</em><br />
