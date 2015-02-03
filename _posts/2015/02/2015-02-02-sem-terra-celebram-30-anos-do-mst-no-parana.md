@@ -37,7 +37,7 @@ section: cover
 <figcaption></figcaption>
 </figure>
 
-<p>Cerca de 80 militantes da regi&atilde;o sudoeste do Paran&aacute;, se reuniram entre os dias 29 e 31/01, no Assentamento Vit&oacute;ria da Uni&atilde;o, em Mangueirinha, PA, para celebrar os 30 anos de cria&ccedil;&atilde;o do Movimento.</p>
+<p>Cerca de 80 militantes da regi&atilde;o sudoeste do Paran&aacute;, se reuniram entre os dias 29 e 31/01, no Assentamento Vit&oacute;ria da Uni&atilde;o, em Mangueirinha, PR, para celebrar os 30 anos de cria&ccedil;&atilde;o do Movimento.</p>
 
 <p>&nbsp;</p>
 
