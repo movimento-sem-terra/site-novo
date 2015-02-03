@@ -22,39 +22,21 @@ files:
     $$hashKey: 02F
 created_date: "2015-02-02T17:13:29-02:00"
 published: true
-images_hd: "http://farm8.staticflickr.com/7318/16242020670_bfd535632f_n.jpg"
+images_hd: "http://farm9.staticflickr.com/8658/16241704008_941fa297a6_n.jpg"
 releated_posts:
   - 2014/08/2014-08-11-juventude-do-campo-e-cidade-discutem-sua-participacao-nas-lutas-populares.md
   - 2014/12/2014-11-17-sem-terra-na-paraiba-debatem-reforma-agraria-popular-em-encontro.md
 section: cover
 
 ---
-<p><em>Da p&aacute;gina do MST</em></p>
+<p><em>Da P&aacute;gina do MST</em></p>
 
-<p>&nbsp;</p>
+<p><img alt="unnamed.jpg" height="353" src="http://farm8.staticflickr.com/7318/16242020670_bfd535632f_b.jpg" width="620" /><br />
+<br />
+Cerca de 80 militantes da regi&atilde;o sudoeste do Paran&aacute; se reuniram entre os dias 29 e 31/01, no Assentamento Vit&oacute;ria da Uni&atilde;o, em Mangueirinha, para celebrar os 30 anos de cria&ccedil;&atilde;o do Movimento.</p>
 
-<figure class="image" style="float:right"><img alt="unnamed.jpg" height="171" src="http://farm8.staticflickr.com/7318/16242020670_bfd535632f_b.jpg" width="300" />
-<figcaption></figcaption>
-</figure>
+<p><br />
+O assentamento &eacute; fruto da primeira ocupa&ccedil;&atilde;o do MST no Paran&aacute;, em 1984. Na &eacute;poca, a &aacute;rea era conhecida como Fazenda Imaribo. A vit&oacute;ria veio em 15 de janeiro de 1985, data em que a &aacute;rea foi desapropriada. Foram 350 fam&iacute;lias de agricultores Sem-Terra de 20 munic&iacute;pios de diversas regi&otilde;es do estado, que lutaram para conquistar a &aacute;rea de 10 mil hectares.<br />
+&nbsp;</p>
 
-<p>Cerca de 80 militantes da regi&atilde;o sudoeste do Paran&aacute;, se reuniram entre os dias 29 e 31/01, no Assentamento Vit&oacute;ria da Uni&atilde;o, em Mangueirinha, PR, para celebrar os 30 anos de cria&ccedil;&atilde;o do Movimento.</p>
-
-<p>&nbsp;</p>
-
-<p>A atividade contou com an&aacute;lises de conjuntura e discuss&otilde;es sobre a organicidade do MST no estado do Paran&aacute;.</p>
-
-<p>&nbsp;</p>
-
-<p>No dia (31), foi realizado um ato pol&iacute;tico com a presen&ccedil;a de 400 assentados e representantes de v&aacute;rias entidades da regi&atilde;o.</p>
-
-<p>&nbsp;</p>
-
-<figure class="image" style="float:left"><img alt="unnamed.jpg" height="202" src="http://farm9.staticflickr.com/8658/16241704008_941fa297a6_b.jpg" width="300" />
-<figcaption></figcaption>
-</figure>
-
-<p>A atividade aconteceu no local onde ocorreu a primeira ocupa&ccedil;&atilde;o do MST no estado, em 1984. Na &eacute;poca, a &aacute;rea era conhecida como Fazenda Imaribo.</p>
-
-<p>Foram 350 fam&iacute;lias de agricultores Sem-Terra de 20 munic&iacute;pios das regi&otilde;es, que lutaram para conquistar a &aacute;rea de 10 mil hectares.</p>
-
-<p>A vit&oacute;ria veio em 15 de janeiro de 1985, data em que a &aacute;rea foi desapropriada.</p>
+<p>No &uacute;ltimo dia do encontro, foi realizado&nbsp;um ato pol&iacute;tico com a presen&ccedil;a de 400 assentados e representantes de v&aacute;rias entidades do Paran&aacute;.&nbsp;</p>
