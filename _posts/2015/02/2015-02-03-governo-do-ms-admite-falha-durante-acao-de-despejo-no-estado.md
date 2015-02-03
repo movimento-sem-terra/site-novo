@@ -14,6 +14,12 @@ files:
     small: "http://farm8.staticflickr.com/7448/16248675429_8399c3e457_n.jpg"
     title: MS.jpg
     $$hashKey: "050"
+  - link: "http://farm8.staticflickr.com/7305/15818090713_cf20abdab8_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7305/15818090713_cf20abdab8_t.jpg"
+    medium: "http://farm8.staticflickr.com/7305/15818090713_cf20abdab8_z.jpg"
+    small: "http://farm8.staticflickr.com/7305/15818090713_cf20abdab8_n.jpg"
+    title: MS 1.jpg
+    $$hashKey: 04P
 created_date: "2015-02-03T11:16:33-02:00"
 published: true
 images_hd: "http://farm8.staticflickr.com/7448/16248675429_8399c3e457_n.jpg"
@@ -29,8 +35,13 @@ Na manh&atilde; desta segunda-feira (2/2), dirigentes estaduais do Movimento dos
 <br />
 Na ocasi&atilde;o os dirigentes denunciaram a a&ccedil;&atilde;o truculenta da policia no despejo das cento quarenta fam&iacute;lias do Movimento, na a&ccedil;&atilde;o que foi realizada na quinta-feira (29) e tamb&eacute;m trataram de outros temas relacionados &agrave; Reforma Agr&aacute;ria no Estado e a situa&ccedil;&atilde;o estrutural dos assentamentos de MS.<br />
 <br />
-<br />
-Durante a reuni&atilde;o o Governo assumiu a falta de comunica&ccedil;&atilde;o com o Movimento e admitiu que houve falha na a&ccedil;&atilde;o. Al&eacute;m disso, se comprometeu a abrir mais o canal de di&aacute;logo com os movimentos de luta pela terra para que situa&ccedil;&otilde;es como essa n&atilde;o ocorram mais.<br />
+&nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="MS 1.jpg" height="259" src="http://farm8.staticflickr.com/7305/15818090713_cf20abdab8_b.jpg" width="389" />
+<figcaption>Acampamento ap&oacute;s a&ccedil;&atilde;o de despejo</figcaption>
+</figure>
+
+<p>Durante a reuni&atilde;o o Governo assumiu a falta de comunica&ccedil;&atilde;o com o Movimento e admitiu que houve falha na a&ccedil;&atilde;o. Al&eacute;m disso, se comprometeu a abrir mais o canal de di&aacute;logo com os movimentos de luta pela terra para que situa&ccedil;&otilde;es como essa n&atilde;o ocorram mais.<br />
 <br />
 <br />
 Segundo Jonas Carlos da Concei&ccedil;&atilde;o, dirigente nacional do MST/MS, o debate e a negocia&ccedil;&atilde;o fazem parte do papel da dire&ccedil;&atilde;o do Movimento. &ldquo;Como representante das milhares de fam&iacute;lias Sem Terra de MS, n&oacute;s precisamos abrir o canal de di&aacute;logo, garantir a seguran&ccedil;a das pessoas e principalmente lutar por avan&ccedil;os em diversos setores que atuamos&rdquo;, explicou.<br />
@@ -103,4 +114,6 @@ A comunica&ccedil;&atilde;o da a&ccedil;&atilde;o deveria conter: I &ndash; a co
 <p>Tamb&eacute;m continuaremos batalhando pela &aacute;rea em quest&atilde;o e iremos contestar a reintegra&ccedil;&atilde;o de posse, j&aacute; que est&aacute; mais do que claro que o usineiro infringiu claramente as Leis Trabalhistas e ambientais, pontos de suma import&acirc;ncia para que a &aacute;rea seja considerada para Reforma Agr&aacute;ria.</p>
 
 <p><br />
-A luta hist&oacute;rica por Reforma Agr&aacute;ria popular e democr&aacute;tica do MST, movimento que milita h&aacute; 30 anos por soberania alimentar e dignidade para fam&iacute;lias que sonham com um peda&ccedil;o de terra para produzir, continuar&aacute; sua caminhada, reconstruindo seus barracos, cicatrizando as feridas da alma e continuando a batalha da vida.&nbsp;</p>
+A luta hist&oacute;rica por Reforma Agr&aacute;ria popular e democr&aacute;tica do MST, movimento que milita h&aacute; 30 anos por soberania alimentar e dignidade para fam&iacute;lias que sonham com um peda&ccedil;o de terra para produzir, continuar&aacute; sua caminhada, reconstruindo seus barracos, cicatrizando as feridas da alma e continuando a batalha da vida.</p>
+
+<p>Movimento dos Trabalhadores Rurais Sem Terra - MST/MS&nbsp;</p>
