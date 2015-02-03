@@ -44,20 +44,19 @@ releated_posts:
 <figcaption></figcaption>
 </figure>
 
-<div style="line-height: 20.7999992370605px;"><br />
-Ap&oacute;s v&aacute;rias reuni&otilde;es, assentados do estado de Sergipe reativar&atilde;o a f&aacute;brica&nbsp;<span style="line-height: 20.7999992370605px;">adubo org&acirc;nico,</span><span style="line-height: 20.7999992370605px;">&nbsp;localizada na escola agrot&eacute;cnica, no munic&iacute;pio de Est&acirc;ncia</span><span style="line-height: 1.6;">. O projeto&nbsp;</span><span style="line-height: 1.6;">ser&aacute; coordenado por membros do Coletivo de Juventude do MST e da Rede de Agroecologia Campon&ecirc;s a Campon&ecirc;s.</span></div>
-</div>
-</div>
+<div style="line-height: 20.7999992370605px;">
+<p>Ap&oacute;s v&aacute;rias reuni&otilde;es, assentados do estado de Sergipe reativar&atilde;o a f&aacute;brica adubo org&acirc;nico, localizada na escola agrot&eacute;cnica, no munic&iacute;pio de Est&acirc;ncia. O projeto ser&aacute; coordenado por membros do Coletivo de Juventude do MST e da Rede de Agroecologia Campon&ecirc;s a Campon&ecirc;s.</p>
 
-<div>
 <p><br />
-Os coordenadores esperam trazer empregos e gera&ccedil;&atilde;o de renda para a juventude das comunidades locais com a reabertura da f&aacute;brica.&nbsp;<br />
-<br />
-<br />
-<span style="line-height: 20.7999992370605px;">Para Lesly, do coletivo de juventude do MST, a reabertura da f&aacute;brica tende a diminuir o &ecirc;xodo dos jovens do&nbsp;campo.&nbsp;</span><span style="line-height: 20.7999992370605px;">&ldquo;Os jovens acabam saindo daqui em busca de emprego em outros estados, como por exemplo,&nbsp;S&atilde;o Paulo, para trabalharem em constru&ccedil;&otilde;es civis, colheita da laranja e corte de cana. Isso acontece por n&atilde;o terem op&ccedil;&otilde;es de trabalho nas regi&otilde;es onde vivem. A reativa&ccedil;&atilde;o dessa f&aacute;brica vai ajudar na perman&ecirc;ncia desses jovens dentro do seu local de conviv&ecirc;ncia&quot;, disse.</span></p>
-</div>
+Os coordenadores esperam trazer empregos e gera&ccedil;&atilde;o de renda para a juventude das comunidades locais com a reabertura da f&aacute;brica.&nbsp;</p>
 
-<div><br />
-Uma das ideias &eacute; aproveitar o espa&ccedil;o da &nbsp;escola para cria&ccedil;&atilde;o de uma horta coletiva, onde ser&aacute; utilizado o pr&oacute;prio adubo, mostrando na pr&aacute;tica sua potencialidade.<br />
-<br />
-O&nbsp;espa&ccedil;o ainda apresenta outras estruturas em estado de abandono que ser&atilde;o recuperados futuramente.</div>
+<p><br />
+Para Lesly, do coletivo de juventude do MST, a reabertura da f&aacute;brica tende a diminuir o &ecirc;xodo dos jovens do campo. &ldquo;Os jovens acabam saindo daqui em busca de emprego em outros estados, como por exemplo, S&atilde;o Paulo, para trabalharem em constru&ccedil;&otilde;es civis, colheita da laranja e corte de cana. Isso acontece por n&atilde;o terem op&ccedil;&otilde;es de trabalho nas regi&otilde;es onde vivem. A reativa&ccedil;&atilde;o dessa f&aacute;brica vai ajudar na perman&ecirc;ncia desses jovens dentro do seu local de conviv&ecirc;ncia&quot;, disse.</p>
+
+<p><br />
+Uma das ideias &eacute; aproveitar o espa&ccedil;o da &nbsp;escola para cria&ccedil;&atilde;o de uma horta coletiva, onde ser&aacute; utilizado o pr&oacute;prio adubo, mostrando na pr&aacute;tica sua potencialidade.</p>
+
+<p>O espa&ccedil;o ainda apresenta outras estruturas em estado de abandono que ser&atilde;o recuperados futuramente.</p>
+</div>
+</div>
+</div>
