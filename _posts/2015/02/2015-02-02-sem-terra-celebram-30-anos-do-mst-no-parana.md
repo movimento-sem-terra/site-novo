@@ -26,6 +26,7 @@ images_hd: "http://farm8.staticflickr.com/7318/16242020670_bfd535632f_n.jpg"
 releated_posts:
   - 2014/08/2014-08-11-juventude-do-campo-e-cidade-discutem-sua-participacao-nas-lutas-populares.md
   - 2014/12/2014-11-17-sem-terra-na-paraiba-debatem-reforma-agraria-popular-em-encontro.md
+section: cover
 
 ---
 <p><em>Da p&aacute;gina do MST</em></p>
