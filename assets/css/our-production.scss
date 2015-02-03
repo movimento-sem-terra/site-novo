@@ -52,6 +52,24 @@
          -o-background-size: cover;
        -moz-background-size: cover;
     -webkit-background-size: cover;
+    
+     .quote{
+        width: 30px;
+        height: 30px;
+        display: inline-block;
+        text-indent: -9999px;
+
+        &.start{
+          float: left;
+          background: transparent url(../img/quem-somos/quote-a.jpg) no-repeat left top;
+        }
+
+        &.end{
+          background: transparent url(../img/quem-somos/quote-b.jpg) no-repeat right bottom;
+          float: right;
+          margin-top:  -30px;
+        }
+      }
 
     .content {
       @extend .default-container;
@@ -106,10 +124,12 @@
 
           p{
             @extend .truncate;
-            font: 700 16px "Exo 2";
+            font-size: 16px;
             color: $mst-red;
             height: 93px;
-            font-weight: 600;
+            font-weight: 700;
+            vertical-align: middle;
+            display: table-cell;
           }
           a{
             color: #555555;

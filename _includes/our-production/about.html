@@ -1,17 +1,18 @@
+{% assign special_stories = include.posts | where: "label", "special-stories" %}
 <div class="content">
   <h2>Nossa Produção</h2>
   <div id="summary">
     <p>Uma das nossas principais contribuições para a sociedade brasileira é cumprir nosso compromisso em produzir alimentos saudáveis para o povo brasileiro. Fruto da organização de cooperativas, associações e agroindústrias nos assentamentos, procuramos desenvolver a cooperação agrícola como um ato concreto de ajuda mútua que fortaleça a solidariedade e potencialize as condições de produção das famílias assentadas, e que também melhorem a renda e as condições do trabalho no campo.</p>
   </div>
+  
   <div id="testimonials">
     <h4>Saiba como nossa produção mudou histórias</h4>
-    <div class="testimonial">
-      <p>Soubemos que essa terra aqui era improdutiva que era terra devoluta e tudo.E a gente, naquela e necessidade...</p>
-      <a href="#">Saiba mais sobre <strong>Seu José</strong></a>
-    </div>
-    <div class="testimonial">
-      <p>Soubemos que essa terra aqui era improdutiva que era terra devoluta e tudo.E a gente, naquela e necessidade...</p>
-      <a href="#">Saiba mais sobre <strong>Seu José</strong></a>
-    </div>
+    {% for post in special_stories | limit: 2  %}
+      <div class="testimonial">
+        <p><span class="quote start">"</span>{{ post.title | truncate: 100 }}</p>
+        <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">Saiba mais</a>
+      </div>
+    {% endfor %}
   </div>
 </div>
+
