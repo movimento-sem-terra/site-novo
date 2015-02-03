@@ -32,11 +32,7 @@ releated_posts:
   - 2014/08/2014-08-11-juventude-do-campo-e-cidade-discutem-sua-participacao-nas-lutas-populares.md
 
 ---
-<div>&nbsp;</div>
-
 <div><em>Da p&aacute;gina do MST</em></div>
-
-<div>&nbsp;</div>
 
 <div>&nbsp;</div>
 
