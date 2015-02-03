@@ -457,12 +457,13 @@
               float: left;
               margin-right: 5px;
               position: relative;
+              width: 129px;
 
               a{
                 @include transition(all 0.3s ease-out);
                 border-bottom: solid 1px #fff;
                 img {
-                  min-width: 129px;
+                  
                   padding-bottom: 0px;
                 }
                 &.open{

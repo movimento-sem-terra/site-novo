@@ -1,5 +1,5 @@
 (function() {
-  "use strict";
+  'use strict';
   var Gallery = {
     thumbs: null,
     largeImage: null,
@@ -20,19 +20,19 @@
       this.links = this.thumbs.find('ul li a');
       this.setLinkEvents(this.links);
       this.setupNav(this.thumbs);
-
     },
 
     setupNav: function(container){
-      var thumbs = container.find("ul");
+      var thumbs = container.find('ul');
       var totalItems = container.find( 'li a').length;
       var navButtons = container.find('a[data-direction]');
       var limit = container.outerWidth();
-      var itemWidth = thumbs.find('li:first').outerWidth(true);
-      var totalWidth = (totalItems * itemWidth);
+      this.itemWidth  = thumbs.find('li:first').outerWidth(true);
+  
+      var totalWidth = (totalItems * this.itemWidth );
       var outerSize =  totalWidth - limit;
-      this.totalPages = Math.round(outerSize / itemWidth) ;
-      this.itemWidth = itemWidth;
+      this.totalPages = Math.round(outerSize / this.itemWidth ) ;
+     
 
       thumbs.css({width: totalWidth });
       navButtons.on('click', function(e){
@@ -53,7 +53,7 @@
         this.currentPage = this.totalPages;
       } 
       
-      this.thumbs.find('ul').velocity({left: ((this.currentPage * this.itemWidth)*-1) + "px" });
+      this.thumbs.find('ul').velocity({left: ((this.currentPage * this.itemWidth)*-1) + 'px' });
     },
 
     animate: function(animation, callback){
