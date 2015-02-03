@@ -43,3 +43,64 @@ O dirigente disse ainda que a luta por Reforma Agr&aacute;ria do MST/MS, em seu 
 <br />
 <br />
 <span style="line-height: 20.7999992370605px;">Nesta ter&ccedil;a-feira (3/2), o MST/MS, participar&aacute; do ato de lan&ccedil;amento da Casa da Mulher Brasileira, em Campo Grande, onde est&aacute; articulando a entrega de um documento a presidente, Dilma Rousseff, sobre a situa&ccedil;&atilde;o da Reforma Agr&aacute;ria em MS e tamb&eacute;m denunciar&aacute; a&ccedil;&otilde;es como a da reintegra&ccedil;&atilde;o de posse ocorrida na Usina de Quebra Coco.</span></p>
+
+<p><br />
+<span style="line-height: 20.7999992370605px;"><em>Confira a nota P&uacute;blica do MST/MS na &iacute;ntegra</em></span><br />
+<br />
+<strong>MST\MS denuncia a situa&ccedil;&atilde;o em que se encontra a Usina de Quebra Coco</strong></p>
+
+<p>O Movimento dos Trabalhadores Rurais Sem Terra de Mato Grosso do Sul (MST/MS)&nbsp;vem,&nbsp;por meio desta nota p&uacute;blica, denunciar a situa&ccedil;&atilde;o em que se encontra a Usina Sucroenerg&eacute;tica Agrisul Agr&iacute;cola, unidade de Mato Grosso do Sul, mas conhecida como Fazenda Santa Olinda, do usineiro Jos&eacute; Pessoa, no distrito de Quebra Coco, em Sidrol&acirc;ndia, cerca de 70 km de Campo Grande, capital do Estado.</p>
+
+<p><br />
+Como &eacute; de conhecimento geral, no dia 10 de janeiro deste ano, o MST/MS ocupou o local e abriu um novo acampamento na &aacute;rea. Ressaltamos que ele foi montado em uma estrada vicinal, que d&aacute; acesso ao distrito de Quebra Coco e n&atilde;o em &aacute;rea de planta&ccedil;&atilde;o ou preserva&ccedil;&atilde;o ambiental, como foi afirmado pela Usina.</p>
+
+<p><br />
+De acordo com a Lei n&ordm; 4.504, de 30 de novembro de 1964, que disp&otilde;e sobre o Estatuto da Terra, e d&aacute; outras provid&ecirc;ncias, em seu artigo 2&deg;, inciso 1&deg;, a propriedade da terra desempenha integralmente a sua fun&ccedil;&atilde;o social quando, simultaneamente favorece o bem-estar dos propriet&aacute;rios e dos trabalhadores que nela labutam, assim como de suas fam&iacute;lias e esse n&atilde;o &eacute; o caso da &aacute;rea em quest&atilde;o.<br />
+&nbsp;</p>
+
+<p>No ano de 2009 o grupo que comandava a usina esteve na chamada &ldquo;Lista Suja do Trabalho Escravo&rdquo; do Minist&eacute;rio do Trabalho e Emprego, por s&eacute;rios descumprimentos de acordo trabalhistas e por danos morais ao coletivo. Por muito tempo esse mesmo grupo recolheu valores referentes a tributos de prestadores de servi&ccedil;o, mas n&atilde;o os repassou ao poder p&uacute;blico. Cerca de 700 funcion&aacute;rios, que foram demitidos, h&aacute; praticamente tr&ecirc;s anos atr&aacute;s, quando a empresa decretou fal&ecirc;ncia, nunca receberam seus sal&aacute;rios atrasados e muito menos direitos como o Fundo de Garantia do Tempo de Servi&ccedil;o (FGTS).<br />
+&nbsp;</p>
+
+<p>As d&iacute;vidas trabalhistas individuais da usina v&atilde;o de 25 mil a quase 80 mil reais. De acordo com dados do Minist&eacute;rio P&uacute;blico do Trabalho, estima-se que o usineiro deva em torno de R$ 1 bilh&atilde;o com bancos, fisco, fornecedores e encargos trabalhistas.<br />
+&nbsp;</p>
+
+<p>A &aacute;rea tamb&eacute;m possui uma a&ccedil;&atilde;o civil p&uacute;blica, impetrada pela Prefeitura Municipal de Sidrol&acirc;ndia, tamb&eacute;m em 2009, por danos causados ao meio ambiente. Outra quest&atilde;o que consta no Estatuto da Terra&nbsp; para que a terra seja de Reforma Agr&aacute;ria, j&aacute; que todos os propriet&aacute;rios rurais devem, por obriga&ccedil;&atilde;o, assegurar a conserva&ccedil;&atilde;o dos recursos naturais.<br />
+&nbsp;</p>
+
+<p>Estes s&atilde;o apenas alguns problemas que esta &aacute;rea apresenta e n&oacute;s do MST/MS nos perguntamos: como a justi&ccedil;a n&atilde;o tomou providencias mais radicais em rela&ccedil;&atilde;o a essa situa&ccedil;&atilde;o e em apenas cinco dias expediu um mandato de reintegra&ccedil;&atilde;o de posse para o movimento, sem notifica&ccedil;&atilde;o oficial?<br />
+&nbsp;</p>
+
+<p><strong>Sobre o despejo dos acampados</strong></p>
+
+<p>Nesta quinta-feira, 29 de fevereiro de 2015, vivenciamos perplexos, o Batalh&atilde;o de choque da Companhia de Gerenciamento de Crises e Opera&ccedil;&otilde;es Especiais, grupo de elite da Pol&iacute;cia Militar, com armas de muni&ccedil;&atilde;o letal, com c&atilde;es e utilizando de muita trucul&ecirc;ncia, despejar as cento e quarenta fam&iacute;lias do MST, que estavam acampadas no local.<br />
+&nbsp;</p>
+
+<p>Para evitar os embates fundi&aacute;rios o Minist&eacute;rio do Desenvolvimento Agr&aacute;rio, atrav&eacute;s da Ouvidoria Agr&aacute;ria Nacional, editou um Manual de Diretrizes Nacionais para Execu&ccedil;&atilde;o de Mandatos Judiciais de Manuten&ccedil;&atilde;o de Posse Coletiva, assinado pelos Governos Estaduais e Federais. As normas contidas neste documento devem ser usadas em a&ccedil;&otilde;es de reintegra&ccedil;&atilde;o, como as da Usina do Quebra Coco.<br />
+&nbsp;</p>
+
+<p>O Manual deixa claro que na desocupa&ccedil;&atilde;o deve ficar garantido a cidadania, a dignidade da pessoa humana, os valores sociais do trabalho, a preval&ecirc;ncia dos direitos humanos e a promo&ccedil;&atilde;o do bem de todos, sem preconceitos de origem, ra&ccedil;a, sexo, cor, idade e quaisquer outras formas de discrimina&ccedil;&atilde;o.<br />
+&nbsp;</p>
+
+<p>Durante a desocupa&ccedil;&atilde;o em quest&atilde;o a for&ccedil;a policial descumpriu praticamente todos os pontos elencados acima, havendo v&aacute;rios momentos de trucul&ecirc;ncia e amea&ccedil;as, por muitas vezes os acampados ouviram palavras de baixo cal&atilde;o e foram claramente coagidos.</p>
+
+<p>Outro ponto que o Manual deixa claro no ponto quatro &eacute; que as opera&ccedil;&otilde;es dever&atilde;o ser documentadas por filmagens, o que deve ser permitido pela pol&iacute;cia a qualquer das entidades presentes ao ato. Na ocasi&atilde;o a assessoria de comunica&ccedil;&atilde;o do MST/MS foi obrigada a sair do local, pela for&ccedil;a policial, por estar documentando a a&ccedil;&atilde;o.<br />
+&nbsp;</p>
+
+<p>O Minist&eacute;rio tamb&eacute;m ressalta que o respons&aacute;vel pelo fornecimento de apoio policial, com o intuito de melhor cumprir a ordem judicial, adotar&aacute; as seguintes provid&ecirc;ncias, com a participa&ccedil;&atilde;o dos demais envolvidos na solu&ccedil;&atilde;o do conflito: I - contactar os representantes dos ocupantes, para fins de esclarecimentos e preven&ccedil;&atilde;o de conflito; II &ndash; comunicar &agrave; Ouvidoria Agr&aacute;ria Regional do Incra para tentar viabilizar &aacute;rea provis&oacute;ria para a qual os acampados possam ser removidos e pr&eacute;dios para eventual guarda de bens.. Nenhum desses pontos foi cumprido.<br />
+&nbsp;</p>
+
+<p>Para finalizar, consideramos ainda pior, o fato que as ordens judiciais devem ser cumpridas nos dias &uacute;teis das 6 &agrave;s 18 horas, podendo este hor&aacute;rio ser ultrapassado para a conclus&atilde;o da opera&ccedil;&atilde;o e no in&iacute;cio da a&ccedil;&atilde;o os policiais queriam tudo desmontado em 15 minutos, se n&atilde;o amea&ccedil;aram colocar &ldquo;fogo&rdquo; nos barracos, como fizeram em um acampamento de outro movimento, que ficava metros de dist&acirc;ncia do nosso. A autoridade policial tamb&eacute;m deveria ser respons&aacute;vel de comunicar o cumprimento da medida judicial aos trabalhadores, ao requerente e aos demais envolvidos com anteced&ecirc;ncia m&iacute;nima de 48 horas, isso n&atilde;o aconteceu, o MST foi informados via imprensa do despejo, n&atilde;o tivemos tempo algum de nos preparar para dar o apoio que quer&iacute;amos as nossas fam&iacute;lias acampadas.<br />
+<br />
+A comunica&ccedil;&atilde;o da a&ccedil;&atilde;o deveria conter: I &ndash; a comarca, o ju&iacute;zo e a identifica&ccedil;&atilde;o do processo em que foi determinada a medida; II &ndash; o n&uacute;mero de fam&iacute;lias instaladas na &aacute;rea a ser desocupada; III &ndash; a data e a hora em que dever&aacute; ser realizada a desocupa&ccedil;&atilde;o; IV &ndash; a identifica&ccedil;&atilde;o das unidades policiais que atuar&atilde;o no aux&iacute;lio ao cumprimento da ordem judicial. Mais uma vez nenhuma dessas medidas foi cumprida como rege o documento.<br />
+&nbsp;</p>
+
+<p>Portanto seguimos indignados, mas nunca paralisados e ressaltamos que o MST/MS, diante das a&ccedil;&otilde;es de trucul&ecirc;ncia e grave viola&ccedil;&atilde;o dos direitos individuais, coletivos e humanos, j&aacute; est&aacute; tomando as medidas judiciais e de luta cab&iacute;veis, por isso trancamos tr&ecirc;s rodovias importantes do Estado, na manh&atilde; do dia 30 de fevereiro, sexta-feira, em solidariedade as fam&iacute;lias despejadas.<br />
+&nbsp;</p>
+
+<p>Al&eacute;m disso, estamos estrando com um pedido de interven&ccedil;&atilde;o federal no MS, com o intuito de coibir a&ccedil;&otilde;es absurdas e incab&iacute;veis como essa e estamos preparando, coletivamente, com os outros movimentos de luta pela terra, que foram afetados pelo despejo, uma a&ccedil;&atilde;o de indeniza&ccedil;&atilde;o por danos morais e materiais as fam&iacute;lias acampadas.<br />
+&nbsp;</p>
+
+<p>Tamb&eacute;m continuaremos batalhando pela &aacute;rea em quest&atilde;o e iremos contestar a reintegra&ccedil;&atilde;o de posse, j&aacute; que est&aacute; mais do que claro que o usineiro infringiu claramente as Leis Trabalhistas e ambientais, pontos de suma import&acirc;ncia para que a &aacute;rea seja considerada para Reforma Agr&aacute;ria.</p>
+
+<p><br />
+A luta hist&oacute;rica por Reforma Agr&aacute;ria popular e democr&aacute;tica do MST, movimento que milita h&aacute; 30 anos por soberania alimentar e dignidade para fam&iacute;lias que sonham com um peda&ccedil;o de terra para produzir, continuar&aacute; sua caminhada, reconstruindo seus barracos, cicatrizando as feridas da alma e continuando a batalha da vida.&nbsp;</p>
