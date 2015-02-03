@@ -5,7 +5,7 @@ tags:
   - tag: agricultores
 title: "Sem Terra celebram os 30 anos do MST no estado do Paraná "
 menu: "educação, cultura e comunicação"
-support_line: "Encontro reuniu militantes entre atividades políticas e culturais "
+support_line: "A atividade aconteceu no Assentamento Vitória da União, onde ocorreu a primeira ocupação do MST no estado, em 1984. "
 layout: post
 files:
   - link: "http://farm9.staticflickr.com/8658/16241704008_941fa297a6_b.jpg"
@@ -53,7 +53,7 @@ section: cover
 <figcaption></figcaption>
 </figure>
 
-<p>A atividade aconteceu no local onde ocorreu a primeira ocupa&ccedil;&atilde;o do MST no estado, em 1984, na &eacute;poca a &aacute;rea era conhecida como Fazenda Imaribo.</p>
+<p>A atividade aconteceu no local onde ocorreu a primeira ocupa&ccedil;&atilde;o do MST no estado, em 1984. Na &eacute;poca, a &aacute;rea era conhecida como Fazenda Imaribo.</p>
 
 <p>Foram 350 fam&iacute;lias de agricultores Sem-Terra de 20 munic&iacute;pios das regi&otilde;es, que lutaram para conquistar a &aacute;rea de 10 mil hectares.</p>
 
