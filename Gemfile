@@ -6,4 +6,4 @@ gem 'jekyll-paginate-by', github: 'marighella/jekyll-paginate-by'
 gem 'neat'
 gem 'httparty'
 gem 'slugify'
-
+gem 'sass'
