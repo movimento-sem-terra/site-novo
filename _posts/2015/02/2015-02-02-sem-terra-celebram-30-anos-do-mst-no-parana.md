@@ -3,7 +3,7 @@ date: "2015-02-02T15:52:53-02:00"
 tags:
   - tag: encontro
   - tag: agricultores
-title: "Sem-Terra celebram os 30 anos do MST no estado do Paraná "
+title: "Sem Terra celebram os 30 anos do MST no estado do Paraná "
 menu: "educação, cultura e comunicação"
 support_line: "Encontro reuniu militantes entre atividades políticas e culturais "
 layout: post
