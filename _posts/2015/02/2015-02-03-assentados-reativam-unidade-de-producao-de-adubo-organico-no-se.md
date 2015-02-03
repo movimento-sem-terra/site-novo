@@ -8,7 +8,7 @@ tags:
 title: Assentados reativam unidade de produção de adubo orgânico no SE
 menu: agricultura camponesa
 hat: ""
-support_line: "Reabertura da fábrica tem como objetivo o estímulo a economia local e a geração de empregos "
+support_line: Reabertura da fábrica tem como objetivo o estímulo a economia local e a geração de empregos.
 layout: post
 files:
   - link: "http://farm9.staticflickr.com/8587/16250816047_f3b18f84d7_b.jpg"
@@ -32,17 +32,22 @@ releated_posts:
   - 2014/08/2014-08-11-juventude-do-campo-e-cidade-discutem-sua-participacao-nas-lutas-populares.md
 
 ---
-<div><em>Da p&aacute;gina do MST</em></div>
-
-<div>&nbsp;</div>
-
+<div>
 <div>&nbsp;</div>
 
 <div>
-<p>A f&aacute;brica de adubo org&acirc;nico localizada na escola agrot&eacute;cnica, no munic&iacute;pio de Est&acirc;ncia, centro sul de Sergipe, ser&aacute; reativada.<br />
-&nbsp;</p>
+<div style="line-height: 20.7999992370605px;"><em>Da p&aacute;gina do MST</em></div>
 
-<p>Ap&oacute;s v&aacute;rias reuni&otilde;es e ser&aacute; coordenada por membros do Coletivo de Juventude do MST e Rede de Agroecologia Campon&ecirc;s a Campon&ecirc;s.<br />
+<div style="line-height: 20.7999992370605px;">&nbsp;</div>
+
+<div style="line-height: 20.7999992370605px;"><br />
+A f&aacute;brica de adubo org&acirc;nico localizada na escola agrot&eacute;cnica, no munic&iacute;pio de Est&acirc;ncia, centro sul de Sergipe, ser&aacute; reativada.</div>
+</div>
+</div>
+
+<div>
+<p><br />
+Ap&oacute;s v&aacute;rias reuni&otilde;es e ser&aacute; coordenada por membros do Coletivo de Juventude do MST e Rede de Agroecologia Campon&ecirc;s a Campon&ecirc;s.<br />
 &nbsp;</p>
 
 <p>Os coordenadores do projeto esperam trazer empregos e gera&ccedil;&atilde;o de renda para a juventude das comunidades locais com a reabertura da f&aacute;brica, evitando assim, o aumento do &ecirc;xodo rural e rotativizando a compra de produtos de qualidade e com um menos pre&ccedil;os pelos assentados.</p>
