@@ -38,7 +38,7 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p>Cerca de 200 pessoas ocuparam a Secretaria de Educa&ccedil;&atilde;o do Esp&iacute;rito Santo na &uacute;ltima sexta-feira (2). A a&ccedil;&atilde;o feita por militantes Sem Terra, educadores, pais, representantes do Sindicatos dos Servidores P&uacute;blicos do Estado (Sindip&uacute;blicos) e da Regional das Associa&ccedil;&otilde;es dos Centros Familiares de Forma&ccedil;&atilde;o em Altern&acirc;ncia do Esp&iacute;rito Santo (RACEFFAES), teve como objetivo exigir que o Governo Federal tome medidas que garantam a implementa&ccedil;&atilde;o da pedagogia do MST nas escolas dos Assentamentos do o Esp&iacute;rito Santo.</p>
+<p>Cerca de 200 pessoas ocuparam a Secretaria de Educa&ccedil;&atilde;o do Esp&iacute;rito Santo na &uacute;ltima sexta-feira (2). A a&ccedil;&atilde;o feita por militantes Sem Terra, educadores, pais, representantes do Sindicatos dos Servidores P&uacute;blicos do Estado (Sindip&uacute;blicos) e da Regional das Associa&ccedil;&otilde;es dos Centros Familiares de Forma&ccedil;&atilde;o em Altern&acirc;ncia do Esp&iacute;rito Santo (RACEFFAES), teve como objetivo exigir que o governo federal tome medidas que garantam a implementa&ccedil;&atilde;o da pedagogia do MST nas escolas dos assentamentos do estado.</p>
 
 <p>&nbsp;</p>
 
@@ -46,15 +46,19 @@ releated_posts:
 <figcaption></figcaption>
 </figure>
 
-<p>O atual governo do estado comandado por Paulo Hartung (PMDB) vem tomando medidas que n&atilde;o considera as especificidades da educa&ccedil;&atilde;o do campo, em especial da pedagogia do Movimento. Com o intuito de cortar gastos, o governo reduziu a contra&ccedil;&atilde;o de professores para 2015.</p>
+<p>O atual governo do ES comandado por Paulo Hartung (PMDB), vem tomando medidas que n&atilde;o considera as especificidades da educa&ccedil;&atilde;o no campo e que n&atilde;o condizem com a pedagogia do Movimento.</p>
 
 <p>&nbsp;</p>
 
-<p>O MST entende que isso impedi a realiza&ccedil;&atilde;o das nossas pr&aacute;ticas pedag&oacute;gicas que consistem em &nbsp;garantir uma forma&ccedil;&atilde;o integral dos educandos, para que fortale&ccedil;am os valores imprescind&iacute;veis para a constru&ccedil;&atilde;o de uma nova sociedade.</p>
+<p>Com o intuito de cortar gastos, dentre as medidas estabelecidas, o governo reduziu a contra&ccedil;&atilde;o de professores para 2015.</p>
 
 <p>&nbsp;</p>
 
-<p>A a&ccedil;&atilde;o do Movimento representa a resist&ecirc;ncia ao projeto de padroniza&ccedil;&atilde;o educacional enfrentado atualmente no pa&iacute;s, bem como a infraestrutura precarizada das escolas do campo.</p>
+<p>O MST entende que isso impedi a realiza&ccedil;&atilde;o das nossas pr&aacute;ticas pedag&oacute;gicas que consistem em garantir uma forma&ccedil;&atilde;o integral dos educandos, para que fortale&ccedil;am os valores imprescind&iacute;veis para a constru&ccedil;&atilde;o de uma nova sociedade.</p>
+
+<p>&nbsp;</p>
+
+<p>A a&ccedil;&atilde;o do Movimento representa a resist&ecirc;ncia ao projeto de padroniza&ccedil;&atilde;o educacional enfrentado atualmente no pa&iacute;s.</p>
 
 <p>&nbsp;</p>
 
