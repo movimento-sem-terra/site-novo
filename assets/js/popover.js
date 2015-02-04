@@ -1,45 +1,61 @@
+var Device = {
+    Android: function() {
+        return navigator.userAgent.match(/Android/i);
+    },
+    BlackBerry: function() {
+        return navigator.userAgent.match(/BlackBerry/i);
+    },
+    iOS: function() {
+        return navigator.userAgent.match(/iPhone|iPad|iPod/i);
+    },
+    Opera: function() {
+        return navigator.userAgent.match(/Opera Mini/i);
+    },
+    Windows: function() {
+        return navigator.userAgent.match(/IEMobile/i);
+    },
+    isMobile: function() {
+        return (Device.Android() || Device.BlackBerry() || Device.iOS() || Device.Opera() || Device.Windows());
+    }
+};
+
+
 function popover() {
   if ($('.popover').length > 0){
 
-    $('.popover').find('.inner-content').prepend("<span class=arrow-pointer'>*</span>");
+    $('.popover').find('.inner-content').prepend("<span class='arrow-pointer'>*</span>");
 
     $('.popover li a').each(
       function (index, el) {
 
         var element = $(el);
-        var content = element.parent().parent().find('.inner-content');
-        content.on('transitionend webkitTransitionEnd oTransitionEnd otransitionend MSTransitionEnd', function() {
-          if($(this).parent().hasClass('open') == false){
-            $(this).css({display: 'none'});
-          }
-        });
 
         element.on('click', function (e) {
-          $('.popover li').removeClass('open');
+          if(!Device.isMobile()){
+            $('.popover li').removeClass('open');
+          }
 
           var li = $(this).parent();
           li.toggleClass('open');
-
-          if(li.hasClass('open') ){
-            li.find('.inner-content').css({display: 'block' } );
-          }
-
-          e.preventDefault();
           if (event.stopPropagation) {
             event.stopPropagation()
           } else {
             // For IE
             event.cancelBubble = true
           }
+
+          e.preventDefault();
         });
         //
 
       }
     );
 
-    $('body').on('click',function(e){
-      $('.popover li').removeClass('open');
-    });
+    if(!Device.isMobile()){
+      $('body').on('click',function(e){
+        $('.popover li').removeClass('open');
+      });
+    }
   }
 }
 
