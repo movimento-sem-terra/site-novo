@@ -33,7 +33,7 @@ releated_posts:
 Da P&aacute;gina do MST</em><br />
 &nbsp;</p>
 
-<figure class="image" style="float:right"><img alt="MS.jpg" height="289" src="http://farm8.staticflickr.com/7335/16439097775_b07766a510_b.jpg" width="320" />
+<figure class="image" style="float:right"><img alt="MS.jpg" height="199" src="http://farm8.staticflickr.com/7335/16439097775_b07766a510_b.jpg" width="220" />
 <figcaption></figcaption>
 </figure>
 
