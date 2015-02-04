@@ -30,6 +30,7 @@ releated_posts:
   - 2014/12/2014-11-07-juventude-e-agroecologia-as-respostas-nao-vem-apenas-das-palavras.md
   - 2012/07/2012-07-25-3-mitos-sobre-a-agroecologia.md
   - 2014/08/2014-08-11-juventude-do-campo-e-cidade-discutem-sua-participacao-nas-lutas-populares.md
+sector: production
 
 ---
 <div>
