@@ -1,4 +1,27 @@
 ---
-layout: fixed_post
+layout: default
+title: Nossa Produção
+styles: "our-production.css"
+scripts: ["velocity.min.js", "about-us/ask-form.js", "our-production/gallery.js"]
 ---
-{% include under_construction.html link = "/taxonomy/term/325" %}
+<!-- TODO: Filtrar posts (where: 'sector', 'production') -->
+{% assign news = site.posts %}
+<main id="our-production">
+  <div id="container">
+    <section id="about">
+      {% include our-production/about.html posts = news  %}
+    </section>
+
+    <section id="highlights">
+     {% include our-production/highlights.html %}
+    </section>
+
+    <section id="news-production">
+      {% include our-production/news-production.html posts = news %}
+    </section>
+
+    <section id="settlement">
+      {% include our-production/settlement.html %}
+    </section>
+  </div>
+</main>

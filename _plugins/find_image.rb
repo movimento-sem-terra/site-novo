@@ -5,13 +5,13 @@ module Jekyll
       result =(post[key].nil? || post[key].empty?) ? get_image_from(post['content']) : post[key]
       return "" unless result
 
-      case size 
+      case size
       when 'hd'
-        result.gsub /_b\.jpg/, '_n.jpg'
+        result.gsub /_(.)\.jpg/, '_n.jpg'
       when 'tiny'
-        result.gsub /_b\.jpg/, '_t.jpg'
+        result.gsub /_(.)\.jpg/, '_t.jpg'
       when 'full_hd'
-        result.gsub /_n\.jpg/, '_b.jpg'
+        result.gsub /_(.)\.jpg/, '_b.jpg'
       else
         result
       end
@@ -24,6 +24,6 @@ module Jekyll
       match && Array(match.captures).flatten.first
     end
   end
-end 
+end
 
 Liquid::Template.register_filter(Jekyll::FindImage)

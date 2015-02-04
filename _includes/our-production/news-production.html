@@ -1,0 +1,76 @@
+{% assign keep = include.posts | where : 'section', 'cover' %}
+{% assign latest_posts = include.posts | where_not: 'section', 'cover'  %}
+{% assign videos = include.posts | where: 'section', 'tv'  %}
+{% assign our_historic = include.posts %}
+<div class="content">
+  <section id="latest-news">
+    <h4>Últimas notícias</h4>
+    {% for post in latest_posts | limit: 7 %}
+      {% assign thumbnail = post | find_image: 'tiny' %}
+      <div class="news">
+        <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">
+          {% if thumbnail != '' %}
+            <img src="{{ thumbnail }}" alt="{{ post.title }}" />
+            {{ post.title | truncate: 55 }}
+          {% else %}
+            {{ post.title | truncate: 70 }}
+            <span class='support_line'>{{ post.support_line | truncate: 60}}</span>
+          {% endif %}
+
+        </a>
+      </div>
+    {% endfor %}
+
+    <a id="more-news" href="#">Mais notícias</a>
+  </section>
+  <!--  -->
+  <div id="others-container">
+    <section id="keep-an-eye">
+      <h4>Fique de olho</h4>
+      {% assign is_first = true %}
+      {% for post in keep | limit: 3 %}
+        <div class='news'>
+          <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">
+            {% if is_first %}
+              <img src="{{ post | find_image: 'hd' }}" />
+            {% else %}
+              <img src="{{ post | find_image: 'tiny' }}" />
+            {% endif %}
+            {{ post.title }}
+          </a>
+        </div>
+        {% assign is_first = false %}
+      {% endfor %}
+    </section> 
+    
+    <div id="others" >
+      <section id="video">
+        <h4>Vídeos</h4>
+        {% for post in videos | limit: 2 %}
+          <div class="news">
+            <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">
+              <iframe width="100%" src="{{ post.video | get_video_embeded }}" allowfullscreen frameborder="0"></iframe>
+              {{ post.title | truncate: 60 }}
+            </a>
+          </div>
+        {% endfor %}
+      </section>
+      <section id="our-historic">
+        <h4>Conheça nosso histórico</h4>
+        {% for post in our_historic | limit: 2 %}
+        {% assign thumbnail = post | find_image: 'hd' %}
+          <div class="news">
+            <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">
+              <img src="{{ thumbnail }}" alt="{{ post.title }}" />
+              {{ post.title | truncate: 70 }}
+            </a>
+          </div>
+        {% endfor %}
+      </section>
+    </div>
+    <section class="ask-us">
+      {% include about-us/ask-us.html %}
+    </section>
+  </div>
+  <!--  -->
+</div>
