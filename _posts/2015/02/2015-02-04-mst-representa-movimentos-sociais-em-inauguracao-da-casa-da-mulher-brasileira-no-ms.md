@@ -4,7 +4,7 @@ tags:
   - tag: mato-grosso-do-sul
   - tag: Mulheres
   - tag: Casa-da-Mulher
-title: MST representa movimentos sociais em inauguração da Casa da Mulher Brasileira no MS
+title: MST representa movimentos sociais em inauguração da Casa da Mulher no MS
 support_line: "Na presença da presidenta Dilma Rousseff, Movimento alertou para a falta autonomia econômica das camponesas e a alta exposição aos agrotóxicos . "
 menu: direitos humanos
 layout: post
