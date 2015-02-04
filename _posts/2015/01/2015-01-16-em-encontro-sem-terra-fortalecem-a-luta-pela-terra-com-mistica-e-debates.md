@@ -3,7 +3,7 @@ date: "2015-01-16T10:17:22-02:00"
 tags:
   - tag: Bahia
   - tag: Encontro-estadual
-title: "Em encontro, Sem Terra fortalecem a luta pela terra com mística e debates"
+title: "Em encontro, Sem Terra fortalecem a luta pela terra com mística e debate"
 support_line: "Mais de 800 delegados e delegadas de nove regiões do estado participam do Encontro Estadual do MST da Bahia, que teve início nesta quinta-feira (15), na Universidade Estadual de Feira de Santana."
 menu: reforma agrária
 layout: post

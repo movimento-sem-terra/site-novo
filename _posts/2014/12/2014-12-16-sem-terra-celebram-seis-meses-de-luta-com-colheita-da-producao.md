@@ -23,6 +23,10 @@ files:
 created_date: "2014-12-16T13:52:04-02:00"
 published: true
 images_hd: "http://farm9.staticflickr.com/8676/15416635353_02a5c239e5_n.jpg"
+sector: production
+releated_posts:
+  - 2014/07/2014-07-17-familias-sem-terra-seguem-na-luta-por-area-grilada-em-abelardo-luz.md
+  - 2014/08/2014-07-30-mst-monta-acampamento-ao-lado-da-justica-federal-no-espirito-santo.md
 
 ---
 <p><img alt="acampamento kide - barraco - por juliana adriano.jpg" src="http://farm8.staticflickr.com/7569/16010502426_e82d094df8_b.jpg" /></p>

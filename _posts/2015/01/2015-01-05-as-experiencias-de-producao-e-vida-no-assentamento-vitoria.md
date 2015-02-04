@@ -19,6 +19,8 @@ files:
 created_date: "2015-01-09T13:05:26-02:00"
 published: true
 images_hd: "http://farm8.staticflickr.com/7537/16052239399_67b209fe3c_n.jpg"
+sector: production
+releated_posts: []
 
 ---
 <p><em>Por Luiz de Carvalho<br />
