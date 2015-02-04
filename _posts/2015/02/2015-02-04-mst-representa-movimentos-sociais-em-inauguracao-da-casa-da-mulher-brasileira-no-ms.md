@@ -33,14 +33,15 @@ releated_posts:
 Da P&aacute;gina do MST</em><br />
 &nbsp;</p>
 
-<figure class="image" style="float:right"><img alt="MS.jpg" height="199" src="http://farm8.staticflickr.com/7335/16439097775_b07766a510_b.jpg" width="220" />
+<p>Foi inaugurada hoje (3/2), em Campo Grande (MS), a primeira Casa da Mulher Brasileira do pa&iacute;s. Na ocasi&atilde;o, coube ao MST/MS representar o conjunto dos movimentos sociais e sindicais presentes na atividade, que contou com a participa&ccedil;&atilde;o da Presidenta Dilma Rousseff e com o s&iacute;mbolo da luta contra a viol&ecirc;ncia contra a mulher, Maria da Penha.&nbsp;<br />
+<br />
+&nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="MS.jpg" height="289" src="http://farm8.staticflickr.com/7335/16439097775_b07766a510_b.jpg" width="320" />
 <figcaption></figcaption>
 </figure>
 
-<p>Foi inaugurada hoje (3/2), em Campo Grande (MS), a primeira Casa da Mulher Brasileira do pa&iacute;s. Na ocasi&atilde;o, coube ao MST/MS representar o conjunto dos movimentos sociais e sindicais presentes na atividade, que contou com a participa&ccedil;&atilde;o da Presidenta Dilma Rousseff e com o s&iacute;mbolo da luta contra a viol&ecirc;ncia contra a mulher, Maria da Penha.&nbsp;<br />
-<br />
-<br />
-De acordo com Marina Nunes, integrante da dire&ccedil;&atilde;o nacional do MST, o momento &eacute; de extrema import&acirc;ncia para as mulheres do Mato Grosso do Sul, j&aacute; que hoje o estado est&aacute; na lista dos que possui maiores &iacute;ndices de viol&ecirc;ncia contra as mulheres. &ldquo;&Eacute; com tristeza que somos a quarta capital brasileira no &iacute;ndice de viol&ecirc;ncia praticada contras as mulheres e o Mato Grosso do Sul est&aacute; entre os estados com altos &iacute;ndices tamb&eacute;m, mas &eacute; com alegria que estamos aqui hoje, olhando para a primeira Casa da Mulher Brasileira, um espa&ccedil;o que contempla a nossa luta de enfrentamento a viol&ecirc;ncia&rdquo;, disse.<br />
+<p>De acordo com Marina Nunes, integrante da dire&ccedil;&atilde;o nacional do MST, o momento &eacute; de extrema import&acirc;ncia para as mulheres do Mato Grosso do Sul, j&aacute; que hoje o estado est&aacute; na lista dos que possui maiores &iacute;ndices de viol&ecirc;ncia contra as mulheres. &ldquo;&Eacute; com tristeza que somos a quarta capital brasileira no &iacute;ndice de viol&ecirc;ncia praticada contras as mulheres e o Mato Grosso do Sul est&aacute; entre os estados com altos &iacute;ndices tamb&eacute;m, mas &eacute; com alegria que estamos aqui hoje, olhando para a primeira Casa da Mulher Brasileira, um espa&ccedil;o que contempla a nossa luta de enfrentamento a viol&ecirc;ncia&rdquo;, disse.<br />
 <br />
 <br />
 Para Nunes, &eacute; preciso estar atento aos servi&ccedil;os prestados pela Casa. &nbsp;&ldquo;Nossa luta &eacute; para que espa&ccedil;os como esse garantam condi&ccedil;&otilde;es reais para o enfrentamento da viol&ecirc;ncia e para o t&atilde;o sonhado empoderamento da mulher e sua autonomia econ&ocirc;mica&rdquo;, enfatizou.<br />
