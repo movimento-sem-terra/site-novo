@@ -31,6 +31,7 @@ created_date: "2015-02-05T11:52:56-02:00"
 published: true
 images_hd: "http://farm8.staticflickr.com/7406/16449770805_c9fc6e3e4e_n.jpg"
 releated_posts: []
+sector: production
 
 ---
 <p><em>Por Riquieli Capitani<br />
