@@ -15,9 +15,15 @@ files:
     small: "http://farm8.staticflickr.com/7459/16263367740_ef309ea2c6_n.jpg"
     title: plebiscito.jpg
     $$hashKey: "052"
+  - link: "http://farm8.staticflickr.com/7330/16264935127_a5b0a431c2_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7330/16264935127_a5b0a431c2_t.jpg"
+    medium: "http://farm8.staticflickr.com/7330/16264935127_a5b0a431c2_z.jpg"
+    small: "http://farm8.staticflickr.com/7330/16264935127_a5b0a431c2_n.jpg"
+    title: plebiscito 2.JPG
+    $$hashKey: 02J
 created_date: "2015-02-05T14:41:07-02:00"
 published: true
-images_hd: "http://farm8.staticflickr.com/7459/16263367740_ef309ea2c6_n.jpg"
+images_hd: "http://farm8.staticflickr.com/7330/16264935127_a5b0a431c2_n.jpg"
 releated_posts:
   - 2014/08/2014-08-11-nesta-terca-milhares-vao-as-ruas-no-dia-nacional-de-luta-pelo-plebiscito-constituinte.md
   - 2014/08/2014-08-11-jovens-do-mst-ocupam-sede-da-sda-e-reinvindicam-politicas-publicas-no-ce.md
@@ -31,9 +37,13 @@ Movimentos e organiza&ccedil;&otilde;es da sociedade civil realizaram ato na C&a
 <br />
 Em outubro, como desdobramento da campanha popular, um Projeto de Decreto Legislativo (PDL), assinado por 181 parlamentares, foi entregue ao Congresso Nacional e prop&otilde;e um plebiscito oficial com a mesma e &uacute;nica pergunta da consulta popular: voc&ecirc; &eacute; favor de uma Assembleia Nacional Constituinte Exclusiva e Soberana sobre o Sistema Pol&iacute;tico?<br />
 <br />
-<br />
-O povo &eacute; quem deve ter a palavra e decidir qual a reforma necess&aacute;ria para reverter as distor&ccedil;&otilde;es na representa&ccedil;&atilde;o pol&iacute;tica em nosso pa&iacute;s causadas pelo atual sistema pol&iacute;tico. Entre elas, a baixa representatividade de mulheres, negros, ind&iacute;genas e trabalhadores; em contraste com a forte presen&ccedil;a do poder econ&ocirc;mico e de interesses corporativos de grandes empresas.<br />
 &nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="plebiscito 2.JPG" height="240" src="http://farm8.staticflickr.com/7330/16264935127_a5b0a431c2_b.jpg" width="360" />
+<figcaption>Ato na C&acirc;mara dos Deputados&nbsp;</figcaption>
+</figure>
+
+<p>O povo &eacute; quem deve ter a palavra e decidir qual a reforma necess&aacute;ria para reverter as distor&ccedil;&otilde;es na representa&ccedil;&atilde;o pol&iacute;tica em nosso pa&iacute;s causadas pelo atual sistema pol&iacute;tico. Entre elas, a baixa representatividade de mulheres, negros, ind&iacute;genas e trabalhadores; em contraste com a forte presen&ccedil;a do poder econ&ocirc;mico e de interesses corporativos de grandes empresas.</p>
 
 <p>&quot;Hoje, h&aacute; na C&acirc;mara uma correla&ccedil;&atilde;o de for&ccedil;as desfavor&aacute;vel aos trabalhadores e ao povo que quer ver seus direitos garantidos e exercer a cidadania pol&iacute;tica de maneira plena&rdquo;, destacou a deputada Lu&iacute;za Erundina (PSB-SP), uma das autores do PDL, junto com o deputado Renato Sim&otilde;es (PT-SP). Erundina, Sim&otilde;es e outros parlamentares presentes ao ato recha&ccedil;aram a manobra do presidente Eduardo Cunha (PMDB-RJ), que encaminhou, na ter&ccedil;a-feira (3), a tramita&ccedil;&atilde;o da PEC n&ordm; 352/13, que provoca ainda mais retrocessos no atual sistema pol&iacute;tico brasileiro.</p>
 
