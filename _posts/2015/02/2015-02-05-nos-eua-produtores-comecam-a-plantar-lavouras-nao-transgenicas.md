@@ -7,7 +7,7 @@ tags:
   - tag: soja
 hat: Transgênicos
 title: "Nos EUA, produtores começam a plantar lavouras não transgênicas "
-support_line: A queda nos preços das commodities agrícolas fez muitos agricultores ficarem terem prejuízo na safra de 2014
+support_line: A queda nos preços das commodities agrícolas fez muitos agricultores ficarem terem prejuízo na safra de 2014.
 menu: transgênicos
 section: null
 layout: post
