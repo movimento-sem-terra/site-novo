@@ -4,7 +4,7 @@ tags:
   - tag: Despejo
   - tag: Mato-Grosso-do-Sul
 title: Governo do MS admite falha durante ação de despejo no estado
-support_line: "MST se reuniu com o atual governador Reinaldo Azambuja "
+support_line: "MST se reuniu com o atual governador do estado,  Reinaldo Azambuja. "
 menu: direitos humanos
 layout: post
 files:
@@ -14,34 +14,45 @@ files:
     small: "http://farm8.staticflickr.com/7448/16248675429_8399c3e457_n.jpg"
     title: MS.jpg
     $$hashKey: "050"
+  - link: "http://farm8.staticflickr.com/7305/15818090713_cf20abdab8_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7305/15818090713_cf20abdab8_t.jpg"
+    medium: "http://farm8.staticflickr.com/7305/15818090713_cf20abdab8_z.jpg"
+    small: "http://farm8.staticflickr.com/7305/15818090713_cf20abdab8_n.jpg"
+    title: MS 1.jpg
+    $$hashKey: 04P
 created_date: "2015-02-03T11:16:33-02:00"
 published: true
 images_hd: "http://farm8.staticflickr.com/7448/16248675429_8399c3e457_n.jpg"
 releated_posts:
   - 2014/03/2014-03-06-familias-sao-despejadas-violentamente-de-area-improdutiva-no-maranhao.md
   - 2014/12/2014-12-15-em-solidariedade-aos-indigenas-sem-terra-bloqueiam-rodovia-em-mato-grosso-do-sul.md
+section: cover
 
 ---
 <p><em>Da P&aacute;gina do MST</em><br />
 <br />
-Na manh&atilde; desta segunda-feira (2/2), dirigentes estaduais do Movimento dos Trabalhadores Rurais Sem Terra de Mato Grosso do Sul (MST/MS), se reuniram com o atual governador, Reinaldo Azambuja (PSDB) e seu secretariado, na governadoria, para debater quest&otilde;es como a reintegra&ccedil;&atilde;o de posse da Usina Sucroenerg&eacute;tica Agrisul Agr&iacute;cola, unidade de Mato Grosso do Sul, mas conhecida como Fazenda Santa Olinda, do usineiro Jos&eacute; Pessoa, no distrito de Quebra Coco, em Sidrol&acirc;ndia.<br />
+Na manh&atilde; desta segunda-feira (2/2), integrantes da dire&ccedil;&atilde;o estadual do MST/MS&nbsp; se&nbsp;reuniram com o atual governador do estado, Reinaldo Azambuja (PSDB) e seu secretariado, na governadoria. A pauta principal foi a&nbsp;reintegra&ccedil;&atilde;o de posse da Usina Sucroenerg&eacute;tica Agrisul Agr&iacute;cola, unidade de Mato Grosso do Sul, mais conhecida como Fazenda Santa Olinda, do usineiro Jos&eacute; Pessoa, no distrito de Quebra Coco, em Sidrol&acirc;ndia.<br />
 <br />
 <br />
-Na ocasi&atilde;o os dirigentes denunciaram a a&ccedil;&atilde;o truculenta da policia no despejo das cento quarenta fam&iacute;lias do Movimento, na a&ccedil;&atilde;o que foi realizada na quinta-feira (29) e tamb&eacute;m trataram de outros temas relacionados &agrave; Reforma Agr&aacute;ria no Estado e a situa&ccedil;&atilde;o estrutural dos assentamentos de MS.<br />
-<br />
-<br />
-Durante a reuni&atilde;o o Governo assumiu a falta de comunica&ccedil;&atilde;o com o Movimento e admitiu que houve falha na a&ccedil;&atilde;o. Al&eacute;m disso, se comprometeu a abrir mais o canal de di&aacute;logo com os movimentos de luta pela terra para que situa&ccedil;&otilde;es como essa n&atilde;o ocorram mais.<br />
-<br />
-<br />
-Segundo Jonas Carlos da Concei&ccedil;&atilde;o, dirigente nacional do MST/MS, o debate e a negocia&ccedil;&atilde;o fazem parte do papel da dire&ccedil;&atilde;o do Movimento. &ldquo;Como representante das milhares de fam&iacute;lias Sem Terra de MS, n&oacute;s precisamos abrir o canal de di&aacute;logo, garantir a seguran&ccedil;a das pessoas e principalmente lutar por avan&ccedil;os em diversos setores que atuamos&rdquo;, explicou.<br />
+Na ocasi&atilde;o,&nbsp;os dirigentes denunciaram a a&ccedil;&atilde;o truculenta da policia no despejo das 140 fam&iacute;lias do Movimento, na a&ccedil;&atilde;o que foi realizada na quinta-feira (29/1). A reuni&atilde;o tamb&eacute;m tratou de outros temas relacionados &agrave; Reforma Agr&aacute;ria no Estado e a situa&ccedil;&atilde;o estrutural dos assentamentos de MS.</p>
+
+<p><br />
+Durante a reuni&atilde;o, o Governo assumiu a falta de comunica&ccedil;&atilde;o com o Movimento e admitiu que houve falha na a&ccedil;&atilde;o.&nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="MS 1.jpg" height="200" src="http://farm8.staticflickr.com/7305/15818090713_cf20abdab8_b.jpg" width="300" />
+<figcaption>Acampamento ap&oacute;s a a&ccedil;&atilde;o de despejo</figcaption>
+</figure>
+
+<p><br />
+Segundo Jonas Carlos da Concei&ccedil;&atilde;o, integrante da dire&ccedil;&atilde;o nacional do MST/MS, o debate e a negocia&ccedil;&atilde;o fazem parte do papel da dire&ccedil;&atilde;o do Movimento. &ldquo;Como representante das milhares de fam&iacute;lias Sem Terra do Mato Grosso do Sul, n&oacute;s precisamos abrir o canal de di&aacute;logo, garantir a seguran&ccedil;a das pessoas e principalmente lutar por avan&ccedil;os em diversos setores que atuamos&rdquo;, explicou.<br />
 <br />
 <br />
 Jonas Carlos disse ainda que o Governo se comprometeu a deixar o canal de di&aacute;logo aberto e a avan&ccedil;ar em quest&otilde;es importantes, como a infraestrutura dos assentamentos de MS. &ldquo;Em nossos pontos de pauta a luta por melhores condi&ccedil;&otilde;es nos assentamentos &eacute; constante, estrada, &aacute;gua, maquin&aacute;rios, enfim, dignidade de trabalho para os nossos assentados e nesse ponto a conversa parece ter avan&ccedil;ado e n&oacute;s ficamos de criar um grupo que ir&aacute; debater mais profundamente a situa&ccedil;&atilde;o de cada localidade&rdquo;, disse.<br />
 <br />
 <br />
-O dirigente disse ainda que a luta por Reforma Agr&aacute;ria do MST/MS, em seu sentido amplo continua. &ldquo;Queremos uma Reforma que d&ecirc; condi&ccedil;&otilde;es dignas de vida para os assentados, continuamos n&atilde;o aceitando, de forma alguma, a&ccedil;&otilde;es como a de quinta-feira, esperamos que o Estado tenha reconhecido sua falha e que situa&ccedil;&otilde;es como essa n&atilde;o voltem a acontecer. A &uacute;nica certeza que temos &eacute; a que a nossa luta continua sempre&rdquo;, concluiu.<br />
-<br />
-<br />
+O dirigente disse ainda que a luta por Reforma Agr&aacute;ria do MST/MS, em seu sentido amplo, continua. &ldquo;Queremos uma Reforma que d&ecirc; condi&ccedil;&otilde;es dignas de vida para os assentados, continuamos n&atilde;o aceitando, de forma alguma, a&ccedil;&otilde;es como a de quinta-feira, esperamos que o Estado tenha reconhecido sua falha e que situa&ccedil;&otilde;es como essa n&atilde;o voltem a acontecer. A &uacute;nica certeza que temos &eacute; a que a nossa luta continua sempre&rdquo;, concluiu.</p>
+
+<p><br />
 <span style="line-height: 20.7999992370605px;">Nesta ter&ccedil;a-feira (3/2), o MST/MS, participar&aacute; do ato de lan&ccedil;amento da Casa da Mulher Brasileira, em Campo Grande, onde est&aacute; articulando a entrega de um documento a presidente, Dilma Rousseff, sobre a situa&ccedil;&atilde;o da Reforma Agr&aacute;ria em MS e tamb&eacute;m denunciar&aacute; a&ccedil;&otilde;es como a da reintegra&ccedil;&atilde;o de posse ocorrida na Usina de Quebra Coco.</span></p>
 
 <p><br />
@@ -83,7 +94,8 @@ De acordo com a Lei n&ordm; 4.504, de 30 de novembro de 1964, que disp&otilde;e 
 
 <p>Durante a desocupa&ccedil;&atilde;o em quest&atilde;o a for&ccedil;a policial descumpriu praticamente todos os pontos elencados acima, havendo v&aacute;rios momentos de trucul&ecirc;ncia e amea&ccedil;as, por muitas vezes os acampados ouviram palavras de baixo cal&atilde;o e foram claramente coagidos.</p>
 
-<p>Outro ponto que o Manual deixa claro no ponto quatro &eacute; que as opera&ccedil;&otilde;es dever&atilde;o ser documentadas por filmagens, o que deve ser permitido pela pol&iacute;cia a qualquer das entidades presentes ao ato. Na ocasi&atilde;o a assessoria de comunica&ccedil;&atilde;o do MST/MS foi obrigada a sair do local, pela for&ccedil;a policial, por estar documentando a a&ccedil;&atilde;o.<br />
+<p><br />
+Outro ponto que o Manual deixa claro no ponto quatro &eacute; que as opera&ccedil;&otilde;es dever&atilde;o ser documentadas por filmagens, o que deve ser permitido pela pol&iacute;cia a qualquer das entidades presentes ao ato. Na ocasi&atilde;o a assessoria de comunica&ccedil;&atilde;o do MST/MS foi obrigada a sair do local, pela for&ccedil;a policial, por estar documentando a a&ccedil;&atilde;o.<br />
 &nbsp;</p>
 
 <p>O Minist&eacute;rio tamb&eacute;m ressalta que o respons&aacute;vel pelo fornecimento de apoio policial, com o intuito de melhor cumprir a ordem judicial, adotar&aacute; as seguintes provid&ecirc;ncias, com a participa&ccedil;&atilde;o dos demais envolvidos na solu&ccedil;&atilde;o do conflito: I - contactar os representantes dos ocupantes, para fins de esclarecimentos e preven&ccedil;&atilde;o de conflito; II &ndash; comunicar &agrave; Ouvidoria Agr&aacute;ria Regional do Incra para tentar viabilizar &aacute;rea provis&oacute;ria para a qual os acampados possam ser removidos e pr&eacute;dios para eventual guarda de bens.. Nenhum desses pontos foi cumprido.<br />
@@ -103,4 +115,6 @@ A comunica&ccedil;&atilde;o da a&ccedil;&atilde;o deveria conter: I &ndash; a co
 <p>Tamb&eacute;m continuaremos batalhando pela &aacute;rea em quest&atilde;o e iremos contestar a reintegra&ccedil;&atilde;o de posse, j&aacute; que est&aacute; mais do que claro que o usineiro infringiu claramente as Leis Trabalhistas e ambientais, pontos de suma import&acirc;ncia para que a &aacute;rea seja considerada para Reforma Agr&aacute;ria.</p>
 
 <p><br />
-A luta hist&oacute;rica por Reforma Agr&aacute;ria popular e democr&aacute;tica do MST, movimento que milita h&aacute; 30 anos por soberania alimentar e dignidade para fam&iacute;lias que sonham com um peda&ccedil;o de terra para produzir, continuar&aacute; sua caminhada, reconstruindo seus barracos, cicatrizando as feridas da alma e continuando a batalha da vida.&nbsp;</p>
+A luta hist&oacute;rica por Reforma Agr&aacute;ria popular e democr&aacute;tica do MST, movimento que milita h&aacute; 30 anos por soberania alimentar e dignidade para fam&iacute;lias que sonham com um peda&ccedil;o de terra para produzir, continuar&aacute; sua caminhada, reconstruindo seus barracos, cicatrizando as feridas da alma e continuando a batalha da vida.</p>
+
+<p>Movimento dos Trabalhadores Rurais Sem Terra - MST/MS&nbsp;</p>

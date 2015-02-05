@@ -102,11 +102,13 @@ files:
 created_date: "2015-01-25T11:36:24-02:00"
 published: true
 images_hd: "http://farm9.staticflickr.com/8612/16175618518_5129c3830c_n.jpg"
+releated_posts:
+  - 2014/09/2014-09-17-enff-realiza-semana-florestan-fernandes.md
 
 ---
 <p>&nbsp;</p>
 
-<p><img alt="geral.jpg" src="http://farm9.staticflickr.com/8612/16175618518_5129c3830c_b.jpg" /></p>
+<p><iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/QaPV0iEjLyQ" width="640"></iframe></p>
 
 <p><em>Por Luiz Felipe Albuquerque<br />
 Da P&aacute;gina do MST</em></p>
