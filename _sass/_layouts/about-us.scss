@@ -442,6 +442,9 @@ main.about-us {
           margin-bottom: 10px;
           display: block;
           margin-left: 2px;
+          @include media($desktop){
+            display: none;
+          }
         }
         select {
           width: 100%;

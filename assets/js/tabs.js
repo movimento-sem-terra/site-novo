@@ -1,20 +1,42 @@
-$(function() {
+(function() {
+  "use strict";
+  var Tabs = {
+    list: null,
+    select: null,
+    links: null,
 
-  var container = $('#tabs-container');
-  var links = container.find('li a');
+    init: function(container, list, select){
+      this.container = $(container);
+      this.list = this.container.find(list);
+      this.select = this.container.find(select);
+      this.setupLinks();
+      this.setupSelect();
 
-  links.each(function(index, link){
-    $(link).on('click', function(e){
+    },
 
-      var selectedItem = $(e.currentTarget);
-      var ref = selectedItem.attr('href');
+    setupSelect: function(){
+      this.select.on('change', function(e){
+        Tabs.changeTab($(this).val());
+      });
+    },
 
-      container.find('.selected').removeClass('selected');
-      container.find(".tab").removeClass('show');
-      container.find(ref).addClass('show');
-      selectedItem.parent().addClass('selected');
-      e.preventDefault();
-    });
-  });
+    setupLinks: function(){
+      var links = this.list.find('li a');
+      links.each(function(index, link){
+        $(link).on('click', function(e){
+          var selectedItem = $(e.currentTarget);
+          selectedItem.parent().addClass('selected');
+          Tabs.changeTab(selectedItem.attr('href'));
+          e.preventDefault();
+        });
+      });
+    },
 
-});
+    changeTab: function(value){
+      this.container.find('.selected').removeClass('selected');
+      this.container.find('.tab').removeClass('show');
+      this.container.find(value).addClass('show');
+    },
+  }
+  $(function(){ Tabs.init('div#tabs-container', 'ul.resp-tabs-list', 'select') });
+}());
