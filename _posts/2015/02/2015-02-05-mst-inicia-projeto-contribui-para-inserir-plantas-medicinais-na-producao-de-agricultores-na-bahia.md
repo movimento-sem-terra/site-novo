@@ -5,9 +5,9 @@ tags:
   - tag: plantas-medicinais
   - tag: Fiocruz
   - tag: agricultura-camponesa
-title: MST inicia projeto que insere plantas medicinais na produção de agricultores na Bahia
+title: MST insere plantas medicinais na produção de agricultores na Bahia
 hat: Saúde
-support_line: O objetivo é contribuir para o desenvolvimento socioambiental e sanitário em sete pré assentamentos do MST e comunidades rurais.
+support_line: O objetivo é contribuir para o desenvolvimento socioambiental e sanitário em sete pré-assentamentos e comunidades rurais.
 section: null
 menu: agricultura camponesa
 layout: post
