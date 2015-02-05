@@ -15,6 +15,18 @@ files:
     small: "http://farm8.staticflickr.com/7406/16449770805_c9fc6e3e4e_n.jpg"
     title: P1080114.JPG
     $$hashKey: 05B
+  - link: "http://farm8.staticflickr.com/7352/15827506744_a0536d57f1_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7352/15827506744_a0536d57f1_t.jpg"
+    medium: "http://farm8.staticflickr.com/7352/15827506744_a0536d57f1_z.jpg"
+    small: "http://farm8.staticflickr.com/7352/15827506744_a0536d57f1_n.jpg"
+    title: PR2.jpg
+    $$hashKey: 02G
+  - link: "http://farm9.staticflickr.com/8579/16449187862_98d937eff1_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8579/16449187862_98d937eff1_t.jpg"
+    medium: "http://farm9.staticflickr.com/8579/16449187862_98d937eff1_z.jpg"
+    small: "http://farm9.staticflickr.com/8579/16449187862_98d937eff1_n.jpg"
+    title: PR2.jpg
+    $$hashKey: 02J
 created_date: "2015-02-05T11:52:56-02:00"
 published: true
 images_hd: "http://farm8.staticflickr.com/7406/16449770805_c9fc6e3e4e_n.jpg"
@@ -30,8 +42,13 @@ Dos compromissos com a terra e com a vida firmados pelo MST, dois deles&nbsp;s&a
 <p><br />
 Nesse sentido, as fam&iacute;lias do Assentamento Contestado, localizado no munic&iacute;pio da Lapa (PR), trabalham na produ&ccedil;&atilde;o de alimentos agroecol&oacute;gicos, de qualidade e acess&iacute;veis &agrave; popula&ccedil;&atilde;o, al&eacute;m de buscar a melhoria da qualidade de vida. E, para organizar a produ&ccedil;&atilde;o, industrializa&ccedil;&atilde;o e comercializa&ccedil;&atilde;o, foi fundada em 10 de abril de 2010, no Assentamento, a Cooperativa de Agroind&uacute;stria e Com&eacute;rcio Terra Livre.</p>
 
-<p><br />
-Atualmente a Cooperativa conta com 266 cooperados, destes 215 residem no munic&iacute;pio da Lapa (80,85%), outros 46 camponeses residem no munic&iacute;pio de S&atilde;o Mateus do Sul (17,45%) e cinco residem no munic&iacute;pio de Ant&ocirc;nio Olinto (1,70%).</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="PR2.jpg" height="271" src="http://farm8.staticflickr.com/7352/15827506744_a0536d57f1_b.jpg" width="320" />
+<figcaption></figcaption>
+</figure>
+
+<p>Atualmente a Cooperativa conta com 266 cooperados, destes 215 residem no munic&iacute;pio da Lapa (80,85%), outros 46 camponeses residem no munic&iacute;pio de S&atilde;o Mateus do Sul (17,45%) e cinco residem no munic&iacute;pio de Ant&ocirc;nio Olinto (1,70%).</p>
 
 <p><br />
 &ldquo;Desse n&uacute;mero total, 131 cooperados s&atilde;o assentados e assentadas da reforma agr&aacute;ria, com destaque para os jovens, que representam 25% deste total e que buscam na Cooperativa uma op&ccedil;&atilde;o para a sua autonomia e a sua emancipa&ccedil;&atilde;o no meio rural&rdquo;, comenta Daniel Kramer Schwiderke, integrante da coordena&ccedil;&atilde;o da Cooperativa.</p>
@@ -75,8 +92,13 @@ Segundo Ant&ocirc;nio Carlos Bez, membro da coordena&ccedil;&atilde;o do Cefuria
 <p><br />
 Assim, juntando diferentes atores sociais, de um lado as agricultoras e agricultores da Reforma Agr&aacute;ria, da Agricultura Familiar e de Fam&iacute;lias Quilombolas e de outro mulheres, crian&ccedil;as, jovens e idosos em situa&ccedil;&atilde;o de vulnerabilidade social e em situa&ccedil;&atilde;o de inseguran&ccedil;a alimentar &eacute; poss&iacute;vel garantir o acesso e a participa&ccedil;&atilde;o de agricultores familiares ao mercado. &nbsp;A&nbsp;gera&ccedil;&atilde;o de renda, a preserva&ccedil;&atilde;o do meio ambiente, a supera&ccedil;&atilde;o da condi&ccedil;&atilde;o de inseguran&ccedil;a alimentar, o acesso a uma alimenta&ccedil;&atilde;o saud&aacute;vel, o estimulo de h&aacute;bitos alimentares saud&aacute;veis, sempre em conjunto com o controle social em todas as etapas de seu desenvolvimento, tamb&eacute;m est&atilde;o garantidos.</p>
 
-<p><br />
-Al&eacute;m do PAA, outra forma de comercializa&ccedil;&atilde;o da produ&ccedil;&atilde;o dos assentados, ser&aacute; pela agroind&uacute;stria constru&iacute;da atrav&eacute;s de recursos das pr&oacute;prias fam&iacute;lias do assetamento. No espa&ccedil;o ser&atilde;o feitos o processamento dos alimentos produzidos pelos agricultores.</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="PR2.jpg" height="245" src="http://farm9.staticflickr.com/8579/16449187862_98d937eff1_b.jpg" width="320" />
+<figcaption></figcaption>
+</figure>
+
+<p>Al&eacute;m do PAA, outra forma de comercializa&ccedil;&atilde;o da produ&ccedil;&atilde;o dos assentados, ser&aacute; pela agroind&uacute;stria constru&iacute;da atrav&eacute;s de recursos das pr&oacute;prias fam&iacute;lias do assetamento. No espa&ccedil;o ser&atilde;o feitos o processamento dos alimentos produzidos pelos agricultores.</p>
 
 <p><br />
 Toda a agroind&uacute;stria foi constru&iacute;da pela contribui&ccedil;&atilde;o de cada fam&iacute;lia, e pela m&atilde;o de obra dos pr&oacute;prios assentados. E os equipamentos foram adquiridos atrav&eacute;s do Incra, pelo programa Terra Forte.&nbsp;&ldquo;Os 31 diferentes tipos de hortali&ccedil;as, frutas e legumes que s&atilde;o produzidos aqui ser&atilde;o processados nessa agroind&uacute;stria, n&oacute;s faremos conservas, molho de tomate, tamb&eacute;m vamos embalar alimentos, faremos o corte de verduras, e al&eacute;m disso n&oacute;s tamb&eacute;m teremos a panificadora&rdquo;, acrescenta Kramer.</p>
