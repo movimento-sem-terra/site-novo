@@ -15,18 +15,18 @@ files:
     small: "http://farm8.staticflickr.com/7406/16449770805_c9fc6e3e4e_n.jpg"
     title: P1080114.JPG
     $$hashKey: 05B
-  - link: "http://farm8.staticflickr.com/7352/15827506744_a0536d57f1_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7352/15827506744_a0536d57f1_t.jpg"
-    medium: "http://farm8.staticflickr.com/7352/15827506744_a0536d57f1_z.jpg"
-    small: "http://farm8.staticflickr.com/7352/15827506744_a0536d57f1_n.jpg"
-    title: PR2.jpg
-    $$hashKey: 02G
   - link: "http://farm9.staticflickr.com/8579/16449187862_98d937eff1_b.jpg"
     thumbnail: "http://farm9.staticflickr.com/8579/16449187862_98d937eff1_t.jpg"
     medium: "http://farm9.staticflickr.com/8579/16449187862_98d937eff1_z.jpg"
     small: "http://farm9.staticflickr.com/8579/16449187862_98d937eff1_n.jpg"
     title: PR2.jpg
     $$hashKey: 02J
+  - link: "http://farm8.staticflickr.com/7431/16449276542_bbabed7491_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7431/16449276542_bbabed7491_t.jpg"
+    medium: "http://farm8.staticflickr.com/7431/16449276542_bbabed7491_z.jpg"
+    small: "http://farm8.staticflickr.com/7431/16449276542_bbabed7491_n.jpg"
+    title: agricultor.jpg
+    $$hashKey: 09L
 created_date: "2015-02-05T11:52:56-02:00"
 published: true
 images_hd: "http://farm8.staticflickr.com/7406/16449770805_c9fc6e3e4e_n.jpg"
@@ -44,7 +44,7 @@ Nesse sentido, as fam&iacute;lias do Assentamento Contestado, localizado no muni
 
 <p>&nbsp;</p>
 
-<figure class="image" style="float:right"><img alt="PR2.jpg" height="271" src="http://farm8.staticflickr.com/7352/15827506744_a0536d57f1_b.jpg" width="320" />
+<figure class="image" style="float:right"><img alt="agricultor.jpg" height="271" src="http://farm8.staticflickr.com/7431/16449276542_bbabed7491_b.jpg" width="320" />
 <figcaption></figcaption>
 </figure>
 
