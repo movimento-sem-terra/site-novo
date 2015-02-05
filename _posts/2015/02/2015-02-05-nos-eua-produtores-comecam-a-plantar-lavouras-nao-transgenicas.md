@@ -9,7 +9,7 @@ hat: Transgênicos
 title: "Nos EUA, produtores começam a plantar lavouras não transgênicas "
 support_line: A queda nos preços das commodities agrícolas fez muitos agricultores ficarem terem prejuízo na safra de 2014
 menu: transgênicos
-section: cover
+section: null
 layout: post
 files:
   - link: "http://farm9.staticflickr.com/8574/16262576398_7a96aa3e83_b.jpg"
