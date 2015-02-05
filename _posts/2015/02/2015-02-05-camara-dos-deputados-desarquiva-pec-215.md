@@ -23,7 +23,7 @@ releated_posts:
   - 2014/08/2014-08-22-advogado-da-cna-receberia-r-30-mil-por-relatorio-da-pec-215-denuncia-mpf.md
   - 2014/12/2014-11-24-pec-sobre-demarcacao-de-terras-indigenas-deve-voltar-a-tona-em-2015.md
   - 2014/12/2014-12-16-os-interesses-dos-parlamentares-que-querem-aprovar-a-pec-215.md
-section: cover
+section: null
 
 ---
 <p>Do Instituto Socioambiental<br />
