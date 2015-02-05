@@ -3,8 +3,8 @@ date: "2015-02-05T11:27:41-02:00"
 tags:
   - tag: Paraná
   - tag: Terra-Livre
-title: Produção de assentados no Paraná atenderá 5 mil pessoas no ano
-support_line: Serão entregues pelos agricultores 863.861 Kg de alimentos em 2015.
+title: Produção de assentados no Paraná atenderá a 5 mil pessoas em 2015
+support_line: Serão entregues pelos agricultores mais de 850 mil Kg de alimentos só neste ano.
 menu: agricultura camponesa
 section: cover
 layout: post
