@@ -5,7 +5,7 @@ tags:
   - tag: bancada-ruralista
   - tag: questão-indígena
 hat: Questão Indígena
-title: " Câmara dos Deputados deve desarquivar PEC 215 "
+title: "Câmara dos Deputados deve desarquivar PEC 215 "
 support_line: Os ruralistas querem aprovar projetos que suspendam e restrinjam vários direitos indígenas.
 menu: agronegócio
 layout: post
