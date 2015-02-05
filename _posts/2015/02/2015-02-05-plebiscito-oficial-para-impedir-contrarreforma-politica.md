@@ -4,7 +4,7 @@ tags:
   - tag: plebiscito-constituinte
   - tag: Ato
   - tag: Brasília
-title: Plebiscito oficial para impedir contrarreforma política
+title: Movimentos se mobilizam para impedir contrarreforma política
 support_line: "Em ato na Câmara, movimentos sociais cobram retomada de projeto para convocar uma Assembleia Constituinte sobre o sistema político. "
 menu: lutas e mobilizações
 layout: post
