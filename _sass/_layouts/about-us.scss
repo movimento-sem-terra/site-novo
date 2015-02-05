@@ -12,7 +12,6 @@ $desktop: new-breakpoint(min-width 768px);
   padding-top: 0;
   max-height: 0;
   @include transition(max-height .8s ease-out);
-
   p{
     padding: 0;
   }
@@ -52,11 +51,7 @@ $desktop: new-breakpoint(min-width 768px);
 
 }
 
-
-
-
 .inner-content-opened{
-  // padding: 28px;
   padding-top: 0px;
   max-height: 600px; //HACK to animate height
   overflow: hidden;
@@ -157,7 +152,7 @@ main.about-us {
         }
 
         p{
-           margin-left: 43px;
+          margin-left: 43px;
            margin-top: 12px;
            padding-right: 20px;
         }
@@ -245,10 +240,8 @@ main.about-us {
           border-bottom: solid 1px #e3e2e2;
           font-size: 16px;
           width: 100%;
-          // transition: border .4s ease-in-out;
           position: relative;
           z-index: 500;
-
           .down-icon{
             float: left;
             @include transition(transform .8s ease-out);
@@ -297,7 +290,6 @@ main.about-us {
             padding: 21px;
             display: block;
             text-decoration: none;
-            // transition: all .4s ease-in-out;
           }
         }
       }
@@ -345,29 +337,33 @@ main.about-us {
         margin-bottom: 0;
         ul.popover{
           li.goal{
-            @include span-columns(4);
-            position: relative;
-            text-align: center;
+            margin-bottom: 50px;
+            @include media($desktop){
+               @include span-columns(4);
+               margin-bottom: 0px;
+            }
 
+          position: relative;
+          text-align: center;
+
+          .inner-content{
+            @extend .inner-content-default;
+            z-index: 999;
+            left: 76%;
+            top: 30px;
+          }
+
+          &.open{
             .inner-content{
-              @extend .inner-content-default;
-              z-index: 999;
-              left: 76%;
-              top: 30px;
-            }
+              @extend .inner-content-opened;
 
-            &.open{
-              .inner-content{
-                @extend .inner-content-opened;
-
-                &.right{
-                  @extend .inner-content-opened-right;
-                  left: -118%;
-                }
-
+              &.right{
+                @extend .inner-content-opened-right;
+                left: -118%;
               }
-            }
 
+            }
+          }
             a{
               font-size: 20px;
               font-weight: bold;
@@ -400,76 +396,108 @@ main.about-us {
           }
         }
 
-        img{
+          img{
+            display: block;
+            margin: 1px auto;
+            margin-bottom: 22px;
+          }
+        }
+
+  .besides{
+    @include span-columns(12);
+
+    h4{
+      text-align: center;
+      color: #036603;
+      font-size: 30px;
+      margin-bottom: 10px;
+    }
+
+    hr{
+      border: 0;
+      height: 2px;
+      width: 85%;
+      margin-bottom: 30px;
+      @include background-image(linear-gradient(left, rgba(0,0,0,0), rgba(150,15,19,0.75), rgba(0,0,0,0)));
+    }
+  }
+  }
+
+  &.flags{
+
+    background-color: #f8f8f9;
+
+    #tabs-container{
+      border: solid 2px #ebebeb;
+      background-color: #ffffff;
+      overflow: hidden;
+
+      .resp-tabs-container{
+        @include outer-container();
+        padding: 20px;
+
+        label{
+          font-weight: bold;
+          font-size: 20px;
+          margin-bottom: 10px;
           display: block;
-          margin: 1px auto;
-          margin-bottom: 22px;
+          margin-left: 2px;
+        }
+        select {
+          width: 100%;
+          margin-bottom: 25px;
+          padding: 20px;
+          border: solid 1px #ebebeb;
+          padding: 100px;
+          height: 49px;
+          font-size: 16px;
+          @include media($desktop){
+            display: none;
+          }
         }
       }
+      .tab{
+        @include fill-parent();
+        display: none;
+        min-height: 400px;
 
-      .besides{
-        @include span-columns(12);
-
-        h4{
-          text-align: center;
-          color: #036603;
-          font-size: 30px;
-          margin-bottom: 10px;
+        &.show{
+          display: block;
         }
 
-        hr{
-          border: 0;
-          height: 2px;
-          width: 85%;
-          margin-bottom: 30px;
-          @include background-image(linear-gradient(left, rgba(0,0,0,0), rgba(150,15,19,0.75), rgba(0,0,0,0)));
+        .text-content{
+          @include span-columns(12);
+          @include media($desktop){
+            @include span-columns(6);
+          }
         }
+
+        figure{
+          @include media($desktop){
+            @include span-columns(6);
+          }
+          margin:0;
+          img{
+            width: 100%;
+            margin-bottom: 20px;
+          }
+        }
+
       }
     }
 
-    &.flags{
-      background-color: #f8f8f9;
+    ul.resp-tabs-list{
+      display: none;
 
-      #tabs-container{
-        border: solid 2px #ebebeb;
-        background-color: #ffffff;
-        overflow: hidden;
-
-        .tab{
-          display: none;
-          padding: 47px 20px 20px 20px;
-          min-height: 400px;
-
-          &.show{
-            display: block;
-          }
-
-          p{
-            width: 53%;
-            float: left;
-            margin-right: 20px;
-          }
-
-          figure{
-            float: right;
-            margin: 0;
-            text-align: center;
-
-          }
-        }
-      }
-
-      ul{
+      @include media($desktop){
         display: block;
-        height: 95px;
-        width: 1180px;
-
       }
-      ul li{
+      height: 95px;
+      width: 1180px;
+      li{
+        @include transition(all, .4s, ease-out);
+
         background-color: #f8f8f9;
-        width: 121px;
-        height: 93px;
-        float: left;
         text-align: center;
         border-right: solid 2px #ebebeb;
         border-bottom: solid 2px #ebebeb;
@@ -477,7 +505,9 @@ main.about-us {
         font-weight: bold;
         padding: 3px;
         display: table;
-        @include transition(all, .4s, ease-out);
+        float: left;
+        width: 121px;
+        height: 93px;
 
         &.selected{
           background-color: #ffffff;
@@ -497,15 +527,12 @@ main.about-us {
             margin: 14px auto 8px auto;
             display: block;
           }
-
-          img{
-            margin-bottom: 0;
-          }
         }
       }
     }
-    &.ask-us{
-      @extend .ask-us-default;
-    }
+  }
+  &.ask-us{
+    @extend .ask-us-default;
+  }
   }
 }
