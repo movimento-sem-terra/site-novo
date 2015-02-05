@@ -10,12 +10,6 @@ support_line: Em menos de um minuto é possível assinar o projeto e compartilha
 menu: "educação, cultura e comunicação"
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8624/16447352381_feed631e8d_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8624/16447352381_feed631e8d_t.jpg"
-    medium: "http://farm9.staticflickr.com/8624/16447352381_feed631e8d_z.jpg"
-    small: "http://farm9.staticflickr.com/8624/16447352381_feed631e8d_n.jpg"
-    title: PLIP.jpg
-    $$hashKey: 02K
   - link: "http://farm8.staticflickr.com/7345/16261699030_0ea97b4f87_b.jpg"
     thumbnail: "http://farm8.staticflickr.com/7345/16261699030_0ea97b4f87_t.jpg"
     medium: "http://farm8.staticflickr.com/7345/16261699030_0ea97b4f87_z.jpg"
@@ -28,9 +22,15 @@ files:
     small: "http://farm9.staticflickr.com/8564/16261440848_b203a95b6a_n.jpg"
     title: plip 2.jpg
     $$hashKey: 02Q
+  - link: "http://farm9.staticflickr.com/8590/16262950859_ed41a00d03_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8590/16262950859_ed41a00d03_t.jpg"
+    medium: "http://farm9.staticflickr.com/8590/16262950859_ed41a00d03_z.jpg"
+    small: "http://farm9.staticflickr.com/8590/16262950859_ed41a00d03_n.jpg"
+    title: assina.png
+    $$hashKey: 02M
 created_date: "2015-02-05T09:32:27-02:00"
 published: true
-images_hd: "http://farm9.staticflickr.com/8624/16447352381_feed631e8d_n.jpg"
+images_hd: "http://farm9.staticflickr.com/8590/16262950859_ed41a00d03_n.jpg"
 releated_posts: []
 
 ---
@@ -39,7 +39,7 @@ releated_posts: []
 A partir desta quinta (5/2), a Campanha Para Expressar a Liberdade oferece um formul&aacute;rio online de apoio ao Projeto de Lei de Iniciativa Popular da Comunica&ccedil;&atilde;o Social Eletr&ocirc;nica, conhecido como Lei da M&iacute;dia Democr&aacute;tica. A ferramenta, dispon&iacute;vel no site www.paraexpressaraliberdade.org.br, faz parte do conjunto de estrat&eacute;gias para ampliar a visibilidade da proposta e promover a discuss&atilde;o sobre a necessidade de democratizar a comunica&ccedil;&atilde;o social no Brasil.<br />
 &nbsp;</p>
 
-<figure class="image" style="float:left"><img alt="plip 2.jpg" height="192" src="http://farm9.staticflickr.com/8564/16261440848_b203a95b6a_b.jpg" width="314" />
+<figure class="image" style="float:left"><img alt="plip 2.jpg" height="140" src="http://farm9.staticflickr.com/8564/16261440848_b203a95b6a_b.jpg" width="229" />
 <figcaption></figcaption>
 </figure>
 
@@ -58,7 +58,7 @@ A partir desta quinta (5/2), a Campanha Para Expressar a Liberdade oferece um fo
 <p>Ao contr&aacute;rio de pa&iacute;ses democr&aacute;ticos como Estados Unidos, Fran&ccedil;a, Reino Unido, Alemanha, Canad&aacute;, Espanha e Argentina, que promovem regula&ccedil;&atilde;o do sistema de m&iacute;dia, o Brasil ainda hoje &eacute; caracterizado por uma brutal concentra&ccedil;&atilde;o dos meios de comunica&ccedil;&atilde;o, tanto na radiodifus&atilde;o quanto nos ve&iacute;culos impressos. A internet tem cumprido importante papel no sentido de multiplicar as vozes em circula&ccedil;&atilde;o na esfera midi&aacute;tica, mas neste espa&ccedil;o tamb&eacute;m atuam os grandes conglomerados de m&iacute;dia, refor&ccedil;ando a concentra&ccedil;&atilde;o econ&ocirc;mica do setor.<br />
 &nbsp;</p>
 
-<figure class="image" style="float:right"><img alt="democom.jpg" height="165" src="http://farm8.staticflickr.com/7345/16261699030_0ea97b4f87_b.jpg" width="320" />
+<figure class="image" style="float:right"><img alt="democom.jpg" height="125" src="http://farm8.staticflickr.com/7345/16261699030_0ea97b4f87_b.jpg" width="243" />
 <figcaption></figcaption>
 </figure>
 
