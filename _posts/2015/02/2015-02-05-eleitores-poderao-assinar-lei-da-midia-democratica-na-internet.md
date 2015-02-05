@@ -10,24 +10,23 @@ support_line: Em menos de um minuto é possível assinar o projeto e compartilha
 menu: "educação, cultura e comunicação"
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7345/16261699030_0ea97b4f87_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7345/16261699030_0ea97b4f87_t.jpg"
-    medium: "http://farm8.staticflickr.com/7345/16261699030_0ea97b4f87_z.jpg"
-    small: "http://farm8.staticflickr.com/7345/16261699030_0ea97b4f87_n.jpg"
-    title: democom.jpg
-    $$hashKey: 02N
-  - link: "http://farm9.staticflickr.com/8564/16261440848_b203a95b6a_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8564/16261440848_b203a95b6a_t.jpg"
-    medium: "http://farm9.staticflickr.com/8564/16261440848_b203a95b6a_z.jpg"
-    small: "http://farm9.staticflickr.com/8564/16261440848_b203a95b6a_n.jpg"
-    title: plip 2.jpg
-    $$hashKey: 02Q
   - link: "http://farm9.staticflickr.com/8590/16262950859_ed41a00d03_b.jpg"
     thumbnail: "http://farm9.staticflickr.com/8590/16262950859_ed41a00d03_t.jpg"
     medium: "http://farm9.staticflickr.com/8590/16262950859_ed41a00d03_z.jpg"
     small: "http://farm9.staticflickr.com/8590/16262950859_ed41a00d03_n.jpg"
     title: assina.png
     $$hashKey: 02M
+  - link: "http://farm8.staticflickr.com/7447/15826784884_f2b9991144_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7447/15826784884_f2b9991144_t.jpg"
+    medium: "http://farm8.staticflickr.com/7447/15826784884_f2b9991144_z.jpg"
+    small: "http://farm8.staticflickr.com/7447/15826784884_f2b9991144_n.jpg"
+    title: democom.jpg
+    $$hashKey: 02M
+  - link: "http://farm8.staticflickr.com/7329/16448364522_6d14ae340e_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7329/16448364522_6d14ae340e_t.jpg"
+    medium: "http://farm8.staticflickr.com/7329/16448364522_6d14ae340e_z.jpg"
+    small: "http://farm8.staticflickr.com/7329/16448364522_6d14ae340e_n.jpg"
+    title: democom.jpg
 created_date: "2015-02-05T09:32:27-02:00"
 published: true
 images_hd: "http://farm9.staticflickr.com/8590/16262950859_ed41a00d03_n.jpg"
@@ -53,10 +52,6 @@ A partir desta quinta (5/2), a Campanha Para Expressar a Liberdade oferece um fo
 
 <p>Ao contr&aacute;rio de pa&iacute;ses democr&aacute;ticos como Estados Unidos, Fran&ccedil;a, Reino Unido, Alemanha, Canad&aacute;, Espanha e Argentina, que promovem regula&ccedil;&atilde;o do sistema de m&iacute;dia, o Brasil ainda hoje &eacute; caracterizado por uma brutal concentra&ccedil;&atilde;o dos meios de comunica&ccedil;&atilde;o, tanto na radiodifus&atilde;o quanto nos ve&iacute;culos impressos. A internet tem cumprido importante papel no sentido de multiplicar as vozes em circula&ccedil;&atilde;o na esfera midi&aacute;tica, mas neste espa&ccedil;o tamb&eacute;m atuam os grandes conglomerados de m&iacute;dia, refor&ccedil;ando a concentra&ccedil;&atilde;o econ&ocirc;mica do setor.<br />
 &nbsp;</p>
-
-<figure class="image" style="float:right"><img alt="democom.jpg" height="165" src="http://farm8.staticflickr.com/7345/16261699030_0ea97b4f87_b.jpg" width="320" />
-<figcaption></figcaption>
-</figure>
 
 <p>Ao mesmo tempo, carecemos de mecanismos transparentes e democr&aacute;ticos para a concess&atilde;o de outorgas de radiodifus&atilde;o e n&atilde;o h&aacute; no pa&iacute;s uma pol&iacute;tica que garanta a complementaridade entre os sistemas p&uacute;blico, privado e estatal de comunica&ccedil;&atilde;o, como previsto na Constitui&ccedil;&atilde;o Federal. A aus&ecirc;ncia de um campo p&uacute;blico de comunica&ccedil;&atilde;o robusto aumenta o poder de mercado do setor privado/comercial, enquanto canais comunit&aacute;rios seguem &agrave; margem do sistema midi&aacute;tico.</p>
 
