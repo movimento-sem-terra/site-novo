@@ -16,6 +16,18 @@ files:
     small: "http://farm8.staticflickr.com/7342/16261992180_5042b86921_n.jpg"
     title: DSCN2171.jpg
     $$hashKey: 07P
+  - link: "http://farm8.staticflickr.com/7371/16262089510_55a30e511f_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7371/16262089510_55a30e511f_t.jpg"
+    medium: "http://farm8.staticflickr.com/7371/16262089510_55a30e511f_z.jpg"
+    small: "http://farm8.staticflickr.com/7371/16262089510_55a30e511f_n.jpg"
+    title: exterminio.JPG
+    $$hashKey: 02I
+  - link: "http://farm9.staticflickr.com/8630/16423500816_4ef9ded997_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8630/16423500816_4ef9ded997_t.jpg"
+    medium: "http://farm9.staticflickr.com/8630/16423500816_4ef9ded997_z.jpg"
+    small: "http://farm9.staticflickr.com/8630/16423500816_4ef9ded997_n.jpg"
+    title: encontro.jpg
+    $$hashKey: 02L
 created_date: "2015-02-05T10:38:43-02:00"
 published: true
 images_hd: "http://farm8.staticflickr.com/7342/16261992180_5042b86921_n.jpg"
@@ -33,8 +45,13 @@ O Encontro Popular da Juventude do Campo e Cidade encerrou no &uacute;ltimo dia 
 <br />
 Durante os dias de encontro, os jovens realizaram plen&aacute;rias de forma&ccedil;&atilde;o e discutiram sobre a conjuntura pol&iacute;tica, cultura, revolu&ccedil;&atilde;o e movimentos sociais. A atividade tamb&eacute;m homenageou os 180 anos da Cabanagem, &uacute;nico movimento que tomou o poder em nosso pa&iacute;s.<br />
 <br />
-<br />
-Os participantes ainda ocuparam a Assembleia Legislativa do Estado do Par&aacute; durante a entrega do relat&oacute;rio da CPI das mil&iacute;cias, que apura a participa&ccedil;&atilde;o de policiais militares em chacinas na capital.&nbsp;<br />
+&nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="exterminio.JPG" height="213" src="http://farm8.staticflickr.com/7371/16262089510_55a30e511f_b.jpg" width="320" />
+<figcaption></figcaption>
+</figure>
+
+<p>Os participantes ainda ocuparam a Assembleia Legislativa do Estado do Par&aacute; durante a entrega do relat&oacute;rio da CPI das mil&iacute;cias, que apura a participa&ccedil;&atilde;o de policiais militares em chacinas na capital.&nbsp;<br />
 <br />
 <br />
 &ldquo;Nosso Encontro selou um compromisso entre movimentos, organiza&ccedil;&otilde;es, mulheres e homens jovens que decidiram unir for&ccedil;as em torno de lutas que ampliem nossos direitos sociais, pol&iacute;ticos e econ&ocirc;micos e contra o modelo de desenvolvimento do capital e os governos que s&atilde;o suas for&ccedil;as auxiliares&rdquo;, anunciou a carta final.&nbsp;<br />
@@ -60,8 +77,15 @@ No campo, vivemos em assentamentos sem a infraestrutura necess&aacute;ria para s
 <br />
 Este modelo implantado desde 1500 no Brasil tem provocado uma degenera&ccedil;&atilde;o nas rela&ccedil;&otilde;es socioculturais onde mulheres ainda s&atilde;o consideradas cidad&atilde;s de segunda categoria com a explora&ccedil;&atilde;o f&iacute;sica expressa na dupla jornada de trabalho com remunera&ccedil;&atilde;o inferior aos homens. A viol&ecirc;ncia sexual, f&iacute;sica e moral atingem n&uacute;meros alarmantes, mesmo ap&oacute;s a aprova&ccedil;&atilde;o da Lei Maria da Penha confirmando que a opress&atilde;o pela qual vivem as mulheres tem ra&iacute;zes profundas em nossa cultura capitalista e patriarcal.<br />
 <br />
-<br />
-A homofobia, o machismo, o racismo, sexismo e outras formas de discrimina&ccedil;&atilde;o e viol&ecirc;ncia t&ecirc;m oprimido nossa juventude que &eacute; impedida de viver e amar plenamente.<br />
+&nbsp;</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="encontro.jpg" height="454" src="http://farm9.staticflickr.com/8630/16423500816_4ef9ded997_b.jpg" width="420" />
+<figcaption>Constru&ccedil;&atilde;o da unidade marca encontro de jovens em Bel&eacute;m</figcaption>
+</figure>
+</div>
+
+<p>A homofobia, o machismo, o racismo, sexismo e outras formas de discrimina&ccedil;&atilde;o e viol&ecirc;ncia t&ecirc;m oprimido nossa juventude que &eacute; impedida de viver e amar plenamente.<br />
 <br />
 <br />
 Somos solid&aacute;rios com os que vivem nas periferias como v&iacute;timas do poder paralelo das mil&iacute;cias, bra&ccedil;o armado do Estado e do tr&aacute;fico de drogas que tem recrutado e assassinado em massa nossos jovens como na chacina do dia 04 de novembro de 2014 em Bel&eacute;m. O alcoolismo e as drogas &eacute; o que restou para nossa classe dentro do modelo do capital como parte vis&iacute;vel da degrada&ccedil;&atilde;o sociocultural que tem ra&iacute;zes hist&oacute;ricas incontrol&aacute;veis no cen&aacute;rio atual. &nbsp;<br />
