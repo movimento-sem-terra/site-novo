@@ -5,7 +5,7 @@ tags:
   - tag: bancada-ruralista
   - tag: questão-indígena
 hat: Questão Indígena
-title: "Câmara dos Deputados deve desarquivar PEC 215 "
+title: "Segundo Eduardo Cunha, Câmara dos Deputados vai desarquivar PEC 215 "
 support_line: Os ruralistas querem aprovar projetos que suspendam e restrinjam vários direitos indígenas.
 menu: agronegócio
 layout: post
@@ -28,7 +28,7 @@ section: null
 ---
 <p>Do Instituto Socioambiental<br />
 <br />
-A bancada ruralista apresentou um requerimento para o desarquivamento da PEC no &uacute;ltimo dia 04 de fevereiro&nbsp;e, segundo Eduardo Cunha, presidente da C&acirc;mara dos Deputados, o Regimento da C&acirc;mara obriga-o a acat&aacute;-lo automaticamente. &ldquo;N&atilde;o tenho poder ou compet&ecirc;ncia legal para acabar com a PEC 215 ou nenhuma outra PEC. Tenho de cumprir o Regimento&rdquo;, afirmou o peemedebista.</p>
+A bancada ruralista apresentou um requerimento para o desarquivamento da PEC 215 no &uacute;ltimo dia 04 de fevereiro&nbsp;e, segundo Eduardo Cunha, presidente da C&acirc;mara dos Deputados, o Regimento da C&acirc;mara obriga-o a acat&aacute;-lo automaticamente. &ldquo;N&atilde;o tenho poder ou compet&ecirc;ncia legal para acabar com a PEC 215 ou nenhuma outra PEC. Tenho de cumprir o Regimento&rdquo;, afirmou o peemedebista. A proposta transfere para o Poder Legislativo o poder de demarcar as terras ind&iacute;genas e quilombolas.&nbsp;</p>
 
 <p><br />
 De acordo com o presidente da C&acirc;mara, ap&oacute;s o projeto ser desarquivado, ser&aacute; necess&aacute;rio recriar a Comiss&atilde;o Especial que vai analis&aacute;-lo. Cunha mencionou d&uacute;vidas sobre os prazos necess&aacute;rios para o in&iacute;cio das atividades do colegiado e o novo tr&acirc;mite. O deputado informou que ser&aacute; preciso discutir qual interpreta&ccedil;&atilde;o do Regimento deve prevalecer sobre essa quest&atilde;o espec&iacute;fica.</p>
