@@ -39,10 +39,6 @@ releated_posts: []
 A partir desta quinta (5/2), a Campanha Para Expressar a Liberdade oferece um formul&aacute;rio online de apoio ao Projeto de Lei de Iniciativa Popular da Comunica&ccedil;&atilde;o Social Eletr&ocirc;nica, conhecido como Lei da M&iacute;dia Democr&aacute;tica. A ferramenta, dispon&iacute;vel no site www.paraexpressaraliberdade.org.br, faz parte do conjunto de estrat&eacute;gias para ampliar a visibilidade da proposta e promover a discuss&atilde;o sobre a necessidade de democratizar a comunica&ccedil;&atilde;o social no Brasil.<br />
 &nbsp;</p>
 
-<figure class="image" style="float:left"><img alt="plip 2.jpg" height="140" src="http://farm9.staticflickr.com/8564/16261440848_b203a95b6a_b.jpg" width="229" />
-<figcaption></figcaption>
-</figure>
-
 <p>Lan&ccedil;ado no primeiro semestre de 2013, por dezenas de entidades da sociedade civil e do movimento social, a proposta precisa da ades&atilde;o de 1% do eleitorado nacional para ser protocolizado na C&acirc;mara dos Deputados e poder seguir o tr&acirc;mite normal at&eacute; virar lei.&nbsp;</p>
 
 <p>O projeto regulamenta os Arts. 5, 21, 220, 221, 222 e 223 da Constitui&ccedil;&atilde;o Federal. Entre os principais dispositivos est&atilde;o a cria&ccedil;&atilde;o do Conselho Nacional de Comunica&ccedil;&atilde;o e do Fundo Nacional de Comunica&ccedil;&atilde;o P&uacute;blica, veto &agrave; propriedade de emissoras de r&aacute;dio e TV por pol&iacute;ticos, proibi&ccedil;&atilde;o do aluguel de espa&ccedil;os da grade de programa&ccedil;&atilde;o e a defini&ccedil;&atilde;o de regras para impedir a forma&ccedil;&atilde;o de monop&oacute;lio e a propriedade cruzada dos meios de comunica&ccedil;&atilde;o, entre outros pontos.<br />
@@ -58,7 +54,7 @@ A partir desta quinta (5/2), a Campanha Para Expressar a Liberdade oferece um fo
 <p>Ao contr&aacute;rio de pa&iacute;ses democr&aacute;ticos como Estados Unidos, Fran&ccedil;a, Reino Unido, Alemanha, Canad&aacute;, Espanha e Argentina, que promovem regula&ccedil;&atilde;o do sistema de m&iacute;dia, o Brasil ainda hoje &eacute; caracterizado por uma brutal concentra&ccedil;&atilde;o dos meios de comunica&ccedil;&atilde;o, tanto na radiodifus&atilde;o quanto nos ve&iacute;culos impressos. A internet tem cumprido importante papel no sentido de multiplicar as vozes em circula&ccedil;&atilde;o na esfera midi&aacute;tica, mas neste espa&ccedil;o tamb&eacute;m atuam os grandes conglomerados de m&iacute;dia, refor&ccedil;ando a concentra&ccedil;&atilde;o econ&ocirc;mica do setor.<br />
 &nbsp;</p>
 
-<figure class="image" style="float:right"><img alt="democom.jpg" height="125" src="http://farm8.staticflickr.com/7345/16261699030_0ea97b4f87_b.jpg" width="243" />
+<figure class="image" style="float:right"><img alt="democom.jpg" height="165" src="http://farm8.staticflickr.com/7345/16261699030_0ea97b4f87_b.jpg" width="320" />
 <figcaption></figcaption>
 </figure>
 
