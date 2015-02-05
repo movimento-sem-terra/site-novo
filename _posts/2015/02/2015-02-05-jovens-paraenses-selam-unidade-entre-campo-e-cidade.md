@@ -36,6 +36,7 @@ releated_posts:
   - 2014/08/2014-08-11-juventude-do-campo-e-cidade-discutem-sua-participacao-nas-lutas-populares.md
   - 2014/08/2014-08-08-mst-realiza-13º-encontro-da-juventude-camponesa-do-ceara.md
   - 2014/08/2014-08-11-encontro-da-juventeude-em-sc-debate-realidade-e-luta-do-campo.md
+section: cover
 
 ---
 <p><em>Da P&aacute;gina do MST</em><br />
