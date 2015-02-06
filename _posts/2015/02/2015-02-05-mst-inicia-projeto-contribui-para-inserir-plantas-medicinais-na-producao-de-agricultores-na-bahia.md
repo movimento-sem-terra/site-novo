@@ -5,10 +5,10 @@ tags:
   - tag: plantas-medicinais
   - tag: Fiocruz
   - tag: agricultura-camponesa
-title: MST insere plantas medicinais na produção de agricultores na Bahia
+title: "Na Bahia, agricultores Sem Terra iniciam produção de plantas medicinais"
 hat: Saúde
 support_line: O objetivo é contribuir para o desenvolvimento socioambiental e sanitário em sete pré-assentamentos e comunidades rurais.
-section: null
+section: cover
 menu: agricultura camponesa
 layout: post
 files:
@@ -25,11 +25,11 @@ releated_posts:
   - 2014/08/2014-08-08-mp-pede-que-embrapa-priorize-agricultura-que-nao-use-agrotoxicos.md
 
 ---
-<p><em>Da P&aacute;gina do MST</em></p>
+<p><br />
+<em>Da P&aacute;gina do MST</em></p>
 
-<p>&nbsp;</p>
-
-<p>As fam&iacute;lias Sem Terra do extremo sul baiano iniciaram nesta semana o projeto &ldquo;Sa&uacute;de e Plantas Medicinais em Sistemas Produtivos Agroecol&oacute;gicos&rdquo;.</p>
+<p><br />
+As fam&iacute;lias Sem Terra do extremo sul baiano iniciaram nesta semana o projeto &ldquo;Sa&uacute;de e Plantas Medicinais em Sistemas Produtivos Agroecol&oacute;gicos&rdquo;.</p>
 
 <p><br />
 O projeto &eacute; uma iniciativa do MST em parceria com a Fiocruz e a ESALQ/USP. No recorrer das etapas, se relacionar&aacute; com outras esferas do Sistema &Uacute;nico de Sa&uacute;de (SUS).&nbsp;</p>
