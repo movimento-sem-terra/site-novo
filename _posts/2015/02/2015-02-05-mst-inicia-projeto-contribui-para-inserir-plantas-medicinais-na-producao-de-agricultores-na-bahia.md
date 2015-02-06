@@ -8,7 +8,7 @@ tags:
 title: "Na Bahia, agricultores Sem Terra iniciam produção de plantas medicinais"
 hat: Saúde
 support_line: O objetivo é contribuir para o desenvolvimento socioambiental e sanitário em sete pré-assentamentos e comunidades rurais.
-section: null
+section: cover
 menu: agricultura camponesa
 layout: post
 files:
