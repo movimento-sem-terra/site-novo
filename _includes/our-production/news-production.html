@@ -1,11 +1,11 @@
 {% assign keep = include.posts | where : 'section', 'cover' %}
-{% assign latest_posts = include.posts | where_not: 'section', 'cover'  %}
+{% assign latest_posts = include.posts | where_not: 'section', 'cover' | where_not: 'section', 'tv' | where_not: "label", "special-stories"  %}
 {% assign videos = include.posts | where: 'section', 'tv'  %}
 {% assign our_historic = include.posts %}
 <div class="content">
   <section id="latest-news">
     <h4>Últimas notícias</h4>
-    {% for post in latest_posts | limit: 7 %}
+    {% for post in latest_posts | limit: 5 %}
       {% assign thumbnail = post | find_image: 'tiny' %}
       <div class="news">
         <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">
@@ -21,7 +21,7 @@
       </div>
     {% endfor %}
 
-    <a id="more-news" href="#">Mais notícias</a>
+    <a id="more-news" href="{{ site.baseurl }}/nossa-producao/noticias/">Mais notícias</a>
   </section>
   <!--  -->
   <div id="others-container">

@@ -64,6 +64,10 @@ paginate_by:
         permalink: "entrevistas/"
         only:
           - label: "interviews"
+    - sector:
+        permalink: "nossa-producao/noticias"
+        only:
+          - sector: "production"
     - all:
         permalink: "noticias/"
         exclude:
