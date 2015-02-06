@@ -1,11 +1,11 @@
 {% assign keep = include.posts | where : 'section', 'cover' %}
-{% assign latest_posts = include.posts | where_not: 'section', 'cover' | where_not: 'section', 'tv' | where_not: "label", "special-stories"  %}
+{% assign know_more = include.posts | where_not: 'section', 'cover' | where_not: 'section', 'tv' | where_not: "label", "special-stories"  %}
 {% assign videos = include.posts | where: 'section', 'tv'  %}
 {% assign our_historic = include.posts %}
 <div class="content">
-  <section id="latest-news">
-    <h4>Últimas notícias</h4>
-    {% for post in latest_posts | limit: 5 %}
+  <section id="know-more">
+    <h4>Saiba mais</h4>
+    {% for post in know_more | limit: 5 %}
       {% assign thumbnail = post | find_image: 'tiny' %}
       <div class="news">
         <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">
