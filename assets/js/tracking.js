@@ -36,6 +36,7 @@ $("main section").each(function(index, element){
   $(element).find("a[href!='#']").each(function(index,e){
     section = $(element).attr('class');
     news = $(e).attr('href');
+    section = section || $(e).attr('class');
 
     $(e).on('click', function(){
       ga('send', {
