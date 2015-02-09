@@ -129,7 +129,8 @@
     "view": "select",
     "options": [
     {"name": "Produção", "id": "production"},
-    {"name": "Educação", "id": "education"}
+    {"name": "Educação", "id": "education"},
+    {"name": "Cultura", "id": "culture"}
     ]
   }
 },
