@@ -4,7 +4,7 @@ tags:
   - tag: Alagoas
   - tag: SUS
   - tag: Saúde
-title: Estudantes de saúde realizam vivência em área do MST em Alagoas
+title: Estudantes realizam vivência em área do MST em Alagoas
 support_line: "Com os acampados, os estudantes construíram uma farmácia viva coletiva em pré-assentamento. "
 menu: reforma agrária
 layout: post

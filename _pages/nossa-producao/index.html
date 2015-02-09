@@ -4,8 +4,7 @@ title: Nossa Produção
 styles: "our-production.css"
 scripts: ["velocity.min.js", "about-us/ask-form.js", "our-production/gallery.js"]
 ---
-<!-- TODO: Filtrar posts (where: 'sector', 'production') -->
-{% assign news = site.posts %}
+{% assign news = site.posts | where: 'sector', 'production' %}
 <main id="our-production">
   <div id="container">
     <section id="about">

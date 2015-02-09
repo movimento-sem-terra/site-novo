@@ -4,7 +4,7 @@ tags:
   - tag: educação
   - tag: fechamento-de-escolas
   - tag: pedagogia-do-campo
-title: "MST ocupa a Secretaria de Educação no Espírito Santo "
+title: "MST ocupa a Secretaria de Educação no estado do Espírito Santo "
 support_line: "Dentre as conquistas, está a ampliação e reforma das escolas do campo no estado. "
 menu: "educação, cultura e comunicação"
 layout: post
