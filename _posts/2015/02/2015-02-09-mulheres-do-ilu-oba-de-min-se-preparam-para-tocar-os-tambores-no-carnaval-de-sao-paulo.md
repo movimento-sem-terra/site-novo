@@ -9,7 +9,7 @@ support_line: Bloco espera mais de 20 mil pessoas para o desfile deste ano. Escr
 menu: "educação, cultura e comunicação"
 section: cover
 sector: culture
-title: Ilú Obá de Min se prepara para fazer um carnaval popular em São Paulo
+title: Ilú Obá de Min se prepara para fazer carnaval popular em São Paulo
 layout: post
 files:
   - link: "http://farm9.staticflickr.com/8593/15862788364_f137c199ef_b.jpg"
