@@ -448,11 +448,11 @@ main.about-us {
         select {
           width: 100%;
           margin-bottom: 25px;
-          padding: 20px;
+          padding: 50px;
           border: solid 1px #ebebeb;
-          padding: 100px;
           height: 49px;
           font-size: 16px;
+          border-radius: 5px;
           @include media($desktop){
             display: none;
           }
