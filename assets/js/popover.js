@@ -30,9 +30,8 @@ function popover() {
             // For IE
             e.cancelBubble = true
           }
+          e.preventDefault();
         });
-        //
-
       }
     );
 
