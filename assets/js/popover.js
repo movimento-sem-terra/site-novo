@@ -24,16 +24,15 @@ function popover() {
             li.find('.inner-content').css({display: 'block' } );
           }
 
-          e.preventDefault();
-          if (event.stopPropagation) {
-            event.stopPropagation()
+
+          if (e.stopPropagation) {
+            e.stopPropagation()
           } else {
             // For IE
-            event.cancelBubble = true
+            e.cancelBubble = true
           }
+          e.preventDefault();
         });
-        //
-
       }
     );
 
