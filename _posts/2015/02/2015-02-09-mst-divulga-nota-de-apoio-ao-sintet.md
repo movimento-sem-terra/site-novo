@@ -11,15 +11,15 @@ menu: lutas e mobilizações
 support_line: "Escolas públicas do Tocantis passam por um momento de ingerência política, com intervenção dos políticos locais da região"
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8651/16298050637_34ee9c60ee_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8651/16298050637_34ee9c60ee_t.jpg"
-    medium: "http://farm9.staticflickr.com/8651/16298050637_34ee9c60ee_z.jpg"
-    small: "http://farm9.staticflickr.com/8651/16298050637_34ee9c60ee_n.jpg"
-    title: debateemaulaaberta.jpg
-    $$hashKey: 0DC
+  - link: "http://farm9.staticflickr.com/8569/15861443984_343c8e6a9d_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8569/15861443984_343c8e6a9d_t.jpg"
+    medium: "http://farm9.staticflickr.com/8569/15861443984_343c8e6a9d_z.jpg"
+    small: "http://farm9.staticflickr.com/8569/15861443984_343c8e6a9d_n.jpg"
+    title: DSCN6516_175405.400x378.jpg
+    $$hashKey: 0FX
 created_date: "2015-02-09T14:54:07-02:00"
 published: true
-images_hd: "http://farm9.staticflickr.com/8651/16298050637_34ee9c60ee_n.jpg"
+images_hd: "http://farm9.staticflickr.com/8569/15861443984_343c8e6a9d_n.jpg"
 releated_posts: []
 
 ---
