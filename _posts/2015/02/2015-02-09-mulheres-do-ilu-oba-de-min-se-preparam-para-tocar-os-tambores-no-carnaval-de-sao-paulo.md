@@ -37,7 +37,7 @@ releated_posts:
 Da P&aacute;gina do MST</em><br />
 <br />
 <br />
-&ldquo;Eu vi mulheres no cativeiro Lavando as escadas do Bonfim Eu vi os tambores do rei Eu vi Il&uacute; Ob&aacute; De Min Essas mulheres do cativeiro Cansadas dos maus tratos do senhor Tiraram seus tambores da senzala Levaram para avenida E cantaram pra Xang&ocirc;&rdquo;.<br />
+&ldquo;Eu vi mulheres no cativeiro/Lavando as escadas do Bonfim/Eu vi os tambores do rei/Eu vi Il&uacute; Ob&aacute; De Min/Essas mulheres do cativeiro/Cansadas dos maus tratos do senhor/Tiraram seus tambores da senzala/Levaram para avenida/E cantaram pra Xang&ocirc;&rdquo;.<br />
 &nbsp;</p>
 
 <p>Organizadas em filas, 230 mulheres tocam baterias e cantam a plenos pulm&otilde;es no meio da rua. Homens e mulheres, alguns se equilibrando em pernas de pau, todos vestidos de forma a homenagear os orix&aacute;s, dan&ccedil;am freneticamente. Um c&iacute;rculo se abre para a apresenta&ccedil;&atilde;o de um homem que cospe fogo. Acompanhando toda a apresenta&ccedil;&atilde;o, est&atilde;o mais de 15 mil pessoas. &nbsp;<br />
