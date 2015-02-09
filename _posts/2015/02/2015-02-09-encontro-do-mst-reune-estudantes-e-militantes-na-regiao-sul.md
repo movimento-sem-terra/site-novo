@@ -1,5 +1,5 @@
 ---
-date: "2015-02-09T13:46:51-02:00"
+date: "2015-02-09T12:46:51-03:00"
 tags:
   - tag: juventude
   - tag: encontro
@@ -24,6 +24,8 @@ releated_posts:
   - 2014/08/2014-08-08-mst-realiza-13º-encontro-da-juventude-camponesa-do-ceara.md
   - 2014/08/2014-08-11-encontro-da-juventeude-em-sc-debate-realidade-e-luta-do-campo.md
   - 2015/02/2015-02-05-jovens-paraenses-selam-unidade-entre-campo-e-cidade.md
+section: cover
+sector: education
 
 ---
 <p>&nbsp;</p>
