@@ -1,4 +1,6 @@
-var Device = {
+(function() {
+  'use strict';
+  var Device = {
     Android: function() {
         return navigator.userAgent.match(/Android/i);
     },
@@ -17,46 +19,73 @@ var Device = {
     isMobile: function() {
         return (Device.Android() || Device.BlackBerry() || Device.iOS() || Device.Opera() || Device.Windows());
     }
-};
+  };
 
+  var Popover = {
+      container: null,
+      links: null,
+      init: function(selector){
+        this.container = $(selector);
+        this.links = this.container.find("li a");
+        this.setup();
+      },
 
-function popover() {
-  if ($('.popover').length > 0){
+      setup: function(){
+        var contents = this.container.find('.inner-content');
+        var links = this.container.find('li a');
+        this.setupContentsEvent(contents);
+        this.setupLinks(links);
+        this.setupBodyEvent();
 
-    $('.popover').find('.inner-content').prepend("<span class='arrow-pointer'>*</span>");
+      },
 
-    $('.popover li a').each(
-      function (index, el) {
-
-        var element = $(el);
-
-        element.on('click', function (e) {
-          if(!Device.isMobile()){
-            $('.popover li').removeClass('open');
-          }
-
+      setupLinks: function(links){\
+        $(links).on('click', function (e) {
+          Popover.clean();
           var li = $(this).parent();
           li.toggleClass('open');
-          if (event.stopPropagation) {
-            event.stopPropagation()
-          } else {
-            // For IE
-            event.cancelBubble = true
+          if(li.hasClass('open') ){
+            li.find('.inner-content').css({display: 'block' } );
           }
-
-          e.preventDefault();
+          Popover.cancelEvent(e);
         });
-        //
 
+      },
+      // Hide content on End animation
+      setupContentsEvent: function(contents){
+        var events =  ["transitionend", "webkitTransitionEnd",  "oTransitionEnd",  "otransitionend", "MSTransitionEnd"];
+        contents.on(events , function() {
+          if($(this).parent().hasClass('open') == false){
+            $(this).css({display: 'none'});
+          }
+        });
+      },
+
+      setupBodyEvent: function(){
+        if(!Device.isMobile()){
+          $('body').on('click',function(e){
+            $('.popover li').removeClass('open');
+          });
+        }
+      },
+
+      clean: function(){
+        if(!Device.isMobile()){
+          this.container.find("li.open").removeClass('open');
+        }
+      },
+
+      cancelEvent: function(event){
+        if (event.stopPropagation) {
+          event.stopPropagation();
+        } else {
+          // For IE
+          event.cancelBubble = true
+        }
+        event.preventDefault();
       }
-    );
+  };
 
-    if(!Device.isMobile()){
-      $('body').on('click',function(e){
-        $('.popover li').removeClass('open');
-      });
-    }
-  }
-}
+  $(function() { Popover.init(".popover") });
 
-$(popover);
+}());
