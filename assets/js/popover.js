@@ -16,7 +16,6 @@ function popover() {
 
         element.on('click', function (e) {
           $('.popover li').removeClass('open');
-
           var li = $(this).parent();
           li.toggleClass('open');
 
@@ -25,11 +24,11 @@ function popover() {
           }
 
           e.preventDefault();
-          if (event.stopPropagation) {
-            event.stopPropagation()
+          if (e.stopPropagation) {
+            e.stopPropagation()
           } else {
             // For IE
-            event.cancelBubble = true
+            e.cancelBubble = true
           }
         });
         //
