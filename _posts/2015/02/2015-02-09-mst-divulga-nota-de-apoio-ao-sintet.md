@@ -1,5 +1,5 @@
 ---
-date: "2015-02-09T13:35:17-03:00"
+date: "2015-02-09T14:35:17-02:00"
 tags:
   - tag: educação
   - tag: Sintet
@@ -8,7 +8,7 @@ tags:
   - tag: escolas-públicas
 title: MST divulga nota de apoio ao Sintet
 menu: lutas e mobilizações
-support_line: "Escolas públicas do Tocantis passam por um momento de ingerência política, com intervenção dos políticos locais da região"
+support_line: "Escolas públicas do Tocantis passam por um momento de ingerência política, com intervenção dos políticos locais da região."
 layout: post
 files:
   - link: "http://farm9.staticflickr.com/8569/15861443984_343c8e6a9d_b.jpg"
