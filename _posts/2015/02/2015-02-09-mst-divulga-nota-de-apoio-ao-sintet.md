@@ -1,5 +1,5 @@
 ---
-date: "2015-02-09T14:35:17-02:00"
+date: "2015-02-09T13:35:17-03:00"
 tags:
   - tag: educação
   - tag: Sintet
@@ -41,7 +41,7 @@ releated_posts: []
 
 <p>&nbsp;</p>
 
-<p>As escolas p&uacute;blicas do Tocantis vem sofrendo com sistem&aacute;ticas interven&ccedil;&otilde;es pol&iacute;ticas na escolha de seus diretores e coordenadores.</p>
+<p>As escolas p&uacute;blicas do Tocantins vem sofrendo com sistem&aacute;ticas interven&ccedil;&otilde;es pol&iacute;ticas na escolha de seus diretores e coordenadores.</p>
 
 <p>&nbsp;</p>
 
