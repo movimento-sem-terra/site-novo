@@ -26,6 +26,8 @@ releated_posts:
   - 2015/02/2015-02-05-jovens-paraenses-selam-unidade-entre-campo-e-cidade.md
 
 ---
+<p>&nbsp;</p>
+
 <p><em>Por Ernesto Puhl Neto</em></p>
 
 <p><em>Da P&aacute;gina do MST</em></p>
