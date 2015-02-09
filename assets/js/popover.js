@@ -1,45 +1,88 @@
-function popover() {
-  if ($('.popover').length > 0){
+/*jslint browser: true*/
+(function () {
+  'use strict';
+  var Device = {
+    Android: function () {
+      return window.navigator.userAgent.match(/Android/i);
+    },
+    BlackBerry: function () {
+      return window.navigator.userAgent.match(/BlackBerry/i);
+    },
+    iOS: function () {
+      return window.navigator.userAgent.match(/iPhone|iPad|iPod/i);
+    },
+    Opera: function () {
+      return window.navigator.userAgent.match(/Opera Mini/i);
+    },
+    Windows: function () {
+      return window.navigator.userAgent.match(/IEMobile/i);
+    },
+    isMobile: function () {
+      return (Device.Android() || Device.BlackBerry() || Device.iOS() || Device.Opera() || Device.Windows());
+    }
+  };
 
-    $('.popover').find('.inner-content').prepend("<span class=arrow-pointer'>*</span>");
+  var Popover = {
+      container: null,
+      links: null,
+      init: function (selector) {
+        this.container = $(selector);
+        this.links = this.container.find("li a");
+        this.setup();
+      },
 
-    $('.popover li a').each(
-      function (index, el) {
+      setup: function () {
+        var contents = this.container.find('.inner-content');
+        var links = this.container.find('li a');
+        this.setupContentsEvent(contents);
+        this.setupLinks(links);
+        this.setupBodyEvent();
+      },
 
-        var element = $(el);
-        var content = element.parent().parent().find('.inner-content');
-        content.on('transitionend webkitTransitionEnd oTransitionEnd otransitionend MSTransitionEnd', function() {
-          if($(this).parent().hasClass('open') == false){
+      setupLinks: function (links) {
+        $(links).on('click', function (e) {
+          Popover.clean();
+          var li = $(this).parent();
+          li.toggleClass('open');
+          if (li.hasClass('open')) {
+            li.find('.inner-content').css({display: 'block' });
+          }
+          Popover.cancelEvent(e);
+        });
+      },
+
+      setupContentsEvent: function (contents) {
+        var events =  ["transitionend", "webkitTransitionEnd", "oTransitionEnd", "otransitionend", "MSTransitionEnd"];
+        contents.on(events, function () {
+          if ($(this).parent().hasClass('open') === false) {
             $(this).css({display: 'none'});
           }
         });
+      },
 
-        element.on('click', function (e) {
-          $('.popover li').removeClass('open');
-          var li = $(this).parent();
-          li.toggleClass('open');
+      setupBodyEvent: function () {
+        if (!Device.isMobile()) {
+          $('body').on('click', function () {
+            $('.popover li').removeClass('open');
+          });
+        }
+      },
 
-          if(li.hasClass('open') ){
-            li.find('.inner-content').css({display: 'block' } );
-          }
+      clean: function () {
+        if (!Device.isMobile()) {
+          this.container.find("li.open").removeClass('open');
+        }
+      },
 
-          e.preventDefault();
-          if (e.stopPropagation) {
-            e.stopPropagation()
-          } else {
-            // For IE
-            e.cancelBubble = true
-          }
-        });
-        //
-
+      cancelEvent: function (event) {
+        if (event.stopPropagation) {
+          event.stopPropagation();
+        } else {
+          event.cancelBubble = true; // For IE
+        }
+        event.preventDefault();
       }
-    );
+    };
 
-    $('body').on('click',function(e){
-      $('.popover li').removeClass('open');
-    });
-  }
-}
-
-$(popover);
+  $(function () { Popover.init(".popover"); });
+}());
