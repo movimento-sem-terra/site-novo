@@ -27,7 +27,6 @@
       container: null,
       links: null,
       init: function (selector) {
-
         this.container = $(selector);
         this.links = this.container.find("li a");
         this.setup();
@@ -60,7 +59,7 @@
       // Hide content on End animation
       setupContentsEvent: function (contents) {
         var events =  ["transitionend", "webkitTransitionEnd",  "oTransitionEnd",  "otransitionend", "MSTransitionEnd"];
-        contents.on(events, function () {
+        contents.on(events.join(" "), function () {
           if ($(this).parent().hasClass('open') === false) {
             $(this).css({display: 'none' });
           }
