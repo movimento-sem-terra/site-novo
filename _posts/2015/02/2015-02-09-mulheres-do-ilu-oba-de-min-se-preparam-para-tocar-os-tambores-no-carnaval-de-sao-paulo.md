@@ -9,7 +9,7 @@ support_line: Bloco espera mais de 20 mil pessoas para o desfile deste ano. Escr
 menu: "educação, cultura e comunicação"
 section: cover
 sector: culture
-title: Mulheres do Ilú Obá de Min se preparam para tocar os tambores no carnaval de São Paulo
+title: Ilú Obá de Min se prepara para fazer um carnaval popular em São Paulo
 layout: post
 files:
   - link: "http://farm9.staticflickr.com/8593/15862788364_f137c199ef_b.jpg"
@@ -40,13 +40,12 @@ Da P&aacute;gina do MST</em><br />
 &ldquo;Eu vi mulheres no cativeiro Lavando as escadas do Bonfim Eu vi os tambores do rei Eu vi Il&uacute; Ob&aacute; De Min Essas mulheres do cativeiro Cansadas dos maus tratos do senhor Tiraram seus tambores da senzala Levaram para avenida E cantaram pra Xang&ocirc;&rdquo;.<br />
 &nbsp;</p>
 
-<p>Organizadas em filas, 230 mulheres tocam baterias e cantam a plenos pulm&otilde;es no meio da rua. Homens e mulheres, alguns se equilibrando em pernas de pau, todos vestidos de forma a homenagear os orix&aacute;s, dan&ccedil;am freneticamente. Um c&iacute;rculo se abre para a apresenta&ccedil;&atilde;o de um homem que cospe fogo. Acompanhando toda a apresenta&ccedil;&atilde;o, est&atilde;o mais de 15 mil pessoas. &nbsp;</p>
+<p>Organizadas em filas, 230 mulheres tocam baterias e cantam a plenos pulm&otilde;es no meio da rua. Homens e mulheres, alguns se equilibrando em pernas de pau, todos vestidos de forma a homenagear os orix&aacute;s, dan&ccedil;am freneticamente. Um c&iacute;rculo se abre para a apresenta&ccedil;&atilde;o de um homem que cospe fogo. Acompanhando toda a apresenta&ccedil;&atilde;o, est&atilde;o mais de 15 mil pessoas. &nbsp;<br />
+&nbsp;</p>
 
 <p>Assim &eacute; o desfile do Il&uacute; Ob&aacute; de Min, bloco afro de carnaval de S&atilde;o Paulo, caracter&iacute;stico pelo protagonismo das mulheres. Il&uacute; Ob&aacute; de Min significa &ldquo;as m&atilde;os femininas que tocam pra Xang&ocirc;&rdquo;. Apenas as mulheres tocam a bateria, e os temas de todo ano prestam homenagem a mulheres negras ou &agrave; cultura negra em si.<br />
 <br />
-&nbsp;</p>
-
-<p>O bloco ir&aacute; se apresentar nos dias 13 e 15 de fevereiro. Segundo Beth Beli, uma das coordenadoras e fundadoras do Il&uacute;, a cria&ccedil;&atilde;o do bloco se deu por tr&ecirc;s motivos. &ldquo;Eu vi o quanto voc&ecirc; fica empoderada ao tocar o tambor. E da&iacute; surge a ideia de criar um bloco onde as mulheres toquem. Tamb&eacute;m quer&iacute;amos trabalhar o ritmo dos orix&aacute;s, dos terreiros africanos, j&aacute; que a maioria das nossas m&uacute;sicas tem ra&iacute;zes africanas, e desmistificar o preconceito que existe na sociedade com o ritmo do candombl&eacute;&rdquo;.<br />
+O bloco ir&aacute; se apresentar nos dias 13 e 15 de fevereiro. Segundo Beth Beli, uma das coordenadoras e fundadoras do Il&uacute;, a cria&ccedil;&atilde;o do bloco se deu por tr&ecirc;s motivos. &ldquo;Eu vi o quanto voc&ecirc; fica empoderada ao tocar o tambor. E da&iacute; surge a ideia de criar um bloco onde as mulheres toquem. Tamb&eacute;m quer&iacute;amos trabalhar o ritmo dos orix&aacute;s, dos terreiros africanos, j&aacute; que a maioria das nossas m&uacute;sicas tem ra&iacute;zes africanas, e desmistificar o preconceito que existe na sociedade com o ritmo do candombl&eacute;&rdquo;.<br />
 <br />
 &nbsp;</p>
 
