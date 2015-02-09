@@ -349,14 +349,20 @@ main.about-us {
             }
             .inner-content{
               @extend .inner-content-default;
-              width: 300px;
-              padding: 20px;
-              z-index: 999;
-              position: absolute;
-              left: 76%;
-              top: 30px;
-              &.right{
-                left: -65%;
+              p{
+                margin-bottom: 0px;
+              }
+
+              @include media($desktop){
+                width: 300px;
+                z-index: 999;
+                padding: 20px;
+                position: absolute;
+                left: 76%;
+                top: 30px;
+                &.right{
+                  left: -65%;
+                }
               }
             }
             &.open{
@@ -448,7 +454,7 @@ main.about-us {
         select {
           width: 100%;
           margin-bottom: 25px;
-          padding: 50px;
+          padding: 5px;
           border: solid 1px #ebebeb;
           height: 49px;
           font-size: 16px;
