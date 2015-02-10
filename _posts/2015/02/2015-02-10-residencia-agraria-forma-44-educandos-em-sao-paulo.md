@@ -8,7 +8,7 @@ tags:
 title: Residência Agrária forma 44 educandos em São Paulo
 hat: Educação
 sector: education
-support_line: O curso deu continuidade ao processo de educação e formação dos sujeitos que constroem a luta pela efetivação da Reforma Agrária Popular e que atuam no dia a dia nas escolas de assentamentos.
+support_line: O curso forma sujeitos que constroem a luta pela Reforma Agrária Popular e que atuam no dia a dia nas escolas de assentamentos.
 menu: "educação, cultura e comunicação"
 section: cover
 layout: post
