@@ -4,7 +4,7 @@ tags:
   - tag: agrotóxicos
   - tag: kátia-abreu
   - tag: privatizações
-title: "Agrotóxicos e agroecologia,paradigmas diferentes em disputa"
+title: "Agrotóxicos e agroecologia, diferentes paradigmas em disputa"
 support_line: "Em entrevista, Fernando Carneiro analisa o atual cenário políticos e suas contradições "
 menu: agronegócio
 label: interviews
