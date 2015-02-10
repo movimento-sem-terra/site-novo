@@ -1,5 +1,5 @@
 ---
-date: "2015-02-09T16:41:30-03:00"
+date: "2015-02-09T17:41:30-02:00"
 tags:
   - tag: Carnaval
   - tag: Ilú-Obá-de-Min
@@ -7,7 +7,7 @@ tags:
 hat: Carnaval
 support_line: Bloco espera mais de 20 mil pessoas para o desfile deste ano. Escritora negra Carolina Maria de Jesus será homenageada.
 menu: "educação, cultura e comunicação"
-section: cover
+section: featured-news
 sector: culture
 title: Ilú Obá de Min se prepara para fazer carnaval popular em São Paulo
 layout: post
