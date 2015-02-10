@@ -64,7 +64,7 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<figure class="image" style="float:left"><img alt="agrotoxico-450x300.jpg" height="200" src="http://farm8.staticflickr.com/7403/16466723446_b66cc76d61_b.jpg" width="300" />
+<figure class="image" style="float:left"><img alt="agrotoxico-450x300.jpg" height="267" src="http://farm8.staticflickr.com/7403/16466723446_b66cc76d61_b.jpg" width="400" />
 <figcaption></figcaption>
 </figure>
 
@@ -87,25 +87,35 @@ releated_posts:
 
 <p>Essa situa&ccedil;&atilde;o deixa qualquer cientista indignado. As patentes recebem um registro que &eacute; eterno, e mesmo quando come&ccedil;a a se levantar evid&ecirc;ncias de que os agrot&oacute;xicos podem causar danos &agrave; sa&uacute;de, as empresas criam dificuldades para dificultar o processo de reavalia&ccedil;&atilde;o dos produtos que a Anvisa faz. Quando a Anvisa pro&iacute;be o uso de alguma subst&acirc;ncia, as empresas entram na Justi&ccedil;a contra o &oacute;rg&atilde;o, ou seja, judicializam os processos, o que os torna ainda mais morosos. Essa tem sido a postura das empresas, o que tem dificultado o trabalho de &oacute;rg&atilde;os como a Anvisa.Para voc&ecirc; ter uma ideia, depois que a Anvisa pro&iacute;be o uso de agrot&oacute;xicos, o &oacute;rg&atilde;o ainda tem de dar um tempo para as empresas acabarem com o estoque dos produtos no Brasil. Isso &eacute; contrassenso: se o agrot&oacute;xico ser proibido, como &eacute; poss&iacute;vel permitir que ele ainda seja utilizado no pa&iacute;s durante um tempo?</p>
 
+<p>&nbsp;</p>
+
 <p><strong>Recentemente voc&ecirc; declarou que a produ&ccedil;&atilde;o ecol&oacute;gica tem condi&ccedil;&otilde;es de alimentar a popula&ccedil;&atilde;o com qualidade. Ao afirmar isso, quer dizer tamb&eacute;m em quantidade? Em termos de produtividade, o sistema convencional poderia ser plenamente substitu&iacute;do pelo agroecol&oacute;gico? </strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
 
 <p>Atualmente os eventos nacionais da Associa&ccedil;&atilde;o Brasileira de Agroecologia (ABA) re&uacute;nem anualmente mais de 4000 pesquisadores que mostram as evid&ecirc;ncias da capacidade produtiva da agroecologia. Na verdade estamos falando de uma mudan&ccedil;a de paradigma, e n&atilde;o apenas de uma quest&atilde;o t&eacute;cnica, ou seja, estamos falando de uma mudan&ccedil;a de modelo que n&atilde;o s&oacute; n&atilde;o usa veneno, como tamb&eacute;m distribui melhor a renda e, portanto, promove a equidade social. Se fizermos uma an&aacute;lise como um todo, a agroecologia acaba sendo mais eficiente, porque o agroneg&oacute;cio, para funcionar, precisa, de fato, de financiamentos p&uacute;blicos, e usa uma quantidade enorme de insumos que s&atilde;o respons&aacute;veis por 30 ou 40% dos gastos da produ&ccedil;&atilde;o.&nbsp;Agora, imagina um modelo de agricultura que elimine esse gasto de 40% com agrot&oacute;xicos. H&aacute; relat&oacute;rios da ONU para a alimenta&ccedil;&atilde;o que mostram isso. Outro exemplo que nos ajuda a entender essa quest&atilde;o em termos estat&iacute;sticos &eacute; o censo agropecu&aacute;rio do IBGE, que indica que a agricultura familiar j&aacute; &eacute; respons&aacute;vel por alimentar 70% dos brasileiros. Isso demonstra que a produ&ccedil;&atilde;o de alimentos n&atilde;o est&aacute; associada &agrave; produ&ccedil;&atilde;o em larga escala. Tanto que a produ&ccedil;&atilde;o brasileira em larga escala tem servido para alimentar animais na China e nos EUA. Existe a&iacute; um discurso falacioso do agroneg&oacute;cio de que eles produzem alimentos para acabar com a fome. Isso &eacute; mentira.</p>
 
-<p><strong>Frequentemente vinculamos o uso de agrot&oacute;xicos aos grandes latif&uacute;ndios, mas os pequenos produtores tamb&eacute;m s&atilde;o grandes utilizadores destes produtos, o que se reflete na dificuldade de uma produ&ccedil;&atilde;o agroecol&oacute;gica devidamente certificada. O que falta para que o uso de tais produtos seja minimizado em favor de tecnologias sociais? &nbsp; &nbsp; &nbsp;</strong> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+<p>&nbsp;</p>
+
+<p><strong>Frequentemente vinculamos o uso de agrot&oacute;xicos aos grandes latif&uacute;ndios, mas os pequenos produtores tamb&eacute;m s&atilde;o grandes utilizadores destes produtos, o que se reflete na dificuldade de uma produ&ccedil;&atilde;o agroecol&oacute;gica devidamente certificada. O que falta para que o uso de tais produtos seja minimizado em favor de tecnologias sociais? &nbsp; &nbsp; &nbsp;</strong> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
 
 <p>Imagina um Brasil em que o que se investe no agroneg&oacute;cio via Embrapa, fosse investido para desenvolver t&eacute;cnicas para a agroecologia. Imagina um Brasil que ao inv&eacute;s de 150 bilh&otilde;es para a produ&ccedil;&atilde;o do agroneg&oacute;cio, destinasse esse valor para a agricultura agroecol&oacute;gica. Isso implicaria numa mudan&ccedil;a radical dessa situa&ccedil;&atilde;o. Ent&atilde;o, o que precisa &eacute; uma mudan&ccedil;a pol&iacute;tica. &nbsp;</p>
 
-<figure class="image" style="float:right"><img alt="images.jpg" src="http://farm8.staticflickr.com/7447/16490977651_ef8a9c2b94_b.jpg" />
+<figure class="image" style="float:right"><img alt="images.jpg" height="225" src="http://farm8.staticflickr.com/7447/16490977651_ef8a9c2b94_b.jpg" width="350" />
 <figcaption></figcaption>
 </figure>
+
+<p>&nbsp;</p>
 
 <p><strong>Nos supermercados, consumidores costumam dizer que n&atilde;o optam por alimentos da agricultura ecol&oacute;gica por serem mais caros. O valor agregado de uma produ&ccedil;&atilde;o agroecol&oacute;gica ainda n&atilde;o &eacute; percebido?</strong></p>
 
 <p>Existe um nicho de mercado, que &eacute; bastante elitizado, que est&aacute; presente em grandes redes de supermercados, que faz com que os alimentos org&acirc;nicos sejam muito caros. Por isso a nossa recomenda&ccedil;&atilde;o &eacute; de que as pessoas procurem as feiras agroecol&oacute;gicas, como as da reforma agr&aacute;ria, e comprem diretamente dos produtores. O Instituto de Defesa dos Direitos do Consumidor &ndash; IDEC tem, em seu site, um mapa das feiras agroecol&oacute;gicas do Brasil, no qual o cidad&atilde;o pode descobrir onde tem uma feira mais pr&oacute;xima da sua casa.</p>
 
+<p>&nbsp;</p>
+
 <p><strong>Como evitar que o discurso agroecol&oacute;gico, que &eacute; essencial, n&atilde;o seja dominado pelo marketing verde &ndash; justificando pre&ccedil;os muito acima da expectativa para o consumidor final? &nbsp; </strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
 
 <p>Esse &eacute; um risco: a economia verde. Estamos num sistema capitalista que tenta aproveitar todas as chances para lucrar. Muitas empresas de agrot&oacute;xicos j&aacute; est&atilde;o se preparando para um novo momento e est&atilde;o diversificando suas linhas de produ&ccedil;&atilde;o para produzir produtos de controle biol&oacute;gico. Ent&atilde;o, &eacute; importante que esse processo esteja presente nas discuss&otilde;es dos movimentos sociais com a sociedade e a academia para buscar desenvolver tecnologias que ajudem no empoderamento dos produtores e na situa&ccedil;&atilde;o econ&ocirc;mica deles, e n&atilde;o criar formas de deix&aacute;-los mais dependentes.O que as grandes empresas criam s&atilde;o tecnologias que fazem com as pessoas fiquem mais dependentes delas. Essa &eacute; a grande armadilha da l&oacute;gica da economia verde. Temos de romper com essa l&oacute;gica e fazer uma mudan&ccedil;a do modelo. Ao inv&eacute;s de concentrar renda e tecnologia, temos de buscar um modelo de agricultura que distribua renda e que fa&ccedil;a com que as tecnologias sejam acess&iacute;veis. Esse &eacute; o caminho para sair do impasse da economia verde.</p>
+
+<p>&nbsp;</p>
 
 <p><strong>Quais as culturas em que h&aacute; maior uso de agrot&oacute;xicos? &nbsp; &nbsp; &nbsp; </strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
 
