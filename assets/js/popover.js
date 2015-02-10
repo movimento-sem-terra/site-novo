@@ -1,44 +1,95 @@
-function popover() {
-  if ($('.popover').length > 0){
 
-    $('.popover').find('.inner-content').prepend("<span class=arrow-pointer'>*</span>");
+/*jslint browser: true*/
+(function () {
+  'use strict';
+  var Device = {
+    Android: function () {
+      return window.navigator.userAgent.match(/Android/i);
+    },
+    BlackBerry: function () {
+      return window.navigator.userAgent.match(/BlackBerry/i);
+    },
+    iOS: function () {
+      return window.navigator.userAgent.match(/iPhone|iPad|iPod/i);
+    },
+    Opera: function () {
+      return window.navigator.userAgent.match(/Opera Mini/i);
+    },
+    Windows: function () {
+      return window.navigator.userAgent.match(/IEMobile/i);
+    },
+    isMobile: function () {
+      return (Device.Android() || Device.BlackBerry() || Device.iOS() || Device.Opera() || Device.Windows());
+    }
+  };
 
-    $('.popover li a').each(
-      function (index, el) {
+  var Popover = {
+      container: null,
+      links: null,
+      init: function (selector) {
+        this.container = $(selector);
+        this.links = this.container.find("li a");
+        this.setup();
+      },
+      setup: function () {
+        var contents = this.container.find('.inner-content');
+        var links = this.container.find('li a');
+        this.setupContentsEvent(contents);
+        this.setupLinks(links);
+        this.setupBodyEvent();
 
-        var element = $(el);
-        var content = element.parent().parent().find('.inner-content');
-        content.on('transitionend webkitTransitionEnd oTransitionEnd otransitionend MSTransitionEnd', function() {
-          if($(this).parent().hasClass('open') == false){
-            $(this).css({display: 'none'});
-          }
-        });
+      },
 
-        element.on('click', function (e) {
-          $('.popover li').removeClass('open');
+
+
+      setupLinks: function (links) {
+
+        $(links).on('click', function (e) {
+          Popover.clean();
           var li = $(this).parent();
           li.toggleClass('open');
 
-          if(li.hasClass('open') ){
-            li.find('.inner-content').css({display: 'block' } );
+          if (li.hasClass('open')) {
+            li.find('.inner-content').css({display: 'block' });
           }
-
-          e.preventDefault();
-          if (e.stopPropagation) {
-            e.stopPropagation()
-          } else {
-            // For IE
-            e.cancelBubble = true
-          }
-          e.preventDefault();
+          Popover.cancelEvent(e);
         });
+
+      },
+      // Hide content on End animation
+      setupContentsEvent: function (contents) {
+        var events =  ["transitionend", "webkitTransitionEnd",  "oTransitionEnd",  "otransitionend", "MSTransitionEnd"];
+        contents.on(events.join(" "), function () {
+          if ($(this).parent().hasClass('open') === false) {
+            $(this).css({display: 'none' });
+          }
+        });
+      },
+
+      setupBodyEvent: function () {
+        if (!Device.isMobile()) {
+          $('body').on('click', function () {
+            Popover.clean();
+          });
+        }
+      },
+
+      clean: function () {
+        if (!Device.isMobile()) {
+          this.container.find("li.open").removeClass('open');
+        }
+      },
+
+      cancelEvent: function (event) {
+        if (event.stopPropagation) {
+          event.stopPropagation();
+        } else {
+          // For IE
+          event.cancelBubble = true;
+        }
+        event.preventDefault();
       }
-    );
+    };
 
-    $('body').on('click',function(e){
-      $('.popover li').removeClass('open');
-    });
-  }
-}
-
-$(popover);
+  $(function () { Popover.init(".popover"); });
+}());
