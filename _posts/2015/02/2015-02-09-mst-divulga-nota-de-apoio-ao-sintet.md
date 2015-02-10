@@ -8,7 +8,7 @@ tags:
   - tag: escolas-públicas
 title: MST divulga nota de apoio ao Sintet
 menu: lutas e mobilizações
-support_line: "Escolas públicas do Tocantis passam por um momento de ingerência política, com intervenção dos políticos locais da região."
+support_line: "Escolas públicas do Tocantins sofrem ingerência de políticos locais, denuncia Sindicato dos Trabalhadores em Educação."
 layout: post
 files:
   - link: "http://farm9.staticflickr.com/8569/15861443984_343c8e6a9d_b.jpg"
