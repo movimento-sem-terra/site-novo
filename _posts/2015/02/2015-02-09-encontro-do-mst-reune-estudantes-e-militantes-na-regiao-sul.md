@@ -1,5 +1,5 @@
 ---
-date: "2015-02-09T12:46:51-03:00"
+date: "2015-02-09T13:46:51-02:00"
 tags:
   - tag: juventude
   - tag: encontro
@@ -24,7 +24,7 @@ releated_posts:
   - 2014/08/2014-08-08-mst-realiza-13º-encontro-da-juventude-camponesa-do-ceara.md
   - 2014/08/2014-08-11-encontro-da-juventeude-em-sc-debate-realidade-e-luta-do-campo.md
   - 2015/02/2015-02-05-jovens-paraenses-selam-unidade-entre-campo-e-cidade.md
-section: cover
+section: null
 sector: education
 
 ---
@@ -36,7 +36,7 @@ sector: education
 
 <p>&nbsp;</p>
 
-<p>Entre os dias 05 e 06 de fevereiro o Centro de Forma&ccedil;&atilde;o Olga Ben&aacute;rio localizado no Munic&iacute;pio de Catanduvas, Santa Catarina, recebeu o primeiro 1&deg; Encontro de Militantes e Estudantes do MST.</p>
+<p>Entre os dias 05 e 06 de fevereiro, o Centro de Forma&ccedil;&atilde;o Olga Ben&aacute;rio, localizado no Munic&iacute;pio de Catanduvas, Santa Catarina, recebeu o primeiro 1&deg; Encontro de Militantes e Estudantes do MST.</p>
 
 <p>&nbsp;</p>
 
@@ -44,7 +44,7 @@ sector: education
 
 <p>&nbsp;</p>
 
-<p>No evento foram debatidos temas relacionados a Reforma Agr&aacute;ria Popular e os desafios enfrentados pelo&nbsp; Movimento diante da atual conjuntura pol&iacute;tica.</p>
+<p>No evento, foram debatidos temas relacionados a Reforma Agr&aacute;ria Popular e os desafios enfrentados pelo&nbsp; Movimento diante da atual conjuntura pol&iacute;tica.</p>
 
 <p>&nbsp;</p>
 
@@ -52,7 +52,7 @@ sector: education
 
 <p>&nbsp;</p>
 
-<p>Para um dos dirigentes do MST do estado, Paulo Carneiro, espa&ccedil;os como o da UFFS &eacute; uma ferramenta local que, se bem utilizada, tem o poder de alterar de maneira positiva a realidade local.</p>
+<p>Para o integrante da dire&ccedil;&atilde;o do MST do estado, Paulo Carneiro, &nbsp;a&nbsp;UFFS &eacute; uma ferramenta local que, se bem utilizada, tem o poder de alterar de maneira positiva a realidade local.</p>
 
 <p>&nbsp;</p>
 
