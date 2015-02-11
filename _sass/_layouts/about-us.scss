@@ -279,7 +279,7 @@ main.about-us {
     }
     // END ORGANIZATION
 
-    &.objectives{
+    &#objectives{
       .goals{
         @include span-columns(12);
         margin-bottom: 0;
