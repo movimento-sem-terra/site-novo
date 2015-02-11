@@ -4,7 +4,7 @@ tags:
   - tag: Pará
   - tag: dorothy-stang
   - tag: violência
-title: "Dez anos após o assassinato da irmã Dorothy, o sangue ainda corre na floresta"
+title: "Dez anos do assassinato da irmã Dorothy, e o sangue ainda corre na floresta"
 support_line: "Neste 12 de fevereiro, o assassinato de Dorothy Stang completa dez anos, sem que os mandantes pelo crime tenham sido, de fato, presos."
 menu: direitos humanos
 section: cover
@@ -41,9 +41,12 @@ releated_posts:
 
 ---
 <p style="line-height: 20.7999992370605px;"><br />
+<img alt="dorothy Stang.jpg" src="http://farm9.staticflickr.com/8608/16312561838_17ecd498a8_b.jpg" /></p>
+
+<p style="line-height: 20.7999992370605px;"><br />
 <em>Do Greenpeace</em></p>
 
-<p><br />
+<p style="line-height: 20.7999992370605px;"><br />
 Dez anos ap&oacute;s o assassinato de Dorothy Stang, os mandantes do crime continuam em liberdade e o c&iacute;rculo vicioso de explora&ccedil;&atilde;o, viol&ecirc;ncia e impunidade segue imperando na Amaz&ocirc;nia.</p>
 
 <p><br />
