@@ -43,7 +43,8 @@ releated_posts: []
 <p><br />
 <img alt="abram alas.jpg" src="http://farm8.staticflickr.com/7374/16499939972_735ef2a934_b.jpg" /><br />
 <br />
-<em>Por Guilherme Zocchio</em></p>
+<em>Por Guilherme Zocchio<br />
+Do Myfuncity</em></p>
 
 <p><br />
 &Eacute; um, dois, tr&ecirc;s&hellip; e o batuque come&ccedil;a. O surdo d&aacute; o compasso do ritmo e, ent&atilde;o, entram os tamborins. Com seu apito, o mestre da bateria orienta o grupo, que ent&atilde;o come&ccedil;a a cantar: &ldquo;Nasci da poeira vermelha [...] Eu sou filho deste ch&atilde;o. Cresci debaixo da lona preta, na luta pela terra, fazendo ocupa&ccedil;&atilde;o&rdquo;. &Eacute; uma escola de samba. Mas, provavelmente, voc&ecirc; n&atilde;o vai v&ecirc;-la na tev&ecirc; ou talvez v&ecirc;-la desfilar pelo Anhembi.</p>
@@ -54,8 +55,7 @@ Abram alas para a Unidos da Lona Preta, a escola de samba do Movimento dos Traba
 <p>&nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="mfc_lona5.png" src="http://farm9.staticflickr.com/8577/16315041387_9ae60f147e_b.jpg" />
-<figcaption>Integrantes da Unidos ensaiam em Jandira (Fotos: Guilherme Zocchio)<br />
-</figcaption>
+<figcaption>Integrantes da Unidos ensaiam em Jandira (Fotos: Guilherme Zocchio)</figcaption>
 </figure>
 
 <p>O nome &rdquo;lona preta&rdquo;, tal como sugere, remete &agrave;s habita&ccedil;&otilde;es erguidas pelos trabalhadores sem-terra em beiras de estrada, &aacute;reas improdutivas no campo ou terrenos baldios nas cidades, para fixar suas ocupa&ccedil;&otilde;es e fazer o usucapi&atilde;o da terra. Nos sambas-enredo, a escola fala de conquistas do movimento, seguran&ccedil;a alimentar, reforma agr&aacute;ria, reforma urbana, agroecologia, entre outros temas.</p>
