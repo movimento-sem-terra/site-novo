@@ -5,7 +5,7 @@ tags:
   - tag: livro-MST
   - tag: fotografia
   - tag: enff
-title: Venda de livros sobre o 6° Congresso do MST arrecada fundos para a ENFF
+title: Venda de livros sobre os 30 anos do MST arrecada fundos para a ENFF
 support_line: Projeto foi feito com o objetivo de fortalecer as atividades formativas e culturais oferecidas pela Escola Nacional Florestan Fernandes.
 menu: "educação, cultura e comunicação"
 layout: post
