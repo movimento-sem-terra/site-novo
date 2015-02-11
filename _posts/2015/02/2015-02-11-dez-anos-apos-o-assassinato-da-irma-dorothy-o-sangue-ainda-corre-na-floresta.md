@@ -4,7 +4,7 @@ tags:
   - tag: Pará
   - tag: dorothy-stang
   - tag: violência
-title: "Dez anos após o assassinato de Dorothy, o sangue ainda corre na floresta"
+title: "Dez anos após Dorothy Stang, o sangue ainda corre na floresta"
 support_line: "Neste 12 de fevereiro, o assassinato de Dorothy Stang completa dez anos, sem que os mandantes pelo crime tenham sido, de fato, presos."
 menu: direitos humanos
 section: cover
