@@ -27,22 +27,16 @@
   <div id="others-container">
     <section id="keep-an-eye">
       <h4>Fique de olho</h4>
-      {% assign is_first = true %}
-      {% for post in keep | limit: 3 %}
+      {% for post in keep | limit: 1 %}
         <div class='news'>
           <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">
-            {% if is_first %}
-              <img src="{{ post | find_image: 'hd' }}" />
-            {% else %}
-              <img src="{{ post | find_image: 'tiny' }}" />
-            {% endif %}
-            {{ post.title }}
+            <img src="{{ post | find_image: 'hd' }}" />
+            <span>{{ post.title }}</span>
           </a>
         </div>
-        {% assign is_first = false %}
       {% endfor %}
-    </section> 
-    
+    </section>
+
     <div id="others" >
       <section id="video">
         <h4>Vídeos</h4>
@@ -50,26 +44,36 @@
           <div class="news">
             <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">
               <iframe width="100%" src="{{ post.video | get_video_embeded }}" allowfullscreen frameborder="0"></iframe>
-              {{ post.title | truncate: 60 }}
-            </a>
-          </div>
-        {% endfor %}
-      </section>
-      <section id="our-historic">
-        <h4>Conheça nosso histórico</h4>
-        {% for post in our_historic | limit: 2 %}
-        {% assign thumbnail = post | find_image: 'hd' %}
-          <div class="news">
-            <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">
-              <img src="{{ thumbnail }}" alt="{{ post.title }}" />
-              {{ post.title | truncate: 70 }}
+              {{ post.title }}
             </a>
           </div>
         {% endfor %}
       </section>
     </div>
-    <section class="ask-us">
-      {% include about-us/ask-us.html %}
+
+    <section id="our-historic">
+      <h4>Conheça mais sobre o MST</h4>
+      <hr>
+        <div class="news">
+        <a href="/nossa-historia/" title="Nossa história">
+          <img src="/assets/img/icn_history.png" alt="" />
+          Nossa história
+        </a>
+      </div>
+
+      <div class="news">
+        <a href="/quem-somos/#objectives" title="Objetivos">
+          <img src="/assets/img/icn_lutas.png" alt="" />
+          Objetivos
+        </a>
+      </div>
+
+      <div class="news">
+        <a href="http://viacampesina.org/en/" target="_blank" title="Via Campesina">
+          <img src="/assets/img/icn_campesina.png" alt="" />
+          Via Campesina
+        </a>
+      </div>
     </section>
   </div>
   <!--  -->

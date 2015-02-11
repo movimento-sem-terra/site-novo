@@ -52,7 +52,7 @@
          -o-background-size: cover;
        -moz-background-size: cover;
     -webkit-background-size: cover;
-    
+
      .quote{
         width: 30px;
         height: 30px;
@@ -265,21 +265,33 @@
         padding-left: 16px;
         @include span-columns(4 of 9);
         .news{
-          @include span-columns(6 of 12);
-          &:first-of-type {
-            @include fill-parent();
-            margin-bottom: 19px;
-            
-            img {
-              height: auto;
-              max-height: 219px;
+
+          position: relative;
+          @include fill-parent();
+
+          img {
+            height: auto;
+            max-height: 219px;
+          }
+
+          span {
+            position: absolute;
+            bottom: 8px;
+            left: 0;
+            color: white;
+            text-align: center;
+            padding: 10% 10px 10px 10px;
+            font-size: 1.07em;
+            @include linear-gradient(transparent, rgba(0, 0, 0, .7));
+            transition-duration: .5s;
+          }
+
+          &:hover {
+            span {
+              padding-top: 50%;
+              text-decoration: underline;
             }
           }
-          
-          img {
-            height: 108px;
-          }
-        
         }
       }
 
@@ -305,65 +317,54 @@
         }
 
       }
-      .ask-us{
-        @extend .ask-us-default;
-        @include span-columns(9 of 9);
-        min-height: 141px;
-        padding-bottom: 10px;
-        border-top: solid 1px #b7b7b7;
-        background-color: transparent;
-        padding-left: 16px;
 
-        form .form-input{
-          &.email{
-            @include span-columns(5);
-          }
-          &.question{
-            @include span-columns(5);
-          }
-        }
-        form { width: 100%; }
-        form input{
-          border: solid 1px #b7b7b7;
-          &[type="email"], &[type="text"]{
-            width: 100%;
-            margin-right: 0px;
-          }
-          &[type="submit"]{
-            @include span-columns(2);
-            margin-right: 0;
-            background-color: $mst-green;
-          }
-        }
-        form label{
-          width: auto;
-          float: none;
-          display: block;
-          color: #555555;
-          font-style: normal;
-          margin-top: 15px;
-          margin-bottom: 10px;
-        }
-        .content{
-          padding: 0px;
-        }
-      }
 
-      #video, 
-      #our-historic {
+      #video {
         @include span-columns(12);
 
         .news{
           @include span-columns(6 of 12);
-          
           img {
             height: 120px;
           }
         }
       }
-      #our-historic{
+
+      #our-historic {
+        @include span-columns(12);
+
+        padding: 20px 130px;
+        .news{
+          @include span-columns(4 of 12);
+          a {
+            text-align: center;
+            color: $mst-green;
+            img {
+              padding: 0 30px;
+              transition-duration: .5s;
+            }
+
+          }
+          :hover img {
+            @include filter(hue-rotate(35deg));
+            @include transform(scale(1.05));
+          }
+
+
+        }
+
+        hr{
+          border: 0;
+          height: 2px;
+          width: 85%;
+          margin-bottom: 30px;
+          @include linear-gradient(left, rgba(0,0,0,0), rgba(150,15,19,0.75), rgba(0,0,0,0));
+        }
+
         h4 {
           margin-top: 5px;
+          margin-bottom: 0;
+          text-align: center;
         }
       }
     }
@@ -483,7 +484,7 @@
                 @include transition(all 0.3s ease-out);
                 border-bottom: solid 1px #fff;
                 img {
-                  
+
                   padding-bottom: 0px;
                 }
                 &.open{
