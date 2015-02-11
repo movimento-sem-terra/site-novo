@@ -1,9 +1,9 @@
 ---
-date: "2015-02-11T12:26:47-03:00"
+date: "2015-02-11T13:26:47-02:00"
 tags:
   - tag: Sociedade-civil
   - tag: MP658
-title: Sociedade civil enfrenta nova batalha no Congresso por avanços no Marco Regulatório
+title: Sociedade enfrenta nova batalha no Congresso por avanços no Marco Regulatório
 support_line: Relatório sobre a Medida Provisória que regula parcerias entre Estado e Sociedade civil foi alterado pela Câmara dos Deputados.
 hat: ""
 menu: projeto popular
@@ -22,10 +22,10 @@ releated_posts: []
 
 ---
 <p><br />
-<em>Do Brasil de Fato </em><br />
-&nbsp;</p>
+<em>Do Brasil de Fato </em></p>
 
-<p>Em vota&ccedil;&atilde;o na C&acirc;mara, na &uacute;ltima quarta-feira (4), deputados rejeitaram pontos defendidos pelas Organiza&ccedil;&otilde;es da Sociedade Civil (OSCs) e gestores em relat&oacute;rio da Comiss&atilde;o Mista sobre a Medida Provis&oacute;ria 658, que altera o prazo para entrada em vigor da Lei 13.019/2014, que estabelece normas gerais para as parcerias entre OSCs e o Estado.<br />
+<p><br />
+Em vota&ccedil;&atilde;o na C&acirc;mara, na &uacute;ltima quarta-feira (4), deputados rejeitaram pontos defendidos pelas Organiza&ccedil;&otilde;es da Sociedade Civil (OSCs) e gestores em relat&oacute;rio da Comiss&atilde;o Mista sobre a Medida Provis&oacute;ria 658, que altera o prazo para entrada em vigor da Lei 13.019/2014, que estabelece normas gerais para as parcerias entre OSCs e o Estado.<br />
 &nbsp;</p>
 
 <p>Na Comiss&atilde;o Mista criada para aprecia&ccedil;&atilde;o da medida, organiza&ccedil;&otilde;es e gestores municipais, estaduais e federais conseguiram incluir no relat&oacute;rio da senadora Gleise Hoffmann (PT-PR) modifica&ccedil;&otilde;es que pretendiam garantir a seguran&ccedil;a jur&iacute;dica para ambas as partes, sem perda dos mecanismos de controle sobre os recursos p&uacute;blicos.<br />
@@ -40,7 +40,7 @@ releated_posts: []
 <p><strong>Lei abaixo a &iacute;ntegra da nota:</strong><br />
 &nbsp;</p>
 
-<p><strong>CARTA ABERTA AO CONGRESSO NACIONAL</strong><br />
+<p style="text-align: center;"><strong>CARTA ABERTA AO CONGRESSO NACIONAL</strong><br />
 &nbsp;</p>
 
 <p>Pela aprova&ccedil;&atilde;o do Relat&oacute;rio da Comiss&atilde;o Mista sobre a Medida Provis&oacute;ria n&ordm; 658, de 29 de outubro de 2014, que altera a Lei n&ordm; 13.019, que estabelece o regime jur&iacute;dico das parcerias entre a administra&ccedil;&atilde;o p&uacute;blica e as organiza&ccedil;&otilde;es da sociedade civil.<br />
@@ -81,7 +81,8 @@ releated_posts: []
 
 <p>- Suprime dispositivos que poderiam acarretar forte desincentivo ao engajamento de pessoas em entidades que atuam em prol do interesse p&uacute;blico.</p>
 
-<p>Por esses motivos, solicitamos a aprova&ccedil;&atilde;o em Plen&aacute;rio do Relat&oacute;rio da Comiss&atilde;o Mista sobre a Medida Provis&oacute;ria n&ordm; 658. Esperamos que a atual legislatura, que agora nos representa no Congresso Nacional, preserve o esp&iacute;rito suprapartid&aacute;rio e comprometimento com o interesse p&uacute;blico que prevaleceram na aprova&ccedil;&atilde;o da Lei 13.019, em julho de 2014, assim como na aprova&ccedil;&atilde;o do Relat&oacute;rio na Comiss&atilde;o Mista em dezembro do mesmo ano.<br />
+<p><br />
+Por esses motivos, solicitamos a aprova&ccedil;&atilde;o em Plen&aacute;rio do Relat&oacute;rio da Comiss&atilde;o Mista sobre a Medida Provis&oacute;ria n&ordm; 658. Esperamos que a atual legislatura, que agora nos representa no Congresso Nacional, preserve o esp&iacute;rito suprapartid&aacute;rio e comprometimento com o interesse p&uacute;blico que prevaleceram na aprova&ccedil;&atilde;o da Lei 13.019, em julho de 2014, assim como na aprova&ccedil;&atilde;o do Relat&oacute;rio na Comiss&atilde;o Mista em dezembro do mesmo ano.<br />
 &nbsp;</p>
 
 <p>Contamos com o apoio do Senado ao relat&oacute;rio e que a C&acirc;mara tenha a oportunidade de reconsiderar sua posi&ccedil;&atilde;o e aprovar essas medidas que tanto aperfei&ccedil;oar&atilde;o as rela&ccedil;&otilde;es de colabora&ccedil;&atilde;o e fomento entre as OSCs e as administra&ccedil;&otilde;es p&uacute;blicas de todos os n&iacute;veis.<br />
@@ -89,7 +90,8 @@ releated_posts: []
 
 <p>Estamos &agrave; disposi&ccedil;&atilde;o dos parlamentares para debates e esclarecimentos a respeito de qualquer item do relat&oacute;rio, em Bras&iacute;lia ou nos Estados, como lhes for conveniente.</p>
 
-<p>Atenciosamente subscrevem pela Plataforma das OSC:</p>
+<p><br />
+Atenciosamente subscrevem pela Plataforma das OSC:</p>
 
 <p>Articula&ccedil;&atilde;o do Semi&aacute;rido &ndash; ASA Brasil</p>
 
