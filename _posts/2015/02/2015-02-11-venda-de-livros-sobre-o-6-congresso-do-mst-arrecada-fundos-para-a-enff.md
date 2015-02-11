@@ -42,7 +42,7 @@ files:
     $$hashKey: 0E5
 created_date: "2015-02-11T15:08:32-02:00"
 published: true
-images_hd: "http://farm8.staticflickr.com/7398/15882673053_d5a0de37ba_n.jpg"
+images_hd: "http://farm8.staticflickr.com/7300/15882576333_3586479b40_n.jpg"
 releated_posts: []
 
 ---
@@ -81,7 +81,7 @@ O prop&oacute;sito desse trabalho &eacute; contar o MST atrav&eacute;s dos rosto
 <p><br />
 &ldquo;A fotografia pode aproximar as pessoas das lutas sociais, denunciando situa&ccedil;&otilde;es de injusti&ccedil;a. A fotografia n&atilde;o pode limitar-se a ser apenas um meio de informa&ccedil;&atilde;o, mas precisa ser e tornar-se tamb&eacute;m um meio para realizar a&ccedil;&otilde;es concretas&rdquo;, ressalta o italiano.</p>
 
-<p><img alt="Sem-Terra-giulioIII.jpg" src="http://farm8.staticflickr.com/7456/16501102241_9a6701c915_b.jpg" /></p>
+<p>&nbsp;</p>
 
 <p><img alt="Sem-Terra-giulioIV.jpg" src="http://farm8.staticflickr.com/7325/16501734832_b631bd47bc_b.jpg" /></p>
 
