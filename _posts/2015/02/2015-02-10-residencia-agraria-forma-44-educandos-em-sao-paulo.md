@@ -10,7 +10,7 @@ hat: Educação
 sector: education
 support_line: O curso forma sujeitos que constroem a luta pela Reforma Agrária Popular e que atuam no dia a dia nas escolas de assentamentos.
 menu: "educação, cultura e comunicação"
-section: cover
+section: null
 layout: post
 files:
   - link: "http://farm9.staticflickr.com/8644/16305490947_86d9437a5f_b.jpg"
