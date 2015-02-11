@@ -7,7 +7,7 @@ tags:
 title: "Dez anos após Dorothy Stang, o sangue ainda corre na floresta"
 support_line: "Neste 12 de fevereiro, o assassinato de Dorothy Stang completa dez anos, sem que os mandantes pelo crime tenham sido, de fato, presos."
 menu: direitos humanos
-section: cover
+section: null
 layout: post
 files:
   - link: "http://farm8.staticflickr.com/7403/16499263142_b2839b2326_b.jpg"
