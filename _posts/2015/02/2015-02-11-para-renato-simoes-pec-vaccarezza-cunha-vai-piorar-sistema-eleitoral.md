@@ -14,9 +14,15 @@ files:
     small: "http://farm8.staticflickr.com/7360/16499635762_d12931ef4f_n.jpg"
     title: cunha_vaccarezza-890x395.jpg
     $$hashKey: 2HT
+  - link: "http://farm8.staticflickr.com/7411/16313245930_908253917d_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7411/16313245930_908253917d_t.jpg"
+    medium: "http://farm8.staticflickr.com/7411/16313245930_908253917d_z.jpg"
+    small: "http://farm8.staticflickr.com/7411/16313245930_908253917d_n.jpg"
+    title: "cunha_vaccarezza-890x395!.jpg"
+    $$hashKey: 0I2
 created_date: "2015-02-11T10:11:24-02:00"
 published: true
-images_hd: "http://farm8.staticflickr.com/7360/16499635762_d12931ef4f_n.jpg"
+images_hd: "http://farm8.staticflickr.com/7411/16313245930_908253917d_n.jpg"
 releated_posts:
   - 2014/12/2014-11-06-do-referendo-a-constituinte-proximos-capitulos-prometem-mais-embates.md
   - 2014/11/2014-10-14-dilma-volta-a-defender-plebiscito-para-reforma-politica.md
