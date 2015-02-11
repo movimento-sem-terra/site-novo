@@ -3,7 +3,7 @@ date: "2015-02-11T13:26:47-02:00"
 tags:
   - tag: Sociedade-civil
   - tag: MP658
-title: Sociedade enfrenta nova batalha no Congresso por avanços no Marco Regulatório
+title: Sociedade civil enfrenta nova batalha por avanços no Marco Regulatório
 support_line: Relatório sobre a Medida Provisória que regula parcerias entre Estado e Sociedade civil foi alterado pela Câmara dos Deputados.
 hat: ""
 menu: projeto popular
