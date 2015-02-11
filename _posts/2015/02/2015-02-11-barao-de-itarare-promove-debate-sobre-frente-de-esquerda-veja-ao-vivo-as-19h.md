@@ -6,7 +6,7 @@ tags:
   - tag: movimentos-sociais
   - tag: frente-de-esquerda
 title: Barão de Itararé promove debate sobre frente de esquerda. Veja ao vivo às 19h
-support_line: "Gilmar Mauro (MST), Guilherme Boulos (MTST) e Vic Barros (UNE) debateram as perspectivas da luta social em meio a um conturbado ambiente político."
+support_line: "Gilmar Mauro (MST), Guilherme Boulos (MTST) e Vic Barros (UNE) debatem as perspectivas da luta social em meio a um conturbado ambiente político."
 menu: projeto popular
 layout: post
 files:
