@@ -22,10 +22,10 @@ releated_posts: []
 ---
 <div>
 <p><br />
-<em>Da P&aacute;ginad MST</em></p>
+<em>Da P&aacute;gina do&nbsp;MST</em></p>
 
 <p><br />
-A primeira semana do m&ecirc;s de fevereiro &eacute; dedicada &agrave; mem&oacute;ria de Sep&eacute; Tiaraju, l&iacute;der ind&iacute;gena que se tornou her&oacute;i por morrer em batalhas contra Espanha e Portugal pelo ideal de seu povo Guarani. Em mem&oacute;ria dos 259 anos da morte de Sep&eacute; Tiaraju, ind&iacute;genas divulgam carta aberta reivindicando direitos origin&aacute;rios.</p>
+A primeira semana do m&ecirc;s de fevereiro &eacute; dedicada &agrave; mem&oacute;ria de Sep&eacute; Tiaraju. Sep&eacute; foi&nbsp;l&iacute;der ind&iacute;gena que se tornou her&oacute;i por morrer em batalhas contra Espanha e Portugal pelo ideal de seu povo Guarani. Em mem&oacute;ria dos 259 anos da morte de Sep&eacute; Tiaraju, ind&iacute;genas do Rio Grande do Sul divulgam carta aberta reivindicando direitos dos povos origin&aacute;rios.</p>
 
 <p style="text-align: center;"><br />
 <strong>Carta aberta do povo Guarani Mbya!</strong></p>
@@ -42,7 +42,7 @@ Em mem&oacute;ria dos 259 anos da morte de&nbsp;Sep&eacute; Tiaraju&nbsp;o Povo 
 N&oacute;s, filhos e filhas do povo&nbsp;Mbya Guarani, representantes de mais de 25 aldeias que se encontram espalhadas por todo estado do Rio Grande do Sul, estivemos reunidos entre os dias 05 e 07 de fevereiro de 2015 na cidade de S&atilde;o Gabriel/RS para celebrar o 9&ordm; encontro em mem&oacute;ria da morte de nosso grande l&iacute;der Sep&eacute; Tiaraju e os mais de 1500 guerreiros massacrados pelos ex&eacute;rcitos da Espanha e Portugal no dia 10 de fevereiro do ano de 1756.</p>
 
 <p><br />
-Escrevemos esta carta para avisar o Governo e o Estado Brasileiro que aqui estamos em luta. Para dizer queseguimos vivos, munidos de nossa f&eacute; e de nossa for&ccedil;a e que continuamos nos encontrando para fortalecer nossas lutas e nossa resist&ecirc;ncia contra todas as a&ccedil;&otilde;es e ofensivas aos nossos direitos. Que mesmo contra a vontade dos setores dominantes, deste Governo e deste Estado, que se esfor&ccedil;am para acabar com nossas terras, seguimos reafirmando que estamos cada vez mais fortes em nossa espiritualidade e na defesa da vida de nossas antigas e de nossas futuras gera&ccedil;&otilde;es.</p>
+Escrevemos esta carta para avisar o Governo e o Estado Brasileiro que aqui estamos em luta. Para dizer que seguimos vivos, munidos de nossa f&eacute; e de nossa for&ccedil;a e que continuamos nos encontrando para fortalecer nossas lutas e nossa resist&ecirc;ncia contra todas as a&ccedil;&otilde;es e ofensivas aos nossos direitos. Que mesmo contra a vontade dos setores dominantes, deste Governo e deste Estado, que se esfor&ccedil;am para acabar com nossas terras, seguimos reafirmando que estamos cada vez mais fortes em nossa espiritualidade e na defesa da vida de nossas antigas e de nossas futuras gera&ccedil;&otilde;es.</p>
 
 <p><br />
 Denunciamos que assim como no tempo de&nbsp;Sep&eacute; Tiaraju, que tombou lutando por nosso povo, hoje enfrentamos igual destino. O governo Federal junto com o agroneg&oacute;cio, empres&aacute;rios, fazendeiros e outros exploradores insistem em continuar com o projeto colonizador. Ao radicalizar sua posi&ccedil;&atilde;o baseada no desenvolvimentismo, no agro-extrativismo e na explora&ccedil;&atilde;o da natureza, radicaliza tamb&eacute;m sua investida contra os povos ind&iacute;genas atacando nossos direitos constitucionais, tomando nossos territ&oacute;rios e criminalizando nossas lideran&ccedil;as.</p>
