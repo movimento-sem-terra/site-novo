@@ -42,7 +42,8 @@ releated_posts:
 <p><br />
 <img alt="cunha_vaccarezza-890x395.jpg" src="http://farm8.staticflickr.com/7360/16499635762_d12931ef4f_b.jpg" /><br />
 <br />
-<em>Por Victoria Almeida, da APT Not&iacute;cias</em></p>
+<em>Por Victoria Almeida&nbsp;<br />
+da APT Not&iacute;cias</em></p>
 
 <p><br />
 Parlamentares e movimentos sociais favor&aacute;veis &agrave; reforma do sistema pol&iacute;tico brasileiro est&atilde;o empenhados em barrar a aprova&ccedil;&atilde;o da Proposta de Emenda &agrave; Constitui&ccedil;&atilde;o (PEC) 352/2013. O texto defende temas pol&ecirc;micos, como o financiamento privado para campanhas eleitorais, o voto facultativo e o voto distrital.</p>
