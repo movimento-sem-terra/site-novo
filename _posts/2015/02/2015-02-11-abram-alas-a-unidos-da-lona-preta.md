@@ -1,5 +1,5 @@
 ---
-date: "2015-02-11T10:55:21-02:00"
+date: "2015-02-11T09:55:21-03:00"
 tags:
   - tag: unidos-da-lona-preta
   - tag: carnaval
@@ -38,7 +38,7 @@ created_date: "2015-02-11T11:07:33-02:00"
 published: true
 images_hd: "http://farm8.staticflickr.com/7308/16500984515_7f8d76cdde_n.jpg"
 releated_posts: []
-sector: culture
+sector: null
 
 ---
 <p><br />
