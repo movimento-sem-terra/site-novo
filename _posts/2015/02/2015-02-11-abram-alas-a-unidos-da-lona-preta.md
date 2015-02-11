@@ -66,7 +66,8 @@ Antes mesmo da significativa mudan&ccedil;a na rela&ccedil;&atilde;o entre o pod
 <p><br />
 Parte da coordena&ccedil;&atilde;o da escola e mestre da bateria, Tiaraju Pablo, reconhece as dificuldades para os desfiles de rua. &ldquo;A verdade &eacute; que o povo na rua, mesmo que no carnaval, incomoda [as autoridades]&rdquo;.</p>
 
-<p><br />
+<p><iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/UTPRG2zLj9k" width="640"></iframe><br />
+<br />
 Ligada a um dos mais antigos e abrangentes movimentos sociais do Brasil, a Unidos da Lona Preta nasceu da necessidade de aproximar o samba &ndash;e tamb&eacute;m o carnaval&ndash; das lutas populares. A pr&oacute;pria hist&oacute;ria da escola se confunde com a organiza&ccedil;&atilde;o de homens, mulheres, jovens e velhos na reivindica&ccedil;&atilde;o por melhores condi&ccedil;&otilde;es de vida.</p>
 
 <p><br />
