@@ -7,6 +7,7 @@
 @import "../_sass/_includes/spinner";
 @import "../_sass/_includes/ask-us";
 
+$mobile: new-breakpoint(max-width 768px);
 
 
 //EXTENDS
@@ -84,6 +85,11 @@
         @extend .title-with-shadow;
         font-size: 36px;
         font-style: italic;
+
+        @include media($mobile) {
+          padding: 10px;
+        }
+
       }
 
       #summary {
@@ -95,11 +101,20 @@
           font: 500 18px / 24px;
           color: #ffffff;
           font-weight: 200;
+          padding: 10px;
+        }
+
+        @include media($mobile) {
+          @include fill-parent();
         }
       }
       #testimonials{
         @include span-columns(6);
         text-align: center;
+
+        @include media($mobile) {
+          @include fill-parent();
+        }
 
         h4{
           @extend .title-with-shadow;
@@ -135,6 +150,17 @@
             color: #555555;
             font-weight: 200;
           }
+
+          @include media($mobile) {
+            display: block;
+            margin: 0 auto;
+            float: none;
+
+            &:first-of-type{
+              margin-right: auto;
+            }
+
+          }
         }
       }
     }
@@ -157,10 +183,18 @@
         margin-bottom: 0;
         min-width: 235px;
         text-align: center;
+
+        @include media($mobile) {
+          @include span-columns(12);
+        }
       }
 
       #infos{
         @include span-columns(9);
+
+        @include media($mobile) {
+          @include fill-parent();
+        }
         .info{
           text-align: center;
           @include span-columns(3 of 12);
@@ -177,9 +211,15 @@
 
             }
           }
+
+          @include media($mobile) {
+            @include span-columns(12);
+          }
         }
       }
     }
+
+
   }
 
   #news-production{
@@ -225,6 +265,12 @@
 
     #know-more {
       @include span-columns(3);
+
+      @include media($mobile) {
+        @include span-columns(12);
+        padding: 10px;
+      }
+
       .news{
         max-height: 57px;
         overflow: hidden;
@@ -258,12 +304,21 @@
 
     #others-container{
       @include span-columns(9);
+      @include media($mobile) {
+        @include span-columns(12);
+      }
+
       border-left: solid 1px #b7b7b7;
       min-height: 572px;
 
       #keep-an-eye{
         padding-left: 16px;
         @include span-columns(4 of 9);
+
+        @include media($mobile) {
+          @include span-columns(12);
+          padding: 10px;
+        }
         .news{
 
           position: relative;
@@ -299,6 +354,31 @@
       #others{
         @include span-columns(5 of 9);
         @include omega();
+
+        @include media($mobile) {
+          @include span-columns(12);
+          padding: 10px;
+        }
+
+        #video {
+          @include span-columns(12);
+
+          .news{
+            @include span-columns(6 of 12);
+
+            @include media($mobile) {
+              @include fill-parent();
+              margin-bottom: 20px;
+              iframe {
+                min-height: 230px;
+              }
+            }
+
+            img {
+              height: 120px;
+            }
+          }
+        }
       }
 
       .news{
@@ -319,23 +399,26 @@
       }
 
 
-      #video {
-        @include span-columns(12);
 
-        .news{
-          @include span-columns(6 of 12);
-          img {
-            height: 120px;
-          }
-        }
-      }
 
       #our-historic {
         @include span-columns(12);
 
         padding: 20px 130px;
+
+        @include media($mobile) {
+          padding: 10px;
+        }
         .news{
           @include span-columns(4 of 12);
+
+          @include media($mobile) {
+            @include fill-parent();
+            float: none;
+            max-width: 200px;
+            margin: 25px auto !important;
+          }
+
           a {
             text-align: center;
             color: $mst-green;
@@ -384,11 +467,22 @@
 
       #text{
         @include span-columns(5);
+        @include media($mobile) {
+          @include fill-parent();
+          padding: 10px;
+        }
       }
 
       #gallery{
         @include shift(1);
         @include span-columns(6);
+
+        @include media($mobile) {
+          @include fill-parent();
+          padding: 10px;
+          margin: 0;
+        }
+
         overflow: hidden;
         position: relative;
         margin-top: 17px;
@@ -406,6 +500,15 @@
         }
 
         figure{
+
+          @include media($mobile) {
+
+            min-width: 100%;
+
+            img {
+              width: 100%;
+            }
+          }
           margin: 0;
           text-align: center;
           position: relative;
@@ -458,7 +561,7 @@
             }
           }
           a.arrow.right{
-            left: 497px;
+            right: -26px;
             bottom: 11%;
             padding-left: 11px;
             &:before{
