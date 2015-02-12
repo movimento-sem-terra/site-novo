@@ -18,12 +18,10 @@ created_date: "2015-02-12T10:25:12-02:00"
 published: true
 images_hd: "http://farm8.staticflickr.com/7386/16323304599_17d21381d7_n.jpg"
 releated_posts:
-  - 2014/12/2014-11-24-pec-sobre-demarcacao-de-terras-indigenas-deve-voltar-a-tona-em-2015.md
-  - 2014/12/2014-12-04-ruralistas-ampliam-ataque-aos-direitos-fundiarios-dos-povos-indigenas.md
   - 2014/12/2014-12-11-manobra-ruralista-adia-votacao-da-pec-sobre-terras-indigenas.md
   - 2014/12/2014-12-15-relatorio-da-pec-215-e-uma-aberracao-anticonstitucional-e-anti-indigena.md
   - 2014/12/2014-12-16-os-interesses-dos-parlamentares-que-querem-aprovar-a-pec-215.md
-  - 2015/01/2014-12-19-indigenas-acham-precipitado-comemorar-arquivamento-da-pec-215.md
+  - 2014/12/2014-12-04-ruralistas-ampliam-ataque-aos-direitos-fundiarios-dos-povos-indigenas.md
 
 ---
 <p><br />
