@@ -9,27 +9,26 @@ support_line: "Mais antiga escola de samba de Maceió, Unidos do Poço traz à a
 menu: "educação, cultura e comunicação"
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8588/16323375617_b3c2c440f9_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8588/16323375617_b3c2c440f9_t.jpg"
-    medium: "http://farm9.staticflickr.com/8588/16323375617_b3c2c440f9_z.jpg"
-    small: "http://farm9.staticflickr.com/8588/16323375617_b3c2c440f9_n.jpg"
-    title: UNIDOS MST_AL.jpg
-    $$hashKey: 02A
+  - link: "http://farm9.staticflickr.com/8680/16483328376_f789745575_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8680/16483328376_f789745575_t.jpg"
+    medium: "http://farm9.staticflickr.com/8680/16483328376_f789745575_z.jpg"
+    small: "http://farm9.staticflickr.com/8680/16483328376_f789745575_n.jpg"
+    title: UNIDOS MST AL.jpg
+    $$hashKey: 095
 created_date: "2015-02-12T09:32:52-02:00"
 published: true
-images_hd: "http://farm9.staticflickr.com/8588/16323375617_b3c2c440f9_n.jpg"
+images_hd: "http://farm9.staticflickr.com/8680/16483328376_f789745575_n.jpg"
 releated_posts:
   - 2015/02/2015-02-11-abram-alas-a-unidos-da-lona-preta.md
 
 ---
 <p>&nbsp;</p>
 
-<figure class="image"><img alt="UNIDOS MST_AL.jpg" src="http://farm9.staticflickr.com/8588/16323375617_b3c2c440f9_b.jpg" />
+<figure class="image"><img alt="UNIDOS MST AL.jpg" src="http://farm9.staticflickr.com/8680/16483328376_f789745575_b.jpg" />
 <figcaption>Foto: Gustavo Marinho</figcaption>
 </figure>
 
 <p><br />
-<br />
 <em>Por Rafael Soriano<br />
 Da P&aacute;gina do MST</em></p>
 
