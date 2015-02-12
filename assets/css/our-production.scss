@@ -323,30 +323,41 @@ $mobile: new-breakpoint(max-width 768px);
 
           position: relative;
           @include fill-parent();
+          a {
 
-          img {
-            height: auto;
-            max-height: 219px;
-          }
+            display: block;
+            img {
 
-          span {
-            position: absolute;
-            bottom: 8px;
-            left: 0;
-            color: white;
-            text-align: center;
-            padding: 10% 10px 10px 10px;
-            font-size: 1.07em;
-            @include linear-gradient(transparent, rgba(0, 0, 0, .7));
-            transition-duration: .5s;
-          }
+              @include media($mobile) {
+                max-height: 100%;
+              }
 
-          &:hover {
+              height: auto;
+              max-height: 219px;
+              display: block;
+            }
+
             span {
-              padding-top: 50%;
-              text-decoration: underline;
+              position: absolute;
+              bottom: 5px;
+              left: 0;
+              color: white;
+              text-align: center;
+              padding: 10% 10px 10px 10px;
+              font-size: 1.07em;
+              @include linear-gradient(transparent, rgba(0, 0, 0, .7));
+              transition-duration: .5s;
+              width: 100%;
+            }
+
+            &:hover {
+              span {
+                padding-top: 50%;
+                text-decoration: underline;
+              }
             }
           }
+
         }
       }
 
@@ -605,5 +616,6 @@ $mobile: new-breakpoint(max-width 768px);
 
   .ask-us {
     @extend .ask-us-default;
+    min-height: 150px;
   }
 }
