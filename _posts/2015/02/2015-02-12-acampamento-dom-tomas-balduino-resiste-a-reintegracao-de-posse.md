@@ -1,5 +1,5 @@
 ---
-date: "2015-02-12T13:24:28-03:00"
+date: "2015-02-12T14:24:28-02:00"
 tags:
   - tag: Acampamento-Dom-Tomás-Balduíno
   - tag: Agropecuária-Santa-Mônica
@@ -22,18 +22,18 @@ created_date: "2015-02-12T14:13:15-03:00"
 published: true
 images_hd: "http://farm8.staticflickr.com/7284/15891398283_803997f9b3_n.jpg"
 releated_posts:
+  - 2014/12/2014-11-18-sem-terra-iniciam-greve-de-fome-contra-despejo-da-area-de-eunicio-de-oliveira.md
   - 2014/07/2014-07-17-familias-sem-terra-seguem-na-luta-por-area-grilada-em-abelardo-luz.md
-  - 2014/09/2014-09-09-mst-denuncia-violacao-de-direitos-humanos-no-acampamento-dom-tomas-balduino.md
   - 2014/09/2014-09-05-cpt-declara-solidariedade-aos-ocupantes-da-fazenda-santa-monica.md
   - 2014/10/2014-09-15-manifestacao-na-ocupacao-dom-tomas-em-corumba-de-goias.md
   - 2014/11/2014-10-09-sem-terra-marcham-pela-desapropriacao-da-fazenda-de-eunicio-de-oliveira.md
   - 2014/11/2014-10-09-programa-contra-corrente-no-acampamento-dom-tomas-balduino.md
   - 2014/11/2014-10-13-a-boiada-de-eunicio.md
-  - 2014/12/2014-11-18-sem-terra-iniciam-greve-de-fome-contra-despejo-da-area-de-eunicio-de-oliveira.md
+  - 2014/09/2014-09-09-mst-denuncia-violacao-de-direitos-humanos-no-acampamento-dom-tomas-balduino.md
   - 2014/12/2014-12-01-no-rs-mst-reune-amigos-e-aliados-para-comemorar-30-anos-de-luta.md
   - 2015/01/2015-01-06-em-nota-cimi-repudia-declaracoes-de-katia-abreu.md
-  - 2015/02/2015-01-30-patrus-x-katia-sao-tomas-e-ernani-maria-fiori-explicam.md
   - 2015/01/2015-01-30-patrus-x-katia-sao-tomas-e-ernani-maria-fiori-explicam.md
+  - 2015/02/2015-01-30-patrus-x-katia-sao-tomas-e-ernani-maria-fiori-explicam.md
   - 2014/10/2014-10-02-mst-exige-desapropriacao-da-fazenda-da-senadora-ana-amelia.md
   - 2015/01/2015-01-12-katia-abreu-a-ministra-que-desmata-a-razao.md
   - 2015/01/2015-01-12-cpt-considera-reforma-agraria-do-governo-dilma-a-pior-dos-ultimos-20-anos.md
@@ -42,23 +42,27 @@ releated_posts:
 <p style="text-align:center"><img alt="dom tomas.jpg" height="367" src="http://farm8.staticflickr.com/7284/15891398283_803997f9b3_b.jpg" width="550" /></p>
 
 <p><br />
-<br />
 <em>Da P&aacute;gina do MST</em></p>
 
-<p>Nesta quinta-feira (12/02), militantes do MST protocolaram recurso no Tribunal de Justi&ccedil;a de Goi&aacute;s para suspender os efeitos da senten&ccedil;a de reintegra&ccedil;&atilde;o de posse proferida pelo ju&iacute;z de Corumb&aacute; ao acampamento Dom Tom&aacute;s Baldu&iacute;no.</p>
-
-<p>A ocupa&ccedil;&atilde;o, que teve in&iacute;cio em outubro de 2014, se d&aacute; na Agropecu&aacute;ria Santa M&ocirc;nica, e conta com mais de 3000 Sem Terra. Os mais de 20 mil hectares da &aacute;rea s&atilde;o propriedade de Eun&iacute;cio de Oliveira, latifundi&aacute;rio, Senador e ex-ministro das comunica&ccedil;&otilde;es do governo Lula.<br />
-<br />
-Em carta entregue aos desembargadores, o Movimento afirma que &quot;&eacute; de se salientar a enorme press&atilde;o pol&iacute;tica constante no caso, que proporcionou abusivas decis&otilde;es judiciais emanadas pelo ju&iacute;zo local de Corumb&aacute;, deferindo por mais de uma ocasi&atilde;o a liminar possess&oacute;ria sem qualquer intento de media&ccedil;&atilde;o do grave conflito coletivo l&aacute; instaurado, obstaculizando at&eacute; mesmo a entrada de alimento para as fam&iacute;lias&quot;.<br />
-<br />
-A carta pede que o Judici&aacute;rio seja o moderador de negocia&ccedil;&otilde;es pac&iacute;ficas, para assentar as fam&iacute;lias.&quot;N&oacute;s, portanto, signat&aacute;rios desta carta, clamamos a esta Colenda Corte Judici&aacute;ria para que assuma o importante papel de mediador da resolu&ccedil;&atilde;o pac&iacute;fica do conflito, que encontra como melhor op&ccedil;&atilde;o a destina&ccedil;&atilde;o das &aacute;reas do Complexo Santa M&ocirc;nica para o assentamento das fam&iacute;lias ocupantes, mediante justa indeniza&ccedil;&atilde;o do propriet&aacute;rio &ndash; no que se refere &agrave;s &aacute;reas que comprovadamente estejam sob seu dom&iacute;nio&quot;.<br />
-<br />
-Confira abaixo a carta na &iacute;ntegra:</p>
+<p><br />
+Nesta quinta-feira (12/02), militantes do MST protocolaram recurso no Tribunal de Justi&ccedil;a de Goi&aacute;s para suspender os efeitos da senten&ccedil;a de reintegra&ccedil;&atilde;o de posse proferida pelo ju&iacute;z de Corumb&aacute; ao acampamento Dom Tom&aacute;s Baldu&iacute;no.</p>
 
 <p><br />
-<strong>CARTA ABERTA EM APOIO AO ACAMPAMENTO DOM TOM&Aacute;S BALDU&Iacute;NO</strong><br />
-<br />
-<br />
+A ocupa&ccedil;&atilde;o, que teve in&iacute;cio em outubro de 2014, se d&aacute; na Agropecu&aacute;ria Santa M&ocirc;nica, e conta com mais de 3000 Sem Terra. Os mais de 20 mil hectares da &aacute;rea s&atilde;o propriedade de Eun&iacute;cio de Oliveira, latifundi&aacute;rio, Senador e ex-ministro das comunica&ccedil;&otilde;es do governo Lula.</p>
+
+<p><br />
+Em carta entregue aos desembargadores, o Movimento afirma que &quot;&eacute; de se salientar a enorme press&atilde;o pol&iacute;tica constante no caso, que proporcionou abusivas decis&otilde;es judiciais emanadas pelo ju&iacute;zo local de Corumb&aacute;, deferindo por mais de uma ocasi&atilde;o a liminar possess&oacute;ria sem qualquer intento de media&ccedil;&atilde;o do grave conflito coletivo l&aacute; instaurado, obstaculizando at&eacute; mesmo a entrada de alimento para as fam&iacute;lias&quot;.</p>
+
+<p><br />
+A carta pede que o Judici&aacute;rio seja o moderador de negocia&ccedil;&otilde;es pac&iacute;ficas, para assentar as fam&iacute;lias.&quot;N&oacute;s, portanto, signat&aacute;rios desta carta, clamamos a esta Colenda Corte Judici&aacute;ria para que assuma o importante papel de mediador da resolu&ccedil;&atilde;o pac&iacute;fica do conflito, que encontra como melhor op&ccedil;&atilde;o a destina&ccedil;&atilde;o das &aacute;reas do Complexo Santa M&ocirc;nica para o assentamento das fam&iacute;lias ocupantes, mediante justa indeniza&ccedil;&atilde;o do propriet&aacute;rio &ndash; no que se refere &agrave;s &aacute;reas que comprovadamente estejam sob seu dom&iacute;nio&quot;.</p>
+
+<p><br />
+Confira abaixo a carta na &iacute;ntegra:</p>
+
+<p style="text-align: center;"><br />
+<strong>CARTA ABERTA EM APOIO AO ACAMPAMENTO DOM TOM&Aacute;S BALDU&Iacute;NO</strong></p>
+
+<p style="text-align: right;"><br />
 &ldquo;Artigo XIII.<br />
 Fica decretado que o dinheiro<br />
 n&atilde;o poder&aacute; nunca mais comprar<br />
@@ -69,49 +73,62 @@ para defender o direito de cantar<br />
 e a festa do dia que chegou.&rdquo;<br />
 Thiago de Mello</p>
 
-<p>Ilustr&iacute;ssimos Senhores Desembargadores da Colenda 4&ordf; C&acirc;mara C&iacute;vel do Egr&eacute;gio Tribunal de Justi&ccedil;a do Estado de Goi&aacute;s, Des. Gilberto Marques Filho,Des. Carlos Escher, Des. Kisleu Dias Maciel Filho, Des&ordf;.&nbsp; Elizabeth Maria da Silva, e o eminente Relator, Juiz Convocado de 2&ordm; Grau, Dr. Marcus Da Costa Ferreira.<br />
-<br />
-Ao cumpriment&aacute;-los cordialmente, os signat&aacute;rios, por meio desta, v&ecirc;m, diante da grande repercuss&atilde;o nacional do caso, apresentar nossa aten&ccedil;&atilde;o e cuidado com o julgamento do Agravo de Instrumento n. n. 201494337797, em tr&acirc;mite perante esta C&acirc;mara Julgadora, que, em s&iacute;ntese, trata de a&ccedil;&atilde;o possess&oacute;ria promovida pela empresa Agropecu&aacute;ria Santa M&ocirc;nica, de propriedade do Senador da Rep&uacute;blica Eun&iacute;cio de Oliveira, em face de milhares de fam&iacute;lias sem-terra que desde o dia 31 de agosto de 2014 ocupam uma pequena parcela do gigantesco complexo das Fazendas da Agropecu&aacute;ria regi&atilde;o de Corumb&aacute; de Goi&aacute;s (GO).<br />
-<br />
-Esta ocupa&ccedil;&atilde;o, cujo nome homenageia o saudoso Bispo Em&eacute;rito da Diocese de Goi&aacute;s, Dom Tom&aacute;s Baldu&iacute;no, homem que dedicou a vida na luta pela efetiva&ccedil;&atilde;o dos Direitos Humanos no Brasil, chamou aten&ccedil;&atilde;o do pa&iacute;s, mais uma vez, sobre as graves contradi&ccedil;&otilde;es sociais frutos da concentra&ccedil;&atilde;o fundi&aacute;ria nestas terras. Ademais, revelou tamb&eacute;m uma cadeia de suspeitas sobre a regularidade e legalidade das propriedades que comp&otilde;em o complexo da Fazenda Santa M&ocirc;nica.<br />
-<br />
-O hist&oacute;rico de aquisi&ccedil;&atilde;o daquelas terras, destacado em document&aacute;rios e relatos, denuncia o uso da for&ccedil;a f&iacute;sica, econ&ocirc;mica e pol&iacute;tica para expulsar centenas de fam&iacute;lias camponesas da regi&atilde;o ao longo dos &uacute;ltimos 20 anos.<br />
-<br />
-<br />
-Buscando de forma organizada exigir a realiza&ccedil;&atilde;o da Reforma Agr&aacute;ria e atender a necessidade de acesso &agrave; terra de fam&iacute;lias da regi&atilde;o metropolitana de Goi&acirc;nia, An&aacute;polis e do Distrito Federal, o Movimento dos Trabalhadores e Trabalhadoras Rurais Sem Terra &ndash; MST &ndash; realizou a sobredita ocupa&ccedil;&atilde;o.<br />
-<br />
-No acampamento Dom Tom&aacute;s Baldu&iacute;no hoje se encontram aproximadamente 3.000 (tr&ecirc;s mil) fam&iacute;lias, a grande maioria efetivamente morando na ocupa&ccedil;&atilde;o, produzindo uma grande variedade de alimentos org&acirc;nicos que servem para alimenta&ccedil;&atilde;o das pessoas l&aacute; residentes, para doa&ccedil;&atilde;o a fam&iacute;lias carentes, e para comercializa&ccedil;&atilde;o nas cidades de Corumb&aacute; e Alex&acirc;nia.<br />
-<br />
-<br />
-H&aacute; tamb&eacute;m no acampamento grande n&uacute;mero de crian&ccedil;as e adolescentes, e avan&ccedil;ado processo de constitui&ccedil;&atilde;o de uma Escola Itinerante na pr&oacute;pria ocupa&ccedil;&atilde;o, caminho esse constru&iacute;do com a Secretaria Estadual de Educa&ccedil;&atilde;o de Goi&aacute;s e da Prefeitura Municipal de Corumb&aacute;.<br />
-<br />
-<br />
-&Eacute; de se salientar a enorme press&atilde;o pol&iacute;tica constante no caso, que proporcionou abusivas decis&otilde;es judiciais emanadas pelo ju&iacute;zo local de Corumb&aacute;, deferindo por mais de uma ocasi&atilde;o a liminar possess&oacute;ria sem qualquer intento de media&ccedil;&atilde;o do grave conflito coletivo l&aacute; instaurado, obstaculizando at&eacute; mesmo a entrada de alimento para as fam&iacute;lias.<br />
-<br />
-As pr&oacute;prias autoridades policiais que atuaram na media&ccedil;&atilde;o do conflito nos primeiros meses revelaram que um despejo for&ccedil;ado poder&aacute; ter consequ&ecirc;ncias tr&aacute;gicas, dado o despreparo da Pol&iacute;cia Militar para este tipo de opera&ccedil;&atilde;o e a disposi&ccedil;&atilde;o das fam&iacute;lias em serem assentadas na &aacute;rea. Ademais, o despejo n&atilde;o resolver&aacute; o conflito, pois as fam&iacute;lias n&atilde;o t&ecirc;m mais para onde ir, afinal, abandonaram as casas que alugavam e os empregos prec&aacute;rios que possu&iacute;am.<br />
-<br />
-<br />
-N&atilde;o obstante, ao apreciar o caso em segunda inst&acirc;ncia, o eminente relator, com cautela e maestria, ponderou ser mais adequado suspender monocraticamente o despejo for&ccedil;ado das mais de 3.000 (tr&ecirc;s mil) fam&iacute;lias ocupantes, asseverando com brilhantismo em sua decis&atilde;o que &ldquo;(...) N&atilde;o cumpre ao Poder Judici&aacute;rio, distanciando-se das mazelas dos cidad&atilde;os, se entrincheirar sobre a espessa textura da lei, para emanar decis&otilde;es que possam produzir efeitos sociais danosos, sen&atilde;o desastrosos.&rdquo;.<br />
-<br />
-Ao compreendermos que o Estado Democr&aacute;tico de Direito por meio da Constitui&ccedil;&atilde;o Federal de 1988 assegurou a efetiva&ccedil;&atilde;o dos direitos fundamentais &agrave; liberdade, &agrave; seguran&ccedil;a, ao bem-estar, &agrave; igualdade e &agrave; justi&ccedil;a, proporcionou tamb&eacute;m a cria&ccedil;&atilde;o de uma nova sistem&aacute;tica sobre o direito de propriedade, constitucionalizando e publicizando sua defini&ccedil;&atilde;o, ao abarcar na pr&oacute;pria g&ecirc;nese deste conceito a exig&ecirc;ncia de cumprimento da sua fun&ccedil;&atilde;o social.<br />
-<br />
+<p><br />
+Ilustr&iacute;ssimos Senhores Desembargadores da Colenda 4&ordf; C&acirc;mara C&iacute;vel do Egr&eacute;gio Tribunal de Justi&ccedil;a do Estado de Goi&aacute;s, Des. Gilberto Marques Filho,Des. Carlos Escher, Des. Kisleu Dias Maciel Filho, Des&ordf;.&nbsp; Elizabeth Maria da Silva, e o eminente Relator, Juiz Convocado de 2&ordm; Grau, Dr. Marcus Da Costa Ferreira.</p>
+
+<p><br />
+Ao cumpriment&aacute;-los cordialmente, os signat&aacute;rios, por meio desta, v&ecirc;m, diante da grande repercuss&atilde;o nacional do caso, apresentar nossa aten&ccedil;&atilde;o e cuidado com o julgamento do Agravo de Instrumento n. n. 201494337797, em tr&acirc;mite perante esta C&acirc;mara Julgadora, que, em s&iacute;ntese, trata de a&ccedil;&atilde;o possess&oacute;ria promovida pela empresa Agropecu&aacute;ria Santa M&ocirc;nica, de propriedade do Senador da Rep&uacute;blica Eun&iacute;cio de Oliveira, em face de milhares de fam&iacute;lias sem-terra que desde o dia 31 de agosto de 2014 ocupam uma pequena parcela do gigantesco complexo das Fazendas da Agropecu&aacute;ria regi&atilde;o de Corumb&aacute; de Goi&aacute;s (GO).</p>
+
+<p><br />
+Esta ocupa&ccedil;&atilde;o, cujo nome homenageia o saudoso Bispo Em&eacute;rito da Diocese de Goi&aacute;s, Dom Tom&aacute;s Baldu&iacute;no, homem que dedicou a vida na luta pela efetiva&ccedil;&atilde;o dos Direitos Humanos no Brasil, chamou aten&ccedil;&atilde;o do pa&iacute;s, mais uma vez, sobre as graves contradi&ccedil;&otilde;es sociais frutos da concentra&ccedil;&atilde;o fundi&aacute;ria nestas terras. Ademais, revelou tamb&eacute;m uma cadeia de suspeitas sobre a regularidade e legalidade das propriedades que comp&otilde;em o complexo da Fazenda Santa M&ocirc;nica.</p>
+
+<p><br />
+O hist&oacute;rico de aquisi&ccedil;&atilde;o daquelas terras, destacado em document&aacute;rios e relatos, denuncia o uso da for&ccedil;a f&iacute;sica, econ&ocirc;mica e pol&iacute;tica para expulsar centenas de fam&iacute;lias camponesas da regi&atilde;o ao longo dos &uacute;ltimos 20 anos.</p>
+
+<p><br />
+Buscando de forma organizada exigir a realiza&ccedil;&atilde;o da Reforma Agr&aacute;ria e atender a necessidade de acesso &agrave; terra de fam&iacute;lias da regi&atilde;o metropolitana de Goi&acirc;nia, An&aacute;polis e do Distrito Federal, o Movimento dos Trabalhadores e Trabalhadoras Rurais Sem Terra &ndash; MST &ndash; realizou a sobredita ocupa&ccedil;&atilde;o.</p>
+
+<p><br />
+No acampamento Dom Tom&aacute;s Baldu&iacute;no hoje se encontram aproximadamente 3.000 (tr&ecirc;s mil) fam&iacute;lias, a grande maioria efetivamente morando na ocupa&ccedil;&atilde;o, produzindo uma grande variedade de alimentos org&acirc;nicos que servem para alimenta&ccedil;&atilde;o das pessoas l&aacute; residentes, para doa&ccedil;&atilde;o a fam&iacute;lias carentes, e para comercializa&ccedil;&atilde;o nas cidades de Corumb&aacute; e Alex&acirc;nia.</p>
+
+<p><br />
+H&aacute; tamb&eacute;m no acampamento grande n&uacute;mero de crian&ccedil;as e adolescentes, e avan&ccedil;ado processo de constitui&ccedil;&atilde;o de uma Escola Itinerante na pr&oacute;pria ocupa&ccedil;&atilde;o, caminho esse constru&iacute;do com a Secretaria Estadual de Educa&ccedil;&atilde;o de Goi&aacute;s e da Prefeitura Municipal de Corumb&aacute;.</p>
+
+<p><br />
+&Eacute; de se salientar a enorme press&atilde;o pol&iacute;tica constante no caso, que proporcionou abusivas decis&otilde;es judiciais emanadas pelo ju&iacute;zo local de Corumb&aacute;, deferindo por mais de uma ocasi&atilde;o a liminar possess&oacute;ria sem qualquer intento de media&ccedil;&atilde;o do grave conflito coletivo l&aacute; instaurado, obstaculizando at&eacute; mesmo a entrada de alimento para as fam&iacute;lias.</p>
+
+<p><br />
+As pr&oacute;prias autoridades policiais que atuaram na media&ccedil;&atilde;o do conflito nos primeiros meses revelaram que um despejo for&ccedil;ado poder&aacute; ter consequ&ecirc;ncias tr&aacute;gicas, dado o despreparo da Pol&iacute;cia Militar para este tipo de opera&ccedil;&atilde;o e a disposi&ccedil;&atilde;o das fam&iacute;lias em serem assentadas na &aacute;rea. Ademais, o despejo n&atilde;o resolver&aacute; o conflito, pois as fam&iacute;lias n&atilde;o t&ecirc;m mais para onde ir, afinal, abandonaram as casas que alugavam e os empregos prec&aacute;rios que possu&iacute;am.</p>
+
+<p><br />
+N&atilde;o obstante, ao apreciar o caso em segunda inst&acirc;ncia, o eminente relator, com cautela e maestria, ponderou ser mais adequado suspender monocraticamente o despejo for&ccedil;ado das mais de 3.000 (tr&ecirc;s mil) fam&iacute;lias ocupantes, asseverando com brilhantismo em sua decis&atilde;o que &ldquo;(...) N&atilde;o cumpre ao Poder Judici&aacute;rio, distanciando-se das mazelas dos cidad&atilde;os, se entrincheirar sobre a espessa textura da lei, para emanar decis&otilde;es que possam produzir efeitos sociais danosos, sen&atilde;o desastrosos.&rdquo;.</p>
+
+<p><br />
+Ao compreendermos que o Estado Democr&aacute;tico de Direito por meio da Constitui&ccedil;&atilde;o Federal de 1988 assegurou a efetiva&ccedil;&atilde;o dos direitos fundamentais &agrave; liberdade, &agrave; seguran&ccedil;a, ao bem-estar, &agrave; igualdade e &agrave; justi&ccedil;a, proporcionou tamb&eacute;m a cria&ccedil;&atilde;o de uma nova sistem&aacute;tica sobre o direito de propriedade, constitucionalizando e publicizando sua defini&ccedil;&atilde;o, ao abarcar na pr&oacute;pria g&ecirc;nese deste conceito a exig&ecirc;ncia de cumprimento da sua fun&ccedil;&atilde;o social.</p>
+
+<p><br />
 Entendemos que o Agravo de Instrumento em quest&atilde;o precisa ser apreciado &agrave; luz da efetiva&ccedil;&atilde;o dos Direitos Fundamentais e do Direito Agr&aacute;rio. Como bem leciona a mais apurada doutrina sobre o tema e in&uacute;meros precedentes judiciais, nestes casos, al&eacute;m do atento cuidado processual, imperiosa an&aacute;lise e manifesta&ccedil;&atilde;o acerca da efetividade dos art. 5&ordm;, XXIII, art. 184, art. 185, art. 186, art. 170, III, todos da Constitui&ccedil;&atilde;o Federal, assim como do art. 1228 do C&oacute;digo Civil, do art. 928 do C&oacute;digo de Processo Civil, do quanto constante na Lei n&ordm; 8.629/93 (Lei da Reforma Agr&aacute;ria), bem como na recepcionada Lei n&ordm; 4.504/64 (Estatuto da Terra), que imp&otilde;em em nosso ordenamento o dever de comprova&ccedil;&atilde;o do cumprimento da fun&ccedil;&atilde;o social da propriedade.</p>
 
 <p><br />
 N&oacute;s, portanto, signat&aacute;rios desta carta, clamamos a esta Colenda Corte Judici&aacute;ria para que assuma o importante papel de mediador da resolu&ccedil;&atilde;o pac&iacute;fica do conflito, que encontra como melhor op&ccedil;&atilde;o a destina&ccedil;&atilde;o das &aacute;reas do Complexo Santa M&ocirc;nica para o assentamento das fam&iacute;lias ocupantes, mediante justa indeniza&ccedil;&atilde;o do propriet&aacute;rio &ndash; no que se refere &agrave;s &aacute;reas que comprovadamente estejam sob seu dom&iacute;nio.</p>
 
-<p>Esse &eacute; o caminho encontrado em casos muito similares que se desenrolam concomitante &agrave; ocupa&ccedil;&atilde;o Dom Tom&aacute;s Baldu&iacute;no, como a grande ocupa&ccedil;&atilde;o da fazenda Giacometti, da empresa Araopel, no estado do Paran&aacute;, bem como em outros recentes conflitos registrados na Bahia, Sergipe e Rio Grande do Norte, nos quais o despejo for&ccedil;ado foi relegado em prol da media&ccedil;&atilde;o pac&iacute;fica para solu&ccedil;&atilde;o do conflito.<br />
-<br />
-Mediante as sucessivas demonstra&ccedil;&otilde;es do Governo Federal em negociar a compra do im&oacute;vel, e o interesse e voca&ccedil;&atilde;o concreta das fam&iacute;lias acampadas, entendemos que a concretiza&ccedil;&atilde;o do assentamento &eacute; um singular sinal de justi&ccedil;a social, aten&ccedil;&atilde;o com a alimenta&ccedil;&atilde;o saud&aacute;vel da popula&ccedil;&atilde;o urbana e rural, e, um grande incentivo ao desenvolvimento e dinamismo econ&ocirc;mico da regi&atilde;o.<br />
-<br />
-<br />
-Renovando sauda&ccedil;&otilde;es de estima e apre&ccedil;o, desejamos a realiza&ccedil;&atilde;o de um julgamento soberano e imparcial, de acordo com os preceitos insculpidos na Constitui&ccedil;&atilde;o Federal, para promover ao seu final uma decis&atilde;o justa, resguardando, assim, o Estado Democr&aacute;tico de Direito.<br />
-<br />
-Brasil, Janeiro de 2015.<br />
-<br />
-<strong>Assinam a carta</strong><br />
-<br />
-Horacio Martins de Carvalho<br />
+<p><br />
+Esse &eacute; o caminho encontrado em casos muito similares que se desenrolam concomitante &agrave; ocupa&ccedil;&atilde;o Dom Tom&aacute;s Baldu&iacute;no, como a grande ocupa&ccedil;&atilde;o da fazenda Giacometti, da empresa Araopel, no estado do Paran&aacute;, bem como em outros recentes conflitos registrados na Bahia, Sergipe e Rio Grande do Norte, nos quais o despejo for&ccedil;ado foi relegado em prol da media&ccedil;&atilde;o pac&iacute;fica para solu&ccedil;&atilde;o do conflito.</p>
+
+<p><br />
+Mediante as sucessivas demonstra&ccedil;&otilde;es do Governo Federal em negociar a compra do im&oacute;vel, e o interesse e voca&ccedil;&atilde;o concreta das fam&iacute;lias acampadas, entendemos que a concretiza&ccedil;&atilde;o do assentamento &eacute; um singular sinal de justi&ccedil;a social, aten&ccedil;&atilde;o com a alimenta&ccedil;&atilde;o saud&aacute;vel da popula&ccedil;&atilde;o urbana e rural, e, um grande incentivo ao desenvolvimento e dinamismo econ&ocirc;mico da regi&atilde;o.</p>
+
+<p><br />
+Renovando sauda&ccedil;&otilde;es de estima e apre&ccedil;o, desejamos a realiza&ccedil;&atilde;o de um julgamento soberano e imparcial, de acordo com os preceitos insculpidos na Constitui&ccedil;&atilde;o Federal, para promover ao seu final uma decis&atilde;o justa, resguardando, assim, o Estado Democr&aacute;tico de Direito.</p>
+
+<p><br />
+Brasil, Janeiro de 2015.</p>
+
+<p><br />
+<strong>Assinam a carta</strong></p>
+
+<p><br />
+Hor&aacute;cio Martins de Carvalho<br />
 Pedro Munhoz<br />
 M&ocirc;nica Dias Martins &ndash; Professora Da Universidade Estadual Do Cear&aacute;<br />
 Jos&eacute; Paulo Pietrafesa &ndash; UFG<br />
@@ -265,9 +282,10 @@ Maria Dulcid&eacute;a<br />
 Leila Santana - Advogada Popular, OAB/BA 40.185 - Coletivo Jur&iacute;dico Nacional do MPA.</p>
 
 <p><br />
-ENTIDADES:</p>
+<strong>ENTIDADES:</strong></p>
 
-<p>Terra de Direitos - Organiza&ccedil;&atilde;o de Direitos Humanos<br />
+<p><br />
+Terra de Direitos - Organiza&ccedil;&atilde;o de Direitos Humanos<br />
 F&oacute;rum Mudan&ccedil;as Clim&aacute;ticas e Justi&ccedil;a Social<br />
 FIAN Brasil - Rede de Informa&ccedil;&atilde;o e A&ccedil;&atilde;o pelo Direito a se Alimenta<br />
 Dignitatis - Assessoria T&eacute;cnica Popular<br />
@@ -282,7 +300,3 @@ Instituto Pastoral de Educa&ccedil;&atilde;o em Sa&uacute;de Popular (IPESP)<br 
 Associaci&oacute; Araguaia ambelBisbePereCasald&agrave;liga-Barcelona &ndash; Spain<br />
 KOINONIA Presen&ccedil;a Ecum&ecirc;nica e Servi&ccedil;o<br />
 CESE - Coordenadoria Ecum&ecirc;nica de Servi&ccedil;o</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
