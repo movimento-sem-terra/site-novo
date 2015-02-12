@@ -30,8 +30,6 @@ releated_posts:
 <em>Por Paulo Victor Chagas<br />
 Da Ag&ecirc;ncia Brasil</em></p>
 
-<p>&nbsp;</p>
-
 <p><br />
 Apesar da condena&ccedil;&atilde;o, benef&iacute;cios concedidos no cumprimento da pena a alguns dos r&eacute;us no caso do assassinato da mission&aacute;ria Dorothy Stang mant&ecirc;m a sensa&ccedil;&atilde;o de impunidade comum a casos de homic&iacute;dios no campo. &nbsp;Ela foi morta em Anapu (PA) no dia 12 de fevereiro de 2005.</p>
 
