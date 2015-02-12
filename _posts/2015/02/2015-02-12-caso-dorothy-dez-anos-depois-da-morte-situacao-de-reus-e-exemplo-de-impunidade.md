@@ -4,7 +4,7 @@ tags:
   - tag: pará
   - tag: dorothy-stang
   - tag: viol
-title: "Caso Dorothy: dez anos depois da morte, situação de réus é exemplo de impunidade"
+title: "Caso Dorothy: dez anos depois, situação de réus é exemplo de impunidade"
 support_line: Missionária foi vítima do conflito pela posse da terra no Pará. Morosidade cria sensação de que Justiça do país pode ser parcial e seletiva.
 menu: direitos humanos
 section: cover
