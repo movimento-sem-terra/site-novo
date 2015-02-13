@@ -7,7 +7,7 @@ tags:
 title: "No carnaval de Olinda, MST homenageia a solidariedade do povo cubano"
 support_line: "Esse ano o MST também se somará no fortalecimento do espaço público, na afirmação de um carnaval de rua, sem cercas e sem camarotes."
 menu: "educação, cultura e comunicação"
-section: cover
+section: null
 layout: post
 files:
   - link: "http://farm8.staticflickr.com/7396/16516757611_fd641318c4_b.jpg"
