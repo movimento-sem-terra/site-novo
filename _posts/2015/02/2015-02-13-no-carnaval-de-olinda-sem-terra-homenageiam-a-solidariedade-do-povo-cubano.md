@@ -4,7 +4,7 @@ tags:
   - tag: Cultura
   - tag: carnaval
   - tag: pernambuco
-title: "No carnaval de Olinda, Sem Terra homenageiam a solidariedade do povo cubano"
+title: "No carnaval de Olinda, MST homenageia a solidariedade do povo cubano"
 support_line: "Esse ano o MST também se somará no fortalecimento do espaço público, na afirmação de um carnaval de rua, sem cercas e sem camarotes."
 menu: "educação, cultura e comunicação"
 section: cover
@@ -26,14 +26,14 @@ created_date: "2015-02-13T11:15:10-02:00"
 published: true
 images_hd: "http://farm8.staticflickr.com/7383/16330774788_e691eee11e_n.jpg"
 releated_posts:
+  - 2014/02/2014-02-28-sem-terra-desfilam-com-boneco-de-hugo-chavez-no-carnaval-de-olinda.md
+  - 2014/03/2014-03-06-mst-homenageia-hugo-chavez-no-carnaval-de-olinda.md
   - 2015/02/2015-02-11-abram-alas-a-unidos-da-lona-preta.md
   - 2015/02/2015-02-12-em-alagoas-escola-de-samba-revive-a-luta-pela-terra.md
-  - 2015/02/2015-02-09-mulheres-do-ilu-oba-de-min-se-preparam-para-tocar-os-tambores-no-carnaval-de-sao-paulo.md
 
 ---
-<p>&nbsp;</p>
-
-<p><em>Da P&aacute;gina do MST</em></p>
+<p><br />
+<em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
 Mais um carnaval chegou, e os Sem Terra de Pernambuco j&aacute; se preparam para levar novamente muita alegria &agrave;s ladeiras de Olinda.</p>
