@@ -1,5 +1,5 @@
 ---
-date: "2015-02-13T12:44:07-03:00"
+date: "2015-02-13T13:44:07-02:00"
 tags:
   - tag: violência-no-campo
   - tag: Pará
@@ -11,22 +11,25 @@ support_line: "O número é quase cinco vezes maior que o registrado pelo segund
 menu: agronegócio
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7417/16331808478_c6ea17603b_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7417/16331808478_c6ea17603b_t.jpg"
-    medium: "http://farm8.staticflickr.com/7417/16331808478_c6ea17603b_z.jpg"
-    small: "http://farm8.staticflickr.com/7417/16331808478_c6ea17603b_n.jpg"
-    title: violenciacampo.jpg
-    $$hashKey: 05Q
+  - link: "http://farm8.staticflickr.com/7434/16332328510_a86e1fe4de_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7434/16332328510_a86e1fe4de_t.jpg"
+    medium: "http://farm8.staticflickr.com/7434/16332328510_a86e1fe4de_z.jpg"
+    small: "http://farm8.staticflickr.com/7434/16332328510_a86e1fe4de_n.jpg"
+    title: estrutura judiciário.jpg
+    $$hashKey: 2VF
 created_date: "2015-02-13T12:48:21-03:00"
 published: true
-images_hd: "http://farm8.staticflickr.com/7417/16331808478_c6ea17603b_n.jpg"
+images_hd: "http://farm8.staticflickr.com/7434/16332328510_a86e1fe4de_n.jpg"
 releated_posts:
   - 2015/01/2015-01-14-dorothy-stang-dez-anos-de-impunidade-na-amazonia.md
+  - 2015/02/2015-02-11-dez-anos-apos-o-assassinato-da-irma-dorothy-o-sangue-ainda-corre-na-floresta.md
+  - 2015/02/2015-02-12-caso-dorothy-dez-anos-depois-da-morte-situacao-de-reus-e-exemplo-de-impunidade.md
+  - 2015/02/2015-02-13-cerca-de-300-pessoas-homenageiam-os-10-anos-do-martirio-da-irma-dorothy.md
   - 2015/02/2015-02-12-frei-betto-dorothy-stang-vitima-do-latifundio.md
-  - 2014/06/2014-06-25-juri-popular-de-integrante-da-udr-acusado-de-matar-sem-terra-e-adiado.md
 
 ---
-<p><em>Por Paulo Victor Chagas<br />
+<p><br />
+<em>Por Paulo Victor Chagas<br />
 Da Ag&ecirc;ncia Brasil</em><br />
 &nbsp;</p>
 
