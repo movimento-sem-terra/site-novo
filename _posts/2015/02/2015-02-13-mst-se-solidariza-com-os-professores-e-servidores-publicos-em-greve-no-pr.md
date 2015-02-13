@@ -19,7 +19,10 @@ files:
 created_date: "2015-02-13T10:53:24-02:00"
 published: true
 images_hd: "http://farm9.staticflickr.com/8612/16330883830_d511339983_n.jpg"
-releated_posts: []
+releated_posts:
+  - 2014/12/2014-12-02-de-volta-das-ferias-no-caribe-beto-richa-manda-fechar-escolas-no-parana.md
+  - 2014/12/2014-12-08-justica-proibe-estado-de-fechar-escola-rural-no-parana.md
+  - 2014/12/2014-12-15-manifestantes-ocupam-nucleo-de-educacao-contra-fechamento-de-escolas.md
 section: cover
 
 ---
