@@ -5,7 +5,7 @@ tags:
   - tag: Alagoas
   - tag: Carnaval
 title: "Em Alagoas, escola de samba revive a luta pela terra"
-support_line: "Mais antiga escola de samba de Maceió, Unidos do Poço traz à avenida samba enredo sobre o MST e a luta pela Reforma Agrária Popular."
+support_line: "Mais antiga escola de samba de Maceió, Unidos do Poço traz à avenida samba enredo sobre o MST e a luta pela Reforma Agrária."
 menu: "educação, cultura e comunicação"
 layout: post
 files:
@@ -21,7 +21,6 @@ images_hd: "http://farm9.staticflickr.com/8680/16483328376_f789745575_n.jpg"
 releated_posts:
   - 2015/02/2015-02-11-abram-alas-a-unidos-da-lona-preta.md
   - 2015/02/2015-02-13-no-carnaval-de-olinda-sem-terra-homenageiam-a-solidariedade-do-povo-cubano.md
-  - 2015/01/2015-01-28-mst-digitaliza-seus-primeiros-registros-musicais.md
 section: featured-news
 
 ---
