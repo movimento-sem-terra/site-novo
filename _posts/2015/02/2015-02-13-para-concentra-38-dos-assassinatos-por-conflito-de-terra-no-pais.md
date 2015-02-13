@@ -21,10 +21,8 @@ created_date: "2015-02-13T12:48:21-03:00"
 published: true
 images_hd: "http://farm8.staticflickr.com/7450/16332393460_cb4191f6dc_n.jpg"
 releated_posts:
-  - 2015/01/2015-01-14-dorothy-stang-dez-anos-de-impunidade-na-amazonia.md
   - 2015/02/2015-02-11-dez-anos-apos-o-assassinato-da-irma-dorothy-o-sangue-ainda-corre-na-floresta.md
   - 2015/02/2015-02-12-caso-dorothy-dez-anos-depois-da-morte-situacao-de-reus-e-exemplo-de-impunidade.md
-  - 2015/02/2015-02-13-cerca-de-300-pessoas-homenageiam-os-10-anos-do-martirio-da-irma-dorothy.md
   - 2015/02/2015-02-12-frei-betto-dorothy-stang-vitima-do-latifundio.md
 
 ---
