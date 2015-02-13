@@ -4,7 +4,7 @@ tags:
   - tag: agronegócio
   - tag: agricultura
   - tag: paraguai
-title: "No Paraguai, agricultores se recusam a ingressar no modelo imposto pelo agronegócio"
+title: Agricultores paraguaios intensificam luta contra o modelo do agronegócio
 support_line: "Os pequenos produtores acusam o ministério da Agricultura e Pecuária de agir como uma \"sucursal da Monsanto\"; Todos os incentivos rurais são voltados para a monocultura."
 menu: agronegócio
 layout: post
@@ -20,8 +20,6 @@ published: true
 images_hd: "http://farm9.staticflickr.com/8662/16519262135_15829e4065_n.jpg"
 releated_posts:
   - 2014/05/2014-05-21-no-paraguai-2-detem-80-das-terras.md
-  - 2015/01/2015-01-09-concentracao-de-terra-cresce-e-latifundios-equivalem-a-tres-sergipe.md
-  - 2014/11/2014-10-10-para-pesquisador-agronegocio-e-o-principal-inimigo-da-amazonia.md
 
 ---
 <p><img alt="manifestação dos produtores de Chia.jpg" src="http://farm9.staticflickr.com/8662/16519262135_15829e4065_b.jpg" /></p>
