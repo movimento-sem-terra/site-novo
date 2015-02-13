@@ -21,20 +21,24 @@ images_hd: "http://farm8.staticflickr.com/7460/16332687947_78e11d1131_n.jpg"
 releated_posts:
   - 2015/01/2015-01-14-dorothy-stang-dez-anos-de-impunidade-na-amazonia.md
   - 2015/02/2015-02-11-dez-anos-apos-o-assassinato-da-irma-dorothy-o-sangue-ainda-corre-na-floresta.md
+  - 2014/06/2014-06-30-em-nota-cpt-denuncia-prisao-do-militante-do-mst-em-maraba.md
+  - 2014/07/2014-07-07-mais-uma-lideranca-quilombola-e-assassinada-no-para.md
+  - 2014/08/2014-08-26-audiencia-publica-discute-regularizacao-fundiaria-e-ambiental-no-para.md
+  - 2014/10/2014-09-24-trabalhador-e-assassinado-e-outros-quatro-saem-feridos-em-fazenda-do-para.md
   - 2014/10/2014-09-30-quem-aperta-o-gatilho-nos-assassinatos-do-campo-no-para.md
+  - 2015/02/2015-02-12-frei-betto-dorothy-stang-vitima-do-latifundio.md
   - 2015/02/2015-02-12-caso-dorothy-dez-anos-depois-da-morte-situacao-de-reus-e-exemplo-de-impunidade.md
 
 ---
-<p>&nbsp;</p>
-
-<p><em>Por Viviane Brigida<br />
+<p><br />
+<em>Por Viviane Brigida<br />
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Cerca de trezentos ativistas entre religiosos pol&iacute;ticos, estudantes e militantes de movimentos sociais participaram na cidade de Bel&eacute;m (PA), na noite desta quinta-feira (12), da celebra&ccedil;&atilde;o dos 10 anos do Mart&iacute;rio da Irm&atilde; Dorothy Stang, mission&aacute;ria cat&oacute;lica brutalmente assassinada no dia 12 de fevereiro de 2005, em Anapu, sudoeste do Par&aacute;.</p>
+Cerca de 300 ativistas, entre religiosos, pol&iacute;ticos, estudantes e militantes de movimentos sociais, participaram na noite desta quinta-feira (12), em Bel&eacute;m (PA), da celebra&ccedil;&atilde;o dos 10 anos do Mart&iacute;rio da Irm&atilde; Dorothy Stang, mission&aacute;ria cat&oacute;lica brutalmente assassinada no dia 12 de fevereiro de 2005, em Anapu, sudoeste do Par&aacute;.</p>
 
 <p><br />
-O evento aconteceu na pra&ccedil;a conhecida como M&aacute;rtires de Abril, em mem&oacute;ria &agrave;s v&iacute;timas de Eldorado dos Caraj&aacute;s, quando 21 trabalhadores e trabalhadoras rurais Sem Terra foram assassinados. No local, tamb&eacute;m fica o Monumento Coluna da Inf&acirc;mia do artista dinamarqu&ecirc;s, Jens Galschiot.</p>
+O evento aconteceu na pra&ccedil;a conhecida como M&aacute;rtires de Abril, em mem&oacute;ria &agrave;s v&iacute;timas de Eldorado dos Caraj&aacute;s, quando 21 trabalhadores e trabalhadoras rurais Sem Terra foram assassinados. No local, tamb&eacute;m fica o Monumento Coluna da Inf&acirc;mia, do artista dinamarqu&ecirc;s Jens Galschiot.</p>
 
 <p><br />
 O ato contra a impunidade no campo tamb&eacute;m refletiu a situa&ccedil;&atilde;o do monumento na cidade, de pleno descaso e abandono. O que deveria funcionar como um lembrete na hist&oacute;ria contrariava o pr&oacute;prio significado da escultura, constru&iacute;da para homenagear os trabalhadores.</p>
