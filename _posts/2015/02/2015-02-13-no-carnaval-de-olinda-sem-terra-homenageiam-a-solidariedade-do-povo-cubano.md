@@ -48,7 +48,7 @@ A Barraca do MST em 2015 tem a honra de homenagear a solidariedade do povo e do 
 A participa&ccedil;&atilde;o destes profissionais se d&aacute; no mundo todo, como o combate ao Ebola no continente Africano, os m&eacute;dicos que est&atilde;o no Brasil atuando nas regi&otilde;es mais carentes e os professores, que com o m&eacute;todo&quot; Sim, eu Posso!&quot;, alfabetizam milhares de trabalhadores na Am&eacute;rica Latina, erradicando o analfabetismo em pa&iacute;ses como Bol&iacute;via, Honduras e Venezuela.</p>
 
 <figure class="image"><img alt="carnavalMST.jpg" src="http://farm8.staticflickr.com/7396/16516757611_fd641318c4_b.jpg" />
-<figcaption>No ano passado, o MST homenageou o do ex-presidente da Venezuela, Hugo Ch&aacute;vez.</figcaption>
+<figcaption>No ano passado, o MST homenageou o ex-presidente da Venezuela, Hugo Ch&aacute;vez.</figcaption>
 </figure>
 
 <p><br />
