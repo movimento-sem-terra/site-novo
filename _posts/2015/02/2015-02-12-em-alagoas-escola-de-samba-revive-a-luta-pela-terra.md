@@ -38,7 +38,7 @@ Da P&aacute;gina do MST</em></p>
 Este ano, o desfile das escolas de samba do carnaval de Macei&oacute; contar&aacute; com um elemento in&eacute;dito.</p>
 
 <p><br />
-Na noite de s&aacute;bado (14), Z&eacute; Pereira apresenta o Gr&ecirc;mio Recreativo Escola de Samba Unidos do Po&ccedil;o, que transformou as lutas, as resist&ecirc;ncias e conquistas do MST num espet&aacute;culo em celebra&ccedil;&atilde;o &agrave; M&atilde;e-Natureza e ao homem e &agrave; mulher do campo.</p>
+Na noite de s&aacute;bado (14) de Z&eacute; Pereira, acontece a apresenta&ccedil;&atilde;o do Gr&ecirc;mio Recreativo Escola de Samba Unidos do Po&ccedil;o, que transformou as lutas, as resist&ecirc;ncias e conquistas do MST num espet&aacute;culo em celebra&ccedil;&atilde;o &agrave; M&atilde;e-Natureza e ao homem e &agrave; mulher do campo.</p>
 
 <p><br />
 A Escola Unidos do Po&ccedil;o promete sacudir os cora&ccedil;&otilde;es de quem estiver na Paju&ccedil;ara durante o desfile com o samba enredo &ldquo;A import&acirc;ncia da terra como fonte de vida e um dos principais bens ofertados pela natureza ao desenvolvimento humano&rdquo;.&nbsp;</p>
