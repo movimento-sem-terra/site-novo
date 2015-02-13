@@ -24,18 +24,7 @@ images_hd: "http://farm8.staticflickr.com/7284/15891398283_803997f9b3_n.jpg"
 releated_posts:
   - 2014/07/2014-07-17-familias-sem-terra-seguem-na-luta-por-area-grilada-em-abelardo-luz.md
   - 2014/09/2014-09-09-mst-denuncia-violacao-de-direitos-humanos-no-acampamento-dom-tomas-balduino.md
-  - 2014/09/2014-09-05-cpt-declara-solidariedade-aos-ocupantes-da-fazenda-santa-monica.md
-  - 2014/10/2014-09-15-manifestacao-na-ocupacao-dom-tomas-em-corumba-de-goias.md
-  - 2014/11/2014-10-09-sem-terra-marcham-pela-desapropriacao-da-fazenda-de-eunicio-de-oliveira.md
-  - 2014/11/2014-10-09-programa-contra-corrente-no-acampamento-dom-tomas-balduino.md
   - 2014/11/2014-10-13-a-boiada-de-eunicio.md
-  - 2014/12/2014-11-18-sem-terra-iniciam-greve-de-fome-contra-despejo-da-area-de-eunicio-de-oliveira.md
-  - 2014/12/2014-12-01-no-rs-mst-reune-amigos-e-aliados-para-comemorar-30-anos-de-luta.md
-  - 2015/01/2015-01-06-em-nota-cimi-repudia-declaracoes-de-katia-abreu.md
-  - 2015/02/2015-01-30-patrus-x-katia-sao-tomas-e-ernani-maria-fiori-explicam.md
-  - 2015/01/2015-01-30-patrus-x-katia-sao-tomas-e-ernani-maria-fiori-explicam.md
-  - 2014/10/2014-10-02-mst-exige-desapropriacao-da-fazenda-da-senadora-ana-amelia.md
-  - 2015/01/2015-01-12-katia-abreu-a-ministra-que-desmata-a-razao.md
   - 2015/01/2015-01-12-cpt-considera-reforma-agraria-do-governo-dilma-a-pior-dos-ultimos-20-anos.md
 section: featured-news
 
