@@ -39,10 +39,10 @@ releated_posts:
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Para discutir o papel e os desafios da juventude na luta pela terra e na constru&ccedil;&atilde;o da Reforma Agr&aacute;ria Popular.&nbsp;Os jovens ressaltaram o papel de cada um na organiza&ccedil;&atilde;o e a continuidade das lutas do MST.</p>
+Para discutir o papel e os desafios da juventude na luta pela terra e na constru&ccedil;&atilde;o da Reforma Agr&aacute;ria Popular,&nbsp;jovens de diversas regi&otilde;es de Alagoas&nbsp;estiveram reunidos na articula&ccedil;&atilde;o e consolida&ccedil;&atilde;o do Coletivo da Juventude Sem Terra do estado.</p>
 
 <p><br />
-&ldquo;Chegamos aos 30 anos do nosso Movimento e a tarefa de seguirmos em luta tamb&eacute;m &eacute; de responsabilidade da nossa juventude, que deve trazer suas caracter&iacute;sticas para fortalecer os nossos pr&oacute;ximos anos de hist&oacute;ria&rdquo;, disse Joyce Marcolino, da juventude Sem Terra de Alagoas.</p>
+Os jovens ressaltaram o papel de cada um na organiza&ccedil;&atilde;o e a continuidade das lutas do MST.&nbsp;&ldquo;Chegamos aos 30 anos do nosso Movimento e a tarefa de seguirmos em luta tamb&eacute;m &eacute; de responsabilidade da nossa juventude, que deve trazer suas caracter&iacute;sticas para fortalecer os nossos pr&oacute;ximos anos de hist&oacute;ria&rdquo;, disse Joyce Marcolino, da juventude Sem Terra de Alagoas.</p>
 
 <p><br />
 A reuni&atilde;o, al&eacute;m de ter o car&aacute;ter de planejamento das lutas dos jovens a partir das necessidades dos assentamentos e acampamentos, tamb&eacute;m foi um espa&ccedil;o de estudo, onde o conjunto dos jovens debateu o contexto da agricultura brasileira, o projeto de Reforma Agr&aacute;ria Popular e o papel da juventude nas lutas do movimento Sem Terra e da classe trabalhadora.</p>
