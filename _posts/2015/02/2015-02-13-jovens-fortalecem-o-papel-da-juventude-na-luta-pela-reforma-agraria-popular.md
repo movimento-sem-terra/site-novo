@@ -4,7 +4,7 @@ tags:
   - tag: alagoas
   - tag: Juventude
   - tag: reforma-agrária
-title: Jovens fortalecem o papel da juventude na luta pela Reforma Agrária Popular
+title: Juventude se organiza para fortalecer a luta pela Reforma Agrária Popular
 support_line: Jovens de diversas regiões de Alagoas estiveram reunidos na articulação e consolidação do Coletivo da Juventude Sem Terra do estado.
 menu: reforma agrária
 layout: post
@@ -39,11 +39,10 @@ releated_posts:
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Para discutir o papel e os desafios da juventude na luta pela terra e na constru&ccedil;&atilde;o da Reforma Agr&aacute;ria Popular,<br />
-Os jovens ressaltaram o papel de cada um na organiza&ccedil;&atilde;o dos trabalhadores e trabalhadoras rurais na continuidade das lutas do MST.</p>
+Para discutir o papel e os desafios da juventude na luta pela terra e na constru&ccedil;&atilde;o da Reforma Agr&aacute;ria Popular.&nbsp;Os jovens ressaltaram o papel de cada um na organiza&ccedil;&atilde;o e a continuidade das lutas do MST.</p>
 
 <p><br />
-&ldquo;Chegamos aos 30 anos do nosso Movimento e a tarefa de seguirmos em luta tamb&eacute;m &eacute; de responsabilidade da nossa juventude, que deve trazer suas caracter&iacute;sticas para fortalecer os nossos pr&oacute;ximos anos de hist&oacute;ria&rdquo;, disse Joyce Marcolino, da Juventude Sem Terra de Alagoas.</p>
+&ldquo;Chegamos aos 30 anos do nosso Movimento e a tarefa de seguirmos em luta tamb&eacute;m &eacute; de responsabilidade da nossa juventude, que deve trazer suas caracter&iacute;sticas para fortalecer os nossos pr&oacute;ximos anos de hist&oacute;ria&rdquo;, disse Joyce Marcolino, da juventude Sem Terra de Alagoas.</p>
 
 <p><br />
 A reuni&atilde;o, al&eacute;m de ter o car&aacute;ter de planejamento das lutas dos jovens a partir das necessidades dos assentamentos e acampamentos, tamb&eacute;m foi um espa&ccedil;o de estudo, onde o conjunto dos jovens debateu o contexto da agricultura brasileira, o projeto de Reforma Agr&aacute;ria Popular e o papel da juventude nas lutas do movimento Sem Terra e da classe trabalhadora.</p>
