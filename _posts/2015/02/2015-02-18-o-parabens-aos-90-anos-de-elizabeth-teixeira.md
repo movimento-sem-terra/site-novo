@@ -146,3 +146,5 @@ Como festa boa &eacute; aquela que dura dois dias, no dia seguinte as comemora&c
 
 <p><br />
 Por mais que tudo tenha sido lindo e grandioso nesta tarde ensolarada paraibana, ficamos com o sentimento de que ainda foi pouco, de que poder&iacute;amos ter feito algo mais para homenagear aquela mulher marcada para viver, parab&eacute;ns Elizabeth Teixeira.</p>
+
+<p><iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/TondnexDVUk" width="640"></iframe></p>
