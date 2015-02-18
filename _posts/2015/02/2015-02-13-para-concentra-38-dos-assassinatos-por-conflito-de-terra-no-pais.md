@@ -7,7 +7,7 @@ tags:
   - tag: cpt
 title: "Pará concentra 38% dos assassinatos por conflito de terra no país "
 hat: Violência
-support_line: "O número é quase cinco vezes maior que o registrado pelo segundo estado no ranking de assassinatos por questões fundiárias, o Maranhão. "
+support_line: "O número é quase cinco vezes maior que o registrado pelo segundo estado no ranking de assassinatos por questões fundiárias, o Maranhão."
 menu: agronegócio
 layout: post
 files:
@@ -24,6 +24,7 @@ releated_posts:
   - 2015/02/2015-02-11-dez-anos-apos-o-assassinato-da-irma-dorothy-o-sangue-ainda-corre-na-floresta.md
   - 2015/02/2015-02-12-caso-dorothy-dez-anos-depois-da-morte-situacao-de-reus-e-exemplo-de-impunidade.md
   - 2015/02/2015-02-12-frei-betto-dorothy-stang-vitima-do-latifundio.md
+section: featured-news
 
 ---
 <p><br />
