@@ -5,9 +5,9 @@ tags:
   - tag: Pará
   - tag: Dorothy-Stang
   - tag: cpt
-title: "Pará concentra 38% dos assassinatos por conflito de terra no país "
+title: "Pará concentra 38% dos assassinatos por conflito de terra"
 hat: Violência
-support_line: "O número é quase cinco vezes maior que o registrado pelo segundo estado no ranking de assassinatos por questões fundiárias, o Maranhão."
+support_line: "O número é quase cinco vezes maior que o Maranhão, o segundo estado no ranking de assassinatos por questões fundiárias."
 menu: agronegócio
 layout: post
 files:
