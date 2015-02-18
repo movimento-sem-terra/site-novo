@@ -4,8 +4,8 @@ tags:
   - tag: Educação
   - tag: Solidariedade
   - tag: Paraná
-title: MST se solidariza com os professores e servidores públicos em greve no PR
-support_line: "\"Repudiamos o processo de desmantelamento dos direitos de cidadania adquiridos pelo povo paranaense, a desestruturação da educação, a retirada dos direitos do funcionalismo público\"."
+title: MST se solidariza com greve dos servidores públicos do PR
+support_line: "\"Repudiamos o processo de desmantelamento dos direitos de cidadania adquiridos pelo povo paranaense, a desestruturação da educação e a retirada dos direitos do funcionalismo público\"."
 menu: lutas e mobilizações
 sector: education
 layout: post
