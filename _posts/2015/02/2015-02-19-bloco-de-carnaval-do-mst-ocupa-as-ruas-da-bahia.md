@@ -1,12 +1,12 @@
 ---
-date: "2015-02-19T13:42:54-03:00"
+date: "2015-02-19T14:42:54-02:00"
 tags:
   - tag: Carnaval
   - tag: Bahia
   - tag: Bloco-MST-Folia
 title: Bloco de carnaval do MST ocupa as ruas da Bahia
 hat: Carnaval
-support_line: "O evento apresentou através das músicas o programa de Reforma Agrária Popular, ratificando a luta pela terra e a construção de uma sociedade mais justa e igualitária.\n"
+support_line: "O evento apresentou através das músicas o programa de Reforma Agrária Popular, ratificando a luta pela terra e a construção de uma sociedade mais justa e igualitária."
 menu: "educação, cultura e comunicação"
 sector: culture
 layout: post
@@ -43,7 +43,8 @@ releated_posts:
 
 <p><em>Da P&aacute;gina do MST</em></p>
 
-<p>Anima&ccedil;&atilde;o, alegria, festa e confraterniza&ccedil;&atilde;o foram os sentimentos que envolveram centenas de trabalhadores e trabalhadoras Sem Terra no Bloco MST Folia deste carnaval.<br />
+<p><br />
+Anima&ccedil;&atilde;o, alegria, festa e confraterniza&ccedil;&atilde;o foram os sentimentos que envolveram centenas de trabalhadores e trabalhadoras Sem Terra no Bloco MST Folia deste carnaval.<br />
 &nbsp;</p>
 
 <p>Realizado nesta ultima ter&ccedil;a-feira (17/02) no munic&iacute;pio do Prado, regi&atilde;o do extremo sul baiano, o bloco apresentou atrav&eacute;s das m&uacute;sicas e gritos de ordem o programa de Reforma Agr&aacute;ria Popular, ratificando a luta pela terra e a constru&ccedil;&atilde;o de uma sociedade mais justa e igualit&aacute;ria.<br />
