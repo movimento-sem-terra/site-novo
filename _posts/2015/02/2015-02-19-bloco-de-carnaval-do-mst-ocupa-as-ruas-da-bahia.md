@@ -39,8 +39,7 @@ releated_posts:
   - 2015/02/2015-02-13-no-carnaval-de-olinda-sem-terra-homenageiam-a-solidariedade-do-povo-cubano.md
 
 ---
-<p><br />
-&nbsp;</p>
+<p>&nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="bloco de carnaval_BA.jpg" src="http://farm8.staticflickr.com/7409/16581950385_044bc74900_b.jpg" />
 <figcaption></figcaption>
@@ -49,19 +48,19 @@ releated_posts:
 <p><em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Anima&ccedil;&atilde;o, alegria, festa e confraterniza&ccedil;&atilde;o foram os sentimentos que envolveram centenas de trabalhadores e trabalhadoras Sem Terra no Bloco MST Folia deste carnaval.</p>
+Neste carnaval, anima&ccedil;&atilde;o, alegria, festa e confraterniza&ccedil;&atilde;o foram os sentimentos que envolveram centenas de trabalhadores e trabalhadoras Sem Terra, no Bloco MST Folia.</p>
 
 <p><br />
-Realizado nesta ultima ter&ccedil;a-feira (17/02) no munic&iacute;pio do Prado, regi&atilde;o do extremo sul baiano, o bloco apresentou atrav&eacute;s das m&uacute;sicas e gritos de ordem o programa de Reforma Agr&aacute;ria Popular, ratificando a luta pela terra e a constru&ccedil;&atilde;o de uma sociedade mais justa e igualit&aacute;ria.</p>
+Realizado nesta ter&ccedil;a-feira (17), no munic&iacute;pio do Prado - extremo sul da Bahia -, o bloco apresentou por meio das m&uacute;sicas e gritos de ordem o programa da Reforma Agr&aacute;ria Popular, ratificando a luta pela terra e a constru&ccedil;&atilde;o de uma sociedade mais justa e igualit&aacute;ria.</p>
 
 <p><br />
-Al&eacute;m disso, o bloco apontou a necessidade de construir um dialogo sobre a import&acirc;ncia da realiza&ccedil;&atilde;o de uma reforma pol&iacute;tica em nosso pa&iacute;s.</p>
+Al&eacute;m disso, os Sem Terra apontaram a necessidade de construir um di&aacute;logo sobre a import&acirc;ncia da realiza&ccedil;&atilde;o de uma reforma pol&iacute;tica em nosso pa&iacute;s.</p>
 
 <p><br />
-Motivados pelo samba, forr&oacute;, ax&eacute;, afro reggae e letras que valorizam a identidade camponesa, o MST Folia trouxe cartazes da campanha &ldquo;Extremo Sul pela Vida: Agrot&oacute;xico Zero&rdquo;, denunciando as contradi&ccedil;&otilde;es do agroneg&oacute;cio, defendendo a Agroecologia e a produ&ccedil;&atilde;o de alimentos saud&aacute;veis sem veneno para toda a popula&ccedil;&atilde;o do campo e cidade.</p>
+Motivados pelo samba, forr&oacute;, ax&eacute;, afro reggae e letras que valorizam a identidade camponesa, o MST Folia trouxe cartazes da campanha &ldquo;Extremo Sul pela Vida: Agrot&oacute;xico Zero&rdquo;, denunciando as contradi&ccedil;&otilde;es do agroneg&oacute;cio e defendendo a agroecologia e a produ&ccedil;&atilde;o de alimentos saud&aacute;veis para toda a popula&ccedil;&atilde;o.</p>
 
 <p><br />
-&ldquo;O carnaval &eacute; uma ferramenta fundamental que podemos utilizar para criar a integra&ccedil;&atilde;o entre o campo e a cidade, divulgando a import&acirc;ncia da Reforma Agr&aacute;ria Popular, tendo em vista que a contribui&ccedil;&atilde;o de toda sociedade &eacute; important&iacute;ssima para a realiza&ccedil;&atilde;o dela&rdquo;, afirma o Deputado Federal Valmir Assun&ccedil;&atilde;o (PT &ndash; BA).</p>
+&ldquo;O carnaval &eacute; uma ferramenta fundamental que podemos utilizar para criar a integra&ccedil;&atilde;o entre o campo e a cidade, divulgando a import&acirc;ncia da Reforma Agr&aacute;ria Popular&rdquo;, disse o deputado federal Valmir Assun&ccedil;&atilde;o (PT &ndash; BA).</p>
 
 <p><br />
 Pensando nesta quest&atilde;o, o evento proporcionou o interc&acirc;mbio e confraterniza&ccedil;&atilde;o dos camponeses com os trabalhadores da cidade. Possibilitou tamb&eacute;m comemorar os avan&ccedil;os sociais e protestar por melhores condi&ccedil;&otilde;es para os assentamentos e acampamentos.</p>
@@ -70,4 +69,4 @@ Pensando nesta quest&atilde;o, o evento proporcionou o interc&acirc;mbio e confr
 De acordo com Evanildo Costa, da dire&ccedil;&atilde;o estadual do MST, &ldquo;a Reforma Agr&aacute;ria &eacute; um debate que visa a gera&ccedil;&atilde;o de renda e distribui&ccedil;&atilde;o da terra. Neste momento precisamos consolidar alian&ccedil;as e fazer da festa um ato pol&iacute;tico e de integra&ccedil;&atilde;o&nbsp; na luta&rdquo;.</p>
 
 <p><br />
-Este j&aacute; &eacute; o segundo ano que o bloco MST Folia saiu nas ruas do Prado, e pretende continuar misturando a alegria das festas com a luta em defesa da Reforma Agr&aacute;ria por muitos anos.</p>
+Este &eacute; o segundo ano que o Bloco MST Folia saiu &agrave;s ruas de Prado. Por muitos anos, pretende continuar misturando a alegria das festas com a luta em defesa da Reforma Agr&aacute;ria.</p>
