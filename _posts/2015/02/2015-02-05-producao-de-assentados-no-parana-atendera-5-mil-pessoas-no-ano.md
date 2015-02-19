@@ -3,10 +3,11 @@ date: "2015-02-05T11:27:41-02:00"
 tags:
   - tag: Paraná
   - tag: Terra-Livre
+  - tag: produção
 title: Produção de assentados no Paraná atenderá a 5 mil pessoas em 2015
 support_line: Serão entregues pelos agricultores mais de 860 mil Kg de alimentos só neste ano.
 menu: agricultura camponesa
-section: cover
+section: featured-news
 layout: post
 files:
   - link: "http://farm8.staticflickr.com/7406/16449770805_c9fc6e3e4e_b.jpg"
@@ -30,11 +31,13 @@ files:
 created_date: "2015-02-05T11:52:56-02:00"
 published: true
 images_hd: "http://farm8.staticflickr.com/7406/16449770805_c9fc6e3e4e_n.jpg"
-releated_posts: []
+releated_posts:
+  - 2014/05/2014-05-15-mst-discute-novas-parcerias-para-investir-em-assentamentos-no-parana.md
 sector: production
 
 ---
-<p><em>Por Riquieli Capitani<br />
+<p><br />
+<em>Por Riquieli Capitani<br />
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
