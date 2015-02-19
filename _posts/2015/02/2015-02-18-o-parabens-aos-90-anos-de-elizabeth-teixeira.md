@@ -6,7 +6,7 @@ tags:
   - tag: ligas-camponesas
 title: "O parabéns aos 90 anos de Elizabeth Teixeira, mulher marcada para morrer"
 menu: reforma agrária
-section: cover
+section: featured-news
 support_line: "Entre bandeiras vermelhas e símbolos da luta, a mística trouxe erguida a mesma bandeira de toda a sua vida: a reforma agrária e a melhoria de vida do povo do campo."
 layout: post
 files:
