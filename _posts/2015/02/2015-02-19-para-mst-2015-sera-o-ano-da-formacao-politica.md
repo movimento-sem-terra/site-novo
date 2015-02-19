@@ -125,7 +125,7 @@ Para ela, sem a forma&ccedil;&atilde;o, o MST n&atilde;o teria resistido h&aacut
 Os Movimento pretende atingir mais de 20 mil pessoas nos diversos cursos de forma&ccedil;&atilde;o nos estados em que est&aacute; organizado.</p>
 
 <p><br />
-Dentre os destaques, est&atilde;o os Acampamentos da Juventude, que tem o desafio de realizar um processo formativo massivo com cerca de mil jovens em cada estado.</p>
+Dentre os destaques, est&atilde;o os Cursos Populares da Juventude, que tem o desafio de realizar um processo formativo massivo com cerca de mil jovens, em cada estado, nas universidades p&uacute;blicas. &quot;Apenas 1% dos jovens do campo est&atilde;o nas universidades, por isso nosso esfor&ccedil;o para que esses cursos aconte&ccedil;am dentro dos campus universit&aacute;rios, para que ocupem, junto &agrave; juventude de outras organiza&ccedil;&otilde;es da cidade, um lugar que tamb&eacute;m lhes pertencem&quot;, disse Raul Amorim, do coletivo de juventude do MST.</p>
 
 <p>&nbsp;</p>
 
