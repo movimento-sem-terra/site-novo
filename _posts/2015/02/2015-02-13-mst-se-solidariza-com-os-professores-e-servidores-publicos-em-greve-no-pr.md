@@ -5,7 +5,7 @@ tags:
   - tag: Solidariedade
   - tag: Paraná
 title: MST se solidariza com greve dos servidores públicos do PR
-support_line: "\"Repudiamos o processo de desmantelamento dos direitos de cidadania adquiridos pelo povo paranaense, a desestruturação da educação e a retirada dos direitos do funcionalismo público\"."
+support_line: "\"Repudiamos o processo de desmantelamento dos direitos de cidadania adquiridos pelo povo paranaense e a desestruturação da educação\""
 menu: lutas e mobilizações
 sector: education
 layout: post
