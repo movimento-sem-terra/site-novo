@@ -29,7 +29,7 @@ $('.dropdown').children('a').on('click', function(event) {
   event.preventDefault();
 });
 
-$('.open').on('click', function () {
+$('#site-header .open').on('click', function () {
   $('html').toggleClass('menu-active');
 });
 
