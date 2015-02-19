@@ -5,7 +5,7 @@ tags:
   - tag: agrotóxicos
   - tag: saúde
 title: "Monsanto: 25 doenças que podem ser causadas pelo agrotóxico glifosato"
-support_line: Cientistas descobriram que pessoas doentes tinham maiores níveis de glifosato em seu corpo do que as pessoas sadias. Conheça os resultados destas pesquisas.
+support_line: Cientistas descobriram que pessoas doentes tinham maiores níveis de glifosato em seu corpo do que as pessoas sadias.
 menu: agronegócio
 layout: post
 files:
@@ -25,11 +25,11 @@ releated_posts:
   - 2014/08/2014-08-14-misteriosa-doenca-fatal-tem-sua-causa-descoberta-os-agrotoxicos-da-monsanto.md
   - 2015/01/2015-01-09-plantacoes-geneticamente-modificadas-ficcao-corporativa.md
   - 2015/01/2015-01-22-chuck-norris-fala-em-artigo-contra-a-monsanto-e-os-danos-que-a-empresa-causa-a-saude-global.md
+label: articles
 
 ---
-<p>&nbsp;</p>
-
-<p><em>Por Alexis Baden-Mayer<br />
+<p><br />
+<em>Por Alexis Baden-Mayer<br />
 Do Sin Permiso</em></p>
 
 <p><br />
