@@ -41,7 +41,7 @@ releated_posts:
 ---
 <p>&nbsp;</p>
 
-<p>Da P&aacute;gina do MST</p>
+<p><em>Da P&aacute;gina do MST</em></p>
 
 <p>Anima&ccedil;&atilde;o, alegria, festa e confraterniza&ccedil;&atilde;o foram os sentimentos que envolveram centenas de trabalhadores e trabalhadoras Sem Terra no Bloco MST Folia deste carnaval.<br />
 &nbsp;</p>
