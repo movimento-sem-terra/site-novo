@@ -25,6 +25,7 @@ releated_posts:
   - 2014/08/2014-08-14-misteriosa-doenca-fatal-tem-sua-causa-descoberta-os-agrotoxicos-da-monsanto.md
   - 2015/01/2015-01-09-plantacoes-geneticamente-modificadas-ficcao-corporativa.md
   - 2015/01/2015-01-22-chuck-norris-fala-em-artigo-contra-a-monsanto-e-os-danos-que-a-empresa-causa-a-saude-global.md
+label: articles
 
 ---
 <p>&nbsp;</p>
