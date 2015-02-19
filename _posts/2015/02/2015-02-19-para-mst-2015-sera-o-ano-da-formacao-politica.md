@@ -2,7 +2,7 @@
 date: "2015-02-19T10:59:20-02:00"
 tags:
   - tag: formação
-title: "Para MST, 2015 será o ano da Formação Política no Movimento"
+title: 2015 será o ano da formação política no MST e da batalha das ideias
 menu: "educação, cultura e comunicação"
 section: cover
 support_line: Os Movimento pretende atingir mais de 20 mil pessoas nos diversos cursos de formação em todos os estados em que está organizado.
@@ -75,7 +75,7 @@ releated_posts:
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Formar para a luta e para a vida. Al&eacute;m de lutar, o MST tem em mente que, para se construir uma sociedade mais justa, &eacute; preciso que os militantes e a base estudem. Por isso, 2015 ser&aacute; o ano da forma&ccedil;&atilde;o pol&iacute;tica do Movimento e da batalha das ideias.</p>
+Formar para a luta e para a vida. Al&eacute;m de lutar, o MST tem em mente que para construir uma sociedade mais justa &eacute; preciso que os militantes e a base estudem. Por isso, 2015 ser&aacute; o ano da forma&ccedil;&atilde;o pol&iacute;tica do Movimento e da batalha das ideias.</p>
 
 <p><br />
 Na vis&atilde;o de Geraldo Gasparin, do setor de forma&ccedil;&atilde;o do MST, a forma&ccedil;&atilde;o cumpre uma tarefa importante para a organiza&ccedil;&atilde;o. Em cada momento hist&oacute;rico, ela cria as condi&ccedil;&otilde;es subjetivas para que o Movimento possa cumprir com seus objetivos.</p>
