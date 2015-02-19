@@ -5,7 +5,7 @@ tags:
   - tag: mobilizações
   - tag: dilma-rousseff
 support_line: "Congresso e ministérios conservadores, risco de impeachment e retrocessos aos trabalhadores. Como os movimentos se preparam para o segundo governo Dilma?"
-title: "Para movimentos sociais, a resposta contra o avanço da direita é ir para a ofensiva"
+title: "Para movimentos sociais, resposta contra o avanço da direita é ir à ofensiva"
 menu: projeto popular
 layout: post
 files:
