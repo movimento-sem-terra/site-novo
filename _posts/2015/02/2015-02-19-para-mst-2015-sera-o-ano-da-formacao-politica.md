@@ -144,11 +144,16 @@ Como explica Geraldo, o prop&oacute;sito destes cursos &eacute;, sobretudo, reto
 <p><br />
 &ldquo;Temos que fazer o debate com nossa base sobre o programa agr&aacute;rio, para que se entenda a fundo quais as propostas que o MST defende para o campo&rdquo;, observa.</p>
 
-<p><br />
-Para ele, essa tarefa &eacute; do conjunto da organiza&ccedil;&atilde;o, e setores e militantes que pensam cada &aacute;rea, como cultura, produ&ccedil;&atilde;o, sa&uacute;de, devem pensar formas de contribuir e fortalecer esse processo de forma&ccedil;&atilde;o e trabalho de base.</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="curso_BAHIA3!.jpg" src="http://farm8.staticflickr.com/7389/15957734734_62fb26c9e7_b.jpg" />
+<figcaption>Sem Terra durante etapa do Curso de Forma&ccedil;&atilde;o Pol&iacute;tica, no extremo sul da Bahia.</figcaption>
+</figure>
+
+<p>Para ele, essa tarefa &eacute; do conjunto da organiza&ccedil;&atilde;o, e setores e militantes que pensam cada &aacute;rea, como cultura, produ&ccedil;&atilde;o, sa&uacute;de, devem pensar formas de contribuir e fortalecer esse processo de forma&ccedil;&atilde;o e trabalho de base.</p>
 
 <p><br />
-<img alt="" height="15" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" width="15" /><strong>Luta e forma&ccedil;&atilde;o</strong></p>
+<strong>Luta e forma&ccedil;&atilde;o</strong></p>
 
 <p><br />
 Como comenta Rosana, o lema do &uacute;ltimo Congresso Nacional do MST, &ldquo;Lutar, Construir Reforma Agr&aacute;ria Popular!&rdquo;, realizado em fevereiro de 2014, sintetiza bem a necessidade da forma&ccedil;&atilde;o neste novo momento da luta pela terra.</p>
@@ -156,8 +161,13 @@ Como comenta Rosana, o lema do &uacute;ltimo Congresso Nacional do MST, &ldquo;L
 <p><br />
 Ao mesmo tempo em que se realiza a luta direta contra o inimigo, &eacute; preciso que se construa na pr&aacute;tica a concep&ccedil;&atilde;o e o projeto da Reforma Agr&aacute;ria Popular. Por isso a necessidade de se compreender a atual natureza da luta pela terra, os objetivos, como se encontra a luta de classes no campo e como o agroneg&oacute;cio se articula.</p>
 
-<p><br />
-De acordo com Geraldo, a luta n&atilde;o pode ficar desassociada do processo de forma&ccedil;&atilde;o. &ldquo;Luta melhor quem sabe mais. &Eacute; fundamental que junto ao processo de luta tamb&eacute;m se estabele&ccedil;a o processo de forma&ccedil;&atilde;o. Atuar sobre a realidade que queremos transformar, as contradi&ccedil;&otilde;es que ela provoca, entender essa realidade. A forma&ccedil;&atilde;o serve para suprir as demandas organizativas do Movimento,&nbsp; para responder as quest&otilde;es que o nosso povo demanda, seja a luta de classe mais intensa ou seja a luta pela produ&ccedil;&atilde;o&rdquo;, exemplifica.</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="seminario de educacao do campo - abelardo luz - por juliana adriano (2)!!!.jpg" src="http://farm8.staticflickr.com/7363/15957777614_626e8c1a24_b.jpg" />
+<figcaption>Semin&aacute;rio em Educa&ccedil;&atilde;o do Campo em Abelardo Luz (SC).</figcaption>
+</figure>
+
+<p>De acordo com Geraldo, a luta n&atilde;o pode ficar desassociada do processo de forma&ccedil;&atilde;o. &ldquo;Luta melhor quem sabe mais. &Eacute; fundamental que junto ao processo de luta tamb&eacute;m se estabele&ccedil;a o processo de forma&ccedil;&atilde;o. Atuar sobre a realidade que queremos transformar, as contradi&ccedil;&otilde;es que ela provoca, entender essa realidade. A forma&ccedil;&atilde;o serve para suprir as demandas organizativas do Movimento,&nbsp; para responder as quest&otilde;es que o nosso povo demanda, seja a luta de classe mais intensa ou seja a luta pela produ&ccedil;&atilde;o&rdquo;, exemplifica.</p>
 
 <p><br />
 <strong>Para al&eacute;m do MST</strong></p>
@@ -165,8 +175,13 @@ De acordo com Geraldo, a luta n&atilde;o pode ficar desassociada do processo de 
 <p><br />
 A ideia de estabelecer 2015 como o ano da batalha das ideias n&atilde;o se restringe apenas ao MST. Como explica Rosana, o Movimento tamb&eacute;m pretende contribuir com outras organiza&ccedil;&otilde;es da classe trabalhadora no processo formativo.</p>
 
-<p><br />
-&ldquo;N&atilde;o temos a pretens&atilde;o de nos fecharmos em n&oacute;s mesmos. Ao contr&aacute;rio, com toda humildade, queremos expandir essas experi&ecirc;ncias a outras organiza&ccedil;&otilde;es&rdquo;, pontua.</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="encontro_meulheresBA!!!.jpg" src="http://farm8.staticflickr.com/7298/16394025149_159525fbc8_b.jpg" />
+<figcaption>Mais de 500 mulheres participam de forma&ccedil;&atilde;o durante encontro na Bahia.</figcaption>
+</figure>
+
+<p>&ldquo;N&atilde;o temos a pretens&atilde;o de nos fecharmos em n&oacute;s mesmos. Ao contr&aacute;rio, com toda humildade, queremos expandir essas experi&ecirc;ncias a outras organiza&ccedil;&otilde;es&rdquo;, pontua.</p>
 
 <p><br />
 Para ela, o fato do Movimento ter desenvolvido processos formativos de refer&ecirc;ncia, especialmente por meio dos cursos ENFF, coloca uma responsabilidade muito grande para o MST no processo de forma&ccedil;&atilde;o de quadros para a classe.</p>
