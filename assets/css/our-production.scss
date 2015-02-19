@@ -614,8 +614,4 @@ $mobile: new-breakpoint(max-width 768px);
     }
   }
 
-  .ask-us {
-    @extend .ask-us-default;
-    min-height: 150px;
-  }
 }

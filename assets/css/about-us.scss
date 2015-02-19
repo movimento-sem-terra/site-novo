@@ -553,8 +553,11 @@ main.about-us {
         }
       }
     }
-    &.ask-us{
-      @extend .ask-us-default;
+
+    &.ask-us {
+      .content {
+        padding-bottom: 0;
+      }
     }
   }
 }
