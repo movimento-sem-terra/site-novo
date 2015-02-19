@@ -23,9 +23,15 @@ files:
     small: "http://farm8.staticflickr.com/7354/16581600065_4372d33bf8_n.jpg"
     title: 11006151_1041785895837938_2112353502_n.jpg
     $$hashKey: "045"
+  - link: "http://farm8.staticflickr.com/7448/16394663940_8d79f88ed1_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7448/16394663940_8d79f88ed1_t.jpg"
+    medium: "http://farm8.staticflickr.com/7448/16394663940_8d79f88ed1_z.jpg"
+    small: "http://farm8.staticflickr.com/7448/16394663940_8d79f88ed1_n.jpg"
+    title: capa bloco ba.jpg
+    $$hashKey: 0F3
 created_date: "2015-02-19T13:52:51-03:00"
 published: true
-images_hd: "http://farm8.staticflickr.com/7354/16581600065_4372d33bf8_n.jpg"
+images_hd: "http://farm8.staticflickr.com/7448/16394663940_8d79f88ed1_n.jpg"
 releated_posts:
   - 2015/02/2015-02-09-mulheres-do-ilu-oba-de-min-se-preparam-para-tocar-os-tambores-no-carnaval-de-sao-paulo.md
   - 2015/02/2015-02-11-abram-alas-a-unidos-da-lona-preta.md
