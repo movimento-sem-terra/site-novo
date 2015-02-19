@@ -28,9 +28,6 @@ releated_posts:
 ---
 <p>&nbsp;</p>
 
-<p><br />
-&nbsp;</p>
-
 <figure class="image"><img alt="DilmaMovimentos_midiaNinja.gif" src="http://farm8.staticflickr.com/7409/16393144049_e2f9213ba9_b.jpg" />
 <figcaption>Foto: M&iacute;dia Ninja</figcaption>
 </figure>
