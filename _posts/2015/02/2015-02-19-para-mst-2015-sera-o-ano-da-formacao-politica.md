@@ -2,7 +2,7 @@
 date: "2015-02-19T10:59:20-02:00"
 tags:
   - tag: formação
-title: "Para MST, 2015 será o ano da Formação Política"
+title: "Para MST, 2015 será o ano da Formação Política no Movimento"
 menu: "educação, cultura e comunicação"
 section: cover
 support_line: Os Movimento pretende atingir mais de 20 mil pessoas nos diversos cursos de formação em todos os estados em que está organizado.
