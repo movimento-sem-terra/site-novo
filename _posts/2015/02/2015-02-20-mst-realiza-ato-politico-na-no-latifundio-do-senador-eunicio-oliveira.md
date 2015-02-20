@@ -1,11 +1,11 @@
 ---
-date: "2015-02-20T13:12:58-03:00"
+date: "2015-02-20T14:12:58-02:00"
 tags:
   - tag: acampamento-dom-tomás-balduíno
   - tag: Goiás
   - tag: Agropecuária-Santa-Mônica
 support_line: Celebração Ecumênica será realizada por representante da CNBB e terá a presença de João Pedro Stedile.
-title: MST realiza ato político na no latifúndio do senador Eunício Oliveira
+title: MST realiza ato político no latifúndio do senador Eunício Oliveira
 hat: Luta
 menu: agronegócio
 layout: post
