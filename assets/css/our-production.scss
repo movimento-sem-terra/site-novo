@@ -523,7 +523,7 @@ $mobile: new-breakpoint(max-width 768px);
           text-align: center;
           position: relative;
           z-index: 999;
-
+          min-height: 364px;
           min-width: 538px;
 
           legend{
