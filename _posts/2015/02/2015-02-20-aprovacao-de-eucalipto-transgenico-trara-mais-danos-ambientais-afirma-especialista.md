@@ -18,18 +18,22 @@ files:
     small: "http://farm8.staticflickr.com/7456/16567549816_33de33a6d7_n.jpg"
     title: paulo.jpg
     $$hashKey: 0GJ
+  - link: "http://farm9.staticflickr.com/8592/16567660486_9265930536_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8592/16567660486_9265930536_t.jpg"
+    medium: "http://farm9.staticflickr.com/8592/16567660486_9265930536_z.jpg"
+    small: "http://farm9.staticflickr.com/8592/16567660486_9265930536_n.jpg"
+    title: eucatrans.jpg
+    $$hashKey: 04R
 created_date: "2015-02-20T16:24:40-03:00"
 published: true
-images_hd: "http://farm8.staticflickr.com/7456/16567549816_33de33a6d7_n.jpg"
+images_hd: "http://farm9.staticflickr.com/8592/16567660486_9265930536_n.jpg"
 releated_posts:
   - 2014/12/2014-12-09-a-quem-interessa-o-brasil-ser-o-primeiro-pais-a-liberar-eucalipto-transgenico.md
   - 2014/08/2014-08-08-vandana-shiva-as-entrelinhas-das-guerras-por-alimentos.md
   - 2015/01/2014-12-23-com-transgenico-inseguranca-alimentar-nos-eua-aumentou-em-57.md
 
 ---
-<p style="text-align:center"><img alt="paulo.jpg" height="281" src="http://farm8.staticflickr.com/7456/16567549816_33de33a6d7_b.jpg" width="500" /></p>
-
-<p><br />
+<p><img alt="eucatrans.jpg" height="353" src="http://farm9.staticflickr.com/8592/16567660486_9265930536_b.jpg" width="530" /><br />
 <br />
 <em>Por Maura Silva<br />
 Da P&aacute;gina do MST</em><br />
@@ -76,9 +80,11 @@ eucaliptos transg&ecirc;nicos no Brasil?</strong><br />
 <br />
 &nbsp;</p>
 
-<p>&Eacute; a primeira vez que se aprova o eucalipto transg&ecirc;nico, essa busca pela primazia do dom&iacute;nio &eacute; o que faz essa aprova&ccedil;&atilde;o sair a qualquer custo, mesmo com todas as falhas apresentadas. A valoriza&ccedil;&atilde;o da biotecnologia para dom&iacute;nio comercial de um produto transg&ecirc;nico que &eacute; &uacute;nico no mundo.<br />
-<br />
-&nbsp;</p>
+<p>&Eacute; a primeira vez que se aprova o eucalipto transg&ecirc;nico, essa busca pela primazia do dom&iacute;nio &eacute; o que faz essa aprova&ccedil;&atilde;o sair a qualquer custo, mesmo com todas as falhas apresentadas. A valoriza&ccedil;&atilde;o da biotecnologia para dom&iacute;nio comercial de um produto transg&ecirc;nico que &eacute; &uacute;nico no mundo.</p>
+
+<figure class="image" style="float:right"><img alt="paulo.jpg" height="281" src="http://farm8.staticflickr.com/7456/16567549816_33de33a6d7_b.jpg" width="500" />
+<figcaption></figcaption>
+</figure>
 
 <p>Temos muitas criticas a esse processo tecnol&oacute;gico, que n&atilde;o traz benef&iacute;cios &agrave; comunidade como um todo, &agrave; pr&oacute;pria eucaliptocultura, aos produtores de mel e etc. Muitas empresas do setor j&aacute; reconheceram que essa &eacute; uma libera&ccedil;&atilde;o prematura. A &uacute;nica grande interessada e justamente a &uacute;nica empresa beneficiada por esse processo &eacute; a FuturaGene/Suzano.<br />
 <br />
