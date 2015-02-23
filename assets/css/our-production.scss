@@ -511,7 +511,6 @@ $mobile: new-breakpoint(max-width 768px);
           top: 0;
           left: 0;
           @include filter(blur(10px));
-          transition: background .1s;
           background-repeat: no-repeat;
           background-size: cover;
           opacity: .7;
