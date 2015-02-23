@@ -4,7 +4,7 @@ tags:
   - tag: Goiás
   - tag: Dom-Tomás-Balduíno
   - tag: Santa-Mônica
-title: Ato no acampamento Dom Tomás defende reforma agrária e denuncia descaso jurídico na resolução do caso
+title: Ato no acampamento Dom Tomás Balduíno defende imediata desapropriação da Agropecuária Santa Mônica
 support_line: "As mais de três mil famílias do acampamento estão ameaçadas de despejo da Agropecuária Santa Mônica, latifúndio do senador Eunício Oliveira"
 menu: lutas e mobilizações
 section: cover
