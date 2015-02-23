@@ -5,7 +5,7 @@ tags:
   - tag: Dom-Tomás-Balduíno
   - tag: Santa-Mônica
 title: Ato no acampamento Dom Tomás Balduíno defende imediata desapropriação da Agropecuária Santa Mônica
-support_line: "As mais de três mil famílias do acampamento estão ameaçadas de despejo da Agropecuária Santa Mônica, latifúndio do senador Eunício Oliveira"
+support_line: "Mais de três mil famílias estão ameaçadas de despejo da área de mais de 21 mil hectares, latifúndio do senador Eunício Oliveira."
 menu: lutas e mobilizações
 section: cover
 layout: post
