@@ -4,7 +4,7 @@ tags:
   - tag: Goiás
   - tag: Dom-Tomás-Balduíno
   - tag: Santa-Mônica
-title: Ato político-cultural defende imediata desapropriação da Agropecuária Santa Mônica
+title: Ato defende imediata desapropriação da Agropecuária Santa Mônica
 support_line: "Mais de três mil famílias estão ameaçadas de despejo da área de mais de 21 mil hectares, latifúndio do senador Eunício Oliveira."
 menu: lutas e mobilizações
 section: cover
