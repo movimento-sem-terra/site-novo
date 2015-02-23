@@ -31,7 +31,7 @@ releated_posts:
   - 2014/12/2014-12-09-a-quem-interessa-o-brasil-ser-o-primeiro-pais-a-liberar-eucalipto-transgenico.md
   - 2015/01/2014-12-23-com-transgenico-inseguranca-alimentar-nos-eua-aumentou-em-57.md
   - 2015/02/2015-02-18-monocultivo-de-eucalipto-parece-uma-floresta-mas-nao-e.md
-section: cover
+section: featured-news
 
 ---
 <p><img alt="eucatrans.jpg" height="353" src="http://farm9.staticflickr.com/8592/16567660486_9265930536_b.jpg" width="530" /><br />
