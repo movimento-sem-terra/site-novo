@@ -2,7 +2,7 @@
 date: "2015-02-24T16:20:17-03:00"
 tags:
   - tag: Trangênicos
-title: A ilusão dos transgênicos na América do Sul
+title: A ilusão do desenvolvimento por meio da transgenia na América do Sul
 support_line: "Segundo o pesquisador boliviano Enrique Castañón, a produção de transgênicos pode ser ser interpretada como uma reprimarização da economia. "
 menu: transgênicos
 label: interviews
@@ -24,6 +24,8 @@ section: cover
 ---
 <p><em>Por Patricia Fachin e Jo&atilde;o Vitor Santos​<br />
 Do IHU On-Line</em></p>
+
+<p>&nbsp;</p>
 
 <p><span style="line-height: 20.7999992370605px;">Em meados da d&eacute;cada de 2000, as sementes transg&ecirc;nicas de soja cobriam cerca da metade da superf&iacute;cie semeada na Argentina, no Brasil, no Uruguai, no Paraguai e na Bol&iacute;via, informa Enrique Casta&ntilde;&oacute;n em entrevista.</span><br />
 &nbsp;<br />
