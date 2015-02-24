@@ -14,6 +14,12 @@ files:
     small: "http://farm9.staticflickr.com/8660/16636062142_4f0a6e14cc_n.jpg"
     title: transgenico.png
     $$hashKey: 06S
+  - link: "http://farm9.staticflickr.com/8590/16449983540_65a876c386_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8590/16449983540_65a876c386_t.jpg"
+    medium: "http://farm9.staticflickr.com/8590/16449983540_65a876c386_z.jpg"
+    small: "http://farm9.staticflickr.com/8590/16449983540_65a876c386_n.jpg"
+    title: sementes transgênicas.jpg
+    $$hashKey: 0IW
 created_date: "2015-02-24T16:36:20-03:00"
 published: true
 images_hd: "http://farm9.staticflickr.com/8660/16636062142_4f0a6e14cc_n.jpg"
@@ -35,8 +41,13 @@ Contudo, alerta, &ldquo;continuar apostando nesse tipo de produ&ccedil;&atilde;o
 &nbsp;<br />
 A expans&atilde;o da transgenia em pa&iacute;ses da Am&eacute;rica Latina, especialmente naqueles que elegeram governos &ldquo;progressistas&rdquo;, n&atilde;o &eacute; f&aacute;cil de ser compreendida, mas dois fatores, segundo o pesquisador, podem ajudar a explicar as op&ccedil;&otilde;es feitas pelos Estados.<br />
 <br />
-&nbsp;<br />
-&ldquo;De um lado, o poder econ&ocirc;mico do agroneg&oacute;cio na regi&atilde;o &eacute; tal que conseguiu consolidar um correlato pol&iacute;tico importante que n&atilde;o s&oacute; se refugia nos partidos de direita, mas tamb&eacute;m impregna os de corte progressista. De outro lado, independentemente do car&aacute;ter dos governos, as economias da regi&atilde;o continuam dependendo fortemente da exporta&ccedil;&atilde;o de mat&eacute;rias-primas, fato que leva os governos a verem a soja e outras commodities agr&iacute;colas como uma oportunidade a mais para gerar divisas. Embora tal aposta possa ser entendida a partir das necessidades prementes dos pa&iacute;ses, tamb&eacute;m &eacute; verdade que continuar apostando nesse tipo de produ&ccedil;&atilde;o prim&aacute;ria n&atilde;o parece levar a mudan&ccedil;as significativas na estrutura econ&ocirc;mica. Em outras palavras, a produ&ccedil;&atilde;o massiva com base em transg&ecirc;nicos para os mercados internacionais pode ser interpretada como uma reprimariza&ccedil;&atilde;o da economia, que estaria em contradi&ccedil;&atilde;o com os horizontes de industrializa&ccedil;&atilde;o propostos por esses governos&rdquo;.<br />
+&nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="transgenico.png" src="http://farm9.staticflickr.com/8660/16636062142_4f0a6e14cc_b.jpg" />
+<figcaption></figcaption>
+</figure>
+
+<p>&ldquo;De um lado, o poder econ&ocirc;mico do agroneg&oacute;cio na regi&atilde;o &eacute; tal que conseguiu consolidar um correlato pol&iacute;tico importante que n&atilde;o s&oacute; se refugia nos partidos de direita, mas tamb&eacute;m impregna os de corte progressista. De outro lado, independentemente do car&aacute;ter dos governos, as economias da regi&atilde;o continuam dependendo fortemente da exporta&ccedil;&atilde;o de mat&eacute;rias-primas, fato que leva os governos a verem a soja e outras commodities agr&iacute;colas como uma oportunidade a mais para gerar divisas. Embora tal aposta possa ser entendida a partir das necessidades prementes dos pa&iacute;ses, tamb&eacute;m &eacute; verdade que continuar apostando nesse tipo de produ&ccedil;&atilde;o prim&aacute;ria n&atilde;o parece levar a mudan&ccedil;as significativas na estrutura econ&ocirc;mica. Em outras palavras, a produ&ccedil;&atilde;o massiva com base em transg&ecirc;nicos para os mercados internacionais pode ser interpretada como uma reprimariza&ccedil;&atilde;o da economia, que estaria em contradi&ccedil;&atilde;o com os horizontes de industrializa&ccedil;&atilde;o propostos por esses governos&rdquo;.<br />
 <br />
 &nbsp;<br />
 Produzir mais n&atilde;o significa produzir melhor e nem aumentar o peso da agricultura na economia. Para o pesquisador da Funda&ccedil;&atilde;o Tierra, da Bol&iacute;via, &eacute; preciso ter essa clareza quando se discute desenvolvimento da produ&ccedil;&atilde;o agr&iacute;cola. Como o debate do tema passa essencialmente pela produ&ccedil;&atilde;o de transg&ecirc;nicos, &eacute; preciso tamb&eacute;m entender a l&oacute;gica da transgenia. Ainda mais se for vista como &uacute;nica forma de desenvolvimento agr&iacute;cola.<br />
@@ -81,17 +92,23 @@ Provavelmente, pode-se argumentar que a Argentina est&aacute; se convertendo em 
 <br />
 Se entendermos a soberania alimentar como a capacidade de um Estado de decidir as suas pr&oacute;prias pol&iacute;ticas agropecu&aacute;rias que garantam uma dieta diversificada e nutritiva para a sua popula&ccedil;&atilde;o, &eacute; evidente que os transg&ecirc;nicos se encontram nos ant&iacute;podas dessa no&ccedil;&atilde;o. De um lado, a ado&ccedil;&atilde;o dessas tecnologias, com frequ&ecirc;ncia, leva a uma depend&ecirc;ncia que acaba condicionando a produ&ccedil;&atilde;o agr&iacute;cola &agrave; disponibilidade &ndash; e ao pre&ccedil;o &ndash; dessas sementes. Essas condi&ccedil;&otilde;es n&atilde;o s&atilde;o controladas pelos Estados, mas pelas transnacionais no Norte global. Desse modo, perde-se, na pr&aacute;tica, a capacidade de planejar a produ&ccedil;&atilde;o agr&iacute;cola de forma soberana.<br />
 &nbsp;<br />
+&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="sementes transgênicas.jpg" height="245" src="http://farm9.staticflickr.com/8590/16449983540_65a876c386_b.jpg" width="326" />
+<figcaption></figcaption>
+</figure>
+
+<p>Aqui, devemos acrescentar que esse tipo de produ&ccedil;&atilde;o altamente intensiva em capital e tecnologia tem como principal fim a exporta&ccedil;&atilde;o, e n&atilde;o o abastecimento de alimentos no mercado interno. Paralelamente, a consolida&ccedil;&atilde;o do agroneg&oacute;cio acaba corroendo a agricultura camponesa tradicional, que, historicamente, esteve focada na produ&ccedil;&atilde;o de alimentos para o mercado interno. De fato, h&aacute; evid&ecirc;ncias demonstrando que, na medida em que se consolida o agroneg&oacute;cio, aumentam as importa&ccedil;&otilde;es de alimentos para a popula&ccedil;&atilde;o. As estat&iacute;sticas oficiais, ao menos no caso boliviano, est&atilde;o come&ccedil;ando a corroborar essa tend&ecirc;ncia.<br />
 <br />
-Aqui, devemos acrescentar que esse tipo de produ&ccedil;&atilde;o altamente intensiva em capital e tecnologia tem como principal fim a exporta&ccedil;&atilde;o, e n&atilde;o o abastecimento de alimentos no mercado interno. Paralelamente, a consolida&ccedil;&atilde;o do agroneg&oacute;cio acaba corroendo a agricultura camponesa tradicional, que, historicamente, esteve focada na produ&ccedil;&atilde;o de alimentos para o mercado interno. De fato, h&aacute; evid&ecirc;ncias demonstrando que, na medida em que se consolida o agroneg&oacute;cio, aumentam as importa&ccedil;&otilde;es de alimentos para a popula&ccedil;&atilde;o. As estat&iacute;sticas oficiais, ao menos no caso boliviano, est&atilde;o come&ccedil;ando a corroborar essa tend&ecirc;ncia.<br />
 <br />
-<br />
-<strong>Os defensores da transgenia defendem que os transg&ecirc;nicos aumentam a produtividade. Em termos quantitativos isso &eacute; verdade? E em termos qualitativos, que avalia&ccedil;&atilde;o o senhor faz?</strong><br />
+&nbsp;</p>
+
+<p><strong>Os defensores da transgenia defendem que os transg&ecirc;nicos aumentam a produtividade. Em termos quantitativos isso &eacute; verdade? E em termos qualitativos, que avalia&ccedil;&atilde;o o senhor faz?</strong><br />
 &nbsp;<br />
 A produtividade agr&iacute;cola n&atilde;o depende exclusivamente do tipo de semente que se utiliza, mas de um conjunto de condi&ccedil;&otilde;es, tais como a qualidade do solo, a disponibilidade de irriga&ccedil;&atilde;o, etc. Embora com as condi&ccedil;&otilde;es adequadas seja poss&iacute;vel que uma variedade transg&ecirc;nica possa chegar a ser mais produtiva do que uma convencional, muitas vezes esse argumento esconde o fato mais comprov&aacute;vel de que a ado&ccedil;&atilde;o de transg&ecirc;nicos, principalmente, reduz os custos de produ&ccedil;&atilde;o e, consequentemente, aumenta os lucros. Isso &eacute; precisamente o que constatamos nas nossas pesquisas.<br />
 &nbsp;<br />
 <br />
-Agora, devo dizer que sou da firme opini&atilde;o de que precisamos melhorar a produtividade de trabalho em rela&ccedil;&atilde;o &agrave; nossa agricultura em geral e na agricultura camponesa em particular. Mas, para isso, devem ser considerados m&uacute;ltiplos fatores, e, certamente, seria um grave erro considerar que os transg&ecirc;nicos s&atilde;o uma panaceia para melhorar a produtividade.<br />
-&nbsp;</p>
+Agora, devo dizer que sou da firme opini&atilde;o de que precisamos melhorar a produtividade de trabalho em rela&ccedil;&atilde;o &agrave; nossa agricultura em geral e na agricultura camponesa em particular. Mas, para isso, devem ser considerados m&uacute;ltiplos fatores, e, certamente, seria um grave erro considerar que os transg&ecirc;nicos s&atilde;o uma panaceia para melhorar a produtividade.</p>
 
 <p><strong>Seu artigo enfatiza que o problema central com os transg&ecirc;nicos n&atilde;o reside na tecnologia em si, mas no controle de oligop&oacute;lio que os capitais transnacionais exercem sobre estes com a finalidade de subsumir a agricultura nos seus processos de acumula&ccedil;&atilde;o de capital. Pode explicitar quais s&atilde;o tanto os problemas em rela&ccedil;&atilde;o &agrave; tecnologia quanto os de ordem &ldquo;financeira&rdquo;?</strong><br />
 &nbsp;<br />
