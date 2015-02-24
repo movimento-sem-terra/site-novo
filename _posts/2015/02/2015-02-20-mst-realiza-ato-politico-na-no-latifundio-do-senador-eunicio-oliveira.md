@@ -1,5 +1,5 @@
 ---
-date: "2015-02-20T14:12:58-02:00"
+date: "2015-02-20T07:12:58-02:00"
 tags:
   - tag: acampamento-dom-tomás-balduíno
   - tag: Goiás
