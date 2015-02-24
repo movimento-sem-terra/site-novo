@@ -14,12 +14,12 @@ files:
     small: "http://farm9.staticflickr.com/8660/16636062142_4f0a6e14cc_n.jpg"
     title: transgenico.png
     $$hashKey: 06S
-  - link: "http://farm9.staticflickr.com/8590/16449983540_65a876c386_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8590/16449983540_65a876c386_t.jpg"
-    medium: "http://farm9.staticflickr.com/8590/16449983540_65a876c386_z.jpg"
-    small: "http://farm9.staticflickr.com/8590/16449983540_65a876c386_n.jpg"
+  - link: "http://farm9.staticflickr.com/8580/16451370119_a7d44e6a38_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8580/16451370119_a7d44e6a38_t.jpg"
+    medium: "http://farm9.staticflickr.com/8580/16451370119_a7d44e6a38_z.jpg"
+    small: "http://farm9.staticflickr.com/8580/16451370119_a7d44e6a38_n.jpg"
     title: sementes transgênicas.jpg
-    $$hashKey: 0IW
+    $$hashKey: 0QP
 created_date: "2015-02-24T16:36:20-03:00"
 published: true
 images_hd: "http://farm9.staticflickr.com/8660/16636062142_4f0a6e14cc_n.jpg"
@@ -94,12 +94,11 @@ Se entendermos a soberania alimentar como a capacidade de um Estado de decidir a
 &nbsp;<br />
 &nbsp;</p>
 
-<figure class="image" style="float:left"><img alt="sementes transgênicas.jpg" height="245" src="http://farm9.staticflickr.com/8590/16449983540_65a876c386_b.jpg" width="326" />
+<figure class="image" style="float:left"><img alt="sementes transgênicas.jpg" height="229" src="http://farm9.staticflickr.com/8580/16451370119_a7d44e6a38_b.jpg" width="305" />
 <figcaption></figcaption>
 </figure>
 
 <p>Aqui, devemos acrescentar que esse tipo de produ&ccedil;&atilde;o altamente intensiva em capital e tecnologia tem como principal fim a exporta&ccedil;&atilde;o, e n&atilde;o o abastecimento de alimentos no mercado interno. Paralelamente, a consolida&ccedil;&atilde;o do agroneg&oacute;cio acaba corroendo a agricultura camponesa tradicional, que, historicamente, esteve focada na produ&ccedil;&atilde;o de alimentos para o mercado interno. De fato, h&aacute; evid&ecirc;ncias demonstrando que, na medida em que se consolida o agroneg&oacute;cio, aumentam as importa&ccedil;&otilde;es de alimentos para a popula&ccedil;&atilde;o. As estat&iacute;sticas oficiais, ao menos no caso boliviano, est&atilde;o come&ccedil;ando a corroborar essa tend&ecirc;ncia.<br />
-<br />
 <br />
 &nbsp;</p>
 
