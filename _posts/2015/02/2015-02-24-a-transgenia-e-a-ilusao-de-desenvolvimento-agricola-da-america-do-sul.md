@@ -19,6 +19,7 @@ published: true
 images_hd: "http://farm9.staticflickr.com/8660/16636062142_4f0a6e14cc_n.jpg"
 releated_posts:
   - 2015/02/2015-02-05-nos-eua-produtores-comecam-a-plantar-lavouras-nao-transgenicas.md
+section: cover
 
 ---
 <p><em>Por Patricia Fachin e Jo&atilde;o Vitor Santos​<br />
