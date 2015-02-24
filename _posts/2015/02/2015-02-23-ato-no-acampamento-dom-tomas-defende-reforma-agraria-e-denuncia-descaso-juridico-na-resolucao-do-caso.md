@@ -7,7 +7,7 @@ tags:
 title: Ato defende imediata desapropriação da Agropecuária Santa Mônica
 support_line: "Mais de três mil famílias estão ameaçadas de despejo da área de mais de 21 mil hectares, latifúndio do senador Eunício Oliveira."
 menu: lutas e mobilizações
-section: cover
+section: featured-news
 layout: post
 files:
   - thumbnail: "http://farm9.staticflickr.com/8582/16597518546_4bdfb398f3_n.jpg"
