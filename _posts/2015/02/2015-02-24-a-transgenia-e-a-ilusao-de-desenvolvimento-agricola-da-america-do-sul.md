@@ -3,7 +3,7 @@ date: "2015-02-24T16:20:17-03:00"
 tags:
   - tag: agronegócio
   - tag: transgênicos
-title: "Avanço do agronegócio aumenta as importações de alimentos, diz pesquisador"
+title: Avanço do agronegócio aumenta as importações de alimentos
 support_line: "Segundo o pesquisador boliviano Enrique Castañón, Produzir mais não significa produzir melhor e nem aumentar o peso da agricultura na economia."
 menu: transgênicos
 label: interviews
@@ -35,7 +35,8 @@ releated_posts:
 section: cover
 
 ---
-<p><em>Por Patricia Fachin e Jo&atilde;o Vitor Santos​<br />
+<p><br />
+<em>Por Patricia Fachin e Jo&atilde;o Vitor Santos​<br />
 Do IHU On-Line</em></p>
 
 <p><br />
