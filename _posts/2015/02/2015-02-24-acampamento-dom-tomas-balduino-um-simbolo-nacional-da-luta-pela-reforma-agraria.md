@@ -5,6 +5,8 @@ tags:
   - tag: goiás
   - tag: eunício-de-oliveira
   - tag: grilagem
+  - tag: agropecuária-santa-mônica
+  - tag: dom-tomás-balduíno
 title: "Acampamento Dom Tomás Balduíno: um símbolo nacional da luta pela reforma agrária"
 label: articles
 support_line: "As terras reivindicadas em Corumbá (GO), supostamente, pertencem a um senador da República pelo estado do Ceará: 30 mil hectares improdutivos."
@@ -26,7 +28,11 @@ files:
 created_date: "2015-02-24T18:57:00-03:00"
 published: true
 images_hd: "http://farm9.staticflickr.com/8678/16451907449_80e5d43b5d_n.jpg"
-releated_posts: []
+releated_posts:
+  - 2015/02/2015-02-23-ato-no-acampamento-dom-tomas-defende-reforma-agraria-e-denuncia-descaso-juridico-na-resolucao-do-caso.md
+  - 2014/12/2014-10-27-o-apoio-do-frade-marcos-sassatelli-aos-sem-terra-da-fazenda-santa-monica.md
+  - 2014/12/2014-11-26-agradecemos-a-imensa-solidariedade-com-o-acampamento-dom-tomas.md
+  - 2015/02/2015-02-20-em-nota-cnbb-manifesta-preocupacao-com-as-familias-do-dom-tomas-balduino.md
 
 ---
 <figure class="image"><img alt="dom tomas.jpg" src="http://farm9.staticflickr.com/8678/16451907449_80e5d43b5d_b.jpg" />
@@ -52,8 +58,7 @@ Nem no esfor&ccedil;o de imagina&ccedil;&atilde;o mais pessimista seria poss&iac
 <p>&nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="eunício 3.jpg" src="http://farm9.staticflickr.com/8619/16636670031_5b5bd835bd_b.jpg" />
-<figcaption>Sede da fazenda; embora tenha 25 mil ha, suas instala&ccedil;&otilde;es s&atilde;o apenas para lazer, festas e piscina.<br />
-</figcaption>
+<figcaption>Sede da fazenda; embora tenha 25 mil ha, suas instala&ccedil;&otilde;es s&atilde;o apenas para lazer, festas e piscina.</figcaption>
 </figure>
 
 <p>As terras reivindicadas em Corumb&aacute; (GO), supostamente, pertencem a um senador da Rep&uacute;blica pelo estado do Cear&aacute;: 30 mil hectares improdutivos. Exposta a forma de acumula&ccedil;&atilde;o de poder territorial, pol&iacute;tico e do dom&iacute;nio dos meio de comunica&ccedil;&atilde;o no Cear&aacute;, os cearenses mudaram a dire&ccedil;&atilde;o do voto e n&atilde;o elegeram Eun&iacute;cio Oliveira para governador daquele estado. Se trata de um belo exemplo de como a luta de massas da classe trabalhadora pode interferir na festa dominada pelo marketing que s&atilde;o as elei&ccedil;&otilde;es brasileiras, impondo quest&otilde;es, como a reforma agr&aacute;ria, que o meio pol&iacute;tico se esfor&ccedil;a por ignorar.</p>
