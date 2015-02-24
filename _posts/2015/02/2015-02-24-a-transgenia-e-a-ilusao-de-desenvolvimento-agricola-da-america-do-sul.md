@@ -2,7 +2,7 @@
 date: "2015-02-24T16:20:17-03:00"
 tags:
   - tag: Trangênicos
-title: A transgenia e a ilusão de desenvolvimento agrícola da América do Sul.
+title: A ilusão dos transgênicos na América do Sul
 support_line: "Segundo o pesquisador boliviano Enrique Castañón, a produção de transgênicos pode ser ser interpretada como uma reprimarização da economia. "
 menu: transgênicos
 label: interviews
