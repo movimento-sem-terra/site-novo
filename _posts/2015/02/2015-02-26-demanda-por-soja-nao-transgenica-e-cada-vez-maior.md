@@ -5,7 +5,7 @@ tags:
   - tag: transgênicos
   - tag: agronegócio
   - tag: agroecologia
-title: Demanda por soja não transgênica é cada vez maior
+title: Cresce cada vez mais demanda por soja não transgênica
 support_line: "Mesmo entre os fazendeiros de Mato Grosso, a demanda pela soja convencional está cada vez maior, ao se livrarem dos royalties das grandes empresas."
 menu: transgênicos
 layout: post
@@ -28,7 +28,8 @@ releated_posts:
   - 2014/06/2014-06-24-areas-com-transgenico-e-agrotoxico-tem-maior-taxa-de-cancer-aponta-relatorio.md
 
 ---
-<p><br />
+<p><img alt="soja.jpg" src="http://farm9.staticflickr.com/8680/16036734003_91ea4d0f12_b.jpg" /><br />
+<br />
 <em>Da Embrapa</em></p>
 
 <p><br />
