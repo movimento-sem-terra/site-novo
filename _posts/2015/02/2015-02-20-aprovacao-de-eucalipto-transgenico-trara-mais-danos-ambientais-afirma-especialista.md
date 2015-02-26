@@ -5,7 +5,7 @@ tags:
   - tag: Eucalipto
   - tag: Paulo-Kageyama
   - tag: Celulose
-title: "Eucalipto transgênico trará mais danos ambientais, afirma especialista"
+title: "Preste a ser aprovado, eucalipto transgênico trará mais danos ambientais"
 hat: Meio Ambiente
 support_line: "Segundo Paulo Kageyama, integrante da CTNBio, medida é apressada e visa apenas interesses empresariais. "
 menu: agronegócio
