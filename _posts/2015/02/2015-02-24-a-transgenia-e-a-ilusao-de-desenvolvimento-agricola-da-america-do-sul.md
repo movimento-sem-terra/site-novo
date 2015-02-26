@@ -3,27 +3,21 @@ date: "2015-02-24T16:20:17-03:00"
 tags:
   - tag: agronegócio
   - tag: transgênicos
-title: Avanço do agronegócio aumenta as importações de alimentos
-support_line: "Segundo o pesquisador boliviano Enrique Castañón, Produzir mais não significa produzir melhor e nem aumentar o peso da agricultura na economia."
+title: Expansão dos transgênicos aumenta as importações de alimentos
+support_line: "Segundo o pesquisador boliviano Enrique Castañón, produzir mais não significa produzir melhor, nem aumentar o peso da agricultura na economia."
 menu: transgênicos
 label: interviews
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8660/16636062142_4f0a6e14cc_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8660/16636062142_4f0a6e14cc_t.jpg"
-    medium: "http://farm9.staticflickr.com/8660/16636062142_4f0a6e14cc_z.jpg"
-    small: "http://farm9.staticflickr.com/8660/16636062142_4f0a6e14cc_n.jpg"
-    title: transgenico.png
-    $$hashKey: 06S
-  - link: "http://farm9.staticflickr.com/8580/16451370119_a7d44e6a38_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8580/16451370119_a7d44e6a38_t.jpg"
-    medium: "http://farm9.staticflickr.com/8580/16451370119_a7d44e6a38_z.jpg"
-    small: "http://farm9.staticflickr.com/8580/16451370119_a7d44e6a38_n.jpg"
-    title: sementes transgênicas.jpg
-    $$hashKey: 0QP
+  - link: "http://farm9.staticflickr.com/8581/16469549460_beb8393050_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8581/16469549460_beb8393050_t.jpg"
+    medium: "http://farm9.staticflickr.com/8581/16469549460_beb8393050_z.jpg"
+    small: "http://farm9.staticflickr.com/8581/16469549460_beb8393050_n.jpg"
+    title: transgenicos.jpg
+    $$hashKey: 12U
 created_date: "2015-02-24T16:36:20-03:00"
 published: true
-images_hd: "http://farm9.staticflickr.com/8660/16636062142_4f0a6e14cc_n.jpg"
+images_hd: "http://farm9.staticflickr.com/8581/16469549460_beb8393050_n.jpg"
 releated_posts:
   - 2014/04/2014-04-28-na-italia-uma-decisao-historica-a-proibicao-do-cultivo-de-milho-transgenico.md
   - 2014/05/2014-05-13-enquanto-brasil-expande-plantio-de-transgenicos-rejeicao-mundial-aumenta.md
@@ -32,7 +26,7 @@ releated_posts:
   - 2014/06/2014-06-24-areas-com-transgenico-e-agrotoxico-tem-maior-taxa-de-cancer-aponta-relatorio.md
   - 2014/07/2014-07-08-20-anos-de-transgenicos-ha-o-que-comemorar.md
   - 2015/02/2015-02-05-nos-eua-produtores-comecam-a-plantar-lavouras-nao-transgenicas.md
-section: cover
+section: null
 
 ---
 <p><br />
