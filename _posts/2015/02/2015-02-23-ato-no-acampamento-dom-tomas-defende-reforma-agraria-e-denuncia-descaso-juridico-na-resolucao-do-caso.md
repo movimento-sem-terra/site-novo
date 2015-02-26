@@ -4,7 +4,7 @@ tags:
   - tag: Goiás
   - tag: Dom-Tomás-Balduíno
   - tag: Santa-Mônica
-title: Ato defende imediata desapropriação da Agropecuária Santa Mônica
+title: Ato defende a desapropriação da Fazenda de Eunício de Oliveira
 support_line: "Mais de três mil famílias estão ameaçadas de despejo da área de mais de 21 mil hectares, latifúndio do senador Eunício Oliveira."
 menu: lutas e mobilizações
 section: featured-news
