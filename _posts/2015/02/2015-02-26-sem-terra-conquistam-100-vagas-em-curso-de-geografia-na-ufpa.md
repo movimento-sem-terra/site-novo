@@ -5,7 +5,7 @@ tags:
   - tag: pronera
   - tag: pará
 title: Sem Terra conquistam 100 vagas em curso de geografia na UFPA
-support_line: "Para Ulisses Manaças, do MST, o curso significa um \"momento de felicidade\" para os movimentos, por abrir as portas da academia a camponeses, historicamente exluídos do ensino superior."
+support_line: "Para Ulisses Manaças, do MST, o curso significa um \"momento de felicidade\" para os movimentos, por abrir as portas da academia a camponeses."
 menu: "educação, cultura e comunicação"
 sector: education
 section: cover
