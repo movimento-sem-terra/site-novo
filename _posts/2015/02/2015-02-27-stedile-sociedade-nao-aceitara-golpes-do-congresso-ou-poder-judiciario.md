@@ -9,7 +9,7 @@ tags:
 title: "Stedile: sociedade não aceitará golpes do Congresso ou Poder Judiciário"
 support_line: "Em entrevista, membro da coordenação do MST afirma que cabe aos movimentos sociais cobrar do governo as mudanças sociais necessárias."
 menu: lutas e mobilizações
-section: cover
+section: null
 label: interviews
 layout: post
 files:
@@ -30,8 +30,7 @@ releated_posts:
   - 2015/02/2015-02-05-plebiscito-oficial-para-impedir-contrarreforma-politica.md
 
 ---
-<p><br />
-<em>Da Carta Capital</em></p>
+<p><em>Da Carta Capital</em></p>
 
 <p><br />
 Em entrevista, Jo&atilde;o Pedro Stedile, membro da coordena&ccedil;&atilde;o do MST, afirma que cabe aos movimentos sociais cobrar do governo as mudan&ccedil;as sociais necess&aacute;rias, e que a campanha de Impeachment articulada pela direita &eacute; &quot;uma t&aacute;tica para acuar o governo. Para que ele tenha medo de fazer as mudan&ccedil;as que o povo votou e quer no segundo mandato&quot;.</p>
