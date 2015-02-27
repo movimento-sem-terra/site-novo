@@ -3,7 +3,7 @@ date: "2015-02-27T14:57:19-03:00"
 tags:
   - tag: reforma-agrária
   - tag: mst-30-anos
-title: Arquivos históricos do MST começam a ser organizados e divulgados para consulta
+title: Arquivos históricos do MST começam a ser organizados para consulta
 support_line: "Desde 2014 foi lançado o projeto de resgate, organização e disponibilização de documentos e imagens históricas que contam os 30 anos de luta do Movimento."
 menu: reforma agrária
 section: cover
@@ -62,7 +62,7 @@ releated_posts:
 
 ---
 <figure class="image"><img alt="arquivo e memoria.jpg" src="http://farm9.staticflickr.com/8676/16457185327_bae5b4470f_b.jpg" />
-<figcaption>Os historiadores Camilo Alvarez e Julyana Souza, respons&aacute;veis pela recupera&ccedil;&atilde;o e documenta&ccedil;&atilde;o de todo o acervo.</figcaption>
+<figcaption>Os historiadores Camilo Alvarez e Julyana Souza, respons&aacute;veis pela recupera&ccedil;&atilde;o e documenta&ccedil;&atilde;o do acervo.</figcaption>
 </figure>
 
 <p><br />
@@ -70,10 +70,10 @@ releated_posts:
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Arquivo e a mem&oacute;ria mant&ecirc;m uma rela&ccedil;&atilde;o indissoci&aacute;vel em toda hist&oacute;ria da nossa sociedade. Essa rela&ccedil;&atilde;o &eacute; imprescind&iacute;vel, j&aacute; que a mem&oacute;ria &eacute; quem comp&otilde;e a identidade de um povo.</p>
+O arquivo e a mem&oacute;ria s&atilde;o respons&aacute;veis por manter uma rela&ccedil;&atilde;o indissoci&aacute;vel em toda hist&oacute;ria da humanidade. Por ser um elemento que comp&otilde;e a identidade de um povo, a mem&oacute;ria acaba tendo um papel imprescind&iacute;vel na constru&ccedil;&atilde;o de qualquer processo hist&oacute;rico.</p>
 
 <p><br />
-Neste sentido, o MST compreendeu neste &uacute;ltimo per&iacute;odo a necessidade de analisar, entender e transmitir as mais diversas documenta&ccedil;&otilde;es e informa&ccedil;&otilde;es de todo material hist&oacute;rico do Movimento ao longo destas tr&ecirc;s d&eacute;cadas, mostrando e compreendendo o seu real significado.</p>
+Neste sentido, o MST compreendeu neste &uacute;ltimo per&iacute;odo a necessidade de analisar, entender e transmitir as mais diversas documenta&ccedil;&otilde;es e informa&ccedil;&otilde;es de todo material hist&oacute;rico do Movimento ao longo destas tr&ecirc;s d&eacute;cadas de vida, mostrando e compreendendo o seu real significado.</p>
 
 <p>&nbsp;</p>
 
@@ -81,7 +81,7 @@ Neste sentido, o MST compreendeu neste &uacute;ltimo per&iacute;odo a necessidad
 <figcaption>O foco agora ser&aacute; na cria&ccedil;&atilde;o de um banco de imagens com fotos hist&oacute;ricas do MST.</figcaption>
 </figure>
 
-<p>A partir disso, foi lan&ccedil;ado em 2014 o projeto de resgate, organiza&ccedil;&atilde;o e disponibiliza&ccedil;&atilde;o de documentos e imagens hist&oacute;ricas que contam os 30 anos de lutas do Movimento.</p>
+<p>A partir disso, foi lan&ccedil;ado em 2014 o projeto de resgate, organiza&ccedil;&atilde;o e disponibiliza&ccedil;&atilde;o de documentos e imagens hist&oacute;ricas que contam os 30 anos de luta do Movimento.</p>
 
 <p><br />
 Para a historiadora e educadora Julyana de Souza, que faz parte da equipe de Arquivo e Mem&oacute;ria do MST, a organiza&ccedil;&atilde;o desse acervo tem como objetivo servir de ponto de partida para a realiza&ccedil;&atilde;o de pesquisas e para a produ&ccedil;&atilde;o de conhecimento, que somados, criam novas formas socioecon&ocirc;micas, pol&iacute;ticas e culturais de atua&ccedil;&atilde;o.</p>
@@ -90,10 +90,10 @@ Para a historiadora e educadora Julyana de Souza, que faz parte da equipe de Arq
 &ldquo;O trabalho que estamos desenvolvendo no Movimento tem como base a organiza&ccedil;&atilde;o de toda produ&ccedil;&atilde;o intelectual do MST, desde a sua funda&ccedil;&atilde;o at&eacute; os dias de hoje&rdquo;, acredita.</p>
 
 <p><br />
-O projeto, que tamb&eacute;m conta com a assessoria do soci&oacute;logo e bibliotec&aacute;rio especialista em arquivologia da Funda&ccedil;&atilde;o Perseu Abramo, Carlos Henrique Menegozzo, &ldquo;surgiu com o intuito de fazer com que as pessoas saibam como o Movimento se construiu ao longo desse tempo, bem como sua relev&acirc;ncia pol&iacute;tica no Brasil&rdquo;, analisa a historiadora.</p>
+O projeto, que tamb&eacute;m conta com a assessoria do soci&oacute;logo e bibliotec&aacute;rio especialista em arquivologia da Funda&ccedil;&atilde;o Perseu Abramo, Carlos Henrique Menegozzo, &ldquo;surgiu com o intuito de fazer com que as pessoas saibam como o Movimento se construiu ao longo deste tempo, bem como sua relev&acirc;ncia pol&iacute;tica no Brasil&rdquo;, analisa a historiadora.</p>
 
 <figure class="image" style="float:left"><img alt="arquivo e memoria2.jpg" src="http://farm9.staticflickr.com/8673/16042197344_52db5ba1d6_b.jpg" />
-<figcaption>O projeto tamb&eacute;m contou com a assessoria do soci&oacute;logo e bibliotec&aacute;rio especialista em arquivologia, Carlos Menegozzo.</figcaption>
+<figcaption>O projeto contou com a assessoria do soci&oacute;logo e bibliotec&aacute;rio especialista em arquivologia, Carlos Menegozzo.</figcaption>
 </figure>
 
 <p>&nbsp;</p>
