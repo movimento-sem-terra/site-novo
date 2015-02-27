@@ -58,13 +58,13 @@ Nem no esfor&ccedil;o de imagina&ccedil;&atilde;o mais pessimista seria poss&iac
 <p>&nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="eunício 3.jpg" src="http://farm9.staticflickr.com/8619/16636670031_5b5bd835bd_b.jpg" />
-<figcaption>Sede da fazenda; embora tenha 25 mil ha, suas instala&ccedil;&otilde;es s&atilde;o apenas para lazer, festas e piscina.</figcaption>
+<figcaption>Sede da fazenda; embora tenha 30 mil ha, suas instala&ccedil;&otilde;es s&atilde;o apenas para lazer, festas e piscina.</figcaption>
 </figure>
 
 <p>As terras reivindicadas em Corumb&aacute; (GO), supostamente, pertencem a um senador da Rep&uacute;blica pelo estado do Cear&aacute;: 30 mil hectares improdutivos. Exposta a forma de acumula&ccedil;&atilde;o de poder territorial, pol&iacute;tico e do dom&iacute;nio dos meio de comunica&ccedil;&atilde;o no Cear&aacute;, os cearenses mudaram a dire&ccedil;&atilde;o do voto e n&atilde;o elegeram Eun&iacute;cio Oliveira para governador daquele estado. Se trata de um belo exemplo de como a luta de massas da classe trabalhadora pode interferir na festa dominada pelo marketing que s&atilde;o as elei&ccedil;&otilde;es brasileiras, impondo quest&otilde;es, como a reforma agr&aacute;ria, que o meio pol&iacute;tico se esfor&ccedil;a por ignorar.</p>
 
 <p><br />
-Quem perde com a vit&oacute;ria judicial de Eun&iacute;cio e com o poss&iacute;vel despejo anunciado para 25 de fevereiro? As tr&ecirc;s mil fam&iacute;lias que resistem bravamente &agrave;s press&otilde;es e amea&ccedil;as de um massacre que se anuncia. Os movimentos que lutam pela reforma agr&aacute;ria. Mas, sobretudo, o governo federal. Por qu&ecirc;?</p>
+Quem perde com a vit&oacute;ria judicial de Eun&iacute;cio e com o poss&iacute;vel despejo anunciado para 4&nbsp;de mar&ccedil;o? As tr&ecirc;s mil fam&iacute;lias que resistem bravamente &agrave;s press&otilde;es e amea&ccedil;as de um massacre que se anuncia. Os movimentos que lutam pela reforma agr&aacute;ria. Mas, sobretudo, o governo federal. Por qu&ecirc;?</p>
 
 <p><br />
 Porque deixar que essa leg&iacute;tima luta seja mais uma vez tratada como quest&atilde;o de pol&iacute;cia &eacute; cortar de vez os fr&aacute;geis la&ccedil;os com os movimentos sociais que lutam pela reforma agr&aacute;ria. &Eacute; referendar a opini&atilde;o da ministra da Agricultura, que se empenha em afirmar que n&atilde;o existe mais latif&uacute;ndio no Brasil. &Eacute; trocar mais uma vez a maioria pela minoria. &Eacute; preferir manter um pacto de governan&ccedil;a com partidos arcaicos, olig&aacute;rquicos, a buscar meios de fortalecer a participa&ccedil;&atilde;o popular na pol&iacute;tica.</p>
