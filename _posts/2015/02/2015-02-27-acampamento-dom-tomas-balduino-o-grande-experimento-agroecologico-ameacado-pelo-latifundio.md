@@ -12,15 +12,27 @@ menu: reforma agrária
 label: articles
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8677/16477766068_5dc40433ff_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8677/16477766068_5dc40433ff_t.jpg"
-    medium: "http://farm9.staticflickr.com/8677/16477766068_5dc40433ff_z.jpg"
-    small: "http://farm9.staticflickr.com/8677/16477766068_5dc40433ff_n.jpg"
-    title: acampamneto d tomas.jpg
-    $$hashKey: 0EX
+  - link: "http://farm9.staticflickr.com/8605/16670915125_5d89e298e3_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8605/16670915125_5d89e298e3_t.jpg"
+    medium: "http://farm9.staticflickr.com/8605/16670915125_5d89e298e3_z.jpg"
+    small: "http://farm9.staticflickr.com/8605/16670915125_5d89e298e3_n.jpg"
+    title: dom.jpg
+    $$hashKey: 07D
+  - link: "http://farm9.staticflickr.com/8623/16483500460_c872a45b9d_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8623/16483500460_c872a45b9d_t.jpg"
+    medium: "http://farm9.staticflickr.com/8623/16483500460_c872a45b9d_z.jpg"
+    small: "http://farm9.staticflickr.com/8623/16483500460_c872a45b9d_n.jpg"
+    title: dom2.jpg
+    $$hashKey: 07G
+  - link: "http://farm9.staticflickr.com/8581/16669556331_191bb18572_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8581/16669556331_191bb18572_t.jpg"
+    medium: "http://farm9.staticflickr.com/8581/16669556331_191bb18572_z.jpg"
+    small: "http://farm9.staticflickr.com/8581/16669556331_191bb18572_n.jpg"
+    title: animação.jpg
+    $$hashKey: 07J
 created_date: "2015-02-27T17:09:28-03:00"
 published: true
-images_hd: "http://farm9.staticflickr.com/8677/16477766068_5dc40433ff_n.jpg"
+images_hd: "http://farm9.staticflickr.com/8605/16670915125_5d89e298e3_n.jpg"
 releated_posts:
   - 2014/09/2014-09-05-cpt-declara-solidariedade-aos-ocupantes-da-fazenda-santa-monica.md
   - 2015/02/2015-02-23-ato-no-acampamento-dom-tomas-defende-reforma-agraria-e-denuncia-descaso-juridico-na-resolucao-do-caso.md
@@ -37,6 +49,10 @@ Quando tr&ecirc;s mil fam&iacute;lias Sem Terra ocuparam, no dia 31 de agosto de
 <p><br />
 Pastagem abandonada e pequenas parcelas de restos da cultura de soja eram o retrato da espolia&ccedil;&atilde;o produzida pelo arcaico sistema agr&aacute;rio brasileiro, onde terra &eacute; poder e agroneg&oacute;cio &eacute; destrui&ccedil;&atilde;o ambiental, depress&atilde;o econ&ocirc;mica para os munic&iacute;pios e desemprego.</p>
 
+<figure class="image" style="float:right"><img alt="dom.jpg" src="http://farm9.staticflickr.com/8605/16670915125_5d89e298e3_b.jpg" />
+<figcaption>Feira agroecol&oacute;gica durante ato em defesa do acampamento.</figcaption>
+</figure>
+
 <p><br />
 Desde o in&iacute;cio do trabalho de base, o MST construiu com as fam&iacute;lias uma poderosa s&iacute;ntese: a Reforma Agr&aacute;ria n&atilde;o &eacute; mais um projeto econ&ocirc;mico, mas sim um projeto de vida.</p>
 
@@ -52,8 +68,13 @@ Passados seis meses de ocupa&ccedil;&atilde;o, a realidade n&atilde;o poderia se
 <p><br />
 Rodeado de soja e de pasto, esse enclave da resist&ecirc;ncia popular se transformou uma das maiores experi&ecirc;ncias de agroecologia do pa&iacute;s.</p>
 
-<p><br />
-Gra&ccedil;as &agrave; orienta&ccedil;&atilde;o pol&iacute;tica do MST e da determina&ccedil;&atilde;o das fam&iacute;lias, tr&ecirc;s princ&iacute;pios foram acordados juntamente com a chegada das primeiras chuvas, em setembro.</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="dom2.jpg" src="http://farm9.staticflickr.com/8623/16483500460_c872a45b9d_b.jpg" />
+<figcaption></figcaption>
+</figure>
+
+<p>Gra&ccedil;as &agrave; orienta&ccedil;&atilde;o pol&iacute;tica do MST e da determina&ccedil;&atilde;o das fam&iacute;lias, tr&ecirc;s princ&iacute;pios foram acordados juntamente com a chegada das primeiras chuvas, em setembro.</p>
 
 <p><br />
 1) todos os 22 n&uacute;cleos de base (NB), que s&atilde;o compostos de 30 a 190 fam&iacute;lias, deveriam produzir de forma coletiva, seja para os grupos de afinidade, seja por esp&eacute;cies produzidas;</p>
@@ -86,7 +107,13 @@ Mais de 15 mil pamonhas e outros in&uacute;meros pratos foram feitos em um esfor
 Uma festa bela, organizada e que sinaliza a transforma&ccedil;&atilde;o que ali ocorrer&aacute; quando aquele latif&uacute;ndio for derrotado.</p>
 
 <p><br />
-<strong>Despejo</strong></p>
+&nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="animação.jpg" src="http://farm9.staticflickr.com/8581/16669556331_191bb18572_b.jpg" />
+<figcaption></figcaption>
+</figure>
+
+<p><strong>Despejo</strong></p>
 
 <p><br />
 Todo esse grandioso processo est&aacute;, nesse exato momento, prestes a ser destru&iacute;do. O poder judici&aacute;rio, representado na figura do juiz da Comarca de Corumb&aacute;, Levine Artiaga, reconhecidamente alinhado com o senador, decretou o despejo das fam&iacute;lias.</p>
