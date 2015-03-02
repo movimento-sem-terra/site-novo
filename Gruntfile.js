@@ -30,7 +30,7 @@ module.exports = function( grunt ) {
       dist: {
         options: {
           loadPath: '_sass',
-          style: 'expanded',
+          style: 'compressed',
           cacheLocation: 'assets/css/.sass-cache'
         },
         files: [{
