@@ -31,30 +31,31 @@ releated_posts:
   - 2014/12/2014-12-09-a-quem-interessa-o-brasil-ser-o-primeiro-pais-a-liberar-eucalipto-transgenico.md
   - 2015/01/2014-12-23-com-transgenico-inseguranca-alimentar-nos-eua-aumentou-em-57.md
   - 2015/02/2015-02-18-monocultivo-de-eucalipto-parece-uma-floresta-mas-nao-e.md
-section: featured-news
+section: null
 
 ---
 <p><img alt="eucatrans.jpg" height="353" src="http://farm9.staticflickr.com/8592/16567660486_9265930536_b.jpg" width="530" /><br />
 <br />
 <em>Por Maura Silva<br />
-Da P&aacute;gina do MST</em><br />
-<br />
+Da P&aacute;gina do MST</em></p>
+
+<p><br />
 O Brasil &eacute; um dos maiores produtores de celulose do mundo: estima-se que mais de 5 milh&otilde;es de hectares sejam destinados &agrave; planta&ccedil;&atilde;o de florestas de eucaliptos, que em 2014 fez com que seus produtores lucrassem 600 d&oacute;lares por tonelada, atividade das mais rent&aacute;veis do setor.</p>
 
 <p><br />
 Diversos especialistas chamam a aten&ccedil;&atilde;o para os danos ambientais que o plantio dessa commoditie causa. A come&ccedil;ar pela destrui&ccedil;&atilde;o de toda uma biodiversidade e a substitui&ccedil;&atilde;o por uma &uacute;nica esp&eacute;cie.</p>
 
 <p><br />
-Outro ponto s&atilde;o as enormes quantidades de agrot&oacute;xicos utilizados no plantio, respons&aacute;veis pela extin&ccedil;&atilde;o de insetos e animais ben&eacute;ficos como borboletas, besouros, joaninhas, abelhas, anf&iacute;bios, tatus, etc. Um destes agrot&oacute;xicos mais utilizados nas planta&ccedil;&otilde;es e eucaliptos s&atilde;o os sulfluramida, fortemente cancer&iacute;genos e proibido pela Conven&ccedil;&atilde;o de Estocolmo, subscrita pelo Brasil e por mais de 152 pa&iacute;ses.</p>
+Outro ponto s&atilde;o as enormes quantidades de agrot&oacute;xicos utilizados no plantio, respons&aacute;veis pela extin&ccedil;&atilde;o de insetos e animais ben&eacute;ficos como borboletas, besouros, joaninhas, abelhas, anf&iacute;bios, tatus, etc. Um destes agrot&oacute;xicos mais utilizados nas planta&ccedil;&otilde;es de eucaliptos &eacute; o sulfluramida, fortemente cancer&iacute;genos e proibido pela Conven&ccedil;&atilde;o de Estocolmo, subscrita pelo Brasil e por mais de 152 pa&iacute;ses.</p>
 
 <p><br />
 Mesmo assim, no pr&oacute;ximo dia 5 de mar&ccedil;o, a Comiss&atilde;o T&eacute;cnica Nacional de Biosseguran&ccedil;a (CTNBio) colocar&aacute; em pauta a vota&ccedil;&atilde;o que libera o cultivo de eucalipto transg&ecirc;nicos no Brasil.</p>
 
 <p><br />
-Para Paulo Kageyama, integrante da CTNBio e professor da Universidade de S&atilde;o Paulo, &ldquo;esse projeto n&atilde;o traz benef&iacute;cios &agrave; comunidade como um todo, nem a pr&oacute;pria eucaliptocultura e aos produtores de mel e etc. Muitas empresas do setor j&aacute; reconheceram que essa &eacute; uma libera&ccedil;&atilde;o prematura. A &uacute;nica grande interessada e justamente a &uacute;nica empresa beneficiada por esse processo &eacute; a FuturaGene/Suzano&rdquo;, afirma.</p>
+Para Paulo Kageyama, integrante da CTNBio e professor da Universidade de S&atilde;o Paulo, &ldquo;esse projeto n&atilde;o traz benef&iacute;cios &agrave; comunidade como um todo, nem a pr&oacute;pria eucaliptocultura e aos produtores de mel. Muitas empresas do setor j&aacute; reconheceram que essa &eacute; uma libera&ccedil;&atilde;o prematura. A &uacute;nica grande interessada e justamente a &uacute;nica empresa beneficiada por esse processo &eacute; a FuturaGene/Suzano&rdquo;, afirma.</p>
 
 <p><br />
-Confira abaixo a entrevista completa:</p>
+Confira abaixo a entrevista:</p>
 
 <p><br />
 <strong>Mesmo sem as certifica&ccedil;&otilde;es necess&aacute;rias, o H421 (sigla cient&iacute;fica do eucalipto transg&ecirc;nico) foi aprovado para comercializa&ccedil;&atilde;o. Sendo assim, quais os riscos que ele representa para a sa&uacute;de humana e para o meio ambiente?</strong></p>
