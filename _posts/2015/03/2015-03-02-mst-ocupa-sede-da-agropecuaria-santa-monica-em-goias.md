@@ -7,7 +7,7 @@ tags:
   - tag: agropecuária-santa-mônica
 hat: Luta
 title: MST ocupa sede da fazendo do senador Eunício de Oliveira
-support_line: "Áream tem 21 mil hectares e pertence ao senador Eunício Oliveira. Despejo pode ocorrer nesta quarta-feira. "
+support_line: "Área Agropecuária Santa Mônica, em Corumbá de Goiás, tem 21 mil hectares. Despejo pode ocorrer nesta quarta-feira. "
 menu: reforma agrária
 section: cover
 layout: post
@@ -43,10 +43,10 @@ releated_posts:
 <em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Nesta manh&atilde;, as fam&iacute;lias do acampamento Dom Tom&aacute;s Baldu&iacute;no ocuparam a sede da Agropecu&aacute;ria Santa M&ocirc;nica, em Corumb&aacute; de Goi&aacute;s. A agropecu&aacute;ria &eacute; um latif&uacute;ndio de mais de 21 mil hectares, propriedade do senador Eun&iacute;cio Oliveira (PMDB-CE). Mais de tr&ecirc;s mil fam&iacute;lias ocupam a fazenda desde agosto de 2014.</p>
+Na manh&atilde; desta segunda-feira (02/05), as fam&iacute;lias do acampamento Dom Tom&aacute;s Baldu&iacute;no ocuparam a sede da Agropecu&aacute;ria Santa M&ocirc;nica, em Corumb&aacute; de Goi&aacute;s. A agropecu&aacute;ria &eacute; um latif&uacute;ndio de mais de 21 mil hectares, propriedade do senador Eun&iacute;cio Oliveira (PMDB-CE). Mais de tr&ecirc;s mil fam&iacute;lias ocupam a fazenda desde agosto de 2014.</p>
 
 <p><br />
-O acampamento pode sofrer um despejo nesta quarta-feira (04/05) de mar&ccedil;o. A ocupa&ccedil;&atilde;o teve in&iacute;cio em agosto de 2014, e a &aacute;rea &eacute; considerada improdutiva. Al&eacute;m disso, a terra &eacute; fruto de transa&ccedil;&otilde;es n&atilde;o esclarecidas pelo senador da Rep&uacute;blica.</p>
+O acampamento pode sofrer um despejo nesta quarta-feira (04/05). O latif&uacute;ndio considerado&nbsp;improdutivo&nbsp;&eacute; fruto de transa&ccedil;&otilde;es n&atilde;o esclarecidas pelo senador da Rep&uacute;blica.</p>
 
 <p><br />
 &ldquo;At&eacute; hoje &eacute; pendente de explica&ccedil;&otilde;es a forma como ele conseguiu acabar com as pequenas propriedades que existiam e formar esse imenso latif&uacute;ndio&quot;, afirma o integrante da coordena&ccedil;&atilde;o do MST em Goi&aacute;s, Jos&eacute; Valdir Misnerovicz.</p>
@@ -66,7 +66,7 @@ De acordo com nota emitida pelo MST de Goi&aacute;s, &ldquo;&eacute; de se salie
 <strong>Produ&ccedil;&atilde;o agroecol&oacute;gica</strong></p>
 
 <p><br />
-O acampamento Dom Tom&aacute;s, formado em agosto de 2014, &eacute; um dos maiores do estado de Goi&aacute;s e abriga mais de tr&ecirc;s mil fam&iacute;lias. Neste per&iacute;odo, a produ&ccedil;&atilde;o de alimentos sem agrot&oacute;xicos foi realizada e, hoje, a &aacute;rea j&aacute; pode ser considerada um laborat&oacute;rio da agroecologia.</p>
+O acampamento Dom Tom&aacute;s &eacute; um dos maiores do estado de Goi&aacute;s, e abriga mais de tr&ecirc;s mil fam&iacute;lias. Neste per&iacute;odo, a produ&ccedil;&atilde;o de alimentos sem agrot&oacute;xicos foi realizada e, hoje, a &aacute;rea j&aacute; pode ser considerada um laborat&oacute;rio da agroecologia.</p>
 
 <p><br />
 &ldquo;Estamos promovendo o resgate de variedades crioulas, sistemas de controle biol&oacute;gico, cons&oacute;rcios de culturas, princ&iacute;pios de alelopatia e mais uma gama de inova&ccedil;&otilde;es foram sendo desenvolvidas. Isso significa o barateamento da comida na cidade, j&aacute; reconhecido pela popula&ccedil;&atilde;o de Corumb&aacute; e Alex&acirc;nia (GO)&rdquo;, disse Luiz Zarref, integrante da coordena&ccedil;&atilde;o estadual do MST em Goi&aacute;s.</p>
