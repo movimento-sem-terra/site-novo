@@ -69,6 +69,7 @@ function heroku {
     git add . -A
     git commit -m "Site-novo to staging"
     git push -f heroku master
+    rm index.php
   popd
 }
 
