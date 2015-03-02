@@ -73,19 +73,12 @@ module.exports = function( grunt ) {
 
     },
 
-    concurrent: {
-      serve: [
-        'build',
-        'connect:server:keepalive',
-        'watch',
-      ],
-    },
   });
 
   grunt.loadNpmTasks('grunt-contrib-sass');
   grunt.loadNpmTasks('grunt-shell');
 
-  grunt.registerTask( 'build', [ 'sass', 'shell:jekyllBuild' ] )
-  grunt.registerTask('serve', ['concurrent:serve']);
+  grunt.registerTask( 'build', [ 'shell:jekyllBuild', 'sass' ] )
+  grunt.registerTask('serve', ['build', 'connect:server', 'watch']);
 
 };
