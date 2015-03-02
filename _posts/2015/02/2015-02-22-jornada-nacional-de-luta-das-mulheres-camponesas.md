@@ -49,3 +49,6 @@ E deve se colocar em alian&ccedil;a com as mulheres trabalhadoras da cidade, par
 
 <p><br />
 &quot;Assumimos o compromisso de lutar incansavelmente contra toda e qualquer forma de opress&atilde;o e mercantiliza&ccedil;&atilde;o da vida, do corpo e dos bens naturais&quot;.</p>
+
+<p><br />
+Clique aqui para baixar o <a href="http://file:///C:/Documents%20and%20Settings/assessoria/Meus%20documentos/Downloads/cartaz-tipo%201.pdf" target="_blank">panfleto </a>e a <a href="http://file:///C:/Documents%20and%20Settings/assessoria/Meus%20documentos/Downloads/cartilha%20mulheres.pdf" target="_blank">cartilha </a>da Jornada.</p>
