@@ -6,7 +6,7 @@ tags:
 title: Arquivos históricos do MST começam a ser organizados para consulta
 support_line: "Desde 2014 foi lançado o projeto de resgate, organização e disponibilização de documentos e imagens históricas que contam os 30 anos de luta do Movimento."
 menu: reforma agrária
-section: cover
+section: featured-news
 layout: post
 files:
   - link: "http://farm9.staticflickr.com/8676/16457185327_bae5b4470f_b.jpg"
