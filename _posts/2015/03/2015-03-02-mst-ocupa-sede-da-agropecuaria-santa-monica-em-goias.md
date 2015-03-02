@@ -7,7 +7,7 @@ tags:
   - tag: agropecuária-santa-mônica
 hat: Luta
 title: MST ocupa sede da fazenda do senador Eunício de Oliveira
-support_line: "Área Agropecuária Santa Mônica, em Corumbá de Goiás, tem 21 mil hectares. Despejo pode ocorrer nesta quarta-feira. "
+support_line: "A área da Agropecuária Santa Mônica, em Corumbá de Goiás, tem 21 mil hectares. Despejo pode ocorrer nesta quarta-feira. "
 menu: reforma agrária
 section: cover
 layout: post
