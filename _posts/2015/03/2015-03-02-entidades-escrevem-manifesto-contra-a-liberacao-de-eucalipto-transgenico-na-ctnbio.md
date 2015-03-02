@@ -5,7 +5,7 @@ tags:
   - tag: eucalipto
   - tag: transgênicos
 support_line: "O uso dessa variedade visa apenas o aumento da produção para ampliar o lucro da empresa Suzano, desconsiderando os riscos de possíveis problemas ambientais e de saúde."
-title: Entidades escrevem manifesto contra a liberação de eucalipto transgênico na CTNBio
+title: Entidades escrevem manifesto contra a liberação de eucalipto transgênico
 menu: transgênicos
 layout: post
 files:
