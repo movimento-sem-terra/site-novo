@@ -4,7 +4,7 @@ tags:
   - tag: solidariedade-internacional
   - tag: hugo-chávez
   - tag: venezuela
-title: "Show do Gog e atos políticos marcam a semana mundial de solidariedade à Venezuela\n"
+title: Show do Gog e atos políticos marcam a semana de solidariedade à Venezuela
 support_line: "Na sexta-feira, o cantor venezuelano, Alí Alejandro Primera, também se apresentará no Memorial da América Latina."
 menu: solidariedade
 section: cover
