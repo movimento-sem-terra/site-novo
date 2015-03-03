@@ -37,6 +37,7 @@ releated_posts:
   - 2014/09/2014-09-05-cpt-declara-solidariedade-aos-ocupantes-da-fazenda-santa-monica.md
   - 2015/02/2015-02-23-ato-no-acampamento-dom-tomas-defende-reforma-agraria-e-denuncia-descaso-juridico-na-resolucao-do-caso.md
   - 2015/02/2015-02-24-acampamento-dom-tomas-balduino-um-simbolo-nacional-da-luta-pela-reforma-agraria.md
+section: featured-news
 
 ---
 <p><br />
