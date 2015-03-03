@@ -38,7 +38,7 @@
       position: relative;
       z-index: 11;
       padding-top: 30px;
-      
+
       div {
         width: 50%;
         background-color: white;
@@ -57,5 +57,86 @@
         }
       }
     }
+
+
+    .bar {
+      height:4px;
+      margin-top: -4px;
+      background:#eee;
+      width:100%;
+      position:relative;
+      z-index: 10;
+      top:13px;
+      left:0;
+      background-color: #eee;
+
+    }
+
+    .timeline {
+        white-space: nowrap;
+        overflow-x:  scroll;
+        padding: 10px 0 10px 0;
+        position: relative;
+        background-color: white;
+
+      .entry {
+          display: inline-block;
+          vertical-align: top;
+          color: black;
+          padding: 6px;
+          font-size: 12px;
+          text-align: center;
+          position: relative;
+          left: 47.5%;
+          transition-duration: .3s;
+
+        &.active {
+          &:after {
+            border-color: $mst-red;
+          }
+        }
+
+        &:hover, &:after:hover {
+          cursor: pointer;
+
+          h1 {
+            @include transform(scale(1.1));
+          }
+        }
+
+
+        &:after {
+          content: '';
+          display: block;
+          background: $mst-green;
+          width: 20px;
+          height: 20px;
+          border-radius: 50%;
+          border: 3px solid white;
+          position: absolute;
+          left: 50%;
+          top: -9px;
+          z-index: 11;
+          margin-left: -10px;
+        }
+
+
+        h1 {
+          color: $mst-green;
+          font-size: 18px;
+          font-weight: bold;
+          margin-bottom: 10px;
+          transition-duration: .3s;
+        }
+      }
+    }
   }
 }
+
+
+
+
+
+
+
+
