@@ -5,7 +5,7 @@ tags:
   - tag: agronegócio
   - tag: latifúndio
 title: Cerca de 200 mil camponeses continuam sem ter uma área para cultivar
-support_line: "A CPT realizou um balanço no período 2011-2014, que mostra que nesse quadriênio aconteceram os piores indicadores em matéria de reforma agrária dos últimos 20 anos."
+support_line: A CPT mostra que entre 2011-2014 aconteceram os piores indicadores em matéria de reforma agrária dos últimos 20 anos.
 menu: reforma agrária
 layout: post
 files:
