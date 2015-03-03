@@ -34,11 +34,12 @@ releated_posts:
   - 2014/08/2014-08-01-sem-terra-mantem-acampamento-ao-lado-da-justica-federal-no-es.md
 
 ---
-<p><br />
-<em>Da P&aacute;gina do MST</em><br />
-&nbsp;</p>
+<p><img alt="_MG_1919.jpg" src="http://farm9.staticflickr.com/8635/16087242563_fa966000e5_b.jpg" /><br />
+<br />
+<em>Da P&aacute;gina do MST</em></p>
 
-<p>A partir deste domingo (08/03) mais de 6 mil trabalhadores Sem Terra de dez regi&otilde;es da Bahia estar&atilde;o em luta reivindicando terra, Reforma Agr&aacute;ria e dialogando com a sociedade baiana na Marcha Estadual do MST.<br />
+<p><br />
+A partir deste domingo (08/03) mais de 6 mil trabalhadores Sem Terra de dez regi&otilde;es da Bahia estar&atilde;o em luta reivindicando terra, Reforma Agr&aacute;ria e dialogando com a sociedade baiana na Marcha Estadual do MST.<br />
 &nbsp;</p>
 
 <p>Este ano, a marcha percorrer&aacute; 116 km, saindo do munic&iacute;pio de Feira de Santana em dire&ccedil;&atilde;o a capital baiana, Salvador.<br />
@@ -69,5 +70,3 @@ releated_posts:
 &nbsp;</p>
 
 <p>A Marcha Estadual do MST na Bahia faz parte da Jornada Nacional de Luta pela Reforma Agr&aacute;ria, que mobiliza trabalhadores Sem Terra em todo o pa&iacute;s.</p>
-
-<p>&nbsp;</p>
