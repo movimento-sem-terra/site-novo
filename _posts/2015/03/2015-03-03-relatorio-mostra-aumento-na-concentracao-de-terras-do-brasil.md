@@ -18,9 +18,15 @@ files:
     small: "http://farm9.staticflickr.com/8660/16519142200_97b13f1b8e_n.jpg"
     title: meme cpt.jpg
     $$hashKey: 08G
+  - link: "http://farm9.staticflickr.com/8681/16680686236_bf0892bcb7_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8681/16680686236_bf0892bcb7_t.jpg"
+    medium: "http://farm9.staticflickr.com/8681/16680686236_bf0892bcb7_z.jpg"
+    small: "http://farm9.staticflickr.com/8681/16680686236_bf0892bcb7_n.jpg"
+    title: latifundio.jpg
+    $$hashKey: 0DK
 created_date: "2015-03-03T14:56:29-03:00"
 published: true
-images_hd: "http://farm9.staticflickr.com/8660/16519142200_97b13f1b8e_n.jpg"
+images_hd: "http://farm9.staticflickr.com/8681/16680686236_bf0892bcb7_n.jpg"
 releated_posts:
   - 2014/12/2014-11-05-cpt-quer-mais-compromisso-do-governo-com-os-povos-que-lutam-pela-terra.md
   - 2015/01/2014-12-29-presente-de-natal-para-o-agronegocio-katia-abreu-como-ministra-da-agricultura.md
