@@ -5,7 +5,7 @@ tags:
   - tag: eucalipto
   - tag: transgênicos
 support_line: "O uso dessa variedade visa apenas o aumento da produção para ampliar o lucro da empresa Suzano, desconsiderando os riscos de possíveis problemas ambientais e de saúde."
-title: Entidades escrevem manifesto contra a liberação de eucalipto transgênico
+title: Organizações divulgam manifesto contra a liberação de eucalipto transgênico pela CTNBio
 menu: transgênicos
 layout: post
 files:
@@ -30,13 +30,40 @@ releated_posts:
 <em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Prestes a ser aprovado na Comiss&atilde;o T&eacute;cnica Nacional de Biosseguran&ccedil;a (CTNBio), diversos especialistas vem alertando para o perigo da libera&ccedil;&atilde;o do cultivo de eucalipto transg&ecirc;nicos no Brasil, que entrar&aacute; para vota&ccedil;&atilde;o na CTNBio no pr&oacute;ximo dia 5 de mar&ccedil;o.</p>
+Nesta segunda-feira (02/03), organiza&ccedil;&otilde;es e movimentos sociais divulgaram manifesto contra libera&ccedil;&atilde;o de eucalipto transg&ecirc;nico a ser votado no dia cinco de mar&ccedil;o pr&oacute;ximo pela Comiss&atilde;o T&eacute;cnica Nacional de Biosseguran&ccedil;a (CTNBio). Com a medida, a colheita da planta para uso industrial ser&aacute; feita com cinco anos, e n&atilde;o a partir dos sete, como atualmente ocorre, aumentando os danos ambientais, econ&ocirc;micos e sociais provocados pela monocultura.</p>
 
 <p><br />
-Al&eacute;m de acabar com a biodiversidade local, a planta&ccedil;&atilde;o dessa commoditie &ndash; com mais de 5 milh&otilde;es de hectares plantados no pa&iacute;s &ndash; exige a utiliza&ccedil;&atilde;o de enormes quantidades de agrot&oacute;xicos. Um dos agrot&oacute;xicos mais utilizados &eacute; o sulfluramida, fortemente cancer&iacute;genos e proibido pela Conven&ccedil;&atilde;o de Estocolmo, subscrita pelo Brasil e por mais de 152 pa&iacute;ses.</p>
+O processo de libera&ccedil;&atilde;o comercial de eucalipto transg&ecirc;nico &eacute; da empresa FuturaGene Brasil Tecnologia Ltda./Suzano e visa apenas o aumento de sua pr&oacute;pria produ&ccedil;&atilde;o para ampliar seus lucros com um aumento da produtividade em torno de 20%, desconsiderando os riscos de poss&iacute;veis problemas ambientais e de sa&uacute;de decorrentes do plantio do eucalipto transg&ecirc;nico, chamado de evento H421, al&eacute;m da relev&acirc;ncia econ&ocirc;mica e cultural da produ&ccedil;&atilde;o de mel nacional.</p>
 
 <p><br />
-Por isso, diversas organiza&ccedil;&otilde;es assinaram um manifesto pedindo a n&atilde;o aprova&ccedil;&atilde;o dessa variedade transg&ecirc;nica.</p>
+&ldquo;Mais uma vez os interesses comerciais est&atilde;o se sobrepondo aos direitos dos consumidores, &agrave; prote&ccedil;&atilde;o do meio ambiente e da sa&uacute;de da popula&ccedil;&atilde;o. Por isso, as entidades se manifestam a favor do arquivamento do pedido de libera&ccedil;&atilde;o da comercializa&ccedil;&atilde;o deste organismo transg&ecirc;nico considerando os grandes riscos relacionados a perdas econ&ocirc;micas na apicultura, contamina&ccedil;&atilde;o gen&eacute;tica e outros riscos&rdquo;, salientou trecho do manifesto.</p>
+
+<p><br />
+De acordo o SEBRAE (2014), a produ&ccedil;&atilde;o de mel hoje no Brasil chega a mais de 40 mil ton/ano, envolvendo 500 mil apicultores, em geral, pequenos produtores da agricultura familiar. O pa&iacute;s &eacute; o 10&ordm; maior produtor mundial de mel e 50% de toda a produ&ccedil;&atilde;o &eacute; para exporta&ccedil;&atilde;o.</p>
+
+<p><br />
+&ldquo;O p&oacute;len proveniente dos eucaliptos transg&ecirc;nicos possui o gene inserido artificialmente, isso significa que qualquer mel produzido em colmeias cujas abelhas visitem flores de eucaliptos transg&ecirc;nicos tamb&eacute;m estar&aacute; contaminado por material transg&ecirc;nico. A detec&ccedil;&atilde;o dos transgenes no mel poder&aacute; gerar danos socioecon&ocirc;micos aos apicultores, impedindo-os de rotularem suas produ&ccedil;&otilde;es como org&acirc;nicas ou agroecol&oacute;gicas e aumentando o risco de barreiras comerciais para exporta&ccedil;&atilde;o do produto, o que pode representar perdas econ&ocirc;micas significativas para o setor&rdquo;, ressaltou o manifesto.</p>
+
+<p><br />
+Segundo an&aacute;lise do Minist&eacute;rio do Desenvolvimento Agr&aacute;rio apresentada durante a Audi&ecirc;ncia P&uacute;blica promovida pela CTNBio, os documentos fornecidos pela FuturaGene apresentam falhas que n&atilde;o permitem que se conclua se a planta modificada em quest&atilde;o &eacute; ou n&atilde;o segura para as abelhas.</p>
+
+<p><br />
+O eucalipto, assim como outras esp&eacute;cies arb&oacute;reas, consome mais &aacute;gua durante os primeiros anos de crescimento. A alta taxa de crescimento da variedade transg&ecirc;nica faz com que o consumo de &aacute;gua desta seja maior, o que pode alterar o balan&ccedil;o h&iacute;drico da microbacia na regi&atilde;o onde se realizar o plantio.</p>
+
+<p><br />
+Se fosse poss&iacute;vel fazer um ranking, o caso do eucalipto seria cr&iacute;tico, dada a crise h&iacute;drica que o pa&iacute;s atravessa. A planta que normalmente j&aacute; consome 30 litros de &aacute;gua por dia, e j&aacute; provoca seca no norte do ES e sul da BA, vai crescer mais r&aacute;pido e utilizar mais &aacute;gua. Al&eacute;m, do intenso uso de agrot&oacute;xico.</p>
+
+<p><br />
+O manifesta considera as incertezas relacionadas aos efeitos de longo prazo para sa&uacute;de e o meio ambiente com o uso comercial de eucaliptos transg&ecirc;nicos em virtude da baixa qualidade ou mesmo inexist&ecirc;ncia dos estudos aportados, e considerando a inevit&aacute;vel contamina&ccedil;&atilde;o transg&ecirc;nica da produ&ccedil;&atilde;o convencional.</p>
+
+<p><br />
+&ldquo;Entendemos que a sua libera&ccedil;&atilde;o comercial, al&eacute;m de inconstitucional por ofender o princ&iacute;pio da precau&ccedil;&atilde;o (art. 225, V da CF) e o da defesa do consumidor (art. 170, V da CF), descumpriria compromissos internacionais assumidos no &acirc;mbito do Protocolo de Cartagena sobre Biosseguran&ccedil;a, um acordo ratificado por 150 pa&iacute;ses, e do qual o Brasil &eacute; signat&aacute;rio&rdquo;.</p>
+
+<p><br />
+Al&eacute;m disso, os numerosos e graves conflitos existente na disputa pela terra e territ&oacute;rios tendem a se agravar. As comunidades cercadas pela Suzano nos diversos estados onde tem planta&ccedil;&otilde;es, foram destru&iacute;das, e estas est&atilde;o lutando para garantir sua soberania alimentar e sua perman&ecirc;ncia em seus territ&oacute;rios.</p>
+
+<p><br />
+&ldquo;Sendo assim, diante dos argumentos expostos, nos manifestamos a favor da retirada de qualquer pedido de libera&ccedil;&atilde;o comercial do eucalipto transg&ecirc;nico protocolada junto &agrave; CTNBio por parte da FuturaGene Brasil Tecnologia Ltda., bem como todos os demais pedidos de libera&ccedil;&atilde;o provenientes das empresas ArborGen Tecnologia Florestal Ltda., International Paper do Brasil Ltda. e Fibria Celulose S. A&rdquo;, concluiu o manifesto.</p>
 
 <p><br />
 Confira:</p>
