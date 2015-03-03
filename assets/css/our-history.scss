@@ -1,0 +1,61 @@
+---
+---
+
+@import "../bourbon/bourbon";
+@import "../neat/neat";
+@import "../_sass/variables";
+
+#our-history {
+  padding: 0;
+  margin: 0;
+  width: 100%;
+
+  header {
+    position: relative;
+
+    #background {
+      background-size: cover;
+      height: 100%;
+      width: 100%;
+      position: absolute;
+      top: 0;
+      left: 0;
+      overflow: hidden;
+      @include filter(blur(4px));
+    }
+
+    img {
+      height: 440px;
+      padding: 30px;
+      margin: 0 auto;
+      display: block;
+      position: relative;
+      z-index: 10;
+    }
+
+    #arrow {
+      font-size: 0;
+      position: relative;
+      z-index: 11;
+      padding-top: 30px;
+      
+      div {
+        width: 50%;
+        background-color: white;
+        height: 30px;
+        position: absolute;
+        bottom: 0;
+
+        &:first-of-type {
+          border-top-right-radius: 55px 33px;
+          left: 0;
+        }
+
+        &:last-of-type {
+          border-top-left-radius: 55px 33px;
+          right: 0;
+        }
+      }
+    }
+  }
+}
