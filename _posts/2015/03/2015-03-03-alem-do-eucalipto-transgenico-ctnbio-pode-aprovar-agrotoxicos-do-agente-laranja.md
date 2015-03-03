@@ -5,7 +5,7 @@ tags:
   - tag: eucalipto
   - tag: agronegócio
   - tag: CTNBio
-title: "Além do eucalipto transgênico, CTNBio pode aprovar agrotóxicos do Agente Laranja"
+title: "Além do eucalipto transgênico, CTNBio pode aprovar agrotóxico do Agente Laranja"
 support_line: "Sob um cenário já delicado e polêmico, a CTNBio pretende votar nesta quinta a liberação de três novas variedades de plantas transgênicas no Brasil."
 menu: transgênicos
 layout: post
@@ -38,13 +38,13 @@ H&aacute; tempos que diversas organiza&ccedil;&otilde;es sociais denunciam o fat
 Apontam tamb&eacute;m que a soberania nacional agr&iacute;cola est&aacute; nas m&atilde;os de apenas seis empresas multinacionais, que se um dia resolverem n&atilde;o vender mais sementes, comprometer&atilde;o todo o sistema agr&iacute;cola nacional.</p>
 
 <p><br />
-Sob um cen&aacute;rio j&aacute; delicado e pol&ecirc;mico, &eacute; que a Comiss&atilde;o T&eacute;cnica Nacional de Biosseguran&ccedil;a (CTNBio) pretende votar na pr&oacute;xima quinta-feira (5) a libera&ccedil;&atilde;o de tr&ecirc;s novas variedades de plantas transg&ecirc;nicas no Brasil: o milho resistente ao 2,4-D e haloxifape, e o eucalipto transg&ecirc;nico.&nbsp;</p>
+Sob um cen&aacute;rio j&aacute; delicado e pol&ecirc;mico&nbsp;&eacute; que a Comiss&atilde;o T&eacute;cnica Nacional de Biosseguran&ccedil;a (CTNBio) pretende votar, na pr&oacute;xima quinta-feira (5), a libera&ccedil;&atilde;o de tr&ecirc;s novas variedades de plantas transg&ecirc;nicas no Brasil: o milho resistente ao 2,4-D e haloxifape, e o eucalipto transg&ecirc;nico.&nbsp;</p>
 
 <p><br />
 Diante desta conjuntura, diversos movimentos sociais redigiram uma carta ao Ministro da Ci&ecirc;ncia, Tecnologia e Inova&ccedil;&atilde;o, Jos&eacute; Aldo Rebelo Figueiredo, com c&oacute;pia a Maria Lucia ZaidanZagli, presidente substituta da CTNBio, e aos demais membros da comiss&atilde;o, dizendo estarem indignados com uma poss&iacute;vel decis&atilde;o favor&aacute;vel a autoriza&ccedil;&atilde;o.</p>
 
 <p><br />
-Por&eacute;m, no hist&oacute;rico das decis&otilde;es da Comiss&atilde;o, s&atilde;o poucas as vozes dissonantes contr&aacute;rias a essas decis&otilde;es, acusada de representarem apenas os interesses empresariais das grandes multinacionais, em detrimento das conseq&uuml;enciais ambientais, sociais e de sa&uacute;de p&uacute;blica.&nbsp;</p>
+Por&eacute;m, no hist&oacute;rico das decis&otilde;es da Comiss&atilde;o, s&atilde;o poucas as vozes dissonantes contr&aacute;rias a essas decis&otilde;es, acusada de representar&nbsp;apenas os interesses empresariais das grandes multinacionais, em detrimento das conseq&uuml;enciais ambientais, sociais e de sa&uacute;de p&uacute;blica.&nbsp;</p>
 
 <p><br />
 O professor titular da UFSC Rubens Nodari, agr&ocirc;nomo e doutor em gen&eacute;tica vegetal, por&eacute;m &eacute; uma dessas vozes de enfrentamento. Ele pediu vistas ao processo do milho transg&ecirc;nicos resistentes ao 2,4-D e ao haloxifope, ambos extremamente t&oacute;xicos.&nbsp;</p>
@@ -116,3 +116,6 @@ MPP &ndash; Movimento dos Pescadores e Pescadoras;<br />
 CONAQ &ndash; Coordena&ccedil;&atilde;o Nacional de Comunidades Quilombolas;<br />
 MPA &ndash; Movimento dos Pequenos Agricultores;<br />
 VCB &ndash; Via Campesina Brasil</p>
+
+<p><br />
+<em>* Com informa&ccedil;&otilde;es da Campanha Contra os Agrot&oacute;xicos e Pela Vida.</em></p>
