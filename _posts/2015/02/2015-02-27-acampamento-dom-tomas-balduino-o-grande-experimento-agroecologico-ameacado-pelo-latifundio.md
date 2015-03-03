@@ -5,7 +5,7 @@ tags:
   - tag: Goiás
   - tag: agroecologia
   - tag: reforma-agrária
-title: Acampamento Dom Tomás tem seu experimento agroecológico ameaçado pelo latifúndio
+title: Dom Tomás tem seu experimento agroecológico ameaçado pelo latifúndio
 support_line: "Em poucas semanas, um imenso laboratório popular de agroecologia ganhou corpo nas terras antes improdutivas."
 hat: Luta
 menu: reforma agrária
