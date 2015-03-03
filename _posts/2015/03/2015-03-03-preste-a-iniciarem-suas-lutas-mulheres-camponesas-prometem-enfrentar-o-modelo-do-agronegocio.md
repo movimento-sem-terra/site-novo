@@ -4,7 +4,7 @@ tags:
   - tag: jornada-de-luta-das-mulheres-2015
   - tag: lutas-e-mobilizações
   - tag: mulheres-camponesas
-title: "Prestes a irem à luta, mulheres prometem enfrentar o modelo do agronegócio"
+title: "Prestes a irem à luta, camponesas prometem enfrentar o agronegócio"
 section: cover
 menu: lutas e mobilizações
 support_line: "Em entrevista, Kelli Mafort, da coordenação nacional do MST, fala sobre a jornada nacional de luta das mulheres do campo."
