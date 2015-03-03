@@ -37,8 +37,6 @@ exclude:
   - node/
   - templates/
   - skelleton.json
-keep_files:
-  - assets/css/*
 paginate_by:
   options:
     template: "_templates/news"

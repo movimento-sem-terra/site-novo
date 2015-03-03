@@ -24,6 +24,14 @@ module.exports = function( grunt ) {
           stdout: true,
         }
       },
+
+      sanitizeSass : {
+        command : 'ruby -pi.bak -e "gsub(/---\n/, \'\')" assets/css/.sanitized-sass/*.scss',
+        options: {
+          stdout: true,
+          stderr: true,
+        }
+      },
     },
 
     sass: {
@@ -35,19 +43,38 @@ module.exports = function( grunt ) {
         },
         files: [{
           expand: true,
-          cwd: 'assets',
-          src: ['css/*.scss'],
-          dest: '_site/assets',
+          cwd: 'assets/css/.sanitized-sass/',
+          src: ['*.scss'],
+          dest: '_site/assets/css',
           ext: '.css',
 
         }]
       }
     },
 
+    copy: {
+      sassToSanitizedFolder: {
+        expand: true,
+        cwd: 'assets/css',
+        src: '*.scss',
+        dest: 'assets/css/.sanitized-sass'
+      },
+      css: {
+        expand: true,
+        cwd: 'assets/css',
+        src: '*.css',
+        dest: '_site/assets/css/'
+      }
+    },
+
+    clean: {
+      sanitizedSassFolder: 'assets/css/.sanitized-sass',
+    },
+
     watch : {
       sass: {
-        files: 'assets/*/*.scss',
-        tasks: ['sass'],
+        files: 'assets/css/*.scss',
+        tasks: ['genetateStyles'],
       },
 
       css: {
@@ -76,9 +103,12 @@ module.exports = function( grunt ) {
   });
 
   grunt.loadNpmTasks('grunt-contrib-sass');
+  grunt.loadNpmTasks('grunt-contrib-copy');
+  grunt.loadNpmTasks('grunt-contrib-clean');
   grunt.loadNpmTasks('grunt-shell');
 
-  grunt.registerTask( 'build', [ 'shell:jekyllBuild', 'sass' ] )
+  grunt.registerTask( 'build', [ 'shell:jekyllBuild', 'genetateStyles' ] )
   grunt.registerTask('serve', ['build', 'connect:server', 'watch']);
+  grunt.registerTask('genetateStyles', ['clean:sanitizedSassFolder', 'copy:sassToSanitizedFolder', 'copy:css' , 'shell:sanitizeSass', 'sass']);
 
 };
