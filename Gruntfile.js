@@ -87,6 +87,7 @@ module.exports = function( grunt ) {
       html: {
         files : [ '_layouts/*.html',
                   '_posts/*.md',
+                  '_pages/*/*.html',
                   '_includes/*/*.html',
                   '_config.yml',
                   'index.html',
