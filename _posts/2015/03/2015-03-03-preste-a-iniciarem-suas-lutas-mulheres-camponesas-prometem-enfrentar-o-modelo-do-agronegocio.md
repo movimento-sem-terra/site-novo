@@ -4,7 +4,7 @@ tags:
   - tag: jornada-de-luta-das-mulheres-2015
   - tag: lutas-e-mobilizações
   - tag: mulheres-camponesas
-title: "Preste a iniciarem suas lutas, mulheres camponesas prometem enfrentar o modelo do agronegócio"
+title: "Prestes a irem à luta, mulheres prometem enfrentar o modelo do agronegócio"
 section: cover
 menu: lutas e mobilizações
 support_line: "Em entrevista, Kelli Mafort, da coordenação nacional do MST, fala sobre a jornada nacional de luta das mulheres do campo."
@@ -16,15 +16,22 @@ files:
     small: "http://farm9.staticflickr.com/8627/16081624484_58dcb56726_n.jpg"
     title: "Cartaz_Jornada_Mulheres_2015!.jpg"
     $$hashKey: 04L
+  - link: "http://farm9.staticflickr.com/8577/16081692284_6653c114b6_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8577/16081692284_6653c114b6_t.jpg"
+    medium: "http://farm9.staticflickr.com/8577/16081692284_6653c114b6_z.jpg"
+    small: "http://farm9.staticflickr.com/8577/16081692284_6653c114b6_n.jpg"
+    title: "SP 2009 Jornada de Março Ocupacao Barra Bonita cred Zinclar!.jpg"
+    $$hashKey: 0M7
 created_date: "2015-03-03T09:34:54-03:00"
 published: true
-images_hd: "http://farm9.staticflickr.com/8627/16081624484_58dcb56726_n.jpg"
+images_hd: "http://farm9.staticflickr.com/8577/16081692284_6653c114b6_n.jpg"
 releated_posts:
   - 2015/02/2015-02-22-jornada-nacional-de-luta-das-mulheres-camponesas.md
 
 ---
-<p><br />
-&nbsp;</p>
+<figure class="image"><img alt="SP 2009 Jornada de Março Ocupacao Barra Bonita cred Zinclar!.jpg" src="http://farm9.staticflickr.com/8577/16081692284_6653c114b6_b.jpg" />
+<figcaption>Jornada de Mar&ccedil;o em 2009. Ocupa&ccedil;&atilde;o da Barra Bonita, em S&atilde;o Paulo. Foto: Jo&atilde;o Zinclar.</figcaption>
+</figure>
 
 <p><em>Por Maura Silva<br />
 Da P&aacute;gina do MST</em></p>
@@ -34,10 +41,6 @@ Falta d&acute;&aacute;gua, soberania alimentar, enfrentamento ao capital e a lut
 
 <p><br />
 Ao relembrarem o dia 8 de mar&ccedil;o, dia internacional da mulher, camponesas de todo Brasil saem &agrave;s ruas&nbsp;para chamar a aten&ccedil;&atilde;o da sociedade para o modelo destrutivo do agroneg&oacute;cio e sua amea&ccedil;a &agrave; soberania alimentar, afetando mais incisivamente a vida das mulheres.&nbsp;</p>
-
-<figure class="image" style="float:left"><img alt="Cartaz_Jornada_Mulheres_2015!.jpg" src="http://farm9.staticflickr.com/8627/16081624484_58dcb56726_b.jpg" />
-<figcaption></figcaption>
-</figure>
 
 <p><br />
 Ao longo destes dias, milhares de camponesas dos movimentos sociais que comp&otilde;em a Via Campesina realizar&atilde;o diversas mobiliza&ccedil;&otilde;es para debater formas de enfrentamento e apresentar alternativas ao modelo de desenvolvimento do campo brasileiro.</p>
@@ -65,6 +68,10 @@ As duas lutas t&ecirc;m uma rela&ccedil;&atilde;o direta, e elas denunciam que a
 
 <p><br />
 Al&eacute;m disso, as mulheres s&atilde;o as mais impactadas pela falta de acesso a terra e aos bens naturais, pois essa domina&ccedil;&atilde;o de classe se associa a uma hist&oacute;rica opress&atilde;o de g&ecirc;nero sustentada pelo patriarcado.</p>
+
+<figure class="image" style="float:left"><img alt="Cartaz_Jornada_Mulheres_2015!.jpg" src="http://farm9.staticflickr.com/8627/16081624484_58dcb56726_b.jpg" />
+<figcaption></figcaption>
+</figure>
 
 <p><br />
 <strong>A batalha das mulheres n&atilde;o se d&aacute; somente no campo, a luta &eacute; contra a repress&atilde;o do Estado, contra a repress&atilde;o &agrave;s trabalhadoras. Baseado nisso, quais as maiores dificuldades do setor de mulheres dentro do Movimento?</strong></p>
