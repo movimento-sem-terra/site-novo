@@ -5,7 +5,7 @@ tags:
   - tag: amazônia
   - tag: desmatamento
   - tag: água
-title: Desmatamento na Amazônia já afeta o clima e é uma das causas da seca no sudeste.
+title: Desmatamento na Amazônia já afeta o clima e é uma das causas da seca no sudeste
 support_line: "Em entrevista, o cientista Antonio Donato Nobre fala o papel da floresta em levar rios aéreos que transportam água, alimentando chuvas em regiões distantes."
 menu: meio ambiente
 layout: post
