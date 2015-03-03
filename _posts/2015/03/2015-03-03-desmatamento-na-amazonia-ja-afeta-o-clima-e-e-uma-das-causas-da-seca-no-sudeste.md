@@ -10,15 +10,15 @@ support_line: "Em entrevista, o cientista Antonio Donato Nobre fala o papel da f
 menu: meio ambiente
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8629/16082036254_1c0a626421_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8629/16082036254_1c0a626421_t.jpg"
-    medium: "http://farm9.staticflickr.com/8629/16082036254_1c0a626421_z.jpg"
-    small: "http://farm9.staticflickr.com/8629/16082036254_1c0a626421_n.jpg"
-    title: antonio nobre.jpg
-    $$hashKey: 15J
+  - link: "http://farm9.staticflickr.com/8587/16497131347_2e4bc5ccaa_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8587/16497131347_2e4bc5ccaa_t.jpg"
+    medium: "http://farm9.staticflickr.com/8587/16497131347_2e4bc5ccaa_z.jpg"
+    small: "http://farm9.staticflickr.com/8587/16497131347_2e4bc5ccaa_n.jpg"
+    title: "antonio nobre!.jpg"
+    $$hashKey: 0AD
 created_date: "2015-03-03T10:27:15-03:00"
 published: true
-images_hd: "http://farm9.staticflickr.com/8629/16082036254_1c0a626421_n.jpg"
+images_hd: "http://farm9.staticflickr.com/8587/16497131347_2e4bc5ccaa_n.jpg"
 releated_posts:
   - 2014/11/2014-10-10-para-pesquisador-agronegocio-e-o-principal-inimigo-da-amazonia.md
   - 2014/12/2014-11-24-grandes-proprietarios-a-causa-do-desflorestamento-na-amazonia.md
@@ -27,7 +27,8 @@ releated_posts:
   - 2015/03/2015-03-02-pesquisa-revela-que-5-das-emissoes-de-metano-vem-da-pecuaria-e-do-desmatamento.md
 
 ---
-<p><br />
+<p><img alt="antonio nobre!.jpg" src="http://farm9.staticflickr.com/8587/16497131347_2e4bc5ccaa_b.jpg" /><br />
+<br />
 <span style="line-height: 20.7999992370605px;"><em>Por Maura Campanili<br />
 Do&nbsp;Instituto de Pesquisa Ambiental da Amaz&ocirc;nia</em></span></p>
 
