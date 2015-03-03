@@ -16,9 +16,15 @@ files:
     small: "http://farm9.staticflickr.com/8587/16497131347_2e4bc5ccaa_n.jpg"
     title: "antonio nobre!.jpg"
     $$hashKey: 0AD
+  - link: "http://farm9.staticflickr.com/8606/16704446945_f291b839ff_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8606/16704446945_f291b839ff_t.jpg"
+    medium: "http://farm9.staticflickr.com/8606/16704446945_f291b839ff_z.jpg"
+    small: "http://farm9.staticflickr.com/8606/16704446945_f291b839ff_n.jpg"
+    title: "antonio nobre!.jpg"
+    $$hashKey: 0KQ
 created_date: "2015-03-03T10:27:15-03:00"
 published: true
-images_hd: "http://farm9.staticflickr.com/8587/16497131347_2e4bc5ccaa_n.jpg"
+images_hd: "http://farm9.staticflickr.com/8606/16704446945_f291b839ff_n.jpg"
 releated_posts:
   - 2014/11/2014-10-10-para-pesquisador-agronegocio-e-o-principal-inimigo-da-amazonia.md
   - 2014/12/2014-11-24-grandes-proprietarios-a-causa-do-desflorestamento-na-amazonia.md
