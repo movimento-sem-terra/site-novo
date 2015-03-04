@@ -7,7 +7,7 @@ tags:
 title: Show do Gog e atos políticos marcam a semana de solidariedade à Venezuela
 support_line: "Na sexta-feira, o cantor venezuelano, Alí Alejandro Primera, também se apresentará no Memorial da América Latina."
 menu: solidariedade
-section: null
+section: featured-news
 layout: post
 files:
   - link: "http://farm9.staticflickr.com/8681/16692610032_7cd869b780_b.jpg"
