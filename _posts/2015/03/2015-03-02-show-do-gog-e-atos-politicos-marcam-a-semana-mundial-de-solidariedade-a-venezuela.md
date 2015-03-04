@@ -5,7 +5,7 @@ tags:
   - tag: hugo-chávez
   - tag: venezuela
 title: Atos políticos e culturais marcam a semana de solidariedade à Venezuela
-support_line: "Na sexta-feira, o cantor venezuelano, Alí Alejandro Primera, também se apresentará na sede da Apeoesp."
+support_line: "Na sexta-feira, o rapper Gog e o cantor venezuelano, Alí Alejandro Primera, se apresentam na praça Roosevelt."
 menu: solidariedade
 section: featured-news
 layout: post
@@ -50,7 +50,4 @@ Na mesa, estar&atilde;o presentes o jornalista e editor o site Opera Mundi, Bren
 A atividade acontece &agrave;s 19h no Bar&atilde;o de Itarar&eacute;, em S&atilde;o Paulo, e tamb&eacute;m contar&aacute; com a apresenta&ccedil;&atilde;o do grupo Latinoamericanto, respons&aacute;vel por abrir e fechar o encontro.</p>
 
 <p><br />
-J&aacute; na sexta-feira (6), &agrave;s 19h, ser&aacute; realizado um ato pol&iacute;tico na sede do Sindicato dos Professores do Ensino Oficial do Estado de S&atilde;o Paulo (Apeoesp), na Pra&ccedil;a da Rep&uacute;blica, no centro de S&atilde;o Paulo. Na sequ&ecirc;ncia, atra&ccedil;&otilde;es culturais fecham a homenagem, como o show do cantor venezuelano, Al&iacute; Alejandro Primera, e o grupo Latinoamericanto.</p>
-
-<p><br />
-Ap&oacute;s vistoria t&eacute;cnica, o Memorial da Am&eacute;rica Latina teve que cancelar o show do rapper Gog, que estava confirmado para a noite de sexta-feira.</p>
+J&aacute; na sexta-feira (6), &agrave;s 19h, ser&aacute; realizado um ato pol&iacute;tico na sede do Sindicato dos Professores do Ensino Oficial do Estado de S&atilde;o Paulo (Apeoesp), na Pra&ccedil;a da Rep&uacute;blica, no centro de S&atilde;o Paulo. Na sequ&ecirc;ncia, o rapper Gog e o cantor venezuelano, Al&iacute; Alejandro Primera, se apresentam na pra&ccedil;a Roosevelt.</p>
