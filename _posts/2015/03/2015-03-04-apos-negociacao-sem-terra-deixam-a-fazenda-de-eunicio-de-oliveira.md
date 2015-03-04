@@ -8,7 +8,7 @@ tags:
 title: "Após negociação, Sem Terra deixam a fazenda de Eunício de Oliveira"
 menu: lutas e mobilizações
 section: cover
-support_line: "A saída está condicionada ao cadastro de todas as famílias, fazer vistoria da fazenda e levantamento dominial do senador, além de desapropriar 18 mil hectares na mesma região em até 60 dias."
+support_line: "A saída está condicionada ao cadastro das famílias, a vistoria da fazenda e levantamento dominial do senador, e a desapropriação de 18 mil ha."
 layout: post
 files:
   - link: "http://farm9.staticflickr.com/8584/16714088151_84f2a10474_b.jpg"
