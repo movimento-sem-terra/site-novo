@@ -50,16 +50,16 @@ releated_posts:
 <p><em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
-As 3.000 fam&iacute;lias acampadas na fazendo do senador Eun&iacute;cio de Oliveira (PMDB-CE), no munic&iacute;pio de Corumb&aacute; (GO), desde agosto do ano passado, est&atilde;o sendo despejadas desde o in&iacute;cio da manh&atilde; desta quarta-feira (4).</p>
+As 3.000 fam&iacute;lias acampadas na fazendo do senador Eun&iacute;cio de Oliveira (PMDB-CE), no munic&iacute;pio de Corumb&aacute; (GO), est&atilde;o sendo despejadas desde o in&iacute;cio da manh&atilde; desta quarta-feira (4).</p>
 
 <p><br />
 O pedido foi expedido pelo juiz da Comarca de Corumb&aacute;, Levine Artiaga, acusado de ser alinhado com o senador, al&eacute;m de j&aacute; ter frequentado a fazenda diversas vezes.</p>
 
 <p><br />
-No entanto, a sa&iacute;da das fam&iacute;lias da &aacute;rea est&aacute; condicionada ao governo do estado cadastrar todas as fam&iacute;lias acampadas, fazer a vistoria da fazenda e levantamento dominial do senador, al&eacute;m do compromisso de desapropriar 18 mil hectares na mesma regi&atilde;o de Corumb&aacute;, Cocalzinho e alguns munic&iacute;pios vizinhos para assentar as fam&iacute;lias em at&eacute; 60 dias.</p>
+No entanto, a sa&iacute;da dos Sem Terra da &aacute;rea est&aacute; condicionada ao governo do estado cadastrar todas as fam&iacute;lias acampadas, fazer a vistoria da fazenda e levantamento dominial do senador, al&eacute;m do compromisso de desapropriar 18 mil hectares na mesma regi&atilde;o de Corumb&aacute;, Cocalzinho e alguns munic&iacute;pios vizinhos para assentar as fam&iacute;lias em at&eacute; 60 dias.</p>
 
 <p><br />
-Numa reuni&atilde;o realizada nesta ter&ccedil;a-feira (3) com ministro Patrus Ananias, do Minist&eacute;rio do Desenvolvimento Agr&aacute;rio (MDA), foi dito que Eun&iacute;cio de Oliveira abriu a possibilidade de negocia&ccedil;&atilde;o da &aacute;rea com o governo, a um custo de R$ 400 milh&otilde;es por todo o complexo.</p>
+Numa reuni&atilde;o realizada nesta ter&ccedil;a-feira (3) entre o ministro Patrus Ananias, do Minist&eacute;rio do Desenvolvimento Agr&aacute;rio (MDA), e dirigentes do MST, foi informado que Eun&iacute;cio de Oliveira abriu a possibilidade de negocia&ccedil;&atilde;o da &aacute;rea com o governo, a um custo de R$ 400 milh&otilde;es por todo o complexo.</p>
 
 <p><br />
 Caso isso ocorra, os Sem Terra j&aacute; anunciaram que tem a proposta de transformar a sede da fazenda numa universidade popular, com &ecirc;nfase em produ&ccedil;&atilde;o, agroecologia e coopera&ccedil;&atilde;o, em parceira com Universidade Federal de Bras&iacute;lia (UnB) e a Universidade Federal de Goi&aacute;s (UFG).</p>
@@ -79,11 +79,13 @@ Al&eacute;m de ser considerado improdutivo, &eacute; suspeita a forma como o sen
 
 <p>&nbsp;</p>
 
-<figure class="image" style="float:left"><img alt="pamonhada.jpg" src="http://farm9.staticflickr.com/8657/16529366349_4263868791_b.jpg" />
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="pamonhada.jpg" src="http://farm9.staticflickr.com/8657/16529366349_4263868791_b.jpg" />
 <figcaption>Mais de 2 mil pessoas participaram da feira agroecol&oacute;gica durante ato em defesa do acampamento.</figcaption>
 </figure>
+</div>
 
 <p>Entretanto, n&atilde;o demorou muito para que as milhares de fam&iacute;lias do Acampamento Dom Tom&aacute;s Baldu&iacute;no - nome dado em homenagem ao bispo em&eacute;rito de Goi&aacute;s falecido em maio de 2014 &ndash; transformassem aquelas terras abandonadas num imenso laborat&oacute;rio popular de agroecologia.</p>
 
 <p><br />
-Em pouco mais de 200 hectares os Sem Terra resgataram diversas variedades crioulas, sistemas de controle biol&oacute;gico, cons&oacute;rcios de culturas, princ&iacute;pios de alelopatia e mais uma gama de inova&ccedil;&otilde;es foram sendo desenvolvidas, e mais de 22 culturas diferentes passaram a ser cultivadas.</p>
+Em pouco mais de 200 hectares, os Sem Terra resgataram diversas variedades de sementes crioulas, sistemas de controle biol&oacute;gico, cons&oacute;rcios de culturas, princ&iacute;pios de alelopatia e mais uma gama de inova&ccedil;&otilde;es foram sendo desenvolvidas, e mais de 22 culturas diferentes passaram a ser cultivadas.</p>
