@@ -10,24 +10,25 @@ title: Jornada Nacional de Luta das Mulheres Camponesas
 support_line: Milhares de mulheres da Via Campesina se mobilizarão em todo país para denunciar os males do agronegócio.
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8654/16637868666_7d67f4f679_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8654/16637868666_7d67f4f679_t.jpg"
-    medium: "http://farm9.staticflickr.com/8654/16637868666_7d67f4f679_z.jpg"
-    small: "http://farm9.staticflickr.com/8654/16637868666_7d67f4f679_n.jpg"
-    title: Cartaz_Jornada_Mulheres_2015_WEB.jpg
-    $$hashKey: 09E
+  - link: "http://farm9.staticflickr.com/8671/16528897370_48d5bec913_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8671/16528897370_48d5bec913_t.jpg"
+    medium: "http://farm9.staticflickr.com/8671/16528897370_48d5bec913_z.jpg"
+    small: "http://farm9.staticflickr.com/8671/16528897370_48d5bec913_n.jpg"
+    title: Cartaz_Jornada_Mulheres_2015_WEB-1.jpg
+    $$hashKey: 03W
 created_date: "2015-02-27T14:01:48-03:00"
 published: true
-images_hd: "http://farm9.staticflickr.com/8654/16637868666_7d67f4f679_n.jpg"
+images_hd: "http://farm9.staticflickr.com/8671/16528897370_48d5bec913_n.jpg"
 releated_posts: []
 
 ---
-<figure class="image" style="float:right"><img alt="Cartaz_Jornada_Mulheres_2015_WEB.jpg" src="http://farm9.staticflickr.com/8654/16637868666_7d67f4f679_b.jpg" />
+<p>&nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="Cartaz_Jornada_Mulheres_2015_WEB-1.jpg" src="http://farm9.staticflickr.com/8671/16528897370_48d5bec913_b.jpg" />
 <figcaption></figcaption>
 </figure>
 
-<p><br />
-Ao relembrar o dia 8 de mar&ccedil;o, a Jornada Nacional de Luta das Mulheres Camponesas neste ano traz o lema <em>Mulheres em luta: pela soberania alimentar, contra a viol&ecirc;ncia e o agroneg&oacute;cio</em>.</p>
+<p>Ao relembrar o dia 8 de mar&ccedil;o, a Jornada Nacional de Luta das Mulheres Camponesas neste ano traz o lema <em>Mulheres em luta: pela soberania alimentar, contra a viol&ecirc;ncia e o agroneg&oacute;cio</em>.</p>
 
 <p><br />
 Com isso, milhares de mulheres dos movimentos sociais que comp&otilde;em a Via Campesina se mobilizar&atilde;o em todo pa&iacute;s durante a primeira quinzena de mar&ccedil;o para denunciar o capital estrangeiro na agricultura brasileira e as empresas transnacionais, chamando a aten&ccedil;&atilde;o da sociedade do modelo destrutivo do agroneg&oacute;cio para o meio ambiente, a amea&ccedil;a &agrave; soberania alimentar do pa&iacute;s e a vida da popula&ccedil;&atilde;o brasileira, afetando de forma direta a realidade das mulheres.</p>
