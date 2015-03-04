@@ -134,6 +134,21 @@
       }
     }
   }
+
+  .period {
+    display: none;
+    &.active {
+      display: block;
+    }
+
+    h1 {
+      text-align: center;
+      font-size: 3em;
+      font-weight: 100;
+      font-style: italic;
+      color: #961913;
+    }
+  }
 }
 
 

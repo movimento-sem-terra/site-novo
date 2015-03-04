@@ -1,0 +1,23 @@
+  <header>
+    <div id="background" style="background-image: url({{site.baseurl}}/assets/img/nossa-historia/header.jpg)"></div>
+    <img src="{{site.baseurl}}/assets/img/nossa-historia/header.jpg" alt="O surgimento do MST">
+    <div id="arrow">
+      <div></div>
+      <div></div>
+    </div>
+    <div id="timeline-wrapper">
+      <div class="bar"></div>
+      <div class="timeline">
+          {% for t in site.data.timeline %}
+              {% assign css_class = '' %}
+              
+              {% if include.period == t.title %}
+                   {% assign css_class = 'active' %}
+              {% endif %}
+              <a href="{{site.baseurl}}/nossa-historia/{{t.title}}" class="entry {{ css_class }}">
+                  <h1>{{ t.title }}</h1>
+              </a>
+          {% endfor %}
+      </div>
+    </div>
+  </header>
