@@ -50,4 +50,4 @@ Na mesa, estar&atilde;o presentes o jornalista e editor o site Opera Mundi, Bren
 A atividade acontece &agrave;s 19h no Bar&atilde;o de Itarar&eacute;, em S&atilde;o Paulo, e tamb&eacute;m contar&aacute; com a apresenta&ccedil;&atilde;o do grupo Latinoamericanto, respons&aacute;vel por abrir e fechar o encontro.</p>
 
 <p><br />
-J&aacute; na sexta-feira (6), &agrave;s 19h, ser&aacute; realizado um ato pol&iacute;tico na sede do Sindicato dos Professores do Ensino Oficial do Estado de S&atilde;o Paulo (Apeoesp), na Pra&ccedil;a da Rep&uacute;blica, no centro de S&atilde;o Paulo. Na sequ&ecirc;ncia, o rapper Gog e o cantor venezuelano, Al&iacute; Alejandro Primera, se apresentam na pra&ccedil;a Roosevelt.</p>
+J&aacute; na sexta-feira (6), &agrave;s 19h, ser&aacute; realizado um ato pol&iacute;tico na pra&ccedil;a Roosevelt., no centro de S&atilde;o Paulo. Na sequ&ecirc;ncia, o rapper Gog e o cantor venezuelano, Al&iacute; Alejandro Primera, se apresentam na noite paulistana.</p>
