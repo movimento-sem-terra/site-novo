@@ -5,7 +5,7 @@ tags:
   - tag: lutas-e-mobilizações
   - tag: mulheres-camponesas
 title: "Prestes a irem à luta, camponesas prometem enfrentar o agronegócio"
-section: null
+section: featured-news
 menu: lutas e mobilizações
 support_line: "Em entrevista, Kelli Mafort, da coordenação nacional do MST, fala sobre a jornada nacional de luta das mulheres do campo."
 layout: post
