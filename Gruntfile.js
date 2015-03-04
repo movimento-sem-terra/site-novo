@@ -64,6 +64,12 @@ module.exports = function( grunt ) {
         cwd: 'assets/css',
         src: '*.css',
         dest: '_site/assets/css/'
+      },
+      js: {
+        expand: true,
+        cwd: 'assets/js',
+        src: '*/*.js',
+        dest: '_site/assets/js/'
       }
     },
 
@@ -79,6 +85,13 @@ module.exports = function( grunt ) {
 
       css: {
         files: '_site/assets/css/*.css',
+        options: {
+          livereload: true
+        },
+      },
+      js: {
+        files: 'assets/js/*/*.js',
+        tasks: ['copy:js'],
         options: {
           livereload: true
         },
