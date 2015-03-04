@@ -10,18 +10,18 @@ menu: lutas e mobilizações
 support_line: "Em entrevista, Kelli Mafort, da coordenação nacional do MST, fala sobre a jornada nacional de luta das mulheres do campo."
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8627/16081624484_58dcb56726_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8627/16081624484_58dcb56726_t.jpg"
-    medium: "http://farm9.staticflickr.com/8627/16081624484_58dcb56726_z.jpg"
-    small: "http://farm9.staticflickr.com/8627/16081624484_58dcb56726_n.jpg"
-    title: "Cartaz_Jornada_Mulheres_2015!.jpg"
-    $$hashKey: 04L
   - link: "http://farm9.staticflickr.com/8577/16081692284_6653c114b6_b.jpg"
     thumbnail: "http://farm9.staticflickr.com/8577/16081692284_6653c114b6_t.jpg"
     medium: "http://farm9.staticflickr.com/8577/16081692284_6653c114b6_z.jpg"
     small: "http://farm9.staticflickr.com/8577/16081692284_6653c114b6_n.jpg"
     title: "SP 2009 Jornada de Março Ocupacao Barra Bonita cred Zinclar!.jpg"
     $$hashKey: 0M7
+  - link: "http://farm9.staticflickr.com/8570/16716328745_c2bb700314_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8570/16716328745_c2bb700314_t.jpg"
+    medium: "http://farm9.staticflickr.com/8570/16716328745_c2bb700314_z.jpg"
+    small: "http://farm9.staticflickr.com/8570/16716328745_c2bb700314_n.jpg"
+    title: Cartaz_Jornada_Mulheres_2015_WEB-1.jpg
+    $$hashKey: 04K
 created_date: "2015-03-03T09:34:54-03:00"
 published: true
 images_hd: "http://farm9.staticflickr.com/8577/16081692284_6653c114b6_n.jpg"
@@ -69,12 +69,14 @@ As duas lutas t&ecirc;m uma rela&ccedil;&atilde;o direta, e elas denunciam que a
 <p><br />
 Al&eacute;m disso, as mulheres s&atilde;o as mais impactadas pela falta de acesso a terra e aos bens naturais, pois essa domina&ccedil;&atilde;o de classe se associa a uma hist&oacute;rica opress&atilde;o de g&ecirc;nero sustentada pelo patriarcado.</p>
 
-<figure class="image" style="float:left"><img alt="Cartaz_Jornada_Mulheres_2015!.jpg" src="http://farm9.staticflickr.com/8627/16081624484_58dcb56726_b.jpg" />
+<p><br />
+&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="Cartaz_Jornada_Mulheres_2015_WEB-1.jpg" src="http://farm9.staticflickr.com/8570/16716328745_c2bb700314_b.jpg" />
 <figcaption></figcaption>
 </figure>
 
-<p><br />
-<strong>A batalha das mulheres n&atilde;o se d&aacute; somente no campo, a luta &eacute; contra a repress&atilde;o do Estado, contra a repress&atilde;o &agrave;s trabalhadoras. Baseado nisso, quais as maiores dificuldades do setor de mulheres dentro do Movimento?</strong></p>
+<p><strong>A batalha das mulheres n&atilde;o se d&aacute; somente no campo, a luta &eacute; contra a repress&atilde;o do Estado, contra a repress&atilde;o &agrave;s trabalhadoras. Baseado nisso, quais as maiores dificuldades do setor de mulheres dentro do Movimento?</strong></p>
 
 <p><br />
 Quando as mulheres participam da luta, elas levam em sua bandeira n&atilde;o s&oacute; a luta pela terra e pela Reforma Agr&aacute;ria, elas expressam tamb&eacute;m as contradi&ccedil;&otilde;es que significam lutar por uma nova sociedade, lutar pela destrui&ccedil;&atilde;o do patriarcado, contra o machismo e contra a viol&ecirc;ncia sofrida pela mulher no dia a dia.</p>
