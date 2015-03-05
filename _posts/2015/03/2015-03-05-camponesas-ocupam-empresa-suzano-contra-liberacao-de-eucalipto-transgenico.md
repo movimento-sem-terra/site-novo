@@ -9,7 +9,7 @@ tags:
 title: Camponesas ocupam Suzano contra liberação de eucalipto transgênico
 support_line: "A liberação de eucalipto transgênico está para ser votada na manhã desta quinta pela CTNBio. A ocupação se deu no município de Itapetininga, em São Paulo."
 menu: lutas e mobilizações
-section: cover
+section: null
 layout: post
 files:
   - link: "http://farm9.staticflickr.com/8600/16721439201_a761e7abea_b.jpg"
@@ -24,9 +24,27 @@ files:
     small: "http://farm9.staticflickr.com/8637/16721442141_485a8f51f6_n.jpg"
     title: suzano2.jpg
     $$hashKey: 02B
+  - link: "http://farm9.staticflickr.com/8648/16536742398_4db8fdbab2_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8648/16536742398_4db8fdbab2_t.jpg"
+    medium: "http://farm9.staticflickr.com/8648/16536742398_4db8fdbab2_z.jpg"
+    small: "http://farm9.staticflickr.com/8648/16536742398_4db8fdbab2_n.jpg"
+    title: mulheres_suzano.jpg
+    $$hashKey: 0AT
+  - link: "http://farm9.staticflickr.com/8634/16538186989_71dae257fb_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8634/16538186989_71dae257fb_t.jpg"
+    medium: "http://farm9.staticflickr.com/8634/16538186989_71dae257fb_z.jpg"
+    small: "http://farm9.staticflickr.com/8634/16538186989_71dae257fb_n.jpg"
+    title: mulheres_suzano3.jpg
+    $$hashKey: 0AW
+  - link: "http://farm9.staticflickr.com/8653/16538188279_99d56a67a9_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8653/16538188279_99d56a67a9_t.jpg"
+    medium: "http://farm9.staticflickr.com/8653/16538188279_99d56a67a9_z.jpg"
+    small: "http://farm9.staticflickr.com/8653/16538188279_99d56a67a9_n.jpg"
+    title: mulheres suzano.jpg
+    $$hashKey: 0AZ
 created_date: "2015-03-05T07:44:01-03:00"
 published: true
-images_hd: "http://farm9.staticflickr.com/8600/16721439201_a761e7abea_n.jpg"
+images_hd: "http://farm9.staticflickr.com/8648/16536742398_4db8fdbab2_n.jpg"
 releated_posts:
   - 2015/03/2015-03-02-entidades-escrevem-manifesto-contra-a-liberacao-de-eucalipto-transgenico-na-ctnbio.md
   - 2015/02/2015-02-18-monocultivo-de-eucalipto-parece-uma-floresta-mas-nao-e.md
@@ -36,8 +54,7 @@ releated_posts:
   - 2015/03/2015-03-03-preste-a-iniciarem-suas-lutas-mulheres-camponesas-prometem-enfrentar-o-modelo-do-agronegocio.md
 
 ---
-<p><br />
-<img alt="suzano.jpg" src="http://farm9.staticflickr.com/8600/16721439201_a761e7abea_b.jpg" /></p>
+<p><img alt="mulheres_suzano.jpg" src="http://farm9.staticflickr.com/8648/16536742398_4db8fdbab2_b.jpg" /></p>
 
 <p><em>Da P&aacute;gina do MST</em><br />
 <br />
@@ -52,6 +69,10 @@ Nas &uacute;ltimas semanas, diversos especialistas v&ecirc;m alertando que a lib
 <p><br />
 Segundo eles, o aumento da produtividade em torno de 20% decorrentes do plantio do eucalipto transg&ecirc;nico desconsidera os riscos de poss&iacute;veis problemas ambientais e de sa&uacute;de, al&eacute;m da relev&acirc;ncia econ&ocirc;mica e cultural da produ&ccedil;&atilde;o de mel nacional.</p>
 
+<figure class="image"><img alt="suzano.jpg" src="http://farm9.staticflickr.com/8600/16721439201_a761e7abea_b.jpg" />
+<figcaption></figcaption>
+</figure>
+
 <p><br />
 De acordo com o SEBRAE (2014), a produ&ccedil;&atilde;o de mel hoje no Brasil chega a mais de 40 mil ton/ano, envolvendo 500 mil apicultores, a maioria pequenos produtores da agricultura familiar. O pa&iacute;s &eacute; o 10&ordm; maior produtor mundial de mel e 50% de toda a produ&ccedil;&atilde;o &eacute; para exporta&ccedil;&atilde;o.</p>
 
@@ -60,6 +81,10 @@ Como o p&oacute;len proveniente dos eucaliptos transg&ecirc;nicos possui o gene 
 
 <p><br />
 Com isso, a detec&ccedil;&atilde;o dos transgenes no mel poder&aacute; gerar danos socioecon&ocirc;micos aos apicultores, impedindo-os de rotularem suas produ&ccedil;&otilde;es como org&acirc;nicas ou agroecol&oacute;gicas e aumentando o risco de barreiras comerciais para exporta&ccedil;&atilde;o do produto, o que pode representar perdas econ&ocirc;micas significativas para o setor.</p>
+
+<figure class="image"><img alt="mulheres_suzano3.jpg" src="http://farm9.staticflickr.com/8634/16538186989_71dae257fb_b.jpg" />
+<figcaption></figcaption>
+</figure>
 
 <p><br />
 <strong>Aumento da crise h&iacute;drica</strong></p>
@@ -89,4 +114,4 @@ Al&eacute;m disso, os numerosos e graves conflitos existente na disputa pela ter
 <p><br />
 Diante desses fatos, as mulheres camponesas pedem a retirada de qualquer pedido de libera&ccedil;&atilde;o comercial do eucalipto transg&ecirc;nico protocolada junto &agrave; CTNBio.</p>
 
-<p>&nbsp;</p>
+<p><img alt="mulheres suzano.jpg" src="http://farm9.staticflickr.com/8653/16538188279_99d56a67a9_b.jpg" /></p>
