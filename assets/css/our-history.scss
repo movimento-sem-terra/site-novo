@@ -5,6 +5,9 @@
 @import "../neat/neat";
 @import "../_sass/variables";
 
+$medium: new-breakpoint(min-width $screen-md);
+$big: new-breakpoint(min-width $screen-big);
+
 #our-history {
   padding: 0;
   margin: 0;
@@ -144,6 +147,47 @@
       font-weight: 100;
       font-style: italic;
       color: #961913;
+    }
+
+    & > .container {
+        display: inline-block;
+        width: 100%;
+        padding: 40px 5px;
+        @media(min-width: $screen-sm) {
+            padding: 40px 15%;
+        }
+        @media(min-width: $screen-md) {
+            padding: 40px 25%;
+        }
+        h2 {
+            color: $mst-red;
+            font-size: 2em;
+
+            span {
+              border-bottom: 3px solid $mst-green;
+            }
+        }
+
+        article {
+
+          figure {
+              & > img {
+                  width: 100%;
+              }
+              margin-left: 0;
+          }
+          .column {
+              @include span-columns(6);
+          }
+
+          strong {
+            color: $mst-green;
+          }
+        }
+
+      &.gray {
+        background-color: $mst-light-gray;
+      }
     }
   }
 }
