@@ -67,11 +67,7 @@ Cerca de 300 camponeses organizados pela Via Campesina ocupam, neste momento, a 
 <p><br />
 Na manh&atilde; desta quinta, outras 1.000 mulheres do MST dos estados de S&atilde;o Paulo, Rio de Janeiro e Minas Gerais ocuparam a empresa FuturaGene Brasil Tecnologia Ltda., da Suzano Papel e Celulose, no munic&iacute;pio de Itapetininga, em S&atilde;o Paulo.</p>
 
-<p>&nbsp;</p>
-
-<figure class="image" style="float:left"><img alt="ctnbio2.jpg" src="http://farm9.staticflickr.com/8564/16722801571_96f17a6a7c_b.jpg" />
-<figcaption></figcaption>
-</figure>
+<p><iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/M7K-xJyvek8" width="640"></iframe></p>
 
 <p>O local da ocupa&ccedil;&atilde;o em Itapetininga &eacute; onde est&aacute; sendo desenvolvido os testes com o eucalipto transg&ecirc;nico, conhecido como H421. Na ocasi&atilde;o, as Sem Terra destru&iacute;ram as mudas dos eucaliptos transg&ecirc;nicos.</p>
 
