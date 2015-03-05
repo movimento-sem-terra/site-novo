@@ -62,7 +62,7 @@ releated_posts:
 <em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Cerca de 300 camponeses organizados pela Via Campesina ocupam, neste momento, a reuni&atilde;o da Comiss&atilde;o T&eacute;cnica Nacional de Biosseguran&ccedil;a (CTNBio). Na pauta, a libera&ccedil;&atilde;o de tr&ecirc;s novas variedades de plantas transg&ecirc;nicas no Brasil: o milho resistente ao 2,4-D e haloxifape al&eacute;m do eucalipto transg&ecirc;nico. A reuni&atilde;o foi interrompida e as decis&otilde;es, por hora, est&atilde;o adiadas.</p>
+Cerca de 300 camponeses organizados pela Via Campesina ocupam, neste momento, a reuni&atilde;o da Comiss&atilde;o T&eacute;cnica Nacional de Biosseguran&ccedil;a (CTNBio). Na pauta, a libera&ccedil;&atilde;o de tr&ecirc;s novas variedades de plantas transg&ecirc;nicas no Brasil: o milho resistente ao 2,4-D e haloxifape al&eacute;m do eucalipto transg&ecirc;nico. A reuni&atilde;o foi interrompida e a vota&ccedil;&atilde;o passar&aacute; para a primeira quinzena de abril.</p>
 
 <p><br />
 Na manh&atilde; desta quinta, outras 1.000 mulheres do MST dos estados de S&atilde;o Paulo, Rio de Janeiro e Minas Gerais ocuparam a empresa FuturaGene Brasil Tecnologia Ltda., da Suzano Papel e Celulose, no munic&iacute;pio de Itapetininga, em S&atilde;o Paulo.</p>
