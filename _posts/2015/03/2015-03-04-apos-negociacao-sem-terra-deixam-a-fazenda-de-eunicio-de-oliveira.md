@@ -5,7 +5,7 @@ tags:
   - tag: dom-tomás-balduíno
   - tag: goiás
   - tag: agropecuária-santa-mônica
-title: "Após negociação, Sem Terra deixam a fazenda de Eunício de Oliveira"
+title: Cerca de 2 mil policiais realizam despejo das famílias que ocupavam a fazenda de Eunício de Oliveira
 menu: lutas e mobilizações
 section: null
 support_line: "A saída está condicionada ao cadastro das famílias, a vistoria da fazenda e levantamento dominial do senador, e a desapropriação de 18 mil ha."
