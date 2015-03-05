@@ -150,40 +150,103 @@ $big: new-breakpoint(min-width $screen-big);
     }
 
     & > .container {
-        display: inline-block;
-        width: 100%;
-        padding: 40px 5px;
-        @media(min-width: $screen-sm) {
-            padding: 40px 15%;
-        }
-        @media(min-width: $screen-md) {
-            padding: 40px 25%;
-        }
-        h2 {
-            color: $mst-red;
-            font-size: 2em;
+      display: inline-block;
+      width: 100%;
+      padding: 40px 5px;
+      @media(min-width: $screen-sm) {
+          padding: 40px 15%;
+      }
+      @media(min-width: $screen-md) {
+          padding: 40px 25%;
+      }
+      h2 {
+          color: $mst-red;
+          font-size: 2em;
 
-            span {
-              border-bottom: 3px solid $mst-green;
+          span {
+            border-bottom: 3px solid $mst-green;
+          }
+      }
+
+      article {
+        clear: both;
+        figure {
+            & > img {
+                width: 100%;
             }
+            margin-left: 0;
+        }
+        .column {
+            @include span-columns(6);
         }
 
-        article {
-
-          figure {
-              & > img {
-                  width: 100%;
-              }
-              margin-left: 0;
-          }
-          .column {
-              @include span-columns(6);
-          }
-
-          strong {
-            color: $mst-green;
-          }
+        strong {
+          color: $mst-green;
         }
+      }
+
+      .circle {
+        width: 150px;
+        height: 150px;
+        background-color: $mst-green;
+        border-radius: 50%;
+        color: white;
+        text-align: center;
+        padding: 34px;
+        display: table-cell;
+        vertical-align: middle;
+
+        @include span-columns(3);
+
+        .month, .day {
+          border: solid 5px white;
+          display: block;
+          font-weight: 700;
+          width: 100%;
+        }
+
+        .month {
+          border-radius: 3px 3px 0 0;
+        }
+        .day {
+          font-size: 2em;
+          border-radius: 0 0 3px 3px;
+          border-top-width: 0;
+        }
+
+
+      }
+
+
+      blockquote {
+        color: $mst-red;
+        font-size: 1.8em;
+        line-height: 1em;
+        text-align: center;
+        padding-top: 24px;
+        float: left;
+        font-style: italic;
+        @include span-columns(9);
+
+
+        &:after, &:before {
+          font-size: 4em;
+          color: $mst-green,
+        }
+
+        &:before {
+          content: '\201C';
+          float: left;
+
+        }
+        &:after {
+          content: '\201D';
+          float: right;
+          margin-top: .3em;
+        }
+      }
+
+
 
       &.gray {
         background-color: $mst-light-gray;
