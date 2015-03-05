@@ -34,8 +34,6 @@ releated_posts:
 <br />
 <em>Da P&aacute;gina do MST</em></p>
 
-<p>&nbsp;</p>
-
 <p><br />
 O m&ecirc;s de mar&ccedil;o na Bahia ser&aacute; marcado pela luta feminista contra a viol&ecirc;ncia, o capital e o agroneg&oacute;cio, com mobiliza&ccedil;&otilde;es unit&aacute;rias entre as mulheres Sem Terra e as trabalhadoras urbanas.</p>
 
