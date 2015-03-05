@@ -6,8 +6,8 @@ tags:
   - tag: agronegócio
   - tag: eucalipto
   - tag: transgênicos
-title: "Após ocupação na Suzano, outros 300 camponeses ocupam prédio da CTNBio, em Bsb"
-support_line: "As ações são contra a liberação dos eucaliptos transgênicos, a ser votada nesta quinta na CTNBio."
+title: "Após ocupação na Suzano, outros 300 camponeses ocupam prédio da CTNBio"
+support_line: "As ações são contra a liberação dos eucaliptos transgênicos, a ser votada nesta quinta na CTNBio, em Brasília."
 menu: lutas e mobilizações
 section: cover
 layout: post
@@ -30,6 +30,18 @@ files:
     small: "http://farm9.staticflickr.com/8682/16516785567_7d2848cd23_n.jpg"
     title: mulheres_suzano.jpg
     $$hashKey: "157"
+  - link: "http://farm9.staticflickr.com/8678/16104292273_91103c33f8_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8678/16104292273_91103c33f8_t.jpg"
+    medium: "http://farm9.staticflickr.com/8678/16104292273_91103c33f8_z.jpg"
+    small: "http://farm9.staticflickr.com/8678/16104292273_91103c33f8_n.jpg"
+    title: mulheres_suzano3.jpg
+    $$hashKey: 05I
+  - link: "http://farm9.staticflickr.com/8633/16516963687_0916bffcb1_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8633/16516963687_0916bffcb1_t.jpg"
+    medium: "http://farm9.staticflickr.com/8633/16516963687_0916bffcb1_z.jpg"
+    small: "http://farm9.staticflickr.com/8633/16516963687_0916bffcb1_n.jpg"
+    title: mulheres suzano.jpg
+    $$hashKey: 05L
 created_date: "2015-03-05T11:20:15-03:00"
 published: true
 images_hd: "http://farm9.staticflickr.com/8682/16516785567_7d2848cd23_n.jpg"
@@ -84,3 +96,7 @@ No caso do eucalipto, o pedido de libera&ccedil;&atilde;o do transg&ecirc;nico &
 
 <p><br />
 &ldquo;Se aprovado pela comiss&atilde;o esse pedido, o eucalipto reduziria sua rota&ccedil;&atilde;o de seis/sete anos para, apenas, quatro anos. O gasto de &aacute;gua ser&aacute; maior que os 25 a 30 litros/dia de por cada eucalipto plantado que se utiliza hoje. Estamos, novamente, chamando aten&ccedil;&atilde;o para o perigo dos desertos verdes&rdquo;, afirmou Catiane Cinelli, integrante do Movimento de Mulheres Camponesas.&nbsp;</p>
+
+<p><img alt="mulheres_suzano3.jpg" src="http://farm9.staticflickr.com/8678/16104292273_91103c33f8_b.jpg" /></p>
+
+<p><img alt="mulheres suzano.jpg" src="http://farm9.staticflickr.com/8633/16516963687_0916bffcb1_b.jpg" /></p>
