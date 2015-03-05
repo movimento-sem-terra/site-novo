@@ -54,8 +54,11 @@ releated_posts:
   - 2015/03/2015-03-03-preste-a-iniciarem-suas-lutas-mulheres-camponesas-prometem-enfrentar-o-modelo-do-agronegocio.md
 
 ---
-<p><img alt="ctnbio.jpg" src="http://farm9.staticflickr.com/8675/16104095753_c57c053ece_b.jpg" /><br />
-<br />
+<figure class="image"><img alt="mulheres_suzano3.jpg" src="http://farm9.staticflickr.com/8678/16104292273_91103c33f8_b.jpg" />
+<figcaption>Cerca de 1.000 mulheres do MST ocuparam a empresa Suzano, em Itapetininga, em SP.</figcaption>
+</figure>
+
+<p><br />
 <em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
@@ -84,11 +87,8 @@ De acordo com Atiliana Brunetto, integrante da dire&ccedil;&atilde;o nacional do
 <p><br />
 Para Brunetto, todo transg&ecirc;nico aprovado significa mais agrot&oacute;xicos na agricultura, j&aacute; que os pacotes aprovados para comercializa&ccedil;&atilde;o sempre incluem um tipo de veneno agr&iacute;cola.</p>
 
-<figure class="image" style="float:left"><img alt="mulheres_suzano.jpg" src="http://farm9.staticflickr.com/8682/16516785567_7d2848cd23_b.jpg" />
-<figcaption>Cerca de 1.000 mulheres do MST ocuparam a empresa Suzano, em Itapetininga, em SP.</figcaption>
-</figure>
-
-<p><br />
+<p><img alt="ctnbio.jpg" src="http://farm9.staticflickr.com/8675/16104095753_c57c053ece_b.jpg" /><br />
+<br />
 &ldquo;O Brasil &eacute; o maior consumidor de agrot&oacute;xicos do mundo desde 2009. Uma pesquisa recente da Universidade de Bras&iacute;lia concluiu que, na hip&oacute;tese mais otimista, 30% dos alimentos consumidos pelos brasileiros s&atilde;o impr&oacute;prios para o consumo somente por conta de contamina&ccedil;&atilde;o por agrot&oacute;xicos&rdquo;, completou.</p>
 
 <p><br />
@@ -97,6 +97,6 @@ No caso do eucalipto, o pedido de libera&ccedil;&atilde;o do transg&ecirc;nico &
 <p><br />
 &ldquo;Se aprovado pela comiss&atilde;o esse pedido, o eucalipto reduziria sua rota&ccedil;&atilde;o de seis/sete anos para, apenas, quatro anos. O gasto de &aacute;gua ser&aacute; maior que os 25 a 30 litros/dia de por cada eucalipto plantado que se utiliza hoje. Estamos, novamente, chamando aten&ccedil;&atilde;o para o perigo dos desertos verdes&rdquo;, afirmou Catiane Cinelli, integrante do Movimento de Mulheres Camponesas.&nbsp;</p>
 
-<p><img alt="mulheres_suzano3.jpg" src="http://farm9.staticflickr.com/8678/16104292273_91103c33f8_b.jpg" /></p>
+<p><img alt="mulheres_suzano.jpg" src="http://farm9.staticflickr.com/8682/16516785567_7d2848cd23_b.jpg" /></p>
 
 <p><img alt="mulheres suzano.jpg" src="http://farm9.staticflickr.com/8633/16516963687_0916bffcb1_b.jpg" /></p>
