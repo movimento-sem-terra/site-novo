@@ -46,8 +46,6 @@ Cerca de 1.000 mulheres do MST e militantes de movimentos sociais do campo e da 
 <p><br />
 A a&ccedil;&atilde;o, que faz parte da Jornada Nacional de Luta das Mulheres Camponesas, pretende denunciar os males que uma poss&iacute;vel libera&ccedil;&atilde;o de eucalipto transg&ecirc;nico, a ser votado na manh&atilde; desta quinta pela Comiss&atilde;o T&eacute;cnica Nacional de Biosseguran&ccedil;a (CTNBio), pode causar ao meio ambiente.&nbsp;O local da ocupa&ccedil;&atilde;o &eacute; onde est&aacute; sendo desenvolvido os testes com o eucalipto transg&ecirc;nico, conhecido como&nbsp;<span style="line-height: 20.7999992370605px;">H421.</span></p>
 
-<p>&nbsp;</p>
-
 <p><br />
 Nas &uacute;ltimas semanas, diversos especialistas v&ecirc;m alertando que a libera&ccedil;&atilde;o comercial dessa variedade interessa apenas &agrave; empresa beneficiada por esse processo, a FuturaGene/Suzano.</p>
 
