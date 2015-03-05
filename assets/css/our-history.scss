@@ -162,6 +162,7 @@ $big: new-breakpoint(min-width $screen-big);
       h2 {
           color: $mst-red;
           font-size: 2em;
+          margin-bottom: 40px;
 
           span {
             border-bottom: 3px solid $mst-green;
@@ -219,18 +220,25 @@ $big: new-breakpoint(min-width $screen-big);
 
 
       blockquote {
-        color: $mst-red;
-        font-size: 1.8em;
-        line-height: 1em;
+
+        &.red {
+            color: $mst-red;
+            font-size: 1.8em;
+            line-height: 1em;
+            float: left;
+            @include span-columns(7);
+        }
+
+        margin-bottom: 40px;
         text-align: center;
         padding-top: 24px;
         font-style: italic;
-        float: left;
-        @include span-columns(7);
 
         &:after, &:before {
           font-size: 4em;
-          color: $mst-green,
+          color: $mst-green;
+          line-height: 0;
+
         }
 
         &:before {
