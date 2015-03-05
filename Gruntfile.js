@@ -98,10 +98,11 @@ module.exports = function( grunt ) {
       },
 
       html: {
-        files : [ '_layouts/*.html',
-                  '_posts/*.md',
-                  '_pages/*/*.html',
-                  '_includes/*/*.html',
+        files : [ '_layouts/**.html',
+                  '_posts/**.md',
+                  '_pages/**/*.html',
+                  '_includes/**/*.html',
+                  '_data/**/*.yml',
                   '_config.yml',
                   'index.html',
                   '404.html' ],
