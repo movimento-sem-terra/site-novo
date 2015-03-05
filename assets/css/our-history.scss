@@ -10,6 +10,15 @@
   margin: 0;
   width: 100%;
 
+  .header-img {
+    height: 440px;
+    padding: 30px;
+    margin: 0 auto;
+    display: block;
+    position: relative;
+    z-index: 10;
+  }
+
   header {
     position: relative;
 
@@ -24,14 +33,6 @@
       @include filter(blur(4px));
     }
 
-    img {
-      height: 440px;
-      padding: 30px;
-      margin: 0 auto;
-      display: block;
-      position: relative;
-      z-index: 10;
-    }
 
     #arrow {
       font-size: 0;
@@ -135,11 +136,7 @@
     }
   }
 
-  .period {
-    display: none;
-    &.active {
-      display: block;
-    }
+  #content {
 
     h1 {
       text-align: center;
