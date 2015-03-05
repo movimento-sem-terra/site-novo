@@ -7,7 +7,7 @@ tags:
   - tag: agropecuária-santa-mônica
 title: "Após negociação, Sem Terra deixam a fazenda de Eunício de Oliveira"
 menu: lutas e mobilizações
-section: cover
+section: null
 support_line: "A saída está condicionada ao cadastro das famílias, a vistoria da fazenda e levantamento dominial do senador, e a desapropriação de 18 mil ha."
 layout: post
 files:
