@@ -5,7 +5,8 @@ tags:
   - tag: eucalipto
   - tag: transgênicos
   - tag: agronegócio
-title: Camponesas ocupam empresa Suzano contra liberação de eucalipto transgênico
+  - tag: jornada-de-luta-das-mulheres-2015
+title: Camponesas ocupam Suzano contra liberação de eucalipto transgênico
 support_line: "A liberação de eucalipto transgênico está para ser votada na manhã desta quinta pela CTNBio. A ocupação se deu no município de Itapetininga, em São Paulo."
 menu: lutas e mobilizações
 section: cover
@@ -31,6 +32,8 @@ releated_posts:
   - 2015/02/2015-02-18-monocultivo-de-eucalipto-parece-uma-floresta-mas-nao-e.md
   - 2014/12/2014-12-09-a-quem-interessa-o-brasil-ser-o-primeiro-pais-a-liberar-eucalipto-transgenico.md
   - 2015/02/2015-02-20-aprovacao-de-eucalipto-transgenico-trara-mais-danos-ambientais-afirma-especialista.md
+  - 2015/02/2015-02-22-jornada-nacional-de-luta-das-mulheres-camponesas.md
+  - 2015/03/2015-03-03-preste-a-iniciarem-suas-lutas-mulheres-camponesas-prometem-enfrentar-o-modelo-do-agronegocio.md
 
 ---
 <p><br />
