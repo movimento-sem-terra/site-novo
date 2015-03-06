@@ -5,7 +5,7 @@ tags:
   - tag: jornada-de-luta-das-mulheres-2015
   - tag: eucalipto
   - tag: transgênicos
-title: "Após ações sincronizadas, movimentos barram aprovação do eucalipto transgênico"
+title: "Após ações, movimentos sociais barram aprovação do eucalipto transgênico"
 support_line: "Embora seja uma vitória parcial, as organizações conseguiram levar esse debate à sociedade e mostrar seus impactos sociais e ambientais."
 menu: lutas e mobilizações
 section: cover
@@ -51,7 +51,7 @@ releated_posts:
 <p><em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Ap&oacute;s duas a&ccedil;&otilde;es sincronizadas com o objetivo de barrar a vota&ccedil;&atilde;o na Comiss&atilde;o T&eacute;cnica Nacional de Biosseguran&ccedil;a (CTNBio) que liberaria o cultivo de eucalipto transg&ecirc;nico no Brasil, os movimentos sociais saem com a sensa&ccedil;&atilde;o de vit&oacute;ria.</p>
+Ap&oacute;s duas a&ccedil;&otilde;es sincronizadas com o objetivo de barrar a vota&ccedil;&atilde;o na Comiss&atilde;o T&eacute;cnica Nacional de Biosseguran&ccedil;a (CTNBio), que liberaria o cultivo de eucalipto transg&ecirc;nico no Brasil, os movimentos sociais saem com a sensa&ccedil;&atilde;o de vit&oacute;ria.</p>
 
 <p><br />
 Enquanto 1.000 mulheres do MST ocupavam a sede da empresa Suzano/Futura Gene, em Itapetininga (SP) &ndash; onde est&aacute; sendo desenvolvido os testes com a nova esp&eacute;cie -, outros 300 camponeses da Via Campesina interromperam a reuni&atilde;o da CTNBio, em Bras&iacute;lia.</p>
@@ -89,10 +89,10 @@ Em rela&ccedil;&atilde;o &agrave; vota&ccedil;&atilde;o dos eucaliptos transg&ec
 Segundo diversos especialistas da &aacute;rea, uma poss&iacute;vel libera&ccedil;&atilde;o do cultivo de eucalipto transg&ecirc;nico poderia causar s&eacute;rios impactos ambientais e sociais.</p>
 
 <p><br />
-Uma delas &eacute; que grande parte da produ&ccedil;&atilde;o de mel brasileira seria contaminada pelos eucaliptos transg&ecirc;nicos, uma vez que qualquer mel produzido em colm&eacute;ias cujas abelhas visitassem flores de eucaliptos transg&ecirc;nicos tamb&eacute;m estar&aacute; contaminado por material transg&ecirc;nico. Assim, os apicultores n&atilde;o conseguiriam mais produzir mel org&acirc;nico ou agroecol&oacute;gico.</p>
+Um dos pontos &eacute; que grande parte da produ&ccedil;&atilde;o de mel brasileira seria contaminada pelos eucaliptos transg&ecirc;nicos, uma vez que qualquer mel produzido em colm&eacute;ias cujas abelhas visitassem flores de eucaliptos transg&ecirc;nicos tamb&eacute;m estar&aacute; contaminado por material transg&ecirc;nico. Assim, os apicultores n&atilde;o conseguiriam mais produzir mel org&acirc;nico ou agroecol&oacute;gico.</p>
 
 <p><br />
-Outro ponto &eacute; o consumo de &aacute;gua. O eucalipto j&aacute; &eacute; uma esp&eacute;cie que necessita de 30 litros de &aacute;gua por dia, e j&aacute; provoca seca no norte do Esp&iacute;rito Santo e sul da Bahia. O transg&ecirc;nico consumiria ainda mais &aacute;gua durante os primeiros anos de crescimento, j&aacute; que a colheita da nova planta para uso industrial seria feita com cinco anos, e n&atilde;o a partir dos sete, como atualmente ocorre.</p>
+Outra quest&atilde;o &eacute; o alto consumo de &aacute;gua. O eucalipto j&aacute; &eacute; uma esp&eacute;cie que necessita de 30 litros de &aacute;gua por dia, e j&aacute; provoca seca no norte do Esp&iacute;rito Santo e sul da Bahia. O transg&ecirc;nico consumiria ainda mais &aacute;gua durante os primeiros anos de crescimento, j&aacute; que a colheita da nova planta para uso industrial seria feita com cinco anos, e n&atilde;o a partir dos sete, como atualmente ocorre.</p>
 
 <p><br />
 Ainda por cima o eucalipto transg&ecirc;nico exige enormes quantidades de agrot&oacute;xicos. Um destes agrot&oacute;xicos mais utilizados nas planta&ccedil;&otilde;es de eucaliptos &eacute; o sulfluramida, fortemente cancer&iacute;genos e proibido pela Conven&ccedil;&atilde;o de Estocolmo, subscrita pelo Brasil e por mais de 152 pa&iacute;ses.</p>
