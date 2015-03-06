@@ -9,7 +9,7 @@ tags:
 title: "Após ocupação na Suzano, outros 300 camponeses ocupam prédio da CTNBio"
 support_line: "As ações são contra a liberação dos eucaliptos transgênicos, a ser votada nesta quinta na CTNBio, em Brasília."
 menu: lutas e mobilizações
-section: null
+section: featured-news
 layout: post
 files:
   - link: "http://farm9.staticflickr.com/8675/16104095753_c57c053ece_b.jpg"
