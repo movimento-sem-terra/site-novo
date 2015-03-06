@@ -44,7 +44,7 @@ body {
   }
 }
 
-@media(min-width: $screen-md) { 
+@media(min-width: $screen-md) {
   body > main {
     width: 80%;
     margin-left: auto;
@@ -67,12 +67,12 @@ h2 {
 }
 
 section {
-  h1 { 
+  h1 {
    margin-top: 0;
    font-size: 1.5em;
   }
 
-  h2 { 
+  h2 {
    margin-top: 5px;
    font-size: 1em;
   }
