@@ -9,15 +9,15 @@ support_line: "Segundo as organizações, a proposta legaliza a biopirataria rea
 menu: agronegócio
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8659/16546456909_995e46017a_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8659/16546456909_995e46017a_t.jpg"
-    medium: "http://farm9.staticflickr.com/8659/16546456909_995e46017a_z.jpg"
-    small: "http://farm9.staticflickr.com/8659/16546456909_995e46017a_n.jpg"
-    title: vende.jpg
-    $$hashKey: 06P
+  - link: "http://farm9.staticflickr.com/8648/16731452771_b11f8234e0_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8648/16731452771_b11f8234e0_t.jpg"
+    medium: "http://farm9.staticflickr.com/8648/16731452771_b11f8234e0_z.jpg"
+    small: "http://farm9.staticflickr.com/8648/16731452771_b11f8234e0_n.jpg"
+    title: sos_floresta.jpg
+    $$hashKey: 0JO
 created_date: "2015-03-06T09:04:00-03:00"
 published: true
-images_hd: "http://farm9.staticflickr.com/8659/16546456909_995e46017a_n.jpg"
+images_hd: "http://farm9.staticflickr.com/8648/16731452771_b11f8234e0_n.jpg"
 releated_posts:
   - 2015/03/2015-03-04-problemas-hidricos-no-cerrado-podem-afetar-importantes-setores-da-economia.md
   - 2014/10/2014-10-06-democracia-em-crise-a-chantagem-do-agronegocio.md
