@@ -6,7 +6,7 @@
       <ul>
         {% for campaign in campaigns %}
           <li>
-            <h2 class="hat">{{ campaign.title }}</h2>
+            <h2 class="hat">{{ campaign.hat }}</h2>
 
             {% assign default_image = site | extract_image_from_post_tag: campaign %}
             {% assign image = campaign | find_image: 'full_hd' %}
