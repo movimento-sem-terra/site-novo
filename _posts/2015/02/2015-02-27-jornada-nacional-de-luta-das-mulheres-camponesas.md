@@ -18,5 +18,6 @@ created_date: "2015-02-27T14:27:46-03:00"
 published: true
 images_hd: "http://farm9.staticflickr.com/8613/16044361763_ca00a0742d_n.jpg"
 releated_posts: []
+hat: Jornada
 
 ---
