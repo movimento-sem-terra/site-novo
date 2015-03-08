@@ -5,7 +5,7 @@ tags:
   - tag: mato-grosso
   - tag: lutas-e-mobilizações
 menu: lutas e mobilizações
-title: "No Mato Grosso, 300 mulheres realizam estudo e lutas durante jornada"
+title: "No Mato Grosso, 300 mulheres lutam e estudam durante jornada"
 support_line: "As mulheres chegaram com muita mística da luta, da resistência, da denuncia e do enfrentamento ao modelo do agronegócio."
 layout: post
 files:
@@ -23,7 +23,7 @@ files:
     $$hashKey: 1BB
 created_date: "2015-03-08T13:39:35-03:00"
 published: true
-images_hd: "http://farm9.staticflickr.com/8635/16132337774_92a1aa295a_n.jpg"
+images_hd: "http://farm8.staticflickr.com/7611/16134705543_78b1b5c807_n.jpg"
 releated_posts:
   - 2014/03/2014-03-17-mst-ocupa-incra-e-fecha-rodovia-por-reforma-agraria-no-mato-grosso.md
   - 2015/03/2015-03-03-preste-a-iniciarem-suas-lutas-mulheres-camponesas-prometem-enfrentar-o-modelo-do-agronegocio.md
