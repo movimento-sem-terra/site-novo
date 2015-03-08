@@ -4,7 +4,7 @@ tags:
   - tag: jornada-de-lutas-das-mulheres-2015
   - tag: lutas-e-mobilizações
   - tag: agronegócio
-title: "Em Jornada de Luta, Mulheres do campo e cidade denunciam o capital"
+title: "Em Jornada de Luta, mulheres do campo e cidade denunciam o capital"
 support_line: A Jornada inicia na próxima segunda com o Ato de Abertura da Marcha Estadual do MST. A marcha sairá de Feira de Santana em direção a capital.
 menu: lutas e mobilizações
 layout: post
