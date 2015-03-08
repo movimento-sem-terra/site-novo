@@ -6,7 +6,7 @@ tags:
   - tag: stf
 title: O STF golpeará a Constituição e os Povos Indígenas em benefício do ruralismo?
 label: articles
-support_line: "Uma eventual confirmação da decisão do STF seria uma sinalização para os povos indígenas de que a guerra é um mecanismo, mais do que legítimo, necessário."
+support_line: Uma eventual confirmação da decisão do STF seria uma sinalização para os povos indígenas de que a guerra é um mecanismo necessário.
 menu: direitos humanos
 layout: post
 files:
