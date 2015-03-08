@@ -6,7 +6,7 @@ tags:
   - tag: constituinte
   - tag: centrais-sindicais
   - tag: movimentos-sociais
-title: Movimentos sociais convocam ato em defesa da Petrobras e pela Constituinte
+title: Movimentos convocam ato em defesa da Petrobras e pela Constituinte
 support_line: "As mobilizações devem acontecer em todas as capitais do país no dia 13. Em SP, espera-se 40 mil pessoas."
 menu: lutas e mobilizações
 layout: post
