@@ -22,6 +22,7 @@ releated_posts:
   - 2014/12/2014-11-07-a-maior-bancada-do-congresso-nao-sera-de-um-partido-sera-da-jbs.md
   - 2014/12/2014-12-04-diante-de-um-congresso-conservador-a-importancia-da-reforma-politica.md
   - 2015/02/2015-02-11-para-renato-simoes-pec-vaccarezza-cunha-vai-piorar-sistema-eleitoral.md
+label: articles
 
 ---
 <figure class="image" style="float:right"><img alt="vacarezza.png" src="http://farm9.staticflickr.com/8671/16723805525_c634f8891a_b.jpg" />
