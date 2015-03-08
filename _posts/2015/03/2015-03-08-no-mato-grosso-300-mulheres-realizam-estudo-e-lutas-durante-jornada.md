@@ -25,10 +25,10 @@ created_date: "2015-03-08T13:39:35-03:00"
 published: true
 images_hd: "http://farm8.staticflickr.com/7611/16134705543_78b1b5c807_n.jpg"
 releated_posts:
-  - 2014/03/2014-03-17-mst-ocupa-incra-e-fecha-rodovia-por-reforma-agraria-no-mato-grosso.md
   - 2015/03/2015-03-03-preste-a-iniciarem-suas-lutas-mulheres-camponesas-prometem-enfrentar-o-modelo-do-agronegocio.md
   - 2015/03/2015-03-05-apos-ocupacao-na-suzano-outros-300-camponeses-ocupam-predio-da-ctnbio-em-bsb.md
   - 2015/03/2015-03-06-apos-acoes-sincronizadas-movimentos-barram-aprovacao-do-eucalipto-transgenico.md
+  - 2015/02/2015-02-22-jornada-nacional-de-luta-das-mulheres-camponesas.md
 
 ---
 <p><img alt="mt.png" src="http://farm9.staticflickr.com/8635/16132337774_92a1aa295a_b.jpg" /><br />
