@@ -41,7 +41,7 @@ O grupo da Universidade de Bras&iacute;lia (UnB), formado pelos professores Erla
 <p><br />
 Todavia, muitos ind&iacute;cios indicavam que num horizonte mais amplo, o que se configura imediatamente como recuo guarda elementos de uma potencial vit&oacute;ria em m&eacute;dio prazo: o suposto dono das terras, o senador cearense peemedebista, ofertou a fazenda inteira ao Incra, por 400 milh&otilde;es. Um pre&ccedil;o absurdo, mas cabe aqui apontar o interesse mercantil do pol&iacute;tico, interessado em lucros astron&ocirc;micos, sobretudo, se comparado ao modo suspeito como ele formou aquele latif&uacute;ndio, bem documentado no v&iacute;deo de Camila Freitas, chamado Passarim, dispon&iacute;vel na internet (https://vimeo.com/106781801).</p>
 
-<p>https://vimeo.com/106781801<br />
+<p><br />
 Outro ind&iacute;cio: o respeito de parte dos comandantes e soldados da Pol&iacute;cia Militar de Goi&aacute;s pelas fam&iacute;lias e dirigentes do MST ali presentes, que podia ser notado pela defini&ccedil;&atilde;o de uma opera&ccedil;&atilde;o sem armamento ostensivo e letal por boa parte da guarda, e pela dist&acirc;ncia (fora da vista da entrada do acampamento) em que o grosso das tropas foi posicionado. Claramente, havia ali um constrangimento no cumprimento da ordem judicial, na medida em que o apoio das popula&ccedil;&otilde;es das cidades vizinhas, e a exuber&acirc;ncia da produ&ccedil;&atilde;o agroecol&oacute;gica daquelas fam&iacute;lias trabalhadoras desmentia, um por um, todos os r&oacute;tulos pejorativos que a grande imprensa e os governos conservadoras costumam impor &agrave; luta dos trabalhadores rurais.</p>
 
 <p><iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/76wSGrW7NqA" width="640"></iframe></p>
