@@ -4,7 +4,7 @@ tags:
   - tag: jornada-de-luta-das-mulheres-2015
   - tag: lutas-e-mobilizações
   - tag: paraíba
-title: "Cerca de 450 camponesas ocupam o Engenho da Usina Giasa, na Paraíba"
+title: "Centenas de camponesas ocupam o Engenho da Usina Giasa e sede do Incra, na Paraíba"
 support_line: "O Engenho, atualmente com registro sobre o nome BioSev, pertence a um Grupo Francês cujo um dos donos é o ex-jogador de futebol francês, Zidane."
 menu: lutas e mobilizações
 layout: post
@@ -35,7 +35,7 @@ releated_posts:
 <em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Cerca de 450 mulheres do MST ocuparam na manh&atilde; desta segunda-feira (9) o Engenho da Usina Giasa, no munic&iacute;pio de Pedra de Fogo, na Para&iacute;ba.</p>
+Cerca de 450 mulheres do MST ocuparam na manh&atilde; desta segunda-feira (9) o Engenho da Usina Giasa, no munic&iacute;pio de Pedra de Fogo, na Para&iacute;ba. No per&iacute;odo da tarde, enquanto os homens ajudavam a montar o acampamento no local, as Sem Terra se juntaram com mulheres de outras organiza&ccedil;&otilde;es e ocuparam a sede do Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra), em Jo&atilde;o Pessoa. Ao todo, mais de 650 camponesas participam da a&ccedil;&atilde;o.</p>
 
 <p><br />
 O Engenho, atualmente com registro sobre o nome BioSev, pertence a um Grupo Franc&ecirc;s cujo um dos donos &eacute; o ex-jogador de futebol franc&ecirc;s, Zin&eacute;dine Zidane.</p>
