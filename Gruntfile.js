@@ -18,19 +18,17 @@ module.exports = function( grunt ) {
     },
 
     shell : {
+      options: {
+        stdout: true,
+        stderr: true,
+      },
+
       jekyllBuild : {
         command : 'jekyll build --limit_posts <%= limit_posts %>',
-        options: {
-          stdout: true,
-        }
       },
 
       sanitizeSass : {
         command : 'ruby -pi.bak -e "gsub(/---\n/, \'\')" assets/css/.sanitized-sass/*.scss',
-        options: {
-          stdout: true,
-          stderr: true,
-        }
       },
     },
 
