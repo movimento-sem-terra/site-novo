@@ -87,6 +87,9 @@ A lei cria um fundo com 0,5% do or&ccedil;amento anual do Governo do estado para
 No Tocantins, mais de 250 mulheres trancam a Rodovia Bel&eacute;m Bras&iacute;lia (BR 153), na cidade de Guara&iacute;.</p>
 
 <p><br />
+No Esp&iacute;rito Santo, centenas de mulheres de diversas organiza&ccedil;&otilde;es do campo realizam uma marcha pela cidade de Colatina.</p>
+
+<p><br />
 Em Macei&oacute; (AL), as mulheres ocupam desde a noite deste domingo (8) a sede da superintend&ecirc;ncia do Minist&eacute;rio da Agricultura, Pecu&aacute;ria e Abastecimento. As camponesas denunciam o modelo devastador de produ&ccedil;&atilde;o da cana-de-a&ccedil;&uacute;car e a atual intensifica&ccedil;&atilde;o da planta&ccedil;&atilde;o de eucalipto no estado.</p>
 
 <p><br />
