@@ -8,7 +8,7 @@ tags:
 title: "Após ações, movimentos sociais barram aprovação do eucalipto transgênico"
 support_line: "Embora seja uma vitória parcial, as organizações conseguiram levar esse debate à sociedade e mostrar seus impactos sociais e ambientais."
 menu: lutas e mobilizações
-section: cover
+section: featured-news
 layout: post
 files:
   - link: "http://farm9.staticflickr.com/8574/16525718657_7013740a62_b.jpg"
