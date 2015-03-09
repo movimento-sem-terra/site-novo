@@ -56,7 +56,7 @@ Nesta segunda-feira (9), v&aacute;rios estados amanheceram com a mobiliza&ccedil
 As a&ccedil;&otilde;es fazem parte da Jornada Nacional de Lutas das Mulheres Camponesas, em que denunciam o modelo do agroneg&oacute;cio no campo brasileiro e prop&otilde;em a agroecologia como alternativa ao capital estrangeiro na agricultura.</p>
 
 <p><br />
-Cerca de 800 mulheres camponesas, organizadas pela Via Campesina, ocupam a multinacional Bunge, em Luzi&acirc;nia (BR 040- entorno de Bras&iacute;lia). Segundo as mulheres, a Bunge &eacute; destas empresas transnacionais que representa o capital estrangeiro na agricultura.</p>
+Cerca de 800 mulheres camponesas, organizadas pela Via Campesina, ocupam a multinacional Bunge, em Luzi&acirc;nia (BR 040- entorno de Bras&iacute;lia). Segundo as mulheres, a Bunge &eacute; uma destas empresas transnacionais que representa o capital estrangeiro na agricultura.</p>
 
 <p>&nbsp;</p>
 
@@ -68,6 +68,9 @@ Cerca de 800 mulheres camponesas, organizadas pela Via Campesina, ocupam a multi
 
 <p><br />
 O Engenho, atualmente com registro sobre o nome BioSev, pertence a um Grupo Franc&ecirc;s cujo um dos donos &eacute; o ex-jogador de futebol franc&ecirc;s, Zin&eacute;dine Zidane.</p>
+
+<p><br />
+Na Bahia, 6.000 pessoas iniciaram nesta segunda uma marcha rumo a capital Salvador. A marcha saiu de Feira de Santana, e percorrer&aacute; 116 km.</p>
 
 <p><br />
 No Goi&aacute;s, mais de 1500 mulheres do MST, Movimento Movimento Campon&ecirc;s Popular (MCP) e da Federa&ccedil;&atilde;o dos trabalhadores na Agricultura Familiar (Fetraf) ocupam a Secretaria da Fazenda. Elas reivindicam a aprova&ccedil;&atilde;o da Lei de Fortalecimento da Agricultura Familiar e Camponesa, travada na Casa Civil do GO.</p>
