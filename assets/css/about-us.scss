@@ -1,9 +1,12 @@
 ---
 ---
+
 @import "../bourbon/bourbon";
 @import "../neat/neat";
 @import "variables";
 @import "_includes/ask-us";
+
+$desktop: new-breakpoint(min-width 768px);
 
 .inner-content-default{
   border: solid 1px #fff;
@@ -15,6 +18,7 @@
   padding-top: 0;
   max-height: 0;
   @include transition(max-height .8s ease-out);
+
   p{
     padding: 0;
   }
@@ -25,6 +29,7 @@
   h4{
     font-size: 16px;
   }
+
 
   @include media($desktop) {
     background-color: #fff;
@@ -252,6 +257,14 @@ main.about-us {
             }
           }
 
+          .down-icon{
+            float: left;
+            @include transition(transform .8s ease-out);
+            @include media($desktop) {
+              display: none;
+            }
+          }
+
           &:last-child {
             border-bottom: none;
           }
@@ -333,7 +346,7 @@ main.about-us {
     }
     // END ORGANIZATION
 
-    &.objectives{
+    &#objectives{
       .goals{
         @include span-columns(12);
         margin-bottom: 0;
@@ -349,6 +362,7 @@ main.about-us {
             }
             .inner-content{
               @extend .inner-content-default;
+
               p{
                 margin-bottom: 0px;
               }
@@ -428,119 +442,122 @@ main.about-us {
       }
   }
 
-  &.flags{
+    &.flags{
 
-    background-color: #f8f8f9;
+      background-color: #f8f8f9;
 
-    #tabs-container{
-      border: solid 2px #ebebeb;
-      background-color: #ffffff;
-      overflow: hidden;
+      #tabs-container{
+        border: solid 2px #ebebeb;
+        background-color: #ffffff;
+        overflow: hidden;
 
-      .resp-tabs-container{
-        @include outer-container();
-        padding: 20px;
+        .resp-tabs-container{
+          @include outer-container();
+          padding: 20px;
 
-        label{
-          font-weight: bold;
-          font-size: 20px;
-          margin-bottom: 10px;
-          display: block;
-          margin-left: 2px;
-          @include media($desktop){
-            display: none;
+          label{
+            font-weight: bold;
+            font-size: 20px;
+            margin-bottom: 10px;
+            display: block;
+            margin-left: 2px;
+            @include media($desktop){
+              display: none;
+            }
           }
-        }
-        select {
-          width: 100%;
-          margin-bottom: 25px;
-          padding: 5px;
-          border: solid 1px #ebebeb;
-          height: 49px;
-          font-size: 16px;
-          border-radius: 5px;
-          @include media($desktop){
-            display: none;
-          }
-        }
-      }
-      .tab{
-        @include fill-parent();
-        display: none;
-        min-height: 400px;
-
-        &.show{
-          display: block;
-        }
-
-        .text-content{
-          @include span-columns(12);
-          @include media($desktop){
-            @include span-columns(6);
-          }
-        }
-
-        figure{
-          @include media($desktop){
-            @include span-columns(6);
-          }
-          margin:0;
-          img{
+          select {
             width: 100%;
-            margin-bottom: 20px;
+            margin-bottom: 25px;
+            padding: 5px;
+            border: solid 1px #ebebeb;
+            height: 49px;
+            font-size: 16px;
+            border-radius: 5px;
+            @include media($desktop){
+              display: none;
+            }
           }
         }
+        .tab{
+          @include fill-parent();
+          display: none;
+          min-height: 400px;
 
-      }
-    }
-
-    ul.resp-tabs-list{
-      display: none;
-
-      @include media($desktop){
-        display: block;
-      }
-      height: 95px;
-      width: 1180px;
-      li{
-        @include transition(all, .4s, ease-out);
-
-        background-color: #f8f8f9;
-        text-align: center;
-        border-right: solid 2px #ebebeb;
-        border-bottom: solid 2px #ebebeb;
-        color: #036603;
-        font-weight: bold;
-        padding: 3px;
-        display: table;
-        float: left;
-        width: 121px;
-        height: 93px;
-
-        &.selected{
-          background-color: #ffffff;
-          border-bottom: solid 2px #ffffff;
-        }
-
-        a{
-          display: table-cell;
-          vertical-align: middle;
-          text-align: center;
-          line-height: 110%;
-          text-decoration: none;
-          font-size: 13px;
-
-          span{
-            width: 100px;
-            margin: 14px auto 8px auto;
+          &.show{
             display: block;
           }
+
+          .text-content{
+            @include span-columns(12);
+            @include media($desktop){
+              @include span-columns(6);
+            }
+          }
+
+          figure{
+            @include media($desktop){
+              @include span-columns(6);
+            }
+            margin:0;
+            img{
+              width: 100%;
+              margin-bottom: 20px;
+            }
+          }
+
+        }
+      }
+
+      ul.resp-tabs-list{
+        display: none;
+
+        @include media($desktop){
+          display: block;
+        }
+        height: 95px;
+        width: 1180px;
+        li{
+          @include transition(all, .4s, ease-out);
+
+          background-color: #f8f8f9;
+          text-align: center;
+          border-right: solid 2px #ebebeb;
+          border-bottom: solid 2px #ebebeb;
+          color: #036603;
+          font-weight: bold;
+          padding: 3px;
+          display: table;
+          float: left;
+          width: 121px;
+          height: 93px;
+
+          &.selected{
+            background-color: #ffffff;
+            border-bottom: solid 2px #ffffff;
+          }
+
+          a{
+            display: table-cell;
+            vertical-align: middle;
+            text-align: center;
+            line-height: 110%;
+            text-decoration: none;
+            font-size: 13px;
+
+            span{
+              width: 100px;
+              margin: 14px auto 8px auto;
+              display: block;
+            }
+          }
         }
       }
     }
-  }
-  &.ask-us{
-    @extend .ask-us-default;
-  }
+
+    &.ask-us {
+      .content {
+        padding-bottom: 0;
+      }
+    }
   }
 }

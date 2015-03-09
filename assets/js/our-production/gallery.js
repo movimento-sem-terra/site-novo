@@ -20,6 +20,7 @@
       this.links = this.thumbs.find('ul li a');
       this.setLinkEvents(this.links);
       this.setupNav(this.thumbs);
+      this.container = $(selector);
     },
 
     setupNav: function(container){
@@ -28,11 +29,11 @@
       var navButtons = container.find('a[data-direction]');
       var limit = container.outerWidth();
       this.itemWidth  = thumbs.find('li:first').outerWidth(true);
-  
+
       var totalWidth = (totalItems * this.itemWidth );
       var outerSize =  totalWidth - limit;
       this.totalPages = Math.round(outerSize / this.itemWidth ) ;
-     
+
 
       thumbs.css({width: totalWidth });
       navButtons.on('click', function(e){
@@ -44,17 +45,33 @@
     changePage: function(direction){
       this.currentPage += direction * -1;
       var first_page = 0;
-      
+
       if( this.currentPage < first_page ){
-        this.currentPage  = first_page; 
+        this.currentPage  = first_page;
       }
-      
+
       if (this.currentPage >= this.totalPages){
         this.currentPage = this.totalPages;
-      } 
-      
+      }
+
       this.thumbs.find('ul').velocity({left: ((this.currentPage * this.itemWidth)*-1) + 'px' });
+
+      if(direction > 0) {
+        this.selectPrev();
+      } else {
+        this.selectNext();
+      }
+
     },
+
+    selectNext: function() {
+      this.container.find('.open').parent().next().find('a').click();
+    },
+
+    selectPrev: function() {
+      this.container.find('.open').parent().prev().find('a').click();
+    },
+
 
     animate: function(animation, callback){
       this.figure.stop();
@@ -73,7 +90,7 @@
         var seletecteItem = $(e.currentTarget);
         var imageURL = $(e.currentTarget).attr('href');
         var legendText = $(e.currentTarget).attr('title');
-        
+
         var callback = function(){ Gallery.setImage(imageURL, legendText); };
         links.removeClass('open');
         seletecteItem.addClass('open');

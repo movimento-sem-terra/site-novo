@@ -15,11 +15,11 @@
     </a>
 
     {% else %}
-      {% if include.post.type == 'video' %}
+      {% if include.post.video != '' %}
 
       <a href="{{ site.baseurl }}{{ include.post.url }}">
           <figure
-            style="background-image:url('http://i1.ytimg.com/vi/{{ include.post.video }}/hqdefault.jpg');"
+            style="background-image:url('{{ include.post.video_thumbnail }}');"
             alt="Imagem para a noticia: {{ include.post.title }}">
           </figure>
         </a>

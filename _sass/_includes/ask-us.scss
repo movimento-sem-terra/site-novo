@@ -1,17 +1,17 @@
 @import "spinner";
+@import "variables";
 
-.ask-us-default {
+.ask-us {
+    padding: 10px;
+
     @include fill-parent;
     background-color: $mst-green;
     position: relative;
 
-    @include media($desktop){
-
-    }
     .content {
-        padding-bottom: 20px;
-        padding-top: 20px;
-
+        @include outer-container;
+        padding: 20px 0;
+        margin: 0 auto;
         @include media($desktop){
             padding-bottom: 0;
             padding-top: 42px;

@@ -7,6 +7,7 @@
 @import "../_sass/_includes/spinner";
 @import "../_sass/_includes/ask-us";
 
+$mobile: new-breakpoint(max-width 768px);
 
 
 //EXTENDS
@@ -52,7 +53,7 @@
          -o-background-size: cover;
        -moz-background-size: cover;
     -webkit-background-size: cover;
-    
+
      .quote{
         width: 30px;
         height: 30px;
@@ -84,6 +85,11 @@
         @extend .title-with-shadow;
         font-size: 36px;
         font-style: italic;
+
+        @include media($mobile) {
+          padding: 10px;
+        }
+
       }
 
       #summary {
@@ -95,11 +101,20 @@
           font: 500 18px / 24px;
           color: #ffffff;
           font-weight: 200;
+          padding: 10px;
+        }
+
+        @include media($mobile) {
+          @include fill-parent();
         }
       }
       #testimonials{
         @include span-columns(6);
         text-align: center;
+
+        @include media($mobile) {
+          @include fill-parent();
+        }
 
         h4{
           @extend .title-with-shadow;
@@ -135,6 +150,17 @@
             color: #555555;
             font-weight: 200;
           }
+
+          @include media($mobile) {
+            display: block;
+            margin: 0 auto;
+            float: none;
+
+            &:first-of-type{
+              margin-right: auto;
+            }
+
+          }
         }
       }
     }
@@ -157,10 +183,18 @@
         margin-bottom: 0;
         min-width: 235px;
         text-align: center;
+
+        @include media($mobile) {
+          @include span-columns(12);
+        }
       }
 
       #infos{
         @include span-columns(9);
+
+        @include media($mobile) {
+          @include fill-parent();
+        }
         .info{
           text-align: center;
           @include span-columns(3 of 12);
@@ -177,9 +211,15 @@
 
             }
           }
+
+          @include media($mobile) {
+            @include span-columns(12);
+          }
         }
       }
     }
+
+
   }
 
   #news-production{
@@ -223,8 +263,14 @@
 
     }
 
-    #latest-news{
+    #know-more {
       @include span-columns(3);
+
+      @include media($mobile) {
+        @include span-columns(12);
+        padding: 10px;
+      }
+
       .news{
         max-height: 57px;
         overflow: hidden;
@@ -258,28 +304,60 @@
 
     #others-container{
       @include span-columns(9);
+      @include media($mobile) {
+        @include span-columns(12);
+      }
+
       border-left: solid 1px #b7b7b7;
       min-height: 572px;
 
       #keep-an-eye{
         padding-left: 16px;
         @include span-columns(4 of 9);
+
+        @include media($mobile) {
+          @include span-columns(12);
+          padding: 10px;
+        }
         .news{
-          @include span-columns(6 of 12);
-          &:first-of-type {
-            @include fill-parent();
-            margin-bottom: 19px;
-            
+
+          position: relative;
+          @include fill-parent();
+          a {
+
+            display: block;
             img {
+
+              @include media($mobile) {
+                max-height: 100%;
+              }
+
               height: auto;
               max-height: 219px;
+              display: block;
+            }
+
+            span {
+              position: absolute;
+              bottom: 5px;
+              left: 0;
+              color: white;
+              text-align: center;
+              padding: 10% 10px 10px 10px;
+              font-size: 1.07em;
+              @include linear-gradient(transparent, rgba(0, 0, 0, .7));
+              transition-duration: .5s;
+              width: 100%;
+            }
+
+            &:hover {
+              span {
+                padding-top: 50%;
+                text-decoration: underline;
+              }
             }
           }
-          
-          img {
-            height: 108px;
-          }
-        
+
         }
       }
 
@@ -287,6 +365,31 @@
       #others{
         @include span-columns(5 of 9);
         @include omega();
+
+        @include media($mobile) {
+          @include span-columns(12);
+          padding: 10px;
+        }
+
+        #video {
+          @include span-columns(12);
+
+          .news{
+            @include span-columns(6 of 12);
+
+            @include media($mobile) {
+              @include fill-parent();
+              margin-bottom: 20px;
+              iframe {
+                min-height: 230px;
+              }
+            }
+
+            img {
+              height: 120px;
+            }
+          }
+        }
       }
 
       .news{
@@ -305,65 +408,57 @@
         }
 
       }
-      .ask-us{
-        @extend .ask-us-default;
-        @include span-columns(9 of 9);
-        min-height: 141px;
-        padding-bottom: 10px;
-        border-top: solid 1px #b7b7b7;
-        background-color: transparent;
-        padding-left: 16px;
 
-        form .form-input{
-          &.email{
-            @include span-columns(5);
-          }
-          &.question{
-            @include span-columns(5);
-          }
-        }
-        form { width: 100%; }
-        form input{
-          border: solid 1px #b7b7b7;
-          &[type="email"], &[type="text"]{
-            width: 100%;
-            margin-right: 0px;
-          }
-          &[type="submit"]{
-            @include span-columns(2);
-            margin-right: 0;
-            background-color: $mst-green;
-          }
-        }
-        form label{
-          width: auto;
-          float: none;
-          display: block;
-          color: #555555;
-          font-style: normal;
-          margin-top: 15px;
-          margin-bottom: 10px;
-        }
-        .content{
-          padding: 0px;
-        }
-      }
 
-      #video, 
+
+
       #our-historic {
         @include span-columns(12);
 
-        .news{
-          @include span-columns(6 of 12);
-          
-          img {
-            height: 120px;
-          }
+        padding: 20px 130px;
+
+        @include media($mobile) {
+          padding: 10px;
         }
-      }
-      #our-historic{
+        .news{
+          @include span-columns(4 of 12);
+
+          @include media($mobile) {
+            @include fill-parent();
+            float: none;
+            max-width: 200px;
+            margin: 25px auto !important;
+          }
+
+          a {
+            text-align: center;
+            color: $mst-green;
+            img {
+              padding: 0 30px;
+              transition-duration: .5s;
+            }
+
+          }
+          :hover img {
+            @include filter(hue-rotate(35deg));
+            @include transform(scale(1.05));
+          }
+
+
+        }
+
+        hr{
+          border: 0;
+          height: 2px;
+          width: 85%;
+          margin-bottom: 30px;
+          @include linear-gradient(left, rgba(0,0,0,0), rgba(150,15,19,0.75), rgba(0,0,0,0));
+        }
+
         h4 {
           margin-top: 5px;
+          margin-bottom: 0;
+          text-align: center;
         }
       }
     }
@@ -383,11 +478,22 @@
 
       #text{
         @include span-columns(5);
+        @include media($mobile) {
+          @include fill-parent();
+          padding: 10px;
+        }
       }
 
       #gallery{
         @include shift(1);
         @include span-columns(6);
+
+        @include media($mobile) {
+          @include fill-parent();
+          padding: 10px;
+          margin: 0;
+        }
+
         overflow: hidden;
         position: relative;
         margin-top: 17px;
@@ -405,12 +511,19 @@
         }
 
         figure{
+          @include media($mobile) {
+
+            min-width: 100%;
+
+            img {
+              width: 100%;
+            }
+          }
           margin: 0;
           text-align: center;
           position: relative;
           z-index: 999;
-
-          min-height: 421px;
+          min-height: 364px;
           min-width: 538px;
 
           legend{
@@ -457,7 +570,7 @@
             }
           }
           a.arrow.right{
-            left: 497px;
+            right: -26px;
             bottom: 11%;
             padding-left: 11px;
             &:before{
@@ -483,7 +596,7 @@
                 @include transition(all 0.3s ease-out);
                 border-bottom: solid 1px #fff;
                 img {
-                  
+
                   padding-bottom: 0px;
                 }
                 &.open{
@@ -498,4 +611,5 @@
       }
     }
   }
+
 }

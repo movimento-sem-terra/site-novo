@@ -11,7 +11,7 @@ function dirty_check {
 
 function create_gh_pages {
   [[ `git ls-remote origin | grep gh-pages` ]] && return
-  TMP="/tmp/$(LC_CTYPE=C tr -dc 0-9 < /dev/urandom | head -c 20 | xargs | cat)"
+  TMP="/tmp/$(LC_ALL=C tr -dc 0-9 < /dev/urandom | head -c 20 | xargs | cat)"
   rsync -qa .git $TMP
   pushd $TMP
     git checkout --orphan gh-pages
@@ -77,7 +77,7 @@ function install_gems {
   bundle exec bourbon install
   bundle exec neat install
 }
-DIST_FOLDER="/tmp/$(LC_CTYPE=C tr -dc 0-9 < /dev/urandom | head -c 20 | xargs | cat)"
+DIST_FOLDER="/tmp/$(LC_ALL=C tr -dc 0-9 < /dev/urandom | head -c 20 | xargs | cat)"
 TARGET=$1
 
 install_gems $1

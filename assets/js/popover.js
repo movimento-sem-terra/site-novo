@@ -1,4 +1,3 @@
-
 /*jslint browser: true*/
 (function () {
   'use strict';
@@ -63,6 +62,8 @@
           if ($(this).parent().hasClass('open') === false) {
             $(this).css({display: 'none' });
           }
+
+          e.preventDefault();
         });
       },
 
