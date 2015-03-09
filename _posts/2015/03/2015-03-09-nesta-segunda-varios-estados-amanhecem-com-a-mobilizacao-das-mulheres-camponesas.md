@@ -3,7 +3,7 @@ date: "2015-03-09T10:41:40-03:00"
 tags:
   - tag: jornada-de-luta-das-mulheres-2015
   - tag: lutas-e-mobilizações
-title: "Nesta segunda, estados amanhecem com a mobilização das mulheres camponesas"
+title: "Nesta segunda, estados amanhecem com mobilizações das mulheres camponesas"
 support_line: "As ações fazem parte da Jornada Nacional de Lutas das Mulheres Camponesas, em que denunciam o modelo do agronegócio."
 menu: lutas e mobilizações
 layout: post
