@@ -32,6 +32,12 @@ files:
     small: "http://farm8.staticflickr.com/7591/16764166625_c4e2ae8f3b_n.jpg"
     title: 2015mulheresPB.jpg
     $$hashKey: 16N
+  - link: "http://farm8.staticflickr.com/7633/16146273083_b43f796e3d_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7633/16146273083_b43f796e3d_t.jpg"
+    medium: "http://farm8.staticflickr.com/7633/16146273083_b43f796e3d_z.jpg"
+    small: "http://farm8.staticflickr.com/7633/16146273083_b43f796e3d_n.jpg"
+    title: 2015mulheresES.jpg
+    $$hashKey: 0Z3
 created_date: "2015-03-09T09:49:28-03:00"
 published: true
 images_hd: "http://farm8.staticflickr.com/7615/16556884717_69090ea5f7_n.jpg"
@@ -82,7 +88,7 @@ No Goi&aacute;s, mais de 1500 mulheres do MST, Movimento Movimento Campon&ecirc;
 <figcaption>No Mato Grosso, cerca de 300 marcham pelo munic&iacute;pio de C&aacute;ceres.</figcaption>
 </figure>
 
-<p>No Mato Grosso, cerca de 300 mulheres de diversos assentamentos e acampamentos do MST no estado marcham pela cidade de C&aacute;ceres. Desde s&aacute;bado (7), as camponesas est&atilde;o reunidas no munic&iacute;pio, onde tamb&eacute;m realizam estudos. O munic&iacute;pio de C&aacute;ceres foi escolhido por causa da expans&atilde;o do agroneg&oacute;cio e da minera&ccedil;&atilde;o, al&eacute;m de in&uacute;meros projetos previstos para a regi&atilde;o da bacia do Alto Paraguai, uma das principais formadoras do pantanal.</p>
+<p>No Mato Grosso, depois de marcharem pelo munic&iacute;pio de C&aacute;ceres na manh&atilde; desta segunda-feira (9), cerca de 300 mulheres do MST ocuparam a Fazenda Rancho Verde no mesmo munic&iacute;pio, a 220 km de Cuiab&aacute;.</p>
 
 <p><br />
 Em Quixeramobim, no Cear&aacute;, as mulheres do MST e da Fetraece realizam marcha pelas ruas do munic&iacute;pio contra o agroneg&oacute;cio e a viol&ecirc;ncia contra as mulheres.</p>
@@ -92,6 +98,10 @@ No Tocantins, mais de 250 mulheres trancam a Rodovia Bel&eacute;m Bras&iacute;li
 
 <p><br />
 No Esp&iacute;rito Santo, centenas de mulheres de diversas organiza&ccedil;&otilde;es do campo realizam uma marcha pela cidade de Colatina. Outras 100 fam&iacute;lias ocuparam a Fazenda Nossa Senhora da Concei&ccedil;&atilde;o, pr&oacute;ximo a Linhares.</p>
+
+<p><img alt="2015mulheresES.jpg" src="http://farm8.staticflickr.com/7633/16146273083_b43f796e3d_b.jpg" /><br />
+<br />
+Na capital pernambucana, em Recife, mais de 600 mulheres do MST, da Pastoral da Juventude Rural (PJR), Comiss&atilde;o Pastoral da Terra (CPT), Levante Popular da Juventude e Marcha Mundial das Mulheres (MMM) ocuparam na manha desta segunda-feira (9) a sede do Minist&eacute;rio da Agricultura e a Secretaria de Agricultura do Estado.</p>
 
 <p><br />
 Em Macei&oacute; (AL), as mulheres ocupam desde a noite deste domingo (8) a sede da superintend&ecirc;ncia do Minist&eacute;rio da Agricultura, Pecu&aacute;ria e Abastecimento. As camponesas denunciam o modelo devastador de produ&ccedil;&atilde;o da cana-de-a&ccedil;&uacute;car e a atual intensifica&ccedil;&atilde;o da planta&ccedil;&atilde;o de eucalipto no estado.</p>
