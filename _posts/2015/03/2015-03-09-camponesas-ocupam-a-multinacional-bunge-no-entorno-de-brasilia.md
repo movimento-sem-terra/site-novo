@@ -10,15 +10,27 @@ menu: lutas e mobilizações
 section: cover
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8713/16763864325_00ce2eca4e_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8713/16763864325_00ce2eca4e_t.jpg"
-    medium: "http://farm9.staticflickr.com/8713/16763864325_00ce2eca4e_z.jpg"
-    small: "http://farm9.staticflickr.com/8713/16763864325_00ce2eca4e_n.jpg"
-    title: Cartaz_Jornada_Mulheres_2015_WEB.jpg
-    $$hashKey: 0E7
+  - link: "http://farm8.staticflickr.com/7641/16143955403_5a791de560_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7641/16143955403_5a791de560_t.jpg"
+    medium: "http://farm8.staticflickr.com/7641/16143955403_5a791de560_z.jpg"
+    small: "http://farm8.staticflickr.com/7641/16143955403_5a791de560_n.jpg"
+    title: 2015mulheresbsb.jpg
+    $$hashKey: 0V4
+  - link: "http://farm9.staticflickr.com/8615/16141592904_94986c3ac1_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8615/16141592904_94986c3ac1_t.jpg"
+    medium: "http://farm9.staticflickr.com/8615/16141592904_94986c3ac1_z.jpg"
+    small: "http://farm9.staticflickr.com/8615/16141592904_94986c3ac1_n.jpg"
+    title: 2015mulheresbsb2.jpg
+    $$hashKey: 0V7
+  - link: "http://farm9.staticflickr.com/8654/16762731801_18121f071b_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8654/16762731801_18121f071b_t.jpg"
+    medium: "http://farm9.staticflickr.com/8654/16762731801_18121f071b_z.jpg"
+    small: "http://farm9.staticflickr.com/8654/16762731801_18121f071b_n.jpg"
+    title: 2015mulheresbsb3.jpg
+    $$hashKey: 0VA
 created_date: "2015-03-09T09:04:03-03:00"
 published: true
-images_hd: "http://farm9.staticflickr.com/8713/16763864325_00ce2eca4e_n.jpg"
+images_hd: "http://farm8.staticflickr.com/7641/16143955403_5a791de560_n.jpg"
 releated_posts:
   - 2015/03/2015-03-03-preste-a-iniciarem-suas-lutas-mulheres-camponesas-prometem-enfrentar-o-modelo-do-agronegocio.md
   - 2015/03/2015-03-05-apos-ocupacao-na-suzano-outros-300-camponeses-ocupam-predio-da-ctnbio-em-bsb.md
@@ -27,7 +39,9 @@ releated_posts:
   - 2015/02/2015-02-22-jornada-nacional-de-luta-das-mulheres-camponesas.md
 
 ---
-<p>&nbsp;</p>
+<figure class="image"><img alt="2015mulheresbsb.jpg" src="http://farm8.staticflickr.com/7641/16143955403_5a791de560_b.jpg" />
+<figcaption>Foto: M&iacute;dia Ninja</figcaption>
+</figure>
 
 <p><em>Da P&aacute;gina do MST</em></p>
 
@@ -39,6 +53,10 @@ Cerca de 800 mulheres camponesas, organizadas pela Via Campesina, ocupam desde o
 
 <p><br />
 De acordo com os dados do Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra), levantados a partir da autodeclara&ccedil;&atilde;o dos propriet&aacute;rios de terras entre 2003 e 2010, houve um aumento da concentra&ccedil;&atilde;o da terra e da improdutividade nesse per&iacute;odo. Os dados apontam que mais de 100 milh&otilde;es de hectares passaram para o controle de latifundi&aacute;rios.</p>
+
+<figure class="image"><img alt="2015mulheresbsb2.jpg" src="http://farm9.staticflickr.com/8615/16141592904_94986c3ac1_b.jpg" />
+<figcaption>Foto: M&iacute;dia Ninja</figcaption>
+</figure>
 
 <p><br />
 Al&eacute;m disso, o Brasil &eacute; o maior consumidor de agrot&oacute;xicos do mundo desde 2009. Uma pesquisa recente da Universidade de Bras&iacute;lia concluiu que, na hip&oacute;tese mais otimista, 30% dos alimentos consumidos pelos brasileiros s&atilde;o impr&oacute;prios para o consumo somente por conta de contamina&ccedil;&atilde;o por agrot&oacute;xicos.</p>
@@ -54,3 +72,7 @@ A a&ccedil;&atilde;o faz parte da Jornada de Lutas das Mulheres Camponesas, que 
 
 <p><br />
 Al&eacute;m das organiza&ccedil;&otilde;es citadas, participam da jornada no DF o Movimento dos Atingidos por Barragens (MAB), o Levante Popular da Juventude e o Movimento dos Pequenos Agricultores (MPA).</p>
+
+<figure class="image"><img alt="2015mulheresbsb3.jpg" src="http://farm9.staticflickr.com/8654/16762731801_18121f071b_b.jpg" />
+<figcaption>Foto: M&iacute;dia Ninja</figcaption>
+</figure>
