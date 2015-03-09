@@ -10,6 +10,9 @@ neat/
 bourbon/
 .rvmrc
 tags.json
+npm-debug.log
 test.css
 temp.css
 index.php
+assets/css/.sanitized-sass/
+
