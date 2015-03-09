@@ -70,7 +70,7 @@ section: cover
 <em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Ao longo desta segunda-feira (9), o Brasil amanheceu com diversas mobiliza&ccedil;&otilde;es das mulheres camponesas. At&eacute; o momento, aconteceram a&ccedil;&otilde;es em ao menos 14 estados brasileiros, com marchas, ocupa&ccedil;&otilde;es e trancamento de rodovias.</p>
+Ao longo desta segunda-feira (9), o Brasil amanheceu com diversas mobiliza&ccedil;&otilde;es das mulheres camponesas. At&eacute; o momento, mais de 14.000 mulheres participaram das a&ccedil;&otilde;es em ao menos 14 estados brasileiros, com marchas, ocupa&ccedil;&otilde;es e trancamento de rodovias.</p>
 
 <p><br />
 As a&ccedil;&otilde;es fazem parte da Jornada Nacional de Lutas das Mulheres Camponesas, em que denunciam o modelo do agroneg&oacute;cio no campo brasileiro e prop&otilde;em a agroecologia como alternativa ao capital estrangeiro na agricultura.</p>
@@ -127,10 +127,8 @@ Em Aracaju (SE), cerca de 600 mulheres do MST, Movimento dos Trabalhadores Urban
 <p><br />
 O bal&atilde;o da BR 316, na cidade de Picos, no Piau&iacute;, se converteu numa grande escola, chamada &ldquo;escola do asfalto&rdquo;, organizada pelo Movimento dos Pequenos Agricultores (MPA) e o Levante Popular da Juventude. O objetivo foi denunciar o sucateamento das escolas no campo nos &uacute;ltimos anos, quando foram fechadas mais de 37 mil escolas na zona rural.</p>
 
-<p>&nbsp;
 <p><br />
 No Tocantins, mais de 250 mulheres trancaram a Rodovia Bel&eacute;m Bras&iacute;lia (BR 153), na cidade de Guara&iacute;.</p>
-</p>
 
 <p><br />
 Em Macei&oacute; (AL), as mulheres ocuparam desde a noite de domingo (8) a sede da superintend&ecirc;ncia do Minist&eacute;rio da Agricultura, Pecu&aacute;ria e Abastecimento. As camponesas denunciam o modelo devastador de produ&ccedil;&atilde;o da cana-de-a&ccedil;&uacute;car e a atual intensifica&ccedil;&atilde;o da planta&ccedil;&atilde;o de eucalipto no estado.</p>
