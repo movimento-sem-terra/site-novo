@@ -68,7 +68,13 @@ module.exports = function( grunt ) {
         cwd: 'assets/js',
         src: '*/*.js',
         dest: '_site/assets/js/'
-      }
+      },
+      img: {
+        expand: true,
+        cwd: 'assets/img',
+        src: '**/*',
+        dest: '_site/assets/img/'
+      },
     },
 
     clean: {
@@ -77,7 +83,7 @@ module.exports = function( grunt ) {
 
     watch : {
       sass: {
-        files: 'assets/css/*.scss',
+        files: ['assets/css/*.scss', '_sass/**/*.scss'],
         tasks: ['genetateStyles'],
       },
 
@@ -90,6 +96,14 @@ module.exports = function( grunt ) {
       js: {
         files: 'assets/js/*/*.js',
         tasks: ['copy:js'],
+        options: {
+          livereload: true
+        },
+      },
+
+      img: {
+        files: 'assets/img/**/*',
+        tasks: ['copy:img'],
         options: {
           livereload: true
         },
@@ -108,6 +122,13 @@ module.exports = function( grunt ) {
         tasks : [ 'build' ],
         options: {
           livereload: true
+        },
+      },
+
+      grunt: {
+        files : 'Gruntfile.js',
+        options: {
+          reload: true
         },
       }
 
