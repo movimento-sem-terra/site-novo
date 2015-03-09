@@ -7,7 +7,7 @@ tags:
 title: "Camponesas ocupam a multinacional Bunge, no entorno de Brasília"
 support_line: "A ocupação é para denunciar o modelo do agronegócio e capital estrangeiro na agricultura, que atenta à vida de milhares de mulheres."
 menu: lutas e mobilizações
-section: null
+section: featured-news
 layout: post
 files:
   - link: "http://farm8.staticflickr.com/7641/16143955403_5a791de560_b.jpg"
