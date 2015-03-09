@@ -38,13 +38,13 @@ releated_posts:
 <em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Na capital pernambucana, em Recife, mais de 600 mulheres do MST, da Pastoral da Juventude Rural (PJR), Comiss&atilde;o Pastoral da Terra (CPT), Levante Popular da Juventude e Marcha Mundial das Mulheres (MMM) ocuparam na manha desta segunda-feira (9) a sede do Minist&eacute;rio da Agricultura e a Secretaria de Agricultura do Estado.</p>
+Na capital pernambucana, em Recife, mais de 600 mulheres do MST, da Pastoral da Juventude Rural (PJR), Comiss&atilde;o Pastoral da Terra (CPT), Levante Popular da Juventude e Marcha Mundial das Mulheres (MMM) ocuparam, na manh&atilde; desta segunda-feira (9), a sede do Minist&eacute;rio da Agricultura e a Secretaria de Agricultura do Estado.</p>
 
 <p><br />
 A a&ccedil;&atilde;o faz parte de um conjunto de mobiliza&ccedil;&otilde;es da jornada de luta das mulheres camponesas, que contam com a presen&ccedil;a de diversas organiza&ccedil;&otilde;es e movimentos sociais de mulheres do campo e da cidade.</p>
 
 <p><br />
-Segundo as mulheres, o objetivo &eacute; denunciar a viol&ecirc;ncia contra a mulher tanto no campo quanto na cidade, e o agroneg&oacute;cio enquanto modelo de produ&ccedil;&atilde;o que acaba por centralizar a produ&ccedil;&atilde;o.</p>
+Segundo as mulheres, o objetivo &eacute; denunciar a viol&ecirc;ncia contra a mulher tanto no campo quanto na cidade, e o agroneg&oacute;cio enquanto modelo agr&iacute;cola que acaba por centralizar a produ&ccedil;&atilde;o.</p>
 
 <p><br />
 Al&eacute;m da denuncia, os movimentos sociais tamb&eacute;m procuram apresentar como alternativa &agrave; produ&ccedil;&atilde;o agr&iacute;cola do agroneg&oacute;cio o modelo da agroecologia.</p>
