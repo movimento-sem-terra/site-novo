@@ -38,9 +38,6 @@ releated_posts:
 <em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Este ano o Movimento dos Trabalhadores Rurais Sem Terra (MST) antecipa a jornada de luta em defesa da reforma agr&aacute;ria no pa&iacute;s.</p>
-
-<p><br />
 Nesta segunda-feira (9), mais de 6.000 Sem Terra do MST das dez regi&otilde;es da Bahia iniciaram a Marcha Estadual do MST.</p>
 
 <p><br />
