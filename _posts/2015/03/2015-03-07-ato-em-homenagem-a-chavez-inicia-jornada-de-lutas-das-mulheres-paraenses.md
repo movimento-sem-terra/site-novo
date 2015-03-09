@@ -28,16 +28,22 @@ releated_posts:
 <p><em>Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;<br />
-Representantes de diversos movimentos sociais, de partidos de esquerda e de consulados de diversos pa&iacute;ses participaram, em Bel&eacute;m do Par&aacute;, de um ato em solidariedade &agrave; Venezuela e em homenagem aos dois anos da morte do ex-presidente Hugo Ch&aacute;vez.</p>
+As Mulheres do MST participaram, no dia 05\03, com demais representantes de movimentos sociais, militantes de partidos de esquerda do ato p&uacute;blico em apoio &agrave; Venezuela, e do lan&ccedil;amento do v&iacute;deo &ldquo;Meu Amigo Hugo&rdquo; de Oliver Stone, que narra a vida do ex-presidente venezuelano Hugo Ch&aacute;vez, no Cine Olympia em Bel&eacute;m.</p>
 
 <p><br />
-A atividade aconteceu na &uacute;ltima quinta-feira (05), no cine Olympia, onde tamb&eacute;m foi feito lan&ccedil;ado o document&aacute;rio &ldquo;Meu Amigo Hugo&rdquo;. Durante as homenagens, as Sem Terra leram o manifesto das mulheres da Amaz&ocirc;nia Paraense em apoio a Revolu&ccedil;&atilde;o Bolivariana.</p>
+A participa&ccedil;&atilde;o deu in&iacute;cio &agrave; Jornada de Lutas das Mulheres do MST no Par&aacute;. Na ocasi&atilde;o foi lido o manifesto das Mulheres da Amaz&ocirc;nia Paraense em apoio &agrave; Revolu&ccedil;&atilde;o Bolivariana, reafirmando que as for&ccedil;as sociais de esquerda da Amaz&ocirc;nia se juntam &agrave; luta internacionalista e contra qualquer tentativa fascista na Venezuela. (link do manifesto)</p>
 
 <p><br />
-A a&ccedil;&atilde;o deu in&iacute;cio a Jornada de Lutas das Mulheres do Campo no Par&aacute;, que culmina com a caminhada no dia 8 de mar&ccedil;o pela cidade.<br />
-&nbsp;</p>
+Em Marab&aacute;, sudeste do estado, cerca de 300 mulheres do MST realizaram um encontro de forma&ccedil;&atilde;o de 06 a 08\03, sobre a realidade das mulheres camponesas nas regi&otilde;es sul e sudeste paraense.</p>
 
-<p style="text-align: center;"><strong>Manifesto das mulheres da Amaz&ocirc;nia paraense em apoio &agrave; Revolu&ccedil;&atilde;o Bolivariana.</strong></p>
+<p><br />
+A atividade incluiu tamb&eacute;m no s&aacute;bado (07\03) a realiza&ccedil;&atilde;o da feira agroecol&oacute;gica, em uma pra&ccedil;a no centro da cidade, com comercializa&ccedil;&atilde;o de produtos produzidos nos assentamentos e acampamentos da regi&atilde;o. No evento tamb&eacute;m foi realizado panfletagem sobre a &ldquo;Jornada Nacional de Lutas das Mulheres Pela Soberania Popular e Contra a Viol&ecirc;ncia e o Agroneg&oacute;cio&rdquo; e apresenta&ccedil;&otilde;es culturais.</p>
+
+<p><br />
+Neste domingo (08\03) na capital, as camponesas oriundas dos assentamentos pr&oacute;ximo de Bel&eacute;m, realizaram em conjunto com outras organiza&ccedil;&otilde;es feministas, uma caminhada pelas ruas contra a viol&ecirc;ncia, por direitos e pelo plebiscito popular. Para Katia Regina Veiga, da coordena&ccedil;&atilde;o regional do movimento, essas a&ccedil;&otilde;es s&atilde;o necess&aacute;rias para fortalecimento das lutas comuns. &ldquo;Precisamos unir cada vez mais nossas bandeiras do campo e da cidade, pois queremos reformas seja urbana, rural ou pol&iacute;tica&rdquo; afirma a trabalhadora.</p>
+
+<p style="text-align: center;"><br />
+<strong>Manifesto das mulheres da Amaz&ocirc;nia paraense em apoio &agrave; Revolu&ccedil;&atilde;o Bolivariana.</strong></p>
 
 <p><br />
 No momento em que o povo latino comemora dois anos de semeadura do Comandante Hugo Ch&aacute;vez, as mulheres da Amaz&ocirc;nia Paraense v&ecirc;m prestar solidariedade &agrave; luta encampada pelas mulheres e homens venezuelanos em favor da soberania nacional, povo este que decidiu n&atilde;o viver mais de joelhos frente &agrave; burguesia venezuelana e ao imperialismo norte-americano.</p>
