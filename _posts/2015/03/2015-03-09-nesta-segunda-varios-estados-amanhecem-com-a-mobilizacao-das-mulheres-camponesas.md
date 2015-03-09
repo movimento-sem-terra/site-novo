@@ -87,10 +87,11 @@ Em Luzi&acirc;nia, entorno de Bras&iacute;lia, cerca de 800 mulheres organizadas
 <p>Na Bahia, 6.000 pessoas iniciaram nesta segunda uma marcha rumo a capital Salvador. A marcha saiu de Feira de Santana e percorrer&aacute; 116 km. Outros 150 camponeses do Movimento dos Pequenos Agricultores (MPA) sa&iacute;ram em marcha at&eacute; a sede do Instituto Nacional do Seguro Social (INSS) na cidade da Vit&oacute;ria da Conquista.</p>
 
 <p><br />
-Na Para&iacute;ba, mais de 450 camponesas ocuparam o Engenho da Usina Giasa, no munic&iacute;pio de Pedra de Fogo. O Engenho, atualmente com registro sobre o nome BioSev, pertence a um Grupo Franc&ecirc;s cujo um dos donos &eacute; o ex-jogador de futebol, Zin&eacute;dine Zidane.</p>
+Cerca de 450 mulheres do MST ocuparam na manh&atilde; desta segunda-feira (9) o Engenho da Usina Giasa, no munic&iacute;pio de Pedra de Fogo, na Para&iacute;ba. No per&iacute;odo da tarde, enquanto os homens ajudavam a montar o acampamento no local, as Sem Terra se juntaram com mulheres de outras organiza&ccedil;&otilde;es e ocuparam a sede do Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra), em Jo&atilde;o Pessoa. Ao todo, mais de 650 camponesas participam da a&ccedil;&atilde;o.</p>
 
-<p><br />
-Em Goi&aacute;s, mais de 1.500 mulheres do MST, Movimento Campon&ecirc;s Popular (MCP) e da Federa&ccedil;&atilde;o dos Trabalhadores na Agricultura Familiar (Fetraf) ocuparam a Secretaria da Fazenda. Elas reivindicam a aprova&ccedil;&atilde;o da Lei de Fortalecimento da Agricultura Familiar e Camponesa, travada na Casa Civil do estado. A lei cria um fundo com 0,5% do or&ccedil;amento anual do governo estadual para pol&iacute;ticas p&uacute;blicas para a agricultura camponesa.</p>
+<p>&nbsp;</p>
+
+<p>Em Goi&aacute;s, mais de 1.500 mulheres do MST, Movimento Campon&ecirc;s Popular (MCP) e da Federa&ccedil;&atilde;o dos Trabalhadores na Agricultura Familiar (Fetraf) ocuparam a Secretaria da Fazenda. Elas reivindicam a aprova&ccedil;&atilde;o da Lei de Fortalecimento da Agricultura Familiar e Camponesa, travada na Casa Civil do estado. A lei cria um fundo com 0,5% do or&ccedil;amento anual do governo estadual para pol&iacute;ticas p&uacute;blicas para a agricultura camponesa.</p>
 
 <p><br />
 No Mato Grosso, depois de marcharem pelo munic&iacute;pio de C&aacute;ceres na manh&atilde; desta segunda-feira (9), cerca de 300 mulheres do MST ocuparam a Fazenda Rancho Verde no mesmo munic&iacute;pio, a 220 km de Cuiab&aacute;.</p>
