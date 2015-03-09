@@ -4,7 +4,7 @@ tags:
   - tag: brasília
   - tag: jornada-de-luta-das-mulheres-2015
   - tag: lutas-e-mobilizações
-title: "Camponesas ocupam a multinacional Bunge, no entorno de Brasília"
+title: "Camponesas ocupam sede da Bunge, no entorno de Brasília"
 support_line: "A ocupação é para denunciar o modelo do agronegócio e capital estrangeiro na agricultura, que atenta à vida de milhares de mulheres."
 menu: lutas e mobilizações
 section: featured-news
