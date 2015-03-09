@@ -83,7 +83,7 @@ module.exports = function( grunt ) {
 
     watch : {
       sass: {
-        files: 'assets/css/*.scss',
+        files: ['assets/css/*.scss', '_sass/**/*.scss'],
         tasks: ['genetateStyles'],
       },
 
