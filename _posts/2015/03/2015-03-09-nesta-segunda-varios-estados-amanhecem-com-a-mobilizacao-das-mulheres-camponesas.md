@@ -73,6 +73,9 @@ section: cover
 Ao longo desta segunda-feira (9), o Brasil amanheceu com diversas mobiliza&ccedil;&otilde;es das mulheres camponesas. At&eacute; o momento, mais de 15.000 mulheres participaram das a&ccedil;&otilde;es em ao menos 15 estados brasileiros, com marchas, ocupa&ccedil;&otilde;es e trancamento de rodovias.</p>
 
 <p><br />
+As mobiliza&ccedil;&otilde;es aconteceram em SP, BA, Bsb, PB, GO, AL, SE, MT, TO, RN, CE, ES, PE, PI, PA. Nesta ter&ccedil;a-feira, cerca de 800 mulheres Sem Terra tamb&eacute;m sair&atilde;o &agrave;s ruas em Taquari, munic&iacute;pio central do Rio Grande do Sul.</p>
+
+<p><br />
 As a&ccedil;&otilde;es fazem parte da Jornada Nacional de Lutas das Mulheres Camponesas, em que denunciam o modelo do agroneg&oacute;cio no campo brasileiro e prop&otilde;em a agroecologia como alternativa ao capital estrangeiro na agricultura.</p>
 
 <p><br />
