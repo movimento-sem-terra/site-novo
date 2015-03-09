@@ -38,6 +38,18 @@ files:
     small: "http://farm8.staticflickr.com/7633/16146273083_b43f796e3d_n.jpg"
     title: 2015mulheresES.jpg
     $$hashKey: 0Z3
+  - link: "http://farm9.staticflickr.com/8633/16146836733_d26aeaae2c_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8633/16146836733_d26aeaae2c_t.jpg"
+    medium: "http://farm9.staticflickr.com/8633/16146836733_d26aeaae2c_z.jpg"
+    small: "http://farm9.staticflickr.com/8633/16146836733_d26aeaae2c_n.jpg"
+    title: 2015mulheresBA2.jpg
+    $$hashKey: 0JX
+  - link: "http://farm8.staticflickr.com/7654/16579247378_af26bfe163_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7654/16579247378_af26bfe163_t.jpg"
+    medium: "http://farm8.staticflickr.com/7654/16579247378_af26bfe163_z.jpg"
+    small: "http://farm8.staticflickr.com/7654/16579247378_af26bfe163_n.jpg"
+    title: 2015mulheresSE.jpg
+    $$hashKey: 0K0
 created_date: "2015-03-09T09:49:28-03:00"
 published: true
 images_hd: "http://farm8.staticflickr.com/7615/16556884717_69090ea5f7_n.jpg"
@@ -52,59 +64,67 @@ releated_posts:
 section: cover
 
 ---
-<p><img alt="2015mulheresbsb.jpg" src="http://farm8.staticflickr.com/7615/16556884717_69090ea5f7_b.jpg" /><br />
-<br />
+<p><img alt="2015mulheresbsb.jpg" src="http://farm8.staticflickr.com/7615/16556884717_69090ea5f7_b.jpg" /></p>
+
+<p><br />
 <em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Nesta segunda-feira (9), v&aacute;rios estados amanheceram com a mobiliza&ccedil;&atilde;o das mulheres camponesas.</p>
+Ao longo desta segunda-feira (9), o Brasil amanheceu com diversas mobiliza&ccedil;&otilde;es das mulheres camponesas. At&eacute; o momento, aconteceram a&ccedil;&otilde;es em ao menos 13 estados brasileiros, com marchas, ocupa&ccedil;&otilde;es e trancamento de rodovias.</p>
 
 <p><br />
 As a&ccedil;&otilde;es fazem parte da Jornada Nacional de Lutas das Mulheres Camponesas, em que denunciam o modelo do agroneg&oacute;cio no campo brasileiro e prop&otilde;em a agroecologia como alternativa ao capital estrangeiro na agricultura.</p>
 
 <p><br />
-Cerca de 800 mulheres camponesas, organizadas pela Via Campesina, ocupam a multinacional Bunge, em Luzi&acirc;nia (BR 040- entorno de Bras&iacute;lia). Segundo as mulheres, a Bunge &eacute; uma destas empresas transnacionais que representa o capital estrangeiro na agricultura.</p>
+Em Luzi&acirc;nia, entorno de Bras&iacute;lia, cerca de 800 mulheres organizadas pela Via Campesina ocuparam a multinacional Bunge. Segundo as mulheres, a Bunge &eacute; uma das empresas transnacionais que representa o capital estrangeiro na agricultura.</p>
 
 <p>&nbsp;</p>
 
-<figure class="image" style="float:right"><img alt="2015mulheresPB.jpg" src="http://farm8.staticflickr.com/7591/16764166625_c4e2ae8f3b_b.jpg" />
-<figcaption>Na Para&iacute;ba, 450 camponesas ocuparam a Usina Giasa, no litoral.</figcaption>
+<figure class="image" style="float:right"><img alt="2015mulheresBA2.jpg" src="http://farm9.staticflickr.com/8633/16146836733_d26aeaae2c_b.jpg" />
+<figcaption>Seis mil Sem Terra marcham at&eacute; a capital Salvador (BA).</figcaption>
 </figure>
 
-<p>Na Para&iacute;ba, mais de 450 mulheres camponesas ocupam o Engenho da Usina Giasa, no munic&iacute;pio de Pedra de Fogo.</p>
+<p>Na Bahia, 6.000 pessoas iniciaram nesta segunda uma marcha rumo a capital Salvador. A marcha saiu de Feira de Santana e percorrer&aacute; 116 km. Outros 150 camponeses do Movimento dos Pequenos Agricultores (MPA) sa&iacute;ram em marcha at&eacute; a sede do Instituto Nacional do Seguro Social (INSS) na cidade da Vit&oacute;ria da Conquista.</p>
 
 <p><br />
-O Engenho, atualmente com registro sobre o nome BioSev, pertence a um Grupo Franc&ecirc;s cujo um dos donos &eacute; o ex-jogador de futebol franc&ecirc;s, Zin&eacute;dine Zidane.</p>
+Na Para&iacute;ba, mais de 450 camponesas ocuparam o Engenho da Usina Giasa, no munic&iacute;pio de Pedra de Fogo. O Engenho, atualmente com registro sobre o nome BioSev, pertence a um Grupo Franc&ecirc;s cujo um dos donos &eacute; o ex-jogador de futebol, Zin&eacute;dine Zidane.</p>
 
 <p><br />
-Na Bahia, 6.000 pessoas iniciaram nesta segunda uma marcha rumo a capital Salvador. A marcha saiu de Feira de Santana, e percorrer&aacute; 116 km.</p>
+Em Goi&aacute;s, mais de 1.500 mulheres do MST, Movimento Campon&ecirc;s Popular (MCP) e da Federa&ccedil;&atilde;o dos Trabalhadores na Agricultura Familiar (Fetraf) ocuparam a Secretaria da Fazenda. Elas reivindicam a aprova&ccedil;&atilde;o da Lei de Fortalecimento da Agricultura Familiar e Camponesa, travada na Casa Civil do estado. A lei cria um fundo com 0,5% do or&ccedil;amento anual do governo estadual para pol&iacute;ticas p&uacute;blicas para a agricultura camponesa.</p>
 
 <p><br />
-No Goi&aacute;s, mais de 1500 mulheres do MST, Movimento Movimento Campon&ecirc;s Popular (MCP) e da Federa&ccedil;&atilde;o dos trabalhadores na Agricultura Familiar (Fetraf) ocupam a Secretaria da Fazenda. Elas reivindicam a aprova&ccedil;&atilde;o da Lei de Fortalecimento da Agricultura Familiar e Camponesa, travada na Casa Civil do GO. A lei cria um fundo com 0,5% do or&ccedil;amento anual do Governo do estado para pol&iacute;ticas p&uacute;blicas estaduais para a agricultura camponesa.</p>
+No Mato Grosso, depois de marcharem pelo munic&iacute;pio de C&aacute;ceres na manh&atilde; desta segunda-feira (9), cerca de 300 mulheres do MST ocuparam a Fazenda Rancho Verde no mesmo munic&iacute;pio, a 220 km de Cuiab&aacute;.</p>
 
 <p>&nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="2015mulheresMT.jpg" src="http://farm8.staticflickr.com/7620/16576764290_23b18f48c9_b.jpg" />
-<figcaption>No Mato Grosso, cerca de 300 marcham pelo munic&iacute;pio de C&aacute;ceres.</figcaption>
+<figcaption>No MT, ap&oacute;s marcharem pela cidade de C&aacute;ceres, 300 mulheres ocuparam um latif&uacute;ndio.</figcaption>
 </figure>
 
-<p>No Mato Grosso, depois de marcharem pelo munic&iacute;pio de C&aacute;ceres na manh&atilde; desta segunda-feira (9), cerca de 300 mulheres do MST ocuparam a Fazenda Rancho Verde no mesmo munic&iacute;pio, a 220 km de Cuiab&aacute;.</p>
+<p>No Rio Grande do Norte, as mulheres Sem Terra trancaram cinco rodovias, na regi&atilde;o de Jo&atilde;o C&acirc;mara. Cada travamento contou com cerca de 200 camponesas. Na ter&ccedil;a-feira (10), elas se somar&atilde;o a outros integrantes do Movimento e seguir&atilde;o para sede do Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra) para discutir pautas relacionadas aos assentamentos da regi&atilde;o, como a constru&ccedil;&atilde;o de escolas e postos de sa&uacute;de.&nbsp;&nbsp;</p>
 
 <p><br />
-Em Quixeramobim, no Cear&aacute;, as mulheres do MST e da Fetraece realizam marcha pelas ruas do munic&iacute;pio contra o agroneg&oacute;cio e a viol&ecirc;ncia contra as mulheres.</p>
+Em Quixeramobim, no Cear&aacute;, cerca de 300 mulheres do MST e da Federa&ccedil;&atilde;o dos Trabalhadores na Agricultura do Estado do Cear&aacute; (Fetraece) realizaram uma marcha pelas ruas do munic&iacute;pio contra o agroneg&oacute;cio e a viol&ecirc;ncia contra as mulheres. Na sequ&ecirc;ncia, as camponesas ocuparam a Assembleia Legislativa, onde homenagearam as diversas lutadoras, em especial, Maria Lima, uma das fundadoras do Movimento no estado. No per&iacute;odo da tarde, elas se reunir&atilde;o para um curso de forma&ccedil;&atilde;o destinado somente &agrave;s mulheres.</p>
+
+<p>&nbsp;</p>
+
+<figure class="image"><img alt="2015mulheresES.jpg" src="http://farm8.staticflickr.com/7633/16146273083_b43f796e3d_b.jpg" />
+<figcaption>No Esp&iacute;rito Santo, centenas de mulheres de diversas organiza&ccedil;&otilde;es do campo trancaram a rodovia ES 25</figcaption>
+</figure>
+
+<p>No Esp&iacute;rito Santo, cerca de 1.000 mulheres de diversas organiza&ccedil;&otilde;es do campo realizaram uma marcha pela cidade de Colatina. Durante a a&ccedil;&atilde;o as camponesas bloquearam a rodovia ES 259, em dire&ccedil;&atilde;o &agrave; capital. Outras 100 fam&iacute;lias ocuparam a Fazenda Nossa Senhora da Concei&ccedil;&atilde;o, pr&oacute;ximo a Linhares.</p>
 
 <p><br />
-No Tocantins, mais de 250 mulheres trancam a Rodovia Bel&eacute;m Bras&iacute;lia (BR 153), na cidade de Guara&iacute;.</p>
+Na capital pernambucana, em Recife, mais de 600 mulheres do MST, da Pastoral da Juventude Rural (PJR), Comiss&atilde;o Pastoral da Terra (CPT), Levante Popular da Juventude e Marcha Mundial das Mulheres (MMM) ocuparam a sede do Minist&eacute;rio da Agricultura e a Secretaria de Agricultura do Estado.</p>
 
 <p><br />
-No Esp&iacute;rito Santo, centenas de mulheres de diversas organiza&ccedil;&otilde;es do campo realizam uma marcha pela cidade de Colatina. Outras 100 fam&iacute;lias ocuparam a Fazenda Nossa Senhora da Concei&ccedil;&atilde;o, pr&oacute;ximo a Linhares.</p>
-
-<p><img alt="2015mulheresES.jpg" src="http://farm8.staticflickr.com/7633/16146273083_b43f796e3d_b.jpg" /><br />
-<br />
-Na capital pernambucana, em Recife, mais de 600 mulheres do MST, da Pastoral da Juventude Rural (PJR), Comiss&atilde;o Pastoral da Terra (CPT), Levante Popular da Juventude e Marcha Mundial das Mulheres (MMM) ocuparam na manha desta segunda-feira (9) a sede do Minist&eacute;rio da Agricultura e a Secretaria de Agricultura do Estado.</p>
+O bal&atilde;o da BR 316, na cidade de Picos, no Piau&iacute;, se converteu numa grande escola, chamada &ldquo;escola do asfalto&rdquo;, organizada pelo Movimento dos Pequenos Agricultores (MPA) e o Levante Popular da Juventude. O objetivo foi denunciar o sucateamento das escolas no campo nos &uacute;ltimos anos, quando foram fechadas mais de 37 mil escolas na zona rural.</p>
 
 <p><br />
-Em Macei&oacute; (AL), as mulheres ocupam desde a noite deste domingo (8) a sede da superintend&ecirc;ncia do Minist&eacute;rio da Agricultura, Pecu&aacute;ria e Abastecimento. As camponesas denunciam o modelo devastador de produ&ccedil;&atilde;o da cana-de-a&ccedil;&uacute;car e a atual intensifica&ccedil;&atilde;o da planta&ccedil;&atilde;o de eucalipto no estado.</p>
+No Tocantins, mais de 250 mulheres trancaram a Rodovia Bel&eacute;m Bras&iacute;lia (BR 153), na cidade de Guara&iacute;.</p>
+
+<p><br />
+Em Macei&oacute; (AL), as mulheres ocuparam desde a noite de domingo (8) a sede da superintend&ecirc;ncia do Minist&eacute;rio da Agricultura, Pecu&aacute;ria e Abastecimento. As camponesas denunciam o modelo devastador de produ&ccedil;&atilde;o da cana-de-a&ccedil;&uacute;car e a atual intensifica&ccedil;&atilde;o da planta&ccedil;&atilde;o de eucalipto no estado.</p>
 
 <p><br />
 Na quinta-feira (5) passada, cerca de 1.000 mulheres do MST ocuparam a sede da empresa Suzano/Futura Gene, em Itapetininga (SP), com o objetivo de barrar a vota&ccedil;&atilde;o que liberaria o cultivo de eucalipto transg&ecirc;nico no Brasil. Paralelamente, outras 300 camponeses ocuparam a pr&oacute;pria Comiss&atilde;o T&eacute;cnica Nacional de Biosseguran&ccedil;a (CTNBio), onde estava tendo a reuni&atilde;o que liberaria o eucalipto.</p>
