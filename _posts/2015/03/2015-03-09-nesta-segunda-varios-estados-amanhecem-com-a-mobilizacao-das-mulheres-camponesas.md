@@ -64,7 +64,10 @@ Cerca de 800 mulheres camponesas, organizadas pela Via Campesina, ocupam a multi
 <figcaption>Na Para&iacute;ba, 450 camponesas ocuparam a Usina Giasa, no litoral.</figcaption>
 </figure>
 
-<p>Na Para&iacute;ba, mais de 450 mulheres camponesas ocupam a Usina Giasa, no litoral.</p>
+<p>Na Para&iacute;ba, mais de 450 mulheres camponesas ocupam o Engenho da Usina Giasa, no munic&iacute;pio de Pedra de Fogo.</p>
+
+<p><br />
+O Engenho, atualmente com registro sobre o nome BioSev, pertence a um Grupo Franc&ecirc;s cujo um dos donos &eacute; o ex-jogador de futebol franc&ecirc;s, Zin&eacute;dine Zidane.</p>
 
 <p><br />
 No Goi&aacute;s, mais de 1500 mulheres do MST, Movimento Movimento Campon&ecirc;s Popular (MCP) e da Federa&ccedil;&atilde;o dos trabalhadores na Agricultura Familiar (Fetraf) ocupam a Secretaria da Fazenda. Elas reivindicam a aprova&ccedil;&atilde;o da Lei de Fortalecimento da Agricultura Familiar e Camponesa, travada na Casa Civil do GO.</p>
@@ -81,7 +84,7 @@ A lei cria um fundo com 0,5% do or&ccedil;amento anual do Governo do estado para
 <p>No Mato Grosso, cerca de 300 mulheres de diversos assentamentos e acampamentos do MST no estado marcham pela cidade de C&aacute;ceres. Desde s&aacute;bado (7), as camponesas est&atilde;o reunidas no munic&iacute;pio, onde tamb&eacute;m realizam estudos. O munic&iacute;pio de C&aacute;ceres foi escolhido por causa da expans&atilde;o do agroneg&oacute;cio e da minera&ccedil;&atilde;o, al&eacute;m de in&uacute;meros projetos previstos para a regi&atilde;o da bacia do Alto Paraguai, uma das principais formadoras do pantanal.</p>
 
 <p><br />
-No Tocantins, mais de 200 mulheres trancam a BR 153.</p>
+No Tocantins, mais de 250 mulheres trancam a Rodovia Bel&eacute;m Bras&iacute;lia (BR 153), na cidade de Guara&iacute;.</p>
 
 <p><br />
 Em Macei&oacute; (AL), as mulheres ocupam desde a noite deste domingo (8) a sede da superintend&ecirc;ncia do Minist&eacute;rio da Agricultura, Pecu&aacute;ria e Abastecimento. As camponesas denunciam o modelo devastador de produ&ccedil;&atilde;o da cana-de-a&ccedil;&uacute;car e a atual intensifica&ccedil;&atilde;o da planta&ccedil;&atilde;o de eucalipto no estado.</p>
