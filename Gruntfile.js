@@ -123,6 +123,13 @@ module.exports = function( grunt ) {
         options: {
           livereload: true
         },
+      },
+
+      grunt: {
+        files : 'Gruntfile.js',
+        options: {
+          reload: true
+        },
       }
 
     },
