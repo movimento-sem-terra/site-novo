@@ -91,7 +91,7 @@ Cerca de 450 mulheres do MST ocuparam na manh&atilde; desta segunda-feira (9) o 
 
 <p>&nbsp;</p>
 
-<p>Em Goi&aacute;s, mais de 1.500 mulheres do MST, Movimento Campon&ecirc;s Popular (MCP) e da Federa&ccedil;&atilde;o dos Trabalhadores na Agricultura Familiar (Fetraf) ocuparam a Secretaria da Fazenda. Elas reivindicam a aprova&ccedil;&atilde;o da Lei de Fortalecimento da Agricultura Familiar e Camponesa, travada na Casa Civil do estado. A lei cria um fundo com 0,5% do or&ccedil;amento anual do governo estadual para pol&iacute;ticas p&uacute;blicas para a agricultura camponesa.</p>
+<p>Em Goi&aacute;s, mais de 1.500 mulheres do MST, Movimento Campon&ecirc;s Popular (MCP) e da Federa&ccedil;&atilde;o dos Trabalhadores na Agricultura Familiar (Fetraf) ocuparam a Secretaria da Fazenda. No per&iacute;odo da tarde, as camponesas ocupam a sede da Companhia Nacional de Abastecimento (Conab), na capital. Elas reivindicam a aprova&ccedil;&atilde;o da Lei de Fortalecimento da Agricultura Familiar e Camponesa, travada na Casa Civil do estado. A lei cria um fundo com 0,5% do or&ccedil;amento anual do governo estadual para pol&iacute;ticas p&uacute;blicas para a agricultura camponesa.</p>
 
 <p><br />
 No Mato Grosso, depois de marcharem pelo munic&iacute;pio de C&aacute;ceres na manh&atilde; desta segunda-feira (9), cerca de 300 mulheres do MST ocuparam a Fazenda Rancho Verde no mesmo munic&iacute;pio, a 220 km de Cuiab&aacute;.</p>
