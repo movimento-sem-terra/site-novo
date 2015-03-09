@@ -4,7 +4,7 @@ tags:
   - tag: jornada-de-luta-das-mulheres-2015
   - tag: alagoas
   - tag: lutas-e-mobilizações
-title: Mulheres Sem Terra ocupam a superintendência do Ministério da Agricultura em Alagoas
+title: Sem Terra ocupam a superintendência do Ministério da Agricultura em Alagoas
 support_line: A ação compõe a Jornada Nacional de Lutas das Mulheres Camponesas de 2015.
 menu: lutas e mobilizações
 layout: post
