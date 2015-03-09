@@ -70,7 +70,7 @@ section: cover
 <em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Ao longo desta segunda-feira (9), o Brasil amanheceu com diversas mobiliza&ccedil;&otilde;es das mulheres camponesas. At&eacute; o momento, mais de 14.000 mulheres participaram das a&ccedil;&otilde;es em ao menos 14 estados brasileiros, com marchas, ocupa&ccedil;&otilde;es e trancamento de rodovias.</p>
+Ao longo desta segunda-feira (9), o Brasil amanheceu com diversas mobiliza&ccedil;&otilde;es das mulheres camponesas. At&eacute; o momento, mais de 15.000 mulheres participaram das a&ccedil;&otilde;es em ao menos 15 estados brasileiros, com marchas, ocupa&ccedil;&otilde;es e trancamento de rodovias.</p>
 
 <p><br />
 As a&ccedil;&otilde;es fazem parte da Jornada Nacional de Lutas das Mulheres Camponesas, em que denunciam o modelo do agroneg&oacute;cio no campo brasileiro e prop&otilde;em a agroecologia como alternativa ao capital estrangeiro na agricultura.</p>
@@ -133,6 +133,12 @@ No Tocantins, mais de 250 mulheres trancaram a Rodovia Bel&eacute;m Bras&iacute;
 
 <p><br />
 Em Macei&oacute; (AL), as mulheres ocuparam desde a noite de domingo (8) a sede da superintend&ecirc;ncia do Minist&eacute;rio da Agricultura, Pecu&aacute;ria e Abastecimento. As camponesas denunciam o modelo devastador de produ&ccedil;&atilde;o da cana-de-a&ccedil;&uacute;car e a atual intensifica&ccedil;&atilde;o da planta&ccedil;&atilde;o de eucalipto no estado.</p>
+
+<p><br />
+Na Par&aacute;, as Mulheres do MST realizam atividades desde o dia 5 de mar&ccedil;o. Na ocasi&atilde;o, as Sem Terra, junto a outros representantes de movimentos sociais, militantes de partidos de esquerda realizaram um ato p&uacute;blico em apoio &agrave; Venezuela e o lan&ccedil;amento do v&iacute;deo &ldquo;Meu Amigo Hugo&rdquo;, do diretor de Oliver Stone, que narra a vida do ex-presidente venezuelano Hugo Ch&aacute;vez, no Cine Olympia, em Bel&eacute;m.</p>
+
+<p><br />
+Em Marab&aacute;, sudeste do estado, cerca de 300 mulheres do MST realizaram um encontro de forma&ccedil;&atilde;o entre os dias 6 a 8 de mar&ccedil;o, sobre a realidade das mulheres camponesas nas regi&otilde;es sul e sudeste paraense. No s&aacute;bado foi realizada a feira agroecol&oacute;gica numa pra&ccedil;a no centro da cidade, com comercializa&ccedil;&atilde;o de produtos produzidos nos assentamentos e acampamentos da regi&atilde;o. Neste domingo (8), na capital, as camponesas realizaram junto com outras organiza&ccedil;&otilde;es feministas, uma caminhada pelas ruas contra a viol&ecirc;ncia, por direitos e pelo plebiscito popular.</p>
 
 <p><br />
 Na quinta-feira (5) passada, cerca de 1.000 mulheres do MST ocuparam a sede da empresa Suzano/Futura Gene, em Itapetininga (SP), com o objetivo de barrar a vota&ccedil;&atilde;o que liberaria o cultivo de eucalipto transg&ecirc;nico no Brasil. Paralelamente, outras 300 camponeses ocuparam a pr&oacute;pria Comiss&atilde;o T&eacute;cnica Nacional de Biosseguran&ccedil;a (CTNBio), onde estava tendo a reuni&atilde;o que liberaria o eucalipto.</p>
