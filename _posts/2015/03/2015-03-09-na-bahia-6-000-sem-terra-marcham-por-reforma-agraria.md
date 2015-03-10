@@ -5,7 +5,7 @@ tags:
   - tag: lutas-e-mobilizações
   - tag: bahia
 menu: lutas e mobilizações
-title: "Na Bahia, 6.000 Sem Terra marcham por Reforma Agrária"
+title: "Na Bahia, 6 mil Sem Terra marcham por Reforma Agrária"
 support_line: "A marcha saiu da cidade de Feira de Santana, e percorrerá 116 km até a capital Salvador."
 layout: post
 files:
