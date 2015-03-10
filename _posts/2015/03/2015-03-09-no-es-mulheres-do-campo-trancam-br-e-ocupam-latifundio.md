@@ -5,7 +5,7 @@ tags:
   - tag: lutas-e-mobilizações
   - tag: espírito-santo
 title: "No ES, mulheres do campo trancam BR e ocupam latifúndio"
-support_line: "Cerca de 200 mulheres marcham pelas ruas da  cidade Colatina e outras 300 ocupam a fazenda Nossa Senhora da Conceição, em Linhares."
+support_line: "Cerca de 1000 mulheres marcham pelas ruas da  cidade Colatina e outras 300 ocupam a fazenda Nossa Senhora da Conceição, em Linhares."
 menu: lutas e mobilizações
 layout: post
 files:
