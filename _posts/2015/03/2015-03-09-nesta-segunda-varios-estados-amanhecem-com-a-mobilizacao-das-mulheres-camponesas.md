@@ -123,6 +123,9 @@ No final da manh&atilde;, as mesmas mulheres ocuparam a sede do Instituto Nacion
 <p>Cerca de 2 mil trabalhadores e trabalhadoras rurais Sem Terra ocupam na manh&atilde; desta ter&ccedil;a-feira (10) ag&ecirc;ncias do Banco do Brasil e do Banco do Nordeste, na capital Macei&oacute; e no Sert&atilde;o, nos munic&iacute;pios de Delmiro Gouveia e Piranhas, em Alagoas.</p>
 
 <p><br />
+Outros mil trabalhadores rurais Sem Terra do Alto Sert&atilde;o de Alagoas ocuparam na tarde desta ter&ccedil;a parte do canteiro de obras do Canal do Sert&atilde;o, nas proximidades do munic&iacute;pio de Inhapi. Os camponeses exigem que a &aacute;gua do canal chegue aos trabalhadores Sem Terra e pequenos agricultores para a irriga&ccedil;&atilde;o de suas &aacute;reas e para toda a popula&ccedil;&atilde;o das cidades para o consumo, garantindo que a &aacute;gua do Canal n&atilde;o sirva aos interesses dos latifundi&aacute;rios e de empresas privadas.</p>
+
+<p><br />
 Na noite de domingo (8), em Macei&oacute;, as mulheres ocuparam a sede da superintend&ecirc;ncia do Minist&eacute;rio da Agricultura, Pecu&aacute;ria e Abastecimento. As camponesas denunciaram o modelo devastador de produ&ccedil;&atilde;o da cana-de-a&ccedil;&uacute;car e a atual intensifica&ccedil;&atilde;o da planta&ccedil;&atilde;o de eucalipto no estado.</p>
 
 <p><br />
@@ -151,10 +154,9 @@ Na segunda, na capital pernambucana, em Recife, mais de 600 mulheres do MST, da 
 
 <p>&nbsp;</p>
 
-<p><br />
-<strong>Bsb</strong></p>
+<p><strong>Bsb</strong></p>
 
-<p>No Distrito Federal, nesta ter&ccedil;a-feira, cerca de 500 mulheres fizeram ato no Minist&eacute;rio da Agricultura em den&uacute;ncia ao agroneg&oacute;cio, que atenta contra a vida de milhares de mulheres em todo o pa&iacute;s. Nesta segunda, em Luzi&acirc;nia, entorno de Bras&iacute;lia, cerca de 800 mulheres organizadas pela Via Campesina ocuparam a multinacional Bunge. Segundo as mulheres, a Bunge &eacute; uma das empresas transnacionais que representa o capital estrangeiro na agricultura.</p>
+<p>No Distrito Federal, nesta ter&ccedil;a-feira, cerca de 500 mulheres fizeram ato no Minist&eacute;rio da Agricultura em den&uacute;ncia ao agroneg&oacute;cio. Na sequ&ecirc;ncia, protestam em frente ao Minist&eacute;rio da Previd&ecirc;ncia Social. As mulheres lutam por uma previd&ecirc;ncia social p&uacute;blica, universal e solid&aacute;ria. Por isso, reivindicam o arquivamento da Medida Provis&oacute;ria 664 e 665. Nesta segunda, em Luzi&acirc;nia, entorno de Bras&iacute;lia, cerca de 800 mulheres organizadas pela Via Campesina ocuparam a multinacional Bunge. Segundo as mulheres, a Bunge &eacute; uma das empresas transnacionais que representa o capital estrangeiro na agricultura.</p>
 
 <p><br />
 <strong>MA</strong></p>
@@ -201,9 +203,13 @@ Na segunda, cerca de 420 mulheres do MST e militantes do Levante Popular da Juve
 
 <p><strong>RN</strong></p>
 
-<p>No Rio Grande do Norte, as mulheres Sem Terra trancaram cinco rodovias, na regi&atilde;o de Jo&atilde;o C&acirc;mara. Cada travamento contou com cerca de 200 camponesas. Na ter&ccedil;a-feira (10), elas se somar&atilde;o a outros integrantes do Movimento e seguir&atilde;o para sede do Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra) para discutir pautas relacionadas aos assentamentos da regi&atilde;o, como a constru&ccedil;&atilde;o de escolas e postos de sa&uacute;de.&nbsp;&nbsp;</p>
+<p>As mulheres Sem Terra do Rio Grande do Norte ocuparam na manh&atilde; desta ter&ccedil;a o Incra, em Natal.</p>
 
-<p>&nbsp;</p>
+<p><br />
+Elas reivindicam maior agilidade com rela&ccedil;&atilde;o &agrave;s fam&iacute;lias acampadas. Muitas j&aacute; est&atilde;o acampadas&nbsp; h&aacute; dez anos. Exigem ainda infraestrutura, assist&ecirc;ncia t&eacute;cnica e capacita&ccedil;&atilde;o t&eacute;cnica para as fam&iacute;lias assentadas.</p>
+
+<p><br />
+Na segunda, as mulheres Sem Terra trancaram cinco rodovias, na regi&atilde;o de Jo&atilde;o C&acirc;mara. Cada travamento contou com cerca de 200 camponesas.</p>
 
 <figure class="image"><img alt="2015mulheresES.jpg" src="http://farm8.staticflickr.com/7633/16146273083_b43f796e3d_b.jpg" />
 <figcaption>No Esp&iacute;rito Santo, centenas de mulheres de diversas organiza&ccedil;&otilde;es do campo trancaram a rodovia ES 25</figcaption>
