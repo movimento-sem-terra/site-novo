@@ -57,21 +57,20 @@ As a&ccedil;&otilde;es d&atilde;o continuidade &agrave;s mobiliza&ccedil;&otilde
 <p><br />
 Nas ag&ecirc;ncias do Banco do Brasil, os Sem Terra denunciam a morosidade e a burocracia para a constru&ccedil;&atilde;o das casas dos assentamentos atrav&eacute;s do PNHR. Em Alagoas, fam&iacute;lias assentadas h&aacute; mais de seis anos ainda est&atilde;o sem suas casas constru&iacute;das. No Banco do Brasil, os processos est&atilde;o parados por quase um ano na burocracia e lentid&atilde;o para o in&iacute;cio das obras.</p>
 
-<p>&nbsp;</p>
-
 <p><br />
 &ldquo;&Eacute; mais um dia de luta na garantia dos nossos direitos. O povo Sem Terra quer conquistar efetivamente seu direito &agrave; moradia e &eacute; por isso que ocupamos mais uma vez essa ag&ecirc;ncia para pressionar o &oacute;rg&atilde;o a dar continuidade aos processos burocr&aacute;ticos para que nosso povo possa come&ccedil;ar o quanto antes a constru&ccedil;&atilde;o de suas casas&rdquo;, disse Jos&eacute; Roberto, da dire&ccedil;&atilde;o nacional do MST.</p>
 
-<p>&nbsp;</p>
+<p><br />
+J&aacute; no Banco do Nordeste os trabalhadores pautaram as dificuldades e os limites dos cr&eacute;ditos rurais, como o caso do Pronaf, em especial aos camponeses que vivem na regi&atilde;o do semi&aacute;rido.</p>
 
 <p><br />
-J&aacute; no Banco do Nordeste os trabalhadores pautaram as dificuldades e os limites dos cr&eacute;ditos rurais, como o caso do Pronaf, em especial aos camponeses que vivem na regi&atilde;o do semi&aacute;rido.<br />
 Segundo D&eacute;bora Nunes, da coordena&ccedil;&atilde;o nacional do MST, esta &eacute; uma pauta conjunta do movimento da regi&atilde;o nordeste.</p>
 
 <p><br />
 &ldquo;Queremos uma reuni&atilde;o com a representa&ccedil;&atilde;o de todos os estados do nordeste com a presid&ecirc;ncia do Banco do Nordeste para que possamos debater as quest&otilde;es que dificultam a vida do nosso povo no campo e que tem uma rela&ccedil;&atilde;o muito grande com as dificuldades colocadas pelo banco&rdquo;, destacou.</p>
 
 <p><img alt="jornada unitaria20152.jpg" src="http://farm9.staticflickr.com/8622/16775171895_dc512439d5_b.jpg" /><br />
+<br />
 Ainda na manh&atilde; desta ter&ccedil;a (10), trabalhadores e trabalhadoras rurais organizados no Movimento pela Liberta&ccedil;&atilde;o dos Sem Terra (MLST) realizam um bloqueio em 4 trechos de rodovias em Alagoas. Desde &agrave;s 7h est&atilde;o bloqueadas as rodovias nos munic&iacute;pios de Murici, Atalaia, Joaquim Gomes e Porto Calvo.</p>
 
 <p><br />
