@@ -88,10 +88,10 @@ section: cover
 <em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Ao longo desta semana, o Brasil amanheceu com diversas mobiliza&ccedil;&otilde;es das mulheres camponesas. At&eacute; o momento, mais de 20.000 mulheres participaram das a&ccedil;&otilde;es em 18 estados brasileiros, com marchas, ocupa&ccedil;&otilde;es e trancamento de rodovias.</p>
+Ao longo desta semana, o Brasil amanheceu com diversas mobiliza&ccedil;&otilde;es das mulheres camponesas. At&eacute; o momento, mais de 20.000 mulheres participaram das a&ccedil;&otilde;es em 19&nbsp;estados brasileiros, com marchas, ocupa&ccedil;&otilde;es e trancamento de rodovias.</p>
 
 <p><br />
-As mobiliza&ccedil;&otilde;es aconteceram em RS, MA, PR, SP, BA, Bsb, PB, GO, AL, SE, MT, TO, RN, CE, ES, PE, PI, PA. Alguns estados, como RJ, SC e MG realizam a&ccedil;&otilde;es ao longo desta semana.</p>
+As mobiliza&ccedil;&otilde;es aconteceram em RS, MA, PR, SP, BA, Bsb, PB, GO, AL, SE, MT, TO, RN, CE, ES, PE, PI, PA e&nbsp;MS.&nbsp;</p>
 
 <p><br />
 As a&ccedil;&otilde;es fazem parte da Jornada Nacional de Lutas das Mulheres Camponesas, em que denunciam o modelo do agroneg&oacute;cio no campo brasileiro e prop&otilde;em a agroecologia como alternativa ao capital estrangeiro na agricultura.</p>
@@ -154,7 +154,7 @@ Na segunda, na capital pernambucana, em Recife, mais de 600 mulheres do MST, da 
 
 <p>&nbsp;</p>
 
-<p><strong>Bsb</strong></p>
+<p><strong>DF</strong></p>
 
 <p>No Distrito Federal, nesta ter&ccedil;a-feira, cerca de 500 mulheres fizeram ato no Minist&eacute;rio da Agricultura em den&uacute;ncia ao agroneg&oacute;cio. Na sequ&ecirc;ncia, protestam em frente ao Minist&eacute;rio da Previd&ecirc;ncia Social. As mulheres lutam por uma previd&ecirc;ncia social p&uacute;blica, universal e solid&aacute;ria. Por isso, reivindicam o arquivamento da Medida Provis&oacute;ria 664 e 665. Nesta segunda, em Luzi&acirc;nia, entorno de Bras&iacute;lia, cerca de 800 mulheres organizadas pela Via Campesina ocuparam a multinacional Bunge. Segundo as mulheres, a Bunge &eacute; uma das empresas transnacionais que representa o capital estrangeiro na agricultura.</p>
 
@@ -227,6 +227,10 @@ Na segunda, as mulheres Sem Terra trancaram cinco rodovias, na regi&atilde;o de 
 <p>&nbsp;bal&atilde;o da BR 316, na cidade de Picos, no Piau&iacute;, se converteu numa grande escola, chamada &ldquo;escola do asfalto&rdquo;, organizada pelo Movimento dos Pequenos Agricultores (MPA) e o Levante Popular da Juventude. O objetivo foi denunciar o sucateamento das escolas no campo nos &uacute;ltimos anos, quando foram fechadas mais de 37 mil escolas na zona rural.</p>
 
 <p>&nbsp;</p>
+
+<p><strong>MS</strong></p>
+
+<p>Cerca de 200 mulheres do campo e da cidade realizaram um ato unit&aacute;rio em Campo Grande em frente &agrave; Casa da Mulher Brasileira. O protesto chamou aten&ccedil;&atilde;o para a&nbsp;viol&ecirc;ncia contra a mulher.&nbsp;No munic&iacute;pio de Casa Verde, cerca de 250 pessoas do acampamento local marcharam at&eacute; a &aacute;rea urbana para reivindicar celeridade na reforma agr&aacute;ria.</p>
 
 <p><br />
 <strong>TO</strong></p>
