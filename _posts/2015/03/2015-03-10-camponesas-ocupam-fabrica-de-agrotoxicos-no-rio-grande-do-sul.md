@@ -4,7 +4,7 @@ tags:
   - tag: jornada-de-luta-das-mulheres-2015
   - tag: lutas-e-mobilizações
   - tag: rio-grande-do-sul
-title: Camponesas ocupam fábrica de agrotóxicos no Rio Grande do Sul
+title: Camponesas ocupam fábrica de agrotóxicos e Incra no Rio Grande do Sul
 support_line: "A multinacional israelense Adama é uma das maiores empresas de agroquímicos do Sul do país, incluindo um dos componentes do agente laranja."
 menu: lutas e mobilizações
 layout: post
@@ -62,7 +62,16 @@ releated_posts:
 <p><em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Na manh&atilde; desta ter&ccedil;a-feira (10), cerca de 800 mulheres camponesas do MST e do Movimento dos Atingidos por Barragens (MAB) ocupam a sede da multinacional israelense Adama, em Taquari, no Rio Grande do Sul.</p>
+As cerca de 800 mulheres do MST e do MAB ocuparam no final da manh&atilde; desta ter&ccedil;a-feira (10) a sede do Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra), na cidade de Porto Alegre.</p>
+
+<p><br />
+Na parte da manh&atilde;, elas j&aacute; haviam ocupado a sede da multinacional israelense Adama, em Taquari, no Rio Grande do Sul.</p>
+
+<p><br />
+As camponesas seguem no &oacute;rg&atilde;o federal at&eacute; esta quarta, quando saem em marcha pela capital com outras organiza&ccedil;&otilde;es da Via Campesina, em que esperam mais de 5 mil pessoas nas ruas. &Agrave; tarde, os movimentos sociais da Via ter&atilde;o uma agenda com o governador do estado, Jos&eacute; Ivo Sartori (PMDB)</p>
+
+<p><br />
+<strong>Adama</strong></p>
 
 <p><br />
 A mobiliza&ccedil;&atilde;o faz parte da Jornada Nacional de Lutas das Mulheres Camponesas da Via Campesina em defesa da soberania alimentar, contra a viol&ecirc;ncia e o modelo do agroneg&oacute;cio na agricultura, considerado pelos movimentos prejudicial &agrave; vida das mulheres camponesas.&nbsp;Ao longo desta segunda-feira (9), mais de 15.000 mulheres participaram das a&ccedil;&otilde;es em 15 estados brasileiros, com marchas, ocupa&ccedil;&otilde;es e trancamento de rodovias.&nbsp;</p>
