@@ -43,10 +43,10 @@ releated_posts:
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Cerca de 2 mil trabalhadores e trabalhadoras rurais Sem Terra ocupam na manh&atilde; desta ter&ccedil;a-feira (10) ag&ecirc;ncias do Banco do Brasil e do Banco do Nordeste, na capital Macei&oacute; e no Sert&atilde;o, nos munic&iacute;pios de Delmiro Gouveia e Piranhas, em Alagoas.</p>
+Cerca de 2 mil trabalhadores e trabalhadoras rurais Sem Terra ocupam na manh&atilde; desta ter&ccedil;a-feira (10) ag&ecirc;ncias do Banco do Brasil e do Banco do Nordeste (BNB), na capital Macei&oacute; e no Sert&atilde;o, nos munic&iacute;pios de Delmiro Gouveia e Piranhas, em Alagoas.</p>
 
 <p><br />
-Em Pernambuco, centenas de Sem Terra tamb&eacute;m ocuparam ag&ecirc;ncias da Caixa Econ&ocirc;mica e BNB no estado.</p>
+Em Pernambuco, centenas de Sem Terra tamb&eacute;m ocuparam ag&ecirc;ncias da Caixa Econ&ocirc;mica, em Caruaru, e BNB, em Petrolina, com as pautas da habita&ccedil;&atilde;o e cr&eacute;dito.</p>
 
 <p><br />
 As a&ccedil;&otilde;es d&atilde;o continuidade &agrave;s mobiliza&ccedil;&otilde;es iniciadas pelas mulheres no estado. Os camponeses exigem agilidade no Programa Nacional de Habita&ccedil;&atilde;o Rural (PNHR) e criticam o Programa Nacional de Agricultura Familiar (Pronaf), que n&atilde;o atente nem contempla as necessidades das fam&iacute;lias assentadas.</p>
@@ -54,10 +54,12 @@ As a&ccedil;&otilde;es d&atilde;o continuidade &agrave;s mobiliza&ccedil;&otilde
 <p><br />
 Nas ag&ecirc;ncias do Banco do Brasil, os Sem Terra denunciam a morosidade e a burocracia para a constru&ccedil;&atilde;o das casas dos assentamentos atrav&eacute;s do PNHR. Em Alagoas, fam&iacute;lias assentadas h&aacute; mais de seis anos ainda est&atilde;o sem suas casas constru&iacute;das. No Banco do Brasil, os processos est&atilde;o parados por quase um ano na burocracia e lentid&atilde;o para o in&iacute;cio das obras.</p>
 
-<p>&nbsp;
+<p>&nbsp;</p>
+
 <p><br />
 &ldquo;&Eacute; mais um dia de luta na garantia dos nossos direitos. O povo Sem Terra quer conquistar efetivamente seu direito &agrave; moradia e &eacute; por isso que ocupamos mais uma vez essa ag&ecirc;ncia para pressionar o &oacute;rg&atilde;o a dar continuidade aos processos burocr&aacute;ticos para que nosso povo possa come&ccedil;ar o quanto antes a constru&ccedil;&atilde;o de suas casas&rdquo;, disse Jos&eacute; Roberto, da dire&ccedil;&atilde;o nacional do MST.</p>
-</p>
+
+<p>&nbsp;</p>
 
 <p><br />
 J&aacute; no Banco do Nordeste os trabalhadores pautaram as dificuldades e os limites dos cr&eacute;ditos rurais, como o caso do Pronaf, em especial aos camponeses que vivem na regi&atilde;o do semi&aacute;rido.<br />
