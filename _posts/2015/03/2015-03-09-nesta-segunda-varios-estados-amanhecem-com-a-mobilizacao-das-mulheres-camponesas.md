@@ -3,7 +3,7 @@ date: "2015-03-10T12:41:40-03:00"
 tags:
   - tag: jornada-de-luta-das-mulheres-2015
   - tag: lutas-e-mobilizações
-title: Ações já chegam em 18 estados e mobilizam mais de 20 mil Sem Terra
+title: Ações já chegam em 19 estados e mobilizam mais de 20 mil Sem Terra
 support_line: "As ações fazem parte da Jornada Nacional de Lutas das Mulheres Camponesas, em que denunciam o modelo do agronegócio."
 menu: lutas e mobilizações
 layout: post
@@ -215,14 +215,12 @@ Na segunda, cerca de 420 mulheres do MST e militantes do Levante Popular da Juve
 
 <p>No Esp&iacute;rito Santo, cerca de 1.000 mulheres de diversas organiza&ccedil;&otilde;es do campo realizaram uma marcha pela cidade de Colatina. Durante a a&ccedil;&atilde;o as camponesas bloquearam a rodovia ES 259, em dire&ccedil;&atilde;o &agrave; capital. Outras 100 fam&iacute;lias ocuparam a Fazenda Nossa Senhora da Concei&ccedil;&atilde;o, pr&oacute;ximo a Linhares.</p>
 
-<p>&nbsp;</p>
-
 <p><br />
 <strong>PI</strong></p>
 
-<p>&nbsp;
-<p>O bal&atilde;o da BR 316, na cidade de Picos, no Piau&iacute;, se converteu numa grande escola, chamada &ldquo;escola do asfalto&rdquo;, organizada pelo Movimento dos Pequenos Agricultores (MPA) e o Levante Popular da Juventude. O objetivo foi denunciar o sucateamento das escolas no campo nos &uacute;ltimos anos, quando foram fechadas mais de 37 mil escolas na zona rural.</p>
-</p>
+<p>&nbsp;bal&atilde;o da BR 316, na cidade de Picos, no Piau&iacute;, se converteu numa grande escola, chamada &ldquo;escola do asfalto&rdquo;, organizada pelo Movimento dos Pequenos Agricultores (MPA) e o Levante Popular da Juventude. O objetivo foi denunciar o sucateamento das escolas no campo nos &uacute;ltimos anos, quando foram fechadas mais de 37 mil escolas na zona rural.</p>
+
+<p>&nbsp;</p>
 
 <p><br />
 <strong>TO</strong></p>
