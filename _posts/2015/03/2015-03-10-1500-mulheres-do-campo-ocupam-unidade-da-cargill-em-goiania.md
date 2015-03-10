@@ -15,15 +15,15 @@ files:
     small: "http://farm8.staticflickr.com/7284/16774572395_b71501680e_n.jpg"
     title: cargill_goias.jpg
     $$hashKey: 07Q
-  - link: "http://farm8.staticflickr.com/7627/16748712976_ff9eff8362_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7627/16748712976_ff9eff8362_t.jpg"
-    medium: "http://farm8.staticflickr.com/7627/16748712976_ff9eff8362_z.jpg"
-    small: "http://farm8.staticflickr.com/7627/16748712976_ff9eff8362_n.jpg"
-    title: "cargill_goias!.jpg"
-    $$hashKey: 07T
+  - link: "http://farm9.staticflickr.com/8721/16587333128_5c9ee8c409_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8721/16587333128_5c9ee8c409_t.jpg"
+    medium: "http://farm9.staticflickr.com/8721/16587333128_5c9ee8c409_z.jpg"
+    small: "http://farm9.staticflickr.com/8721/16587333128_5c9ee8c409_n.jpg"
+    title: cargill.jpg
+    $$hashKey: 0OD
 created_date: "2015-03-10T09:41:15-03:00"
 published: true
-images_hd: "http://farm8.staticflickr.com/7627/16748712976_ff9eff8362_n.jpg"
+images_hd: "http://farm9.staticflickr.com/8721/16587333128_5c9ee8c409_n.jpg"
 releated_posts:
   - 2015/03/2015-03-03-preste-a-iniciarem-suas-lutas-mulheres-camponesas-prometem-enfrentar-o-modelo-do-agronegocio.md
   - 2015/03/2015-03-06-apos-acoes-sincronizadas-movimentos-barram-aprovacao-do-eucalipto-transgenico.md
@@ -40,8 +40,7 @@ releated_posts:
   - 2015/03/2015-03-10-camponesas-ocupam-fabrica-de-agrotoxicos-no-rio-grande-do-sul.md
 
 ---
-<p><br />
-&nbsp;</p>
+<p>&nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="cargill_goias.jpg" src="http://farm8.staticflickr.com/7284/16774572395_b71501680e_b.jpg" />
 <figcaption>Legenda</figcaption>
