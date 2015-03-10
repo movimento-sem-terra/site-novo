@@ -1,9 +1,9 @@
 ---
-date: "2015-03-09T10:41:40-03:00"
+date: "2015-03-10T12:41:40-03:00"
 tags:
   - tag: jornada-de-luta-das-mulheres-2015
   - tag: lutas-e-mobilizações
-title: Mais de 15 mil mulheres realizam ações em 15 estados do Brasil
+title: Ações já chegam em 18 estados e mobilizam mais de 20 mil Sem Terra.
 support_line: "As ações fazem parte da Jornada Nacional de Lutas das Mulheres Camponesas, em que denunciam o modelo do agronegócio."
 menu: lutas e mobilizações
 layout: post
@@ -50,6 +50,24 @@ files:
     small: "http://farm8.staticflickr.com/7654/16579247378_af26bfe163_n.jpg"
     title: 2015mulheresSE.jpg
     $$hashKey: 0K0
+  - link: "http://farm9.staticflickr.com/8718/16750336486_9e3d4564de_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8718/16750336486_9e3d4564de_t.jpg"
+    medium: "http://farm9.staticflickr.com/8718/16750336486_9e3d4564de_z.jpg"
+    small: "http://farm9.staticflickr.com/8718/16750336486_9e3d4564de_n.jpg"
+    title: adama.jpg
+    $$hashKey: 0MH
+  - link: "http://farm8.staticflickr.com/7603/16590070459_2dd0fff516_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7603/16590070459_2dd0fff516_t.jpg"
+    medium: "http://farm8.staticflickr.com/7603/16590070459_2dd0fff516_z.jpg"
+    small: "http://farm8.staticflickr.com/7603/16590070459_2dd0fff516_n.jpg"
+    title: "jornada unitaria2015!.jpg"
+    $$hashKey: 0MK
+  - link: "http://farm8.staticflickr.com/7288/16153905674_b2f5bcb0f4_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7288/16153905674_b2f5bcb0f4_t.jpg"
+    medium: "http://farm8.staticflickr.com/7288/16153905674_b2f5bcb0f4_z.jpg"
+    small: "http://farm8.staticflickr.com/7288/16153905674_b2f5bcb0f4_n.jpg"
+    title: 2015mulheresPR4.jpg
+    $$hashKey: 0MN
 created_date: "2015-03-09T09:49:28-03:00"
 published: true
 images_hd: "http://farm8.staticflickr.com/7615/16556884717_69090ea5f7_n.jpg"
@@ -61,7 +79,7 @@ releated_posts:
   - 2015/03/2015-03-09-mulheres-sem-terra-ocupam-a-superintendencia-do-ministerio-da-agricultura-em-alagoas.md
   - 2015/03/2015-03-09-camponesas-ocupam-a-multinacional-bunge-no-entorno-de-brasilia.md
   - 2015/02/2015-02-22-jornada-nacional-de-luta-das-mulheres-camponesas.md
-section: null
+section: cover
 
 ---
 <p><img alt="2015mulheresbsb.jpg" src="http://farm8.staticflickr.com/7615/16556884717_69090ea5f7_b.jpg" /></p>
@@ -70,18 +88,75 @@ section: null
 <em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Ao longo desta segunda-feira (9), o Brasil amanheceu com diversas mobiliza&ccedil;&otilde;es das mulheres camponesas. At&eacute; o momento, mais de 15.000 mulheres participaram das a&ccedil;&otilde;es em ao menos 15 estados brasileiros, com marchas, ocupa&ccedil;&otilde;es e trancamento de rodovias.</p>
+Ao longo desta semana, o Brasil amanheceu com diversas mobiliza&ccedil;&otilde;es das mulheres camponesas. At&eacute; o momento, mais de 20.000 mulheres participaram das a&ccedil;&otilde;es em 18 estados brasileiros, com marchas, ocupa&ccedil;&otilde;es e trancamento de rodovias.</p>
 
 <p><br />
-As mobiliza&ccedil;&otilde;es aconteceram em SP, BA, Bsb, PB, GO, AL, SE, MT, TO, RN, CE, ES, PE, PI, PA. Alguns estados, como RS, RJ, SC e MG realizam a&ccedil;&otilde;es ao longo desta semana.</p>
+As mobiliza&ccedil;&otilde;es aconteceram em RS, MA, PR, SP, BA, Bsb, PB, GO, AL, SE, MT, TO, RN, CE, ES, PE, PI, PA. Alguns estados, como RJ, SC e MG realizam a&ccedil;&otilde;es ao longo desta semana.</p>
 
 <p><br />
 As a&ccedil;&otilde;es fazem parte da Jornada Nacional de Lutas das Mulheres Camponesas, em que denunciam o modelo do agroneg&oacute;cio no campo brasileiro e prop&otilde;em a agroecologia como alternativa ao capital estrangeiro na agricultura.</p>
 
 <p><br />
+<strong>GO</strong></p>
+
+<p>Nesta ter&ccedil;a-feira, (10) cerca de 1.500 mulheres camponesas do MST, Movimento Campon&ecirc;s Popular (MCP), da Federa&ccedil;&atilde;o dos Trabalhadores e Trabalhadoras na Agricultura Familiar (FETRAF) e da Comiss&atilde;o Pastoral da Terra (CPT) ocuparam a unidade da transnacional Cargill, em Goi&acirc;nia. Segundo as trabalhadoras rurais, a Cargill vem estimulando o desmatamento do Cerrado e a expuls&atilde;o de milhares de fam&iacute;lias camponesas, ao apoiar a expans&atilde;o dos monocultivos de soja e cana-de-a&ccedil;ucar.</p>
+
+<p><br />
+Nesta segunda-feira (9), mais de 1.500 mulheres tamb&eacute;m do MST, MCP e Fetraf ocuparam a Secretaria da Fazenda. No per&iacute;odo da tarde, as camponesas ocupam a sede da Companhia Nacional de Abastecimento (Conab), na capital. Elas reivindicam a aprova&ccedil;&atilde;o da Lei de Fortalecimento da Agricultura Familiar e Camponesa, travada na Casa Civil do estado. A lei cria um fundo com 0,5% do or&ccedil;amento anual do governo estadual para pol&iacute;ticas p&uacute;blicas para a agricultura camponesa.</p>
+
+<p><br />
+&nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="adama.jpg" src="http://farm9.staticflickr.com/8718/16750336486_9e3d4564de_b.jpg" />
+<figcaption>Ocupa&ccedil;&atilde;o na empresa Adama denunciou os agrot&oacute;xicos.</figcaption>
+</figure>
+
+<p><strong>RS</strong></p>
+
+<p>Na manh&atilde; desta ter&ccedil;a-feira (10), cerca de 800 mulheres camponesas do MST e do Movimento dos Atingidos por Barragens (MAB) ocuparam a sede da multinacional israelense Adama, em Taquari, no Rio Grande do Sul. A multinacional Adama &eacute; uma das maiores empresas de agroqu&iacute;micos do Sul do pa&iacute;s, na produ&ccedil;&atilde;o de princ&iacute;pios ativos de agrot&oacute;xicos para sementes, incluindo o veneno 2,4-D, que estava proibido no Brasil por ser cancer&iacute;geno. O 2,4D &eacute; um dos principais componentes do agente laranja, usado como arma qu&iacute;mica no Vietn&atilde;.</p>
+
+<p><br />
+<strong>AL</strong></p>
+
+<p>Cerca de 2 mil trabalhadores e trabalhadoras rurais Sem Terra ocupam na manh&atilde; desta ter&ccedil;a-feira (10) ag&ecirc;ncias do Banco do Brasil e do Banco do Nordeste, na capital Macei&oacute; e no Sert&atilde;o, nos munic&iacute;pios de Delmiro Gouveia e Piranhas, em Alagoas.</p>
+
+<p><br />
+Na noite de domingo (8), em Macei&oacute;, as mulheres ocuparam a sede da superintend&ecirc;ncia do Minist&eacute;rio da Agricultura, Pecu&aacute;ria e Abastecimento. As camponesas denunciaram o modelo devastador de produ&ccedil;&atilde;o da cana-de-a&ccedil;&uacute;car e a atual intensifica&ccedil;&atilde;o da planta&ccedil;&atilde;o de eucalipto no estado.</p>
+
+<p><br />
+&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="jornada unitaria2015!.jpg" src="http://farm8.staticflickr.com/7603/16590070459_2dd0fff516_b.jpg" />
+<figcaption>No nordeste, diversas ag&ecirc;ncias foram ocupadas.</figcaption>
+</figure>
+
+<p><strong>PE</strong></p>
+
+<p>Em Pernambuco, centenas de Sem Terra tamb&eacute;m ocuparam ag&ecirc;ncias da Caixa Econ&ocirc;mica e BNB no estado, nesta ter&ccedil;a-feira. As a&ccedil;&otilde;es d&atilde;o continuidade &agrave;s mobiliza&ccedil;&otilde;es iniciadas pelas mulheres no estado. Os camponeses exigem agilidade no Programa Nacional de Habita&ccedil;&atilde;o Rural (PNHR) e criticam o Programa Nacional de Agricultura Familiar (Pronaf), que n&atilde;o atente nem contempla as necessidades das fam&iacute;lias assentadas.</p>
+
+<p><br />
+Na segunda, na capital pernambucana, em Recife, mais de 600 mulheres do MST, da Pastoral da Juventude Rural (PJR), Comiss&atilde;o Pastoral da Terra (CPT), Levante Popular da Juventude e Marcha Mundial das Mulheres (MMM) ocuparam a sede do Minist&eacute;rio da Agricultura e a Secretaria de Agricultura do Estado.</p>
+
+<p><br />
+<strong>MA</strong></p>
+
+<p>Cerca de 420 mulheres do MST e militantes do Levante Popular da Juventude ocuparam a sede da Empresa Vale, no porto da ponta da Madeira em S&atilde;o Lu&iacute;s (MA), uma &aacute;rea em expans&atilde;o voltada para atender o mercado da minera&ccedil;&atilde;o. A a&ccedil;&atilde;o denunciou os impactos socioambientais provocados pela duplica&ccedil;&atilde;o do complexo mina-ferrovia-porto. Segundo os Sem Terra, o projeto tem agredido violentamente aos povos e comunidades tradicionais, acampamentos e assentamentos da Reforma Agr&aacute;ria a partir do saque dos bens naturais, desrespeito aos direitos humanos, apropria&ccedil;&atilde;o, especula&ccedil;&atilde;o e concentra&ccedil;&atilde;o de terras.</p>
+
+<figure class="image"><img alt="2015mulheresPR4.jpg" src="http://farm8.staticflickr.com/7288/16153905674_b2f5bcb0f4_b.jpg" />
+<figcaption>No Paran&aacute;, trancamento de rodovias, ocupa&ccedil;&atilde;o de prefeitura e mobiliza&ccedil;&atilde;o em favor da educa&ccedil;&atilde;o.</figcaption>
+</figure>
+
+<p><br />
+<strong>PR</strong></p>
+
+<p>O estado do Paran&aacute; com foi palco de diversas lutas protagonizadas pelas mulheres do campo, em v&aacute;rias regi&otilde;es do estado, nesta segunda-feira (9). Na regi&atilde;o centro, cerca de 700 mulheres de diversos assentamentos e acampamentos do MST, do Movimento dos Pequenos Agricultores (MPA) e da Via Campesina ocuparam a BR 277 junto a pra&ccedil;a de ped&aacute;gio de Nova Laranjeiras. Depois, mulheres tamb&eacute;m realizaram um ato em frente ao N&uacute;cleo Regional da Educa&ccedil;&atilde;o em Laranjeiras do Sul. Outras 200 mulheres do MST ocuparam a prefeitura de Cascavel, oeste do estado, para entrega de pautas como educa&ccedil;&atilde;o, sa&uacute;de e infraestrutura.</p>
+
+<p><br />
 <strong>Bsb</strong></p>
 
+<p>&nbsp;
 <p>Em Luzi&acirc;nia, entorno de Bras&iacute;lia, cerca de 800 mulheres organizadas pela Via Campesina ocuparam a multinacional Bunge. Segundo as mulheres, a Bunge &eacute; uma das empresas transnacionais que representa o capital estrangeiro na agricultura.</p>
+</p>
 
 <p><br />
 <strong>BA</strong></p>
@@ -97,13 +172,11 @@ As a&ccedil;&otilde;es fazem parte da Jornada Nacional de Lutas das Mulheres Cam
 
 <p>Cerca de 450 mulheres do MST ocuparam na manh&atilde; desta segunda-feira (9) o Engenho da Usina Giasa, no munic&iacute;pio de Pedra de Fogo, na Para&iacute;ba. No per&iacute;odo da tarde, enquanto os homens ajudavam a montar o acampamento no local, as Sem Terra se juntaram com mulheres de outras organiza&ccedil;&otilde;es e ocuparam a sede do Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra), em Jo&atilde;o Pessoa. Ao todo, mais de 650 camponesas participam da a&ccedil;&atilde;o.</p>
 
-<p><br />
-<strong>GO</strong></p>
+<p>&nbsp;</p>
 
-<p>Em Goi&aacute;s, mais de 1.500 mulheres do MST, Movimento Campon&ecirc;s Popular (MCP) e da Federa&ccedil;&atilde;o dos Trabalhadores na Agricultura Familiar (Fetraf) ocuparam a Secretaria da Fazenda. No per&iacute;odo da tarde, as camponesas ocupam a sede da Companhia Nacional de Abastecimento (Conab), na capital. Elas reivindicam a aprova&ccedil;&atilde;o da Lei de Fortalecimento da Agricultura Familiar e Camponesa, travada na Casa Civil do estado. A lei cria um fundo com 0,5% do or&ccedil;amento anual do governo estadual para pol&iacute;ticas p&uacute;blicas para a agricultura camponesa.</p>
-
-<p><br />
-<strong>MT</strong></p>
+<p>&nbsp;
+<p><strong>MT</strong></p>
+</p>
 
 <p>No Mato Grosso, depois de marcharem pelo munic&iacute;pio de C&aacute;ceres na manh&atilde; desta segunda-feira (9), cerca de 300 mulheres do MST ocuparam a Fazenda Rancho Verde no mesmo munic&iacute;pio, a 220 km de Cuiab&aacute;.</p>
 
@@ -133,11 +206,6 @@ As a&ccedil;&otilde;es fazem parte da Jornada Nacional de Lutas das Mulheres Cam
 <p>No Esp&iacute;rito Santo, cerca de 1.000 mulheres de diversas organiza&ccedil;&otilde;es do campo realizaram uma marcha pela cidade de Colatina. Durante a a&ccedil;&atilde;o as camponesas bloquearam a rodovia ES 259, em dire&ccedil;&atilde;o &agrave; capital. Outras 100 fam&iacute;lias ocuparam a Fazenda Nossa Senhora da Concei&ccedil;&atilde;o, pr&oacute;ximo a Linhares.</p>
 
 <p><br />
-<strong>PE</strong></p>
-
-<p>Na capital pernambucana, em Recife, mais de 600 mulheres do MST, da Pastoral da Juventude Rural (PJR), Comiss&atilde;o Pastoral da Terra (CPT), Levante Popular da Juventude e Marcha Mundial das Mulheres (MMM) ocuparam a sede do Minist&eacute;rio da Agricultura e a Secretaria de Agricultura do Estado.</p>
-
-<p><br />
 <strong>SE</strong></p>
 
 <p>Em Aracaju (SE), cerca de 600 mulheres do MST, Movimento dos Trabalhadores Urbanos (MOTU), Movimento Campon&ecirc;s Popular (MCP) S&iacute;ntese, Casa das Dom&eacute;sticas e Marcha Mundial de Mulheres sa&iacute;ram as ruas da capital em comemora&ccedil;&atilde;o ao dia internacional das mulheres.</p>
@@ -156,13 +224,11 @@ As a&ccedil;&otilde;es fazem parte da Jornada Nacional de Lutas das Mulheres Cam
 
 <p>No Tocantins, mais de 250 mulheres trancaram a Rodovia Bel&eacute;m Bras&iacute;lia (BR 153), na cidade de Guara&iacute;.</p>
 
-<p><br />
-<strong>AL</strong></p>
+<p>&nbsp;</p>
 
-<p>Em Macei&oacute; (AL), as mulheres ocuparam desde a noite de domingo (8) a sede da superintend&ecirc;ncia do Minist&eacute;rio da Agricultura, Pecu&aacute;ria e Abastecimento. As camponesas denunciam o modelo devastador de produ&ccedil;&atilde;o da cana-de-a&ccedil;&uacute;car e a atual intensifica&ccedil;&atilde;o da planta&ccedil;&atilde;o de eucalipto no estado.</p>
-
-<p><br />
-<strong>PA</strong></p>
+<p>&nbsp;
+<p><strong>PA</strong></p>
+</p>
 
 <p>Na Par&aacute;, as Mulheres do MST realizam atividades desde o dia 5 de mar&ccedil;o. Na ocasi&atilde;o, as Sem Terra, junto a outros representantes de movimentos sociais, militantes de partidos de esquerda realizaram um ato p&uacute;blico em apoio &agrave; Venezuela e o lan&ccedil;amento do v&iacute;deo &ldquo;Meu Amigo Hugo&rdquo;, do diretor de Oliver Stone, que narra a vida do ex-presidente venezuelano Hugo Ch&aacute;vez, no Cine Olympia, em Bel&eacute;m.</p>
 
