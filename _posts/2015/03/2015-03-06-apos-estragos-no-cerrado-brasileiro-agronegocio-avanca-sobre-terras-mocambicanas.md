@@ -25,6 +25,7 @@ releated_posts:
   - 2015/03/2015-03-04-problemas-hidricos-no-cerrado-podem-afetar-importantes-setores-da-economia.md
   - 2014/06/2014-06-24-desertificacao-do-planeta-se-expande-ao-ritmo-de-12-milhoes-de-hectares-por-ano.md
   - 2015/01/2015-01-27-pesquisa-inedita-no-semiarido-aponta-como-familias-agricultoras-enfrentam-os-impactos-ambientais.md
+label: interviews
 
 ---
 <p><img alt="moçambique.png" src="http://farm9.staticflickr.com/8639/16112696043_d38de2a9a1_b.jpg" /><br />
