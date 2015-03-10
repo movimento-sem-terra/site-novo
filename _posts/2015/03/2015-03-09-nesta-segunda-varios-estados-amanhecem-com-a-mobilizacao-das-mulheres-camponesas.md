@@ -91,7 +91,7 @@ section: cover
 Ao longo desta semana, o Brasil amanheceu com diversas mobiliza&ccedil;&otilde;es das mulheres camponesas. At&eacute; o momento, mais de 20.000 mulheres participaram das a&ccedil;&otilde;es em 19&nbsp;estados brasileiros, com marchas, ocupa&ccedil;&otilde;es e trancamento de rodovias.</p>
 
 <p><br />
-As mobiliza&ccedil;&otilde;es aconteceram em RS, MA, PR, SP, BA, Bsb, PB, GO, AL, SE, MT, TO, RN, CE, ES, PE, PI, PA e&nbsp;MS.&nbsp;</p>
+As mobiliza&ccedil;&otilde;es aconteceram em RS, MA, PR, SP, BA, DF, PB, GO, AL, SE, MT, TO, RN, CE, ES, PE, PI, PA e&nbsp;MS.&nbsp;</p>
 
 <p><br />
 As a&ccedil;&otilde;es fazem parte da Jornada Nacional de Lutas das Mulheres Camponesas, em que denunciam o modelo do agroneg&oacute;cio no campo brasileiro e prop&otilde;em a agroecologia como alternativa ao capital estrangeiro na agricultura.</p>
