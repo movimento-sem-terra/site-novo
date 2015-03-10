@@ -192,6 +192,7 @@ $big: new-breakpoint(min-width $screen-big);
         width: 150px;
         height: 150px;
         border-radius: 50%;
+        background-color: $mst-green;
         @include span-columns(3);
       }
 
