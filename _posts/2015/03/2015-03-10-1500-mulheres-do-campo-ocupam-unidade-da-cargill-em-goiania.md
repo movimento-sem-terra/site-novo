@@ -5,7 +5,7 @@ tags:
   - tag: lutas-e-mobilizações
   - tag: goiás
 menu: lutas e mobilizações
-title: "1500 mulheres do campo ocupam unidade da Cargill, em Goiânia"
+title: "Mais de 1500 mulheres do campo ocupam unidade da Cargill, em Goiânia"
 support_line: "Segundo elas, a Cargill estimula o desmatamento do Cerrado e a expulsão de milhares de famílias camponesas."
 layout: post
 files:
@@ -58,7 +58,9 @@ A a&ccedil;&atilde;o integra a Jornada Nacional de Luta das Mulheres Camponesas 
 A jornada tem como objetivo denunciar o capital estrangeiro na agricultura brasileira por meio das empresas transnacionais, que intensificam os impactos j&aacute; causados pelo latif&uacute;ndio, como danos ao meio ambiente, amea&ccedil;a &agrave; soberania alimentar do pa&iacute;s e a vida da popula&ccedil;&atilde;o brasileira, o que afeta de forma diretamente a realidade das mulheres.</p>
 
 <p><br />
-Segundo as trabalhadoras rurais, a Cargill vem estimulando o desmatamento do Cerrado e a expuls&atilde;o de milhares de fam&iacute;lias camponesas, ao apoiar a expans&atilde;o dos monocultivos de soja e cana-de-a&ccedil;ucar.<br />
+Segundo as trabalhadoras rurais, a Cargill vem estimulando o desmatamento do Cerrado e a expuls&atilde;o de milhares de fam&iacute;lias camponesas, ao apoiar a expans&atilde;o dos monocultivos de soja e cana-de-a&ccedil;ucar.</p>
+
+<p><br />
 &ldquo;Esse &eacute; um projeto de morte, baseado na intoxica&ccedil;&atilde;o do meio ambiente e da popula&ccedil;&atilde;o, ao mesmo tempo em que deprime economicamente as regi&otilde;es do estado e causa desemprego massivo&rdquo;, afirmam em nota.</p>
 
 <p><br />
