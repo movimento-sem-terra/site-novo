@@ -3,7 +3,7 @@ date: "2015-03-10T12:41:40-03:00"
 tags:
   - tag: jornada-de-luta-das-mulheres-2015
   - tag: lutas-e-mobilizações
-title: Ações já chegam em 19 estados e mobilizam mais de 20 mil Sem Terra
+title: Ações já chegam em 21 estados e mobilizam mais de  20 mil Sem Terra
 support_line: "As ações fazem parte da Jornada Nacional de Lutas das Mulheres Camponesas, em que denunciam o modelo do agronegócio."
 menu: lutas e mobilizações
 layout: post
@@ -88,10 +88,10 @@ section: cover
 <em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Ao longo desta semana, o Brasil amanheceu com diversas mobiliza&ccedil;&otilde;es das mulheres camponesas. At&eacute; o momento, mais de 20.000 mulheres participaram das a&ccedil;&otilde;es em 19&nbsp;estados brasileiros, com marchas, ocupa&ccedil;&otilde;es e trancamento de rodovias.</p>
+Ao longo desta semana, o Brasil amanheceu com diversas mobiliza&ccedil;&otilde;es das mulheres camponesas. At&eacute; o momento, mais de 20 mil&nbsp;Sem Terra&nbsp;participaram das a&ccedil;&otilde;es em 21&nbsp;estados brasileiros, com marchas, ocupa&ccedil;&otilde;es e trancamento de rodovias.</p>
 
 <p><br />
-As mobiliza&ccedil;&otilde;es aconteceram em RS, MA, PR, SP, BA, DF, PB, GO, AL, SE, MT, TO, RN, CE, ES, PE, PI, PA e&nbsp;MS.&nbsp;</p>
+As mobiliza&ccedil;&otilde;es aconteceram em RS, MA, PR, SP, RJ, MG, BA, DF, PB, GO, AL, SE, MT, TO, RN, CE, ES, PE, PI, PA e&nbsp;MS.&nbsp;</p>
 
 <p><br />
 As a&ccedil;&otilde;es fazem parte da Jornada Nacional de Lutas das Mulheres Camponesas, em que denunciam o modelo do agroneg&oacute;cio no campo brasileiro e prop&otilde;em a agroecologia como alternativa ao capital estrangeiro na agricultura.</p>
@@ -251,4 +251,4 @@ Em Marab&aacute;, sudeste do estado, cerca de 300 mulheres do MST realizaram um 
 <p><br />
 <strong>SP</strong></p>
 
-<p>Na quinta-feira (5) passada, cerca de 1.000 mulheres do MST ocuparam a sede da empresa Suzano/Futura Gene, em Itapetininga (SP), com o objetivo de barrar a vota&ccedil;&atilde;o que liberaria o cultivo de eucalipto transg&ecirc;nico no Brasil. Paralelamente, outras 300 camponeses ocuparam a pr&oacute;pria Comiss&atilde;o T&eacute;cnica Nacional de Biosseguran&ccedil;a (CTNBio), onde estava tendo a reuni&atilde;o que liberaria o eucalipto.</p>
+<p>Na quinta-feira (5) passada, cerca de 1.000 mulheres do MST dos estados de SP, MG e RJ&nbsp;ocuparam a sede da empresa Suzano/Futura Gene, em Itapetininga (SP), com o objetivo de barrar a vota&ccedil;&atilde;o que liberaria o cultivo de eucalipto transg&ecirc;nico no Brasil. Paralelamente, outras 300 camponeses ocuparam a pr&oacute;pria Comiss&atilde;o T&eacute;cnica Nacional de Biosseguran&ccedil;a (CTNBio), onde estava tendo a reuni&atilde;o que liberaria o eucalipto.</p>
