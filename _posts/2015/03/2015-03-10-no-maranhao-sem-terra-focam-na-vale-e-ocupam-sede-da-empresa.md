@@ -4,7 +4,7 @@ tags:
   - tag: lutas-e-mobilizações
   - tag: maranhão
   - tag: jornada-de-luta-das-mulheres-2015
-title: "No Maranhão, Sem Terra focam na Vale e ocupam sede da empresa"
+title: "Após ocuparem a Vale no Maranhão, Sem Terra acampam na sede do Incra"
 support_line: A ação denunciou os impactos socioambientais provocados pela duplicação do complexo mina-ferrovia-porto.
 menu: lutas e mobilizações
 layout: post
@@ -41,7 +41,23 @@ releated_posts:
 <em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Cerca de 420 mulheres do MST e militantes do Levante Popular da Juventude ocuparam a sede da Empresa Vale, no porto da ponta da Madeira em S&atilde;o Lu&iacute;s (MA), uma &aacute;rea em expans&atilde;o voltada para atender o mercado da minera&ccedil;&atilde;o.</p>
+Mais de 600 Sem Terra ocuparam a sede do Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra), na capital S&atilde;o Lu&iacute;s. Ao longo desta tarde, os trabalhadores rurais esperam a chegada de mais pessoas para se somarem &agrave; ocupa&ccedil;&atilde;o.</p>
+
+<p><br />
+Na parte da manh&atilde;, representantes do MST se reuniram com o superintendente do &oacute;rg&atilde;o federal. &Agrave; tarde, se reunir&atilde;o com representante do Banco do Brasil, da Caixa Econ&ocirc;mica Federal e do Instituto de Coloniza&ccedil;&atilde;o e Terras do Maranh&atilde;o (Iterma).</p>
+
+<p>&nbsp;</p>
+
+<p><br />
+Os Sem Terra pretendem permanecer at&eacute; esta quarta-feira (11) no local, quando sair&atilde;o em marcha at&eacute; o Pal&aacute;cio dos Le&otilde;es, sede do governo estadual do Maranh&atilde;o, onde apresentar&atilde;o a pauta da Reforma Agr&aacute;ria.</p>
+
+<p>&nbsp;
+<p><br />
+<strong>Vale</strong></p>
+</p>
+
+<p><br />
+Na segunda-feira, cerca de 420 mulheres do MST e militantes do Levante Popular da Juventude ocuparam a sede da Empresa Vale, no porto da ponta da Madeira em S&atilde;o Lu&iacute;s (MA), uma &aacute;rea em expans&atilde;o voltada para atender o mercado da minera&ccedil;&atilde;o.</p>
 
 <p><br />
 A a&ccedil;&atilde;o denunciou os impactos socioambientais provocados pela duplica&ccedil;&atilde;o do complexo mina-ferrovia-porto.</p>
