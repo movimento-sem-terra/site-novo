@@ -235,11 +235,24 @@ $big: new-breakpoint(min-width $screen-big);
         }
       }
 
-
-
       &.gray {
         background-color: $mst-light-gray;
       }
+    }
+  }
+
+  .scrolltop {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    color: $mst-green;
+    font-weight: 800;
+    z-index: 100;
+    display: none;
+    text-shadow: 0 0 3px white;
+
+    .fa-chevron-up {
+      color: $mst-red;
     }
   }
 }
