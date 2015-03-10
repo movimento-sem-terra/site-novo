@@ -36,9 +36,7 @@ releated_posts:
 <em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Em conson&acirc;ncia com a Jornada Unit&aacute;ria de Lutas do MST, centenas de mulheres da Via Campesina foras &agrave;s ruas na manh&atilde; desta segunda (9), na cidade Colatina, no Esp&iacute;rito Santo, para denunciar o avan&ccedil;o do agroneg&oacute;cio no estado.</p>
-
-<p>&nbsp;</p>
+Em conson&acirc;ncia com a Jornada Unit&aacute;ria de Lutas do MST, 1.000 mulheres da Via Campesina foras &agrave;s ruas na manh&atilde; desta segunda (9), na cidade Colatina, no Esp&iacute;rito Santo, para denunciar o avan&ccedil;o do agroneg&oacute;cio no estado.</p>
 
 <p><br />
 As mulheres tamb&eacute;m pediram o fim da proposta de contra reforma previdenci&aacute;ria, que tende a acabar com alguns benef&iacute;cios conquistados historicamente pelos trabalhadores.</p>
