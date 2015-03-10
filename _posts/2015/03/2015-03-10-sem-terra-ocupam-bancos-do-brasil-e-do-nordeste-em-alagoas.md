@@ -4,8 +4,8 @@ tags:
   - tag: lutas-e-mobilizações
   - tag: alagoas
   - tag: jornada-unitária-do-campo
-title: "Sem Terra ocupam Bancos do Brasil e do Nordeste em AL, PE e CE"
-support_line: "Os camponeses exigem agilidade no Programa de Habitação Rural e criticam o Pronaf, que não contempla as necessidades das famílias assentadas."
+title: "No nordeste, milhares de Sem Terra ocupam agências dos Bancos do Brasil e Nordeste"
+support_line: "As ocupações aconteceram em Alagoas, Pernambuco, Ceará e Sergipe, e dão continuidade às mobilizações iniciadas pelas mulheres no estado."
 menu: lutas e mobilizações
 section: null
 layout: post
@@ -49,7 +49,7 @@ Cerca de 2 mil trabalhadores e trabalhadoras rurais Sem Terra ocupam na manh&ati
 Em Pernambuco, centenas de Sem Terra tamb&eacute;m ocuparam ag&ecirc;ncias da Caixa Econ&ocirc;mica, em Caruaru, e BNB, em Petrolina, com as pautas da habita&ccedil;&atilde;o e cr&eacute;dito.</p>
 
 <p><br />
-Em Fortaleza, no Cear&aacute;, 500 trabalhadores rurais ocuparam outra ag&ecirc;ncia do BNB.</p>
+Em Fortaleza, no Cear&aacute;, 500 trabalhadores rurais ocuparam outra ag&ecirc;ncia do BNB. Na cidade de Aracaju, 400 Sem Terra ocuparam uma ag&ecirc;ncia do Banco do Brasil e outra do BNB. No per&iacute;odo da tarde, representantes do MST seguem em reuni&atilde;o com os superintendentes dos bancos.</p>
 
 <p><br />
 As a&ccedil;&otilde;es d&atilde;o continuidade &agrave;s mobiliza&ccedil;&otilde;es iniciadas pelas mulheres no estado. Os camponeses exigem agilidade no Programa Nacional de Habita&ccedil;&atilde;o Rural (PNHR) e criticam o Programa Nacional de Agricultura Familiar (Pronaf), que n&atilde;o atente nem contempla as necessidades das fam&iacute;lias assentadas.</p>
