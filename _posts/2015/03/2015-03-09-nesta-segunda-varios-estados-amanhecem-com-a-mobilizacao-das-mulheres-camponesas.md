@@ -161,6 +161,8 @@ Na segunda, na capital pernambucana, em Recife, mais de 600 mulheres do MST, da 
 <p><br />
 Nesta segunda, em Luzi&acirc;nia, entorno de Bras&iacute;lia, cerca de 800 mulheres organizadas pela Via Campesina ocuparam a multinacional Bunge. Segundo as mulheres, a Bunge &eacute; uma das empresas transnacionais que representa o capital estrangeiro na agricultura.</p>
 
+<p><span style="line-height: 20.7999992370605px;">Semana passada,&nbsp;</span><span style="line-height: 20.7999992370605px;">&nbsp;300 camponeses ocuparam a pr&oacute;pria Comiss&atilde;o T&eacute;cnica Nacional de Biosseguran&ccedil;a (CTNBio), onde estava tendo a reuni&atilde;o que liberaria o eucalipto transg&ecirc;nico. A a&ccedil;&atilde;o foi realizada ao mesmo tempo da ocupa&ccedil;&atilde;o na&nbsp;empresa Suzano/Futura Gene, em Itapetininga (SP).&nbsp;</span></p>
+
 <p><br />
 <strong>MA</strong></p>
 
@@ -251,4 +253,4 @@ Em Marab&aacute;, sudeste do estado, cerca de 300 mulheres do MST realizaram um 
 <p><br />
 <strong>SP</strong></p>
 
-<p>Na quinta-feira (5) passada, cerca de 1.000 mulheres do MST dos estados de SP, MG e RJ&nbsp;ocuparam a sede da empresa Suzano/Futura Gene, em Itapetininga (SP), com o objetivo de barrar a vota&ccedil;&atilde;o que liberaria o cultivo de eucalipto transg&ecirc;nico no Brasil. Paralelamente, outras 300 camponeses ocuparam a pr&oacute;pria Comiss&atilde;o T&eacute;cnica Nacional de Biosseguran&ccedil;a (CTNBio), onde estava tendo a reuni&atilde;o que liberaria o eucalipto.</p>
+<p>Na quinta-feira (5) passada, cerca de 1.000 mulheres do MST dos estados de SP, MG e RJ&nbsp;ocuparam a sede da empresa Suzano/Futura Gene, em Itapetininga (SP), com o objetivo de barrar a vota&ccedil;&atilde;o que liberaria o cultivo de eucalipto transg&ecirc;nico no Brasil. Paralelamente, outras 300 camponeses ocuparam a pr&oacute;pria Comiss&atilde;o T&eacute;cnica Nacional de Biosseguran&ccedil;a (CTNBio) no DF,&nbsp;onde estava tendo a reuni&atilde;o que liberaria o eucalipto.</p>
