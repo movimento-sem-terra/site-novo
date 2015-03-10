@@ -4,7 +4,7 @@ tags:
   - tag: maranhão
   - tag: direitos-humanos
   - tag: violência
-title: "No Maranhão, acampamento Frei Henri sofre ataque de fazendeiros"
+title: "No Pará, acampamento Frei Henri sofre ataque de fazendeiros"
 support_line: "Dão Baiano, Donizete Matador, Marcelo Catalão, Rafael Saldanha, Carlinhos da Casa Goiás, entre outros são os fazendeiros que articulam os assassinatos."
 menu: direitos humanos
 layout: post
