@@ -104,8 +104,7 @@ As a&ccedil;&otilde;es fazem parte da Jornada Nacional de Lutas das Mulheres Cam
 <p><br />
 Nesta segunda-feira (9), mais de 1.500 mulheres tamb&eacute;m do MST, MCP e Fetraf ocuparam a Secretaria da Fazenda. No per&iacute;odo da tarde, as camponesas ocupam a sede da Companhia Nacional de Abastecimento (Conab), na capital. Elas reivindicam a aprova&ccedil;&atilde;o da Lei de Fortalecimento da Agricultura Familiar e Camponesa, travada na Casa Civil do estado. A lei cria um fundo com 0,5% do or&ccedil;amento anual do governo estadual para pol&iacute;ticas p&uacute;blicas para a agricultura camponesa.</p>
 
-<p><br />
-&nbsp;</p>
+<p>&nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="adama.jpg" src="http://farm9.staticflickr.com/8718/16750336486_9e3d4564de_b.jpg" />
 <figcaption>Ocupa&ccedil;&atilde;o na empresa Adama denunciou os agrot&oacute;xicos.</figcaption>
@@ -138,6 +137,11 @@ Na noite de domingo (8), em Macei&oacute;, as mulheres ocuparam a sede da superi
 Na segunda, na capital pernambucana, em Recife, mais de 600 mulheres do MST, da Pastoral da Juventude Rural (PJR), Comiss&atilde;o Pastoral da Terra (CPT), Levante Popular da Juventude e Marcha Mundial das Mulheres (MMM) ocuparam a sede do Minist&eacute;rio da Agricultura e a Secretaria de Agricultura do Estado.</p>
 
 <p><br />
+<strong>Bsb</strong></p>
+
+<p>No Distrito Federal, nesta ter&ccedil;a-feira, cerca de 500 mulheres fizeram ato no Minist&eacute;rio da Agricultura em den&uacute;ncia ao agroneg&oacute;cio, que atenta contra a vida de milhares de mulheres em todo o pa&iacute;s. Nesta segunda, em Luzi&acirc;nia, entorno de Bras&iacute;lia, cerca de 800 mulheres organizadas pela Via Campesina ocuparam a multinacional Bunge. Segundo as mulheres, a Bunge &eacute; uma das empresas transnacionais que representa o capital estrangeiro na agricultura.</p>
+
+<p><br />
 <strong>MA</strong></p>
 
 <p>Cerca de 420 mulheres do MST e militantes do Levante Popular da Juventude ocuparam a sede da Empresa Vale, no porto da ponta da Madeira em S&atilde;o Lu&iacute;s (MA), uma &aacute;rea em expans&atilde;o voltada para atender o mercado da minera&ccedil;&atilde;o. A a&ccedil;&atilde;o denunciou os impactos socioambientais provocados pela duplica&ccedil;&atilde;o do complexo mina-ferrovia-porto. Segundo os Sem Terra, o projeto tem agredido violentamente aos povos e comunidades tradicionais, acampamentos e assentamentos da Reforma Agr&aacute;ria a partir do saque dos bens naturais, desrespeito aos direitos humanos, apropria&ccedil;&atilde;o, especula&ccedil;&atilde;o e concentra&ccedil;&atilde;o de terras.</p>
@@ -151,17 +155,9 @@ Na segunda, na capital pernambucana, em Recife, mais de 600 mulheres do MST, da 
 
 <p>O estado do Paran&aacute; com foi palco de diversas lutas protagonizadas pelas mulheres do campo, em v&aacute;rias regi&otilde;es do estado, nesta segunda-feira (9). Na regi&atilde;o centro, cerca de 700 mulheres de diversos assentamentos e acampamentos do MST, do Movimento dos Pequenos Agricultores (MPA) e da Via Campesina ocuparam a BR 277 junto a pra&ccedil;a de ped&aacute;gio de Nova Laranjeiras. Depois, mulheres tamb&eacute;m realizaram um ato em frente ao N&uacute;cleo Regional da Educa&ccedil;&atilde;o em Laranjeiras do Sul. Outras 200 mulheres do MST ocuparam a prefeitura de Cascavel, oeste do estado, para entrega de pautas como educa&ccedil;&atilde;o, sa&uacute;de e infraestrutura.</p>
 
-<p><br />
-<strong>Bsb</strong></p>
-
-<p>&nbsp;</p>
-
-<p>Em Luzi&acirc;nia, entorno de Bras&iacute;lia, cerca de 800 mulheres organizadas pela Via Campesina ocuparam a multinacional Bunge. Segundo as mulheres, a Bunge &eacute; uma das empresas transnacionais que representa o capital estrangeiro na agricultura.</p>
-
-<p>&nbsp;</p>
-
-<p><br />
-<strong>BA</strong></p>
+<p>&nbsp;
+<p><strong>BA</strong></p>
+</p>
 
 <figure class="image" style="float:right"><img alt="2015mulheresBA2.jpg" src="http://farm9.staticflickr.com/8633/16146836733_d26aeaae2c_b.jpg" />
 <figcaption>Seis mil Sem Terra marcham at&eacute; a capital Salvador (BA).</figcaption>
@@ -174,13 +170,8 @@ Na segunda, na capital pernambucana, em Recife, mais de 600 mulheres do MST, da 
 
 <p>Cerca de 450 mulheres do MST ocuparam na manh&atilde; desta segunda-feira (9) o Engenho da Usina Giasa, no munic&iacute;pio de Pedra de Fogo, na Para&iacute;ba. No per&iacute;odo da tarde, enquanto os homens ajudavam a montar o acampamento no local, as Sem Terra se juntaram com mulheres de outras organiza&ccedil;&otilde;es e ocuparam a sede do Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra), em Jo&atilde;o Pessoa. Ao todo, mais de 650 camponesas participam da a&ccedil;&atilde;o.</p>
 
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p><strong>MT</strong></p>
-
-<p>&nbsp;</p>
+<p><br />
+<strong>MT</strong></p>
 
 <p>No Mato Grosso, depois de marcharem pelo munic&iacute;pio de C&aacute;ceres na manh&atilde; desta segunda-feira (9), cerca de 300 mulheres do MST ocuparam a Fazenda Rancho Verde no mesmo munic&iacute;pio, a 220 km de Cuiab&aacute;.</p>
 
@@ -228,13 +219,8 @@ Na segunda, na capital pernambucana, em Recife, mais de 600 mulheres do MST, da 
 
 <p>No Tocantins, mais de 250 mulheres trancaram a Rodovia Bel&eacute;m Bras&iacute;lia (BR 153), na cidade de Guara&iacute;.</p>
 
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p><strong>PA</strong></p>
-
-<p>&nbsp;</p>
+<p><br />
+<strong>PA</strong></p>
 
 <p>Na Par&aacute;, as Mulheres do MST realizam atividades desde o dia 5 de mar&ccedil;o. Na ocasi&atilde;o, as Sem Terra, junto a outros representantes de movimentos sociais, militantes de partidos de esquerda realizaram um ato p&uacute;blico em apoio &agrave; Venezuela e o lan&ccedil;amento do v&iacute;deo &ldquo;Meu Amigo Hugo&rdquo;, do diretor de Oliver Stone, que narra a vida do ex-presidente venezuelano Hugo Ch&aacute;vez, no Cine Olympia, em Bel&eacute;m.</p>
 
