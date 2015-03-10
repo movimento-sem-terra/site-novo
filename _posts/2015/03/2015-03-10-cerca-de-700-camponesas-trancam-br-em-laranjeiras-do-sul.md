@@ -4,7 +4,7 @@ tags:
   - tag: jornada-de-luta-das-mulheres-2015
   - tag: lutas-e-mobilizações
   - tag: paraná
-title: "Cerca de 700 camponesas trancam BR em Laranjeiras do Sul "
+title: Centenas de camponesas trancam BR e ocupam prefeitura no Paraná
 support_line: "As mulheres apoiam a greve dos caminhoneiros e dos professores, e defendem a garantia e acesso às camponesas ao estudo formal e técnico."
 menu: lutas e mobilizações
 layout: post
