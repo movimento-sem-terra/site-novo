@@ -145,7 +145,7 @@ Na segunda, na capital pernambucana, em Recife, mais de 600 mulheres do MST, da 
 <p><br />
 <strong>CE</strong></p>
 
-<p>Em Fortaleza, no Cear&aacute;, 500 trabalhadores rurais ocuparam outra ag&ecirc;ncia do BNB, nesta ter&ccedil;a. J&aacute; na segunda, em Quixeramobim, cerca de 300 mulheres do MST e da Federa&ccedil;&atilde;o dos Trabalhadores na Agricultura do Estado do Cear&aacute; (Fetraece) realizaram uma marcha pelas ruas do munic&iacute;pio contra o agroneg&oacute;cio e a viol&ecirc;ncia contra as mulheres. Na sequ&ecirc;ncia, as camponesas ocuparam a Assembleia Legislativa, onde homenagearam as diversas lutadoras, em especial, Maria Lima, uma das fundadoras do Movimento no estado. No per&iacute;odo da tarde, elas se reunir&atilde;o para um curso de forma&ccedil;&atilde;o destinado somente &agrave;s mulheres.</p>
+<p>Em Fortaleza, no Cear&aacute;, 500 trabalhadores rurais ocuparam outra ag&ecirc;ncia do BNB, nesta ter&ccedil;a. J&aacute; na segunda, em Quixeramobim, cerca de 600 mulheres do MST e da Federa&ccedil;&atilde;o dos Trabalhadores na Agricultura do Estado do Cear&aacute; (Fetraece) realizaram uma marcha pelas ruas do munic&iacute;pio contra o agroneg&oacute;cio e a viol&ecirc;ncia contra as mulheres. Na sequ&ecirc;ncia, as camponesas ocuparam a Assembleia Legislativa, onde homenagearam as diversas lutadoras, em especial, Maria Lima, uma das fundadoras do Movimento no estado. No per&iacute;odo da tarde, elas se reunir&atilde;o para um curso de forma&ccedil;&atilde;o destinado somente &agrave;s mulheres.</p>
 
 <p><br />
 <strong>SE</strong></p>
@@ -156,7 +156,10 @@ Na segunda, na capital pernambucana, em Recife, mais de 600 mulheres do MST, da 
 
 <p><strong>DF</strong></p>
 
-<p>No Distrito Federal, nesta ter&ccedil;a-feira, cerca de 500 mulheres fizeram ato no Minist&eacute;rio da Agricultura em den&uacute;ncia ao agroneg&oacute;cio. Na sequ&ecirc;ncia, protestam em frente ao Minist&eacute;rio da Previd&ecirc;ncia Social. As mulheres lutam por uma previd&ecirc;ncia social p&uacute;blica, universal e solid&aacute;ria. Por isso, reivindicam o arquivamento da Medida Provis&oacute;ria 664 e 665. Nesta segunda, em Luzi&acirc;nia, entorno de Bras&iacute;lia, cerca de 800 mulheres organizadas pela Via Campesina ocuparam a multinacional Bunge. Segundo as mulheres, a Bunge &eacute; uma das empresas transnacionais que representa o capital estrangeiro na agricultura.</p>
+<p>No Distrito Federal, nesta ter&ccedil;a-feira, cerca de 500 mulheres fizeram ato no Minist&eacute;rio da Agricultura em den&uacute;ncia ao agroneg&oacute;cio. Na sequ&ecirc;ncia, protestam em frente ao Minist&eacute;rio da Previd&ecirc;ncia Social. As mulheres lutam por uma previd&ecirc;ncia social p&uacute;blica, universal e solid&aacute;ria. Por isso, reivindicam o arquivamento da Medida Provis&oacute;ria 664 e 665. Depois ocuparam o Minist&eacute;rio das Cidades, ao exigirem moradia digna. O Programa Nacional de Habita&ccedil;&atilde;o Rural est&aacute; travado em diversos estados do pa&iacute;s, impedindo que as fam&iacute;lias assentadas consigam avan&ccedil;ar neste direito.</p>
+
+<p><br />
+Nesta segunda, em Luzi&acirc;nia, entorno de Bras&iacute;lia, cerca de 800 mulheres organizadas pela Via Campesina ocuparam a multinacional Bunge. Segundo as mulheres, a Bunge &eacute; uma das empresas transnacionais que representa o capital estrangeiro na agricultura.</p>
 
 <p><br />
 <strong>MA</strong></p>
