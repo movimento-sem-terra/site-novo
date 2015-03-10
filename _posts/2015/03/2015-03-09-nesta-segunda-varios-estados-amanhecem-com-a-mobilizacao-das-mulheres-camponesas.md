@@ -149,7 +149,10 @@ Na segunda, na capital pernambucana, em Recife, mais de 600 mulheres do MST, da 
 <p><br />
 <strong>MA</strong></p>
 
-<p>Cerca de 420 mulheres do MST e militantes do Levante Popular da Juventude ocuparam a sede da Empresa Vale, no porto da ponta da Madeira em S&atilde;o Lu&iacute;s (MA), uma &aacute;rea em expans&atilde;o voltada para atender o mercado da minera&ccedil;&atilde;o. A a&ccedil;&atilde;o denunciou os impactos socioambientais provocados pela duplica&ccedil;&atilde;o do complexo mina-ferrovia-porto. Segundo os Sem Terra, o projeto tem agredido violentamente aos povos e comunidades tradicionais, acampamentos e assentamentos da Reforma Agr&aacute;ria a partir do saque dos bens naturais, desrespeito aos direitos humanos, apropria&ccedil;&atilde;o, especula&ccedil;&atilde;o e concentra&ccedil;&atilde;o de terras.</p>
+<p>Mais de 600 Sem Terra ocuparam a sede do Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra), na capital S&atilde;o Lu&iacute;s, nesta ter&ccedil;a. Os Sem Terra pretendem permanecer at&eacute; quarta-feira (11) no local, quando sair&atilde;o em marcha at&eacute; o Pal&aacute;cio dos Le&otilde;es, sede do governo estadual do Maranh&atilde;o, onde pretendem apresentar a pauta da Reforma Agr&aacute;ria ao governador.</p>
+
+<p><br />
+Na segunda, cerca de 420 mulheres do MST e militantes do Levante Popular da Juventude ocuparam a sede da Empresa Vale, no porto da ponta da Madeira em S&atilde;o Lu&iacute;s (MA), uma &aacute;rea em expans&atilde;o voltada para atender o mercado da minera&ccedil;&atilde;o. A a&ccedil;&atilde;o denunciou os impactos socioambientais provocados pela duplica&ccedil;&atilde;o do complexo mina-ferrovia-porto. Segundo os Sem Terra, o projeto tem agredido violentamente aos povos e comunidades tradicionais, acampamentos e assentamentos da Reforma Agr&aacute;ria a partir do saque dos bens naturais, desrespeito aos direitos humanos, apropria&ccedil;&atilde;o, especula&ccedil;&atilde;o e concentra&ccedil;&atilde;o de terras.</p>
 
 <figure class="image"><img alt="2015mulheresPR4.jpg" src="http://farm8.staticflickr.com/7288/16153905674_b2f5bcb0f4_b.jpg" />
 <figcaption>No Paran&aacute;, trancamento de rodovias, ocupa&ccedil;&atilde;o de prefeitura e mobiliza&ccedil;&atilde;o em favor da educa&ccedil;&atilde;o.</figcaption>
@@ -163,8 +166,6 @@ Na segunda, na capital pernambucana, em Recife, mais de 600 mulheres do MST, da 
 <p>&nbsp;</p>
 
 <p><strong>BA</strong></p>
-
-<p>&nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="2015mulheresBA2.jpg" src="http://farm9.staticflickr.com/8633/16146836733_d26aeaae2c_b.jpg" />
 <figcaption>Seis mil Sem Terra marcham at&eacute; a capital Salvador (BA).</figcaption>
@@ -194,11 +195,13 @@ Na segunda, na capital pernambucana, em Recife, mais de 600 mulheres do MST, da 
 
 <p>&nbsp;</p>
 
-<p>&nbsp;
+<p>&nbsp;</p>
+
 <figure class="image"><img alt="2015mulheresES.jpg" src="http://farm8.staticflickr.com/7633/16146273083_b43f796e3d_b.jpg" />
 <figcaption>No Esp&iacute;rito Santo, centenas de mulheres de diversas organiza&ccedil;&otilde;es do campo trancaram a rodovia ES 25</figcaption>
 </figure>
-</p>
+
+<p>&nbsp;</p>
 
 <p><strong>ES</strong></p>
 
