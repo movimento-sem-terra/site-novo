@@ -65,7 +65,7 @@ releated_posts:
 Na manh&atilde; desta ter&ccedil;a-feira (10), cerca de 800 mulheres camponesas do MST e do Movimento dos Atingidos por Barragens (MAB) ocupam a sede da multinacional israelense Adama, em Taquari, no Rio Grande do Sul.</p>
 
 <p><br />
-A mobiliza&ccedil;&atilde;o faz parte da Jornada Nacional de Lutas das Mulheres Camponesas da Via Campesina em defesa da soberania alimentar, contra a viol&ecirc;ncia e o modelo do agroneg&oacute;cio na agricultura, considerado pelos movimentos prejudicial &agrave; vida das mulheres camponesas.</p>
+A mobiliza&ccedil;&atilde;o faz parte da Jornada Nacional de Lutas das Mulheres Camponesas da Via Campesina em defesa da soberania alimentar, contra a viol&ecirc;ncia e o modelo do agroneg&oacute;cio na agricultura, considerado pelos movimentos prejudicial &agrave; vida das mulheres camponesas.&nbsp;Ao longo desta segunda-feira (9), mais de 15.000 mulheres participaram das a&ccedil;&otilde;es em 15 estados brasileiros, com marchas, ocupa&ccedil;&otilde;es e trancamento de rodovias.&nbsp;</p>
 
 <p>&nbsp;</p>
 
