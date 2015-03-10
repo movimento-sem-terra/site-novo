@@ -7,7 +7,7 @@ tags:
 title: Sem Terra ocupam Bancos do Brasil e do Nordeste em Alagoas
 support_line: "Os camponeses exigem agilidade no Programa de Habitação Rural e criticam o Pronaf, que não contempla as necessidades das famílias assentadas."
 menu: lutas e mobilizações
-section: cover
+section: null
 layout: post
 files:
   - link: "http://farm8.staticflickr.com/7605/16775171085_f0818300f0_b.jpg"
