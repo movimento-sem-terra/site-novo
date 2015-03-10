@@ -27,9 +27,21 @@ files:
     small: "http://farm9.staticflickr.com/8571/16773998595_bdd83e360e_n.jpg"
     title: adama3.jpg
     $$hashKey: 02F
+  - link: "http://farm8.staticflickr.com/7654/16773127062_01df9d3440_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7654/16773127062_01df9d3440_t.jpg"
+    medium: "http://farm8.staticflickr.com/7654/16773127062_01df9d3440_z.jpg"
+    small: "http://farm8.staticflickr.com/7654/16773127062_01df9d3440_n.jpg"
+    title: adama6.jpg
+    $$hashKey: 0GR
+  - link: "http://farm8.staticflickr.com/7610/16773128572_73bfae4be9_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7610/16773128572_73bfae4be9_t.jpg"
+    medium: "http://farm8.staticflickr.com/7610/16773128572_73bfae4be9_z.jpg"
+    small: "http://farm8.staticflickr.com/7610/16773128572_73bfae4be9_n.jpg"
+    title: adama4.jpg
+    $$hashKey: 0GU
 created_date: "2015-03-10T08:22:52-03:00"
 published: true
-images_hd: "http://farm9.staticflickr.com/8732/16566731267_5361a8be1c_n.jpg"
+images_hd: "http://farm8.staticflickr.com/7654/16773127062_01df9d3440_n.jpg"
 releated_posts:
   - 2015/03/2015-03-06-apos-acoes-sincronizadas-movimentos-barram-aprovacao-do-eucalipto-transgenico.md
   - 2015/03/2015-03-03-preste-a-iniciarem-suas-lutas-mulheres-camponesas-prometem-enfrentar-o-modelo-do-agronegocio.md
@@ -45,7 +57,7 @@ releated_posts:
   - 2015/03/2015-03-09-ato-unificado-celebra-dia-internacional-da-mulher-em-aracaju.md
 
 ---
-<p><img alt="adama.jpg" src="http://farm9.staticflickr.com/8732/16566731267_5361a8be1c_b.jpg" /></p>
+<p><img alt="adama6.jpg" src="http://farm8.staticflickr.com/7654/16773127062_01df9d3440_b.jpg" /></p>
 
 <p><em>Da P&aacute;gina do MST</em></p>
 
@@ -55,16 +67,16 @@ Na manh&atilde; desta ter&ccedil;a-feira (10), cerca de 800 mulheres camponesas 
 <p><br />
 A mobiliza&ccedil;&atilde;o faz parte da Jornada Nacional de Lutas das Mulheres Camponesas da Via Campesina em defesa da soberania alimentar, contra a viol&ecirc;ncia e o modelo do agroneg&oacute;cio na agricultura, considerado pelos movimentos prejudicial &agrave; vida das mulheres camponesas.</p>
 
-<p><br />
-&ldquo;Em contraponto ao agroneg&oacute;cio que n&atilde;o produz alimentos, destr&oacute;i a biodiversidade e contamina os alimentos, com o uso intensivo de agrot&oacute;xicos, defendemos a agricultura camponesa para a produ&ccedil;&atilde;o de alimentos saud&aacute;veis, sem venenos e a preserva&ccedil;&atilde;o da vida das camponesas e camponeses&rdquo;, denuncia a dirigente estadual do setor de g&ecirc;nero do MST, Arlete Bulc&atilde;o.</p>
-
 <p>&nbsp;</p>
 
-<figure class="image" style="float:right"><img alt="adama2.jpg" src="http://farm9.staticflickr.com/8657/16772919732_2b09554dc9_b.jpg" />
+<figure class="image" style="float:right"><img alt="adama4.jpg" src="http://farm8.staticflickr.com/7610/16773128572_73bfae4be9_b.jpg" />
 <figcaption></figcaption>
 </figure>
 
-<p>A multinacional Adama &eacute; uma das maiores empresas de agroqu&iacute;micos do Sul do pa&iacute;s, na produ&ccedil;&atilde;o de princ&iacute;pios ativos de agrot&oacute;xicos para sementes, incluindo o veneno 2,4-D, que estava proibido no Brasil por ser cancer&iacute;geno. O 2,4D &eacute; um dos principais componentes do agente laranja, usado como arma qu&iacute;mica no Vietn&atilde;.</p>
+<p>&ldquo;Em contraponto ao agroneg&oacute;cio que n&atilde;o produz alimentos, destr&oacute;i a biodiversidade e contamina os alimentos, com o uso intensivo de agrot&oacute;xicos, defendemos a agricultura camponesa para a produ&ccedil;&atilde;o de alimentos saud&aacute;veis, sem venenos e a preserva&ccedil;&atilde;o da vida das camponesas e camponeses&rdquo;, denuncia a dirigente estadual do setor de g&ecirc;nero do MST, Arlete Bulc&atilde;o.</p>
+
+<p><br />
+A multinacional Adama &eacute; uma das maiores empresas de agroqu&iacute;micos do Sul do pa&iacute;s, na produ&ccedil;&atilde;o de princ&iacute;pios ativos de agrot&oacute;xicos para sementes, incluindo o veneno 2,4-D, que estava proibido no Brasil por ser cancer&iacute;geno. O 2,4D &eacute; um dos principais componentes do agente laranja, usado como arma qu&iacute;mica no Vietn&atilde;.</p>
 
 <p><br />
 As camponesas denunciam o uso intensivo de agrot&oacute;xicos pelo agroneg&oacute;cio, que transformou o Brasil hoje no maior consumidor de venenos do mundo, com mais de um bilh&atilde;o de litros despejados nas terras e &aacute;guas brasileiras. Denunciam ainda o envenenamento dos alimentos consumidos pela popula&ccedil;&atilde;o e, conforme pesquisas da Fiocruz, causa doen&ccedil;as como depress&atilde;o, m&aacute; forma&ccedil;&atilde;o em fetos, c&acirc;ncer e infertilidade.</p>
@@ -84,8 +96,15 @@ As pesquisas tamb&eacute;m apontam que as mulheres camponesas t&ecirc;m mais dif
 <p><br />
 Paralelo &agrave; a&ccedil;&atilde;o na multinacional, a partir das 11h, 300 mulheres de movimentos do campo e da cidade realizam um ato p&uacute;blico na Pra&ccedil;a Matriz de Porto Alegre, em denuncia &agrave; viol&ecirc;ncia contra as mulheres e cobran&ccedil;a a implementa&ccedil;&atilde;o da Lei do Feminic&iacute;dio, sancionada ontem pela presidenta Dilma Rousseff. Em seguida, por volta das 13h30, as mulheres tamb&eacute;m participam de uma Audi&ecirc;ncia P&uacute;blica para denunciar o uso de agrot&oacute;xicos e a viol&ecirc;ncia contra a mulher, na Assembleia Legislativa.</p>
 
-<p><br />
-A Lei do Feminic&iacute;dio prev&ecirc; penas que podem variar de 12 a 30 anos de pris&atilde;o e torna mais dura a pena de homic&iacute;dios cometidos contra mulheres por motivo de discrimina&ccedil;&atilde;o de g&ecirc;nero ou viol&ecirc;ncia dom&eacute;stica.</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="adama2.jpg" src="http://farm9.staticflickr.com/8657/16772919732_2b09554dc9_b.jpg" />
+<figcaption></figcaption>
+</figure>
+
+<p>A Lei do Feminic&iacute;dio prev&ecirc; penas que podem variar de 12 a 30 anos de pris&atilde;o e torna mais dura a pena de homic&iacute;dios cometidos contra mulheres por motivo de discrimina&ccedil;&atilde;o de g&ecirc;nero ou viol&ecirc;ncia dom&eacute;stica.</p>
 
 <p><br />
 A partir das 9h, dezenas de trabalhadoras desempregadas do MTD de Eldorado do Sul tamb&eacute;m realizam uma caminhada no centro da cidade para denunciar a falta de creche e de educa&ccedil;&atilde;o infantil para os filhos e filhas de trabalhadores, e reivindicar a implementa&ccedil;&atilde;o de pol&iacute;ticas p&uacute;blicas para as mulheres do munic&iacute;pio.</p>
+
+<p><img alt="adama.jpg" src="http://farm9.staticflickr.com/8732/16566731267_5361a8be1c_b.jpg" /></p>
