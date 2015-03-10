@@ -3,7 +3,7 @@ date: "2015-03-10T12:41:40-03:00"
 tags:
   - tag: jornada-de-luta-das-mulheres-2015
   - tag: lutas-e-mobilizações
-title: Ações já chegam em 18 estados e mobilizam mais de 20 mil Sem Terra.
+title: Ações já chegam em 18 estados e mobilizam mais de 20 mil Sem Terra
 support_line: "As ações fazem parte da Jornada Nacional de Lutas das Mulheres Camponesas, em que denunciam o modelo do agronegócio."
 menu: lutas e mobilizações
 layout: post
@@ -154,9 +154,11 @@ Na segunda, na capital pernambucana, em Recife, mais de 600 mulheres do MST, da 
 <p><br />
 <strong>Bsb</strong></p>
 
-<p>&nbsp;
+<p>&nbsp;</p>
+
 <p>Em Luzi&acirc;nia, entorno de Bras&iacute;lia, cerca de 800 mulheres organizadas pela Via Campesina ocuparam a multinacional Bunge. Segundo as mulheres, a Bunge &eacute; uma das empresas transnacionais que representa o capital estrangeiro na agricultura.</p>
-</p>
+
+<p>&nbsp;</p>
 
 <p><br />
 <strong>BA</strong></p>
@@ -174,9 +176,11 @@ Na segunda, na capital pernambucana, em Recife, mais de 600 mulheres do MST, da 
 
 <p>&nbsp;</p>
 
-<p>&nbsp;
+<p>&nbsp;</p>
+
 <p><strong>MT</strong></p>
-</p>
+
+<p>&nbsp;</p>
 
 <p>No Mato Grosso, depois de marcharem pelo munic&iacute;pio de C&aacute;ceres na manh&atilde; desta segunda-feira (9), cerca de 300 mulheres do MST ocuparam a Fazenda Rancho Verde no mesmo munic&iacute;pio, a 220 km de Cuiab&aacute;.</p>
 
@@ -226,9 +230,11 @@ Na segunda, na capital pernambucana, em Recife, mais de 600 mulheres do MST, da 
 
 <p>&nbsp;</p>
 
-<p>&nbsp;
+<p>&nbsp;</p>
+
 <p><strong>PA</strong></p>
-</p>
+
+<p>&nbsp;</p>
 
 <p>Na Par&aacute;, as Mulheres do MST realizam atividades desde o dia 5 de mar&ccedil;o. Na ocasi&atilde;o, as Sem Terra, junto a outros representantes de movimentos sociais, militantes de partidos de esquerda realizaram um ato p&uacute;blico em apoio &agrave; Venezuela e o lan&ccedil;amento do v&iacute;deo &ldquo;Meu Amigo Hugo&rdquo;, do diretor de Oliver Stone, que narra a vida do ex-presidente venezuelano Hugo Ch&aacute;vez, no Cine Olympia, em Bel&eacute;m.</p>
 
