@@ -44,7 +44,9 @@ releated_posts:
 Cerca de 420 mulheres do MST e militantes do Levante Popular da Juventude ocuparam a sede da Empresa Vale, no porto da ponta da Madeira em S&atilde;o Lu&iacute;s (MA), uma &aacute;rea em expans&atilde;o voltada para atender o mercado da minera&ccedil;&atilde;o.</p>
 
 <p><br />
-A a&ccedil;&atilde;o denunciou os impactos socioambientais provocados pela duplica&ccedil;&atilde;o do complexo mina-ferrovia-porto.<br />
+A a&ccedil;&atilde;o denunciou os impactos socioambientais provocados pela duplica&ccedil;&atilde;o do complexo mina-ferrovia-porto.</p>
+
+<p><br />
 Segundo os Sem Terra, o projeto tem agredido violentamente aos povos e comunidades tradicionais, acampamentos e assentamentos da Reforma Agr&aacute;ria a partir do saque dos bens naturais, desrespeito aos direitos humanos, apropria&ccedil;&atilde;o, especula&ccedil;&atilde;o e concentra&ccedil;&atilde;o de terras.</p>
 
 <p><br />
