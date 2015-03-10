@@ -1,6 +1,6 @@
 $(document).ready(function() {
 
-  var updateTimiline = function(element) {
+  var updateTimeline = function(element) {
     var pageCenter = $(document).width() / 2;
     var entryCenter = element.offset().left + (element.outerWidth() / 2);
     var timelineLeft = $('.timeline').offset().left;
@@ -18,17 +18,24 @@ $(document).ready(function() {
 
   };
 
-  $('.entry').click(function(e) {
-    e.preventDefault();
-    var entry = $(this);
-    var period = entry.attr("href");
-
+  var updateContent = function(element) {
+    var period = element.attr("href");
     $.get( period + "/content.html" , function( data ) {
       $("#content").html( data );
-      updateTimiline(entry);
+      updateTimeline(element);
     });
+  };
 
+  $('.entry').click(function(e) {
+    e.preventDefault();
+    updateContent($(this));
   });
 
-  updateTimiline($('.timeline .entry.active'));
+  $('#content').on('click', '.next-period', function(e) {
+    e.preventDefault();
+    $('.entry.active').next().click();
+    $(window).scrollTop(0);
+  });
+
+  updateTimeline($('.timeline .entry.active'));
 })
