@@ -188,36 +188,11 @@ $big: new-breakpoint(min-width $screen-big);
         }
       }
 
-      .circle {
-        float: left;
+      .icon {
         width: 150px;
         height: 150px;
-        background-color: $mst-green;
         border-radius: 50%;
-        color: white;
-        text-align: center;
-        padding: 34px;
-        display: table-cell;
-        vertical-align: middle;
         @include span-columns(3);
-
-        .month, .day {
-          border: solid 5px white;
-          display: block;
-          font-weight: 700;
-          width: 100%;
-        }
-
-        .month {
-          border-radius: 3px 3px 0 0;
-        }
-        .day {
-          font-size: 2em;
-          border-radius: 0 0 3px 3px;
-          border-top-width: 0;
-        }
-
-
       }
 
 
