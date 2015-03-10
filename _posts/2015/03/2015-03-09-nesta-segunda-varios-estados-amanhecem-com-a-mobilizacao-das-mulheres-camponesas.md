@@ -115,6 +115,9 @@ Nesta segunda-feira (9), mais de 1.500 mulheres tamb&eacute;m do MST, MCP e Fetr
 <p>Na manh&atilde; desta ter&ccedil;a-feira (10), cerca de 800 mulheres camponesas do MST e do Movimento dos Atingidos por Barragens (MAB) ocuparam a sede da multinacional israelense Adama, em Taquari, no Rio Grande do Sul. A multinacional Adama &eacute; uma das maiores empresas de agroqu&iacute;micos do Sul do pa&iacute;s, na produ&ccedil;&atilde;o de princ&iacute;pios ativos de agrot&oacute;xicos para sementes, incluindo o veneno 2,4-D, que estava proibido no Brasil por ser cancer&iacute;geno. O 2,4D &eacute; um dos principais componentes do agente laranja, usado como arma qu&iacute;mica no Vietn&atilde;.</p>
 
 <p><br />
+No final da manh&atilde;, as mesmas mulheres ocuparam a sede do Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra), em Porto Alegre. As camponesas seguem no &oacute;rg&atilde;o federal at&eacute; esta quarta, quando saem em marcha pela capital com outras organiza&ccedil;&otilde;es da Via Campesina, em que esperam mais de 5 mil pessoas nas ruas. &Agrave; tarde, os movimentos sociais da Via ter&atilde;o uma agenda com o governador do estado, Jos&eacute; Ivo Sartori (PMDB)</p>
+
+<p><br />
 <strong>AL</strong></p>
 
 <p>Cerca de 2 mil trabalhadores e trabalhadoras rurais Sem Terra ocupam na manh&atilde; desta ter&ccedil;a-feira (10) ag&ecirc;ncias do Banco do Brasil e do Banco do Nordeste, na capital Macei&oacute; e no Sert&atilde;o, nos munic&iacute;pios de Delmiro Gouveia e Piranhas, em Alagoas.</p>
@@ -140,6 +143,13 @@ Na segunda, na capital pernambucana, em Recife, mais de 600 mulheres do MST, da 
 <strong>CE</strong></p>
 
 <p>Em Fortaleza, no Cear&aacute;, 500 trabalhadores rurais ocuparam outra ag&ecirc;ncia do BNB, nesta ter&ccedil;a. J&aacute; na segunda, em Quixeramobim, cerca de 300 mulheres do MST e da Federa&ccedil;&atilde;o dos Trabalhadores na Agricultura do Estado do Cear&aacute; (Fetraece) realizaram uma marcha pelas ruas do munic&iacute;pio contra o agroneg&oacute;cio e a viol&ecirc;ncia contra as mulheres. Na sequ&ecirc;ncia, as camponesas ocuparam a Assembleia Legislativa, onde homenagearam as diversas lutadoras, em especial, Maria Lima, uma das fundadoras do Movimento no estado. No per&iacute;odo da tarde, elas se reunir&atilde;o para um curso de forma&ccedil;&atilde;o destinado somente &agrave;s mulheres.</p>
+
+<p><br />
+<strong>SE</strong></p>
+
+<p>Na cidade de Aracaju, 400 Sem Terra ocuparam uma ag&ecirc;ncia do Banco do Brasil e outra do BNB, nesta ter&ccedil;a. No per&iacute;odo da tarde, representantes do MST seguem em reuni&atilde;o com os superintendentes dos bancos. Na ter&ccedil;a, tamb&eacute;m na capital, cerca de 600 mulheres do MST, Movimento dos Trabalhadores Urbanos (MOTU), Movimento Campon&ecirc;s Popular (MCP) S&iacute;ntese, Casa das Dom&eacute;sticas e Marcha Mundial de Mulheres sa&iacute;ram as ruas da capital em comemora&ccedil;&atilde;o ao dia internacional das mulheres.</p>
+
+<p>&nbsp;</p>
 
 <p><br />
 <strong>Bsb</strong></p>
@@ -195,8 +205,6 @@ Na segunda, cerca de 420 mulheres do MST e militantes do Levante Popular da Juve
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
-
 <figure class="image"><img alt="2015mulheresES.jpg" src="http://farm8.staticflickr.com/7633/16146273083_b43f796e3d_b.jpg" />
 <figcaption>No Esp&iacute;rito Santo, centenas de mulheres de diversas organiza&ccedil;&otilde;es do campo trancaram a rodovia ES 25</figcaption>
 </figure>
@@ -207,19 +215,14 @@ Na segunda, cerca de 420 mulheres do MST e militantes do Levante Popular da Juve
 
 <p>No Esp&iacute;rito Santo, cerca de 1.000 mulheres de diversas organiza&ccedil;&otilde;es do campo realizaram uma marcha pela cidade de Colatina. Durante a a&ccedil;&atilde;o as camponesas bloquearam a rodovia ES 259, em dire&ccedil;&atilde;o &agrave; capital. Outras 100 fam&iacute;lias ocuparam a Fazenda Nossa Senhora da Concei&ccedil;&atilde;o, pr&oacute;ximo a Linhares.</p>
 
-<p><br />
-<strong>SE</strong></p>
-
-<p>Em Aracaju (SE), cerca de 600 mulheres do MST, Movimento dos Trabalhadores Urbanos (MOTU), Movimento Campon&ecirc;s Popular (MCP) S&iacute;ntese, Casa das Dom&eacute;sticas e Marcha Mundial de Mulheres sa&iacute;ram as ruas da capital em comemora&ccedil;&atilde;o ao dia internacional das mulheres.</p>
-
-<figure class="image"><img alt="2015mulheresSE.jpg" src="http://farm8.staticflickr.com/7654/16579247378_af26bfe163_b.jpg" />
-<figcaption>Marcha em Aracaju reuniu cerca de 600 mulheres de diversos movimentos sociais.</figcaption>
-</figure>
+<p>&nbsp;</p>
 
 <p><br />
 <strong>PI</strong></p>
 
+<p>&nbsp;
 <p>O bal&atilde;o da BR 316, na cidade de Picos, no Piau&iacute;, se converteu numa grande escola, chamada &ldquo;escola do asfalto&rdquo;, organizada pelo Movimento dos Pequenos Agricultores (MPA) e o Levante Popular da Juventude. O objetivo foi denunciar o sucateamento das escolas no campo nos &uacute;ltimos anos, quando foram fechadas mais de 37 mil escolas na zona rural.</p>
+</p>
 
 <p><br />
 <strong>TO</strong></p>
