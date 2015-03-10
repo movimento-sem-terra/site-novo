@@ -137,6 +137,11 @@ Na noite de domingo (8), em Macei&oacute;, as mulheres ocuparam a sede da superi
 Na segunda, na capital pernambucana, em Recife, mais de 600 mulheres do MST, da Pastoral da Juventude Rural (PJR), Comiss&atilde;o Pastoral da Terra (CPT), Levante Popular da Juventude e Marcha Mundial das Mulheres (MMM) ocuparam a sede do Minist&eacute;rio da Agricultura e a Secretaria de Agricultura do Estado.</p>
 
 <p><br />
+<strong>CE</strong></p>
+
+<p>Em Fortaleza, no Cear&aacute;, 500 trabalhadores rurais ocuparam outra ag&ecirc;ncia do BNB, nesta ter&ccedil;a. J&aacute; na segunda, em Quixeramobim, cerca de 300 mulheres do MST e da Federa&ccedil;&atilde;o dos Trabalhadores na Agricultura do Estado do Cear&aacute; (Fetraece) realizaram uma marcha pelas ruas do munic&iacute;pio contra o agroneg&oacute;cio e a viol&ecirc;ncia contra as mulheres. Na sequ&ecirc;ncia, as camponesas ocuparam a Assembleia Legislativa, onde homenagearam as diversas lutadoras, em especial, Maria Lima, uma das fundadoras do Movimento no estado. No per&iacute;odo da tarde, elas se reunir&atilde;o para um curso de forma&ccedil;&atilde;o destinado somente &agrave;s mulheres.</p>
+
+<p><br />
 <strong>Bsb</strong></p>
 
 <p>No Distrito Federal, nesta ter&ccedil;a-feira, cerca de 500 mulheres fizeram ato no Minist&eacute;rio da Agricultura em den&uacute;ncia ao agroneg&oacute;cio, que atenta contra a vida de milhares de mulheres em todo o pa&iacute;s. Nesta segunda, em Luzi&acirc;nia, entorno de Bras&iacute;lia, cerca de 800 mulheres organizadas pela Via Campesina ocuparam a multinacional Bunge. Segundo as mulheres, a Bunge &eacute; uma das empresas transnacionais que representa o capital estrangeiro na agricultura.</p>
@@ -155,9 +160,11 @@ Na segunda, na capital pernambucana, em Recife, mais de 600 mulheres do MST, da 
 
 <p>O estado do Paran&aacute; com foi palco de diversas lutas protagonizadas pelas mulheres do campo, em v&aacute;rias regi&otilde;es do estado, nesta segunda-feira (9). Na regi&atilde;o centro, cerca de 700 mulheres de diversos assentamentos e acampamentos do MST, do Movimento dos Pequenos Agricultores (MPA) e da Via Campesina ocuparam a BR 277 junto a pra&ccedil;a de ped&aacute;gio de Nova Laranjeiras. Depois, mulheres tamb&eacute;m realizaram um ato em frente ao N&uacute;cleo Regional da Educa&ccedil;&atilde;o em Laranjeiras do Sul. Outras 200 mulheres do MST ocuparam a prefeitura de Cascavel, oeste do estado, para entrega de pautas como educa&ccedil;&atilde;o, sa&uacute;de e infraestrutura.</p>
 
-<p>&nbsp;
+<p>&nbsp;</p>
+
 <p><strong>BA</strong></p>
-</p>
+
+<p>&nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="2015mulheresBA2.jpg" src="http://farm9.staticflickr.com/8633/16146836733_d26aeaae2c_b.jpg" />
 <figcaption>Seis mil Sem Terra marcham at&eacute; a capital Salvador (BA).</figcaption>
@@ -185,16 +192,13 @@ Na segunda, na capital pernambucana, em Recife, mais de 600 mulheres do MST, da 
 
 <p>No Rio Grande do Norte, as mulheres Sem Terra trancaram cinco rodovias, na regi&atilde;o de Jo&atilde;o C&acirc;mara. Cada travamento contou com cerca de 200 camponesas. Na ter&ccedil;a-feira (10), elas se somar&atilde;o a outros integrantes do Movimento e seguir&atilde;o para sede do Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra) para discutir pautas relacionadas aos assentamentos da regi&atilde;o, como a constru&ccedil;&atilde;o de escolas e postos de sa&uacute;de.&nbsp;&nbsp;</p>
 
-<p><br />
-<strong>CE</strong></p>
-
-<p>Em Quixeramobim, no Cear&aacute;, cerca de 300 mulheres do MST e da Federa&ccedil;&atilde;o dos Trabalhadores na Agricultura do Estado do Cear&aacute; (Fetraece) realizaram uma marcha pelas ruas do munic&iacute;pio contra o agroneg&oacute;cio e a viol&ecirc;ncia contra as mulheres. Na sequ&ecirc;ncia, as camponesas ocuparam a Assembleia Legislativa, onde homenagearam as diversas lutadoras, em especial, Maria Lima, uma das fundadoras do Movimento no estado. No per&iacute;odo da tarde, elas se reunir&atilde;o para um curso de forma&ccedil;&atilde;o destinado somente &agrave;s mulheres.</p>
-
 <p>&nbsp;</p>
 
+<p>&nbsp;
 <figure class="image"><img alt="2015mulheresES.jpg" src="http://farm8.staticflickr.com/7633/16146273083_b43f796e3d_b.jpg" />
 <figcaption>No Esp&iacute;rito Santo, centenas de mulheres de diversas organiza&ccedil;&otilde;es do campo trancaram a rodovia ES 25</figcaption>
 </figure>
+</p>
 
 <p><strong>ES</strong></p>
 
