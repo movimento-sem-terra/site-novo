@@ -74,6 +74,18 @@ files:
     small: "http://farm9.staticflickr.com/8714/16784041122_97c6d8ac09_n.jpg"
     title: 2015mulheresBAmarcha.jpg
     $$hashKey: 0A3
+  - link: "http://farm9.staticflickr.com/8637/16786790712_41f0050fd7_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8637/16786790712_41f0050fd7_t.jpg"
+    medium: "http://farm9.staticflickr.com/8637/16786790712_41f0050fd7_z.jpg"
+    small: "http://farm9.staticflickr.com/8637/16786790712_41f0050fd7_n.jpg"
+    title: "Jornada de Lutas em Defesa da RA MG!.jpg"
+    $$hashKey: 07D
+  - link: "http://farm8.staticflickr.com/7590/16787898965_3ff9f34d1a_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7590/16787898965_3ff9f34d1a_t.jpg"
+    medium: "http://farm8.staticflickr.com/7590/16787898965_3ff9f34d1a_z.jpg"
+    small: "http://farm8.staticflickr.com/7590/16787898965_3ff9f34d1a_n.jpg"
+    title: "2015alagoasjornada2!.jpg"
+    $$hashKey: 07G
 created_date: "2015-03-09T09:49:28-03:00"
 published: true
 images_hd: "http://farm9.staticflickr.com/8714/16784041122_97c6d8ac09_n.jpg"
@@ -108,12 +120,23 @@ Os trabalhadores rurais denunciam o modelo do agroneg&oacute;cio no campo brasil
 <strong>Lutas desta quarta-feira</strong></p>
 
 <p><br />
+<strong>SP</strong></p>
+
+<p>Na cidade de Ribeir&atilde;o Preto, em S&atilde;o Paulo, 200 Sem Terra ocuparam no in&iacute;cio da tarde uma usina na regi&atilde;o de Serrana. Os propriet&aacute;rios da usina sonegaram cerca de R$ 300 milh&otilde;es sobre o Imposto sobre Circula&ccedil;&atilde;o de Mercadorias e Servi&ccedil;os (ICMS). No munic&iacute;pio de Itapeva, cerca de 100 trabalhadores rurais trancaram a rodovia Francisco Alves Negr&atilde;o. Os Sem Terra reivindicaram a assist&ecirc;ncia t&eacute;cnica para as 500 fam&iacute;lias assentadas da regi&atilde;o, al&eacute;m da desburocratiza&ccedil;&atilde;o na libera&ccedil;&atilde;o e garantia de acesso a cr&eacute;ditos para os rec&eacute;m assentados.</p>
+
+<p><br />
 <strong>DF</strong></p>
 
 <p>No Distrito Federal, aproximadamente 100 fam&iacute;lias ocuparam a Fazenda Adeluca. A &aacute;rea improdutiva &eacute; de propriedade da Terracap, e o Movimento reivindica sua desapropria&ccedil;&atilde;o para fins de Reforma Agr&aacute;ria.</p>
 
 <p><br />
-<strong>PB</strong></p>
+&nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="2015alagoasjornada2!.jpg" src="http://farm8.staticflickr.com/7590/16787898965_3ff9f34d1a_b.jpg" />
+<figcaption>Em AL, 4 mil marcharam pelas ruas da capital.</figcaption>
+</figure>
+
+<p><strong>PB</strong></p>
 
 <p>Na Para&iacute;ba, as mulheres do MST trancaram outras cinco rodovias em diferentes regi&otilde;es do estado. As estradas trancadas foram a PB 364, que liga Patos ao Vale do Pianc&oacute;; a BR 104, que liga Caruaru, munic&iacute;pio de Queimadas; a BR 104, que liga Rem&iacute;gio a Barra de Santa Rosa;&nbsp;&nbsp;&nbsp; a BR 101, sentido Jo&atilde;o Pessoa a Recife; e a BR 230, sentido Campina Grande ao Sert&atilde;o.</p>
 
@@ -131,7 +154,13 @@ Os trabalhadores rurais denunciam o modelo do agroneg&oacute;cio no campo brasil
 A mobiliza&ccedil;&atilde;o reivindica a realiza&ccedil;&atilde;o da Reforma Agr&aacute;ria Popular, a garantia da soberania alimentar, o reconhecimento dos direitos dos atingidos por barragens e a cria&ccedil;&atilde;o de pol&iacute;ticas p&uacute;blicas para a agricultura camponesa.</p>
 
 <p><br />
-<strong>AL</strong></p>
+&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="Jornada de Lutas em Defesa da RA MG!.jpg" src="http://farm9.staticflickr.com/8637/16786790712_41f0050fd7_b.jpg" />
+<figcaption>Em MG, mais de 2 mil se mobilizaram em todo o estado.</figcaption>
+</figure>
+
+<p><strong>AL</strong></p>
 
 <p>Na capital de Alagoas, em Macei&oacute;, outros 4 mil trabalhadores e trabalhadoras rurais Sem Terra de todo o estado, organizados no MST, Comiss&atilde;o Pastoral da Terra (CPT), Movimento de Liberta&ccedil;&atilde;o dos Sem Terra (MLST), e Movimento Terra Trabalho E Liberdade (MTL), tamb&eacute;m est&atilde;o em marcha.</p>
 
@@ -160,7 +189,7 @@ Em rela&ccedil;&atilde;o &agrave;s terras, o MST exige a desapropria&ccedil;&ati
 <p><br />
 <strong>MG</strong></p>
 
-<p>Na Zona da Mata, em Minas Gerais, o MST trancou BR 120, pr&oacute;ximo ao km 669, na manh&atilde; desta quarta-feira (11). A a&ccedil;&atilde;o integra a jornada nacional de lutas em defesa da Reforma Agr&aacute;ria, com objetivo de denunciar a paralisia da Reforma Agr&aacute;ria.</p>
+<p>Mais de 3 mil trabalhadoras e trabalhadores rurais Sem Terra realizam manifesta&ccedil;&otilde;es em todo o estado de Minas Gerais nesta quarta-feira (11). Na Zona da Mata, em Minas Gerais, o MST trancou BR 120, pr&oacute;ximo ao km 669, na manh&atilde; desta quarta-feira (11). A a&ccedil;&atilde;o integra a jornada nacional de lutas em defesa da Reforma Agr&aacute;ria, com objetivo de denunciar a paralisia da Reforma Agr&aacute;ria.</p>
 
 <p><br />
 <strong>SC</strong></p>
