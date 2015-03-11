@@ -4,7 +4,7 @@ tags:
   - tag: lutas-e-mobilizações
   - tag: jornada-de-luta-2015
   - tag: petrobrás
-title: Jornada de lutas leva milhares de pessoas às ruas durante o mês de março
+title: Jornadas de luta levam milhares de pessoas às ruas no mês de março
 support_line: "As ações se desembocarão nas mobilizações do dia 13 de março, em defesa da Petrobras, da reforma política e dos direitos trabalhistas."
 menu: lutas e mobilizações
 section: cover
@@ -60,9 +60,7 @@ releated_posts:
   - 2015/03/2015-03-11-camponeses-fecham-principais-rodovias-no-rio-de-janeiro.md
 
 ---
-<p><br />
-<br />
-&nbsp;</p>
+<p>&nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="2015mulhersBAmarcha3.jpg" src="http://farm9.staticflickr.com/8645/16597053128_c7ab8e6ee5_b.jpg" />
 <figcaption>Marcha na Bahia leva 6 mil Sem Terra, e chega a capital na segunda.</figcaption>
