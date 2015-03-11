@@ -93,7 +93,7 @@ section: featured-news
 <p><em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Nesta quarta-feira (11), milhares de Sem Terra continuam realizando a&ccedil;&otilde;es por todo o pa&iacute;s.At&eacute; o momento, mais de 25 mil trabalhadores rurais participaram das a&ccedil;&otilde;es em 22 estados brasileiros, com marchas, ocupa&ccedil;&otilde;es de terra, pr&eacute;dios p&uacute;blicos, bancos e trancamento de rodovias.</p>
+Nesta quarta-feira (11), milhares de Sem Terra continuam realizando a&ccedil;&otilde;es por todo o pa&iacute;s.At&eacute; o momento, mais de 30 mil trabalhadores rurais participaram das a&ccedil;&otilde;es em 22 estados brasileiros, com marchas, ocupa&ccedil;&otilde;es de terra, pr&eacute;dios p&uacute;blicos, bancos e trancamento de rodovias.</p>
 
 <p><br />
 As mobiliza&ccedil;&otilde;es aconteceram em SC, RS, MA, PR, SP, RJ, MG, BA, DF, PB, GO, AL, SE, MT, TO, RN, CE, ES, PE, PI, PA e MS.</p>
@@ -106,6 +106,21 @@ Os trabalhadores rurais denunciam o modelo do agroneg&oacute;cio no campo brasil
 
 <p><br />
 <strong>Lutas desta quarta-feira</strong></p>
+
+<p><br />
+<strong>DF</strong></p>
+
+<p>No Distrito Federal, aproximadamente 100 fam&iacute;lias ocuparam a Fazenda Adeluca. A &aacute;rea improdutiva &eacute; de propriedade da Terracap, e o Movimento reivindica sua desapropria&ccedil;&atilde;o para fins de Reforma Agr&aacute;ria.</p>
+
+<p><br />
+<strong>PB</strong></p>
+
+<p>Na Para&iacute;ba, as mulheres do MST trancaram outras cinco rodovias em diferentes regi&otilde;es do estado. As estradas trancadas foram a PB 364, que liga Patos ao Vale do Pianc&oacute;; a BR 104, que liga Caruaru, munic&iacute;pio de Queimadas; a BR 104, que liga Rem&iacute;gio a Barra de Santa Rosa;&nbsp;&nbsp;&nbsp; a BR 101, sentido Jo&atilde;o Pessoa a Recife; e a BR 230, sentido Campina Grande ao Sert&atilde;o.</p>
+
+<p><br />
+<strong>SE</strong></p>
+
+<p>Em Sergipe, os camponeses trancaram outras seis BRs e rodovias estaduais na cidade de Aracaju.</p>
 
 <p><br />
 <strong>RS</strong></p>
@@ -157,10 +172,10 @@ Em rela&ccedil;&atilde;o &agrave;s terras, o MST exige a desapropria&ccedil;&ati
 
 <p>Em Pernambuco cerca de 2 mil Sem Terra trancaram 8 rodovias em todo o estado. como a Belo Jardim, BR 104 que liga Agrestina a Cupira, Pedrol&acirc;ndia, Paud&#39;Alho, Moreno, BR101 no norte do Estado e a BR 428 que liga Petrolina a Juazeiro. No final da tarde os Sem Terra seguem para uma reuni&atilde;o com o governador do estado, onde ser&atilde;o tratadas pautas relacionadas ao fortalecimento da agroind&uacute;stria no estado, bem como o desenvolvimento dos assentamentos e o investimento em infraestrutura. Os Sem Terra tamb&eacute;m reivindicam a o fechamento de escolas do campo na regi&atilde;o.</p>
 
-<p>&nbsp;</p>
+<p><br />
+<strong>RN</strong></p>
 
-<p>Em Natal, cerca de 400 Sem Terra ocuparam uma agencia da Caixa Econ&ocirc;mica Federal na capital do estado na manha desta quarta-feira.<br />
-No momento uma grupo formado por mulheres do Movimento est&atilde;o em reuni&atilde;o com o superintendente da Caixa no estado. Entre as pautas discutidas est&atilde;o o financiamento rural e o incentivo &agrave; agroindustria.</p>
+<p>Em Natal, cerca de 400 Sem Terra ocuparam uma agencia da Caixa Econ&ocirc;mica Federal na capital do estado na manha desta quarta-feira.</p>
 
 <p>&nbsp;</p>
 
