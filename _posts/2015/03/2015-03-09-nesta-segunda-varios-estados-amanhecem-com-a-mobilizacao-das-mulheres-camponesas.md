@@ -3,7 +3,7 @@ date: "2015-03-10T12:41:40-03:00"
 tags:
   - tag: jornada-de-luta-das-mulheres-2015
   - tag: lutas-e-mobilizações
-title: Ações já chegam em 21 estados e mobilizam mais de  20 mil Sem Terra
+title: Ações já chegam em 22 estados e mobilizam mais de 30 mil Sem Terra
 support_line: "As ações fazem parte da Jornada Nacional de Lutas das Mulheres Camponesas, em que denunciam o modelo do agronegócio."
 menu: lutas e mobilizações
 layout: post
@@ -88,19 +88,85 @@ releated_posts:
 section: featured-news
 
 ---
-<p><img alt="2015mulheresbsb.jpg" src="http://farm8.staticflickr.com/7615/16556884717_69090ea5f7_b.jpg" /></p>
+<p><img alt="2015mulheresBAmarcha.jpg" src="http://farm9.staticflickr.com/8714/16784041122_97c6d8ac09_b.jpg" /></p>
+
+<p><em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
-<em>Da P&aacute;gina do MST</em></p>
+Nesta quarta-feira (11), milhares de Sem Terra continuam realizando a&ccedil;&otilde;es por todo o pa&iacute;s.At&eacute; o momento, mais de 25 mil trabalhadores rurais participaram das a&ccedil;&otilde;es em 22 estados brasileiros, com marchas, ocupa&ccedil;&otilde;es de terra, pr&eacute;dios p&uacute;blicos, bancos e trancamento de rodovias.</p>
 
 <p><br />
-Ao longo desta semana, o Brasil amanheceu com diversas mobiliza&ccedil;&otilde;es das mulheres camponesas. At&eacute; o momento, mais de 20 mil&nbsp;Sem Terra&nbsp;participaram das a&ccedil;&otilde;es em 21&nbsp;estados brasileiros, com marchas, ocupa&ccedil;&otilde;es e trancamento de rodovias.</p>
+As mobiliza&ccedil;&otilde;es aconteceram em SC, RS, MA, PR, SP, RJ, MG, BA, DF, PB, GO, AL, SE, MT, TO, RN, CE, ES, PE, PI, PA e MS.</p>
 
 <p><br />
-As mobiliza&ccedil;&otilde;es aconteceram em RS, MA, PR, SP, RJ, MG, BA, DF, PB, GO, AL, SE, MT, TO, RN, CE, ES, PE, PI, PA e&nbsp;MS.&nbsp;</p>
+As a&ccedil;&otilde;es iniciaram com a Jornada Nacional de Lutas das Mulheres Camponesas, entre os dias 4 a 9 de mar&ccedil;o. Logo na sequ&ecirc;ncia, os Sem Terra j&aacute; emendaram as mobiliza&ccedil;&otilde;es com a Jornada Unit&aacute;ria do Campo.</p>
 
 <p><br />
-As a&ccedil;&otilde;es fazem parte da Jornada Nacional de Lutas das Mulheres Camponesas, em que denunciam o modelo do agroneg&oacute;cio no campo brasileiro e prop&otilde;em a agroecologia como alternativa ao capital estrangeiro na agricultura.</p>
+Os trabalhadores rurais denunciam o modelo do agroneg&oacute;cio no campo brasileiro e prop&otilde;em a agroecologia como alternativa ao capital estrangeiro na agricultura.</p>
+
+<p><br />
+<strong>Lutas desta quarta-feira</strong></p>
+
+<p><br />
+<strong>RS</strong></p>
+
+<p>Somente nesta quarta, cerca de 4 mil camponeses da Via Campesina marcham pelas ruas de Porto Alegre. A caminhada segue do Monumento do La&ccedil;ador at&eacute; o centro de Porto Alegre, onde &agrave; tarde est&atilde;o previstas negocia&ccedil;&otilde;es com o governador do estado, Jos&eacute; Ivo Sartori (PMDB) junto a v&aacute;rias secretarias estaduais.</p>
+
+<p><br />
+A mobiliza&ccedil;&atilde;o reivindica a realiza&ccedil;&atilde;o da Reforma Agr&aacute;ria Popular, a garantia da soberania alimentar, o reconhecimento dos direitos dos atingidos por barragens e a cria&ccedil;&atilde;o de pol&iacute;ticas p&uacute;blicas para a agricultura camponesa.</p>
+
+<p><br />
+<strong>AL</strong></p>
+
+<p>Na capital de Alagoas, em Macei&oacute;, outros 4 mil trabalhadores e trabalhadoras rurais Sem Terra de todo o estado, organizados no MST, Comiss&atilde;o Pastoral da Terra (CPT), Movimento de Liberta&ccedil;&atilde;o dos Sem Terra (MLST), e Movimento Terra Trabalho E Liberdade (MTL), tamb&eacute;m est&atilde;o em marcha.</p>
+
+<p><br />
+Segundo os Sem Terra, a mobiliza&ccedil;&atilde;o acontece para denunciar o agroneg&oacute;cio, fazer a defesa da Reforma Agr&aacute;ria e exigir condi&ccedil;&otilde;es de vida digna para quem vive no campo, na garantia dos direitos sociais e das infraestruturas produtivas negadas aos camponeses. Acampados desde a tarde desta ter&ccedil;a-feira (10) no pr&eacute;dio da Eletrobr&aacute;s, os camponeses organizam suas fileiras para percorrerem a Avenida Fernandes Lima, principal avenida da cidade, em dire&ccedil;&atilde;o ao Centro de Macei&oacute;.</p>
+
+<p><br />
+<strong>PR</strong></p>
+
+<p>No Paran&aacute;, cerca de 38 organiza&ccedil;&otilde;es e movimentos sociais realizam o fechamento de rodovias estaduais e federais. Dentre as pautas, os trabalhadores exigem maior agilidade na realiza&ccedil;&atilde;o da Reforma Agr&aacute;ria com o assentamento das 6 mil fam&iacute;lias acampadas.</p>
+
+<p><br />
+Chegaram a fechar as rodovias estaduais e federais de Mau&aacute; da Serra, Arapongas, Jataizinho, Mandaguari, Campo Mour&atilde;o, Cascavel, Nova Laranjeiras, e Francisco Beltr&atilde;o nos trevos de Amp&eacute;re, Marmeleiro, Itapejara, e entre Dois Vizinhos e Ver&ecirc;.</p>
+
+<p><br />
+<strong>RJ</strong></p>
+
+<p>Tamb&eacute;m nesta manh&atilde;, cerca de 500 fam&iacute;lias camponesas participaram da a&ccedil;&atilde;o que interditou algumas das principais rodovias no Rio de Janeiro. O trecho na altura de Martins Lage da BR-356, que liga Campos dos Goytacazes &agrave; S&atilde;o Jo&atilde;o da Barra, no Norte Fluminense ficou fechado por cerca de 3 horas.</p>
+
+<p><br />
+Na rodovia Washington Luiz, em Duque de Caxias, depois de fechada, militantes do MST entregaram produ&ccedil;&atilde;o agr&iacute;cola para os motoristas que estavam na estrada. Agricultores tamb&eacute;m v&atilde;o para a prefeitura de Maca&eacute;, munic&iacute;pio do estado do Rio de Janeiro, apresentar a pauta de reivindica&ccedil;&atilde;o.</p>
+
+<p><br />
+Em rela&ccedil;&atilde;o &agrave;s terras, o MST exige a desapropria&ccedil;&atilde;o de algumas &aacute;reas no estado do Rio. Muitas delas j&aacute; foram declaradas improdutivas, e algumas fam&iacute;lias aguardam acampadas h&aacute; 10 anos, como &eacute; o caso do acampamento Madre Cristina, em Campos.</p>
+
+<p><br />
+<strong>MG</strong></p>
+
+<p>Na Zona da Mata, em Minas Gerais, o MST trancou BR 120, pr&oacute;ximo ao km 669, na manh&atilde; desta quarta-feira (11). A a&ccedil;&atilde;o integra a jornada nacional de lutas em defesa da Reforma Agr&aacute;ria, com objetivo de denunciar a paralisia da Reforma Agr&aacute;ria.</p>
+
+<p><br />
+<strong>SC</strong></p>
+
+<p>No munic&iacute;pio de S&atilde;o Crist&oacute;v&atilde;o do Sul, mais de mil&nbsp; trabalhadores e trabalhadoras do campo se mobilizam no trevo da BR 166 com a 470. Outros mil Sem Terra seguem em luta em S&atilde;o Miguel do Oeste e mais de mil em Chapec&oacute;.</p>
+
+<p><br />
+<strong>PE</strong></p>
+
+<p>Em Pernambuco cerca de 2 mil Sem Terra trancaram 8 rodovias em todo o estado. como a Belo Jardim, BR 104 que liga Agrestina a Cupira, Pedrol&acirc;ndia, Paud&#39;Alho, Moreno, BR101 no norte do Estado e a BR 428 que liga Petrolina a Juazeiro. No final da tarde os Sem Terra seguem para uma reuni&atilde;o com o governador do estado, onde ser&atilde;o tratadas pautas relacionadas ao fortalecimento da agroind&uacute;stria no estado, bem como o desenvolvimento dos assentamentos e o investimento em infraestrutura. Os Sem Terra tamb&eacute;m reivindicam a o fechamento de escolas do campo na regi&atilde;o.</p>
+
+<p>&nbsp;</p>
+
+<p>Em Natal, cerca de 400 Sem Terra ocuparam uma agencia da Caixa Econ&ocirc;mica Federal na capital do estado na manha desta quarta-feira.<br />
+No momento uma grupo formado por mulheres do Movimento est&atilde;o em reuni&atilde;o com o superintendente da Caixa no estado. Entre as pautas discutidas est&atilde;o o financiamento rural e o incentivo &agrave; agroindustria.</p>
+
+<p>&nbsp;</p>
+
+<p><img alt="2015mulheresbsb.jpg" src="http://farm8.staticflickr.com/7615/16556884717_69090ea5f7_b.jpg" /><br />
+<br />
+<strong>Confira as lutas dos dias anteriores:</strong></p>
 
 <p><br />
 <strong>GO</strong></p>
