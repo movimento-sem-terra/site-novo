@@ -49,42 +49,32 @@ releated_posts:
   - 2015/03/2015-03-11-camponeses-fecham-principais-rodovias-no-rio-de-janeiro.md
 
 ---
-<p>&nbsp;</p>
+<p><img alt="IMG-20150311-WA0003.jpg" src="http://farm8.staticflickr.com/7632/16784608001_ba2cce12ec_b.jpg" /></p>
 
 <p><em>Da P&aacute;gina do MST </em></p>
 
-<p>&nbsp;</p>
+<p><br />
+As mobiliza&ccedil;&otilde;es dos trabalhadores rurais Sem Terra continuam acontecendo em todo o pa&iacute;s durante esta quarta-feira (11).</p>
 
-<figure class="image" style="float:right"><img alt="unnamed.jpg" height="200" src="http://farm8.staticflickr.com/7629/16598175698_6e7f1ab71a_b.jpg" width="300" />
-<figcaption></figcaption>
-</figure>
+<p><br />
+No Distrito Federal, aproximadamente 100 fam&iacute;lias ocuparam a Fazenda Adeluca. A &aacute;rea improdutiva &eacute; de propriedade da Terracap, e o Movimento reivindica sua desapropria&ccedil;&atilde;o para fins de Reforma Agr&aacute;ria.</p>
 
-<p>Em Santa Catarina, na manh&atilde; desta quarta-feira (11), cerca de mil&nbsp; Sem Terra se mobilizaram no trevo da BR 166 com a BR 470, no munic&iacute;pio de S&atilde;o Crist&oacute;v&atilde;o do Sul.</p>
+<p><br />
+Em Natal (RN), cerca de 400 Sem Terra ocuparam uma ag&ecirc;ncia da Caixa Econ&ocirc;mica Federal na manha desta quarta.</p>
 
-<p>&nbsp;</p>
+<p><br />
+No momento um grupo formado por mulheres do Movimento est&atilde;o em reuni&atilde;o com o superintendente da Caixa. Entre as pautas discutidas est&atilde;o o financiamento rural e o incentivo &agrave; agroind&uacute;stria.</p>
 
-<p>J&aacute; na regi&atilde;o de S&atilde;o Miguel do Oeste e Chapec&oacute; mobiliza&ccedil;&otilde;es reuniram mais de dois mil Sem Terra. O objetivo das a&ccedil;&otilde;es inseridas na Jornada Unit&aacute;ria de Lutas do Movimento &eacute; tornar vis&iacute;vel a luta dos camponeses a camponesas, que s&atilde;o respons&aacute;veis pela produ&ccedil;&atilde;o de 70% dos alimentos que chegam na mesa dos brasileiros.</p>
+<p><img alt="IMG-20150311-WA0002.jpg" src="http://farm8.staticflickr.com/7635/16163438334_4c9da0d363_b.jpg" /><br />
+Em Santa Catarina cerca de mil Sem Terra se mobilizaram no trevo da BR 166 com a BR 470, no munic&iacute;pio de S&atilde;o Crist&oacute;v&atilde;o do Sul. J&aacute; na regi&atilde;o de S&atilde;o Miguel do Oeste e Chapec&oacute; mobiliza&ccedil;&otilde;es reuniram mais de 2 mil Sem Terra. O objetivo das a&ccedil;&otilde;es inseridas na Jornada Unit&aacute;ria de Lutas do Movimento &eacute; tornar vis&iacute;vel a luta dos camponeses, respons&aacute;veis pela produ&ccedil;&atilde;o de 70% dos alimentos que chegam na mesa dos brasileiros.</p>
 
-<p>&nbsp;</p>
+<p><br />
+Em Pernambuco, cerca de 2 mil Sem Terra trancaram oito rodovias em todo o estado. Fecharam a BR 104 que liga Agrestina a Cupira, BR101 no norte do Estado e a BR 428, al&eacute;m de realizarem atos e interdi&ccedil;&otilde;es nas regi&otilde;es de Pedrol&acirc;ndia, Paud&#39;Alho, Moreno,&nbsp; Belo Jardim, que liga Petrolina a Juazeiro.</p>
 
-<figure class="image" style="float:left"><img alt="IMG-20150311-WA0005.jpg" height="168" src="http://farm8.staticflickr.com/7624/16784608131_b24d62161e_b.jpg" width="300" />
-<figcaption></figcaption>
-</figure>
+<p><br />
+No final da tarde os manifestantes seguem para uma reuni&atilde;o com o governador do estado. Na ocasi&atilde;o ser&atilde;o tratadas pautas relacionadas ao fortalecimento da agroind&uacute;stria no estado, bem como o desenvolvimento dos assentamentos e o investimento em infraestrutura. Os Sem Terra tamb&eacute;m reivindicam contra o fechamento de escolas do campo na regi&atilde;o.</p>
 
-<p>Em Pernambuco durante a manh&atilde; desta quarta-feira, &nbsp;cerca de dois mil Sem Terra trancaram as BR 104 que liga Agrestina a Cupira, BR101 no norte do Estado e a BR 428, al&eacute;m de realizarem atos e interdi&ccedil;&otilde;es nas regi&otilde;es de Pedrol&acirc;ndia, Paud&#39;Alho, Moreno, &nbsp;Belo Jardim, que liga Petrolina a Juazeiro.</p>
+<p><br />
+Em Sergipe, os camponeses trancaram outras seis BRs e rodovias estaduais.</p>
 
-<p>&nbsp;</p>
-
-<p>No final da tarde os manifestante seguem para uma reuni&atilde;o com o governador do estado. Na ocasi&atilde;o ser&atilde;o tratadas pautas relacionadas ao fortalecimento da agroindustria no estado, bem como o desenvolvimento dos assentamentos e o investimento em infra estrutura. Os Sem Terra tamb&eacute;m reivindicam contra o fechamento de escolas do campo na regi&atilde;o.</p>
-
-<p>&nbsp;</p>
-
-<figure class="image" style="float:right"><img alt="IMG-20150311-WA0002.jpg" height="225" src="http://farm8.staticflickr.com/7635/16163438334_4c9da0d363_b.jpg" width="300" />
-<figcaption></figcaption>
-</figure>
-
-<p>Em Natal, cerca de 400 Sem Terra ocuparam uma agencia da Caixa Econ&ocirc;mica Federal na capital do estado na manha desta quarta-feira.</p>
-
-<p>&nbsp;</p>
-
-<p>No momento um grupo formado por mulheres do Movimento est&atilde;o em reuni&atilde;o com o superintendente da Caixa no estado. Entre as pautas discutidas est&atilde;o o financiamento rural e o incentivo &agrave; agroindustria.</p>
+<p><img alt="unnamed2.jpg" src="http://farm9.staticflickr.com/8620/16784660562_e1c73981f3_b.jpg" /></p>
