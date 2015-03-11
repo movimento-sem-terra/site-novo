@@ -37,6 +37,7 @@ releated_posts:
   - 2015/03/2015-03-10-1500-mulheres-do-campo-ocupam-unidade-da-cargill-em-goiania.md
   - 2015/03/2015-03-09-nesta-segunda-varios-estados-amanhecem-com-a-mobilizacao-das-mulheres-camponesas.md
   - 2015/03/2015-03-11-em-mais-um-dia-de-luta-sem-terra-saem-em-marcha-pela-capital-alagoana.md
+section: featured-news
 
 ---
 <p><img alt="2015mulheresBAmarcha.jpg" src="http://farm8.staticflickr.com/7628/16164143643_ec1a73fbef_b.jpg" /><br />
