@@ -6,8 +6,8 @@ tags:
   - tag: jornada-de-luta-2015
   - tag: trancamento-de-rodovia
 hat: " "
-title: As mobilizações continuam acontecendo nessa quarta-feira em todo o país
-support_line: "Ações em PE e SC levam mais de 3 mil pessoas às ruas "
+title: Mobilizações continuam por todo o país durante esta quarta-feira
+support_line: "Pernambuco, Santa Catarina, Rio Grande do Norte, Distrito Federal, Sergipe são alguns dos estados mobilizados."
 menu: lutas e mobilizações
 layout: post
 files:
@@ -66,6 +66,7 @@ Em Natal (RN), cerca de 400 Sem Terra ocuparam uma ag&ecirc;ncia da Caixa Econ&o
 No momento um grupo formado por mulheres do Movimento est&atilde;o em reuni&atilde;o com o superintendente da Caixa. Entre as pautas discutidas est&atilde;o o financiamento rural e o incentivo &agrave; agroind&uacute;stria.</p>
 
 <p><img alt="IMG-20150311-WA0002.jpg" src="http://farm8.staticflickr.com/7635/16163438334_4c9da0d363_b.jpg" /><br />
+<br />
 Em Santa Catarina cerca de mil Sem Terra se mobilizaram no trevo da BR 166 com a BR 470, no munic&iacute;pio de S&atilde;o Crist&oacute;v&atilde;o do Sul. J&aacute; na regi&atilde;o de S&atilde;o Miguel do Oeste e Chapec&oacute; mobiliza&ccedil;&otilde;es reuniram mais de 2 mil Sem Terra. O objetivo das a&ccedil;&otilde;es inseridas na Jornada Unit&aacute;ria de Lutas do Movimento &eacute; tornar vis&iacute;vel a luta dos camponeses, respons&aacute;veis pela produ&ccedil;&atilde;o de 70% dos alimentos que chegam na mesa dos brasileiros.</p>
 
 <p><br />
@@ -73,6 +74,27 @@ Em Pernambuco, cerca de 2 mil Sem Terra trancaram oito rodovias em todo o estado
 
 <p><br />
 No final da tarde os manifestantes seguem para uma reuni&atilde;o com o governador do estado. Na ocasi&atilde;o ser&atilde;o tratadas pautas relacionadas ao fortalecimento da agroind&uacute;stria no estado, bem como o desenvolvimento dos assentamentos e o investimento em infraestrutura. Os Sem Terra tamb&eacute;m reivindicam contra o fechamento de escolas do campo na regi&atilde;o.</p>
+
+<p><br />
+Na Para&iacute;ba, as mulheres do MST trancaram outras cinco rodovias em diferentes regi&otilde;es do estado.</p>
+
+<p><br />
+As estradas trancadas foram&nbsp;&nbsp; &nbsp;a PB 364, que liga Patos ao Vale do Pianc&oacute;; a BR 104, que liga Caruaru, munic&iacute;pio de Queimadas; a BR 104, que liga Rem&iacute;gio a Barra de Santa Rosa;&nbsp;&nbsp; &nbsp;a BR 101, sentido Jo&atilde;o Pessoa a Recife; e a BR 230, sentido Campina Grande ao Sert&atilde;o.<br />
+&nbsp;<br />
+<br />
+As camponesas reclamam que j&aacute; se passaram tr&ecirc;s meses de governo, sem que haja alguma posi&ccedil;&atilde;o sobre o recurso a ser destinado para solucionar os problemas das 130 mil fam&iacute;lias acampadas em todo o Brasil, algumas h&aacute; 10 anos &agrave; beira das rodovias e debaixo do barraco de lona preta.</p>
+
+<p><br />
+De acordo com as Sem Terra, cansamos de promessas e das boas inten&ccedil;&otilde;es do governo, elas n&atilde;o aceitar&atilde;o &ldquo;mais o discurso de qualificar os assentamentos em vez da desapropria&ccedil;&atilde;o de terras para as 130 mil fam&iacute;lias acampadas no Brasil&rdquo;, disseram em nota.</p>
+
+<p><br />
+Desde o dia 9/03, as mulheres ocupam uma &aacute;rea arrendada da Usina Giasa, a Caixa Econ&ocirc;mica Federal e a superintend&ecirc;ncia do Incra.<br />
+&nbsp;<br />
+<br />
+&ldquo;A nossa pauta central &eacute; que o governo destine recurso para desapropria&ccedil;&atilde;o de terras, para assentar as fam&iacute;lias acampadas; recurso para o Cr&eacute;dito Fomento Mulher; agilidade na execu&ccedil;&atilde;o dos programas de infraestruturas nos assentamentos, em particular o Programa Minha Casa Minha Vida, e que priorize no seu governo a agricultura camponesa&rdquo;, ressaltaram.</p>
+
+<p><br />
+Segundo elas, que continuam com o Incra ocupado, caso n&atilde;o obtenham reposta positiva radicalizar&atilde;o as a&ccedil;&otilde;es.</p>
 
 <p><br />
 Em Sergipe, os camponeses trancaram outras seis BRs e rodovias estaduais.</p>
