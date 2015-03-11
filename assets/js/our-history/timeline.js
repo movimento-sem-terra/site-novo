@@ -1,7 +1,7 @@
 $(document).ready(function() {
 
   var updateTimeline = function(element) {
-    var pageCenter = $(document).width() / 2;
+    var pageCenter = $(window).width() / 2;
     var entryCenter = element.offset().left + (element.outerWidth() / 2);
     var timelineLeft = $('.timeline').offset().left;
     var headerImgSrc = $('#content .header-img').attr('src');
@@ -12,10 +12,9 @@ $(document).ready(function() {
     element.addClass('active');
 
 
-    $('header .header-img').attr('src', headerImgSrc);
-    $('#background').css('background-image', 'url(' + headerImgSrc + ')');
+    $('header .foreground').attr('src', headerImgSrc);
+    $('header .background').css('background-image', 'url(' + headerImgSrc + ')');
     $('#content .header-img').remove();
-
   };
 
   var updateContent = function(element) {

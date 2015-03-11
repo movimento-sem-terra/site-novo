@@ -38,29 +38,13 @@ $big: new-breakpoint(min-width $screen-big);
     }
   }
 
-  .header-img {
-    height: 440px;
-    padding: 30px;
-    margin: 0 auto;
-    display: block;
-    position: relative;
-    z-index: 10;
-  }
-
   header {
     position: relative;
 
-    #background {
-      background-size: cover;
-      height: 100%;
-      width: 100%;
-      position: absolute;
-      top: 0;
-      left: 0;
-      overflow: hidden;
-      @include filter(blur(4px));
+    .blurred-background {
+      padding-bottom: 30px;
+      margin-bottom: -30px;
     }
-
 
     #arrow {
       font-size: 0;
@@ -134,7 +118,6 @@ $big: new-breakpoint(min-width $screen-big);
               @include transform(scale(1.1));
             }
           }
-
 
           &:after {
             content: '';
