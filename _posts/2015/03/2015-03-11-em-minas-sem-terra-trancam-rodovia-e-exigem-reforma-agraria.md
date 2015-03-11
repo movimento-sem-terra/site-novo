@@ -45,6 +45,21 @@ releated_posts:
 <em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
+Mais de 3 mil trabalhadoras e trabalhadores rurais Sem Terra realizam manifesta&ccedil;&otilde;es em todo o estado de Minas Gerais nesta ter&ccedil;a-feira (11). O MST denuncia a paralisa&ccedil;&atilde;o da Reforma Agr&aacute;ria no pa&iacute;s.</p>
+
+<p><br />
+As principais rodovias do estado est&atilde;o bloqueadas, com o objetivo de chamar aten&ccedil;&atilde;o da situa&ccedil;&atilde;o das mais de 120 mil fam&iacute;lias acampadas em todo o pa&iacute;s, algumas h&aacute; mais de 15 anos.</p>
+
+<p><br />
+A Jornada Nacional de Luta pela Reforma Agr&aacute;ria, al&eacute;m de denunciar a fal&ecirc;ncia do modelo do agroneg&oacute;cio para o campo, prop&otilde;e a agroecologia como alternativa de produ&ccedil;&atilde;o de alimentos.</p>
+
+<p><br />
+Segundo S&iacute;lvio Netto, da dire&ccedil;&atilde;o estadual do MST, o di&aacute;logo com o governo petista de Fernando Pimentel est&aacute; estabelecido,&ldquo;mas os camponeses mineiros precisam de pol&iacute;ticas concretas, n&atilde;o de mais promessas&rdquo;, afirma.</p>
+
+<p><br />
+<strong>Zona da Mata</strong></p>
+
+<p><br />
 Na Zona da Mata, em Minas Gerais, o MST trancou BR 120, pr&oacute;ximo ao km 669, na manh&atilde; desta quarta-feira (11). A a&ccedil;&atilde;o integra a jornada nacional de lutas em defesa da Reforma Agr&aacute;ria, com objetivo de denunciar a paralisia da Reforma Agr&aacute;ria.</p>
 
 <p><br />
