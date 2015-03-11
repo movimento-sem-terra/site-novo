@@ -49,6 +49,8 @@ releated_posts:
   - 2015/03/2015-03-11-camponeses-fecham-principais-rodovias-no-rio-de-janeiro.md
 
 ---
+<p>&nbsp;</p>
+
 <p><em>Da P&aacute;gina do MST </em></p>
 
 <p>&nbsp;</p>
