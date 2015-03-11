@@ -6,7 +6,7 @@ tags:
   - tag: jornada-de-luta-2015
   - tag: trancamento-de-rodovia
 hat: " "
-title: As mobilizações continuam acontecendo durante essa quarta-feira em todo o país
+title: As mobilizações continuam acontecendo nessa quarta-feira em todo o país
 support_line: "Ações em PE e SC levam mais de 3 mil pessoas às ruas "
 menu: lutas e mobilizações
 layout: post
@@ -61,6 +61,8 @@ releated_posts:
 
 <p>Em Santa Catarina, na manh&atilde; desta quarta-feira (11), cerca de mil&nbsp; Sem Terra se mobilizaram no trevo da BR 166 com a BR 470, no munic&iacute;pio de S&atilde;o Crist&oacute;v&atilde;o do Sul.</p>
 
+<p>&nbsp;</p>
+
 <p>J&aacute; na regi&atilde;o de S&atilde;o Miguel do Oeste e Chapec&oacute; mobiliza&ccedil;&otilde;es reuniram mais de dois mil Sem Terra. O objetivo das a&ccedil;&otilde;es inseridas na Jornada Unit&aacute;ria de Lutas do Movimento &eacute; tornar vis&iacute;vel a luta dos camponeses a camponesas, que s&atilde;o respons&aacute;veis pela produ&ccedil;&atilde;o de 70% dos alimentos que chegam na mesa dos brasileiros.</p>
 
 <p>&nbsp;</p>
@@ -73,7 +75,7 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p>No final da tarde os manifestanteseguem para uma reuni&atilde;o com o governador do estado. Na ocasi&atilde;o ser&atilde;o tratadas pautas relacionadas ao fortalecimento da agroindustria no estado, bem como o desenvolvimento dos assentamentos e o investimento em infra estrutura. Os Sem Terra tamb&eacute;m reivindicam contra o fechamento de escolas do campo na regi&atilde;o.</p>
+<p>No final da tarde os manifestante seguem para uma reuni&atilde;o com o governador do estado. Na ocasi&atilde;o ser&atilde;o tratadas pautas relacionadas ao fortalecimento da agroindustria no estado, bem como o desenvolvimento dos assentamentos e o investimento em infra estrutura. Os Sem Terra tamb&eacute;m reivindicam contra o fechamento de escolas do campo na regi&atilde;o.</p>
 
 <p>&nbsp;</p>
 
