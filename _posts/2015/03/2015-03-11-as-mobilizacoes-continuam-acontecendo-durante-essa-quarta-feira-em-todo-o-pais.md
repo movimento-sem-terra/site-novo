@@ -71,6 +71,8 @@ releated_posts:
 
 <p>Em Pernambuco durante a manh&atilde; desta quarta-feira, &nbsp;cerca de dois mil Sem Terra trancaram as BR 104 que liga Agrestina a Cupira, BR101 no norte do Estado e a BR 428, al&eacute;m de realizarem atos e interdi&ccedil;&otilde;es nas regi&otilde;es de Pedrol&acirc;ndia, Paud&#39;Alho, Moreno, &nbsp;Belo Jardim, que liga Petrolina a Juazeiro.</p>
 
+<p>&nbsp;</p>
+
 <p>No final da tarde os manifestanteseguem para uma reuni&atilde;o com o governador do estado. Na ocasi&atilde;o ser&atilde;o tratadas pautas relacionadas ao fortalecimento da agroindustria no estado, bem como o desenvolvimento dos assentamentos e o investimento em infra estrutura. Os Sem Terra tamb&eacute;m reivindicam contra o fechamento de escolas do campo na regi&atilde;o.</p>
 
 <p>&nbsp;</p>
