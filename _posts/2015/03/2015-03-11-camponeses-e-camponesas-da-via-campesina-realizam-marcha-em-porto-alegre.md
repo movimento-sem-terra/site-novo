@@ -4,7 +4,7 @@ tags:
   - tag: lutas-e-mobilizações
   - tag: rio-grande-do-sul
   - tag: jornada-de-lutas-2015
-title: "Camponeses e camponesas da Via Campesina realizam marcha, em Porto Alegre"
+title: "Camponeses da Via Campesina realizam marcha, em Porto Alegre"
 support_line: A mobilização reivindica a realização da Reforma Agrária Popular e a garantia da soberania alimentar.
 menu: lutas e mobilizações
 layout: post
