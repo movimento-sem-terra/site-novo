@@ -6,7 +6,7 @@ tags:
   - tag: jornada-de-luta-2015
   - tag: trancamento-de-rodovia
 hat: " "
-title: Mobilizações continuam por todo o país durante esta quarta-feira
+title: Sem Terra seguem em luta com dezenas de mobilizações em todo o país
 support_line: "Pernambuco, Santa Catarina, Rio Grande do Norte, Distrito Federal, Sergipe são alguns dos estados mobilizados."
 menu: lutas e mobilizações
 layout: post
@@ -43,7 +43,7 @@ files:
     $$hashKey: 02K
 created_date: "2015-03-11T13:15:33-03:00"
 published: true
-images_hd: "http://farm8.staticflickr.com/7632/16784608001_ba2cce12ec_n.jpg"
+images_hd: "http://farm8.staticflickr.com/7629/16598175698_6e7f1ab71a_n.jpg"
 releated_posts:
   - 2015/03/2015-03-11-movimentos-sociais-do-parana-trancam-mais-de-10-rodovias-no-estado.md
   - 2015/03/2015-03-11-camponeses-fecham-principais-rodovias-no-rio-de-janeiro.md
@@ -61,7 +61,14 @@ releated_posts:
 As mobiliza&ccedil;&otilde;es dos trabalhadores rurais Sem Terra continuam acontecendo em todo o pa&iacute;s durante esta quarta-feira (11).</p>
 
 <p><br />
-No Distrito Federal, aproximadamente 100 fam&iacute;lias ocuparam a Fazenda Adeluca. A &aacute;rea improdutiva &eacute; de propriedade da Terracap, e o Movimento reivindica sua desapropria&ccedil;&atilde;o para fins de Reforma Agr&aacute;ria.</p>
+Na cidade de Ribeir&atilde;o Preto, em S&atilde;o Paulo, 200 Sem Terra ocuparam no in&iacute;cio da tarde uma usina na regi&atilde;o de Serrana. Segundo Kelli Mafort, da coordena&ccedil;&atilde;o nacional do MST, os propriet&aacute;rios da usina sonegaram cerca de R$ 300 milh&otilde;es sobre o Imposto sobre Circula&ccedil;&atilde;o de Mercadorias e Servi&ccedil;os (ICMS). Os Sem Terra seguiram em marcha pelas ruas da cidade at&eacute; a procuradoria do estado, onde tiveram uma reuni&atilde;o para reivindicar as pautas relacionadas &agrave; Reforma Agr&aacute;ria.</p>
+
+<p><br />
+No munic&iacute;pio de Itapeva (SP), cerca de 100 trabalhadores rurais trancaram a rodovia Francisco Alves Negr&atilde;o.<br />
+Os Sem Terra reivindicaram a assist&ecirc;ncia t&eacute;cnica para as 500 fam&iacute;lias assentadas da regi&atilde;o, al&eacute;m da desburocratiza&ccedil;&atilde;o na libera&ccedil;&atilde;o e garantia de acesso a cr&eacute;ditos para os rec&eacute;m assentados.<br />
+&nbsp;</p>
+
+<p>No Distrito Federal, aproximadamente 100 fam&iacute;lias ocuparam a Fazenda Adeluca. A &aacute;rea improdutiva &eacute; de propriedade da Terracap, e o Movimento reivindica sua desapropria&ccedil;&atilde;o para fins de Reforma Agr&aacute;ria.</p>
 
 <p><br />
 Em Natal (RN), cerca de 400 Sem Terra ocuparam uma ag&ecirc;ncia da Caixa Econ&ocirc;mica Federal na manha desta quarta.</p>
