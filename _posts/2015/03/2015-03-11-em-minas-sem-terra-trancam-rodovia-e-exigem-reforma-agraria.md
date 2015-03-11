@@ -45,7 +45,7 @@ releated_posts:
 <em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Mais de 3 mil trabalhadoras e trabalhadores rurais Sem Terra realizam manifesta&ccedil;&otilde;es em todo o estado de Minas Gerais nesta ter&ccedil;a-feira (11). O MST denuncia a paralisa&ccedil;&atilde;o da Reforma Agr&aacute;ria no pa&iacute;s.</p>
+Mais de 3 mil trabalhadoras e trabalhadores rurais Sem Terra realizam manifesta&ccedil;&otilde;es em todo o estado de Minas Gerais nesta quarta-feira (11). O MST denuncia a paralisa&ccedil;&atilde;o da Reforma Agr&aacute;ria no pa&iacute;s.</p>
 
 <p><br />
 As principais rodovias do estado est&atilde;o bloqueadas, com o objetivo de chamar aten&ccedil;&atilde;o da situa&ccedil;&atilde;o das mais de 120 mil fam&iacute;lias acampadas em todo o pa&iacute;s, algumas h&aacute; mais de 15 anos.</p>
@@ -60,7 +60,7 @@ Segundo S&iacute;lvio Netto, da dire&ccedil;&atilde;o estadual do MST, o di&aacu
 <strong>Zona da Mata</strong></p>
 
 <p><br />
-Na Zona da Mata, em Minas Gerais, o MST trancou BR 120, pr&oacute;ximo ao km 669, na manh&atilde; desta quarta-feira (11). A a&ccedil;&atilde;o integra a jornada nacional de lutas em defesa da Reforma Agr&aacute;ria, com objetivo de denunciar a paralisia da Reforma Agr&aacute;ria.</p>
+Na Zona da Mata, em Minas Gerais, o MST trancou BR 120, pr&oacute;ximo ao km 669, na manh&atilde; desta quarta. A a&ccedil;&atilde;o integra a jornada nacional de lutas em defesa da Reforma Agr&aacute;ria, com objetivo de denunciar a paralisia da Reforma Agr&aacute;ria.</p>
 
 <p><br />
 O Movimento denuncia a m&aacute; sinaliza&ccedil;&atilde;o da rodovia, respons&aacute;vel por matar tr&ecirc;s assentados do Assentamento Olga Ben&aacute;rio, cortado pela BR 120.</p>
