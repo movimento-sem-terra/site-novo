@@ -47,6 +47,10 @@ images_hd: "http://farm8.staticflickr.com/7632/16784608001_ba2cce12ec_n.jpg"
 releated_posts:
   - 2015/03/2015-03-11-movimentos-sociais-do-parana-trancam-mais-de-10-rodovias-no-estado.md
   - 2015/03/2015-03-11-camponeses-fecham-principais-rodovias-no-rio-de-janeiro.md
+  - 2015/03/2015-03-11-trabalhadoras-sem-terra-protagonizam-a-luta-durante-marcha-do-mst-na-bahia.md
+  - 2015/03/2015-03-11-camponeses-e-camponesas-da-via-campesina-realizam-marcha-em-porto-alegre.md
+  - 2015/03/2015-03-11-jornada-de-lutas-leva-milhares-de-pessoas-as-ruas-durante-o-mes-de-marco.md
+  - 2015/03/2015-03-11-em-minas-sem-terra-trancam-rodovia-e-exigem-reforma-agraria.md
 
 ---
 <p><img alt="IMG-20150311-WA0003.jpg" src="http://farm8.staticflickr.com/7632/16784608001_ba2cce12ec_b.jpg" /></p>
