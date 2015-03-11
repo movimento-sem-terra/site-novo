@@ -4,7 +4,7 @@ tags:
   - tag: lutas-e-mobilizações
   - tag: bahia
   - tag: jornada-de-luta-das-mulheres-2015
-title: Trabalhadoras Sem Terra protagonizam luta durante Marcha na Bahia
+title: "Na Bahia, trabalhadoras Sem Terra protagonizam luta durante Marcha"
 support_line: Seis pessoas marcham de Feira de Santa a Salvador. Sem Terra devem chegar segunda-feira a capital.
 menu: lutas e mobilizações
 layout: post
