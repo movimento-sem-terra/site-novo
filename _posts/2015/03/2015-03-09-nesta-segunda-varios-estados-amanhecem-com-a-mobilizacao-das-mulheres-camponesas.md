@@ -79,7 +79,7 @@ releated_posts:
   - 2015/03/2015-03-09-mulheres-sem-terra-ocupam-a-superintendencia-do-ministerio-da-agricultura-em-alagoas.md
   - 2015/03/2015-03-09-camponesas-ocupam-a-multinacional-bunge-no-entorno-de-brasilia.md
   - 2015/02/2015-02-22-jornada-nacional-de-luta-das-mulheres-camponesas.md
-section: cover
+section: null
 
 ---
 <p><img alt="2015mulheresbsb.jpg" src="http://farm8.staticflickr.com/7615/16556884717_69090ea5f7_b.jpg" /></p>
