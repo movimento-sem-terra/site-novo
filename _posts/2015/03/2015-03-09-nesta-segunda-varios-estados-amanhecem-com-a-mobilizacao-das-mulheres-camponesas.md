@@ -68,9 +68,15 @@ files:
     small: "http://farm8.staticflickr.com/7288/16153905674_b2f5bcb0f4_n.jpg"
     title: 2015mulheresPR4.jpg
     $$hashKey: 0MN
+  - link: "http://farm9.staticflickr.com/8714/16784041122_97c6d8ac09_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8714/16784041122_97c6d8ac09_t.jpg"
+    medium: "http://farm9.staticflickr.com/8714/16784041122_97c6d8ac09_z.jpg"
+    small: "http://farm9.staticflickr.com/8714/16784041122_97c6d8ac09_n.jpg"
+    title: 2015mulheresBAmarcha.jpg
+    $$hashKey: 0A3
 created_date: "2015-03-09T09:49:28-03:00"
 published: true
-images_hd: "http://farm8.staticflickr.com/7615/16556884717_69090ea5f7_n.jpg"
+images_hd: "http://farm9.staticflickr.com/8714/16784041122_97c6d8ac09_n.jpg"
 releated_posts:
   - 2015/03/2015-03-03-preste-a-iniciarem-suas-lutas-mulheres-camponesas-prometem-enfrentar-o-modelo-do-agronegocio.md
   - 2015/03/2015-03-05-apos-ocupacao-na-suzano-outros-300-camponeses-ocupam-predio-da-ctnbio-em-bsb.md
