@@ -4,7 +4,7 @@ tags:
   - tag: lutas-e-mobilizações
   - tag: rio-grande-do-sul
   - tag: jornada-de-lutas-2015
-title: "Camponeses da Via Campesina realizam marcha, em Porto Alegre"
+title: Mais de 4 mil camponeses da Via Campesina marcham pelas ruas de Porto Alegre
 support_line: A mobilização reivindica a realização da Reforma Agrária Popular e a garantia da soberania alimentar.
 menu: lutas e mobilizações
 layout: post
@@ -15,9 +15,15 @@ files:
     small: "http://farm9.staticflickr.com/8655/16596620940_c39945944d_n.jpg"
     title: 2015riograndedosul_jornada.jpg
     $$hashKey: 0IS
+  - link: "http://farm8.staticflickr.com/7615/16596864960_b3d597b80b_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7615/16596864960_b3d597b80b_t.jpg"
+    medium: "http://farm8.staticflickr.com/7615/16596864960_b3d597b80b_z.jpg"
+    small: "http://farm8.staticflickr.com/7615/16596864960_b3d597b80b_n.jpg"
+    title: 2015riograndedosul_jornada.jpg
+    $$hashKey: 058
 created_date: "2015-03-11T08:59:28-03:00"
 published: true
-images_hd: "http://farm9.staticflickr.com/8655/16596620940_c39945944d_n.jpg"
+images_hd: "http://farm8.staticflickr.com/7615/16596864960_b3d597b80b_n.jpg"
 releated_posts:
   - 2015/03/2015-03-10-camponesas-ocupam-fabrica-de-agrotoxicos-no-rio-grande-do-sul.md
   - 2015/03/2015-03-10-1500-mulheres-do-campo-ocupam-unidade-da-cargill-em-goiania.md
@@ -27,7 +33,7 @@ releated_posts:
   - 2015/03/2015-03-11-em-mais-um-dia-de-luta-sem-terra-saem-em-marcha-pela-capital-alagoana.md
 
 ---
-<p><img alt="2015riograndedosul_jornada.jpg" src="http://farm9.staticflickr.com/8655/16596620940_c39945944d_b.jpg" /></p>
+<p><img alt="2015riograndedosul_jornada.jpg" src="http://farm8.staticflickr.com/7615/16596864960_b3d597b80b_b.jpg" /></p>
 
 <p><em>Da P&aacute;gina do MST</em></p>
 
