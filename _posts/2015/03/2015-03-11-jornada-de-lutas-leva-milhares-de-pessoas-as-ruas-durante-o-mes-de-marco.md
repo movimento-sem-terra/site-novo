@@ -73,7 +73,7 @@ Da P&aacute;gina do MST</em></p>
 O m&ecirc;s de mar&ccedil;o est&aacute; sendo marcado por dezenas de mobiliza&ccedil;&otilde;es em todo pa&iacute;s, pela Reforma Agr&aacute;ria, por direitos dos trabalhados, pela reforma pol&iacute;tica e pelo fim da viol&ecirc;ncia contra a mulher.</p>
 
 <p><br />
-O calend&aacute;rio de luta do MST come&ccedil;ou com a Jornada Nacional de Lutas das Mulheres Camponesas, entre os dias 4 a 9 de mar&ccedil;o, em que, at&eacute; o momento, mais de 20 mil mulheres dos movimentos sociais da Via Campesina realizaram mobiliza&ccedil;&otilde;es em 21 estados brasileiros.</p>
+O calend&aacute;rio de luta do MST come&ccedil;ou com a Jornada Nacional de Lutas das Mulheres Camponesas, entre os dias 4 a 9 de mar&ccedil;o, em que, at&eacute; o momento, mais de 30 mil trabalhadoras e trabalhadores rurais dos movimentos sociais da Via Campesina realizaram mobiliza&ccedil;&otilde;es em 22 estados brasileiros.</p>
 
 <p><br />
 Na sequ&ecirc;ncia, os movimentos sociais do campo j&aacute; emendaram as lutas com a Jornada Unit&aacute;ria do Campo, que acontece entre os dias 10 a 13 mar&ccedil;o, com a&ccedil;&otilde;es em todo pa&iacute;s denunciando o modelo do agroneg&oacute;cio e pela Reforma Agr&aacute;ria Popular, paralisada nos &uacute;ltimos anos.</p>
