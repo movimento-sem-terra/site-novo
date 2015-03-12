@@ -89,7 +89,6 @@ $big: new-breakpoint(min-width $screen-big);
       position: relative;
       .timeline {
           white-space: nowrap;
-          overflow-x:  scroll;
           padding: 10px 0 10px 0;
           position: relative;
           background-color: white;
