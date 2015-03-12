@@ -11,15 +11,15 @@ support_line: "Nesta quinta, as diversas organizações que compõem a CMS se mo
 menu: lutas e mobilizações
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8638/16170192104_158883c803_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8638/16170192104_158883c803_t.jpg"
-    medium: "http://farm9.staticflickr.com/8638/16170192104_158883c803_z.jpg"
-    small: "http://farm9.staticflickr.com/8638/16170192104_158883c803_n.jpg"
-    title: via.jpg
-    $$hashKey: 08M
+  - link: "http://farm9.staticflickr.com/8704/16172220704_7241c2a857_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8704/16172220704_7241c2a857_t.jpg"
+    medium: "http://farm9.staticflickr.com/8704/16172220704_7241c2a857_z.jpg"
+    small: "http://farm9.staticflickr.com/8704/16172220704_7241c2a857_n.jpg"
+    title: 2015jornadars2.jpg
+    $$hashKey: 05A
 created_date: "2015-03-12T07:21:39-03:00"
 published: true
-images_hd: "http://farm9.staticflickr.com/8638/16170192104_158883c803_n.jpg"
+images_hd: "http://farm9.staticflickr.com/8704/16172220704_7241c2a857_n.jpg"
 releated_posts:
   - 2015/03/2015-03-11-jornada-de-lutas-leva-milhares-de-pessoas-as-ruas-durante-o-mes-de-marco.md
   - 2015/03/2015-03-10-camponesas-ocupam-fabrica-de-agrotoxicos-no-rio-grande-do-sul.md
@@ -28,9 +28,7 @@ releated_posts:
   - 2015/03/2015-03-11-as-mobilizacoes-continuam-acontecendo-durante-essa-quarta-feira-em-todo-o-pais.md
 
 ---
-<figure class="image"><img alt="via.jpg" src="http://farm9.staticflickr.com/8638/16170192104_158883c803_b.jpg" />
-<figcaption>Nesta quarta-feira (11), cerca de 4 mil pessoas da Via marcharam pelas ruas de Porto Alegre.</figcaption>
-</figure>
+<p><img alt="2015jornadars2.jpg" src="http://farm9.staticflickr.com/8704/16172220704_7241c2a857_b.jpg" /></p>
 
 <p><em>Da P&aacute;gina do MST</em></p>
 
