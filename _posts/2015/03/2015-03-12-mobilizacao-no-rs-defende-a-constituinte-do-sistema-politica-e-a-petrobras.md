@@ -32,9 +32,7 @@ releated_posts:
 <figcaption>Nesta quarta-feira (11), cerca de 4 mil pessoas da Via marcharam pelas ruas de Porto Alegre.</figcaption>
 </figure>
 
-<p><br />
-<br />
-<em>Da P&aacute;gina do MST</em></p>
+<p><em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
 Nesta quinta-feira (12), em Porto Alegre (RS), as camponesas e camponeses da Via Campesina participam de um ato p&uacute;blico em defesa da classe trabalhadora, do Plebiscito Constituinte da Reforma Pol&iacute;tica, da Petrobr&aacute;s e da democracia.</p>
