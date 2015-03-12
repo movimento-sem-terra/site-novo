@@ -17,6 +17,12 @@ files:
     small: "http://farm9.staticflickr.com/8704/16172220704_7241c2a857_n.jpg"
     title: 2015jornadars2.jpg
     $$hashKey: 05A
+  - link: "http://farm9.staticflickr.com/8620/16768784276_c0822039c2_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8620/16768784276_c0822039c2_t.jpg"
+    medium: "http://farm9.staticflickr.com/8620/16768784276_c0822039c2_z.jpg"
+    small: "http://farm9.staticflickr.com/8620/16768784276_c0822039c2_n.jpg"
+    title: 2015jornadars.jpg
+    $$hashKey: "054"
 created_date: "2015-03-12T07:21:39-03:00"
 published: true
 images_hd: "http://farm9.staticflickr.com/8704/16172220704_7241c2a857_n.jpg"
@@ -50,8 +56,9 @@ Segundo a CMS, um dos maiores desafios dos movimentos sindicais e sociais hoje &
 <p><br />
 Nesta quinta, os movimentos sociais e sindicais ir&atilde;o &agrave;s ruas no RS buscando colocar o Brasil na rota de crescimento econ&ocirc;mico com inclus&atilde;o social, amplia&ccedil;&atilde;o de direitos e aprofundamento da democracia.</p>
 
-<p><br />
-Abaixo, confira a nota das organiza&ccedil;&otilde;es</p>
+<p><img alt="2015jornadars.jpg" src="http://farm9.staticflickr.com/8620/16768784276_c0822039c2_b.jpg" /></p>
+
+<p>Abaixo, confira a nota das organiza&ccedil;&otilde;es</p>
 
 <p style="text-align: center;"><br />
 <strong>Defender os Direitos da Classe Trabalhadora</strong></p>
