@@ -46,9 +46,15 @@ files:
     small: "http://farm9.staticflickr.com/8710/16597299300_21cb630f4c_n.jpg"
     title: 2015mulheresBAmarcha.jpg
     $$hashKey: 0DK
+  - link: "http://farm8.staticflickr.com/7615/16767712346_7e85930dab_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7615/16767712346_7e85930dab_t.jpg"
+    medium: "http://farm8.staticflickr.com/7615/16767712346_7e85930dab_z.jpg"
+    small: "http://farm8.staticflickr.com/7615/16767712346_7e85930dab_n.jpg"
+    title: 2015alagoasjornada.jpg
+    $$hashKey: 0QC
 created_date: "2015-03-11T10:38:37-03:00"
 published: true
-images_hd: "http://farm9.staticflickr.com/8710/16597299300_21cb630f4c_n.jpg"
+images_hd: "http://farm8.staticflickr.com/7615/16767712346_7e85930dab_n.jpg"
 releated_posts:
   - 2015/03/2015-03-05-movimentos-sociais-convocam-ato-em-defesa-da-petrobras-e-pela-constituinte-no-dia-13.md
   - 2015/03/2015-03-10-sem-terra-ocupam-bancos-do-brasil-e-do-nordeste-em-alagoas.md
