@@ -21,6 +21,7 @@ $(document).ready(function() {
     var period = element.attr("href");
     $.get( period + "/content.html" , function( data ) {
       $("#content").html( data );
+      history.replaceState({}, '', period);
       updateTimeline(element);
     });
   };
