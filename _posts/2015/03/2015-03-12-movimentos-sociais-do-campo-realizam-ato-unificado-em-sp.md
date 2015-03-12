@@ -27,8 +27,6 @@ releated_posts:
   - 2015/03/2015-03-11-trabalhadoras-sem-terra-protagonizam-a-luta-durante-marcha-do-mst-na-bahia.md
 
 ---
-<p>&nbsp;</p>
-
 <p><em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
@@ -41,7 +39,7 @@ O ato, organizado pelo MST, Movimento dos Atingidos por Barragens (MAB) e a Fede
 A concentra&ccedil;&atilde;o est&aacute; prevista para as 13h no v&atilde;o do MASP. De l&aacute;, os militantes seguem em marcha at&eacute; a sede da Secretaria Geral da Presid&ecirc;ncia da Rep&uacute;blica, localizada na Av. Paulista, onde entregar&atilde;o uma pauta unit&aacute;ria direcionada ao governo federal. Uma reuni&atilde;o est&aacute; pr&eacute;-agendada no mesmo local.</p>
 
 <p><br />
-Entre os principais pontos de pauta est&atilde;o reivindica&ccedil;&otilde;es sobre quest&otilde;es estruturais ligadas aos trabalhadores do campo, como a reforma agr&aacute;ria popular, a soberania familiar, alimentar e territorial. O objetivo &eacute; denunciar as diversas formas de opress&atilde;o causadas pelo modelo do agroneg&oacute;cio, atualmente financiado pelas diversas inst&acirc;ncias do governo. &nbsp;</p>
+Entre os principais pontos de pauta est&atilde;o reivindica&ccedil;&otilde;es sobre quest&otilde;es estruturais ligadas aos trabalhadores do campo, como a reforma agr&aacute;ria popular, a soberania alimentar e territorial. O objetivo &eacute; denunciar as diversas formas de opress&atilde;o causadas pelo modelo do agroneg&oacute;cio, atualmente financiado pelas diversas inst&acirc;ncias do governo. &nbsp;</p>
 
 <p><br />
 Tamb&eacute;m quest&otilde;es conjunturais como a realiza&ccedil;&atilde;o do Plebiscito Oficial para a Reforma Pol&iacute;tica, a democratiza&ccedil;&atilde;o dos meios de comunica&ccedil;&atilde;o e a luta pelos direitos trabalhistas.</p>
