@@ -7,7 +7,7 @@ tags:
 title: Jornadas de luta levam milhares de pessoas às ruas no mês de março
 support_line: "As ações se desembocarão nas mobilizações do dia 13 de março, em defesa da Petrobras, da reforma política e dos direitos trabalhistas."
 menu: lutas e mobilizações
-section: cover
+section: featured-news
 layout: post
 files:
   - link: "http://farm8.staticflickr.com/7651/16758762436_2464e0ea83_b.jpg"
