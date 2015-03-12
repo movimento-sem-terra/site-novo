@@ -4,7 +4,7 @@ tags:
   - tag: reforma-agrária
   - tag: jornada-de-luta-2015
   - tag: patrus-ananias
-title: "Em audiência, Ministro Patrus afirma compromisso de assentar todas as famílias acampadas"
+title: "Em audiência, Patrus afirma compromisso de assentar todas as famílias acampadas"
 support_line: "Para Patrus, o governo tem o compromisso de assentar as famílias acampadas e dar condições dignas para os assentamentos já existentes."
 menu: reforma agrária
 layout: post
