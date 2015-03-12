@@ -6,7 +6,7 @@ tags:
   - tag: jornada-de-luta-2015
   - tag: movimentos-sociais
 title: Movimentos sociais do campo realizam ato unificado em São Paulo
-support_line: "Nesta quinta-feira (12), movimentos sociais e sindicais vãos às ruas de São Paulo \nem luta pelos direitos do povo camponês."
+support_line: "Nesta quinta-feira (12), movimentos sociais e sindicais vão às ruas de São Paulo \nem luta pelos direitos do povo camponês."
 menu: lutas e mobilizações
 layout: post
 files:
@@ -38,7 +38,7 @@ Nesta quinta-feira (12), milhares de camponeses de diversas regi&otilde;es do pa
 O ato, organizado pelo MST, Movimento dos Atingidos por Barragens (MAB) e a Federa&ccedil;&atilde;o dos Trabalhadores na Agricultura Familiar (FETRAF) tem como objetivo a luta pelos direitos no campo e a defesa do projeto popular para o Brasil.</p>
 
 <p><br />
-A concentra&ccedil;&atilde;o est&aacute; prevista para as 14h no v&atilde;o do MASP. De l&aacute;, os militantes seguem em marcha at&eacute; a sede da Secretaria Geral da Presid&ecirc;ncia da Rep&uacute;blica, localizada na Av. Paulista, onde entregar&atilde;o uma pauta unit&aacute;ria direcionada ao governo federal. Uma reuni&atilde;o est&aacute; pr&eacute;-agendada no mesmo local.</p>
+A concentra&ccedil;&atilde;o est&aacute; prevista para as 13h no v&atilde;o do MASP. De l&aacute;, os militantes seguem em marcha at&eacute; a sede da Secretaria Geral da Presid&ecirc;ncia da Rep&uacute;blica, localizada na Av. Paulista, onde entregar&atilde;o uma pauta unit&aacute;ria direcionada ao governo federal. Uma reuni&atilde;o est&aacute; pr&eacute;-agendada no mesmo local.</p>
 
 <p><br />
 Entre os principais pontos de pauta est&atilde;o reivindica&ccedil;&otilde;es sobre quest&otilde;es estruturais ligadas aos trabalhadores do campo, como a reforma agr&aacute;ria popular, a soberania familiar, alimentar e territorial. O objetivo &eacute; denunciar as diversas formas de opress&atilde;o causadas pelo modelo do agroneg&oacute;cio, atualmente financiado pelas diversas inst&acirc;ncias do governo. &nbsp;</p>
