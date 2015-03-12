@@ -64,8 +64,7 @@ As mobiliza&ccedil;&otilde;es dos trabalhadores rurais Sem Terra continuam acont
 Na cidade de Ribeir&atilde;o Preto, em S&atilde;o Paulo, 200 Sem Terra ocuparam no in&iacute;cio da tarde uma usina na regi&atilde;o de Serrana. Segundo Kelli Mafort, da coordena&ccedil;&atilde;o nacional do MST, os propriet&aacute;rios da usina sonegaram cerca de R$ 300 milh&otilde;es sobre o Imposto sobre Circula&ccedil;&atilde;o de Mercadorias e Servi&ccedil;os (ICMS). Os Sem Terra seguiram em marcha pelas ruas da cidade at&eacute; a procuradoria do estado, onde tiveram uma reuni&atilde;o para reivindicar as pautas relacionadas &agrave; Reforma Agr&aacute;ria.</p>
 
 <p><br />
-No munic&iacute;pio de Itapeva (SP), cerca de 100 trabalhadores rurais trancaram a rodovia Francisco Alves Negr&atilde;o.<br />
-Os Sem Terra reivindicaram a assist&ecirc;ncia t&eacute;cnica para as 500 fam&iacute;lias assentadas da regi&atilde;o, al&eacute;m da desburocratiza&ccedil;&atilde;o na libera&ccedil;&atilde;o e garantia de acesso a cr&eacute;ditos para os rec&eacute;m assentados.<br />
+No munic&iacute;pio de Itapeva (SP), cerca de 100 trabalhadores rurais trancaram a rodovia Francisco Alves Negr&atilde;o. Os Sem Terra reivindicaram a assist&ecirc;ncia t&eacute;cnica para as 500 fam&iacute;lias assentadas da regi&atilde;o, al&eacute;m da desburocratiza&ccedil;&atilde;o na libera&ccedil;&atilde;o e garantia de acesso a cr&eacute;ditos para os rec&eacute;m assentados.<br />
 &nbsp;</p>
 
 <p>No Distrito Federal, aproximadamente 100 fam&iacute;lias ocuparam a Fazenda Adeluca. A &aacute;rea improdutiva &eacute; de propriedade da Terracap, e o Movimento reivindica sua desapropria&ccedil;&atilde;o para fins de Reforma Agr&aacute;ria.</p>
