@@ -5,7 +5,7 @@ tags:
   - tag: são-paulo
   - tag: jornada-de-luta-2015
   - tag: movimentos-sociais
-title: Movimentos sociais do campo realizam ato unificado em SP
+title: Movimentos sociais do campo realizam ato unificado em São Paulo
 support_line: "Nesta quinta-feira (12), movimentos sociais e sindicais vãos às ruas de São Paulo \nem luta pelos direitos do povo camponês."
 menu: lutas e mobilizações
 layout: post
