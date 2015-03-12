@@ -5,7 +5,7 @@ tags:
   - tag: maranhão
   - tag: jornada-de-luta-2015
 menu: lutas e mobilizações
-title: Governador do Maranhão promete atender a pauta dos Sem Terra no estado
+title: Governo do Maranhão promete atender as reivindicações dos Sem Terra
 support_line: "Após jornada de lutas no estado, em que centenas de pessoas se mobilizaram durante quatro dias, governo promete atender as pautas dos movimentos."
 layout: post
 files:
