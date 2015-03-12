@@ -17,9 +17,7 @@
               {% if include.period == t.title %}
                    {% assign css_class = 'active' %}
               {% endif %}
-              <a href="{{site.baseurl}}/nossa-historia/{{t.title}}" class="entry {{ css_class }}">
-                  <h1>{{ t.title }}</h1>
-              </a>
+              <a href="{{site.baseurl}}/nossa-historia/{{t.title}}" class="entry {{ css_class }}">{{ t.title }}</a>
           {% endfor %}
       </div>
     </div>
