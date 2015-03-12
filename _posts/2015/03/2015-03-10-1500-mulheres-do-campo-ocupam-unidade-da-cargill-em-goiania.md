@@ -38,6 +38,7 @@ releated_posts:
   - 2015/03/2015-03-09-mais-de-600-mulheres-ocupam-ministerio-da-agricultura-em-recife.md
   - 2015/03/2015-03-09-ato-unificado-celebra-dia-internacional-da-mulher-em-aracaju.md
   - 2015/03/2015-03-10-camponesas-ocupam-fabrica-de-agrotoxicos-no-rio-grande-do-sul.md
+section: featured-news
 
 ---
 <p>&nbsp;</p>
