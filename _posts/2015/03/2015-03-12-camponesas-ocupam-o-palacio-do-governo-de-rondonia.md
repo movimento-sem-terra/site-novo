@@ -1,5 +1,5 @@
 ---
-date: "2015-03-12T11:08:29-03:00"
+date: "2015-03-12T09:08:29-03:00"
 tags:
   - tag: rondônia
   - tag: jornada-de-luta-das-mulheres-2015
