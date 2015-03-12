@@ -66,7 +66,7 @@ module.exports = function( grunt ) {
       js: {
         expand: true,
         cwd: 'assets/js',
-        src: '*/*.js',
+        src: '**/*.js',
         dest: '_site/assets/js/'
       },
       img: {
@@ -94,7 +94,7 @@ module.exports = function( grunt ) {
         },
       },
       js: {
-        files: 'assets/js/*/*.js',
+        files: 'assets/js/**/*.js',
         tasks: ['copy:js'],
         options: {
           livereload: true
