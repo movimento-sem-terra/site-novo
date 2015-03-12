@@ -4,7 +4,7 @@ tags:
   - tag: lutas-e-mobilizações
   - tag: brasília
   - tag: jornada-de-luta-das-mulheres-2015
-title: "Em Brasília, camponesas protagonizam mobilizações na esplanada e participam de audiências"
+title: "Em Brasília, camponesas protagonizam mobilizações e participam de audiências"
 menu: lutas e mobilizações
 support_line: "As mulheres iniciaram as atividades pela manhã com um ato em frente ao Ministério da Agricultura, da atual ministra Kátia Abreu."
 layout: post
@@ -28,7 +28,7 @@ releated_posts:
   - 2015/03/2015-03-11-trabalhadoras-sem-terra-protagonizam-a-luta-durante-marcha-do-mst-na-bahia.md
 
 ---
-<p><br />
+<p><img alt="2015jornadadf.jpg" src="http://farm8.staticflickr.com/7640/16586844077_ba44f1d700_b.jpg" /><br />
 <em>Por Iris Pacheco<br />
 Da P&aacute;gina do MST</em></p>
 
