@@ -194,55 +194,62 @@ $big: new-breakpoint(min-width $screen-big);
         strong {
           color: $mst-green;
         }
+
+        .element-details {
+          text-align: center;
+          font-size: .8em;
+          font-weight: 700;
+          font-style: italic;
+          margin-bottom: 30px;
+        }
+
       }
 
       .icon {
+        margin: 0 auto;
         width: 150px;
         height: 150px;
         border-radius: 50%;
         background-color: $mst-green;
-        @include span-columns(3);
-
-        & + blockquote {
-          @include span-columns(7)
-        }
+        display: block;
       }
 
+      .red {
+        color: $mst-red;
+        font-size: 1.8em;
+        line-height: 1em;
+      }
 
-      blockquote {
-
-        margin-bottom: 40px;
+      .highlighted {
+        margin: 40px 0;
         text-align: center;
         padding-top: 0px;
         font-style: italic;
         position: relative;
 
-        &.red {
-            color: $mst-red;
-            font-size: 1.8em;
-            line-height: 1em;
+        &.quoted, .quoted {
+          position: relative;
+
+          &:after, &:before {
+            font-size: 4em;
+            color: $mst-green;
+            line-height: 0;
+            position: absolute;
+          }
+
+          &:before {
+            content: '\201C';
             float: left;
-        }
+            left: -0.5em;
+            top: 0.15em;
+          }
 
-        &:after, &:before {
-          font-size: 4em;
-          color: $mst-green;
-          line-height: 0;
-          position: absolute;
-        }
-
-        &:before {
-          content: '\201C';
-          float: left;
-          left: -0.5em;
-          top: 0.15em;
-        }
-
-        &:after {
-          content: '\201D';
-          float: right;
-          right: -0.15em;
-          bottom: -0.3em;
+          &:after {
+            content: '\201D';
+            float: right;
+            right: -0.15em;
+            bottom: -0.3em;
+          }
         }
       }
 
@@ -284,6 +291,11 @@ $big: new-breakpoint(min-width $screen-big);
 
   .clear {
     clear: both;
+  }
+
+  .centered {
+    text-align: center;
+    margin: 0 auto;
   }
 }
 
