@@ -5,7 +5,7 @@ tags:
   - tag: bahia
   - tag: jornada-de-luta-das-mulheres-2015
 title: "Na Bahia, trabalhadoras Sem Terra protagonizam luta durante Marcha"
-support_line: Seis pessoas marcham de Feira de Santa a Salvador. Sem Terra devem chegar segunda-feira a capital.
+support_line: Seis mil pessoas marcham de Feira de Santa a Salvador. Sem Terra devem chegar segunda-feira a capital.
 menu: lutas e mobilizações
 layout: post
 files:
