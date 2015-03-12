@@ -4,7 +4,7 @@ tags:
   - tag: lutas-e-mobilizações
   - tag: jornada-de-luta-2015
   - tag: alagoas
-title: "Em Jornada de Lutas, movimentos sociais do campo reúnem-se com o governador de Alagoas"
+title: "Em Jornada, movimentos sociais do campo reúnem-se com o governador de Alagoas"
 menu: lutas e mobilizações
 support_line: Essa a primeira vez que o governador recebe os movimentos do campo no novo mandato do Palácio dos Palmares.
 layout: post
