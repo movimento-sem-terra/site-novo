@@ -267,11 +267,17 @@ $big: new-breakpoint(min-width $screen-big);
     }
   }
 
-  .next-period {
-    float: right;
-
-    .fa-chevron-right {
+  a {
+    .fa {
       color: $mst-red;
+    }
+
+    &.next-period {
+      float: right;
+    }
+
+    &.previous-period {
+      float: left;
     }
   }
 
