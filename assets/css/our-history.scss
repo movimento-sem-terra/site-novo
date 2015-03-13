@@ -222,6 +222,7 @@ $big: new-breakpoint(min-width $screen-big);
 
         &.quoted, .quoted {
           position: relative;
+          padding: 0 .5em;
 
           &:after, &:before {
             font-size: 4em;
@@ -233,14 +234,14 @@ $big: new-breakpoint(min-width $screen-big);
           &:before {
             content: '\201C';
             float: left;
-            left: -0.5em;
+            left: 0;
             top: 0.15em;
           }
 
           &:after {
             content: '\201D';
             float: right;
-            right: -0.15em;
+            right: 0;
             bottom: -0.3em;
           }
         }
@@ -296,5 +297,12 @@ $big: new-breakpoint(min-width $screen-big);
     text-align: center;
     margin: 0 auto;
   }
-}
 
+  .span-3 {
+    @include span-columns(3);
+  }
+
+  .span-9 {
+    @include span-columns(9);
+  }
+}
