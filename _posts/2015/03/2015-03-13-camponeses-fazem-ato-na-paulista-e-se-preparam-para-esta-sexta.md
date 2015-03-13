@@ -16,16 +16,28 @@ files:
     small: "http://farm8.staticflickr.com/7639/16775693006_8e0bf9fb62_n.jpg"
     title: escracho foto 5_0.JPG
     $$hashKey: 028
+  - link: "http://farm8.staticflickr.com/7636/16614586588_f91bedb0c0_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7636/16614586588_f91bedb0c0_t.jpg"
+    medium: "http://farm8.staticflickr.com/7636/16614586588_f91bedb0c0_z.jpg"
+    small: "http://farm8.staticflickr.com/7636/16614586588_f91bedb0c0_n.jpg"
+    title: marcha_paulista.jpg
+    $$hashKey: 05A
+  - link: "http://farm8.staticflickr.com/7641/16179835894_dc1cef6f25_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7641/16179835894_dc1cef6f25_t.jpg"
+    medium: "http://farm8.staticflickr.com/7641/16179835894_dc1cef6f25_z.jpg"
+    small: "http://farm8.staticflickr.com/7641/16179835894_dc1cef6f25_n.jpg"
+    title: marcha_paulista2.jpg
+    $$hashKey: 05D
 created_date: "2015-03-13T07:48:11-03:00"
 published: true
-images_hd: "http://farm8.staticflickr.com/7639/16775693006_8e0bf9fb62_n.jpg"
+images_hd: "http://farm8.staticflickr.com/7636/16614586588_f91bedb0c0_n.jpg"
 releated_posts:
   - 2015/03/2015-03-11-jornada-de-lutas-leva-milhares-de-pessoas-as-ruas-durante-o-mes-de-marco.md
   - 2015/03/2015-03-12-mobilizacao-no-rs-defende-a-constituinte-do-sistema-politica-e-a-petrobras.md
   - 2015/03/2015-03-12-em-jornada-de-lutas-movimentos-sociais-do-campo-reunem-se-com-o-governador-de-alagoas.md
 
 ---
-<p><img alt="escracho foto 5_0.JPG" src="http://farm8.staticflickr.com/7639/16775693006_8e0bf9fb62_b.jpg" /></p>
+<p><img alt="marcha_paulista.jpg" src="http://farm8.staticflickr.com/7636/16614586588_f91bedb0c0_b.jpg" /></p>
 
 <p><em>Por Maura Silva<br />
 Da P&aacute;gina do MST</em></p>
@@ -45,7 +57,8 @@ Segundo o coordenador do MAB,&nbsp;Gilberto Cervinski, o atual momento pol&iacut
 <p><br />
 &ldquo;A situa&ccedil;&atilde;o pol&iacute;tica do pa&iacute;s pede para que os povos do campo saiam &agrave;s ruas para pautarmos temas que s&atilde;o fundamentais para a nossa sociedade como um todo. Estamos em &nbsp;luta em defesa da Petrobr&aacute;s, pela reforma pol&iacute;tica, que s&oacute; vir&aacute; atrav&eacute;s de um Plebiscito por uma Constituinte Exclusiva e Soberana, pelos direitos do povo, em especial, o povo do campo, que ainda sofre com a car&ecirc;ncia de necessidades b&aacute;sicas. Queremos melhores condi&ccedil;&otilde;es de produ&ccedil;&atilde;o, a estrutura&ccedil;&atilde;o dos assentamentos e mais investimentos e sa&uacute;de e educa&ccedil;&atilde;o&rdquo;, pontua.</p>
 
-<p><br />
+<p><img alt="escracho foto 5_0.JPG" src="http://farm8.staticflickr.com/7639/16775693006_8e0bf9fb62_b.jpg" /><br />
+<br />
 Entre os Sem Terra, umas das principais demandas &eacute; a maior agilidade na aquisi&ccedil;&atilde;o de novas &aacute;reas &agrave; Reforma Agr&aacute;ria. Muitos dos que estavam presentes no ato est&atilde;o h&aacute; anos debaixo da lona preta, como &eacute; o caso de Elizeu&nbsp;Nunes, h&aacute; mais de 10 anos acampada no acampamento Santa Maria da Conquista, na regi&atilde;o de Sorocaba.</p>
 
 <p><br />
@@ -82,10 +95,8 @@ Para ele, &ldquo;diante da atual conjuntura pol&iacute;tica sabemos que temos qu
 <p><br />
 Cervinski ressaltou que o governo &ldquo;precisa entender que quem est&aacute; enfrentando a direita &eacute; quem est&aacute; nas ruas, por isso precisamos que ele nos ajude em nossas pautas. N&oacute;s fomos &agrave;s ruas e elegemos a presidente Dilma, depois o di&aacute;logo dela para com o povo foi de baixa intensidade, essa baixa intensidade n&atilde;o se reverteu em avan&ccedil;os para os povos do campo e a classe trabalhadora&rdquo;.</p>
 
-<p><br />
-<strong>Regulariza&ccedil;&atilde;o fundi&aacute;ria</strong></p>
-
-<p><br />
+<p><img alt="marcha_paulista2.jpg" src="http://farm8.staticflickr.com/7641/16179835894_dc1cef6f25_b.jpg" /><br />
+<br />
 Outros temas como quest&atilde;o h&iacute;drica, o avan&ccedil;o do agroneg&oacute;cio, a pol&iacute;tica de direitos da classe trabalhadora, reforma pol&iacute;tica e fechamento das escolas do campo tamb&eacute;m foram levantados durante a conversa que durou cerca de uma hora.&nbsp;</p>
 
 <p><br />
