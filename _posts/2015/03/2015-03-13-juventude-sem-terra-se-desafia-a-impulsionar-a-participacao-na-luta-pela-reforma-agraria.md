@@ -7,7 +7,7 @@ tags:
   - tag: jornada-de-lutas-2015
   - tag: reforma-agrária
   - tag: lutas-e-mobilizações
-title: Juventude Sem Terra se desafia a impulsionar a participação na luta pela Reforma Agrária
+title: Juventude Sem Terra se desafia a impulsionar a luta pela Reforma Agrária
 support_line: "Dos 6 mil Sem Terra que participam da marcha estadual do MST na Bahia, 3.500 são jovens, e têm o desafio de levar adiante a luta pela Reforma Agrária."
 menu: lutas e mobilizações
 layout: post
