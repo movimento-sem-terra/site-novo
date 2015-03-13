@@ -1,9 +1,9 @@
 $(document).ready(function(){
-  $('.tooltip-item').focusout(function(){
+  $('#content').on('focusout', '.tooltip-item', function() {
     $('.tooltip').slideUp();
   });
 
-  $('.tooltip-item').click(function(e) {
+  $('#content').on('click', '.tooltip-item', function(e) {
     e.preventDefault();
 
     var tooltipId = $(this).attr('href');
