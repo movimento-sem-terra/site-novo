@@ -34,7 +34,13 @@ $(document).ready(function() {
   $('#content').on('click', '.next-period', function(e) {
     e.preventDefault();
     $('.entry.active').next().click();
-    $(window).scrollTop(0);
+    $('body').animate({scrollTop: 0}, 200);
+  });
+
+  $('#content').on('click', '.previous-period', function(e) {
+    e.preventDefault();
+    $('.entry.active').prev().click();
+    $('body').animate({scrollTop: 0}, 200);
   });
 
   updateTimeline($('.timeline .entry.active'));
