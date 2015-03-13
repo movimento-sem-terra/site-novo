@@ -7,7 +7,7 @@ tags:
 title: Nota sobre a ameaça de morte a Stedile
 support_line: Circula pelas redes sociais da internet um anúncio que pede “Stedile vivo ou morto” e oferece uma recompensa de R$ 10 mil.
 menu: direitos humanos
-section: cover
+section: null
 layout: post
 files:
   - link: "http://farm9.staticflickr.com/8599/16606542039_8df3fb706d_b.jpg"
