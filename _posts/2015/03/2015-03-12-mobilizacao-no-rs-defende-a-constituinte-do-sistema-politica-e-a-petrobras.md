@@ -6,7 +6,7 @@ tags:
   - tag: jornada-de-luta-2015
   - tag: plebiscito-constituinte
   - tag: petrobrás
-title: Mobilização no RS defende Constituinte do Sistema Política e Petrobras
+title: Mobilização no RS defende Constituinte do Sistema Político e Petrobras
 support_line: "Nesta quinta, as diversas organizações que compõem a CMS se mobilizam em defesa da classe trabalhadora, da Constituinte e da Petrobrás."
 menu: lutas e mobilizações
 layout: post
