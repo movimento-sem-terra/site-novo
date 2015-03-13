@@ -59,10 +59,8 @@ releated_posts:
 <p><br />
 <em>Da P&aacute;gina do MST</em></p>
 
-<p>&nbsp;
 <p><br />
-Mais de 6 mil trabalhadores e trabalhadoras de v&aacute;rios movimentos sociais e sindicais, partidos e entidades de esquerda do campo e da cidade, participaram de um ato hist&oacute;rico, em defesa do Plebiscito Constituinte da Reforma Pol&iacute;tica, da Petrobras e da democracia, nesta ter&ccedil;a-feira (12), em frente ao Pal&aacute;cio Piratini, na Pra&ccedil;a da Matriz, centro de Porto Alegre (RS).</p>
-</p>
+Mais de 6 mil trabalhadores e trabalhadoras de v&aacute;rios movimentos sociais e sindicais, partidos e entidades de esquerda do campo e da cidade, participaram de um ato hist&oacute;rico, em defesa do Plebiscito Constituinte da Reforma Pol&iacute;tica, da Petrobras e da democracia, nesta quinta-feira (12), em frente ao Pal&aacute;cio Piratini, na Pra&ccedil;a da Matriz, centro de Porto Alegre (RS).</p>
 
 <p><br />
 Durante o ato, o coordenador nacional da Via Campesina, Jo&atilde;o Pedro Stedile, defendeu a necessidade da Petrobras continuar sendo uma empresa do povo brasileiro, a servi&ccedil;o da soberania e do desenvolvimento nacional, e n&atilde;o das multinacionais norteamericanas.</p>
