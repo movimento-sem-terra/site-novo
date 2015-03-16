@@ -8,11 +8,14 @@ tags:
   - tag: são-paulo
 section: tv
 video: "https://www.youtube.com/watch?v=f3ZNKovCKX0"
-title: Ato em São Paulo 1reúne cerca de 100 mil pessoas
+title: Ato em São Paulo reúne cerca de 100 mil pessoas
 support_line: "Vídeo sobre a manifestação que reuniu cerca de 100 mil pessoas em São Paulo em defesa da Petrobras e pela Constituinte. Entrevista com Gilmar Mauro, da direção nacional do MST."
 menu: lutas e mobilizações
 layout: post
-files: []
+files:
+  - thumbnail: ""
+    small: ""
+    $$hashKey: 07P
 created_date: "2015-03-16T09:21:05-03:00"
 published: true
 video_thumbnail: "http://img.youtube.com/vi/f3ZNKovCKX0/0.jpg"
