@@ -41,6 +41,7 @@ releated_posts:
   - 2015/03/2015-03-11-jornada-de-lutas-leva-milhares-de-pessoas-as-ruas-durante-o-mes-de-marco.md
   - 2015/03/2015-03-12-movimentos-sociais-do-campo-realizam-ato-unificado-em-sp.md
   - 2015/03/2015-03-12-em-jornada-de-lutas-movimentos-sociais-do-campo-reunem-se-com-o-governador-de-alagoas.md
+section: featured-news
 
 ---
 <p><img alt="RS-MDA-7499.jpg" src="http://farm9.staticflickr.com/8690/16173861684_325506ec5d_b.jpg" /></p>
