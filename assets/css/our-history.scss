@@ -5,8 +5,7 @@
 @import "../neat/neat";
 @import "../_sass/variables";
 
-$medium: new-breakpoint(min-width $screen-md);
-$big: new-breakpoint(min-width $screen-big);
+$mobile: new-breakpoint(max-width 768px);
 
 #our-history {
   padding: 0;
@@ -17,7 +16,8 @@ $big: new-breakpoint(min-width $screen-big);
     position: relative;
 
     .foreground {
-      height: 440px;
+      max-height: 440px;
+      max-width: 100%;
       padding: 30px;
       margin: 0 auto;
       display: block;
@@ -239,8 +239,19 @@ $big: new-breakpoint(min-width $screen-big);
 
     section {
       padding: 40px;
+
+      @include media($mobile) {
+        padding: 40px 10px;
+      }
+
       &:nth-child(odd) {
         background-color: $mst-light-gray;
+      }
+    }
+
+    [class*="col-"] {
+      @include media($mobile) {
+        @include fill-parent();
       }
     }
   }
@@ -249,7 +260,7 @@ $big: new-breakpoint(min-width $screen-big);
 
   .container {
     margin: 0 auto;
-    width: 640px;
+    max-width: 640px;
   }
 
   .scrolltop {
