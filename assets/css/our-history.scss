@@ -142,60 +142,45 @@ $big: new-breakpoint(min-width $screen-big);
 
   #content {
 
-    h1 {
-      text-align: center;
-      font-size: 3em;
-      font-weight: 100;
-      font-style: italic;
-      color: #961913;
-    }
+    article {
 
-    & > .container {
-      display: inline-block;
-      width: 100%;
-      padding: 40px 5px;
-      @media(min-width: $screen-sm) {
-          padding: 40px 15%;
+      h1 {
+        text-align: center;
+        font-size: 3em;
+        font-weight: 100;
+        font-style: italic;
+        color: #961913;
       }
-      @media(min-width: $screen-md) {
-          padding: 40px 25%;
-      }
+
+
       h2 {
-          color: $mst-red;
-          font-size: 2em;
-          margin-bottom: 40px;
+        color: $mst-red;
+        font-size: 2em;
+        margin-bottom: 40px;
 
-          span {
-            border-bottom: 3px solid $mst-green;
-          }
+        span {
+          border-bottom: 3px solid $mst-green;
+        }
       }
 
-      article {
-        clear: both;
-        figure {
-            margin-left: 0;
-            margin-top: 0;
+      figure {
+        margin: 0;
 
-            & > img {
-                width: 100%;
-            }
+        & > img {
+          width: 100%;
         }
-        .column {
-            @include span-columns(6);
-        }
+      }
 
-        strong {
-          color: $mst-green;
-        }
+      strong {
+        color: $mst-green;
+      }
 
-        .element-details {
-          text-align: center;
-          font-size: .8em;
-          font-weight: 700;
-          font-style: italic;
-          margin-bottom: 30px;
-        }
-
+      .element-details {
+        text-align: center;
+        font-size: .8em;
+        font-weight: 700;
+        font-style: italic;
+        margin-bottom: 30px;
       }
 
       .icon {
@@ -246,10 +231,24 @@ $big: new-breakpoint(min-width $screen-big);
           }
         }
       }
+    }
+  }
 
-      &.gray {
-        background-color: $mst-light-gray;
-      }
+  .container {
+    display: inline-block;
+    width: 100%;
+    padding: 40px 5px;
+
+    @media(min-width: $screen-sm) {
+      padding: 40px 15%;
+    }
+
+    @media(min-width: $screen-md) {
+      padding: 40px 25%;
+    }
+
+    &.gray {
+      background-color: $mst-light-gray;
     }
   }
 
@@ -289,30 +288,31 @@ $big: new-breakpoint(min-width $screen-big);
     margin-bottom: 30px;
   }
 
-  .clear {
-    clear: both;
-  }
-
   .centered {
     text-align: center;
     margin: 0 auto;
   }
 
-  .span {
+  .col {
     padding-right: 10px;
   }
 
-  .span-3 {
-    @extend .span;
+  .col-3 {
+    @extend .col;
     @include span-columns(3);
   }
 
-  .span-9 {
-    @extend .span;
+  .col-6 {
+    @extend .col;
+    @include span-columns(6);
+  }
+
+  .col-9 {
+    @extend .col;
     @include span-columns(9);
   }
 
-  .span-last {
+  .col-last {
     padding-right: 0;
   }
 }
