@@ -6,7 +6,7 @@ tags:
   - tag: jornada-de-luta-2015
   - tag: petrobrás
   - tag: constituinte
-title: "Na Bahia, MST participa do Dia Nacional de Lutas em defesa da Petrobras e pela Constituinte"
+title: "Na BA, MST participa do Dia Nacional de Luta em defesa da Petrobras e pela Constituinte"
 menu: lutas e mobilizações
 support_line: "Para Sem Terra, é preciso unificar as forças para defender aquilo que o povo conquistou durante mais de 500 anos."
 layout: post
