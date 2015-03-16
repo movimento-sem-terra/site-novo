@@ -5,8 +5,8 @@ tags:
   - tag: eunício-de-oliveira
   - tag: goiás
   - tag: dom-tomas-balduíno
-title: "Uma semana após despejo, gado de Eunício de Oliveira pisoteiam os alimentos de 3 mil famílias"
-support_line: "As famílias produziram uma diversidade de alimentos como arroz, feijão, milho, mandioca, abóbora, alface, couve, amendoim, gergelim."
+title: "Uma semana após despejo, gado pisoteiam a lavoura de 3 mil famílias"
+support_line: "O Senador Eunício de Oliveira colocou sua boiada para acabar com a produção dos Sem: arroz, feijão, milho, mandioca, abóbora, alface, couve, amendoim, gergelim."
 menu: reforma agrária
 section: cover
 layout: post
@@ -39,9 +39,7 @@ releated_posts:
 <figcaption>Alimentos produzidos pelos agricultores. Do lado direito, parte da lavoura erguida pelos Sem Terra.</figcaption>
 </figure>
 
-<p><br />
-<br />
-<em>Da P&aacute;gina do MST</em></p>
+<p><em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
 Ap&oacute;s seis meses de ocupa&ccedil;&atilde;o de parte do Complexo de Fazendas Santa M&ocirc;nica, no &uacute;ltimo dia 4 de mar&ccedil;o, aproximadamente 3 mil fam&iacute;lias ligadas ao MST, que fazem o Acampamento Dom Tom&aacute;s Balduino, deixaram a &aacute;rea.</p>
