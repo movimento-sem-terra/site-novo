@@ -88,11 +88,11 @@ $big: new-breakpoint(min-width $screen-big);
       background-color: white;
       position: relative;
       .timeline {
-          white-space: nowrap;
-          padding: 10px 0 10px 0;
-          position: relative;
-          background-color: white;
-          transition-duration: .5s;
+        white-space: nowrap;
+        padding: 10px 0 10px 0;
+        position: relative;
+        background-color: white;
+        transition-duration: .5s;
 
         .entry {
           display: inline-block;
@@ -232,24 +232,24 @@ $big: new-breakpoint(min-width $screen-big);
         }
       }
     }
+
+    nav {
+      margin: 30px;
+    }
+
+    section {
+      padding: 40px;
+      &:nth-child(odd) {
+        background-color: $mst-light-gray;
+      }
+    }
   }
 
+
+
   .container {
-    display: inline-block;
-    width: 100%;
-    padding: 40px 5px;
-
-    @media(min-width: $screen-sm) {
-      padding: 40px 15%;
-    }
-
-    @media(min-width: $screen-md) {
-      padding: 40px 25%;
-    }
-
-    &.gray {
-      background-color: $mst-light-gray;
-    }
+    margin: 0 auto;
+    width: 640px;
   }
 
   .scrolltop {
@@ -293,6 +293,15 @@ $big: new-breakpoint(min-width $screen-big);
     margin: 0 auto;
   }
 
+  .row {
+    margin-bottom: 20px;
+    &::after, &::before {
+      display: table;
+      content: " ";
+      clear: both;
+    }
+  }
+
   .col {
     padding-right: 10px;
   }
@@ -312,7 +321,7 @@ $big: new-breakpoint(min-width $screen-big);
     @include span-columns(9);
   }
 
-  .col-last {
+  [class*="col-"].col-last {
     padding-right: 0;
   }
 }
