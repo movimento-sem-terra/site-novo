@@ -3,7 +3,7 @@ date: "2015-03-10T12:41:40-03:00"
 tags:
   - tag: jornada-de-luta-das-mulheres-2015
   - tag: lutas-e-mobilizações
-title: Ações já chegam em 22 estados e mobilizam mais de 30 mil Sem Terra
+title: Mais de 30 mil Sem Terra realizam ações em 23 estados durante jornada de luta
 support_line: "As ações fazem parte da Jornada Nacional de Lutas das Mulheres Camponesas, em que denunciam o modelo do agronegócio."
 menu: lutas e mobilizações
 layout: post
