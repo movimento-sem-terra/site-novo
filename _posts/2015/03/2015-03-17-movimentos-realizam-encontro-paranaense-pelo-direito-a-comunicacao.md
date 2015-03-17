@@ -20,9 +20,15 @@ files:
     small: "http://farm9.staticflickr.com/8564/16224099143_5e430e389d_n.jpg"
     title: curso_comunicaçãoPR2.jpg
     $$hashKey: 0EF
+  - link: "http://farm9.staticflickr.com/8681/16818654786_e0a0a8d059_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8681/16818654786_e0a0a8d059_t.jpg"
+    medium: "http://farm9.staticflickr.com/8681/16818654786_e0a0a8d059_z.jpg"
+    small: "http://farm9.staticflickr.com/8681/16818654786_e0a0a8d059_n.jpg"
+    title: "curso_comunicaçãoPR2!.jpg"
+    $$hashKey: 0EZ
 created_date: "2015-03-17T10:30:57-03:00"
 published: true
-images_hd: "http://farm9.staticflickr.com/8591/16636739617_e97de77348_n.jpg"
+images_hd: "http://farm9.staticflickr.com/8681/16818654786_e0a0a8d059_n.jpg"
 releated_posts:
   - 2014/10/2014-09-30-encontro-de-comunicacao-busca-fortalecer-as-radios-nos-assentamentos.md
   - 2015/02/2015-02-24-democratizacao-da-midia-e-tema-de-encontro-estadual-em-curitiba.md
@@ -31,8 +37,7 @@ releated_posts:
   - 2014/03/2014-03-31-jovens-organizam-curso-de-comunicacao-para-a-juventude-rural.md
 
 ---
-<p><br />
-&nbsp;</p>
+<p>&nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="curso_comunicaçãoPR.jpg" src="http://farm9.staticflickr.com/8591/16636739617_e97de77348_b.jpg" />
 <figcaption></figcaption>
