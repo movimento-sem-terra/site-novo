@@ -31,15 +31,13 @@ releated_posts:
 ---
 <p><img alt="atobahia.jpg" src="http://farm9.staticflickr.com/8675/16210711044_1bb83787b9_b.jpg" /><br />
 <br />
-<em>Por Weslwy Lima<br />
-Da P&aacute;gina do MST</em></p>
+<em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Os trabalhadores rurais Sem Terra da Bahia, em marcha desde a &uacute;ltima segunda-feira (9), participaram do Ato Pol&iacute;tico do Dia Nacional de Lutas em defesa de direitos, da democracia, Petrobr&aacute;s e pela Reforma Pol&iacute;tica.<br />
-de Feira de Santana a Salvador</p>
+Os trabalhadores rurais Sem Terra da Bahia, em marcha desde a &uacute;ltima segunda-feira (9), participaram do Ato Pol&iacute;tico do Dia Nacional de Lutas em defesa de direitos, da democracia, da Petrobras e pela Reforma Pol&iacute;tica.</p>
 
 <p><br />
-A atividade aconteceu nesta sexta-feira (13) em frente &agrave; sede da Petrobr&aacute;s em Salvador, e contou com a participa&ccedil;&atilde;o de 1.200 pessoas de diversas entidades.</p>
+A atividade aconteceu nesta sexta-feira (13) em frente &agrave; sede da Petrobras, em Salvador, e contou com a participa&ccedil;&atilde;o de 1.200 pessoas de diversas entidades.</p>
 
 <p><br />
 Cerca de 500 Sem Terra se somaram aos trabalhadores e trabalhadoras do Sindicato dos Petroleiros, Central &Uacute;nica dos Trabalhadores (CUT), Central dos Trabalhadores e Trabalhadoras do Brasil (CTB), PCdoB, Partido dos Trabalhadores (PT), Federa&ccedil;&atilde;o dos Trabalhadores na Agricultura Familiar, Marcha Mundial das Mulheres (MMM), Levante Popular da Juventude e Consulta Popular.</p>
@@ -60,7 +58,7 @@ J&aacute; Ma&iacute;ra Guedes, da MMM, acredita que a Reforma Pol&iacute;tica se
 <strong>Petrobr&aacute;s</strong></p>
 
 <p><br />
-A Petrobr&aacute;s, uma das maiores empresas brasileiras e que tem uma das reservas de petr&oacute;leo mais disputadas atualmente, como o Pr&eacute;-Sal, est&aacute; seriamente amea&ccedil;ada pela press&atilde;o do capital internacional e corre risco de ser privatizada.</p>
+A Petrobras, uma das maiores empresas brasileiras e que tem uma das reservas de petr&oacute;leo mais disputadas atualmente, como o Pr&eacute;-Sal, est&aacute; seriamente amea&ccedil;ada pela press&atilde;o do capital internacional e corre risco de ser privatizada.</p>
 
 <p><br />
 Os manifestantes diziam que a defesa de uma empresa que garanta os interesses p&uacute;blicos n&atilde;o se faz com privatiza&ccedil;&atilde;o, mas sim com uma profunda reforma do sistema pol&iacute;tico.</p>
