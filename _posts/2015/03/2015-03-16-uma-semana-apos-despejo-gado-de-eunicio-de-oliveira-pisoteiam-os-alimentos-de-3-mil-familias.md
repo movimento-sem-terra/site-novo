@@ -5,7 +5,7 @@ tags:
   - tag: eunício-de-oliveira
   - tag: goiás
   - tag: dom-tomas-balduíno
-title: "Uma semana após despejo, gado pisoteiam a lavoura de 3 mil famílias"
+title: "Uma semana após despejo, gados pisoteiam a lavoura de 3 mil famílias"
 support_line: "O Senador Eunício de Oliveira colocou sua boiada para acabar com a produção dos Sem: arroz, feijão, milho, mandioca, abóbora, alface, couve, amendoim, gergelim."
 menu: reforma agrária
 section: cover
