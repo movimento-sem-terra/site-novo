@@ -25,6 +25,8 @@ releated_posts:
   - 2015/03/2015-03-12-nota-sobre-a-ameaca-de-morte-a-stedile.md
 
 ---
+<p>&nbsp;</p>
+
 <p><em>Da P&aacute;gina do MST </em></p>
 
 <p>&nbsp;</p>
@@ -98,7 +100,7 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p><em><strong>Do</strong> </em><strong><em>Levante Popular da Juventude </em></strong></p>
+<p><em><strong>Do</strong> </em><strong><em>Levante Popular da Juventude</em></strong></p>
 
 <p><em>O Levante Popular da Juventude repudia a manifesta&ccedil;&atilde;o difundida nas redes sociais na &uacute;ltima semana que amea&ccedil;a a vida de Jo&atilde;o Pedro St&eacute;dile, principal refer&ecirc;ncia dos movimentos sociais e organiza&ccedil;&otilde;es populares no Brasil.</em></p>
 
@@ -113,8 +115,6 @@ releated_posts:
 <p>&nbsp;</p>
 
 <p><em><strong>Da</strong> </em><strong><em>Direcci&oacute;n Nacional</em></strong><strong><em> da CONAMURI</em></strong></p>
-
-<p>&nbsp;</p>
 
 <p><em>Desde la CONAMURI, Organizaci&oacute;n de Mujeres Campesinas e Ind&iacute;genas, deseamos expresar nuestra solidaridad con el compa&ntilde;ero&nbsp;Jo&atilde;oPedro Stedile, dirigente hist&oacute;rico del Movimiento de Trabajadores Rurales Sin Tierra (MST, de Brasil), que est&aacute; siendo amenazado de muerte por ciertos exponentes del sector m&aacute;s reaccionario del vecino pa&iacute;s.</em></p>
 
