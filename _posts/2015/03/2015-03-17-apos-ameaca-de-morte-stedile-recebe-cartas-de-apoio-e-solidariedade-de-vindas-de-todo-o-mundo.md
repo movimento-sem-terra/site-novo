@@ -11,20 +11,30 @@ support_line: Entidades e personalidades manifestaram seu apoio e solidariedade 
 menu: direitos humanos
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8698/16845325572_f1af655105_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8698/16845325572_f1af655105_t.jpg"
-    medium: "http://farm9.staticflickr.com/8698/16845325572_f1af655105_z.jpg"
-    small: "http://farm9.staticflickr.com/8698/16845325572_f1af655105_n.jpg"
-    title: pedro-stedile.jpg
-    $$hashKey: 028
+  - link: "http://farm9.staticflickr.com/8585/16853267235_8e28cd9ce7_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8585/16853267235_8e28cd9ce7_t.jpg"
+    medium: "http://farm9.staticflickr.com/8585/16853267235_8e28cd9ce7_z.jpg"
+    small: "http://farm9.staticflickr.com/8585/16853267235_8e28cd9ce7_n.jpg"
+    title: Stedile_Rafa.jpg
+    $$hashKey: 05A
+  - link: "http://farm8.staticflickr.com/7648/16827401206_0a33bb908d_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7648/16827401206_0a33bb908d_t.jpg"
+    medium: "http://farm8.staticflickr.com/7648/16827401206_0a33bb908d_z.jpg"
+    small: "http://farm8.staticflickr.com/7648/16827401206_0a33bb908d_n.jpg"
+    title: Pavel Equez.fw.png
+    $$hashKey: 05D
 created_date: "2015-03-17T15:30:14-03:00"
 published: true
-images_hd: "http://farm9.staticflickr.com/8698/16845325572_f1af655105_n.jpg"
+images_hd: "http://farm9.staticflickr.com/8585/16853267235_8e28cd9ce7_n.jpg"
 releated_posts:
   - 2014/12/2014-11-12-comunidade-quilombola-do-maranhao-e-ameacada-por-fazendeiro.md
   - 2015/03/2015-03-12-nota-sobre-a-ameaca-de-morte-a-stedile.md
 
 ---
+<figure class="image"><img alt="Pavel Equez.fw.png" src="http://farm8.staticflickr.com/7648/16827401206_0a33bb908d_b.jpg" />
+<figcaption>Obra feita pelo grande muralista equatoriano, Pavel Eguez, em solidariedade ao Stedile.</figcaption>
+</figure>
+
 <p><br />
 <em>Da P&aacute;gina do MST </em></p>
 
@@ -51,6 +61,18 @@ Vale lembrar que o crime de amea&ccedil;a por palavra, escrito ou gesto, ou qual
 
 <p><br />
 <strong>Abaixo algumas cartas recebidas:</strong></p>
+
+<p><br />
+<em><strong>Dom Pedro Casaldaliga</strong></em></p>
+
+<p><em>Queridos companheiros e companheiras do MST. &Eacute; hora de renovarmos o compromisso de caminharmos juntos; nas lutas do nosso povo. Anunciando e denunciando e estimulando a esperan&ccedil;a, que n&atilde;o falha, porque e causa do Deus da Vida e da Terra. Para Joao Pedro um abra&ccedil;o de carinho e de for&ccedil;a. Um abra&ccedil;o entranh&aacute;vel para todo MST.</em></p>
+
+<p><br />
+<em><strong>Frei Betto </strong></em></p>
+
+<p><em>Jo&atilde;o, meu irm&atilde;o: a sua vida vale muito mais que 10 mil. Vale, por ex, a minha. Conte comigo, sempre.<br />
+Bra&ccedil;&atilde;o fraterno e que Deus te protega, aben&ccedil;oe e encoraje sempre!<br />
+Betto </em></p>
 
 <p><br />
 <em><strong>Da</strong> </em><strong><em>Coordenadoria Ecum&ecirc;nica de Servi&ccedil;o &ndash; CESE</em></strong></p>
