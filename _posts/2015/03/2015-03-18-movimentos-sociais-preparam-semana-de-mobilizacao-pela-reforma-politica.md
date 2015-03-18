@@ -27,12 +27,11 @@ releated_posts:
   - 2015/03/2015-03-05-reforma-politica-as-10-armadilhas-da-emenda-vacarezza.md
 
 ---
-<figure class="image" style="float:right"><img alt="reforma política já.jpg" src="http://farm9.staticflickr.com/8754/16666004490_7417840df7_b.jpg" />
+<figure class="image"><img alt="reforma política já.jpg" src="http://farm9.staticflickr.com/8754/16666004490_7417840df7_b.jpg" />
 <figcaption>Foto: Eduardo Anizelli. Folhapress.</figcaption>
 </figure>
 
 <p><br />
-<br />
 <em>Do Brasil de Fato</em></p>
 
 <p><br />
