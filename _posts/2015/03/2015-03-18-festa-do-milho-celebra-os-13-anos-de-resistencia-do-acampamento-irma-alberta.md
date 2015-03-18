@@ -4,7 +4,7 @@ tags:
   - tag: reforma-agrária
   - tag: são-paulo
   - tag: acampamento-irma-alberta
-title: Festa do Milho celebra os 13 anos de resistência do Acampamento Irmã Alberta
+title: Festa do Milho celebra 13 anos de resistência do Acampamento Irmã Alberta
 support_line: "Os Sem Terra também promovem a Feira Orgânica da Reforma Agrária, com produtos vindos de diversos assentamentos da grande São Paulo."
 menu: reforma agrária
 section: cover
