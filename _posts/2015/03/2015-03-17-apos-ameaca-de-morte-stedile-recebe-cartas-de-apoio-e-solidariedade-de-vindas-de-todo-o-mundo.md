@@ -6,8 +6,8 @@ tags:
   - tag: Stédile
   - tag: MST
   - tag: solidariedade
-title: "Após ameaça de morte, Stedile recebe cartas de apoio e solidariedade de vindas de todo o mundo  "
-support_line: "Entidades de todo o mundo manifestaram seu apoio e solidariedade a João Pedro Stédile após a veiculação de ameaça de morte sofrida através de uma rede social. "
+title: "Após ameaça de morte, Stedile recebe cartas de solidariedade do mundo inteiro"
+support_line: Entidades e personalidades manifestaram seu apoio e solidariedade a João Pedro Stédile após a veiculação de ameaça de morte.
 menu: direitos humanos
 layout: post
 files:
@@ -25,45 +25,35 @@ releated_posts:
   - 2015/03/2015-03-12-nota-sobre-a-ameaca-de-morte-a-stedile.md
 
 ---
-<p>&nbsp;</p>
+<p><br />
+<em>Da P&aacute;gina do MST </em></p>
 
-<p><em>Da P&aacute;gina do MST </em></p>
+<p><br />
+As demonstra&ccedil;&otilde;es de solidariedade chegaram de diferentes setores da sociedade como da Associacion Amigos de la Tierra Am&eacute;rica Latina y el Caribe (ATALC) do Uruguai, Solidaridad Su&eacute;cia &ndash; Am&eacute;rica Latina, da Organizaci&oacute;n de Mujeres Campesinas e Ind&iacute;genas, do Partido Democr&aacute;tico Trabalhista (PDT), da Assolcia&ccedil;ao de Trentinos do Mundo na It&aacute;lia, entre outros.</p>
 
-<p>&nbsp;</p>
+<p><br />
+O apoio recebido se refere ao an&uacute;ncio que circulou pelas redes sociais nos &uacute;ltimos dias, em que pedia &quot;Stedile vivo ou morto&quot;, e o classificava como &quot;inimigo da p&aacute;tria&quot;, oferecendo uma recompensa de R$ 10 mil.</p>
 
-<p>As demonstra&ccedil;&otilde;es de solidariedade chegaram de diferentes setores da sociedade como da Associacion Amigos de la Tierra Am&eacute;rica Latina y el Caribe (ATALC) do Uruguai, Solidaridad Su&eacute;cia &ndash; Am&eacute;rica Latina, da Organizaci&oacute;n de Mujeres Campesinas e Ind&iacute;genas, do Partido Democr&aacute;tico Trabalhista (PDT), da Assolcia&ccedil;ao de Trentinos do Mundo na It&aacute;lia, entre outros.</p>
+<p><br />
+Dom Pedro Casaldaliga disse que &ldquo;&eacute; hora de renovarmos o compromisso de caminharmos juntos; nas lutas do nosso povo. Anunciando e denunciando e estimulando a esperan&ccedil;a, que n&atilde;o falha&rdquo;.</p>
 
-<p>&nbsp;</p>
+<p><br />
+J&aacute; a organiza&ccedil;&atilde;o Solidariedad Su&eacute;cia-Am&eacute;rica Latina emitiu uma nota recha&ccedil;ando as amea&ccedil;as e desejando que o MST siga firma na luta contra o latif&uacute;ndio e pela Reforma Agr&aacute;ria no Brasil.</p>
 
-<p>Em uma montagem, que circulou na internet nos &uacute;ltimos dias, uma foto de St&eacute;dile, o classifica de &quot;inimigo da p&aacute;tria&quot;, diz que ele &eacute; procurado &quot;vivo ou morto&quot; e oferece uma recompensa de R$ 10 mil.</p>
+<p><br />
+Em uma carta emocionada, Frei Betto colocou: &quot;Jo&atilde;o, meu irm&atilde;o: a sua vida vale muito mais que 10 mil. Vale, por ex, a minha. Conte comigo, sempre&quot;.</p>
 
-<p>&nbsp;</p>
+<p><br />
+O departamento jur&iacute;dico do Movimento j&aacute; est&aacute; tomando as medidas necess&aacute;rias para que os respons&aacute;veis pelas veicula&ccedil;&otilde;es sejam punidos. Uma representa&ccedil;&atilde;o ser&aacute; impetrada no Minist&eacute;rio P&uacute;blico de Maca&eacute;, pois o post teria partido da p&aacute;gina pessoal, no Facebook, de um funcion&aacute;rio aposentado da Guarda Municipal dessa cidade fluminense. &nbsp;</p>
 
-<p>Para Dom Pedro Casaldaliga &ldquo;&Eacute; hora de renovarmos o compromisso de caminharmos juntos; nas lutas do nosso povo. Anunciando e denunciando e estimulando a esperan&ccedil;a, que n&atilde;o falha&rdquo;.</p>
+<p><br />
+Vale lembrar que o crime de amea&ccedil;a por palavra, escrito ou gesto, ou qualquer outro meio simb&oacute;lico, est&aacute; inscrito no artigo (147 do C&oacute;digo Penal), &eacute; pass&iacute;vel de pena - deten&ccedil;&atilde;o, de um a seis meses, ou multa.</p>
 
-<p>&nbsp;</p>
+<p><br />
+<strong>Abaixo algumas cartas recebidas:</strong></p>
 
-<p>J&aacute; a organiza&ccedil;&atilde;o Solidariedad Su&eacute;cia-Am&eacute;rica Latina emitiu nota recha&ccedil;ando as amea&ccedil;as e desejando que o MST siga firma na luta contra o latif&uacute;ndio e pela Reforma Agr&aacute;ria no Brasil.</p>
-
-<p>&nbsp;</p>
-
-<p>Em uma carta emocionada Frei Betto, diz: Jo&atilde;o, meu irm&atilde;o: a sua vida vale muito mais que 10 mil. Vale, por ex, a minha. Conte comigo, sempre.</p>
-
-<p>&nbsp;</p>
-
-<p>O departamento jur&iacute;dico do Movimento j&aacute; est&aacute; tomando as medidas necess&aacute;rias para que os respons&aacute;veis pelas veicula&ccedil;&otilde;es sejam punidos. Uma representa&ccedil;&atilde;o ser&aacute; impetrada no Minist&eacute;rio P&uacute;blico de Maca&eacute;, pois o post teria partido da p&aacute;gina pessoal, no Facebook, de um funcion&aacute;rio aposentado da Guarda Municipal dessa cidade fluminense. &nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>Vale lembrar que o crime de amea&ccedil;a por palavra, escrito ou gesto, ou qualquer outro meio simb&oacute;lico, est&aacute; inscrito no artigo (147 do C&oacute;digo Penal), &eacute; pass&iacute;vel de pena - deten&ccedil;&atilde;o, de um a seis meses, ou multa.</p>
-
-<p>&nbsp;</p>
-
-<p><strong>Abaixo algumas cartas recebidas:</strong></p>
-
-<p>&nbsp;</p>
-
-<p><em><strong>Da</strong> </em><strong><em>Coordenadoria Ecum&ecirc;nica de Servi&ccedil;o &ndash; CESE</em></strong></p>
+<p><br />
+<em><strong>Da</strong> </em><strong><em>Coordenadoria Ecum&ecirc;nica de Servi&ccedil;o &ndash; CESE</em></strong></p>
 
 <p><em>A CESE, em sua trajet&oacute;ria de 41 anos de atua&ccedil;&atilde;o em defesa dos direitos humanos, est&aacute; profundamente preocupada com a crescente onda de criminaliza&ccedil;&atilde;o de lideran&ccedil;as e movimentos sociais que se espalham pelo pa&iacute;s, estimulada por discursos de &oacute;dio que disseminam a viol&ecirc;ncia.</em></p>
 
@@ -135,27 +125,3 @@ releated_posts:
 <p><em>La amenaza, realizada a trav&eacute;s de un anuncio circulado por internet y que ofrece un monto de 3 mil d&oacute;lares a quien entregue a St&eacute;dile &ldquo;vivo o muerto&rdquo;, ya ha sido denunciada a las autoridades competentes como un crimen de incitaci&oacute;n a la pr&aacute;ctica de homicidio. Desde ATALC demandamos que los responsables respondan ante la justicia. Nuestro compa&ntilde;ero Jo&atilde;o Pedro St&eacute;dile quien junto al movimiento al que pertenece, el MST, ha llevado adelante una lucha inclaudicable por el derecho a la tierra y la soberan&iacute;a alimentaria en Brasil y en </em></p>
 
 <p><em>Am&eacute;rica Latina, representa para nuestros pueblos un ejemplo de entrega infinita y consecuente a la causa de la justicia social y la dignidad y soberan&iacute;a de nuestros pueblos. Como ya hemos dicho, tocan a uno y nos tocan a todos y todas. El gobierno y la justicia brasile&ntilde;a deben velar en este momento por la protecci&oacute;n de St&eacute;dile y todos/as los/as luchadores/as sociales.Expresamos adem&aacute;s nuestra profunda solidaridad con la amplia gama de movimientos sociales brasile&ntilde;os, que ante este panorama de violencia pol&iacute;tica virulenta, han convocado para este viernes 13 de marzo a grandes movilizaciones en diversos estados del pa&iacute;s.</em></p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
