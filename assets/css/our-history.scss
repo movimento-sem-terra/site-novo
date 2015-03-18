@@ -246,7 +246,7 @@ $mobile: new-breakpoint(max-width 768px);
         padding: 40px 10px;
       }
 
-      &:nth-child(odd) {
+      &:nth-of-type(even) {
         background-color: $mst-light-gray;
       }
     }
