@@ -194,7 +194,7 @@ $mobile: new-breakpoint(max-width 768px);
 
       .red {
         color: $mst-red;
-        font-size: 1.8em;
+        font-size: 1.5em;
         line-height: 1em;
       }
 
@@ -204,13 +204,15 @@ $mobile: new-breakpoint(max-width 768px);
         padding-top: 0px;
         font-style: italic;
         position: relative;
+        font-weight: 600;
+        line-height: 1.2em;
 
         &.quoted, .quoted {
           position: relative;
           padding: 0 1em;
 
           &:after, &:before {
-            font-size: 4em;
+            font-size: 3em;
             color: $mst-green;
             line-height: 0;
             position: absolute;
