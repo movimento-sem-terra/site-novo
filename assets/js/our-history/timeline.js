@@ -31,17 +31,15 @@ $(document).ready(function() {
     updateContent($(this));
   });
 
-  $('#content').on('click', '.next-period', function(e) {
-    e.preventDefault();
-    $('.entry.active').next().click();
-    $('body').animate({scrollTop: 0}, 200);
+  $('#content').on('click', '.next-period, .previous-period', function(e) {
+    var target = $('.entry[href="'+ $(this).attr('href') +'"]');
+    if(target.size() > 0) {
+      e.preventDefault();
+      target.click();
+      $('body').animate({scrollTop: 0}, 200);
+    }
   });
 
-  $('#content').on('click', '.previous-period', function(e) {
-    e.preventDefault();
-    $('.entry.active').prev().click();
-    $('body').animate({scrollTop: 0}, 200);
-  });
 
   updateTimeline($('.timeline .entry.active'));
 })
