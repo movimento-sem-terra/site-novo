@@ -6,7 +6,7 @@ tags:
   - tag: Stédile
   - tag: MST
   - tag: solidariedade
-title: "Após ameaça de morte, Stedile recebe cartas de solidariedade do mundo inteiro"
+title: "Após ameaça, Stedile recebe cartas de solidariedade do mundo inteiro"
 support_line: Entidades e personalidades manifestaram seu apoio e solidariedade a João Pedro Stédile após a veiculação de ameaça de morte.
 menu: direitos humanos
 layout: post
@@ -147,3 +147,12 @@ Betto </em></p>
 <p><em>La amenaza, realizada a trav&eacute;s de un anuncio circulado por internet y que ofrece un monto de 3 mil d&oacute;lares a quien entregue a St&eacute;dile &ldquo;vivo o muerto&rdquo;, ya ha sido denunciada a las autoridades competentes como un crimen de incitaci&oacute;n a la pr&aacute;ctica de homicidio. Desde ATALC demandamos que los responsables respondan ante la justicia. Nuestro compa&ntilde;ero Jo&atilde;o Pedro St&eacute;dile quien junto al movimiento al que pertenece, el MST, ha llevado adelante una lucha inclaudicable por el derecho a la tierra y la soberan&iacute;a alimentaria en Brasil y en </em></p>
 
 <p><em>Am&eacute;rica Latina, representa para nuestros pueblos un ejemplo de entrega infinita y consecuente a la causa de la justicia social y la dignidad y soberan&iacute;a de nuestros pueblos. Como ya hemos dicho, tocan a uno y nos tocan a todos y todas. El gobierno y la justicia brasile&ntilde;a deben velar en este momento por la protecci&oacute;n de St&eacute;dile y todos/as los/as luchadores/as sociales.Expresamos adem&aacute;s nuestra profunda solidaridad con la amplia gama de movimientos sociales brasile&ntilde;os, que ante este panorama de violencia pol&iacute;tica virulenta, han convocado para este viernes 13 de marzo a grandes movilizaciones en diversos estados del pa&iacute;s.</em></p>
+
+<p><br />
+<em><strong>Fr&egrave;res des Hommes</strong></em></p>
+
+<p><em>A Fr&egrave;res des Hommes denuncia estas manipula&ccedil;&otilde;es e amea&ccedil;as feitas espec&iacute;ficamente ao Jo&atilde;o Pedro St&eacute;dile, e quer reiterar toda a sua solidariedade e o seu apoio &agrave; sua pessoa em particular, assim como &agrave; ac&ccedil;&atilde;o do Movimento dos Trabalhadores rurais sem terra no geral, que, como a Fr&egrave;res des Hommes, est&aacute; comprometido numa luta por um mundo melhor, mais justo e mais solid&aacute;rio.</em></p>
+
+<p><em>Paris, 18 de Mar&ccedil;o de 2015</em></p>
+
+<p><em>Luc Michelon, Presidente da Fr&egrave;res des Hommes</em></p>
