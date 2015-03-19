@@ -7,7 +7,7 @@ tags:
 title: Cerca de 100 mil ocupam a Paulista pela Constituinte e em defesa da Petrobras
 support_line: "Ocorreram atos com o mesmo conjunto de pautas em mais 17 estados do país. No total, 22 cidades no Brasil tiveram manifestações."
 menu: lutas e mobilizações
-section: featured-news
+section: null
 layout: post
 files:
   - link: "http://farm8.staticflickr.com/7286/16184196244_a3937fbe1e_b.jpg"
