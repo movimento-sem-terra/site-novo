@@ -4,7 +4,7 @@ tags:
   - tag: marcha
   - tag: bahia
   - tag: jornada-de-luta-2015
-title: "Após Marcha, Sem Terra obtém respostas positivas do governo da Bahia"
+title: "Após Marcha, Sem Terra obtém respostas positivas do governo da BA"
 support_line: "Cerca de 6 mil Sem Terra percorreram 116 km em uma semana, ao saírem de Feira de Santana até Salvador."
 menu: lutas e mobilizações
 section: cover
