@@ -10,15 +10,33 @@ menu: lutas e mobilizações
 section: cover
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8729/16837530056_fb0e157a13_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8729/16837530056_fb0e157a13_t.jpg"
-    medium: "http://farm9.staticflickr.com/8729/16837530056_fb0e157a13_z.jpg"
-    small: "http://farm9.staticflickr.com/8729/16837530056_fb0e157a13_n.jpg"
-    title: curso_formação_AL.jpg
-    $$hashKey: 09C
+  - link: "http://farm9.staticflickr.com/8677/16656152357_9bc763a873_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8677/16656152357_9bc763a873_t.jpg"
+    medium: "http://farm9.staticflickr.com/8677/16656152357_9bc763a873_z.jpg"
+    small: "http://farm9.staticflickr.com/8677/16656152357_9bc763a873_n.jpg"
+    title: BAhia.jpg
+    $$hashKey: 0AV
+  - link: "http://farm9.staticflickr.com/8596/16243492603_f6cd023a91_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8596/16243492603_f6cd023a91_t.jpg"
+    medium: "http://farm9.staticflickr.com/8596/16243492603_f6cd023a91_z.jpg"
+    small: "http://farm9.staticflickr.com/8596/16243492603_f6cd023a91_n.jpg"
+    title: bahia2.jpg
+    $$hashKey: 0AY
+  - link: "http://farm8.staticflickr.com/7646/16243493383_03d636e622_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7646/16243493383_03d636e622_t.jpg"
+    medium: "http://farm8.staticflickr.com/7646/16243493383_03d636e622_z.jpg"
+    small: "http://farm8.staticflickr.com/7646/16243493383_03d636e622_n.jpg"
+    title: BAhia3.jpg
+    $$hashKey: 0B1
+  - link: "http://farm9.staticflickr.com/8655/16675855528_c510db208e_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8655/16675855528_c510db208e_t.jpg"
+    medium: "http://farm9.staticflickr.com/8655/16675855528_c510db208e_z.jpg"
+    small: "http://farm9.staticflickr.com/8655/16675855528_c510db208e_n.jpg"
+    title: bahia4.jpg
+    $$hashKey: 0B4
 created_date: "2015-03-19T10:39:40-03:00"
 published: true
-images_hd: "http://farm9.staticflickr.com/8729/16837530056_fb0e157a13_n.jpg"
+images_hd: "http://farm9.staticflickr.com/8677/16656152357_9bc763a873_n.jpg"
 releated_posts:
   - 2015/03/2015-03-13-juventude-sem-terra-se-desafia-a-impulsionar-a-participacao-na-luta-pela-reforma-agraria.md
   - 2015/03/2015-03-11-trabalhadoras-sem-terra-protagonizam-a-luta-durante-marcha-do-mst-na-bahia.md
@@ -26,7 +44,8 @@ releated_posts:
   - 2015/03/2015-03-12-em-audiencia-ministro-patrus-afirma-compromisso-de-assentar-todas-as-familias-acampadas.md
 
 ---
-<p><br />
+<p><img alt="BAhia.jpg" src="http://farm9.staticflickr.com/8677/16656152357_9bc763a873_b.jpg" /><br />
+<br />
 <em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
@@ -38,8 +57,13 @@ Em seguida, participaram de uma Assembleia na Governadoria do Estado com respost
 <p><br />
 Este momento culmina a Marcha Estadual do MST, realizada de Feira de Santana a Salvador, que percorreu cerca de 116 km.</p>
 
-<p><br />
-A marcha, que saiu no dia 9/03, cumpriu o objetivo de estabelecer um di&aacute;logo com a sociedade sobre a Reforma Agr&aacute;ria e denunciar &agrave;s contradi&ccedil;&otilde;es do agroneg&oacute;cio, assim como, a viol&ecirc;ncia contra a mulher e o capital.</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="BAhia3.jpg" src="http://farm8.staticflickr.com/7646/16243493383_03d636e622_b.jpg" />
+<figcaption></figcaption>
+</figure>
+
+<p>A marcha, que saiu no dia 9/03, cumpriu o objetivo de estabelecer um di&aacute;logo com a sociedade sobre a Reforma Agr&aacute;ria e denunciar &agrave;s contradi&ccedil;&otilde;es do agroneg&oacute;cio, assim como, a viol&ecirc;ncia contra a mulher e o capital.</p>
 
 <p><br />
 De acordo com Gl&oacute;ria Barbosa, do Assentamento Lul&atilde;o, esta marcha &eacute; um avan&ccedil;o na organiza&ccedil;&atilde;o do Movimento e no debate social sobre a Reforma Agr&aacute;ria.</p>
@@ -62,7 +86,8 @@ Foram necess&aacute;rias tr&ecirc;s reuni&otilde;es com o governador Rui Costa (
 <p><br />
 Por&eacute;m, o MST avalia de maneira positiva as negocia&ccedil;&otilde;es, tendo em vista que na maioria dos pontos reivindicados houve uma sinaliza&ccedil;&atilde;o positiva.</p>
 
-<p><br />
+<p><img alt="bahia2.jpg" src="http://farm9.staticflickr.com/8596/16243492603_f6cd023a91_b.jpg" /><br />
+<br />
 De acordo Elizabeth Rocha, da dire&ccedil;&atilde;o nacional, este momento &eacute; hist&oacute;rico para o MST. &ldquo;Nossa luta tem o papel de cobrar e estreitar as rela&ccedil;&otilde;es com o governo, para pautar e conquistar direitos para toda classe trabalhadora. N&oacute;s conseguimos isso&rdquo;.</p>
 
 <p><br />
@@ -74,8 +99,13 @@ J&aacute; Marcio Matos, tamb&eacute;m da dire&ccedil;&atilde;o nacional, disse q
 <p><br />
 &ldquo;Este ano, preparamos uma pauta de reivindica&ccedil;&atilde;o para que pud&eacute;ssemos dialogar com o governo. Nesta negocia&ccedil;&atilde;o estabelecemos prioridades, e nossas demandas s&atilde;o estrat&eacute;gicas para o desenvolvimento social da Agricultura Camponesa, garantindo sua soberania. Nossa vit&oacute;ria foi o compromisso assumido pelo governador com nossa pauta, e isso se respalda na constru&ccedil;&atilde;o de uma Reforma Agr&aacute;ria capaz de garantir desenvolvimento ao trabalhador rural&rdquo;, conclui.</p>
 
-<p><br />
-O governador Rui Costa, por sua vez, afirmou que &ldquo;a hist&oacute;ria nega a participa&ccedil;&atilde;o do povo na constru&ccedil;&atilde;o de sua identidade e de seu direito a lutar. Queremos mudar esta realidade e para construir isso, precisamos caminhar juntos&rdquo;.</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="bahia4.jpg" src="http://farm9.staticflickr.com/8655/16675855528_c510db208e_b.jpg" />
+<figcaption>Governador Rui Costa promete atender demanda dos Sem Terra.</figcaption>
+</figure>
+
+<p>O governador Rui Costa, por sua vez, afirmou que &ldquo;a hist&oacute;ria nega a participa&ccedil;&atilde;o do povo na constru&ccedil;&atilde;o de sua identidade e de seu direito a lutar. Queremos mudar esta realidade e para construir isso, precisamos caminhar juntos&rdquo;.</p>
 
 <p><br />
 Ap&oacute;s a Assembleia e a sinaliza&ccedil;&atilde;o positiva do governo, os trabalhadores retornaram a seus Assentamentos e Acampamento com o desafio de continuar da luta e fazer no m&ecirc;s de abril a maior jornada de ocupa&ccedil;&otilde;es de terra da Bahia.</p>
