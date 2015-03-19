@@ -10,15 +10,27 @@ support_line: "Os campesinos vivem num verdadeiro Estado de Sítio, sofrem com a
 menu: agronegócio
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8705/16678532329_1472967b35_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8705/16678532329_1472967b35_t.jpg"
-    medium: "http://farm9.staticflickr.com/8705/16678532329_1472967b35_z.jpg"
-    small: "http://farm9.staticflickr.com/8705/16678532329_1472967b35_n.jpg"
-    title: grande marcha patriotica em frente ao palácio do governo.JPG
-    $$hashKey: 0BI
+  - link: "http://farm8.staticflickr.com/7652/16677369920_ed2a5fae3e_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7652/16677369920_ed2a5fae3e_t.jpg"
+    medium: "http://farm8.staticflickr.com/7652/16677369920_ed2a5fae3e_z.jpg"
+    small: "http://farm8.staticflickr.com/7652/16677369920_ed2a5fae3e_n.jpg"
+    title: grande marcha patriotica em frente ao palácio do governo.jpg
+    $$hashKey: 0L4
+  - link: "http://farm8.staticflickr.com/7639/16677159138_a55f245a99_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7639/16677159138_a55f245a99_t.jpg"
+    medium: "http://farm8.staticflickr.com/7639/16677159138_a55f245a99_z.jpg"
+    small: "http://farm8.staticflickr.com/7639/16677159138_a55f245a99_n.jpg"
+    title: policiais protegendo plantação de soja transgênica durante fumigação.jpg
+    $$hashKey: 0L7
+  - link: "http://farm9.staticflickr.com/8610/16242422814_5a090f66ac_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8610/16242422814_5a090f66ac_t.jpg"
+    medium: "http://farm9.staticflickr.com/8610/16242422814_5a090f66ac_z.jpg"
+    small: "http://farm9.staticflickr.com/8610/16242422814_5a090f66ac_n.jpg"
+    title: grande marcha patriotica chegando em asunción.jpg
+    $$hashKey: 0LA
 created_date: "2015-03-19T13:24:53-03:00"
 published: true
-images_hd: "http://farm9.staticflickr.com/8705/16678532329_1472967b35_n.jpg"
+images_hd: "http://farm8.staticflickr.com/7639/16677159138_a55f245a99_n.jpg"
 releated_posts:
   - 2014/04/2014-04-30-90-trabalhavam-com-dor-no-frigorifico-da-brasil-foods.md
   - 2014/05/2014-05-23-em-beneficio-do-agronegocio-direitos-humanos-de-comunidades-sao-violados.md
@@ -26,8 +38,11 @@ releated_posts:
   - 2015/02/2015-02-13-no-paraguai-agricultores-se-recusam-a-ingressar-no-modelo-imposto-pelo-agronegocio.md
 
 ---
-<p><br />
-<em>Por Mariana Serafini<br />
+<figure class="image"><img alt="grande marcha patriotica em frente ao palácio do governo.jpg" src="http://farm8.staticflickr.com/7652/16677369920_ed2a5fae3e_b.jpg" />
+<figcaption>Grande marcha patri&oacute;tica em frente ao Pal&aacute;cio do governo.</figcaption>
+</figure>
+
+<p><em>Por Mariana Serafini<br />
 Especial para a P&aacute;gina do MST</em></p>
 
 <p><br />
@@ -42,6 +57,10 @@ e n&atilde;o demorou para coloc&aacute;-la em pr&aacute;tica nos departamentos d
 
 <p><br />
 Com o pretexto de combater um grupo guerrilheiro intitulado Ex&eacute;rcito do Povo Paraguaio (EPP), o Estado invade e persegue comunidades campesinas inteiras. &ldquo;No fundo o objetivo &eacute; limpar o territ&oacute;rio, remover a popula&ccedil;&atilde;o campesina, ampliar o desflorestamento e plantar soja, tudo combinado com a quest&atilde;o das drogas nesta &aacute;rea&rdquo;, diz o ativista da ONG Centro Antonio Guasch, Reinaldo Bogar&iacute;n Al&eacute;n.</p>
+
+<figure class="image"><img alt="policiais protegendo plantação de soja transgênica durante fumigação.jpg" src="http://farm8.staticflickr.com/7639/16677159138_a55f245a99_b.jpg" />
+<figcaption>Policias protegendo planta&ccedil;&atilde;o de soja transg&ecirc;nica durante fumiga&ccedil;&atilde;o.</figcaption>
+</figure>
 
 <p><br />
 <strong>Despejos e assassinatos</strong></p>
@@ -76,6 +95,10 @@ Em in&uacute;meras situa&ccedil;&otilde;es, devido ao uso de agrot&oacute;xicos 
 
 <p><br />
 A redu&ccedil;&atilde;o dos &ldquo;campesinos&rdquo; &eacute;, claramente, uma prioridade da administra&ccedil;&atilde;o de Cartes. Recentemente o ministro da Agricultura e Agropecu&aacute;ria, Jorge Gattini, afirmou que a popula&ccedil;&atilde;o camponesa &eacute; um empecilho para o desenvolvimento rural e neste sentido o pa&iacute;s pretende reduzir de 33% para 7% os trabalhadores do campo a fim de &ldquo;fomentar o desenvolvimento&rdquo; do agroneg&oacute;cio.</p>
+
+<figure class="image"><img alt="grande marcha patriotica chegando em asunción.jpg" src="http://farm9.staticflickr.com/8610/16242422814_5a090f66ac_b.jpg" />
+<figcaption>Grande marcha patri&oacute;tica chegando em Assun&ccedil;&atilde;o.</figcaption>
+</figure>
 
 <p><br />
 <strong>Concentra&ccedil;&atilde;o de terras</strong></p>
