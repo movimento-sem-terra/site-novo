@@ -7,7 +7,7 @@ tags:
 title: Festa do Milho celebra 13 anos de resistência do Acampamento Irmã Alberta
 support_line: "Os Sem Terra também promovem a Feira Orgânica da Reforma Agrária, com produtos vindos de diversos assentamentos da grande São Paulo."
 menu: reforma agrária
-section: cover
+section: null
 layout: post
 files:
   - link: "http://farm8.staticflickr.com/7588/16646831817_d5ac4cd4bf_b.jpg"
