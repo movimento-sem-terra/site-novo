@@ -31,6 +31,7 @@ releated_posts:
   - 2014/09/2014-09-09-onde-estao-os-deputados-que-votaram-a-emenda-do-trabalho-escravo.md
   - 2014/12/2014-12-01-o-ano-em-que-a-bancada-ruralista-perdeu-a-vergonha.md
   - 2014/12/2014-12-16-os-interesses-dos-parlamentares-que-querem-aprovar-a-pec-215.md
+section: featured-news
 
 ---
 <p><img alt="batista_agencia_camara_0.jpg" src="http://farm9.staticflickr.com/8704/16616432319_e4e2e87623_b.jpg" /><br />
