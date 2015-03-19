@@ -8,7 +8,7 @@ tags:
 title: "Uma semana após despejo, gados pisoteiam a lavoura de 3 mil famílias"
 support_line: "O Senador Eunício de Oliveira colocou sua boiada para acabar com a produção dos Sem: arroz, feijão, milho, mandioca, abóbora, alface, couve, amendoim, gergelim."
 menu: reforma agrária
-section: null
+section: featured-news
 layout: post
 files:
   - link: "http://farm8.staticflickr.com/7283/16646347970_4074e4e5a5_b.jpg"
