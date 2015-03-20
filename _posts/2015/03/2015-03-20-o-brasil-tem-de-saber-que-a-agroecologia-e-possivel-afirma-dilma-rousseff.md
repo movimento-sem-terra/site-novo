@@ -33,6 +33,7 @@ releated_posts:
   - 2015/02/2015-02-19-romaria-da-terra-marca-a-luta-pela-permanencia-dos-jovens-no-campo.md
   - 2015/01/2015-01-26-assentados-gauchos-fornecem-alimentos-para-grupo-hospitalar-de-porto-alegre.md
 section: cover
+sector: production
 
 ---
 <p><img alt="dilma_arroz.jpg" src="http://farm8.staticflickr.com/7611/16255532423_c5f5d957d9_b.jpg" /></p>
