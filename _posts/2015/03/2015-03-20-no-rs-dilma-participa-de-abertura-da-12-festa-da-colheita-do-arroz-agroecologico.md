@@ -1,5 +1,5 @@
 ---
-date: "2015-03-19T21:35:10-03:00"
+date: "2015-03-19T10:35:10-03:00"
 tags:
   - tag: arroz
   - tag: agroecologia
@@ -28,7 +28,7 @@ releated_posts:
   - 2015/01/2015-01-27-num-cenario-adverso-especialistas-pedem-pela-agroecologia.md
   - 2015/01/2015-01-28-projeto-traz-alternativas-para-a-agricultura-camponesa-no-parana.md
 sector: production
-section: cover
+section: null
 
 ---
 <p><br />
