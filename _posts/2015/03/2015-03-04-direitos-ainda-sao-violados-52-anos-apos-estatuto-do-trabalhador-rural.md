@@ -22,6 +22,7 @@ releated_posts:
   - 2014/12/2014-11-25-somos-zumbi-dizem-quilombolas-do-marajo-contra-o-agronegocio.md
   - 2015/02/2015-02-05-tribunal-permanente-do-povos-culpa-mineradoras-canadenses-na-america-latina.md
   - 2015/02/2015-02-18-entidades-vao-cobrar-retomada-da-lista-suja-do-trabalho-escravo.md
+label: articles
 
 ---
 <p><br />
