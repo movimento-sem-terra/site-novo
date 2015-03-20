@@ -27,6 +27,7 @@ releated_posts:
   - 2014/04/2014-04-22-o-veneno-esta-na-mesa-2-mostra-alternativas-para-alimentacao-saudavel.md
   - 2014/05/2014-05-22-incidencia-de-cancer-e-tres-vezes-maior-onde-ha-mais-exposicao-a-agrotoxicos.md
   - 2015/01/2014-12-23-agrotoxicos-o-lucro-que-mata-a-terra-e-quem-dela-vive.md
+label: interviews
 
 ---
 <p><img alt="agroto.jpg" src="http://farm9.staticflickr.com/8566/16243232664_cdbaa891e8_b.jpg" /><br />
