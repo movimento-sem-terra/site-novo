@@ -5,7 +5,7 @@ tags:
   - tag: eunício-de-oliveira
   - tag: goiás
   - tag: dom-tomas-balduíno
-title: Gados de Eunício de Oliveira pisoteiam a lavoura de 3 mil famílias Sem Terra
+title: Gados de Eunício pisoteiam a lavoura de 3 mil famílias
 support_line: "Uma semana após o despejo, a boiada do senador acabou com a produção de arroz, feijão, milho, mandioca, abóbora, alface..."
 menu: reforma agrária
 section: featured-news
@@ -23,9 +23,15 @@ files:
     small: "http://farm8.staticflickr.com/7652/16211372324_1dca94a892_n.jpg"
     title: gado_eunicio.jpg
     $$hashKey: 0JK
+  - link: "http://farm8.staticflickr.com/7646/16664913627_6e899e97dd_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7646/16664913627_6e899e97dd_t.jpg"
+    medium: "http://farm8.staticflickr.com/7646/16664913627_6e899e97dd_z.jpg"
+    small: "http://farm8.staticflickr.com/7646/16664913627_6e899e97dd_n.jpg"
+    title: eunicio.jpeg
+    $$hashKey: 06B
 created_date: "2015-03-16T10:46:59-03:00"
 published: true
-images_hd: "http://farm8.staticflickr.com/7283/16646347970_4074e4e5a5_n.jpg"
+images_hd: "http://farm8.staticflickr.com/7646/16664913627_6e899e97dd_n.jpg"
 releated_posts:
   - 2015/03/2015-03-04-apos-negociacao-sem-terra-deixam-a-fazenda-de-eunicio-de-oliveira.md
   - 2015/02/2015-02-24-acampamento-dom-tomas-balduino-um-simbolo-nacional-da-luta-pela-reforma-agraria.md
