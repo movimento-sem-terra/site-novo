@@ -5,11 +5,14 @@ tags:
   - tag: agroecologia
   - tag: Dilma
   - tag: Rio-Grande-do-Sul
-title: "No RS, Dilma participa de abertura da 12° Festa da Colheita do Arroz Agroecológico"
-support_line: A meta da na safra de 2015 é atingir a produção de 400 mil sacas
+title: Dilma participa de abertura da 12° Festa da Colheita do Arroz Agroecológico
+support_line: "A atividade acontece nesta sexta, no Rio Grande do Sul. A meta da na safra de 2015 é atingir a produção de 400 mil sacas."
 menu: agricultura camponesa
 layout: post
 files:
+  - thumbnail: "http://farm8.staticflickr.com/7282/16867163901_f6c766efb1_n.jpg"
+    small: "http://farm8.staticflickr.com/7282/16867163901_f6c766efb1_n.jpg"
+    $$hashKey: 02S
   - link: "http://farm8.staticflickr.com/7615/16245926124_19db29af6c_b.jpg"
     thumbnail: "http://farm8.staticflickr.com/7615/16245926124_19db29af6c_t.jpg"
     medium: "http://farm8.staticflickr.com/7615/16245926124_19db29af6c_z.jpg"
@@ -20,17 +23,16 @@ created_date: "2015-03-19T21:43:30-03:00"
 published: true
 images_hd: "http://farm8.staticflickr.com/7282/16867163901_f6c766efb1_n.jpg"
 releated_posts:
-  - 2014/12/2014-12-02-encontro-de-agroecologia-debate-projeto-de-agricultura-para-o-pontal.md
   - 2014/12/2014-12-10-agricultores-agroecologicos-produzem-alimentos-e-vendem-para-a-merenda.md
   - 2014/12/2014-12-04-a-agroecologia-e-a-solucao-para-a-fome-e-a-mudanca-climatica.md
   - 2015/01/2015-01-27-num-cenario-adverso-especialistas-pedem-pela-agroecologia.md
+  - 2015/01/2015-01-28-projeto-traz-alternativas-para-a-agricultura-camponesa-no-parana.md
 sector: production
 section: cover
 
 ---
-<p>&nbsp;</p>
-
-<p><em>Da P&aacute;gina do MST&nbsp;</em><br style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8000001907349px; line-height: normal;" />
+<p><br />
+<em>Da P&aacute;gina do MST&nbsp;</em><br style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8000001907349px; line-height: normal;" />
 &nbsp;</p>
 
 <p>Nesta sexta-feira (20), as cerca de 13.400 mil fam&iacute;lias assentadas do MST ga&uacute;cho comemoram a 12&deg;Festa da Colheita do Arroz Agroecol&oacute;gico, com a presen&ccedil;a da Presidente Dilma Rousseff, nos Assentamentos Integra&ccedil;&atilde;o Gaucha e Lanceiros Negros, em Eldorado do Sul, regi&atilde;o metropolitana de Porto Alegre (RS).<br />
