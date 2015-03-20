@@ -41,6 +41,7 @@ releated_posts:
   - 2015/03/2015-03-19-apos-marcha-sem-terra-obtem-respostas-positivas-do-governo-da-bahia.md
   - 2015/01/2015-01-19-durante-encontro-ciranda-infantil-leva-estudo-cultura-e-diversao-aos-sem-terrinha.md
   - 2015/03/2015-03-11-trabalhadoras-sem-terra-protagonizam-a-luta-durante-marcha-do-mst-na-bahia.md
+section: featured-news
 
 ---
 <p><img alt="ato_marcha.jpg" src="http://farm8.staticflickr.com/7284/16862520672_b75a78d782_b.jpg" /></p>
