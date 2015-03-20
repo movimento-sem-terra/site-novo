@@ -10,16 +10,20 @@ support_line: A meta da na safra de 2015 é atingir a produção de 400 mil saca
 menu: agricultura camponesa
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7282/16867163901_f6c766efb1_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7282/16867163901_f6c766efb1_t.jpg"
-    medium: "http://farm8.staticflickr.com/7282/16867163901_f6c766efb1_z.jpg"
-    small: "http://farm8.staticflickr.com/7282/16867163901_f6c766efb1_n.jpg"
-    title: download.jpg
-    $$hashKey: "043"
+  - link: "http://farm8.staticflickr.com/7615/16245926124_19db29af6c_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7615/16245926124_19db29af6c_t.jpg"
+    medium: "http://farm8.staticflickr.com/7615/16245926124_19db29af6c_z.jpg"
+    small: "http://farm8.staticflickr.com/7615/16245926124_19db29af6c_n.jpg"
+    title: UJ.jpg
+    $$hashKey: 0BJ
 created_date: "2015-03-19T21:43:30-03:00"
 published: true
 images_hd: "http://farm8.staticflickr.com/7282/16867163901_f6c766efb1_n.jpg"
-releated_posts: []
+releated_posts:
+  - 2014/12/2014-12-02-encontro-de-agroecologia-debate-projeto-de-agricultura-para-o-pontal.md
+  - 2014/12/2014-12-10-agricultores-agroecologicos-produzem-alimentos-e-vendem-para-a-merenda.md
+  - 2014/12/2014-12-04-a-agroecologia-e-a-solucao-para-a-fome-e-a-mudanca-climatica.md
+  - 2015/01/2015-01-27-num-cenario-adverso-especialistas-pedem-pela-agroecologia.md
 sector: production
 section: cover
 
