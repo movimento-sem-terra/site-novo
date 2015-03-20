@@ -7,7 +7,7 @@ tags:
 title: "Após Marcha, Sem Terra obtém respostas positivas do governo da BA"
 support_line: "Cerca de 6 mil Sem Terra percorreram 116 km em uma semana, ao saírem de Feira de Santana até Salvador."
 menu: lutas e mobilizações
-section: cover
+section: null
 layout: post
 files:
   - link: "http://farm9.staticflickr.com/8677/16656152357_9bc763a873_b.jpg"
