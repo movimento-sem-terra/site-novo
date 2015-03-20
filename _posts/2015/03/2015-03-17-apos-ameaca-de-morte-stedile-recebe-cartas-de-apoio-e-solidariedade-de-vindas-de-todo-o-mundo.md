@@ -149,7 +149,23 @@ Betto </em></p>
 <p><em>Am&eacute;rica Latina, representa para nuestros pueblos un ejemplo de entrega infinita y consecuente a la causa de la justicia social y la dignidad y soberan&iacute;a de nuestros pueblos. Como ya hemos dicho, tocan a uno y nos tocan a todos y todas. El gobierno y la justicia brasile&ntilde;a deben velar en este momento por la protecci&oacute;n de St&eacute;dile y todos/as los/as luchadores/as sociales.Expresamos adem&aacute;s nuestra profunda solidaridad con la amplia gama de movimientos sociales brasile&ntilde;os, que ante este panorama de violencia pol&iacute;tica virulenta, han convocado para este viernes 13 de marzo a grandes movilizaciones en diversos estados del pa&iacute;s.</em></p>
 
 <p><br />
-<em><strong>Fr&egrave;res des Hommes</strong></em></p>
+<em><strong>Da Uni&atilde;o Nacional dos Estudantes (UNE)</strong></em></p>
+
+<p><em>A Uni&atilde;o Nacional dos Estudantes (UNE), a Uni&atilde;o Brasileira dos Estudantes Secudanristas (UBES), e a Associa&ccedil;&atilde;o Nacional de P&oacute;s-graduandos (ANPG), repudiam veementemente a amea&ccedil;a de morte que circula nas redes sociais contra o companheiro de lutas e amigo Jo&atilde;o Pedro St&eacute;dile, da coordena&ccedil;&atilde;o nacional do Movimentos dos Trabalhadores Rurais Sem Terra (MST). O tosco an&uacute;ncio pede &ldquo;Stedile vivo ou morto&rdquo; e oferece uma recompensa de R$ 10 mil.</em></p>
+
+<p><em>Recebemos com indigna&ccedil;&atilde;o essa not&iacute;cia, ocorrida em um acirrado momento pol&iacute;tico que vive o Brasil. O debate pol&iacute;tico e ideol&oacute;gico das ideias muito interessa aos movimentos sociais e estudantil, no entanto, amea&ccedil;as e intimida&ccedil;&otilde;es s&atilde;o atitudes que pertencem ao passado e custaram a vida de trabalhadores e estudantes que combateram a repress&atilde;o e viol&ecirc;ncia da ditadura.</em></p>
+
+<p><em>Recentemente, o MST mostrou a sua for&ccedil;a como um dos principais movimentos sociais do pa&iacute;s ao mobilizar mais de 30 mil pessoas em 22 estados em a&ccedil;&otilde;es da Jornada Nacional de Lutas das Mulheres Camponesas, com den&uacute;ncias ao modelo de agroneg&oacute;cio vigente no Brasil. A UNE se solidariza e se soma &agrave; luta dos trabalhadores e trabalhadoras rurais sem-terra do pa&iacute;s em defesa da reforma agr&aacute;ria e de mais direitos.</em></p>
+
+<p><em>Exigimos que as autoridades investiguem e responsabilizem criminalmente os autores deste crime de incita&ccedil;&atilde;o &agrave; pr&aacute;tica de homic&iacute;dio. Em um Estado Democr&aacute;tico de Direito, &eacute; inadmiss&iacute;vel que uma pr&aacute;tica como essa ainda aconte&ccedil;a.</em></p>
+
+<p><em>Uni&atilde;o Nacional dos Estudantes &mdash; UNE<br />
+Uni&atilde;o Brasileira dos Estudantes Secundaristas &ndash; UBES<br />
+Associa&ccedil;&atilde;o Nacional de P&oacute;s-Graduandos &ndash; ANPG</em></p>
+
+<p><em>S&atilde;o Paulo, 12 de mar&ccedil;o de 2015</em></p>
+
+<p><em><strong>Fr&egrave;res des Hommes</strong></em></p>
 
 <p><em>A Fr&egrave;res des Hommes denuncia estas manipula&ccedil;&otilde;es e amea&ccedil;as feitas espec&iacute;ficamente ao Jo&atilde;o Pedro St&eacute;dile, e quer reiterar toda a sua solidariedade e o seu apoio &agrave; sua pessoa em particular, assim como &agrave; ac&ccedil;&atilde;o do Movimento dos Trabalhadores rurais sem terra no geral, que, como a Fr&egrave;res des Hommes, est&aacute; comprometido numa luta por um mundo melhor, mais justo e mais solid&aacute;rio.</em></p>
 
