@@ -20,6 +20,8 @@ created_date: "2015-03-19T21:43:30-03:00"
 published: true
 images_hd: "http://farm8.staticflickr.com/7282/16867163901_f6c766efb1_n.jpg"
 releated_posts: []
+sector: production
+section: cover
 
 ---
 <p>&nbsp;</p>
