@@ -28,9 +28,8 @@ releated_posts:
   - 2014/12/2014-12-04-a-agroecologia-e-a-solucao-para-a-fome-e-a-mudanca-climatica.md
 
 ---
-<p>&nbsp;</p>
-
-<p><em>Da P&aacute;gina do MST</em></p>
+<p><br />
+<em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
 O prefeito Fernando Haddad (PT) sancionou o projeto de lei que obrigada a inclus&atilde;o de alimentos org&acirc;nicos no card&aacute;pio das merendas escolares da cidade de S&atilde;o Paulo.</p>
