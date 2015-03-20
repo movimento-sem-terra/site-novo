@@ -4,7 +4,7 @@ tags:
   - tag: bancada-ruralista
   - tag: indígenas
   - tag: pec-215
-title: Ruralistas investigados por invasão de territórios indígenas farão relatório da PEC 215
+title: Ruralistas investigados por invasão de terras indígenas farão relatório da PEC 215
 support_line: Os deputados são acusados pelo MPF de invadir terras indígenas e direcionar o parecer da Comissão no mandato anterior.
 menu: direitos humanos
 layout: post
