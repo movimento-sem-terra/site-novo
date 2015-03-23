@@ -33,13 +33,29 @@ releated_posts:
 
 <div class="tamanho_2" style="float: left; width: 668px;">&nbsp;</div>
 
-<div class="tamanho_2" style="float: left; width: 668px;">&nbsp;</div>
+<div class="tamanho_2" style="float: left; width: 668px;">
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="A4C5CBE5D8E0EA6EC3B1DEBB65446170F83ADE342AEBE20BE84AF5845DCC4DCB.png" src="http://farm9.staticflickr.com/8741/16904444242_f8b4b8b5aa_b.jpg" />
+<figcaption></figcaption>
+</figure>
+</div>
+</div>
 
 <div>&nbsp;</div>
 
-<p><img alt="Gonzalo Viera Azpiroz / Flickr" src="http://cartamaior.com.br/arquivosCartaMaior/FOTO/153/A4C5CBE5D8E0EA6EC3B1DEBB65446170F83ADE342AEBE20BE84AF5845DCC4DCB.png" style="clear:left; margin:5px 20px 10px 0px; max-width:668px; float:left" title="Gonzalo Viera Azpiroz / Flickr" /></p>
+<p>&nbsp;</p>
 
 <p class="texto_detalhe" id="texto_detalhe">&nbsp;</p>
+
+<p class="texto_detalhe">&nbsp;</p>
+
+<p class="texto_detalhe">&nbsp;</p>
+
+<p class="texto_detalhe">&nbsp;</p>
+
+<p class="texto_detalhe">&nbsp;</p>
+
+<p class="texto_detalhe">&nbsp;</p>
 
 <p class="texto_detalhe">&nbsp;</p>
 
