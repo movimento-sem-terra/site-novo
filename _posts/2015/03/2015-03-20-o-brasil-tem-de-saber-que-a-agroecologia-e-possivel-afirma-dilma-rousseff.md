@@ -32,7 +32,7 @@ releated_posts:
   - 2014/12/2014-12-04-a-agroecologia-e-a-solucao-para-a-fome-e-a-mudanca-climatica.md
   - 2015/02/2015-02-19-romaria-da-terra-marca-a-luta-pela-permanencia-dos-jovens-no-campo.md
   - 2015/01/2015-01-26-assentados-gauchos-fornecem-alimentos-para-grupo-hospitalar-de-porto-alegre.md
-section: cover
+section: featured-news
 sector: production
 
 ---
