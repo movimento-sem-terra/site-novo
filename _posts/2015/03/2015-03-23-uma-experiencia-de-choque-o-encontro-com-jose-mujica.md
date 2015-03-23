@@ -27,13 +27,9 @@ releated_posts:
 ---
 <div class="tamanho_2" style="float: left; width: 668px;">&nbsp;</div>
 
-<div class="tamanho_2" style="float: left; width: 668px;">&nbsp;</div>
-
 <div class="tamanho_2" style="float: left; width: 668px;"><em>Por Leonardo Boff </em></div>
 
 <div class="tamanho_2" style="float: left; width: 668px;"><em>Da Carta Capital</em></div>
-
-<div class="tamanho_2" style="float: left; width: 668px;">&nbsp;</div>
 
 <div class="tamanho_2" style="float: left; width: 668px;">&nbsp;</div>
 
