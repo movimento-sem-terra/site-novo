@@ -4,7 +4,7 @@ tags:
   - tag: educação
   - tag: pará
   - tag: reforma-agrária
-title: "O educando de ontem é o professor de hoje "
+title: "Nas escolas do campo do Pará, o educando de ontem é o professor de hoje"
 support_line: "Uma década depois, nas escolas do Assentamento Palmares 2, em Paraupebas (PA), as primeiras crianças são as atuais professoras."
 section: cover
 label: special-stories
@@ -166,7 +166,7 @@ Algumas boas centenas de metros mais adiante fica a escola Sallete Moreno. &Eacu
 &Eacute; uma escola contempor&acirc;nea. Possui audit&oacute;rio, biblioteca, brinquedoteca, laborat&oacute;rio de inform&aacute;tica com 20 computadores, videoteca, sala de leitura e, principalmente, profissionais dispostos a fazer diferente.</p>
 
 <p><br />
-&ldquo;O nosso desafio &eacute; muito grande&rdquo;, diz a diretora Deusamar Sales Matos, 48 anos. &ldquo;Temos muito o que fazer. Eu olho para a frente e vejo que temos de conquistar mais e mais&rdquo;. Muitas coisas mudaram para melhor, em rela&ccedil;&atilde;o ao acesso de nossas crian&ccedil;as &agrave;s escolas e &agrave; forma&ccedil;&atilde;o dos professores. Na Sallete Moreno, s&atilde;o 224 alunos e nove professoras.</p>
+<img alt="francisca maria.jpg" src="http://farm9.staticflickr.com/8723/16287065764_cd8caffdab_b.jpg" />&ldquo;O nosso desafio &eacute; muito grande&rdquo;, diz a diretora Deusamar Sales Matos, 48 anos. &ldquo;Temos muito o que fazer. Eu olho para a frente e vejo que temos de conquistar mais e mais&rdquo;. Muitas coisas mudaram para melhor, em rela&ccedil;&atilde;o ao acesso de nossas crian&ccedil;as &agrave;s escolas e &agrave; forma&ccedil;&atilde;o dos professores. Na Sallete Moreno, s&atilde;o 224 alunos e nove professoras.</p>
 
 <p><br />
 Um dos grandes desafios, segundo a diretora, &eacute; construir um projeto pedag&oacute;gico que seja de educa&ccedil;&atilde;o do campo, mesmo com as contradi&ccedil;&otilde;es existentes em Parauapebas. &ldquo;Aqui &eacute; uma regi&atilde;o onde se disputa tudo: de terra &agrave; ideologia&rdquo;, conta Deusamar.</p>
