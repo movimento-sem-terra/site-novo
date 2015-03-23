@@ -35,7 +35,7 @@ releated_posts:
 
 <div class="tamanho_2" style="float: left; width: 668px;">
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="A4C5CBE5D8E0EA6EC3B1DEBB65446170F83ADE342AEBE20BE84AF5845DCC4DCB.png" src="http://farm9.staticflickr.com/8741/16904444242_f8b4b8b5aa_b.jpg" />
+<figure class="image" style="display:inline-block"><img alt="A4C5CBE5D8E0EA6EC3B1DEBB65446170F83ADE342AEBE20BE84AF5845DCC4DCB.png" height="332" src="http://farm9.staticflickr.com/8741/16904444242_f8b4b8b5aa_b.jpg" width="500" />
 <figcaption></figcaption>
 </figure>
 </div>
