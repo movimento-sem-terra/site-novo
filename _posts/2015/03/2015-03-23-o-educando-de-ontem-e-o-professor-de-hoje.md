@@ -4,7 +4,7 @@ tags:
   - tag: educação
   - tag: pará
   - tag: reforma-agrária
-title: "Nas escolas do campo do Pará, o educando de ontem é o professor de hoje"
+title: "No Assentamento Palmares 2, o educando de ontem é o professor de hoje"
 support_line: "Uma década depois, nas escolas do Assentamento Palmares 2, em Paraupebas (PA), as primeiras crianças são as atuais professoras."
 section: cover
 label: special-stories
@@ -56,6 +56,8 @@ releated_posts:
 
 <p><em>Por Ismael Machado<br />
 Da P&aacute;gina do MST</em></p>
+
+<p><em>Fotos: Raimundo Pac&oacute;</em></p>
 
 <p><br />
 &Eacute; um percurso longo o que Larissa, de quatro anos, percorre todos os dias do assentamento Liberdade ao assentamento Palmares 2 para assistir aulas. Embora os &ocirc;nibus escolares sejam novos, &eacute; um caminho acidentado, que atravessa o munic&iacute;pio de Parauapebas, no sudeste do Par&aacute;.</p>
