@@ -41,6 +41,10 @@ releated_posts:
 
 <p class="texto_detalhe" id="texto_detalhe">&nbsp;</p>
 
+<p class="texto_detalhe">&nbsp;</p>
+
+<p class="texto_detalhe">&nbsp;</p>
+
 <p class="texto_detalhe">Participando de um congreso iberoamericano sobre Medicina Familiar e&nbsp;Comunit&aacute;ria, realizado em Montevideo dos dias 18-22 de mar&ccedil;o, tive a&nbsp;oportunidade sempre desejada de um encontro com o ex-presidente do Uruguai&nbsp;Jos&eacute; Mujica. Finalmente foi poss&iacute;vel no dia 17 de mar&ccedil;o por volta das 16.00&nbsp;horas. Tal encontro deu-se em sua Ch&aacute;cara, nos arredores da capital&nbsp;Montevideo.</p>
 
 <p class="texto_detalhe">&nbsp;</p>
@@ -80,9 +84,7 @@ trag&eacute;dia ecol&oacute;gico-social inimagin&aacute;vel.</p>
 
 <p class="texto_detalhe">&nbsp;</p>
 
-<p class="texto_detalhe">O triste, comentava Mujica, &eacute; perceber que entre os chefes de Estado,&nbsp;especialmente, das grandes pot&ecirc;ncias econ&ocirc;micas,&nbsp; n&atilde;o se verifica nenhuma&nbsp;preocupa&ccedil;&atilde;o em criar uma gest&atilde;o plural e global do planeta Terra, j&aacute; que os&nbsp;problemas s&atilde;o planet&aacute;rios. Cada pa&iacute;s prefere defender seus direitos&nbsp;particulares, sem dar-se conta das amea&ccedil;as gerais que pesam sobre a</p>
-
-<p class="texto_detalhe">totalidade de nosso destino.</p>
+<p class="texto_detalhe">O triste, comentava Mujica, &eacute; perceber que entre os chefes de Estado,&nbsp;especialmente, das grandes pot&ecirc;ncias econ&ocirc;micas,&nbsp; n&atilde;o se verifica nenhuma&nbsp;preocupa&ccedil;&atilde;o em criar uma gest&atilde;o plural e global do planeta Terra, j&aacute; que os&nbsp;problemas s&atilde;o planet&aacute;rios. Cada pa&iacute;s prefere defender seus direitos&nbsp;particulares, sem dar-se conta das amea&ccedil;as gerais que pesam sobre a totalidade de nosso destino.</p>
 
 <p class="texto_detalhe">&nbsp;</p>
 
