@@ -6,7 +6,7 @@ tags:
   - tag: Monsanto
   - tag: câncer
   - tag: OMS
-title: "OMS confirma relação direta do glifosato com surgimento de câncer em humanos e animais "
+title: "OMS confirma relação direta do glifosato com câncer em humanos e animais "
 support_line: O herbicida também é responsável por alterações cromossômicas e de DNA
 menu: agronegócio
 layout: post
