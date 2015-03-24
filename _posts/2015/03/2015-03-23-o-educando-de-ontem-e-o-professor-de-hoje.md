@@ -176,7 +176,7 @@ Algumas boas centenas de metros mais adiante fica a escola Sallete Moreno. &Eacu
 <p>&nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="16287065764_cd8caffdab_b.jpg" height="420" src="http://farm8.staticflickr.com/7649/16915550681_7cf5ac0dde_b.jpg" width="280" />
-<figcaption>Legenda</figcaption>
+<figcaption></figcaption>
 </figure>
 
 <p>&ldquo;O nosso desafio &eacute; muito grande&rdquo;, diz a diretora Deusamar Sales Matos, 48 anos. &ldquo;Temos muito o que fazer. Eu olho para a frente e vejo que temos de conquistar mais e mais&rdquo;. Muitas coisas mudaram para melhor, em rela&ccedil;&atilde;o ao acesso de nossas crian&ccedil;as &agrave;s escolas e &agrave; forma&ccedil;&atilde;o dos professores. Na Sallete Moreno, s&atilde;o 224 alunos e nove professoras.</p>
