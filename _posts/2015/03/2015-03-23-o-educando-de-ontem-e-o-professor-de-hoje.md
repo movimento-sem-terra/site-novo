@@ -41,6 +41,12 @@ files:
     small: "http://farm8.staticflickr.com/7639/16908294811_fea6362c6f_n.jpg"
     title: sala de aula.jpg
     $$hashKey: 03D
+  - link: "http://farm8.staticflickr.com/7649/16915550681_7cf5ac0dde_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7649/16915550681_7cf5ac0dde_t.jpg"
+    medium: "http://farm8.staticflickr.com/7649/16915550681_7cf5ac0dde_z.jpg"
+    small: "http://farm8.staticflickr.com/7649/16915550681_7cf5ac0dde_n.jpg"
+    title: 16287065764_cd8caffdab_b.jpg
+    $$hashKey: 09N
 created_date: "2015-03-23T17:44:14-03:00"
 published: true
 images_hd: "http://farm8.staticflickr.com/7609/16909229635_9b49edd79f_n.jpg"
@@ -168,7 +174,7 @@ Algumas boas centenas de metros mais adiante fica a escola Sallete Moreno. &Eacu
 &Eacute; uma escola contempor&acirc;nea. Possui audit&oacute;rio, biblioteca, brinquedoteca, laborat&oacute;rio de inform&aacute;tica com 20 computadores, videoteca, sala de leitura e, principalmente, profissionais dispostos a fazer diferente.</p>
 
 <p><br />
-<img alt="francisca maria.jpg" src="http://farm9.staticflickr.com/8723/16287065764_cd8caffdab_b.jpg" />&ldquo;O nosso desafio &eacute; muito grande&rdquo;, diz a diretora Deusamar Sales Matos, 48 anos. &ldquo;Temos muito o que fazer. Eu olho para a frente e vejo que temos de conquistar mais e mais&rdquo;. Muitas coisas mudaram para melhor, em rela&ccedil;&atilde;o ao acesso de nossas crian&ccedil;as &agrave;s escolas e &agrave; forma&ccedil;&atilde;o dos professores. Na Sallete Moreno, s&atilde;o 224 alunos e nove professoras.</p>
+<img alt="16287065764_cd8caffdab_b.jpg" src="http://farm8.staticflickr.com/7649/16915550681_7cf5ac0dde_b.jpg" />&ldquo;O nosso desafio &eacute; muito grande&rdquo;, diz a diretora Deusamar Sales Matos, 48 anos. &ldquo;Temos muito o que fazer. Eu olho para a frente e vejo que temos de conquistar mais e mais&rdquo;. Muitas coisas mudaram para melhor, em rela&ccedil;&atilde;o ao acesso de nossas crian&ccedil;as &agrave;s escolas e &agrave; forma&ccedil;&atilde;o dos professores. Na Sallete Moreno, s&atilde;o 224 alunos e nove professoras.</p>
 
 <p><br />
 Um dos grandes desafios, segundo a diretora, &eacute; construir um projeto pedag&oacute;gico que seja de educa&ccedil;&atilde;o do campo, mesmo com as contradi&ccedil;&otilde;es existentes em Parauapebas. &ldquo;Aqui &eacute; uma regi&atilde;o onde se disputa tudo: de terra &agrave; ideologia&rdquo;, conta Deusamar.</p>
