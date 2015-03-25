@@ -1,0 +1,25 @@
+---
+layout: default
+title: Educação
+styles: ["education.css", "swiper.min.css"]
+scripts: ["velocity.min.js", "about-us/ask-form.js", "gallery.js", "swiper.jquery.min.js"]
+---
+{% assign news = site.posts | where: 'sector', 'education' %}
+<main id="education">
+  <div id="container">
+    <section id="about">
+      {% include education/about.html posts = news  %}
+    </section>
+
+    <section id="statistics">
+      {% include education/statistics.html posts = news %}
+    </section>
+
+    <section id="itinerant-schools">
+      {% include education/itinerant-schools.html %}
+    </section>
+  </div>
+  <section class="ask-us">
+    {% include about-us/ask-us.html %}
+  </section>
+</main>
