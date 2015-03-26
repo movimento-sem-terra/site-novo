@@ -1,0 +1,27 @@
+---
+layout: default
+title: Nossa Produção
+styles: ["our-symbols.css"]
+scripts: ["our-symbols/script.js", "our-symbols/anthem.js"]
+---
+<main id="our-symbols">
+  <div class="container">
+    <h1>Nossos Símbolos</h1>
+
+    <p class="highlighted">
+      Cada cor, cada desenho escolhido para estar presente na bandeira tem um significado especial. Vamos conhecê-los?
+    </p>
+  </div>
+
+  <section id="our-flag" class="decomposited">
+    {% include our-symbols/flag.html %}
+  </section>
+
+  <section id="anthem">
+    {% include our-symbols/anthem.html %}
+  </section>
+
+  <section id="lona-preta">
+    {% include our-symbols/lona-preta.html %}
+  </section>
+</main>
