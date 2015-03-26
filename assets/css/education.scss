@@ -181,7 +181,6 @@ $mobile: new-breakpoint(max-width 768px);
         font-style: italic;
         margin-top: 0;
         margin-bottom: 0;
-        min-width: 235px;
         text-align: center;
 
         @include media($mobile) {
@@ -190,14 +189,14 @@ $mobile: new-breakpoint(max-width 768px);
       }
 
       #infos{
-        @include span-columns(9);
+        @include span-columns(10);
 
         @include media($mobile) {
           @include fill-parent();
         }
         .info{
           text-align: center;
-          @include span-columns(3 of 12);
+          @include span-columns(2 of 10);
           p{
             font-size: 16px;
             color: #da6164;
