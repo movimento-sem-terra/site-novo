@@ -97,6 +97,16 @@
   section#our-flag {
 
     padding: 0;
+    position: relative;
+
+    &:hover:not(.decomposited) {
+      #symbols-meaning {
+        li {
+          opacity: 1;
+
+        }
+      }
+    }
 
     #red-background {
       width: 100%;
@@ -134,15 +144,16 @@
           position: absolute;
           transition: transform .2s, left 2s, top .5s, width 2s, opacity .3s;
           will-change: top, left, -webkit-transform, -webkit-filter, opacity, filter, transform;
-          &:hover {
+          &.active {
             @include filter(drop-shadow(1px 7px 4px rgba(0, 0, 0, .8)));
             @include transform(scale(1.05));
             opacity: 1;
 
           }
 
+
           &:active {
-            @include transform(scale(2));
+            @include transform(scale(1.1));
             opacity: 1;
           }
         }
@@ -233,6 +244,103 @@
       }
 
     }
+  }
+
+  #symbols-meaning {
+    li {
+      $size: 1.5em;
+      position: absolute;
+      top: 0;
+      max-width: $size;
+      max-height: $size;
+      display: block;
+      background: rgba(255, 255, 255, .9);
+      box-shadow: 1px 2px 7px black;
+      border-radius: 50%;
+      overflow: hidden;
+      transition-duration: .5s;
+      opacity: 0;
+
+      &.active {
+        max-width: 15em;
+        max-height: 500px;
+        border-radius: 5px;
+        padding: 10px;
+      }
+
+      &:before {
+        content: "?";
+        text-align: center;
+        width: 100%;
+        display: block;
+        font-weight: 800;
+      }
+
+      &[data-for="#brasil"] {
+        top: 35%;
+        left: 47%;
+
+        &.active {
+          top: 56%;
+          left: 21%;
+        }
+
+        b {
+          color: $mst-green;
+        }
+      }
+
+      &[data-for="#red-background"] {
+        top: 27%;
+        left: 28%;
+
+        &.active {
+          top: 44%;
+          left: 22%;
+        }
+
+        b {
+          color: $mst-red;
+        }
+      }
+
+      &[data-for="#text"] {
+        top: 27%;
+        left: 36%;
+
+        &.active {
+          top: 40%;
+          left: 12%;
+        }
+
+        b:first-child {
+          color: rgb(244, 244, 244);
+          text-shadow: 1px 1px 2px black;
+        }
+      }
+
+      &[data-for="#machete"] {
+        top: 27%;
+        left: 42%;
+
+        &.active {
+          top: 38%;
+          left: 23%;
+        }
+      }
+
+      &[data-for="#people"] {
+        top: 64%;
+        left: 51%;
+
+        &.active {
+          top: 52%;
+          left: 61%;
+        }
+      }
+    }
+
+
   }
 
 }
