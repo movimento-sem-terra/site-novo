@@ -17,6 +17,8 @@ files:
 created_date: "2014-12-16T13:49:20-02:00"
 published: true
 images_hd: "http://farm8.staticflickr.com/7507/15413999844_bf2fa2e17d_n.jpg"
+sector: mass-front
+releated_posts: []
 
 ---
 <div id="content-header">
