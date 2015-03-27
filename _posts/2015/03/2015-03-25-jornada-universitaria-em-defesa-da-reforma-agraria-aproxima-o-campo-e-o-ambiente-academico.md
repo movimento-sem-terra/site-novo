@@ -20,14 +20,9 @@ created_date: "2015-03-25T13:18:40-03:00"
 published: true
 images_hd: "http://farm8.staticflickr.com/7645/16944857462_981da48e6d_n.jpg"
 releated_posts:
-  - 2014/07/2014-07-17-familias-sem-terra-seguem-na-luta-por-area-grilada-em-abelardo-luz.md
-  - 2014/08/2014-07-31-mst-exige-do-incra-que-area-da-araupel-seja-desapropriada-para-reforma-agraria.md
-  - 2014/12/2014-10-28-ufsc-recebe-300-jovens-assentados-da-reforma-agraria.md
   - 2015/02/2015-02-13-jovens-fortalecem-o-papel-da-juventude-na-luta-pela-reforma-agraria-popular.md
   - 2015/03/2015-03-13-juventude-sem-terra-se-desafia-a-impulsionar-a-participacao-na-luta-pela-reforma-agraria.md
-  - 2014/12/2014-11-20-brasil-recebe-14-acampamento-da-juventude-latino-americana.md
-  - 2015/01/2015-01-30-juventude-sem-terra-realiza-curso-de-formacao-em-veranopolis.md
-  - 2015/02/2015-01-30-juventude-sem-terra-realiza-curso-de-formacao-em-veranopolis.md
+  - 2014/12/2014-12-01-o-ano-em-que-a-bancada-ruralista-perdeu-a-vergonha.md
 
 ---
 <p class="entry-title"><br />
