@@ -5,7 +5,7 @@ tags:
   - tag: movimentos-sociais
   - tag: reforma-política
   - tag: democracia
-title: Movimentos realizam plenárias por todo Brasil para fortalecer às lutas dos próximos meses
+title: Movimentos realizam plenárias por todo Brasil para fortalecer as mobilizações
 support_line: "No dia 31 de março, diversas organizações sociais realizam plenárias para debater a democracia, direitos e o combate à corrupção."
 menu: lutas e mobilizações
 layout: post
