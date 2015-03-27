@@ -30,6 +30,8 @@ releated_posts:
   - 2015/03/2015-03-13-cerca-de-100-mil-ocupam-a-paulista-pela-constituinte-e-em-defesa-da-petrobras.md
 
 ---
+<p><img alt="brasil.jpg" src="http://farm9.staticflickr.com/8754/16323681454_9d520c9315_b.jpg" /></p>
+
 <p><em>Por Marize Muniz<br />
 Da&nbsp;CUT</em></p>
 
