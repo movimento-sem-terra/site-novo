@@ -144,13 +144,13 @@
           position: absolute;
           transition: transform .2s, left 2s, top .5s, width 2s, opacity .3s;
           will-change: top, left, -webkit-transform, -webkit-filter, opacity, filter, transform;
+          cursor: pointer;
           &.active {
             @include filter(drop-shadow(1px 7px 4px rgba(0, 0, 0, .8)));
             @include transform(scale(1.05));
             opacity: 1;
 
           }
-
 
           &:active {
             @include transform(scale(1.1));
@@ -259,7 +259,8 @@
       border-radius: 50%;
       overflow: hidden;
       transition-duration: .5s;
-      
+      cursor: pointer;
+
       &:not(.active) {
         opacity: 0;
       }
