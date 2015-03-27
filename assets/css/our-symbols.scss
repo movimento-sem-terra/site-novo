@@ -259,13 +259,20 @@
       border-radius: 50%;
       overflow: hidden;
       transition-duration: .5s;
-      opacity: 0;
+      
+      &:not(.active) {
+        opacity: 0;
+      }
 
       &.active {
         max-width: 15em;
         max-height: 500px;
         border-radius: 5px;
         padding: 10px;
+
+        &:before {
+          display: none;
+        }
       }
 
       &:before {
