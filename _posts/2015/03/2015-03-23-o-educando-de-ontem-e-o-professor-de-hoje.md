@@ -6,7 +6,7 @@ tags:
   - tag: reforma-agrária
 title: "No Assentamento Palmares 2, o educando de ontem é o professor de hoje"
 support_line: "Uma década depois, nas escolas do Assentamento Palmares 2, em Paraupebas (PA), as primeiras crianças são as atuais professoras."
-section: cover
+section: null
 label: special-stories
 menu: "educação, cultura e comunicação"
 layout: post
@@ -77,14 +77,19 @@ S&atilde;o duas escolas criadas pelo MST no assentamento Palmares 2. A primeira 
 <p><br />
 A ocupa&ccedil;&atilde;o em quest&atilde;o ocorreu em 26 de junho de 1994, numa &aacute;rea ent&atilde;o conhecida como Cintur&atilde;o Verde, uma concess&atilde;o da empresa de minera&ccedil;&atilde;o Vale. Mais de 2 mil fam&iacute;lias se instalaram no que seria o futuro Palmares.</p>
 
+<figure class="image" style="float:right"><img alt="16287065764_cd8caffdab_b.jpg" src="http://farm8.staticflickr.com/7649/16915550681_7cf5ac0dde_b.jpg" />
+<figcaption></figcaption>
+</figure>
+
 <p><br />
 As fam&iacute;lias foram despejadas, mas n&atilde;o desistiram. Fincaram os p&eacute;s em frente &agrave; C&acirc;mara Municipal e depois ocuparam a sede do Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra) em Marab&aacute;.&nbsp;</p>
 
 <p><br />
 Foi em frente &agrave; sede do &oacute;rg&atilde;o federal que surgiu a escola. Era agosto de 1994. &ldquo;Tinha muitas crian&ccedil;as de pais acampados. Ent&atilde;o come&ccedil;amos a ver quem tinha habilidade no ensino e a organizar as aulas&rdquo;, lembra Cl&iacute;via.</p>
 
-<p><br />
-O come&ccedil;o foi dif&iacute;cil: As aulas eram ministradas embaixo de &aacute;rvores. N&atilde;o demorou e os pr&oacute;prios integrantes do acampamento come&ccedil;aram a articular melhor o espa&ccedil;o. &ldquo;Quem tinha mais escolaridade assumia as aulas&rdquo;, diz a diretora.</p>
+<p>&nbsp;</p>
+
+<p>O come&ccedil;o foi dif&iacute;cil: As aulas eram ministradas embaixo de &aacute;rvores. N&atilde;o demorou e os pr&oacute;prios integrantes do acampamento come&ccedil;aram a articular melhor o espa&ccedil;o. &ldquo;Quem tinha mais escolaridade assumia as aulas&rdquo;, diz a diretora.</p>
 
 <p><br />
 A professora pioneira foi Francisca Maria Ferreira, de 49 anos. &ldquo;Cortei as primeiras palhas para fazer a escola. Foi um per&iacute;odo de muita dificuldade, mas de boas lembran&ccedil;as tamb&eacute;m&rdquo;, diz ela.</p>
