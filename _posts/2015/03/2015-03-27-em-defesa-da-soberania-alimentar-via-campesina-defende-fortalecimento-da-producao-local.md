@@ -4,7 +4,7 @@ tags:
   - tag: Fórum-Social-Mundial-2015
   - tag: agricultura
 support_line: "Debate realizado no Fórum Social Mundial, em Túnis, expôs a necessidade de combater o modelo de produção das multinacionais e fortalecer a produção familiar agroecológica.\n"
-title: "Em defesa da soberania alimentar, Via Campesina defende fortalecimento da produção local"
+title: "Na Tunísia, Via Campesina defende fortalecimento da soberania alimentar"
 menu: agricultura camponesa
 section: cover
 layout: post
@@ -18,7 +18,10 @@ files:
 created_date: "2015-03-27T11:30:16-03:00"
 published: true
 images_hd: "http://farm8.staticflickr.com/7650/16325780833_289ebd187f_n.jpg"
-releated_posts: []
+releated_posts:
+  - 2014/12/2014-11-22-a-historia-do-golpe-de-katia-abreu-contra-camponeses-do-tocantins.md
+  - 2015/01/2015-01-12-cpt-considera-reforma-agraria-do-governo-dilma-a-pior-dos-ultimos-20-anos.md
+  - 2015/01/2015-01-27-num-cenario-adverso-especialistas-pedem-pela-agroecologia.md
 
 ---
 <p><em style="line-height: 1.6;">Por Simone Freire</em><br />
