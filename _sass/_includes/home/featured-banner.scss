@@ -80,9 +80,17 @@ section.featured-banner{
       li {
         display: inline-block;
         height: 100%;
-      }
-      img {
-        width: 346px;
+        vertical-align: top;
+
+        h2 {
+          width: 346px;
+          overflow: hidden;
+        }
+
+        img {
+          width: 346px;
+          height: 320px;
+        }
       }
     }
   }

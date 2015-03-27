@@ -31,6 +31,7 @@ releated_posts:
   - 2014/12/2014-11-28-pecuaria-soja-e-mineracao-sao-os-grandes-viloes-da-amazonia-diz-estudo.md
   - 2014/12/2014-11-03-estamos-indo-direto-para-o-matadouro-diz-o-cientista-antonio-nobre.md
   - 2015/03/2015-03-02-pesquisa-revela-que-5-das-emissoes-de-metano-vem-da-pecuaria-e-do-desmatamento.md
+label: interviews
 
 ---
 <p><img alt="antonio nobre!.jpg" src="http://farm9.staticflickr.com/8587/16497131347_2e4bc5ccaa_b.jpg" /><br />

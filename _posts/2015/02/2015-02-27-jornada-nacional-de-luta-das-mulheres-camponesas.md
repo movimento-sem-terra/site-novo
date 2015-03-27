@@ -1,7 +1,7 @@
 ---
 date: "2015-02-27T14:25:56-03:00"
 tags: []
-section: campaign
+section: null
 link-campaign: "http://www.mst.org.br/2015/02/22/jornada-nacional-de-luta-das-mulheres-camponesas.html"
 link-target: _self
 title: Jornada Nacional de Luta das Mulheres Camponesas
@@ -19,5 +19,6 @@ published: true
 images_hd: "http://farm9.staticflickr.com/8613/16044361763_ca00a0742d_n.jpg"
 releated_posts: []
 hat: Jornada
+menu: lutas e mobilizações
 
 ---

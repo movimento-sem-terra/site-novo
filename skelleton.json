@@ -65,7 +65,7 @@
 },
 {
   "name": "section",
-  "title": "Sessão",
+  "title": "Seção",
   "required": false,
   "type": {
     "view": "select",

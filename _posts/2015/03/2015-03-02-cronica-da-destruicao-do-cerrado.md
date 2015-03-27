@@ -24,6 +24,7 @@ releated_posts:
   - 2014/09/2014-09-16-agronegocio-causa-49-do-desmatamento-tropical-diz-relatorio.md
   - 2015/02/2015-02-18-monocultivo-de-eucalipto-parece-uma-floresta-mas-nao-e.md
   - 2014/11/2014-10-10-para-pesquisador-agronegocio-e-o-principal-inimigo-da-amazonia.md
+label: articles
 
 ---
 <p><img alt="cerrado.JPG" src="http://farm9.staticflickr.com/8593/16071146994_058ed0854a_b.jpg" /></p>

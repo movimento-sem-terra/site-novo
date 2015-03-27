@@ -43,6 +43,7 @@ releated_posts:
   - 2014/12/2014-11-03-estamos-indo-direto-para-o-matadouro-diz-o-cientista-antonio-nobre.md
   - 2015/03/2015-03-03-desmatamento-na-amazonia-ja-afeta-o-clima-e-e-uma-das-causas-da-seca-no-sudeste.md
   - 2014/12/2014-11-27-apos-encontro-movimentos-alertam-sobre-o-perigo-que-corre-o-cerrado.md
+label: interviews
 
 ---
 <p><img alt="desmatamentodocerrado.jpg" src="http://farm9.staticflickr.com/8632/16687673586_f40537367a_b.jpg" /><br />

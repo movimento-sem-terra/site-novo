@@ -27,6 +27,7 @@ published: true
 images_hd: "http://farm9.staticflickr.com/8577/16081692284_6653c114b6_n.jpg"
 releated_posts:
   - 2015/02/2015-02-22-jornada-nacional-de-luta-das-mulheres-camponesas.md
+label: interviews
 
 ---
 <figure class="image"><img alt="SP 2009 Jornada de Março Ocupacao Barra Bonita cred Zinclar!.jpg" src="http://farm9.staticflickr.com/8577/16081692284_6653c114b6_b.jpg" />
