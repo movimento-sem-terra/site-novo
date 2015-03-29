@@ -4,8 +4,9 @@ tags:
   - tag: FSM
   - tag: Tunísia
   - tag: agricultura
-title: "No FSM, movimento campesino expõe a falta de democracia nas políticas agrícolas e alimentar"
-support_line: "​Realizada em Túnis (Tunísia), atividade da Via Campesina debateu a necessidade do direito dos trabalhadores rurais de poder resgatar, conservar e produzir sementes crioulas,."
+  - tag: fórum-social-mundial-2015
+title: "No FSM, camponeses expõem a falta de democracia nas políticas agrícolas"
+support_line: "​Realizada em Túnis (Tunísia), atividade da Via Campesina debateu a necessidade do direito de resgate, conservar e produzir sementes crioulas,."
 menu: agricultura camponesa
 section: cover
 layout: post
@@ -19,7 +20,12 @@ files:
 created_date: "2015-03-29T16:00:21-03:00"
 published: true
 images_hd: "http://farm8.staticflickr.com/7630/16783407889_f9496b8b17_n.jpg"
-releated_posts: []
+releated_posts:
+  - 2015/03/2015-03-27-em-defesa-da-soberania-alimentar-via-campesina-defende-fortalecimento-da-producao-local.md
+  - 2015/01/2015-01-27-num-cenario-adverso-especialistas-pedem-pela-agroecologia.md
+  - 2015/02/2015-02-13-no-paraguai-agricultores-se-recusam-a-ingressar-no-modelo-imposto-pelo-agronegocio.md
+  - 2015/03/2015-03-06-apos-estragos-no-cerrado-brasileiro-agronegocio-avanca-sobre-terras-mocambicanas.md
+  - 2015/03/2015-03-19-apostamos-no-reascenso-do-movimento-de-massas-no-brasil-diz-lider-do-mst.md
 
 ---
 <p>&nbsp;</p>
