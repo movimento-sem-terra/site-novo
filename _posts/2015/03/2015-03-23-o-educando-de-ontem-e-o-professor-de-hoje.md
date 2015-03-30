@@ -47,23 +47,30 @@ files:
     small: "http://farm8.staticflickr.com/7649/16915550681_7cf5ac0dde_n.jpg"
     title: 16287065764_cd8caffdab_b.jpg
     $$hashKey: 09N
+  - link: "http://farm9.staticflickr.com/8719/16952125686_8a37dc77e7_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8719/16952125686_8a37dc77e7_t.jpg"
+    medium: "http://farm9.staticflickr.com/8719/16952125686_8a37dc77e7_z.jpg"
+    small: "http://farm9.staticflickr.com/8719/16952125686_8a37dc77e7_n.jpg"
+    title: "debora, professora.JPG"
+    $$hashKey: 0HE
 created_date: "2015-03-23T17:44:14-03:00"
 published: true
-images_hd: "http://farm8.staticflickr.com/7609/16909229635_9b49edd79f_n.jpg"
+images_hd: "http://farm8.staticflickr.com/7649/16915550681_7cf5ac0dde_n.jpg"
 releated_posts:
   - 2015/01/2015-01-05-projeto-propoe-erradicar-o-analfabetismo-em-areas-do-mst-na-bahia.md
   - 2015/02/2015-02-26-sem-terra-conquistam-100-vagas-em-curso-de-geografia-na-ufpa.md
   - 2014/12/2014-11-05-brava-gente-assentada-o-assentamento-celso-furtado.md
   - 2015/01/2015-01-12-com-metodo-cubano-sem-terra-buscam-erradicar-analfabetismo-no-sul-da-bahia.md
   - 2015/01/2015-01-23-iii-curso-nacional-de-pedagogia-do-mst.md
+sector: education
 
 ---
-<p><img alt="clivia, diretora, e alunos.jpg" src="http://farm8.staticflickr.com/7609/16909229635_9b49edd79f_b.jpg" /></p>
+<figure class="image"><img alt="clivia, diretora, e alunos.jpg" src="http://farm8.staticflickr.com/7609/16909229635_9b49edd79f_b.jpg" />
+<figcaption>A diretora da escola Crescendo na Pr&aacute;tica,&nbsp;Cl&iacute;via Regina, com seus educandos. Foto: Raimundo Pac&oacute;.</figcaption>
+</figure>
 
 <p><em>Por Ismael Machado<br />
 Da P&aacute;gina do MST</em></p>
-
-<p><em>Fotos: Raimundo Pac&oacute;</em></p>
 
 <p><br />
 &Eacute; um percurso longo o que Larissa, de quatro anos, percorre todos os dias do assentamento Liberdade ao assentamento Palmares 2 para assistir aulas. Embora os &ocirc;nibus escolares sejam novos, &eacute; um caminho acidentado, que atravessa o munic&iacute;pio de Parauapebas, no sudeste do Par&aacute;.</p>
@@ -78,7 +85,7 @@ S&atilde;o duas escolas criadas pelo MST no assentamento Palmares 2. A primeira 
 A ocupa&ccedil;&atilde;o em quest&atilde;o ocorreu em 26 de junho de 1994, numa &aacute;rea ent&atilde;o conhecida como Cintur&atilde;o Verde, uma concess&atilde;o da empresa de minera&ccedil;&atilde;o Vale. Mais de 2 mil fam&iacute;lias se instalaram no que seria o futuro Palmares.</p>
 
 <figure class="image" style="float:right"><img alt="16287065764_cd8caffdab_b.jpg" src="http://farm8.staticflickr.com/7649/16915550681_7cf5ac0dde_b.jpg" />
-<figcaption></figcaption>
+<figcaption>A pioneira&nbsp;Francisca Maria.&nbsp;Foto: Raimundo Pac&oacute;.</figcaption>
 </figure>
 
 <p><br />
@@ -119,7 +126,7 @@ O Assentamento Palmares 2 cresceu al&eacute;m do que se esperava. Transformou-se
 <p>&nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="sala de aula.jpg" src="http://farm8.staticflickr.com/7639/16908294811_fea6362c6f_b.jpg" />
-<figcaption></figcaption>
+<figcaption>Foto: Raimundo Pac&oacute;.</figcaption>
 </figure>
 
 <p>Como n&atilde;o poderia deixar de ser, o assentamento passou a sofrer tamb&eacute;m a influ&ecirc;ncia do munic&iacute;pio sede. O custo de vida &eacute; alto em Parauapebas e isso se reflete na comunidade. Mas os procedimentos da escola tamb&eacute;m alargam as vis&otilde;es.&nbsp;</p>
@@ -178,16 +185,16 @@ Algumas boas centenas de metros mais adiante fica a escola Sallete Moreno. &Eacu
 <p><br />
 &Eacute; uma escola contempor&acirc;nea. Possui audit&oacute;rio, biblioteca, brinquedoteca, laborat&oacute;rio de inform&aacute;tica com 20 computadores, videoteca, sala de leitura e, principalmente, profissionais dispostos a fazer diferente.</p>
 
+<p><br />
+&ldquo;O nosso desafio &eacute; muito grande&rdquo;, diz a diretora Deusamar Sales Matos, 48 anos. &ldquo;Temos muito o que fazer. Eu olho para a frente e vejo que temos de conquistar mais e mais&rdquo;. Muitas coisas mudaram para melhor, em rela&ccedil;&atilde;o ao acesso de nossas crian&ccedil;as &agrave;s escolas e &agrave; forma&ccedil;&atilde;o dos professores. Na Sallete Moreno, s&atilde;o 224 alunos e nove professoras.</p>
+
 <p>&nbsp;</p>
 
-<figure class="image" style="float:left"><img alt="16287065764_cd8caffdab_b.jpg" height="420" src="http://farm8.staticflickr.com/7649/16915550681_7cf5ac0dde_b.jpg" width="280" />
-<figcaption></figcaption>
+<figure class="image" style="float:right"><img alt="debora, professora.JPG" src="http://farm9.staticflickr.com/8719/16952125686_8a37dc77e7_b.jpg" />
+<figcaption>Professora D&eacute;bora.&nbsp;Foto: Raimundo Pac&oacute;.</figcaption>
 </figure>
 
-<p>&ldquo;O nosso desafio &eacute; muito grande&rdquo;, diz a diretora Deusamar Sales Matos, 48 anos. &ldquo;Temos muito o que fazer. Eu olho para a frente e vejo que temos de conquistar mais e mais&rdquo;. Muitas coisas mudaram para melhor, em rela&ccedil;&atilde;o ao acesso de nossas crian&ccedil;as &agrave;s escolas e &agrave; forma&ccedil;&atilde;o dos professores. Na Sallete Moreno, s&atilde;o 224 alunos e nove professoras.</p>
-
-<p><br />
-Um dos grandes desafios, segundo a diretora, &eacute; construir um projeto pedag&oacute;gico que seja de educa&ccedil;&atilde;o do campo, mesmo com as contradi&ccedil;&otilde;es existentes em Parauapebas. &ldquo;Aqui &eacute; uma regi&atilde;o onde se disputa tudo: de terra &agrave; ideologia&rdquo;, conta Deusamar.</p>
+<p>Um dos grandes desafios, segundo a diretora, &eacute; construir um projeto pedag&oacute;gico que seja de educa&ccedil;&atilde;o do campo, mesmo com as contradi&ccedil;&otilde;es existentes em Parauapebas. &ldquo;Aqui &eacute; uma regi&atilde;o onde se disputa tudo: de terra &agrave; ideologia&rdquo;, conta Deusamar.</p>
 
 <p><br />
 Essas contradi&ccedil;&otilde;es interferem, pois a escola n&atilde;o &eacute; de &lsquo;educa&ccedil;&atilde;o urbana&rsquo;. &ldquo;As crian&ccedil;as s&atilde;o camponesas, por isso ficamos disputando ideias e concep&ccedil;&otilde;es&rdquo;. Outro desafio &eacute; o acesso e perman&ecirc;ncia das crian&ccedil;as na escola.&nbsp;</p>
