@@ -1,6 +1,6 @@
 {% assign posts = site.posts | where_not: 'id', include.actual_post.id | where_not: 'menu', 'campaign' %}
 
-<footer>
+<footer class="latest-news">
   <h1>Últimas notícias</h1>
   <ul>
     {% for post in posts limit:4 %}

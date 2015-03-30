@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Educação
-styles: ["education.css", "swiper.min.css"]
+styles: ["education.css", "swiper.min.css", "latest-news.css"]
 scripts: ["velocity.min.js", "about-us/ask-form.js", "gallery.js", "swiper.jquery.min.js"]
 ---
 
@@ -18,7 +18,12 @@ scripts: ["velocity.min.js", "about-us/ask-form.js", "gallery.js", "swiper.jquer
     <section id="itinerant-schools">
       {% include education/itinerant-schools.html %}
     </section>
+
+    <section id="news" class="latest-news">
+      {% include education/news.html %}
+    </section>
   </div>
+
   <section class="ask-us">
     {% include about-us/ask-us.html %}
   </section>
