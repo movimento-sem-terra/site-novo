@@ -10,15 +10,15 @@ menu: lutas e mobilizações
 sector: education
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8732/16355646464_19fcfc302d_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8732/16355646464_19fcfc302d_t.jpg"
-    medium: "http://farm9.staticflickr.com/8732/16355646464_19fcfc302d_z.jpg"
-    small: "http://farm9.staticflickr.com/8732/16355646464_19fcfc302d_n.jpg"
-    title: educação_campo.jpg
-    $$hashKey: 0AN
+  - link: "http://farm9.staticflickr.com/8716/16357394614_70240ccea5_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8716/16357394614_70240ccea5_t.jpg"
+    medium: "http://farm9.staticflickr.com/8716/16357394614_70240ccea5_z.jpg"
+    small: "http://farm9.staticflickr.com/8716/16357394614_70240ccea5_n.jpg"
+    title: mstribeirao.jpg
+    $$hashKey: 0F4
 created_date: "2015-03-30T09:55:38-03:00"
 published: true
-images_hd: "http://farm9.staticflickr.com/8732/16355646464_19fcfc302d_n.jpg"
+images_hd: "http://farm9.staticflickr.com/8716/16357394614_70240ccea5_n.jpg"
 releated_posts:
   - 2015/01/2015-01-21-falece-a-pedagoga-cubana-criadora-do-programa-de-alfabetizacao-sim-eu-posso.md
   - 2015/01/2015-01-23-iii-curso-nacional-de-pedagogia-do-mst.md
@@ -27,7 +27,8 @@ releated_posts:
   - 2015/02/2015-02-26-sem-terra-conquistam-100-vagas-em-curso-de-geografia-na-ufpa.md
 
 ---
-<p><br />
+<p><img alt="mstribeirao.jpg" src="http://farm9.staticflickr.com/8716/16357394614_70240ccea5_b.jpg" /><br />
+<br />
 <em>Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
