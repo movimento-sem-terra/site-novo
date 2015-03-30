@@ -38,12 +38,16 @@ $mobile: new-breakpoint(max-width 768px);
 }
 //END
 
-
-
 #education{
   padding: 0;
   width: 100%;
   background-color: #f8f8f9;
+
+  h3{
+    font-size: 34px;
+    color: #555555;
+    margin-bottom: 34px;
+  }
 
   #about {
     padding-bottom: 36px;
@@ -108,6 +112,7 @@ $mobile: new-breakpoint(max-width 768px);
           @include fill-parent();
         }
       }
+
       #testimonials{
         @include span-columns(6);
         text-align: center;
@@ -220,404 +225,156 @@ $mobile: new-breakpoint(max-width 768px);
 
   }
 
-  #news-production{
-    padding-top: 0;
-    height: 100%;
+  #itinerant-schools {
+    @extend .default-container;
+    margin-top: 20px;
+    padding-bottom: 70px;
 
-    section{
-      padding-top: 0px;
-    }
-
-    .news{
-      img{
-        float: left;
-        margin-right: 10px;
-      }
-    }
-
-    a {
-      font-size: 18px;
-      color: #555555;
-      line-height: 18px;
-      font-weight: 700;
-      display: inline-block;
-      span.support-line{
-        font-weight: 500;
-        display: block;
-        font-size: 16px;
-      }
-    }
-
-    h4{
-      margin: 23px 0 22px 0;
-      font-size: 24px;
-      color: #555555;
-      font-weight: 900;
-    }
-
-    & > .content{
-      @extend .default-container;
-      border-bottom: solid 1px $mst-green;
-
-    }
-
-    #know-more {
-      @include span-columns(3);
-
+    #text{
+      text-align: justify;
+      padding-right: 30px;
+      @include span-columns(6);
       @include media($mobile) {
-        @include span-columns(12);
+        @include fill-parent();
         padding: 10px;
-      }
-
-      .news{
-        max-height: 57px;
-        overflow: hidden;
-        margin-bottom: 19px;
-
-        a{
-          font-size: 13px;
-        }
-        img{
-          min-width: 100px;
-        }
-      }
-
-      #more-news{
-        border-radius: 5px;
-        background-color: $mst-green;
-        color: #fff;
-        widows: 100%;
-        text-align: center;
-        display: block;
-        width: 100%;
-        padding: 10px 30px;
-        text-decoration: none;
-        @include transition(background-color 0.4s ease-out);
-
-        &:hover{
-          background-color: $mst-red;
-        }
+        padding-right: 10px;
       }
     }
 
-    #others-container{
-      @include span-columns(9);
+    #gallery {
+
+      $radius: 5px;
+
+      height: 448px;
+      margin-top: 23px;
+      position: relative;
+      background-color: rgba(0, 0, 0, .7);
+      padding: 0;
+      border-radius: $radius;
+      overflow: hidden;
+
+      @include span-columns(6);
+      @include omega();
+
       @include media($mobile) {
-        @include span-columns(12);
+        @include fill-parent();
+        height: 271px;
+        overflow: visible;
       }
 
-      border-left: solid 1px #b7b7b7;
-      min-height: 572px;
-
-      #keep-an-eye{
-        padding-left: 16px;
-        @include span-columns(4 of 9);
+      #background {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        @include filter(blur(10px));
+        background-repeat: no-repeat;
+        background-size: cover;
+        opacity: .3;
+        transition: background .3s;
 
         @include media($mobile) {
-          @include span-columns(12);
-          padding: 10px;
+          @include filter(none);
+          transition: none;
         }
-        .news{
 
-          position: relative;
-          @include fill-parent();
-          a {
-
-            display: block;
-            img {
-
-              @include media($mobile) {
-                max-height: 100%;
-              }
-
-              height: auto;
-              max-height: 219px;
-              display: block;
-            }
-
-            span {
-              position: absolute;
-              bottom: 5px;
-              left: 0;
-              color: white;
-              text-align: center;
-              padding: 10% 10px 10px 10px;
-              font-size: 1.07em;
-              @include linear-gradient(transparent, rgba(0, 0, 0, .7));
-              transition-duration: .5s;
-              width: 100%;
-            }
-
-            &:hover {
-              span {
-                padding-top: 50%;
-                text-decoration: underline;
-              }
-            }
-          }
-
+      }
+      .swiper-container {
+        width: 100%;
+        height: 300px;
+        margin-left: auto;
+        margin-right: auto;
+        .swiper-slide {
+          background-size: cover;
+          background-position: center;
         }
       }
 
-
-      #others{
-        @include span-columns(5 of 9);
-        @include omega();
+      .gallery-top {
+        height: 80%;
+        width: 100%;
 
         @include media($mobile) {
-          @include span-columns(12);
-          padding: 10px;
+          height: 100%;
         }
 
-        #video {
-          @include span-columns(12);
+        .swiper-slide {
+          background-size: cover;
+          background-repeat: no-repeat;
 
-          .news{
-            @include span-columns(6 of 12);
+          border-radius: $radius;
 
-            @include media($mobile) {
-              @include fill-parent();
-              margin-bottom: 20px;
-              iframe {
-                min-height: 230px;
-              }
-            }
-
-            img {
-              height: 120px;
-            }
+          &.contain {
+            background-size: contain;
           }
         }
-      }
 
-      .news{
-        @include span-columns(3 of 9);
-        .support-line{
-          font-size: 15px;
-          font-weight: 200;
-        }
-        img{
-          width: 100%;
-          margin-bottom: 5px;
-        }
-
-        a{
-          font-size: 15px;
+        .swiper-button-disabled {
+          opacity: .1;
         }
 
       }
-
-
-
-
-      #our-historic {
-        @include span-columns(12);
-
-        padding: 20px 130px;
+      .gallery-thumbs {
+        height: 20%;
+        box-sizing: border-box;
+        padding: 10px 0;
 
         @include media($mobile) {
-          padding: 10px;
+          height: 8%;
+          padding: 0;
+          margin-top: 12px;
         }
-        .news{
-          @include span-columns(4 of 12);
+
+        .swiper-wrapper {
+          margin-left: -36%;
 
           @include media($mobile) {
-            @include fill-parent();
-            float: none;
-            max-width: 200px;
-            margin: 25px auto !important;
+            @include transform(none !important);
+            margin-left: 0;
+            text-align: center;
+            display: block;
           }
 
-          a {
-            text-align: center;
-            color: $mst-green;
-            img {
-              padding: 0 30px;
-              transition-duration: .5s;
+          .swiper-slide {
+            width: 25%;
+            height: 100%;
+            opacity: 0.7;
+            border: solid 3px transparent;
+
+            @include transition(all .3s);
+            @include media($mobile) {
+              width: 7px;
+              height: 7px;
+              border-radius: 50%;
+              border: solid 3px white;
+              display: inline-block;
+              margin: 1px !important;
+              background-image: none !important;
+              background-color: $mst-green;
+
+
             }
 
+            &:active {
+              @include transform(scale(1.4));
+            }
+
+            &.swiper-slide-active {
+              border-color: $mst-red;
+              opacity: 1;
+              @include media($mobile) {
+                border-size: 6px;
+              }
+            }
           }
-          :hover img {
-            @include filter(hue-rotate(35deg));
-            @include transform(scale(1.05));
-          }
-
-
-        }
-
-        hr{
-          border: 0;
-          height: 2px;
-          width: 85%;
-          margin-bottom: 30px;
-          @include linear-gradient(left, rgba(0,0,0,0), rgba(150,15,19,0.75), rgba(0,0,0,0));
-        }
-
-        h4 {
-          margin-top: 5px;
-          margin-bottom: 0;
-          text-align: center;
         }
       }
     }
   }
 
-  #itinerant-schools{
-    .content{
-      @extend .default-container;
-      margin-top: 20px;
-      padding-bottom: 70px;
-
-      h3{
-        font-size: 34px;
-        color: #555555;
-        margin-bottom: 34px;
-      }
-
-      #text{
-        text-align: justify;
-        padding-right: 30px;
-        @include span-columns(6);
-        @include media($mobile) {
-          @include fill-parent();
-          padding: 10px;
-          padding-right: 10px;
-        }
-      }
-
-      #gallery{
-
-        $radius: 5px;
-
-        height: 448px;
-        margin-top: 23px;
-        position: relative;
-        background-color: rgba(0, 0, 0, .7);
-        padding: 0;
-        border-radius: $radius;
-        overflow: hidden;
-
-        @include span-columns(6);
-        @include omega();
-
-        @include media($mobile) {
-          @include fill-parent();
-          height: 271px;
-          overflow: visible;
-        }
-
-        #background {
-          position: absolute;
-          width: 100%;
-          height: 100%;
-          top: 0;
-          left: 0;
-          @include filter(blur(10px));
-          background-repeat: no-repeat;
-          background-size: cover;
-          opacity: .3;
-          transition: background .3s;
-
-          @include media($mobile) {
-            @include filter(none);
-            transition: none;
-          }
-
-        }
-        .swiper-container {
-          width: 100%;
-          height: 300px;
-          margin-left: auto;
-          margin-right: auto;
-          .swiper-slide {
-            background-size: cover;
-            background-position: center;
-          }
-        }
-
-        .gallery-top {
-          height: 80%;
-          width: 100%;
-
-          @include media($mobile) {
-            height: 100%;
-          }
-
-          .swiper-slide {
-            background-size: cover;
-            background-repeat: no-repeat;
-
-            border-radius: $radius;
-
-            &.contain {
-              background-size: contain;
-            }
-          }
-
-          .swiper-button-disabled {
-            opacity: .1;
-          }
-
-        }
-        .gallery-thumbs {
-          height: 20%;
-          box-sizing: border-box;
-          padding: 10px 0;
-
-          @include media($mobile) {
-            height: 8%;
-            padding: 0;
-            margin-top: 12px;
-          }
-
-          .swiper-wrapper {
-            margin-left: -36%;
-
-            @include media($mobile) {
-              @include transform(none !important);
-              margin-left: 0;
-              text-align: center;
-              display: block;
-            }
-
-            .swiper-slide {
-              width: 25%;
-              height: 100%;
-              opacity: 0.7;
-              border: solid 3px transparent;
-
-              @include transition(all .3s);
-              @include media($mobile) {
-                width: 7px;
-                height: 7px;
-                border-radius: 50%;
-                border: solid 3px white;
-                display: inline-block;
-                margin: 1px !important;
-                background-image: none !important;
-                background-color: $mst-green;
-
-
-              }
-
-              &:active {
-                @include transform(scale(1.4));
-              }
-
-              &.swiper-slide-active {
-                border-color: $mst-red;
-                opacity: 1;
-                @include media($mobile) {
-                  border-size: 6px;
-                }
-              }
-
-            }
-
-          }
-        }
-      }
-    }
+  #news {
+    @extend .default-container;
   }
 
 }
