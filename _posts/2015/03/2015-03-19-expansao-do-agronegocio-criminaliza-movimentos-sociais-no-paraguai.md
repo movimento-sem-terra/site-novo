@@ -5,7 +5,7 @@ tags:
   - tag: agricultura-camponesa
   - tag: paraguai
   - tag: direitos-humanos
-title: "No Paraguai, junto à expansão do agronegócio, a criminalização dos movimentos"
+title: "Paraguai: junto à expansão do agronegócio, a criminalização dos movimentos"
 support_line: "Os campesinos vivem num verdadeiro Estado de Sítio, sofrem com a repressão do Exército de um lado e com a perseguição do crime organizado de outro."
 menu: agronegócio
 layout: post
