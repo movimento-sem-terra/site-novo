@@ -26,6 +26,7 @@ releated_posts:
   - 2015/03/2015-03-05-reforma-politica-as-10-armadilhas-da-emenda-vacarezza.md
   - 2015/03/2015-03-23-sem-reforma-politica-a-ofensiva-conservadora-so-ira-crescer.md
   - 2015/03/2015-03-27-31-de-marco-7-de-abril-1o-de-maio-dias-de-mobilizacao.md
+label: articles
 
 ---
 <p><img alt="Gilmar-e-Kenarik.jpg" src="http://farm9.staticflickr.com/8754/16770196817_49f2f02ca1_b.jpg" /><br />
