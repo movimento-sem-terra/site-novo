@@ -4,7 +4,7 @@ tags:
   - tag: educação
   - tag: lutas-e-mobilizações
   - tag: são-paulo
-title: Sem Terra realizam ato em frente a Prefeitura de Ribeirão Preto.
+title: Sem Terra realizam ato na Prefeitura de Ribeirão Preto e exigem a construção de escolas
 support_line: O ato é para que poder público agilize a construção da escola no Assentamento Mário Lago e denuncia a entrada do agronegócio nas escolas públicas.
 menu: lutas e mobilizações
 sector: education
