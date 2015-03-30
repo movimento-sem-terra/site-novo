@@ -28,6 +28,12 @@ files:
     small: "http://farm9.staticflickr.com/8696/16791425038_69960772da_n.jpg"
     title: juventude_NE2.jpg
     $$hashKey: 1US
+  - link: "http://farm8.staticflickr.com/7618/16771977717_ac85c29a86_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7618/16771977717_ac85c29a86_t.jpg"
+    medium: "http://farm8.staticflickr.com/7618/16771977717_ac85c29a86_z.jpg"
+    small: "http://farm8.staticflickr.com/7618/16771977717_ac85c29a86_n.jpg"
+    title: juventude_NE3.jpg
+    $$hashKey: 2AV
 created_date: "2015-03-30T12:03:16-03:00"
 published: true
 images_hd: "http://farm9.staticflickr.com/8700/16979100135_a37d7719a8_n.jpg"
@@ -50,8 +56,13 @@ Esse pensamento foi que permeou a primeira etapa do Curso dos Setores de Comunic
 <p><br />
 O curso reuniu 30 militantes de sete estados do nordeste e construiu linhas pol&iacute;ticas organizativas de acordo com as realidades.</p>
 
-<p><br />
-Al&eacute;m disso, fortaleceu a unidade do coletivo a partir dos debates sobre a diversidade racial, religiosa, cultural e de g&ecirc;nero.</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="juventude_NE3.jpg" src="http://farm8.staticflickr.com/7618/16771977717_ac85c29a86_b.jpg" />
+<figcaption></figcaption>
+</figure>
+
+<p>Al&eacute;m disso, fortaleceu a unidade do coletivo a partir dos debates sobre a diversidade racial, religiosa, cultural e de g&ecirc;nero.</p>
 
 <p><br />
 &ldquo;Temos a necessidade concreta de formar nossos militantes, principalmente aqueles que integram a comunica&ccedil;&atilde;o e a cultura. Nossa ideia com este curso &eacute; projetar outros sujeitos para assumir tarefas e atuar nas atividades que os coletivos e a organiza&ccedil;&atilde;o t&ecirc;m demandado&rdquo;, explicou Ana Emilia, do coletivo de cultura do nordeste.</p>
