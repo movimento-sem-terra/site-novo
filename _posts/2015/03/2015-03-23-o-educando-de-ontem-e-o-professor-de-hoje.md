@@ -41,21 +41,33 @@ files:
     small: "http://farm8.staticflickr.com/7639/16908294811_fea6362c6f_n.jpg"
     title: sala de aula.jpg
     $$hashKey: 03D
-  - link: "http://farm8.staticflickr.com/7649/16915550681_7cf5ac0dde_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7649/16915550681_7cf5ac0dde_t.jpg"
-    medium: "http://farm8.staticflickr.com/7649/16915550681_7cf5ac0dde_z.jpg"
-    small: "http://farm8.staticflickr.com/7649/16915550681_7cf5ac0dde_n.jpg"
-    title: 16287065764_cd8caffdab_b.jpg
-    $$hashKey: 09N
   - link: "http://farm9.staticflickr.com/8719/16952125686_8a37dc77e7_b.jpg"
     thumbnail: "http://farm9.staticflickr.com/8719/16952125686_8a37dc77e7_t.jpg"
     medium: "http://farm9.staticflickr.com/8719/16952125686_8a37dc77e7_z.jpg"
     small: "http://farm9.staticflickr.com/8719/16952125686_8a37dc77e7_n.jpg"
     title: "debora, professora.JPG"
     $$hashKey: 0HE
+  - link: "http://farm9.staticflickr.com/8745/16977228771_9ccc649300_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8745/16977228771_9ccc649300_t.jpg"
+    medium: "http://farm9.staticflickr.com/8745/16977228771_9ccc649300_z.jpg"
+    small: "http://farm9.staticflickr.com/8745/16977228771_9ccc649300_n.jpg"
+    title: "francisca maria, pioneira.JPG"
+    $$hashKey: 0SF
+  - link: "http://farm9.staticflickr.com/8719/16976817572_4efa873636_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8719/16976817572_4efa873636_t.jpg"
+    medium: "http://farm9.staticflickr.com/8719/16976817572_4efa873636_z.jpg"
+    small: "http://farm9.staticflickr.com/8719/16976817572_4efa873636_n.jpg"
+    title: "francisca maria, pioneira!!.jpg"
+    $$hashKey: 0SI
+  - link: "http://farm9.staticflickr.com/8708/16358085653_ef07943942_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8708/16358085653_ef07943942_t.jpg"
+    medium: "http://farm9.staticflickr.com/8708/16358085653_ef07943942_z.jpg"
+    small: "http://farm9.staticflickr.com/8708/16358085653_ef07943942_n.jpg"
+    title: aluna (2).JPG
+    $$hashKey: 0SL
 created_date: "2015-03-23T17:44:14-03:00"
 published: true
-images_hd: "http://farm8.staticflickr.com/7649/16915550681_7cf5ac0dde_n.jpg"
+images_hd: "http://farm9.staticflickr.com/8745/16977228771_9ccc649300_n.jpg"
 releated_posts:
   - 2015/01/2015-01-05-projeto-propoe-erradicar-o-analfabetismo-em-areas-do-mst-na-bahia.md
   - 2015/02/2015-02-26-sem-terra-conquistam-100-vagas-em-curso-de-geografia-na-ufpa.md
@@ -81,12 +93,13 @@ Larissa nasceu com um problema cong&ecirc;nito que dificulta a fala, por isso te
 <p><br />
 S&atilde;o duas escolas criadas pelo MST no assentamento Palmares 2. A primeira tem um nome sugestivo: Crescendo na Pr&aacute;tica. &ldquo;Ela surgiu como todas as outras escolas do MST, colada ao processo de ocupa&ccedil;&atilde;o da terra&rdquo;, explica a diretora Cl&iacute;via Regina, 39 anos.&nbsp;</p>
 
-<p><br />
-A ocupa&ccedil;&atilde;o em quest&atilde;o ocorreu em 26 de junho de 1994, numa &aacute;rea ent&atilde;o conhecida como Cintur&atilde;o Verde, uma concess&atilde;o da empresa de minera&ccedil;&atilde;o Vale. Mais de 2 mil fam&iacute;lias se instalaram no que seria o futuro Palmares.</p>
+<p>&nbsp;</p>
 
-<figure class="image" style="float:right"><img alt="16287065764_cd8caffdab_b.jpg" src="http://farm8.staticflickr.com/7649/16915550681_7cf5ac0dde_b.jpg" />
+<figure class="image" style="float:right"><img alt="francisca maria, pioneira!!.jpg" src="http://farm9.staticflickr.com/8719/16976817572_4efa873636_b.jpg" />
 <figcaption>A pioneira&nbsp;Francisca Maria.&nbsp;Foto: Raimundo Pac&oacute;.</figcaption>
 </figure>
+
+<p>A ocupa&ccedil;&atilde;o em quest&atilde;o ocorreu em 26 de junho de 1994, numa &aacute;rea ent&atilde;o conhecida como Cintur&atilde;o Verde, uma concess&atilde;o da empresa de minera&ccedil;&atilde;o Vale. Mais de 2 mil fam&iacute;lias se instalaram no que seria o futuro Palmares.</p>
 
 <p><br />
 As fam&iacute;lias foram despejadas, mas n&atilde;o desistiram. Fincaram os p&eacute;s em frente &agrave; C&acirc;mara Municipal e depois ocuparam a sede do Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra) em Marab&aacute;.&nbsp;</p>
@@ -94,9 +107,8 @@ As fam&iacute;lias foram despejadas, mas n&atilde;o desistiram. Fincaram os p&ea
 <p><br />
 Foi em frente &agrave; sede do &oacute;rg&atilde;o federal que surgiu a escola. Era agosto de 1994. &ldquo;Tinha muitas crian&ccedil;as de pais acampados. Ent&atilde;o come&ccedil;amos a ver quem tinha habilidade no ensino e a organizar as aulas&rdquo;, lembra Cl&iacute;via.</p>
 
-<p>&nbsp;</p>
-
-<p>O come&ccedil;o foi dif&iacute;cil: As aulas eram ministradas embaixo de &aacute;rvores. N&atilde;o demorou e os pr&oacute;prios integrantes do acampamento come&ccedil;aram a articular melhor o espa&ccedil;o. &ldquo;Quem tinha mais escolaridade assumia as aulas&rdquo;, diz a diretora.</p>
+<p><br />
+O come&ccedil;o foi dif&iacute;cil: As aulas eram ministradas embaixo de &aacute;rvores. N&atilde;o demorou e os pr&oacute;prios integrantes do acampamento come&ccedil;aram a articular melhor o espa&ccedil;o. &ldquo;Quem tinha mais escolaridade assumia as aulas&rdquo;, diz a diretora.</p>
 
 <p><br />
 A professora pioneira foi Francisca Maria Ferreira, de 49 anos. &ldquo;Cortei as primeiras palhas para fazer a escola. Foi um per&iacute;odo de muita dificuldade, mas de boas lembran&ccedil;as tamb&eacute;m&rdquo;, diz ela.</p>
@@ -164,7 +176,7 @@ Ministrar aula em uma escola com as caracter&iacute;sticas de estar inserida no 
 
 <p>&nbsp;</p>
 
-<figure class="image" style="float:left"><img alt="sala de informática.jpg" src="http://farm9.staticflickr.com/8732/16908286801_86129831ac_b.jpg" />
+<figure class="image" style="float:right"><img alt="sala de informática.jpg" src="http://farm9.staticflickr.com/8732/16908286801_86129831ac_b.jpg" />
 <figcaption></figcaption>
 </figure>
 
@@ -177,7 +189,13 @@ Ministrar aula em uma escola com as caracter&iacute;sticas de estar inserida no 
 Isabel concluiu o magist&eacute;rio pelo Pronera em 2004. Foi para outro assentamento, lutar pela terra e dar aulas. Em 2008, passou no vestibular para Arte-Educa&ccedil;&atilde;o, em Teresina, no Piau&iacute;. Concluiu em 2013 e voltou a Palmares. &ldquo;A ideia &eacute; usar a artes como forma de contar a realidade que vivemos&rdquo;, diz.</p>
 
 <p><br />
-<strong>Permanente constru&ccedil;&atilde;o</strong></p>
+&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="aluna (2).JPG" src="http://farm9.staticflickr.com/8708/16358085653_ef07943942_b.jpg" />
+<figcaption></figcaption>
+</figure>
+
+<p><strong>Permanente constru&ccedil;&atilde;o</strong></p>
 
 <p><br />
 Algumas boas centenas de metros mais adiante fica a escola Sallete Moreno. &Eacute; voltada para a educa&ccedil;&atilde;o infantil, e impressiona logo &agrave; primeira vista. Tem espa&ccedil;os amplos, adequados, mas em permanente constru&ccedil;&atilde;o e adapta&ccedil;&atilde;o. Para quem faz parte da gera&ccedil;&atilde;o pioneira das duas institui&ccedil;&otilde;es de ensino, as escolas d&atilde;o orgulho e compromisso.</p>
@@ -188,19 +206,19 @@ Algumas boas centenas de metros mais adiante fica a escola Sallete Moreno. &Eacu
 <p><br />
 &ldquo;O nosso desafio &eacute; muito grande&rdquo;, diz a diretora Deusamar Sales Matos, 48 anos. &ldquo;Temos muito o que fazer. Eu olho para a frente e vejo que temos de conquistar mais e mais&rdquo;. Muitas coisas mudaram para melhor, em rela&ccedil;&atilde;o ao acesso de nossas crian&ccedil;as &agrave;s escolas e &agrave; forma&ccedil;&atilde;o dos professores. Na Sallete Moreno, s&atilde;o 224 alunos e nove professoras.</p>
 
-<p>&nbsp;</p>
-
-<figure class="image" style="float:right"><img alt="debora, professora.JPG" src="http://farm9.staticflickr.com/8719/16952125686_8a37dc77e7_b.jpg" />
-<figcaption>Professora D&eacute;bora.&nbsp;Foto: Raimundo Pac&oacute;.</figcaption>
-</figure>
-
-<p>Um dos grandes desafios, segundo a diretora, &eacute; construir um projeto pedag&oacute;gico que seja de educa&ccedil;&atilde;o do campo, mesmo com as contradi&ccedil;&otilde;es existentes em Parauapebas. &ldquo;Aqui &eacute; uma regi&atilde;o onde se disputa tudo: de terra &agrave; ideologia&rdquo;, conta Deusamar.</p>
+<p><br />
+Um dos grandes desafios, segundo a diretora, &eacute; construir um projeto pedag&oacute;gico que seja de educa&ccedil;&atilde;o do campo, mesmo com as contradi&ccedil;&otilde;es existentes em Parauapebas. &ldquo;Aqui &eacute; uma regi&atilde;o onde se disputa tudo: de terra &agrave; ideologia&rdquo;, conta Deusamar.</p>
 
 <p><br />
 Essas contradi&ccedil;&otilde;es interferem, pois a escola n&atilde;o &eacute; de &lsquo;educa&ccedil;&atilde;o urbana&rsquo;. &ldquo;As crian&ccedil;as s&atilde;o camponesas, por isso ficamos disputando ideias e concep&ccedil;&otilde;es&rdquo;. Outro desafio &eacute; o acesso e perman&ecirc;ncia das crian&ccedil;as na escola.&nbsp;</p>
 
-<p><br />
-Existem outros assentamentos que ficam h&aacute; &nbsp;42 km de dist&acirc;ncia. Seis assentamentos t&ecirc;m alunos que freq&uuml;entam a Sallete Moreno: Palmares, Lagoa Preta, Rio Branco, Novo Brasil, Liberdade e Barra do Cedro.</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="debora, professora.JPG" src="http://farm9.staticflickr.com/8719/16952125686_8a37dc77e7_b.jpg" />
+<figcaption></figcaption>
+</figure>
+
+<p>Existem outros assentamentos que ficam h&aacute; &nbsp;42 km de dist&acirc;ncia. Seis assentamentos t&ecirc;m alunos que freq&uuml;entam a Sallete Moreno: Palmares, Lagoa Preta, Rio Branco, Novo Brasil, Liberdade e Barra do Cedro.</p>
 
 <p><br />
 Inaugurada em 2013, a escola Sallete Moreno tem, no entanto, as ra&iacute;zes fincadas em 1994, quando o assentamento Palmares come&ccedil;ou a ganhar forma. J&aacute; vai longe aquela manh&atilde; de quase 37 graus cent&iacute;grados, quando Francisca Maria viu a sua frente v&aacute;rios pares de olhos infantis &agrave; espera da primeira aula. Ela guarda isso na mem&oacute;ria:</p>
