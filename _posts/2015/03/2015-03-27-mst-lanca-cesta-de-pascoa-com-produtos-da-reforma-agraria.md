@@ -46,7 +46,7 @@ O MST acaba de lan&ccedil;ar uma cesta de P&aacute;scoa com diversos produtos da
 S&atilde;o mais de 15 produtos vindos de diversas partes do Brasil das &aacute;reas de assentamento do Movimento.</p>
 
 <p><br />
-Os alimentos v&atilde;o desde suco de uva, panetone, arroz, castanha de caju, achocolatado, cacha&ccedil;a, caf&eacute;, compotas, gel&eacute;ias, salame, mel, feij&atilde;o at&eacute; leite condensado, doce e creme de leite.</p>
+Os alimentos v&atilde;o desde suco de uva, arroz, mel, feij&atilde;o, achocolatado, cacha&ccedil;a, caf&eacute;, compotas, gel&eacute;ias, at&eacute; leite condensado, doce e creme de leite.</p>
 
 <p>&nbsp;</p>
 
