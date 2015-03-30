@@ -6,7 +6,7 @@ tags:
   - tag: dilma-rousseff
   - tag: agricultura-camponesa
   - tag: agroecologia
-title: "O Brasil tem de saber que a agroecologia é possível, afirma Dilma"
+title: "Para Dilma, o Brasil tem de saber que a agroecologia é possível"
 support_line: "A presidenta participou da 12°Festa da Colheita do Arroz Agroecológico, no Rio Grande do Sul."
 menu: agricultura camponesa
 layout: post
