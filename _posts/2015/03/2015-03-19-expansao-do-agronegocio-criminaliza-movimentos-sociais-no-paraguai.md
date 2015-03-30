@@ -36,6 +36,7 @@ releated_posts:
   - 2014/05/2014-05-23-em-beneficio-do-agronegocio-direitos-humanos-de-comunidades-sao-violados.md
   - 2014/05/2014-05-21-no-paraguai-2-detem-80-das-terras.md
   - 2015/02/2015-02-13-no-paraguai-agricultores-se-recusam-a-ingressar-no-modelo-imposto-pelo-agronegocio.md
+section: featured-news
 
 ---
 <figure class="image"><img alt="grande marcha patriotica em frente ao palácio do governo.jpg" src="http://farm8.staticflickr.com/7652/16677369920_ed2a5fae3e_b.jpg" />
