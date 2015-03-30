@@ -4,15 +4,15 @@ title: Educação
 styles: ["education.css", "swiper.min.css"]
 scripts: ["velocity.min.js", "about-us/ask-form.js", "gallery.js", "swiper.jquery.min.js"]
 ---
-{% assign news = site.posts | where: 'sector', 'education' %}
+
 <main id="education">
   <div id="container">
     <section id="about">
-      {% include education/about.html posts = news  %}
+      {% include education/about.html %}
     </section>
 
     <section id="statistics">
-      {% include education/statistics.html posts = news %}
+      {% include education/statistics.html %}
     </section>
 
     <section id="itinerant-schools">
