@@ -366,6 +366,12 @@
 
         @include span-columns(6);
 
+        &:last-of-type {
+          border-left: dashed 1px #CACACB;
+          padding-left: 23px;
+          min-height: 300px;
+        }
+
         .news{
           max-height: 57px;
           overflow: hidden;
