@@ -1,26 +1,34 @@
 ---
 layout: post
-title: '"Nossa educação ensina a criança a ser sujeita e construtora de sua história"'
-legacy_url: ''
-images: ''
-video: ''
-youtube_link: ''
+title: "\"Nossa educação ensina a criança a ser sujeita e construtora de sua história\""
+legacy_url: ""
+images: ""
+video: ""
+youtube_link: ""
 tags:
-- tag: educação
-- tag: jornada-sem-terrinha
-- tag: crianças
-files: []
-type: ''
-support_line: Márcia Ramos, do setor de educação, relata a experiência do MST com
-  as crianças ao longo desses 30 anos
-section: ''
-hat: ''
+  - tag: educação
+  - tag: jornada-sem-terrinha
+  - tag: crianças
+files:
+  - thumbnail: "http://farm4.staticflickr.com/3932/15439069056_aefc816029_b.jpg"
+    small: "http://farm4.staticflickr.com/3932/15439069056_aefc816029_b.jpg"
+    $$hashKey: 07M
+type: ""
+support_line: "Márcia Ramos, do setor de educação, relata a experiência do MST com as crianças ao longo desses 30 anos"
+section: ""
+hat: ""
 label: interviews
-images_hd: http://farm4.staticflickr.com/3932/15439069056_aefc816029_b.jpg
-menu: educação, cultura e comunicação
+images_hd: "http://farm4.staticflickr.com/3932/15439069056_aefc816029_b.jpg"
+menu: "educação, cultura e comunicação"
 published: true
-date: '2014-10-01T17:08:41-03:00'
-created_date: 2014-10-01 12:00
+date: "2014-10-01T17:08:41-03:00"
+created_date: "2014-10-01 12:00"
+sector: education
+releated_posts:
+  - 2015/01/2015-01-21-falece-a-pedagoga-cubana-criadora-do-programa-de-alfabetizacao-sim-eu-posso.md
+  - 2015/01/2015-01-22-juventude-sem-terra-do-para-participa-da-construcao-de-encontro-popular.md
+  - 2015/01/2015-01-30-juventude-sem-terra-realiza-curso-de-formacao-em-veranopolis.md
+  - 2015/02/2015-02-04-mst-ocupa-a-secretaria-de-educacao-no-espirito-santo.md
 
 ---
 <h1>&nbsp;</h1>

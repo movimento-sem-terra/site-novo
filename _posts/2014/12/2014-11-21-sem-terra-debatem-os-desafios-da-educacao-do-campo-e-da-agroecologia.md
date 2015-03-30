@@ -1,25 +1,26 @@
 ---
-date: '2014-11-21T15:59:13-02:00'
+date: "2014-11-21T15:59:13-02:00"
 tags:
-- tag: Bahia
-- tag: Educação
-- tag: Formação
-- tag: Agroecologia
+  - tag: Bahia
+  - tag: Educação
+  - tag: Formação
+  - tag: Agroecologia
 title: Sem Terra debatem os desafios da educação do campo e da agroecologia
-support_line: Entre os dias 23 e 25 de novembro, o MST realizará o 1º Seminário de
-  Educação do Campo e Agroecologia na Escola Popular Egídio Brunetto.
-menu: educação, cultura e comunicação
+support_line: "Entre os dias 23 e 25 de novembro, o MST realizará o 1º Seminário de Educação do Campo e Agroecologia na Escola Popular Egídio Brunetto."
+menu: "educação, cultura e comunicação"
 layout: post
 files:
-- link: http://farm8.staticflickr.com/7576/15767806667_f76a23efee_b.jpg
-  thumbnail: http://farm8.staticflickr.com/7576/15767806667_f76a23efee_t.jpg
-  medium: http://farm8.staticflickr.com/7576/15767806667_f76a23efee_z.jpg
-  small: http://farm8.staticflickr.com/7576/15767806667_f76a23efee_n.jpg
-  title: educar_campo.jpg
-  "$$hashKey": 2L0
-created_date: '2014-12-05T16:02:31-02:00'
+  - link: "http://farm8.staticflickr.com/7576/15767806667_f76a23efee_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7576/15767806667_f76a23efee_t.jpg"
+    medium: "http://farm8.staticflickr.com/7576/15767806667_f76a23efee_z.jpg"
+    small: "http://farm8.staticflickr.com/7576/15767806667_f76a23efee_n.jpg"
+    title: educar_campo.jpg
+    $$hashKey: 2L0
+created_date: "2014-12-05T16:02:31-02:00"
 published: true
-images_hd: http://farm8.staticflickr.com/7576/15767806667_f76a23efee_n.jpg
+images_hd: "http://farm8.staticflickr.com/7576/15767806667_f76a23efee_n.jpg"
+sector: education
+releated_posts: []
 
 ---
 <div id="content-header">

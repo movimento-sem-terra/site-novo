@@ -3,10 +3,11 @@ date: "2015-03-27T11:25:31-03:00"
 tags:
   - tag: Fórum-Social-Mundial-2015
   - tag: agricultura
+  - tag: Tunísia
 support_line: "Debate realizado no Fórum Social Mundial, em Túnis, expôs a necessidade de combater o modelo de produção das multinacionais e fortalecer a produção familiar agroecológica.\n"
 title: "Na Tunísia, Via Campesina defende fortalecimento da soberania alimentar"
 menu: agricultura camponesa
-section: cover
+section: null
 layout: post
 files:
   - link: "http://farm8.staticflickr.com/7650/16325780833_289ebd187f_b.jpg"
@@ -24,7 +25,8 @@ releated_posts:
   - 2015/01/2015-01-27-num-cenario-adverso-especialistas-pedem-pela-agroecologia.md
 
 ---
-<p><em style="line-height: 1.6;">Por Simone Freire</em><br />
+<p><br />
+<em style="line-height: 1.6;">Por Simone Freire</em><br />
 <em>Especial &agrave; P&aacute;gina do MST, de T&uacute;nis (Tun&iacute;sia)</em></p>
 
 <p><br />

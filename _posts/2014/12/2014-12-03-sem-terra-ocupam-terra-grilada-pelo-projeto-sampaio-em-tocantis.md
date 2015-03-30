@@ -1,24 +1,25 @@
 ---
-date: '2014-12-03T16:47:04-02:00'
+date: "2014-12-03T16:47:04-02:00"
 tags:
-- tag: Tocantins
-- tag: Ocupação
-- tag: Reforma-Agrária
-title: Sem Terra ocupam terra grilada pelo Projeto Sampaio, em Tocantis
-support_line: O projeto estaria sendo construído em terras públicas, e já tiveram
-  gastos de R$ 200 milhões.
+  - tag: Tocantins
+  - tag: Ocupação
+  - tag: Reforma-Agrária
+title: "Sem Terra ocupam terra grilada pelo Projeto Sampaio, em Tocantis"
+support_line: "O projeto estaria sendo construído em terras públicas, e já tiveram gastos de R$ 200 milhões."
 menu: lutas e mobilizações
 layout: post
 files:
-- link: http://farm9.staticflickr.com/8561/15357942633_472086542e_b.jpg
-  thumbnail: http://farm9.staticflickr.com/8561/15357942633_472086542e_t.jpg
-  medium: http://farm9.staticflickr.com/8561/15357942633_472086542e_z.jpg
-  small: http://farm9.staticflickr.com/8561/15357942633_472086542e_n.jpg
-  title: projeto sampaio.jpg
-  "$$hashKey": 40X
-created_date: '2014-12-08T16:48:30-02:00'
+  - link: "http://farm9.staticflickr.com/8561/15357942633_472086542e_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8561/15357942633_472086542e_t.jpg"
+    medium: "http://farm9.staticflickr.com/8561/15357942633_472086542e_z.jpg"
+    small: "http://farm9.staticflickr.com/8561/15357942633_472086542e_n.jpg"
+    title: projeto sampaio.jpg
+    $$hashKey: 40X
+created_date: "2014-12-08T16:48:30-02:00"
 published: true
-images_hd: http://farm9.staticflickr.com/8561/15357942633_472086542e_n.jpg
+images_hd: "http://farm9.staticflickr.com/8561/15357942633_472086542e_n.jpg"
+sector: mass-front
+releated_posts: []
 
 ---
 <p><img alt="projeto sampaio.jpg" src="http://farm9.staticflickr.com/8561/15357942633_472086542e_b.jpg" /></p>
