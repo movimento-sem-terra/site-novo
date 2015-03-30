@@ -35,8 +35,6 @@ releated_posts:
 </figure>
 </div>
 
-<p>&nbsp;</p>
-
 <p><em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
@@ -48,11 +46,5 @@ S&atilde;o mais de 15 produtos vindos de diversas partes do Brasil das &aacute;r
 <p><br />
 Os alimentos v&atilde;o desde suco de uva, arroz, mel, feij&atilde;o, achocolatado, cacha&ccedil;a, caf&eacute;, compotas, gel&eacute;ias, at&eacute; leite condensado, doce e creme de leite.</p>
 
-<p>&nbsp;</p>
-
 <p><br />
 Cada cesta custa R$200,00, e podem ser adquiridas mandando um e-mail: lojanac@mst.org.br e pelos tels.: (11) 9.9452 - 7611 Celio Romoaldo ou&nbsp; (11) 9. 4151-0784&nbsp; Ricardo Barbosa.</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
