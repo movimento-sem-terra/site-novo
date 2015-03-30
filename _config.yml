@@ -68,6 +68,10 @@ paginate_by:
         permalink: "nossa-producao/noticias"
         only:
           - sector: "production"
+    - sector:
+        permalink: "frente-de-massa/noticias"
+        only:
+          - sector: "mass-front"
     - all:
         permalink: "noticias/"
         exclude:

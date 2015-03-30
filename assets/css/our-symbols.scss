@@ -23,6 +23,7 @@
     transition: color 1s;
     bottom: 0;
     will-change: color;
+    margin: 1em 0;
   }
 
   .highlighted {
@@ -349,6 +350,57 @@
     }
 
 
+  }
+
+  section#lona-preta {
+    @include clearfix;
+
+    background: $mst-light-gray;
+
+    h3 {
+      margin-bottom: 1em;
+    }
+
+    .container {
+      & > div {
+
+        @include span-columns(6);
+
+        .news{
+          max-height: 57px;
+          overflow: hidden;
+          margin-bottom: 19px;
+
+          a{
+            font-size: 13px;
+
+            img{
+              width: 100px;
+              float: left;
+              margin-right: 10px;
+            }
+          }
+
+        }
+
+        .more-news{
+          border-radius: 5px;
+          background-color: $mst-green;
+          color: #fff;
+          widows: 100%;
+          text-align: center;
+          display: block;
+          width: 100%;
+          padding: 10px 30px;
+          text-decoration: none;
+          @include transition(background-color 0.4s ease-out);
+
+          &:hover{
+            background-color: $mst-red;
+          }
+        }
+      }
+    }
   }
 
 }
