@@ -5,7 +5,7 @@ tags:
   - tag: incra
   - tag: desapropriações
 title: "Em Brasília, Incra empossa primeira mulher como presidenta"
-support_line: "Maria Lúcia de Oliveira Falcón empossou a presidenta do Incra nesta segunda-feira, e tem o desafio de assentar 120 mil famílias."
+support_line: "Maria Lúcia de Oliveira Falcón empossou a presidência do Incra nesta segunda-feira, e tem o desafio de assentar 120 mil famílias."
 menu: reforma agrária
 section: cover
 layout: post
