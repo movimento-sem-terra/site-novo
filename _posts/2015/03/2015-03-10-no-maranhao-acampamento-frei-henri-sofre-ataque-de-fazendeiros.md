@@ -23,6 +23,7 @@ releated_posts:
   - 2014/04/2014-04-25-chacina-de-unai-justica-eleitoral-torna-ex-prefeito-inelegivel-por-oito-anos.md
   - 2014/07/2014-07-17-pelo-menos-53-indios-foram-assassinados-em-2013-diz-cimi.md
   - 2014/10/2014-09-30-quem-aperta-o-gatilho-nos-assassinatos-do-campo-no-para.md
+sector: mass-front
 
 ---
 <p><br />
