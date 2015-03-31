@@ -27,6 +27,7 @@ releated_posts:
   - 2015/01/2015-01-12-sem-terra-ocupam-usina-falida-em-mato-grosso-do-sul.md
   - 2014/07/2014-07-17-familias-sem-terra-seguem-na-luta-por-area-grilada-em-abelardo-luz.md
   - 2014/12/2014-12-09-mst-lanca-cesta-de-natal-com-produtos-da-reforma-agraria.md
+section: featured-news
 
 ---
 <div style="text-align:center">
