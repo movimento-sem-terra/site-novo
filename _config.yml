@@ -69,6 +69,10 @@ paginate_by:
         only:
           - sector: "production"
     - sector:
+        permalink: "educacao/noticias"
+        only:
+          - sector: "education"
+    - sector:
         permalink: "frente-de-massa/noticias"
         only:
           - sector: "mass-front"
