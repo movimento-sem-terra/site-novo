@@ -3,6 +3,7 @@ _site
 node_modules
 .bundle/
 *.swp
+*.swo
 .ruby-version
 .node-version
 .sass-cache/
