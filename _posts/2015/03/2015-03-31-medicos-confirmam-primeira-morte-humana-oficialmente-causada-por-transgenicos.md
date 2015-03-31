@@ -27,7 +27,7 @@ files:
     title: hospital3.jpg
     $$hashKey: 07A
 created_date: "2015-03-31T13:41:24-03:00"
-published: true
+published: false
 images_hd: "http://farm8.staticflickr.com/7628/16991009725_a1c19016be_n.jpg"
 releated_posts:
   - 2014/07/2014-07-08-20-anos-de-transgenicos-ha-o-que-comemorar.md
