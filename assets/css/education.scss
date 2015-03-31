@@ -142,7 +142,7 @@ $mobile: new-breakpoint(max-width 768px);
             margin-right: 22px;
           }
 
-          p{
+          p > a {
             @extend .truncate;
             font-size: 16px;
             color: $mst-red;
@@ -151,6 +151,7 @@ $mobile: new-breakpoint(max-width 768px);
             vertical-align: middle;
             display: table-cell;
           }
+
           a{
             color: #555555;
             font-weight: 200;

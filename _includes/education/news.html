@@ -1,9 +1,7 @@
-{% assign posts = site.posts | where: 'sector': 'education' %}
-
 <div class="content">
   <h3>Saiba mais</h3>
   <ul>
-    {% for post in posts limit:4 %}
+    {% for post in include.posts limit:4 %}
     <li>
       {% if post.section == 'tv'  %}
         {% include headline-with-video.html post=post %}
