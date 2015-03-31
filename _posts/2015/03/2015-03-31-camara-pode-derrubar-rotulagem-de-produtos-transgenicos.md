@@ -7,7 +7,7 @@ tags:
 title: Câmara pode derrubar rotulagem de produtos transgênicos
 support_line: "Instituída em 2003 por decreto presidencial, a medida regulamenta o direito à informação no caso de alimentos e ingredientes alimentares transgênicos."
 menu: transgênicos
-section: cover
+section: null
 layout: post
 files:
   - link: "http://farm8.staticflickr.com/7620/16368667753_04ea892eab_b.jpg"
