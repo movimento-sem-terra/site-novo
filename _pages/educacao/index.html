@@ -5,10 +5,12 @@ styles: ["education.css", "swiper.min.css", "latest-news.css"]
 scripts: ["velocity.min.js", "about-us/ask-form.js", "gallery.js", "swiper.jquery.min.js"]
 ---
 
+{% assign news = site.posts | where: 'sector', 'education' %}
+
 <main id="education">
   <div id="container">
     <section id="about">
-      {% include education/about.html %}
+      {% include education/about.html posts=news %}
     </section>
 
     <section id="statistics">
@@ -20,7 +22,7 @@ scripts: ["velocity.min.js", "about-us/ask-form.js", "gallery.js", "swiper.jquer
     </section>
 
     <section id="news" class="latest-news">
-      {% include education/news.html %}
+      {% include education/news.html posts=news %}
     </section>
   </div>
 

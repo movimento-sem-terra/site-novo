@@ -1,3 +1,4 @@
+{% assign special_stories = include.posts | where: "label", "special-stories" %}
 <div class="content">
   <h2>Educação</h2>
   <div id="summary">
@@ -6,12 +7,18 @@
   </div>
   
   <div id="testimonials">
-    <div class="testimonial">
-      <p><span class="quote start">"</span>milhares de analfabetos a serem alfabetizados, um número de crianças sem fim pedindo para conhecer as letras, ler o mundo...</p>
-    </div>
-    <div class="testimonial">
-      <p><span class="quote start">"</span>O Brasil ainda possui 14,1 milhões de analfabetos. Um em cada cinco brasileiros é analfabeto funcional</p>
-    </div>
+    {% for post in special_stories | limit: 2  %}
+      <div class="testimonial">
+        <p>
+          <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">
+            <span class="quote start">"</span>{{ post.title | truncate: 100 }}
+          </a>
+        </p>
+        <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">
+          Saiba Mais
+        </a>
+      </div>
+    {% endfor %}
   </div>
 </div>
 
