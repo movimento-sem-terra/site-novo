@@ -42,10 +42,8 @@ releated_posts:
 <p><em>Por Iris Pacheco<br />
 Da P&aacute;gina do MST</em></p>
 
-<p>&nbsp;
 <p><br />
 Nesta segunda-feira (30), o ministro do Desenvolvimento Agr&aacute;rio, Patrus Ananias, empossou a presidenta do Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra), Maria L&uacute;cia de Oliveira Falc&oacute;n. Primeira mulher a ocupar o cargo de presidente do instituto com sede em Bras&iacute;lia, Maria L&uacute;cia afirmou estar comprometida com a desburocratiza&ccedil;&atilde;o dos processos de assentamento de fam&iacute;lias em &aacute;reas rurais.</p>
-</p>
 
 <p><br />
 Entre os desafios da nova presidente do Incra, est&aacute; o de acelerar a Reforma Agr&aacute;ria no pa&iacute;s, ao salientar a necessidade de implementar o Plano Nacional de Reforma Agr&aacute;ria, promovendo o acesso &agrave; educa&ccedil;&atilde;o, infraestrutura, entre outros, de forma adequada e qualificada.</p>
