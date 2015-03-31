@@ -28,6 +28,7 @@ releated_posts:
   - 2015/02/2015-02-11-para-renato-simoes-pec-vaccarezza-cunha-vai-piorar-sistema-eleitoral.md
   - 2015/03/2015-03-05-reforma-politica-as-10-armadilhas-da-emenda-vacarezza.md
   - 2015/03/2015-03-13-cerca-de-100-mil-ocupam-a-paulista-pela-constituinte-e-em-defesa-da-petrobras.md
+section: featured-news
 
 ---
 <p><img alt="brasil.jpg" src="http://farm9.staticflickr.com/8754/16323681454_9d520c9315_b.jpg" /></p>
