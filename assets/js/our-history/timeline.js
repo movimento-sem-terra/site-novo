@@ -36,7 +36,7 @@ $(document).ready(function() {
     if(target.size() > 0) {
       e.preventDefault();
       target.click();
-      $('body').animate({scrollTop: 0}, 200);
+      $('.scrolltop').click();
     }
   });
 

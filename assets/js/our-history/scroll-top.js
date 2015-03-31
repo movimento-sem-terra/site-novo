@@ -1,8 +1,8 @@
 $(document).ready(function() {
 
-  $('body').on('click', '.scrolltop', function(e) {
+  $('html').on('click', '.scrolltop', function(e) {
     e.preventDefault();
-    $('body').animate({scrollTop: 0}, 200)
+    $('html,body').animate({scrollTop: 0}, 200);
   });
 
   $(window).scroll(function() {
