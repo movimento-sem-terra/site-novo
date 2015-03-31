@@ -7,7 +7,7 @@ tags:
 title: "Em Brasília, Incra empossa primeira mulher como presidenta"
 support_line: "Maria Lúcia de Oliveira Falcón empossou a presidência do Incra nesta segunda-feira, e tem o desafio de assentar 120 mil famílias."
 menu: reforma agrária
-section: cover
+section: null
 layout: post
 files:
   - link: "http://farm8.staticflickr.com/7619/16801728378_019407d810_b.jpg"
