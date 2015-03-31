@@ -33,10 +33,8 @@ Do Instituto Socioambiental</em></p>
 <p><br />
 O Congresso dever&aacute; decidir, em breve, parte do destino daquela que pode ser a riqueza mais estrat&eacute;gica do Pa&iacute;s: tramita no Senado o Projeto de Lei (PLC) n&ordm; 2/2015 (antigo PL 7.735/2014 da C&acirc;mara), sobre os recursos gen&eacute;ticos e conhecimentos tradicionais associados &agrave; biodiversidade e agrobiodiversidade (saiba mais no box no final do texto). O projeto pretende substituir a Medida Provis&oacute;ria 2.186-16/2001, que regula o tema no Brasil hoje. Se for alterado, o PLC retorna &agrave; C&acirc;mara. Caso contr&aacute;rio, segue para san&ccedil;&atilde;o presidencial.</p>
 
-<p>&nbsp;
 <p><br />
 O projeto &eacute; alvo de pol&ecirc;mica e vem sendo criticado duramente por povos ind&iacute;genas e tradicionais, como quilombolas e ribeirinhos, por restringir seus direitos. O governo excluiu-os da discuss&atilde;o e elaborou uma proposta em conjunto com ruralistas e o lobby da ind&uacute;stria de cosm&eacute;ticos, rem&eacute;dios e higiene (leia manifesto de povos ind&iacute;genas e tradicionais contra o governo e empresas).</p>
-</p>
 
 <p><br />
 Na entrevista a seguir, o secret&aacute;rio executivo da Conven&ccedil;&atilde;o da Diversidade Biol&oacute;gica (CDB), o brasileiro Br&aacute;ulio Dias, afirma que dispositivos do projeto, segundo o texto aprovado na C&acirc;mara, ferem a CDB e o Protocolo de Nagoya. Segundo Dias, a aprova&ccedil;&atilde;o do PL pode dificultar a ratifica&ccedil;&atilde;o do protocolo pelo Brasil, com implica&ccedil;&otilde;es negativas para o pa&iacute;s.</p>
@@ -96,7 +94,7 @@ Sem d&uacute;vida. Esse &eacute; um dos pilares das regras estabelecidas pela CD
 N&atilde;o vou comentar com rela&ccedil;&atilde;o aos procedimentos adotados pelo Brasil porque n&atilde;o tenho informa&ccedil;&atilde;o suficiente sobre todas as consultas que foram feitas ou n&atilde;o. &Eacute; uma quest&atilde;o interna do pa&iacute;s. A CDB diz que os pa&iacute;ses que ratificaram a conven&ccedil;&atilde;o assumiram o compromisso de respeitar os direitos dos povos ind&iacute;genas e comunidades locais referentes &agrave; sua biodiversidade, recursos gen&eacute;ticos e conhecimentos tradicionais. Essa &eacute; uma regra b&aacute;sica da conven&ccedil;&atilde;o e do protocolo. Se detalhes do que est&aacute; previsto na lei ferem esses direitos, isso exige uma an&aacute;lise bastante cuidadosa. Uma an&aacute;lise preliminar de minha parte &eacute; que, aparentemente, certas isen&ccedil;&otilde;es previstas podem estar, sim, ferindo direitos de povos ind&iacute;genas e comunidades locais no Brasil.</p>
 
 <p><br />
-Saiba mais</p>
+<strong>Saiba mais</strong></p>
 
 <p><br />
 <strong>O que s&atilde;o os recursos gen&eacute;ticos da biodiversidade e da agrobiodiversidade?</strong></p>
