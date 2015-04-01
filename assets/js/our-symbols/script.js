@@ -47,7 +47,7 @@ var flag = {
       $(this).not('.active').css('opacity', opacity);
     }, function() {
       if(flag.hasActive()) {
-        flag.config.partials.not('.active').css('opacity', .07);
+        flag.config.partials.not('.active').not('.always-highlighted').css('opacity', .07);
       } else {
         flag.normalizeAll();
       }
