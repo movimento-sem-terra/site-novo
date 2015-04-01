@@ -383,5 +383,13 @@ $mobile: new-breakpoint(max-width 768px);
       text-decoration: underline;
       float: right;
     }
+
+    @include media($mobile) {
+      li {
+        display: block;
+        margin: 10px 2%;
+        width: auto;
+      }
+    }
   }
 }
