@@ -44,10 +44,8 @@ Lideran&ccedil;as dos movimentos populares, centrais sindicais e partidos pol&ia
 <p><br />
 &ldquo;Estamos aqui em defesa de um legado dos &uacute;ltimos 12 anos que elevou a capacidade e melhoria da qualidade de vida da classe trabalhadora. Precisamos defender esse projeto pol&iacute;tico que n&oacute;s constru&iacute;mos&rdquo;, disse o presidente da Central &Uacute;nica dos Trabalhadores (CUT), Vagner Freitas.</p>
 
-<p>&nbsp;
 <p><br />
 &ldquo;Jamais aceitaremos o golpismo, mas n&atilde;o aceitamos e n&atilde;o podemos achar que o ajuste fiscal feito pelo [ministro da Fazenda Joaquim] Levy v&aacute; levar esse Brasil &agrave; frente, porque n&atilde;o vai. N&oacute;s necessitamos que os direitos dos trabalhadores sejam respeitados. E h&aacute; insatisfa&ccedil;&atilde;o da classe trabalhadora, registre-se&rdquo;, acrescentou o presidente da CUT.</p>
-</p>
 
 <p>&nbsp;</p>
 
