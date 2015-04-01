@@ -5,7 +5,7 @@ var flag = {
         items: $('#flag img'),
         tooltips: $('#symbols-meaning li'),
         container: $('#our-flag'),
-        timeToFadeTooltips: 2000,
+        timeToHideTooltips: 2000,
     };
 
     flag.hideTooltipsAfterMouseInactivity();
@@ -55,14 +55,14 @@ var flag = {
   },
 
   hideTooltipsAfterMouseInactivity: function() {
-    var timeoutToFadeOut;
+    var timeoutToHide;
     flag.config.container.mousemove(function() {
       var meaningsNotActive =   flag.config.tooltips.not('.active');
-      clearTimeout(timeoutToFadeOut);
-      flag.config.tooltips.fadeIn();
-      timeoutToFadeOut = setTimeout(function() {
-        flag.config.tooltips.not('.active').fadeOut(1000);
-      }, flag.config.timeToFadeTooltips);
+      clearTimeout(timeoutToHide);
+      flag.config.tooltips.removeClass('hidden');
+      timeoutToHide = setTimeout(function() {
+        flag.config.tooltips.not('.active').addClass('hidden');
+      }, flag.config.timeToHideTooltips);
     });
   },
 
