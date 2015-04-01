@@ -31,6 +31,7 @@ releated_posts:
   - 2014/10/2014-09-30-quem-aperta-o-gatilho-nos-assassinatos-do-campo-no-para.md
   - 2015/03/2015-03-10-no-maranhao-acampamento-frei-henri-sofre-ataque-de-fazendeiros.md
   - 2015/03/2015-03-18-menos-de-10-dos-1-700-assassinatos-em-conflitos-de-terra-vao-a-julgamento.md
+section: featured-news
 
 ---
 <figure class="image"><img alt="corumbiara.jpg" src="http://farm9.staticflickr.com/8753/16368615703_2768017c35_b.jpg" />
