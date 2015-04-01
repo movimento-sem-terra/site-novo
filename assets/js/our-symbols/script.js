@@ -2,7 +2,7 @@ var flag = {
 
   init: function(){
     flag.config = {
-        items: $('#flag img'),
+        partials: $('#our-flag .partial'),
         tooltips: $('#symbols-meaning li'),
         container: $('#our-flag'),
         timeToHideTooltips: 2000,
@@ -33,21 +33,21 @@ var flag = {
   },
 
   activeItemsOnClick: function() {
-    flag.config.items.add(flag.config.tooltips).click(function() {
+    flag.config.partials.add(flag.config.tooltips).click(function() {
       var target = $(this).attr('data-for') ? $(this).attr('data-for') : '#' + $(this).attr('id');
       flag.activate(target);
     });
   },
 
   highlightItemsOnHover: function() {
-    flag.config.items.not('.active').hover(function() {
-      flag.config.items.not('.active').css('opacity', .07);
+    flag.config.partials.not('.active').not('.always-highlighted').hover(function() {
+      flag.config.partials.not('.active').not('.always-highlighted').css('opacity', .07);
       var opacity = flag.hasActive() ? .3 : 1;
 
       $(this).not('.active').css('opacity', opacity);
     }, function() {
       if(flag.hasActive()) {
-        flag.config.items.not('.active').css('opacity', .07);
+        flag.config.partials.not('.active').css('opacity', .07);
       } else {
         flag.normalizeAll();
       }
@@ -77,8 +77,8 @@ var flag = {
       flag.config.tooltips.removeClass('active');
       $('li[data-for='+ target +']').addClass('active');
 
-      flag.config.items.removeClass('active').css('opacity', .07);
-      $(target).addClass('active').css('opacity', 1);
+      flag.config.partials.removeClass('active').not('.always-highlighted').css('opacity', .07);
+      flag.config.partials.filter(target).addClass('active').css('opacity', 1);
     }
   },
 
@@ -87,7 +87,7 @@ var flag = {
   },
 
   normalizeAll: function() {
-    flag.config.items.removeClass('active').css('opacity', 1);
+    flag.config.partials.removeClass('active').css('opacity', 1);
     $('#symbols-meaning .active').removeClass('active');
   }
 

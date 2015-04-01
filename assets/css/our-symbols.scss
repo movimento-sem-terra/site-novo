@@ -119,8 +119,10 @@ $mobile: new-breakpoint(max-width 768px);
     position: relative;
 
     #red-background {
-      width: 100%;
+      width: 200%;
       height: 100%;
+      left: -50%;
+      position: absolute;
       background-color: rgba(255, 0, 0, .7);
       box-shadow: rgba(0,0,0,0.5) 4px 5px 20px inset;
       transition: background-color 1s;
@@ -279,6 +281,7 @@ $mobile: new-breakpoint(max-width 768px);
 
     margin: 0;
     padding: 0 10px;
+
     li {
       $size: 1.5em;
       position: absolute;
