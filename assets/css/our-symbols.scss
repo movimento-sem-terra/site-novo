@@ -117,6 +117,7 @@ $mobile: new-breakpoint(max-width 768px);
 
     padding: 0;
     position: relative;
+    overflow-x: hidden;
 
     #red-background {
       width: 200%;
