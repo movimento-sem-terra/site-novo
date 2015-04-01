@@ -1,0 +1,67 @@
+---
+date: "2015-04-01T10:17:50-03:00"
+tags:
+  - tag: lutas-e-mobilizações
+  - tag: petrobrás
+  - tag: reforma-política
+  - tag: direitos-trabalhistas
+  - tag: movimentos-sociais
+title: "Não haverá golpe nesse país sem resistência; nossos movimentos não formaram covardes”, afirma Gilmar Mauro"
+support_line: Movimentos populares fazem plenária em São Paulo em defesa dos direitos e contra a corrupção. Atividade é um esquenta para ato do dia 7/04.
+menu: projeto popular
+section: cover
+layout: post
+files:
+  - link: "http://farm8.staticflickr.com/7615/16813570549_316f80ccd4_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7615/16813570549_316f80ccd4_t.jpg"
+    medium: "http://farm8.staticflickr.com/7615/16813570549_316f80ccd4_z.jpg"
+    small: "http://farm8.staticflickr.com/7615/16813570549_316f80ccd4_n.jpg"
+    title: plenaria_mov sociais_SP.jpg
+    $$hashKey: 0SI
+created_date: "2015-04-01T10:31:02-03:00"
+published: true
+images_hd: "http://farm8.staticflickr.com/7615/16813570549_316f80ccd4_n.jpg"
+releated_posts:
+  - 2015/03/2015-03-27-31-de-marco-7-de-abril-1o-de-maio-dias-de-mobilizacao.md
+  - 2015/03/2015-03-26-31-de-marco-e-dia-da-plenaria-por-mais-democracia-mais-direitos-e-combate-a-corrupcao.md
+  - 2015/03/2015-03-12-movimentos-sociais-do-campo-realizam-ato-unificado-em-sp.md
+
+---
+<p><img alt="plenaria_mov sociais_SP.jpg" src="http://farm8.staticflickr.com/7615/16813570549_316f80ccd4_b.jpg" /><br />
+<br />
+<em>Da P&aacute;gina do MST</em></p>
+
+<p><br />
+Lideran&ccedil;as dos movimentos populares, centrais sindicais e partidos pol&iacute;ticos realizaram na noite desta quarta-feira (31), na cidade de S&atilde;o Paulo, uma plen&aacute;ria estadual para defender a democracia, a reforma pol&iacute;tica, a Petrobras e os direitos trabalhistas.</p>
+
+<p>&nbsp;
+<p><br />
+&ldquo;Estamos aqui em defesa de um legado dos &uacute;ltimos 12 anos que elevou a capacidade e melhoria da qualidade de vida da classe trabalhadora. Precisamos defender esse projeto pol&iacute;tico que n&oacute;s constru&iacute;mos&rdquo;, disse o presidente da Central &Uacute;nica dos Trabalhadores (CUT), Vagner Freitas.</p>
+</p>
+
+<p><br />
+&ldquo;Jamais aceitaremos o golpismo, mas n&atilde;o aceitamos e n&atilde;o podemos achar que o ajuste fiscal feito pelo [ministro da Fazenda Joaquim] Levy v&aacute; levar esse Brasil &agrave; frente, porque n&atilde;o vai. N&oacute;s necessitamos que os direitos dos trabalhadores sejam respeitados. E h&aacute; insatisfa&ccedil;&atilde;o da classe trabalhadora, registre-se&rdquo;, acrescentou o presidente da CUT.</p>
+
+<p><br />
+Gilmar Mauro, da coordena&ccedil;&atilde;o nacional do MST, destacou que o movimento defender&aacute; o governo se houver amea&ccedil;a de golpe, mas criticou tamb&eacute;m a pol&iacute;tica econ&ocirc;mica desenvolvida pelo Planalto. &ldquo;N&atilde;o haver&aacute; golpes no pa&iacute;s sem resist&ecirc;ncia de massa nas ruas. N&atilde;o iremos para debaixo da cama, nem para a Fran&ccedil;a. &Eacute; esse o nosso pa&iacute;s e aqui n&oacute;s vamos estar. Os nossos movimentos n&atilde;o formaram covardes&rdquo;, disse.</p>
+
+<p><br />
+&ldquo;N&oacute;s precisamos de ajustes, mas n&atilde;o ajustes que agridam os direitos conquistados com muito sacrif&iacute;cio e esfor&ccedil;o pelo nosso povo. Precisamos de ajustes contra o capital financeiro, contra as grandes fortunas. Precisamos de ajustes com esses 500 anos de latif&uacute;ndio e 400 anos de escravid&atilde;o no pa&iacute;s&rdquo;, acrescentou.</p>
+
+<p><br />
+O presidente do PT, Rui Falc&atilde;o pediu unidade aos partidos, centrais e movimentos sociais para criar uma frente &uacute;nica em defesa da democracia e defendeu a pol&iacute;tica de inclus&atilde;o do governo. &ldquo;Toda a esquerda e o movimento social est&aacute; sob ataque neste momento. Sob ataque de uma direita que n&atilde;o se conforma com as mudan&ccedil;as em nosso pa&iacute;s. N&oacute;s n&atilde;o queremos afirmar o projeto do PT, do PCdoB, da CUT, do MST, queremos que prossiga o projeto de desenvolvimento do nosso pa&iacute;s que tirou milh&otilde;es da mis&eacute;ria&rdquo;, disse.</p>
+
+<p><br />
+Raimundo Bomfim, coordenador da Central dos Movimentos Populares, ressaltou que os movimentos sociais n&atilde;o v&atilde;o aceitar a retirada de direitos e destacou que o avan&ccedil;o conservador poder&aacute; ser combatido nas ruas, se necess&aacute;rio. &ldquo;Se o andar de cima continuar insistindo em bater panela, o andar de baixo s&oacute; tem uma alternativa: vamos botar fogo no fog&atilde;o&rdquo;.</p>
+
+<p><br />
+O ex-presidente da Rep&uacute;blica Luiz In&aacute;cio Lula da Silva defendeu o ajuste na economia feito pelo governo federal e ressaltou que a pol&iacute;tica ser&aacute; alterada assim que o panorama melhorar. &ldquo;Era necess&aacute;rio fazer um ajuste. Eu fiz um ajuste mais forte do que esse em 2003 porque era necess&aacute;rio. E agora a companheira Dilma tinha a necessidade de dar uma parada&rdquo;, disse. &ldquo;Mas quando as coisas melhorarem, a Dilma come&ccedil;a a reajustar as coisas, outra vez, favor&aacute;vel ao povo brasileiro&rdquo;, acrescentou.</p>
+
+<p><br />
+Lula disse ter consci&ecirc;ncia que os sindicatos e movimentos sociais n&atilde;o concordam com a pol&iacute;tica do Planalto. &ldquo;O sindicato n&atilde;o est&aacute; contente, tenho certeza que o movimento social n&atilde;o est&aacute;. Por isso que voc&ecirc;s t&ecirc;m feito reivindica&ccedil;&otilde;es indo a Bras&iacute;lia. Com a Dilma voc&ecirc;s t&ecirc;m certeza de que podem negociar. Mas se fosse tucano, nem em Bras&iacute;lia voc&ecirc;s chegavam&rdquo;, disse.</p>
+
+<p><br />
+&ldquo;A presidenta Dilma deveria saber o seguinte, e ela sabe. Ela sabe como eu sei, ela participou: quando eu estava no sufoco quem foi me estender a m&atilde;o, jogar uma boia para me salvar, n&atilde;o foi o mercado, foi a classe trabalhadora brasileira&rdquo;, afirmou.</p>
+
+<p><br />
+Os pronunciamentos sobre a situa&ccedil;&atilde;o pol&iacute;tica brasileira na plen&aacute;ria foram uma pr&eacute;via sobre os temas que ser&atilde;o levados &agrave;s ruas nos dias 7 de abril e no 1&ordm; de Maio, Dia do Trabalhador, quando haver&aacute; grandes atos marcados pelos movimentos populares. No evento de ontem, estavam entre os diversos movimentos sociais a Coordena&ccedil;&atilde;o Nacional das Entidades Negras, o Centro de Estudos de Comunica&ccedil;&atilde;o Bar&atilde;o de Itarar&eacute;, a Uni&atilde;o Nacional dos Estudantes (UNE), a Marcha das Mulheres, e a Central dos Trabalhadoras e Trabalhadores do Brasil (CTB).</p>
