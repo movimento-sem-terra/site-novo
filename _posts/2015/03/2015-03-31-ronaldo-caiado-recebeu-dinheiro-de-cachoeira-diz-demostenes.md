@@ -7,7 +7,7 @@ tags:
 title: "Ronaldo Caiado recebeu dinheiro de Cachoeira, diz Demóstenes"
 support_line: "Em artigo, Demóstenes ataca duramente ex-companheiro de partido. “Toque sua vida, se fizer troça comigo novamente não o pouparei”, diz."
 menu: agronegócio
-section: cover
+section: null
 layout: post
 files:
   - link: "http://farm8.staticflickr.com/7586/16369757974_ddf250e898_b.jpg"
