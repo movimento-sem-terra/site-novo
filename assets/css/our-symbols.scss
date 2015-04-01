@@ -431,9 +431,9 @@ $mobile: new-breakpoint(max-width 768px);
         }
 
         .news{
-          max-height: 57px;
           overflow: hidden;
           margin-bottom: 19px;
+          line-height: 1em;
 
           a{
             font-size: 13px;
