@@ -27,15 +27,6 @@ $mobile: new-breakpoint(max-width 768px);
     margin: 1em 0;
   }
 
-  .highlighted {
-    margin: 40px 0;
-    text-align: center;
-    font-size: 1.5em;
-    font-weight: 600;
-    line-height: 1.2em;
-    color: $mst-red;
-  }
-
   .container {
     max-width: 800px;
     margin: 0 auto;
@@ -118,6 +109,10 @@ $mobile: new-breakpoint(max-width 768px);
     padding: 0;
     position: relative;
     overflow-x: hidden;
+
+    p {
+      margin-bottom: 60px;
+    }
 
     #red-background {
       width: 200%;
@@ -228,11 +223,6 @@ $mobile: new-breakpoint(max-width 768px);
 
     &.decomposited {
 
-      h2 {
-        bottom: -155px;
-        color: white;
-        text-align: center;
-      }
 
       #red-background {
         background-color: rgba(255, 0, 0, .3);
@@ -339,7 +329,7 @@ $mobile: new-breakpoint(max-width 768px);
       }
 
       &[data-for="#brasil"] {
-        top: 35%;
+        top: 50%;
         left: 47%;
 
         &.active {
@@ -353,11 +343,11 @@ $mobile: new-breakpoint(max-width 768px);
       }
 
       &[data-for="#red-background"] {
-        top: 27%;
+        top: 47%;
         left: 28%;
 
         &.active {
-          top: 44%;
+          top: 56%;
           left: 22%;
         }
 
@@ -367,11 +357,11 @@ $mobile: new-breakpoint(max-width 768px);
       }
 
       &[data-for="#text"] {
-        top: 27%;
+        top: 47%;
         left: 36%;
 
         &.active {
-          top: 40%;
+          top: 56%;
           left: 12%;
         }
 
@@ -382,17 +372,17 @@ $mobile: new-breakpoint(max-width 768px);
       }
 
       &[data-for="#machete"] {
-        top: 27%;
-        left: 42%;
+        top: 45%;
+        left: 42.5%;
 
         &.active {
-          top: 38%;
+          top: 56%;
           left: 23%;
         }
       }
 
       &[data-for="#people"] {
-        top: 64%;
+        top: 74%;
         left: 51%;
 
         &.active {
