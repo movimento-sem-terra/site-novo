@@ -67,8 +67,6 @@ O dirigente do MST tamb&eacute;m falou sobre reforma pol&iacute;tica e a import&
 <p><br />
 Raimundo Bomfim, coordenador da Central dos Movimentos Populares, ressaltou que os movimentos sociais n&atilde;o v&atilde;o aceitar a retirada de direitos e destacou que o avan&ccedil;o conservador poder&aacute; ser combatido nas ruas, se necess&aacute;rio. &ldquo;Se o andar de cima continuar insistindo em bater panela, o andar de baixo s&oacute; tem uma alternativa: vamos botar fogo no fog&atilde;o&rdquo;.</p>
 
-<p>&nbsp;</p>
-
 <p><br />
 J&aacute; Lula disse ter consci&ecirc;ncia que os sindicatos e movimentos sociais n&atilde;o concordam com a pol&iacute;tica do Planalto. &ldquo;O sindicato n&atilde;o est&aacute; contente, tenho certeza que o movimento social n&atilde;o est&aacute;. Por isso que voc&ecirc;s t&ecirc;m feito reivindica&ccedil;&otilde;es indo a Bras&iacute;lia. Com a Dilma voc&ecirc;s t&ecirc;m certeza de que podem negociar. Mas se fosse tucano, nem em Bras&iacute;lia voc&ecirc;s chegavam&rdquo;, disse.</p>
 
