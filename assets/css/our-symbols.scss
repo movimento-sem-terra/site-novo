@@ -405,9 +405,19 @@ $mobile: new-breakpoint(max-width 768px);
   }
 
   section#lona-preta {
-    @include clearfix;
 
-    background: $mst-light-gray;
+
+    background-color: $mst-light-gray;
+    background-image: url(../img/nossos-simbolos/lona-preta.jpg);
+    background-size: 100%;
+    background-attachment: fixed;
+    background-position-y: 90%;
+    min-height: 600px;
+
+    text-shadow: 1px 2px 4px black;
+    color: white;
+
+    @include clearfix;
 
     h3 {
       margin-bottom: 1em;
@@ -440,6 +450,7 @@ $mobile: new-breakpoint(max-width 768px);
 
           a{
             font-size: 13px;
+            color: white;
 
             img{
               width: 100px;
