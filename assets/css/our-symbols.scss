@@ -277,8 +277,8 @@ $mobile: new-breakpoint(max-width 768px);
 
   #symbols-meaning {
 
-    padding: 10px;
-
+    margin: 0;
+    padding: 0 10px;
     li {
       $size: 1.5em;
       position: absolute;
