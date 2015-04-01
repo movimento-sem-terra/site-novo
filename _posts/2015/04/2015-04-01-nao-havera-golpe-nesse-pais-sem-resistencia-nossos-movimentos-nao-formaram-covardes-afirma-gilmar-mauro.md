@@ -6,7 +6,7 @@ tags:
   - tag: reforma-política
   - tag: direitos-trabalhistas
   - tag: movimentos-sociais
-title: "Não haverá golpe sem resistência; nossos movimentos não formaram covardes”, afirma Gilmar"
+title: "Gilmar Mauro: \"Não haverá golpe sem resistência; nossos movimentos não formaram covardes”"
 support_line: Movimentos populares fazem plenária em São Paulo em defesa dos direitos e contra a corrupção. Atividade é um esquenta para ato do dia 7/04.
 menu: projeto popular
 section: cover
@@ -35,16 +35,19 @@ releated_posts:
 ---
 <p><img alt="plenaria_mov sociais_SP.jpg" src="http://farm8.staticflickr.com/7615/16813570549_316f80ccd4_b.jpg" /><br />
 <br />
-<em>Da P&aacute;gina do MST</em></p>
+<em>Por Maura Silva<br />
+Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Lideran&ccedil;as dos movimentos populares, centrais sindicais e partidos pol&iacute;ticos realizaram na noite desta quarta-feira (31), na cidade de S&atilde;o Paulo, uma plen&aacute;ria estadual para defender a democracia, a reforma pol&iacute;tica, a Petrobras e os direitos trabalhistas.</p>
+Lideran&ccedil;as dos movimentos populares, centrais sindicais e partidos pol&iacute;ticos realizaram na noite desta ter&ccedil;a-feira (31), na Quadra dos Banc&aacute;rios, em S&atilde;o Paulo, uma plen&aacute;ria estadual com mais de 2 mil pessoas para defender a democracia, a reforma pol&iacute;tica, a Petrobras e os direitos trabalhistas.</p>
 
 <p><br />
 &ldquo;Estamos aqui em defesa de um legado dos &uacute;ltimos 12 anos que elevou a capacidade e melhoria da qualidade de vida da classe trabalhadora. Precisamos defender esse projeto pol&iacute;tico que n&oacute;s constru&iacute;mos&rdquo;, disse o presidente da Central &Uacute;nica dos Trabalhadores (CUT), Vagner Freitas.</p>
 
+<p>&nbsp;
 <p><br />
 &ldquo;Jamais aceitaremos o golpismo, mas n&atilde;o aceitamos e n&atilde;o podemos achar que o ajuste fiscal feito pelo [ministro da Fazenda Joaquim] Levy v&aacute; levar esse Brasil &agrave; frente, porque n&atilde;o vai. N&oacute;s necessitamos que os direitos dos trabalhadores sejam respeitados. E h&aacute; insatisfa&ccedil;&atilde;o da classe trabalhadora, registre-se&rdquo;, acrescentou o presidente da CUT.</p>
+</p>
 
 <p>&nbsp;</p>
 
@@ -55,7 +58,13 @@ Lideran&ccedil;as dos movimentos populares, centrais sindicais e partidos pol&ia
 <p>Gilmar Mauro, da coordena&ccedil;&atilde;o nacional do MST, destacou que o movimento defender&aacute; o governo se houver amea&ccedil;a de golpe, mas criticou tamb&eacute;m a pol&iacute;tica econ&ocirc;mica desenvolvida pelo Planalto. &ldquo;N&atilde;o haver&aacute; golpes no pa&iacute;s sem resist&ecirc;ncia de massa nas ruas. N&atilde;o iremos para debaixo da cama, nem para a Fran&ccedil;a. &Eacute; esse o nosso pa&iacute;s e aqui n&oacute;s vamos estar. Os nossos movimentos n&atilde;o formaram covardes&rdquo;, disse.</p>
 
 <p><br />
+Ao se dirigir ao ex-presidente Lula sobre o mercado econ&ocirc;mico, o Sem Terra disse que &quot;costumam dizer por a&iacute; que o mercado t&ecirc;m acordado nervoso. Esse mercado &eacute; 1% dos ricos, por mim, eles t&ecirc;m que acordar nervosos pelos pr&oacute;ximos 500 anos. Enquanto eles acordarem nervosos, o nosso povo vai acordar dentro de uma casa, com trabalho, seguran&ccedil;a, tendo &aacute;gua, comida, escola p&uacute;blica e garantia de vida. Esse &eacute; o ajuste que precisamos. E n&oacute;s queremos dizer em nome dos movimentos do campo, como brasileiros, temos o direito de lutar pela terra, por educa&ccedil;&atilde;o e por direitos&rdquo;.</p>
+
+<p><br />
 &ldquo;N&oacute;s precisamos de ajustes, mas n&atilde;o ajustes que agridam os direitos conquistados com muito sacrif&iacute;cio e esfor&ccedil;o pelo nosso povo. Precisamos de ajustes contra o capital financeiro, contra as grandes fortunas. Precisamos de ajustes com esses 500 anos de latif&uacute;ndio e 400 anos de escravid&atilde;o no pa&iacute;s&rdquo;, acrescentou.</p>
+
+<p><br />
+O dirigente do MST tamb&eacute;m falou sobre reforma pol&iacute;tica e a import&acirc;ncia de uma Constituinte Exclusiva e Soberana. &ldquo;Os movimentos e organiza&ccedil;&otilde;es aqui presentes precisam pautar a reforma pol&iacute;tica em suas bases, reforma feita pelo povo, n&atilde;o por um governo que n&atilde;o est&aacute; interessado em atender as demandas da popula&ccedil;&atilde;o&quot;.</p>
 
 <p><br />
 O presidente do PT, Rui Falc&atilde;o pediu unidade aos partidos, centrais e movimentos sociais para criar uma frente &uacute;nica em defesa da democracia e defendeu a pol&iacute;tica de inclus&atilde;o do governo. &ldquo;Toda a esquerda e o movimento social est&aacute; sob ataque neste momento. Sob ataque de uma direita que n&atilde;o se conforma com as mudan&ccedil;as em nosso pa&iacute;s. N&oacute;s n&atilde;o queremos afirmar o projeto do PT, do PCdoB, da CUT, do MST, queremos que prossiga o projeto de desenvolvimento do nosso pa&iacute;s que tirou milh&otilde;es da mis&eacute;ria&rdquo;, disse.</p>
