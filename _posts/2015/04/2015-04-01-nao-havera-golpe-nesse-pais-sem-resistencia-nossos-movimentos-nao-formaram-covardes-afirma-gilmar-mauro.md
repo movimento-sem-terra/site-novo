@@ -6,7 +6,7 @@ tags:
   - tag: reforma-política
   - tag: direitos-trabalhistas
   - tag: movimentos-sociais
-title: "Não haverá golpe nesse país sem resistência; nossos movimentos não formaram covardes”, afirma Gilmar Mauro"
+title: "Não haverá golpe sem resistência; nossos movimentos não formaram covardes”, afirma Gilmar"
 support_line: Movimentos populares fazem plenária em São Paulo em defesa dos direitos e contra a corrupção. Atividade é um esquenta para ato do dia 7/04.
 menu: projeto popular
 section: cover
@@ -18,6 +18,12 @@ files:
     small: "http://farm8.staticflickr.com/7615/16813570549_316f80ccd4_n.jpg"
     title: plenaria_mov sociais_SP.jpg
     $$hashKey: 0SI
+  - link: "http://farm8.staticflickr.com/7611/16813613329_865e7ccb71_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7611/16813613329_865e7ccb71_t.jpg"
+    medium: "http://farm8.staticflickr.com/7611/16813613329_865e7ccb71_z.jpg"
+    small: "http://farm8.staticflickr.com/7611/16813613329_865e7ccb71_n.jpg"
+    title: lula_plenaria.jpg
+    $$hashKey: 05A
 created_date: "2015-04-01T10:31:02-03:00"
 published: true
 images_hd: "http://farm8.staticflickr.com/7615/16813570549_316f80ccd4_n.jpg"
@@ -34,16 +40,19 @@ releated_posts:
 <p><br />
 Lideran&ccedil;as dos movimentos populares, centrais sindicais e partidos pol&iacute;ticos realizaram na noite desta quarta-feira (31), na cidade de S&atilde;o Paulo, uma plen&aacute;ria estadual para defender a democracia, a reforma pol&iacute;tica, a Petrobras e os direitos trabalhistas.</p>
 
-<p>&nbsp;
 <p><br />
 &ldquo;Estamos aqui em defesa de um legado dos &uacute;ltimos 12 anos que elevou a capacidade e melhoria da qualidade de vida da classe trabalhadora. Precisamos defender esse projeto pol&iacute;tico que n&oacute;s constru&iacute;mos&rdquo;, disse o presidente da Central &Uacute;nica dos Trabalhadores (CUT), Vagner Freitas.</p>
-</p>
 
 <p><br />
 &ldquo;Jamais aceitaremos o golpismo, mas n&atilde;o aceitamos e n&atilde;o podemos achar que o ajuste fiscal feito pelo [ministro da Fazenda Joaquim] Levy v&aacute; levar esse Brasil &agrave; frente, porque n&atilde;o vai. N&oacute;s necessitamos que os direitos dos trabalhadores sejam respeitados. E h&aacute; insatisfa&ccedil;&atilde;o da classe trabalhadora, registre-se&rdquo;, acrescentou o presidente da CUT.</p>
 
-<p><br />
-Gilmar Mauro, da coordena&ccedil;&atilde;o nacional do MST, destacou que o movimento defender&aacute; o governo se houver amea&ccedil;a de golpe, mas criticou tamb&eacute;m a pol&iacute;tica econ&ocirc;mica desenvolvida pelo Planalto. &ldquo;N&atilde;o haver&aacute; golpes no pa&iacute;s sem resist&ecirc;ncia de massa nas ruas. N&atilde;o iremos para debaixo da cama, nem para a Fran&ccedil;a. &Eacute; esse o nosso pa&iacute;s e aqui n&oacute;s vamos estar. Os nossos movimentos n&atilde;o formaram covardes&rdquo;, disse.</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="lula_plenaria.jpg" src="http://farm8.staticflickr.com/7611/16813613329_865e7ccb71_b.jpg" />
+<figcaption></figcaption>
+</figure>
+
+<p>Gilmar Mauro, da coordena&ccedil;&atilde;o nacional do MST, destacou que o movimento defender&aacute; o governo se houver amea&ccedil;a de golpe, mas criticou tamb&eacute;m a pol&iacute;tica econ&ocirc;mica desenvolvida pelo Planalto. &ldquo;N&atilde;o haver&aacute; golpes no pa&iacute;s sem resist&ecirc;ncia de massa nas ruas. N&atilde;o iremos para debaixo da cama, nem para a Fran&ccedil;a. &Eacute; esse o nosso pa&iacute;s e aqui n&oacute;s vamos estar. Os nossos movimentos n&atilde;o formaram covardes&rdquo;, disse.</p>
 
 <p><br />
 &ldquo;N&oacute;s precisamos de ajustes, mas n&atilde;o ajustes que agridam os direitos conquistados com muito sacrif&iacute;cio e esfor&ccedil;o pelo nosso povo. Precisamos de ajustes contra o capital financeiro, contra as grandes fortunas. Precisamos de ajustes com esses 500 anos de latif&uacute;ndio e 400 anos de escravid&atilde;o no pa&iacute;s&rdquo;, acrescentou.</p>
