@@ -3,7 +3,7 @@ date: "2015-04-01T13:10:17-03:00"
 tags:
   - tag: eucalipto
   - tag: transgênicos
-title: "Apenas um mês depois, CTNBio pretende votar liberação de eucalipto transgênico"
+title: "Um mês depois da ação das mulheres, CTNBio pretende votar liberação de eucalipto transgênico"
 support_line: "Votação anterior foi adiada após ações de mais de mil mulheres do MST, que ocuparam uma área da Suzano e destruíram as mudas de eucalipto."
 menu: transgênicos
 layout: post
@@ -50,7 +50,7 @@ Para Paulo Kageyama, integrante da CTNBio e professor da Universidade de S&atild
 &ldquo;A primeira audi&ecirc;ncia foi adiada devido a&ccedil;&otilde;es do MST, mas, infelizmente, o processo continua em andamento. No pr&oacute;ximo dia 9, vou apresentar um documento de vistas do processo &agrave; comiss&atilde;o de vota&ccedil;&atilde;o. Nele est&atilde;o contidos os quatro aspectos fundamentais que determinam que a nega&ccedil;&atilde;o do pedido de libera&ccedil;&atilde;o &eacute; o mais acertado&rdquo;, observa o professor.</p>
 
 <figure class="image"><img alt="mulheres_suzano.jpg" src="http://farm8.staticflickr.com/7636/16378787934_18e9624fba_b.jpg" />
-<figcaption>A&ccedil;&atilde;o das mulheres do MST na sede da Futuragene que impediram a vota&ccedil;&atilde;o no dia 5 de mar&ccedil;o.</figcaption>
+<figcaption>A&ccedil;&atilde;o das mulheres do MST na sede da Futuragene, que impediram a vota&ccedil;&atilde;o no dia 5 de mar&ccedil;o.</figcaption>
 </figure>
 
 <p><br />
