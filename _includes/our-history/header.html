@@ -11,13 +11,13 @@
     <div id="timeline-wrapper">
       <div class="bar"></div>
       <div class="timeline">
-          {% for t in site.data.timeline %}
+          {% for p in site.data.timeline %}
               {% assign css_class = '' %}
 
-              {% if include.period == t.title %}
+              {% if include.period == p.title %}
                    {% assign css_class = 'active' %}
               {% endif %}
-              <a href="{{site.baseurl}}/nossa-historia/{{t.title}}" class="entry {{ css_class }}">{{ t.title }}</a>
+              <a href="{{site.baseurl}}/nossa-historia/{{p.path}}" class="entry {{ css_class }}">{{ p.title }}</a>
           {% endfor %}
       </div>
     </div>
