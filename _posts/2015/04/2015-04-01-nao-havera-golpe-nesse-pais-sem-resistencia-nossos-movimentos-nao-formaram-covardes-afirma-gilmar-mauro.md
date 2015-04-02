@@ -64,7 +64,8 @@ Ao se dirigir ao ex-presidente da Rep&uacute;blica Luiz In&aacute;cio Lula da Si
 <p><br />
 O dirigente do MST tamb&eacute;m falou sobre reforma pol&iacute;tica e a import&acirc;ncia de uma Constituinte Exclusiva e Soberana. &ldquo;Os movimentos e organiza&ccedil;&otilde;es aqui presentes precisam pautar a reforma pol&iacute;tica em suas bases, reforma feita pelo povo, n&atilde;o por um governo que n&atilde;o est&aacute; interessado em atender as demandas da popula&ccedil;&atilde;o&quot;.</p>
 
-<p><br />
+<p><iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/wDQPOJrv7j4" width="640"></iframe><br />
+<br />
 Raimundo Bomfim, coordenador da Central dos Movimentos Populares, ressaltou que os movimentos sociais n&atilde;o v&atilde;o aceitar a retirada de direitos e destacou que o avan&ccedil;o conservador poder&aacute; ser combatido nas ruas, se necess&aacute;rio. &ldquo;Se o andar de cima continuar insistindo em bater panela, o andar de baixo s&oacute; tem uma alternativa: vamos botar fogo no fog&atilde;o&rdquo;.</p>
 
 <p><br />
