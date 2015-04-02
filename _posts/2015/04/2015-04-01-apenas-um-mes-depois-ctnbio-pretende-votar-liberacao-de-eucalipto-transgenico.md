@@ -3,7 +3,7 @@ date: "2015-04-01T13:10:17-03:00"
 tags:
   - tag: eucalipto
   - tag: transgênicos
-title: "Um mês depois da ação das mulheres, CTNBio pretende votar liberação de eucalipto transgênico"
+title: CTNBio pretende votar novamente liberação de eucalipto transgênico
 support_line: "Votação anterior foi adiada após ações de mais de mil mulheres do MST, que ocuparam uma área da Suzano e destruíram as mudas de eucalipto."
 menu: transgênicos
 layout: post
