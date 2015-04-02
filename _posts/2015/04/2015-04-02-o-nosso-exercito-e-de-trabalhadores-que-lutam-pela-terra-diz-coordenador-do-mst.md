@@ -28,16 +28,11 @@ releated_posts:
 ---
 <p><img alt="2015mulheresBAmarcha.jpg" src="http://farm9.staticflickr.com/8686/16823301088_e50af39685_b.jpg" /></p>
 
-<p>&nbsp;
-<p><br />
-<em>Por Guilherme Franco<br />
+<p><em>Por Guilherme Franco<br />
 Da Revista F&oacute;rum</em></p>
-</p>
 
-<p>&nbsp;
 <p><br />
 O coordenador nacional do Movimento dos Trabalhadores Rurais Sem Terra (MST), Alexandre Concei&ccedil;&atilde;o, rebateu as declara&ccedil;&otilde;es do pastor e deputado federal Ezequiel Teixeira (Solidariedade-RJ) em que afirma que o movimento possui um &ldquo;ex&eacute;rcito paralelo que amea&ccedil;a &agrave; seguran&ccedil;a nacional&rdquo;.</p>
-</p>
 
 <p><br />
 De acordo com Concei&ccedil;&atilde;o, o parlamentar est&aacute; desinformado sobre a hist&oacute;ria e as reivindica&ccedil;&otilde;es do movimento dos sem terra. &ldquo;O deputado &eacute; uma pessoa que certamente n&atilde;o conhece a trajet&oacute;ria da luta pela terra, a luta pela verdadeira democracia desse Pa&iacute;s. Seus interesses est&atilde;o ligados &agrave; classe dominante, da qual ele obteve financiamento para hoje estar no congresso nacional. O nosso ex&eacute;rcito &eacute; de trabalhadores rurais que lutam por um peda&ccedil;o de terra&rdquo;, afirma.</p>
