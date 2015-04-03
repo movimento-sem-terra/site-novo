@@ -9,7 +9,7 @@ tags:
 title: "Gilmar Mauro: \"Não haverá golpe sem resistência; nossos movimentos não formaram covardes”"
 support_line: Movimentos populares fazem plenária em São Paulo em defesa dos direitos e contra a corrupção. Atividade é um esquenta para ato do dia 7/04.
 menu: projeto popular
-section: cover
+section: featured-news
 layout: post
 files:
   - link: "http://farm8.staticflickr.com/7615/16813570549_316f80ccd4_b.jpg"
