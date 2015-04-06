@@ -6,9 +6,9 @@ tags:
   - tag: reforma-política
   - tag: petrobrás
 title: Movimentos pisam no acelerador e conclamam lutas sociais para cobrar o governo e encarar a direita
-support_line: "Stedile empolgou a militância em Belo Horizonte, ao conclamar as lutas das forças progressistas em defesa da democracia, a partir de uma plataforma que congrega cobranças ao governo Dilma e o enfrentamento à direita."
+support_line: "Movimentos conclamam as lutas das forças progressistas em defesa da democracia, a partir de uma plataforma que congrega cobranças ao governo Dilma e o enfrentamento à direita."
 menu: lutas e mobilizações
-section: cover
+section: null
 layout: post
 files:
   - link: "http://farm9.staticflickr.com/8738/16401125133_a66153130a_b.jpg"
@@ -26,9 +26,8 @@ releated_posts:
   - 2015/04/2015-04-01-nao-havera-golpe-nesse-pais-sem-resistencia-nossos-movimentos-nao-formaram-covardes-afirma-gilmar-mauro.md
 
 ---
-<p>&nbsp;</p>
-
-<p><em>Por Carlos Bandeira</em></p>
+<p><br />
+<em>Por Carlos Bandeira</em></p>
 
 <p><br />
 Os dirigentes dos sindicatos, movimentos populares e organiza&ccedil;&otilde;es de juventude se reuniram em Belo Horizonte, nesta quarta-feira, na se&ccedil;&atilde;o mineira da Plen&aacute;ria dos Movimentos Sociais, sob o impacto do discurso do ex-presidente Lula, em S&atilde;o Paulo.</p>
