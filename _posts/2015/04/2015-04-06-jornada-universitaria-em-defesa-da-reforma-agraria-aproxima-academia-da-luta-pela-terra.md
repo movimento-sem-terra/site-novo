@@ -39,7 +39,7 @@ Da P&aacute;gina do MST</em></p>
 Ao longo do m&ecirc;s de abril, dezenas de universidades p&uacute;blicas de todo pa&iacute;s realizam a 2&deg; Jornada Universit&aacute;ria em Defesa da Reforma Agr&aacute;ria. Na sua primeira edi&ccedil;&atilde;o, em abril de 2014, 57 institui&ccedil;&otilde;es de ensino superior, entre campus, institutos e universidades brasileiras desenvolveram atividades em torno da jornada.</p>
 
 <p><br />
-Encontros, debates, palestras, exibi&ccedil;&otilde;es de teatro, filmes e feiras com produtos da Reforma Agr&aacute;ria ser&atilde;o apenas algumas das programa&ccedil;&otilde;es previstas para este m&ecirc;s.</p>
+Encontros, debates, palestras, exibi&ccedil;&otilde;es de teatro, filmes e feiras com produtos da Reforma Agr&aacute;ria ser&atilde;o apenas algumas das programa&ccedil;&otilde;es previstas para este m&ecirc;s (Abaixo, confira algumas das institui&ccedil;&otilde;es com atividades j&aacute; programadas).</p>
 
 <p><br />
 O objetivo da jornada &eacute; levar o debate da Reforma Agr&aacute;ria e a luta do campo para o cotidiano das universidades e, assim, abrir um canal de di&aacute;logo e forma&ccedil;&atilde;o com os estudantes.</p>
@@ -87,4 +87,4 @@ Celi aponta para o fato da universidade ser &ldquo;altamente elitista onde predo
 Entretanto, &eacute; preciso &ldquo;reconhecer e valorizar os grupos contra hegem&ocirc;nicos que diuturnamente levam o embate para avan&ccedil;armos na produ&ccedil;&atilde;o do conhecimento, na pesquisa, na extens&atilde;o e no ensino considerando as especificidades do campo brasileiro onde o capital se desenvolve e opera destruindo for&ccedil;as produtivas, destruindo a natureza, o trabalho e o trabalhador&rdquo;, acrescenta.</p>
 
 <p><br />
-Nos pr&oacute;ximos dias, j&aacute; est&atilde;o confirmadas atividades na Universidades Federais da Bahia (UFBA), de Juiz de Fora (UFJF), Sergipe (UFS), Bras&iacute;lia (Unb), do Vale do S&atilde;o Francisco (UNIVASF) - Campus Juazeiro, nas Universidades Estaduais de Santa Cruz (Uesc), do Estado da Bahia (UNEB) &ndash; Campus Juazeiro, de Pernambuco (UPE) &ndash; Campus Petrolina, no Centro de Cultura Jo&atilde;o Gilberto (Juazeiro/BA), no Instituto Federal Sert&atilde;o Pernambucano (Campus Petrolina e Campus Ouricuri).</p>
+Nos pr&oacute;ximos dias, j&aacute; est&atilde;o confirmadas atividades nas Universidades Federais da Bahia (UFBA), de Juiz de Fora (UFJF), Sergipe (UFS), Bras&iacute;lia (Unb), do Vale do S&atilde;o Francisco (UNIVASF) - Campus Juazeiro, nas Universidades Estaduais de Santa Cruz (Uesc), do Estado da Bahia (UNEB) &ndash; Campus Juazeiro, de Pernambuco (UPE) &ndash; Campus Petrolina, no Centro de Cultura Jo&atilde;o Gilberto (Juazeiro/BA), nos Institutos Federais do Sert&atilde;o Pernambucano (IFPE - Campus Petrolina e Campus Ouricuri) e do Par&aacute; (IFPA-Campus Rural de Marab&aacute;).</p>
