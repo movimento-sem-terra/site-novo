@@ -5,7 +5,7 @@ tags:
   - tag: jornada-universitária-2015
   - tag: reforma-agrária
   - tag: formação
-title: Jornada em Defesa da Reforma Agrária aproxima Universidade da luta pela terra
+title: Jornada em Defesa da Reforma Agrária aproxima academia da luta pela terra
 support_line: Ao longo de todo o mês de abril dezenas de universidades realizam atividades em torno da questão agrária.
 menu: "educação, cultura e comunicação"
 section: cover
