@@ -36,7 +36,6 @@ releated_posts:
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Evento acontece no m&ecirc;s lutas do MST, objetivo &eacute; pautar a Reforma Agr&aacute;ria dentro das salas de aula.<br />
 Ao longo do m&ecirc;s de abril, dezenas de universidades p&uacute;blicas de todo pa&iacute;s realizam a 2&deg; Jornada Universit&aacute;ria em Defesa da Reforma Agr&aacute;ria. Na sua primeira edi&ccedil;&atilde;o, em abril de 2014, 57 institui&ccedil;&otilde;es de ensino superior, entre campus, institutos e universidades brasileiras desenvolveram atividades em torno da jornada.</p>
 
 <p><br />
