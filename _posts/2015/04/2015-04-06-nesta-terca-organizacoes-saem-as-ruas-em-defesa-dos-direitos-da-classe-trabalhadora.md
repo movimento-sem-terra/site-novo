@@ -7,7 +7,7 @@ tags:
   - tag: constituinte
   - tag: direitos-trabalhistas
 title: "Nesta terça, organizações saem às ruas em defesa dos direitos da classe trabalhadora"
-support_line: "MST, CUT, CTB e movimentos populares do campo e da cidade realizam manifestações em todo o Brasil para impedir aprovação do 4330 e exigir mais direitos para classe trabalhadora."
+support_line: "MST, CUT, CTB e movimentos populares do campo e da cidade realizam manifestações em todo o Brasil para impedir aprovação do PL 4330."
 menu: lutas e mobilizações
 layout: post
 files:
