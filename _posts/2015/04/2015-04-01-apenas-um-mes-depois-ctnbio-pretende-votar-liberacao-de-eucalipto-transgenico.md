@@ -42,7 +42,7 @@ Da P&aacute;gina do MST</em></p>
 Foi necess&aacute;rio pouco mais de um m&ecirc;s apenas para que a vota&ccedil;&atilde;o sobre a libera&ccedil;&atilde;o de plantio comercial de eucalipto transg&ecirc;nico voltasse &agrave; pauta da Comiss&atilde;o T&eacute;cnica Nacional de Biosseguran&ccedil;a (CTNBio).</p>
 
 <p><br />
-A vota&ccedil;&atilde;o, que aconteceria no dia 05/03, mas adiada ap&oacute;s 1000 mulheres do MST ocuparam a sede da Futuragene (empresa da Suzano Papel e Celulose), em Itapetininga (SP), e em paralelo, manifestantes interromperem a vota&ccedil;&atilde;o em Bras&iacute;lia no pr&eacute;dio da Ag&ecirc;ncia Espacial Brasileira (AEB), est&aacute; novamente marcada para o pr&oacute;ximo dia 9 de abril.</p>
+A vota&ccedil;&atilde;o, que aconteceria no dia 05/03, mas adiada ap&oacute;s 1000 mulheres do MST ocuparam a sede da Futuragene (empresa da Suzano Papel e Celulose), em Itapetininga (SP), e em paralelo, manifestantes interromperem a vota&ccedil;&atilde;o em Bras&iacute;lia no pr&eacute;dio da Ag&ecirc;ncia Espacial Brasileira (AEB), est&aacute; novamente marcada para o pr&oacute;ximo dia 9 de abril (<a href="https://secure.avaaz.org/po/petition/Aos_membros_do_conselho_da_CTNBio_CTNBio_diga_nao_as_arvores_sanguessugas/?ciYRid" target="_blank">clique aqui</a> e assine peti&ccedil;&atilde;o online contra a aprova&ccedil;&atilde;o).</p>
 
 <p><br />
 Para Paulo Kageyama, integrante da CTNBio e professor da Universidade de S&atilde;o Paulo, o projeto continua sendo um erro. Para ele, velar a vota&ccedil;&atilde;o adiante significa um retrocesso ambiental para o nosso pa&iacute;s.</p>
