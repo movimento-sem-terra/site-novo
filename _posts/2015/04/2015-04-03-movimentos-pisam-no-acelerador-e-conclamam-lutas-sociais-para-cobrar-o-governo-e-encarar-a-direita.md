@@ -30,6 +30,7 @@ releated_posts:
   - 2015/03/2015-03-13-engraxem-as-botas-e-as-chuteiras-que-o-jogo-so-esta-comecando-afirma-sem-terra.md
   - 2015/03/2015-03-27-31-de-marco-7-de-abril-1o-de-maio-dias-de-mobilizacao.md
   - 2015/04/2015-04-01-nao-havera-golpe-nesse-pais-sem-resistencia-nossos-movimentos-nao-formaram-covardes-afirma-gilmar-mauro.md
+label: articles
 
 ---
 <p><img alt="classe.jpg" src="http://farm8.staticflickr.com/7628/17053411951_e8bebc2cb9_b.jpg" /><br />
