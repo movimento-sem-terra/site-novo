@@ -5,7 +5,7 @@ tags:
   - tag: lutas-e-mobilizações
   - tag: reforma-política
   - tag: petrobrás
-title: Movimentos pisam no acelerador e conclamam lutas sociais para cobrar o governo e encarar a direita
+title: Movimentos pisam no acelerador e conclamam lutas para cobrar governo e encarar direita
 support_line: "Movimentos conclamam as lutas das forças progressistas em defesa da democracia, a partir de uma plataforma que congrega cobranças ao governo Dilma e o enfrentamento à direita."
 menu: lutas e mobilizações
 section: null
@@ -17,16 +17,23 @@ files:
     small: "http://farm9.staticflickr.com/8738/16401125133_a66153130a_n.jpg"
     title: jp.jpg
     $$hashKey: 0E0
+  - link: "http://farm8.staticflickr.com/7628/17053411951_e8bebc2cb9_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7628/17053411951_e8bebc2cb9_t.jpg"
+    medium: "http://farm8.staticflickr.com/7628/17053411951_e8bebc2cb9_z.jpg"
+    small: "http://farm8.staticflickr.com/7628/17053411951_e8bebc2cb9_n.jpg"
+    title: classe.jpg
+    $$hashKey: 059
 created_date: "2015-04-03T13:35:17-03:00"
 published: true
-images_hd: "http://farm9.staticflickr.com/8738/16401125133_a66153130a_n.jpg"
+images_hd: "http://farm8.staticflickr.com/7628/17053411951_e8bebc2cb9_n.jpg"
 releated_posts:
   - 2015/03/2015-03-13-engraxem-as-botas-e-as-chuteiras-que-o-jogo-so-esta-comecando-afirma-sem-terra.md
   - 2015/03/2015-03-27-31-de-marco-7-de-abril-1o-de-maio-dias-de-mobilizacao.md
   - 2015/04/2015-04-01-nao-havera-golpe-nesse-pais-sem-resistencia-nossos-movimentos-nao-formaram-covardes-afirma-gilmar-mauro.md
 
 ---
-<p><br />
+<p><img alt="classe.jpg" src="http://farm8.staticflickr.com/7628/17053411951_e8bebc2cb9_b.jpg" /><br />
+<br />
 <em>Por Carlos Bandeira</em></p>
 
 <p><br />
