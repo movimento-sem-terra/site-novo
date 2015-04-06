@@ -37,10 +37,10 @@ releated_posts:
 Nesta ter&ccedil;a-feira (7), dezenas de organiza&ccedil;&otilde;es populares do campo e da cidade realizam manifesta&ccedil;&otilde;es em todo o Brasil para impedir que o Congresso Nacional aprove o Projeto de Lei 4330/04, que libera a terceiriza&ccedil;&atilde;o para todas as atividades das empresas.</p>
 
 <p><br />
-Para as organiza&ccedil;&otilde;es, na pr&aacute;tica, a aprova&ccedil;&atilde;o do PL 4330 representaria o desmanche da Consolida&ccedil;&atilde;o das Leis Trabalhistas (CLT), ao tirar dos trabalhadores direitos duramente conquistados ao longo de d&eacute;cadas, e possibilitando que as empresas tenham seguran&ccedil;a jur&iacute;dica para realizarem contratados mais flex&iacute;veis.</p>
+Para as organiza&ccedil;&otilde;es, na pr&aacute;tica, a aprova&ccedil;&atilde;o do PL 4330 representaria o desmanche da Consolida&ccedil;&atilde;o das Leis Trabalhistas (CLT), ao tirar dos trabalhadores direitos duramente conquistados ao longo de d&eacute;cadas, e possibilitando que as empresas tenham seguran&ccedil;a jur&iacute;dica para realizarem contratos mais flex&iacute;veis.</p>
 
 <p><br />
-Os atos tamb&eacute;m ser&atilde;o em defesa da sa&uacute;de p&uacute;blica, da democracia, dos direitos dos trabalhares, da Petrobr&aacute;s e das reforma pol&iacute;tica, agr&aacute;ria e da comunica&ccedil;&atilde;o e combate &agrave; corrup&ccedil;&atilde;o.</p>
+Os atos tamb&eacute;m sair&atilde;o em defesa da sa&uacute;de p&uacute;blica, da democracia, dos direitos dos trabalhares, da Petrobr&aacute;s e das reforma pol&iacute;tica, agr&aacute;ria e da comunica&ccedil;&atilde;o e combate &agrave; corrup&ccedil;&atilde;o.</p>
 
 <p><br />
 Em diversas capitais e nas grandes cidades do Brasil, as organiza&ccedil;&otilde;es promovem manifesta&ccedil;&otilde;es nas ruas, avenidas e estradas. Algumas categorias far&atilde;o atividades nas portas das f&aacute;bricas, bairros e escolas.</p>
