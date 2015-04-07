@@ -28,4 +28,11 @@ $mobile: new-breakpoint(max-width 768px);
     top: 0;
     left: 0;
   }
+
+  #close-link {
+    display: block;
+    text-align: right;
+    margin-bottom: 5px;
+  }
+
 }
