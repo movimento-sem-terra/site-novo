@@ -22,6 +22,7 @@ var flag = {
         flag.config.container.removeClass('decomposited');
       } else {
         flag.config.container.addClass('decomposited');
+        flag.normalizeAll();
       }
     });
   },
