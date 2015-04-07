@@ -28,35 +28,45 @@ $(document).ready(function() {
     });
   };
 
+  var swipeTimeline = function(distanceGesture, direction, entry){
+    var positionEntry = entry.offset().left;
+    var middlePosition = ( $(window).width() / 2 ) - ( entry.outerWidth() / 2 ); 
+    var diff = positionEntry - middlePosition;
+    
+    var distanceMax = distanceGesture >= diff ? diff : distanceGesture;
+
+    var newLeft = $('.timeline').offset().left + ( Math.abs(distanceMax) * direction );
+    $('.timeline').offset({left: newLeft });
+  };
+
   $('#arrow-mobile .arrow').hammer().on('tap', function(e) {
     e.preventDefault();
     var direction = (this.classList.contains('right')) ? -1 : 1;
-    var newLeft = $('.timeline').offset().left + ( 35 * direction );
-    $('.timeline').offset({left: newLeft });
+
+    if( direction === -1 ){
+      entry = $('.timeline .entry').last();
+    }else{
+      entry = $('.timeline .entry').first();
+    }
+
+    swipeTimeline(50, direction, entry);
   });
 
-  $('#timeline-wrapper').hammer().on('swipeleft', function(e) {
+  $('main > header').hammer().on('panleft panright', function(e) {
     e.preventDefault();
-    var newLeft = $('.timeline').offset().left + ( 80 );
-    $('.timeline').offset({left: newLeft });
-  });
+    var distanceGesture = e.gesture.distance;
+    var direction = 1;
+    var entry;
 
-  $('#timeline-wrapper').hammer().on('dragleft', function(e) {
-    e.preventDefault();
-    var newLeft = $('.timeline').offset().left + ( 20 );
-    $('.timeline').offset({left: newLeft });
-  });
 
-  $('#timeline-wrapper').hammer().on('swiperight', function(e) {
-    e.preventDefault();
-    var newLeft = $('.timeline').offset().left + ( -80 );
-    $('.timeline').offset({left: newLeft });
-  });
+    if( 'panleft' === e.type ){
+      direction = -1;
+      entry = $('.timeline .entry').last();
+    }else{
+      entry = $('.timeline .entry').first();
+    }
 
-  $('#timeline-wrapper').hammer().on('dragright', function(e) {
-    e.preventDefault();
-    var newLeft = $('.timeline').offset().left + ( -20 );
-    $('.timeline').offset({left: newLeft });
+    swipeTimeline(distanceGesture, direction, entry);
   });
 
   $('.entry').click(function(e) {
