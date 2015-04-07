@@ -27,6 +27,7 @@ releated_posts:
   - 2015/03/2015-03-05-reforma-politica-as-10-armadilhas-da-emenda-vacarezza.md
   - 2015/03/2015-03-23-sem-reforma-politica-a-ofensiva-conservadora-so-ira-crescer.md
   - 2015/04/2015-04-03-movimentos-pisam-no-acelerador-e-conclamam-lutas-sociais-para-cobrar-o-governo-e-encarar-a-direita.md
+section: cover
 
 ---
 <p><img alt="PL4330.jpg" src="http://farm8.staticflickr.com/7640/17056232945_cf74f4e7d2_b.jpg" /><br />
