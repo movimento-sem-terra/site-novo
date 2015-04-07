@@ -30,10 +30,14 @@ $(document).ready(function() {
 
   var swipeTimeline = function(distanceGesture, direction, entry){
     var positionEntry = entry.offset().left;
-    var middlePosition = ( $(window).width() / 2 ) - ( entry.outerWidth() / 2 ); 
+    var middlePosition = ( $(window).width() / 2 ) - ( entry.outerWidth() / 2 );
     var diff = positionEntry - middlePosition;
-    
-    var distanceMax = distanceGesture >= diff ? diff : distanceGesture;
+
+    if(direction < 0) {
+      var distanceMax = distanceGesture >= diff ? diff : distanceGesture;
+    } else {
+      var distanceMax = distanceGesture <= diff ? diff : distanceGesture;
+    }
 
     var newLeft = $('.timeline').offset().left + ( Math.abs(distanceMax) * direction );
     $('.timeline').offset({left: newLeft });
