@@ -8,7 +8,7 @@ tags:
 title: Jornada em Defesa da Reforma Agrária aproxima academia da luta pela terra
 support_line: Ao longo de todo o mês de abril dezenas de universidades realizam atividades em torno da questão agrária.
 menu: "educação, cultura e comunicação"
-section: null
+section: featured-news
 sector: education
 layout: post
 files:
