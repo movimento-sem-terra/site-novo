@@ -28,6 +28,37 @@ $(document).ready(function() {
     });
   };
 
+  $('#arrow-mobile .arrow').hammer().on('tap', function(e) {
+    e.preventDefault();
+    var direction = (this.classList.contains('right')) ? -1 : 1;
+    var newLeft = $('.timeline').offset().left + ( 35 * direction );
+    $('.timeline').offset({left: newLeft });
+  });
+
+  $('#timeline-wrapper').hammer().on('swipeleft', function(e) {
+    e.preventDefault();
+    var newLeft = $('.timeline').offset().left + ( 80 );
+    $('.timeline').offset({left: newLeft });
+  });
+
+  $('#timeline-wrapper').hammer().on('dragleft', function(e) {
+    e.preventDefault();
+    var newLeft = $('.timeline').offset().left + ( 20 );
+    $('.timeline').offset({left: newLeft });
+  });
+
+  $('#timeline-wrapper').hammer().on('swiperight', function(e) {
+    e.preventDefault();
+    var newLeft = $('.timeline').offset().left + ( -80 );
+    $('.timeline').offset({left: newLeft });
+  });
+
+  $('#timeline-wrapper').hammer().on('dragright', function(e) {
+    e.preventDefault();
+    var newLeft = $('.timeline').offset().left + ( -20 );
+    $('.timeline').offset({left: newLeft });
+  });
+
   $('.entry').click(function(e) {
     e.preventDefault();
     updateContent($(this));
@@ -44,4 +75,4 @@ $(document).ready(function() {
 
 
   updateTimeline($('.timeline .entry.active'));
-})
+});
