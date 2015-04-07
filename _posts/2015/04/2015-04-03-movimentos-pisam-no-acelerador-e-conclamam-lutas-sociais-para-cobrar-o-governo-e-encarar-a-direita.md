@@ -6,7 +6,7 @@ tags:
   - tag: reforma-política
   - tag: petrobrás
 title: Movimentos pisam no acelerador e conclamam lutas para cobrar governo e encarar direita
-support_line: "Movimentos conclamam as lutas das forças progressistas em defesa da democracia, a partir de uma plataforma que congrega cobranças ao governo Dilma e o enfrentamento à direita."
+support_line: "Movimentos conclamam as lutas das forças progressistas em defesa da democracia, cobram governo Dilma e o enfrentam à direita."
 menu: lutas e mobilizações
 section: null
 layout: post
