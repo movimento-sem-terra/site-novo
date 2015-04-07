@@ -6,7 +6,7 @@ tags:
   - tag: direitos-trabalhistas
   - tag: PL-4330
 support_line: "Em Brasília (DF), por volta das 15 horas, a polícia recebeu com violência milhares de pessoas que participavam da mobilização em frente ao Congresso Nacional."
-title: ia Nacional de Lutas mobiliza país contra PL das terceirizações
+title: Dia Nacional de Lutas mobiliza país contra PL das terceirizações
 menu: lutas e mobilizações
 section: cover
 layout: post
