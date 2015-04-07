@@ -23,16 +23,28 @@ files:
     small: "http://farm9.staticflickr.com/8746/16450206443_eb3a34ca8d_n.jpg"
     title: ana moraes.jpg
     $$hashKey: 07X
+  - link: "http://farm8.staticflickr.com/7684/17044499126_aa8aedebf2_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7684/17044499126_aa8aedebf2_t.jpg"
+    medium: "http://farm8.staticflickr.com/7684/17044499126_aa8aedebf2_z.jpg"
+    small: "http://farm8.staticflickr.com/7684/17044499126_aa8aedebf2_n.jpg"
+    title: protesto_estado.jpg
+    $$hashKey: "055"
+  - link: "http://farm8.staticflickr.com/7602/17069731921_9f00e01973_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7602/17069731921_9f00e01973_t.jpg"
+    medium: "http://farm8.staticflickr.com/7602/17069731921_9f00e01973_z.jpg"
+    small: "http://farm8.staticflickr.com/7602/17069731921_9f00e01973_n.jpg"
+    title: protesto_folha.jpg
+    $$hashKey: 05J
 created_date: "2015-04-07T17:23:17-03:00"
 published: true
-images_hd: "http://farm9.staticflickr.com/8701/17069604981_a3a24d7042_n.jpg"
+images_hd: "http://farm8.staticflickr.com/7602/17069731921_9f00e01973_n.jpg"
 releated_posts:
   - 2015/04/2015-04-01-nao-havera-golpe-nesse-pais-sem-resistencia-nossos-movimentos-nao-formaram-covardes-afirma-gilmar-mauro.md
   - 2015/04/2015-04-06-nesta-terca-organizacoes-saem-as-ruas-em-defesa-dos-direitos-da-classe-trabalhadora.md
   - 2015/03/2015-03-27-31-de-marco-7-de-abril-1o-de-maio-dias-de-mobilizacao.md
 
 ---
-<p><img alt="ato bsb.jpg" src="http://farm9.staticflickr.com/8701/17069604981_a3a24d7042_b.jpg" /><br />
+<p><img alt="protesto_folha.jpg" src="http://farm8.staticflickr.com/7602/17069731921_9f00e01973_b.jpg" /><br />
 <br />
 <em>Por Jos&eacute; Coutinho J&uacute;nior, Vivian Fernandes e Simone Freire<br />
 Do Brasil de Fato</em></p>
@@ -46,7 +58,8 @@ A pauta de reivindica&ccedil;&otilde;es tamb&eacute;m incluiu a defesa da democr
 <p><br />
 Presente na manifesta&ccedil;&atilde;o paulista, Lourdes Estev&atilde;o, do Sindicato dos Servidores Municipais de S&atilde;o Paulo (Sindsep), falou sobre os resultados das terceiriza&ccedil;&otilde;es no setor da sa&uacute;de. &ldquo;A avalia&ccedil;&atilde;o que fazemos &eacute; que a terceiriza&ccedil;&atilde;o, al&eacute;m de ruim para o trabalhador, &eacute; cara e ineficiente para a sa&uacute;de. A partir do momento que se passa para o setor privado &aacute;reas da sa&uacute;de p&uacute;blica, a l&oacute;gica que domina &eacute; a do lucro, do atendimento r&aacute;pido, ao inv&eacute;s de se pensar no bem estar dos pacientes&quot;.</p>
 
-<p><br />
+<p><img alt="protesto_estado.jpg" src="http://farm8.staticflickr.com/7684/17044499126_aa8aedebf2_b.jpg" /><br />
+<br />
 A avalia&ccedil;&atilde;o &eacute; compartilhada por Ad&atilde;o do Carmo, representante do Movimento Popular da Sa&uacute;de: &quot;Trabalhadores e sa&uacute;de est&atilde;o em situa&ccedil;&atilde;o cada vez pior com a iniciativa privada tomando conta de um servi&ccedil;o p&uacute;blico. N&atilde;o vamos deixar que o SUS seja sucateado&quot;, disse.</p>
 
 <p><br />
