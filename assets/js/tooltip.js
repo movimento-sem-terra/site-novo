@@ -1,5 +1,7 @@
 $(document).ready(function(){
-  $('#content').on('focusout', '.tooltip-item', function() {
+
+  $('#content').on('click', '.tooltip #close-link', function(e) {
+    e.preventDefault();
     $('.tooltip').addClass('hidden');
   });
 
