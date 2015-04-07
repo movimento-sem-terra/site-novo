@@ -8,6 +8,8 @@ $(document).ready(function() {
 
     $('.timeline').offset({left: timelineLeft + (pageCenter - entryCenter) });
 
+    $('#arrow-mobile span.period').text(element.text());
+
     $('.entry').removeClass('active');
     element.addClass('active');
 
