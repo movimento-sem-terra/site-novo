@@ -33,7 +33,7 @@ releated_posts:
 
 ---
 <figure class="image"><img alt="Jpedro mesa de abertura 2_web.jpg" src="http://farm9.staticflickr.com/8815/17067088791_8db972bff3_b.jpg" />
-<figcaption><a href="http://jornadareformaagrariaunb.blogspot.com.br/p/blog-page.html">http://jornadareformaagrariaunb.blogspot.com.br/p/blog-page.html</a></figcaption>
+<figcaption>Foto: Felipe Canova.</figcaption>
 </figure>
 
 <p><em>Por Iris Pacheco e Felipe Canova<br />
@@ -69,6 +69,10 @@ Segundo Adriana Dantas, da Federa&ccedil;&atilde;o dos Estudantes de Agronomia (
 
 <p><br />
 Dantas ainda criticou o fato de muitos estudantes do curso de Agronomia conclu&iacute;rem o curso sem nunca ter discutido e debatido profundamente o tema da Reforma Agr&aacute;ria.</p>
+
+<figure class="image"><img alt="JPedro mesa de abertura_web.jpg" src="http://farm8.staticflickr.com/7668/17067845485_96f9840f37_b.jpg" />
+<figcaption>Foto: Felipe Canova.</figcaption>
+</figure>
 
 <p><br />
 <strong>Jornada Universit&aacute;ria</strong></p>
