@@ -1,0 +1,29 @@
+  <header>
+    <div class="blurred-background">
+      <div class="background"></div>
+      <img class="foreground" src="">
+    </div>
+
+    <div id="arrow-mobile">
+      <button class="arrow left"></button>
+      <span class="period">{{ include.period }}</span>
+      <button class="arrow right"></button>
+    </div>
+    <div id="arrow">
+      <div></div>
+      <div></div>
+    </div>
+    <div id="timeline-wrapper">
+      <div class="bar"></div>
+      <div class="timeline">
+          {% for p in site.data.timeline %}
+              {% assign css_class = '' %}
+
+              {% if include.period == p.title %}
+                   {% assign css_class = 'active' %}
+              {% endif %}
+              <a href="{{site.baseurl}}/nossa-historia/{{p.path}}" class="entry {{ css_class }}">{{ p.title }}</a>
+          {% endfor %}
+      </div>
+    </div>
+  </header>

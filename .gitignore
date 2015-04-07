@@ -3,6 +3,7 @@ _site
 node_modules
 .bundle/
 *.swp
+*.swo
 .ruby-version
 .node-version
 .sass-cache/
@@ -10,6 +11,9 @@ neat/
 bourbon/
 .rvmrc
 tags.json
+npm-debug.log
 test.css
 temp.css
 index.php
+assets/css/.sanitized-sass/
+

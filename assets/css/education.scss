@@ -1,0 +1,395 @@
+---
+---
+
+@import "../bourbon/bourbon";
+@import "../neat/neat";
+@import "../_sass/variables";
+@import "../_sass/_includes/spinner";
+@import "../_sass/_includes/ask-us";
+
+$mobile: new-breakpoint(max-width 768px);
+
+
+//EXTENDS
+.center{
+  max-width: 1020px;
+  margin: 0 auto;
+}
+
+.default-container{
+  @include outer-container;
+  @extend .center;
+}
+.text-with-shadow{
+  text-shadow: 1px 2px 1px #000000;
+  font-family: 'Exo 2';
+  color: #ffffff;
+  font-weight: 500;
+}
+
+.title-with-shadow{
+  text-shadow: 1px 2px 4px #000000;
+  color: #ffffff;
+}
+
+.truncate {
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+//END
+
+#education{
+  padding: 0;
+  width: 100%;
+  background-color: #f8f8f9;
+
+  h3{
+    font-size: 34px;
+    color: #555555;
+    margin-bottom: 34px;
+  }
+
+  #about {
+    padding-bottom: 36px;
+    overflow: hidden;
+    background: url(../img/educacao/background.jpg) no-repeat left top;
+            background-size: cover;
+         -o-background-size: cover;
+       -moz-background-size: cover;
+    -webkit-background-size: cover;
+
+     .quote{
+        width: 30px;
+        height: 30px;
+        display: inline-block;
+        text-indent: -9999px;
+
+        &.start{
+          float: left;
+          background: transparent url(../img/quem-somos/quote-a.jpg) no-repeat left top;
+        }
+
+        &.end{
+          background: transparent url(../img/quem-somos/quote-b.jpg) no-repeat right bottom;
+          float: right;
+          margin-top:  -30px;
+        }
+      }
+
+    .content {
+      @extend .default-container;
+      margin-top: 49px;
+
+      & > p{
+        @extend .text-with-shadow;
+        font-size: 18px;
+      }
+
+      h2 {
+        @extend .title-with-shadow;
+        font-size: 36px;
+        font-style: italic;
+
+        @include media($mobile) {
+          padding: 10px;
+        }
+
+      }
+
+      #summary {
+        @include span-columns(6);
+        overflow: hidden;
+        float: left;
+        p {
+          @extend .title-with-shadow;
+          font: 500 18px / 24px;
+          color: #ffffff;
+          font-weight: 200;
+          padding: 10px;
+        }
+
+        @include media($mobile) {
+          @include fill-parent();
+        }
+      }
+
+      #testimonials{
+        @include span-columns(6);
+        text-align: center;
+
+        @include media($mobile) {
+          @include fill-parent();
+        }
+
+        h4{
+          @extend .title-with-shadow;
+          font-size: 24px;
+          font-weight: 200;
+          letter-spacing: 1px;
+          text-align: center;
+          margin: 0 0 14px 0px;
+        }
+
+        .testimonial{
+          width: 248px;
+          height: 191px;
+          background: url(../img/nossa-producao/ballon.png) no-repeat left top;
+          float: left;
+          text-align: center;
+          padding: 30px 14px 30px 14px;
+
+          &:first-of-type{
+            margin-right: 22px;
+          }
+
+          p > a {
+            @extend .truncate;
+            font-size: 16px;
+            color: $mst-red;
+            height: 93px;
+            font-weight: 700;
+            vertical-align: middle;
+            display: table-cell;
+          }
+
+          a{
+            color: #555555;
+            font-weight: 200;
+          }
+
+          @include media($mobile) {
+            display: block;
+            margin: 0 auto;
+            float: none;
+
+            &:first-of-type{
+              margin-right: auto;
+            }
+
+          }
+        }
+      }
+    }
+  }
+
+  #statistics{
+    background-color: $mst-red;
+    width: 100%;
+    min-height: 110px;
+    .content{
+      @extend .default-container;
+
+      h5#brasil{
+        @extend .title-with-shadow;
+        @include span-columns(2);
+        font-size: 50px;
+        float: left;
+        font-style: italic;
+        margin-top: 0;
+        margin-bottom: 0;
+        text-align: center;
+
+        @include media($mobile) {
+          @include span-columns(12);
+        }
+      }
+
+      #infos{
+        @include span-columns(10);
+
+        @include media($mobile) {
+          @include fill-parent();
+        }
+        .info{
+          text-align: center;
+          @include span-columns(2 of 10);
+          p{
+            font-size: 16px;
+            color: #da6164;
+            margin-top: 7px;
+            strong{
+              @extend .text-with-shadow;
+              margin-bottom: -12px;
+              font-size: 31px;
+              font-weight: 700;
+              display: block;
+            }
+          }
+
+          @include media($mobile) {
+            @include span-columns(12);
+          }
+        }
+      }
+    }
+
+
+  }
+
+  #itinerant-schools {
+    @extend .default-container;
+    margin-top: 20px;
+    padding-bottom: 70px;
+
+    #text{
+      text-align: justify;
+      padding-right: 30px;
+      @include span-columns(6);
+      @include media($mobile) {
+        @include fill-parent();
+        padding: 10px;
+        padding-right: 10px;
+      }
+    }
+
+    #gallery {
+
+      $radius: 5px;
+
+      height: 448px;
+      margin-top: 23px;
+      position: relative;
+      background-color: rgba(0, 0, 0, .7);
+      padding: 0;
+      border-radius: $radius;
+      overflow: hidden;
+
+      @include span-columns(6);
+      @include omega();
+
+      @include media($mobile) {
+        @include fill-parent();
+        height: 271px;
+        overflow: visible;
+      }
+
+      #background {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        @include filter(blur(10px));
+        background-repeat: no-repeat;
+        background-size: cover;
+        opacity: .3;
+        transition: background .3s;
+
+        @include media($mobile) {
+          @include filter(none);
+          transition: none;
+        }
+
+      }
+      .swiper-container {
+        width: 100%;
+        height: 300px;
+        margin-left: auto;
+        margin-right: auto;
+        .swiper-slide {
+          background-size: cover;
+          background-position: center;
+        }
+      }
+
+      .gallery-top {
+        height: 80%;
+        width: 100%;
+
+        @include media($mobile) {
+          height: 100%;
+        }
+
+        .swiper-slide {
+          background-size: cover;
+          background-repeat: no-repeat;
+
+          border-radius: $radius;
+
+          &.contain {
+            background-size: contain;
+          }
+        }
+
+        .swiper-button-disabled {
+          opacity: .1;
+        }
+
+      }
+      .gallery-thumbs {
+        height: 20%;
+        box-sizing: border-box;
+        padding: 10px 0;
+
+        @include media($mobile) {
+          height: 8%;
+          padding: 0;
+          margin-top: 12px;
+        }
+
+        .swiper-wrapper {
+          margin-left: -36%;
+
+          @include media($mobile) {
+            @include transform(none !important);
+            margin-left: 0;
+            text-align: center;
+            display: block;
+          }
+
+          .swiper-slide {
+            width: 25%;
+            height: 100%;
+            opacity: 0.7;
+            border: solid 3px transparent;
+
+            @include transition(all .3s);
+            @include media($mobile) {
+              width: 7px;
+              height: 7px;
+              border-radius: 50%;
+              border: solid 3px white;
+              display: inline-block;
+              margin: 1px !important;
+              background-image: none !important;
+              background-color: $mst-green;
+
+
+            }
+
+            &:active {
+              @include transform(scale(1.4));
+            }
+
+            &.swiper-slide-active {
+              border-color: $mst-red;
+              opacity: 1;
+              @include media($mobile) {
+                border-size: 6px;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+
+  #news {
+    @extend .default-container;
+
+    & > a {
+      color: #006400;
+      font-weight: bold;
+      text-decoration: underline;
+      float: right;
+    }
+
+    @include media($mobile) {
+      li {
+        display: block;
+        margin: 10px 2%;
+        width: auto;
+      }
+    }
+  }
+}

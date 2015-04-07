@@ -1,0 +1,38 @@
+---
+---
+
+@import "../bourbon/bourbon";
+@import "../neat/neat";
+@import "../_sass/variables";
+
+$mobile: new-breakpoint(max-width 768px);
+
+.tooltip {
+  
+  @include media($mobile) {
+    left: 0 !important;
+  }
+
+  display: block;
+  border: 1px solid $mst-light-gray;
+  padding: 10px;
+  max-width: 30em;
+  font-size: .8em;
+  box-shadow: 2px 2px 5px $mst-light-gray;
+  border-radius: 5px;
+  position: absolute;
+  background-color: white;
+
+  &.hidden {
+    display: none;
+    top: 0;
+    left: 0;
+  }
+
+  #close-link {
+    display: block;
+    text-align: right;
+    margin-bottom: 5px;
+  }
+
+}

@@ -1,0 +1,24 @@
+{% assign special_stories = include.posts | where: "label", "special-stories" %}
+<div class="content">
+  <h2>Educação</h2>
+  <div id="summary">
+    <p>Durante os primeiros anos de luta, os Sem Terra reunidos sob a bandeira do MST tinham como prioridade a conquista da terra. Mas eles logo compreenderam que isso não era o bastante. Se a terra representava a possibilidade de trabalhar, produzir e viver dignamente, faltava-lhes um instrumento fundamental para a comunidade de luta.</p>
+    <p>A continuidade a luta exigia conhecimentos tanto para lidar com assuntos práticos, como para entender a conjuntura política econômica e social. Arma de duplo alcance para os Sem Terra, a educação tornou-se prioridade do Movimento.</p>
+  </div>
+  
+  <div id="testimonials">
+    {% for post in special_stories | limit: 2  %}
+      <div class="testimonial">
+        <p>
+          <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">
+            <span class="quote start">"</span>{{ post.title | truncate: 100 }}
+          </a>
+        </p>
+        <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">
+          Saiba Mais
+        </a>
+      </div>
+    {% endfor %}
+  </div>
+</div>
+

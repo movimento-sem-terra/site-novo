@@ -1,0 +1,14 @@
+<div class="content">
+  <h3>Saiba mais</h3>
+  <ul>
+    {% for post in include.posts limit:4 %}
+    <li>
+      {% if post.section == 'tv'  %}
+        {% include headline-with-video.html post=post %}
+      {% else %}
+        {% include headline-with-image.html post=post %}
+      {% endif  %}
+    </li>
+    {% endfor %}
+  </ul>
+</div>

@@ -1,0 +1,27 @@
+---
+layout: default
+title: Nossos Símbolos
+styles: ["our-symbols.css"]
+scripts: ["our-symbols/script.js", "our-symbols/anthem.js"]
+---
+<main id="our-symbols">
+  <div class="container">
+    <h1>Nossos Símbolos</h1>
+
+    <p>
+      Desde suas primeiras ocupações, os Sem Terra vêm criando diversos símbolos de representação de sua luta. Circunstanciais, como a cruz da Encruzilhada Natalino, ou permanentes, como a bandeira e o hino do MST, eles são, sobretudo, signos da unidade em torno de um ideal e constituem a mística do Movimento.
+    </p>
+  </div>
+
+  <section id="our-flag" class="decomposited">
+    {% include our-symbols/flag.html %}
+  </section>
+
+  <section id="anthem">
+    {% include our-symbols/anthem.html %}
+  </section>
+
+  <section id="lona-preta">
+    {% include our-symbols/lona-preta.html %}
+  </section>
+</main>

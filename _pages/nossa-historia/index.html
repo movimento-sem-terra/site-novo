@@ -1,4 +1,13 @@
 ---
-layout: fixed_post
+layout: default
+title: Nossa História
+styles: ["our-history.css", "tooltip.css"]
+scripts: ["our-history/timeline.js", "our-history/scroll-top.js", "tooltip.js"]
 ---
-{% include under_construction.html link = "/node/7702" %}
+
+<main id="our-history">
+  {% include our-history/header.html period='Início'%}
+  <div id="content">
+      {% include our-history/inicio/content.html %}
+  </div>
+</main>
