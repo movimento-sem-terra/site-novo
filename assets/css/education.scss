@@ -209,8 +209,8 @@ $mobile: new-breakpoint(max-width 768px);
             margin-top: 7px;
             strong{
               @extend .text-with-shadow;
-              margin-bottom: -12px;
-              font-size: 31px;
+              margin-bottom: .1em;
+              font-size: 1.5em;
               font-weight: 700;
               display: block;
             }
