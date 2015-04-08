@@ -25,26 +25,13 @@ created_date: "2015-04-08T11:19:49-03:00"
 published: true
 images_hd: "http://farm9.staticflickr.com/8802/16890492520_01f1d82866_n.jpg"
 releated_posts:
-  - 2014/06/2014-06-24-areas-com-transgenico-e-agrotoxico-tem-maior-taxa-de-cancer-aponta-relatorio.md
   - 2014/07/2014-07-08-20-anos-de-transgenicos-ha-o-que-comemorar.md
-  - 2015/02/2015-02-26-demanda-por-soja-nao-transgenica-e-cada-vez-maior.md
-  - 2014/06/2014-06-03-acao-civil-publica-questiona-regra-para-evitar-contaminacao-por-transgenico.md
   - 2014/06/2014-06-13-cientistas-de-todo-o-mundo-pedem-a-suspensao-dos-transgenicos.md
-  - 2014/06/2014-06-23-consea-pede-transparencia-e-participacao-social-sobre-transgenicos.md
-  - 2014/04/2014-04-28-na-italia-uma-decisao-historia-a-proibicao-do-cultivo-de-milho-transgenico.md
-  - 2014/05/2014-05-13-enquanto-brasil-expande-plantio-de-transgenicos-rejeicao-mundial-aumenta.md
-  - 2015/02/2015-02-24-a-transgenia-e-a-ilusao-de-desenvolvimento-agricola-da-america-do-sul.md
-  - 2014/04/2014-04-28-na-italia-uma-decisao-historica-a-proibicao-do-cultivo-de-milho-transgenico.md
   - 2015/03/2015-03-02-entidades-escrevem-manifesto-contra-a-liberacao-de-eucalipto-transgenico-na-ctnbio.md
-  - 2015/03/2015-03-03-alem-do-eucalipto-transgenico-ctnbio-pode-aprovar-agrotoxicos-do-agente-laranja.md
-  - 2015/03/2015-03-05-camponesas-ocupam-empresa-suzano-contra-liberacao-de-eucalipto-transgenico.md
-  - 2015/03/2015-03-05-apos-ocupacao-na-suzano-outros-300-camponeses-ocupam-predio-da-ctnbio-em-bsb.md
   - 2015/03/2015-03-05-mulheres-contra-o-eucalipto-transgenico.md
   - 2015/03/2015-03-20-a-concentracao-dos-recursos-destroi-a-natureza-e-coloca-vidas-humanas-em-risco-afirma-shiva.md
   - 2015/04/2015-04-06-conheca-o-tempero-mais-usado-por-brasileiros-que-pode-matar-a-sua-familia.md
-  - 2015/04/2015-04-06-comida-patrimonio-ameacado.md
   - 2015/04/2015-04-07-porque-o-brasil-e-um-mercado-fertil-para-agrotoxicos-proibidos.md
-  - 2015/01/2014-12-23-com-transgenico-inseguranca-alimentar-nos-eua-aumentou-em-57.md
 
 ---
 <p><img alt="rotulo.JPG" src="http://farm9.staticflickr.com/8802/16890492520_01f1d82866_b.jpg" /></p>
