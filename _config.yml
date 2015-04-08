@@ -13,8 +13,8 @@ collections:
   banners:
 timezone: BR
 lollipop:
-  title: Nossa Produção
-  link: nossa-producao
+  title: Nossa História
+  link: nossa-historia
   enabled: true
 gems:
   - jekyll-sitemap
