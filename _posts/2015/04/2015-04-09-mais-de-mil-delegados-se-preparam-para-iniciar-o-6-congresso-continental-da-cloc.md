@@ -40,9 +40,6 @@ releated_posts:
 ---
 <p>&nbsp;</p>
 
-<p><br />
-&nbsp;</p>
-
 <figure class="image" style="float:right"><img alt="congreso cloc!.jpg" src="http://farm9.staticflickr.com/8705/17066211506_2a0db936bf_b.jpg" />
 <figcaption></figcaption>
 </figure>
