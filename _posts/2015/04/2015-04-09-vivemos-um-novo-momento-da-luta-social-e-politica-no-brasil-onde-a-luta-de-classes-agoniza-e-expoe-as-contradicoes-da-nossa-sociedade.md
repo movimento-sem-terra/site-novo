@@ -24,6 +24,12 @@ files:
     small: "http://farm9.staticflickr.com/8692/17090524625_c4bffcc9a3_n.jpg"
     title: Índice.jpg
     $$hashKey: 1JD
+  - link: "http://farm9.staticflickr.com/8716/17064964726_966d9fe754_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8716/17064964726_966d9fe754_t.jpg"
+    medium: "http://farm9.staticflickr.com/8716/17064964726_966d9fe754_z.jpg"
+    small: "http://farm9.staticflickr.com/8716/17064964726_966d9fe754_n.jpg"
+    title: MST.jpg
+    $$hashKey: "064"
 created_date: "2015-04-09T14:58:47-03:00"
 published: true
 images_hd: "http://farm9.staticflickr.com/8784/16904250529_5b095d6ce1_n.jpg"
@@ -74,6 +80,10 @@ Para o agroneg&oacute;cio se disponibilizou R$ 136 bilh&otilde;es, ou seja, dez 
 <p><strong>Quais ser&atilde;o as principais bandeiras de luta da Jornada de abril deste<br />
 ano?</strong></p>
 
+<figure class="image" style="float:right"><img alt="Índice.jpg" src="http://farm9.staticflickr.com/8692/17090524625_c4bffcc9a3_b.jpg" />
+<figcaption></figcaption>
+</figure>
+
 <p>As bandeiras levantadas pelo Movimento dialogam diretamente com as necessidades de mudan&ccedil;as para o avan&ccedil;o da Reforma Agr&aacute;ria, como por exemplo, a Reforma Pol&iacute;tica.</p>
 
 <p>Temos clareza que frente a um congresso extremamente conservador e reacion&aacute;rio, que n&atilde;o representa o povo brasileiro, somente com uma reforma pol&iacute;tica que impulsione a mudan&ccedil;a de sua forma e conte&uacute;do &eacute; poss&iacute;vel avan&ccedil;armos, tamb&eacute;m, na realiza&ccedil;&atilde;o da Reforma Agr&aacute;ria.</p>
@@ -86,24 +96,23 @@ ano?</strong></p>
 
 <p>&nbsp;</p>
 
-<figure class="image" style="float:right"><img alt="Índice.jpg" height="253" src="http://farm9.staticflickr.com/8692/17090524625_c4bffcc9a3_b.jpg" width="380" />
-<figcaption></figcaption>
-</figure>
-
 <p>Por isso, que a sinaliza&ccedil;&atilde;o do ministro Patrus Ananias &eacute; vista com grandes expectativas, existe uma demanda social que espera respostas efetivas aos seus problemas. Essa defini&ccedil;&atilde;o pol&iacute;tica do governo precisa ser acompanhada de medidas que viabilizem a sua efetiva&ccedil;&atilde;o, como por exemplo, o fortalecimento do Incra. Precisamos focar tamb&eacute;m na utiliza&ccedil;&atilde;o dos diversos instrumentos poss&iacute;veis para disponibilizar terras para as fam&iacute;lias, desapropria&ccedil;&atilde;o, arrecada&ccedil;&atilde;o de terras p&uacute;blicas, &aacute;reas para irriga&ccedil;&atilde;o, arrecada&ccedil;&atilde;o e terras dos grandes devedores ao Estado; desburocratizando e agilizando os processos.</p>
 
 <p>Faz-se necess&aacute;rio ressaltar que as nossas expectativas frente a esta sinaliza&ccedil;&atilde;o pressup&otilde;e, tamb&eacute;m, o cumprimento do nosso papel de organizar a luta para cobrar do governo o cumprimento da sua tarefa, enfrentando as manobras de um Estado conservador, com um congresso majoritariamente ruralista e um poder judici&aacute;rio conservador e contr&aacute;rio a realiza&ccedil;&atilde;o da reforma agr&aacute;ria e denunciando o agroneg&oacute;cio para toda a sociedade.</p>
 
 <p>&nbsp;</p>
 
-<p><strong>Ano a ano, o numero de novas fam&iacute;lias assentadas vem caindo. O governo anuncia mais de 100 mil fam&iacute;lias assentadas entre 2011 e 2014. Por&eacute;m, um estudo do Gerson Teixeira demonstrou que apenas 27% dessas fam&iacute;lias s&atilde;o de fato projetos de assentamentos do per&iacute;odo 2011/14, e que apenas 19% destes ocorreram por meio da desapropria&ccedil;&atilde;o de terras, instrumento que de fato altera a<br />
-estrutura fundi&aacute;ria. Ao mesmo tempo, dados do Incra revelam que neste mesmo per&iacute;odo seis milh&otilde;es de hectares passaram para as m&atilde;os dos grandes propriet&aacute;rios, e ainda temos 175 milh&otilde;es de hectares improdutivos. Como voc&ecirc; analisa essas informa&ccedil;&otilde;es?</strong></p>
+<p><strong>Ano a ano, o numero de novas fam&iacute;lias assentadas vem caindo. O governo anuncia mais de 100 mil fam&iacute;lias assentadas entre 2011 e 2014. Por&eacute;m, um estudo do Gerson Teixeira demonstrou que apenas 27% dessas fam&iacute;lias s&atilde;o de fato projetos de assentamentos do per&iacute;odo 2011/14, e que apenas 19% destes ocorreram por meio da desapropria&ccedil;&atilde;o de terras, instrumento que de fato altera a estrutura fundi&aacute;ria. Ao mesmo tempo, dados do Incra revelam que neste mesmo per&iacute;odo seis milh&otilde;es de hectares passaram para as m&atilde;os dos grandes propriet&aacute;rios, e ainda temos 175 milh&otilde;es de hectares improdutivos. Como voc&ecirc; analisa essas informa&ccedil;&otilde;es?</strong></p>
+
+<figure class="image" style="float:left"><img alt="MST.jpg" height="277" src="http://farm9.staticflickr.com/8716/17064964726_966d9fe754_b.jpg" width="400" />
+<figcaption></figcaption>
+</figure>
 
 <p>Estes dados refletem o que o nosso Movimento tem dito nos &uacute;ltimos anos em rela&ccedil;&atilde;o &agrave; paralisia da Reforma Agr&aacute;ria e ao avan&ccedil;o do capital financeiro na agricultura brasileira, atrav&eacute;s das empresas transnacionais. E por mais que se tente inflar o n&uacute;mero de fam&iacute;lias assentadas a realidade contradiz isso, pois os acampamentos seguem sendo montados, o numero de fam&iacute;lias acampadas crescem, pois para muitos brasileiros a Reforma Agr&aacute;ria com a garantia de terra para trabalhar e viver e construir um modelo alternativo ao agroneg&oacute;cio com a reforma agr&aacute;ria popular &eacute; a &uacute;nica possibilidade de vida digna com trabalho, educa&ccedil;&atilde;o, moradia, produ&ccedil;&atilde;o de alimentos saud&aacute;veis.</p>
 
 <p>&nbsp;</p>
 
-<p><strong>Temos o congresso mais conservador desde o per&iacute;odo da redemocratiza&ccedil;&atilde;o do pa&iacute;s. E a maior bancada deste congresso &eacute; justamente a que se relaciona diretamente aos movimentos do campo: a bancada ruralista. Muito provavelmente, esse per&iacute;odo ser&aacute; de muita ofensiva por parte desses atores mais conservadores. Quais as expectativas para as conquistas e retrocessos que podem ocorrer tendo em vista essa realidade? E como enfrentar tamanho conservadorismo?</strong></p>
+<p><strong>Temos o congresso mais conservador desde o per&iacute;odo da redemocratiza&ccedil;&atilde;o do pa&iacute;s. E a maior bancada deste congresso &eacute; justamente a que se relaciona diretamente aos movimentos do campo: a bancada ruralista. Diante disso, quais as expectativas para as conquistas e retrocessos que podem ocorrer tendo em vista essa realidade? E como enfrentar tamanho conservadorismo?</strong></p>
 
 <p>Cen&aacute;rio e as condi&ccedil;&otilde;es colocadas nos levariam crer que as maiores possibilidades seriam de retrocesso, pois a correla&ccedil;&atilde;o de for&ccedil;as &eacute; bastante desfavor&aacute;vel para os camponeses. Contudo a bancada ruralista, financiada pelas empresas do agroneg&oacute;cio, por mais que invista contra o avan&ccedil;o da Reforma Agr&aacute;ria, na proposi&ccedil;&atilde;o de leis, projetos e a&ccedil;&otilde;es que desarticule a luta e as condi&ccedil;&otilde;es para mudan&ccedil;as estruturais no campo; confirma um cen&aacute;rio que vai al&eacute;m: as contradi&ccedil;&otilde;es que o modelo do agroneg&oacute;cio gera v&atilde;o sendo insustent&aacute;veis e afetam toda a sociedade.</p>
 
