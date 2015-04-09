@@ -38,6 +38,11 @@ releated_posts:
   - 2015/04/2015-04-01-nao-havera-golpe-nesse-pais-sem-resistencia-nossos-movimentos-nao-formaram-covardes-afirma-gilmar-mauro.md
 
 ---
+<p>&nbsp;</p>
+
+<p><br />
+&nbsp;</p>
+
 <figure class="image" style="float:right"><img alt="congreso cloc!.jpg" src="http://farm9.staticflickr.com/8705/17066211506_2a0db936bf_b.jpg" />
 <figcaption></figcaption>
 </figure>
@@ -46,10 +51,10 @@ releated_posts:
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
-A Am&eacute;rica Latina passa por um momento complexo. Se por um lado houve avan&ccedil;os na integra&ccedil;&atilde;o continental com a volta de um projeto latinoamericano de unidade, por outro se observa o aprofundamento da ofensiva de grandes&nbsp;corpora&ccedil;&otilde;es transnacionais no continente.</p>
+A Am&eacute;rica Latina passa por um momento complexo. Se por um lado houve avan&ccedil;os na integra&ccedil;&atilde;o continental com a volta de um projeto latinoamericano de unidade, por outro se observa o aprofundamento da ofensiva de grandes corpora&ccedil;&otilde;es transnacionais no continente.</p>
 
 <p><br />
-&Eacute; sob este paradoxo que mais de 1000 delegados de toda a Am&eacute;rica Latina e Caribe se re&uacute;nem na cidade de Buenos Aires, na Argentina, durante o VI Congresso Continental da Coordena&ccedil;&atilde;o&nbsp;Latinoamerica das Organiza&ccedil;&otilde;es do Campo (Cloc), entre os dias 14 a 17 de abril.</p>
+&Eacute; sob este paradoxo que mais de 1000 delegados de toda a Am&eacute;rica Latina e Caribe se re&uacute;nem na cidade de Buenos Aires, na Argentina, durante o VI Congresso Continental da Coordena&ccedil;&atilde;o Latinoamerica das Organiza&ccedil;&otilde;es do Campo (Cloc), entre os dias 14 a 17 de abril.</p>
 
 <p><br />
 O objetivo &eacute; debater a conjuntura agr&aacute;ria e pol&iacute;tica do continente, e buscar construir uma perspectiva comum que delineie as a&ccedil;&otilde;es das organiza&ccedil;&otilde;es populares para o pr&oacute;ximo per&iacute;odo.</p>
@@ -60,10 +65,8 @@ Nos dias que antecedem o Congresso, cerca de 400 jovens realizam a 4&deg; Assemb
 <p><br />
 Para o argentino Diego Mort&oacute;n, da Secretaria Operativa da Cloc, &eacute; preciso &ldquo;atualizarmos nosso olhar, nossos planos de a&ccedil;&atilde;o e aprofundar o di&aacute;logo com outros setores da sociedade para fazermos um diagn&oacute;stico da realidade e definirmos quais caminhos seguir&rdquo;.</p>
 
-<p>&nbsp;</p>
-
-<div><br />
-Para ele, este novo momento exige uma forte articula&ccedil;&atilde;o entre campo e cidade para enfrentar uma crise que n&atilde;o &eacute; somente pol&iacute;tica e econ&ocirc;mica, mas tamb&eacute;m clim&aacute;tica, ambiental e alimentar.</div>
+<p><br />
+Para ele, este novo momento exige uma forte articula&ccedil;&atilde;o entre campo e cidade para enfrentar uma crise que n&atilde;o &eacute; somente pol&iacute;tica e econ&ocirc;mica, mas tamb&eacute;m clim&aacute;tica, ambiental e alimentar.</p>
 
 <p><br />
 &ldquo;Mais de 1 bilh&atilde;o de pessoas passam fome no mundo. Sob este contexto precisamos trabalhar a sa&iacute;da desta crise&rdquo;, apontou Mort&oacute;n.</p>
@@ -90,7 +93,7 @@ Um relat&oacute;rio divulgado no ano passado pelo Grupo ETC - organiza&ccedil;&a
 <strong>Sa&iacute;da da crise</strong></p>
 
 <p><br />
-H&aacute; pouco mais de 20 anos surgia a Cloc, enquanto um instrumento de articula&ccedil;&atilde;o entre&nbsp;as organiza&ccedil;&otilde;es populares do campo da Am&eacute;rica Latina para fazer frente ao avan&ccedil;o das pol&iacute;ticas neoliberais nos anos de 1990.</p>
+H&aacute; pouco mais de 20 anos surgia a Cloc, enquanto um instrumento de articula&ccedil;&atilde;o entre as organiza&ccedil;&otilde;es populares do campo da Am&eacute;rica Latina para fazer frente ao avan&ccedil;o das pol&iacute;ticas neoliberais nos anos de 1990.</p>
 
 <p><br />
 Com o passar do tempo, junto a resist&ecirc;ncia camponesa frente a ofensiva do agroneg&oacute;cio, tamb&eacute;m foi se forjando propostas e alternativas para se contornar a crise mundial.</p>
@@ -99,4 +102,4 @@ Com o passar do tempo, junto a resist&ecirc;ncia camponesa frente a ofensiva do 
 &ldquo;Originalmente a luta pela terra tem sido um elemento concreto. Depois fomos construindo uma proposta de soberania alimentar, que tem a ver com o direito dos povos de decidir o que produzir, como produzir e como distribuir os alimentos&rdquo;, apontou Mort&oacute;n.&nbsp;</p>
 
 <p><br />
-Segundo o argentino, &ldquo;seguimos insistindo que nosso projeto &eacute; a soberania alimentar, a agroecologia, com a produ&ccedil;&atilde;o e com a vida campesina. E isso n&atilde;o &eacute; poss&iacute;vel sem uma Reforma Agr&aacute;ria integral, que n&atilde;o se resume mais em apenas distribuir terra para quem nela trabalha, mas em se pensar uma outra maneira de se produzir no campo&rdquo;.</p>
+Segundo o argentino, &ldquo;seguimos insistindo que nosso projeto &eacute; a soberania alimentar, a agroecologia, com a produ&ccedil;&atilde;o e com a vida campesina. E isso n&atilde;o &eacute; poss&iacute;vel sem uma Reforma Agr&aacute;ria integral, que n&atilde;o se resume mais em apenas distribuir terra para quem nela trabalha, mas em se pensar uma outra maneira de se produzir no campo&rdquo;</p>
