@@ -56,7 +56,7 @@ Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
-<p>A Jornada de lutas de 2015 ser&aacute; realizada dentro de um contexto de estagna&ccedil;&atilde;o da Reforma Agr&aacute;ria. O atual governo segue com sua pol&iacute;tica que prioriza o agroneg&oacute;cio, se consolidando como um dos que menos realizou desapropria&ccedil;&otilde;es de terras: em 2013, apenas 100 &aacute;reas foram desapropriadas.</p>
+<p>A Jornada de lutas de 2015, que ser&aacute; realizada ao longo do m&ecirc;s de abril em todo pa&iacute;s, se dar&aacute; dentro de um contexto de estagna&ccedil;&atilde;o da Reforma Agr&aacute;ria. O atual governo segue com sua pol&iacute;tica que prioriza o agroneg&oacute;cio, se consolidando como um dos que menos realizou desapropria&ccedil;&otilde;es de terras: em 2013, apenas 100 &aacute;reas foram desapropriadas.</p>
 
 <p>&nbsp;</p>
 
