@@ -16,6 +16,12 @@ files:
     small: "http://farm8.staticflickr.com/7632/16905926949_29a31bca93_n.jpg"
     title: congreso cloc.jpg
     $$hashKey: 093
+  - link: "http://farm9.staticflickr.com/8705/17066211506_2a0db936bf_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8705/17066211506_2a0db936bf_t.jpg"
+    medium: "http://farm9.staticflickr.com/8705/17066211506_2a0db936bf_z.jpg"
+    small: "http://farm9.staticflickr.com/8705/17066211506_2a0db936bf_n.jpg"
+    title: "congreso cloc!.jpg"
+    $$hashKey: 05J
 created_date: "2015-04-09T18:07:46-03:00"
 published: true
 images_hd: "http://farm8.staticflickr.com/7632/16905926949_29a31bca93_n.jpg"
@@ -26,13 +32,15 @@ releated_posts:
   - 2015/04/2015-04-01-nao-havera-golpe-nesse-pais-sem-resistencia-nossos-movimentos-nao-formaram-covardes-afirma-gilmar-mauro.md
 
 ---
-<p><img alt="congreso cloc.jpg" src="http://farm8.staticflickr.com/7632/16905926949_29a31bca93_b.jpg" /></p>
+<figure class="image" style="float:right"><img alt="congreso cloc!.jpg" src="http://farm9.staticflickr.com/8705/17066211506_2a0db936bf_b.jpg" />
+<figcaption></figcaption>
+</figure>
 
 <p><em>Por Luiz Felipe Albuquerque<br />
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
-A Am&eacute;rica Latina passa por um momento complexo. Se por um lado houve avan&ccedil;os na integra&ccedil;&atilde;o continental com a volta de um projeto latinoamericano de unidade, por outro observa-se o aprofundamento da ofensiva das corpora&ccedil;&otilde;es transnacionais no continente.</p>
+A Am&eacute;rica Latina passa por um momento complexo. Se por um lado houve avan&ccedil;os na integra&ccedil;&atilde;o continental com a volta de um projeto latinoamericano de unidade, por outro se observa o aprofundamento da ofensiva de grandes&nbsp;corpora&ccedil;&otilde;es transnacionais no continente.</p>
 
 <p><br />
 &Eacute; sob este paradoxo que mais de 1000 delegados de toda a Am&eacute;rica Latina e Caribe se re&uacute;nem na cidade de Buenos Aires, na Argentina, durante o VI Congresso Continental da Coordena&ccedil;&atilde;o&nbsp;Latinoamerica das Organiza&ccedil;&otilde;es do Campo (Cloc), entre os dias 14 a 17 de abril.</p>
@@ -62,7 +70,7 @@ A chilena Soldad Alvear,da Conaproch, atenta para a ferocidade do extrativismo d
 Passamos por um momento complexo, em que organismos internacionais como o Banco Mundial, junto &agrave;s multinacionais do agroneg&oacute;cio, colocam cada vez mais condi&ccedil;&otilde;es para o uso das sementes&rdquo;, disse.</p>
 
 <p><br />
-&ldquo;As sementes s&atilde;o parte do que somos, do que fazemos. &Eacute; um elemento que sempre esteve presente ente n&oacute;s, mas agora querem ser dono delas&rdquo;, destaca Alvear.</p>
+&ldquo;As sementes s&atilde;o parte do que somos, do que fazemos. &Eacute; um elemento que sempre esteve presente ente n&oacute;s, mas agora querem ser donos delas&rdquo;, destaca Alvear.</p>
 
 <p><br />
 Um relat&oacute;rio divulgado no ano passado pelo Grupo ETC - organiza&ccedil;&atilde;o socioambientalista internacional que atua no setor de biotecnologia e monitora o mercado de transg&ecirc;nicos - revelou que as seis maiores empresas, apelidadas de &ldquo;Gene Giants&rdquo; (Gigantes da Gen&eacute;tica), controlam atualmente 59,8% do mercado mundial de sementes comerciais e 76,1% do mercado de agroqu&iacute;micos, al&eacute;m de serem respons&aacute;veis por 76% de todo o investimento privado no setor.</p>
@@ -71,7 +79,9 @@ Um relat&oacute;rio divulgado no ano passado pelo Grupo ETC - organiza&ccedil;&a
 <strong>Sa&iacute;da da crise</strong></p>
 
 <p><br />
-H&aacute; pouco mais de 20 anos surgia a Cloc, enquanto um instrumento de articular as organiza&ccedil;&otilde;es populares do campo da Am&eacute;rica Latina para fazer frente ao avan&ccedil;o das pol&iacute;ticas neoliberais nos anos de 1990.<br />
+H&aacute; pouco mais de 20 anos surgia a Cloc, enquanto um instrumento de articula&ccedil;&atilde;o entre&nbsp;as organiza&ccedil;&otilde;es populares do campo da Am&eacute;rica Latina para fazer frente ao avan&ccedil;o das pol&iacute;ticas neoliberais nos anos de 1990.</p>
+
+<p><br />
 Com o passar do tempo, junto a resist&ecirc;ncia camponesa frente a ofensiva do agroneg&oacute;cio, tamb&eacute;m foi se forjando propostas e alternativas para se contornar a crise mundial.</p>
 
 <p><br />
@@ -81,6 +91,6 @@ Com o passar do tempo, junto a resist&ecirc;ncia camponesa frente a ofensiva do 
 Segundo o argentino, &ldquo;seguimos insistindo que nosso projeto &eacute; a soberania alimentar, a agroecologia, com a produ&ccedil;&atilde;o e com a vida campesina. E isso n&atilde;o &eacute; poss&iacute;vel sem uma Reforma Agr&aacute;ria integral, que n&atilde;o se resume mais em apenas distribuir terra para quem nela trabalha, mas em se pensar uma outra maneira de se produzir no campo&rdquo;.</p>
 
 <p><br />
-Entre os dias 10 e 11 de mar&ccedil;o, acontece a 4&deg; Assembleia da Juventude da Cloc, em que mais de 400 jovens de diversos pa&iacute;ses debatem esta conjuntura e a inser&ccedil;&atilde;o da juventude neste processo. E entre os dias 12 e 13, as mulheres realizam a 5&deg; Assembleia das Mulheres camponesas.</p>
+Entre os dias 10 e 11 de mar&ccedil;o, acontece a 4&deg; Assembleia da Juventude da Cloc, em que mais de 400 jovens de diversos pa&iacute;ses debatem a conjuntura e a inser&ccedil;&atilde;o da juventude neste processo. E entre os dias 12 e 13, as mulheres realizam a 5&deg; Assembleia das Mulheres camponesas.</p>
 
 <p>&nbsp;</p>
