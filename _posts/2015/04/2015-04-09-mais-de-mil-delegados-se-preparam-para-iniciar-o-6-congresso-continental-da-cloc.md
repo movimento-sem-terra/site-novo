@@ -54,14 +54,16 @@ A Am&eacute;rica Latina passa por um momento complexo. Se por um lado houve avan
 <p><br />
 O objetivo &eacute; debater a conjuntura agr&aacute;ria e pol&iacute;tica do continente, e buscar construir uma perspectiva comum que delineie as a&ccedil;&otilde;es das organiza&ccedil;&otilde;es populares para o pr&oacute;ximo per&iacute;odo.</p>
 
-<div><br />
-Nos dias que antecedem o Congresso, cerca de 400 jovens realizam&nbsp;a 4&deg; Assembleia da Juventude, e<span style="line-height: 20.7999992370605px;">ntre os dias 10 e 11 de abril, ao</span>&nbsp;debaterem a conjuntura latinoamericano&nbsp;e sua inser&ccedil;&atilde;o&nbsp;neste processo. E entre os dias 12 e 13, ser&aacute; a vez das&nbsp;camponesas realizarem a 5&deg; Assembleia das Mulheres.</div>
+<p><br />
+Nos dias que antecedem o Congresso, cerca de 400 jovens realizam a 4&deg; Assembleia da Juventude, entre os dias 10 e 11 de abril, ao debaterem a conjuntura latinoamericano e sua inser&ccedil;&atilde;o neste processo. E entre os dias 12 e 13, ser&aacute; a vez das camponesas realizarem a 5&deg; Assembleia das Mulheres.&nbsp;</p>
 
 <p><br />
 Para o argentino Diego Mort&oacute;n, da Secretaria Operativa da Cloc, &eacute; preciso &ldquo;atualizarmos nosso olhar, nossos planos de a&ccedil;&atilde;o e aprofundar o di&aacute;logo com outros setores da sociedade para fazermos um diagn&oacute;stico da realidade e definirmos quais caminhos seguir&rdquo;.</p>
 
-<p><br />
-Para ele, este novo momento exige uma forte articula&ccedil;&atilde;o entre campo e cidade para enfrentar uma crise que n&atilde;o &eacute; somente pol&iacute;tica e econ&ocirc;mica, mas tamb&eacute;m clim&aacute;tica, ambiental e alimentar.</p>
+<p>&nbsp;</p>
+
+<div><br />
+Para ele, este novo momento exige uma forte articula&ccedil;&atilde;o entre campo e cidade para enfrentar uma crise que n&atilde;o &eacute; somente pol&iacute;tica e econ&ocirc;mica, mas tamb&eacute;m clim&aacute;tica, ambiental e alimentar.</div>
 
 <p><br />
 &ldquo;Mais de 1 bilh&atilde;o de pessoas passam fome no mundo. Sob este contexto precisamos trabalhar a sa&iacute;da desta crise&rdquo;, apontou Mort&oacute;n.</p>
