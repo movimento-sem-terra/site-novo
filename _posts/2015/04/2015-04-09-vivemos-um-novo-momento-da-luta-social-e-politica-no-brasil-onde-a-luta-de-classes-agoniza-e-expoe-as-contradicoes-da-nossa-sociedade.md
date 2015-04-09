@@ -86,7 +86,7 @@ Para o agroneg&oacute;cio se disponibilizou R$ 136 bilh&otilde;es, ou seja, dez 
 <p><strong>Quais ser&atilde;o as principais bandeiras de luta da Jornada de abril deste<br />
 ano?</strong></p>
 
-<figure class="image" style="float:right"><img alt="maxresdefault.jpg" height="259" src="http://farm8.staticflickr.com/7587/17065028996_31031ea1af_b.jpg" width="400" />
+<figure class="image" style="float:right"><img alt="Índice.jpg" height="266" src="http://farm9.staticflickr.com/8692/17090524625_c4bffcc9a3_b.jpg" width="400" />
 <figcaption></figcaption>
 </figure>
 
@@ -110,13 +110,13 @@ ano?</strong></p>
 
 <p><strong>Ano a ano, o numero de novas fam&iacute;lias assentadas vem caindo. O governo anuncia mais de 100 mil fam&iacute;lias assentadas entre 2011 e 2014. Por&eacute;m, um estudo do Gerson Teixeira demonstrou que apenas 27% dessas fam&iacute;lias s&atilde;o de fato projetos de assentamentos do per&iacute;odo 2011/14, e que apenas 19% destes ocorreram por meio da desapropria&ccedil;&atilde;o de terras, instrumento que de fato altera a estrutura fundi&aacute;ria. Ao mesmo tempo, dados do Incra revelam que neste mesmo per&iacute;odo seis milh&otilde;es de hectares passaram para as m&atilde;os dos grandes propriet&aacute;rios, e ainda temos 175 milh&otilde;es de hectares improdutivos. Como voc&ecirc; analisa essas informa&ccedil;&otilde;es?</strong></p>
 
-<figure class="image" style="float:left"><img alt="MST.jpg" height="277" src="http://farm9.staticflickr.com/8716/17064964726_966d9fe754_b.jpg" width="400" />
-<figcaption></figcaption>
-</figure>
-
 <p>Estes dados refletem o que o nosso Movimento tem dito nos &uacute;ltimos anos em rela&ccedil;&atilde;o &agrave; paralisia da Reforma Agr&aacute;ria e ao avan&ccedil;o do capital financeiro na agricultura brasileira, atrav&eacute;s das empresas transnacionais. E por mais que se tente inflar o n&uacute;mero de fam&iacute;lias assentadas a realidade contradiz isso, pois os acampamentos seguem sendo montados, o numero de fam&iacute;lias acampadas crescem, pois para muitos brasileiros a Reforma Agr&aacute;ria com a garantia de terra para trabalhar e viver e construir um modelo alternativo ao agroneg&oacute;cio com a reforma agr&aacute;ria popular &eacute; a &uacute;nica possibilidade de vida digna com trabalho, educa&ccedil;&atilde;o, moradia, produ&ccedil;&atilde;o de alimentos saud&aacute;veis.</p>
 
-<p>&nbsp;</p>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="MST.jpg" height="415" src="http://farm9.staticflickr.com/8716/17064964726_966d9fe754_b.jpg" width="600" />
+<figcaption></figcaption>
+</figure>
+</div>
 
 <p><strong>Temos o congresso mais conservador desde o per&iacute;odo da redemocratiza&ccedil;&atilde;o do pa&iacute;s. E a maior bancada deste congresso &eacute; justamente a que se relaciona diretamente aos movimentos do campo: a bancada ruralista. Diante disso, quais as expectativas para as conquistas e retrocessos que podem ocorrer tendo em vista essa realidade? E como enfrentar tamanho conservadorismo?</strong></p>
 
