@@ -30,6 +30,12 @@ files:
     small: "http://farm9.staticflickr.com/8716/17064964726_966d9fe754_n.jpg"
     title: MST.jpg
     $$hashKey: "064"
+  - link: "http://farm8.staticflickr.com/7587/17065028996_31031ea1af_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7587/17065028996_31031ea1af_t.jpg"
+    medium: "http://farm8.staticflickr.com/7587/17065028996_31031ea1af_z.jpg"
+    small: "http://farm8.staticflickr.com/7587/17065028996_31031ea1af_n.jpg"
+    title: maxresdefault.jpg
+    $$hashKey: "066"
 created_date: "2015-04-09T14:58:47-03:00"
 published: true
 images_hd: "http://farm9.staticflickr.com/8784/16904250529_5b095d6ce1_n.jpg"
@@ -80,7 +86,7 @@ Para o agroneg&oacute;cio se disponibilizou R$ 136 bilh&otilde;es, ou seja, dez 
 <p><strong>Quais ser&atilde;o as principais bandeiras de luta da Jornada de abril deste<br />
 ano?</strong></p>
 
-<figure class="image" style="float:right"><img alt="Índice.jpg" src="http://farm9.staticflickr.com/8692/17090524625_c4bffcc9a3_b.jpg" />
+<figure class="image" style="float:right"><img alt="maxresdefault.jpg" height="259" src="http://farm8.staticflickr.com/7587/17065028996_31031ea1af_b.jpg" width="400" />
 <figcaption></figcaption>
 </figure>
 
