@@ -42,6 +42,7 @@ releated_posts:
   - 2015/01/2014-12-23-agrotoxicos-o-lucro-que-mata-a-terra-e-quem-dela-vive.md
   - 2015/02/2015-02-18-monsanto-25-doencas-que-podem-ser-causadas-pelo-agrotoxico-glifosato.md
   - 2015/03/2015-03-31-comer-alimentos-com-agrotoxico-diminui-quantidade-de-esperma-diz-estudo.md
+section: featured-news
 
 ---
 <p><img alt="agro03.jpg" src="http://farm9.staticflickr.com/8693/16431066024_3ecc5f17fa_b.jpg" /><br />
@@ -71,10 +72,12 @@ No ano passado, a Embrapa deixou dispon&iacute;vel na internet um estudo realiza
 <p><br />
 Muito se fala sobre como o Brasil disputa a lideran&ccedil;a no mercado mundial de soja. O que n&atilde;o se fala tanto &eacute; sobre como essa cultura lidera o uso de defensivos agr&iacute;colas no pa&iacute;s. Um bastante aplicado para limpar terrenos antes do cultivo &eacute; o herbicida 2,4-D. Trata-se de um dos componentes do agente laranja, utilizado pelos Estados Unidos na Guerra do Vietn&atilde;. O herbicida &eacute; proibido em pa&iacute;ses como a Su&eacute;cia, a Noruega, a Dinamarca, em v&aacute;rios estados do Canad&aacute; e os Estados Unidos v&ecirc;m discutindo o seu banimento tamb&eacute;m. Aqui &eacute; liberado. E ele &eacute; apenas um.</p>
 
-<p>&nbsp;
+<p>&nbsp;</p>
+
 <p><br />
 Em nosso pa&iacute;s temos mais de 400 tipos de agrot&oacute;xicos registrados. Entre eles, pelo menos 14 venenos proibidos no resto do mundo acabam sendo desovados por aqui e t&ecirc;m permiss&atilde;o para o com&eacute;rcio. Na Uni&atilde;o Europeia e Estados Unidos, s&atilde;o considerados lixos t&oacute;xicos. No Brasil manuseamos, respiramos, bebemos e comemos. Alguns a gente at&eacute; pro&iacute;be, mas a venda e o uso ilegal correm soltos pelo campo frente a uma fiscaliza&ccedil;&atilde;o falha. E, das subst&acirc;ncias permitidas, em in&uacute;meros casos s&atilde;o aplicadas quantidades acima dos limites aceit&aacute;veis. At&eacute; porque h&aacute; um mito entre produtores rurais de que, quanto maiores as doses, mais tempo a lavoura fica livre de pragas. Mas parece que esse controle se tornou ele pr&oacute;prio a maior praga. Porque os impactos na sa&uacute;de p&uacute;blica s&atilde;o evidentes.</p>
-</p>
+
+<p>&nbsp;</p>
 
 <p><br />
 A cada 90 minutos, um brasileiro &eacute; envenenado em decorr&ecirc;ncia do uso de agrot&oacute;xicos no pa&iacute;s. E isso s&atilde;o apenas os casos notificados ao sistema de sa&uacute;de. &Eacute; uma epidemia de intoxica&ccedil;&otilde;es agudas, com direito a dores de cabe&ccedil;a, v&ocirc;mitos, infec&ccedil;&atilde;o urin&aacute;ria, alergias. O uso de agrot&oacute;xicos &eacute; uma pr&aacute;tica t&atilde;o deliberada, inconsequente e sem controle que chegamos ao absurdo de epis&oacute;dios como esse, onde um avi&atilde;o simplesmente despejou sua carga do inseticida engeo pleno em cima de uma escola, hospitalizando funcion&aacute;rios e dezenas de crian&ccedil;as. Ali&aacute;s, a pr&aacute;tica da pulveriza&ccedil;&atilde;o a&eacute;rea foi proibida pela Uni&atilde;o Europeia l&aacute; em 2009, dada sua baixa efici&ecirc;ncia e riscos ambientais. Por aqui, apesar da press&atilde;o dos movimentos sociais, a discuss&atilde;o sobre proibi&ccedil;&atilde;o da pulveriza&ccedil;&atilde;o a&eacute;rea est&aacute; nesse n&iacute;vel aqui.</p>
