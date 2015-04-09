@@ -6,7 +6,7 @@ tags:
   - tag: reforma-política
   - tag: Jornada-de-Lutas-abril-2015
   - tag: mobilizações
-title: "\"Vivemos um novo momento da luta social e política no Brasil, onde a luta de classes agoniza e expõe as contradições da nossa sociedade''"
+title: "\"Vivemos um momento da luta social em que a luta de classes expõe as contradições da nossa sociedade''"
 support_line: A Jornada desse ano traz como tema central a paralisação da Reforma Agrária promovida pelo atual governo.
 menu: lutas e mobilizações
 section: featured-news
