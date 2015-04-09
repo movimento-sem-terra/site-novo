@@ -22,9 +22,15 @@ files:
     small: "http://farm9.staticflickr.com/8705/17066211506_2a0db936bf_n.jpg"
     title: "congreso cloc!.jpg"
     $$hashKey: 05J
+  - link: "http://farm9.staticflickr.com/8775/17091558201_0905924fc6_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8775/17091558201_0905924fc6_t.jpg"
+    medium: "http://farm9.staticflickr.com/8775/17091558201_0905924fc6_z.jpg"
+    small: "http://farm9.staticflickr.com/8775/17091558201_0905924fc6_n.jpg"
+    title: mapa.jpg
+    $$hashKey: 0AW
 created_date: "2015-04-09T18:07:46-03:00"
 published: true
-images_hd: "http://farm8.staticflickr.com/7632/16905926949_29a31bca93_n.jpg"
+images_hd: "http://farm9.staticflickr.com/8775/17091558201_0905924fc6_n.jpg"
 releated_posts:
   - 2015/03/2015-03-19-expansao-do-agronegocio-criminaliza-movimentos-sociais-no-paraguai.md
   - 2015/03/2015-03-20-o-brasil-tem-de-saber-que-a-agroecologia-e-possivel-afirma-dilma-rousseff.md
