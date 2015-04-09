@@ -27,40 +27,29 @@ releated_posts:
   - 2015/02/2015-02-18-monocultivo-de-eucalipto-parece-uma-floresta-mas-nao-e.md
 
 ---
-<p>&nbsp;</p>
+<p><br />
+<em>Da P&aacute;gina do MST</em></p>
 
-<p><em>Da P&aacute;gina do MST</em></p>
+<p><br />
+A Comiss&atilde;o T&eacute;cnica Nacional de Biosseguran&ccedil;a (CTNBio) aprovou hoje (9), a libera&ccedil;&atilde;o do plantio comercial do eucalipto transg&ecirc;nico produzido pela empresa de biotecnologia FuturaGene, que pertence ao grupo Suzano Papel e Celulose.</p>
 
-<p>&nbsp;</p>
+<p><br />
+A libera&ccedil;&atilde;o foi aprovada pela comiss&atilde;o do Minist&eacute;rio da Ci&ecirc;ncia, Tecnologia e Inova&ccedil;&atilde;o (MCTI) em uma reuni&atilde;o a portas fechadas, por 18 votos favor&aacute;veis e tr&ecirc;s contr&aacute;rios.</p>
 
-<p>A Comiss&atilde;o T&eacute;cnica Nacional de Biosseguran&ccedil;a (CTNBio) aprovou hoje (9), a libera&ccedil;&atilde;o do plantio comercial do eucalipto transg&ecirc;nico produzido pela empresa de biotecnologia FuturaGene, que pertence ao grupo Suzano Papel e Celulose.</p>
+<p><br />
+Em recente entrevista ao MST, o integrante da CTNBio e professor da Universidade de S&atilde;o Paulo, Paulo Kageyama, <a href="http://www.mst.org.br/2015/04/01/apenas-um-mes-depois-ctnbio-pretende-votar-liberacao-de-eucalipto-transgenico.html">alertou sobre os malef&iacute;cios que a medida causar&aacute; ao meio ambiente e a sa&uacute;de dos brasileiros</a>.</p>
 
-<p>&nbsp;</p>
+<p><br />
+Para ele a busca pela primazia do dom&iacute;nio financeiro &eacute; que faz com que medidas como essa<span style="line-height: 20.7999992370605px;">&nbsp;sejam tomadas a todo custo, mesmo</span>&nbsp;com claros&nbsp;impactos catastr&oacute;ficos ao meio ambiente e &agrave; popula&ccedil;&atilde;o.</p>
 
-<p>A libera&ccedil;&atilde;o foi aprovada pela comiss&atilde;o do Minist&eacute;rio da Ci&ecirc;ncia, Tecnologia e Inova&ccedil;&atilde;o (MCTI) em uma reuni&atilde;o a portas fechadas, por 18 votos favor&aacute;veis e tr&ecirc;s contr&aacute;rios.</p>
+<p><br />
+&quot;Temos muitas cr&iacute;ticas a esse processo tecnol&oacute;gico, que n&atilde;o traz benef&iacute;cios &agrave; comunidade como um todo, &agrave; pr&oacute;pria eucaliptocultura, aos produtores de mel e etc. Muitas empresas do setor j&aacute; reconheceram que essa &eacute; uma libera&ccedil;&atilde;o prematura. A &uacute;nica grande interessada e justamente a &uacute;nica empresa beneficiada por esse processo &eacute; a FuturaGene/Suzano&quot;, disse.</p>
 
-<p>&nbsp;</p>
+<p><br />
+O aumento no uso de agrot&oacute;xicos no Brasil, o maior consumidor de veneno do mundo, tamb&eacute;m preocupa o especialista.</p>
 
-<p>Em recente entrevista ao MST, o integrante da CTNBio e professor da Universidade de S&atilde;o Paulo, Paulo Kageyama, <a href="http://www.mst.org.br/2015/04/01/apenas-um-mes-depois-ctnbio-pretende-votar-liberacao-de-eucalipto-transgenico.html">alertou sobre os malef&iacute;cios que a medida causar&aacute; ao meio ambiente e a sa&uacute;de dos brasileiros</a>.</p>
+<p><br />
+&ldquo;Em uma planta&ccedil;&atilde;o de eucaliptos quase n&atilde;o se encontra biodiversidade. N&atilde;o h&aacute; sobrevida de insetos, animais.S&atilde;o usados em grande escala agrot&oacute;xicos &agrave; base de glifosato e de sulfluramida. Com o aumento em grande escala do monocultivo, mais o decr&eacute;scimo no tempo de produ&ccedil;&atilde;o, o aumento na utiliza&ccedil;&atilde;o de agrot&oacute;xicos &eacute; evidente, afirma Kageyama.</p>
 
-<p>&nbsp;</p>
-
-<p>Para ele a busca pela primazia do dom&iacute;nio financeiro &eacute; que o faz com medidas como esse que trar&atilde;o impactos catastr&oacute;ficos ao meio ambiente e na popula&ccedil;&atilde;o sejam tomadas a todo custo.</p>
-
-<p>&nbsp;</p>
-
-<p>&quot;Temos muitas criticas a esse processo tecnol&oacute;gico, que n&atilde;o traz benef&iacute;cios &agrave; comunidade como um todo, &agrave; pr&oacute;pria eucaliptocultura, aos produtores de mel e etc. Muitas empresas do setor j&aacute; reconheceram que essa &eacute; uma libera&ccedil;&atilde;o prematura. A &uacute;nica grande interessada e justamente a &uacute;nica empresa beneficiada por esse processo &eacute; a FuturaGene/Suzano&quot;, diz.</p>
-
-<p>&nbsp;</p>
-
-<p>O aumento no uso de agrot&oacute;xicos no Brasil que &eacute; o maior consumidor de veneno do mundo, tamb&eacute;m preocupa o especialista.</p>
-
-<p>&nbsp;</p>
-
-<p>&ldquo;Em uma planta&ccedil;&atilde;o de eucaliptos quase n&atilde;o se encontra biodiversidade. N&atilde;o h&aacute; sobrevida de insetos, animais.S&atilde;o usados em grande escala agrot&oacute;xicos &agrave; base de glifosato e de sulfluramida. Com o aumento em grande escala do monocultivo, mais o decr&eacute;scimo no tempo de produ&ccedil;&atilde;o, o aumento na utiliza&ccedil;&atilde;o de agrot&oacute;xicos &eacute; evidente, afirma Kageyama.</p>
-
-<p>&nbsp;</p>
-
-<p>A esp&eacute;cie geneticamente modificada tamb&eacute;m vai impactar os pequenos produtores de mel org&acirc;nico, cultura que n&atilde;o admite transg&ecirc;nicos. A maioria dos produtores de mel &eacute; da agricultura familiar e poder&aacute; perder selos que reconhecem os alimentos como org&acirc;nicos e que agregam valor aos produtos.</p>
-
-<p>&nbsp;</p>
+<p><br />
+A esp&eacute;cie geneticamente modificada tamb&eacute;m vai impactar os pequenos produtores de mel org&acirc;nico, cultura que n&atilde;o admite transg&ecirc;nicos. A maioria dos produtores de mel &eacute; da agricultura familiar e poder&aacute; perder selos que reconhecem os alimentos como org&acirc;nicos e que agregam valor aos produtos.</p>
