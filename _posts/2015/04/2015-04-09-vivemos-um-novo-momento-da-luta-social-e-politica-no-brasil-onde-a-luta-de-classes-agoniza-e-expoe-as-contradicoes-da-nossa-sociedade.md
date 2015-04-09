@@ -9,7 +9,7 @@ tags:
 title: Sem-Terra vão às ruas na Jornada de Lutas pela Reforma Agrária 2015
 support_line: Um dos temas centrais deste ano é a paralisação da Reforma Agrária promovida pelo atual governo.
 menu: lutas e mobilizações
-section: featured-news
+section: cover
 layout: post
 files:
   - link: "http://farm9.staticflickr.com/8784/16904250529_5b095d6ce1_b.jpg"
@@ -49,7 +49,7 @@ releated_posts:
   - 2014/12/2014-11-03-nesta-terca-movimentos-se-mobilizam-em-defesa-do-plebiscito-oficial-pela-constituinte.md
 
 ---
-<p>&nbsp;</p>
+<p><img alt="11_58_23_189_file.jpeg" src="http://farm9.staticflickr.com/8784/16904250529_5b095d6ce1_b.jpg" /></p>
 
 <p><em>Por Maura Silva<br />
 Da P&aacute;gina do MST</em></p>
