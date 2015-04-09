@@ -75,16 +75,30 @@ Para ele, uma das principais causas desta problem&aacute;tica estaria no avan&cc
 &ldquo;Um modelo em que 60% a 70% da renda fica com as empresas transnacionais, evidentemente n&atilde;o &eacute; um modelo t&atilde;o eficiente como se apresenta, nem um projeto de na&ccedil;&atilde;o que pense primeiro em seu povo&rdquo;.</p>
 
 <p><br />
+<strong>Extrativismo</strong></p>
+
+<p><br />
+A dominicana Juana Ferrer, da&nbsp;CONAMUCA,&nbsp;salientou que a cultura campesina vem sendo sufocada pelo modelo neoliberal, que tem aprofundado as desigualdades sociais entre homens e mulheres.</p>
+
+<p><br />
+Seg&uacute;n Ferrer, a aspira&ccedil;&atilde;o de uma constru&ccedil;&atilde;o de uma sociedade mais justa que leve a realiza&ccedil;&atilde;o de um projeto social diferente ao atual &eacute; um dos objetivos deste 6&deg; Congresso.</p>
+
+<p><br />
 A chilena Soldad Alvear,da Conaproch, atenta para a ferocidade do extrativismo dos recursos naturais realizado pelas grandes corpora&ccedil;&otilde;es no continente, e destaca o caso das sementes transg&ecirc;nicas.</p>
 
 <p><br />
-Passamos por um momento complexo, em que organismos internacionais como o Banco Mundial, junto &agrave;s multinacionais do agroneg&oacute;cio, colocam cada vez mais condi&ccedil;&otilde;es para o uso das sementes&rdquo;, disse.</p>
+&quot;Passamos por um momento complexo, em que organismos internacionais como o Banco Mundial, junto &agrave;s multinacionais do agroneg&oacute;cio, colocam cada vez mais condi&ccedil;&otilde;es para o uso das sementes&rdquo;, disse.</p>
 
 <p><br />
 &ldquo;As sementes s&atilde;o parte do que somos, do que fazemos. &Eacute; um elemento que sempre esteve presente ente n&oacute;s, mas agora querem ser donos delas&rdquo;, destaca Alvear.</p>
 
 <p><br />
 Um relat&oacute;rio divulgado no ano passado pelo Grupo ETC - organiza&ccedil;&atilde;o socioambientalista internacional que atua no setor de biotecnologia e monitora o mercado de transg&ecirc;nicos - revelou que as seis maiores empresas, apelidadas de &ldquo;Gene Giants&rdquo; (Gigantes da Gen&eacute;tica), controlam atualmente 59,8% do mercado mundial de sementes comerciais e 76,1% do mercado de agroqu&iacute;micos, al&eacute;m de serem respons&aacute;veis por 76% de todo o investimento privado no setor.</p>
+
+<p><br />
+Para Jos&eacute; Cuellar, de Argentina e membro da equipe de forma&ccedil;&atilde;o de jovens da CLOC V&iacute;a Campesina, ante a realidade que imp&otilde;e o neoliberalismo de enxergar os jovens, deve-se enfatizar a constru&ccedil;&atilde;o de consci&ecirc;ncia de que os jovens s&atilde;o tamb&eacute;m sujeitos pol&iacute;ticos e econ&ocirc;micos.</p>
+
+<p>&nbsp;</p>
 
 <p><br />
 <strong>Sa&iacute;da da crise</strong></p>
