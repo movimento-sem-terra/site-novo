@@ -6,7 +6,7 @@ tags:
   - tag: reforma-política
   - tag: Jornada-de-Lutas-abril-2015
   - tag: mobilizações
-title: SemTerra vão às ruas na Jornada de Lutas pela Reforma Agrária 2015
+title: Sem Terra vão às ruas na Jornada de Lutas pela Reforma Agrária 2015
 support_line: Um dos temas centrais deste ano é a paralisação da Reforma Agrária promovida pelo atual governo.
 menu: lutas e mobilizações
 section: cover
