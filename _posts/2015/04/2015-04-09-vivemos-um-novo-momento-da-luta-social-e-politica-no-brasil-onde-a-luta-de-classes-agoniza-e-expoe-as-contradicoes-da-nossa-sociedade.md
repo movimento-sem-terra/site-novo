@@ -6,7 +6,7 @@ tags:
   - tag: reforma-política
   - tag: Jornada-de-Lutas-abril-2015
   - tag: mobilizações
-title: Sem-Terra vão às ruas na Jornada de Lutas pela Reforma Agrária 2015
+title: SemTerra vão às ruas na Jornada de Lutas pela Reforma Agrária 2015
 support_line: Um dos temas centrais deste ano é a paralisação da Reforma Agrária promovida pelo atual governo.
 menu: lutas e mobilizações
 section: cover
@@ -122,7 +122,7 @@ ano?</strong></p>
 
 <p>Cen&aacute;rio e as condi&ccedil;&otilde;es colocadas nos levariam crer que as maiores possibilidades seriam de retrocesso, pois a correla&ccedil;&atilde;o de for&ccedil;as &eacute; bastante desfavor&aacute;vel para os camponeses. Contudo a bancada ruralista, financiada pelas empresas do agroneg&oacute;cio, por mais que invista contra o avan&ccedil;o da Reforma Agr&aacute;ria, na proposi&ccedil;&atilde;o de leis, projetos e a&ccedil;&otilde;es que desarticule a luta e as condi&ccedil;&otilde;es para mudan&ccedil;as estruturais no campo; confirma um cen&aacute;rio que vai al&eacute;m: as contradi&ccedil;&otilde;es que o modelo do agroneg&oacute;cio gera v&atilde;o sendo insustent&aacute;veis e afetam toda a sociedade.</p>
 
-<p>Por isso, n&oacute;s precisamos dialogar e construir alian&ccedil;as com a sociedade, para que o povo decida se quer continuar comendo alimentos envenenados que causam c&acirc;ncer e mata. Os desequil&iacute;brios ambientais, o desordenamento clim&aacute;tico, a crise da falta de &aacute;gua, os incha&ccedil;os nas cidades s&atilde;o quest&otilde;es que bate na porta de todo mundo, mas principalmente de quem est&aacute; na cidade. Precisamos deixar claro quem s&atilde;o os respons&aacute;veis por esta situa&ccedil;&atilde;o e assim termos o apoio da sociedade na luta dos trabalhadores e trabalhadoras Sem-Terra.</p>
+<p>Por isso, n&oacute;s precisamos dialogar e construir alian&ccedil;as com a sociedade, para que o povo decida se quer continuar comendo alimentos envenenados que causam c&acirc;ncer e mata. Os desequil&iacute;brios ambientais, o desordenamento clim&aacute;tico, a crise da falta de &aacute;gua, os incha&ccedil;os nas cidades s&atilde;o quest&otilde;es que bate na porta de todo mundo, mas principalmente de quem est&aacute; na cidade. Precisamos deixar claro quem s&atilde;o os respons&aacute;veis por esta situa&ccedil;&atilde;o e assim termos o apoio da sociedade na luta dos trabalhadores e trabalhadoras Sem Terra.</p>
 
 <p>&nbsp;</p>
 
