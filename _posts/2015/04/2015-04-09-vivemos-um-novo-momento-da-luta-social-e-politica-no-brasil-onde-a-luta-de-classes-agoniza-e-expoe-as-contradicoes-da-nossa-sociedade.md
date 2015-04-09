@@ -79,7 +79,7 @@ Para o agroneg&oacute;cio se disponibilizou R$ 136 bilh&otilde;es, ou seja, dez 
 
 <p>&nbsp;</p>
 
-<p><strong>Confira abaixo a entrevista</strong></p>
+<p><strong>Confira abaixo a entrevista:</strong></p>
 
 <p>&nbsp;</p>
 
@@ -115,6 +115,8 @@ ano?</strong></p>
 <figcaption></figcaption>
 </figure>
 </div>
+
+<p>&nbsp;</p>
 
 <p><strong>Temos o congresso mais conservador desde o per&iacute;odo da redemocratiza&ccedil;&atilde;o do pa&iacute;s. E a maior bancada deste congresso &eacute; justamente a que se relaciona diretamente aos movimentos do campo: a bancada ruralista. Diante disso, quais as expectativas para as conquistas e retrocessos que podem ocorrer tendo em vista essa realidade? E como enfrentar tamanho conservadorismo?</strong></p>
 
