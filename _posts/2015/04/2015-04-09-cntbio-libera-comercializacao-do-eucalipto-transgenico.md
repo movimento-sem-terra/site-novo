@@ -5,7 +5,7 @@ tags:
   - tag: transgênicos
   - tag: FuturaGene
 title: CNTBio libera comercialização do eucalipto transgênico
-support_line: "Além dos danos diretos ao meio ambiente, espécie transgênica afetará a produção de mel orgânico em todo país. "
+support_line: "Além dos danos diretos ao meio ambiente, nova espécie trará prejuízos aos produtores de mel orgânico em todo país."
 menu: agronegócio
 layout: post
 files:
