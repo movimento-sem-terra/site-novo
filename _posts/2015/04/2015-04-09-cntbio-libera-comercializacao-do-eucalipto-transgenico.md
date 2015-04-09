@@ -49,11 +49,13 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p>&quot;Temos muitas criticas a esse processo tecnol&oacute;gico, que n&atilde;o traz benef&iacute;cios &agrave; comunidade como um todo, &agrave; pr&oacute;pria eucaliptocultura, aos produtores de mel e etc. Muitas empresas do setor j&aacute; reconheceram que essa &eacute; uma libera&ccedil;&atilde;o prematura. A &uacute;nica grande interessada e justamente a &uacute;nica empresa beneficiada por esse processo &eacute; a FuturaGene/Suzano&quot;.</p>
+<p>&quot;Temos muitas criticas a esse processo tecnol&oacute;gico, que n&atilde;o traz benef&iacute;cios &agrave; comunidade como um todo, &agrave; pr&oacute;pria eucaliptocultura, aos produtores de mel e etc. Muitas empresas do setor j&aacute; reconheceram que essa &eacute; uma libera&ccedil;&atilde;o prematura. A &uacute;nica grande interessada e justamente a &uacute;nica empresa beneficiada por esse processo &eacute; a FuturaGene/Suzano&quot;, diz.</p>
 
 <p>&nbsp;</p>
 
 <p>O aumento no uso de agrot&oacute;xicos no Brasil que &eacute; o maior consumidor de veneno do mundo, tamb&eacute;m preocupa o especialista.</p>
+
+<p>&nbsp;</p>
 
 <p>&ldquo;Em uma planta&ccedil;&atilde;o de eucaliptos quase n&atilde;o se encontra biodiversidade. N&atilde;o h&aacute; sobrevida de insetos, animais.S&atilde;o usados em grande escala agrot&oacute;xicos &agrave; base de glifosato e de sulfluramida. Com o aumento em grande escala do monocultivo, mais o decr&eacute;scimo no tempo de produ&ccedil;&atilde;o, o aumento na utiliza&ccedil;&atilde;o de agrot&oacute;xicos &eacute; evidente, afirma Kageyama.</p>
 
