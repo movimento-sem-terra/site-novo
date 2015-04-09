@@ -28,6 +28,12 @@ files:
     small: "http://farm9.staticflickr.com/8775/17091558201_0905924fc6_n.jpg"
     title: mapa.jpg
     $$hashKey: 0AW
+  - link: "http://farm8.staticflickr.com/7595/17093094025_7d7f070354_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7595/17093094025_7d7f070354_t.jpg"
+    medium: "http://farm8.staticflickr.com/7595/17093094025_7d7f070354_z.jpg"
+    small: "http://farm8.staticflickr.com/7595/17093094025_7d7f070354_n.jpg"
+    title: DSC_0039.JPG
+    $$hashKey: 05D
 created_date: "2015-04-09T18:07:46-03:00"
 published: true
 images_hd: "http://farm9.staticflickr.com/8775/17091558201_0905924fc6_n.jpg"
@@ -74,6 +80,10 @@ Para ele, uma das principais causas desta problem&aacute;tica estaria no avan&cc
 <p><br />
 &ldquo;Um modelo em que 60% a 70% da renda fica com as empresas transnacionais, evidentemente n&atilde;o &eacute; um modelo t&atilde;o eficiente como se apresenta, nem um projeto de na&ccedil;&atilde;o que pense primeiro em seu povo&rdquo;.</p>
 
+<figure class="image"><img alt="DSC_0039.JPG" src="http://farm8.staticflickr.com/7595/17093094025_7d7f070354_b.jpg" />
+<figcaption>Jos&eacute; Cuellar,&nbsp;&nbsp;Soldad Alvear,&nbsp;Juana Ferrer e Diego Mort&oacute;n durante coletiva de imprensa nesta quinta-feira.</figcaption>
+</figure>
+
 <p><br />
 <strong>Extrativismo</strong></p>
 
@@ -97,8 +107,6 @@ Um relat&oacute;rio divulgado no ano passado pelo Grupo ETC - organiza&ccedil;&a
 
 <p><br />
 Para Jos&eacute; Cuellar, de Argentina e membro da equipe de forma&ccedil;&atilde;o de jovens da CLOC V&iacute;a Campesina, ante a realidade que imp&otilde;e o neoliberalismo de enxergar os jovens, deve-se enfatizar a constru&ccedil;&atilde;o de consci&ecirc;ncia de que os jovens s&atilde;o tamb&eacute;m sujeitos pol&iacute;ticos e econ&ocirc;micos.</p>
-
-<p>&nbsp;</p>
 
 <p><br />
 <strong>Sa&iacute;da da crise</strong></p>
