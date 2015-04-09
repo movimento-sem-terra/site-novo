@@ -70,42 +70,29 @@ releated_posts:
   - 2015/04/2015-04-08-campanha-exige-manutencao-de-informacao-sobre-alimentos-transgenicos-em-produtos.md
 
 ---
-<p><em>Da P&aacute;gina do MST </em></p>
+<p><br />
+<em>Da P&aacute;gina do MST </em></p>
 
-<p>&nbsp;</p>
+<p><br />
+O Instituto Nacional do C&acirc;ncer divulgou nesta quarta-feira (8), um relat&oacute;rio sobre o uso de agrot&oacute;xicos nas lavouras do pa&iacute;s. Al&eacute;m dos danos ao meio ambiente, a equipe do Inca fala sobre os riscos de doen&ccedil;as como o c&acirc;ncer.</p>
 
-<p>O Instituto Nacional do C&acirc;ncer divulgou nesta quarta-feira (8), um relat&oacute;rio sobre o uso de agrot&oacute;xicos nas lavouras do pa&iacute;s. Al&eacute;m dos danos ao meio ambiente, a equipe do Inca fala sobre os riscos de doen&ccedil;as como o c&acirc;ncer.</p>
+<p><br />
+O documento tamb&eacute;m alerta para os malef&iacute;cios da libera&ccedil;&atilde;o do cultivo de sementes transg&ecirc;nicas.</p>
 
-<p>&nbsp;</p>
+<p><br />
+&ldquo;&Eacute; importante destacar que a libera&ccedil;&atilde;o do uso de sementes transg&ecirc;nicas no Brasil foi uma das respons&aacute;veis por colocar o pa&iacute;s no primeiro lugar do ranking de consumo de agrot&oacute;xicos, uma vez que o cultivo dessas sementes geneticamente modificadas exigem o uso de grandes quantidades destes produtos&rdquo;.</p>
 
-<p>O documento tamb&eacute;m alerta para os malef&iacute;cios da libera&ccedil;&atilde;o do cultivo de sementes transg&ecirc;nicas.</p>
+<p><br />
+Em nenhum outro lugar do mundo se utiliza tanto veneno nas lavouras quanto no Brasil: mais de 1 milh&atilde;o de toneladas por ano - o que daria mais de 5 kg de agrot&oacute;xico por habitante.</p>
 
-<p>&nbsp;</p>
+<p><br />
+O relat&oacute;rio ressalta ainda outras quest&otilde;es que merecem destaque devido ao grande impacto que representam.</p>
 
-<p>&ldquo;&Eacute; importante destacar que a libera&ccedil;&atilde;o do uso de sementes transg&ecirc;nicas no Brasil foi uma das respons&aacute;veis por colocar o pa&iacute;s no primeiro lugar do ranking de consumode agrot&oacute;xicos, uma vez que o cultivo dessas sementes geneticamente modificadas exigem o uso de grandes quantidades destes produtos&rdquo;.</p>
+<p><br />
+Uma delas &eacute; o fato do Brasil ainda realizar pulveriza&ccedil;&otilde;es a&eacute;reas de agrot&oacute;xicos, que ocasionam dispers&atilde;o destas subst&acirc;ncias pelo ambiente, contaminando amplas &aacute;reas e atingindo popula&ccedil;&otilde;es.</p>
 
-<p>&nbsp;</p>
+<p><br />
+A outra &eacute; a isen&ccedil;&atilde;o de impostos que o pa&iacute;s continua a conceder &agrave; ind&uacute;stria produtora de agrot&oacute;xicos, um grande incentivo ao seu fortalecimento, que vai na contram&atilde;o das medidas protetoras aqui recomendadas. E ainda, o fato de o Brasil permitir o uso de agrot&oacute;xicos j&aacute; proibidos em outros pa&iacute;ses.</p>
 
-<p>Em nenhum outro lugar do mundo se utiliza tanto veneno nas lavouras quanto no Brasil: mais de 1 milh&atilde;o de toneladas por ano - o que daria mais de 5 kg de agrot&oacute;xico por habitante.</p>
-
-<p>&nbsp;</p>
-
-<p>O relat&oacute;rio ressalta ainda outras quest&otilde;es merecem destaque devido ao grande impacto que representam.</p>
-
-<p>&nbsp;</p>
-
-<p>Uma delas &eacute; o fato do Brasil ainda realizar pulveriza&ccedil;&otilde;es a&eacute;reas de agrot&oacute;xicos, que ocasionam dispers&atilde;o destas subst&acirc;ncias pelo ambiente, contaminando amplas &aacute;reas e atingindo popula&ccedil;&otilde;es.</p>
-
-<p>&nbsp;</p>
-
-<p>A outra &eacute; a isen&ccedil;&atilde;o de impostos que o pa&iacute;s continua a conceder &agrave; ind&uacute;stria produtora de agrot&oacute;xicos, um grande incentivo ao seu fortalecimento, que vai na contram&atilde;o das medidas protetoras aqui recomendadas. E ainda, o fato de o Brasil permitir o uso de agrot&oacute;xicos j&aacute; proibidos em outros pa&iacute;ses.</p>
-
-<p>&nbsp;</p>
-
-<p>Para ler o relat&oacute;rio completo, clique <a href="http://www1.inca.gov.br/inca/Arquivos/comunicacao/posicionamento_do_inca_sobre_os_agrotoxicos_06_abr_15.pdf">aqui</a>:</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
+<p><br />
+Para ler o relat&oacute;rio completo, clique <a href="http://www1.inca.gov.br/inca/Arquivos/comunicacao/posicionamento_do_inca_sobre_os_agrotoxicos_06_abr_15.pdf">aqui</a>.</p>
