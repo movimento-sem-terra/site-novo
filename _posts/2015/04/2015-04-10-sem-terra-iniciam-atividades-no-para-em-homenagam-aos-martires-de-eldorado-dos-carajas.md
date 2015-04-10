@@ -5,9 +5,9 @@ tags:
   - tag: massacre-de-eldorado-dos-carajás
   - tag: pará
   - tag: direitos-humanos
-  - tag: jornada-de-abril-2015
-title: Sem Terra iniciam atividades no Pará em homenagam aos mártires de Eldorado dos Carajás
-support_line: "As atividades contarão com a presença de ministro do desenvolvimento agrário, presidente do INCRA e embaixadora da Venezuela no Brasil."
+  - tag: jornada-de-lutas-abril-2015
+title: Sem Terra iniciam atividadesem homenagam aos mártires de Eldorado dos Carajás
+support_line: "No Pará, as atividades contarão com a presença de ministro do desenvolvimento agrário, presidente do INCRA e embaixadora da Venezuela no Brasil."
 menu: lutas e mobilizações
 section: cover
 layout: post
@@ -26,6 +26,7 @@ releated_posts:
   - 2015/04/2015-04-01-nao-havera-golpe-nesse-pais-sem-resistencia-nossos-movimentos-nao-formaram-covardes-afirma-gilmar-mauro.md
   - 2015/04/2015-04-03-movimentos-pisam-no-acelerador-e-conclamam-lutas-sociais-para-cobrar-o-governo-e-encarar-a-direita.md
   - 2015/02/2015-02-13-para-concentra-38-dos-assassinatos-por-conflito-de-terra-no-pais.md
+  - 2015/04/2015-04-09-vivemos-um-novo-momento-da-luta-social-e-politica-no-brasil-onde-a-luta-de-classes-agoniza-e-expoe-as-contradicoes-da-nossa-sociedade.md
 
 ---
 <figure class="image" style="float:right"><img alt="carajas.jpg" src="http://farm8.staticflickr.com/7674/17102306185_6b3a52fd10_b.jpg" />
