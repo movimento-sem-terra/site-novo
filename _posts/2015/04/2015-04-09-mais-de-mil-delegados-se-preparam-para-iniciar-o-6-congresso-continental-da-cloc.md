@@ -10,33 +10,51 @@ support_line: "A atividade acontece entre os dias 14 a 17/04, em Buenos Aires, n
 menu: agricultura camponesa
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7632/16905926949_29a31bca93_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7632/16905926949_29a31bca93_t.jpg"
-    medium: "http://farm8.staticflickr.com/7632/16905926949_29a31bca93_z.jpg"
-    small: "http://farm8.staticflickr.com/7632/16905926949_29a31bca93_n.jpg"
-    title: congreso cloc.jpg
-    $$hashKey: 093
-  - link: "http://farm9.staticflickr.com/8705/17066211506_2a0db936bf_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8705/17066211506_2a0db936bf_t.jpg"
-    medium: "http://farm9.staticflickr.com/8705/17066211506_2a0db936bf_z.jpg"
-    small: "http://farm9.staticflickr.com/8705/17066211506_2a0db936bf_n.jpg"
-    title: "congreso cloc!.jpg"
-    $$hashKey: 05J
-  - link: "http://farm9.staticflickr.com/8775/17091558201_0905924fc6_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8775/17091558201_0905924fc6_t.jpg"
-    medium: "http://farm9.staticflickr.com/8775/17091558201_0905924fc6_z.jpg"
-    small: "http://farm9.staticflickr.com/8775/17091558201_0905924fc6_n.jpg"
-    title: mapa.jpg
-    $$hashKey: 0AW
   - link: "http://farm8.staticflickr.com/7595/17093094025_7d7f070354_b.jpg"
     thumbnail: "http://farm8.staticflickr.com/7595/17093094025_7d7f070354_t.jpg"
     medium: "http://farm8.staticflickr.com/7595/17093094025_7d7f070354_z.jpg"
     small: "http://farm8.staticflickr.com/7595/17093094025_7d7f070354_n.jpg"
     title: DSC_0039.JPG
     $$hashKey: 05D
+  - link: "http://farm8.staticflickr.com/7652/17068131276_904a6261c3_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7652/17068131276_904a6261c3_t.jpg"
+    medium: "http://farm8.staticflickr.com/7652/17068131276_904a6261c3_z.jpg"
+    small: "http://farm8.staticflickr.com/7652/17068131276_904a6261c3_n.jpg"
+    title: 16470527374_1f35841ae1_k.jpg
+    $$hashKey: 05F
+  - link: "http://farm9.staticflickr.com/8775/16907891339_9b1afb32b7_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8775/16907891339_9b1afb32b7_t.jpg"
+    medium: "http://farm9.staticflickr.com/8775/16907891339_9b1afb32b7_z.jpg"
+    small: "http://farm9.staticflickr.com/8775/16907891339_9b1afb32b7_n.jpg"
+    title: 17091741722_79cf780f41_k.jpg
+    $$hashKey: 05L
+  - link: "http://farm8.staticflickr.com/7602/17092607982_cd3672141b_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7602/17092607982_cd3672141b_t.jpg"
+    medium: "http://farm8.staticflickr.com/7602/17092607982_cd3672141b_z.jpg"
+    small: "http://farm8.staticflickr.com/7602/17092607982_cd3672141b_n.jpg"
+    title: 16905418968_a7e97581f6_z.jpg
+    $$hashKey: 05O
+  - link: "http://farm8.staticflickr.com/7609/17094127785_764a2c8a74_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7609/17094127785_764a2c8a74_t.jpg"
+    medium: "http://farm8.staticflickr.com/7609/17094127785_764a2c8a74_z.jpg"
+    small: "http://farm8.staticflickr.com/7609/17094127785_764a2c8a74_n.jpg"
+    title: 16470761364_218937346f_z.jpg
+    $$hashKey: 05R
+  - link: "http://farm8.staticflickr.com/7699/16907936569_95a3ec8287_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7699/16907936569_95a3ec8287_t.jpg"
+    medium: "http://farm8.staticflickr.com/7699/16907936569_95a3ec8287_z.jpg"
+    small: "http://farm8.staticflickr.com/7699/16907936569_95a3ec8287_n.jpg"
+    title: 16902931529_c277f405af_z.jpg
+    $$hashKey: 05X
+  - link: "http://farm8.staticflickr.com/7641/16907943359_c8d30ef00f_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7641/16907943359_c8d30ef00f_t.jpg"
+    medium: "http://farm8.staticflickr.com/7641/16907943359_c8d30ef00f_z.jpg"
+    small: "http://farm8.staticflickr.com/7641/16907943359_c8d30ef00f_n.jpg"
+    title: 17089159395_51b90addbc_k.jpg
+    $$hashKey: "060"
 created_date: "2015-04-09T18:07:46-03:00"
 published: true
-images_hd: "http://farm9.staticflickr.com/8775/17091558201_0905924fc6_n.jpg"
+images_hd: "http://farm8.staticflickr.com/7652/17068131276_904a6261c3_n.jpg"
 releated_posts:
   - 2015/03/2015-03-19-expansao-do-agronegocio-criminaliza-movimentos-sociais-no-paraguai.md
   - 2015/03/2015-03-20-o-brasil-tem-de-saber-que-a-agroecologia-e-possivel-afirma-dilma-rousseff.md
@@ -44,11 +62,7 @@ releated_posts:
   - 2015/04/2015-04-01-nao-havera-golpe-nesse-pais-sem-resistencia-nossos-movimentos-nao-formaram-covardes-afirma-gilmar-mauro.md
 
 ---
-<p>&nbsp;</p>
-
-<figure class="image" style="float:right"><img alt="congreso cloc!.jpg" src="http://farm9.staticflickr.com/8705/17066211506_2a0db936bf_b.jpg" />
-<figcaption></figcaption>
-</figure>
+<p><img alt="16470527374_1f35841ae1_k.jpg" src="http://farm8.staticflickr.com/7652/17068131276_904a6261c3_b.jpg" /></p>
 
 <p><em>Por Luiz Felipe Albuquerque<br />
 Da P&aacute;gina do MST</em></p>
@@ -59,8 +73,13 @@ A Am&eacute;rica Latina passa por um momento complexo. Se por um lado houve avan
 <p><br />
 &Eacute; sob este paradoxo que mais de 1000 delegados de toda a Am&eacute;rica Latina e Caribe se re&uacute;nem na cidade de Buenos Aires, na Argentina, durante o VI Congresso Continental da Coordena&ccedil;&atilde;o Latinoamerica das Organiza&ccedil;&otilde;es do Campo (Cloc), entre os dias 14 a 17 de abril.</p>
 
-<p><br />
-O objetivo &eacute; debater a conjuntura agr&aacute;ria e pol&iacute;tica do continente, e buscar construir uma perspectiva comum que delineie as a&ccedil;&otilde;es das organiza&ccedil;&otilde;es populares para o pr&oacute;ximo per&iacute;odo.</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="17091741722_79cf780f41_k.jpg" src="http://farm9.staticflickr.com/8775/16907891339_9b1afb32b7_b.jpg" />
+<figcaption></figcaption>
+</figure>
+
+<p>O objetivo &eacute; debater a conjuntura agr&aacute;ria e pol&iacute;tica do continente, e buscar construir uma perspectiva comum que delineie as a&ccedil;&otilde;es das organiza&ccedil;&otilde;es populares para o pr&oacute;ximo per&iacute;odo.</p>
 
 <p><br />
 Nos dias que antecedem o Congresso, cerca de 400 jovens realizam a 4&deg; Assembleia da Juventude, entre os dias 10 e 11 de abril, ao debaterem a conjuntura latinoamericano e sua inser&ccedil;&atilde;o neste processo. E entre os dias 12 e 13, ser&aacute; a vez das camponesas realizarem a 5&deg; Assembleia das Mulheres.&nbsp;</p>
@@ -68,8 +87,13 @@ Nos dias que antecedem o Congresso, cerca de 400 jovens realizam a 4&deg; Assemb
 <p><br />
 Para o argentino Diego Mort&oacute;n, da Secretaria Operativa da Cloc, &eacute; preciso &ldquo;atualizarmos nosso olhar, nossos planos de a&ccedil;&atilde;o e aprofundar o di&aacute;logo com outros setores da sociedade para fazermos um diagn&oacute;stico da realidade e definirmos quais caminhos seguir&rdquo;.</p>
 
-<p><br />
-Para ele, este novo momento exige uma forte articula&ccedil;&atilde;o entre campo e cidade para enfrentar uma crise que n&atilde;o &eacute; somente pol&iacute;tica e econ&ocirc;mica, mas tamb&eacute;m clim&aacute;tica, ambiental e alimentar.</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="16905418968_a7e97581f6_z.jpg" src="http://farm8.staticflickr.com/7602/17092607982_cd3672141b_b.jpg" />
+<figcaption></figcaption>
+</figure>
+
+<p>Para ele, este novo momento exige uma forte articula&ccedil;&atilde;o entre campo e cidade para enfrentar uma crise que n&atilde;o &eacute; somente pol&iacute;tica e econ&ocirc;mica, mas tamb&eacute;m clim&aacute;tica, ambiental e alimentar.</p>
 
 <p><br />
 &ldquo;Mais de 1 bilh&atilde;o de pessoas passam fome no mundo. Sob este contexto precisamos trabalhar a sa&iacute;da desta crise&rdquo;, apontou Mort&oacute;n.</p>
@@ -96,8 +120,13 @@ Seg&uacute;n Ferrer, a aspira&ccedil;&atilde;o de uma constru&ccedil;&atilde;o d
 <p><br />
 A chilena Soldad Alvear,da Conaproch, atenta para a ferocidade do extrativismo dos recursos naturais realizado pelas grandes corpora&ccedil;&otilde;es no continente, e destaca o caso das sementes transg&ecirc;nicas.</p>
 
-<p><br />
-&quot;Passamos por um momento complexo, em que organismos internacionais como o Banco Mundial, junto &agrave;s multinacionais do agroneg&oacute;cio, colocam cada vez mais condi&ccedil;&otilde;es para o uso das sementes&rdquo;, disse.</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="16470761364_218937346f_z.jpg" src="http://farm8.staticflickr.com/7609/17094127785_764a2c8a74_b.jpg" />
+<figcaption></figcaption>
+</figure>
+
+<p>&quot;Passamos por um momento complexo, em que organismos internacionais como o Banco Mundial, junto &agrave;s multinacionais do agroneg&oacute;cio, colocam cada vez mais condi&ccedil;&otilde;es para o uso das sementes&rdquo;, disse.</p>
 
 <p><br />
 &ldquo;As sementes s&atilde;o parte do que somos, do que fazemos. &Eacute; um elemento que sempre esteve presente ente n&oacute;s, mas agora querem ser donos delas&rdquo;, destaca Alvear.</p>
@@ -107,6 +136,10 @@ Um relat&oacute;rio divulgado no ano passado pelo Grupo ETC - organiza&ccedil;&a
 
 <p><br />
 Para Jos&eacute; Cuellar, de Argentina e membro da equipe de forma&ccedil;&atilde;o de jovens da CLOC V&iacute;a Campesina, ante a realidade que imp&otilde;e o neoliberalismo de enxergar os jovens, deve-se enfatizar a constru&ccedil;&atilde;o de consci&ecirc;ncia de que os jovens s&atilde;o tamb&eacute;m sujeitos pol&iacute;ticos e econ&ocirc;micos.</p>
+
+<figure class="image" style="float:left"><img alt="16902931529_c277f405af_z.jpg" src="http://farm8.staticflickr.com/7699/16907936569_95a3ec8287_b.jpg" />
+<figcaption></figcaption>
+</figure>
 
 <p><br />
 <strong>Sa&iacute;da da crise</strong></p>
@@ -122,3 +155,5 @@ Com o passar do tempo, junto a resist&ecirc;ncia camponesa frente a ofensiva do 
 
 <p><br />
 Segundo o argentino, &ldquo;seguimos insistindo que nosso projeto &eacute; a soberania alimentar, a agroecologia, com a produ&ccedil;&atilde;o e com a vida campesina. E isso n&atilde;o &eacute; poss&iacute;vel sem uma Reforma Agr&aacute;ria integral, que n&atilde;o se resume mais em apenas distribuir terra para quem nela trabalha, mas em se pensar uma outra maneira de se produzir no campo&rdquo;</p>
+
+<p><img alt="17089159395_51b90addbc_k.jpg" src="http://farm8.staticflickr.com/7641/16907943359_c8d30ef00f_b.jpg" /></p>
