@@ -60,6 +60,7 @@ releated_posts:
   - 2015/03/2015-03-20-o-brasil-tem-de-saber-que-a-agroecologia-e-possivel-afirma-dilma-rousseff.md
   - 2015/03/2015-03-23-a-hora-e-a-vez-de-um-programa-campones.md
   - 2015/04/2015-04-01-nao-havera-golpe-nesse-pais-sem-resistencia-nossos-movimentos-nao-formaram-covardes-afirma-gilmar-mauro.md
+section: featured-news
 
 ---
 <p><img alt="16470527374_1f35841ae1_k.jpg" src="http://farm8.staticflickr.com/7652/17068131276_904a6261c3_b.jpg" /></p>
