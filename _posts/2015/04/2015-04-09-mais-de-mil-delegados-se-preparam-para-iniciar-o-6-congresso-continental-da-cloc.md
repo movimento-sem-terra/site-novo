@@ -85,7 +85,7 @@ A Am&eacute;rica Latina passa por um momento complexo. Se por um lado houve avan
 Nos dias que antecedem o Congresso, cerca de 400 jovens realizam a 4&deg; Assembleia da Juventude, entre os dias 10 e 11 de abril, ao debaterem a conjuntura latinoamericano e sua inser&ccedil;&atilde;o neste processo. E entre os dias 12 e 13, ser&aacute; o momento&nbsp;das camponesas realizarem a 5&deg; Assembleia das Mulheres.&nbsp;</p>
 
 <p><br />
-Para o argentino Diego Mort&oacute;n, da Secretaria Operativa da Cloc, &eacute; preciso &ldquo;atualizarmos nosso olhar, nossos planos de a&ccedil;&atilde;o e aprofundar o di&aacute;logo com outros setores da sociedade para fazermos um diagn&oacute;stico da realidade e definirmos quais caminhos seguir&rdquo;.</p>
+Para o argentino Diego Mont&oacute;n, da Secretaria Operativa da Cloc, &eacute; preciso &ldquo;atualizarmos nosso olhar, nossos planos de a&ccedil;&atilde;o e aprofundar o di&aacute;logo com outros setores da sociedade para fazermos um diagn&oacute;stico da realidade e definirmos quais caminhos seguir&rdquo;.</p>
 
 <p>&nbsp;</p>
 
@@ -96,7 +96,7 @@ Para o argentino Diego Mort&oacute;n, da Secretaria Operativa da Cloc, &eacute; 
 <p>Para ele, este novo momento exige uma forte articula&ccedil;&atilde;o entre campo e cidade para enfrentar uma crise que n&atilde;o &eacute; somente pol&iacute;tica e econ&ocirc;mica, mas tamb&eacute;m clim&aacute;tica, ambiental e alimentar.</p>
 
 <p><br />
-&ldquo;Mais de 1 bilh&atilde;o de pessoas passam fome no mundo. Sob este contexto que precisamos trabalhar a sa&iacute;da desta crise&rdquo;, apontou Mort&oacute;n.</p>
+&ldquo;Mais de 1 bilh&atilde;o de pessoas passam fome no mundo. Sob este contexto que precisamos trabalhar a sa&iacute;da desta crise&rdquo;, apontou Mont&oacute;n.</p>
 
 <p><br />
 Para ele, uma das principais causas desta problem&aacute;tica estaria no avan&ccedil;o do agroneg&oacute;cio sobre o campo, que se desenvolveu &ldquo;com base no monocultivo, no uso intensivo de agrot&oacute;xicos e com as sementes transg&ecirc;nicas, transformando o alimento numa mercadoria sujeita a especula&ccedil;&atilde;o financeira&rdquo;, acredita.</p>
@@ -150,7 +150,7 @@ H&aacute; pouco mais de 20 anos surgia a Cloc, enquanto um instrumento de articu
 Com o passar do tempo, junto a resist&ecirc;ncia camponesa frente a ofensiva do agroneg&oacute;cio, tamb&eacute;m foi se forjando propostas e alternativas para se contornar a crise mundial.</p>
 
 <p><br />
-&ldquo;Originalmente a luta pela terra tem sido um elemento concreto. Depois fomos construindo uma proposta de soberania alimentar, que tem a ver com o direito dos povos de decidir o que produzir, como produzir e como distribuir os alimentos&rdquo;, apontou Mort&oacute;n.&nbsp;</p>
+&ldquo;Originalmente a luta pela terra tem sido um elemento concreto. Depois fomos construindo uma proposta de soberania alimentar, que tem a ver com o direito dos povos de decidir o que produzir, como produzir e como distribuir os alimentos&rdquo;, apontou Mont&oacute;n.&nbsp;</p>
 
 <p><br />
 Segundo o argentino, &ldquo;seguimos insistindo que nosso projeto &eacute; a soberania alimentar, a agroecologia, com a produ&ccedil;&atilde;o e com a vida campesina. E isso n&atilde;o &eacute; poss&iacute;vel sem uma Reforma Agr&aacute;ria integral, que n&atilde;o se resume mais em apenas distribuir terra para quem nela trabalha, mas em se pensar uma outra maneira de se produzir no campo&rdquo;.</p>
