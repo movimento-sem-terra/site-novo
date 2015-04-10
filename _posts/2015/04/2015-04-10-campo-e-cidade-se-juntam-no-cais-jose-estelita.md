@@ -66,7 +66,9 @@ releated_posts:
 </div>
 
 <p><br />
-PROGRAMA&Ccedil;&Atilde;O:</p>
+<strong>PROGRAMA&Ccedil;&Atilde;O:</strong></p>
+
+<p>&nbsp;</p>
 
 <p>-Feira org&acirc;nica/agroecol&oacute;gica &nbsp;(vindas de 6 cidades diferentes do interior de Pernmabuco)</p>
 
