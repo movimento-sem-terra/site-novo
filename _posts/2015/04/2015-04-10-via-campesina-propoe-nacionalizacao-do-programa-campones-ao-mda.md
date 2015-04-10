@@ -6,7 +6,7 @@ tags:
   - tag: biodiversidade
   - tag: agricultura-orgânica
 title: Via Campesina propõe nacionalização do Programa Camponês ao MDA
-support_line: Movimentos da Via Campesina apresentaram proposta de nacionalização do programa de produção de alimentos saudáveis desenvolvido no RS
+support_line: Movimentos da Via Campesina apresentaram proposta de nacionalização do programa de produção de alimentos saudáveis desenvolvido no RS.
 menu: agricultura camponesa
 layout: post
 files:
