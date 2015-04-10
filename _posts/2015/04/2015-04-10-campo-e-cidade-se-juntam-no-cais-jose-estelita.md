@@ -6,7 +6,7 @@ tags:
   - tag: agricultura-familiar
   - tag: agronegócio
 title: Campo e cidade se juntam​ no Cais José Estelita
-support_line: "Atividade tem como objetivo discutir as diferentes formas de luta do campo e da cidade "
+support_line: "Atividade organizada por movimentos sociais tem como objetivo discutir diferentes formas de lutas "
 menu: lutas e mobilizações
 layout: post
 files:
