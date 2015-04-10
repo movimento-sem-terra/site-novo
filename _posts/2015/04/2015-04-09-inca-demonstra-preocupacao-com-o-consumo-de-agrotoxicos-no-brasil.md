@@ -6,7 +6,7 @@ tags:
   - tag: transgênicos
   - tag: Inca
 menu: agronegócio
-title: Inca demonstra preocupação com o consumo de agrotóxicos no Brasil
+title: Instituto Nacional de Câncer ataca uso de agrotóxicos no país
 hat: ""
 support_line: "São mais de 1 milhão de toneladas de veneno usados por ano em todo país "
 layout: post
