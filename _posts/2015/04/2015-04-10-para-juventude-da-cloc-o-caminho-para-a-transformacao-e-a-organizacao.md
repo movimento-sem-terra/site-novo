@@ -6,7 +6,7 @@ tags:
   - tag: argentina
   - tag: america-latina
   - tag: movimentos-sociais
-title: "Para juventude da Cloc, o caminho para mudanças é a organização"
+title: "Na Cloc, jovens apontam que o caminho para mudanças está na organização da juventude"
 support_line: "Nos dias que antecede o 6° Congresso Continental da Cloc, cerca de 300 jovens de diversos países da América Latina participam da 4° Assembleia da Juventude."
 menu: lutas e mobilizações
 layout: post
@@ -97,7 +97,7 @@ Para Amorim, um dos pontos que permite maior unidade entre a juventude latino am
 <figcaption></figcaption>
 </figure>
 
-<p>Dados demonstram que mais de 30 mil jovens s&atilde;o mortos por ano em todo o continente, seja pelas m&atilde;os do Estado ou por mil&iacute;cias ou grupos paramilitares, al&eacute;m de representarem 30% da popula&ccedil;&atilde;o que vive na pobreza e 10% de indigentes.</p>
+<p><span style="line-height: 20.7999992370605px;">Segundo dados da Comiss&atilde;o Econ&ocirc;mica para a Am&eacute;rica Latina e Caribe&nbsp;</span><span style="line-height: 20.7999992370605px;">(Cepal), mais&nbsp;</span>de 30 mil jovens s&atilde;o mortos por ano em todo o continente, seja pelas m&atilde;os do Estado ou por mil&iacute;cias ou grupos paramilitares, al&eacute;m de representarem 30% da popula&ccedil;&atilde;o que vive na pobreza e 10% de indigentes.</p>
 
 <p><br />
 Al&eacute;m disso, a taxa de desemprego entre a juventude &eacute; quase tr&ecirc;s vezes maior que a dos adultos, e 32 milh&otilde;es n&atilde;o estudam nem trabalham.</p>
