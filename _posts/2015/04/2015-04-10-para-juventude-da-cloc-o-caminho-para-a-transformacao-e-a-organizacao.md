@@ -57,7 +57,7 @@ releated_posts:
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Cento e quarenta e oito milh&otilde;es de pessoas. Esse &eacute; o numero total de jovens no continente latino americano. Apesar de todas as diversidades culturais, clim&aacute;ticas e ambientais presentes em cada dos 33 pa&iacute;ses latinos e caribenhos, h&aacute; tamb&eacute;m diversos elementos comum a todos que possibilitam a cria&ccedil;&atilde;o de uma identidade regional.</p>
+Cento e quarenta e oito milh&otilde;es de pessoas. Esse &eacute; o numero total de jovens no continente latino americano. Apesar de todas as diversidades culturais, clim&aacute;ticas e ambientais presentes em cada um dos 33 pa&iacute;ses latinos e caribenhos, h&aacute; tamb&eacute;m diversos elementos comum a todos que possibilitam a cria&ccedil;&atilde;o de uma identidade regional.</p>
 
 <p><br />
 Pelo menos esse &eacute; um dos elementos trazido pelos cerca de 300 jovens de diversos pa&iacute;ses da Am&eacute;rica Latina presentes na 4&deg; Assembleia da Juventude, iniciada nesta sexta-feira (10), durante o 6&deg; Congresso Continental da Coordena&ccedil;&atilde;o Latinoamericana das Organiza&ccedil;&otilde;es do Campo (Cloc).</p>
@@ -71,7 +71,7 @@ Pelo menos esse &eacute; um dos elementos trazido pelos cerca de 300 jovens de d
 <p>&ldquo;O congresso da Cloc significa a possibilidade de definirmos estrat&eacute;gias a longo prazo, mas com a&ccedil;&otilde;es concretas que nos permitam construir a articula&ccedil;&atilde;o de jovens, mulheres e das organiza&ccedil;&otilde;es do campo em n&iacute;vel continental&rdquo;, destacou Henry Magallanes, dirigente de jovens da regi&atilde;o Andina.</p>
 
 <p><br />
-Para Raul Amorim, do coletivo de juventude do MST, o espa&ccedil;o da Cloc &eacute; um marco da organiza&ccedil;&atilde;o da juventude no campo, algo que &eacute; negado constantemente pelo atual sistema.&nbsp;</p>
+Para Raul Amorim, do coletivo de juventude do MST, o espa&ccedil;o da Cloc &eacute; um marco da organiza&ccedil;&atilde;o da juventude no campo, algo negado constantemente pelo atual sistema.&nbsp;</p>
 
 <p><br />
 &ldquo;O capital nos nega qualquer espa&ccedil;o coletivo e organizativo, como a escola, a possibilidade de poder estudar, de se comunicar. Este &eacute; um momento em que podemos nos reunir para discutir e enfrentar os desafios da juventude frente ao avan&ccedil;o do agroneg&oacute;cio, que vem tomando nossas terras e nossos recursos naturais de forma desenfreada&rdquo;, disse Amorim.</p>
@@ -105,8 +105,7 @@ Al&eacute;m disso, a taxa de desemprego entre a juventude &eacute; quase tr&ecir
 <p><br />
 Sob esta realidade, Cuellar aponta que h&aacute; algo a mais que une essa juventude, seja camponesa, estudantil, urbana ou afrodescendente: o fato &ldquo;de todos os recursos n&atilde;o estarem em nosso alcance, recursos que s&atilde;o nossos, mas hoje n&atilde;o nos pertencem, pois est&atilde;o nas m&atilde;os de outros poucos&rdquo;, observa.</p>
 
-<p><img alt="DSC02630.JPG" src="http://farm9.staticflickr.com/8731/16480186194_4c909ced73_b.jpg" /><br />
-<br />
+<p><br />
 <strong>Desafios</strong></p>
 
 <p><br />
@@ -121,4 +120,4 @@ Para Amorim, &ldquo;sabemos que as grandes mudan&ccedil;as na Am&eacute;rica Lat
 <p><br />
 No atual momento conturbado pelo qual passa o continente latino americano, Amorim conclui afirmando a necessidade de se realizar &ldquo;grandes mudan&ccedil;as com reformas populares, e que a juventude esteja na vanguarda da revolu&ccedil;&atilde;o socialista&rdquo;.</p>
 
-<p>&nbsp;</p>
+<p><img alt="DSC02630.JPG" src="http://farm9.staticflickr.com/8731/16480186194_4c909ced73_b.jpg" /></p>
