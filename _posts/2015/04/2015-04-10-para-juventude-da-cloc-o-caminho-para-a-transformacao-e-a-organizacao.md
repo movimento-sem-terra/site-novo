@@ -6,7 +6,7 @@ tags:
   - tag: argentina
   - tag: america-latina
   - tag: movimentos-sociais
-title: "Para juventude da Cloc, o caminho para a transformação é a organização"
+title: "Para juventude da Cloc, o caminho para mudanças é a organização"
 support_line: "Nos dias que antecede o 6° Congresso Continental da Cloc, cerca de 300 jovens de diversos países da América Latina participam da 4° Assembleia da Juventude."
 menu: lutas e mobilizações
 layout: post
