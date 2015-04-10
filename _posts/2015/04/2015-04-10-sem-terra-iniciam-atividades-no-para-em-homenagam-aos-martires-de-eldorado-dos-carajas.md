@@ -6,7 +6,7 @@ tags:
   - tag: pará
   - tag: direitos-humanos
   - tag: jornada-de-lutas-abril-2015
-title: Sem Terra iniciam atividades em homenagam aos mártires de Carajás
+title: Sem Terra iniciam atividades em homenagem aos mártires de Carajás
 support_line: "No Pará, as atividades contarão com a presença de ministro do desenvolvimento agrário, presidente do INCRA e embaixadora da Venezuela no Brasil."
 menu: lutas e mobilizações
 section: cover
