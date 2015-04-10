@@ -42,7 +42,7 @@ releated_posts:
 <div>
 <p>&nbsp;</p>
 
-<p>No pr&oacute;ximo domingo (12), movimentos do campo e da cidade se reunir&atilde;o para discutir direitos urbanos e rurais em um evento que lever&aacute; o nome de <em>Ocupe Campo - Cidade.</em></p>
+<p>No pr&oacute;ximo domingo (12), movimentos do campo e da cidade se reunir&atilde;o para discutir direitos urbanos e rurais em um evento que levar&aacute; o nome de <em>Ocupe Campo - Cidade.</em></p>
 
 <p>&nbsp;</p>
 
@@ -62,7 +62,7 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p>H&aacute; muito mais em comum do que podem sugerir as dist&acirc;ncias geogr&aacute;ficas. Na comunh&atilde;o das opress&otilde;es, faz-se necess&aacute;ria a comunh&atilde;o na luta. SE O CAMPO N&Atilde;O RESISTE, A CIDADE N&Atilde;O OCUPA.</p>
+<p>H&aacute; muito mais em comum do que podem sugerir as dist&acirc;ncias geogr&aacute;ficas. Na comunh&atilde;o das opress&otilde;es, faz-se necess&aacute;ria a comunh&atilde;o na luta. <em>Se o campo n&atilde;o&nbsp; resiste, a cidade n&atilde;o ocupa.</em></p>
 </div>
 
 <p><br />
@@ -70,7 +70,7 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p>-Feira org&acirc;nica/agroecol&oacute;gica &nbsp;(vindas de 6 cidades diferentes do interior de Pernmabuco)</p>
+<p>-Feira org&acirc;nica/agroecol&oacute;gica &nbsp;(vindas de 6 cidades diferentes do interior de Pernambuco)</p>
 
 <p>-Oficinas de plantio e bioconstru&ccedil;&atilde;o</p>
 
