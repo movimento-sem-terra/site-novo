@@ -6,7 +6,7 @@ tags:
   - tag: Acampamento-Terra-Livre
 menu: lutas e mobilizações
 title: "Brasília será palco do I Acampamento Terra Livre em Defesa dos Povos Indígenas "
-support_line: "Mobilização organizada pela Apib pretende reunir mais de 1000 lideranças de todo país "
+support_line: "Mobilização organizada pela Apib pretende reunir mais de 1000 lideranças de todo país. "
 layout: post
 files:
   - link: "http://farm8.staticflickr.com/7687/16481817813_af020875f7_b.jpg"
