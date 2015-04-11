@@ -65,7 +65,7 @@ section: featured-news
 ---
 <p><img alt="16470527374_1f35841ae1_k.jpg" src="http://farm8.staticflickr.com/7652/17068131276_904a6261c3_b.jpg" /></p>
 
-<p><em style="line-height: 20.7999992370605px;">Da Comunica&ccedil;&atilde;o Cloc - Via Campesina</em></p>
+<p><em style="line-height: 20.7999992370605px;">Da Comunica&ccedil;&atilde;o da Cloc - Via Campesina</em></p>
 
 <p><br />
 A Am&eacute;rica Latina passa por um momento complexo. Se por um lado houve avan&ccedil;os na integra&ccedil;&atilde;o continental com a volta de um projeto latinoamericano de unidade, por outro se observa o aprofundamento da ofensiva de grandes corpora&ccedil;&otilde;es transnacionais no continente.</p>
