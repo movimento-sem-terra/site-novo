@@ -53,8 +53,7 @@ releated_posts:
 ---
 <p><img alt="DSC_6150.JPG" src="http://farm9.staticflickr.com/8752/16915004090_d0b2544d36_b.jpg" /></p>
 
-<p><em>Por Luiz Felipe Albuquerque<br />
-Da P&aacute;gina do MST</em></p>
+<p><em>Da Comunica&ccedil;&atilde;o Cloc - Via Campesina</em></p>
 
 <p><br />
 Cento e quarenta e oito milh&otilde;es de pessoas. Esse &eacute; o numero total de jovens no continente latino americano. Apesar de todas as diversidades culturais, clim&aacute;ticas e ambientais presentes em cada um dos 33 pa&iacute;ses latinos e caribenhos, h&aacute; tamb&eacute;m diversos elementos comum a todos que possibilitam a cria&ccedil;&atilde;o de uma identidade regional.</p>
