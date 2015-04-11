@@ -6,7 +6,7 @@ tags:
   - tag: agricultura-camponesa
   - tag: argentina
 title: Mais de mil delegados se preparam para iniciar o 6° Congresso Continental da Cloc
-support_line: "A atividade acontece entre os dias 14 a 17/04, em Buenos Aires, na Argentina. A partir desta quinta, juventude e mulheres camponesas já iniciam as atividades."
+support_line: "A atividade acontece entre os dias 14 a 17/04, em Buenos Aires, na Argentina."
 menu: agricultura camponesa
 layout: post
 files:
