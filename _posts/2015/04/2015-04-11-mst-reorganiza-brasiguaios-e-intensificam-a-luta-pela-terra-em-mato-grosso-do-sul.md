@@ -4,7 +4,7 @@ tags:
   - tag: reforma-agrária
   - tag: ocupação
   - tag: mato-grosso-do-sul
-title: MST reorganiza brasiguaios e intensificam a luta pela terra em Mato Grosso do Sul
+title: MST reorganiza brasiguaios e intensifica a luta pela terra no MS
 support_line: A então nova e dura realidade dos brasileiros que emigraram para o Paraguai os obrigou a retornar ao país de origem sem nada nas mãos.
 menu: reforma agrária
 layout: post
