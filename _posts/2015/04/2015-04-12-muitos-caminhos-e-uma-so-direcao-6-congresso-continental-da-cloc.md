@@ -130,18 +130,23 @@ O 6&deg; Congresso Continental da CLOC traz como tema central a unidade e a sobe
 Abaixo, confira a carta final</p>
 
 <p style="text-align: center;"><br />
-Argentina: Declara&ccedil;&atilde;o da IV Assembleia Continental da Juventude da CLOC- VC</p>
+<strong>Argentina: Declara&ccedil;&atilde;o da IV Assembleia Continental da Juventude da CLOC- VC</strong></p>
 
 <p style="text-align: center;">&nbsp;</p>
 
-<p style="text-align: center;"><br />
+<p><br />
 Com o lema &quot;Juventude do campo e da cidade, Lutando pela soberania alimentar&quot;, nos dias 10 e 11 de abril de 2015 em Buenos Aires, Argentina, no marco do 17 de abril, dia internacional da luta camponesa, nos reunimos cerca de 400 jovens de todos os pa&iacute;ses da Am&eacute;rica Latina e Caribe para intercambiar as diversas experi&ecirc;ncias de luta da juventude camponesa, ind&iacute;genas, afrodescendente e urbana de cada um dos nossos pa&iacute;ses, que nos permitiram construir propostas e acordos concretos para o fortalecimento da articula&ccedil;&atilde;o juvenil a n&iacute;vel continental.</p>
 
 <p><br />
 A juventude do continente americano est&aacute; consciente de nossa participa&ccedil;&atilde;o nas mudan&ccedil;as que v&atilde;o direcionadas &agrave; constru&ccedil;&atilde;o da unidade popular de toda Am&eacute;rica, que estamos conseguindo por meio das lutas e resist&ecirc;ncias permanentes nos territ&oacute;rios.</p>
 
-<p><br />
-Temos claro que o imperialismo, a fase atual do capitalismo com suas empresas transnacionais e o capital financeiro &eacute; nosso principal inimigo, que cada dia arremete com toda sua viol&ecirc;ncia econ&ocirc;mica, pol&iacute;tica, cultural e social contra a juventude, o que significa:</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="16917400309_8d4d7892d7_z.jpg" src="http://farm8.staticflickr.com/7651/16500809983_066d3abb7a_b.jpg" />
+<figcaption></figcaption>
+</figure>
+
+<p>Temos claro que o imperialismo, a fase atual do capitalismo com suas empresas transnacionais e o capital financeiro &eacute; nosso principal inimigo, que cada dia arremete com toda sua viol&ecirc;ncia econ&ocirc;mica, pol&iacute;tica, cultural e social contra a juventude, o que significa:</p>
 
 <p><br />
 &bull; A privatiza&ccedil;&atilde;o, destrui&ccedil;&atilde;o de nossos bens naturais.</p>
@@ -169,6 +174,10 @@ Nos comprometemos a:</p>
 <p>&bull; Construir o internacionalismo dos jovens.</p>
 
 <p>&bull; Avan&ccedil;ar numa grande articula&ccedil;&atilde;o e lutas unit&aacute;rias entre os jovens do campo e da cidade.</p>
+
+<figure class="image" style="float:right"><img alt="17063316066_3975ab7724_z.jpg" src="http://farm8.staticflickr.com/7658/17119139942_13ef50c9fc_b.jpg" />
+<figcaption></figcaption>
+</figure>
 
 <p>&bull; Promover o interc&acirc;mbio entre as organiza&ccedil;&otilde;es a n&iacute;vel regional e continental.</p>
 
@@ -201,4 +210,4 @@ Contra o capitalismo pela soberania de nossos povos</p>
 
 <p style="text-align: center;">Am&eacute;rica unida segue em luta!!!</p>
 
-<p>&nbsp;</p>
+<p><img alt="16905239128_34cc3de565_k.jpg" src="http://farm9.staticflickr.com/8814/16933475290_b72364c17a_b.jpg" /></p>
