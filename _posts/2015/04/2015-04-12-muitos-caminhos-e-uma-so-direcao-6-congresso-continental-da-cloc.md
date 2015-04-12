@@ -58,6 +58,12 @@ files:
     small: "http://farm9.staticflickr.com/8814/16933475290_b72364c17a_n.jpg"
     title: 16905239128_34cc3de565_k.jpg
     $$hashKey: 06Q
+  - link: "http://farm9.staticflickr.com/8715/16498874034_e85be5fb6f_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8715/16498874034_e85be5fb6f_t.jpg"
+    medium: "http://farm9.staticflickr.com/8715/16498874034_e85be5fb6f_z.jpg"
+    small: "http://farm9.staticflickr.com/8715/16498874034_e85be5fb6f_n.jpg"
+    title: 17087715072_a9d126b17a_z.jpg
+    $$hashKey: 05B
 created_date: "2015-04-12T10:22:57-03:00"
 published: true
 images_hd: "http://farm9.staticflickr.com/8814/16933475290_b72364c17a_n.jpg"
@@ -85,34 +91,28 @@ Desde a &uacute;ltima sexta-feira (10), centenas de pessoas j&aacute; se faziam 
 <p>Na bagagem dos que chegam, sabedoria, experi&ecirc;ncias, sementes e um objetivo em comum: reafirmar a luta por soberania camponesa e ind&iacute;gena contra o capitalismo e o modelo do agroneg&oacute;cio.</p>
 
 <p><br />
-Foram quase 30 horas de viagem num &ocirc;nibus para que os chilenos Patsy Zamorano e Rosa Veda chegassem &agrave; capital argentina. Patsy &eacute; moradora da capital chilena Santiago, e Rosa veio da Comuna de Tom&eacute;, no estado de Concepci&oacute;n, de onde percorreu mais 600 km at&eacute; que chegasse a capital de seu pa&iacute;s.</p>
+Foram quase 30 horas de viagem dentro de&nbsp;um &ocirc;nibus para que os chilenos Patsy Zamorano e Rosa Veda chegassem &agrave; capital argentina. Patsy &eacute; moradora da capital chilena Santiago, e Rosa veio da Comuna de Tom&eacute;, no estado de Concepci&oacute;n, de onde percorreu mais 600 km at&eacute; que chegasse a capital de seu pa&iacute;s.</p>
 
 <p><br />
-&ldquo;Tivemos que nos esfor&ccedil;ar muito para arrecadar fundos para que nossa delega&ccedil;&atilde;o viesse ao congresso. Sab&iacute;amos que quanto maior nosso esfor&ccedil;o mais pessoas poderiam vir. Nas &uacute;ltimas semanas preparamos e vendemos mais de 500 choco, um prato regional feito de milho&rdquo;, relatou Rosa. Ao todo, cerca de 150 pessoas devem compor a delega&ccedil;&atilde;o.</p>
+&ldquo;Tivemos que nos esfor&ccedil;ar muito para arrecadar fundos para que nossa delega&ccedil;&atilde;o viesse ao congresso. Sab&iacute;amos que quanto maior nosso esfor&ccedil;o mais pessoas poderiam vir. Nas &uacute;ltimas semanas preparamos e vendemos mais de 500 choco, um prato regional feito de milho&rdquo;, relatou Rosa. Ao todo, cerca de 150 pessoas do Chile devem do evento.</p>
 
 <p><br />
-Uma das maneiras de Patsy e seus companheiros e companheiras da Conaproch, organiza&ccedil;&atilde;o da qual faz parte, participarem do congresso foi uma rifa. &ldquo;Rifamos produtos feitos por n&oacute;s para conseguirmos recurso. E antes de sairmos, tamb&eacute;m realizamos assembleias com jovens de nossa organiza&ccedil;&atilde;o para podermos trazer elementos para a assembleia de jovens da CLOC&rdquo; disse o chileno.</p>
-
-<p><br />
+Uma das maneiras encontradas por&nbsp;Patsy e seus companheiros&nbsp;da&nbsp;Conaproch, organiza&ccedil;&atilde;o da qual faz parte, para participarem do congresso foi a venda de rifas. &ldquo;Rifamos produtos&nbsp;feitos por n&oacute;s camponeses para conseguirmos recurso. E antes de sairmos, tamb&eacute;m realizamos assembleias com jovens de nossa organiza&ccedil;&atilde;o para podermos trazer elementos para a assembleia de jovens da CLOC&rdquo; disse o chileno.<br />
 &nbsp;</p>
-
-<figure class="image" style="float:left"><img alt="17102232632_2dcddac49b_z.jpg" src="http://farm8.staticflickr.com/7712/17120253571_41377891b4_b.jpg" />
-<figcaption></figcaption>
-</figure>
 
 <p><strong>&quot;Folga&quot; no trabalho</strong></p>
 
 <p><br />
 Para o jovem campon&ecirc;s Alessandro Medeiros, integrante do Movimento dos Pequenos Agricultores (MPA), foram mais 500 km e 7 horas de viagem de &ocirc;nibus de sua casa, no estado de Rond&ocirc;nia, at&eacute; Bras&iacute;lia, onde tomou um avi&atilde;o para Buenos Aires.</p>
 
+<figure class="image" style="float:left"><img alt="17087715072_a9d126b17a_z.jpg" src="http://farm9.staticflickr.com/8715/16498874034_e85be5fb6f_b.jpg" />
+<figcaption>Alessandro deixou a lavoura de mandioca para vir ao congresso</figcaption>
+</figure>
+
 <p><br />
 &ldquo;Antes de sair estava trabalhando com minha fam&iacute;lia na lavoura de mandioca. Cheguei na quinta e j&aacute; estou muito animado com as possibilidades deste congresso. Queremos reafirmar nosso compromisso com a agroecologia como jeito de produzir, e contagiar toda juventude latina para intensificar a luta contra o capital&rdquo;, afirmou o jovem campon&ecirc;s brasileiro.</p>
 
 <p>&nbsp;</p>
-
-<figure class="image" style="float:right"><img alt="16917382459_b93b0d58cc_z.jpg" src="http://farm9.staticflickr.com/8710/16498471034_acc1c0b3cb_b.jpg" />
-<figcaption></figcaption>
-</figure>
 
 <p>O argentino Jos&eacute; Abr&oacute;n Guerrero, do Movimento Nacional Campesino Ind&iacute;gena (MNCI), teve que paralisar durante alguns dias o seu trabalho com o gado para das atividades.&nbsp;</p>
 
@@ -175,11 +175,11 @@ Nos comprometemos a:</p>
 
 <p>&bull; Avan&ccedil;ar numa grande articula&ccedil;&atilde;o e lutas unit&aacute;rias entre os jovens do campo e da cidade.</p>
 
-<figure class="image" style="float:right"><img alt="17063316066_3975ab7724_z.jpg" src="http://farm8.staticflickr.com/7658/17119139942_13ef50c9fc_b.jpg" />
+<p>&bull; Promover o interc&acirc;mbio entre as organiza&ccedil;&otilde;es a n&iacute;vel regional e continental.</p>
+
+<figure class="image" style="float:right"><img alt="17102232632_2dcddac49b_z.jpg" src="http://farm8.staticflickr.com/7712/17120253571_41377891b4_b.jpg" />
 <figcaption></figcaption>
 </figure>
-
-<p>&bull; Promover o interc&acirc;mbio entre as organiza&ccedil;&otilde;es a n&iacute;vel regional e continental.</p>
 
 <p>&bull; Fortalecer a implementa&ccedil;&atilde;o da agroecologia, base fundamental da soberania alimentar.</p>
 
