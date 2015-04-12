@@ -64,9 +64,15 @@ files:
     small: "http://farm9.staticflickr.com/8715/16498874034_e85be5fb6f_n.jpg"
     title: 17087715072_a9d126b17a_z.jpg
     $$hashKey: 05B
+  - link: "http://farm8.staticflickr.com/7589/16914473577_983ce148d7_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7589/16914473577_983ce148d7_t.jpg"
+    medium: "http://farm8.staticflickr.com/7589/16914473577_983ce148d7_z.jpg"
+    small: "http://farm8.staticflickr.com/7589/16914473577_983ce148d7_n.jpg"
+    title: DSC02601.JPG
+    $$hashKey: 05D
 created_date: "2015-04-12T10:22:57-03:00"
 published: true
-images_hd: "http://farm9.staticflickr.com/8814/16933475290_b72364c17a_n.jpg"
+images_hd: "http://farm8.staticflickr.com/7589/16914473577_983ce148d7_n.jpg"
 releated_posts:
   - 2015/04/2015-04-09-mais-de-mil-delegados-se-preparam-para-iniciar-o-6-congresso-continental-da-cloc.md
   - 2015/04/2015-04-10-para-juventude-da-cloc-o-caminho-para-a-transformacao-e-a-organizacao.md
