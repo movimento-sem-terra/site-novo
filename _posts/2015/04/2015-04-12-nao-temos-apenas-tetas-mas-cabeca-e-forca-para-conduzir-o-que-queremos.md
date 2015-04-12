@@ -6,7 +6,7 @@ tags:
   - tag: movimentos-sociais
   - tag: mulheres
 support_line: "Durante dois dias, cerca de 300 camponesas de diversos movimentos sociais da América Latina participam da 5° Assembleia das Mulheres da Cloc."
-title: "“Não temos apenas tetas, mas cabeça e força para conduzir o que queremos”\n"
+title: "“Não temos apenas tetas, mas cabeça e força para conduzir o que queremos”"
 menu: agricultura camponesa
 layout: post
 files:
@@ -45,7 +45,7 @@ section: cover
 
 ---
 <figure class="image"><img alt="_MG_0216.JPG" src="http://farm9.staticflickr.com/8684/16505862123_e3909281a3_b.jpg" />
-<figcaption>De p&eacute;, a&nbsp;&nbsp;a zimbabuense Elizabeth Mpofu d&aacute; as boas vindas &agrave;s mulheres camponesas.</figcaption>
+<figcaption>De p&eacute;, a zimbabuense Elizabeth Mpofu d&aacute; as boas vindas &agrave;s mulheres camponesas.</figcaption>
 </figure>
 
 <p><em>Da Cloc - Via Campesina</em></p>
@@ -90,13 +90,14 @@ A naturaliza&ccedil;&atilde;o entre o que &eacute; ser mulher e o que &eacute; s
 Como exemplo, Nalu trabalha a quest&atilde;o da maternidade. Segundo ela, por mais que seja algo que a maioria das mulheres desejem, nem todas querem ser m&atilde;es. Por&eacute;m, a sociedade vive afirmando a necessidade das mulheres serem m&atilde;es, mas quando recusam a maternidade, dizem que algo est&aacute; errado.&nbsp;</p>
 
 <p><br />
-&ldquo;Uma coisa que desnaturalizamos &eacute; que a mulher n&atilde;o gosta de participar dos espa&ccedil;os. Fomos descobrindo justamente o contr&aacute;rio, que as mulheres est&atilde;o presentes e estiveram presentes em todas as lutas dos povos. E muitas vezes quando as mulheres n&atilde;o se fazem presentes, n&atilde;o &eacute; porque n&atilde;o querem, mas porque de alguma maneira s&atilde;o impedidas de participar&rdquo;.&nbsp;</p>
+Outro ponto que destaca &eacute; a&nbsp;naturaliza&ccedil;&atilde;o de que a mulher n&atilde;o gosta de participar de espa&ccedil;os pol&iacute;ticos. &quot;Fomos descobrindo justamente o contr&aacute;rio, que as mulheres est&atilde;o presentes e estiveram presentes em todas as lutas dos povos. E muitas vezes quando as mulheres n&atilde;o se fazem presentes, n&atilde;o &eacute; porque n&atilde;o querem, mas porque de alguma maneira s&atilde;o impedidas de participar&rdquo;.&nbsp;</p>
 
 <p><br />
-Para ela, o capitalismo aprofundou esta divis&atilde;o do trabalho, por isso sem o desmantelamento do patriarcado n&atilde;o &eacute; poss&iacute;vel acabar com o capitalismo, &ldquo;porque o capitalismo n&atilde;o est&aacute; estruturado apenas numa divis&atilde;o social do trabalho, mas tamb&eacute;m numa divis&atilde;o sexual do trabalho&rdquo;.</p>
+Para ela, o capitalismo aprofundou esta divis&atilde;o do trabalho, por isso sem o desmantelamento do patriarcado n&atilde;o &eacute; poss&iacute;vel acabar com o capitalismo, j&aacute; que o atual sistema &ldquo;n&atilde;o est&aacute; estruturado apenas numa divis&atilde;o social do trabalho, mas tamb&eacute;m numa divis&atilde;o sexual do trabalho&rdquo;.</p>
 
 <p><br />
-A 5&deg; Assembleia das Mulheres da Cloc segue nesta segunda-feira (13). No dia seguinte, cerca de mil delegados de diversos movimentos sociais do campo da Am&eacute;rica Latina realizam a abertura do 6&deg; Congresso Continental da Cloc, que ser&aacute; finalizado na pr&oacute;xima sexta-feira (17).&nbsp;</p>
+A 5&deg; Assembleia das Mulheres da Cloc segue nesta segunda-feira (13). No dia seguinte, cerca de mil delegados de diversos movimentos sociais do campo da Am&eacute;rica Latina realizam a abertura do 6&deg; Congresso Continental da Cloc, que ser&aacute; finalizado na pr&oacute;xima sexta-feira (17).&nbsp;<br />
+&nbsp;</p>
 
 <p><img alt="_MG_0266.JPG" src="http://farm8.staticflickr.com/7611/16505865533_8b3638c7fb_b.jpg" /></p>
 
