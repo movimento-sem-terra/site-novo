@@ -9,7 +9,7 @@ tags:
 title: Sem Terra iniciam atividades em homenagem aos mártires de Carajás
 support_line: "No Pará, as atividades contarão com a presença de ministro do desenvolvimento agrário, presidente do INCRA e embaixadora da Venezuela no Brasil."
 menu: lutas e mobilizações
-section: cover
+section: null
 layout: post
 files:
   - link: "http://farm8.staticflickr.com/7674/17102306185_6b3a52fd10_b.jpg"
