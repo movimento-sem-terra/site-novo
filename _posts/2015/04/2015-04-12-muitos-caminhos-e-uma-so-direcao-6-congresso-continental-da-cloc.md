@@ -6,7 +6,7 @@ tags:
   - tag: movimentos-sociais
   - tag: agricultura-camponesa
 title: "Muitos caminhos e uma só direção: 6° Congresso Continental da Cloc"
-support_line: "Desde a última sexta, centenas de pessoas já se faziam presentes no Parque da Zeiza, onde acontecem as atividades, em Buenos Aires"
+support_line: "As atividades se iniciam no dia 14. Entre os dias 10 e 11, cerca de 400 jovens realizaram a Assembleia da Juventude; Hoje é a vez das mulheres."
 menu: lutas e mobilizações
 layout: post
 files:
@@ -74,7 +74,7 @@ releated_posts:
 Asfalto, estradas de terra, &ocirc;nibus, carro, carona, avi&atilde;o. Muitos s&atilde;o os caminhos e meios que camponeses e camponesas de todo o continente Latino Americano est&atilde;o fazendo para chegarem &agrave; cidade de Buenos Aires, na Argentina, e participarem do 6&deg;Congresso Continental da Coordena&ccedil;&atilde;o Latinoamericana das Organiza&ccedil;&otilde;es do Campo (Cloc), que acontece entre os dias 14 a 17 de abril.</p>
 
 <p><br />
-Desde a &uacute;ltima sexta-feira (10), centenas de pessoas j&aacute; se faziam presentes no Parque da Zeiza, local onde acontecem as atividades, quando deram in&iacute;cio &agrave; 4&deg; Assembleia da Juventude da Cloc, que terminou neste s&aacute;bado (11) &ndash; veja a carta final.</p>
+Desde a &uacute;ltima sexta-feira (10), centenas de pessoas j&aacute; se faziam presentes no Parque da Zeiza, local onde acontecem as atividades, quando deram in&iacute;cio &agrave; 4&deg; Assembleia da Juventude da Cloc, que terminou neste s&aacute;bado (veja a declara&ccedil;&atilde;o&nbsp;na &iacute;ntegra ao final do texto).</p>
 
 <p>&nbsp;</p>
 
