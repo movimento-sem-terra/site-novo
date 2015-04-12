@@ -43,7 +43,9 @@ releated_posts:
   - 2015/04/2015-04-12-muitos-caminhos-e-uma-so-direcao-6-congresso-continental-da-cloc.md
 
 ---
-<p><img alt="_MG_0216.JPG" src="http://farm9.staticflickr.com/8684/16505862123_e3909281a3_b.jpg" /></p>
+<figure class="image"><img alt="_MG_0216.JPG" src="http://farm9.staticflickr.com/8684/16505862123_e3909281a3_b.jpg" />
+<figcaption>De p&eacute;, a&nbsp;&nbsp;a zimbabuense Elizabeth Mpofu d&aacute; as boas vindas &agrave;s mulheres camponesas.</figcaption>
+</figure>
 
 <p><em>Da Cloc - Via Campesina</em></p>
 
@@ -56,7 +58,11 @@ Com uma hist&oacute;ria carregada de repress&atilde;o e agress&otilde;es por ser
 <p><br />
 Durante dois dias, cerca de 300 camponesas de diversos movimentos sociais do campo de toda a Am&eacute;rica Latina trazem o lema &ldquo;Sem Feminismo n&atilde;o h&aacute; Socialismo&rdquo;, e debatem os desafios das mulheres camponesas frente ao agroneg&oacute;cio e a luta contra o sistema patriarcal.</p>
 
-<p><img alt="_MG_0205.JPG" src="http://farm9.staticflickr.com/8820/16938220958_0eb3f0b0db_b.jpg" /><br />
+<figure class="image"><img alt="_MG_0205.JPG" src="http://farm9.staticflickr.com/8820/16938220958_0eb3f0b0db_b.jpg" />
+<figcaption>A&nbsp;argentina Deolinda Carrizo, do Movimiento Nacional Campesino Ind&iacute;gena (MNCI).</figcaption>
+</figure>
+
+<p><br />
 Desde o 3&deg; Congresso da Cloc as mulheres come&ccedil;aram a exigir que este espa&ccedil;o tamb&eacute;m expressasse a luta cotidiana e particular das camponesas. Ao estarem &agrave; frente da luta em seus territ&oacute;rios, tamb&eacute;m era preciso de um espa&ccedil;o autorganizado para que se encontrassem e debatessem suas especificidades.</p>
 
 <p><br />
@@ -74,7 +80,7 @@ A naturaliza&ccedil;&atilde;o entre o que &eacute; ser mulher e o que &eacute; s
 <p>&nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="IMG_4970.jpg" src="http://farm8.staticflickr.com/7727/17126040025_8e61eb8886_b.jpg" />
-<figcaption></figcaption>
+<figcaption>Nalu Faria fala sobre a rela&ccedil;&atilde;o entre capitalismo e patriarcado.</figcaption>
 </figure>
 
 <p>&ldquo;Houve uma constru&ccedil;&atilde;o hist&oacute;rica, o que vivemos como desigualdade, como subordina&ccedil;&atilde;o, como viol&ecirc;ncia sobre as mulheres &eacute; parte da hist&oacute;ria de como as rela&ccedil;&otilde;es foram sendo constru&iacute;das, por isso elas s&atilde;o pass&iacute;veis de mudan&ccedil;a&rdquo;, acredita.</p>
