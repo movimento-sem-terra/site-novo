@@ -4,7 +4,7 @@ tags:
   - tag: agrotóxicos
   - tag: saúde
   - tag: agronegócio
-title: OMS confirma relação do Glifosato com cancer em humanos e animais
+title: OMS confirma relação do Glifosato com câncer em humanos e animais
 menu: agronegócio
 support_line: "O herbicida, produzido há mais de 20 anos pela multinacional Monsanto, é o mais utilizado na agricultura mundial."
 layout: post
