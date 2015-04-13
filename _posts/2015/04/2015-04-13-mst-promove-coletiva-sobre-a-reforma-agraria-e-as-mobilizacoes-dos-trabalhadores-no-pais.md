@@ -15,9 +15,15 @@ files:
     small: "http://farm9.staticflickr.com/8812/16518131923_a57e1e6e84_n.jpg"
     title: cafecommst.jpg
     $$hashKey: 0AT
+  - link: "http://farm9.staticflickr.com/8761/17112647006_1de41bf020_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8761/17112647006_1de41bf020_t.jpg"
+    medium: "http://farm9.staticflickr.com/8761/17112647006_1de41bf020_z.jpg"
+    small: "http://farm9.staticflickr.com/8761/17112647006_1de41bf020_n.jpg"
+    title: reforma-agraria-no-brasil.jpg
+    $$hashKey: 05E
 created_date: "2015-04-13T15:50:54-03:00"
 published: true
-images_hd: "http://farm9.staticflickr.com/8812/16518131923_a57e1e6e84_n.jpg"
+images_hd: "http://farm9.staticflickr.com/8761/17112647006_1de41bf020_n.jpg"
 releated_posts:
   - 2014/07/2014-07-17-familias-sem-terra-seguem-na-luta-por-area-grilada-em-abelardo-luz.md
   - 2014/08/2014-08-14-sem-avancos-2500-trabalhadores-rurais-permanecem-mobilizados-no-para.md
@@ -27,9 +33,7 @@ releated_posts:
 ---
 <p>&nbsp;</p>
 
-<p><img alt="cafecommst.jpg" src="http://farm9.staticflickr.com/8812/16518131923_a57e1e6e84_b.jpg" /></p>
-
-<p>&nbsp;</p>
+<p style="text-align:center"><img alt="cafecommst.jpg" src="http://farm9.staticflickr.com/8812/16518131923_a57e1e6e84_b.jpg" /></p>
 
 <p><em>Da P&aacute;gina do MST </em></p>
 
