@@ -9,15 +9,15 @@ menu: lutas e mobilizações
 support_line: Atividade integra Jornada Nacional de Lutas do Movimento que começa essa semana em todo país.
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7625/16949913460_e16738d7b7_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7625/16949913460_e16738d7b7_t.jpg"
-    medium: "http://farm8.staticflickr.com/7625/16949913460_e16738d7b7_z.jpg"
-    small: "http://farm8.staticflickr.com/7625/16949913460_e16738d7b7_n.jpg"
-    title: cafecommst.png
-    $$hashKey: 07U
+  - link: "http://farm9.staticflickr.com/8812/16518131923_a57e1e6e84_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8812/16518131923_a57e1e6e84_t.jpg"
+    medium: "http://farm9.staticflickr.com/8812/16518131923_a57e1e6e84_z.jpg"
+    small: "http://farm9.staticflickr.com/8812/16518131923_a57e1e6e84_n.jpg"
+    title: cafecommst.jpg
+    $$hashKey: 0AT
 created_date: "2015-04-13T15:50:54-03:00"
 published: true
-images_hd: "http://farm8.staticflickr.com/7625/16949913460_e16738d7b7_n.jpg"
+images_hd: "http://farm9.staticflickr.com/8812/16518131923_a57e1e6e84_n.jpg"
 releated_posts:
   - 2014/07/2014-07-17-familias-sem-terra-seguem-na-luta-por-area-grilada-em-abelardo-luz.md
   - 2014/08/2014-08-14-sem-avancos-2500-trabalhadores-rurais-permanecem-mobilizados-no-para.md
@@ -27,7 +27,9 @@ releated_posts:
 ---
 <p>&nbsp;</p>
 
-<p><img alt="cafecommst.png" src="http://farm8.staticflickr.com/7625/16949913460_e16738d7b7_b.jpg" /></p>
+<p><img alt="cafecommst.jpg" src="http://farm9.staticflickr.com/8812/16518131923_a57e1e6e84_b.jpg" /></p>
+
+<p>&nbsp;</p>
 
 <p><em>Da P&aacute;gina do MST </em></p>
 
