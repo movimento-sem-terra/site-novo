@@ -29,7 +29,8 @@ releated_posts:
   - 2015/04/2015-04-03-movimentos-pisam-no-acelerador-e-conclamam-lutas-sociais-para-cobrar-o-governo-e-encarar-a-direita.md
 
 ---
-<p><br />
+<p><img alt="meme.jpg" src="http://farm8.staticflickr.com/7608/16927378507_98631d19a0_b.jpg" /><br />
+<br />
 <em>Da RBA</em></p>
 
 <p><br />
