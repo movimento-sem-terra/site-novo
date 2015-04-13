@@ -1,0 +1,51 @@
+- name: "Dor e esperança"
+  download: "https://docs.google.com/uc?id=0B50W9X-9x9zHUHNnUVVwdTBwSjA&export=download"
+  cover: "http://farm9.staticflickr.com/8778/17074855756_bdb6f0f3b8_n.jpg"
+  tracks:
+  -
+   name: "01.mp3"
+   download: "https://docs.google.com/uc?id=0B50W9X-9x9zHUTlxdFpmY1hQU1k&export=download"
+   stream:
+    ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHa3liRVp0b2RYWjA"
+    mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHUTlxdFpmY1hQU1k" 
+  -
+   name: "02.mp3"
+   download: "https://docs.google.com/uc?id=0B50W9X-9x9zHQlBIN19ZemY5eWs&export=download"
+   stream:
+    ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHMkZYamF0OGs4V1k"
+    mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHQlBIN19ZemY5eWs"
+
+- name: "Dor e esperança 02"
+  download: "https://docs.google.com/uc?id=0B50W9X-9x9zHUHNnUVVwdTBwSjA&export=download"
+  cover: "http://farm9.staticflickr.com/8778/17074855756_bdb6f0f3b8_n.jpg"
+  tracks:
+  -
+   name: "01.mp3"
+   download: "https://docs.google.com/uc?id=0B50W9X-9x9zHUTlxdFpmY1hQU1k&export=download"
+   stream:
+    ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHa3liRVp0b2RYWjA"
+    mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHUTlxdFpmY1hQU1k" 
+  -
+   name: "02.mp3"
+   download: "https://docs.google.com/uc?id=0B50W9X-9x9zHQlBIN19ZemY5eWs&export=download"
+   stream:
+    ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHMkZYamF0OGs4V1k"
+    mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHQlBIN19ZemY5eWs"
+
+- name: "Dor e esperança 03"
+  download: "https://docs.google.com/uc?id=0B50W9X-9x9zHUHNnUVVwdTBwSjA&export=download"
+  cover: "http://farm9.staticflickr.com/8778/17074855756_bdb6f0f3b8_n.jpg"
+  tracks:
+  -
+   name: "01.mp3"
+   download: "https://docs.google.com/uc?id=0B50W9X-9x9zHUTlxdFpmY1hQU1k&export=download"
+   stream:
+    ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHa3liRVp0b2RYWjA"
+    mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHUTlxdFpmY1hQU1k" 
+  -
+   name: "02.mp3"
+   download: "https://docs.google.com/uc?id=0B50W9X-9x9zHQlBIN19ZemY5eWs&export=download"
+   stream:
+    ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHMkZYamF0OGs4V1k"
+    mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHQlBIN19ZemY5eWs"
+

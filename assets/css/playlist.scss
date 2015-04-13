@@ -1,0 +1,13 @@
+---
+---
+
+@import "../bourbon/bourbon";
+@import "../neat/neat";
+@import "../_sass/variables";
+
+#music {
+  @include outer-container;
+  .pin{
+      @include span-columns(4);
+  }
+}
