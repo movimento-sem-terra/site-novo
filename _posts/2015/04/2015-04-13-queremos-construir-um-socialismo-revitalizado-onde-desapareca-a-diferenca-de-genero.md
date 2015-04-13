@@ -70,7 +70,7 @@ releated_posts:
 H&aacute; muitos anos atr&aacute;s, a chilena e camponesa Francisca Rodrigues produzia flores em sua cidade natal. Com o processo de luta de seu povo, passou a &ldquo;produzir organiza&ccedil;&otilde;es&rdquo;, como bem descreve.</p>
 
 <p style="line-height: 20.7999992370605px;"><br />
-Militante da Coordena&ccedil;&atilde;o Nacional de Mulheres Rurais e Ind&iacute;genas (Conamuri), Francisca Rodrigues fez parte da luta que ficou conhecida como &ldquo;Campanha Continental 500 Anos de Resist&ecirc;ncia Ind&iacute;gena, Negra e Popular&rdquo;, entre os anos de 1989-1992, com a finalidade de fazer frente &agrave;s comemora&ccedil;&otilde;es que pretendiam celebrar os cinco s&eacute;culos da chegada dos europeus no continente latino americano.</p>
+Militante da Associa&ccedil;&atilde;o Nacional de Mulheres Rurais e Ind&iacute;genas (Anamuri), Francisca Rodrigues fez parte da luta que ficou conhecida como &ldquo;Campanha Continental 500 Anos de Resist&ecirc;ncia Ind&iacute;gena, Negra e Popular&rdquo;, entre os anos de 1989-1992, com a finalidade de fazer frente &agrave;s comemora&ccedil;&otilde;es que pretendiam celebrar os cinco s&eacute;culos da chegada dos europeus no continente latino americano.</p>
 
 <p style="line-height: 20.7999992370605px;"><br />
 O resultado destas lutas n&atilde;o apenas permitiu abrir uma trincheira de resist&ecirc;ncia, mas acabou sendo um laborat&oacute;rio que culminou na cria&ccedil;&atilde;o da Coordena&ccedil;&atilde;o Latinoamericana Organiza&ccedil;&otilde;es do Campo (Cloc), em 1994, e posteriormente da Via Campesina, organiza&ccedil;&otilde;es que congregam diversos movimentos sociais do campo de todo o mundo.</p>
