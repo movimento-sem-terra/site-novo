@@ -7,7 +7,7 @@ tags:
 title: "Sindicatos e movimentos sociais vão às ruas dia 15 por direitos trabalhistas\n"
 support_line: "Uma das principais pautas é a luta contra  o PL das terceirizações. O projeto não melhora as condições de trabalho dos 12,7 milhões de terceirizados."
 menu: lutas e mobilizações
-section: cover
+section: null
 layout: post
 files:
   - link: "http://farm8.staticflickr.com/7608/16927378507_98631d19a0_b.jpg"
