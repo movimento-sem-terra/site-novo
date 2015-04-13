@@ -4,8 +4,8 @@ tags:
   - tag: Eduardo-Galeano
   - tag: América-Latina
   - tag: morte
-title: O MST lamenta a morte do grande Eduardo Galeano
-support_line: "O ensaísta, historiador e ficcionista uruguaio, morreu nesta segunda-feira aos 74 anos"
+title: O MST lamenta a morte de Eduardo Galeano
+support_line: "O ensaísta, historiador e ficcionista uruguaio, morreu nesta segunda-feira aos 74 anos."
 menu: solidariedade
 section: cover
 layout: post
@@ -22,15 +22,11 @@ images_hd: "http://farm9.staticflickr.com/8720/16948739168_5450e1e399_n.jpg"
 releated_posts: []
 
 ---
+<p align="center">&nbsp;</p>
+
+<p><em>Da P&aacute;gina do MST</em></p>
+
 <p>&nbsp;</p>
-
-<p align="center"><strong>Eduardo Galeano</strong></p>
-
-<p align="center"><strong>Montevideo, America latina, (1940 -2015)</strong></p>
-
-<p align="center">&nbsp;</p>
-
-<p align="center">&nbsp;</p>
 
 <p>Perdemos hoje a companhia f&iacute;sica do companheiro Eduardo Galeano. Uruguaio de nascimento, caribenho e latino-americano por op&ccedil;&atilde;o de vida e milit&acirc;ncia pol&iacute;tica.</p>
 
