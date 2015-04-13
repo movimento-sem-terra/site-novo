@@ -27,9 +27,7 @@ releated_posts:
 ---
 <p>&nbsp;</p>
 
-<p><img alt="cafecommst.png" height="270" src="http://farm8.staticflickr.com/7625/16949913460_e16738d7b7_b.jpg" width="500" /></p>
-
-<p>&nbsp;</p>
+<p><img alt="cafecommst.png" src="http://farm8.staticflickr.com/7625/16949913460_e16738d7b7_b.jpg" /></p>
 
 <p>&nbsp;</p>
 
