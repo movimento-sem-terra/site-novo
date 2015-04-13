@@ -19,10 +19,10 @@ created_date: "2015-04-13T15:50:54-03:00"
 published: true
 images_hd: "http://farm8.staticflickr.com/7625/16949913460_e16738d7b7_n.jpg"
 releated_posts:
-  - 2015/04/2015-04-09-vivemos-um-novo-momento-da-luta-social-e-politica-no-brasil-onde-a-luta-de-classes-agoniza-e-expoe-as-contradicoes-da-nossa-sociedade.md
   - 2014/07/2014-07-17-familias-sem-terra-seguem-na-luta-por-area-grilada-em-abelardo-luz.md
   - 2014/08/2014-08-14-sem-avancos-2500-trabalhadores-rurais-permanecem-mobilizados-no-para.md
   - 2015/03/2015-03-13-juventude-sem-terra-se-desafia-a-impulsionar-a-participacao-na-luta-pela-reforma-agraria.md
+  - 2015/04/2015-04-06-jornada-universitaria-em-defesa-da-reforma-agraria-aproxima-academia-da-luta-pela-terra.md
 
 ---
 <p>&nbsp;</p>
