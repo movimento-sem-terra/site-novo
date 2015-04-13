@@ -5,7 +5,7 @@ tags:
   - tag: argentina
   - tag: mulheres
   - tag: agricultura-camponesa
-title: "Queremos construir um socialismo revitalizado, onde desapareça a diferença de gênero"
+title: "\"Queremos construir um socialismo revitalizado, onde desapareça a diferença de gênero\""
 support_line: A chilena e camponesa Francisca Rodrigues fala sobr o papel da mulher latino americana num processo de transformação radical da sociedade.
 menu: agricultura camponesa
 layout: post
@@ -16,6 +16,42 @@ files:
     small: "http://farm9.staticflickr.com/8802/16515320894_797f124b95_n.jpg"
     title: francisca.jpg
     $$hashKey: 04E
+  - link: "http://farm8.staticflickr.com/7726/16930411467_2264193cc0_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7726/16930411467_2264193cc0_t.jpg"
+    medium: "http://farm8.staticflickr.com/7726/16930411467_2264193cc0_z.jpg"
+    small: "http://farm8.staticflickr.com/7726/16930411467_2264193cc0_n.jpg"
+    title: "francisca5!.jpg"
+    $$hashKey: 05F
+  - link: "http://farm9.staticflickr.com/8704/16515401564_94a11460e4_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8704/16515401564_94a11460e4_t.jpg"
+    medium: "http://farm9.staticflickr.com/8704/16515401564_94a11460e4_z.jpg"
+    small: "http://farm9.staticflickr.com/8704/16515401564_94a11460e4_n.jpg"
+    title: 17133036915_f9574b5fe8_k.jpg
+    $$hashKey: 05I
+  - link: "http://farm8.staticflickr.com/7628/16950301130_9bd4ddd8bf_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7628/16950301130_9bd4ddd8bf_t.jpg"
+    medium: "http://farm8.staticflickr.com/7628/16950301130_9bd4ddd8bf_z.jpg"
+    small: "http://farm8.staticflickr.com/7628/16950301130_9bd4ddd8bf_n.jpg"
+    title: 17131453632_3d6237bfc9_k.jpg
+    $$hashKey: 05L
+  - link: "http://farm8.staticflickr.com/7682/16517680423_7c401f199e_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7682/16517680423_7c401f199e_t.jpg"
+    medium: "http://farm8.staticflickr.com/7682/16517680423_7c401f199e_z.jpg"
+    small: "http://farm8.staticflickr.com/7682/16517680423_7c401f199e_n.jpg"
+    title: "francisca6!.jpg"
+    $$hashKey: 05O
+  - link: "http://farm9.staticflickr.com/8739/16950094058_92998f01c0_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8739/16950094058_92998f01c0_t.jpg"
+    medium: "http://farm9.staticflickr.com/8739/16950094058_92998f01c0_z.jpg"
+    small: "http://farm9.staticflickr.com/8739/16950094058_92998f01c0_n.jpg"
+    title: 16505167364_6f178b4c3e_z.jpg
+    $$hashKey: 05R
+  - link: "http://farm8.staticflickr.com/7719/16515455594_ed7b359992_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7719/16515455594_ed7b359992_t.jpg"
+    medium: "http://farm8.staticflickr.com/7719/16515455594_ed7b359992_z.jpg"
+    small: "http://farm8.staticflickr.com/7719/16515455594_ed7b359992_n.jpg"
+    title: 17126283862_514c592bde_z.jpg
+    $$hashKey: 05U
 created_date: "2015-04-13T16:17:18-03:00"
 published: true
 images_hd: "http://farm9.staticflickr.com/8802/16515320894_797f124b95_n.jpg"
@@ -39,8 +75,13 @@ Militante da Coordena&ccedil;&atilde;o Nacional de Mulheres Rurais e Ind&iacute;
 <p style="line-height: 20.7999992370605px;"><br />
 O resultado destas lutas n&atilde;o apenas permitiu abrir uma trincheira de resist&ecirc;ncia, mas acabou sendo um laborat&oacute;rio que culminou na cria&ccedil;&atilde;o da Coordena&ccedil;&atilde;o Latinoamericana Organiza&ccedil;&otilde;es do Campo (Cloc), em 1994, e posteriormente da Via Campesina, organiza&ccedil;&otilde;es que congregam diversos movimentos sociais do campo de todo o mundo.</p>
 
-<p style="line-height: 20.7999992370605px;"><br />
-Presente no 6&deg; Congresso Continental da Cloc, que acontece na cidade de Buenos Aires, na Argentina, entre os dias 10 a 17/04, Francisca Rodrigues diz que possivelmente este n&atilde;o ser&aacute; seu &uacute;ltimo congresso, pois pretende estar presente no pr&oacute;ximo, &ldquo;mas creio que neste congresso magn&iacute;fico ser&aacute; minha despedida de 100% ativista&rdquo;.</p>
+<p style="line-height: 20.7999992370605px;">&nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="francisca5!.jpg" src="http://farm8.staticflickr.com/7726/16930411467_2264193cc0_b.jpg" />
+<figcaption></figcaption>
+</figure>
+
+<p style="line-height: 20.7999992370605px;">Presente no 6&deg; Congresso Continental da Cloc, que acontece na cidade de Buenos Aires, na Argentina, entre os dias 10 a 17/04, Francisca Rodrigues diz que possivelmente este n&atilde;o ser&aacute; seu &uacute;ltimo congresso, pois pretende estar presente no pr&oacute;ximo, &ldquo;mas creio que neste congresso magn&iacute;fico ser&aacute; minha despedida de 100% ativista&rdquo;.</p>
 
 <p style="line-height: 20.7999992370605px;"><br />
 &ldquo;Seguirei sendo uma ativista dentro do meu territ&oacute;rio, entregando l&aacute; o que me entreguei &agrave; Am&eacute;rica Latina&rdquo;.</p>
@@ -58,9 +99,11 @@ O debate das mulheres n&atilde;o pode ficar fechado apenas em n&oacute;s mesmas,
 Este &eacute; um processo de longa constru&ccedil;&atilde;o e n&atilde;o vamos conseguir construir uma solu&ccedil;&atilde;o amanh&atilde;. Chegou a hora dos camponeses e as camponesas tamb&eacute;m teorizarem em alguma medida.&nbsp;</p>
 
 <p style="line-height: 20.7999992370605px;"><br />
-Portanto, a aproxima&ccedil;&atilde;o e o trabalho pol&iacute;tico que estamos fazendo avan&ccedil;am junto com a forma&ccedil;&atilde;o. H&aacute; uma pedagogia em todo o debate que nos mostra que a discuss&atilde;o da mulher &eacute; uma discuss&atilde;o pol&iacute;tica, um exerc&iacute;cio pleno de pol&iacute;tica.&nbsp;</p>
+Portanto, a aproxima&ccedil;&atilde;o e o trabalho pol&iacute;tico que estamos fazendo avan&ccedil;am junto com a forma&ccedil;&atilde;o. H&aacute; uma pedagogia em todo o debate que nos mostra que a discuss&atilde;o da mulher &eacute; uma discuss&atilde;o pol&iacute;tica, um exerc&iacute;cio pleno de pol&iacute;tica.<br />
+&nbsp;</p>
 
-<p style="line-height: 20.7999992370605px;"><br />
+<p style="line-height: 20.7999992370605px;"><img alt="17133036915_f9574b5fe8_k.jpg" src="http://farm9.staticflickr.com/8704/16515401564_94a11460e4_b.jpg" /><br />
+<br />
 <strong>E qual seria o debate das mulheres?</strong></p>
 
 <p style="line-height: 20.7999992370605px;"><br />
@@ -75,8 +118,13 @@ Essa riqueza, que pertence ao povo e a toda humanidade, est&aacute; sendo violen
 <p style="line-height: 20.7999992370605px;"><br />
 O que estamos fazendo &eacute; resgatar a esperan&ccedil;a. Quando h&aacute; esperan&ccedil;a h&aacute; sonhos que se podem alcan&ccedil;ar. Por isso dizemos que temos que globalizar a esperan&ccedil;a.&nbsp;</p>
 
-<p style="line-height: 20.7999992370605px;"><br />
-Nossa proposta &eacute; aproximar a constru&ccedil;&atilde;o de uma sociedade feminista de uma sociedade socialista, que tenham identidade dos setores camponeses e ind&iacute;genas, e que seja portador da nossa vis&atilde;o do futuro do desenvolvimento da sociedade.&nbsp;</p>
+<p style="line-height: 20.7999992370605px;">&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="17126283862_514c592bde_z.jpg" src="http://farm8.staticflickr.com/7719/16515455594_ed7b359992_b.jpg" />
+<figcaption></figcaption>
+</figure>
+
+<p style="line-height: 20.7999992370605px;">Nossa proposta &eacute; aproximar a constru&ccedil;&atilde;o de uma sociedade feminista de uma sociedade socialista, que tenham identidade dos setores camponeses e ind&iacute;genas, e que seja portador da nossa vis&atilde;o do futuro do desenvolvimento da sociedade.&nbsp;</p>
 
 <p style="line-height: 20.7999992370605px;"><br />
 Uma sociedade com gente participando com igualdade de direitos e construindo o futuro. Acredito que &eacute; um desafio muito grande, mas n&atilde;o vamos fazer isso sozinhas. Por isso necessitamos discutir tamb&eacute;m com mulheres de outros setores, como as trabalhadoras da cidade.&nbsp;</p>
@@ -108,7 +156,8 @@ Esse &eacute; um trabalho compartilhado, em comunidade, em fam&iacute;lia. Esse 
 <p style="line-height: 20.7999992370605px;"><br />
 Quando lutamos pela terra, pela soberania alimentar, pela &aacute;gua e pela defesa dos nossos territ&oacute;rios como espa&ccedil;o central para a vida de nossas comunidades, afirmamos que os conflitos s&atilde;o territoriais e sociais. Defendemos o territ&oacute;rio em toda a sua magnitude.&nbsp;</p>
 
-<p style="line-height: 20.7999992370605px;"><br />
+<p style="line-height: 20.7999992370605px;"><img alt="francisca6!.jpg" src="http://farm8.staticflickr.com/7682/16517680423_7c401f199e_b.jpg" /><br />
+<br />
 <strong>Por que h&aacute; uma particularidade da luta das mulheres contra o agroneg&oacute;cio?&nbsp;</strong></p>
 
 <p style="line-height: 20.7999992370605px;"><br />
@@ -126,7 +175,8 @@ Mas quando constru&iacute;mos um movimento feminista, uma proposta frente a tant
 <p style="line-height: 20.7999992370605px;"><br />
 Temos que abordar esse debate a partir de uma identidade de classe, e nos enxergar enquanto classe para podermos caminhar como iguais e construir essa sociedade nova. Uma sociedade com justi&ccedil;a e solidariedade, onde o centro &eacute; o desenvolvimento do ser humano.&nbsp;</p>
 
-<p style="line-height: 20.7999992370605px;"><br />
+<p style="line-height: 20.7999992370605px;"><img alt="17131453632_3d6237bfc9_k.jpg" src="http://farm8.staticflickr.com/7628/16950301130_9bd4ddd8bf_b.jpg" /><br />
+<br />
 <strong>E qual &eacute; o maior empecilho no atual momento?</strong></p>
 
 <p style="line-height: 20.7999992370605px;"><br />
@@ -139,7 +189,13 @@ Os trabalhadores, que historicamente lutaram por conquistas de direitos, est&ati
 Temos que saber que o capitalismo &eacute; uma for&ccedil;a potente, mas n&atilde;o invenc&iacute;vel. Temos for&ccedil;a, raz&atilde;o e capacidade, o que falta &eacute; um processo de unidade verdadeiro para construir um grande projeto popular que nos permita deixar claro para onde queremos caminhar. E queremos contribuir a partir da nossa condi&ccedil;&atilde;o de mulher que, atualmente, s&atilde;o impedidas de exercer plenamente seus direitos. &Eacute; preciso que se entenda que n&atilde;o h&aacute; mudan&ccedil;a na sociedade se n&atilde;o houver transforma&ccedil;&atilde;o em nossa cultura.</p>
 
 <p style="line-height: 20.7999992370605px;"><br />
-<strong>O que se avan&ccedil;ou dos congressos anteriores para este no debate em rela&ccedil;&atilde;o &agrave;s mulheres?</strong></p>
+&nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="16505167364_6f178b4c3e_z.jpg" src="http://farm9.staticflickr.com/8739/16950094058_92998f01c0_b.jpg" />
+<figcaption></figcaption>
+</figure>
+
+<p style="line-height: 20.7999992370605px;"><strong>O que se avan&ccedil;ou dos congressos anteriores para este no debate em rela&ccedil;&atilde;o &agrave;s mulheres?</strong></p>
 
 <p style="line-height: 20.7999992370605px;"><br />
 Acredito que nossos processos tiveram um crescimento. N&atilde;o isentos de problemas, porque tamb&eacute;m n&atilde;o podemos desconsiderar que temos problemas. Somos um movimento novo. Somos jovens, temos 21 anos. Mas fomos capazes de recorrer a um processo hist&oacute;rico e a experi&ecirc;ncias de processos antigos, e incorporarmos novos processos.</p>
