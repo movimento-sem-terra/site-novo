@@ -2,6 +2,7 @@
 layout: default
 title: Musicoteca
 styles: ["playlist.css"]
+scripts: ["playlist.js"]
 ---
 <main id="music">
   <section id="about">
@@ -14,13 +15,27 @@ styles: ["playlist.css"]
     </div>
   </section>
   <div id="playlist">
-    {% for t in site.data.playlist %}
-    <section class="pin">
-      <img src="{{ t.cover  }}"/>
+    {% for album in site.data.playlist %}
+    <section class="pin" data-index='{{ forloop.index }}'>
+      <img src="{{ album.cover  }}"/>
       <p>
-        {{ t.name }}
+        {{ album.name }}
       </p>
     </section>
+    <aside class='player'  id='album_{{ forloop.index }}'>
+      <h2>{{ album.name }}</h2>
+ 
+      <ol>
+        {% for track in album.tracks  %}
+        <li>{{ track.name }} - 
+          <audio preload="none" controls>
+            <source src="{{track.mp3}}" type="audio/mpeg">
+            <source src="{{track.ogg}}" type="application/ogg">
+          </audio>
+        </li>
+        {% endfor %}
+      </ol>
+    </aside>
     {% endfor %}
   </div>
 </main>
