@@ -13,15 +13,17 @@ styles: ["playlist.css"]
       </div>
     </div>
   </section>
-  {% for t in site.data.playlist %}
-          <section class="pin">
-            <img src="{{ t.cover  }}"/>
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-              Sed feugiat consectetur pellentesque. Nam ac elit risus, 
-              ac blandit dui. Duis rutrum porta tortor ut convallis.
-              Duis rutrum porta tortor ut convallis.
-            </p>
-          </section>
-  {% endfor %}
+  <div id="playlist">
+    {% for t in site.data.playlist %}
+    <section class="pin">
+      <img src="{{ t.cover  }}"/>
+      <p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+        Sed feugiat consectetur pellentesque. Nam ac elit risus, 
+        ac blandit dui. Duis rutrum porta tortor ut convallis.
+        Duis rutrum porta tortor ut convallis.
+      </p>
+    </section>
+    {% endfor %}
+  </div>
 </main>

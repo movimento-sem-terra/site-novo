@@ -7,16 +7,50 @@
 
 $mobile: new-breakpoint(max-width 768px);
 
-#music {
+//EXTENDS
+.center{
+  max-width: 1020px;
+  margin: 0 auto;
+}
+
+.default-container{
   @include outer-container;
-  .pin{
-      @include span-columns(4);
+  @extend .center;
+}
+.text-with-shadow{
+  text-shadow: 1px 2px 1px #000000;
+  font-family: 'Exo 2';
+  color: #ffffff;
+  font-weight: 500;
+}
+
+.title-with-shadow{
+  text-shadow: 1px 2px 4px #000000;
+  color: #ffffff;
+}
+
+.truncate {
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+//END
+
+#music {
+  padding: 0;
+  width: 100%;
+  background-color: #f8f8f9;
+
+  #playlist {
+    @include outer-container;
+    .pin{
+        @include span-columns(4);
+    }
   }
 
   #about {
     padding-bottom: 36px;
     overflow: hidden;
-    background: url(../img/educacao/background.jpg) no-repeat left top;
+    background: url('https://farm8.staticflickr.com/7288/16203273487_0bdeaeddf6_z.jpg') no-repeat left top;
             background-size: cover;
          -o-background-size: cover;
        -moz-background-size: cover;
