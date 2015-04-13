@@ -5,9 +5,59 @@
 @import "../neat/neat";
 @import "../_sass/variables";
 
+$mobile: new-breakpoint(max-width 768px);
+
 #music {
   @include outer-container;
   .pin{
       @include span-columns(4);
+  }
+
+  #about {
+    padding-bottom: 36px;
+    overflow: hidden;
+    background: url(../img/educacao/background.jpg) no-repeat left top;
+            background-size: cover;
+         -o-background-size: cover;
+       -moz-background-size: cover;
+    -webkit-background-size: cover;
+
+    .content {
+      @extend .default-container;
+      margin-top: 49px;
+
+      & > p{
+        @extend .text-with-shadow;
+        font-size: 18px;
+      }
+
+      h2 {
+        @extend .title-with-shadow;
+        font-size: 36px;
+        font-style: italic;
+
+        @include media($mobile) {
+          padding: 10px;
+        }
+
+      }
+
+      #summary {
+        @include span-columns(6);
+        overflow: hidden;
+        float: left;
+        p {
+          @extend .title-with-shadow;
+          font: 500 18px / 24px;
+          color: #ffffff;
+          font-weight: 200;
+          padding: 10px;
+        }
+
+        @include media($mobile) {
+          @include fill-parent();
+        }
+      }
+    }
   }
 }
