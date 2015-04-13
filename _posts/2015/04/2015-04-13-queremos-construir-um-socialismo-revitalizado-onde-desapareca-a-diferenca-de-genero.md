@@ -6,7 +6,7 @@ tags:
   - tag: mulheres
   - tag: agricultura-camponesa
 title: "\"Queremos construir um socialismo revitalizado, onde desapareça a diferença de gênero\""
-support_line: A chilena e camponesa Francisca Rodrigues fala sobr o papel da mulher latino americana num processo de transformação radical da sociedade.
+support_line: A camponesa chilena Francisca Rodrigues fala sobr o papel da mulher latino americana num processo de transformação radical da sociedade.
 menu: agricultura camponesa
 layout: post
 files:
@@ -67,7 +67,7 @@ releated_posts:
 <em style="line-height: 1.6;">Da Cloc - Via Campesina</em></p>
 
 <p style="line-height: 20.7999992370605px;"><br />
-H&aacute; muitos anos atr&aacute;s, a chilena e camponesa Francisca Rodrigues produzia flores em sua cidade natal. Com o processo de luta de seu povo, passou a &ldquo;produzir organiza&ccedil;&otilde;es&rdquo;, como bem descreve.</p>
+H&aacute; muitos anos atr&aacute;s, a camponesa chilena Francisca Rodrigues produzia flores em sua cidade natal. Com o processo de luta de seu povo, passou a &ldquo;produzir organiza&ccedil;&otilde;es&rdquo;, como bem descreve.</p>
 
 <p style="line-height: 20.7999992370605px;"><br />
 Militante da Associa&ccedil;&atilde;o Nacional de Mulheres Rurais e Ind&iacute;genas (Anamuri), Francisca Rodrigues fez parte da luta que ficou conhecida como &ldquo;Campanha Continental 500 Anos de Resist&ecirc;ncia Ind&iacute;gena, Negra e Popular&rdquo;, entre os anos de 1989-1992, com a finalidade de fazer frente &agrave;s comemora&ccedil;&otilde;es que pretendiam celebrar os cinco s&eacute;culos da chegada dos europeus no continente latino americano.</p>
