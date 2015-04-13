@@ -40,11 +40,11 @@ releated_posts: []
 
 <p>&nbsp;</p>
 
-<p>Detentor de um texto primoroso, sem abrir m&atilde;o de suas convic&ccedil;&otilde;es politicas e da identidade cultural do seu povo, sabia, como s&aacute;bio que era, que o aprendizado verdadeiro &eacute; o que jorra do povo. Por isso n&atilde;o hesitou em dizer que &ldquo;a solidariedade &eacute; horizontal: respeita a outra pessoa&nbsp; e aprende com o outro. A maioria de n&oacute;s tem muito o que aprender com as outras pessoas&rdquo;.</p>
+<p>Detentor de um texto primoroso, sem abrir m&atilde;o de suas convic&ccedil;&otilde;es pol&iacute;ticas e da identidade cultural do seu povo, sabia, como s&aacute;bio que era, que o aprendizado verdadeiro &eacute; o que jorra do povo. Por isso, n&atilde;o hesitou em dizer que &ldquo;a solidariedade &eacute; horizontal: respeita a outra pessoa&nbsp; e aprende com o outro. A maioria de n&oacute;s tem muito o que aprender com as outras pessoas&rdquo;.</p>
 
 <p>&nbsp;</p>
 
-<p>Sempre do lado dos mais pobres, reverenciado no mundo todo por causa de suas obras liter&aacute;rias, era um instig&aacute;vel companheiros dos ningu&eacute;ns.</p>
+<p>Sempre do lado dos mais pobres, reverenciado no mundo todo por causa de suas obras liter&aacute;rias, era um instig&aacute;vel companheiro dos ningu&eacute;ns.</p>
 
 <p>&nbsp;</p>
 
@@ -65,15 +65,15 @@ Os ningu&eacute;ns, que custam menos do que a bala que os mata.&rdquo;</em></p>
 
 <p>&nbsp;</p>
 
-<p>Montevideo, America latina, (1940 -2015)</p>
+<p>Montevid&eacute;u, Am&eacute;rica Latina, (1940 -2015)</p>
 
 <p>&nbsp;</p>
 
-<p>A impossibilidade de escrever sobre Galeano sem recorrer o que ele mesmo nos legou, &eacute; a prova mais contundente que ele continua entre n&oacute;s. A ele sempre iremos recorrer para nos abastecer da utopia, inalcan&ccedil;&aacute;vel, mas que nos faz caminhar em seu alcance.</p>
+<p>A impossibilidade de escrever sobre Galeano sem recorrer ao que ele mesmo nos legou, &eacute; a prova mais contundente que ele continua entre n&oacute;s. A ele sempre iremos recorrer para nos abastecer da utopia, inalcan&ccedil;&aacute;vel, mas que nos faz caminhar em seu alcance.</p>
 
 <p>&nbsp;</p>
 
-<p>Este &eacute; um pouco do Galeano que nos deixou. J&aacute; nos faz falta sua conviv&ecirc;ncia e presen&ccedil;a f&iacute;sica, sempre presente&nbsp; nas primeiras fileiras nas lutas contra a opress&atilde;o e as injusti&ccedil;as e em defesa de uma sociedade socialista. Continuar&aacute;, entre n&oacute;s, pelos ensinamentos e exemplo de vida que deixou &agrave; posteridade. Deles seremos herdeiros e compromissados a seguir seus ideais de uma sociedade socialmente justa, igualit&aacute;ria e democr&aacute;tica.</p>
+<p>Este &eacute; um pouco do Galeano que nos deixou. J&aacute; nos faz falta sua conviv&ecirc;ncia e presen&ccedil;a f&iacute;sica, sempre presente&nbsp; nas primeiras fileiras das lutas contra a opress&atilde;o, as injusti&ccedil;as e em defesa de uma sociedade socialista. Continuar&aacute;, entre n&oacute;s, pelos ensinamentos e exemplo de vida que deixou &agrave; posteridade. Deles seremos herdeiros e compromissados a seguir seus ideais de uma sociedade socialmente justa, igualit&aacute;ria e democr&aacute;tica.</p>
 
 <p>&nbsp;</p>
 
