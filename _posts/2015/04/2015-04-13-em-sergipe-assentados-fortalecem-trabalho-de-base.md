@@ -53,48 +53,23 @@ releated_posts:
 
 <div>&nbsp;</div>
 
-<div>&nbsp;</div>
+<div>
+<p><em>Por Luiz M&aacute;rio Santana</em></p>
 
-<div><em>Por Luiz M&aacute;rio Santana </em></div>
+<p><br />
+Cerca de 180 fam&iacute;lias participaram nesse &uacute;ltimo fim de semana de uma atividade de forma&ccedil;&atilde;o no Acampamento 1&ordm; de Maio localizado no Munic&iacute;pio de Tomar do Geru &nbsp;na regi&atilde;o sul de Sergipe.</p>
 
-<div>&nbsp;</div>
+<p><br />
+A atividade que contou com a participa&ccedil;&atilde;o dos setores de cultura, comunica&ccedil;&atilde;o e juventude, serviu de base para o fortalecimento da luta pela Reforma Agr&aacute;ria Popular.</p>
 
-<div>&nbsp;</div>
+<p><br />
+Temas como organicidade interna do Movimento, papel da juventude, cultura, a manipula&ccedil;&atilde;o da m&iacute;dia e a luta pela terra fizeram parte das discuss&otilde;es que tiveram inicio com uma roda de sarau com m&uacute;sicas e poesias.&nbsp;</p>
 
-<div>Cerca de 180 fam&iacute;lias participaram nesse &uacute;ltimo fim de semana de uma atividade de forma&ccedil;&atilde;o no Acampamento 1&ordm; de Maio localizado no Munic&iacute;pio de Tomar do Geru&nbsp; na regi&atilde;o sul de Sergipe.</div>
+<p><br />
+De acordo a coordenadora do acampamento, Vanuzia, a atividade aconteceu em um momento muito importante para todas as fam&iacute;lias. crucial de reestrutura&ccedil;&atilde;o de todas as fam&iacute;lias do assentamento.</p>
 
-<div>&nbsp;</div>
+<p><br />
+&quot;Nosso objetivo &eacute; fazer com que as fam&iacute;lias se mantenham acreditando na luta, e com isso o movimento cada vez mais ganha for&ccedil;a na certeza de que tudo s&oacute; depender&aacute; de nossa organiza&ccedil;&atilde;o para alcan&ccedil;armos os objetivos em busca da conquista pela terra&quot;, concluiu.</p>
 
-<div>&nbsp;</div>
-
-<div>A atividade que contou com a&nbsp;participa&ccedil;&atilde;o dos setores de cultura, comunica&ccedil;&atilde;o e juventude, serviu de base para o fortalecimento da luta pela Reforma Agr&aacute;ria Popular.</div>
-
-<div>&nbsp;</div>
-
-<div>&nbsp;</div>
-
-<div>Temas como organicidade interna do Movimento, papel da juventude, cultura, a manipula&ccedil;&atilde;o da m&iacute;dia e a luta pela terra fizeram parte das discuss&otilde;es que tiveram inicio com uma roda de sarau com m&uacute;sicas e poesias.</div>
-
-<div>&nbsp;</div>
-
-<div>&nbsp;</div>
-
-<div><img alt="dd.jpg" src="http://farm9.staticflickr.com/8802/16948653640_e307cfa291_b.jpg" /></div>
-
-<div>&nbsp;</div>
-
-<div>&nbsp;</div>
-
-<div>De acordo a coordenadora do acampamento, Vanuzia, a atividade aconteceu em um momento muito importante para todas as fam&iacute;lias. crucial de reestrutura&ccedil;&atilde;o de todas as fam&iacute;lias do assentamento.</div>
-
-<div>&nbsp;</div>
-
-<div>&nbsp;</div>
-
-<div>&quot;Nosso objetivo &eacute; fazer com que as fam&iacute;lias se mantenham acreditando na luta, e com isso o movimento cada vez mais ganha for&ccedil;a na certeza de que tudo s&oacute; depender&aacute; de nossa organiza&ccedil;&atilde;o para alcan&ccedil;armos os objetivos em busca da conquista pela terra&quot;, concluiu.</div>
-
-<div>&nbsp;</div>
-
-<div>&nbsp;</div>
-
-<div>&nbsp;</div>
+<p><img alt="dd.jpg" src="http://farm9.staticflickr.com/8802/16948653640_e307cfa291_b.jpg" /></p>
+</div>
