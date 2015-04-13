@@ -4,7 +4,7 @@ tags:
   - tag: Eduardo-Galeano
   - tag: América-Latina
   - tag: morte
-title: MST lamenta a morte de Eduardo Galeano
+title: "Perdemos a companhia física de Eduardo Galeano, mas seu legado é eterno"
 support_line: "O ensaísta, historiador e ficcionista uruguaio, morreu nesta segunda-feira aos 74 anos."
 menu: solidariedade
 section: cover
