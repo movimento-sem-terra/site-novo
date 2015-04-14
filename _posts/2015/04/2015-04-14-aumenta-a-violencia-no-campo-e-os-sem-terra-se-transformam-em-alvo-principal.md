@@ -6,7 +6,7 @@ tags:
   - tag: indígenas
   - tag: Sem-Terra
   - tag: latifúndio
-title: Aumenta a violência no campo e os Sem Terra se transformam em alvo principal
+title: Aumenta a violência no campo e Sem Terra se transformam em alvo principal
 support_line: Números são referentes ao ano de 2014. Dados são da Comissão Pastoral da Terra.
 menu: reforma agrária
 layout: post
@@ -21,17 +21,16 @@ created_date: "2015-04-14T17:12:39-03:00"
 published: true
 images_hd: "http://farm8.staticflickr.com/7660/16962342360_120e51c882_n.jpg"
 releated_posts:
-  - 2015/02/2015-02-27-fazendeiros-prometem-realizar-despejo-de-grupo-kaiowa-com-as-proprias-maos.md
-  - 2014/12/2014-10-31-em-carta-a-presidenta-dilma-cpt-reivindica-a-luta-dos-povos-do-campo.md
-  - 2014/12/2014-11-05-cpt-quer-mais-compromisso-do-governo-com-os-povos-que-lutam-pela-terra.md
   - 2015/02/2015-02-13-para-concentra-38-dos-assassinatos-por-conflito-de-terra-no-pais.md
+  - 2015/03/2015-03-03-relatorio-mostra-aumento-na-concentracao-de-terras-do-brasil.md
+  - 2015/02/2015-02-12-pec-215-volta-a-ameacar-direitos-indigenas.md
+  - 2015/04/2015-04-10-brasilia-sera-palco-do-i-acampamento-terra-livre-em-defesa-dos-povos-indigenas.md
 section: cover
 
 ---
 <div>
-<p>&nbsp;</p>
-
-<p><em>Por Iris Pacheco<br />
+<p><br />
+<em>Por Iris Pacheco<br />
 ​Da P&aacute;gina do MST</em></p>
 
 <p><br />
