@@ -6,7 +6,7 @@ tags:
   - tag: indígenas
   - tag: Sem-Terra
   - tag: latifúndio
-title: "Aumenta a violência no campo e os sem-terra se transformam em alvo principal\n"
+title: "Aumenta a violência no campo e os Sem Terra se transformam em alvo principal\n"
 support_line: Números são referentes ao ano de 2014. Dados são da Comissão Pastoral da Terra.
 menu: reforma agrária
 layout: post
@@ -38,9 +38,8 @@ releated_posts:
 <div><br />
 Foram 11 assassinatos, do total de 36 registrados. Oito deles eram assentados e sete eram posseiros. As tentativas de assassinato, por sua vez, aumentaram de forma vertiginosa. Em 2013 foram registradas 15 tentativas de assassinato, enquanto no ano passado foram 56, o que representa um aumento de 273% no n&uacute;mero de casos.</div>
 
-<div>&nbsp;</div>
-
-<div>Segundo o presidente da CPT, Dom Enem&eacute;sio Lazzaris, o avan&ccedil;o do agroneg&oacute;cio e a concentra&ccedil;&atilde;o fundi&aacute;ria vitimam os povos do campo e mant&eacute;m o ciclo de desigualdade no pa&iacute;s.</div>
+<div><br />
+Segundo o presidente da CPT, Dom Enem&eacute;sio Lazzaris, o avan&ccedil;o do agroneg&oacute;cio e a concentra&ccedil;&atilde;o fundi&aacute;ria vitimam os povos do campo e mant&eacute;m o ciclo de desigualdade no pa&iacute;s.</div>
 
 <div>&nbsp;</div>
 
