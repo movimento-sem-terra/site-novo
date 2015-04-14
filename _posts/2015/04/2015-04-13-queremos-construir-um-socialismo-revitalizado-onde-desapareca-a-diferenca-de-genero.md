@@ -60,6 +60,7 @@ releated_posts:
   - 2015/04/2015-04-12-muitos-caminhos-e-uma-so-direcao-6-congresso-continental-da-cloc.md
   - 2015/04/2015-04-12-nao-temos-apenas-tetas-mas-cabeca-e-forca-para-conduzir-o-que-queremos.md
   - 2015/04/2015-04-10-para-juventude-da-cloc-o-caminho-para-a-transformacao-e-a-organizacao.md
+label: interviews
 
 ---
 <p style="line-height: 20.7999992370605px;"><img alt="francisca.jpg" src="http://farm9.staticflickr.com/8802/16515320894_797f124b95_b.jpg" /><br />
