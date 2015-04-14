@@ -7,7 +7,7 @@ tags:
 title: "Perdemos a companhia física de Eduardo Galeano, mas seu legado é eterno"
 support_line: "O ensaísta, historiador e ficcionista uruguaio, morreu nesta segunda-feira aos 74 anos."
 menu: solidariedade
-section: cover
+section: featured-news
 layout: post
 files:
   - link: "http://farm8.staticflickr.com/7666/16515131014_07b17c24f6_b.jpg"
