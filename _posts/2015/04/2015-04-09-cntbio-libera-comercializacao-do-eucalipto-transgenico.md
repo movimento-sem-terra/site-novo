@@ -25,7 +25,7 @@ releated_posts:
   - 2015/04/2015-04-01-apenas-um-mes-depois-ctnbio-pretende-votar-liberacao-de-eucalipto-transgenico.md
   - 2015/04/2015-04-08-eucalipto-transgenico-vai-sugar-agua-ate-que-ela-acabe.md
   - 2015/02/2015-02-18-monocultivo-de-eucalipto-parece-uma-floresta-mas-nao-e.md
-section: featured-news
+section: null
 
 ---
 <p><br />
