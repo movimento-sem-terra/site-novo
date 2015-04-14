@@ -50,6 +50,18 @@ $mobile: new-breakpoint(max-width 768px);
     .player {
       display:none;
     }
+
+    .list .track{
+      a {
+        color: red;
+      }
+
+      &.active{
+        a {
+          color: green;
+        }
+      }
+    }
   }
 
   #about {
