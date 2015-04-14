@@ -31,9 +31,11 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p>Cerca de 600 integrantes do MST ocuparam na manh&atilde; desta ter&ccedil;a-feira (14), a sede do Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra), em Cuiab&aacute;, Mato Grosso.</p>
+<p>Cerca de 600 integrantes do MST ocuparam na manh&atilde; desta ter&ccedil;a-feira (14), a sede do Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra), em Cuiab&aacute;, Mato Grosso.<br />
+&nbsp;</p>
 
-<p>A a&ccedil;&atilde;o faz parte da Jornada Nacional de Lutas pela Reforma Agr&aacute;ria, que acontecem durante todo o m&ecirc;s de abril pelo pa&iacute;s, e tem como objetivo principal, cobrar do governo estadual e federal a desapropria&ccedil;&atilde;o de terras para a Reforma Agr&aacute;ria, e a constru&ccedil;&atilde;o de um programa voltado para a garantia da infraestrutura dos assentamentos.</p>
+<p>A a&ccedil;&atilde;o faz parte da Jornada Nacional de Lutas pela Reforma Agr&aacute;ria, que acontecem durante todo o m&ecirc;s de abril pelo pa&iacute;s, e tem como objetivo principal, cobrar do governo estadual e federal a desapropria&ccedil;&atilde;o de terras para a Reforma Agr&aacute;ria, e a constru&ccedil;&atilde;o de um programa voltado para a garantia da infraestrutura dos assentamentos.<br />
+&nbsp;</p>
 
 <p>Al&eacute;m disso, os trabalhadores relembram o massacre ocorrido em 1996, &nbsp;quando 21 trabalhadores rurais sem terra foram assassinados e mais de 60 ficaram feridos&nbsp;durante uma opera&ccedil;&atilde;o da Pol&iacute;cia Militar para reprimir uma marcha dos trabalhadores, no sudeste do Par&aacute;.</p>
 
