@@ -30,7 +30,7 @@ releated_posts:
   - 2015/03/2015-03-05-mulheres-contra-o-eucalipto-transgenico.md
   - 2015/03/2015-03-06-apos-acoes-sincronizadas-movimentos-barram-aprovacao-do-eucalipto-transgenico.md
   - 2014/12/2014-12-09-a-quem-interessa-o-brasil-ser-o-primeiro-pais-a-liberar-eucalipto-transgenico.md
-section: featured-news
+section: null
 
 ---
 <p><img alt="eucalipto (1).jpg" src="http://farm8.staticflickr.com/7613/16793817087_312241f288_b.jpg" /><br />
