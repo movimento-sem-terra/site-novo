@@ -16,7 +16,6 @@ function create_gh_pages {
   pushd $TMP
     git checkout --orphan gh-pages
     git pull origin gh-pages
-    git rm -qrf .
     git commit -qam "" --allow-empty --allow-empty-message
     git push origin gh-pages
   popd
