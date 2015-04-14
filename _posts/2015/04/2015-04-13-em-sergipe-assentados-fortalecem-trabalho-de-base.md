@@ -1,5 +1,5 @@
 ---
-date: "2015-04-13T13:06:47-03:00"
+date: "2015-04-13T07:06:47-03:00"
 tags:
   - tag: lutas-e-mobilizações
   - tag: base
