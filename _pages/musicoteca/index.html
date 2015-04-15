@@ -18,11 +18,11 @@ scripts: ["playlist.js"]
     {% for album in site.data.playlist %}
     <section class="album" data-index="{{ forloop.index0 }}">
       <img src="{{ album.cover  }}"/>
+      <button class="play"><span class="fa fa-play fa-3"></span></button>
       <h2>{{ album.name }}</h2>
+      <button><span class="fa fa-download fa-3"></span> download</button>
 
       <aside class="player"  id="album_{{ forloop.index0 }}">
-        <h2>{{ album.name }}</h2>
-
         <audio preload="none" controls id="player_{{ forloop.index0 }}" data-current-track="0">
           Sorry, your browser does not support HTML5 audio.
         </audio>

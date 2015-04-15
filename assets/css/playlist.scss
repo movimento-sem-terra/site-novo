@@ -43,6 +43,7 @@ $mobile: new-breakpoint(max-width 768px);
   #playlist {
     @include outer-container;
     .album{
+        text-align: center;
         padding: 0;
         margin-bottom: 10px;
         background: white;
@@ -51,13 +52,25 @@ $mobile: new-breakpoint(max-width 768px);
         @include span-columns(3);
         @include omega(4n);
 
+        .play {
+          font-size: 1.7em;
+          background: $mst-red;
+          border: none;
+          border-radius: 50%;
+          width: 80px;
+          height: 80px;
+          color: white;
+          @include transform(translateY(-30px));
+          box-shadow: 1px 2px 2px $mst-medium-gray;
+
+        }
+
 
         .player {
           display:none;
         }
 
         h2 {
-          text-align: right;
           font-size: 1.2em;
           padding: 10px;
           font-weight: 100;
