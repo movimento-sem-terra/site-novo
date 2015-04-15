@@ -4,8 +4,8 @@ tags:
   - tag: jornadad-e-lutas-abril-2015
   - tag: reforma-agrária
   - tag: lutas-e-mobilizações
-title: "Começa a Jornada Nacional de Lutas em todo país "
-support_line: Sem Terra vão às pela Reforma Agrária Popular
+title: "Começa a Jornada Nacional de Lutas do MST "
+support_line: "Até o fim dessa semana, Sem Terra vão às ruas de todo país pela Reforma Agrária Popular"
 menu: lutas e mobilizações
 layout: post
 files:
@@ -41,6 +41,7 @@ releated_posts:
   - 2015/04/2015-04-02-o-nosso-exercito-e-de-trabalhadores-que-lutam-pela-terra-diz-coordenador-do-mst.md
   - 2015/04/2015-04-07-em-dia-nacional-de-luta-sem-terra-trancam-tres-brs-em-mato-grosso.md
   - 2015/04/2015-04-13-em-sergipe-assentados-fortalecem-trabalho-de-base.md
+section: featured-news
 
 ---
 <p><br />
