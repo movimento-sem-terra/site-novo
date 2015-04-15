@@ -1,955 +1,954 @@
 ---
-  - 
-    name: "01 - Dor e Esperança"
-    tracks: 
-      - 
+  -
+    name: "Dor e Esperança"
+    tracks:
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHa3liRVp0b2RYWjA"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHUTlxdFpmY1hQU1k"
         name: "1 - Faixa"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHMkZYamF0OGs4V1k"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHQlBIN19ZemY5eWs"
         name: "2 - Faixa"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHU3NycUoxRGlqYjQ"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHaUstM0VRS1VBSkU"
         name: "3 - Faixa"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHS1N3SWIyUnpLRE0"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHQUtRZlNoNWNXNWc"
         name: "4 - Faixa"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHLUtVc3JZRm5FU1k"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHWU9iYVB1WVlINmM"
         name: "5 - Faixa"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHcWt1N041bGxIZzg"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHMGdrSjVFRTFJVHM"
         name: "6 - Faixa"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHNnFoeEZnTkFhVW8"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHYzdrNWNQN0NWREk"
         name: "7 - Faixa"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHRGtZN2dlYml3eFU"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHTE1hUzZLR2ltTkk"
         name: "8 - Faixa"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHc29BeU5hLVpwVGM"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHLU1wbEVFYmlaaGM"
         name: "9 - Faixa"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHandDcGVKUXVvYVk"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHTUpKNEU2ZmJ0eDg"
         name: "10 - Faixa"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHcGJGNXhLdEwtTTA"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHQnlsNzNPQUVVS0k"
         name: "11 - Faixa"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHZnZqVXRkZHBnOTA"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHTmVEcEZiVGZtY1U"
         name: "12 - Faixa"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHX2o2VHZMbVUwVG8"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHWXl1N1Q2VzBWY3c"
         name: "13 - Faixa"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHNFc2TFFreHd1TEk"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHNXhKZmg3S3g2RFE"
         name: "14 - Faixa"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHWWJycTJ5cnZDOTA"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHaFFFN01GaEJBWkU"
         name: "15 - Faixa"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHMUwzRjVzTElrTTg"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHLUtPTHBWUlo5SEU"
         name: "16 - Faixa"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHRXBUS0E5Qk9mNmc"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHVWNZMVM3a3NYLWM"
         name: "17 - Faixa"
     download: "https://docs.google.com/uc?id=0B50W9X-9x9zHUHNnUVVwdTBwSjA"
     cover: "http://farm9.staticflickr.com/8736/17138239765_3dec172030_n.jpg"
-  - 
-    name: "02 - Cantares da Educação do Campo"
-    tracks: 
-      - 
+  -
+    name: "Cantares da Educação do Campo"
+    tracks:
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHUFFGUjhmak5wdlU"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHMmZKSUxrM3hpY0k"
         name: "01 - A educação do campo - Gilvan Santos"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHSGlBejZFQmRpWWc"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHemVfaHBtSkhIb0U"
         name: "02 - Sempre é tempo de aprender - Zé Pinto"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHRm8tYlZhdS1vSGM"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHWkpkTWxVb1VpVlE"
         name: "03 - Passos do saber - Marcinha"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHc2NIUGtpTW1OOXc"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHUXlYUHhRdEJvTVE"
         name: "04 - Menina do sertão - Talis Ribeiro e Alberto Oliveira"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHb0pqYXdYZHRzSlE"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHdmJ1TmhfVjZGVjg"
         name: "05 - Samba da natureza - Lupércio"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHbjFEeTZoZ0dqcGs"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHLWtyajNld3JUTFk"
         name: "06 - Não vou sair do campo - Gilvan dos Santos"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHLUxIcDNhcjNqZnc"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHbzVfeGptcGM5czg"
         name: "07 - Pra vida continuar - Zé Pinto"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHSWJtQ016NGtSSXc"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHaXlDREU4czZrbDQ"
         name: "08 - Um novo jeito de educar - Cida Dias"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHYXc4dE9MQTB0MkE"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHZTFlOWZ0aG1nbzA"
         name: "09 - Uma nova educação - Zé Cláudio"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHMGFscDJLYXNXUjg"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHUjRoV0JmdW5reFE"
         name: "10 - Caminhos alternativos - Zé Pinto"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHaFVZV212WVU1dnM"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHd3BucmlWMjVJSnM"
         name: "11 - Pedagogia da terra - Turma José Marti, ITERRA"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHRThWcV84WVF4a0E"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHNS01aEhodG1pQVU"
         name: "12 - Matutando cam maturana - Gilvan Santos"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHN05RSEl6UkNFb2M"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHSW1BSlp3MjI1ajg"
         name: "13 - Canção da terra - Pedro Munhoz"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHQjkzSHZVYmlNUlE"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHSEpZNjhEWTVXTFU"
         name: "14 - Sonho e compromisso - Zé Pinto"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHSzZQb0tiOEI0eFk"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHWjBuOTh6QWdHT00"
         name: "15 - Construtores do futuro - Gilvan Santos"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHa1VGYTllRnpuRTg"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHM1djMU1wV29TaWc"
         name: "16 - Um canto novo - Abrão Godois"
     download: "https://docs.google.com/uc?id=0B50W9X-9x9zHVXAtd2NsdC0wMkE"
     cover: "http://farm9.staticflickr.com/8826/17137638411_d04fefc527_n.jpg"
-  - 
-    name: "03 - V Oficina Nacional de Música e Artes Plásticas"
-    tracks: 
-      - 
+  -
+    name: "V Oficina Nacional de Música e Artes Plásticas"
+    tracks:
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHcE41Z242SnpEMFE"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHTy1lM0dqNUFsWXc"
         name: "01 - Aboio de vaqueiro - Zé de Xavier"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHNXJETEZVbFI0RFE"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHRXJ6YmhsVktRSkk"
         name: "02 - MST - 20 anos - Composição Coletiva"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHa3g1VUZDX3FpVUk"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHSWFJbTZnYkNsUWM"
         name: "03 - Terra abençoada - Artur, Luizinho, Elivelto e Edson"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHWXZiRU40bXpsaXM"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHWHFQUFd1aHhXUmc"
         name: "04 - Forjando o sonho - Ailton, Batata, Zé de Xavier"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHbjlTWUczdjQ4dlE"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHWE5ISXFKMjl3TVE"
         name: "05 - Caminhada de um povo - Micadan Hemes e Maurício"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHdUhOUjAwb3Q2U3c"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHMUNqNkJCTkJrWEU"
         name: "06 - Sombra do Joazeiro - Batata e Zé de Xavier"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHbG4wMzN3SzU1NHc"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHbUMwZGk1ekRjUkE"
         name: "07 - Arma de poeta - Donizete, Fernando e Cláudio"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHVmtGTGZtU3d0aW8"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHaGU5RC1ESXZSY0k"
         name: "08 - Minha canção - Mikadan e Elivelto"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHTWxiaFBwVHRkbG8"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHUm5DdDNtVG1DSjQ"
         name: "09 - Mais simples - José M. Wisnick"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHQ2NxZkh5QlBQbFE"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHbGw2U0ZxM2pYMDQ"
         name: "10 - Pra construir um novo ser - Hemes e Ailton"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHOUhFRk9MR1RBTzQ"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHYVJpbUdJWjYyY2s"
         name: "11 - Refazendo a vida - Hemes, Batata e Fernando"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHcms3emVzTzdLS0E"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHaURHLTdicjFrbHM"
         name: "12 - Cozinhando o galo - Mineirinho"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHeFNRT0dSZ1gzWnc"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHR3JOVHBUcnFMNjQ"
         name: "13 - Brasil Paradoxo - Cláudio e Ailton"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHbEtfb0dFOVgyT2c"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHVjBqdTR5bzlTSFU"
         name: "14 - Se eu pudesse rimar essa canção - Maurício"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHaTlqVmNwTFc1VVE"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHUXVhbEhwWlphUEk"
         name: "15 - Canto pelo direito de voar - Lupércio Damasceno"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHdkE4YVRCTVFYNzg"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHWm9oR2JUNFVlSmM"
         name: "16 - Anjo Azul - Pedro Moralez"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHRHFHeTlwU1MwVUU"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHTUxNVXJYLXc5Zm8"
         name: "17 - A seca - Cida Dias"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHN3lDTkpOUm92Sms"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHUHp4WE1WLWVTbUk"
         name: "18 - Marchinha, O batalhão, Cuco-cuco - Irineo Kruger"
     download: "https://docs.google.com/uc?id=0B50W9X-9x9zHM0JDMTdiNHZXcmM"
     cover: "http://farm9.staticflickr.com/8708/17136721122_656435e303_n.jpg"
-  - 
-    name: "04 - Agroecologia em movimento"
-    tracks: 
-      - 
+  -
+    name: "Agroecologia em movimento"
+    tracks:
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHY0RDeHY5cUlvSjA"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHaGNpZy0yLWx0RFk"
         name: "01 - Introd. Viola e ecologia"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHMkNibmdVY1Q2MFk"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHaEQtazZSNi1namc"
         name: "02 - Defendendo a diversidade - Denilson Teodoro"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHX2dnT0o1LVpKU2M"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHMkc1eWFXcjh3NHc"
         name: "03 - O sertão - Davi"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHOHYzSUJZZVJ3NnM"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHY0gzbWdueTNqMTQ"
         name: "04 - Terra prometida - Ângelo e Derli"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHNV9oUFhqYkJJMHM"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHbTMtU3d6b2JhbDQ"
         name: "05 - Bugio de um agricultor - Olavo"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHeVJzbmdOY1ZRWjg"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHSUZUZi1qRXBKbFU"
         name: "06 - Sonho de um caboclo - Adriano Júnior, Denilson e Rodrigo das Neves"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHWEZNMGliMWxiMm8"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHVzN1Q2hCc3ljNDg"
         name: "07 - Motivo de tristeza - Tio Bilia"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHblNjT0NfRXpqQ1U"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHQzdzNkQ1Rm9EOG8"
         name: "08 - Som das águas - Marcinha e Denilson Teodoro"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHa0w1cl9tX2cwams"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHTFU4V0pfUWVaNVU"
         name: "09 - Samba do novo tempo - Ceres Hadich"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHTDNKMXNBbUNiRXc"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHaF94ZUZJWkQ3WFk"
         name: "10 - É só ter a terra - Benjamim"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHbnZsYmYzSWFEMlU"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHalIzQzJoRm5SV1E"
         name: "11 - Mãos de trabalhadores - Adrinao Junior e Clarice dos Anjos"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHY1FfdDhkeG9TdTA"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHMEE4dS1jdm9sTE0"
         name: "12 - Trilhando o caminho - Leno e Maria dos Santos"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHMUI3WjBVVGNuYm8"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHaXdUR3J4ZlcxYkk"
         name: "13 - O vento que chora - Eron Brum"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHNXhpNWE1TXQ2aDA"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHdjAwSTJINWFaQTA"
         name: "14 - Luta e união - Adriano, Cleverson, Denilson, João Lima"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHMlJLQktaYmVJaG8"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHZWtiN251VDJIMDg"
         name: "15 - Viola e ecologia - Denilson, Tio Bilia, Jakeline, Eron e Jackon"
     download: "https://docs.google.com/uc?id=0B50W9X-9x9zHX1Y5c1RwOExVbjQ"
     cover: "http://farm9.staticflickr.com/8803/16950538458_44caa99e29_n.jpg"
-  - 
-    name: "05 - Sem nome"
-    tracks: 
-      - 
+  -
+    name: "Sem nome"
+    tracks:
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHbHZoWEdwT1BlbDQ"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHUDcxNHZ2RHY1Rnc"
         name: "01 - Faixa 1"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHUjNmY1VwRmVxWVU"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHRXY5UVluNFJ5UG8"
         name: "02 - Faixa 2"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHa3NDMk5hcUlQd28"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHM0tjS2FBVnJzeTA"
         name: "03 - Faixa 3"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHUmxRUHRYUWtCbDg"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHbmQwaTF6UU9XNW8"
         name: "04 - Faixa 4"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHN2REWWxzRV9YT1E"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHVUFBOXFrUVAtUXM"
         name: "05 - Faixa 5"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHQlhUNDFTa01FZWM"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHUFVkWlkzN295ZlU"
         name: "06 - Faixa 6"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHQTg5NWx1anZmZzg"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHb3NkbjhQSkE2NHM"
         name: "07 - Faixa 7"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHSl9ZWUtBZl80Uk0"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHQng3YU9lMWtsM3c"
         name: "08 - Faixa 8"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHdG9IdzRaUHB6Q3c"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHN3B5SUQ4dmVtRWc"
         name: "09 - Faixa 9"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHWkQwTUxHT1lubXM"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHNER0RW5ZSTlzR0E"
         name: "10 - Faixa 10"
     download: "https://docs.google.com/uc?id=0B50W9X-9x9zHaTZYVXNFc0lBVFk"
     cover: "http://farm8.staticflickr.com/7673/17137873521_21508872b1_n.jpg"
-  - 
-    name: "06 - Sem nome"
-    tracks: 
-      - 
+  -
+    name: "Sem nome"
+    tracks:
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHaXhvNEUzekN0Tjg"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHcUNzMXdEc2EwOWM"
         name: "01 - Track01"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHd2tXa3BNWkx1RUE"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHdVllSEdJTTk4cGc"
         name: "02 - Track02"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHdzc5S2JuQ1ppTnM"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHUHVQd19xeEZYZ3M"
         name: "03 - Track03"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHbzVjd1J3WWZSNVk"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHY3daVFNuYlF2clk"
         name: "04 - Track04"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHYTBhU0pQQVVEVGs"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHVWdkZXlMcjdLM0E"
         name: "05 - Track05"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHMlFHZEFLMFF3QjQ"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHNXVJa3JHV2FuRDg"
         name: "06 - Track06"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHUE5nRXN3em1VdnM"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHdDhrNGpfX0FPMHM"
         name: "07 - Track07"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHbk1GVnNPSXBvRzg"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHVW8wRE5yYUdzRGc"
         name: "08 - Track08"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHMlVzRVI4LXJIVzA"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHelFZLUN0QXRxcG8"
         name: "09 - Track09"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHb0kydG8ycVMyTk0"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHMWgyV0gwejNOVEk"
         name: "10 - Track10"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHR2xQN0JEcFJTSDA"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHRmN1dGE3YkdQalk"
         name: "11 - Track11"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHQmpVVmlIZUVWS1k"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHQkVFZWs2MDhfdzg"
         name: "12 - Track12"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHcXlYeXFUZ3FFOEE"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHMXN4eVBxWXJNckU"
         name: "13 - Track13"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHX0MzdjZSUVNIc1k"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHQnR4ODdYSG1LWkU"
         name: "14 - Track14"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHdDZ1ZnR6Q3N1TWs"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHOEVTUzM0RjRJbEk"
         name: "15 - Track15"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHaENSZU5UMEtDcXc"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHdkJ2X0VUa05RZkk"
         name: "16 - Track16"
     download: "https://docs.google.com/uc?id=0B50W9X-9x9zHdE12OUNRSXFMTHM"
     cover: "http://farm8.staticflickr.com/7673/17137873521_21508872b1_n.jpg"
-  - 
-    name: "07 - Canções Marchantes"
-    tracks: 
-      - 
+  -
+    name: "Canções Marchantes"
+    tracks:
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHQlNkRHFkTEp6ZEE"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHTVR0ZGxERFV1NmM"
         name: "01 - Brasil em fileira - Oficina de Música MST, RS, 2005"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHaUh3NVN3bk1pODA"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHODJQOGdGZGhQVDA"
         name: "02 - Cante lá que eu canto cá - Oficina de Artes para Marcha Naciona, 2005"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHWHJVeUd4bkpkWVE"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHWXhuenJZdmM0S2c"
         name: "03 - Marcha Brasil - Oficina de Artes para Marcha Naciona, 2005"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHd3JhNjJfaTVWLW8"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHS0FoZDhEVnF4ZXM"
         name: "04 - Mulheres em marcha - - Oficina de Artes para Marcha Naciona, 2005"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHd2JBZ0FzRzBvOWM"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHeDNPbXctZWtnYmM"
         name: "05 - Marcha e canção - Zé Pinto"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHVlVoazlHZVRnSDQ"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHWTlrTGZidWZmQ2c"
         name: "06 - À nossa bandeira - Oficina de Artes da Região Sul, MST, 2001"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHcUxnTGM5Ul81Wkk"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHUE1jMXhDaWFnYmM"
         name: "07 - A natureza - Oficina de Artes para Marcha Naciona, 2005"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHazFNajl1b1MzaHc"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHMFIxbGNNczd1VzQ"
         name: "08 - Ordem e progresso - Zé Pinto"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHQWFNOVNVTVVuSXM"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHYjRGMVA1eGllU2c"
         name: "09 - Canção da Terra - Pedro Munhoz"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHRW85YUp2TTh6Q0k"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHblVIUFY0dGFmQ2c"
         name: "10 - Cantiga pra minha terra - Talis Ribeiro e Cida Passos"
     download: "https://docs.google.com/uc?id=0B50W9X-9x9zHTEticTRra0hNQk0"
-    cover: "http://farm8.staticflickr.com/7643/16931141647_b72d7fffdd_n.jpg"
-  - 
-    name: "08 - Regar a Terra"
-    tracks: 
-      - 
+    cover: "http://farm9.staticflickr.com/8818/16972088008_90fe2ba310_n.jpg"
+  -
+    name: "Regar a Terra"
+    tracks:
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHQmpYSjZSbzNIM2s"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHX1ZfWjJGX3lRZTg"
         name: "01 - Introdução - Poema de César Teixeira"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHUkYwdlZYbWNxbDA"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHY0VndWUxOWJGTjA"
         name: "02 - A Lavadeira e o Lavrador - João do Vale e Ary Monteiro"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHekpBWHVtNjQ5b0E"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHc1VRdks4Tl9XWDg"
         name: "03 - Terra Sua - Zé Cláudio e Ademar Bogo"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHdk9waVlqRWtwQ2M"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHNEtFaXVQWWZQWlU"
         name: "04 - Coco carambola - Lobo da Siribeira e Bruno Gueiros"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHQTVfQzJET2tudWs"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHNzhma1FGOWp0SUU"
         name: "05 - Reggae a terra - Zé Lopes"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHWFNJZTNJd0cwa0E"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHZi1NbVRvNjdOSFU"
         name: "06 - Milagre - César Teixeira"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHOTBfVkdKazNOMGM"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHams0MjVQR3FJc0U"
         name: "07 - Baião dos excluídos - Bruno Gueiros e Vergara Filho"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHOWFQOUgzMkpRS0k"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHMjhoTjBlcjZCWFk"
         name: "08 - O Mano - Gildomar Marinho"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHZ2t2UzVtVFhXeFU"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHeEswcWQ2aVRGUjQ"
         name: "09 - Oração Latina - César Teixeira"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHWnZqSjVWcmRsLXc"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHd3BPUG5HcWNOZFk"
         name: "10 - Sem terra - Santacruz"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHcFgyMGU2d1NPN0U"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHMXFqRkw3R1ViVW8"
         name: "11 - Ribanceiras - Zeca Tocantins"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHdGJ0MXM2cW9lOFU"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHdElFZ05uU3ZBSDQ"
         name: "12 - Traços - Zeca Tocantins"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHWmp6VDlfMkRhd3c"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHbDVvYllsX1B0ZG8"
         name: "13 - Passamento - Joãozinho Ribeiro"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHRDZmVWR0dVA3d1k"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHdEJ3eThhVGV6Y00"
         name: "14 - Por um Brasil sem latifúndio - Zé Cláudio"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHQ2lnZ0JjVjlWNjQ"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHZzRSeU84Xy1sdHM"
         name: "15 - Diverdade - Chico Maranhão"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHdURBYWY5NVVxZG8"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHOTFKRlpnT0lvaUU"
         name: "16 - Solo nosso - Mônica Almeida e Pepê Júnior"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHam9Zb2k0XzhVaHM"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHanJ6MUc0TVBRV1U"
         name: "17 - Barraco de pau - Hertz e Costelo"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHRjE1aGM3TDE2V2c"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHWWFmOUpNVnpDb3c"
         name: "18 - Parabéns MST - Valtinho do Samba"
     download: "https://docs.google.com/uc?id=0B50W9X-9x9zHdVdRd01KMVdhNEU"
     cover: "http://farm9.staticflickr.com/8701/16952137359_eb17de5a7d_n.jpg"
-  - 
-    name: "09 - Banda de Lata Criança Feliz"
-    tracks: 
-      - 
+  -
+    name: "Banda de Lata Criança Feliz"
+    tracks:
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHblkxdzJBZElXUmM"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHQnVkd1ZPOVR4NWs"
         name: "01 - Educação do Campo"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHNlZER0xnZlhtaXc"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHYWh6dUUzY3lEams"
         name: "02 - Canta Meninada"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHRi1zaWV0UWpuYms"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHcUppU2doRlJvTkE"
         name: "03 - Profissões e Lutas"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHN09lQmdJSUo0Mmc"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHQ0l1U0FpWUsyNTg"
         name: "04 - De Qualquer jeito"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHeFhqWnFaYzBvVjg"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHYzNwQzdHQmd2MW8"
         name: "05 - Banda de Lata Toca"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHNFF6SU05ZlZuaEE"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHNVF4S3pBZTFhYms"
         name: "06 - Meias Quadradas"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHY1NxM1RwWThYaWs"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHbkNoSkd6b21rbzQ"
         name: "07 - Terreiro de Maria"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHa2MzYW1mTDZqRDg"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHRGl2Tjlic1NlM1U"
         name: "08 - Fumaça da Pólvora"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHVGl1bHMtV0dPRDQ"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHdnU3THZ6SlVxd00"
         name: "09 - Canta, Bate e Toca"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHUDhGYV91TUE2dDQ"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHYmN2UmhZblZldms"
         name: "10 - Hino de Quixeramobim"
     download: "https://docs.google.com/uc?id=0B50W9X-9x9zHcUkycldyU3RsN1U"
     cover: "http://farm8.staticflickr.com/7702/17137685741_6bcb37223f_n.jpg"
-  - 
-    name: "10 - Batucada do povo brasileiro"
-    tracks: 
-      - 
+  -
+    name: "Batucada do povo brasileiro"
+    tracks:
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHeVpxU2VTcHJQZlU"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHSDd0YnAwWUtCelk"
         name: "01 - Plantar o pão, colher a vida, para o mundo se alimentar sem veneno - Carnaval 2011"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHa0xIWG9ZUDd2NWM"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHbm1XR01IQm5sQ28"
         name: "02 - Povo do campo e da cidade, tamo junto e misturado - Carnaval 2010"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHeUlNXy0xZUZCUWs"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHVUVPTThwc3ZlWFU"
         name: "03 - Avante Juventude, a luta é pra valer! - Carnaval 2009"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHMVFSeGxGd0VyVDg"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHUWhqVk9LNUVCSU0"
         name: "04 - Hino da Unidos da Lona Preta"
     download: "https://docs.google.com/uc?id=0B50W9X-9x9zHcHY3Y2tCdmhPWGM"
     cover: "http://farm9.staticflickr.com/8691/16952128379_994ab35a5c_n.jpg"
-  - 
-    name: "11 - Canções para a liberdade"
-    tracks: 
-      - 
+  -
+    name: "Canções para a liberdade"
+    tracks:
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHX1BjN0ZTaE1QajA"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHaDE4QmQ1dFJwRlU"
         name: "01 - Poema da liberdade - Pedro Faustino"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHcVl4TXNPdDR4cmc"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHZmVRQmVmT1A3SEU"
         name: "02 - A conquista da terra - Tião"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHRk82UkFMSnF1UFU"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHN3lDR0xlZUxzWTg"
         name: "03 - Braços da história - Marcinha"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHdlgxaE8yTXRHVEk"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHeklBWHBTRGZmT0U"
         name: "04 - Um novo homem e uma nova mulher - Renato"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHQzhXd2FuUUtISmM"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHcEpFQ29obDZtTW8"
         name: "05 - Canção da paz - Marcinha"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHRmlOUlBFSThsRWc"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHTnBMSzNEUExlTU0"
         name: "06 - Podemos ser amigos - Adriano"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHVkZBWTY1OExUVDQ"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHUHFaQ2VNZkdOS2M"
         name: "07 - Quilombo - Gaúcho"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHdTZRTjZiSFVBeEU"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHcmVVaVFLNkhBcG8"
         name: "08 - Por que essa caça - Marcinha"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHcGtIZjNjcmRFRW8"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHelZya3hKb2JBbEE"
         name: "09 - Minha fulô - Marcinha"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHSFppOEJxT2N0akE"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHdlkzdTlYTHF0SWc"
         name: "10 - Terra sonhada - Tião"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHMHhBMnBVT2NCUFk"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHSU91WXJwS1BkcTQ"
         name: "11 - Ouvi passos - Renato"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHY2hTZGFOVlBRRmM"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHckxKNzQyMEZKdkU"
         name: "12 - Caminhos - Adriano"
     download: "https://docs.google.com/uc?id=0B50W9X-9x9zHRDNnYnF2MlRpVEk"
     cover: "http://farm8.staticflickr.com/7640/16518130523_4fc0794381_n.jpg"
-  - 
-    name: "12 - Plantando Cirandas"
-    tracks: 
-      - 
+  -
+    name: "Plantando Cirandas"
+    tracks:
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHZ3dMVWVqWFh0a3c"
         name: "01 - A galinha, os pintinhos e a raposa"
-      - 
+      -
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHd3JLR0dja2hIazg"
         name: "01 - A galinha, os pintinhos e a raposa...História Infantil"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHTWZRUXVyb0hLcFU"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHNEVfSlVZcGg0Zmc"
         name: "02 - Xô preguiça - Zé Pinto"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHcEc1U3JHWmJoWVE"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHeDV3V3M0YkRIN0k"
         name: "03 - Digo sim, digo não - Marquinhos Monteiro"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHNVdsT0Z1MHVWVzA"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHWGM5MGJKY1dKek0"
         name: "04 - Cadê o rato - Zé Pinto"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHSjdaWldMcFFYeDA"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHWmctTUhEcFo4TEk"
         name: "05 - Vai meninada - Zé Pinto"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHN1hHMm9KcWRkbm8"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHWUZGU1R1TEhPUjg"
         name: "06 - Soletrando liberdade - Zé Pinto"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHczRWcmRaZGJNVGM"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHaXNjQWhYa0FGVUE"
         name: "07 - Direito de viver - Djacira"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHSFB2djlLR1pENXc"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHUU15V1Q3cTBBWnM"
         name: "08 - Ciranda infantil - Zé Pinto"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHUEtQRlhBNEpEWWM"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHaGM4TDh2NkdhQVU"
         name: "09 - Lembretes de Hudson - Josino Medina"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHOC01V2M0bkZNZjA"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHYUR2TmRiM3JpVUU"
         name: "10 - Quem roubou o queijo - Zé Pinto e Zeca Tocantins"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHSWNCeHVNVGY3X1k"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHZ3U3bmN0c1BCd0E"
         name: "11 - Roda ciranda - Lulu Batera"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHTDkyeHpQY3hmSFU"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHbmNlWkc1ZUpRN1U"
         name: "12 - Meu pezinho de limão - Zé Pinto"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHUWZRT0kwUHRObG8"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHRG1Da3JsNHhsQmM"
         name: "13 - A natureza que eu aprendi amar - Zé Pinto"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHbXNJaHlhUlp0U3M"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHcDZzcHpWWUdTSTA"
         name: "14 - O importante é tentar - Zé Pinto"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHMWxfc21oZ0tzMzA"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHWW84ZHEwNDFISVk"
         name: "15 - O trabalho gera vida - Zé Pinto"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHMXo4M01kb2lzUFU"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHbnEzQVBmcWh2QjQ"
         name: "16 - Brotou um pé de educação - Zé Pinto"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHR2F6TE5wUjJXaDA"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHWTZEclljNDB1VHc"
         name: "17 - Preserve a natureza - Zé Cláudio"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHNXczOS1qUFhqMkU"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHUm5Ua25nTm5RMHc"
         name: "18 - Não jogue lixo no chão - Vital Farias"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHZ3ZoaG1MejhOSGM"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHM1hEeHJYWGt4Wjg"
         name: "19 - Linda menina - Zé Vicente"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHdlhxbjV6TDJ0bUk"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHeDhyTU1RcEFKVGs"
         name: "20 - Ser criança - Rubinho do Vale"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHQzZ2M0hRYVUxOU0"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHam5fVnlXYWo3czg"
         name: "21 - As estrelas do céu - Rubinho do Vale"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHTnJyQjM2UXNLLUE"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHX0tVRGxwcG1VY3c"
         name: "22 - Arraiá dos danadinhos - Chagas Vale"
     download: "https://docs.google.com/uc?id=0B50W9X-9x9zHcWxYdFRXREx1Y2s"
     cover: "http://farm8.staticflickr.com/7597/16518118883_38c1ca2aca_n.jpg"
-  - 
-    name: "13 - Um canto pela paz"
-    tracks: 
-      - 
+  -
+    name: "Um canto pela paz"
+    tracks:
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHUEtHM0xaWHg1ckU"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHRjQ1bnlpQ09ac1E"
         name: "01 - 01"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHZm02bVdzYlkyM0U"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHVFNrRkZrQzFrdzA"
         name: "02 - 02"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHZEF1My1xMDNFXzg"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHWXg4Q2g1VkNJdlU"
         name: "03 - 03"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHUHlZWnc1cXFVOW8"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHbVVkOTdPdWhaaUE"
         name: "04 - 04"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHUkk1dUt3a29zd2M"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHcWFuYUgycVIwODA"
         name: "05 - 05"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHY2NEeGZ5ejRNNDA"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHejNNSUJob3FMU3M"
         name: "06 - 06"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHdUQ4c25kWm1vRFk"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHUi1Ya3RoX1BKUUE"
         name: "07 - 07"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHR25VNnhKT0RyN2s"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHWGxuSEdtblBCRFU"
         name: "08 - 08"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHRWNDUXNUVTBUcDg"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHV3ZLYi1MYzY2amM"
         name: "09 - 09"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHb3RDbS1aLUlJcmc"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHVGxUSWxodmViZHM"
         name: "10 - 10"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHYnQ1em9uTFFQYmc"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHa0Q0SFNrYkJhR0k"
         name: "11 - 11"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHblVuVjBQMHdUYTg"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHc094TzZSNi1mTXM"
         name: "12 - 12"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHd3BjUnp0dXBwWEU"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHcGVHbVRBUmJZa0U"
         name: "13 - 13"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHaUQ5UkdFZFBPcE0"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHNG1uVjZFUnE5UDQ"
         name: "14 - 14"
     download: "https://docs.google.com/uc?id=0B50W9X-9x9zHUERDZkppcnMzU0k"
     cover: "http://farm8.staticflickr.com/7587/17138276795_843ce9918c_n.jpg"
-  - 
-    name: "14 - Canções que abraçam sonhos"
-    tracks: 
-      - 
+  -
+    name: "Canções que abraçam sonhos"
+    tracks:
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHWXpXTXE5Nk8ySnM"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHSWM3NnllQnZ3T0U"
         name: "01 - Procissão dos retirantes"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHXzR2cWlCQ2FSWlk"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHOTk3Qm0zZXdQd1E"
         name: "02 - cordão do povo em busca da terra"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHZWhCMVZnT2ZBQlU"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHQ2JSZzcwT0hDM1E"
         name: "03 - a bandeira conduz o povo"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHOFZtWmFRRmVMY1U"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHQWlWZ3JlNUxabGM"
         name: "04 - Alerta do campo"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHRkNPc0FKMmtvdVU"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHUWlGcHJZX2dWdUk"
         name: "05 - Chão e terra"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHREQtdGY5bzBmM28"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHZFRhYjd0bGRfcDA"
         name: "06 - Terra esperança"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHNi1uX0RTbXN6TTA"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHM0ZMLXoySVFEVTA"
         name: "07 - Semente palavra"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHYWxlYVlVTmFCUFU"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHTl9HRWNmcVJsREE"
         name: "08 - Mãe terra"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHWHduUEVBRENuYmc"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHYVdVazZpZnh6WXM"
         name: "09 - Tributo ao trabalhador"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHcE5qSUFteXFrcGc"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHd1FhTkFNQkUwdTQ"
         name: "10 - Por honra e por amor"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHT2dfN2lxNFdtUzQ"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHWmZXSzB4T2FXNlE"
         name: "11 - Só a luta faz valer"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHTGlhWVh0VGlNNVk"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHY0d0OTF0a2V1M2M"
         name: "12 - Semeando a razão"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHODRKYzgyOVR3YjQ"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHbTAwd21NOVZVc00"
         name: "13 - Um naco de chão"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHd194ODdLUThnOGs"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHcklsb2luUzd6eWc"
         name: "14 - Ideais de châo"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHS1UxZFd1VTlhem8"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHTFlfV1ZaZnFxOW8"
         name: "15 - Vamos pra luta"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHdEh1TVpHelVLVmc"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHV1IzR2JxYVdjSjQ"
         name: "16 - Caminheiros"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHT0tXUWpXVUhlVXc"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHRWphSDk2NTUyczQ"
         name: "17 - Tralhas de um acampado"
     download: "https://docs.google.com/uc?id=0B50W9X-9x9zHLXlXWk9FcC16cFU"
     cover: "http://farm8.staticflickr.com/7680/16950502448_2c0865157b_n.jpg"
-  - 
-    name: "15 - Arte em movimento"
-    tracks: 
-      - 
+  -
+    name: "Arte em movimento"
+    tracks:
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHS2JFLUpDT21hTnc"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHX3RwM2JVZ28zSWc"
         name: "01 - Terra sertaneja - Ademar Bogo"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHczJTT3NpYnNDT1k"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHWGNVVFFMNllxRXc"
         name: "02 - Pra soletrar a liberdade - Zé Pinto"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHU2lNQWkwWWtDOUU"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHZ3JTcHFrU29CSTg"
         name: "03 - Terra e raiz - I Oficina Nacional dos Músicos do MST"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHZHctaVdXQzBpQ1E"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHQ19kRmtyTmluamM"
         name: "04 - Floriô - Zé Pinto"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHT0lpOU80cTBrX3M"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHcURmRF9IdG9qamc"
         name: "05 - Assim já ninguém chora mais - Zé Pinto"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHZHg0anpKWFpGbDg"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHbHpxSEVjbllNZkE"
         name: "06 - Companheiros de Guevara - Ademar Bogo"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHSVRoaDBvNHdUTjA"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHMW9SMnpkQ0dRaDg"
         name: "07 - 500 anos de resistência índia, negra, popular - Zé Pinto"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHdVcwbEl6RU1ZMnM"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHa29lMkNvcU9WYnM"
         name: "08 - Descobrimos lá na base - Zé Pinto"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHV181S3laMlhCajg"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHNjhjV2xPUS1ubk0"
         name: "09 - Quando chegar a terra - Ademar Bogo"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHLVB1VkNJQzdMTm8"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHR292cVN4LXlNWVE"
         name: "10 - Manter a esperança - Ademar Bogo"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHM2hGM182aDBhbW8"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHa0hXMFJ5ZVUtUDQ"
         name: "11 - América Livre - Jacir Strapazzan e Millico"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHRThyNzZXVkdwZWc"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHNU9BVTRfQ0tPRGM"
         name: "12 - Luz da América - Ademar Bogo"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHNjFieFY2eGJDbzQ"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHRUo0cWt6WUdqOVU"
         name: "13 - Causa Nobre - Zé Pinto"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHazFUWmZxRUdwUGM"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHOFdocGJQNzh0WUE"
         name: "14 - Novo amanhecer - Marcos e Adilson Monteiro"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHODNMaEs1d1dDVXc"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHRWJCMkFBMS1mbHc"
         name: "15 - Devoção à Amazônia - Zé Pinto"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHQ05jMi1NRzVfUU0"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHeG4yYVg1R3RocGc"
         name: "16 - Candelária - Protásio Prates e Tuca"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHb3c4YzE4LWRZb00"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHSWhLTk1jU2gxNVk"
         name: "17 - Não somos covardes - Zé Pinto"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHcWJsdGlWQWtZLUk"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHSUllOEJ0RHJlcGc"
         name: "18 - Sonhar não cansa - Ademar Bogo"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHQ0VZa21HZzN6eFk"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHRnFRODRWMjRDRm8"
         name: "19 - Ordem e progresso - Zé Pinto"
-      - 
+      -
         ogg: "https://docs.google.com/uc?id=0B50W9X-9x9zHYmF5a2VMaW9oZ28"
         mp3: "https://docs.google.com/uc?id=0B50W9X-9x9zHaVhUX002WFBabU0"
         name: "20 - Hino do MST - Willy C. de Oliveira e Ademar Bogo"
     download: "https://docs.google.com/uc?id=0B50W9X-9x9zHUkRpV2lKZktWQ3c"
     cover: "http://farm8.staticflickr.com/7648/16950484818_7f76d47316_n.jpg"
-
