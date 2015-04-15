@@ -25,7 +25,7 @@ releated_posts:
   - 2015/03/2015-03-03-relatorio-mostra-aumento-na-concentracao-de-terras-do-brasil.md
   - 2015/02/2015-02-12-pec-215-volta-a-ameacar-direitos-indigenas.md
   - 2015/04/2015-04-10-brasilia-sera-palco-do-i-acampamento-terra-livre-em-defesa-dos-povos-indigenas.md
-section: cover
+section: null
 
 ---
 <div>
