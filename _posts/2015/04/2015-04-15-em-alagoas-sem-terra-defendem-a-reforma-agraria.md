@@ -6,7 +6,7 @@ tags:
   - tag: reforma-agrária-popular
 hat: ""
 title: "Em Alagoas, Sem Terra defendem a Reforma Agrária "
-support_line: Ações integram a Jornada Nacional de Lutas do MST que acontece durante essa semana em todo o país
+support_line: Ações integram a Jornada Nacional de Lutas do MST que acontece durante essa semana em todo o país.
 menu: lutas e mobilizações
 section: featured-news
 layout: post
@@ -39,7 +39,7 @@ releated_posts:
 
 <p>As lutas seguem o calend&aacute;rio de mobiliza&ccedil;&atilde;o nacional onde s&atilde;o lembrados os 19 anos do assassinato de 21 Sem Terras no Par&aacute;, pela pol&iacute;cia do estado, enquanto estavam seguindo em marcha at&eacute; a capital Bel&eacute;m. O caso ficou mundialmente conhecido como o Massacre de Eldorado dos Caraj&aacute;s.</p>
 
-<p>&nbsp;J&aacute; no Agreste, cerca de 400 trabalhadores e trabalhadoras ocupam a sede da CAB &ndash; &Aacute;guas do Agreste em Arapiraca, empresa respons&aacute;vel, atrav&eacute;s de Parceria P&uacute;blico-Privada, pela gest&atilde;o de abastecimento de 10 cidades da regi&atilde;o por 30 anos.</p>
+<p>J&aacute; no Agreste, cerca de 400 trabalhadores e trabalhadoras ocupam a sede da CAB &ndash; &Aacute;guas do Agreste em Arapiraca, empresa respons&aacute;vel, atrav&eacute;s de Parceria P&uacute;blico-Privada, pela gest&atilde;o de abastecimento de 10 cidades da regi&atilde;o por 30 anos.</p>
 
 <p>&ldquo;Essa &eacute; mais uma a&ccedil;&atilde;o de den&uacute;ncia da seca na regi&atilde;o do Agreste e da situa&ccedil;&atilde;o que vive o nosso povo assentado e acampado que nem ao menos tem acesso &agrave; &aacute;gua pot&aacute;vel em suas &aacute;reas&rdquo;, afirmou Jos&eacute; Roberto de Souza, da dire&ccedil;&atilde;o estadual do MST.</p>
 
