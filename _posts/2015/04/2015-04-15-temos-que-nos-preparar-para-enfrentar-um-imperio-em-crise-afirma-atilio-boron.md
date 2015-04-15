@@ -3,7 +3,7 @@ date: "2015-04-15T13:19:00-03:00"
 tags:
   - tag: cloc
   - tag: argentina
-title: "Temos que nos preparar para enfrentar um império em crise, afirma Atilio Boron"
+title: "O império está em crise, e temos que nos preparar para enfrentá-lo, afirma Atilio Boron"
 support_line: "No primeiro dia do 6° Congresso da Cloc, o sociólogo argentino Atilio Boron e João Pedro Stedile, do MST, participaram da mesa em que se debateu a conjuntura política e agrária."
 menu: projeto popular
 layout: post
