@@ -31,16 +31,12 @@ created_date: "2015-04-15T11:29:49-03:00"
 published: true
 images_hd: "http://farm8.staticflickr.com/7592/16950175837_6c7e612061_n.jpg"
 releated_posts:
-  - 2014/05/2014-05-19-com-14-ocupacoes-de-terra-em-dois-meses-mst-intensifica-luta-em-pe.md
-  - 2014/05/2014-05-20-juventude-se-organiza-na-luta-pela-terra-no-parana.md
-  - 2014/06/2014-06-11-mst-tranca-rodovia-no-rj-e-denuncia-lentidao-na-desapropriacao-de-fazenda.md
-  - 2014/07/2014-07-17-cerca-de-3-mil-familias-sem-terra-ocupam-area-da-araupel-no-parana.md
-  - 2014/07/2014-07-17-familias-sem-terra-seguem-na-luta-por-area-grilada-em-abelardo-luz.md
-  - 2015/03/2015-03-13-juventude-sem-terra-se-desafia-a-impulsionar-a-participacao-na-luta-pela-reforma-agraria.md
-  - 2015/03/2015-03-19-sem-terra-trancam-rodovia-contra-despejo-na-regiao-do-vale-do-paraiba-em-sp.md
   - 2015/04/2015-04-02-o-nosso-exercito-e-de-trabalhadores-que-lutam-pela-terra-diz-coordenador-do-mst.md
-  - 2015/04/2015-04-07-em-dia-nacional-de-luta-sem-terra-trancam-tres-brs-em-mato-grosso.md
-  - 2015/04/2015-04-13-em-sergipe-assentados-fortalecem-trabalho-de-base.md
+  - 2015/04/2015-04-09-vivemos-um-novo-momento-da-luta-social-e-politica-no-brasil-onde-a-luta-de-classes-agoniza-e-expoe-as-contradicoes-da-nossa-sociedade.md
+  - 2015/04/2015-04-14-sem-terra-ocupam-incra-em-cuiaba.md
+  - 2015/04/2015-04-10-sem-terra-iniciam-atividades-no-para-em-homenagam-aos-martires-de-eldorado-dos-carajas.md
+  - 2015/04/2015-04-13-sindicatos-e-movimentos-sociais-vao-as-ruas-dia-15-por-direitos-trabalhistas.md
+  - 2015/04/2015-04-15-em-alagoas-sem-terra-defendem-a-reforma-agraria.md
 section: featured-news
 
 ---
@@ -48,7 +44,7 @@ section: featured-news
 <em>Da P&aacute;gina do MST </em></p>
 
 <p><br />
-Terra j&aacute; deram in&iacute;cio a Jornada Nacional de Lutas pela Reforma Agr&aacute;ria deste ano, que concentra a maior parte das suas a&ccedil;&otilde;es entre os dias 15 a 18 de abril.</p>
+Sem Terra j&aacute; deram in&iacute;cio a Jornada Nacional de Lutas pela Reforma Agr&aacute;ria deste ano, que concentra a maior parte das suas a&ccedil;&otilde;es entre os dias 15 a 18 de abril.</p>
 
 <p><br />
 Marchas, ocupa&ccedil;&otilde;es de terra e pr&eacute;dios p&uacute;blicos e trancamento de rodovias s&atilde;o algumas das a&ccedil;&otilde;es utilizadas pelos trabalhadores rurais para denunciarem o modelo do agroneg&oacute;cio no campo brasileiro e apresentarem a agroecologia como alternativa ao capital estrangeiro na agricultura.</p>
