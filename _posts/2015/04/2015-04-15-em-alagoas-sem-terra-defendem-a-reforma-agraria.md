@@ -6,7 +6,7 @@ tags:
   - tag: reforma-agrária-popular
 hat: ""
 title: "Em Alagoas, Sem Terra defendem a Reforma Agrária "
-support_line: Ações integram a Jornada Nacional de Lutas do MST que acontece durante essa semana em todo o país.
+support_line: "Ações integram a agenda da Jornada Nacional de Lutas. "
 menu: lutas e mobilizações
 section: featured-news
 layout: post
