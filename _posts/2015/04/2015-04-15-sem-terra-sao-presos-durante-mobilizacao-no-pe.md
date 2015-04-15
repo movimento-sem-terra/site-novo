@@ -5,8 +5,8 @@ tags:
   - tag: lutas-e-mobilizações
   - tag: reforma-agrária
   - tag: prisão
-title: Sem Terra são presos durante mobilização no PE
-support_line: 10 trabalhadores foram encaminhados à delegacia para prestar esclarecimento sobre as ações no estado.
+title: Camponeses são presos durante mobilização no PE
+support_line: Dez trabalhadores foram encaminhados à delegacia para prestar esclarecimento sobre as ações no estado.
 menu: lutas e mobilizações
 section: null
 layout: post
@@ -40,7 +40,7 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p>Na manh&atilde; desta quinta-feira (15), cerca de 400 Sem Terra, das regionais Mata Norte e Litoral, aderiram &agrave; pauta dos sindicatos e fecharam em Goi&acirc;nia, Pernambuco, a BR 101 nas imedia&ccedil;&otilde;es da f&aacute;brica da Fiat, perto da divisa dos estados de Pernambuco e Para&iacute;ba.</p>
+<p>Na manh&atilde; desta quinta-feira (15), cerca de 400 Sem Terras&nbsp;das regionais Mata Norte e Litoral&nbsp;aderiram &agrave; pauta dos sindicatos e fecharam em Goi&acirc;nia, Pernambuco, a BR 101 nas imedia&ccedil;&otilde;es da f&aacute;brica da Fiat, perto da divisa dos estados de Pernambuco e Para&iacute;ba.</p>
 
 <p><br />
 O bloqueio, que durou 40 minutos, foi interrompido com a chegada do batalh&atilde;o de choque da pol&iacute;cia militar que fez a obstru&ccedil;&atilde;o da via e prendeu 10 trabalhadores que foram liberados ap&oacute;s assinar Termo Circunstanciado de Ocorr&ecirc;ncia (TCO).</p>
@@ -49,7 +49,7 @@ O bloqueio, que durou 40 minutos, foi interrompido com a chegada do batalh&atild
 O fechamento da BR era em solidariedade a luta dos trabalhadores para pressionar o governo a voltar atr&aacute;s nas medidas do ajuste fiscal e dizer &agrave; presidenta que caso a PL 4330 passe pelo senado as ruas pressionar&aacute; para garantir o seu veto.</p>
 
 <p><br />
-Hoje, &agrave;s 14h, est&aacute; marcado um ato em frente &agrave; <span class="st">Federa&ccedil;&atilde;o das Ind&uacute;strias do Estado de Pernambuco (FIEPE) </span>com os trabalhadores das diversas categorias. A concentra&ccedil;&atilde;o ser&aacute; em frente &agrave; FIEPE e ir&aacute; seguir at&eacute; o Pal&aacute;cio das Princesas.</p>
+Um ato em frente &agrave; <span class="st">Federa&ccedil;&atilde;o das Ind&uacute;strias do Estado de Pernambuco (FIEPE) </span>com os trabalhadores das diversas categorias. A concentra&ccedil;&atilde;o ser&aacute; em frente &agrave; FIEPE e ir&aacute; seguir at&eacute; o Pal&aacute;cio das Princesas est&aacute; marcado para &agrave;s 14h desta quarta.</p>
 
 <p><br />
 Nesta manh&atilde;, categorias ligadas a Central &Uacute;nica dos Trabalhadores (CUT), e outras centrais realizaram paralisa&ccedil;&otilde;es em todo Brasil.</p>
