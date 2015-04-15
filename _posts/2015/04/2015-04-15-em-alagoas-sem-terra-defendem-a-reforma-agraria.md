@@ -5,7 +5,7 @@ tags:
   - tag: lutas-e-mobilizações
   - tag: reforma-agrária-popular
 hat: ""
-title: "Em Alagoas, Sem Terra defendem a Reforma Agrária "
+title: "Em Alagoas, Sem Terra bloqueiam rodovias em defesa da reforma agrária"
 support_line: "Ações integram a agenda da Jornada Nacional de Lutas. "
 menu: lutas e mobilizações
 section: featured-news
