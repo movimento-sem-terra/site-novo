@@ -49,10 +49,10 @@ O bloqueio, que durou 40 minutos, foi interrompido com a chegada do batalh&atild
 O fechamento da BR era em solidariedade a luta dos trabalhadores para pressionar o governo a voltar atr&aacute;s nas medidas do ajuste fiscal e dizer &agrave; presidenta que caso a PL 4330 passe pelo senado as ruas pressionar&aacute; para garantir o seu veto.</p>
 
 <p><br />
-Esta marcado para hoje, 14h, um ato em frente &agrave; <span class="st">Federa&ccedil;&atilde;o das Ind&uacute;strias do Estado de Pernambuco (FIEPE) </span>com os trabalhadores das diversas categorias. A concentra&ccedil;&atilde;o ser&aacute; em frente &agrave; FIEPE e ir&aacute; seguir at&eacute; o Pal&aacute;cio das Princesas.</p>
+Hoje, &agrave;s 14h, est&aacute; marcado um ato em frente &agrave; <span class="st">Federa&ccedil;&atilde;o das Ind&uacute;strias do Estado de Pernambuco (FIEPE) </span>com os trabalhadores das diversas categorias. A concentra&ccedil;&atilde;o ser&aacute; em frente &agrave; FIEPE e ir&aacute; seguir at&eacute; o Pal&aacute;cio das Princesas.</p>
 
 <p><br />
-Nesta manh&atilde; diversas categorias ligadas a Central &Uacute;nica dos Trabalhadores (CUT), e outras centrais realizaram paralisa&ccedil;&otilde;es em todo Brasil.</p>
+Nesta manh&atilde;, categorias ligadas a Central &Uacute;nica dos Trabalhadores (CUT), e outras centrais realizaram paralisa&ccedil;&otilde;es em todo Brasil.</p>
 
 <p><br />
 Em Pernambuco, pararam as categorias dos rodovi&aacute;rios, metrovi&aacute;rios, correios, trabalhadores da Companhia Pernambucana de Saneamento (Compesa),&nbsp;algumas ind&uacute;strias do p&oacute;lo metropolitano e trabalhadores da educa&ccedil;&atilde;o que j&aacute; vem em greve desde &uacute;ltima sexta-feira (10).</p>
