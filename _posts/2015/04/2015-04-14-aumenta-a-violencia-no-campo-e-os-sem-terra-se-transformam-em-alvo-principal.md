@@ -7,7 +7,7 @@ tags:
   - tag: Sem-Terra
   - tag: latifúndio
 title: Aumenta a violência no campo e Sem Terra se transforma em alvo principal
-support_line: "Dados da Comissão Pastoral da Terra mostram dos 36 assassinatos ocorridos no campo em 2014, 11 foram de trabalhadores sem terra. "
+support_line: "Dados da Comissão Pastoral da Terra mostram que dos 36 assassinatos ocorridos no campo em 2014, 11 foram de trabalhadores sem terra. "
 menu: reforma agrária
 layout: post
 files:
