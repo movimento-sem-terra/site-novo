@@ -36,31 +36,53 @@ $mobile: new-breakpoint(max-width 768px);
 //END
 
 #music {
+  background-color: $mst-light-gray;
   padding: 0;
   width: 100%;
-  background-color: #f8f8f9;
 
   #playlist {
     @include outer-container;
     .album{
-        @include span-columns(4);
-        @include omega(3n);
-    }
+        padding: 0;
+        margin-bottom: 10px;
+        background: white;
+        box-shadow: 1px 2px 5px $mst-medium-gray;
 
-    .player {
-      display:none;
-    }
+        @include span-columns(3);
+        @include omega(4n);
 
-    .list .track{
-      a {
-        color: red;
-      }
 
-      &.active{
-        a {
-          color: green;
+        .player {
+          display:none;
         }
-      }
+
+        h2 {
+          text-align: right;
+          font-size: 1.2em;
+          padding: 10px;
+          font-weight: 100;
+          color: $mst-red;
+        }
+
+        .information {
+          padding-bottom: 10px;
+        }
+
+        img {
+          width: 100%;
+        }
+
+        .list .track{
+          a {
+            color: red;
+          }
+
+          &.active{
+            a {
+              color: green;
+            }
+          }
+        }
     }
   }
 
@@ -72,6 +94,8 @@ $mobile: new-breakpoint(max-width 768px);
          -o-background-size: cover;
        -moz-background-size: cover;
     -webkit-background-size: cover;
+
+    margin-bottom: 10px;
 
     .content {
       @extend .default-container;

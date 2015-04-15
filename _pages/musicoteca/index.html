@@ -18,25 +18,24 @@ scripts: ["playlist.js"]
     {% for album in site.data.playlist %}
     <section class="album" data-index="{{ forloop.index0 }}">
       <img src="{{ album.cover  }}"/>
-      <p>
-        {{ album.name }}
-      </p>
-    </section>
-    <aside class="player"  id="album_{{ forloop.index0 }}">
       <h2>{{ album.name }}</h2>
- 
-      <audio preload="none" controls id="player_{{ forloop.index0 }}" data-current-track="0">
-        Sorry, your browser does not support HTML5 audio.
-      </audio>
-      <ol id="playlist_{{ forloop.index0 }}" class="list">
-        {% for track in album.tracks  %}
-        <li class="track">
-            <a href="#" data-index="{{ forloop.index0  }}" data-mp3="{{track.mp3}}" data-ogg="track.ogg">{{ track.name }}</a>
-        </li>
-        {% endfor %}
-      </ol>
 
-    </aside>
+      <aside class="player"  id="album_{{ forloop.index0 }}">
+        <h2>{{ album.name }}</h2>
+
+        <audio preload="none" controls id="player_{{ forloop.index0 }}" data-current-track="0">
+          Sorry, your browser does not support HTML5 audio.
+        </audio>
+        <ol id="playlist_{{ forloop.index0 }}" class="list">
+          {% for track in album.tracks  %}
+          <li class="track">
+              <a href="#" data-index="{{ forloop.index0  }}" data-mp3="{{track.mp3}}" data-ogg="track.ogg">{{ track.name }}</a>
+          </li>
+          {% endfor %}
+        </ol>
+
+      </aside>
+    </section>
     {% endfor %}
   </div>
 </main>
