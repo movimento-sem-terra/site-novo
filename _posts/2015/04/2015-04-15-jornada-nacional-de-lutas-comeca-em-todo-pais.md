@@ -21,9 +21,15 @@ files:
     small: "http://farm8.staticflickr.com/7651/16537332133_b84b40f1be_n.jpg"
     title: 11096462_876647225741326_8486048120365598724_n.jpg
     $$hashKey: 09G
+  - link: "http://farm8.staticflickr.com/7592/16950175837_6c7e612061_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7592/16950175837_6c7e612061_t.jpg"
+    medium: "http://farm8.staticflickr.com/7592/16950175837_6c7e612061_z.jpg"
+    small: "http://farm8.staticflickr.com/7592/16950175837_6c7e612061_n.jpg"
+    title: img_8219.jpg
+    $$hashKey: 0RA
 created_date: "2015-04-15T11:29:49-03:00"
 published: true
-images_hd: "http://farm8.staticflickr.com/7692/17155867532_4f0377a63f_n.jpg"
+images_hd: "http://farm8.staticflickr.com/7592/16950175837_6c7e612061_n.jpg"
 releated_posts:
   - 2014/05/2014-05-19-com-14-ocupacoes-de-terra-em-dois-meses-mst-intensifica-luta-em-pe.md
   - 2014/05/2014-05-20-juventude-se-organiza-na-luta-pela-terra-no-parana.md
@@ -63,7 +69,7 @@ releated_posts:
 
 <p>Em Alagoas as rodovias a BR 316, BR 101, em Flexeiras e a BR 104 na cidade de Uni&atilde;o dos Palmares, est&atilde;o bloqueadas desde o in&iacute;cio dessa manh&atilde; pelos Sem Terra. J&aacute; no Agreste, cerca de 400 trabalhadores e trabalhadoras ocupam a sede da &Aacute;guas do Agreste em Arapiraca (CAB), empresa respons&aacute;vel, atrav&eacute;s de Parceria P&uacute;blico-Privada, pela gest&atilde;o de abastecimento de 10 cidades da regi&atilde;o. Os Sem Terra denunciam&nbsp; que o destino da &aacute;gua est&aacute; &agrave; servi&ccedil;o da minera&ccedil;&atilde;o, beneficiando a empresa Vale Verde.</p>
 
-<p><img alt="unnamed.jpg" src="http://farm8.staticflickr.com/7692/17155867532_4f0377a63f_b.jpg" /></p>
+<p><img alt="unnamed.jpg" height="365" src="http://farm8.staticflickr.com/7692/17155867532_4f0377a63f_b.jpg" width="650" /></p>
 
 <p>&nbsp;</p>
 
@@ -75,7 +81,7 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p><img alt="11096462_876647225741326_8486048120365598724_n.jpg" src="http://farm8.staticflickr.com/7651/16537332133_b84b40f1be_b.jpg" /></p>
+<p><img alt="11096462_876647225741326_8486048120365598724_n.jpg" height="365" src="http://farm8.staticflickr.com/7651/16537332133_b84b40f1be_b.jpg" width="650" /></p>
 
 <p>&nbsp;</p>
 
