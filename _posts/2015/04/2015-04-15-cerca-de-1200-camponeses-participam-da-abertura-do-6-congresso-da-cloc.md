@@ -120,3 +120,5 @@ E esse processo n&atilde;o pode estar alijado da defesa da soberania alimentar, 
 
 <p><br />
 O evento, que tem como lema &ldquo;Contra o capitalismo, por soberania dos nossos povos, Am&eacute;rica unida segue em luta&rdquo;, continua at&eacute; sexta-feira (17), quando se pretende elaborar apontamentos conjuntos dos camponeses para os pr&oacute;ximos anos.</p>
+
+<p><iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/9PaPabhGBvc" width="640"></iframe></p>
