@@ -6,8 +6,8 @@ tags:
   - tag: indígenas
   - tag: Sem-Terra
   - tag: latifúndio
-title: Aumenta a violência no campo e Sem Terra se transformam em alvo principal
-support_line: Números são referentes ao ano de 2014. Dados são da Comissão Pastoral da Terra.
+title: Aumenta a violência no campo e Sem Terra se transforma em alvo principal
+support_line: "Dados da Comissão Pastoral da Terra mostram dos 36 assassinatos ocorridos no campo em 2014, 11 foram de trabalhadores sem terra. "
 menu: reforma agrária
 layout: post
 files:
@@ -34,7 +34,7 @@ section: cover
 ​Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Na tarde desta ter&ccedil;a-feira (13), a Comiss&atilde;o Pastoral da Terra (CPT) lan&ccedil;ou na sede da Confer&ecirc;ncia Nacional dos Bispos do Brasil (CNBB), em Bras&iacute;lia, a sua publica&ccedil;&atilde;o anual sobre Conflitos no Campo Brasil. A edi&ccedil;&atilde;o de 2014 revela que, diferentemente dos anos anteriores, em que se destacava entre os assassinados ind&iacute;genas e quilombolas, o alvo principal em 2014 foram os sem-terra.</p>
+Na tarde desta ter&ccedil;a-feira (13), a Comiss&atilde;o Pastoral da Terra (CPT) lan&ccedil;ou na sede da Confer&ecirc;ncia Nacional dos Bispos do Brasil (CNBB), em Bras&iacute;lia, a sua publica&ccedil;&atilde;o anual sobre Conflitos no Campo Brasil. A edi&ccedil;&atilde;o de 2014 revela que, diferentemente dos anos anteriores, em que se destacava entre os assassinados ind&iacute;genas e quilombolas, o alvo principal em 2014 foram os sem&nbsp;terra.</p>
 
 <p><br />
 Foram 11 assassinatos, do total de 36 registrados. Oito deles eram assentados e sete eram posseiros. As tentativas de assassinato, por sua vez, aumentaram de forma vertiginosa. Em 2013 foram registradas 15 tentativas de assassinato, enquanto no ano passado foram 56, o que representa um aumento de 273% no n&uacute;mero de casos.</p>
