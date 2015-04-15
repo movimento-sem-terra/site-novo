@@ -77,6 +77,21 @@ Cerca de 200 pessoas trancaram a rodovia que liga S&atilde;o Paulo ao Pontal do 
 
 <p><img alt="11096462_876647225741326_8486048120365598724_n.jpg" height="365" src="http://farm8.staticflickr.com/7651/16537332133_b84b40f1be_b.jpg" width="650" /></p>
 
+<p><strong>PB</strong></p>
+
+<p>Cerca de 1500 fam&iacute;lias ocuparam a sede do Incra na manh&atilde; dessa quarta-feira. Os Sem Terra pedem o encaminhamento da pauta agr&aacute;ria no estado e o fim da PL 4330. Os manifestantes seguiram em caminhada at&eacute; a sede da Caixa Econ&ocirc;mica Federal aonde, nesse momento, tentam uma reuni&atilde;o para discutir a libera&ccedil;&atilde;o de recursos para os assentamentos.</p>
+
+<p><img alt="pb.jpg" height="365" src="http://farm8.staticflickr.com/7636/17158645195_3f1b9e77a4_b.jpg" width="650" /><br />
+<br />
+&nbsp;</p>
+
+<p><strong>ES</strong></p>
+
+<p>Na capital Vit&oacute;ria, Sem Terra protestaram nas proximidades da Rodovi&aacute;ria de Vit&oacute;ria, em frente ao acesso que liga a capital &agrave; Ilha do Pr&iacute;ncipe. A pol&iacute;cia militar do estado reprimiu os manifestantes com bombas de efeito moral e balas de borracha. &Agrave;s 14h, um novo ato contra a Lei da Terceiriza&ccedil;&atilde;o acontecer&aacute; em frente a Federa&ccedil;&atilde;o das Ind&uacute;strias do Esp&iacute;rito Santo (Findes).<br />
+&nbsp;</p>
+
+<p><img alt="150141659-img-2912.JPG" height="488" src="http://farm8.staticflickr.com/7681/16951375657_28ff842a4a_b.jpg" width="650" /></p>
+
 <p>&nbsp;</p>
 
 <p>Em paralelo a Jornada de Lutas do Movimento, sindicatos e movimentos sociais tamb&eacute;m v&atilde;o &agrave;s ruas dia 15 por direitos trabalhistas. &ndash; entre os quais MTST, CUT e MST. O ato desta quarta-feira (15) &eacute; contra o projeto de lei das terceiriza&ccedil;&otilde;es (PL 4.330) e a redu&ccedil;&atilde;o da maioridade penal e em defesa da reforma pol&iacute;tica, do fim do financiamento privado de campanhas e pela taxa&ccedil;&atilde;o de grandes fortunas.</p>
