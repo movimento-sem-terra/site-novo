@@ -4,8 +4,8 @@ tags:
   - tag: jornadad-e-lutas-abril-2015
   - tag: reforma-agrária
   - tag: lutas-e-mobilizações
-title: "Começa a Jornada Nacional de Lutas do MST "
-support_line: "Até o fim dessa semana, Sem Terra vão às ruas de todo país pela Reforma Agrária Popular"
+title: Jornada por Reforma Agrária inicia com paralisação e bloqueios no campo e cidade
+support_line: MST se soma ao conjunto das mobilizações contra o PL da Terceirização e denuncia latifúndios em todo o país.
 menu: lutas e mobilizações
 layout: post
 files:
@@ -44,10 +44,7 @@ section: cover
 <em>Da P&aacute;gina do MST </em></p>
 
 <p><br />
-Sem Terra j&aacute; deram in&iacute;cio a Jornada Nacional de Lutas pela Reforma Agr&aacute;ria deste ano, que concentra a maior parte das suas a&ccedil;&otilde;es entre os dias 15 a 18 de abril.</p>
-
-<p><br />
-Marchas, ocupa&ccedil;&otilde;es de terra e pr&eacute;dios p&uacute;blicos e trancamento de rodovias s&atilde;o algumas das a&ccedil;&otilde;es utilizadas pelos trabalhadores rurais para denunciarem o modelo do agroneg&oacute;cio no campo brasileiro e apresentarem a agroecologia como alternativa ao capital estrangeiro na agricultura.</p>
+Neste ano, a <span style="line-height: 20.7999992370605px;">Jornada Nacional de Lutas pela Reforma Agr&aacute;ria do&nbsp;</span>MST se soma ao conjunto das mobiliza&ccedil;&otilde;es da classe trabalhadora em defesa dos direitos conquistados. A&ccedil;&otilde;es como m<span style="line-height: 20.7999992370605px;">archas, ocupa&ccedil;&otilde;es de terra e pr&eacute;dios p&uacute;blicos e trancamento de rodovias em estados como Alagoas</span>, S&atilde;o Paulo,&nbsp;Para&iacute;ba e Mato Grosso, d&atilde;o in&iacute;cio as primeiras mobiliza&ccedil;&otilde;es.&nbsp;</p>
 
 <p><br />
 Em entrevista, D&eacute;bora Nunes, da coordena&ccedil;&atilde;o nacional do MST, ressalta a import&acirc;ncia das mobiliza&ccedil;&otilde;es e de a&ccedil;&otilde;es que tem como objetivo pressionar o governo para garantir o cumprimento do seu papel na garantia da fun&ccedil;&atilde;o social da terra.</p>
