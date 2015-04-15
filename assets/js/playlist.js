@@ -48,6 +48,7 @@ $(document).ready(function() {
       runMusic($(tracks[next]));
     });
 
+    $('.player').hide();
     $('#album_'+index).slideToggle();
   });
 
