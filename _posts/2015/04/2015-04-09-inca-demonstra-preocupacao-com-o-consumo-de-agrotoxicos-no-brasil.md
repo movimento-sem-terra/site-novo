@@ -68,7 +68,7 @@ releated_posts:
   - 2015/03/2015-03-05-mulheres-contra-o-eucalipto-transgenico.md
   - 2015/03/2015-03-20-a-concentracao-dos-recursos-destroi-a-natureza-e-coloca-vidas-humanas-em-risco-afirma-shiva.md
   - 2015/04/2015-04-08-campanha-exige-manutencao-de-informacao-sobre-alimentos-transgenicos-em-produtos.md
-section: featured-news
+section: null
 
 ---
 <p><br />
