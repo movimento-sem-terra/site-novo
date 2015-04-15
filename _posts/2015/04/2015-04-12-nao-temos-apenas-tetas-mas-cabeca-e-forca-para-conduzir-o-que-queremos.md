@@ -41,7 +41,7 @@ releated_posts:
   - 2015/04/2015-04-09-mais-de-mil-delegados-se-preparam-para-iniciar-o-6-congresso-continental-da-cloc.md
   - 2015/04/2015-04-10-para-juventude-da-cloc-o-caminho-para-a-transformacao-e-a-organizacao.md
   - 2015/04/2015-04-12-muitos-caminhos-e-uma-so-direcao-6-congresso-continental-da-cloc.md
-section: null
+section: featured-news
 
 ---
 <figure class="image"><img alt="_MG_0216.JPG" src="http://farm9.staticflickr.com/8684/16505862123_e3909281a3_b.jpg" />
