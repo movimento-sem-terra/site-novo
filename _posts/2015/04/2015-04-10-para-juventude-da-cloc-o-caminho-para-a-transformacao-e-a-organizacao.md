@@ -49,7 +49,7 @@ releated_posts:
   - 2014/12/2014-11-23-aleida-guevara-aponta-os-desafios-a-juventude-latino-americana.md
   - 2015/03/2015-03-13-juventude-sem-terra-se-desafia-a-impulsionar-a-participacao-na-luta-pela-reforma-agraria.md
   - 2015/03/2015-03-25-jornada-universitaria-em-defesa-da-reforma-agraria-aproxima-o-campo-e-o-ambiente-academico.md
-section: featured-news
+section: null
 
 ---
 <p><img alt="DSC_6150.JPG" src="http://farm9.staticflickr.com/8752/16915004090_d0b2544d36_b.jpg" /></p>
