@@ -97,6 +97,16 @@ Para ler e entrevista na &iacute;ntegra, clique <a href="http://www.mst.org.br/2
 
 <p>&nbsp;</p>
 
+<p><strong>ES</strong></p>
+
+<p>Na capital Vit&oacute;ria, Sem Terra protestaram nas proximidades da Rodovi&aacute;ria de Vit&oacute;ria, em frente ao acesso que liga a capital &agrave; Ilha do Pr&iacute;ncipe. A pol&iacute;cia militar do estado reprimiu os manifestantes com bombas de efeito moral e balas de borracha. &Agrave;s 14h, um novo ato contra a Lei da Terceiriza&ccedil;&atilde;o acontecer&aacute; em frente a Federa&ccedil;&atilde;o das Ind&uacute;strias do Esp&iacute;rito Santo (Findes).</p>
+
+<p>&nbsp;</p>
+
+<p><strong>RS</strong></p>
+
+<p>Em Porto Alegre, manifestantes se reuniram em frente &agrave; Federa&ccedil;&atilde;o do Com&eacute;rcio de Bens e de Servi&ccedil;os do Estado do Rio Grande do Sul (Fecom&eacute;rcio-RS) para protestar contra o lobby feito por empres&aacute;rios na &uacute;ltima semana, quando a C&acirc;mara Federal aprovou a lei das terceiriza&ccedil;&otilde;es (PL 4330).</p>
+
 <p>&nbsp;</p>
 
 <p>&nbsp;</p>
