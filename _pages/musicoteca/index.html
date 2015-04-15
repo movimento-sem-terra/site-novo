@@ -16,7 +16,7 @@ scripts: ["playlist.js"]
   </section>
   <div id="playlist">
     {% for album in site.data.playlist %}
-    <section class="pin" data-index="{{ forloop.index0 }}">
+    <section class="album" data-index="{{ forloop.index0 }}">
       <img src="{{ album.cover  }}"/>
       <p>
         {{ album.name }}

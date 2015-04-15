@@ -42,7 +42,7 @@ $mobile: new-breakpoint(max-width 768px);
 
   #playlist {
     @include outer-container;
-    .pin{
+    .album{
         @include span-columns(4);
         @include omega(3n);
     }
