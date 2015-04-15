@@ -4,7 +4,7 @@ tags:
   - tag: jornadad-e-lutas-abril-2015
   - tag: reforma-agrária
   - tag: lutas-e-mobilizações
-title: "Jornada Nacional de Lutas começa em todo país "
+title: "Começa a Jornada Nacional de Lutas em todo país "
 support_line: Sem Terra vão às pela Reforma Agrária Popular
 menu: lutas e mobilizações
 layout: post
@@ -43,19 +43,20 @@ releated_posts:
   - 2015/04/2015-04-13-em-sergipe-assentados-fortalecem-trabalho-de-base.md
 
 ---
-<p>&nbsp;</p>
+<p><br />
+<em>Da P&aacute;gina do MST </em></p>
 
-<p><em>Da P&aacute;gina do MST </em></p>
+<p><br />
+Terra j&aacute; deram in&iacute;cio a Jornada Nacional de Lutas pela Reforma Agr&aacute;ria deste ano, que concentra a maior parte das suas a&ccedil;&otilde;es entre os dias 15 a 18 de abril.</p>
 
-<p>&nbsp;</p>
+<p><br />
+Marchas, ocupa&ccedil;&otilde;es de terra e pr&eacute;dios p&uacute;blicos e trancamento de rodovias s&atilde;o algumas das a&ccedil;&otilde;es utilizadas pelos trabalhadores rurais para denunciarem o modelo do agroneg&oacute;cio no campo brasileiro e apresentarem a agroecologia como alternativa ao capital estrangeiro na agricultura.</p>
 
-<p>Sem Terra j&aacute; deram in&iacute;cio a Jornada Nacional de Lutas pela Reforma Agr&aacute;ria deste ano, que concentra a maior parte das suas a&ccedil;&otilde;es entre os dias 15 a 18 de abril.</p>
+<p><br />
+Em entrevista, D&eacute;bora Nunes, da coordena&ccedil;&atilde;o nacional do MST, ressalta a import&acirc;ncia das mobiliza&ccedil;&otilde;es e de a&ccedil;&otilde;es que tem como objetivo pressionar o governo para garantir o cumprimento do seu papel na garantia da fun&ccedil;&atilde;o social da terra.</p>
 
-<p>Marchas, ocupa&ccedil;&otilde;es de terra e pr&eacute;dios p&uacute;blicos e trancamento de rodovias s&atilde;o algumas das a&ccedil;&otilde;es utilizadas pelos trabalhadores rurais para denunciarem o modelo do agroneg&oacute;cio no campo brasileiro e apresentarem a agroecologia como alternativa ao capital estrangeiro na agricultura.</p>
-
-<p>Em entrevista, D&eacute;bora Nunes, da coordena&ccedil;&atilde;o nacional do MST, ressalta a import&acirc;ncia das mobiliza&ccedil;&otilde;es e de a&ccedil;&otilde;es que tem como objetivo pressionar o governo para garantir o cumprimento do seu papel na garantia da fun&ccedil;&atilde;o social da terra.</p>
-
-<p>&quot;As bandeiras levantadas pelo Movimento dialogam diretamente com as necessidades de mudan&ccedil;as para o avan&ccedil;o da Reforma Agr&aacute;ria, como por exemplo, a Reforma Pol&iacute;tica.Temos clareza que frente a um congresso extremamente conservador e reacion&aacute;rio, que n&atilde;o representa o povo brasileiro, somente com uma reforma pol&iacute;tica que impulsione a mudan&ccedil;a de sua forma e conte&uacute;do &eacute; poss&iacute;vel avan&ccedil;armos, tamb&eacute;m, na realiza&ccedil;&atilde;o da Reforma Agr&aacute;ria&quot;.</p>
+<p><br />
+&quot;As bandeiras levantadas pelo Movimento dialogam diretamente com as necessidades de mudan&ccedil;as para o avan&ccedil;o da Reforma Agr&aacute;ria, como por exemplo, a Reforma Pol&iacute;tica.Temos clareza que frente a um congresso extremamente conservador e reacion&aacute;rio, que n&atilde;o representa o povo brasileiro, somente com uma reforma pol&iacute;tica que impulsione a mudan&ccedil;a de sua forma e conte&uacute;do &eacute; poss&iacute;vel avan&ccedil;armos, tamb&eacute;m, na realiza&ccedil;&atilde;o da Reforma Agr&aacute;ria&quot;.</p>
 
 <p>Para ler e entrevista na &iacute;ntegra, clique <a href="http://www.mst.org.br/2015/04/09/vivemos-um-novo-momento-da-luta-social-e-politica-no-brasil-onde-a-luta-de-classes-agoniza-e-expoe-as-contradicoes-da-nossa-sociedade.html">aqui</a></p>
 
@@ -87,9 +88,11 @@ releated_posts:
 
 <p>Em paralelo a Jornada de Lutas do Movimento, sindicatos e movimentos sociais tamb&eacute;m v&atilde;o &agrave;s ruas dia 15 por direitos trabalhistas. &ndash; entre os quais MTST, CUT e MST. O ato desta quarta-feira (15) &eacute; contra o projeto de lei das terceiriza&ccedil;&otilde;es (PL 4.330) e a redu&ccedil;&atilde;o da maioridade penal e em defesa da reforma pol&iacute;tica, do fim do financiamento privado de campanhas e pela taxa&ccedil;&atilde;o de grandes fortunas.</p>
 
-<p>Em S&atilde;o Paulo, a concentra&ccedil;&atilde;o ser&aacute; &agrave;s 17h, no Largo da Batata, na zona oeste da capital.</p>
+<p><br />
+Em S&atilde;o Paulo, a concentra&ccedil;&atilde;o ser&aacute; &agrave;s 17h, no Largo da Batata, na zona oeste da capital.</p>
 
-<p>Ocorrer&atilde;o mobiliza&ccedil;&otilde;es tamb&eacute;m no Rio de Janeiro, Belo Horizonte, Fortaleza e Curitiba. A CUT prop&otilde;e que seja um dia nacional de paralisa&ccedil;&otilde;es contra o PL das terceiriza&ccedil;&otilde;es. De acordo com a entidade, o projeto n&atilde;o melhora as condi&ccedil;&otilde;es de trabalho dos 12,7 milh&otilde;es de terceirizados (26,8% dos trabalhadores) e ainda amplia a possibilidade de estender esse modelo de contrata&ccedil;&atilde;o para a atividade-fim da empresa, o que hoje &eacute; proibido no Brasil.</p>
+<p><br />
+Ocorrer&atilde;o mobiliza&ccedil;&otilde;es tamb&eacute;m no Rio de Janeiro, Belo Horizonte, Fortaleza e Curitiba. A CUT prop&otilde;e que seja um dia nacional de paralisa&ccedil;&otilde;es contra o PL das terceiriza&ccedil;&otilde;es. De acordo com a entidade, o projeto n&atilde;o melhora as condi&ccedil;&otilde;es de trabalho dos 12,7 milh&otilde;es de terceirizados (26,8% dos trabalhadores) e ainda amplia a possibilidade de estender esse modelo de contrata&ccedil;&atilde;o para a atividade-fim da empresa, o que hoje &eacute; proibido no Brasil.</p>
 
 <p>&nbsp;</p>
 
