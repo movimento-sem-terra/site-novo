@@ -49,6 +49,8 @@ releated_posts:
 ---
 <p><em>Da P&aacute;gina do MST&nbsp;</em></p>
 
+<p>&nbsp;</p>
+
 <p>Na madrugada desta quinta-feira (16/04), cerca de 1.500 fam&iacute;lias Sem Terra ocuparam a Fazenda Guerra, &nbsp;com mais de 7 mil hectares, no munic&iacute;pio de Tapes, a 120 km de Porto Alegre, no Rio Grande do Sul.</p>
 
 <p><br />
