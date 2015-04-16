@@ -5,7 +5,7 @@ tags:
   - tag: jornada-de-lutas-2015
   - tag: lutas-e-mobilizações
 title: Sem Terra ocupam latifúndio Rio Grande do Sul
-support_line: A ação denuncia o latifúndio improdutivo na região e exige sua desapropriação para fins de Reforma Agrária
+support_line: A ação denuncia o latifúndio improdutivo na região e exige sua desapropriação para fins de Reforma Agrária.
 menu: lutas e mobilizações
 layout: post
 files:
@@ -61,6 +61,7 @@ releated_posts:
   - 2014/10/2014-10-02-mst-exige-desapropriacao-da-fazenda-da-senadora-ana-amelia.md
   - 2015/01/2015-01-12-katia-abreu-a-ministra-que-desmata-a-razao.md
   - 2015/01/2015-01-12-cpt-considera-reforma-agraria-do-governo-dilma-a-pior-dos-ultimos-20-anos.md
+section: featured-news
 
 ---
 <p><em>Da P&aacute;gina do MST&nbsp;</em></p>
