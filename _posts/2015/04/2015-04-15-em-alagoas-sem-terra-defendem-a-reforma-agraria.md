@@ -8,7 +8,7 @@ hat: ""
 title: "Em Alagoas, Sem Terra bloqueiam rodovias em defesa da reforma agrária"
 support_line: "Ações integram a agenda da Jornada Nacional de Lutas. "
 menu: lutas e mobilizações
-section: featured-news
+section: null
 layout: post
 files:
   - link: "http://farm9.staticflickr.com/8813/16971383559_46149dd988_b.jpg"
