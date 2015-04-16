@@ -5,7 +5,7 @@ tags:
   - tag: reforma-agrária
   - tag: MST
 support_line: "O ator também participou de uma bate papo com os militantes do Movimento  "
-title: "Em visita ao Brasil, o ator Danny Glover visitou as instalações da ENFF"
+title: "Em passagem pelo Brasil, o ator Danny Glover visita a Escola Nacional Florestan Fernades"
 menu: solidariedade
 layout: post
 files:
@@ -47,30 +47,27 @@ releated_posts:
 
 <div>&nbsp;</div>
 
-<div><em>Da P&aacute;gina do MST </em></div>
+<div>
+<p><em>Da P&aacute;gina do MST</em></p>
 
-<div>&nbsp;</div>
+<p><br />
+O Ator e ativista Norte Americano Danny Glover participou nesta quarta-feira (15) de uma visita &agrave; Escola Nacional Florestan Fernandes, em Guararema, ao lado do tamb&eacute;m ativista e intelectual James Early.</p>
 
-<div>O Ator e ativista Norte Americano Danny Glover participou nesta quarta-feira (15) de uma visita &agrave; Escola Nacional Florestan Fernandez, em Guararema, ao lado do tamb&eacute;m ativista e intelectual James Early.</div>
+<p><br />
+Essa foi a primeira vez em que ambos estiveram na escola nacional. Danny e James participaram de um bate papo com os educandos presentes e com os militantes da Brigada Apol&ocirc;nio de Carvalho. &ldquo;&Eacute; um presente estar aqui hoje. Olhando para voc&ecirc;s, que s&atilde;o o futuro&rdquo;, afirmou o ator.</p>
 
-<div><br />
-Essa foi a primeira vez em que ambos estiveram na escola nacional. Danny e James participaram de um bate papo com os educandos presentes e com os militantes da Brigada Apol&ocirc;nio de Carvalho. &ldquo;&Eacute; um presente estar aqui hoje. Olhando para voc&ecirc;s, que s&atilde;o o futuro&rdquo;, afirmou o ator.</div>
+<p><br />
+Danny e James tomaram um caf&eacute; da manh&atilde; com uma mesa repleta de produtos da Reforma Agr&aacute;ria e frutas produzidas pelo setor de produ&ccedil;&atilde;o da escola. Durante o caf&eacute;, eles fizeram uma exposi&ccedil;&atilde;o sobre suas pr&aacute;ticas militantes pelo mundo e como veem a quest&atilde;o dos problemas sociais.</p>
 
-<div><br />
-Danny e James tomaram um caf&eacute; da manh&atilde; com uma mesa repleta de produtos da Reforma Agr&aacute;ria e frutas produzidas pelo setor de produ&ccedil;&atilde;o da escola. Durante o caf&eacute;, eles fizeram uma exposi&ccedil;&atilde;o sobre suas pr&aacute;ticas militantes pelo mundo e como veem a quest&atilde;o dos problemas sociais.</div>
+<p><br />
+Em sua fala, Danny ressaltou a participa&ccedil;&atilde;o da juventude na transforma&ccedil;&atilde;o da sociedade e disse que a quest&atilde;o racial n&atilde;o deve ser vista isoladamente dos outros problemas sociais.&nbsp;</p>
 
-<div>&nbsp;</div>
+<p><br />
+&ldquo;O racismo existe dentro do sistema capitalista, e o preconceito e opress&atilde;o aos negros n&atilde;o podem ser visto como algo dissociado da explora&ccedil;&atilde;o do trabalho&rdquo;.</p>
 
-<div>Em sua fala, Danny ressaltou a participa&ccedil;&atilde;o da juventude na transforma&ccedil;&atilde;o da sociedade e disse que a quest&atilde;o racial n&atilde;o deve ser vista isoladamente dos outros problemas sociais.&nbsp;</div>
+<p><br />
+Danny e James vieram ao Brasil participar do Congresso da CUT, e aproveitaram a oportunidade para conhecer um pouco do processo de forma&ccedil;&atilde;o da escola e do MST. &ldquo;Esse espa&ccedil;o &eacute; incr&iacute;vel, &eacute; um sopro de ar fresco&rdquo; conclui o ator.</p>
 
-<div>&nbsp;</div>
-
-<div>&ldquo;O racismo existe dentro do sistema capitalista, e o preconceito e opress&atilde;o aos negros n&atilde;o podem ser visto como algo dissociado da explora&ccedil;&atilde;o do trabalho&rdquo;.</div>
-
-<div>&nbsp;</div>
-
-<div>Danny e James vieram ao Brasil participar do Congresso da CUT, e aproveitaram a oportunidade para conhecer um pouco do processo de forma&ccedil;&atilde;o da escola e do MST. &ldquo;Esse espa&ccedil;o &eacute; incr&iacute;vel, &eacute; um sopro de ar fresco&rdquo; conclui o ator.</div>
-
-<div>&nbsp;</div>
-
-<div>Ao fim da visita, eles plantaram uma muda de cerejeira no nosso bosque da solidariedade.</div>
+<p><br />
+Ao fim da visita, eles plantaram uma muda de cerejeira no nosso bosque da solidariedade.</p>
+</div>
