@@ -34,7 +34,11 @@ Na<span style="line-height: 20.7999992370605px;">&nbsp;semana de Mobiliza&ccedil
 
 <p>A PEC 215 transfere do governo federal para o Congresso a atribui&ccedil;&atilde;o de oficializar Terras Ind&iacute;genas, Unidades de Conserva&ccedil;&atilde;o e territ&oacute;rios quilombolas. Segundo&nbsp;<span style="line-height: 20.7999992370605px;">&nbsp;Babau Tupinamb&aacute;, &quot;e</span>ssa articula&ccedil;&atilde;o demonstra a unidade dos povos ind&iacute;genas na luta por seus direitos. N&atilde;o h&aacute; terras tradicionais garantidas. O movimento ind&iacute;gena precisa seguir na rua, em alian&ccedil;a com outros grupos que sofrem os mesmos ataques: quilombolas, sem terras, comunidades tradicionais, sem teto&rdquo;.</p>
 
-<p style="text-align:center"><img alt="" height="285" src="http://farm8.staticflickr.com/7673/16983690839_a5ebae6876_n.jpg" width="430" /></p>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="" height="285" src="http://farm8.staticflickr.com/7673/16983690839_a5ebae6876_n.jpg" width="430" />
+<figcaption>Foto: M&iacute;dia Ninja</figcaption>
+</figure>
+</div>
 
 <p>&nbsp;</p>
 
