@@ -116,6 +116,7 @@ $mobile: new-breakpoint(max-width 768px);
               text-align: left;
               height: 270px;
               overflow: scroll;
+              position: relative;
 
               ul {
                 li {

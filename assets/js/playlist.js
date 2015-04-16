@@ -36,6 +36,10 @@ $(document).ready(function() {
     player.load();
     player.play();
 
+    $('.album.open .player').animate({
+      scrollTop: link.position().top
+    }, 500);
+
   };
 
   $('.album .cover').click(function() {
