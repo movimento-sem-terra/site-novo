@@ -61,4 +61,6 @@ A fazenda da fam&iacute;lia Guerra fica na localidade das Camelias e faz divisa 
 Os Sem Terra tamb&eacute;m denunciam que os propriet&aacute;rios do latif&uacute;ndio possuem tem uma d&iacute;vida de R$ 20 milh&otilde;es, al&eacute;m de usarem dinheiro publico para o plantio de eucaliptos pr&oacute;ximos a Lagoa dos Patos, prejudicando o meio ambiente.</p>
 
 <p><br />
-As fam&iacute;lias Sem Terra que promovem a ocupa&ccedil;&atilde;o&nbsp;s&atilde;o oriundas de 14 acampamentos do MST de v&aacute;rias regi&otilde;es do estado. A a&ccedil;&atilde;o faz parte&nbsp;<span style="line-height: 20.7999992370605px;">da Jornada de Luta pela Reforma Agr&aacute;ria do MST que ocorre durante essa semana com diversas mobiliza&ccedil;&otilde;es pelo pa&iacute;s e que se soma ao conjunto das mobiliza&ccedil;&otilde;es da classe trabalhadora em defesa dos direitos conquistados.</span></p>
+As fam&iacute;lias Sem Terra que promovem a ocupa&ccedil;&atilde;o&nbsp;s&atilde;o oriundas de 14 acampamentos do MST de v&aacute;rias regi&otilde;es do estado.</p>
+
+<p>A a&ccedil;&atilde;o faz parte&nbsp;<span style="line-height: 20.7999992370605px;">da Jornada de Luta pela Reforma Agr&aacute;ria do MST que ocorre durante essa semana com diversas mobiliza&ccedil;&otilde;es pelo pa&iacute;s e que se soma ao conjunto das mobiliza&ccedil;&otilde;es da classe trabalhadora em defesa dos direitos conquistados.</span></p>
