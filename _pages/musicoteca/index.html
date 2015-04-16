@@ -20,8 +20,7 @@ scripts: ["playlist.js"]
       <img class="cover" src="{{ album.cover  }}"/>
 
       <div class="playlist" >
-        <button class="btn-play"><span class="fa fa-play"></span></button>
-        <button class="btn-pause"><span class="fa fa-pause"></span></button>
+
         <h2>{{ album.name }}</h2>
         <a href="{{ album.download }}" target="_blank" class="btn-download"><span class="fa fa-download fa-3"></span> Download</a>
 
@@ -42,6 +41,14 @@ scripts: ["playlist.js"]
             </li>
             {% endfor %}
           </ul>
+        </div>
+        <div class="controls">
+          <button class="btn-prev"><span class="fa fa-step-backward"></span></button>
+
+          <button class="btn-play"><span class="fa fa-play"></span></button>
+          <button class="btn-pause"><span class="fa fa-pause"></span></button>
+
+          <button class="btn-next"><span class="fa fa-step-forward"></span></button>
         </div>
       </div>
 

@@ -45,7 +45,7 @@ $(document).ready(function() {
 
     $(player).on('ended',function(e){
       var next = $(this).data('current-track') + 1;
-      var tracks = $('#'+albumId+' .player .list .track a');
+      var tracks = $('.album.open .track a');
       var len = tracks.length - 1;
 
       if(next > len){
@@ -66,7 +66,7 @@ $(document).ready(function() {
       $('.playlist.paused audio')[0].play();
       $('.playlist.paused').removeClass('paused').addClass('playing');
     }else{
-      var track = $(this).find(' ~ .player .list .track a').first();
+      var track = $('.album.open .track a').first();
       runMusic(track);
     }
   });
@@ -74,5 +74,22 @@ $(document).ready(function() {
   $('.btn-pause').click(function() {
     $('.playlist.playing audio')[0].pause();
     $('.playlist.playing').removeClass('playing').addClass('paused');
+  });
+
+  $('.btn-prev').click(function(){
+    var position = $('.album.open .player audio').data('current-track') - 1;
+    var tracks = $('.album.open .track a');
+    var len = tracks.length - 1;
+
+    if(position > len){
+      position = 0;
+    }else if (position < 0) {
+      position = len;
+    }
+
+
+
+    runMusic($(tracks[position]));
+
   });
 });
