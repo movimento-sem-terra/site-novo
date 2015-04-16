@@ -49,6 +49,7 @@ $mobile: new-breakpoint(max-width 768px);
         background: white;
         height: 320px;
         max-height: 320px;
+        min-height: 320px;
         box-shadow: 1px 2px 5px $mst-medium-gray;
 
         @include span-columns(3);
@@ -59,6 +60,9 @@ $mobile: new-breakpoint(max-width 768px);
         }
 
         &.open {
+          height: auto;
+          max-height: none;
+          min-height: none;
           @include fill-parent();
 
           .cover {
