@@ -61,10 +61,40 @@ Neste ano, a <span style="line-height: 20.7999992370605px;">Jornada Nacional de 
 Para ler e entrevista na &iacute;ntegra, clique <a href="http://www.mst.org.br/2015/04/09/vivemos-um-novo-momento-da-luta-social-e-politica-no-brasil-onde-a-luta-de-classes-agoniza-e-expoe-as-contradicoes-da-nossa-sociedade.html">aqui</a></p>
 
 <p><br />
-<strong>Confira as primeiras mobiliza&ccedil;&otilde;es</strong></p>
+<strong>Confira as a&ccedil;&otilde;es dessa quinta-feira (16)</strong></p>
+
+<p>&nbsp;</p>
+
+<p><strong>RS</strong></p>
+
+<p>Em Porto Alegre, manifestantes se reuniram em frente &agrave; Federa&ccedil;&atilde;o do Com&eacute;rcio de Bens e de Servi&ccedil;os do Estado do Rio Grande do Sul (Fecom&eacute;rcio-RS) para protestar contra o lobby feito por empres&aacute;rios na &uacute;ltima semana, quando a C&acirc;mara Federal aprovou a lei das terceiriza&ccedil;&otilde;es (PL 4330). Na madrugada desta quinta-feira (16) cerca de 1500 fam&iacute;lias ocuparam uma fazenda da &aacute;rea rural de Tapes, na Regi&atilde;o Sul do Rio Grande do Sul.O objetivo &eacute; transformar a &aacute;rea de mais de 7 mil hectares em um local de produ&ccedil;&atilde;o.</p>
+
+<p><img alt="DSC_0025.JPG" height="432" src="http://farm8.staticflickr.com/7630/17169079132_b1f823cdcc_b.jpg" width="650" /></p>
 
 <p><br />
-<strong>AL</strong></p>
+&nbsp;</p>
+
+<p><strong>SP</strong></p>
+
+<p>Na madrugada desta quinta-feira (16), cerca de 700 Sem Terra ocuparam a Usina Nova Uni&atilde;o e, pela 13&ordf; vez, a fazenda Martin&oacute;polis, em Serrana, interior de S&atilde;o Paulo. As fam&iacute;lias exigem a adjudica&ccedil;&atilde;o imediata da fazenda que deve cerca de R$ 300 milh&otilde;es em ICMS para o governo do estado.Atualmente, 400 fam&iacute;lias organizadas pelo Movimento vivem no acampamento Alexandra Kollontai e, h&aacute; sete anos, lutam pela arrecada&ccedil;&atilde;o da fazenda, que pertence &agrave; Usina Martin&oacute;polis.</p>
+
+<p>&nbsp;</p>
+
+<p><img alt="2_1.jpg" src="http://farm9.staticflickr.com/8729/17169137202_8ea825fd0b_b.jpg" /></p>
+
+<p><strong>PA</strong></p>
+
+<p>Cerca de 300 Sem Terra ocuparam na manh&atilde; desta quinta-feira (16) a sede do Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra), no bairro do Souza, em Bel&eacute;m. Uma reuni&atilde;o com o representante nacional do instituto para discutir a destina&ccedil;&atilde;o de terras da regi&atilde;o para a Reforma Agr&aacute;ria est&aacute; marcada para o in&iacute;cio dessa noite.</p>
+
+<p>&nbsp;</p>
+
+<p><img alt="333.jpg" src="http://farm9.staticflickr.com/8798/17171070915_19686f8a2d_b.jpg" /></p>
+
+<p>&nbsp;</p>
+
+<p><strong>Confira as a&ccedil;&otilde;es dessa quinta-feira&nbsp; (16)</strong></p>
+
+<p><strong>AL</strong></p>
 
 <p>Em Alagoas as rodovias a BR 316, BR 101, em Flexeiras e a BR 104 na cidade de Uni&atilde;o dos Palmares, est&atilde;o bloqueadas desde o in&iacute;cio dessa manh&atilde; pelos Sem Terra. J&aacute; no Agreste, cerca de 400 trabalhadores e trabalhadoras ocupam a sede da &Aacute;guas do Agreste em Arapiraca (CAB), empresa respons&aacute;vel, atrav&eacute;s de Parceria P&uacute;blico-Privada, pela gest&atilde;o de abastecimento de 10 cidades da regi&atilde;o. Os Sem Terra denunciam&nbsp; que o destino da &aacute;gua est&aacute; &agrave; servi&ccedil;o da minera&ccedil;&atilde;o, beneficiando a empresa Vale Verde.</p>
 
@@ -94,8 +124,6 @@ Para ler e entrevista na &iacute;ntegra, clique <a href="http://www.mst.org.br/2
 &nbsp;</p>
 
 <p><img alt="150141659-img-2912.JPG" height="488" src="http://farm8.staticflickr.com/7681/16951375657_28ff842a4a_b.jpg" width="650" /></p>
-
-<p>&nbsp;</p>
 
 <p>&nbsp;</p>
 
