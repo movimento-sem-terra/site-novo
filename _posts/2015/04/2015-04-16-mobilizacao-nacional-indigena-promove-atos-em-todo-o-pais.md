@@ -21,9 +21,15 @@ images_hd: "http://farm8.staticflickr.com/7670/16982329930_b145532dc0_n.jpg"
 releated_posts: []
 
 ---
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="" src="http://farm8.staticflickr.com/7670/16982329930_b145532dc0_n.jpg" />
+<figcaption><em>Foto: M&iacute;dia Ninja</em></figcaption>
+</figure>
+</div>
+
 <p>&nbsp;</p>
 
-<p>Por Blog Mobiliza&ccedil;&atilde;o Nacional Ind&iacute;gena</p>
+<p><em>Por Blog Mobiliza&ccedil;&atilde;o Nacional Ind&iacute;gena</em></p>
 
 <p>&nbsp;</p>
 
@@ -129,8 +135,6 @@ Em Bras&iacute;lia, cerca 1,5 mil ind&iacute;genas est&atilde;o reunidos no Acam
 <p>&nbsp;</p>
 
 <p>&ldquo;O estado n&atilde;o pode legislar sobre terras ind&iacute;genas ou quilombolas, impedindo demarca&ccedil;&otilde;es. Isso &eacute; inconstitucional, um completo absurdo&rdquo;, afirma Kret&atilde; Kaingang. Nesta quarta-feira (15/4), uma audi&ecirc;ncia p&uacute;blica ocorrer&aacute; na Assembleia Legislativa, em Porto Alegre, para tratar do PL e de um outro projeto, que pro&iacute;be o uso de animais em rituais da religi&atilde;o afro.</p>
-
-<p>&nbsp;</p>
 
 <p><strong>Minas Gerais</strong></p>
 
