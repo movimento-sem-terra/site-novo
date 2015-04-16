@@ -47,6 +47,7 @@ releated_posts:
   - 2014/08/2014-08-14-sem-avancos-2500-trabalhadores-rurais-permanecem-mobilizados-no-para.md
   - 2015/03/2015-03-13-juventude-sem-terra-se-desafia-a-impulsionar-a-participacao-na-luta-pela-reforma-agraria.md
   - 2014/12/2014-11-03-nesta-terca-movimentos-se-mobilizam-em-defesa-do-plebiscito-oficial-pela-constituinte.md
+label: interviews
 
 ---
 <p><img alt="11_58_23_189_file.jpeg" src="http://farm9.staticflickr.com/8784/16904250529_5b095d6ce1_b.jpg" /></p>
