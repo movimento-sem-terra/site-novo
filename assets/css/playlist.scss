@@ -66,6 +66,42 @@ $mobile: new-breakpoint(max-width 768px);
           .playlist {
             @include span-columns(7);
 
+            &.playing {
+              .btn-play {
+                display: none;
+              }
+
+              .btn-pause {
+                display: inline;
+              }
+            }
+
+            .track a .fa {
+              display: none;
+
+              &.fa-play{
+                display: inline;
+              }
+            }
+
+            &.playing .player .list .track.active a{
+              .fa {
+                display: none;
+              }
+              .icon-playing {
+                display: inline;
+              }
+            }
+            &.paused .player .list .track.active a{
+              .fa, .icon-playing {
+                display: none;
+              }
+              .fa.fa-pause {
+                display: inline;
+              }
+            }
+
+
             .player {
               margin-top: 10px;
               display: block;
@@ -94,18 +130,10 @@ $mobile: new-breakpoint(max-width 768px);
                   .fa {
                     padding-right: 5px;
                     color: $mst-medium-gray;
-                    display: inline;
                   }
 
                   &.active a{
                     background: $mst-light-gray;
-
-                    .icon-playing{
-                     display: inline-block;
-                    }
-                    .fa {
-                      display: none;
-                    }
                   }
                 }
               }
@@ -150,6 +178,7 @@ $mobile: new-breakpoint(max-width 768px);
           color: #74747E;
           font-size: .9em;
           border-radius: 3px;
+          padding: 5px 10px;
         }
 
         h2 {

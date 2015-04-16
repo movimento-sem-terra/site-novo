@@ -25,8 +25,11 @@ $(document).ready(function() {
     //start player
     $(player).data('current-track', trackIndex);
     //show pause button
-    $('.playlist.playing').removeClass('playing');
-    $('#'+albumId+' .playlist').addClass('playing');
+    var albumId = link.data('album-id');
+    if(!!albumId){
+      $('.playlist').removeClass('playing').removeClass('paused');
+      $('#'+albumId+' .playlist').addClass('playing');
+    }
 
 
     player.volume = 0.10;
@@ -42,20 +45,34 @@ $(document).ready(function() {
 
     $(player).on('ended',function(e){
       var next = $(this).data('current-track') + 1;
-      var tracks = $('#'+albumId+' .player .list .track');
+      var tracks = $('#'+albumId+' .player .list .track a');
       var len = tracks.length - 1;
 
       if(next > len){
         next = 0;
       }
 
-      runMusic($(tracks[next]), albumId);
+      runMusic($(tracks[next]));
     });
   });
 
   $('.player .track a').click(function(e){
     e.preventDefault();
-    var albumId = $(this).data('album-id');
-    runMusic($(this), albumId);
+    runMusic($(this));
+  });
+
+  $('.btn-play').click(function() {
+    if($('.playlist.paused').size() > 0){
+      $('.playlist.paused audio')[0].play();
+      $('.playlist.paused').removeClass('paused').addClass('playing');
+    }else{
+      var track = $(this).find(' ~ .player .list .track a').first();
+      runMusic(track);
+    }
+  });
+
+  $('.btn-pause').click(function() {
+    $('.playlist.playing audio')[0].pause();
+    $('.playlist.playing').removeClass('playing').addClass('paused');
   });
 });

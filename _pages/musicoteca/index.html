@@ -23,7 +23,7 @@ scripts: ["playlist.js"]
         <button class="btn-play"><span class="fa fa-play"></span></button>
         <button class="btn-pause"><span class="fa fa-pause"></span></button>
         <h2>{{ album.name }}</h2>
-        <button class="btn-download"><span class="fa fa-download fa-3"></span> Download</button>
+        <a href="{{ album.download }}" target="_blank" class="btn-download"><span class="fa fa-download fa-3"></span> Download</a>
 
         <div class="player">
           <audio preload="none" controls id="player_{{ forloop.index0 }}" data-current-track="0">
@@ -36,6 +36,7 @@ scripts: ["playlist.js"]
                 <a href="#" data-index="{{ forloop.index0  }}" data-mp3="{{track.mp3}}" data-ogg="track.ogg" data-album-id="{{ albumId }}">
                   <img  src="{{ site.baseurl }}/assets/img/sound_playing.gif" class="icon-playing"/>
                   <span class="fa fa-play"></span>
+                  <span class="fa fa-pause"></span>
                   {{ track.name }}
                 </a>
             </li>
