@@ -4,7 +4,7 @@ tags:
   - tag: jornadad-e-lutas-abril-2015
   - tag: reforma-agrária
   - tag: lutas-e-mobilizações
-title: "Jornada por Reforma Agrária inicia com paralisação e bloqueios "
+title: "Jornada por Reforma Agrária inicia com paralisações e bloqueios "
 support_line: MST se soma ao conjunto das mobilizações contra o PL da Terceirização e denuncia latifúndios em todo o país.
 menu: lutas e mobilizações
 layout: post
@@ -37,7 +37,7 @@ releated_posts:
   - 2015/04/2015-04-10-sem-terra-iniciam-atividades-no-para-em-homenagam-aos-martires-de-eldorado-dos-carajas.md
   - 2015/04/2015-04-13-sindicatos-e-movimentos-sociais-vao-as-ruas-dia-15-por-direitos-trabalhistas.md
   - 2015/04/2015-04-15-em-alagoas-sem-terra-defendem-a-reforma-agraria.md
-section: cover
+section: null
 
 ---
 <p><br />
