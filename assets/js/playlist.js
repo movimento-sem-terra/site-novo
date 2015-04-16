@@ -1,7 +1,7 @@
 $(document).ready(function() {
   var player;
 
-  var runMusic = function(link, albumId){
+  var runMusic = function(link){
     if(!player){
       return;
     }
@@ -44,15 +44,7 @@ $(document).ready(function() {
     player = $(this).find(' ~ .playlist .player audio')[0];
 
     $(player).on('ended',function(e){
-      var next = $(this).data('current-track') + 1;
-      var tracks = $('.album.open .track a');
-      var len = tracks.length - 1;
-
-      if(next > len){
-        next = 0;
-      }
-
-      runMusic($(tracks[next]));
+      changeMusic(1);
     });
   });
 
@@ -76,8 +68,8 @@ $(document).ready(function() {
     $('.playlist.playing').removeClass('playing').addClass('paused');
   });
 
-  $('.btn-prev').click(function(){
-    var position = $('.album.open .player audio').data('current-track') - 1;
+  var changeMusic = function(direction){
+    var position = $('.album.open .player audio').data('current-track') + direction;
     var tracks = $('.album.open .track a');
     var len = tracks.length - 1;
 
@@ -86,10 +78,14 @@ $(document).ready(function() {
     }else if (position < 0) {
       position = len;
     }
-
-
-
     runMusic($(tracks[position]));
+  };
 
+  $('.btn-prev').click(function(){
+    changeMusic(-1);
+  });
+
+  $('.btn-next').click(function(){
+    changeMusic(1);
   });
 });
