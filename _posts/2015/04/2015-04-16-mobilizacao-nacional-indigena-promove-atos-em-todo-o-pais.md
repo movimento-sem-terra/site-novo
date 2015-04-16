@@ -29,6 +29,8 @@ releated_posts: []
 ---
 <p><img alt="10675636_479913142166836_1403571335440800480_n.jpg" src="http://farm8.staticflickr.com/7670/16982329930_b145532dc0_b.jpg" /></p>
 
+<p>&nbsp;</p>
+
 <p><em>Do Blog Mobiliza&ccedil;&atilde;o Nacional Ind&iacute;gena&nbsp;</em></p>
 
 <p><br />
