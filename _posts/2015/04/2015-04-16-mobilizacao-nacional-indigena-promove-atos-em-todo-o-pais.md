@@ -22,7 +22,7 @@ releated_posts: []
 
 ---
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="" src="http://farm8.staticflickr.com/7670/16982329930_b145532dc0_n.jpg" />
+<figure class="image" style="display:inline-block"><img alt="" height="266" src="http://farm8.staticflickr.com/7670/16982329930_b145532dc0_n.jpg" width="400" />
 <figcaption><em>Foto: M&iacute;dia Ninja</em></figcaption>
 </figure>
 </div>
@@ -136,7 +136,11 @@ Em Bras&iacute;lia, cerca 1,5 mil ind&iacute;genas est&atilde;o reunidos no Acam
 
 <p>&ldquo;O estado n&atilde;o pode legislar sobre terras ind&iacute;genas ou quilombolas, impedindo demarca&ccedil;&otilde;es. Isso &eacute; inconstitucional, um completo absurdo&rdquo;, afirma Kret&atilde; Kaingang. Nesta quarta-feira (15/4), uma audi&ecirc;ncia p&uacute;blica ocorrer&aacute; na Assembleia Legislativa, em Porto Alegre, para tratar do PL e de um outro projeto, que pro&iacute;be o uso de animais em rituais da religi&atilde;o afro.</p>
 
+<p>&nbsp;</p>
+
 <p><strong>Minas Gerais</strong></p>
+
+<p>&nbsp;</p>
 
 <p>Os povos ind&iacute;genas organizaram uma agenda que come&ccedil;a nesta quinta-feira (16/4), com I Mutir&atilde;o dos Povos Ind&iacute;genas e Popula&ccedil;&otilde;es Tradicionais do Norte de Minas Gerais, que segue at&eacute; o dia 19. O evento ocorrer&aacute; na aldeia Brejo Mata Fome, munic&iacute;pio de S&atilde;o Jo&atilde;o das Miss&otilde;es. Devem participar 400 ind&iacute;genas e 100 aliados.</p>
 
