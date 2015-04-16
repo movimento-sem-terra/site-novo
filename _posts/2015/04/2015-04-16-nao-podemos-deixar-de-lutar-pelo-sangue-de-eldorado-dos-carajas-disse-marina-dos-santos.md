@@ -4,21 +4,33 @@ tags:
   - tag: cloc
   - tag: argentina
   - tag: reforma-agrária
-title: "\"Não podemos deixar de lutar pelo sangue de Eldorado dos Carajás\", disse Marina dos Santos"
+title: "\"Não podemos deixar de lutar pelo sangue de Eldorado dos Carajás\", afirma Marina dos Santos"
 support_line: "Responsável pelo encerramento do 6º Congresso CLOC, Marina pontuou a reforma agrária como uma das principais bandeiras das organizações camponesas."
 menu: reforma agrária
 section: cover
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7627/17171181351_4c90e8c36a_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7627/17171181351_4c90e8c36a_t.jpg"
-    medium: "http://farm8.staticflickr.com/7627/17171181351_4c90e8c36a_z.jpg"
-    small: "http://farm8.staticflickr.com/7627/17171181351_4c90e8c36a_n.jpg"
-    title: 17131453632_3d6237bfc9_k.jpg
-    $$hashKey: 0W8
+  - link: "http://farm9.staticflickr.com/8715/17171947455_c9dc25c037_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8715/17171947455_c9dc25c037_t.jpg"
+    medium: "http://farm9.staticflickr.com/8715/17171947455_c9dc25c037_z.jpg"
+    small: "http://farm9.staticflickr.com/8715/17171947455_c9dc25c037_n.jpg"
+    title: 1.jpg
+    $$hashKey: "062"
+  - link: "http://farm9.staticflickr.com/8762/16964557557_fa63651712_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8762/16964557557_fa63651712_t.jpg"
+    medium: "http://farm9.staticflickr.com/8762/16964557557_fa63651712_z.jpg"
+    small: "http://farm9.staticflickr.com/8762/16964557557_fa63651712_n.jpg"
+    title: 2.jpg
+    $$hashKey: "065"
+  - link: "http://farm8.staticflickr.com/7617/16551795593_329f1555a7_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7617/16551795593_329f1555a7_t.jpg"
+    medium: "http://farm8.staticflickr.com/7617/16551795593_329f1555a7_z.jpg"
+    small: "http://farm8.staticflickr.com/7617/16551795593_329f1555a7_n.jpg"
+    title: 33.jpg
+    $$hashKey: 068
 created_date: "2015-04-16T19:47:30-03:00"
 published: true
-images_hd: "http://farm8.staticflickr.com/7627/17171181351_4c90e8c36a_n.jpg"
+images_hd: "http://farm9.staticflickr.com/8715/17171947455_c9dc25c037_n.jpg"
 releated_posts:
   - 2015/04/2015-04-09-mais-de-mil-delegados-se-preparam-para-iniciar-o-6-congresso-continental-da-cloc.md
   - 2015/04/2015-04-10-para-juventude-da-cloc-o-caminho-para-a-transformacao-e-a-organizacao.md
@@ -29,9 +41,9 @@ releated_posts:
   - 2015/04/2015-04-15-temos-que-nos-preparar-para-enfrentar-um-imperio-em-crise-afirma-atilio-boron.md
 
 ---
-<p>&nbsp;</p>
-
-<p><em>Da Cloc - Via Campesina</em></p>
+<p><img alt="1.jpg" src="http://farm9.staticflickr.com/8715/17171947455_c9dc25c037_b.jpg" /><br />
+<br />
+<em>Da Cloc - Via Campesina</em></p>
 
 <p><br />
 No encerramento do 6&ordm; Congresso Continental da CLOC, organiza&ccedil;&otilde;es do campo reafirmam import&acirc;ncia da luta pela reforma agr&aacute;ria e pela constru&ccedil;&atilde;o da solidariedade entre os povos.</p>
@@ -66,7 +78,8 @@ Na mesma linha, a coordenadora da Via Campesina Internacional, Elizabeth Mpofu, 
 <p><br />
 &ldquo;Temos que seguir lutando por nossos direitos, pela liberdade das nossas na&ccedil;&otilde;es, e contra as corpora&ccedil;&otilde;es, que n&atilde;o podem dizer para n&oacute;s qual &eacute; o tipo que comida que queremos, porque n&oacute;s j&aacute; sabemos. O capitalismo vai cair&rdquo;, assegurou.</p>
 
-<p><br />
+<p><img alt="33.jpg" src="http://farm8.staticflickr.com/7617/16551795593_329f1555a7_b.jpg" /><br />
+<br />
 <strong>Lutas</strong></p>
 
 <p><br />
@@ -74,3 +87,5 @@ Al&eacute;m das diretrizes gerais que estar&atilde;o registradas na declara&cced
 
 <p><br />
 E amanh&atilde;, data que marca os 19 anos do massacre de Eldorado dos Caraj&aacute;s, os participantes do 6&ordm; Congresso Continental da CLOC &ndash; Via Campesina, juntamente com outras organiza&ccedil;&otilde;es populares da Argentina, sair&atilde;o &agrave;s ruas de Buenos Aires para lutar pela reforma agr&aacute;ria popular, no Dia Internacional de Luta pela Terra e Reforma Agr&aacute;ria.</p>
+
+<p><img alt="2.jpg" src="http://farm9.staticflickr.com/8762/16964557557_fa63651712_b.jpg" /></p>
