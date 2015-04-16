@@ -51,6 +51,7 @@ $mobile: new-breakpoint(max-width 768px);
         max-height: 320px;
         min-height: 320px;
         box-shadow: 1px 2px 5px $mst-medium-gray;
+        position: relative;
 
         @include span-columns(3);
         @include omega(4n);
@@ -75,6 +76,9 @@ $mobile: new-breakpoint(max-width 768px);
 
           .playlist {
             @include span-columns(7);
+            margin-top: 0;
+
+
 
             &.playing {
               .btn-play {
@@ -112,6 +116,8 @@ $mobile: new-breakpoint(max-width 768px);
             }
 
             .controls {
+              position: static;
+
               .btn-prev, .btn-next {
                 display: inline;
               }
@@ -170,15 +176,23 @@ $mobile: new-breakpoint(max-width 768px);
         }
 
         .playlist {
+
           padding: 10px;
+          margin-top: 13%;
 
           audio {
             display: none;
           }
         }
 
-        .controls button{
-          cursor: pointer;
+        .controls {
+          position: absolute;
+          top: 34%;
+          left: 34%;
+
+          button{
+            cursor: pointer;
+          }
         }
 
 
