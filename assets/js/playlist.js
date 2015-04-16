@@ -32,6 +32,8 @@ $(document).ready(function() {
 
   $('.album').click(function() {
     var index = $(this).data('index');
+    $('.album.open').removeClass('open');
+    $(this).toggleClass('open');
 
     player = $('#player_'+index)[0];
 
@@ -44,17 +46,12 @@ $(document).ready(function() {
         next = 0;
       }
 
-      console.log(next);
       runMusic($(tracks[next]));
     });
-
-    $('#album_'+index).slideToggle();
   });
 
-  $('.player ol.list li a').click(function(e){
+  $('.player .track a').click(function(e){
     e.preventDefault();
-    console.log($(player).data('current-track'));
     runMusic($(this));
-    console.log($(player).data('current-track'));
   });
 });

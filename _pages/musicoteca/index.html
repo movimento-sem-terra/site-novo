@@ -17,24 +17,31 @@ scripts: ["playlist.js"]
   <div id="playlist">
     {% for album in site.data.playlist %}
     <section class="album" data-index="{{ forloop.index0 }}">
-      <img src="{{ album.cover  }}"/>
-      <button class="play"><span class="fa fa-play fa-3"></span></button>
-      <h2>{{ album.name }}</h2>
-      <button><span class="fa fa-download fa-3"></span> download</button>
+      <img class="cover" src="{{ album.cover  }}"/>
 
-      <aside class="player"  id="album_{{ forloop.index0 }}">
-        <audio preload="none" controls id="player_{{ forloop.index0 }}" data-current-track="0">
-          Sorry, your browser does not support HTML5 audio.
-        </audio>
-        <ol id="playlist_{{ forloop.index0 }}" class="list">
-          {% for track in album.tracks  %}
-          <li class="track">
-              <a href="#" data-index="{{ forloop.index0  }}" data-mp3="{{track.mp3}}" data-ogg="track.ogg">{{ track.name }}</a>
-          </li>
-          {% endfor %}
-        </ol>
+      <div class="playlist">
+        <button class="play"><span class="fa fa-play fa-3"></span></button>
+        <h2>{{ album.name }}</h2>
+        <button><span class="fa fa-download fa-3"></span> download</button>
 
-      </aside>
+        <div class="player"  id="album_{{ forloop.index0 }}">
+          <audio preload="none" controls id="player_{{ forloop.index0 }}" data-current-track="0">
+            Sorry, your browser does not support HTML5 audio.
+          </audio>
+          <ul id="playlist_{{ forloop.index0 }}" class="list">
+            {% for track in album.tracks  %}
+            <li class="track">
+                <a href="#" data-index="{{ forloop.index0  }}" data-mp3="{{track.mp3}}" data-ogg="track.ogg">
+                  <img  src="{{ site.baseurl }}/assets/img/sound_playing.gif" class="icon-playing"/>
+                  <span class="fa fa-play"></span>
+                  {{ track.name }}
+                </a>
+            </li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+
     </section>
     {% endfor %}
   </div>
