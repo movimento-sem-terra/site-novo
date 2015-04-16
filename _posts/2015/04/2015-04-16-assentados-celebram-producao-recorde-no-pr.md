@@ -8,7 +8,7 @@ title: Assentados celebram produção recorde de leite no Paraná
 support_line: Produção total de leite chega a 150 mil litros por dia.
 menu: agricultura camponesa
 sector: production
-section: cover
+section: null
 layout: post
 files:
   - link: "http://farm9.staticflickr.com/8723/16549715153_29c582098f_b.jpg"
