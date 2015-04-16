@@ -4,7 +4,7 @@ tags:
   - tag: cloc
   - tag: argentina
   - tag: agricultura-camponesa
-title: Cerca de 1200 camponeses participam da abertura do 6° Congresso da Cloc
+title: Camponeses de toda América Latina participam do 6° Congresso da Cloc
 support_line: "Até a próxima sexta, os 1200 delegados de 21 países da América Latina participam da atividade que acontece em Buenos Aires."
 menu: agricultura camponesa
 layout: post
@@ -48,6 +48,7 @@ releated_posts:
   - 2015/04/2015-04-13-queremos-construir-um-socialismo-revitalizado-onde-desapareca-a-diferenca-de-genero.md
   - 2015/04/2015-04-10-para-juventude-da-cloc-o-caminho-para-a-transformacao-e-a-organizacao.md
   - 2015/04/2015-04-12-nao-temos-apenas-tetas-mas-cabeca-e-forca-para-conduzir-o-que-queremos.md
+section: featured-news
 
 ---
 <p><img alt="17132434071_8ff075f34c_k.jpg" src="http://farm9.staticflickr.com/8749/17130363636_7647c30be7_b.jpg" /></p>
