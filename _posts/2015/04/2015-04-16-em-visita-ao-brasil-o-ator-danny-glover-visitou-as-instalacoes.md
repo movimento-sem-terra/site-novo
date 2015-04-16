@@ -5,7 +5,7 @@ tags:
   - tag: reforma-agrária
   - tag: MST
 support_line: "O ator também participou de uma bate papo com os militantes do Movimento  "
-title: "Em visita ao Brasil, o ator Danny Glover visitou as instalações "
+title: "Em visita ao Brasil, o ator Danny Glover visitou as instalações da ENFF"
 menu: solidariedade
 layout: post
 files:
@@ -51,17 +51,17 @@ releated_posts:
 
 <div>&nbsp;</div>
 
-<div>O Ator e ativista Norte Americano Danny Glover participou nesta quarta-feira (15) de uma visita na ENFF, ao lado do tamb&eacute;m ativista e intelectual James Early.</div>
+<div>O Ator e ativista Norte Americano Danny Glover participou nesta quarta-feira (15) de uma visita &agrave; Escola Nacional Florestan Fernandez, em Guararema, ao lado do tamb&eacute;m ativista e intelectual James Early.</div>
 
 <div><br />
-Essa foi a primeira vez em que ambos estiveram na escola nacional. Danny e James fizeram um bate papo com os educandos presentes e com os militantes da Brigada Apol&ocirc;nio de Carvalho. &ldquo;&Eacute; um presente estar aqui hoje. Olhando para voc&ecirc;s, que s&atilde;o o futuro&rdquo;, afirmou o ator.</div>
+Essa foi a primeira vez em que ambos estiveram na escola nacional. Danny e James participaram de um bate papo com os educandos presentes e com os militantes da Brigada Apol&ocirc;nio de Carvalho. &ldquo;&Eacute; um presente estar aqui hoje. Olhando para voc&ecirc;s, que s&atilde;o o futuro&rdquo;, afirmou o ator.</div>
 
 <div><br />
-Danny e James tomaram um caf&eacute; da manh&atilde; com uma mesa repleta de produtos da Reforma Agr&aacute;ria e frutas produzidas pelo setor de produ&ccedil;&atilde;o da Escola. Durante o caf&eacute;, eles fizeram uma exposi&ccedil;&atilde;o sobre suas pr&aacute;ticas militantes pelo mundo e como veem a quest&atilde;o dos problemas sociais.</div>
+Danny e James tomaram um caf&eacute; da manh&atilde; com uma mesa repleta de produtos da Reforma Agr&aacute;ria e frutas produzidas pelo setor de produ&ccedil;&atilde;o da escola. Durante o caf&eacute;, eles fizeram uma exposi&ccedil;&atilde;o sobre suas pr&aacute;ticas militantes pelo mundo e como veem a quest&atilde;o dos problemas sociais.</div>
 
 <div>&nbsp;</div>
 
-<div>Em sua fala aos companheiros do curso de formadores em l&iacute;ngua inglesa, Danny ressaltou a participa&ccedil;&atilde;o da juventude na transforma&ccedil;&atilde;o da sociedade e disse que a quest&atilde;o racial n&atilde;o deve ser vista isoladamente dos outros problemas sociais.&nbsp;</div>
+<div>Em sua fala, Danny ressaltou a participa&ccedil;&atilde;o da juventude na transforma&ccedil;&atilde;o da sociedade e disse que a quest&atilde;o racial n&atilde;o deve ser vista isoladamente dos outros problemas sociais.&nbsp;</div>
 
 <div>&nbsp;</div>
 
