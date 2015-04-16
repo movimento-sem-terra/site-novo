@@ -41,7 +41,7 @@ files:
     $$hashKey: "062"
 created_date: "2015-04-15T08:55:19-03:00"
 published: true
-images_hd: "http://farm9.staticflickr.com/8749/17130363636_7647c30be7_n.jpg"
+images_hd: "http://farm8.staticflickr.com/7726/16949410907_27d565d22d_n.jpg"
 releated_posts:
   - 2015/04/2015-04-09-mais-de-mil-delegados-se-preparam-para-iniciar-o-6-congresso-continental-da-cloc.md
   - 2015/04/2015-04-12-muitos-caminhos-e-uma-so-direcao-6-congresso-continental-da-cloc.md
