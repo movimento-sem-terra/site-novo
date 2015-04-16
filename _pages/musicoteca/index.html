@@ -17,7 +17,9 @@ scripts: ["playlist.js"]
   <div id="albuns">
     {% for album in site.data.playlist %}
     <section class="album" id="album_{{ forloop.index0 }}">
-      <img class="cover" src="{{ album.cover  }}"/>
+      <div class="cover" style="background-image: url({{ album.cover }})">
+        <img src="{{ album.cover  }}"/>
+      </div>
 
       <div class="playlist" >
 

@@ -47,6 +47,8 @@ $mobile: new-breakpoint(max-width 768px);
         padding: 0;
         margin-bottom: 10px;
         background: white;
+        height: 320px;
+        max-height: 320px;
         box-shadow: 1px 2px 5px $mst-medium-gray;
 
         @include span-columns(3);
@@ -61,6 +63,10 @@ $mobile: new-breakpoint(max-width 768px);
 
           .cover {
             @include span-columns(5);
+
+            img {
+              display: inline;
+            }
           }
 
           .playlist {
@@ -145,6 +151,17 @@ $mobile: new-breakpoint(max-width 768px);
                 }
               }
             }
+          }
+        }
+
+        .cover {
+          height: 150px;
+          background-size: cover;
+          -o-background-size: cover;
+          -moz-background-size: cover;
+          -webkit-background-size: cover;
+          img {
+            display: none;
           }
         }
 
