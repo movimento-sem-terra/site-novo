@@ -4,22 +4,22 @@ tags:
   - tag: agricultura-camponesa
   - tag: produçãodeleite
   - tag: agroecologia
-title: Assentados celebram produção recorde no PR
-support_line: Produção total de leite chega a 150 mil litros por dia
+title: Assentados celebram produção recorde de leite no Paraná
+support_line: Produção total de leite chega a 150 mil litros por dia.
 menu: agricultura camponesa
 sector: production
 section: cover
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7624/16983422169_314d990a76_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7624/16983422169_314d990a76_t.jpg"
-    medium: "http://farm8.staticflickr.com/7624/16983422169_314d990a76_z.jpg"
-    small: "http://farm8.staticflickr.com/7624/16983422169_314d990a76_n.jpg"
-    title: agricultura familiar1.jpg
-    $$hashKey: 028
+  - link: "http://farm9.staticflickr.com/8723/16549715153_29c582098f_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8723/16549715153_29c582098f_t.jpg"
+    medium: "http://farm9.staticflickr.com/8723/16549715153_29c582098f_z.jpg"
+    small: "http://farm9.staticflickr.com/8723/16549715153_29c582098f_n.jpg"
+    title: crianca.jpg
+    $$hashKey: 11R
 created_date: "2015-04-16T15:22:03-03:00"
 published: true
-images_hd: "http://farm8.staticflickr.com/7624/16983422169_314d990a76_n.jpg"
+images_hd: "http://farm9.staticflickr.com/8723/16549715153_29c582098f_n.jpg"
 releated_posts:
   - 2012/07/2012-07-25-3-mitos-sobre-a-agroecologia.md
   - 2014/04/2014-04-10-agroecologia-no-cultivo-de-cacau-ajuda-a-producao-e-o-meio-ambiente.md
@@ -33,15 +33,17 @@ releated_posts:
   - 2015/04/2015-04-10-via-campesina-propoe-nacionalizacao-do-programa-campones-ao-mda.md
 
 ---
-<p><em>Por Incra / PR</em></p>
-
-<p>No dia 17 de abril, data em que se celebra o Dia Nacional de Luta pela Reforma Agr&aacute;ria, as fam&iacute;lias do assentamento Ireno Alves, no munic&iacute;pio de Rio Bonito do Igua&ccedil;u (PR), comemoram o anivers&aacute;rio de 19 anos da conquista da terra em um grande evento a ser realizado durante todo o dia no pr&oacute;prio assentamento.</p>
+<p><br />
+<em>Do&nbsp;Incra</em></p>
 
 <p><br />
-&nbsp;&ldquo;Essa data representa a conquista pelas fam&iacute;lias de um dos maiores latif&uacute;ndios do sul do Brasil e que se tornou um dos assentamentos mais produtivos do Pa&iacute;s&rdquo;, explica Ant&ocirc;nio Miranda, da dire&ccedil;&atilde;o nacional do Movimento dos Trabalhadores Rurais Sem Terra (MST).</p>
+No dia 17 de abril, data em que se celebra o Dia Nacional de Luta pela Reforma Agr&aacute;ria, as fam&iacute;lias do assentamento Ireno Alves, no munic&iacute;pio de Rio Bonito do Igua&ccedil;u (PR), comemoram o anivers&aacute;rio de 19 anos da conquista da terra em um grande evento a ser realizado durante todo o dia no pr&oacute;prio assentamento.</p>
 
 <p><br />
-&nbsp;&ldquo;A produ&ccedil;&atilde;o diversificada dos assentamentos, aliada &agrave; matriz agroecol&oacute;gica, transformou a vida das fam&iacute;lias, promovendo a justi&ccedil;a social e melhorando a renda, mudando completamente a realidade econ&ocirc;mica e social da regi&atilde;o&rdquo;, enfatiza o superintendente do Incra/PR, Nilton Guedes.</p>
+&ldquo;Essa data representa a conquista pelas fam&iacute;lias de um dos maiores latif&uacute;ndios do sul do Brasil e que se tornou um dos assentamentos mais produtivos do Pa&iacute;s&rdquo;, explica Ant&ocirc;nio Miranda, da dire&ccedil;&atilde;o nacional do MST.</p>
+
+<p><br />
+&ldquo;A produ&ccedil;&atilde;o diversificada dos assentamentos, aliada &agrave; matriz agroecol&oacute;gica, transformou a vida das fam&iacute;lias, promovendo a justi&ccedil;a social e melhorando a renda, mudando completamente a realidade econ&ocirc;mica e social da regi&atilde;o&rdquo;, enfatiza o superintendente do Incra/PR, Nilton Guedes.</p>
 
 <p><br />
 S&atilde;o 794 fam&iacute;lias do assentamento Ireno Alves produzindo 96,6 mil litros de leite por dia. Segundo Miranda, a produ&ccedil;&atilde;o de 122 litros por produtor/dia &eacute; maior do que a m&eacute;dia nacional. Junto com os assentamentos Marcos Freire e 10 de Maio &ndash; que formam um complexo da reforma agr&aacute;ria no territ&oacute;rio Cantuquirigua&ccedil;u (regi&atilde;o centro-oeste do Paran&aacute;) com cerca de 1.600 fam&iacute;lias assentadas &ndash; a produ&ccedil;&atilde;o de leite chega a 150 mil litros por dia.</p>
