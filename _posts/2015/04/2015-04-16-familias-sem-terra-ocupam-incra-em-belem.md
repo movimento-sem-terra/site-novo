@@ -5,7 +5,7 @@ tags:
   - tag: Reforma-Agrária
 title: Famílias Sem Terra ocupam Incra em Belém
 menu: lutas e mobilizações
-section: cover
+section: null
 sector: mass-front
 support_line: A ação faz parte da Jornada Nacional em Defesa da Reforma Agrária organizada pelo movimento em todo território nacional.
 layout: post
@@ -24,9 +24,11 @@ releated_posts:
   - 2015/04/2015-04-09-vivemos-um-novo-momento-da-luta-social-e-politica-no-brasil-onde-a-luta-de-classes-agoniza-e-expoe-as-contradicoes-da-nossa-sociedade.md
 
 ---
-<p><em>Da P&aacute;gina do MST</em></p>
+<p><br />
+<em>Da P&aacute;gina do MST</em></p>
 
-<p>Cerca de 300 integrantes do MST, ocuparam&nbsp;por volta das 16hs de ontem (15), o Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra), na cidade de Bel&eacute;m, no Par&aacute;. A a&ccedil;&atilde;o faz parte da Jornada Nacional em Defesa da Reforma Agr&aacute;ria organizada pelo movimento em todo territ&oacute;rio nacional.</p>
+<p><br />
+Cerca de 300 integrantes do MST, ocuparam&nbsp;por volta das 16hs de ontem (15), o Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra), na cidade de Bel&eacute;m, no Par&aacute;. A a&ccedil;&atilde;o faz parte da Jornada Nacional em Defesa da Reforma Agr&aacute;ria organizada pelo movimento em todo territ&oacute;rio nacional.</p>
 
 <p><br />
 Os eixos centrais da mobiliza&ccedil;&atilde;o s&atilde;o a reforma agr&aacute;ria popular, urbana, tributaria, educacional e de comunica&ccedil;&atilde;o, contra as iniciativas golpistas, pela democracia e por uma Constituinte Livre e Soberana do Sistema Pol&iacute;tico no Brasil.</p>
