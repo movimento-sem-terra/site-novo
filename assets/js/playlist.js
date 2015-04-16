@@ -1,12 +1,12 @@
 $(document).ready(function() {
   var player;
 
-  var runMusic = function(link){
+  var runMusic = function(link, albumId){
     if(!player){
       return;
     }
 
-    var index = $(link).data('index');
+    var trackIndex = $(link).data('index');
     var src = { ogg: link.data('ogg'),
                 mp3: link.data('mp3')};
 
@@ -23,35 +23,39 @@ $(document).ready(function() {
 
 
     //start player
-    $(player).data('current-track', index);
+    $(player).data('current-track', trackIndex);
+    //show pause button
+    $('.playlist.playing').removeClass('playing');
+    $('#'+albumId+' .playlist').addClass('playing');
+
+
     player.volume = 0.10;
     player.load();
     player.play();
 
   };
 
-  $('.album').click(function() {
-    var index = $(this).data('index');
+  $('.album .cover').click(function() {
     $('.album.open').removeClass('open');
-    $(this).toggleClass('open');
+    $(this).parent().toggleClass('open');
+    player = $(this).find(' ~ .playlist .player audio')[0];
 
-    player = $('#player_'+index)[0];
-
-    player.addEventListener('ended',function(e){
+    $(player).on('ended',function(e){
       var next = $(this).data('current-track') + 1;
-      var tracks = $('#playlist_'+index).find('li a');
+      var tracks = $('#'+albumId+' .player .list .track');
       var len = tracks.length - 1;
 
       if(next > len){
         next = 0;
       }
 
-      runMusic($(tracks[next]));
+      runMusic($(tracks[next]), albumId);
     });
   });
 
   $('.player .track a').click(function(e){
     e.preventDefault();
-    runMusic($(this));
+    var albumId = $(this).data('album-id');
+    runMusic($(this), albumId);
   });
 });

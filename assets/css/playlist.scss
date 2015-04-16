@@ -40,7 +40,7 @@ $mobile: new-breakpoint(max-width 768px);
   padding: 0;
   width: 100%;
 
-  #playlist {
+  #albuns {
     @include outer-container;
     .album{
         text-align: center;
@@ -51,6 +51,10 @@ $mobile: new-breakpoint(max-width 768px);
 
         @include span-columns(3);
         @include omega(4n);
+
+        .cover, .btn-play {
+          cursor: pointer;
+        }
 
         &.open {
           @include fill-parent();
@@ -63,6 +67,7 @@ $mobile: new-breakpoint(max-width 768px);
             @include span-columns(7);
 
             .player {
+              margin-top: 10px;
               display: block;
               box-shadow: inset 0 0 10px #eee;
               background-color: #FAFAFA;
@@ -116,7 +121,9 @@ $mobile: new-breakpoint(max-width 768px);
           }
         }
 
-        .play {
+
+
+        .btn-play, .btn-pause {
           font-size: 1.7em;
           background: $mst-red;
           border: none;
@@ -126,12 +133,23 @@ $mobile: new-breakpoint(max-width 768px);
           color: white;
           @include transform(translateY(-58%));
           box-shadow: 1px 2px 2px $mst-medium-gray;
+        }
 
+        .btn-pause {
+          display: none;
         }
 
 
         .player {
           display:none;
+        }
+
+        .btn-download {
+          border: none;
+          background: $mst-light-gray;
+          color: #74747E;
+          font-size: .9em;
+          border-radius: 3px;
         }
 
         h2 {

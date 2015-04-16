@@ -14,24 +14,26 @@ scripts: ["playlist.js"]
       </div>
     </div>
   </section>
-  <div id="playlist">
+  <div id="albuns">
     {% for album in site.data.playlist %}
-    <section class="album" data-index="{{ forloop.index0 }}">
+    <section class="album" id="album_{{ forloop.index0 }}">
       <img class="cover" src="{{ album.cover  }}"/>
 
-      <div class="playlist">
-        <button class="play"><span class="fa fa-play fa-3"></span></button>
+      <div class="playlist" >
+        <button class="btn-play"><span class="fa fa-play"></span></button>
+        <button class="btn-pause"><span class="fa fa-pause"></span></button>
         <h2>{{ album.name }}</h2>
-        <button><span class="fa fa-download fa-3"></span> download</button>
+        <button class="btn-download"><span class="fa fa-download fa-3"></span> Download</button>
 
-        <div class="player"  id="album_{{ forloop.index0 }}">
+        <div class="player">
           <audio preload="none" controls id="player_{{ forloop.index0 }}" data-current-track="0">
             Sorry, your browser does not support HTML5 audio.
           </audio>
-          <ul id="playlist_{{ forloop.index0 }}" class="list">
+          {% capture albumId %}album_{{ forloop.index0 }}{% endcapture %}
+          <ul class="list">
             {% for track in album.tracks  %}
             <li class="track">
-                <a href="#" data-index="{{ forloop.index0  }}" data-mp3="{{track.mp3}}" data-ogg="track.ogg">
+                <a href="#" data-index="{{ forloop.index0  }}" data-mp3="{{track.mp3}}" data-ogg="track.ogg" data-album-id="{{ albumId }}">
                   <img  src="{{ site.baseurl }}/assets/img/sound_playing.gif" class="icon-playing"/>
                   <span class="fa fa-play"></span>
                   {{ track.name }}
