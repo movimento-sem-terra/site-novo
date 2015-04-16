@@ -5,7 +5,7 @@ tags:
   - tag: pec-215
   - tag: direitos-indígenas
 title: Mobilização Nacional Indígena promove atos em todo o país
-support_line: Indígenas se mobilizam em defesa dos direitos indígenas atacados PEC 215
+support_line: Indígenas se mobilizam em defesa dos  seus direitos que são atacados pela PEC 215
 menu: lutas e mobilizações
 layout: post
 files:
