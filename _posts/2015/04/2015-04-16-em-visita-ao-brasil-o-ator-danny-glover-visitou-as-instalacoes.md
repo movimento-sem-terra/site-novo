@@ -4,7 +4,7 @@ tags:
   - tag: Danny-Glover
   - tag: reforma-agrária
   - tag: MST
-support_line: "O ator também participou de uma bate papo com os militantes do Movimento  "
+support_line: "O ator também participou de uma bate papo com os militantes do Movimento.  "
 title: "Em passagem pelo Brasil, o ator Danny Glover visita a Escola Nacional Florestan Fernades"
 menu: solidariedade
 layout: post
