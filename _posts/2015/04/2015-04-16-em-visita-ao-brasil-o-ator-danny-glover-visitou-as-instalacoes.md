@@ -54,7 +54,7 @@ releated_posts:
 O Ator e ativista Norte Americano Danny Glover participou nesta quarta-feira (15) de uma visita &agrave; Escola Nacional Florestan Fernandes, em Guararema, ao lado do tamb&eacute;m ativista e intelectual James Early.</p>
 
 <p><br />
-Essa foi a primeira vez em que ambos estiveram na escola nacional. Danny e James participaram de um bate papo com os educandos presentes e com os militantes da Brigada Apol&ocirc;nio de Carvalho. &ldquo;&Eacute; um presente estar aqui hoje. Olhando para voc&ecirc;s, que s&atilde;o o futuro&rdquo;, afirmou o ator.</p>
+Essa foi a primeira vez em que ambos estiveram na escola de forma&ccedil;&atilde;o pol&iacute;tica do MST. Danny e James participaram de um bate papo com os educandos presentes e com os militantes da Brigada Apol&ocirc;nio de Carvalho. &ldquo;&Eacute; um presente estar aqui hoje. Olhando para voc&ecirc;s, que s&atilde;o o futuro&rdquo;, afirmou o ator.</p>
 
 <p><br />
 Danny e James tomaram um caf&eacute; da manh&atilde; com uma mesa repleta de produtos da Reforma Agr&aacute;ria e frutas produzidas pelo setor de produ&ccedil;&atilde;o da escola. Durante o caf&eacute;, eles fizeram uma exposi&ccedil;&atilde;o sobre suas pr&aacute;ticas militantes pelo mundo e como veem a quest&atilde;o dos problemas sociais.</p>
@@ -69,5 +69,5 @@ Em sua fala, Danny ressaltou a participa&ccedil;&atilde;o da juventude na transf
 Danny e James vieram ao Brasil participar do Congresso da CUT, e aproveitaram a oportunidade para conhecer um pouco do processo de forma&ccedil;&atilde;o da escola e do MST. &ldquo;Esse espa&ccedil;o &eacute; incr&iacute;vel, &eacute; um sopro de ar fresco&rdquo; conclui o ator.</p>
 
 <p><br />
-Ao fim da visita, eles plantaram uma muda de cerejeira no nosso bosque da solidariedade.</p>
+Ao fim da visita, eles plantaram uma muda de cerejeira no bosque da solidariedade.</p>
 </div>
