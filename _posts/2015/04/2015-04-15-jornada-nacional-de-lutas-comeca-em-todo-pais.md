@@ -45,9 +45,27 @@ files:
     small: "http://farm9.staticflickr.com/8795/17153510476_f725b71936_n.jpg"
     title: unnamed.jpg
     $$hashKey: 05V
+  - link: "http://farm8.staticflickr.com/7611/16993662279_fd616fbc7f_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7611/16993662279_fd616fbc7f_t.jpg"
+    medium: "http://farm8.staticflickr.com/7611/16993662279_fd616fbc7f_z.jpg"
+    small: "http://farm8.staticflickr.com/7611/16993662279_fd616fbc7f_n.jpg"
+    title: 16087242563_fa966000e5_b.jpg
+    $$hashKey: 05Z
+  - link: "http://farm9.staticflickr.com/8738/16993720709_4e566b48f7_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8738/16993720709_4e566b48f7_t.jpg"
+    medium: "http://farm9.staticflickr.com/8738/16993720709_4e566b48f7_z.jpg"
+    small: "http://farm9.staticflickr.com/8738/16993720709_4e566b48f7_n.jpg"
+    title: unnamed.jpg
+    $$hashKey: "062"
+  - link: "http://farm9.staticflickr.com/8723/17180011215_df15064661_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8723/17180011215_df15064661_t.jpg"
+    medium: "http://farm9.staticflickr.com/8723/17180011215_df15064661_z.jpg"
+    small: "http://farm9.staticflickr.com/8723/17180011215_df15064661_n.jpg"
+    title: 11160014_10205309227402022_3688070729117734778_o.jpg
+    $$hashKey: "065"
 created_date: "2015-04-15T11:29:49-03:00"
 published: true
-images_hd: "http://farm8.staticflickr.com/7592/16950175837_6c7e612061_n.jpg"
+images_hd: "http://farm9.staticflickr.com/8723/17180011215_df15064661_n.jpg"
 releated_posts:
   - 2015/04/2015-04-02-o-nosso-exercito-e-de-trabalhadores-que-lutam-pela-terra-diz-coordenador-do-mst.md
   - 2015/04/2015-04-09-vivemos-um-novo-momento-da-luta-social-e-politica-no-brasil-onde-a-luta-de-classes-agoniza-e-expoe-as-contradicoes-da-nossa-sociedade.md
@@ -84,6 +102,22 @@ Para ler e entrevista na &iacute;ntegra, clique <a href="http://www.mst.org.br/2
 
 <p>&nbsp;</p>
 
+<p><strong>BA</strong></p>
+
+<p>Na Bahia foram realizadas 11 ocupa&ccedil;&otilde;es em latif&uacute;ndios do estado na dessa sexta. As fazendas ocupadas foram: Conjunto S&atilde;o Rafael, situada no munic&iacute;pio de Nova Ibi&aacute;, Fazenda Santa Rita de Juazeiro, no munic&iacute;pio de Casa Nova, Fazenda Saco da Arara e Marruagem, ambas no munic&iacute;pio de Santa Br&iacute;gida, Fazenda Santa Maria, munic&iacute;pio de Santa Luz, Fazenda Gameleira, munic&iacute;pio de Teodoro Sampaio, Fazenda da CEPLAC, no munic&iacute;pio de S&atilde;o Sebasti&atilde;o do Pass&eacute;, Fazenda S&atilde;o Desiderio e Fazenda S&atilde;o Francisco, ambas do munic&iacute;pio de S&atilde;o Desiderio. A perspectiva &eacute; que nos pr&oacute;ximos dias esse n&uacute;mero se duplique, e at&eacute; o final do m&ecirc;s totalizem mais de 30 &aacute;reas.O resultado destas a&ccedil;&otilde;es permitiu acampar aproximadamente 2 mil fam&iacute;lias Sem Terra.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>PE</strong></p>
+
+<p>Em Pernambuco, at&eacute; o momento, foram realizadas cerca de 15 ocupa&ccedil;&otilde;es em todo o estado que mobilizaram aproximadamente 1.800 fam&iacute;lias.&nbsp;</p>
+
+<p>As ocupa&ccedil;&otilde;es ocorreram em diversos munic&iacute;pios. Desde o Litoral Norte de Pernambuco, onde foi ocupado o latif&uacute;ndio de Engenho Condadinho, no munic&iacute;pio de Condado, com cerca de 120 fam&iacute;lias, a Fazenda Sossego no munic&iacute;pio de Cabrob&oacute;, sert&atilde;o do estado. Al&eacute;m desses outros latif&uacute;ndios foram ocupados nos munic&iacute;pios de Belmonte, Palmares, Inaj&aacute;, Caruaru, Itaquitinga, Cort&ecirc;s e Gravat&aacute;. Os sem terra tamb&eacute;m ocuparam uma &aacute;rea da Chesf em Petrol&acirc;ndia.</p>
+
+<p>&nbsp;</p>
+
+<p><img alt="16087242563_fa966000e5_b.jpg" height="433" src="http://farm8.staticflickr.com/7611/16993662279_fd616fbc7f_b.jpg" width="650" /></p>
+
 <p><strong>PR</strong></p>
 
 <p><span style="line-height: 20.7999992370605px;">No Paran&aacute;, 13&nbsp;rodovias estaduais e federais foram bloqueadas. O</span>&nbsp;objetivo da a&ccedil;&atilde;o &eacute;&nbsp;exigir a puni&ccedil;&atilde;o dos respons&aacute;veis pela morte dos 21 trabalhadores rurais Sem Terra assassinados no Massacre de Eldorado dos Caraj&aacute;s, no Par&aacute;, em 1996, e cobrar agilidade na realiza&ccedil;&atilde;o da Reforma Agr&aacute;ria.</p>
@@ -108,6 +142,18 @@ Al&eacute;m das paralisa&ccedil;&otilde;es nas rodovias, os Sem Terra fecharam, 
 
 <p>&nbsp;</p>
 
+<p><strong>MG</strong></p>
+
+<p>Mais de 100 fam&iacute;lias ocuparam a Fazenda Cap&atilde;o Quente, de 4.250 hectares, localizada no munic&iacute;pio de Guap&eacute;, regi&atilde;o sul do estado. A fazenda foi arrendada pela Hortifruty Mallmman que v&ecirc;m utilizando de forma indiscriminada agrot&oacute;xicos na produ&ccedil;&atilde;o de soja e tomate, contaminado e assoreando v&aacute;rias nascentes na principal &aacute;rea de recarga de &aacute;gua do munic&iacute;pio. Al&eacute;m disso, a fazenda fica ao lado do Assentamento Santo Dias, uma &aacute;rea de Reforma Agr&aacute;ria reconhecida por sua produ&ccedil;&atilde;o org&acirc;nica e agroecol&oacute;gica.</p>
+
+<p>A outra &aacute;rea ocupada hoje pelos trabalhadores&nbsp;fica no munic&iacute;pio de Campo do Meio. Mais de 300 fam&iacute;lias ocuparam os 52 hectares do parque industrial da antiga Usina Ariadn&oacute;polis.</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;<img alt="11160014_10205309227402022_3688070729117734778_o.jpg" height="367" src="http://farm9.staticflickr.com/8723/17180011215_df15064661_b.jpg" width="650" /></p>
+
+<p>&nbsp;</p>
+
 <p><strong>SP</strong></p>
 
 <p>Cerca de 200 fam&iacute;lias pertencentes ao MST e a FERAESP (Federa&ccedil;&atilde;o dos Empregados Rurais Assalariados do Estado de S&atilde;o Paulo), ocuparam na madrugada dessa sexta-feira (17), no munic&iacute;pio de Lucian&oacute;polis, S&atilde;o Paulo, a Fazenda Para&iacute;so. A &aacute;rea pertence a uma das maiores transnacionais da cadeia produtiva da laranja, na regi&atilde;o centro oeste paulista,&nbsp; a empresa francesa Louis Dreyfus Commodities Agroindustrial S/A.</p>
@@ -127,8 +173,18 @@ Em Teodoro Sampaio, no estado,&nbsp;a sede da Caixa Econ&ocirc;mica Federal foi 
 
 <p>&nbsp;</p>
 
+<p><strong>AL</strong></p>
+
+<p>C<span style="line-height: 20.7999992370605px;">erca de 120 fam&iacute;lias ocuparam a fazenda Flor da Serra, no munic&iacute;pio de Olho D&rsquo;&Aacute;gua do Casado.</span> Um oficial de justi&ccedil;a do munic&iacute;pio de Piranhas esteve na ocupa&ccedil;&atilde;o, acompanhando pelo Pelot&atilde;o de Opera&ccedil;&otilde;es Especiais &ndash; PELOPES, a mando da vi&uacute;va do dito propriet&aacute;rio da fazendo, segundo o oficial, com a liminar de despejo expedida pelo juiz de Piranhas,Giovanni Alfredo de Oliveira Jatub&aacute;, sem o documento ter passado pela Vara Agr&aacute;ria. Os trabalhadores afirmam que v&atilde;o continuar na &aacute;rea.</p>
+
+<p>&nbsp;</p>
+
+<p style="text-align:center"><img alt="unnamed.jpg" height="399" src="http://farm9.staticflickr.com/8738/16993720709_4e566b48f7_b.jpg" width="300" /></p>
+
 <p><br />
-<strong>Confira as a&ccedil;&otilde;es dessa quinta-feira (16)</strong></p>
+&nbsp;</p>
+
+<p><strong>Confira as a&ccedil;&otilde;es dessa quinta-feira (16)</strong></p>
 
 <p>&nbsp;</p>
 
@@ -201,6 +257,8 @@ Em Teodoro Sampaio, no estado,&nbsp;a sede da Caixa Econ&ocirc;mica Federal foi 
 <p><strong>RS</strong></p>
 
 <p>Em Porto Alegre, manifestantes se reuniram em frente &agrave; Federa&ccedil;&atilde;o do Com&eacute;rcio de Bens e de Servi&ccedil;os do Estado do Rio Grande do Sul (Fecom&eacute;rcio-RS) para protestar contra o lobby feito por empres&aacute;rios na &uacute;ltima semana, quando a C&acirc;mara Federal aprovou a lei das terceiriza&ccedil;&otilde;es (PL 4330).</p>
+
+<p>&nbsp;</p>
 
 <p><strong>MT</strong></p>
 
