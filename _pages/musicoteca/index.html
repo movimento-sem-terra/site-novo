@@ -16,7 +16,7 @@ scripts: ["playlist.js"]
   </section>
   <div id="albuns">
     {% for album in site.data.playlist %}
-    <section class="album" id="album_{{ forloop.index0 }}">
+    <section class="album">
       <div class="cover" style="background-image: url({{ album.cover }})">
         <img src="{{ album.cover  }}"/>
       </div>
@@ -30,11 +30,10 @@ scripts: ["playlist.js"]
           <audio preload="none" controls id="player_{{ forloop.index0 }}" data-current-track="0">
             Sorry, your browser does not support HTML5 audio.
           </audio>
-          {% capture albumId %}album_{{ forloop.index0 }}{% endcapture %}
           <ul class="list">
             {% for track in album.tracks  %}
             <li class="track">
-                <a href="#" data-index="{{ forloop.index0  }}" data-mp3="{{track.mp3}}" data-ogg="track.ogg" data-album-id="{{ albumId }}">
+                <a href="#" data-index="{{ forloop.index0  }}" data-mp3="{{track.mp3}}" data-ogg="track.ogg">
                   <img  src="{{ site.baseurl }}/assets/img/sound_playing.gif" class="icon-playing"/>
                   <span class="fa fa-play"></span>
                   <span class="fa fa-pause"></span>

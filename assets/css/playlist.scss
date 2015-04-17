@@ -43,6 +43,8 @@ $mobile: new-breakpoint(max-width 768px);
   #albuns {
     @include outer-container;
     .album{
+        @include span-columns(3);
+        @include omega(4n);
         text-align: center;
         padding: 0;
         margin-bottom: 10px;
@@ -52,9 +54,6 @@ $mobile: new-breakpoint(max-width 768px);
         min-height: 320px;
         box-shadow: 1px 2px 5px $mst-medium-gray;
         position: relative;
-
-        @include span-columns(3);
-        @include omega(4n);
 
         .cover, .btn-play {
           cursor: pointer;

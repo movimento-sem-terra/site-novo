@@ -25,10 +25,10 @@ $(document).ready(function() {
     //start player
     $(player).data('current-track', trackIndex);
     //show pause button
-    var albumId = link.data('album-id');
-    if(!!albumId){
+    var album =  $('.album.open');
+    if(!!album){
       $('.playlist').removeClass('playing').removeClass('paused');
-      $('#'+albumId+' .playlist').addClass('playing');
+      album.find('.playlist').addClass('playing');
     }
 
 
@@ -43,21 +43,38 @@ $(document).ready(function() {
   };
 
   $('.album .cover').click(function() {
-    $('.album.open').removeClass('open');
-    $(this).parent().toggleClass('open');
-    player = $(this).find(' ~ .playlist .player audio')[0];
+    var next = $(this).parent().next();
+    var thisOne = $(this).parent();
+
+    while(next.length > 0 && 
+          thisOne.position().top == next.position().top)
+    {
+      thisOne = next;
+      next = next.next();
+    }
+
+
+    $('.album.open').remove();
+    var album =  $(this).parent().clone().addClass('open');
+    album.insertAfter(thisOne);
+
+    $('html, body').animate({
+      scrollTop: album.position().top// - currentimg.width()
+    }, 'medium');
+
+    player = album.find('.playlist .player audio')[0];
 
     $(player).on('ended',function(e){
       changeMusic(1);
     });
   });
 
-  $('.player .track a').click(function(e){
+  $('#music').on('click','.player .track a',function(e){
     e.preventDefault();
     runMusic($(this));
   });
 
-  $('.btn-play').click(function() {
+  $('#music').on('click', '.btn-play', function() {
     if($('.playlist.paused').size() > 0){
       $('.playlist.paused audio')[0].play();
       $('.playlist.paused').removeClass('paused').addClass('playing');
@@ -67,7 +84,7 @@ $(document).ready(function() {
     }
   });
 
-  $('.btn-pause').click(function() {
+  $('#music').on('click','.btn-pause',function() {
     $('.playlist.playing audio')[0].pause();
     $('.playlist.playing').removeClass('playing').addClass('paused');
   });
@@ -85,11 +102,11 @@ $(document).ready(function() {
     runMusic($(tracks[position]));
   };
 
-  $('.btn-prev').click(function(){
+  $('#music').on('click','.btn-prev', function(){
     changeMusic(-1);
   });
 
-  $('.btn-next').click(function(){
+  $('#music').on('click','.btn-next', function(){
     changeMusic(1);
   });
 });
