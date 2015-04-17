@@ -5,7 +5,7 @@ tags:
 title: Sem Terra fecham rodovias no PR
 support_line: Estão fechadas 13 rodovias estaduais e federais e também duas praças de pedágio.
 menu: lutas e mobilizações
-section: cover
+section: null
 sector: mass-front
 layout: post
 files:
