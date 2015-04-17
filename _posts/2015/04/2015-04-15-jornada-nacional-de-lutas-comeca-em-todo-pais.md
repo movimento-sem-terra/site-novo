@@ -63,6 +63,12 @@ files:
     small: "http://farm9.staticflickr.com/8723/17180011215_df15064661_n.jpg"
     title: 11160014_10205309227402022_3688070729117734778_o.jpg
     $$hashKey: "065"
+  - link: "http://farm8.staticflickr.com/7694/16561513993_376e85a9ca_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7694/16561513993_376e85a9ca_t.jpg"
+    medium: "http://farm8.staticflickr.com/7694/16561513993_376e85a9ca_z.jpg"
+    small: "http://farm8.staticflickr.com/7694/16561513993_376e85a9ca_n.jpg"
+    title: IMG-20150417-WA0025.jpg
+    $$hashKey: 08L
 created_date: "2015-04-15T11:29:49-03:00"
 published: true
 images_hd: "http://farm9.staticflickr.com/8723/17180011215_df15064661_n.jpg"
@@ -100,7 +106,13 @@ Para ler e entrevista na &iacute;ntegra, clique <a href="http://www.mst.org.br/2
 
 <p>At&eacute; o momento foram realizadas 46 ocupa&ccedil;&otilde;es de terras, 17 trancamentos de rodovias, a interdi&ccedil;&atilde;o de 2 pra&ccedil;as de ped&aacute;gio, al&eacute;m de ocupa&ccedil;&otilde;es nas sedes do Incra e da Caixa Econ&ocirc;mica Federal.</p>
 
+<p>&nbsp;</p>
+
 <p><strong>Confira as a&ccedil;&otilde;es dessa sexta-feira (17)</strong></p>
+
+<p>Na Sui&ccedil;a um grupo de militantes se reuniu em frente a Sede da Vale Internacional. A inten&ccedil;&atilde;o dos trabalhadores foi denunciar a postura da empresa em determinar a l&oacute;gica de organiza&ccedil;&atilde;o do Estado e da sociedade e, sobretudo, da regi&atilde;o de influ&ecirc;ncia da explora&ccedil;&atilde;o mineral, na perspectiva de acumular e enriquecer um patrim&ocirc;nio privado.</p>
+
+<p>&nbsp;</p>
 
 <p>&nbsp;</p>
 
