@@ -3,7 +3,7 @@ date: "2015-04-17T11:41:34-03:00"
 tags:
   - tag: jornada-de-lutas-abris-2015
   - tag: massacre-de-eldorado-dos-carajás
-title: "Carajás, 21 anos de impunidade "
+title: "Carajás, 19 anos de impunidade "
 support_line: "Duas décadas após o massacre os acusados ainda seguem livres "
 menu: lutas e mobilizações
 section: featured-news
