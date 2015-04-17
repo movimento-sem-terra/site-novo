@@ -98,6 +98,8 @@ Para ler e entrevista na &iacute;ntegra, clique <a href="http://www.mst.org.br/2
 
 <p>&nbsp;</p>
 
+<p>At&eacute; o momento foram realizadas 46 ocupa&ccedil;&otilde;es de terras, 17 trancamentos de rodovias, a interdi&ccedil;&atilde;o de 2 pra&ccedil;as de ped&aacute;gio, al&eacute;m de ocupa&ccedil;&otilde;es nas sedes do Incra e da Caixa Econ&ocirc;mica Federal.</p>
+
 <p><strong>Confira as a&ccedil;&otilde;es dessa sexta-feira (17)</strong></p>
 
 <p>&nbsp;</p>
