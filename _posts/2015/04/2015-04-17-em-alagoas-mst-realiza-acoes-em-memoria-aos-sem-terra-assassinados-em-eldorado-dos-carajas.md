@@ -2,10 +2,11 @@
 date: "2015-04-17T09:29:20-03:00"
 tags:
   - tag: jornadadelutas2015
-title: "Em Alagoas, MST realiza ações em memória aos Sem Terra assassinados em Eldorado dos Carajás\n"
+  - tag: massacre-de-eldorado-dos-carajás
+title: "Em Alagoas, MST realiza ações em memória aos Sem Terras assassinados no Massacre de Carajás\n"
 section: null
 sector: mass-front
-support_line: "Famílias Sem Terra ocupam fazenda Flor da Serra, no município de Olho D’Água do Casado."
+support_line: "Cerca de 120 famílias ocuparam a fazenda Flor da Serra, no município de Olho D’Água do Casado."
 menu: lutas e mobilizações
 layout: post
 files:
