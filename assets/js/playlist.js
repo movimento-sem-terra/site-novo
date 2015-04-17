@@ -42,9 +42,9 @@ $(document).ready(function() {
 
   };
 
-  $('.album .cover').click(function() {
-    var next = $(this).parent().next();
-    var thisOne = $(this).parent();
+  var openAlbum = function(album){
+    var next = album.next();
+    var thisOne = album;
 
     while(next.length > 0 && 
           thisOne.position().top == next.position().top)
@@ -55,18 +55,40 @@ $(document).ready(function() {
 
 
     $('.album.open').remove();
-    var album =  $(this).parent().clone().addClass('open');
-    album.insertAfter(thisOne);
+    var albumCloned =  album.clone().addClass('open');
+    albumCloned.insertAfter(thisOne);
 
     $('html, body').animate({
-      scrollTop: album.position().top// - currentimg.width()
+      scrollTop: albumCloned.position().top
     }, 'medium');
+  };
 
-    player = album.find('.playlist .player audio')[0];
+  var initPlayer = function(){
+    player = $('.album.open .playlist .player audio')[0];
 
     $(player).on('ended',function(e){
       changeMusic(1);
     });
+  };
+
+  var getAlbum = function(element){
+    if(element.is('.album')){
+      return element;
+    }else if( element.is('html')){
+      return false;
+    }
+    return getAlbum(element.parent());
+  };
+
+  $('.album:not(.open) .btn-play').click(function() {
+    openAlbum(getAlbum($(this)));
+    initPlayer();
+    changeMusic(0);
+  });
+
+  $('.album .cover').click(function() {
+    openAlbum(getAlbum($(this)));
+    initPlayer();
   });
 
   $('#music').on('click','.player .track a',function(e){
