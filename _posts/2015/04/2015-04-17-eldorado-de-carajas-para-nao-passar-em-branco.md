@@ -31,9 +31,7 @@ releated_posts:
 <p>&nbsp;</p>
 
 <p><em>Por Valmir Assun&ccedil;&atilde;o</em><span style="line-height: 20.7999992370605px;">*&nbsp;</span><br />
-<em>Da P&aacute;gina do MST</em></p>
-
-<p><br />
+<br />
 Dezenove anos e vinte e um mortos. O massacre de Eldorado de Caraj&aacute;s, ocorrido em 19 de abril de 1996, foi a culmin&acirc;ncia de todo um processo de intoler&acirc;ncia que ainda persiste contra os trabalhadores rurais, que nada mais fazem do que lutar pelos seus direitos. Direitos estes que est&atilde;o assegurados na pr&oacute;pria Constitui&ccedil;&atilde;o Federal, que diz no seu Artigo 5&ordm;: &ldquo;A desapropria&ccedil;&atilde;o por interesse social, aplic&aacute;vel ao im&oacute;vel rural que n&atilde;o cumpra sua fun&ccedil;&atilde;o social, importa pr&eacute;via e justa indeniza&ccedil;&atilde;o em t&iacute;tulos da d&iacute;vida agr&aacute;ria&rdquo;.</p>
 
 <p><br />
@@ -61,5 +59,4 @@ O n&uacute;mero de fam&iacute;lias despejadas quase dobrou em 2014. Saltou de 63
 Hoje convivemos com dezenas de &lsquo;Eldorados de Caraj&aacute;s&rsquo; nos estados. Continuamos a conviver com as amea&ccedil;as de mortes, com as tentativas de criminaliza&ccedil;&atilde;o da nossa luta, e com a lentid&atilde;o de todo o processo da reforma agr&aacute;ria. Mas, como em 19 de abril de 1996, continuamos a marchar, a ocupar e a empunhar a nossa bandeira de luta, porque entendemos que sem a reforma agr&aacute;ria, os conflitos no campo n&atilde;o acabar&atilde;o e a justi&ccedil;a social jamais ser&aacute; implantada de forma digna.<br />
 &nbsp;</p>
 
-<p><br />
-* Valmir Assun&ccedil;&atilde;o &eacute; deputado federal pelo PT-BA e um dos fundadores do MST na Bahia</p>
+<p>* Valmir Assun&ccedil;&atilde;o &eacute; deputado federal pelo PT-BA e um dos fundadores do MST na Bahia</p>
