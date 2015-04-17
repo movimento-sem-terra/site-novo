@@ -4,7 +4,7 @@ tags:
   - tag: reforma-agrária
   - tag: massacre-de-eldorado-dos-carajás
   - tag: pará
-title: "No Pará, Fazenda Peruano é destinada à reforma agrária e vira Assentamento Norival Santana"
+title: "No Pará, Fazenda Peruano é destinada à reforma agrária e vira Assentamento Lorival Santana"
 support_line: "Após 11 anos de ocupação, 300 famílias serão assentadas próximo de onde ocorreu o Massacre de Eldorado dos Carajás."
 menu: reforma agrária
 section: featured-news
@@ -37,7 +37,7 @@ Neste dia 17 de abril, completam-se 19 anos do Massacre de Eldorado dos Caraj&aa
 
 <p>&nbsp;</p>
 
-<p>A dor, que ainda assola a tantas fam&iacute;lias Sem Terra, foi transformada em luta e comemora uma importante conquista. Hoje, as 300 fam&iacute;lias que ocupam a Fazenda Peruano, &aacute;rea grilada distante apenas 12 km de onde ocorreu o Massacre, receber&atilde;o o assentamento Norival Santana, ap&oacute;s 11 anos debaixo da lona preta.</p>
+<p>A dor, que ainda assola a tantas fam&iacute;lias Sem Terra, foi transformada em luta e comemora uma importante conquista. Hoje, as 300 fam&iacute;lias que ocupam a Fazenda Peruano, &aacute;rea grilada distante apenas 12 km de onde ocorreu o Massacre, receber&atilde;o o assentamento Lorival Santana, ap&oacute;s 11 anos debaixo da lona preta.</p>
 
 <p>&nbsp;</p>
 
