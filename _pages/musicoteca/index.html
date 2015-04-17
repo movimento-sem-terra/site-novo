@@ -57,7 +57,8 @@ scripts: ["playlist.js"]
                   <img  src="{{ site.baseurl }}/assets/img/sound_playing.gif" class="icon-playing"/>
                   <span class="fa fa-play"></span>
                   <span class="fa fa-pause"></span>
-                  {{ track.name }}
+                  <span class="fa fa-circle-o-notch fa-spin"></span>
+                    {{ track.name }}
                 </a>
             </li>
             {% endfor %}
@@ -70,6 +71,12 @@ scripts: ["playlist.js"]
           <button class="btn-pause"><span class="fa fa-pause"></span></button>
 
           <button class="btn-next"><span class="fa fa-step-forward"></span></button>
+        </div>
+
+        <div class="time">
+          <span class="current">0:00</span>
+          <span class="pipe">|</span>
+          <span class="total">0:00</span>
         </div>
       </div>
 

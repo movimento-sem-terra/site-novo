@@ -95,6 +95,10 @@ $mobile: new-breakpoint(max-width 768px);
           cursor: pointer;
         }
 
+        .time {
+          display: none;
+        }
+
         &.open {
           height: auto;
 
@@ -108,6 +112,10 @@ $mobile: new-breakpoint(max-width 768px);
             img {
               display: inline;
             }
+          }
+
+          .time {
+            display: inline;
           }
 
           .playlist {
@@ -141,12 +149,23 @@ $mobile: new-breakpoint(max-width 768px);
               }
             }
 
-            &.playing .player .list .track.active a{
-              .fa {
-                display: none;
+            &.playing .player .list .track.active{
+              &.listening a{
+                .fa {
+                  display: none;
+                }
+                .icon-playing {
+                  display: inline;
+                }
               }
-              .icon-playing {
-                display: inline;
+
+              &.loading a{
+                .fa, .icon-playing {
+                  display: none;
+                }
+                .fa.fa-circle-o-notch.fa-spin {
+                  display: inline;
+                }
               }
             }
             &.paused .player .list .track.active a{
@@ -195,10 +214,6 @@ $mobile: new-breakpoint(max-width 768px);
                     display: none;
                   }
 
-                  .fa {
-                    padding-right: 5px;
-                  }
-
                   &.active a{
                     background: white;
                     box-shadow: inset 4px 0 7px #DBDBDB;
@@ -238,6 +253,7 @@ $mobile: new-breakpoint(max-width 768px);
           button{
             cursor: pointer;
           }
+
         }
 
 

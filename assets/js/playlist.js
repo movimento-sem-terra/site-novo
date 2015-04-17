@@ -69,6 +69,28 @@ $(document).ready(function() {
     $(player).on('ended',function(e){
       changeMusic(1);
     });
+
+    player.addEventListener('loadstart', function(){
+      $('.album.open .track.active').addClass('loading');
+    }, false);
+
+    player.addEventListener('canplay', function(){
+      $('.album.open .track.active.loading').removeClass('loading').addClass('listening');
+    }, false);
+
+    $(player).bind('timeupdate', function() {
+      var getDuration = function(milleseconds){
+        var rem = parseInt(milleseconds, 10),
+        //pos = (player.currentTime / player.duration) * 100,
+        mins = Math.floor(rem/60,10),
+        secs = rem - mins*60;
+
+        return mins + ':' + (secs > 9 ? secs : '0' + secs);
+      };
+
+      $('.album.open .time .current').text(getDuration(player.currentTime));
+      $('.album.open .time .total').text(getDuration(player.duration));
+    });
   };
 
   var getAlbum = function(element){
@@ -79,6 +101,8 @@ $(document).ready(function() {
     }
     return getAlbum(element.parent());
   };
+
+
 
   $('.album:not(.open) .btn-play').click(function() {
     openAlbum(getAlbum($(this)));
