@@ -40,7 +40,45 @@ $mobile: new-breakpoint(max-width 768px);
   padding: 0;
   width: 100%;
 
+  nav {
+    ul {
+      padding: 5px;
+      width: 100%;
+      text-align: center;
+      display: table;
+      table-layout: fixed;
+      width: 100%;
+      background: $mst-red;
+      margin-bottom: 30px;
+
+      li {
+        display: table-cell;
+
+
+        a {
+          color: white;
+          font-weight: bold;
+          font-size: 1.5em;
+          text-decoration: none;
+
+          &::after{
+            font-family: 'Glyphicons Halflings Regular', Helvetica, Arial, sans-serif;
+            content: " \E114";
+            font-size: 0.5em;
+            display: inline-block;
+            color: white;
+            margin-left: 0.5em;
+          }
+        }
+      }
+    }
+  }
+
+
   #albuns {
+    h2 {
+      text-align: center;
+    }
     @include outer-container;
     .album{
         @include span-columns(3);
@@ -264,8 +302,6 @@ $mobile: new-breakpoint(max-width 768px);
          -o-background-size: cover;
        -moz-background-size: cover;
     -webkit-background-size: cover;
-
-    margin-bottom: 10px;
 
     .content {
       @extend .default-container;

@@ -14,7 +14,27 @@ scripts: ["playlist.js"]
       </div>
     </div>
   </section>
+  <nav>
+    <ul>
+      <li>
+        <a href="#albuns">
+          Albuns
+        </a>
+      </li>
+      <li>
+        <a href="#videos">
+          Videos
+        </a>
+      </li>
+      <li>
+        <a href="#mst-indica">
+          Indicamos
+        </a>
+      </li>
+    </ul>
+  </nav>
   <div id="albuns">
+    <h2>Albuns</h2>
     {% for album in site.data.playlist %}
     <section class="album">
       <div class="cover" style="background-image: url({{ album.cover }})">
