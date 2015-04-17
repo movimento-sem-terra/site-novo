@@ -60,6 +60,27 @@ Neste ano, a <span style="line-height: 20.7999992370605px;">Jornada Nacional de 
 <p><br />
 Para ler e entrevista na &iacute;ntegra, clique <a href="http://www.mst.org.br/2015/04/09/vivemos-um-novo-momento-da-luta-social-e-politica-no-brasil-onde-a-luta-de-classes-agoniza-e-expoe-as-contradicoes-da-nossa-sociedade.html">aqui</a></p>
 
+<p>&nbsp;</p>
+
+<p><strong>Confira as a&ccedil;&otilde;es dessa sexta-feira (17)</strong></p>
+
+<p>&nbsp;</p>
+
+<p><strong>SP</strong></p>
+
+<p>Cerca de 200 fam&iacute;lias pertencentes ao MST e a FERAESP (Federa&ccedil;&atilde;o dos Empregados Rurais Assalariados do Estado de S&atilde;o Paulo), ocuparam na madrugada dessa sexta-feira (17), no munic&iacute;pio de Lucian&oacute;polis, S&atilde;o Paulo, a Fazenda Para&iacute;so. A &aacute;rea pertence a uma das maiores transnacionais da cadeia produtiva da laranja, na regi&atilde;o centro oeste paulista,&nbsp; a empresa francesa Louis Dreyfus Commodities Agroindustrial S/A.</p>
+
+<p><br />
+A Louis Dreyfus Commodities Agroindustrial S.A., uma das maiores produtoras de suco de laranja do mundo, est&aacute; sendo acionada na Justi&ccedil;a do Trabalho de Bauru por n&atilde;o oferecer condi&ccedil;&otilde;es de seguran&ccedil;a e sa&uacute;de aos trabalhadores, em tr&ecirc;s fazendas da regi&atilde;o.</p>
+
+<p><br />
+Cerca de 50 fam&iacute;lias montaram acampamento em frente &agrave; fazenda Caximba, no munic&iacute;pio de Apia&iacute;, na manh&atilde; desta sexta-feira (19). A &aacute;rea de 1878 hectares faz divisa com o Parque Estadual Tur&iacute;stico do Alto Ribeira (Petar). As terras pertencem &agrave; fam&iacute;lia Stecca, mas parte da &aacute;rea est&aacute; hipotecada para o falido Banco Am&eacute;rica &nbsp;do Sul. Hoje a fazenda est&aacute; sob &ldquo;responsabilidade&rdquo; de um posseiro. O Movimento reivindica a vistoria da fazenda Caximba e da vizinha Peralta e exige que as terras sejam destinadas para a Reforma Agr&aacute;ria.</p>
+
+<p><br />
+Em Teodoro Sampaio, no estado,&nbsp;a sede da Caixa Econ&ocirc;mica Federal foi ocupada por cerca de 100 Sem Terra. O bjetivo &eacute; cobrar agilidade e o destravamento na execu&ccedil;&atilde;o dos Projetos de constru&ccedil;&atilde;o, amplia&ccedil;&atilde;o e reforma de casas nos assentamentos rurais. S&atilde;o 500 projetos em toda a regi&atilde;o contemplados dentro do programa Minha Casa Minha Vida Rural, mas at&eacute; agora, j&aacute; com mais de um ano, nenhum projeto teve seu in&iacute;cio.</p>
+
+<p>&nbsp;</p>
+
 <p><br />
 <strong>Confira as a&ccedil;&otilde;es dessa quinta-feira (16)</strong></p>
 
