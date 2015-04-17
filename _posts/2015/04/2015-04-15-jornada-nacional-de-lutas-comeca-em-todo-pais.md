@@ -4,8 +4,8 @@ tags:
   - tag: jornadad-e-lutas-abril-2015
   - tag: reforma-agrária
   - tag: lutas-e-mobilizações
-title: "Jornada por Reforma Agrária inicia com paralisações e bloqueios "
-support_line: MST se soma ao conjunto das mobilizações contra o PL da Terceirização e denuncia latifúndios em todo o país.
+title: "Jornada por Reforma Agrária segue com paralisações e bloqueios "
+support_line: Até o momento já são mais de 30 ações em todo o país.
 menu: lutas e mobilizações
 layout: post
 files:
@@ -176,6 +176,13 @@ Em Teodoro Sampaio, no estado,&nbsp;a sede da Caixa Econ&ocirc;mica Federal foi 
 <p><strong>AL</strong></p>
 
 <p>C<span style="line-height: 20.7999992370605px;">erca de 120 fam&iacute;lias ocuparam a fazenda Flor da Serra, no munic&iacute;pio de Olho D&rsquo;&Aacute;gua do Casado.</span> Um oficial de justi&ccedil;a do munic&iacute;pio de Piranhas esteve na ocupa&ccedil;&atilde;o, acompanhando pelo Pelot&atilde;o de Opera&ccedil;&otilde;es Especiais &ndash; PELOPES, a mando da vi&uacute;va do dito propriet&aacute;rio da fazendo, segundo o oficial, com a liminar de despejo expedida pelo juiz de Piranhas,Giovanni Alfredo de Oliveira Jatub&aacute;, sem o documento ter passado pela Vara Agr&aacute;ria. Os trabalhadores afirmam que v&atilde;o continuar na &aacute;rea.</p>
+
+<p>Na manh&atilde; de hoje, 300 Sem Terra ocuparam a fazenda Santa F&eacute;, na divisa entre os munic&iacute;pios de Delmiro Gouveia e &Aacute;gua Branca, no Sert&atilde;o de Alagoas.</p>
+
+<p><br />
+&Agrave;s margens do Canal do Sert&atilde;o, as terras da regi&atilde;o j&aacute; s&atilde;o reivindica&ccedil;&otilde;es antigas do MST, que vem lutando para que as terras que margeiam o Canal sejam destinadas &agrave; Reforma Agr&aacute;ria</p>
+
+<p>&nbsp;</p>
 
 <p>&nbsp;</p>
 
