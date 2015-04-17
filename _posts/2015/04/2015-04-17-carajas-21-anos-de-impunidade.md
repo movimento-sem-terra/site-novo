@@ -113,7 +113,7 @@ No entanto, por press&atilde;o internacional, o governo brasileiro entrou nos &u
 
 <p>&nbsp;</p>
 
-<figure class="image" style="float:left"><img alt="Índice.jpg" src="http://farm8.staticflickr.com/7585/17152216036_6f5a9e532a_b.jpg" />
+<figure class="image" style="float:left"><img alt="Índice.jpg" height="262" src="http://farm8.staticflickr.com/7585/17152216036_6f5a9e532a_b.jpg" width="400" />
 <figcaption></figcaption>
 </figure>
 
