@@ -2,7 +2,7 @@
 date: "2015-04-17T14:28:54-03:00"
 tags:
   - tag: jornadadelutas2015
-title: Sem Terra ocupam 11 fazendas na BA
+title: Sem Terra ocupam 11 fazendas na Bahia
 support_line: "A perspectiva é que nos próximos dias esse número se duplique, e até o final do mês totalizem mais de 30 áreas."
 menu: lutas e mobilizações
 section: cover
@@ -24,7 +24,7 @@ releated_posts: []
 <p><em>Da P&aacute;gina do MST</em><o:p></o:p></p>
 
 <p><o:p></o:p><br />
-Como parte da Jornada Nacional de Lutas pela Reforma Agr&aacute;ria, o MST na Bahia, realizou 11 ocupa&ccedil;&otilde;es em latif&uacute;ndios do estado na madrugada de hoje (17). A perspectiva &eacute; que nos pr&oacute;ximos dias esse n&uacute;mero se duplique, e at&eacute; o final do m&ecirc;s totalizem mais de 30 &aacute;reas.</p>
+Como parte da Jornada Nacional de Lutas pela Reforma Agr&aacute;ria, o MST na Bahia&nbsp;realizou 11 ocupa&ccedil;&otilde;es em latif&uacute;ndios do estado na madrugada de hoje (17). A perspectiva &eacute; que nos pr&oacute;ximos dias esse n&uacute;mero se duplique, e at&eacute; o final do m&ecirc;s totalizem mais de 30 &aacute;reas.</p>
 
 <p><br />
 As fazendas ocupadas foram: Conjunto S&atilde;o Rafael, situada no munic&iacute;pio de Nova Ibi&aacute;, Fazenda Santa Rita de Juazeiro, no munic&iacute;pio de Casa Nova, Fazenda Saco da Arara e Marruagem, ambas no munic&iacute;pio de Santa Br&iacute;gida, Fazenda Santa Maria, munic&iacute;pio de Santa Luz, Fazenda Gameleira, munic&iacute;pio de Teodoro Sampaio, Fazenda da CEPLAC, no munic&iacute;pio de S&atilde;o Sebasti&atilde;o do Pass&eacute;, Fazenda S&atilde;o Desiderio e Fazenda S&atilde;o Francisco, ambas do munic&iacute;pio de S&atilde;o Desiderio.</p>
