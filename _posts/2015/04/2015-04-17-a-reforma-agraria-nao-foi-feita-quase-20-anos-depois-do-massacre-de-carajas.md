@@ -58,10 +58,6 @@ At&eacute; esta sexta-feira (17), pelo menos 15 fazendas foram ocupadas pelo Mov
 <p class="western"><br />
 O termo Abril Vermelho foi herdado das mobiliza&ccedil;&otilde;es que o MST faz historicamente neste m&ecirc;s. Em 17 de abril de 1996, 21 militantes da organiza&ccedil;&atilde;o foram mortos por agentes do Estado. O epis&oacute;dio ficou conhecido como Massacre de Eldorado dos Caraj&aacute;s. Como lembran&ccedil;a do epis&oacute;dio e da vida dos que morreram na luta, o movimento passou a intensificar suas atividades a cada abril.</p>
 
-<p class="western">&nbsp;</p>
-
-<p class="western">&nbsp;</p>
-
 <p class="western"><br />
 <strong>Brasil de Fato &ndash; </strong><strong>Como o </strong><strong>MST avalia</strong><strong> as jornadas de luta neste m&ecirc;s? Quais resultados espera?</strong></p>
 
