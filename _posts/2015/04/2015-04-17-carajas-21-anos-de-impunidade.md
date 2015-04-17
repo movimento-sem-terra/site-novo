@@ -96,10 +96,6 @@ Em novembro de 2009, quase ocorreu outra uma trag&eacute;dia na &ldquo;Curva do 
 
 <p>&nbsp;</p>
 
-<figure class="image" style="float:right"><img alt="eldorado_carajas_700.jpg" height="375" src="http://farm9.staticflickr.com/8762/16557970883_1681c53c43_b.jpg" width="500" />
-<figcaption></figcaption>
-</figure>
-
 <p>&Agrave; frente, o delegado Raimundo Benassuly, que ficou conhecido nacionalmente por tentar justificar que uma adolescente de 15 anos colocada em uma cela cheia de presos no Par&aacute; era a culpada pelo epis&oacute;dio. Relembrando: segundo ele, a menina &ldquo;certamente tem alguma debilidade mental porque em nenhum momento informou ser menor de idade&rdquo;. Foi afastado, mas depois voltou ao cargo.</p>
 
 <p><br />
