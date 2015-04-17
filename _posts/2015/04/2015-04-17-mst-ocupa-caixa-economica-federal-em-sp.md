@@ -5,7 +5,7 @@ tags:
   - tag: lutas-e-mobilizações
   - tag: reforma-agrária
 title: MST ocupa Caixa Econômica Federal em SP
-support_line: O objetivo da ação é cobrar agilidade na execução dos Projetos de construção e reforma de casas nos assentamentos rurais
+support_line: O objetivo da ação é cobrar agilidade na execução dos Projetos de construção e reforma de casas nos assentamentos rurais.
 menu: lutas e mobilizações
 layout: post
 files:
