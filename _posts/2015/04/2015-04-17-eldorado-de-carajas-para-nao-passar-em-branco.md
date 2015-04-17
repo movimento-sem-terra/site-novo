@@ -26,6 +26,7 @@ releated_posts:
   - 2015/04/2015-04-17-a-reforma-agraria-nao-foi-feita-quase-20-anos-depois-do-massacre-de-carajas.md
   - 2015/04/2015-04-17-sem-terra-fecham-rodovias-no-pr.md
   - 2015/04/2015-04-17-em-alagoas-mst-realiza-acoes-em-memoria-aos-sem-terra-assassinados-em-eldorado-dos-carajas.md
+section: featured-news
 
 ---
 <p>&nbsp;</p>
