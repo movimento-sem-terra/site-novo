@@ -33,8 +33,14 @@ Do Brasil de Fato</em></p>
 <p class="western"><br />
 O m&ecirc;s de abril tem sido marcado por intensas mobiliza&ccedil;&otilde;es no pa&iacute;s este ano. A possibilidade de retirada de direitos hist&oacute;ricos fez com que sindicalistas, partidos pol&iacute;ticos de esquerda e organiza&ccedil;&otilde;es populares iniciassem um processo de lutas unit&aacute;rias. Por conta dessas atividades, passou-se a utilizar a express&atilde;o Abril Vermelho.</p>
 
+<p class="western">&nbsp;</p>
+
+<p class="western">Em entrevista para o Brasil de Fato, Jo&atilde;o Paulo Rodrigues, da coordena&ccedil;&atilde;o nacional do MST, fala sobre os desafios atuais da luta pela reforma agr&aacute;ria no Brasil.&nbsp;&nbsp;</p>
+
 <p class="western"><br />
-At&eacute; esta ter&ccedil;a-feira (17), pelo menos 15 fazendas foram ocupadas pelo Movimento dos Trabalhadores Rurais Sem Terra (MST) no pa&iacute;s. Com objetivo de chamar aten&ccedil;&atilde;o para a pauta da reforma agr&aacute;ria, cinco fazendas foram ocupadas em Pernambuco, oito na Bahia e duas em S&atilde;o Paulo, nas regi&otilde;es de Ribeir&atilde;o Preto e Promiss&atilde;o. E o movimento promete novas a&ccedil;&otilde;es durante todo o m&ecirc;s.</p>
+At&eacute; esta sexta-feira (17), pelo menos 15 fazendas foram ocupadas pelo Movimento dos Trabalhadores Rurais Sem Terra (MST) no pa&iacute;s. Com objetivo de chamar aten&ccedil;&atilde;o para a pauta da reforma agr&aacute;ria, cinco fazendas foram ocupadas em Pernambuco, oito na Bahia e duas em S&atilde;o Paulo, nas regi&otilde;es de Ribeir&atilde;o Preto e Promiss&atilde;o. E o movimento promete novas a&ccedil;&otilde;es durante todo o m&ecirc;s.</p>
+
+<p class="western">&nbsp;</p>
 
 <table align="right" border="0">
 	<tbody>
@@ -52,9 +58,11 @@ At&eacute; esta ter&ccedil;a-feira (17), pelo menos 15 fazendas foram ocupadas p
 <p class="western"><br />
 O termo Abril Vermelho foi herdado das mobiliza&ccedil;&otilde;es que o MST faz historicamente neste m&ecirc;s. Em 17 de abril de 1996, 21 militantes da organiza&ccedil;&atilde;o foram mortos por agentes do Estado. O epis&oacute;dio ficou conhecido como Massacre de Eldorado dos Caraj&aacute;s. Como lembran&ccedil;a do epis&oacute;dio e da vida dos que morreram na luta, o movimento passou a intensificar suas atividades a cada abril.</p>
 
+<p class="western">&nbsp;</p>
+
+<p class="western">&nbsp;</p>
+
 <p class="western"><br />
-<br />
-<br />
 <strong>Brasil de Fato &ndash; </strong><strong>Como o </strong><strong>MST avalia</strong><strong> as jornadas de luta neste m&ecirc;s? Quais resultados espera?</strong></p>
 
 <p class="western"><br />
