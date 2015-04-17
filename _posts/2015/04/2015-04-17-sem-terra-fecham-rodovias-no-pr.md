@@ -23,6 +23,8 @@ releated_posts:
   - 2015/04/2015-04-16-universidade-estadual-de-maringa-realiza-atividades-em-defesa-da-reforma-agraria.md
 
 ---
+<p>&nbsp;</p>
+
 <p><em>&nbsp;Da P&aacute;gina do MST</em></p>
 
 <p><br />
