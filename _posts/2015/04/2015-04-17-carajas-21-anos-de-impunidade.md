@@ -6,7 +6,7 @@ tags:
 title: "Carajás, 19 anos de impunidade "
 support_line: "Duas décadas após o massacre os acusados ainda seguem livres "
 menu: lutas e mobilizações
-section: featured-news
+section: cover
 layout: post
 files:
   - link: "http://farm8.staticflickr.com/7585/17152216036_6f5a9e532a_b.jpg"
