@@ -3,10 +3,10 @@ date: "2015-04-17T09:29:20-03:00"
 tags:
   - tag: jornadadelutas2015
   - tag: massacre-de-eldorado-dos-carajás
-title: "Em Alagoas, MST realiza ações em memória aos sem terra assassinados em Eldorados dos Carajás"
+title: "Em Alagoas, MST realiza ações em memória aos assassinados de Eldorados dos Carajás"
 section: null
 sector: mass-front
-support_line: "Sem terra ocuparam a fazenda Flor da Serra, no sertão do estado e bloqueiam rodovias"
+support_line: Sem Terra ocuparam a fazenda Flor da Serra e bloqueiaram rodovias em todo o estado.
 menu: lutas e mobilizações
 layout: post
 files:
