@@ -4,7 +4,7 @@ tags:
   - tag: cloc
   - tag: argentina
   - tag: reforma-agrária
-title: "Marina dos Santos: \"não podemos deixar de lutar pelo sangue de Eldorado dos Carajás\""
+title: "\"Não podemos deixar de lutar pelo sangue de Eldorado dos Carajás\", afirma Marina dos Santos"
 support_line: "Responsável pelo encerramento do 6º Congresso CLOC, Marina pontuou a reforma agrária como uma das principais bandeiras das organizações camponesas."
 menu: reforma agrária
 section: cover
