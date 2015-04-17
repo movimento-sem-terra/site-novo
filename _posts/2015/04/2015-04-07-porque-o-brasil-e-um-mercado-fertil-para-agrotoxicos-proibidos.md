@@ -57,7 +57,7 @@ releated_posts:
   - 2014/12/2014-11-06-exposicao-a-agrotoxicos-pode-causar-disturbios-reprodutivos-aponta-estudo.md
   - 2015/01/2014-12-23-agrotoxicos-o-lucro-que-mata-a-terra-e-quem-dela-vive.md
   - 2015/02/2015-02-18-monsanto-25-doencas-que-podem-ser-causadas-pelo-agrotoxico-glifosato.md
-section: featured-news
+section: null
 
 ---
 <p><img alt="agrotoxico é.jpg" src="http://farm9.staticflickr.com/8703/16878265830_0b19d86aef_b.jpg" /></p>
