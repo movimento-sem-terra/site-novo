@@ -94,12 +94,11 @@ Entre os anos de 1971 e 2007, foram 819 pessoas mortas em fun&ccedil;&atilde;o d
 <p><br />
 Em novembro de 2009, quase ocorreu outra uma trag&eacute;dia na &ldquo;Curva do S&rdquo;, local onde 19 trabalhadores rurais sem-terra foram assassinados. Policiais amea&ccedil;aram ir para cima de mais de mil trabalhadores ligados ao MST durante uma manifesta&ccedil;&atilde;o pac&iacute;fica. Faltou pouco, muito pouco.</p>
 
-<p>&nbsp;</p>
-
-<p>&Agrave; frente, o delegado Raimundo Benassuly, que ficou conhecido nacionalmente por tentar justificar que uma adolescente de 15 anos colocada em uma cela cheia de presos no Par&aacute; era a culpada pelo epis&oacute;dio. Relembrando: segundo ele, a menina &ldquo;certamente tem alguma debilidade mental porque em nenhum momento informou ser menor de idade&rdquo;. Foi afastado, mas depois voltou ao cargo.</p>
+<p><br />
+&Agrave; frente, o delegado Raimundo Benassuly, que ficou conhecido nacionalmente por tentar justificar que uma adolescente de 15 anos colocada em uma cela cheia de presos no Par&aacute; era a culpada pelo epis&oacute;dio. Relembrando: segundo ele, a menina &ldquo;certamente tem alguma debilidade mental porque em nenhum momento informou ser menor de idade&rdquo;. Foi afastado, mas depois voltou ao cargo.</p>
 
 <p><br />
-O descaso do Estado brasileiro no caso do massacre de Eldorado do Caraj&aacute;s j&aacute; gerou contra o governo um processo. Isso foi em 1998, na Corte Interamericana de Direitos Humanos, com sede nos Estados Unidos, feita pelo Centro pela Justi&ccedil;a e o Direito Internacional (CEJIL).</p>
+O descaso do Estado no caso do massacre de Eldorado do Caraj&aacute;s j&aacute; gerou contra o governo um processo. Isso foi em 1998, na Corte Interamericana de Direitos Humanos, com sede nos Estados Unidos, feita pelo Centro pela Justi&ccedil;a e o Direito Internacional (CEJIL).</p>
 
 <p><br />
 O governo brasileiro agiu de duas formas quando foi notificado pela entidade internacional, primeiramente culpou os pr&oacute;prios militantes do MST pelo ocorrido e num segundo momento, por for&ccedil;a da opini&atilde;o p&uacute;blica, disse que j&aacute; fazia coisas no assentamento, o que compensava o ocorrido.</p>
@@ -107,7 +106,7 @@ O governo brasileiro agiu de duas formas quando foi notificado pela entidade int
 <p><br />
 No entanto, por press&atilde;o internacional, o governo brasileiro entrou nos &uacute;ltimos tempos num processo chamado de &ldquo;amistoso&quot;.</p>
 
-<p>Busca um acordo com os mutilados, sendo feitas propostas de ambos os lados at&eacute; chegar a um acordo, o que deve levar mais uns cinco anos para ser resolvido o caso de todos.</p>
+<p>A nova a&ccedil;&atilde;o busca um acordo com os mutilados, sendo feitas propostas de ambos os lados at&eacute; chegar a um acordo, o que deve levar mais uns cinco anos para ser resolvido o caso de todos.</p>
 
 <p><br />
 Diante desse imbr&oacute;glio, onde uns receberam a indeniza&ccedil;&atilde;o e outros n&atilde;o, na aus&ecirc;ncia de um tratamento m&eacute;dico adequado que cuide do corpo e da mente dos participantes da marcha, est&aacute; &Iacute;ndio, um dos mutilados.</p>
