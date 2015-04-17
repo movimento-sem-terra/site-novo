@@ -80,7 +80,7 @@ section: cover
 <em>Da P&aacute;gina do MST </em></p>
 
 <p><br />
-Neste ano, a <span style="line-height: 20.7999992370605px;">Jornada Nacional de Lutas pela Reforma Agr&aacute;ria do&nbsp;</span>MST se soma ao conjunto das mobiliza&ccedil;&otilde;es da classe trabalhadora em defesa dos direitos conquistados. A&ccedil;&otilde;es como m<span style="line-height: 20.7999992370605px;">archas, ocupa&ccedil;&otilde;es de terra e pr&eacute;dios p&uacute;blicos e trancamento de rodovias em estados como Alagoas</span>, S&atilde;o Paulo,&nbsp;Para&iacute;ba e Mato Grosso, foram feitas</p>
+Neste ano, a <span style="line-height: 20.7999992370605px;">Jornada Nacional de Lutas pela Reforma Agr&aacute;ria do&nbsp;</span>MST se soma ao conjunto das mobiliza&ccedil;&otilde;es da classe trabalhadora em defesa dos direitos conquistados. Foram feitas a&ccedil;&otilde;es como m<span style="line-height: 20.7999992370605px;">archas, ocupa&ccedil;&otilde;es de terra e pr&eacute;dios p&uacute;blicos e trancamento de rodovias em estados como Alagoas</span>, S&atilde;o Paulo,&nbsp;Para&iacute;ba e Mato Grosso.</p>
 
 <p>&nbsp;</p>
 
@@ -91,7 +91,7 @@ Neste ano, a <span style="line-height: 20.7999992370605px;">Jornada Nacional de 
 <p>De acordo com&nbsp;D&eacute;bora Nunes, da coordena&ccedil;&atilde;o nacional do MST, &nbsp;&eacute; necess&aacute;rio pressionar o&nbsp;&nbsp;governo para garantir o cumprimento do seu papel na garantia da fun&ccedil;&atilde;o social da terra.</p>
 
 <p><br />
-&quot;As bandeiras levantadas pelo Movimento dialogam diretamente com as necessidades de mudan&ccedil;as para o avan&ccedil;o da Reforma Agr&aacute;ria, como por exemplo, a Reforma Pol&iacute;tica.Temos clareza que frente a um congresso extremamente conservador e reacion&aacute;rio, que n&atilde;o representa o povo brasileiro, somente com uma reforma pol&iacute;tica que impulsione a mudan&ccedil;a de sua forma e conte&uacute;do &eacute; poss&iacute;vel avan&ccedil;armos, tamb&eacute;m, na realiza&ccedil;&atilde;o da Reforma Agr&aacute;ria&quot;.</p>
+&quot;As bandeiras levantadas pelo Movimento dialogam diretamente com as necessidades de mudan&ccedil;as para o avan&ccedil;o da Reforma Agr&aacute;ria, como por exemplo, a Reforma Pol&iacute;tica.Temos clareza que frente a um congresso extremamente conservador e reacion&aacute;rio, que n&atilde;o representa o povo brasileiro, somente com uma reforma pol&iacute;tica que impulsione a mudan&ccedil;a de sua forma e conte&uacute;do &eacute; poss&iacute;vel avan&ccedil;armos, tamb&eacute;m, na realiza&ccedil;&atilde;o da Reforma Agr&aacute;ria&quot;, afirmou.</p>
 
 <p><br />
 Para ler e entrevista na &iacute;ntegra, clique <a href="http://www.mst.org.br/2015/04/09/vivemos-um-novo-momento-da-luta-social-e-politica-no-brasil-onde-a-luta-de-classes-agoniza-e-expoe-as-contradicoes-da-nossa-sociedade.html">aqui</a></p>
@@ -104,7 +104,7 @@ Para ler e entrevista na &iacute;ntegra, clique <a href="http://www.mst.org.br/2
 
 <p><strong>BA</strong></p>
 
-<p>Na Bahia foram realizadas 11 ocupa&ccedil;&otilde;es em latif&uacute;ndios do estado na dessa sexta. As fazendas ocupadas foram: Conjunto S&atilde;o Rafael, situada no munic&iacute;pio de Nova Ibi&aacute;, Fazenda Santa Rita de Juazeiro, no munic&iacute;pio de Casa Nova, Fazenda Saco da Arara e Marruagem, ambas no munic&iacute;pio de Santa Br&iacute;gida, Fazenda Santa Maria, munic&iacute;pio de Santa Luz, Fazenda Gameleira, munic&iacute;pio de Teodoro Sampaio, Fazenda da CEPLAC, no munic&iacute;pio de S&atilde;o Sebasti&atilde;o do Pass&eacute;, Fazenda S&atilde;o Desiderio e Fazenda S&atilde;o Francisco, ambas do munic&iacute;pio de S&atilde;o Desiderio. A perspectiva &eacute; que nos pr&oacute;ximos dias esse n&uacute;mero se duplique, e at&eacute; o final do m&ecirc;s totalizem mais de 30 &aacute;reas.O resultado destas a&ccedil;&otilde;es permitiu acampar aproximadamente 2 mil fam&iacute;lias Sem Terra.</p>
+<p>Na Bahia foram realizadas 11 ocupa&ccedil;&otilde;es em latif&uacute;ndios do estado na dessa sexta. As fazendas ocupadas foram: Conjunto S&atilde;o Rafael, situada no munic&iacute;pio de Nova Ibi&aacute;, Fazenda Santa Rita de Juazeiro, no munic&iacute;pio de Casa Nova, Fazenda Saco da Arara e Marruagem, ambas no munic&iacute;pio de Santa Br&iacute;gida, Fazenda Santa Maria, munic&iacute;pio de Santa Luz, Fazenda Gameleira, munic&iacute;pio de Teodoro Sampaio, Fazenda da CEPLAC, no munic&iacute;pio de S&atilde;o Sebasti&atilde;o do Pass&eacute;, Fazenda S&atilde;o Desid&eacute;rio e Fazenda S&atilde;o Francisco, ambas do munic&iacute;pio de S&atilde;o Desid&eacute;rio. A perspectiva &eacute; que nos pr&oacute;ximos dias esse n&uacute;mero se duplique, e at&eacute; o final do m&ecirc;s totalizem mais de 30 &aacute;reas.O resultado destas a&ccedil;&otilde;es permitiu acampar aproximadamente 2 mil fam&iacute;lias Sem Terra.</p>
 
 <p>&nbsp;</p>
 
@@ -134,7 +134,7 @@ Al&eacute;m das paralisa&ccedil;&otilde;es nas rodovias, os Sem Terra fecharam, 
 
 <p><strong>PA</strong></p>
 
-<p>As as 300 fam&iacute;lias que ocupam a Fazenda Peruano, &aacute;rea grilada distante apenas 12 km de onde ocorreu o Massacre, receber&atilde;o o assentamento Norival Santana, ap&oacute;s 11 anos debaixo da lona preta. A entrega contar&aacute; com a presen&ccedil;a do ministro do Desenvolvimento Agr&aacute;rio Patrus Ananias e um grande ato ecum&ecirc;nico e pol&iacute;tico marcam o nascimento do assentamento Norival, uma homenagem a um dos mortos do Massacre.</p>
+<p>As as 300 fam&iacute;lias que ocupam a Fazenda Peruano, &aacute;rea grilada distante apenas 12 km de onde ocorreu o Massacre, receber&atilde;o o assentamento Lorival Santana, ap&oacute;s 11 anos debaixo da lona preta. A entrega contar&aacute; com a presen&ccedil;a do ministro do Desenvolvimento Agr&aacute;rio Patrus Ananias e um grande ato ecum&ecirc;nico e pol&iacute;tico marcam o nascimento do assentamento Lorival, uma homenagem a um dos mortos do Massacre.</p>
 
 <p>&nbsp;</p>
 
