@@ -5,7 +5,7 @@ tags:
   - tag: reforma-agrária
   - tag: lutas-e-mobilizações
 title: "MST mobiliza mais de 30 estados em Jornada de Lutas "
-support_line: "Além da pauta da Reforma Agrária, agenda de ações pauta projeto de lei das terceirizações, reforma política e a taxação de grandes fortunas."
+support_line: "Além da Reforma Agrária, agenda de ações pauta projeto de lei das terceirizações, reforma política e a taxação de grandes fortunas."
 menu: lutas e mobilizações
 layout: post
 files:
@@ -73,7 +73,7 @@ releated_posts:
   - 2015/04/2015-04-10-sem-terra-iniciam-atividades-no-para-em-homenagam-aos-martires-de-eldorado-dos-carajas.md
   - 2015/04/2015-04-13-sindicatos-e-movimentos-sociais-vao-as-ruas-dia-15-por-direitos-trabalhistas.md
   - 2015/04/2015-04-15-em-alagoas-sem-terra-defendem-a-reforma-agraria.md
-section: null
+section: featured-news
 
 ---
 <p><br />
