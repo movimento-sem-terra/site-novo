@@ -10,15 +10,15 @@ menu: reforma agrária
 section: cover
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7712/16556697443_35de836a2b_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7712/16556697443_35de836a2b_t.jpg"
-    medium: "http://farm8.staticflickr.com/7712/16556697443_35de836a2b_z.jpg"
-    small: "http://farm8.staticflickr.com/7712/16556697443_35de836a2b_n.jpg"
-    title: e95da1c7f6b474541723.jpg
-    $$hashKey: "064"
+  - link: "http://farm8.staticflickr.com/7694/16969541697_094161afd0_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7694/16969541697_094161afd0_t.jpg"
+    medium: "http://farm8.staticflickr.com/7694/16969541697_094161afd0_z.jpg"
+    small: "http://farm8.staticflickr.com/7694/16969541697_094161afd0_n.jpg"
+    title: carajas-castanheiras.jpg
+    $$hashKey: 0WG
 created_date: "2015-04-17T09:10:31-03:00"
 published: true
-images_hd: "http://farm8.staticflickr.com/7712/16556697443_35de836a2b_n.jpg"
+images_hd: "http://farm8.staticflickr.com/7694/16969541697_094161afd0_n.jpg"
 releated_posts:
   - 2014/06/2014-06-11-novos-e-velhos-conhecidos-se-encontram-na-luta-de-classes-amazonica.md
   - 2014/07/2014-07-17-familias-sem-terra-seguem-na-luta-por-area-grilada-em-abelardo-luz.md
