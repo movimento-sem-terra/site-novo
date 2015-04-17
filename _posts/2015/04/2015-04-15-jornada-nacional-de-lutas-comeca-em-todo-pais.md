@@ -27,6 +27,12 @@ files:
     small: "http://farm8.staticflickr.com/7592/16950175837_6c7e612061_n.jpg"
     title: img_8219.jpg
     $$hashKey: 0RA
+  - link: "http://farm8.staticflickr.com/7688/16971871837_ca543fa26a_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7688/16971871837_ca543fa26a_t.jpg"
+    medium: "http://farm8.staticflickr.com/7688/16971871837_ca543fa26a_z.jpg"
+    small: "http://farm8.staticflickr.com/7688/16971871837_ca543fa26a_n.jpg"
+    title: CAM01404.jpg
+    $$hashKey: 05Q
 created_date: "2015-04-15T11:29:49-03:00"
 published: true
 images_hd: "http://farm8.staticflickr.com/7592/16950175837_6c7e612061_n.jpg"
@@ -78,6 +84,10 @@ Cerca de 50 fam&iacute;lias montaram acampamento em frente &agrave; fazenda Caxi
 
 <p><br />
 Em Teodoro Sampaio, no estado,&nbsp;a sede da Caixa Econ&ocirc;mica Federal foi ocupada por cerca de 100 Sem Terra. O bjetivo &eacute; cobrar agilidade e o destravamento na execu&ccedil;&atilde;o dos Projetos de constru&ccedil;&atilde;o, amplia&ccedil;&atilde;o e reforma de casas nos assentamentos rurais. S&atilde;o 500 projetos em toda a regi&atilde;o contemplados dentro do programa Minha Casa Minha Vida Rural, mas at&eacute; agora, j&aacute; com mais de um ano, nenhum projeto teve seu in&iacute;cio.</p>
+
+<p>&nbsp;</p>
+
+<p><img alt="CAM01404.jpg" height="488" src="http://farm8.staticflickr.com/7688/16971871837_ca543fa26a_b.jpg" width="650" /></p>
 
 <p>&nbsp;</p>
 
