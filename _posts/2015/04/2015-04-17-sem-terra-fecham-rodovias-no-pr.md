@@ -26,7 +26,7 @@ releated_posts:
 <p><em>&nbsp;Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Com o objetivo de exigir a puni&ccedil;&atilde;o dos respons&aacute;veis pela morte dos 21 trabalhadores rurais Sem Terra assassinados no Massacre de Eldorado dos Caraj&aacute;s, no Par&aacute;, em 1996, e cobrar agilidade na realiza&ccedil;&atilde;o da Reforma Agr&aacute;ria, integrantes MST, fecham a partir das 9h de hoje (17), 13&nbsp;rodovias estaduais e federais&nbsp;em todas as regi&otilde;es do Paran&aacute;.</p>
+Na manh&atilde; desta sexta-feira (17),&nbsp;<span style="line-height: 20.7999992370605px;">&nbsp;integrantes MST, fecham&nbsp;13&nbsp;rodovias estaduais e federais&nbsp;em todas as regi&otilde;es do Paran&aacute;. O</span>&nbsp;objetivo da a&ccedil;&atilde;o &eacute;&nbsp;exigir a puni&ccedil;&atilde;o dos respons&aacute;veis pela morte dos 21 trabalhadores rurais Sem Terra assassinados no Massacre de Eldorado dos Caraj&aacute;s, no Par&aacute;, em 1996, e cobrar agilidade na realiza&ccedil;&atilde;o da Reforma Agr&aacute;ria.</p>
 
 <p><br />
 As mobiliza&ccedil;&otilde;es que fazem parte da Jornada Nacional de Luta pela Reforma Agr&aacute;ria tem dura&ccedil;&atilde;o de 21 minutos, em mem&oacute;ria aos 21 trabalhadores sem terra assassinados em Eldorado. <o:p></o:p></p>
