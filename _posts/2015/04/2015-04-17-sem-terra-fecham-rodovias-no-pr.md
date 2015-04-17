@@ -2,8 +2,9 @@
 date: "2015-04-17T09:18:10-03:00"
 tags:
   - tag: jornadadelutas2015
-title: Sem Terra fecham rodovias no PR
-support_line: Estão fechadas 13 rodovias estaduais e federais e também duas praças de pedágio.
+  - tag: massacre-de-eldorado-dos-carajás
+title: Sem Terra fecham rodovias no Paraná
+support_line: 13 rodovias estaduais e federais estão fechadas em todas as regiões do Paraná.
 menu: lutas e mobilizações
 section: null
 sector: mass-front
