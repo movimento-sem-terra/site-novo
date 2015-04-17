@@ -33,6 +33,18 @@ files:
     small: "http://farm8.staticflickr.com/7688/16971871837_ca543fa26a_n.jpg"
     title: CAM01404.jpg
     $$hashKey: 05Q
+  - link: "http://farm8.staticflickr.com/7656/16971935847_5e24faeab9_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7656/16971935847_5e24faeab9_t.jpg"
+    medium: "http://farm8.staticflickr.com/7656/16971935847_5e24faeab9_z.jpg"
+    small: "http://farm8.staticflickr.com/7656/16971935847_5e24faeab9_n.jpg"
+    title: mda_503g0003_00058 - esta.jpg
+    $$hashKey: 05S
+  - link: "http://farm9.staticflickr.com/8795/17153510476_f725b71936_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8795/17153510476_f725b71936_t.jpg"
+    medium: "http://farm9.staticflickr.com/8795/17153510476_f725b71936_z.jpg"
+    small: "http://farm9.staticflickr.com/8795/17153510476_f725b71936_n.jpg"
+    title: unnamed.jpg
+    $$hashKey: 05V
 created_date: "2015-04-15T11:29:49-03:00"
 published: true
 images_hd: "http://farm8.staticflickr.com/7592/16950175837_6c7e612061_n.jpg"
@@ -72,6 +84,30 @@ Para ler e entrevista na &iacute;ntegra, clique <a href="http://www.mst.org.br/2
 
 <p>&nbsp;</p>
 
+<p><strong>PR</strong></p>
+
+<p><span style="line-height: 20.7999992370605px;">No Paran&aacute;, 13&nbsp;rodovias estaduais e federais foram bloqueadas. O</span>&nbsp;objetivo da a&ccedil;&atilde;o &eacute;&nbsp;exigir a puni&ccedil;&atilde;o dos respons&aacute;veis pela morte dos 21 trabalhadores rurais Sem Terra assassinados no Massacre de Eldorado dos Caraj&aacute;s, no Par&aacute;, em 1996, e cobrar agilidade na realiza&ccedil;&atilde;o da Reforma Agr&aacute;ria.</p>
+
+<p><br />
+Ser&atilde;o fechadas ao longo do dia as rodovias federais e estaduais de&nbsp;Cascavel,&nbsp;Alto&nbsp;Para&iacute;so, Guaira&ccedil;&aacute;,&nbsp;Cruzeiro do Sul,&nbsp;Imba&uacute;, Faxinal,&nbsp;Lerroville, Porecatu,&nbsp;Jacarezinho, Congoinhas, Carl&oacute;polis, Ribeir&atilde;o do Pinhal&nbsp;e&nbsp;Laranjeiras do Sul.</p>
+
+<p><br />
+Al&eacute;m das paralisa&ccedil;&otilde;es nas rodovias, os Sem Terra fecharam, por 21 minutos, tamb&eacute;m duas pra&ccedil;as de ped&aacute;gio, em S&atilde;o Miguel do Igua&ccedil;u e Imba&uacute;. As cancelas foram abertas para os carros.</p>
+
+<p>&nbsp;</p>
+
+<p><img alt="unnamed.jpg" height="365" src="http://farm9.staticflickr.com/8795/17153510476_f725b71936_b.jpg" width="650" /></p>
+
+<p><strong>PA</strong></p>
+
+<p>As as 300 fam&iacute;lias que ocupam a Fazenda Peruano, &aacute;rea grilada distante apenas 12 km de onde ocorreu o Massacre, receber&atilde;o o assentamento Norival Santana, ap&oacute;s 11 anos debaixo da lona preta. A entrega contar&aacute; com a presen&ccedil;a do ministro do Desenvolvimento Agr&aacute;rio Patrus Ananias e um grande ato ecum&ecirc;nico e pol&iacute;tico marcam o nascimento do assentamento Norival, uma homenagem a um dos mortos do Massacre.</p>
+
+<p>&nbsp;</p>
+
+<p><img alt="mda_503g0003_00058 - esta.jpg" height="407" src="http://farm8.staticflickr.com/7656/16971935847_5e24faeab9_b.jpg" width="650" /></p>
+
+<p>&nbsp;</p>
+
 <p><strong>SP</strong></p>
 
 <p>Cerca de 200 fam&iacute;lias pertencentes ao MST e a FERAESP (Federa&ccedil;&atilde;o dos Empregados Rurais Assalariados do Estado de S&atilde;o Paulo), ocuparam na madrugada dessa sexta-feira (17), no munic&iacute;pio de Lucian&oacute;polis, S&atilde;o Paulo, a Fazenda Para&iacute;so. A &aacute;rea pertence a uma das maiores transnacionais da cadeia produtiva da laranja, na regi&atilde;o centro oeste paulista,&nbsp; a empresa francesa Louis Dreyfus Commodities Agroindustrial S/A.</p>
@@ -99,6 +135,8 @@ Em Teodoro Sampaio, no estado,&nbsp;a sede da Caixa Econ&ocirc;mica Federal foi 
 <p><strong>RS</strong></p>
 
 <p>Em Porto Alegre, manifestantes se reuniram em frente &agrave; Federa&ccedil;&atilde;o do Com&eacute;rcio de Bens e de Servi&ccedil;os do Estado do Rio Grande do Sul (Fecom&eacute;rcio-RS) para protestar contra o lobby feito por empres&aacute;rios na &uacute;ltima semana, quando a C&acirc;mara Federal aprovou a lei das terceiriza&ccedil;&otilde;es (PL 4330). Na madrugada desta quinta-feira (16) cerca de 1500 fam&iacute;lias ocuparam uma fazenda da &aacute;rea rural de Tapes, na Regi&atilde;o Sul do Rio Grande do Sul.O objetivo &eacute; transformar a &aacute;rea de mais de 7 mil hectares em um local de produ&ccedil;&atilde;o.</p>
+
+<p>&nbsp;</p>
 
 <p><img alt="DSC_0025.JPG" height="432" src="http://farm8.staticflickr.com/7630/17169079132_b1f823cdcc_b.jpg" width="650" /></p>
 
@@ -144,6 +182,8 @@ Em Teodoro Sampaio, no estado,&nbsp;a sede da Caixa Econ&ocirc;mica Federal foi 
 <p><strong>PB</strong></p>
 
 <p>Cerca de 1500 fam&iacute;lias ocuparam a sede do Incra na manh&atilde; dessa quarta-feira. Os Sem Terra pedem o encaminhamento da pauta agr&aacute;ria no estado e o fim da PL 4330. Os manifestantes seguiram em caminhada at&eacute; a sede da Caixa Econ&ocirc;mica Federal aonde, nesse momento, tentam uma reuni&atilde;o para discutir a libera&ccedil;&atilde;o de recursos para os assentamentos.</p>
+
+<p>&nbsp;</p>
 
 <p><img alt="pb.jpg" height="365" src="http://farm8.staticflickr.com/7636/17158645195_3f1b9e77a4_b.jpg" width="650" /><br />
 <br />
