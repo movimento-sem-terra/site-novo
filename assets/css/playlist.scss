@@ -306,4 +306,45 @@ $mobile: new-breakpoint(max-width 768px);
       }
     }
   }
+
+  #mst-indica {
+    @include outer-container;
+    padding: 60px 10px;
+
+    h2 {
+      text-align: center;
+    }
+
+    ul {
+      text-align: center;
+
+      li {
+
+        @include media($mobile) {
+
+        }
+
+        padding: 20px;
+        text-align: center;
+        width: 220px;
+        display: inline-block;
+
+        a {
+          img {
+            width: 100%;
+            border-radius: 50%;
+            transition-duration: .2s;
+            width: 147px;
+            height: 147px;
+          }
+
+          &:hover {
+            img {
+              border: 4px solid $mst-green;
+            }
+          }
+        }
+      }
+    }
+  }
 }
