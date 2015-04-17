@@ -4,7 +4,7 @@ tags:
   - tag: jornada-de-lutas-abris-2015
   - tag: massacre-de-eldorado-dos-carajás
 title: "Carajás, 19 anos de impunidade "
-support_line: "Duas décadas após o massacre os acusados ainda seguem livres "
+support_line: Duas décadas após o massacre os acusados ainda seguem livres.
 menu: lutas e mobilizações
 section: cover
 layout: post
@@ -77,7 +77,7 @@ Hist&oacute;rias como a de Raimundo, contata no livro O Massacre - Eldorado dos 
 <figcaption></figcaption>
 </figure>
 
-<p>Raimundo, foi considerado morto pelos policiais, jogaram ele na ca&ccedil;amba de uma caminhonete e foram colocados cad&aacute;veres em cima dele. Quando a caminhonete chegou na pol&iacute;cia, o soldado viu que ele estava vivo e o mandou sair correndo. Ele ent&atilde;o descobriu que, dos dois corpos acima dele, o que sangrava e gemia e empapava ele de sangue era o de seu filho. &nbsp;</p>
+<p>Raimundo, foi considerado morto pelos policiais, jogaram-no na ca&ccedil;amba de uma caminhonete e foram colocados cad&aacute;veres em cima dele. Quando a caminhonete chegou na delegacia, um dos soldados viu que ele ainda estava vivo e o mandou sair correndo. Ele ent&atilde;o descobriu que, dos dois corpos acima dele, o que sangrava e gemia e empapava ele de sangue era o de seu filho. &nbsp;</p>
 
 <p><br />
 Dos mutilados poucos receberam seus direitos de indeniza&ccedil;&atilde;o e at&eacute; hoje, 19 anos depois muitos nem recebem a pens&atilde;o paga no valor de R$346,00 mensais pelo Estado.</p>
@@ -106,12 +106,6 @@ O governo brasileiro agiu de duas formas quando foi notificado pela entidade int
 
 <p><br />
 No entanto, por press&atilde;o internacional, o governo brasileiro entrou nos &uacute;ltimos tempos num processo chamado de &ldquo;amistoso&quot;.</p>
-
-<p>&nbsp;</p>
-
-<figure class="image" style="float:left"><img alt="Índice.jpg" height="262" src="http://farm8.staticflickr.com/7585/17152216036_6f5a9e532a_b.jpg" width="400" />
-<figcaption></figcaption>
-</figure>
 
 <p>Busca um acordo com os mutilados, sendo feitas propostas de ambos os lados at&eacute; chegar a um acordo, o que deve levar mais uns cinco anos para ser resolvido o caso de todos.</p>
 
