@@ -99,6 +99,7 @@ $mobile: new-breakpoint(max-width 768px);
           display: none;
         }
 
+
         &.open {
           height: auto;
 
@@ -112,10 +113,6 @@ $mobile: new-breakpoint(max-width 768px);
             img {
               display: inline;
             }
-          }
-
-          .time {
-            display: inline;
           }
 
           .playlist {
@@ -177,7 +174,20 @@ $mobile: new-breakpoint(max-width 768px);
               }
             }
 
+            .time {
+              @include omega();
+              display: inline;
+              padding: 25px 0;
+              font-size: 1.5em;
+
+              .current {
+                font-weight: bold;
+                color: $mst-red;
+              }
+            }
+
             .controls {
+              @include shift(1 of 3);
               position: static;
 
               .btn-prev, .btn-next {
@@ -185,6 +195,9 @@ $mobile: new-breakpoint(max-width 768px);
               }
             }
 
+            .time, .controls {
+              @include span-columns(1 of 3, block-collapse);
+            }
 
             .player {
               margin: 10px 0;
