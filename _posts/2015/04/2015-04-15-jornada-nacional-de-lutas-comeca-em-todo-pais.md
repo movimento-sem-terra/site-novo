@@ -4,8 +4,8 @@ tags:
   - tag: jornadad-e-lutas-abril-2015
   - tag: reforma-agrária
   - tag: lutas-e-mobilizações
-title: "Jornada por Reforma Agrária segue com paralisações e bloqueios "
-support_line: Até o momento já são mais de 30 ações em todo o país.
+title: "MST mobiliza mais de 30 estados em Jornada de Lutas "
+support_line: "Paralisações, ocupações e bloqueios Até o momento já são mais de 30 ações em todo o país."
 menu: lutas e mobilizações
 layout: post
 files:
@@ -80,11 +80,11 @@ section: cover
 <em>Da P&aacute;gina do MST </em></p>
 
 <p><br />
-Neste ano, a <span style="line-height: 20.7999992370605px;">Jornada Nacional de Lutas pela Reforma Agr&aacute;ria do&nbsp;</span>MST se soma ao conjunto das mobiliza&ccedil;&otilde;es da classe trabalhadora em defesa dos direitos conquistados. A&ccedil;&otilde;es como m<span style="line-height: 20.7999992370605px;">archas, ocupa&ccedil;&otilde;es de terra e pr&eacute;dios p&uacute;blicos e trancamento de rodovias em estados como Alagoas</span>, S&atilde;o Paulo,&nbsp;Para&iacute;ba e Mato Grosso, d&atilde;o in&iacute;cio as primeiras mobiliza&ccedil;&otilde;es.&nbsp;</p>
+Neste ano, a <span style="line-height: 20.7999992370605px;">Jornada Nacional de Lutas pela Reforma Agr&aacute;ria do&nbsp;</span>MST se soma ao conjunto das mobiliza&ccedil;&otilde;es da classe trabalhadora em defesa dos direitos conquistados. A&ccedil;&otilde;es como m<span style="line-height: 20.7999992370605px;">archas, ocupa&ccedil;&otilde;es de terra e pr&eacute;dios p&uacute;blicos e trancamento de rodovias em estados como Alagoas</span>, S&atilde;o Paulo,&nbsp;Para&iacute;ba e Mato Grosso, foram feitas</p>
 
 <p>&nbsp;</p>
 
-<p>Al&eacute;m da defesa da reforma agr&aacute;ria, o MST tamb&eacute;m participa dos protestos contra o&nbsp;<span style="line-height: 20.7999992370605px;">projeto de lei&nbsp;das&nbsp;terceiriza&ccedil;&otilde;es (PL 4330) e a redu&ccedil;&atilde;o da maioridade penal e em defesa da reforma pol&iacute;tica, do fim do financiamento privado de campanhas e pela taxa&ccedil;&atilde;o de grandes fortunas.</span></p>
+<p>Al&eacute;m da defesa da reforma agr&aacute;ria, o MST tamb&eacute;m participou dos protestos contra o&nbsp;<span style="line-height: 20.7999992370605px;">projeto de lei&nbsp;das&nbsp;terceiriza&ccedil;&otilde;es (PL 4330) e a redu&ccedil;&atilde;o da maioridade penal e em defesa da reforma pol&iacute;tica, do fim do financiamento privado de campanhas e pela taxa&ccedil;&atilde;o de grandes fortunas.</span></p>
 
 <p>&nbsp;</p>
 
