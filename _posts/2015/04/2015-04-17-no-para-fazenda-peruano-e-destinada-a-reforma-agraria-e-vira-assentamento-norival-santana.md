@@ -7,7 +7,7 @@ tags:
 title: "No Pará, Fazenda Peruano é destinada à reforma agrária e vira Assentamento Norival Santana"
 support_line: "Após 11 anos de ocupação, 300 famílias serão assentadas próximo de onde ocorreu o Massacre de Eldorado dos Carajás."
 menu: reforma agrária
-section: cover
+section: featured-news
 layout: post
 files:
   - link: "http://farm8.staticflickr.com/7694/16969541697_094161afd0_b.jpg"
