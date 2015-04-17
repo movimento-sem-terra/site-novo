@@ -5,7 +5,7 @@ tags:
 title: Sem Terra ocupam 11 fazendas na Bahia
 support_line: "A perspectiva é que nos próximos dias esse número se duplique, e até o final do mês totalizem mais de 30 áreas."
 menu: lutas e mobilizações
-section: cover
+section: featured-news
 sector: mass-front
 layout: post
 files:
