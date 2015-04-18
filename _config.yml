@@ -42,7 +42,7 @@ paginate_by:
     template: "_templates/news"
     per_page: 15
     page_link: ":num"
-    pages_limit: 20
+    pages_limit: 15
   filters:
     - menu:
         permalink: "editorias/$"
