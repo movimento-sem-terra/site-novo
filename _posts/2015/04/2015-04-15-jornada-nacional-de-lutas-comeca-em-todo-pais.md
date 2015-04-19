@@ -108,6 +108,10 @@ Para ler e entrevista na &iacute;ntegra, clique <a href="http://www.mst.org.br/2
 
 <p>&nbsp;</p>
 
+<p>Confira as lutas desse s&aacute;bado&nbsp;</p>
+
+<p>&nbsp;</p>
+
 <p><strong>Confira as a&ccedil;&otilde;es dessa sexta-feira (17)</strong></p>
 
 <p>Na Sui&ccedil;a um grupo de militantes se reuniu em frente a Sede da Vale Internacional. A inten&ccedil;&atilde;o dos trabalhadores foi denunciar a postura da empresa em determinar a l&oacute;gica de organiza&ccedil;&atilde;o do Estado e da sociedade e, sobretudo, da regi&atilde;o de influ&ecirc;ncia da explora&ccedil;&atilde;o mineral, na perspectiva de acumular e enriquecer um patrim&ocirc;nio privado.</p>
@@ -133,6 +137,8 @@ Para ler e entrevista na &iacute;ntegra, clique <a href="http://www.mst.org.br/2
 <p><img alt="16087242563_fa966000e5_b.jpg" height="433" src="http://farm8.staticflickr.com/7611/16993662279_fd616fbc7f_b.jpg" width="650" /></p>
 
 <p><strong>PR</strong></p>
+
+<p>&nbsp;</p>
 
 <p><span style="line-height: 20.7999992370605px;">No Paran&aacute;, 13&nbsp;rodovias estaduais e federais foram bloqueadas. O</span>&nbsp;objetivo da a&ccedil;&atilde;o &eacute;&nbsp;exigir a puni&ccedil;&atilde;o dos respons&aacute;veis pela morte dos 21 trabalhadores rurais Sem Terra assassinados no Massacre de Eldorado dos Caraj&aacute;s, no Par&aacute;, em 1996, e cobrar agilidade na realiza&ccedil;&atilde;o da Reforma Agr&aacute;ria.</p>
 
