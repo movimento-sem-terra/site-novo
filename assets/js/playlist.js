@@ -25,7 +25,7 @@ $(document).ready(function() {
     //start player
     $(player).data('current-track', trackIndex);
     //show pause button
-    var album =  $('.album.open');
+    var album =  $('.open .album');
     if(!!album){
       $('.playlist').removeClass('playing').removeClass('paused');
       album.find('.playlist').addClass('playing');
@@ -36,35 +36,15 @@ $(document).ready(function() {
     player.load();
     player.play();
 
-    $('.album.open .player').animate({
+    $('.open .album .player').animate({
       scrollTop: link.position().top
     }, 500);
 
   };
 
-  var openAlbum = function(album){
-    var next = album.next();
-    var thisOne = album;
-
-    while(next.length > 0 && 
-          thisOne.position().top == next.position().top)
-    {
-      thisOne = next;
-      next = next.next();
-    }
-
-
-    $('.album.open').remove();
-    var albumCloned =  album.clone().addClass('open');
-    albumCloned.insertAfter(thisOne);
-
-    $('html, body').animate({
-      scrollTop: albumCloned.position().top
-    }, 'medium');
-  };
 
   var initPlayer = function(){
-    player = $('.album.open .playlist .player audio')[0];
+    player = $('.open .album .playlist .player audio')[0];
 
     $(player).on('ended',function(e){
       changeMusic(1);
@@ -80,16 +60,16 @@ $(document).ready(function() {
     return getAlbum(element.parent());
   };
 
-  $('.album:not(.open) .btn-play').click(function() {
-    openAlbum(getAlbum($(this)));
-    initPlayer();
-    changeMusic(0);
-  });
+  var getParent = function(element, parent){
+    if(element.is(parent)){
+      return element;
+    } else if( element.is('html')){
+      return false;
+    }
+    return getParent(element.parent(), parent);
+  };
 
-  $('.album .cover').click(function() {
-    openAlbum(getAlbum($(this)));
-    initPlayer();
-  });
+
 
   $('#music').on('click','.player .track a',function(e){
     e.preventDefault();
@@ -101,7 +81,7 @@ $(document).ready(function() {
       $('.playlist.paused audio')[0].play();
       $('.playlist.paused').removeClass('paused').addClass('playing');
     }else{
-      var track = $('.album.open .track a').first();
+      var track = $('.open .album .track a').first();
       runMusic(track);
     }
   });
@@ -112,8 +92,8 @@ $(document).ready(function() {
   });
 
   var changeMusic = function(direction){
-    var position = $('.album.open .player audio').data('current-track') + direction;
-    var tracks = $('.album.open .track a');
+    var position = $('.open .album .player audio').data('current-track') + direction;
+    var tracks = $('.open .album .track a');
     var len = tracks.length - 1;
 
     if(position > len){
@@ -131,4 +111,46 @@ $(document).ready(function() {
   $('#music').on('click','.btn-next', function(){
     changeMusic(1);
   });
+
+
+
+
+  var closeAll = function() {
+      $('#albuns .open').each(function() {
+        var parent = $(this);
+        var top = parent.offset().top;
+        var left = parent.offset().left;
+        var width = parent.width();
+
+        $(this).removeClass('open')
+          .find('.album').offset({top: top, left: left }).width(width);
+      });
+  }
+
+  var openAlbum = function(album) {
+    closeAll();
+    var parent = getParent(album, 'li');
+    var top = parent.offset().top + parent.height() + 10;
+    var left = 0;
+    var width = $(document).width();
+    parent.addClass('open').find('.album');
+    album.offset({top: top, left: left}).width(width);
+
+    parent.css('background-image', 'url('+ parent.find('.cover img').attr('src') +')');
+    $('body, html').animate({
+      scrollTop: parent.offset().top + 200
+    }, 500);
+
+    initPlayer();
+  }
+
+  $('#albuns').on('click', 'li:not(.open) .cover', function() {
+    openAlbum(getParent($(this), '.album'));
+  });
+
+  $('li:not(.open) .album .btn-play').click(function() {
+    openAlbum(getParent($(this), '.album'));
+    changeMusic(0);
+  });
+
 });

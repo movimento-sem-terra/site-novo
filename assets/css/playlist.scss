@@ -76,30 +76,17 @@ $mobile: new-breakpoint(max-width 768px);
 
 
   #albuns {
+
+    @include outer-container;
+
     h2 {
       text-align: center;
     }
-    @include outer-container;
-    .album{
-        @include span-columns(3);
-        @include omega(4n);
-        text-align: center;
-        padding: 0;
-        margin-bottom: 10px;
-        background: white;
-        height: 320px;
-        box-shadow: 1px 2px 5px $mst-medium-gray;
-        position: relative;
 
-        .cover, .btn-play {
-          cursor: pointer;
-        }
+    li {
+      &.open {
 
-        &.open {
-          height: auto;
-
-          @include fill-parent();
-          @include omega();
+        .album {
 
           .cover {
             @include span-columns(5, block-collapse);
@@ -107,6 +94,7 @@ $mobile: new-breakpoint(max-width 768px);
 
             img {
               display: inline;
+              max-height: 100%;
             }
           }
 
@@ -173,7 +161,7 @@ $mobile: new-breakpoint(max-width 768px);
               box-shadow: inset 2px 1px 6px #BBB;
               background: #F9F9F9;
               text-align: left;
-              height: 270px;
+              height: 310px;
               overflow: scroll;
               position: relative;
 
@@ -208,6 +196,17 @@ $mobile: new-breakpoint(max-width 768px);
             }
           }
         }
+
+      }
+
+
+    .album {
+
+        .cover, .btn-play {
+          cursor: pointer;
+        }
+
+
 
         .cover {
           height: 150px;
@@ -267,9 +266,6 @@ $mobile: new-breakpoint(max-width 768px);
         }
 
 
-        .player {
-          display:none;
-        }
 
         .btn-download {
           border: none;
@@ -294,6 +290,7 @@ $mobile: new-breakpoint(max-width 768px);
           width: 100%;
         }
     }
+  }
   }
 
   #about {
@@ -380,6 +377,55 @@ $mobile: new-breakpoint(max-width 768px);
               border: 4px solid $mst-green;
             }
           }
+        }
+      }
+    }
+  }
+}
+
+
+#albuns {
+  text-align: center;
+  & > li {
+
+    margin-right: 15px;
+    width: 250px;
+    height: 300px;
+    display: inline-block;
+    vertical-align: top;
+    position: relative;
+    margin-bottom: 10px;
+    box-shadow: inset 0 3px 5px rgba(0,0,0, .3);
+    background: linear-gradient(rgba(150,25,19, .2), transparent);
+
+    &.open {
+      $albumOpenHeight: 500px;
+      margin-bottom: $albumOpenHeight + 20px;
+
+      .album {
+
+        height: $albumOpenHeight;
+        box-shadow: 1px 2px 5px $mst-medium-gray;
+        perspective: 800px;
+      }
+
+    }
+
+    .album {
+      transition-duration: .8s;
+      width: 100%;
+      height: 100%;
+      z-index: 10;
+      position: absolute;
+      left: 0;
+      background: white;
+      box-shadow: 1px 2px 5px #A3A3AB;
+
+
+      .playlist {
+        .player {
+          height: 0;
+          overflow: hidden;
         }
       }
     }
