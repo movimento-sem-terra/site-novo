@@ -5,7 +5,7 @@ tags:
   - tag: história
   - tag: MST-30-anos
 title: Santa Catarina realiza mostra sobre a história do MST
-support_line: Exposição fica em cartaz na Alesc até 1º de maio
+support_line: Exposição fica em cartaz na Alesc até 1º de maio.
 menu: "educação, cultura e comunicação"
 layout: post
 files:
