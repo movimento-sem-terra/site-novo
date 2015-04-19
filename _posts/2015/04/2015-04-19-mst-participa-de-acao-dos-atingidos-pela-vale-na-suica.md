@@ -4,7 +4,7 @@ tags:
   - tag: jornada-de-lutas-2015
   - tag: Vale
   - tag: meio-ambiente
-support_line: Atividade denunciou os malefícios que a empresa causa ao meio ambiente e as populações ribeirinhas
+support_line: Atividade denunciou os malefícios que a empresa causa ao meio ambiente e as populações ribeirinhas.
 menu: solidariedade
 title: MST participa de ação dos Atingidos pela Vale na Suiça
 layout: post
