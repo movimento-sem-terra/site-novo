@@ -166,8 +166,8 @@ $(document).ready(function() {
     closeAll();
     var parent = getParent(album, 'li');
     var top = parent.offset().top + parent.height() + 10;
-    var left = 0;
-    var width = $(document).width();
+    var left = $('#albuns').offset().left;
+    var width = $('#albuns').width();
     parent.addClass('open').find('.album');
     album.offset({top: top, left: left}).width(width);
 
@@ -178,6 +178,12 @@ $(document).ready(function() {
 
     initPlayer();
   };
+
+  $(window).resize(function() {
+    var left = 0;
+    var width = $(document).width();
+    $('.open .album').offset({top: top, left: left}).width(width);
+  });
 
   $('#albuns').on('click', 'li:not(.open) .cover', function() {
     openAlbum(getParent($(this), '.album'));
