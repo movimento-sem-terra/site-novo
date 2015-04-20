@@ -6,7 +6,7 @@ tags:
   - tag: Manoel-dos-Santos
 title: "MST lamenta a morte de Manoel José dos Santos "
 support_line: "O líder da bancada do PT na Assembleia Legislativa de Pernambuco, morreu neste domingo (19), vítima de câncer."
-section: cover
+section: featured-news
 menu: lutas e mobilizações
 layout: post
 files:
