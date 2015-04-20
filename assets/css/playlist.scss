@@ -107,6 +107,23 @@ $mobile: new-breakpoint(max-width 768px);
       .album {
 
         .playlist {
+
+          progress {
+            height: 5px;
+            display: none;
+            width: 100%;
+            background-color: $mst-medium-gray;
+            &::-webkit-progress-value {
+              background-color: $mst-red;
+            }
+            &::-webkit-progress-bar{
+              background-color: $mst-medium-gray;
+            }
+            &::-moz-progress-bar{
+              background-color: $mst-medium-gray;
+            }
+          }
+
           &.playing {
             .btn-play {
               display: none;
@@ -194,6 +211,10 @@ $mobile: new-breakpoint(max-width 768px);
             padding: 0;
             margin-top: 0;
 
+            progress {
+              display: block;
+            }
+
             h2 {
               text-align: left;
               margin: 20px 17px;
@@ -226,7 +247,7 @@ $mobile: new-breakpoint(max-width 768px);
 
 
             .player {
-              margin: 10px 0;
+              margin: 0;
               display: block;
               box-shadow: inset 2px 1px 6px #BBB;
               background: #F9F9F9;
