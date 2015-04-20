@@ -86,7 +86,22 @@ $mobile: new-breakpoint(max-width 768px);
     li {
 
       .time {
+        @include span-columns(1 of 3, block-collapse);
+
+        @include media($mobile) {
+          @include span-columns(3 of 12, block-collapse);
+          font-size: .8em;
+          display: none;
+        }
+
+        padding: 25px 0;
+        font-size: 1.5em;
         display: none;
+
+        .current {
+          font-weight: bold;
+          color: $mst-red;
+        }
       }
 
       .album {
@@ -129,7 +144,7 @@ $mobile: new-breakpoint(max-width 768px);
               }
             }
           }
-          
+
           &.paused .player .list .track.active a{
             .fa, .icon-playing {
               display: none;
@@ -142,29 +157,47 @@ $mobile: new-breakpoint(max-width 768px);
       }
 
       &.open {
+        background-size: cover;
 
         .album {
 
 
           .cover {
             @include span-columns(5, block-collapse);
+
+            @include media($mobile) {
+              @include fill-parent();
+              max-height: 365px;
+              display: none;
+            }
+
+            background-image: none !important;
             height: 100%;
 
             img {
-              display: inline;
-              max-height: 100%;
+              display: inline-block;
+              height: 100%;
+              @include media($mobile) {
+                max-width: 365px;
+              }
             }
           }
 
           .playlist {
             @include span-columns(7, block-collapse);
+
+            @include media($mobile) {
+              @include fill-parent();
+              width: 100% !important;
+            }
+
             padding: 0;
             margin-top: 0;
 
             h2 {
               text-align: left;
               margin: 20px 17px;
-              font-size: 1.6em;
+              font-size: 1.2em;
               font-weight: 500;
               display: inline-block;
             }
@@ -172,19 +205,18 @@ $mobile: new-breakpoint(max-width 768px);
 
 
             .time {
-              @include omega();
-              display: inline;
-              padding: 25px 0;
-              font-size: 1.5em;
-
-              .current {
-                font-weight: bold;
-                color: $mst-red;
-              }
+              display: block;
             }
 
             .controls {
               @include shift(1 of 3);
+              @include span-columns(1 of 3, block-collapse);
+
+              @include media($mobile) {
+                @include shift(3 of 12);
+                @include span-columns(6, block-collapse);
+              }
+
               position: static;
 
               .btn-prev, .btn-next {
@@ -192,9 +224,6 @@ $mobile: new-breakpoint(max-width 768px);
               }
             }
 
-            .time, .controls {
-              @include span-columns(1 of 3, block-collapse);
-            }
 
             .player {
               margin: 10px 0;
@@ -285,6 +314,10 @@ $mobile: new-breakpoint(max-width 768px);
           font-size: 2.2em;
           color: $mst-red;
           margin: 15px;
+
+          @include media($mobile) {
+              margin: 8px;
+          }
         }
 
 
@@ -437,12 +470,19 @@ $mobile: new-breakpoint(max-width 768px);
     background: linear-gradient(rgba(150,25,19, .2), transparent);
 
     &.open {
-      $albumOpenHeight: 500px;
-      margin-bottom: $albumOpenHeight + 20px;
+
+      @include media($mobile) {
+        margin-bottom: 540px;
+      }
+
+      margin-bottom: 520px;
 
       .album {
+        @include media($mobile) {
+          height: 520px;
+        }
 
-        height: $albumOpenHeight;
+        height: 500px;
         box-shadow: 1px 2px 5px $mst-medium-gray;
         perspective: 800px;
       }
