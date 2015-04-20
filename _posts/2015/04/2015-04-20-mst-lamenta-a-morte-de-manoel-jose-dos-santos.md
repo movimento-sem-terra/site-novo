@@ -43,16 +43,13 @@ releated_posts: []
 Ele vinha se tratando de um c&acirc;ncer de es&ocirc;fago h&aacute; alguns anos. Fazia tratamento especializado no Hospital Benefic&ecirc;ncia Portuguesa, em S&atilde;o Paulo.</p>
 
 <p><br />
-Em 2012, chegou a fazer um autotransplante de medula. &nbsp;&ldquo;S&oacute; quem esteve em um estado doentio como o meu entende a import&acirc;ncia do apoio dos parentes, amigos e colegas de trabalho&rdquo;, disse na volta a Alepe.Infelizmente, a&nbsp;doen&ccedil;a evoluiu &nbsp;e em 2014 se tornou mais agressiva.</p>
+Em 2012, chegou a fazer um autotransplante de medula. &nbsp;&ldquo;S&oacute; quem esteve em um estado doentio como o meu entende a import&acirc;ncia do apoio dos parentes, amigos e colegas de trabalho&rdquo;, disse na volta a Alepe. Infelizmente, a&nbsp;doen&ccedil;a evoluiu &nbsp;e em 2014 se tornou mais agressiva.</p>
 
 <p><br />
-Natural de Serra Talhada, Manoel se notabilizou pela defesa dos trabalhadores, credenciado para disputar mandatos em Pernambuco, foi votado em praticamente todos os munic&iacute;pios do Estado.</p>
+Natural de Serra Talhada, Manoel se notabilizou pela defesa dos trabalhadores, credenciado para disputar mandatos em Pernambuco, foi votado em praticamente todos os munic&iacute;pios do estado.</p>
 
 <p><br />
-Agricultor familiar, casado, pai de seis filhos e av&ocirc; de tr&ecirc;s netos, come&ccedil;ou sua luta pelo campo em 1972, quando ingressou na A&ccedil;&atilde;o Cat&oacute;lica Rural e no Sindicato dos Trabalhadores Rurais de Serra Talhada.</p>
-
-<p><br />
-A organiza&ccedil;&atilde;o sindical dos trabalhadores e das trabalhadoras, as lutas pela conviv&ecirc;ncia com a seca e pelos direitos dos atingidos pelas barragens foram bandeiras centrais na sua perman&ecirc;ncia na dire&ccedil;&atilde;o do STR.</p>
+Agricultor familiar, casado, pai &nbsp;e av&ocirc;, come&ccedil;ou sua luta pelo campo em 1972, quando ingressou na A&ccedil;&atilde;o Cat&oacute;lica Rural e no Sindicato dos Trabalhadores Rurais de Serra Talhada.</p>
 
 <p><br />
 Manoel Santos participou do processo de constru&ccedil;&atilde;o da Central &Uacute;nica dos Trabalhadores (CUT), em Pernambuco, sendo o primeiro secret&aacute;rio rural dessa institui&ccedil;&atilde;o, em 1983.</p>
