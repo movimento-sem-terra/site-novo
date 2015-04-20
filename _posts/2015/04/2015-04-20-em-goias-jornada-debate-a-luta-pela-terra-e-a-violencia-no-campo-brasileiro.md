@@ -35,7 +35,8 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p><em>Por Iris Pacheco e Mara Carvalho</em></p>
+<p><em>Por Iris Pacheco e Mara Carvalho<br />
+Da Pagina do MST</em></p>
 
 <p>&nbsp;</p>
 
@@ -84,3 +85,11 @@ releated_posts:
 <p>&nbsp;</p>
 
 <p>O ato ocorreu no campus da Cidade de Goi&aacute;s e tamb&eacute;m contou com a presen&ccedil;a de outros movimentos sociais como o Movimento Campon&ecirc;s Popular (MCP), o Movimento Terra Livre (MTL), a Comiss&atilde;o Pastoral da Terra (CPT), o Levante Popular da Juventude, e entidades como o Comit&ecirc; de Apoio e Solidariedade ao Acampamento Dom Tom&aacute;s Baldu&iacute;no, a Escola Fam&iacute;lia Agr&iacute;cola de Goi&aacute;s e Pastoral Universit&aacute;ria da Diocese de Goi&aacute;s.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><span style="line-height: 20.7999992370605px;">&nbsp;A&nbsp; II Jornada Universit&aacute;ria em Apoio &agrave; Reforma Agr&aacute;ria na UEG - Capus de Goi&aacute;s, vai at&eacute; o dia 27 de abril. Confira abaixo a programa&ccedil;&atilde;o.&nbsp;</span></p>
+
+<p>&nbsp;</p>
+
+<p><img alt="unnamed (1).jpg" ng-click="$parent._index = $index;" src="http://farm8.staticflickr.com/7613/17212453925_438e6f4e6e_t.jpg" title="unnamed (1).jpg" /></p>
