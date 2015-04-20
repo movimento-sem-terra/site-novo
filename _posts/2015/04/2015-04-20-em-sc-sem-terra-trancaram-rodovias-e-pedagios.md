@@ -51,19 +51,11 @@ Nesta sexta-feira (17), cerca de 1000&nbsp;trabalhadores e trabalhadoras sem ter
 
 <p><span style="line-height: 20.7999992370605px;">O dia internacional de luta pela terra come&ccedil;ou com o trancamento de ped&aacute;gio no&nbsp;</span>munic&iacute;pio de Correia Pinto, com cerca de&nbsp;300 integrantes.&nbsp;Na regi&atilde;o de Monte Carlo, a BR&nbsp;116 foi trancada por cerca de 300 pessoas. No munic&iacute;pio de Canoinhas,&nbsp;<span style="line-height: 20.7999992370605px;">&nbsp;</span><span style="line-height: 20.7999992370605px;">pela manh&atilde;,</span>&nbsp;cerca de 400 pessoas tamb&eacute;m deixaram fechada a rodovia <span style="line-height: 20.7999992370605px;">280</span>.</p>
 
-<p>&nbsp;</p>
-
-<p><img alt="IMG_1388.JPG" height="67" ng-click="$parent._index = $index;" src="http://farm9.staticflickr.com/8750/17026714239_f0043e9fc1_t.jpg" style="float:left" title="IMG_1388.JPG" width="100" /></p>
-
 <p><br />
 No munic&iacute;pio de Abelardo Luz, regi&atilde;o oeste do estado, trabalhadores rurais do&nbsp;acampamento Quide, marcharam em sentido a prefeitura municipal onde estiveram em audi&ecirc;ncia com o prefeito municipal, Dilmar Fantinelli. Ao passarem&nbsp;pelo f&oacute;rum do munic&iacute;pio,&nbsp;as crian&ccedil;as fincaram cruzes, relembrando&nbsp;o massacre de Eldorado dos Caraj&aacute;s. Depois seguiram&nbsp;para a c&acirc;mara de vereadores.</p>
 
 <p><br />
 Al&eacute;m de denunciar a paralisa&ccedil;&atilde;o da reforma agr&aacute;ria e prestar homenagens aos companheiros assassinados no<span style="line-height: 20.7999992370605px;">&nbsp;massacre de Eld</span><span style="line-height: 20.7999992370605px;">orado dos Caraj&aacute;s, a</span>&nbsp;mobiliza&ccedil;&atilde;o tamb&eacute;m cumpriu o papel de fazer com que os org&atilde;os p&uacute;blicos municipais se comprometessem&nbsp;em enviar uma mon&ccedil;&atilde;o de apoio ao MST, cobrando&nbsp;a agilidade no processo do assentamento das fam&iacute;lias acampadas no munic&iacute;pio.</p>
-
-<p>&nbsp;</p>
-
-<p><img alt="2015-04-17 10.33.11.jpg" height="75" ng-click="$parent._index = $index;" src="http://farm6.staticflickr.com/5461/17005439447_00bb5b780a_t.jpg" style="float:left" title="2015-04-17 10.33.11.jpg" width="100" /></p>
 
 <p>&nbsp;</p>
 
