@@ -21,22 +21,28 @@ images_hd: "http://farm8.staticflickr.com/7594/16993449727_cb2da8826d_n.jpg"
 releated_posts: []
 
 ---
+<p style="text-align:center"><img alt="" height="269" src="http://farm8.staticflickr.com/7594/16993449727_cb2da8826d_n.jpg" width="400" /></p>
+
 <p>&nbsp;</p>
 
-<p><em><strong>Da P&aacute;gina do MST&nbsp;</strong></em></p>
+<p><em>Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p>&nbsp;</p>
 
 <p>Nessa sexta-feira (17), o militantes do MST ocuparam&nbsp;a Assembleia Legislativa de Santa Catarina com a exposi&ccedil;&atilde;o Fotogr&aacute;fica &ldquo;MST SC: 30 anos de hist&oacute;ria&rdquo;.</p>
 
+<p>&nbsp;</p>
+
 <p>A exposi&ccedil;&atilde;o&nbsp;foi programada para este dia em mem&oacute;ria ao massacre do El&nbsp;Dourado dos Caraj&aacute;s.&nbsp;</p>
+
+<p>&nbsp;</p>
 
 <p>As quarenta fotografias ficar&atilde;o dispon&iacute;veis na Alesc entre os dias 20 de abril e 1&ordm; de maio. A mostra, que faz&nbsp;parte da comemora&ccedil;&atilde;o dos 30 anos do Movimento, conta com imagens da&nbsp;primeira ocupa&ccedil;&atilde;o do MST&nbsp;at&eacute; os dias de hoje.</p>
 
+<p>&nbsp;</p>
+
 <p>A mostra&nbsp;contou com a contribui&ccedil;&atilde;o de&nbsp;militantes, fot&oacute;grafos e jornalistas, entre eles, <span style="line-height: 20.7999992370605px;">Juliana Adriano, Eliane Fistarol, Magali Moser, Ernesto Puhl e R&eacute;vero Ribeiro,&nbsp;</span>al&eacute;m de imagens do acervo do MST.</p>
 
+<p>&nbsp;</p>
+
 <p>A exposi&ccedil;&atilde;o, ao realizar-se na Assembleia Legislativa, aponta que o Estado pode n&atilde;o ter postura una, mas reconhece a import&acirc;ncia do Movimento dos Trabalhadores Rurais Sem Terra.</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
