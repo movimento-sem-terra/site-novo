@@ -2,7 +2,7 @@
 date: "2015-04-17T14:28:54-03:00"
 tags:
   - tag: jornadadelutas2015
-title: Sem Terra ocupam 11 fazendas na Bahia
+title: Sem Terra ocupam 22 fazendas na Bahia
 support_line: "A perspectiva é que nos próximos dias esse número se duplique, e até o final do mês totalizem mais de 30 áreas."
 menu: lutas e mobilizações
 section: featured-news
