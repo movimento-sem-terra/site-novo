@@ -59,8 +59,6 @@ $(document).ready(function() {
     }, false);
 
     $('.open .album .playlist progress').click(function(event){
-      /* Math.floor((event.offsetX / this.offsetWidth) * 100) */
-      var newProgress = event.offsetX;
       var jumpToTime = event.offsetX / this.offsetWidth;
       $(this).attr('value', jumpToTime);
       player.currentTime = ( player.duration * jumpToTime );
@@ -69,6 +67,9 @@ $(document).ready(function() {
 
     $(player).bind('timeupdate', function() {
       var getDuration = function(milleseconds){
+        if(!$.isNumeric(milleseconds)){
+          return '0:00';
+        }
         var rem = parseInt(milleseconds, 10),
         //pos = (player.currentTime / player.duration) * 100,
         mins = Math.floor(rem/60,10),
@@ -105,18 +106,24 @@ $(document).ready(function() {
   });
 
   $('#music').on('click', '.btn-play', function() {
-    if($('.playlist.paused').size() > 0){
-      $('.playlist.paused audio')[0].play();
-      $('.playlist.paused').removeClass('paused').addClass('playing');
+    openAlbum(getParent($(this), '.album'));
+    var album = getParent($(this),'.album');
+    var playlist = album.find('.playlist');
+
+    if(playlist.hasClass('paused')){
+      album.find('audio').get(0).play();
+      playlist.removeClass('paused').addClass('playing');
     }else{
-      var track = $('.open .album .track a').first();
+      var track = album.find('.track a').first();
       runMusic(track);
     }
   });
 
   $('#music').on('click','.btn-pause',function() {
-    $('.playlist.playing audio')[0].pause();
-    $('.playlist.playing').removeClass('playing').addClass('paused');
+    var album = getParent($(this),'.album');
+    var playlist = album.find('.playlist');
+    album.find('audio').get(0).pause();
+    playlist.removeClass('playing').addClass('paused');
   });
 
   var changeMusic = function(direction){
@@ -175,10 +182,4 @@ $(document).ready(function() {
   $('#albuns').on('click', 'li:not(.open) .cover', function() {
     openAlbum(getParent($(this), '.album'));
   });
-
-  $('li:not(.open) .album .btn-play').click(function() {
-    openAlbum(getParent($(this), '.album'));
-    changeMusic(0);
-  });
-
 });

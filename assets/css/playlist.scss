@@ -109,6 +109,12 @@ $mobile: new-breakpoint(max-width 768px);
             }
           }
 
+          &.playing, &.paused {
+            progress {
+              display: block;
+            }
+          }
+
           &.playing {
             .btn-play {
               display: none;
@@ -177,10 +183,6 @@ $mobile: new-breakpoint(max-width 768px);
             @include span-columns(7, block-collapse);
             padding: 0;
             margin-top: 0;
-
-            progress {
-              display: block;
-            }
 
             h2 {
               text-align: left;
