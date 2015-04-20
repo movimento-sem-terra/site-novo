@@ -80,4 +80,4 @@ Na luta pela Terra Manuel sempre esteve presente nos grandes embate do MST em Pe
 
 <p>&nbsp;</p>
 
-<p>*A fam&iacute;lia n&atilde;o disponibilizou informa&ccedil;&otilde;es sobre o sepultamento.&nbsp;</p>
+<p>*A fam&iacute;lia n&atilde;o divulgou&nbsp;informa&ccedil;&otilde;es sobre o sepultamento.&nbsp;</p>
