@@ -58,6 +58,15 @@ $(document).ready(function() {
       $('.open .track.active.loading').removeClass('loading').addClass('listening');
     }, false);
 
+    $('.open .album .playlist progress').click(function(event){
+      /* Math.floor((event.offsetX / this.offsetWidth) * 100) */
+      var newProgress = event.offsetX;
+      var jumpToTime = event.offsetX / this.offsetWidth;
+      $(this).attr('value', jumpToTime);
+      player.currentTime = ( player.duration * jumpToTime );
+    });
+
+
     $(player).bind('timeupdate', function() {
       var getDuration = function(milleseconds){
         var rem = parseInt(milleseconds, 10),
@@ -68,8 +77,13 @@ $(document).ready(function() {
         return mins + ':' + (secs > 9 ? secs : '0' + secs);
       };
 
-      $('.open .time .current').text(getDuration(player.currentTime));
-      $('.open .time .total').text(getDuration(player.duration));
+      var duration = getDuration(player.duration);
+      var current  = getDuration(player.currentTime);
+
+      $('.open .time .current').text(current);
+      $('.open .time .total').text(duration);
+
+      $('.open .album .playlist progress').attr('value', player.currentTime / player.duration);
     });
   };
 
@@ -139,7 +153,7 @@ $(document).ready(function() {
         $(this).removeClass('open')
           .find('.album').offset({top: top, left: left }).width(width);
       });
-  }
+  };
 
   var openAlbum = function(album) {
     closeAll();
@@ -156,7 +170,7 @@ $(document).ready(function() {
     }, 500);
 
     initPlayer();
-  }
+  };
 
   $('#albuns').on('click', 'li:not(.open) .cover', function() {
     openAlbum(getParent($(this), '.album'));
