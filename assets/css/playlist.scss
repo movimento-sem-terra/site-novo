@@ -84,9 +84,67 @@ $mobile: new-breakpoint(max-width 768px);
     }
 
     li {
+
+      .time {
+        display: none;
+      }
+
+      .album {
+
+        .playlist {
+          &.playing {
+            .btn-play {
+              display: none;
+            }
+
+            .btn-pause {
+              display: inline;
+            }
+          }
+
+          .track a .fa {
+            display: none;
+
+            &.fa-play{
+              display: inline;
+            }
+          }
+
+          &.playing .player .list .track.active{
+            &.listening a{
+              .fa {
+                display: none;
+              }
+              .icon-playing {
+                display: inline;
+              }
+            }
+
+            &.loading a{
+              .fa, .icon-playing {
+                display: none;
+              }
+              .fa.fa-circle-o-notch.fa-spin {
+                display: inline;
+              }
+            }
+          }
+          
+          &.paused .player .list .track.active a{
+            .fa, .icon-playing {
+              display: none;
+            }
+            .fa.fa-pause {
+              display: inline;
+            }
+          }
+        }
+      }
+
       &.open {
 
         .album {
+
 
           .cover {
             @include span-columns(5, block-collapse);
@@ -111,42 +169,22 @@ $mobile: new-breakpoint(max-width 768px);
               display: inline-block;
             }
 
-            &.playing {
-              .btn-play {
-                display: none;
-              }
 
-              .btn-pause {
-                display: inline;
-              }
-            }
 
-            .track a .fa {
-              display: none;
+            .time {
+              @include omega();
+              display: inline;
+              padding: 25px 0;
+              font-size: 1.5em;
 
-              &.fa-play{
-                display: inline;
-              }
-            }
-
-            &.playing .player .list .track.active a{
-              .fa {
-                display: none;
-              }
-              .icon-playing {
-                display: inline;
-              }
-            }
-            &.paused .player .list .track.active a{
-              .fa, .icon-playing {
-                display: none;
-              }
-              .fa.fa-pause {
-                display: inline;
+              .current {
+                font-weight: bold;
+                color: $mst-red;
               }
             }
 
             .controls {
+              @include shift(1 of 3);
               position: static;
 
               .btn-prev, .btn-next {
@@ -154,6 +192,9 @@ $mobile: new-breakpoint(max-width 768px);
               }
             }
 
+            .time, .controls {
+              @include span-columns(1 of 3, block-collapse);
+            }
 
             .player {
               margin: 10px 0;
@@ -181,10 +222,6 @@ $mobile: new-breakpoint(max-width 768px);
                     padding-right: 5px;
                     width: 17px;
                     display: none;
-                  }
-
-                  .fa {
-                    padding-right: 5px;
                   }
 
                   &.active a{
@@ -237,6 +274,7 @@ $mobile: new-breakpoint(max-width 768px);
           button{
             cursor: pointer;
           }
+
         }
 
 

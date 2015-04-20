@@ -49,16 +49,30 @@ $(document).ready(function() {
     $(player).on('ended',function(e){
       changeMusic(1);
     });
+
+    player.addEventListener('loadstart', function(){
+      $('.open .track.active').addClass('loading');
+    }, false);
+
+    player.addEventListener('canplay', function(){
+      $('.open .track.active.loading').removeClass('loading').addClass('listening');
+    }, false);
+
+    $(player).bind('timeupdate', function() {
+      var getDuration = function(milleseconds){
+        var rem = parseInt(milleseconds, 10),
+        //pos = (player.currentTime / player.duration) * 100,
+        mins = Math.floor(rem/60,10),
+        secs = rem - mins*60;
+
+        return mins + ':' + (secs > 9 ? secs : '0' + secs);
+      };
+
+      $('.open .time .current').text(getDuration(player.currentTime));
+      $('.open .time .total').text(getDuration(player.duration));
+    });
   };
 
-  var getAlbum = function(element){
-    if(element.is('.album')){
-      return element;
-    }else if( element.is('html')){
-      return false;
-    }
-    return getAlbum(element.parent());
-  };
 
   var getParent = function(element, parent){
     if(element.is(parent)){
