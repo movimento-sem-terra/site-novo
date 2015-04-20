@@ -53,7 +53,7 @@ Nesta sexta-feira (17), cerca de 1000&nbsp;trabalhadores e trabalhadoras sem ter
 
 <p>&nbsp;</p>
 
-<p><img alt="IMG_1388.JPG" height="134" ng-click="$parent._index = $index;" src="http://farm9.staticflickr.com/8750/17026714239_f0043e9fc1_t.jpg" style="float:left" title="IMG_1388.JPG" width="200" /></p>
+<p><img alt="IMG_1388.JPG" height="67" ng-click="$parent._index = $index;" src="http://farm9.staticflickr.com/8750/17026714239_f0043e9fc1_t.jpg" style="float:left" title="IMG_1388.JPG" width="100" /></p>
 
 <p><br />
 No munic&iacute;pio de Abelardo Luz, regi&atilde;o oeste do estado, trabalhadores rurais do&nbsp;acampamento Quide, marcharam em sentido a prefeitura municipal onde estiveram em audi&ecirc;ncia com o prefeito municipal, Dilmar Fantinelli. Ao passarem&nbsp;pelo f&oacute;rum do munic&iacute;pio,&nbsp;as crian&ccedil;as fincaram cruzes, relembrando&nbsp;o massacre de Eldorado dos Caraj&aacute;s. Depois seguiram&nbsp;para a c&acirc;mara de vereadores.</p>
@@ -63,7 +63,7 @@ Al&eacute;m de denunciar a paralisa&ccedil;&atilde;o da reforma agr&aacute;ria e
 
 <p>&nbsp;</p>
 
-<p><img alt="2015-04-17 10.33.11.jpg" height="150" ng-click="$parent._index = $index;" src="http://farm6.staticflickr.com/5461/17005439447_00bb5b780a_t.jpg" style="float:left" title="2015-04-17 10.33.11.jpg" width="200" /></p>
+<p><img alt="2015-04-17 10.33.11.jpg" height="75" ng-click="$parent._index = $index;" src="http://farm6.staticflickr.com/5461/17005439447_00bb5b780a_t.jpg" style="float:left" title="2015-04-17 10.33.11.jpg" width="100" /></p>
 
 <p>&nbsp;</p>
 
