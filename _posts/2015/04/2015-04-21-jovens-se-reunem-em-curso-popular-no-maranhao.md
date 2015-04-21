@@ -5,7 +5,7 @@ tags:
   - tag: educação
   - tag: encontro-popular
 menu: "educação, cultura e comunicação"
-title: Jovens se reunem em curso popular no Maranhão
+title: Jovens se reúnem em curso popular no Maranhão
 support_line: Atividade contou com presença de mais de 250 jovens do estado e região.
 layout: post
 files:
