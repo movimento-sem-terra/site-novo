@@ -6,7 +6,7 @@ tags:
 title: "Carajás, 19 anos de impunidade "
 support_line: Duas décadas após o massacre os acusados ainda seguem livres.
 menu: lutas e mobilizações
-section: null
+section: featured-news
 layout: post
 files:
   - link: "http://farm8.staticflickr.com/7585/17152216036_6f5a9e532a_b.jpg"
@@ -42,7 +42,10 @@ files:
 created_date: "2015-04-17T11:57:41-03:00"
 published: true
 images_hd: "http://farm8.staticflickr.com/7636/16557970893_ac726fbd73_n.jpg"
-releated_posts: []
+releated_posts:
+  - 2015/04/2015-04-17-a-reforma-agraria-nao-foi-feita-quase-20-anos-depois-do-massacre-de-carajas.md
+  - 2015/04/2015-04-17-eldorado-de-carajas-para-nao-passar-em-branco.md
+  - 2015/04/2015-04-10-sem-terra-iniciam-atividades-no-para-em-homenagam-aos-martires-de-eldorado-dos-carajas.md
 
 ---
 <p>&nbsp;</p>
@@ -52,9 +55,8 @@ releated_posts: []
 <p><em>Por Maura Silva<br />
 Da P&aacute;gina do MST</em></p>
 
-<p>&nbsp;</p>
-
-<p>O sol estava quente na tarde daquele 17 de abril. O ano 1996. A cidade de Eldorado dos Caraj&aacute;s, sul do Estado do Par&aacute;. Naquele dia a Pol&iacute;cia Militar do Estado, enviada para desobstruir a rodovia BR 150, promoveu um massacre contra camponeses do MST. Foram 21 pessoas mortas.</p>
+<p><br />
+O sol estava quente na tarde daquele 17 de abril. O ano 1996. A cidade de Eldorado dos Caraj&aacute;s, sul do Estado do Par&aacute;. Naquele dia a Pol&iacute;cia Militar do Estado, enviada para desobstruir a rodovia BR 150, promoveu um massacre contra camponeses do MST. Foram 21 pessoas mortas.</p>
 
 <p><br />
 Sob o comando do coronel Mario Colares Pantoja e do major Jos&eacute; Maria Pereira de Oliveira, por volta das 17h, os 155 policiais envolvidos abriram fogo contra os sem terra.</p>
