@@ -9,19 +9,21 @@ menu: lutas e mobilizações
 support_line: "Na semana do dia 26 de abril, uma série de atos e debates por todo o país irão questionar o papel da empresa na história política do Brasil."
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7618/16609375753_7c09403754_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7618/16609375753_7c09403754_t.jpg"
-    medium: "http://farm8.staticflickr.com/7618/16609375753_7c09403754_z.jpg"
-    small: "http://farm8.staticflickr.com/7618/16609375753_7c09403754_n.jpg"
-    title: Dia-nacional-de-lutas_Rafael-Stedile_0.gif
-    $$hashKey: 02K
+  - link: "http://farm8.staticflickr.com/7676/16614185754_5c306930d1_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7676/16614185754_5c306930d1_t.jpg"
+    medium: "http://farm8.staticflickr.com/7676/16614185754_5c306930d1_z.jpg"
+    small: "http://farm8.staticflickr.com/7676/16614185754_5c306930d1_n.jpg"
+    title: o povo nao é bobo.jpg
+    $$hashKey: 0L8
 created_date: "2015-04-21T23:09:29-03:00"
 published: true
-images_hd: "http://farm8.staticflickr.com/7618/16609375753_7c09403754_n.jpg"
+images_hd: "http://farm8.staticflickr.com/7676/16614185754_5c306930d1_n.jpg"
 releated_posts: []
+section: featured-news
 
 ---
-<p><br />
+<p><img alt="o povo nao é bobo.jpg" src="http://farm8.staticflickr.com/7676/16614185754_5c306930d1_b.jpg" /><br />
+<br />
 <em>Do Brasil de Fato</em></p>
 
 <p><br />
