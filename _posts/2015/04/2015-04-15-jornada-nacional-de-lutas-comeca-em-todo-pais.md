@@ -4,7 +4,7 @@ tags:
   - tag: jornadad-e-lutas-abril-2015
   - tag: reforma-agrária
   - tag: lutas-e-mobilizações
-title: "MST mobiliza mais de 15 estados em Jornada de Lutas "
+title: MST mobiliza mais de 15 estados em Jornada de Lutas
 support_line: "Além da Reforma Agrária, agenda de ações pauta projeto de lei das terceirizações, reforma política e a taxação de grandes fortunas."
 menu: lutas e mobilizações
 layout: post
