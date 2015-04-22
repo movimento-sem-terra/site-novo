@@ -100,12 +100,12 @@ $(document).ready(function() {
 
 
 
-  $('#music').on('click','.player .track a',function(e){
+  $('#musicoteca').on('click','.player .track a',function(e){
     e.preventDefault();
     runMusic($(this));
   });
 
-  $('#music').on('click', '.btn-play', function() {
+  $('#musicoteca').on('click', '.btn-play', function() {
     openAlbum(getParent($(this), '.album'));
     var album = getParent($(this),'.album');
     var playlist = album.find('.playlist');
@@ -119,7 +119,7 @@ $(document).ready(function() {
     }
   });
 
-  $('#music').on('click','.btn-pause',function() {
+  $('#musicoteca').on('click','.btn-pause',function() {
     var album = getParent($(this),'.album');
     var playlist = album.find('.playlist');
     album.find('audio').get(0).pause();
@@ -139,11 +139,11 @@ $(document).ready(function() {
     runMusic($(tracks[position]));
   };
 
-  $('#music').on('click','.btn-prev', function(){
+  $('#musicoteca').on('click','.btn-prev', function(){
     changeMusic(-1);
   });
 
-  $('#music').on('click','.btn-next', function(){
+  $('#musicoteca').on('click','.btn-next', function(){
     changeMusic(1);
   });
 

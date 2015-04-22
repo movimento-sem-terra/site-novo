@@ -4,8 +4,9 @@ title: Musicoteca
 styles: ["playlist.css"]
 scripts: ["playlist.js"]
 ---
-<main id="music">
-  <section id="about">
+<main id="musicoteca">
+  <header>
+
     <div class="content">
       <h2>Musicoteca</h2>
       <div id="summary">
@@ -13,26 +14,29 @@ scripts: ["playlist.js"]
         <p>Suco de cevadiss, é um leite divinis, qui tem lupuliz, matis, aguis e fermentis. Interagi no mé, cursus quis, vehicula ac nisi. Aenean vel dui dui. Nullam leo erat, aliquet quis tempus a, posuere ut mi. Ut scelerisque neque et turpis posuere pulvinar pellentesque nibh ullamcorper. Pharetra in mattis molestie, volutpat elementum justo. Aenean ut ante turpis. Pellentesque laoreet mé vel lectus scelerisque interdum cursus velit auctor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ac mauris lectus, non scelerisque augue. Aenean justo massa.</p>
       </div>
     </div>
-  </section>
-  <nav>
-    <ul>
-      <li>
-        <a href="#albuns">
-          Albuns
-        </a>
-      </li>
-      <li>
-        <a href="#videos">
-          Videos
-        </a>
-      </li>
-      <li>
-        <a href="#mst-indica">
-          Indicamos
-        </a>
-      </li>
-    </ul>
-  </nav>
+
+    <nav>
+      <ul>
+        <li>
+          <a href="#albuns">
+            Albuns
+          </a>
+        </li>
+        <li>
+          <a href="#videos">
+            Videos
+          </a>
+        </li>
+        <li>
+          <a href="#mst-indica">
+            Indicamos
+          </a>
+        </li>
+      </ul>
+    </nav>
+
+  </header>
+
   <ul id="albuns">
     {% for album in site.data.playlist %}
     <li>
