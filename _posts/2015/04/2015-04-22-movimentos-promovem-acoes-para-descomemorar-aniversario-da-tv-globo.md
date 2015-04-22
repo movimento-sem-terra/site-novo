@@ -6,7 +6,7 @@ tags:
   - tag: mobilizações
 title: Movimentos promovem ações para “descomemorar” aniversário da TV Globo
 menu: lutas e mobilizações
-support_line: "Na semana do dia 26 de abril, uma série de atos e debates por todo o país irão questionar o papel da empresa na história política do Brasil"
+support_line: "Na semana do dia 26 de abril, uma série de atos e debates por todo o país irão questionar o papel da empresa na história política do Brasil."
 layout: post
 files:
   - link: "http://farm8.staticflickr.com/7618/16609375753_7c09403754_b.jpg"
