@@ -40,10 +40,8 @@ releated_posts:
 <p><br />
 <em>Da Revista F&oacute;rum</em></p>
 
-<p>&nbsp;
 <p><br />
 O Brasil lidera, pelo quarto ano consecutivo, a lista de pa&iacute;ses que mais tiveram ativistas ambientais e agr&aacute;rios assassinados. &Eacute; o que revela a ONG internacional Global Witness que divulgou balan&ccedil;o nesta segunda-feira (20).</p>
-</p>
 
 <p><br />
 Segundo a organiza&ccedil;&atilde;o, das 29 mortes de l&iacute;deres e militantes de causas ambientais ou agr&aacute;rias registradas no pa&iacute;s no ano passado, 26 delas estavam ligadas a conflitos de terra. Quatro das v&iacute;timas eram ind&iacute;genas.</p>
