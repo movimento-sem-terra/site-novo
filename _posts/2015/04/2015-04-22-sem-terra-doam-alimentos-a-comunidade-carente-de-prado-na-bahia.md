@@ -28,26 +28,29 @@ releated_posts:
 
 ---
 <p><img alt="doação_alimentos.jpg" src="http://farm8.staticflickr.com/7627/17236097515_201ef67350_b.jpg" /><br />
+<br />
 <em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
-As fam&iacute;lias carentes do bairro de S&atilde;o Br&aacute;s, no munic&iacute;pio do Prado - extremo sul da Bahia &ndash; receberam a solidariedade dos trabalhadores Sem Terra da regi&atilde;o, nesta segunda-feira (20), que doaram diversos alimentos produzidos nos Assentamentos e Acampamentos do MST.</p>
+As fam&iacute;lias carentes do bairro de S&atilde;o Br&aacute;s, no munic&iacute;pio do Prado - extremo sul da Bahia &ndash; receberam a solidariedade dos trabalhadores Sem Terra, que doaram 4 toneladas de alimentos produzidos nos Assentamentos e Acampamentos do MST, nesta segunda-feira (20).</p>
 
 <p><br />
 A comunidade recebeu uma diversidade de frutas, verduras e legumes, al&eacute;m de alimentos b&aacute;sicos como feij&atilde;o, farinha de mandioca e arroz. A entrega dos alimentos foi acompanhada pelo debate da Reforma Agr&aacute;ria e soberania alimentar.</p>
 
 <p><br />
-Carlos Roberto, da dire&ccedil;&atilde;o estadual do MST, falou sobre os grandes monop&oacute;lios da produ&ccedil;&atilde;o, distribui&ccedil;&atilde;o e comercializa&ccedil;&atilde;o de toda cadeia produtiva de alimentos, que acaba dificultando o acesso &agrave; alimenta&ccedil;&atilde;o a parcela da popula&ccedil;&atilde;o.</p>
+Carlos Roberto, da dire&ccedil;&atilde;o estadual do MST, falou sobre os grandes monop&oacute;lios da produ&ccedil;&atilde;o, distribui&ccedil;&atilde;o e comercializa&ccedil;&atilde;o de toda cadeia produtiva de alimentos, que acaba dificultando o acesso &agrave; alimenta&ccedil;&atilde;o para parcela da popula&ccedil;&atilde;o.</p>
 
 <p><br />
-&ldquo;A agricultura camponesa produz alimentos saud&aacute;veis, conseguindo garantir uma produ&ccedil;&atilde;o em grande escala que beneficie toda popula&ccedil;&atilde;o, sem a explora&ccedil;&atilde;o do trabalho e consolidando uma sociedade emancipada&rdquo;, ponderou.<br />
-Outro fator pontuado durante a entrega dos alimentos foi &agrave; invisibilidade dada pelos grandes ve&iacute;culos de comunica&ccedil;&atilde;o em rela&ccedil;&atilde;o &agrave; produ&ccedil;&atilde;o camponesa e a criminaliza&ccedil;&atilde;o da luta pela Reforma Agr&aacute;ria.</p>
+&ldquo;A agricultura camponesa produz alimentos saud&aacute;veis, conseguindo garantir uma produ&ccedil;&atilde;o em grande escala que beneficie toda popula&ccedil;&atilde;o, sem a explora&ccedil;&atilde;o do trabalho e consolidando uma sociedade emancipada&rdquo;, ponderou.</p>
 
 <p><br />
-&ldquo;70% dos alimentos que est&atilde;o na mesa dos trabalhadores vem dos pequenos agricultores. Por&eacute;m, ningu&eacute;m fica sabendo, e as empresas de comunica&ccedil;&atilde;o, financiadas pelo agroneg&oacute;cio, escondem essas informa&ccedil;&otilde;es da popula&ccedil;&atilde;o&rdquo;, enfatizou Carlos.</p>
+Outro elemento pontuado durante a entrega dos alimentos foi &agrave; invisibilidade dada pelos grandes ve&iacute;culos de comunica&ccedil;&atilde;o em rela&ccedil;&atilde;o &agrave; produ&ccedil;&atilde;o camponesa e a criminaliza&ccedil;&atilde;o da luta pela Reforma Agr&aacute;ria.</p>
 
 <p><br />
-Foram doadas cerca de quatro toneladas de alimentos produzidos a partir da agroecologia, sem o uso de agrot&oacute;xicos.</p>
+&ldquo;70% dos alimentos que est&atilde;o na mesa dos trabalhadores v&ecirc;m dos pequenos agricultores. Por&eacute;m, ningu&eacute;m fica sabendo, e as empresas de comunica&ccedil;&atilde;o, financiadas pelo agroneg&oacute;cio, escondem essas informa&ccedil;&otilde;es da popula&ccedil;&atilde;o&rdquo;, enfatizou Carlos.</p>
+
+<p><br />
+As cerca de quatro toneladas de alimentos que foram doadas tem como base a produ&ccedil;&atilde;o agroecol&oacute;gica, sem o uso de agrot&oacute;xicos.</p>
 
 <p><br />
 Nos pr&oacute;ximos dias os Sem Terra pretendem levar alimentos da Reforma Agr&aacute;ria a outros bairros do Prado.</p>
