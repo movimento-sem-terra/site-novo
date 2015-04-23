@@ -5,7 +5,7 @@ tags:
   - tag: rio-grande-do-sul
   - tag: lutas-e-mobilizações
   - tag: ocupação
-title: Audiência pública denuncia crimes ambientais em Fazenda ocupada pelos Sem Terra
+title: Audiência pública denuncia crimes ambientais de fazenda ocupada pelos Sem Terra
 support_line: "Segundo os Sem Terra, a Fazenda dos Guerras, em Tapes (RS), não cumpre a função social e possui crimes ambientais."
 menu: reforma agrária
 sector: mass-front
