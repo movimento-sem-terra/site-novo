@@ -7,7 +7,7 @@ tags:
 title: "Sem Terra doam alimentos a comunidade carente de Prado, na Bahia"
 support_line: "Foram doadas cerca de quatro toneladas de alimentos produzidos a partir da agroecologia.\nNos próximos dias os Sem Terra pretendem levar a outros bairros do Prado."
 menu: agricultura camponesa
-section: cover
+section: null
 sector: production
 layout: post
 files:
