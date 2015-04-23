@@ -17,6 +17,12 @@ files:
     small: "http://farm8.staticflickr.com/7705/17039696367_10b8bb1e33_n.jpg"
     title: medalha.jpeg
     $$hashKey: 068
+  - link: "http://farm8.staticflickr.com/7634/17061377679_7ea4a60f26_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7634/17061377679_7ea4a60f26_t.jpg"
+    medium: "http://farm8.staticflickr.com/7634/17061377679_7ea4a60f26_z.jpg"
+    small: "http://farm8.staticflickr.com/7634/17061377679_7ea4a60f26_n.jpg"
+    title: Medalha Inconfidência JP.jpg
+    $$hashKey: 059
 created_date: "2015-04-23T15:19:42-03:00"
 published: true
 images_hd: "http://farm8.staticflickr.com/7705/17039696367_10b8bb1e33_n.jpg"
@@ -104,5 +110,8 @@ Salve, Salve Tiradentes!</p>
 <p style="text-align: right;"><br />
 Jo&atilde;o Pedro Stedile<br />
 Ouro Preto- Minas Gerais</p>
+
+<p><br />
+<img alt="Medalha Inconfidência JP.jpg" src="http://farm8.staticflickr.com/7634/17061377679_7ea4a60f26_b.jpg" /></p>
 
 <p style="text-align: right;">&nbsp;</p>
