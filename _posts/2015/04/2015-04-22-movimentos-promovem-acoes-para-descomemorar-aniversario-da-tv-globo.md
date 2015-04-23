@@ -4,7 +4,7 @@ tags:
   - tag: Fora-Globo
   - tag: democratização-da-mídia
   - tag: mobilizações
-title: Movimentos promovem ações para “descomemorar” aniversário da TV Globo
+title: Movimentos promovem ações para “descomemorar” aniversário da Globo
 menu: lutas e mobilizações
 support_line: "Na semana do dia 26 de abril, uma série de atos e debates por todo o país irão questionar o papel da empresa na história política do Brasil."
 layout: post
