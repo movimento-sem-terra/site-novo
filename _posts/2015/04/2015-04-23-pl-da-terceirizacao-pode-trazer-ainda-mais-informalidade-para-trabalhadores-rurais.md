@@ -7,7 +7,7 @@ tags:
 title: Terceirização pode trazer ainda mais informalidade a trabalhadores rurais
 support_line: "Quase 60% dos trabalhadores rurais não tem carteira assinada. A situação pode ficar ainda pior caso o projeto entre em vigor."
 menu: direitos humanos
-section: cover
+section: null
 layout: post
 files:
   - link: "http://farm8.staticflickr.com/7692/17058186469_219d21d960_b.jpg"
