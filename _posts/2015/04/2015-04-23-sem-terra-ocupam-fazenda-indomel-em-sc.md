@@ -9,24 +9,20 @@ menu: lutas e mobilizações
 support_line: As famílias exigem que o Incra reavalie as terras. Há suspeita de grilagem feita pelos donos.
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8755/16624666454_667bb9c36f_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8755/16624666454_667bb9c36f_t.jpg"
-    medium: "http://farm9.staticflickr.com/8755/16624666454_667bb9c36f_z.jpg"
-    small: "http://farm9.staticflickr.com/8755/16624666454_667bb9c36f_n.jpg"
-    title: 17351324.jpg
-    $$hashKey: 02Y
+  - link: "http://farm8.staticflickr.com/7626/16627460633_a1e50dde7a_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7626/16627460633_a1e50dde7a_t.jpg"
+    medium: "http://farm8.staticflickr.com/7626/16627460633_a1e50dde7a_z.jpg"
+    small: "http://farm8.staticflickr.com/7626/16627460633_a1e50dde7a_n.jpg"
+    title: bdf.gif
+    $$hashKey: "064"
 created_date: "2015-04-23T15:25:19-03:00"
 published: true
-images_hd: "http://farm9.staticflickr.com/8755/16624666454_667bb9c36f_n.jpg"
+images_hd: "http://farm8.staticflickr.com/7626/16627460633_a1e50dde7a_n.jpg"
 releated_posts:
-  - 2014/12/2014-11-17-sem-terra-na-paraiba-debatem-reforma-agraria-popular-em-encontro.md
   - 2014/12/2014-12-01-para-dirigente-do-mst-pauta-minima-sera-o-assentamento-de-120-mil-familias.md
-  - 2014/12/2014-12-09-apos-anos-de-luta-sem-terra-conquistam-maquinario-no-ms.md
-  - 2015/01/2015-01-05-mst-comeca-o-ano-trancando-rodovias-federais-no-mato-grosso-do-sul.md
-  - 2015/01/2015-01-12-sem-terra-ocupam-usina-falida-em-mato-grosso-do-sul.md
-  - 2015/03/2015-03-27-mst-lanca-cesta-de-pascoa-com-produtos-da-reforma-agraria.md
-  - 2015/04/2015-04-01-mst-lanca-cesta-de-pascoa-com-alimentos-da-agricultura-familiar.md
-  - 2014/07/2014-07-17-familias-sem-terra-seguem-na-luta-por-area-grilada-em-abelardo-luz.md
+  - 2015/04/2015-04-15-jornada-nacional-de-lutas-comeca-em-todo-pais.md
+  - 2015/04/2015-04-23-audiencia-publica-no-rs-denuncia-crimes-ambientais-em-fazenda-ocupa-pelos-sem-terra.md
+sector: mass-front
 
 ---
 <p><br />
