@@ -165,7 +165,7 @@ $(document).ready(function() {
   var openAlbum = function(album) {
     closeAll();
     var parent = getParent(album, 'li');
-    var top = parent.offset().top + parent.height() + 10;
+    var top = parent.offset().top + parent.height() + 30;
     var left = $('#albuns').offset().left;
     var width = $('#albuns').width();
     parent.addClass('open').find('.album');

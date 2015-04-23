@@ -102,25 +102,21 @@ main#musicoteca {
 
     & > li {
 
-      margin-right: 15px;
-      width: 250px;
-      height: 300px;
+      margin: 15px;
+      width: 315px;
+      height: 335px;
       display: inline-block;
       vertical-align: top;
       position: relative;
       margin-bottom: 10px;
       box-shadow: inset 0 3px 5px rgba(0,0,0, .3);
       background: linear-gradient(rgba(150,25,19, .2), transparent);
+      background-size: cover;
+
 
       .album {
 
-
-
-      }
-
-      .album {
-
-        transition-duration: .8s;
+        transition-duration: .5s;
         width: 100%;
         height: 100%;
         z-index: 10;
@@ -145,7 +141,7 @@ main#musicoteca {
 
 
         .btn-play, .btn-pause {
-          font-size: 1.7em;
+          font-size: 2.2em;
           background: $mst-red;
           border: none;
           border-radius: 50%;
@@ -173,7 +169,7 @@ main#musicoteca {
         }
 
         .cover {
-          height: 150px;
+          height: 205px;
           background-size: cover;
           img {
             display: none;
@@ -184,12 +180,12 @@ main#musicoteca {
 
         .playlist {
           padding: 10px;
-          margin-top: 13%;
+          margin-top: 13px;
 
           h2 {
             text-align: center;
             font-size: 1.2em;
-            font-weight: 100;
+            font-weight: 400;
             color: $mst-red;
           }
 
@@ -203,7 +199,7 @@ main#musicoteca {
             box-shadow: inset 2px 1px 6px #BBB;
             background: #F9F9F9;
             text-align: left;
-            height: 310px;
+            height: 350px;
             overflow: scroll;
             position: relative;
 
@@ -254,8 +250,8 @@ main#musicoteca {
 
           .controls {
             position: absolute;
-            top: 34%;
-            left: 34%;
+            top: 47%;
+            left: 38%;
 
             button{
               cursor: pointer;
@@ -330,20 +326,12 @@ main#musicoteca {
       }
 
       &.open {
-        margin-bottom: 520px;
-
-        @include media($mobile) {
-          margin-bottom: 540px;
-        }
+        margin-bottom: 545px;
 
         .album {
           height: 500px;
           box-shadow: 1px 2px 5px $mst-medium-gray;
-          perspective: 800px;
-
-          @include media($mobile) {
-            height: 520px;
-          }
+          z-index: 10;
 
           .cover {
             background-image: none !important;
