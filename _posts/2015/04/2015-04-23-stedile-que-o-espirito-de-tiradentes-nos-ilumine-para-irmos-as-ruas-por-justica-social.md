@@ -5,7 +5,7 @@ tags:
   - tag: reforma-agrária
   - tag: luta-pela-terra
   - tag: mst
-title: "Stedile: Que o espírito de Tiradentes nos ilumine para irmos às ruas por justiça social"
+title: "Stedile: Que o espírito de Tiradentes nos ilumine a irmos às ruas por justiça social"
 support_line: "Confira artigo de João Pedro Stedile sobre o significado da Medalha da Inconfidência, conferido a ele no último dia 21."
 menu: direitos humanos
 section: cover
