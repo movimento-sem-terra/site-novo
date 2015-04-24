@@ -23,6 +23,7 @@ releated_posts:
   - 2014/05/2014-05-29-apos-aprovacao-pec-do-trabalho-escravo-ja-corre-risco-de-resultar-em-retrocesso.md
   - 2014/06/2014-06-16-trabalho-escravo-a-batalha-pela-dignidade-esta-longe-do-fim.md
   - 2015/04/2015-04-01-governo-lanca-portaria-e-recria-lista-suja-do-trabalho-escravo.md
+label: articles
 
 ---
 <p><br />
