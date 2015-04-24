@@ -68,13 +68,11 @@ Durante os &uacute;ltimos cinco dias, centenas de fam&iacute;lias acampadas de M
 <p><br />
 O vilarejo onde se encontra o acampamento sempre foi pacato, com um n&uacute;mero reduzido de moradores. Ap&oacute;s o in&iacute;cio do acampamento batizado de &quot;Jos&eacute; M&aacute;rcio Zoia&quot; - em homenagem a um militante hist&oacute;rico do MST -, por&eacute;m, h&aacute; a esperan&ccedil;a de novas oportunidades econ&ocirc;micas, com a gera&ccedil;&atilde;o de renda e de emprego.</p>
 
-<p>&nbsp;
 <p><br />
 No gin&aacute;sio municipal do distrito de Jacare&iacute;, os Sem Terra realizaram a primeira reuni&atilde;o de organiza&ccedil;&atilde;o do acampamento, em que debateram a organicidade, as tarefas e o sentido daquela luta.</p>
-</p>
 
 <p><br />
-Segundo Jonas Carlos da Concei&ccedil;&atilde;o, da dire&ccedil;&atilde;o do MST, esse acampamento reacende a esperan&ccedil;a da funda&ccedil;&atilde;o do Movimento em Mato Grosso do Sul, em 1985, quando fam&iacute;lias que se encontravam em situa&ccedil;&atilde;o de risco em terras Paraguaias retornaram para o Brasil sem qualquer condi&ccedil;&atilde;o econ&ocirc;mica.</p>
+Segundo Jonas Carlos da Concei&ccedil;&atilde;o, da dire&ccedil;&atilde;o do MST, esse acampamento reacende a esperan&ccedil;a da funda&ccedil;&atilde;o do Movimento em Mato Grosso do Sul, em 1985, quando fam&iacute;lias que se encontravam em situa&ccedil;&atilde;o de risco em terras paraguaias retornaram para o Brasil sem qualquer condi&ccedil;&atilde;o econ&ocirc;mica.</p>
 
 <p><br />
 &quot;A hist&oacute;ria de funda&ccedil;&atilde;o do MST no estado come&ccedil;ou com a luta pelos direitos dos Brasiguaios. Por isso estamos aqui novamente, neste munic&iacute;pio de fronteira, onde muitos ainda vivem a mesma situa&ccedil;&atilde;o daquelas fam&iacute;lias no passado, acreditando que ir para o Paraguai ainda &eacute; uma sa&iacute;da para melhorar de vida, conseguir o seu peda&ccedil;o de ch&atilde;o. Mas ao chegar l&aacute; se deparam com uma realidade totalmente diferente, sem titula&ccedil;&atilde;o de terra, sem direitos, e na maioria das vezes s&atilde;o expulsos do local&quot;, explica.</p>
