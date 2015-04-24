@@ -4,7 +4,7 @@ tags:
   - tag: ctnbio
   - tag: transgênicos
   - tag: saúde
-support_line: "Com base em centenas de publicações referendadas por revistas especializadas de renome internacional, a ciência avisa: não é possível afirmar que os transgênicos são seguras para a saúde e o ambiente."
+support_line: "Com base em centenas de publicações, a ciência avisa: não é possível afirmar que os transgênicos são seguras para a saúde e o ambiente."
 menu: transgênicos
 label: articles
 title: Pesquisadores contestam natureza pró empresarial da CTNBio
