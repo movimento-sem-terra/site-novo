@@ -33,6 +33,7 @@ releated_posts:
   - 2015/04/2015-04-02-o-nosso-exercito-e-de-trabalhadores-que-lutam-pela-terra-diz-coordenador-do-mst.md
   - 2015/04/2015-04-16-em-visita-ao-brasil-o-ator-danny-glover-visitou-as-instalacoes.md
   - 2015/02/2015-02-02-90-anos-de-elizabeth-teixeira-mulher-marcada-para-viver.md
+label: articles
 
 ---
 <p><img alt="medalha.jpeg" src="http://farm8.staticflickr.com/7705/17039696367_10b8bb1e33_b.jpg" /><br />
