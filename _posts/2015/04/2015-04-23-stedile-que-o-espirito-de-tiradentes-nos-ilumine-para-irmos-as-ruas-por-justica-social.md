@@ -8,7 +8,7 @@ tags:
 title: "Stedile: Que o espírito de Tiradentes nos ilumine a irmos às ruas por justiça social"
 support_line: "Confira artigo de João Pedro Stedile sobre o significado da Medalha da Inconfidência, conferido a ele no último dia 21."
 menu: direitos humanos
-section: cover
+section: null
 layout: post
 files:
   - link: "http://farm8.staticflickr.com/7705/17039696367_10b8bb1e33_b.jpg"
