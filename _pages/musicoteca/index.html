@@ -37,64 +37,70 @@ scripts: ["playlist.js"]
 
   </header>
 
-  <ul id="albuns">
-    {% for album in site.data.playlist %}
-    <li>
-      <div class="album">
-        <div class="cover" style="background-image: url({{ album.cover }})">
-          <img src="{{ album.cover  }}"/>
-        </div>
+  <section id="albuns">
+    
+    <h2>Albuns</h2>
 
-        <div class="playlist">
-          
-          <header>
-            <h2>{{ album.name }}</h2>
-            <a href="{{ album.download }}" target="_blank" class="btn-download"><span class="fa fa-download fa-3"></span> Download</a>
-          </header>
-
-          <div class="player">
-            <audio preload="none" controls id="player_{{ forloop.index0 }}" data-current-track="0">
-              Sorry, your browser does not support HTML5 audio.
-            </audio>
-            <ul class="list">
-              {% for track in album.tracks  %}
-              <li class="track">
-                  <a href="#" data-index="{{ forloop.index0  }}" data-mp3="{{track.mp3}}" data-ogg="track.ogg">
-                    <img  src="{{ site.baseurl }}/assets/img/sound_playing.gif" class="icon-playing"/>
-                    <span class="fa fa-play"></span>
-                    <span class="fa fa-pause"></span>
-                    <span class="fa fa-circle-o-notch fa-spin"></span>
-                    {{ track.name }}
-                  </a>
-              </li>
-              {% endfor %}
-            </ul>
+    <ul>
+      {% for album in site.data.playlist %}
+      <li>
+        <div class="album">
+          <div class="cover" style="background-image: url({{ album.cover }})">
+            <img src="{{ album.cover  }}"/>
           </div>
 
-          <footer>
-            <progress value="0" max="1"></progress>
+          <div class="playlist">
 
-            <div class="controls">
-              <button class="btn-prev"><span class="fa fa-step-backward"></span></button>
-              <button class="btn-play"><span class="fa fa-play"></span></button>
-              <button class="btn-pause"><span class="fa fa-pause"></span></button>
-              <button class="btn-next"><span class="fa fa-step-forward"></span></button>
+            <header>
+              <h2>{{ album.name }}</h2>
+              <a href="{{ album.download }}" target="_blank" class="btn-download"><span class="fa fa-download fa-3"></span> Download</a>
+            </header>
+
+            <div class="player">
+              <audio preload="none" controls id="player_{{ forloop.index0 }}" data-current-track="0">
+                Sorry, your browser does not support HTML5 audio.
+              </audio>
+              <ul class="list">
+                {% for track in album.tracks  %}
+                <li class="track">
+                    <a href="#" data-index="{{ forloop.index0  }}" data-mp3="{{track.mp3}}" data-ogg="track.ogg">
+                      <img  src="{{ site.baseurl }}/assets/img/sound_playing.gif" class="icon-playing"/>
+                      <span class="fa fa-play"></span>
+                      <span class="fa fa-pause"></span>
+                      <span class="fa fa-circle-o-notch fa-spin"></span>
+                      {{ track.name }}
+                    </a>
+                </li>
+                {% endfor %}
+              </ul>
             </div>
 
-            <div class="time">
-              <span class="current">0:00</span>
-              <span class="pipe">|</span>
-              <span class="total">0:00</span>
-            </div>
-          </footer>
+            <footer>
+              <progress value="0" max="1"></progress>
+
+              <div class="controls">
+                <button class="btn-prev"><span class="fa fa-step-backward"></span></button>
+                <button class="btn-play"><span class="fa fa-play"></span></button>
+                <button class="btn-pause"><span class="fa fa-pause"></span></button>
+                <button class="btn-next"><span class="fa fa-step-forward"></span></button>
+              </div>
+
+              <div class="time">
+                <span class="current">0:00</span>
+                <span class="pipe">|</span>
+                <span class="total">0:00</span>
+              </div>
+            </footer>
+          </div>
+
         </div>
+      </li>
+      {% endfor %}
+    </ul>
+  </section>
 
-      </div>
-    </li>
-    {% endfor %}
-  </ul>
 
-  <div id="mst-indica">
+  <section id="mst-indica">
 
     <h2>MST indica</h2>
 
@@ -102,7 +108,7 @@ scripts: ["playlist.js"]
       <li><a href="#"> <img src="http://upload.wikimedia.org/wikipedia/commons/c/cb/Pereiradaviola.jpg" alt="Pereira da Viola" /> <br> Pereira da Viola </a></li>
       <li><a href="#"> <img src="http://www.vaiserrimando.com.br/wp-content/uploads/2013/08/mst-hip-hop.jpg?344b1a" alt="Veneno H2" /> <br> Veneno H2 </a></li>
     </ul>
-  </div>
+  </section>
 
 
 
