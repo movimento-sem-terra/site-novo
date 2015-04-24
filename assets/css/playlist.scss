@@ -95,7 +95,8 @@ main#musicoteca {
 
   section {
     padding: 60px 10px;
-    
+    @include outer-container;
+
     h2 {
       text-align: center;
       font-size: 2em;
@@ -107,7 +108,6 @@ main#musicoteca {
         text-align: center;
         background-size: cover;
         margin-top: 40px;
-        @include outer-container;
 
 
         & > li {
@@ -452,7 +452,6 @@ main#musicoteca {
 
 
     &#mst-indica {
-      @include outer-container;
 
       ul {
         text-align: center;
