@@ -33,13 +33,13 @@ releated_posts:
 Neste domingo (26), cerca 500 jovens do MST e do Levante Popular da Juventude realizam escrachos p&uacute;blicos em oito afiliadas da RBS no Rio Grande do Sul, para &ldquo;descomemorar&rdquo; o anivers&aacute;rio de 50 anos da Rede Globo.</p>
 
 <p><br />
-Com a chamada #Fora Globo Golpista, os escrachos acontecem nos munic&iacute;pios de Bag&eacute;, Caxias do Sul, Erechim, Pelotas, Passo Fundo, Santa Maria, Santa Cruz e Santa Rosa.</p>
+Com a chamada #ForaGloboGolpista, os escrachos acontecem nos munic&iacute;pios de Bag&eacute;, Caxias do Sul, Erechim, Pelotas, Passo Fundo, Santa Maria, Santa Cruz e Santa Rosa.</p>
 
 <p><br />
-Os atos fazem parte de um conjunto de atividades realizadas na semana do dia 26 de abril, por movimentos sociais, sindicatos, coletivos de juventude e m&iacute;dia alternativa no pa&iacute;s, que questionam o papel da empresa de comunica&ccedil;&atilde;o na hist&oacute;ria pol&iacute;tica do Brasil, as suspeitas de sonega&ccedil;&atilde;o de impostos e a barreira que esse monop&oacute;lio imp&otilde;e para a democratiza&ccedil;&atilde;o da comunica&ccedil;&atilde;o.</p>
+Os atos fazem parte de um conjunto de atividades realizadas na semana do dia 26 de abril, por movimentos sociais, sindicatos, coletivos de juventude e m&iacute;dia alternativa no pa&iacute;s, que questionam o papel da empresa de comunica&ccedil;&atilde;o na hist&oacute;ria pol&iacute;tica do Brasil, as suspeitas de sonega&ccedil;&atilde;o de impostos e a barreira que esse monop&oacute;lio imp&otilde;e para a democratiza&ccedil;&atilde;o da comunica&ccedil;&atilde;o (<a href="http://www.fndc.org.br/noticias/atos-descomemoram-50-anos-da-globo-em-sete-estados-924574/" target="_blank">clique aqui</a> para ver os locais dos atos).</p>
 
 <p><br />
-No manifesto&nbsp;&ldquo;50 anos da TV Globo: vamos descomemorar!&rdquo;, as entidades afirmam que o grupo midi&aacute;tico apoiou a ditadura militar - e foi beneficiada por isso -, e &ldquo;na fase recente, a TV Globo militou contra todo e qualquer avan&ccedil;o mais progressista, atuando na desestabiliza&ccedil;&atilde;o dos governos que n&atilde;o rezam integralmente a sua cartilha. Nas marchas de mar&ccedil;o desse ano, ela ajudou a mobilizar o anseio golpista&rdquo;.</p>
+No manifesto<a href="http://www.mst.org.br/2015/04/22/movimentos-promovem-acoes-para-descomemorar-aniversario-da-tv-globo.html" target="_blank">&nbsp;&ldquo;50 anos da TV Globo: vamos descomemorar!&rdquo;,</a> as entidades afirmam que o grupo midi&aacute;tico apoiou a ditadura militar - e foi beneficiada por isso -, e &ldquo;na fase recente, a TV Globo militou contra todo e qualquer avan&ccedil;o mais progressista, atuando na desestabiliza&ccedil;&atilde;o dos governos que n&atilde;o rezam integralmente a sua cartilha. Nas marchas de mar&ccedil;o desse ano, ela ajudou a mobilizar o anseio golpista&rdquo;.</p>
 
 <p><br />
 Segundo as organiza&ccedil;&otilde;es, &eacute;&nbsp;necess&aacute;rio que a popula&ccedil;&atilde;o se mobilize para exigir uma m&iacute;dia democr&aacute;tica, enfrentando o controle e impondo limites a Globo, uma das maiores emissoras de comunica&ccedil;&atilde;o do pa&iacute;s.</p>
