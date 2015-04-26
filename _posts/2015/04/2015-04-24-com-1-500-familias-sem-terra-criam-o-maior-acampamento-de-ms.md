@@ -8,7 +8,7 @@ title: "Com 1.500 famílias, Sem Terra criam o maior acampamento de MS"
 support_line: "Fronteira com o Paraguai, o acampamento organiza centenas de famílias que tentaram construir suas vidas em terras paraguaias."
 menu: reforma agrária
 sector: mass-front
-section: cover
+section: null
 layout: post
 files:
   - link: "http://farm9.staticflickr.com/8800/17228900006_82022a2e06_b.jpg"
