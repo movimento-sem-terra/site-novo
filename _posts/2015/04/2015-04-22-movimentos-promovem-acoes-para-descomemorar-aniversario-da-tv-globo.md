@@ -19,7 +19,7 @@ created_date: "2015-04-21T23:09:29-03:00"
 published: true
 images_hd: "http://farm8.staticflickr.com/7676/16614185754_5c306930d1_n.jpg"
 releated_posts: []
-section: featured-news
+section: null
 
 ---
 <p><img alt="o povo nao é bobo.jpg" src="http://farm8.staticflickr.com/7676/16614185754_5c306930d1_b.jpg" /><br />
