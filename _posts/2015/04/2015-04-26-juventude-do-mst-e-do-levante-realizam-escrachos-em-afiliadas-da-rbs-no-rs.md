@@ -7,7 +7,7 @@ tags:
 title: "Juventude do MST e do Levante realizam escrachos em afiliadas da RBS, no RS"
 menu: "educação, cultura e comunicação"
 support_line: "Com a chamada #Fora Globo Golpista, os escrachos acontecem nos municípios de Bagé, Caxias do Sul, Erechim, Pelotas, Passo Fundo, Santa Maria, Santa Cruz e Santa Rosa."
-section: cover
+section: null
 layout: post
 files:
   - link: "http://farm8.staticflickr.com/7661/17274418292_2bab2057ca_b.jpg"
