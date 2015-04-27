@@ -1,5 +1,5 @@
 ---
-date: "2015-04-27T14:01:46-03:00"
+date: "2015-04-27T05:01:46-03:00"
 tags: []
 title: Evento marca encerramento do I Curso Popular da Juventude no Maranhão
 support_line: Encontro debateu  o papel da juventude no campo e na cidade.
