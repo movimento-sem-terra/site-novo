@@ -30,7 +30,7 @@ files:
     $$hashKey: 02E
 created_date: "2015-04-27T13:16:15-03:00"
 published: true
-images_hd: "http://farm9.staticflickr.com/8775/17104492849_164f6471e0_n.jpg"
+images_hd: "http://farm9.staticflickr.com/8818/17103141550_e2ca949e92_n.jpg"
 releated_posts:
   - 2015/04/2015-04-23-audiencia-publica-no-rs-denuncia-crimes-ambientais-em-fazenda-ocupa-pelos-sem-terra.md
   - 2014/07/2014-07-03-incra-contesta-titulo-de-propriedade-da-empresa-araupel-no-parana.md
@@ -46,10 +46,8 @@ releated_posts:
 <p><br />
 <em>Da P&aacute;gina do MST*</em></p>
 
-<p>&nbsp;
 <p><br />
 Mais de 200 pessoas estiveram presentes na Escola Estadual Gaston C&eacute;sar, em Tapes, no Rio Grande do Sul, para participarem da Audi&ecirc;ncia P&uacute;blica sobre a situa&ccedil;&atilde;o ambiental da fazenda dos Guerra, ocupada por 1.500 fam&iacute;lias do MST no &uacute;ltimo dia 16/04.</p>
-</p>
 
 <p><br />
 Convocada pelo MST e pela Frente de Defesa da Lagoa dos Patos, a atividade aconteceu na noite da &uacute;ltima quinta-feira (23), e tinha como objetivo denunciar aos &oacute;rg&atilde;os p&uacute;blicos os crimes ambientais cometidos pela empresa Pinheirais Ga&uacute;chos de Investimentos (Pinvest), propriet&aacute;ria da &aacute;rea.</p>
