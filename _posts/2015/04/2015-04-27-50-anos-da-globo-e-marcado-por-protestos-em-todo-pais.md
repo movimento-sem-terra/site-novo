@@ -5,9 +5,9 @@ tags:
   - tag: democratização-da-comunicação
   - tag: lutas-e-mobilizações
 support_line: Emissora também é lembrada por criminalizar movimentos sociais e por envolvimento em denúncias de sonegação fiscal.
-title: 50 anos da Globo é marcado por protestos em todo país
+title: "Em São Paulo, Rede Globo é escrachada no dia de seu aniversário"
 menu: lutas e mobilizações
-section: cover
+section: null
 layout: post
 files:
   - link: "http://farm9.staticflickr.com/8794/17286245892_4abe56de0e_b.jpg"
