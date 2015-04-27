@@ -119,4 +119,4 @@ CUT, MTST, UNE, Levante Popular da Juventude, Intervozes e Juntos estavam entre 
 
 <p><img alt="50 anos.jpg" src="http://farm8.staticflickr.com/7713/17100307388_1947f8f111_b.jpg" /></p>
 
-<p><img alt="50.jpg" src="http://farm9.staticflickr.com/8794/17286245892_4abe56de0e_b.jpg" /></p>
+<p>&nbsp;</p>
