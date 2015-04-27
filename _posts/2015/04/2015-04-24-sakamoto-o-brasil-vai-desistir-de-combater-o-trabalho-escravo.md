@@ -5,7 +5,7 @@ tags:
   - tag: direitos-humanos
   - tag: PEC-trabalho-escravo
 title: "Sakamoto: o Brasil vai desistir de combater o trabalho escravo?"
-support_line: Câmara discute mudar a definição do crime. Condições degradantes e jornada exaustiva deixariam de fazer parte do conjunto de fatores que caracterizam a exploração.
+support_line: Condições degradantes e jornada exaustiva deixariam de fazer parte do conjunto de fatores que caracterizam a exploração.
 menu: direitos humanos
 layout: post
 files:
