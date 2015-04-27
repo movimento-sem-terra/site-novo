@@ -77,6 +77,11 @@ main#musicoteca {
             color: white;
             font-weight: bold;
             font-size: 1.5em;
+
+            @include media($mobile) {
+              font-size: 1em;
+            }
+
             text-decoration: none;
 
             &::after{
