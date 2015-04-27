@@ -34,16 +34,28 @@ files:
     small: "http://farm8.staticflickr.com/7713/17100307388_1947f8f111_n.jpg"
     title: 50 anos.jpg
     $$hashKey: 0AE
+  - link: "http://farm8.staticflickr.com/7697/17287661001_9a5c61d952_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7697/17287661001_9a5c61d952_t.jpg"
+    medium: "http://farm8.staticflickr.com/7697/17287661001_9a5c61d952_z.jpg"
+    small: "http://farm8.staticflickr.com/7697/17287661001_9a5c61d952_n.jpg"
+    title: esgoto.jpeg
+    $$hashKey: 0K3
+  - link: "http://farm9.staticflickr.com/8742/17262218806_292b50e478_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8742/17262218806_292b50e478_t.jpg"
+    medium: "http://farm9.staticflickr.com/8742/17262218806_292b50e478_z.jpg"
+    small: "http://farm9.staticflickr.com/8742/17262218806_292b50e478_n.jpg"
+    title: tinta.jpeg
+    $$hashKey: 0K6
 created_date: "2015-04-27T08:25:15-03:00"
 published: true
-images_hd: "http://farm9.staticflickr.com/8794/17286245892_4abe56de0e_n.jpg"
+images_hd: "http://farm8.staticflickr.com/7697/17287661001_9a5c61d952_n.jpg"
 releated_posts:
   - 2014/06/2014-06-26-mst-ocupa-radio-no-sertao-de-sergipe-e-exige-democratizacao-da-comunicacao.md
   - 2014/07/2014-07-01-o-mst-e-o-latifundio-da-midia-em-sergipe-as-cercas-que-precisam-ser-quebradas.md
   - 2015/04/2015-04-26-juventude-do-mst-e-do-levante-realizam-escrachos-em-afiliadas-da-rbs-no-rs.md
 
 ---
-<p><img alt="50.jpg" src="http://farm9.staticflickr.com/8794/17286245892_4abe56de0e_b.jpg" /><br />
+<p><img alt="esgoto.jpeg" src="http://farm8.staticflickr.com/7697/17287661001_9a5c61d952_b.jpg" /><br />
 <br />
 <em>Por Igor Carvalho<br />
 Da RBA</em></p>
@@ -56,8 +68,8 @@ Na era em que o combate &agrave; corrup&ccedil;&atilde;o e o discurso da moral e
 
 <p>&nbsp;</p>
 
-<figure class="image" style="float:right"><img alt="zorra.jpg" src="http://farm8.staticflickr.com/7658/17262124796_37d646c312_b.jpg" />
-<figcaption>Foto: M&iacute;dia Ninja</figcaption>
+<figure class="image" style="float:right"><img alt="jornalista.jpg" src="http://farm8.staticflickr.com/7712/17100521270_84e653d1ed_b.jpg" />
+<figcaption>Foto: M&iacute;dia Ninja.</figcaption>
 </figure>
 
 <p>&quot;Meus filhos assistem TV e eles assistem a Globo, mas precisam saber, desde cedo, que a Globo manipula e que poder&iacute;amos ser um pa&iacute;s melhor sem ela&rdquo;, declarou Edson Vargas, que veio de bicicleta de Ribeir&atilde;o Pires, na regi&atilde;o do ABCD paulista, com os dois filhos, de 12 e 10 anos, somente para participar da manifesta&ccedil;&atilde;o.</p>
@@ -68,19 +80,24 @@ Quando o ato saiu da pra&ccedil;a e ocupou a avenida Luiz Carlos Berrini, eram 4
 <p><br />
 Durante toda a &uacute;ltima semana, sob o comando do editor do Jornal Nacional, William Bonner, a Globo fez uma retrospectiva do jornalismo da emissora nos &uacute;ltimos 50 anos. &quot;Foi uma piada&quot;, atacou Altamiro Borges, jornalista e coordenador do Centro de Estudos da M&iacute;dia Bar&atilde;o de Itarar&eacute;, que comparou a emissora carioca a um &quot;assassino&quot;. &quot;Eles te matam e depois pedem desculpas &agrave; fam&iacute;lia. Do que adianta? O caos j&aacute; est&aacute; feito. Se a Globo n&atilde;o manipula o debate de 1989, onde o Brasil estaria hoje? Sem o apoio da Globo ao golpe militar de 1964, onde o Brasil estaria hoje?&quot;, disse, referindo-se ao debate presidencial entre os ent&atilde;o candidatos Lula e Fernando Collor, em que este acabou eleito. A pr&oacute;pria emissora, por meio de alguns de seus executivos &agrave; &eacute;poca, j&aacute; admitiu ter editado trechos do debate para favorecer a candidatura de Collor.</p>
 
-<p>&nbsp;</p>
-
-<figure class="image" style="float:left"><img alt="jornalista.jpg" src="http://farm8.staticflickr.com/7712/17100521270_84e653d1ed_b.jpg" />
-<figcaption>Foto: M&iacute;dia Ninja</figcaption>
+<figure class="image"><img alt="50.jpg" src="http://farm9.staticflickr.com/8794/17286245892_4abe56de0e_b.jpg" />
+<figcaption>Foto: M&iacute;dia Ninja.</figcaption>
 </figure>
 
-<p>Comum entre os manifestantes era a lembran&ccedil;a de que a emissora, durante seus 50 anos, foi respons&aacute;vel pela criminaliza&ccedil;&atilde;o e inviabiliza&ccedil;&atilde;o de diversos movimentos sociais.</p>
+<p><br />
+Comum entre os manifestantes era a lembran&ccedil;a de que a emissora, durante seus 50 anos, foi respons&aacute;vel pela criminaliza&ccedil;&atilde;o e inviabiliza&ccedil;&atilde;o de diversos movimentos sociais.</p>
 
 <p><br />
 &quot;Na Globo, n&oacute;s, os movimentos sociais, sempre somos tratados como &#39;v&acirc;ndalos&#39;, nossos atos est&atilde;o sempre vazios e os discursos s&atilde;o manipulados pelos rep&oacute;rteres deles&quot;, lembrou Jussara Basso, da coordena&ccedil;&atilde;o nacional do MTST. &quot;Como concess&atilde;o p&uacute;blica, eles deveriam transmitir ao povo o que est&aacute; acontecendo, eles devem satisfa&ccedil;&atilde;o ao povo, mas mentem e n&atilde;o s&atilde;o cobrados por isso.&quot;</p>
 
 <p><br />
-<strong>Tinta vermelha</strong></p>
+&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="zorra.jpg" src="http://farm8.staticflickr.com/7658/17262124796_37d646c312_b.jpg" />
+<figcaption>Foto: M&iacute;dia Ninja.</figcaption>
+</figure>
+
+<p><strong>Tinta vermelha</strong></p>
 
 <p><br />
 J&aacute; na entrada principal da Rede Globo, os manifestantes picharam no muro algumas mensagens: &quot;Assassina&quot;, &quot;Globo Mente&quot; e &quot;Globo Golpista&quot;. Durante o protesto, algumas palavras de ordem foram gritadas e quatro bal&otilde;es com tintas vermelhas foram arremessados contra o muro.</p>
@@ -95,10 +112,11 @@ Passava das 18h quando os manifestantes come&ccedil;aram a retornar &agrave; pra
 CUT, MTST, UNE, Levante Popular da Juventude, Intervozes e Juntos estavam entre as entidades que organizaram o ato.</p>
 
 <p><br />
-*&nbsp;Nesse domingo, foram realizadas manifesta&ccedil;&otilde;es em Bras&iacute;lia/DF, S&atilde;o Paulo/SP e Belo Horizonte, em frente &agrave;s respectivas sedes da emissora, em Recife/PE, na Pra&ccedil;a do Arsenal e em Porto Alegre (nos Arcos da Reden&ccedil;&atilde;o) e Bag&eacute;/RS (Pra&ccedil;a dos Esportes).&nbsp;Em Curitiba/PR, o ato p&uacute;blico est&aacute; marcado para essa segunda-feira (27).</p>
+*&nbsp;Nesse domingo, foram realizadas manifesta&ccedil;&otilde;es em Bras&iacute;lia/DF, S&atilde;o Paulo/SP e Belo Horizonte, em frente &agrave;s respectivas sedes da emissora, em Recife/PE, na Pra&ccedil;a do Arsenal e em Porto Alegre (nos Arcos da Reden&ccedil;&atilde;o) e Bag&eacute;/RS (Pra&ccedil;a dos Esportes).&nbsp;Em Curitiba/PR, o ato p&uacute;blico est&aacute; marcado para essa segunda-feira (27).<br />
+&nbsp;</p>
 
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
+<p><img alt="tinta.jpeg" src="http://farm9.staticflickr.com/8742/17262218806_292b50e478_b.jpg" /></p>
 
 <p><img alt="50 anos.jpg" src="http://farm8.staticflickr.com/7713/17100307388_1947f8f111_b.jpg" /></p>
+
+<p><img alt="50.jpg" src="http://farm9.staticflickr.com/8794/17286245892_4abe56de0e_b.jpg" /></p>
