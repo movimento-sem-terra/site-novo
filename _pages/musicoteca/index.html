@@ -99,6 +99,32 @@ scripts: ["playlist.js"]
     </ul>
   </section>
 
+  <section id="videos">
+    <h2>Vídeos</h2>
+
+    <ul>
+      {% for video in site.musicoteca.videos  %}
+        <li>
+          <iframe width="560" height="315" src="{{ video.video }}showinfo=0" frameborder="0" allowfullscreen></iframe>
+          <div>
+            <h3><a href="{{ video.url }}" title="link para a postagem do video">{{ video.title }}</a></h3>
+            <p>
+              {{ video.description }}
+            </p>
+          </div>
+        </li>
+      {% endfor %}
+      <li>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/tolDskXHk90?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+        <div>
+          <h3>Canções da Terra - Um resgate histórico das músicas do MST</h3>
+          <p>
+            Canções da Terra é um documentário sobre as músicas do MST e o processo de regravação do primeiro CD do movimento, o Dor e Esperança. Gravado em 1984, foi o primeiro registro sonoro que agora foi remasterizado e incluídas faixas adicionais. O processo de escolha de gravação deste CD, foi um intenso processo de discussão coletiva que revelam a importância e o papel da música na luta.
+          </p>
+        </div>
+      </li>
+    </ul>
+  </section>
 
   <section id="mst-indica">
 

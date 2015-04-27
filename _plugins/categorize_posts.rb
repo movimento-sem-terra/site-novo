@@ -25,6 +25,7 @@ module Jekyll
 
       articles = find 'articles', 'label'
       interviews = find 'interviews', 'label'
+      musicoteca  = find 'musicoteca', 'label'
       site.config['cover'] = cover
       site.config['articles'] = articles
       site.config['carousel'] = carousel
