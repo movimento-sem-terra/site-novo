@@ -7,6 +7,11 @@
     "required": true,
     "type": {
       "view": "date"
+    },
+    "need": {
+      "field": "section",
+      "equal": false,
+      "value": "musicoteca"
     }
 },
 {
@@ -16,6 +21,11 @@
   "placeholder": "Informe o chapéu",
   "type": {
     "view": "textarea"
+  },
+  "need": {
+    "field": "section",
+    "equal": false,
+    "value": "musicoteca"
   }
 },
 {
@@ -60,7 +70,7 @@
   "need": {
     "field": "section",
     "equal": false,
-    "value": ["campaign", "newspaper"]
+    "value": ["campaign", "newspaper", "musicoteca"]
   }
 },
 {
@@ -81,7 +91,7 @@
 },
 {
   "name": "link-campaign",
-  "title": "Link da Campanha",
+  "title": "Link",
   "required": true,
   "type": {
     "view": "textarea"
@@ -89,7 +99,7 @@
   "need": {
     "field": "section",
     "equal": true,
-    "value": "campaign"
+    "value": ["campaign", "musicoteca"]
   }
 },
 {
@@ -106,7 +116,7 @@
   "need": {
     "field": "section",
     "equal": true,
-    "value": ["campaign","musicoteca"]
+    "value": "campaign"
   }
 },
 {
@@ -120,6 +130,11 @@
     {"name": "Entrevista", "id": "interviews"},
     {"name": "Reportagens Especiais", "id": "special-stories"}
     ]
+  },
+  "need": {
+    "field": "section",
+    "equal": false,
+    "value": "musicoteca"
   }
 },
 {
@@ -134,7 +149,13 @@
     {"name": "Cultura", "id": "culture"},
     {"name": "Frente de Massa", "id": "mass-front"}
     ]
+  },
+  "need": {
+    "field": "section",
+    "equal": false,
+    "value": "musicoteca"
   }
+
 },
 {
   "name": "video",
@@ -175,6 +196,11 @@
   "required": false,
   "type": {
     "view": "tagging"
+  },
+  "need": {
+    "field": "section",
+    "equal": false,
+    "value": "musicoteca"
   }
 },
 
