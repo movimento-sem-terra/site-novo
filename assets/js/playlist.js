@@ -167,7 +167,7 @@ $(document).ready(function() {
     var parent = getParent(album, 'li');
     var top = parent.offset().top + parent.height() + 30;
     var left = $('#albuns').offset().left;
-    var width = $('#albuns').width();
+    var width = $('#albuns').outerWidth();
     parent.addClass('open').find('.album');
     album.offset({top: top, left: left}).width(width);
 
@@ -181,7 +181,7 @@ $(document).ready(function() {
 
   $(window).resize(function() {
     var left = 0;
-    var width = $(document).width();
+    var width = $('#albuns').outerWidth();
     $('.open .album').offset({top: top, left: left}).width(width);
   });
 
