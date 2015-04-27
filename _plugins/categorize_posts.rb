@@ -25,7 +25,16 @@ module Jekyll
 
       articles = find 'articles', 'label'
       interviews = find 'interviews', 'label'
+
       musicoteca  = find 'musicoteca', 'label'
+      musicoteca_videos = musicoteca.select{ |m| m.data['type'] == 'video' }
+      musicoteca_albuns = musicoteca.select{ |m| m.data['type'] == 'album' }
+      musicoteca_partners = musicoteca.select{ |m| m.data['type'] == 'partner' }
+      site.config['musicoteca'] = {}
+      site.config['musicoteca']['videos'] = musicoteca_videos
+      site.config['musicoteca']['albuns'] = musicoteca_albuns
+      site.config['musicoteca']['partners'] = musicoteca_partners
+
       site.config['cover'] = cover
       site.config['articles'] = articles
       site.config['carousel'] = carousel
