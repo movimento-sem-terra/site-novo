@@ -65,7 +65,5 @@ A abertura contou com a presen&ccedil;a do militante do MST Alan Tygel, que falo
 <p><br />
 O projeto Direitos Humanos no Brasil se localiza na Allerwelthaus K&ouml;ln &ndash; Casa de Todo o Mundo &ndash; fundada nos anos 1980 por representantes de movimentos ambientalistas, pacifistas, anti-racistas, e por grupos de solidariedade &agrave; Am&eacute;rica Latina. A casa tamb&eacute;m &eacute; um lugar de encontro para grupos e iniciativas culturais e pol&iacute;ticas de imigrantes de pa&iacute;ses da &Aacute;frica, &Aacute;sia, Am&eacute;rica Latina, e tamb&eacute;m da Palestina. A casa tem ainda como parceiros a KoBra &ndash; Kooperation Brasilien, FIAN, Anistia Internacional e os Amigos do MST na Alemanha.</p>
 
-<p>&nbsp;
 <p><br />
 At&eacute; o final da exposi&ccedil;&atilde;o ser&atilde;o exibidos filmes como O Veneno Est&aacute; na Mesa 2, Terra para Rose e o Sonho de Rose, al&eacute;m do document&aacute;rio sobre Sebasti&atilde;o Salgado, O Sal da Terra.</p>
-</p>
