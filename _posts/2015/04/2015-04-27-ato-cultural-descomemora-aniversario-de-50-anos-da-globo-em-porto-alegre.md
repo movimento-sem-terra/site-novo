@@ -4,8 +4,8 @@ tags:
   - tag: Rede-Globo
   - tag: democratização-da-mídia
   - tag: Fora-Globo
-title: Ato cultural “descomemora” aniversário de 50 anos da Globo em Porto Alegre
-support_line: "O foco da manifestação foi o Grupo RBS detentora do monopólio midiático do estado. "
+title: Ato cultural “descomemora” aniversário de 50 anos da Rede Globo em Porto Alegre
+support_line: "O foco da manifestação foi o Grupo RBS detentora do monopólio midiático na região sul do país. "
 menu: lutas e mobilizações
 layout: post
 files:
@@ -29,9 +29,11 @@ releated_posts:
   - 2015/04/2015-04-26-juventude-do-mst-e-do-levante-realizam-escrachos-em-afiliadas-da-rbs-no-rs.md
 
 ---
-<p>&nbsp;</p>
+<p><img alt="IMG_8198.jpg" src="http://farm8.staticflickr.com/7687/17103390960_a523b76dfc_b.jpg" /></p>
 
 <p><em>Da P&aacute;gina do MST</em></p>
+
+<p>&nbsp;</p>
 
 <p>Na tarde de domingo (26), uma mobiliza&ccedil;&atilde;o levou arte e luta ao Parque da Reden&ccedil;&atilde;o, em Porto Alegre, na &ldquo;descomemora&ccedil;&atilde;o&rdquo; dos 50 anos da Globo.</p>
 
@@ -53,7 +55,10 @@ Organizada por movimentos populares pela democratiza&ccedil;&atilde;o da comunic
 Na Reden&ccedil;&atilde;o, desde o in&iacute;cio da tarde foram realizadas apresenta&ccedil;&otilde;es culturais, come&ccedil;ando com uma pe&ccedil;a teatral da Cambada Levanta Favela, seguida por apresenta&ccedil;&otilde;es do N&uacute;cleo de Hip Hop de Viam&atilde;o (NH2V), do Consci&ecirc;ncia Orat&oacute;ria, da banda The Youth e do Levante Popular da Juventude.</p>
 
 <p><br />
-No Rio Grande do Sul, o foco era o Grupo RBS, que controla um monop&oacute;lio midi&aacute;tico, composto pela maior rede regional de TV do pa&iacute;s com 18 emissoras distribu&iacute;das no RS e em SC e 85% da programa&ccedil;&atilde;o da Globo, al&eacute;m da maioria das emissoras de r&aacute;dio, jornais di&aacute;rios e portais na internet dos dois estados. Desrespeitando o limite de concess&otilde;es para execu&ccedil;&atilde;o de radiodifus&atilde;o no Pa&iacute;s, estipulado pelo artigo 12 do decreto 236 (28/2 de 1967).</p>
+No Rio Grande do Sul, o foco era o Grupo RBS, que controla o monop&oacute;lio midi&aacute;tico, composto pela maior rede regional de TV do pa&iacute;s.</p>
+
+<p><br />
+Com 18 emissoras distribu&iacute;das no RS e em SC, al&eacute;m da maioria das emissoras de r&aacute;dio, jornais di&aacute;rios e portais na internet dos dois estados, estabelecendo um alcance de 85% de programa&ccedil;&atilde;o, a Rede Globo, desrespeita o limite de concess&otilde;es para execu&ccedil;&atilde;o de radiodifus&atilde;o no pa&iacute;s, estipulado pelo artigo 12 do decreto 236 (28/2 de 1967).</p>
 
 <p><br />
 Para mais informa&ccedil;&otilde;es sobre o decreto, clique <a href="http://www.planalto.gov.br/ccivil_03/decreto-lei/del0236.htm">aqui.</a></p>
