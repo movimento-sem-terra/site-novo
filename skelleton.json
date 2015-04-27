@@ -73,6 +73,7 @@
     {"name": "Capa", "id": "cover"},
     {"name": "Destaque", "id": "featured-news"},
     {"name": "Vídeo", "id": "tv"},
+    {"name": "Musicoteca", "id": "musicoteca"},
     {"name": "Campanha", "id": "campaign"},
     {"name": "Jornal", "id": "newspaper"}
     ]
@@ -105,7 +106,7 @@
   "need": {
     "field": "section",
     "equal": true,
-    "value": "campaign"
+    "value": ["campaign","musicoteca"]
   }
 },
 {
@@ -174,6 +175,25 @@
   "required": false,
   "type": {
     "view": "tagging"
+  }
+},
+
+{
+  "name": "type",
+  "title": "Tipo",
+  "required": false,
+  "type": {
+    "view": "select",
+    "options": [
+    {"name": "Parceiro", "id": "partner"},
+    {"name": "Album", "id": "album"},
+    {"name": "Vídeo", "id": "video"}
+    ]
+  },
+  "need": {
+    "field": "section",
+    "equal": true,
+    "value": "musicoteca"
   }
 }
 ]
