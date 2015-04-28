@@ -40,18 +40,13 @@ releated_posts:
   - 2015/04/2015-04-21-jovens-se-reunem-em-curso-popular-no-maranhao.md
 
 ---
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p><img alt="11068328_847610561997244_2981600063879426106_n.jpg" height="525" src="http://farm9.staticflickr.com/8799/17299372292_b6afc60f20_b.jpg" width="700" /></p>
+<p><img alt="11187245_474006076086064_5543962498595455688_o.png" src="http://farm8.staticflickr.com/7681/17275242466_a84de1d066_b.jpg" /></p>
 
 <p><em>Por Wesley Lima<br />
 Da P&aacute;gina do MST </em></p>
 
-<p>&nbsp;</p>
-
-<p>De 30 de abril a 3 de maio cerca de 500 jovens do campo e da cidade participam do Curso Popular na Universidade.</p>
+<p><br />
+De 30 de abril a 3 de maio cerca de 500 jovens do campo e da cidade participam do Curso Popular na Universidade.</p>
 
 <p><br />
 As atividades acontecem na Universidade Estadual do Sudoeste Baiano (UESB) e no Col&eacute;gio Estadual An&iacute;sio Teixeira, ambos localizados em Vit&oacute;ria da Conquista, Bahia.</p>
@@ -68,6 +63,3 @@ Temas como o formato da educa&ccedil;&atilde;o publica no Brasil e o projeto de 
 O desafio &eacute; fazer com que os participantes proponham a constru&ccedil;&atilde;o de a&ccedil;&otilde;es que possam realizar mudan&ccedil;as na sociedade.<br />
 <br />
 Todos estes temas ser&atilde;o abordados atrav&eacute;s de rodas de conversa, oficinas e atividades culturais. Al&eacute;m disso, a m&iacute;stica, as can&ccedil;&otilde;es, gritos de ordem e poesias estar&atilde;o presentes motivando os estudos e sugerindo mudan&ccedil;as.</p>
-
-<p><br />
-&nbsp;</p>
