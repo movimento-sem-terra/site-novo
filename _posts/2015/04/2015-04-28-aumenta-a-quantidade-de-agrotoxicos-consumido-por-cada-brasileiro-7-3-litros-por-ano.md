@@ -5,7 +5,7 @@ tags:
   - tag: saúde
   - tag: agronegócio
 title: "Aumenta a quantidade de agrotóxicos consumido por cada brasileiro: 7,3 litros"
-support_line: "Nesta terça-feira, a Abrasco lança o novo Dossiê sobre a realidade dos agrtóxicos no Brasil. Em artigo, Alan Tygel fala sobre a questão."
+support_line: "Nesta terça-feira, a Abrasco lança o novo Dossiê sobre a realidade dos agrotóxicos no Brasil. Em artigo, Alan Tygel fala sobre a questão."
 menu: agronegócio
 section: cover
 layout: post
