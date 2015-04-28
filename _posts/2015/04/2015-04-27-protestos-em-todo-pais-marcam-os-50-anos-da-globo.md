@@ -6,7 +6,7 @@ tags:
   - tag: rede-globo
 title: Protestos em todo país marcam os 50 anos da Globo
 support_line: "Foram realizadas manifestações em Brasília, São Paulo, Belo Horizonte, Recife, Porto Alegre e em Bagé, Belém, Aracaju."
-section: cover
+section: null
 menu: lutas e mobilizações
 layout: post
 files:
