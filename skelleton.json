@@ -221,5 +221,20 @@
     "equal": true,
     "value": "musicoteca"
   }
+},
+{
+  "name": "tracks",
+  "pattern": "",
+  "icon": "fa-music",
+  "title": "Músicas",
+  "required": false,
+  "type": {
+    "view": "tracks"
+  },
+  "need": {
+    "field": "section",
+    "equal": true,
+    "value": "musicoteca"
+  }
 }
 ]
