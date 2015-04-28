@@ -4,7 +4,7 @@ tags:
   - tag: agrotóxicos
   - tag: saúde
   - tag: agronegócio
-title: "Aumenta a quantidade de agrotóxicos consumido por cada brasileiro: 7,3 litros por ano"
+title: "Aumenta a quantidade de agrotóxicos consumido por cada brasileiro: 7,3 litros"
 support_line: "Nesta terça-feira, a Abrasco lança o novo Dossiê sobre a realidade dos agrtóxicos no Brasil. Em artigo, Alan Tygel fala sobre a questão."
 menu: agronegócio
 section: cover
@@ -31,6 +31,7 @@ releated_posts:
   - 2015/01/2014-12-23-agrotoxicos-o-lucro-que-mata-a-terra-e-quem-dela-vive.md
   - 2015/02/2015-02-18-monsanto-25-doencas-que-podem-ser-causadas-pelo-agrotoxico-glifosato.md
   - 2015/04/2015-04-09-inca-demonstra-preocupacao-com-o-consumo-de-agrotoxicos-no-brasil.md
+label: articles
 
 ---
 <p><img alt="agro-sam-6462.jpg" src="http://farm9.staticflickr.com/8696/17299425371_4635e714d9_b.jpg" /><br />
