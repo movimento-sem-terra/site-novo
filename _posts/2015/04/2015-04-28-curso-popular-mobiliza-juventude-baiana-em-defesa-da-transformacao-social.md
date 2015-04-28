@@ -40,7 +40,7 @@ releated_posts:
   - 2015/04/2015-04-21-jovens-se-reunem-em-curso-popular-no-maranhao.md
 
 ---
-<p><img alt="11187245_474006076086064_5543962498595455688_o.png" src="http://farm8.staticflickr.com/7681/17275242466_a84de1d066_b.jpg" /></p>
+<p><img alt="11187245_474006076086064_5543962498595455688_o.png" height="612" src="http://farm8.staticflickr.com/7681/17275242466_a84de1d066_b.jpg" width="600" /></p>
 
 <p><em>Por Wesley Lima<br />
 Da P&aacute;gina do MST </em></p>
