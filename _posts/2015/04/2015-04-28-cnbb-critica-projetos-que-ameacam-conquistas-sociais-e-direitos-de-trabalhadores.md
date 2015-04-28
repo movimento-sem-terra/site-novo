@@ -41,7 +41,13 @@ Ao encerrar na sexta-feira (24) sua 53&ordf; Assembleia Geral em Aparecida (SP),
 Al&eacute;m disso, a CNBB foi enf&aacute;tica ao defender os direitos dos povos ind&iacute;genas ao se posicionar contra a PEC 215, que pretende transferir para o Congresso Nacional a demarca&ccedil;&atilde;o de terras ind&iacute;genas.</p>
 
 <p><br />
-A sa&iacute;da aponta a toda estas quest&otilde;es apontada pela entidade &eacute; clara: reforma pol&iacute;tica.</p>
+Trata-se de &quot;uma afronta &agrave; luta hist&oacute;rica dos povos ind&iacute;genas que at&eacute; hoje n&atilde;o receberam repara&ccedil;&atilde;o das injusti&ccedil;as que sofreram desde a coloniza&ccedil;&atilde;o do Brasil&quot;.</p>
+
+<p><br />
+A sa&iacute;da apontada a todas estas quest&otilde;es pela entidade &eacute; clara: reforma pol&iacute;tica.</p>
+
+<p><br />
+&quot;Muitas destas e de outras mat&eacute;rias que incidem diretamente na vida do povo t&ecirc;m, entre seus caminhos de solu&ccedil;&atilde;o, uma Reforma Pol&iacute;tica que atinja as entranhas do sistema pol&iacute;tico brasileiro&quot;,</p>
 
 <p><br />
 Leia a nota:</p>
