@@ -4,7 +4,7 @@ tags:
   - tag: reforma-agrária
   - tag: jornada-de-lutas-2015
   - tag: massacre-de-eldorado-dos-carajás
-title: “A reforma agrária não foi feita quase 20 anos depois do Massacre de Carajás”
+title: "“A reforma agrária não foi feita quase 20 anos depois do Massacre de Carajás”, afirma Rodrigues"
 support_line: "João Paulo Rodrigues, da coordenação nacional do MST, fala sobre os desafios atuais da luta pela reforma agrária. "
 section: null
 menu: lutas e mobilizações
