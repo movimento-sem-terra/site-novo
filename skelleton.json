@@ -236,5 +236,20 @@
     "equal": true,
     "value": "musicoteca"
   }
+},
+{
+  "name": "download",
+  "pattern": "",
+  "icon": "fa-file-archive-o",
+  "title": "Link zip",
+  "required": false,
+  "type": {
+    "view": "zip"
+  },
+  "need": {
+    "field": "section",
+    "equal": true,
+    "value": "musicoteca"
+  }
 }
 ]
