@@ -4,7 +4,7 @@ tags:
   - tag: bahia
   - tag: reforma-agrária
   - tag: agroecologia
-title: Do eucalipto à produção agroecológica e a construção da Escola Popular
+title: Sem Terra conquistam antigo latifúndio de monocultivo de eucalipto
 support_line: "Após quatro anos de luta, Sem Terra conquistam duas fazendas no sul da Bahia onde já praticam a agroecologia e a Escola Egídio Brunetto."
 menu: reforma agrária
 sector: production
@@ -39,25 +39,11 @@ published: true
 images_hd: "http://farm9.staticflickr.com/8825/17123935098_ea92b30f74_n.jpg"
 releated_posts:
   - 2014/12/2014-11-10-seminario-constroi-linhas-de-atuacao-para-a-transicao-agroecologica-na-bahia.md
-  - 2014/05/2014-05-14-agroecologia-tera-grande-encontro-as-margens-do-sao-francisco.md
-  - 2014/05/2014-05-19-agroecologia-brasileira-avanca-e-faz-historia-em-encontro-nacional.md
-  - 2014/12/2014-11-04-no-reconcavo-sem-terra-debatem-o-processo-de-transicao-agroecologica.md
-  - 2014/12/2014-11-21-sem-terra-debatem-os-desafios-da-educacao-do-campo-e-da-agroecologia.md
   - 2014/12/2014-11-28-escola-de-agroecologia-egidio-brunetto-realiza-1º-seminario-sobre-meio-ambiente.md
-  - 2014/10/2014-09-29-camponesas-debatem-o-papel-da-mulher-na-construcao-da-reforma-agraria.md
-  - 2015/02/2015-02-27-acampamento-dom-tomas-balduino-o-grande-experimento-agroecologico-ameacado-pelo-latifundio.md
-  - 2015/04/2015-04-20-belem-sedia-a-2-feira-da-reforma-agraria.md
-  - 2014/04/2014-04-09-mst-e-homenageado-na-bahia-pelos-30-anos-de-luta-pela-reforma-agraria.md
-  - 2014/04/2014-04-11-na-bahia-mst-recebe-homenagem-pelos-30-anos-de-luta-e-resistencia.md
-  - 2014/08/2014-08-14-produtos-da-reforma-agraria-ocupam-a-universidade-federal-da-bahia.md
-  - 2014/10/2014-09-29-encontro-visa-o-empoderamento-e-autonomia-das-mulheres-sem-terra.md
-  - 2014/12/2014-11-03-sem-terra-expoem-sua-producao-em-feira-da-agricultura-familiar.md
   - 2014/12/2014-11-17-assentamento-bela-vista-luta-coquistas-e-a-producao-agroecologica.md
   - 2015/01/2015-01-12-com-metodo-cubano-sem-terra-buscam-erradicar-analfabetismo-no-sul-da-bahia.md
   - 2015/01/2015-01-19-durante-encontro-ciranda-infantil-leva-estudo-cultura-e-diversao-aos-sem-terrinha.md
-  - 2015/03/2015-03-03-trabalhadores-sem-terra-marcham-por-reforma-agraria-na-bahia.md
   - 2015/03/2015-03-13-juventude-sem-terra-se-desafia-a-impulsionar-a-participacao-na-luta-pela-reforma-agraria.md
-  - 2014/07/2014-07-17-familias-sem-terra-seguem-na-luta-por-area-grilada-em-abelardo-luz.md
 
 ---
 <p><img alt="2(1).jpg" src="http://farm8.staticflickr.com/7692/16691430913_26121690d8_b.jpg" /><br />
