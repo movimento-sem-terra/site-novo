@@ -6,7 +6,7 @@ tags:
   - tag: direitos-trabalhistas
   - tag: reforma-política
 title: CNBB critica projetos que ameaçam conquistas sociais e direitos de trabalhadores
-support_line: "Nota divulgada ao final de assembleia geral, em Aparecida, afirma que a retomada de crescimento do País precisa ser feita sem prejuízo à população, aos trabalhadores e, principalmente, aos mais pobres."
+support_line: Nota divulgada ao final de assembleia geral afirma que a retomada de crescimento do País precisa ser feita sem prejuízo aos trabalhadores e aos mais pobres.
 menu: direitos humanos
 layout: post
 files:
@@ -25,6 +25,7 @@ releated_posts:
   - 2015/04/2015-04-22-brasil-e-lider-em-violencia-no-campo-diz-ong.md
   - 2015/04/2015-04-24-sakamoto-o-brasil-vai-desistir-de-combater-o-trabalho-escravo.md
   - 2015/04/2015-04-28-oit-56-dos-habitantes-de-zonas-rurais-nao-tem-acesso-a-saude-basica.md
+section: featured-news
 
 ---
 <p><img alt="conferencia.jpg" src="http://farm8.staticflickr.com/7698/17274658986_c79fc8e12e_b.jpg" /><br />
