@@ -99,7 +99,7 @@
   "need": {
     "field": "section",
     "equal": true,
-    "value": ["campaign", "musicoteca"]
+    "value": "campaign"
   }
 },
 {
