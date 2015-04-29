@@ -4,7 +4,7 @@ tags:
   - tag: jornada-universitária
   - tag: sergipe
   - tag: reforma-agrária
-title: UFS realiza a 2º Jornada Universitária em defesa da Reforma Agrária
+title: UFS realiza 2º Jornada Universitária em defesa da Reforma Agrária
 menu: "educação, cultura e comunicação"
 support_line: "Exposição fotográfica, vídeos, atividades culturais e uma feira da Reforma Agrária também fazem parte da programação."
 layout: post
@@ -25,6 +25,7 @@ releated_posts:
 
 ---
 <p><img alt="UFS.jpg" src="http://farm9.staticflickr.com/8822/17313915311_96862382a1_b.jpg" /><br />
+<br />
 <em>Por Luiz M&aacute;rio de Santana Santos<br />
 Da P&aacute;gina do MST</em></p>
 
