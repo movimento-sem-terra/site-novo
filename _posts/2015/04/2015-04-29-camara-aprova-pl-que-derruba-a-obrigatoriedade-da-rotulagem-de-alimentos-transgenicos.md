@@ -4,7 +4,7 @@ tags:
   - tag: rotulagem
   - tag: transgênicos
   - tag: agronegócio
-title: Câmara aprova PL que derruba a obrigatoriedade da rotulagem de alimentos transgênicos
+title: Câmara derruba a obrigatoriedade da rotulagem de alimentos transgênicos
 support_line: "Muitos consideram o PL um atentado ao direito à informação da população, cujo projeto só beneficiaria as empresas do agronegócio."
 menu: transgênicos
 section: cover
@@ -16,6 +16,12 @@ files:
     small: "http://farm8.staticflickr.com/7658/17123062928_6821cc587e_n.jpg"
     title: transgenico.jpg
     $$hashKey: 09T
+  - link: "http://farm9.staticflickr.com/8714/17309030572_294de3ee61_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8714/17309030572_294de3ee61_t.jpg"
+    medium: "http://farm9.staticflickr.com/8714/17309030572_294de3ee61_z.jpg"
+    small: "http://farm9.staticflickr.com/8714/17309030572_294de3ee61_n.jpg"
+    title: rotulagem.png
+    $$hashKey: "050"
 created_date: "2015-04-29T09:15:18-03:00"
 published: true
 images_hd: "http://farm8.staticflickr.com/7658/17123062928_6821cc587e_n.jpg"
@@ -27,11 +33,8 @@ releated_posts:
   - 2015/04/2015-04-09-inca-demonstra-preocupacao-com-o-consumo-de-agrotoxicos-no-brasil.md
 
 ---
-<p>&nbsp;</p>
-
-<figure class="image" style="float:right"><img alt="transgenico.jpg" src="http://farm8.staticflickr.com/7658/17123062928_6821cc587e_b.jpg" />
-<figcaption></figcaption>
-</figure>
+<p><br />
+<img alt="rotulagem.png" src="http://farm9.staticflickr.com/8714/17309030572_294de3ee61_b.jpg" /></p>
 
 <p><em>Da P&aacute;gina do MST</em></p>
 
