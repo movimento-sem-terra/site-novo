@@ -5,7 +5,7 @@ tags:
   - tag: agricultura
   - tag: PL-4330
   - tag: terceirização
-title: "No campo, PL da terceirização irá consolidar uma situação que beira o insustentável"
+title: "No campo, PL 4330 irá consolidar uma situação que beira o insustentável"
 support_line: "Caso aprovado, o PL 4330 pode piorar ainda mais a situação do trabalho no campo. 59,4% já não tem a carteira de trabalho assinada."
 menu: direitos humanos
 section: cover
