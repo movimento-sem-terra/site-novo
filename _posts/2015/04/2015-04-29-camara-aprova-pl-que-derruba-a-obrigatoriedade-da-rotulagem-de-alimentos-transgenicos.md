@@ -4,7 +4,7 @@ tags:
   - tag: rotulagem
   - tag: transgênicos
   - tag: agronegócio
-title: Câmara derruba a obrigatoriedade da rotulagem de alimentos transgênicos
+title: Câmara derruba obrigatoriedade da rotulagem de alimentos transgênicos
 support_line: "Muitos consideram o PL um atentado ao direito à informação da população, cujo projeto só beneficiaria as empresas do agronegócio."
 menu: transgênicos
 section: cover
