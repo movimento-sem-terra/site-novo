@@ -103,6 +103,19 @@
   }
 },
 {
+  "name": "link",
+  "title": "Link para o parceiro",
+  "required": false,
+  "type": {
+    "view": "textarea"
+  },
+  "need": {
+    "field": "type",
+    "equal": true,
+    "value": "partner"
+  }
+},
+{
   "name": "target",
   "title": "Abrir link em",
   "required": true,
