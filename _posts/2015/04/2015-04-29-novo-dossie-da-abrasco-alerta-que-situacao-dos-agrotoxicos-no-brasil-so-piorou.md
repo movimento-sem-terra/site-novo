@@ -45,6 +45,7 @@ releated_posts:
   - 2015/04/2015-04-28-aumenta-a-quantidade-de-agrotoxicos-consumido-por-cada-brasileiro-7-3-litros-por-ano.md
   - 2014/12/2014-11-06-exposicao-a-agrotoxicos-pode-causar-disturbios-reprodutivos-aponta-estudo.md
   - 2015/04/2015-04-09-inca-demonstra-preocupacao-com-o-consumo-de-agrotoxicos-no-brasil.md
+section: featured-news
 
 ---
 <p><img alt="DSCN9725.JPG" src="http://farm9.staticflickr.com/8709/17125331988_85fc03748c_b.jpg" /><br />
