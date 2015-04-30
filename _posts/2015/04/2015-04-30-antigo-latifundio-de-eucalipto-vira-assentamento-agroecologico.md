@@ -70,7 +70,7 @@ O ato foi marcado pela assinatura do decreto de emiss&atilde;o de posse da fazen
 Al&eacute;m disso, foi entregue diversos cart&otilde;es que d&atilde;o acesso &agrave;s mulheres assentadas na regi&atilde;o ao cr&eacute;dito fomento mulher do governo federal para fortalecer a produ&ccedil;&atilde;o agr&iacute;cola.</p>
 
 <p><br />
-O decreto de emiss&atilde;o de posse atender&aacute; 227 fam&iacute;lias que foram assentadas em 4 mil hectares de terra.&nbsp; Para o MST, este momento simboliza um novo ciclo de conquistas e de lutas pelo Movimento contra a ofensiva do agroneg&oacute;cio e a favor da Reforma Agr&aacute;ria.</p>
+O decreto de imiss&atilde;o de posse atender&aacute; 227 fam&iacute;lias que foram assentadas em 4 mil hectares de terra.&nbsp; Para o MST, este momento simboliza um novo ciclo de conquistas e de lutas pelo Movimento contra a ofensiva do agroneg&oacute;cio e a favor da Reforma Agr&aacute;ria.</p>
 
 <p><br />
 Em defesa desta bandeira, o governador Rui Costa (PT &ndash; BA), aponta outros desafios para os trabalhadores rec&eacute;m assentados. &ldquo;Precisamos agora fortalecer os nossos mecanismos de produ&ccedil;&atilde;o e ser refer&ecirc;ncia para todo Brasil&rdquo;.</p>
