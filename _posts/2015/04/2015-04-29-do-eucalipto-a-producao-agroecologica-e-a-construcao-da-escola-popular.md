@@ -58,7 +58,7 @@ Foram necess&aacute;rios quatro anos de resist&ecirc;ncia para que as fam&iacute
 Onde outrora era destinado &agrave; produ&ccedil;&atilde;o de gado e eucalipto, agora ser&atilde;o assentadas 227 fam&iacute;lias em lotes de 10 hectares organizados em n&uacute;cleos de moradias.</p>
 
 <p><br />
-A emiss&atilde;o de posse da &aacute;rea acontece nesta quinta-feira (30), e contar&aacute; com a presen&ccedil;a do governador da Bahia, Rui Costa, do Ministro de Desenvolvimento Agr&aacute;rio, Patrus Ananias, e o Ministro da Defesa, Jaques Wagner.</p>
+A imiss&atilde;o de posse da &aacute;rea acontece nesta quinta-feira (30), e contar&aacute; com a presen&ccedil;a do governador da Bahia, Rui Costa, do Ministro de Desenvolvimento Agr&aacute;rio, Patrus Ananias, e o Ministro da Defesa, Jaques Wagner.</p>
 
 <p>&nbsp;</p>
 
