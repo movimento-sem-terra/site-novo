@@ -54,10 +54,9 @@ Foi entregue a imiss&atilde;o de posse a 272 fam&iacute;lias de trabalhadores na
 Os ministros do Desenvolvimento Agr&aacute;rio e da Defesa, Patrus Ananis e Jaques Wagner, o governador Rui Costa, a presidente do Incra nacional, Maria L&uacute;cia Falc&oacute;n, o deputado federal e membro do MST, Valmir Assun&ccedil;&atilde;o (PT-BA), al&eacute;m de representantes de movimentos de luta pela terra e assentados de reforma agr&aacute;ria formaram a comitiva que esteve na cerim&ocirc;nia de cria&ccedil;&atilde;o oficial do assentamento.</p>
 
 <p><br />
-Para M&aacute;rcio Matos, da dire&ccedil;&atilde;o estadual do MST, &quot;a Reforma Agr&aacute;ria precisa ser vista como medida de desenvolvimento da produ&ccedil;&atilde;o, de fortalecimento econ&ocirc;mico. Vamos produzir alimentos de qualidade para a mesa dos baianos. Esse &eacute; um momento hist&oacute;rico pra n&oacute;s, e um primeiro passo para conquistas que est&atilde;o por vir.</p>
+Para M&aacute;rcio Matos, da dire&ccedil;&atilde;o estadual do MST, &quot;a Reforma Agr&aacute;ria precisa ser vista como medida de desenvolvimento da produ&ccedil;&atilde;o, de fortalecimento econ&ocirc;mico. Vamos produzir alimentos de qualidade para a mesa dos baianos. Esse &eacute; um momento hist&oacute;rico pra n&oacute;s, e um primeiro passo para conquistas que est&atilde;o por vir. Esperamos que este dia possa simbolizar a retomada da Reforma Agr&aacute;ria no pa&iacute;s&quot;.</p>
 
 <p><br />
-Esperamos que este dia possa simbolizar a retomada da Reforma Agr&aacute;ria no pa&iacute;s&quot;.<br />
 A Fazenda Colatina tem cerca de 30 mil hectares de terra, e fica &agrave;s margens da BR-101, no trecho entre Itamaraju e Teixeira de Freitas.<br />
 &nbsp;</p>
 
