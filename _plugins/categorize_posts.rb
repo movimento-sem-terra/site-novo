@@ -26,8 +26,8 @@ module Jekyll
       articles = find 'articles', 'label'
       interviews = find 'interviews', 'label'
 
-      musicoteca  = find 'musicoteca', 'label'
-      musicoteca_videos = musicoteca.select{ |m| m.data['type'] == 'video' }
+      musicoteca  = find 'musicoteca', 'section', 50
+      musicoteca_videos = find('tv','section', 3).select{ |v| v.data['sector'] == 'cultura'  }
       musicoteca_albuns = musicoteca.select{ |m| m.data['type'] == 'album' }
       musicoteca_partners = musicoteca.select{ |m| m.data['type'] == 'partner' }
       site.config['musicoteca'] = {}

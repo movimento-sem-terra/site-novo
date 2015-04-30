@@ -225,8 +225,7 @@
     "view": "select",
     "options": [
     {"name": "Parceiro", "id": "partner"},
-    {"name": "Album", "id": "album"},
-    {"name": "Vídeo", "id": "video"}
+    {"name": "Album", "id": "album"}
     ]
   },
   "need": {
