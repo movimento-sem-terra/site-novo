@@ -28,8 +28,19 @@ files:
     small: "http://farm9.staticflickr.com/8782/17322738722_9da86333a7_n.jpg"
     title: 2(1).jpg
     $$hashKey: 05R
+  - link: "http://farm8.staticflickr.com/7768/17137697878_07059a8054_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7768/17137697878_07059a8054_t.jpg"
+    medium: "http://farm8.staticflickr.com/7768/17137697878_07059a8054_z.jpg"
+    small: "http://farm8.staticflickr.com/7768/17137697878_07059a8054_n.jpg"
+    title: 3_bahia.JPG
+    $$hashKey: 05O
+  - link: "http://farm8.staticflickr.com/7741/17325089951_aca49b3a8f_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7741/17325089951_aca49b3a8f_t.jpg"
+    medium: "http://farm8.staticflickr.com/7741/17325089951_aca49b3a8f_z.jpg"
+    small: "http://farm8.staticflickr.com/7741/17325089951_aca49b3a8f_n.jpg"
+    title: 3_bahia.JPG
 created_date: "2015-04-30T16:13:11-03:00"
-published: false
+published: true
 images_hd: "http://farm9.staticflickr.com/8879/17322641462_50d260663c_n.jpg"
 releated_posts:
   - 2012/12/2012-12-05-confira-a-historia-do-assentamento-terra-vista-contada-pelos-assentados.md
@@ -45,62 +56,68 @@ releated_posts:
 <p><em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Nesta quinta-feira (30), os trabalhadores rurais Sem Terra da regi&atilde;o do extremo sul da Bahia conquistaram definitivamente a antiga Fazenda Colatina, no munic&iacute;pio de Prado, que ser&aacute; transformada no Assentamento Jacy Rocha.</p>
+Motivados pela simbologia das ferramentas de trabalho, da produ&ccedil;&atilde;o e participa&ccedil;&atilde;o de homens e mulheres na constru&ccedil;&atilde;o da Reforma Agr&aacute;ria, cerca de 2 mil trabalhadores Sem Terra estiveram presentes nesta quinta-feira (30) no Ato de Emiss&atilde;o de posse dos Assentamentos Jaci Rocha e Ant&ocirc;nio Ar&aacute;ujo, localizados no munic&iacute;pio do Prado no Extremo Sul baiano.</p>
 
 <p><br />
-Foi entregue a imiss&atilde;o de posse a 272 fam&iacute;lias de trabalhadores na presen&ccedil;a de pol&iacute;ticos baianos e membros do governo Dilma.</p>
+O ato foi marcado pela assinatura do decreto de emiss&atilde;o de posse da fazenda Colatina e Cotia pelo Governador da Bahia Rui Costa, o Ministro da Defesa Jaques Wagner e o Ministro de Desenvolvimento Agr&aacute;rio Patrus Ananias.</p>
 
 <p><br />
-Os ministros do Desenvolvimento Agr&aacute;rio e da Defesa, Patrus Ananis e Jaques Wagner, o governador Rui Costa, a presidente do Incra nacional, Maria L&uacute;cia Falc&oacute;n, o deputado federal e membro do MST, Valmir Assun&ccedil;&atilde;o (PT-BA), al&eacute;m de representantes de movimentos de luta pela terra e assentados de reforma agr&aacute;ria formaram a comitiva que esteve na cerim&ocirc;nia de cria&ccedil;&atilde;o oficial do assentamento.</p>
+Al&eacute;m disso, foi entregue diversos cart&otilde;es que d&atilde;o acesso &agrave;s mulheres assentadas na regi&atilde;o ao cr&eacute;dito fomento mulher do governo federal para fortalecer a produ&ccedil;&atilde;o agr&iacute;cola.</p>
 
 <p><br />
-Para M&aacute;rcio Matos, da dire&ccedil;&atilde;o estadual do MST, &quot;a Reforma Agr&aacute;ria precisa ser vista como medida de desenvolvimento da produ&ccedil;&atilde;o, de fortalecimento econ&ocirc;mico. Vamos produzir alimentos de qualidade para a mesa dos baianos. Esse &eacute; um momento hist&oacute;rico pra n&oacute;s, e um primeiro passo para conquistas que est&atilde;o por vir. Esperamos que este dia possa simbolizar a retomada da Reforma Agr&aacute;ria no pa&iacute;s&quot;.</p>
+O decreto de emiss&atilde;o de posse atender&aacute; 227 fam&iacute;lias que foram assentadas em 4 mil hectares de terra.&nbsp; Para o MST, este momento simboliza um novo ciclo de conquistas e de lutas pelo Movimento contra a ofensiva do agroneg&oacute;cio e a favor da Reforma Agr&aacute;ria.</p>
 
 <p><br />
-A Fazenda Colatina tem cerca de 30 mil hectares de terra, e fica &agrave;s margens da BR-101, no trecho entre Itamaraju e Teixeira de Freitas.<br />
+Em defesa desta bandeira, o governador Rui Costa (PT &ndash; BA), aponta outros desafios para os trabalhadores rec&eacute;m assentados. &ldquo;Precisamos agora fortalecer os nossos mecanismos de produ&ccedil;&atilde;o e ser refer&ecirc;ncia para todo Brasil&rdquo;.</p>
+
+<p><br />
+<strong>Contexto Social</strong></p>
+
+<p><br />
+Foram necess&aacute;rios quatro anos de resist&ecirc;ncia, ap&oacute;s diversas ocupa&ccedil;&otilde;es de terra protagonizadas pelas mulheres Sem Terra em planta&ccedil;&otilde;es de eucalipto de empresas transnacionais, para que as fam&iacute;lias dos Acampamentos Jaci Rocha e Ant&ocirc;nio Ara&uacute;jo conquistassem as Fazendas Colatina e Cotia.</p>
+
+<p><br />
+Genoaria da Concei&ccedil;&atilde;o, mais conhecida como Gina, assentada no Jaci Rocha, se emociona ao lembrar do primeiro contato com o MST.</p>
+
+<p><br />
+&ldquo;Tive muita resist&ecirc;ncia para iniciar a luta no Movimento. Com o tempo e os diversos convites comecei a participar. De imediato gostei muito da can&ccedil;&atilde;o arroz deu o cacho. As dificuldades foram muitas, mas nunca desisti e sempre sonhei com a conquista da terra&rdquo;.</p>
+
+<p><br />
+&ldquo;Hoje eu quero seguir lutando e trazer mais pessoas para terra&rdquo;, conclui Gina.</p>
+
+<p><br />
+O assentado Jair Alves declara que &eacute; uma satisfa&ccedil;&atilde;o muito grande militar nesta luta. &ldquo;No movimento eu n&atilde;o desisto nunca, eu falei que o vermelho do meu sangue se envolve com o da nossa bandeira e isso me motiva a seguir adiante defendendo a Reforma Agr&aacute;ria Popular&rdquo;.</p>
+
+<p><br />
+&ldquo;Se eu n&atilde;o estivesse hoje com minha terra e produzindo, eu estaria trabalhando em alguma planta&ccedil;&atilde;o de eucalipto e sendo explorado&rdquo;, enfatiza.</p>
+
+<p><br />
+Para os trabalhadores este ato representa que a Reforma Agr&aacute;ria &eacute; poss&iacute;vel, especialmente numa regi&atilde;o de grandes latif&uacute;ndios controlados por grupos pol&iacute;ticos conservadores que oprime a classe trabalhadora e podam os sonhos de transforma&ccedil;&atilde;o.<br />
 &nbsp;</p>
 
 <p><img alt="2(1).jpg" src="http://farm9.staticflickr.com/8782/17322738722_9da86333a7_b.jpg" /><br />
 <br />
-Durante a cerim&ocirc;nia, o ministro Ananias prometeu intensificar as a&ccedil;&otilde;es de Reforma Agr&aacute;ria. &ldquo;Vamos mobilizar todas as energias para at&eacute; o final do governo Dilma assentar todas as fam&iacute;lias acampadas no pa&iacute;s, e fazer da agricultura familiar e dos assentamentos espa&ccedil;os de produ&ccedil;&atilde;o atrav&eacute;s da agroecologia&rdquo;.</p>
+<strong>Reforma Agr&aacute;ria</strong></p>
 
 <p><br />
-Ao todo, h&aacute; cerca de 120 mil fam&iacute;lias acampadas em todo o pa&iacute;s. Em falas anteriores, o ministro prometeu apresentar um cronograma para assentar cerca de 50 mil fam&iacute;lias por ano.</p>
+O ato pol&iacute;tico de emiss&atilde;o de posse foi constru&iacute;do coletivamente pela milit&acirc;ncia do MST na Bahia por compreender a import&acirc;ncia deste momento hist&oacute;rico, onde a classe trabalhadora vem sofrendo com a ofensiva do capital e perdendo direitos.</p>
 
 <p><br />
-O governador Rui Costa seguiu a mesma linha que o Ananias, ao dizer que &ldquo;aqui estamos na miss&atilde;o de fazer o encontro de pol&iacute;ticas e recursos p&uacute;blicos com os interesses do povo baiano que mais precisa. N&atilde;o faltar&aacute;, da minha parte, esfor&ccedil;o para que os assentamentos possam produzir. Vamos apoiar ainda mais a Reforma Agr&aacute;ria numa articula&ccedil;&atilde;o com o governo federal&quot;.</p>
+Durante o processo, os trabalhadores contaram com a presen&ccedil;a de diversas representa&ccedil;&otilde;es publicas federais, estaduais e regionais, que trouxeram reflex&otilde;es sobre a situa&ccedil;&atilde;o da Reforma Agr&aacute;ria no pa&iacute;s.</p>
 
 <p><br />
-A nova presidenta do Incra, L&uacute;cia Falcon, disse que ir&aacute; acelerar o processo de assentamento das fam&iacute;lias acampadas, uma reivindica&ccedil;&atilde;o antiga dos movimentos sociais do campo, j&aacute; que os &iacute;ndices do governo Dilma foram os piores das &uacute;ltimas d&eacute;cadas.</p>
-
-<p><br />
-Para ela, &ldquo;n&atilde;o basta garantir acesso &agrave; terra. &Eacute; preciso capacita&ccedil;&atilde;o, educa&ccedil;&atilde;o continuada e profissionalizante, acesso &agrave; cr&eacute;dito. Este assentamento ser&aacute; um exemplo, inclusive num territ&oacute;rio sens&iacute;vel como &eacute; o extremo sul baiano, onde temos grandes &aacute;reas com planta&ccedil;&atilde;o de eucalipto e pecu&aacute;ria&rdquo;, apontou.<br />
+Maria L&uacute;cia Falc&oacute;n, presidenta do Instituto de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra), afirma que o &oacute;rg&atilde;o p&uacute;blico precisa passar por reformas urgentes. &ldquo;Nossa tarefa quanto Incra &eacute; garantir que a desapropria&ccedil;&atilde;o se efetive em nosso pa&iacute;s cada vez mais, por&eacute;m, nosso espa&ccedil;o precisa ser modernizado tecnologicamente para agilizar e diminuir o tempo de espera dos trabalhadores que lutam pela terra&rdquo;.<br />
 &nbsp;</p>
 
 <p><img alt="1(1).jpg" src="http://farm8.staticflickr.com/7686/17117155417_2ec2179916_b.jpg" /><br />
 <br />
-<strong>Escola de Agroecologia</strong></p>
+&ldquo;Estamos abrindo as porteiras para a constru&ccedil;&atilde;o de um campo sustent&aacute;vel e emancipado. Para isso, &eacute; necess&aacute;rio cobrar do estado a constru&ccedil;&atilde;o e o financiamento de espa&ccedil;os p&uacute;blicos que garantam e legitimam a pauta da classe trabalhadora&rdquo;, conclui Falc&oacute;n.</p>
 
 <p><br />
-Ao longo da resist&ecirc;ncia destes quatro anos, os Sem Terra tamb&eacute;m constru&iacute;ram, em parceria com a Escola Superior de Agricultura Luiz de Queiroz da Universidade de S&atilde;o Paulo (ESALQ &ndash; USP), a Escola Popular de Agroecologia e Agrofloresta Eg&iacute;dio Brunetto.</p>
+Entendendo esta realidade, Valmir Assun&ccedil;&atilde;o, Deputado Federal (PT &ndash; BA), acredita que para mudar este cen&aacute;rio &eacute; necess&aacute;rio realizar cobran&ccedil;as pontuais ao estado para garantir os direitos sociais.</p>
 
 <p><br />
-Durante este per&iacute;odo, a Escola j&aacute; realizou diversos cursos de forma&ccedil;&atilde;o, oficinas e semin&aacute;rios, al&eacute;m de desenvolver &aacute;reas experimentais em agroecologia, como minhoc&aacute;rio, viveiro, horta e Sistemas Agro-Florestais (SAF&acute;s).</p>
+&ldquo;Na Bahia, n&oacute;s temos diversos acampamentos. Por&eacute;m, a Reforma Agr&aacute;ria s&oacute; vai acontecer se construirmos alian&ccedil;as sociais e defender esta bandeira, n&atilde;o importa a inst&acirc;ncia pol&iacute;tica&rdquo;, enfatiza o deputado.</p>
 
 <p><br />
-A nova fase dos trabalhadores rurais ser&aacute; em construir v&iacute;nculos institucionais para que possam realizar cursos t&eacute;cnicos com as fam&iacute;lias acampadas e assentadas da regi&atilde;o.</p>
-
-<p><br />
-Junto a sete pr&eacute;-assentamentos da regi&atilde;o, a Escola Agroecologia Eg&iacute;dio Brunetto faz parte do Projeto de Assentamentos Agroecol&oacute;gicos, que tem como objetivo contribuir na mudan&ccedil;a da matriz tecnol&oacute;gica de produ&ccedil;&atilde;o agr&iacute;cola.</p>
-
-<p><br />
-&ldquo;Nosso objetivo &eacute; desenvolver um modelo de produ&ccedil;&atilde;o agroecol&oacute;gico como ferramenta contra o capital e para o fortalecimento da cultura camponesa&rdquo;, disse Evanildo Costa, da dire&ccedil;&atilde;o estadual do MST.</p>
-
-<p><br />
-Desde 2012, essas fam&iacute;lias v&ecirc;m desenvolvendo v&aacute;rias experi&ecirc;ncias na &aacute;rea da produ&ccedil;&atilde;o de alimentos diversificados sem o uso de agrot&oacute;xicos e transg&ecirc;nicos.</p>
-
-<p><br />
-Para isso, contam com a presen&ccedil;a de t&eacute;cnicos que atuam nas comunidades realizando capacita&ccedil;&otilde;es em pr&aacute;ticas agroecol&oacute;gicas, &aacute;reas demonstrativas de Sistemas Agroflorestais e a&ccedil;&otilde;es que refor&ccedil;am o cuidado e o respeito &agrave;s &aacute;reas de prote&ccedil;&atilde;o ambiental, como matas, rios e nascentes.</p>
-
-<p><br />
-Ao mesmo tempo, est&aacute; sendo desenvolvido o projeto de alfabetiza&ccedil;&atilde;o de jovens e adultos, utilizando o m&eacute;todo cubano &ldquo;Sim eu Posso&rdquo;. Espera-se que este processo, que est&aacute; sendo constru&iacute;do junto com o setor de educa&ccedil;&atilde;o do MST, seja replicado em outros estados do pa&iacute;s.</p>
+J&aacute; Marcio Matos da dire&ccedil;&atilde;o nacional do MST, diz que &ldquo;a Reforma Agr&aacute;ria n&atilde;o pode ser vista como uma pol&iacute;tica p&uacute;blica. Ela precisa ser vista como a garantia de desenvolvimento econ&ocirc;mico e social para nosso pa&iacute;s&rdquo;.</p>
