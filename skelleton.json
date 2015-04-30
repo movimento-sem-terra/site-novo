@@ -245,9 +245,9 @@
     "view": "tracks"
   },
   "need": {
-    "field": "section",
+    "field": "type",
     "equal": true,
-    "value": "musicoteca"
+    "value": "album"
   }
 },
 {
@@ -260,9 +260,9 @@
     "view": "zip"
   },
   "need": {
-    "field": "section",
+    "field": "type",
     "equal": true,
-    "value": "musicoteca"
+    "value": "album"
   }
 }
 ]
