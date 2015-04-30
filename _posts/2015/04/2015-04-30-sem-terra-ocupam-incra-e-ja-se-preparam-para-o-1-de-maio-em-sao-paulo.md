@@ -52,7 +52,10 @@ A a&ccedil;&atilde;o faz parte da Jornada de Luta pela Reforma Agr&aacute;ria re
 Em todo o estado, mais de tr&ecirc;s mil fam&iacute;lias acampadas que est&atilde;o h&aacute; cerca de cinco anos na luta pela desapropria&ccedil;&atilde;o de novas &aacute;reas.</p>
 
 <p><br />
-Para Kelli Mafort, da coordena&ccedil;&atilde;o nacional do MST, a ocupa&ccedil;&atilde;o tem o objetivo de acelerar as demandas agr&aacute;rias e mostrar o descontentamento dos Sem Terra com as &uacute;ltimas medidas tomadas pelo governo federal para segurar a economia. &ldquo;Com as ocupa&ccedil;&otilde;es feitas em abril, n&oacute;s tivemos o ingresso de mil fam&iacute;lias no Movimento. Agora, em todo o estado de S&atilde;o Paulo, somos quatro mil fam&iacute;lias organizadas em n&uacute;cleos urbanos. Isso demonstra a grande demanda por terras em todo estado&rdquo;, diz.</p>
+Para Kelli Mafort, da coordena&ccedil;&atilde;o nacional do MST, a ocupa&ccedil;&atilde;o tem o objetivo de acelerar as demandas agr&aacute;rias e mostrar o descontentamento dos Sem Terra com as &uacute;ltimas medidas tomadas pelo governo federal para segurar a economia.</p>
+
+<p><br />
+&ldquo;Com as ocupa&ccedil;&otilde;es feitas em abril, n&oacute;s tivemos o ingresso de mil fam&iacute;lias no estado de S&atilde;o Paulo. Agora, em todo o estado de S&atilde;o Paulo, somos quatro mil fam&iacute;lias organizadas em n&uacute;cleos urbanos. Isso demonstra a grande demanda por terras em todo estado&rdquo;, diz.</p>
 
 <p><br />
 Ainda para Kelli, outros pontos a serem discutidos s&atilde;o a moradia no campo e a infraestrutura dos assentamentos. Nos &uacute;ltimos meses n&atilde;o houve a libera&ccedil;&atilde;o de nenhum im&oacute;vel pelo programa Minha Casa Minha Vida Rural.</p>
@@ -82,23 +85,22 @@ De acordo com Mafort, para piorar a situa&ccedil;&atilde;o, o Ministro da Fazend
 &ldquo;Estamos tamb&eacute;m repudiando o contingenciamento or&ccedil;ament&aacute;rio para a Reforma Agr&aacute;ria. O corte de 40% no or&ccedil;amento representa um golpe muito duro para todos n&oacute;s. J&aacute; vivemos uma situa&ccedil;&atilde;o estagnada em se tratado de Reforma Agr&aacute;ria, por isso, n&atilde;o podemos admitir que essa medida se perpetue. A Reforma Agr&aacute;ria est&aacute; bloqueada pela for&ccedil;a que exerce o agroneg&oacute;cio e a especula&ccedil;&atilde;o imobili&aacute;ria. O corte do Levy piora ainda mais o que j&aacute; est&aacute; ruim. Estamos em luta para n&atilde;o perder nenhuma conquista e para desbloquear a Reforma Agr&aacute;ria e o contingenciamento do or&ccedil;amento&rdquo;, finaliza.</p>
 
 <p><br />
+<strong>Hist&oacute;rias comum</strong></p>
+
+<p><br />
 Est&atilde;o acampados no Incra Sem Terra de v&aacute;rias regi&otilde;es do estado, como Pontal do Paranapanema, Andradina, Itapeva, Sorocaba, Iaras, Promiss&atilde;o, Campinas, Vale do Para&iacute;ba e Ribeir&atilde;o Preto.&nbsp;</p>
 
 <p><br />
-Entre as fam&iacute;lias, historias de pessoas que h&aacute; anos est&atilde;o debaixo da lona preta n&atilde;o s&atilde;o dif&iacute;ceis de encontrar. Hist&oacute;rias como a de &iacute;ndio. Acampado h&aacute; sete anos, com mais de 50 fam&iacute;lias no Acampamento Santa Maria da Conquista em Itapetininga.</p>
+Entre as fam&iacute;lias, hist&oacute;rias de pessoas que h&aacute; anos est&atilde;o debaixo da lona preta n&atilde;o s&atilde;o dif&iacute;ceis de encontrar. Hist&oacute;rias como a de &Iacute;ndio. Acampado h&aacute; sete anos, com mais de 50 fam&iacute;lias no Acampamento Santa Maria da Conquista, em Itapetininga.</p>
 
 <p><br />
-Os acampados foram informados na manh&atilde; dessa quinta-feira que propriet&aacute;rio da &aacute;rea, que j&aacute; foi destinada para Reforma Agr&aacute;ria, solicitou na justi&ccedil;a a reemiss&atilde;o de posse do terreno.&nbsp;</p>
+Os acampados foram informados na manh&atilde; desta quinta-feira que o propriet&aacute;rio da &aacute;rea solicitou na justi&ccedil;a a reemiss&atilde;o de posse do terreno. A fazenda j&aacute; tinha sido destinada para Reforma Agr&aacute;ria.</p>
 
 <p><br />
-&ldquo;Estamos sem saber o que fazer. A &aacute;rea j&aacute; foi destinada aos acampados por inst&acirc;ncias judici&aacute;rias de Itapetininga e da capital. Conceder a reemiss&atilde;o de posse ao propriet&aacute;rio significa fechar os olhos para as fam&iacute;lias que est&atilde;o h&aacute; anos naquelas terras&rdquo;, conclui.</p>
+&ldquo;Estamos sem saber o que fazer. A &aacute;rea j&aacute; foi destinada aos acampados por inst&acirc;ncias judici&aacute;rias de Itapetininga e da capital. Conceder a reemiss&atilde;o de posse ao propriet&aacute;rio significa fechar os olhos para as fam&iacute;lias que est&atilde;o h&aacute; anos naquelas terras&rdquo;, acredita.</p>
 
 <p><br />
-Uma reuni&atilde;o est&aacute; marcada para a tarde dessa quinta-feira com o superintendente regional do Incra, Wellington Diniz Monteiro para discutirem as pautas.</p>
+Uma reuni&atilde;o est&aacute; marcada para a tarde desta quinta-feira com o superintendente regional do Incra, Wellington Diniz Monteiro, para discutirem as pautas.</p>
 
 <p><br />
 Na manh&atilde; desta sexta-feira (1&deg;), seguem em marcha para se somarem &agrave; luta das centrais sindicais em comemora&ccedil;&atilde;o ao 1&deg; de Maio, Dia do Trabalhador.</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
