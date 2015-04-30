@@ -16,6 +16,18 @@ files:
     small: "http://farm9.staticflickr.com/8879/17322641462_50d260663c_n.jpg"
     title: Valmir fala durante cerimônia do governo federal em Prado para assentados - FOTO Peter Shilton.jpg
     $$hashKey: 083
+  - link: "http://farm8.staticflickr.com/7686/17117155417_2ec2179916_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7686/17117155417_2ec2179916_t.jpg"
+    medium: "http://farm8.staticflickr.com/7686/17117155417_2ec2179916_z.jpg"
+    small: "http://farm8.staticflickr.com/7686/17117155417_2ec2179916_n.jpg"
+    title: 1(1).jpg
+    $$hashKey: 05O
+  - link: "http://farm9.staticflickr.com/8782/17322738722_9da86333a7_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8782/17322738722_9da86333a7_t.jpg"
+    medium: "http://farm9.staticflickr.com/8782/17322738722_9da86333a7_z.jpg"
+    small: "http://farm9.staticflickr.com/8782/17322738722_9da86333a7_n.jpg"
+    title: 2(1).jpg
+    $$hashKey: 05R
 created_date: "2015-04-30T16:13:11-03:00"
 published: true
 images_hd: "http://farm9.staticflickr.com/8879/17322641462_50d260663c_n.jpg"
@@ -46,9 +58,11 @@ Para M&aacute;rcio Matos, da dire&ccedil;&atilde;o estadual do MST, &quot;a Refo
 
 <p><br />
 Esperamos que este dia possa simbolizar a retomada da Reforma Agr&aacute;ria no pa&iacute;s&quot;.<br />
-A Fazenda Colatina tem cerca de 30 mil hectares de terra, e fica &agrave;s margens da BR-101, no trecho entre Itamaraju e Teixeira de Freitas.</p>
+A Fazenda Colatina tem cerca de 30 mil hectares de terra, e fica &agrave;s margens da BR-101, no trecho entre Itamaraju e Teixeira de Freitas.<br />
+&nbsp;</p>
 
-<p><br />
+<p><img alt="2(1).jpg" src="http://farm9.staticflickr.com/8782/17322738722_9da86333a7_b.jpg" /><br />
+<br />
 Durante a cerim&ocirc;nia, o ministro Ananias prometeu intensificar as a&ccedil;&otilde;es de Reforma Agr&aacute;ria. &ldquo;Vamos mobilizar todas as energias para at&eacute; o final do governo Dilma assentar todas as fam&iacute;lias acampadas no pa&iacute;s, e fazer da agricultura familiar e dos assentamentos espa&ccedil;os de produ&ccedil;&atilde;o atrav&eacute;s da agroecologia&rdquo;.</p>
 
 <p><br />
@@ -61,9 +75,11 @@ O governador Rui Costa seguiu a mesma linha que o Ananias, ao dizer que &ldquo;a
 A nova presidenta do Incra, L&uacute;cia Falcon, disse que ir&aacute; acelerar o processo de assentamento das fam&iacute;lias acampadas, uma reivindica&ccedil;&atilde;o antiga dos movimentos sociais do campo, j&aacute; que os &iacute;ndices do governo Dilma foram os piores das &uacute;ltimas d&eacute;cadas.</p>
 
 <p><br />
-Para ela, &ldquo;n&atilde;o basta garantir acesso &agrave; terra. &Eacute; preciso capacita&ccedil;&atilde;o, educa&ccedil;&atilde;o continuada e profissionalizante, acesso &agrave; cr&eacute;dito. Este assentamento ser&aacute; um exemplo, inclusive num territ&oacute;rio sens&iacute;vel como &eacute; o extremo sul baiano, onde temos grandes &aacute;reas com planta&ccedil;&atilde;o de eucalipto e pecu&aacute;ria&rdquo;, apontou.</p>
+Para ela, &ldquo;n&atilde;o basta garantir acesso &agrave; terra. &Eacute; preciso capacita&ccedil;&atilde;o, educa&ccedil;&atilde;o continuada e profissionalizante, acesso &agrave; cr&eacute;dito. Este assentamento ser&aacute; um exemplo, inclusive num territ&oacute;rio sens&iacute;vel como &eacute; o extremo sul baiano, onde temos grandes &aacute;reas com planta&ccedil;&atilde;o de eucalipto e pecu&aacute;ria&rdquo;, apontou.<br />
+&nbsp;</p>
 
-<p><br />
+<p><img alt="1(1).jpg" src="http://farm8.staticflickr.com/7686/17117155417_2ec2179916_b.jpg" /><br />
+<br />
 <strong>Escola de Agroecologia</strong></p>
 
 <p><br />
