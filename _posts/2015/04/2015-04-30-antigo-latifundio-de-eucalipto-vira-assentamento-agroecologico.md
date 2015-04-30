@@ -61,7 +61,7 @@ releated_posts:
 <p><em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Motivados pela simbologia das ferramentas de trabalho, da produ&ccedil;&atilde;o e participa&ccedil;&atilde;o de homens e mulheres na constru&ccedil;&atilde;o da Reforma Agr&aacute;ria, cerca de 2 mil trabalhadores Sem Terra estiveram presentes nesta quinta-feira (30) no Ato de Emiss&atilde;o de posse dos Assentamentos Jaci Rocha e Ant&ocirc;nio Ar&aacute;ujo, localizados no munic&iacute;pio do Prado no Extremo Sul baiano.</p>
+Motivados pela simbologia das ferramentas de trabalho, da produ&ccedil;&atilde;o e participa&ccedil;&atilde;o de homens e mulheres na constru&ccedil;&atilde;o da Reforma Agr&aacute;ria, cerca de 2 mil trabalhadores Sem Terra estiveram presentes nesta quinta-feira (30) no Ato de Imiss&atilde;o de posse dos Assentamentos Jaci Rocha e Ant&ocirc;nio Ar&aacute;ujo, localizados no munic&iacute;pio do Prado no Extremo Sul baiano.</p>
 
 <p><br />
 O ato foi marcado pela assinatura do decreto de emiss&atilde;o de posse da fazenda Colatina e Cotia pelo Governador da Bahia Rui Costa, o Ministro da Defesa Jaques Wagner e o Ministro de Desenvolvimento Agr&aacute;rio Patrus Ananias.</p>
