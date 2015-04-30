@@ -90,7 +90,7 @@
   }
 },
 {
-  "name": "link-campaign",
+  "name": "link",
   "title": "Link",
   "required": true,
   "type": {
@@ -103,7 +103,7 @@
   }
 },
 {
-  "name": "link-target",
+  "name": "target",
   "title": "Abrir link em",
   "required": true,
   "type": {

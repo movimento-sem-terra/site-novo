@@ -4,7 +4,7 @@ tags:
   - tag: jornada-de-luta-das-mulheres-2015
   - tag: mobilizações
 section: null
-link-target: _blank
+target: _blank
 menu: lutas e mobilizações
 title: Jornada Nacional de Luta das Mulheres Camponesas
 support_line: Milhares de mulheres da Via Campesina se mobilizarão em todo país para denunciar os males do agronegócio.

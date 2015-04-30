@@ -2,8 +2,8 @@
 date: "2015-02-27T14:25:56-03:00"
 tags: []
 section: null
-link-campaign: "http://www.mst.org.br/2015/02/22/jornada-nacional-de-luta-das-mulheres-camponesas.html"
-link-target: _self
+link: "http://www.mst.org.br/2015/02/22/jornada-nacional-de-luta-das-mulheres-camponesas.html"
+target: _self
 title: Jornada Nacional de Luta das Mulheres Camponesas
 support_line: Milhares de mulheres da Via Campesina se mobilizarão em todo país para denunciar os males do agronegócio.
 layout: post

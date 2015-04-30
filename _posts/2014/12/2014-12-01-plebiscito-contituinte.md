@@ -15,8 +15,8 @@ files:
     $$hashKey: 01I
 published: false
 images_hd: "http://farm9.staticflickr.com/8580/15924645405_b883b6bae8_n.jpg"
-link-campaign: "http://www.plebiscitoconstituinte.org.br/"
-link-target: _self
+link: "http://www.plebiscitoconstituinte.org.br/"
+target: _self
 created_date: "2014-12-01 12:00"
 
 ---

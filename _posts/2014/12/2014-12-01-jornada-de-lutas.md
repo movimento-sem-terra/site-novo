@@ -15,8 +15,8 @@ files:
     $$hashKey: 02Q
 published: false
 images_hd: "http://farm9.staticflickr.com/8604/15737230058_8f3935eb0c_n.jpg"
-link-campaign: "http://www.une.org.br/noticias/jornada-de-lutas/"
-link-target: _blank
+link: "http://www.une.org.br/noticias/jornada-de-lutas/"
+target: _blank
 created_date: "2014-12-01 12:00"
 
 ---

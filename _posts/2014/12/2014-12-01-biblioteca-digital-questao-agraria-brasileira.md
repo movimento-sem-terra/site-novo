@@ -15,8 +15,8 @@ files:
     $$hashKey: "040"
 published: false
 images_hd: "http://farm8.staticflickr.com/7528/15898878746_e1b99dfeca_n.jpg"
-link-campaign: "http://www.reformaagrariaemdados.org.br/biblioteca"
-link-target: _blank
+link: "http://www.reformaagrariaemdados.org.br/biblioteca"
+target: _blank
 created_date: "2014-12-01 12:00"
 
 ---
