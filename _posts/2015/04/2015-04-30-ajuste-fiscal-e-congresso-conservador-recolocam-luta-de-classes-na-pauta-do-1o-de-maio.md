@@ -29,16 +29,15 @@ releated_posts:
 
 ---
 <p><img alt="centrais_1demaio.jpg" src="http://farm8.staticflickr.com/7693/17322876182_acd04ece2e_b.jpg" /><br />
+<br />
 <em>Por Bruno Pavan<br />
 Do Brasil de Fato</em></p>
 
 <p><br />
 Este dia 1&ordm; de maio ser&aacute; de mais discuss&otilde;es por conta das atitudes da equipe econ&ocirc;mica do segundo governo Dilma Rousseff. Por conta do baixo crescimento do PIB (Produto Interno Bruto, que &eacute; a soma das riquezas produzidas pelo pa&iacute;s) em 2014 e a previs&atilde;o de recess&atilde;o para 2015, um profundo e pol&ecirc;mico ajuste fiscal est&aacute; sendo gerido desde os &uacute;ltimos dias do ano passado pelo ministro da Fazenda, Joaquim Levy.</p>
 
-<p>&nbsp;
 <p><br />
 As medidas provis&oacute;rias 664 e 665, que alteram o recebimento de benef&iacute;cios como seguro desemprego e abono salarial, j&aacute; est&atilde;o prestes a serem aprovadas na C&acirc;mara dos Deputados. Caso isso se confirme, o trabalhador s&oacute; ter&aacute; direito ao seguro desemprego se estiver trabalhando por 18 meses ininterruptos na empresa. J&aacute; para receber o abono salarial, ter&aacute; que trabalhar por seis meses e receber&aacute; proporcionalmente ao tempo trabalhado.</p>
-</p>
 
 <p><br />
 Daniel Feldmann, doutor em Desenvolvimento Econ&ocirc;mico pela Universidade Estadual de Campinas (Unicamp) e professor da Universidade Federal de S&atilde;o Paulo (Unifesp), explica que as medidas s&atilde;o concentradoras de renda e que n&atilde;o d&atilde;o certeza de que o pa&iacute;s superar&aacute; a crise econ&ocirc;mica sem mais sacrif&iacute;cios.</p>
