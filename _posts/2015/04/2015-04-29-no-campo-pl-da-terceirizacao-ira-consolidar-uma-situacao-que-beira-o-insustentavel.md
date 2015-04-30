@@ -8,7 +8,7 @@ tags:
 title: "No campo, PL 4330 irá consolidar uma situação que beira o insustentável"
 support_line: "Caso aprovado, o PL 4330 pode piorar ainda mais a situação do trabalho no campo. 59,4% já não tem a carteira de trabalho assinada."
 menu: direitos humanos
-section: cover
+section: featured-news
 layout: post
 files:
   - link: "http://farm9.staticflickr.com/8793/17127044899_dbb5a48014_b.jpg"
