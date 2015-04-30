@@ -12,12 +12,6 @@ menu: lutas e mobilizações
 section: cover
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7741/17134116110_cfaba37917_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7741/17134116110_cfaba37917_t.jpg"
-    medium: "http://farm8.staticflickr.com/7741/17134116110_cfaba37917_z.jpg"
-    small: "http://farm8.staticflickr.com/7741/17134116110_cfaba37917_n.jpg"
-    title: terra para nossa.jpg
-    $$hashKey: 0N9
   - link: "http://farm8.staticflickr.com/7679/16704089653_9f532c3244_b.jpg"
     thumbnail: "http://farm8.staticflickr.com/7679/16704089653_9f532c3244_t.jpg"
     medium: "http://farm8.staticflickr.com/7679/16704089653_9f532c3244_z.jpg"
@@ -26,7 +20,7 @@ files:
     $$hashKey: 0AZ
 created_date: "2015-04-30T10:36:14-03:00"
 published: true
-images_hd: "http://farm8.staticflickr.com/7741/17134116110_cfaba37917_n.jpg"
+images_hd: "http://farm8.staticflickr.com/7679/16704089653_9f532c3244_n.jpg"
 releated_posts:
   - 2015/04/2015-04-15-jornada-nacional-de-lutas-comeca-em-todo-pais.md
   - 2015/04/2015-04-17-a-reforma-agraria-nao-foi-feita-quase-20-anos-depois-do-massacre-de-carajas.md
