@@ -44,7 +44,7 @@ releated_posts:
   - 2015/01/2015-01-12-com-metodo-cubano-sem-terra-buscam-erradicar-analfabetismo-no-sul-da-bahia.md
   - 2015/01/2015-01-19-durante-encontro-ciranda-infantil-leva-estudo-cultura-e-diversao-aos-sem-terrinha.md
   - 2015/03/2015-03-13-juventude-sem-terra-se-desafia-a-impulsionar-a-participacao-na-luta-pela-reforma-agraria.md
-section: featured-news
+section: null
 
 ---
 <p><img alt="2(1).jpg" src="http://farm8.staticflickr.com/7692/16691430913_26121690d8_b.jpg" /><br />
