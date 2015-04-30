@@ -36,7 +36,7 @@ files:
     $$hashKey: 0FD
 created_date: "2015-04-29T11:05:44-03:00"
 published: true
-images_hd: "http://farm9.staticflickr.com/8825/17123935098_ea92b30f74_n.jpg"
+images_hd: "http://farm8.staticflickr.com/7677/17124154420_5e806fe25e_n.jpg"
 releated_posts:
   - 2014/12/2014-11-10-seminario-constroi-linhas-de-atuacao-para-a-transicao-agroecologica-na-bahia.md
   - 2014/12/2014-11-28-escola-de-agroecologia-egidio-brunetto-realiza-1º-seminario-sobre-meio-ambiente.md
@@ -44,6 +44,7 @@ releated_posts:
   - 2015/01/2015-01-12-com-metodo-cubano-sem-terra-buscam-erradicar-analfabetismo-no-sul-da-bahia.md
   - 2015/01/2015-01-19-durante-encontro-ciranda-infantil-leva-estudo-cultura-e-diversao-aos-sem-terrinha.md
   - 2015/03/2015-03-13-juventude-sem-terra-se-desafia-a-impulsionar-a-participacao-na-luta-pela-reforma-agraria.md
+section: featured-news
 
 ---
 <p><img alt="2(1).jpg" src="http://farm8.staticflickr.com/7692/16691430913_26121690d8_b.jpg" /><br />
