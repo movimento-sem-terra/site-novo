@@ -18,6 +18,12 @@ files:
     small: "http://farm8.staticflickr.com/7741/17134116110_cfaba37917_n.jpg"
     title: terra para nossa.jpg
     $$hashKey: 0N9
+  - link: "http://farm8.staticflickr.com/7659/17135959350_5ba6c1c2c3_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7659/17135959350_5ba6c1c2c3_t.jpg"
+    medium: "http://farm8.staticflickr.com/7659/17135959350_5ba6c1c2c3_z.jpg"
+    small: "http://farm8.staticflickr.com/7659/17135959350_5ba6c1c2c3_n.jpg"
+    title: IMG_20150430_112356800.jpg
+    $$hashKey: 05I
 created_date: "2015-04-30T10:36:14-03:00"
 published: true
 images_hd: "http://farm8.staticflickr.com/7741/17134116110_cfaba37917_n.jpg"
@@ -28,6 +34,8 @@ releated_posts:
   - 2015/04/2015-04-30-em-brasilia-mst-se-junta-ao-1-de-maio-na-luta-por-mais-direitos-e-reforma-agraria.md
 
 ---
+<p><img alt="IMG_20150430_112356800.jpg" height="393" src="http://farm8.staticflickr.com/7659/17135959350_5ba6c1c2c3_b.jpg" width="700" /></p>
+
 <p><br />
 <em>Da P&aacute;gina do MST</em></p>
 
@@ -38,16 +46,18 @@ Mais de 600 Sem Terra ocuparam o Instituto Nacional de Coloniza&ccedil;&atilde;o
 Os trabalhadores rurais exigem a arrecada&ccedil;&atilde;o de novas &aacute;reas para a Reforma Agr&aacute;ria e a melhoria dos assentamentos j&aacute; existentes, como assist&ecirc;ncia t&eacute;cnica, infraestrutura, habita&ccedil;&atilde;o e um programa de agroecologia.</p>
 
 <p><br />
-A a&ccedil;&atilde;o faz parte da Jornda de Luta pela Reforma Agr&aacute;ria realizada pelo MST ao longo do m&ecirc;s de abril. S&oacute; no estado de S&atilde;o Paulo foram realizadas 10 ocupa&ccedil;&otilde;es de terras. Neste processo milhares de novas fam&iacute;lias se somaram &agrave; luta. Apenas na cidade de Ribeir&atilde;o Preto, h&aacute; mais de 700 novas fam&iacute;lias acampadas.</p>
+A a&ccedil;&atilde;o faz parte da Jornada de Luta pela Reforma Agr&aacute;ria realizada pelo MST ao longo do m&ecirc;s de abril. S&oacute; no estado de S&atilde;o Paulo foram realizadas 10 ocupa&ccedil;&otilde;es de terras. Neste processo milhares de novas fam&iacute;lias se somaram &agrave; luta. Apenas na cidade de Ribeir&atilde;o Preto, h&aacute; mais de 700 novas fam&iacute;lias acampadas.</p>
 
 <p><br />
-Em todo o estado, mais de 3 mil fam&iacute;lias lutam pela desapropria&ccedil;&atilde;o de novas &aacute;reas.</p>
+Em todo o estado, mais de tr&ecirc;s mil fam&iacute;lias acampadas que est&atilde;o h&aacute; cerca de cinco anos na luta pela desapropria&ccedil;&atilde;o de novas &aacute;reas.</p>
 
-<p><br />
-Segundo Kelli Mafort, da dire&ccedil;&atilde;o nacional do MST, a lentid&atilde;o da Reforma Agr&aacute;ria pode ser atribu&iacute;da ao predom&iacute;nio do agroneg&oacute;cio no campo e a especula&ccedil;&atilde;o imobili&aacute;ria, que encarecem as terras para a aquisi&ccedil;&atilde;o de novas &aacute;reas.</p>
+<p><em>Para Kelli Mafort</em><em>,</em> da coordena&ccedil;&atilde;o nacional do <em>MST</em>, a ocupa&ccedil;&atilde;o tem o objetivo de acelerar as demandas agr&aacute;rias e mostrar o descontentamento dos Sem Terra com as &uacute;ltimas medidas tomadas pelo governo federal para segurar a economia. &ldquo;Com as ocupa&ccedil;&otilde;es feitas em abril, n&oacute;s tivemos o ingresso de mil fam&iacute;lias no Movimento. Agora, em todo o estado de S&atilde;o Paulo, somos quatro mil fam&iacute;lias organizadas em n&uacute;cleos urbanos. Isso demonstra a grande demanda por terras em todo estado&rdquo;, diz.</p>
 
-<p><br />
-Al&eacute;m disso, Mafort identifica uma falta de vontade pol&iacute;tica tanto do governo federal quanto do Incra.</p>
+<p>Ainda para Kelli, outros pontos a serem discutidos s&atilde;o a moradia no campo e a infraestrutura dos assentamentos. Nos &uacute;ltimos meses n&atilde;o houve a libera&ccedil;&atilde;o de nenhum im&oacute;vel pelo programa Minha Casa Minha Vida Rural.</p>
+
+<p>&ldquo;No estado de S&atilde;o Paulo s&atilde;o cerca de 22 mil fam&iacute;lias assentadas. Boa parte dessas &aacute;reas s&atilde;o precarizadas. Falta estrutura b&aacute;sica para que as fam&iacute;lias possam seguir com dignidade. As fam&iacute;lias conquistam a terra, mas n&atilde;o tem libera&ccedil;&atilde;o de recursos. Sem isso, n&atilde;o conseguem constituir moradia. Temos problemas prim&aacute;rios como falta de &aacute;gua e falta de po&ccedil;os artesianos para consumo e irriga&ccedil;&atilde;o. Ainda, assim em condi&ccedil;&otilde;es adversas, as nossas fam&iacute;lias est&atilde;o inseridas dentro do contexto da agroecologia, da sustentabilidade e do consumo consciente, mostrando que a Reforma Agr&aacute;ria Popular &eacute; poss&iacute;vel&rdquo;, pontua. &nbsp;<br />
+<br />
+Mafort tamb&eacute;m identifica falta de vontade pol&iacute;tica tanto do governo federal quanto do Incra.</p>
 
 <p><br />
 O poder Judici&aacute;rio &eacute; considerado pela Sem Terra outro elemento desfavor&aacute;vel &agrave; arrecada&ccedil;&atilde;o de novas &aacute;reas.</p>
@@ -64,8 +74,21 @@ No Brasil, existem 193 &aacute;reas que se encontram com processos judiciais que
 <p><br />
 De acordo com Mafort, para piorar a situa&ccedil;&atilde;o, o Ministro da Fazenda, Joaquim Levy, est&aacute; amea&ccedil;ando contingenciar 40% do or&ccedil;amento que seria destinado &agrave; Reforma Agr&aacute;ria.</p>
 
-<p><br />
-&ldquo;A Reforma Agr&aacute;ria est&aacute; bloqueada pela for&ccedil;a que exerce o agroneg&oacute;cio e a especula&ccedil;&atilde;o imobili&aacute;ria. O corte do Levy piora ainda mais o que j&aacute; est&aacute; ruim. Estamos em luta para n&atilde;o perder nenhuma conquista e para desbloquear a Reforma Agr&aacute;ria e o contingenciamento do or&ccedil;amento&rdquo;, disse Mafort.</p>
+<p>&ldquo;Estamos tamb&eacute;m repudiando o contingenciamento or&ccedil;ament&aacute;rio para a Reforma Agr&aacute;ria. O corte de 40% no or&ccedil;amento representa um golpe muito duro para todos n&oacute;s. J&aacute; vivemos uma situa&ccedil;&atilde;o estagnada em se tratado de Reforma Agr&aacute;ria, por isso, n&atilde;o podemos admitir que essa medida se perpetue. A Reforma Agr&aacute;ria est&aacute; bloqueada pela for&ccedil;a que exerce o agroneg&oacute;cio e a especula&ccedil;&atilde;o imobili&aacute;ria. O corte do Levy piora ainda mais o que j&aacute; est&aacute; ruim. Estamos em luta para n&atilde;o perder nenhuma conquista e para desbloquear a Reforma Agr&aacute;ria e o contingenciamento do or&ccedil;amento&rdquo;, finaliza.</p>
+
+<p>Est&atilde;o acampados no Incra Sem Terra de v&aacute;rias regi&otilde;es do estado, como Pontal do Paranapanema, Andradina, Itapeva, Sorocaba, Iaras, Promiss&atilde;o, Campinas, Vale do Para&iacute;ba e Ribeir&atilde;o Preto. &nbsp;</p>
+
+<p>Entre as fam&iacute;lias, historias de pessoas que h&aacute; anos est&atilde;o debaixo da lona preta n&atilde;o s&atilde;o dif&iacute;ceis de encontrar. Hist&oacute;rias como a de &iacute;ndio. Acampado h&aacute; sete anos, com mais de 50 fam&iacute;lias no Acampamento Santa Maria da Conquista em Itapetininga.</p>
+
+<p>Os acampados foram informados na manh&atilde; dessa quinta-feira que propriet&aacute;rio da &aacute;rea, que j&aacute; foi destinada para Reforma Agr&aacute;ria, solicitou na justi&ccedil;a a reemiss&atilde;o de posse do terreno. &nbsp;</p>
+
+<p>&ldquo;Estamos sem saber o que fazer. A &aacute;rea j&aacute; foi destinada aos acampados por inst&acirc;ncias judici&aacute;rias de Itapetininga e da capital. Conceder a reemiss&atilde;o de posse ao propriet&aacute;rio significa fechar os olhos para as fam&iacute;lias que est&atilde;o h&aacute; anos naquelas terras&rdquo;, conclui.</p>
 
 <p><br />
-Os Sem Terra seguem com o Incra ocupado at&eacute; manh&atilde; desta sexta-feira (1&deg;), quando saem em marcha para se somarem &agrave; luta das centrais sindicais em comemora&ccedil;&atilde;o ao 1&deg; de Maio, Dia do Trabalhador.</p>
+Uma reuni&atilde;o est&aacute; marcada para a tarde dessa quinta-feira com o superintendente regional do Incra, <em>Wellington Diniz</em> Monteiro para discutirem as pautas.</p>
+
+<p>Na manh&atilde; desta sexta-feira (1&deg;), seguem em marcha para se somarem &agrave; luta das centrais sindicais em comemora&ccedil;&atilde;o ao 1&deg; de Maio, Dia do Trabalhador.</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
