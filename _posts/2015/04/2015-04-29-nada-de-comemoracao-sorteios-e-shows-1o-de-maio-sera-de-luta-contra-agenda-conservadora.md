@@ -23,6 +23,7 @@ releated_posts:
   - 2015/04/2015-04-15-jornada-nacional-de-lutas-comeca-em-todo-pais.md
   - 2015/04/2015-04-27-50-anos-da-globo-e-marcado-por-protestos-em-todo-pais.md
   - 2015/04/2015-04-27-protestos-em-todo-pais-marcam-os-50-anos-da-globo.md
+section: featured-news
 
 ---
 <p><img alt="11-julho-terceirizao.jpg" src="http://farm8.staticflickr.com/7695/16691078713_742d1a4ca6_b.jpg" /><br />
