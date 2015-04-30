@@ -6,7 +6,7 @@ tags:
   - tag: 1°-de-maio
   - tag: reforma-agrária
   - tag: jornada-de-lutas-2015
-title: Sem Terra ocupam Incra e já se preparam para o 1° de Maio em São Paulo
+title: Sem Terra ocupam Incra e se preparam para o 1° de Maio em São Paulo
 support_line: Os trabalhadores rurais exigem a arrecadação de novas áreas para a Reforma Agrária e a melhoria dos assentamentos já existentes.
 menu: lutas e mobilizações
 section: cover
@@ -32,16 +32,16 @@ releated_posts:
 <em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Mais de 600 Sem Terra ocuparam o Instituo Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra), em S&atilde;o Paulo, na manh&atilde; desta quinta-feira (30).</p>
+Mais de 600 Sem Terra ocuparam o Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra), em S&atilde;o Paulo, na manh&atilde; desta quinta-feira (30).</p>
 
 <p><br />
 Os trabalhadores rurais exigem a arrecada&ccedil;&atilde;o de novas &aacute;reas para a Reforma Agr&aacute;ria e a melhoria dos assentamentos j&aacute; existentes, como assist&ecirc;ncia t&eacute;cnica, infraestrutura, habita&ccedil;&atilde;o e um programa de agroecologia.</p>
 
 <p><br />
-A a&ccedil;&atilde;o faz parte da Jorna de Luta pela Reforma Agr&aacute;ria realizada pelo MST ao longo do m&ecirc;s de abril. S&oacute; no estado de S&atilde;o Paulo foram realizadas 10 ocupa&ccedil;&otilde;es de terras. Neste processo milhares de novas fam&iacute;lias se somaram &agrave; luta. S&oacute; na cidade de Ribeir&atilde;o Preto, h&aacute; mais de 700 novas fam&iacute;lias acampadas.</p>
+A a&ccedil;&atilde;o faz parte da Jornda de Luta pela Reforma Agr&aacute;ria realizada pelo MST ao longo do m&ecirc;s de abril. S&oacute; no estado de S&atilde;o Paulo foram realizadas 10 ocupa&ccedil;&otilde;es de terras. Neste processo milhares de novas fam&iacute;lias se somaram &agrave; luta. Apenas na cidade de Ribeir&atilde;o Preto, h&aacute; mais de 700 novas fam&iacute;lias acampadas.</p>
 
 <p><br />
-Em todo o estado, mais de 3 mil fam&iacute;lias acampadas lutam pela desapropria&ccedil;&atilde;o de novas &aacute;reas.</p>
+Em todo o estado, mais de 3 mil fam&iacute;lias lutam pela desapropria&ccedil;&atilde;o de novas &aacute;reas.</p>
 
 <p><br />
 Segundo Kelli Mafort, da dire&ccedil;&atilde;o nacional do MST, a lentid&atilde;o da Reforma Agr&aacute;ria pode ser atribu&iacute;da ao predom&iacute;nio do agroneg&oacute;cio no campo e a especula&ccedil;&atilde;o imobili&aacute;ria, que encarecem as terras para a aquisi&ccedil;&atilde;o de novas &aacute;reas.</p>
@@ -50,7 +50,9 @@ Segundo Kelli Mafort, da dire&ccedil;&atilde;o nacional do MST, a lentid&atilde;
 Al&eacute;m disso, Mafort identifica uma falta de vontade pol&iacute;tica tanto do governo federal quanto do Incra.</p>
 
 <p><br />
-O poder Judici&aacute;rio &eacute; considerado pela Sem Terra uma outra for&ccedil;a desfavor&aacute;vel a arrecada&ccedil;&atilde;o de novas &aacute;reas.<br />
+O poder Judici&aacute;rio &eacute; considerado pela Sem Terra outro elemento desfavor&aacute;vel &agrave; arrecada&ccedil;&atilde;o de novas &aacute;reas.</p>
+
+<p><br />
 Para ela, &ldquo;o Poder Judici&aacute;rio claramente atua em defesa dos interesses do agroneg&oacute;cio. Temos in&uacute;meros processos judiciais que h&aacute; anos est&atilde;o parados nas comarcas esperando para serem solucionados&rdquo;, coloca.</p>
 
 <p><br />
