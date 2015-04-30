@@ -39,6 +39,11 @@ files:
     medium: "http://farm8.staticflickr.com/7741/17325089951_aca49b3a8f_z.jpg"
     small: "http://farm8.staticflickr.com/7741/17325089951_aca49b3a8f_n.jpg"
     title: 3_bahia.JPG
+  - link: "http://farm8.staticflickr.com/7788/17325530805_17010d5c1f_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7788/17325530805_17010d5c1f_t.jpg"
+    medium: "http://farm8.staticflickr.com/7788/17325530805_17010d5c1f_z.jpg"
+    small: "http://farm8.staticflickr.com/7788/17325530805_17010d5c1f_n.jpg"
+    title: 3_bahia.JPG
 created_date: "2015-04-30T16:13:11-03:00"
 published: true
 images_hd: "http://farm9.staticflickr.com/8879/17322641462_50d260663c_n.jpg"
