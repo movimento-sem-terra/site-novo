@@ -29,7 +29,7 @@ files:
     title: 2(1).jpg
     $$hashKey: 05R
 created_date: "2015-04-30T16:13:11-03:00"
-published: true
+published: false
 images_hd: "http://farm9.staticflickr.com/8879/17322641462_50d260663c_n.jpg"
 releated_posts:
   - 2012/12/2012-12-05-confira-a-historia-do-assentamento-terra-vista-contada-pelos-assentados.md
