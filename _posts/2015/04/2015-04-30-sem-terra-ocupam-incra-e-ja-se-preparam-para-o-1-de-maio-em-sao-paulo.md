@@ -18,12 +18,12 @@ files:
     small: "http://farm8.staticflickr.com/7741/17134116110_cfaba37917_n.jpg"
     title: terra para nossa.jpg
     $$hashKey: 0N9
-  - link: "http://farm8.staticflickr.com/7659/17135959350_5ba6c1c2c3_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7659/17135959350_5ba6c1c2c3_t.jpg"
-    medium: "http://farm8.staticflickr.com/7659/17135959350_5ba6c1c2c3_z.jpg"
-    small: "http://farm8.staticflickr.com/7659/17135959350_5ba6c1c2c3_n.jpg"
-    title: IMG_20150430_112356800.jpg
-    $$hashKey: 05I
+  - link: "http://farm8.staticflickr.com/7679/16704089653_9f532c3244_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7679/16704089653_9f532c3244_t.jpg"
+    medium: "http://farm8.staticflickr.com/7679/16704089653_9f532c3244_z.jpg"
+    small: "http://farm8.staticflickr.com/7679/16704089653_9f532c3244_n.jpg"
+    title: IMG-20150430-WA0006.jpg
+    $$hashKey: 0AZ
 created_date: "2015-04-30T10:36:14-03:00"
 published: true
 images_hd: "http://farm8.staticflickr.com/7741/17134116110_cfaba37917_n.jpg"
@@ -34,7 +34,7 @@ releated_posts:
   - 2015/04/2015-04-30-em-brasilia-mst-se-junta-ao-1-de-maio-na-luta-por-mais-direitos-e-reforma-agraria.md
 
 ---
-<p><img alt="IMG_20150430_112356800.jpg" height="393" src="http://farm8.staticflickr.com/7659/17135959350_5ba6c1c2c3_b.jpg" width="700" /></p>
+<p><img alt="IMG-20150430-WA0006.jpg" height="394" src="http://farm8.staticflickr.com/7679/16704089653_9f532c3244_b.jpg" width="700" /></p>
 
 <p><br />
 <em>Da P&aacute;gina do MST</em></p>
