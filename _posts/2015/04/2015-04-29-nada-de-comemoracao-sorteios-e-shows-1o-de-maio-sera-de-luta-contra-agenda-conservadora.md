@@ -4,7 +4,7 @@ tags:
   - tag: 1°-de-maio
   - tag: lutas-e-mobilizações
   - tag: direitos-trabalhistas
-title: "Nada de comemoração, sorteios e shows: 1º de maio será de luta contra agenda conservadora"
+title: "Nada de comemoração, sorteios e shows: 1º de maio será de luta"
 support_line: "Em todo o país vão acontecer atos conjuntos que terão no centro da pauta a defesa dos direitos da classe trabalhadora, da democracia, da Petrobras e da reforma política."
 menu: lutas e mobilizações
 layout: post
