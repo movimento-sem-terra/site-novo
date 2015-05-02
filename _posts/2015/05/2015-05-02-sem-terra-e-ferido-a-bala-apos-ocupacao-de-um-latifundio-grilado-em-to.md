@@ -26,7 +26,7 @@ releated_posts:
   - 2014/12/2014-12-03-sem-terra-ocupam-terra-grilada-pelo-projeto-sampaio-em-tocantis.md
   - 2015/04/2015-04-02-o-nosso-exercito-e-de-trabalhadores-que-lutam-pela-terra-diz-coordenador-do-mst.md
   - 2015/04/2015-04-15-jornada-nacional-de-lutas-comeca-em-todo-pais.md
-section: cover
+section: null
 
 ---
 <p><img alt="to.jpg" src="http://farm8.staticflickr.com/7660/17155311849_2f8b1f431f_b.jpg" /><br />
