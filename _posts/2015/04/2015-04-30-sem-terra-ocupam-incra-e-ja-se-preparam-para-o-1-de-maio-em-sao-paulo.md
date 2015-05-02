@@ -9,7 +9,7 @@ tags:
 title: Sem Terra ocupam Incra e se preparam para o 1° de Maio em São Paulo
 support_line: Os trabalhadores rurais exigem a arrecadação de novas áreas para a Reforma Agrária e a melhoria dos assentamentos já existentes.
 menu: lutas e mobilizações
-section: cover
+section: null
 layout: post
 files:
   - link: "http://farm8.staticflickr.com/7679/16704089653_9f532c3244_b.jpg"
