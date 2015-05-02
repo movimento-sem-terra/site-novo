@@ -7,7 +7,7 @@ tags:
   - tag: reforma-agrária
   - tag: lutas-e-mobilizações
 title: Sem Terra é ferido à bala após ocupação de latifúndio grilado em TO
-support_line: "A Fazenda Santa Ilário pertence a Antônio Borges, que em 2005,entrou na “Lista Suja” do trabalho escravo após encontrem 6 pessoas em situação degradante."
+support_line: "A Fazenda Santa Ilário pertence a Antônio Borges, que em 2005 entrou na “Lista Suja” do trabalho escravo após o MTE encontrar 6 pessoas em situações degradantes."
 menu: direitos humanos
 layout: post
 files:
@@ -53,5 +53,3 @@ J&aacute; em 2007, a fazenda foi novamente palco de um conflito entre Sem Terras
 
 <p><br />
 Em 12 de agosto de 2004, o Grupo M&oacute;vel de Fiscaliza&ccedil;&atilde;o do Minist&eacute;rio do Trabalho e Emprego, em fiscaliza&ccedil;&atilde;o na Fazenda Santo Hil&aacute;rio, libertou 6 pessoas encontradas em condi&ccedil;&otilde;es de trabalho an&aacute;logo ao de escravo. O nome do propriet&aacute;rio, Lund Ant&ocirc;nio Borges, foi inclu&iacute;do na &ldquo;Lista Suja&rdquo;, em julho de 2005.</p>
-
-<p>&nbsp;</p>
