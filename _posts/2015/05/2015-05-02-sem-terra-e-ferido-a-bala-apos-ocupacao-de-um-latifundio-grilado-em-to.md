@@ -34,13 +34,13 @@ section: cover
 <em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Cerca de 150 fam&iacute;lias Sem Terra foram recebidas &agrave; bala logo ap&oacute;s ocuparem a Fazenda Santa Il&aacute;rio, na cidade de Araguatins, no Tocantins.</p>
+Cerca de 150 fam&iacute;lias Sem Terra foram recebidas &agrave; bala logo ap&oacute;s ocuparem a Fazenda Santa Il&aacute;rio, na cidade de Araguatins, no Tocantins, na manh&atilde; deste s&aacute;bado (2)</p>
 
 <p><br />
 At&eacute; o momento, h&aacute; a informa&ccedil;&atilde;o de um Sem Terra feriado &agrave; tiro pelos pistoleiros. Segundo os trabalhadores rurais, a &aacute;rea pertence &agrave; Uni&atilde;o e foi grilada pelo fazendeiro paulista Lund Ant&ocirc;nio Borges.</p>
 
 <p><br />
-N&atilde;o &eacute; a primeira vez que situa&ccedil;&otilde;es deste tipo acontecem na luta pela Fazenda Santa Il&aacute;rio. Situa&ccedil;&otilde;es semelhantes a esse j&aacute; aconteceram&nbsp;em abril de 2009 e em agosto de 2007.</p>
+N&atilde;o &eacute; a primeira vez que situa&ccedil;&otilde;es deste tipo acontecem na luta pela Fazenda Santa Il&aacute;rio. Situa&ccedil;&otilde;es semelhantes a essa&nbsp;j&aacute; aconteceram&nbsp;em abril de 2009 e em agosto de 2007.</p>
 
 <p><br />
 Ap&oacute;s uma ocupa&ccedil;&atilde;o em 2009, tr&ecirc;s pessoas chegaram num ve&iacute;culo e realizaram cinco disparos com arma de fogo em dire&ccedil;&atilde;o a um grupo de crian&ccedil;as, mulheres, um portador de defici&ecirc;ncia f&iacute;sica e diversos acampados, atingindo um deles: Raimundo Nonato. Na &eacute;poca, um dos tr&ecirc;s atiradores foi identificado pelos acampados como agente da Pol&iacute;cia Civil de Araguatins.</p>
