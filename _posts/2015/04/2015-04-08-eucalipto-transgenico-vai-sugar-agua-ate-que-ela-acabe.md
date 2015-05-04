@@ -4,7 +4,7 @@ tags:
   - tag: eucalipto
   - tag: transgênicos
   - tag: CTNBio
-title: “Eucalipto transgênico vai sugar água até que ela acabe”
+title: "Para especialista, \"eucalipto transgênico vai sugar água até que ela acabe\""
 menu: agronegócio
 label: interviews
 support_line: "Para Leonardo Melgarejo, aprovação de nova modalidade irá resultar em impactos ambientais ainda não medidos"

@@ -5,7 +5,7 @@ tags:
 title: "Em MG, Sem Terra ocupam duas áreas"
 support_line: As atividades fazem parte da Jornada Nacional de Lutas pela Reforma Agrária que acontecem essa semana em todo o Brasil.
 menu: lutas e mobilizações
-section: featured-news
+section: null
 sector: mass-front
 layout: post
 files:
@@ -21,7 +21,8 @@ images_hd: "http://farm8.staticflickr.com/7627/16992169568_94251f8bb0_n.jpg"
 releated_posts: []
 
 ---
-<p><em>Da P&aacute;gina do MST</em></p>
+<p><br />
+<em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
 Nessa sexta-feira (17), data em que &eacute; lembrado o triste epis&oacute;dio conhecido como Massacre de Eldorado dos Caraj&aacute;s, onde 21 Sem Terra foram mortos, no ano de 1996, &nbsp;o MST realiza duas ocupa&ccedil;&otilde;es em Minas Gerais. As atividades fazem parte da Jornada Nacional de Lutas pela Reforma Agr&aacute;ria que ocorrem em v&aacute;rios estados do Brasil.</p>

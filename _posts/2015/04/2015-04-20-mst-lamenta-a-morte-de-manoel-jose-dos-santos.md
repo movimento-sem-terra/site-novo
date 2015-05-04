@@ -6,7 +6,7 @@ tags:
   - tag: Manoel-dos-Santos
 title: "MST lamenta a morte de Manoel José dos Santos "
 support_line: "O líder da bancada do PT na Assembleia Legislativa de Pernambuco, morreu neste domingo (19), vítima de câncer."
-section: featured-news
+section: null
 menu: lutas e mobilizações
 layout: post
 files:
@@ -30,14 +30,11 @@ releated_posts: []
 
 <p><br />
 &Eacute; com grande pesar que comunicamos e sentimos o falecimento do deputado estadual, l&iacute;der da bancada do PT na Assembleia Legislativa de Pernambuco, Manoel Jos&eacute; dos Santos.</p>
+<p><br />
+Manoel de Serra, como era conhecido, morreu neste domingo (19), v&iacute;tima de c&acirc;ncer aos 63 anos: era casado e pai de quatro filhos.&nbsp;</p>
 
-<p>&nbsp;</p>
-
-<p>Manoel de Serra, como era conhecido, morreu neste domingo (19), v&iacute;tima de c&acirc;ncer aos 63 anos: era casado e pai de quatro filhos.&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>Manoel, antes de tudo, foi um batalhador na&nbsp;luta pela Reforma Agr&aacute;ria e pelos direitos dos&nbsp;trabalhadores rurais.</p>
+<p><br />
+Manoel, antes de tudo, foi um batalhador na&nbsp;luta pela Reforma Agr&aacute;ria e pelos direitos dos&nbsp;trabalhadores rurais.</p>
 
 <p><br />
 Ele vinha se tratando de um c&acirc;ncer de es&ocirc;fago h&aacute; alguns anos. Fazia tratamento especializado no Hospital Benefic&ecirc;ncia Portuguesa, em S&atilde;o Paulo.</p>

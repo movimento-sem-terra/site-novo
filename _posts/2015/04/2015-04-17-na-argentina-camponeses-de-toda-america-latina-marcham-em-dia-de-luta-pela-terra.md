@@ -45,6 +45,7 @@ releated_posts:
   - 2015/04/2015-04-15-cerca-de-1200-camponeses-participam-da-abertura-do-6-congresso-da-cloc.md
   - 2015/04/2015-04-15-temos-que-nos-preparar-para-enfrentar-um-imperio-em-crise-afirma-atilio-boron.md
   - 2015/04/2015-04-16-nao-podemos-deixar-de-lutar-pelo-sangue-de-eldorado-dos-carajas-disse-marina-dos-santos.md
+section: featured-news
 
 ---
 <p><img alt="IMG_5504.JPG" src="http://farm8.staticflickr.com/7652/16558710204_23c2bb5525_b.jpg" /></p>

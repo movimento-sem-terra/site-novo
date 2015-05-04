@@ -1,0 +1,12 @@
+{
+  "views": {
+    "post": {
+      "description": "noticias",
+      "file": "skelleton.json"
+    },
+    "playlist": {
+      "description": "musicoteca",
+      "file": "playlist.json"
+    }
+  }
+}
