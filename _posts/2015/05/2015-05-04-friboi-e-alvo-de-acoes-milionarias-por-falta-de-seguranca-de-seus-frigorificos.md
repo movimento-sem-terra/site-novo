@@ -5,7 +5,7 @@ tags:
   - tag: friboi
   - tag: frigoríficos
   - tag: direitos-humanos
-title: Friboi é alvo de ações milionárias por falta de segurança de seus frigoríficos
+title: Friboi é alvo de ações milionárias por falta de segurança em seus frigoríficos
 support_line: "Com três acidentes graves apenas neste ano, JBS Friboi é alvo de ações milionárias que denunciam falta de segurança para trabalhadores nos frigoríficos."
 menu: agronegócio
 layout: post
@@ -67,8 +67,7 @@ S&oacute; nos dois primeiros meses deste ano, outros dois graves acidentes, al&e
 <p>&nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="Vanderlei mao decepada.jpg" src="http://farm9.staticflickr.com/8716/17183318298_124575db2f_b.jpg" />
-<figcaption>Segundo o sindicato, Vanderlei foi orientado a limpar uma m&aacute;quina em funcionamento para n&atilde;o atrasar a produ&ccedil;&atilde;o do frigor&iacute;fico. Foto: Sergio Borges.<br />
-</figcaption>
+<figcaption>Segundo o sindicato, Vanderlei foi orientado a limpar uma m&aacute;quina em funcionamento para n&atilde;o atrasar a produ&ccedil;&atilde;o do frigor&iacute;fico. Foto: Sergio Borges.</figcaption>
 </figure>
 
 <p>&ldquo;O Vanderlei foi orientado a realizar a limpeza com a moedeira ligada para n&atilde;o atrasar a produ&ccedil;&atilde;o. Al&eacute;m disso, ele n&atilde;o foi treinado para essa fun&ccedil;&atilde;o, n&atilde;o tinha nenhuma experi&ecirc;ncia&rdquo;, explica Wagner Rodrigues, secret&aacute;rio-geral do Sindicato da Alimenta&ccedil;&atilde;o de Carambe&iacute;. &ldquo;A m&aacute;quina n&atilde;o tinha as conten&ccedil;&otilde;es para evitar acidentes. Ele enfiou a m&atilde;o para fazer a limpeza de um res&iacute;duo e n&atilde;o viu que havia uma l&acirc;mina&rdquo;, acrescenta. Procurado pela reportagem, Vanderlei preferiu n&atilde;o dar entrevista. Tem receio de que a publicidade dificulte as negocia&ccedil;&otilde;es com a empresa.</p>
@@ -86,8 +85,7 @@ O bra&ccedil;o arrancado de William no Mato Grosso do Sul, a m&atilde;o decepada
 &ldquo;O que salta aos olhos &eacute; a falta de compromisso da JBS. N&atilde;o h&aacute; preven&ccedil;&atilde;o para coisas b&aacute;sicas&rdquo;, afirma Mauro M&uuml;ller, auditor fiscal do Minist&eacute;rio do Trabalho. Em dezembro de 2014, ele inspecionou uma planta de abate de aves no munic&iacute;pio de Passo Fundo, no interior do Rio Grande do Sul. Alguns equipamentos representavam tantos riscos aos trabalhadores que tiveram de ser interditados. &ldquo;Para a m&aacute;quina de limpar moela, por exemplo, j&aacute; havia uma CAT (Comunica&ccedil;&atilde;o de Acidente de Trabalho) registrada por amputa&ccedil;&atilde;o de dedo nos roletes&rdquo;, conta o auditor. Mesmo assim, ela continuava em opera&ccedil;&atilde;o, sem qualquer prote&ccedil;&atilde;o.</p>
 
 <figure class="image"><img alt="moela.JPG" src="http://farm8.staticflickr.com/7701/17345182066_ea41127b49_b.jpg" />
-<figcaption>Apesar de um acidente j&aacute; ter ocorrido nesta m&aacute;quina de limpar moela, ela continuava em opera&ccedil;&atilde;o sem as prote&ccedil;&otilde;es ness&aacute;rias em unidade da JBS Friboi. Foto: Divulga&ccedil;&atilde;o MTE.<br />
-</figcaption>
+<figcaption>Apesar de um acidente j&aacute; ter ocorrido nesta m&aacute;quina de limpar moela, ela continuava em opera&ccedil;&atilde;o sem as prote&ccedil;&otilde;es ness&aacute;rias em unidade da JBS Friboi. Foto: Divulga&ccedil;&atilde;o MTE.</figcaption>
 </figure>
 
 <p><br />
