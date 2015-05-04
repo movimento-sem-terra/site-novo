@@ -1,5 +1,5 @@
 ---
-date: "2015-05-02T11:01:37-03:00"
+date: "2015-05-01T11:01:37-03:00"
 tags:
   - tag: 1°-de-maio
   - tag: lutas-e-mobilizações
