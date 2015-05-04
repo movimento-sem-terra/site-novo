@@ -23,6 +23,9 @@ releated_posts:
   - 2014/06/2014-06-13-com-pressao-de-katia-abreu-dnit-pede-demolicao-de-acampamento-em-to.md
   - 2014/12/2014-12-03-sem-terra-ocupam-terra-grilada-pelo-projeto-sampaio-em-tocantis.md
   - 2015/03/2015-03-31-usurpacao-da-terra-e-repressao-aos-movimentos-sociais-na-historia-do-parana.md
+hat: Lutas
+sector: mass-front
+label: articles
 
 ---
 <p><img alt="IMG-20150504-WA0003.jpg" src="http://farm9.staticflickr.com/8834/17342433466_18e210c4f0_b.jpg" /></p>
