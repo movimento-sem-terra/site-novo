@@ -43,7 +43,7 @@ Da P&aacute;gina do MST </em></p>
 <p>No &uacute;ltimo dia (1), o governo do estado da Bahia, emitiu a posse dos cerca de quatro mil hectares da Fazenda Colatina para 227 fam&iacute;lias Sem Terra.</p>
 
 <p><br />
-A propriedade foi ocupada no Abril Vermelho de 2010. No assentamento, que recebeu o nome de Jacy Rocha,&nbsp; &eacute; desenvolvido o Projeto Assentamentos Sustent&aacute;veis com Agroflorestas e Biodiversidade, fruto de uma parceria entre o governo do estado, o MST, a Escola Superior de Agricultura Luiz de Queiroz da Universidade de S&atilde;o Paulo (Esalq-USP).</p>
+A propriedade foi ocupada no Abril Vermelho de 2010, no novo assentamento, que recebeu o nome de Jacy Rocha,&nbsp; &eacute; desenvolvido o Projeto Assentamentos Sustent&aacute;veis com Agroflorestas e Biodiversidade, fruto de uma parceria entre o governo do estado, o MST, a Escola Superior de Agricultura Luiz de Queiroz da Universidade de S&atilde;o Paulo (Esalq-USP).</p>
 
 <p><br />
 Ao todo em todo s&atilde;o 25 mil fam&iacute;lias acampadas em 10 regi&otilde;es do estado, a maioria do extremo sul da Bahia.</p>
@@ -52,13 +52,13 @@ Ao todo em todo s&atilde;o 25 mil fam&iacute;lias acampadas em 10 regi&otilde;es
 A destina&ccedil;&atilde;o de novas terras, &eacute; parte de constantes press&otilde;es feitas pelo Movimento ao governo estadual e federal.</p>
 
 <p><br />
-S&oacute; na &uacute;ltima Jornada Nacional de Lutas pela Reforma Agr&aacute;ria realizada em abril, foram feitas 27 ocupa&ccedil;&otilde;es em latif&uacute;ndios em todo estado at&eacute; o &uacute;ltimo dia 1&deg; de maio.</p>
+S&oacute; na &uacute;ltima Jornada Nacional de Lutas pela Reforma Agr&aacute;ria realizada em abril, foram feitas 27 ocupa&ccedil;&otilde;es de latif&uacute;ndios em todo estado at&eacute; o &uacute;ltimo dia 1&deg; de maio.</p>
 
 <p><br />
-Para Evanildo Costa da dire&ccedil;&atilde;o estadual do MST, as ocupa&ccedil;&otilde;es fazem parte das pautas de reivindica&ccedil;&otilde;es do Movimento e que j&aacute; foram entregues &agrave; governadoria do estado, ao Instituto de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra) e &agrave; Secretaria de Educa&ccedil;&atilde;o.</p>
+Para Evanildo Costa da dire&ccedil;&atilde;o estadual do MST, as ocupa&ccedil;&otilde;es fazem parte das pautas de reivindica&ccedil;&otilde;es do Movimento que j&aacute; foram entregues &agrave; governadoria do estado, ao Instituto de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra) e &agrave; Secretaria de Educa&ccedil;&atilde;o.</p>
 
 <p><br />
-&ldquo;Hoje n&oacute;s temos uma m&eacute;dia de 30 mil hectares de terras destinadas para Reforma Agr&aacute;ria, em sua maioria, pertencentes &agrave;s empresas Suzano Papel e Celulose, <em>Fibria</em> S/A (<em>antiga Aracruz</em> Celulose). Essas empresas possuem 1 milh&atilde;o de hectares de terras, temos 30 mil hectares ocupados pelo Movimento&rdquo;, diz.&nbsp;</p>
+&ldquo;Hoje n&oacute;s temos uma m&eacute;dia de 30 mil hectares de terras destinadas para Reforma Agr&aacute;ria, em sua maioria, pertencentes &agrave;s empresas Suzano Papel e Celulose, Fibria S/A (antiga Aracruz Celulose). Essas empresas possuem 1 milh&atilde;o de hectares de terras, temos 30 mil hectares ocupados pelo Movimento&rdquo;, diz.&nbsp;</p>
 
 <p><br />
 A Fibria S/A, foi condenada em 2013 pelo Minist&eacute;rio P&uacute;blico Federal em S&atilde;o Mateus (ES) a pagar 1 milh&atilde;o de reais de indeniza&ccedil;&atilde;o ao Estado por ter conseguido a titula&ccedil;&atilde;o de terras devolutas no Esp&iacute;rito Santo por meio de fraude.</p>
