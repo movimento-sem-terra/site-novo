@@ -10,7 +10,7 @@ video: "https://www.youtube.com/watch?v=TyWPoBF9NlU"
 layout: post
 files: []
 created_date: "2015-05-04T14:53:40-03:00"
-published: false
+published: true
 video_thumbnail: "http://img.youtube.com/vi/TyWPoBF9NlU/0.jpg"
 images_hd: ""
 releated_posts: []

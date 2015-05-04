@@ -176,7 +176,7 @@ files:
     title: capa_internet.jpg
     $$hashKey: 05N
 created_date: "2015-05-04T14:22:10-03:00"
-published: false
+published: true
 images_hd: "http://farm9.staticflickr.com/8710/17182270790_f0d7fc2ea4_n.jpg"
 releated_posts: []
 

@@ -98,7 +98,7 @@ files:
     title: CAPA Agroecologia em movimento.jpg
     $$hashKey: 05N
 created_date: "2015-05-04T14:47:44-03:00"
-published: false
+published: true
 images_hd: "http://farm8.staticflickr.com/7781/17182185378_9f91c8772b_n.jpg"
 releated_posts: []
 

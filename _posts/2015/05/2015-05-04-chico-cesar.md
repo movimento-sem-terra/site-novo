@@ -16,7 +16,7 @@ files:
     title: chico cesar.jpeg
     $$hashKey: 08P
 created_date: "2015-05-04T14:51:24-03:00"
-published: false
+published: true
 images_hd: "http://farm8.staticflickr.com/7797/17344080306_5231a1182b_n.jpg"
 releated_posts: []
 
