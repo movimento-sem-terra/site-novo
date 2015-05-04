@@ -32,7 +32,8 @@ releated_posts:
   - 2014/05/2014-05-22-incidencia-de-cancer-e-tres-vezes-maior-onde-ha-mais-exposicao-a-agrotoxicos.md
 
 ---
-<p><br />
+<p><img alt="Glifosato.jpg" src="http://farm8.staticflickr.com/7703/16746604363_7b91e13880_b.jpg" /><br />
+<br />
 <em>Por Marco Weissheimer<br />
 Do Sul21</em></p>
 
