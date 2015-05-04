@@ -5,7 +5,7 @@ tags:
   - tag: assentados
   - tag: reforma-agrária
 title: "Na Bahia, 30 mil hectares são destinados à Reforma Agrária "
-section: featured-news
+section: cover
 menu: agronegócio
 support_line: "Ao todo são 25 mil famílias acampadas em todo estado. "
 layout: post
@@ -42,7 +42,8 @@ Da P&aacute;gina do MST </em></p>
 
 <p>No &uacute;ltimo dia (1), o governo do estado da Bahia, emitiu a posse dos cerca de quatro mil hectares da Fazenda Colatina para 227 fam&iacute;lias Sem Terra.</p>
 
-<p>A propriedade foi ocupada no Abril Vermelho de 2010. No assentamento, que recebeu o nome de Jacy Rocha,&nbsp; &eacute; desenvolvido o Projeto Assentamentos Sustent&aacute;veis com Agroflorestas e Biodiversidade, fruto de uma parceria entre o governo do estado, o MST, a Escola Superior de Agricultura Luiz de Queiroz da Universidade de S&atilde;o Paulo (Esalq-USP).</p>
+<p><br />
+A propriedade foi ocupada no Abril Vermelho de 2010. No assentamento, que recebeu o nome de Jacy Rocha,&nbsp; &eacute; desenvolvido o Projeto Assentamentos Sustent&aacute;veis com Agroflorestas e Biodiversidade, fruto de uma parceria entre o governo do estado, o MST, a Escola Superior de Agricultura Luiz de Queiroz da Universidade de S&atilde;o Paulo (Esalq-USP).</p>
 
 <p><br />
 Ao todo em todo s&atilde;o 25 mil fam&iacute;lias acampadas em 10 regi&otilde;es do estado, a maioria do extremo sul da Bahia.</p>
