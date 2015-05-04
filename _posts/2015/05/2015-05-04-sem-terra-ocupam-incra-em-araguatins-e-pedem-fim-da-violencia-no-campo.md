@@ -25,7 +25,7 @@ releated_posts:
   - 2015/03/2015-03-31-usurpacao-da-terra-e-repressao-aos-movimentos-sociais-na-historia-do-parana.md
 hat: Lutas
 sector: mass-front
-label: articles
+label: null
 
 ---
 <p><img alt="IMG-20150504-WA0003.jpg" src="http://farm9.staticflickr.com/8834/17342433466_18e210c4f0_b.jpg" /></p>
