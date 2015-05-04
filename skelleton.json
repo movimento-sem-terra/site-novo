@@ -7,6 +7,11 @@
     "required": true,
     "type": {
       "view": "date"
+    },
+    "need": {
+      "field": "section",
+      "equal": false,
+      "value": "musicoteca"
     }
 },
 {
@@ -16,6 +21,11 @@
   "placeholder": "Informe o chapéu",
   "type": {
     "view": "textarea"
+  },
+  "need": {
+    "field": "section",
+    "equal": false,
+    "value": "musicoteca"
   }
 },
 {
@@ -60,7 +70,7 @@
   "need": {
     "field": "section",
     "equal": false,
-    "value": ["campaign", "newspaper"]
+    "value": ["campaign", "newspaper", "musicoteca"]
   }
 },
 {
@@ -73,14 +83,15 @@
     {"name": "Capa", "id": "cover"},
     {"name": "Destaque", "id": "featured-news"},
     {"name": "Vídeo", "id": "tv"},
+    {"name": "Musicoteca", "id": "musicoteca"},
     {"name": "Campanha", "id": "campaign"},
     {"name": "Jornal", "id": "newspaper"}
     ]
   }
 },
 {
-  "name": "link-campaign",
-  "title": "Link da Campanha",
+  "name": "link",
+  "title": "Link",
   "required": true,
   "type": {
     "view": "textarea"
@@ -92,7 +103,20 @@
   }
 },
 {
-  "name": "link-target",
+  "name": "link",
+  "title": "Link para o parceiro",
+  "required": false,
+  "type": {
+    "view": "textarea"
+  },
+  "need": {
+    "field": "type",
+    "equal": true,
+    "value": "partner"
+  }
+},
+{
+  "name": "target",
   "title": "Abrir link em",
   "required": true,
   "type": {
@@ -119,6 +143,11 @@
     {"name": "Entrevista", "id": "interviews"},
     {"name": "Reportagens Especiais", "id": "special-stories"}
     ]
+  },
+  "need": {
+    "field": "section",
+    "equal": false,
+    "value": "musicoteca"
   }
 },
 {
@@ -133,7 +162,13 @@
     {"name": "Cultura", "id": "culture"},
     {"name": "Frente de Massa", "id": "mass-front"}
     ]
+  },
+  "need": {
+    "field": "section",
+    "equal": false,
+    "value": "musicoteca"
   }
+
 },
 {
   "name": "video",
@@ -174,6 +209,59 @@
   "required": false,
   "type": {
     "view": "tagging"
+  },
+  "need": {
+    "field": "section",
+    "equal": false,
+    "value": "musicoteca"
+  }
+},
+
+{
+  "name": "type",
+  "title": "Tipo",
+  "required": false,
+  "type": {
+    "view": "select",
+    "options": [
+    {"name": "Parceiro", "id": "partner"},
+    {"name": "Album", "id": "album"}
+    ]
+  },
+  "need": {
+    "field": "section",
+    "equal": true,
+    "value": "musicoteca"
+  }
+},
+{
+  "name": "tracks",
+  "pattern": "",
+  "icon": "fa-music",
+  "title": "Músicas",
+  "required": false,
+  "type": {
+    "view": "tracks"
+  },
+  "need": {
+    "field": "type",
+    "equal": true,
+    "value": "album"
+  }
+},
+{
+  "name": "download",
+  "pattern": "",
+  "icon": "fa-file-archive-o",
+  "title": "Link zip",
+  "required": false,
+  "type": {
+    "view": "zip"
+  },
+  "need": {
+    "field": "type",
+    "equal": true,
+    "value": "album"
   }
 }
 ]
