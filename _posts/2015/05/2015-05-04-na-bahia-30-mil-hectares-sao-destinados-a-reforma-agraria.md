@@ -57,7 +57,7 @@ S&oacute; na &uacute;ltima Jornada Nacional de Lutas pela Reforma Agr&aacute;ria
 Para Evanildo Costa, da dire&ccedil;&atilde;o estadual do MST, as ocupa&ccedil;&otilde;es fazem parte das pautas de reivindica&ccedil;&otilde;es do Movimento e que j&aacute; foram entregues &agrave; governadoria do estado, ao Instituto de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra) e &agrave; Secretaria de Educa&ccedil;&atilde;o.</p>
 
 <p style="line-height: 20.7999992370605px;"><br />
-&ldquo;Hoje n&oacute;s temos uma m&eacute;dia de 30 mil hectares de terras destinadas para Reforma Agr&aacute;ria, em sua maioria, pertencentes &agrave;s empresas Suzano Papel e Celulose,&nbsp;<em>Fibria</em>&nbsp;S/A (<em>antiga Aracruz</em>&nbsp;Celulose). Essas empresas possuem 1 milh&atilde;o de hectares de terras, temos 30 mil hectares ocupados pelo Movimento&rdquo;, diz.&nbsp;</p>
+&ldquo;Hoje n&oacute;s temos uma m&eacute;dia de 30 mil hectares de terras destinadas para Reforma Agr&aacute;ria, em sua maioria, pertencentes &agrave;s empresas Suzano Papel e Celulose,&nbsp;Fibria&nbsp;S/A (antiga Aracruz&nbsp;Celulose). Essas empresas possuem 1 milh&atilde;o de hectares de terras, temos 30 mil hectares ocupados pelo Movimento&rdquo;, diz.&nbsp;</p>
 
 <p style="line-height: 20.7999992370605px;"><br />
 A Fibria S/A&nbsp;foi condenada em 2013 pelo Minist&eacute;rio P&uacute;blico Federal em S&atilde;o Mateus (ES) a pagar R$ 1 milh&atilde;o de indeniza&ccedil;&atilde;o ao Estado por ter conseguido a titula&ccedil;&atilde;o de terras devolutas no Esp&iacute;rito Santo por meio de fraude.</p>
