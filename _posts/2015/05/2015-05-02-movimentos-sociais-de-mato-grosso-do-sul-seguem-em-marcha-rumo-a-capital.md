@@ -1,5 +1,5 @@
 ---
-date: "2015-05-02T11:01:37-03:00"
+date: "2015-05-01T11:01:37-03:00"
 tags:
   - tag: 1°-de-maio
   - tag: lutas-e-mobilizações
@@ -8,7 +8,7 @@ tags:
   - tag: mato-grosso-do-sul
 title: Movimentos sociais de Mato Grosso do Sul seguem em marcha rumo a capital
 menu: lutas e mobilizações
-section: cover
+section: null
 support_line: A ação faz parte da luta do 1° de Maio. Diversas organizações se juntam em pautas unificadas para fazer frente a onda conservadora.
 layout: post
 files:

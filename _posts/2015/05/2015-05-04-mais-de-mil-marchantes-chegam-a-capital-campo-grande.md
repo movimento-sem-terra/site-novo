@@ -7,7 +7,7 @@ tags:
 title: Mais de mil marchantes chegam à capital Campo Grande
 support_line: No seu terceiro dia marchantes chegam a capital de Mato Grosso do Sul reivindicando direitos trabalhistas e reformas no país.
 menu: lutas e mobilizações
-section: cover
+section: null
 layout: post
 files:
   - link: "http://farm8.staticflickr.com/7699/17364853352_7e8976aea6_b.jpg"
