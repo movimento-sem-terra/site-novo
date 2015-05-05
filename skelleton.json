@@ -103,19 +103,6 @@
   }
 },
 {
-  "name": "link",
-  "title": "Link para o parceiro",
-  "required": false,
-  "type": {
-    "view": "textarea"
-  },
-  "need": {
-    "field": "type",
-    "equal": true,
-    "value": "partner"
-  }
-},
-{
   "name": "target",
   "title": "Abrir link em",
   "required": true,
@@ -143,11 +130,6 @@
     {"name": "Entrevista", "id": "interviews"},
     {"name": "Reportagens Especiais", "id": "special-stories"}
     ]
-  },
-  "need": {
-    "field": "section",
-    "equal": false,
-    "value": "musicoteca"
   }
 },
 {
@@ -162,13 +144,7 @@
     {"name": "Cultura", "id": "culture"},
     {"name": "Frente de Massa", "id": "mass-front"}
     ]
-  },
-  "need": {
-    "field": "section",
-    "equal": false,
-    "value": "musicoteca"
   }
-
 },
 {
   "name": "video",
@@ -232,6 +208,19 @@
     "field": "section",
     "equal": true,
     "value": "musicoteca"
+  }
+},
+{
+  "name": "link",
+  "title": "Link para o parceiro",
+  "required": false,
+  "type": {
+    "view": "textarea"
+  },
+  "need": {
+    "field": "type",
+    "equal": true,
+    "value": "partner"
   }
 },
 {
