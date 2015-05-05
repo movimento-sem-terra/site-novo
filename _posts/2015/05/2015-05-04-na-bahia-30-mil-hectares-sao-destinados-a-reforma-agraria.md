@@ -4,7 +4,7 @@ tags:
   - tag: Bahia
   - tag: assentados
   - tag: reforma-agrária
-title: "Na Bahia, Sem Terra lutam por 30 mil hectares para a Reforma Agrária "
+title: "Na Bahia, Sem Terra lutam por 30 mil hectares das empresas de celulose"
 section: null
 menu: agronegócio
 support_line: "Ao todo, existem 25 mil famílias acampadas em todo estado, a maioria no extremo sul da Bahia."
