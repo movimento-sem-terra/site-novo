@@ -5,7 +5,7 @@ tags:
   - tag: agronegócio
   - tag: união-europeia
 support_line: Advogados ambientalistas dizem que autorização irá fomentar outras indicações de políticas pró-indústria pendentes de acordo comercial.
-title: União Europeia se aproxima da Monsanto com aprovação na importação de transgênicos
+title: União Europeia se aproxima da Monsanto e aprova importação de transgênicos
 menu: transgênicos
 hat: Transgênicos
 layout: post
@@ -31,7 +31,8 @@ releated_posts:
 <figcaption></figcaption>
 </figure>
 
-<p><em>Por Andrea Germanos<br />
+<p><br />
+<em>Por Andrea Germanos<br />
 Do Common Dreams</em></p>
 
 <p><br />
