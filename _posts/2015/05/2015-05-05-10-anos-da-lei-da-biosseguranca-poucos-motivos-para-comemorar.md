@@ -27,6 +27,7 @@ releated_posts:
   - 2015/04/2015-04-28-para-especialista-aprovacao-de-eucalipto-transgenico-atende-apenas-interesse-do-mercado.md
   - 2015/04/2015-04-29-camara-aprova-pl-que-derruba-a-obrigatoriedade-da-rotulagem-de-alimentos-transgenicos.md
   - 2015/04/2015-04-30-neil-young-lanca-album-de-protesto-contra-monsanto.md
+label: articles
 
 ---
 <p><img alt="monsanto_reprodução_0.gif" src="http://farm9.staticflickr.com/8838/17172300427_3bc79c27df_b.jpg" /></p>
