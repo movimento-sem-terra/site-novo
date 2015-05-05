@@ -6,7 +6,7 @@ tags:
   - tag: educação
 title: "Seminário discute efeitos do consumo de agrotóxicos na saúde humana "
 support_line: Na atividade foram discutidas a relação entre a saúde e o avanço desenfreado do agronegócio.
-section: featured-news
+section: null
 menu: agronegócio
 layout: post
 files:
