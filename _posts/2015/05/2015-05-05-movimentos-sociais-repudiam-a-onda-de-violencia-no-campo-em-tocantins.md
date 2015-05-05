@@ -4,7 +4,7 @@ tags:
   - tag: direitos-humanos
   - tag: tocantins
   - tag: violência
-title: Movimentos sociais repudiam a onda de violência no campo em Tocantins
+title: Movimentos sociais repudiam onda de violência no campo em Tocantins
 support_line: "Em 2014, a CPT registrou 21 conflitos por terra envolvendo 1456 famílias em TO, sendo que 332 famílias foram despejadas, uma tentativa de assassinato e 6 pessoas foram ameaçadas de morte."
 menu: direitos humanos
 layout: post
