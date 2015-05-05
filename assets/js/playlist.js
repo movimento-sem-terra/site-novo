@@ -188,4 +188,26 @@ $(document).ready(function() {
   $('#albuns').on('click', 'li:not(.open) .cover', function() {
     openAlbum(getParent($(this), '.album'));
   });
+
+  $(window).scroll(function() {
+    var header =  $('main > header');
+    var nav = header.find('nav');
+    var navPos = header.height() + header.offset().top - nav.height();
+    var delta = navPos - $(document).scrollTop();
+
+    if(delta < 0) {
+      nav.addClass('fixed');
+    } else {
+      nav.removeClass('fixed');
+    }
+  });
+
+  $('header nav a').click(function(e) {
+    e.preventDefault();
+    var target = $(this).attr('href');
+    $('body,html').animate({
+      scrollTop: $(target).offset().top
+    }, 500);
+  });
+
 });
