@@ -76,7 +76,7 @@ Para o professor Raul Borges Guimar&atilde;es, a cria&ccedil;&atilde;o de assent
 &ldquo;A recupera&ccedil;&atilde;o dos solos e matas, bem como a constru&ccedil;&atilde;o da seguran&ccedil;a alimentar, s&atilde;o grandes conquistas em se tratando de sa&uacute;de e bem estar, mas esses assentamentos &nbsp;est&atilde;o em risco por estarem rodeados de cultivo de cana-de-a&ccedil;&uacute;car, com uso intensivo de agrot&oacute;xicos, bem como a instala&ccedil;&atilde;o de usinas de beneficiamento da cana&rdquo;, ressaltou.</p>
 
 <p><br />
-Para Antonio Thomaz Junior, assentado na regi&atilde;o do Pontal, a regi&atilde;o est&aacute; no centro do Pol&iacute;gono do Agroneg&oacute;cio, ou seja, dentro de uma vasta &aacute;rea de interesses do capital onde se concentra enorme por&ccedil;&atilde;o de terras f&eacute;rteis e com grande disponibilidade de &aacute;gua.</p>
+Para Antonio Thomaz Junior, pesquisador do Cetas-Unesp, a regi&atilde;o est&aacute; no centro do Pol&iacute;gono do Agroneg&oacute;cio, ou seja, dentro de uma vasta &aacute;rea de interesses do capital onde se concentra enorme por&ccedil;&atilde;o de terras f&eacute;rteis e com grande disponibilidade de &aacute;gua.</p>
 
 <p><br />
 &ldquo;Ap&oacute;s a instala&ccedil;&atilde;o de algumas usinas aumentaram os &iacute;ndices de doen&ccedil;as al&eacute;rgicas, respirat&oacute;rias, dermatol&oacute;gicas e at&eacute; neoplasias (c&acirc;ncer). V&aacute;rias doen&ccedil;as atingem tamb&eacute;m os animais e as planta&ccedil;&otilde;es. Existe tamb&eacute;m a dificuldade de produzir v&aacute;rias culturas agr&iacute;colas pelo impacto causado com o veneno que &eacute; despejo pelos avi&otilde;es pulverizadores ou que chega com o vento sobre a planta&ccedil;&atilde;o dos assentamentos&rdquo;, pontua.</p>
@@ -86,7 +86,3 @@ Como encaminhamentos do semin&aacute;rio, uma carta den&uacute;ncia ser&aacute; 
 
 <p><br />
 Tamb&eacute;m ser&aacute; produzido material informativo sobre os temas discutidos que ser&atilde;o distribu&iacute;dos em postos de sa&uacute;de, escolas e locais p&uacute;blicos para aumentar o conhecimento da popula&ccedil;&atilde;o sobre esses problemas na regi&atilde;o, al&eacute;m de outras atividades de forma&ccedil;&atilde;o e trabalho na &aacute;rea da sa&uacute;de.</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
