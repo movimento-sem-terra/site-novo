@@ -6,6 +6,11 @@ module Jekyll
     def generate(site)
       @all_articles = site.posts
       @newest_post = @all_articles.sort { |a, b| b <=> a }[0..300]
+      musicoteca  = find 'musicoteca', 'section', 50
+      musicoteca_videos = find('tv','section', 3).select{ |v| v.data['sector'] == 'culture'  }
+      musicoteca_albuns = musicoteca.select{ |m| m.data['type'] == 'album' }
+      musicoteca_partners = musicoteca.select{ |m| m.data['type'] == 'partner' }
+
       cover = find('cover').first
       tv_mst = find('tv').slice(0,5)
       newspapers = find('newspaper')
@@ -26,10 +31,6 @@ module Jekyll
       articles = find 'articles', 'label'
       interviews = find 'interviews', 'label'
 
-      musicoteca  = find 'musicoteca', 'section', 50
-      musicoteca_videos = find('tv','section', 3).select{ |v| v.data['sector'] == 'culture'  }
-      musicoteca_albuns = musicoteca.select{ |m| m.data['type'] == 'album' }
-      musicoteca_partners = musicoteca.select{ |m| m.data['type'] == 'partner' }
       site.config['musicoteca'] = {}
       site.config['musicoteca']['videos'] = musicoteca_videos
       site.config['musicoteca']['albuns'] = musicoteca_albuns
