@@ -190,11 +190,6 @@
     {"name": "Entrevista", "id": "interviews"},
     {"name": "Reportagens Especiais", "id": "special-stories"}
     ]
-  },
-  "need": {
-    "field": "section",
-    "equal": false,
-    "value": "musicoteca"
   }
 },
 {
@@ -209,11 +204,6 @@
     {"name": "Cultura", "id": "culture"},
     {"name": "Frente de Massa", "id": "mass-front"}
     ]
-  },
-  "need": {
-    "field": "section",
-    "equal": false,
-    "value": "musicoteca"
   }
 },
 {
