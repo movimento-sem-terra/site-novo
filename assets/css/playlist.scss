@@ -59,6 +59,21 @@ main#musicoteca {
     }
 
     nav {
+
+      background: $mst-red;
+      transition-duration: .5s;
+      position: relative;
+
+      &.fixed {
+        position: fixed;
+        top: 0;
+        left:0;
+        z-index: 100;
+        box-shadow: 1px 0px 6px rgb(50, 50, 50);
+        background: rgba($mst-red, .85);
+        -webkit-backface-visibility:hidden;
+      }
+
       ul {
         padding: 5px;
         margin: 0;
@@ -67,11 +82,9 @@ main#musicoteca {
         display: table;
         table-layout: fixed;
         width: 100%;
-        background: $mst-red;
 
         li {
           display: table-cell;
-
 
           a {
             color: white;
