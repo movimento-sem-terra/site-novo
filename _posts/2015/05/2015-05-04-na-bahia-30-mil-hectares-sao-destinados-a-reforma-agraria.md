@@ -4,10 +4,10 @@ tags:
   - tag: Bahia
   - tag: assentados
   - tag: reforma-agrária
-title: "Na Bahia, Sem Terra conquistam 30 mil hectares à Reforma Agrária "
-section: cover
+title: "Na Bahia, Sem Terra lutam por 30 mil hectares para a Reforma Agrária "
+section: null
 menu: agronegócio
-support_line: "Ao todo são 25 mil famílias acampadas em todo estado. "
+support_line: "Ao todo, existem 25 mil famílias acampadas em todo estado, a maioria no extremo sul da Bahia."
 layout: post
 files:
   - link: "http://farm8.staticflickr.com/7770/17345306236_5ba763e36f_b.jpg"
@@ -30,6 +30,7 @@ releated_posts:
   - 2015/04/2015-04-30-antigo-latifundio-de-eucalipto-vira-assentamento-agroecologico.md
   - 2014/07/2014-07-17-familias-sem-terra-seguem-na-luta-por-area-grilada-em-abelardo-luz.md
   - 2014/10/2014-10-07-dezoito-anos-depois-a-luta-pela-terra-continua.md
+hat: Bahia
 
 ---
 <p><br />
