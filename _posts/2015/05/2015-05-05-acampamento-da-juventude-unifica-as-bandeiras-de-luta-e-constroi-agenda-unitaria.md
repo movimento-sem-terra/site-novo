@@ -4,7 +4,7 @@ tags:
   - tag: bahia
   - tag: juventude
   - tag: projeto-popular
-title: Acampamento da Juventude unifica as bandeiras de luta e constrói agenda unitária
+title: Acampamento da Juventude unifica bandeiras de luta e constrói agenda unitária
 menu: projeto popular
 support_line: "O espaço faz parte de uma ação nacional de formação política, construída pelo MST e o Levante Popular da Juventude."
 hat: Bahia
