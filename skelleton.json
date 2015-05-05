@@ -7,11 +7,6 @@
     "required": true,
     "type": {
       "view": "date"
-    },
-    "need": {
-      "field": "section",
-      "equal": false,
-      "value": "musicoteca"
     }
 },
 {
