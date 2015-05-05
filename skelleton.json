@@ -120,6 +120,66 @@
   }
 },
 {
+  "name": "type",
+  "title": "Tipo",
+  "required": false,
+  "type": {
+    "view": "select",
+    "options": [
+    {"name": "Parceiro", "id": "partner"},
+    {"name": "Album", "id": "album"}
+    ]
+  },
+  "need": {
+    "field": "section",
+    "equal": true,
+    "value": "musicoteca"
+  }
+},
+{
+  "name": "link",
+  "title": "Link para o parceiro",
+  "required": false,
+  "type": {
+    "view": "textarea"
+  },
+  "need": {
+    "field": "type",
+    "equal": true,
+    "value": "partner"
+  }
+},
+{
+  "name": "tracks",
+  "pattern": "",
+  "icon": "fa-music",
+  "title": "Músicas",
+  "required": false,
+  "type": {
+    "view": "tracks"
+  },
+  "need": {
+    "field": "type",
+    "equal": true,
+    "value": "album"
+  }
+},
+{
+  "name": "download",
+  "pattern": "",
+  "icon": "fa-file-archive-o",
+  "title": "Link zip",
+  "required": false,
+  "type": {
+    "view": "zip"
+  },
+  "need": {
+    "field": "type",
+    "equal": true,
+    "value": "album"
+  }
+},
+{
   "name": "label",
   "title": "Gênero",
   "required": false,
@@ -190,67 +250,6 @@
     "field": "section",
     "equal": false,
     "value": "musicoteca"
-  }
-},
-
-{
-  "name": "type",
-  "title": "Tipo",
-  "required": false,
-  "type": {
-    "view": "select",
-    "options": [
-    {"name": "Parceiro", "id": "partner"},
-    {"name": "Album", "id": "album"}
-    ]
-  },
-  "need": {
-    "field": "section",
-    "equal": true,
-    "value": "musicoteca"
-  }
-},
-{
-  "name": "link",
-  "title": "Link para o parceiro",
-  "required": false,
-  "type": {
-    "view": "textarea"
-  },
-  "need": {
-    "field": "type",
-    "equal": true,
-    "value": "partner"
-  }
-},
-{
-  "name": "tracks",
-  "pattern": "",
-  "icon": "fa-music",
-  "title": "Músicas",
-  "required": false,
-  "type": {
-    "view": "tracks"
-  },
-  "need": {
-    "field": "type",
-    "equal": true,
-    "value": "album"
-  }
-},
-{
-  "name": "download",
-  "pattern": "",
-  "icon": "fa-file-archive-o",
-  "title": "Link zip",
-  "required": false,
-  "type": {
-    "view": "zip"
-  },
-  "need": {
-    "field": "type",
-    "equal": true,
-    "value": "album"
   }
 }
 ]
