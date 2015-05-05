@@ -16,11 +16,6 @@
   "placeholder": "Informe o chapéu",
   "type": {
     "view": "textarea"
-  },
-  "need": {
-    "field": "section",
-    "equal": false,
-    "value": "musicoteca"
   }
 },
 {
