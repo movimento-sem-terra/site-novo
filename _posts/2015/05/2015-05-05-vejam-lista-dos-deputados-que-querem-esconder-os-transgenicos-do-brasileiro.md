@@ -30,6 +30,7 @@ releated_posts:
   - 2015/04/2015-04-28-para-especialista-aprovacao-de-eucalipto-transgenico-atende-apenas-interesse-do-mercado.md
   - 2015/04/2015-04-30-neil-young-lanca-album-de-protesto-contra-monsanto.md
   - 2015/04/2015-04-09-inca-demonstra-preocupacao-com-o-consumo-de-agrotoxicos-no-brasil.md
+section: cover
 
 ---
 <p><img alt="trans.png" src="http://farm9.staticflickr.com/8835/17378826371_114d518980_b.jpg" /><br />
