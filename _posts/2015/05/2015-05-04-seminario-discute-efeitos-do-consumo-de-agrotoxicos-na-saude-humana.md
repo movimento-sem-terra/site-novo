@@ -39,6 +39,7 @@ releated_posts:
   - 2015/04/2015-04-28-aumenta-a-quantidade-de-agrotoxicos-consumido-por-cada-brasileiro-7-3-litros-por-ano.md
   - 2015/04/2015-04-29-novo-dossie-da-abrasco-alerta-que-situacao-dos-agrotoxicos-no-brasil-so-piorou.md
   - 2015/05/2015-05-04-um-freio-na-tragedia-brasileira-de-agrotoxicos.md
+hat: Pontal
 
 ---
 <p>&nbsp;</p>
@@ -47,9 +48,8 @@ releated_posts:
 
 <p><em>Da P&aacute;gina do MST </em></p>
 
-<p>&nbsp;</p>
-
-<p>Mais de 300 pessoas entre assentados/as, estudantes, t&eacute;cnicos, professores, pesquisadores e trabalhadores da sa&uacute;de se reuniram no &uacute;ltimo dia (30) na cidade de Teodoro Sampaio, no Pontal do Paranapanema<em>,</em> para discutir os impactos na sa&uacute;de causados pelo agroneg&oacute;cio e o uso excessivo dos agrot&oacute;xicos e dos transg&ecirc;nicos.</p>
+<p><br />
+Mais de 300 pessoas entre assentados/as, estudantes, t&eacute;cnicos, professores, pesquisadores e trabalhadores da sa&uacute;de se reuniram no &uacute;ltimo dia 30/04 na cidade de Teodoro Sampaio, Pontal do Paranapanema<em>,</em> para discutir os impactos na sa&uacute;de causados pelo agroneg&oacute;cio e o uso excessivo dos agrot&oacute;xicos e dos transg&ecirc;nicos.</p>
 
 <p><br />
 O semin&aacute;rio foi constru&iacute;do a partir da iniciativa do setor de sa&uacute;de do MST e de &nbsp;diversos parceiros como o Colegiado de&nbsp; Desenvolvimento Territortial &nbsp;(CODETER), o Centro de Refer&ecirc;ncia em Sa&uacute;de do trabalhador de Presidente Prudente e regi&atilde;o (CERREST/PP), Universidades e a Associa&ccedil;&atilde;o de Luta contra o C&acirc;ncer de Mirante do Paranapanema.</p>
