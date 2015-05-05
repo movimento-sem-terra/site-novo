@@ -11,15 +11,15 @@ label: articles
 hat: Agronegócio
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7763/16759065064_6881cd0404_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7763/16759065064_6881cd0404_t.jpg"
-    medium: "http://farm8.staticflickr.com/7763/16759065064_6881cd0404_z.jpg"
-    small: "http://farm8.staticflickr.com/7763/16759065064_6881cd0404_n.jpg"
-    title: africa_0.png
-    $$hashKey: 0AN
+  - link: "http://farm8.staticflickr.com/7748/16761680333_2d4b9a32d0_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7748/16761680333_2d4b9a32d0_t.jpg"
+    medium: "http://farm8.staticflickr.com/7748/16761680333_2d4b9a32d0_z.jpg"
+    small: "http://farm8.staticflickr.com/7748/16761680333_2d4b9a32d0_n.jpg"
+    title: agricultura-no-sudao.jpg
+    $$hashKey: "063"
 created_date: "2015-05-05T14:40:42-03:00"
 published: true
-images_hd: "http://farm8.staticflickr.com/7763/16759065064_6881cd0404_n.jpg"
+images_hd: "http://farm8.staticflickr.com/7748/16761680333_2d4b9a32d0_n.jpg"
 releated_posts:
   - 2015/02/2015-02-13-no-paraguai-agricultores-se-recusam-a-ingressar-no-modelo-imposto-pelo-agronegocio.md
   - 2015/03/2015-03-06-apos-estragos-no-cerrado-brasileiro-agronegocio-avanca-sobre-terras-mocambicanas.md
@@ -28,11 +28,8 @@ releated_posts:
   - 2015/03/2015-03-29-no-fsm-movimento-campesino-expoe-a-falta-de-democracia-nas-politicas-agricolas-e-alimentar.md
 
 ---
-<figure class="image" style="float:right"><img alt="africa_0.png" src="http://farm8.staticflickr.com/7763/16759065064_6881cd0404_b.jpg" />
-<figcaption></figcaption>
-</figure>
-
-<p><br />
+<p><img alt="agricultura-no-sudao.jpg" src="http://farm8.staticflickr.com/7748/16761680333_2d4b9a32d0_b.jpg" /><br />
+<br />
 <em>Por Najar Tubino<br />
 Da Carta Maior</em></p>
 
