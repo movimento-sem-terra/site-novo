@@ -5,7 +5,7 @@ tags:
   - tag: transgênicos
   - tag: ctnbio
 title: "10 anos da Lei da Biossegurança: poucos motivos para comemorar"
-support_line: "Era preciso, enfim, calar o povo. A nova legislação inaugurou um procedimento para a análise dos pedidos de liberação de transgênicos em território nacional menos rigoroso que o vigente à época."
+support_line: A nova legislação inaugurou um procedimento para a análise dos pedidos de liberação de transgênicos menos rigoroso que o vigente à época.
 menu: transgênicos
 hat: Transgênico
 layout: post
