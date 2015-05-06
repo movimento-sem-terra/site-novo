@@ -26,6 +26,7 @@ releated_posts:
   - 2015/04/2015-04-07-porque-o-brasil-e-um-mercado-fertil-para-agrotoxicos-proibidos.md
   - 2015/04/2015-04-13-oms-confirma-relacao-do-glifosato-com-cancer-em-humanos-e-animais.md
   - 2015/05/2015-05-04-um-freio-na-tragedia-brasileira-de-agrotoxicos.md
+label: interviews
 
 ---
 <p><img alt="veneno_agrotoxico.jpg" src="http://farm9.staticflickr.com/8744/16772343873_dafba36b5d_b.jpg" /><br />
