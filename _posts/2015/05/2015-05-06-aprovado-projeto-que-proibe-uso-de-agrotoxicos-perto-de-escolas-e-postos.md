@@ -8,7 +8,7 @@ tags:
 title: Aprovado projeto que proíbe uso de agrotóxicos perto de escolas e postos
 support_line: "Entre 2007 e 2014, foram registrados 3.229 casos de intoxicação na região oeste do Paraná, sendo que 20% em decorrência do uso de agrotóxicos agrícolas, raticidas e agrotóxicos domésticos."
 menu: meio ambiente
-section: cover
+section: null
 layout: post
 files:
   - link: "http://farm8.staticflickr.com/7698/17364058416_0105c1e015_b.jpg"
