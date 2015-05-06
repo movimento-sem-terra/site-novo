@@ -5,7 +5,7 @@ tags:
   - tag: agronegócio
   - tag: abrasco
   - tag: saúde
-title: "Dossiê Abrasco: o grito contra o silêncio opressivo do agronegócio."
+title: "Dossiê Abrasco: o grito contra o silêncio opressivo do agronegócio"
 support_line: "“A ciência deveria servir a quem, ao mercado ou a população brasileira?”, questiona o pesquisador Fernando Carneiro em entrevista."
 menu: agronegócio
 layout: post
@@ -29,6 +29,7 @@ releated_posts:
 
 ---
 <p><img alt="veneno_agrotoxico.jpg" src="http://farm9.staticflickr.com/8744/16772343873_dafba36b5d_b.jpg" /><br />
+<br />
 <em>Por Ricardo Machado e Leslie Chaves<br />
 Da IHU On-Line</em></p>
 
