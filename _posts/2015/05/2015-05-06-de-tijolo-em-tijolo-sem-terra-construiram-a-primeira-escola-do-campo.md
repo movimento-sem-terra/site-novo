@@ -124,8 +124,8 @@ Mesmo assim, o assentamento resiste e produz uma diversidade de alimentos, propo
 
 <p>&nbsp;</p>
 
-<figure class="image" style="float:left"><img alt="RoseliNunes-Heriberto_Paredes-LR-49.jpg" src="http://farm9.staticflickr.com/8687/17203632408_d75b5b4cc4_b.jpg" />
-<figcaption>Cerca de 100 dos 360 alunos da escola s&atilde;o do EJA. Muitos nunca tinham entrado numa sala de aula.</figcaption>
+<figure class="image" style="float:right"><img alt="RoseliNunesA-Heriberto_Paredes-LR-43.jpg" src="http://farm8.staticflickr.com/7679/17391141055_e063328bb7_b.jpg" />
+<figcaption>Dami&atilde;o, um dos assentados que participou da constru&ccedil;&atilde;o da escola.</figcaption>
 </figure>
 
 <p>Os agricultores produzem leite, milho, batata, mandioca, arroz, banana, ab&oacute;bora, laranja, manga, mel&atilde;o, abacaxi, melancia, feij&atilde;o, verduras e diversos tipos de legumes. O trabalho agroecol&oacute;gico da regi&atilde;o come&ccedil;ou no assentamento, em 2004. Hoje, 60 fam&iacute;lias assentadas produzem alimentos livres de agrot&oacute;xicos.</p>
@@ -136,15 +136,18 @@ Al&eacute;m da produ&ccedil;&atilde;o, o assentamento Roseli Nunes &eacute; refe
 <p><br />
 Atualmente, a escola conta com cerca de 360 alunos do ensino fundamental, m&eacute;dio e do programa de Educa&ccedil;&atilde;o de Jovens e Adultos (EJA) do assentamento Roseli Nunes.</p>
 
-<p>&nbsp;</p>
+<p><br />
+Na &eacute;poca de sua funda&ccedil;&atilde;o, em 1997, uma lona era a sala de aula dos alunos. Ap&oacute;s o assentamento ser criado, em 2002, cada assentado doou R$ 50 para a compra de materiais, e um mutir&atilde;o construiu a escola.<br />
+&nbsp;</p>
 
-<figure class="image" style="float:right"><img alt="RoseliNunesA-Heriberto_Paredes-LR-43.jpg" src="http://farm8.staticflickr.com/7679/17391141055_e063328bb7_b.jpg" />
-<figcaption>Dami&atilde;o, um dos assentados que participou da constru&ccedil;&atilde;o da escola.</figcaption>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="RoseliNunes-Heriberto_Paredes-LR-49.jpg" src="http://farm9.staticflickr.com/8687/17203632408_d75b5b4cc4_b.jpg" />
+<figcaption>Cerca de 100 dos 360 alunos da escola s&atilde;o do EJA. Muitos nunca tinham entrado numa sala de aula.</figcaption>
 </figure>
-
-<p>Na &eacute;poca de sua funda&ccedil;&atilde;o, em 1997, uma lona era a sala de aula dos alunos. Ap&oacute;s o assentamento ser criado, em 2002, cada assentado doou R$ 50 para a compra de materiais, e um mutir&atilde;o construiu a escola.</p>
+</div>
 
 <p><br />
+<br />
 Segundo Dami&atilde;o, assentado que participou da constru&ccedil;&atilde;o da Madre Cristina, &ldquo;a import&acirc;ncia da escola &eacute; que ela &eacute; diferenciada. Al&eacute;m de aprender as mat&eacute;rias normais, os alunos aprendem sobre produ&ccedil;&atilde;o, a respeitar a natureza, como nos proteger do veneno, que para n&oacute;s &eacute; um grande problema&rdquo;.</p>
 
 <p><br />
