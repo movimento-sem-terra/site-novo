@@ -124,7 +124,7 @@ Mesmo assim, o assentamento resiste e produz uma diversidade de alimentos, propo
 
 <p>&nbsp;</p>
 
-<figure class="image" style="float:right"><img alt="RoseliNunes-Heriberto_Paredes-LR-49.jpg" src="http://farm8.staticflickr.com/7671/17390610091_d9ecc17d26_b.jpg" />
+<figure class="image" style="float:left"><img alt="RoseliNunes-Heriberto_Paredes-LR-49.jpg" src="http://farm8.staticflickr.com/7671/17390610091_d9ecc17d26_b.jpg" />
 <figcaption>Al&eacute;m do ensino fundamental e m&eacute;dio, a escola oferece o programa de Educa&ccedil;&atilde;o de Jovens e Adultos.</figcaption>
 </figure>
 
@@ -136,16 +136,16 @@ Al&eacute;m da produ&ccedil;&atilde;o, o assentamento Roseli Nunes &eacute; refe
 <p><br />
 Atualmente, a escola conta com cerca de 360 alunos do ensino fundamental, m&eacute;dio e do programa de Educa&ccedil;&atilde;o de Jovens e Adultos (EJA) do assentamento Roseli Nunes.</p>
 
-<p><br />
-Na &eacute;poca de sua funda&ccedil;&atilde;o, em 1997, uma lona era a sala de aula dos alunos. Ap&oacute;s o assentamento ser criado, em 2002, cada assentado doou R$ 50 para a compra de materiais, e um mutir&atilde;o construiu a escola.</p>
-
 <p>&nbsp;</p>
 
-<figure class="image" style="float:left"><img alt="RoseliNunesA-Heriberto_Paredes-LR-36.jpg" src="http://farm8.staticflickr.com/7686/17183666267_aafe27e8ba_b.jpg" />
+<figure class="image" style="float:right"><img alt="RoseliNunesA-Heriberto_Paredes-LR-43.jpg" src="http://farm8.staticflickr.com/7679/17391141055_e063328bb7_b.jpg" />
 <figcaption>Dami&atilde;o, um dos assentados que participou da constru&ccedil;&atilde;o da escola.</figcaption>
 </figure>
 
-<p>Segundo Dami&atilde;o, assentado que participou da constru&ccedil;&atilde;o da Madre Cristina, &ldquo;a import&acirc;ncia da escola &eacute; que ela &eacute; diferenciada. Al&eacute;m de aprender as mat&eacute;rias normais, os alunos aprendem sobre produ&ccedil;&atilde;o, a respeitar a natureza, como nos proteger do veneno, que para n&oacute;s &eacute; um grande problema&rdquo;.</p>
+<p>Na &eacute;poca de sua funda&ccedil;&atilde;o, em 1997, uma lona era a sala de aula dos alunos. Ap&oacute;s o assentamento ser criado, em 2002, cada assentado doou R$ 50 para a compra de materiais, e um mutir&atilde;o construiu a escola.</p>
+
+<p><br />
+Segundo Dami&atilde;o, assentado que participou da constru&ccedil;&atilde;o da Madre Cristina, &ldquo;a import&acirc;ncia da escola &eacute; que ela &eacute; diferenciada. Al&eacute;m de aprender as mat&eacute;rias normais, os alunos aprendem sobre produ&ccedil;&atilde;o, a respeitar a natureza, como nos proteger do veneno, que para n&oacute;s &eacute; um grande problema&rdquo;.</p>
 
 <p><br />
 Ao todo, a escola tem sete salas de aula em dois pavilh&otilde;es. Quatro &agrave; direita, no pavilh&atilde;o maior, e tr&ecirc;s &agrave; esquerda, no menor. Um jardim divide os dois pavilh&otilde;es, e em frente a cada sala de aula, h&aacute; uma planta diferente, plantada e cuidada pelos alunos daquela sala.</p>
@@ -157,7 +157,7 @@ No pavilh&atilde;o maior, ainda h&aacute; um laborat&oacute;rio de inform&aacute
 A escola serve um caf&eacute;-da-manh&atilde;, almo&ccedil;o, lanche da tarde e janta aos alunos. Alunos, professores e funcion&aacute;rios comem juntos no refeit&oacute;rio. Merendas como sopa de legumes e carne, macarr&atilde;o com carne e arroz com farofa s&atilde;o servidas regularmente.<br />
 &nbsp;</p>
 
-<figure class="image" style="float:right"><img alt="RoseliNunes-Heriberto_Paredes-LR-19.jpg" src="http://farm8.staticflickr.com/7758/17183622397_5c36e87cb3_b.jpg" />
+<figure class="image" style="float:left"><img alt="RoseliNunes-Heriberto_Paredes-LR-19.jpg" src="http://farm8.staticflickr.com/7758/17183622397_5c36e87cb3_b.jpg" />
 <figcaption>A merendeira e assentada Nadimar trabalha na escola desde 2001.</figcaption>
 </figure>
 
@@ -179,7 +179,7 @@ A escola tamb&eacute;m tem duas quadras pr&oacute;ximas &agrave; sua entrada: um
 <p><br />
 &nbsp;</p>
 
-<figure class="image" style="float:left"><img alt="RoseliNunes-Heriberto_Paredes-LR-8.jpg" src="http://farm9.staticflickr.com/8795/16770699323_cb0e36c39f_b.jpg" />
+<figure class="image" style="float:right"><img alt="RoseliNunes-Heriberto_Paredes-LR-8.jpg" src="http://farm9.staticflickr.com/8795/16770699323_cb0e36c39f_b.jpg" />
 <figcaption>A escola trabalha com o processo pedag&oacute;gico da Educa&ccedil;&atilde;o do Campo.</figcaption>
 </figure>
 
@@ -235,7 +235,7 @@ A escola iniciou neste ano um curso t&eacute;cnico de agroecologia para os aluno
 
 <p>&nbsp;</p>
 
-<figure class="image" style="float:right"><img alt="RoseliNunesA-Heriberto_Paredes-LR-43.jpg" src="http://farm8.staticflickr.com/7679/17391141055_e063328bb7_b.jpg" />
+<figure class="image" style="float:left"><img alt="RoseliNunesA-Heriberto_Paredes-LR-36.jpg" src="http://farm8.staticflickr.com/7686/17183666267_aafe27e8ba_b.jpg" />
 <figcaption>O assentado Sidney Martins &eacute; quem ministra o curso t&eacute;cnico de agroecologia.</figcaption>
 </figure>
 
@@ -276,7 +276,7 @@ Segundo Maria Jos&eacute;, &eacute; fun&ccedil;&atilde;o da escola ir atr&aacute
 <p><br />
 &nbsp;</p>
 
-<figure class="image" style="float:left"><img alt="RoseliNunes-Heriberto_Paredes-LR-9.jpg" src="http://farm9.staticflickr.com/8878/16770760803_6f380c419b_b.jpg" />
+<figure class="image" style="float:right"><img alt="RoseliNunes-Heriberto_Paredes-LR-9.jpg" src="http://farm9.staticflickr.com/8878/16770760803_6f380c419b_b.jpg" />
 <figcaption>A professora Marinalva Paula, que tamb&eacute;m leciona a quem mais precisa.</figcaption>
 </figure>
 
