@@ -7,8 +7,8 @@ tags:
 title: Vejam lista dos deputados que querem esconder os transgênicos dos brasileiros
 support_line: "PSDB, PMDB e DEM votam majoritariamente à favor do fim da rotulagem; PT, PCdoB e PSol votaram contra."
 menu: transgênicos
-label: articles
-sector: production
+label: null
+sector: null
 hat: oi
 layout: post
 files:
