@@ -9,7 +9,7 @@ support_line: "A Escola Madre Cristina, a primeira escola do campo no Mato Gross
 menu: "educação, cultura e comunicação"
 section: cover
 sector: education
-label: special-stories
+label: null
 layout: post
 files:
   - link: "http://farm9.staticflickr.com/8815/17390908165_45d4de14df_b.jpg"
