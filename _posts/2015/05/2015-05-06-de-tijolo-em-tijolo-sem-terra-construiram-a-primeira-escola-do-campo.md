@@ -18,12 +18,6 @@ files:
     small: "http://farm9.staticflickr.com/8815/17390908165_45d4de14df_n.jpg"
     title: RoseliNunesA-Heriberto_Paredes-LR-9.jpg
     $$hashKey: 0DX
-  - link: "http://farm8.staticflickr.com/7671/17390610091_d9ecc17d26_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7671/17390610091_d9ecc17d26_t.jpg"
-    medium: "http://farm8.staticflickr.com/7671/17390610091_d9ecc17d26_z.jpg"
-    small: "http://farm8.staticflickr.com/7671/17390610091_d9ecc17d26_n.jpg"
-    title: RoseliNunes-Heriberto_Paredes-LR-49.jpg
-    $$hashKey: 0E0
   - link: "http://farm9.staticflickr.com/8823/17390616291_f2f8c92903_b.jpg"
     thumbnail: "http://farm9.staticflickr.com/8823/17390616291_f2f8c92903_t.jpg"
     medium: "http://farm9.staticflickr.com/8823/17390616291_f2f8c92903_z.jpg"
@@ -84,6 +78,12 @@ files:
     small: "http://farm6.staticflickr.com/5448/17389197422_a568cc56e1_n.jpg"
     title: RoseliNunes-Heriberto_Paredes-LR-43.jpg
     $$hashKey: 0EX
+  - link: "http://farm9.staticflickr.com/8687/17203632408_d75b5b4cc4_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8687/17203632408_d75b5b4cc4_t.jpg"
+    medium: "http://farm9.staticflickr.com/8687/17203632408_d75b5b4cc4_z.jpg"
+    small: "http://farm9.staticflickr.com/8687/17203632408_d75b5b4cc4_n.jpg"
+    title: RoseliNunes-Heriberto_Paredes-LR-49.jpg
+    $$hashKey: 090
 created_date: "2015-05-06T11:30:47-03:00"
 published: true
 images_hd: "http://farm9.staticflickr.com/8815/17390908165_45d4de14df_n.jpg"
@@ -124,8 +124,8 @@ Mesmo assim, o assentamento resiste e produz uma diversidade de alimentos, propo
 
 <p>&nbsp;</p>
 
-<figure class="image" style="float:left"><img alt="RoseliNunes-Heriberto_Paredes-LR-49.jpg" src="http://farm8.staticflickr.com/7671/17390610091_d9ecc17d26_b.jpg" />
-<figcaption>Al&eacute;m do ensino fundamental e m&eacute;dio, a escola oferece o programa de Educa&ccedil;&atilde;o de Jovens e Adultos.</figcaption>
+<figure class="image" style="float:left"><img alt="RoseliNunes-Heriberto_Paredes-LR-49.jpg" src="http://farm9.staticflickr.com/8687/17203632408_d75b5b4cc4_b.jpg" />
+<figcaption>Cerca de 100 dos 360 alunos da escola s&atilde;o do EJA. Muitos nunca tinham entrado numa sala de aula.</figcaption>
 </figure>
 
 <p>Os agricultores produzem leite, milho, batata, mandioca, arroz, banana, ab&oacute;bora, laranja, manga, mel&atilde;o, abacaxi, melancia, feij&atilde;o, verduras e diversos tipos de legumes. O trabalho agroecol&oacute;gico da regi&atilde;o come&ccedil;ou no assentamento, em 2004. Hoje, 60 fam&iacute;lias assentadas produzem alimentos livres de agrot&oacute;xicos.</p>
