@@ -4,7 +4,7 @@ tags:
   - tag: transgênicos
   - tag: rotulagem
 support_line: "Aprovação de projeto que acaba com rotulagem atropela Direito à Informação, beneficia transnacionais e comprova: bancadas ligadas a poder econômico estão dispostas a tudo."
-title: "Trangênicos: deputados atropelam direito à informação"
+title: "Transgênicos: deputados atropelam direito à informação"
 label: articles
 menu: transgênicos
 layout: post
