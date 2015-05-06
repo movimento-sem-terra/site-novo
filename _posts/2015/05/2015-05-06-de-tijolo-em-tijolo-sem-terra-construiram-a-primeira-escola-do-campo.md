@@ -125,10 +125,12 @@ Mesmo assim, o assentamento resiste e produz uma diversidade de alimentos, propo
 <p>&nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="RoseliNunes-Heriberto_Paredes-LR-49.jpg" src="http://farm8.staticflickr.com/7671/17390610091_d9ecc17d26_b.jpg" />
-<figcaption>Legenda</figcaption>
+<figcaption>Al&eacute;m do ensino fundamental e m&eacute;dio, a escola oferece o programa de Educa&ccedil;&atilde;o de Jovens e Adultos.</figcaption>
 </figure>
 
-<p>Os agricultores produzem leite, milho, batata, mandioca, arroz, banana, ab&oacute;bora, laranja, manga, mel&atilde;o, abacaxi, melancia, feij&atilde;o, verduras e diversos tipos de legumes. O trabalho agroecol&oacute;gico da regi&atilde;o come&ccedil;ou no assentamento, em 2004. Hoje, 60 fam&iacute;lias assentadas produzem alimentos livres de agrot&oacute;xicos.<br />
+<p>Os agricultores produzem leite, milho, batata, mandioca, arroz, banana, ab&oacute;bora, laranja, manga, mel&atilde;o, abacaxi, melancia, feij&atilde;o, verduras e diversos tipos de legumes. O trabalho agroecol&oacute;gico da regi&atilde;o come&ccedil;ou no assentamento, em 2004. Hoje, 60 fam&iacute;lias assentadas produzem alimentos livres de agrot&oacute;xicos.</p>
+
+<p><br />
 Al&eacute;m da produ&ccedil;&atilde;o, o assentamento Roseli Nunes &eacute; refer&ecirc;ncia na &aacute;rea da educa&ccedil;&atilde;o. A escola Madre Cristina, primeira escola rural do estado, se localiza no centro do assentamento, e proporciona aos alunos, professores e assentados uma forma de ensinar no campo e se integrar com a comunidade raramente vista em outras escolas.</p>
 
 <p><br />
@@ -140,7 +142,7 @@ Na &eacute;poca de sua funda&ccedil;&atilde;o, em 1997, uma lona era a sala de a
 <p>&nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="RoseliNunesA-Heriberto_Paredes-LR-36.jpg" src="http://farm8.staticflickr.com/7686/17183666267_aafe27e8ba_b.jpg" />
-<figcaption>Legenda</figcaption>
+<figcaption>Dami&atilde;o, um dos assentados que participou da constru&ccedil;&atilde;o da escola.</figcaption>
 </figure>
 
 <p>Segundo Dami&atilde;o, assentado que participou da constru&ccedil;&atilde;o da Madre Cristina, &ldquo;a import&acirc;ncia da escola &eacute; que ela &eacute; diferenciada. Al&eacute;m de aprender as mat&eacute;rias normais, os alunos aprendem sobre produ&ccedil;&atilde;o, a respeitar a natureza, como nos proteger do veneno, que para n&oacute;s &eacute; um grande problema&rdquo;.</p>
@@ -155,8 +157,8 @@ No pavilh&atilde;o maior, ainda h&aacute; um laborat&oacute;rio de inform&aacute
 A escola serve um caf&eacute;-da-manh&atilde;, almo&ccedil;o, lanche da tarde e janta aos alunos. Alunos, professores e funcion&aacute;rios comem juntos no refeit&oacute;rio. Merendas como sopa de legumes e carne, macarr&atilde;o com carne e arroz com farofa s&atilde;o servidas regularmente.<br />
 &nbsp;</p>
 
-<figure class="image" style="float:left"><img alt="RoseliNunes-Heriberto_Paredes-LR-19.jpg" src="http://farm8.staticflickr.com/7758/17183622397_5c36e87cb3_b.jpg" />
-<figcaption>Legenda</figcaption>
+<figure class="image" style="float:right"><img alt="RoseliNunes-Heriberto_Paredes-LR-19.jpg" src="http://farm8.staticflickr.com/7758/17183622397_5c36e87cb3_b.jpg" />
+<figcaption>A merendeira e assentada Nadimar trabalha na escola desde 2001.</figcaption>
 </figure>
 
 <p><strong>Arroz, feij&atilde;o e carne</strong></p>
@@ -177,8 +179,8 @@ A escola tamb&eacute;m tem duas quadras pr&oacute;ximas &agrave; sua entrada: um
 <p><br />
 &nbsp;</p>
 
-<figure class="image" style="float:right"><img alt="RoseliNunes-Heriberto_Paredes-LR-8.jpg" src="http://farm9.staticflickr.com/8795/16770699323_cb0e36c39f_b.jpg" />
-<figcaption></figcaption>
+<figure class="image" style="float:left"><img alt="RoseliNunes-Heriberto_Paredes-LR-8.jpg" src="http://farm9.staticflickr.com/8795/16770699323_cb0e36c39f_b.jpg" />
+<figcaption>A escola trabalha com o processo pedag&oacute;gico da Educa&ccedil;&atilde;o do Campo.</figcaption>
 </figure>
 
 <p><strong>Pedagogia do campo</strong></p>
@@ -234,7 +236,7 @@ A escola iniciou neste ano um curso t&eacute;cnico de agroecologia para os aluno
 <p>&nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="RoseliNunesA-Heriberto_Paredes-LR-43.jpg" src="http://farm8.staticflickr.com/7679/17391141055_e063328bb7_b.jpg" />
-<figcaption></figcaption>
+<figcaption>O assentado Sidney Martins &eacute; quem ministra o curso t&eacute;cnico de agroecologia.</figcaption>
 </figure>
 
 <p>A viv&ecirc;ncia cultural na escola tamb&eacute;m &eacute; forte. Ano passado, os estudantes do EJA realizaram um festival culin&aacute;rio, onde cada um levou um prato diferente. &ldquo;Reservamos uma mesa no refeit&oacute;rio, mas como n&atilde;o parava de chegar comida, precisamos pegar mais&rdquo;, afirma Maria Jos&eacute;, rindo.</p>
@@ -275,7 +277,7 @@ Segundo Maria Jos&eacute;, &eacute; fun&ccedil;&atilde;o da escola ir atr&aacute
 &nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="RoseliNunes-Heriberto_Paredes-LR-9.jpg" src="http://farm9.staticflickr.com/8878/16770760803_6f380c419b_b.jpg" />
-<figcaption>Legenda</figcaption>
+<figcaption>A professora Marinalva Paula, que tamb&eacute;m leciona a quem mais precisa.</figcaption>
 </figure>
 
 <p><strong>A todos que precisam e queiram</strong></p>
