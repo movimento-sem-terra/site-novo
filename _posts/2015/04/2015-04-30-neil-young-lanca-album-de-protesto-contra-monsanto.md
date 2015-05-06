@@ -30,7 +30,7 @@ releated_posts:
   - 2015/04/2015-04-09-inca-demonstra-preocupacao-com-o-consumo-de-agrotoxicos-no-brasil.md
   - 2014/08/2014-08-14-misteriosa-doenca-fatal-tem-sua-causa-descoberta-os-agrotoxicos-da-monsanto.md
   - 2015/01/2015-01-22-chuck-norris-fala-em-artigo-contra-a-monsanto-e-os-danos-que-a-empresa-causa-a-saude-global.md
-section: featured-news
+section: null
 hat: Transgênico
 
 ---
