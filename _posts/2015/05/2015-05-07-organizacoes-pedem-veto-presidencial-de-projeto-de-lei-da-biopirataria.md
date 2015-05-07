@@ -30,7 +30,7 @@ releated_posts:
 <p><em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Diversas organiza&ccedil;&otilde;es protocolam nesta quarta-feira (5) <a href="http://terradedireitos.org.br/wp-content/uploads/2015/05/VETA-DILMA-PL-7735.pdf" target="_blank">uma carta endere&ccedil;ada &agrave; Presidenta da Rep&uacute;blica, Dilma Rousseff</a>, pedindo o veto ao Projeto de Lei n&ordm;. 7735/2014.</p>
+Diversas organiza&ccedil;&otilde;es protocolaram nesta quarta-feira (5) <a href="http://terradedireitos.org.br/wp-content/uploads/2015/05/VETA-DILMA-PL-7735.pdf" target="_blank">uma carta endere&ccedil;ada &agrave; Presidenta da Rep&uacute;blica, Dilma Rousseff</a>, pedindo o veto ao Projeto de Lei n&ordm;. 7735/2014.</p>
 
 <p><br />
 O documento, com quase 150 assinaturas, critica a constru&ccedil;&atilde;o e o conte&uacute;do do projeto de lei proclamado como &ldquo;marco regulat&oacute;rio da biodiversidade&rdquo;.</p>
@@ -39,7 +39,7 @@ O documento, com quase 150 assinaturas, critica a constru&ccedil;&atilde;o e o c
 Ap&oacute;s ser aprovado em &uacute;ltima vota&ccedil;&atilde;o na C&acirc;mara dos Deputados, o PL que regulamenta o acesso ao patrim&ocirc;nio gen&eacute;tico nacional e os conhecimentos tradicionais a eles associados est&aacute; nas m&atilde;os da Presidenta.</p>
 
 <p><br />
-O texto levado &agrave; san&ccedil;&atilde;o presidencial perdeu onze emendas conquistadas a duras penas pelos movimentos sociais no Senado Federal, e segundo as organiza&ccedil;&otilde;es a situa&ccedil;&atilde;o est&aacute; preocupante.</p>
+O texto levado &agrave; san&ccedil;&atilde;o presidencial perdeu onze emendas conquistadas a duras penas pelos movimentos sociais no Senado Federal, e segundo as organiza&ccedil;&otilde;es, a situa&ccedil;&atilde;o est&aacute; preocupante.</p>
 
 <p><br />
 Para as entidades, se sancionada da forma apresentada, a nova lei trar&aacute; brechas que impedem que os povos e comunidades tradicionais controlem o acesso aos seus saberes, al&eacute;m de facilitar o uso de bens comuns por parte de setores farmac&ecirc;uticos, industriais, e do agroneg&oacute;cio.</p>
