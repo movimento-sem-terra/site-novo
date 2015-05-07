@@ -39,6 +39,7 @@ releated_posts:
   - 2015/03/2015-03-31-em-brasilia-incra-empossa-primeira-mulher-como-presidenta.md
   - 2015/05/2015-05-04-apos-despejo-incra-se-compromete-em-assentar-sem-terra-no-rs.md
   - 2015/05/2015-05-04-sem-terra-ocupam-incra-em-araguatins-e-pedem-fim-da-violencia-no-campo.md
+section: cover
 
 ---
 <p style="text-align:center"><img alt="1.jpg" height="364" src="http://farm9.staticflickr.com/8858/17402130002_7b1fa49829_b.jpg" width="550" /></p>
