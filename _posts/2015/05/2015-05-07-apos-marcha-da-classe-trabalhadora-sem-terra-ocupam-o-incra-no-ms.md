@@ -5,8 +5,10 @@ tags:
   - tag: ocupação-incra
   - tag: marcha
   - tag: campo-e-cidade
-title: "Após Marcha da Classe Trabalhadora, Sem Terra ocupam Incra no MS"
-support_line: Os militantes reivindicam a reestruturação do órgão no estado.
+  - tag: lutas-e-mobilizações
+  - tag: mato-grosso-do-sul
+title: "Após ocuparem o Incra, Sem Terra trancam rodovia no MS"
+support_line: Desde o dia 1º de maio os movimentos sociais e sindicais de Mato Grosso do Sul estavam participando da Marcha da Classe Trabalhadora do Campo e da Cidade.
 menu: lutas e mobilizações
 layout: post
 files:
@@ -32,13 +34,12 @@ created_date: "2015-05-07T10:41:48-03:00"
 published: true
 images_hd: "http://farm9.staticflickr.com/8858/17402130002_7b1fa49829_n.jpg"
 releated_posts:
-  - 2014/08/2014-08-11-sem-terra-marcham-por-reforma-agraria-em-sergipe.md
-  - 2014/08/2014-08-01-sem-terra-mantem-acampamento-ao-lado-da-justica-federal-no-es.md
-  - 2015/03/2015-03-13-juventude-sem-terra-se-desafia-a-impulsionar-a-participacao-na-luta-pela-reforma-agraria.md
-  - 2014/12/2014-11-05-incra-apresenta-edital-para-compra-de-terras-no-parana.md
+  - 2015/05/2015-05-04-mais-de-mil-marchantes-chegam-a-capital-campo-grande.md
+  - 2015/04/2015-04-24-com-1-500-familias-sem-terra-criam-o-maior-acampamento-de-ms.md
+  - 2015/04/2015-04-27-sete-anos-depois-de-serem-assentados-sem-terra-ainda-lutam-por-documentacao-basica.md
+  - 2015/04/2015-04-02-o-nosso-exercito-e-de-trabalhadores-que-lutam-pela-terra-diz-coordenador-do-mst.md
+  - 2015/04/2015-04-15-jornada-nacional-de-lutas-comeca-em-todo-pais.md
   - 2015/03/2015-03-31-em-brasilia-incra-empossa-primeira-mulher-como-presidenta.md
-  - 2015/05/2015-05-04-apos-despejo-incra-se-compromete-em-assentar-sem-terra-no-rs.md
-  - 2015/05/2015-05-04-sem-terra-ocupam-incra-em-araguatins-e-pedem-fim-da-violencia-no-campo.md
 section: cover
 
 ---
@@ -48,52 +49,48 @@ section: cover
 
 <p><em>Da P&aacute;gina do MST </em></p>
 
-<p>&nbsp;</p>
-
-<p>A rodovia BR-267, trecho que liga Nova Casa Verde a Nova Alvorada do Sul, amanheceu trancada por cerca de duzentos Sem Terra nessa quinta-feira (7).</p>
-
-<p>&nbsp;</p>
-
-<p>J&aacute; a manh&atilde; desta quarta-feira (6), cerca mil de Sem Terra ocuparam a sede do Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra/MS).</p>
+<p><br />
+A rodovia BR-267, trecho que liga Nova Casa Verde a Nova Alvorada do Sul, amanheceu trancada por cerca de 200 Sem Terra nessa quinta-feira (7).</p>
 
 <p><br />
-A ocupa&ccedil;&atilde;o aconteceu ap&oacute;s um grande ato que foi realizado na pra&ccedil;a de Campo Grande, uma das maiores da cidade.</p>
+J&aacute; na manh&atilde; desta quarta-feira (6), cerca mil de Sem Terra ocuparam a sede do Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra/MS).</p>
+
+<p><br />
+A ocupa&ccedil;&atilde;o aconteceu ap&oacute;s um ato realizado na pra&ccedil;a de Campo Grande, uma das maiores da cidade.</p>
 
 <p><br />
 Desde o dia 1&ordm; de maio os movimentos sociais e sindicais de Mato Grosso do Sul estavam participando da Marcha da Classe Trabalhadora do Campo e da Cidade.</p>
 
 <p><br />
-Participam da a&ccedil;&atilde;o desta quarta-feira os militantes do MST, da Federa&ccedil;&atilde;o dos Trabalhadores da Agricultura Familiar (Fetagri), do Movimento Campon&ecirc;s de Luta pela Reforma Agr&aacute;ria (MCLRA) e da Central &Uacute;nica dos Trabalhadores de Mato Grosso do Sul (CUT/MS).</p>
+Integrantes do MST, Federa&ccedil;&atilde;o dos Trabalhadores da Agricultura Familiar (Fetagri), Movimento Campon&ecirc;s de Luta pela Reforma Agr&aacute;ria (MCLRA) e Central &Uacute;nica dos Trabalhadores participam da a&ccedil;&atilde;o.</p>
 
 <p><br />
-Para o tamb&eacute;m dirigente do MST/MS, Dinho Lopes, as a&ccedil;&otilde;es conjuntas s&atilde;o necess&aacute;rias para mostrar o quanto a situa&ccedil;&atilde;o est&aacute; ca&oacute;tica em Mato Grosso do Sul. &quot;A nossa base est&aacute; tomando essa a&ccedil;&atilde;o para apoiar os mais de seiscentos sem terras que est&atilde;o ocupando o INCRA e os mais de mil militantes dos movimentos que marcharam durante cinco dias para reivindicar por Reforma Agr&aacute;ria, dentre outras quest&otilde;es, pois est&atilde;o sentindo na pele o que &eacute; um &oacute;rg&atilde;o que n&atilde;o consegue cumprir sua fun&ccedil;&atilde;o e sacrifica as pessoas que dependem dele para ter uma vida mais digna&quot;, afirma.</p>
+Para o dirigente do MST/MS, Dinho Lopes, as a&ccedil;&otilde;es conjuntas s&atilde;o necess&aacute;rias para mostrar o quanto a situa&ccedil;&atilde;o est&aacute; ca&oacute;tica no estado.</p>
 
 <p><br />
-De acordo com o dirigente do MST/MS, Jonas Carlos da Concei&ccedil;&atilde;o, os movimentos ocupam o INCRA para mudar a atual realidade do &oacute;rg&atilde;o que est&aacute; h&aacute; cinco anos sem realizar um dos seus principais objetivos, a Reforma Agr&aacute;ria.</p>
+&quot;Estamos aqui em nome dos mais de 600 Sem Terra que ocupam o Incra, e os mais de mil militantes dos movimentos que marcharam durante cinco dias para reivindicar por Reforma Agr&aacute;ria e outras pautas. Sentimos na pele o que significa um &oacute;rg&atilde;o que n&atilde;o consegue cumprir sua fun&ccedil;&atilde;o e sacrifica as pessoas que dependem dele para ter uma vida mais digna&quot;, afirma.</p>
 
 <p><br />
-&quot;A realiza&ccedil;&atilde;o da reforma agr&aacute;ria no Brasil &eacute; lenta e enfrenta v&aacute;rias barreiras, em MS, por exemplo, h&aacute; cinco anos estamos com este processo totalmente paralisado principalmente por conta do sucateamento do Incra, que n&atilde;o possui estrutura f&iacute;sica, nem financeira para tocar o que &eacute; necess&aacute;rio&quot;, afirma.</p>
+De acordo com o dirigente do MST/MS, Jonas Carlos da Concei&ccedil;&atilde;o, a a&ccedil;&atilde;o serve para mudar a atual realidade do &oacute;rg&atilde;o federal, que h&aacute; cinco anos n&atilde;o realiza um dos seus principais objetivos, a Reforma Agr&aacute;ria.</p>
 
 <p><br />
-Jonas Carlos apontou que uma das reivindica&ccedil;&otilde;es dos movimentos &eacute; a participa&ccedil;&atilde;o na articula&ccedil;&atilde;o sobre o pr&oacute;ximo nome do superintendente do Incra/MS, pois na semana passada o cargo ficou vago com a demiss&atilde;o de Celso Cestari.</p>
+&quot;A realiza&ccedil;&atilde;o da reforma agr&aacute;ria no Brasil &eacute; lenta e enfrenta v&aacute;rias barreiras. Em MS, por exemplo, h&aacute; cinco anos estamos com o processo totalmente paralisado, principalmente por conta do sucateamento do Incra, que n&atilde;o possui estrutura f&iacute;sica nem financeira para tocar o que &eacute; necess&aacute;rio&quot;, afirma.</p>
 
 <p><br />
-&quot;Nossa luta &eacute; por um superintendente t&eacute;cnico, que tenha a&ccedil;&otilde;es concretas, conhe&ccedil;a sobre Reforma Agr&aacute;ria e consiga se articular para mudar a realidade em que se encontra o &oacute;rg&atilde;o, pois dessa maneira teremos como cobrar um maior envolvimento na resolu&ccedil;&atilde;o de nossos problemas&quot;, afirma.</p>
+Os movimentos tamb&eacute;m pedem a participa&ccedil;&atilde;o para o pr&oacute;ximo nome do superintendente do Incra/MS, j&aacute; que na semana passada o cargo ficou vago com a demiss&atilde;o de Celso Cestari.</p>
+
+<p><br />
+&quot;Nossa luta &eacute; por um superintendente t&eacute;cnico, que tenha a&ccedil;&otilde;es concretas, conhe&ccedil;a sobre Reforma Agr&aacute;ria e consiga se articular para mudar a realidade em que se encontra o &oacute;rg&atilde;o. Com isso ter&iacute;amos como cobrar maior envolvimento na resolu&ccedil;&atilde;o de nossos problemas&quot;, acredita.</p>
 
 <p>&nbsp;</p>
 
 <p style="text-align:center"><img alt="3.jpg" height="367" src="http://farm8.staticflickr.com/7693/17216305388_b630242037_b.jpg" width="550" /></p>
 
-<p>Segundo Dinho Lopes, tamb&eacute;m da dire&ccedil;&atilde;o do MST, a Reforma Agr&aacute;ria tem o objetivo de efetuar a distribui&ccedil;&atilde;o da terra para a realiza&ccedil;&atilde;o de sua fun&ccedil;&atilde;o social e n&atilde;o &eacute; o que est&aacute; acontecendo em MS.</p>
+<p><br />
+<strong>Reforma Agr&aacute;ria</strong></p>
 
 <p><br />
-&quot;Atualmente temos cerca de cinco mil acampados conforme o Estatuto da Terra, criado em 1964, o Estado tem a obriga&ccedil;&atilde;o de garantir o direito ao acesso &agrave; terra para quem nela vive e trabalha e isso n&atilde;o tem acontecido, por isso estamos aqui, ocupando, resistindo e batalhando por mudan&ccedil;as para acampar o nosso pessoal e garantir estrutura para os nossos assentamentos&quot;, ressalta.</p>
+&quot;Atualmente temos cerca de 5 mil acampados em MS. Conforme o Estatuto da Terra, criado em 1964, o Estado tem a obriga&ccedil;&atilde;o de garantir o direito ao acesso &agrave; terra para quem nela vive e trabalha, mas isso n&atilde;o tem acontecido. Por isso estamos aqui, ocupando, resistindo e batalhando por mudan&ccedil;as&quot;, ressaltou Lopes.</p>
 
 <p><br />
-Para Ramiro Moises, dirigente da Fetagri, a &uacute;nica maneira de tentar estabelecer um di&aacute;logo foi ocupar o &oacute;rg&atilde;o respons&aacute;vel por Reforma Agr&aacute;ria.</p>
-
-<p><br />
-&quot;N&oacute;s s&oacute; sairemos daqui quando um representante nacional do INCRA descer em Campo Grande e deliberar resolu&ccedil;&otilde;es para a realidade do nosso Estado&quot;, conclui.</p>
-
-<p><br />
-Ap&oacute;s Assembleia Geral dos movimentos a defini&ccedil;&atilde;o foi permanecer no Incra at&eacute; que delibera&ccedil;&otilde;es nacionais apontem sa&iacute;das contundentes para a situa&ccedil;&atilde;o da Reforma Agr&aacute;ria em Mato Grosso do Sul.</p>
+Ramiro Moises, dirigente da Fetagri, afirmou que os movimento s&oacute; deixaram o &oacute;rg&atilde;o &quot;quando um representante nacional do Incra descer em Campo Grande e deliberar resolu&ccedil;&otilde;es para a realidade do nosso Estado&quot;, conclui.</p>
