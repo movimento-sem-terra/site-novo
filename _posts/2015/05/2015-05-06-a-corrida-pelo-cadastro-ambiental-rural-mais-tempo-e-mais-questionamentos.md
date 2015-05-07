@@ -6,7 +6,7 @@ tags:
   - tag: agricultura
 title: "A corrida pelo Cadastro Ambiental Rural: mais tempo e mais questionamentos"
 label: articles
-support_line: "Apesar da obrigatoriedade do registro estabelecida através do Novo Código Florestal em 2012,  poucas famílias agricultoras tem conseguido providenciar o CAR – e a maioria, com grandes dificuldades."
+support_line: "Apesar da obrigatoriedade do registro estabelecida através do Novo Código Florestal,  poucas famílias tem conseguido providenciar o CAR."
 menu: meio ambiente
 layout: post
 files:
