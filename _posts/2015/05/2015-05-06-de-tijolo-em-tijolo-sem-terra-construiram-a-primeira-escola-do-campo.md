@@ -7,7 +7,7 @@ tags:
 title: "De tijolo em tijolo, Sem Terra construíram a primeira escola do campo"
 support_line: "A Escola Madre Cristina, a primeira escola do campo no Mato Grosso, traz a realidade do campo para dentro da sala de aula."
 menu: "educação, cultura e comunicação"
-section: cover
+section: featured-news
 sector: education
 label: null
 layout: post
