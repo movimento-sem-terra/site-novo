@@ -53,19 +53,13 @@ releated_posts:
 A a&ccedil;&atilde;o faz parte da demanda estadual para arrecada&ccedil;&atilde;o de novas &aacute;reas para a Reforma Agr&aacute;ria e a melhoria dos assentamentos j&aacute; existentes, como assist&ecirc;ncia t&eacute;cnica, infraestrutura, habita&ccedil;&atilde;o e um programa de agroecologia.</p>
 
 <p><br />
-S&oacute; no estado de S&atilde;o Paulo s&atilde;o cerca de tr&ecirc;s mil fam&iacute;lias acampadas. Muitas h&aacute; mais de cinco anos debaixo da lona preta.</p>
+S&oacute; no estado de S&atilde;o Paulo, s&atilde;o cerca de tr&ecirc;s mil fam&iacute;lias acampadas. Muitas h&aacute; mais de cinco anos debaixo da lona preta.</p>
 
 <p><br />
-Para Kelli Mafort, da coordena&ccedil;&atilde;o nacional do MST, as a&ccedil;&otilde;es feitas em todo estado de S&atilde;o Paulo desde a &uacute;ltima Jornada Nacional da Reforma Agr&aacute;ria realizada em abril, tem o objetivo de acelerar as demandas agr&aacute;rias e mostrar o descontentamento dos Sem Terra com as &uacute;ltimas medidas tomadas pelo governo federal para segurar a economia.</p>
+Para Kelli Mafort, da coordena&ccedil;&atilde;o nacional do MST, as a&ccedil;&otilde;es feitas em todo estado de S&atilde;o Paulo desde a &uacute;ltima Jornada Nacional da Reforma Agr&aacute;ria, realizada em abril, tem o objetivo de acelerar as demandas agr&aacute;rias e mostrar o descontentamento dos Sem Terra com as &uacute;ltimas medidas tomadas pelo governo federal para segurar a economia.</p>
 
 <p><br />
-&ldquo;No estado de S&atilde;o Paulo s&atilde;o cerca de 22 mil fam&iacute;lias assentadas. Boa parte dessas &aacute;reas s&atilde;o precarizadas. Falta estrutura b&aacute;sica para que as fam&iacute;lias possam seguir com dignidade. As fam&iacute;lias conquistam a terra, mas n&atilde;o tem libera&ccedil;&atilde;o de recursos. Sem isso, n&atilde;o conseguem constituir moradia. Temos problemas prim&aacute;rios como falta de &aacute;gua e falta de po&ccedil;os artesianos para consumo e irriga&ccedil;&atilde;o. Ainda, assim em condi&ccedil;&otilde;es adversas, as nossas fam&iacute;lias est&atilde;o inseridas dentro do contexto da agroecologia, da sustentabilidade e do consumo consciente, mostrando que a Reforma Agr&aacute;ria Popular &eacute; poss&iacute;vel&rdquo;, pontua.&nbsp;</p>
+&ldquo;No estado de S&atilde;o Paulo s&atilde;o cerca de 22 mil fam&iacute;lias assentadas. Boa parte dessas &aacute;reas s&atilde;o precarizadas. Falta estrutura b&aacute;sica para que as fam&iacute;lias possam seguir com dignidade. As fam&iacute;lias conquistam a terra, mas n&atilde;o tem libera&ccedil;&atilde;o de recursos. Sem isso, n&atilde;o conseguem constituir moradia. Temos problemas prim&aacute;rios como falta de &aacute;gua e falta de po&ccedil;os artesianos para consumo e irriga&ccedil;&atilde;o. Ainda assim em condi&ccedil;&otilde;es adversas, as nossas fam&iacute;lias est&atilde;o inseridas dentro do contexto da agroecologia, da sustentabilidade e do consumo consciente, mostrando que a Reforma Agr&aacute;ria Popular &eacute; poss&iacute;vel&rdquo;, pontua.&nbsp;</p>
 
 <p><br />
 As reivindica&ccedil;&otilde;es v&atilde;o desde licenciamento e averba&ccedil;&atilde;o ambiental; conclus&atilde;o das estradas; &nbsp;aprofundamento da rede de &aacute;gua, conclus&atilde;o de programas de &nbsp;apoio a mulher, constru&ccedil;&atilde;o de dois novos po&ccedil;os, conserva&ccedil;&atilde;o do solo, t&eacute;rmino de obras em estradas j&aacute; iniciadas, at&eacute; a implanta&ccedil;&atilde;o de rede hidr&aacute;ulica, falta instala&ccedil;&atilde;o el&eacute;trica na maioria dos acampamentos; libera&ccedil;&atilde;o dos cr&eacute;ditos (Habita&ccedil;&atilde;o e Apoio Mulher) e &nbsp;constru&ccedil;&atilde;o de escolas e postos de sa&uacute;de.</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
