@@ -5,7 +5,7 @@ tags:
   - tag: reforma-agrária
   - tag: lutas-e-mobilizações
 menu: lutas e mobilizações
-title: Famílias Sem Terra ocupam Incra em Bauru
+title: Famílias Sem Terra ocupam as sedes do Incra em Bauru e Iaras
 support_line: A ação faz parte da demanda estadual para arrecadação de novas áreas para a Reforma Agrária em todo estado.
 layout: post
 files:
@@ -47,10 +47,14 @@ releated_posts:
 <p><em>Da P&aacute;gina do MST</em><br />
 &nbsp;</p>
 
-<p>Cerca 280 fam&iacute;lias ocuparam na manh&atilde; dessa quinta-feira (7), a sede do <span class="st">Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (</span>Incra) em Bauru, interior de S&atilde;o Paulo.</p>
+<p>Cerca 280 fam&iacute;lias ocuparam na manh&atilde; dessa quinta-feira (7), as sedes do <span class="st">Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (</span>Incra) nas cidades de Bauru e Iaras, interior de S&atilde;o Paulo.</p>
+
+<p>&nbsp;</p>
+
+<p>No per&iacute;odo da tarde os Sem Terra trancaram a Rodovia Marechal Rondon na altura do km 647.</p>
 
 <p><br />
-A a&ccedil;&atilde;o faz parte da demanda estadual para arrecada&ccedil;&atilde;o de novas &aacute;reas para a Reforma Agr&aacute;ria e a melhoria dos assentamentos j&aacute; existentes, como assist&ecirc;ncia t&eacute;cnica, infraestrutura, habita&ccedil;&atilde;o e um programa de agroecologia.</p>
+As a&ccedil;&otilde;es fazem parte da demanda estadual para arrecada&ccedil;&atilde;o de novas &aacute;reas para a Reforma Agr&aacute;ria e a melhoria dos assentamentos j&aacute; existentes, como assist&ecirc;ncia t&eacute;cnica, infraestrutura, habita&ccedil;&atilde;o e um programa de agroecologia.</p>
 
 <p><br />
 S&oacute; no estado de S&atilde;o Paulo, s&atilde;o cerca de tr&ecirc;s mil fam&iacute;lias acampadas. Muitas h&aacute; mais de cinco anos debaixo da lona preta.</p>
