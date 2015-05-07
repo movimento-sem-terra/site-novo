@@ -54,7 +54,7 @@ releated_posts:
   - 2015/01/2015-01-19-durante-encontro-ciranda-infantil-leva-estudo-cultura-e-diversao-aos-sem-terrinha.md
   - 2015/04/2015-04-29-do-eucalipto-a-producao-agroecologica-e-a-construcao-da-escola-popular.md
   - 2014/12/2014-12-01-para-dirigente-do-mst-pauta-minima-sera-o-assentamento-de-120-mil-familias.md
-section: featured-news
+section: null
 
 ---
 <p><img alt="Valmir fala durante cerimônia do governo federal em Prado para assentados - FOTO Peter Shilton.jpg" src="http://farm9.staticflickr.com/8879/17322641462_50d260663c_b.jpg" /></p>
