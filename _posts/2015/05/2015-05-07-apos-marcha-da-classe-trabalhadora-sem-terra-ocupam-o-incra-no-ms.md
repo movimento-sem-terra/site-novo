@@ -41,7 +41,7 @@ releated_posts:
   - 2015/05/2015-05-04-sem-terra-ocupam-incra-em-araguatins-e-pedem-fim-da-violencia-no-campo.md
 
 ---
-<p><img alt="1.jpg" src="http://farm9.staticflickr.com/8858/17402130002_7b1fa49829_b.jpg" /></p>
+<p style="text-align:center"><img alt="1.jpg" height="364" src="http://farm9.staticflickr.com/8858/17402130002_7b1fa49829_b.jpg" width="550" /></p>
 
 <p>&nbsp;</p>
 
@@ -72,7 +72,7 @@ Jonas Carlos apontou que uma das reivindica&ccedil;&otilde;es dos movimentos &ea
 
 <p>&nbsp;</p>
 
-<p style="text-align:center"><img alt="3.jpg" height="400" src="http://farm8.staticflickr.com/7693/17216305388_b630242037_b.jpg" width="600" /></p>
+<p style="text-align:center"><img alt="3.jpg" height="367" src="http://farm8.staticflickr.com/7693/17216305388_b630242037_b.jpg" width="550" /></p>
 
 <p>Segundo Dinho Lopes, tamb&eacute;m da dire&ccedil;&atilde;o do MST, a Reforma Agr&aacute;ria tem o objetivo de efetuar a distribui&ccedil;&atilde;o da terra para a realiza&ccedil;&atilde;o de sua fun&ccedil;&atilde;o social e n&atilde;o &eacute; o que est&aacute; acontecendo em MS.</p>
 
