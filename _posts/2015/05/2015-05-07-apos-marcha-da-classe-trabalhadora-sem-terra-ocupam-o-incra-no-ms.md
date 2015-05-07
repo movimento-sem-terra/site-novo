@@ -5,7 +5,7 @@ tags:
   - tag: ocupação-incra
   - tag: marcha
   - tag: campo-e-cidade
-title: "Após Marcha da Classe Trabalhadora, Sem Terra ocupam o Incra no MS"
+title: "Após Marcha da Classe Trabalhadora, Sem Terra ocupam Incra no MS"
 support_line: Os militantes reivindicam a reestruturação do órgão no estado.
 menu: lutas e mobilizações
 layout: post
@@ -59,10 +59,6 @@ Participam da a&ccedil;&atilde;o desta quarta-feira os militantes do MST, da Fed
 
 <p>&nbsp;</p>
 
-<figure class="image" style="float:left"><img alt="3.jpg" height="267" src="http://farm8.staticflickr.com/7693/17216305388_b630242037_b.jpg" width="400" />
-<figcaption></figcaption>
-</figure>
-
 <p>De acordo com o dirigente do MST/MS, Jonas Carlos da Concei&ccedil;&atilde;o, os movimentos ocupam o INCRA para mudar a atual realidade do &oacute;rg&atilde;o que est&aacute; h&aacute; cinco anos sem realizar um dos seus principais objetivos, a Reforma Agr&aacute;ria.</p>
 
 <p><br />
@@ -76,9 +72,7 @@ Jonas Carlos apontou que uma das reivindica&ccedil;&otilde;es dos movimentos &ea
 
 <p>&nbsp;</p>
 
-<figure class="image" style="float:right"><img alt="2.jpg" height="265" src="http://farm8.staticflickr.com/7714/17404110685_a515698ee3_b.jpg" width="400" />
-<figcaption></figcaption>
-</figure>
+<p style="text-align:center"><img alt="3.jpg" height="400" src="http://farm8.staticflickr.com/7693/17216305388_b630242037_b.jpg" width="600" /></p>
 
 <p>Segundo Dinho Lopes, tamb&eacute;m da dire&ccedil;&atilde;o do MST, a Reforma Agr&aacute;ria tem o objetivo de efetuar a distribui&ccedil;&atilde;o da terra para a realiza&ccedil;&atilde;o de sua fun&ccedil;&atilde;o social e n&atilde;o &eacute; o que est&aacute; acontecendo em MS.</p>
 
