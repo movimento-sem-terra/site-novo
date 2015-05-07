@@ -5,7 +5,7 @@ tags:
   - tag: ocupação-incra
   - tag: marcha
   - tag: campo-e-cidade
-title: Após Marcha da Classe Trabalhadora Sem Terra ocupam o Incra no MS
+title: "Após Marcha da Classe Trabalhadora, Sem Terra ocupam o Incra no MS"
 support_line: Os militantes reivindicam a reestruturação do órgão no estado.
 menu: lutas e mobilizações
 layout: post
