@@ -4,11 +4,11 @@ tags:
   - tag: são-paulo
   - tag: educação
   - tag: lutas-e-mobilizações
-title: Sem Terrinha são impedidas de estudar do interior de São Paulo
+title: Crianças Sem Terra são impedidas de estudar do interior de São Paulo
 menu: lutas e mobilizações
 section: cover
 sector: education
-support_line: "Sem Terra ocuparam a prefeitura de Iaras nessa sexta-feira (8), para exigir que a prefeitura realize a matrícula dos Sem Terrinha e forneça transporte público às crianças."
+support_line: Sem Terra protestam em frente a prefeitura de Iaras para exigir que a prefeitura realize a matrícula dos Sem Terrinha e forneça transporte.
 layout: post
 files:
   - link: "http://farm9.staticflickr.com/8795/17244398380_cf6fef9892_b.jpg"
@@ -48,19 +48,19 @@ releated_posts:
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
-O ano letivo j&aacute; come&ccedil;ou h&aacute; 45 dias, mas at&eacute; agora, as matriculas de boa parte das crian&ccedil;as Sem Terra do acampamento Luis Beltrame, entre os munic&iacute;pios de Iaras e Agudos, interior de S&atilde;o Paulo, n&atilde;o foi realizada.</p>
+O ano letivo j&aacute; come&ccedil;ou h&aacute; 45 dias, mas at&eacute; agora, as matr&iacute;culas de boa parte das crian&ccedil;as Sem Terra do acampamento Luis Beltrame, entre os munic&iacute;pios de Iaras e Agudos, interior de S&atilde;o Paulo, n&atilde;o foi realizada.</p>
 
 <p><br />
 As que conseguiram se matricular, entretanto, n&atilde;o podem comparecer &agrave;s aulas, j&aacute; que n&atilde;o h&aacute; transporte que as leve at&eacute; a escola.</p>
 
 <p><br />
-Por isso, cerca de 80 Sem Terra realizam um ato em frente a prefeitura de Iaras na tarde desta sexta-feira (8), para exigir que a prefeitura realize a matr&iacute;cula dos Sem Terrinha e forne&ccedil;a transporte p&uacute;blico &agrave;s crian&ccedil;as.</p>
+Por isso, cerca de 80 Sem Terra protestam na tarde desta sexta-feira (8) em frente &agrave; prefeitura de Iaras, para exigir que a prefeitura realize a matr&iacute;cula dos Sem Terrinha e forne&ccedil;a transporte p&uacute;blico &agrave;s crian&ccedil;as.</p>
 
 <p><br />
-Segundo Dete Pereira de Souza, da dire&ccedil;&atilde;o estadual do MST, das crian&ccedil;as entre 7 e 14 anos, seis est&atilde;o matriculadas, mas n&atilde;o tem como se locomover at&eacute; a escola por fala de transporte p&uacute;blico. As outras cinco tiveram suas matriculas negadas pela prefeitura de Iaras.</p>
+Segundo Dete Pereira de Souza, da dire&ccedil;&atilde;o estadual do MST, das crian&ccedil;as entre 7 e 14 anos, seis est&atilde;o matriculadas, mas n&atilde;o tem como se locomover at&eacute; a escola por fala de transporte p&uacute;blico. As outras cinco tiveram suas matr&iacute;culas negadas pela prefeitura de Iaras.</p>
 
 <p><br />
-Em rela&ccedil;&atilde;o ao transporte, as explica&ccedil;&otilde;es dadas pela prefeitura &eacute; que n&atilde;o h&aacute; mais vagas dispon&iacute;veis para o cadastro de novos alunos nos &ocirc;nibus p&uacute;blicos da regi&atilde;o.</p>
+Em rela&ccedil;&atilde;o ao transporte, as explica&ccedil;&otilde;es dadas pelo munic&iacute;pio &eacute; que n&atilde;o h&aacute; mais vagas dispon&iacute;veis para o cadastro de novos alunos nos &ocirc;nibus p&uacute;blicos da regi&atilde;o.</p>
 
 <p><br />
 Quanto &agrave;s matriculas pendentes, as desculpas apresentadas v&atilde;o de falta de vagas at&eacute; problemas com a documenta&ccedil;&atilde;o apresentada.</p>
