@@ -40,7 +40,7 @@ releated_posts:
   - 2015/04/2015-04-02-o-nosso-exercito-e-de-trabalhadores-que-lutam-pela-terra-diz-coordenador-do-mst.md
   - 2015/04/2015-04-15-jornada-nacional-de-lutas-comeca-em-todo-pais.md
   - 2015/03/2015-03-31-em-brasilia-incra-empossa-primeira-mulher-como-presidenta.md
-section: cover
+section: null
 
 ---
 <p style="text-align:center"><img alt="1.jpg" height="364" src="http://farm9.staticflickr.com/8858/17402130002_7b1fa49829_b.jpg" width="550" /></p>
