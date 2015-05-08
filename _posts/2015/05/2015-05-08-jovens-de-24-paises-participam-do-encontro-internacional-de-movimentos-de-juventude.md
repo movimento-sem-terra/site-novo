@@ -85,4 +85,7 @@ Outra data tirada foi o dia 8 de outubro, dia em que Ernerto &ldquo;Che&rdquo; G
 <p><br />
 Os movimentos prometem realizar a &ldquo;Jornada Internacional de Luta da Juventude Popular e Anti-imperialista Contra a Viol&ecirc;ncia do Capital&rdquo;, em mem&oacute;ria ao Che.</p>
 
+<p><br />
+<em>* Com informa&ccedil;&otilde;es do Levante Popular da Juventude</em></p>
+
 <p><img alt="encontro_internacional_juventude2.jpg" src="http://farm6.staticflickr.com/5459/16805215913_a518d84caa_b.jpg" /></p>
