@@ -45,7 +45,7 @@ releated_posts:
 <p><em>Da P&aacute;gina do MST*</em></p>
 
 <p><br />
-Dezenas de jovens de 37 movimentos sociais de 24 pa&iacute;ses de todo o mundo participaram do Encontro Internacional de Movimentos de Juventude entre os dias 3 a 5 de maio, na Escola Nacional Florestan Fernandes (ENFF), na cidade de Guararema (SP).</p>
+Dezenas de jovens de 36 movimentos sociais de 24 pa&iacute;ses de todo o mundo participaram do Encontro Internacional de Movimentos de Juventude entre os dias 3 a 5 de maio, na Escola Nacional Florestan Fernandes (ENFF), na cidade de Guararema (SP).</p>
 
 <p><br />
 Durante os tr&ecirc;s dias os jovens debateram e refletiram sobre a conjuntura internacional e as atuais lutas protagonizadas pela juventude.</p>
