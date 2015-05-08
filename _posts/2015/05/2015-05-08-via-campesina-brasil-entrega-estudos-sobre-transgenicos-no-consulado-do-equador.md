@@ -6,7 +6,7 @@ tags:
 title: Via Campesina entrega estudos sobre transgênicos no Consulado do Equador
 menu: transgênicos
 support_line: Desde 2008 houve uma mudança na Constituição do Equador em que prevê que o país seja uma área livre de transgênicos.
-section: cover
+section: null
 layout: post
 files:
   - link: "http://farm9.staticflickr.com/8886/17236038078_4336fb1eeb_b.jpg"
