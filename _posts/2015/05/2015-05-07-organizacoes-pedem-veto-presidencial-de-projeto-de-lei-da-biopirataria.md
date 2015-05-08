@@ -3,7 +3,7 @@ date: "2015-05-07T13:29:27-03:00"
 tags:
   - tag: meio-ambiente
   - tag: biopirataria
-title: Organizações pedem veto presidencial de PL da biopirataria
+title: Organizações pedem veto presidencial do PL da biopirataria
 support_line: As entidades apontam que o PL servirá exclusivamente aos interesses diretos de empresas nacionais e multinacionais.
 menu: meio ambiente
 layout: post
