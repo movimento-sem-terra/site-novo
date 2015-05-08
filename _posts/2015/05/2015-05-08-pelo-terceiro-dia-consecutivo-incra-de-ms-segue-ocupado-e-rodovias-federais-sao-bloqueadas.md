@@ -5,7 +5,7 @@ tags:
   - tag: reforma-agrária
   - tag: incra
   - tag: mato-grosso-do-sul
-title: "Pelo terceiro dia consecutivo, Incra de MS segue ocupado e rodovias federais são bloqueadas"
+title: "Pelo terceiro dia consecutivo, Incra de MS segue ocupado e rodovias são bloqueadas"
 support_line: Com a perspectiva de um diálogo com um representante nacional sem terras podem desocupar o prédio do órgão nesta tarde.
 menu: lutas e mobilizações
 layout: post
@@ -60,10 +60,8 @@ releated_posts:
 <p><br />
 <em>Da P&aacute;gina do MST</em></p>
 
-<p>&nbsp;
 <p><br />
 Desde quarta-feira (6), cerca de 600 sem terras de movimentos de luta pela reforma agr&aacute;ria ocupam a sede do Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria&nbsp; (Incra) de Mato Grosso do Sul, na capital Campo Grande.</p>
-</p>
 
 <p><br />
 A principal reivindica&ccedil;&atilde;o &eacute; a presen&ccedil;a de um representante nacional do &oacute;rg&atilde;o, que possua poder de delibera&ccedil;&atilde;o e resolu&ccedil;&atilde;o sobre a pauta dos sem terra, como a estagna&ccedil;&atilde;o de cinco anos da Reforma Agr&aacute;ria no Estado.</p>
