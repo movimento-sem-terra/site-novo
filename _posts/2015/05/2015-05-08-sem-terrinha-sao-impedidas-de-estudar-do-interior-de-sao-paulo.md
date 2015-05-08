@@ -4,7 +4,7 @@ tags:
   - tag: são-paulo
   - tag: educação
   - tag: lutas-e-mobilizações
-title: Crianças Sem Terra são impedidas de estudar do interior de São Paulo
+title: Crianças Sem Terra são impedidas de estudar no interior de São Paulo
 menu: lutas e mobilizações
 section: cover
 sector: education
