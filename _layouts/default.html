@@ -29,6 +29,11 @@
         <script type="text/javascript" src="{{ site.baseurl }}/assets/js/{{ script }}"></script>
       {% endfor %}
     {% endif %}
+    {% if page.external_scripts %}
+      {% for script in page.external_scripts %}
+        <script type="text/javascript" src="{{ script }}"></script>
+      {% endfor %}
+    {% endif %}
 
   	</head>
   <body>

@@ -1,16 +1,18 @@
 ---
 layout: default
+scripts: "all_news.js"
+external_scripts: "//cdnjs.cloudflare.com/ajax/libs/masonry/3.3.0/masonry.pkgd.min.js"
 ---
 
 <main class="all-news">
-  <ul>
+  <div class="container">
     {% for post in paginator.posts %}
-      <li>
+      <div class="item">
         {% include headline-with-image.html post=post support_line=true show_time=true %}
         {% include tag-list.html tags = post.tags %}
-      </li>
+      </div>
     {% endfor %}
-  </ul>
+  </div>
   {% if paginator.total_pages > 1 %}
 
     <footer class="pagination">
