@@ -8,7 +8,7 @@ tags:
   - tag: agrotóxicos
 title: "Cientista do MIT afirma que o \"glifosato\" causará autismo em 50% das crianças até 2025"
 menu: agronegócio
-support_line: "O uso excessivo de agrotóxicos em nossa alimentação causa doenças como alzheimer, câncer, doenças cardiovasculares. entre outros."
+support_line: "O uso excessivo de agrotóxicos em nossa alimentação causa doenças como alzheimer, câncer, doenças cardiovasculares, entre outros."
 layout: post
 files:
   - link: "http://farm9.staticflickr.com/8723/16805891283_8572565440_b.jpg"
