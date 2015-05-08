@@ -6,7 +6,7 @@ tags:
   - tag: crise-política
 menu: reforma agrária
 label: interviews
-title: "‘Governo paga o preço pela ação despolitizadora do último período’ "
+title: "‘Governo paga o preço pela ação despolitizadora do último período’, afirma Gilmar Mauro"
 support_line: Em entrevista Gilmar Mauro fala sobre o pouco avanço que a reforma agrária obteve nos últimos períodos.
 layout: post
 files:
