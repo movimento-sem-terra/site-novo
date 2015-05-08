@@ -34,12 +34,8 @@ releated_posts:
   - 2014/12/2014-11-19-preocupados-com-saude-da-populacao-governos-comecam-a-banir-o-glifosato.md
 
 ---
-<p><br />
-&nbsp;</p>
-
-<p style="text-align:center"><img alt="img213.jpg" height="398" src="http://farm9.staticflickr.com/8723/16805891283_8572565440_b.jpg" width="600" /></p>
-
-<p><br />
+<p><img alt="img213.jpg" src="http://farm9.staticflickr.com/8723/16805891283_8572565440_b.jpg" /><br />
+<br />
 <em>Do Eco21</em></p>
 
 <p><br />
