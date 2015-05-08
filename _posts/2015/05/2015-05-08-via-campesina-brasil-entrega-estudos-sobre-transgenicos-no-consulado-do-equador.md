@@ -24,7 +24,12 @@ files:
 created_date: "2015-05-08T10:11:43-03:00"
 published: true
 images_hd: "http://farm9.staticflickr.com/8886/17236038078_4336fb1eeb_n.jpg"
-releated_posts: []
+releated_posts:
+  - 2015/04/2015-04-30-neil-young-lanca-album-de-protesto-contra-monsanto.md
+  - 2015/05/2015-05-05-vejam-lista-dos-deputados-que-querem-esconder-os-transgenicos-do-brasileiro.md
+  - 2015/05/2015-05-05-10-anos-da-lei-da-biosseguranca-poucos-motivos-para-comemorar.md
+  - 2015/05/2015-05-05-uniao-europeia-se-aproxima-da-monsanto-com-aprovacao-na-importacao-de-transgenicos.md
+  - 2015/05/2015-05-06-trangenicos-deputados-atropelam-direito-a-informacao.md
 
 ---
 <p><img alt="consulado_equador.jpg" src="http://farm9.staticflickr.com/8886/17236038078_4336fb1eeb_b.jpg" /></p>
