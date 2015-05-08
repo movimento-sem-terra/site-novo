@@ -22,24 +22,10 @@ published: true
 images_hd: "http://farm9.staticflickr.com/8795/17244398380_cf6fef9892_n.jpg"
 releated_posts:
   - 2015/03/2015-03-30-sem-terra-realizam-ato-em-frente-a-prefeitura-de-ribeirao-preto.md
-  - 2014/03/2014-03-10-mulheres-realizam-seminario-sobre-a-violencia-contra-a-mulher-em-sp.md
-  - 2014/03/2014-03-13-familias-acampadas-ha-mais-de-10-anos-marcham-na-regiao-de-iaras-sp.md
-  - 2014/04/2014-04-16-levante-popular-da-juventude-reune-3-mil-jovens-em-sao-paulo.md
-  - 2014/04/2014-04-23-indigenas-realizam-grande-ato-de-resistencia-guarani-em-sao-paulo.md
-  - 2014/05/2014-05-02-cerca-de-450-familias-reocupam-latifundio-pela-11-vez-em-serrana-sp.md
-  - 2014/05/2014-05-06-mil-sem-terra-marcham-rumo-a-capital-paulista.md
-  - 2014/05/2014-05-07-sem-terra-chegam-a-sao-paulo-e-seguem-mobilizados-nos-proximos-dias.md
-  - 2014/05/2014-05-09-em-memoria-a-todos-companheiros-mortos-na-luta-marchamos-novamente.md
-  - 2014/05/2014-05-15-atos-em-solidariedade-a-venezuela-denunciam-papel-da-imprensa.md
-  - 2014/06/2014-06-30-mst-realiza-ocupacao-de-area-em-itapevi-para-criar-comuna-urbana.md
-  - 2015/04/2015-04-08-por-melhorias-na-educacao-sem-terra-ocupam-prefeitura-de-jardim-alegre-no-pr.md
-  - 2015/04/2015-04-13-em-sergipe-assentados-fortalecem-trabalho-de-base.md
-  - 2015/03/2015-03-12-movimentos-sociais-do-campo-realizam-ato-unificado-em-sp.md
-  - 2015/03/2015-03-13-camponeses-fazem-ato-na-paulista-e-se-preparam-para-esta-sexta.md
-  - 2015/03/2015-03-13-cerca-de-100-mil-ocupam-a-paulista-pela-constituinte-e-em-defesa-da-petrobras.md
-  - 2015/03/2015-03-16-ato-em-sa-o-paulo-1reune-cerca-de-100-mil-pessoas.md
-  - 2015/03/2015-03-19-sem-terra-trancam-rodovia-contra-despejo-na-regiao-do-vale-do-paraiba-em-sp.md
-  - 2015/04/2015-04-30-sem-terra-ocupam-incra-e-ja-se-preparam-para-o-1-de-maio-em-sao-paulo.md
+  - 2015/03/2015-03-20-haddad-sanciona-projeto-que-inclui-alimento-organico-na-merenda-escolar.md
+  - 2015/05/2015-05-06-de-tijolo-em-tijolo-sem-terra-construiram-a-primeira-escola-do-campo.md
+  - 2015/05/2015-05-04-seminario-discute-efeitos-do-consumo-de-agrotoxicos-na-saude-humana.md
+  - 2015/05/2015-05-07-familias-sem-terra-ocupam-incra-em-bauru.md
 
 ---
 <p><img alt="prefeitura_iaras.jpg" src="http://farm9.staticflickr.com/8795/17244398380_cf6fef9892_b.jpg" /><br />
