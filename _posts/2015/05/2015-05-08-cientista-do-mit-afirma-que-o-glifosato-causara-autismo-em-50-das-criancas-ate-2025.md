@@ -45,7 +45,7 @@ releated_posts:
 
 <div>&nbsp;</div>
 
-<p>Corroborando uma crescente tend&ecirc;ncia no aumento das taxas de autismo, uma cientista s&ecirc;nior de pesquisa do MIT alertou que de todas as crian&ccedil;as, um inquietante 50% ser&atilde;o autistas em 2025.</p>
+<p>Corroborando uma crescente tend&ecirc;ncia no aumento das taxas de autismo, uma cientista s&ecirc;nior de pesquisa do <span class="st">Instituto de Tecnologia de Massachusetts (</span>MIT) alertou que de todas as crian&ccedil;as, um inquietante 50% ser&atilde;o autistas em 2025.</p>
 
 <p><br />
 Quem &eacute; o culpado? Round-Up, o mais vendido da Monsanto que cont&eacute;m glifosato, est&aacute; no topo da lista.</p>
