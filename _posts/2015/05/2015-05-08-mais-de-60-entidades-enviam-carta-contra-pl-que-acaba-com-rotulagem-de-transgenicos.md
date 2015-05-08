@@ -3,7 +3,7 @@ date: "2015-05-08T12:45:16-03:00"
 tags:
   - tag: transgênicos
   - tag: rotulagem
-title: Mais de 60 entidades enviam carta contra PL que acaba com rotulagem de transgênicos
+title: Mais de 60 entidades pedem que Senado rejeite PL que acaba com rotulagem de transgênicos
 support_line: O IDEC encaminhou uma carta assinada por mais de 60 entidades pedindo que o Senado rejeite o PL4148/2008.
 menu: transgênicos
 layout: post
