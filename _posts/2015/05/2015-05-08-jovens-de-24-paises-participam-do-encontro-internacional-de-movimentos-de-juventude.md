@@ -5,7 +5,7 @@ tags:
   - tag: juventude
   - tag: lutas-e-mobilizações
   - tag: movimentos-sociais
-title: Jovens de 24 países participam do Encontro Internacional de Movimentos de Juventude
+title: Jovens de 24 países participam do Encontro Internacional de Juventude
 support_line: Durante três dias os jovens debateram e refletiram sobre a conjuntura internacional e as atuais lutas protagonizadas pela juventude.
 menu: solidariedade
 layout: post
