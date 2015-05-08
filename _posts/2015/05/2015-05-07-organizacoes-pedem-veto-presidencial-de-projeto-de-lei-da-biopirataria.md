@@ -23,6 +23,7 @@ releated_posts:
   - 2015/03/2015-03-31-projeto-de-lei-sobre-biodiversidade-fere-tratado-internacional-diz-seu-dirigente.md
   - 2015/05/2015-05-06-a-corrida-pelo-cadastro-ambiental-rural-mais-tempo-e-mais-questionamentos.md
   - 2015/03/2015-03-06-movimentos-e-sociedade-civil-condenam-projeto-sobre-recursos-geneticos.md
+section: featured-news
 
 ---
 <p><img alt="Figura1.jpg" src="http://farm9.staticflickr.com/8795/17218575688_d1cefeb991_b.jpg" /></p>
