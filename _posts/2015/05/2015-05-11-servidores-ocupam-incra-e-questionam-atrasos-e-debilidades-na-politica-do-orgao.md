@@ -25,6 +25,7 @@ releated_posts:
   - 2015/04/2015-04-02-o-nosso-exercito-e-de-trabalhadores-que-lutam-pela-terra-diz-coordenador-do-mst.md
   - 2015/05/2015-05-07-apos-marcha-da-classe-trabalhadora-sem-terra-ocupam-o-incra-no-ms.md
   - 2015/05/2015-05-07-familias-sem-terra-ocupam-incra-em-bauru.md
+section: cover
 
 ---
 <p><img alt="ocupação_servidores_incra.jpg" src="http://farm9.staticflickr.com/8753/16902263233_6a5d8fef07_b.jpg" /></p>
@@ -57,5 +58,7 @@ Com cartazes, palavras de ordem e apitos, os manifestantes levaram um bolo at&ea
 &ldquo;Estamos recebendo de forma trimestral e chegando ao nosso limite, e isso compromete diretamente o funcionamento do programa de assist&ecirc;ncia t&eacute;cnica&rdquo;, destacou Adalberto Souza, gestor ambiental.</p>
 
 <p><br />
-Atualmente, o Centro Zumbi presta servi&ccedil;o de ATER em assentamentos de 23 munic&iacute;pios do estado de Alagoas.<br />
+Atualmente, o Centro Zumbi presta servi&ccedil;o de ATER em assentamentos de 23 munic&iacute;pios do estado de Alagoas.</p>
+
+<p><br />
 &ldquo;Os agricultores est&atilde;o l&aacute; na ponta esperando resultado, e essa burocracia e atrasos nos amarra&rdquo;, avalia Denysson Marques, t&eacute;cnico em agropecu&aacute;ria.</p>
