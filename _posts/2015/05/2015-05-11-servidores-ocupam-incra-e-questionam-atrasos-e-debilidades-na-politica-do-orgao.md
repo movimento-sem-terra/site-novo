@@ -5,7 +5,7 @@ tags:
   - tag: incra
   - tag: lutas-e-mobilizações
   - tag: reforma-agrária
-title: Servidores ocupam Incra e questionam atrasos e debilidades na política do órgão
+title: Trabalhadores da ATER ocupam Incra e questionam atrasos e debilidades do órgão
 support_line: "Os profissionais, que estão sem receber seus salários há três meses, exigem respostas da superintendência sobre o convênio da ATER iniciado desde abril de 2014."
 menu: lutas e mobilizações
 layout: post
