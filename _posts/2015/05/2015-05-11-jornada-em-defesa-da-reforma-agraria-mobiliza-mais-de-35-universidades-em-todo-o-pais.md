@@ -3,7 +3,7 @@ date: "2015-05-11T14:41:42-03:00"
 tags:
   - tag: jornada-universitária
   - tag: reforma-agrária
-title: Jornada em Defesa da Reforma Agrária mobiliza mais de 35 universidades em todo o país
+title: Jornada em Defesa da Reforma Agrária mobiliza mais de 35 universidades
 menu: reforma agrária
 support_line: "Para professor da UnB, a jornada tem se consolidado no calendário acadêmico de muitas universidades e institutos federais brasileiros."
 section: cover
