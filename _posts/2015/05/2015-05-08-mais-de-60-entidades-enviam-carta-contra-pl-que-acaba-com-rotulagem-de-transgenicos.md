@@ -28,6 +28,7 @@ releated_posts:
   - 2015/04/2015-04-29-camara-aprova-pl-que-derruba-a-obrigatoriedade-da-rotulagem-de-alimentos-transgenicos.md
   - 2015/05/2015-05-05-vejam-lista-dos-deputados-que-querem-esconder-os-transgenicos-do-brasileiro.md
   - 2015/05/2015-05-06-trangenicos-deputados-atropelam-direito-a-informacao.md
+section: featured-news
 
 ---
 <p><img alt="oleo_050714.jpg" src="http://farm8.staticflickr.com/7760/17240548210_f89b0381b3_b.jpg" /><br />
