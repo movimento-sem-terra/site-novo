@@ -6,7 +6,7 @@ tags:
   - tag: lutas-e-mobilizações
 title: Crianças Sem Terra são impedidas de estudar no interior de São Paulo
 menu: lutas e mobilizações
-section: cover
+section: null
 sector: education
 support_line: Sem Terra protestam em frente a prefeitura de Iaras para exigir que a prefeitura realize a matrícula dos Sem Terrinha e forneça transporte.
 layout: post
