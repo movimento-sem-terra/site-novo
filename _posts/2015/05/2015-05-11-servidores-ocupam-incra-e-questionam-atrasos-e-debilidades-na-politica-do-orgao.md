@@ -25,7 +25,7 @@ releated_posts:
   - 2015/04/2015-04-02-o-nosso-exercito-e-de-trabalhadores-que-lutam-pela-terra-diz-coordenador-do-mst.md
   - 2015/05/2015-05-07-apos-marcha-da-classe-trabalhadora-sem-terra-ocupam-o-incra-no-ms.md
   - 2015/05/2015-05-07-familias-sem-terra-ocupam-incra-em-bauru.md
-section: cover
+section: null
 
 ---
 <p><img alt="ocupação_servidores_incra.jpg" src="http://farm9.staticflickr.com/8753/16902263233_6a5d8fef07_b.jpg" /></p>
