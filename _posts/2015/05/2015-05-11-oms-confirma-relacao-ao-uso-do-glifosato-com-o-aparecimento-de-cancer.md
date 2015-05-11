@@ -10,6 +10,9 @@ menu: agronegócio
 support_line: "A partir dessa confirmação, especialistas do mundo todo querem pedir a proibição do uso do herbicida."
 layout: post
 files:
+  - thumbnail: "http://farm8.staticflickr.com/7689/17500559356_7862bf8a75_n.jpg"
+    small: "http://farm8.staticflickr.com/7689/17500559356_7862bf8a75_n.jpg"
+    $$hashKey: 0H9
   - link: "http://farm9.staticflickr.com/8762/17341345109_cfdb14d4b2_b.jpg"
     thumbnail: "http://farm9.staticflickr.com/8762/17341345109_cfdb14d4b2_t.jpg"
     medium: "http://farm9.staticflickr.com/8762/17341345109_cfdb14d4b2_z.jpg"
@@ -18,7 +21,7 @@ files:
     $$hashKey: 0EF
 created_date: "2015-05-11T15:16:12-03:00"
 published: true
-images_hd: "http://farm8.staticflickr.com/7689/17500559356_7862bf8a75_n.jpg"
+images_hd: "http://farm9.staticflickr.com/8762/17341345109_cfdb14d4b2_n.jpg"
 releated_posts:
   - 2015/01/2015-01-22-chuck-norris-fala-em-artigo-contra-a-monsanto-e-os-danos-que-a-empresa-causa-a-saude-global.md
   - 2014/08/2014-08-08-vandana-shiva-as-entrelinhas-das-guerras-por-alimentos.md
