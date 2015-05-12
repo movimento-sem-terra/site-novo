@@ -9,7 +9,7 @@ support_line: "A Escola Madre Cristina, a primeira escola do campo no Mato Gross
 menu: "educação, cultura e comunicação"
 section: featured-news
 sector: education
-label: null
+label: special-stories
 layout: post
 files:
   - link: "http://farm9.staticflickr.com/8815/17390908165_45d4de14df_b.jpg"
@@ -84,26 +84,21 @@ files:
     small: "http://farm9.staticflickr.com/8687/17203632408_d75b5b4cc4_n.jpg"
     title: RoseliNunes-Heriberto_Paredes-LR-49.jpg
     $$hashKey: 090
+  - link: "http://farm8.staticflickr.com/7725/17555389442_eb47010381_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7725/17555389442_eb47010381_t.jpg"
+    medium: "http://farm8.staticflickr.com/7725/17555389442_eb47010381_z.jpg"
+    small: "http://farm8.staticflickr.com/7725/17555389442_eb47010381_n.jpg"
+    title: "RoseliNunesA-Heriberto_Paredes-LR-9!!!.jpg"
+    $$hashKey: 0F4
 created_date: "2015-05-06T11:30:47-03:00"
 published: true
-images_hd: "http://farm9.staticflickr.com/8815/17390908165_45d4de14df_n.jpg"
+images_hd: "http://farm8.staticflickr.com/7725/17555389442_eb47010381_n.jpg"
 releated_posts:
-  - 2014/07/2014-07-17-familias-sem-terra-seguem-na-luta-por-area-grilada-em-abelardo-luz.md
   - 2014/12/2014-11-05-brava-gente-assentada-o-assentamento-celso-furtado.md
-  - 2014/12/2014-11-10-seminario-constroi-linhas-de-atuacao-para-a-transicao-agroecologica-na-bahia.md
-  - 2014/12/2014-12-16-sem-terra-comemoram-conquistas-na-educacao-com-formatura-coletiva.md
   - 2015/01/2015-01-05-projeto-propoe-erradicar-o-analfabetismo-em-areas-do-mst-na-bahia.md
   - 2015/01/2015-01-12-com-metodo-cubano-sem-terra-buscam-erradicar-analfabetismo-no-sul-da-bahia.md
-  - 2015/01/2015-01-23-iii-curso-nacional-de-pedagogia-do-mst.md
   - 2015/03/2015-03-23-o-educando-de-ontem-e-o-professor-de-hoje.md
   - 2015/04/2015-04-06-jornada-universitaria-em-defesa-da-reforma-agraria-aproxima-academia-da-luta-pela-terra.md
-  - 2015/04/2015-04-13-em-sergipe-assentados-fortalecem-trabalho-de-base.md
-  - 2015/04/2015-04-24-universidade-tuiuti-promove-jornada-universitaria-em-defesa-da-reforma-agraria.md
-  - 2015/02/2015-01-30-juventude-sem-terra-realiza-curso-de-formacao-em-veranopolis.md
-  - 2015/01/2015-01-30-juventude-sem-terra-realiza-curso-de-formacao-em-veranopolis.md
-  - 2014/10/2014-09-22-por-reforma-agraria-sem-terra-param-as-principais-rodovias-em-mato-grosso.md
-  - 2014/12/2014-12-04-juiz-considera-latifundio-produtivo-e-sem-terra-saem-as-ruas-para-protestar.md
-  - 2015/04/2015-04-07-em-dia-nacional-de-luta-sem-terra-trancam-tres-brs-em-mato-grosso.md
 
 ---
 <p><img alt="RoseliNunesA-Heriberto_Paredes-LR-9.jpg" src="http://farm9.staticflickr.com/8815/17390908165_45d4de14df_b.jpg" /></p>
