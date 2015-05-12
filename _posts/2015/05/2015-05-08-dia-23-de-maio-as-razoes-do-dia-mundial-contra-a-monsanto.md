@@ -31,7 +31,10 @@ releated_posts:
   - 2015/01/2015-01-22-chuck-norris-fala-em-artigo-contra-a-monsanto-e-os-danos-que-a-empresa-causa-a-saude-global.md
 
 ---
-<p><em>Por Lu&atilde; Braga de Oliveira<br />
+<p><img alt="dia_contra_monsanto.jpg" src="http://farm9.staticflickr.com/8711/17236096770_18937fe19d_b.jpg" /></p>
+
+<p><br />
+<em>Por Lu&atilde; Braga de Oliveira<br />
 Do Outras Palavras</em></p>
 
 <p><br />
