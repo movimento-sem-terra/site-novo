@@ -60,7 +60,7 @@ releated_posts:
 &ldquo;Zerar o analfabetismo &eacute; o primeiro passo para libertar o trabalhador das pris&otilde;es deste sistema desigual&rdquo;, disse o coletivo de Educa&ccedil;&atilde;o do MST durante a formatura de 180 trabalhadores Sem Terra que participaram do projeto cubano de alfabetiza&ccedil;&atilde;o para jovens e adultos, &ldquo;Sim, eu Posso&rdquo;.</p>
 
 <p><br />
-A comemora&ccedil;&atilde;o aconteceu neste &uacute;ltimo s&aacute;bado (9), na Escola Popular de Agroecologia e Agrofloresta Eg&iacute;dio Brunetto, no Assentamento Jaci Rocha, e reuniu mais de 300 fam&iacute;lias.</p>
+A comemora&ccedil;&atilde;o aconteceu neste &uacute;ltimo s&aacute;bado (9), na Escola Popular de Agroecologia e Agrofloresta Eg&iacute;dio Brunetto, no Assentamento Jaci Rocha, munic&iacute;pio do Prado - Extremo Sul da Bahia -, e reuniu mais de 300 fam&iacute;lias.</p>
 
 <p><br />
 O projeto de alfabetiza&ccedil;&atilde;o conseguiu zerar o analfabetismo nos Assentamentos Jaci Rocha, Ant&ocirc;nio Araujo, Bela Manh&atilde;, Herdeiros da Terra, Jos&eacute; Mart&iacute; e Abril Vermelho, usando como metodologia tele aulas em dezessete turmas, cada uma acompanhada por um educador.</p>
@@ -86,7 +86,7 @@ Em muitos assentamentos as salas de aula n&atilde;o tinham estrutura para o dese
 Outra dificuldade surgiu nos primeiros dias de aula. Compreender a metodologia abordada pelo projeto, com as tele aulas e associar as letras e n&uacute;meros ao processo de alfabetiza&ccedil;&atilde;o n&atilde;o foi f&aacute;cil.</p>
 
 <p><br />
-Segundo os educadores, esta dificuldade se d&aacute; por conta do processo de alfabetiza&ccedil;&atilde;o j&aacute; constru&iacute;do pelo modelo de educa&ccedil;&atilde;o do estado, que mecaniza a metodologia.</p>
+Segundo os educadores, esta dificuldade se d&aacute; por conta do processo de alfabetiza&ccedil;&atilde;o j&aacute; constru&iacute;do pelo modelo de educa&ccedil;&atilde;o do Estado, que mecaniza a metodologia.</p>
 
 <p><br />
 De acordo com Eliane Kay, coordenadora do projeto, o programa alcan&ccedil;ou bons resultados apesar das dificuldades enfrentadas.</p>
@@ -108,7 +108,7 @@ As atividades desenvolvidas prop&otilde;em alfabetizar em apenas tr&ecirc;s mese
 Al&eacute;m disso, s&atilde;o escolhidos temas geradores que dialogam com a realidade de cada localidade, para garantir um espa&ccedil;o de debate e forma&ccedil;&atilde;o pol&iacute;tica.</p>
 
 <p><br />
-&ldquo;O mais importante deste projeto &eacute; que a abordagem parte da comunidade para os educandos. Desta forma, cada estudante acaba se sentindo mais seguros para avan&ccedil;ar nos debates e compreender o mundo de uma forma diferente&rdquo;, afirma o educador Lindoel.</p>
+&ldquo;O mais importante deste projeto &eacute; que a abordagem parte da comunidade para os educandos. Desta forma, cada estudante acaba se sentindo mais seguro para avan&ccedil;ar nos debates e compreender o mundo de uma forma diferente&rdquo;, afirma o educador Lindoel.</p>
 
 <p><br />
 O &lsquo;Sim, eu Posso&rsquo; j&aacute; contribuiu para erradica&ccedil;&atilde;o do analfabetismo em diversos pa&iacute;ses, como Vietn&atilde;, Bol&iacute;via e Venezuela.</p>
@@ -120,13 +120,13 @@ O &lsquo;Sim, eu Posso&rsquo; j&aacute; contribuiu para erradica&ccedil;&atilde;
 Durante a formatura muitas hist&oacute;rias de vida emocionaram a todos.</p>
 
 <p><br />
-A assentada Maria Aparecida declarou que n&atilde;o tinha pai e sua m&atilde;e era pobre. &ldquo;Me criei na ro&ccedil;a trabalhando, e ent&atilde;o n&atilde;o tive como estudar. Quando ainda era crian&ccedil;a minha m&atilde;e falava que est&aacute;vamos indo a aula para arrumar namorado, e ai ela n&atilde;o deixava a gente estudar&rdquo;, recorda Maria.</p>
+A assentada Maria Aparecida declarou que n&atilde;o tinha pai, e sua m&atilde;e era pobre. &ldquo;Me criei na ro&ccedil;a trabalhando, e ent&atilde;o n&atilde;o tive como estudar. Quando ainda era crian&ccedil;a minha m&atilde;e falava que est&aacute;vamos indo a aula para arrumar namorado, e ai ela n&atilde;o deixava a gente estudar&rdquo;, recorda.</p>
 
 <p><br />
 A hist&oacute;ria de Jos&eacute; Sebasti&atilde;o n&atilde;o &eacute; diferente. &ldquo;Eu n&atilde;o fui &agrave; escola quando era crian&ccedil;a, porque meu pai colocava a gente nos trabalhos da ro&ccedil;a. E n&atilde;o foi s&oacute; eu, meus dois irm&atilde;os passaram pelo mesmo&rdquo;.</p>
 
 <p><br />
-J&aacute; sabendo ler e escrever, Sebasti&atilde;o afirma que hoje as coisas mudaram. &ldquo;Consigo ler algumas palavras, inclusive as cartas e bilhetes que meus filhos mandam para mim. Consigo tamb&eacute;m escrever meu nome. Me sinto livre. Sempre precisei de algu&eacute;m para fazer essas coisas. Hoje n&atilde;o&rdquo;, ressalta.</p>
+J&aacute; sabendo ler e escrever, Sebasti&atilde;o afirma que hoje as coisas mudaram. &ldquo;Consigo ler algumas palavras, inclusive as cartas e bilhetes que meus filhos mandam para mim. Consigo tamb&eacute;m escrever meu nome. Me sinto livre. Sempre precisei de algu&eacute;m para fazer essas coisas. Hoje n&atilde;o&rdquo;.</p>
 
 <p><br />
 <strong>Formatura</strong></p>
