@@ -6,9 +6,9 @@ tags:
   - tag: alfabetização
   - tag: sim-eu-posso
   - tag: reforma-agrária
-title: "Com método cubano, Sem Terra zeram analfabetismo em sete assentamentos da Bahia"
+title: "Com método cubano, Sem Terra zeram analfabetismo em sete assentamentos"
 section: cover
-support_line: "O projeto de alfabetização se utilizou da metodologia das tele aulas em dezessete turmas, cada uma acompanhada por um educador."
+support_line: "O projeto de alfabetização na Bahia se utilizou da metodologia das tele aulas em dezessete turmas, cada uma acompanhada por um educador."
 menu: "educação, cultura e comunicação"
 sector: education
 layout: post
@@ -53,6 +53,7 @@ releated_posts:
 
 ---
 <p><img alt="Sim, eu posso_bahia.jpg" src="http://farm8.staticflickr.com/7751/17555259932_12a9a9d9f2_b.jpg" /><br />
+<br />
 <em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
