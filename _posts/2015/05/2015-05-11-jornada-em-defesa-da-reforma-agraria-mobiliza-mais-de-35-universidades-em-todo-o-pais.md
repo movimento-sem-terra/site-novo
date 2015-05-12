@@ -6,7 +6,7 @@ tags:
 title: Jornada em Defesa da Reforma Agrária mobiliza mais de 35 universidades
 menu: reforma agrária
 support_line: "Para professor da UnB, a jornada tem se consolidado no calendário acadêmico de muitas universidades e institutos federais brasileiros."
-section: cover
+section: featured-news
 layout: post
 files:
   - link: "http://farm6.staticflickr.com/5447/17338763460_ab74758608_b.jpg"
@@ -24,6 +24,7 @@ releated_posts:
   - 2015/04/2015-04-28-universidade-federal-de-rondonia-realiza-debates-sobre-a-questao-agraria.md
   - 2015/04/2015-04-29-ufs-realiza-a-2o-jornada-universitaria-em-defesa-da-reforma-agraria.md
   - 2015/05/2015-05-06-de-tijolo-em-tijolo-sem-terra-construiram-a-primeira-escola-do-campo.md
+sector: education
 
 ---
 <p><br />
