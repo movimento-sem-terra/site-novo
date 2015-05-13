@@ -4,7 +4,7 @@
     "title": {{ post.title | jsonify }},
       "url": {{ post.url | jsonify  }},
       "cover": {{ post.images_hd | jsonify  }},
-      "video": {{ post.video_thumbnail | jsonify  }},
+      "video": {{ post.video | get_video_embeded | jsonify  }},
       "date": {{ post.date | pretty_date | jsonify  }},
       "support_line": {{ post.support_line | jsonify }},
       "tags" : [
