@@ -18,7 +18,6 @@ lollipop:
   enabled: true
 gems:
   - jekyll-sitemap
-  - jekyll-paginate-by
 exclude:
   - deploy
   - Gemfile
