@@ -8,7 +8,17 @@ main.all-news {
       box-shadow: 0 3px 5px rgba(34,25,25,0.4);
       padding-bottom: 5px;
       border-radius: 3px;
-      width: 22%;
+      width: 100%;
+
+      @include media($screen-sm) {
+        width: 48%;
+      }
+      @include media($screen-md) {
+        width: 30%;
+      }
+      @include media($screen-big) {
+        width: 22%;
+      }
     }
 
     span.tag {

@@ -1,38 +1,10 @@
 ---
 layout: default
 scripts: "all_news.js"
-external_scripts: "//cdnjs.cloudflare.com/ajax/libs/masonry/3.3.0/masonry.pkgd.min.js"
+external_scripts: ["//cdnjs.cloudflare.com/ajax/libs/masonry/3.3.0/masonry.pkgd.min.js","//cdnjs.cloudflare.com/ajax/libs/jquery-infinitescroll/2.0b2.120519/jquery.infinitescroll.min.js","//cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/3.1.8/imagesloaded.min.js"]
 ---
 
 <main class="all-news">
   <div class="container">
-    {% for post in paginator.posts %}
-      <div class="item">
-        {% include headline-with-image.html post=post support_line=true show_time=true %}
-        {% include tag-list.html tags = post.tags %}
-      </div>
-    {% endfor %}
   </div>
-  {% if paginator.total_pages > 1 %}
-
-    <footer class="pagination">
-      <nav>
-        {% if paginator.previous_page %}
-          {% if paginator.page == 2 %}
-            <a rel='prev' href="{{ paginator.first_page_path }}" class="previous">Anterior</a>
-          {% else %}
-            <a rel='prev' href="{{ paginator.previous_page_path }}" class="previous">Anterior</a>
-          {% endif %}
-        {% else %}
-          <span class="previous">Anterior</span>
-        {% endif %}
-        <span class="page_number">Página {{ paginator.page }} de {{ paginator.total_pages }}</span>
-        {% if paginator.next_page %}
-          <a rel='next' href="{{ paginator.next_page_path }}" class="next">Próximo</a>
-        {% else %}
-          <span class="next">Próximo</span>
-        {% endif %}
-      </nav>
-    </footer>
-  {% endif %}
 </main>
