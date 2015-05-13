@@ -1,10 +1,3 @@
-GIT
-  remote: git://github.com/marighella/jekyll-paginate-by.git
-  revision: 9e1f6b4c73afd332615a415f3b03581978be0ab7
-  specs:
-    jekyll-paginate-by (1.0.0)
-      slugify
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -90,7 +83,6 @@ PLATFORMS
 DEPENDENCIES
   httparty
   jekyll (~> 2.5.0)
-  jekyll-paginate-by!
   jekyll-sitemap (~> 0.5)
   neat
   sass
