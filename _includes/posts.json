@@ -1,5 +1,5 @@
 [
-  {% for post in include.posts %}
+  {% for post in include.posts | limit: 300 %}
   {
     "title": {{ post.title | jsonify }},
       "url": {{ post.url | jsonify  }},
