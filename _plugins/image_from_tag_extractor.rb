@@ -3,11 +3,7 @@ module Jekyll
   module ImageFromTagExtractor
 
     def extract_image_from_post_tag(site, post, stdout=false)
-      menu_tag = post['tags'].find{ |tag| tag['menu'] }
-      return '' unless menu_tag
-      post_tag = menu_tag['menu']
-      page_tag = site['pages'].find{ |page| page['tag'] == post_tag }
-      return page_tag ? page_tag['images_hd'] : ''
+      'http://farm8.staticflickr.com/7523/16317327392_4894dc582f_b.jpg'
     end
 
   end
