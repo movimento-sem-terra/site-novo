@@ -44,41 +44,9 @@ paginate_by:
     page_link: ":num"
     pages_limit: 15
   filters:
-    - menu:
-        permalink: "editorias/$"
-        exclude:
-          - section: "campaign"
-          - section: "newspaper"
-          - section: "tv"
     - section:
         permalink: "videos"
         per_page: 9
         template: "_templates/videos"
         only:
           - section: "tv"
-    - section:
-        permalink: "reportagens-especiais/"
-        only:
-          - label: "special-stories"
-    - section:
-        permalink: "entrevistas/"
-        only:
-          - label: "interviews"
-    - sector:
-        permalink: "nossa-producao/noticias"
-        only:
-          - sector: "production"
-    - sector:
-        permalink: "educacao/noticias"
-        only:
-          - sector: "education"
-    - sector:
-        permalink: "frente-de-massa/noticias"
-        only:
-          - sector: "mass-front"
-    - all:
-        permalink: "noticias/"
-        exclude:
-          - section: "campaign"
-          - section: "tv"
-          - section: "newspaper"
