@@ -4,11 +4,11 @@ main.all-news {
   .container{
     .item {
       margin: 10px 10px 20px 5px;
-      border: 2px solid #FAFAFA;
       box-shadow: 0 3px 5px rgba(34,25,25,0.4);
       padding-bottom: 5px;
       border-radius: 3px;
       width: 100%;
+
 
       @include media($screen-sm) {
         width: 48%;
@@ -19,6 +19,21 @@ main.all-news {
       @include media($screen-big) {
         width: 22%;
       }
+
+
+
+      .headline {
+        .support-line,
+        time,
+        h1 {
+          padding: 0 10px;
+        }
+
+        h1 a {
+          color: $mst-red;
+        }
+      }
+
     }
 
     span.tag {
@@ -35,9 +50,9 @@ main.all-news {
     clear: both;
     border-bottom: dashed 1px #c3c3c3;
     & h1 > a{
-      font-weight: bold; 
+      font-weight: bold;
       color: #555;
-    } 
+    }
 
     @media(min-width: $screen-sm) {
       height: 218px;
@@ -67,7 +82,7 @@ main.all-news {
     font-weight: 200;
     nav {
       .previous, .next {
-        text-transform: uppercase; 
+        text-transform: uppercase;
       }
       span.page_number {
         padding-left: 20px;
