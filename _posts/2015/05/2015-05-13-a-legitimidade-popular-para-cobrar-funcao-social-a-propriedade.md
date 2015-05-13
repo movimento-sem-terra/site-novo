@@ -5,7 +5,7 @@ tags:
   - tag: função-social-da-propriedade
   - tag: reforma-agrária
 title: A legitimidade popular para cobrar função social à propriedade
-support_line: O jurista Jacques Alfonsin afirma também que essa função social só funciona quando o povo vítima daquela disfunção anda junto e muito interessado nela.
+support_line: O jurista Jacques Alfonsin afirma também que essa função social só funciona quando o povo vítima daquela disfunção luta por ela.
 menu: direitos humanos
 label: articles
 layout: post
