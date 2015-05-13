@@ -4,11 +4,15 @@ $(document).ready(function() {
     var p  = posts.splice(0,6);
 
     $.each(p, function(index, post){
+      var image = '';
+      if(!!post.cover){
+        image += '<a href="'+post.url+'">';
+        image += '<figure style="background-image:url('+post.cover+');" alt="imagem da capa da noticia"></figure>';
+        image += '</a>';
+
+      }
       var article = '<article class="headline">'+
-        '<a href="'+post.url+'">'+
-        '<figure style="background-image:url('+post.cover+');" alt="imagem da capa da noticia">'+
-        '</figure>'+
-        '</a>'+
+        image +
         '<time datetime="'+post.date+'">'+
         post.date +
         '</time>'+
