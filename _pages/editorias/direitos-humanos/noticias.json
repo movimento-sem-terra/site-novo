@@ -2,5 +2,5 @@
 layout: null
 ---
 {% assign editoria = "direitos humanos" %}
-{% assign posts = site.posts | where: "menu", editoria | where_not: "section", "tv" | where_not: "section", "campaign" | where_not: "section", "newspaper"  %}
+{% assign posts = site.posts | where: "menu", editoria | where_not: "section", ["tv","campaign","newspaper"] %}
 {% include posts.json posts=posts %}

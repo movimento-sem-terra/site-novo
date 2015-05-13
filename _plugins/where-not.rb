@@ -1,9 +1,10 @@
 module Jekyll
   module WhereNot
-    def where_not(hash, key, value, stdout=false)
+    def where_not(hash, key, *value)
       return [] if hash.nil? 
+      value = [value].flatten
       hash.select do |x| 
-        x[key] != value 
+        !value.include?(x[key])
       end
     end
   end
