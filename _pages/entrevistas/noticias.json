@@ -1,0 +1,5 @@
+---
+layout: null
+---
+{% assign posts = site.posts | where: "label", "interviews" %}
+{% include posts.json posts=posts %}
