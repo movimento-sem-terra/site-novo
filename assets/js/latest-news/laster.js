@@ -1,5 +1,6 @@
 $(document).ready(function() {
   var createVideo = function(post){
+
     return '<article class="headline">'+
         '<iframe width="100%" src="'+post.video+'" allowfullscreen frameborder="0"></iframe>'+
         '<h1>'+
