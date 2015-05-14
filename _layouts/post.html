@@ -1,5 +1,6 @@
 ---
 layout: default
+scripts: "latest-news/laster.js"
 ---
 
 <main class="post">
@@ -26,6 +27,6 @@ layout: default
       <div itemprop="articleBody" class="article-body">{{ content }}</div>
     </article>
 <br>{% include social-buttons.html article = page %}
-{% include latest-news.html actual_post = page%}
+{% include latest-news.html %}
 </main>
 <script type="text/javascript" src="{{ site.baseurl}}/assets/js/legend.js"></script>
