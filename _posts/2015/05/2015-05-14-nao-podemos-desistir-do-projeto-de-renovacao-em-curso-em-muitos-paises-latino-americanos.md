@@ -4,7 +4,7 @@ tags:
   - tag: educação
   - tag: Paulo-Freire
   - tag: Pedagogia-do-Oprimido
-title: "\"Não podemos desistir do projeto de renovação em curso em muitos países latino-americanos\""
+title: "\"Não podemos desistir do projeto de renovação em curso nos países latino-americanos\""
 support_line: "Em entrevista, Ana Maria Araújo Freire, fala sobre o encontro que teve com o Para Francisco e o legado educacional deixado por seu companheiro."
 menu: "educação, cultura e comunicação"
 layout: post
@@ -34,8 +34,7 @@ label: interviews
 ---
 <p><img alt="2013-616756872-2013052883629.jpg_20130528.jpg" height="304" src="http://farm8.staticflickr.com/7799/17620249806_0d2ecf1152_b.jpg" width="700" /></p>
 
-<p><br />
-<em>Por Claudia Fanti<br />
+<p><em>Por Claudia Fanti<br />
 Da Ag&ecirc;ncia Adista</em></p>
 
 <p><br />
