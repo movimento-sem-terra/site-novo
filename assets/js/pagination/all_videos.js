@@ -11,21 +11,8 @@ $(document).ready(function() {
         '</h1>'+
         '<p class="support-line">'+post.support_line+'</p>'+
         '</article>';
-
-      var tags  = '';
-      $.each(post.tags, function(i, tag){
-        if(!!tag){
-          tags += '<span class="tag">'+tag+'</span>';
-        }
-      });
-
-      var tag = '<div class="tags">'+
-        tags +
-        '</div>';
-
       var item = '<div class="item">'+
         article +
-        tag +
         '</div>';
 
       html += item;

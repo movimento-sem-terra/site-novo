@@ -6,14 +6,7 @@
       "cover": {{ post.images_hd | jsonify  }},
       "video": {{ post.video | get_video_embeded | jsonify  }},
       "date": {{ post.date | pretty_date | jsonify  }},
-      "support_line": {{ post.support_line | jsonify }},
-      "tags" : [
-        {% for tag in post.tags %}
-          {{ tag.tag | jsonify }}
-          
-          {% if forloop.rindex0 > 0 %},{% endif %}
-        {% endfor %}
-      ]
+      "support_line": {{ post.support_line | jsonify }}
   }
   {% if forloop.rindex0 > 0 %},{% endif %}
   {% endfor %}
