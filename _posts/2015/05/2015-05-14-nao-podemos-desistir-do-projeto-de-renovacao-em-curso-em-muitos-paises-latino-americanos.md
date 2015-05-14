@@ -5,7 +5,7 @@ tags:
   - tag: Paulo-Freire
   - tag: Pedagogia-do-Oprimido
 title: "\"Não podemos desistir do projeto de renovação em curso em muitos países latino-americanos\""
-support_line: "Nomeada a sucessora legal dos direitos de Paulo Freire, Ana Maria Araújo Freire, fala sobre política e o legado educacional deixado por seu companheiro.  "
+support_line: "Em entrevista, Ana Maria Araújo Freire, fala sobre o encontro que teve com o Para Francisco e o legado educacional deixado por seu companheiro.  "
 menu: "educação, cultura e comunicação"
 layout: post
 files:
