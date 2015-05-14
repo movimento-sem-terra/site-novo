@@ -6,8 +6,8 @@ tags:
   - tag: meio-ambiente
   - tag: agronegócio
   - tag: abrasco
-title: "A uso real dos agrotóxicos é muito pior do que os testes realizados, avalia toxicologista"
-support_line: "“Temos notificados quase 100% de casos de intoxicação aguda, os quais ocorrem logo após a exposição de agrotóxicos”, informa Karen Friedrich."
+title: A uso real dos agrotóxicos é muito pior do que os testes realizados
+support_line: Essa é a avaliação da toxicologista Karen Friedrich sobre aos alimentos contaminados por agrotóxicos.
 menu: agronegócio
 label: interviews
 section: cover
