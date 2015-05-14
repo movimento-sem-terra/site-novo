@@ -24,7 +24,8 @@ releated_posts:
   - 2014/10/2014-10-03-stedile-analisa-o-atual-momento-politico-e-as-perspectivas-das-lutas.md
 
 ---
-<p><br />
+<p><img alt="forum_sãopaulo.jpg" src="http://farm9.staticflickr.com/8871/17637574825_c06793bc89_b.jpg" /><br />
+<br />
 <em>Por Eduardo Maretti<br />
 Da RBA</em></p>
 
