@@ -5,7 +5,7 @@ tags:
   - tag: Paulo-Freire
   - tag: Pedagogia-do-Oprimido
 title: "\"Não podemos desistir do projeto de renovação em curso em muitos países latino-americanos\""
-support_line: "Em entrevista, Ana Maria Araújo Freire, fala sobre o encontro que teve com o Para Francisco e o legado educacional deixado por seu companheiro.  "
+support_line: "Em entrevista, Ana Maria Araújo Freire, fala sobre o encontro que teve com o Para Francisco e o legado educacional deixado por seu companheiro."
 menu: "educação, cultura e comunicação"
 layout: post
 files:
@@ -15,20 +15,31 @@ files:
     small: "http://farm8.staticflickr.com/7799/17620249806_0d2ecf1152_n.jpg"
     title: 2013-616756872-2013052883629.jpg_20130528.jpg
     $$hashKey: 04L
+  - link: "http://farm8.staticflickr.com/7750/17459751278_98ce748202_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7750/17459751278_98ce748202_t.jpg"
+    medium: "http://farm8.staticflickr.com/7750/17459751278_98ce748202_z.jpg"
+    small: "http://farm8.staticflickr.com/7750/17459751278_98ce748202_n.jpg"
+    title: Ana Maria Araújo Freire.jpg
+    $$hashKey: 04P
 created_date: "2015-05-14T15:19:48-03:00"
 published: true
 images_hd: "http://farm8.staticflickr.com/7799/17620249806_0d2ecf1152_n.jpg"
-releated_posts: []
+releated_posts:
+  - 2015/04/2015-04-08-por-melhorias-na-educacao-sem-terra-ocupam-prefeitura-de-jardim-alegre-no-pr.md
+  - 2015/05/2015-05-06-de-tijolo-em-tijolo-sem-terra-construiram-a-primeira-escola-do-campo.md
+  - 2015/05/2015-05-12-com-metodo-cubano-sem-terra-zeram-analfabetismo-em-sete-assentamentos-da-bahia.md
+  - 2015/05/2015-05-08-sem-terrinha-sao-impedidas-de-estudar-do-interior-de-sao-paulo.md
+label: interviews
 
 ---
 <p><img alt="2013-616756872-2013052883629.jpg_20130528.jpg" height="304" src="http://farm8.staticflickr.com/7799/17620249806_0d2ecf1152_b.jpg" width="700" /></p>
 
-<p><em>Por Claudia Fanti<br />
+<p><br />
+<em>Por Claudia Fanti<br />
 Da Ag&ecirc;ncia Adista</em></p>
 
-<p>&nbsp;</p>
-
-<p>O pedagogo Paulo Freire baseou todo seu trabalho na liberta&ccedil;&atilde;o dos &ldquo;condenados da Terra.&rdquo;&nbsp;&nbsp;Escreveu in&uacute;meros textos e livros, mas talvez o mais recordado e atual tenha sido o livro &ldquo;A pedagogia dos oprimidos&rdquo; centrado no princ&iacute;pio da educa&ccedil;&atilde;o como instrumento para a liberta&ccedil;&atilde;o, num processo de autoeduca&ccedil;&atilde;o coletiva (atrav&eacute;s de um m&eacute;todo de alfabetiza&ccedil;&atilde;o centrado na participa&ccedil;&atilde;o ativa e consciente, a partir das reais necessidades e aspira&ccedil;&otilde;es dos estudantes), capaz de superar os esquemas da cultura da classe, de uma educa&ccedil;&atilde;o &ldquo;bancaria&rdquo;, autorit&aacute;ria e discriminat&oacute;ria, que v&ecirc; o aluno como uma conta vazia na qual o professor &eacute; chamado para depositar mecanicamente o que ele sabe.</p>
+<p><br />
+O pedagogo Paulo Freire baseou todo seu trabalho na liberta&ccedil;&atilde;o dos &ldquo;condenados da Terra.&rdquo;&nbsp;&nbsp;Escreveu in&uacute;meros textos e livros, mas talvez o mais recordado e atual tenha sido o livro &ldquo;A pedagogia dos oprimidos&rdquo; centrado no princ&iacute;pio da educa&ccedil;&atilde;o como instrumento para a liberta&ccedil;&atilde;o, num processo de autoeduca&ccedil;&atilde;o coletiva (atrav&eacute;s de um m&eacute;todo de alfabetiza&ccedil;&atilde;o centrado na participa&ccedil;&atilde;o ativa e consciente, a partir das reais necessidades e aspira&ccedil;&otilde;es dos estudantes), capaz de superar os esquemas da cultura da classe, de uma educa&ccedil;&atilde;o &ldquo;bancaria&rdquo;, autorit&aacute;ria e discriminat&oacute;ria, que v&ecirc; o aluno como uma conta vazia na qual o professor &eacute; chamado para depositar mecanicamente o que ele sabe.</p>
 
 <p><br />
 Esse livro foi&nbsp;escrito durante seu ex&iacute;lio no Chile, onde Freire tinha chegado depois do golpe no Brasil em 1964, e publicado em espanhol e ingl&ecirc;s em 1970, com uma dedica&ccedil;&atilde;o que &eacute; em si mesmo um cartaz: &quot;Para os mendigos do mundo e para aqueles que se reconhecem neles e, assim, com eles sofrem, mas tamb&eacute;m com eles lutam&quot;.</p>
@@ -39,9 +50,8 @@ De Paulo Freire e do que a sua perspectiva revolucion&aacute;ria ainda pode dize
 <p><br />
 Segue a entrevista:</p>
 
-<p>&nbsp;</p>
-
-<p><strong>Como foi o seu encontro com o Papa?</strong></p>
+<p><br />
+<strong>Como foi o seu encontro com o Papa?</strong></p>
 
 <p><br />
 Foi muito emocionante. Eu queria conhec&ecirc;-lo para falar com ele sobre como a Igreja Cat&oacute;lica avalia o trabalho de Paulo e sua mensagem profundamente libertadora. Pensei que ele pudesse me dedicar apenas alguns minutos, mas a conversa durou 40 minutos e foi muito frut&iacute;fera. Esperava que os Dominicanos, Salesianos, Jesu&iacute;tas e etc, estudam os textos de Paulo sobre a pedagogia da liberta&ccedil;&atilde;o e perguntei se &eacute; poss&iacute;vel iniciar uma busca nos arquivos do Vaticano sobre a repercuss&atilde;o que a pedagogia do Oprimido teve dentro da Igreja Cat&oacute;lica.</p>
@@ -58,7 +68,12 @@ Precisamos pensar sobre a viol&ecirc;ncia no mundo, determinada pelo sistema cap
 <p><br />
 N&atilde;o pode ser uma pequena elite - antes a nobreza, em seguida, a grande burguesia e da burguesia hoje alguns bilion&aacute;rios - que controlam e decidem tudo: como as pessoas devem se vestir, comer, o que a escola ensina. Os jornais n&atilde;o dizem, a escola n&atilde;o diz. E assim, as pessoas n&atilde;o sabem o que realmente acontece no mundo. Concentrei-me sobre estes aspectos e o Papa concordou.</p>
 
-<p>&nbsp;</p>
+<p><br />
+&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="Ana Maria Araújo Freire.jpg" src="http://farm8.staticflickr.com/7750/17459751278_98ce748202_b.jpg" />
+<figcaption>Ana Maria Ara&uacute;jo Freire</figcaption>
+</figure>
 
 <p><strong>Hoje, no contexto atual do Brasil, o que significa o pensamento, a vis&atilde;o de mundo, a compreens&atilde;o da educa&ccedil;&atilde;o de Paulo Freire?</strong></p>
 
@@ -68,9 +83,8 @@ Eu acho que, em um contexto de opress&atilde;o t&atilde;o profunda e de viol&eci
 <p><br />
 Na d&eacute;cada de 90, com a propaga&ccedil;&atilde;o do desconstrucionismo, tem sido fortemente reduzido o valor da utopia, o sonho de um mundo melhor: o mundo &eacute; como &eacute;, um reino animal, onde prevalece o mais forte sobre o mais fraco. Mas quem n&atilde;o se resigna a essa vis&atilde;o, que foi incorporada pelo neoliberalismo com consequ&ecirc;ncias perversas que sabemos, volta para as obras de Paulo. O fil&oacute;sofo Henrique Dussel disse uma vez que os dois maiores pedagogos da hist&oacute;ria humana foram Rousseau e Paulo Freire. Mas Paulo foi mais longe, porque sua pedagogia n&atilde;o &eacute; a partir de um ser imagin&aacute;rio como o jovem Emilio, mas pelo sofrimento, alegria, tristeza, medo e interesses de pessoas concretas em suas vidas di&aacute;rias, de modo que eles se tornam mais plenamente pessoas, ultrapassando as condi&ccedil;&otilde;es e rela&ccedil;&otilde;es de opress&atilde;o.</p>
 
-<p>&nbsp;</p>
-
-<p><strong>Paulo Freire disse que a educa&ccedil;&atilde;o n&atilde;o &eacute; apenas um ato, mas tamb&eacute;m um ato pol&iacute;tico pedag&oacute;gico. N&atilde;o &eacute; precisamente isso que falta hoje?</strong></p>
+<p><br />
+<strong>Paulo Freire disse que a educa&ccedil;&atilde;o n&atilde;o &eacute; apenas um ato, mas tamb&eacute;m um ato pol&iacute;tico pedag&oacute;gico. N&atilde;o &eacute; precisamente isso que falta hoje?</strong></p>
 
 <p><br />
 O trabalho de Paulo representou algo especial: a oferta de educa&ccedil;&atilde;o a servi&ccedil;o da transforma&ccedil;&atilde;o pol&iacute;tica e econ&ocirc;mica dos oprimidos. Uma sobrinha perguntou-me se eu estava vindo para falar sobre a minha vida com Paulo, a uma vida de cumplicidade, de comunh&atilde;o de ideias, de harmonia, de confian&ccedil;a, de amor profundo. Eu respondi que preferia falar de educa&ccedil;&atilde;o como Paulo sempre a entendeu, uma educa&ccedil;&atilde;o que &eacute; essencialmente pol&iacute;tica, que nunca &eacute; politicamente neutra, que n&atilde;o pode ser a servi&ccedil;o de grupos com interesses contradit&oacute;rios.</p>
@@ -110,5 +124,3 @@ O perigo existe. Por isso a &uacute;ltima elei&ccedil;&atilde;o foi t&atilde;o i
 
 <p><br />
 Paulo era um educador pol&iacute;tico, n&atilde;o um ambientalista, mas se preocupava com os seres humanos e a natureza. Em alguns de seus textos falou da import&acirc;ncia da eco-pedagogia. Tudo o que ele escreveu sobre o &quot;cuidado&quot; da vida implica em cuidar dos bens da natureza. Ele n&atilde;o falou de tudo, &eacute; claro. Mas hoje, se ele estivesse vivo, eu n&atilde;o tenho nenhuma d&uacute;vida que seria um ecologista.</p>
-
-<p>&nbsp;</p>
