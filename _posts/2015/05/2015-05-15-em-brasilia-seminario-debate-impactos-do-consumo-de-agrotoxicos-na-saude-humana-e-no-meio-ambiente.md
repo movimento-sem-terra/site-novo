@@ -154,6 +154,8 @@ Para Leonardo Melgarejo, engenheiro agr&ocirc;nomo, mestre em Economia Rural e d
 <p><br />
 Seguindo a l&oacute;gica da cr&iacute;tica com rela&ccedil;&atilde;o ao papel da CTNBio, a representante do Minist&eacute;rio P&uacute;blico Federal (MPF) F&aacute;tima Borghi, destacou que &ldquo;a Comiss&atilde;o &eacute; um espa&ccedil;o para discutir o que tem acontecido, no entanto, tem sido apenas a passagem de aprova&ccedil;&otilde;es de forma pragm&aacute;tica e de acordo com determinados interesses. O princ&iacute;pio da precau&ccedil;&atilde;o e preven&ccedil;&atilde;o com essas decis&otilde;es passa ao lado&rdquo;.</p>
 
+<p>&nbsp;</p>
+
 <figure class="image"><img alt="7.jpg" height="394" src="http://farm9.staticflickr.com/8799/17500813718_9295dd06fa_b.jpg" width="700" />
 <figcaption></figcaption>
 </figure>
