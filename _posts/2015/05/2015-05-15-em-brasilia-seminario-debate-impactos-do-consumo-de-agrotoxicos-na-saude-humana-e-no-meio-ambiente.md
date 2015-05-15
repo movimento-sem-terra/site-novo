@@ -90,12 +90,39 @@ releated_posts:
 
 <p align="justify" style="margin-bottom:0cm;line-height:100%"><br />
 <br />
-<em>Por Iris Pacheco<br />
-Da P&aacute;gina do MST</em></p>
+&nbsp;</p>
 
 <p align="justify" style="margin-bottom:0cm;line-height:100%">&nbsp;</p>
 
-<p>Nesta quinta-feira (14), a Campanha permanente contra os agrot&oacute;xicos e pela vida realizou um Semin&aacute;rio sobre Agrot&oacute;xicos para discutir os impactos destes &agrave; sa&uacute;de humana e ao meio ambiente. O evento ocorreu no Centro Cultural Bras&iacute;lia (CCB) e tamb&eacute;m teve como objetivo a articula&ccedil;&atilde;o de atividades concretas que tragam a quest&atilde;o para debate nos estados.</p>
+<p align="justify" style="margin-bottom:0cm;line-height:100%">&nbsp;</p>
+
+<p align="justify" style="margin-bottom:0cm;line-height:100%">&nbsp;</p>
+
+<p align="justify" style="margin-bottom:0cm;line-height:100%">&nbsp;</p>
+
+<p align="justify" style="margin-bottom:0cm;line-height:100%">&nbsp;</p>
+
+<p align="justify" style="margin-bottom:0cm;line-height:100%">&nbsp;</p>
+
+<p align="justify" style="margin-bottom:0cm;line-height:100%">&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><em>Por Iris Pacheco<br />
+Da P&aacute;gina do MST</em></p>
+
+<p><br />
+Nesta quinta-feira (14), a Campanha permanente contra os agrot&oacute;xicos e pela vida realizou um Semin&aacute;rio sobre Agrot&oacute;xicos para discutir os impactos destes &agrave; sa&uacute;de humana e ao meio ambiente. O evento ocorreu no Centro Cultural Bras&iacute;lia (CCB) e tamb&eacute;m teve como objetivo a articula&ccedil;&atilde;o de atividades concretas que tragam a quest&atilde;o para debate nos estados.</p>
 
 <p><br />
 Estiveram presentes no semin&aacute;rio parlamentares federais como o Padre Jo&atilde;o (PT-MG), Marcon (PT-RS), Augusto Carvalho (SD-DF) e Alessandro Molon (PT-RJ), e estaduais, como o Edgar Pretto (PR-RS) e Marcelino Galo (PT-BA). Al&eacute;m de movimentos sociais, representantes da Associa&ccedil;&atilde;o Brasileira de Sa&uacute;de Coletiva (ABRASCO), Minist&eacute;rio da Agricultura (MAPA), Minist&eacute;rio da Sa&uacute;de (MS), Associa&ccedil;&atilde;o Brasileira de Agroecologia (ABA), de &oacute;rg&atilde;os como a Ag&ecirc;ncia Nacional de Vigil&acirc;ncia Sanit&aacute;ria (ANVISA) e o Minist&eacute;rio P&uacute;blico Federal (MPF), e v&aacute;rios outros seguimentos da sociedade civil organizada.</p>
@@ -131,7 +158,7 @@ Seguindo a l&oacute;gica da cr&iacute;tica com rela&ccedil;&atilde;o ao papel da
 <figcaption></figcaption>
 </figure>
 
-<p>Projeto de Lei 142/2014</p>
+<p><strong>Projeto de Lei 142/2014</strong></p>
 
 <p><br />
 No dia 05 de maio foi aprovado por unanimidade, na C&acirc;mara de Cascavel, o Projeto de Lei 142/2014, que regulamenta o uso de agrot&oacute;xicos e pro&iacute;be sua utiliza&ccedil;&atilde;o nas proximidades de escolas, Centros Municipais de Educa&ccedil;&atilde;o Infantil, n&uacute;cleos residenciais e unidades de sa&uacute;de.</p>
