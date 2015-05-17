@@ -12,7 +12,7 @@ module Jekyll
 
       cover = find('cover').first
       tv_mst = find('tv').slice(0,5)
-      newspapers = find('newspaper')
+      newspapers = find('newspaper', 'section', 1)
 
       campaigns = find('campaign')
       carousel = @newest_post.slice!(0,5) # the first five posts goes on carousel
