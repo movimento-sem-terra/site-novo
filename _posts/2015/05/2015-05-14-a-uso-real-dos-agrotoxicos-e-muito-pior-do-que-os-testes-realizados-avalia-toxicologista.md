@@ -10,7 +10,7 @@ title: O uso real dos agrotóxicos é muito pior do que os testes realizados
 support_line: Essa é a avaliação da toxicologista Karen Friedrich sobre aos alimentos contaminados por agrotóxicos.
 menu: agronegócio
 label: interviews
-section: cover
+section: null
 layout: post
 files:
   - link: "http://farm6.staticflickr.com/5344/17449433420_d3838845bc_b.jpg"
