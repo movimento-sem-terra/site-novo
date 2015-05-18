@@ -29,6 +29,7 @@ releated_posts:
   - 2015/04/2015-04-13-oms-confirma-relacao-do-glifosato-com-cancer-em-humanos-e-animais.md
   - 2015/04/2015-04-29-novo-dossie-da-abrasco-alerta-que-situacao-dos-agrotoxicos-no-brasil-so-piorou.md
   - 2015/05/2015-05-08-dia-23-de-maio-as-razoes-do-dia-mundial-contra-a-monsanto.md
+section: featured-news
 
 ---
 <figure class="image" style="float:right"><img alt="fumigacao_com_glifosato63110.jpg" src="http://farm6.staticflickr.com/5464/17598004792_09a7bb46f7_b.jpg" />
