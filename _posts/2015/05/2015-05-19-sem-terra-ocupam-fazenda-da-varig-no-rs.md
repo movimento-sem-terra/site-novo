@@ -4,7 +4,7 @@ tags:
   - tag: ocupação
   - tag: VARIG
   - tag: reforma-agrária
-title: "Sem Terra ocupam fazenda da Varig, no RS"
+title: Sem Terra ocupam fazenda da Varig no RS
 support_line: A área faz parte do patrimônio retido pela justiça por conta de dívidas da empresa.
 menu: reforma agrária
 layout: post
