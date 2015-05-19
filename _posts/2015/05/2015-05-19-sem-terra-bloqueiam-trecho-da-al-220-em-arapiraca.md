@@ -9,12 +9,12 @@ support_line: "Ação foi promovida para denunciar a falta d'água nos assentame
 menu: lutas e mobilizações
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7736/17672780920_e30d730021_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7736/17672780920_e30d730021_t.jpg"
-    medium: "http://farm8.staticflickr.com/7736/17672780920_e30d730021_z.jpg"
-    small: "http://farm8.staticflickr.com/7736/17672780920_e30d730021_n.jpg"
-    title: 16971383559_46149dd988_b.jpg
-    $$hashKey: 04D
+  - link: "http://farm6.staticflickr.com/5337/17857842802_c1a10b0ee1_b.jpg"
+    thumbnail: "http://farm6.staticflickr.com/5337/17857842802_c1a10b0ee1_t.jpg"
+    medium: "http://farm6.staticflickr.com/5337/17857842802_c1a10b0ee1_z.jpg"
+    small: "http://farm6.staticflickr.com/5337/17857842802_c1a10b0ee1_n.jpg"
+    title: 172104_ext_arquivo.jpg
+    $$hashKey: 06W
 created_date: "2015-05-19T11:26:59-03:00"
 published: true
 images_hd: "http://farm8.staticflickr.com/7736/17672780920_e30d730021_n.jpg"
