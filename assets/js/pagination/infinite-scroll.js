@@ -1,4 +1,5 @@
 $(document).ready(function() {
+  $('body > footer').hide();
   $.fn.isOnScreen = function(){
     var viewport = {};
     viewport.top = $(window).scrollTop();
