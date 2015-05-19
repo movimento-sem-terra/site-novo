@@ -2,7 +2,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     blankslate (2.1.2.4)
-    bourbon (4.2.1)
+    bourbon (4.2.3)
       sass (~> 3.4)
       thor
     celluloid (0.16.0)
@@ -54,7 +54,7 @@ GEM
       rb-inotify (>= 0.9)
     mercenary (0.3.5)
     multi_xml (0.5.5)
-    neat (1.7.1)
+    neat (1.7.2)
       bourbon (>= 4.0)
       sass (>= 3.3)
     parslet (1.5.0)
@@ -84,6 +84,6 @@ DEPENDENCIES
   httparty
   jekyll (~> 2.5.0)
   jekyll-sitemap (~> 0.5)
-  neat
+  neat (~> 1.7.2)
   sass
   slugify
