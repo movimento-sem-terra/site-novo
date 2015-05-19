@@ -35,7 +35,7 @@ $(document).ready(function() {
     var pageHeight = $(this).height();
     var scrollTop = $(this).scrollTop();
 
-    if($('body > footer').isOnScreen()) {
+    if($('.item:last-child').isOnScreen()) {
       $.infinite_scroll.load();
     }
   });
