@@ -5,10 +5,13 @@ tags:
   - tag: Alagoas
   - tag: degradação-ambiental
 title: "Sem Terra bloqueiam trecho da AL 220 em Arapiraca "
-support_line: "Ação foi promovida para denunciar a falta d'água nos assentamentos da região"
+support_line: "Ação foi promovida para denunciar a falta d'água nos assentamentos da região."
 menu: lutas e mobilizações
 layout: post
 files:
+  - thumbnail: "http://farm8.staticflickr.com/7736/17672780920_e30d730021_n.jpg"
+    small: "http://farm8.staticflickr.com/7736/17672780920_e30d730021_n.jpg"
+    $$hashKey: 02O
   - link: "http://farm6.staticflickr.com/5337/17857842802_c1a10b0ee1_b.jpg"
     thumbnail: "http://farm6.staticflickr.com/5337/17857842802_c1a10b0ee1_t.jpg"
     medium: "http://farm6.staticflickr.com/5337/17857842802_c1a10b0ee1_z.jpg"
