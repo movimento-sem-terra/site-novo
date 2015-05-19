@@ -70,3 +70,7 @@ O deputado estadual ,Edegar Pretto (PT), ressaltou o potencial de produ&ccedil;&
 
 <p><br />
 Sartori finalizou na reuni&atilde;o que o governo estadual est&aacute; empenhado em atender as demandas do MST. O governador reconhece a relev&acirc;ncia da produ&ccedil;&atilde;o dos assentamentos, afirmou que cada ponto da pauta de reindica&ccedil;&otilde;es ser&aacute; analisado, e declarou que n&atilde;o h&aacute; orienta&ccedil;&otilde;es para a descontinuidade de programas em andamento.</p>
+
+<p>&nbsp;</p>
+
+<p>*Com informa&ccedil;&otilde;es e imagens de Leandro Molina, assessoria de comunica&ccedil;&atilde;o deputado Edegar Pretto (PT)</p>
