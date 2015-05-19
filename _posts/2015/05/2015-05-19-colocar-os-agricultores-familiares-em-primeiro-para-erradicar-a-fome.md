@@ -5,7 +5,7 @@ tags:
   - tag: agrotóxicos
   - tag: FAO
   - tag: fome
-title: "Colocar a agricultura familiar é o primeiro passo para erradicar a fome "
+title: "Incentivar a agricultura familiar é o primeiro passo para erradicar a fome "
 support_line: Nove em cada dez das 570 milhões de propriedades agrícolas no mundo são geridas pela agricultura familiar.
 menu: agricultura camponesa
 layout: post
