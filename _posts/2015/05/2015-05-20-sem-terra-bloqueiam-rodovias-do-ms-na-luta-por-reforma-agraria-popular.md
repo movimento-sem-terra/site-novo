@@ -49,10 +49,6 @@ releated_posts: []
 <p><em>Da P&aacute;gina do MST</em><br />
 &nbsp;</p>
 
-<figure class="image" style="float:left"><img alt="1.jpg" height="356" src="http://farm8.staticflickr.com/7734/17286239243_cee029e471_b.jpg" width="200" />
-<figcaption></figcaption>
-</figure>
-
 <p>Cerca de 300 Sem Terra bloquearam na manh&atilde; desta quarta-feira (20), as principais rodovias federais de Mato Grosso do Sul.</p>
 
 <p><br />
@@ -82,10 +78,6 @@ Segundo Jonas Carlos da Concei&ccedil;&atilde;o, membro da dire&ccedil;&atilde;o
 Atualmente em Mato Grosso do Sul existem cerca de 12 mil acampados esperando ser assentados, ao mesmo tempo existem mais de 30 mil assentados, que tamb&eacute;m sofrem com a inoper&acirc;ncia do INCRA, principalmente na parte de documenta&ccedil;&atilde;o e assist&ecirc;ncia para que possam de fato sobreviver pelo que gera o seu lote.</p>
 
 <p>&nbsp;</p>
-
-<figure class="image" style="float:right"><img alt="2.jpg" height="356" src="http://farm9.staticflickr.com/8756/17903674402_20dc099195_b.jpg" width="200" />
-<figcaption></figcaption>
-</figure>
 
 <p>De acordo com dados do <span class="st">Instituto Brasileiro de Geografia e Estat&iacute;stica (</span>IBGE), o Centro-Oeste concentra o menor n&uacute;mero de propriedades rurais (317,5 mil) e a maior &aacute;rea (103,8 milh&otilde;es de hectares), implicando numa &aacute;rea m&eacute;dia de 327 hectares, portanto est&aacute; claro a inoper&acirc;ncia da pol&iacute;tica agr&aacute;ria brasileira, que n&atilde;o conseguiu atingir o seu principal objetivo no pa&iacute;s, a Reforma Agr&aacute;ria.</p>
 
