@@ -24,6 +24,7 @@ releated_posts:
   - 2015/04/2015-04-29-camara-aprova-pl-que-derruba-a-obrigatoriedade-da-rotulagem-de-alimentos-transgenicos.md
   - 2015/05/2015-05-05-vejam-lista-dos-deputados-que-querem-esconder-os-transgenicos-do-brasileiro.md
   - 2015/05/2015-05-08-mais-de-60-entidades-enviam-carta-contra-pl-que-acaba-com-rotulagem-de-transgenicos.md
+label: articles
 
 ---
 <p><img alt="bancada_ruralista!.jpg" src="http://farm6.staticflickr.com/5329/17417806638_a96315b7b2_b.jpg" /></p>
