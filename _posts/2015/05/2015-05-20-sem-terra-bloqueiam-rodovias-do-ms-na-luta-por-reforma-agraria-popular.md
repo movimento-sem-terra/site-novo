@@ -49,7 +49,7 @@ releated_posts: []
 <p><em>Da P&aacute;gina do MST</em><br />
 &nbsp;</p>
 
-<figure class="image" style="float:left"><img alt="1.jpg" height="534" src="http://farm8.staticflickr.com/7734/17286239243_cee029e471_b.jpg" width="300" />
+<figure class="image" style="float:left"><img alt="1.jpg" height="356" src="http://farm8.staticflickr.com/7734/17286239243_cee029e471_b.jpg" width="200" />
 <figcaption></figcaption>
 </figure>
 
@@ -83,7 +83,7 @@ Atualmente em Mato Grosso do Sul existem cerca de 12 mil acampados esperando ser
 
 <p>&nbsp;</p>
 
-<figure class="image" style="float:right"><img alt="2.jpg" height="534" src="http://farm9.staticflickr.com/8756/17903674402_20dc099195_b.jpg" width="300" />
+<figure class="image" style="float:right"><img alt="2.jpg" height="356" src="http://farm9.staticflickr.com/8756/17903674402_20dc099195_b.jpg" width="200" />
 <figcaption></figcaption>
 </figure>
 
