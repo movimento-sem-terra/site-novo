@@ -1,9 +1,9 @@
 ---
 date: "2015-05-20T15:15:42-03:00"
 tags: []
-title: Sem Terra bloqueiam rodovias do MS na luta por Reforma Agrária Popular
+title: Sem Terra bloqueiam trechos das principais rodovias no MS
 menu: lutas e mobilizações
-support_line: "Ações acontecem em todo estado desde o dia 1° de maio. "
+support_line: Desde o dia 1º de maio os movimentos sociais e sindicais do estado estão participando da Marcha da Classe Trabalhadora do Campo e da Cidade.
 layout: post
 files:
   - link: "http://farm8.staticflickr.com/7699/17286238773_4ee8fc68f9_b.jpg"
@@ -30,20 +30,26 @@ files:
     small: "http://farm9.staticflickr.com/8756/17903674402_20dc099195_n.jpg"
     title: 2.jpg
     $$hashKey: 0DN
+  - link: "http://farm8.staticflickr.com/7769/17721741039_d5e0e0f774_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7769/17721741039_d5e0e0f774_t.jpg"
+    medium: "http://farm8.staticflickr.com/7769/17721741039_d5e0e0f774_z.jpg"
+    small: "http://farm8.staticflickr.com/7769/17721741039_d5e0e0f774_n.jpg"
+    title: 56.jpg
+    $$hashKey: 0H1
 created_date: "2015-05-20T16:28:31-03:00"
 published: true
 images_hd: "http://farm8.staticflickr.com/7699/17286238773_4ee8fc68f9_n.jpg"
 releated_posts: []
 
 ---
-<p><img alt="4.jpg" height="420" src="http://farm9.staticflickr.com/8845/17719112620_25ed507ae1_b.jpg" width="700" /></p>
+<p><img alt="3.jpg" src="http://farm8.staticflickr.com/7699/17286238773_4ee8fc68f9_b.jpg" /></p>
 
 <p>&nbsp;</p>
 
 <p><em>Da P&aacute;gina do MST</em><br />
 &nbsp;</p>
 
-<figure class="image" style="float:left"><img alt="1.jpg" height="712" src="http://farm8.staticflickr.com/7734/17286239243_cee029e471_b.jpg" width="400" />
+<figure class="image" style="float:left"><img alt="1.jpg" height="534" src="http://farm8.staticflickr.com/7734/17286239243_cee029e471_b.jpg" width="300" />
 <figcaption></figcaption>
 </figure>
 
@@ -77,7 +83,7 @@ Atualmente em Mato Grosso do Sul existem cerca de 12 mil acampados esperando ser
 
 <p>&nbsp;</p>
 
-<figure class="image" style="float:right"><img alt="2.jpg" height="712" src="http://farm9.staticflickr.com/8756/17903674402_20dc099195_b.jpg" width="400" />
+<figure class="image" style="float:right"><img alt="2.jpg" height="534" src="http://farm9.staticflickr.com/8756/17903674402_20dc099195_b.jpg" width="300" />
 <figcaption></figcaption>
 </figure>
 
