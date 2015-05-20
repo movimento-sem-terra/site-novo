@@ -7,7 +7,7 @@ tags:
 title: Reforma agrária em bom português. Uma história premiada
 support_line: "Prêmio da Olimpíada de Português recebido por estudante do Assentamento 8 de Abril, em Jardim Alegre, no interior do Paraná mostra a importância da formação e integração da comunidade."
 menu: "educação, cultura e comunicação"
-section: cover
+section: featured-news
 sector: education
 layout: post
 files:
@@ -52,8 +52,7 @@ releated_posts:
 <p>&nbsp;</p>
 
 <figure class="image"><img alt="assentamento.jpg" src="http://farm9.staticflickr.com/8774/17627876830_9b47559883_b.jpg" />
-<figcaption>Valdirene colheu depoimentos da av&oacute; Elena e de pessoas que participaram das a&ccedil;&otilde;es para narrar a trajet&oacute;ria do assentamento. Foto:&nbsp;OLGA LEIRIA&nbsp;<br />
-</figcaption>
+<figcaption>Valdirene colheu depoimentos da av&oacute; Elena e de pessoas que participaram das a&ccedil;&otilde;es para narrar a trajet&oacute;ria do assentamento. Foto:&nbsp;OLGA LEIRIA&nbsp;</figcaption>
 </figure>
 
 <p><em>Por Vitor Nuzzi<br />
