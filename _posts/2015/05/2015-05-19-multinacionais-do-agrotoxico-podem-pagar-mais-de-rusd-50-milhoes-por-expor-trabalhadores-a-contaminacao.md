@@ -5,7 +5,7 @@ tags:
   - tag: doenças
   - tag: contaminação
   - tag: agroquímicos
-title: Multinacionais do agrotóxico podem pagar mais de R$ 50 milhões por expor trabalhadores à contaminação
+title: Empresas do agro podem pagar mais de R$ 50 mi por contaminação de trabalhadores
 menu: agronegócio
 support_line: "Ação está baseada em irregularidades, como a falta de condições mínimas de segurança e inexistência de local para a higiene dos funcionários."
 layout: post
@@ -21,13 +21,18 @@ published: true
 images_hd: "http://farm8.staticflickr.com/7746/17676997429_0dea130c6c_n.jpg"
 releated_posts:
   - 2015/01/2014-12-23-agrotoxicos-o-lucro-que-mata-a-terra-e-quem-dela-vive.md
+  - 2015/05/2015-05-13-colombia-suspende-pulverizacao-aerea-com-glifosato.md
+  - 2015/05/2015-05-14-a-uso-real-dos-agrotoxicos-e-muito-pior-do-que-os-testes-realizados-avalia-toxicologista.md
+  - 2015/05/2015-05-15-agricultura-atual-nao-e-sustentavel-afirma-diretor-geral-da-fao.md
+  - 2015/05/2015-05-18-sociedade-diz-nao-ao-fim-da-rotulagem-de-alimentos-transgenicos.md
 
 ---
-<p><br />
-<em>Do MPT de Mato Grosso</em><br />
-&nbsp;</p>
+<p><img alt="how-monsanto-company-is-preparing-for-syngenta-ag-adr-takeover.jpg" src="http://farm8.staticflickr.com/7746/17676997429_0dea130c6c_b.jpg" /><br />
+<br />
+<em>Do MPT de Mato Grosso</em></p>
 
-<p>O Minist&eacute;rio P&uacute;blico do Trabalho em Mato Grosso (MPT-MT) ajuizou, na &uacute;ltima quarta (13), a&ccedil;&atilde;o civil p&uacute;blica com pedido de liminar contra algumas das maiores produtoras de agrot&oacute;xicos do mundo. Juntas, Basf, Du Pont, Monsanto, Nufarm, Syngenta, Adama, Nortox e FMC movimentam mais de 11,5 bilh&otilde;es de d&oacute;lares por ano. Pela exposi&ccedil;&atilde;o de trabalhadores a risco de contamina&ccedil;&atilde;o por manuseio de embalagens de agrot&oacute;xicos, as empresas, bem como a Associa&ccedil;&atilde;o dos Engenheiros Agr&ocirc;nomos de Sapezal (Aeasa) e o Instituto Nacional de Processamento de Embalagens Vazias (Inpev), poder&atilde;o pagar uma indeniza&ccedil;&atilde;o que ultrapassa a casa dos 50 milh&otilde;es de reais.</p>
+<p><br />
+O Minist&eacute;rio P&uacute;blico do Trabalho em Mato Grosso (MPT-MT) ajuizou, na &uacute;ltima quarta (13), a&ccedil;&atilde;o civil p&uacute;blica com pedido de liminar contra algumas das maiores produtoras de agrot&oacute;xicos do mundo. Juntas, Basf, Du Pont, Monsanto, Nufarm, Syngenta, Adama, Nortox e FMC movimentam mais de 11,5 bilh&otilde;es de d&oacute;lares por ano. Pela exposi&ccedil;&atilde;o de trabalhadores a risco de contamina&ccedil;&atilde;o por manuseio de embalagens de agrot&oacute;xicos, as empresas, bem como a Associa&ccedil;&atilde;o dos Engenheiros Agr&ocirc;nomos de Sapezal (Aeasa) e o Instituto Nacional de Processamento de Embalagens Vazias (Inpev), poder&atilde;o pagar uma indeniza&ccedil;&atilde;o que ultrapassa a casa dos 50 milh&otilde;es de reais.</p>
 
 <p><br />
 A a&ccedil;&atilde;o &eacute; desdobramento de inspe&ccedil;&atilde;o realizada pelo MPT na Aeasa, em fevereiro deste ano, em conjunto com pesquisadores da Universidade Federal de Mato Grosso (UFMT). Na ocasi&atilde;o, foram constatadas diversas irregularidades trabalhistas, como a falta de condi&ccedil;&otilde;es m&iacute;nimas de seguran&ccedil;a aos empregados expostos ao veneno e inexist&ecirc;ncia de local para a higiene dos funcion&aacute;rios.</p>
