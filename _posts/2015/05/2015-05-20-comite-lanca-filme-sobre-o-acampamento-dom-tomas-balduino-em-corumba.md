@@ -15,9 +15,15 @@ files:
     small: "http://farm8.staticflickr.com/7783/17875466666_3ceb565e72_n.jpg"
     title: CAPA DOM TOMAS.jpg
     $$hashKey: "056"
+  - link: "http://farm9.staticflickr.com/8823/17281689813_d32391869f_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8823/17281689813_d32391869f_t.jpg"
+    medium: "http://farm9.staticflickr.com/8823/17281689813_d32391869f_z.jpg"
+    small: "http://farm9.staticflickr.com/8823/17281689813_d32391869f_n.jpg"
+    title: semmentes.jpg
+    $$hashKey: 05K
 created_date: "2015-05-20T13:34:52-03:00"
 published: true
-images_hd: "http://farm8.staticflickr.com/7783/17875466666_3ceb565e72_n.jpg"
+images_hd: "http://farm9.staticflickr.com/8823/17281689813_d32391869f_n.jpg"
 releated_posts:
   - 2015/02/2015-02-24-acampamento-dom-tomas-balduino-um-simbolo-nacional-da-luta-pela-reforma-agraria.md
   - 2015/02/2015-02-23-ato-no-acampamento-dom-tomas-defende-reforma-agraria-e-denuncia-descaso-juridico-na-resolucao-do-caso.md
@@ -28,6 +34,10 @@ releated_posts:
 <p><em>Da P&aacute;gina do MST </em></p>
 
 <p>&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="CAPA DOM TOMAS.jpg" src="http://farm8.staticflickr.com/7783/17875466666_3ceb565e72_b.jpg" />
+<figcaption></figcaption>
+</figure>
 
 <p>Dois meses ap&oacute;s o despejo das 3.000 fam&iacute;lias acampadas na fazendo do senador Eun&iacute;cio de Oliveira (PMDB-CE), no munic&iacute;pio de Corumb&aacute; (GO), o Comit&ecirc; de Apoio e Solidariedade ao Acampamento Dom Tom&aacute;s Baldu&iacute;no lan&ccedil;a um document&aacute;rio que resgata o processo de luta e denuncia o descaso do Estado Brasileiro com os trabalhadores/as sem terra.</p>
 
