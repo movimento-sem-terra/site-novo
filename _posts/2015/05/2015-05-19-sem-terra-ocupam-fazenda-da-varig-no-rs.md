@@ -24,7 +24,7 @@ releated_posts:
   - 2015/04/2015-04-27-fazenda-da-pinvest-ocupada-por-sem-terra-e-acusada-de-grilagem-e-danos-ambientais.md
   - 2015/04/2015-04-11-mst-reorganiza-brasiguaios-e-intensificam-a-luta-pela-terra-em-mato-grosso-do-sul.md
   - 2015/05/2015-05-04-apos-despejo-incra-se-compromete-em-assentar-sem-terra-no-rs.md
-section: cover
+section: null
 sector: mass-front
 
 ---
