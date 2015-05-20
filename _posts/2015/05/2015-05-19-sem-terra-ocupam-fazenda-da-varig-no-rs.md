@@ -39,11 +39,11 @@ releated_posts:
   - 2015/04/2015-04-27-fazenda-da-pinvest-ocupada-por-sem-terra-e-acusada-de-grilagem-e-danos-ambientais.md
   - 2015/05/2015-05-02-sem-terra-e-ferido-a-bala-apos-ocupacao-de-um-latifundio-grilado-em-to.md
   - 2014/07/2014-07-17-familias-sem-terra-seguem-na-luta-por-area-grilada-em-abelardo-luz.md
+section: cover
 
 ---
-<p>&nbsp;</p>
-
-<p><em>Da P&aacute;gina do MST </em></p>
+<p><br />
+<em>Da P&aacute;gina do MST </em></p>
 
 <p><br />
 Na manh&atilde; desta ter&ccedil;a-feira (19), cerca de 150 Sem Terra ocuparam uma fazenda de 115 hectares, que pertencia &agrave; empresa a&eacute;rea Varig, em Cruz Alta, no Rio Grande do Sul.</p>
