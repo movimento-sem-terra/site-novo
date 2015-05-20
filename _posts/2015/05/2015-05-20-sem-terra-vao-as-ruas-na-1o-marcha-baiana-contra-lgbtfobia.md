@@ -57,10 +57,8 @@ Da P&aacute;gina do MST</em></p>
 <p><br />
 Por uma Bahia que respeite a diversidade sexual e de g&ecirc;nero, LGBTs de todo estado organizados no MST, em entidades e outros movimentos sociais, marcaram presen&ccedil;a no 3&ordm; Maio da Diversidade.</p>
 
-<p>&nbsp;
 <p><br />
 As atividades aconteceram desde o dia 4 de maio, no espa&ccedil;o Solar Boa Vista, em Salvador, e culminou na 1&ordm; Marcha Estadual contra a LGBTfobia, na tarde deste domingo (17), tamb&eacute;m na capital.</p>
-</p>
 
 <p><br />
 A marcha estadual foi constru&iacute;da com a colabora&ccedil;&atilde;o de muitos movimentos que comp&otilde;e o f&oacute;rum LGBT e outros que est&atilde;o nas redes nacionais. O evento tamb&eacute;m contou com a colabora&ccedil;&atilde;o do Minicircuito dos Direitos Humanos pela Diversidade.</p>
