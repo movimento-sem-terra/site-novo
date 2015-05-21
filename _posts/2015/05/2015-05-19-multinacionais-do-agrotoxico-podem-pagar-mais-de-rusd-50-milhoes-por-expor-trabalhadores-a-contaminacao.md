@@ -25,6 +25,7 @@ releated_posts:
   - 2015/05/2015-05-14-a-uso-real-dos-agrotoxicos-e-muito-pior-do-que-os-testes-realizados-avalia-toxicologista.md
   - 2015/05/2015-05-15-agricultura-atual-nao-e-sustentavel-afirma-diretor-geral-da-fao.md
   - 2015/05/2015-05-18-sociedade-diz-nao-ao-fim-da-rotulagem-de-alimentos-transgenicos.md
+section: featured-news
 
 ---
 <p><img alt="how-monsanto-company-is-preparing-for-syngenta-ag-adr-takeover.jpg" src="http://farm8.staticflickr.com/7746/17676997429_0dea130c6c_b.jpg" /><br />
