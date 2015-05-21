@@ -6,12 +6,6 @@ menu: lutas e mobilizações
 support_line: Desde o dia 1º de maio os movimentos sociais e sindicais do estado estão participando da Marcha da Classe Trabalhadora do Campo e da Cidade.
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7699/17286238773_4ee8fc68f9_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7699/17286238773_4ee8fc68f9_t.jpg"
-    medium: "http://farm8.staticflickr.com/7699/17286238773_4ee8fc68f9_z.jpg"
-    small: "http://farm8.staticflickr.com/7699/17286238773_4ee8fc68f9_n.jpg"
-    title: 3.jpg
-    $$hashKey: 0DE
   - link: "http://farm8.staticflickr.com/7734/17286239243_cee029e471_b.jpg"
     thumbnail: "http://farm8.staticflickr.com/7734/17286239243_cee029e471_t.jpg"
     medium: "http://farm8.staticflickr.com/7734/17286239243_cee029e471_z.jpg"
@@ -36,31 +30,33 @@ files:
     small: "http://farm8.staticflickr.com/7769/17721741039_d5e0e0f774_n.jpg"
     title: 56.jpg
     $$hashKey: 0H1
+  - link: "http://farm6.staticflickr.com/5458/17310384204_923ec302fa_b.jpg"
+    thumbnail: "http://farm6.staticflickr.com/5458/17310384204_923ec302fa_t.jpg"
+    medium: "http://farm6.staticflickr.com/5458/17310384204_923ec302fa_z.jpg"
+    small: "http://farm6.staticflickr.com/5458/17310384204_923ec302fa_n.jpg"
+    title: trancamento_MS.JPG
+    $$hashKey: "032"
 created_date: "2015-05-20T16:28:31-03:00"
 published: true
-images_hd: "http://farm8.staticflickr.com/7699/17286238773_4ee8fc68f9_n.jpg"
+images_hd: "http://farm6.staticflickr.com/5458/17310384204_923ec302fa_n.jpg"
 releated_posts: []
 
 ---
-<p><img alt="3.jpg" src="http://farm8.staticflickr.com/7699/17286238773_4ee8fc68f9_b.jpg" /></p>
+<p><img alt="trancamento_MS.JPG" src="http://farm6.staticflickr.com/5458/17310384204_923ec302fa_b.jpg" /></p>
 
-<p>&nbsp;</p>
+<p><em>Da P&aacute;gina do MST</em></p>
 
-<p><em>Da P&aacute;gina do MST</em><br />
-&nbsp;</p>
-
-<p>Cerca de 300 Sem Terra bloquearam na manh&atilde; desta quarta-feira (20), as principais rodovias federais de Mato Grosso do Sul.</p>
+<p><br />
+Cerca de 300 Sem Terra bloquearam na manh&atilde; desta quarta-feira (20), as principais rodovias federais de Mato Grosso do Sul.</p>
 
 <p><br />
 Na a&ccedil;&atilde;o participaram tamb&eacute;m militantes da Federa&ccedil;&atilde;o dos Trabalhadores da Agricultura Familiar (Fetagri), do Movimento Campon&ecirc;s de Luta pela Reforma Agr&aacute;ria (MCLRA).</p>
 
-<p>&nbsp;</p>
+<p><br />
+As rodovias bloqueadas foram a 262 no 30 Km depois de Terenos, a rodovia 163, nos munic&iacute;pios de Nova Alvorada, Itaquira&iacute; e Mundo Novo, rodovia 267, em Casa Verde e a rodovia 060, em Sidrol&acirc;ndia.</p>
 
-<p>As rodovias bloqueadas foram a 262 no 30 Km depois de Terenos, a rodovia 163, nos munic&iacute;pios de Nova Alvorada, Itaquira&iacute; e Mundo Novo, rodovia 267, em Casa Verde e a rodovia 060, em Sidrol&acirc;ndia.</p>
-
-<p>&nbsp;</p>
-
-<p>As a&ccedil;&otilde;es no estado acontecem desde o dia 1&ordm; de maio quando movimentos sociais e sindicais de Mato Grosso do Sul iniciaram a Marcha da Classe Trabalhadora do Campo e da Cidade, que durou cinco dias e teve a participa&ccedil;&atilde;o de cerca de mil pessoas, os marchantes vieram do Posto Ja&uacute;, pr&oacute;ximo a Anhandu&iacute; at&eacute; Campo Grande.</p>
+<p><br />
+As a&ccedil;&otilde;es no estado acontecem desde o dia 1&ordm; de maio quando movimentos sociais e sindicais de Mato Grosso do Sul iniciaram a Marcha da Classe Trabalhadora do Campo e da Cidade, que durou cinco dias e teve a participa&ccedil;&atilde;o de cerca de mil pessoas, os marchantes vieram do Posto Ja&uacute;, pr&oacute;ximo a Anhandu&iacute; at&eacute; Campo Grande.</p>
 
 <p><br />
 No &uacute;ltimo dia (6), quarta-feira, eles ocuparam a sede do <span class="st">Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria</span> (INCRA), onde permanecer&atilde;o at&eacute; a tarde de sexta-feira (8), depois seguiram para o Moreninho da UFMS, onde encerrar&atilde;o uma mobiliza&ccedil;&atilde;o de 10 dias com algumas vit&oacute;rias e perspectivas.</p>
@@ -77,9 +73,8 @@ Segundo Jonas Carlos da Concei&ccedil;&atilde;o, membro da dire&ccedil;&atilde;o
 <p><br />
 Atualmente em Mato Grosso do Sul existem cerca de 12 mil acampados esperando ser assentados, ao mesmo tempo existem mais de 30 mil assentados, que tamb&eacute;m sofrem com a inoper&acirc;ncia do INCRA, principalmente na parte de documenta&ccedil;&atilde;o e assist&ecirc;ncia para que possam de fato sobreviver pelo que gera o seu lote.</p>
 
-<p>&nbsp;</p>
-
-<p>De acordo com dados do <span class="st">Instituto Brasileiro de Geografia e Estat&iacute;stica (</span>IBGE), o Centro-Oeste concentra o menor n&uacute;mero de propriedades rurais (317,5 mil) e a maior &aacute;rea (103,8 milh&otilde;es de hectares), implicando numa &aacute;rea m&eacute;dia de 327 hectares, portanto est&aacute; claro a inoper&acirc;ncia da pol&iacute;tica agr&aacute;ria brasileira, que n&atilde;o conseguiu atingir o seu principal objetivo no pa&iacute;s, a Reforma Agr&aacute;ria.</p>
+<p><br />
+De acordo com dados do <span class="st">Instituto Brasileiro de Geografia e Estat&iacute;stica (</span>IBGE), o Centro-Oeste concentra o menor n&uacute;mero de propriedades rurais (317,5 mil) e a maior &aacute;rea (103,8 milh&otilde;es de hectares), implicando numa &aacute;rea m&eacute;dia de 327 hectares, portanto est&aacute; claro a inoper&acirc;ncia da pol&iacute;tica agr&aacute;ria brasileira, que n&atilde;o conseguiu atingir o seu principal objetivo no pa&iacute;s, a Reforma Agr&aacute;ria.</p>
 
 <p><br />
 Al&eacute;m das pautas nacionais com o INCRA, os movimentos tamb&eacute;m pautam algumas quest&otilde;es a n&iacute;vel de estado, entre elas o fato do atual governador, Reinaldo Azambuja (PSDB), ter se reunido com uma comiss&atilde;o de negocia&ccedil;&atilde;o no final de fevereiro, ter solicitado uma rela&ccedil;&atilde;o sobre a realidade da infraestrutura dos assentamentos e at&eacute; o momento n&atilde;o ter dado retorno concreto sobre isso.</p>
@@ -90,11 +85,8 @@ Jonas Carlos afirmou ainda que os movimentos permanecer&atilde;o unidos at&eacut
 <p><br />
 &quot;Estamos esperando a&ccedil;&otilde;es deliberativas e que nos apontem solu&ccedil;&otilde;es cab&iacute;veis para a situa&ccedil;&atilde;o alarmante dos nossos acampados e dos assentados, por esse motivo continuamos unidos, mobilizados e em luta&quot;, ressalta.</p>
 
-<p>Segundo, Dinho Lopes, tamb&eacute;m da dire&ccedil;&atilde;o do MST, o movimento segue mobilizado a espera de uma delibera&ccedil;&atilde;o concreta do INCRA Nacional.</p>
+<p><br />
+Segundo, Dinho Lopes, tamb&eacute;m da dire&ccedil;&atilde;o do MST, o movimento segue mobilizado a espera de uma delibera&ccedil;&atilde;o concreta do INCRA Nacional.</p>
 
 <p><br />
 &quot;Analisamos que nos dias de mobiliza&ccedil;&atilde;o n&oacute;s avan&ccedil;amos em alguns pontos, como a libera&ccedil;&atilde;o de recursos para o INCRA de MS come&ccedil;ar a andar novamente, pagando, por exemplo, os quatro meses de aluguel atrasados do pr&eacute;dio em que o &oacute;rg&atilde;o est&aacute; instalado. Al&eacute;m disso, estamos com a expectativa da vinda desse representante nacional que &eacute; fundamental para consolida&ccedil;&atilde;o de conquistas&quot;, conclui.&nbsp;</p>
-
-<div>&nbsp;</div>
-
-<div>&nbsp;</div>
