@@ -4,6 +4,8 @@ tags:
   - tag: agroecologia
   - tag: produtos-orgânicos
   - tag: Reforma-Agrária-Popular
+  - tag: paraná
+  - tag: reforma-agrária
 title: Paraná sedia 3° Feira de Economia Solidária e Agroecologia
 menu: agricultura camponesa
 support_line: "Além de alimentos frescos, a feira contou com outras atrações, como atividades culturais e troca de sementes."
@@ -36,7 +38,13 @@ files:
 created_date: "2015-05-21T14:18:57-03:00"
 published: true
 images_hd: "http://farm9.staticflickr.com/8836/17912348406_f5594e564f_n.jpg"
-releated_posts: []
+releated_posts:
+  - 2015/04/2015-04-29-do-eucalipto-a-producao-agroecologica-e-a-construcao-da-escola-popular.md
+  - 2014/12/2014-11-05-brava-gente-assentada-o-assentamento-celso-furtado.md
+  - 2015/05/2015-05-18-reforma-agraria-em-bom-portugues-uma-historia-premiada.md
+  - 2015/03/2015-03-20-o-brasil-tem-de-saber-que-a-agroecologia-e-possivel-afirma-dilma-rousseff.md
+  - 2015/04/2015-04-16-assentados-celebram-producao-recorde-no-pr.md
+sector: production
 
 ---
 <p><img alt="3.jpg" height="400" src="http://farm8.staticflickr.com/7750/17752495989_0204314847_b.jpg" width="600" /></p>
@@ -50,10 +58,8 @@ Mais de 20 grupos de produtores de toda regi&atilde;o de&nbsp;Laranjeiras do Sul
 <p><br />
 Organizado pelo MST, Centro de Desenvolvimento Sustent&aacute;vel e Capacita&ccedil;&atilde;o em Agroecologia (CEAGRO), e pelo N&uacute;cleo Regional da Rede Ecovida de Agroecologia Luta Camponesa, a atividade aconteceu no &uacute;ltimo s&aacute;bado (16), na Pra&ccedil;a Jos&eacute; Nogueira do Amaral.</p>
 
-<p>&nbsp;
 <p><br />
 &ldquo;Nossa comunidade trouxe para feira verduras, frutas, sementes, gr&atilde;os e panif&iacute;cios org&acirc;nicos, e inclu&iacute;mos na receita os vegetais que as fam&iacute;lias produzem, como ab&oacute;bora, br&oacute;colis, mandioca, couve e chuchu&rdquo;, comentou a produtora Vanessa Issuzu, do acampamento Recanto da Natureza,&nbsp; membra do N&uacute;cleo Regional da Rede Ecovida de Agroecologia Luta Camponesa.</p>
-</p>
 
 <p>&nbsp;</p>
 
