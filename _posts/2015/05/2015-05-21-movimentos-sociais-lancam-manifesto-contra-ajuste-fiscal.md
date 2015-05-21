@@ -5,8 +5,10 @@ tags:
   - tag: manifesto
   - tag: governo
   - tag: retirada-de-direitos
-title: "Movimentos Sociais lançam manifesto contra ajuste fiscal "
-support_line: "Documento afirma que \"quadro de desequilíbrio fiscal das contas do governo não é responsabilidade dos mais pobres\"."
+  - tag: joaquim-levy
+  - tag: direitos-trabalhistas
+title: "Movimentos, intelectuais e ex-ministros lançam manifesto contra ajuste de Levy"
+support_line: "Documento afirma que não é justo colocar a conta para os mais pobres, enquanto não há nenhuma medida contra o andar de cima."
 menu: lutas e mobilizações
 layout: post
 files:
@@ -21,25 +23,46 @@ published: true
 images_hd: "http://farm8.staticflickr.com/7793/17313655373_17a4bd61e0_n.jpg"
 releated_posts:
   - 2014/12/2014-12-01-dilma-recebe-leonardo-boff-e-frei-betto-que-pedem-por-reformas-estruturais.md
+  - 2015/04/2015-04-23-pl-da-terceirizacao-pode-trazer-ainda-mais-informalidade-para-trabalhadores-rurais.md
+  - 2015/04/2015-04-28-cnbb-critica-projetos-que-ameacam-conquistas-sociais-e-direitos-de-trabalhadores.md
+  - 2015/04/2015-04-29-no-campo-pl-da-terceirizacao-ira-consolidar-uma-situacao-que-beira-o-insustentavel.md
 
 ---
 <div dir="ltr">
 <div class="gmail_quote">
 <div dir="ltr">
-<p>&nbsp;</p>
+<p><img alt="2015-784574961-2015011965920.jpg_20150122.jpg" src="http://farm8.staticflickr.com/7793/17313655373_17a4bd61e0_b.jpg" /><br />
+<br />
+<em>Da P&aacute;gina do MST </em></p>
 
-<p><em>Da P&aacute;gina do MST </em></p>
-
-<p>&nbsp;</p>
-
-<p>Foi analisado pela C&acirc;mara nesta quarta-feira (20) um dos principais pontos do ajuste fiscal proposto pelo ministro da Fazenda, Joaquim Levy, que prev&ecirc; o fim das desonera&ccedil;&otilde;es fiscais.</p>
+<p><br />
+Nesta quarta-feira (20), a C&acirc;mara analisou um dos principais pontos do ajuste fiscal proposto pelo ministro da Fazenda, Joaquim Levy, que prev&ecirc; o fim das desonera&ccedil;&otilde;es fiscais.</p>
 
 <p><br />
 No mesmo dia, um manifesto assinado por entidades sociais, acad&ecirc;micos, senadores e jornalistas foi lan&ccedil;ado criticando a solu&ccedil;&atilde;o que o governo apontou para recuperar a economia.</p>
 
-<p>&nbsp;</p>
+<p><br />
+Para eles, o governo parece encurralado e n&atilde;o demonstra capacidade de ampliar o horizonte pol&iacute;tico de um projeto que fez o Brasil avan&ccedil;ar, e o pa&iacute;s precisaria reencontrar o caminho do desenvolvimento e construir uma estrat&eacute;gia pol&iacute;tica capaz de enfrentar os novos desafios.</p>
 
-<p><strong>Segue o manifesto:</strong></p>
+<p><br />
+Por&eacute;m, &quot;a posi&ccedil;&atilde;o do governo, expressa pelo Minist&eacute;rio da Fazenda, est&aacute; concentrada exclusivamente numa pol&iacute;tica de ajuste fiscal, que al&eacute;m de insuficiente, pode deteriorar ainda mais o quadro econ&ocirc;mico brasileiro&quot;, diz o manifesto.</p>
+
+<p><br />
+O texto aponta ainda que as medidas visam apenas mexer nos direitos da classe trabalhadora, sem nenhuma perspectiva de compartilhar as dificuldades do atual momento com as grandes empresas e o setor financeiro.</p>
+
+<p><br />
+&quot;O quadro de desequil&iacute;brio fiscal das contas do governo n&atilde;o &eacute; responsabilidade dos mais pobres, trabalhadores, aposentados e pensionistas. As causas desse desequil&iacute;brio foram a desonera&ccedil;&atilde;o fiscal de mais 100 bilh&otilde;es concedida pelo governo &agrave;s grandes empresas, as elevadas taxas de juros Selic, que transferem recursos para o sistema financeiro, e a queda da arrecada&ccedil;&atilde;o devido ao baixo crescimento no ano passado&quot;.</p>
+
+<p><br />
+&quot;N&atilde;o &eacute; justo, agora, colocar essa conta para ser paga pelos mais pobres que precisam de pol&iacute;ticas p&uacute;blicas, trabalhadores, aposentados e pensionistas. Enquanto o andar de baixo perde direitos, n&atilde;o est&aacute; em curso nenhuma medida do governo para tornar o nosso sistema tribut&aacute;rio mais progressivo. Dados do especialista em finan&ccedil;as Amir Khair apontam que a taxa&ccedil;&atilde;o sobre as grandes fortunas pode render at&eacute; R$ 100 bilh&otilde;es por ano. Onde est&aacute; a parcela de contribui&ccedil;&atilde;o dos bancos e dos mais ricos?&quot;</p>
+
+<p><br />
+Confira o manifesto na &iacute;ntegra:</p>
+
+<p style="text-align: center;"><br />
+<strong>Manifesto pela mudan&ccedil;a na pol&iacute;tica econ&ocirc;mica e contra o ajuste</strong></p>
+<br />
+Para assinar <a href="https://secure.avaaz.org/po/petition/Governo_Federal_MANIFESTO_PELA_MUDANCA_NA_POLITICA_ECONOMICA_E_CONTRA_O_AJUSTE_1/?nIwhtjb" target="_blank">clique aqui</a>
 
 <p><br />
 O Brasil mudou nos &uacute;ltimos anos. Houve redu&ccedil;&atilde;o do desemprego e melhoria da renda do trabalhador. Milh&otilde;es de brasileiros sa&iacute;ram da pobreza extrema e outros tantos conquistaram a casa pr&oacute;pria. Al&eacute;m disso, milh&otilde;es ingressaram e conclu&iacute;ram o ensino superior e o ensino t&eacute;cnico. Foram tamb&eacute;m iniciados e conclu&iacute;dos importantes projetos de infraestrutura.</p>
@@ -51,9 +74,7 @@ Vivemos um per&iacute;odo importante na trajet&oacute;ria desse projeto de mudan
 Um pressuposto fundamental desta estrat&eacute;gia pol&iacute;tica deve ser o crescimento, com prote&ccedil;&atilde;o dos empregos, evitando que o Brasil mergulhe numa recess&atilde;o que se avizinha. No entanto, a posi&ccedil;&atilde;o do governo, expressa pelo Minist&eacute;rio da Fazenda, est&aacute; concentrada exclusivamente numa pol&iacute;tica de ajuste fiscal, que al&eacute;m de insuficiente, pode deteriorar ainda mais o quadro econ&ocirc;mico brasileiro.</p>
 
 <p><br />
-&nbsp;</p>
-
-<p><strong>Ajuste fiscal recessivo</strong></p>
+<strong>Ajuste fiscal recessivo</strong></p>
 
 <div>
 <p><br />
@@ -104,9 +125,8 @@ A proposta de ajuste fiscal apresentada pelo governo trava o pa&iacute;s diante 
 <p><br />
 20 de maio de 2015</p>
 
-<p>&nbsp;</p>
-
-<p><strong>Entidades</strong></p>
+<p><br />
+Entidades</p>
 
 <p><br />
 CUT - Central &Uacute;nica dos Trabalhadores</p>
@@ -343,7 +363,7 @@ CUT - Central &Uacute;nica dos Trabalhadores</p>
 
 <p>Virg&iacute;lio de Mattos - MG</p>
 
-<p>Zilda M&aacute;rcia Gr&iacute;coli Iokoi - Professora Titular do De<font face="Arial" size="2">partamento de Hist&oacute;ria da Universidade de S&atilde;o Paulo</font></p>
+<p>Zilda M&aacute;rcia Gr&iacute;coli Iokoi - Professora Titular do Departamento de Hist&oacute;ria da Universidade de S&atilde;o Paulo</p>
 </div>
 </div>
 </div>
