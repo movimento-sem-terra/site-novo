@@ -8,7 +8,7 @@ tags:
 title: Sem Terra vão as ruas na 1º Marcha baiana contra LGBTfobia
 support_line: Os espaços de luta e debate realizados durante o Maio da Diversidade cumpriu o objetivo de alertar a sociedade baiana sobre os crimes de homofobia.
 menu: direitos humanos
-section: cover
+section: featured-news
 layout: post
 files:
   - link: "http://farm9.staticflickr.com/8823/17708913520_077c2cf62b_b.jpg"
