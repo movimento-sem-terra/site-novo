@@ -4,7 +4,7 @@ tags:
   - tag: pernambuco
   - tag: lutas-e-mobilizações
   - tag: grito-da-terra
-title: "Em Pernambuco, mais de 6 mil camponeses participam do Grito da Terra"
+title: "Em Pernambuco, mais de 6 mil participam do Grito da Terra"
 support_line: "Dentre as pautas, os movimentos destacaram o acesso à água, à terra e condições para a produção e comercialização da produção camponesa."
 menu: lutas e mobilizações
 section: cover
@@ -27,8 +27,7 @@ releated_posts:
   - 2014/05/2014-05-29-assentados-esbanjam-producao-de-melancia-no-sertao-de-pernambuco.md
 
 ---
-<p><br />
-&nbsp;</p>
+<p>&nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="grito da terra_PE.jpg" src="http://farm8.staticflickr.com/7693/17929005382_5e5c833cbc_b.jpg" />
 <figcaption></figcaption>
