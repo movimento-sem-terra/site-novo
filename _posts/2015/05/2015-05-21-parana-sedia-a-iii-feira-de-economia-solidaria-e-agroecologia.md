@@ -4,7 +4,7 @@ tags:
   - tag: agroecologia
   - tag: produtos-orgânicos
   - tag: Reforma-Agrária-Popular
-title: "Paraná sedia a III Feira de Economia Solidária e Agroecologia "
+title: "Paraná sedia III Feira de Economia Solidária e Agroecologia "
 menu: agricultura camponesa
 support_line: "Além de alimentos frescos, a feira contou com outras atrações, como atividades culturais e troca de sementes."
 layout: post
@@ -107,3 +107,7 @@ Pedro Carlos Machado, do setor de produ&ccedil;&atilde;o do Acampamento Herdeiro
 
 <p><br />
 &ldquo;Esse &eacute; o primeiro espa&ccedil;o que estamos tendo para vender nossa produ&ccedil;&atilde;o, aqui trouxemos batata doce, abobora, feij&atilde;o, arroz, fruta, e toda essa produ&ccedil;&atilde;o &eacute; coletiva. N&oacute;s, a partir desses espa&ccedil;os queremos desmistificar a ideia que a popula&ccedil;&atilde;o tem nossa, de que os Sem Terra n&atilde;o produzem alimentos. Na &aacute;rea em que antes era s&oacute; eucalipto, hoje tem alimento de qualidade sendo produzido e chegando na mesa das fam&iacute;lias&rdquo;, comenta Carlos.</p>
+
+<p>&nbsp;</p>
+
+<p><img alt="1.jpg" height="548" src="http://farm9.staticflickr.com/8836/17912348406_f5594e564f_b.jpg" width="700" /></p>
