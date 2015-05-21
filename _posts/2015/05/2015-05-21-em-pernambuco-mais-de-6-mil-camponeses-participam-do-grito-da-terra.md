@@ -7,7 +7,7 @@ tags:
 title: "Em Pernambuco, mais de 6 mil participam do Grito da Terra"
 support_line: "Dentre as pautas, os movimentos destacaram o acesso à água, à terra e condições para a produção e comercialização da produção camponesa."
 menu: lutas e mobilizações
-section: cover
+section: null
 layout: post
 files:
   - link: "http://farm8.staticflickr.com/7693/17929005382_5e5c833cbc_b.jpg"
