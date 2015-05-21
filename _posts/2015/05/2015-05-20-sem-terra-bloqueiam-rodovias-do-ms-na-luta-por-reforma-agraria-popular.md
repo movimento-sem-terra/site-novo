@@ -1,6 +1,9 @@
 ---
 date: "2015-05-20T15:15:42-03:00"
-tags: []
+tags:
+  - tag: mato-grosso-do-sul
+  - tag: lutas-e-mobilizações
+  - tag: reforma-agrária
 title: Sem Terra bloqueiam trechos das principais rodovias no MS
 menu: lutas e mobilizações
 support_line: Desde o dia 1º de maio os movimentos sociais e sindicais do estado estão participando da Marcha da Classe Trabalhadora do Campo e da Cidade.
@@ -39,7 +42,12 @@ files:
 created_date: "2015-05-20T16:28:31-03:00"
 published: true
 images_hd: "http://farm6.staticflickr.com/5458/17310384204_923ec302fa_n.jpg"
-releated_posts: []
+releated_posts:
+  - 2015/05/2015-05-07-apos-marcha-da-classe-trabalhadora-sem-terra-ocupam-o-incra-no-ms.md
+  - 2015/05/2015-05-08-pelo-terceiro-dia-consecutivo-incra-de-ms-segue-ocupado-e-rodovias-federais-sao-bloqueadas.md
+  - 2015/04/2015-04-11-mst-reorganiza-brasiguaios-e-intensificam-a-luta-pela-terra-em-mato-grosso-do-sul.md
+  - 2015/04/2015-04-24-com-1-500-familias-sem-terra-criam-o-maior-acampamento-de-ms.md
+  - 2015/04/2015-04-27-sete-anos-depois-de-serem-assentados-sem-terra-ainda-lutam-por-documentacao-basica.md
 
 ---
 <p><img alt="trancamento_MS.JPG" src="http://farm6.staticflickr.com/5458/17310384204_923ec302fa_b.jpg" /></p>
