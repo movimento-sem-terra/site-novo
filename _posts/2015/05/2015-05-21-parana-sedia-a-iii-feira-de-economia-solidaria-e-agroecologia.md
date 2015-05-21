@@ -39,7 +39,7 @@ images_hd: "http://farm9.staticflickr.com/8836/17912348406_f5594e564f_n.jpg"
 releated_posts: []
 
 ---
-<p><img alt="3.jpg" height="467" src="http://farm8.staticflickr.com/7750/17752495989_0204314847_b.jpg" width="700" /></p>
+<p><img alt="3.jpg" height="400" src="http://farm8.staticflickr.com/7750/17752495989_0204314847_b.jpg" width="600" /></p>
 
 <p><em>Por Riquieli Capitani<br />
 Da P&aacute;gina do MST</em></p>
@@ -110,4 +110,4 @@ Pedro Carlos Machado, do setor de produ&ccedil;&atilde;o do Acampamento Herdeiro
 
 <p>&nbsp;</p>
 
-<p><img alt="1.jpg" height="548" src="http://farm9.staticflickr.com/8836/17912348406_f5594e564f_b.jpg" width="700" /></p>
+<p><img alt="1.jpg" height="469" src="http://farm9.staticflickr.com/8836/17912348406_f5594e564f_b.jpg" width="600" /></p>
