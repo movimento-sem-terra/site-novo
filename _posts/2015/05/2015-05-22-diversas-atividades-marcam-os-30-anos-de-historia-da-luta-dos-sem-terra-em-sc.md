@@ -4,7 +4,7 @@ tags:
   - tag: reforma-agrária
   - tag: santa-catarina
   - tag: mst
-title: Diversas atividades marcam os 30 anos de história da luta dos Sem Terra em SC
+title: Atividades marcam os 30 anos de história dos Sem Terra em SC
 support_line: "Atos políticos, lançamento de Instituto Federal, feiras da Reforma Agrária e shows são alguma das atividades que compõem a celebração."
 menu: reforma agrária
 layout: post
@@ -64,5 +64,7 @@ Na ocasi&atilde;o, o Sem Terra e ex-deputado Vilson Santin lembrou que &ldquo;no
 
 <p><br />
 &ldquo;V&atilde;o ao com&eacute;rcio de Abelardo para verem a defesa do movimento, o munic&iacute;pio teria falido (sem o assentamento), al&eacute;m do benef&iacute;cio direto, muitos daqueles latifundi&aacute;rios colocaram suas terras para produzir, com medo do MST&rdquo;, ironizou Santin.</p>
+
+<p>&nbsp;</p>
 
 <p><iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/aObSzCGC6ZU" width="640"></iframe></p>
