@@ -6,7 +6,7 @@ tags:
   - tag: minustah
   - tag: direitos-humanos
 title: Governo promete retirada das tropas brasileiras do Haiti até o final de 2016
-support_line: "A Minustah, embora apoiada e reconhecida pela ONU, tem seus métodos constantemente questionados e criticados por estudiosos e organizações sociais e de direitos humanos."
+support_line: A Minustah tem seus métodos constantemente questionados e criticados por estudiosos e organizações sociais e de direitos humanos.
 menu: solidariedade
 section: cover
 layout: post
