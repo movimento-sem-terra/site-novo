@@ -34,7 +34,7 @@ releated_posts:
 <p><em>Da P&aacute;gina do MST*</em></p>
 
 <p><br />
-O ministro da defesa, Jaques Wagner, anunciou nesta quinta-feira (21), a miss&atilde;o de paz das Na&ccedil;&otilde;es Unidas no Haiti, chefiada militarmente pelo Brasil, deve ser encerrada at&eacute; o final de 2016.</p>
+O ministro da defesa, Jaques Wagner, anunciou nesta quinta-feira (21) que a miss&atilde;o de paz das Na&ccedil;&otilde;es Unidas no Haiti, chefiada militarmente pelo Brasil, deve ser encerrada at&eacute; o final de 2016.</p>
 
 <p><br />
 &ldquo;A miss&atilde;o no Haiti acaba ano que vem, n&atilde;o por decis&atilde;o nossa, porque, na medida em que nos incorporamos a um programa desse, ficamos um pouco submetidos &agrave; decis&atilde;o das Na&ccedil;&otilde;es Unidas. Neste ano, j&aacute; houve uma redu&ccedil;&atilde;o. No ano que vem, a previs&atilde;o &eacute; de retirada total das for&ccedil;as n&atilde;o s&oacute; do Brasil, mas das Na&ccedil;&otilde;es Unidas&rdquo;, disse.</p>
