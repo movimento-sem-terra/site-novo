@@ -59,3 +59,6 @@ A falta de mudan&ccedil;as econ&ocirc;micas no territ&oacute;rio &eacute; outro 
 
 <p><br />
 Al&eacute;m das repress&otilde;es cotidianas, den&uacute;ncias de estupros por parte dos soldados tamb&eacute;m s&atilde;o frequentes. A popula&ccedil;&atilde;o, contr&aacute;ria a presen&ccedil;a militar, segue fazendo protestos e denunciando os abusos.</p>
+
+<p><br />
+<em>* Com informa&ccedil;&otilde;es do Estad&atilde;o.</em></p>
