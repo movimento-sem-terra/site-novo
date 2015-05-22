@@ -33,10 +33,8 @@ releated_posts:
 <em>Por Guilherme Weimann<br />
 Do Brasil de Fato</em></p>
 
-<p>&nbsp;
 <p><br />
 Durante a ditadura militar chilena (1973 &ndash; 1990), as mulheres dos sub&uacute;rbios de Santiago se utilizaram de um afazer cotidiano para criar uma ferramenta de resist&ecirc;ncia.</p>
-</p>
 
 <p><br />
 Conhecidas como arpilleras, os bordados foram uma das principais formas de den&uacute;ncia da repress&atilde;o sofrida durante o regime comandado pelo general Augusto Pinochet.</p>
