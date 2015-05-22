@@ -35,9 +35,15 @@ files:
     small: "http://farm6.staticflickr.com/5334/17627665868_b0bc381727_n.jpg"
     title: ass.jpg
     $$hashKey: "031"
+  - link: "http://farm9.staticflickr.com/8783/17971873765_3413ea62a2_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8783/17971873765_3413ea62a2_t.jpg"
+    medium: "http://farm9.staticflickr.com/8783/17971873765_3413ea62a2_z.jpg"
+    small: "http://farm9.staticflickr.com/8783/17971873765_3413ea62a2_n.jpg"
+    title: "Valdirene-com-a-professora-Flavia_foto_Olga-LeiriaRBA!.jpg"
+    $$hashKey: 06U
 created_date: "2015-05-18T08:36:45-03:00"
 published: true
-images_hd: "http://farm9.staticflickr.com/8877/17195088873_a57d737abd_n.jpg"
+images_hd: "http://farm9.staticflickr.com/8783/17971873765_3413ea62a2_n.jpg"
 releated_posts:
   - 2014/12/2014-11-05-brava-gente-assentada-o-assentamento-celso-furtado.md
   - 2014/10/2014-09-30-seminario-nacional-debate-as-diversas-dimensoes-da-educacao.md
