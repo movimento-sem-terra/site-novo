@@ -39,16 +39,16 @@ Neste m&ecirc;s de maio, o MST completa 30 anos no estado de Santa Catarina. No 
 Neste sentido, ao longo destas semanas est&atilde;o sendo realizadas diversas atividades em comemora&ccedil;&atilde;o aos 30 anos do MST no estado.</p>
 
 <p><br />
-Nesta quarta-feira (20), os Sem Terra realizaram um ato pol&iacute;tico sobre a instala&ccedil;&atilde;o do Instituto Federal Catarinense (IFC), que ser&aacute; constru&iacute;do no assentamento Jos&eacute; Maria, em Abelardo Luz.</p>
+Nesta quarta-feira (20), os Sem Terra realizaram um ato pol&iacute;tico da instala&ccedil;&atilde;o do Instituto Federal Catarinense (IFC), que ser&aacute; constru&iacute;do no assentamento Jos&eacute; Maria, em Abelardo Luz.</p>
 
 <p><br />
-A atividade contou com diversas autoridades da regi&atilde;o, como o Prefeito do munic&iacute;pio Dilmar Fantinelli e diversos vereadores da regi&atilde;o.</p>
+A atividade contou com diversas autoridades, como o Prefeito do munic&iacute;pio Dilmar Fantinelli e diversos vereadores da regi&atilde;o.</p>
 
 <p><br />
-No s&aacute;bado (23) pela manh&atilde;, acontece a 1&deg; Feira Estadual Agroecol&oacute;gia e a 3&deg; Feira da Reforma Agr&aacute;ria, que se estender&aacute; at&eacute; o domingo (24) no centro da cidade. Na noite de domingo, Pereira da Viola realiza um show na comunidade Papu&atilde;, onde foram montados os primeiros barrocos da regi&atilde;o.</p>
+No s&aacute;bado (23) pela manh&atilde;, acontece a 1&deg; Feira Estadual Agroecol&oacute;gia e a 3&deg; Feira da Reforma Agr&aacute;ria, que se estender&aacute; at&eacute; o domingo (24) no centro da cidade. Na noite de domingo, Pereira da Viola realiza um show na comunidade Papu&atilde;, onde foram montados os primeiros barracos da regi&atilde;o.</p>
 
 <p><br />
-J&aacute; na segunda-feira (25), a festa continuar&aacute; no assentamento 25 de Maio, com ato pol&iacute;tico que contar&aacute; com a presen&ccedil;a do ministro do Minist&eacute;rio do Desenvolvimento Agr&aacute;rio (MDA), Patrus Ananias.</p>
+J&aacute; na segunda-feira (25), a festa continuar&aacute; no assentamento 25 de Maio, com ato pol&iacute;tico que contar&aacute; com a presen&ccedil;a do ministro do Desenvolvimento Agr&aacute;rio (MDA), Patrus Ananias.</p>
 
 <p><br />
 O Secretario de Inclus&atilde;o Digital, Jefferson D&rsquo;Avila de Oliveira, tamb&eacute;m estar&aacute; presente, e aproveitar&aacute; a ocasi&atilde;o para inaugurar o telecentro do projeto De olho na Terra, um projeto de inclus&atilde;o digital em parceria com o Minist&eacute;rio das Comunica&ccedil;&otilde;es, a Universidade Federal de Santa Catarina (UFSC) e o MST.</p>
@@ -57,7 +57,7 @@ O Secretario de Inclus&atilde;o Digital, Jefferson D&rsquo;Avila de Oliveira, ta
 <strong>Alesc</strong></p>
 
 <p><br />
-No m&ecirc;s passado, o MST comemorou seus30 anos de atividades no estado durante sess&atilde;o especial do Legislativo.</p>
+No m&ecirc;s passado, o MST comemorou seus 30 anos de atividades no estado durante sess&atilde;o especial do Legislativo.</p>
 
 <p><br />
 Na ocasi&atilde;o, o Sem Terra e ex-deputado Vilson Santin lembrou que &ldquo;nosso primeiro assentamento foi em 25 de maio de 1985, em Abelardo Luz, hoje l&aacute; est&atilde;o assentadas cerca de 1,5 mil fam&iacute;lias&rdquo;.</p>
