@@ -31,7 +31,12 @@ releated_posts:
 sector: mass-front
 
 ---
-<p><em>Da P&aacute;gina do MST </em></p>
+<figure class="image" style="float:right"><img alt="bandeira-mst.jpeg" src="http://farm9.staticflickr.com/8818/17968980592_a5d7380d9e_b.jpg" />
+<figcaption></figcaption>
+</figure>
+
+<p><br />
+<em>Da P&aacute;gina do MST </em></p>
 
 <p><br />
 Cerca de 300 fam&iacute;lias Sem Terra ocuparam na manh&atilde; desta sexta-feira (22) a fazenda Sucupira, no munic&iacute;pio de Amaralina, no interior de Goi&aacute;s.</p>
