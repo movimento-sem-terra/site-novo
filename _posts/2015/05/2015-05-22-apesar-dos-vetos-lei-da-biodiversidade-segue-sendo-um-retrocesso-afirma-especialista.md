@@ -4,8 +4,8 @@ tags:
   - tag: lei-da-biodiversidade
   - tag: biopirataria
   - tag: meio-ambiente
-title: "Apesar dos vetos, Lei da Biodiversidade segue sendo retrocesso, afirma especialista"
-support_line: "“Cerca de 300 empresas que lucram em cima da espoliação humana e de solo participaram do processo de construção da nova lei da biodiversidade\", explica André Dallagnol"
+title: "Apesar de vetos, Lei da Biodiversidade segue sendo retrocesso, afirma especialista"
+support_line: "“Cerca de 300 empresas que lucram em cima da espoliação humana participaram do processo de construção da nova lei da biodiversidade\", explica André Dallagnol"
 menu: meio ambiente
 section: cover
 layout: post
