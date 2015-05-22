@@ -8,7 +8,7 @@ tags:
 title: Governo promete retirada das tropas brasileiras do Haiti até o final de 2016
 support_line: A Minustah tem seus métodos constantemente questionados e criticados por estudiosos e organizações sociais e de direitos humanos.
 menu: solidariedade
-section: cover
+section: featured-news
 layout: post
 files:
   - link: "http://farm6.staticflickr.com/5457/17781685879_8ea610723f_b.jpg"
