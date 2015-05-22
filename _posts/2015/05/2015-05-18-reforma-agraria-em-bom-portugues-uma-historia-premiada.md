@@ -37,7 +37,7 @@ files:
     $$hashKey: "031"
 created_date: "2015-05-18T08:36:45-03:00"
 published: true
-images_hd: "http://farm9.staticflickr.com/8774/17627876830_9b47559883_n.jpg"
+images_hd: "http://farm9.staticflickr.com/8877/17195088873_a57d737abd_n.jpg"
 releated_posts:
   - 2014/12/2014-11-05-brava-gente-assentada-o-assentamento-celso-furtado.md
   - 2014/10/2014-09-30-seminario-nacional-debate-as-diversas-dimensoes-da-educacao.md
@@ -47,6 +47,7 @@ releated_posts:
   - 2015/05/2015-05-06-de-tijolo-em-tijolo-sem-terra-construiram-a-primeira-escola-do-campo.md
   - 2015/05/2015-05-12-com-metodo-cubano-sem-terra-zeram-analfabetismo-em-sete-assentamentos-da-bahia.md
   - 2015/05/2015-05-14-nao-podemos-desistir-do-projeto-de-renovacao-em-curso-em-muitos-paises-latino-americanos.md
+label: special-stories
 
 ---
 <p>&nbsp;</p>
