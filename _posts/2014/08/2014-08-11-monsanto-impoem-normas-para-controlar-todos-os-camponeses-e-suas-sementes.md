@@ -1,27 +1,44 @@
 ---
 layout: post
 title: Monsanto impõem normas para controlar todos os camponeses e suas sementes
-legacy_url: ''
-images: ''
-video: ''
-youtube_link: ''
+legacy_url: ""
+images: ""
+video: ""
+youtube_link: ""
 tags:
-- tag: monsanto
-- tag: agronegócio
-files: []
-type: ''
-support_line: As leis Monsanto, em escala mundial, impõem normas que criam um registro
-  eletrônico de todos os camponeses que produzem suas próprias sementes.
-section: ''
+  - tag: monsanto
+  - tag: agronegócio
+files:
+  - thumbnail: "http://farm4.staticflickr.com/3880/14699833157_9673fbf261_b.jpg"
+    small: "http://farm4.staticflickr.com/3880/14699833157_9673fbf261_b.jpg"
+    $$hashKey: 05F
+  - link: "http://farm9.staticflickr.com/8883/17984761086_474f4c4dbb_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8883/17984761086_474f4c4dbb_t.jpg"
+    medium: "http://farm9.staticflickr.com/8883/17984761086_474f4c4dbb_z.jpg"
+    small: "http://farm9.staticflickr.com/8883/17984761086_474f4c4dbb_n.jpg"
+    title: Monsanto_Por-Latuff.gif
+    $$hashKey: 08D
+type: ""
+support_line: "As leis Monsanto, em escala mundial, impõem normas que criam um registro eletrônico de todos os camponeses que produzem suas próprias sementes."
+section: ""
 hat: Agronegócio
 label: articles
-images_hd: http://farm4.staticflickr.com/3880/14699833157_9673fbf261_b.jpg
+images_hd: "http://farm4.staticflickr.com/3880/14699833157_9673fbf261_b.jpg"
 menu: agronegócio
 published: true
-date: '2014-08-11T11:02:49-03:00'
-created_date: 2014-08-11 12:00
+date: "2014-08-11T11:02:49-03:00"
+created_date: "2014-08-11 12:00"
+releated_posts:
+  - 2015/01/2015-01-22-chuck-norris-fala-em-artigo-contra-a-monsanto-e-os-danos-que-a-empresa-causa-a-saude-global.md
+  - 2015/05/2015-05-08-cientista-do-mit-afirma-que-o-glifosato-causara-autismo-em-50-das-criancas-ate-2025.md
+  - 2015/05/2015-05-08-dia-23-de-maio-as-razoes-do-dia-mundial-contra-a-monsanto.md
+  - 2015/04/2015-04-30-neil-young-lanca-album-de-protesto-contra-monsanto.md
+  - 2015/05/2015-05-18-monsanto-mexico-e-os-obesos-do-imperio.md
+  - 2015/05/2015-05-23-23-de-maio-dia-mundial-de-luta-contra-a-monsanto.md
 
 ---
+<p><img alt="Monsanto_Por-Latuff.gif" src="http://farm9.staticflickr.com/8883/17984761086_474f4c4dbb_b.jpg" /></p>
+
 <p><em>Por R. G&oacute;mez Mederos<br />
 Do Rebeli&oacute;n*</em></p>
 
