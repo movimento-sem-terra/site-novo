@@ -7,7 +7,7 @@ tags:
 title: "Apesar de vetos, Lei da Biodiversidade segue sendo retrocesso, afirma especialista"
 support_line: "“Cerca de 300 empresas que lucram em cima da espoliação humana participaram do processo de construção da nova lei da biodiversidade\", explica André Dallagnol"
 menu: meio ambiente
-section: cover
+section: null
 layout: post
 files:
   - link: "http://farm8.staticflickr.com/7799/17790660888_d2080b1770_b.jpg"
