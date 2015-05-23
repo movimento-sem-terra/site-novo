@@ -96,8 +96,6 @@ Abaixo, confira diversos textos e v&iacute;deos que explicam o porqu&ecirc; do d
 <p><br />
 <strong><a href="http://www.mst.org.br/2014/08/11/monsanto-impoem-normas-para-controlar-todos-os-camponeses-e-suas-sementes.html" target="_blank">Monsanto imp&otilde;em normas para controlar todos os camponeses e suas sementes</a></strong></p>
 
-<p>&nbsp;</p>
-
 <p><br />
 <strong><a href="http://www.mst.org.br/2015/02/18/monsanto-25-doencas-que-podem-ser-causadas-pelo-agrotoxico-glifosato.html" target="_blank">Monsanto: 25 doen&ccedil;as que podem ser causadas pelo agrot&oacute;xico glifosato</a></strong></p>
 
