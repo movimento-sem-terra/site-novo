@@ -6,7 +6,7 @@ tags:
   - tag: direitos-indígenas
   - tag: lei-biosidversidade
 title: "Por que o Marco da Biodiversidade divide famacêuticas e ambientalistas? "
-support_line: "A nova Lei surge com a a promessa de destravar a pesquisa científica, mas é questionada por ambientalistas e Movimentos Sociais "
+support_line: "A nova Lei surge com a a promessa de destravar a pesquisa científica, mas é questionada por ambientalistas e Movimentos Sociais."
 menu: direitos humanos
 layout: post
 files:
