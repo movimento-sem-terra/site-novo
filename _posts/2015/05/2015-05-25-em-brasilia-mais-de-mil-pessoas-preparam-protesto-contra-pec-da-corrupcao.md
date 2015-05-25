@@ -6,8 +6,8 @@ tags:
   - tag: eduardo-cunha
 section: cover
 menu: projeto popular
-title: "Em Brasília, mais de mil pessoas preparam protesto contra PEC da Corrupção"
-support_line: "Segundo organizações sociais, reforma política encabeçada pelo Congresso seria um retrocesso ainda maior do sistema político atual."
+title: "Em Brasília, protesto marcará votação da PEC da Corrupção"
+support_line: "Segundo organizações sociais, a reforma política encabeçada pelo Congresso seria um retrocesso ainda maior do sistema político atual."
 layout: post
 files:
   - link: "http://farm9.staticflickr.com/8771/18092387475_b91baf78f6_b.jpg"
