@@ -22,7 +22,8 @@ images_hd: "http://farm9.staticflickr.com/8852/18083004061_5918a9e8ee_n.jpg"
 releated_posts: []
 
 ---
-<p>&nbsp;</p>
+<p><br />
+<em>Da IHU On-Line</em></p>
 
 <p><br />
 A nova lei - que substituiu uma antiga legisla&ccedil;&atilde;o mais burocr&aacute;tica - foi festejada pela ind&uacute;stria farmac&ecirc;utica e criticada por ambientalistas e comunidades donas de conhecimentos tradicionais, como ind&iacute;genas, quilombolas e extrativistas.</p>
