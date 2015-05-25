@@ -5,9 +5,11 @@ tags:
   - tag: povos-tradicionais
   - tag: direitos-indígenas
   - tag: lei-biosidversidade
+  - tag: biopirataria
+  - tag: meio-ambiente
 title: "Por que o Marco da Biodiversidade divide famacêuticas e ambientalistas? "
 support_line: "A nova Lei surge com a a promessa de destravar a pesquisa científica, mas é questionada por ambientalistas e Movimentos Sociais."
-menu: direitos humanos
+menu: meio ambiente
 layout: post
 files:
   - link: "http://farm9.staticflickr.com/8852/18083004061_5918a9e8ee_b.jpg"
@@ -19,10 +21,15 @@ files:
 created_date: "2015-05-25T11:14:56-03:00"
 published: true
 images_hd: "http://farm9.staticflickr.com/8852/18083004061_5918a9e8ee_n.jpg"
-releated_posts: []
+releated_posts:
+  - 2015/03/2015-03-20-manifesto-denuncia-lobby-de-empresas-sobre-pl-de-recursos-geneticos.md
+  - 2015/05/2015-05-07-organizacoes-pedem-veto-presidencial-de-projeto-de-lei-da-biopirataria.md
+  - 2015/05/2015-05-14-por-que-dilma-deve-vetar-o-pl-da-biopirataria.md
+  - 2015/05/2015-05-22-apesar-dos-vetos-lei-da-biodiversidade-segue-sendo-um-retrocesso-afirma-especialista.md
 
 ---
-<p><br />
+<p><img alt="imagem_materia.jpg" src="http://farm9.staticflickr.com/8852/18083004061_5918a9e8ee_b.jpg" /><br />
+<br />
 <em>Da IHU On-Line</em></p>
 
 <p><br />
