@@ -6,7 +6,7 @@ tags:
   - tag: reforma-agrária
 menu: projeto popular
 label: interviews
-section: cover
+section: null
 title: MST completa 30 anos de luta e resistência em Santa Catarina
 support_line: "Presente desde a primeira ocupação no estado, o Sem Terra Vilson Santin explica sobre os desafios e conquistas destas três décadas de MST em SC."
 layout: post
