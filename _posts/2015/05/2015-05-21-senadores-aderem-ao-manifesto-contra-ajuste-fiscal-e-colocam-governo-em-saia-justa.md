@@ -5,7 +5,7 @@ tags:
   - tag: projeto-popular
 title: Senadores aderem ao manifesto contra ajuste fiscal e colocam governo em saia justa
 menu: projeto popular
-section: featured-news
+section: null
 support_line: "Senadores assumem manifesto, constrangem o governo e paralisam votação do ajuste. Taxação de grandes fortunas pode entrar em pauta."
 layout: post
 files:
