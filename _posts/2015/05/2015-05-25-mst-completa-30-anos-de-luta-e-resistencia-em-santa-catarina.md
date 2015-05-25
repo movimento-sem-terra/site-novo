@@ -1,6 +1,9 @@
 ---
 date: "2015-05-25T07:59:16-03:00"
-tags: []
+tags:
+  - tag: mst
+  - tag: santa-catarina
+  - tag: reforma-agrária
 menu: projeto popular
 label: interviews
 section: cover
@@ -35,7 +38,13 @@ files:
 created_date: "2015-05-25T08:27:22-03:00"
 published: true
 images_hd: "http://farm9.staticflickr.com/8794/17890846819_9fdb6eb5db_n.jpg"
-releated_posts: []
+releated_posts:
+  - 2015/05/2015-05-22-diversas-atividades-marcam-os-30-anos-de-historia-da-luta-dos-sem-terra-em-sc.md
+  - 2014/02/2014-02-04-altamiro-borges-30-anos-do-mst-e-o-odio-da-midia.md
+  - 2014/12/2014-12-01-para-dirigente-do-mst-pauta-minima-sera-o-assentamento-de-120-mil-familias.md
+  - 2015/01/2015-01-15-cooperacao-agricola-o-simbolo-do-assentamento-conquista-na-fronteira.md
+  - 2014/07/2014-07-17-familias-sem-terra-seguem-na-luta-por-area-grilada-em-abelardo-luz.md
+  - 2014/12/2014-12-16-sem-terra-celebram-seis-meses-de-luta-com-colheita-da-producao.md
 
 ---
 <p><img alt="sc.png" src="http://farm9.staticflickr.com/8794/17890846819_9fdb6eb5db_b.jpg" /></p>
@@ -90,7 +99,7 @@ Ao conquistarmos as &aacute;reas, o Incra colocou as fam&iacute;lias em diversas
 &nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="sc3.png" src="http://farm6.staticflickr.com/5325/17454522354_1e27528ffd_b.jpg" />
-<figcaption>Legenda</figcaption>
+<figcaption></figcaption>
 </figure>
 
 <p><strong>Como o Movimento se tornou refer&ecirc;ncia a n&iacute;vel nacional na &aacute;rea da produ&ccedil;&atilde;o?</strong></p>
@@ -105,7 +114,13 @@ A nossa marca Terra Viva, nossas cooperativas, como a Cooperoeste, as escolas, t
 Nesses acampamentos j&aacute; fizemos grandes lavouras, e quando os grupos de fam&iacute;lias foram para suas &aacute;reas, todos j&aacute; iam com um dinheiro em caixa para iniciar a produ&ccedil;&atilde;o e organizar a comunidade.</p>
 
 <p><br />
-<strong>O que voc&ecirc; destaca destes 30 anos de organiza&ccedil;&atilde;o?</strong></p>
+&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="sc4.png" src="http://farm8.staticflickr.com/7702/17889222118_209259e38e_b.jpg" />
+<figcaption></figcaption>
+</figure>
+
+<p><strong>O que voc&ecirc; destaca destes 30 anos de organiza&ccedil;&atilde;o?</strong></p>
 
 <p><br />
 A principal virtude nossa &eacute; o resgate da dignidade humana, o resgate de milhares e milhares de fam&iacute;lias que estavam completamente abandonadas pelo sistema, e hoje, muitos s&atilde;o m&eacute;dicos formados, advogados, jornalistas, contadores, veterin&aacute;rios, agr&ocirc;nomos, professores e tantos outros.</p>
