@@ -26,7 +26,7 @@ releated_posts:
   - 2015/04/2015-04-23-pl-da-terceirizacao-pode-trazer-ainda-mais-informalidade-para-trabalhadores-rurais.md
   - 2015/04/2015-04-28-cnbb-critica-projetos-que-ameacam-conquistas-sociais-e-direitos-de-trabalhadores.md
   - 2015/04/2015-04-29-no-campo-pl-da-terceirizacao-ira-consolidar-uma-situacao-que-beira-o-insustentavel.md
-section: null
+section: featured-news
 
 ---
 <div dir="ltr">
