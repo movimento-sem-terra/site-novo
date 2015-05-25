@@ -5,9 +5,9 @@ tags:
   - tag: agronegócio
   - tag: lutas-e-mobilizações
 title: "23 de maio: Dia Mundial de Luta Contra a Monsanto"
-support_line: "Nesse 23 de maio milhares de pessoas saem às ruas de todo mundo para protestar contra a atuação e práticas da Monsanto.\n"
+support_line: Nesse 23 de maio milhares de pessoas saem às ruas de todo mundo para protestar contra a atuação e práticas da Monsanto.
 menu: agronegócio
-section: cover
+section: null
 layout: post
 files:
   - link: "http://farm6.staticflickr.com/5347/17378697434_eb66b755e1_b.jpg"
