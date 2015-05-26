@@ -16,12 +16,19 @@ files:
     small: "http://farm9.staticflickr.com/8895/18134276365_0eed4ed4b0_n.jpg"
     title: maxresdefault.jpg
     $$hashKey: 069
+  - link: "http://farm9.staticflickr.com/8898/17514115393_5f67545ffa_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8898/17514115393_5f67545ffa_t.jpg"
+    medium: "http://farm9.staticflickr.com/8898/17514115393_5f67545ffa_z.jpg"
+    small: "http://farm9.staticflickr.com/8898/17514115393_5f67545ffa_n.jpg"
+    title: IMG-20150526-WA0055.jpg
+    $$hashKey: 04U
 created_date: "2015-05-26T17:22:42-03:00"
 published: true
 images_hd: "http://farm9.staticflickr.com/8895/18134276365_0eed4ed4b0_n.jpg"
 releated_posts:
   - 2014/11/2014-10-16-plenaria-discute-os-proximos-passos-da-campanha-pela-constituinte.md
   - 2015/02/2015-02-05-plebiscito-oficial-para-impedir-contrarreforma-politica.md
+section: cover
 
 ---
 <p><br />
@@ -36,6 +43,10 @@ A principal altera&ccedil;&atilde;o proposta &eacute; a institucionaliza&ccedil;
 
 <p><br />
 Gebrim tamb&eacute;m refor&ccedil;a que a poss&iacute;vel mudan&ccedil;a do sistema eleitoral do pa&iacute;s para o distrit&atilde;o e o fim da reelei&ccedil;&atilde;o para cargos executivos s&atilde;o pontos menores das propostsa. &ldquo;A &uacute;nica coisa que interessa na C&acirc;mara dos Deputados agora &eacute; votar a constitucionalidade da doa&ccedil;&atilde;o empresarial&rdquo;, criticou.</p>
+
+<p>&nbsp;</p>
+
+<p><img alt="IMG-20150526-WA0055.jpg" height="487" src="http://farm9.staticflickr.com/8898/17514115393_5f67545ffa_b.jpg" width="700" /></p>
 
 <p><br />
 Confira a entrevista na &iacute;ntegra:</p>
