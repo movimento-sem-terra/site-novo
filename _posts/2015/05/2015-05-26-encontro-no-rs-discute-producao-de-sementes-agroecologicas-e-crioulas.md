@@ -32,6 +32,7 @@ releated_posts:
   - 2014/12/2014-12-04-a-agroecologia-e-a-solucao-para-a-fome-e-a-mudanca-climatica.md
   - 2015/04/2015-04-16-assentados-celebram-producao-recorde-no-pr.md
   - 2015/01/2014-05-19-com-o-selo-da-reforma-agraria-assentamentos-plantam-e-colhem-de-tudo-pelo-pais.md
+sector: production
 
 ---
 <figure class="image" style="float:right"><img alt="agroecologia.gif" src="http://farm8.staticflickr.com/7723/17932707448_950c196cb1_b.jpg" />
