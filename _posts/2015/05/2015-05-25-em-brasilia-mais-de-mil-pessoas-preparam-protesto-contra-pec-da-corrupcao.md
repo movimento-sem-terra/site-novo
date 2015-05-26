@@ -67,3 +67,15 @@ O PMDB, partido que mais arrecada em elei&ccedil;&otilde;es, &eacute; o maior in
 
 <p><br />
 Segundo deputado federal mais beneficiado por doa&ccedil;&otilde;es, Cunha afirmou ter arrecadado R$ 6,8 milh&otilde;es. O partido &eacute;, por sinal, o principal alvo de uma investiga&ccedil;&atilde;o da Procuradoria Geral da Rep&uacute;blica a respeito de contribui&ccedil;&otilde;es que podem ter sido abastecidas com recursos desviados da Petrobras nas elei&ccedil;&otilde;es de 2010. A Procuradoria investiga a origem de doa&ccedil;&otilde;es de empreiteiras no valor de R$ 32,8 milh&otilde;es &agrave; legenda. Para completar, Cunha est&aacute; na lista de investigados da Opera&ccedil;&atilde;o Lava Jato.</p>
+
+<p><br />
+<strong>Atropelamento</strong></p>
+
+<p><br />
+Nesta segunda-feira (25), por determina&ccedil;&atilde;o do deputado Rodrigo Maia (DEM/RJ), foi cancelada de &uacute;ltima hora a vota&ccedil;&atilde;o do relat&oacute;rio da Reforma Pol&iacute;tica na Comiss&atilde;o Especial, criada para analisar o tema. A medida, na avalia&ccedil;&atilde;o das organiza&ccedil;&otilde;es e movimentos sociais, &eacute; mais uma afronta do Parlamento a um debate s&eacute;rio sobre este tema.</p>
+
+<p><br />
+&ldquo;&Eacute; um absurdo atropelar a comiss&atilde;o especial criada por proposta da pr&oacute;pria mesa diretora, como o presidente da casa (Eduardo Cunha, PMDB-RJ) quer&rdquo;, declarou o deputado federal Jorge Solla (PT-BA).</p>
+
+<p><br />
+Tampouco a representa&ccedil;&atilde;o protocolada h&aacute; dois meses pelo deputado federal Jorge Solla (PT-BA), no Conselho Nacional de Justi&ccedil;a (CNJ), pedindo esclarecimentos ao ministro Gilmar Mendes, do Supremo Tribunal Federal (STF), por segurar a a&ccedil;&atilde;o da OAB contra o financiamento privado de campanhas pol&iacute;ticas, teve alguma resposta. Nem ter&aacute;.</p>
