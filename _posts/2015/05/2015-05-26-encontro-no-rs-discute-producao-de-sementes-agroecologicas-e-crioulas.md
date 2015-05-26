@@ -51,14 +51,13 @@ Durante o evento, que inicia nesta ter&ccedil;a-feira (26) e se estende at&eacut
 A expectativa &eacute; que a atividade re&uacute;na cerca de 400 pessoas, entre associados, produtores rurais e demais interessados no pauta da agroecologia.</p>
 
 <p><br />
-&ldquo;O encontro &eacute; muito importante para a troca de experi&ecirc;ncias, principalmente em rela&ccedil;&atilde;o &agrave; produ&ccedil;&atilde;o de sementes agroecol&oacute;gicas de hortali&ccedil;as. Os participantes ser&atilde;o orientados sobre todas as etapas<br />
-que envolvem esse processo, at&eacute; a certifica&ccedil;&atilde;o org&acirc;nica e a comercializa&ccedil;&atilde;o por meio do programa de Aquisi&ccedil;&atilde;o de Sementes&rdquo;, explica o coordenador da Bionatur, Alcemar Ad&iacute;lio Inhaia.</p>
+&ldquo;O encontro &eacute; muito importante para a troca de experi&ecirc;ncias, principalmente em rela&ccedil;&atilde;o &agrave; produ&ccedil;&atilde;o de sementes agroecol&oacute;gicas de hortali&ccedil;as. Os participantes ser&atilde;o orientados sobre todas as etapas que envolvem este processo, at&eacute; a certifica&ccedil;&atilde;o org&acirc;nica e a comercializa&ccedil;&atilde;o por meio do programa de Aquisi&ccedil;&atilde;o de Sementes&rdquo;, explica o coordenador da Bionatur, Alcemar Ad&iacute;lio Inhaia.</p>
 
 <p><br />
-Atualmente, a Bionatur produz quatro toneladas de sementes agroecol&oacute;gicas de hortali&ccedil;as por safra, que s&atilde;o vendidas para todo o Brasil.</p>
+Atualmente, a Bionatur produz quatro toneladas de sementes agroecol&oacute;gicas de hortali&ccedil;as por safra, vendidas para todo o Brasil.</p>
 
 <p><br />
-Ainda no evento, que contar&aacute; com representantes do Minist&eacute;rio da Agricultura e da Companhia Nacional de Abastecimento (Conab), haver&aacute; presta&ccedil;&atilde;o de contas dos trabalhos executados no &uacute;ltimo per&iacute;odo pela rede, al&eacute;m de feira, almo&ccedil;o e jantar ecol&oacute;gicos e shows.</p>
+O evento, que ter&aacute; representantes do Minist&eacute;rio da Agricultura e da Companhia Nacional de Abastecimento (Conab), contar&aacute; com feira, almo&ccedil;o e jantar ecol&oacute;gicos e shows.</p>
 
 <p><br />
 <strong>A Bionatur</strong></p>
@@ -103,11 +102,11 @@ Agroecologia (AOPA) (Paran&aacute;), e Marcelo Fossati, da Red Semillas (Uruguai
 
 <p><strong>12h:</strong> Almo&ccedil;o ecol&oacute;gico</p>
 
-<p><strong>13h30:</strong> A Produ&ccedil;&atilde;o e comercializa&ccedil;&atilde;o de Sementes Agroecol&oacute;gicas, visando a Expans&atilde;o da Rede Bionatur - Alcemar Ad&iacute;lio Inhaia<br />
-&nbsp;</p>
+<p><strong>13h30:</strong> A Produ&ccedil;&atilde;o e comercializa&ccedil;&atilde;o de Sementes Agroecol&oacute;gicas, visando a Expans&atilde;o da Rede Bionatur - Alcemar Ad&iacute;lio Inhaia</p>
 
-<p><strong>19h:</strong> Jantar ecol&oacute;gico<br />
-20h30: Show com Hector Rojas (Chile)</p>
+<p><strong>19h:</strong> Jantar ecol&oacute;gico</p>
+
+<p><strong>20h30:</strong> Show com Hector Rojas (Chile)</p>
 
 <p><br />
 <strong>Quinta-feira (28)</strong></p>
