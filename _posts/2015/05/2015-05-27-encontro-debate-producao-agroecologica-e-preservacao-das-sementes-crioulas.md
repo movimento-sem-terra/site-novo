@@ -31,22 +31,25 @@ releated_posts:
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Durante os dias 26 &agrave; 28 de maio, a Rede de Sementes Agroecol&oacute;gicas Bionatur realiza seu 7&deg; encontro nacional de sementes agroecol&oacute;gicas, no Assentamento Ro&ccedil;a Nova,&nbsp;munic&iacute;pio de Candiota (RS), fronteira ga&uacute;cha.</p>
+Durante os dias 26 a 28 de maio, a Rede de Sementes Agroecol&oacute;gicas Bionatur realiza seu 7&deg; encontro nacional de sementes agroecol&oacute;gicas, no Assentamento Ro&ccedil;a Nova,&nbsp;munic&iacute;pio de Candiota (RS).</p>
 
 <p><br />
-<span style="line-height: 20.7999992370605px;">Com participantes de todo o pa&iacute;s, a previs&atilde;o &eacute; de que cerca de 400 pessoas compare&ccedil;am ao evento, incluindo pessoas do Uruguai que veem socializar as experi&ecirc;ncias existentes em agroecologia.&nbsp;</span><span style="line-height: 20.7999992370605px;">O objetivo &eacute; possibilitar a troca de experi&ecirc;ncias, produtos e sementes, al&eacute;m de desfrutar da produ&ccedil;&atilde;o agroecol&oacute;gica exposta por assentados, como geleias, caf&eacute;, artesanatos, entre outros. </span></p>
+<span style="line-height: 20.7999992370605px;">Espera-se a participa&ccedil;&atilde;o de cerca de 400 pessoas de todo o pa&iacute;s, al&eacute;m de agricultores uruguaios, que vem socializar suas experi&ecirc;ncias em agroecologia.&nbsp;</span><span style="line-height: 20.7999992370605px;">O objetivo &eacute; possibilitar a troca de experi&ecirc;ncias, produtos e sementes, al&eacute;m de desfrutar da produ&ccedil;&atilde;o agroecol&oacute;gica exposta por assentados, como geleias, caf&eacute;, artesanatos, entre outros. </span></p>
 
 <p><br />
 A m&iacute;stica de abertura afirmou o car&aacute;ter do encontro de defender as sementes crioulas como patrim&ocirc;nio dos povos e combater o modelo do agroneg&oacute;cio que visa o lucro e a explora&ccedil;&atilde;o da terra.</p>
 
 <p><br />
-Para Frei S&eacute;rgio, a ofensiva do capital contra a soberania alimentar coloca novos desafios ao militante social. &ldquo;Antigamente, os revolucion&aacute;rios usavam boina e fuzil. Hoje o revolucion&aacute;rio tem&nbsp;que andar com uma semente agroecol&oacute;gica no bolso para semear por onde passa&rdquo;, afirmou.</p>
+Para Frei S&eacute;rgio, a ofensiva do capital contra a soberania alimentar coloca novos desafios ao militante social. &ldquo;Antigamente, os revolucion&aacute;rios usavam boina e fuzil. Hoje o revolucion&aacute;rio tem&nbsp;que andar com uma semente agroecol&oacute;gica no bolso para semear por onde passa&rdquo;, disse.</p>
 
 <p><br />
-Nesse sentido o encontro pretende afirmar que a produ&ccedil;&atilde;o agroecol&oacute;gica tem que ser da na&ccedil;&atilde;o para a na&ccedil;&atilde;o, visando &agrave; soberania alimentar, a sa&uacute;de humana e a preserva&ccedil;&atilde;o das sementes crioulas. E a Bionatur&nbsp;&eacute; colocada ai como uma trincheira de produ&ccedil;&atilde;o agroecol&oacute;gica, de luta pol&iacute;tica e ideol&oacute;gica.</p>
+Nesse sentido o encontro pretende afirmar que a produ&ccedil;&atilde;o agroecol&oacute;gica tem que ser da na&ccedil;&atilde;o para a na&ccedil;&atilde;o, visando a soberania alimentar, a sa&uacute;de humana e a preserva&ccedil;&atilde;o das sementes crioulas. E a Bionatur&nbsp;&eacute; colocada como uma trincheira de produ&ccedil;&atilde;o agroecol&oacute;gica, de luta pol&iacute;tica e ideol&oacute;gica.</p>
 
 <p><br />
-Jo&atilde;o Pedro St&eacute;dile, da coordena&ccedil;&atilde;o nacional do MST, afirma que o agroneg&oacute;cio &eacute; invi&aacute;vel a m&eacute;dio e longo prazo, pois &eacute; predador da natureza, n&atilde;o consegue conviver com o meio ambiente e co-existir com a l&oacute;gica camponesa de produ&ccedil;&atilde;o.&nbsp;Sua associa&ccedil;&atilde;o ao capital financeiro &eacute; antag&ocirc;nico ao modelo de produ&ccedil;&atilde;o familiar, que visa fundamentalmente a alimenta&ccedil;&atilde;o saud&aacute;vel e diferentes modos de exist&ecirc;ncia que fazem contraponto ao lucro capitalista. Por isso a defesa da agroecologia&nbsp;tem que ser feita em todos os espa&ccedil;os.</p>
+Jo&atilde;o Pedro Stedile, da coordena&ccedil;&atilde;o nacional do MST, ressaltou que o modelo do agroneg&oacute;cio &eacute; invi&aacute;vel a m&eacute;dio e longo prazo, j&aacute; que destr&oacute;i a natureza e &eacute; incompat&iacute;vel com a l&oacute;gica camponesa de produ&ccedil;&atilde;o.&nbsp;</p>
+
+<p><br />
+A associa&ccedil;&atilde;o do agroneg&oacute;cio ao capital financeiro seria antag&ocirc;nico ao modelo de produ&ccedil;&atilde;o familiar, disse Stedile, j&aacute; que o segundo visa fundamentalmente a alimenta&ccedil;&atilde;o saud&aacute;vel e diferentes modos de exist&ecirc;ncia que fazem contraponto ao lucro capitalista. Por isso a defesa da agroecologia&nbsp;tem que ser feita em todos os espa&ccedil;os.</p>
 
 <p><br />
 <strong>A Bionatur</strong></p>
