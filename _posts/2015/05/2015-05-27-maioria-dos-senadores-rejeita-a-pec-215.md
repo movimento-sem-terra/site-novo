@@ -15,9 +15,15 @@ files:
     small: "http://farm9.staticflickr.com/8868/17975893809_51ab74d2b8_n.jpg"
     title: indios-do-brasil-685x320.jpg
     $$hashKey: 11H
+  - link: "http://farm8.staticflickr.com/7753/18136148276_53c208345f_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7753/18136148276_53c208345f_t.jpg"
+    medium: "http://farm8.staticflickr.com/7753/18136148276_53c208345f_z.jpg"
+    small: "http://farm8.staticflickr.com/7753/18136148276_53c208345f_n.jpg"
+    title: pec215nao.jpg
+    $$hashKey: 07N
 created_date: "2015-05-27T11:39:09-03:00"
 published: true
-images_hd: "http://farm9.staticflickr.com/8868/17975893809_51ab74d2b8_n.jpg"
+images_hd: "http://farm8.staticflickr.com/7753/18136148276_53c208345f_n.jpg"
 releated_posts:
   - 2015/02/2015-02-12-pec-215-volta-a-ameacar-direitos-indigenas.md
   - 2015/04/2015-04-30-stf-abre-investigacao-contra-presidente-de-comissao-da-pec-215.md
