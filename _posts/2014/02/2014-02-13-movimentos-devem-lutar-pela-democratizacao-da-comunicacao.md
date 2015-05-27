@@ -2,7 +2,7 @@
 layout: post
 title: Movimentos devem lutar pela democratização da comunicação
 legacy_url: http://www.mst.org.br/node/15718
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/marcha1222.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/marcha1222.jpg
 video: ''
 tags:
 - tag: '6'
@@ -14,7 +14,7 @@ support_line: A imprensa realizou uma cobertura tendenciosa da marcha do 6º Con
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/marcha1222.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/marcha1222.jpg
 label: 
 published: true
 menu: lutas e mobilizações

@@ -3,7 +3,7 @@ layout: post
 title: Para especialista, estrutura do judiciário não permite solucionar conflitos
   agrários
 legacy_url: http://www.mst.org.br/node/15861
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/estrutura
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/estrutura
   judiciário.jpg
 video: ''
 tags:
@@ -17,7 +17,7 @@ support_line: Em artigo, Carlos Marés diz que o Poder  Judiciário, "tal como e
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/estrutura judiciário.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/estrutura judiciário.jpg
 label: 
 published: true
 menu: direitos humanos

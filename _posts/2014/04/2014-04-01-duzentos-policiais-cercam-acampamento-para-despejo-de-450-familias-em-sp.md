@@ -2,7 +2,7 @@
 layout: post
 title: Duzentos policiais cercam acampamento para despejo de 450 famílias, em SP
 legacy_url: http://www.mst.org.br/node/15914
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/presa.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/presa.jpg
 video: ''
 tags:
 - tag: despejo
@@ -14,7 +14,7 @@ support_line: Há diversos processos de execução fiscal movido contra a Usina 
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/presa.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/presa.jpg
 label: 
 published: true
 menu: reforma agrária

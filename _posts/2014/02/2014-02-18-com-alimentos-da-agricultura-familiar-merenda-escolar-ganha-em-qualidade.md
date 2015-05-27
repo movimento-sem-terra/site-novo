@@ -2,7 +2,7 @@
 layout: post
 title: Com alimentos da agricultura familiar, merenda escolar ganha em qualidade
 legacy_url: http://www.mst.org.br/node/15742
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/merenda.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/merenda.jpg
 video: ''
 tags:
 - tag: paa
@@ -14,7 +14,7 @@ support_line: Programa de aquisição de alimentos fortalece agricultura familia
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/merenda.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/merenda.jpg
 label: 
 published: true
 menu: reforma agrária

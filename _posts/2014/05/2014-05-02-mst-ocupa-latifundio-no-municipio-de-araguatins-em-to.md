@@ -2,7 +2,7 @@
 layout: post
 title: MST ocupa latifúndio no município de Araguatins em TO
 legacy_url: http://www.mst.org.br/node/16046
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/ocupa TO.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/ocupa TO.jpg
 video: ''
 tags:
 - tag: jornada de lutas abril 2014
@@ -13,7 +13,7 @@ support_line: Mobilização ocorre em jornada de lutas do Movimento, para denunc
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/ocupa TO.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/ocupa TO.jpg
 label: 
 published: true
 menu: lutas e mobilizações

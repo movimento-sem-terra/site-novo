@@ -51,7 +51,7 @@ J&aacute; para o deputado federal Marcon (PT-RS), assentado da Reforma Agr&aacut
 <p><br />
 &ldquo;Aqui a Uni&atilde;o Democr&aacute;tica Ruralista ainda &eacute; presente. Eles n&atilde;o conhecem que o MST se relaciona com diversos pa&iacute;ses latinoamericanos, da Europa, de todos os continentes&rdquo;, argumentou.&nbsp;</p>
 
-<p><img alt="" height="400" src="http://www.mst.org.br/sites/default/files/30anoscamara2_0.jpg" style="margin: 10px;" width="600" /><br />
+<p><img alt="" height="400" src="http://www.antigo.mst.org.br/sites/default/files/30anoscamara2_0.jpg" style="margin: 10px;" width="600" /><br />
 <br />
 <b>Unidade Camponesa</b></p>
 

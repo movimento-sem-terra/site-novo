@@ -2,7 +2,7 @@
 layout: post
 title: Vídeo mostra resistência a transgênicos no Paraná
 legacy_url: http://www.mst.org.br/node/15676
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/video.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/video.jpg
 video: ''
 tags:
 - tag: destaque
@@ -13,7 +13,7 @@ support_line: ''
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/video.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/video.jpg
 label: 
 published: true
 menu: transgênicos

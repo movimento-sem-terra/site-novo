@@ -2,7 +2,7 @@
 layout: post
 title: Assentamento 26 de Março completa quinze anos no Pará
 legacy_url: http://www.mst.org.br/node/15892
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/26 de março.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/26 de março.jpg
 video: ''
 tags:
 - tag: reforma agrária
@@ -13,7 +13,7 @@ support_line: O Assentamento 26 de Março é o primeiro na história do Brasil c
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/26 de março.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/26 de março.jpg
 label: 
 published: true
 menu: reforma agrária

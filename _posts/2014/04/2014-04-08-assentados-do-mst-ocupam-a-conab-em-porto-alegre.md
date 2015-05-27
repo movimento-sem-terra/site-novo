@@ -2,7 +2,7 @@
 layout: post
 title: Assentados do MST ocupam a Conab, em Porto Alegre
 legacy_url: http://www.mst.org.br/node/15937
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/Sem Terra.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/Sem Terra.jpg
 video: ''
 tags:
 - tag: rio grande do sul
@@ -15,7 +15,7 @@ support_line: Os assentados exigem a retomada dos programas da Conab, parados de
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/Sem Terra.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/Sem Terra.jpg
 label: 
 published: true
 menu: lutas e mobilizações

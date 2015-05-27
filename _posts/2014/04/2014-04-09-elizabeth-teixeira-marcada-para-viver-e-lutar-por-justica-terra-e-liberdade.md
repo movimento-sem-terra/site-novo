@@ -2,7 +2,7 @@
 layout: post
 title: 'Elizabeth Teixeira: marcada para viver e lutar por justiça, terra e liberdade'
 legacy_url: http://www.mst.org.br/node/15949
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/elisabeth
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/elisabeth
   abre.jpg
 video: ''
 tags:
@@ -14,7 +14,7 @@ support_line: '"Tive que fugir para o Rio Grande do Norte, onde ninguém me conh
 section: debate
 hat: 50 anos do Golpe
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/elisabeth abre.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/elisabeth abre.jpg
 label: 
 published: true
 menu: lutadores e lutadoras do povo

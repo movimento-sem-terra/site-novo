@@ -2,7 +2,7 @@
 layout: post
 title: 'Valmir Assunção: E como ficam os patrocínios do agronegócio?'
 legacy_url: http://www.mst.org.br/node/15776
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/charge-latuff-agro_comendo!.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/charge-latuff-agro_comendo!.jpg
 video: ''
 tags:
 - tag: agronegócio
@@ -13,7 +13,7 @@ support_line: 'Há pelo menos 10 anos a ladainha é a mesma: trabalhador não po
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/charge-latuff-agro_comendo!.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/charge-latuff-agro_comendo!.jpg
 label: 
 published: true
 menu: agronegócio

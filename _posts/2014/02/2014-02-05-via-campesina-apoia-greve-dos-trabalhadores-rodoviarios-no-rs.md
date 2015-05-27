@@ -2,7 +2,7 @@
 layout: post
 title: Via Campesina apoia greve dos trabalhadores rodoviários no RS
 legacy_url: http://www.mst.org.br/node/15673
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/greve rs2.JPG
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/greve rs2.JPG
 video: ''
 tags:
 - tag: lutas e mobilizações
@@ -12,7 +12,7 @@ support_line: A Via Campesina no Rio Grande do Sul, em nota, manifesta seu apoio
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/greve rs2.JPG
+images_hd: http://www.antigo.mst.org.br/sites/default/files/greve rs2.JPG
 label: 
 published: true
 menu: lutas e mobilizações

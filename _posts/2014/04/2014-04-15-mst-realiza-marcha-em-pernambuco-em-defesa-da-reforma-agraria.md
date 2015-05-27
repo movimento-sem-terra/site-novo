@@ -2,7 +2,7 @@
 layout: post
 title: 'MST realiza marcha em Pernambuco em defesa da Reforma Agrária '
 legacy_url: http://www.mst.org.br/node/15972
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/mst-2555.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/mst-2555.jpg
 video: ''
 tags:
 - tag: jornada de lutas abril 2014
@@ -13,7 +13,7 @@ support_line: A mobilização também relembra o massacre dos 21 trabalhadores m
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/mst-2555.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/mst-2555.jpg
 label: 
 published: true
 menu: lutas e mobilizações

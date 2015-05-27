@@ -2,7 +2,7 @@
 layout: post
 title: Show “Todos por Um” reuniu artistas em solidariedade a militante do MST
 legacy_url: http://www.mst.org.br/node/15953
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/todos por
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/todos por
   um.jpg
 video: ''
 tags:
@@ -13,7 +13,7 @@ support_line: O evento teve participação de 15 cantores e teve como objetivo a
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/todos por um.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/todos por um.jpg
 label: 
 published: true
 menu: educação, cultura e comunicação

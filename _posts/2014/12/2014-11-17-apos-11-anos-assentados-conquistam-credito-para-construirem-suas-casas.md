@@ -43,7 +43,7 @@ De acordo com o superintendente da CAIXA, Elam Nascimento, a assinatura dos cont
 <p><br />
 &ldquo;Eu quero dizer que somem a felicidade de cada um de voc&ecirc;s, que n&atilde;o vai superar a que n&oacute;s representantes da CAIXA estamos sentindo neste momento&rdquo;, disse.</p>
 
-<p><img _fcksavedurl="/sites/default/files/casas%20para%20assentados%20na%20PB.jpg" alt="" height="401" src="http://www.mst.org.br/sites/default/files/casas%20para%20assentados%20na%20PB.jpg" style="margin: 10px;" width="600" /></p>
+<p><img _fcksavedurl="/sites/default/files/casas%20para%20assentados%20na%20PB.jpg" alt="" height="401" src="http://www.antigo.mst.org.br/sites/default/files/casas%20para%20assentados%20na%20PB.jpg" style="margin: 10px;" width="600" /></p>
 
 <p><strong>11 anos de espera</strong></p>
 

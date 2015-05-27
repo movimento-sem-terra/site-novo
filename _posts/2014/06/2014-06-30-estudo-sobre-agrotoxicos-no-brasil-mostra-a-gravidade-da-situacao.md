@@ -2,7 +2,7 @@
 layout: post
 title: Estudo sobre agrotóxicos no Brasil mostra a gravidade da situação
 legacy_url: http://www.mst.org.br/node/16252
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/paracatu-site.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/paracatu-site.jpg
 video: ''
 tags:
 - tag: agrotóxicos
@@ -14,7 +14,7 @@ support_line: A publicação também apresenta relatos de várias ocorrências n
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/paracatu-site.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/paracatu-site.jpg
 label: 
 published: true
 menu: agronegócio

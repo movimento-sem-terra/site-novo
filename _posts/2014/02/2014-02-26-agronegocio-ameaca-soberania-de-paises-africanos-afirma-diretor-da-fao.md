@@ -2,7 +2,7 @@
 layout: post
 title: Agronegócio ameaça soberania de países africanos, afirma diretor da FAO
 legacy_url: http://www.mst.org.br/node/15773
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/moçambique.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/moçambique.jpg
 video: ''
 tags:
 - tag: agronegócio
@@ -14,7 +14,7 @@ support_line: O diretor-geral da FAO, o brasileiro José Graziano da Silva, aler
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/moçambique.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/moçambique.jpg
 label: 
 published: true
 menu: agronegócio

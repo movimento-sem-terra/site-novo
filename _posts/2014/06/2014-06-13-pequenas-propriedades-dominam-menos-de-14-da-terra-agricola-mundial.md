@@ -2,7 +2,7 @@
 layout: post
 title: Pequenas propriedades dominam menos de 1/4 da terra agrícola mundial
 legacy_url: http://www.mst.org.br/node/16217
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/reformaagraria.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/reformaagraria.jpg
 video: ''
 tags:
 - tag: manchete
@@ -14,7 +14,7 @@ support_line: Uma nova pesquisa revela que as pequenas propriedades estão em me
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/reformaagraria.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/reformaagraria.jpg
 label: 
 published: true
 menu: reforma agrária

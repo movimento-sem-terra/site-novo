@@ -41,7 +41,7 @@ Da discuss&atilde;o, ficou claro que a quest&atilde;o da luta pela terra no atua
 A mesa de debate foi composta por Vilson Santin, da dire&ccedil;&atilde;o nacional do Movimento, Jos&eacute; Batista, militante do MST de S&atilde;o Paulo, e o membro da dire&ccedil;&atilde;o estadual do MST, tamb&eacute;m Jos&eacute; Batista.&nbsp;</p>
 
 <p><br />
-<img alt="" height="298" src="http://www.mst.org.br/sites/default/files/encontro_MS2.jpg" style="margin:10px; float:left" width="450" />De acordo com Jos&eacute; Batista (MST/SP), na concep&ccedil;&atilde;o do MST, a Reforma Agr&aacute;ria perpassa necessariamente pela qualidade de vida da sociedade brasileira. Para ele, &eacute; preciso &ldquo;lutar pela garantia da soberania alimentar, ou seja, o direito dos povos decidirem sobre o que plantar, quanto e como plantar, e que a produ&ccedil;&atilde;o seja prioritariamente destinada &agrave; alimenta&ccedil;&atilde;o&rdquo;.</p>
+<img alt="" height="298" src="http://www.antigo.mst.org.br/sites/default/files/encontro_MS2.jpg" style="margin:10px; float:left" width="450" />De acordo com Jos&eacute; Batista (MST/SP), na concep&ccedil;&atilde;o do MST, a Reforma Agr&aacute;ria perpassa necessariamente pela qualidade de vida da sociedade brasileira. Para ele, &eacute; preciso &ldquo;lutar pela garantia da soberania alimentar, ou seja, o direito dos povos decidirem sobre o que plantar, quanto e como plantar, e que a produ&ccedil;&atilde;o seja prioritariamente destinada &agrave; alimenta&ccedil;&atilde;o&rdquo;.</p>
 
 <p><br />
 Batista disse ainda que nos &uacute;ltimos anos a agricultura e a luta pela terra passaram por transforma&ccedil;&otilde;es significativas e preocupantes.&nbsp;</p>

@@ -2,7 +2,7 @@
 layout: post
 title: Organizações denunciam posição antidemocrática da Folha e Estadão
 legacy_url: http://www.mst.org.br/node/15852
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/irma!.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/irma!.jpg
 video: ''
 tags:
 - tag: manchete
@@ -14,7 +14,7 @@ support_line: Oso editoriais atacam propostas de mediação de conflitos fundiá
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/irma!.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/irma!.jpg
 label: 
 published: true
 menu: direitos humanos

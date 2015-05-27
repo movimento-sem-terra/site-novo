@@ -28,7 +28,7 @@ images_hd: http://farm8.staticflickr.com/7554/15767496127_984afc4dc4_n.jpg
 Neste domingo (16), 200 fam&iacute;lias organizadas pelo MST ocuparam a fazenda Ch&aacute;cara 39, no N&uacute;cleo Rural Pipiripau, no Distrito Federal.&nbsp;</p>
 
 <p><br />
-<img alt="" height="267" src="http://www.mst.org.br/sites/default/files/ocupa%C3%A7%C3%A3o_terracap.jpg" style="margin:10px; float:left" width="400" />A &aacute;rea, de propriedade da Companhia Imobili&aacute;ria de Bras&iacute;lia (Terracap), &eacute; utilizada de forma irregular por particulares.</p>
+<img alt="" height="267" src="http://www.antigo.mst.org.br/sites/default/files/ocupa%C3%A7%C3%A3o_terracap.jpg" style="margin:10px; float:left" width="400" />A &aacute;rea, de propriedade da Companhia Imobili&aacute;ria de Bras&iacute;lia (Terracap), &eacute; utilizada de forma irregular por particulares.</p>
 
 <p><br />
 Com a ocupa&ccedil;&atilde;o, os trabalhadores reivindicam agilidade no processo de destina&ccedil;&atilde;o de terras para a Reforma Agr&aacute;ria, principalmente das &aacute;reas j&aacute; apresentadas &agrave; Terracap e &agrave; Secretaria de Agricultura do Distrito Federal.</p>
@@ -43,7 +43,7 @@ A a&ccedil;&atilde;o comp&otilde;e a Jornada Distrital pela Terra, Democracia e 
 Na &uacute;ltima quinta-feira (13), cerca de 1500 trabalhadores rurais de nove movimentos sociais de luta pela terra do DF j&aacute; haviam ocupado a Terracap e a Secretaria de Agricultura do Distrito Federal.&nbsp;</p>
 
 <p><br />
-<i><img alt="" height="300" src="http://www.mst.org.br/sites/default/files/ocupa%C3%A7%C3%A3o_terracap2.jpg" style="margin:10px; float:right" width="450" /></i>A a&ccedil;&atilde;o, organizada pelo MST, MBST, MLT, MTD, Fetraf, FetaDF/Contag; Unibras, MATR e FNL, tamb&eacute;m fazia parte da Jornada Distrital pela Terra, Democracia e Vida.</p>
+<i><img alt="" height="300" src="http://www.antigo.mst.org.br/sites/default/files/ocupa%C3%A7%C3%A3o_terracap2.jpg" style="margin:10px; float:right" width="450" /></i>A a&ccedil;&atilde;o, organizada pelo MST, MBST, MLT, MTD, Fetraf, FetaDF/Contag; Unibras, MATR e FNL, tamb&eacute;m fazia parte da Jornada Distrital pela Terra, Democracia e Vida.</p>
 
 <p><br />
 Com as ocupa&ccedil;&otilde;es, os movimentos sociais tamb&eacute;m chamam aten&ccedil;&atilde;o para a urg&ecirc;ncia de uma reforma pol&iacute;tica e da democratiza&ccedil;&atilde;o dos meios de comunica&ccedil;&atilde;o no pa&iacute;s.</p>

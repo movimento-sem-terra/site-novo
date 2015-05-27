@@ -2,7 +2,7 @@
 layout: post
 title: 'Exposição Fotográfica: MST - 25 anos de lutas de conquistas'
 legacy_url: http://www.mst.org.br/node/8794
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/exposicao_capa
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/exposicao_capa
   copy.jpg
 video: ''
 tags: []
@@ -11,7 +11,7 @@ support_line: ''
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/exposicao_capa copy.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/exposicao_capa copy.jpg
 label: journeys
 published: true
 date: '2009-12-10T16:35:19-02:00'

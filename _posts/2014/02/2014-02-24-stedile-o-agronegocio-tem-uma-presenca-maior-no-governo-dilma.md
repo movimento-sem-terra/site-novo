@@ -2,7 +2,7 @@
 layout: post
 title: 'Stedile: "O Agronegócio tem uma presença maior no governo Dilma"'
 legacy_url: http://www.mst.org.br/node/15766
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/joao pedro.JPG
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/joao pedro.JPG
 video: ''
 tags:
 - tag: entrevistas
@@ -13,7 +13,7 @@ support_line: Stedile diz que  confronto com a polícia "arrancou" espaço na ag
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/joao pedro.JPG
+images_hd: http://www.antigo.mst.org.br/sites/default/files/joao pedro.JPG
 label: 
 published: true
 menu: agronegócio

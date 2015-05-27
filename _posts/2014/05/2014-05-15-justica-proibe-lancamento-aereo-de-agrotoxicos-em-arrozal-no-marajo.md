@@ -2,7 +2,7 @@
 layout: post
 title: Justiça proíbe lançamento aéreo de agrotóxicos em arrozal no Marajó
 legacy_url: http://www.mst.org.br/node/16102
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/aviao!.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/aviao!.jpg
 video: ''
 tags:
 - tag: pará
@@ -15,7 +15,7 @@ support_line: “É importante ressaltar que, por razões de segurança operacio
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/aviao!.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/aviao!.jpg
 label: 
 published: true
 menu: agronegócio

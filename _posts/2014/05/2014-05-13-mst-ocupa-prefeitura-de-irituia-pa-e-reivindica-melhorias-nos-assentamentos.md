@@ -2,7 +2,7 @@
 layout: post
 title: MST ocupa prefeitura de Irituia (PA) e reivindica melhorias nos assentamentos
 legacy_url: http://www.mst.org.br/node/16093
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/images.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/images.jpg
 video: ''
 tags:
 - tag: pará
@@ -15,7 +15,7 @@ support_line: Na manhã desta terça-feira (13), famílias ligadas ao MST ocupar
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/images.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/images.jpg
 label: 
 published: true
 menu: lutas e mobilizações

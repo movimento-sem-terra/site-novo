@@ -52,7 +52,7 @@ At&eacute; o momento, o CEE do Paran&aacute; n&atilde;o se pronunciou sobre o pe
 A Organiza&ccedil;&atilde;o Mundial de Sa&uacute;de (OMS) estima que, anualmente, 500 mil a 1 milh&atilde;o de pessoas sofrem contamina&ccedil;&otilde;es graves por agrot&oacute;xicos, das quais de 5 a 10 mil casos s&atilde;o fatais. Somente no Paran&aacute;, entre 1982 e 1990, mais de nove mil pessoas foram contaminadas por agrot&oacute;xicos, determinando a morte de 546 pessoas.</p>
 
 <p><br />
-Para conferir o parecer do MP, clique <a href="http://www.mst.org.br/sites/default/files/ParecerTecnicoAgrinho.pdf">aqui.</a></p>
+Para conferir o parecer do MP, clique <a href="http://www.antigo.mst.org.br/sites/default/files/ParecerTecnicoAgrinho.pdf">aqui.</a></p>
 
 <p><br />
 <strong>&ldquo;Partido do Agroneg&oacute;cio&rdquo;</strong></p>

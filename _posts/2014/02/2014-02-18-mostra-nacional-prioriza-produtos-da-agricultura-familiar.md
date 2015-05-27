@@ -2,7 +2,7 @@
 layout: post
 title: 'Mostra Nacional prioriza produtos da agricultura familiar '
 legacy_url: http://www.mst.org.br/node/15747
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/FOTO ELITIEL
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/FOTO ELITIEL
   GUEDES (1).JPG
 video: ''
 tags:
@@ -16,7 +16,7 @@ support_line: Para apresentar a diversidade cultural e a  produção camponesa d
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/FOTO ELITIEL GUEDES (1).JPG
+images_hd: http://www.antigo.mst.org.br/sites/default/files/FOTO ELITIEL GUEDES (1).JPG
 label: 
 published: true
 menu: reforma agrária

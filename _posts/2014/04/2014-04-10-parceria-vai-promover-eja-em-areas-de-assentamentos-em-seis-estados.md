@@ -2,7 +2,7 @@
 layout: post
 title: Parceria vai promover EJA em áreas de assentamentos em seis estados
 legacy_url: http://www.mst.org.br/node/15956
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/eja2.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/eja2.jpg
 video: ''
 tags:
 - tag: educação, cultura e comunicação
@@ -13,7 +13,7 @@ support_line: Ceará, Alagoas, Piauí, Maranhão, São Paulo e Rio Grande do Nor
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/eja2.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/eja2.jpg
 label: 
 published: true
 menu: educação, cultura e comunicação

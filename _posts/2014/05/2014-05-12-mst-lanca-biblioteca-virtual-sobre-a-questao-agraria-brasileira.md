@@ -2,7 +2,7 @@
 layout: post
 title: MST lança Biblioteca Virtual sobre a questão agrária brasileira
 legacy_url: http://www.mst.org.br/node/16088
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/livroabre.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/livroabre.jpg
 video: ''
 tags:
 - tag: questão agrária
@@ -13,7 +13,7 @@ support_line: Com mais de 1600 arquivos já disponíveis, o objetivo é  reunir,
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/livroabre.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/livroabre.jpg
 label: 
 published: true
 menu: educação, cultura e comunicação

@@ -2,7 +2,7 @@
 layout: post
 title: Vinte e dois estados participam da 3º Plenária do Plebiscito pela Constituinte
 legacy_url: http://www.mst.org.br/node/16107
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/plenaria
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/plenaria
   plebiscito!.png
 video: ''
 tags:
@@ -16,7 +16,7 @@ support_line: Comitês se organizam para debater a proposta de uma nova Constitu
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/plenaria plebiscito!.png
+images_hd: http://www.antigo.mst.org.br/sites/default/files/plenaria plebiscito!.png
 label: 
 published: true
 menu: projeto popular

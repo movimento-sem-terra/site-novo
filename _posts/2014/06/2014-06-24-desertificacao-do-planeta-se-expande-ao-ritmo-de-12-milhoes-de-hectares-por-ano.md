@@ -3,7 +3,7 @@ layout: post
 title: Desertificação do planeta se expande ao ritmo de 12 milhões de hectares por
   ano
 legacy_url: http://www.mst.org.br/node/16235
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/desertificação.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/desertificação.jpg
 video: ''
 tags:
 - tag: agronegócio
@@ -15,7 +15,7 @@ support_line: Imaginemos uma extensão de território árido, que se estende por
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/desertificação.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/desertificação.jpg
 label: 
 published: true
 menu: meio ambiente

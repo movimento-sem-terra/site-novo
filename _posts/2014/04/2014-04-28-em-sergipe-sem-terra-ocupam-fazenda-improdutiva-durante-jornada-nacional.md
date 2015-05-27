@@ -2,7 +2,7 @@
 layout: post
 title: Em Sergipe, Sem Terra ocupam fazenda improdutiva durante jornada nacional
 legacy_url: http://www.mst.org.br/node/16018
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/elemar.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/elemar.jpg
 video: ''
 tags:
 - tag: sergipe
@@ -15,7 +15,7 @@ support_line: Cerca de 90 famílias ocuparam a Fazenda São Raimundo, no Povoado
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/elemar.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/elemar.jpg
 label: 
 published: true
 menu: lutas e mobilizações

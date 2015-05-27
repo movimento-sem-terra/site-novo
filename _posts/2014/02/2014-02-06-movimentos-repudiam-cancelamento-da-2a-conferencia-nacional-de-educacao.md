@@ -2,7 +2,7 @@
 layout: post
 title: Movimentos repudiam cancelamento da 2ª Conferência Nacional de Educação
 legacy_url: http://www.mst.org.br/node/15674
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/escola!.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/escola!.jpg
 video: ''
 tags:
 - tag: educação
@@ -14,7 +14,7 @@ support_line: Entre os dias 17 a 21/02 estava marcado para acontecer a 2ª Conae
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/escola!.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/escola!.jpg
 label: 
 published: true
 menu: educação, cultura e comunicação

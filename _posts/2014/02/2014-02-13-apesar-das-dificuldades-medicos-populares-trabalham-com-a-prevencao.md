@@ -2,7 +2,7 @@
 layout: post
 title: Apesar das dificuldades médicos populares trabalham com a prevenção
 legacy_url: http://www.mst.org.br/node/15720
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/cafe.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/cafe.jpg
 video: ''
 tags:
 - tag: educação, cultura e comunicação
@@ -12,7 +12,7 @@ support_line: Médicos populares ressaltam que na política de saúde rural não
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/cafe.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/cafe.jpg
 label: 
 published: true
 menu: educação, cultura e comunicação

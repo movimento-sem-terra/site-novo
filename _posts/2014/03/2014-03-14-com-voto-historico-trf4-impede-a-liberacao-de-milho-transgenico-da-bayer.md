@@ -12,7 +12,7 @@ support_line: Decisão cria paradigmas jurídicos e poderá  servir para que se 
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/milho blehabre.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/milho blehabre.jpg
 label: 
 published: true
 menu: transgênicos

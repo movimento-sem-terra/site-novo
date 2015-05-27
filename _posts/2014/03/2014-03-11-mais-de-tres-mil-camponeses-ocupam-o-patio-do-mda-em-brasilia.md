@@ -2,7 +2,7 @@
 layout: post
 title: Mais de três mil camponeses ocupam o pátio do MDA em Brasília
 legacy_url: http://www.mst.org.br/node/15823
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/mcp.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/mcp.jpg
 video: ''
 tags:
 - tag: brasília
@@ -15,7 +15,7 @@ support_line: A atividade integra a “Jornada de Luta em Defesa da Produção d
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/mcp.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/mcp.jpg
 label: 
 published: true
 menu: lutas e mobilizações

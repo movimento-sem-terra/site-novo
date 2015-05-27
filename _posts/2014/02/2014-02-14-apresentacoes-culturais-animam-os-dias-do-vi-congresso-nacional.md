@@ -2,7 +2,7 @@
 layout: post
 title: Apresentações culturais animam os dias do VI Congresso Nacional
 legacy_url: http://www.mst.org.br/node/15730
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/cultural.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/cultural.jpg
 video: ''
 tags:
 - tag: 6° congresso nacional
@@ -14,7 +14,7 @@ support_line: As apresentações culturais animaram os intervalos e noites do VI
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/cultural.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/cultural.jpg
 label: 
 published: true
 menu: reforma agrária

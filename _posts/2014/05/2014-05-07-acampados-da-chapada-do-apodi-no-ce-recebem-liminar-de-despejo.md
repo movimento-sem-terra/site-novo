@@ -2,7 +2,7 @@
 layout: post
 title: 'Acampados da Chapada do Apodi no CE recebem liminar de despejo '
 legacy_url: http://www.mst.org.br/node/16069
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/apodi elitiel.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/apodi elitiel.jpg
 video: ''
 tags:
 - tag: ceará
@@ -14,7 +14,7 @@ support_line: Mil trabalhadores do MST, CPT e Movimento 21 estão acampados desd
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/apodi elitiel.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/apodi elitiel.jpg
 label: 
 published: true
 menu: lutas e mobilizações

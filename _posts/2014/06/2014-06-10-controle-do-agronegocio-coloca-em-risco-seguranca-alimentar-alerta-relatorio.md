@@ -2,7 +2,7 @@
 layout: post
 title: Controle do agronegócio coloca em risco segurança alimentar, alerta relatório
 legacy_url: http://www.mst.org.br/node/16204
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/portinario2.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/portinario2.jpg
 video: ''
 tags:
 - tag: agronegócio
@@ -14,7 +14,7 @@ support_line: Três empresas controlam 53% do mercado mundial de sementes, seis 
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/portinario2.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/portinario2.jpg
 label: 
 published: true
 menu: agronegócio

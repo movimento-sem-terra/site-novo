@@ -2,7 +2,7 @@
 layout: post
 title: Jagunços recebem camponeses à bala e atinge Sem Terra, na Paraíba
 legacy_url: http://www.mst.org.br/node/15888
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/jagunço!.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/jagunço!.jpg
 video: ''
 tags:
 - tag: paraíba
@@ -15,7 +15,7 @@ support_line: Nesta segunda-feira (24), 80 famílias Sem Terra ocuparam a Fazend
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/jagunço!.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/jagunço!.jpg
 label: 
 published: true
 menu: lutas e mobilizações

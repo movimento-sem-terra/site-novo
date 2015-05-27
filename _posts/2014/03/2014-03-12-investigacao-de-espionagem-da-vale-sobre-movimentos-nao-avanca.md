@@ -2,7 +2,7 @@
 layout: post
 title: Investigação de espionagem da Vale sobre movimentos não avança
 legacy_url: http://www.mst.org.br/node/15833
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/vale.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/vale.jpg
 video: ''
 tags:
 - tag: direitos humanos
@@ -14,7 +14,7 @@ support_line: Diante disto, organizações de direitos humanos estão agindo no 
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/vale.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/vale.jpg
 label: 
 published: true
 menu: direitos humanos

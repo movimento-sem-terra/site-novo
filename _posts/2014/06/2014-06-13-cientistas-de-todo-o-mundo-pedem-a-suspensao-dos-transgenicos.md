@@ -2,7 +2,7 @@
 layout: post
 title: Cientistas de todo o mundo pedem a suspensão dos transgênicos
 legacy_url: http://www.mst.org.br/node/16213
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/transgenicos.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/transgenicos.jpg
 video: ''
 tags:
 - tag: agronegócio
@@ -13,7 +13,7 @@ support_line: Em carta aberta, os cientistas se demonstram extremamente preocupa
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/transgenicos.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/transgenicos.jpg
 label: 
 published: true
 menu: transgênicos

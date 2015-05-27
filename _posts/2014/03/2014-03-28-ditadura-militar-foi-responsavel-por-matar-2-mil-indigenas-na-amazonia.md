@@ -2,7 +2,7 @@
 layout: post
 title: 'Ditadura militar foi responsável por matar 2 mil indígenas na Amazônia '
 legacy_url: http://www.mst.org.br/node/15898
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/indios!.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/indios!.jpg
 video: ''
 tags:
 - tag: direitos humanos
@@ -14,7 +14,7 @@ support_line: Levantamento sobre inconsequentes ações dos governos militares f
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/indios!.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/indios!.jpg
 label: 
 published: true
 menu: direitos humanos

@@ -2,7 +2,7 @@
 layout: post
 title: Milhões de abelhas morrem por causa de agrotóxicos da Bayer e Syngenta
 legacy_url: http://www.mst.org.br/node/15735
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/abelhas.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/abelhas.jpg
 video: ''
 tags:
 - tag: agrotóxicos
@@ -14,7 +14,7 @@ support_line: Um estudo publicado na revista científica Proceedings of the Nati
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/abelhas.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/abelhas.jpg
 label: 
 published: true
 menu: agronegócio

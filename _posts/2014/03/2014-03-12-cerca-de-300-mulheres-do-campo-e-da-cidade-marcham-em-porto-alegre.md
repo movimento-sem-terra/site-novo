@@ -2,7 +2,7 @@
 layout: post
 title: Cerca de 300 mulheres do campo e da cidade marcham em Porto Alegre
 legacy_url: http://www.mst.org.br/node/15834
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/images.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/images.jpg
 video: ''
 tags:
 - tag: rio grande do sul
@@ -15,7 +15,7 @@ support_line: Na manhã desta quarta-feira (12), em Porto Alegre (RS), cerca de 
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/images.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/images.jpg
 label: 
 published: true
 menu: lutas e mobilizações

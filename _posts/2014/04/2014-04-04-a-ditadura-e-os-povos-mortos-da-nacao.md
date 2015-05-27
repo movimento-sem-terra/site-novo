@@ -2,7 +2,7 @@
 layout: post
 title: A ditadura e os povos mortos da nação
 legacy_url: http://www.mst.org.br/node/15924
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/ditadura_indigenas.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/ditadura_indigenas.jpg
 video: ''
 tags:
 - tag: indígenas
@@ -14,7 +14,7 @@ support_line: violência contra os povos indígenas durante a Ditadura merece um
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/ditadura_indigenas.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/ditadura_indigenas.jpg
 label: 
 published: true
 menu: direitos humanos

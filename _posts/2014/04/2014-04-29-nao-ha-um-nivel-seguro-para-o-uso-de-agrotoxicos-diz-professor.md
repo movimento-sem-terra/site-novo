@@ -2,7 +2,7 @@
 layout: post
 title: Não há um nível seguro para o uso de agrotóxicos, diz professor
 legacy_url: http://www.mst.org.br/node/16030
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/agrotoxico-morte2.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/agrotoxico-morte2.jpg
 video: ''
 tags:
 - tag: agronegócio
@@ -12,7 +12,7 @@ support_line: Relatório  divulgado pela Anvisa sobre a  presença de resíduos 
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/agrotoxico-morte2.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/agrotoxico-morte2.jpg
 label: 
 published: true
 menu: agronegócio

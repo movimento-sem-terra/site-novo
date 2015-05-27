@@ -2,7 +2,7 @@
 layout: post
 title: Reintegração de posse expulsa pescadores e marisqueiras no CE
 legacy_url: http://www.mst.org.br/node/15847
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/CE ocupa.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/CE ocupa.jpg
 video: ''
 tags:
 - tag: lutas e mobilizações
@@ -12,7 +12,7 @@ support_line: Ação de reintegração de posse deixou um pescador ferido, destr
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/CE ocupa.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/CE ocupa.jpg
 label: 
 published: true
 menu: lutas e mobilizações

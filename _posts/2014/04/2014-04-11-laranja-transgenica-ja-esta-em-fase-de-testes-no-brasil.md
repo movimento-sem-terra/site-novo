@@ -2,7 +2,7 @@
 layout: post
 title: Laranja transgênica já está em fase de testes no Brasil
 legacy_url: http://www.mst.org.br/node/15961
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/laranja.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/laranja.jpg
 video: ''
 tags:
 - tag: transgênicos
@@ -14,7 +14,7 @@ support_line: Avaliações para comercialização do cítrico podem começar ap�
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/laranja.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/laranja.jpg
 label: 
 published: true
 menu: transgênicos

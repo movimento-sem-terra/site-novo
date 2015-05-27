@@ -2,7 +2,7 @@
 layout: post
 title: Agronegócio disputa apoio contra seca e amplia problemas dos camponeses
 legacy_url: http://www.mst.org.br/node/15786
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/seca rs.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/seca rs.jpg
 video: ''
 tags:
 - tag: são paulo
@@ -14,7 +14,7 @@ support_line: Prejuízo  pode chegar a 30% da produção de grãos pela falta de
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/seca rs.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/seca rs.jpg
 label: 
 published: true
 menu: agricultura camponesa

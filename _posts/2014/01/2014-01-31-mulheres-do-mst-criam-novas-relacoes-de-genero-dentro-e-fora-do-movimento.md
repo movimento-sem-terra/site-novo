@@ -2,7 +2,7 @@
 layout: post
 title: 'Mulheres do MST criam novas relações de gênero dentro e fora do movimento  '
 legacy_url: http://www.mst.org.br/node/15654
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/mulheres-MST2.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/mulheres-MST2.jpg
 video: ''
 tags:
 - tag: artigos

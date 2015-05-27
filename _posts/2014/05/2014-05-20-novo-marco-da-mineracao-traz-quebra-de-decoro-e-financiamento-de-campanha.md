@@ -2,7 +2,7 @@
 layout: post
 title: Novo marco da mineração traz quebra de decoro e financiamento de campanha
 legacy_url: http://www.mst.org.br/node/16126
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/mineradora
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/mineradora
   (1).jpg
 video: ''
 tags:
@@ -16,7 +16,7 @@ support_line: "\"O Marco Legal da Mineração deveria incluir mecanismos de cont
 section: interviews
 hat: Entrevista
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/mineradora (1).jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/mineradora (1).jpg
 label: 
 menu: meio ambiente
 date: '2014-05-20T11:12:06-03:00'

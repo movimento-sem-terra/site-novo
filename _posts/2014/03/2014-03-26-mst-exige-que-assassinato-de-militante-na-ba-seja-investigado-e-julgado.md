@@ -2,7 +2,7 @@
 layout: post
 title: MST exige que assassinato de militante na BA seja investigado e julgado
 legacy_url: http://www.mst.org.br/node/15889
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/Brasil  Assassinato
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/Brasil  Assassinato
   de Dorothy Stang por Jailson2.jpg
 video: ''
 tags:
@@ -14,7 +14,7 @@ support_line: 'No dia 02 de abril de 2013, o militante do MST na Bahia Fábio Sa
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/Brasil  Assassinato de Dorothy
+images_hd: http://www.antigo.mst.org.br/sites/default/files/Brasil  Assassinato de Dorothy
   Stang por Jailson2.jpg
 label: 
 published: true

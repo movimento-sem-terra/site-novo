@@ -2,7 +2,7 @@
 layout: post
 title: Com camponeses e indígenas, relatório da CNV multiplicará vítimas da ditadura
 legacy_url: http://www.mst.org.br/node/16127
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/comissão-da-verdade.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/comissão-da-verdade.jpg
 video: ''
 tags:
 - tag: ditadura
@@ -14,7 +14,7 @@ support_line: Coordenador da CNV, Pedro Dallari, afirma que inclusão de vítima
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/comissão-da-verdade.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/comissão-da-verdade.jpg
 label: 
 published: true
 menu: direitos humanos

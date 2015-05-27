@@ -2,7 +2,7 @@
 layout: post
 title: Negado mandado de segurança contra desapropriação de fazenda na Paraíba
 legacy_url: http://www.mst.org.br/node/15680
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/justiça
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/justiça
   social!.jpg
 video: ''
 tags:
@@ -15,7 +15,7 @@ support_line: O Plenário do STF considerou que a Fazenda Antas de interesse soc
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/justiça social!.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/justiça social!.jpg
 label: 
 published: true
 menu: reforma agrária

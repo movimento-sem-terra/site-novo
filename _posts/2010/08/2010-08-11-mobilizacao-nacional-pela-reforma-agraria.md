@@ -2,7 +2,7 @@
 layout: post
 title: Mobilização Nacional pela Reforma Agrária
 legacy_url: http://www.mst.org.br/node/10370
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/bone_especial_site2.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/bone_especial_site2.jpg
 video: ''
 tags: []
 type: 
@@ -10,7 +10,7 @@ support_line: ''
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/bone_especial_site2.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/bone_especial_site2.jpg
 label: journeys
 published: true
 date: '2010-08-11T11:49:11-03:00'

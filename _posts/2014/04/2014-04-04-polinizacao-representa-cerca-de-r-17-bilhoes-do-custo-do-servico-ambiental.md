@@ -2,7 +2,7 @@
 layout: post
 title: Polinização representa cerca de R$ 17 bilhões do custo do serviço ambiental
 legacy_url: http://www.mst.org.br/node/15928
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/abelhas.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/abelhas.jpg
 video: ''
 tags:
 - tag: agrotóxicos
@@ -14,7 +14,7 @@ support_line: No Brasil há dois casos de eliminação de comunidades de abelhas
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/abelhas.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/abelhas.jpg
 label: 
 published: true
 menu: agronegócio

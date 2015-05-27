@@ -2,7 +2,7 @@
 layout: post
 title: 'Massacre de Felisburgo: após 5 anos, a conquista da terra '
 legacy_url: http://www.mst.org.br/node/8639
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/banner_site.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/banner_site.jpg
 video: ''
 tags: []
 type: 
@@ -10,7 +10,7 @@ support_line: ''
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/banner_site.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/banner_site.jpg
 label: journeys
 published: true
 date: '2009-11-19T19:03:41-02:00'

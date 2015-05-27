@@ -2,7 +2,7 @@
 layout: post
 title: Movimentos se reúnem na CDH Senado para debater PAA e Reforma Agrária
 legacy_url: http://www.mst.org.br/node/16164
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/pa.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/pa.jpg
 video: ''
 tags:
 - tag: brasília
@@ -16,7 +16,7 @@ support_line: A Comissão de Direitos Humanos e Legislação Participativa reali
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/pa.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/pa.jpg
 label: 
 published: true
 menu: reforma agrária

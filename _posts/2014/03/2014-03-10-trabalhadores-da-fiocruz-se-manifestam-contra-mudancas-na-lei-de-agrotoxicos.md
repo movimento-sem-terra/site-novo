@@ -2,7 +2,7 @@
 layout: post
 title: 'Trabalhadores da Fiocruz se manifestam contra mudanças na lei de agrotóxicos '
 legacy_url: http://www.mst.org.br/node/15816
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/agrotoxico-morte2.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/agrotoxico-morte2.jpg
 video: ''
 tags:
 - tag: agronegócio
@@ -13,7 +13,7 @@ support_line: O Sindicato Nacional dos Trabalhadores da Fiocruz divulgou carta e
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/agrotoxico-morte2.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/agrotoxico-morte2.jpg
 label: 
 published: true
 menu: agronegócio

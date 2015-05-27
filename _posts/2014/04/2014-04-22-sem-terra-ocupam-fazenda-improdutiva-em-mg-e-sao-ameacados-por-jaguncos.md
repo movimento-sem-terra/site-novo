@@ -2,7 +2,7 @@
 layout: post
 title: Sem Terra ocupam fazenda improdutiva em MG e são ameaçados por jagunços
 legacy_url: http://www.mst.org.br/node/15993
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/mst-23.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/mst-23.jpg
 video: ''
 tags:
 - tag: lutas e mobilizações
@@ -12,7 +12,7 @@ support_line: 80 famílias ocuparam a Fazenda Renegado, região Noroeste MG. A f
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/mst-23.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/mst-23.jpg
 label: 
 published: true
 menu: lutas e mobilizações

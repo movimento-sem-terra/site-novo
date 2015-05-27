@@ -2,7 +2,7 @@
 layout: post
 title: Congresso Nacional promulga a PEC do Trabalho Escravo
 legacy_url: http://www.mst.org.br/node/16189
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/pec escravo.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/pec escravo.jpg
 video: ''
 tags:
 - tag: direitos humanos
@@ -13,7 +13,7 @@ support_line: Defensores dos direitos humanos reivindicam que o conceito de  tra
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/pec escravo.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/pec escravo.jpg
 label: 
 published: true
 menu: direitos humanos

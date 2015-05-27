@@ -2,7 +2,7 @@
 layout: post
 title: Filha de assentada assassinada no RJ é encontrada morta
 legacy_url: http://www.mst.org.br/node/16112
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/mulher
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/mulher
   assassinada!.jpg
 video: ''
 tags:
@@ -16,7 +16,7 @@ support_line: Menina de 10 anos foi encontrada dentro de um poço na manhã dest
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/mulher assassinada!.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/mulher assassinada!.jpg
 label: 
 published: true
 menu: direitos humanos

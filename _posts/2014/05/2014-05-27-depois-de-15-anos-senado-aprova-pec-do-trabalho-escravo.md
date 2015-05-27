@@ -2,7 +2,7 @@
 layout: post
 title: Depois de 15 anos, Senado aprova PEC do Trabalho Escravo
 legacy_url: http://www.mst.org.br/node/16162
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/trabalho
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/trabalho
   escravo!!.jpg
 video: ''
 tags:
@@ -16,7 +16,7 @@ support_line: Promulgação da emenda constitucional será em sessão solene na 
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/trabalho escravo!!.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/trabalho escravo!!.jpg
 label: 
 published: true
 menu: direitos humanos

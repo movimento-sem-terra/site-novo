@@ -2,7 +2,7 @@
 layout: post
 title: Comissão aprova projeto que dificulta fechamento de escolas no campo
 legacy_url: http://www.mst.org.br/node/15771
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/sem terrinha
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/sem terrinha
   RS_2!.jpg
 video: ''
 tags:
@@ -13,7 +13,7 @@ support_line: Nos últimos cinco anos foram fechadas mais de 13 mil escolas do c
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/sem terrinha RS_2!.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/sem terrinha RS_2!.jpg
 label: 
 published: true
 menu: educação, cultura e comunicação

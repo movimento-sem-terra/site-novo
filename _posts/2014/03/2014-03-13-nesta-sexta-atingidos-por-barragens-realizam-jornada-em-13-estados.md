@@ -2,7 +2,7 @@
 layout: post
 title: Nesta sexta, atingidos por barragens realizam jornada em 13 estados
 legacy_url: http://www.mst.org.br/node/15844
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/JOKA2192.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/JOKA2192.jpg
 video: ''
 tags:
 - tag: mab
@@ -14,7 +14,7 @@ support_line: Milhares  de atingidos saem às ruas nesse dia 14 de março para p
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/JOKA2192.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/JOKA2192.jpg
 label: 
 published: true
 menu: lutas e mobilizações

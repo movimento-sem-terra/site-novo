@@ -2,7 +2,7 @@
 layout: post
 title: Jornada da Agroecologia deve reunir 2.500 participantes no Paraná
 legacy_url: http://www.mst.org.br/node/16167
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/Jornada
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/Jornada
   Agroecologia.jpg
 video: ''
 tags:
@@ -15,7 +15,7 @@ support_line: A Jornada representa a síntese do processo de construção da agr
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/Jornada Agroecologia.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/Jornada Agroecologia.jpg
 label: 
 published: true
 menu: agricultura camponesa

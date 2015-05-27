@@ -2,7 +2,7 @@
 layout: post
 title: Funai deve ser multada em mais de R$ 1,7 mi por não demarcar terras indígenas
 legacy_url: http://www.mst.org.br/node/16232
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/iindigenas_estrada!.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/iindigenas_estrada!.jpg
 video: ''
 tags:
 - tag: mato grosso do sul
@@ -15,7 +15,7 @@ support_line: O MPF em Mato Grosso do Sul divulgou um ofício encaminhado à pre
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/iindigenas_estrada!.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/iindigenas_estrada!.jpg
 label: 
 published: true
 menu: direitos humanos

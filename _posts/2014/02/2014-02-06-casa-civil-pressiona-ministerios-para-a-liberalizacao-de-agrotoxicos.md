@@ -2,7 +2,7 @@
 layout: post
 title: Casa Civil pressiona ministérios para a liberalização de agrotóxicos
 legacy_url: http://www.mst.org.br/node/15677
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/ag!.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/ag!.jpg
 video: ''
 tags:
 - tag: agrotóxicos
@@ -14,7 +14,7 @@ support_line: Em entrevista, o professor da UnB, Fernando Carneiro, fala como a 
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/ag!.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/ag!.jpg
 label: 
 published: true
 menu: agronegócio

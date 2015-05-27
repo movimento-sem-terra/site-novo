@@ -2,7 +2,7 @@
 layout: post
 title: Pistoleiros instalam Estado de sítio no oeste da Bahia
 legacy_url: http://www.mst.org.br/node/16244
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/atentadoFunai_PA-BA.gif
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/atentadoFunai_PA-BA.gif
 video: ''
 tags:
 - tag: agronegócio
@@ -12,7 +12,7 @@ support_line: Nos últimos anos, as populações tradicionais tem se articulado 
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/atentadoFunai_PA-BA.gif
+images_hd: http://www.antigo.mst.org.br/sites/default/files/atentadoFunai_PA-BA.gif
 label: 
 published: true
 menu: agronegócio

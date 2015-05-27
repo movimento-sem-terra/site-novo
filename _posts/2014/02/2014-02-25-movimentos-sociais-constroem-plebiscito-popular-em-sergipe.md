@@ -2,7 +2,7 @@
 layout: post
 title: Movimentos sociais constroem Plebiscito Popular em Sergipe
 legacy_url: http://www.mst.org.br/node/15768
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/reforma_politica_protesto22.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/reforma_politica_protesto22.jpg
 video: ''
 tags:
 - tag: manchete
@@ -14,7 +14,7 @@ support_line: O Plebiscito por uma reforma do  Sistema Político foi lançado no
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/reforma_politica_protesto22.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/reforma_politica_protesto22.jpg
 label: 
 published: true
 menu: projeto popular

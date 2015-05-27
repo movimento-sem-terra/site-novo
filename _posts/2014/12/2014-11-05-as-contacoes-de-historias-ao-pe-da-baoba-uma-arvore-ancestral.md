@@ -52,7 +52,7 @@ Mas estamos nos adiantando. Nossa hist&oacute;ria come&ccedil;a em mar&ccedil;o 
 <p><br />
 Os refugiados palestinos buscam esse retorno &agrave; sua terra original, e percebemos que era uma semelhan&ccedil;a muito forte com o movimento quilombola. Por isso decidimos realizar um encontro de um m&ecirc;s na Bahia, para que eles conhecessem os quilombos, e l&aacute; acabamos conhecendo o MST tamb&eacute;m: ficamos aguns dias no assentamento Terra Vista.&nbsp;</p>
 
-<p><img _fcksavedurl="/sites/default/files/contrafil%C3%A9.jpg" alt="" height="349" src="http://www.mst.org.br/sites/default/files/contrafil%C3%A9.jpg" style="margin: 10px;" width="600" /><br />
+<p><img _fcksavedurl="/sites/default/files/contrafil%C3%A9.jpg" alt="" height="349" src="http://www.antigo.mst.org.br/sites/default/files/contrafil%C3%A9.jpg" style="margin: 10px;" width="600" /><br />
 <strong>O retorno &agrave; terra&nbsp;</strong></p>
 
 <p><br />
@@ -88,7 +88,7 @@ E assim, houve o retorno de pessoas que haviam sido expulsas da agricultura. Dur
 <p><br />
 O assentado, que antes s&oacute; sabia aplicar um m&eacute;todo de trabalho, entendeu que tinha poder nas m&atilde;os. Tinham trabalhado 50 anos com cacau pro coronel e podiam, agora, trabalhar no seu pr&oacute;prio cacau. Os ind&iacute;genas, quilombolas e sem terra que conhecem a hist&oacute;ria dessa regi&atilde;o sabem que o simbolismo inicial do cacau foi a escravid&atilde;o. Mas tamb&eacute;m puderam ver o cacau ressurgir com o sistema da cabruca, dentro da mata.</p>
 
-<p><img _fcksavedurl="/sites/default/files/baoba3.jpg" alt="" height="400" src="http://www.mst.org.br/sites/default/files/baoba3.jpg" style="margin: 10px;" width="600" /><br />
+<p><img _fcksavedurl="/sites/default/files/baoba3.jpg" alt="" height="400" src="http://www.antigo.mst.org.br/sites/default/files/baoba3.jpg" style="margin: 10px;" width="600" /><br />
 <strong>A &aacute;rvore-escola&nbsp;</strong></p>
 
 <p><br />

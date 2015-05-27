@@ -3,7 +3,7 @@ layout: post
 title: Latifundiário é condenado a 12 anos de prisão por morte de sindicalista no
   Pará
 legacy_url: http://www.mst.org.br/node/16044
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/Brasil  Assassinato
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/Brasil  Assassinato
   de Dorothy Stang por Jailson2.jpg
 video: ''
 tags:
@@ -15,7 +15,7 @@ support_line: Após 14 anos de impunidade e proteção do Judiciário,  mandante
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/Brasil  Assassinato de Dorothy
+images_hd: http://www.antigo.mst.org.br/sites/default/files/Brasil  Assassinato de Dorothy
   Stang por Jailson2.jpg
 label: 
 published: true

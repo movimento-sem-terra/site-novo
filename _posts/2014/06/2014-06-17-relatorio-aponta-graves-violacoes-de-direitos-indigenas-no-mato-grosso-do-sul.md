@@ -2,7 +2,7 @@
 layout: post
 title: Relatório aponta graves violações de direitos indígenas no Mato Grosso do Sul
 legacy_url: http://www.mst.org.br/node/16222
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/indios!.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/indios!.jpg
 video: ''
 tags:
 - tag: mato grosso do sul
@@ -15,7 +15,7 @@ support_line: A Relatoria do Direito Humano à Terra, Território e Alimentaçã
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/indios!.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/indios!.jpg
 label: 
 published: true
 menu: direitos humanos

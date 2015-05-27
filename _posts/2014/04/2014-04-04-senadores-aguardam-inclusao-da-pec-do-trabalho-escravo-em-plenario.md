@@ -2,7 +2,7 @@
 layout: post
 title: Senadores aguardam inclusão da PEC do trabalho escravo em plenário
 legacy_url: http://www.mst.org.br/node/15927
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/escravo.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/escravo.jpg
 video: ''
 tags:
 - tag: trabalho escravo
@@ -14,7 +14,7 @@ support_line: Proposta precisa ser votada em dois turnos na Casa e teve relatór
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/escravo.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/escravo.jpg
 label: 
 published: true
 menu: direitos humanos

@@ -2,7 +2,7 @@
 layout: post
 title: Novo estudo indica que agricultura orgânica aumenta a biodiversidade
 legacy_url: http://www.mst.org.br/node/15686
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/organic1.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/organic1.jpg
 video: ''
 tags:
 - tag: agroecologia
@@ -14,7 +14,7 @@ support_line: Um grupo de cientistas analisaram 94 estudos anteriores,  concluin
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/organic1.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/organic1.jpg
 label: 
 published: true
 menu: agricultura camponesa

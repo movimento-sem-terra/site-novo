@@ -2,7 +2,7 @@
 layout: post
 title: Por terra e água, 400 famílias ocupam projeto de irrigação na Bahia
 legacy_url: http://www.mst.org.br/node/16050
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/rf1.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/rf1.jpg
 video: ''
 tags:
 - tag: bahia
@@ -15,7 +15,7 @@ support_line: A ocupação visa garantir que os pequenos agricultores e Sem Terr
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/rf1.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/rf1.jpg
 label: 
 published: true
 menu: lutas e mobilizações

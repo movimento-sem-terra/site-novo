@@ -2,7 +2,7 @@
 layout: post
 title: Brasil é o país mais perigoso para quem defende a terra e o meio ambiente
 legacy_url: http://www.mst.org.br/node/15978
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/chapeu!!.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/chapeu!!.jpg
 video: ''
 tags:
 - tag: direitos humanos
@@ -14,7 +14,7 @@ support_line: Em relatório divulgado pela ONG de direitos humanos Global Witnes
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/chapeu!!.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/chapeu!!.jpg
 label: 
 published: true
 menu: direitos humanos

@@ -2,7 +2,7 @@
 layout: post
 title: 'Equipes de trabalho fazem o dia a dia do 6º Congresso '
 legacy_url: http://www.mst.org.br/node/15731
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/equipe.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/equipe.jpg
 video: ''
 tags:
 - tag: '6'
@@ -14,7 +14,7 @@ support_line: São mais de 500 pessoas de todas as regiões do Brasil, de todas 
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/equipe.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/equipe.jpg
 label: 
 published: true
 menu: reforma agrária

@@ -2,7 +2,7 @@
 layout: post
 title: Laudo revela contaminação de água por agrotóxicos pela indústria Nortox
 legacy_url: http://www.mst.org.br/node/16202
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/perigo-agrotoxico.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/perigo-agrotoxico.jpg
 video: ''
 tags:
 - tag: paraná
@@ -15,7 +15,7 @@ support_line: A água tratada fornecida pela Sanepar aos moradores do distrito d
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/perigo-agrotoxico.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/perigo-agrotoxico.jpg
 label: 
 published: true
 menu: agronegócio

@@ -2,7 +2,7 @@
 layout: post
 title: Diversas cidades do mundo realizam a Marcha Mundial contra a Monsanto
 legacy_url: http://www.mst.org.br/node/16134
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/monsanto
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/monsanto
   paris.jpg
 video: ''
 tags:
@@ -15,7 +15,7 @@ support_line: A mobilização, que acontece neste sábado, serve para denunciar 
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/monsanto paris.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/monsanto paris.jpg
 label: 
 published: true
 menu: lutas e mobilizações

@@ -2,7 +2,7 @@
 layout: post
 title: Em Jornada de Lutas, MST e MAB ocupam cinco fazendas no RS
 legacy_url: http://www.mst.org.br/node/16024
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/mst-2555.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/mst-2555.jpg
 video: ''
 tags:
 - tag: rio grande do sul
@@ -14,7 +14,7 @@ support_line: Cerca de 800 famílias participam das mobilizações, que relembra
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/mst-2555.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/mst-2555.jpg
 label: 
 published: true
 menu: lutas e mobilizações

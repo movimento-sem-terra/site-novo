@@ -2,7 +2,7 @@
 layout: post
 title: A Monsanto e a "salvação do mundo". Quem os nomeou à divina missão?
 legacy_url: http://www.mst.org.br/node/16085
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/Monsanto_Por-Latuff!.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/Monsanto_Por-Latuff!.jpg
 video: ''
 tags:
 - tag: agronegócio
@@ -15,7 +15,7 @@ support_line: Transnacional foca atuação no Brasil e lança “nova” varieda
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/Monsanto_Por-Latuff!.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/Monsanto_Por-Latuff!.jpg
 label: 
 published: true
 menu: agronegócio

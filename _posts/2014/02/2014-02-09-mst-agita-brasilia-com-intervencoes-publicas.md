@@ -2,7 +2,7 @@
 layout: post
 title: MST agita Brasília com intervenções públicas
 legacy_url: http://www.mst.org.br/node/15689
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/Intervenção22.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/Intervenção22.jpg
 video: ''
 tags:
 - tag: '6'
@@ -14,7 +14,7 @@ support_line: Brasília é palco de luta pela Reforma Agrária, motivada a refle
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/Intervenção22.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/Intervenção22.jpg
 label: 
 published: true
 menu: reforma agrária

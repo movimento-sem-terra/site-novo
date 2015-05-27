@@ -2,7 +2,7 @@
 layout: post
 title: Movimentos do campo ocupam Secretaria da Fazenda em GO
 legacy_url: http://www.mst.org.br/node/16062
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/mov go22.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/mov go22.jpg
 video: ''
 tags:
 - tag: jornada de lutas abril 2014

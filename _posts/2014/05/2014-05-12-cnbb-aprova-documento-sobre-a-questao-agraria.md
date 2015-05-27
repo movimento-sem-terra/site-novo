@@ -2,7 +2,7 @@
 layout: post
 title: CNBB aprova documento sobre a Questão Agrária
 legacy_url: http://www.mst.org.br/node/16084
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/DomEnemsio_Divulgacao.JPG
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/DomEnemsio_Divulgacao.JPG
 video: ''
 tags:
 - tag: questão agrária
@@ -14,7 +14,7 @@ support_line: 'A parte final do Documento apresenta os desafios diante de realid
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/DomEnemsio_Divulgacao.JPG
+images_hd: http://www.antigo.mst.org.br/sites/default/files/DomEnemsio_Divulgacao.JPG
 label: 
 published: true
 menu: projeto popular

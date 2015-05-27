@@ -2,7 +2,7 @@
 layout: post
 title: Unidos da Lona Preta, a luta fazendo o samba e o samba fazendo a luta
 legacy_url: http://www.mst.org.br/node/15782
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/Unidos
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/Unidos
   abre.gif
 video: ''
 tags:
@@ -15,7 +15,7 @@ support_line: Fundada em 2005, a escola de samba do MST busca resgatar o papel d
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/Unidos abre.gif
+images_hd: http://www.antigo.mst.org.br/sites/default/files/Unidos abre.gif
 label: 
 published: true
 menu: educação, cultura e comunicação

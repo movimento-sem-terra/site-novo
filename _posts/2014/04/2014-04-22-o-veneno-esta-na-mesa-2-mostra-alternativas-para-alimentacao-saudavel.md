@@ -2,7 +2,7 @@
 layout: post
 title: '"O veneno está na mesa 2" mostra alternativas para alimentação saudável'
 legacy_url: http://www.mst.org.br/node/15994
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/Filme-O-Veneno-Esta-na-Mesa-122.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/Filme-O-Veneno-Esta-na-Mesa-122.jpg
 video: ''
 tags:
 - tag: manchete
@@ -14,7 +14,7 @@ support_line: Mais de  600 pessoas viram a estreia no Rio. Agora, o documentári
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/Filme-O-Veneno-Esta-na-Mesa-122.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/Filme-O-Veneno-Esta-na-Mesa-122.jpg
 label: 
 published: true
 menu: agronegócio

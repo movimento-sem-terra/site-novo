@@ -2,7 +2,7 @@
 layout: post
 title: Crianças do MST ocupam Ministério da Educação por escolas do campo
 legacy_url: http://www.mst.org.br/node/15704
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/Sem terrinha
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/Sem terrinha
   mec22.jpg
 video: ''
 tags:
@@ -16,7 +16,7 @@ support_line: Ação faz parte do VI Congresso do MST e denuncia precarização 
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/Sem terrinha mec22.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/Sem terrinha mec22.jpg
 label: 
 published: true
 menu: lutas e mobilizações

@@ -2,7 +2,7 @@
 layout: post
 title: MST é homenageado em sessão solene na Câmara dos Vereadores em Natal
 legacy_url: http://www.mst.org.br/node/16114
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/camara.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/camara.jpg
 video: ''
 tags:
 - tag: rio grande do norte
@@ -15,7 +15,7 @@ support_line: Na oportunidade, foram tratados temas relacionados à importância
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/camara.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/camara.jpg
 label: 
 published: true
 menu: reforma agrária

@@ -2,7 +2,7 @@
 layout: post
 title: Organizações cobram atuação do MPF contra espionagem da Vale
 legacy_url: http://www.mst.org.br/node/15750
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/vale.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/vale.jpg
 video: ''
 tags:
 - tag: vale
@@ -14,7 +14,7 @@ support_line: "“Há um esquema privado que acessa banco de dados do governo fe
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/vale.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/vale.jpg
 label: 
 published: true
 menu: direitos humanos

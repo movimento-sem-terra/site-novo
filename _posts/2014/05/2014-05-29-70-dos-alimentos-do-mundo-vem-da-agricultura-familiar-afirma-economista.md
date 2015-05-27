@@ -2,7 +2,7 @@
 layout: post
 title: 70% dos alimentos do mundo vêm da agricultura familiar, afirma economista
 legacy_url: http://www.mst.org.br/node/16168
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/materia_itapeva.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/materia_itapeva.jpg
 video: ''
 tags:
 - tag: agricultura familiar
@@ -15,7 +15,7 @@ support_line: Os incentivos para o desenvolvimento da agricultura familiar brasi
 section: interviews
 hat: Modelo agrícola
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/materia_itapeva.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/materia_itapeva.jpg
 label: 
 published: true
 menu: agricultura camponesa

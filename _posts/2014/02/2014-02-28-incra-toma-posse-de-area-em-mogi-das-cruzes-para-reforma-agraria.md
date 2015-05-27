@@ -2,7 +2,7 @@
 layout: post
 title: Incra toma posse de área em Mogi das Cruzes para Reforma Agrária
 legacy_url: http://www.mst.org.br/node/15783
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/chacarabre.gif
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/chacarabre.gif
 video: ''
 tags:
 - tag: lutas e mobilizações
@@ -12,7 +12,7 @@ support_line: Chácara Santo Ângelo é ocupada há 30 anos por pequenos produto
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/chacarabre.gif
+images_hd: http://www.antigo.mst.org.br/sites/default/files/chacarabre.gif
 label: 
 published: true
 menu: lutas e mobilizações

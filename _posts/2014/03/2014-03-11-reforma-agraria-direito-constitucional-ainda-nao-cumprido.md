@@ -2,7 +2,7 @@
 layout: post
 title: 'Reforma Agrária: direito constitucional ainda não cumprido'
 legacy_url: http://www.mst.org.br/node/15831
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/justiça
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/justiça
   social!.jpg
 video: ''
 tags:
@@ -14,7 +14,7 @@ support_line: Vinte e cinco anos se passaram da Constituição, mas pouco ou nad
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/justiça social!.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/justiça social!.jpg
 label: 
 published: true
 menu: reforma agrária

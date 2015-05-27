@@ -2,7 +2,7 @@
 layout: post
 title: MPE ingressa contra prefeitura de Santa Luzia (PA) para reabrir escola do campo
 legacy_url: http://www.mst.org.br/node/16193
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/fechar
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/fechar
   escola.jpg
 video: ''
 tags:
@@ -13,7 +13,7 @@ support_line: Mais de 24 mil escolas do campo foram fechadas nos últimos oito a
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/fechar escola.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/fechar escola.jpg
 label: 
 published: true
 menu: educação, cultura e comunicação

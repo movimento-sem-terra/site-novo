@@ -2,7 +2,7 @@
 layout: post
 title: Sem Terra saem em marcha rumo à Esplanada dos Ministérios
 legacy_url: http://www.mst.org.br/node/15709
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/abre marcha.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/abre marcha.jpg
 video: ''
 tags:
 - tag: '6'
@@ -14,7 +14,7 @@ support_line: "“A marcha hoje vai mostrar que nesses 30 anos de lutas e resist
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/abre marcha.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/abre marcha.jpg
 label: 
 published: true
 menu: reforma agrária

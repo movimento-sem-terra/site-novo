@@ -2,7 +2,7 @@
 layout: post
 title: MPF denuncia fazendeiros por utilizar mão de obra escrava em Minas Gerais
 legacy_url: http://www.mst.org.br/node/16261
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/carvoariaII.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/carvoariaII.jpg
 video: ''
 tags:
 - tag: minas gerais
@@ -15,7 +15,7 @@ support_line: Uma &nbsp;equipe formada por auditores do Ministério do Trabalho 
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/carvoariaII.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/carvoariaII.jpg
 label: 
 published: true
 menu: direitos humanos

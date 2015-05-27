@@ -2,7 +2,7 @@
 layout: post
 title: III Jornada Nacional da Juventude Sem Terra
 legacy_url: http://www.mst.org.br/node/13719
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/banner
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/banner
   III jornada juventude cópia.jpg
 video: ''
 tags: []
@@ -11,7 +11,7 @@ support_line: ''
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/banner III jornada juventude
+images_hd: http://www.antigo.mst.org.br/sites/default/files/banner III jornada juventude
   cópia.jpg
 label: journeys
 published: true

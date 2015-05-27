@@ -2,7 +2,7 @@
 layout: post
 title: 'Tarso Genro: O capital está vencendo. Como a esquerda pode barrá-lo?'
 legacy_url: http://www.mst.org.br/node/15992
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/tarso abre.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/tarso abre.jpg
 video: ''
 tags:
 - tag: reforma agrária
@@ -14,7 +14,7 @@ support_line: O MST deu um belo exemplo ao vincular a Reforma Agrária ao tema d
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/tarso abre.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/tarso abre.jpg
 label: 
 published: true
 menu: reforma agrária

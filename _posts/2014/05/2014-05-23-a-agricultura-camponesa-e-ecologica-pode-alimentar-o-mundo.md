@@ -2,7 +2,7 @@
 layout: post
 title: A agricultura camponesa e ecológica pode alimentar o mundo?
 legacy_url: http://www.mst.org.br/node/16149
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/camponeis!.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/camponeis!.jpg
 video: ''
 tags:
 - tag: agricultura
@@ -14,7 +14,7 @@ support_line: Para a jornalista Esther Vivas, ativista social e política, “a 
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/camponeis!.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/camponeis!.jpg
 label: 
 published: true
 menu: agricultura camponesa

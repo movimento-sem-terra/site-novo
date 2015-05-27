@@ -2,7 +2,7 @@
 layout: post
 title: 'Pistoleiros atacam novamente a comunidade Guarani e Kaiowá '
 legacy_url: http://www.mst.org.br/node/15932
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/indígenas_mortes_latuff.gif
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/indígenas_mortes_latuff.gif
 video: ''
 tags:
 - tag: violência
@@ -14,7 +14,7 @@ support_line: Assustados, os moradores de barracos situados nas proximidades da 
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/indígenas_mortes_latuff.gif
+images_hd: http://www.antigo.mst.org.br/sites/default/files/indígenas_mortes_latuff.gif
 label: 
 published: true
 menu: direitos humanos

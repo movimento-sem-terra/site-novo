@@ -2,7 +2,7 @@
 layout: post
 title: 'Guilherme Delgado: para onde vai a economia do agronegócio?'
 legacy_url: http://www.mst.org.br/node/15827
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/guarani-kaiowa-agronegocio2.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/guarani-kaiowa-agronegocio2.jpg
 video: ''
 tags:
 - tag: artigos
@@ -14,7 +14,7 @@ support_line: A noção de agronegócio como setor de atividade é limitada, por
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/guarani-kaiowa-agronegocio2.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/guarani-kaiowa-agronegocio2.jpg
 label: 
 published: true
 menu: agronegócio

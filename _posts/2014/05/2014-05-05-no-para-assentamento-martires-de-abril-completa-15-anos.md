@@ -2,7 +2,7 @@
 layout: post
 title: No Pará, assentamento Mártires de abril completa 15 anos
 legacy_url: http://www.mst.org.br/node/16057
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/Ass para.JPG
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/Ass para.JPG
 video: ''
 tags:
 - tag: reforma agrária
@@ -13,7 +13,7 @@ support_line: A festa contou com a participação de  partidos políticos de esq
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/Ass para.JPG
+images_hd: http://www.antigo.mst.org.br/sites/default/files/Ass para.JPG
 label: 
 published: true
 menu: reforma agrária

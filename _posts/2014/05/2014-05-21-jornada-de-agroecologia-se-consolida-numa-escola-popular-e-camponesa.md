@@ -37,7 +37,7 @@ Dessa maneira, d&eacute;cadas de conhecimento e desenvolvimento das for&ccedil;a
 Diferentemente do que se propagandeava, por&eacute;m, nem a revolu&ccedil;&atilde;o verde, tampouco o agroneg&oacute;cio resolveram a quest&atilde;o das diferen&ccedil;as sociais e das necessidades da humanidade, isso porque em ambos os casos o que se buscava n&atilde;o era - e continua n&atilde;o sendo -, a reestrutura&ccedil;&atilde;o de um modelo de produ&ccedil;&atilde;o menos centralizador, concentrador, explorador. Pelo contr&aacute;rio, a agricultura moderna e o agroneg&oacute;cio se baseiam na l&oacute;gica da produ&ccedil;&atilde;o de mercadorias, gera&ccedil;&atilde;o de lucros, explora&ccedil;&atilde;o de pessoas e dos recursos naturais e claro, toda essa engrenagem deitada sobre o ber&ccedil;o da propriedade privada.</p>
 
 <p><br />
-<img alt="" src="http://www.mst.org.br/sites/default/files/gravida_jornada.jpg" style="float:right; margin:10px" />Diante da crise social, ecol&oacute;gica e econ&ocirc;mica, gerada pelo fracasso da revolu&ccedil;&atilde;o verde, ficou cada vez mais clara a necessidade de construir um novo paradigma para a agricultura mundial.</p>
+<img alt="" src="http://www.antigo.mst.org.br/sites/default/files/gravida_jornada.jpg" style="float:right; margin:10px" />Diante da crise social, ecol&oacute;gica e econ&ocirc;mica, gerada pelo fracasso da revolu&ccedil;&atilde;o verde, ficou cada vez mais clara a necessidade de construir um novo paradigma para a agricultura mundial.</p>
 
 <p><br />
 Nessa perspectiva as for&ccedil;as populares, e, principalmente, os movimentos sociais do campo, a partir dos anos 90, passaram a identificar na Agroecologia a alternativa poss&iacute;vel para a reconstru&ccedil;&atilde;o da agricultura.</p>
@@ -48,7 +48,7 @@ No Brasil, o MST amadurece essa necessidade reafirmando em seu IV Congresso Naci
 <p><br />
 A partir dai, surgem as escolas e centros de forma&ccedil;&atilde;o em Agroecologia. No Paran&aacute;, foram constru&iacute;das cinco, sendo elas o Instituto T&eacute;cnico de Estudos e Pesquisas da Reforma Agr&aacute;ria (ITEPA), Centro de Desenvolvimento Sustent&aacute;vel e Capacita&ccedil;&atilde;o em Agroecologia (CEAGRO), Escola Milton Santos (EMS), e Escola Latino Americana de Agroecologia (ELAA), em parceria com a Via Campesina, e a Escola T&eacute;cnica Padre Sasaki.</p>
 
-<p><img alt="" src="http://www.mst.org.br/sites/default/files/12jornada_agroecologia_II.jpg" style="float:left; margin:10px" /><br />
+<p><img alt="" src="http://www.antigo.mst.org.br/sites/default/files/12jornada_agroecologia_II.jpg" style="float:left; margin:10px" /><br />
 <strong>Jornadas de Agroecologia&nbsp;</strong></p>
 
 <p><br />

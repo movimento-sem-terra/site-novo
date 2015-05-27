@@ -2,7 +2,7 @@
 layout: post
 title: Tio de Ronaldo Caiado entra na 'lista suja' do trabalho escravo
 legacy_url: http://www.mst.org.br/node/16272
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/8686.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/8686.jpg
 video: ''
 tags:
 - tag: trabalho escravo
@@ -14,7 +14,7 @@ support_line: Quatro carvoeiros foram submetidos a condições degradantes e jor
 section: carousel
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/8686.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/8686.jpg
 label: 
 published: true
 menu: direitos humanos

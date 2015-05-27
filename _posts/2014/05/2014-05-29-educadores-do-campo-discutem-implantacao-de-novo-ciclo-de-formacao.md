@@ -2,7 +2,7 @@
 layout: post
 title: Educadores do campo discutem implantação de novo ciclo de formação
 legacy_url: http://www.mst.org.br/node/16165
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/educação!!!.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/educação!!!.jpg
 video: ''
 tags:
 - tag: rio grande do sul
@@ -16,7 +16,7 @@ support_line: O novo ciclo de formação a ser implementado nas escolas do campo
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/educação!!!.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/educação!!!.jpg
 label: 
 published: true
 menu: educação, cultura e comunicação

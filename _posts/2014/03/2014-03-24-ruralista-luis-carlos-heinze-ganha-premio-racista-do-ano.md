@@ -2,7 +2,7 @@
 layout: post
 title: Ruralista, Luis Carlos Heinze ganha prêmio “Racista do ano"
 legacy_url: http://www.mst.org.br/node/15879
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/Heinze_Reproducao.gif
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/Heinze_Reproducao.gif
 video: ''
 tags:
 - tag: bancada ruralista
@@ -14,7 +14,7 @@ support_line: Em uma audiência pública com produtores rurais na cidade gaúcha
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/Heinze_Reproducao.gif
+images_hd: http://www.antigo.mst.org.br/sites/default/files/Heinze_Reproducao.gif
 label: 
 published: true
 menu: direitos humanos

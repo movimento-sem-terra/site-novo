@@ -20,7 +20,7 @@ published: true
 images_hd: "http://farm9.staticflickr.com/8571/16281063725_c2ced7bfc0_n.jpg"
 
 ---
-<p><img alt="" height="450" src="http://www.mst.org.br/sites/default/files/ocupa%C3%A7%C3%A3o_usinaMS.jpg" style="margin: 10px;" width="600" /></p>
+<p><img alt="" height="450" src="http://www.antigo.mst.org.br/sites/default/files/ocupa%C3%A7%C3%A3o_usinaMS.jpg" style="margin: 10px;" width="600" /></p>
 
 <p><em>Da P&aacute;gina do MST</em></p>
 
@@ -34,7 +34,7 @@ Neste s&aacute;bado (17), cerca de 100 fam&iacute;lias do MST ocuparam uma &aacu
 As fam&iacute;lias exigem a desapropria&ccedil;&atilde;o da &aacute;rea e a cria&ccedil;&atilde;o de um assentamento no local.</p>
 
 <p><br />
-<img alt="" height="338" src="http://www.mst.org.br/sites/default/files/ocup%C3%A3o_usina2.jpg" style="margin:10px; float:left" width="450" />A usina est&aacute; desativada h&aacute; cerca de tr&ecirc;s anos e possui s&eacute;rios problemas trabalhistas. Cerca de 700 ex-funcion&aacute;rios reivindicam os pagamentos de d&iacute;vidas e o acerto de sal&aacute;rios vencidos. As d&iacute;vidas individuais dos trabalhadores passam de R$ 80 mil, al&eacute;m do n&atilde;o pagamento de quest&otilde;es como o Fundo de Garantia do Tempo de Servi&ccedil;o (FGTS).</p>
+<img alt="" height="338" src="http://www.antigo.mst.org.br/sites/default/files/ocup%C3%A3o_usina2.jpg" style="margin:10px; float:left" width="450" />A usina est&aacute; desativada h&aacute; cerca de tr&ecirc;s anos e possui s&eacute;rios problemas trabalhistas. Cerca de 700 ex-funcion&aacute;rios reivindicam os pagamentos de d&iacute;vidas e o acerto de sal&aacute;rios vencidos. As d&iacute;vidas individuais dos trabalhadores passam de R$ 80 mil, al&eacute;m do n&atilde;o pagamento de quest&otilde;es como o Fundo de Garantia do Tempo de Servi&ccedil;o (FGTS).</p>
 
 <p><br />
 <br />

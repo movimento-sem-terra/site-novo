@@ -2,7 +2,7 @@
 layout: post
 title: MAB realiza ocupação em ANEEL e protestos em Furnas
 legacy_url: http://www.mst.org.br/node/15891
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/MAB_PabloVergara2.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/MAB_PabloVergara2.jpg
 video: ''
 tags:
 - tag: lutas e mobilizações
@@ -12,7 +12,7 @@ support_line: Atingidos protestam na ANEEL e Furnas por política nacional de di
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/MAB_PabloVergara2.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/MAB_PabloVergara2.jpg
 label: 
 published: true
 menu: lutas e mobilizações

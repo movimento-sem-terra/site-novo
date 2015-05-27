@@ -2,7 +2,7 @@
 layout: post
 title: Leis antiterrorismo preocupam movimentos sociais
 legacy_url: http://www.mst.org.br/node/15919
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/senado.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/senado.jpg
 video: ''
 tags:
 - tag: lei antiterror
@@ -14,7 +14,7 @@ support_line: O Senado pode, a qualquer momento, nas próximas semanas, avançar
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/senado.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/senado.jpg
 label: 
 published: true
 menu: direitos humanos

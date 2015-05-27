@@ -2,7 +2,7 @@
 layout: post
 title: Deputados agem para nos empurrar transgênicos
 legacy_url: http://www.mst.org.br/node/16221
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/transgenico_duvida!!.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/transgenico_duvida!!.jpg
 video: ''
 tags:
 - tag: bancada ruralista
@@ -14,7 +14,7 @@ support_line: O detentores dessas novas tecnologias tentam provar a eficácia. O
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/transgenico_duvida!!.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/transgenico_duvida!!.jpg
 label: 
 published: true
 menu: agronegócio

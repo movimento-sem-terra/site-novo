@@ -2,7 +2,7 @@
 layout: post
 title: MPF tenta impedir o uso de agrotóxico altamente tóxica à saúde humana
 legacy_url: http://www.mst.org.br/node/15929
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/morte!.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/morte!.jpg
 video: ''
 tags:
 - tag: agrotóxicos
@@ -14,7 +14,7 @@ support_line: O benzoato de emamectina não possui registro no Ministério da Ag
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/morte!.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/morte!.jpg
 label: 
 published: true
 menu: agronegócio

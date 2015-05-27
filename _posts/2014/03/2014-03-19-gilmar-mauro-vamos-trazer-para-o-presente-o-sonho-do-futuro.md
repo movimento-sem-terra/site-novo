@@ -2,7 +2,7 @@
 layout: post
 title: 'Gilmar Mauro: "Vamos trazer para o presente o sonho do futuro"'
 legacy_url: http://www.mst.org.br/node/15865
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/gilmar
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/gilmar
   mauro.jpg
 video: ''
 tags:
@@ -15,7 +15,7 @@ support_line: Em entrevista, Gilmar Maurofala sobre os caminhos percorridos e os
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/gilmar mauro.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/gilmar mauro.jpg
 label: 
 published: true
 menu: reforma agrária

@@ -2,7 +2,7 @@
 layout: post
 title: "“Devemos questionar o que há por trás do que comemos”, afirma pesquisadora"
 legacy_url: http://www.mst.org.br/node/15890
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/comida-toxica2.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/comida-toxica2.jpg
 video: ''
 tags:
 - tag: agronegócio
@@ -12,7 +12,7 @@ support_line: Esther Vivas denuncia que “a busca do lucro a  todo custo é a e
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/comida-toxica2.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/comida-toxica2.jpg
 label: 
 published: true
 menu: agronegócio

@@ -2,7 +2,7 @@
 layout: post
 title: Oitenta anos mais tarde, a estratégia hitlerista alcança o STF
 legacy_url: http://www.mst.org.br/node/16004
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/ze dirceu.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/ze dirceu.jpg
 video: ''
 tags:
 - tag: direitos humanos
@@ -14,7 +14,7 @@ support_line: Em repúdio à criminalização e à exasperação da pena contra 
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/ze dirceu.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/ze dirceu.jpg
 label: 
 published: true
 menu: direitos humanos

@@ -2,7 +2,7 @@
 layout: post
 title: Durante a Copa, Congresso pode esvaziar ‘lista suja’ do trabalho escravo
 legacy_url: http://www.mst.org.br/node/16245
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/congresso-33.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/congresso-33.jpg
 video: ''
 tags: []
 type: 
@@ -11,7 +11,7 @@ support_line: Relatório de projeto que pretende regulamentar trabalho escravo q
 section: recent
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/congresso-33.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/congresso-33.jpg
 label: 
 date: '2014-06-27T11:16:56-03:00'
 created_date: 2014-06-27 12:00

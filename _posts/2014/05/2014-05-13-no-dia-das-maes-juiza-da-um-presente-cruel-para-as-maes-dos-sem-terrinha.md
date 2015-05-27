@@ -2,7 +2,7 @@
 layout: post
 title: No dia das mães, juíza dá um presente cruel para as mães dos Sem Terrinha
 legacy_url: http://www.mst.org.br/node/16092
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/justiça
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/justiça
   cega.jpg
 video: ''
 tags:
@@ -15,7 +15,7 @@ support_line: Já não bastasse ter mandado a multidão de sem-terra sair imedia
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/justiça cega.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/justiça cega.jpg
 label: 
 published: true
 menu: reforma agrária

@@ -2,7 +2,7 @@
 layout: post
 title: Campanha contra o Trabalho Escravo do Agronegócio
 legacy_url: http://www.mst.org.br/node/9919
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/trabalho_ecravo(2).jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/trabalho_ecravo(2).jpg
 video: ''
 tags: []
 type: 
@@ -10,7 +10,7 @@ support_line: ''
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/trabalho_ecravo(2).jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/trabalho_ecravo(2).jpg
 label: journeys
 published: true
 date: '2010-05-24T12:32:15-03:00'
@@ -62,9 +62,9 @@ Pela aprovação imediata da PEC 438/2001!
 
 <strong><a href="http://www.mst.org.br/node/10169" target="_self">1º Encontro Nacional pela Erradicação do Trabalho Escravo </a></strong>
 
-<strong><a href="http://www.mst.org.br/sites/default/files/encontro_trabalhoescravo_programacao%5B1%5D.pdf" target="_blank">Veja a programação do encontro em PDF</a></strong>
+<strong><a href="http://www.antigo.mst.org.br/sites/default/files/encontro_trabalhoescravo_programacao%5B1%5D.pdf" target="_blank">Veja a programação do encontro em PDF</a></strong>
 
-<b><a href="http://www.mst.org.br/sites/default/files/CARTAZ%20PEC.jpg" target="_blank">Baixe o cartaz em alta definição</a></b>
+<b><a href="http://www.antigo.mst.org.br/sites/default/files/CARTAZ%20PEC.jpg" target="_blank">Baixe o cartaz em alta definição</a></b>
 
 <a href="http://imagem.camara.gov.br/dc_20.asp?selCodColecaoCsv=D&amp;Datain=7/11/2001&amp;txpagina=56101&amp;altura=700&amp;largura=800" target="_blank"><strong>Leia a íntegra da PEC do trabalho escravo</strong></a>
 

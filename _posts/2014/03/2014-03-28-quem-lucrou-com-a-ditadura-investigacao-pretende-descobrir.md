@@ -2,7 +2,7 @@
 layout: post
 title: Quem lucrou com a ditadura? Investigação pretende descobrir
 legacy_url: http://www.mst.org.br/node/15895
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/ditadura.png
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/ditadura.png
 video: ''
 tags:
 - tag: direitos humanos
@@ -13,7 +13,7 @@ support_line: Pesquisa formado por diversos pesquisadores/as ligados a universid
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/ditadura.png
+images_hd: http://www.antigo.mst.org.br/sites/default/files/ditadura.png
 label: 
 published: true
 menu: direitos humanos

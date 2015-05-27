@@ -2,7 +2,7 @@
 layout: post
 title: A forma como você se alimenta é um ato político, afirma pesquisadora
 legacy_url: http://www.mst.org.br/node/16219
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/organico!.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/organico!.jpg
 video: ''
 tags:
 - tag: agricultura
@@ -15,7 +15,7 @@ support_line: Em entrevista, a&nbsp;nutricionista Elaine de Azevedo, pesquisador
 section: interviews
 hat: Agricultura
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/organico!.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/organico!.jpg
 label: 
 published: true
 menu: agricultura camponesa

@@ -2,7 +2,7 @@
 layout: post
 title: Movimento a favor do Plebiscito por reforma política cresce em São Paulo
 legacy_url: http://www.mst.org.br/node/15668
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/REFORMAPOLITICA.gif
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/REFORMAPOLITICA.gif
 video: ''
 tags:
 - tag: reforma política
@@ -14,7 +14,7 @@ support_line: Cerca de 200 pessoas de 79 organizações participaram neste final
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/REFORMAPOLITICA.gif
+images_hd: http://www.antigo.mst.org.br/sites/default/files/REFORMAPOLITICA.gif
 label: 
 published: true
 menu: lutas e mobilizações

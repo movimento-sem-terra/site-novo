@@ -2,7 +2,7 @@
 layout: post
 title: "Áreas com transgênico e agrotóxico têm maior taxa de câncer, aponta relatório"
 legacy_url: http://www.mst.org.br/node/16234
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/veneno.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/veneno.jpg
 video: ''
 tags:
 - tag: manchete
@@ -17,7 +17,7 @@ support_line: Ministério da Saúde de Córdoba revelou que nas áreas que se ap
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/veneno.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/veneno.jpg
 label: 
 published: true
 menu: agronegócio

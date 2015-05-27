@@ -2,7 +2,7 @@
 layout: post
 title: 'MST realiza ocupações por Reforma Agrária na Paraíba '
 legacy_url: http://www.mst.org.br/node/16035
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/mst-23.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/mst-23.jpg
 video: ''
 tags:
 - tag: jornada de lutas abril 2014
@@ -13,7 +13,7 @@ support_line: As ações fazem parte da Jornada Nacional de Lutas do movimento.&
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/mst-23.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/mst-23.jpg
 label: 
 published: true
 menu: lutas e mobilizações

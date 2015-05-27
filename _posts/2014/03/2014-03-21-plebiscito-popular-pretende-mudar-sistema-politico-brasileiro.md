@@ -2,7 +2,7 @@
 layout: post
 title: Plebiscito popular pretende mudar sistema político brasileiro
 legacy_url: http://www.mst.org.br/node/15876
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/reforma
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/reforma
   política!.jpg
 video: ''
 tags:
@@ -13,7 +13,7 @@ support_line: Consulta popular acontecerá entre os dias 1º e 7 de setembro de 
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/reforma política!.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/reforma política!.jpg
 label: 
 published: true
 menu: projeto popular

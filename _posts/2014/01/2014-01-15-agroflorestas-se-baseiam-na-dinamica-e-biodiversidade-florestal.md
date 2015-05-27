@@ -2,7 +2,7 @@
 layout: post
 title: Agroflorestas se baseiam na dinâmica e biodiversidade florestal
 legacy_url: http://www.mst.org.br/node/15615
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/video-agroflorestar-canteiro-agroflorestal33.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/video-agroflorestar-canteiro-agroflorestal33.jpg
 video: ''
 tags:
 - tag: agricultura camponesa

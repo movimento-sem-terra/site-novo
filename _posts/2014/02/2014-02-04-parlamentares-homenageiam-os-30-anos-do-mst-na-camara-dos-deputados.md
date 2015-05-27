@@ -2,7 +2,7 @@
 layout: post
 title: Parlamentares homenageiam os 30 anos do MST na Câmara Dos Deputados
 legacy_url: http://www.mst.org.br/node/15669
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/ValmirBAmarconRS2.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/ValmirBAmarconRS2.jpg
 video: ''
 tags:
 - tag: '6'
@@ -14,7 +14,7 @@ support_line: Os deputados Valmir Assunção (PT-BA) e &nbsp;Marcon (PT-RS) far�
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/ValmirBAmarconRS2.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/ValmirBAmarconRS2.jpg
 label: 
 published: true
 menu: reforma agrária

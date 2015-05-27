@@ -2,7 +2,7 @@
 layout: post
 title: 'Na Itália, uma decisão histórica: a proibição do cultivo de milho transgênico'
 legacy_url: http://www.mst.org.br/node/16022
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/transgenicos.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/transgenicos.jpg
 video: ''
 tags:
 - tag: transgênicos
@@ -14,7 +14,7 @@ support_line: Um agrônomo e um agricultor italianos haviam apresentado um recur
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/transgenicos.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/transgenicos.jpg
 label: 
 published: true
 menu: agronegócio

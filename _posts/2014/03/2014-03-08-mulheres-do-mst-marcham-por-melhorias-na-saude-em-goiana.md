@@ -2,7 +2,7 @@
 layout: post
 title: Mulheres do MST marcham por melhorias na saúde em Goianá
 legacy_url: http://www.mst.org.br/node/15813
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/mulheres
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/mulheres
   GO.jpg
 video: ''
 tags:
@@ -14,7 +14,7 @@ support_line: O marcha reinvindica o fim da discriminação dentro do posto de s
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/mulheres GO.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/mulheres GO.jpg
 label: 
 published: true
 menu: lutas e mobilizações

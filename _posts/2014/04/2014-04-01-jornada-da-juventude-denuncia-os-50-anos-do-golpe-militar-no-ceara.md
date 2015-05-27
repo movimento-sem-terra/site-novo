@@ -2,7 +2,7 @@
 layout: post
 title: Jornada da Juventude denuncia os 50 anos do Golpe Militar no Ceará
 legacy_url: http://www.mst.org.br/node/15912
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/ato-da-frente.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/ato-da-frente.jpg
 video: ''
 tags:
 - tag: ceará
@@ -15,7 +15,7 @@ support_line: A marcha seguiu em direção ao hospital do exército brasileiro, 
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/ato-da-frente.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/ato-da-frente.jpg
 label: 
 published: true
 menu: direitos humanos

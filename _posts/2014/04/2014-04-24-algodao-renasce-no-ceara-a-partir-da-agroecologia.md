@@ -2,7 +2,7 @@
 layout: post
 title: Algodão renasce no Ceará a partir da agroecologia
 legacy_url: http://www.mst.org.br/node/16007
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/algodão.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/algodão.jpg
 video: ''
 tags:
 - tag: ceará
@@ -15,7 +15,7 @@ support_line: 'A terra, antes seca, passa a receber esterco e palha de carnaúba
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/algodão.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/algodão.jpg
 label: 
 published: true
 menu: agricultura camponesa

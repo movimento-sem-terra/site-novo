@@ -2,7 +2,7 @@
 layout: post
 title: Policiais invadem acampamento e prendem Sem Terra no RN
 legacy_url: http://www.mst.org.br/node/16146
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/vio.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/vio.jpg
 video: ''
 tags:
 - tag: rio grande do norte
@@ -15,7 +15,7 @@ support_line: Nesta quinta, o Acampamento Luis Carlos Prestes foi invadido e des
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/vio.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/vio.jpg
 label: 
 published: true
 menu: direitos humanos

@@ -47,4 +47,4 @@ Por isso, permanece o desafio de continuar com o trabalho de resgate da mem&oacu
 <br />
 A CCV foi criada em 2012 como um dos resultados do Encontro Unit&aacute;rio dos Trabalhadores, Trabalhadoras e Povos do Campo, das &Aacute;guas e das Florestas. Entidades que a comp&otilde;em: CONTAG, CPT, FETRAF, MMC, MST, DHESCA, RENAP, Terra de Direitos, Universidades e personalidades.<br />
 <br />
-Clique <a href="http://www.mst.org.br/sites/default/files/Relat%C3%B3rio%20Final%20Comiss%C3%A3o%20Camponesa%20da%20Verdade%20-%2009dez2014.pdf">aqui </a>para baixar o relat&oacute;rio da Comiss&atilde;o Camponesa da Verdade na &iacute;ntegra.</p>
+Clique <a href="http://www.antigo.mst.org.br/sites/default/files/Relat%C3%B3rio%20Final%20Comiss%C3%A3o%20Camponesa%20da%20Verdade%20-%2009dez2014.pdf">aqui </a>para baixar o relat&oacute;rio da Comiss&atilde;o Camponesa da Verdade na &iacute;ntegra.</p>

@@ -2,7 +2,7 @@
 layout: post
 title: Juventude Sem Terra se organiza na luta para permanecer no campo
 legacy_url: http://www.mst.org.br/node/15663
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/juventude
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/juventude
   jmst2.JPG
 video: ''
 tags:
@@ -15,7 +15,7 @@ support_line: A participação da juventude é fruto de um processo de construç
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/juventude jmst2.JPG
+images_hd: http://www.antigo.mst.org.br/sites/default/files/juventude jmst2.JPG
 label: 
 published: true
 menu: projeto popular

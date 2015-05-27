@@ -2,7 +2,7 @@
 layout: post
 title: Em benefício do agronegócio direitos humanos de comunidades são violados
 legacy_url: http://www.mst.org.br/node/16151
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/charge-latuff-agro_comendo!.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/charge-latuff-agro_comendo!.jpg
 video: ''
 tags:
 - tag: agronegócio
@@ -14,7 +14,7 @@ support_line: Estudo demonstra como a expansão do agronegócio em várias regi�
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/charge-latuff-agro_comendo!.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/charge-latuff-agro_comendo!.jpg
 label: 
 published: true
 menu: direitos humanos

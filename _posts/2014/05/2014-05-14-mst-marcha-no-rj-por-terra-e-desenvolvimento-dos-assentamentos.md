@@ -2,7 +2,7 @@
 layout: post
 title: 'MST marcha no RJ por terra e desenvolvimento dos assentamentos '
 legacy_url: http://www.mst.org.br/node/16098
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/jornada
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/jornada
   rio2.jpg
 video: ''
 tags:
@@ -16,7 +16,7 @@ support_line: o MST exige a desapropriação de 10 áreas no estado do Rio. Muit
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/jornada rio2.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/jornada rio2.jpg
 label: 
 published: true
 menu: lutas e mobilizações

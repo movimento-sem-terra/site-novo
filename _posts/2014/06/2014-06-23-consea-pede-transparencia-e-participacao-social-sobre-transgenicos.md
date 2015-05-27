@@ -2,7 +2,7 @@
 layout: post
 title: Consea pede transparência e participação social sobre transgênicos
 legacy_url: http://www.mst.org.br/node/16230
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/não.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/não.jpg
 video: ''
 tags:
 - tag: agronegócio
@@ -14,7 +14,7 @@ support_line: Em carta destinada à Presidência da República, membros do Conse
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/não.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/não.jpg
 label: 
 published: true
 menu: transgênicos

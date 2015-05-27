@@ -2,7 +2,7 @@
 layout: post
 title: Sancionada lei que dificulta fechamento de escolas do campo
 legacy_url: http://www.mst.org.br/node/15906
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/Cartaz_Final_fechar_escola.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/Cartaz_Final_fechar_escola.jpg
 video: ''
 tags:
 - tag: educação
@@ -13,7 +13,7 @@ support_line: "Órgão normativo tem que opinar sobre fechamento e comunidade de
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/Cartaz_Final_fechar_escola.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/Cartaz_Final_fechar_escola.jpg
 label: 
 published: true
 menu: educação, cultura e comunicação

@@ -2,7 +2,7 @@
 layout: post
 title: 'Povos tradicionais fazem greve de fome em Brasília por criação de reserva '
 legacy_url: http://www.mst.org.br/node/16181
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/povos2.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/povos2.jpg
 video: ''
 tags:
 - tag: lutas e mobilizações
@@ -12,7 +12,7 @@ support_line: O protesto conta com 110 pessoas e reivindica a criação da Reser
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/povos2.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/povos2.jpg
 label: 
 published: true
 menu: lutas e mobilizações

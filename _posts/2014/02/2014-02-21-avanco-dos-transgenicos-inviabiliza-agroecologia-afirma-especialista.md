@@ -2,7 +2,7 @@
 layout: post
 title: '"Avanço dos transgênicos inviabiliza agroecologia", afirma especialista'
 legacy_url: http://www.mst.org.br/node/15763
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/transgenicos.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/transgenicos.jpg
 video: ''
 tags:
 - tag: transgênicos
@@ -15,7 +15,7 @@ support_line: "“O  artigo 9º da Lei 10.814 previa que o produtor de transgên
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/transgenicos.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/transgenicos.jpg
 label: 
 published: true
 menu: transgênicos

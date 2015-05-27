@@ -2,7 +2,7 @@
 layout: post
 title: Estudo americano aponta relação entre autismo e agrotóxicos
 legacy_url: http://www.mst.org.br/node/16237
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/ig3-568
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/ig3-568
   agrotoxico.JPG
 video: ''
 tags:
@@ -15,7 +15,7 @@ support_line: Uma mulher grávida que vive perto de uma fazenda onde são utiliz
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/ig3-568 agrotoxico.JPG
+images_hd: http://www.antigo.mst.org.br/sites/default/files/ig3-568 agrotoxico.JPG
 label: 
 published: true
 menu: agronegócio

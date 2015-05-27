@@ -2,7 +2,7 @@
 layout: post
 title: 13ª edição da Jornada de Agroecologia inicia nesta quarta-feira no PR
 legacy_url: http://www.mst.org.br/node/16178
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/jornadaagro.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/jornadaagro.jpg
 video: ''
 tags:
 - tag: manchete
@@ -12,7 +12,7 @@ support_line: O evento reunirá aproximadamente  2500 camponeses e camponesas, p
 section: recent
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/jornadaagro.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/jornadaagro.jpg
 date: '2014-06-03T15:52:40-03:00'
 created_date: 2014-06-03 12:00
 

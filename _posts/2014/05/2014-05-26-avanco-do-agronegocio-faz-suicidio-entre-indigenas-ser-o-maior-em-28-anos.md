@@ -2,7 +2,7 @@
 layout: post
 title: Avanço do agronegócio faz suicídio entre indígenas ser o maior em 28 anos
 legacy_url: http://www.mst.org.br/node/16153
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/indios!.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/indios!.jpg
 video: ''
 tags:
 - tag: mato grosso do sul
@@ -14,7 +14,7 @@ support_line: No período de 1986 a 1997, foram registradas 244 mortes por suic�
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/indios!.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/indios!.jpg
 label: 
 published: true
 menu: agronegócio

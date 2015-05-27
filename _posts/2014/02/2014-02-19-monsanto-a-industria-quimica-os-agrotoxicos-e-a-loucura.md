@@ -2,7 +2,7 @@
 layout: post
 title: 'Monsanto: a indústria química, os agrotóxicos e a loucura'
 legacy_url: http://www.mst.org.br/node/15748
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/gmo-monsanto-nrcs-294.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/gmo-monsanto-nrcs-294.jpg
 video: ''
 tags:
 - tag: agronegócio
@@ -12,7 +12,7 @@ support_line: Setor faturou  no mundo US$3,4 trilhões em 2010 e no Brasil US$10
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/gmo-monsanto-nrcs-294.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/gmo-monsanto-nrcs-294.jpg
 label: 
 published: true
 menu: agronegócio

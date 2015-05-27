@@ -2,7 +2,7 @@
 layout: post
 title: Inscrições para curso de Direito da UFPR pelo Pronera acaba nesta sexta
 legacy_url: http://www.mst.org.br/node/16145
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/curso-residencia-agraria.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/curso-residencia-agraria.jpg
 video: ''
 tags:
 - tag: residência agrária
@@ -14,7 +14,7 @@ support_line: Os beneficiários da Reforma Agrária e remanescentes de quilombos
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/curso-residencia-agraria.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/curso-residencia-agraria.jpg
 label: 
 published: true
 menu: educação, cultura e comunicação

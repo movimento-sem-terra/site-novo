@@ -2,7 +2,7 @@
 layout: post
 title: Ministério Público entra com ação contra liberação de mais agrotóxicos
 legacy_url: http://www.mst.org.br/node/15882
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/ag!.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/ag!.jpg
 video: ''
 tags:
 - tag: agrotóxicos
@@ -14,7 +14,7 @@ support_line: Num momento em que o setor produtivo faz pressão para a aprovaç�
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/ag!.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/ag!.jpg
 label: 
 published: true
 menu: agronegócio

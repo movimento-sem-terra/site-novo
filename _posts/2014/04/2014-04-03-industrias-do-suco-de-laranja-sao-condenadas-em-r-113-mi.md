@@ -2,7 +2,7 @@
 layout: post
 title: Indústrias do suco de laranja são condenadas em R$ 113 mi
 legacy_url: http://www.mst.org.br/node/15923
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/cutrale
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/cutrale
   mata.jpg
 video: ''
 tags:
@@ -15,7 +15,7 @@ support_line: Cutrale, Louis Dreyfus e Citrosuco foram processadas por terceiriz
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/cutrale mata.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/cutrale mata.jpg
 label: 
 published: true
 menu: agronegócio

@@ -2,7 +2,7 @@
 layout: post
 title: MST e UNIFESSPA promovem venda de produtos agroecológicos em Marabá
 legacy_url: http://www.mst.org.br/node/16006
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/feira_1.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/feira_1.jpg
 video: ''
 tags:
 - tag: manchete
@@ -16,7 +16,7 @@ support_line: A atividade faz parte da 1º Jornada Universitária em Defesa da R
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/feira_1.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/feira_1.jpg
 label: 
 published: true
 menu: agricultura camponesa

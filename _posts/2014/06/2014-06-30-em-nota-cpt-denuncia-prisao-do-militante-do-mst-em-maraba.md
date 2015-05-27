@@ -2,7 +2,7 @@
 layout: post
 title: Em nota, CPT denuncia prisão do militante do MST em Marabá
 legacy_url: http://www.mst.org.br/node/16247
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/mstcpt.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/mstcpt.jpg
 video: ''
 tags:
 - tag: pará
@@ -15,7 +15,7 @@ support_line: A criminalização aos militantes do MST no Pará tem se intensifi
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/mstcpt.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/mstcpt.jpg
 label: 
 published: true
 menu: direitos humanos

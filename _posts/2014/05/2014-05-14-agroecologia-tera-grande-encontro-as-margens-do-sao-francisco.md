@@ -2,7 +2,7 @@
 layout: post
 title: Agroecologia terá grande encontro às margens do São Francisco
 legacy_url: http://www.mst.org.br/node/16101
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/agroecologia.gif
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/agroecologia.gif
 video: ''
 tags:
 - tag: bahia
@@ -15,7 +15,7 @@ support_line: Emtre os dias 16 e 19 acontece o 3º Encontro Nacional de Agroecol
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/agroecologia.gif
+images_hd: http://www.antigo.mst.org.br/sites/default/files/agroecologia.gif
 label: 
 published: true
 menu: agricultura camponesa

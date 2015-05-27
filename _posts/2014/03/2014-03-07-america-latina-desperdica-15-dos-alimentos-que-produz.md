@@ -2,7 +2,7 @@
 layout: post
 title: América Latina desperdiça 15% dos alimentos que produz
 legacy_url: http://www.mst.org.br/node/15810
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/desperdicio.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/desperdicio.jpg
 video: ''
 tags:
 - tag: direitos humanos
@@ -12,7 +12,7 @@ support_line: Na América Latina, onde milhões de crianças sofrem desnutriçã
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/desperdicio.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/desperdicio.jpg
 label: 
 published: true
 menu: direitos humanos

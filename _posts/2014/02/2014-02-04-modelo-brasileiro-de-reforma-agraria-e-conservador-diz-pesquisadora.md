@@ -2,7 +2,7 @@
 layout: post
 title: Modelo brasileiro de Reforma Agrária é conservador, diz pesquisadora
 legacy_url: http://www.mst.org.br/node/15666
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/pobreza
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/pobreza
   rural!.jpg
 video: ''
 tags:
@@ -16,7 +16,7 @@ support_line: "“É  preciso entender a política agrária que acontece no paí
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/pobreza rural!.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/pobreza rural!.jpg
 label: 
 published: true
 menu: reforma agrária

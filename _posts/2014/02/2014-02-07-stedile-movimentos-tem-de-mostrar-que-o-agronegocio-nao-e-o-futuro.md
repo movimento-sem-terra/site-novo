@@ -2,7 +2,7 @@
 layout: post
 title: 'Stedile: "Movimentos tem de mostrar que o agronegócio não é o futuro"'
 legacy_url: http://www.mst.org.br/node/15681
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/stedile2.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/stedile2.jpg
 video: ''
 tags:
 - tag: '6'
@@ -15,7 +15,7 @@ support_line: O membro da coordenação do MST pautou o 6° Congresso Nacional d
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/stedile2.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/stedile2.jpg
 label: 
 published: true
 menu: reforma agrária

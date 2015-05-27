@@ -2,7 +2,7 @@
 layout: post
 title: Fazendas ocupadas pelo MST têm diversas irregularidades no Pará
 legacy_url: http://www.mst.org.br/node/16200
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/Fazaenda
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/Fazaenda
   Santa Tereza!.jpg
 video: ''
 tags:
@@ -17,7 +17,7 @@ support_line: José Batista Afonso, advogado da CPT em Marabá, destaca as princ
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/Fazaenda Santa Tereza!.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/Fazaenda Santa Tereza!.jpg
 label: 
 published: true
 menu: lutas e mobilizações

@@ -2,7 +2,7 @@
 layout: post
 title: Seminário discute impactos dos projetos de desenvolvimento na Amazônia
 legacy_url: http://www.mst.org.br/node/16042
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/desmaamento
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/desmaamento
   padrao certo.jpg
 video: ''
 tags:
@@ -13,7 +13,7 @@ support_line: Evento contará com participantes de 11 países e refletirá a ár
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/desmaamento padrao certo.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/desmaamento padrao certo.jpg
 label: 
 published: true
 menu: agronegócio

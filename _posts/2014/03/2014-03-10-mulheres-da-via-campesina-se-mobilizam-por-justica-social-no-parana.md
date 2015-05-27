@@ -2,7 +2,7 @@
 layout: post
 title: Mulheres da Via Campesina se mobilizam por justiça social no Paraná
 legacy_url: http://www.mst.org.br/node/15814
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/mulheres
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/mulheres
   PR2.jpg
 video: ''
 tags:
@@ -14,7 +14,7 @@ support_line: Cerca de 1000 mulheres do MST e do MPA realizaram o 9º Encontro R
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/mulheres PR2.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/mulheres PR2.jpg
 label: 
 published: true
 menu: lutas e mobilizações

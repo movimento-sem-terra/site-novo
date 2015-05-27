@@ -2,7 +2,7 @@
 layout: post
 title: Movimentos realizam ato em frente à sede da Rede Globo, em Brasília
 legacy_url: http://www.mst.org.br/node/16099
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/integração
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/integração
   latina.jpeg
 video: ''
 tags:
@@ -16,7 +16,7 @@ support_line: A ação acontece em defesa da integração latinoamericana e pela
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/integração latina.jpeg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/integração latina.jpeg
 label: 
 published: true
 menu: lutas e mobilizações

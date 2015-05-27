@@ -2,7 +2,7 @@
 layout: post
 title: A caminho do 6° Congresso, Sem Terra do PA trazem sua cultura local
 legacy_url: http://www.mst.org.br/node/15679
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/AL 2009
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/AL 2009
   Marcha Estadual!!.jpg
 video: ''
 tags:
@@ -14,7 +14,7 @@ support_line: Do Pará, cerca de 600 Trabalhadores Rurais Sem Terra se deslocam 
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/AL 2009 Marcha Estadual!!.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/AL 2009 Marcha Estadual!!.jpg
 label: 
 published: true
 menu: reforma agrária

@@ -2,7 +2,7 @@
 layout: post
 title: 'Agronegócio desestimula produção de alimentos básicos, diz pesquisador '
 legacy_url: http://www.mst.org.br/node/15671
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/agron1.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/agron1.jpg
 video: ''
 tags:
 - tag: agronegócio
@@ -12,7 +12,7 @@ support_line: Gerson Teixeira, presidente da Abra, analisa o impacto da padroniz
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/agron1.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/agron1.jpg
 label: 
 published: true
 menu: agronegócio

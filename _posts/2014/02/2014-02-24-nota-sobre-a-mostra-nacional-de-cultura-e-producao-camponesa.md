@@ -2,7 +2,7 @@
 layout: post
 title: Nota sobre a Mostra Nacional de Cultura e Produção Camponesa
 legacy_url: http://www.mst.org.br/node/15767
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/mst 302.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/mst 302.jpg
 video: ''
 tags:
 - tag: manchete
@@ -14,7 +14,7 @@ support_line: Veja nota do MST sobre&nbsp;a matéria “ BNDES liberou R$ 350 mi
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/mst 302.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/mst 302.jpg
 label: 
 published: true
 menu: reforma agrária

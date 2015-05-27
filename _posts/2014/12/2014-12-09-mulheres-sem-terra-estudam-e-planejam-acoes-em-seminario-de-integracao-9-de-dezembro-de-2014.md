@@ -41,7 +41,7 @@ Entre os dias 5 a 7/12, 500 mulheres Sem Terra de oito regi&otilde;es da Bahia s
 Durante o projeto, que discutia o acesso a Pol&iacute;ticas P&uacute;blicas em S&atilde;o Gon&ccedil;alo dos Campos, rec&ocirc;ncavo baiano, as Sem Terra apontaram como os principais desafios o estudo, a organiza&ccedil;&atilde;o e a luta cont&iacute;nua.&nbsp;</p>
 
 <p><br />
-<img _fcksavedurl="/sites/default/files/encontro_mulheresBA2.jpg" alt="" height="400" src="http://www.mst.org.br/sites/default/files/encontro_mulheresBA2.jpg" style="margin:10px; float:right" width="300" />O semin&aacute;rio foi constru&iacute;do para avaliar o processo de forma&ccedil;&atilde;o e capacita&ccedil;&atilde;o que aconteceu durante quatro meses. Al&eacute;m disso, proporcionou a troca de experi&ecirc;ncias e a exposi&ccedil;&atilde;o de produtos confeccionados pelas trabalhadoras nos assentamentos e acampamentos.&nbsp;</p>
+<img _fcksavedurl="/sites/default/files/encontro_mulheresBA2.jpg" alt="" height="400" src="http://www.antigo.mst.org.br/sites/default/files/encontro_mulheresBA2.jpg" style="margin:10px; float:right" width="300" />O semin&aacute;rio foi constru&iacute;do para avaliar o processo de forma&ccedil;&atilde;o e capacita&ccedil;&atilde;o que aconteceu durante quatro meses. Al&eacute;m disso, proporcionou a troca de experi&ecirc;ncias e a exposi&ccedil;&atilde;o de produtos confeccionados pelas trabalhadoras nos assentamentos e acampamentos.&nbsp;</p>
 
 <p><br />
 O projeto se baseava na organiza&ccedil;&atilde;o coletiva para o acesso &agrave;s pol&iacute;ticas p&uacute;blicas do estado, utilizando-se de atividades de forma&ccedil;&atilde;o e oficinas que contou com a participa&ccedil;&atilde;o de centenas de mulheres.&nbsp;</p>
@@ -65,7 +65,7 @@ A noite cultural fomentou mais uma vez os aspectos da mulher, fortalecendo a uni
 Para Genilda Alves, do Assentamento Vale da Conquista, em Sobradinho (BA), &ldquo;o semin&aacute;rio foi uma ferramenta importante para a organiza&ccedil;&atilde;o das mulheres. Em nossas casas somos v&iacute;timas do machismo, e aqui estamos aprendendo o valor que temos diante da luta do povo e, principalmente, que juntas poderemos mudar a realidade&rdquo;.&nbsp;</p>
 
 <p><br />
-<strong><img _fcksavedurl="/sites/default/files/encontro_mulheresBA3.jpg" alt="" height="338" src="http://www.mst.org.br/sites/default/files/encontro_mulheresBA3.jpg" style="margin:10px; float:left" width="450" />Pol&iacute;ticas P&uacute;blicas</strong></p>
+<strong><img _fcksavedurl="/sites/default/files/encontro_mulheresBA3.jpg" alt="" height="338" src="http://www.antigo.mst.org.br/sites/default/files/encontro_mulheresBA3.jpg" style="margin:10px; float:left" width="450" />Pol&iacute;ticas P&uacute;blicas</strong></p>
 
 <p><br />
 As primeiras mesas de debate analisaram o processo hist&oacute;rico e as quest&otilde;es pol&iacute;ticas da atualidade.</p>
@@ -82,7 +82,7 @@ Para ela, por&eacute;m, o processo eleitoral deste ano foi fundamental para se p
 <p><br />
 Para a professora, o Programa Nacional de Fortalecimento da Agricultura Familiar voltado ao p&uacute;blico feminino e a Lei Maria da Penha, s&atilde;o resultado do protagonismo da luta das trabalhadoras diante da hist&oacute;ria.</p>
 
-<p><img _fcksavedurl="/sites/default/files/encontro_mulheresBA4.jpg" alt="" height="450" src="http://www.mst.org.br/sites/default/files/encontro_mulheresBA4.jpg" style="margin: 10px;" width="600" /><br />
+<p><img _fcksavedurl="/sites/default/files/encontro_mulheresBA4.jpg" alt="" height="450" src="http://www.antigo.mst.org.br/sites/default/files/encontro_mulheresBA4.jpg" style="margin: 10px;" width="600" /><br />
 <strong>Desafios</strong></p>
 
 <p><br />
@@ -95,7 +95,7 @@ Maria Rosa, da dire&ccedil;&atilde;o estadual do MST, acredita que o primeiro de
 &ldquo;Precisamos avan&ccedil;ar em nosso debate e nos propor realizar mudan&ccedil;as. Temos muitos espa&ccedil;os, como as lutas do MST. Devemos aproveitar isso para protagonizarmos nossas bandeiras e nos empoderar enquanto Mulheres Sem Terra&rdquo;, afirmou.&nbsp;</p>
 
 <p><br />
-<strong><img _fcksavedurl="/sites/default/files/encontro_mulheresBA.jpg" alt="" height="412" src="http://www.mst.org.br/sites/default/files/encontro_mulheresBA.jpg" style="margin:10px; float:right" width="400" />Organiza&ccedil;&atilde;o</strong></p>
+<strong><img _fcksavedurl="/sites/default/files/encontro_mulheresBA.jpg" alt="" height="412" src="http://www.antigo.mst.org.br/sites/default/files/encontro_mulheresBA.jpg" style="margin:10px; float:right" width="400" />Organiza&ccedil;&atilde;o</strong></p>
 
 <p><br />
 As mulheres sa&iacute;ram do semin&aacute;rio com o objetivo de fortalecer e mobilizar outras trabalhadoras a se organizar, al&eacute;m de construir coletivamente a&ccedil;&otilde;es pontuais que garantam melhorias estruturais para todas.&nbsp;</p>
@@ -111,8 +111,8 @@ O semin&aacute;rio foi uma iniciativa do MST em parceria com a SPM, Companhia de
 
 <div>&nbsp;</div>
 
-<div><img _fcksavedurl="/sites/default/files/encontro_mulheresBA5.jpg" alt="" height="450" src="http://www.mst.org.br/sites/default/files/encontro_mulheresBA5.jpg" style="margin: 10px;" width="600" /></div>
+<div><img _fcksavedurl="/sites/default/files/encontro_mulheresBA5.jpg" alt="" height="450" src="http://www.antigo.mst.org.br/sites/default/files/encontro_mulheresBA5.jpg" style="margin: 10px;" width="600" /></div>
 
-<div><img _fcksavedurl="/sites/default/files/encontro_mulheresBA6.jpg" alt="" height="450" src="http://www.mst.org.br/sites/default/files/encontro_mulheresBA6.jpg" style="margin: 10px;" width="600" /></div>
+<div><img _fcksavedurl="/sites/default/files/encontro_mulheresBA6.jpg" alt="" height="450" src="http://www.antigo.mst.org.br/sites/default/files/encontro_mulheresBA6.jpg" style="margin: 10px;" width="600" /></div>
 
 <p>&nbsp;</p>

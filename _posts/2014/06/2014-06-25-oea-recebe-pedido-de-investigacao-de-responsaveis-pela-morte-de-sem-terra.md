@@ -2,7 +2,7 @@
 layout: post
 title: OEA recebe pedido de investigação de responsáveis pela morte de Sem Terra
 legacy_url: http://www.mst.org.br/node/16240
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/vio.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/vio.jpg
 video: ''
 tags:
 - tag: paraná
@@ -14,7 +14,7 @@ support_line: Diniz Bento da Silva, conhecido como Teixeirinha, foi morto por po
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/vio.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/vio.jpg
 label: 
 published: true
 menu: direitos humanos

@@ -2,7 +2,7 @@
 layout: post
 title: 'Delgado: Brasil deve romper dependência do modelo agroexportador'
 legacy_url: http://www.mst.org.br/node/15754
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/guilherme-delgado2.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/guilherme-delgado2.jpg
 video: ''
 tags:
 - tag: agronegócio
@@ -13,7 +13,7 @@ support_line: Os déficits da economia e baixo  crescimento estão relacionados 
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/guilherme-delgado2.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/guilherme-delgado2.jpg
 label: 
 published: true
 menu: agronegócio

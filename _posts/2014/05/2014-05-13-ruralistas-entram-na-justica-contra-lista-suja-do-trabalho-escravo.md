@@ -2,7 +2,7 @@
 layout: post
 title: Ruralistas entram na Justiça contra ‘lista suja’ do trabalho escravo
 legacy_url: http://www.mst.org.br/node/16094
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/8686.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/8686.jpg
 video: ''
 tags:
 - tag: agronegócio
@@ -12,7 +12,7 @@ support_line: Confederação Nacional da Agricultura e Pecuária tenta acabar co
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/8686.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/8686.jpg
 label: 
 published: true
 menu: agronegócio

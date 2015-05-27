@@ -2,7 +2,7 @@
 layout: post
 title: Jornada da Juventude Sem Terra
 legacy_url: http://www.mst.org.br/node/12183
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/Logo juv.JPG
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/Logo juv.JPG
 video: ''
 tags: []
 type: 
@@ -10,7 +10,7 @@ support_line: ''
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/Logo juv.JPG
+images_hd: http://www.antigo.mst.org.br/sites/default/files/Logo juv.JPG
 label: journeys
 published: true
 date: '2011-07-22T17:04:12-03:00'

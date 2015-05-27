@@ -2,7 +2,7 @@
 layout: post
 title: Sem Terra realizam curso para atuarem na Educação de Jovens e Adultos
 legacy_url: "http://www.mst.org.br/node/16139"
-images: "http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/MEB_ENFF.jpg"
+images: "http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/MEB_ENFF.jpg"
 video: ""
 tags:
   - tag: educação
@@ -12,7 +12,7 @@ support_line: "A atividade está sendo realizada na Escola Nacional Florestan Fe
 section: null
 hat: ""
 picture_week: ""
-images_hd: "http://www.mst.org.br/sites/default/files/MEB_ENFF.jpg"
+images_hd: "http://www.antigo.mst.org.br/sites/default/files/MEB_ENFF.jpg"
 label: null
 published: true
 menu: "educação, cultura e comunicação"
@@ -20,8 +20,8 @@ date: "2014-05-22T09:50:34-03:00"
 created_date: "2014-05-22 12:00"
 sector: education
 files:
-  - thumbnail: "http://www.mst.org.br/sites/default/files/MEB_ENFF.jpg"
-    small: "http://www.mst.org.br/sites/default/files/MEB_ENFF.jpg"
+  - thumbnail: "http://www.antigo.mst.org.br/sites/default/files/MEB_ENFF.jpg"
+    small: "http://www.antigo.mst.org.br/sites/default/files/MEB_ENFF.jpg"
     $$hashKey: 0DY
   - !<tag:yaml.org,2002:js/undefined> ""
 releated_posts:
@@ -29,7 +29,7 @@ releated_posts:
   - 2015/01/2015-01-21-falece-a-pedagoga-cubana-criadora-do-programa-de-alfabetizacao-sim-eu-posso.md
 
 ---
-<p><em><img alt="" src="http://www.mst.org.br/sites/default/files/MEB_ENFF_0.jpg" style="margin: 10px;" /><br />
+<p><em><img alt="" src="http://www.antigo.mst.org.br/sites/default/files/MEB_ENFF_0.jpg" style="margin: 10px;" /><br />
 <br />
 Por Hildebrando Silva de Andrade<br />
 Da P&aacute;gina do MST</em></p>

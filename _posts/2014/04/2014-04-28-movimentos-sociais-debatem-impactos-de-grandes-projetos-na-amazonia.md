@@ -2,7 +2,7 @@
 layout: post
 title: Movimentos sociais debatem impactos de grandes projetos na Amazônia
 legacy_url: http://www.mst.org.br/node/16014
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/mi!!!!.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/mi!!!!.jpg
 video: ''
 tags:
 - tag: amazônia
@@ -14,7 +14,7 @@ support_line: Movimentos de diversas áreas realizam o Seminário Internacional 
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/mi!!!!.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/mi!!!!.jpg
 label: 
 published: true
 menu: lutas e mobilizações

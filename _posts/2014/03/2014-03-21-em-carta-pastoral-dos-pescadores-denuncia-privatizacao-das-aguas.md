@@ -2,7 +2,7 @@
 layout: post
 title: Em carta, pastoral dos pescadores denuncia privatização das águas
 legacy_url: http://www.mst.org.br/node/15875
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/agua charge2.jpeg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/agua charge2.jpeg
 video: ''
 tags:
 - tag: agronegócio
@@ -13,7 +13,7 @@ support_line: "\"O que está acontecendo com as comunidades tradicionais pesquei
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/agua charge2.jpeg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/agua charge2.jpeg
 label: 
 published: true
 menu: agronegócio

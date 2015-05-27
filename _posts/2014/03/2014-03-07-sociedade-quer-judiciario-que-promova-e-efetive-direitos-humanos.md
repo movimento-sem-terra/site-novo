@@ -2,7 +2,7 @@
 layout: post
 title: '"Sociedade quer Judiciário que promova e efetive direitos humanos"'
 legacy_url: http://www.mst.org.br/node/15807
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/darci frigo2.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/darci frigo2.jpg
 video: ''
 tags:
 - tag: reforma agrária
@@ -13,7 +13,7 @@ support_line: Para o advogado Darci Frigo, "O judiciário deve se abrir para o d
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/darci frigo2.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/darci frigo2.jpg
 label: 
 published: true
 menu: reforma agrária

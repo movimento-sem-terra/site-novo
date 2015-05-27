@@ -2,7 +2,7 @@
 layout: post
 title: Sem Terra prolongam jornada e ocupam mais terra e prédios públicos em PE
 legacy_url: http://www.mst.org.br/node/16111
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/22 de agosoto.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/22 de agosoto.jpg
 video: ''
 tags:
 - tag: pernambuco
@@ -15,7 +15,7 @@ support_line: A Jornada Nacional de Lutas pela Reforma Agrária se estendeu pelo
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/22 de agosoto.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/22 de agosoto.jpg
 label: 
 published: true
 menu: lutas e mobilizações

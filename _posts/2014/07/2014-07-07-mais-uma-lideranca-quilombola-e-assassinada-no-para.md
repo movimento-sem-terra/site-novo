@@ -2,7 +2,7 @@
 layout: post
 title: Mais uma liderança quilombola é assassinada no Pará
 legacy_url: http://www.mst.org.br/node/16269
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/quilombo!.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/quilombo!.jpg
 video: ''
 tags:
 - tag: pará
@@ -15,7 +15,7 @@ support_line: Artêmio Gusmão foi encontrado morto e esquartejado na manhã do 
 section: carousel
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/quilombo!.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/quilombo!.jpg
 label: 
 published: true
 menu: direitos humanos

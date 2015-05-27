@@ -2,7 +2,7 @@
 layout: post
 title: Seminário debate o papel da pesquisa na construção da Reforma Agrária Popular
 legacy_url: http://www.mst.org.br/node/16083
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/eu!.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/eu!.jpg
 video: ''
 tags:
 - tag: educação
@@ -13,7 +13,7 @@ support_line: A Escola Nacional Florestan Fernandes (ENFF) foi palco do 3° Semi
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/eu!.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/eu!.jpg
 label: 
 published: true
 menu: educação, cultura e comunicação

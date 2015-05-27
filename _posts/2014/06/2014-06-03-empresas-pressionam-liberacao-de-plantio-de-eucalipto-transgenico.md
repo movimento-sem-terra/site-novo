@@ -2,7 +2,7 @@
 layout: post
 title: Empresas pressionam liberação de plantio de eucalipto transgênico
 legacy_url: http://www.mst.org.br/node/16177
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/eucalipto.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/eucalipto.jpg
 video: ''
 tags:
 - tag: agronegócio
@@ -14,7 +14,7 @@ support_line: Organizações sociais denunciam que as plantações industriais a
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/eucalipto.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/eucalipto.jpg
 label: 
 published: true
 menu: agronegócio

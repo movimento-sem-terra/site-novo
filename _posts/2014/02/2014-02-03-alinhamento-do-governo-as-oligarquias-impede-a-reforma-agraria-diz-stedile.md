@@ -2,7 +2,7 @@
 layout: post
 title: Alinhamento do governo às oligarquias impede a Reforma Agrária, diz Stedile
 legacy_url: http://www.mst.org.br/node/15660
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/bancada-ruralista!.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/bancada-ruralista!.jpg
 video: ''
 tags:
 - tag: reforma agrária
@@ -14,7 +14,7 @@ support_line: Em entrevista, Stedile afirma que é necessário realizar mudança
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/bancada-ruralista!.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/bancada-ruralista!.jpg
 label: 
 published: true
 menu: reforma agrária

@@ -2,7 +2,7 @@
 layout: post
 title: '"Ditadura selou aliança entre latifúndio e burguesia industrial", afirma professora'
 legacy_url: http://www.mst.org.br/node/15881
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/opa.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/opa.jpg
 video: ''
 tags:
 - tag: 50 anos do golpe militar
@@ -13,7 +13,7 @@ support_line: Segundo Larissa Bombardi o período serviu para que&nbsp;grupos de
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/opa.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/opa.jpg
 label: 
 published: true
 menu: direitos humanos

@@ -2,7 +2,7 @@
 layout: post
 title: Militante do MST é assassinado a tiros no Paraná
 legacy_url: http://www.mst.org.br/node/16053
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/unai222.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/unai222.jpg
 video: ''
 tags:
 - tag: agronegócio
@@ -13,7 +13,7 @@ support_line: Valdair Roque morava no assentamento Sétimo  Garibaldi, região n
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/unai222.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/unai222.jpg
 label: 
 published: true
 menu: agronegócio

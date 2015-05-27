@@ -2,7 +2,7 @@
 layout: post
 title: Pistoleiros atacam acampamento no CE e dois Sem Terra são baleados
 legacy_url: http://www.mst.org.br/node/16049
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/violencias2222.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/violencias2222.jpg
 video: ''
 tags:
 - tag: agronegócio
@@ -12,7 +12,7 @@ support_line: A situação dos militantes é grave. Acampados estão assustados,
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/violencias2222.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/violencias2222.jpg
 label: 
 published: true
 menu: agronegócio

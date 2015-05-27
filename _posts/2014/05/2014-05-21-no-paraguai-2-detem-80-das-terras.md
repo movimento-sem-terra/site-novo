@@ -2,7 +2,7 @@
 layout: post
 title: No Paraguai, 2% detêm 80% das terras
 legacy_url: http://www.mst.org.br/node/16133
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/Soja_Goioerê.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/Soja_Goioerê.jpg
 video: ''
 tags:
 - tag: questão agrária
@@ -16,7 +16,7 @@ support_line: Nos dez últimos anos, denuncia a ONG, mais de 900.000 pessoas for
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/Soja_Goioerê.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/Soja_Goioerê.jpg
 label: 
 published: true
 menu: agronegócio

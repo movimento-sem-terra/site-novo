@@ -2,7 +2,7 @@
 layout: post
 title: Para monge, CNBB mostra um apoio claro e profético aos povos do campo
 legacy_url: http://www.mst.org.br/node/16103
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/marcelo
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/marcelo
   barros.jpg
 video: ''
 tags:
@@ -16,7 +16,7 @@ support_line: Confira a entrevista com o monge Benedito Marcelo Barros sobre o d
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/marcelo barros.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/marcelo barros.jpg
 label: 
 published: true
 menu: reforma agrária

@@ -2,7 +2,7 @@
 layout: post
 title: Camponeses exigem o direito às sementes no dia de luta pela terra
 legacy_url: http://www.mst.org.br/node/15987
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/protesto_monsanto_Rafael-Stedile_0222.gif
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/protesto_monsanto_Rafael-Stedile_0222.gif
 video: ''
 tags:
 - tag: lutas e mobilizações
@@ -12,7 +12,7 @@ support_line: No dia 17 de abril movimentos que lutam pela Reforma Agrária se o
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/protesto_monsanto_Rafael-Stedile_0222.gif
+images_hd: http://www.antigo.mst.org.br/sites/default/files/protesto_monsanto_Rafael-Stedile_0222.gif
 label: 
 published: true
 menu: lutas e mobilizações

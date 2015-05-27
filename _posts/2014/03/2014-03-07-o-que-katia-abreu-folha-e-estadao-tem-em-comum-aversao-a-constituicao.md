@@ -2,7 +2,7 @@
 layout: post
 title: O que Kátia Abreu, Folha e Estadão tem em comum? Aversão à Constituição
 legacy_url: http://www.mst.org.br/node/15808
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/bancada
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/bancada
   ruralista!!!.jpg
 video: ''
 tags:
@@ -15,7 +15,7 @@ support_line: Para eles o Judiciário não  pode trabalhar para resolver conflit
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/bancada ruralista!!!.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/bancada ruralista!!!.jpg
 label: 
 published: true
 menu: direitos humanos

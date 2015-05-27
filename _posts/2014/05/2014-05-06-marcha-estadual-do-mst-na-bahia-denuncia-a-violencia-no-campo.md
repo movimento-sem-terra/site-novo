@@ -2,7 +2,7 @@
 layout: post
 title: Marcha estadual do MST na Bahia denuncia a violência no campo
 legacy_url: http://www.mst.org.br/node/16060
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/MST BA2.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/MST BA2.jpg
 video: ''
 tags:
 - tag: jornada de lutas abril 2014
@@ -13,7 +13,7 @@ support_line: 3 mil Sem Terra marcharam pelas ruas de Camaçari, no  recôncavo 
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/MST BA2.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/MST BA2.jpg
 label: 
 published: true
 menu: lutas e mobilizações

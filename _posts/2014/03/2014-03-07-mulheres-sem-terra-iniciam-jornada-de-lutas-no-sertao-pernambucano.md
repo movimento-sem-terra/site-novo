@@ -2,7 +2,7 @@
 layout: post
 title: Mulheres Sem Terra iniciam jornada de lutas no sertão pernambucano
 legacy_url: http://www.mst.org.br/node/15803
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/marcha
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/marcha
   mulheresabre.jpg
 video: ''
 tags:
@@ -14,7 +14,7 @@ support_line: Cerca de 200 mulheres do MST ocuparam vários órgãos públicos d
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/marcha mulheresabre.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/marcha mulheresabre.jpg
 label: 
 published: true
 menu: lutas e mobilizações

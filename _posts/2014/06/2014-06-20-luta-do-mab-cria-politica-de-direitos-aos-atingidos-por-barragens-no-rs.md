@@ -2,7 +2,7 @@
 layout: post
 title: Luta do MAB cria política de direitos aos atingidos por barragens no RS
 legacy_url: http://www.mst.org.br/node/16226
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/mabrs2.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/mabrs2.jpg
 video: ''
 tags:
 - tag: direitos humanos
@@ -13,7 +13,7 @@ support_line: Entre os avanços desta política, está a definição de um  conc
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/mabrs2.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/mabrs2.jpg
 label: 
 published: true
 menu: direitos humanos

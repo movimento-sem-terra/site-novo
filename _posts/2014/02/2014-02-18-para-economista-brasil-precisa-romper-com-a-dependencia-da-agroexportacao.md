@@ -2,7 +2,7 @@
 layout: post
 title: Para economista, Brasil precisa romper com a dependência da agroexportação
 legacy_url: http://www.mst.org.br/node/15746
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/container_soja.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/container_soja.jpg
 video: ''
 tags:
 - tag: economia
@@ -15,7 +15,7 @@ support_line: Em entrevista, Guilherme Delgado diz que os déficits da economia 
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/container_soja.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/container_soja.jpg
 label: 
 published: true
 menu: agronegócio

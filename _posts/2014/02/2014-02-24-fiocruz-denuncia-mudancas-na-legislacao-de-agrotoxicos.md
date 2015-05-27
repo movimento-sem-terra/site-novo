@@ -2,7 +2,7 @@
 layout: post
 title: Fiocruz denuncia mudanças na legislação de agrotóxicos
 legacy_url: http://www.mst.org.br/node/15765
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/agrotoxicos2.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/agrotoxicos2.jpg
 video: ''
 tags:
 - tag: agronegócio
@@ -12,7 +12,7 @@ support_line: Segundo a entidade, tais mudanças afetariam em muito a proteção
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/agrotoxicos2.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/agrotoxicos2.jpg
 label: 
 published: true
 menu: agronegócio

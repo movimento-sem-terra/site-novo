@@ -2,7 +2,7 @@
 layout: post
 title: 90% trabalhavam com dor no frigorífico da Brasil Foods
 legacy_url: http://www.mst.org.br/node/16037
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/frigorifico.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/frigorifico.jpg
 video: ''
 tags:
 - tag: agronegócio

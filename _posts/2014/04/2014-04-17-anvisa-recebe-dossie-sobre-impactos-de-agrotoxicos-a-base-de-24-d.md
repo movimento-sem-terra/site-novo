@@ -2,7 +2,7 @@
 layout: post
 title: Anvisa recebe dossiê sobre impactos de agrotóxicos à base de 2,4-D
 legacy_url: http://www.mst.org.br/node/15985
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/agrotoxico-morte.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/agrotoxico-morte.jpg
 video: ''
 tags:
 - tag: agrotóxicos
@@ -14,7 +14,7 @@ support_line: Em dezembro passado, o&nbsp;Ministério Público Federal realizou 
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/agrotoxico-morte.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/agrotoxico-morte.jpg
 label: 
 published: true
 menu: agronegócio

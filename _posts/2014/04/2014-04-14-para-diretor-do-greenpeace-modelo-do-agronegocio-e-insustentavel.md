@@ -2,7 +2,7 @@
 layout: post
 title: Para diretor do Greenpeace, modelo do agronegócio é insustentável
 legacy_url: http://www.mst.org.br/node/15966
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/diretor
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/diretor
   greenpeace.jpg
 video: ''
 tags:
@@ -15,7 +15,7 @@ support_line: Durante um megaevento do agronegócio, o diretor-executivo do Gree
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/diretor greenpeace.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/diretor greenpeace.jpg
 label: 
 published: true
 menu: agronegócio

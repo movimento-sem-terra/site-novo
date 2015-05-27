@@ -2,7 +2,7 @@
 layout: post
 title: Anvisa libera 19 agrotóxicos e Brasil passa a consumir 1 milhão de toneladas
 legacy_url: http://www.mst.org.br/node/15855
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/Agrotoxicos_no_brasil1.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/Agrotoxicos_no_brasil1.jpg
 video: ''
 tags:
 - tag: agrotóxicos
@@ -13,7 +13,7 @@ support_line: Recentemente, a Fiocruz soltou uma carta aberta criticando veement
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/Agrotoxicos_no_brasil1.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/Agrotoxicos_no_brasil1.jpg
 label: 
 published: true
 menu: agronegócio

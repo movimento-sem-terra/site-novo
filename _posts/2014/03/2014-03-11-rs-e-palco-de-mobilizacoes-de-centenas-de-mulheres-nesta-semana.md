@@ -2,7 +2,7 @@
 layout: post
 title: RS é palco de mobilizações de centenas de mulheres nesta semana
 legacy_url: http://www.mst.org.br/node/15828
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/mulheres-em-luta!.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/mulheres-em-luta!.jpg
 video: ''
 tags:
 - tag: rio grande do sul
@@ -15,7 +15,7 @@ support_line: Desde sábado, centenas de mulheres realizam diversas manifestaç�
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/mulheres-em-luta!.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/mulheres-em-luta!.jpg
 label: 
 published: true
 menu: lutas e mobilizações

@@ -2,7 +2,7 @@
 layout: post
 title: Militante do Levante é ameaçada após escracho de Ustra
 legacy_url: http://www.mst.org.br/node/15954
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/ustrabre.gif
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/ustrabre.gif
 video: ''
 tags:
 - tag: lutas e mobilizações
@@ -13,7 +13,7 @@ support_line: Em seu blog, Ustra postou mensagens em tons de ameaça a uma milit
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/ustrabre.gif
+images_hd: http://www.antigo.mst.org.br/sites/default/files/ustrabre.gif
 label: 
 published: true
 menu: lutas e mobilizações

@@ -2,7 +2,7 @@
 layout: post
 title: 'Chacina de Unaí: Justiça Eleitoral torna ex-prefeito inelegível por oito anos'
 legacy_url: http://www.mst.org.br/node/16010
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/unai.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/unai.jpg
 video: ''
 tags:
 - tag: violência
@@ -14,7 +14,7 @@ support_line: O ex-prefeito é um dos acusados de mandante da chamada Chacina de
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/unai.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/unai.jpg
 label: 
 published: true
 menu: direitos humanos

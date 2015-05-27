@@ -2,7 +2,7 @@
 layout: post
 title: Jornada da juventude promete radicalizar as lutas desse ano, afirma Raul Amorim
 legacy_url: http://www.mst.org.br/node/15885
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/jornada_de_lutas.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/jornada_de_lutas.jpg
 video: ''
 tags:
 - tag: jornada da juventude
@@ -14,7 +14,7 @@ support_line: Entre os dias 26 de março a 9/04, diversas organizações realiza
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/jornada_de_lutas.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/jornada_de_lutas.jpg
 label: 
 published: true
 menu: lutas e mobilizações

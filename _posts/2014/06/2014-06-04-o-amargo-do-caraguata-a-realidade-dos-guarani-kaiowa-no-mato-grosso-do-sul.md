@@ -2,7 +2,7 @@
 layout: post
 title: 'O amargo do Caraguatá: a realidade dos Guarani-Kaiowá no Mato Grosso do Sul'
 legacy_url: http://www.mst.org.br/node/16180
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/WRR2987_IMG_guarani_0811-580x385.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/WRR2987_IMG_guarani_0811-580x385.jpg
 video: ''
 tags:
 - tag: agronegócio
@@ -12,7 +12,7 @@ support_line: Dois acampamentos às margens da BR-463, no entorno de Dourados (M
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/WRR2987_IMG_guarani_0811-580x385.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/WRR2987_IMG_guarani_0811-580x385.jpg
 label: 
 published: true
 menu: agronegócio

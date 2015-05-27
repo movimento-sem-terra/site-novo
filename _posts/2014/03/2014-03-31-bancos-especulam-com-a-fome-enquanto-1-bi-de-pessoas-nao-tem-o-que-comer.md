@@ -2,7 +2,7 @@
 layout: post
 title: Bancos especulam com a fome enquanto 1 bi de pessoas não tem o que comer
 legacy_url: http://www.mst.org.br/node/15902
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/capital.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/capital.jpg
 video: ''
 tags:
 - tag: agronegócio
@@ -14,7 +14,7 @@ support_line: Os bancos são os principais especuladores nos mercados de comérc
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/capital.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/capital.jpg
 label: 
 published: true
 menu: agronegócio

@@ -2,7 +2,7 @@
 layout: post
 title: Centrais esperam reunir 50 mil em marcha nesta quarta-feira, em São Paulo
 legacy_url: http://www.mst.org.br/node/15939
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/centrais.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/centrais.jpg
 video: ''
 tags:
 - tag: mobilização
@@ -14,7 +14,7 @@ support_line: A pauta inclui o fim do fator previdenciário, redução da jornad
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/centrais.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/centrais.jpg
 label: 
 published: true
 menu: lutas e mobilizações

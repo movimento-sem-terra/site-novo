@@ -2,7 +2,7 @@
 layout: post
 title: Como parte da Jornada de Lutas, MST monta novo acampamento no RS
 legacy_url: http://www.mst.org.br/node/16068
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/acampaRs.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/acampaRs.jpg
 video: ''
 tags:
 - tag: jornada de lutas abril 2014
@@ -14,7 +14,7 @@ support_line: A proposta da ação é reunir novas famílias de trabalhadores Se
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/acampaRs.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/acampaRs.jpg
 label: 
 published: true
 menu: lutas e mobilizações

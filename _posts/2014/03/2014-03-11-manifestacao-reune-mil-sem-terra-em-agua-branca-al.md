@@ -2,7 +2,7 @@
 layout: post
 title: Manifestação reúne mil Sem Terra em Água Branca (AL)
 legacy_url: http://www.mst.org.br/node/15832
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/MST AL.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/MST AL.jpg
 video: ''
 tags:
 - tag: lutas e mobilizações
@@ -12,7 +12,7 @@ support_line: Milhares de agricultores organizados no MST percorreram as ruas re
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/MST AL.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/MST AL.jpg
 label: 
 published: true
 menu: lutas e mobilizações

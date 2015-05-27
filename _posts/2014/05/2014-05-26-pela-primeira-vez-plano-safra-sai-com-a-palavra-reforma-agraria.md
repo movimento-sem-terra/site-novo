@@ -2,7 +2,7 @@
 layout: post
 title: Pela primeira vez plano safra sai com a palavra 'Reforma Agrária'
 legacy_url: http://www.mst.org.br/node/16154
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/agricultura_familiar_ABr.JPG
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/agricultura_familiar_ABr.JPG
 video: ''
 tags:
 - tag: plano safra
@@ -14,7 +14,7 @@ support_line: O Plano Safra da Agricultura Familiar para o período 2014/2015, l
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/agricultura_familiar_ABr.JPG
+images_hd: http://www.antigo.mst.org.br/sites/default/files/agricultura_familiar_ABr.JPG
 label: 
 published: true
 menu: agricultura camponesa

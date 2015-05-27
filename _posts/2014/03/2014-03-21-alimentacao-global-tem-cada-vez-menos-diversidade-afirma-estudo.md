@@ -2,7 +2,7 @@
 layout: post
 title: Alimentação global tem cada vez menos diversidade, afirma estudo
 legacy_url: http://www.mst.org.br/node/15872
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/soja.JPG
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/soja.JPG
 video: ''
 tags:
 - tag: agronegócio
@@ -13,7 +13,7 @@ support_line: 'Avançamos rumo a um mundo com mais alimentos, menos diversidade 
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/soja.JPG
+images_hd: http://www.antigo.mst.org.br/sites/default/files/soja.JPG
 label: 
 published: true
 menu: agronegócio

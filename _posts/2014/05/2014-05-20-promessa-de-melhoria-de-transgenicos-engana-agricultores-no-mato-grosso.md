@@ -2,7 +2,7 @@
 layout: post
 title: Promessa de melhoria de transgênicos engana agricultores no Mato Grosso
 legacy_url: http://www.mst.org.br/node/16128
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/transgenico_duvida!!.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/transgenico_duvida!!.jpg
 video: ''
 tags:
 - tag: mato grosso
@@ -15,7 +15,7 @@ support_line: O produtor Fernando Ferri plantou 700 hectares com milho geneticam
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/transgenico_duvida!!.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/transgenico_duvida!!.jpg
 label: 
 published: true
 menu: transgênicos

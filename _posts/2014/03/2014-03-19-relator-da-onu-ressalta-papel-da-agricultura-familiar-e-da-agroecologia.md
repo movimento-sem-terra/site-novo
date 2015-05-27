@@ -2,7 +2,7 @@
 layout: post
 title: Relator da ONU ressalta papel da agricultura familiar e da agroecologia
 legacy_url: http://www.mst.org.br/node/15864
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/Oliver.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/Oliver.jpg
 video: ''
 tags:
 - tag: agricultura camponesa
@@ -14,7 +14,7 @@ support_line: O Relator Especial das  Nações Unidas sobre o Direito à Aliment
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/Oliver.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/Oliver.jpg
 label: 
 published: true
 menu: agricultura camponesa

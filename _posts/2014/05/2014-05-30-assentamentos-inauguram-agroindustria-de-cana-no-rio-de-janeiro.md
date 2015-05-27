@@ -2,7 +2,7 @@
 layout: post
 title: Assentamentos inauguram agroindústria de cana no Rio de Janeiro
 legacy_url: http://www.mst.org.br/node/16171
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/cana-de-acucar
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/cana-de-acucar
   (1).jpg
 video: ''
 tags:
@@ -16,7 +16,7 @@ support_line: Iniciativa beneficiará 132 famílias em Campos dos Goytacazes, no
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/cana-de-acucar (1).jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/cana-de-acucar (1).jpg
 label: 
 published: true
 menu: agricultura camponesa

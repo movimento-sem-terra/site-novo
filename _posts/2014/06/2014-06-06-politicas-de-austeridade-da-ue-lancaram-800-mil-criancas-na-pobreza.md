@@ -2,7 +2,7 @@
 layout: post
 title: Políticas de austeridade da UE lançaram 800 mil crianças na pobreza
 legacy_url: http://www.mst.org.br/node/16186
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/mozambique-criançapobre-reprodução2222.gif
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/mozambique-criançapobre-reprodução2222.gif
 video: ''
 tags:
 - tag: internacional
@@ -12,7 +12,7 @@ support_line: Em 2012 na Europa havia mais 800 mil crianças vivendo na pobreza 
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/mozambique-criançapobre-reprodução2222.gif
+images_hd: http://www.antigo.mst.org.br/sites/default/files/mozambique-criançapobre-reprodução2222.gif
 label: 
 published: true
 menu: internacional

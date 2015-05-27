@@ -2,7 +2,7 @@
 layout: post
 title: '"Está em curso uma concentração da propriedade da terra", diz Stedile'
 legacy_url: http://www.mst.org.br/node/16115
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/bdf.gif
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/bdf.gif
 video: ''
 tags:
 - tag: questão agrária
@@ -14,7 +14,7 @@ support_line: Em entrevista, João Pedro Stedile fala sobre reforma agrária, Lu
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/bdf.gif
+images_hd: http://www.antigo.mst.org.br/sites/default/files/bdf.gif
 label: 
 published: true
 menu: reforma agrária

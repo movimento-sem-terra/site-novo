@@ -2,7 +2,7 @@
 layout: post
 title: Centenas de jovens participam do 9º  Acampamento da Juventude Romeira
 legacy_url: http://www.mst.org.br/node/15792
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/CARTAZ
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/CARTAZ
   ROMARIA DA TERRA.jpg
 video: ''
 tags:
@@ -15,7 +15,7 @@ support_line: Mais de 530 jovens de diversos movimentos sociais se encontraram n
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/CARTAZ ROMARIA DA TERRA.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/CARTAZ ROMARIA DA TERRA.jpg
 label: 
 published: true
 menu: lutas e mobilizações

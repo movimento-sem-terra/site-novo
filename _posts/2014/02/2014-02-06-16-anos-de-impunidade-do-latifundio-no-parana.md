@@ -2,7 +2,7 @@
 layout: post
 title: 16 anos de impunidade do latifúndio no Paraná
 legacy_url: http://www.mst.org.br/node/15682
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/justiça.JPG
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/justiça.JPG
 video: ''
 tags:
 - tag: direitos humanos
@@ -12,7 +12,7 @@ support_line: Ninguém foi punido pela morte do Sem Terra Sebastião Camargo Fil
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/justiça.JPG
+images_hd: http://www.antigo.mst.org.br/sites/default/files/justiça.JPG
 label: 
 published: true
 menu: direitos humanos

@@ -2,7 +2,7 @@
 layout: post
 title: Brasil consome 14 agrotóxicos proibidos no mundo
 legacy_url: http://www.mst.org.br/node/15772
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/agrotoxico!.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/agrotoxico!.jpg
 video: ''
 tags:
 - tag: agrotóxicos
@@ -14,7 +14,7 @@ support_line: Especialista indica que pelo menos 30% de 20 alimentos analisados 
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/agrotoxico!.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/agrotoxico!.jpg
 label: 
 published: true
 menu: agronegócio

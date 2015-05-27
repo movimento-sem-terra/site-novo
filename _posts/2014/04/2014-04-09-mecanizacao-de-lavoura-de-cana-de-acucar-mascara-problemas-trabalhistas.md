@@ -2,7 +2,7 @@
 layout: post
 title: Mecanização de lavoura de cana-de-açúcar mascara problemas trabalhistas
 legacy_url: http://www.mst.org.br/node/15945
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/cana_trabalho_escravo.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/cana_trabalho_escravo.jpg
 video: ''
 tags:
 - tag: agronegócio
@@ -14,7 +14,7 @@ support_line: Pesquisa realizada pelo Instituto Observatório Social aponta que 
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/cana_trabalho_escravo.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/cana_trabalho_escravo.jpg
 label: 
 published: true
 menu: agronegócio

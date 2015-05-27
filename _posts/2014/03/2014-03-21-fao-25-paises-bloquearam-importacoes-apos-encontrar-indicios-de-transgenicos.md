@@ -12,7 +12,7 @@ support_line: Na maioria dos países, não existe políticas, legislação ou re
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/milho blehabre.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/milho blehabre.jpg
 label: 
 published: true
 menu: transgênicos

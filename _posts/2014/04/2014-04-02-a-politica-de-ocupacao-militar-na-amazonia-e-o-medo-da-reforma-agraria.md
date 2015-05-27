@@ -2,7 +2,7 @@
 layout: post
 title: A política de ocupação militar na Amazônia e o medo da Reforma Agrária
 legacy_url: http://www.mst.org.br/node/15918
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/colonização.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/colonização.jpg
 video: ''
 tags:
 - tag: golpe militar
@@ -15,7 +15,7 @@ support_line: Até a década de 60, o Brasil desconhecia a região amazônica. A
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/colonização.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/colonização.jpg
 label: 
 published: true
 menu: direitos humanos

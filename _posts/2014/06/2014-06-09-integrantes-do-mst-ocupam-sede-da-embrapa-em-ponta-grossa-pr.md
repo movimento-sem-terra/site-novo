@@ -2,7 +2,7 @@
 layout: post
 title: Integrantes do MST ocupam sede da Embrapa em Ponta Grossa (PR)
 legacy_url: http://www.mst.org.br/node/16194
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/Embrapabre.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/Embrapabre.jpg
 video: ''
 tags:
 - tag: reforma agrária
@@ -12,7 +12,7 @@ support_line: Com barracas de lonas, o grupo pretende permanecer no local até r
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/Embrapabre.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/Embrapabre.jpg
 label: 
 published: true
 menu: reforma agrária

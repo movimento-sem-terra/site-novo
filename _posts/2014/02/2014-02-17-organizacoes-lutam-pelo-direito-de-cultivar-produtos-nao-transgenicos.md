@@ -2,7 +2,7 @@
 layout: post
 title: Organizações lutam pelo direito de cultivar produtos não transgênicos
 legacy_url: http://www.mst.org.br/node/15734
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/milho colorido.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/milho colorido.jpg
 video: ''
 tags:
 - tag: transgênicos
@@ -14,7 +14,7 @@ support_line: O julgamento da  Ação Civil Pública do Milho será realizada no
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/milho colorido.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/milho colorido.jpg
 label: 
 published: true
 menu: transgênicos

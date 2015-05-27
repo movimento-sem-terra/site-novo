@@ -2,7 +2,7 @@
 layout: post
 title: MST ocupa a sede do Ministério da Agricultura em Belo Horizonte
 legacy_url: http://www.mst.org.br/node/16034
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/terra_liberdade!.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/terra_liberdade!.jpg
 video: ''
 tags:
 - tag: minas gerais
@@ -15,7 +15,7 @@ support_line: Os manifestantes reclamam do descaso do governo federal com a paut
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/terra_liberdade!.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/terra_liberdade!.jpg
 label: 
 published: true
 menu: lutas e mobilizações

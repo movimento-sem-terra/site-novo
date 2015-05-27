@@ -2,7 +2,7 @@
 layout: post
 title: 1º de maio tem ato junto às favelas da Maré e Manguinhos no RJ
 legacy_url: http://www.mst.org.br/node/16055
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/1 maio
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/1 maio
   rj3.jpg
 video: ''
 tags:
@@ -14,7 +14,7 @@ support_line: Cerca de 300 pessoas marcharam na Avenida Brasil, da entrada da fa
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/1 maio rj3.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/1 maio rj3.jpg
 label: 
 published: true
 menu: lutas e mobilizações

@@ -3,7 +3,7 @@ layout: post
 title: "É preciso democratizar o Judiciário para resolver conflitos agrários, diz
   advogado"
 legacy_url: http://www.mst.org.br/node/15884
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/judiciario!.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/judiciario!.jpg
 video: ''
 tags:
 - tag: manchete
@@ -16,7 +16,7 @@ support_line: Pesquisa da organização Terra de Direitos propõe outras formas 
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/judiciario!.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/judiciario!.jpg
 label: 
 published: true
 menu: direitos humanos

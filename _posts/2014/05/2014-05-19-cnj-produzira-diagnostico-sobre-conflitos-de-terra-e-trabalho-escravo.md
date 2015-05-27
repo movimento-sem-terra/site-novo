@@ -2,7 +2,7 @@
 layout: post
 title: CNJ produzirá diagnóstico sobre conflitos de terra e trabalho escravo
 legacy_url: http://www.mst.org.br/node/16116
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/latu.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/latu.jpg
 video: ''
 tags:
 - tag: direitos humanos
@@ -14,7 +14,7 @@ support_line: O resultado do trabalho será um diagnóstico do volume e situaç�
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/latu.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/latu.jpg
 label: 
 published: true
 menu: direitos humanos

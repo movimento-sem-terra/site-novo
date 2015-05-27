@@ -2,7 +2,7 @@
 layout: post
 title: Famílias são despejadas violentamente de área improdutiva no Maranhão
 legacy_url: http://www.mst.org.br/node/15791
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/mst-23.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/mst-23.jpg
 video: ''
 tags:
 - tag: maranhão
@@ -14,7 +14,7 @@ support_line: Os barracos das famílias foram queimados e estas não puderam lev
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/mst-23.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/mst-23.jpg
 label: 
 published: true
 menu: agronegócio

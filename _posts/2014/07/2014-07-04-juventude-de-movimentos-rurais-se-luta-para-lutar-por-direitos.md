@@ -2,7 +2,7 @@
 layout: post
 title: Juventude de movimentos rurais se luta para lutar por direitos
 legacy_url: http://www.mst.org.br/node/16267
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/mst3 poderes222.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/mst3 poderes222.jpg
 video: ''
 tags:
 - tag: lutas e mobilizações
@@ -13,7 +13,7 @@ support_line: Entre as pautas estão o fortalecimento das políticas do Programa
 section: carousel
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/mst3 poderes222.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/mst3 poderes222.jpg
 label: 
 menu: lutas e mobilizações
 date: '2014-07-04T13:29:15-03:00'

@@ -2,7 +2,7 @@
 layout: post
 title: '"União continental é necessária para enfrentar capital financeiro"'
 legacy_url: http://www.mst.org.br/node/15769
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/diego abre.JPG
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/diego abre.JPG
 video: ''
 tags:
 - tag: agronegócio
@@ -12,7 +12,7 @@ support_line: Moton, da CLOC-Via&nbsp;Campesina analisa a luta pela terra e o pa
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/diego abre.JPG
+images_hd: http://www.antigo.mst.org.br/sites/default/files/diego abre.JPG
 label: 
 published: true
 menu: agronegócio

@@ -2,7 +2,7 @@
 layout: post
 title: Jornada Nacional de Luta pela Reforma Agrária 2014
 legacy_url: http://www.mst.org.br/node/16019
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/banner_jornadaabril_paginamst3.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/banner_jornadaabril_paginamst3.jpg
 video: ''
 tags: []
 type: 
@@ -10,7 +10,7 @@ support_line: ''
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/banner_jornadaabril_paginamst3.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/banner_jornadaabril_paginamst3.jpg
 label: journeys
 published: true
 date: '2014-04-28T13:09:38-03:00'

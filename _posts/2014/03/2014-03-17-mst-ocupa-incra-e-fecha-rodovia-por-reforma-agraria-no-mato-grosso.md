@@ -2,7 +2,7 @@
 layout: post
 title: MST ocupa Incra e fecha rodovia por Reforma Agrária no Mato Grosso
 legacy_url: http://www.mst.org.br/node/15857
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/sem terras!.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/sem terras!.jpg
 video: ''
 tags:
 - tag: mato grosso
@@ -15,7 +15,7 @@ support_line: Os Sem Terra reivindicam o assentamento das famílias acampadas e 
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/sem terras!.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/sem terras!.jpg
 label: 
 published: true
 menu: lutas e mobilizações

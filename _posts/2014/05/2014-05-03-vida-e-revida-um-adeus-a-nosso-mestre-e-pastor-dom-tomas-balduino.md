@@ -2,7 +2,7 @@
 layout: post
 title: Vida e Revida,  um adeus a nosso mestre e Pastor Dom Tomás Balduíno
 legacy_url: http://www.mst.org.br/node/16051
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/dom tomas2.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/dom tomas2.jpg
 video: ''
 tags:
 - tag: manchete

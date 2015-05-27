@@ -2,7 +2,7 @@
 layout: post
 title: O papel do MST nas novas jornadas de lutas do Brasil
 legacy_url: http://www.mst.org.br/node/15757
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/mst 302.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/mst 302.jpg
 video: ''
 tags:
 - tag: artigos
@@ -13,7 +13,7 @@ support_line: O movimento mantém referência na sociedade e pode cumprir um pap
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/mst 302.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/mst 302.jpg
 label: 
 published: true
 menu: lutas e mobilizações

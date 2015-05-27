@@ -2,7 +2,7 @@
 layout: post
 title: MST quer recolocar a luta pela terra na agenda
 legacy_url: http://www.mst.org.br/node/15670
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/agen!.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/agen!.jpg
 video: ''
 tags:
 - tag: '6'
@@ -14,7 +14,7 @@ support_line: Movimento quer quebrar a  invisibilidade.
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/agen!.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/agen!.jpg
 label: 
 published: true
 menu: reforma agrária

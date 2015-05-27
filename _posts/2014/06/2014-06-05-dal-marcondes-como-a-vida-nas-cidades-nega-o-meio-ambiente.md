@@ -2,7 +2,7 @@
 layout: post
 title: 'Dal Marcondes: Como a vida nas cidades nega o meio ambiente'
 legacy_url: http://www.mst.org.br/node/16184
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/poluiçao.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/poluiçao.jpg
 video: ''
 tags:
 - tag: meio ambiente
@@ -12,7 +12,7 @@ support_line: No dia do meio ambiente, devemos questionar a crença  de que a ci
 section: recent
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/poluiçao.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/poluiçao.jpg
 menu: meio ambiente
 date: '2014-06-05T13:51:05-03:00'
 created_date: 2014-06-05 12:00

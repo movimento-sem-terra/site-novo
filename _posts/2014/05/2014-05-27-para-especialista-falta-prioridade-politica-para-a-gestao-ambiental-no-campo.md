@@ -2,7 +2,7 @@
 layout: post
 title: Para especialista, falta prioridade política para a gestão ambiental no campo
 legacy_url: http://www.mst.org.br/node/16160
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/desmatamento.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/desmatamento.jpg
 video: ''
 tags:
 - tag: código florestal
@@ -14,7 +14,7 @@ support_line: "“A falta de comprometimento do Poder Público com a implantaç�
 section: recent
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/desmatamento.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/desmatamento.jpg
 menu: meio ambiente
 date: '2014-05-27T16:05:36-03:00'
 created_date: 2014-05-27 12:00

@@ -2,7 +2,7 @@
 layout: post
 title: 'Sakamoto: JBS aceita reduzir ritmo em frigorífico. “Emoções", diria Roberto'
 legacy_url: http://www.mst.org.br/node/15774
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/cpi-frigori.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/cpi-frigori.jpg
 video: ''
 tags:
 - tag: agronegócio
@@ -14,7 +14,7 @@ support_line: O&nbsp; MTE e o MPT tinha verificado problemas como máquinas com 
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/cpi-frigori.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/cpi-frigori.jpg
 label: 
 published: true
 menu: agronegócio

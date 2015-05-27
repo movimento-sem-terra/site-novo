@@ -2,7 +2,7 @@
 layout: post
 title: MST participa do IV Seminário Latino Americano de Formação Política
 legacy_url: http://www.mst.org.br/node/15848
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/argentina.JPG
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/argentina.JPG
 video: ''
 tags:
 - tag: educação, cultura e comunicação
@@ -12,7 +12,7 @@ support_line: 'A proposta é analisar a conjuntura regional e mundial em  moment
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/argentina.JPG
+images_hd: http://www.antigo.mst.org.br/sites/default/files/argentina.JPG
 label: 
 published: true
 menu: educação, cultura e comunicação

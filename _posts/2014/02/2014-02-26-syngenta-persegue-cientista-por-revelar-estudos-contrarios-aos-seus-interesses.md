@@ -2,7 +2,7 @@
 layout: post
 title: Syngenta persegue cientista por revelar estudos contrários aos seus interesses
 legacy_url: http://www.mst.org.br/node/15775
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/syngenta
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/syngenta
   assassina.jpg
 video: ''
 tags:
@@ -15,7 +15,7 @@ support_line: Em 1998 Tyrone Hayes foi convidado pela  Syngenta para fazer uma p
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/syngenta assassina.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/syngenta assassina.jpg
 label: 
 published: true
 menu: agronegócio

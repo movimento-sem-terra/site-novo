@@ -2,7 +2,7 @@
 layout: post
 title: 'Crianças em ação: Por escola, terra e dignidade'
 legacy_url: http://www.mst.org.br/node/10701
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/especial_semterrinha_20101.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/especial_semterrinha_20101.jpg
 video: ''
 tags: []
 type: 
@@ -10,7 +10,7 @@ support_line: ''
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/especial_semterrinha_20101.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/especial_semterrinha_20101.jpg
 label: journeys
 published: true
 date: '2010-10-05T11:45:26-03:00'

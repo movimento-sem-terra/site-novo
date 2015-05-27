@@ -2,7 +2,7 @@
 layout: post
 title: Chile impede projeto da Monsanto de controle total das sementes transgênicas
 legacy_url: http://www.mst.org.br/node/15905
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/mon!.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/mon!.jpg
 video: ''
 tags:
 - tag: chile
@@ -15,7 +15,7 @@ support_line: A lei facilitaria a apropriação de sementes locais por parte de 
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/mon!.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/mon!.jpg
 label: 
 published: true
 menu: transgênicos

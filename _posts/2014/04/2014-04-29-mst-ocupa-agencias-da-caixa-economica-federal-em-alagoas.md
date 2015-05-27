@@ -2,7 +2,7 @@
 layout: post
 title: MST ocupa agências da Caixa Econômica Federal em Alagoas
 legacy_url: http://www.mst.org.br/node/16031
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/mst-640x354.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/mst-640x354.jpg
 video: ''
 tags:
 - tag: jornada de lutas abril 2014
@@ -14,7 +14,7 @@ support_line: A mobilização se soma a uma série de ocupações em todo país 
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/mst-640x354.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/mst-640x354.jpg
 label: 
 published: true
 menu: lutas e mobilizações

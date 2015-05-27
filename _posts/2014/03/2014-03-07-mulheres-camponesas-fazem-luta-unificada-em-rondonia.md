@@ -2,7 +2,7 @@
 layout: post
 title: Mulheres camponesas fazem luta unificada em Rondônia
 legacy_url: http://www.mst.org.br/node/15829
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/mulheres_RO.JPG
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/mulheres_RO.JPG
 video: ''
 tags:
 - tag: jornada de luta das mulheres 2014
@@ -13,7 +13,7 @@ support_line: ''
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/mulheres_RO.JPG
+images_hd: http://www.antigo.mst.org.br/sites/default/files/mulheres_RO.JPG
 label: 
 published: true
 menu: lutas e mobilizações

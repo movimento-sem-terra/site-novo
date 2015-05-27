@@ -2,7 +2,7 @@
 layout: post
 title: Descaso com Reforma Agrária faz quarta vítima em assentamento no RJ
 legacy_url: http://www.mst.org.br/node/16112
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/mulher
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/mulher
   assassinada!.jpg
 video: ''
 tags:

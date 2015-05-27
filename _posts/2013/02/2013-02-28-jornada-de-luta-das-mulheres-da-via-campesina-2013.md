@@ -2,7 +2,7 @@
 layout: post
 title: Jornada de Luta das Mulheres da Via Campesina 2013
 legacy_url: http://www.mst.org.br/node/14442
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/mulheres_pagina.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/mulheres_pagina.jpg
 video: ''
 tags: []
 type: 
@@ -10,7 +10,7 @@ support_line: ''
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/mulheres_pagina.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/mulheres_pagina.jpg
 label: journeys
 published: true
 date: '2013-02-28T15:35:14-03:00'

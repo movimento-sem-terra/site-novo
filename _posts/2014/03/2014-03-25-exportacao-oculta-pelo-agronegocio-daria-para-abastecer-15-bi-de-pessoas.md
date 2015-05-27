@@ -2,7 +2,7 @@
 layout: post
 title: Exportação 'oculta' pelo agronegócio daria para abastecer 1,5 bi de pessoas
 legacy_url: http://www.mst.org.br/node/15886
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/seca!.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/seca!.jpg
 video: ''
 tags:
 - tag: agronegócio
@@ -14,7 +14,7 @@ support_line: O Brasil é o quarto maior exportador de água virtual do mundo. S
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/seca!.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/seca!.jpg
 label: 
 published: true
 menu: agronegócio

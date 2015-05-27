@@ -2,7 +2,7 @@
 layout: post
 title: MST ocupa área endividada em mais de R$ 200 mi da Usina Santa Elena, em GO
 legacy_url: http://www.mst.org.br/node/15796
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/justiça
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/justiça
   social!.jpg
 video: ''
 tags:
@@ -15,7 +15,7 @@ support_line: Mais de 200 famílias ocuparam uma área da Usina Santa Elena, no 
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/justiça social!.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/justiça social!.jpg
 label: 
 published: true
 menu: lutas e mobilizações

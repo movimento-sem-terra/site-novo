@@ -2,7 +2,7 @@
 layout: post
 title: Sem Terra ocupam perímetro irrigado e trancam rodovia no Ceará
 legacy_url: http://www.mst.org.br/node/16054
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/22 de agosoto.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/22 de agosoto.jpg
 video: ''
 tags:
 - tag: ceará
@@ -15,7 +15,7 @@ support_line: Em Limoeiro do Norte, cerca de 1000 trabalhadores de diversos movi
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/22 de agosoto.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/22 de agosoto.jpg
 label: 
 published: true
 menu: lutas e mobilizações

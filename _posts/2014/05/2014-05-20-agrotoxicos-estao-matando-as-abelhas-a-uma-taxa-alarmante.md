@@ -2,7 +2,7 @@
 layout: post
 title: Agrotóxicos estão matando as abelhas a uma taxa alarmante
 legacy_url: http://www.mst.org.br/node/16124
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/abelhas.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/abelhas.jpg
 video: ''
 tags:
 - tag: agrotóxicos
@@ -14,7 +14,7 @@ support_line: Conduzido por pesquisadores da Universidade de Harvard, o trabalho
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/abelhas.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/abelhas.jpg
 label: 
 published: true
 menu: agronegócio

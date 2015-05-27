@@ -2,7 +2,7 @@
 layout: post
 title: Assentados comercializam produção na II Feira da Economia Solidária no PR
 legacy_url: http://www.mst.org.br/node/15986
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/FESA.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/FESA.jpg
 video: ''
 tags:
 - tag: reforma agrária
@@ -13,7 +13,7 @@ support_line: 'Foram comercializados diversos produtos agroecológicos, como  ho
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/FESA.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/FESA.jpg
 label: 
 published: true
 menu: reforma agrária

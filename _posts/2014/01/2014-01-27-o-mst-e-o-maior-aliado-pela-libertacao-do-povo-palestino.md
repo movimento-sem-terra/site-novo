@@ -2,7 +2,7 @@
 layout: post
 title: '"O MST é o maior aliado pela libertação do povo palestino" '
 legacy_url: http://www.mst.org.br/node/15646
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/385584_palestina_flag_kraski_1680x1050_(www.GdeFon.ru).jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/385584_palestina_flag_kraski_1680x1050_(www.GdeFon.ru).jpg
 video: ''
 tags:
 - tag: tema da semana

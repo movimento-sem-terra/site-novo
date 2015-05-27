@@ -2,7 +2,7 @@
 layout: post
 title: Dom Tomás será homenageado na Câmara dos Deputados
 legacy_url: http://www.mst.org.br/node/16071
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/dom tomas2.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/dom tomas2.jpg
 video: ''
 tags:
 - tag: lutadores e lutadoras do povo

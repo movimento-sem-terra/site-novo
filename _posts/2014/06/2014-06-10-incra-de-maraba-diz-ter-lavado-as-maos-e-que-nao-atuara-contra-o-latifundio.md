@@ -2,7 +2,7 @@
 layout: post
 title: Incra de Marabá diz ter 'lavado as mãos' e que não atuará contra o latifúndio
 legacy_url: http://www.mst.org.br/node/16203
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/Superintendente
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/Superintendente
   do INCRA Eudério Coelho!.jpg
 video: ''
 tags:
@@ -17,7 +17,7 @@ support_line: No encontro com o superintendente da região, os Sem Terra solicit
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/Superintendente do INCRA Eudério
+images_hd: http://www.antigo.mst.org.br/sites/default/files/Superintendente do INCRA Eudério
   Coelho!.jpg
 label: 
 published: true

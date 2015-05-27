@@ -2,7 +2,7 @@
 layout: post
 title: Em jornada, MST ocupa três fazendas no Ceará
 legacy_url: http://www.mst.org.br/node/15998
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/Sem Terra.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/Sem Terra.jpg
 video: ''
 tags:
 - tag: ceará
@@ -14,7 +14,7 @@ support_line: 200 famílias ocuparam uma fazenda em Quixeramobim, outras 300 em 
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/Sem Terra.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/Sem Terra.jpg
 label: 
 published: true
 menu: lutas e mobilizações

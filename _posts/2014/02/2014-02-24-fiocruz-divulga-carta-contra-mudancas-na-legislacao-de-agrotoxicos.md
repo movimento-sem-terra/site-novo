@@ -2,7 +2,7 @@
 layout: post
 title: Fiocruz divulga carta contra mudanças na legislação de agrotóxicos
 legacy_url: http://www.mst.org.br/node/15765
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/agrotoxicos2.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/agrotoxicos2.jpg
 video: ''
 tags:
 - tag: agronegócio

@@ -3,7 +3,7 @@ layout: post
 title: '"Acabou a ditadura militar, mas não a do latifúndio", afirma coordenador da
   CPT'
 legacy_url: http://www.mst.org.br/node/15969
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/joanil.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/joanil.jpg
 video: ''
 tags:
 - tag: entrevistas
@@ -15,7 +15,7 @@ support_line: Padre Joanil analisa os conflitos pela terra na ditadura militar, 
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/joanil.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/joanil.jpg
 label: 
 published: true
 menu: reforma agrária

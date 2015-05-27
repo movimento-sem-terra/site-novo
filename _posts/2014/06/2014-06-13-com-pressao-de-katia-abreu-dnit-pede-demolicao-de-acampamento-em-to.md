@@ -2,7 +2,7 @@
 layout: post
 title: Com pressão de Kátia Abreu, DNIT pede demolição de acampamento em TO
 legacy_url: http://www.mst.org.br/node/16214
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/katia-abreu.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/katia-abreu.jpg
 video: ''
 tags:
 - tag: tocantins
@@ -14,7 +14,7 @@ support_line: Para Sem Terra, isso acontece pelo fato do acampamento ser uma for
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/katia-abreu.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/katia-abreu.jpg
 label: 
 published: true
 menu: reforma agrária

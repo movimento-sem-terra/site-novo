@@ -2,7 +2,7 @@
 layout: post
 title: Agronegócio pressiona agricultores a abandonarem a terra, diz pesquisadora
 legacy_url: http://www.mst.org.br/node/15758
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/pobreza
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/pobreza
   rural!.jpg
 video: ''
 tags:
@@ -15,7 +15,7 @@ support_line: Os pequenos agricultores e as comunidades tradicionais brasileiras
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/pobreza rural!.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/pobreza rural!.jpg
 label: 
 published: true
 menu: agronegócio

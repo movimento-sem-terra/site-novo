@@ -2,7 +2,7 @@
 layout: post
 title: Trabalhadores rurais ocupam quatro agências da Caixa Econômica, no RS
 legacy_url: http://www.mst.org.br/node/16029
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/bdf.gif
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/bdf.gif
 video: ''
 tags:
 - tag: rio grande do sul
@@ -15,7 +15,7 @@ support_line: Mais de 2 mil trabalhadores do MST, MPA e Fetraf ocuparam quatro a
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/bdf.gif
+images_hd: http://www.antigo.mst.org.br/sites/default/files/bdf.gif
 label: 
 published: true
 menu: lutas e mobilizações

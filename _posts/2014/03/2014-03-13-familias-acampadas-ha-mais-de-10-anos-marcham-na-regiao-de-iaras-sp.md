@@ -2,7 +2,7 @@
 layout: post
 title: Famílias acampadas há mais de 10 anos marcham na região de Iaras (SP)
 legacy_url: http://www.mst.org.br/node/15839
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/agen!.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/agen!.jpg
 video: ''
 tags:
 - tag: manchete
@@ -16,7 +16,7 @@ support_line: Na manhã desta quinta feira (13), cerca de 350 famílias de sete 
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/agen!.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/agen!.jpg
 label: 
 published: true
 menu: lutas e mobilizações

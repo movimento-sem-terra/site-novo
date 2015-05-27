@@ -2,7 +2,7 @@
 layout: post
 title: Sem Terra aguardam adjudicação da fazenda Martinópolis nesta segunda
 legacy_url: http://www.mst.org.br/node/15900
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/justiça
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/justiça
   social!.jpg
 video: ''
 tags:
@@ -16,7 +16,7 @@ support_line: As 450 famílias Sem Terra que ocupam a área, organizadas pelo MS
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/justiça social!.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/justiça social!.jpg
 label: 
 published: true
 menu: reforma agrária

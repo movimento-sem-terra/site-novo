@@ -2,7 +2,7 @@
 layout: post
 title: Monsanto tentou patentear tomates fraudando a lei de patentes
 legacy_url: http://www.mst.org.br/node/16266
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/tomates.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/tomates.jpg
 video: ''
 tags:
 - tag: monsanto
@@ -14,7 +14,7 @@ support_line: O tomate não é modificado geneticamente, mas a Monsanto tentou m
 section: recent
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/tomates.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/tomates.jpg
 label: 
 published: true
 menu: agronegócio

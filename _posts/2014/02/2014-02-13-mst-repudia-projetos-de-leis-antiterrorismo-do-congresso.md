@@ -2,7 +2,7 @@
 layout: post
 title: MST repudia projetos de leis antiterrorismo do Congresso
 legacy_url: http://www.mst.org.br/node/15723
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/DH.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/DH.jpg
 video: ''
 tags:
 - tag: '6'
@@ -13,7 +13,7 @@ support_line: Setor de direitos humanos do MST debate mudanças nas leis que env
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/DH.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/DH.jpg
 label: 
 published: true
 menu: direitos humanos

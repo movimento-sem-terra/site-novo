@@ -2,7 +2,7 @@
 layout: post
 title: Morte de trabalhador por agrotóxico deve motivar resistências da sociedade
 legacy_url: http://www.mst.org.br/node/15899
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/ag!.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/ag!.jpg
 video: ''
 tags:
 - tag: agrotóxico
@@ -13,7 +13,7 @@ support_line: Vanderlei Matos trabalhava na empresa multinacional Del Monte, uma
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/ag!.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/ag!.jpg
 label: 
 published: true
 menu: agronegócio

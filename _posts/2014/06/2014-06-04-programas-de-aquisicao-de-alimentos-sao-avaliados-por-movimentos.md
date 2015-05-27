@@ -2,7 +2,7 @@
 layout: post
 title: 'Programas de aquisição de alimentos são avaliados por movimentos '
 legacy_url: http://www.mst.org.br/node/16179
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/prointer.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/prointer.jpg
 video: ''
 tags:
 - tag: nossa produção
@@ -13,7 +13,7 @@ support_line: 'O estudo “Mercado Institucional: Avaliação de Programas no Br
 section: recent
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/prointer.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/prointer.jpg
 menu: nossa produção
 date: '2014-06-04T10:48:17-03:00'
 created_date: 2014-06-04 12:00

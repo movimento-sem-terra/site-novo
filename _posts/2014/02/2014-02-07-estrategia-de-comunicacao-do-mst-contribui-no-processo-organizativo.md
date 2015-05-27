@@ -2,7 +2,7 @@
 layout: post
 title: Estratégia de comunicação do MST contribui no processo organizativo
 legacy_url: http://www.mst.org.br/node/15683
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/2222222222222.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/2222222222222.jpg
 video: ''
 tags:
 - tag: educação, cultura e comunicação
@@ -12,7 +12,7 @@ support_line: Durante seus 30 anos de luta, o MST criou vários meios de comunic
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/2222222222222.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/2222222222222.jpg
 label: 
 published: true
 menu: educação, cultura e comunicação

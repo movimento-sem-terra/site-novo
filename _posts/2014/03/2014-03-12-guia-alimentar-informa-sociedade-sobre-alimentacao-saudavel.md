@@ -2,7 +2,7 @@
 layout: post
 title: Guia Alimentar informa sociedade sobre alimentação saudável
 legacy_url: http://www.mst.org.br/node/15835
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/guiaabre.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/guiaabre.jpg
 video: ''
 tags:
 - tag: educação, cultura e comunicação
@@ -12,7 +12,7 @@ support_line: Publicação do Ministério da Saúde ressalta a importância da d
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/guiaabre.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/guiaabre.jpg
 label: 
 published: true
 menu: educação, cultura e comunicação

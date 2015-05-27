@@ -2,7 +2,7 @@
 layout: post
 title: Sem Terra já iniciam produção em fazenda ocupada em Cumbe (SE)
 legacy_url: http://www.mst.org.br/node/16250
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/camponeses.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/camponeses.jpg
 video: ''
 tags:
 - tag: sergipe
@@ -15,7 +15,7 @@ support_line: A Fazenda Araça, no município de Cumbe, a 60 quilômetros da cap
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/camponeses.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/camponeses.jpg
 label: 
 published: true
 menu: lutas e mobilizações

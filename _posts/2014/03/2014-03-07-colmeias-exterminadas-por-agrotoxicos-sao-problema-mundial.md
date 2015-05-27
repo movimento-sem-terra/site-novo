@@ -2,7 +2,7 @@
 layout: post
 title: 'Colmeias exterminadas por agrotóxicos são problema mundial '
 legacy_url: http://www.mst.org.br/node/15804
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/abelha2.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/abelha2.jpg
 video: ''
 tags:
 - tag: agronegócio
@@ -12,7 +12,7 @@ support_line: Cientistas de todos os continentes concordam que a intoxicação d
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/abelha2.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/abelha2.jpg
 label: 
 published: true
 menu: agronegócio

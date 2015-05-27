@@ -2,7 +2,7 @@
 layout: post
 title: Organizações indígenas se negam a participar de audiências da PEC 215
 legacy_url: http://www.mst.org.br/node/16187
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/povos2.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/povos2.jpg
 video: ''
 tags:
 - tag: agronegócio
@@ -13,7 +13,7 @@ support_line: A proposta tem a intenção de transferir para o Congresso a  comp
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/povos2.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/povos2.jpg
 label: 
 published: true
 menu: agronegócio

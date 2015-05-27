@@ -2,7 +2,7 @@
 layout: post
 title: Trabalhadores rurais acampam na sede do Incra em Imperatriz, no Maranhão
 legacy_url: http://www.mst.org.br/node/16156
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/incra_imperatriz.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/incra_imperatriz.jpg
 video: ''
 tags:
 - tag: maranhão
@@ -14,7 +14,7 @@ support_line: Os Sem Terra reivindicam maior rapidez em processos de regulariza�
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/incra_imperatriz.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/incra_imperatriz.jpg
 label: 
 published: true
 menu: lutas e mobilizações

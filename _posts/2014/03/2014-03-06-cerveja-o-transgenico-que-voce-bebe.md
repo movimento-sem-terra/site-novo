@@ -2,7 +2,7 @@
 layout: post
 title: 'Cerveja: o transgênico que você bebe'
 legacy_url: http://www.mst.org.br/node/15797
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/cervejamilho.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/cervejamilho.jpg
 video: ''
 tags:
 - tag: transgênicos
@@ -15,7 +15,7 @@ support_line: Sem informar consumidores, Ambev, Itaipava, Kaiser e outras marcas
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/cervejamilho.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/cervejamilho.jpg
 label: 
 published: true
 menu: transgênicos

@@ -2,7 +2,7 @@
 layout: post
 title: Acordo entre Incra e Itesp prevê a criação de novos assentamentos em SP
 legacy_url: http://www.mst.org.br/node/15764
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/reformaagraria.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/reformaagraria.jpg
 video: ''
 tags:
 - tag: reforma agrária
@@ -14,7 +14,7 @@ support_line: Em reunião realizada nesta sexta, que contou com a  participaçã
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/reformaagraria.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/reformaagraria.jpg
 label: 
 published: true
 menu: reforma agrária

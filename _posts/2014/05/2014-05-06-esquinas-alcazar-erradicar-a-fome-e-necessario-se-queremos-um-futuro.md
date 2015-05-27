@@ -2,7 +2,7 @@
 layout: post
 title: 'Esquinas-Alcázar: "Erradicar a fome é necessário se queremos um futuro" '
 legacy_url: http://www.mst.org.br/node/16064
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/Jose_Esquinas_IHU2.gif
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/Jose_Esquinas_IHU2.gif
 video: ''
 tags:
 - tag: agronegócio
@@ -13,7 +13,7 @@ support_line: '"A crise alimentar provocou revoltas em mais de 50 países.  Hoje
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/Jose_Esquinas_IHU2.gif
+images_hd: http://www.antigo.mst.org.br/sites/default/files/Jose_Esquinas_IHU2.gif
 label: 
 published: true
 menu: agronegócio

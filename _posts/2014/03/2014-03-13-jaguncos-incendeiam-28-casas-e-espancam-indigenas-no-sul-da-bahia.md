@@ -2,7 +2,7 @@
 layout: post
 title: Jagunços incendeiam 28 casas e espancam indígenas no sul da Bahia
 legacy_url: http://www.mst.org.br/node/15840
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/indios!.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/indios!.jpg
 video: ''
 tags:
 - tag: bahia
@@ -15,7 +15,7 @@ support_line: '“Foi um massacre. Queimaram tudo o que estava dentro das casas:
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/indios!.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/indios!.jpg
 label: 
 published: true
 menu: direitos humanos

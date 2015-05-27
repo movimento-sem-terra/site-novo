@@ -40,4 +40,4 @@ O curso ser&aacute; realizado pelo Programa Nacional de Educa&ccedil;&atilde;o n
 <p><br />
 Os estudantes est&atilde;o realizando a primeira etapa do curso, que tem dura&ccedil;&atilde;o de quatro anos. Ap&oacute;s esse per&iacute;odo, os educandos se formam enquanto professores da &aacute;rea de ci&ecirc;ncias humanas, podendo contribuir nas escolas de assentamentos de todo nordeste.</p>
 
-<p><img alt="" height="400" src="http://www.mst.org.br/sites/default/files/curso_UFRN2.jpg" style="margin: 10px;" width="600" /></p>
+<p><img alt="" height="400" src="http://www.antigo.mst.org.br/sites/default/files/curso_UFRN2.jpg" style="margin: 10px;" width="600" /></p>

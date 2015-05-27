@@ -2,7 +2,7 @@
 layout: post
 title: Delegações do MST chegam ao local do VI Congresso em Brasília
 legacy_url: http://www.mst.org.br/node/15691
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/chegada.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/chegada.jpg
 video: ''
 tags:
 - tag: '6'
@@ -14,7 +14,7 @@ support_line: Delegações de todos os estados do Brasil chegaram trazendo os mi
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/chegada.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/chegada.jpg
 label: 
 published: true
 menu: reforma agrária

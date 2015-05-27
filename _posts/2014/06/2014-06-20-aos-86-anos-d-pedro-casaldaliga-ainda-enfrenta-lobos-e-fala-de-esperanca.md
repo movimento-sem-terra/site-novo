@@ -2,7 +2,7 @@
 layout: post
 title: Aos 86 anos, d. Pedro Casaldáliga ainda enfrenta 'lobos' e fala de esperança
 legacy_url: http://www.mst.org.br/node/16227
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/dom pedro
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/dom pedro
   casaldáglia.jpg
 video: ''
 tags:
@@ -14,7 +14,7 @@ support_line: Bispo resiste a ameaças, critica o  sistema político, o agroneg�
 section: featured-news
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/dom pedro casaldáglia.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/dom pedro casaldáglia.jpg
 label: 
 menu: lutadores e lutadoras do povo
 date: '2014-06-20T14:17:21-03:00'

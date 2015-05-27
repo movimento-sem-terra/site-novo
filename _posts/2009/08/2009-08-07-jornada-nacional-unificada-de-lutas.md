@@ -2,7 +2,7 @@
 layout: post
 title: Jornada Nacional Unificada de Lutas
 legacy_url: http://www.mst.org.br/node/7777
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/capa2.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/capa2.jpg
 video: ''
 tags: []
 type: 
@@ -10,7 +10,7 @@ support_line: ''
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/capa2.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/capa2.jpg
 label: journeys
 published: true
 date: '2009-08-07T12:38:26-03:00'

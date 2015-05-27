@@ -2,7 +2,7 @@
 layout: post
 title: Atos em solidariedade à Venezuela denunciam papel da imprensa
 legacy_url: http://www.mst.org.br/node/16109
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/ato venezuela
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/ato venezuela
   abre.jpg
 video: ''
 tags:
@@ -16,7 +16,7 @@ support_line: Mídia tem ocultado os crimes cometidos pela direita venezuelana e
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/ato venezuela abre.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/ato venezuela abre.jpg
 label: 
 published: true
 menu: lutas e mobilizações

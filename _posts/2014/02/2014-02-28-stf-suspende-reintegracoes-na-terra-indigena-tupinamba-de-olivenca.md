@@ -2,7 +2,7 @@
 layout: post
 title: STF suspende reintegrações na Terra Indígena Tupinambá de Olivença
 legacy_url: http://www.mst.org.br/node/15784
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/Camptupinambabre.gif
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/Camptupinambabre.gif
 video: ''
 tags:
 - tag: direitos humanos
@@ -12,7 +12,7 @@ support_line: Depois de cumprir reintegração de posse, a Polícia Federal e a 
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/Camptupinambabre.gif
+images_hd: http://www.antigo.mst.org.br/sites/default/files/Camptupinambabre.gif
 label: 
 published: true
 menu: direitos humanos

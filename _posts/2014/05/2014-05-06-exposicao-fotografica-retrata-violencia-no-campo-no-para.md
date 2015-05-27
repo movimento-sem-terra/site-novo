@@ -2,7 +2,7 @@
 layout: post
 title: Exposição fotográfica retrata violência no campo no Pará
 legacy_url: http://www.mst.org.br/node/16063
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/carajas.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/carajas.jpg
 video: ''
 tags:
 - tag: educação, cultura e comunicação
@@ -12,7 +12,7 @@ support_line: Entre os casos mais emblemáticos estão o assassinato de Onalíci
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/carajas.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/carajas.jpg
 label: 
 published: true
 menu: educação, cultura e comunicação

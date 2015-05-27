@@ -2,7 +2,7 @@
 layout: post
 title: Grupo Bandeirantes é processado por incitar ódio contra povo Tupinambá
 legacy_url: http://www.mst.org.br/node/15968
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/atencao_manipulacao.png
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/atencao_manipulacao.png
 video: ''
 tags:
 - tag: indígenas
@@ -14,7 +14,7 @@ support_line: O Grupo Bandeirantes de Comunicação veiculou, em rede nacional, 
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/atencao_manipulacao.png
+images_hd: http://www.antigo.mst.org.br/sites/default/files/atencao_manipulacao.png
 label: 
 published: true
 menu: educação, cultura e comunicação

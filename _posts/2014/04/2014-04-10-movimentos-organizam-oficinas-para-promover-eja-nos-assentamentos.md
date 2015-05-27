@@ -2,7 +2,7 @@
 layout: post
 title: Movimentos organizam oficinas para promover EJA nos assentamentos
 legacy_url: http://www.mst.org.br/node/15957
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/educar_campo.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/educar_campo.jpg
 video: ''
 tags:
 - tag: brasília
@@ -15,7 +15,7 @@ support_line: Até esta sexta-feira (9), representantes de movimentos sociais do
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/educar_campo.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/educar_campo.jpg
 label: 
 published: true
 menu: educação, cultura e comunicação

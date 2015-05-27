@@ -2,7 +2,7 @@
 layout: post
 title: 'Jean Pierre Leroy: os caminhos percorridos e o futuro do MST'
 legacy_url: http://www.mst.org.br/node/15688
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/leroy.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/leroy.jpg
 video: ''
 tags:
 - tag: '6'
@@ -15,7 +15,7 @@ support_line: A conjuntura atual, em que o domínio do grande capital produtivo 
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/leroy.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/leroy.jpg
 label: 
 published: true
 menu: reforma agrária

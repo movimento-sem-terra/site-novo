@@ -2,7 +2,7 @@
 layout: post
 title: Mobilização Nacional Indígena denuncia bancada ruralista e governo federal
 legacy_url: http://www.mst.org.br/node/16159
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/indigenas.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/indigenas.jpg
 video: ''
 tags:
 - tag: indígenas
@@ -15,7 +15,7 @@ support_line: A Mobilização Nacional Indígena teve início nesta segunda-feir
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/indigenas.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/indigenas.jpg
 label: 
 published: true
 menu: lutas e mobilizações

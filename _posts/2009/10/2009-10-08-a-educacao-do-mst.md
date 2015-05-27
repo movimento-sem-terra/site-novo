@@ -2,7 +2,7 @@
 layout: post
 title: A educação do MST
 legacy_url: http://www.mst.org.br/node/8302
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/Números
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/Números
   da Educação do MST.copy_.jpg
 video: ''
 tags: []
@@ -11,7 +11,7 @@ support_line: ''
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/Números da Educação do MST.copy_.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/Números da Educação do MST.copy_.jpg
 label: journeys
 published: true
 date: '2009-10-08T11:48:02-03:00'

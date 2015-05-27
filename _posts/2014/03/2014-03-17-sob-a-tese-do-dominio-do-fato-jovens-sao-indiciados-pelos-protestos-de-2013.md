@@ -2,7 +2,7 @@
 layout: post
 title: Sob a tese do 'domínio do fato', jovens são indiciados pelos protestos de 2013
 legacy_url: http://www.mst.org.br/node/15853
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/dominio
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/dominio
   do fato.jpg
 video: ''
 tags:
@@ -16,7 +16,7 @@ support_line: Neste sábdo (15), seis jovens da articulação Bloco de Lutas for
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/dominio do fato.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/dominio do fato.jpg
 label: 
 published: true
 menu: direitos humanos

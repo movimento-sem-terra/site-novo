@@ -2,7 +2,7 @@
 layout: post
 title: Para especialista, Embrapa tem que priorizar orgânicos e não transgenia
 legacy_url: http://www.mst.org.br/node/16260
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/transgenico_duvida!!.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/transgenico_duvida!!.jpg
 video: ''
 tags:
 - tag: manchete
@@ -14,7 +14,7 @@ support_line: A&nbsp;Embrapa apresentou recentemente a alface transgênica. Para
 section: featured-news
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/transgenico_duvida!!.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/transgenico_duvida!!.jpg
 label: 
 published: true
 menu: transgênicos

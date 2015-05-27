@@ -2,7 +2,7 @@
 layout: post
 title: Senadores querem reformas de Jango meio século depois
 legacy_url: http://www.mst.org.br/node/15850
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/comício-da-central-do-Brasil-e1394723959897.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/comício-da-central-do-Brasil-e1394723959897.jpg
 video: ''
 tags:
 - tag: reforma agrária
@@ -15,7 +15,7 @@ support_line: A intenção das propostas dos senadores Requião, Pedro Simon e C
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/comício-da-central-do-Brasil-e1394723959897.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/comício-da-central-do-Brasil-e1394723959897.jpg
 label: 
 published: true
 menu: reforma agrária

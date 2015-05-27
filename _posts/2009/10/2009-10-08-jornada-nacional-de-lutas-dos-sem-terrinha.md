@@ -2,7 +2,7 @@
 layout: post
 title: Jornada Nacional de Lutas dos Sem Terrinha
 legacy_url: http://www.mst.org.br/node/8300
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/jornadasemterrinha.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/jornadasemterrinha.jpg
 video: ''
 tags: []
 type: 
@@ -10,7 +10,7 @@ support_line: ''
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/jornadasemterrinha.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/jornadasemterrinha.jpg
 label: journeys
 published: true
 date: '2009-10-08T11:40:27-03:00'

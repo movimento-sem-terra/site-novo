@@ -2,7 +2,7 @@
 layout: post
 title: Agroecologia no cultivo de cacau ajuda a produção e o meio ambiente
 legacy_url: http://www.mst.org.br/node/15951
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/cacau.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/cacau.jpg
 video: ''
 tags:
 - tag: agroecologia
@@ -14,7 +14,7 @@ support_line: O biochar, junto de sistemas agroecológicos e de produção orgâ
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/cacau.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/cacau.jpg
 label: 
 published: true
 menu: agricultura camponesa

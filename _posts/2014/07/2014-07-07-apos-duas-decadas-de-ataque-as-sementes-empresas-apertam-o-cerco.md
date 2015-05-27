@@ -2,7 +2,7 @@
 layout: post
 title: Após duas décadas de ataque às sementes, empresas apertam o cerco
 legacy_url: http://www.mst.org.br/node/16268
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/Graos-e-Sementes.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/Graos-e-Sementes.jpg
 video: ''
 tags:
 - tag: sementes
@@ -14,7 +14,7 @@ support_line: As sementes nos criaram, e nós criamos as sementes, mas hoje, mai
 section: carousel
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/Graos-e-Sementes.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/Graos-e-Sementes.jpg
 label: 
 published: true
 menu: agronegócio

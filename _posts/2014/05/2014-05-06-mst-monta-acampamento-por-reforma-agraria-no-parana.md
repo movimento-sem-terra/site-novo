@@ -2,7 +2,7 @@
 layout: post
 title: MST monta acampamento por Reforma Agrária no Paraná
 legacy_url: http://www.mst.org.br/node/16061
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/mst ocupa
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/mst ocupa
   pr2.jpg
 video: ''
 tags:
@@ -14,7 +14,7 @@ support_line: As ações fazem parte da Jornada Nacional de Lutas  pela Reforma 
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/mst ocupa pr2.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/mst ocupa pr2.jpg
 label: 
 published: true
 menu: lutas e mobilizações

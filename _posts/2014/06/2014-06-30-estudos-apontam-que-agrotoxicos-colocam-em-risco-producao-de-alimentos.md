@@ -2,7 +2,7 @@
 layout: post
 title: Estudos apontam que agrotóxicos colocam em risco produção de alimentos
 legacy_url: http://www.mst.org.br/node/16248
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/maça.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/maça.jpg
 video: ''
 tags:
 - tag: agrotóxicos
@@ -14,7 +14,7 @@ support_line: Pesquisadores analisaram mais de 800 estudos realizados nas últim
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/maça.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/maça.jpg
 label: 
 published: true
 menu: agronegócio

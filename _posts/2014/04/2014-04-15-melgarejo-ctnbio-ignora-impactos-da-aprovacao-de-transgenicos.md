@@ -2,7 +2,7 @@
 layout: post
 title: 'Melgarejo: CTNBio ignora impactos da aprovação de transgênicos'
 legacy_url: http://www.mst.org.br/node/15976
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/melgarejo
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/melgarejo
   foto2.jpg
 video: ''
 tags:
@@ -14,7 +14,7 @@ support_line: Engenheiro agrônomo critica a forma com que a comissão  libera t
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/melgarejo foto2.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/melgarejo foto2.jpg
 label: 
 published: true
 menu: transgênicos

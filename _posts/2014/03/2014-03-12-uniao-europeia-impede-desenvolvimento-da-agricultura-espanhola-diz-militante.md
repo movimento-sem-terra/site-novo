@@ -2,7 +2,7 @@
 layout: post
 title: União Europeia impede desenvolvimento da agricultura espanhola, diz militante
 legacy_url: http://www.mst.org.br/node/15838
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/rosa abre.JPG
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/rosa abre.JPG
 video: ''
 tags:
 - tag: entrevistas
@@ -12,7 +12,7 @@ support_line: Entrevista com Rosa Cañadel, do comitê de amigos do MST.
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/rosa abre.JPG
+images_hd: http://www.antigo.mst.org.br/sites/default/files/rosa abre.JPG
 label: 
 published: true
 menu: agronegócio

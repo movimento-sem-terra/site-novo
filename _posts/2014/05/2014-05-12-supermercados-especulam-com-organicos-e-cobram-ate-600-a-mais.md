@@ -2,7 +2,7 @@
 layout: post
 title: Supermercados especulam com orgânicos e cobram até 600% a mais
 legacy_url: http://www.mst.org.br/node/16087
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/supermercado
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/supermercado
   2.jpg
 video: ''
 tags:
@@ -15,7 +15,7 @@ support_line: Os alimentos orgânicos custam em média 200% mais caro do que os 
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/supermercado 2.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/supermercado 2.jpg
 label: 
 published: true
 menu: agronegócio

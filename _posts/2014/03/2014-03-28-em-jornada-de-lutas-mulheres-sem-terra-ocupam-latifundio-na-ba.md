@@ -2,7 +2,7 @@
 layout: post
 title: 'Em jornada de lutas, mulheres Sem Terra Ocupam latifúndio na BA '
 legacy_url: http://www.mst.org.br/node/15894
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/mulhabre.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/mulhabre.jpg
 video: ''
 tags:
 - tag: lutas e mobilizações
@@ -12,7 +12,7 @@ support_line: 1200 mulheres do MST do extremo sul da Bahia ocuparam na nesta sex
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/mulhabre.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/mulhabre.jpg
 label: 
 published: true
 menu: lutas e mobilizações

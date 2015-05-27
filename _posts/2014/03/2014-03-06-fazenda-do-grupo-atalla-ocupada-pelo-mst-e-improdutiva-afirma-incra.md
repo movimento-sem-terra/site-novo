@@ -2,7 +2,7 @@
 layout: post
 title: Fazenda do Grupo Atalla ocupada pelo MST é improdutiva, afirma Incra
 legacy_url: http://www.mst.org.br/node/15795
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/ocupapr22.JPG
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/ocupapr22.JPG
 video: ''
 tags:
 - tag: ocupação
@@ -13,7 +13,7 @@ support_line: O Incra já vistoriou mais de 32 mil hectares de áreas pertencent
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/ocupapr22.JPG
+images_hd: http://www.antigo.mst.org.br/sites/default/files/ocupapr22.JPG
 label: 
 published: true
 menu: lutas e mobilizações

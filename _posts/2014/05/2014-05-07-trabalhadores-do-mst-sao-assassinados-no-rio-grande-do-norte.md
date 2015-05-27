@@ -2,7 +2,7 @@
 layout: post
 title: Trabalhadores do MST são assassinados no Rio Grande do Norte
 legacy_url: http://www.mst.org.br/node/16067
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/Brasil  Assassinato
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/Brasil  Assassinato
   de Dorothy Stang por Jailson2.jpg
 video: ''
 tags:
@@ -15,7 +15,7 @@ support_line: Francisco Fernandes e Francisco de Paiva estavam há oito meses aj
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/Brasil  Assassinato de Dorothy
+images_hd: http://www.antigo.mst.org.br/sites/default/files/Brasil  Assassinato de Dorothy
   Stang por Jailson2.jpg
 label: 
 published: true

@@ -2,7 +2,7 @@
 layout: post
 title: Confisco de terras requer explicação 'melhor', diz especialista sobre PEC
 legacy_url: http://www.mst.org.br/node/16208
-images: http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/carvoariaII.jpg
+images: http://www.antigo.mst.org.br/sites/default/files/imagecache/foto_destaque/carvoariaII.jpg
 video: ''
 tags:
 - tag: trabalho escravo
@@ -14,7 +14,7 @@ support_line: Para Sakamoto, a PEC do Trabalho Escravo tem a função de convenc
 section: 
 hat: ''
 picture_week: ''
-images_hd: http://www.mst.org.br/sites/default/files/carvoariaII.jpg
+images_hd: http://www.antigo.mst.org.br/sites/default/files/carvoariaII.jpg
 label: 
 published: true
 menu: direitos humanos
