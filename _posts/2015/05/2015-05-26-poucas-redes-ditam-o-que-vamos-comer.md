@@ -4,7 +4,7 @@ tags:
   - tag: agronegócio
   - tag: alimentação
   - tag: saúde
-title: “Poucas redes ditam o que vamos comer”
+title: "“Poucas redes ditam o que vamos comer”, afirma presidente do Conselho Federal de Nutricionistas"
 support_line: "Especialista aponta que atual forma de produção de alimentos gera produtos de baixo valor nutritivo, trazendo riscos à saúde da população."
 label: interviews
 menu: agronegócio
