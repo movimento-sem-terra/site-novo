@@ -29,6 +29,7 @@ releated_posts:
   - 2015/03/2015-03-16-uma-semana-apos-despejo-gado-de-eunicio-de-oliveira-pisoteiam-os-alimentos-de-3-mil-familias.md
   - 2015/02/2015-02-24-acampamento-dom-tomas-balduino-um-simbolo-nacional-da-luta-pela-reforma-agraria.md
 sector: mass-front
+section: featured-news
 
 ---
 <figure class="image" style="float:right"><img alt="bandeira-mst.jpeg" src="http://farm9.staticflickr.com/8818/17968980592_a5d7380d9e_b.jpg" />
