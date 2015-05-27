@@ -31,7 +31,8 @@ releated_posts:
 Da P&aacute;gina do MST</em></p>
 
 <p class="p2" style="line-height: 20.7999992370605px;"><br />
-Nos dias 29 e 30 de maio&nbsp;a turma Especial de Direito Eug&ecirc;nio Lyra da Universidade Estadual da Bahia (UNEB) realiza o 1&ordm; Semin&aacute;rio de Direito Social do Campo, c<span style="line-height: 20.7999992370605px;">om o objetivo de problematizar o lugar da milit&acirc;ncia nas lutas sociais camponesas.</span></p>
+Nos dias 29 e 30 de maio&nbsp;a turma Especial de Direito Eug&ecirc;nio Lyra da Universidade Estadual da Bahia (UNEB) realiza o 1&ordm; Semin&aacute;rio de Direito Social do Campo, c<span style="line-height: 20.7999992370605px;">om o objetivo de problematizar o lugar da milit&acirc;ncia nas lutas sociais camponesas.</span><br />
+&nbsp;</p>
 
 <p class="p2" style="line-height: 20.7999992370605px;">O semin&aacute;rio acontecer&aacute; no audit&oacute;rio do Centro de Treinamento da Empresa Baiana de Desenvolvimento Agr&iacute;cola (EBDA), em Salvador,&nbsp;e contar&aacute; com a participa&ccedil;&atilde;o de militantes dos movimentos sociais e representantes acad&ecirc;micos.</p>
 
