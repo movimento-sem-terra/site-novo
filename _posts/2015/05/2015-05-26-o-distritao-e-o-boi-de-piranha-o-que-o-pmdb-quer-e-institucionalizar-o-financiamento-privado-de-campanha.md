@@ -26,8 +26,12 @@ created_date: "2015-05-26T17:22:42-03:00"
 published: true
 images_hd: "http://farm9.staticflickr.com/8895/18134276365_0eed4ed4b0_n.jpg"
 releated_posts:
-  - 2014/11/2014-10-16-plenaria-discute-os-proximos-passos-da-campanha-pela-constituinte.md
-  - 2015/02/2015-02-05-plebiscito-oficial-para-impedir-contrarreforma-politica.md
+  - 2015/05/2015-05-14-deputados-querem-manter-doacao-empresarial-em-campanhas.md
+  - 2015/05/2015-05-21-movimentos-ja-tem-650-mil-assinaturas-para-projeto-popular-de-reforma-politica.md
+  - 2015/04/2015-04-28-cnbb-critica-projetos-que-ameacam-conquistas-sociais-e-direitos-de-trabalhadores.md
+  - 2015/05/2015-05-21-senadores-aderem-ao-manifesto-contra-ajuste-fiscal-e-colocam-governo-em-saia-justa.md
+  - 2015/05/2015-05-22-pmdb-quer-aprovar-lei-do-mais-rico-na-reforma-politica.md
+  - 2015/05/2015-05-25-em-brasilia-mais-de-mil-pessoas-preparam-protesto-contra-pec-da-corrupcao.md
 section: cover
 
 ---
