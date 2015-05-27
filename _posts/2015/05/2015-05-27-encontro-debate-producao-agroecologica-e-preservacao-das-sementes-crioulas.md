@@ -38,6 +38,10 @@ releated_posts:
   - 2015/04/2015-04-16-assentados-celebram-producao-recorde-no-pr.md
 
 ---
+<figure class="image"><img alt="IMG_7485.JPG" src="http://farm9.staticflickr.com/8892/18171640385_78d0b1c549_b.jpg" />
+<figcaption>Foto:&nbsp;Thiago Koche</figcaption>
+</figure>
+
 <p><br />
 <em>Por Antonio Kanova<br />
 Da P&aacute;gina do MST</em></p>
