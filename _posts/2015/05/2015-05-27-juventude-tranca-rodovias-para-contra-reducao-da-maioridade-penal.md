@@ -5,7 +5,7 @@ tags:
   - tag: juventude
   - tag: redução-da-maioridade-penal
   - tag: levante-popular-da-juventude
-title: Juventude tranca rodovias para contra redução da maioridade penal
+title: Juventude tranca rodovias contra redução da maioridade penal
 support_line: "Com o lema “mais escolas, menos prisão, levante contra a redução”, o Levante realiza ao longo do dia diversos trancamentos de rodovias por todo Brasil."
 menu: lutas e mobilizações
 layout: post
