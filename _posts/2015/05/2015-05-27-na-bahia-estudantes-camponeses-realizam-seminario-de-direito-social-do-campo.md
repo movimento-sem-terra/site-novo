@@ -7,7 +7,7 @@ tags:
 hat: ""
 title: Na Bahia camponeses realizam Seminário de Direito Social do Campo
 support_line: Em dois dias de debate o seminário propõe analisar criticamente o sistema jurídico e as transformações ocorridas na sociedade atual.
-menu: direitos humanos
+menu: "educação, cultura e comunicação"
 layout: post
 files:
   - link: "http://farm8.staticflickr.com/7795/17538443463_6d1d5dfa28_b.jpg"
@@ -16,13 +16,23 @@ files:
     small: "http://farm8.staticflickr.com/7795/17538443463_6d1d5dfa28_n.jpg"
     title: Imagem1.jpg
     $$hashKey: "063"
+  - link: "http://farm9.staticflickr.com/8842/17972765780_cbeaaf2bed_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8842/17972765780_cbeaaf2bed_t.jpg"
+    medium: "http://farm9.staticflickr.com/8842/17972765780_cbeaaf2bed_z.jpg"
+    small: "http://farm9.staticflickr.com/8842/17972765780_cbeaaf2bed_n.jpg"
+    title: Imagem1.jpg
+    $$hashKey: "056"
 created_date: "2015-05-27T09:57:24-03:00"
 published: true
-images_hd: "http://farm8.staticflickr.com/7795/17538443463_6d1d5dfa28_n.jpg"
+images_hd: "http://farm9.staticflickr.com/8842/17972765780_cbeaaf2bed_n.jpg"
 releated_posts:
   - 2015/05/2015-05-20-educacao-no-campo-a-estrategia-dos-usurpadores.md
   - 2015/05/2015-05-13-a-legitimidade-popular-para-cobrar-funcao-social-a-propriedade.md
   - 2015/05/2015-05-14-nao-podemos-desistir-do-projeto-de-renovacao-em-curso-em-muitos-paises-latino-americanos.md
+  - 2015/05/2015-05-06-de-tijolo-em-tijolo-sem-terra-construiram-a-primeira-escola-do-campo.md
+  - 2015/05/2015-05-08-sem-terrinha-sao-impedidas-de-estudar-do-interior-de-sao-paulo.md
+  - 2015/05/2015-05-12-com-metodo-cubano-sem-terra-zeram-analfabetismo-em-sete-assentamentos-da-bahia.md
+  - 2015/05/2015-05-18-reforma-agraria-em-bom-portugues-uma-historia-premiada.md
 
 ---
 <p class="p1"><img alt="Imagem1.jpg" src="http://farm8.staticflickr.com/7795/17538443463_6d1d5dfa28_b.jpg" /></p>
