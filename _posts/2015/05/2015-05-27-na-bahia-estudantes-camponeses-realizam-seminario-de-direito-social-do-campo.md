@@ -5,7 +5,7 @@ tags:
   - tag: educação
   - tag: seminário
 hat: ""
-title: Na Bahia estudantes camponeses realizam Seminário de Direito Social do Campo
+title: Na Bahia camponeses realizam Seminário de Direito Social do Campo
 support_line: Em dois dias de debate o seminário propõe analisar criticamente o sistema jurídico e as transformações ocorridas na sociedade atual.
 menu: direitos humanos
 layout: post
@@ -27,7 +27,8 @@ releated_posts:
 ---
 <p class="p1"><img alt="Imagem1.jpg" src="http://farm8.staticflickr.com/7795/17538443463_6d1d5dfa28_b.jpg" /></p>
 
-<p class="p2"><em>Por Coletivo de Comunica&ccedil;&atilde;o do MST na Bahia</em></p>
+<p class="p2"><em>Por Coletivo de Comunica&ccedil;&atilde;o do MST&nbsp;<br />
+Da P&aacute;gina do MST</em></p>
 
 <p class="p2"><br />
 Nos dias 29 e 30 de maio a turma Especial de Direito Eug&ecirc;nio Lyra da Universidade Estadual da Bahia (UNEB) realiza o 1&ordm; Semin&aacute;rio de Direito Social do Campo.&nbsp;</p>
