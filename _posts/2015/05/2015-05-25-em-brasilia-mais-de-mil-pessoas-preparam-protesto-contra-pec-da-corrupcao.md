@@ -4,7 +4,7 @@ tags:
   - tag: reforma-política
   - tag: plebiscito-constituinte
   - tag: eduardo-cunha
-section: cover
+section: null
 menu: projeto popular
 title: "Em Brasília, protesto marca votação da PEC da Corrupção"
 support_line: "Segundo organizações sociais, a reforma política encabeçada pelo Congresso seria um retrocesso ainda maior do sistema político atual."
