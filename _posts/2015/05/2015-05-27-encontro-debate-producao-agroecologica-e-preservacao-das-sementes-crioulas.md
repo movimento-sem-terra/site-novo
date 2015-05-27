@@ -15,9 +15,15 @@ files:
     small: "http://farm8.staticflickr.com/7732/17539263404_68ce5168e6_n.jpg"
     title: sementes-site.jpg
     $$hashKey: 0DH
+  - link: "http://farm9.staticflickr.com/8830/17977942379_19cc2615cb_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8830/17977942379_19cc2615cb_t.jpg"
+    medium: "http://farm9.staticflickr.com/8830/17977942379_19cc2615cb_z.jpg"
+    small: "http://farm9.staticflickr.com/8830/17977942379_19cc2615cb_n.jpg"
+    title: IMG_7314.JPG
+    $$hashKey: 0TU
 created_date: "2015-05-27T11:09:27-03:00"
 published: true
-images_hd: "http://farm8.staticflickr.com/7732/17539263404_68ce5168e6_n.jpg"
+images_hd: "http://farm9.staticflickr.com/8830/17977942379_19cc2615cb_n.jpg"
 releated_posts:
   - 2015/01/2015-01-08-agricultura-familiar-vende-mais-de-7-milhoes-de-quilos-de-produtos.md
   - 2015/05/2015-05-15-politicas-publicas-prioridade-para-alimentos-saudaveis.md
@@ -26,7 +32,12 @@ releated_posts:
   - 2015/04/2015-04-16-assentados-celebram-producao-recorde-no-pr.md
 
 ---
+<figure class="image"><img alt="IMG_7314.JPG" src="http://farm9.staticflickr.com/8830/17977942379_19cc2615cb_b.jpg" />
+<figcaption>Foto:&nbsp;Thiago Koche</figcaption>
+</figure>
+
 <p><br />
+<br />
 <em>Por Antonio Kanova<br />
 Da P&aacute;gina do MST</em></p>
 
