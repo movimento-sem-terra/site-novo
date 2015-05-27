@@ -37,7 +37,6 @@ releated_posts:
 </figure>
 
 <p><br />
-<br />
 <em>Por Antonio Kanova<br />
 Da P&aacute;gina do MST</em></p>
 
