@@ -7,7 +7,7 @@ tags:
 title: “O distritão é o boi de piranha. O que o PMDB quer é institucionalizar o financiamento privado de campanha”
 support_line: "Para Ricardo Gebrim, militante da Consulta Popular, a contra reforma proposta pelo Congresso é um retrocesso para  país."
 label: interviews
-menu: lutas e mobilizações
+menu: projeto popular
 layout: post
 files:
   - link: "http://farm9.staticflickr.com/8895/18134276365_0eed4ed4b0_b.jpg"
@@ -32,7 +32,7 @@ releated_posts:
   - 2015/05/2015-05-21-senadores-aderem-ao-manifesto-contra-ajuste-fiscal-e-colocam-governo-em-saia-justa.md
   - 2015/05/2015-05-22-pmdb-quer-aprovar-lei-do-mais-rico-na-reforma-politica.md
   - 2015/05/2015-05-25-em-brasilia-mais-de-mil-pessoas-preparam-protesto-contra-pec-da-corrupcao.md
-section: cover
+section: null
 
 ---
 <p><br />
