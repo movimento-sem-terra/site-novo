@@ -21,9 +21,15 @@ files:
     small: "http://farm9.staticflickr.com/8830/17977942379_19cc2615cb_n.jpg"
     title: IMG_7314.JPG
     $$hashKey: 0TU
+  - link: "http://farm9.staticflickr.com/8892/18171640385_78d0b1c549_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8892/18171640385_78d0b1c549_t.jpg"
+    medium: "http://farm9.staticflickr.com/8892/18171640385_78d0b1c549_z.jpg"
+    small: "http://farm9.staticflickr.com/8892/18171640385_78d0b1c549_n.jpg"
+    title: IMG_7485.JPG
+    $$hashKey: 0BD
 created_date: "2015-05-27T11:09:27-03:00"
 published: true
-images_hd: "http://farm9.staticflickr.com/8830/17977942379_19cc2615cb_n.jpg"
+images_hd: "http://farm9.staticflickr.com/8892/18171640385_78d0b1c549_n.jpg"
 releated_posts:
   - 2015/01/2015-01-08-agricultura-familiar-vende-mais-de-7-milhoes-de-quilos-de-produtos.md
   - 2015/05/2015-05-15-politicas-publicas-prioridade-para-alimentos-saudaveis.md
@@ -32,10 +38,6 @@ releated_posts:
   - 2015/04/2015-04-16-assentados-celebram-producao-recorde-no-pr.md
 
 ---
-<figure class="image"><img alt="IMG_7314.JPG" src="http://farm9.staticflickr.com/8830/17977942379_19cc2615cb_b.jpg" />
-<figcaption>Foto:&nbsp;Thiago Koche</figcaption>
-</figure>
-
 <p><br />
 <em>Por Antonio Kanova<br />
 Da P&aacute;gina do MST</em></p>
