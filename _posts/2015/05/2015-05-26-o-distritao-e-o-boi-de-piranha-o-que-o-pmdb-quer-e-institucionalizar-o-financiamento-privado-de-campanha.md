@@ -109,8 +109,5 @@ Mas a&iacute; ele fala: &ldquo;t&aacute; bom, recuou disso, agora vamos para o p
 <p><br />
 A Constituinte vai voltar &agrave; carga porque vai se aprovar uma reforma p&iacute;fia, que n&atilde;o responde aos anseios. Ou ela tem cara de pizza, na melhor das hip&oacute;teses, ou sai uma contra reforma pol&iacute;tica, e a gente vai denunciar, apontar que isso &eacute; pra garantir a corrup&ccedil;&atilde;o que est&aacute; para morrer com a decis&atilde;o do STF. Qualquer coisa que sa&iacute;a dali n&atilde;o vai resolver a insatisfa&ccedil;&atilde;o com o sistema pol&iacute;tico. A bandeira de que s&oacute; uma Constituinte pode mudar as coisas vai ganhando corpo nos debates.</p>
 
-<p>Acho que vai come&ccedil;ar a ter um senso comum de que esse Congresso n&atilde;o vai se auto-reformar, que &eacute; o que a gente j&aacute; vinha dizendo. A Constituinte vai voltar conquistar o imagin&aacute;rio. Ou a gente esquece isso [a reforma pol&iacute;tica], aprende a lidar com o sistema pol&iacute;tico, e vai ser cada vez mais dif&iacute;cil, porque tende a piorar, ou a gente tem que pautar uma Constituinte.</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
+<p><br />
+Acho que vai come&ccedil;ar a ter um senso comum de que esse Congresso n&atilde;o vai se auto-reformar, que &eacute; o que a gente j&aacute; vinha dizendo. A Constituinte vai voltar conquistar o imagin&aacute;rio. Ou a gente esquece isso [a reforma pol&iacute;tica], aprende a lidar com o sistema pol&iacute;tico, e vai ser cada vez mais dif&iacute;cil, porque tende a piorar, ou a gente tem que pautar uma Constituinte.</p>
