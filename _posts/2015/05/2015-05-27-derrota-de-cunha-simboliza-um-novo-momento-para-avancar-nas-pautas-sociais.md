@@ -4,7 +4,7 @@ tags:
   - tag: reforma-política
   - tag: plebiscito-constituinte
 title: Derrota de Cunha simboliza um novo momento para avançar nas pautas sociais
-support_line: " Para as organizações, este é um momento de ir para a ofensiva e demonstrar que nada será alterado positivamente sem a participação social."
+support_line: "Para as organizações, este é um momento de ir para a ofensiva e demonstrar que nada será alterado positivamente sem a participação social."
 menu: projeto popular
 section: cover
 layout: post
@@ -31,13 +31,13 @@ releated_posts:
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
-As derrotas desta ter&ccedil;a-feira (26) sobre os pontos mais pol&ecirc;micas da reforma pol&iacute;tica em tramita&ccedil;&atilde;o na C&acirc;mara dos Deputados abriram uma esperan&ccedil;a para os diversos movimentos sociais e organiza&ccedil;&otilde;es pol&iacute;ticas que se colocam contr&aacute;rios &agrave; proposta.</p>
+As derrotas desta ter&ccedil;a-feira (26), sobre os pontos mais pol&ecirc;micas da reforma pol&iacute;tica em tramita&ccedil;&atilde;o na C&acirc;mara dos Deputados, abriram uma esperan&ccedil;a para os diversos movimentos sociais e organiza&ccedil;&otilde;es pol&iacute;ticas que se colocam contr&aacute;rios &agrave; proposta.</p>
 
 <p><br />
-Para J&uacute;lio Turra, da Central &Uacute;nica dos Trabalhadores (CUT), a vota&ccedil;&atilde;o foi o retrato das lutas travadas pelos movimentos sociais.</p>
+Para J&uacute;lio Turra, da Central &Uacute;nica dos Trabalhadores (CUT), a vota&ccedil;&atilde;o foi o retrato das lutas travadas pelas organiza&ccedil;&otilde;es sociais, como a CUT e o MST, que passaram o dia todo pressionado o Congresso Nacional em Bras&iacute;lia.</p>
 
 <p><br />
-&ldquo;Movimentos e organiza&ccedil;&otilde;es, entre eles a CUT e o MST, passaram o dia em manifesta&ccedil;&atilde;o em Bras&iacute;lia contra a vota&ccedil;&atilde;o. Enxergamos de maneira positiva essa derrota de Eduardo Cunha, embora na pr&aacute;tica nada tenha mudado. O sistema atual ser&aacute; mantido, apenas conseguimos impedir um retrocesso maior&rdquo;, afirma.</p>
+&ldquo;Enxergamos de maneira positiva essa derrota de Eduardo Cunha, embora na pr&aacute;tica nada tenha mudado. O sistema atual ser&aacute; mantido, apenas conseguimos impedir um retrocesso maior&rdquo;, afirma.</p>
 
 <p><br />
 Dentre os pontos rejeitados pelos deputados estavam a inclus&atilde;o, na Constitui&ccedil;&atilde;o, do financiamento privado de campanha para partidos e candidatos durante as elei&ccedil;&otilde;es e o distrit&atilde;o &ndash; sistema eleitoral que acabaria com o voto proporcional e estabelece como vitoriosos apenas os candidatos mais votados nas elei&ccedil;&otilde;es.</p>
@@ -52,19 +52,19 @@ Na mesma linha que Turra, o deputado federal Jo&atilde;o Daniel (PT-SE) n&atilde
 <strong>Avan&ccedil;o nas pautas sociais</strong></p>
 
 <p><br />
-Todavia, Jo&atilde;o Daniel ressalta que a derrota de Eduardo Cunha e seus aliados no Congresso pode simbolizar um novo cen&aacute;rio para o avan&ccedil;o das pautas sociais.</p>
+Todavia, Jo&atilde;o Daniel ressalta que a derrota de Eduardo Cunha e seus aliados no Congresso pode simbolizar um novo cen&aacute;rio para o avan&ccedil;o das pautas sociais. Para ele, n&atilde;o h&aacute; consenso no bloco de oposi&ccedil;&atilde;o ao atual governo Dilma, liderado por Cunha.</p>
 
 <p><br />
-&ldquo;N&atilde;o h&aacute; consenso no bloco de oposi&ccedil;&atilde;o ao atual governo Dilma, liderado por Cunha. Isso ficou claro nessa derrota que n&atilde;o era esperada por eles. Por isso, considero um bom momento para avan&ccedil;armos em nossas pautas e retomar a for&ccedil;a dentro do Congresso. &Eacute; o momento de unifica&ccedil;&atilde;o dos movimentos sociais e setores organizados da sociedade. A campanha &ldquo;Devolve Gilmar&rdquo;, por exemplo, deve ressurgir com for&ccedil;a agora. &Eacute; um absurdo um membro do judici&aacute;rio barrar por conta pr&oacute;pria um projeto. Isso &eacute; inadmiss&iacute;vel em uma democracia&rdquo;, acredita.</p>
+&quot;Isso ficou claro nessa derrota que n&atilde;o era esperada por eles. Por isso, considero um bom momento para avan&ccedil;armos em nossas pautas e retomar a for&ccedil;a dentro do Congresso. &Eacute; o momento de unifica&ccedil;&atilde;o dos movimentos sociais e setores organizados da sociedade. A campanha &ldquo;Devolve Gilmar&rdquo;, por exemplo, deve ressurgir com for&ccedil;a agora. &Eacute; um absurdo um membro do judici&aacute;rio barrar por conta pr&oacute;pria um projeto. Isso &eacute; inadmiss&iacute;vel em uma democracia&rdquo;, acredita.</p>
 
 <p><br />
 O deputado se refere ao pedido de vistas do ministro do Supremo Tribunal Federal (STF), Gilmar Mendes, que h&aacute; mais de um ano segura a a&ccedil;&atilde;o de inconstitucionalidade proposta pela OAB sobre a doa&ccedil;&atilde;o empresarial &agrave;s campanhas eleitorais. Cinco ministros j&aacute; votaram a favor da proposta.</p>
 
 <p><br />
-Para Turra, Gilmar pretendia dar tempo a Eduardo Cunha para que este fizesse as altera&ccedil;&otilde;es necess&aacute;rias em benef&iacute;cio de seu bloco pol&iacute;tico. &ldquo;Com isso fica claro que, com a atual composi&ccedil;&atilde;o do Congresso, n&atilde;o acontecer&aacute; uma Reforma Pol&iacute;tica de base com participa&ccedil;&atilde;o popular&rdquo;, pondera.</p>
+J&aacute; para Turra, Gilmar pretendia dar tempo a Eduardo Cunha para que este fizesse as altera&ccedil;&otilde;es necess&aacute;rias em benef&iacute;cio de seu bloco pol&iacute;tico. &ldquo;Com isso fica claro que, com a atual composi&ccedil;&atilde;o do Congresso, n&atilde;o acontecer&aacute; uma Reforma Pol&iacute;tica de base com participa&ccedil;&atilde;o popular&rdquo;, aponta.</p>
 
 <p><br />
-Neste sentido, Jo&atilde;o Daniel ressalta que uma Reforma Pol&iacute;tica de fato s&oacute; poder&aacute; ser feita com a participa&ccedil;&atilde;o efetiva do povo. Sem isso, os interesses de minorias continuar&atilde;o a serem priorizados.</p>
+Neste sentido, Jo&atilde;o Daniel ressalta que uma verdadeira Reforma Pol&iacute;tica s&oacute; poder&aacute; ser feita com a participa&ccedil;&atilde;o efetiva do povo. Sem isso, os interesses de minorias continuar&atilde;o a serem priorizados.</p>
 
 <p><br />
 &ldquo;A Reforma Pol&iacute;tica que beneficiar&aacute; o pa&iacute;s s&oacute; poder&aacute; ser constru&iacute;da atrav&eacute;s de um Plebiscito Popular pela Constituinte. Qualquer a&ccedil;&atilde;o planejada sem a participa&ccedil;&atilde;o da popula&ccedil;&atilde;o beneficiar&aacute; somente aqueles que a fizeram&rdquo;, coloca.</p>
