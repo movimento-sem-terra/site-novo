@@ -31,7 +31,7 @@ releated_posts:
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
-As derrotas desta ter&ccedil;a-feira (26) sobre os pontos mais pol&ecirc;micas da reforma pol&iacute;tica em tramita&ccedil;&atilde;o na C&acirc;mara dos Deputados abriu uma esperan&ccedil;a para os diversos movimentos sociais e organiza&ccedil;&otilde;es pol&iacute;ticas que se colocam contr&aacute;rios &agrave; proposta.</p>
+As derrotas desta ter&ccedil;a-feira (26) sobre os pontos mais pol&ecirc;micas da reforma pol&iacute;tica em tramita&ccedil;&atilde;o na C&acirc;mara dos Deputados abriram uma esperan&ccedil;a para os diversos movimentos sociais e organiza&ccedil;&otilde;es pol&iacute;ticas que se colocam contr&aacute;rios &agrave; proposta.</p>
 
 <p><br />
 Para J&uacute;lio Turra, da Central &Uacute;nica dos Trabalhadores (CUT), a vota&ccedil;&atilde;o foi o retrato das lutas travadas pelos movimentos sociais.</p>
