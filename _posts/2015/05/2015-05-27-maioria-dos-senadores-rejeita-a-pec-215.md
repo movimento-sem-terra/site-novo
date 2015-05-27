@@ -9,12 +9,6 @@ support_line: "Manifesto assinado por mais da metade dos senadores coloca em xeq
 menu: direitos humanos
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8868/17975893809_51ab74d2b8_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8868/17975893809_51ab74d2b8_t.jpg"
-    medium: "http://farm9.staticflickr.com/8868/17975893809_51ab74d2b8_z.jpg"
-    small: "http://farm9.staticflickr.com/8868/17975893809_51ab74d2b8_n.jpg"
-    title: indios-do-brasil-685x320.jpg
-    $$hashKey: 11H
   - link: "http://farm8.staticflickr.com/7753/18136148276_53c208345f_b.jpg"
     thumbnail: "http://farm8.staticflickr.com/7753/18136148276_53c208345f_t.jpg"
     medium: "http://farm8.staticflickr.com/7753/18136148276_53c208345f_z.jpg"
