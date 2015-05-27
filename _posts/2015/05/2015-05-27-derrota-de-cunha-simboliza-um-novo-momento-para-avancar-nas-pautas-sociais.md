@@ -33,10 +33,8 @@ Da P&aacute;gina do MST</em></p>
 <p><br />
 As derrotas desta ter&ccedil;a-feira (26) sobre os pontos mais pol&ecirc;micas da reforma pol&iacute;tica em tramita&ccedil;&atilde;o na C&acirc;mara dos Deputados abriu uma esperan&ccedil;a para os diversos movimentos sociais e organiza&ccedil;&otilde;es pol&iacute;ticas que se colocam contr&aacute;rios &agrave; proposta.</p>
 
-<p>&nbsp;
 <p><br />
 Para J&uacute;lio Turra, da Central &Uacute;nica dos Trabalhadores (CUT), a vota&ccedil;&atilde;o foi o retrato das lutas travadas pelos movimentos sociais.</p>
-</p>
 
 <p><br />
 &ldquo;Movimentos e organiza&ccedil;&otilde;es, entre eles a CUT e o MST, passaram o dia em manifesta&ccedil;&atilde;o em Bras&iacute;lia contra a vota&ccedil;&atilde;o. Enxergamos de maneira positiva essa derrota de Eduardo Cunha, embora na pr&aacute;tica nada tenha mudado. O sistema atual ser&aacute; mantido, apenas conseguimos impedir um retrocesso maior&rdquo;, afirma.</p>
