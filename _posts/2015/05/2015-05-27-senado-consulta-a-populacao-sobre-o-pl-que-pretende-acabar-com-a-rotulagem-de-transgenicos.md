@@ -48,6 +48,9 @@ O Portal e-Cidadania, do Senado Federal, possui um espa&ccedil;o para que qualqu
 L&aacute;, est&aacute; aberta vota&ccedil;&atilde;o para opinar sobre o Projeto de Lei da C&acirc;mara n&deg;34 de 2015, de autoria do deputado Luis Carlos Heinze (PP-RS), projeto que altera a reda&ccedil;&atilde;o do art. 40 da Lei n&ordm; 11.105/2005, a Lei de Biosseguran&ccedil;a.</p>
 
 <p><br />
+(At&eacute; o momento o Portal contabiliza 509 votos a favor e 8417&nbsp;contra o PLC. Vote contra e contribua para que o Senado Federal fique ciente da insatisfa&ccedil;&atilde;o da popula&ccedil;&atilde;o com a proposta, clique <a href="http://www12.senado.gov.br/ecidadania/visualizacaomateria?id=120996">aqui</a>.)</p>
+
+<p><br />
 Considerada um retrocesso, a proposta fere o direito do consumidor de v&aacute;rias formas. O PL prev&ecirc; o fim da obrigatoriedade da rotulagem de produtos transg&ecirc;nicos, o que significa que os consumidores n&atilde;o ter&atilde;o informa&ccedil;&otilde;es claras e precisas que auxiliem na op&ccedil;&atilde;o de n&atilde;o consumir produtos transg&ecirc;nicos.</p>
 
 <p><br />
@@ -124,6 +127,3 @@ Ocorre ainda, que as sementes transg&ecirc;nicas s&atilde;o criadas para serem c
 
 <p><br />
 O Brasil ocupa a lideran&ccedil;a mundial no consumo de agrot&oacute;xicos e est&aacute; em segundo lugar em &aacute;rea plantada de transg&ecirc;nicos, atr&aacute;s apenas dos Estados Unidos. Cada brasileiro consome cerca de 5,2 litros de agrot&oacute;xicos por ano (informa&ccedil;&otilde;es da campanha permanente contra os agrot&oacute;xicos e pela vida).</p>
-
-<p><br />
-At&eacute; o momento* o Portal contabiliza 509 votos a favor e 8417&nbsp;contra o PLC. Vote contra e contribua para que o Senado Federal fique ciente da insatisfa&ccedil;&atilde;o da popula&ccedil;&atilde;o com a proposta, clique <a href="http://www12.senado.gov.br/ecidadania/visualizacaomateria?id=120996">aqui</a>.</p>
