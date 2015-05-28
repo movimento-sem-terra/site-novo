@@ -7,7 +7,7 @@ tags:
   - tag: paraná
 title: Sem Terra ocupam Incra em Curitiba
 menu: lutas e mobilizações
-support_line: "Os trabalhadores e trabalhadoras rurais cobram a vistoria, desapropriação e arrecadação de áreas para fins de Reforma Agrária."
+support_line: "Os trabalhadores e trabalhadoras rurais cobram vistorias, desapropriações e arrecadações de áreas para fins de Reforma Agrária."
 layout: post
 files:
   - link: "http://farm9.staticflickr.com/8798/18170041426_df7c290c61_b.jpg"
