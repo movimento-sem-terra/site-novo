@@ -16,11 +16,11 @@ files:
     small: "http://farm9.staticflickr.com/8798/18170041426_df7c290c61_n.jpg"
     title: IMG-20150528-WA0003.jpg
     $$hashKey: 059
-  - link: "http://farm8.staticflickr.com/7752/18170581716_bee942b42b_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7752/18170581716_bee942b42b_t.jpg"
-    medium: "http://farm8.staticflickr.com/7752/18170581716_bee942b42b_z.jpg"
-    small: "http://farm8.staticflickr.com/7752/18170581716_bee942b42b_n.jpg"
-    title: 11143292_545821218890580_6821457589361708895_n.jpg
+  - link: "http://farm9.staticflickr.com/8791/18194079602_14f71c4786_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8791/18194079602_14f71c4786_t.jpg"
+    medium: "http://farm9.staticflickr.com/8791/18194079602_14f71c4786_z.jpg"
+    small: "http://farm9.staticflickr.com/8791/18194079602_14f71c4786_n.jpg"
+    title: incra_pr.jpg
     $$hashKey: 06F
 created_date: "2015-05-28T09:57:49-03:00"
 published: true
@@ -34,12 +34,13 @@ releated_posts:
   - 2015/05/2015-05-28-governo-federal-corta-mais-de-50-dos-recursos-da-reforma-agraria.md
 
 ---
-<figure class="image"><img alt="IMG-20150528-WA0003.jpg" src="http://farm9.staticflickr.com/8798/18170041426_df7c290c61_b.jpg" />
-<figcaption>Foto:&nbsp;Geani Souza</figcaption>
+<p class="p1">&nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="incra_pr.jpg" src="http://farm9.staticflickr.com/8791/18194079602_14f71c4786_b.jpg" />
+<figcaption>Foto:&nbsp;Geani Souza.</figcaption>
 </figure>
 
-<p class="p1"><br />
-<em>Da P&aacute;gina do MST</em></p>
+<p class="p1"><em>Da P&aacute;gina do MST</em></p>
 
 <p class="p1"><br />
 Nesta quinta-feira (28), cerca de 800 integrantes do MST&nbsp;ocupam a sede do Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra), em Curitiba, no Paran&aacute;.</p>
