@@ -10,18 +10,18 @@ menu: lutas e mobilizações
 support_line: "Os trabalhadores e trabalhadoras rurais cobram a vistoria, desapropriação e arrecadação de áreas para fins de Reforma Agrária."
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8899/18008657108_e6b93c221f_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8899/18008657108_e6b93c221f_t.jpg"
-    medium: "http://farm9.staticflickr.com/8899/18008657108_e6b93c221f_z.jpg"
-    small: "http://farm9.staticflickr.com/8899/18008657108_e6b93c221f_n.jpg"
-    title: 11143292_545821218890580_6821457589361708895_n.jpg
-    $$hashKey: "056"
   - link: "http://farm9.staticflickr.com/8798/18170041426_df7c290c61_b.jpg"
     thumbnail: "http://farm9.staticflickr.com/8798/18170041426_df7c290c61_t.jpg"
     medium: "http://farm9.staticflickr.com/8798/18170041426_df7c290c61_z.jpg"
     small: "http://farm9.staticflickr.com/8798/18170041426_df7c290c61_n.jpg"
     title: IMG-20150528-WA0003.jpg
     $$hashKey: 059
+  - link: "http://farm8.staticflickr.com/7752/18170581716_bee942b42b_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7752/18170581716_bee942b42b_t.jpg"
+    medium: "http://farm8.staticflickr.com/7752/18170581716_bee942b42b_z.jpg"
+    small: "http://farm8.staticflickr.com/7752/18170581716_bee942b42b_n.jpg"
+    title: 11143292_545821218890580_6821457589361708895_n.jpg
+    $$hashKey: 06F
 created_date: "2015-05-28T09:57:49-03:00"
 published: true
 images_hd: "http://farm9.staticflickr.com/8798/18170041426_df7c290c61_n.jpg"
@@ -49,6 +49,10 @@ A mobiliza&ccedil;&atilde;o faz parte da Jornada de Luta pela Reforma Agr&aacute
 
 <p class="p1"><br />
 Para o dia de hoje est&aacute; prevista uma&nbsp;audi&ecirc;ncia com o presidente substituto nacional do Incra, Leonardo G&oacute;es Silva, o superintendente do Incra no Paran&aacute;, Nilton Bezerra Guedes e Hamilton Serighelli, assessor especial de Assuntos Fundi&aacute;rios do Governo estadual, para apresentar a pauta de reivindica&ccedil;&otilde;es.&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="11143292_545821218890580_6821457589361708895_n.jpg" src="http://farm8.staticflickr.com/7752/18170581716_bee942b42b_b.jpg" />
+<figcaption>Foto: Geani Souza</figcaption>
+</figure>
 
 <p class="p1"><br />
 Os Sem Terra paranaenses tamb&eacute;m exigem a estrutura&ccedil;&atilde;o de um plano para &aacute;reas de Reforma Agr&aacute;ria, que garanta a infraestrutura dos assentamentos como: constru&ccedil;&atilde;o e reforma de escolas, garantia de recursos para a habita&ccedil;&atilde;o, constru&ccedil;&atilde;o e revitaliza&ccedil;&atilde;o de espa&ccedil;os culturais e postos de sa&uacute;de.</p>
