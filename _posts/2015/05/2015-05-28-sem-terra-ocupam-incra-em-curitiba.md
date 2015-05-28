@@ -49,6 +49,10 @@ Nesta quinta-feira (28), cerca de 800 integrantes do Movimento dos Trabalhadores
 
 <p class="p1">&nbsp;</p>
 
+<figure class="image" style="float:left"><img alt="11143292_545821218890580_6821457589361708895_n.jpg" src="http://farm9.staticflickr.com/8899/18008657108_e6b93c221f_b.jpg" />
+<figcaption>Foto: Geani Souza</figcaption>
+</figure>
+
 <p class="p1">Os Sem Terra paranaenses tamb&eacute;m exigem a estrutura&ccedil;&atilde;o de um plano para &aacute;reas de Reforma Agr&aacute;ria, que garanta a infraestrutura dos assentamentos como: constru&ccedil;&atilde;o e reforma de escolas, garantia de recursos para a habita&ccedil;&atilde;o, constru&ccedil;&atilde;o e revitaliza&ccedil;&atilde;o de espa&ccedil;os culturais e postos de sa&uacute;de.</p>
 
 <p class="p1"><br />
