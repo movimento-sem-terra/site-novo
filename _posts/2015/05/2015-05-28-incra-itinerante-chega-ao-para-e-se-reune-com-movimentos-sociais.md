@@ -28,6 +28,7 @@ releated_posts:
 
 ---
 <p><img alt="WP_20150527_10_57_05_Pro[1].jpg" src="http://farm9.staticflickr.com/8890/18194123172_753244c2f4_b.jpg" /><br />
+<br />
 <em>Por Viviane Br&iacute;gida&nbsp;<br />
 Da P&aacute;gina do MST</em></p>
 
