@@ -35,8 +35,7 @@ releated_posts:
 ---
 <p><img alt="IMG_6252.JPG" src="http://farm9.staticflickr.com/8806/18017056408_0603955dd8_b.jpg" /></p>
 
-<p><em>Do Coletivo de Comunica&ccedil;&atilde;o do MST na Bahia<br />
-Da P&aacute;gina do MST</em></p>
+<p><em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
 Mais de 100 trabalhadores rurais do MST deram in&iacute;cio, nesta quarta-feira (27), ao Encontro Estadual do Setor de Produ&ccedil;&atilde;o da Bahia. O encontro juntou Sem Terra de dez regi&otilde;es do estado na Escola Popular de Agroecologia e Agrofloresta Eg&iacute;dio Brunetto, no Assentamento Jaci Rocha, em Itamaraju, extremo sul baiano.</p>
