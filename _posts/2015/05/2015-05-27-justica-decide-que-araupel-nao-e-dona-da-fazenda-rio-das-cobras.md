@@ -27,6 +27,7 @@ releated_posts:
   - 2014/07/2014-07-17-familias-sem-terra-seguem-na-luta-por-area-grilada-em-abelardo-luz.md
   - 2014/12/2014-11-05-brava-gente-assentada-o-assentamento-celso-furtado.md
   - 2015/05/2015-05-18-reforma-agraria-em-bom-portugues-uma-historia-premiada.md
+section: featured-news
 
 ---
 <p><img alt="araupel.jpg" src="http://farm9.staticflickr.com/8775/17549987943_fb796242e5_b.jpg" /></p>
