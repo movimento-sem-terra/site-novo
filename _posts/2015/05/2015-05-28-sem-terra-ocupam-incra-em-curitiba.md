@@ -45,17 +45,13 @@ releated_posts:
 Nesta quinta-feira (28), cerca de 800 integrantes do MST&nbsp;ocupam a sede do Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra), em Curitiba, no Paran&aacute;.</p>
 
 <p class="p1"><br />
-A mobiliza&ccedil;&atilde;o faz parte da Jornada de Luta pela Reforma Agr&aacute;ria no estado que iniciou nesta quarta-feira (27) e reivindicam&nbsp;<span style="line-height: 20.7999992370605px;">vistorias, desapropria&ccedil;&otilde;es e arrecada&ccedil;&otilde;es&nbsp;de &aacute;reas para fins de&nbsp;Reforma Agr&aacute;ria.&nbsp;Somente no Paran&aacute; s&atilde;o sete mil fam&iacute;lias acampadas que muitas vezes s&atilde;o v&iacute;timas da viol&ecirc;ncia do latif&uacute;ndio e do agroneg&oacute;cio.&nbsp;</span></p>
+A mobiliza&ccedil;&atilde;o faz parte da Jornada de Luta pela Reforma Agr&aacute;ria no estado, que teve in&iacute;cio nesta quarta-feira (27), e reivindica <span style="line-height: 20.7999992370605px;">vistorias, desapropria&ccedil;&otilde;es e arrecada&ccedil;&otilde;es&nbsp;de &aacute;reas para fins de&nbsp;Reforma Agr&aacute;ria.&nbsp;Somente no Paran&aacute;, h&aacute; 7 mil fam&iacute;lias acampadas, muitas vezes v&iacute;timas da viol&ecirc;ncia do latif&uacute;ndio e do agroneg&oacute;cio.&nbsp;</span></p>
 
 <p class="p1"><br />
-Para o dia de hoje est&aacute; prevista uma&nbsp;audi&ecirc;ncia com o presidente substituto nacional do Incra, Leonardo G&oacute;es Silva, o superintendente do Incra no Paran&aacute;, Nilton Bezerra Guedes e Hamilton Serighelli, assessor especial de Assuntos Fundi&aacute;rios do Governo estadual, para apresentar a pauta de reivindica&ccedil;&otilde;es.&nbsp;</p>
-
-<figure class="image" style="float:left"><img alt="11143292_545821218890580_6821457589361708895_n.jpg" src="http://farm8.staticflickr.com/7752/18170581716_bee942b42b_b.jpg" />
-<figcaption>Foto: Geani Souza</figcaption>
-</figure>
+Para o dia de hoje est&aacute; prevista uma&nbsp;audi&ecirc;ncia para apresentar a pauta de reivindica&ccedil;&otilde;es com o presidente substituto nacional do Incra, Leonardo G&oacute;es Silva, o superintendente do Incra no Paran&aacute;, Nilton Bezerra Guedes e Hamilton Serighelli, assessor especial de Assuntos Fundi&aacute;rios do governo estadual.&nbsp;</p>
 
 <p class="p1"><br />
-Os Sem Terra paranaenses tamb&eacute;m exigem a estrutura&ccedil;&atilde;o de um plano para &aacute;reas de Reforma Agr&aacute;ria, que garanta a infraestrutura dos assentamentos como: constru&ccedil;&atilde;o e reforma de escolas, garantia de recursos para a habita&ccedil;&atilde;o, constru&ccedil;&atilde;o e revitaliza&ccedil;&atilde;o de espa&ccedil;os culturais e postos de sa&uacute;de.</p>
+Os Sem Terra paranaenses tamb&eacute;m exigem a estrutura&ccedil;&atilde;o de um plano para &aacute;reas de Reforma Agr&aacute;ria que garanta a infraestrutura dos assentamentos, como constru&ccedil;&atilde;o e reforma de escolas, garantia de recursos para a habita&ccedil;&atilde;o, constru&ccedil;&atilde;o e revitaliza&ccedil;&atilde;o de espa&ccedil;os culturais e postos de sa&uacute;de.</p>
 
 <p class="p1"><br />
-Al&eacute;m de cobrarem a continuidade da assist&ecirc;ncia t&eacute;cnica que estimula a coopera&ccedil;&atilde;o e a produ&ccedil;&atilde;o de alimentos saud&aacute;veis, respeitando e garantindo a participa&ccedil;&atilde;o das organiza&ccedil;&otilde;es das fam&iacute;lias assentadas e a amplia&ccedil;&atilde;o de programas para a agroindustrializa&ccedil;&atilde;o e comercializa&ccedil;&atilde;o dos alimentos produzidos.</p>
+Cobram ainda a continuidade da assist&ecirc;ncia t&eacute;cnica, que estimula a coopera&ccedil;&atilde;o e a produ&ccedil;&atilde;o de alimentos saud&aacute;veis, respeitando e garantindo a participa&ccedil;&atilde;o das organiza&ccedil;&otilde;es das fam&iacute;lias assentadas e a amplia&ccedil;&atilde;o de programas para a agroindustrializa&ccedil;&atilde;o e comercializa&ccedil;&atilde;o dos alimentos produzidos.</p>
