@@ -4,6 +4,7 @@ tags:
   - tag: ocupação-incra
   - tag: jornada
   - tag: reforma-agrária
+  - tag: paraná
 title: Sem Terra ocupam Incra em Curitiba
 menu: lutas e mobilizações
 support_line: "Os trabalhadores e trabalhadoras rurais cobram a vistoria, desapropriação e arrecadação de áreas para fins de Reforma Agrária."
@@ -25,6 +26,10 @@ created_date: "2015-05-28T09:57:49-03:00"
 published: true
 images_hd: "http://farm9.staticflickr.com/8798/18170041426_df7c290c61_n.jpg"
 releated_posts:
+  - 2014/05/2014-05-20-juventude-se-organiza-na-luta-pela-terra-no-parana.md
+  - 2014/07/2014-07-03-incra-contesta-titulo-de-propriedade-da-empresa-araupel-no-parana.md
+  - 2014/12/2014-11-05-brava-gente-assentada-o-assentamento-celso-furtado.md
+  - 2015/03/2015-03-31-usurpacao-da-terra-e-repressao-aos-movimentos-sociais-na-historia-do-parana.md
   - 2015/05/2015-05-27-justica-decide-que-araupel-nao-e-dona-da-fazenda-rio-das-cobras.md
   - 2015/05/2015-05-28-governo-federal-corta-mais-de-50-dos-recursos-da-reforma-agraria.md
 
