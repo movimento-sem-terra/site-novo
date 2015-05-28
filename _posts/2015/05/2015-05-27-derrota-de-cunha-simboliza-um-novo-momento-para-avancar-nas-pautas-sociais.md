@@ -6,7 +6,7 @@ tags:
 title: Derrota de Cunha simboliza um novo momento para avançar nas pautas sociais
 support_line: "Para as organizações, este é um momento de ir para a ofensiva e demonstrar que nada será alterado positivamente sem a participação social."
 menu: projeto popular
-section: cover
+section: null
 layout: post
 files:
   - link: "http://farm9.staticflickr.com/8831/17977032730_49533f1e92_b.jpg"
