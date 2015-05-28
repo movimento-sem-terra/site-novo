@@ -9,12 +9,6 @@ menu: lutas e mobilizações
 support_line: "Os trabalhadores e trabalhadoras rurais cobram a vistoria, desapropriação e arrecadação de áreas para fins de Reforma Agrária."
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7747/18168929146_128036fbf2_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7747/18168929146_128036fbf2_t.jpg"
-    medium: "http://farm8.staticflickr.com/7747/18168929146_128036fbf2_z.jpg"
-    small: "http://farm8.staticflickr.com/7747/18168929146_128036fbf2_n.jpg"
-    title: reforma-agraria-no-brasil.jpg
-    $$hashKey: 096
   - link: "http://farm9.staticflickr.com/8899/18008657108_e6b93c221f_b.jpg"
     thumbnail: "http://farm9.staticflickr.com/8899/18008657108_e6b93c221f_t.jpg"
     medium: "http://farm9.staticflickr.com/8899/18008657108_e6b93c221f_z.jpg"
