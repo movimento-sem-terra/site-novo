@@ -29,6 +29,7 @@ releated_posts:
 
 ---
 <p><img alt="nomes_cunha.jpeg" src="http://farm8.staticflickr.com/7787/18169851576_b801188ace_b.jpg" /><br />
+<br />
 <em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
