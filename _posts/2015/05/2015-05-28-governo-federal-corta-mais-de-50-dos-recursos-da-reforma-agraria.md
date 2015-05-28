@@ -39,7 +39,7 @@ releated_posts:
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Os cortes anunciados pela equipe econ&ocirc;mica do governo federal no &uacute;ltimo dia 22/05, um contingenciamento de quase R$ 70 bilh&otilde;es no or&ccedil;amento da uni&atilde;o para 2015, tendem a estagnar ainda mais o processo da Reforma Agr&aacute;rio no pa&iacute;s.</p>
+Os cortes anunciados pela equipe econ&ocirc;mica do governo federal no &uacute;ltimo dia 22/05, um contingenciamento de quase R$ 70 bilh&otilde;es no or&ccedil;amento da uni&atilde;o para 2015, tendem a estagnar ainda mais o processo da Reforma Agr&aacute;ria&nbsp;no pa&iacute;s.</p>
 
 <p><br />
 Cerca de 53.3% dos recursos discricion&aacute;rios, ou seja, aqueles que s&atilde;o priorizados pela pr&oacute;pria pasta, foram contingenciados. Esse montante resultou na redu&ccedil;&atilde;o de 49.4% nas dota&ccedil;&otilde;es do Minist&eacute;rio do Desenvolvimento Agr&aacute;rio (MDA) para este ano.</p>
