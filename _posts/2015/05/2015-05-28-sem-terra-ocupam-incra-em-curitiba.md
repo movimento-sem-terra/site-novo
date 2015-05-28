@@ -15,14 +15,30 @@ files:
     small: "http://farm8.staticflickr.com/7747/18168929146_128036fbf2_n.jpg"
     title: reforma-agraria-no-brasil.jpg
     $$hashKey: 096
+  - link: "http://farm9.staticflickr.com/8899/18008657108_e6b93c221f_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8899/18008657108_e6b93c221f_t.jpg"
+    medium: "http://farm9.staticflickr.com/8899/18008657108_e6b93c221f_z.jpg"
+    small: "http://farm9.staticflickr.com/8899/18008657108_e6b93c221f_n.jpg"
+    title: 11143292_545821218890580_6821457589361708895_n.jpg
+    $$hashKey: "056"
+  - link: "http://farm9.staticflickr.com/8798/18170041426_df7c290c61_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8798/18170041426_df7c290c61_t.jpg"
+    medium: "http://farm9.staticflickr.com/8798/18170041426_df7c290c61_z.jpg"
+    small: "http://farm9.staticflickr.com/8798/18170041426_df7c290c61_n.jpg"
+    title: IMG-20150528-WA0003.jpg
+    $$hashKey: 059
 created_date: "2015-05-28T09:57:49-03:00"
 published: true
-images_hd: "http://farm8.staticflickr.com/7747/18168929146_128036fbf2_n.jpg"
+images_hd: "http://farm9.staticflickr.com/8798/18170041426_df7c290c61_n.jpg"
 releated_posts:
   - 2015/05/2015-05-27-justica-decide-que-araupel-nao-e-dona-da-fazenda-rio-das-cobras.md
   - 2015/05/2015-05-28-governo-federal-corta-mais-de-50-dos-recursos-da-reforma-agraria.md
 
 ---
+<figure class="image"><img alt="IMG-20150528-WA0003.jpg" src="http://farm9.staticflickr.com/8798/18170041426_df7c290c61_b.jpg" />
+<figcaption>Foto:&nbsp;Geani Souza</figcaption>
+</figure>
+
 <p class="p1"><br />
 <em>Da P&aacute;gina do MST</em></p>
 
