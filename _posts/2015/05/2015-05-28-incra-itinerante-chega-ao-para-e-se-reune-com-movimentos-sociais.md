@@ -5,7 +5,7 @@ tags:
   - tag: pará
   - tag: reforma-agrária
   - tag: movimentos-sociais
-title: INCRA “Itinerante” chega ao Pará e se reúne com Movimentos Sociais
+title: Incra “Itinerante” chega ao Pará e se reúne com Movimentos Sociais
 support_line: "O evento faz parte de um compromisso estabelecido, entre a Direção Nacional do Incra, de visitar às superintendências regionais em todo o país de reunir com os servidores do órgão e com movimentos sociais."
 menu: reforma agrária
 layout: post
@@ -35,7 +35,7 @@ Da P&aacute;gina do MST</em></p>
 Nesta quarta-feira (27), a presidente do Incra, Maria L&uacute;cia Falcon, que est&aacute; em visita ao estado do Par&aacute; durante toda essa semana, se reuniu com representantes dos movimentos sociais na sede da superintend&ecirc;ncia de Bel&eacute;m (SR-01).&nbsp;</p>
 
 <p><br />
-O evento faz parte de um compromisso estabelecido entre a Dire&ccedil;&atilde;o Nacional do Incra - Presid&ecirc;ncia e Diretorias Nacionais &ndash; de visitar &agrave;s superintend&ecirc;ncias regionais em todo o pa&iacute;s de reunir com os servidores do &oacute;rg&atilde;o e com movimentos sociais.</p>
+O evento faz parte de um compromisso estabelecido entre a Dire&ccedil;&atilde;o Nacional do Incra - Presid&ecirc;ncia e Diretorias Nacionais &ndash; de visitar &agrave;s superintend&ecirc;ncias regionais em todo o pa&iacute;s e se&nbsp;reunir com os servidores do &oacute;rg&atilde;o e&nbsp;movimentos sociais.</p>
 
 <p><br />
 Al&eacute;m disso, dever&aacute; tamb&eacute;m reunir com as autoridades do estado: executivo, legislativo, judici&aacute;rio e com Minist&eacute;rio P&uacute;blico Federal, para estabelecer as estrat&eacute;gias e a&ccedil;&otilde;es conjuntas para garantias de pol&iacute;ticas p&uacute;blicas para o campo.&nbsp;</p>
