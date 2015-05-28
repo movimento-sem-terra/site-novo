@@ -35,8 +35,10 @@ releated_posts:
   - 2015/05/2015-05-26-pesquisadora-da-fiocruz-critica-fim-da-rotulagem-de-transgenicos.md
   - 2015/05/2015-05-11-transgenicos-enquanto-o-mundo-recusa-o-brasil-aprova.md
   - 2015/05/2015-05-07-hoje-e-legal-contaminar-alguem-com-agrotoxico-no-brasil-critica-procurador.md
+section: featured-news
 
 ---
+
 <p><img alt="rotulagem.png" src="http://farm8.staticflickr.com/7755/18166384532_d35cd4b297_b.jpg" /></p>
 
 <p><em>Da Terra de Direitos&nbsp;</em></p>
