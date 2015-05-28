@@ -31,11 +31,11 @@ Nesta quinta-feira (28), cerca de 800 integrantes do Movimento dos Trabalhadores
 
 <p class="p1">&nbsp;</p>
 
-<p class="p1">A mobiliza&ccedil;&atilde;o faz parte da Jornada de Luta pela Reforma Agr&aacute;ria no estado que iniciou nesta quarta-feira (27) e reivindica audi&ecirc;ncia com o presidente substituto nacional do Incra, Leonardo G&oacute;es Silva, o superintendente do Incra no Paran&aacute;, Nilton Bezerra Guedes e Hamilton Serighelli, assessor especial de Assuntos Fundi&aacute;rios do Governo estadual, para apresentar a pauta de reivindica&ccedil;&otilde;es.&nbsp;</p>
+<p class="p1">A mobiliza&ccedil;&atilde;o faz parte da Jornada de Luta pela Reforma Agr&aacute;ria no estado que iniciou nesta quarta-feira (27) e reivindicam&nbsp;<span style="line-height: 20.7999992370605px;">vistorias, desapropria&ccedil;&otilde;es e arrecada&ccedil;&otilde;es&nbsp;de &aacute;reas para fins de&nbsp;Reforma Agr&aacute;ria.&nbsp;Somente no Paran&aacute; s&atilde;o sete mil fam&iacute;lias acampadas que muitas vezes s&atilde;o v&iacute;timas da viol&ecirc;ncia do latif&uacute;ndio e do agroneg&oacute;cio.&nbsp;</span></p>
 
 <p class="p1">&nbsp;</p>
 
-<p class="p1">Os trabalhadores e trabalhadoras rurais cobram a vistoria, desapropria&ccedil;&atilde;o e arrecada&ccedil;&atilde;o de &aacute;reas para fins de&nbsp;Reforma Agr&aacute;ria. Somente no Paran&aacute; s&atilde;o sete mil fam&iacute;lias acampadas que muitas vezes s&atilde;o v&iacute;timas da viol&ecirc;ncia do latif&uacute;ndio e do agroneg&oacute;cio.</p>
+<p class="p1">Para o dia de hoje est&aacute; prevista uma&nbsp;audi&ecirc;ncia com o presidente substituto nacional do Incra, Leonardo G&oacute;es Silva, o superintendente do Incra no Paran&aacute;, Nilton Bezerra Guedes e Hamilton Serighelli, assessor especial de Assuntos Fundi&aacute;rios do Governo estadual, para apresentar a pauta de reivindica&ccedil;&otilde;es.&nbsp;</p>
 
 <p class="p1">&nbsp;</p>
 
