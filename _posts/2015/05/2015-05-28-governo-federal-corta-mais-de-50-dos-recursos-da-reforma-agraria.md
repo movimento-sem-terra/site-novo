@@ -18,16 +18,22 @@ files:
     small: "http://farm9.staticflickr.com/8800/18168193466_b7da380b43_n.jpg"
     title: Info_Cortes.jpg
     $$hashKey: 07S
+  - link: "http://farm9.staticflickr.com/8806/18196663811_1a821eed07_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8806/18196663811_1a821eed07_t.jpg"
+    medium: "http://farm9.staticflickr.com/8806/18196663811_1a821eed07_z.jpg"
+    small: "http://farm9.staticflickr.com/8806/18196663811_1a821eed07_n.jpg"
+    title: 0119-Pl óto de Ne ¦polis-SE-Baixo S.F.JPG
+    $$hashKey: "060"
 created_date: "2015-05-28T09:32:51-03:00"
 published: true
-images_hd: "http://farm9.staticflickr.com/8800/18168193466_b7da380b43_n.jpg"
+images_hd: "http://farm9.staticflickr.com/8806/18196663811_1a821eed07_n.jpg"
 releated_posts:
   - 2015/03/2015-03-31-em-brasilia-incra-empossa-primeira-mulher-como-presidenta.md
   - 2015/05/2015-05-22-sem-terra-ocupam-fazenda-abandonada-em-go.md
   - 2015/05/2015-05-27-justica-decide-que-araupel-nao-e-dona-da-fazenda-rio-das-cobras.md
 
 ---
-<p>&nbsp;</p>
+<p><img alt="0119-Pl óto de Ne ¦polis-SE-Baixo S.F.JPG" src="http://farm9.staticflickr.com/8806/18196663811_1a821eed07_b.jpg" /></p>
 
 <p><em>Por Maura Silva<br />
 Da P&aacute;gina do MST</em></p>
