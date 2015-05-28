@@ -1,0 +1,45 @@
+---
+date: "2015-05-28T09:47:24-03:00"
+tags:
+  - tag: ocupação-incra
+  - tag: jornada
+  - tag: reforma-agrária
+title: Sem Terra ocupam Incra em Curitiba
+menu: lutas e mobilizações
+support_line: "Os trabalhadores e trabalhadoras rurais cobram a vistoria, desapropriação e arrecadação de áreas para fins de Reforma Agrária."
+layout: post
+files:
+  - link: "http://farm8.staticflickr.com/7747/18168929146_128036fbf2_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7747/18168929146_128036fbf2_t.jpg"
+    medium: "http://farm8.staticflickr.com/7747/18168929146_128036fbf2_z.jpg"
+    small: "http://farm8.staticflickr.com/7747/18168929146_128036fbf2_n.jpg"
+    title: reforma-agraria-no-brasil.jpg
+    $$hashKey: 096
+created_date: "2015-05-28T09:57:49-03:00"
+published: true
+images_hd: "http://farm8.staticflickr.com/7747/18168929146_128036fbf2_n.jpg"
+releated_posts:
+  - 2015/05/2015-05-27-justica-decide-que-araupel-nao-e-dona-da-fazenda-rio-das-cobras.md
+  - 2015/05/2015-05-28-governo-federal-corta-mais-de-50-dos-recursos-da-reforma-agraria.md
+
+---
+<p class="p1"><br />
+<em>Da P&aacute;gina do MST</em></p>
+
+<p class="p1"><br />
+Nesta quinta-feira (28), cerca de 800 integrantes do Movimento dos Trabalhadores Rurais Sem Terra (MST), ocupam a sede do Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra), em Curitiba, no Paran&aacute;.</p>
+
+<p class="p1">&nbsp;</p>
+
+<p class="p1">A mobiliza&ccedil;&atilde;o faz parte da Jornada de Luta pela Reforma Agr&aacute;ria no estado que iniciou nesta quarta-feira (27) e reivindica audi&ecirc;ncia com o presidente substituto nacional do Incra, Leonardo G&oacute;es Silva, o superintendente do Incra no Paran&aacute;, Nilton Bezerra Guedes e Hamilton Serighelli, assessor especial de Assuntos Fundi&aacute;rios do Governo estadual, para apresentar a pauta de reivindica&ccedil;&otilde;es.&nbsp;</p>
+
+<p class="p1">&nbsp;</p>
+
+<p class="p1">Os trabalhadores e trabalhadoras rurais cobram a vistoria, desapropria&ccedil;&atilde;o e arrecada&ccedil;&atilde;o de &aacute;reas para fins de&nbsp;Reforma Agr&aacute;ria. Somente no Paran&aacute; s&atilde;o sete mil fam&iacute;lias acampadas que muitas vezes s&atilde;o v&iacute;timas da viol&ecirc;ncia do latif&uacute;ndio e do agroneg&oacute;cio.</p>
+
+<p class="p1">&nbsp;</p>
+
+<p class="p1">Os Sem Terra paranaenses tamb&eacute;m exigem a estrutura&ccedil;&atilde;o de um plano para &aacute;reas de Reforma Agr&aacute;ria, que garanta a infraestrutura dos assentamentos como: constru&ccedil;&atilde;o e reforma de escolas, garantia de recursos para a habita&ccedil;&atilde;o, constru&ccedil;&atilde;o e revitaliza&ccedil;&atilde;o de espa&ccedil;os culturais e postos de sa&uacute;de.</p>
+
+<p class="p1"><br />
+Al&eacute;m de cobrarem a continuidade da assist&ecirc;ncia t&eacute;cnica que estimula a coopera&ccedil;&atilde;o e a produ&ccedil;&atilde;o de alimentos saud&aacute;veis, respeitando e garantindo a participa&ccedil;&atilde;o das organiza&ccedil;&otilde;es das fam&iacute;lias assentadas e a amplia&ccedil;&atilde;o de programas para a agroindustrializa&ccedil;&atilde;o e comercializa&ccedil;&atilde;o dos alimentos produzidos.</p>
