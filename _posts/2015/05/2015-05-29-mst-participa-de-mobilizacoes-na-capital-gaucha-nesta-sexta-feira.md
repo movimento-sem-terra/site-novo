@@ -5,7 +5,7 @@ tags:
   - tag: lutas-e-mobilizações
   - tag: terceirização
   - tag: rio-grande-do-sul
-title: "MST participa de mobilizações na Capital gaúcha nesta sexta-feira "
+title: "MST participa de mobilizações na Capital gaúcha "
 menu: lutas e mobilizações
 images_hd: "http://farm8.staticflickr.com/7759/18231448511_9a4586be27_b.jpg"
 support_line: "As mobilizações contra a retirada de direitos da classe trabalhadora ocorrem nas cidades de Porto Alegre, Passo Fundo e Pelotas."
