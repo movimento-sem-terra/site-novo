@@ -6,7 +6,7 @@ tags:
   - tag: terceirização
 images_hd: "http://farm9.staticflickr.com/8886/17607901943_932ee244a3_b.jpg"
 title: "Em dia de paralisação, Sem Terra realizam diversas ações pelo Brasil"
-support_line: "No RS, centenas se mobilizam em ao menos três cidades. Já no PR, cerca de 800 trancaram a rodovia que liga Curitiba a Araucária."
+support_line: "Em BH, centenas ocupam Ministério da Fazenda. Já no ES, trabalhadores ocupam as praças de pedágios na BR 101."
 menu: lutas e mobilizações
 layout: post
 files:
