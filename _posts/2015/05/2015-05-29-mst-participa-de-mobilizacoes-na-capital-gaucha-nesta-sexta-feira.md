@@ -58,6 +58,7 @@ Segundo o dirigente nacional do MST, Cedenir de Oliveira, somente a luta da clas
 <span style="line-height: 20.7999992370605px;">Em todo o pa&iacute;s a popula&ccedil;&atilde;o est&aacute; sendo convocada a participar de a&ccedil;&otilde;es de paralisa&ccedil;&atilde;o e atividades contra a retirada de direitos da classe trabalhadora. No&nbsp;Rio Grande do Sul, as mobiliza&ccedil;&otilde;es se iniciara</span><span style="line-height: 20.7999992370605px;">m pela manh&atilde; em frente &agrave;s empresas e f&aacute;bricas, pelas categorias dos metrovi&aacute;rios, rodovi&aacute;rios, aerovi&aacute;rios, metal&uacute;rgicos, banc&aacute;rios, professores, servidores municipais, vigilantes, sindicalistas, integrantes dos movimentos sociais, entre outros.</span></p>
 
 <p class="p1"><br />
-As mobiliza&ccedil;&otilde;es s&atilde;o&nbsp;voltadas contra o projeto de lei da terceiriza&ccedil;&atilde;o (PL 4.330), as Medidas Provis&oacute;rias 664 (que muda as regras para a concess&atilde;o do aux&iacute;lio-doen&ccedil;a e pens&atilde;o por morte), 665 (que dificulta o acesso ao abono salarial e ao seguro-desemprego), e os ajustes fiscais promovidos pelo Ministro da Fazenda, Joaquim Levy.</p>
+As mobiliza&ccedil;&otilde;es s&atilde;o&nbsp;voltadas contra o projeto de lei da terceiriza&ccedil;&atilde;o (PL 4.330), as Medidas Provis&oacute;rias 664 (que muda as regras para a concess&atilde;o do aux&iacute;lio-doen&ccedil;a e pens&atilde;o por morte), 665 (que dificulta o acesso ao abono salarial e ao seguro-desemprego), e os ajustes fiscais promovidos pelo Ministro da Fazenda, Joaquim Levy.<br />
+&nbsp;</p>
 
 <p class="p1"><img alt="IMG-20150529-WA0026.jpg" src="http://farm9.staticflickr.com/8789/17617487803_809ab99d41_b.jpg" /></p>
