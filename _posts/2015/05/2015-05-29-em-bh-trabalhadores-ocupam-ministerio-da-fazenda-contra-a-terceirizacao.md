@@ -32,6 +32,7 @@ releated_posts:
 
 ---
 <p class="p1"><img alt="DSC_000001 (2).JPG" src="http://farm9.staticflickr.com/8890/18228308052_8e7cf6eab7_b.jpg" /><br />
+<br />
 <em>Da P&aacute;gina do MST</em></p>
 
 <p class="p1"><br />
@@ -44,6 +45,7 @@ A a&ccedil;&atilde;o faz parte do dia Nacional de Manifesta&ccedil;&otilde;es e 
 No in&iacute;cio da manh&atilde; realizaram uma marcha em den&uacute;ncia ao arrocho contra os trabalhadores e cobram o avan&ccedil;o na pauta da Reforma Agr&aacute;ria e dos direitos das popula&ccedil;&otilde;es atingidos por barragens. Ainda hoje, &agrave;s 16h, milhares de pessoas far&atilde;o um grande saindo da Pra&ccedil;a Afonso Arinos.</p>
 
 <p class="p1"><img alt="DSC_000001 (1).JPG" src="http://farm9.staticflickr.com/8869/18232101105_4cf28e772d_b.jpg" /><br />
+<br />
 O dia 29 ser&aacute; um dia luta em defesa da classe trabalhadora, da liberdade e da democracia, contra as medidas econ&ocirc;micas restritivas anunciadas pelo governo federal e em defesa da aprova&ccedil;&atilde;o definitiva da f&oacute;rmula 85/95, que vai acabar com o fator previdenci&aacute;rio e melhorar o atual sistema de aposentadorias no Brasil.</p>
 
 <p class="p1"><br />
