@@ -7,7 +7,7 @@ tags:
   - tag: rio-grande-do-sul
 title: "MST participa de mobilizações na Capital gaúcha "
 menu: lutas e mobilizações
-images_hd: "http://farm8.staticflickr.com/7759/18231448511_9a4586be27_b.jpg"
+images_hd: "http://farm8.staticflickr.com/7757/18043429240_d49e24f17d_b.jpg"
 support_line: "As mobilizações contra a retirada de direitos da classe trabalhadora ocorrem nas cidades de Porto Alegre, Passo Fundo e Pelotas."
 layout: post
 files:
@@ -23,37 +23,16 @@ files:
     small: "http://farm8.staticflickr.com/7759/18231448511_9a4586be27_n.jpg"
     title: IMG-20150529-WA0007.jpg
     $$hashKey: 07H
+  - link: "http://farm8.staticflickr.com/7757/18043429240_d49e24f17d_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7757/18043429240_d49e24f17d_t.jpg"
+    medium: "http://farm8.staticflickr.com/7757/18043429240_d49e24f17d_z.jpg"
+    small: "http://farm8.staticflickr.com/7757/18043429240_d49e24f17d_n.jpg"
+    title: IMG-20150529-WA0008.jpg
+    $$hashKey: 0J2
 created_date: "2015-05-29T09:41:27-03:00"
 published: true
 releated_posts:
   - 2015/05/2015-05-28-centrais-e-movimentos-fazem-dia-nacional-de-mobilizacao-contra-projeto-da-terceirizacao.md
-  - 2014/04/2014-04-28-no-rs-organizacoes-ocupam-predio-do-dnit-e-antt-e-exigem-fim-de-pedagio.md-e
-  - 2014/03/2014-03-11-rs-e-palco-de-mobilizacoes-de-centenas-de-mulheres-nesta-semana.md
-  - 2014/03/2014-03-11-rs-e-palco-de-mobilizacoes-de-centenas-de-mulheres-nesta-semana.md-e
-  - 2014/03/2014-03-12-cerca-de-300-mulheres-do-campo-e-da-cidade-marcham-em-porto-alegre.md
-  - 2014/03/2014-03-12-cerca-de-300-mulheres-do-campo-e-da-cidade-marcham-em-porto-alegre.md-e
-  - 2014/03/2014-03-12-centenas-de-mulheres-protestam-no-rs-por-creche-e-pelo-fim-da-violencia.md-e
-  - 2014/03/2014-03-12-centenas-de-mulheres-protestam-no-rs-por-creche-e-pelo-fim-da-violencia.md
-  - 2014/03/2014-03-13-mais-de-3-mil-mulheres-do-campo-e-da-cidade-realizam-acoes-por-todo-rs.md-e
-  - 2014/03/2014-03-13-mais-de-3-mil-mulheres-do-campo-e-da-cidade-realizam-acoes-por-todo-rs.md
-  - 2014/03/2014-03-21-pais-e-estudantes-se-mobilizam-por-construcao-de-escola-no-rio-grande-do-sul.md
-  - 2014/04/2014-04-08-assentados-do-mst-ocupam-a-conab-em-porto-alegre.md-e
-  - 2014/04/2014-04-08-assentados-do-mst-ocupam-a-conab-em-porto-alegre.md
-  - 2014/04/2014-04-28-no-rs-organizacoes-ocupam-predio-do-dnit-e-antt-e-exigem-fim-de-pedagio.md
-  - 2014/03/2014-03-06-centenas-de-jovens-participam-do-9º-acampamento-da-juventude-romeira.md
-  - 2014/04/2014-04-29-em-jornada-de-lutas-mst-e-mab-ocupam-cinco-fazendas-no-rs.md
-  - 2014/04/2014-04-29-em-jornada-de-lutas-mst-e-mab-ocupam-cinco-fazendas-no-rs.md-e
-  - 2014/04/2014-04-29-trabalhadores-rurais-ocupam-quatro-agencias-da-caixa-economica-no-rs.md-e
-  - 2014/04/2014-04-29-trabalhadores-rurais-ocupam-quatro-agencias-da-caixa-economica-no-rs.md
-  - 2015/03/2015-03-10-camponesas-ocupam-fabrica-de-agrotoxicos-no-rio-grande-do-sul.md
-  - 2015/03/2015-03-11-camponeses-e-camponesas-da-via-campesina-realizam-marcha-em-porto-alegre.md
-  - 2015/03/2015-03-12-mobilizacao-no-rs-defende-a-constituinte-do-sistema-politica-e-a-petrobras.md
-  - 2015/03/2015-03-13-engraxem-as-botas-e-as-chuteiras-que-o-jogo-so-esta-comecando-afirma-sem-terra.md
-  - 2015/04/2015-04-23-audiencia-publica-no-rs-denuncia-crimes-ambientais-em-fazenda-ocupa-pelos-sem-terra.md
-  - 2014/03/2014-03-06-centenas-de-jovens-participam-do-9º-acampamento-da-juventude-romeira.md-e
-  - 2015/04/2015-04-24-no-ms-eduardo-cunha-e-recebido-com-protesto-pela-classe-trabalhadora.md
-  - 2015/04/2015-04-30-em-brasilia-mst-se-junta-ao-1-de-maio-na-luta-por-mais-direitos-e-reforma-agraria.md
-  - 2015/05/2015-05-29-em-dia-de-paralisacao-sem-terra-trancam-diversas-rodovias-pelo-brasil.md
 
 ---
 <p class="p1">&nbsp;</p>
