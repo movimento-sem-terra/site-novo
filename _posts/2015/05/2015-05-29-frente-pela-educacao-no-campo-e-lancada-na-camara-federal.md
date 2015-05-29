@@ -23,6 +23,7 @@ releated_posts:
   - 2015/05/2015-05-12-com-metodo-cubano-sem-terra-zeram-analfabetismo-em-sete-assentamentos-da-bahia.md
   - 2015/05/2015-05-14-nao-podemos-desistir-do-projeto-de-renovacao-em-curso-em-muitos-paises-latino-americanos.md
   - 2015/05/2015-05-20-educacao-no-campo-a-estrategia-dos-usurpadores.md
+sector: education
 
 ---
 <figure class="image"><img alt="FRENTE 2.jpg" src="http://farm9.staticflickr.com/8843/18046640849_3234155995_b.jpg" />
