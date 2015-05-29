@@ -3,8 +3,9 @@ date: "2015-05-29T10:32:53-03:00"
 tags:
   - tag: minas-gerais
   - tag: lutas-e-mobilizações
-  - tag: reforma-agrária
   - tag: terceirização
+  - tag: direitos-trabalhistas
+  - tag: pl-4330
 title: "Em BH, trabalhadores ocupam Ministério da Fazenda contra a terceirização"
 support_line: "Cerca de 800 trabalhadores rurais do MST e do MAB denuncia a retirada de direitos da classe trabalhadora. "
 menu: lutas e mobilizações
@@ -28,6 +29,8 @@ published: true
 releated_posts:
   - 2015/05/2015-05-28-centrais-e-movimentos-fazem-dia-nacional-de-mobilizacao-contra-projeto-da-terceirizacao.md
   - 2015/05/2015-05-29-em-dia-de-paralisacao-sem-terra-trancam-diversas-rodovias-pelo-brasil.md
+  - 2015/04/2015-04-29-no-campo-pl-da-terceirizacao-ira-consolidar-uma-situacao-que-beira-o-insustentavel.md
+  - 2015/04/2015-04-23-pl-da-terceirizacao-pode-trazer-ainda-mais-informalidade-para-trabalhadores-rurais.md
   - 2015/05/2015-05-29-mst-participa-de-mobilizacoes-na-capital-gaucha-nesta-sexta-feira.md
 
 ---
