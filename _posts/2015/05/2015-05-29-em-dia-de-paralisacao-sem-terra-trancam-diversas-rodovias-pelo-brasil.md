@@ -44,7 +44,10 @@ No Rio Grande do Sul, centenas se mobilizam em ao menos tr&ecirc;s cidades: Port
 Em Belo Horizonte (MG), mais de 1.200 pessoas do MST, Federa&ccedil;&atilde;o dos Trabalhadores da Agricultura Familiar (Fetraf) e Movimento dos Atingidos por Barragens (MAB) ocuparam o Minist&eacute;rio da Fazenda do estado. Os trabalhadores rurais tamb&eacute;m protestam <a href="http://www.mst.org.br/2015/05/28/governo-federal-corta-mais-de-50-dos-recursos-da-reforma-agraria.html">contra os cortes no or&ccedil;amento da Reforma Agr&aacute;ria, que ficou em mais de 50%</a>.</p>
 
 <p><br />
-J&aacute; no Paran&aacute;, cerca de 800 Sem Terra realizam o trancamento da rodovia que sai de Curitiba sentido Arauc&aacute;ria.</p>
+J&aacute; no Paran&aacute;, cerca de 800 Sem Terra realizam o trancamento da rodovia que sai de Curitiba sentido Arauc&aacute;ria, na regi&atilde;o do km 587, pr&oacute;ximo &atilde; f&aacute;brica da Volvo.</p>
+
+<p><br />
+&Agrave;s 11 horas acontecer&aacute; uma ato em que os trabalhadores v&atilde;o marchar da Pra&ccedil;a 19 de dezembro at&eacute; o Pal&aacute;cio Igua&ccedil;u, sede do governo estadual.</p>
 
 <p><br />
 Os camponeses do Paran&aacute; iniciaram suas mobiliza&ccedil;&otilde;es j&aacute; na quarta-feira (27), quando ocuparam o Incra em Curitiba, durante a Jornada de Luta pela Reforma Agr&aacute;ria do Paran&aacute;.</p>
