@@ -56,7 +56,7 @@ releated_posts:
   - 2015/05/2015-05-29-em-dia-de-paralisacao-sem-terra-trancam-diversas-rodovias-pelo-brasil.md
 
 ---
-<p class="p1"><img alt="IMG-20150529-WA0007.jpg" src="http://farm8.staticflickr.com/7759/18231448511_9a4586be27_b.jpg" /></p>
+<p class="p1">&nbsp;</p>
 
 <p class="p1"><em>Da P&aacute;gina do MST</em></p>
 
@@ -70,7 +70,8 @@ Nesta <span class="s1">sexta</span>-feira (29), o MST se une as centrais sindica
 As mobiliza&ccedil;&otilde;es ocorrem nas cidades de&nbsp;Porto Alegre, Passo Fundo e Pelotas.&nbsp;Na capital e regi&atilde;o metropolitana v&aacute;rios servi&ccedil;os p&uacute;blicos ser&atilde;o paralisados, como o transporte de trem Trensurb, transporte coletivo rodovi&aacute;rio, aeroporto, escolas, hospitais, postos de sa&uacute;de, bancos, etc.&nbsp;</p>
 
 <p class="p1"><br />
-As a&ccedil;&otilde;es ser&atilde;o voltadas contra o projeto de lei da terceiriza&ccedil;&atilde;o (PL 4.330), as Medidas Provis&oacute;rias 664 (que muda as regras para a concess&atilde;o do aux&iacute;lio-doen&ccedil;a e pens&atilde;o por morte), 665 (que dificulta o acesso ao abono salarial e ao seguro-desemprego), e os ajustes fiscais promovidos pelo Ministro da Fazenda, Joaquim Levy.</p>
+As a&ccedil;&otilde;es ser&atilde;o voltadas contra o projeto de lei da terceiriza&ccedil;&atilde;o (PL 4.330), as Medidas Provis&oacute;rias 664 (que muda as regras para a concess&atilde;o do aux&iacute;lio-doen&ccedil;a e pens&atilde;o por morte), 665 (que dificulta o acesso ao abono salarial e ao seguro-desemprego), e os ajustes fiscais promovidos pelo Ministro da Fazenda, Joaquim Levy.<br />
+&nbsp;</p>
 
 <p class="p1"><img alt="IMG-20150529-WA0002.jpg" src="http://farm8.staticflickr.com/7765/17607556844_79a1068edf_b.jpg" /><br />
 <br />
