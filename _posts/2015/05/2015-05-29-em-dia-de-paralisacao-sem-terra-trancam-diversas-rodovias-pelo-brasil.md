@@ -47,7 +47,7 @@ Em Belo Horizonte (MG), mais de 1.200 pessoas do MST, Federa&ccedil;&atilde;o do
 J&aacute; no Paran&aacute;, cerca de 800 Sem Terra realizam o trancamento da rodovia que sai de Curitiba sentido Arauc&aacute;ria, na regi&atilde;o do km 587, pr&oacute;ximo &atilde; f&aacute;brica da Volvo.</p>
 
 <p><br />
-&Agrave;s 11 horas acontecer&aacute; uma ato em que os trabalhadores v&atilde;o marchar da Pra&ccedil;a 19 de dezembro at&eacute; o Pal&aacute;cio Igua&ccedil;u, sede do governo estadual.</p>
+&Agrave;s 11 horas acontecer&aacute; um&nbsp;ato em que os trabalhadores v&atilde;o marchar da Pra&ccedil;a 19 de dezembro at&eacute; o Pal&aacute;cio Igua&ccedil;u, sede do governo estadual.</p>
 
 <p><br />
 Os camponeses do Paran&aacute; iniciaram suas mobiliza&ccedil;&otilde;es j&aacute; na quarta-feira (27), quando ocuparam o Incra em Curitiba, durante a Jornada de Luta pela Reforma Agr&aacute;ria do Paran&aacute;.</p>
