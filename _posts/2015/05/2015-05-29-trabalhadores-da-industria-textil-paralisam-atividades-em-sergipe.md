@@ -9,7 +9,7 @@ tags:
 title: Trabalhadores da indústria têxtil paralisam atividades em Sergipe
 support_line: "Junto a movimentos sociais, os trabalhadores denunciam as péssimas condições de trabalho, como alimentação inadequada, assistência médica e salários atrasados."
 menu: lutas e mobilizações
-images_hd: "http://farm9.staticflickr.com/8869/18235837545_6312aa7041_b.jpg"
+images_hd: "http://farm8.staticflickr.com/7751/18238402045_e052d465db_b.jpg"
 layout: post
 files:
   - link: "http://farm9.staticflickr.com/8869/18235837545_6312aa7041_b.jpg"
@@ -18,6 +18,12 @@ files:
     small: "http://farm9.staticflickr.com/8869/18235837545_6312aa7041_n.jpg"
     title: se.jpg
     $$hashKey: 07U
+  - link: "http://farm8.staticflickr.com/7751/18238402045_e052d465db_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7751/18238402045_e052d465db_t.jpg"
+    medium: "http://farm8.staticflickr.com/7751/18238402045_e052d465db_z.jpg"
+    small: "http://farm8.staticflickr.com/7751/18238402045_e052d465db_n.jpg"
+    title: "DSCN7897!.jpg"
+    $$hashKey: 05L
 created_date: "2015-05-29T13:05:17-03:00"
 published: true
 releated_posts:
@@ -53,7 +59,7 @@ releated_posts:
 <p><em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Na manh&atilde; desta sexta-feira (29), cerca de 500 trabalhadores da ind&uacute;stria t&ecirc;xtil Trutnorth, localizada no munic&iacute;pio Nossa Senhora do Socorro, regi&atilde;o metropolitana de Sergipe, paralisam as atividades em decorr&ecirc;ncia de v&aacute;rias irregularidades apresentada pela empresa.</p>
+Na manh&atilde; desta sexta-feira (29), cerca de 500 trabalhadores da ind&uacute;stria t&ecirc;xtil Trutnorth, localizada no munic&iacute;pio Nossa Senhora do Socorro, regi&atilde;o metropolitana de Sergipe, paralisam as atividades em resposta &agrave;s v&aacute;rias irregularidades apresentada pela empresa.</p>
 
 <p><br />
 MST, Central &Uacute;nica dos Trabalhadores (CUT), Movimento dos Trabalhadores Urbanos (MOTU) e o Movimento Sem Teto tamb&eacute;m se somam a luta.</p>
@@ -65,10 +71,10 @@ Os trabalhadores realizaram um ato pol&iacute;tico em frente ao port&atilde;o de
 Representantes das entidades denunciaram as p&eacute;ssimas condi&ccedil;&otilde;es de trabalho, como alimenta&ccedil;&atilde;o inadequada, assist&ecirc;ncia m&eacute;dica e sal&aacute;rios atrasados.</p>
 
 <p><br />
-A atividade faz parte da paralisa&ccedil;&atilde;o nacional contra a PL 4330, e se une ao calend&aacute;rio de luta do MST no estado.</p>
+A atividade faz parte da paralisa&ccedil;&atilde;o nacional contra a PL 4330, que entre outras coisas permite a terceiriza&ccedil;&atilde;o das atividades-fins - aquela que caracteriza o objetivo principal da empresa.</p>
 
 <p><br />
-Em seguida, a mobiliza&ccedil;&atilde;o ganhou as ruas do Conjunto Jo&atilde;o Alves com destino a ponte de acesso ao munic&iacute;pio de Nossa Senhora do Socorro.</p>
+Em seguida, a mobiliza&ccedil;&atilde;o ganhou as ruas do Conjunto Jo&atilde;o Alves com destino &agrave; ponte de acesso ao munic&iacute;pio de Nossa Senhora do Socorro.</p>
 
 <p><br />
 No local, os trabalhadores fecham as duas vias por tempo indeterminado, at&eacute; que os representantes da empresa se posicionem em rela&ccedil;&atilde;o &agrave;s reivindica&ccedil;&otilde;es apresentadas pelos trabalhadores.</p>
