@@ -40,10 +40,8 @@ releated_posts:
 <p><br />
 A constru&ccedil;&atilde;o de a&ccedil;&otilde;es voltadas a uma educa&ccedil;&atilde;o que dialogue com a realidade da popula&ccedil;&atilde;o do campo. Esse &eacute; um dos objetivos das &lsquo;Diretrizes Operacionais da Educa&ccedil;&atilde;o do Campo de Minas Gerais&rsquo;, documento assinado nesta quarta-feira (27) pela secret&aacute;ria de Estado de Educa&ccedil;&atilde;o, Maca&eacute; Evaristo.</p>
 
-<p>&nbsp;
 <p><br />
 &ldquo;Temos uma diversidade de situa&ccedil;&otilde;es no campo e &eacute; preciso que a educa&ccedil;&atilde;o desenvolvida nessas comunidades tenha qualidade e dialogue com a realidade local. Os desafios s&atilde;o muitos, mas ter um marco regulat&oacute;rio espec&iacute;fico nos ajuda na constru&ccedil;&atilde;o de uma pol&iacute;tica verdadeiramente inclusiva&rdquo; destacou a secret&aacute;ria.</p>
-</p>
 
 <p><br />
 As diretrizes s&atilde;o resultado do trabalho desenvolvido pela Comiss&atilde;o Permanente de Educa&ccedil;&atilde;o do Campo e contemplam temas como a forma&ccedil;&atilde;o de professores do campo, o transporte escolar e a alimenta&ccedil;&atilde;o dos estudantes.</p>
