@@ -41,7 +41,7 @@ Cerca de 200 militantes do MST trancaram a rodovia Abra&atilde;o Assed, no munic
 <a href="http://www.mst.org.br/2015/05/28/centrais-e-movimentos-fazem-dia-nacional-de-mobilizacao-contra-projeto-da-terceirizacao.html">A mobiliza&ccedil;&atilde;o se soma ao Dia Nacional de Paralisa&ccedil;&atilde;o</a>, com o objetivo de denunciar a ofensiva contra os direitos trabalhistas no pa&iacute;s.</p>
 
 <p><br />
-As organiza&ccedil;&otilde;es denunciam que caso aprovado, <a href="http://www.mst.org.br/2015/04/29/no-campo-pl-da-terceirizacao-ira-consolidar-uma-situacao-que-beira-o-insustentavel.html">o PL da terceiriza&ccedil;&atilde;o promoveria uma redu&ccedil;&atilde;o salarial e aumento de carga hor&aacute;ria dos trabalhadores.</a></p>
+As organiza&ccedil;&otilde;es denunciam que caso o Projeto de Lei (PL) 4330 seja aprovado - que entre outras coisas permite a terceiriza&ccedil;&atilde;o das atividades-fins, aquela que caracteriza o objetivo principal da empresa, <a href="http://www.mst.org.br/2015/04/29/no-campo-pl-da-terceirizacao-ira-consolidar-uma-situacao-que-beira-o-insustentavel.html">seria promovida uma redu&ccedil;&atilde;o salarial e um aumento da carga hor&aacute;ria dos trabalhadores.</a></p>
 
 <p><br />
 &ldquo;Isto j&aacute; &eacute; sentido h&aacute; anos na regi&atilde;o de Ribeir&atilde;o Preto. A terceiriza&ccedil;&atilde;o do corte da cana e o ganho por produtividade t&ecirc;m levado a um aumento cada vez maior da carga de trabalho e a morte de trabalhadores por exaust&atilde;o. Esses trabalhadores chegam a cortar mais de 20 toneladas de cana por dia. E sem qualquer responsabiliza&ccedil;&atilde;o da Usina, porque ela terceiriza&rdquo;, exemplifica a dire&ccedil;&atilde;o estadual do MST em nota.</p>
@@ -50,13 +50,13 @@ As organiza&ccedil;&otilde;es denunciam que caso aprovado, <a href="http://www.m
 As fam&iacute;lias que trancaram a rodovia Abra&atilde;o Assed fazem parte do acampamento Alexandra Kollontai, que h&aacute; sete anos luta pela arrecada&ccedil;&atilde;o da fazenda Martin&oacute;polis, em Serrana.</p>
 
 <p><br />
-A fazenda Martin&oacute;polis pertencente a Usina Martin&oacute;polis, e possui uma d&iacute;vida de cerca de R$ 300 milh&otilde;es em Imposto sobre Circula&ccedil;&atilde;o de Mercadorias e Presta&ccedil;&atilde;o de Servi&ccedil;oes (ICMS) h&aacute; mais de 20 anos. Mas mesmo assim continua sendo arrendada para a produ&ccedil;&atilde;o de cana-de-a&ccedil;&uacute;car.</p>
+A fazenda Martin&oacute;polis pertence a Usina Martin&oacute;polis, e possui uma d&iacute;vida de cerca de R$ 300 milh&otilde;es em Imposto sobre Circula&ccedil;&atilde;o de Mercadorias e Presta&ccedil;&atilde;o de Servi&ccedil;oes (ICMS) h&aacute; mais de 20 anos. Mesmo assim continua sendo arrendada para a produ&ccedil;&atilde;o de cana-de-a&ccedil;&uacute;car.</p>
 
 <p><br />
 Segundo os Sem Terra, a luta pela adjudica&ccedil;&atilde;o da fazenda Martin&oacute;polis e sua destina&ccedil;&atilde;o para a Reforma Agr&aacute;ria contribui, inclusive, para o fim da precariza&ccedil;&atilde;o do trabalho.</p>
 
 <p><br />
-&ldquo;Mesmo devendo milh&otilde;es para os cofres p&uacute;blicos, a Usina arrenda as terras e n&atilde;o &eacute; responsabilizada pelas p&eacute;ssimas condi&ccedil;&otilde;es de trabalho que se d&atilde;o nelas, uma vez que os trabalhadores s&atilde;o terceirizados&rdquo;, continua a nota.</p>
+&ldquo;Mesmo devendo milh&otilde;es para os cofres p&uacute;blicos, a Usina arrenda as terras e n&atilde;o &eacute; responsabilizada pelas p&eacute;ssimas condi&ccedil;&otilde;es de trabalho que se d&atilde;o nelas, j&aacute; que os trabalhadores s&atilde;o terceirizados&rdquo;, continua a nota.</p>
 
 <p><br />
 Denunciam tamb&eacute;m que a produ&ccedil;&atilde;o de cana utiliza basicamente trabalhadores terceirizados, que recebem baixos sal&aacute;rios e s&atilde;o superexplorados.</p>
