@@ -54,7 +54,7 @@ Nesta <span class="s1">sexta</span>-feira (29), o MST se une as centrais sindica
 <p class="p1"><br />
 Segundo o dirigente nacional do MST, Cedenir de Oliveira, somente a luta da classe trabalhadora unificada vai impedir a retirada dos direitos dos trabalhadores. &quot;A unifica&ccedil;&atilde;o da classe trabalhadora rumo a greve geral &eacute; o caminho a trilhar nesse momento hist&oacute;rico&quot;.</p>
 
-<p class="p1"><img alt="IMG-20150529-WA0036.jpg" src="http://farm9.staticflickr.com/8801/17617487213_4b5ba67c60_b.jpg" /><br />
+<p class="p1"><img alt="IMG-20150529-WA0036.jpg" height="263" src="http://farm9.staticflickr.com/8801/17617487213_4b5ba67c60_b.jpg" style="float:left" width="350" /><br />
 <span style="line-height: 20.7999992370605px;">Em todo o pa&iacute;s a popula&ccedil;&atilde;o est&aacute; sendo convocada a participar de a&ccedil;&otilde;es de paralisa&ccedil;&atilde;o e atividades contra a retirada de direitos da classe trabalhadora. No&nbsp;Rio Grande do Sul, as mobiliza&ccedil;&otilde;es se iniciara</span><span style="line-height: 20.7999992370605px;">m pela manh&atilde; em frente &agrave;s empresas e f&aacute;bricas, pelas categorias dos metrovi&aacute;rios, rodovi&aacute;rios, aerovi&aacute;rios, metal&uacute;rgicos, banc&aacute;rios, professores, servidores municipais, vigilantes, sindicalistas, integrantes dos movimentos sociais, entre outros.</span></p>
 
 <p class="p1"><br />
