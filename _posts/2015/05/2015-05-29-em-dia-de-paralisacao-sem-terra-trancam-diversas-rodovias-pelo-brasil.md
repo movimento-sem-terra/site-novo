@@ -5,8 +5,8 @@ tags:
   - tag: direitos-trabalhistas
   - tag: terceirização
 images_hd: "http://farm9.staticflickr.com/8886/17607901943_932ee244a3_b.jpg"
-title: "Em dia de paralisação, Sem Terra trancam diversas rodovias pelo Brasil"
-support_line: "No RS, centenas se mobilizam em ao menos três cidades: Porto Alegre, Passo Fundo e Pelotas. Já no PR, cerca de 800 trancaram a rodovia que liga Curitiba a Araucária."
+title: "Em dia de paralisação, Sem Terra realizam diversas ações pelo Brasil"
+support_line: "No RS, centenas se mobilizam em ao menos três cidades. Já no PR, cerca de 800 trancaram a rodovia que liga Curitiba a Araucária."
 menu: lutas e mobilizações
 layout: post
 files:
@@ -39,6 +39,9 @@ As a&ccedil;&otilde;es s&atilde;o voltadas contra as Medidas Provis&oacute;rias 
 
 <p><br />
 No Rio Grande do Sul, centenas se mobilizam em ao menos tr&ecirc;s cidades: Porto Alegre, Passo Fundo e Pelotas.</p>
+
+<p><br />
+Em Belo Horizonte (MG), mais de 1.200 pessoas do MST, Federa&ccedil;&atilde;o dos Trabalhadores da Agricultura Familiar (Fetraf) e Movimento dos Atingidos por Barragens (MAB) ocuparam o Minist&eacute;rio da Fazenda do estado. Os trabalhadores rurais tamb&eacute;m protestam <a href="http://www.mst.org.br/2015/05/28/governo-federal-corta-mais-de-50-dos-recursos-da-reforma-agraria.html">contra os cortes no or&ccedil;amento da Reforma Agr&aacute;ria, que ficou em mais de 50%</a>.</p>
 
 <p><br />
 J&aacute; no Paran&aacute;, cerca de 800 Sem Terra realizam o trancamento da rodovia que sai de Curitiba sentido Arauc&aacute;ria.</p>
