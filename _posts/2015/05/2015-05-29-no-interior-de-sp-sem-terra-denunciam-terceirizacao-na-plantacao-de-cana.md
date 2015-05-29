@@ -8,15 +8,15 @@ tags:
 title: "No interior de SP, Sem Terra denunciam terceirização na plantação de cana"
 support_line: "\"A terceirização do corte da cana e o ganho por produtividade têm levado a um aumento cada vez maior da carga de trabalho e a morte de trabalhadores por exaustão\", denunciam."
 menu: lutas e mobilizações
-images_hd: "http://farm8.staticflickr.com/7752/17617501133_41b768eba1_b.jpg"
+images_hd: "http://farm8.staticflickr.com/7729/18051352508_4a556c546b_b.jpg"
 layout: post
 files:
-  - link: "http://farm8.staticflickr.com/7752/17617501133_41b768eba1_b.jpg"
-    thumbnail: "http://farm8.staticflickr.com/7752/17617501133_41b768eba1_t.jpg"
-    medium: "http://farm8.staticflickr.com/7752/17617501133_41b768eba1_z.jpg"
-    small: "http://farm8.staticflickr.com/7752/17617501133_41b768eba1_n.jpg"
-    title: alexandria.jpg
-    $$hashKey: 0W6
+  - link: "http://farm8.staticflickr.com/7729/18051352508_4a556c546b_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7729/18051352508_4a556c546b_t.jpg"
+    medium: "http://farm8.staticflickr.com/7729/18051352508_4a556c546b_z.jpg"
+    small: "http://farm8.staticflickr.com/7729/18051352508_4a556c546b_n.jpg"
+    title: serrana.jpg
+    $$hashKey: 05O
 created_date: "2015-05-29T14:29:53-03:00"
 published: true
 releated_posts:
@@ -28,9 +28,7 @@ releated_posts:
   - 2015/04/2015-04-29-no-campo-pl-da-terceirizacao-ira-consolidar-uma-situacao-que-beira-o-insustentavel.md
 
 ---
-<figure class="image"><img alt="alexandria.jpg" src="http://farm8.staticflickr.com/7752/17617501133_41b768eba1_b.jpg" />
-<figcaption>A&ccedil;&atilde;o pela desapropria&ccedil;&atilde;o da fazenda em Serrana (Foto: Ronaldo Oliveira/ EPTV)</figcaption>
-</figure>
+<p><img alt="serrana.jpg" src="http://farm8.staticflickr.com/7729/18051352508_4a556c546b_b.jpg" /></p>
 
 <p><em>Da P&aacute;gina do MST</em></p>
 
