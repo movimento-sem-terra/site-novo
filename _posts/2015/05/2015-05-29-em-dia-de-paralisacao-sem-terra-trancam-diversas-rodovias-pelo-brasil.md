@@ -56,6 +56,9 @@ Os camponeses do Paran&aacute; iniciaram suas mobiliza&ccedil;&otilde;es j&aacut
 Al&eacute;m da luta pelos direitos dos trabalhadores, a mobiliza&ccedil;&atilde;o reivindica vistorias, desapropria&ccedil;&otilde;es e arrecada&ccedil;&otilde;es de &aacute;reas para fins de Reforma Agr&aacute;ria. Somente no Paran&aacute;, h&aacute; 7 mil fam&iacute;lias acampadas.</p>
 
 <p><br />
+No Esp&iacute;rito Santo, cerca&nbsp;de 350 trabalhadores rurais sem terra, ocupam as pra&ccedil;as de ped&aacute;gios&nbsp;de Linhares &agrave;&nbsp;S&atilde;o Mateus, localizadas na BR 101. Como forma de manter o&nbsp;manifesto contra a terceiriza&ccedil;&atilde;o e ao mesmo tempo dialogar com a sociedade, foi aberta uma passagem para os ve&iacute;culos.</p>
+
+<p><br />
 Em todo o pa&iacute;s os Sem Terra se somam &agrave;s lutas puxadas pela Central &Uacute;nica dos Trabalhadores (CUT), Central dos Trabalhadores e Trabalhadoras do Brasil (CTB), Nova Central, Uni&atilde;o Geral dos Trabalhadores (UGT), CSP-Conlutas e For&ccedil;a Sindical.</p>
 
 <p><br />
