@@ -1,5 +1,5 @@
 {% assign keep = include.posts | where : 'section', 'cover' %}
-{% assign know_more = include.posts | where_not: 'section', ['cover', 'tv'] | where_not: "label", "special-stories"  %}
+{% assign know_more = include.posts | where_not: 'section', 'cover', 'tv' | where_not: "label", "special-stories"  %}
 {% assign videos = include.posts | where: 'section', 'tv'  %}
 {% assign our_historic = include.posts %}
 <div class="content">

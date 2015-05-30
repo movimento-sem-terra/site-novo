@@ -1,5 +1,5 @@
 ---
 layout: null
 ---
-{% assign posts = site.posts | where: "sector", "production" %}
+{% assign posts = site.posts | where: 'sector', 'production' | where_not: 'section', 'cover', 'tv' | where_not: 'label', 'special-stories' %}
 {% include posts.json posts=posts %}
