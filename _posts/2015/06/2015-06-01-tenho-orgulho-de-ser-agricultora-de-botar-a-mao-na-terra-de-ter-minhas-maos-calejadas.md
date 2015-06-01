@@ -50,7 +50,8 @@ releated_posts:
 <figcaption>Planta&ccedil;&atilde;o de arroz no assentamento&nbsp;Integra&ccedil;&atilde;o Ga&uacute;cha. Foto: Ramiro Furquim/Sul21</figcaption>
 </figure>
 
-<p><em>Por Catiana de Medeiros<br />
+<p><br />
+<em>Por Catiana de Medeiros<br />
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
@@ -60,7 +61,7 @@ Marin&ecirc;s Riva e Jos&eacute; Mariano Matias eram um dos casais entre as 80 f
 Na &eacute;poca, os trabalhadores rurais reivindicavam, ao ent&atilde;o governador Alceu Collares, o assentamento das fam&iacute;lias acampadas no estado.</p>
 
 <p><br />
-Passado alguns anos de luta, os Sem Terra viram seus frutos colhidos ao serem assentados numa &aacute;rea de 1.100 hectares, que pertencia ao Instituto Riograndense de Arroz (Irga). A conquista veio, e criaram o Assentamento Integra&ccedil;&atilde;o Ga&uacute;cha, em Eldorado do Sul (RS). As dificuldades, por&eacute;m, persistiam.</p>
+Passado alguns anos de luta, os Sem Terra viram seus frutos colhidos ao serem assentados numa &aacute;rea de 1.100 hectares, que pertencia ao Instituto Riograndense de Arroz (Irga). A conquista veio e criaram o Assentamento Integra&ccedil;&atilde;o Ga&uacute;cha, em Eldorado do Sul (RS). As dificuldades, por&eacute;m, persistiam.</p>
 
 <p><br />
 &ldquo;&Eacute;ramos aqueles que ningu&eacute;m queria por perto. As pessoas da cidade nos respeitavam porque temiam que invad&iacute;ssemos suas casas, as suas lojas. Muitas vezes fomos &agrave; cidade pedir &aacute;gua para beber e tivemos as portas fechadas. Fomos v&iacute;timas de preconceito e sab&iacute;amos que t&iacute;nhamos que provar porque &eacute; que est&aacute;vamos l&aacute;&rdquo;, recordou Marin&ecirc;s.</p>
