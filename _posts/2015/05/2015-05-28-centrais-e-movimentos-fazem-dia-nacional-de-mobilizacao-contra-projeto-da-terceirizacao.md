@@ -25,7 +25,7 @@ releated_posts:
   - 2015/05/2015-05-27-juventude-tranca-rodovias-para-contra-reducao-da-maioridade-penal.md
   - 2015/04/2015-04-28-cnbb-critica-projetos-que-ameacam-conquistas-sociais-e-direitos-de-trabalhadores.md
   - 2015/05/2015-05-21-movimentos-sociais-lancam-manifesto-contra-ajuste-fiscal.md
-section: featured-news
+section: null
 
 ---
 <p><img alt="greve).jpg" src="http://farm8.staticflickr.com/7757/18012968128_522c1972de_b.jpg" /></p>
