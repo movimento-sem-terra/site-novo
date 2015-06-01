@@ -10,7 +10,7 @@ title: "\"Tenho orgulho de ser agricultora, de botar a mão na terra, de ter min
 support_line: "Assentados da Reforma Agrária contam a trajetória da conquista pela terra, as dificuldades enfrentadas e o resultado da luta."
 menu: reforma agrária
 sector: mass-front
-images_hd: "http://farm9.staticflickr.com/8757/17732013943_33b4ee91c3_b.jpg"
+images_hd: "http://farm8.staticflickr.com/7763/18356216571_27535d1d00_b.jpg"
 layout: post
 files:
   - link: "http://farm9.staticflickr.com/8757/17732013943_33b4ee91c3_b.jpg"
@@ -25,6 +25,18 @@ files:
     small: "http://farm1.staticflickr.com/411/18164960250_2ea4ec9d8b_n.jpg"
     title: marines.jpg
     $$hashKey: 0DF
+  - link: "http://farm8.staticflickr.com/7763/18356216571_27535d1d00_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7763/18356216571_27535d1d00_t.jpg"
+    medium: "http://farm8.staticflickr.com/7763/18356216571_27535d1d00_z.jpg"
+    small: "http://farm8.staticflickr.com/7763/18356216571_27535d1d00_n.jpg"
+    title: Por-Ramiro-Furquim-Sul21-3589.jpg
+    $$hashKey: 05L
+  - link: "http://farm9.staticflickr.com/8849/18356235011_dd29d3a3d0_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8849/18356235011_dd29d3a3d0_t.jpg"
+    medium: "http://farm9.staticflickr.com/8849/18356235011_dd29d3a3d0_z.jpg"
+    small: "http://farm9.staticflickr.com/8849/18356235011_dd29d3a3d0_n.jpg"
+    title: MST-trabalhando.jpg
+    $$hashKey: 05O
 created_date: "2015-06-01T14:23:18-03:00"
 published: true
 releated_posts:
@@ -34,8 +46,8 @@ releated_posts:
   - 2014/12/2014-12-09-apos-anos-de-luta-sem-terra-conquistam-maquinario-no-ms.md
 
 ---
-<figure class="image"><img alt="Marinês e Matias.jpg" src="http://farm9.staticflickr.com/8757/17732013943_33b4ee91c3_b.jpg" />
-<figcaption>Marin&ecirc;s e Mariano, em bate-papo com jovens sobre o processo da luta pela terra.</figcaption>
+<figure class="image" style="float:right"><img alt="Por-Ramiro-Furquim-Sul21-3589.jpg" src="http://farm8.staticflickr.com/7763/18356216571_27535d1d00_b.jpg" />
+<figcaption>Planta&ccedil;&atilde;o de arroz no assentamento&nbsp;Integra&ccedil;&atilde;o Ga&uacute;cha. Foto: Ramiro Furquim/Sul21</figcaption>
 </figure>
 
 <p><em>Por Catiana de Medeiros<br />
@@ -56,6 +68,10 @@ Passado alguns anos de luta, os Sem Terra viram seus frutos colhidos ao serem as
 <p><br />
 Al&eacute;m do preconceito social e da dificuldade de encontrar &aacute;gua pot&aacute;vel para saciar a sede, as fam&iacute;lias tiveram que resistir &agrave; falta de alimentos e buscar alternativas para garantir uma melhor qualidade de vida no assentamento.</p>
 
+<figure class="image"><img alt="Marinês e Matias.jpg" src="http://farm9.staticflickr.com/8757/17732013943_33b4ee91c3_b.jpg" />
+<figcaption>Marin&ecirc;s e Mariano, em bate-papo com jovens sobre o processo da luta pela terra.</figcaption>
+</figure>
+
 <p><br />
 &ldquo;Chegamos a Eldorado com vontade de construir e produzir, de sair da condi&ccedil;&atilde;o dif&iacute;cil que enfrent&aacute;vamos j&aacute; havia cinco anos, mas tivemos muitas frustra&ccedil;&otilde;es por n&atilde;o saber como trabalhar com aquela terra&rdquo;, conta a camponesa.</p>
 
@@ -67,8 +83,8 @@ Com isso, &ldquo;um dos maiores problemas que enfrentamos na &eacute;poca foi a 
 
 <p>&nbsp;</p>
 
-<figure class="image" style="float:left"><img alt="marines.jpg" src="http://farm1.staticflickr.com/411/18164960250_2ea4ec9d8b_b.jpg" />
-<figcaption>Jovens participam do bate-papo com Marin&ecirc;s e Mariano.</figcaption>
+<figure class="image" style="float:right"><img alt="MST-trabalhando.jpg" src="http://farm9.staticflickr.com/8849/18356235011_dd29d3a3d0_b.jpg" />
+<figcaption>No come&ccedil;o, as hortas garantiam o sustento. Com o tempo, passaram a vender os produtos em feiras.</figcaption>
 </figure>
 
 <p><strong>Mudan&ccedil;a</strong></p>
@@ -94,8 +110,13 @@ L&aacute;, existe tamb&eacute;m uma das maiores produ&ccedil;&otilde;es de arroz
 <p><br />
 A organiza&ccedil;&atilde;o dos camponeses resultou ainda em oito hortas org&acirc;nicas, distribu&iacute;das em seis hectares. Al&eacute;m do abastecimento das fam&iacute;lias assentadas, a produ&ccedil;&atilde;o &eacute; destinada para feiras ecol&oacute;gicas, mercados, fruteiras, escolas e ao Programa de Aquisi&ccedil;&atilde;o de Alimentos (PAA).</p>
 
-<p><br />
-Matias conta que agora as fam&iacute;lias tamb&eacute;m pretendem passar a investir na produ&ccedil;&atilde;o de leite org&acirc;nico.</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="marines.jpg" src="http://farm1.staticflickr.com/411/18164960250_2ea4ec9d8b_b.jpg" />
+<figcaption>Jovens participam do bate-papo com Marin&ecirc;s e Mariano.</figcaption>
+</figure>
+
+<p>Matias conta que agora as fam&iacute;lias tamb&eacute;m pretendem passar a investir na produ&ccedil;&atilde;o de leite org&acirc;nico.</p>
 
 <p><br />
 &ldquo;Para n&oacute;s a Reforma Agr&aacute;ria &eacute; repartir aquilo que conquistamos, oferecendo ao consumidor o melhor que podemos. Hoje estamos muito contente com o nosso trabalho, pois vemos o quanto melhora a vida das pessoas. Precisamos mant&ecirc;-lo para que nossas futuras gera&ccedil;&otilde;es permane&ccedil;am e continuem sendo beneficiadas com a implanta&ccedil;&atilde;o do modelo agroecol&oacute;gico&rdquo;, ressalta Mariano.</p>
