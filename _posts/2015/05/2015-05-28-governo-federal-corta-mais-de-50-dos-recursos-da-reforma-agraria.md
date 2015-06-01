@@ -9,7 +9,7 @@ tags:
 title: "Governo federal corta mais de 50% dos recursos da Reforma Agrária"
 support_line: "Os recursos destinados ao Incra vêm sofrendo um declínio sistemático nos últimos anos. De 2010 a 2014, o orçamento anual do órgão caiu 85%."
 menu: reforma agrária
-section: cover
+section: featured-news
 layout: post
 files:
   - link: "http://farm9.staticflickr.com/8800/18168193466_b7da380b43_b.jpg"
