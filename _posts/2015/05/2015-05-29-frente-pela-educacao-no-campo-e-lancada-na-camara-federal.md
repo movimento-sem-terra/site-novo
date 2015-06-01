@@ -5,7 +5,7 @@ tags:
   - tag: frente-parlamentar
   - tag: escolas
 title: Frente pela Educação no Campo é lançada na Câmara Federal
-support_line: "Composta por 249 parlamentares, a frente é uma reedição da articulação iniciada no ano passado e priorizará a construção espaços de debate e diálogo sobre os compromissos do Estado com as necessidades educacionais do campo."
+support_line: "Composta por 249 parlamentares, a frente priorizará a construção espaços de debate e diálogo sobre os compromissos do Estado com as necessidades educacionais do campo."
 menu: "educação, cultura e comunicação"
 images_hd: "http://farm9.staticflickr.com/8843/18046640849_3234155995_b.jpg"
 layout: post
@@ -24,6 +24,7 @@ releated_posts:
   - 2015/05/2015-05-14-nao-podemos-desistir-do-projeto-de-renovacao-em-curso-em-muitos-paises-latino-americanos.md
   - 2015/05/2015-05-20-educacao-no-campo-a-estrategia-dos-usurpadores.md
 sector: education
+section: featured-news
 
 ---
 <figure class="image"><img alt="FRENTE 2.jpg" src="http://farm9.staticflickr.com/8843/18046640849_3234155995_b.jpg" />
