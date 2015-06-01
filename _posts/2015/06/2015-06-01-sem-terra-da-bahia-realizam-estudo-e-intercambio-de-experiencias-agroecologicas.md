@@ -47,7 +47,7 @@ Entre os dias 28 e 30/5, trabalhadores rurais de dez regi&otilde;es da Bahia rea
 O encontro, que aconteceu na Escola Popular de Agroecologia e Agrofloresta Eg&iacute;dio Brunetto, no Assentamento Jaci Rocha, em Prado (BA), teve como base o estudo e o interc&acirc;mbio de experi&ecirc;ncias agroecol&oacute;gicas.</p>
 
 <p><br />
-Durante os tr&ecirc;s dias de encontro, os Sem Terra discutiram a atual conjuntura do campo e realizaram um balan&ccedil;o organizativo do setor de produ&ccedil;&atilde;o, em que identificaram os avan&ccedil;os e limites, apontando as atividades estrat&eacute;gicas para os pr&oacute;ximos per&iacute;odos.</p>
+Durante os tr&ecirc;s dias de encontro, os Sem Terra discutiram a atual conjuntura do campo e realizaram um balan&ccedil;o organizativo do setor de produ&ccedil;&atilde;o, ao identificar os avan&ccedil;os, limites e apontar as atividades estrat&eacute;gicas para o pr&oacute;ximo per&iacute;odo.</p>
 
 <p><br />
 Al&eacute;m disso, visitaram as diversas instala&ccedil;&otilde;es produtivas da Escola Popular, como os viveiros, minhoc&aacute;rio, o sistema de armazenamento de &aacute;gua da chuva, sistema de reaproveitamento das &aacute;guas residuais, sistema de irriga&ccedil;&atilde;o com blocos para fruticulturas e &aacute;reas de produ&ccedil;&atilde;o agroecol&oacute;gicas.</p>
@@ -58,19 +58,19 @@ Al&eacute;m disso, visitaram as diversas instala&ccedil;&otilde;es produtivas da
 <figcaption></figcaption>
 </figure>
 
-<p>Evanildo Costa, da dire&ccedil;&atilde;o estadual do MST, pontuou que o modelo de produ&ccedil;&atilde;o agroecol&oacute;gico &eacute; um processo cont&iacute;nuo e que deve ser compreendido enquanto um modo de vida que coloca o contraponto ao sistema hegem&ocirc;nico.</p>
+<p>Evanildo Costa, da dire&ccedil;&atilde;o estadual do MST, pontuou que o modelo de produ&ccedil;&atilde;o agroecol&oacute;gico &eacute; um processo cont&iacute;nuo e que deve ser compreendido enquanto um modo de vida que coloca um contraponto ao sistema hegem&ocirc;nico.</p>
 
 <p><br />
 Neste sentido que os camponeses colocaram a import&acirc;ncia da participa&ccedil;&atilde;o dos educadores, equipes t&eacute;cnicas, quadros de dire&ccedil;&atilde;o, fam&iacute;lias acampadas e assentadas para o avan&ccedil;o da constru&ccedil;&atilde;o agroecol&oacute;gica.</p>
 
 <p><br />
-De acordo com Jo&atilde;o Paulo Rodrigues, da dire&ccedil;&atilde;o nacional do MST, a crise dos recursos naturais n&atilde;o devem ser uma agenda apenas dos ambientalistas, mas sim de toda classe trabalhadora que luta contra o modo de produ&ccedil;&atilde;o capitalista. Por isso, a agroecologia joga um papel importante.</p>
+De acordo com Jo&atilde;o Paulo Rodrigues, da dire&ccedil;&atilde;o nacional do MST, a crise dos recursos naturais n&atilde;o deve ser uma agenda apenas dos ambientalistas, mas sim de toda classe trabalhadora que luta contra o modo de produ&ccedil;&atilde;o capitalista. Por isso, a agroecologia joga um papel importante.</p>
 
 <p><br />
-J&aacute; Amarildo da Cruz, da dire&ccedil;&atilde;o estadual, &ldquo;o interc&acirc;mbio propiciou um amplo debate e alinhamento das ideias sobre a agroecologia e, consequentemente, o avan&ccedil;o na constru&ccedil;&atilde;o da Reforma Agr&aacute;ria Popular&rdquo;.</p>
+Amarildo da Cruz, da dire&ccedil;&atilde;o estadual, acredita que &ldquo;o interc&acirc;mbio propiciou um amplo debate e alinhamento das ideias sobre a agroecologia e, consequentemente, o avan&ccedil;o na constru&ccedil;&atilde;o da Reforma Agr&aacute;ria Popular&rdquo;.</p>
 
 <p><br />
-O Encontro possibilitou a constru&ccedil;&atilde;o de um planejamento para debater o fortalecimento da agroecologia nas &aacute;reas de Reforma Agr&aacute;ria e uma agenda de estudos a n&iacute;vel estadual, capaz de potencializar as experi&ecirc;ncias da produ&ccedil;&atilde;o agroecol&oacute;gica e atender as necessidades das fam&iacute;lias acampadas e assentadas.</p>
+A atividade permitiu a constru&ccedil;&atilde;o de um planejamento para debater o fortalecimento da agroecologia nas &aacute;reas de Reforma Agr&aacute;ria, e possibilitou a cria&ccedil;&atilde;o de uma agenda de estudos do estado capaz de potencializar as experi&ecirc;ncias da produ&ccedil;&atilde;o agroecol&oacute;gica e atender as necessidades das fam&iacute;lias acampadas e assentadas.</p>
 
 <p><br />
 Os Sem Terra finalizaram o encontro com a troca de diversas sementes, recordando a pr&aacute;tica do hist&oacute;rico companheiro Eg&iacute;dio Brunetto, e tamb&eacute;m a import&acirc;ncia do interc&acirc;mbio de sementes, propaga&ccedil;&atilde;o e conserva&ccedil;&atilde;o destas para a sobreviv&ecirc;ncia da humanidade.</p>
