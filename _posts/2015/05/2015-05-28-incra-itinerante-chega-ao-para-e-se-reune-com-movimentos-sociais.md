@@ -25,6 +25,7 @@ releated_posts:
   - 2015/03/2015-03-31-em-brasilia-incra-empossa-primeira-mulher-como-presidenta.md
   - 2015/05/2015-05-28-governo-federal-corta-mais-de-50-dos-recursos-da-reforma-agraria.md
   - 2014/12/2014-11-03-terra-teto-e-trabalho-uma-condenacao-expressa-do-sistema-capitalista.md
+section: featured-news
 
 ---
 <p><img alt="WP_20150527_10_57_05_Pro[1].jpg" src="http://farm9.staticflickr.com/8890/18194123172_753244c2f4_b.jpg" /><br />
