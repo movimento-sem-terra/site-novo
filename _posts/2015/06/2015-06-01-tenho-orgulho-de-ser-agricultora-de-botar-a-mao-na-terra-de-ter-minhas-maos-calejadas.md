@@ -42,13 +42,13 @@ releated_posts:
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Marin&ecirc;s Riva e Jos&eacute; Mariano Matias eram um dos casais entre as 80 fam&iacute;lias que chegaram a Eldorado do Sul, em 1991, ap&oacute;s grande mobiliza&ccedil;&atilde;o e forte press&atilde;o popular que uniu em marcha, de Bag&eacute; a Porto Alegre, centenas de trabalhadores e trabalhadoras*.</p>
+Marin&ecirc;s Riva e Jos&eacute; Mariano Matias eram um dos casais entre as 80 fam&iacute;lias que chegaram a Eldorado do Sul, em 1991, ap&oacute;s grande mobiliza&ccedil;&atilde;o e forte press&atilde;o popular que uniu em marcha, de Bag&eacute; a Porto Alegre (RS), centenas de trabalhadores e trabalhadoras*.</p>
 
 <p><br />
 Na &eacute;poca, os trabalhadores rurais reivindicavam, ao ent&atilde;o governador Alceu Collares, o assentamento das fam&iacute;lias acampadas no estado.</p>
 
 <p><br />
-Passado alguns anos de luta, os Sem Terra firam seus frutos colhidos ao serem assentados numa &aacute;rea de 1.100 hectares, que pertencia ao Instituto Riograndense de Arroz (Irga). A conquista veio, e criaram o Assentamento Integra&ccedil;&atilde;o Ga&uacute;cha, em Eldorado do Sul (RS). As dificuldades, por&eacute;m, persistiam.</p>
+Passado alguns anos de luta, os Sem Terra viram seus frutos colhidos ao serem assentados numa &aacute;rea de 1.100 hectares, que pertencia ao Instituto Riograndense de Arroz (Irga). A conquista veio, e criaram o Assentamento Integra&ccedil;&atilde;o Ga&uacute;cha, em Eldorado do Sul (RS). As dificuldades, por&eacute;m, persistiam.</p>
 
 <p><br />
 &ldquo;&Eacute;ramos aqueles que ningu&eacute;m queria por perto. As pessoas da cidade nos respeitavam porque temiam que invad&iacute;ssemos suas casas, as suas lojas. Muitas vezes fomos &agrave; cidade pedir &aacute;gua para beber e tivemos as portas fechadas. Fomos v&iacute;timas de preconceito e sab&iacute;amos que t&iacute;nhamos que provar porque &eacute; que est&aacute;vamos l&aacute;&rdquo;, recordou Marin&ecirc;s.</p>
@@ -60,11 +60,12 @@ Al&eacute;m do preconceito social e da dificuldade de encontrar &aacute;gua pot&
 &ldquo;Chegamos a Eldorado com vontade de construir e produzir, de sair da condi&ccedil;&atilde;o dif&iacute;cil que enfrent&aacute;vamos j&aacute; havia cinco anos, mas tivemos muitas frustra&ccedil;&otilde;es por n&atilde;o saber como trabalhar com aquela terra&rdquo;, conta a camponesa.</p>
 
 <p><br />
-Era uma terra alagada, destinada &agrave; produ&ccedil;&atilde;o de arroz, diferente daquela argilosa que estavam acostumados.<br />
-Com isso, &ldquo;um dos maiores problemas que enfrentamos na &eacute;poca foi a fome. Perdemos os plantios de soja e feij&atilde;o por causa do alagamento e, por n&atilde;o ter o que comer, at&eacute; sopa de grama experimentamos. N&atilde;o t&iacute;nhamos &aacute;gua pot&aacute;vel por perto, n&atilde;o existia energia el&eacute;trica, e muitas crian&ccedil;as morreram por causa da desnutri&ccedil;&atilde;o&rdquo;, recorda Marin&ecirc;s.</p>
+Era uma terra alagada, destinada &agrave; produ&ccedil;&atilde;o de arroz, diferente daquela argilosa que estavam acostumados.</p>
 
 <p><br />
-&nbsp;</p>
+Com isso, &ldquo;um dos maiores problemas que enfrentamos na &eacute;poca foi a fome. Perdemos os plantios de soja e feij&atilde;o por causa do alagamento. Por n&atilde;o ter o que comer, at&eacute; sopa de grama experimentamos. N&atilde;o t&iacute;nhamos &aacute;gua pot&aacute;vel por perto, n&atilde;o existia energia el&eacute;trica, e muitas crian&ccedil;as morreram por causa da desnutri&ccedil;&atilde;o&rdquo;, recorda Marin&ecirc;s.</p>
+
+<p>&nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="marines.jpg" src="http://farm1.staticflickr.com/411/18164960250_2ea4ec9d8b_b.jpg" />
 <figcaption>Jovens participam do bate-papo com Marin&ecirc;s e Mariano.</figcaption>
@@ -79,10 +80,10 @@ A dif&iacute;cil realidade das fam&iacute;lias come&ccedil;ou a mudar quando pas
 No come&ccedil;o, passaram a investir em hortas que garantissem o sustento e, com o tempo, passaram a vender os produtos de porta em porta.</p>
 
 <p><br />
-&ldquo;Depois fomos apresentados para a feira ecol&oacute;gica, onde j&aacute; contribu&iacute;mos h&aacute; 21 anos. Na &eacute;poca, tamb&eacute;m come&ccedil;amos a produzir p&atilde;o org&acirc;nico. Hoje, nosso assentamento possui uma panificadora que produz 22 tipos de p&atilde;es, al&eacute;m de bolos, bolachas e outros alimentos&rdquo;, conta com orgulho.</p>
+&ldquo;Depois fomos apresentados para a feira ecol&oacute;gica, onde j&aacute; contribu&iacute;mos h&aacute; 21 anos. Na &eacute;poca, tamb&eacute;m come&ccedil;amos a produzir p&atilde;o org&acirc;nico. Hoje, nosso assentamento possui uma panificadora que produz 22 tipos de p&atilde;es, al&eacute;m de bolos, bolachas e outros alimentos&rdquo;, conta Marin&ecirc;s com orgulho.</p>
 
 <p><br />
-O resultado deste processo est&aacute; na organiza&ccedil;&atilde;o e produ&ccedil;&atilde;o das fam&iacute;lias assentadas. Atualmente, as 70 fam&iacute;lias assentadas no Integra&ccedil;&atilde;o Ga&uacute;cha organizam suas produ&ccedil;&otilde;es por meio de cooperativas ou pequenos grupos familiares.</p>
+O resultado deste processo est&aacute; na organiza&ccedil;&atilde;o e produ&ccedil;&atilde;o das fam&iacute;lias. Atualmente, as 70 fam&iacute;lias assentadas no Integra&ccedil;&atilde;o Ga&uacute;cha organizam suas produ&ccedil;&otilde;es por meio de cooperativas ou pequenos grupos familiares.</p>
 
 <p><br />
 No assentamento, h&aacute; centro comunit&aacute;rio, escola de educa&ccedil;&atilde;o infantil, e outros espa&ccedil;os que contemplam em atividades todas as faixas et&aacute;rias.</p>
@@ -94,13 +95,13 @@ L&aacute;, existe tamb&eacute;m uma das maiores produ&ccedil;&otilde;es de arroz
 A organiza&ccedil;&atilde;o dos camponeses resultou ainda em oito hortas org&acirc;nicas, distribu&iacute;das em seis hectares. Al&eacute;m do abastecimento das fam&iacute;lias assentadas, a produ&ccedil;&atilde;o &eacute; destinada para feiras ecol&oacute;gicas, mercados, fruteiras, escolas e ao Programa de Aquisi&ccedil;&atilde;o de Alimentos (PAA).</p>
 
 <p><br />
-Segundo Matias, agora as fam&iacute;lias tamb&eacute;m passar&atilde;o a investir na produ&ccedil;&atilde;o do leite org&acirc;nico.</p>
+Matias conta que agora as fam&iacute;lias tamb&eacute;m pretendem passar a investir na produ&ccedil;&atilde;o de leite org&acirc;nico.</p>
 
 <p><br />
-&ldquo;Para n&oacute;s a Reforma Agr&aacute;ria &eacute; repartir aquilo que conquistamos, oferecendo ao consumidor o melhor que podemos. Hoje estamos muito contentes com o nosso trabalho, pois vemos o quanto melhora a vida das pessoas. Agora precisamos mant&ecirc;-lo para que nossas futuras gera&ccedil;&otilde;es permane&ccedil;am e continuem sendo beneficiadas com a implanta&ccedil;&atilde;o do modelo agroecol&oacute;gico&rdquo;, ressalta Mariano.</p>
+&ldquo;Para n&oacute;s a Reforma Agr&aacute;ria &eacute; repartir aquilo que conquistamos, oferecendo ao consumidor o melhor que podemos. Hoje estamos muito contente com o nosso trabalho, pois vemos o quanto melhora a vida das pessoas. Precisamos mant&ecirc;-lo para que nossas futuras gera&ccedil;&otilde;es permane&ccedil;am e continuem sendo beneficiadas com a implanta&ccedil;&atilde;o do modelo agroecol&oacute;gico&rdquo;, ressalta Mariano.</p>
 
 <p><br />
-J&aacute; Marin&ecirc;s, destaca ter &ldquo;orgulho de fazer parte da fam&iacute;lia Sem Terra, de dizer que a Reforma Agr&aacute;ria &eacute; o caminho certo, mesmo que, infelizmente, ainda falte consci&ecirc;ncia dos nossos governantes sobre o tema. Tenho orgulho de ser agricultora, de botar a m&atilde;o na terra, de ter minhas m&atilde;os calejadas&rdquo;.</p>
+J&aacute; Marin&ecirc;s, diz ter &ldquo;orgulho de fazer parte da fam&iacute;lia Sem Terra, de dizer que a Reforma Agr&aacute;ria &eacute; o caminho certo, mesmo que, infelizmente, ainda falte consci&ecirc;ncia dos nossos governantes sobre o tema. Tenho orgulho de ser agricultora, de botar a m&atilde;o na terra, de ter minhas m&atilde;os calejadas&rdquo;.</p>
 
 <p><br />
 <strong>*Bate-papo </strong></p>
