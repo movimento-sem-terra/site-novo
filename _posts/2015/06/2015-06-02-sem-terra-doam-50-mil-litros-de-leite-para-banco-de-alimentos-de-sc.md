@@ -7,7 +7,7 @@ tags:
   - tag: assentamento
   - tag: solidariedade
 title: Sem Terra doam 50 mil litros de leite para Banco de Alimentos de SC
-images_hd: "http://farm1.staticflickr.com/463/18394569635_9cb86ac2c7_b.jpg"
+images_hd: "http://farm8.staticflickr.com/7793/17774330583_a4a8a3193f_b.jpg"
 sector: production
 menu: reforma agrária
 support_line: "Para Sem Terra, a ideia é levar a produção dos assentamentos para toda a população, e mostrar a qualidade dos produtos da Reforma Agrária."
@@ -19,6 +19,12 @@ files:
     small: "http://farm1.staticflickr.com/463/18394569635_9cb86ac2c7_n.jpg"
     title: banco de alimentos.JPG
     $$hashKey: 0DZ
+  - link: "http://farm8.staticflickr.com/7793/17774330583_a4a8a3193f_b.jpg"
+    thumbnail: "http://farm8.staticflickr.com/7793/17774330583_a4a8a3193f_t.jpg"
+    medium: "http://farm8.staticflickr.com/7793/17774330583_a4a8a3193f_z.jpg"
+    small: "http://farm8.staticflickr.com/7793/17774330583_a4a8a3193f_n.jpg"
+    title: BancodeAlimentosrecebe25millitrosdeleite1.JPG
+    $$hashKey: 05P
 created_date: "2015-06-02T16:49:30-03:00"
 published: true
 releated_posts:
@@ -30,7 +36,7 @@ releated_posts:
   - 2015/01/2015-01-26-assentados-gauchos-fornecem-alimentos-para-grupo-hospitalar-de-porto-alegre.md
 
 ---
-<p><img alt="banco de alimentos.JPG" src="http://farm1.staticflickr.com/463/18394569635_9cb86ac2c7_b.jpg" /><br />
+<p><img alt="BancodeAlimentosrecebe25millitrosdeleite1.JPG" src="http://farm8.staticflickr.com/7793/17774330583_a4a8a3193f_b.jpg" /><br />
 <br />
 <em>Da P&aacute;gina do MST</em></p>
 
