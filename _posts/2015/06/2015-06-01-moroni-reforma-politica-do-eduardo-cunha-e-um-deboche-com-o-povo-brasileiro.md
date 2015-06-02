@@ -8,7 +8,7 @@ title: "Moroni: Reforma política de Cunha é um deboche com o povo brasileiro"
 support_line: "O que podemos esperar de um parlamento composto por uma maioria que tem muito dinheiro? Nas últimas eleições, as candidaturas eleitas utilizaram metade dos recursos de campanha."
 menu: projeto popular
 label: articles
-section: cover
+section: null
 images_hd: "http://farm1.staticflickr.com/341/17728568933_d6d5c5495c_b.jpg"
 layout: post
 files:
@@ -28,6 +28,7 @@ releated_posts:
   - 2015/05/2015-05-21-senadores-aderem-ao-manifesto-contra-ajuste-fiscal-e-colocam-governo-em-saia-justa.md
 
 ---
+
 
 <p><img alt="cunha_palhaço.jpg" src="http://farm1.staticflickr.com/341/17728568933_d6d5c5495c_b.jpg" /></p>
 
