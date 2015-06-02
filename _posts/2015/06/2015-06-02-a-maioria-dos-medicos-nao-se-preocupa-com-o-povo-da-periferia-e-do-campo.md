@@ -3,6 +3,9 @@ date: "2015-06-02T15:21:43-03:00"
 tags:
   - tag: saúde
   - tag: mais-médicos
+  - tag: cuba
+  - tag: formação
+  - tag: medicina
 title: “A maioria dos médicos não se preocupa com o povo da periferia e do campo”
 support_line: "A partir de julho, cidades do interior do Brasil receberão médicos vindos de comunidades atingidas por barragens formados em Cuba, através do Programa Mais Médicos."
 images_hd: "http://farm1.staticflickr.com/340/18366009066_167f6a8960_b.jpg"
@@ -29,7 +32,11 @@ files:
     $$hashKey: 08A
 created_date: "2015-06-02T15:32:54-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - 2015/01/2015-01-23-mst-realiza-curso-de-pos-graduacao-em-saude-para-a-populacao-do-campo.md
+  - 2014/08/2014-08-14-vinte-e-cinco-militantes-do-mst-se-formam-em-medicina-em-cuba.md
+  - 2015/05/2015-05-14-politicas-publicas-prioridade-para-alimentos-saudaveis.md
+  - 2014/08/2014-08-08-agricultura-cubana-mostra-a-importancia-dos-bioinsumos-para-producao-saudavel.md
 
 ---
 <figure class="image" style="float:right"><img alt="everton_-_mais_médicos!.jpg" src="http://farm9.staticflickr.com/8783/18206223939_f9caf7c4fb_b.jpg" />
