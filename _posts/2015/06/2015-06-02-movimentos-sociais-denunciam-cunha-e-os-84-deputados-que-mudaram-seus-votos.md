@@ -7,8 +7,8 @@ tags:
   - tag: democracia
   - tag: eduardo-cunha
 menu: projeto popular
-section: cover
-title: Movimentos sociais denunciam Cunha e os 84 deputados que mudaram seus votos
+section: null
+title: Movimentos denunciam Cunha e os 84 deputados que mudaram seus votos
 support_line: A ação ocorre em paralelo a ação protagonizada por 61 deputados que recorreram ao STF para tentar anular a votação que constitucionalizou as doações de empresas para campanhas.
 images_hd: "http://farm1.staticflickr.com/351/18387218702_368976ea0d_b.jpg"
 layout: post
