@@ -26,8 +26,9 @@ releated_posts:
   - 2015/01/2015-01-09-a-obstinacao-tecnicista-e-a-formacao-bancaria-no-campo.md
 
 ---
-<p><br />
-<strong><em>Do IHU Online</em></strong></p>
+<p><img alt="tg.jpg" src="http://farm1.staticflickr.com/536/18197710128_7237f2a36c_b.jpg" /><br />
+<br />
+<em>Do IHU Online</em></p>
 
 <p><br />
 A Defensoria P&uacute;blica Agr&aacute;ria do Tocantins investiga o favorecimento de pol&iacute;ticos na distribui&ccedil;&atilde;o irregular de terras no estado. Documentos obtidos pelo Canal Rural com exclusividade mostram que at&eacute; a ministra da Agricultura, K&aacute;tia Abreu, est&aacute; envolvida. O caso, agora, pode parar na Corte Interamericana de Direitos Humanos.</p>
