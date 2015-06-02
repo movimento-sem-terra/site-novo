@@ -1,6 +1,10 @@
 ---
 date: "2015-06-02T15:00:30-03:00"
-tags: []
+tags:
+  - tag: agrotóxicos
+  - tag: rio-grande-do-sul
+  - tag: saúde
+  - tag: meio-ambiente
 title: Projetos de Lei proíbem o uso de agrotóxicos no Rio Grande do Sul
 menu: direitos humanos
 images_hd: "http://farm1.staticflickr.com/265/18204015920_a981e585ed_b.jpg"
@@ -22,7 +26,12 @@ files:
     $$hashKey: 07Z
 created_date: "2015-06-02T15:09:58-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - 2014/12/2014-12-04-no-para-mp-quer-instalar-foruns-para-combater-impactos-dos-agrotoxicos.md
+  - 2015/05/2015-05-14-a-uso-real-dos-agrotoxicos-e-muito-pior-do-que-os-testes-realizados-avalia-toxicologista.md
+  - 2015/05/2015-05-25-com-pressao-da-sociedade-franca-avanca-na-proibicao-de-agrotoxicos.md
+  - 2014/08/2014-08-20-para-mpfrs-venda-do-herbicida-paraquat-tem-que-ser-proibida.md
+  - 2014/12/2014-12-05-projeto-que-proibe-pulverizacao-aerea-em-lavouras-e-protocolado-na-alers.md
 
 ---
 <figure class="image"><img alt="PL_agrotoxicos.jpg" src="http://farm1.staticflickr.com/265/18204015920_a981e585ed_b.jpg" />
