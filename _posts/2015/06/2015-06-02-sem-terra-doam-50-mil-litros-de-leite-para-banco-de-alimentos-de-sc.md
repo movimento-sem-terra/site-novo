@@ -31,6 +31,7 @@ releated_posts:
 
 ---
 <p><img alt="banco de alimentos.JPG" src="http://farm1.staticflickr.com/463/18394569635_9cb86ac2c7_b.jpg" /><br />
+<br />
 <em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
@@ -49,11 +50,13 @@ Para Ernesto Puhl Neto, da dire&ccedil;&atilde;o estadual do MST, a doa&ccedil;&
 O leite ser&aacute; distribu&iacute;do para cerca de 40 entidades socioassistenciais cadastradas no Banco de Alimentos e para os equipamentos p&uacute;blicos de Assist&ecirc;ncia Social, como a Cozinha Comunit&aacute;ria, Centros de Refer&ecirc;ncia de Assist&ecirc;ncia Social (CRASs), Centros de Refer&ecirc;ncia Especializados de Assist&ecirc;ncia Social (CREASs), Abrigos Municipais, Centro Pop, entre outros.</p>
 
 <p><br />
-Na pr&oacute;xima semana est&aacute; prevista a chegada de mais 25 mil litros de leite, totalizando 50 mil litros.<br />
-Ainda para Ernesto, os n&uacute;meros falam por si s&oacute; e resumem a import&acirc;ncia da agricultura familiar para a produ&ccedil;&atilde;o aliment&iacute;cia no pa&iacute;s.</p>
+Na pr&oacute;xima semana est&aacute; prevista a chegada de mais 25 mil litros de leite, totalizando 50 mil litros.</p>
 
 <p><br />
-&ldquo;Os assentados trabalham com 330 mil litros de leite por dia, al&eacute;m de iogurte e bebida l&aacute;ctea. Cerca de 200 mil litros s&atilde;o da marca Terra Viva, e 130 mil litros s&atilde;o presta&ccedil;&atilde;o de servi&ccedil;os para outras duas empresas. S&atilde;o n&uacute;meros que mostram que &eacute; poss&iacute;vel alinhar a produ&ccedil;&atilde;o de alimentos de qualidade e economia sustent&aacute;vel&rdquo;, acredita.</p>
+Ernesto acredita que os n&uacute;meros falam por si s&oacute; e resumem a import&acirc;ncia da agricultura familiar para a produ&ccedil;&atilde;o aliment&iacute;cia no pa&iacute;s.</p>
+
+<p><br />
+&ldquo;Os assentados trabalham com 330 mil litros de leite por dia, al&eacute;m de iogurte e bebida l&aacute;ctea. Cerca de 200 mil litros s&atilde;o da marca Terra Viva, e 130 mil litros s&atilde;o presta&ccedil;&atilde;o de servi&ccedil;os para outras duas empresas. S&atilde;o n&uacute;meros que mostram que &eacute; poss&iacute;vel alinhar a produ&ccedil;&atilde;o de alimentos de qualidade e economia sustent&aacute;vel&rdquo;, ressalta.</p>
 
 <p><br />
 A venda &eacute; centralizada no estado do Paran&aacute;, com 54% da produ&ccedil;&atilde;o. Santa Catarina tem em torno de 22% e o restante &eacute; distribu&iacute;do em Mato Grosso, Rio Grande do Sul e S&atilde;o Paulo.</p>
