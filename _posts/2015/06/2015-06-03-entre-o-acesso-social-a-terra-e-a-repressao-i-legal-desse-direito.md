@@ -30,6 +30,7 @@ releated_posts:
 
 ---
 <p><img alt="RS 2008 ENCONTRO ESTADUAL 3.jpg" src="http://farm1.staticflickr.com/505/18415420742_8642b63847_b.jpg" /><br />
+<br />
 <em>Por Jacques T&aacute;vora Alfonsin*</em></p>
 
 <p><br />
