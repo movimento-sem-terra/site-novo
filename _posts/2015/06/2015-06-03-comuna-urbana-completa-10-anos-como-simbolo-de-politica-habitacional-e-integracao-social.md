@@ -1,7 +1,12 @@
 ---
 date: "2015-06-03T12:38:12-03:00"
-tags: []
-title: Comuna Urbana completa 10 anos como símbolo de política habitacional e integração social
+tags:
+  - tag: reforma-urbana
+  - tag: são-paulo
+  - tag: moradia
+  - tag: mst
+  - tag: comuna-urbana
+title: Comuna Urbana completa 10 anos como símbolo habitacional e integração social
 menu: reforma agrária
 section: cover
 images_hd: "http://farm1.staticflickr.com/403/18424093655_c73d52820f_b.jpg"
@@ -46,12 +51,16 @@ files:
     $$hashKey: 08L
 created_date: "2015-06-03T12:57:07-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - 2015/03/2015-03-18-festa-do-milho-celebra-os-13-anos-de-resistencia-do-acampamento-irma-alberta.md
+  - 2015/03/2015-03-20-haddad-sanciona-projeto-que-inclui-alimento-organico-na-merenda-escolar.md
+  - 2015/05/2015-05-08-apos-despejo-violento-sem-terra-reocupam-terreno-em-aracati.md
 
 ---
 <p><img alt="comuna_urbana.jpg" src="http://farm9.staticflickr.com/8804/18424067185_a27147c817_b.jpg" /></p>
 
-<p><em>Por Maura Silva<br />
+<p><br />
+<em>Por Maura Silva<br />
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
