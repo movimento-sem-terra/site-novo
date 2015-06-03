@@ -107,7 +107,7 @@ Diante da situa&ccedil;&atilde;o enfrentada, ficou claro que o interesse daquela
 As fam&iacute;lias, ent&atilde;o, ocuparam um edif&iacute;cio abandonado, que h&aacute; mais de 30 anos havia sido projetado para ser o Semin&aacute;rio dos Padres Salesianos, mas foi vendido antes da conclus&atilde;o por falta de recursos.</p>
 
 <p><br />
-&ldquo;A entrada do MST no projeto foi fundamental em termos organizacionais. N&atilde;o fosse essa parceria n&atilde;o ter&iacute;amos conseguido um ter&ccedil;o do que temos aqui hoje. Hoje todos os moradores daqui entendem o MST como Movimento de luta e levantam essa bandeira dentro e fora da Comuna&rdquo;, avalia a morada do local &Eacute;rica Aparecida, integrante do MST e coordenadora do projeto escolar desenvolvido na Comuna Urbana.</p>
+&ldquo;A entrada do MST no projeto foi fundamental em termos organizacionais. N&atilde;o fosse essa parceria n&atilde;o ter&iacute;amos conseguido um ter&ccedil;o do que temos aqui. Hoje todos os moradores daqui entendem o MST como Movimento de luta e levantam essa bandeira dentro e fora da Comuna&rdquo;, avalia a morada do local &Eacute;rica Aparecida, integrante do MST e coordenadora do projeto escolar desenvolvido na Comuna Urbana.</p>
 
 <p><br />
 <strong>Nasce a Comuna</strong></p>
@@ -124,7 +124,9 @@ A Comuna Urbana foi pensada a partir da Comuna da Terra, uma proposta de assenta
 <figcaption>Educadoras da Escola da Comuna Urbana.</figcaption>
 </figure>
 
-<p>&ldquo;A luta entre o campo e a cidade nos faz entender melhor essa luta constante em que vive a popula&ccedil;&atilde;o Sem Terra e Sem Teto, sem direito &agrave; habita&ccedil;&atilde;o, uma das necessidades mais b&aacute;sicas do ser humano&rdquo;, observa Aparecida.<br />
+<p>&ldquo;A luta entre o campo e a cidade nos faz entender melhor essa luta constante em que vive a popula&ccedil;&atilde;o Sem Terra e Sem Teto, sem direito &agrave; habita&ccedil;&atilde;o, uma das necessidades mais b&aacute;sicas do ser humano&rdquo;, observa Aparecida.</p>
+
+<p><br />
 A escolha do nome n&atilde;o foi por acaso. Dom Helder nasceu no Cear&aacute; e chegou a ser integralista nos anos de 1930, algo que logo abandonou, e se tornou um defensor incans&aacute;vel dos trabalhadores.</p>
 
 <p><br />
