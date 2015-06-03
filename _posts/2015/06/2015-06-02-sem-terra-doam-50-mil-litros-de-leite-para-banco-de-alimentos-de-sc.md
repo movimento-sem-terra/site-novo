@@ -34,6 +34,7 @@ releated_posts:
   - 2015/01/2015-01-05-as-experiencias-de-producao-e-vida-no-assentamento-vitoria.md
   - 2015/02/2015-01-20-assentamento-delmiro-gouveia-recebe-estrutura-de-agroindustria-de-alimentos.md
   - 2015/01/2015-01-26-assentados-gauchos-fornecem-alimentos-para-grupo-hospitalar-de-porto-alegre.md
+section: featured-news
 
 ---
 <p><img alt="BancodeAlimentosrecebe25millitrosdeleite1.JPG" src="http://farm8.staticflickr.com/7793/17774330583_a4a8a3193f_b.jpg" /><br />
