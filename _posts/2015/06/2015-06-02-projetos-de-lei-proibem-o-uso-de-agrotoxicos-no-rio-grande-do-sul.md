@@ -9,7 +9,7 @@ title: Projetos de Lei proíbem o uso de agrotóxicos no Rio Grande do Sul
 menu: direitos humanos
 images_hd: "http://farm1.staticflickr.com/265/18204015920_a981e585ed_b.jpg"
 support_line: "Via Campesina manifestou apoio aos PLs, dizendo que serão feitas todas as tarefas que couberem aos movimentos para a implantação desses projetos."
-section: cover
+section: featured-news
 layout: post
 files:
   - link: "http://farm1.staticflickr.com/265/18204015920_a981e585ed_b.jpg"
