@@ -133,10 +133,6 @@ Uma de suas m&aacute;ximas, at&eacute; hoje repetida nas reuni&otilde;es e assem
 <p><br />
 &#39;Quando dou p&atilde;o aos pobres me chamam de santo, quando pergunto pelas causas da pobreza, me chamam de comunista&#39;, conta o Padre. &ldquo;Ele n&atilde;o nos deixa esquecer de onde viemos e aonde queremos chegar&quot;, ressalta.</p>
 
-<figure class="image"><img alt="comuna_urbana_escola.jpg" src="http://farm1.staticflickr.com/531/18237931159_f2c24c3207_b.jpg" />
-<figcaption>Mais de 120 crian&ccedil;as de 0 a 12 anos, tanto da Comuna quanto do bairro, estudam na escola.</figcaption>
-</figure>
-
 <p><br />
 <strong>Projeto habitacional</strong></p>
 
@@ -149,6 +145,10 @@ Para obter o recurso foi realizado um projeto preliminar pela prefeitura. Segund
 <p><br />
 Ent&atilde;o, quando parte dos recursos e a aquisi&ccedil;&atilde;o do terreno j&aacute; estavam encaminhados, os Sem Terra da cidade convidaram um coletivo de arquitetura especializado em projetos populares para colaborar nesse processo.</p>
 
+<figure class="image"><img alt="comuna_urbana_escola.jpg" src="http://farm1.staticflickr.com/531/18237931159_f2c24c3207_b.jpg" />
+<figcaption>Mais de 120 crian&ccedil;as de 0 a 12 anos, tanto da Comuna quanto do bairro, estudam na escola.</figcaption>
+</figure>
+
 <p><br />
 <strong>A consolida&ccedil;&atilde;o do projeto popular</strong></p>
 
@@ -159,11 +159,9 @@ Pautados na experi&ecirc;ncia do conceito de Comunas da Terra, j&aacute; reprodu
 &ldquo;A nossa ideia foi unir campo e cidade no protagonismo e no processo de constru&ccedil;&atilde;o e organiza&ccedil;&atilde;o das lutas contra este modelo social&quot;, aponta Aparecida.</p>
 
 <p><br />
-&ldquo;Assim, come&ccedil;amos as constru&ccedil;&otilde;es. Foram anos de luta at&eacute; a as primeiras estruturas ficarem prontas. Todo o processo contou com a participa&ccedil;&atilde;o dos moradores. N&atilde;o foi f&aacute;cil, mas t&iacute;nhamos um objetivo, e organizados, conseguimos ir adiante&rdquo;, relembra o Padre Jos&eacute; Carlos.<br />
-&nbsp;</p>
+&ldquo;Assim, come&ccedil;amos as constru&ccedil;&otilde;es. Foram anos de luta at&eacute; a as primeiras estruturas ficarem prontas. Todo o processo contou com a participa&ccedil;&atilde;o dos moradores. N&atilde;o foi f&aacute;cil, mas t&iacute;nhamos um objetivo, e organizados, conseguimos ir adiante&rdquo;, relembra o Padre Jos&eacute; Carlos.</p>
 
-<p><img alt="comuna_urbana_crianças2.jpg" src="http://farm1.staticflickr.com/403/18424093655_c73d52820f_b.jpg" /><br />
-<br />
+<p><br />
 <strong>Resultado</strong></p>
 
 <p><br />
@@ -185,9 +183,11 @@ Neles, os pequenos aprendem desde cedo a reconhecer o meio social em que vivem. 
 &quot;Em uma cidade como S&atilde;o Paulo, que tem um dos maiores d&eacute;ficits habitacional do mundo, participar da constru&ccedil;&atilde;o de um projeto que deu certo e pode ser a solu&ccedil;&atilde;o para um dos nossos maiores problemas &eacute; extremamente gratificante&rdquo;, aponta Aparecida.</p>
 
 <p><br />
-As a&ccedil;&otilde;es e atividades seguem durante todo o ano, e eventos entre os moradores da Comuna e da regi&atilde;o de Jandira garantem a integra&ccedil;&atilde;o entre a comunidade. A festa agostinha, que re&uacute;ne os moradores da regi&atilde;o e desfile de Carnaval, promovido pela Unidos da Lona Preta (escola de samba do MST), &eacute; um exemplo dessa intera&ccedil;&atilde;o.</p>
+As a&ccedil;&otilde;es e atividades seguem durante todo o ano, e eventos entre os moradores da Comuna e da regi&atilde;o de Jandira garantem a integra&ccedil;&atilde;o entre a comunidade. A festa agostinha, que re&uacute;ne os moradores da regi&atilde;o e desfile de Carnaval, promovido pela Unidos da Lona Preta (escola de samba do MST), &eacute; um exemplo dessa intera&ccedil;&atilde;o.<br />
+&nbsp;</p>
 
-<p><br />
+<p><img alt="comuna_urbana_crianças2.jpg" src="http://farm1.staticflickr.com/403/18424093655_c73d52820f_b.jpg" /><br />
+<br />
 <strong>Sobre o futuro</strong></p>
 
 <p><br />
