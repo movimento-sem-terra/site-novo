@@ -39,6 +39,7 @@ releated_posts:
 
 ---
 <p><img alt="jornada_paraná.jpg" src="http://farm8.staticflickr.com/7795/17801219173_7d8e351759_b.jpg" /><br />
+<br />
 <em>Por Riquieli Capitani<br />
 Da P&aacute;gina do MST</em></p>
 
