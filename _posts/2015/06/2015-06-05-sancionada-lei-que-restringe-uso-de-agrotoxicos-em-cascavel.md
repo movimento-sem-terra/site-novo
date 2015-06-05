@@ -4,7 +4,7 @@ tags:
   - tag: paraná
   - tag: agrotóxicos
   - tag: saúde
-title: Sancionada Lei Que Restringe Uso De Agrotóxicos Em Cascavel
+title: Cascavel sanciona lei que restringe o uso de agrotóxicos
 support_line: "A lei regulamenta o uso de agrotóxicos e proíbe sua utilização nas proximidades de escolas, Centros Municipais de Educação Infantil, núcleos residenciais e unidades de saúde."
 menu: agronegócio
 images_hd: "http://farm1.staticflickr.com/463/17868199263_bdf1c78f63_b.jpg"
