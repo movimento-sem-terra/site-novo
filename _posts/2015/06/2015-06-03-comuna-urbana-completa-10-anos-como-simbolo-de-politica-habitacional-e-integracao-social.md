@@ -6,7 +6,7 @@ tags:
   - tag: moradia
   - tag: mst
   - tag: comuna-urbana
-title: Comuna Urbana completa 10 anos como símbolo habitacional e integração social
+title: Primeiro projeto urbano de habitação popular do MST completa 10 anos
 menu: reforma agrária
 section: cover
 images_hd: "http://farm1.staticflickr.com/403/18424093655_c73d52820f_b.jpg"
