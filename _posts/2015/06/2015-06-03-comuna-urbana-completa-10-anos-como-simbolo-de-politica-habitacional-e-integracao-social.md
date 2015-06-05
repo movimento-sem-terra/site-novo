@@ -8,7 +8,7 @@ tags:
   - tag: comuna-urbana
 title: Primeiro projeto urbano de habitação popular do MST completa 10 anos
 menu: reforma agrária
-section: cover
+section: featured-news
 images_hd: "http://farm1.staticflickr.com/403/18424093655_c73d52820f_b.jpg"
 support_line: "Localizada na grande São Paulo, a Comuna Urbana Dom Hélder Câmara foi a primeira experiência do MST nas áreas urbanas."
 layout: post
