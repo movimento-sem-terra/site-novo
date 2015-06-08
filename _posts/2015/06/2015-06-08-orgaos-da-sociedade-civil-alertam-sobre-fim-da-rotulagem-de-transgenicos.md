@@ -5,16 +5,16 @@ tags:
   - tag: transgênicos
 title: Órgãos da sociedade civil alertam sobre fim da rotulagem de transgênicos
 menu: agronegócio
-images_hd: "http://farm9.staticflickr.com/8858/18617555341_f877785568_b.jpg"
+images_hd: "http://farm9.staticflickr.com/8853/18611125272_1d7a673705_b.jpg"
 support_line: Pesquisadora Idec e do Consea se demonstram contrárias a retirada do símbolo de transgênicos das embalagens dos alimentos.
 layout: post
 files:
-  - link: "http://farm9.staticflickr.com/8858/18617555341_f877785568_b.jpg"
-    thumbnail: "http://farm9.staticflickr.com/8858/18617555341_f877785568_t.jpg"
-    medium: "http://farm9.staticflickr.com/8858/18617555341_f877785568_z.jpg"
-    small: "http://farm9.staticflickr.com/8858/18617555341_f877785568_n.jpg"
-    title: rotulagem.png
-    $$hashKey: 0AM
+  - link: "http://farm9.staticflickr.com/8853/18611125272_1d7a673705_b.jpg"
+    thumbnail: "http://farm9.staticflickr.com/8853/18611125272_1d7a673705_t.jpg"
+    medium: "http://farm9.staticflickr.com/8853/18611125272_1d7a673705_z.jpg"
+    small: "http://farm9.staticflickr.com/8853/18611125272_1d7a673705_n.jpg"
+    title: transgenico.jpg
+    $$hashKey: "052"
 created_date: "2015-06-08T18:14:48-03:00"
 published: true
 releated_posts:
@@ -25,8 +25,11 @@ releated_posts:
   - 2015/05/2015-05-07-hoje-e-legal-contaminar-alguem-com-agrotoxico-no-brasil-critica-procurador.md
 
 ---
-<p><img alt="rotulagem.png" src="http://farm9.staticflickr.com/8858/18617555341_f877785568_b.jpg" /><br />
-<em>Por Andreia Verd&eacute;lio<br />
+<figure class="image" style="float:right"><img alt="transgenico.jpg" src="http://farm9.staticflickr.com/8853/18611125272_1d7a673705_b.jpg" />
+<figcaption></figcaption>
+</figure>
+
+<p><em>Por Andreia Verd&eacute;lio<br />
 Da Ag&ecirc;ncia Brasil</em></p>
 
 <p><br />
