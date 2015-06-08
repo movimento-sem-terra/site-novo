@@ -5,7 +5,7 @@ tags:
   - tag: ministro-das--cidades
   - tag: minha-casa-minha-vida
   - tag: reforma-agrária
-title: "No Ceará, sem terra cobra avanços no programa de habitação rural para o Ministro das Cidades"
+title: Sem Terra cobram avanços no programa de habitação rural para o Ministro das Cidades
 images_hd: "http://farm1.staticflickr.com/416/18413470050_427165ae02_b.jpg"
 support_line: "Durante reunião, Kassab destacou a importância do programa e que o governo da presidenta Dilma tem o compromisso de não fazer cortes no Minha Casa Minha Vida."
 menu: reforma agrária
@@ -29,10 +29,10 @@ releated_posts:
 <p><img alt="11407276_10203232342489718_8347250240962391264_n.jpg" src="http://farm1.staticflickr.com/416/18413470050_427165ae02_b.jpg" /></p>
 
 <p><em>Por Marcelo Matos&nbsp;<br />
-Para&nbsp;P&aacute;gina do MST</em></p>
+Da&nbsp;P&aacute;gina do MST</em></p>
 
 <p><br />
-Na &uacute;ltima quarta-feira (03), a coordena&ccedil;&atilde;o do MST no estado do Cear&aacute; se reuniu com o Ministro das Cidades, Gilberto Kassab, e cobrou avan&ccedil;os na constru&ccedil;&atilde;o de habita&ccedil;&otilde;es do programa Minha Casa Minha Vida (MCMV) para as fam&iacute;lias sem terra.</p>
+Na &uacute;ltima quarta-feira (3), a coordena&ccedil;&atilde;o do MST no estado do Cear&aacute; se reuniu com o Ministro das Cidades, Gilberto Kassab, e cobrou avan&ccedil;os na constru&ccedil;&atilde;o de habita&ccedil;&otilde;es do programa Minha Casa Minha Vida (MCMV) para as fam&iacute;lias sem terra.</p>
 
 <p><br />
 Durante a reuni&atilde;o, Kassab destacou a import&acirc;ncia do programa e que o governo da presidenta Dilma tem o compromisso de n&atilde;o fazer cortes no Minha Casa Minha Vida. &quot;&Eacute; um dos programas que n&atilde;o vai ter cortes. Vamos contratar mais unidades este ano&rdquo;, afirmou.</p>
