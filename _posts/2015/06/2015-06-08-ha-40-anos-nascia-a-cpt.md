@@ -6,7 +6,7 @@ tags:
   - tag: agricultura-camponesa
   - tag: sem-terra
   - tag: direitos-humanos
-title: Há 40 anos nascia a CPT
+title: Há 40 anos nascia a Comissão Pastoral da Terra
 support_line: "\"Por se tratar de uma ação ligada à Igreja, era importante ressaltar seu aspecto pastoral. Assim passou a se denominar Comissão Pastoral da Terra”, comenta Antônio Canuto."
 menu: direitos humanos
 label: articles
