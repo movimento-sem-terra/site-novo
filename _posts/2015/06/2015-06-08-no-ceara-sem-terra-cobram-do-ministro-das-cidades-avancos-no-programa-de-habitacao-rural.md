@@ -30,16 +30,14 @@ releated_posts:
 <p><em>Por Marcelo Matos&nbsp;<br />
 Da&nbsp;P&aacute;gina do MST</em></p>
 
-<p>&nbsp;</p>
+<p><br />
+Os Sem Terra do estado do Cear&aacute; se reuniram com o Ministro das Cidades, Gilberto Kassab, e cobraram avan&ccedil;os na constru&ccedil;&atilde;o de habita&ccedil;&otilde;es rurais do programa Minha Casa Minha Vida (MCMV) durante reuni&atilde;o realizada na &uacute;ltima quarta-feira (3).</p>
 
 <p><br />
-Os Sem Terra do estado do Cear&aacute; se reuniram com o Ministro das Cidades, Gilberto Kassab, e cobraram avan&ccedil;os na constru&ccedil;&atilde;o de habita&ccedil;&otilde;es do programa Minha Casa Minha Vida (MCMV) para o campo.</p>
+Al&eacute;m da constru&ccedil;&atilde;o de novas casas, os Sem Terra tamb&eacute;m pressionaram pela libera&ccedil;&atilde;o de recursos para a reforma de 10 mil casas nos assentamentos do Cear&aacute;.</p>
 
 <p><br />
-Al&eacute;m de cobrar avan&ccedil;os na constru&ccedil;&atilde;o das habita&ccedil;&otilde;es durante a reuni&atilde;o na &uacute;ltima quarta-feira (3), os Sem Terra tamb&eacute;m pressionaram pela libera&ccedil;&atilde;o de recursos, ainda para este ano, para a reforma de 10 mil casas nos assentamentos do Cear&aacute;.</p>
-
-<p><br />
-Antonio Pereira, da coordena&ccedil;&atilde;o estadual do MST, ressaltou a enorme burocratiza&ccedil;&atilde;o do programa e a necessidade de torna-lo mais flex&iacute;vel.</p>
+Antonio Pereira, da coordena&ccedil;&atilde;o estadual do MST, ressaltou a enorme burocratiza&ccedil;&atilde;o do programa e a necessidade de torn&aacute;-lo mais flex&iacute;vel.</p>
 
 <p><br />
 &ldquo;Em outros estados j&aacute; conseguimos avan&ccedil;ar, mas no Cear&aacute; ainda n&atilde;o reformamos nenhuma unidade por causa da burocracia. Somos mais de 25 mil fam&iacute;lias assentadas e estamos cobrando somente uma parte para o ano de 2015. Temos casas de 1989 que recebeu o primeiro cr&eacute;dito e precisa ser reformada urgente&rdquo;, salientou.</p>
