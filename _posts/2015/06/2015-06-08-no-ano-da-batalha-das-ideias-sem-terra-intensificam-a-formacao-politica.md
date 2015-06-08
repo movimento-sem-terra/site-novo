@@ -40,7 +40,7 @@ Durante um m&ecirc;s, cerca de 100 militantes do MST da regi&atilde;o sul partic
 O grupo heterog&ecirc;neo, de jovens, adultos e idosos Sem Terra faz parte do que o MST denominou do ano da forma&ccedil;&atilde;o pol&iacute;tica e da batalha das ideias. A ideia &eacute; que ao longo de todo o ano de 2015, o maior n&uacute;mero de trabalhadores rurais Sem Terra possa realizar cursos formativos por todo o Brasil.</p>
 
 <p><br />
-Keli Pirez, acampada no Terra Livre, em Canoinhas (SC), avalia a import&acirc;ncia da forma&ccedil;&atilde;o pol&iacute;tica e ideol&oacute;gica, que ajudam a &ldquo;trazer elementos da organiza&ccedil;&atilde;o e da pol&iacute;tica, que depois possamos debater com as fam&iacute;lias e com a sociedade que n&atilde;o conhece o MST&rdquo;.</p>
+Keli Pirez, acampada no Terra Livre, em Canoinhas (SC), avalia a import&acirc;ncia da forma&ccedil;&atilde;o pol&iacute;tica e ideol&oacute;gica, que ajudam a &ldquo;trazer elementos da organiza&ccedil;&atilde;o e da pol&iacute;tica, que depois podemos debater com as fam&iacute;lias e com a sociedade que n&atilde;o conhece o MST&rdquo;.</p>
 
 <p><br />
 J&aacute; para Bruna Lavratti, acampada no Euclides dos Santos Rodrigues, em Abelardo Luz (SC), a turma teve grandes avan&ccedil;os no crescimento pol&iacute;tico e organizativo. &ldquo;O curso proporcionou momentos de luta, reuni&otilde;es e a conviv&ecirc;ncia entre os companheiros do curso e das fam&iacute;lias acampadas&rdquo;.</p>
