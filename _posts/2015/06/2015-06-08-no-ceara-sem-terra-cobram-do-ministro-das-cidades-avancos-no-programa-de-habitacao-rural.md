@@ -5,7 +5,7 @@ tags:
   - tag: ministro-das--cidades
   - tag: minha-casa-minha-vida
   - tag: reforma-agrária
-title: "No Ceará, sem terra cobram do Ministro das Cidades  avanços no programa de habitação rural "
+title: "No Ceará, sem terra cobra avanços no programa de habitação rural para o Ministro das Cidades"
 images_hd: "http://farm1.staticflickr.com/416/18413470050_427165ae02_b.jpg"
 support_line: "Durante reunião, Kassab destacou a importância do programa e que o governo da presidenta Dilma tem o compromisso de não fazer cortes no Minha Casa Minha Vida."
 menu: reforma agrária
