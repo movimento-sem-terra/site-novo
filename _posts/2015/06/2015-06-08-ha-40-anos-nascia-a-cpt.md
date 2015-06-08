@@ -29,6 +29,10 @@ releated_posts:
   - 2014/12/2014-11-04-nos-marxistas-lutamos-junto-com-o-papa-para-parar-o-diabo.md
 
 ---
+<figure class="image" style="float:right"><img alt="CONVITE LANÇAMENTO.jpg" src="http://farm1.staticflickr.com/267/17980809264_c49103dfff_b.jpg" />
+<figcaption></figcaption>
+</figure>
+
 <p><br />
 <em>Por Ant&ocirc;nio Canuto<br />
 Da CPT</em></p>
