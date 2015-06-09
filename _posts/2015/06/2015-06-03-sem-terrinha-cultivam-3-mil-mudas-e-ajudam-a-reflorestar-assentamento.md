@@ -47,7 +47,7 @@ releated_posts:
   - 2015/05/2015-05-20-educacao-no-campo-a-estrategia-dos-usurpadores.md
   - 2015/06/2015-06-03-herdeiros-da-luta.md
   - 2015/01/2015-01-19-durante-encontro-ciranda-infantil-leva-estudo-cultura-e-diversao-aos-sem-terrinha.md
-section: cover
+section: featured-news
 
 ---
 <p><img alt="mudas_sem terrinha.jpg" src="http://farm1.staticflickr.com/535/18423704132_554c710c5f_b.jpg" /><br />
