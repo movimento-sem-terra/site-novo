@@ -26,10 +26,10 @@ releated_posts:
 <p><br />
 <em>Da Adital</em></p>
 
-<p>Durante os dias 30 e 31 de maio, representantes ind&iacute;genas&nbsp;da regi&atilde;o amaz&ocirc;nica se reuniram para debater a demarca&ccedil;&atilde;o&nbsp;<span style="line-height: 20.7999992370605px;">de suas&nbsp;terras e&nbsp;socializar os processos de&nbsp;lutas e desafios enfrentadas por suas&nbsp;comunidades.</span></p>
+<p>Durante os dias 30 e 31 de maio, representantes ind&iacute;genas&nbsp;da regi&atilde;o amaz&ocirc;nica realizaram um&nbsp;<span style="line-height: 20.7999992370605px;">Encontro sobre demarca&ccedil;&atilde;o das terras ind&iacute;genas. O objetivo foi&nbsp;</span>debater <span style="line-height: 20.7999992370605px;">e&nbsp;socializar os processos de&nbsp;lutas e desafios enfrentadas por suas&nbsp;comunidades relacionadas &agrave; quest&atilde;o.</span></p>
 
 <p><br />
-<span style="line-height: 20.7999992370605px;">No Encontro sobre demarca&ccedil;&atilde;o de terras ind&iacute;genas,&nbsp;que ocorreu no Centro de Forma&ccedil;&atilde;o Xare em Manaus,&nbsp;foi constru&iacute;do um&nbsp;Documento final onde os povos ind&iacute;genas denunciam&nbsp;</span>o governo por omiss&atilde;o&nbsp;na demarca&ccedil;&atilde;o <span style="line-height: 20.7999992370605px;">e exigem&nbsp;respeito aos seus direitos, assim como determina a &nbsp;Constitui&ccedil;&atilde;o Federal da OIT.&nbsp;</span></p>
+<span style="line-height: 20.7999992370605px;">A atividade&nbsp;ocorreu no Centro de Forma&ccedil;&atilde;o Xare em Manaus e saiu com&nbsp;um&nbsp;Documento final, onde os ind&iacute;genas&nbsp;denunciam&nbsp;</span>o governo por omiss&atilde;o&nbsp;na demarca&ccedil;&atilde;o <span style="line-height: 20.7999992370605px;">e exigem&nbsp;respeito aos seus direitos, assim como determina a &nbsp;Constitui&ccedil;&atilde;o Federal da OIT.&nbsp;</span></p>
 
 <p><br />
 Confira abaixo:&nbsp;</p>
