@@ -21,12 +21,16 @@ published: true
 releated_posts:
   - 2015/04/2015-04-16-mobilizacao-nacional-indigena-promove-atos-em-todo-o-pais.md
   - 2015/05/2015-05-27-maioria-dos-senadores-rejeita-a-pec-215.md
+  - 2015/03/2015-03-18-ruralistas-elegem-presidente-e-nomeiam-relator-de-comissao-que-vai-analisar-pec-215.md
+  - 2015/03/2015-03-20-ruralistas-investigados-por-invasao-de-territorios-indigenas-farao-relatorio-da-pec-215.md
 
 ---
-<p><br />
+<p><img alt="indígenas.jpg" src="http://farm1.staticflickr.com/280/18671258792_b6e39f5ffe_b.jpg" /><br />
+<br />
 <em>Da Adital</em></p>
 
-<p>Durante os dias 30 e 31 de maio, representantes ind&iacute;genas&nbsp;da regi&atilde;o amaz&ocirc;nica realizaram um&nbsp;<span style="line-height: 20.7999992370605px;">Encontro sobre demarca&ccedil;&atilde;o das terras ind&iacute;genas. O objetivo foi&nbsp;</span>debater <span style="line-height: 20.7999992370605px;">e&nbsp;socializar os processos de&nbsp;lutas e desafios enfrentadas por suas&nbsp;comunidades relacionadas &agrave; quest&atilde;o.</span></p>
+<p><br />
+Durante os dias 30 e 31 de maio, representantes ind&iacute;genas&nbsp;da regi&atilde;o amaz&ocirc;nica realizaram um&nbsp;<span style="line-height: 20.7999992370605px;">Encontro sobre demarca&ccedil;&atilde;o das terras ind&iacute;genas. O objetivo foi&nbsp;</span>debater <span style="line-height: 20.7999992370605px;">e&nbsp;socializar os processos de&nbsp;lutas e desafios enfrentadas por suas&nbsp;comunidades relacionadas &agrave; quest&atilde;o.</span></p>
 
 <p><br />
 <span style="line-height: 20.7999992370605px;">A atividade&nbsp;ocorreu no Centro de Forma&ccedil;&atilde;o Xare em Manaus e saiu com&nbsp;um&nbsp;Documento final, onde os ind&iacute;genas&nbsp;denunciam&nbsp;</span>o governo por omiss&atilde;o&nbsp;na demarca&ccedil;&atilde;o <span style="line-height: 20.7999992370605px;">e exigem&nbsp;respeito aos seus direitos, assim como determina a &nbsp;Constitui&ccedil;&atilde;o Federal da OIT.&nbsp;</span></p>
