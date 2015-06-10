@@ -48,7 +48,9 @@ Esse complexo &eacute; o maior da mineradora, que por sua vez &eacute; a maior p
 O n&uacute;mero de acidentes, para o juiz, mostra o &ldquo;grave descumprimento de normas b&aacute;sicas e elementares de seguran&ccedil;a, sa&uacute;de e medicina do trabalho.&rdquo; N&atilde;o se tratariam de casos isolados, como argumenta a empresa em sua defesa que consta na senten&ccedil;a, mas de um processo amplo de desrespeito a normas b&aacute;sicas de seguran&ccedil;a. Dois exemplos s&atilde;o a falta de ilumina&ccedil;&atilde;o para atividades durante a madrugada e barreiras de seguran&ccedil;a que evitem a queda de funcion&aacute;rios no mar.</p>
 
 <p><br />
-O magistrado afirma ainda que a empresa teria aumentado seus lucros &ldquo;&agrave; custa de les&otilde;es de trabalhadores&rdquo;. Por fim, o juiz alega que a empresa adulterou e suprimiu documentos entregues ao Minist&eacute;rio P&uacute;blico do Trabalho durante a investiga&ccedil;&atilde;o, a chamada &ldquo;litig&acirc;ncia de m&aacute;-f&eacute;&rdquo;.<br />
+O magistrado afirma ainda que a empresa teria aumentado seus lucros &ldquo;&agrave; custa de les&otilde;es de trabalhadores&rdquo;. Por fim, o juiz alega que a empresa adulterou e suprimiu documentos entregues ao Minist&eacute;rio P&uacute;blico do Trabalho durante a investiga&ccedil;&atilde;o, a chamada &ldquo;litig&acirc;ncia de m&aacute;-f&eacute;&rdquo;.</p>
+
+<p><br />
 Procurada pela reportagem, a Vale disse que n&atilde;o comentaria a decis&atilde;o e os acidentes antes de ser notificada pela Justi&ccedil;a.<br />
 <br />
 <strong>10 milh&otilde;es: valor &ldquo;&iacute;nfimo&rdquo;</strong></p>
