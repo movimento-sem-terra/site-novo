@@ -28,7 +28,9 @@ releated_posts:
   - 2015/01/2015-01-23-comissao-pastoral-da-terra-envia-carta-a-presidente-dilma.md
 
 ---
-<p><img alt="cpt500.jpg" src="http://farm1.staticflickr.com/560/18049554724_6c97b45791_b.jpg" /></p>
+<figure class="image" style="float:right"><img alt="cpt500.jpg" src="http://farm1.staticflickr.com/560/18049554724_6c97b45791_b.jpg" />
+<figcaption>Legenda</figcaption>
+</figure>
 
 <p><em>Por Jacques Tavora Alfonsin</em></p>
 
