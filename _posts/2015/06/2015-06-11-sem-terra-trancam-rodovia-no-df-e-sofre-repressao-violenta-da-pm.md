@@ -30,13 +30,16 @@ section: cover
 <em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Na manh&atilde; desta quinta feira (11), cerca de 200 fam&iacute;lias sem terra do Distrito Federal trancaram a BR 040, na altura do Colorado, para pressionar o Governo &agrave; agilizar o processo de vistorias de seis &aacute;reas p&uacute;blicas&nbsp;e suspender as reintegra&ccedil;&otilde;es de posse previstas para os acampamentos Oito de mar&ccedil;o e Roseli Nunes.&nbsp;</p>
+Na manh&atilde; desta quinta feira (11), cerca de 200 fam&iacute;lias Sem Terra do Distrito Federal trancaram a BR 040, na altura do Colorado, para pressionar o governo &agrave; agilizar o processo de vistorias de seis &aacute;reas p&uacute;blicas&nbsp;e suspender as reintegra&ccedil;&otilde;es de posse previstas para os acampamentos Oito de Mar&ccedil;o e Roseli Nunes.&nbsp;</p>
 
 <p><br />
-<span style="line-height: 20.7999992370605px;">No entanto, as fam&iacute;lias foram tratadas de forma truculenta e agressiva pela tropa de choque da PM, que fez uso de proj&eacute;teis de borracha e bombas de g&aacute;s, resultando em alguns companheiros detidos e v&aacute;rios outros feridos, um deles se encontra hospitalizado, a suspeita &eacute; de que um desses proj&eacute;teis tenha sido&nbsp;real e n&atilde;o de borracha</span><span style="line-height: 20.7999992370605px;">.</span></p>
+<span style="line-height: 20.7999992370605px;">No entanto, as fam&iacute;lias foram tratadas de forma truculenta e agressiva pela tropa de choque da PM, que fez uso de proj&eacute;teis de borracha e bombas de g&aacute;s. </span></p>
 
 <p><br />
-De acordo Marco Antonio Baratto, da coordena&ccedil;&atilde;o MST no DF, &quot;o objetivo da a&ccedil;&atilde;o foi dar visibilidade &agrave; quest&atilde;o agr&aacute;ria no DF. Uma vez que, a especula&ccedil;&atilde;o imobili&aacute;ria, a grilagem de terras e o agroneg&oacute;cio avan&ccedil;am, ao mesmo tempo em que, as pol&iacute;ticas p&uacute;blicas de Reforma Agr&aacute;ria est&atilde;o travadas.&quot;</p>
+<span style="line-height: 20.7999992370605px;">Alguns trabalhadores rurais foram detidos e v&aacute;rios outros feridos. Um deles se encontra hospitalizado, e h&aacute; suspeita &eacute; de que um desses proj&eacute;teis tenha sido&nbsp;real e n&atilde;o de borracha</span><span style="line-height: 20.7999992370605px;">.</span></p>
 
 <p><br />
-Atualmente o DF tem cerca de mil fam&iacute;lias sem terra acampadas e a morosidade do governo n&atilde;o tem contribu&iacute;do para a cria&ccedil;&atilde;o de novos assentamentos ou sequer vistorias das &aacute;reas.</p>
+De acordo Marco Antonio Baratto, da coordena&ccedil;&atilde;o do MST no DF, &quot;o objetivo da a&ccedil;&atilde;o foi dar visibilidade &agrave; quest&atilde;o agr&aacute;ria no DF. Enquanto a especula&ccedil;&atilde;o imobili&aacute;ria, a grilagem de terras e o agroneg&oacute;cio avan&ccedil;am, as pol&iacute;ticas p&uacute;blicas de Reforma Agr&aacute;ria est&atilde;o travadas.&quot;</p>
+
+<p><br />
+Atualmente o DF tem cerca de 1.000 fam&iacute;lias Sem Terra acampadas, e a morosidade do governo, segundo Baratto, n&atilde;o tem contribu&iacute;do para a cria&ccedil;&atilde;o de novos assentamentos ou sequer vistorias das &aacute;reas.</p>
