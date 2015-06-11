@@ -26,6 +26,7 @@ releated_posts:
   - 2015/05/2015-05-21-projeto-visa-fortalecer-debate-da-soberania-alimentar-nas-escolas-dos-assentamentos.md
   - 2015/05/2015-05-26-encontro-no-rs-discute-producao-de-sementes-agroecologicas-e-crioulas.md
   - 2015/05/2015-05-15-agricultura-atual-nao-e-sustentavel-afirma-diretor-geral-da-fao.md
+section: featured-news
 
 ---
 <p>&nbsp;</p>
