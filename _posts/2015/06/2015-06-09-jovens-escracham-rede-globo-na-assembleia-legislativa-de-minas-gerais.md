@@ -7,7 +7,7 @@ tags:
   - tag: comunicação
 title: Jovens escracham Rede Globo na Assembleia Legislativa de Minas Gerais
 support_line: "Ação aconteceu nesta segunda (8), enquanto deputados homenageavam a emissora em reunião especial."
-section: cover
+section: featured-news
 menu: "educação, cultura e comunicação"
 images_hd: "http://farm1.staticflickr.com/262/18450265808_2e9b67883b_b.jpg"
 layout: post
