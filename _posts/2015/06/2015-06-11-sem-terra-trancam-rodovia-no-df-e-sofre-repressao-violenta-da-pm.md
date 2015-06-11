@@ -8,15 +8,15 @@ tags:
 title: Sem terra trancam rodovia no DF e sofre repressão violenta da PM
 support_line: "As famílias foram tratadas de forma truculenta e agressiva pela tropa de choque da PM, que fez uso de projéteis de borracha e bombas de gás"
 menu: lutas e mobilizações
-images_hd: "http://farm1.staticflickr.com/439/18705938995_3197330564_b.jpg"
+images_hd: "http://farm1.staticflickr.com/351/18519963219_f1d01c866f_b.jpg"
 layout: post
 files:
-  - link: "http://farm1.staticflickr.com/439/18705938995_3197330564_b.jpg"
-    thumbnail: "http://farm1.staticflickr.com/439/18705938995_3197330564_t.jpg"
-    medium: "http://farm1.staticflickr.com/439/18705938995_3197330564_z.jpg"
-    small: "http://farm1.staticflickr.com/439/18705938995_3197330564_n.jpg"
-    title: morte-no-campo.jpg
-    $$hashKey: 04V
+  - link: "http://farm1.staticflickr.com/351/18519963219_f1d01c866f_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/351/18519963219_f1d01c866f_t.jpg"
+    medium: "http://farm1.staticflickr.com/351/18519963219_f1d01c866f_z.jpg"
+    small: "http://farm1.staticflickr.com/351/18519963219_f1d01c866f_n.jpg"
+    title: latifundio_mata.jpg
+    $$hashKey: 0EY
 created_date: "2015-06-11T10:26:35-03:00"
 published: true
 releated_posts:
