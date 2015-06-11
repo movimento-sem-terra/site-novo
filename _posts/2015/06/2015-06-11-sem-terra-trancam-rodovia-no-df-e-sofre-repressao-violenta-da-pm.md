@@ -23,7 +23,7 @@ releated_posts:
   - 2015/05/2015-05-22-sem-terra-ocupam-fazenda-abandonada-em-go.md
   - 2015/06/2015-06-03-entre-o-acesso-social-a-terra-e-a-repressao-i-legal-desse-direito.md
   - 2015/04/2015-04-14-aumenta-a-violencia-no-campo-e-os-sem-terra-se-transformam-em-alvo-principal.md
-section: cover
+section: null
 
 ---
 <p><br />
