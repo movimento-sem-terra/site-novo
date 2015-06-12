@@ -5,7 +5,7 @@ tags:
   - tag: jornada-de-agroecologia
   - tag: guerra-do-contestado
 images_hd: "http://farm1.staticflickr.com/497/18557060270_9206890b02_b.jpg"
-title: "Na 14ª Jornada túnel do tempo trará história dos 100 anos da Guerra do Contestado "
+title: Túnel do tempo trará história dos 100 anos da Guerra do Contestado na jornada de agroecologia
 support_line: "A ideia é contar a história do povo para entendê-la como exemplo de rebeldia e resistência, de luta camponesa e popular que não pode ser esquecida.\n"
 menu: projeto popular
 layout: post
