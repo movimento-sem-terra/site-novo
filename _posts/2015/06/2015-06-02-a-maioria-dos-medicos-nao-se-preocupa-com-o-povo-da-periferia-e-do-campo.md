@@ -37,6 +37,7 @@ releated_posts:
   - 2014/08/2014-08-14-vinte-e-cinco-militantes-do-mst-se-formam-em-medicina-em-cuba.md
   - 2015/05/2015-05-14-politicas-publicas-prioridade-para-alimentos-saudaveis.md
   - 2014/08/2014-08-08-agricultura-cubana-mostra-a-importancia-dos-bioinsumos-para-producao-saudavel.md
+label: interviews
 
 ---
 <figure class="image" style="float:right"><img alt="everton_-_mais_médicos!.jpg" src="http://farm9.staticflickr.com/8783/18206223939_f9caf7c4fb_b.jpg" />
