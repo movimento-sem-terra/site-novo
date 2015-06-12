@@ -31,6 +31,7 @@ releated_posts:
 
 ---
 <p><img alt="20150610_200948.jpg" src="http://farm1.staticflickr.com/471/18552820439_345503df5a_b.jpg" /><br />
+<br />
 <em>Por Catiana de Medeiros<br />
 Para P&aacute;gina do MST</em></p>
 
@@ -47,7 +48,8 @@ O presidente da ACJM/RS, Ricardo Haesbaert, agradeceu a todas as pessoas que par
 A embaixadora Marielena comentou sobre a&nbsp;mudan&ccedil;a de cen&aacute;rio com a reaproxima&ccedil;&atilde;o diplom&aacute;tica de Cuba e EUA, e declarou que o povo cubano ter&aacute; que enfrentar um processo ainda mais complexo: lutar pelo fim do bloqueio econ&ocirc;mico e comercial.&nbsp;</p>
 
 <p><br />
-&ldquo;O cen&aacute;rio mudou, mas a luta tem que continuar porque n&oacute;s, revolucion&aacute;rios, n&atilde;o podemos nos dar o luxo de descansar. E para encararmos mais essa luta, n&oacute;s continuaremos contando com o apoio dos brasileiros e, especialmente, da Associa&ccedil;&atilde;o Cultural Jos&eacute; Mart&iacute;, que muito fez pela liberta&ccedil;&atilde;o dos nossos cinco prisioneiros antiterroristas&rdquo;, explicou.</p>
+&ldquo;O cen&aacute;rio mudou, mas a luta tem que continuar porque n&oacute;s, revolucion&aacute;rios, n&atilde;o podemos nos dar o luxo de descansar. E para encararmos mais essa luta, n&oacute;s continuaremos contando com o apoio dos brasileiros e, especialmente, da Associa&ccedil;&atilde;o Cultural Jos&eacute; Mart&iacute;, que muito fez pela liberta&ccedil;&atilde;o dos nossos cinco prisioneiros antiterroristas&rdquo;, explicou.<br />
+&nbsp;</p>
 
 <p><img alt="20150610_195009.jpg" src="http://farm1.staticflickr.com/436/18118462153_0ed75002ec_b.jpg" /><br />
 <br />
