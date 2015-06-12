@@ -30,7 +30,7 @@ releated_posts:
   - 2015/01/2015-01-21-falece-a-pedagoga-cubana-criadora-do-programa-de-alfabetizacao-sim-eu-posso.md
 
 ---
-<p><br />
+<p><img alt="20150610_200948.jpg" src="http://farm1.staticflickr.com/471/18552820439_345503df5a_b.jpg" /><br />
 <em>Por Catiana de Medeiros<br />
 Para P&aacute;gina do MST</em></p>
 
@@ -49,7 +49,8 @@ A embaixadora Marielena comentou sobre a&nbsp;mudan&ccedil;a de cen&aacute;rio c
 <p><br />
 &ldquo;O cen&aacute;rio mudou, mas a luta tem que continuar porque n&oacute;s, revolucion&aacute;rios, n&atilde;o podemos nos dar o luxo de descansar. E para encararmos mais essa luta, n&oacute;s continuaremos contando com o apoio dos brasileiros e, especialmente, da Associa&ccedil;&atilde;o Cultural Jos&eacute; Mart&iacute;, que muito fez pela liberta&ccedil;&atilde;o dos nossos cinco prisioneiros antiterroristas&rdquo;, explicou.</p>
 
-<p><br />
+<p><img alt="20150610_195009.jpg" src="http://farm1.staticflickr.com/436/18118462153_0ed75002ec_b.jpg" /><br />
+<br />
 Depois de receber diversas homenagens, o cubano Gerardo Hern&aacute;ndez agradeceu o apoio recebido durante os 16 anos que esteve na pris&atilde;o, frisando que a mobiliza&ccedil;&atilde;o e solidariedade do povo brasileiro&nbsp;foi fundamental para o conhecimento mundial da causa, a liberta&ccedil;&atilde;o e resist&ecirc;ncia dos cinco.</p>
 
 <p><br />
