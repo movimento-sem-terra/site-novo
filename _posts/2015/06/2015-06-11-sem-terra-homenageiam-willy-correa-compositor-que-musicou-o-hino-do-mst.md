@@ -108,7 +108,7 @@ A complexidade com que foi formulado originalmente, aos poucos foi minimamente s
 Com a letra de Ademar Bogo, escrita em 1987, e musicado em 1988 por Willy Corr&ecirc;a, o hino do MST passou ent&atilde;o a representar, <a href="http://www.mst.org.br/nossos-simbolos/">junto a outros s&iacute;mbolos do Movimento - como a bandeira -,</a> as lutas que se desenhavam naquele per&iacute;odo, um signo da unidade em torno de um ideal e que se constitui na m&iacute;stica do povo Sem Terra.</p>
 
 <p><br />
-&ldquo;O hino nos constitui enquanto militantes do MST e da classe trabalhadora. Todas as vezes que o cantamos, reafirmamos nosso compromisso com a luta pela terra, pela Reforma Agr&aacute;ria e pela transforma&ccedil;&atilde;o social&rdquo;, disse a Sem Terra paraense Divina Lopes.</p>
+&ldquo;O hino nos constitui enquanto militantes do MST e da classe trabalhadora. Todas as vezes que o cantamos, reafirmamos nosso compromisso com a luta pela terra, pela Reforma Agr&aacute;ria e pela transforma&ccedil;&atilde;o social&rdquo;, disse a Sem Terra maranhense Divina Lopes.</p>
 
 <p><br />
 <strong>Willy C&ocirc;rrea de Oliveira</strong></p>
