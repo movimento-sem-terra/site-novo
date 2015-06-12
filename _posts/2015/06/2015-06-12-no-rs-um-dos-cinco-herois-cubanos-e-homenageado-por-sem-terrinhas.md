@@ -33,7 +33,7 @@ releated_posts:
 <p><img alt="20150610_200948.jpg" src="http://farm1.staticflickr.com/471/18552820439_345503df5a_b.jpg" /><br />
 <br />
 <em>Por Catiana de Medeiros<br />
-Para P&aacute;gina do MST</em></p>
+Da P&aacute;gina do MST</em></p>
 
 <p><br />
 Na &uacute;ltima quarta-feira (10), Sem Terrinha do assentamento Filhos de Sep&eacute;, no munic&iacute;pio de Viam&atilde;o (RS), homenagearam Gerardo Hern&aacute;ndez &ndash; um dos cinco her&oacute;is cubanos &ndash;, que passou 16 anos (1998-2014) preso nos Estados Unidos (EUA), acusado por espionagem e terrorismo.</p>
