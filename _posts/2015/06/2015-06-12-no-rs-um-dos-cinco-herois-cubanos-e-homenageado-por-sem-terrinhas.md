@@ -5,7 +5,7 @@ tags:
   - tag: presos-cubanos
   - tag: cuba
 title: "No RS, um dos cinco heróis cubanos é homenageado por sem terrinhas "
-support_line: "A homenagem fez parte de um ato receptivo a Hernández, que veio a Porto Alegre agradecer o apoio que ele e os outros quatro heróis."
+support_line: "A homenagem fez parte de um ato receptivo a Hernández, que veio a Porto Alegre agradecer o apoio que ele e os outros quatro heróis que estiveram presos nos EUA."
 menu: solidariedade
 images_hd: "http://farm1.staticflickr.com/471/18552820439_345503df5a_b.jpg"
 layout: post
