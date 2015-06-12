@@ -4,8 +4,8 @@ tags:
   - tag: reforma-agrária
   - tag: feira-reforma-agrária
   - tag: agroecologia
-title: Feiras Agroecológicas ocupam as ruas das cidades do extremo sul da Bahia
-support_line: "Mais de 150 trabalhadores apresentaram seus produtos para população com objetivo de fortalecer a jornada anual de feiras agroecológicas que ocorre em diversas cidades da região. "
+title: Feiras agroecológicas ocupam as ruas das cidades do extremo sul da Bahia
+support_line: "Mais de 150 trabalhadores apresentaram seus produtos, e puderam fortalecer a jornada anual de feiras agroecológicas."
 menu: reforma agrária
 images_hd: "http://farm1.staticflickr.com/261/18739786461_d962ec55bf_b.jpg"
 layout: post
@@ -32,21 +32,22 @@ releated_posts:
   - 2015/06/2015-06-03-sem-terrinha-cultivam-3-mil-mudas-e-ajudam-a-reflorestar-assentamento.md
   - 2015/05/2015-05-27-encontro-debate-producao-agroecologica-e-preservacao-das-sementes-crioulas.md
   - 2015/05/2015-05-28-trabalhadores-sem-terra-debatem-producao-agroecologica-na-bahia.md
+sector: production
 
 ---
 <p><img alt="11393191_902969149775800_1173952931476139402_n.jpg" src="http://farm1.staticflickr.com/261/18739786461_d962ec55bf_b.jpg" /></p>
 
 <p><em>Por Wesley Lima&nbsp;<br />
-Da Pagina do MST</em></p>
+Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Neste ultimo s&aacute;bado (06), t<span style="line-height: 20.7999992370605px;">rabalhadores Sem Terra realizaram a&nbsp;</span>2&ordm; Feira da Reforma Agr&aacute;ria em Itabela, extremo sul da Bahia, com produtos agroecol&oacute;gicos da produ&ccedil;&atilde;o 13 Assentamentos e Acampamentos do MST.</p>
+Neste &uacute;ltimo s&aacute;bado (6), t<span style="line-height: 20.7999992370605px;">rabalhadores Sem Terra realizaram a&nbsp;</span>2&ordm; Feira da Reforma Agr&aacute;ria em Itabela, extremo sul da Bahia, com produtos agroecol&oacute;gicos de 13 assentamentos e acampamentos do MST.</p>
 
 <p><br />
-Mais de 150 trabalhadores apresentaram seus produtos para popula&ccedil;&atilde;o com objetivo de fortalecer a jornada anual de feiras agroecol&oacute;gicas que est&aacute; acontecendo em diversas cidades da regi&atilde;o.&nbsp;</p>
+Mais de 150 trabalhadores apresentaram seus produtos &agrave; popula&ccedil;&atilde;o, e puderam fortalecer a jornada anual de feiras agroecol&oacute;gicas, que acontece em diversas cidades da regi&atilde;o.&nbsp;</p>
 
 <p><br />
-As feiras fazem parte da campanha permanente &ldquo;Extremo Sul pela vida: agrot&oacute;xico zero!&rdquo; e cumpre o papel de reafirmar a luta contra o modelo do agroneg&oacute;cio e a invas&atilde;o das transnacionais no territ&oacute;rio brasileiro.</p>
+As feiras fazem parte da campanha permanente &ldquo;Extremo Sul pela vida: agrot&oacute;xico zero!&rdquo;, e cumpre o papel de reafirmar a luta contra o modelo do agroneg&oacute;cio e a dom&iacute;nio das transnacionais sobre o territ&oacute;rio brasileiro.</p>
 
 <p><br />
 Para Arleu Kai, do coletivo de produ&ccedil;&atilde;o do MST,&nbsp;&ldquo;a feira da Reforma Agr&aacute;ria &eacute; uma forma de interagir e&nbsp;dialogar com a sociedade sobre a import&acirc;ncia da luta contra os transg&ecirc;nicos e a utiliza&ccedil;&atilde;o de agrot&oacute;xicos na produ&ccedil;&atilde;o de alimentos&rdquo;.&nbsp;</p>
@@ -58,7 +59,4 @@ Para Arleu Kai, do coletivo de produ&ccedil;&atilde;o do MST,&nbsp;&ldquo;a feir
 <strong>Jornada</strong></p>
 
 <p><br />
-Durante o m&ecirc;s de junho ser&atilde;o realizadas seis feiras agroecol&oacute;gicas em v&aacute;rias cidades do Extremo Sul. J&aacute; em julho, acontecer&aacute; uma grande exposi&ccedil;&atilde;o com v&aacute;rios produtos de artesanatos, pinturas e alimentos livres de agrot&oacute;xicos.</p>
-
-<p><br />
-Neste espa&ccedil;o de culmin&acirc;ncia ser&aacute; ofertado a popula&ccedil;&atilde;o alimentos valor acess&iacute;vel.</p>
+Durante o m&ecirc;s de junho ser&atilde;o realizadas seis feiras agroecol&oacute;gicas em diversas cidades do Extremo Sul. Em julho, acontece uma grande exposi&ccedil;&atilde;o com v&aacute;rios produtos de artesanatos, pinturas e alimentos livres de agrot&oacute;xicos.</p>
