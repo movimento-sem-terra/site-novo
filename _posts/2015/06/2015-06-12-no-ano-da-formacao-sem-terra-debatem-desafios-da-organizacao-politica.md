@@ -5,7 +5,7 @@ tags:
   - tag: formação
   - tag: juventude
   - tag: desafios
-title: No ano da formação sem terra debatem desafios da organização política
+title: "No ano da formação, Sem Terra debatem desafios da organização política"
 images_hd: "http://farm1.staticflickr.com/344/18738856042_aae75f08e2_b.jpg"
 support_line: "Cerca de 30 trabalhadores Sem Terra de diversos Assentamentos e Acampamentos do Norte da Bahia debatem os princípios organizativos do MST, a luta pela terra no Brasil e a participação da juventude rural nas lutas populares. "
 menu: "educação, cultura e comunicação"
