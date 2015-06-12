@@ -38,7 +38,6 @@ files:
 created_date: "2015-06-12T14:22:31-03:00"
 published: true
 releated_posts:
-  - 2015/01/2015-01-30-juventude-sem-terra-realiza-curso-de-formacao-em-veranopolis.md
   - 2014/12/2014-11-10-seminario-constroi-linhas-de-atuacao-para-a-transicao-agroecologica-na-bahia.md
   - 2015/05/2015-05-21-cerca-de-400-educadores-da-bahia-realizam-encontro-sobre-educacao-do-campo.md
   - 2015/05/2015-05-27-na-bahia-estudantes-camponeses-realizam-seminario-de-direito-social-do-campo.md
@@ -48,10 +47,12 @@ releated_posts:
 ---
 <p><img alt="DSC08474.jpg" src="http://farm1.staticflickr.com/344/18738856042_aae75f08e2_b.jpg" /></p>
 
-<p><em>Por Coletivo de Comunica&ccedil;&atilde;o do MST na Bahia<br />
+<p><br />
+<em>Por Coletivo de Comunica&ccedil;&atilde;o do MST na Bahia<br />
 Da P&aacute;gina do MST</em></p>
 
-<p>O Assentamento Luis Nunes, localizado em Casa Nova, norte baiano, foi palco do 2&ordm; Curso de Forma&ccedil;&atilde;o Pol&iacute;tica da Brigada Pau de Colher. As atividades tiveram inicio nesta ultima segunda-feira (08/6) e pretendem se estender at&eacute; este s&aacute;bado (13/6).</p>
+<p><br />
+O Assentamento Luis Nunes, localizado em Casa Nova, norte baiano, foi palco do 2&ordm; Curso de Forma&ccedil;&atilde;o Pol&iacute;tica da Brigada Pau de Colher. As atividades tiveram inicio nesta ultima segunda-feira (08/6) e pretendem se estender at&eacute; este s&aacute;bado (13/6).</p>
 
 <p><br />
 Cerca de 30 trabalhadores Sem Terra de diversos Assentamentos e Acampamentos da regi&atilde;o, participam do curso que se prop&otilde;e a debater amplamente os princ&iacute;pios organizativos do MST, a luta pela terra no Brasil, as rela&ccedil;&otilde;es de g&ecirc;nero e a participa&ccedil;&atilde;o da juventude rural nas lutas populares.&nbsp;</p>
@@ -60,9 +61,11 @@ Cerca de 30 trabalhadores Sem Terra de diversos Assentamentos e Acampamentos da 
 Mediando os espa&ccedil;os de estudo, os trabalhadores contam com o apoio do N&uacute;cleo de Estudos e Pr&aacute;ticas em Pol&iacute;ticas Agr&aacute;rias (NEPPA), o estudante de artes Saulo Oliveira, da Universidade Federal da Bahia (UFBA), dos Setores Estaduais do MST e de toda milit&acirc;ncia que algum tempo j&aacute; vem desenvolvendo atividades de forma&ccedil;&atilde;o com os Sem Terra.</p>
 
 <p><br />
-Para Paulo Cesar, da dire&ccedil;&atilde;o estadual do MST, &ldquo;estudar &eacute; um dos nossos princ&iacute;pios organizativos e precisa ser fortalecido e praticado cotidianamente pela nossa milit&acirc;ncia. Este curso &eacute; uma ferramenta de luta e n&oacute;s trabalhadores precisamos compreender nossa realidade para se contrapor ao modelo capitalista.&quot;</p>
+Para Paulo Cesar, da dire&ccedil;&atilde;o estadual do MST, &ldquo;estudar &eacute; um dos nossos princ&iacute;pios organizativos e precisa ser fortalecido e praticado cotidianamente pela nossa milit&acirc;ncia. Este curso &eacute; uma ferramenta de luta e n&oacute;s trabalhadores precisamos compreender nossa realidade para se contrapor ao modelo capitalista.&quot;<br />
+&nbsp;</p>
 
 <p><img alt="DSC08371 - Cópia.jpg" src="http://farm1.staticflickr.com/349/18743810885_7c412d7bfc_b.jpg" /><br />
+<br />
 A simbologia da luta est&aacute; sempre presente nas atividades atrav&eacute;s das m&iacute;sticas, can&ccedil;&otilde;es, gritos de ordem, ciranda infantil, culturais e grupos de trabalho. As tarefas coletivas, como metodologia base do curso, incentiva a pr&aacute;tica militante e garante a troca do saber. Assim como as din&acirc;micas, que fomentam a participa&ccedil;&atilde;o e a unidade entre as pessoas.<br />
 <br />
 De acordo com Mariana Uch&ocirc;a do Coletivo NEPPA, &ldquo;nossos espa&ccedil;os de forma&ccedil;&atilde;o e nossas lutas cumprem o papel de compartilhar vidas. Desta forma, est&aacute; na hora de dizer n&atilde;o. N&atilde;o ao latif&uacute;ndio. N&atilde;o as cercas. N&atilde;o ao agrot&oacute;xico. N&atilde;o aos transg&ecirc;nicos&rdquo;.&nbsp;</p>
