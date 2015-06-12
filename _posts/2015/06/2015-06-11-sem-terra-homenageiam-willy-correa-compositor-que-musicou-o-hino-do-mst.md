@@ -60,7 +60,7 @@ Quando homenageado, como foi o caso nesta quarta-feira (5), na Escola Nacional F
 <figcaption></figcaption>
 </figure>
 
-<p>&ldquo;O hino n&atilde;o fui eu quem fiz, pessoalmente. Apenas moldei aquilo que j&aacute; existia, de uma tradi&ccedil;&atilde;o revolucion&aacute;ria extraordin&aacute;ria&rdquo;, recorda Corr&ecirc;a, ao explicar que buscou tra&ccedil;os fundamentais que identificassem o que estava sendo produzido no mundo socialista da Uni&atilde;o Sovi&eacute;tica e na Alemanha, de Hans Haslam.</p>
+<p>&ldquo;O hino n&atilde;o fui eu quem fiz, pessoalmente. Apenas moldei aquilo que j&aacute; existia, de uma tradi&ccedil;&atilde;o revolucion&aacute;ria extraordin&aacute;ria&rdquo;, recorda Corr&ecirc;a, ao explicar que buscou tra&ccedil;os fundamentais que identificassem o que estava sendo produzido no mundo socialista da Uni&atilde;o Sovi&eacute;tica e na Alemanha, de <span style="color: rgb(0, 0, 0); font-family: verdana, helvetica, sans-serif; line-height: normal;">Hans Eisler</span>.</p>
 
 <p><br />
 Constru&iacute;do a partir do que tecnicamente se denomina de modalismo &ndash; quando a m&uacute;sica n&atilde;o &eacute; composta a partir da harmonia, como usualmente acontece hoje em dia -, o hino do MST procurou resgatar o que j&aacute; se vinha construindo ao longo dos processos revolucion&aacute;rios.</p>
