@@ -51,6 +51,8 @@ As feiras fazem parte da campanha permanente &ldquo;Extremo Sul pela vida: agrot
 <p><br />
 Para Arleu Kai, do coletivo de produ&ccedil;&atilde;o do MST,&nbsp;&ldquo;a feira da Reforma Agr&aacute;ria &eacute; uma forma de interagir e&nbsp;dialogar com a sociedade sobre a import&acirc;ncia da luta contra os transg&ecirc;nicos e a utiliza&ccedil;&atilde;o de agrot&oacute;xicos na produ&ccedil;&atilde;o de alimentos&rdquo;.&nbsp;</p>
 
+<p>&nbsp;</p>
+
 <p><img alt="10858462_391308854365911_7527194473933796337_n.jpg" src="http://farm1.staticflickr.com/270/18739629101_00cb5f3e19_b.jpg" /><br />
 <br />
 <strong>Jornada</strong></p>
