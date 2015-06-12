@@ -25,9 +25,10 @@ releated_posts:
   - 2014/12/2014-10-27-no-vaticano-movimentos-discutem-novo-modelo-de-desenvolvimento.md
 
 ---
-<p>&nbsp;</p>
+<p><img alt="papa-francisco-3.jpg" src="http://farm1.staticflickr.com/377/18550104850_ee9aaa6e82_b.jpg" /></p>
 
-<p><em>Da AFP</em></p>
+<p><br />
+<em>Da AFP</em></p>
 
 <p><br />
 O papa Francisco denunciou nesta quinta-feira a grilagem de terras em pa&iacute;ses pobres por empresas multinacionais e de outros Estados, recomendando fortemente o apoio &agrave; agricultura familiar de subsist&ecirc;ncia, ao receber uma delega&ccedil;&atilde;o da confer&ecirc;ncia da FAO.</p>
