@@ -35,10 +35,10 @@ releated_posts:
 Para P&aacute;gina do MST</em></p>
 
 <p><br />
-Na &uacute;ltima quarta-feira (10), Sem Terrinha do assentamento Filhos de Sep&eacute;, no munic&iacute;pio de Viam&atilde;o (RS), homenagearam Gerardo Hern&aacute;ndez &ndash; um dos cinco her&oacute;is cubanos &ndash;, que passou 16 anos (1998-2014) preso nos Estados Unidos (EUA), acusado por espionagem e terrorismo. Bruno Zang e Andr&eacute; Moraes entregaram ao patriota uma cesta de produtos da Reforma Agr&aacute;ria, seguida pela declama&ccedil;&atilde;o&nbsp;de uma poesia &nbsp;pelo militante do Setor de Juventude do MST, Anderson Girotto.</p>
+Na &uacute;ltima quarta-feira (10), Sem Terrinha do assentamento Filhos de Sep&eacute;, no munic&iacute;pio de Viam&atilde;o (RS), homenagearam Gerardo Hern&aacute;ndez &ndash; um dos cinco her&oacute;is cubanos &ndash;, que passou 16 anos (1998-2014) preso nos Estados Unidos (EUA), acusado por espionagem e terrorismo.</p>
 
 <p><br />
-A homenagem fez parte de um ato receptivo a Hern&aacute;ndez, que veio a Porto Alegre agradecer o apoio que ele e os outros quatro her&oacute;is &ndash; Ant&ocirc;nio Guerrero, Fernando Gonz&aacute;lez, Ram&oacute;n Laba&ntilde;ino e Ren&eacute; Gonz&aacute;lez &ndash; receberam dos ga&uacute;chos no per&iacute;odo em que estiveram presos em Miami. A atividade foi promovida pela Associa&ccedil;&atilde;o Cultural Jos&eacute; Mart&iacute; (ACJM/RS), no Sindicato dos Banc&aacute;rios, e contou com as participa&ccedil;&otilde;es da embaixadora de Cuba no Brasil, Marielena Ruiz Capote, e da coordenadora do Comit&ecirc; Ga&uacute;cho de Liberta&ccedil;&atilde;o dos Cinco Her&oacute;is Cubanos, V&acirc;nia Barbosa.</p>
+Bruno Zang e Andr&eacute; Moraes entregaram ao patriota uma cesta de produtos da Reforma Agr&aacute;ria, seguida pela eclama&ccedil;&atilde;o&nbsp;de uma poesia &nbsp;pelo militante do Setor de Juventude do MST, Anderson Girotto.&nbsp;A homenagem fez parte de um ato receptivo a Hern&aacute;ndez, que veio a Porto Alegre agradecer o apoio que ele e os outros quatro her&oacute;is &ndash; Ant&ocirc;nio Guerrero, Fernando Gonz&aacute;lez, Ram&oacute;n Laba&ntilde;ino e Ren&eacute; Gonz&aacute;lez &ndash; receberam dos ga&uacute;chos no per&iacute;odo em que estiveram presos em Miami.</p>
 
 <p><br />
 O presidente da ACJM/RS, Ricardo Haesbaert, agradeceu a todas as pessoas que participaram das atividades realizadas em solidariedade aos cubanos e&nbsp;afirmou que a milit&acirc;ncia foi fundamental para a conquista da liberta&ccedil;&atilde;o deles. &ldquo;N&atilde;o foi apenas um processo de luta pela liberta&ccedil;&atilde;o de cinco companheiros, foi tamb&eacute;m a luta por uma sociedade mais justa, mais fraterna, mais solid&aacute;ria, e mais socialista. &Eacute; esse o nosso objetivo final e, enquanto n&oacute;s n&atilde;o conseguirmos, a nossa luta n&atilde;o vai parar&rdquo;, garantiu.</p>
@@ -54,6 +54,9 @@ Depois de receber diversas homenagens, o cubano Gerardo Hern&aacute;ndez agradec
 
 <p><br />
 &ldquo;O apoio de voc&ecirc;s foi muito importante para resistirmos &agrave; pris&atilde;o. L&aacute; vimos gente enlouquecer, tirar a pr&oacute;pria vida por falta de esperan&ccedil;a. Hoje, nos perguntam como conseguimos resistir, e n&oacute;s dizemos que resistimos porque t&iacute;nhamos companheiros e companheiras aqui fora lutando conosco, e que n&atilde;o pod&iacute;amos fraquejar. Por isso, agradecemos todos os dias a pessoas como voc&ecirc;s, que nos honraram com seu apoio e nos fizeram livres&rdquo;, concluiu.</p>
+
+<p><br style="line-height: 20.7999992370605px;" />
+<span style="line-height: 20.7999992370605px;">​</span><span style="line-height: 20.7999992370605px;">A atividade foi promovida pela Associa&ccedil;&atilde;o Cultural Jos&eacute; Mart&iacute; (ACJM/RS), no Sindicato dos Banc&aacute;rios, e contou com as participa&ccedil;&otilde;es da embaixadora de Cuba no Brasil, Marielena Ruiz Capote, e da coordenadora do Comit&ecirc; Ga&uacute;cho de Liberta&ccedil;&atilde;o dos Cinco Her&oacute;is Cubanos, V&acirc;nia Barbosa.</span></p>
 
 <p><br />
 Al&eacute;m de participar da atividade no Sindicato dos Banc&aacute;rios, Hern&aacute;ndez esteve, entre outros locais, na Assembl&eacute;ia Legislativa (AL/RS), onde tamb&eacute;m agradeceu pelos atos de apoio e solidariedade destinados a ele e aos seus quatro companheiros no per&iacute;odo de pris&atilde;o. Ainda na AL, o her&oacute;i cubano recebeu homenagens de partidos de esquerda.</p>
