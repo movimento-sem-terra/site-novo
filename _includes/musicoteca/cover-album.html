@@ -1,0 +1,16 @@
+{% assign album = include.album %}
+
+<div class="album">
+  <a href="{{ site.baseurl }}{{ album.url }}">
+    <div class="cover" style="background-image: url({{ album.images_hd }})">
+      <img src="{{ album.images_hd }}" />
+    </div>
+  </a>
+
+  <div class="playlist">
+    <header>
+      <h2><a href="{{ site.baseurl }}{{ album.url }}">{{ album.title }}</a></h2>
+      <a href="{{ album.download }}" target="_blank" class="btn-download"><span class="fa fa-download fa-3"></span> Download</a>
+    </header>
+  </div>
+</div>

@@ -2,7 +2,6 @@
 layout: default
 title: Musicoteca
 styles: ["playlist.css"]
-scripts: ["playlist.js"]
 ---
 <main id="musicoteca">
   <header>
@@ -49,7 +48,7 @@ scripts: ["playlist.js"]
     <ul>
       {% for album in site.musicoteca.albuns | limit: 3 %}
       <li>
-        {% include musicoteca/album.html album=album %}
+        {% include musicoteca/cover-album.html album=album %}
       </li>
       {% endfor %}
     </ul>
