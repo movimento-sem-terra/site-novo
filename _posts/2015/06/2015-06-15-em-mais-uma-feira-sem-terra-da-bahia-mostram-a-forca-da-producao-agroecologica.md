@@ -6,7 +6,7 @@ tags:
   - tag: bahia
   - tag: produção
   - tag: agricultura-camponesa
-title: "Em mais uma feira, Sem Terra da Bahia mostram a força da produção agroecológica"
+title: "Em mais uma feira, Sem Terra mostram a força da produção agroecológica na BA"
 images_hd: "http://farm6.staticflickr.com/5509/18806891886_335ff02cce_b.jpg"
 support_line: "Além de oferecer alimentos saudáveis e baratos, as feiras agroecológicas que estão acontecendo em toda região do extremo sul da Bahia denunciam os males do agronegócio."
 menu: reforma agrária
