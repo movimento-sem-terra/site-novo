@@ -4,7 +4,7 @@ tags:
   - tag: solidariedade-internacional
   - tag: presos-cubanos
   - tag: cuba
-title: Um dos cinco heróis cubanos é homenageado pelos Sem Terrinha
+title: Sem Terrinha homenageiam um dos 5 heróis cubanos
 support_line: "A homenagem fez parte de um ato receptivo a Hernández, que veio a Porto Alegre agradecer o apoio que ele e os outros quatro heróis que estiveram presos nos EUA."
 menu: solidariedade
 images_hd: "http://farm1.staticflickr.com/471/18552820439_345503df5a_b.jpg"
@@ -28,6 +28,7 @@ releated_posts:
   - 2014/12/2014-12-17-apos-campanha-de-solidariedade-sem-terra-celebram-liberdade-dos-5-cubanos.md
   - 2015/06/2015-06-02-a-maioria-dos-medicos-nao-se-preocupa-com-o-povo-da-periferia-e-do-campo.md
   - 2015/01/2015-01-21-falece-a-pedagoga-cubana-criadora-do-programa-de-alfabetizacao-sim-eu-posso.md
+section: featured-news
 
 ---
 <p><img alt="20150610_200948.jpg" src="http://farm1.staticflickr.com/471/18552820439_345503df5a_b.jpg" /><br />
