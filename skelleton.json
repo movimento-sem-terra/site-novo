@@ -122,7 +122,8 @@
     "view": "select",
     "options": [
     {"name": "Parceiro", "id": "partner"},
-    {"name": "Album", "id": "album"}
+    {"name": "Album", "id": "album"},
+    {"name": "Fita", "id": "tape"}
     ]
   },
   "need": {
@@ -156,7 +157,7 @@
   "need": {
     "field": "type",
     "equal": true,
-    "value": "album"
+    "value": ["album", "tape"]
   }
 },
 {
@@ -171,7 +172,7 @@
   "need": {
     "field": "type",
     "equal": true,
-    "value": "album"
+    "value": ["album", "tape"]
   }
 },
 {

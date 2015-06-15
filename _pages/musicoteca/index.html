@@ -23,6 +23,11 @@ scripts: ["playlist.js"]
           </a>
         </li>
         <li>
+          <a href="#fitas">
+            Fitas Recuperadas
+          </a>
+        </li>
+        <li>
           <a href="#videos">
             Videos
           </a>
@@ -38,62 +43,27 @@ scripts: ["playlist.js"]
   </header>
 
   <section id="albuns">
-
-    <h2>Albuns</h2>
-
+    <h2>
+      <a href="albuns/">Albuns</a>
+    </h2>
     <ul>
-      {% for album in site.musicoteca.albuns %}
+      {% for album in site.musicoteca.albuns | limit: 3 %}
       <li>
-        <div class="album">
-          <div class="cover" style="background-image: url({{ album.images_hd }})">
-            <img src="{{ album.images_hd  }}"/>
-          </div>
+        {% include musicoteca/album.html %}
+      </li>
+      {% endfor %}
+    </ul>
+    <p class="more">
+        <a href="albuns/">Mais albuns...</a>
+    </p>
+  </section>
 
-          <div class="playlist">
-
-            <header>
-              <h2>{{ album.title }}</h2>
-              <a href="{{ album.download }}" target="_blank" class="btn-download"><span class="fa fa-download fa-3"></span> Download</a>
-            </header>
-
-            <div class="player">
-              <audio preload="none" controls id="player_{{ forloop.index0 }}" data-current-track="0">
-                Sorry, your browser does not support HTML5 audio.
-              </audio>
-              <ul class="list">
-                {% for track in album.tracks  %}
-                <li class="track">
-                    <a href="#" data-index="{{ forloop.index0  }}" data-mp3="{{track.mp3}}" data-ogg="{{ track.ogg }}">
-                      <img  src="{{ site.baseurl }}/assets/img/sound_playing.gif" class="icon-playing"/>
-                      <span class="fa fa-play"></span>
-                      <span class="fa fa-pause"></span>
-                      <span class="fa fa-circle-o-notch fa-spin"></span>
-                      {{ track.title }}
-                    </a>
-                </li>
-                {% endfor %}
-              </ul>
-            </div>
-
-            <footer>
-              <progress value="0" max="1"></progress>
-
-              <div class="controls">
-                <button class="btn-prev"><span class="fa fa-step-backward"></span></button>
-                <button class="btn-play"><span class="fa fa-play"></span></button>
-                <button class="btn-pause"><span class="fa fa-pause"></span></button>
-                <button class="btn-next"><span class="fa fa-step-forward"></span></button>
-              </div>
-
-              <div class="time">
-                <span class="current">0:00</span>
-                <span class="pipe">|</span>
-                <span class="total">0:00</span>
-              </div>
-            </footer>
-          </div>
-
-        </div>
+  <section id="fitas">
+    <h2>Fitas Recuperadas</h2>
+    <ul>
+      {% for album in site.musicoteca.tape | limit: 3 %}
+      <li>
+        {% include musicoteca/album.html %}
       </li>
       {% endfor %}
     </ul>
