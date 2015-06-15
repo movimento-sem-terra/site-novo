@@ -19,12 +19,12 @@ scripts: ["playlist.js"]
       <ul>
         <li>
           <a href="#albuns">
-            Albuns
+            CDs
           </a>
         </li>
         <li>
           <a href="#fitas">
-            Fitas Recuperadas
+            Fitas
           </a>
         </li>
         <li>
@@ -44,7 +44,7 @@ scripts: ["playlist.js"]
 
   <section id="albuns">
     <h2>
-      <a href="albuns/">Albuns</a>
+      <a href="albuns/">CDs</a>
     </h2>
     <ul>
       {% for album in site.musicoteca.albuns | limit: 3 %}
@@ -54,12 +54,14 @@ scripts: ["playlist.js"]
       {% endfor %}
     </ul>
     <p class="more">
-        <a href="albuns/">Mais albuns...</a>
+        <a href="albuns/">Mais...</a>
     </p>
   </section>
 
   <section id="fitas">
-    <h2>Fitas Recuperadas</h2>
+    <h2>
+        <a href="fitas/">Fitas</a>
+    </h2>
     <ul>
       {% for album in site.musicoteca.tape | limit: 3 %}
       <li>
@@ -67,14 +69,16 @@ scripts: ["playlist.js"]
       </li>
       {% endfor %}
     </ul>
+    <p class="more">
+        <a href="fitas/">Mais...</a>
+    </p>
   </section>
 
   <section id="videos">
-    <h2>Vídeos</h2>
-
-
+    <h2>
+        <a href="videos/">Vídeos</a>
+    </h2>
     <ul>
-
       {% for video in site.musicoteca.videos  %}
         <li>
           <iframe width="560" height="315" src="{{ video.video | get_video_embeded }}" frameborder="0" allowfullscreen></iframe>
@@ -88,6 +92,9 @@ scripts: ["playlist.js"]
         </li>
       {% endfor %}
     </ul>
+    <p class="more">
+        <a href="videos/">Mais...</a>
+    </p>
   </section>
 
   <section id="mst-indica">
