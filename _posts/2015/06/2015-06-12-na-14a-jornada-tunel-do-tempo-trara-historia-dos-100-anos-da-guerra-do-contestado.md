@@ -30,7 +30,7 @@ releated_posts:
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Na sua 14&ordf; edi&ccedil;&atilde;o, a Jornada de Agroecologia, que acontece de 24 a 27 de junho, em Irati, regi&atilde;o sul do Paran&aacute;, ter&aacute; mais uma vez em sua programa&ccedil;&atilde;o o T&uacute;nel do tempo.</p>
+Na sua 14&ordf; edi&ccedil;&atilde;o, a Jornada de Agroecologia, que acontece de 22 a 25 de junho, em Irati, regi&atilde;o sul do Paran&aacute;, ter&aacute; mais uma vez em sua programa&ccedil;&atilde;o o T&uacute;nel do tempo.</p>
 
 <p><br />
 O tema escolhido para este ano foi os &ldquo;100 anos da Guerra do Contestado&rdquo;, j&aacute; que a Jornada acontece na regi&atilde;o onde ocorreu a Guerra do Contestado (1912 a 1916).</p>
