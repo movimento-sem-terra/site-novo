@@ -10,7 +10,7 @@ title: "Sem Terra homenageiam Willy Corrêa, compositor que musicou o hino do MS
 menu: "educação, cultura e comunicação"
 images_hd: "http://farm1.staticflickr.com/515/18525875720_d4caf6798e_b.jpg"
 sector: culture
-section: cover
+section: featured-news
 support_line: "“O hino não fui eu quem fiz, pessoalmente. Apenas moldei aquilo que já existia, de uma tradição revolucionária extraordinária”, recorda Willy Corrêa."
 layout: post
 files:
