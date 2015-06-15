@@ -1,9 +1,13 @@
 ---
 layout: default
-scripts: "latest-news/laster.js"
+styles: ["album.css"]
 ---
 
 <main class="post">
+  {% if page.section == 'musicoteca' and (page.type == 'tape' or page.type == 'album') %}
+    {% include musicoteca/album.html album = page %}
+  {% endif %}
+
   {% if page.section == 'tv'%}
     {% if page.video_duration %}
       <span class='meta' itemprop="duration">{{ page.video_duration }}</span> 
