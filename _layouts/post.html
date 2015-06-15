@@ -1,31 +1,36 @@
 ---
 layout: default
-scripts: "latest-news/laster.js"
+styles: ["album.css"]
+scripts: ["latest-news/laster.js", "album.js"]
 ---
 
 <main class="post">
-  {% if page.section == 'tv'%}
-    {% if page.video_duration %}
-      <span class='meta' itemprop="duration">{{ page.video_duration }}</span> 
-    {% endif %}
-    <span class='meta' itemprop="thumbnailURL">{{ page.video_thumbnail }}</span> 
-    <span class='meta' itemprop="embedURL">{{ page.video  }}</span>
-    <article itemprop="video" itemscope itemtype="http://schema.org/VideoObject">
+  {% if page.section == 'musicoteca' and (page.type == 'tape' or page.type == 'album') %}
+    {% include musicoteca/album.html album = page %}
   {% else %}
-    <article>
-  {% endif %}
-      <header>
-        {% include tag-list.html tags = page.tags %}
-        <h1 itemprop="name">{{ page.title }}</h1>
-        <p itemprop="description">{{ page.support_line  }}</p>
-        <time datetime="{{ page.date }}" itemprop="datePublished">
-          {{ page.date | pretty_date }}
-        </time>
-        {% include social-buttons.html article = page %}
-      </header>
-      {% include related-posts.html post=page %}
-      <div itemprop="articleBody" class="article-body">{{ content }}</div>
-    </article>
+	  {% if page.section == 'tv'%}
+	    {% if page.video_duration %}
+	      <span class='meta' itemprop="duration">{{ page.video_duration }}</span> 
+	    {% endif %}
+	    <span class='meta' itemprop="thumbnailURL">{{ page.video_thumbnail }}</span> 
+	    <span class='meta' itemprop="embedURL">{{ page.video  }}</span>
+	    <article itemprop="video" itemscope itemtype="http://schema.org/VideoObject">
+	  {% else %}
+	    <article>
+	  {% endif %}
+	      <header>
+	        {% include tag-list.html tags = page.tags %}
+	        <h1 itemprop="name">{{ page.title }}</h1>
+	        <p itemprop="description">{{ page.support_line  }}</p>
+	        <time datetime="{{ page.date }}" itemprop="datePublished">
+	          {{ page.date | pretty_date }}
+	        </time>
+	        {% include social-buttons.html article = page %}
+	      </header>
+	      {% include related-posts.html post=page %}
+	      <div itemprop="articleBody" class="article-body">{{ content }}</div>
+	    </article>
+    {% endif %}
 <br>{% include social-buttons.html article = page %}
 {% include latest-news.html %}
 </main>

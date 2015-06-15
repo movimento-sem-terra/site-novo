@@ -8,6 +8,7 @@ module Jekyll
       @newest_post = @all_articles.sort { |a, b| b <=> a }[0..300]
       musicoteca  = find 'musicoteca', 'section', 50
       musicoteca_albuns = musicoteca.select{ |m| m.data['type'] == 'album' }
+      musicoteca_tape = musicoteca.select{ |m| m.data['type'] == 'tape' }
       musicoteca_partners = musicoteca.select{ |m| m.data['type'] == 'partner' }
 
       cover = find('cover').first
@@ -35,6 +36,7 @@ module Jekyll
       site.config['musicoteca']['videos'] = musicoteca_videos
       site.config['musicoteca']['albuns'] = musicoteca_albuns
       site.config['musicoteca']['partners'] = musicoteca_partners
+      site.config['musicoteca']['tape'] = musicoteca_tape
 
       site.config['cover'] = cover
       site.config['articles'] = articles

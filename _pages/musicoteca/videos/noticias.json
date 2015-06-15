@@ -1,0 +1,5 @@
+---
+layout: null
+---
+{% assign posts = site.musicoteca.videos %}
+{% include posts.json posts=posts %}

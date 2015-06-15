@@ -1,0 +1,223 @@
+---
+---
+
+@import "../bourbon/bourbon";
+@import "../neat/neat";
+@import "../_sass/variables";
+
+.album {
+
+  background: white;
+  box-shadow: 1px 2px 5px #A3A3AB;
+
+
+  .btn-prev, .btn-next {
+    background: none;
+    border: none;
+    font-size: 2.2em;
+    color: $mst-red;
+    margin: 15px;
+
+    @include media($mobile) {
+        margin: 8px;
+    }
+  }
+
+
+  .btn-play, .btn-pause {
+    font-size: 2.2em;
+    background: $mst-red;
+    border: none;
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    color: white;
+    box-shadow: 1px 2px 2px $mst-medium-gray;
+  }
+
+  .btn-pause {
+    display: none;
+  }
+
+  .btn-download {
+    border: none;
+    background: $mst-light-gray;
+    color: #74747E;
+    font-size: .9em;
+    border-radius: 3px;
+    padding: 5px 10px;
+  }
+
+  .cover, .btn-play {
+    cursor: pointer;
+  }
+
+  .cover {
+    @include span-columns(6);
+    height: 410px;
+    background-size: cover;
+    img {
+      display: none;
+      width: 100%;
+    }
+  }
+
+
+  .playlist {
+    padding: 10px;
+
+    header {
+      height: 16%;
+
+      @include media($mobile) {
+        height: 20%;
+      }
+
+      h2 {
+        text-align: center;
+        font-size: 1.2em;
+        font-weight: 400;
+        color: $mst-red;
+      }
+    }
+
+    audio {
+        display: none;
+    }
+
+    .player {
+      margin: 0;
+      box-shadow: inset 2px 1px 6px #BBB;
+      background: #F9F9F9;
+      text-align: left;
+      height: 66%;
+      max-height: 330px;
+      overflow: scroll;
+      position: relative;
+
+      @include media($mobile) {
+        height: 62%;
+      }
+
+      ul {
+        li {
+          padding: 0;
+
+          a {
+            padding: 8px 10px;
+            text-decoration: none;
+            display: block;
+            border-top: 1px solid #D5D5D5;
+            color: #545454;
+
+            .icon-playing {
+              padding-right: 5px;
+              width: 17px;
+              display: none;
+            }
+          }
+
+          &.active {
+            a {
+              background: white;
+              box-shadow: inset 4px 0 7px #DBDBDB;
+            }
+          }
+
+        }
+      }
+    }
+
+    footer {
+      progress {
+        height: 5px;
+        width: 100%;
+        background-color: $mst-medium-gray;
+        &::-webkit-progress-value {
+          background-color: $mst-red;
+        }
+        &::-webkit-progress-bar{
+          background-color: $mst-medium-gray;
+        }
+        &::-moz-progress-bar{
+          background-color: $mst-medium-gray;
+        }
+      }
+
+      .controls {
+        text-align: center;
+
+        button{
+          cursor: pointer;
+        }
+      }
+
+      .time {
+        padding: 25px 0;
+        font-size: 1.5em;
+        @include span-columns(1 of 3, block-collapse);
+        display: none;
+
+        @include media($mobile) {
+          @include span-columns(3 of 12, block-collapse);
+          font-size: .8em;
+          display: none;
+        }
+
+        .current {
+          font-weight: bold;
+          color: $mst-red;
+        }
+      }
+    }
+
+
+
+    &.playing {
+      .btn-play {
+        display: none;
+      }
+
+      .btn-pause {
+        display: inline;
+      }
+    }
+
+    .track a .fa {
+      display: none;
+
+      &.fa-play{
+        display: inline;
+      }
+    }
+
+    &.playing .player .list .track.active{
+      &.listening a{
+        .fa {
+          display: none;
+        }
+        .icon-playing {
+          display: inline;
+        }
+      }
+
+      &.loading a{
+        .fa, .icon-playing {
+          display: none;
+        }
+        .fa.fa-circle-o-notch.fa-spin {
+          display: inline;
+        }
+      }
+    }
+
+    &.paused .player .list .track.active a{
+      .fa, .icon-playing {
+        display: none;
+      }
+      .fa.fa-pause {
+        display: inline;
+      }
+    }
+  }
+}
