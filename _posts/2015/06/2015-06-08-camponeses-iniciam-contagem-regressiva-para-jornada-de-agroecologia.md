@@ -42,7 +42,7 @@ Da P&aacute;gina do MST</em></p>
 Este ano, ser&aacute; a vez do munic&iacute;pio de Irati, no Paran&aacute;, sediar um dos eventos mais relevantes sobre agroecologia: a Jornada de Agroecologia.</p>
 
 <p><br />
-Entre os dias 24 a 27 de junho, cerca de 4 mil pessoas, entre agricultores, estudantes, t&eacute;cnicos, pesquisadores e educadores de institui&ccedil;&otilde;es de assist&ecirc;ncia t&eacute;cnica, pesquisa e ensino, organiza&ccedil;&otilde;es n&atilde;o governamentais e movimentos sociais do campo e da cidade devem participar da 14&ordf; edi&ccedil;&atilde;o do evento.</p>
+Entre os dias 22 a 25 de junho, cerca de 4 mil pessoas, entre agricultores, estudantes, t&eacute;cnicos, pesquisadores e educadores de institui&ccedil;&otilde;es de assist&ecirc;ncia t&eacute;cnica, pesquisa e ensino, organiza&ccedil;&otilde;es n&atilde;o governamentais e movimentos sociais do campo e da cidade devem participar da 14&ordf; edi&ccedil;&atilde;o do evento.</p>
 
 <p><br />
 Al&eacute;m de ser um espa&ccedil;o de politizar o debate sobre a agroecologia, tamb&eacute;m ser&aacute; um momento de troca experi&ecirc;ncias e fortalecimento da constru&ccedil;&atilde;o de um projeto popular e soberano para a agricultura.</p>
