@@ -105,8 +105,15 @@ files:
     small: "http://farm4.staticflickr.com/3702/18836097712_2bafd0744c_n.jpg"
     title: CAPA Regar a Terra.jpg
     $$hashKey: 049
+  - link: "https://docs.google.com/uc?id=0Bwus_4SL8MWDODd5OFd0TThQSGM&export=download"
+    thumbnail: "http://farm4.staticflickr.com/3852/15187675380_7b00f5fdff_b.jpg"
+    title: 08 - Regar a Terra.zip
+    basename: 08 - Regar a Terra
+    embed: "https://docs.google.com/uc?id=0Bwus_4SL8MWDODd5OFd0TThQSGM"
+    $$hashKey: 07U
 created_date: "2015-06-15T18:24:35-03:00"
-published: false
+published: true
 releated_posts: []
+download: "https://docs.google.com/uc?id=0Bwus_4SL8MWDODd5OFd0TThQSGM&export=download"
 
 ---
