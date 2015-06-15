@@ -39,6 +39,7 @@ releated_posts:
   - 2014/12/2014-11-17-assentamento-bela-vista-luta-coquistas-e-a-producao-agroecologica.md
   - 2015/06/2015-06-03-sem-terrinha-cultivam-3-mil-mudas-e-ajudam-a-reflorestar-assentamento.md
   - 2015/02/2015-02-05-producao-de-assentados-no-parana-atendera-5-mil-pessoas-no-ano.md
+section: cover
 
 ---
 <p><img alt="IMG_7044.JPG" src="http://farm6.staticflickr.com/5509/18806891886_335ff02cce_b.jpg" /></p>
@@ -46,10 +47,8 @@ releated_posts:
 <p><br />
 <em>Da P&aacute;gina do MST</em></p>
 
-<p>&nbsp;
 <p><br />
 Em mais uma Feira da Reforma Agr&aacute;ria, assentados do extremo sul da Bahia apresentaram &agrave; popula&ccedil;&atilde;o de Itamaraju uma produ&ccedil;&atilde;o diversificada de alimentos, livres de agrot&oacute;xicos e transg&ecirc;nicos.</p>
-</p>
 
 <p><br />
 A feira aconteceu neste s&aacute;bado (13) no centro da cidade baixa. Al&eacute;m da diversidade de produtos agr&iacute;colas, os trabalhadores rurais tamb&eacute;m distribu&iacute;ram jornais e panfletos, que traziam os riscos do uso de agrot&oacute;xicos e sementes transg&ecirc;nicas &agrave; sa&uacute;de.</p>
