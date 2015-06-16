@@ -59,16 +59,12 @@ created_date: "2015-06-16T09:17:14-03:00"
 published: true
 releated_posts:
   - 2015/04/2015-04-30-antigo-latifundio-de-eucalipto-vira-assentamento-agroecologico.md
-  - 2014/12/2014-11-03-sem-terra-expoem-sua-producao-em-feira-da-agricultura-familiar.md
-  - 2015/05/2015-05-28-trabalhadores-sem-terra-debatem-producao-agroecologica-na-bahia.md
   - 2015/06/2015-06-01-sem-terra-da-bahia-realizam-estudo-e-intercambio-de-experiencias-agroecologicas.md
   - 2015/06/2015-06-15-em-mais-uma-feira-sem-terra-da-bahia-mostram-a-forca-da-producao-agroecologica.md
-  - 2014/04/2014-04-09-mst-e-homenageado-na-bahia-pelos-30-anos-de-luta-pela-reforma-agraria.md-e
-  - 2014/05/2014-05-15-mst-discute-novas-parcerias-para-investir-em-assentamentos-no-parana.md
-  - 2014/05/2014-05-15-mst-discute-novas-parcerias-para-investir-em-assentamentos-no-parana.md-e
-  - 2014/07/2014-07-17-familias-sem-terra-seguem-na-luta-por-area-grilada-em-abelardo-luz.md
-  - 2014/08/2014-08-11-feira-leva-frutos-da-reforma-agraria-ate-sociedade-no-rj.md
-  - 2014/09/2014-09-05-cooperativas-do-mst-participam-de-feira-da-agricultura-familiar-no-rs.md
+  - 2015/06/2015-06-12-feiras-agroecologicas-ocupam-as-ruas-das-cidades-do-extremo-sul-da-bahia.md
+  - 2015/01/2015-01-26-assentados-gauchos-fornecem-alimentos-para-grupo-hospitalar-de-porto-alegre.md
+  - 2015/02/2015-02-05-producao-de-assentados-no-parana-atendera-5-mil-pessoas-no-ano.md
+  - 2015/05/2015-05-12-com-metodo-cubano-sem-terra-zeram-analfabetismo-em-sete-assentamentos-da-bahia.md
 
 ---
 <p><img alt="Reforma!!.jpg" src="http://farm6.staticflickr.com/5540/18861562011_b9d30dbd77_b.jpg" /></p>
