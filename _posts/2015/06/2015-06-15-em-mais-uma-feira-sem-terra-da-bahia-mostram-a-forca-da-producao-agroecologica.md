@@ -39,7 +39,7 @@ releated_posts:
   - 2014/12/2014-11-17-assentamento-bela-vista-luta-coquistas-e-a-producao-agroecologica.md
   - 2015/06/2015-06-03-sem-terrinha-cultivam-3-mil-mudas-e-ajudam-a-reflorestar-assentamento.md
   - 2015/02/2015-02-05-producao-de-assentados-no-parana-atendera-5-mil-pessoas-no-ano.md
-section: cover
+section: null
 
 ---
 <p><img alt="IMG_7044.JPG" src="http://farm6.staticflickr.com/5509/18806891886_335ff02cce_b.jpg" /></p>
