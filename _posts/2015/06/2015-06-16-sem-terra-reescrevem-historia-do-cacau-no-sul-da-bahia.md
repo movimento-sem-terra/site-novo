@@ -37,6 +37,24 @@ files:
     small: "http://farm4.staticflickr.com/3714/18671357270_4591201f44_n.jpg"
     title: "Esse rapaz é Técnico em Agrocologia e nosso gui no assentamento - Salvio Oliveira!!!.jpg"
     $$hashKey: 07O
+  - link: "http://farm6.staticflickr.com/5334/18673004189_fbb4190642_b.jpg"
+    thumbnail: "http://farm6.staticflickr.com/5334/18673004189_fbb4190642_t.jpg"
+    medium: "http://farm6.staticflickr.com/5334/18673004189_fbb4190642_z.jpg"
+    small: "http://farm6.staticflickr.com/5334/18673004189_fbb4190642_n.jpg"
+    title: "Viveiros!!.jpg"
+    $$hashKey: 06Q
+  - link: "http://farm4.staticflickr.com/3726/18854032582_a9770c6414_b.jpg"
+    thumbnail: "http://farm4.staticflickr.com/3726/18854032582_a9770c6414_t.jpg"
+    medium: "http://farm4.staticflickr.com/3726/18854032582_a9770c6414_z.jpg"
+    small: "http://farm4.staticflickr.com/3726/18854032582_a9770c6414_n.jpg"
+    title: "as crianças brincam com qualidade de vida!!!.jpg"
+    $$hashKey: 06T
+  - link: "http://farm6.staticflickr.com/5495/18238571343_59e02c3485_b.jpg"
+    thumbnail: "http://farm6.staticflickr.com/5495/18238571343_59e02c3485_t.jpg"
+    medium: "http://farm6.staticflickr.com/5495/18238571343_59e02c3485_z.jpg"
+    small: "http://farm6.staticflickr.com/5495/18238571343_59e02c3485_n.jpg"
+    title: "colégio!!.jpg"
+    $$hashKey: 06W
 created_date: "2015-06-16T09:17:14-03:00"
 published: true
 releated_posts:
@@ -58,6 +76,8 @@ releated_posts:
 <p><em>Por Ana Maria Amorim<br />
 Especial Da P&aacute;gina do MST</em></p>
 
+<p><em>Fotos: Oziel Arag&atilde;o</em></p>
+
 <p><br />
 Nos murais das escolas, nas est&aacute;tuas, nas placas do com&eacute;rcio local. A import&acirc;ncia do cacau na economia do territ&oacute;rio do litoral sul baiano est&aacute; evidenciada pelas cidades que viveram o auge e decl&iacute;nio dos coron&eacute;is. A hist&oacute;ria de riqueza das grandes fazendas entra em colapso no final da d&eacute;cada de 80 quando a &ldquo;vassoura-de-bruxa&rdquo; devasta a lavoura. Provocando a necrose do cacaueiro, o fungo Crinipellis comprometeu a economia da regi&atilde;o, ocasionando uma queda brusca da produ&ccedil;&atilde;o.</p>
 
@@ -70,8 +90,13 @@ As grandes propriedades de terras foram abandonadas, ap&oacute;s tentativa frust
 <p><br />
 Um dos mais antigos do estado, o Assentamento Terra Vista come&ccedil;ou com 300 fam&iacute;lias que acamparam numa fazenda abandonada de 904 hectares, em mar&ccedil;o de 1992. A imiss&atilde;o de posse veio em 1995, junto com o desafio de estruturar a produ&ccedil;&atilde;o na fazenda.</p>
 
-<p><br />
-Em Terra Vista, uma hist&oacute;ria de tentativas e erros marcou o in&iacute;cio do assentamento. O MST buscou a produ&ccedil;&atilde;o de cacau, a piscicultura e o plantio de caf&eacute;, banana, mandioca e abacaxi (este &uacute;ltimo para a produ&ccedil;&atilde;o de doces, numa pequena f&aacute;brica montada no assentamento).</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="Cacau de qualidade no assentamento Terra Vista!!.jpg" src="http://farm6.staticflickr.com/5555/18238415333_c7dd3ba849_b.jpg" />
+<figcaption></figcaption>
+</figure>
+
+<p>Em Terra Vista, uma hist&oacute;ria de tentativas e erros marcou o in&iacute;cio do assentamento. O MST buscou a produ&ccedil;&atilde;o de cacau, a piscicultura e o plantio de caf&eacute;, banana, mandioca e abacaxi (este &uacute;ltimo para a produ&ccedil;&atilde;o de doces, numa pequena f&aacute;brica montada no assentamento).</p>
 
 <p><br />
 A &aacute;rea, por&eacute;m, continuava devastada pela &ldquo;vassoura-de-bruxa&rdquo; e os investimentos do estado n&atilde;o chegavam para que se pudesse investir na &aacute;rea. Com isso, no final da d&eacute;cada de 90, os assentados foram aos poucos perdendo a produ&ccedil;&atilde;o e a piscicultura foi abandonada. A hist&oacute;ria se transforma quando o Movimento, com o apoio da Cooperativa de Produtores Org&acirc;nicos do Sul da Bahia (Cabruca), come&ccedil;a a investir na produ&ccedil;&atilde;o org&acirc;nica.</p>
@@ -94,6 +119,10 @@ A produ&ccedil;&atilde;o org&acirc;nica tamb&eacute;m trouxe uma mudan&ccedil;a 
 <p><br />
 Futuramente, o MST pretende ter a pr&oacute;pria produ&ccedil;&atilde;o de chocolate, que hoje depende de parcerias externas. Para Solange Santos, uma das coordenadoras do assentamento, trata-se de uma nova vis&atilde;o da agricultura. &ldquo;Mudamos a vis&atilde;o do coronel de plantar, colher e vender para uma vis&atilde;o que questiona o que foi plantado e como foi plantado, transformando os antigos h&aacute;bitos, agregando conhecimento &agrave; nossa produ&ccedil;&atilde;o&rdquo;, diz.</p>
 
+<figure class="image"><img alt="Esse rapaz é Técnico em Agrocologia e nosso gui no assentamento - Salvio Oliveira!!!.jpg" src="http://farm4.staticflickr.com/3714/18671357270_4591201f44_b.jpg" />
+<figcaption>O assentado Salvio Oliveira, t&eacute;cnico em agrocologia, examinando o cacau.</figcaption>
+</figure>
+
 <p><br />
 &ldquo;Caminhamos agora para que a produ&ccedil;&atilde;o seja completamente agroecol&oacute;gica, o que significa cumprir o trip&eacute;: ser socialmente justo, economicamente vi&aacute;vel e ambientalmente correto&rdquo;, explica Anderson Oliveira, t&eacute;cnico do setor regional de produ&ccedil;&atilde;o.</p>
 
@@ -104,7 +133,13 @@ No viveiro do Assentamento Terra Vista, cerca de 100 mil mudas s&atilde;o produz
 Tamb&eacute;m est&aacute; sendo intensificada a produ&ccedil;&atilde;o pr&oacute;pria de adubo org&acirc;nico, integrando todas as etapas da produ&ccedil;&atilde;o dentro do assentamento. Na produ&ccedil;&atilde;o espec&iacute;fica do cacau, a forma como as am&ecirc;ndoas s&atilde;o secadas tamb&eacute;m est&aacute; sendo uniformizada nos assentamentos, que aos poucos devem abandonar a secagem &agrave; lenha (que &eacute; feita com madeira certificada como pr&oacute;pria) e o processo de barca&ccedil;as (estruturas desenvolvidas para a secagem sem precisar de vapor), t&eacute;cnicas que ser&atilde;o substitu&iacute;das pelas estufas, que j&aacute; est&atilde;o sendo montadas nos assentamentos. A meta &eacute; aumentar em quatro sal&aacute;rios m&iacute;nimos o rendimento mensal das fam&iacute;lias, fruto do aumento da produtividade previsto com o uso de novas t&eacute;cnicas.</p>
 
 <p><br />
-<strong>Rela&ccedil;&atilde;o com a comunidade</strong></p>
+&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="Artistas e técnicos em agrocologia do assentamento Ilmar Silva e Elimar Conceição desenhando Cheguera!!.jpg" src="http://farm6.staticflickr.com/5518/18832575956_ef6839996a_b.jpg" />
+<figcaption></figcaption>
+</figure>
+
+<p><strong>Rela&ccedil;&atilde;o com a comunidade</strong></p>
 
 <p><br />
 Os assentamentos possuem uma rela&ccedil;&atilde;o pr&oacute;xima &agrave;s comunidades circunvizinhas. Isso se d&aacute;, por exemplo, por meio da participa&ccedil;&atilde;o no Programa Nacional de Alimenta&ccedil;&atilde;o Escolar (PNAE). Aderindo a este programa, a Reforma Agr&aacute;ria garante parte da merenda escolar dos munic&iacute;pios.</p>
@@ -119,7 +154,13 @@ A produ&ccedil;&atilde;o do chocolate org&acirc;nico tamb&eacute;m ajudou a comu
 Em 2012, por exemplo, o chocolate org&acirc;nico produzido pelos Sem Terra esteve presente na Rio+20 e no Salon du Chocolat (maior evento de chocolate do mundo), realizado em Salvador. Com o sucesso do produto, representantes do assentamento participaram do mesmo evento, no final de outubro, em Paris, na Fran&ccedil;a.</p>
 
 <p><br />
-<strong>Educa&ccedil;&atilde;o</strong></p>
+&nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="colégio!!.jpg" src="http://farm6.staticflickr.com/5495/18238571343_59e02c3485_b.jpg" />
+<figcaption></figcaption>
+</figure>
+
+<p><strong>Educa&ccedil;&atilde;o</strong></p>
 
 <p><br />
 Al&eacute;m da produ&ccedil;&atilde;o agr&iacute;cola e seus produtos, o Movimento interage com as comunidades e com os assentados por meio da educa&ccedil;&atilde;o. No Assentamento Terra Vista, a estrutura de educa&ccedil;&atilde;o atende &agrave;s crian&ccedil;as e jovens do campo e das comunidades urbanas &ldquo;Mudamos a vis&atilde;o do coronel de plantar, colher e vender para uma vis&atilde;o que questiona o que foi plantado e como foi plantado&rdquo;, diz Solange Santos, do MST vizinhas. Na educa&ccedil;&atilde;o infantil, a Escola Municipal Florestan Fernandes atende a forma&ccedil;&atilde;o at&eacute; o 5&ordm; ano.</p>
@@ -134,9 +175,11 @@ Para o n&iacute;vel m&eacute;dio e t&eacute;cnico profissionalizante, os estudan
 Fora do assentamento, h&aacute; a oportunidade no Ensino Superior. Isso ocorre por meio do Programa Nacional de Educa&ccedil;&atilde;o na Reforma Agr&aacute;ria (Pronera). Em parceria com a Universidade Estadual da Bahia (Uneb) e com o Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra), os Sem Terra conseguem cursar a educa&ccedil;&atilde;o superior no curso de Agronomia.</p>
 
 <p><br />
-Tendo como base o modo de vida no campo e suas singularidades, a pedagogia adotada nestes cursos &eacute; de altern&acirc;ncia, o que permite conciliar o trabalho rural com os estudos.</p>
+Tendo como base o modo de vida no campo e suas singularidades, a pedagogia adotada nestes cursos &eacute; de altern&acirc;ncia, o que permite conciliar o trabalho rural com os estudos.<br />
+&nbsp;</p>
 
-<p><br />
+<p><img alt="as crianças brincam com qualidade de vida!!!.jpg" src="http://farm4.staticflickr.com/3726/18854032582_a9770c6414_b.jpg" /><br />
+<br />
 Apesar das garantias conquistadas, o MST ainda enfrenta dificuldades na manuten&ccedil;&atilde;o dos projetos. &ldquo;Estamos sofrendo algumas perdas. Por exemplo, tivemos redu&ccedil;&atilde;o no apoio do governo a alguns projetos de educa&ccedil;&atilde;o. Internamente, essa perda se reflete na dificuldade de manter um trabalho de forma&ccedil;&atilde;o pol&iacute;tica dos formadores, o que configura um desafio para a organiza&ccedil;&atilde;o do coletivo de educa&ccedil;&atilde;o no assentamento&rdquo;, diz Mara Ribeiro.</p>
 
 <p><br />
@@ -153,6 +196,10 @@ Os assentamentos representam uma radical mudan&ccedil;a no cen&aacute;rio da pro
 
 <p><br />
 &ldquo;Na &eacute;poca dos coron&eacute;is, a gente era quase cativo, sem nenhuma regalia. A gente vendia o dia para comer e n&atilde;o tinha direito de fazer nem uma ro&ccedil;a&rdquo;, diz Cipriano, que come&ccedil;ou a trabalhar com 11 anos nas lavouras de cacau, recebendo um cruzeiro por dia. &ldquo;Hoje eu ganho mais e administro meu tempo, sem nenhum cabo de turma&rdquo;, completa.</p>
+
+<figure class="image"><img alt="Viveiros!!.jpg" src="http://farm6.staticflickr.com/5334/18673004189_fbb4190642_b.jpg" />
+<figcaption>No viveiro s&atilde;o produzidas 100 mil mudas por ano.</figcaption>
+</figure>
 
 <p><br />
 No tempo dos latifundi&aacute;rios do cacau, a educa&ccedil;&atilde;o n&atilde;o fazia parte dos planos dos trabalhadores. &ldquo;Meu pai n&atilde;o tinha condi&ccedil;&atilde;o de me por na escola, dizia que escola de menino era a ro&ccedil;a. Quando aprendi a escrever meu nome, eu j&aacute; era pai. Hoje, meus filhos sabem ler&rdquo;, relata Santos.</p>
