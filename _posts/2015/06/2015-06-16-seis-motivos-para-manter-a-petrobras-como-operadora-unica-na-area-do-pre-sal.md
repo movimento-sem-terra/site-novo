@@ -18,12 +18,18 @@ files:
     small: "http://farm6.staticflickr.com/5604/18674954399_a4a326cee6_n.jpg"
     title: petrobras_presal.jpg
     $$hashKey: 0PW
+  - link: "http://farm6.staticflickr.com/5532/18864023981_7bb2507ba0_b.jpg"
+    thumbnail: "http://farm6.staticflickr.com/5532/18864023981_7bb2507ba0_t.jpg"
+    medium: "http://farm6.staticflickr.com/5532/18864023981_7bb2507ba0_z.jpg"
+    small: "http://farm6.staticflickr.com/5532/18864023981_7bb2507ba0_n.jpg"
+    title: serra-é-pré-sal.jpg
+    $$hashKey: "057"
 created_date: "2015-06-16T10:54:23-03:00"
 published: true
 releated_posts: []
 
 ---
-<p><img alt="petrobras_presal.jpg" src="http://farm6.staticflickr.com/5604/18674954399_a4a326cee6_b.jpg" /></p>
+<p><img alt="serra-é-pré-sal.jpg" src="http://farm6.staticflickr.com/5532/18864023981_7bb2507ba0_b.jpg" /></p>
 
 <p><em>Da P&aacute;gina do MST</em></p>
 
