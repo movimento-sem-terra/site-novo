@@ -150,7 +150,7 @@
   "pattern": "",
   "icon": "fa-music",
   "title": "Músicas",
-  "required": false,
+  "required": true,
   "type": {
     "view": "tracks"
   },
@@ -165,7 +165,7 @@
   "pattern": "",
   "icon": "fa-file-archive-o",
   "title": "Link zip",
-  "required": false,
+  "required": true,
   "type": {
     "view": "zip"
   },
