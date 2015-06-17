@@ -9,7 +9,7 @@ title: Sem Terra reescrevem história do cacau no sul da Bahia
 support_line: Assentamentos substituem a lógica perversa da plantação de cacau dos coronéis pela construção coletiva de uma produção agroecológica.
 menu: reforma agrária
 sector: production
-section: cover
+section: featured-news
 images_hd: "http://farm6.staticflickr.com/5540/18861562011_b9d30dbd77_b.jpg"
 layout: post
 files:
