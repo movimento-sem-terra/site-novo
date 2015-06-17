@@ -4,7 +4,7 @@ tags:
   - tag: merenda-escolar
   - tag: reforma-agrária
   - tag: alimentação
-title: Prefeitura de SP compra mais de 650 toneladas de feijão da Reforma Agrária para merenda escolar
+title: Prefeitura de SP compra 650 toneladas de feijão da Reforma Agrária para merenda escolar
 support_line: "Além do feijão, as crianças da rede municipal também se beneficiarão com 95 toneladas de farinha de mandioca."
 menu: reforma agrária
 sector: production
