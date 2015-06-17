@@ -7,7 +7,7 @@ tags:
   - tag: projeto-popular
 title: Estamos em tempo de recrudescimento da luta de classes na América Latina
 menu: projeto popular
-support_line: "Em artigo, a economista Roberta Traspadini analisa dois projetos em disputa no continente. Um protagonizado pelo capital e outro pelos movimentos sociais."
+support_line: "Em artigo, a economista Roberta Traspadini analisa dois projetos em disputa: um protagonizado pelo capital e outro pelos movimentos."
 label: articles
 images_hd: "http://farm6.staticflickr.com/5562/18648439480_5a01a886eb_b.jpg"
 layout: post
