@@ -5,7 +5,7 @@ tags:
   - tag: reforma-agrária
   - tag: alimentação
 title: "Merenda escolar recebe 650 toneladas de feijão da Reforma Agrária, em SP"
-support_line: "Além do feijão, as crianças da rede municipal também se beneficiarão com 95 toneladas de farinha de mandioca."
+support_line: "Além do feijão, as crianças da rede municipal também se beneficiarão com 72 toneladas de farinha de mandioca."
 menu: reforma agrária
 sector: production
 section: cover
@@ -47,19 +47,19 @@ O alimento ser&aacute; usado no preparo de refei&ccedil;&otilde;es das mais de 5
 Desde 2013 as crian&ccedil;as j&aacute; v&ecirc;m comendo o arroz org&acirc;nico produzido pelos assentados do Rio Grande do Sul.</p>
 
 <p><br />
-Para Luiz Henrique Beambini, do Departamento de Alimenta&ccedil;&atilde;o Escolar da Prefeitura, a lei de compras - como &eacute; chamada&nbsp;a Lei Federal&nbsp;11.947/2009 que determina que 30% do valor do repasse do PNAE seja direcionado &agrave; compra de produtos da agricultura familiar - foi um dos determinantes para a garantia da seguran&ccedil;a alimentar nas escolas paulistanas.</p>
+Para Luiz Henrique Bambini, do Departamento de Alimenta&ccedil;&atilde;o Escolar da Prefeitura, a lei de compras - como &eacute; chamada&nbsp;a Lei Federal&nbsp;11.947/2009 que determina que 30% do valor do repasse do PNAE seja direcionado &agrave; compra de produtos da agricultura familiar - foi um dos determinantes para a garantia da seguran&ccedil;a alimentar nas escolas paulistanas.</p>
 
 <p><br />
 &quot;Hoje podemos garantir a seguran&ccedil;a alimentar nutricional nas escolas. Isso faz com que dois pilares importantes sejam mantidos. O primeiro &eacute; a introdu&ccedil;&atilde;o de alimentos de qualidade, eventualmente,&nbsp;livre de agrot&oacute;xicos nas escolas e, consequentemente, na vida das crian&ccedil;as. E o segundo &eacute; contribuir com a dissemina&ccedil;&atilde;o e fomento da agricultura familiar&quot;, diz.</p>
 
 <p><br />
-Para Baembini, assegurar a produ&ccedil;&atilde;o do pequeno agricultor &eacute; fundamental para manter a qualidade dos alimentos servidos nas escolas.</p>
+Para Bambini, assegurar a produ&ccedil;&atilde;o do pequeno agricultor &eacute; fundamental para manter a qualidade dos alimentos servidos nas escolas.</p>
 
 <p><br />
 &quot;O pequeno agricultor &eacute; quem produz os alimentos que consumimos&nbsp;e&nbsp;justamente o pequeno agricultor que menos subs&iacute;dios t&ecirc;m. Ao assegurarmos a produ&ccedil;&atilde;o, mantemos o agricultor na terra, no campo. &Eacute; um modo de lutarmos contra a press&atilde;o sofrida pela agricultura familiar, que hoje &eacute; comprimido pelas grandes planta&ccedil;&otilde;es de monoculturas e pelos latif&uacute;ndios&rdquo;, ressalta.</p>
 
 <p><br />
-Pol&iacute;ticas como essa, segundo Baembini, &ldquo;proporcionam uma melhor distribui&ccedil;&atilde;o e gest&atilde;o dos recursos p&uacute;blicos, o que &eacute; fundamental para o desenvolvimento de uma sociedade que se pretende mais justa&quot;.</p>
+Pol&iacute;ticas como essa, segundo Bambini, &ldquo;proporcionam uma melhor distribui&ccedil;&atilde;o e gest&atilde;o dos recursos p&uacute;blicos, o que &eacute; fundamental para o desenvolvimento de uma sociedade que se pretende mais justa&quot;.</p>
 
 <p><br />
 <strong>M&atilde;o de obra</strong></p>
