@@ -7,7 +7,7 @@ tags:
 title: "Jagunços invadem acampamento, atiram e ateiam fogo nos barracos"
 support_line: "O episódio aconteceu no Acampamento 1° de Maio, no município de Euclides da Cunha, região do Pontal do Paranapanema (SP)."
 menu: direitos humanos
-images_hd: "http://farm1.staticflickr.com/409/18703419259_20efc97e48_b.jpg"
+images_hd: "http://farm1.staticflickr.com/387/18702002948_6fd8b75a80_b.jpg"
 layout: post
 files:
   - link: "http://farm1.staticflickr.com/409/18703419259_20efc97e48_b.jpg"
@@ -41,7 +41,7 @@ releated_posts:
   - 2015/04/2015-04-14-aumenta-a-violencia-no-campo-e-os-sem-terra-se-transformam-em-alvo-principal.md
 
 ---
-<p>&nbsp;</p>
+<p><img alt="Pertences_Acamp 1 de Maio.png" src="http://farm1.staticflickr.com/387/18702002948_6fd8b75a80_b.jpg" /></p>
 
 <figure class="image" style="float:right"><img alt="Imagem Agressão_Acamp 1 de Maio.png" src="http://farm1.staticflickr.com/409/18703419259_20efc97e48_b.jpg" />
 <figcaption>Os barracos e pertences foram queimados. Fotos da imprensa local.</figcaption>
