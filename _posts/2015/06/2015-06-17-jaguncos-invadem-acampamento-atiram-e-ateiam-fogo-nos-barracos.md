@@ -41,7 +41,7 @@ releated_posts:
   - 2015/04/2015-04-14-aumenta-a-violencia-no-campo-e-os-sem-terra-se-transformam-em-alvo-principal.md
 
 ---
-<p><img alt="Pertences_Acamp 1 de Maio.png" src="http://farm1.staticflickr.com/387/18702002948_6fd8b75a80_b.jpg" /></p>
+<p>&nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="Imagem Agressão_Acamp 1 de Maio.png" src="http://farm1.staticflickr.com/409/18703419259_20efc97e48_b.jpg" />
 <figcaption>Os barracos e pertences foram queimados. Fotos da imprensa local.</figcaption>
@@ -59,4 +59,10 @@ Os acampados conseguiram escapar a tempo, mas tiveram seus barracos e pertences 
 A &aacute;rea pertence &agrave; antiga Ferrovia Paulista S.A. (FEPASA), e fica pr&oacute;ximo a diversos latif&uacute;ndios com suspeitas de grilagem. Os trabalhadores rurais acreditam que o ataque tenha partido dos fazendeiros locais para amedrontar e constranger a luta dos trabalhadores.</p>
 
 <p><br />
-Segundo nota da dire&ccedil;&atilde;o regional do MST, os Sem Terra seguem em luta &ldquo;para que as terras p&uacute;bicas do Pontal sejam arrecadadas para fins de Reforma Agr&aacute;ria e cumpram sua fun&ccedil;&atilde;o social, produzindo alimentos saud&aacute;veis para a popula&ccedil;&atilde;o&rdquo;.<img alt="Marcas Tiros_Acamp 1 de Maio.png" src="http://farm6.staticflickr.com/5491/18268957093_82669b3dc1_b.jpg" /></p>
+Segundo nota da dire&ccedil;&atilde;o regional do MST, os Sem Terra seguem em luta &ldquo;para que as terras p&uacute;bicas do Pontal sejam arrecadadas para fins de Reforma Agr&aacute;ria e cumpram sua fun&ccedil;&atilde;o social, produzindo alimentos saud&aacute;veis para a popula&ccedil;&atilde;o&rdquo;.</p>
+
+<p>&nbsp;</p>
+
+<figure class="image"><img alt="Marcas Tiros_Acamp 1 de Maio.png" src="http://farm6.staticflickr.com/5491/18268957093_82669b3dc1_b.jpg" />
+<figcaption>Marcas de bala encontrada no local.</figcaption>
+</figure>
