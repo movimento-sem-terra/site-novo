@@ -8,7 +8,7 @@ title: "Merenda escolar recebe 650 toneladas de feijão da Reforma Agrária, em 
 support_line: "Além do feijão, as crianças da rede municipal também se beneficiarão com 72 toneladas de farinha de mandioca."
 menu: reforma agrária
 sector: production
-section: cover
+section: featured-news
 images_hd: "http://farm1.staticflickr.com/404/18890201995_439a958189_b.jpg"
 layout: post
 files:
