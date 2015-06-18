@@ -30,12 +30,12 @@ files:
     small: "http://farm4.staticflickr.com/3740/18924673911_d9376bffb6_n.jpg"
     title: pronera_Paulo_H._Carvalho-MDA1.jpg
     $$hashKey: "033"
-  - link: "http://farm1.staticflickr.com/290/18735949088_6f5fc48bcb_b.jpg"
-    thumbnail: "http://farm1.staticflickr.com/290/18735949088_6f5fc48bcb_t.jpg"
-    medium: "http://farm1.staticflickr.com/290/18735949088_6f5fc48bcb_z.jpg"
-    small: "http://farm1.staticflickr.com/290/18735949088_6f5fc48bcb_n.jpg"
-    title: Cursos_do_Pronera_por_município_de_realização_(1998-2011).jpg.png
-    $$hashKey: 05M
+  - link: "http://farm1.staticflickr.com/395/18736415600_13019b0cc7_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/395/18736415600_13019b0cc7_t.jpg"
+    medium: "http://farm1.staticflickr.com/395/18736415600_13019b0cc7_z.jpg"
+    small: "http://farm1.staticflickr.com/395/18736415600_13019b0cc7_n.jpg"
+    title: Cursos_do_Pronera_por_município_de_realização_(1998-2011).jpg
+    $$hashKey: 05L
 created_date: "2015-06-18T09:35:56-03:00"
 published: true
 releated_posts:
@@ -82,7 +82,7 @@ No per&iacute;odo entre 1998 a 2011 foram realizados 320 cursos do PRONERA por m
 Para a Presidenta do Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (INCRA), Maria L&uacute;cia Falc&oacute;n, a for&ccedil;a do PRONERA est&aacute; nas parcerias e na revis&atilde;o do conhecimento na pr&aacute;tica. &quot;O que acontece aqui &eacute; a avalia&ccedil;&atilde;o de uma pol&iacute;tica p&uacute;blica provando que ela deu certo em efic&aacute;cia, efici&ecirc;ncia e efetividade&quot;.<br />
 &nbsp;</p>
 
-<p><img alt="Cursos_do_Pronera_por_município_de_realização_(1998-2011).jpg.png" src="http://farm1.staticflickr.com/290/18735949088_6f5fc48bcb_b.jpg" /><br />
+<p><img alt="Cursos_do_Pronera_por_município_de_realização_(1998-2011).jpg" src="http://farm1.staticflickr.com/395/18736415600_13019b0cc7_b.jpg" /><br />
 <br />
 <strong>PNERA</strong></p>
 
