@@ -30,6 +30,12 @@ files:
     small: "http://farm4.staticflickr.com/3740/18924673911_d9376bffb6_n.jpg"
     title: pronera_Paulo_H._Carvalho-MDA1.jpg
     $$hashKey: "033"
+  - link: "http://farm1.staticflickr.com/290/18735949088_6f5fc48bcb_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/290/18735949088_6f5fc48bcb_t.jpg"
+    medium: "http://farm1.staticflickr.com/290/18735949088_6f5fc48bcb_z.jpg"
+    small: "http://farm1.staticflickr.com/290/18735949088_6f5fc48bcb_n.jpg"
+    title: Cursos_do_Pronera_por_município_de_realização_(1998-2011).jpg.png
+    $$hashKey: 05M
 created_date: "2015-06-18T09:35:56-03:00"
 published: true
 releated_posts:
@@ -55,16 +61,16 @@ O objetivo do programa &eacute; caracterizar a demanda educacional e diagnostica
 <p><br />
 Ao apresentar os dados da pesquisa, a professora M&ocirc;nica Molina, da Universidade de Bras&iacute;lia (UnB), salientou que &quot;o PRONERA vem para garantir o direito &agrave; educa&ccedil;&atilde;o por altern&acirc;ncia e que a pesquisa traz informa&ccedil;&otilde;es extremamente relevantes que ajudam a conhecer o que essa pol&iacute;tica faz. Al&eacute;m de trazer resultados positivos de transforma&ccedil;&otilde;es que se repercutem n&atilde;o apenas na vida individual desses sujeitos, mas tamb&eacute;m que o conjunto se beneficia, porque tem inser&ccedil;&atilde;o no cotidiano das &aacute;reas de reforma agr&aacute;ria&quot;.</p>
 
-<p><br />
-Segundo Alexandre Concei&ccedil;&atilde;o, da coordena&ccedil;&atilde;o nacional do MST, a educa&ccedil;&atilde;o &eacute; fundamental para fazer a transforma&ccedil;&atilde;o social. Por&eacute;m, a demanda do campo, mesmo com os resultados positivos do PRONERA, ainda &eacute; reprimida e critica o governo por fortalecer uma pol&iacute;tica unicamente tecnicista.</p>
-
 <p>&nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="pronera_Paulo_H._Carvalho-MDA2.jpg" src="http://farm1.staticflickr.com/418/18924666881_4ea244a6fb_b.jpg" />
 <figcaption></figcaption>
 </figure>
 
-<p>&quot;O lema do governo &eacute; P&aacute;tria Educadora, mas n&oacute;s n&atilde;o queremos uma p&aacute;tria de Pronatec, queremos formar seres humanos, sujeitos hist&oacute;ricos. Por isso precisamos avan&ccedil;ar com o PRONERA, para que o povo tenha uma educa&ccedil;&atilde;o libertadora, como sonhou Paulo Freire&quot;, afirmou Concei&ccedil;&atilde;o.</p>
+<p>Segundo Alexandre Concei&ccedil;&atilde;o, da coordena&ccedil;&atilde;o nacional do MST, a educa&ccedil;&atilde;o &eacute; fundamental para fazer a transforma&ccedil;&atilde;o social. Por&eacute;m, a demanda do campo, mesmo com os resultados positivos do PRONERA, ainda &eacute; reprimida e critica o governo por fortalecer uma pol&iacute;tica unicamente tecnicista.</p>
+
+<p><br />
+&quot;O lema do governo &eacute; P&aacute;tria Educadora, mas n&oacute;s n&atilde;o queremos uma p&aacute;tria de Pronatec, queremos formar seres humanos, sujeitos hist&oacute;ricos. Por isso precisamos avan&ccedil;ar com o PRONERA, para que o povo tenha uma educa&ccedil;&atilde;o libertadora, como sonhou Paulo Freire&quot;, afirmou Concei&ccedil;&atilde;o.</p>
 
 <p><br />
 J&aacute; o Ministro do Desenvolvimento Agr&aacute;rio, Patrus Ananias, afirmou a necessidade de integra&ccedil;&atilde;o das pol&iacute;ticas p&uacute;blicas de educa&ccedil;&atilde;o com sa&uacute;de, infraestrutura. &quot;O direito &agrave; terra deve ser conciliado com os direitos b&aacute;sicos, nenhuma pol&iacute;tica por si s&oacute; vai promover a transforma&ccedil;&atilde;o que queremos&quot;.</p>
@@ -73,9 +79,11 @@ J&aacute; o Ministro do Desenvolvimento Agr&aacute;rio, Patrus Ananias, afirmou 
 No per&iacute;odo entre 1998 a 2011 foram realizados 320 cursos do PRONERA por meio de 82 institui&ccedil;&otilde;es de ensino em todo o pa&iacute;s, sendo 167 de Educa&ccedil;&atilde;o de Jovens e Adultos Fundamental, 99 de n&iacute;vel M&eacute;dio e 54 de n&iacute;vel Superior. Os cursos foram realizados em 880 munic&iacute;pios, em todas as unidades da federa&ccedil;&atilde;o.</p>
 
 <p><br />
-Para a Presidenta do Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (INCRA), Maria L&uacute;cia Falc&oacute;n, a for&ccedil;a do PRONERA est&aacute; nas parcerias e na revis&atilde;o do conhecimento na pr&aacute;tica. &quot;O que acontece aqui &eacute; a avalia&ccedil;&atilde;o de uma pol&iacute;tica p&uacute;blica provando que ela deu certo em efic&aacute;cia, efici&ecirc;ncia e efetividade&quot;.</p>
+Para a Presidenta do Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (INCRA), Maria L&uacute;cia Falc&oacute;n, a for&ccedil;a do PRONERA est&aacute; nas parcerias e na revis&atilde;o do conhecimento na pr&aacute;tica. &quot;O que acontece aqui &eacute; a avalia&ccedil;&atilde;o de uma pol&iacute;tica p&uacute;blica provando que ela deu certo em efic&aacute;cia, efici&ecirc;ncia e efetividade&quot;.<br />
+&nbsp;</p>
 
-<p><br />
+<p><img alt="Cursos_do_Pronera_por_município_de_realização_(1998-2011).jpg.png" src="http://farm1.staticflickr.com/290/18735949088_6f5fc48bcb_b.jpg" /><br />
+<br />
 <strong>PNERA</strong></p>
 
 <p><br />
