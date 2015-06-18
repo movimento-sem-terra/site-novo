@@ -4,11 +4,11 @@ tags:
   - tag: educação
   - tag: pronera
   - tag: reforma-agrária
-title: "“Precisamos avançar com o PRONERA para que o povo tenha uma educação libertadora\""
+title: Programa Nacional de Educação na Reforma Agrária atendeu mais de 164 mil assentados
 images_hd: "http://farm1.staticflickr.com/303/18734090150_9df2f8f4b8_b.jpg"
 sector: education
 menu: "educação, cultura e comunicação"
-support_line: Pesquisa aponta que Programa Nacional de Educação na Reforma Agrária atendeu 164.894 assentados desde sua criação.
+support_line: "Para Alexandre Conceição, é preciso avançar com o PRONERA \"para que o povo tenha uma educação libertadora, como sonhou Paulo Freire\"."
 section: cover
 layout: post
 files:
