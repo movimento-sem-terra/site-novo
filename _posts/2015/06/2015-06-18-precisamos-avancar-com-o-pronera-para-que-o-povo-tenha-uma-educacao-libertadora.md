@@ -4,7 +4,7 @@ tags:
   - tag: educação
   - tag: pronera
   - tag: reforma-agrária
-title: Programa Nacional de Educação na Reforma Agrária atendeu mais de 164 mil assentados
+title: Mais de 164 mil assentados foram atendidos pelo Programa de Educação na Reforma Agrária
 images_hd: "http://farm1.staticflickr.com/303/18734090150_9df2f8f4b8_b.jpg"
 sector: education
 menu: "educação, cultura e comunicação"
