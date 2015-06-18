@@ -113,4 +113,4 @@ Para ele, &ldquo;o PRONERA &eacute; a trincheira que construiu a tr&iacute;ade d
 A coordenadora geral de Educa&ccedil;&atilde;o no Campo e Cidadania do Incra, Raquel Buitr&oacute;n Vuelta, comentou que o PRONERA &eacute; uma das poucas pol&iacute;ticas p&uacute;blicas que existem atualmente - pelo menos no Incra - que tem a participa&ccedil;&atilde;o ativa dos trabalhadores.</p>
 
 <p><br />
-&quot;O PNERA &eacute; resultado de um processo anterior dos movimentos sociais do campo, &eacute; visualizar uma a&ccedil;&atilde;o que tem toda uma hist&oacute;ria com protagonismo dos trabalhadores rurais que lutam e pressionam pela continua&ccedil;&atilde;o do programa&quot;.</p>
+&quot;A II PNERA&nbsp;&eacute; resultado de um processo anterior dos movimentos sociais do campo, &eacute; visualizar uma a&ccedil;&atilde;o que tem toda uma hist&oacute;ria com protagonismo dos trabalhadores rurais que lutam e pressionam pela continua&ccedil;&atilde;o do programa de educa&ccedil;&atilde;o do campo&quot;.</p>
