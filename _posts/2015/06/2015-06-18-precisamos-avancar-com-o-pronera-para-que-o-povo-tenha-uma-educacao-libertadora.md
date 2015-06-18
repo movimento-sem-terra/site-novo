@@ -56,7 +56,7 @@ Da P&aacute;gina do MST</em></p>
 Na tarde desta quarta-feira (17), o Programa Nacional de Educa&ccedil;&atilde;o na Reforma Agr&aacute;ria (Pronera) lan&ccedil;ou a Segunda Pesquisa Nacional de Educa&ccedil;&atilde;o na Reforma Agr&aacute;ria (II Pnera), realizada em parceria com o Instituto Nacional de Estudos e Pesquisa An&iacute;sio Teixeira (MEC-INEP) e o Instituto de Pesquisas Aplicadas (Ipea).</p>
 
 <p><br />
-O objetivo do programa &eacute; caracterizar a demanda educacional e diagnosticar a situa&ccedil;&atilde;o do ensino ofertado nos assentamentos da Reforma Agr&aacute;ria. A pesquisa aponta que o PRONERA atendeu 164.894 moradores de assentamentos desde sua cria&ccedil;&atilde;o, de 1998 at&eacute; 2011.</p>
+A pesquisa teve como objetivo caracterizar a demanda educacional e diagnosticar a situa&ccedil;&atilde;o do ensino ofertado nos assentamentos da Reforma Agr&aacute;ria. A pesquisa aponta que o PRONERA atendeu 164.894 moradores de assentamentos desde sua cria&ccedil;&atilde;o, de 1998 at&eacute; 2011.</p>
 
 <p><br />
 Ao apresentar os dados da pesquisa, a professora M&ocirc;nica Molina, da Universidade de Bras&iacute;lia (UnB), salientou que &quot;o PRONERA vem para garantir o direito &agrave; educa&ccedil;&atilde;o por altern&acirc;ncia e que a pesquisa traz informa&ccedil;&otilde;es extremamente relevantes que ajudam a conhecer o que essa pol&iacute;tica faz. Al&eacute;m de trazer resultados positivos de transforma&ccedil;&otilde;es que se repercutem n&atilde;o apenas na vida individual desses sujeitos, mas tamb&eacute;m que o conjunto se beneficia, porque tem inser&ccedil;&atilde;o no cotidiano das &aacute;reas de reforma agr&aacute;ria&quot;.</p>
