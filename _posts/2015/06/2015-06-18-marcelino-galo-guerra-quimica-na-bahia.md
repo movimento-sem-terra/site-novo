@@ -1,11 +1,11 @@
 ---
-date: "2015-06-18T11:19:32-03:00"
+date: "2015-06-18T09:19:32-03:00"
 tags:
   - tag: agrotóxicos
   - tag: bahia
   - tag: saúde
-title: "Marcelino Galo: Guerra química na Bahia"
-support_line: "Luta política pela regulamentação dos agrotóxicos eclode no Estado, em meio às advertências dos cientistas."
+title: Luta pela regulamentação dos agrotóxicos eclode na Bahia
+support_line: O Estado da Bahia vive uma disputa no legislativo entre os que lutam para regularizar o uso e o comércio de agrotóxicos e uma bancada disposta a “barrar” a regularização.
 menu: agronegócio
 images_hd: "http://farm1.staticflickr.com/443/18736789640_cc6a7cd320_b.jpg"
 layout: post
