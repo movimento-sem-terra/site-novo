@@ -25,9 +25,9 @@ releated_posts:
   - 2015/03/2015-03-03-e-preciso-voltar-para-os-valores-originais-das-cooperativas-afirma-papa.md
 
 ---
-<p><img alt="papa.jpg" src="http://farm1.staticflickr.com/450/18739855379_3447d0d667_b.jpg" /><br />
-<br />
-<br />
+<p><img alt="papa.jpg" src="http://farm1.staticflickr.com/450/18739855379_3447d0d667_b.jpg" /></p>
+
+<p><br />
 <em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
