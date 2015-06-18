@@ -82,7 +82,7 @@ Isolete tamb&eacute;m chama aten&ccedil;&atilde;o para o consumo de &aacute;gua 
 Para ela, o discurso de possibilitar a ascens&atilde;o social de pequenos produtores locais &eacute; apenas uma ret&oacute;rica. &ldquo;O que se busca mesmo &eacute; o incremento da produ&ccedil;&atilde;o e da exporta&ccedil;&atilde;o agropecu&aacute;ria do pa&iacute;s, fonte de lucro para os empres&aacute;rios do agroneg&oacute;cio&rdquo;.</p>
 
 <p><br />
-Em carta aberta, a CPT alerta &agrave; sociedade o avan&ccedil;a sobre o Cerrado e as comunidades com o discurso do desenvolvimento econ&ocirc;mico, sem medir as consequ&ecirc;ncias da acelerada e violenta destrui&ccedil;&atilde;o do bioma.</p>
+Em carta aberta, a CPT alerta &agrave; sociedade sobre os avan&ccedil;os do agroneg&oacute;cio no Cerrado&nbsp;com o discurso do desenvolvimento econ&ocirc;mico, sem medir as consequ&ecirc;ncias da acelerada e violenta destrui&ccedil;&atilde;o do bioma.</p>
 
 <p><br />
 A entidade qualifica como um forte ataque desferido contra o Cerrado, que poder&aacute; acelerar ainda mais a destrui&ccedil;&atilde;o do bioma, que tem uma fun&ccedil;&atilde;o vital para o pa&iacute;s, por sua grande biodiversidade e, sobretudo, por dele se originarem as fontes das principais bacias hidrogr&aacute;ficas do Brasil.</p>
