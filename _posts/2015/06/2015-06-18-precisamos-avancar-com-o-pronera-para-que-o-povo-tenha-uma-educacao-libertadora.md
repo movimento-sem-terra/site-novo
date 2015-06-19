@@ -9,7 +9,7 @@ images_hd: "http://farm1.staticflickr.com/303/18734090150_9df2f8f4b8_b.jpg"
 sector: education
 menu: "educação, cultura e comunicação"
 support_line: "Para Alexandre Conceição, é preciso avançar com o PRONERA \"para que o povo tenha uma educação libertadora, como sonhou Paulo Freire\"."
-section: cover
+section: featured-news
 layout: post
 files:
   - link: "http://farm1.staticflickr.com/303/18734090150_9df2f8f4b8_b.jpg"
