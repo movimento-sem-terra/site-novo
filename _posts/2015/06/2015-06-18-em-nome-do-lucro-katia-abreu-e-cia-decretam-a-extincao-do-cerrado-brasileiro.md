@@ -4,7 +4,7 @@ tags:
   - tag: agronegócio
   - tag: cerrado
   - tag: meio-ambiente
-title: "Em nome do lucro, Kátia Abreu e cia decretam a extinção do Cerrado brasileiro"
+title: "Em nome do lucro, Kátia Abreu e cia decretam a extinção do Cerrado"
 images_hd: "http://farm4.staticflickr.com/3727/18736745539_009e0c94da_b.jpg"
 support_line: "MAPA anuncia um dos maiores planos de desenvolvimento do Cerrado, mas na prática pode significar um grande retrocesso ambiental e social."
 menu: agronegócio
