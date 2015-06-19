@@ -6,8 +6,8 @@ tags:
   - tag: agronegócio
   - tag: retrocesso
   - tag: assentamento
-title: "Faz parte da Reforma Agrária a disputa do modelo de produção para a agricultura, afirma dirigente"
-support_line: "Em entrevista Cedenir de Oliveira, avaliou os primeiros meses de 2015 e falou sobre a organização do Movimento para o próximo período."
+title: "\"A Reforma Agrária está no bojo da discussão sobre alimentos sadios\", afirma dirigente do MST"
+support_line: "Em entrevista, Cedenir de Oliveira, avaliou os primeiros meses de 2015 e falou sobre a organização do Movimento para o próximo período."
 menu: lutas e mobilizações
 images_hd: "http://farm4.staticflickr.com/3896/18952269942_4ebd82939b_b.jpg"
 layout: post
