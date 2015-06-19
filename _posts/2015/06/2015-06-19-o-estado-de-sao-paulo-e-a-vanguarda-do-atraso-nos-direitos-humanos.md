@@ -29,10 +29,8 @@ releated_posts:
 <em>Por Flaviana Serafim e Vanessa Ramos<br />
 Da CUT S&atilde;o Paulo</em></p>
 
-<p>&nbsp;
 <p><br />
 &ldquo;O Brasil tem 515 anos de hist&oacute;ria oficial e quase 400 anos de escravid&atilde;o. Se imagin&aacute;ssemos uma pessoa de 40 anos que tivesse vivido tr&ecirc;s quartos de sua vida sob escravid&atilde;o, ela teria vivido a vida dela quase toda nesta condi&ccedil;&atilde;o e, os &uacute;ltimos 10 anos da vida sem escravid&atilde;o, teria sido recortado por duas ditaduras. Como, ent&atilde;o, seria a mentalidade desta pessoa, o perfil psicol&oacute;gico dela?&rdquo;</p>
-</p>
 
 <p><br />
 Foi assim que iniciou a fala do professor e militante do movimento negro, Douglas Belchior, na abertura do 1&ordm; Semin&aacute;rio de Direitos Humanos em S&atilde;o Paulo, organizado pelo F&oacute;rum dos Movimentos Sociais do Estado de S&atilde;o Paulo, realizado nesta sexta (19), na Assembleia Legislativa paulista.</p>
