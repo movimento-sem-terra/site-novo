@@ -19,12 +19,12 @@ files:
     small: "http://farm1.staticflickr.com/523/18770072079_deee1a1cbc_n.jpg"
     title: 1419725399642.jpg
     $$hashKey: 06G
-  - link: "http://farm4.staticflickr.com/3666/18930215636_5702239f41_b.jpg"
-    thumbnail: "http://farm4.staticflickr.com/3666/18930215636_5702239f41_t.jpg"
-    medium: "http://farm4.staticflickr.com/3666/18930215636_5702239f41_z.jpg"
-    small: "http://farm4.staticflickr.com/3666/18930215636_5702239f41_n.jpg"
-    title: images.jpg
-    $$hashKey: 05V
+  - link: "http://farm1.staticflickr.com/506/18951280872_960630dd8b_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/506/18951280872_960630dd8b_t.jpg"
+    medium: "http://farm1.staticflickr.com/506/18951280872_960630dd8b_z.jpg"
+    small: "http://farm1.staticflickr.com/506/18951280872_960630dd8b_n.jpg"
+    title: download (1).jpg
+    $$hashKey: 0BO
 created_date: "2015-06-19T11:30:42-03:00"
 published: true
 releated_posts:
@@ -80,10 +80,6 @@ As propriedades de cacau empregam muita gente porque &ldquo;sua m&atilde;o de ob
 <p>Al&eacute;m de empregos e renda que mant&ecirc;m as fam&iacute;lias no campo, o cultivo de cacau impulsiona o reflorestamento. Medicil&acirc;ndia ainda tem dois ter&ccedil;os de popula&ccedil;&atilde;o rural e, vista do ar, mostra ser um munic&iacute;pio que conservou suas florestas nativas. Isso ocorre porque os cacaueiros necessitam da sombra de &aacute;rvores mais altas, para sua sa&uacute;de e produtividade. Quanto est&atilde;o crescendo, se usa a sombra de bananeiras, o que, por sua vez, aumentou muito a oferta local desse fruto.</p>
 
 <p>&nbsp;</p>
-
-<figure class="image" style="float:right"><img alt="images.jpg" height="266" src="http://farm4.staticflickr.com/3666/18930215636_5702239f41_b.jpg" width="400" />
-<figcaption></figcaption>
-</figure>
 
 <p>&ldquo;Temos o privil&eacute;gio de trabalhar &agrave; sombra&rdquo;, brincou Jedielcio Oliveira, coordenador comercial do Programa de Produ&ccedil;&atilde;o Org&acirc;nica, desenvolvido na regi&atilde;o Transamaz&ocirc;nica/Xingu pelo Ceplac, por outras institui&ccedil;&otilde;es nacionais e pela Ag&ecirc;ncia Alem&atilde; de Coopera&ccedil;&atilde;o T&eacute;cnica. Por&eacute;m, a produ&ccedil;&atilde;o org&acirc;nica ainda &eacute; muito pequena, apenas 1% do total do Estado do Par&aacute;, onde fica Medicil&acirc;ndia e toda a &aacute;rea de influ&ecirc;ncia de Belo Monte.</p>
 
