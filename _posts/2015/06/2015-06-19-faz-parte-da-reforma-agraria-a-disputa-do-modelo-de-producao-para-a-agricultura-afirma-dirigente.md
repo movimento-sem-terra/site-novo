@@ -7,7 +7,7 @@ tags:
   - tag: retrocesso
   - tag: assentamento
 title: "Faz parte da Reforma Agrária a disputa do modelo de produção para a agricultura, afirma dirigente"
-support_line: "Em entrevista Cedenir de Oliveira, avaliou os primeiros meses de 2015 e falou sobre a organização do Movimento para o próximo período. "
+support_line: "Em entrevista Cedenir de Oliveira, avaliou os primeiros meses de 2015 e falou sobre a organização do Movimento para o próximo período."
 menu: lutas e mobilizações
 images_hd: "http://farm4.staticflickr.com/3896/18952269942_4ebd82939b_b.jpg"
 layout: post
@@ -57,48 +57,46 @@ releated_posts:
 ---
 <p class="Standard"><img alt="Camponesas_marcham_em_defesa_da_soberania_alimentar,_em_Porto_Alegre_-_crédito_Tiago_Giannichini (2).jpg" height="421" src="http://farm1.staticflickr.com/534/18335069524_df21d791fc_b.jpg" width="700" /></p>
 
-<p class="Standard">&nbsp;</p>
+<p><br />
+<em>Por Catiana de Medeiros<br />
+Da P&aacute;gina do MST</em></p>
 
-<p class="Standard"><em>Por Catiana de Medeiros<br />
-Da P&aacute;gina do MST</em><br style="box-sizing: inherit; color: rgb(85, 85, 85); font-family: 'Exo 2', Helvetica, Arial, sans-serif; font-size: 17.6000003814697px; line-height: 25.1428318023682px;" />
-&nbsp;</p>
+<p><br />
+O ano de 2015 est&aacute; sendo marcado por in&uacute;meras manifesta&ccedil;&otilde;es contr&aacute;rias aos retrocessos humanos e trabalhistas impostos por governantes ao povo brasileiro.</p>
 
-<p class="Standard"><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">O ano de 2015 est&aacute; sendo marcado por in&uacute;meras manifesta&ccedil;&otilde;es contr&aacute;rias aos retrocessos humanos e trabalhistas impostos por governantes ao povo brasileiro. <o:p></o:p></span></p>
+<p><br />
+O MST est&aacute; entre os movimentos sociais que protagonizam, em todo o pa&iacute;s, a&ccedil;&otilde;es de lutas para a manuten&ccedil;&atilde;o dos direitos dos trabalhadores e das trabalhadoras.</p>
 
-<p class="Standard"><br />
-<span style="font-size:11.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">O MST est&aacute; entre os movimentos sociais que protagonizam, em todo o pa&iacute;s, a&ccedil;&otilde;es de lutas para a manuten&ccedil;&atilde;o dos direitos dos trabalhadores e das trabalhadoras.<o:p></o:p></span></p>
+<p><br />
+Nesse sentido, reafirmando a luta pela Reforma Agr&aacute;ria e pela soberania alimentar, o dirigente nacional MST no Rio Grande do Sul, Cedenir de Oliveira, avaliou os primeiros meses do ano e falou sobre a organiza&ccedil;&atilde;o do Movimento para o pr&oacute;ximo per&iacute;odo.</p>
 
-<p class="Standard"><br />
-<span style="font-size:11.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Nesse sentido, reafirmando a luta pela Reforma Agr&aacute;ria e pela soberania alimentar, o dirigente nacional MST no Rio Grande do Sul, Cedenir de Oliveira, avaliou os primeiros meses do ano e falou sobre a organiza&ccedil;&atilde;o do Movimento para o pr&oacute;ximo per&iacute;odo. <o:p></o:p></span></p>
+<p><br />
+Confira a entrevista:</p>
 
-<p class="Standard"><br />
-<span style="font-size:11.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;"><strong>Confira a entrevista:</strong><o:p></o:p></span></p>
-
-<p class="Standard"><br />
-&nbsp;</p>
-
-<figure class="image" style="float:right"><img alt="20140222por-vinicius-roratto-6961.jpg" height="200" src="http://farm1.staticflickr.com/460/18958232275_f2f2679634_b.jpg" width="300" />
-<figcaption></figcaption>
+<figure class="image" style="float:right"><img alt="20140222por-vinicius-roratto-6961.jpg" src="http://farm1.staticflickr.com/460/18958232275_f2f2679634_b.jpg" />
+<figcaption>Para Cedenir Oliveira, a Reforma Agr&aacute;ria &eacute; muito mais que a distribui&ccedil;&atilde;o de terras.</figcaption>
 </figure>
 
-<p class="Standard"><b><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Como voc&ecirc; avalia as a&ccedil;&otilde;es realizadas nos primeiros meses de 2015?</span></b><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;"><o:p></o:p></span></p>
+<p><br />
+<strong>Como voc&ecirc; avalia as a&ccedil;&otilde;es realizadas nos primeiros meses de 2015?</strong></p>
 
-<p class="Standard">&nbsp;</p>
+<p><br />
+N&oacute;s fizemos uma boa jornada, fruto do processo de prepara&ccedil;&atilde;o que tivemos desde o ano passado com outros movimentos sociais. Com isso, conseguimos fazer lutas massivas que responderam &agrave; onda conservadora que se instalava no pa&iacute;s. Tamb&eacute;m recolocamos na pauta social os temas espec&iacute;ficos da Reforma Agr&aacute;ria, a quest&atilde;o dos alimentos saud&aacute;veis, a luta das mulheres, al&eacute;m de denunciarmos o uso abusivo de agrot&oacute;xicos e as condi&ccedil;&otilde;es prec&aacute;rias dos nossos assentamentos.</p>
 
-<p class="Standard"><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">N&oacute;s fizemos uma boa jornada, fruto do processo de prepara&ccedil;&atilde;o que tivemos desde o ano passado com outros movimentos sociais. Com isso, conseguimos fazer lutas massivas que responderam &agrave; onda conservadora que se instalava no pa&iacute;s. Tamb&eacute;m recolocamos na pauta social os temas espec&iacute;ficos da Reforma Agr&aacute;ria, a quest&atilde;o dos alimentos saud&aacute;veis, a luta das mulheres, al&eacute;m de denunciarmos o uso abusivo de agrot&oacute;xicos e as condi&ccedil;&otilde;es prec&aacute;rias dos nossos assentamentos. <o:p></o:p></span></p>
+<p><br />
+<strong>De que forma o MST tem trabalhado com a sociedade a quest&atilde;o dos agrot&oacute;xicos?</strong></p>
 
-<p class="Standard"><br />
-<b><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">De que forma o MST tem trabalhado com a sociedade a quest&atilde;o dos agrot&oacute;xicos?</span></b><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;"><o:p></o:p></span></p>
+<p><br />
+O tema dos agrot&oacute;xicos faz parte de uma ideia geral que vem no conceito da Reforma Agr&aacute;ria. Hoje, a Reforma Agr&aacute;ria n&atilde;o &eacute; apenas o processo de democratiza&ccedil;&atilde;o da terra, ela &eacute; tamb&eacute;m uma disputa do modelo de produ&ccedil;&atilde;o para a agricultura. Ao enfrentarmos o agroneg&oacute;cio denunciamos todas as contradi&ccedil;&otilde;es que envolvem esse modelo, desde a depend&ecirc;ncia financeira, econ&ocirc;mica, a produ&ccedil;&atilde;o de alimentos sem qualidade, at&eacute; problemas ambientais e de envenenamentos.</p>
 
-<p class="Standard"><br />
-<span style="font-size:11.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">O tema dos agrot&oacute;xicos faz parte de uma ideia geral que vem no conceito da Reforma Agr&aacute;ria. Hoje, a Reforma Agr&aacute;ria n&atilde;o &eacute; apenas o processo de democratiza&ccedil;&atilde;o da terra, ela &eacute; tamb&eacute;m uma disputa do modelo de produ&ccedil;&atilde;o para a agricultura. Ao enfrentarmos o agroneg&oacute;cio denunciamos todas as contradi&ccedil;&otilde;es que envolvem esse modelo, desde a depend&ecirc;ncia financeira, econ&ocirc;mica, a produ&ccedil;&atilde;o de alimentos sem qualidade, at&eacute; problemas ambientais e de envenenamentos. Este &eacute; o tema que mais tem apelo no dia a dia das pessoas, pois todos t&ecirc;m hoje algum familiar ou vizinho sofrendo com c&acirc;ncer. Sendo assim, a Reforma Agr&aacute;ria est&aacute; inserida no bojo de discuss&otilde;es que temos feito sobre a produ&ccedil;&atilde;o de alimentos sadios. S&oacute; que, para produzir alimentos sadios &eacute; preciso diversificar a produ&ccedil;&atilde;o, e para diversificar a produ&ccedil;&atilde;o, tem que ter campon&ecirc;s no campo, e para ter campon&ecirc;s no campo, &eacute; preciso fazer a Reforma Agr&aacute;ria.<o:p></o:p></span></p>
+<p><br />
+Este &eacute; o tema que mais tem apelo no dia a dia das pessoas, pois todos t&ecirc;m hoje algum familiar ou vizinho sofrendo com c&acirc;ncer. Sendo assim, a Reforma Agr&aacute;ria est&aacute; inserida no bojo de discuss&otilde;es que temos feito sobre a produ&ccedil;&atilde;o de alimentos sadios. S&oacute; que, para produzir alimentos sadios &eacute; preciso diversificar a produ&ccedil;&atilde;o, e para diversificar a produ&ccedil;&atilde;o, tem que ter campon&ecirc;s no campo, e para ter campon&ecirc;s no campo, &eacute; preciso fazer a Reforma Agr&aacute;ria.</p>
 
-<p class="Standard"><br />
-<b><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Qual a expectativa para esse novo per&iacute;odo?<o:p></o:p></span></b></p>
+<p><br />
+<strong>Qual a expectativa para esse novo per&iacute;odo?</strong></p>
 
-<p class="Standard"><br />
-<span style="font-size:11.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Do ponto de vista geral da classe trabalhadora, vai ser um per&iacute;odo muito dif&iacute;cil, de grandes &nbsp;ataques aos direitos conquistados. Mas, contraditoriamente a esse ciclo, podemos estar diante de um novo per&iacute;odo hist&oacute;rico, de grandes lutas pela Reforma Agr&aacute;ria e de reafirma&ccedil;&atilde;o do Movimento. Algo similar ao ocorrido na d&eacute;cada de 90, com a perspectiva de assentamento. N&oacute;s j&aacute; temos alguns sinais nesse sentido: em v&aacute;rias regi&otilde;es do pa&iacute;s est&aacute; ocorrendo uma retomada massiva dos acampamentos e um processo intensivo de mobiliza&ccedil;&atilde;o. Um Exemplo disso s&atilde;o as duas mil fam&iacute;lias acampadas no Rio Grande do Sul somente esse ano. O pr&oacute;ximo per&iacute;odo tamb&eacute;m exigir&aacute; a forma&ccedil;&atilde;o massiva de novas lideran&ccedil;as. Ser&aacute; um per&iacute;odo de organicidade e de muitos debates internos, onde recolocaremos o papel das cooperativas da produ&ccedil;&atilde;o de alimento livre de agrot&oacute;xicos, tamb&eacute;m vamos radicalizar o debate com a juventude e reafirmar a participa&ccedil;&atilde;o das mulheres dentro do Movimento.&nbsp;</span></p>
+<p><br />
+Do ponto de vista geral da classe trabalhadora, vai ser um per&iacute;odo muito dif&iacute;cil, de grandes&nbsp; ataques aos direitos conquistados. Mas, contraditoriamente a esse ciclo, podemos estar diante de um novo per&iacute;odo hist&oacute;rico, de grandes lutas pela Reforma Agr&aacute;ria e de reafirma&ccedil;&atilde;o do Movimento. Algo similar ao ocorrido na d&eacute;cada de 90, com a perspectiva de assentamento. N&oacute;s j&aacute; temos alguns sinais nesse sentido: em v&aacute;rias regi&otilde;es do pa&iacute;s est&aacute; ocorrendo uma retomada massiva dos acampamentos e um processo intensivo de mobiliza&ccedil;&atilde;o.</p>
 
-<p class="Standard"><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;"><o:p></o:p></span></p>
-
-<p class="Standard">&nbsp;</p>
+<p><br />
+Um Exemplo disso s&atilde;o as duas mil fam&iacute;lias acampadas no Rio Grande do Sul somente esse ano. O pr&oacute;ximo per&iacute;odo tamb&eacute;m exigir&aacute; a forma&ccedil;&atilde;o massiva de novas lideran&ccedil;as. Ser&aacute; um per&iacute;odo de organicidade e de muitos debates internos, onde recolocaremos o papel das cooperativas da produ&ccedil;&atilde;o de alimento livre de agrot&oacute;xicos, tamb&eacute;m vamos radicalizar o debate com a juventude e reafirmar a participa&ccedil;&atilde;o das mulheres dentro do Movimento.</p>
