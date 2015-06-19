@@ -12,12 +12,6 @@ menu: lutas e mobilizações
 images_hd: "http://farm4.staticflickr.com/3896/18952269942_4ebd82939b_b.jpg"
 layout: post
 files:
-  - link: "http://farm1.staticflickr.com/412/18952261352_91229bd17b_b.jpg"
-    thumbnail: "http://farm1.staticflickr.com/412/18952261352_91229bd17b_t.jpg"
-    medium: "http://farm1.staticflickr.com/412/18952261352_91229bd17b_z.jpg"
-    small: "http://farm1.staticflickr.com/412/18952261352_91229bd17b_n.jpg"
-    title: 20140222por-vinicius-roratto-6961.jpg
-    $$hashKey: 0H1
   - link: "http://farm4.staticflickr.com/3896/18952269942_4ebd82939b_b.jpg"
     thumbnail: "http://farm4.staticflickr.com/3896/18952269942_4ebd82939b_t.jpg"
     medium: "http://farm4.staticflickr.com/3896/18952269942_4ebd82939b_z.jpg"
@@ -30,6 +24,12 @@ files:
     small: "http://farm1.staticflickr.com/534/18335069524_df21d791fc_n.jpg"
     title: "Camponesas_marcham_em_defesa_da_soberania_alimentar,_em_Porto_Alegre_-_crédito_Tiago_Giannichini (2).jpg"
     $$hashKey: 0KF
+  - link: "http://farm1.staticflickr.com/460/18958232275_f2f2679634_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/460/18958232275_f2f2679634_t.jpg"
+    medium: "http://farm1.staticflickr.com/460/18958232275_f2f2679634_z.jpg"
+    small: "http://farm1.staticflickr.com/460/18958232275_f2f2679634_n.jpg"
+    title: 20140222por-vinicius-roratto-6961.jpg
+    $$hashKey: 08X
 created_date: "2015-06-19T12:29:24-03:00"
 published: true
 releated_posts:
@@ -57,6 +57,8 @@ releated_posts:
 ---
 <p class="Standard"><img alt="Camponesas_marcham_em_defesa_da_soberania_alimentar,_em_Porto_Alegre_-_crédito_Tiago_Giannichini (2).jpg" height="421" src="http://farm1.staticflickr.com/534/18335069524_df21d791fc_b.jpg" width="700" /></p>
 
+<p class="Standard">&nbsp;</p>
+
 <p class="Standard"><em>Por Catiana de Meeiros<br />
 Da P&aacute;gina do MST</em><br style="box-sizing: inherit; color: rgb(85, 85, 85); font-family: 'Exo 2', Helvetica, Arial, sans-serif; font-size: 17.6000003814697px; line-height: 25.1428318023682px;" />
 &nbsp;</p>
@@ -73,13 +75,15 @@ Da P&aacute;gina do MST</em><br style="box-sizing: inherit; color: rgb(85, 85, 8
 <span style="font-size:11.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;"><strong>Confira a entrevista:</strong><o:p></o:p></span></p>
 
 <p class="Standard"><br />
-<b><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Como voc&ecirc; avalia as a&ccedil;&otilde;es realizadas nos primeiros meses de 2015?</span></b><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;"><o:p></o:p></span></p>
+&nbsp;</p>
 
-<p class="Standard">&nbsp;</p>
-
-<figure class="image" style="float:left"><img alt="20140222por-vinicius-roratto-6961.jpg" height="266" src="http://farm1.staticflickr.com/412/18952261352_91229bd17b_b.jpg" width="400" />
+<figure class="image" style="float:right"><img alt="20140222por-vinicius-roratto-6961.jpg" height="200" src="http://farm1.staticflickr.com/460/18958232275_f2f2679634_b.jpg" width="300" />
 <figcaption></figcaption>
 </figure>
+
+<p class="Standard"><b><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Como voc&ecirc; avalia as a&ccedil;&otilde;es realizadas nos primeiros meses de 2015?</span></b><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;"><o:p></o:p></span></p>
+
+<p class="Standard">&nbsp;</p>
 
 <p class="Standard"><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">N&oacute;s fizemos uma boa jornada, fruto do processo de prepara&ccedil;&atilde;o que tivemos desde o ano passado com outros movimentos sociais. Com isso, conseguimos fazer lutas massivas que responderam &agrave; onda conservadora que se instalava no pa&iacute;s. Tamb&eacute;m recolocamos na pauta social os temas espec&iacute;ficos da Reforma Agr&aacute;ria, a quest&atilde;o dos alimentos saud&aacute;veis, a luta das mulheres, al&eacute;m de denunciarmos o uso abusivo de agrot&oacute;xicos e as condi&ccedil;&otilde;es prec&aacute;rias dos nossos assentamentos. <o:p></o:p></span></p>
 
