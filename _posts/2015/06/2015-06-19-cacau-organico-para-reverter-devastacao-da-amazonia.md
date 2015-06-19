@@ -9,22 +9,22 @@ tags:
 title: "Cacau orgânico: para reverter devastação da Amazônia"
 menu: agricultura camponesa
 label: articles
-support_line: "como, após quatro décadas, famílias que migraram ao Pará enganadas pela ditadura, descobrem alternativa da produção sem agrotóxicos."
+support_line: "Como, após quatro décadas, famílias que migraram ao Pará enganadas pela ditadura, descobrem alternativa da produção sem agrotóxicos."
 images_hd: "http://farm1.staticflickr.com/523/18770072079_deee1a1cbc_b.jpg"
 layout: post
 files:
-  - link: "http://farm1.staticflickr.com/398/18956274715_d7623c2da3_b.jpg"
-    thumbnail: "http://farm1.staticflickr.com/398/18956274715_d7623c2da3_t.jpg"
-    medium: "http://farm1.staticflickr.com/398/18956274715_d7623c2da3_z.jpg"
-    small: "http://farm1.staticflickr.com/398/18956274715_d7623c2da3_n.jpg"
-    title: download.jpg
-    $$hashKey: 06D
   - link: "http://farm1.staticflickr.com/523/18770072079_deee1a1cbc_b.jpg"
     thumbnail: "http://farm1.staticflickr.com/523/18770072079_deee1a1cbc_t.jpg"
     medium: "http://farm1.staticflickr.com/523/18770072079_deee1a1cbc_z.jpg"
     small: "http://farm1.staticflickr.com/523/18770072079_deee1a1cbc_n.jpg"
     title: 1419725399642.jpg
     $$hashKey: 06G
+  - link: "http://farm4.staticflickr.com/3666/18930215636_5702239f41_b.jpg"
+    thumbnail: "http://farm4.staticflickr.com/3666/18930215636_5702239f41_t.jpg"
+    medium: "http://farm4.staticflickr.com/3666/18930215636_5702239f41_z.jpg"
+    small: "http://farm4.staticflickr.com/3666/18930215636_5702239f41_n.jpg"
+    title: images.jpg
+    $$hashKey: 05V
 created_date: "2015-06-19T11:30:42-03:00"
 published: true
 releated_posts:
@@ -39,11 +39,8 @@ releated_posts:
 <p><em>Por&nbsp;</em><span style="line-height: 20.7999992370605px;">Mario Osava</span><br />
 <em>Do&nbsp;</em><span style="line-height: 20.7999992370605px;">Envolverde/IPS</span></p>
 
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&ldquo;Agora nos damos conta do para&iacute;so em que vivemos&rdquo;, reconheceu Darc&iacute;rio Wronski, l&iacute;der dos produtores de cacau org&acirc;nico na regi&atilde;o onde a rodovia Transamaz&ocirc;nica cruza a bacia do rio Xingu, no norte do Brasil. Al&eacute;m do cacau, em seus cem hectares ele cultiva banana, cupua&ccedil;u (Theobroma grandiflorum), abacaxi, maracuj&aacute; (Passiflora edulis) e outras frutas, nativas ou n&atilde;o.</p>
+<p><br />
+&ldquo;Agora nos damos conta do para&iacute;so em que vivemos&rdquo;, reconheceu Darc&iacute;rio Wronski, l&iacute;der dos produtores de cacau org&acirc;nico na regi&atilde;o onde a rodovia Transamaz&ocirc;nica cruza a bacia do rio Xingu, no norte do Brasil. Al&eacute;m do cacau, em seus cem hectares ele cultiva banana, cupua&ccedil;u (Theobroma grandiflorum), abacaxi, maracuj&aacute; (Passiflora edulis) e outras frutas, nativas ou n&atilde;o.</p>
 
 <p><br />
 Com as frutas, sua mulher, Rosalina Brighanti, prepara geleias, que s&atilde;o tenta&ccedil;&otilde;es por si mesmas, ou recheios de barras de chocolate, que ela e seus ajudantes produzem artesanalmente. Tudo com certificado org&acirc;nico.</p>
@@ -80,14 +77,15 @@ As propriedades de cacau empregam muita gente porque &ldquo;sua m&atilde;o de ob
 
 <p>&nbsp;</p>
 
-<figure class="image" style="float:right"><img alt="download.jpg" src="http://farm1.staticflickr.com/398/18956274715_d7623c2da3_b.jpg" />
+<p>Al&eacute;m de empregos e renda que mant&ecirc;m as fam&iacute;lias no campo, o cultivo de cacau impulsiona o reflorestamento. Medicil&acirc;ndia ainda tem dois ter&ccedil;os de popula&ccedil;&atilde;o rural e, vista do ar, mostra ser um munic&iacute;pio que conservou suas florestas nativas. Isso ocorre porque os cacaueiros necessitam da sombra de &aacute;rvores mais altas, para sua sa&uacute;de e produtividade. Quanto est&atilde;o crescendo, se usa a sombra de bananeiras, o que, por sua vez, aumentou muito a oferta local desse fruto.</p>
+
+<p>&nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="images.jpg" height="266" src="http://farm4.staticflickr.com/3666/18930215636_5702239f41_b.jpg" width="400" />
 <figcaption></figcaption>
 </figure>
 
-<p>Al&eacute;m de empregos e renda que mant&ecirc;m as fam&iacute;lias no campo, o cultivo de cacau impulsiona o reflorestamento. Medicil&acirc;ndia ainda tem dois ter&ccedil;os de popula&ccedil;&atilde;o rural e, vista do ar, mostra ser um munic&iacute;pio que conservou suas florestas nativas. Isso ocorre porque os cacaueiros necessitam da sombra de &aacute;rvores mais altas, para sua sa&uacute;de e produtividade. Quanto est&atilde;o crescendo, se usa a sombra de bananeiras, o que, por sua vez, aumentou muito a oferta local desse fruto.</p>
-
-<p><br />
-&ldquo;Temos o privil&eacute;gio de trabalhar &agrave; sombra&rdquo;, brincou Jedielcio Oliveira, coordenador comercial do Programa de Produ&ccedil;&atilde;o Org&acirc;nica, desenvolvido na regi&atilde;o Transamaz&ocirc;nica/Xingu pelo Ceplac, por outras institui&ccedil;&otilde;es nacionais e pela Ag&ecirc;ncia Alem&atilde; de Coopera&ccedil;&atilde;o T&eacute;cnica. Por&eacute;m, a produ&ccedil;&atilde;o org&acirc;nica ainda &eacute; muito pequena, apenas 1% do total do Estado do Par&aacute;, onde fica Medicil&acirc;ndia e toda a &aacute;rea de influ&ecirc;ncia de Belo Monte.</p>
+<p>&ldquo;Temos o privil&eacute;gio de trabalhar &agrave; sombra&rdquo;, brincou Jedielcio Oliveira, coordenador comercial do Programa de Produ&ccedil;&atilde;o Org&acirc;nica, desenvolvido na regi&atilde;o Transamaz&ocirc;nica/Xingu pelo Ceplac, por outras institui&ccedil;&otilde;es nacionais e pela Ag&ecirc;ncia Alem&atilde; de Coopera&ccedil;&atilde;o T&eacute;cnica. Por&eacute;m, a produ&ccedil;&atilde;o org&acirc;nica ainda &eacute; muito pequena, apenas 1% do total do Estado do Par&aacute;, onde fica Medicil&acirc;ndia e toda a &aacute;rea de influ&ecirc;ncia de Belo Monte.</p>
 
 <p><br />
 &ldquo;S&atilde;o cerca de 800 mil toneladas anuais de am&ecirc;ndoas de cacau e um nicho de 120 fam&iacute;lias, agrupadas em seis cooperativas&rdquo;, afirmou Bis. Wronski preside uma delas, a Cooperativa de Produ&ccedil;&atilde;o Org&acirc;nica da Amaz&ocirc;nia, e acaba de ser eleito para encabe&ccedil;ar a Cooperativa Central, rec&eacute;m-criada para coordenar atividades, como a comercializa&ccedil;&atilde;o, das seis sociedades de produtores.</p>
