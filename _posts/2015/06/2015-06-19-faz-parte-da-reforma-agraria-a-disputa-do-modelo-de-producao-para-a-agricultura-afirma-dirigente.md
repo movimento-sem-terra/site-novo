@@ -59,7 +59,7 @@ releated_posts:
 
 <p class="Standard">&nbsp;</p>
 
-<p class="Standard"><em>Por Catiana de Meeiros<br />
+<p class="Standard"><em>Por Catiana de Medeiros<br />
 Da P&aacute;gina do MST</em><br style="box-sizing: inherit; color: rgb(85, 85, 85); font-family: 'Exo 2', Helvetica, Arial, sans-serif; font-size: 17.6000003814697px; line-height: 25.1428318023682px;" />
 &nbsp;</p>
 
