@@ -16,6 +16,24 @@ files:
     small: "http://farm1.staticflickr.com/412/18395912244_5283981db3_n.jpg"
     title: IMG-20150621-WA0002.jpg
     $$hashKey: 02U
+  - link: "http://farm1.staticflickr.com/280/18396090124_e12af111e2_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/280/18396090124_e12af111e2_t.jpg"
+    medium: "http://farm1.staticflickr.com/280/18396090124_e12af111e2_z.jpg"
+    small: "http://farm1.staticflickr.com/280/18396090124_e12af111e2_n.jpg"
+    title: IMG-20150621-WA0003.jpg
+    $$hashKey: 02Y
+  - link: "http://farm1.staticflickr.com/271/19013183792_df2184465a_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/271/19013183792_df2184465a_t.jpg"
+    medium: "http://farm1.staticflickr.com/271/19013183792_df2184465a_z.jpg"
+    small: "http://farm1.staticflickr.com/271/19013183792_df2184465a_n.jpg"
+    title: IMG-20150621-WA0009.jpg
+    $$hashKey: "031"
+  - link: "http://farm1.staticflickr.com/289/19021793191_d101632c0c_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/289/19021793191_d101632c0c_t.jpg"
+    medium: "http://farm1.staticflickr.com/289/19021793191_d101632c0c_z.jpg"
+    small: "http://farm1.staticflickr.com/289/19021793191_d101632c0c_n.jpg"
+    title: IMG-20150621-WA0004.jpg
+    $$hashKey: "034"
 created_date: "2015-06-21T10:02:00-03:00"
 published: true
 releated_posts: []
@@ -34,16 +52,23 @@ A fazenda, registrada no nome do senador Eun&iacute;cio Oliveira (PMDB-CE), &eac
 <p><br />
 As fam&iacute;lias retornaram &agrave; &aacute;rea depois do governo federal n&atilde;o ter cumprido diversos acordos realizados&nbsp;durante a reintegra&ccedil;&atilde;o de posse ocorrida no dia 4 de mar&ccedil;o deste ano.</p>
 
-<p><br />
-Um deles &eacute; o assentamento&nbsp;de cerca de 1100 fam&iacute;lias at&eacute; 60 dias depois do despejo. Outro &eacute; a realiza&ccedil;&atilde;o de estudo sobre a legalidade da posse do Senador Eun&iacute;cio Oliveira sobre as 21 mil hectares do complexo, j&aacute;&nbsp;que h&aacute; grande volume de informa&ccedil;&otilde;es na regi&atilde;o sobre a grilagem da &aacute;rea.</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="IMG-20150621-WA0003.jpg" src="http://farm1.staticflickr.com/280/18396090124_e12af111e2_b.jpg" />
+<figcaption></figcaption>
+</figure>
+
+<p>Um deles &eacute; o assentamento&nbsp;de cerca de 1100 fam&iacute;lias at&eacute; 60 dias depois do despejo. Outro &eacute; a realiza&ccedil;&atilde;o de estudo sobre a legalidade da posse do Senador Eun&iacute;cio Oliveira sobre as 21 mil hectares do complexo, j&aacute;&nbsp;que h&aacute; grande volume de informa&ccedil;&otilde;es na regi&atilde;o sobre a grilagem da &aacute;rea.</p>
 
 <p><br />
 &ldquo;Diante desta situa&ccedil;&atilde;o, o Acampamento Dom Tom&aacute;s Baldu&iacute;no, s&iacute;mbolo da luta popular e pela terra no Goi&aacute;s, afirma sua determina&ccedil;&atilde;o em permanecer na &aacute;rea at&eacute; que o governo destine o complexo latifundi&aacute;rio para fins de reforma agr&aacute;ria&rdquo;, salienta integrantes do MST por meio de nota.</p>
 
 <p><br />
-De acordo com relatos dos acampados, ap&oacute;s a sa&iacute;da deles da &aacute;rea foi identificado um abandono da Fazenda e de a&ccedil;&otilde;es que comprovam o desmatamento ilegal dentro da &aacute;rea.</p>
+De acordo com relatos dos acampados, ap&oacute;s a sa&iacute;da deles da &aacute;rea foi identificado um abandono da Fazenda e de a&ccedil;&otilde;es que comprovam o desmatamento ilegal dentro da &aacute;rea.<br />
+&nbsp;</p>
 
-<p style="line-height: 20.7999992370605px;"><br />
+<p style="line-height: 20.7999992370605px;"><img alt="IMG-20150621-WA0009.jpg" src="http://farm1.staticflickr.com/271/19013183792_df2184465a_b.jpg" /><br />
+<br />
 <strong>Entenda o caso</strong></p>
 
 <p style="line-height: 20.7999992370605px;"><br />
@@ -62,9 +87,11 @@ Todo o impacto sofrido pelas fam&iacute;lias resultou na mobiliza&ccedil;&atilde
 A produ&ccedil;&atilde;o, resultado do trabalho dos agricultores acampados com o objetivo de prover seu sustento, foi invadida pelos bois do Senador uma semana ap&oacute;s o despejo das fam&iacute;lias da &aacute;rea, sendo que, um dos compromissos estabelecidos, al&eacute;m da instaura&ccedil;&atilde;o do processo de assentamentos das fam&iacute;lias, foi a garantia &agrave; colheita de todos os alimentos cultivados.</p>
 
 <p style="line-height: 20.7999992370605px;"><br />
-Ap&oacute;s seis meses de ocupa&ccedil;&atilde;o de parte do Complexo de Fazendas Santa M&ocirc;nica, na manh&atilde; do dia 4 de mar&ccedil;o, dois mil policiais realizaram o despejo das 3 mil fam&iacute;lias Sem Terra, cujo pedido foi expedido pelo juiz da Comarca de Corumb&aacute;, Levine Artiaga, acusado de ser alinhado com o senador, al&eacute;m de j&aacute; ter frequentado a fazenda diversas vezes.</p>
+Ap&oacute;s seis meses de ocupa&ccedil;&atilde;o de parte do Complexo de Fazendas Santa M&ocirc;nica, na manh&atilde; do dia 4 de mar&ccedil;o, dois mil policiais realizaram o despejo das 3 mil fam&iacute;lias Sem Terra, cujo pedido foi expedido pelo juiz da Comarca de Corumb&aacute;, Levine Artiaga, acusado de ser alinhado com o senador, al&eacute;m de j&aacute; ter frequentado a fazenda diversas vezes.<br />
+&nbsp;</p>
 
-<p><br />
+<p><img alt="IMG-20150621-WA0004.jpg" src="http://farm1.staticflickr.com/289/19021793191_d101632c0c_b.jpg" /><br />
+<br />
 Confira Nota na &iacute;ntegra</p>
 
 <p style="text-align: center;"><br />
