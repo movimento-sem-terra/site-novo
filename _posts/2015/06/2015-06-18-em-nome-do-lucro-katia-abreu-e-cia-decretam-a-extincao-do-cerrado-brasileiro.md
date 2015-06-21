@@ -25,7 +25,7 @@ releated_posts:
   - 2014/12/2014-11-27-apos-encontro-movimentos-alertam-sobre-o-perigo-que-corre-o-cerrado.md
   - 2015/05/2015-05-22-apesar-dos-vetos-lei-da-biodiversidade-segue-sendo-um-retrocesso-afirma-especialista.md
   - 2015/06/2015-06-02-mineracao-na-caatinga-o-pesadelo-das-comunidades-rurais.md
-section: cover
+section: featured-news
 
 ---
 <p><img alt="cerrado_desmatado.jpg" src="http://farm4.staticflickr.com/3727/18736745539_009e0c94da_b.jpg" /></p>
