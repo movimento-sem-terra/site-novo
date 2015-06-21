@@ -10,7 +10,7 @@ support_line: Assentamentos substituem a lógica perversa da plantação de caca
 menu: reforma agrária
 sector: production
 section: featured-news
-images_hd: "http://farm6.staticflickr.com/5540/18861562011_b9d30dbd77_b.jpg"
+images_hd: "http://farm6.staticflickr.com/5518/18832575956_ef6839996a_b.jpg"
 layout: post
 files:
   - link: "http://farm6.staticflickr.com/5540/18861562011_b9d30dbd77_b.jpg"
@@ -65,6 +65,7 @@ releated_posts:
   - 2015/01/2015-01-26-assentados-gauchos-fornecem-alimentos-para-grupo-hospitalar-de-porto-alegre.md
   - 2015/02/2015-02-05-producao-de-assentados-no-parana-atendera-5-mil-pessoas-no-ano.md
   - 2015/05/2015-05-12-com-metodo-cubano-sem-terra-zeram-analfabetismo-em-sete-assentamentos-da-bahia.md
+label: special-stories
 
 ---
 <p><img alt="Reforma!!.jpg" src="http://farm6.staticflickr.com/5540/18861562011_b9d30dbd77_b.jpg" /></p>
