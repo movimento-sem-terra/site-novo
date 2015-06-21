@@ -1,6 +1,9 @@
 ---
 date: "2015-06-21T09:46:17-03:00"
-tags: []
+tags:
+  - tag: eunício-de-oliveira
+  - tag: goiás
+  - tag: agropecuária-santa-mônica
 hat: ""
 support_line: As famílias retornaram à área depois do governo federal não ter cumprido diversos acordos realizados durante a reintegração de posse ocorrida em março deste ano.
 title: Três mil famílias do MST reocupam latifúndio do Senador Eunício Oliveira
@@ -36,7 +39,14 @@ files:
     $$hashKey: "034"
 created_date: "2015-06-21T10:02:00-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - 2015/02/2015-02-24-acampamento-dom-tomas-balduino-um-simbolo-nacional-da-luta-pela-reforma-agraria.md
+  - 2015/02/2015-02-12-acampamento-dom-tomas-balduino-resiste-a-reintegracao-de-posse.md
+  - 2015/02/2015-02-20-mst-realiza-ato-politico-na-no-latifundio-do-senador-eunicio-oliveira.md
+  - 2015/03/2015-03-04-apos-negociacao-sem-terra-deixam-a-fazenda-de-eunicio-de-oliveira.md
+  - 2015/03/2015-03-16-uma-semana-apos-despejo-gado-de-eunicio-de-oliveira-pisoteiam-os-alimentos-de-3-mil-familias.md
+  - 2015/02/2015-02-27-acampamento-dom-tomas-balduino-o-grande-experimento-agroecologico-ameacado-pelo-latifundio.md
+  - 2015/03/2015-03-02-festa-da-pamonha-no-acampamento-dom-tomas-balduino.md
 
 ---
 <p><img alt="IMG-20150621-WA0002.jpg" src="http://farm1.staticflickr.com/412/18395912244_5283981db3_b.jpg" /></p>
