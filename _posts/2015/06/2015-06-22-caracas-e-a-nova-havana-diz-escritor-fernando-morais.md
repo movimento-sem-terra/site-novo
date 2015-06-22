@@ -32,20 +32,19 @@ releated_posts:
   - 2014/05/2014-05-15-atos-em-solidariedade-a-venezuela-denunciam-papel-da-imprensa.md-e
 
 ---
-<p>&nbsp;</p>
+<p><img alt="ba9a98cff10cc50dab08b8eb0c2fdefb_XL.jpg" src="http://farm1.staticflickr.com/475/18871133629_b0c20d191e_b.jpg" /></p>
 
 <p><em>Por Claudia Jardim,&nbsp;<br />
 De Caracas para o Brasil de Fato&nbsp;</em></p>
 
-<p>&nbsp;</p>
-
-<p>A visita frustrada da comiss&atilde;o de senadores brasileiros &agrave; Caracas que pretendiam visitar os pol&iacute;ticos opositores que est&atilde;o presos foi marcada por pol&ecirc;mica e controv&eacute;rsias. Na opini&atilde;o do escritor Fernando Morais, os parlamentares opositores transferiram &agrave; Venezuela a disputa pol&iacute;tica que travam no Brasil. &nbsp;&quot;A miss&atilde;o do A&eacute;cio (Neves) n&atilde;o era visitar Leopoldo L&oacute;pez, a miss&atilde;o era criar um incidente internacional&quot;, afirma.&nbsp;</p>
+<p><br />
+A visita frustrada da comiss&atilde;o de senadores brasileiros &agrave; Caracas que pretendiam visitar os pol&iacute;ticos opositores que est&atilde;o presos foi marcada por pol&ecirc;mica e controv&eacute;rsias. Na opini&atilde;o do escritor Fernando Morais, os parlamentares opositores transferiram &agrave; Venezuela a disputa pol&iacute;tica que travam no Brasil. &nbsp;&quot;A miss&atilde;o do A&eacute;cio (Neves) n&atilde;o era visitar Leopoldo L&oacute;pez, a miss&atilde;o era criar um incidente internacional&quot;, afirma.&nbsp;</p>
 
 <p><br />
 Na opini&atilde;o do escritor, em meio ao processo de restabelecimento das rela&ccedil;&otilde;es diplom&aacute;ticas entre Estados Unidos e Cuba e o eminente fim do bloqueio &agrave; ilha, a agenda conservadora teria mudado de foco, acompanhando a mudan&ccedil;a de tom da pol&iacute;tica estadounidense. Ao mesmo tempo, Washington apertou o cerco contra a Venezuela ao incluir o pa&iacute;s na lista dos pa&iacute;ses que representam uma amea&ccedil;a &agrave; seguran&ccedil;a nacional dos Estados Unidos.</p>
 
 <p><br />
-&nbsp;&quot;&Eacute; cenoura para Cuba e garrote para a Venezuela&quot;. Seria nessa nova recomposi&ccedil;&atilde;o de for&ccedil;as que a oposi&ccedil;&atilde;o brasileira teria embarcado para reposicionar-se ideol&oacute;gicamente.&nbsp;<br />
+&quot;&Eacute; cenoura para Cuba e garrote para a Venezuela&quot;. Seria nessa nova recomposi&ccedil;&atilde;o de for&ccedil;as que a oposi&ccedil;&atilde;o brasileira teria embarcado para reposicionar-se ideol&oacute;gicamente.&nbsp;<br />
 Morais esteve em Caracas junto a uma delega&ccedil;&atilde;o que incluia pol&iacute;ticos de esquerda para fazer &quot;ru&iacute;do&quot; &agrave; presen&ccedil;a dos parlamentares opositores.</p>
 
 <p><br />
