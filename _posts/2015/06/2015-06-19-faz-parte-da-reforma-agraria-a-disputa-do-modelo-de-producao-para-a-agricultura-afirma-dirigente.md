@@ -53,6 +53,7 @@ releated_posts:
   - 2014/05/2014-05-20-juventude-se-organiza-na-luta-pela-terra-no-parana.md-e
   - 2014/05/2014-05-19-com-14-ocupacoes-de-terra-em-dois-meses-mst-intensifica-luta-em-pe.md
   - 2014/06/2014-06-11-mst-tranca-rodovia-no-rj-e-denuncia-lentidao-na-desapropriacao-de-fazenda.md
+label: interviews
 
 ---
 <p class="Standard"><img alt="Camponesas_marcham_em_defesa_da_soberania_alimentar,_em_Porto_Alegre_-_crédito_Tiago_Giannichini (2).jpg" height="421" src="http://farm1.staticflickr.com/534/18335069524_df21d791fc_b.jpg" width="700" /></p>
