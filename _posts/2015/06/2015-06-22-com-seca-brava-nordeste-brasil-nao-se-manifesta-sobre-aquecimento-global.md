@@ -3,7 +3,7 @@ date: "2015-06-22T07:13:45-03:00"
 tags:
   - tag: meio-ambiente
   - tag: aquecimento-global
-title: "Com seca brava nordeste, Brasil não se manifesta sobre aquecimento global"
+title: "Com seca brava no nordeste, Brasil não se manifesta sobre aquecimento global"
 support_line: "Sob um manto de silêncio, seca alastra-se por todo Nordeste, afetando abastecimento de água, energia e produção de alimentos. Mas Brasil permanece tímido nas negociações sobre clima."
 menu: meio ambiente
 label: articles
