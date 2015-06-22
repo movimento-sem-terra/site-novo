@@ -6,7 +6,7 @@ tags:
   - tag: encontro-da-juventude
   - tag: redução-da-maioridade-penal
   - tag: debate
-title: Juventude Sem Terra faz da formação uma ferramenta de luta contra a ofensiva do capital
+title: "Juventude Sem Terra da Bahia faz da formação uma ferramenta de luta "
 menu: "educação, cultura e comunicação"
 images_hd: "http://farm4.staticflickr.com/3873/19055282592_0f3075893f_b.jpg"
 support_line: Encontro reuniu mais de 200 jovens dos assentamentos da região sudoeste da Bahia.
@@ -42,12 +42,6 @@ files:
     small: "http://farm4.staticflickr.com/3799/19034629246_d3906fac61_n.jpg"
     title: DSC08700.JPG
     $$hashKey: 08D
-  - link: "http://farm1.staticflickr.com/366/18873153190_2f1cb9c721_b.jpg"
-    thumbnail: "http://farm1.staticflickr.com/366/18873153190_2f1cb9c721_t.jpg"
-    medium: "http://farm1.staticflickr.com/366/18873153190_2f1cb9c721_z.jpg"
-    small: "http://farm1.staticflickr.com/366/18873153190_2f1cb9c721_n.jpg"
-    title: DSC08759.jpg
-    $$hashKey: 08G
 created_date: "2015-06-22T15:41:47-03:00"
 published: true
 releated_posts:
@@ -60,6 +54,8 @@ releated_posts:
   - 2015/06/2015-06-01-sem-terra-zeram-analfabetismo-em-seis-assentamentos-na-bahia.md
 
 ---
+<p><img alt="DSC08727.JPG" src="http://farm4.staticflickr.com/3873/19055282592_0f3075893f_b.jpg" /></p>
+
 <p>&nbsp;</p>
 
 <p><em>Da P&aacute;gina do MST</em></p>
@@ -71,8 +67,13 @@ releated_posts:
 <p><br />
 Os jovens vindos de assentamentos da regi&atilde;o debateram a organicidade do MST, a PL (171) - que prev&ecirc; a redu&ccedil;&atilde;o da maioridade penal -, as pol&iacute;ticas p&uacute;blicas para juventude do campo e a diversidade das rela&ccedil;&otilde;es de g&ecirc;nero.&nbsp;</p>
 
-<p><br />
-Para nortear os debates, a juventude participou de oficinas, palestras, rodas de conversa e noites culturais com atividades de capoeira, pintura em telha e campeonato de futebol.</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="DSC08782.jpg" height="225" src="http://farm1.staticflickr.com/538/19055282912_5d983007b4_b.jpg" width="300" />
+<figcaption>Pintura em telha, uma das atividades do Encontro</figcaption>
+</figure>
+
+<p>Para nortear os debates, a juventude participou de oficinas, palestras, rodas de conversa e noites culturais com atividades de capoeira, pintura em telha e campeonato de futebol.</p>
 
 <p><br />
 De acordo com Maria Dulce, coordenadora pedag&oacute;gica da Escola Municipal F&aacute;bio Henrique e CEI Chapad&atilde;o, o espa&ccedil;o foi constru&iacute;do a partir das demandas levantadas no primeiro encontro de jovens da escola e atrav&eacute;s de entrevistas com os jovens dos assentamentos.&nbsp;</p>
@@ -110,7 +111,7 @@ Xand&oacute; acredita ainda, que o processo ideol&oacute;gico na sociedade &eacu
 <p>&nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="DSC08737.JPG" height="300" src="http://farm1.staticflickr.com/519/18873153150_156a03e9a9_b.jpg" width="400" />
-<figcaption></figcaption>
+<figcaption>Mulheres jogam futebol no campeonato organizado pelo Encontro</figcaption>
 </figure>
 
 <p>Outros dois temas debatidos foram &agrave;s quest&otilde;es em torno da diversidade de g&ecirc;nero e a luta contra o modelo patriarcal de sociedade que reproduz viol&ecirc;ncias machistas e homof&oacute;bicas.</p>
@@ -119,7 +120,7 @@ Xand&oacute; acredita ainda, que o processo ideol&oacute;gico na sociedade &eacu
 Tendo como base m&uacute;sicas, poemas e v&iacute;deos o espa&ccedil;o prop&ocirc;s contextualizar a origem do patriarcado, que garanti poder e autonomia do homem para com a mulher. &nbsp;</p>
 
 <p><br />
-MulheresAl&eacute;m disso, descrimina qualquer postura ou identidade de g&ecirc;nero que se aproxima ou se identifica com o feminino.&nbsp;</p>
+Al&eacute;m disso, descrimina qualquer postura ou identidade de g&ecirc;nero que se aproxima ou se identifica com o feminino.&nbsp;</p>
 
 <p><br />
 Para Wesley Lima, da dire&ccedil;&atilde;o estadual do MST, &ldquo;o modelo capitalista de sociedade n&atilde;o respeita a diversidade e as ofensivas contra as identidades de g&ecirc;nero &eacute; um mecanismo de controle social reafirmado por diversos setores conservadores&rdquo;.&nbsp;</p>
@@ -130,8 +131,13 @@ Para Wesley Lima, da dire&ccedil;&atilde;o estadual do MST, &ldquo;o modelo capi
 <p><br />
 <strong>Avalia&ccedil;&otilde;es e Calend&aacute;rio&nbsp;</strong></p>
 
-<p><br />
-No final do Encontro foi realizada uma avalia&ccedil;&atilde;o das atividades formativas e a constru&ccedil;&atilde;o de um calend&aacute;rio de forma&ccedil;&atilde;o pol&iacute;tica foi elaborado.</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="DSC08707.JPG" height="400" src="http://farm1.staticflickr.com/442/19060868405_995327243c_b.jpg" width="300" />
+<figcaption>Jovens organizam calend&aacute;rio de atividades</figcaption>
+</figure>
+
+<p>No final do Encontro foi realizada uma avalia&ccedil;&atilde;o das atividades formativas e a constru&ccedil;&atilde;o de um calend&aacute;rio de forma&ccedil;&atilde;o pol&iacute;tica foi elaborado.</p>
 
 <p><br />
 Uma das metas &eacute; a participa&ccedil;&atilde;o dos jovens no Encontro Regional da Juventude Sem Terra do Sudoeste Baiano que acontecer&aacute; em dezembro.&nbsp;</p>
