@@ -53,6 +53,8 @@ releated_posts:
 
 <p><em>Da P&aacute;gina do MST</em></p>
 
+<p><em>Fotos: M&iacute;dia Ninja</em></p>
+
 <p>&nbsp;<br />
 Na manh&atilde; desde domingo (21), cerca de 3 mil fam&iacute;lias do MST ocuparam pela segunda vez a Agropecu&aacute;ria Santa M&ocirc;nica, localizada entre os munic&iacute;pios de Alex&acirc;nia, Abadi&acirc;nia e Corumb&aacute; (GO).</p>
 
@@ -60,7 +62,7 @@ Na manh&atilde; desde domingo (21), cerca de 3 mil fam&iacute;lias do MST ocupar
 A fazenda, registrada no nome do senador Eun&iacute;cio Oliveira (PMDB-CE), &eacute; um complexo de mais de 21 mil hectares e autodeclaradas improdutivas.</p>
 
 <p><br />
-As fam&iacute;lias retornaram &agrave; &aacute;rea depois do governo federal n&atilde;o ter cumprido diversos acordos realizados&nbsp;durante a reintegra&ccedil;&atilde;o de posse ocorrida no dia 4 de mar&ccedil;o deste ano.</p>
+As fam&iacute;lias retornaram &agrave; &aacute;rea depois do governo federal n&atilde;o ter cumprido diversos acordos realizados&nbsp;durante a reintegra&ccedil;&atilde;o de posse ocorrida no dia 4 de mar&ccedil;o deste ano (<a href="https://www.flickr.com/photos/midianinja/sets/72157654851855346" target="_blank">Clique aqui e confira ensaio fotogr&aacute;fico</a>).</p>
 
 <p>&nbsp;</p>
 
