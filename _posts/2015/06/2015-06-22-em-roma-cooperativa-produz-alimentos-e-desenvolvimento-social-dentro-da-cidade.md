@@ -43,7 +43,7 @@ H&aacute; alguns anos, a prefeitura da cidade reservou uma grande &aacute;rea, a
 
 <p>&nbsp;</p>
 
-<figure class="image" style="float:right"><img alt="fotos_monica023-512x683.jpg" height="400" src="http://farm1.staticflickr.com/486/18865682250_60b4096f48_b.jpg" width="300" />
+<figure class="image" style="float:right"><img alt="fotos_monica023-512x683.jpg" height="333" src="http://farm1.staticflickr.com/486/18865682250_60b4096f48_b.jpg" width="250" />
 <figcaption></figcaption>
 </figure>
 
