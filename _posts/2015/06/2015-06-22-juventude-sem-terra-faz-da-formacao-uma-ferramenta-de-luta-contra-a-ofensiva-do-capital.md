@@ -24,24 +24,33 @@ files:
     small: "http://farm1.staticflickr.com/519/18873153150_156a03e9a9_n.jpg"
     title: DSC08737.JPG
     $$hashKey: 084
-  - link: "http://farm1.staticflickr.com/538/19055282912_5d983007b4_b.jpg"
-    thumbnail: "http://farm1.staticflickr.com/538/19055282912_5d983007b4_t.jpg"
-    medium: "http://farm1.staticflickr.com/538/19055282912_5d983007b4_z.jpg"
-    small: "http://farm1.staticflickr.com/538/19055282912_5d983007b4_n.jpg"
-    title: DSC08782.jpg
-    $$hashKey: 08A
-  - link: "http://farm4.staticflickr.com/3799/19034629246_d3906fac61_b.jpg"
-    thumbnail: "http://farm4.staticflickr.com/3799/19034629246_d3906fac61_t.jpg"
-    medium: "http://farm4.staticflickr.com/3799/19034629246_d3906fac61_z.jpg"
-    small: "http://farm4.staticflickr.com/3799/19034629246_d3906fac61_n.jpg"
-    title: DSC08700.JPG
-    $$hashKey: 08D
   - link: "http://farm1.staticflickr.com/404/19036099386_44ecff6b56_b.jpg"
     thumbnail: "http://farm1.staticflickr.com/404/19036099386_44ecff6b56_t.jpg"
     medium: "http://farm1.staticflickr.com/404/19036099386_44ecff6b56_z.jpg"
     small: "http://farm1.staticflickr.com/404/19036099386_44ecff6b56_n.jpg"
     title: DSC08707.jpg
     $$hashKey: 05T
+  - link: "http://farm4.staticflickr.com/3850/19062582425_a50bfecf3a_b.jpg"
+    thumbnail: "http://farm4.staticflickr.com/3850/19062582425_a50bfecf3a_t.jpg"
+    medium: "http://farm4.staticflickr.com/3850/19062582425_a50bfecf3a_z.jpg"
+    small: "http://farm4.staticflickr.com/3850/19062582425_a50bfecf3a_n.jpg"
+    title: DSC08700.jpg
+    $$hashKey: 05T
+  - link: "http://farm1.staticflickr.com/447/18874863270_acbc02cec9_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/447/18874863270_acbc02cec9_t.jpg"
+    medium: "http://farm1.staticflickr.com/447/18874863270_acbc02cec9_z.jpg"
+    small: "http://farm1.staticflickr.com/447/18874863270_acbc02cec9_n.jpg"
+    title: DSC08782.jpg
+  - link: "http://farm1.staticflickr.com/398/18441917423_d064b90e36_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/398/18441917423_d064b90e36_t.jpg"
+    medium: "http://farm1.staticflickr.com/398/18441917423_d064b90e36_z.jpg"
+    small: "http://farm1.staticflickr.com/398/18441917423_d064b90e36_n.jpg"
+    title: DSC08700.jpg
+  - link: "http://farm1.staticflickr.com/519/18441931023_1664f21b43_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/519/18441931023_1664f21b43_t.jpg"
+    medium: "http://farm1.staticflickr.com/519/18441931023_1664f21b43_z.jpg"
+    small: "http://farm1.staticflickr.com/519/18441931023_1664f21b43_n.jpg"
+    title: DSC08707.jpg
 created_date: "2015-06-22T15:41:47-03:00"
 published: true
 releated_posts:
@@ -85,10 +94,6 @@ De acordo com Maria Dulce, coordenadora pedag&oacute;gica da Escola Municipal F&
 <strong>Redu&ccedil;&atilde;o N&atilde;o &eacute; a Solu&ccedil;&atilde;o</strong></p>
 
 <p>&nbsp;</p>
-
-<figure class="image" style="float:left"><img alt="DSC08700.JPG" height="300" src="http://farm4.staticflickr.com/3799/19034629246_d3906fac61_b.jpg" width="400" />
-<figcaption>Apenas 1% dos homic&iacute;dios hoje no Brasil s&atilde;o cometidos por menores</figcaption>
-</figure>
 
 <p>Um dos temas mais debatidos da noite foi o &nbsp;Projeto de Lei (PL) que prev&ecirc; a redu&ccedil;&atilde;o da maior idade penal.&nbsp;<br />
 Alexandre Xand&oacute;, militante do Levante Popular da Juventude e mediador do espa&ccedil;o, prop&ocirc;s v&aacute;rias reflex&otilde;es sobre o tema, al&eacute;m de apresentar dados importantes sobre o processo de redu&ccedil;&atilde;o.</p>
