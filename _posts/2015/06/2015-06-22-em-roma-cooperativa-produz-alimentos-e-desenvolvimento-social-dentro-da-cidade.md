@@ -51,7 +51,7 @@ H&aacute; alguns anos, a prefeitura da cidade reservou uma grande &aacute;rea, a
 
 <p>&nbsp;</p>
 
-<figure class="image" style="float:left"><img alt="fotos_monica023-512x683.jpg" height="339" src="http://farm1.staticflickr.com/413/19057112011_3a0b22b06f_b.jpg" width="250" />
+<figure class="image" style="float:right"><img alt="fotos_monica023-512x683.jpg" height="407" src="http://farm1.staticflickr.com/413/19057112011_3a0b22b06f_b.jpg" width="300" />
 <figcaption></figcaption>
 </figure>
 
@@ -70,7 +70,7 @@ Entretanto, Marco ressalta que o comit&ecirc; n&atilde;o serve apenas como m&ati
 
 <p>&nbsp;</p>
 
-<figure class="image" style="float:right"><img alt="IMG_3429-512x384.jpg" height="225" src="http://farm1.staticflickr.com/272/18433257823_d226b0074c_b.jpg" width="300" />
+<figure class="image" style="float:left"><img alt="IMG_3429-512x384.jpg" height="188" src="http://farm1.staticflickr.com/272/18433257823_d226b0074c_b.jpg" width="250" />
 <figcaption></figcaption>
 </figure>
 
