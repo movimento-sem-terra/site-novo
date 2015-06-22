@@ -105,7 +105,7 @@ Diminuiu muito a intensidade da pol&iacute;tica externa do atual governo em rela
 seria leviano dizer que o governo Dilma mudou o enfoque de sua pol&iacute;tica externa. N&atilde;o mudou o foco mas arrefeceu.&nbsp;</p>
 
 <p><br />
-<strong>O Itamaraty emitiu uma nota pedindo esclarecimento ao governo venezuelano. O governo caiu na provoca&ccedil;&atilde;o.&nbsp;</strong></p>
+<strong>O Itamaraty emitiu uma nota pedindo esclarecimento ao governo venezuelano. O governo caiu na provoca&ccedil;&atilde;o?</strong></p>
 
 <p><br />
 Acredito que sim. O governo engoliu o fact&oacute;ide, que foi criar uma situa&ccedil;&atilde;o em cima de algo que n&atilde;o existiu e o governo embarcou. Agora &eacute; importante considerar o seguinte: o governo est&aacute; lidando com enormes dificuldades com o Congresso, com a C&acirc;mara e o Senado, ent&atilde;o certamente n&atilde;o era a hora da Dilma peitar os parlamentares por uma quest&atilde;o que no frigir dos ovos n&atilde;o &eacute; uma quest&atilde;o essencial do governo. A Dilma est&aacute; mais preocupada com a situa&ccedil;&atilde;o interna.&nbsp;</p>
