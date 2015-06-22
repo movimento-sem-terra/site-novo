@@ -24,12 +24,6 @@ files:
     small: "http://farm1.staticflickr.com/519/18873153150_156a03e9a9_n.jpg"
     title: DSC08737.JPG
     $$hashKey: 084
-  - link: "http://farm1.staticflickr.com/442/19060868405_995327243c_b.jpg"
-    thumbnail: "http://farm1.staticflickr.com/442/19060868405_995327243c_t.jpg"
-    medium: "http://farm1.staticflickr.com/442/19060868405_995327243c_z.jpg"
-    small: "http://farm1.staticflickr.com/442/19060868405_995327243c_n.jpg"
-    title: DSC08707.JPG
-    $$hashKey: 087
   - link: "http://farm1.staticflickr.com/538/19055282912_5d983007b4_b.jpg"
     thumbnail: "http://farm1.staticflickr.com/538/19055282912_5d983007b4_t.jpg"
     medium: "http://farm1.staticflickr.com/538/19055282912_5d983007b4_z.jpg"
@@ -42,6 +36,12 @@ files:
     small: "http://farm4.staticflickr.com/3799/19034629246_d3906fac61_n.jpg"
     title: DSC08700.JPG
     $$hashKey: 08D
+  - link: "http://farm1.staticflickr.com/404/19036099386_44ecff6b56_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/404/19036099386_44ecff6b56_t.jpg"
+    medium: "http://farm1.staticflickr.com/404/19036099386_44ecff6b56_z.jpg"
+    small: "http://farm1.staticflickr.com/404/19036099386_44ecff6b56_n.jpg"
+    title: DSC08707.jpg
+    $$hashKey: 05T
 created_date: "2015-06-22T15:41:47-03:00"
 published: true
 releated_posts:
@@ -133,7 +133,7 @@ Para Wesley Lima, da dire&ccedil;&atilde;o estadual do MST, &ldquo;o modelo capi
 
 <p>&nbsp;</p>
 
-<figure class="image" style="float:right"><img alt="DSC08707.JPG" height="400" src="http://farm1.staticflickr.com/442/19060868405_995327243c_b.jpg" width="300" />
+<figure class="image" style="float:right"><img alt="DSC08707.jpg" src="http://farm1.staticflickr.com/404/19036099386_44ecff6b56_b.jpg" />
 <figcaption>Jovens organizam calend&aacute;rio de atividades</figcaption>
 </figure>
 
