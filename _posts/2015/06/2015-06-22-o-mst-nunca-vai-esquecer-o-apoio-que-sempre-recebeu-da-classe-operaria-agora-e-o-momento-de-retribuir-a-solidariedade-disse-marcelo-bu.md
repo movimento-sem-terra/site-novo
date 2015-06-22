@@ -56,7 +56,7 @@ Sob a alega&ccedil;&atilde;o da crise econ&ocirc;mica, as grandes empresas do co
 Os trabalhadores tamb&eacute;m denunciam a press&atilde;o destas empresas sobre o Programa de Demiss&atilde;o &ldquo;Volunt&aacute;ria&rdquo; e o sistema de Lay-off, quando os funcion&aacute;rios s&atilde;o dispensados temporariamente, maneira pela qual a empresa se utiliza do dinheiro do trabalhador, por meio da interven&ccedil;&atilde;o do governo federal, para pagar 50% do sal&aacute;rio.</p>
 
 <p><br />
-Sob estes pontos, os trabalhadores denunciam a explora&ccedil;&atilde;o da for&ccedil;a de trabalho por estas empresas desde os anos de 1950, ao receberem das prefeituras, governos estaduais e federal isen&ccedil;&atilde;o de impostos, privil&eacute;gios e benef&iacute;cios para a importa&ccedil;&atilde;o de m&aacute;quinas e equipamentos industriais, al&eacute;m de empr&eacute;stimos a juros baixos do BNDES e outros bancos p&uacute;blicos, mas num primeiro sinal de crise transferem a conta para os trabalhadores.<br />
+Sobre estes pontos, os trabalhadores denunciam a explora&ccedil;&atilde;o da for&ccedil;a de trabalho por estas empresas desde os anos de 1950, ao receberem das prefeituras, governos estaduais e federal isen&ccedil;&atilde;o de impostos, privil&eacute;gios e benef&iacute;cios para a importa&ccedil;&atilde;o de m&aacute;quinas e equipamentos industriais, al&eacute;m de empr&eacute;stimos a juros baixos do BNDES e outros bancos p&uacute;blicos, mas num primeiro sinal de crise transferem a conta para os trabalhadores.<br />
 &nbsp;</p>
 
 <p><img alt="metalurgicos2.jpg" src="http://farm1.staticflickr.com/519/18875462910_81664b6aba_b.jpg" /><br />
