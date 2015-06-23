@@ -1,6 +1,9 @@
 ---
-date: "2015-06-23T09:49:22-03:00"
-tags: []
+date: "2015-06-23T07:49:22-03:00"
+tags:
+  - tag: reforma-política
+  - tag: eduardo-cunha
+  - tag: constituinte
 title: Deputados descartam propostas da sociedade civil para a reforma política
 support_line: "O modelo sequer foi analisado pelos parlamentares, que discutiram propostas em que nada muda na estrutura do sistema político."
 menu: projeto popular
@@ -15,7 +18,12 @@ files:
     $$hashKey: 08N
 created_date: "2015-06-23T10:01:52-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - 2015/06/2015-06-12-na-camara-um-projeto-de-matar-a-reforma-politica.md
+  - 2015/06/2015-06-01-moroni-reforma-politica-do-eduardo-cunha-e-um-deboche-com-o-povo-brasileiro.md
+  - 2015/06/2015-06-09-juristas-alertam-sobre-inconstitucionalidade-de-manobra-de-cunha-por-financiamento-privado.md
+  - 2015/05/2015-05-26-o-distritao-e-o-boi-de-piranha-o-que-o-pmdb-quer-e-institucionalizar-o-financiamento-privado-de-campanha.md
+  - 2015/06/2015-06-02-movimentos-sociais-denunciam-cunha-e-os-84-deputados-que-mudaram-seus-votos.md
 
 ---
 <p><img alt="protesto_reforma_politica_marcelo_camargo_bollbrasil.jpg" src="http://farm1.staticflickr.com/280/19086947321_4c0bfda954_b.jpg" /></p>
