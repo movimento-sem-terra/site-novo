@@ -31,7 +31,7 @@ releated_posts:
   - 2015/03/2015-03-04-livro-fala-sobre-a-resistencia-dos-trabalhadores-na-cidade-e-no-campo.md
 
 ---
-<p><img alt="Benzedeiras -foto Lina Faria.JPG" src="http://farm4.staticflickr.com/3899/18465093364_103a12483f_b.jpg" /><br />
+<p><img alt="benzedeiras.jpg" src="http://farm1.staticflickr.com/382/19087669245_6b052908fc_b.jpg" /><br />
 <br />
 <em>Por Andr&eacute; Halloys Dallagnol, Rafaela Pontes de Lima e Kaio Miotti<br />
 Da Jornada de Agroecologia do Paran&aacute;</em></p>
