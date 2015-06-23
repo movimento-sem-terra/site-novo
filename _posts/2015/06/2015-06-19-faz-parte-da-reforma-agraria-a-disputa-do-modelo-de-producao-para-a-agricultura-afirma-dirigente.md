@@ -9,7 +9,7 @@ tags:
 title: "\"A Reforma Agrária está no bojo da discussão sobre alimentos sadios\", afirma dirigente do MST"
 support_line: "Em entrevista, Cedenir de Oliveira, avaliou os primeiros meses de 2015 e falou sobre a organização do Movimento para o próximo período."
 menu: lutas e mobilizações
-images_hd: "http://farm4.staticflickr.com/3896/18952269942_4ebd82939b_b.jpg"
+images_hd: "http://farm1.staticflickr.com/460/18958232275_f2f2679634_b.jpg"
 layout: post
 files:
   - link: "http://farm4.staticflickr.com/3896/18952269942_4ebd82939b_b.jpg"
