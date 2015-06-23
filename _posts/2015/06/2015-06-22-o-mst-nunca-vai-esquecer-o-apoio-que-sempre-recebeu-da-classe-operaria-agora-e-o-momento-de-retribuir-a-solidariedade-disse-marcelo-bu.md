@@ -38,7 +38,7 @@ releated_posts:
 <em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Militantes do N&uacute;cleo Carlos Marighella, do MST na regi&atilde;o do Grande ABC (SP), aproveitaram este domingo (21) para visitarem e manifestarem apoio ao acampamento dos trabalhadores da Mercedes Benz, em S&atilde;o Bernardo do Campo, em que exigem a revis&atilde;o das centenas de demiss&otilde;es que vem ocorrendo desde o in&iacute;cio do ano.</p>
+Militantes do N&uacute;cleo Carlos Marighella, do MST na regi&atilde;o do Grande ABC (SP), aproveitaram este domingo (21) para visitar e manifestar apoio ao acampamento dos trabalhadores da Mercedes Benz, em S&atilde;o Bernardo do Campo, em que exigem a revis&atilde;o das centenas de demiss&otilde;es que vem ocorrendo desde o in&iacute;cio do ano.</p>
 
 <p><br />
 Em nome da dire&ccedil;&atilde;o do MST, Marcelo Buzetto entregou para os metal&uacute;rgicos bandeiras e bon&eacute;s do Movimento, al&eacute;m de exemplares do Programa Agr&aacute;rio, para difundir entre os trabalhadores a proposta de Reforma Agr&aacute;ria Popular defendida pelos Sem Terra.</p>
