@@ -53,12 +53,9 @@ releated_posts:
 <figcaption>&nbsp;Picha&ccedil;&atilde;o nas ruas de Assun&ccedil;&atilde;o lembram o massacre e contestam a vers&atilde;o oficial</figcaption>
 </figure>
 
-<p><em>Por Vanessa Martina Silva<br />
-Do Opera Mundi</em></p>
-
 <p><br />
-Ap&oacute;s tr&ecirc;s anos do impeachment contra Lugo, advogados de camponeses correm risco de perder registro profissional por escancarar brechas no processo<br />
-Imprimir</p>
+<em>Por Vanessa Martina Silva<br />
+Do Opera Mundi</em></p>
 
 <p><br />
 Nesta segunda-feira (22/06) deveria ter in&iacute;cio o julgamento oral dos 13 camponeses paraguaios acusados por suposto envolvimento no massacre de Curuguaty, que culminou no golpe parlamentar contra o ex-presidente Fernando Lugo, que hoje completa tr&ecirc;s anos. A data, no entanto, foi adiada por um m&ecirc;s, sendo prevista para 22 de julho. Desde o ocorrido, os trabalhadores rurais encontram-se detidos.</p>
@@ -85,11 +82,13 @@ No chamado massacre de Curuguaty, morreram 17 pessoas, sendo 11 camponeses e sei
 <p><br />
 O fato foi utilizado pela oposi&ccedil;&atilde;o paraguaia para justificar o julgamento pol&iacute;tico, ou impeachment, do ent&atilde;o presidente Fernando Lugo, em 22 de junho de 2012. &Agrave; jornalista Natalia Viana, o ex-mandat&aacute;rio confessaria dois meses depois: &ldquo;Eu sabia que iria terminar assim&rdquo;. &ldquo;O poder, mesmo, nunca foi meu&rdquo;, como consta no livro da Ag&ecirc;ncia P&uacute;blica &ldquo;O Bispo e Seus Tubar&otilde;es&rdquo;, que pode ser acessado aqui.</p>
 
-<p>&nbsp;
+<p>&nbsp;</p>
+
 <figure class="image"><img alt="curuguaty5(1).jpg" src="http://farm1.staticflickr.com/299/18463068374_f2a702f8ce_b.jpg" />
 <figcaption>Homenagem em Curuguaty, local de tiroteio que culminou na queda de Lugo: &quot;Hoje me matam, mas amanh&atilde; voltarei e serei milh&otilde;es&quot;</figcaption>
 </figure>
-</p>
+
+<p>&nbsp;</p>
 
 <p><br />
 No processo, a promotoria se baseia nos testemunhos dos agentes que participaram da opera&ccedil;&atilde;o e defende que os policiais foram v&iacute;timas de uma emboscada feita pelos ocupantes da terra.</p>
@@ -117,7 +116,7 @@ A hist&oacute;ria come&ccedil;a em 1967, quando a Industrial Paraguaia doou os 2
 Por outro lado, Blas Riquelme, um empres&aacute;rio e pol&iacute;tico do partido conservador paraguaio Colorado, passou a afirmar que as terras s&atilde;o de sua propriedade por usucapi&atilde;o, por ocup&aacute;-las desde 1970. Mas, de acordo com o jornalista e historiador paraguaio Guido Rodr&iacute;guez Alcal&aacute;, Riquelme sabia que as terras pertenciam &agrave; Marinha porque em 1982 pediu permiss&atilde;o a ela para passar por ali.</p>
 
 <figure class="image"><img alt="A-propriedade-onde-ocorreu-a-matança-registrada-como-Reserva-Natural-Campos-Morumbi(1).jpg" src="http://farm4.staticflickr.com/3761/19059377046_94a1b06f27_b.jpg" />
-<figcaption>&nbsp;A propriedade onde ocorreu a matan&ccedil;a registrada como Reserva Natural Campos Morumbi.<img alt="Pichação-nas-ruas-de-Assunção(1).jpg" src="http://farm1.staticflickr.com/554/18463051474_e390156a80_b.jpg" /></figcaption>
+<figcaption>&nbsp;A propriedade onde ocorreu a matan&ccedil;a registrada como Reserva Natural Campos Morumbi.</figcaption>
 </figure>
 
 <p><br />
