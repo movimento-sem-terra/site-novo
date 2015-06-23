@@ -37,9 +37,12 @@ releated_posts:
   - 2015/06/2015-06-06-producao-organica-reforma-agraria-preservacao-florestal-a-historia-do-sitio-a-boa-terra.md
 
 ---
-<p><img alt="IMG_3429-512x384.jpg" src="http://farm1.staticflickr.com/272/18433257823_d226b0074c_b.jpg" /></p>
+<figure class="image" style="float:right"><img alt="IMG_3424-512x384.jpg" src="http://farm1.staticflickr.com/520/18432714383_53f6d8749b_b.jpg" />
+<figcaption></figcaption>
+</figure>
 
-<p><em>Por Alan Tygel e M&ocirc;nica Mour&atilde;o<br />
+<p><br />
+<em>Por Alan Tygel e M&ocirc;nica Mour&atilde;o<br />
 Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
@@ -51,7 +54,7 @@ H&aacute; alguns anos, a prefeitura da cidade reservou uma grande &aacute;rea, a
 
 <p>&nbsp;</p>
 
-<figure class="image" style="float:right"><img alt="fotos_monica023-512x683.jpg" height="407" src="http://farm1.staticflickr.com/413/19057112011_3a0b22b06f_b.jpg" width="300" />
+<figure class="image" style="float:left"><img alt="fotos_monica023-512x683.jpg" height="407" src="http://farm1.staticflickr.com/413/19057112011_3a0b22b06f_b.jpg" width="300" />
 <figcaption></figcaption>
 </figure>
 
@@ -70,7 +73,7 @@ Entretanto, Marco ressalta que o comit&ecirc; n&atilde;o serve apenas como m&ati
 
 <p>&nbsp;</p>
 
-<figure class="image" style="float:left"><img alt="IMG_3429-512x384.jpg" height="188" src="http://farm1.staticflickr.com/272/18433257823_d226b0074c_b.jpg" width="250" />
+<figure class="image" style="float:right"><img alt="IMG_3429-512x384.jpg" src="http://farm1.staticflickr.com/272/18433257823_d226b0074c_b.jpg" />
 <figcaption></figcaption>
 </figure>
 
