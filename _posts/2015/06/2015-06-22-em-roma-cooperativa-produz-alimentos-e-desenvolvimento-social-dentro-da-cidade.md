@@ -5,7 +5,7 @@ tags:
   - tag: Itália
   - tag: mst
   - tag: cooperativas
-images_hd: "http://farm1.staticflickr.com/520/18432714383_53f6d8749b_b.jpg"
+images_hd: "http://farm1.staticflickr.com/272/18433257823_d226b0074c_b.jpg"
 title: "Em Roma, cooperativa produz alimentos e desenvolvimento social dentro da cidade"
 support_line: Objetivo do projeto também é resgatar laços sociais e incluir socialmente imigrantes e outros grupos frágeis.
 menu: agricultura camponesa
@@ -37,7 +37,7 @@ releated_posts:
   - 2015/06/2015-06-06-producao-organica-reforma-agraria-preservacao-florestal-a-historia-do-sitio-a-boa-terra.md
 
 ---
-<p>&nbsp;</p>
+<p><img alt="IMG_3429-512x384.jpg" src="http://farm1.staticflickr.com/272/18433257823_d226b0074c_b.jpg" /></p>
 
 <p><em>Por Alan Tygel e M&ocirc;nica Mour&atilde;o<br />
 Da P&aacute;gina do MST</em></p>
