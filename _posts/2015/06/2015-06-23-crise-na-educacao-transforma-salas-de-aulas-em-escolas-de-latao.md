@@ -69,13 +69,8 @@ Segundo Ivanete Concei&ccedil;&atilde;o, do Sindicato Estadual dos Profissionais
 <p><br />
 Ivanete tamb&eacute;m critica a pr&aacute;tica de ensino como professor polivalente. Em outras palavras isso significa um professor que ministra v&aacute;rias disciplinas. Pode ser um professor de hist&oacute;ria, por exemplo, dando aula de matem&aacute;tica.</p>
 
-<p>&nbsp;</p>
-
-<figure class="image" style="float:right"><img alt="Claudia Barreto, exonerada do cargo de direto por apioar gereve dos professores..jpg" src="http://farm1.staticflickr.com/524/18896092779_9e354ed83f_b.jpg" />
-<figcaption>Claudia Barreto, exonerada do cargo de diretora por apoiar greve.</figcaption>
-</figure>
-
-<p>Na opini&atilde;o dela, esse profissional trabalha, basicamente, com apostilas. &quot;Isso tira toda a autonomia do professor, uma vez que imp&otilde;e uma a&ccedil;&atilde;o pedag&oacute;gica da qual ele n&atilde;o tem dom&iacute;nio do conte&uacute;do&quot;, disse.</p>
+<p><br />
+Na opini&atilde;o dela, esse profissional trabalha, basicamente, com apostilas. &quot;Isso tira toda a autonomia do professor, uma vez que imp&otilde;e uma a&ccedil;&atilde;o pedag&oacute;gica da qual ele n&atilde;o tem dom&iacute;nio do conte&uacute;do&quot;, disse.</p>
 
 <p><br />
 Outros temas tamb&eacute;m foram debatidos durante o evento, como o programa do governo federal P&aacute;tria Educadora; Programa de Apoio a Planos de Reestrutura&ccedil;&atilde;o e Expans&atilde;o das Universidades Federais (Reuni); Sistema de Sele&ccedil;&atilde;o Unificada (Sisu); Programa Nacional de Acesso ao Ensino T&eacute;cnico e Emprego (Pronatec); Curr&iacute;culo m&iacute;nimo.</p>
@@ -93,7 +88,7 @@ Na manh&atilde; do dia 28 de maio deste ano, Cl&aacute;udia Barreto, que atuava 
 Amigas de trabalho de Cl&aacute;udia desconfiam de que a causa do ocorrida seja o apoio dado aos profissionais que participaram de uma greve do setor. &quot;Assumi o cargo por meio de um processo de elei&ccedil;&atilde;o, que vencia em 2016. Mesmo assim, o edital n&atilde;o foi respeitado&rdquo;, relata.</p>
 
 <p><br />
-Atualmente, alunos da escola fazem abaixo-assinado para que Cl&aacute;udia volte a assumir o cargo de diretora da escola municipal.</p>
+Ap&oacute;s um abaixo-assinado puxado pelos alunos da escola para que Cl&aacute;udia voltasse a assumir o cargo, ela acabou sendo readmitida.</p>
 
 <p><br />
 <strong>Enera</strong></p>
