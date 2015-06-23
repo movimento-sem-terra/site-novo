@@ -4,7 +4,7 @@ tags:
   - tag: merenda-escolar
   - tag: reforma-agrária
   - tag: alimentação
-title: "Merenda escolar recebe 650 toneladas de feijão da Reforma Agrária, em SP"
+title: "Alimentação escolar recebe 650 toneladas de feijão da Reforma Agrária, em SP"
 support_line: "Além do feijão, as crianças da rede municipal também se beneficiarão com 72 toneladas de farinha de mandioca."
 menu: reforma agrária
 sector: production
