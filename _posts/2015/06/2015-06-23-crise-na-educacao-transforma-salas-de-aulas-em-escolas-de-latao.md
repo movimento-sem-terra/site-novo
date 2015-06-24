@@ -8,27 +8,27 @@ title: "Crise na educação transforma salas de aulas em \"escolas de latão\""
 support_line: Evento do Setor de Educação do MST reúne profissionais da área para a discussão de temas pertinentes ao campo .
 menu: "educação, cultura e comunicação"
 sector: education
-images_hd: "http://farm1.staticflickr.com/440/19082269265_c7591bd8cc_b.jpg"
+images_hd: "http://farm4.staticflickr.com/3899/18930521120_2e2a148b3a_b.jpg"
 layout: post
 files:
-  - link: "http://farm1.staticflickr.com/524/18896092779_9e354ed83f_b.jpg"
-    thumbnail: "http://farm1.staticflickr.com/524/18896092779_9e354ed83f_t.jpg"
-    medium: "http://farm1.staticflickr.com/524/18896092779_9e354ed83f_z.jpg"
-    small: "http://farm1.staticflickr.com/524/18896092779_9e354ed83f_n.jpg"
-    title: "Claudia Barreto, exonerada do cargo de direto por apioar gereve dos professores..jpg"
-    $$hashKey: 086
   - link: "http://farm1.staticflickr.com/440/19082269265_c7591bd8cc_b.jpg"
     thumbnail: "http://farm1.staticflickr.com/440/19082269265_c7591bd8cc_t.jpg"
     medium: "http://farm1.staticflickr.com/440/19082269265_c7591bd8cc_z.jpg"
     small: "http://farm1.staticflickr.com/440/19082269265_c7591bd8cc_n.jpg"
     title: IMG_1459.JPG
     $$hashKey: 089
-  - link: "http://farm1.staticflickr.com/331/19112411272_23eae4bdbc_b.jpg"
-    thumbnail: "http://farm1.staticflickr.com/331/19112411272_23eae4bdbc_t.jpg"
-    medium: "http://farm1.staticflickr.com/331/19112411272_23eae4bdbc_z.jpg"
-    small: "http://farm1.staticflickr.com/331/19112411272_23eae4bdbc_n.jpg"
-    title: "IMG_1225!.jpg"
-    $$hashKey: 05V
+  - link: "http://farm4.staticflickr.com/3899/18930521120_2e2a148b3a_b.jpg"
+    thumbnail: "http://farm4.staticflickr.com/3899/18930521120_2e2a148b3a_t.jpg"
+    medium: "http://farm4.staticflickr.com/3899/18930521120_2e2a148b3a_z.jpg"
+    small: "http://farm4.staticflickr.com/3899/18930521120_2e2a148b3a_n.jpg"
+    title: IMG_1225.JPG
+    $$hashKey: 05X
+  - link: "http://farm1.staticflickr.com/488/18495748424_56d65d50b7_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/488/18495748424_56d65d50b7_t.jpg"
+    medium: "http://farm1.staticflickr.com/488/18495748424_56d65d50b7_z.jpg"
+    small: "http://farm1.staticflickr.com/488/18495748424_56d65d50b7_n.jpg"
+    title: IMG_1069.JPG
+    $$hashKey: "060"
 created_date: "2015-06-23T09:00:02-03:00"
 published: true
 releated_posts:
@@ -38,9 +38,7 @@ releated_posts:
   - 2015/06/2015-06-01-sem-terra-zeram-analfabetismo-em-seis-assentamentos-na-bahia.md
 
 ---
-<figure class="image"><img alt="IMG_1459.JPG" src="http://farm1.staticflickr.com/440/19082269265_c7591bd8cc_b.jpg" />
-<figcaption>Em encontro, educadores da Reforma Agr&aacute;ria do RJ se preparam para o 2&deg; ENERA, em setembro.</figcaption>
-</figure>
+<p><img alt="IMG_1225.JPG" src="http://farm4.staticflickr.com/3899/18930521120_2e2a148b3a_b.jpg" /></p>
 
 <p><em>Por Vanessa Ramos<br />
 Da P&aacute;gina do MST</em></p>
@@ -57,13 +55,8 @@ Lamosa disse que se sentia muito constrangido em ter que dar aulas dentro de &qu
 <p><br />
 Este foi o tom dos debates que seguiram durante o Encontro Estadual de Educadores da Reforma Agr&aacute;ria do Estado do RJ (Enera), entre 12 e 14 de junho, realizado pelo MST em Campos dos Goytacazes, regi&atilde;o norte do estado, que buscou discutir a educa&ccedil;&atilde;o em seus mais variados aspectos. Cerca de 100 pessoas participaram do evento.</p>
 
-<p>&nbsp;</p>
-
-<figure class="image" style="float:right"><img alt="IMG_1225!.jpg" src="http://farm1.staticflickr.com/331/19112411272_23eae4bdbc_b.jpg" />
-<figcaption></figcaption>
-</figure>
-
-<p>O Enera reuniu pesquisadores, profissionais e estudantes de v&aacute;rias regi&otilde;es do estado. Representantes de diversas organiza&ccedil;&otilde;es e institutos estiveram presentes, como UFRRJ, Fiocruz, UFRJ, Faetec, UFF, Universidade de Bras&iacute;lia (UnB), Comiss&atilde;o Pastoral da Terra (CPT), Movimento dos Pequenos Agricultores (MPA) e Programa de Educa&ccedil;&atilde;o Continuada (CPE).</p>
+<p><br />
+O Enera reuniu pesquisadores, profissionais e estudantes de v&aacute;rias regi&otilde;es do estado. Representantes de diversas organiza&ccedil;&otilde;es e institutos estiveram presentes, como UFRRJ, Fiocruz, UFRJ, Faetec, UFF, Universidade de Bras&iacute;lia (UnB), Comiss&atilde;o Pastoral da Terra (CPT), Movimento dos Pequenos Agricultores (MPA) e Programa de Educa&ccedil;&atilde;o Continuada (CPE).</p>
 
 <p><br />
 Em meio ao debate caloroso sobre educa&ccedil;&atilde;o, Lamosa contou que a UFRJ encontra-se totalmente sem recursos e os pr&eacute;dios que comp&otilde;em o Campus Universit&aacute;rio da Urca, por exemplo, possui muito problemas, inclusive goteiras no teto das salas de aula.</p>
@@ -71,8 +64,13 @@ Em meio ao debate caloroso sobre educa&ccedil;&atilde;o, Lamosa contou que a UFR
 <p><br />
 &quot;Para sanar os problemas, a UFRJ colocou containeres onde funcionam tanto pr&eacute;dios de administra&ccedil;&atilde;o, quanto pr&eacute;dios de aula. Existem containeres de dois andares onde s&atilde;o realizadas as aulas&quot;, completou.</p>
 
-<p><br />
-Isso, por&eacute;m, &eacute; apenas uma das pontas do iceberg da educa&ccedil;&atilde;o brasileira. Para compor um sal&aacute;rio que garanta a subsist&ecirc;ncia, professores precisam trabalhar em mais de duas escolas.</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="IMG_1069.JPG" src="http://farm1.staticflickr.com/488/18495748424_56d65d50b7_b.jpg" />
+<figcaption></figcaption>
+</figure>
+
+<p>Isso, por&eacute;m, &eacute; apenas uma das pontas do iceberg da educa&ccedil;&atilde;o brasileira. Para compor um sal&aacute;rio que garanta a subsist&ecirc;ncia, professores precisam trabalhar em mais de duas escolas.</p>
 
 <p><br />
 Segundo Ivanete Concei&ccedil;&atilde;o, do Sindicato Estadual dos Profissionais de Educa&ccedil;&atilde;o (Sepe), essa jornada de trabalho tira a oportunidade do professor de se especializar e de continuar os estudos. &quot;O projeto da rede estadual &eacute; este: ter redu&ccedil;&atilde;o extrema do n&uacute;mero de escolas e profissionais desqualificados&quot;, afirma.</p>
