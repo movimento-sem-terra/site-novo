@@ -8,7 +8,7 @@ hat: ""
 support_line: As famílias retornaram à área depois do governo federal não ter cumprido diversos acordos realizados durante a reintegração de posse ocorrida em março deste ano.
 title: Três mil famílias do MST reocupam latifúndio do Senador Eunício Oliveira
 menu: lutas e mobilizações
-section: cover
+section: featured-news
 sector: mass-front
 images_hd: "http://farm1.staticflickr.com/412/18395912244_5283981db3_b.jpg"
 layout: post
