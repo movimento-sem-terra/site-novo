@@ -8,7 +8,7 @@ tags:
   - tag: Pará
 title: "Cacau orgânico: para reverter devastação da Amazônia"
 menu: agricultura camponesa
-label: articles
+label: null
 support_line: "Como, após quatro décadas, famílias que migraram ao Pará enganadas pela ditadura, descobrem alternativa da produção sem agrotóxicos."
 images_hd: "http://farm1.staticflickr.com/523/18770072079_deee1a1cbc_b.jpg"
 layout: post
@@ -34,10 +34,10 @@ releated_posts:
   - 2015/06/2015-06-01-tenho-orgulho-de-ser-agricultora-de-botar-a-mao-na-terra-de-ter-minhas-maos-calejadas.md
 
 ---
-<p>&nbsp;</p>
+<p><img alt="1419725399642.jpg" src="http://farm1.staticflickr.com/523/18770072079_deee1a1cbc_b.jpg" /></p>
 
-<p><em>Por&nbsp;</em><span style="line-height: 20.7999992370605px;">Mario Osava</span><br />
-<em>Do&nbsp;</em><span style="line-height: 20.7999992370605px;">Envolverde/IPS</span></p>
+<p><em>Por&nbsp;<span style="line-height: 20.7999992370605px;">Mario Osava</span><br />
+Do&nbsp;<span style="line-height: 20.7999992370605px;">Envolverde/IPS</span></em></p>
 
 <p><br />
 &ldquo;Agora nos damos conta do para&iacute;so em que vivemos&rdquo;, reconheceu Darc&iacute;rio Wronski, l&iacute;der dos produtores de cacau org&acirc;nico na regi&atilde;o onde a rodovia Transamaz&ocirc;nica cruza a bacia do rio Xingu, no norte do Brasil. Al&eacute;m do cacau, em seus cem hectares ele cultiva banana, cupua&ccedil;u (Theobroma grandiflorum), abacaxi, maracuj&aacute; (Passiflora edulis) e outras frutas, nativas ou n&atilde;o.</p>
