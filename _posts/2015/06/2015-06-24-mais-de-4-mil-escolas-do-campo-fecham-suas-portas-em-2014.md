@@ -64,7 +64,7 @@ H&aacute; tempo que estes n&uacute;meros preocupam entidades e movimentos sociai
 
 <p><img alt="info_escolas3.jpg" src="http://farm1.staticflickr.com/383/19126729271_ff6516f086_b.jpg" /><br />
 <br />
-Para Clarice Santos, professora da Universidade de Bras&iacute;lia (UnB) e Coordenadora Geral de Educa&ccedil;&atilde;o do Campo e Cidadania do INCRA, &ldquo;esses n&uacute;meros revelam o fracasso da atual pol&iacute;tica de educa&ccedil;&atilde;o no campo&rdquo;.</p>
+Para Clarice Santos, professora da Universidade de Bras&iacute;lia (UnB), &ldquo;esses n&uacute;meros revelam o fracasso da atual pol&iacute;tica de educa&ccedil;&atilde;o no campo&rdquo;.</p>
 
 <p><br />
 Para ela, os instrumentos criados precisam ser revistos para que se alcance o resultado esperado. &ldquo;Se por um lado existe um esfor&ccedil;o do governo federal em ampliar o transporte escolar rural, por outro, esse esfor&ccedil;o n&atilde;o &eacute; o mesmo para evitar o fechamento das escolas&rdquo;, exemplifica.</p>
