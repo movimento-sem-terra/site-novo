@@ -27,12 +27,13 @@ releated_posts:
 
 ---
 <p><img alt="por que mudar o congresso.jpeg" src="http://farm1.staticflickr.com/289/18495125963_2461bb7292_b.jpg" /><br />
+<br />
 <em>Por Gladstone Leonel Junior*</em></p>
 
-<p><br />
+<p style="text-align: right;"><br />
 <em>&ldquo;Cui licet quod est plus, licet utique quod est minus&rdquo;</em></p>
 
-<p><br />
+<p style="text-align: right;"><br />
 <em>&ldquo;todo o poder emana do povo, que o exerce por meio de representantes eleitos ou diretamente, nos termos desta Constitui&ccedil;&atilde;o&rdquo;</em></p>
 
 <p><br />
