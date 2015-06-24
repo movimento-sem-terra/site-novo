@@ -7,7 +7,7 @@ title: Mais de 4 mil escolas do campo fecham suas portas em 2014
 menu: "educação, cultura e comunicação"
 section: cover
 sector: education
-images_hd: "http://farm1.staticflickr.com/442/19126777311_e8220d38ed_b.jpg"
+images_hd: "http://farm1.staticflickr.com/535/19123533675_2d79081f3d_b.jpg"
 support_line: "Se dividirmos esses números ao longo do ano, temos oito escolas rurais fechadas por dia em todo país. Nos últimos 15 anos, mais de 37 mil unidades encerraram as atividades."
 layout: post
 files:
@@ -23,6 +23,12 @@ files:
     small: "http://farm1.staticflickr.com/442/19126777311_e8220d38ed_n.jpg"
     title: educação_direito nosso.jpg
     $$hashKey: 0GT
+  - link: "http://farm1.staticflickr.com/535/19123533675_2d79081f3d_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/535/19123533675_2d79081f3d_t.jpg"
+    medium: "http://farm1.staticflickr.com/535/19123533675_2d79081f3d_z.jpg"
+    small: "http://farm1.staticflickr.com/535/19123533675_2d79081f3d_n.jpg"
+    title: escola_manifestacao.jpg
+    $$hashKey: 05Q
 created_date: "2015-06-24T15:32:33-03:00"
 published: true
 releated_posts:
@@ -32,11 +38,8 @@ releated_posts:
   - 2015/06/2015-06-03-sem-terrinha-cultivam-3-mil-mudas-e-ajudam-a-reflorestar-assentamento.md
 
 ---
-<figure class="image" style="float:right"><img alt="educação_direito nosso.jpg" src="http://farm1.staticflickr.com/442/19126777311_e8220d38ed_b.jpg" />
-<figcaption></figcaption>
-</figure>
-
-<p><br />
+<p><img alt="escola_manifestacao.jpg" src="http://farm1.staticflickr.com/535/19123533675_2d79081f3d_b.jpg" /><br />
+<br />
 <em>Por Maura Silva<br />
 Da P&aacute;gina do MST</em></p>
 
