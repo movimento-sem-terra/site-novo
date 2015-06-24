@@ -23,6 +23,12 @@ files:
     small: "http://farm1.staticflickr.com/440/19082269265_c7591bd8cc_n.jpg"
     title: IMG_1459.JPG
     $$hashKey: 089
+  - link: "http://farm1.staticflickr.com/331/19112411272_23eae4bdbc_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/331/19112411272_23eae4bdbc_t.jpg"
+    medium: "http://farm1.staticflickr.com/331/19112411272_23eae4bdbc_z.jpg"
+    small: "http://farm1.staticflickr.com/331/19112411272_23eae4bdbc_n.jpg"
+    title: "IMG_1225!.jpg"
+    $$hashKey: 05V
 created_date: "2015-06-23T09:00:02-03:00"
 published: true
 releated_posts:
@@ -51,8 +57,13 @@ Lamosa disse que se sentia muito constrangido em ter que dar aulas dentro de &qu
 <p><br />
 Este foi o tom dos debates que seguiram durante o Encontro Estadual de Educadores da Reforma Agr&aacute;ria do Estado do RJ (Enera), entre 12 e 14 de junho, realizado pelo MST em Campos dos Goytacazes, regi&atilde;o norte do estado, que buscou discutir a educa&ccedil;&atilde;o em seus mais variados aspectos. Cerca de 100 pessoas participaram do evento.</p>
 
-<p><br />
-O Enera reuniu pesquisadores, profissionais e estudantes de v&aacute;rias regi&otilde;es do estado. Representantes de diversas organiza&ccedil;&otilde;es e institutos estiveram presentes, como UFRRJ, Fiocruz, UFRJ, Faetec, UFF, Universidade de Bras&iacute;lia (UnB), Comiss&atilde;o Pastoral da Terra (CPT), Movimento dos Pequenos Agricultores (MPA) e Programa de Educa&ccedil;&atilde;o Continuada (CPE).</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="IMG_1225!.jpg" src="http://farm1.staticflickr.com/331/19112411272_23eae4bdbc_b.jpg" />
+<figcaption></figcaption>
+</figure>
+
+<p>O Enera reuniu pesquisadores, profissionais e estudantes de v&aacute;rias regi&otilde;es do estado. Representantes de diversas organiza&ccedil;&otilde;es e institutos estiveram presentes, como UFRRJ, Fiocruz, UFRJ, Faetec, UFF, Universidade de Bras&iacute;lia (UnB), Comiss&atilde;o Pastoral da Terra (CPT), Movimento dos Pequenos Agricultores (MPA) e Programa de Educa&ccedil;&atilde;o Continuada (CPE).</p>
 
 <p><br />
 Em meio ao debate caloroso sobre educa&ccedil;&atilde;o, Lamosa contou que a UFRJ encontra-se totalmente sem recursos e os pr&eacute;dios que comp&otilde;em o Campus Universit&aacute;rio da Urca, por exemplo, possui muito problemas, inclusive goteiras no teto das salas de aula.</p>
