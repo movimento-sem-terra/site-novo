@@ -5,19 +5,19 @@ tags:
   - tag: agroecologia
   - tag: soberania-alimentar
   - tag: agricultura
-title: A Batalha de dois modelos agrícolas
-support_line: "O agronegócio: a produção de monoculturas em grande escala, baseado na tecnologia e produtos químicos. \n"
+title: "A Batalha entre dois modelos agrícolas: agronegócio vs agroecologia"
+support_line: "O agronegócio: a produção de monoculturas em grande escala, baseado na tecnologia e produtos químicos. "
 menu: agronegócio
 label: articles
-images_hd: "http://farm4.staticflickr.com/3712/18961891908_8e2f43c50a_b.jpg"
+images_hd: "http://farm1.staticflickr.com/487/19153628861_7b4aa81ec0_b.jpg"
 layout: post
 files:
-  - link: "http://farm4.staticflickr.com/3712/18961891908_8e2f43c50a_b.jpg"
-    thumbnail: "http://farm4.staticflickr.com/3712/18961891908_8e2f43c50a_t.jpg"
-    medium: "http://farm4.staticflickr.com/3712/18961891908_8e2f43c50a_z.jpg"
-    small: "http://farm4.staticflickr.com/3712/18961891908_8e2f43c50a_n.jpg"
-    title: 20120704094333.jpg
-    $$hashKey: 06W
+  - link: "http://farm1.staticflickr.com/487/19153628861_7b4aa81ec0_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/487/19153628861_7b4aa81ec0_t.jpg"
+    medium: "http://farm1.staticflickr.com/487/19153628861_7b4aa81ec0_z.jpg"
+    small: "http://farm1.staticflickr.com/487/19153628861_7b4aa81ec0_n.jpg"
+    title: agroecologia.gif
+    $$hashKey: 05M
 created_date: "2015-06-25T12:21:58-03:00"
 published: true
 releated_posts:
@@ -27,12 +27,10 @@ releated_posts:
   - 2015/02/2015-02-13-no-paraguai-agricultores-se-recusam-a-ingressar-no-modelo-imposto-pelo-agronegocio.md
 
 ---
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
+<p><img alt="agroecologia.gif" src="http://farm1.staticflickr.com/487/19153628861_7b4aa81ec0_b.jpg" /></p>
 
 <p><em>Por Janaina Strozake<br />
-Da P&aacute;gina do MST</em></p>
+Da Why Hunger</em></p>
 
 <p><br />
 O agroneg&oacute;cio &eacute; uma agricultura sem agricultores. Praticamente as &uacute;nicas pessoas que vivem nas terras no Brasil nos dias de hoje s&atilde;o os guardas de seguran&ccedil;a que s&atilde;o respons&aacute;veis pela propriedade &ndash; os trabalhadores vivem nos sub&uacute;rbios e marginalizados da propriedade.</p>
