@@ -5,7 +5,7 @@ tags:
   - tag: fechamento-de-escolas
 title: Mais de 4 mil escolas do campo fecham suas portas em 2014
 menu: "educação, cultura e comunicação"
-section: cover
+section: featured-news
 sector: education
 images_hd: "http://farm1.staticflickr.com/535/19123533675_2d79081f3d_b.jpg"
 support_line: "Se dividirmos esses números ao longo do ano, temos oito escolas rurais fechadas por dia em todo país. Nos últimos 15 anos, mais de 37 mil unidades encerraram as atividades."
