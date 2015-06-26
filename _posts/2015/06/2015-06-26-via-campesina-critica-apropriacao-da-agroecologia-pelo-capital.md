@@ -34,6 +34,7 @@ releated_posts:
 
 ---
 <p><img alt="FAO_VIA campesina.jpg" src="http://farm1.staticflickr.com/300/18556929583_549c2282c8_b.jpg" /><br />
+<br />
 <em>Por Iris Pacheco<br />
 Da P&aacute;gina do MST</em></p>
 
@@ -96,6 +97,9 @@ Para Jaqueline Arriagada, da Associa&ccedil;&atilde;o Nacional de Mulheres Rurai
 
 <p><br />
 Para ela, n&atilde;o se trata apenas de uma necessidade de resist&ecirc;ncia, &ldquo;mas tamb&eacute;m alcan&ccedil;ar avan&ccedil;os para que nossa agricultura seja reconhecida e visibilizada. Assim como deve ser com o papel das mulheres no cuidado das sementes e no fazer da agricultura&quot;, destacou Jaqueline.</p>
+
+<p><br />
+<strong>Na agenda do continente</strong></p>
 
 <p><br />
 Recentemente, a agroecologia foi inclu&iacute;da na agenda de integra&ccedil;&atilde;o regional. O Semin&aacute;rio Regional de Agroecologia integra o Plano de A&ccedil;&atilde;o de Agricultura Familiar da Comunidade dos Estados Latino-americanos e Caribenhos (CELAC). A 20&deg; REAF MERCOSUL, realizada em 2013 em Caracas, na Venezuela, incluiu o tema na agenda dos Grupos Tem&aacute;ticos para a Adapta&ccedil;&atilde;o &agrave;s Mudan&ccedil;as Clim&aacute;ticas e o Manejo de Risco Clim&aacute;tico.</p>
