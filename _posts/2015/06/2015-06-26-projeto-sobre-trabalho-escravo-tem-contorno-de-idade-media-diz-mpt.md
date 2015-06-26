@@ -6,7 +6,7 @@ tags:
 title: "Projeto sobre trabalho escravo tem 'contorno de Idade Média', diz MPT"
 support_line: "Na semana passada, comissão do Senado escolheu José Medeiros (PPS-MT) como relator."
 menu: direitos humanos
-images_hd: "http://farm1.staticflickr.com/387/19169904752_8f991f9a0a_b.jpg"
+images_hd: "http://farm1.staticflickr.com/358/18989637029_f17c2873aa_b.jpg"
 layout: post
 files:
   - link: "http://farm1.staticflickr.com/387/19169904752_8f991f9a0a_b.jpg"
@@ -15,6 +15,12 @@ files:
     small: "http://farm1.staticflickr.com/387/19169904752_8f991f9a0a_n.jpg"
     title: trabalhoescravo1.jpg
     $$hashKey: 0HU
+  - link: "http://farm1.staticflickr.com/358/18989637029_f17c2873aa_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/358/18989637029_f17c2873aa_t.jpg"
+    medium: "http://farm1.staticflickr.com/358/18989637029_f17c2873aa_z.jpg"
+    small: "http://farm1.staticflickr.com/358/18989637029_f17c2873aa_n.jpg"
+    title: trabalho-degradante-2.jpg
+    $$hashKey: "056"
 created_date: "2015-06-26T10:39:52-03:00"
 published: true
 releated_posts:
@@ -26,7 +32,7 @@ releated_posts:
   - 2015/01/2015-01-23-comissao-pastoral-da-terra-envia-carta-a-presidente-dilma.md
 
 ---
-<p><img alt="trabalhoescravo1.jpg" src="http://farm1.staticflickr.com/387/19169904752_8f991f9a0a_b.jpg" /><br />
+<p><img alt="trabalho-degradante-2.jpg" src="http://farm1.staticflickr.com/358/18989637029_f17c2873aa_b.jpg" /><br />
 <br />
 <em>Da RBA</em></p>
 
