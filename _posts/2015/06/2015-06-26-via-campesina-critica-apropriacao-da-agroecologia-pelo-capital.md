@@ -60,7 +60,7 @@ J&aacute; o outro parte dos movimentos sociais, composto por uma s&eacute;rie de
 Rosset lembrou que diversos minist&eacute;rios de agricultura de muitos pa&iacute;ses est&atilde;o se mobilizando para gerar pol&iacute;ticas p&uacute;blicas agroecol&oacute;gicas, &ldquo;o que &eacute; uma oportunidade, mas tamb&eacute;m uma amea&ccedil;a, porque se os movimentos n&atilde;o se movem, tudo isso pode vir a apoiar a agroecologia comercial&rdquo;, destaca.</p>
 
 <p><br />
-Pata ele, &eacute; preciso que as organiza&ccedil;&otilde;es se mobilizem para incidir sobre essas novas pol&iacute;ticas para serem um respaldo da agroecologia popular camponesa.&nbsp; &nbsp;</p>
+Para ele, &eacute; preciso que as organiza&ccedil;&otilde;es se mobilizem para incidir sobre essas novas pol&iacute;ticas para serem um respaldo da agroecologia popular camponesa.&nbsp; &nbsp;</p>
 
 <p><br />
 <strong>Mudan&ccedil;a de rumo</strong></p>
