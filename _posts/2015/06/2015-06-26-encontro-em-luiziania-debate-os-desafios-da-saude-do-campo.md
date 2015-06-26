@@ -56,7 +56,7 @@ Para Mercedes Zuliani, do coletivo nacional de sa&uacute;de do MST, um dos grand
 Para ela, &eacute; preciso ampliar o debate sobre qual sistema de sa&uacute;de que se almeja numa perspectiva popular, tanto em rela&ccedil;&atilde;o &agrave; tecnologia quanto ao conhecimento.</p>
 
 <figure class="image" style="float:left"><img alt="saúde_campo3.jpg" src="http://farm1.staticflickr.com/296/19184537385_ea8cd4fa90_b.jpg" />
-<figcaption>Legenda</figcaption>
+<figcaption></figcaption>
 </figure>
 
 <p>O encontro teve in&iacute;cio nesta quinta-feira (25), e conta com um conte&uacute;do bem diverso. Os Sem Terra debateram desde a an&aacute;lise de conjuntura, com elementos da educa&ccedil;&atilde;o e da sa&uacute;de com a quest&atilde;o agr&aacute;ria, ao debate sobre as pr&aacute;ticas de cuidado e experi&ecirc;ncias do setor de sa&uacute;de no MST.</p>
@@ -75,7 +75,7 @@ Ela ainda abordou os impactos da crise econ&ocirc;mica e pol&iacute;tica no pa&i
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="saúde_campo2.jpg" src="http://farm1.staticflickr.com/348/18562006364_d9b1ea4b61_b.jpg" />
-<figcaption>Legenda</figcaption>
+<figcaption></figcaption>
 </figure>
 </div>
 
