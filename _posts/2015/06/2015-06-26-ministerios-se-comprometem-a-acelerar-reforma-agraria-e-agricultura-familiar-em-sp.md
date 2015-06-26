@@ -3,7 +3,7 @@ date: "2015-06-26T09:40:46-03:00"
 tags:
   - tag: reforma-agrária
   - tag: são-paulo
-title: Ministérios se comprometem em acelerar Reforma Agrária em SP
+title: Ministro Patrus Ananias reafirma compromisso de assentar as 120 mil famílias acampadas
 images_hd: "http://farm1.staticflickr.com/471/18986901930_e5e2334168_b.jpg"
 support_line: "Gilmar Mauro, do MST, não poupou críticas em relação à morosidade com a Reforma Agrária. \"O que podem esperar de nós é a luta, o povo organizado sendo sujeito de sua própria conquista\"."
 menu: reforma agrária
