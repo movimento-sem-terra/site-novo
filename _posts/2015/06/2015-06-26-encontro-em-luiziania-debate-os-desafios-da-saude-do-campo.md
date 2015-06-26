@@ -55,6 +55,10 @@ Para Mercedes Zuliani, do coletivo nacional de sa&uacute;de do MST, um dos grand
 <p><br />
 Para ela, &eacute; preciso ampliar o debate sobre qual sistema de sa&uacute;de que se almeja numa perspectiva popular, tanto em rela&ccedil;&atilde;o &agrave; tecnologia quanto ao conhecimento.</p>
 
+<figure class="image" style="float:left"><img alt="saúde_campo3.jpg" src="http://farm1.staticflickr.com/296/19184537385_ea8cd4fa90_b.jpg" />
+<figcaption>Legenda</figcaption>
+</figure>
+
 <p>O encontro teve in&iacute;cio nesta quinta-feira (25), e conta com um conte&uacute;do bem diverso. Os Sem Terra debateram desde a an&aacute;lise de conjuntura, com elementos da educa&ccedil;&atilde;o e da sa&uacute;de com a quest&atilde;o agr&aacute;ria, ao debate sobre as pr&aacute;ticas de cuidado e experi&ecirc;ncias do setor de sa&uacute;de no MST.</p>
 
 <p><br />
@@ -69,15 +73,17 @@ Ela ainda abordou os impactos da crise econ&ocirc;mica e pol&iacute;tica no pa&i
 <p><br />
 &ldquo;Estamos vivendo uma retomada da luta de classes no pa&iacute;s. Participamos da Frente de lutas dos movimentos sociais e sindicais, contra a retirada de direitos e o enfrentamento da direita nas ruas&rdquo;. Para Mafort, &ldquo;a contribui&ccedil;&atilde;o do MST nesse momento hist&oacute;rico &eacute; decisiva&rdquo;.</p>
 
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="saúde_campo2.jpg" src="http://farm1.staticflickr.com/348/18562006364_d9b1ea4b61_b.jpg" />
+<figcaption>Legenda</figcaption>
+</figure>
+</div>
+
 <p><br />
 <strong>Sa&uacute;de e Educa&ccedil;&atilde;o</strong></p>
 
 <p><br />
 A professora-pesquisadora da Escola Polit&eacute;cnica de Sa&uacute;de Joaquim Ven&acirc;ncio da Funda&ccedil;&atilde;o Oswaldo Cruz, Marcela Pronko, destacou elementos da educa&ccedil;&atilde;o e a sa&uacute;de, j&aacute; que para ela n&atilde;o como pensar na sa&uacute;de sem levar em conta a educa&ccedil;&atilde;o.</p>
-
-<figure class="image" style="float:left"><img alt="saúde_campo3.jpg" src="http://farm1.staticflickr.com/296/19184537385_ea8cd4fa90_b.jpg" />
-<figcaption>Legenda</figcaption>
-</figure>
 
 <p><br />
 &quot;Educa&ccedil;&atilde;o e sa&uacute;de &eacute; um direito que se conquista, mas que precisa ser qualificado. A gente tem que dizer qual educa&ccedil;&atilde;o e sa&uacute;de reivindicamos. Cada vez mais, a educa&ccedil;&atilde;o se transforma em mercadoria e tem seu foco em aprendizados individuais e instrumentalizados. As formas como est&atilde;o colocadas as pol&iacute;ticas de educa&ccedil;&atilde;o nos &uacute;ltimos tempos tende a coordenar o conjunto de trabalhadores em fun&ccedil;&atilde;o do capital&quot;, salientou Pronko.</p>
