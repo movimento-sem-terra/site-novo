@@ -7,7 +7,7 @@ tags:
   - tag: agroecologia
 title: Via Campesina critica apropriação da agroecologia pelo capital
 menu: agricultura camponesa
-section: featured-news
+section: null
 images_hd: "http://farm1.staticflickr.com/300/18556929583_549c2282c8_b.jpg"
 support_line: "A crítica se deu durante seminário promovido pela FAO, em Brasília, sobre o fortalecimento da agroecologia na América Latina."
 layout: post
