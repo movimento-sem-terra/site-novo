@@ -24,7 +24,7 @@ releated_posts:
   - 2014/03/2014-03-24-ditadura-selou-alianca-entre-latifundio-e-burguesia-industrial-afirma-professora.md
   - 2014/03/2014-03-31-reforma-agraria-e-o-golpe-de-1964-imaginar-o-passado-para-projetar-o-futuro.md
   - 2014/04/2014-04-01-denis-de-moraes-reforma-agraria-foi-o-que-mais-preocupou-as-classes-dominantes.md
-section: featured-news
+section: cover
 
 ---
 <div style="text-align:center">
