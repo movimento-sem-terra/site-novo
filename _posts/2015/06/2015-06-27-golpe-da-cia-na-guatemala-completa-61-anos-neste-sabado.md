@@ -24,6 +24,7 @@ releated_posts:
   - 2014/03/2014-03-24-ditadura-selou-alianca-entre-latifundio-e-burguesia-industrial-afirma-professora.md
   - 2014/03/2014-03-31-reforma-agraria-e-o-golpe-de-1964-imaginar-o-passado-para-projetar-o-futuro.md
   - 2014/04/2014-04-01-denis-de-moraes-reforma-agraria-foi-o-que-mais-preocupou-as-classes-dominantes.md
+section: featured-news
 
 ---
 <div style="text-align:center">
@@ -57,7 +58,7 @@ O cen&aacute;rio se altera em favor da revolu&ccedil;&atilde;o com a movimenta&c
 Com a ascens&atilde;o do professor Juan Jos&eacute; Ar&eacute;valo e, a seguir, com a continuidade da revolu&ccedil;&atilde;o democr&aacute;tica, na elei&ccedil;&atilde;o de Jacobo Arb&eacute;nz, diversas medidas come&ccedil;aram a favorecer o povo guatemalteco: a cria&ccedil;&atilde;o de um Banco Central, submetendo a suas regras os organismos financeiros privados presentes no pa&iacute;s; o surgimento da previd&ecirc;ncia p&uacute;blica; a constru&ccedil;&atilde;o de estradas e, entre as medidas mais destacadas desta &ldquo;Primavera Guatemalteca&rdquo;, a Reforma Agr&aacute;ria executada pelo governo Arb&eacute;nz.</p>
 
 <p><br />
-Segundo o pr&oacute;prio Arb&eacute;ns, a Reforma Agr&aacute;ria, regulamentada pelo Decreto 900 de 1952, tinha um car&aacute;ter de ampliar o n&uacute;mero de propriet&aacute;rios, um car&aacute;ter capitalista, com vis&atilde;o estrat&eacute;gica de possibilitar o surgimento da ind&uacute;stria naquele pa&iacute;s e fundar uma economia s&oacute;lida e independente.&nbsp;</p>
+Segundo o pr&oacute;prio Arb&eacute;nz, a Reforma Agr&aacute;ria, regulamentada pelo Decreto 900 de 1952, tinha um car&aacute;ter de ampliar o n&uacute;mero de propriet&aacute;rios, um car&aacute;ter capitalista, com vis&atilde;o estrat&eacute;gica de possibilitar o surgimento da ind&uacute;stria naquele pa&iacute;s e fundar uma economia s&oacute;lida e independente.&nbsp;</p>
 
 <p><br />
 &ldquo;ARTIGO 1&ordm;. A Reforma Agr&aacute;ria da Revolu&ccedil;&atilde;o de outubro tem por objetivo liquidar a propriedade feudal no campo e as rela&ccedil;&otilde;es de produ&ccedil;&atilde;o que a originam para desenvolver a forma de explora&ccedil;&atilde;o e m&eacute;todos capitalistas de produ&ccedil;&atilde;o na agricultura e preparar o caminho para a industrializa&ccedil;&atilde;o da Guatemala&rdquo;, segundo o caput do Decreto.</p>
@@ -75,4 +76,4 @@ Entre 18 e 27 de junho, o pa&iacute;s se viu devastado por bombardeios da for&cc
 &ldquo;Talvez o maior erro que cometi foi a confian&ccedil;a total que tinha no ex&eacute;rcito da Guatemala e ter transmitido esta confian&ccedil;a ao povo e &agrave;s organiza&ccedil;&otilde;es populares. Mas nunca imaginei que, diante de um caso de agress&atilde;o estrangeira, em que estava em jogo a liberdade de nossa p&aacute;tria, sua honra e sua independ&ecirc;ncia, o ex&eacute;rcito poderia nos trair&rdquo;, proferiu o presidente deposto em 1955, do seu ex&iacute;lio no M&eacute;xico.</p>
 
 <p><br />
-A mem&oacute;ria de passagens fat&iacute;dicas como esta trazem &agrave; reflex&atilde;o todos os pa&iacute;ses da Am&eacute;rica Latina, em nome da soberania e auto-determina&ccedil;&atilde;o dos povos frente aos recorrentes casos de inger&ecirc;ncia estadunidense que marcam a Hist&oacute;ria deste continente. O alerta se mant&eacute;m vivo, nos exemplos da Guatemala (opera&ccedil;&atilde;o PB-SUCCESS), do Brasil (opera&ccedil;&atilde;o Condor) e de diversas outras a&ccedil;&otilde;es orquestradas pela CIA na Am&eacute;rica Latina.</p>
+A mem&oacute;ria de passagens fat&iacute;dicas como esta trazem &agrave; reflex&atilde;o todos os pa&iacute;ses da Am&eacute;rica Latina, em nome da soberania e autodetermina&ccedil;&atilde;o dos povos frente aos recorrentes casos de inger&ecirc;ncia estadunidense que marcam a Hist&oacute;ria deste continente. O alerta se mant&eacute;m vivo, nos exemplos da Guatemala (opera&ccedil;&atilde;o PB-SUCCESS), do Brasil (opera&ccedil;&atilde;o Condor) e de diversas outras a&ccedil;&otilde;es orquestradas pela CIA na Am&eacute;rica Latina.</p>
