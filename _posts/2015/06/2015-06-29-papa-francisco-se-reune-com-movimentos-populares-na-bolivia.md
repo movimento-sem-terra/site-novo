@@ -10,21 +10,27 @@ menu: direitos humanos
 title: Papa Francisco se reúne com movimentos populares na Bolívia
 support_line: "A atividade, tem como eixos principais a questão da terra, da moradia e do trabalho."
 section: null
-images_hd: "http://farm1.staticflickr.com/314/19272326495_3234c377cb_b.jpg"
+images_hd: "http://farm4.staticflickr.com/3796/19272468215_ab95543045_b.jpg"
 layout: post
 files:
-  - link: "http://farm1.staticflickr.com/314/19272326495_3234c377cb_b.jpg"
-    thumbnail: "http://farm1.staticflickr.com/314/19272326495_3234c377cb_t.jpg"
-    medium: "http://farm1.staticflickr.com/314/19272326495_3234c377cb_z.jpg"
-    small: "http://farm1.staticflickr.com/314/19272326495_3234c377cb_n.jpg"
-    title: download (1).jpg
-    $$hashKey: 0SX
+  - link: "http://farm1.staticflickr.com/510/19272443775_de7cc9415b_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/510/19272443775_de7cc9415b_t.jpg"
+    medium: "http://farm1.staticflickr.com/510/19272443775_de7cc9415b_z.jpg"
+    small: "http://farm1.staticflickr.com/510/19272443775_de7cc9415b_n.jpg"
+    title: Papa Francisco Mensagem de Ano Novo.jpg
+    $$hashKey: 0X6
+  - link: "http://farm4.staticflickr.com/3796/19272468215_ab95543045_b.jpg"
+    thumbnail: "http://farm4.staticflickr.com/3796/19272468215_ab95543045_t.jpg"
+    medium: "http://farm4.staticflickr.com/3796/19272468215_ab95543045_z.jpg"
+    small: "http://farm4.staticflickr.com/3796/19272468215_ab95543045_n.jpg"
+    title: Papa Francisco Mensagem de Ano Novo.jpg
+    $$hashKey: 0XD
 created_date: "2015-06-29T15:13:25-03:00"
 published: true
 releated_posts: []
 
 ---
-<p>&nbsp;</p>
+<p><img alt="Papa Francisco Mensagem de Ano Novo.jpg" height="481" src="http://farm1.staticflickr.com/510/19272443775_de7cc9415b_b.jpg" width="680" /></p>
 
 <p><em>Da P&aacute;gina do MST</em></p>
 
