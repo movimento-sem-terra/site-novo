@@ -43,7 +43,9 @@ releated_posts:
   - 2015/05/2015-05-20-sem-terra-vao-as-ruas-na-1o-marcha-baiana-contra-lgbtfobia.md
 
 ---
-<p><img alt="ed.jpg" height="432" src="http://farm1.staticflickr.com/523/19267241232_64a0ba7bee_b.jpg" width="650" /></p>
+<p><img alt="ed.jpg" height="399" src="http://farm1.staticflickr.com/523/19267241232_64a0ba7bee_b.jpg" width="600" /></p>
+
+<p>&nbsp;</p>
 
 <p><em>Por Hildebrando Silva de Andrade<br />
 Da P&aacute;gina do MST</em></p>
@@ -72,4 +74,4 @@ O grupo tamb&eacute;m discutiu os desafios para o p&uacute;blico LGBT no campo. 
 
 <p>&nbsp;</p>
 
-<p><img alt="DADQDX.jpg" height="432" src="http://farm1.staticflickr.com/448/18652662013_37ce2feef6_b.jpg" width="650" /></p>
+<p><img alt="DADQDX.jpg" height="399" src="http://farm1.staticflickr.com/448/18652662013_37ce2feef6_b.jpg" width="600" /></p>
