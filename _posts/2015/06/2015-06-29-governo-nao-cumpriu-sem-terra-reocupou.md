@@ -5,7 +5,7 @@ tags:
   - tag: agroecologia
   - tag: latifundio
   - tag: ocupação
-title: Governo não cumpriu... Sem-Terra reocupou...
+title: Governo não cumpriu... Sem Terra reocupou
 support_line: As terras ocupadas estão abandonadas. Apenas uma pequena parte está arrendada para produzir soja transgênica com utilização de venenos.
 menu: reforma agrária
 images_hd: "http://farm1.staticflickr.com/364/19266978375_a04ea03eba_b.jpg"
