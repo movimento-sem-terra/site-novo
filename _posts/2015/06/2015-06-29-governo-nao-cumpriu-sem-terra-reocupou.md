@@ -43,7 +43,7 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p><img alt="mst arti cris.jpg" src="http://farm1.staticflickr.com/364/19266978375_a04ea03eba_b.jpg" />O patrim&ocirc;nio declarado deste senador &eacute; de mais de 99 milh&otilde;es de reais, mas, na realidade, &eacute; pelo menos 10 vezes maior. As terras ocupadas est&atilde;o abandonadas. Apenas uma pequena parte est&aacute; arrendada para produzir soja transg&ecirc;nica com utiliza&ccedil;&atilde;o de venenos. &ldquo;Por que - indaga o Comit&ecirc; - o senador quer tanta terra se n&atilde;o planta um p&eacute; de alface?&rdquo;.</p>
+<p>O patrim&ocirc;nio declarado deste senador &eacute; de mais de 99 milh&otilde;es de reais, mas, na realidade, &eacute; pelo menos 10 vezes maior. As terras ocupadas est&atilde;o abandonadas. Apenas uma pequena parte est&aacute; arrendada para produzir soja transg&ecirc;nica com utiliza&ccedil;&atilde;o de venenos. &ldquo;Por que - indaga o Comit&ecirc; - o senador quer tanta terra se n&atilde;o planta um p&eacute; de alface?&rdquo;.</p>
 
 <p><br />
 O Comit&ecirc; pergunta: &ldquo;quem ocupa a &aacute;rea?&rdquo;. E responde: &ldquo;fam&iacute;lias da grande Goi&acirc;nia, de An&aacute;polis, do entorno do Distrito Federal, que, em 31 de agosto de 2014, ocuparam a &aacute;rea pela 1&ordf; vez e se organizaram no Acampamento Dom Tom&aacute;s Balduino, em homenagem a esse hist&oacute;rico defensor da Reforma Agr&aacute;ria e dos Movimentos Sociais Populares.</p>
