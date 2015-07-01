@@ -56,7 +56,7 @@ Para Leher, que tomar&aacute; posse nesta sexta-feira (3), os recentes processos
 No primeiro caso, ocorre uma invers&atilde;o de valores, em que o primordial n&atilde;o &eacute; mais a educa&ccedil;&atilde;o em si, mas a busca de lucros exorbitantes por meio de fundos de investimentos. No segundo, a defesa de um projeto de educa&ccedil;&atilde;o b&aacute;sica em que a classe dominante define forma e conte&uacute;do do processo formativo de crian&ccedil;as e jovens brasileiros.</p>
 
 <p><br />
-O movimento Todos Pela Educa&ccedil;&atilde;o &eacute; uma articula&ccedil;&atilde;o entre grandes grupos econ&ocirc;micos como bancos (Ita&uacute;), empreiteiras, setores do agroneg&oacute;cio e da minera&ccedil;&atilde;o (Vale) e os meios de comunica&ccedil;&atilde;o que procuram ditar os rumos da educa&ccedil;&atilde;o no Brasil.</p>
+O movimento <em>Todos Pela Educa&ccedil;&atilde;o</em> &eacute; uma articula&ccedil;&atilde;o entre grandes grupos econ&ocirc;micos como bancos (Ita&uacute;), empreiteiras, setores do agroneg&oacute;cio e da minera&ccedil;&atilde;o (Vale) e os meios de comunica&ccedil;&atilde;o que procuram ditar os rumos da educa&ccedil;&atilde;o no Brasil.</p>
 
 <p><br />
 Para o professor, o movimento se organiza numa esp&eacute;cie de Partido da classe dominante, ao pensarem um projeto de educa&ccedil;&atilde;o para o pa&iacute;s, organizarem fra&ccedil;&otilde;es de classe em torno desta proposta e criar estrat&eacute;gias de difus&atilde;o de seu projeto para a sociedade.</p>
@@ -101,7 +101,7 @@ No caso do Brasil, cinco fundos t&ecirc;m atualmente cerca de 40% das matr&iacut
 <strong>Quais os interesses dessas grandes corpora&ccedil;&otilde;es para al&eacute;m do econ&ocirc;mico?</strong></p>
 
 <p><br />
-A principal iniciativa dos setores dominantes na educa&ccedil;&atilde;o b&aacute;sica brasileira &eacute; uma coaliz&atilde;o de grupos econ&ocirc;micos chamado Todos pela Educa&ccedil;&atilde;o, organizado pelo setor financeiro, agroneg&oacute;cio, mineral, meios de comunica&ccedil;&atilde;o, que defendem um projeto de educa&ccedil;&atilde;o de classe, obviamente interpretando os anseios dos setores dominantes para o conjunto da sociedade brasileira.</p>
+A principal iniciativa dos setores dominantes na educa&ccedil;&atilde;o b&aacute;sica brasileira &eacute; uma coaliz&atilde;o de grupos econ&ocirc;micos chamado <em>Todos pela Educa&ccedil;&atilde;o</em>, organizado pelo setor financeiro, agroneg&oacute;cio, mineral, meios de comunica&ccedil;&atilde;o, que defendem um projeto de educa&ccedil;&atilde;o de classe, obviamente interpretando os anseios dos setores dominantes para o conjunto da sociedade brasileira.</p>
 
 <p><br />
 Em outras palavras, os setores dominantes se organizaram para definiram como as crian&ccedil;as e jovens brasileiros ser&atilde;o formados. E fazem isso como uma pol&iacute;tica de classe, atuam como classe que tem objetivos claros, um projeto, concep&ccedil;&otilde;es clara de forma&ccedil;&atilde;o, de modo a converter o conjunto das crian&ccedil;as e dos jovens em capital humano.</p>
@@ -118,10 +118,10 @@ A apar&ecirc;ncia &eacute; de que est&atilde;o preocupados com a alfabetiza&cced
 <strong>De que maneira eles interferem nas pol&iacute;ticas educacionais do Estado?</strong></p>
 
 <p><br />
-Como sociedade civil, os setores dominantes buscam interferir nas pol&iacute;ticas de Estado. O Todos pela Educa&ccedil;&atilde;o conseguiu difundir a sua proposta educativa para o Estado, inicialmente por meio do Plano Nacional de Educa&ccedil;&atilde;o (PNE) - que ali&aacute;s foi homenageado com o nome Plano de Metas Compromisso Todos pela Educa&ccedil;&atilde;o, em refer&ecirc;ncia ao movimento. Com isso definiram em grandes linhas o que seria o PNE que est&aacute; vigente.</p>
+Como sociedade civil, os setores dominantes buscam interferir nas pol&iacute;ticas de Estado. O <em>Todos pela Educa&ccedil;&atilde;o</em> conseguiu difundir a sua proposta educativa para o Estado, inicialmente por meio do Plano Nacional de Educa&ccedil;&atilde;o (PNE) - que ali&aacute;s foi homenageado com o nome Plano de Metas Compromisso Todos pela Educa&ccedil;&atilde;o, em refer&ecirc;ncia ao movimento. Com isso definiram em grandes linhas o que seria o PNE que est&aacute; vigente.</p>
 
 <p><br />
-Articulam por meio de leis, mas tamb&eacute;m da ades&atilde;o de secret&aacute;rios municipais e estaduais &agrave;s suas metas, aos seus objetivos. Articulam com o Estado, que cria programas, como o programa de a&ccedil;&otilde;es articuladas, em que a prefeitura, quando apresenta um projeto para o desenvolvimento da educa&ccedil;&atilde;o municipal, tem que implicitamente aderir &agrave;s metas do movimento Todos pela Educa&ccedil;&atilde;o.</p>
+Articulam por meio de leis, mas tamb&eacute;m da ades&atilde;o de secret&aacute;rios municipais e estaduais &agrave;s suas metas, aos seus objetivos. Articulam com o Estado, que cria programas, como o programa de a&ccedil;&otilde;es articuladas, em que a prefeitura, quando apresenta um projeto para o desenvolvimento da educa&ccedil;&atilde;o municipal, tem que implicitamente aderir &agrave;s metas do movimento <em>Todos pela Educa&ccedil;&atilde;o</em>.</p>
 
 <p><br />
 Temos um complexo muito sofisticado que interage as fra&ccedil;&otilde;es burguesas dominantes, as pol&iacute;ticas de Estado e os meios operativos do Estado para viabilizar esta agenda educacional.</p>
