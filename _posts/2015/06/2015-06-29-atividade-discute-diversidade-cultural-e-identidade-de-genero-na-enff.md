@@ -5,7 +5,7 @@ tags:
   - tag: ENFF
   - tag: diversidade-sexual
   - tag: identidade-de-gênero
-title: Atividade discute diversidade cultural e identidade de gênero na ENFF
+title: Atividade discute diversidade sexual e identidade de gênero na ENFF
 support_line: O Brasil é primeiro colocado no ranking mundial de mortes de LGBT
 menu: lutas e mobilizações
 images_hd: "http://farm4.staticflickr.com/3908/19087130939_78b36b1daf_b.jpg"
