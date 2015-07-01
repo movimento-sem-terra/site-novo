@@ -10,28 +10,27 @@ menu: lutas e mobilizações
 images_hd: "http://farm1.staticflickr.com/425/19138196948_72923e38c1_b.jpg"
 layout: post
 files:
-  - link: "http://farm1.staticflickr.com/329/19137693578_75c8efc9f2_b.jpg"
-    thumbnail: "http://farm1.staticflickr.com/329/19137693578_75c8efc9f2_t.jpg"
-    medium: "http://farm1.staticflickr.com/329/19137693578_75c8efc9f2_z.jpg"
-    small: "http://farm1.staticflickr.com/329/19137693578_75c8efc9f2_n.jpg"
-    title: deputado-joão-lyra.jpg
-    $$hashKey: 0AG
   - link: "http://farm1.staticflickr.com/425/19138196948_72923e38c1_b.jpg"
     thumbnail: "http://farm1.staticflickr.com/425/19138196948_72923e38c1_t.jpg"
     medium: "http://farm1.staticflickr.com/425/19138196948_72923e38c1_z.jpg"
     small: "http://farm1.staticflickr.com/425/19138196948_72923e38c1_n.jpg"
     title: mob_joão lyra.jpg
     $$hashKey: 05D
-  - link: "http://farm1.staticflickr.com/512/18703365704_fd15947d7a_b.jpg"
-    thumbnail: "http://farm1.staticflickr.com/512/18703365704_fd15947d7a_t.jpg"
-    medium: "http://farm1.staticflickr.com/512/18703365704_fd15947d7a_z.jpg"
-    small: "http://farm1.staticflickr.com/512/18703365704_fd15947d7a_n.jpg"
-    title: mobilização_lyra.jpg
-    $$hashKey: 05F
+  - link: "http://farm4.staticflickr.com/3845/19138585908_06f3054668_b.jpg"
+    thumbnail: "http://farm4.staticflickr.com/3845/19138585908_06f3054668_t.jpg"
+    medium: "http://farm4.staticflickr.com/3845/19138585908_06f3054668_z.jpg"
+    small: "http://farm4.staticflickr.com/3845/19138585908_06f3054668_n.jpg"
+    title: deputado-joão-lyra.jpg
+    $$hashKey: 05N
+  - link: "http://farm1.staticflickr.com/350/18705579473_7bda0c52ec_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/350/18705579473_7bda0c52ec_t.jpg"
+    medium: "http://farm1.staticflickr.com/350/18705579473_7bda0c52ec_z.jpg"
+    small: "http://farm1.staticflickr.com/350/18705579473_7bda0c52ec_n.jpg"
+    title: mob.jpg
+    $$hashKey: 05Q
 created_date: "2015-07-01T11:14:36-03:00"
 published: true
 releated_posts:
-  - 2015/05/2015-05-11-servidores-ocupam-incra-e-questionam-atrasos-e-debilidades-na-politica-do-orgao.md
   - 2015/02/2015-02-13-jovens-fortalecem-o-papel-da-juventude-na-luta-pela-reforma-agraria-popular.md
   - 2015/03/2015-03-09-mulheres-sem-terra-ocupam-a-superintendencia-do-ministerio-da-agricultura-em-alagoas.md
   - 2015/03/2015-03-10-em-alagoas-obras-do-canal-do-sertao-sao-paralisadas-pelos-trabalhadores-rurais.md
@@ -53,16 +52,16 @@ Os Sem Terra se concentram na Pra&ccedil;a dos Mart&iacute;rios, e seguem em mar
 <p><br />
 O ex-deputado teve sua fal&ecirc;ncia decretada h&aacute; 7 anos, devendo cerca de R$ 2,1 bilh&otilde;es a credores, governo federal e estadual e a ex-funcion&aacute;rios.</p>
 
-<p><br />
-Al&eacute;m do MST, o Movimento de Luta pela Terra (MLT), Movimento Terra, Trabalho e Liberdade (MTL), MUPT, Movimento Via do Trabalho (MVT) e Terra Livre participam da mobiliza&ccedil;&atilde;o.</p>
-
 <p>&nbsp;</p>
 
-<figure class="image" style="float:right"><img alt="mobilização_lyra.jpg" src="http://farm1.staticflickr.com/512/18703365704_fd15947d7a_b.jpg" />
-<figcaption></figcaption>
+<figure class="image" style="float:left"><img alt="deputado-joão-lyra.jpg" src="http://farm4.staticflickr.com/3845/19138585908_06f3054668_b.jpg" />
+<figcaption>Jo&atilde;o Lyra sofre 276 a&ccedil;&otilde;es judiciais, a maior parte como a&ccedil;&atilde;o trabalhista.</figcaption>
 </figure>
 
-<p>Os trabalhadores exigem que as &aacute;reas do grupo sejam destinadas para a cria&ccedil;&atilde;o de assentamentos &agrave;s fam&iacute;lias acampadas no estado.</p>
+<p>Al&eacute;m do MST, o Movimento de Luta pela Terra (MLT), Movimento Terra, Trabalho e Liberdade (MTL), MUPT, Movimento Via do Trabalho (MVT) e Terra Livre participam da mobiliza&ccedil;&atilde;o.</p>
+
+<p><br />
+Os trabalhadores exigem que as &aacute;reas do grupo sejam destinadas para a cria&ccedil;&atilde;o de assentamentos &agrave;s fam&iacute;lias acampadas no estado.</p>
 
 <p><br />
 O empres&aacute;rio, que j&aacute; foi considerado um dos deputados federais mais ricos do pa&iacute;s, comandava um conjunto de cinco usinas de cana-de-a&ccedil;&uacute;car em Alagoas e Minas Gerais. Atualmente, Jo&atilde;o Lyra conta com 276 a&ccedil;&otilde;es judiciais, a maior parte como a&ccedil;&atilde;o trabalhista.</p>
@@ -83,4 +82,9 @@ Al&eacute;m da d&iacute;vida financeira, os trabalhadores rurais destacam a d&ia
 Rafael Sim&atilde;o, do MTL, destacou que a desapropria&ccedil;&atilde;o dessas terras resolveria parte do problema da Reforma Agr&aacute;ria no estado.</p>
 
 <p><br />
-&ldquo;Essa &eacute; uma importante a&ccedil;&atilde;o pol&iacute;tica coletiva para a conquista destas terras, para produzir alimentos saud&aacute;veis e proporcionar uma vida digna para homens e mulheres&rdquo;, destacou Sim&atilde;o.</p>
+&ldquo;Essa &eacute; uma importante a&ccedil;&atilde;o pol&iacute;tica coletiva para a conquista destas terras, para produzir alimentos saud&aacute;veis e proporcionar uma vida digna para homens e mulheres&rdquo;, destacou Sim&atilde;o.<br />
+&nbsp;</p>
+
+<p><img alt="mob.jpg" src="http://farm1.staticflickr.com/350/18705579473_7bda0c52ec_b.jpg" /></p>
+
+<p>&nbsp;</p>
