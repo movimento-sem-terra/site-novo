@@ -22,6 +22,12 @@ files:
     small: "http://farm1.staticflickr.com/425/19138196948_72923e38c1_n.jpg"
     title: mob_joão lyra.jpg
     $$hashKey: 05D
+  - link: "http://farm1.staticflickr.com/512/18703365704_fd15947d7a_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/512/18703365704_fd15947d7a_t.jpg"
+    medium: "http://farm1.staticflickr.com/512/18703365704_fd15947d7a_z.jpg"
+    small: "http://farm1.staticflickr.com/512/18703365704_fd15947d7a_n.jpg"
+    title: mobilização_lyra.jpg
+    $$hashKey: 05F
 created_date: "2015-07-01T11:14:36-03:00"
 published: true
 releated_posts:
@@ -50,8 +56,13 @@ O ex-deputado teve sua fal&ecirc;ncia decretada h&aacute; 7 anos, devendo cerca 
 <p><br />
 Al&eacute;m do MST, o Movimento de Luta pela Terra (MLT), Movimento Terra, Trabalho e Liberdade (MTL), MUPT, Movimento Via do Trabalho (MVT) e Terra Livre participam da mobiliza&ccedil;&atilde;o.</p>
 
-<p><br />
-Os trabalhadores exigem que as &aacute;reas do grupo devem ser destinadas para a cria&ccedil;&atilde;o de assentamentos &agrave;s fam&iacute;lias acampadas no estado.</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="mobilização_lyra.jpg" src="http://farm1.staticflickr.com/512/18703365704_fd15947d7a_b.jpg" />
+<figcaption></figcaption>
+</figure>
+
+<p>Os trabalhadores exigem que as &aacute;reas do grupo devem ser destinadas para a cria&ccedil;&atilde;o de assentamentos &agrave;s fam&iacute;lias acampadas no estado.</p>
 
 <p><br />
 O empres&aacute;rio que j&aacute; foi considerado um dos deputados federais mais ricos do pa&iacute;s, comandava um conjunto de cinco usinas de cana-de-a&ccedil;&uacute;car em Alagoas e Minas Gerais.</p>
