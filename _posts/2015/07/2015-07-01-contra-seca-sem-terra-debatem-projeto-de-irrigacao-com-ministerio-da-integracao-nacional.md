@@ -18,8 +18,13 @@ files:
 created_date: "2015-07-01T15:07:30-03:00"
 published: true
 releated_posts:
-  - 2014/07/2014-07-17-familias-sem-terra-seguem-na-luta-por-area-grilada-em-abelardo-luz.md
-  - 2014/12/2014-11-05-contra-seca-e-pela-reforma-agraria-sem-terra-ocupam-incra-em-fortaleza.md
+  - 2015/06/2015-06-24-segunda-turma-de-agronomia-do-instituto-educar-foca-na-formacao-agroecologica.md
+  - 2015/06/2015-06-26-ministerios-se-comprometem-a-acelerar-reforma-agraria-e-agricultura-familiar-em-sp.md
+  - 2015/06/2015-06-26-encontro-em-luiziania-debate-os-desafios-da-saude-do-campo.md
+  - 2015/06/2015-06-29-governo-nao-cumpriu-sem-terra-reocupou.md
+  - 2015/06/2015-06-29-sem-terra-ocupam-fazenda-no-pa-e-denunciam-crime-ambiental.md
+  - 2014/02/2014-02-28-agronegocio-disputa-apoio-contra-seca-e-amplia-problemas-dos-camponeses.md
+  - 2014/12/2014-11-03-estamos-indo-direto-para-o-matadouro-diz-o-cientista-antonio-nobre.md
 
 ---
 <p><img alt="MST - INT (1).jpg" src="http://farm1.staticflickr.com/322/19330458755_cd4c117835_b.jpg" /><br />
