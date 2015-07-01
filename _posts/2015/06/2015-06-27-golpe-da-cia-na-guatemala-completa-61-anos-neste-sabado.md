@@ -5,9 +5,9 @@ tags:
   - tag: guatemala
   - tag: golpe-militar
   - tag: 50-anos-do-golpe-militar
-title: Golpe da CIA na Guatemala completa 61 anos neste sábado
+title: "Há 61 anos, Reforma Agrária foi motivo de golpe na Guatemala"
 images_hd: "http://farm4.staticflickr.com/3842/18581149493_729bd1efe3_b.jpg"
-support_line: "Entre 18 e 27 de junho, o país se viu devastado por bombardeios da força aérea norte americana e pelo pânico espalhado por mercenários nas comunidades favoráveis ao governo revolucionário, imolando e fuzilando anciãos e crianças."
+support_line: O país se viu devastado por bombardeios da força aérea norte americana e pelo pânico espalhado por mercenários nas comunidades favoráveis ao governo revolucionário.
 menu: solidariedade
 layout: post
 files:
@@ -24,7 +24,7 @@ releated_posts:
   - 2014/03/2014-03-24-ditadura-selou-alianca-entre-latifundio-e-burguesia-industrial-afirma-professora.md
   - 2014/03/2014-03-31-reforma-agraria-e-o-golpe-de-1964-imaginar-o-passado-para-projetar-o-futuro.md
   - 2014/04/2014-04-01-denis-de-moraes-reforma-agraria-foi-o-que-mais-preocupou-as-classes-dominantes.md
-section: cover
+section: featured-news
 
 ---
 <div style="text-align:center">
@@ -33,19 +33,19 @@ section: cover
 </figure>
 </div>
 
-<p><em>Por Iris Pacheco e Rafael Soriano</em></p>
+<p><em>Por Iris Pacheco e Rafael Soriano<br />
+Da P&aacute;gina do MST</em></p>
 
-<p><em>Da P&aacute;gina do MST</em><br />
-&nbsp;</p>
-
-<p>O dia 27 de junho&nbsp;&eacute; uma data marcante para todo continente latino-americano. Esta data marca a queda do presidente eleito da Guatemala, Jacobo Arb&eacute;nz, em 1954 sob golpe desferido desde o Departamento de Estado Norte-Americano.</p>
+<p><br />
+O dia 27 de junho&nbsp;&eacute; uma data marcante para todo continente latino-americano. Esta data marca a queda do presidente eleito da Guatemala, Jacobo Arb&eacute;nz, em 1954 sob golpe desferido desde o Departamento de Estado Norte-Americano.</p>
 
 <p><br />
 Ap&oacute;s forte campanha de propaganda, guerra econ&ocirc;mica e, finalmente, movimenta&ccedil;&atilde;o militar, com uso da for&ccedil;a a&eacute;rea estadunidense e incita&ccedil;&atilde;o &agrave; guerrilha mercen&aacute;ria, o governo que conduzia uma das mais intensas experi&ecirc;ncias de Reforma Agr&aacute;ria na Am&eacute;rica foi eliminado por Washington.</p>
 
 <p><br />
-Nas palavras proferidas pelo pr&oacute;prio Arb&eacute;nz&nbsp;em seu ato de ren&uacute;ncia: &ldquo;t&ecirc;m divulgado que &eacute; um combate ao comunismo. A verdade &eacute; bem outra: temos que busc&aacute;-la nos interesses financeiros da companhia frut&iacute;fera e dos outros monop&oacute;lios norte-americanos, que t&ecirc;m investido grandes capitais na Am&eacute;rica Latina e temem que o exemplo da Guatemala se espalhe aos pa&iacute;ses irm&atilde;os americanos&rdquo;.<br />
-<br />
+Nas palavras proferidas pelo pr&oacute;prio Arb&eacute;nz&nbsp;em seu ato de ren&uacute;ncia: &ldquo;t&ecirc;m divulgado que &eacute; um combate ao comunismo. A verdade &eacute; bem outra: temos que busc&aacute;-la nos interesses financeiros da companhia frut&iacute;fera e dos outros monop&oacute;lios norte-americanos, que t&ecirc;m investido grandes capitais na Am&eacute;rica Latina e temem que o exemplo da Guatemala se espalhe aos pa&iacute;ses irm&atilde;os americanos&rdquo;.</p>
+
+<p><br />
 &ldquo;N&oacute;s temos indignado ante os ataques dos aviadores mercen&aacute;rios norte-americanos, que, sabendo que a Guatemala n&atilde;o conta com uma for&ccedil;a a&eacute;rea adequada para enfrent&aacute;-los, tem tratado de espalhar o p&acirc;nico em todo o pa&iacute;s, bombardeando as for&ccedil;as armadas que combatem no oriente da rep&uacute;blica, impedindo suas opera&ccedil;&otilde;es&rdquo;, declarou o presidente deposto expondo o terrorismo de Estado a que o povo guatemalteco foi v&iacute;tima.</p>
 
 <p><br />
@@ -61,7 +61,7 @@ Com a ascens&atilde;o do professor Juan Jos&eacute; Ar&eacute;valo e, a seguir, 
 Segundo o pr&oacute;prio Arb&eacute;nz, a Reforma Agr&aacute;ria, regulamentada pelo Decreto 900 de 1952, tinha um car&aacute;ter de ampliar o n&uacute;mero de propriet&aacute;rios, um car&aacute;ter capitalista, com vis&atilde;o estrat&eacute;gica de possibilitar o surgimento da ind&uacute;stria naquele pa&iacute;s e fundar uma economia s&oacute;lida e independente.&nbsp;</p>
 
 <p><br />
-&ldquo;ARTIGO 1&ordm;. A Reforma Agr&aacute;ria da Revolu&ccedil;&atilde;o de outubro tem por objetivo liquidar a propriedade feudal no campo e as rela&ccedil;&otilde;es de produ&ccedil;&atilde;o que a originam para desenvolver a forma de explora&ccedil;&atilde;o e m&eacute;todos capitalistas de produ&ccedil;&atilde;o na agricultura e preparar o caminho para a industrializa&ccedil;&atilde;o da Guatemala&rdquo;, segundo o caput do Decreto.</p>
+<em>&ldquo;ARTIGO 1&ordm;. A Reforma Agr&aacute;ria da Revolu&ccedil;&atilde;o de outubro tem por objetivo liquidar a propriedade feudal no campo e as rela&ccedil;&otilde;es de produ&ccedil;&atilde;o que a originam para desenvolver a forma de explora&ccedil;&atilde;o e m&eacute;todos capitalistas de produ&ccedil;&atilde;o na agricultura e preparar o caminho para a industrializa&ccedil;&atilde;o da Guatemala&rdquo;</em>, segundo o caput do Decreto.</p>
 
 <p><br />
 Neste momento, a revolu&ccedil;&atilde;o ganha um novo car&aacute;ter e a distribui&ccedil;&atilde;o de milh&otilde;es de hectares de terra aos camponeses pobres criava um novo momento, de apoio popular no campo e na cidade. Este cen&aacute;rio incomodou as oligarquias locais e tamb&eacute;m o Gabinete de Washington, que se posiciona ent&atilde;o como fiel defensor do capital vinculado &agrave; United Fruit, empresa mais atingida no processo de expropria&ccedil;&atilde;o e redistribui&ccedil;&atilde;o de terras.</p>
