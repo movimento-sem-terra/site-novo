@@ -62,13 +62,13 @@ Al&eacute;m do MST, o Movimento de Luta pela Terra (MLT), Movimento Terra, Traba
 <figcaption></figcaption>
 </figure>
 
-<p>Os trabalhadores exigem que as &aacute;reas do grupo devem ser destinadas para a cria&ccedil;&atilde;o de assentamentos &agrave;s fam&iacute;lias acampadas no estado.</p>
+<p>Os trabalhadores exigem que as &aacute;reas do grupo sejam destinadas para a cria&ccedil;&atilde;o de assentamentos &agrave;s fam&iacute;lias acampadas no estado.</p>
 
 <p><br />
-O empres&aacute;rio que j&aacute; foi considerado um dos deputados federais mais ricos do pa&iacute;s, comandava um conjunto de cinco usinas de cana-de-a&ccedil;&uacute;car em Alagoas e Minas Gerais.</p>
+O empres&aacute;rio, que j&aacute; foi considerado um dos deputados federais mais ricos do pa&iacute;s, comandava um conjunto de cinco usinas de cana-de-a&ccedil;&uacute;car em Alagoas e Minas Gerais. Atualmente, Jo&atilde;o Lyra conta com 276 a&ccedil;&otilde;es judiciais, a maior parte como a&ccedil;&atilde;o trabalhista.</p>
 
 <p><br />
-Atualmente, Jo&atilde;o Lyra conta com 276 a&ccedil;&otilde;es judiciais, a maior parte como a&ccedil;&atilde;o trabalhista, em que os trabalhadores cobram indeniza&ccedil;&atilde;o.</p>
+<strong>Luta unificada</strong></p>
 
 <p><br />
 Cerca de 5 mil fam&iacute;lias est&atilde;o acampadas nas &aacute;reas das usinas Guaxuma, Uruba e Laginha. &ldquo;Unificamos nossas bandeiras para mais uma vez apontar a Reforma Agr&aacute;ria como alternativa de vida digna para quem vive no campo e na cidade&rdquo;, disse Jos&eacute; Roberto, do MST.</p>
