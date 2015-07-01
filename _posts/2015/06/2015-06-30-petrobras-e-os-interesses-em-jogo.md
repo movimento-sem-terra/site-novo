@@ -17,6 +17,12 @@ files:
     small: "http://farm1.staticflickr.com/298/19114861129_9fee3dcfe9_n.jpg"
     title: size_590_petrobras_copo_com_petrc3b3leo.jpg
     $$hashKey: 0SH
+  - link: "http://farm1.staticflickr.com/340/19138512880_7b1e320b9c_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/340/19138512880_7b1e320b9c_t.jpg"
+    medium: "http://farm1.staticflickr.com/340/19138512880_7b1e320b9c_z.jpg"
+    small: "http://farm1.staticflickr.com/340/19138512880_7b1e320b9c_n.jpg"
+    title: jose-serra-agencia-senado-marcos-olivera.jpg
+    $$hashKey: 06C
 created_date: "2015-06-30T14:25:13-03:00"
 published: true
 releated_posts:
@@ -25,14 +31,13 @@ releated_posts:
   - 2015/03/2015-03-16-na-bahia-mst-participa-do-dia-nacional-de-lutas-em-defesa-da-petrobras-e-pela-constituinte.md
 
 ---
-<p>&nbsp;</p>
+<p><img alt="jose-serra-agencia-senado-marcos-olivera.jpg" src="http://farm1.staticflickr.com/340/19138512880_7b1e320b9c_b.jpg" /></p>
 
 <p><em>Por Cibele Vieira*<br />
 Do Brasil de Fato</em></p>
 
-<p>&nbsp;</p>
-
-<p>Estamos assistindo uma disputa internacional que poder&aacute; alterar o eixo de poder mundial, hoje sustentado, principalmente, pelo controle financeiro e militar. Quando um pa&iacute;s sinaliza que aumentar&aacute; seu poder b&eacute;lico ou amea&ccedil;a comercializar petr&oacute;leo e g&aacute;s em uma moeda diferente do d&oacute;lar, sofre san&ccedil;&otilde;es/interven&ccedil;&otilde;es do EUA, como no caso do Iraque e, atualmente, da R&uacute;ssia. Vale lembrar que o petr&oacute;leo se tornou o lastro informal da moeda norte-americana ap&oacute;s a queda do padr&atilde;o ouro, os chamados petrod&oacute;lares.</p>
+<p><br />
+Estamos assistindo uma disputa internacional que poder&aacute; alterar o eixo de poder mundial, hoje sustentado, principalmente, pelo controle financeiro e militar. Quando um pa&iacute;s sinaliza que aumentar&aacute; seu poder b&eacute;lico ou amea&ccedil;a comercializar petr&oacute;leo e g&aacute;s em uma moeda diferente do d&oacute;lar, sofre san&ccedil;&otilde;es/interven&ccedil;&otilde;es do EUA, como no caso do Iraque e, atualmente, da R&uacute;ssia. Vale lembrar que o petr&oacute;leo se tornou o lastro informal da moeda norte-americana ap&oacute;s a queda do padr&atilde;o ouro, os chamados petrod&oacute;lares.</p>
 
 <p><br />
 O capitalismo entrou em uma das suas piores crises em 2008. E, em 2009, os pa&iacute;ses &ldquo;em desenvolvimento&rdquo; fizeram a primeira reuni&atilde;o do ent&atilde;o chamado BRIC (Brasil, R&uacute;ssia, &Iacute;ndia, China) e passaram a reivindicar maior participa&ccedil;&atilde;o nas decis&otilde;es mundiais.</p>
