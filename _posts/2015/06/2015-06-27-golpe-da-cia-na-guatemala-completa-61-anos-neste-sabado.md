@@ -17,6 +17,12 @@ files:
     small: "http://farm4.staticflickr.com/3842/18581149493_729bd1efe3_n.jpg"
     title: golpe_credito-_reproducao_da_web.jpg
     $$hashKey: 02J
+  - link: "http://farm1.staticflickr.com/439/19137456159_9b6966172e_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/439/19137456159_9b6966172e_t.jpg"
+    medium: "http://farm1.staticflickr.com/439/19137456159_9b6966172e_z.jpg"
+    small: "http://farm1.staticflickr.com/439/19137456159_9b6966172e_n.jpg"
+    title: mural_diego.jpg
+    $$hashKey: 05H
 created_date: "2015-06-27T09:12:12-03:00"
 published: true
 releated_posts:
@@ -48,6 +54,10 @@ Nas palavras proferidas pelo pr&oacute;prio Arb&eacute;nz&nbsp;em seu ato de ren
 <p><br />
 &ldquo;N&oacute;s temos indignado ante os ataques dos aviadores mercen&aacute;rios norte-americanos, que, sabendo que a Guatemala n&atilde;o conta com uma for&ccedil;a a&eacute;rea adequada para enfrent&aacute;-los, tem tratado de espalhar o p&acirc;nico em todo o pa&iacute;s, bombardeando as for&ccedil;as armadas que combatem no oriente da rep&uacute;blica, impedindo suas opera&ccedil;&otilde;es&rdquo;, declarou o presidente deposto expondo o terrorismo de Estado a que o povo guatemalteco foi v&iacute;tima.</p>
 
+<figure class="image"><img alt="mural_diego.jpg" src="http://farm1.staticflickr.com/439/19137456159_9b6966172e_b.jpg" />
+<figcaption>Mural &ldquo;La Gloriosa Vict&oacute;ria&rdquo;, de Diego Rivera, denuncia o golpe da CIA na Guatemala.</figcaption>
+</figure>
+
 <p><br />
 Do ex&iacute;lio na Cidade do M&eacute;xico, Arb&eacute;nz testemunhou a derrocada de uma revolu&ccedil;&atilde;o que come&ccedil;ara em 1944, da qual foi um dos protagonistas, junto com o ent&atilde;o eleito Juan Jos&eacute; Ar&eacute;valo. Este levante popular se iniciou no intuito de derrubar a ditadura do General Ubico e teve um car&aacute;ter prioritariamente urbano, com manifesta&ccedil;&otilde;es de estudantes, oper&aacute;rios e professores, sempre duramente reprimidas.&nbsp;</p>
 
@@ -61,9 +71,11 @@ Com a ascens&atilde;o do professor Juan Jos&eacute; Ar&eacute;valo e, a seguir, 
 Segundo o pr&oacute;prio Arb&eacute;nz, a Reforma Agr&aacute;ria, regulamentada pelo Decreto 900 de 1952, tinha um car&aacute;ter de ampliar o n&uacute;mero de propriet&aacute;rios, um car&aacute;ter capitalista, com vis&atilde;o estrat&eacute;gica de possibilitar o surgimento da ind&uacute;stria naquele pa&iacute;s e fundar uma economia s&oacute;lida e independente.&nbsp;</p>
 
 <p><br />
-<em>&ldquo;ARTIGO 1&ordm;. A Reforma Agr&aacute;ria da Revolu&ccedil;&atilde;o de outubro tem por objetivo liquidar a propriedade feudal no campo e as rela&ccedil;&otilde;es de produ&ccedil;&atilde;o que a originam para desenvolver a forma de explora&ccedil;&atilde;o e m&eacute;todos capitalistas de produ&ccedil;&atilde;o na agricultura e preparar o caminho para a industrializa&ccedil;&atilde;o da Guatemala&rdquo;</em>, segundo o caput do Decreto.</p>
+<em>&ldquo;ARTIGO 1&ordm;. A Reforma Agr&aacute;ria da Revolu&ccedil;&atilde;o de outubro tem por objetivo liquidar a propriedade feudal no campo e as rela&ccedil;&otilde;es de produ&ccedil;&atilde;o que a originam para desenvolver a forma de explora&ccedil;&atilde;o e m&eacute;todos capitalistas de produ&ccedil;&atilde;o na agricultura e preparar o caminho para a industrializa&ccedil;&atilde;o da Guatemala&rdquo;</em>, segundo o caput do Decreto.<br />
+&nbsp;</p>
 
-<p><br />
+<p><iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/rElVdJTFrok" width="640"></iframe><br />
+<br />
 Neste momento, a revolu&ccedil;&atilde;o ganha um novo car&aacute;ter e a distribui&ccedil;&atilde;o de milh&otilde;es de hectares de terra aos camponeses pobres criava um novo momento, de apoio popular no campo e na cidade. Este cen&aacute;rio incomodou as oligarquias locais e tamb&eacute;m o Gabinete de Washington, que se posiciona ent&atilde;o como fiel defensor do capital vinculado &agrave; United Fruit, empresa mais atingida no processo de expropria&ccedil;&atilde;o e redistribui&ccedil;&atilde;o de terras.</p>
 
 <p><br />
