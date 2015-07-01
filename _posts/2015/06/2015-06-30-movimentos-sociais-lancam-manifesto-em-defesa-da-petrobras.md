@@ -22,7 +22,7 @@ published: true
 releated_posts:
   - 2015/06/2015-06-16-seis-motivos-para-manter-a-petrobras-como-operadora-unica-na-area-do-pre-sal.md
   - 2015/03/2015-03-16-na-bahia-mst-participa-do-dia-nacional-de-lutas-em-defesa-da-petrobras-e-pela-constituinte.md
-section: cover
+section: null
 
 ---
 <p><img alt="1.jpg" src="http://farm4.staticflickr.com/3703/19302769741_b83d5846aa_b.jpg" /></p>
