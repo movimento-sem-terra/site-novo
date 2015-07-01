@@ -30,7 +30,7 @@ releated_posts:
   - 2015/02/2015-02-25-tv-alba-exibe-documentario-do-mst.md
   - 2014/12/2014-11-10-conheca-o-ameacador-acordo-bolivariano-firmado-entre-mst-e-venezuela.md
   - 2014/05/2014-05-15-atos-em-solidariedade-a-venezuela-denunciam-papel-da-imprensa.md-e
-section: featured-news
+section: null
 
 ---
 <p><img alt="ba9a98cff10cc50dab08b8eb0c2fdefb_XL.jpg" src="http://farm1.staticflickr.com/475/18871133629_b0c20d191e_b.jpg" /></p>
