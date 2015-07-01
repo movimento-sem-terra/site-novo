@@ -7,7 +7,7 @@ tags:
 title: Trabalhadores rurais exigem desapropriação de terras do Grupo João Lyra
 support_line: "Movimentos sociais do campo realizam ato em Alagoas. O ex-deputado teve sua falência decretada há 7 anos, devendo cerca de R$ 2,1 bilhões."
 menu: lutas e mobilizações
-images_hd: "http://farm1.staticflickr.com/329/19137693578_75c8efc9f2_b.jpg"
+images_hd: "http://farm1.staticflickr.com/425/19138196948_72923e38c1_b.jpg"
 layout: post
 files:
   - link: "http://farm1.staticflickr.com/329/19137693578_75c8efc9f2_b.jpg"
@@ -16,6 +16,12 @@ files:
     small: "http://farm1.staticflickr.com/329/19137693578_75c8efc9f2_n.jpg"
     title: deputado-joão-lyra.jpg
     $$hashKey: 0AG
+  - link: "http://farm1.staticflickr.com/425/19138196948_72923e38c1_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/425/19138196948_72923e38c1_t.jpg"
+    medium: "http://farm1.staticflickr.com/425/19138196948_72923e38c1_z.jpg"
+    small: "http://farm1.staticflickr.com/425/19138196948_72923e38c1_n.jpg"
+    title: mob_joão lyra.jpg
+    $$hashKey: 05D
 created_date: "2015-07-01T11:14:36-03:00"
 published: true
 releated_posts:
@@ -26,7 +32,7 @@ releated_posts:
   - 2015/06/2015-06-22-sem-terra-debatem-os-desafios-da-formacao-como-estrategia-da-reforma-agraria-popular.md
 
 ---
-<p><img alt="deputado-joão-lyra.jpg" src="http://farm1.staticflickr.com/329/19137693578_75c8efc9f2_b.jpg" /></p>
+<p><img alt="mob_joão lyra.jpg" src="http://farm1.staticflickr.com/425/19138196948_72923e38c1_b.jpg" /></p>
 
 <p><br />
 <em>Por Gustavo Marinho<br />
