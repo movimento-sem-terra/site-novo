@@ -6,7 +6,7 @@ tags:
   - tag: Eduardo-Cunha
   - tag: soberania-nacional
 title: Movimentos sociais lançam manifesto em defesa da Petrobrás
-support_line: "Texto afirma que mudanças no marco regulatório ferem a soberania nacional, enfraquecem o Estado brasileiro e prejudicam os interesses populares.\n"
+support_line: "Texto afirma que mudanças no marco regulatório ferem a soberania nacional, enfraquecem o Estado brasileiro e prejudicam os interesses populares."
 menu: lutas e mobilizações
 images_hd: "http://farm4.staticflickr.com/3703/19302769741_b83d5846aa_b.jpg"
 layout: post
@@ -25,13 +25,13 @@ releated_posts:
 section: cover
 
 ---
-<p>&nbsp;</p>
+<p><img alt="1.jpg" src="http://farm4.staticflickr.com/3703/19302769741_b83d5846aa_b.jpg" /></p>
 
-<p><em>Da P&aacute;gina do MST</em></p>
+<p><br />
+<em>Da P&aacute;gina do MST</em></p>
 
-<p>&nbsp;</p>
-
-<p>Movimentos sociais assinam manifesto que ser&aacute; enviado ao senadores que come&ccedil;am&nbsp;a discutir&nbsp;e votar o projeto que desobriga a Petrobras a ser a operadora &uacute;nica e ter participa&ccedil;&atilde;o m&iacute;nima de 30% na explora&ccedil;&atilde;o do pr&eacute;-sal.</p>
+<p><br />
+Movimentos sociais assinam manifesto que ser&aacute; enviado ao senadores que come&ccedil;am&nbsp;a discutir&nbsp;e votar o projeto que desobriga a Petrobras a ser a operadora &uacute;nica e ter participa&ccedil;&atilde;o m&iacute;nima de 30% na explora&ccedil;&atilde;o do pr&eacute;-sal.</p>
 
 <p><br />
 O objetivo &eacute; fazer com que&nbsp;&agrave; vota&ccedil;&atilde;o pelo plen&aacute;rio do Senado que ocorre esta semana, tramite por comiss&otilde;es tem&aacute;ticas ou por uma comiss&atilde;o especial que discuta o assunto.</p>
