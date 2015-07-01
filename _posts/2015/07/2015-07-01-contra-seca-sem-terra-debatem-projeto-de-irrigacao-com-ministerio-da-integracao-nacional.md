@@ -1,5 +1,5 @@
 ---
-date: "2015-07-01T15:03:53-03:00"
+date: "2015-07-01T08:03:53-03:00"
 tags:
   - tag: reforma-agrária
   - tag: seca
@@ -48,4 +48,4 @@ Alexandre Concei&ccedil;&atilde;o, da coordena&ccedil;&atilde;o nacional do MST,
 O Secret&aacute;rio de Desenvolvimento Regional, Irani Ramos, tamb&eacute;m presente na audi&ecirc;ncia, garantiu que uma das prioridades do governo &eacute; levar adiante o projeto, n&atilde;o s&oacute; no estado, mas em todo pa&iacute;s.</p>
 
 <p><br />
-<em>*Com informa&ccedil;&otilde;es da Assessora de Imprensa Deputado Federal Marcon (PT/RS).</em></p>
+<em>*Com informa&ccedil;&otilde;es da Assessoria de Imprensa Deputado Federal Marcon (PT/RS).</em></p>
