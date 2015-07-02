@@ -8,21 +8,21 @@ tags:
 title: Governo contraria a lei e libera agrotóxico mais nocivo à saúde
 support_line: "Contrariando a lei, a Anvisa aprovou a liberação de um agrotóxico mais nocivo à saúde do que outros já existentes no mercado. "
 menu: agronegócio
-images_hd: "http://farm1.staticflickr.com/411/19171339158_7b24d869ba_b.jpg"
+images_hd: "http://farm1.staticflickr.com/448/19172914699_4ea617fd3a_b.jpg"
 layout: post
 files:
-  - link: "http://farm1.staticflickr.com/317/18736378094_fe44a0c4b4_b.jpg"
-    thumbnail: "http://farm1.staticflickr.com/317/18736378094_fe44a0c4b4_t.jpg"
-    medium: "http://farm1.staticflickr.com/317/18736378094_fe44a0c4b4_z.jpg"
-    small: "http://farm1.staticflickr.com/317/18736378094_fe44a0c4b4_n.jpg"
-    title: images.jpg
-    $$hashKey: "076"
-  - link: "http://farm1.staticflickr.com/411/19171339158_7b24d869ba_b.jpg"
-    thumbnail: "http://farm1.staticflickr.com/411/19171339158_7b24d869ba_t.jpg"
-    medium: "http://farm1.staticflickr.com/411/19171339158_7b24d869ba_z.jpg"
-    small: "http://farm1.staticflickr.com/411/19171339158_7b24d869ba_n.jpg"
-    title: images.jpg
-    $$hashKey: 08J
+  - link: "http://farm4.staticflickr.com/3876/19172909859_724ee3648f_b.jpg"
+    thumbnail: "http://farm4.staticflickr.com/3876/19172909859_724ee3648f_t.jpg"
+    medium: "http://farm4.staticflickr.com/3876/19172909859_724ee3648f_z.jpg"
+    small: "http://farm4.staticflickr.com/3876/19172909859_724ee3648f_n.jpg"
+    title: ambiental.jpeg
+    $$hashKey: 0E1
+  - link: "http://farm1.staticflickr.com/448/19172914699_4ea617fd3a_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/448/19172914699_4ea617fd3a_t.jpg"
+    medium: "http://farm1.staticflickr.com/448/19172914699_4ea617fd3a_z.jpg"
+    small: "http://farm1.staticflickr.com/448/19172914699_4ea617fd3a_n.jpg"
+    title: ambiental.jpeg
+    $$hashKey: 0E4
 created_date: "2015-07-02T15:20:08-03:00"
 published: true
 releated_posts:
