@@ -13,18 +13,18 @@ section: null
 images_hd: "http://farm1.staticflickr.com/416/19328008106_354fddf5d9_b.jpg"
 layout: post
 files:
-  - link: "http://farm1.staticflickr.com/332/18733469803_b50c76cc1d_b.jpg"
-    thumbnail: "http://farm1.staticflickr.com/332/18733469803_b50c76cc1d_t.jpg"
-    medium: "http://farm1.staticflickr.com/332/18733469803_b50c76cc1d_z.jpg"
-    small: "http://farm1.staticflickr.com/332/18733469803_b50c76cc1d_n.jpg"
+  - link: "http://farm4.staticflickr.com/3931/19328117646_b560459ba9_b.jpg"
+    thumbnail: "http://farm4.staticflickr.com/3931/19328117646_b560459ba9_t.jpg"
+    medium: "http://farm4.staticflickr.com/3931/19328117646_b560459ba9_z.jpg"
+    small: "http://farm4.staticflickr.com/3931/19328117646_b560459ba9_n.jpg"
     title: 3840456807.jpg
-    $$hashKey: 0GT
-  - link: "http://farm1.staticflickr.com/416/19328008106_354fddf5d9_b.jpg"
-    thumbnail: "http://farm1.staticflickr.com/416/19328008106_354fddf5d9_t.jpg"
-    medium: "http://farm1.staticflickr.com/416/19328008106_354fddf5d9_z.jpg"
-    small: "http://farm1.staticflickr.com/416/19328008106_354fddf5d9_n.jpg"
-    title: 3840456807.jpg
-    $$hashKey: 0H2
+    $$hashKey: 0MD
+  - link: "http://farm1.staticflickr.com/471/19166756218_3234027031_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/471/19166756218_3234027031_t.jpg"
+    medium: "http://farm1.staticflickr.com/471/19166756218_3234027031_z.jpg"
+    small: "http://farm1.staticflickr.com/471/19166756218_3234027031_n.jpg"
+    title: 11ª-Jornada-Londrina-Crédito-Joka-Madruga.jpg
+    $$hashKey: 0MG
 created_date: "2015-07-02T11:37:42-03:00"
 published: true
 releated_posts:
@@ -40,12 +40,14 @@ releated_posts:
   - 2015/06/2015-06-06-producao-organica-reforma-agraria-preservacao-florestal-a-historia-do-sitio-a-boa-terra.md
 
 ---
-<p style="box-sizing: inherit; margin: 0px 0px 11px; font-size: 1.1em; color: rgb(85, 85, 85); font-family: 'Exo 2', Helvetica, Arial, sans-serif;">&nbsp;</p>
+<p style="text-align:center"><img alt="3840456807.jpg" src="http://farm4.staticflickr.com/3931/19328117646_b560459ba9_b.jpg" /></p>
+
+<p>&nbsp;</p>
 
 <p><em>Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
-Entre os dias 22 a 25 de junho, cerca de 4 mil pessoas, entre agricultores, estudantes, t&eacute;cnicos, pesquisadores e educadores de institui&ccedil;&otilde;es de assist&ecirc;ncia t&eacute;cnica, pesquisa e ensino, organiza&ccedil;&otilde;es n&atilde;o governamentais e movimentos sociais do campo e da cidade devem participar da 14&ordf; edi&ccedil;&atilde;o do evento.</p>
+Entre os dias 22 a 25 de julho, cerca de 4 mil pessoas, entre agricultores, estudantes, t&eacute;cnicos, pesquisadores e educadores de institui&ccedil;&otilde;es de assist&ecirc;ncia t&eacute;cnica, pesquisa e ensino, organiza&ccedil;&otilde;es n&atilde;o governamentais e movimentos sociais do campo e da cidade devem participar da 14&ordf; edi&ccedil;&atilde;o do evento.</p>
 
 <p><br />
 Al&eacute;m de ser um espa&ccedil;o de politizar o debate sobre a agroecologia, tamb&eacute;m ser&aacute; um momento de troca experi&ecirc;ncias e fortalecimento da constru&ccedil;&atilde;o de um projeto popular e soberano para a agricultura.</p>
