@@ -41,8 +41,9 @@ releated_posts:
 
 <p><em>Do Instituto Humanitas&nbsp;Unisinos</em></p>
 
-<p><br />
-A ag&ecirc;ncia justificou a libera&ccedil;&atilde;o como sendo um &quot;erro&quot;. Afirmou que o produto foi classificado como mais t&oacute;xico porque n&atilde;o conseguiu fazer os testes corretamente. Agora, mesmo sem parte dos exames, a Anvisa vai reclassificar o produto como menos nocivo, a fim de regulariz&aacute;-lo.</p>
+<p>&nbsp;</p>
+
+<p>A ag&ecirc;ncia justificou a libera&ccedil;&atilde;o como sendo um &quot;erro&quot;. Afirmou que o produto foi classificado como mais t&oacute;xico porque n&atilde;o conseguiu fazer os testes corretamente. Agora, mesmo sem parte dos exames, a Anvisa vai reclassificar o produto como menos nocivo, a fim de regulariz&aacute;-lo.</p>
 
 <p><br />
 Para que um defensivo agr&iacute;cola possa ser comercializado, &eacute; necess&aacute;rio aprova&ccedil;&atilde;o do Ibama (&oacute;rg&atilde;o ambiental), da Anvisa (sa&uacute;de) e do Minist&eacute;rio da Agricultura, que avalia a efic&aacute;cia agron&ocirc;mica e, por fim, emite o registro.</p>
