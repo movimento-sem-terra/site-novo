@@ -10,7 +10,7 @@ title: "Paraná será palco da 14° Jornada de Agroecologia "
 support_line: "Este ano, será a vez do município de Irati sediar um dos eventos mais relevantes sobre o tema. "
 menu: agricultura camponesa
 section: null
-images_hd: "http://farm1.staticflickr.com/416/19328008106_354fddf5d9_b.jpg"
+images_hd: "http://farm1.staticflickr.com/471/19166756218_3234027031_b.jpg"
 layout: post
 files:
   - link: "http://farm4.staticflickr.com/3931/19328117646_b560459ba9_b.jpg"
