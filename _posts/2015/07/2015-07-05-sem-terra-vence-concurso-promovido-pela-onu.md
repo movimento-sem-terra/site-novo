@@ -6,7 +6,7 @@ tags:
   - tag: reforma-agrária
   - tag: FAO
 title: Sem Terra vence concurso promovido pela ONU
-support_line: "A agricultura familiar serviu de inspiração para a jovem que concorreu com quatro mil participantes de toda América Latina "
+support_line: A agricultura familiar serviu de inspiração para a jovem que concorreu com quatro mil participantes de toda América Latina.
 menu: agricultura camponesa
 images_hd: "http://farm1.staticflickr.com/397/19411942346_fd89fa0534_b.jpg"
 layout: post
