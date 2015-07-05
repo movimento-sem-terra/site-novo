@@ -9,21 +9,15 @@ tags:
 title: Como começaram os latifúndios
 menu: agronegócio
 support_line: Livro fala sobre o universo rural brasileiro em sua relação com a história da propriedade e dos conflitos de terras no país.
-images_hd: "http://farm1.staticflickr.com/497/19233896188_b5e55c1aaf_b.jpg"
+images_hd: "http://farm4.staticflickr.com/3689/19395467976_748c6541a3_b.jpg"
 layout: post
 files:
-  - link: "http://farm1.staticflickr.com/449/18798887334_0a8aef5f01_b.jpg"
-    thumbnail: "http://farm1.staticflickr.com/449/18798887334_0a8aef5f01_t.jpg"
-    medium: "http://farm1.staticflickr.com/449/18798887334_0a8aef5f01_z.jpg"
-    small: "http://farm1.staticflickr.com/449/18798887334_0a8aef5f01_n.jpg"
-    title: images.jpg
-    $$hashKey: 0SX
-  - link: "http://farm1.staticflickr.com/497/19233896188_b5e55c1aaf_b.jpg"
-    thumbnail: "http://farm1.staticflickr.com/497/19233896188_b5e55c1aaf_t.jpg"
-    medium: "http://farm1.staticflickr.com/497/19233896188_b5e55c1aaf_z.jpg"
-    small: "http://farm1.staticflickr.com/497/19233896188_b5e55c1aaf_n.jpg"
-    title: images.jpg
-    $$hashKey: 0VC
+  - link: "http://farm4.staticflickr.com/3689/19395467976_748c6541a3_b.jpg"
+    thumbnail: "http://farm4.staticflickr.com/3689/19395467976_748c6541a3_t.jpg"
+    medium: "http://farm4.staticflickr.com/3689/19395467976_748c6541a3_z.jpg"
+    small: "http://farm4.staticflickr.com/3689/19395467976_748c6541a3_n.jpg"
+    title: latifc3bandio-charge-latuff.jpg
+    $$hashKey: 10R
 created_date: "2015-07-04T21:52:27-03:00"
 published: true
 releated_posts:
