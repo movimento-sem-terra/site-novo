@@ -8,7 +8,7 @@ tags:
   - tag: justiça-social
 menu: direitos humanos
 title: Papa Francisco se reúne com movimentos populares na Bolívia
-support_line: "A atividade, tem como eixos principais a questão da terra, da moradia e do trabalho."
+support_line: "A atividade tem como eixos principais a questão da terra, da moradia e do trabalho. O encontro acontece entre os dias 7 a 9/07, na Bolívia."
 section: featured-news
 images_hd: "http://farm4.staticflickr.com/3796/19272468215_ab95543045_b.jpg"
 layout: post
@@ -27,16 +27,23 @@ files:
     $$hashKey: 0XD
 created_date: "2015-06-29T15:13:25-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - 2014/12/2014-10-27-no-vaticano-movimentos-discutem-novo-modelo-de-desenvolvimento.md
+  - 2014/12/2014-10-29-a-reforma-agraria-e-alem-de-uma-necessidade-politica-uma-obrigacao-moral-disse-papa.md
+  - 2014/12/2014-10-30-ignacio-ramonet-o-dia-historico-em-que-o-papa-se-reuniu-com-os-movimentos.md
+  - 2014/12/2014-11-03-terra-teto-e-trabalho-uma-condenacao-expressa-do-sistema-capitalista.md
+  - 2015/03/2015-03-03-e-preciso-voltar-para-os-valores-originais-das-cooperativas-afirma-papa.md
 
 ---
 <p><img alt="Papa Francisco Mensagem de Ano Novo.jpg" height="481" src="http://farm1.staticflickr.com/510/19272443775_de7cc9415b_b.jpg" width="680" /></p>
 
-<p><em>Da P&aacute;gina do MST</em></p>
-
 <p>&nbsp;</p>
 
-<p>Depois de quase um ano do primeiro encontro do Papa Francisco com os movimentos populares, em Roma, as organiza&ccedil;&otilde;es sociais voltam a ser encontrar com o Pont&iacute;fice no pr&oacute;ximo dia 9 de julho, mas dessa vez em Santa Cruz da Serra, na Bol&iacute;via.</p>
+<p><br />
+<em>Da P&aacute;gina do MST</em></p>
+
+<p><br />
+Depois de quase um ano do primeiro encontro do Papa Francisco com os movimentos populares, em Roma, as organiza&ccedil;&otilde;es sociais voltam a ser encontrar com o Pont&iacute;fice no pr&oacute;ximo dia 9 de julho, mas dessa vez em Santa Cruz da Serra, na Bol&iacute;via.</p>
 
 <p><br />
 Mais de 1.500 delegados de diversos movimentos populares do mundo inteiro, junto a dezenas de bispos e agentes pastorais, participam de tr&ecirc;s dias de reuni&otilde;es, an&aacute;lises e debates sobre os problemas sociais e ambientais que eclodem no mundo inteiro.</p>
@@ -56,13 +63,11 @@ H&aacute; algumas semanas, Francisco tamb&eacute;m denunciou a grilagem de terra
 <p><br />
 No primeiro encontro com os movimentos populares, em outubro do ano passado, Francisco defendeu a Reforma Agr&aacute;ria e fez duras cr&iacute;ticas ao modelo do agroneg&oacute;cio, ao ressaltar que &quot;a reforma agr&aacute;ria &eacute;, al&eacute;m de uma necessidade pol&iacute;tica, uma obriga&ccedil;&atilde;o moral&quot;.</p>
 
-<p>&nbsp;</p>
+<p><br />
+<strong>Justi&ccedil;a social</strong></p>
 
-<p><strong>Justi&ccedil;a social</strong></p>
-
-<p>&nbsp;</p>
-
-<p>O encontro dos movimentos populares com o pont&iacute;fice acontece no dia 9 de julho, &agrave;s 17h30, quando os participantes dialogar&atilde;o com o Papa sobre a necessidade de transforma&ccedil;&otilde;es estruturais na sociedade, e que tenha os movimentos populares como protagonistas da luta por justi&ccedil;a social.</p>
+<p><br />
+O encontro dos movimentos populares com o pont&iacute;fice acontece no dia 9 de julho, &agrave;s 17h30, quando os participantes dialogar&atilde;o com o Papa sobre a necessidade de transforma&ccedil;&otilde;es estruturais na sociedade, e que tenha os movimentos populares como protagonistas da luta por justi&ccedil;a social.</p>
 
 <p><br />
 Ao final, os movimentos entregar&atilde;o ao Papa uma carta com os resultados do trabalho dos tr&ecirc;s dias de trabalho, e as medidas mais urgentes para que Francisco possa coloc&aacute;-las na Assembleia das Na&ccedil;&otilde;es Unidas de Nova Iorque e em outros foros internacionais.</p>
