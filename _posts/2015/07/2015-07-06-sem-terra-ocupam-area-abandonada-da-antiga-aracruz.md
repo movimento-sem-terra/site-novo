@@ -5,7 +5,7 @@ tags:
   - tag: reforma-agrária
   - tag: ocupação
   - tag: terras-improdutivas
-title: Sem Terra ocupam área abandonada da antiga Aracruz
+title: Sem Terra ocupam área abandonada em MG
 support_line: "Terras foram compradas com dinheiro público e estão sendo usadas ilegalmente pelos antigos donos. "
 menu: lutas e mobilizações
 images_hd: "http://farm1.staticflickr.com/318/19477101131_823b470ebc_b.jpg"
