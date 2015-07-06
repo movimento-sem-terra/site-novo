@@ -4,24 +4,24 @@ tags:
   - tag: formação-política
   - tag: Bahia
   - tag: educação-no-campo
-title: "Na Bahia, militantes debatem os atuais desafios enfrentados pela classe trabalhadora "
+title: "Na Bahia, militantes debatem os atuais desafios enfrentados pelos trabalhadores"
 support_line: "A luta pela terra e a participação da juventude nas lutas populares, foram alguns dos temas do encontro. "
 menu: lutas e mobilizações
-images_hd: "http://farm1.staticflickr.com/255/19479177591_5a8fc1c2f5_b.jpg"
+images_hd: "http://farm1.staticflickr.com/479/18852804794_1ba5dfe3ae_b.jpg"
 layout: post
 files:
-  - link: "http://farm1.staticflickr.com/255/19479177591_5a8fc1c2f5_b.jpg"
-    thumbnail: "http://farm1.staticflickr.com/255/19479177591_5a8fc1c2f5_t.jpg"
-    medium: "http://farm1.staticflickr.com/255/19479177591_5a8fc1c2f5_z.jpg"
-    small: "http://farm1.staticflickr.com/255/19479177591_5a8fc1c2f5_n.jpg"
-    title: 20150703_091542.jpg
-    $$hashKey: "148"
   - link: "http://farm4.staticflickr.com/3811/19288756159_7784e3144c_b.jpg"
     thumbnail: "http://farm4.staticflickr.com/3811/19288756159_7784e3144c_t.jpg"
     medium: "http://farm4.staticflickr.com/3811/19288756159_7784e3144c_z.jpg"
     small: "http://farm4.staticflickr.com/3811/19288756159_7784e3144c_n.jpg"
     title: 20150703_162357 (1).jpg
     $$hashKey: 14B
+  - link: "http://farm1.staticflickr.com/479/18852804794_1ba5dfe3ae_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/479/18852804794_1ba5dfe3ae_t.jpg"
+    medium: "http://farm1.staticflickr.com/479/18852804794_1ba5dfe3ae_z.jpg"
+    small: "http://farm1.staticflickr.com/479/18852804794_1ba5dfe3ae_n.jpg"
+    title: ba.jpg
+    $$hashKey: "063"
 created_date: "2015-07-06T16:51:13-03:00"
 published: true
 releated_posts:
@@ -32,7 +32,7 @@ releated_posts:
   - 2015/06/2015-06-18-marcelino-galo-guerra-quimica-na-bahia.md
 
 ---
-<p><img alt="20150703_162357 (1).jpg" src="http://farm4.staticflickr.com/3811/19288756159_7784e3144c_b.jpg" /></p>
+<p><img alt="ba.jpg" src="http://farm1.staticflickr.com/479/18852804794_1ba5dfe3ae_b.jpg" /></p>
 
 <p><br />
 <em>Por Wesley Lima<br />
