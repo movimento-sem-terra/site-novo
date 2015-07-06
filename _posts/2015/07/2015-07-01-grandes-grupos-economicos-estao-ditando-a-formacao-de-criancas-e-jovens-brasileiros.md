@@ -8,7 +8,7 @@ title: “Grandes grupos econômicos estão ditando a formação de crianças e 
 support_line: "Em entrevista exclusiva, novo reitor da UFRJ, Roberto Leher, aponta os impactos da lógica mercantilizada sobre a educação brasileira e aponta que como grupos financeiros tentam dominar a educação pública."
 images_hd: "http://farm1.staticflickr.com/558/19145797439_a346c3f502_b.jpg"
 menu: "educação, cultura e comunicação"
-section: cover
+section: featured-news
 sector: education
 layout: post
 files:
