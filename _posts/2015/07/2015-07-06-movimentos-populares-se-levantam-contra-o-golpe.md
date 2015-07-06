@@ -8,7 +8,7 @@ tags:
 title: Movimentos populares se levantam contra o golpe
 support_line: "\"Consideramos inaceitável e nos insurgimos contra as reiteradas tentativas de setores da oposição e do oligopólio da mídia para a interrupção da legalidade democrática\"."
 menu: direitos humanos
-section: cover
+section: null
 images_hd: "http://farm1.staticflickr.com/368/19461972082_fbee80cd7f_b.jpg"
 layout: post
 files:
