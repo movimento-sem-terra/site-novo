@@ -1,6 +1,10 @@
 ---
 date: "2015-07-06T12:00:29-03:00"
-tags: []
+tags:
+  - tag: democracia
+  - tag: movimentos-populares
+  - tag: contra-o-golpe
+  - tag: reforma-política
 title: Movimentos populares se levantam contra o golpe
 support_line: "\"Consideramos inaceitável e nos insurgimos contra as reiteradas tentativas de setores da oposição e do oligopólio da mídia para a interrupção da legalidade democrática\"."
 menu: direitos humanos
@@ -16,7 +20,11 @@ files:
     $$hashKey: 02Y
 created_date: "2015-07-06T12:05:44-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - 2015/06/2015-06-02-movimentos-sociais-denunciam-cunha-e-os-84-deputados-que-mudaram-seus-votos.md
+  - 2015/06/2015-06-29-papa-francisco-se-reune-com-movimentos-populares-na-bolivia.md
+  - 2015/06/2015-06-01-moroni-reforma-politica-do-eduardo-cunha-e-um-deboche-com-o-povo-brasileiro.md
+  - 2015/05/2015-05-28-a-lista-dos-deputados-que-aprovaram-a-doacao-empresarial-de-campanha.md
 
 ---
 <p><img alt="Ato-em-defesa-dos-direitos-dos-trabalhadores.jpg" src="http://farm1.staticflickr.com/368/19461972082_fbee80cd7f_b.jpg" /><br />
