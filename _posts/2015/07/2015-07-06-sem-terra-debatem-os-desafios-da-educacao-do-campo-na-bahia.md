@@ -11,30 +11,30 @@ support_line: "O encontro reuniu cerca de cem educadores que trabalham com educa
 images_hd: "http://farm4.staticflickr.com/3690/19468884155_64f38f77af_b.jpg"
 layout: post
 files:
-  - link: "http://farm4.staticflickr.com/3911/19468883785_a9d9c873f1_b.jpg"
-    thumbnail: "http://farm4.staticflickr.com/3911/19468883785_a9d9c873f1_t.jpg"
-    medium: "http://farm4.staticflickr.com/3911/19468883785_a9d9c873f1_z.jpg"
-    small: "http://farm4.staticflickr.com/3911/19468883785_a9d9c873f1_n.jpg"
-    title: 1.jpg
-    $$hashKey: 02U
-  - link: "http://farm1.staticflickr.com/295/18848273313_211cc53af1_b.jpg"
-    thumbnail: "http://farm1.staticflickr.com/295/18848273313_211cc53af1_t.jpg"
-    medium: "http://farm1.staticflickr.com/295/18848273313_211cc53af1_z.jpg"
-    small: "http://farm1.staticflickr.com/295/18848273313_211cc53af1_n.jpg"
-    title: 3.jpg
-    $$hashKey: 02X
-  - link: "http://farm1.staticflickr.com/493/18848273043_3ce5e13cf5_b.jpg"
-    thumbnail: "http://farm1.staticflickr.com/493/18848273043_3ce5e13cf5_t.jpg"
-    medium: "http://farm1.staticflickr.com/493/18848273043_3ce5e13cf5_z.jpg"
-    small: "http://farm1.staticflickr.com/493/18848273043_3ce5e13cf5_n.jpg"
-    title: 4.jpg
-    $$hashKey: "030"
   - link: "http://farm4.staticflickr.com/3690/19468884155_64f38f77af_b.jpg"
     thumbnail: "http://farm4.staticflickr.com/3690/19468884155_64f38f77af_t.jpg"
     medium: "http://farm4.staticflickr.com/3690/19468884155_64f38f77af_z.jpg"
     small: "http://farm4.staticflickr.com/3690/19468884155_64f38f77af_n.jpg"
     title: 2.jpg
     $$hashKey: "033"
+  - link: "http://farm1.staticflickr.com/551/19283409259_084d234e4a_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/551/19283409259_084d234e4a_t.jpg"
+    medium: "http://farm1.staticflickr.com/551/19283409259_084d234e4a_z.jpg"
+    small: "http://farm1.staticflickr.com/551/19283409259_084d234e4a_n.jpg"
+    title: 18848273313_211cc53af1_b.jpg
+    $$hashKey: 0K1
+  - link: "http://farm1.staticflickr.com/348/18848910153_28125622df_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/348/18848910153_28125622df_t.jpg"
+    medium: "http://farm1.staticflickr.com/348/18848910153_28125622df_z.jpg"
+    small: "http://farm1.staticflickr.com/348/18848910153_28125622df_n.jpg"
+    title: 19468883785_a9d9c873f1_b.jpg
+    $$hashKey: 0K4
+  - link: "http://farm4.staticflickr.com/3914/18848910113_3ba1e4acfe_b.jpg"
+    thumbnail: "http://farm4.staticflickr.com/3914/18848910113_3ba1e4acfe_t.jpg"
+    medium: "http://farm4.staticflickr.com/3914/18848910113_3ba1e4acfe_z.jpg"
+    small: "http://farm4.staticflickr.com/3914/18848910113_3ba1e4acfe_n.jpg"
+    title: 18848273043_3ce5e13cf5_b.jpg
+    $$hashKey: 0K7
 created_date: "2015-07-06T12:40:20-03:00"
 published: true
 releated_posts:
@@ -48,9 +48,9 @@ releated_posts:
   - 2015/06/2015-06-22-sem-terra-debatem-os-desafios-da-formacao-como-estrategia-da-reforma-agraria-popular.md
 
 ---
-<p><img alt="1.jpg" height="375" src="http://farm4.staticflickr.com/3911/19468883785_a9d9c873f1_b.jpg" width="500" /></p>
-
 <p>&nbsp;</p>
+
+<p><img alt="19468883785_a9d9c873f1_b.jpg" height="450" src="http://farm1.staticflickr.com/348/18848910153_28125622df_b.jpg" width="600" /></p>
 
 <p><em>Por Wesley Lima<br />
 Da P&aacute;gina do MST</em></p>
@@ -66,10 +66,6 @@ Com uma programa&ccedil;&atilde;o repleta de atividades m&iacute;sticas, cultura
 
 <p>&nbsp;</p>
 
-<figure class="image" style="float:left"><img alt="4.jpg" height="267" src="http://farm1.staticflickr.com/493/18848273043_3ce5e13cf5_b.jpg" width="200" />
-<figcaption></figcaption>
-</figure>
-
 <p>Al&eacute;m disso, debateram a trajet&oacute;ria da educa&ccedil;&atilde;o do campo na Bahia, e as diretrizes de prepara&ccedil;&atilde;o para o&nbsp;Encontro Nacional de Educadores e Educadoras da Reforma Agr&aacute;ria (ENERA), que acontecer&aacute; entre os dias 21 a 25 de setembro, em Bras&iacute;lia.</p>
 
 <p><br />
@@ -82,6 +78,10 @@ A coordena&ccedil;&atilde;o do evento acredita que os educadores ocupam um espa&
 &ldquo;Debater estes elementos s&atilde;o fundamentais para perceber o papel pol&iacute;tico que nossos educadores possuem na constru&ccedil;&atilde;o da identidade revolucion&aacute;ria e social dos estudantes&rdquo;, enfatiza a coordena&ccedil;&atilde;o.</p>
 
 <p>&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="18848273043_3ce5e13cf5_b.jpg" height="400" src="http://farm4.staticflickr.com/3914/18848910113_3ba1e4acfe_b.jpg" width="300" />
+<figcaption></figcaption>
+</figure>
 
 <p><strong>Principais Desafios</strong></p>
 
@@ -97,7 +97,7 @@ Ela aponta ainda outros grandes desafios, &ldquo;precisamos saber como pegar um 
 <p><br />
 &nbsp;</p>
 
-<figure class="image" style="float:right"><img alt="3.jpg" height="200" src="http://farm1.staticflickr.com/295/18848273313_211cc53af1_b.jpg" width="150" />
+<figure class="image" style="float:right"><img alt="18848273313_211cc53af1_b.jpg" height="267" src="http://farm1.staticflickr.com/551/19283409259_084d234e4a_b.jpg" width="200" />
 <figcaption></figcaption>
 </figure>
 
