@@ -9,7 +9,7 @@ tags:
 menu: direitos humanos
 title: Papa Francisco se reúne com movimentos populares na Bolívia
 support_line: "A atividade, tem como eixos principais a questão da terra, da moradia e do trabalho."
-section: null
+section: featured-news
 images_hd: "http://farm4.staticflickr.com/3796/19272468215_ab95543045_b.jpg"
 layout: post
 files:
