@@ -48,7 +48,7 @@ releated_posts:
   - 2015/06/2015-06-22-sem-terra-debatem-os-desafios-da-formacao-como-estrategia-da-reforma-agraria-popular.md
 
 ---
-<p><img alt="1.jpg" height="450" src="http://farm4.staticflickr.com/3911/19468883785_a9d9c873f1_b.jpg" width="600" /></p>
+<p><img alt="1.jpg" height="375" src="http://farm4.staticflickr.com/3911/19468883785_a9d9c873f1_b.jpg" width="500" /></p>
 
 <p>&nbsp;</p>
 
@@ -66,7 +66,7 @@ Com uma programa&ccedil;&atilde;o repleta de atividades m&iacute;sticas, cultura
 
 <p>&nbsp;</p>
 
-<figure class="image" style="float:left"><img alt="4.jpg" height="400" src="http://farm1.staticflickr.com/493/18848273043_3ce5e13cf5_b.jpg" width="300" />
+<figure class="image" style="float:left"><img alt="4.jpg" height="267" src="http://farm1.staticflickr.com/493/18848273043_3ce5e13cf5_b.jpg" width="200" />
 <figcaption></figcaption>
 </figure>
 
@@ -97,7 +97,7 @@ Ela aponta ainda outros grandes desafios, &ldquo;precisamos saber como pegar um 
 <p><br />
 &nbsp;</p>
 
-<figure class="image" style="float:right"><img alt="3.jpg" height="267" src="http://farm1.staticflickr.com/295/18848273313_211cc53af1_b.jpg" width="200" />
+<figure class="image" style="float:right"><img alt="3.jpg" height="200" src="http://farm1.staticflickr.com/295/18848273313_211cc53af1_b.jpg" width="150" />
 <figcaption></figcaption>
 </figure>
 
