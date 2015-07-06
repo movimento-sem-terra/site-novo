@@ -8,7 +8,7 @@ tags:
 title: Sem Terra ocupam área abandonada em Minas Gerais
 support_line: As terras foram compradas com dinheiro público e estão sendo usadas ilegalmente pelos antigos donos.
 menu: lutas e mobilizações
-images_hd: "http://farm1.staticflickr.com/318/19477101131_823b470ebc_b.jpg"
+images_hd: "http://farm1.staticflickr.com/478/18850282504_faba234d8e_b.jpg"
 layout: post
 files:
   - link: "http://farm1.staticflickr.com/318/19477101131_823b470ebc_b.jpg"
@@ -33,7 +33,7 @@ releated_posts:
   - 2015/07/2015-07-01-contra-seca-sem-terra-debatem-projeto-de-irrigacao-com-ministerio-da-integracao-nacional.md
 
 ---
-<p><img alt="MST 02.jpg" height="467" src="http://farm1.staticflickr.com/478/18850282504_faba234d8e_b.jpg" width="700" /></p>
+<p><img alt="MST 01.jpg" src="http://farm1.staticflickr.com/318/19477101131_823b470ebc_b.jpg" /></p>
 
 <p><br />
 <em>Da P&aacute;gina do MST&nbsp;</em></p>
@@ -57,4 +57,7 @@ Na regi&atilde;o, j&aacute; forma ocupadas cinco &aacute;reas improdutivas perte
 &ldquo;A nossa ideia &eacute; que a partir dos pr&oacute;ximos dias j&aacute; possamos come&ccedil;ar a produzir. Esse &eacute; um local que est&aacute; abandonado, al&eacute;m de ter sido comprado com dinheiro p&uacute;blico, est&aacute; sendo utilizado de forma ilegal pelos antigos propriet&aacute;rios&rdquo;, disse a Sem Terra.</p>
 
 <p><br />
-Atualmente cerca de 650 pessoas seguem acampadas &agrave; espera de terras na regi&atilde;o.</p>
+Atualmente cerca de 650 pessoas seguem acampadas &agrave; espera de terras na regi&atilde;o.<br />
+&nbsp;</p>
+
+<p><img alt="MST 02.jpg" src="http://farm1.staticflickr.com/478/18850282504_faba234d8e_b.jpg" /></p>
