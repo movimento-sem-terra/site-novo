@@ -3,10 +3,10 @@ date: "2015-07-07T15:09:07-03:00"
 tags:
   - tag: papa-francisco
   - tag: projeto-popular
-title: Encontro Mundial de Movimentos Populares começa na Bolívia
+title: Encontro Mundial de movimentos populares com Papa começa na Bolívia
 support_line: "1500 pessoas de 40 países discutem os eixos de diálogo com o Papa, que participa do evento na quinta (7)."
 menu: projeto popular
-images_hd: "http://farm1.staticflickr.com/559/19313607438_936958990a_b.jpg"
+images_hd: "http://farm1.staticflickr.com/467/19316605319_e6c6443dd1_b.jpg"
 layout: post
 files:
   - link: "http://farm1.staticflickr.com/552/19313601460_0973c3140d_b.jpg"
@@ -27,6 +27,18 @@ files:
     small: "http://farm4.staticflickr.com/3720/19494963242_43265ed8f5_n.jpg"
     title: 07-07-2015 Encontro Mundial dos Movimentos Populares - Bolivia- foto Lidyane Ponciano (1 de 23).jpg
     $$hashKey: 09I
+  - link: "http://farm1.staticflickr.com/467/19316605319_e6c6443dd1_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/467/19316605319_e6c6443dd1_t.jpg"
+    medium: "http://farm1.staticflickr.com/467/19316605319_e6c6443dd1_z.jpg"
+    small: "http://farm1.staticflickr.com/467/19316605319_e6c6443dd1_n.jpg"
+    title: 07-07-2015 Encontro Mundial dos Movimentos Populares - Bolivia- foto Lidyane Ponciano (11 de 46).jpg
+    $$hashKey: 04S
+  - link: "http://farm1.staticflickr.com/556/19507307881_5979f06783_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/556/19507307881_5979f06783_t.jpg"
+    medium: "http://farm1.staticflickr.com/556/19507307881_5979f06783_z.jpg"
+    small: "http://farm1.staticflickr.com/556/19507307881_5979f06783_n.jpg"
+    title: 07-07-2015 Encontro Mundial dos Movimentos Populares - Bolivia- foto Lidyane Ponciano (8 de 46).jpg
+    $$hashKey: 04V
 created_date: "2015-07-07T15:17:00-03:00"
 published: true
 releated_posts:
@@ -37,7 +49,7 @@ releated_posts:
   - 2014/12/2014-11-03-terra-teto-e-trabalho-uma-condenacao-expressa-do-sistema-capitalista.md
 
 ---
-<p><img alt="07-07-2015 Encontro Mundial dos Movimentos Populares - Bolivia- foto Lidyane Ponciano (7 de 23).jpg" src="http://farm1.staticflickr.com/559/19313607438_936958990a_b.jpg" /></p>
+<p><img alt="07-07-2015 Encontro Mundial dos Movimentos Populares - Bolivia- foto Lidyane Ponciano (11 de 46).jpg" src="http://farm1.staticflickr.com/467/19316605319_e6c6443dd1_b.jpg" /></p>
 
 <p><em>Por Joana Tavares<br />
 Especial de Santa Cruz de La Sierra, Bol&iacute;via</em></p>
@@ -78,7 +90,7 @@ Rodolgo Machaca, da Confedera&ccedil;&atilde;o Sindical &Uacute;nica de Trabalha
 O bispo da Diocese de Ays&eacute;n, no Chile, Luis Infanti della Moura, tamb&eacute;m criticou o imperialismo, lembrando que estamos todos chamados a lutar por um mundo melhor. &ldquo;O Papa nos chama a tomar consci&ecirc;ncia para romper e derrubar as estruturas que nos escravizam cada vez mais&rdquo;.<br />
 &nbsp;</p>
 
-<p><img alt="07-07-2015 Encontro Mundial dos Movimentos Populares - Bolivia- foto Lidyane Ponciano (14 de 23).jpg" src="http://farm1.staticflickr.com/552/19313601460_0973c3140d_b.jpg" /><br />
+<p><img alt="07-07-2015 Encontro Mundial dos Movimentos Populares - Bolivia- foto Lidyane Ponciano (8 de 46).jpg" src="http://farm1.staticflickr.com/556/19507307881_5979f06783_b.jpg" /><br />
 <br />
 <strong>Solidariedade internacional&nbsp;&nbsp; &nbsp;</strong></p>
 
@@ -90,3 +102,5 @@ Melike Yarar representa o movimento de mulheres curdas. Ela deu seu depoimento d
 
 <p><br />
 Entre 27 e 29 de outubro de 2014, o Papa recebeu no Vaticano dirigentes sociais dos cinco continentes, que representaram organiza&ccedil;&otilde;es de base principalmente de tr&ecirc;s setores -&nbsp; trabalhadores precarizados, camponeses sem terra e pessoas que vivem em moradias prec&aacute;rias &ndash; mas tamb&eacute;m sindicalistas, ativistas de direitos humanos e de pastorais sociais.</p>
+
+<p><img alt="07-07-2015 Encontro Mundial dos Movimentos Populares - Bolivia- foto Lidyane Ponciano (14 de 23).jpg" src="http://farm1.staticflickr.com/552/19313601460_0973c3140d_b.jpg" /></p>
