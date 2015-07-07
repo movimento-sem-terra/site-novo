@@ -29,7 +29,12 @@ files:
     $$hashKey: 09I
 created_date: "2015-07-07T15:17:00-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - 2014/12/2014-10-27-no-vaticano-movimentos-discutem-novo-modelo-de-desenvolvimento.md
+  - 2014/12/2014-10-29-a-reforma-agraria-e-alem-de-uma-necessidade-politica-uma-obrigacao-moral-disse-papa.md
+  - 2014/12/2014-10-30-ignacio-ramonet-o-dia-historico-em-que-o-papa-se-reuniu-com-os-movimentos.md
+  - 2015/03/2015-03-03-e-preciso-voltar-para-os-valores-originais-das-cooperativas-afirma-papa.md
+  - 2014/12/2014-11-03-terra-teto-e-trabalho-uma-condenacao-expressa-do-sistema-capitalista.md
 
 ---
 <p><img alt="07-07-2015 Encontro Mundial dos Movimentos Populares - Bolivia- foto Lidyane Ponciano (7 de 23).jpg" src="http://farm1.staticflickr.com/559/19313607438_936958990a_b.jpg" /></p>
