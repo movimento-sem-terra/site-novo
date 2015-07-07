@@ -17,7 +17,7 @@ files:
     title: uhHBRur.jpg
     $$hashKey: 059
 created_date: "2015-07-07T12:31:53-03:00"
-published: true
+published: false
 releated_posts:
   - 2014/12/2014-10-27-no-vaticano-movimentos-discutem-novo-modelo-de-desenvolvimento.md
   - 2014/12/2014-10-30-ignacio-ramonet-o-dia-historico-em-que-o-papa-se-reuniu-com-os-movimentos.md
