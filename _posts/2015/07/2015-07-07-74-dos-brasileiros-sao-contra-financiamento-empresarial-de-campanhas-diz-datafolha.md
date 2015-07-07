@@ -29,10 +29,10 @@ releated_posts:
 <p><br />
 <em>Da Revista F&oacute;rum</em></p>
 
-<p>&nbsp;
 <p><br />
 De acordo com pesquisa Datafolha encomendada pela Ordem dos Advogados do Brasil (OAB), 74% dos brasileiros s&atilde;o contra o financiamento empresarial de campanhas eleitorais. Apenas 16% s&atilde;o favor&aacute;veis a esse tipo de doa&ccedil;&atilde;o, e 10% n&atilde;o opinaram. As informa&ccedil;&otilde;es s&atilde;o da Folha de S. Paulo.</p>
-</p>
+
+<p>&nbsp;</p>
 
 <p><br />
 Entre os entrevistados, 79% entendem que a doa&ccedil;&atilde;o de empresas a candidatos e partidos estimula a corrup&ccedil;&atilde;o, 12% n&atilde;o apontam rela&ccedil;&atilde;o, 3% acham que isso ajuda a combater a corrup&ccedil;&atilde;o e 6% n&atilde;o t&ecirc;m opini&atilde;o formada sobre o assunto. O instituto ouviu 2.125 pessoas entre os dias 9 e 13 de junho, em 135 munic&iacute;pios de todas as regi&otilde;es do Brasil. A margem de erro &eacute; de 2 pontos percentuais para mais ou para menos.</p>
