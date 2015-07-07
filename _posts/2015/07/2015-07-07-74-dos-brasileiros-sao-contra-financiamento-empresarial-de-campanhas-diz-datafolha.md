@@ -3,7 +3,7 @@ date: "2015-07-07T15:04:28-03:00"
 tags:
   - tag: reforma-política
   - tag: financiamento-privado-de-campanha
-title: "74% dos brasileiros são contra financiamento empresarial de campanhas, diz Datafolha"
+title: "74% dos brasileiros são contra financiamento empresarial de campanhas"
 support_line: "Pesquisa encomendada pela OAB indica que, entre os entrevistados, 79% entendem que a doação de empresas a candidatos e partidos estimula a corrupção."
 menu: projeto popular
 images_hd: "http://farm1.staticflickr.com/267/19505545321_ac553a5209_b.jpg"
