@@ -5,7 +5,7 @@ tags:
   - tag: direitos-humanos
   - tag: violência
   - tag: despejo
-title: Pistoleiros espancam e despejam dezenas de famílias Sem Terra
+title: Pistoleiros espancam e despejam dezenas de famílias Sem Terra na Bahia
 support_line: "Entre as vítimas, havia uma criança de três anos. As famílias foram despejadas e ameaçadas de morte pelos pistoleiros."
 menu: direitos humanos
 images_hd: "http://farm1.staticflickr.com/379/19520914902_6283137644_b.jpg"
