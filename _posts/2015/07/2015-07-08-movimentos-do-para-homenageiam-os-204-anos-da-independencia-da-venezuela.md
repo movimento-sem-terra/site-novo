@@ -25,6 +25,7 @@ releated_posts:
 
 ---
 <p><img alt="nicolas-maduro-venezuela1.jpg" src="http://farm1.staticflickr.com/457/19504896286_7c754ffa21_b.jpg" /><br />
+<br />
 <em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
