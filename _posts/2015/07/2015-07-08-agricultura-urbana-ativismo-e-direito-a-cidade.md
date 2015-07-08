@@ -32,10 +32,8 @@ releated_posts:
 <em>Por Giulia Giacch&egrave;, Gustavo Nagib e Lya Porto*<br />
 Da Carta Maior</em></p>
 
-<p>&nbsp;
 <p><br />
 1973: o ano parecia de colapso mundial. A Guerra do Yom Kippur e a Crise do Petr&oacute;leo abalaram a economia global e impuseram a necessidade de reflex&atilde;o sobre o uso excessivo e a grande depend&ecirc;ncia planet&aacute;ria de uma fonte de energia n&atilde;o renov&aacute;vel e extremamente poluente.</p>
-</p>
 
 <p><br />
 Naquele mesmo ano, em Nova York, a artista e ativista Liz Christy resolveu reunir uma galera amiga para agir sobre um terreno abandonado do bairro de Lower East Side, que fora v&iacute;tima da fuga da classe m&eacute;dia para as periferias &ldquo;verdes&rdquo; e &ldquo;seguras&rdquo; onde o autom&oacute;vel chegaria facilmente. Liz e seus companheiros criaram um jardim comunit&aacute;rio. Assim nascia o movimento que ficaria conhecido como &ldquo;guerrilha verde&rdquo; (&ldquo;green guerrilla&rdquo;), cujas armas seriam ferramentas do bem: em vez de destrui&ccedil;&atilde;o, fortalecimento comunit&aacute;rio. Nada de explosivos, mas terra boa recheada com sementes de alimentos e flores, mudas saud&aacute;veis, abelhas sem ferr&atilde;o, integra&ccedil;&atilde;o social e uma solu&ccedil;&atilde;o real para a crise urbana.</p>
