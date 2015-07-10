@@ -7,7 +7,7 @@ tags:
   - tag: minas-gerais
   - tag: Fibria
   - tag: aracruz
-images_hd: "http://farm1.staticflickr.com/539/19557637976_32c5cc987b_b.jpg"
+images_hd: "http://farm1.staticflickr.com/493/19583808545_1c4772c393_b.jpg"
 title: "Após ocupar terras improdutivas, Sem Terra são ameaçados em MG"
 menu: reforma agrária
 support_line: A área estava abandonada no momento da ocupação e possui aproximadamente 420 alqueires.
@@ -39,6 +39,8 @@ releated_posts:
   - 2014/12/2014-11-21-organizacoes-internacionais-apoiam-mst-contra-massacre-de-felisburgo.md
 
 ---
+<p>&nbsp;</p>
+
 <p><em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
@@ -62,10 +64,6 @@ Na &uacute;ltima semana, em visita ao acampamento, o atual prefeito do munic&iac
 No entanto, o suposto propriet&aacute;rio disse n&atilde;o possuir nenhum documento relativo &agrave; propriedade do im&oacute;vel o que impossibilitaria a solicita&ccedil;&atilde;o de reintegra&ccedil;&atilde;o de posse.</p>
 
 <p>&nbsp;</p>
-
-<figure class="image" style="float:right"><img alt="20150710-0007.jpg" height="333" src="http://farm1.staticflickr.com/493/19583808545_1c4772c393_b.jpg" width="250" />
-<figcaption>Fogos de artif&iacute;cio usados para intimidar os Sem Terra</figcaption>
-</figure>
 
 <p>Desde ent&atilde;o, demonstrando clara disposi&ccedil;&atilde;o em cumprir com as amea&ccedil;as realizadas, o suposto propriet&aacute;rio solicitou a retirada de seus funcion&aacute;rios da propriedade, no mesmo dia, um avi&atilde;o de pequeno porte come&ccedil;ou a fazer voos rasantes e permanentes sobre o acampamento.&nbsp;</p>
 
