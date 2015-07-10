@@ -5,6 +5,7 @@ tags:
   - tag: demarcação-de-terras
   - tag: território-indigena
   - tag: APYKA´I
+  - tag: indios
 title: Deixem os Indígenas Guarani Kayowá viverem
 support_line: "Campanha contra a repressão sofrida pela comunidade indígena APYKA´I ganha redes sociais. "
 menu: direitos humanos
@@ -19,7 +20,9 @@ files:
     $$hashKey: 09L
 created_date: "2015-07-10T12:31:51-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - 2014/10/2014-10-03-mato-grosso-do-sul-onde-um-boi-vale-mais-que-uma-crianca-indigena.md
+  - 2014/10/2014-10-06-jaguncos-atacam-aldeia-kaiowa-de-kurusu-amba-no-mato-grosso-do-sul.md
 
 ---
 <p>&nbsp;</p>
