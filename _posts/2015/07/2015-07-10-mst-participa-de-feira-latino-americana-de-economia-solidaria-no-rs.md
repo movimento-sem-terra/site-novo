@@ -6,7 +6,7 @@ tags:
   - tag: feira-da-reforma-agrária
 title: MST participa de Feira Latino-americana de Economia Solidária no RS
 images_hd: "http://farm1.staticflickr.com/291/19585052581_c42afced73_b.jpg"
-support_line: "Evento faz parte do seminário nacional sobre “O Direito Humano de Alimentação Saudável”.\n"
+support_line: Durante o evento haverá exposição aberta ao público de produtos orgânicos e ecológicos da agricultura camponesa e familiar.
 menu: agricultura camponesa
 layout: post
 files:
@@ -33,23 +33,24 @@ releated_posts:
 <br style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8000001907349px; line-height: normal;" />
 &nbsp;</p>
 
-<p><span style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8000001907349px; line-height: normal;">Neste s&aacute;bado (11), a partir das 14h., acontece semin&aacute;rio nacional sobre &ldquo;O Direito Humano de Alimenta&ccedil;&atilde;o Saud&aacute;vel&rdquo;.</span></p>
+<p>Neste s&aacute;bado (11), a partir das 14h, o MST realiza o semin&aacute;rio nacional sobre &ldquo;O Direito Humano de Alimenta&ccedil;&atilde;o Saud&aacute;vel&rdquo;.</p>
 
 <p><br />
-<span style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8000001907349px; line-height: normal;">A atividade integra a programa&ccedil;&atilde;o da 11&ordf; Feira Latino Americana de Economia Solid&aacute;ria e 22&ordf; Feira Internacional do Cooperativismo e a Feira de Agricultura Familiar Camponesa, que acontece de 10 a 12 de julho de 2015, no Centro de Refer&ecirc;ncia de Economia Solid&aacute;ria Dom Ivo Lorscheiter, em Santa Maria (RS).</span></p>
-
-<p>&nbsp;</p>
-
-<p><span style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8000001907349px; line-height: normal;">Al&eacute;m de discutir os efeitos nocivos dos agrot&oacute;xicos na sa&uacute;de humana e a alternativa da agricultura agroecol&oacute;gica e camponesa na produ&ccedil;&atilde;o de alimentos saud&aacute;veis, o</span><span style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8000001907349px; line-height: normal;">&nbsp;semin&aacute;rio tamb&eacute;m contar&aacute; com debates sobre tr&ecirc;s projetos de lei, propostos pelo deputado estadual Edegar Pretto (PT), na Assembleia Legislativa do Rio Grande do Sul, que cobram a proibi&ccedil;&atilde;o do uso de agrot&oacute;xicos no estado.</span></p>
+A atividade integra a programa&ccedil;&atilde;o da 11&ordf; Feira Latino Americana de Economia Solid&aacute;ria e 22&ordf; Feira Internacional do Cooperativismo e Feira de Agricultura Familiar Camponesa, que acontece de 10 a 12 de julho de 2015, no Centro de Refer&ecirc;ncia de Economia Solid&aacute;ria Dom Ivo Lorscheiter, em Santa Maria (RS).</p>
 
 <p><br />
-<span style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8000001907349px; line-height: normal;">Durante o evento uma exposi&ccedil;&atilde;o de produtos org&acirc;nicos e ecol&oacute;gicos da agricultura camponesa e familiar, como carnes, hortigranjeiros, panifica&ccedil;&atilde;o, artesanatos, entre outros ser&aacute; aberta ao p&uacute;blico. </span></p>
+Al&eacute;m de discutir os efeitos nocivos dos agrot&oacute;xicos na sa&uacute;de humana e a alternativa da agricultura agroecol&oacute;gica camponesa na produ&ccedil;&atilde;o de alimentos saud&aacute;veis, o Semin&aacute;rio tamb&eacute;m contar&aacute; com debates sobre tr&ecirc;s projetos de lei, propostos pelo deputado estadual Edegar Pretto (PT), na Assembleia Legislativa do Rio Grande do Sul, que cobram a proibi&ccedil;&atilde;o do uso de agrot&oacute;xicos no estado.</p>
 
 <p><br />
-<span style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8000001907349px; line-height: normal;">Participam da exposi&ccedil;&atilde;o&nbsp;a Cooperativa dos Trabalhadores Assentados da Regi&atilde;o de Porto Alegre (Cootap), de Eldorado do Sul, e grupos de fam&iacute;lias assentadas da regi&atilde;o da Campanha, Serrana, Piratini, Miss&otilde;es e Livramento.</span></p>
+Durante o evento haver&aacute; exposi&ccedil;&atilde;o aberta ao p&uacute;blico&nbsp;de produtos org&acirc;nicos e ecol&oacute;gicos da agricultura camponesa e familiar, como carnes, hortigranjeiros, panifica&ccedil;&atilde;o, artesanatos, entre outros.</p>
 
 <p><br />
-<span style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8000001907349px; line-height: normal;">No mesmo local tamb&eacute;m ocorre o 11&ordm; Acampamento do Levante Popular da Juventude, que contar&aacute; com a participa&ccedil;&atilde;o da juventude trabalhadora e camponesa no debate de&nbsp;alternativas para a agricultura camponesa e familiar.</span><br style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8000001907349px; line-height: normal;" />
+Participam da exposi&ccedil;&atilde;o a Cooperativa dos Trabalhadores Assentados da Regi&atilde;o de Porto Alegre (Cootap), de Eldorado do Sul, e grupos de fam&iacute;lias assentadas da regi&atilde;o da Campanha, Serrana, Piratini, Miss&otilde;es e Livramento.</p>
+
+<p><br />
+No local tamb&eacute;m ocorre o 11&ordm; Acampamento do Levante Popular da Juventude, com a participa&ccedil;&atilde;o da juventude trabalhadora e camponesa para o debate de alternativas na produ&ccedil;&atilde;o de alimentos saud&aacute;veis.</p>
+
+<p><br style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8000001907349px; line-height: normal;" />
 <br style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8000001907349px; line-height: normal;" />
 <br style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8000001907349px; line-height: normal;" />
 <strong><span style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8000001907349px; line-height: normal;">Servi&ccedil;o:</span></strong></p>
