@@ -51,7 +51,7 @@ Os ocupantes dos ve&iacute;culos miraram fogos de artif&iacute;cio contra as bar
 
 <p>&nbsp;</p>
 
-<figure class="image" style="float:left"><img alt="CAM00014[1].jpg" height="300" src="http://farm1.staticflickr.com/539/19557637976_32c5cc987b_b.jpg" width="400" />
+<figure class="image" style="float:left"><img alt="CAM00014[1].jpg" height="225" src="http://farm1.staticflickr.com/539/19557637976_32c5cc987b_b.jpg" width="300" />
 <figcaption>Durante a fuga um dos tratores que acompanhava a a&ccedil;&atilde;o atolou e foi deixado para tr&aacute;s&nbsp;</figcaption>
 </figure>
 
