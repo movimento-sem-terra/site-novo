@@ -22,6 +22,7 @@ releated_posts:
   - 2014/12/2014-10-29-a-reforma-agraria-e-alem-de-uma-necessidade-politica-uma-obrigacao-moral-disse-papa.md
   - 2015/03/2015-03-03-e-preciso-voltar-para-os-valores-originais-das-cooperativas-afirma-papa.md
   - 2015/06/2015-06-29-papa-francisco-se-reune-com-movimentos-populares-na-bolivia.md
+section: cover
 
 ---
 <p>&nbsp;</p>
