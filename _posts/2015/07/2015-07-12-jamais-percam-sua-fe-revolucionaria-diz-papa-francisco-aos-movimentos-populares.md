@@ -1,6 +1,8 @@
 ---
 date: "2015-07-12T15:33:40-03:00"
-tags: []
+tags:
+  - tag: papa-francisco
+  - tag: movimentos-populares
 title: "“Jamais percam sua fé revolucionária”, diz Papa Francisco aos movimentos populares"
 images_hd: "http://farm1.staticflickr.com/298/19450944840_c21fc8cae3_b.jpg"
 section: cover
@@ -16,7 +18,14 @@ files:
     $$hashKey: 02J
 created_date: "2015-07-12T15:37:40-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - 2015/06/2015-06-29-papa-francisco-se-reune-com-movimentos-populares-na-bolivia.md
+  - 2015/07/2015-07-10-trabalho-e-destaque-no-segundo-dia-do-encontro-mundial-dos-movimentos-populares-na-bolivia.md
+  - 2014/12/2014-10-27-no-vaticano-movimentos-discutem-novo-modelo-de-desenvolvimento.md
+  - 2014/12/2014-10-29-a-reforma-agraria-e-alem-de-uma-necessidade-politica-uma-obrigacao-moral-disse-papa.md
+  - 2014/12/2014-10-30-ignacio-ramonet-o-dia-historico-em-que-o-papa-se-reuniu-com-os-movimentos.md
+  - 2014/12/2014-11-03-terra-teto-e-trabalho-uma-condenacao-expressa-do-sistema-capitalista.md
+  - 2015/03/2015-03-03-e-preciso-voltar-para-os-valores-originais-das-cooperativas-afirma-papa.md
 
 ---
 <figure class="image"><img alt="IMG_2022.JPG" src="http://farm1.staticflickr.com/298/19450944840_c21fc8cae3_b.jpg" />
