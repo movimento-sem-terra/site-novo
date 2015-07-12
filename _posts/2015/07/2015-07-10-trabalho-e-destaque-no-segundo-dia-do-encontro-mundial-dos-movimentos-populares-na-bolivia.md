@@ -4,7 +4,7 @@ tags:
   - tag: Papa-Francisco
   - tag: Bolívia
   - tag: movimentos-populares
-title: "Trabalhador é tema central no segundo dia de Encontro Mundial dos Movimentos Populares, na Bolívia"
+title: Trabalhador é tema central no segundo dia de Encontro Mundial dos Movimentos Populares
 support_line: "Representantes de mais de 40 debateram formas de reforçar os direitos e as conquistas da classe trabalhadora. "
 menu: direitos humanos
 images_hd: "http://farm4.staticflickr.com/3810/19579011145_274e5fa4b8_b.jpg"
@@ -22,7 +22,7 @@ releated_posts:
   - 2014/12/2014-10-29-a-reforma-agraria-e-alem-de-uma-necessidade-politica-uma-obrigacao-moral-disse-papa.md
   - 2015/03/2015-03-03-e-preciso-voltar-para-os-valores-originais-das-cooperativas-afirma-papa.md
   - 2015/06/2015-06-29-papa-francisco-se-reune-com-movimentos-populares-na-bolivia.md
-section: cover
+section: null
 
 ---
 <p>&nbsp;</p>
