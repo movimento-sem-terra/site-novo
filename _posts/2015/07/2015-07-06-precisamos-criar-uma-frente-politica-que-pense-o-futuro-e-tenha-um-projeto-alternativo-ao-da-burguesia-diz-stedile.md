@@ -7,7 +7,7 @@ tags:
 support_line: "Em entrevista, João Pedro Stedile, do MST, analisa o momento pelo qual passa a sociedade brasileira e aponta os desafios que os setores progressistas devem enfrentar."
 title: "“Precisamos criar uma frente política que pense o futuro e tenha um projeto alternativo ao da burguesia”, diz Stedile"
 menu: projeto popular
-section: cover
+section: featured-news
 images_hd: "http://farm1.staticflickr.com/290/19449737176_8a3cedb434_b.jpg"
 layout: post
 files:
