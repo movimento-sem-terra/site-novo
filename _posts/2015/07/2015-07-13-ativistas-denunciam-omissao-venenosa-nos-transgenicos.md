@@ -47,11 +47,11 @@ releated_posts: []
 Quando percebeu que as embalagens de amido de milho trazem um T preto dentro de um tri&acirc;ngulo amarelo &ndash; s&iacute;mbolo dos transg&ecirc;nicos usados no Brasil &ndash;, a professora de tecelagem C&eacute;lia Regina de Macedo, 63 anos, da capital paulista, n&atilde;o pensou duas vezes. Substituiu o produto por polvilho, derivado da mandioca, em muitas receitas, como de sequilhos. E segue experimentando novas op&ccedil;&otilde;es. Tofu, um queijo &agrave; base de soja, assim como o fub&aacute;, s&oacute; se for org&acirc;nico. &ldquo;N&atilde;o sei direito o que s&atilde;o esses transg&ecirc;nicos. Dizem que s&atilde;o plantas alteradas para resistir a pragas. Mas se foram modificadas, ser&aacute; que t&ecirc;m os nutrientes de que preciso? Minha certeza &eacute; que n&atilde;o quero consumir&rdquo;, afirma a artes&atilde;, que h&aacute; mais de 20 anos optou por alimentos livres de produtos qu&iacute;micos.Como ela, muitos brasileiros desconfiam desses organismos geneticamente modificados (OGM) &ndash; nome t&eacute;cnico dos transg&ecirc;nicos &ndash;, que no caso das plantas prometem maior produtividade e resist&ecirc;ncia a pragas. E fogem deles sempre que podem. No entanto, seu direito de escolha, assegurado pelo C&oacute;digo de Defesa do Consumidor, est&aacute; amea&ccedil;ado pelo Projeto de Lei 4.148/2008, do deputado federal Luis Carlos Heinze (PP-RS). Ex-prefeito de S&atilde;o Borja e produtor de arroz no estado, Heinze ficou mais famoso em 2013, durante audi&ecirc;ncia p&uacute;blica sobre a demarca&ccedil;&atilde;o de terras ind&iacute;genas, ao recomendar aos agricultores a contrata&ccedil;&atilde;o de mil&iacute;cias para se defender de &iacute;ndios. Ele tamb&eacute;m se referiu a &iacute;ndios, quilombolas e homossexuais como &ldquo;tudo que n&atilde;o presta&rdquo;.<br />
 &nbsp;</p>
 
-<p><br />
-O PL, que altera o artigo 40 da Lei de Biosseguran&ccedil;a (11.105/2005), desobriga a ind&uacute;stria de alimentos a informar, na embalagem, a presen&ccedil;a de componentes transg&ecirc;nicos quando for inferior a 1% na composi&ccedil;&atilde;o total do produto. Impopular, a proposta entrou e saiu da pauta v&aacute;rias vezes desde sua apresenta&ccedil;&atilde;o. Mas, como outras igualmente conservadoras, foi logo colocada na pauta pelo presidente da Casa, Eduardo Cunha (PMDB-RJ).</p>
+<p>O PL, que altera o artigo 40 da Lei de Biosseguran&ccedil;a (11.105/2005), desobriga a ind&uacute;stria de alimentos a informar, na embalagem, a presen&ccedil;a de componentes transg&ecirc;nicos quando for inferior a 1% na composi&ccedil;&atilde;o total do produto. Impopular, a proposta entrou e saiu da pauta v&aacute;rias vezes desde sua apresenta&ccedil;&atilde;o. Mas, como outras igualmente conservadoras, foi logo colocada na pauta pelo presidente da Casa, Eduardo Cunha (PMDB-RJ).</p>
 
 <p><br />
-Para surpresa de ativistas, foi aprovada em 28 de abril &ndash; at&eacute; deputados com hist&oacute;rico de defesa do consumidor, como Celso Russomano (PRB-SP) e o ambientalista Ricardo Tr&iacute;poli (PSDB-SP), se disseram surpreendidos pela vota&ccedil;&atilde;o-rel&acirc;mpago, embora tenham apertado o &ldquo;sim&rdquo; para modifica&ccedil;&atilde;o da lei de biosseguran&ccedil;a e para o direito dos fabricantes de excluir o T das embalagens.</p>
+Para surpresa de ativistas, foi aprovada em 28 de abril &ndash; at&eacute; deputados com hist&oacute;rico de defesa do consumidor, como Celso Russomano (PRB-SP) e o ambientalista Ricardo Tr&iacute;poli (PSDB-SP), se disseram surpreendidos pela vota&ccedil;&atilde;o-rel&acirc;mpago, embora tenham apertado o &ldquo;sim&rdquo; para modifica&ccedil;&atilde;o da lei de biosseguran&ccedil;a e para o direito dos fabricantes de excluir o T das embalagens.<br />
+&nbsp;</p>
 
 <figure class="image"><img alt="célia regina.jpg" src="http://farm4.staticflickr.com/3760/19477791289_d876f5eac5_b.jpg" />
 <figcaption>C&eacute;lia Regina questiona se plantas alteradas para resistir a pragas tem nutrientes de que precisaLegenda</figcaption>
@@ -72,8 +72,7 @@ O PL est&aacute; na Comiss&atilde;o de Assuntos Sociais do Senado, com relatoria
 <p>&nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="renata amaral.jpeg" src="http://farm1.staticflickr.com/348/19638245866_75062500d6_b.jpg" />
-<figcaption>escolha<br />
-Legenda</figcaption>
+<figcaption>Para Renata Amaral, sem a informa&ccedil;&atilde;o na embalagem n&atilde;o h&aacute; como se exercer o direito de escolhaLegenda</figcaption>
 </figure>
 
 <p>Apesar do atropelo na C&acirc;mara, os ativistas est&atilde;o esperan&ccedil;osos. N&atilde;o h&aacute; regime de urg&ecirc;ncia e os senadores, em n&uacute;mero menor que o de deputados, poder&atilde;o ser pressionados um a um &ndash; o que n&atilde;o dispensa a mobiliza&ccedil;&atilde;o social. &ldquo;Tudo pode acontecer, mas o fato &eacute; que a derrubada da rotulagem pela C&acirc;mara provocou uma repercuss&atilde;o muito negativa e mesmo muita gente que n&atilde;o acompanhava esse debate ficou indignada com a medida. Resta ver at&eacute; que ponto os senadores guardam alguma preocupa&ccedil;&atilde;o com a opini&atilde;o p&uacute;blica ou se seguem a pauta dos financiadores das campanhas, que parece ser o caso da maioria da C&acirc;mara&rdquo;, diz o agr&ocirc;nomo Gabriel Fernandes, assessor t&eacute;cnico da AS-PTA, associa&ccedil;&atilde;o n&atilde;o governamental sem fins lucrativos especializada em estudos e a&ccedil;&otilde;es que atua para o fortalecimento da agricultura familiar e da agroecologia no Brasil.</p>
@@ -108,11 +107,20 @@ Para a professora, enquanto houver incertezas cient&iacute;ficas em rela&ccedil;
 <p><br />
 A discuss&atilde;o sobre a rotulagem em si &eacute; outra face do atraso do pa&iacute;s nesse campo. Lavouras transg&ecirc;nicas est&atilde;o sendo limitadas na Alemanha e na Fran&ccedil;a, enquanto Irlanda, &Aacute;ustria, Hungria, Gr&eacute;cia, Bulg&aacute;ria e Luxemburgo as pro&iacute;bem &ndash; tornando-se entrave para as exporta&ccedil;&otilde;es brasileiras por causa da associa&ccedil;&atilde;o com agrot&oacute;xicos vetados em muitos pa&iacute;ses &ndash; por aqui ainda se debate o direito a informa&ccedil;&otilde;es sobre essas culturas.</p>
 
-<p>Arquivo Pessoal Vinicius Della Libera<br />
-&nbsp;&nbsp;&nbsp; O corpo sofre para digerir o alimento que foi alterado para resistir a um banho de veneno</p>
-
 <p><br />
 Embora seja muito dif&iacute;cil comprar um alimento livre de transg&ecirc;nicos em sua formula&ccedil;&atilde;o, a informa&ccedil;&atilde;o na embalagem &eacute; fundamental. &ldquo;&Eacute; crescente a popula&ccedil;&atilde;o que busca h&aacute;bitos mais saud&aacute;veis, naturais. Um mercado que n&atilde;o pode ser desprezado. Assim, esses produtos t&ecirc;m de estar dispon&iacute;veis a todos&rdquo;, diz o preparador corporal paulistano Vinicius Della L&iacute;bera, 31 anos, que tamb&eacute;m se dedica a escrever sobre longevidade em seu blog longevidade.voadora.com, no qual ensina, por exemplo, a fazer p&atilde;o com fermento caseiro, produzido com as bact&eacute;rias presentes na pr&oacute;pria farinha. &ldquo;Uma alimenta&ccedil;&atilde;o org&acirc;nica, que ajuda a limpar o organismo, &eacute; um dos caminhos para se viver mais. O corpo sofre para digerir aquele alimento alterado para resistir a um banho de veneno. N&atilde;o pode haver esse descaso com o consumidor.&rdquo;</p>
+
+<figure class="image"><img alt="embrapa.jpg" src="http://farm4.staticflickr.com/3759/19638312516_ef4250db80_b.jpg" />
+<figcaption contenteditable="true">Caminho sem volta? : O próprio governo, por meio de sua agência de pesquisa agropecuária, investe no desenvolvimento de transgênicos<br />
+<br />
+Legenda</figcaption>
+</figure>
+
+<figure class="image" data-widget="image">
+<figcaption>Caminho sem volta? : O pr&oacute;prio governo, por meio de sua ag&ecirc;ncia de pesquisa agropecu&aacute;ria, investe no desenvolvimento de transg&ecirc;nicos<br />
+<br />
+Legenda</figcaption>
+</figure>
 
 <p><br />
 <strong>Educa&ccedil;&atilde;o</strong></p>
@@ -122,9 +130,6 @@ A professora Marijane Vieira Lisboa, do Departamento de Sociologia da Pontif&iac
 
 <p><br />
 Na sua avalia&ccedil;&atilde;o, a aprova&ccedil;&atilde;o do PL na C&acirc;mara n&atilde;o deixa de ser &ldquo;um tiro no p&eacute;&rdquo; ao trazer &agrave; tona proposta t&atilde;o escandalosa, ensejando o debate. Ela pr&oacute;pria tem sido convidada para entrevistas, palestras e oficinas em diversas regi&otilde;es do pa&iacute;s&shy; para falar justamente sobre a rotulagem de alimentos com ingredientes transg&ecirc;nicos. &ldquo;&Eacute; preciso tamb&eacute;m um trabalho estruturado para enfrentar o ass&eacute;dio dos fabricantes de venenos e sementes geneticamente modificadas. J&aacute; descobrimos trabalhos de educa&ccedil;&atilde;o ambiental com kits distribu&iacute;dos em escolas, patrocinados pela Monsanto, com o objetivo de mascarar os perigos. Depois de toda a discuss&atilde;o e suposta defesa da sa&uacute;de e meio ambiente, o material dizia, l&aacute; no final, que os transg&ecirc;nicos s&atilde;o a melhor alternativa porque permitem a diminui&ccedil;&atilde;o do uso de agrot&oacute;xicos, quando na verdade leva ao aumento de seu uso, em doses cada vez maiores, de suas vers&otilde;es cada vez mais fortes&rdquo;, conta. &ldquo;Al&eacute;m disso, a popula&ccedil;&atilde;o tem de se manifestar.&rdquo;</p>
-
-<p>Breno Lobato / Embrapa Embrapa<br />
-&nbsp;&nbsp;&nbsp; Caminho sem volta? : O pr&oacute;prio governo, por meio de sua ag&ecirc;ncia de pesquisa agropecu&aacute;ria, investe no desenvolvimento de transg&ecirc;nicos</p>
 
 <p><br />
 Tal retrocesso, por&eacute;m, n&atilde;o combina com pol&iacute;ticas brasileiras exitosas. &Eacute; o caso do combate ao tabagismo, reconhecido internacionalmente, que inclui embalagens nada atrativas. &ldquo;Assim, n&atilde;o se pode esperar a consuma&ccedil;&atilde;o dos perigos da dupla transg&ecirc;nicos e agrot&oacute;xicos &agrave; sa&uacute;de de todos para s&oacute; ent&atilde;o tornar os r&oacute;tulos mais informativos&rdquo;, observa Andr&eacute; Dallagnol, assessor da organiza&ccedil;&atilde;o Terra de Direitos.</p>
