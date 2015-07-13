@@ -7,7 +7,7 @@ tags:
 title: "Em Sergipe, Sem Terra debatem os desafios da organização política"
 support_line: "A 6° edição Escola Estadual de Formação tem como objetivo central fazer com que novos militantes possam compreender a luta da classe trabalhadora. "
 menu: "educação, cultura e comunicação"
-images_hd: "http://farm1.staticflickr.com/420/19044096153_48d5420d8b_b.jpg"
+images_hd: "http://farm1.staticflickr.com/386/19477970870_91d70a6e2b_b.jpg"
 layout: post
 files:
   - link: "http://farm1.staticflickr.com/420/19044096153_48d5420d8b_b.jpg"
