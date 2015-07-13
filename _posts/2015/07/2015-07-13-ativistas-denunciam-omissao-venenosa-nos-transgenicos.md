@@ -36,6 +36,7 @@ published: true
 releated_posts: []
 
 ---
+
 <figure class="image"><img alt="veneno_48%.jpg" src="http://farm4.staticflickr.com/3760/19043471203_5afec1dfa9_b.jpg" />
 <figcaption>Segundo o Inca, o aumento do uso de agrot&oacute;xicos tem tudo a ver com a libera&ccedil;&atilde;o de sementes transg&ecirc;nicas</figcaption>
 </figure>
