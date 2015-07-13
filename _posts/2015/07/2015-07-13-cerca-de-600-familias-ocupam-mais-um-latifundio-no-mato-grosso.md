@@ -9,7 +9,7 @@ title: "Cerca de 600 famílias ocupam mais um latifúndio no Mato Grosso\n"
 support_line: "Os mais de 2.186 hectares pertencem ao Grupo Agropecuária Vale Rico Ltda. Segundo os Sem Terra, a área apresenta irregularidades de títulos e diversos problemas ambientais."
 menu: lutas e mobilizações
 sector: mass-front
-images_hd: "http://farm1.staticflickr.com/271/19471727630_c4c754c050_b.jpg"
+images_hd: "http://farm1.staticflickr.com/460/19476927898_0c9d3849a9_b.jpg"
 layout: post
 files:
   - link: "http://farm1.staticflickr.com/271/19471727630_c4c754c050_b.jpg"
@@ -18,6 +18,12 @@ files:
     small: "http://farm1.staticflickr.com/271/19471727630_c4c754c050_n.jpg"
     title: sem-terra-sem-corte_0.gif
     $$hashKey: 02J
+  - link: "http://farm1.staticflickr.com/460/19476927898_0c9d3849a9_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/460/19476927898_0c9d3849a9_t.jpg"
+    medium: "http://farm1.staticflickr.com/460/19476927898_0c9d3849a9_z.jpg"
+    small: "http://farm1.staticflickr.com/460/19476927898_0c9d3849a9_n.jpg"
+    title: IMG-20150713-WA0000.jpg
+    $$hashKey: 05R
 created_date: "2015-07-13T07:59:39-03:00"
 published: true
 releated_posts:
@@ -28,9 +34,10 @@ releated_posts:
   - 2015/07/2015-07-06-sem-terra-ocupam-area-abandonada-da-antiga-aracruz.md
 
 ---
-<p><img alt="sem-terra-sem-corte_0.gif" src="http://farm1.staticflickr.com/271/19471727630_c4c754c050_b.jpg" /></p>
+<p><img alt="IMG-20150713-WA0000.jpg" src="http://farm1.staticflickr.com/460/19476927898_0c9d3849a9_b.jpg" /></p>
 
-<p><em>Da P&aacute;gina do MST</em></p>
+<p><br />
+<em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
 Cerca de 600 fam&iacute;lias Sem Terra ocuparam na manh&atilde; dessa segunda-feira (13) a Fazenda Nossa Senhora Aparecida, no munic&iacute;pio de Jaciara, em Mato Grosso (a 144 km de Cuiab&aacute;).</p>
