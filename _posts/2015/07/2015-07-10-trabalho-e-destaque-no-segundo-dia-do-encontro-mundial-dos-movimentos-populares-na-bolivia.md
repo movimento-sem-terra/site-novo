@@ -4,7 +4,7 @@ tags:
   - tag: Papa-Francisco
   - tag: Bolívia
   - tag: movimentos-populares
-title: Trabalhador é tema central no segundo dia de Encontro Mundial dos Movimentos Populares
+title: Trabalhado é tema central no segundo dia de Encontro Mundial dos Movimentos Populares
 support_line: "Representantes de mais de 40 debateram formas de reforçar os direitos e as conquistas da classe trabalhadora. "
 menu: direitos humanos
 images_hd: "http://farm4.staticflickr.com/3810/19579011145_274e5fa4b8_b.jpg"
