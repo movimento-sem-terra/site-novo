@@ -16,25 +16,29 @@ files:
     small: "http://farm1.staticflickr.com/420/19044096153_48d5420d8b_n.jpg"
     title: DSCN8250.jpg
     $$hashKey: 080
+  - link: "http://farm1.staticflickr.com/386/19477970870_91d70a6e2b_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/386/19477970870_91d70a6e2b_t.jpg"
+    medium: "http://farm1.staticflickr.com/386/19477970870_91d70a6e2b_z.jpg"
+    small: "http://farm1.staticflickr.com/386/19477970870_91d70a6e2b_n.jpg"
+    title: sergipe.jpg
+    $$hashKey: "057"
 created_date: "2015-07-13T12:30:42-03:00"
 published: true
 releated_posts:
-  - 2014/04/2014-04-10-sem-terra-celebram-11-anos-de-luta-e-resistencia-no-sertao-de-sergipe.md-e
-  - 2014/03/2014-03-28-amigos-do-mst-realizam-encontro-em-defesa-da-reforma-agraria-popular.md
-  - 2014/03/2014-03-28-amigos-do-mst-realizam-encontro-em-defesa-da-reforma-agraria-popular.md-e
-  - 2014/04/2014-04-10-sem-terra-celebram-11-anos-de-luta-e-resistencia-no-sertao-de-sergipe.md
-  - 2015/04/2015-04-28-curso-popular-mobiliza-juventude-baiana-em-defesa-da-transformacao-social.md
   - 2015/06/2015-06-08-no-ano-da-batalha-das-ideias-sem-terra-intensificam-a-formacao-politica.md
+  - 2015/07/2015-07-06-na-bahia-militantes-debatem-os-atuais-desafios-enfrentados-pela-classe-trabalhadora.md
+  - 2015/07/2015-07-03-na-bahia-sem-terra-debatem-ferramentas-de-luta-da-classe-contra-o-agronegocio.md
+  - 2015/07/2015-07-05-sem-terra-vence-concurso-promovido-pela-onu.md
+  - 2015/02/2015-02-15-jovens-se-formam-na-2o-turma-de-gestao-em-agroindustria.md
 
 ---
-<p>&nbsp;</p>
+<p><img alt="sergipe.jpg" src="http://farm1.staticflickr.com/386/19477970870_91d70a6e2b_b.jpg" /></p>
 
 <p><em>Por Luiz M&aacute;rio de Santana Santos<br />
 Da P&aacute;gina do MST</em></p>
 
-<p>&nbsp;</p>
-
-<p>Come&ccedil;ou no &uacute;ltimo dia (9) mais uma etapa da Escola Estadual de Forma&ccedil;&atilde;o do MST, no assentamento Moacir Wanderley na regi&atilde;o metropolitana de Sergipe.</p>
+<p><br />
+Come&ccedil;ou no &uacute;ltimo dia (9) mais uma etapa da Escola Estadual de Forma&ccedil;&atilde;o do MST, no assentamento Moacir Wanderley na regi&atilde;o metropolitana de Sergipe.</p>
 
 <p><br />
 O curso, que vai at&eacute; o dia (23), conta com a participa&ccedil;&atilde;o de Sem Terra&nbsp;de toda a regi&atilde;o do estado e faz parte do calend&aacute;rio de forma&ccedil;&atilde;o proposto para o ano de 2015.</p>
