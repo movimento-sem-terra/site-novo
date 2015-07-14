@@ -36,6 +36,7 @@ releated_posts:
   - 2015/06/2015-06-08-educadores-da-reforma-agraria-realizam-encontro-em-preparacao-ao-2-enera.md
   - 2015/06/2015-06-23-crise-na-educacao-transforma-salas-de-aulas-em-escolas-de-latao.md
   - 2015/06/2015-06-03-sem-terrinha-cultivam-3-mil-mudas-e-ajudam-a-reflorestar-assentamento.md
+label: interviews
 
 ---
 <p><img alt="roberto-leher1.jpg" src="http://farm1.staticflickr.com/558/19145797439_a346c3f502_b.jpg" /></p>
