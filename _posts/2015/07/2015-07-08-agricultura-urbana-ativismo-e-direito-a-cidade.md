@@ -24,6 +24,7 @@ releated_posts:
   - 2015/06/2015-06-03-sem-terrinha-cultivam-3-mil-mudas-e-ajudam-a-reflorestar-assentamento.md
   - 2015/06/2015-06-06-producao-organica-reforma-agraria-preservacao-florestal-a-historia-do-sitio-a-boa-terra.md
   - 2015/04/2015-04-29-no-campo-pl-da-terceirizacao-ira-consolidar-uma-situacao-que-beira-o-insustentavel.md
+label: articles
 
 ---
 <p><img alt="horta.png" src="http://farm1.staticflickr.com/341/19334277928_0545ee64e1_b.jpg" /></p>
