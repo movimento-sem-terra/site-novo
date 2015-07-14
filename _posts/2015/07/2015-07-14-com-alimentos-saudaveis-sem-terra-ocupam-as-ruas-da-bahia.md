@@ -1,11 +1,11 @@
 ---
-date: "2015-07-14T15:07:00-03:00"
+date: "2015-07-14T08:07:00-03:00"
 tags:
   - tag: feira-da-reforma-agrária
   - tag: agroecologia
   - tag: Bahia
   - tag: reforma-agrária
-images_hd: "http://farm1.staticflickr.com/333/19669125796_37b27abb28_b.jpg"
+images_hd: "http://farm1.staticflickr.com/422/19508485789_2a55996e10_b.jpg"
 menu: agricultura camponesa
 title: "Com alimentos saudáveis, Sem Terra ocupam as ruas da Bahia "
 support_line: "A atividade é parte da campanha permanente “Extremo Sul pela vida: agrotóxico zero!”."
@@ -42,9 +42,7 @@ releated_posts:
   - 2014/12/2014-11-04-no-reconcavo-sem-terra-debatem-o-processo-de-transicao-agroecologica.md
 
 ---
-<figure class="image"><img alt="20150713151820.jpg" height="375" src="http://farm1.staticflickr.com/422/19508485789_2a55996e10_b.jpg" width="500" />
-<figcaption>Bolos, p&atilde;es e biscoitos fabricados assentados&nbsp;</figcaption>
-</figure>
+<p><img alt="20150713151646(1).png" src="http://farm4.staticflickr.com/3721/19668912816_69c95d7196_b.jpg" /></p>
 
 <p>&nbsp;</p>
 
