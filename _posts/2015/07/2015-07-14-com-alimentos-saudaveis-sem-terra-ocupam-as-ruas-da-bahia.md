@@ -5,18 +5,12 @@ tags:
   - tag: agroecologia
   - tag: Bahia
   - tag: reforma-agrária
-images_hd: "http://farm1.staticflickr.com/294/19507110060_a0fd424954_b.jpg"
+images_hd: "http://farm1.staticflickr.com/333/19669125796_37b27abb28_b.jpg"
 menu: agricultura camponesa
 title: "Com alimentos saudáveis, Sem Terra ocupam as ruas da Bahia "
 support_line: "A atividade é parte da campanha permanente “Extremo Sul pela vida: agrotóxico zero!”."
 layout: post
 files:
-  - link: "http://farm1.staticflickr.com/294/19507110060_a0fd424954_b.jpg"
-    thumbnail: "http://farm1.staticflickr.com/294/19507110060_a0fd424954_t.jpg"
-    medium: "http://farm1.staticflickr.com/294/19507110060_a0fd424954_z.jpg"
-    small: "http://farm1.staticflickr.com/294/19507110060_a0fd424954_n.jpg"
-    title: IMG_7762.jpg
-    $$hashKey: 02J
   - link: "http://farm1.staticflickr.com/422/19508485789_2a55996e10_b.jpg"
     thumbnail: "http://farm1.staticflickr.com/422/19508485789_2a55996e10_t.jpg"
     medium: "http://farm1.staticflickr.com/422/19508485789_2a55996e10_z.jpg"
@@ -29,6 +23,12 @@ files:
     small: "http://farm4.staticflickr.com/3721/19668912816_69c95d7196_n.jpg"
     title: 20150713151646(1).png
     $$hashKey: "036"
+  - link: "http://farm1.staticflickr.com/333/19669125796_37b27abb28_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/333/19669125796_37b27abb28_t.jpg"
+    medium: "http://farm1.staticflickr.com/333/19669125796_37b27abb28_z.jpg"
+    small: "http://farm1.staticflickr.com/333/19669125796_37b27abb28_n.jpg"
+    title: 1.jpg
+    $$hashKey: 0J0
 created_date: "2015-07-14T15:16:07-03:00"
 published: true
 releated_posts:
