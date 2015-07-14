@@ -4,7 +4,7 @@ tags:
   - tag: papa-francisco
   - tag: movimentos-populares
   - tag: reforma-agrária
-title: Carta de Santa Cruz defende reforma agrária integral e produção de alimentos saudáveis
+title: Carta de Santa Cruz defende reforma agrária e produção de alimentos saudáveis
 support_line: "Documento entregue ao Papa Francisco foi elaborado no 2º Encontro Mundial de Movimentos Populares, na Bolívia."
 images_hd: "http://farm4.staticflickr.com/3694/19505353398_95e27f2802_b.jpg"
 menu: direitos humanos
