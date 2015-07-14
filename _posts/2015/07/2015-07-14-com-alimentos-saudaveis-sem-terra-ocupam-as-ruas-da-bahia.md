@@ -42,7 +42,7 @@ releated_posts:
   - 2014/12/2014-11-04-no-reconcavo-sem-terra-debatem-o-processo-de-transicao-agroecologica.md
 
 ---
-<figure class="image"><img alt="20150713151820.jpg" height="450" src="http://farm1.staticflickr.com/422/19508485789_2a55996e10_b.jpg" width="600" />
+<figure class="image"><img alt="20150713151820.jpg" height="375" src="http://farm1.staticflickr.com/422/19508485789_2a55996e10_b.jpg" width="500" />
 <figcaption>Bolos, p&atilde;es e biscoitos fabricados assentados&nbsp;</figcaption>
 </figure>
 
@@ -72,7 +72,7 @@ De acordo com o trabalhador Edilson dos Santos, da coordena&ccedil;&atilde;o da 
 
 <p>&nbsp;</p>
 
-<figure class="image"><img alt="20150713151646(1).png" height="450" src="http://farm4.staticflickr.com/3721/19668912816_69c95d7196_b.jpg" width="600" />
+<figure class="image"><img alt="20150713151646(1).png" height="375" src="http://farm4.staticflickr.com/3721/19668912816_69c95d7196_b.jpg" width="500" />
 <figcaption>Artesanatos que viraram fontes de rendas para os moradores da regi&atilde;o&nbsp;</figcaption>
 </figure>
 
