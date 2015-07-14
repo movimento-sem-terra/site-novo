@@ -5,7 +5,7 @@ tags:
   - tag: movimentos-populares
 title: "“Jamais percam sua fé revolucionária”, diz Papa Francisco aos movimentos populares"
 images_hd: "http://farm1.staticflickr.com/298/19450944840_c21fc8cae3_b.jpg"
-section: cover
+section: featured-news
 menu: projeto popular
 support_line: "Líder da Igreja Católica esteve reunido com militantes de 40 países, no 2º Encontro Mundial dos Movimentos Populares, em Santa Cruz de La Sierra, na Bolívia."
 layout: post
