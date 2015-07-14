@@ -55,7 +55,7 @@ Essa conscientiza&ccedil;&atilde;o da jovem consumidora &eacute; fruto de um tra
 <p>&nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="Fotos Leandro Molina.JPG" src="http://farm1.staticflickr.com/520/19067197253_d2cc42f694_b.jpg" />
-<figcaption>Foto: Lenadro MolinaLegenda</figcaption>
+<figcaption>Foto: Lenadro Molina</figcaption>
 </figure>
 
 <p>Foram comercializados dezenas de alimentos <em>in natura</em> e agroindustrializados dos assentamentos de Reforma Agr&aacute;ria do Rio Grande do Sul.</p>
@@ -98,7 +98,7 @@ De acordo com Irm&atilde; Lurdes, as feiras s&atilde;o resultados de uma caminha
 <p>&nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="Foto Leonardo Melgarejo.jpg" src="http://farm1.staticflickr.com/318/19500140830_8936736973_b.jpg" />
-<figcaption>Foto: Leonardo Melgarejo.Legenda</figcaption>
+<figcaption>Foto: Leonardo Melgarejo</figcaption>
 </figure>
 
 <p><strong>M&iacute;stica</strong></p>
