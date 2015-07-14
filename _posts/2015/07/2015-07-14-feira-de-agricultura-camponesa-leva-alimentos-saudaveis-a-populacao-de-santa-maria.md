@@ -60,8 +60,13 @@ Essa conscientiza&ccedil;&atilde;o da jovem consumidora &eacute; fruto de um tra
 
 <p>Foram comercializados dezenas de alimentos <em>in natura</em> e agroindustrializados dos assentamentos de Reforma Agr&aacute;ria do Rio Grande do Sul.</p>
 
-<p><br />
-Andressa Fioresi, tamb&eacute;m de 26 anos, exp&ocirc;s, entre outros alimentos, salame, torresmo, banha, morcilha e costelinha defumada, todos produzidos na Agroind&uacute;stria de Embutidos Fioresi, de Santa Rosa. Para ela, a feira &eacute; uma oportunidade de divulgar e valorizar os seus produtos, al&eacute;m de ajudar na gera&ccedil;&atilde;o de renda da fam&iacute;lia.</p>
+<p>participaram da feira grupos de fam&iacute;lias da Cooperativa de Produ&ccedil;&atilde;o Agropecu&aacute;ria de Nova Santa Rita (Coopan), Cooperativa Missioneira de Agricultores e Artes&atilde;os de S&atilde;o Nicolau (Coopermissioneira), Cooperativa Regional da Reforma Agr&aacute;ria M&atilde;e Terra (Cooperterra), Rede de Sementes Agroecol&oacute;gicas Bionatur e Agroind&uacute;stria Familiar de Embutidos Fiorese; oriundos de sete regi&otilde;es com assentamentos no estado: Serrana, Miss&otilde;es, Livramento, Porto Alegre, S&atilde;o Gabriel, Tupaciret&atilde; e Hulha Negra.</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>. Para ela, a feira &eacute; uma oportunidade de divulgar e valorizar os seus produtos, al&eacute;m de ajudar na gera&ccedil;&atilde;o de renda da fam&iacute;lia.</p>
 
 <p><br />
 &ldquo;A agroind&uacute;stria melhorou nossa vida e a feira tamb&eacute;m contribui para isso. Meu sonho &eacute; ter condi&ccedil;&otilde;es de dar uma vida melhor aos meus dois filhos, que eles possam ir &agrave; faculdade, mas que n&atilde;o precisem sair do campo, que continuem investindo na produ&ccedil;&atilde;o da agricultura familiar&rdquo;, afirmou Andressa.</p>
