@@ -49,7 +49,7 @@ Ao longo da tarde desta ter&ccedil;a-feira (14), dois avi&otilde;es atacaram o a
 Segundo o relato dos Sem Terra, durante uma hora os avi&otilde;es deram rasantes sobre o acampamento e soltaram roj&otilde;es sobre as fam&iacute;lias acampadas. Um dos avi&otilde;es acabou caindo numa &aacute;rea pr&oacute;xima ao acampamento. Ainda n&atilde;o se sabe os motivos reais da queda. Uma das pessoas que estava na aeronave era o prefeito do munic&iacute;pio Central de Minas, Genil Mata da Cruz, que tamb&eacute;m se dizia dono da propriedade.</p>
 
 <p><br />
-Os trabalhadores rurais ocuparam a fazenda de 420 alqueires no &uacute;ltimo dia 5 de julho. A &aacute;rea, considerada improdutiva, pertencia &agrave; empresa F&iacute;bria, mas foi adquirida por Genil Mata da Cruz, prefeito do munic&iacute;pio Central de Minas.</p>
+Os trabalhadores rurais ocuparam a fazenda de 420 alqueires no &uacute;ltimo dia 5 de julho. A &aacute;rea, considerada improdutiva, pertencia &agrave; empresa F&iacute;bria, mas foi adquirida por Genil Mata da Cruz.</p>
 
 <p><br />
 No entanto, o suposto propriet&aacute;rio disse n&atilde;o possuir nenhum documento relativo &agrave; propriedade do im&oacute;vel, o que o impossibilita de solicitar a reintegra&ccedil;&atilde;o de posse. Segundo relatos dos Sem Terra, ao n&atilde;o poder despejar as fam&iacute;lias, Genil da Cruz disse que resolveria a situa&ccedil;&atilde;o &agrave; sua maneira.</p>
