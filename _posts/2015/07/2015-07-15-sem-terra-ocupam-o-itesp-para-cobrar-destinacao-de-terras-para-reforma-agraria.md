@@ -5,7 +5,7 @@ tags:
   - tag: são-paulo
   - tag: ocupação
   - tag: Itesp
-title: "Sem Terra ocupam o Itesp para cobrar destinação de terras para Reforma Agrária "
+title: Sem Terra ocupam o Itesp em SP
 support_line: "Os trabalhadores rurais exigem a arrecadação de novas áreas para a Reforma Agrária em todo estado. "
 menu: reforma agrária
 images_hd: "http://farm1.staticflickr.com/304/19700440956_9c507ae52d_b.jpg"
