@@ -1,5 +1,5 @@
 ---
-date: "2015-07-15T12:01:29-03:00"
+date: "2015-07-15T00:01:29-03:00"
 tags:
   - tag: educação
   - tag: reforma-agrária
@@ -9,7 +9,7 @@ support_line: "Em entrevista, Divina Lopes, do MST, fala sobre as perspectivas e
 menu: "educação, cultura e comunicação"
 label: interviews
 sector: education
-section: cover
+section: null
 images_hd: "http://farm1.staticflickr.com/362/19694050766_7ba7bd5555_b.jpg"
 layout: post
 files:
