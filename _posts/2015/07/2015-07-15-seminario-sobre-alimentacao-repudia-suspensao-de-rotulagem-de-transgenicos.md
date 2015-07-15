@@ -4,7 +4,7 @@ tags:
   - tag: agricultura-camponesa
   - tag: alimentação
 title: Seminário sobre alimentação repudia suspensão de rotulagem de transgênicos
-support_line: "Segundo o presidente da Associação Gaúcha de Proteção ao Ambiente Natural (Agapan), Leonardo Melgarejo, a suspensão da rotulagem dos transgênicos ameaça o direito de escolha do consumidor e a Lei de Biossegurança."
+support_line: "Segundo o presidente da Agapan, Leonardo Melgarejo, a suspensão da rotulagem dos transgênicos ameaça o direito de escolha do consumidor e a Lei de Biossegurança."
 images_hd: "http://farm1.staticflickr.com/515/19722062871_2cf267a77c_b.jpg"
 menu: agricultura camponesa
 layout: post
