@@ -5,7 +5,7 @@ tags:
   - tag: ocupação
   - tag: minas-gerais
 title: Confira nota do MST sobre o acidente de avião do prefeito Genil Mata da Cruz
-support_line: "Após uma hora de rasantes sobre as famílias Sem Terra, avião em que Gentil estava caiu próximo ao acampamento, no município de Tumiritinga (MG)."
+support_line: "Após uma hora de rasantes sobre as famílias Sem Terra, avião em que Genil estava caiu próximo ao acampamento, no município de Tumiritinga (MG)."
 menu: direitos humanos
 images_hd: "http://farm1.staticflickr.com/474/19716630015_a65a22f36d_b.jpg"
 section: cover
@@ -74,10 +74,10 @@ Nos dias anteriores, rondas noturnas j&aacute; estavam sendo feitas na &aacute;r
 <strong>Quem &eacute; Genil Mata da Cruz?</strong></p>
 
 <p><br />
-Al&eacute;m de ser prefeito da cidade Central de Minas, Gentil Mata da Cruz &eacute; dono de uma das maiores redes de posto de combust&iacute;vel na regi&atilde;o, a Rede Gentil.</p>
+Al&eacute;m de ser prefeito da cidade Central de Minas, Genil Mata da Cruz &eacute; dono de uma das maiores redes de posto de combust&iacute;vel na regi&atilde;o, a Rede Gentil.</p>
 
 <p><br />
-Seu curr&iacute;culo, entretanto, &eacute; repleto de acusa&ccedil;&otilde;es. Em 2013, o prefeito foi acusado de tr&aacute;fico de combust&iacute;vel. Em 2006, Gentil tamb&eacute;m foi suspeito de envolvimento com o tr&aacute;fico internacional de pessoas. Na &eacute;poca, a Pol&iacute;cia Federal investigou a participa&ccedil;&atilde;o do empres&aacute;rio no financiamento de viagens a brasileiros para entrar ilegalmente nos Estados Unidos.</p>
+Seu curr&iacute;culo, entretanto, &eacute; repleto de acusa&ccedil;&otilde;es. Em 2013, o prefeito foi acusado de tr&aacute;fico de combust&iacute;vel. Em 2006, Genil tamb&eacute;m foi suspeito de envolvimento com o tr&aacute;fico internacional de pessoas. Na &eacute;poca, a Pol&iacute;cia Federal investigou a participa&ccedil;&atilde;o do empres&aacute;rio no financiamento de viagens a brasileiros para entrar ilegalmente nos Estados Unidos.</p>
 
 <p><br />
 Em 2001, o prefeito foi denunciado criminalmente pelo Tribunal de Justi&ccedil;a de Minas Gerais (TJMG) por ter constru&iacute;do um posto de gasolina sem licen&ccedil;a ou autoriza&ccedil;&atilde;o do &oacute;rg&atilde;o ambiental competente, e desobedecer o Departamento de Estradas e Rodagem de Minas Gerais (DER).</p>
