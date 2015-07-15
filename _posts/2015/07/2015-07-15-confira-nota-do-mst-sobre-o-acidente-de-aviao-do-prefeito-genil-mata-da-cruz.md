@@ -5,7 +5,7 @@ tags:
   - tag: ocupação
   - tag: minas-gerais
 title: Confira nota do MST sobre o acidente de avião do prefeito Genil Mata da Cruz
-support_line: "Após uma hora de rasantes sobre as famílias Sem Terra, avião em que Gentil estava dentro caiu próximo ao acampamento, no município de Tumiritinga (MG)."
+support_line: "Após uma hora de rasantes sobre as famílias Sem Terra, avião em que Gentil estava caiu próximo ao acampamento, no município de Tumiritinga (MG)."
 menu: direitos humanos
 images_hd: "http://farm1.staticflickr.com/474/19716630015_a65a22f36d_b.jpg"
 section: cover
@@ -38,6 +38,7 @@ releated_posts:
 
 ---
 <p><br />
+<img alt="avião.jpg" src="http://farm1.staticflickr.com/403/19529929029_92632b4e54_b.jpg" /><br />
 <br />
 <em>Da P&aacute;gina do MST</em></p>
 
