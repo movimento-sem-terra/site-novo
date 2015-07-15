@@ -28,7 +28,7 @@ releated_posts: []
 
 <p>&nbsp;</p>
 
-<p><em>Por Rafael Soriano<br />
+<p><em>Por Gustavo Marinho<br />
 Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
