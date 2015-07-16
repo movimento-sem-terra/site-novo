@@ -6,7 +6,7 @@ tags:
   - tag: água
   - tag: reforma-agrária
 title: "Na Bahia, Sem Terrinha vão às ruas em defesa da água"
-support_line: "O espaço realizou atividades pedagógicas com o intuito de conscientizar as crianças sobre a importância da preservação do meio ambiente.  "
+support_line: O ação pedagógica foi realizada com o intuito de conscientizar as crianças sobre a importância da preservação do meio ambiente.
 menu: "educação, cultura e comunicação"
 images_hd: "http://farm1.staticflickr.com/290/19127682893_d743159a03_b.jpg"
 layout: post
