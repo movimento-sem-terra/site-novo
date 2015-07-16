@@ -108,4 +108,4 @@ N&atilde;o sabemos as circunst&acirc;ncias de tal acidente e nem quem s&atilde;o
 
 <p style="text-align: right;"><br />
 14/07/2015<br />
-Dire&ccedil;&atilde;o estadual do MST-MG</p>
+Dire&ccedil;&atilde;o estadual do MST- MG</p>
