@@ -43,31 +43,28 @@ releated_posts:
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Neste &uacute;ltimo s&aacute;bado (11) mais de 300 Sem Terrinha <span style="line-height: 20.7999992370605px;">realizaram uma marcha&nbsp;</span><span style="line-height: 20.7999992370605px;">em defesa da preserva&ccedil;&atilde;o do meio ambiente pelas&nbsp;ruas do Distrito de Vera Cruz, em Porto Seguro, Bahia.&nbsp;</span></p>
+Neste &uacute;ltimo s&aacute;bado (11), mais de 300 Sem Terrinha <span style="line-height: 20.7999992370605px;">realizaram uma marcha&nbsp;</span><span style="line-height: 20.7999992370605px;">em defesa da preserva&ccedil;&atilde;o do meio ambiente pelas&nbsp;ruas do Distrito de Vera Cruz, em Porto Seguro (BA).&nbsp;</span></p>
 
 <p><br />
-As crian&ccedil;as vindas de cinco comunidades da regi&atilde;o, estava acompanhadas pelos&nbsp;educadores da Escola Municipal Paulo Freire, localizada em Santa Cruz Cabr&aacute;lia.&nbsp;</p>
+As crian&ccedil;as, de cinco comunidades da regi&atilde;o, estavam acompanhadas pelos&nbsp;educadores da Escola Municipal Paulo Freire, de Santa Cruz Cabr&aacute;lia.&nbsp;</p>
 
 <p><br />
-A marcha teve o objetivo de chamar a aten&ccedil;&atilde;o da popula&ccedil;&atilde;o para a import&acirc;ncia da preserva&ccedil;&atilde;o da &aacute;gua, bem como os impactos do uso de agrot&oacute;xicos no leito dos rios.</p>
+O objetivo da marcha foi chamar a aten&ccedil;&atilde;o da popula&ccedil;&atilde;o para a import&acirc;ncia da preserva&ccedil;&atilde;o da &aacute;gua e os impactos do uso de agrot&oacute;xicos no leito dos rios.</p>
 
 <p><br />
 A a&ccedil;&atilde;o envolveu as comunidades e os assentamentos de Gild&aacute;sio Sales, Ojefferson Santos, Luis In&aacute;cio Lula da Silva, Novo Horizonte e Vera Cruz, situados nos munic&iacute;pios de Santa Cruz Cabr&aacute;lia e Porto Seguro.</p>
 
 <p><br />
-Al&eacute;m da marcha, as crian&ccedil;as criaram par&oacute;dias, dan&ccedil;as, faixas, cartazes, camisas e panfletos. Os materiais foram distribu&iacute;dos e expostos para toda popula&ccedil;&atilde;o, mostrando os impactos dos agrot&oacute;xicos ao ser humano e a natureza.</p>
+Al&eacute;m da marcha, as crian&ccedil;as criaram par&oacute;dias, dan&ccedil;as, faixas, cartazes, camisas e panfletos. Os materiais foram distribu&iacute;dos e expostos a toda popula&ccedil;&atilde;o, mostrando os impactos dos agrot&oacute;xicos ao ser humano e a natureza.</p>
 
 <p><br />
-De acordo Maria Gil, diretora da escola Paulo Freire, a atividade &eacute; parte&nbsp;do projeto &ldquo;&Aacute;gua, um bem da humanidade&rdquo; que vem sendo desenvolvido h&aacute; tr&ecirc;s meses nas comunidades.</p>
+De acordo Maria Gil, diretora da escola Paulo Freire, a atividade &eacute; parte&nbsp;do projeto &ldquo;&Aacute;gua, um bem da humanidade&rdquo;, que vem sendo desenvolvido h&aacute; tr&ecirc;s meses nas comunidades.</p>
 
 <p><br />
 &ldquo;O projeto buscou vincular as a&ccedil;&otilde;es agroecol&oacute;gicas das comunidades e as pr&aacute;ticas pedag&oacute;gicas desenvolvidas na escola, com o fim de potencializar nos educandos o cuidado e a preserva&ccedil;&atilde;o da natureza&rdquo;, explicou Gil.</p>
 
 <p><br />
-Jaziam Mota, da dire&ccedil;&atilde;o estadual, afirma que &quot;&eacute; primordial que as escolas nos assentamentos e acampamentos desenvolvam&nbsp;projetos e a&ccedil;&otilde;es que vinculem&nbsp;normas e princ&iacute;pios do MST ao desenvolvimento da agroecologia&quot;.&nbsp;</p>
+Jaziam Mota, da dire&ccedil;&atilde;o estadual, afirma que ser &quot;primordial que as escolas nos assentamentos e acampamentos desenvolvam&nbsp;projetos e a&ccedil;&otilde;es que vinculem&nbsp;normas e princ&iacute;pios do MST ao desenvolvimento da agroecologia&quot;.&nbsp;</p>
 
 <p><br />
-J&aacute; Jhon Wallassy, educando do s&eacute;timo ano, contou que aprendeu muito com&nbsp;o projeto.</p>
-
-<p><br />
-&quot;Todas essas atividades serviram para que agora eu tenha base&nbsp;para alertar as pessoas sobre a necessidade da preserva&ccedil;&atilde;o da natureza&quot;, diz.&nbsp;</p>
+J&aacute; Jhon Wallassy, educando do s&eacute;timo ano, contou que aprendeu muito com&nbsp;o projeto. &quot;Todas essas atividades serviram para que agora eu tenha base&nbsp;para alertar as pessoas sobre a necessidade da preserva&ccedil;&atilde;o da natureza&quot;, diz.</p>
