@@ -8,7 +8,7 @@ title: Confira nota do MST sobre o acidente de avião do prefeito Genil Mata da 
 support_line: "Após uma hora de rasantes sobre as famílias Sem Terra, avião em que Genil estava caiu próximo ao acampamento, no município de Tumiritinga (MG)."
 menu: direitos humanos
 images_hd: "http://farm1.staticflickr.com/474/19716630015_a65a22f36d_b.jpg"
-section: cover
+section: featured-news
 layout: post
 files:
   - link: "http://farm4.staticflickr.com/3769/19528400870_6a0c33dd82_b.jpg"
