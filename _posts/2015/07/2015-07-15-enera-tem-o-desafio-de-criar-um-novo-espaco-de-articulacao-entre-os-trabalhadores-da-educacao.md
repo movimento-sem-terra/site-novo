@@ -9,7 +9,7 @@ support_line: "Em entrevista, Divina Lopes, do MST, fala sobre as perspectivas e
 menu: "educação, cultura e comunicação"
 label: interviews
 sector: education
-section: cover
+section: featured-news
 images_hd: "http://farm1.staticflickr.com/362/19694050766_7ba7bd5555_b.jpg"
 layout: post
 files:
