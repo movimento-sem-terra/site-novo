@@ -1,6 +1,9 @@
 ---
 date: "2015-07-17T09:20:45-03:00"
-tags: []
+tags:
+  - tag: enff
+  - tag: reforma-política
+  - tag: educação
 title: "Dez anos de ENFF, um sonho construído a muitas mãos"
 menu: "educação, cultura e comunicação"
 section: cover
@@ -41,7 +44,13 @@ files:
     $$hashKey: "036"
 created_date: "2015-07-17T09:37:36-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - 2015/01/2015-01-21-lula-visita-escola-florestan-fernandes-e-defende-atuacao-dos-movimentos-sociais-no-brasil.md
+  - 2015/01/2015-01-23-enff-inaugura-casa-de-artes-frida-kahlo.md
+  - 2015/01/2015-01-25-mais-de-600-pessoas-participaram-do-premio-luta-pela-terra.md
+  - 2015/06/2015-06-18-precisamos-avancar-com-o-pronera-para-que-o-povo-tenha-uma-educacao-libertadora.md
+  - 2015/06/2015-06-24-mais-de-4-mil-escolas-do-campo-fecham-suas-portas-em-2014.md
+  - 2015/01/2015-01-22-em-visita-a-enff-lula-destaca-a-importancia-da-formacao-politica.md
 
 ---
 <p><img alt="escola.jpg" src="http://farm4.staticflickr.com/3831/19583887240_d7338bf004_b.jpg" /><br />
@@ -79,8 +88,7 @@ Crescido de cora&ccedil;&atilde;o&rdquo; (Assentamento, Chico Buarque apud Guima
 Ap&oacute;s o lan&ccedil;amento da cole&ccedil;&atilde;o, os Sem Terra passaram a ver um dos mais belos valores humanit&aacute;rios: o da solidariedade. Dezenas de comit&ecirc;s internacionais e entidades da classe trabalhadora do Brasil e do mundo passaram a realizar exposi&ccedil;&otilde;es mundo afora para arrecadar fundos para a constru&ccedil;&atilde;o da escola.</p>
 
 <p><br />
-Com o dinheiro obtido, um terreno de 120 mil km&sup2; foi adquirido em Guararema, pr&oacute;ximo &agrave; cidade de S&atilde;o Paulo.<br />
-Tr&ecirc;s anos depois, no dia 22 de mar&ccedil;o de 2002 teve in&iacute;cio o processo efetivo da constru&ccedil;&atilde;o da ENFF, que durou at&eacute; a sua inaugura&ccedil;&atilde;o, no dia 23 de janeiro de 2005.</p>
+Com o dinheiro obtido, um terreno de 120 mil km&sup2; foi adquirido em Guararema, pr&oacute;ximo &agrave; cidade de S&atilde;o Paulo. Tr&ecirc;s anos depois, no dia 22 de mar&ccedil;o de 2002 teve in&iacute;cio o processo efetivo da constru&ccedil;&atilde;o da ENFF, que durou at&eacute; a sua inaugura&ccedil;&atilde;o, no dia 23 de janeiro de 2005.</p>
 
 <p style="text-align: right;"><br />
 <em>&ldquo;Seja como for, os deserdados da terra alimentam a esperan&ccedil;a de melhores dias e uma coisa &eacute; certa: n&atilde;o querem mais fugir para as cidades, que j&aacute; n&atilde;o podem mais absorv&ecirc;-los, dar-lhes trabalho e condi&ccedil;&otilde;es dignas de vida. Preferem, pois, resguardando-se das amea&ccedil;as da deliq&uuml;&ecirc;ncia e da prostitui&ccedil;&atilde;o dos grandes centros urbanos, permanecer nos acampamentos &agrave; margem das estradas e esperar pela oportunidade de ocupar a terra t&atilde;o sonhada, mesmo correndo risco de vida. Seus projetos s&atilde;o id&ecirc;nticos: lavrar um peda&ccedil;o de terra finalmente seu, construir uma casa para a fam&iacute;lia, assegurar o sustento desta e, por meio da cooperativa a ser criada, comercializar os excedentes de sua produ&ccedil;&atilde;o agr&iacute;cola, garantindo a manuten&ccedil;&atilde;o de escola para os filhos. &Eacute; esse, em s&iacute;ntese, o sonho comum dos sem-terra (Sebasti&atilde;o Salgado).</em></p>
