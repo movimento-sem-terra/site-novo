@@ -44,13 +44,9 @@ releated_posts:
 <em><span style="line-height: 1.6;">Da p&aacute;gina do MST&nbsp;</span></em></p>
 
 <p><br />
-<span style="line-height: 1.6;">Nesta sexta-feira (17), cerca de 200 pessoas de diversos movimentos populares brasileiros participaram do&nbsp;ato&nbsp;</span>em solidariedade ao povo venezuelano que ocorreu&nbsp;em Bras&iacute;lia.&nbsp;</p>
+<span style="line-height: 1.6;">Nesta sexta-feira (17), cerca de 200 pessoas de diversos movimentos populares brasileiros participaram do&nbsp;ato&nbsp;</span>em solidariedade ao povo venezuelano que ocorreu&nbsp;em Bras&iacute;lia.&nbsp;<span style="line-height: 20.7999992370605px;">&nbsp;A atividade&nbsp;teve in&iacute;cio logo pela manh&atilde;, quando os movimentos deram as boas vindas ao Presidente Nicol&aacute;s Maduro, que estava no pa&iacute;s&nbsp;para a reuni&atilde;o da c&uacute;pula de chefes de Estado do Mercosul.&nbsp;</span></p>
 
-<p><br />
-A atividade organizada por movimentos como o MST, Movimento de Mulheres Camponesas (MMC), Movimento dos Pequenos Agricultores (MPA), Central &Uacute;nica dos Trabalhadores (CUT), Uni&atilde;o Nacional dos Estudantes (UNE), Comit&ecirc; de apoio &agrave; Venezuela no Brasil,&nbsp;entre outros, teve in&iacute;cio logo pela manh&atilde;, quando os movimentos deram as boas vindas ao Presidente Nicol&aacute;s Maduro, que esteve no pa&iacute;s&nbsp;para a reuni&atilde;o da c&uacute;pula de chefes de Estado do Mercosul.&nbsp;</p>
-
-<p><br />
-Pela tarde, o&nbsp;repert&oacute;rio do Mambembrincante deu o tom da cultura brasileira na abertura do ato. Resultado de uma fus&atilde;o de instrumentos e ritmos de diversas partes do Brasil, a participa&ccedil;&atilde;o do grupo com a incorpora&ccedil;&atilde;o do personagem jaragu&aacute;, lembrou a riqueza de cores e alegria que faz parte da vida do povo da Am&eacute;rica Latina e que constr&oacute;i essa P&aacute;tria Grande!&nbsp;<br />
+<p>Pela tarde, o&nbsp;repert&oacute;rio do Mambembrincante deu o tom da cultura brasileira na abertura do ato. Resultado de uma fus&atilde;o de instrumentos e ritmos de diversas partes do Brasil, a participa&ccedil;&atilde;o do grupo com a incorpora&ccedil;&atilde;o do personagem jaragu&aacute;, lembrou a riqueza de cores e alegria que faz parte da vida do povo da Am&eacute;rica Latina e que constr&oacute;i essa P&aacute;tria Grande!&nbsp;<br />
 &nbsp;</p>
 
 <figure class="image"><img alt="802332294_21086.jpg" src="http://farm1.staticflickr.com/542/19192971994_780d75e5cc_b.jpg" />
