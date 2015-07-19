@@ -31,13 +31,13 @@ releated_posts:
 <em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Neste domingo (19), trabalhadores sem terra do Mato Grosso realizam Ato em defesa da Reforma Agr&aacute;ria Popular. A atividade vai ocorrer na &aacute;rea da Fazenda Nossa Senhora Aparecida, no munic&iacute;pio de Jaciara, &agrave; 144 km de Cuiab&aacute;, onde <span style="line-height: 20.7999992370605px;">cerca de 600 fam&iacute;lias permanecem acampadas,&nbsp;</span>desde a segunda-feira (13).&nbsp;</p>
+Neste domingo (19), trabalhadores sem terra do Mato Grosso realizam Ato em defesa da Reforma Agr&aacute;ria Popular. A atividade acontecer&aacute; na Fazenda Nossa Senhora Aparecida, no munic&iacute;pio de Jaciara, &agrave; 144 km de Cuiab&aacute;, onde <span style="line-height: 20.7999992370605px;">cerca de 600 fam&iacute;lias permanecem acampadas,&nbsp;</span>desde a segunda-feira (13).&nbsp;</p>
 
 <p><br />
 A &aacute;rea que tem mais de 2.186 Hectares, &eacute; pass&iacute;vel a ser destinada para fins de Reforma Agr&aacute;ria, pois apresenta irregularidades de t&iacute;tulos e responde a processo por problemas ambientais movido pelo Minist&eacute;rio&nbsp;P&uacute;blico Estadual.</p>
 
 <p><br />
-As fam&iacute;lias que participaram da ocupa&ccedil;&atilde;o s&atilde;o oriundas de diversos munic&iacute;pios da regi&atilde;o sul do Estado, tal como Campo Verde, Jaciara, Juscimeira, Dom Aquino e demais distritos vizinhos. Os trabalhadores e trabalhadoras pretendem permanecer em&nbsp;acampamento at&eacute; que as terras sejam destinadas para a Reforma Agr&aacute;ria. Enquanto isso, os sem terra j&aacute; planejam&nbsp;produzir alimentos no local.&nbsp;</p>
+As fam&iacute;lias que participaram da ocupa&ccedil;&atilde;o s&atilde;o oriundas de diversos munic&iacute;pios da regi&atilde;o sul do estado, tais&nbsp;como Campo Verde, Jaciara, Juscimeira, Dom Aquino e demais distritos vizinhos. Os trabalhadores e trabalhadoras pretendem permanecer em&nbsp;acampamento at&eacute; que as terras sejam destinadas para a Reforma Agr&aacute;ria. Enquanto isso, os sem terra j&aacute; planejam&nbsp;produzir alimentos no local.&nbsp;</p>
 
 <p><br style="line-height: 20.7999992370605px;" />
 <span style="line-height: 20.7999992370605px;">De acordo com os dirigentes regionais do MST, as fam&iacute;lias vivem clima tenso e de inseguran&ccedil;a ap&oacute;s a visita de agentes da Pol&iacute;cia Militar</span><span style="line-height: 20.7999992370605px;">&nbsp;e do Grupo de Opera&ccedil;&otilde;es Especiais (GOE), que se manteve a dist&acirc;ncia, apenas mapeando a &aacute;rea. Tamb&eacute;m h&aacute; a presen&ccedil;a de seguran&ccedil;as armados que se posicionaram nas entradas da fazenda e deixaram&nbsp;todos</span><span style="line-height: 20.7999992370605px;">&nbsp;em alerta.</span></p>
