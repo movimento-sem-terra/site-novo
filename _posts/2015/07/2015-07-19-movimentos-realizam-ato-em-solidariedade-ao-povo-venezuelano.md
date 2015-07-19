@@ -1,5 +1,5 @@
 ---
-date: "2015-07-18T13:16:22-03:00"
+date: "2015-07-18T15:16:22-03:00"
 tags:
   - tag: venezuela
   - tag: solidariedade-internacional
@@ -63,7 +63,11 @@ Para&nbsp;Geraldo Gasparin, da coordena&ccedil;&atilde;o nacional do MST, a unid
 Representante do governo da Venezuela no ato, Am&iacute;lcar Carvajal, saudou &agrave; todos e enfatizou a import&acirc;ncia da solidariedade latino-americana diante dos ataques que o povo venezuelano tem sofrido.&nbsp;</p>
 
 <p><br />
-&quot;S&oacute; uma gota n&atilde;o faz uma chuva, mas quando muitas gotas se juntam podemos mover montanhas. &Eacute; o que desejamos alcan&ccedil;ar com o povo latino-americano, pois compartilhamos o sonho de viver melhor. A abordagem capitalista significa destrui&ccedil;&atilde;o e a op&ccedil;&atilde;o do povo venezuelano &eacute; a revolu&ccedil;&atilde;o bolivariana&quot;, salientou Carvajal.</p>
+&quot;S&oacute; uma gota n&atilde;o faz uma chuva, mas quando muitas gotas se juntam podemos mover montanhas. &Eacute; o que desejamos alcan&ccedil;ar com o povo latino-americano, pois compartilhamos o sonho de viver melhor. A abordagem capitalista significa destrui&ccedil;&atilde;o e a op&ccedil;&atilde;o do povo venezuelano &eacute; a revolu&ccedil;&atilde;o bolivariana&quot;, salientou Carvajal.<br />
+<br />
+<br />
+Al&eacute;m do MST, tamb&eacute;m estiveram presentes representantes do Comit&ecirc; de apoio &agrave; Venezuela no Brasil, do Movimento Mulheres Camponesas (MMC), Movimento de Pequenos Agricultores (MPA), da Uni&atilde;o Nacional dos Estudantes (UNE), da CUT, entre outros.<br />
+&nbsp;</p>
 
 <figure class="image"><img alt="802132304_21074.jpg" src="http://farm1.staticflickr.com/313/19627576358_985486f709_b.jpg" />
 <figcaption>Foto: M&iacute;dia Ninja</figcaption>
