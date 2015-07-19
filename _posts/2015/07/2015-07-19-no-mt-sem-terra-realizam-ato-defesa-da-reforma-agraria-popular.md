@@ -5,7 +5,7 @@ tags:
   - tag: latifundio
   - tag: reforma-agrária-popular
   - tag: reforma-agrária
-title: "No MT, sem terra realizam ato defesa da Reforma Agrária Popular"
+title: "No MT, sem terra realizam ato em defesa da Reforma Agrária Popular"
 images_hd: "http://farm1.staticflickr.com/397/19788084636_6a689cb475_b.jpg"
 support_line: "A atividade vai ocorrer na área da Fazenda Nossa Senhora Aparecida, no município de Jaciara, onde cerca de 600 famílias permanecem acampadas, desde a segunda-feira (13). "
 menu: lutas e mobilizações
