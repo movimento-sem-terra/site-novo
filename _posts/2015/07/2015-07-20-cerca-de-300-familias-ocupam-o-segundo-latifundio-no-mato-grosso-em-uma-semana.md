@@ -5,7 +5,7 @@ tags:
   - tag: mato-grosso
   - tag: lutas-e-mobilizações
   - tag: reforma-agrária
-title: Cerca de 300 famílias ocupam o segundo latifúndio no Mato Grosso em uma semana
+title: Cerca de 300 famílias ocupam o segundo latifúndio no MT em uma semana
 menu: lutas e mobilizações
 section: cover
 sector: mass-front
@@ -30,7 +30,8 @@ releated_posts:
   - 2015/07/2015-07-15-sem-terra-ocupam-o-itesp-para-cobrar-destinacao-de-terras-para-reforma-agraria.md
 
 ---
-<p><em>Da P&aacute;gina do MST</em></p>
+<p><br />
+<em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
 Cerca de 300 fam&iacute;lias Sem Terra ocuparam na manh&atilde; desta segunda-feira (20) a Fazenda&nbsp; Mutum, no munic&iacute;pio de Gl&oacute;ria D&acute;Oeste, em Mato Grosso, a 320 km de Cuiab&aacute;.</p>
