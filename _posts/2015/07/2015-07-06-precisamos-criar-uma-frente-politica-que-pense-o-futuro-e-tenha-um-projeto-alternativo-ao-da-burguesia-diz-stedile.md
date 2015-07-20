@@ -7,7 +7,7 @@ tags:
 support_line: "Em entrevista, João Pedro Stedile, do MST, analisa o momento pelo qual passa a sociedade brasileira e aponta os desafios que os setores progressistas devem enfrentar."
 title: "“Precisamos criar uma frente política que pense o futuro e tenha um projeto alternativo ao da burguesia”, diz Stedile"
 menu: projeto popular
-section: featured-news
+section: null
 images_hd: "http://farm1.staticflickr.com/290/19449737176_8a3cedb434_b.jpg"
 layout: post
 files:
@@ -33,6 +33,7 @@ releated_posts:
   - 2015/06/2015-06-01-moroni-reforma-politica-do-eduardo-cunha-e-um-deboche-com-o-povo-brasileiro.md
   - 2015/06/2015-06-02-movimentos-sociais-denunciam-cunha-e-os-84-deputados-que-mudaram-seus-votos.md
   - 2015/06/2015-06-09-juristas-alertam-sobre-inconstitucionalidade-de-manobra-de-cunha-por-financiamento-privado.md
+label: interviews
 
 ---
 <p><img alt="IMG_4390(1).jpg" src="http://farm1.staticflickr.com/290/19449737176_8a3cedb434_b.jpg" /><br />
