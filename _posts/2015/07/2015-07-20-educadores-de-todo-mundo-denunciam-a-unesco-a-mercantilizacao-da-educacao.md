@@ -35,10 +35,8 @@ releated_posts:
 <p><br />
 Mais de 225 educadores, acad&ecirc;micos e pesquisadores do setor da educa&ccedil;&atilde;o de cerca de 30 pa&iacute;ses dos cinco continentes dirigiram &agrave; Dra. Irina Bokova, diretora-geral da UNESCO, uma carta denunciando o processo generalizado e perverso de mercantiliza&ccedil;&atilde;o da educa&ccedil;&atilde;o.</p>
 
-<p>&nbsp;
 <p><br />
 Para eles, &ldquo;a UNESCO deve ouvir as vozes de professores e estudantes de todo o mundo que resistem &agrave; mercantiliza&ccedil;&atilde;o da educa&ccedil;&atilde;o&rdquo;, e se dizem preocupados com uma guinada economicista que tiveram recentes eventos da UNESCO, especialmente o F&oacute;rum Mundial de Educa&ccedil;&atilde;o realizado em Incheon, Coreia do Sul.</p>
-</p>
 
 <p><br />
 A carta &eacute; um apelo dram&aacute;tico para lutar contra o apag&atilde;o pedag&oacute;gico global.</p>
@@ -59,7 +57,8 @@ A carta circulou durante estes meses e, junto com as ades&otilde;es que ainda ho
 <p><br />
 Eis a carta.</p>
 
-<p>Dra. Irina Bokova</p>
+<p><br />
+Dra. Irina Bokova</p>
 
 <p>Diretora-Geral da UNESCO</p>
 
