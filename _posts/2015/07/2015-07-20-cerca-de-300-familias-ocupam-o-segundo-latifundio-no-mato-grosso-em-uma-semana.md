@@ -10,7 +10,7 @@ menu: lutas e mobilizações
 section: cover
 sector: mass-front
 support_line: "Desta vez foi ocupada a Fazenda  Mutum, em Glória D´Oeste. Mato Grosso é um dos Estados com maior índice de concentração fundiária, o que acarreta diversos problemas sociais e ambientais."
-images_hd: "http://farm4.staticflickr.com/3748/19667966080_60c3d4e3a2_b.jpg"
+images_hd: "http://farm1.staticflickr.com/465/19239568144_394f43ed6b_b.jpg"
 layout: post
 files:
   - link: "http://farm4.staticflickr.com/3748/19667966080_60c3d4e3a2_b.jpg"
@@ -19,6 +19,12 @@ files:
     small: "http://farm4.staticflickr.com/3748/19667966080_60c3d4e3a2_n.jpg"
     title: Sem Terra.jpg
     $$hashKey: 0CJ
+  - link: "http://farm1.staticflickr.com/465/19239568144_394f43ed6b_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/465/19239568144_394f43ed6b_t.jpg"
+    medium: "http://farm1.staticflickr.com/465/19239568144_394f43ed6b_z.jpg"
+    small: "http://farm1.staticflickr.com/465/19239568144_394f43ed6b_n.jpg"
+    title: ocupação_MT.jpg
+    $$hashKey: 05Y
 created_date: "2015-07-20T09:00:09-03:00"
 published: true
 releated_posts:
@@ -30,7 +36,8 @@ releated_posts:
   - 2015/07/2015-07-15-sem-terra-ocupam-o-itesp-para-cobrar-destinacao-de-terras-para-reforma-agraria.md
 
 ---
-<p><br />
+<p><img alt="ocupação_MT.jpg" src="http://farm1.staticflickr.com/465/19239568144_394f43ed6b_b.jpg" /><br />
+<br />
 <em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
