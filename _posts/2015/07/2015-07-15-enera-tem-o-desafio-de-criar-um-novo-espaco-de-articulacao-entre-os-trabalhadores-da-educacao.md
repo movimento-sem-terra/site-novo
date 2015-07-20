@@ -35,7 +35,7 @@ releated_posts:
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Entre os dias 21 e 25 de setembro, Bras&iacute;lia sediar&aacute; o 2&deg; Encontro Nacional de Educadoras e Educadores da Reforma Agr&aacute;ria (Enera).</p>
+Entre os dias 21 e 25 de setembro, o munic&iacute;pio de Luzi&acirc;nia, em Goi&aacute;s, sediar&aacute; o 2&deg; Encontro Nacional de Educadoras e Educadores da Reforma Agr&aacute;ria (Enera).</p>
 
 <p><br />
 O encontro, que reunir&aacute; educadores do campo de todo pa&iacute;s, tem como objetivo debater o atual momento da educa&ccedil;&atilde;o p&uacute;blica brasileira, cada vez submetida a uma l&oacute;gica mercantilizada ditada por grandes grupos financeiros.</p>
