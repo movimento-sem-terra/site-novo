@@ -20,18 +20,19 @@ files:
 created_date: "2015-07-17T11:18:47-03:00"
 published: true
 releated_posts:
-  - 2014/07/2014-07-17-familias-sem-terra-seguem-na-luta-por-area-grilada-em-abelardo-luz.md
   - 2015/07/2015-07-14-carta-de-santa-cruz-defende-reforma-agraria-integral-e-producao-de-alimentos-saudaveis.md
   - 2015/06/2015-06-25-a-batalha-de-dois-modelos-agricolas.md
+  - 2015/04/2015-04-14-aumenta-a-violencia-no-campo-e-os-sem-terra-se-transformam-em-alvo-principal.md
+  - 2015/06/2015-06-10-cpt-40-anos-de-defesa-da-terra-e-da-gente-da-terra.md
+  - 2015/07/2015-07-19-no-mt-sem-terra-realizam-ato-defesa-da-reforma-agraria-popular.md
 
 ---
-<p>&nbsp;</p>
+<p><br />
+<em>Por Jacques T&aacute;vora Alfonsin<br />
+Do Instituto Humanitas&nbsp;Unisinos</em></p>
 
-<p><em>Do Instituto Humanitas&nbsp;Unisinos</em></p>
-
-<p>&nbsp;</p>
-
-<p>A Associa&ccedil;&atilde;o Brasileira da Reforma agr&aacute;ria reuniu em Brasilia dias 15 e 16 deste julho, representantes de diversos movimentos populares para fazer uma an&aacute;lise das raz&otilde;es pelas quais a implementa&ccedil;&atilde;o da pol&iacute;tica p&uacute;blica de reforma agr&aacute;ria, reivindicada h&aacute; tanto tempo pelo povo pobre sem-terra como condi&ccedil;&atilde;o necess&aacute;ria de defesa da vida, da terra, da partilha igualit&aacute;ria dos seus frutos, da preserva&ccedil;&atilde;o do ar, das &aacute;guas, das florestas e de todo o meio-ambiente, vem sendo prorrogada ilegal e injustamente, j&aacute; que prevista na pr&oacute;pria Constitui&ccedil;&atilde;o Federal.</p>
+<p><br />
+A Associa&ccedil;&atilde;o Brasileira da Reforma agr&aacute;ria reuniu em Brasilia dias 15 e 16 deste julho, representantes de diversos movimentos populares para fazer uma an&aacute;lise das raz&otilde;es pelas quais a implementa&ccedil;&atilde;o da pol&iacute;tica p&uacute;blica de reforma agr&aacute;ria, reivindicada h&aacute; tanto tempo pelo povo pobre sem-terra como condi&ccedil;&atilde;o necess&aacute;ria de defesa da vida, da terra, da partilha igualit&aacute;ria dos seus frutos, da preserva&ccedil;&atilde;o do ar, das &aacute;guas, das florestas e de todo o meio-ambiente, vem sendo prorrogada ilegal e injustamente, j&aacute; que prevista na pr&oacute;pria Constitui&ccedil;&atilde;o Federal.</p>
 
 <p><br />
 Tendo como eixo principal a an&aacute;lise conjuntural da reforma agr&aacute;ria e a necessidade de sua implementa&ccedil;&atilde;o como garante de soberania e seguran&ccedil;a alimentar, inclusive pelo respeito devido &agrave; fun&ccedil;&atilde;o social e ambiental da propriedade, os debates n&atilde;o ficaram restritos apenas ao lamento pr&oacute;prio de tudo quanto n&atilde;o se faz em defesa dos direitos humanos fundamentais &agrave; terra do grande n&uacute;mero de brasileiras/os com direito a este acesso.</p>
