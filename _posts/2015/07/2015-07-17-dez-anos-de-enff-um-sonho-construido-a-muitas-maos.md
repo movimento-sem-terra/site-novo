@@ -6,7 +6,7 @@ tags:
   - tag: educação
 title: "Dez anos de ENFF, um sonho construído a muitas mãos"
 menu: "educação, cultura e comunicação"
-section: cover
+section: featured-news
 images_hd: "http://farm4.staticflickr.com/3831/19583887240_d7338bf004_b.jpg"
 support_line: Mais de 1.000 Sem Terra de centenas de assentamentos e acampamentos de todo o Brasil ajudaram a levantar a Escola Nacional Florestan Fernandes há dez anos.
 sector: education
