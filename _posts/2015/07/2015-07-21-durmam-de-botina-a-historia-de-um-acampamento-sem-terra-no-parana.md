@@ -2,6 +2,9 @@
 date: "2015-07-21T09:20:11-03:00"
 tags:
   - tag: reforma-agrária
+  - tag: herdeiros-da-luta
+  - tag: acampamento
+  - tag: paraná
 title: Durmam de botina; a história de um acampamento Sem Terra no Paraná
 section: cover
 support_line: Reportagem com ensaio fotográfico conta a história de um dos maiores acampamentos da atualidade no Brasil.
@@ -81,12 +84,36 @@ files:
     small: "http://farm1.staticflickr.com/434/19878260342_1ed80fa766_n.jpg"
     title: reportagem_PR12.jpeg
     $$hashKey: 04Y
+  - link: "http://farm1.staticflickr.com/345/19890831411_45156aabd5_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/345/19890831411_45156aabd5_t.jpg"
+    medium: "http://farm1.staticflickr.com/345/19890831411_45156aabd5_z.jpg"
+    small: "http://farm1.staticflickr.com/345/19890831411_45156aabd5_n.jpg"
+    title: reportagem_PR13.jpeg
+    $$hashKey: 0BH
+  - link: "http://farm4.staticflickr.com/3816/19264909173_d9eaeab6ca_b.jpg"
+    thumbnail: "http://farm4.staticflickr.com/3816/19264909173_d9eaeab6ca_t.jpg"
+    medium: "http://farm4.staticflickr.com/3816/19264909173_d9eaeab6ca_z.jpg"
+    small: "http://farm4.staticflickr.com/3816/19264909173_d9eaeab6ca_n.jpg"
+    title: reportagem_PR14.jpeg
+    $$hashKey: 0BK
+  - link: "http://farm1.staticflickr.com/328/19697822338_f127c1f36b_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/328/19697822338_f127c1f36b_t.jpg"
+    medium: "http://farm1.staticflickr.com/328/19697822338_f127c1f36b_z.jpg"
+    small: "http://farm1.staticflickr.com/328/19697822338_f127c1f36b_n.jpg"
+    title: reportagem_PR15.jpeg
+    $$hashKey: 0BN
 created_date: "2015-07-21T09:38:27-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - 2015/04/2015-04-24-com-1-500-familias-sem-terra-criam-o-maior-acampamento-de-ms.md
+  - 2014/12/2014-12-16-sem-terra-celebram-seis-meses-de-luta-com-colheita-da-producao.md
+  - 2015/05/2015-05-27-justica-decide-que-araupel-nao-e-dona-da-fazenda-rio-das-cobras.md
+  - 2015/06/2015-06-03-herdeiros-da-luta.md
+  - 2015/07/2015-07-17-os-maus-efeitos-do-atraso-na-execucao-da-reforma-agraria.md
 
 ---
-<p><br />
+<p><img alt="reportagem_PR13.jpeg" src="http://farm1.staticflickr.com/345/19890831411_45156aabd5_b.jpg" /><br />
+<br />
 <em>Por Leandro Taques (Fotos e Texto)<br />
 Do Jornalistas Livres</em></p>
 
@@ -242,3 +269,9 @@ Lenon explica ainda que se debate com profundidade a quest&atilde;o da perman&ec
 &nbsp;</p>
 
 <p><img alt="reportagem_PR12.jpeg" src="http://farm1.staticflickr.com/434/19878260342_1ed80fa766_b.jpg" /></p>
+
+<p><br />
+<img alt="reportagem_PR14.jpeg" src="http://farm4.staticflickr.com/3816/19264909173_d9eaeab6ca_b.jpg" /></p>
+
+<p><br />
+<img alt="reportagem_PR15.jpeg" src="http://farm1.staticflickr.com/328/19697822338_f127c1f36b_b.jpg" /></p>
