@@ -7,7 +7,7 @@ tags:
   - tag: reforma-agrária
 title: Cerca de 300 famílias ocupam o segundo latifúndio no MT em uma semana
 menu: lutas e mobilizações
-section: cover
+section: null
 sector: mass-front
 support_line: "Desta vez foi ocupada a Fazenda  Mutum, em Glória D´Oeste. Mato Grosso é um dos Estados com maior índice de concentração fundiária, o que acarreta diversos problemas sociais e ambientais."
 images_hd: "http://farm1.staticflickr.com/465/19239568144_394f43ed6b_b.jpg"
