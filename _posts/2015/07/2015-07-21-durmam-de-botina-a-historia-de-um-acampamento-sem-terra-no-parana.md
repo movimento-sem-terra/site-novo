@@ -57,6 +57,30 @@ files:
     small: "http://farm1.staticflickr.com/329/19878038952_c539e1ee07_n.jpg"
     title: reportagem_PR8.jpeg
     $$hashKey: 04Q
+  - link: "http://farm1.staticflickr.com/304/19264752343_b46f2d44e7_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/304/19264752343_b46f2d44e7_t.jpg"
+    medium: "http://farm1.staticflickr.com/304/19264752343_b46f2d44e7_z.jpg"
+    small: "http://farm1.staticflickr.com/304/19264752343_b46f2d44e7_n.jpg"
+    title: reportagem_PR9.png
+    $$hashKey: 04P
+  - link: "http://farm4.staticflickr.com/3782/19859481476_d66fa53f4e_b.jpg"
+    thumbnail: "http://farm4.staticflickr.com/3782/19859481476_d66fa53f4e_t.jpg"
+    medium: "http://farm4.staticflickr.com/3782/19859481476_d66fa53f4e_z.jpg"
+    small: "http://farm4.staticflickr.com/3782/19859481476_d66fa53f4e_n.jpg"
+    title: reportagem_PR10.jpeg
+    $$hashKey: 04S
+  - link: "http://farm1.staticflickr.com/543/19878249472_74b2817d38_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/543/19878249472_74b2817d38_t.jpg"
+    medium: "http://farm1.staticflickr.com/543/19878249472_74b2817d38_z.jpg"
+    small: "http://farm1.staticflickr.com/543/19878249472_74b2817d38_n.jpg"
+    title: reportagem_PR11.png
+    $$hashKey: 04V
+  - link: "http://farm1.staticflickr.com/434/19878260342_1ed80fa766_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/434/19878260342_1ed80fa766_t.jpg"
+    medium: "http://farm1.staticflickr.com/434/19878260342_1ed80fa766_z.jpg"
+    small: "http://farm1.staticflickr.com/434/19878260342_1ed80fa766_n.jpg"
+    title: reportagem_PR12.jpeg
+    $$hashKey: 04Y
 created_date: "2015-07-21T09:38:27-03:00"
 published: true
 releated_posts: []
@@ -132,7 +156,7 @@ A Escola Itinerante do acampamento atende 560 alunos da educa&ccedil;&atilde;o i
 <em>&ldquo;A educa&ccedil;&atilde;o no acampamento &eacute; diferente, a forma de se abordar a quest&atilde;o do conhecimento &eacute; sempre buscando despertar o senso cr&iacute;tico no sujeito. A forma de tomada de decis&otilde;es da escola, conta com a participa&ccedil;&atilde;o da comunidade e dos educandos&rdquo;, comenta.</em><br />
 &nbsp;</p>
 
-<p style="text-align: center;"><img alt="reportagem_PR5.jpeg" src="http://farm1.staticflickr.com/353/19877994872_2e2b2730a2_b.jpg" /></p>
+<p style="text-align:center"><img alt="reportagem_PR5.jpeg" src="http://farm1.staticflickr.com/353/19877994872_2e2b2730a2_b.jpg" /></p>
 
 <p><br />
 Uma das dificuldades apontadas por Juliana &eacute; a rotatividade dos professores da rede estadual que trabalham no acampamento. &ldquo;Temos alguns professores que est&atilde;o acampados, com esses conseguimos construir essa forma de educar diferenciada.</p>
@@ -182,14 +206,22 @@ Ant&ocirc;nio de Miranda, da dire&ccedil;&atilde;o nacional do MST, aponta um bo
 <p><br />
 Miranda tamb&eacute;m aponta que, de acordo com o planejamento que j&aacute; vem sendo feito com as fam&iacute;lias, o futuro assentamento ter&aacute; uma forma de sociabiliza&ccedil;&atilde;o diferente. &ldquo;Planejamos um assentamento menos &ldquo;quadrado&rdquo;, com os lotes mais pr&oacute;ximos. No que diz respeito a produ&ccedil;&atilde;o, ser&aacute; agroecol&oacute;gica, saud&aacute;vel. &ldquo;Tamb&eacute;m temos algumas fam&iacute;lias debatendo a produ&ccedil;&atilde;o de leite, gr&atilde;os e frutas&rdquo;.</p>
 
-<p><br />
-Indagado sobre o lan&ccedil;amento do Plano Agr&iacute;cola e Pecu&aacute;rio 2015/16, com R$ 180 bilh&otilde;es, 20% a mais que o ano passado, Miranda lamentou. &ldquo;Lament&aacute;vel o volume de recurso que vai para o agroneg&oacute;cio. Lament&aacute;vel a prioridade que o governo d&aacute; para a agricultura que tem a produ&ccedil;&atilde;o voltada para as commodities de exporta&ccedil;&atilde;o, principalmente soja e milho&rdquo;.</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="reportagem_PR9.png" src="http://farm1.staticflickr.com/304/19264752343_b46f2d44e7_b.jpg" />
+<figcaption>Legenda</figcaption>
+</figure>
+
+<p>Indagado sobre o lan&ccedil;amento do Plano Agr&iacute;cola e Pecu&aacute;rio 2015/16, com R$ 180 bilh&otilde;es, 20% a mais que o ano passado, Miranda lamentou. &ldquo;Lament&aacute;vel o volume de recurso que vai para o agroneg&oacute;cio. Lament&aacute;vel a prioridade que o governo d&aacute; para a agricultura que tem a produ&ccedil;&atilde;o voltada para as commodities de exporta&ccedil;&atilde;o, principalmente soja e milho&rdquo;.</p>
 
 <p><br />
 Para a agricultura familiar, que tamb&eacute;m teve um acr&eacute;scimo de 20% nos recursos, totalizando R$ 28,9 bilh&otilde;es, Miranda comenta que esse volume n&atilde;o corresponde a quantidade de fam&iacute;lias produzindo no campo. &ldquo;Se todas as fam&iacute;lias acessassem o recurso faltaria dinheiro. Do jeito que est&aacute;, o Pronaf &eacute; excludente, contempla n&atilde;o mais que 80 mil fam&iacute;lias. O volume de recurso n&atilde;o &eacute; a quest&atilde;o e sim a forma de se ter acesso ao recurso. Sobre o Plano da Reforma Agr&aacute;ria que vem a&iacute;, esperamos que seja para a conquista de &aacute;reas. N&atilde;o d&aacute; para o governo ficar no discurso de melhorias dos assentamentos.</p>
 
 <p><br />
-No &uacute;ltimo per&iacute;odo, o MST e outros movimentos que lutam pela terra n&atilde;o obtiveram conquistas de &aacute;reas, novos assentamentos. O que houve foi regulariza&ccedil;&atilde;o fundi&aacute;ria e n&atilde;o desapropria&ccedil;&atilde;o para assentar novas fam&iacute;lias. E o reflexo disso a gente percebe no pre&ccedil;o dos alimentos. A agricultura familiar n&atilde;o est&aacute; produzindo. Se investe na agricultura para exportar e o alimento precisa ser importado, com isso os pre&ccedil;os sobem. Precisamos de mais &aacute;reas e de recursos desburocratizados para produzirmos alimentos saud&aacute;veis&rdquo;, finalizou.</p>
+No &uacute;ltimo per&iacute;odo, o MST e outros movimentos que lutam pela terra n&atilde;o obtiveram conquistas de &aacute;reas, novos assentamentos. O que houve foi regulariza&ccedil;&atilde;o fundi&aacute;ria e n&atilde;o desapropria&ccedil;&atilde;o para assentar novas fam&iacute;lias. E o reflexo disso a gente percebe no pre&ccedil;o dos alimentos. A agricultura familiar n&atilde;o est&aacute; produzindo. Se investe na agricultura para exportar e o alimento precisa ser importado, com isso os pre&ccedil;os sobem. Precisamos de mais &aacute;reas e de recursos desburocratizados para produzirmos alimentos saud&aacute;veis&rdquo;, finalizou.<br />
+&nbsp;</p>
+
+<p><img alt="reportagem_PR10.jpeg" src="http://farm4.staticflickr.com/3782/19859481476_d66fa53f4e_b.jpg" /></p>
 
 <p><br />
 <strong>Juventude Sem Terra</strong></p>
@@ -197,8 +229,16 @@ No &uacute;ltimo per&iacute;odo, o MST e outros movimentos que lutam pela terra 
 <p><br />
 Caracter&iacute;stica peculiar do Acampamento Herdeiros da Terra de 1&ordm; de Maio foi a constru&ccedil;&atilde;o, desde a massifica&ccedil;&atilde;o, por jovens, em especial filhos de assentados. Wellington Lenon, acampado e do setor de comunica&ccedil;&atilde;o do MST, explica que um coletivo de jovens, desde a &eacute;poca do acampamento base se mobilizava junto &agrave;s fam&iacute;lias dos assentamentos da regi&atilde;o para o debate e constru&ccedil;&atilde;o da ocupa&ccedil;&atilde;o. Essa foi a primeira tarefa da juventude. &ldquo;O papel da juventude foi de mobilizar e organizar a pr&oacute;pria juventude para ocupar.</p>
 
-<p><br />
-Agora, depois de um ano, essa mesma juventude vem discutindo as estrat&eacute;gias para a resist&ecirc;ncia na &aacute;rea e a inser&ccedil;&atilde;o destes jovens ocorre em todas as inst&acirc;ncias do acampamento. Desde a coordena&ccedil;&atilde;o, passando pelos setores. Temos um coletivo pensando a quest&atilde;o da renda, escrevendo projetos, participando de editais. Temos um coletivo que organiza a cultura e a comunica&ccedil;&atilde;o. Outro grupo j&aacute; inicia os debates sobre a agroecologia. Tem muito jovem do acampamento fazendo os cursos que o MST oferece de agroecologia, agronomia. A Juventude tem um papel permanente aqui no acampamento&rdquo;.</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="reportagem_PR11.png" src="http://farm1.staticflickr.com/543/19878249472_74b2817d38_b.jpg" />
+<figcaption>Legenda</figcaption>
+</figure>
+
+<p>Agora, depois de um ano, essa mesma juventude vem discutindo as estrat&eacute;gias para a resist&ecirc;ncia na &aacute;rea e a inser&ccedil;&atilde;o destes jovens ocorre em todas as inst&acirc;ncias do acampamento. Desde a coordena&ccedil;&atilde;o, passando pelos setores. Temos um coletivo pensando a quest&atilde;o da renda, escrevendo projetos, participando de editais. Temos um coletivo que organiza a cultura e a comunica&ccedil;&atilde;o. Outro grupo j&aacute; inicia os debates sobre a agroecologia. Tem muito jovem do acampamento fazendo os cursos que o MST oferece de agroecologia, agronomia. A Juventude tem um papel permanente aqui no acampamento&rdquo;.</p>
 
 <p><br />
-Lenon explica ainda que se debate com profundidade a quest&atilde;o da perman&ecirc;ncia da juventude no campo. &ldquo;Sempre abordamos o tema do &ecirc;xodo da juventude que conquista o assentamento e as vezes &eacute; induzida pelas ind&uacute;strias ou pela pr&oacute;pria m&iacute;dia a deixar o campo. Fazemos essa reflex&atilde;o de que precisamos garantir a nossa perman&ecirc;ncia e com isso construir as demandas para que essa perman&ecirc;ncia se efetive. Que assentamento queremos. Queremos esporte, lazer, cultura, comunica&ccedil;&atilde;o. A juventude do campo precisa de acesso. Garantir, principalmente, o acesso a educa&ccedil;&atilde;o de qualidade. Para permanecermos no campo, mas n&atilde;o s&oacute; para trabalhar na ro&ccedil;a. Para permanecermos no campo com forma&ccedil;&atilde;o. Com sa&uacute;de, m&eacute;dicos, assist&ecirc;ncia t&eacute;cnica. Precisamos garantir nossos direitos. Por que n&atilde;o podemos ter um teatro ou um cinema no assentamento? &Eacute; um direito da juventude&rdquo;.</p>
+Lenon explica ainda que se debate com profundidade a quest&atilde;o da perman&ecirc;ncia da juventude no campo. &ldquo;Sempre abordamos o tema do &ecirc;xodo da juventude que conquista o assentamento e as vezes &eacute; induzida pelas ind&uacute;strias ou pela pr&oacute;pria m&iacute;dia a deixar o campo. Fazemos essa reflex&atilde;o de que precisamos garantir a nossa perman&ecirc;ncia e com isso construir as demandas para que essa perman&ecirc;ncia se efetive. Que assentamento queremos. Queremos esporte, lazer, cultura, comunica&ccedil;&atilde;o. A juventude do campo precisa de acesso. Garantir, principalmente, o acesso a educa&ccedil;&atilde;o de qualidade. Para permanecermos no campo, mas n&atilde;o s&oacute; para trabalhar na ro&ccedil;a. Para permanecermos no campo com forma&ccedil;&atilde;o. Com sa&uacute;de, m&eacute;dicos, assist&ecirc;ncia t&eacute;cnica. Precisamos garantir nossos direitos. Por que n&atilde;o podemos ter um teatro ou um cinema no assentamento? &Eacute; um direito da juventude&rdquo;.<br />
+&nbsp;</p>
+
+<p><img alt="reportagem_PR12.jpeg" src="http://farm1.staticflickr.com/434/19878260342_1ed80fa766_b.jpg" /></p>
