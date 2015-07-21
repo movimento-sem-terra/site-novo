@@ -11,6 +11,12 @@ $(document).ready(function() {
         image += '</a>';
 
       }
+      var support_line = '';
+
+      if(!!post.support_line){
+        support_line = '<p class="support-line">'+post.support_line+'</p>';
+      }
+
       var article = '<article class="headline">'+
         image +
         '<time datetime="'+post.date+'">'+
@@ -19,8 +25,9 @@ $(document).ready(function() {
         '<h1>'+
         '<a href="'+post.url+'">'+post.title+'</a>'+
         '</h1>'+
-        '<p class="support-line">'+post.support_line+'</p>'+
+        support_line +
         '</article>';
+
 
 
 
