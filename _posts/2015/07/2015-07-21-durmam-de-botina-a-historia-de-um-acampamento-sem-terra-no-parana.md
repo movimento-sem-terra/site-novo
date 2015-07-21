@@ -129,9 +129,10 @@ Dimas tamb&eacute;m &eacute; volunt&aacute;rio na cozinha da Escola Itinerante d
 A Escola Itinerante do acampamento atende 560 alunos da educa&ccedil;&atilde;o infantil, ensino m&eacute;dio e ainda turmas de EJA fase I, II e III. Segundo Juliana Cristina de Mello, acampada e educadora, a Escola Itinerante tem caracter&iacute;sticas pr&oacute;prias.</p>
 
 <p style="text-align: center;"><br />
-<em>&ldquo;A educa&ccedil;&atilde;o no acampamento &eacute; diferente, a forma de se abordar a quest&atilde;o do conhecimento &eacute; sempre buscando despertar o senso cr&iacute;tico no sujeito. A forma de tomada de decis&otilde;es da escola, conta com a participa&ccedil;&atilde;o da comunidade e dos educandos&rdquo;, comenta.</em></p>
+<em>&ldquo;A educa&ccedil;&atilde;o no acampamento &eacute; diferente, a forma de se abordar a quest&atilde;o do conhecimento &eacute; sempre buscando despertar o senso cr&iacute;tico no sujeito. A forma de tomada de decis&otilde;es da escola, conta com a participa&ccedil;&atilde;o da comunidade e dos educandos&rdquo;, comenta.</em><br />
+&nbsp;</p>
 
-<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;"><img alt="reportagem_PR5.jpeg" src="http://farm1.staticflickr.com/353/19877994872_2e2b2730a2_b.jpg" /></p>
 
 <p><br />
 Uma das dificuldades apontadas por Juliana &eacute; a rotatividade dos professores da rede estadual que trabalham no acampamento. &ldquo;Temos alguns professores que est&atilde;o acampados, com esses conseguimos construir essa forma de educar diferenciada.</p>
@@ -140,7 +141,10 @@ Uma das dificuldades apontadas por Juliana &eacute; a rotatividade dos professor
 Mas a maioria s&atilde;o professores que n&atilde;o conhecem a nossa pedagogia e tamb&eacute;m n&atilde;o sabemos at&eacute; quando dar&atilde;o aulas por aqui. N&atilde;o d&atilde;o conta de assumir compromisso com a proposta pedag&oacute;gica. Por isso defendemos que o professor possa ter 40 horas fechadas em uma &uacute;nica escola&rdquo;.</p>
 
 <p><br />
-Juliana Ribas, sem-terrinha, 12 anos, lembra que a escola itinerante levou dois meses para ser instalada. &ldquo;Antes da itinerante funcionar aqui no acampamento era complicado para estudar. Tinha um &ocirc;nibus que levava a gente l&aacute; na escola do assentamento Marcos Freire, mas sempre ficava gente pra tr&aacute;s, n&atilde;o cabia todo mundo&rdquo;.</p>
+Juliana Ribas, sem-terrinha, 12 anos, lembra que a escola itinerante levou dois meses para ser instalada. &ldquo;Antes da itinerante funcionar aqui no acampamento era complicado para estudar. Tinha um &ocirc;nibus que levava a gente l&aacute; na escola do assentamento Marcos Freire, mas sempre ficava gente pra tr&aacute;s, n&atilde;o cabia todo mundo&rdquo;.<br />
+&nbsp;</p>
+
+<p><img alt="reportagem_PR6.jpeg" src="http://farm1.staticflickr.com/292/19890480151_b43e7a5d02_b.jpg" /></p>
 
 <p style="text-align: center;"><br />
 <em>&ldquo;..Atualmente, com a escola funcionando no acampamento, Juliana n&atilde;o perde mais aulas. &ldquo;Agora n&atilde;o perdemos mais aulas, a nossa escola funciona em ciclos de forma&ccedil;&atilde;o humana, trabalhamos com as por&ccedil;&otilde;es da realidade e fica melhor para aprender porque &eacute; de acordo como o que a gente vive, de acordo com a nossa realidade, &eacute; a pedagogia do MST&rdquo;.</em></p>
@@ -149,7 +153,10 @@ Juliana Ribas, sem-terrinha, 12 anos, lembra que a escola itinerante levou dois 
 Mesmo assim, a sem-terrinha se preocupa com o futuro da educa&ccedil;&atilde;o. &ldquo;Eu estou com medo de quando a gente for para o lote mudar toda essa realidade. Aqui a gente est&aacute; perto de todo mundo. Nosso acampamento est&aacute; bem estruturado. Tem a r&aacute;dio poste que a gente usa para informar as pessoas, quando tem alguma urg&ecirc;ncia. Tem o mercado, a panificadora, a borracharia&rdquo;, comenta.</p>
 
 <p><br />
-Perguntada se sabia o que gostaria de &ldquo;ser quando crescer&rdquo;: &ldquo;Antes eu sabia. Eu queria ser policial. Mas de acordo com a minha realidade agora, essa profiss&atilde;o n&atilde;o serve mais. Veja, nem todos os policiais s&atilde;o assim mas muitos dizem que sem-terra n&atilde;o presta, que est&aacute; invadindo as terras. Os sem terra est&atilde;o ocupando. Essas terras aqui s&atilde;o griladas, foram tomadas a for&ccedil;a. Isso n&atilde;o &eacute; justo&rdquo;.</p>
+Perguntada se sabia o que gostaria de &ldquo;ser quando crescer&rdquo;: &ldquo;Antes eu sabia. Eu queria ser policial. Mas de acordo com a minha realidade agora, essa profiss&atilde;o n&atilde;o serve mais. Veja, nem todos os policiais s&atilde;o assim mas muitos dizem que sem-terra n&atilde;o presta, que est&aacute; invadindo as terras. Os sem terra est&atilde;o ocupando. Essas terras aqui s&atilde;o griladas, foram tomadas a for&ccedil;a. Isso n&atilde;o &eacute; justo&rdquo;.<br />
+&nbsp;</p>
+
+<p><img alt="reportagem_PR7.jpeg" src="http://farm1.staticflickr.com/431/19264555293_fb8a560e23_b.jpg" /></p>
 
 <p><br />
 Sobre a Reforma Agr&aacute;ria, Juliana explica que as terras griladas da Araupel servem s&oacute; para monocultivo de madeira. &ldquo;O povo que est&aacute; aqui quer terra para se manter, plantar arroz, feij&atilde;o, alimento saud&aacute;vel. O monocultivo gera pouco emprego e a renda &eacute; s&oacute; para um e nem sempre fica no pa&iacute;s, manda l&aacute; para fora. Quando a gente chegou aqui, n&atilde;o existia nem formiga nestas terras, de tanto veneno que era passado aqui&rdquo;.</p>
@@ -161,7 +168,13 @@ Ainda indagada sobre a dificuldade para se fazer a distribui&ccedil;&atilde;o de
 <em>O burgu&ecirc;s l&aacute; de cima, sabe que a vida n&atilde;o &eacute; f&aacute;cil para o pobre, que &eacute; preciso distribuir a terra. A&iacute; vai l&aacute; e paga para a r&aacute;dio, paga para o pol&iacute;tico dizer que a terra n&atilde;o &eacute; grilada, que n&atilde;o &eacute; da Uni&atilde;o. Ele ganha milh&otilde;es e acha que pode comprar tudo. Ele quer que seja tudo dele, para fazer monocultura&rdquo;.</em></p>
 
 <p><br />
-<strong>Um novo momento da luta pela terra</strong></p>
+&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="reportagem_PR8.jpeg" src="http://farm1.staticflickr.com/329/19878038952_c539e1ee07_b.jpg" />
+<figcaption>Legenda</figcaption>
+</figure>
+
+<p><strong>Um novo momento da luta pela terra</strong></p>
 
 <p><br />
 Ant&ocirc;nio de Miranda, da dire&ccedil;&atilde;o nacional do MST, aponta um bom momento da luta pela terra. &ldquo;O MST vem fazendo uma intensifica&ccedil;&atilde;o da luta. Temos v&aacute;rios focos de ocupa&ccedil;&atilde;o. Em Goi&aacute;s, no Mato Grosso do Sul, e aqui no Paran&aacute; temos uma boa perspectiva, uma an&aacute;lise que seja poss&iacute;vel, ainda neste ano, sair o processo para constituirmos o assentamento&rdquo;, comenta.</p>
