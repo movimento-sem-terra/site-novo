@@ -6,7 +6,7 @@ title: Durmam de botina; a história de um acampamento Sem Terra no Paraná
 section: cover
 support_line: Reportagem com ensaio fotográfico conta a história de um dos maiores acampamentos da atualidade no Brasil.
 menu: reforma agrária
-images_hd: "http://farm1.staticflickr.com/535/19262578494_69b2fd0dcd_b.jpg"
+images_hd: "http://farm1.staticflickr.com/353/19877994872_2e2b2730a2_b.jpg"
 layout: post
 files:
   - link: "http://farm1.staticflickr.com/497/19264294723_db47390600_b.jpg"
@@ -33,6 +33,30 @@ files:
     small: "http://farm1.staticflickr.com/299/19890261611_a82c150ebc_n.jpg"
     title: "reportagem_PR2!.jpg"
     $$hashKey: 0CC
+  - link: "http://farm1.staticflickr.com/353/19877994872_2e2b2730a2_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/353/19877994872_2e2b2730a2_t.jpg"
+    medium: "http://farm1.staticflickr.com/353/19877994872_2e2b2730a2_z.jpg"
+    small: "http://farm1.staticflickr.com/353/19877994872_2e2b2730a2_n.jpg"
+    title: reportagem_PR5.jpeg
+    $$hashKey: 04H
+  - link: "http://farm1.staticflickr.com/292/19890480151_b43e7a5d02_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/292/19890480151_b43e7a5d02_t.jpg"
+    medium: "http://farm1.staticflickr.com/292/19890480151_b43e7a5d02_z.jpg"
+    small: "http://farm1.staticflickr.com/292/19890480151_b43e7a5d02_n.jpg"
+    title: reportagem_PR6.jpeg
+    $$hashKey: 04K
+  - link: "http://farm1.staticflickr.com/431/19264555293_fb8a560e23_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/431/19264555293_fb8a560e23_t.jpg"
+    medium: "http://farm1.staticflickr.com/431/19264555293_fb8a560e23_z.jpg"
+    small: "http://farm1.staticflickr.com/431/19264555293_fb8a560e23_n.jpg"
+    title: reportagem_PR7.jpeg
+    $$hashKey: 04N
+  - link: "http://farm1.staticflickr.com/329/19878038952_c539e1ee07_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/329/19878038952_c539e1ee07_t.jpg"
+    medium: "http://farm1.staticflickr.com/329/19878038952_c539e1ee07_z.jpg"
+    small: "http://farm1.staticflickr.com/329/19878038952_c539e1ee07_n.jpg"
+    title: reportagem_PR8.jpeg
+    $$hashKey: 04Q
 created_date: "2015-07-21T09:38:27-03:00"
 published: true
 releated_posts: []
@@ -88,7 +112,7 @@ Cultivam, coletivamente, 200 hectares de terra. Produzem de forma agroecol&oacut
 
 <p><br />
 Dimas da Silva Lemes, 68 anos e uma energia de crian&ccedil;a, respons&aacute;vel por uma horta comunit&aacute;ria que produz &ldquo;tudo de &eacute;poca&rdquo;, e &ldquo;n&atilde;o tem veneno, &eacute; org&acirc;nico, &eacute; tudo limpinho&rdquo;, afirma que est&aacute; na luta por um peda&ccedil;o de terra pois, quando trabalhava na cidade, queria que quando se aposentasse &ldquo;fosse para um lugar pacato&rdquo;.<br />
-<img alt="reportagem_PR3.jpeg" src="http://farm1.staticflickr.com/535/19262578494_69b2fd0dcd_b.jpg" /></p>
+&nbsp;</p>
 
 <p><img alt="reportagem_PR4.jpeg" src="http://farm4.staticflickr.com/3820/19697213728_751328d1f3_b.jpg" /></p>
 
@@ -106,6 +130,8 @@ A Escola Itinerante do acampamento atende 560 alunos da educa&ccedil;&atilde;o i
 
 <p style="text-align: center;"><br />
 <em>&ldquo;A educa&ccedil;&atilde;o no acampamento &eacute; diferente, a forma de se abordar a quest&atilde;o do conhecimento &eacute; sempre buscando despertar o senso cr&iacute;tico no sujeito. A forma de tomada de decis&otilde;es da escola, conta com a participa&ccedil;&atilde;o da comunidade e dos educandos&rdquo;, comenta.</em></p>
+
+<p style="text-align: center;">&nbsp;</p>
 
 <p><br />
 Uma das dificuldades apontadas por Juliana &eacute; a rotatividade dos professores da rede estadual que trabalham no acampamento. &ldquo;Temos alguns professores que est&atilde;o acampados, com esses conseguimos construir essa forma de educar diferenciada.</p>
