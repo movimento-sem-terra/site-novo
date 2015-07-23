@@ -135,7 +135,7 @@ A movimenta&ccedil;&atilde;o no acampamento, &agrave;quela altura com mais de 2m
 <p>&nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="reportagem_PR3.jpeg" src="http://farm1.staticflickr.com/535/19262578494_69b2fd0dcd_b.jpg" />
-<figcaption>Legenda</figcaption>
+<figcaption></figcaption>
 </figure>
 
 <p>Afinal, o MST s&oacute; existe por causa da terra. Lutar pela terra, fazer a reforma agr&aacute;ria e transformar a sociedade, eis os pilares do Movimento.</p>
@@ -150,7 +150,7 @@ O Acampamento Herdeiros da Terra de 1&ordm; de Maio tem uma caracter&iacute;stic
 &nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="reportagem_PR2!.jpg" src="http://farm1.staticflickr.com/299/19890261611_a82c150ebc_b.jpg" />
-<figcaption>Legenda</figcaption>
+<figcaption></figcaption>
 </figure>
 
 <p><strong>Um ano de resist&ecirc;ncia</strong></p>
@@ -222,7 +222,7 @@ Ainda indagada sobre a dificuldade para se fazer a distribui&ccedil;&atilde;o de
 &nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="reportagem_PR8.jpeg" src="http://farm1.staticflickr.com/329/19878038952_c539e1ee07_b.jpg" />
-<figcaption>Legenda</figcaption>
+<figcaption></figcaption>
 </figure>
 
 <p><strong>Um novo momento da luta pela terra</strong></p>
@@ -236,7 +236,7 @@ Miranda tamb&eacute;m aponta que, de acordo com o planejamento que j&aacute; vem
 <p>&nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="reportagem_PR9.png" src="http://farm1.staticflickr.com/304/19264752343_b46f2d44e7_b.jpg" />
-<figcaption>Legenda</figcaption>
+<figcaption></figcaption>
 </figure>
 
 <p>Indagado sobre o lan&ccedil;amento do Plano Agr&iacute;cola e Pecu&aacute;rio 2015/16, com R$ 180 bilh&otilde;es, 20% a mais que o ano passado, Miranda lamentou. &ldquo;Lament&aacute;vel o volume de recurso que vai para o agroneg&oacute;cio. Lament&aacute;vel a prioridade que o governo d&aacute; para a agricultura que tem a produ&ccedil;&atilde;o voltada para as commodities de exporta&ccedil;&atilde;o, principalmente soja e milho&rdquo;.</p>
@@ -259,7 +259,7 @@ Caracter&iacute;stica peculiar do Acampamento Herdeiros da Terra de 1&ordm; de M
 <p>&nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="reportagem_PR11.png" src="http://farm1.staticflickr.com/543/19878249472_74b2817d38_b.jpg" />
-<figcaption>Legenda</figcaption>
+<figcaption>A Sem Terrinha Juliana Ribas.</figcaption>
 </figure>
 
 <p>Agora, depois de um ano, essa mesma juventude vem discutindo as estrat&eacute;gias para a resist&ecirc;ncia na &aacute;rea e a inser&ccedil;&atilde;o destes jovens ocorre em todas as inst&acirc;ncias do acampamento. Desde a coordena&ccedil;&atilde;o, passando pelos setores. Temos um coletivo pensando a quest&atilde;o da renda, escrevendo projetos, participando de editais. Temos um coletivo que organiza a cultura e a comunica&ccedil;&atilde;o. Outro grupo j&aacute; inicia os debates sobre a agroecologia. Tem muito jovem do acampamento fazendo os cursos que o MST oferece de agroecologia, agronomia. A Juventude tem um papel permanente aqui no acampamento&rdquo;.</p>
@@ -268,7 +268,10 @@ Caracter&iacute;stica peculiar do Acampamento Herdeiros da Terra de 1&ordm; de M
 Lenon explica ainda que se debate com profundidade a quest&atilde;o da perman&ecirc;ncia da juventude no campo. &ldquo;Sempre abordamos o tema do &ecirc;xodo da juventude que conquista o assentamento e as vezes &eacute; induzida pelas ind&uacute;strias ou pela pr&oacute;pria m&iacute;dia a deixar o campo. Fazemos essa reflex&atilde;o de que precisamos garantir a nossa perman&ecirc;ncia e com isso construir as demandas para que essa perman&ecirc;ncia se efetive. Que assentamento queremos. Queremos esporte, lazer, cultura, comunica&ccedil;&atilde;o. A juventude do campo precisa de acesso. Garantir, principalmente, o acesso a educa&ccedil;&atilde;o de qualidade. Para permanecermos no campo, mas n&atilde;o s&oacute; para trabalhar na ro&ccedil;a. Para permanecermos no campo com forma&ccedil;&atilde;o. Com sa&uacute;de, m&eacute;dicos, assist&ecirc;ncia t&eacute;cnica. Precisamos garantir nossos direitos. Por que n&atilde;o podemos ter um teatro ou um cinema no assentamento? &Eacute; um direito da juventude&rdquo;.<br />
 &nbsp;</p>
 
-<p><img alt="reportagem_PR12.jpeg" src="http://farm1.staticflickr.com/434/19878260342_1ed80fa766_b.jpg" /></p>
+<figure class="image"><img alt="reportagem_PR12.jpeg" src="http://farm1.staticflickr.com/434/19878260342_1ed80fa766_b.jpg" />
+<figcaption>Juliana Cristina de Mello, educadora e acampada.<br />
+</figcaption>
+</figure>
 
 <p><br />
 <img alt="reportagem_PR14.jpeg" src="http://farm4.staticflickr.com/3816/19264909173_d9eaeab6ca_b.jpg" /></p>
