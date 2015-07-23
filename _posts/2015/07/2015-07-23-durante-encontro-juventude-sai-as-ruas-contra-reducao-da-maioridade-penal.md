@@ -35,7 +35,7 @@ releated_posts:
 
 ---
 <figure class="image" style="float:right"><img alt="juv_es.jpg" src="http://farm4.staticflickr.com/3811/19326846623_985bd0e12d_b.jpg" />
-<figcaption>Legenda</figcaption>
+<figcaption></figcaption>
 </figure>
 
 <p><br />
