@@ -6,7 +6,7 @@ tags:
 title: "Durante encontro, juventude sai às ruas contra redução da maioridade penal"
 menu: projeto popular
 support_line: Cerca de 250 jovens do Espírito Santo protestaram contra a proposta. O estado é o 2º colocado entre os mais violento do país.
-images_hd: "http://farm4.staticflickr.com/3811/19326846623_985bd0e12d_b.jpg"
+images_hd: "http://farm1.staticflickr.com/267/19760097630_1c5be79c27_b.jpg"
 layout: post
 files:
   - link: "http://farm4.staticflickr.com/3811/19326846623_985bd0e12d_b.jpg"
@@ -15,6 +15,12 @@ files:
     small: "http://farm4.staticflickr.com/3811/19326846623_985bd0e12d_n.jpg"
     title: juv_es.jpg
     $$hashKey: 0B1
+  - link: "http://farm1.staticflickr.com/267/19760097630_1c5be79c27_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/267/19760097630_1c5be79c27_t.jpg"
+    medium: "http://farm1.staticflickr.com/267/19760097630_1c5be79c27_z.jpg"
+    small: "http://farm1.staticflickr.com/267/19760097630_1c5be79c27_n.jpg"
+    title: juves.jpg
+    $$hashKey: 05I
 created_date: "2015-07-23T14:55:22-03:00"
 published: true
 releated_posts:
