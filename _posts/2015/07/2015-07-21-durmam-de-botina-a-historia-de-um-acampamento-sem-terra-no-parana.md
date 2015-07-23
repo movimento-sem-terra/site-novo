@@ -6,7 +6,7 @@ tags:
   - tag: acampamento
   - tag: paraná
 title: Durmam de botina; a história de um acampamento Sem Terra no Paraná
-section: cover
+section: featured-news
 support_line: Reportagem com ensaio fotográfico conta a história de um dos maiores acampamentos da atualidade no Brasil.
 menu: reforma agrária
 images_hd: "http://farm1.staticflickr.com/353/19877994872_2e2b2730a2_b.jpg"
