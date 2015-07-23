@@ -7,7 +7,7 @@ tags:
 title: "Dez anos de ENFF, um sonho construído a muitas mãos"
 menu: "educação, cultura e comunicação"
 section: featured-news
-images_hd: "http://farm4.staticflickr.com/3831/19583887240_d7338bf004_b.jpg"
+images_hd: "http://farm1.staticflickr.com/335/19893115955_10c1f2f23d_b.jpg"
 support_line: Mais de 1.000 Sem Terra de centenas de assentamentos e acampamentos de todo o Brasil ajudaram a levantar a Escola Nacional Florestan Fernandes há dez anos.
 sector: education
 layout: post
@@ -30,18 +30,41 @@ files:
     small: "http://farm1.staticflickr.com/495/19776642601_31f9e06551_n.jpg"
     title: casa.jpg
     $$hashKey: "030"
-  - link: "http://farm4.staticflickr.com/3831/19583887240_d7338bf004_b.jpg"
-    thumbnail: "http://farm4.staticflickr.com/3831/19583887240_d7338bf004_t.jpg"
-    medium: "http://farm4.staticflickr.com/3831/19583887240_d7338bf004_z.jpg"
-    small: "http://farm4.staticflickr.com/3831/19583887240_d7338bf004_n.jpg"
-    title: escola.jpg
-    $$hashKey: "033"
-  - link: "http://farm1.staticflickr.com/394/19776655471_a744d2b50b_b.jpg"
-    thumbnail: "http://farm1.staticflickr.com/394/19776655471_a744d2b50b_t.jpg"
-    medium: "http://farm1.staticflickr.com/394/19776655471_a744d2b50b_z.jpg"
-    small: "http://farm1.staticflickr.com/394/19776655471_a744d2b50b_n.jpg"
-    title: plenaria.jpg
-    $$hashKey: "036"
+  - link: "http://farm1.staticflickr.com/335/19893115955_10c1f2f23d_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/335/19893115955_10c1f2f23d_t.jpg"
+    medium: "http://farm1.staticflickr.com/335/19893115955_10c1f2f23d_z.jpg"
+    small: "http://farm1.staticflickr.com/335/19893115955_10c1f2f23d_n.jpg"
+    title: "Daneil_Vigletti!.jpg"
+    $$hashKey: 05D
+  - link: "http://farm1.staticflickr.com/386/19270517904_08b4ac2fda_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/386/19270517904_08b4ac2fda_t.jpg"
+    medium: "http://farm1.staticflickr.com/386/19270517904_08b4ac2fda_z.jpg"
+    small: "http://farm1.staticflickr.com/386/19270517904_08b4ac2fda_n.jpg"
+    title: "KODAK!!.jpg"
+    $$hashKey: 05G
+  - link: "http://farm1.staticflickr.com/524/19706587679_67d90f3657_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/524/19706587679_67d90f3657_t.jpg"
+    medium: "http://farm1.staticflickr.com/524/19706587679_67d90f3657_z.jpg"
+    small: "http://farm1.staticflickr.com/524/19706587679_67d90f3657_n.jpg"
+    title: ENFF - 100.jpg
+    $$hashKey: 05J
+  - link: "http://farm1.staticflickr.com/349/19885852062_54ac2fee13_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/349/19885852062_54ac2fee13_t.jpg"
+    medium: "http://farm1.staticflickr.com/349/19885852062_54ac2fee13_z.jpg"
+    small: "http://farm1.staticflickr.com/349/19885852062_54ac2fee13_n.jpg"
+    title: enff1.jpg
+    $$hashKey: 05M
+  - link: "http://farm1.staticflickr.com/327/19272672213_944008d542_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/327/19272672213_944008d542_t.jpg"
+    medium: "http://farm1.staticflickr.com/327/19272672213_944008d542_z.jpg"
+    small: "http://farm1.staticflickr.com/327/19272672213_944008d542_n.jpg"
+    title: ENFF - 090.jpg
+    $$hashKey: 05J
+  - link: "http://farm1.staticflickr.com/267/19705593798_5710f59553_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/267/19705593798_5710f59553_t.jpg"
+    medium: "http://farm1.staticflickr.com/267/19705593798_5710f59553_z.jpg"
+    small: "http://farm1.staticflickr.com/267/19705593798_5710f59553_n.jpg"
+    title: ENFF - 090.jpg
 created_date: "2015-07-17T09:37:36-03:00"
 published: true
 releated_posts:
@@ -53,7 +76,7 @@ releated_posts:
   - 2015/01/2015-01-22-em-visita-a-enff-lula-destaca-a-importancia-da-formacao-politica.md
 
 ---
-<p><img alt="escola.jpg" src="http://farm4.staticflickr.com/3831/19583887240_d7338bf004_b.jpg" /><br />
+<p><img alt="Daneil_Vigletti!.jpg" src="http://farm1.staticflickr.com/335/19893115955_10c1f2f23d_b.jpg" /><br />
 <br />
 <em>Por Maura Silva<br />
 Da P&aacute;gina do MST</em></p>
@@ -65,7 +88,10 @@ Foram mais de 1.000 pessoas, entre homens e mulheres, organizadas em 25 brigadas
 Batizada com o nome de um dos maiores soci&oacute;logos e pol&iacute;ticos brasileiros, muitos consideram a ENFF o resultado da ideia, da for&ccedil;a, do trabalho volunt&aacute;rio, da persist&ecirc;ncia e solidariedade de diversos atores sociais &ldquo;que acreditam numa educa&ccedil;&atilde;o e forma&ccedil;&atilde;o de qualidade e que lutam para romper com as cercas da ignor&acirc;ncia, do latif&uacute;ndio e do capital&rdquo;, acredita Paulo Almeida, da coordena&ccedil;&atilde;o pol&iacute;tica pedag&oacute;gica da escola.</p>
 
 <p><br />
-Filho de assentados do Rio Grande do Sul, Almeida comenta que a ENFF nasceu com a responsabilidade de ser um modelo de escola p&uacute;blica, gratuita e de qualidade defendido por Florestan Fernandes, e cuja constru&ccedil;&atilde;o foi regida por dois valores fundamentais: o estudo e o trabalho.</p>
+Filho de assentados do Rio Grande do Sul, Almeida comenta que a ENFF nasceu com a responsabilidade de ser um modelo de escola p&uacute;blica, gratuita e de qualidade defendido por Florestan Fernandes, e cuja constru&ccedil;&atilde;o foi regida por dois valores fundamentais: o estudo e o trabalho.<br />
+&nbsp;</p>
+
+<p><img alt="ENFF - 100.jpg" src="http://farm1.staticflickr.com/524/19706587679_67d90f3657_b.jpg" /></p>
 
 <p><br />
 A ideia da constru&ccedil;&atilde;o de um espa&ccedil;o de forma&ccedil;&atilde;o para a classe trabalhadora surgiu durante uma reuni&atilde;o da coordena&ccedil;&atilde;o nacional do MST feita no estado de Sergipe, em 1996.</p>
@@ -73,12 +99,14 @@ A ideia da constru&ccedil;&atilde;o de um espa&ccedil;o de forma&ccedil;&atilde;
 <p><br />
 No mesmo ano come&ccedil;ou o processo de arrecada&ccedil;&atilde;o, que durou at&eacute; 1999. A maior parte dos recursos vieram da venda das fotos de Sebasti&atilde;o Salgado e do livro Terra, uma cole&ccedil;&atilde;o que trazia junto &agrave;s c&eacute;lebres fotos Sebasti&atilde;o Salgado, texto do escritor portugu&ecirc;s Jos&eacute; Saramago e m&uacute;sicas de Chico Buarque. Os tr&ecirc;s artistas doaram os direitos autorais aos Sem Terra.</p>
 
-<figure class="image"><img alt="plenaria.jpg" src="http://farm1.staticflickr.com/394/19776655471_a744d2b50b_b.jpg" />
-<figcaption>celebra&ccedil;&atilde;o de 10 anos da ENFFLegenda</figcaption>
+<p style="text-align: right;"><br />
+&nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="enff1.jpg" src="http://farm1.staticflickr.com/349/19885852062_54ac2fee13_b.jpg" />
+<figcaption>Legenda</figcaption>
 </figure>
 
-<p style="text-align: right;"><br />
-<em>&ldquo;Quando eu morrer, que me enterrem<br />
+<p style="text-align: right;"><em>&ldquo;Quando eu morrer, que me enterrem<br />
 Na Beira do chapad&atilde;o<br />
 Contente com minha terra<br />
 Cansado de tanta guerra<br />
@@ -112,6 +140,10 @@ Aos 39 anos de idade, Eridan Alves Pereira, &agrave; &eacute;poca acampado no es
 <p><br />
 &ldquo;Cheguei a S&atilde;o Paulo em maio de 2002. Estava a 40 dias acampado, quando outros companheiros e eu fomos convidados para participar inicialmente da constru&ccedil;&atilde;o e, depois, da brigada permanente&rdquo;, conta.</p>
 
+<figure class="image" style="float:right"><img alt="caroço.jpg" src="http://farm1.staticflickr.com/467/19764620572_ccb07b6df2_b.jpg" />
+<figcaption>O Sem Terra Caro&ccedil;o, um dos mil que passaram pela constru&ccedil;&atilde;o da ENFF.Legenda</figcaption>
+</figure>
+
 <p><br />
 &ldquo;Comecei a trabalhar como pedreiro logo em seguida passei a desenvolver servi&ccedil;os de el&eacute;trica e hidr&aacute;ulica. Aprendi tudo aqui. Terminei os meus estudos em Guararema. S&atilde;o poucos espa&ccedil;os no Brasil que possibilitam esse grau de conhecimento e intera&ccedil;&atilde;o com outros povos&rdquo;.</p>
 
@@ -121,13 +153,8 @@ Para ele, a constru&ccedil;&atilde;o j&aacute; fora um grande desafio, mas mant&
 <p><br />
 &ldquo;Me lembro que na &eacute;poca da constru&ccedil;&atilde;o nos pergunt&aacute;vamos se essa seria uma escola feita por Sem Terra para Sem Terra e hoje, 15 anos depois, s&oacute; quem est&aacute; aqui sabe o que isso significou e significa&rdquo;.</p>
 
-<p>&nbsp;</p>
-
-<figure class="image" style="float:right"><img alt="caroço.jpg" src="http://farm1.staticflickr.com/467/19764620572_ccb07b6df2_b.jpg" />
-<figcaption>O Sem Terra Caro&ccedil;o, um dos mil que passaram pela constru&ccedil;&atilde;o da ENFF.Legenda</figcaption>
-</figure>
-
-<p>Durante toda a constru&ccedil;&atilde;o da escola, os Sem Terra que ali chegavam come&ccedil;avam a participar de processos de alfabetiza&ccedil;&atilde;o ou mesmo de forma&ccedil;&atilde;o pol&iacute;tica, ministradas por professores externos &agrave; ENFF e por pessoas que tamb&eacute;m participavam da brigada de constru&ccedil;&atilde;o, que contribu&iacute;ram para a realiza&ccedil;&atilde;o das provas supletivas.</p>
+<p><br />
+Durante toda a constru&ccedil;&atilde;o da escola, os Sem Terra que ali chegavam come&ccedil;avam a participar de processos de alfabetiza&ccedil;&atilde;o ou mesmo de forma&ccedil;&atilde;o pol&iacute;tica, ministradas por professores externos &agrave; ENFF e por pessoas que tamb&eacute;m participavam da brigada de constru&ccedil;&atilde;o, que contribu&iacute;ram para a realiza&ccedil;&atilde;o das provas supletivas.</p>
 
 <p><br />
 Assim, o interesse pelo aprendizado foi despertado. Aprovados, alguns n&atilde;o pararam mais, e passaram &agrave;s aulas frequentadas na escola do bairro.</p>
@@ -192,3 +219,7 @@ Al&eacute;m disso, oferece cursos superiores e de especializa&ccedil;&atilde;o, 
 
 <p style="text-align: right;"><br />
 <em>5.000.000 de fam&iacute;lias de trabalhadores rurais que precisam de terra e n&atilde;o a t&ecirc;m, terra que para eles &eacute; condi&ccedil;&atilde;o de vida, vida que j&aacute; n&atilde;o poder&aacute; esperar mais. (Jos&eacute; Saramago, pref&aacute;cio do livro &quot;Terra&quot;).</em></p>
+
+<p style="text-align: right;">&nbsp;</p>
+
+<p style="text-align: right;"><img alt="KODAK!!.jpg" src="http://farm1.staticflickr.com/386/19270517904_08b4ac2fda_b.jpg" /></p>
