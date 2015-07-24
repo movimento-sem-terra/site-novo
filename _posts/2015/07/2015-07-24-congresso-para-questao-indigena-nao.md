@@ -33,7 +33,7 @@ releated_posts:
 <em><span style="line-height: 20.7999992370605px;">Do Greenpeace Brasil</span></em></p>
 
 <p><br />
-Com um primeiro semestre repleto de pol&ecirc;mica acerca da quest&atilde;o ind&iacute;gena, a C&acirc;mara dos Deputados e o Senado Federal pausam suas atividades em recesso de 11 dias, somente retomando as atividades em 1&ordm; de agosto.</p>
+Com um primeiro semestre repleto de pol&ecirc;mica acerca da quest&atilde;o ind&iacute;gena, a C&acirc;mara dos Deputados e o Senado Federal pausam suas atividades em recesso de 11 dias, somente retomando as atividades em 1&ordm; de agosto. Enquanto a problem&aacute;tica fica no ar, o Greenpeace faz um apanhado do que aconteceu (e do que deixou de acontecer) nesse primeiro semestre de legislatura, trazendo tamb&eacute;m perspectivas do que est&aacute; por vir ap&oacute;s o recesso parlamentar.</p>
 
 <p><br />
 <strong>Abril Ind&iacute;gena: a resist&ecirc;ncia dos povos</strong></p>
