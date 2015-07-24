@@ -4,7 +4,7 @@ tags:
   - tag: ciranda-infantil
   - tag: educação
   - tag: jornada-de-agroecologia
-title: Ciranda Infantil é espaço de cultura e formação para as crianças na Jornada
+title: Ciranda Infantil; espaço de cultura e formação para as crianças
 support_line: "Iniciativa que surgiu no MST, hoje faz parte das Jornadas de Agroecologia e é o espaço da criançada dentro da programação."
 images_hd: "http://farm1.staticflickr.com/339/19981550531_2b227bdda2_b.jpg"
 sector: education
