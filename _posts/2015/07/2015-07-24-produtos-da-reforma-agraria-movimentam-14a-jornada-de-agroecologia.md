@@ -40,12 +40,10 @@ releated_posts:
 
 ---
 <figure class="image"><img alt="feira_jornada_artesanato.jpg" src="http://farm1.staticflickr.com/320/19347583464_8c4585b1d3_b.jpg" />
-<figcaption>Foto: Gabriel Dietrich<br />
-</figcaption>
+<figcaption>Foto: Gabriel Dietrich</figcaption>
 </figure>
 
 <p><br />
-<br />
 <em>Por Camilla Hoshino<br />
 Da P&aacute;gina do MST</em></p>
 
@@ -59,8 +57,7 @@ A escolha &eacute; dif&iacute;cil, pois o cheiro do bolo com cobertura compete c
 &ldquo;V&aacute;rios vizinhos t&ecirc;m colmeias, ent&atilde;o a gente come&ccedil;a escolhendo as boas. Depois tem que centrifugar tamb&eacute;m&rdquo;, explica Leo da Paix&atilde;o dos Santos. E seu primo Everton Ferreira, com quem divide a venda na barraca, completa: &ldquo;N&atilde;o pode esquecer que tem que limpar e embalar&rdquo;. Apesar de jovens, os garotos descrevem o processo de produ&ccedil;&atilde;o do mel com intimidade. Eles contam que &eacute; a primeira Jornada de Agroecologia da qual participam.</p>
 
 <figure class="image" style="float:left"><img alt="feira_jornada2.jpg" src="http://farm1.staticflickr.com/313/19962547222_db6c906287_b.jpg" />
-<figcaption>Foto: Amanda Souza<br />
-</figcaption>
+<figcaption>Foto: Amanda Souza</figcaption>
 </figure>
 
 <p><br />
@@ -79,8 +76,7 @@ Como exemplo, ela cita o consumo do a&ccedil;&uacute;car mascavo em sua casa, qu
 Como h&aacute; certifica&ccedil;&atilde;o, uma parte da produ&ccedil;&atilde;o de Dona Izaura tamb&eacute;m &eacute; destinada &agrave; merenda escolar da regi&atilde;o, por meio do Programa Nacional da Alimenta&ccedil;&atilde;o Escolar. Os dois tamb&eacute;m s&atilde;o vizinhos de vendas na feira da jornada.</p>
 
 <figure class="image" style="float:right"><img alt="feira_jornada.jpg" src="http://farm1.staticflickr.com/561/19782154298_aacdf5f43b_b.jpg" />
-<figcaption>Foto: Gabriel Dietrich<br />
-</figcaption>
+<figcaption>Foto: Gabriel Dietrich</figcaption>
 </figure>
 
 <p><br />
