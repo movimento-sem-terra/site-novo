@@ -129,7 +129,7 @@ Ela tamb&eacute;m abordou a necessidade de firmar a&ccedil;&otilde;es que v&atil
 <strong>Engajamento escolar &eacute; poss&iacute;vel</strong></p>
 
 <p><br />
-Para a educadora Marilene Cupsinski, da Escola Estadual de Ensino M&eacute;dio Ant&ocirc;nio Conselheiro, do Assentamento Bom Ser&aacute;, de Santana do Livramento, o empenho solicitado aos professores v&atilde;o ao encontro de medidas que j&aacute; est&atilde;o sendo realizadas nas escolas, tornando poss&iacute;vel fortalecer a campanha contra o uso de agrot&oacute;xicos com a comunidade escolar.</p>
+Para a educadora Marilene Cupsinski, da Escola Estadual de Ensino M&eacute;dio Ant&ocirc;nio Conselheiro, do Assentamento Bom Ser&aacute;, de Santana do Livramento, o empenho solicitado aos professores vai ao encontro de medidas que j&aacute; est&atilde;o sendo realizadas nas escolas, tornando poss&iacute;vel fortalecer a campanha contra o uso de agrot&oacute;xicos com a comunidade escolar.</p>
 
 <p><br />
 &ldquo;Podemos construir juntos muitas a&ccedil;&otilde;es porque j&aacute; temos um in&iacute;cio de trabalho que orienta os alunos para a produ&ccedil;&atilde;o de alimentos saud&aacute;veis, e foge do modelo tradicional de agricultura. Unidos podemos construir uma nova gera&ccedil;&atilde;o capaz de mudar o futuro e para isso vamos nos empenhar e trabalhar cada vez mais&rdquo;, garantiu.<br />
