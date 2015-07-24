@@ -5,7 +5,6 @@ require 'json'
 module Jekyll
   class JSONGenerater < Generator
     priority :low
-    safe true
 
     def generate(site)
       data = []
@@ -21,13 +20,15 @@ module Jekyll
         }
       end
 
-      File.open('_site/noticias.json', "w") do |csv|
+      File.open('noticias.json', "w") do |csv|
         opa = []
         data.each do |hash|
           opa << hash.to_json
         end
         csv.write opa.uniq.to_json
       end
+
+      site.static_files << Jekyll::StaticFile.new(site,site.source,'','noticias.json')
     end
   end
 end
