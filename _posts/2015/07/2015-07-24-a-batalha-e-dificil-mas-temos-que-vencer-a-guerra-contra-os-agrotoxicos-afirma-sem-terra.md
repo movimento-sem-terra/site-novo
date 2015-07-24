@@ -5,7 +5,7 @@ tags:
   - tag: enera
   - tag: agrotóxicos
 title: "\"A batalha é difícil, mas temos que vencer a guerra contra os agrotóxicos\", afirma Sem Terra"
-images_hd: "http://farm4.staticflickr.com/3779/19787908370_ec0f7bfeb5_b.jpg"
+images_hd: "http://farm1.staticflickr.com/287/19788206830_5d33532b95_b.jpg"
 menu: "educação, cultura e comunicação"
 sector: education
 support_line: Os educadores do campo reunidos no RS debateram os malefícios do uso do agrotóxico para a saúde humana e o meio ambiente.
@@ -29,6 +29,18 @@ files:
     small: "http://farm1.staticflickr.com/336/19975941895_20b85e1ef7_n.jpg"
     title: img1.jpg
     $$hashKey: "032"
+  - link: "http://farm1.staticflickr.com/296/19355211523_de3d040555_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/296/19355211523_de3d040555_t.jpg"
+    medium: "http://farm1.staticflickr.com/296/19355211523_de3d040555_z.jpg"
+    small: "http://farm1.staticflickr.com/296/19355211523_de3d040555_n.jpg"
+    title: "IMG_2541!.jpg"
+    $$hashKey: 05H
+  - link: "http://farm1.staticflickr.com/287/19788206830_5d33532b95_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/287/19788206830_5d33532b95_t.jpg"
+    medium: "http://farm1.staticflickr.com/287/19788206830_5d33532b95_z.jpg"
+    small: "http://farm1.staticflickr.com/287/19788206830_5d33532b95_n.jpg"
+    title: IMG_2536.JPG
+    $$hashKey: 05K
 created_date: "2015-07-24T15:50:12-03:00"
 published: true
 releated_posts:
@@ -41,9 +53,8 @@ releated_posts:
   - 2015/07/2015-07-17-dez-anos-de-enff-um-sonho-construido-a-muitas-maos.md
 
 ---
-<p><img alt="IMG_2569.JPG" src="http://farm4.staticflickr.com/3779/19787908370_ec0f7bfeb5_b.jpg" /></p>
-
-<p><br />
+<p><img alt="IMG_2536.JPG" src="http://farm1.staticflickr.com/287/19788206830_5d33532b95_b.jpg" /><br />
+<br />
 <em>Catiana de Medeiros<br />
 Da P&aacute;gina do MST</em></p>
 
@@ -59,27 +70,29 @@ O MST convidou para participar do debate o presidente da Associa&ccedil;&atilde;
 <p><br />
 De acordo com Melgarejo, h&aacute; uma mitologia enganosa em rela&ccedil;&atilde;o aos efeitos dos agrot&oacute;xicos, a qual apoia a expans&atilde;o do agroneg&oacute;cio e traz amea&ccedil;as concretas &agrave; sa&uacute;de da popula&ccedil;&atilde;o, ao meio ambiente e &agrave; soberania alimentar.</p>
 
-<p><br />
-&ldquo;Muitas pessoas alegam que as subst&acirc;ncias t&oacute;xicas s&atilde;o rapidamente eliminadas do corpo humano e do meio ambiente. Por&eacute;m, a deprecia&ccedil;&atilde;o e a elimina&ccedil;&atilde;o podem demorar dias ou anos. O fato de o agrot&oacute;xico n&atilde;o ser detectado em an&aacute;lises cl&iacute;nicas n&atilde;o significa seguran&ccedil;a ou aus&ecirc;ncia de dano: mesmo aqueles que s&atilde;o rapidamente eliminados podem causar complica&ccedil;&otilde;es irrevers&iacute;veis&rdquo;, explicou Melgarejo.</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="IMG_2541!.jpg" src="http://farm1.staticflickr.com/296/19355211523_de3d040555_b.jpg" />
+<figcaption></figcaption>
+</figure>
+
+<p>&ldquo;Muitas pessoas alegam que as subst&acirc;ncias t&oacute;xicas s&atilde;o rapidamente eliminadas do corpo humano e do meio ambiente. Por&eacute;m, a deprecia&ccedil;&atilde;o e a elimina&ccedil;&atilde;o podem demorar dias ou anos. O fato de o agrot&oacute;xico n&atilde;o ser detectado em an&aacute;lises cl&iacute;nicas n&atilde;o significa seguran&ccedil;a ou aus&ecirc;ncia de dano: mesmo aqueles que s&atilde;o rapidamente eliminados podem causar complica&ccedil;&otilde;es irrevers&iacute;veis&rdquo;, explicou Melgarejo.</p>
 
 <p><br />
 Depois de abordar os principais malef&iacute;cios, como o c&acirc;ncer, depress&atilde;o e infertilidade que os agrot&oacute;xicos causam &agrave; sa&uacute;de humana, Melgarejo pediu aos educadores para que discutissem sobre o tema em seus meios de conv&iacute;vio e atua&ccedil;&atilde;o: nas comunidades e escolas. Tamb&eacute;m orientou para que eles estimulem vereadores e deputados de todo o Brasil a trabalharem em defesa da vida e da alimenta&ccedil;&atilde;o saud&aacute;vel.</p>
 
-<p>&nbsp;</p>
-
-<figure class="image" style="float:right"><img alt="img.jpg" src="http://farm4.staticflickr.com/3682/19975922925_88db0c8729_b.jpg" />
-<figcaption></figcaption>
-</figure>
-
-<p>&ldquo;Construam di&aacute;logos com os educandos e a sociedade, pois voc&ecirc;s podem influenciar muitas pessoas, como vereadores, crian&ccedil;as e jovens que futuramente podem se tornar legisladores e contribuir para mudar essa realidade atrav&eacute;s de Projetos de Lei&rdquo;, disse.</p>
+<p><br />
+&ldquo;Construam di&aacute;logos com os educandos e a sociedade, pois voc&ecirc;s podem influenciar muitas pessoas, como vereadores, crian&ccedil;as e jovens que futuramente podem se tornar legisladores e contribuir para mudar essa realidade atrav&eacute;s de Projetos de Lei&rdquo;, disse.</p>
 
 <p><br />
 O t&eacute;cnico Edson Cadore tamb&eacute;m afirmou que &eacute; fundamental o apoio do Setor da Educa&ccedil;&atilde;o na luta contra o uso de venenos, incentivando o fortalecimento da campanha.</p>
 
 <p><br />
-&ldquo;Voc&ecirc;s, educadores, s&atilde;o as pessoas certas para pautar a quest&atilde;o dos agrot&oacute;xicos nas comunidades e nas institui&ccedil;&otilde;es de ensino. Precisamos desse apoio educacional para refor&ccedil;ar a import&acirc;ncia da agroecologia, da produ&ccedil;&atilde;o de alimentos saud&aacute;veis e da Reforma Agr&aacute;ria Popular&rdquo;, argumentou.</p>
+&ldquo;Voc&ecirc;s, educadores, s&atilde;o as pessoas certas para pautar a quest&atilde;o dos agrot&oacute;xicos nas comunidades e nas institui&ccedil;&otilde;es de ensino. Precisamos desse apoio educacional para refor&ccedil;ar a import&acirc;ncia da agroecologia, da produ&ccedil;&atilde;o de alimentos saud&aacute;veis e da Reforma Agr&aacute;ria Popular&rdquo;, argumentou.<br />
+&nbsp;</p>
 
-<p><br />
+<p><img alt="IMG_2569.JPG" src="http://farm4.staticflickr.com/3779/19787908370_ec0f7bfeb5_b.jpg" /><br />
+<br />
 <strong>Em defesa da vida</strong></p>
 
 <p><br />
@@ -95,7 +108,13 @@ Pretto solicitou o engajamento dos educadores por meio de a&ccedil;&otilde;es pa
 &ldquo;Precisamos unir for&ccedil;as para concretizar nossas a&ccedil;&otilde;es e vencer essa batalha contra o inimigo&rdquo;, afirmou.</p>
 
 <p><br />
-<strong>Mulheres apoiadoras</strong></p>
+&nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="img.jpg" src="http://farm4.staticflickr.com/3682/19975922925_88db0c8729_b.jpg" />
+<figcaption></figcaption>
+</figure>
+
+<p><strong>Mulheres apoiadoras</strong></p>
 
 <p><br />
 Arlete Bulc&atilde;o Pinto, do setor de g&ecirc;nero do MST, lembrou da dedica&ccedil;&atilde;o das mulheres da Via Campesina numa intensa campanha por soberania alimentar, contra a viol&ecirc;ncia e o agroneg&oacute;cio, iniciada em mar&ccedil;o deste ano durante a Jornada Nacional de Luta das Mulheres Camponesas.</p>
@@ -104,20 +123,20 @@ Arlete Bulc&atilde;o Pinto, do setor de g&ecirc;nero do MST, lembrou da dedica&c
 Ela tamb&eacute;m abordou a necessidade de firmar a&ccedil;&otilde;es que v&atilde;o al&eacute;m de den&uacute;ncia, colocando em discuss&atilde;o essas pautas nas escolas.</p>
 
 <p><br />
-&ldquo;Devemos orientar as crian&ccedil;as e os jovens porque &eacute; nossa miss&atilde;o levar adiante essa bandeira de luta. Cada um de n&oacute;s pode ser agente de fiscaliza&ccedil;&atilde;o e denuncia, para que as gera&ccedil;&otilde;es futuras possam viver uma realidade diferente. A empreitada &eacute; dura, a batalha &eacute; dif&iacute;cil, mas temos que vencer essa guerra&rdquo;, alertou.<br />
-&nbsp;</p>
+&ldquo;Devemos orientar as crian&ccedil;as e os jovens porque &eacute; nossa miss&atilde;o levar adiante essa bandeira de luta. Cada um de n&oacute;s pode ser agente de fiscaliza&ccedil;&atilde;o e denuncia, para que as gera&ccedil;&otilde;es futuras possam viver uma realidade diferente. A empreitada &eacute; dura, a batalha &eacute; dif&iacute;cil, mas temos que vencer essa guerra&rdquo;, alertou.</p>
 
-<p><img alt="img1.jpg" src="http://farm1.staticflickr.com/336/19975941895_20b85e1ef7_b.jpg" /><br />
-<br />
+<p><br />
 <strong>Engajamento escolar &eacute; poss&iacute;vel</strong></p>
 
 <p><br />
 Para a educadora Marilene Cupsinski, da Escola Estadual de Ensino M&eacute;dio Ant&ocirc;nio Conselheiro, do Assentamento Bom Ser&aacute;, de Santana do Livramento, o empenho solicitado aos professores v&atilde;o ao encontro de medidas que j&aacute; est&atilde;o sendo realizadas nas escolas, tornando poss&iacute;vel fortalecer a campanha contra o uso de agrot&oacute;xicos com a comunidade escolar.</p>
 
 <p><br />
-&ldquo;Podemos construir juntos muitas a&ccedil;&otilde;es porque j&aacute; temos um in&iacute;cio de trabalho que orienta os alunos para a produ&ccedil;&atilde;o de alimentos saud&aacute;veis, e foge do modelo tradicional de agricultura. Unidos podemos construir uma nova gera&ccedil;&atilde;o capaz de mudar o futuro e para isso vamos nos empenhar e trabalhar cada vez mais&rdquo;, garantiu.</p>
+&ldquo;Podemos construir juntos muitas a&ccedil;&otilde;es porque j&aacute; temos um in&iacute;cio de trabalho que orienta os alunos para a produ&ccedil;&atilde;o de alimentos saud&aacute;veis, e foge do modelo tradicional de agricultura. Unidos podemos construir uma nova gera&ccedil;&atilde;o capaz de mudar o futuro e para isso vamos nos empenhar e trabalhar cada vez mais&rdquo;, garantiu.<br />
+&nbsp;</p>
 
-<p><br />
+<p><img alt="img1.jpg" src="http://farm1.staticflickr.com/336/19975941895_20b85e1ef7_b.jpg" /><br />
+<br />
 <strong>Frente Parlamentar</strong></p>
 
 <p><br />
