@@ -8,7 +8,7 @@ tags:
 title: Jornada de Agroecologia reúne milhares de camponeses no Paraná
 support_line: "A Jornada busca a construção de um Projeto Popular e Soberano para a agricultura, em contrapartida às empresas transnacionais do agronegócio."
 menu: agricultura camponesa
-section: cover
+section: null
 images_hd: "http://farm1.staticflickr.com/396/19305296224_4b70b19d05_b.jpg"
 layout: post
 files:

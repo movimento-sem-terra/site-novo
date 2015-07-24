@@ -26,6 +26,7 @@ releated_posts:
   - 2015/01/2014-12-29-os-estragos-ecologicos-economicos-e-sociais-da-mineracao-na-america-latina.md
   - 2015/03/2015-03-17-mineradora-vale-e-autuada-por-trabalho-escravo.md
   - 2015/07/2015-07-06-mineracao-e-a-maior-responsavel-por-mortes-no-trabalho-ao-redor-do-mundo.md
+label: interviews
 
 ---
 <p><img alt="vale-br.jpg" src="http://farm1.staticflickr.com/260/19731466248_916a59d725_b.jpg" /></p>
