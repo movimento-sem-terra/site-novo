@@ -23,6 +23,7 @@ releated_posts:
   - 2015/07/2015-07-15-arturo-paoli-uma-vida-inteira-dedicada-aos-pobres.md
   - 2015/07/2015-07-20-movimentos-populares-e-militantes-saudam-os-90-anos-de-clara-charf.md
   - 2014/06/2014-06-20-aos-86-anos-d-pedro-casaldaliga-ainda-enfrenta-lobos-e-fala-de-esperanca.md-e
+section: featured-news
 
 ---
 <figure class="image" style="float:right"><img alt="vito-giannotti.jpg" src="http://farm1.staticflickr.com/483/19389846353_23294fc57b_b.jpg" />
