@@ -7,7 +7,7 @@ title: "Jornada de agroecologia afirma urgência de um novo projeto de agricultu
 support_line: "“Temos que manter a conscientização, a rebeldia, a desobediência e a conspiração para enfrentar o agronegócio\", declamou José Maria Tardim."
 menu: agricultura camponesa
 section: cover
-images_hd: "http://farm1.staticflickr.com/438/19869630859_3f6960b359_b.jpg"
+images_hd: "http://farm1.staticflickr.com/498/19868700558_0a2599a65d_b.jpg"
 layout: post
 files:
   - link: "http://farm1.staticflickr.com/268/20061611561_c623efc954_b.jpg"
@@ -52,6 +52,18 @@ files:
     small: "http://farm4.staticflickr.com/3832/20061853441_b1c3a9dfae_n.jpg"
     title: jornada_cara.jpg
     $$hashKey: 0C6
+  - link: "http://farm1.staticflickr.com/498/19868700558_0a2599a65d_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/498/19868700558_0a2599a65d_t.jpg"
+    medium: "http://farm1.staticflickr.com/498/19868700558_0a2599a65d_z.jpg"
+    small: "http://farm1.staticflickr.com/498/19868700558_0a2599a65d_n.jpg"
+    title: Foto_Leandro Taques.jpg
+    $$hashKey: 05U
+  - link: "http://farm1.staticflickr.com/266/19435859713_3a0f9fcc7c_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/266/19435859713_3a0f9fcc7c_t.jpg"
+    medium: "http://farm1.staticflickr.com/266/19435859713_3a0f9fcc7c_z.jpg"
+    small: "http://farm1.staticflickr.com/266/19435859713_3a0f9fcc7c_n.jpg"
+    title: LT1_0835_JORNADA AGROECOLOGIA_2015_Foto_Leandro Taques.jpg
+    $$hashKey: 05X
 created_date: "2015-07-27T11:35:11-03:00"
 published: true
 releated_posts:
@@ -62,9 +74,10 @@ releated_posts:
   - 2015/06/2015-06-17-a-agroecologia-como-modelo-ideal-de-producao-de-alimentos.md
 
 ---
-<p><img alt="jornada_final2.jpg" src="http://farm1.staticflickr.com/268/20061611561_c623efc954_b.jpg" /></p>
+<p><img alt="Foto_Leandro Taques.jpg" src="http://farm1.staticflickr.com/498/19868700558_0a2599a65d_b.jpg" /></p>
 
-<p><em>Por Iris Pacheco<br />
+<p><br />
+<em>Por Iris Pacheco<br />
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
@@ -73,7 +86,10 @@ Da P&aacute;gina do MST</em></p>
 <p><br />
 A jornada, que come&ccedil;ou na quarta-feira (22), teve quatro dias de intensos debates, socializa&ccedil;&otilde;es de conhecimentos e cultivo dos saberes. Toda a beleza desses dias se reflete no ato de encerramento com a convoca&ccedil;&atilde;o do povo para assumir o compromisso de construir novas rela&ccedil;&otilde;es entre os homens e a M&atilde;e Terra, de serem guardi&atilde;es e guardi&atilde;s das sementes e da biodiversidade para a humanidade.</p>
 
-<p><a href="https://bitbitbit.com.br/jornada/wp-content/uploads/2015/07/Carta-da-14%C2%AA-Jornada-de-Agroecologia.pdf" style="box-sizing: inherit; color: rgb(0, 100, 0); text-decoration: none; font-family: 'Exo 2', Helvetica, Arial, sans-serif; font-size: 17.6000003814697px; line-height: 25.1428318023682px;" target="_blank"><span style="box-sizing: inherit; line-height: 20.7999992370605px;">Confira na &iacute;ntegra a Carta da Jornada que foi lan&ccedil;ada durante o ato.</span></a></p>
+<p><br />
+<a href="https://bitbitbit.com.br/jornada/wp-content/uploads/2015/07/Carta-da-14%C2%AA-Jornada-de-Agroecologia.pdf" target="_blank">Confira na &iacute;ntegra a Carta da Jornada que foi lan&ccedil;ada durante o ato.</a></p>
+
+<p>&nbsp;</p>
 
 <p><br />
 &ldquo;Temos que manter a conscientiza&ccedil;&atilde;o, a rebeldia, a desobedi&ecirc;ncia e a conspira&ccedil;&atilde;o para enfrentar o agroneg&oacute;cio. Uma delas &eacute; sermos todo dia guardi&atilde;es das sementes e compartilh&aacute;-las. Partilhar &eacute; um gesto de cuidado e amor&rdquo;, declamou Jos&eacute; Maria Tardim, ao conduzir um dos momentos m&iacute;sticos que compuseram o ato.</p>
@@ -82,7 +98,7 @@ A jornada, que come&ccedil;ou na quarta-feira (22), teve quatro dias de intensos
 Ao som do ganido da gralha azul, imagem s&iacute;mbolo da jornada, que desceu sobre a plen&aacute;ria ecoando nos ouvidos dos cerca de 4 mil camponeses ali presentes o desafio de compartilhar as sementes do saber e cultiv&aacute;-las, com a conex&atilde;o ancestral com o conhecimento e a energia dos povos que geraram a agricultura.<br />
 &nbsp;</p>
 
-<p><img alt="joranda_final.jpg" src="http://farm1.staticflickr.com/438/19869630859_3f6960b359_b.jpg" /><br />
+<p><img alt="LT1_0835_JORNADA AGROECOLOGIA_2015_Foto_Leandro Taques.jpg" src="http://farm1.staticflickr.com/266/19435859713_3a0f9fcc7c_b.jpg" /><br />
 <br />
 <strong>&ldquo;E a ti que amas entregarei meu bosque de ideias e coisas s&atilde;s&rdquo;</strong></p>
 
@@ -116,7 +132,9 @@ Logo, todos tiveram uma certeza. A jornada &eacute; constru&iacute;da por muitas
 <p><strong>&ldquo;N&atilde;o vale mais a can&ccedil;&atilde;o feita de medo... Agora vale a alegria feita de planta e de p&atilde;o&rdquo;.</strong></p>
 
 <p><br />
-&ldquo;Compartilhar&rdquo; foi a segunda palavra mais citada. Mas, compartilhar enquanto um espa&ccedil;o de experimentar o encontro do amor e cuidado. Tardim traduziu em palavras o sentimento reunido neste momento &iacute;mpar.&nbsp;<br />
+&ldquo;Compartilhar&rdquo; foi a segunda palavra mais citada. Mas, compartilhar enquanto um espa&ccedil;o de experimentar o encontro do amor e cuidado. Tardim traduziu em palavras o sentimento reunido neste momento &iacute;mpar.</p>
+
+<p><br />
 &ldquo;Agricultura &eacute; um encontro de amor e cuidado dos povos origin&aacute;rios que cultivaram a natureza e gera para as gera&ccedil;&otilde;es futuras a agricultura... E n&oacute;s vamos seguir realizando a agroecologia, nosso modo de fazer agricultura&rdquo;.</p>
 
 <p><br />
@@ -139,5 +157,7 @@ E tamb&eacute;m reafirma na Carta da 14&deg; Jornada de Agroecologia o compromis
 &nbsp;</p>
 
 <p><img alt="jornada_geleia.jpg" src="http://farm4.staticflickr.com/3789/20030216966_afd7f4a2de_b.jpg" /></p>
+
+<p><img alt="jornada_final2.jpg" src="http://farm1.staticflickr.com/268/20061611561_c623efc954_b.jpg" /></p>
 
 <p><img alt="jornada_dilma.jpg" src="http://farm1.staticflickr.com/414/20061767911_e566e74cfb_b.jpg" /></p>
