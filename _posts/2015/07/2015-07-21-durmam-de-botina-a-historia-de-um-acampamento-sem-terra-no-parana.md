@@ -9,7 +9,7 @@ title: Durmam de botina; a história de um acampamento Sem Terra no Paraná
 section: null
 support_line: Reportagem com ensaio fotográfico conta a história de um dos maiores acampamentos da atualidade no Brasil.
 menu: reforma agrária
-images_hd: "http://farm1.staticflickr.com/353/19877994872_2e2b2730a2_b.jpg"
+images_hd: "http://farm1.staticflickr.com/491/19442857423_c3284a3fb0_b.jpg"
 layout: post
 files:
   - link: "http://farm1.staticflickr.com/497/19264294723_db47390600_b.jpg"
@@ -102,6 +102,12 @@ files:
     small: "http://farm1.staticflickr.com/328/19697822338_f127c1f36b_n.jpg"
     title: reportagem_PR15.jpeg
     $$hashKey: 0BN
+  - link: "http://farm1.staticflickr.com/491/19442857423_c3284a3fb0_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/491/19442857423_c3284a3fb0_t.jpg"
+    medium: "http://farm1.staticflickr.com/491/19442857423_c3284a3fb0_z.jpg"
+    small: "http://farm1.staticflickr.com/491/19442857423_c3284a3fb0_n.jpg"
+    title: "dur!.jpg"
+    $$hashKey: "066"
 created_date: "2015-07-21T09:38:27-03:00"
 published: true
 releated_posts:
