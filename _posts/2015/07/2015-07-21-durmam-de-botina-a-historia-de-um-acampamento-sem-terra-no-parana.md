@@ -6,7 +6,7 @@ tags:
   - tag: acampamento
   - tag: paraná
 title: Durmam de botina; a história de um acampamento Sem Terra no Paraná
-section: featured-news
+section: null
 support_line: Reportagem com ensaio fotográfico conta a história de um dos maiores acampamentos da atualidade no Brasil.
 menu: reforma agrária
 images_hd: "http://farm1.staticflickr.com/353/19877994872_2e2b2730a2_b.jpg"
@@ -110,6 +110,7 @@ releated_posts:
   - 2015/05/2015-05-27-justica-decide-que-araupel-nao-e-dona-da-fazenda-rio-das-cobras.md
   - 2015/06/2015-06-03-herdeiros-da-luta.md
   - 2015/07/2015-07-17-os-maus-efeitos-do-atraso-na-execucao-da-reforma-agraria.md
+label: special-stories
 
 ---
 <p><img alt="reportagem_PR13.jpeg" src="http://farm1.staticflickr.com/345/19890831411_45156aabd5_b.jpg" /><br />
@@ -269,8 +270,7 @@ Lenon explica ainda que se debate com profundidade a quest&atilde;o da perman&ec
 &nbsp;</p>
 
 <figure class="image"><img alt="reportagem_PR12.jpeg" src="http://farm1.staticflickr.com/434/19878260342_1ed80fa766_b.jpg" />
-<figcaption>Juliana Cristina de Mello, educadora e acampada.<br />
-</figcaption>
+<figcaption>Juliana Cristina de Mello, educadora e acampada.</figcaption>
 </figure>
 
 <p><br />
