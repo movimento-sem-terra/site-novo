@@ -1,0 +1,15 @@
+main {
+  .find {
+    display:flex;
+    justify-content:center;
+    align-items:center;
+
+    .title {
+      margin-right: 10px;
+    }
+    .fa {
+      margin-right: 10px;
+      font-size: 1.5em;
+    }
+  }
+}
