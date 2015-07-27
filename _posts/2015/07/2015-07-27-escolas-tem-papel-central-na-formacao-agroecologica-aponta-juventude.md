@@ -33,7 +33,7 @@ releated_posts:
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
-A juventude do MST tamb&eacute;m foram protagonistas do 7&ordm; Encontro Estadual de Educadores da Reforma Agr&aacute;ria do Rio Grande do Sul, realizado entre os dias 22 a 24 de julho, no Centro de Forma&ccedil;&atilde;o Sep&eacute; Tiaraj&uacute;, no Assentamento Filhos de Sep&eacute;, em Viam&atilde;o.</p>
+A juventude do MST tamb&eacute;m foi&nbsp;protagonistas do 7&ordm; Encontro Estadual de Educadores da Reforma Agr&aacute;ria do Rio Grande do Sul, realizado entre os dias 22 a 24 de julho, no Centro de Forma&ccedil;&atilde;o Sep&eacute; Tiaraj&uacute;, no Assentamento Filhos de Sep&eacute;, em Viam&atilde;o.</p>
 
 <p><br />
 Danieli Coite Cazarotto, do coletivo de juventude, e Ger&ocirc;nimo Pereira da Silva, do setor de forma&ccedil;&atilde;o do MST, relataram a luta dos jovens na constru&ccedil;&atilde;o da Reforma Agr&aacute;ria Popular e apontaram a necessidade de incentivos, principalmente na &aacute;rea de infraestrutura social, para que a atual e as futuras gera&ccedil;&otilde;es possam permanecer no campo.</p>
