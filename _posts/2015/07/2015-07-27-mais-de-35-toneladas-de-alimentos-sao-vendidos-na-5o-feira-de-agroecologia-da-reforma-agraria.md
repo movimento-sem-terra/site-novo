@@ -35,44 +35,47 @@ files:
     small: "http://farm1.staticflickr.com/341/20062814571_e95705b827_n.jpg"
     title: IMG_9487 (1).JPG
     $$hashKey: "073"
+  - link: "http://farm1.staticflickr.com/451/20057860355_1bb704faa0_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/451/20057860355_1bb704faa0_t.jpg"
+    medium: "http://farm1.staticflickr.com/451/20057860355_1bb704faa0_z.jpg"
+    small: "http://farm1.staticflickr.com/451/20057860355_1bb704faa0_n.jpg"
+    title: feira.jpg
+    $$hashKey: 0HK
 created_date: "2015-07-27T12:28:14-03:00"
 published: true
 releated_posts:
   - 2012/12/2012-12-05-confira-a-historia-do-assentamento-terra-vista-contada-pelos-assentados.md
-  - 2014/05/2014-05-14-agroecologia-tera-grande-encontro-as-margens-do-sao-francisco.md-e
-  - 2014/05/2014-05-19-agroecologia-brasileira-avanca-e-faz-historia-em-encontro-nacional.md
-  - 2014/05/2014-05-19-agroecologia-brasileira-avanca-e-faz-historia-em-encontro-nacional.md-e
-  - 2015/05/2015-05-15-politicas-publicas-prioridade-para-alimentos-saudaveis.md
   - 2015/01/2014-12-29-cinco-passos-para-esfriar-o-planeta-e-garantir-soberania-alimentar.md
-  - 2015/07/2015-07-10-mst-participa-de-feira-latino-americana-de-economia-solidaria-no-rs.md
-  - 2015/07/2015-07-15-seminario-sobre-alimentacao-repudia-suspensao-de-rotulagem-de-transgenicos.md
   - 2015/06/2015-06-25-a-batalha-de-dois-modelos-agricolas.md
+  - 2015/07/2015-07-05-sem-terra-vence-concurso-promovido-pela-onu.md
+  - 2015/07/2015-07-10-mst-participa-de-feira-latino-americana-de-economia-solidaria-no-rs.md
+  - 2014/08/2014-07-30-a-revolucao-silenciosa-no-campo-feita-pela-agricultura-familiar.md
 
 ---
-<p>&nbsp;</p>
-
-<p><img alt="IMG_9487 (1).JPG" height="400" src="http://farm1.staticflickr.com/341/20062814571_e95705b827_b.jpg" width="600" /></p>
+<p><img alt="feira.jpg" src="http://farm1.staticflickr.com/451/20057860355_1bb704faa0_b.jpg" /></p>
 
 <p>&nbsp;</p>
 
-<p><em>Do Coletivo de Comunica&ccedil;&atilde;o do MST na Bahia<br />
+<p><br />
+<em>Do Coletivo de Comunica&ccedil;&atilde;o do MST na Bahia<br />
 Da P&aacute;gina do MST</em></p>
 
-<p>&nbsp;</p>
-
-<p>Neste &uacute;ltimo fim de semana (24 e 25/07), Sem Terras assentados e acampados do Extremo Sul da Bahia realizaram a 5&deg; Feira de Agroecologia da Reforma Agr&aacute;ria, em Eun&aacute;polis, no extremo-sul baiano.</p>
+<p><br />
+Neste &uacute;ltimo fim de semana (24 e 25/07), Sem Terra&nbsp;assentados e acampados do Extremo Sul da Bahia realizaram a 5&deg; Feira de Agroecologia da Reforma Agr&aacute;ria, em Eun&aacute;polis, no extremo-sul baiano.</p>
 
 <p><br />
 Mais de 30 variedades de alimentos entre hortali&ccedil;as, verduras, frutas, legumes, biscoitos, bolos e artesanatos foram apresentados &agrave; popula&ccedil;&atilde;o local e da regi&atilde;o, que prestigiou a iniciativa.&nbsp;</p>
 
 <p><br />
-Durante os dois dias de feira foram vendidos mais de 35 toneladas de alimentos a pre&ccedil;os acess&iacute;veis.</p>
+Durante os dois dias de feira foram vendidos mais de 35 toneladas de alimentos a pre&ccedil;os populares.</p>
 
 <p><br />
-Na ocasi&atilde;o, a juventude Sem Terra distribuiu mais de duas mil c&oacute;pias de mais uma edi&ccedil;&atilde;o do Jornal &quot;A farinhada&quot;, que relata as lutas, a produ&ccedil;&atilde;o agroecol&oacute;gica e as conquistas das fam&iacute;lias Sem Terra na regi&atilde;o do extremo-sul da Bahia.</p>
+Na ocasi&atilde;o, a juventude Sem Terra distribuiu mais de 2 mil c&oacute;pias de mais uma edi&ccedil;&atilde;o do Jornal &quot;A farinhada&quot;, que relata as lutas, a produ&ccedil;&atilde;o agroecol&oacute;gica e as conquistas das fam&iacute;lias Sem Terra na regi&atilde;o do extremo-sul da Bahia.<br />
+&nbsp;</p>
 
-<p><br />
-Na feira os visitantes puderam acompanhar uma noite cultural com v&aacute;rios n&uacute;meros musicais apresentados pelos artistas da Reforma Agr&aacute;ria.</p>
+<p><img alt="unnamed.jpg" src="http://farm1.staticflickr.com/554/20062748061_54041bdf4c_b.jpg" /><br />
+<br />
+Durante a feira, os visitantes puderam acompanhar uma noite cultural com v&aacute;rios n&uacute;meros musicais apresentados pelos artistas da Reforma Agr&aacute;ria.</p>
 
 <p><br />
 Para Evanildo Costa, da dire&ccedil;&atilde;o estadual, as feiras da Reforma Agr&aacute;ria s&atilde;o parte fundamental das jornadas agroecol&oacute;gicas que, historicamente, s&atilde;o realizadas em v&aacute;rios munic&iacute;pios do extremo-sul.</p>
