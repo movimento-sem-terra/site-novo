@@ -37,4 +37,6 @@ $(document).ready(function() {
     });
     return $( html );
   };
+
+  $.infinite_scroll.start();
 });
