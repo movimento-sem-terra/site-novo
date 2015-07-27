@@ -14,7 +14,7 @@ module Jekyll
           'month' =>  post.date.strftime("%m"),
           'date' => post.date.strftime("%FT%T"),
           'title' => post.title,
-          'link' => "#{site.config['url']}#{post.url}",
+          'url' => "#{site.config['url']}#{post.url}",
           'tags' => Array(post.data['tags']).flatten.map{ |tag| tag['tag'] },
           'support_line' => post.data['support_line']
         }
