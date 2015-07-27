@@ -53,6 +53,8 @@ releated_posts:
 
 <p><img alt="IMG_9487 (1).JPG" height="400" src="http://farm1.staticflickr.com/341/20062814571_e95705b827_b.jpg" width="600" /></p>
 
+<p>&nbsp;</p>
+
 <p><em>Do Coletivo de Comunica&ccedil;&atilde;o do MST na Bahia<br />
 Da P&aacute;gina do MST</em></p>
 
