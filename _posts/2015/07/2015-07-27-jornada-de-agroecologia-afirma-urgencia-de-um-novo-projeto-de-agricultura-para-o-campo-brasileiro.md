@@ -73,6 +73,8 @@ Da P&aacute;gina do MST</em></p>
 <p><br />
 A jornada, que come&ccedil;ou na quarta-feira (22), teve quatro dias de intensos debates, socializa&ccedil;&otilde;es de conhecimentos e cultivo dos saberes. Toda a beleza desses dias se reflete no ato de encerramento com a convoca&ccedil;&atilde;o do povo para assumir o compromisso de construir novas rela&ccedil;&otilde;es entre os homens e a M&atilde;e Terra, de serem guardi&atilde;es e guardi&atilde;s das sementes e da biodiversidade para a humanidade.</p>
 
+<p><a href="https://bitbitbit.com.br/jornada/wp-content/uploads/2015/07/Carta-da-14%C2%AA-Jornada-de-Agroecologia.pdf" style="box-sizing: inherit; color: rgb(0, 100, 0); text-decoration: none; font-family: 'Exo 2', Helvetica, Arial, sans-serif; font-size: 17.6000003814697px; line-height: 25.1428318023682px;" target="_blank"><span style="box-sizing: inherit; line-height: 20.7999992370605px;">Confira na &iacute;ntegra a Carta da Jornada que foi lan&ccedil;ada durante o ato.</span></a></p>
+
 <p><br />
 &ldquo;Temos que manter a conscientiza&ccedil;&atilde;o, a rebeldia, a desobedi&ecirc;ncia e a conspira&ccedil;&atilde;o para enfrentar o agroneg&oacute;cio. Uma delas &eacute; sermos todo dia guardi&atilde;es das sementes e compartilh&aacute;-las. Partilhar &eacute; um gesto de cuidado e amor&rdquo;, declamou Jos&eacute; Maria Tardim, ao conduzir um dos momentos m&iacute;sticos que compuseram o ato.</p>
 
