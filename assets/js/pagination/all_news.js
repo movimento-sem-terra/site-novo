@@ -19,12 +19,12 @@ $(document).ready(function() {
 
       var article = '<article class="headline">'+
         image +
-        '<time datetime="'+post.date+'">'+
-        post.date +
-        '</time>'+
         '<h1>'+
         '<a href="'+post.url+'">'+post.title+'</a>'+
         '</h1>'+
+        '<time datetime="'+post.date+'">'+
+        moment(post.date).format('LL') +
+        '</time>'+
         support_line +
         '</article>';
 

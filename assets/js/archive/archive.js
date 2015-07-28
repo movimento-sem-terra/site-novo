@@ -1,5 +1,29 @@
 $(document).ready(function() {
   var $container = $('main .container');
+   $.infinite_scroll.create = function(posts){
+    var html = '';
+    var p  = posts.splice(0,6);
+
+    $.each(p, function(index, post){
+      var support_line = '';
+      if(!!post.support_line){
+        support_line = '<p class="support-line">'+post.support_line+'</p>';
+      }
+      var article = '<article class="headline">'+
+        '<h1>'+
+        '<a href="'+post.url+'">'+post.title+'</a>'+
+        '</h1>'+
+        '<time datetime="'+post.date+'">'+
+        moment(post.date).format('LL') +
+        '</time>'+
+        support_line +
+        '</article>';
+
+      var item = '<div class="item">'+ article + '</div>';
+      html += item;
+    });
+    return $( html );
+  };
 
   $('main input[type="search"]').on('search',function(){
     var title =  $('main input.title').val();
