@@ -1,13 +1,1 @@
-[
-  {% for post in include.posts | limit: 300 %}
-  {
-      "title": {{ post.title | jsonify }},
-      "url": {{ post.url | jsonify  }},
-      "cover": {{ post.images_hd | jsonify  }},
-      "video": {{ post.video | get_video_embeded | jsonify  }},
-      "date": {{ post.date | pretty_date | jsonify  }},
-      "support_line": {{ post.support_line | jsonify }}
-  }
-  {% if forloop.rindex0 > 0 %},{% endif %}
-  {% endfor %}
-]
+{{ include.posts | generate_json }}
