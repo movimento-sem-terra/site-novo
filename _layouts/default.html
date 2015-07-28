@@ -16,24 +16,6 @@
     {% endif %}
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 		<link rel="shortcut icon" href="{{ site.baseurl }}/assets/img/logo.png" type="image/png" />
-		<!--[if lt IE 9]>
-		<script type= "text/javascript" src="{{ site.baseurl }}/assets/js/html5shiv.js"></script>
-		<script type= "text/javascript" src="{{ site.baseurl }}/assets/js/respond.min.js"></script>
-		<![endif]-->
-		<script type="text/javascript" src="{{ site.baseurl }}/assets/js/hammer.min.js"></script>
-    <script type="text/javascript" src="//code.jquery.com/jquery-2.1.0.min.js"></script>
-		<script type="text/javascript" src="{{ site.baseurl }}/assets/js/jquery.hammer.js"></script>
-    <script type="text/javascript" src="{{ site.baseurl }}/assets/js/carousel.js"></script>
-    {% if page.scripts %}
-      {% for script in page.scripts %}
-        <script type="text/javascript" src="{{ site.baseurl }}/assets/js/{{ script }}"></script>
-      {% endfor %}
-    {% endif %}
-    {% if page.external_scripts %}
-      {% for script in page.external_scripts %}
-        <script type="text/javascript" src="{{ script }}"></script>
-      {% endfor %}
-    {% endif %}
 
   	</head>
   <body>
@@ -55,6 +37,24 @@
 			ga('send', 'pageview');
 
 		</script>
+		<!--[if lt IE 9]>
+		<script type= "text/javascript" src="{{ site.baseurl }}/assets/js/html5shiv.js"></script>
+		<script type= "text/javascript" src="{{ site.baseurl }}/assets/js/respond.min.js"></script>
+		<![endif]-->
+		<script type="text/javascript" src="{{ site.baseurl }}/assets/js/hammer.min.js"></script>
+    <script type="text/javascript" src="//code.jquery.com/jquery-2.1.0.min.js"></script>
+		<script type="text/javascript" src="{{ site.baseurl }}/assets/js/jquery.hammer.js"></script>
+    <script type="text/javascript" src="{{ site.baseurl }}/assets/js/carousel.js"></script>
+    {% if page.scripts %}
+      {% for script in page.scripts %}
+        <script type="text/javascript" src="{{ site.baseurl }}/assets/js/{{ script }}"></script>
+      {% endfor %}
+    {% endif %}
+    {% if page.external_scripts %}
+      {% for script in page.external_scripts %}
+        <script type="text/javascript" src="{{ script }}"></script>
+      {% endfor %}
+    {% endif %}
 		<script type= "text/javascript" src="{{ site.baseurl }}/assets/js/tracking.js"></script>
 		<script type= "text/javascript" src="{{ site.baseurl }}/assets/js/menu.js"></script>
 	</body>
