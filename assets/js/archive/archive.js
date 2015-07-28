@@ -38,13 +38,10 @@ $(document).ready(function() {
       }
     });
 
-
-    console.log(moment().format('LLLL'));
-
     $('span.resultado').text(results.length+ ' notícias encontradas');
     $.infinite_scroll.posts = results;
     $.infinite_scroll.load();
-
+    $.infinite_scroll.itemIsVisible('main .container');
   });
 
   $('main button').hide();

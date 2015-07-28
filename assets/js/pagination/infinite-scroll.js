@@ -11,6 +11,7 @@ $(document).ready(function() {
   };
   var $container = $('main .container');
 
+
   $container.imagesLoaded(function(){
     $container.masonry({
       itemSelector: '.item',
@@ -28,6 +29,11 @@ $(document).ready(function() {
     },
     posts: [{}],
     create: function(posts){},
+    itemIsVisible: function(item){
+      if($(item).isOnScreen()) {
+        $.infinite_scroll.load();
+      }
+    },
     load: function(){
       var element = this.create(this.posts);
 
@@ -42,9 +48,7 @@ $(document).ready(function() {
     var pageHeight = $(this).height();
     var scrollTop = $(this).scrollTop();
 
-    if($('.item:last-child').isOnScreen()) {
-      $.infinite_scroll.load();
-    }
+    $.infinite_scroll.itemIsVisible('.item:last-child');
   });
 
   if(!!moment){
