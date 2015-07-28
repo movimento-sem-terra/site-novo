@@ -5,7 +5,7 @@ tags:
   - tag: caatinga
   - tag: serrado
   - tag: meio-ambiente
-title: Desmatamento silencioso da Caatinga tem intensificado a desertificação do semiárido brasileiro.
+title: Desmatamento silencioso da Caatinga tem intensificado a desertificação do semiárido brasileiro
 support_line: "O semiárido todo tem um milhão de km², então cerca de 10% a 15% dessa área está numa situação de severidade muito grande”, adverte o pesquisador da Embrapa."
 menu: meio ambiente
 images_hd: "http://farm1.staticflickr.com/336/19907725780_4b0cfbe683_b.jpg"
