@@ -7,7 +7,7 @@ tags:
   - tag: reforma-agrária
   - tag: Paraná
 title: Carta da 14ª Jornada de Agroecologia
-support_line: As Jornadas são parte de um processo de articulação que promovem a agroecologia e a luta permanente contra o projeto das empresa do agronegócio
+support_line: As Jornadas são parte de um processo de articulação que promovem a agroecologia e a luta permanente contra o projeto das empresa do agronegócio.
 menu: agricultura camponesa
 images_hd: "http://farm1.staticflickr.com/432/20088425905_35be7a5db6_b.jpg"
 layout: post
@@ -36,6 +36,12 @@ files:
     small: "http://farm1.staticflickr.com/509/19467603143_ec1fb395b0_n.jpg"
     title: 1-aGTYS_0uLXAwS1d--EYQvA.jpeg
     $$hashKey: 0A0
+  - link: "http://farm1.staticflickr.com/362/19468188133_09f99a8af1_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/362/19468188133_09f99a8af1_t.jpg"
+    medium: "http://farm1.staticflickr.com/362/19468188133_09f99a8af1_z.jpg"
+    small: "http://farm1.staticflickr.com/362/19468188133_09f99a8af1_n.jpg"
+    title: 11760046_733948813397791_7696817450331108985_n.jpg
+    $$hashKey: 0HJ
 created_date: "2015-07-28T12:42:41-03:00"
 published: true
 releated_posts:
@@ -62,7 +68,7 @@ Eis a carta.</p>
 
 <p>&nbsp;</p>
 
-<figure class="image" style="float:left"><img alt="1-5DrhM5nAStTHCarLhUdPmA.jpeg" height="600" src="http://farm1.staticflickr.com/390/20088423505_bf2f567d8e_b.jpg" width="400" />
+<figure class="image" style="float:left"><img alt="1-5DrhM5nAStTHCarLhUdPmA.jpeg" height="450" src="http://farm1.staticflickr.com/390/20088423505_bf2f567d8e_b.jpg" width="300" />
 <figcaption></figcaption>
 </figure>
 
@@ -77,8 +83,13 @@ Estas for&ccedil;as sociais se levantam e se contrap&otilde;em &agrave; monocult
 <p><br />
 O Movimento Social Agroecol&oacute;gico no Brasil reclama por mais de doze anos pela efetiva&ccedil;&atilde;o de pol&iacute;tica p&uacute;blica estruturante para a agroecologia. A resposta do Governo Federal foi o an&uacute;ncio, em 2013, da pol&iacute;tica que orienta o Plano Nacional de Agroecologia e Produ&ccedil;&atilde;o Org&acirc;nica &ndash; PLANAPO. No lugar de se constituir um plano estruturante para a agroecologia, segue, contudo, a l&oacute;gica fragmentada de editais p&uacute;blicos com disponibilidade de recursos limitados e absolutamente insuficientes frente &agrave;s demandas da agricultura camponesa agroecol&oacute;gica.</p>
 
-<p><br />
-O PLANAPO &eacute; reconhecidamente uma conquista efetiva para o avan&ccedil;o da agroecologia, que exige medidas sem as quais n&atilde;o ir&aacute; atender sua efetividade, destacamos como exemplo a n&atilde;o implementa&ccedil;&atilde;o do Programa Nacional de Redu&ccedil;&atilde;o de Agrot&oacute;xicos, o PRONARA.</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="11760046_733948813397791_7696817450331108985_n.jpg" height="450" src="http://farm1.staticflickr.com/362/19468188133_09f99a8af1_b.jpg" width="300" />
+<figcaption></figcaption>
+</figure>
+
+<p>O PLANAPO &eacute; reconhecidamente uma conquista efetiva para o avan&ccedil;o da agroecologia, que exige medidas sem as quais n&atilde;o ir&aacute; atender sua efetividade, destacamos como exemplo a n&atilde;o implementa&ccedil;&atilde;o do Programa Nacional de Redu&ccedil;&atilde;o de Agrot&oacute;xicos, o PRONARA.</p>
 
 <p><br />
 Na contram&atilde;o da agricultura camponesa agroecol&oacute;gica, o Estado reabasteceu o agroneg&oacute;cio com 159 bilh&otilde;es de reais e a agricultura familiar com apenas 28 bilh&otilde;es de reais. Este recurso p&uacute;blico abastece os lucros das corpora&ccedil;&otilde;es de agrot&oacute;xicos e transg&ecirc;nicos, m&aacute;quinas agr&iacute;colas e do sistema financeiro. Deste montante qual o valor que efetivamente &eacute; destinado &agrave; agroecologia? N&atilde;o sabemos!</p>
