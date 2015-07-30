@@ -8,7 +8,7 @@ tags:
 title: "Agrotóxicos: quem deve decidir seu uso?"
 support_line: Há farta produção científica e acadêmica indicando a correlação entre a exposição a agrotóxicos e o surgimento de doenças crônicas.
 menu: agronegócio
-section: cover
+section: featured-news
 images_hd: "http://farm4.staticflickr.com/3665/19520624484_7020b3b78e_b.jpg"
 layout: post
 files:
