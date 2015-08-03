@@ -25,15 +25,15 @@ published: true
 releated_posts: []
 
 ---
+<figure class="image" style="float:right"><img alt="IMG-20150803-WA0021.jpg" height="280" src="http://farm1.staticflickr.com/261/19630886654_3e344197eb_b.jpg" width="420" />
+<figcaption>Ocupa&ccedil;&atilde;o no Minist&eacute;rio da Fazenda, em Bras&iacute;lia</figcaption>
+</figure>
+
 <p>Na madrugada desta segunda feira (3/8), cerca de 2000 mil trabalhadores trabalhadoras&nbsp;Sem Terra ocuparam&nbsp;o&nbsp;Minist&eacute;rio da Fazenda contra o ajuste fiscal do governo no or&ccedil;amento da reforma agr&aacute;ria.&nbsp;<br />
 <br />
 Segundo Alexandre Concei&ccedil;&atilde;o, da coordena&ccedil;&atilde;o nacional do MST, o movimento volta a denunciar a paralisa&ccedil;&atilde;o da Reforma Agr&aacute;ria&nbsp;no pa&iacute;s com a realiza&ccedil;&atilde;o de uma segunda Jornada de Lutas contra o ajuste fiscal do governo que cortou quase 50% dos recursos da&nbsp;Reforma Agr&aacute;ria - de R$ 3,5 bilh&otilde;es sobraram apenas R$ 1,8 bilh&atilde;o.&nbsp;<br />
 <br />
 &quot;O ajuste fiscal do Governo Federal amea&ccedil;a estagnar ainda mais o processo da Reforma Agr&aacute;ria no pa&iacute;s, pois sem or&ccedil;amento n&atilde;o&nbsp;h&aacute; como o governo cumprir o compromisso pol&iacute;tico, assumido no in&iacute;cio deste ano, de assentar 120 mil fam&iacute;lias Sem Terra&nbsp;acampadas no Brasil&quot;, afirma.&nbsp;</p>
-
-<figure class="image" style="float:right"><img alt="IMG-20150803-WA0021.jpg" height="280" src="http://farm1.staticflickr.com/261/19630886654_3e344197eb_b.jpg" width="420" />
-<figcaption>Ocupa&ccedil;&atilde;o no Minist&eacute;rio da Fazenda, em Bras&iacute;lia</figcaption>
-</figure>
 
 <p>A pol&iacute;tica econ&ocirc;mica do governo federal coloca em risco a conquista de direitos dos trabalhadores, pois corta recursos&nbsp;financeiros da reforma agr&aacute;ria e da classe trabalhadora para seguir injetando dinheiro no capital financeiro e nas&nbsp;transnacionais, beneficiando a elite brasileira. S&oacute; para o agroneg&oacute;cio foi disponibilizado R$ 187 bilh&otilde;es&nbsp;de recursos pelo Plano Safra deste ano. Um aumento de 20% no volume de recursos em rela&ccedil;&atilde;o &agrave; safra anterior.&nbsp;<br />
 <br />
