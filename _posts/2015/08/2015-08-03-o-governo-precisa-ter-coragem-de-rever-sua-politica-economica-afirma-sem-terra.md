@@ -5,7 +5,7 @@ tags:
   - tag: reforma-agrária
   - tag: ministério-da-fazenda
 title: "“O governo precisa ter coragem de rever sua política econômica”, afirma Sem Terra"
-images_hd: "http://farm1.staticflickr.com/265/20073057909_457e666fab_b.jpg"
+images_hd: "http://farm1.staticflickr.com/472/19639549853_d6f0c0a30b_b.jpg"
 support_line: "Em entrevista, Débora Nunes, do MST, explica o por quê diversos ministérios da Fazenda estão sendo ocupados pelos Sem Terra em todo o país."
 menu: lutas e mobilizações
 label: interviews
@@ -59,6 +59,12 @@ files:
     small: "http://farm1.staticflickr.com/265/20073057909_457e666fab_n.jpg"
     title: sc.jpg
     $$hashKey: 05X
+  - link: "http://farm1.staticflickr.com/472/19639549853_d6f0c0a30b_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/472/19639549853_d6f0c0a30b_t.jpg"
+    medium: "http://farm1.staticflickr.com/472/19639549853_d6f0c0a30b_z.jpg"
+    small: "http://farm1.staticflickr.com/472/19639549853_d6f0c0a30b_n.jpg"
+    title: dilma_levy.jpg
+    $$hashKey: 05Z
 created_date: "2015-08-03T11:17:41-03:00"
 published: true
 releated_posts:
