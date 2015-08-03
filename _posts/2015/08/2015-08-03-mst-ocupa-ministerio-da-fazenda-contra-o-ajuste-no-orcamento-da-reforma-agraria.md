@@ -43,7 +43,7 @@ releated_posts:
 Na madrugada desta segunda feira (3/8), cerca de 2.000 mil trabalhadores trabalhadoras&nbsp;Sem Terra ocuparam&nbsp;o&nbsp;Minist&eacute;rio da Fazenda contra o ajuste fiscal do governo no or&ccedil;amento da reforma agr&aacute;ria.&nbsp;</p>
 
 <p><br />
-At&eacute; o momento, os Minist&eacute;rios da Fazenda de Porto Alegre, Recife, Fortaleza, Florian&oacute;polis,&nbsp;Curitiba e Bahia tamb&eacute;m foram ocupados. No Mato Grosso, cerca de 400 camponeses&nbsp;marcham pela cidade de Jaciara. No Par&aacute;, 2 mil trabalhadores rurais ocupam a ferrovia da Vale. Em MG, duas rodovias foram trancadas. No PR, os Sem Terra tamb&eacute;m est&atilde;o mobilizados em cinco ped&aacute;gios nos munic&iacute;pios do interior do estado. Ontem, cerca de 200 Sem Terra ocuparam a Fazenda Santo Henrique, pertencente a empresa Cutrale, em S&atilde;o Paulo.</p>
+At&eacute; o momento, os Minist&eacute;rios da Fazenda de Porto Alegre, Recife, Fortaleza, Florian&oacute;polis,&nbsp;Curitiba, Palmas e&nbsp;Bahia&nbsp;tamb&eacute;m foram ocupados. No Mato Grosso, cerca de 400 camponeses&nbsp;marcham pela cidade de Jaciara. No Par&aacute;, 2 mil trabalhadores rurais ocupam a ferrovia da Vale. Em MG, duas rodovias foram trancadas. No PR, os Sem Terra tamb&eacute;m est&atilde;o mobilizados em cinco ped&aacute;gios nos munic&iacute;pios do interior do estado. Ontem, cerca de 200 Sem Terra ocuparam a Fazenda Santo Henrique, pertencente a empresa Cutrale, em S&atilde;o Paulo.</p>
 
 <p>&nbsp;</p>
 
