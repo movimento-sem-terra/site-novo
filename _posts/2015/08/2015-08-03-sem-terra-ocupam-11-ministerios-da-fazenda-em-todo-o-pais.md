@@ -5,8 +5,8 @@ tags:
   - tag: reforma-agrária
   - tag: ajuste-fiscal
   - tag: ministério-da-fazenda
-support_line: "Até o momento, 16 estados mais a capital federal estão mobilizados contra os ajustes fiscais do governo federal."
-title: Sem Terra ocupam 11 Ministérios da Fazenda contra cortes na Reforma Agrária
+support_line: "Até o momento, 17 estados mais a capital federal estão mobilizados contra os ajustes fiscais do governo federal."
+title: Sem Terra ocupam 12 Ministérios da Fazenda contra cortes na Reforma Agrária
 menu: lutas e mobilizações
 section: cover
 images_hd: "http://farm1.staticflickr.com/358/20263850085_cb33b2f39a_b.jpg"
@@ -79,10 +79,10 @@ releated_posts:
 Diversos Minist&eacute;rios da Fazenda amanheceram ocupados por milhares de Sem Terra em todo o pa&iacute;s, nesta segunda-feira (3).</p>
 
 <p><br />
-At&eacute; o momento, dez estados mais o Distrito Federal tiveram seus Minist&eacute;rios ocupados. S&atilde;o eles a capital Porto Alegre, Aracaju, Recife, Fortaleza, Florian&oacute;polis, Curitiba, Palmas, Porto Velho, Jo&atilde;o Pessoa e Salvador.</p>
+At&eacute; o momento, dez estados mais o Distrito Federal tiveram seus Minist&eacute;rios ocupados. S&atilde;o eles a capital Porto Alegre, Aracaju, Recife, Fortaleza, Florian&oacute;polis, Curitiba, Palmas, Porto Velho, Jo&atilde;o Pessoa, Salvador e Rio de Janeiro.</p>
 
 <p><br />
-Al&eacute;m dos Minist&eacute;rios, diversas outras mobiliza&ccedil;&otilde;es, como ocupa&ccedil;&otilde;es de terras, trancamento de rodovias e ferrovias e marchas pelas cidades est&atilde;o ocorrendo pelo pa&iacute;s. Ao todo, 16 estados est&atilde;o mobilizados, al&eacute;m da capital federal (Veja abaixo o balan&ccedil;o completo).</p>
+Al&eacute;m dos Minist&eacute;rios, diversas outras mobiliza&ccedil;&otilde;es, como ocupa&ccedil;&otilde;es de terras, trancamento de rodovias e ferrovias e marchas pelas cidades est&atilde;o ocorrendo pelo pa&iacute;s. Ao todo, 17&nbsp;estados est&atilde;o mobilizados, al&eacute;m da capital federal (Veja abaixo o balan&ccedil;o completo).</p>
 
 <p><br />
 <a href="http://www.mst.org.br/2015/08/03/o-governo-precisa-ter-coragem-de-rever-sua-politica-economica-afirma-sem-terra.html" target="_blank">&ldquo;O governo precisa ter coragem de rever sua pol&iacute;tica econ&ocirc;mica&rdquo;, afirma dirigente do MST</a></p>
@@ -156,6 +156,12 @@ No Par&aacute;, 2 mil trabalhadores rurais Sem Terra ocuparam a ferrovia de Cara
 
 <p><br />
 No Mato Grosso, cerca de 400 camponeses marcham pela cidade de Jaciara. A marcha percorrer&aacute; o centro da cidade passando pelo F&oacute;rum municipal C&acirc;mara de Vereadores e Prefeitura, onde ser&atilde;o pautados o apoio contra o despejo das fam&iacute;lias que est&atilde;o acampadas no latif&uacute;ndio Fazenda Nossa Senhora Aparecida, que est&aacute; em nome de Waldemir Ival Lotto, Presidente Executivo do Grupo Amaggi.</p>
+
+<p><br />
+<strong>RJ</strong></p>
+
+<p><br />
+Os trablhadores rurais do&nbsp;MST tamb&eacute;m ocuparam o Minist&eacute;rio da Fazenda na capital fluminense.</p>
 
 <p><br />
 <strong>AL</strong></p>
