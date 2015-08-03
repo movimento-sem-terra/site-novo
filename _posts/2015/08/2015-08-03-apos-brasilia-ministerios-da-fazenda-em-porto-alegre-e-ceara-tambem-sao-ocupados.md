@@ -17,6 +17,12 @@ files:
     small: "http://farm1.staticflickr.com/551/20246002022_de7884ee7a_n.jpg"
     title: IMG-20150803-WA0008.jpg
     $$hashKey: 0DT
+  - link: "http://farm1.staticflickr.com/290/19634149713_e4a5ec89a9_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/290/19634149713_e4a5ec89a9_t.jpg"
+    medium: "http://farm1.staticflickr.com/290/19634149713_e4a5ec89a9_z.jpg"
+    small: "http://farm1.staticflickr.com/290/19634149713_e4a5ec89a9_n.jpg"
+    title: IMG_20150803_075836064.jpg
+    $$hashKey: 0RO
 created_date: "2015-08-03T07:43:38-03:00"
 published: true
 releated_posts:
@@ -26,11 +32,12 @@ releated_posts:
   - 2015/07/2015-07-31-mais-um-grande-latifundio-e-ocupado-por-sem-terras-no-extremo-sul-da-bahia.md
 
 ---
-<figure class="image"><img alt="IMG-20150803-WA0008.jpg" src="http://farm1.staticflickr.com/551/20246002022_de7884ee7a_b.jpg" />
-<figcaption>Ocupa&ccedil;&atilde;o do Minist&eacute;rio da Fazenda no Cear&aacute;, na manh&atilde; desta segunda-feira.</figcaption>
+<figure class="image"><img alt="IMG_20150803_075836064.jpg" src="http://farm1.staticflickr.com/290/19634149713_e4a5ec89a9_b.jpg" />
+<figcaption>Ocupa&ccedil;&atilde;o do Minist&eacute;rio da Fazenda em Porto Alegre, nesta manh&atilde;, por cerca de 2 mil Sem Terra.</figcaption>
 </figure>
 
 <p><br />
+<br />
 <em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
@@ -53,3 +60,10 @@ De acordo com a dirigente, n&atilde;o h&aacute; previs&atilde;o para que os trab
 
 <p><br />
 O pr&eacute;dio do Minist&eacute;rio da Fazenda fica localizado na Avenida Loureiro da Silva, 445, cidade baixa, pr&oacute;ximo &agrave; Superintend&ecirc;ncia Estadual do Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra), na Capital.</p>
+
+<p><br />
+&nbsp;</p>
+
+<figure class="image"><img alt="IMG-20150803-WA0008.jpg" src="http://farm1.staticflickr.com/551/20246002022_de7884ee7a_b.jpg" />
+<figcaption>Sem Terra ocupam Minist&eacute;rio da Fazenda no Cear&aacute; na manh&atilde; desta segunda-feira.</figcaption>
+</figure>
