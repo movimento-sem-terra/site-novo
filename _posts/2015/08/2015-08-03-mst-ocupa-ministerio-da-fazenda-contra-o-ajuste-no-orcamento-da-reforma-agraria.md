@@ -5,7 +5,7 @@ tags:
   - tag: reforma-agrária
   - tag: ministério-da-fazenda
   - tag: ocupação
-title: MST ocupa Ministérios da Fazenda por todo país contra cortes na Reforma Agrária
+title: MST ocupa o Ministério da Fazenda contra ajuste no orçamento da Reforma Agrária
 support_line: "Os Sem Terra denunciam a paralisação da Reforma Agrária no país com a realização de uma segunda Jornada de Lutas contra o ajuste fiscal do Governo Federal. "
 menu: lutas e mobilizações
 section: featured-news
@@ -41,8 +41,6 @@ releated_posts:
 
 <p><br />
 Na madrugada desta segunda feira (3/8), cerca de 2.000 mil trabalhadores trabalhadoras Sem Terra ocuparam o Minist&eacute;rio da Fazenda contra o ajuste fiscal do governo no or&ccedil;amento da reforma agr&aacute;ria.&nbsp;</p>
-
-<p>&nbsp;</p>
 
 <p><br />
 Segundo Alexandre Concei&ccedil;&atilde;o, da coordena&ccedil;&atilde;o nacional do MST, o Movimento volta a denunciar a paralisa&ccedil;&atilde;o da Reforma Agr&aacute;ria&nbsp;no pa&iacute;s com a realiza&ccedil;&atilde;o de uma segunda Jornada de Lutas contra o ajuste fiscal do governo, que cortou quase 50% dos recursos da&nbsp;Reforma Agr&aacute;ria - de R$ 3,5 bilh&otilde;es sobraram apenas R$ 1,8 bilh&atilde;o.&nbsp;</p>
