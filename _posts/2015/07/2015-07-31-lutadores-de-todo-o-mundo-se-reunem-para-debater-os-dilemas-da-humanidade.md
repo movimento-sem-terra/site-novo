@@ -4,7 +4,7 @@ tags:
   - tag: formação
   - tag: internacional
   - tag: enff
-images_hd: "http://farm1.staticflickr.com/379/19987265518_8076963c51_b.jpg"
+images_hd: "http://farm6.staticflickr.com/5621/19987634250_53569601fb_b.jpg"
 menu: projeto popular
 title: "MST realiza \"Dilemas da Humanidade\" e reúne lutadores de todo o mundo"
 support_line: "A atividade reuniu cerca de 250 pessoas de 32 países,   entre organizações sociais e intelectuais, na Escola Nacional Florestan Fernandes."
@@ -35,6 +35,12 @@ files:
     small: "http://farm6.staticflickr.com/5621/19987634250_53569601fb_n.jpg"
     title: IMG_9597.jpg
     $$hashKey: 04F
+  - link: "http://farm1.staticflickr.com/467/19644225533_137b1ee2c5_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/467/19644225533_137b1ee2c5_t.jpg"
+    medium: "http://farm1.staticflickr.com/467/19644225533_137b1ee2c5_z.jpg"
+    small: "http://farm1.staticflickr.com/467/19644225533_137b1ee2c5_n.jpg"
+    title: dilemas.jpg
+    $$hashKey: 0I5
 created_date: "2015-07-31T14:03:45-03:00"
 published: true
 releated_posts:
@@ -44,7 +50,7 @@ releated_posts:
   - 2015/01/2015-01-25-mais-de-600-pessoas-participaram-do-premio-luta-pela-terra.md
 
 ---
-<p><img alt="IMG_9596.jpg" src="http://farm1.staticflickr.com/379/19987265518_8076963c51_b.jpg" /></p>
+<p><img alt="IMG_9597.jpg" src="http://farm6.staticflickr.com/5621/19987634250_53569601fb_b.jpg" /></p>
 
 <p><br />
 <em>Por Luiz Felipe Albuquerque<br />
@@ -90,7 +96,7 @@ Al&eacute;m de Silvia Ribeiro e David Harvey, nomes como Julian Assange (WikiLea
 Para&nbsp;a cubana Llanisca Lugo, do centro de estudos M&aacute;rtin Luther King, o encontro cumpre o papel de &ldquo;encontrar-se&rdquo;. Para ela &ldquo;a&nbsp;classe trabalhadora tem um d&eacute;ficit de encontros, de se reconhecer, compartilhar suas vidas, experi&ecirc;ncias e lutas. Precisamos recuperar um espa&ccedil;o de reflex&atilde;o, pensar coletivamente. O evento&nbsp;possibilitou a reflex&atilde;o coletiva sobre o que est&aacute; acontecendo, bem como quais&nbsp;s&atilde;o os&nbsp;problemas comuns. O encontro reafirmou o tempo todo a necessidade de reconstruir e fortalecer o internacionalismo entre a classe trabalhadora e de recuperar e levantar a auto estima revolucion&aacute;ria&rdquo;.<br />
 &nbsp;</p>
 
-<p class="p1"><img alt="IMG_9597.jpg" src="http://farm6.staticflickr.com/5621/19987634250_53569601fb_b.jpg" /></p>
+<p class="p1"><img alt="dilemas.jpg" src="http://farm1.staticflickr.com/467/19644225533_137b1ee2c5_b.jpg" /></p>
 
 <p class="p1"><br />
 As m&iacute;sticas e noites culturais trouxeram a diversidade&nbsp;dos povos que participaram do encontro.</p>
