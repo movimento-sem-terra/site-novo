@@ -27,11 +27,10 @@ files:
 created_date: "2015-08-03T07:05:45-03:00"
 published: true
 releated_posts:
-  - 2015/07/2015-07-13-cerca-de-600-familias-ocupam-mais-um-latifundio-no-mato-grosso.md
-  - 2015/07/2015-07-20-cerca-de-300-familias-ocupam-o-segundo-latifundio-no-mato-grosso-em-uma-semana.md
-  - 2015/04/2015-04-16-sem-terra-ocupam-usina-nova-uniao-e-fazenda-martinopolis-em-serrana.md
-  - 2015/07/2015-07-21-durmam-de-botina-a-historia-de-um-acampamento-sem-terra-no-parana.md
   - 2015/06/2015-06-29-governo-nao-cumpriu-sem-terra-reocupou.md
+  - 2015/08/2015-08-03-apos-brasilia-ministerios-da-fazenda-em-porto-alegre-e-ceara-tambem-sao-ocupados.md
+  - 2015/08/2015-08-03-mst-ocupa-delegacia-do-ministerio-da-fazenda-em-curitiba.md
+  - 2015/08/2015-08-02-sem-terra-ocupam-fazenda-grilada-pela-cutrale-em-sao-paulo.md
 
 ---
 <figure class="image" style="float:right"><img alt="IMG-20150803-WA0021.jpg" height="280" src="http://farm1.staticflickr.com/261/19630886654_3e344197eb_b.jpg" width="420" />
@@ -42,6 +41,9 @@ releated_posts:
 
 <p><br />
 Na madrugada desta segunda feira (3/8), cerca de 2.000 mil trabalhadores trabalhadoras&nbsp;Sem Terra ocuparam&nbsp;o&nbsp;Minist&eacute;rio da Fazenda contra o ajuste fiscal do governo no or&ccedil;amento da reforma agr&aacute;ria.&nbsp;</p>
+
+<p><br />
+At&eacute; o momento, os Minist&eacute;rios da Fazenda de Porto Alegre, Recife, Florian&oacute;polis,&nbsp;Curitiba e Bahia tamb&eacute;m foram ocupados. No Mato Grosso, cerca de 400 camponeses&nbsp;marcham pela capital. No Par&aacute;, 2 mil trabalhadores rurais ocupam a ferrovia da Vale. Em MG, duas rodovias foram trancadas.</p>
 
 <p><br />
 Segundo Alexandre Concei&ccedil;&atilde;o, da coordena&ccedil;&atilde;o nacional do MST, o Movimento volta a denunciar a paralisa&ccedil;&atilde;o da Reforma Agr&aacute;ria&nbsp;no pa&iacute;s com a realiza&ccedil;&atilde;o de uma segunda Jornada de Lutas contra o ajuste fiscal do governo, que cortou quase 50% dos recursos da&nbsp;Reforma Agr&aacute;ria - de R$ 3,5 bilh&otilde;es sobraram apenas R$ 1,8 bilh&atilde;o.&nbsp;</p>
