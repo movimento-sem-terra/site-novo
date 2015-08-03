@@ -88,10 +88,10 @@ releated_posts:
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
-A manh&atilde; desta segunda-feira (3) amanheceu com diversos Minist&eacute;rios da Fazenda<a href="http://www.mst.org.br/2015/08/03/mst-ocupa-ministerio-da-fazenda-contra-o-ajuste-no-orcamento-da-reforma-agraria.html" target="_blank">&nbsp;ocupados por milhares de Sem Terra</a>&nbsp;<span style="line-height: 20.7999992370605px;">em todo o pa&iacute;s</span></p>
+Diversos Minist&eacute;rios da Fazenda amanheceram ocupados por milhares de Sem Terra em todo o pa&iacute;s, nesta segunda-feira (3).</p>
 
 <p><br />
-At&eacute; o momento, os Minist&eacute;rios da Fazenda de Bras&iacute;lia, Porto Alegre, Recife, Fortaleza, Florian&oacute;polis, Curitiba, Palmas, Para&iacute;ba e Bahia foram ocupados.&nbsp;</p>
+At&eacute; o momento, os Minist&eacute;rios da Fazenda de Bras&iacute;lia, Porto Alegre, Recife, Fortaleza, Florian&oacute;polis, Curitiba, Palmas, Para&iacute;ba,&nbsp;Bahia, Rond&ocirc;nia e Sergipe foram ocupados.&nbsp;</p>
 
 <p><br />
 A pauta principal &eacute; a denuncia ao ajuste fiscal do governo federal, que dentre outras coisas, cortou quase 50% dos recursos da Reforma Agr&aacute;ria para este ano - de R$ 3,5 bilh&otilde;es sobraram apenas R$ 1,8 bilh&atilde;o.</p>
