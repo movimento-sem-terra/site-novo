@@ -65,6 +65,12 @@ files:
     small: "http://farm1.staticflickr.com/472/19639549853_d6f0c0a30b_n.jpg"
     title: dilma_levy.jpg
     $$hashKey: 05Z
+  - link: "http://farm6.staticflickr.com/5617/19641273903_540d7d325f_b.jpg"
+    thumbnail: "http://farm6.staticflickr.com/5617/19641273903_540d7d325f_t.jpg"
+    medium: "http://farm6.staticflickr.com/5617/19641273903_540d7d325f_z.jpg"
+    small: "http://farm6.staticflickr.com/5617/19641273903_540d7d325f_n.jpg"
+    title: bsb_ministério.jpg
+    $$hashKey: "061"
 created_date: "2015-08-03T11:17:41-03:00"
 published: true
 releated_posts:
@@ -76,11 +82,8 @@ releated_posts:
   - 2015/08/2015-08-02-sem-terra-ocupam-fazenda-grilada-pela-cutrale-em-sao-paulo.md
 
 ---
-<figure class="image"><img alt="fora levy.jpg" src="http://farm6.staticflickr.com/5621/19637733113_1b12f8559c_b.jpg" />
-<figcaption>Cerca de 2 mil Sem Terra ocuparam o Minist&eacute;rio da Fazenda em Bras&iacute;lia, nesta manh&atilde;.</figcaption>
-</figure>
-
-<p><br />
+<p><img alt="bsb_ministério.jpg" src="http://farm6.staticflickr.com/5617/19641273903_540d7d325f_b.jpg" /><br />
+<br />
 <em>Por Luiz Felipe Albuquerque<br />
 Da P&aacute;gina do MST</em></p>
 
