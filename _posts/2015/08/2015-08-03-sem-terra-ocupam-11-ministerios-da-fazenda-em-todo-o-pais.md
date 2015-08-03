@@ -42,6 +42,18 @@ files:
     small: "http://farm1.staticflickr.com/455/19643199653_0ef739738f_n.jpg"
     title: ceará.jpg
     $$hashKey: 07O
+  - link: "http://farm1.staticflickr.com/426/19641721024_8a8eff9535_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/426/19641721024_8a8eff9535_t.jpg"
+    medium: "http://farm1.staticflickr.com/426/19641721024_8a8eff9535_z.jpg"
+    small: "http://farm1.staticflickr.com/426/19641721024_8a8eff9535_n.jpg"
+    title: mt.jpg
+    $$hashKey: "062"
+  - link: "http://farm4.staticflickr.com/3697/20077833029_d3eb9ce1fe_b.jpg"
+    thumbnail: "http://farm4.staticflickr.com/3697/20077833029_d3eb9ce1fe_t.jpg"
+    medium: "http://farm4.staticflickr.com/3697/20077833029_d3eb9ce1fe_z.jpg"
+    small: "http://farm4.staticflickr.com/3697/20077833029_d3eb9ce1fe_n.jpg"
+    title: ba_ministerio.jpg
+    $$hashKey: "065"
 created_date: "2015-08-03T15:10:53-03:00"
 published: true
 releated_posts:
@@ -61,9 +73,7 @@ releated_posts:
 </figure>
 
 <p><br />
-&nbsp;</p>
-
-<p><em>Da P&aacute;gina do MST</em></p>
+<em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
 Diversos Minist&eacute;rios da Fazenda amanheceram ocupados por milhares de Sem Terra em todo o pa&iacute;s, nesta segunda-feira (3).</p>
@@ -103,7 +113,7 @@ A a&ccedil;&atilde;o faz parte da Jornada Nacional de Lutas pela Reforma Agr&aac
 </figure>
 
 <p><br />
-Confira abaixo as mobiliza&ccedil;&otilde;es em cada estado</p>
+Confira abaixo as mobiliza&ccedil;&otilde;es em cada estado:</p>
 
 <p><br />
 <strong>Bsb</strong></p>
@@ -151,8 +161,7 @@ No Mato Grosso, cerca de 400 camponeses marcham pela cidade de Jaciara. A marcha
 <strong>AL</strong></p>
 
 <p><br />
-Em Macei&oacute;, milhares de trabalhadores e trabalhadoras Sem Terra se concentraram na Pra&ccedil;a Sinimbu no centro da cidade. Tamb&eacute;m na capital alagoana 300 Sem Terra trancaram a entrada do Porto da cidade.&nbsp;<br />
-Al&eacute;m da realiza&ccedil;&atilde;o da pol&iacute;tica de Reforma Agr&aacute;ria, os Sem Terra reivindicam a destina&ccedil;&atilde;o das terras do grupo Jo&atilde;o Lyra para assentamentos.<br />
+Em Macei&oacute;, milhares de trabalhadores e trabalhadoras Sem Terra se concentraram na Pra&ccedil;a Sinimbu no centro da cidade. Tamb&eacute;m na capital alagoana 300 Sem Terra trancaram a entrada do Porto da cidade.&nbsp;Al&eacute;m da realiza&ccedil;&atilde;o da pol&iacute;tica de Reforma Agr&aacute;ria, os Sem Terra reivindicam a destina&ccedil;&atilde;o das terras do grupo Jo&atilde;o Lyra para assentamentos.<br />
 &nbsp;</p>
 
 <figure class="image"><img alt="sc.jpg" src="http://farm1.staticflickr.com/538/20264126915_9c62a80296_b.jpg" />
@@ -178,7 +187,13 @@ Em Recife, capital pernambucana, cerca de mil Sem Terra vindos do Agreste, Sert&
 Em Rond&ocirc;nia, os Sem Terra que ocuparam a Secret&aacute;ria da Receita foram recebidos com viol&ecirc;ncia pela policia. At&eacute; o momento, existe a informa&ccedil;&atilde;o de dois Sem Terra feridos e cinco detidos. Cerca de 300 Sem Terra tamb&eacute;m ocuparam o Incra.</p>
 
 <p><br />
-<strong>BA</strong></p>
+&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="ba_ministerio.jpg" src="http://farm4.staticflickr.com/3697/20077833029_d3eb9ce1fe_b.jpg" />
+<figcaption>Ocupa&ccedil;&atilde;o do Minist&eacute;rio da Fazenda, em Salvador.</figcaption>
+</figure>
+
+<p><strong>BA</strong></p>
 
 <p><br />
 Na Bahia, al&eacute;m da Secret&aacute;ria da Fazenda ter sido ocupada em Salvador, tr&ecirc;s centros da Companhia Nacional de Abastecimento (Conab) foram ocupados, al&eacute;m da diretoria regional de educa&ccedil;&atilde;o de Teixeira de Freitas.</p>
@@ -196,7 +211,13 @@ Em Jo&atilde;o Pessoa, cerca de 1.200 integrantes do MST ocuparam o Minist&eacut
 Trabalhadores rurais de Tocantins tamb&eacute;m ocuparam a Secretaria da Fazenda do Estado, na capital Palmas. Os Sem Terra denunciam a falta de pol&iacute;ticas p&uacute;blicas voltadas para os camponeses, a legaliza&ccedil;&atilde;o da grilagem de terras da Uni&atilde;o pelo Instituto de Terras do Tocantins (Intertins), a explora&ccedil;&atilde;o irregular das terras do Projeto Sampaio por alguns fazendeiros da Regi&atilde;o do Bico do Papagaio e a criminaliza&ccedil;&atilde;o dos movimentos e das lutas sociais por parte dos &oacute;rg&atilde;os de seguran&ccedil;a do Estado.</p>
 
 <p><br />
-<strong>SE</strong></p>
+&nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="mt.jpg" src="http://farm1.staticflickr.com/426/19641721024_8a8eff9535_b.jpg" />
+<figcaption>Cerca de 400 marcham em Jaciara, no Mato Grosso.</figcaption>
+</figure>
+
+<p><strong>SE</strong></p>
 
 <p><br />
 Em Aracaju, cerca de 200 pessoas ocuparam o Minist&eacute;rio da Fazenda.</p>
