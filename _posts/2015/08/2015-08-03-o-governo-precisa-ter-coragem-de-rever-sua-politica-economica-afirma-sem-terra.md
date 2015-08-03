@@ -53,6 +53,12 @@ files:
     small: "http://farm4.staticflickr.com/3810/20071110040_2201e8792a_n.jpg"
     title: rondonia.jpg
     $$hashKey: 05W
+  - link: "http://farm1.staticflickr.com/265/20073057909_457e666fab_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/265/20073057909_457e666fab_t.jpg"
+    medium: "http://farm1.staticflickr.com/265/20073057909_457e666fab_z.jpg"
+    small: "http://farm1.staticflickr.com/265/20073057909_457e666fab_n.jpg"
+    title: sc.jpg
+    $$hashKey: 05X
 created_date: "2015-08-03T11:17:41-03:00"
 published: true
 releated_posts:
@@ -88,7 +94,8 @@ Para entender melhor o que se passa, a P&aacute;gina do MST entrevistou D&eacute
 &ldquo;Queremos que toda a sociedade saiba que &eacute; no Minist&eacute;rio da Fazenda onde se coloca em pr&aacute;tica a pol&iacute;tica econ&ocirc;mica ditada pelo capital e pela burguesia, contra o povo brasileiro&rdquo;, afirma.</p>
 
 <p><br />
-Para ela, &ldquo;o governo precisa ter coragem de rever essa pol&iacute;tica e adotar medidas que resolvam os problemas econ&ocirc;micos, mas cobrando de quem de fato deve pagar a conta, que s&atilde;o os ricos, a burguesia e o capital. Ter coragem de taxar as grandes fortunas e fazer com os mais ricos paguem mais impostos&rdquo;.</p>
+Para ela, &ldquo;o governo precisa ter coragem de rever essa pol&iacute;tica e adotar medidas que resolvam os problemas econ&ocirc;micos, mas cobrando de quem de fato deve pagar a conta, que s&atilde;o os ricos, a burguesia e o capital. Ter coragem de taxar as grandes fortunas e fazer com os mais ricos paguem mais impostos&rdquo;.<br />
+&nbsp;</p>
 
 <figure class="image"><img alt="IMG-20150803-WA0035.jpg" src="http://farm1.staticflickr.com/454/20264788471_bd8da02373_b.jpg" />
 <figcaption>Ocupa&ccedil;&atilde;o do Minist&eacute;rio da Fazenda na capital baiana, em Salvador.</figcaption>
@@ -232,9 +239,15 @@ N&oacute;s tamb&eacute;m entendemos que a Reforma Agr&aacute;ria tamb&eacute;m p
 A nossa juventude entende que para permanecer no campo &eacute; preciso que haja uma educa&ccedil;&atilde;o em todos os n&iacute;veis e trabalho, combina&ccedil;&atilde;o perfeita para avan&ccedil;armos na mudan&ccedil;a de matriz tecnol&oacute;gica para a agroecologia.</p>
 
 <p><br />
-Enfim os problemas nos assentamentos s&atilde;o a consequ&ecirc;ncia daquilo que ainda n&atilde;o foi feito pelo Estado e governos.</p>
+Enfim os problemas nos assentamentos s&atilde;o a consequ&ecirc;ncia daquilo que ainda n&atilde;o foi feito pelo Estado e governos.<br />
+&nbsp;</p>
+
+<figure class="image"><img alt="sc.jpg" src="http://farm1.staticflickr.com/265/20073057909_457e666fab_b.jpg" />
+<figcaption>Em Florian&oacute;polis (SC), cerca de 500 trabalhadores rurais ocuparam o Minist&eacute;rio da Fazenda.</figcaption>
+</figure>
 
 <p><br />
+<br />
 <strong>Para isso o MST prop&otilde;e o PAC da Reforma Agr&aacute;ria. O que seria isso?</strong></p>
 
 <p><br />
