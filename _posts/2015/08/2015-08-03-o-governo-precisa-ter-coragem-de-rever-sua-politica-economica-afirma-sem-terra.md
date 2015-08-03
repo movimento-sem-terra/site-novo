@@ -17,6 +17,42 @@ files:
     small: "http://farm6.staticflickr.com/5621/19637733113_1b12f8559c_n.jpg"
     title: fora levy.jpg
     $$hashKey: 02U
+  - link: "http://farm1.staticflickr.com/454/20264788471_bd8da02373_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/454/20264788471_bd8da02373_t.jpg"
+    medium: "http://farm1.staticflickr.com/454/20264788471_bd8da02373_z.jpg"
+    small: "http://farm1.staticflickr.com/454/20264788471_bd8da02373_n.jpg"
+    title: IMG-20150803-WA0035.jpg
+    $$hashKey: 05H
+  - link: "http://farm4.staticflickr.com/3775/20072388399_8c84968b06_b.jpg"
+    thumbnail: "http://farm4.staticflickr.com/3775/20072388399_8c84968b06_t.jpg"
+    medium: "http://farm4.staticflickr.com/3775/20072388399_8c84968b06_z.jpg"
+    small: "http://farm4.staticflickr.com/3775/20072388399_8c84968b06_n.jpg"
+    title: mt2.jpg
+    $$hashKey: 05K
+  - link: "http://farm1.staticflickr.com/529/20264888061_4aa2fdfbd8_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/529/20264888061_4aa2fdfbd8_t.jpg"
+    medium: "http://farm1.staticflickr.com/529/20264888061_4aa2fdfbd8_z.jpg"
+    small: "http://farm1.staticflickr.com/529/20264888061_4aa2fdfbd8_n.jpg"
+    title: TO.jpg
+    $$hashKey: 05N
+  - link: "http://farm1.staticflickr.com/411/20264929971_38635f1ce3_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/411/20264929971_38635f1ce3_t.jpg"
+    medium: "http://farm1.staticflickr.com/411/20264929971_38635f1ce3_z.jpg"
+    small: "http://farm1.staticflickr.com/411/20264929971_38635f1ce3_n.jpg"
+    title: mg_marcha.jpg
+    $$hashKey: 05Q
+  - link: "http://farm1.staticflickr.com/289/20072492729_0a851a630c_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/289/20072492729_0a851a630c_t.jpg"
+    medium: "http://farm1.staticflickr.com/289/20072492729_0a851a630c_z.jpg"
+    small: "http://farm1.staticflickr.com/289/20072492729_0a851a630c_n.jpg"
+    title: sergipeemluta.jpg
+    $$hashKey: 05T
+  - link: "http://farm4.staticflickr.com/3810/20071110040_2201e8792a_b.jpg"
+    thumbnail: "http://farm4.staticflickr.com/3810/20071110040_2201e8792a_t.jpg"
+    medium: "http://farm4.staticflickr.com/3810/20071110040_2201e8792a_z.jpg"
+    small: "http://farm4.staticflickr.com/3810/20071110040_2201e8792a_n.jpg"
+    title: rondonia.jpg
+    $$hashKey: 05W
 created_date: "2015-08-03T11:17:41-03:00"
 published: true
 releated_posts:
@@ -28,7 +64,9 @@ releated_posts:
   - 2015/08/2015-08-02-sem-terra-ocupam-fazenda-grilada-pela-cutrale-em-sao-paulo.md
 
 ---
-<p><img alt="fora levy.jpg" src="http://farm6.staticflickr.com/5621/19637733113_1b12f8559c_b.jpg" /></p>
+<figure class="image"><img alt="fora levy.jpg" src="http://farm6.staticflickr.com/5621/19637733113_1b12f8559c_b.jpg" />
+<figcaption>Cerca de 2 mil Sem Terra ocuparam o Minist&eacute;rio da Fazenda em Bras&iacute;lia, nesta manh&atilde;.</figcaption>
+</figure>
 
 <p><br />
 <em>Por Luiz Felipe Albuquerque<br />
@@ -52,7 +90,9 @@ Para entender melhor o que se passa, a P&aacute;gina do MST entrevistou D&eacute
 <p><br />
 Para ela, &ldquo;o governo precisa ter coragem de rever essa pol&iacute;tica e adotar medidas que resolvam os problemas econ&ocirc;micos, mas cobrando de quem de fato deve pagar a conta, que s&atilde;o os ricos, a burguesia e o capital. Ter coragem de taxar as grandes fortunas e fazer com os mais ricos paguem mais impostos&rdquo;.</p>
 
-<p>&nbsp;</p>
+<figure class="image"><img alt="IMG-20150803-WA0035.jpg" src="http://farm1.staticflickr.com/454/20264788471_bd8da02373_b.jpg" />
+<figcaption>Ocupa&ccedil;&atilde;o do Minist&eacute;rio da Fazenda na capital baiana, em Salvador.</figcaption>
+</figure>
 
 <p><br />
 <strong>Por que est&atilde;o sendo ocupados diversos minist&eacute;rios da Fazenda em todo o pa&iacute;s pelos Sem Terra?&nbsp;</strong></p>
@@ -67,7 +107,13 @@ O Minist&eacute;rio da Fazenda &eacute; a casa respons&aacute;vel pelos ajustes 
 Queremos que toda a sociedade saiba que &eacute; no Minist&eacute;rio da Fazenda onde se coloca em pr&aacute;tica a pol&iacute;tica econ&ocirc;mica ditada pelo capital e pela burguesia, contra o povo brasileiro.</p>
 
 <p><br />
-<strong>Como voc&ecirc; avalia a pol&iacute;tica econ&ocirc;mica do atual governo?</strong></p>
+&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="mt2.jpg" src="http://farm4.staticflickr.com/3775/20072388399_8c84968b06_b.jpg" />
+<figcaption>400 marcham na cidade de Jaciara, em Mato Grosso</figcaption>
+</figure>
+
+<p><strong>Como voc&ecirc; avalia a pol&iacute;tica econ&ocirc;mica do atual governo?</strong></p>
 
 <p><br />
 Temos feito ano ap&oacute;s ano a cr&iacute;tica &agrave; pol&iacute;tica econ&ocirc;mica do governo Dilma, desde o primeiro mandato. Mas neste segundo mandado, h&aacute; um endurecimento e um conservadorismo maior no que se refere &agrave;s quest&otilde;es econ&ocirc;micas, e n&atilde;o para resolver os problemas da sociedade.&nbsp;</p>
@@ -88,7 +134,13 @@ O governo precisa ter coragem de rever essa pol&iacute;tica e adotar medidas que
 Queremos que o governo retome a reforma agr&aacute;ria com medidas que garantam o assentamento de todas as fam&iacute;lias acampadas e as condi&ccedil;&otilde;es necess&aacute;rias nos assentamentos para que possamos viver no campo com dignidade e cumprir nossa tarefa de produzir alimentos saud&aacute;veis para alimentar o povo brasileiro. E isso n&atilde;o se faz com essa politica econ&ocirc;mica que est&aacute; posta a&iacute;.</p>
 
 <p><br />
-<strong>Quais s&atilde;o as consequ&ecirc;ncias do ajuste fiscal?</strong></p>
+&nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="TO.jpg" src="http://farm1.staticflickr.com/529/20264888061_4aa2fdfbd8_b.jpg" />
+<figcaption>Minist&eacute;rio da Fazenda ocupado em Palmas (TO)</figcaption>
+</figure>
+
+<p><strong>Quais s&atilde;o as consequ&ecirc;ncias do ajuste fiscal?</strong></p>
 
 <p><br />
 Arroxo para a classe trabalhadora, retirando direitos e benef&iacute;cios j&aacute; conquistados. Cortando o or&ccedil;amento de minist&eacute;rios que atendem diretamente os pobres, como educa&ccedil;&atilde;o, sa&uacute;de, habita&ccedil;&atilde;o, reforma agr&aacute;ria. Aumento nas contas de energia, no pre&ccedil;o da cesta b&aacute;sica. Tudo isso acompanhado do aumento do desemprego.&nbsp;</p>
@@ -100,7 +152,13 @@ Isso gera um clima muito ruim na sociedade, porque todos os dias se percebe que 
 As consequ&ecirc;ncias s&atilde;o desastrosas e a sociedade, as organiza&ccedil;&otilde;es e movimentos sociais tem a tarefa de denunciar e lutar contra esta situa&ccedil;&atilde;o.</p>
 
 <p><br />
-<strong>E onde a Reforma Agr&aacute;ria entra nisso?</strong></p>
+&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="mg_marcha.jpg" src="http://farm1.staticflickr.com/411/20264929971_38635f1ce3_b.jpg" />
+<figcaption>Trancamento de rodovia em MG</figcaption>
+</figure>
+
+<p><strong>E onde a Reforma Agr&aacute;ria entra nisso?</strong></p>
 
 <p><br />
 A Reforma Agr&aacute;ria entra no fato de n&atilde;o ter sido prioridade. Pois al&eacute;m do ajuste fiscal diminuir as despesas retirando benef&iacute;cios e direitos dos trabalhadores e trabalhadoras atrav&eacute;s das MP&acute;s, ainda realizou muitos e grandes cortes no or&ccedil;amento, em pastas que afetam, diretamente, popula&ccedil;&atilde;o.&nbsp;</p>
@@ -121,7 +179,13 @@ Queremos construir um outro modelo de agricultura, produzindo alimentos saud&aac
 Nesse sentindo, o ajuste fiscal, os cortes e a n&atilde;o prioriza&ccedil;&atilde;o por parte do governo &agrave; pol&iacute;tica de assentamentos afeta diretamente a Reforma Agr&aacute;ria.&nbsp;</p>
 
 <p><br />
-<strong>Como voc&ecirc; avalia o aceno pol&iacute;tico que o atual governo vinha dando para a Reforma Agr&aacute;ria?</strong></p>
+&nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="sergipeemluta.jpg" src="http://farm1.staticflickr.com/289/20072492729_0a851a630c_b.jpg" />
+<figcaption>Sem Terra seguem em luta em Sergipe.</figcaption>
+</figure>
+
+<p><strong>Como voc&ecirc; avalia o aceno pol&iacute;tico que o atual governo vinha dando para a Reforma Agr&aacute;ria?</strong></p>
 
 <p><br />
 O discurso do governo de que a Reforma Agr&aacute;ria &eacute; prioridade, que &eacute; preocupa&ccedil;&atilde;o garantir a produ&ccedil;&atilde;o de alimentos saud&aacute;veis, n&atilde;o vai se efetivar se esse discurso estiver descolado da garantia das condi&ccedil;&otilde;es necess&aacute;rias para que ela se efetive, a exemplo a imediata recomposi&ccedil;&atilde;o do or&ccedil;amento.</p>
@@ -132,8 +196,13 @@ A Reforma Agr&aacute;ria n&atilde;o vai acontecer como um passo de m&aacute;gica
 <p><br />
 O governo precisa convocar a sociedade para debater estes temas e buscar alternativas que levem a mudan&ccedil;as estruturais e n&atilde;o apenas paliativas e colocam o problema de hoje para amanh&atilde;.</p>
 
-<p><br />
-Na reforma agr&aacute;ria al&eacute;m da coragem politica para enfrentar o modelo do agroneg&oacute;cio, precisa ser acompanhado de garantias or&ccedil;ament&aacute;rias e financeiras de estrutura&ccedil;&atilde;o dos &oacute;rg&atilde;os que tratam da Reforma Agr&aacute;ria, sobretudo o Incra, com a garantia de concursos p&uacute;blicos para reestrutura&ccedil;&atilde;o do &oacute;rg&atilde;o para que de fato a pol&iacute;tica de Reforma Agr&aacute;ria se efetive e consiga chegar l&aacute; na ponta, resolvendo o problema de quem est&aacute; no campo e tamb&eacute;m os problemas estruturais vivenciados por toda a sociedade, a exemplo da falta de mobilidade urbana, o incha&ccedil;o das cidades, a alta nos pre&ccedil;os e o envenenamento dos alimentos.&nbsp;</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="rondonia.jpg" src="http://farm4.staticflickr.com/3810/20071110040_2201e8792a_b.jpg" />
+<figcaption>Em Rond&ocirc;nia, cerca de 300 ocuparam o Incra.</figcaption>
+</figure>
+
+<p>Na reforma agr&aacute;ria al&eacute;m da coragem politica para enfrentar o modelo do agroneg&oacute;cio, precisa ser acompanhado de garantias or&ccedil;ament&aacute;rias e financeiras de estrutura&ccedil;&atilde;o dos &oacute;rg&atilde;os que tratam da Reforma Agr&aacute;ria, sobretudo o Incra, com a garantia de concursos p&uacute;blicos para reestrutura&ccedil;&atilde;o do &oacute;rg&atilde;o para que de fato a pol&iacute;tica de Reforma Agr&aacute;ria se efetive e consiga chegar l&aacute; na ponta, resolvendo o problema de quem est&aacute; no campo e tamb&eacute;m os problemas estruturais vivenciados por toda a sociedade, a exemplo da falta de mobilidade urbana, o incha&ccedil;o das cidades, a alta nos pre&ccedil;os e o envenenamento dos alimentos.&nbsp;</p>
 
 <p><br />
 As consequ&ecirc;ncias do ajuste fiscal tem interferido diretamente quest&otilde;es cotidianas da popula&ccedil;&atilde;o. As pessoas t&ecirc;m pagado aumentos mensais na taxa de energia el&eacute;trica, o custo da cesta b&aacute;sica aumenta dia a dia, e estas coisas tamb&eacute;m tem rela&ccedil;&atilde;o direta com o que acontece no campo. Fazer a Reforma Agr&aacute;ria contribuir&aacute; tamb&eacute;m para a solu&ccedil;&atilde;o dos problemas que est&atilde;o nas cidades, mas que tem nascedouro medidas n&atilde;o realizadas no campo.&nbsp;</p>
