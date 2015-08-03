@@ -7,15 +7,15 @@ tags:
 title: "Em jornada de lutas, Sem Terra ocupam o Ministério da Fazenda na Bahia"
 menu: lutas e mobilizações
 support_line: "O objetivo da ação é dialogar com a sociedade sobre a paralisação da Reforma Agrária. "
-images_hd: "http://farm1.staticflickr.com/559/20259732165_164087fae1_b.jpg"
+images_hd: "http://farm1.staticflickr.com/368/20251674382_a0d26ba3d3_b.jpg"
 layout: post
 files:
-  - link: "http://farm1.staticflickr.com/559/20259732165_164087fae1_b.jpg"
-    thumbnail: "http://farm1.staticflickr.com/559/20259732165_164087fae1_t.jpg"
-    medium: "http://farm1.staticflickr.com/559/20259732165_164087fae1_z.jpg"
-    small: "http://farm1.staticflickr.com/559/20259732165_164087fae1_n.jpg"
-    title: mst.jpg
-    $$hashKey: 099
+  - link: "http://farm1.staticflickr.com/368/20251674382_a0d26ba3d3_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/368/20251674382_a0d26ba3d3_t.jpg"
+    medium: "http://farm1.staticflickr.com/368/20251674382_a0d26ba3d3_z.jpg"
+    small: "http://farm1.staticflickr.com/368/20251674382_a0d26ba3d3_n.jpg"
+    title: 11831326_920769821326301_1531158109_o.jpg
+    $$hashKey: 0ND
 created_date: "2015-08-03T12:04:59-03:00"
 published: true
 releated_posts:
