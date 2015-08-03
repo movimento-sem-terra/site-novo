@@ -27,7 +27,7 @@ releated_posts:
   - 2014/05/2014-05-21-jornada-de-agroecologia-se-consolida-numa-escola-popular-e-camponesa.md
   - 2015/06/2015-06-12-na-14a-jornada-tunel-do-tempo-trara-historia-dos-100-anos-da-guerra-do-contestado.md
   - 2015/06/2015-06-17-a-agroecologia-como-modelo-ideal-de-producao-de-alimentos.md
-section: featured-news
+section: null
 
 ---
 <p><img alt="LT2_2716_JORNADA-AGROECOLOGIA_2015_Foto_Leandro-Taques.jpg" src="http://farm1.staticflickr.com/263/19780378368_69ab641ce0_b.jpg" /></p>
