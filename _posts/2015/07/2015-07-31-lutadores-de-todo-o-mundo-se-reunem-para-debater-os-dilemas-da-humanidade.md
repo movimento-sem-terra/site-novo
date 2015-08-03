@@ -8,7 +8,7 @@ images_hd: "http://farm1.staticflickr.com/379/19987265518_8076963c51_b.jpg"
 menu: projeto popular
 title: "MST realiza \"Dilemas da Humanidade\" e reúne lutadores de todo o mundo"
 support_line: "A atividade reuniu cerca de 250 pessoas de 32 países,   entre organizações sociais e intelectuais, na Escola Nacional Florestan Fernandes."
-section: cover
+section: featured-news
 layout: post
 files:
   - link: "http://farm1.staticflickr.com/464/20166911522_aa5d5b5594_b.jpg"
