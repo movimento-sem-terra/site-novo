@@ -6,7 +6,7 @@ tags:
 title: "Jornada de agroecologia afirma urgência de um novo projeto de agricultura para o campo brasileiro\n"
 support_line: "“Temos que manter a conscientização, a rebeldia, a desobediência e a conspiração para enfrentar o agronegócio\", declamou José Maria Tardim."
 menu: agricultura camponesa
-section: cover
+section: featured-news
 images_hd: "http://farm1.staticflickr.com/498/19868700558_0a2599a65d_b.jpg"
 layout: post
 files:
