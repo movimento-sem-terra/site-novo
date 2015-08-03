@@ -1,7 +1,7 @@
 ---
 date: "2015-08-03T06:55:42-03:00"
 tags: []
-title: "MST ocupa Ministério da Fazenda contra ajuste no orçamento da Reforma Agrária "
+title: "MST ocupa o Ministério da Fazenda contra ajuste no orçamento da Reforma Agrária "
 support_line: "Os Sem Terra denunciam a paralisação da Reforma Agrária no país com a realização de uma segunda Jornada de Lutas contra o ajuste fiscal do Governo Federal. "
 menu: lutas e mobilizações
 section: cover
