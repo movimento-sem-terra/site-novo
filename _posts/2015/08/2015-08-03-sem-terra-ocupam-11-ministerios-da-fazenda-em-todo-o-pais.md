@@ -6,7 +6,7 @@ tags:
   - tag: ajuste-fiscal
   - tag: ministério-da-fazenda
 support_line: "Até o momento, 16 estados mais a capital federal estão mobilizados contra os ajustes fiscais do governo federal."
-title: Sem Terra ocupam 11 Ministérios da Fazenda em todo o país
+title: Sem Terra ocupam 11 Ministérios da Fazenda contra cortes na Reforma Agrária
 menu: lutas e mobilizações
 section: cover
 images_hd: "http://farm1.staticflickr.com/358/20263850085_cb33b2f39a_b.jpg"
