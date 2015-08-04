@@ -5,7 +5,7 @@ tags:
   - tag: ajuste-fiscal
   - tag: vale
   - tag: reforma-agrária
-title: Brigada Internacionalista se soma à jornada de lutas no Pará
+title: "No Pará, Brigada Internacionalista se soma à jornada de lutas contra a Vale"
 support_line: O grupo está em viagem ao Brasil para conhecer as violações da Vale e pensar ações conjuntas contra as investidas da mineradora.
 menu: lutas e mobilizações
 images_hd: "http://farm6.staticflickr.com/5620/20280472312_937a796b11_b.jpg"
