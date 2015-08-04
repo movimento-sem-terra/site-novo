@@ -8,7 +8,7 @@ tags:
 support_line: "Até o momento, 18 estados mais a capital federal estão mobilizados contra os ajustes fiscais do governo federal."
 title: Sem Terra ocupam 13 sedes do Ministério da Fazenda contra cortes na Reforma Agrária
 menu: lutas e mobilizações
-section: cover
+section: featured-news
 images_hd: "http://farm1.staticflickr.com/358/20263850085_cb33b2f39a_b.jpg"
 layout: post
 files:
