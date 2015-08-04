@@ -3,7 +3,7 @@ date: "2015-08-04T16:09:39-03:00"
 tags:
   - tag: reforma-agrária
   - tag: ajuste-fiscal
-title: "Ajuste Fiscal vai na contramão das soluções para a Reforma Agrária, aponta especialista"
+title: "Ajuste fiscal vai na contramão das soluções para a Reforma Agrária, aponta especialista"
 support_line: "Para Gerson Teixeira, engenheiro agrônomo e presidente da Abra, diante do atual cenário de dificuldades fiscais, o governo poderia começar a atuar em um plano alternativo."
 menu: reforma agrária
 images_hd: "http://farm4.staticflickr.com/3795/20106527100_50132bf337_b.jpg"
@@ -35,6 +35,7 @@ releated_posts:
   - 2015/08/2015-08-04-em-audiencia-no-rs-mst-cobra-terra-e-infraestrutura.md
   - 2015/08/2015-08-04-sem-terra-ocupam-conab-em-sc-e-exigem-a-liberacao-das-cestas-basicas.md
   - 2015/08/2015-08-04-a-ocupacao-de-terras-e-predios-publicos-tem-apoio-na-lei.md
+section: cover
 
 ---
 <p><img alt="fora levy!.jpg" src="http://farm4.staticflickr.com/3795/20106527100_50132bf337_b.jpg" /></p>
@@ -49,7 +50,7 @@ Do Brasil de Fato</em></p>
 Com 15,1% de seus gastos afetados pelo contingenciamento do or&ccedil;amento da Uni&atilde;o, o Minist&eacute;rio do Desenvolvimento Agr&aacute;rio, em termos proporcionais, &eacute; a pasta mais prejudicada. Em termos absolutos, o aporte ser&aacute; de apenas R$1,8 bilh&atilde;o. O valor representa uma redu&ccedil;&atilde;o de 49% do montante previsto inicialmente na Lei Or&ccedil;ament&aacute;ria de 2015.</p>
 
 <p><br />
-Principal respons&aacute;vel pela Reforma Agr&aacute;ria, este &ldquo;bloqueio&rdquo; de verbas nas chamadas despesas discricion&aacute;rias tende a impactar diretamente as iniciativas que executam a pol&iacute;tica de desapropria&ccedil;&atilde;o de terras e assentamentos de fam&iacute;lias. Neste cen&aacute;rio, o Movimento dos Trabalhadores Rurais Sem Terra (MST) organizou uma s&eacute;rie de protestos contra a nova pol&iacute;tica econ&ocirc;mica, incluindo a ocupa&ccedil;&atilde;o de pr&eacute;dios do Minist&eacute;rio da Fazenda.</p>
+Principal respons&aacute;vel pela Reforma Agr&aacute;ria, este &ldquo;bloqueio&rdquo; de verbas nas chamadas despesas discricion&aacute;rias tende a impactar diretamente as iniciativas que executam a pol&iacute;tica de desapropria&ccedil;&atilde;o de terras e assentamentos de fam&iacute;lias. Neste cen&aacute;rio, o Movimento dos Trabalhadores Rurais Sem Terra (MST) organizou <a href="http://www.mst.org.br/2015/08/03/sem-terra-ocupam-11-ministerios-da-fazenda-em-todo-o-pais.html">uma s&eacute;rie de protestos contra a nova pol&iacute;tica econ&ocirc;mica</a>, incluindo a ocupa&ccedil;&atilde;o de pr&eacute;dios do Minist&eacute;rio da Fazenda.</p>
 
 <p><br />
 Para Gerson Teixeira, engenheiro agr&ocirc;nomo e presidente da Associa&ccedil;&atilde;o Brasileira de Reforma Agr&aacute;ria (Abra), diante do atual cen&aacute;rio de dificuldades fiscais, o governo poderia come&ccedil;ar a atuar em um plano alternativo.</p>
@@ -76,6 +77,9 @@ Embora ainda n&atilde;o haja uma lista oficial dos projetos do MDA que ser&atild
 
 <p><br />
 Est&atilde;o inclusos na extensa lista de atividades que ser&atilde;o objeto do corte, a Concess&atilde;o de Cr&eacute;dito-Instala&ccedil;&atilde;o &agrave;s Fam&iacute;lias Assentadas e a Concess&atilde;o de Cr&eacute;dito para Aquisi&ccedil;&atilde;o de Im&oacute;veis Rurais e Investimentos B&aacute;sicos - Fundo de Terras.</p>
+
+<p><br />
+<a href="http://www.mst.org.br/2015/08/03/o-governo-precisa-ter-coragem-de-rever-sua-politica-economica-afirma-sem-terra.html">&ldquo;O governo precisa ter coragem de rever sua pol&iacute;tica econ&ocirc;mica&rdquo;, afirma dirigente do MST</a></p>
 
 <p><br />
 &quot;De forma absolutamente desnecess&aacute;ria, pelo custo residual desses financiamentos para os resultados do Tesouro, tem-se que o programa de assentamentos foi diretamente inclu&iacute;do nos alvos do ajuste fiscal&quot;, diz Teixeira.</p>
