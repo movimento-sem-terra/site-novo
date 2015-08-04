@@ -80,6 +80,7 @@ releated_posts:
   - 2015/08/2015-08-03-mst-ocupa-delegacia-do-ministerio-da-fazenda-em-curitiba.md
   - 2015/07/2015-07-31-mais-um-grande-latifundio-e-ocupado-por-sem-terras-no-extremo-sul-da-bahia.md
   - 2015/08/2015-08-02-sem-terra-ocupam-fazenda-grilada-pela-cutrale-em-sao-paulo.md
+section: featured-news
 
 ---
 <p><img alt="bsb_ministério.jpg" src="http://farm6.staticflickr.com/5617/19641273903_540d7d325f_b.jpg" /><br />
