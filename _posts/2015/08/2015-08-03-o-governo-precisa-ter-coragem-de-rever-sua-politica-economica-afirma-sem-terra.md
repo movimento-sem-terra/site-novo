@@ -4,7 +4,7 @@ tags:
   - tag: lutas-e-mobilizações
   - tag: reforma-agrária
   - tag: ministério-da-fazenda
-title: "“O governo precisa ter coragem de rever sua política econômica”, afirma Sem Terra"
+title: "“O governo precisa ter coragem de rever sua política econômica”, afirma dirigente do MST"
 images_hd: "http://farm1.staticflickr.com/472/19639549853_d6f0c0a30b_b.jpg"
 support_line: "Em entrevista, Débora Nunes, do MST, explica o por quê diversos ministérios da Fazenda estão sendo ocupados pelos Sem Terra em todo o país."
 menu: lutas e mobilizações
