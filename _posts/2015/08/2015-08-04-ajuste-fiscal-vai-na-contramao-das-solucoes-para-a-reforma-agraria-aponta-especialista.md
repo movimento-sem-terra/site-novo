@@ -35,7 +35,7 @@ releated_posts:
   - 2015/08/2015-08-04-em-audiencia-no-rs-mst-cobra-terra-e-infraestrutura.md
   - 2015/08/2015-08-04-sem-terra-ocupam-conab-em-sc-e-exigem-a-liberacao-das-cestas-basicas.md
   - 2015/08/2015-08-04-a-ocupacao-de-terras-e-predios-publicos-tem-apoio-na-lei.md
-section: cover
+section: null
 
 ---
 <p><img alt="fora levy!.jpg" src="http://farm4.staticflickr.com/3795/20106527100_50132bf337_b.jpg" /></p>
