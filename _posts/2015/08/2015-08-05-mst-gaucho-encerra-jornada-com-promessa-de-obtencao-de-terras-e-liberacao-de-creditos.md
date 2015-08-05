@@ -29,7 +29,7 @@ releated_posts:
 
 ---
 <figure class="image"><img alt="RS.jpg" src="http://farm4.staticflickr.com/3750/20133130998_96f6640122_b.jpg" />
-<figcaption>Foto: Leandro Molina.</figcaption>
+<figcaption>Foto:&nbsp;Daniel do Nascimento.</figcaption>
 </figure>
 
 <p><br />
