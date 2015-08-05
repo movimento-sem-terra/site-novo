@@ -4,9 +4,9 @@ tags:
   - tag: lutas-e-mobilizações
   - tag: reforma-agrária
   - tag: ajuste-fiscal
-title: "Em MS, movimentos do campoe se reúnem com Incra Nacional"
+title: "Em MS, movimentos do campo se reúnem com Incra Nacional"
 images_hd: "http://farm6.staticflickr.com/5621/20319085961_4ba2e52388_b.jpg"
-support_line: "Na ocasião, os movimentos defenderam o nome de Humberto Melo - funcionário público da (Agraer) - para ocupar o cargo de superintendente do Incra/MS. "
+support_line: "Os movimentos defenderam o nome de Humberto Melo - funcionário público da (Agraer) - para ocupar o cargo de superintendente do Incra/MS. "
 menu: reforma agrária
 layout: post
 files:
@@ -48,8 +48,13 @@ Na ocasi&atilde;o, os movimentos defenderam o nome de Humberto Melo - funcion&aa
 <p><br />
 De acordo com Jonas Carlos da Concei&ccedil;&atilde;o, dirigente do MST, esse &eacute; um momento hist&oacute;rico de uni&atilde;o entre os movimentos sociais para cobrar a&ccedil;&otilde;es efetivas no estado, sobretudo na nomea&ccedil;&atilde;o do nome do superintendente e nas melhorias necess&aacute;rias de pessoal e or&ccedil;amento do Incra em Mato Grosso do Sul.&nbsp;</p>
 
-<p><br />
-&quot;A realiza&ccedil;&atilde;o da Reforma Agr&aacute;ria no Brasil &eacute; lenta e enfrenta v&aacute;rias barreiras. Em MS n&atilde;o &eacute; diferente, j&aacute; estamos h&aacute; cinco anos sem nada efetivo no estado. Em maio fizemos uma marcha de doze dias solicitando a reestrutura&ccedil;&atilde;o e nomea&ccedil;&atilde;o de um superintende comprometido com a causa. Agora enfrentamos cortes nacionais de or&ccedil;amento e estamos aqui hoje para debater sobre essa realidade&quot;, afirma.</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="foto5_principal.jpg" src="http://farm4.staticflickr.com/3692/20286832766_deddcb0e92_b.jpg" />
+<figcaption></figcaption>
+</figure>
+
+<p>&quot;A realiza&ccedil;&atilde;o da Reforma Agr&aacute;ria no Brasil &eacute; lenta e enfrenta v&aacute;rias barreiras. Em MS n&atilde;o &eacute; diferente, j&aacute; estamos h&aacute; cinco anos sem nada efetivo no estado. Em maio fizemos uma marcha de doze dias solicitando a reestrutura&ccedil;&atilde;o e nomea&ccedil;&atilde;o de um superintende comprometido com a causa. Agora enfrentamos cortes nacionais de or&ccedil;amento e estamos aqui hoje para debater sobre essa realidade&quot;, afirma.</p>
 
 <p><br />
 Para Genilson Duarte, presidente da CUT/MS, a Central e seus sindicatos rurais caminhar&atilde;o sempre com os movimentos que possuem credibilidade para fazer este debate.&nbsp;</p>
