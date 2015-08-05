@@ -41,7 +41,7 @@ releated_posts:
 <em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Na manh&atilde; desta quarta-feira (5), os Sem Terra da regi&atilde;o do Pontal do Paranapanema ocuparam a Fazenda Nazar&eacute;, de 4,8 mil hectares. As terras devolutas est&aacute; sob posse da fam&iacute;lia de Agripino Lima.</p>
+Na manh&atilde; desta quarta-feira (5), cerca de 100 fam&iacute;lias do MST&nbsp;<span style="line-height: 20.7999992370605px;">ocuparam a Fazenda Nazar&eacute;, de 4,8 mil hectares, n</span>a regi&atilde;o do Pontal do Paranapanema. As terras devolutas est&aacute; sob posse da fam&iacute;lia de Agripino Lima.</p>
 
 <p><br />
 As mobiliza&ccedil;&otilde;es de milhares de Sem Terra continuam por todo o Brasil. Na tarde desta ter&ccedil;a-feira (4), cerca de 7 mil pessoas trabalhadores rurais marcharam pelas ruas de Rio Bonito do Igua&ccedil;u (PR)&nbsp;na luta contra &nbsp;a empresa de celulose Araupel.</p>
