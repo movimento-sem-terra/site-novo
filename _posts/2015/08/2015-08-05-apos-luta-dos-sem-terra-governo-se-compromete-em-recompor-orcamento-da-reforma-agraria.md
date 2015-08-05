@@ -53,7 +53,6 @@ releated_posts:
   - 2015/08/2015-08-04-porto-de-maceio-segue-bloqueado-por-trabalhadores-rurais.md
   - 2015/08/2015-08-04-a-ocupacao-de-terras-e-predios-publicos-tem-apoio-na-lei.md
   - 2015/08/2015-08-04-brigada-internacionalista-se-soma-a-jornada-de-lutas-no-para.md
-  - 2015/08/2015-08-04-ajuste-fiscal-vai-na-contramao-das-solucoes-para-a-reforma-agraria-aponta-especialista.md
   - 2015/08/2015-08-05-sem-terra-seguem-em-luta-e-mobilizacoes-continuam-em-todo-o-pais.md
   - 2015/08/2015-08-03-sem-terra-ocupam-11-ministerios-da-fazenda-em-todo-o-pais.md
 
@@ -122,7 +121,7 @@ Segundo Mafort, o&nbsp;cen&aacute;rio pol&iacute;tico brasileiro exige que o pov
 Principal respons&aacute;vel pela Reforma Agr&aacute;ria, com este corte de verbas nas chamadas despesas discricion&aacute;rias do MDA, a tend&ecirc;ncia &eacute; impactar diretamente a pol&iacute;tica de desapropria&ccedil;&atilde;o de terras e assentamentos de fam&iacute;lias acampadas.</p>
 
 <p><br />
-<a href="http://www.mst.org.br/2015/08/03/sem-terra-ocupam-11-ministerios-da-fazenda-em-todo-o-pais.html">Neste cen&aacute;rio que o MST mobilizou 18 estados</a>, al&eacute;m da capital federal, com ocupa&ccedil;&otilde;es do Minist&eacute;rio da Fazenda em 13 estados. Al&eacute;m de diversas outras mobiliza&ccedil;&otilde;es, como ocupa&ccedil;&otilde;es de terras, trancamento de rodovias e ferrovias e marchas pelas cidades do pa&iacute;s.</p>
+<a href="http://www.mst.org.br/2015/08/03/sem-terra-ocupam-11-ministerios-da-fazenda-em-todo-o-pais.html">&Eacute; neste cen&aacute;rio que o MST mobilizou 18 estados</a>, al&eacute;m da capital federal, com ocupa&ccedil;&otilde;es do Minist&eacute;rio da Fazenda em 13 estados. Al&eacute;m de diversas outras mobiliza&ccedil;&otilde;es, como ocupa&ccedil;&otilde;es de terras, trancamento de rodovias e ferrovias e marchas pelas cidades do pa&iacute;s.</p>
 
 <p><br />
 O Minist&eacute;rio da Fazenda &eacute; a casa respons&aacute;vel pelos ajustes fiscais, programas e medidas que tem, insistentemente, impossibilitado que os investimentos p&uacute;blicos priorizem a educa&ccedil;&atilde;o, a sa&uacute;de, a reforma agr&aacute;ria, dentre tantas outras pol&iacute;ticas que s&atilde;o necess&aacute;rias para melhorar as condi&ccedil;&otilde;es de vida do povo.</p>
