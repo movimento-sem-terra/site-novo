@@ -4,7 +4,7 @@ tags:
   - tag: reforma-agrária
   - tag: lutas-e-mobilizações
   - tag: ajuste-fiscal
-title: MST gaúcho encerra jornada com promessa de obtenção de terras e liberação de créditos
+title: "No RS, Sem Terra encerram jornada com promessa de obtenção de terras e liberação de créditos"
 support_line: "Sem Terra saem da mobilização otimistas, com sentimento de que foi rompido um processo de inoperância por parte do Incra."
 menu: reforma agrária
 images_hd: "http://farm4.staticflickr.com/3750/20133130998_96f6640122_b.jpg"
