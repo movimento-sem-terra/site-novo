@@ -33,10 +33,15 @@ releated_posts:
   - 2015/08/2015-08-03-o-governo-precisa-ter-coragem-de-rever-sua-politica-economica-afirma-sem-terra.md
 
 ---
-<p><img alt="araupel.jpg" src="http://farm1.staticflickr.com/318/20128304269_41e96e1d99_b.jpg" /></p>
+<figure class="image"><img alt="araupel.jpg" src="http://farm1.staticflickr.com/318/20128304269_41e96e1d99_b.jpg" />
+<figcaption>No interior do Paran&aacute;, cerca de 7 mil pessoas marcharam contra a empresa de celulose Araupel, nesta ter&ccedil;a-feira.</figcaption>
+</figure>
 
 <p><br />
 <em>Da P&aacute;gina do MST</em></p>
+
+<p><br />
+Na manh&atilde; desta quarta-feira (5), os Sem Terra da regi&atilde;o do Pontal do Paranapanema ocuparam a Fazenda Nazar&eacute;, de 4,8 mil hectares. As terras devolutas est&aacute; sob posse da fam&iacute;lia de Agripino Lima.</p>
 
 <p><br />
 As mobiliza&ccedil;&otilde;es de milhares de Sem Terra continuam por todo o Brasil. Na tarde desta ter&ccedil;a-feira (4), cerca de 7 mil pessoas trabalhadores rurais marcharam pelas ruas de Rio Bonito do Igua&ccedil;u (PR)&nbsp;na luta contra &nbsp;a empresa de celulose Araupel.</p>
