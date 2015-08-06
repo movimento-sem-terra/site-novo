@@ -2,9 +2,9 @@
 date: "2015-08-06T11:29:28-03:00"
 tags:
   - tag: reforma-agrária
-  - tag: jornada-de-lutas-abril-2014
   - tag: grupo-João-Lyra
-title: "Após ocupação, Sem Terra exigem a destinação das terras do grupo João Lyra para Reforma Agrária           "
+  - tag: ajuste-fiscal
+title: Sem Terra exigem a destinação das terras do grupo João Lyra para Reforma Agrária
 support_line: "Somente aos bancos públicos e à Fazenda Nacional, o grupo deve aproximadamente R$ 697 milhões."
 menu: lutas e mobilizações
 images_hd: "http://farm1.staticflickr.com/518/20158973549_1401a81f90_b.jpg"
@@ -31,11 +31,10 @@ files:
 created_date: "2015-08-06T11:47:34-03:00"
 published: true
 releated_posts:
-  - 2014/04/2014-04-16-audiencia-publica-debate-reforma-agraria-na-democratizacao-do-pais.md
-  - 2014/04/2014-04-16-audiencia-publica-debate-reforma-agraria-na-democratizacao-do-pais.md-e
-  - 2014/05/2014-05-12-apos-jornada-incra-e-governo-do-rs-prometem-cadastramento-de-sem-terra.md
-  - 2014/05/2014-05-12-apos-jornada-incra-e-governo-do-rs-prometem-cadastramento-de-sem-terra.md-e
-  - 2014/07/2014-07-17-familias-sem-terra-seguem-na-luta-por-area-grilada-em-abelardo-luz.md
+  - 2015/08/2015-08-04-porto-de-maceio-segue-bloqueado-por-trabalhadores-rurais.md
+  - 2015/08/2015-08-04-cerca-de-250-sem-terra-ocupam-ministerio-da-fazenda-no-rj.md
+  - 2015/08/2015-08-04-em-audiencia-no-rs-mst-cobra-terra-e-infraestrutura.md
+  - 2015/08/2015-08-04-sem-terra-ocupam-conab-em-sc-e-exigem-a-liberacao-das-cestas-basicas.md
   - 2015/08/2015-08-05-familias-sem-terra-sao-surpreendidas-com-despejo-em-sergipe.md
   - 2015/08/2015-08-05-sem-terra-seguem-em-luta-e-mobilizacoes-continuam-em-todo-o-pais.md
   - 2015/08/2015-08-05-em-ms-movimentos-do-campoe-se-reunem-com-incra-nacional.md
@@ -60,7 +59,7 @@ Ap&oacute;s paralisar&nbsp;o Porto de Macei&oacute; por dois dias, os Sem Terra 
 Ap&oacute;s negocia&ccedil;&otilde;es com o Governo do Estado, os Sem Terra&nbsp;apontaram a necessidade do envolvimento do Governo Federal na&nbsp;resolu&ccedil;&atilde;o das quest&otilde;es referentes &agrave; destina&ccedil;&atilde;o das terras do Grupo para o assentamento das fam&iacute;lias Sem Terra da regi&atilde;o.</p>
 
 <p><br />
-Organizados na Comiss&atilde;o Pastoral da Terra (CPT), Movimento de Liberta&ccedil;&atilde;o dos Sem Terra (MLST), Movimento de Luta pela Terra (MLT), Movimento Unidos pela Terra (MUPT), Movimento dos Trabalhadores Rurais Sem Terra (MST), Movimento Terra Trabalho e Liberdade (MTL), Terra Livre e Via do Trabalho, os camponeses retornaram &agrave; capital Macei&oacute; denunciando a d&iacute;vida do grupo liderado pelo empres&aacute;rio e ex-deputado federal (PSD), Jo&atilde;o Lyra, com fal&ecirc;ncia decretada pela primeira vez h&aacute; 7 anos, com d&iacute;vida calculada em torno de R$ 2,1 bilh&otilde;es aos governos estadual, federal, al&eacute;m de ex-funcion&aacute;rios.</p>
+Organizados no MST,&nbsp;Comiss&atilde;o Pastoral da Terra (CPT), Movimento de Liberta&ccedil;&atilde;o dos Sem Terra (MLST), Movimento de Luta pela Terra (MLT), Movimento Unidos pela Terra (MUPT), Movimento Terra Trabalho e Liberdade (MTL), Terra Livre e Via do Trabalho, os camponeses retornaram &agrave; capital Macei&oacute; denunciando a d&iacute;vida do grupo liderado pelo empres&aacute;rio e ex-deputado federal (PSD), Jo&atilde;o Lyra, com fal&ecirc;ncia decretada pela primeira vez h&aacute; 7 anos, com d&iacute;vida calculada em torno de R$ 2,1 bilh&otilde;es aos governos estadual, federal, al&eacute;m de ex-funcion&aacute;rios.</p>
 
 <p><br />
 Somente aos bancos p&uacute;blicos e &agrave; Fazenda Nacional, o grupo deve aproximadamente R$ 697 milh&otilde;es.</p>
@@ -124,5 +123,3 @@ Com a press&atilde;o nacional dos Sem Terra, o governo anunciou a recomposi&cced
 
 <p><br />
 &ldquo;N&oacute;s n&atilde;o vamos nos contentar com migalhas! Tivemos o resultado da recomposi&ccedil;&atilde;o do or&ccedil;amento fruto da coragem do povo Sem Terra do Norte ao Sul do nosso pa&iacute;s, avermelhando o Brasil, n&atilde;o pela bondade do governo, mas pela bravura dos construtores e construtoras da hist&oacute;ria desse pa&iacute;s&rdquo;, comentou D&eacute;bora.</p>
-
-<p>&nbsp;</p>
