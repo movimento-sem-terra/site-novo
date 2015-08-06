@@ -1,5 +1,5 @@
 ---
-date: "2015-08-05T09:35:29-03:00"
+date: "2015-08-05T07:35:29-03:00"
 tags:
   - tag: lutas-e-mobilizações
   - tag: ajuste-fiscal
