@@ -6,7 +6,7 @@ tags:
   - tag: cooperativas
   - tag: nossa-produção
   - tag: sindicato
-title: "Posse de metalúrgicos em assentamento do MST reforça a unificação dos trabalhadores "
+title: Posse de metalúrgicos em assentamento do MST reforça unidade dos trabalhadores
 support_line: "A posse dos dirigentes da FTM em um assentamento do MST é considerado marco histórico para os trabalhadores Sem Terra. "
 menu: lutas e mobilizações
 images_hd: "http://farm1.staticflickr.com/487/20318871816_ba608fe6e7_b.jpg"
@@ -35,12 +35,12 @@ releated_posts:
 ---
 <p><img alt="Posse reuniu representantes de vários movimentos socoais na sede da Coopan, no Assentamento Capela, em Nova Santa Rita. Foto - Leandro Molina.JPG" height="467" src="http://farm1.staticflickr.com/400/20345180725_c26dc2fdd8_b.jpg" width="700" /></p>
 
-<p><em>Por Catiana de Medeiros<br />
+<p><br />
+<em>Por Catiana de Medeiros<br />
 Da P&aacute;gina do MST</em></p>
 
-<p>&nbsp;</p>
-
-<p>A posse da nova diretoria da Federa&ccedil;&atilde;o dos Trabalhadores Metal&uacute;rgicos do Rio Grande do Sul (FTM/RS) no Assentamento Capela, em Nova Santa Rita, refor&ccedil;ou a unifica&ccedil;&atilde;o dos trabalhadores do campo e da cidade. O ato foi realizado no &uacute;ltimo s&aacute;bado (1&ordm;) na sede da Cooperativa de Produ&ccedil;&atilde;o Agropecu&aacute;ria Nova Santa Rita (Coopan) e reuniu deputados e representantes de v&aacute;rios movimentos sociais e populares.</p>
+<p><br />
+A posse da nova diretoria da Federa&ccedil;&atilde;o dos Trabalhadores Metal&uacute;rgicos do Rio Grande do Sul (FTM/RS) no Assentamento Capela, em Nova Santa Rita, refor&ccedil;ou a unifica&ccedil;&atilde;o dos trabalhadores do campo e da cidade. O ato foi realizado no &uacute;ltimo s&aacute;bado (1&ordm;) na sede da Cooperativa de Produ&ccedil;&atilde;o Agropecu&aacute;ria Nova Santa Rita (Coopan) e reuniu deputados e representantes de v&aacute;rios movimentos sociais e populares.</p>
 
 <p><br />
 A elei&ccedil;&atilde;o dos 36 novos dirigentes da FTM para o pleito 2015-2018 aconteceu dia 16 de julho e a posse num assentamento do MST &eacute; considerado marco hist&oacute;rico para os trabalhadores Sem Terra e metal&uacute;rgicos.</p>
