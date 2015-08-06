@@ -23,15 +23,16 @@ releated_posts:
   - 2015/04/2015-04-10-via-campesina-propoe-nacionalizacao-do-programa-campones-ao-mda.md
 
 ---
-<p><br />
-<em>Por Jos&eacute; Coutinho&nbsp;J&uacute;nior<br />
+<p><img alt="mst brics.jpeg" src="http://farm1.staticflickr.com/283/20158268630_669af7411e_b.jpg" /><br />
+<br />
+<em>Por Jos&eacute; Coutinho J&uacute;nior<br />
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
 F&oacute;rum internacional pautou pol&iacute;ticas para a juventude em diversas &aacute;reas, como agricultura, empreendedorismo, educa&ccedil;&atilde;o e ci&ecirc;ncia.&nbsp;</p>
 
 <p><br />
-A juventude dos pa&iacute;ses dos BRICS formada por Brasil, R&uacute;ssia, &Iacute;ndia e China e Africa do Sul&nbsp;e da Organiza&ccedil;&atilde;o da Coopera&ccedil;&atilde;o de Xangai (OCX) realizou dos dias 26 a 30 de julho, na cidade de Ufa, capital da Rep&uacute;blica do Bashcudist&atilde;o, um encontro para discutir a coopera&ccedil;&atilde;o entre os jovens desses pa&iacute;ses em diversas &aacute;reas, com educa&ccedil;&atilde;o, empreendimentos, agricultura e ci&ecirc;ncia .A delega&ccedil;&atilde;o brasileira foi formada por cinco pessoas vindas de entidades como Movimento dos Trabalhadores Rurais Sem Terra (MST), Central &uacute;nica dos Trabalhadores (CUT), Uni&atilde;o Nacional dos Estudantes (UNE), Associa&ccedil;&atilde;o Nacional de P&oacute;s-Graduandos (ANPG) e o Grupo de Estudos dos BRICS da UNIP/CNPq.&nbsp;</p>
+A juventude dos pa&iacute;ses dos BRICS formada por Brasil, R&uacute;ssia, &Iacute;ndia e China e Africa do Sul e da Organiza&ccedil;&atilde;o da Coopera&ccedil;&atilde;o de Xangai (OCX) realizou dos dias 26 a 30 de julho, na cidade de Ufa, capital da Rep&uacute;blica do Bashcudist&atilde;o, um encontro para discutir a coopera&ccedil;&atilde;o entre os jovens desses pa&iacute;ses em diversas &aacute;reas, com educa&ccedil;&atilde;o, empreendimentos, agricultura e ci&ecirc;ncia .A delega&ccedil;&atilde;o brasileira foi formada por cinco pessoas vindas de entidades como MST, Central &uacute;nica dos Trabalhadores (CUT), Uni&atilde;o Nacional dos Estudantes (UNE), Associa&ccedil;&atilde;o Nacional de P&oacute;s-Graduandos (ANPG) e o Grupo de Estudos dos BRICS da UNIP/CNPq.&nbsp;</p>
 
 <p><br />
 Durante as mesas de debates e reuni&otilde;es com as delega&ccedil;&otilde;es dos outros pa&iacute;ses, a delega&ccedil;&atilde;o brasileira reconheceu a import&acirc;ncia da coopera&ccedil;&atilde;o multipolar entre os pa&iacute;ses dos BRICS, que se coloca como uma oposi&ccedil;&atilde;o &agrave; forma de poder unilateral representada pelos Estados Unidos, mas defendeu que esta coopera&ccedil;&atilde;o n&atilde;o deve se restringir ao campo econ&ocirc;mico, e sim ter como prioridade a justi&ccedil;a social e o bem estar das pessoas.</p>
