@@ -23,14 +23,12 @@ releated_posts:
   - 2015/04/2015-04-10-via-campesina-propoe-nacionalizacao-do-programa-campones-ao-mda.md
 
 ---
-<p>&nbsp;</p>
-
-<p><em>Por Jos&eacute; Coutinho&nbsp;J&uacute;nior<br />
+<p><br />
+<em>Por Jos&eacute; Coutinho&nbsp;J&uacute;nior<br />
 Da P&aacute;gina do MST</em></p>
 
-<p>&nbsp;</p>
-
-<p>F&oacute;rum internacional pautou pol&iacute;ticas para a juventude em diversas &aacute;reas, como agricultura, empreendedorismo, educa&ccedil;&atilde;o e ci&ecirc;ncia.&nbsp;</p>
+<p><br />
+F&oacute;rum internacional pautou pol&iacute;ticas para a juventude em diversas &aacute;reas, como agricultura, empreendedorismo, educa&ccedil;&atilde;o e ci&ecirc;ncia.&nbsp;</p>
 
 <p><br />
 A juventude dos pa&iacute;ses dos BRICS formada por Brasil, R&uacute;ssia, &Iacute;ndia e China e Africa do Sul&nbsp;e da Organiza&ccedil;&atilde;o da Coopera&ccedil;&atilde;o de Xangai (OCX) realizou dos dias 26 a 30 de julho, na cidade de Ufa, capital da Rep&uacute;blica do Bashcudist&atilde;o, um encontro para discutir a coopera&ccedil;&atilde;o entre os jovens desses pa&iacute;ses em diversas &aacute;reas, com educa&ccedil;&atilde;o, empreendimentos, agricultura e ci&ecirc;ncia .A delega&ccedil;&atilde;o brasileira foi formada por cinco pessoas vindas de entidades como Movimento dos Trabalhadores Rurais Sem Terra (MST), Central &uacute;nica dos Trabalhadores (CUT), Uni&atilde;o Nacional dos Estudantes (UNE), Associa&ccedil;&atilde;o Nacional de P&oacute;s-Graduandos (ANPG) e o Grupo de Estudos dos BRICS da UNIP/CNPq.&nbsp;</p>
@@ -49,8 +47,3 @@ Em rela&ccedil;&atilde;o &agrave; agricultura, as delega&ccedil;&otilde;es da &I
 
 <p><br />
 Na resolu&ccedil;&atilde;o final do encontro, dentre outras propostas de coopera&ccedil;&atilde;o, as delega&ccedil;&otilde;es presentes se comprometeram a &ldquo;desenvolver a agricultura org&acirc;ncia e estabelecer propostas para resolver o problema da seguran&ccedil;a alimentar atrav&eacute;s da juventude dos BRICS e pa&iacute;ses da OCX&rdquo;.</p>
-
-<p><br />
-&nbsp;</p>
-
-<p>&nbsp;</p>
