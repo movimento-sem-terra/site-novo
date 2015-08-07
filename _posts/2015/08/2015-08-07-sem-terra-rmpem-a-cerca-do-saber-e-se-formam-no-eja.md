@@ -4,7 +4,7 @@ tags:
   - tag: educação
   - tag: EJA
   - tag: pernambuco
-title: Sem Terra rmpem a cerca do saber e se formam no EJA
+title: Sem Terra rompem a cerca do saber e se formam na turma de Educação de Jovens e Adultos
 images_hd: "http://farm1.staticflickr.com/358/20361873432_a0d72969b3_b.jpg"
 support_line: "Mais de 100 educandos se formaram na turma de Educação de Jovens e Adultos no município de Aliança, em Pernambuco."
 menu: "educação, cultura e comunicação"
