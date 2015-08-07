@@ -6,7 +6,7 @@ tags:
   - tag: lutas-e-mobilizações
   - tag: mulheres-camponesas
 title: Marcha das Margaridas quer compromisso de Dilma no combate aos agrotóxicos
-support_line: "Pauta da marcha deste ano, que vai se realizar nos próximos dias 11 e 12, deve reunir perto de 70 mil pessoas no estádio Mané Garrincha, em Brasília. Encerramento deve contar com presença da presidenta Dilma"
+support_line: "Pauta da marcha, que vai se realizar nos próximos dias 11 e 12, deve reunir perto de 70 mil pessoas no estádio Mané Garrincha, em Brasília."
 images_hd: "http://farm1.staticflickr.com/477/20185471578_27be036367_b.jpg"
 menu: lutas e mobilizações
 label: interviews
@@ -31,8 +31,6 @@ releated_posts:
 <br />
 <em>Por&nbsp;Helder Lima<br />
 Da RBA</em></p>
-
-<p>&nbsp;</p>
 
 <p><br />
 Nos pr&oacute;ximos dias 11 e 12, ser&aacute; realizada em Bras&iacute;lia a Marcha das Margaridas, manifesta&ccedil;&atilde;o que coloca para a sociedade as quest&otilde;es da mulher do campo, e que neste ano levanta as bandeiras da sustentabilidade, seguran&ccedil;a alimentar e democracia. Reunidas no est&aacute;dio Man&eacute; Garrincha, mulheres e militantes que apoiam a marcha cumprir&atilde;o uma programa&ccedil;&atilde;o com espa&ccedil;os interativos e semin&aacute;rios at&eacute; que, na conclus&atilde;o do evento, tenham encontro com a presidenta Dilma Rousseff, que poder&aacute; firmar compromisso com ao menos alguns itens da pauta.</p>
