@@ -29,7 +29,7 @@ releated_posts:
 ---
 <p><img alt="eja.jpg" src="http://farm1.staticflickr.com/358/20361873432_a0d72969b3_b.jpg" /><br />
 <br />
-<em>Paulo Henrique<br />
+<em>Por Paulo Henrique<br />
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
