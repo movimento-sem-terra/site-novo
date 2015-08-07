@@ -7,7 +7,7 @@ tags:
 title: "Após Jornada, governo se compromete em recompor orçamento da Reforma Agrária"
 images_hd: "http://farm6.staticflickr.com/5618/20131628219_87a80e09c3_b.jpg"
 menu: lutas e mobilizações
-section: cover
+section: featured-news
 support_line: "De acordo o ministro do Desenvolvimento Agrário, a redução no orçamento previsto em decreto de contingenciamento, pode ser revista."
 layout: post
 files:
