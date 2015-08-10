@@ -7,7 +7,7 @@ tags:
   - tag: agricultura-camponesa
 title: Consumo de agrotóxicos no Rio Grande do Sul está acima da média nacional
 support_line: "Dados apresentados em seminário mostram que cada gaúcho consome anualmente 8,3 litros de veneno."
-images_hd: "http://farm4.staticflickr.com/3796/20465680231_3f2136f0cb_b.jpg"
+images_hd: "http://farm1.staticflickr.com/544/20459595185_c9b5d98e8c_b.jpg"
 menu: agricultura camponesa
 layout: post
 files:
@@ -48,7 +48,7 @@ releated_posts:
 <p>&nbsp;</p>
 
 <figure class="image"><img alt="Emerson Giacomelli, representante da Via Campesina, cobrou do Governo Federal a implantação de medidas para impulsionar a produção de alimentos saudáveis. Foto_ Leandro Molina.jpg" height="467" src="http://farm4.staticflickr.com/3676/20271388908_a2da9e12b7_b.jpg" width="700" />
-<figcaption>&nbsp;Confer&ecirc;ncia de abertura&nbsp;</figcaption>
+<figcaption></figcaption>
 </figure>
 
 <p><br />
@@ -85,7 +85,7 @@ A ministra Izabella Teixeira reafirmou a necessidade de ampliar a discuss&atilde
 <p>&nbsp;</p>
 
 <figure class="image"><img alt="Ministra do Meio Ambiente, Izabella Teixeira, também participou da atividade. Foto_ Leandro Molina.jpg" height="467" src="http://farm1.staticflickr.com/544/20459595185_c9b5d98e8c_b.jpg" width="700" />
-<figcaption>Ministra do Meio Ambiente: Izabella Teixeira</figcaption>
+<figcaption>Ministra do Meio Ambiente: Izabella Teixeiraministra Izabella Teixeira, acompanhada de uma comitiva, se deslocou at&eacute; o Assentamento Capela, em Nova Santa Rita</figcaption>
 </figure>
 
 <p><br />
@@ -122,5 +122,5 @@ Segundo o parlamentar, nos pr&oacute;ximos dias acontece a primeira reuni&atilde
 Ao fim das atividades na Assembleia Legislativa, a ministra Izabella Teixeira, acompanhada de uma comitiva, se deslocou at&eacute; o Assentamento Capela, em Nova Santa Rita, onde participou de almo&ccedil;o com produtos org&acirc;nicos e conheceu as estruturas da Cooperativa de Produ&ccedil;&atilde;o Agropecu&aacute;ria Nova Santa Rita (Coopan).</p>
 
 <figure class="image"><img alt="Ministra Izabella Teixeira visitou as estruturas da Coopan, em Nova Santa Rita. Foto_ Leandro Molina.jpg" height="467" src="http://farm1.staticflickr.com/440/20459488935_9df9455449_b.jpg" width="700" />
-<figcaption>Imagens: Leandro Molina</figcaption>
+<figcaption>Ministra Izabella Teixeira visitou o Assentamento Capela, em Nova Santa Rita/Foto: Leandro Molina</figcaption>
 </figure>
