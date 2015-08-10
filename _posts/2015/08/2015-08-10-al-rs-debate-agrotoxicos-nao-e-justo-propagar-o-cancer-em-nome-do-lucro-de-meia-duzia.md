@@ -3,7 +3,7 @@ date: "2015-08-10T08:14:26-03:00"
 tags:
   - tag: agrotóxicos
   - tag: saúde
-title: "AL/RS debate agrotóxicos: ‘não é justo propagar o câncer em nome do lucro de meia dúzia’"
+title: ‘Não é justo propagar o câncer em nome do lucro de meia dúzia’
 images_hd: "http://farm1.staticflickr.com/557/20429099246_a4b5129566_b.jpg"
 menu: agronegócio
 support_line: "No RS, o nível de consumo do veneno por ano chega a 8,3 litros. Na região noroeste do Estado, é ainda pior, superando os 16 litros por ano."
@@ -33,7 +33,8 @@ releated_posts:
 ---
 <p><img alt="mel.jpg" src="http://farm1.staticflickr.com/557/20429099246_a4b5129566_b.jpg" /></p>
 
-<p><em>Por Lu&iacute;s Eduardo Gomes<br />
+<p><br />
+<em>Por Lu&iacute;s Eduardo Gomes<br />
 Do Sul21</em></p>
 
 <p><br />
