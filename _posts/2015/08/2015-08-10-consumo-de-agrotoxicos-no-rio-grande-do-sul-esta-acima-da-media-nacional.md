@@ -36,7 +36,7 @@ files:
     title: "Ministra do Meio Ambiente, Izabella Teixeira, também participou da atividade. Foto_ Leandro Molina.jpg"
     $$hashKey: 088
 created_date: "2015-08-10T11:41:52-03:00"
-published: true
+published: false
 releated_posts:
   - 2014/12/2014-12-05-projeto-que-proibe-pulverizacao-aerea-em-lavouras-e-protocolado-na-alers.md
   - 2015/06/2015-06-02-projetos-de-lei-proibem-o-uso-de-agrotoxicos-no-rio-grande-do-sul.md
