@@ -29,6 +29,18 @@ files:
     small: "http://farm1.staticflickr.com/548/19839445813_ea0a8115c0_n.jpg"
     title: "Emerson Giacomelli, representante da Via Campesina, cobrou do Governo Federal a implantação de medidas para impulsionar a produção de alimentos saudáveis. Foto_ Leandro Molina.jpg"
     $$hashKey: 05G
+  - link: "http://farm1.staticflickr.com/322/20434270606_ed752f0b59_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/322/20434270606_ed752f0b59_t.jpg"
+    medium: "http://farm1.staticflickr.com/322/20434270606_ed752f0b59_z.jpg"
+    small: "http://farm1.staticflickr.com/322/20434270606_ed752f0b59_n.jpg"
+    title: "Ministra do Meio Ambiente, Izabella Teixeira,.jpg"
+    $$hashKey: 05Q
+  - link: "http://farm1.staticflickr.com/452/20273864019_421a1fb1db_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/452/20273864019_421a1fb1db_t.jpg"
+    medium: "http://farm1.staticflickr.com/452/20273864019_421a1fb1db_z.jpg"
+    small: "http://farm1.staticflickr.com/452/20273864019_421a1fb1db_n.jpg"
+    title: "Ministra Izabella Teixeira visitou as estruturas da Coopan, em Nova Santa Rita. Foto_ Leandro Molina.jpg"
+    $$hashKey: 05T
 created_date: "2015-08-10T08:20:25-03:00"
 published: true
 releated_posts:
@@ -39,7 +51,9 @@ releated_posts:
   - 2015/06/2015-06-19-uso-de-agrotoxico-no-pais-mais-que-dobra-entre-2000-e-2012.md
 
 ---
-<p><img alt="mel.jpg" src="http://farm1.staticflickr.com/557/20429099246_a4b5129566_b.jpg" /></p>
+<figure class="image"><img alt="mel.jpg" src="http://farm1.staticflickr.com/557/20429099246_a4b5129566_b.jpg" />
+<figcaption>Para&nbsp;Leonardo Melgarejo,&nbsp;n&atilde;o existe limite seguro para a utiliza&ccedil;&atilde;o de agrot&oacute;xicos.</figcaption>
+</figure>
 
 <p><br />
 <em>Por Catiana de Medeiros<br />
@@ -60,7 +74,7 @@ Segundo o Instituto Nacional do C&acirc;ncer (Inca), o Brasil &eacute; o pa&iacu
 <p>&nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="Emerson Giacomelli, representante da Via Campesina, cobrou do Governo Federal a implantação de medidas para impulsionar a produção de alimentos saudáveis. Foto_ Leandro Molina.jpg" src="http://farm1.staticflickr.com/548/19839445813_ea0a8115c0_b.jpg" />
-<figcaption></figcaption>
+<figcaption>Emerson Giacomelli, da Via Campesina, cobrou a&ccedil;&otilde;es do governo para impulsionar produ&ccedil;&atilde;o e consumo de alimentos saud&aacute;veis./ Foto: Leandro Molina&nbsp;</figcaption>
 </figure>
 
 <p>Conforme a m&eacute;dica Virg&iacute;nia Dapper, da Secretaria Estadual da Sa&uacute;de, 70% dos alimentos que v&atilde;o &agrave; mesa da popula&ccedil;&atilde;o est&atilde;o contaminados. Al&eacute;m do alto &iacute;ndice de uso e consumo de venenos, o Rio Grande do Sul tamb&eacute;m &eacute; considerado o estado que menos notifica casos de intoxica&ccedil;&otilde;es aos &oacute;rg&atilde;os de sa&uacute;de, e, de acordo com pesquisa da Universidade Federal de Santa Maria (UFSM), grande parte das bacias hidrogr&aacute;ficas cont&eacute;m res&iacute;duos de agrot&oacute;xicos.</p>
@@ -75,9 +89,15 @@ O deputado federal Dionilso Marcon ressaltou a necessidade do envolvimento colet
 A ministra Izabella Teixeira reafirmou a necessidade de ampliar a discuss&atilde;o em torno da agricultura agroecol&oacute;gica e rever produtos com alto grau de toxidade, que devem ter o uso banido no Brasil. Segundo ela, os Minist&eacute;rios do Meio Ambiente e Agricultura, e a Ag&ecirc;ncia Nacional de Vigil&acirc;ncia Sanit&aacute;ria (Anvisa) comp&otilde;em um grupo de trabalho que avalia os agrot&oacute;xicos usados no pa&iacute;s e sinaliza, se necess&aacute;rio, novos banimentos. Al&eacute;m disso, at&eacute; o final do ano ser&aacute; publicado pelo Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renov&aacute;veis (Ibama) o perfil dos princ&iacute;pios ativos dos produtos usados na produ&ccedil;&atilde;o de alimentos.</p>
 
 <p><br />
-&ldquo;Precisamos de conhecimento e transpar&ecirc;ncia para enfrentar essa quest&atilde;o. Por isso ser&aacute; disponibilizado um sistema de avalia&ccedil;&atilde;o t&eacute;cnica para que a sociedade possa saber de fato o que est&aacute; consumindo&rdquo;, declarou Izabella.</p>
+&ldquo;Precisamos de conhecimento e transpar&ecirc;ncia para enfrentar essa quest&atilde;o. Por isso ser&aacute; disponibilizado um sistema de avalia&ccedil;&atilde;o t&eacute;cnica para que a sociedade possa saber de fato o que est&aacute; consumindo&rdquo;, declarou Izabella.<br />
+&nbsp;</p>
+
+<figure class="image"><img alt="Ministra do Meio Ambiente, Izabella Teixeira,.jpg" src="http://farm1.staticflickr.com/322/20434270606_ed752f0b59_b.jpg" />
+<figcaption>A ministra Izabella Teixeira reafirmou a necessidade de ampliar a discuss&atilde;o em torno da agricultura agroecol&oacute;gica e rever produtos com alto grau de toxidade/ Foto: Leandro Molina</figcaption>
+</figure>
 
 <p><br />
+<br />
 <strong>Incentivos federais</strong></p>
 
 <p><br />
@@ -90,7 +110,19 @@ Representando a Via Campesina, Emerson Giacomelli cobrou a&ccedil;&otilde;es do 
 Para a dirigente estadual do MST, Salete Carollo, o semin&aacute;rio refor&ccedil;ou a urg&ecirc;ncia da uni&atilde;o social e da constru&ccedil;&atilde;o de pol&iacute;ticas p&uacute;blicas para tornar poss&iacute;vel uma alimenta&ccedil;&atilde;o saud&aacute;vel, livre de agrot&oacute;xicos.</p>
 
 <p><br />
-&ldquo;Conseguiremos avan&ccedil;ar em nossos objetivos a partir da uni&atilde;o da sociedade rural e urbana, e do estabelecimento de novos par&acirc;metros de mercado para que o agricultor possa produzir sem veneno e o trabalhador da cidade adquirir alimentos saud&aacute;veis. E para isso &eacute; fundamental o desenvolvimento de pol&iacute;ticas p&uacute;blicas&rdquo;, apontou Salete.</p>
+&ldquo;Conseguiremos avan&ccedil;ar em nossos objetivos a partir da uni&atilde;o da sociedade rural e urbana, e do estabelecimento de novos par&acirc;metros de mercado para que o agricultor possa produzir sem veneno e o trabalhador da cidade adquirir alimentos saud&aacute;veis. E para isso &eacute; fundamental o desenvolvimento de pol&iacute;ticas p&uacute;blicas&rdquo;, apontou Salete.<br />
+&nbsp;</p>
+
+<p><img alt="al.jpg" src="http://farm1.staticflickr.com/405/20446623682_645c78269a_b.jpg" /><br />
+&nbsp;</p>
+
+<p>Um dos palestrantes do evento, Leonardo Melgarejo, presidente da Associa&ccedil;&atilde;o Ga&uacute;cha de Prote&ccedil;&atilde;o ao Ambiente Natural (Agapan), salientou que existem v&aacute;rios mitos difundidos a cerca da utiliza&ccedil;&atilde;o de agrot&oacute;xicos que precisam ser desmentidos, como alega&ccedil;&otilde;es que os compostos qu&iacute;micos respeitam limites seguros, que os habitantes das cidades n&atilde;o s&atilde;o afetados, etc.</p>
+
+<p><br />
+Melgarejo salientou que o glifosato, um dos ingredientes ativos de agrot&oacute;xicos mais usados no Brasil e principal componente do Roundup, produto fabricado pela Monsanto, &eacute; extremamente t&oacute;xico e est&aacute; sendo utilizado em 18 milh&otilde;es de hectares de planta&ccedil;&atilde;o de soja do Pa&iacute;s, o que gera um grande risco &agrave; sa&uacute;de das pessoas. &ldquo;Estes herbicidas provocam a multiplica&ccedil;&atilde;o de bact&eacute;rias que n&atilde;o morrem com antibi&oacute;ticos&rdquo;, disse.</p>
+
+<p><br />
+Melgarejo afirmou que n&atilde;o existe limite seguro para a utiliza&ccedil;&atilde;o de agrot&oacute;xicos. &ldquo;Uma mol&eacute;cula de agrot&oacute;xico pode provocar uma altera&ccedil;&atilde;o no organismo que venha a provocar o c&acirc;ncer. Sentir o cheiro de veneno significa estar envenenado&rdquo;, disse.</p>
 
 <p><br />
 <strong>Frente Parlamentar</strong></p>
@@ -108,4 +140,9 @@ Segundo o parlamentar, nos pr&oacute;ximos dias acontece a primeira reuni&atilde
 <strong>Almo&ccedil;o org&acirc;nico</strong></p>
 
 <p><br />
-Ao fim das atividades na Assembleia Legislativa, a ministra Izabella Teixeira, acompanhada de uma comitiva, se deslocou at&eacute; o Assentamento Capela, em Nova Santa Rita, onde participou de almo&ccedil;o com produtos org&acirc;nicos e conheceu as estruturas da Cooperativa de Produ&ccedil;&atilde;o Agropecu&aacute;ria Nova Santa Rita (Coopan).</p>
+Ao fim das atividades na Assembleia Legislativa, a ministra Izabella Teixeira, acompanhada de uma comitiva, se deslocou at&eacute; o Assentamento Capela, em Nova Santa Rita, onde participou de almo&ccedil;o com produtos org&acirc;nicos e conheceu as estruturas da Cooperativa de Produ&ccedil;&atilde;o Agropecu&aacute;ria Nova Santa Rita (Coopan).<br />
+&nbsp;</p>
+
+<figure class="image"><img alt="Ministra Izabella Teixeira visitou as estruturas da Coopan, em Nova Santa Rita. Foto_ Leandro Molina.jpg" src="http://farm1.staticflickr.com/452/20273864019_421a1fb1db_b.jpg" />
+<figcaption>Ministra Izabella Teixeira visitou o Assentamento Capela, em Nova Santa Rita/Foto: Leandro Molina</figcaption>
+</figure>
