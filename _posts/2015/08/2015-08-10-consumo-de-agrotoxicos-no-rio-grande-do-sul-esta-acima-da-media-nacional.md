@@ -59,7 +59,7 @@ releated_posts:
 <p>&nbsp;</p>
 
 <figure class="image"><img alt="Emerson Giacomelli, representante da Via Campesina, cobrou do Governo Federal a implantação de medidas para impulsionar a produção de alimentos saudáveis. Foto_ Leandro Molina.jpg" height="467" src="http://farm4.staticflickr.com/3676/20271388908_a2da9e12b7_b.jpg" width="700" />
-<figcaption>Imagem: Leandro MolinaConfer&ecirc;ncia de abertura&nbsp;</figcaption>
+<figcaption>&nbsp;Confer&ecirc;ncia de abertura&nbsp;</figcaption>
 </figure>
 
 <p>&nbsp;</p>
@@ -97,6 +97,12 @@ A ministra Izabella Teixeira reafirmou a necessidade de ampliar a discuss&atilde
 <p><br />
 &ldquo;Precisamos de conhecimento e transpar&ecirc;ncia para enfrentar essa quest&atilde;o. Por isso ser&aacute; disponibilizado um sistema de avalia&ccedil;&atilde;o t&eacute;cnica para que a sociedade possa saber de fato o que est&aacute; consumindo&rdquo;, declarou Izabella.</p>
 
+<p>&nbsp;</p>
+
+<figure class="image"><img alt="Ministra do Meio Ambiente, Izabella Teixeira, também participou da atividade. Foto_ Leandro Molina.jpg" height="467" src="http://farm1.staticflickr.com/544/20459595185_c9b5d98e8c_b.jpg" width="700" />
+<figcaption>Ministra do Meio Ambiente: Izabella Teixeira</figcaption>
+</figure>
+
 <p><br />
 <strong>Incentivos federais</strong></p>
 
@@ -113,7 +119,7 @@ Para a dirigente estadual do MST, Salete Carollo, o semin&aacute;rio refor&ccedi
 &ldquo;Conseguiremos avan&ccedil;ar em nossos objetivos a partir da uni&atilde;o da sociedade rural e urbana, e do estabelecimento de novos par&acirc;metros de mercado para que o agricultor possa produzir sem veneno e o trabalhador da cidade adquirir alimentos saud&aacute;veis. E para isso &eacute; fundamental o desenvolvimento de pol&iacute;ticas p&uacute;blicas&rdquo;, apontou Salete.</p>
 
 <p><br />
-Frente Parlamentar</p>
+<strong>Frente Parlamentar</strong></p>
 
 <p><br />
 Na ocasi&atilde;o, tamb&eacute;m ocorreu o lan&ccedil;amento da Frente Parlamentar Ga&uacute;cha em Defesa da Alimenta&ccedil;&atilde;o Saud&aacute;vel, um novo instrumento que se soma &agrave; busca de alternativas para os problemas enfrentados no RS devido ao uso abusivo de agrot&oacute;xicos.</p>
@@ -129,3 +135,7 @@ Segundo o parlamentar, nos pr&oacute;ximos dias acontece a primeira reuni&atilde
 
 <p><br />
 Ao fim das atividades na Assembleia Legislativa, a ministra Izabella Teixeira, acompanhada de uma comitiva, se deslocou at&eacute; o Assentamento Capela, em Nova Santa Rita, onde participou de almo&ccedil;o com produtos org&acirc;nicos e conheceu as estruturas da Cooperativa de Produ&ccedil;&atilde;o Agropecu&aacute;ria Nova Santa Rita (Coopan).</p>
+
+<figure class="image"><img alt="Ministra Izabella Teixeira visitou as estruturas da Coopan, em Nova Santa Rita. Foto_ Leandro Molina.jpg" height="467" src="http://farm1.staticflickr.com/440/20459488935_9df9455449_b.jpg" width="700" />
+<figcaption>Imagens: Leandro Molina</figcaption>
+</figure>
