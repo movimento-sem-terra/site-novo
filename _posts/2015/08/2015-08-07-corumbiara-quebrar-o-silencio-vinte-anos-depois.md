@@ -8,7 +8,7 @@ title: "Corumbiara: quebrar o silêncio, vinte anos depois"
 support_line: "O caso conhecido como “massacre de Corumbiara”, que completa duas décadas neste domingo (9), é um reflexo da sociedade brasileira: violência, luta de classe, proteção estatal a interesses privados."
 menu: direitos humanos
 images_hd: "http://farm4.staticflickr.com/3700/20351107306_99e10cca42_b.jpg"
-section: cover
+section: null
 layout: post
 files:
   - link: "http://farm1.staticflickr.com/357/20190670539_86a3ae98a5_b.jpg"
