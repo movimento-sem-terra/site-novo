@@ -38,15 +38,6 @@ files:
 created_date: "2015-08-10T11:41:52-03:00"
 published: true
 releated_posts:
-  - 2015/04/2015-04-06-virada-sem-veneno-promove-uma-semana-de-atividades-pela-saude.md
-  - 2014/08/2014-08-08-especialistas-criticam-proposta-de-beneficio-tributario-para-agrotoxicos.md
-  - 2012/11/2012-11-13-podemos-falar-em-1-milhao-de-espectadores-diz-tendler-sobre-o-veneno-esta-na-mesa.md
-  - 2012/12/2012-12-03-video-reportagem-traz-reflexoes-sobre-a-relacao-entre-agrotoxicos-e-cancer.md
-  - 2013/04/2013-04-11-shell-e-basf-irao-pagar-indenizacao-por-contaminacao-em-fabrica-de-agrotoxicos.md
-  - 2014/06/2014-06-30-estudos-apontam-que-agrotoxicos-colocam-em-risco-producao-de-alimentos.md
-  - 2013/04/2013-04-11-shell-e-basf-irao-pagar-indenizacao-por-contaminacao-em-fabrica-de-agrotoxicos.md-e
-  - 2014/02/2014-02-06-casa-civil-pressiona-ministerios-para-a-liberalizacao-de-agrotoxicos.md-e
-  - 2014/08/2014-08-20-para-mpfrs-venda-do-herbicida-paraquat-tem-que-ser-proibida.md
   - 2014/12/2014-12-05-projeto-que-proibe-pulverizacao-aerea-em-lavouras-e-protocolado-na-alers.md
   - 2015/06/2015-06-02-projetos-de-lei-proibem-o-uso-de-agrotoxicos-no-rio-grande-do-sul.md
   - 2015/06/2015-06-19-uso-de-agrotoxico-no-pais-mais-que-dobra-entre-2000-e-2012.md
@@ -56,22 +47,16 @@ releated_posts:
 ---
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
-
 <figure class="image"><img alt="Emerson Giacomelli, representante da Via Campesina, cobrou do Governo Federal a implantação de medidas para impulsionar a produção de alimentos saudáveis. Foto_ Leandro Molina.jpg" height="467" src="http://farm4.staticflickr.com/3676/20271388908_a2da9e12b7_b.jpg" width="700" />
 <figcaption>&nbsp;Confer&ecirc;ncia de abertura&nbsp;</figcaption>
 </figure>
 
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p><em>Por Catiana de Medeiros<br />
+<p><br />
+<em>Por Catiana de Medeiros<br />
 Da P&aacute;gina do MST</em></p>
 
-<p>&nbsp;</p>
-
-<p>Na &uacute;ltima sexta-feira (07), aconteceu o&nbsp;semin&aacute;rio &ldquo;A Realidade e as Consequ&ecirc;ncias do uso dos Agrot&oacute;xicos no Brasil e no Rio Grande do Sul&rdquo;.</p>
+<p><br />
+Na &uacute;ltima sexta-feira (07), aconteceu o&nbsp;semin&aacute;rio &ldquo;A Realidade e as Consequ&ecirc;ncias do uso dos Agrot&oacute;xicos no Brasil e no Rio Grande do Sul&rdquo;.</p>
 
 <p><br />
 <span style="line-height: 20.7999992370605px;">O evento foi realizado&nbsp;</span><span style="line-height: 20.7999992370605px;">pelos mandatos do deputado estadual Edegar Pretto e deputado federal Dionilso Marcon, ambos do PT, na Assembleia Legislativa do RS, e contou com a presen&ccedil;a da ministra do Meio Ambiente Izabella Teixeira, al&eacute;m de agricultores, ambientalistas e representantes de entidades da sociedade civil. Ao todo, mais de 800 pessoas acompanharam pain&eacute;is e debates que&nbsp;</span>mostraram&nbsp;que os brasileiros e ga&uacute;chos se destacam quando o assunto &eacute; consumo de venenos: s&atilde;o mais de 7 litros anuais por habitante.</p>
