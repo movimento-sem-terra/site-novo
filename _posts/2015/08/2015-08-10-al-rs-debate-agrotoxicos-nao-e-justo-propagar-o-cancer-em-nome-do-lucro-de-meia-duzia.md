@@ -22,7 +22,7 @@ files:
     title: al.jpg
     $$hashKey: 0EE
 created_date: "2015-08-10T08:20:25-03:00"
-published: true
+published: false
 releated_posts:
   - 2014/06/2014-06-24-areas-com-transgenico-e-agrotoxico-tem-maior-taxa-de-cancer-aponta-relatorio.md-e
   - 2015/06/2015-06-18-marcelino-galo-guerra-quimica-na-bahia.md
