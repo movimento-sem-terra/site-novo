@@ -7,7 +7,7 @@ tags:
 title: Movimentos sociais e lutas populares podem ser incluídos em lei antiterrorismo
 support_line: "Para a deputada Jandira Feghali (PC do B), emendado deputado Luis Carlos Aleluia (DEM-BA) pode “criminalizar tentativas de reivindicação do povo ao Estado, o que foi praxe na ditadura”."
 menu: direitos humanos
-images_hd: "http://farm1.staticflickr.com/394/20454589802_b1123e267a_b.jpg"
+images_hd: "http://farm1.staticflickr.com/495/20454876722_e8d92f8450_b.jpg"
 layout: post
 files:
   - link: "http://farm1.staticflickr.com/394/20454589802_b1123e267a_b.jpg"
@@ -22,6 +22,12 @@ files:
     small: "http://farm4.staticflickr.com/3747/20275271648_4472238503_n.jpg"
     title: JOKA0006-Editar.jpg
     $$hashKey: 0GV
+  - link: "http://farm1.staticflickr.com/495/20454876722_e8d92f8450_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/495/20454876722_e8d92f8450_t.jpg"
+    medium: "http://farm1.staticflickr.com/495/20454876722_e8d92f8450_z.jpg"
+    small: "http://farm1.staticflickr.com/495/20454876722_e8d92f8450_n.jpg"
+    title: "Protesto-Não-é-Crime!.jpg"
+    $$hashKey: 0ON
 created_date: "2015-08-10T14:29:44-03:00"
 published: true
 releated_posts:
