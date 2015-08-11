@@ -4,7 +4,7 @@ tags:
   - tag: transgênicos
   - tag: saúde
   - tag: rotulagem
-title: "Ativistas temem que rótulos sem 'alerta T' incentivem uso de transgênicos em produtos brasileiros"
+title: "Ativistas temem que rótulos sem 'alerta T' incentivem uso de transgênicos"
 menu: transgênicos
 images_hd: "http://farm1.staticflickr.com/320/20485235395_c8f2b24bdc_b.jpg"
 support_line: "Aprovada na Câmara e em tramitação no Senado, proposta de lei que desobriga indústria de alimentos a informar na embalagem presença de componentes geneticamente modificados preocupa ambientalistas e consumidores."
