@@ -7,7 +7,7 @@ title: Movimentos populares se preparam para ato unificado em São Paulo
 support_line: "No dia 20 de agosto, organizações sairão às ruas em defesa da democracia e contra o ajuste fiscal"
 menu: lutas e mobilizações
 images_hd: "http://farm1.staticflickr.com/508/20268523739_14fc3c1dc3_b.jpg"
-section: cover
+section: featured-news
 layout: post
 files:
   - link: "http://farm1.staticflickr.com/508/20268523739_14fc3c1dc3_b.jpg"
