@@ -4,7 +4,7 @@ tags:
   - tag: reforma-agrária
   - tag: araupel
   - tag: paraná
-title: Sem Terra acreditam que incêndio ao redor do Acampamento no PR tem origem criminosa
+title: Sem Terra acreditam que incêndio ao redor de acampamento no PR tem origem criminosa
 support_line: A suspeita é que a própria empresa Araupel tenha causado o incêndio. Centenas de famílias se somam ao corpo de bombeiros para conter o incêndio.
 menu: reforma agrária
 images_hd: "http://farm1.staticflickr.com/330/19865507673_92eb0ce7a4_b.jpg"
