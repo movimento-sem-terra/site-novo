@@ -82,7 +82,7 @@ O primeiro encontro LGBT do MST contou com a participa&ccedil;&atilde;o de mais 
 <figcaption></figcaption>
 </figure>
 
-<p>Trazer o debate LGBT para dentro do Movimento &eacute; quebrar o imagin&aacute;rio social da concep&ccedil;&atilde;o da fam&iacute;lia tradicional que recai como o modelo leg&iacute;timo, e cria-se a possibilidade de vislumbrar um movimento social em que a sexualidade &eacute; fluida.</p>
+<p>Trazer o debate LGBT para dentro do Movimento &eacute; quebrar o imagin&aacute;rio social de&nbsp;concep&ccedil;&atilde;o da fam&iacute;lia tradicional que recai como o modelo leg&iacute;timo&nbsp;e, assim, criar a&nbsp;&nbsp;possibilidade de vislumbrar um movimento social em que a sexualidade &eacute; fluida.</p>
 
 <p><br />
 Presente no semin&aacute;rio, a especialista em Psicologia pela Pontif&iacute;cia Universidade Cat&oacute;lica de S&atilde;o Paulo (PUC-SP), ensa&iacute;sta e jornalista, Maria Rita Khel, apontou que a cada novo censo demogr&aacute;fico realizado no Brasil se renova a evid&ecirc;ncia de que a fam&iacute;lia n&atilde;o &eacute; mais a mesma.&nbsp;</p>
