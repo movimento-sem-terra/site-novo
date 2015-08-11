@@ -94,6 +94,12 @@ Presente no semin&aacute;rio, a especialista em Psicologia pela Pontif&iacute;ci
 O semin&aacute;rio &ldquo;O MST e a Diversidade Sexual&rdquo;, trouxe &agrave; tona uma experi&ecirc;ncia de acolhimento da alteridade, de dialogar com a multiplicidade que comp&otilde;e a vida social.&nbsp;</p>
 
 <p><br />
+Para&nbsp;Kelli&nbsp;Mafort, da coordena&ccedil;&atilde;o nacional do MST, o semin&aacute;rio&nbsp;representa um marco hist&oacute;rico nos 30&nbsp;anos de organiza&ccedil;&atilde;o do Movimento Sem Terra.&nbsp;</p>
+
+<p><br />
+&quot;Esse encontro visibiliza o LGBT, sujeito da luta no campo. Esse &eacute; um passo fundamental no sentido de reconhecer que na nossa base social, na nossa milit&acirc;ncia e na dire&ccedil;&atilde;o pol&iacute;tica do Movimento eles est&atilde;o presentes. E mais do que isso, demonstra uma postura concreta de luta contra a face conservadora que fortalece&nbsp;o racismo, a homofobia, o machismo e todo o tipo de preconceito. Por isso, esse &nbsp;&eacute; um marco hist&oacute;rico dentro do MST, &eacute; uma marcha que avan&ccedil;a e&nbsp;que n&atilde;o pode retroceder&quot;, enfatiza.&nbsp;&nbsp;&nbsp;&nbsp;</p>
+
+<p><br />
 A incorpora&ccedil;&atilde;o das discuss&otilde;es de g&ecirc;nero amplia o espectro de luta e abre caminho para que demandas sociais ganhem campo e express&atilde;o.&nbsp;</p>
 
 <p><br />
