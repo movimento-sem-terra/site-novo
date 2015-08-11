@@ -4,7 +4,7 @@ tags:
   - tag: direitos-humanos
   - tag: diversidade-sexual
   - tag: diversidade
-title: "Sou gay, sou lésbica, sou bi, sou Sem Terra, sou humano, sou como você"
+title: "Sou gay, sou lésbica, sou trans, sou bi e travesti, sou Sem Terra, sou humano, sou como você"
 section: cover
 menu: direitos humanos
 images_hd: "http://farm6.staticflickr.com/5619/20305522419_ea872c3b1e_b.jpg"
@@ -129,8 +129,7 @@ Segundo o relat&oacute;rio da ONG internacional Transgender Europe, o pa&iacute;
 <figure class="image"><img alt="FB_IMG_1439316478051.jpg" src="http://farm1.staticflickr.com/544/19871847673_4a6ffbe8ee_b.jpg" />
 <figcaption><strong>&ldquo;Lutar por liberdade sexual &eacute; lutar contra o patriarcado&rdquo;</strong><br />
 <br />
-Eu sou o Wagner, estou h&aacute; 16 anos dentro do MST. A quest&atilde;o LGBT j&aacute; vem sendo alicer&ccedil;ada dentro do Movimento Sem Terra h&aacute; cerca de 10 anos. &nbsp;O nosso grande desafio sempre foi estar dentro das inst&acirc;ncias do Movimento, e assim conseguirmos colocar em pauta as quest&otilde;es que permeiam a causa LGBT. &nbsp;Em S&atilde;o Paulo eu fui o primeiro homossexual assumido que fez parte da dire&ccedil;&atilde;o estadual, esse foi um grande avan&ccedil;o. A receptividade foi incr&iacute;vel, n&atilde;o me lembro de ter dito problemas com nenhum tipo de discrimina&ccedil;&atilde;o dentro da inst&acirc;ncia estadual. At&eacute; porque eu acredito que a sua condi&ccedil;&atilde;o sexual n&atilde;o tem que pautar a minha condi&ccedil;&atilde;o de sujeito da luta. &nbsp;&Eacute; importante que tenhamos bandeiras e a&ccedil;&otilde;es que nos aglutinem. O nosso desafio aqui &eacute; pensar al&eacute;m da luta por direitos. Precisamos discutir a aceita&ccedil;&atilde;o, a disposi&ccedil;&atilde;o do respeito ao outro.<br />
-</figcaption>
+Eu sou o Wagner, estou h&aacute; 16 anos dentro do MST. A quest&atilde;o LGBT j&aacute; vem sendo alicer&ccedil;ada dentro do Movimento Sem Terra h&aacute; cerca de 10 anos. &nbsp;O nosso grande desafio sempre foi estar dentro das inst&acirc;ncias do Movimento, e assim conseguirmos colocar em pauta as quest&otilde;es que permeiam a causa LGBT. &nbsp;Em S&atilde;o Paulo eu fui o primeiro homossexual assumido que fez parte da dire&ccedil;&atilde;o estadual, esse foi um grande avan&ccedil;o. A receptividade foi incr&iacute;vel, n&atilde;o me lembro de ter dito problemas com nenhum tipo de discrimina&ccedil;&atilde;o dentro da inst&acirc;ncia estadual. At&eacute; porque eu acredito que a sua condi&ccedil;&atilde;o sexual n&atilde;o tem que pautar a minha condi&ccedil;&atilde;o de sujeito da luta. &nbsp;&Eacute; importante que tenhamos bandeiras e a&ccedil;&otilde;es que nos aglutinem. O nosso desafio aqui &eacute; pensar al&eacute;m da luta por direitos. Precisamos discutir a aceita&ccedil;&atilde;o, a disposi&ccedil;&atilde;o do respeito ao outro.</figcaption>
 </figure>
 
 <figure class="image"><img alt="encontro_lgbt_casal.jpg" src="http://farm1.staticflickr.com/293/19869746444_b3a92fdd03_b.jpg" />
