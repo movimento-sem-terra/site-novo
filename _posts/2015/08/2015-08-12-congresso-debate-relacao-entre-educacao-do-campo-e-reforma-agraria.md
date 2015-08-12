@@ -115,7 +115,9 @@ Para Adriana Fernandes, assentada e estudante do resid&ecirc;ncia agr&aacute;ria
 Maria L&uacute;cia Falc&oacute;n, presidente do Instituto Nacional de Coloniza&ccedil;&atilde;o na Reforma agr&aacute;ria (Incra), comentou sobre a import&acirc;ncia de fazer ci&ecirc;ncia para dentro do pa&iacute;s.</p>
 
 <p><br />
-J&aacute; Hernan Chaimovic, presidente do Conselho Nacional de Desenvolvimento Cient&iacute;fico e Tecnol&oacute;gico (Cnpq), salientou a import&acirc;ncia do Cnpq no Programa e a legitimidade que isso traz a esse movimento, e assumiu o compromisso de manter e ampliar o Programa.</p>
+J&aacute; Hernan Chaimovic, presidente do Conselho Nacional de Desenvolvimento Cient&iacute;fico e Tecnol&oacute;gico (Cnpq), salientou a import&acirc;ncia do Cnpq no Programa e a legitimidade que isso traz a esse movimento, e assumiu o compromisso de manter e ampliar o Programa, fato que dependeria da vontade pol&iacute;tica&nbsp;do governo federal.</p>
+
+<p>&nbsp;</p>
 
 <p><br />
 Atualmente o programa conta com a participa&ccedil;&atilde;o de 35 universidades de todo o pa&iacute;s. S&atilde;o 35 cursos em andamento com 1.500 alunos em todo o territ&oacute;rio brasileiro.</p>
