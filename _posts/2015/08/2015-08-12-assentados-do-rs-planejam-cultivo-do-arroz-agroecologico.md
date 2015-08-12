@@ -66,8 +66,9 @@ A transi&ccedil;&atilde;o de cultura j&aacute; completa 17 anos e representa uma
 <p><br />
 O plantio do gr&atilde;o deve ser iniciado nos assentamentos do Estado na segunda quinzena de outubro, e a colheita a partir de fevereiro de 2016.</p>
 
-<p><br />
-Comercializa&ccedil;&atilde;o</p>
+<p>&nbsp;</p>
+
+<p>Comercializa&ccedil;&atilde;o</p>
 
 <p><br />
 O arroz agroecol&oacute;gico produzido pelo MST &eacute; comercializado por meio da Companhia Nacional de Abastecimento (Conab), e tamb&eacute;m &eacute; destinado &agrave; merenda escolar. Em outubro do ano passado, a Cooperativa dos Trabalhadores Assentados da Regi&atilde;o de Porto Alegre (Cootap) e a prefeitura de S&atilde;o Paulo assinaram um acordo que garante a inser&ccedil;&atilde;o do produto na alimenta&ccedil;&atilde;o dos alunos de escolas p&uacute;blicas do munic&iacute;pio paulista.</p>
@@ -75,8 +76,9 @@ O arroz agroecol&oacute;gico produzido pelo MST &eacute; comercializado por meio
 <p><br />
 Na Capital do RS, entre outros locais, &eacute; poss&iacute;vel encontrar o arroz livre de agrot&oacute;xicos no Mercado P&uacute;blico de Porto Alegre e na Feira Agroecol&oacute;gica da Reden&ccedil;&atilde;o.</p>
 
-<p><br />
-Apoios &agrave; produ&ccedil;&atilde;o</p>
+<p>&nbsp;</p>
+
+<p>Apoios &agrave; produ&ccedil;&atilde;o</p>
 
 <p><br />
 O professor de Mestrado Profissional em Agroecossistemas da Universidade Federal de Santa Catarina (UFSC), Luiz Carlos Pinheiro Machado, tamb&eacute;m participou do semin&aacute;rio junto a representantes do Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra) e da Empresa de Assist&ecirc;ncia T&eacute;cnica e Extens&atilde;o Rural (Emater). Na ocasi&atilde;o, Machado defendeu a continuidade do processo de forma&ccedil;&atilde;o dos produtores para que o trabalho no campo gere cada vez mais bons resultados.<br />
