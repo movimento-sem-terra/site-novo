@@ -4,7 +4,7 @@ tags:
   - tag: direitos-humanos
   - tag: diversidade-sexual
   - tag: diversidade
-title: "Sou gay, sou lésbica, sou trans, sou bi e travesti, sou Sem Terra, sou humano, sou como você"
+title: "Sou gay, sou lésbica, sou trans, sou bi, sou Sem Terra, sou humano, sou como você"
 section: cover
 menu: direitos humanos
 images_hd: "http://farm6.staticflickr.com/5619/20305522419_ea872c3b1e_b.jpg"
