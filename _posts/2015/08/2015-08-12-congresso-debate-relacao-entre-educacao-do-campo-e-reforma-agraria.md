@@ -8,7 +8,7 @@ title: Congresso debate relação entre educação do campo e reforma agrária
 menu: "educação, cultura e comunicação"
 sector: education
 support_line: "Cerca de 500 pessoas participam do 1° Congresso Nacional de Residência Agrária, em Brasília."
-images_hd: "http://farm1.staticflickr.com/566/20328665348_95f966b3fa_b.jpg"
+images_hd: "http://farm1.staticflickr.com/563/19894130644_ebcc94d05e_b.jpg"
 layout: post
 files:
   - link: "http://farm1.staticflickr.com/565/20516711125_49c6acdb59_b.jpg"
@@ -23,6 +23,12 @@ files:
     small: "http://farm1.staticflickr.com/566/20328665348_95f966b3fa_n.jpg"
     title: congresso_residencia2.jpg
     $$hashKey: "109"
+  - link: "http://farm1.staticflickr.com/563/19894130644_ebcc94d05e_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/563/19894130644_ebcc94d05e_t.jpg"
+    medium: "http://farm1.staticflickr.com/563/19894130644_ebcc94d05e_z.jpg"
+    small: "http://farm1.staticflickr.com/563/19894130644_ebcc94d05e_n.jpg"
+    title: congresso_residencia3.jpg
+    $$hashKey: "057"
 created_date: "2015-08-12T12:28:29-03:00"
 published: true
 releated_posts:
@@ -36,7 +42,8 @@ releated_posts:
   - 2014/04/2014-04-30-movimentos-sociais-conquistam-curso-de-direito-na-federal-do-parana.md
 
 ---
-<p><br />
+<p><img alt="congresso_residencia3.jpg" src="http://farm1.staticflickr.com/563/19894130644_ebcc94d05e_b.jpg" /><br />
+<br />
 <em>Por Iris Pacheco<br />
 Da P&aacute;gina do MST</em></p>
 
