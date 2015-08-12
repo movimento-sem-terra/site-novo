@@ -5,7 +5,7 @@ tags:
   - tag: diversidade-sexual
   - tag: diversidade
 title: "Sou gay, sou lésbica, sou trans, sou bi, sou Sem Terra, sou humano, sou como você"
-section: cover
+section: featured-news
 menu: direitos humanos
 images_hd: "http://farm6.staticflickr.com/5619/20305522419_ea872c3b1e_b.jpg"
 support_line: "Sem Terra realizam seminário “O MST e a Diversidade Sexual”, e acreditam que a incorporação de lutas identitárias também faz parte do amadurecimento do Movimento."
