@@ -122,7 +122,7 @@ Em grande parte, as principais demandas dos movimentos de diversidade sexual est
 <figcaption></figcaption>
 </figure>
 
-<p>Fazer esse debate &eacute; reconhecer a lacuna de reflex&otilde;es sobre este debate dentro de uma organiza&ccedil;&atilde;o que combate &agrave; exclus&atilde;o social e que tem como princ&iacute;pio viv&ecirc;ncias de natureza coletiva e respeito ao pr&oacute;ximo.&nbsp;</p>
+<p>Fazer esse debate &eacute; reconhecer a lacuna de reflex&otilde;es&nbsp;dentro de uma organiza&ccedil;&atilde;o que combate &agrave; exclus&atilde;o social e que tem como princ&iacute;pio viv&ecirc;ncias de natureza coletiva e respeito ao pr&oacute;ximo.&nbsp;</p>
 
 <p><br />
 Segundo o Grupo Gay da Bahia (GGB), que registra os casos de assassinatos da popula&ccedil;&atilde;o LGBT (l&eacute;sbicas, gays, bissexuais e transg&ecirc;neros) a partir de informa&ccedil;&otilde;es publicadas em jornais e enviadas por organiza&ccedil;&otilde;es n&atilde;o governamentais, um homossexual &eacute; morto a cada 28 horas no Brasil.&nbsp;</p>
