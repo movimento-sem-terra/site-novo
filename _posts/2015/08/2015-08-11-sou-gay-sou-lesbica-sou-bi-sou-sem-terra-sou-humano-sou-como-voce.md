@@ -128,7 +128,7 @@ Em grande parte, as principais demandas dos movimentos de diversidade sexual est
 Segundo o Grupo Gay da Bahia (GGB), que registra os casos de assassinatos da popula&ccedil;&atilde;o LGBT (l&eacute;sbicas, gays, bissexuais e transg&ecirc;neros) a partir de informa&ccedil;&otilde;es publicadas em jornais e enviadas por organiza&ccedil;&otilde;es n&atilde;o governamentais, um homossexual &eacute; morto a cada 28 horas no Brasil.&nbsp;</p>
 
 <p><br />
-Segundo o relat&oacute;rio da ONG internacional Transgender Europe, o pa&iacute;s tamb&eacute;m lidera o ranking do assassinato de transexuais. Entre janeiro de 2008 e abril de 2013, foram 486 mortes. Recentemente, um ranking mundial feito pela Associa&ccedil;&atilde;o Internacional de Gays e L&eacute;sbicas apontou que 44% das mortes de LGBTs em todo o mundo acontecem no Brasil.<br />
+No relat&oacute;rio da ONG internacional Transgender Europe, o pa&iacute;s tamb&eacute;m lidera o ranking do assassinato de transexuais. Entre janeiro de 2008 e abril de 2013, foram 486 mortes. Recentemente, um ranking mundial feito pela Associa&ccedil;&atilde;o Internacional de Gays e L&eacute;sbicas apontou que 44% das mortes de LGBTs em todo o mundo acontecem no Brasil.<br />
 <br />
 &nbsp;</p>
 
