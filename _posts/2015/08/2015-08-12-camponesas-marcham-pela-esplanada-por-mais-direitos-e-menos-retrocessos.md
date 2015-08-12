@@ -5,7 +5,7 @@ tags:
   - tag: lutas-e-mobilizações
   - tag: reforma-agrária
   - tag: mulheres-camponesas
-title: Camponesas marcham pela Esplanada por mais direitos e menos retrocessos
+title: Camponesas marcham pela Esplanada por mais direitos e menos retrocesso
 menu: lutas e mobilizações
 images_hd: "http://farm1.staticflickr.com/618/20333429048_ba6b0941e1_b.jpg"
 section: cover
@@ -18,6 +18,24 @@ files:
     small: "http://farm1.staticflickr.com/618/20333429048_ba6b0941e1_n.jpg"
     title: margaridas.jpg
     $$hashKey: 0JW
+  - link: "http://farm6.staticflickr.com/5662/20521531255_a3d128ef33_b.jpg"
+    thumbnail: "http://farm6.staticflickr.com/5662/20521531255_a3d128ef33_t.jpg"
+    medium: "http://farm6.staticflickr.com/5662/20521531255_a3d128ef33_z.jpg"
+    small: "http://farm6.staticflickr.com/5662/20521531255_a3d128ef33_n.jpg"
+    title: margaridas2.jpg
+    $$hashKey: 05G
+  - link: "http://farm1.staticflickr.com/721/19900610773_732a2f205b_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/721/19900610773_732a2f205b_t.jpg"
+    medium: "http://farm1.staticflickr.com/721/19900610773_732a2f205b_z.jpg"
+    small: "http://farm1.staticflickr.com/721/19900610773_732a2f205b_n.jpg"
+    title: margaridas3.jpg
+    $$hashKey: 05J
+  - link: "http://farm1.staticflickr.com/673/20334826759_0f23077ce5_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/673/20334826759_0f23077ce5_t.jpg"
+    medium: "http://farm1.staticflickr.com/673/20334826759_0f23077ce5_z.jpg"
+    small: "http://farm1.staticflickr.com/673/20334826759_0f23077ce5_n.jpg"
+    title: margaridas4.jpg
+    $$hashKey: 05M
 created_date: "2015-08-12T17:11:32-03:00"
 published: true
 releated_posts:
@@ -48,15 +66,16 @@ A Marcha das Margaridas, que acontece a cada quatro anos, re&uacute;ne milhares 
 De todo o pa&iacute;s sa&iacute;ram caravanas organizadas pela Confedera&ccedil;&atilde;o Nacional dos Trabalhadores na Agricultura (CONTAG) e um&nbsp;conjunto de movimentos parceiros da Marcha das Margaridas, como o MST, Movimento de Mulheres Camponesas (MMC), Central &Uacute;nica dos Trabalhadores (CUT), entre outros.</p>
 
 <p><br />
-Pelo fato de considerarem as mulheres como as respons&aacute;veis&nbsp;pela manuten&ccedil;&atilde;o da terra e da sustentabilidade da vida camponesa, a Marcha trouxe in&uacute;meras pautas que se relacionam &agrave; vida das mulheres e de g&ecirc;nero no campo, como a den&uacute;ncia do modelo do agroneg&oacute;cio, considerado um modelo concentrador, degradador e excludente, a luta pelo direito &agrave; terra e contra as diversas formas de viol&ecirc;ncia dirigidas &agrave;s mulheres em todo o pa&iacute;s.</p>
+Pelo fato de considerarem as mulheres como as respons&aacute;veis&nbsp;pela manuten&ccedil;&atilde;o da terra e da sustentabilidade da vida camponesa, a Marcha trouxe in&uacute;meras pautas que se relacionam &agrave; vida das mulheres e de g&ecirc;nero no campo, como a den&uacute;ncia do modelo do agroneg&oacute;cio, considerado um modelo concentrador, degradador e excludente, a luta pelo direito &agrave; terra e contra as diversas formas de viol&ecirc;ncia dirigidas &agrave;s mulheres em todo o pa&iacute;s.<br />
+&nbsp;</p>
 
-<p><br />
-O evento se encerra na tarde desta quarta-feira (12) com um ato pol&iacute;tico a partir das 15h, que contar&aacute; com a presen&ccedil;a da presidente Dilma Rousseff.</p>
+<p>O evento se encerra na tarde desta quarta-feira (12) com um ato pol&iacute;tico a partir das 15h, que contar&aacute; com a presen&ccedil;a da presidente Dilma Rousseff.</p>
 
 <p><br />
 Abaixo, confira a carta na &iacute;ntegra:</p>
 
-<p style="text-align: center;"><br />
+<p style="text-align: center;"><img alt="margaridas3.jpg" src="http://farm1.staticflickr.com/721/19900610773_732a2f205b_b.jpg" /><br />
+<br />
 <strong>Por que&nbsp;Marchamos</strong></p>
 
 <p><br />
@@ -78,9 +97,11 @@ Marchamos para denunciar o modelo concentrador, degradador e excludente do agron
 Marchamos em rep&uacute;dio &agrave; ofensiva das for&ccedil;as reacion&aacute;rios, anti-direitos e fundamentalistas, que se utilizam dos espa&ccedil;os de poder, das religi&otilde;es e da grande m&iacute;dia para proliferar a intoler&acirc;ncia e disseminar preconceitos, sexismo, misoginia, racismo e &oacute;dio de classe na sociedade brasileira. Neste processo atacam direitos e amea&ccedil;am a democracia pela qual tanto lutamos.</p>
 
 <p><br />
-Repudiamos, veementemente, as pr&aacute;ticas de incita&ccedil;&atilde;o &agrave; viol&ecirc;ncia e ao &oacute;dio contra as mulheres, como no caso da veicula&ccedil;&atilde;o de adesivos ofensivos com a imagem da presidenta da Rep&uacute;blica, que refor&ccedil;am a cultura do estupro e agridem a todas as mulheres.</p>
+Repudiamos, veementemente, as pr&aacute;ticas de incita&ccedil;&atilde;o &agrave; viol&ecirc;ncia e ao &oacute;dio contra as mulheres, como no caso da veicula&ccedil;&atilde;o de adesivos ofensivos com a imagem da presidenta da Rep&uacute;blica, que refor&ccedil;am a cultura do estupro e agridem a todas as mulheres.<br />
+&nbsp;</p>
 
-<p><br />
+<p><img alt="margaridas4.jpg" src="http://farm1.staticflickr.com/673/20334826759_0f23077ce5_b.jpg" /><br />
+<br />
 Outro exemplo de amea&ccedil;a aos direitos e &agrave;s conquistas populares, foi a aprova&ccedil;&atilde;o da redu&ccedil;&atilde;o da maioridade penal pela c&acirc;mara dos deputados, que afeta em particular a juventude negra e pobre, e, tamb&eacute;m, a a&ccedil;&atilde;o coordenada por setores fundamentalistas das diversas igrejas, que vem impondo a retirada dos termos relativos &agrave; quest&atilde;o de g&ecirc;nero nos planos municipais de educa&ccedil;&atilde;o, em v&aacute;rios estados e munic&iacute;pios. Estamos organizadas ainda, contra o projeto que retira a obrigatoriedade da participa&ccedil;&atilde;o da Petrobr&aacute;s na explora&ccedil;&atilde;o dos campos de petr&oacute;leo do pr&eacute;-sal, lutando pela garantia do repasse dos recursos dos royaltes para a educa&ccedil;&atilde;o.</p>
 
 <p><br />
