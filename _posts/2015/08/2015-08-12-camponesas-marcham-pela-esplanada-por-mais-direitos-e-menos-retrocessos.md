@@ -8,7 +8,7 @@ tags:
 title: Camponesas marcham pela Esplanada por mais direitos e menos retrocesso
 menu: lutas e mobilizações
 images_hd: "http://farm1.staticflickr.com/618/20333429048_ba6b0941e1_b.jpg"
-section: cover
+section: featured-news
 support_line: "Mais de 50 mil mulheres do campo participaram da Marcha das Margaridas, em Brasília."
 layout: post
 files:
