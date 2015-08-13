@@ -4,7 +4,7 @@ tags:
   - tag: formação
   - tag: florestan-fernandes
   - tag: enff
-title: "\"O legado de Florestan está na sua defesa inesgotável de uma causa justa e socialista\", afirma Pizetta"
+title: "\"O legado de Florestan está na sua inesgotável defesa de uma causa justa e socialista\", afirma Pizetta"
 label: interviews
 section: cover
 images_hd: "http://farm1.staticflickr.com/643/20358683070_2c610d7d59_b.jpg"
@@ -43,6 +43,12 @@ files:
     small: "http://farm1.staticflickr.com/576/20358952308_7bd6e22133_n.jpg"
     title: pizetta.jpg
     $$hashKey: 0C3
+  - link: "http://farm1.staticflickr.com/616/20521960996_cd8f432d6e_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/616/20521960996_cd8f432d6e_t.jpg"
+    medium: "http://farm1.staticflickr.com/616/20521960996_cd8f432d6e_z.jpg"
+    small: "http://farm1.staticflickr.com/616/20521960996_cd8f432d6e_n.jpg"
+    title: "Florestan COM!.jpg"
+    $$hashKey: 0HG
 created_date: "2015-08-13T16:12:56-03:00"
 published: true
 releated_posts:
@@ -54,10 +60,14 @@ releated_posts:
   - 2015/01/2015-01-25-mais-de-600-pessoas-participaram-do-premio-luta-pela-terra.md
 
 ---
-<p><img alt="florestan.jpg" src="http://farm1.staticflickr.com/643/20358683070_2c610d7d59_b.jpg" /></p>
-
 <p><br />
-<em>Por Maura Silva<br />
+&nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="Florestan COM!.jpg" src="http://farm1.staticflickr.com/616/20521960996_cd8f432d6e_b.jpg" />
+<figcaption></figcaption>
+</figure>
+
+<p><em>Por Maura Silva<br />
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
@@ -88,7 +98,7 @@ Ap&oacute;s a promulga&ccedil;&atilde;o do Ato Institucional N&ordm; 5 (AI-5), o
 Voltou ao Brasil em 1972. Em 1986 ingressou no Partido dos Trabalhadores (PT) e foi eleito deputado constituinte pelo partido. Em 1990, foi reeleito para a C&acirc;mara. Faleceu em 1995, devido a complica&ccedil;&otilde;es no f&iacute;gado.<br />
 &nbsp;</p>
 
-<figure class="image" style="float:right"><img alt="pizetta.jpg" src="http://farm1.staticflickr.com/576/20358952308_7bd6e22133_b.jpg" />
+<figure class="image" style="float:left"><img alt="pizetta.jpg" src="http://farm1.staticflickr.com/576/20358952308_7bd6e22133_b.jpg" />
 <figcaption>Adelar Pizetta</figcaption>
 </figure>
 
@@ -129,7 +139,7 @@ A teoria por ele abra&ccedil;ada e produzida nos permite compreender melhor o Br
 
 <p>&nbsp;</p>
 
-<figure class="image" style="float:left"><img alt="florestan2.jpg" src="http://farm6.staticflickr.com/5792/19925868433_22099ac52c_b.jpg" />
+<figure class="image" style="float:right"><img alt="florestan2.jpg" src="http://farm6.staticflickr.com/5792/19925868433_22099ac52c_b.jpg" />
 <figcaption>Florestan em manifesta&ccedil;&atilde;o em frente ao Congresso Nacional durante a Constituinte de 1988.</figcaption>
 </figure>
 
@@ -150,7 +160,7 @@ Isso n&atilde;o significa dizer que a forma&ccedil;&atilde;o &eacute; que vai re
 <p><br />
 &nbsp;</p>
 
-<figure class="image" style="float:right"><img alt="Florestan (1).jpg" src="http://farm1.staticflickr.com/725/20520635006_2716d85ca2_b.jpg" />
+<figure class="image" style="float:left"><img alt="Florestan (1).jpg" src="http://farm1.staticflickr.com/725/20520635006_2716d85ca2_b.jpg" />
 <figcaption></figcaption>
 </figure>
 
