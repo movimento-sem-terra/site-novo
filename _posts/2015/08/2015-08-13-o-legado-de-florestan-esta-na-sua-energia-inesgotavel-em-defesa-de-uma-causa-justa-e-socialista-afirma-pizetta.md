@@ -4,7 +4,7 @@ tags:
   - tag: formação
   - tag: florestan-fernandes
   - tag: enff
-title: "\"O legado de Florestan está na sua energia inesgotável em defesa de uma causa justa e socialista\", afirma Pizetta"
+title: "\"O legado de Florestan está na sua defesa inesgotável de uma causa justa e socialista\", afirma Pizetta"
 label: interviews
 section: cover
 images_hd: "http://farm1.staticflickr.com/643/20358683070_2c610d7d59_b.jpg"
@@ -50,11 +50,13 @@ releated_posts:
   - 2015/01/2015-01-22-em-visita-a-enff-lula-destaca-a-importancia-da-formacao-politica.md
   - 2015/01/2015-01-27-cerca-de-600-pessoas-participam-da-celebracao-de-10-anos-da-enff.md
   - 2015/07/2015-07-31-lutadores-de-todo-o-mundo-se-reunem-para-debater-os-dilemas-da-humanidade.md
+  - 2015/01/2015-01-23-enff-inaugura-casa-de-artes-frida-kahlo.md
+  - 2015/01/2015-01-25-mais-de-600-pessoas-participaram-do-premio-luta-pela-terra.md
 
 ---
-<p><img alt="florestan.jpg" src="http://farm1.staticflickr.com/643/20358683070_2c610d7d59_b.jpg" /><br />
-<br />
-<br />
+<p><img alt="florestan.jpg" src="http://farm1.staticflickr.com/643/20358683070_2c610d7d59_b.jpg" /></p>
+
+<p><br />
 <em>Por Maura Silva<br />
 Da P&aacute;gina do MST</em></p>
 
