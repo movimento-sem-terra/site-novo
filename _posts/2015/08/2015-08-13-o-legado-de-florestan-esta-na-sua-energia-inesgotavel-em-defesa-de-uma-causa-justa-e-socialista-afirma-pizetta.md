@@ -87,7 +87,7 @@ Voltou ao Brasil em 1972. Em 1986 ingressou no Partido dos Trabalhadores (PT) e 
 &nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="pizetta.jpg" src="http://farm1.staticflickr.com/576/20358952308_7bd6e22133_b.jpg" />
-<figcaption></figcaption>
+<figcaption>Adelar Pizetta</figcaption>
 </figure>
 
 <p><strong>Qual o maior legado do pensamento de Florestan Fernandes?&nbsp;</strong></p>
