@@ -16,6 +16,18 @@ files:
     small: "http://farm1.staticflickr.com/766/20354910089_e1c5ec9a2e_n.jpg"
     title: seu sebastião.jpg
     $$hashKey: 0Z0
+  - link: "http://farm1.staticflickr.com/723/20541741385_eccb09926a_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/723/20541741385_eccb09926a_t.jpg"
+    medium: "http://farm1.staticflickr.com/723/20541741385_eccb09926a_z.jpg"
+    small: "http://farm1.staticflickr.com/723/20541741385_eccb09926a_n.jpg"
+    title: seu sebastião2.jpg
+    $$hashKey: "053"
+  - link: "http://farm1.staticflickr.com/736/19919109954_9a0623d347_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/736/19919109954_9a0623d347_t.jpg"
+    medium: "http://farm1.staticflickr.com/736/19919109954_9a0623d347_z.jpg"
+    small: "http://farm1.staticflickr.com/736/19919109954_9a0623d347_n.jpg"
+    title: seu sebastião3.jpg
+    $$hashKey: "056"
 created_date: "2015-08-13T11:58:43-03:00"
 published: false
 releated_posts:
@@ -27,6 +39,7 @@ releated_posts:
   - 2015/07/2015-07-20-encontro-no-rs-discute-desafios-da-educacao-do-campo.md
   - 2015/07/2015-07-01-grandes-grupos-economicos-estao-ditando-a-formacao-de-criancas-e-jovens-brasileiros.md
   - 2015/07/2015-07-06-sem-terra-debatem-os-desafios-da-educacao-do-campo-na-bahia.md
+sector: education
 
 ---
 <p><img alt="seu sebastião.jpg" src="http://farm1.staticflickr.com/766/20354910089_e1c5ec9a2e_b.jpg" /></p>
@@ -52,8 +65,13 @@ Ao todo s&atilde;o cerca de 30 pa&iacute;ses que, assim como o Brasil, puderam t
 <p><br />
 Venezuela, Equador e Bol&iacute;via foram algum destes pa&iacute;ses que se utilizaram do m&eacute;todo para erradicar o analfabetismo em seus territ&oacute;rios.</p>
 
-<p><br />
-Em 2006 o m&eacute;todo chega ao Brasil numa parceria com algumas prefeituras do estado do Piau&iacute;, e a partir de 2007, o MST se apropria da metodologia contra o analfabetismo nas &aacute;reas de Reforma Agr&aacute;ria.</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="seu sebastião2.jpg" src="http://farm1.staticflickr.com/723/20541741385_eccb09926a_b.jpg" />
+<figcaption></figcaption>
+</figure>
+
+<p>Em 2006 o m&eacute;todo chega ao Brasil numa parceria com algumas prefeituras do estado do Piau&iacute;, e a partir de 2007, o MST se apropria da metodologia contra o analfabetismo nas &aacute;reas de Reforma Agr&aacute;ria.</p>
 
 <p><br />
 Apoiado nas telenovelas, o &ldquo;Sim, eu posso!&rdquo; &eacute; aplicado em turmas reduzidas de, no m&aacute;ximo, 15 educandos. Dia ap&oacute;s dia, cap&iacute;tulo ap&oacute;s cap&iacute;tulo da telenovela, os alunos se aproximam de cada letra do alfabeto e as relacionam aos n&uacute;meros, facilitando a memoriza&ccedil;&atilde;o e o aprendizado de cada letra. Aos poucos, v&atilde;o juntando os numerais e passam a construir e identificar palavras e frases.</p>
@@ -92,7 +110,13 @@ Os educadores tamb&eacute;m identificaram um outro problema quase que geral na t
 Mas a Aline sempre foi muito paciente junto com o professor cubano. E eu que achava dif&iacute;cil a pessoa sair nesse pouco tempo aprendendo a escrever alguma coisa, fui e vi que deu certo&rdquo;, relata o Sem Terra.</p>
 
 <p><br />
-<strong>Educa&ccedil;&atilde;o, um privil&eacute;gio de poucos</strong></p>
+&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="seu sebastião3.jpg" src="http://farm1.staticflickr.com/736/19919109954_9a0623d347_b.jpg" />
+<figcaption></figcaption>
+</figure>
+
+<p><strong>Educa&ccedil;&atilde;o, um privil&eacute;gio de poucos</strong></p>
 
 <p><br />
 Para Izael, o processo demonstrou o quanto a educa&ccedil;&atilde;o ainda segue sendo um privil&eacute;gio. &ldquo;A educa&ccedil;&atilde;o &eacute; privada para a classe trabalhadora. A gente passou pelo &lsquo;Sim, eu posso!&rsquo;, mas havia a necessidade de continuidade no aprendizado que tamb&eacute;m deveria partir das gest&otilde;es municipal e estadual. O &lsquo;Sim, eu posso!&rsquo; foi o nosso ponta p&eacute;&rdquo;, afirma mostrando a fotografia impressa da turma, uma das poucas recorda&ccedil;&otilde;es que ele guarda com carinho.&nbsp;</p>
