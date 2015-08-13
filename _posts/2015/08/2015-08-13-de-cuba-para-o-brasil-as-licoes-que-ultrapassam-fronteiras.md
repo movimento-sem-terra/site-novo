@@ -28,6 +28,12 @@ files:
     small: "http://farm1.staticflickr.com/736/19919109954_9a0623d347_n.jpg"
     title: seu sebastião3.jpg
     $$hashKey: "056"
+  - link: "http://farm1.staticflickr.com/733/20355090769_5ba89379a5_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/733/20355090769_5ba89379a5_t.jpg"
+    medium: "http://farm1.staticflickr.com/733/20355090769_5ba89379a5_z.jpg"
+    small: "http://farm1.staticflickr.com/733/20355090769_5ba89379a5_n.jpg"
+    title: seu sebastião4.jpg
+    $$hashKey: "057"
 created_date: "2015-08-13T11:58:43-03:00"
 published: false
 releated_posts:
@@ -95,9 +101,11 @@ No come&ccedil;o, eram muitas as dificuldades enfrentadas na estrutura&ccedil;&a
 Izael Montes Lopes, tamb&eacute;m educador do &ldquo;Sim, eu posso!&rdquo; no Assentamento Vida Nova, recorda do enorme esfor&ccedil;o para que as turmas chegassem at&eacute; o final, j&aacute; que n&atilde;o contavam com nenhum investimento governamental.&nbsp;</p>
 
 <p><br />
-&ldquo;Tomamos a responsabilidade tamanha necessidade. Em 2006 o &iacute;ndice de analfabetismo era muito elevado aqui na regi&atilde;o, e existia essa preocupa&ccedil;&atilde;o de garantir a alfabetiza&ccedil;&atilde;o desses agricultores e agricultoras.&rdquo;</p>
+&ldquo;Tomamos a responsabilidade tamanha necessidade. Em 2006 o &iacute;ndice de analfabetismo era muito elevado aqui na regi&atilde;o, e existia essa preocupa&ccedil;&atilde;o de garantir a alfabetiza&ccedil;&atilde;o desses agricultores e agricultoras.&rdquo;<br />
+&nbsp;</p>
 
-<p><br />
+<p><img alt="seu sebastião4.jpg" src="http://farm1.staticflickr.com/733/20355090769_5ba89379a5_b.jpg" /><br />
+<br />
 Para Izael tudo foi desafiador, desde conhecer melhor o m&eacute;todo at&eacute; aprender a mexer no v&iacute;deo cassete. &ldquo;Mas o que falou mais alto foi o desafio de mostrar &agrave; sociedade que a gente &eacute; capaz de acabar com o analfabetismo&rdquo; ressalta.</p>
 
 <p><br />
@@ -109,14 +117,15 @@ Os educadores tamb&eacute;m identificaram um outro problema quase que geral na t
 <p><br />
 Mas a Aline sempre foi muito paciente junto com o professor cubano. E eu que achava dif&iacute;cil a pessoa sair nesse pouco tempo aprendendo a escrever alguma coisa, fui e vi que deu certo&rdquo;, relata o Sem Terra.</p>
 
+<p style="line-height: 20.7999992370605px;"><br />
+<strong>Leia mais:</strong></p>
+
+<p style="line-height: 20.7999992370605px;"><strong><a href="http://www.mst.org.br/2015/07/15/enera-tem-o-desafio-de-criar-um-novo-espaco-de-articulacao-entre-os-trabalhadores-da-educacao.html">Enera tem o desafio de criar um novo espa&ccedil;o de articula&ccedil;&atilde;o entre os trabalhadores da educa&ccedil;&atilde;o</a></strong></p>
+
+<p style="line-height: 20.7999992370605px;"><strong><a href="http://www.mst.org.br/2015/07/01/grandes-grupos-economicos-estao-ditando-a-formacao-de-criancas-e-jovens-brasileiros.html">&ldquo;Grandes grupos econ&ocirc;micos est&atilde;o ditando a forma&ccedil;&atilde;o de crian&ccedil;as e jovens brasileiros&rdquo;</a></strong></p>
+
 <p><br />
-&nbsp;</p>
-
-<figure class="image" style="float:left"><img alt="seu sebastião3.jpg" src="http://farm1.staticflickr.com/736/19919109954_9a0623d347_b.jpg" />
-<figcaption></figcaption>
-</figure>
-
-<p><strong>Educa&ccedil;&atilde;o, um privil&eacute;gio de poucos</strong></p>
+<strong>Educa&ccedil;&atilde;o, um privil&eacute;gio de poucos</strong></p>
 
 <p><br />
 Para Izael, o processo demonstrou o quanto a educa&ccedil;&atilde;o ainda segue sendo um privil&eacute;gio. &ldquo;A educa&ccedil;&atilde;o &eacute; privada para a classe trabalhadora. A gente passou pelo &lsquo;Sim, eu posso!&rsquo;, mas havia a necessidade de continuidade no aprendizado que tamb&eacute;m deveria partir das gest&otilde;es municipal e estadual. O &lsquo;Sim, eu posso!&rsquo; foi o nosso ponta p&eacute;&rdquo;, afirma mostrando a fotografia impressa da turma, uma das poucas recorda&ccedil;&otilde;es que ele guarda com carinho.&nbsp;</p>
@@ -131,7 +140,13 @@ As primeiras turmas do Cear&aacute; conclu&iacute;ram o per&iacute;odo de alfabe
 &ldquo;Depois da conclus&atilde;o da nossa turma, o m&eacute;todo foi ampliado para v&aacute;rias outras &aacute;reas. Em cada munic&iacute;pio daqui podia contar que tinha uma turma do &lsquo;Sim, eu posso!&rsquo;, e tinham como refer&ecirc;ncia as nossas primeiras turmas aqui do Vida Nova. Come&ccedil;ou aqui como uma brasa e se espalhou por todos os cantos&rdquo;, destaca Izael, que hoje tamb&eacute;m integra o Setor de Educa&ccedil;&atilde;o do MST.</p>
 
 <p><br />
-<strong>O &ldquo;Sim, eu posso!&rdquo; chega &agrave; cidade</strong></p>
+&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="seu sebastião3.jpg" src="http://farm1.staticflickr.com/736/19919109954_9a0623d347_b.jpg" />
+<figcaption></figcaption>
+</figure>
+
+<p><strong>O &ldquo;Sim, eu posso!&rdquo; chega &agrave; cidade</strong></p>
 
 <p><br />
 Ap&oacute;s a realiza&ccedil;&atilde;o da experi&ecirc;ncia do &ldquo;Sim, eu posso!&rdquo; nas &aacute;reas de Reforma Agr&aacute;ria, tamb&eacute;m estava colocado o desafio de expandir a luta contra o analfabetismo na cidade. Em negocia&ccedil;&atilde;o com a prefeitura de Fortaleza, durante a gest&atilde;o de Luizianne Lins (PT), o MST apresentou o m&eacute;todo &agrave; prefeitura, propondo uma a&ccedil;&atilde;o massiva de alfabetiza&ccedil;&atilde;o nas &aacute;reas urbanas.</p>
@@ -147,6 +162,15 @@ Uma brigada de Sem Terra, conhecida como Brigada de Alfabetiza&ccedil;&atilde;o 
 
 <p><br />
 Ao final do processo, cerca de 16 mil pessoas foram alfabetizadas na cidade. &ldquo;A nossa luta &eacute; acabar com o analfabetismo onde quer que ele esteja, seja no campo ou na cidade&rdquo;, afirma Vera Mariano, do setor de educa&ccedil;&atilde;o do Cear&aacute;.</p>
+
+<p style="line-height: 20.7999992370605px;"><br />
+<strong>Leia mais:</strong></p>
+
+<p style="line-height: 20.7999992370605px;"><strong><a href="http://www.mst.org.br/2015/05/18/reforma-agraria-em-bom-portugues-uma-historia-premiada.html">Reforma agr&aacute;ria em bom portugu&ecirc;s. Uma hist&oacute;ria premiada</a></strong></p>
+
+<p style="line-height: 20.7999992370605px;"><strong><a href="http://www.mst.org.br/2015/05/06/de-tijolo-em-tijolo-sem-terra-construiram-a-primeira-escola-do-campo.html">De tijolo em tijolo, Sem Terra constru&iacute;ram a primeira escola do campo em MT</a></strong></p>
+
+<p style="line-height: 20.7999992370605px;"><strong><a href="http://www.mst.org.br/2015/03/23/o-educando-de-ontem-e-o-professor-de-hoje.html">No Assentamento Palmares 2, o educando de ontem &eacute; o professor de hoje</a></strong></p>
 
 <p><br />
 &ldquo;Ver ao fim de tudo um gin&aacute;sio lotado com homens e mulheres recebendo seu certificado &eacute; algo extremamente gratificante. Com todos os limites colocados pela burocracia para garantir o andamento do programa, conseguimos algo nunca visto por aqui&rdquo;, ressalta Vera.</p>
