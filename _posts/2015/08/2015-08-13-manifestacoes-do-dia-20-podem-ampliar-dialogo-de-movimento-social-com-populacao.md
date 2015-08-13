@@ -38,8 +38,6 @@ Da RBA</em></p>
 <p><br />
 Ao contr&aacute;rio de manifesta&ccedil;&otilde;es contra o governo Dilma Rousseff, como a que ocorreu em 15 de mar&ccedil;o e a que ser&aacute; realizada no pr&oacute;ximo domingo (16), com forte apoio da m&iacute;dia, atos pol&iacute;ticos da sociedade civil est&atilde;o longe de ter destaque nos meios de comunica&ccedil;&atilde;o. Para militantes e ativistas, se o &oacute;dio ao PT e o clima de impeachment artificialmente criado a partir da crise decorrem tamb&eacute;m da parcialidade da m&iacute;dia, a mobiliza&ccedil;&atilde;o para o dia 20, em defesa da democracia, podem significar a amplia&ccedil;&atilde;o do di&aacute;logo com a sociedade.</p>
 
-<p>&nbsp;</p>
-
 <p><br />
 &ldquo;O dia 20 vai significar para a gente, n&atilde;o um divisor de &aacute;guas, mas talvez a amplia&ccedil;&atilde;o de um di&aacute;logo melhor com a popula&ccedil;&atilde;o, que ainda est&aacute; bastante perdida, confusa, por ter a vers&atilde;o s&oacute; de um lado, e muitas vezes de forma distorcida&rdquo;, avalia Rosina Concei&ccedil;&atilde;o, da Uni&atilde;o Brasileira de Mulheres (UBM). &ldquo;Acho que temos uma m&iacute;dia hoje que est&aacute; jogando um papel muito ruim no sentido de di&aacute;logo com a sociedade.&rdquo;</p>
 
