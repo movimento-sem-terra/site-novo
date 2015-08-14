@@ -7,18 +7,12 @@ tags:
 title: "\"O legado de Florestan está na sua inesgotável defesa de uma causa justa e socialista\", afirma Pizetta"
 label: interviews
 section: null
-images_hd: "http://farm1.staticflickr.com/643/20358683070_2c610d7d59_b.jpg"
+images_hd: "http://farm1.staticflickr.com/736/20567779885_43840e01a2_b.jpg"
 menu: "educação, cultura e comunicação"
 sector: education
 support_line: "Em entrevista, Adelar Pizetta fala sobre o legado e a atualidade do pensamento de Florestan Fernandes, após 20 anos de seu falecimento."
 layout: post
 files:
-  - link: "http://farm1.staticflickr.com/643/20358683070_2c610d7d59_b.jpg"
-    thumbnail: "http://farm1.staticflickr.com/643/20358683070_2c610d7d59_t.jpg"
-    medium: "http://farm1.staticflickr.com/643/20358683070_2c610d7d59_z.jpg"
-    small: "http://farm1.staticflickr.com/643/20358683070_2c610d7d59_n.jpg"
-    title: florestan.jpg
-    $$hashKey: 091
   - link: "http://farm6.staticflickr.com/5792/19925868433_22099ac52c_b.jpg"
     thumbnail: "http://farm6.staticflickr.com/5792/19925868433_22099ac52c_t.jpg"
     medium: "http://farm6.staticflickr.com/5792/19925868433_22099ac52c_z.jpg"
@@ -49,6 +43,12 @@ files:
     small: "http://farm1.staticflickr.com/616/20521960996_cd8f432d6e_n.jpg"
     title: "Florestan COM!.jpg"
     $$hashKey: 0HG
+  - link: "http://farm1.staticflickr.com/736/20567779885_43840e01a2_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/736/20567779885_43840e01a2_t.jpg"
+    medium: "http://farm1.staticflickr.com/736/20567779885_43840e01a2_z.jpg"
+    small: "http://farm1.staticflickr.com/736/20567779885_43840e01a2_n.jpg"
+    title: "florestanfer!.jpg"
+    $$hashKey: 05D
 created_date: "2015-08-13T16:12:56-03:00"
 published: true
 releated_posts:
