@@ -53,10 +53,10 @@ Na tarde desta quinta-feira (13), em Bras&iacute;lia, cerca de mil representante
 Denominado de Di&aacute;logo com Movimentos Sociais Brasileiros, o evento foi palco de express&atilde;o das in&uacute;meras pautas do povo brasileiro que cobrou da presidente avan&ccedil;os diante dos retrocessos que atingem diretamente os direitos dos trabalhadores.</p>
 
 <p><br />
-Uma das principais cr&iacute;ticas dos movimentos ao governo petista &eacute; exatamente a onda de retrocesso em curso no Congresso Nacional, que tem afetado os direitos da classe trabalhadora como um todo, que vai desde a reforma pol&iacute;tica ao&nbsp;<span style="color: rgb(85, 85, 85); font-family: 'Exo 2', Helvetica, Arial, sans-serif; font-size: 17.6000003814697px; line-height: 25.1428318023682px;">O governo n&atilde;o deixou ser alvo de s&eacute;rias cr&iacute;ticas por parte das organiza&ccedil;&otilde;es, que ressaltaram os problemas da pol&iacute;tica econ&ocirc;mica adotada pelo governo para enfrentar a crise, a exemplo dos ajustes fiscais.&nbsp;</span>&nbsp;recente proposta aprovada pela casa do Projeto de Lei 2016/15, denominada de Lei antiterror, aprovada ontem no Congresso Nacional e que criminaliza movimentos e organiza&ccedil;&otilde;es populares.</p>
+Uma das principais cr&iacute;ticas dos movimentos ao governo petista &eacute; exatamente a onda de retrocesso em curso no Congresso Nacional, que tem afetado os direitos da classe trabalhadora como um todo, que vai desde a reforma pol&iacute;tica ao&nbsp;Projeto de Lei 2016/15, denominada de Lei antiterror, aprovada ontem no Congresso Nacional, que criminaliza movimentos e organiza&ccedil;&otilde;es populares.</p>
 
 <p><br />
-O governo n&atilde;o deixou ser alvo de s&eacute;rias cr&iacute;ticas por parte das organiza&ccedil;&otilde;es, que ressaltaram os problemas da pol&iacute;tica econ&ocirc;mica adotada pelo governo para enfrentar a crise, a exemplo dos ajustes fiscais.&nbsp;</p>
+O governo federal n&atilde;o deixou ser alvo de s&eacute;rias cr&iacute;ticas por parte das organiza&ccedil;&otilde;es, que ressaltaram os problemas da pol&iacute;tica econ&ocirc;mica por ele adotado&nbsp;para enfrentar a crise, a exemplo dos ajustes fiscais.&nbsp;</p>
 
 <p><br />
 Alexandre Concei&ccedil;&atilde;o, da coordena&ccedil;&atilde;o nacional do MST, embora tenha afirmado a necessidade de defesa da democracia brasileira, criticou o governo por seu projeto em curso, que &eacute; contradit&oacute;rio &agrave; pauta que o elegeu nas &uacute;ltimas elei&ccedil;&otilde;es e pediu &agrave; presidenta para vetar o PL 2016/15.</p>
@@ -76,8 +76,10 @@ O segundo semestre iniciou com grandes mobiliza&ccedil;&otilde;es da classe trab
 Nas cidades, os movimentos de moradias tamb&eacute;m j&aacute; realizaram diversos protestos, e ao longo desta semana, mais de 50 mil mulheres do campo estiveram mobilizadas na capital federal. No pr&oacute;ximo dia 20/09, mais uma mobiliza&ccedil;&atilde;o unit&aacute;ria entre diversas organiza&ccedil;&otilde;es j&aacute; est&aacute; marcada.</p>
 
 <p><br />
-A pauta central destas mobiliza&ccedil;&otilde;es? O ajuste fiscal do governo federal promovido pelo Minist&eacute;rio da Fazenda.&nbsp;<br />
-Neste sentido que Guilherme Boulos, do MTST, criticou a pol&iacute;tica de ajustes e afirmou que o governo deve realizar ajustes em cima do capital financeiro, e n&atilde;o do povo brasileiro.&nbsp;</p>
+A pauta central destas mobiliza&ccedil;&otilde;es? O ajuste fiscal do governo federal promovido pelo Minist&eacute;rio da Fazenda.&nbsp;</p>
+
+<p><br />
+Neste sentido que Guilherme Boulos, do MTST, criticou tal pol&iacute;tica e afirmou que o governo deve realizar ajustes em cima do capital financeiro, e n&atilde;o do povo brasileiro.&nbsp;</p>
 
 <p><br />
 &quot;O ajuste deve ser com a taxa&ccedil;&atilde;o dos grandes bancos, no cinto daqueles que h&aacute; 500 anos enchem o bolso e engordam nas costas da classe trabalhadora. A sa&iacute;da para a solu&ccedil;&atilde;o dos problemas n&atilde;o &eacute; com o Cunha e o Renan&quot;, ressaltou.</p>
@@ -110,4 +112,4 @@ Sem responder &agrave;s provoca&ccedil;&otilde;es mais incisivas dos movimentos 
 Sobre a Lei Antiterror, a presidenta n&atilde;o se comprometeu com o veto, por&eacute;m lembrou do per&iacute;odo em que foi militante no per&iacute;odo da ditadura militar e sinalizou: &quot;n&atilde;o pe&ccedil;am a mim para ser contr&aacute;ria a qualquer manifesta&ccedil;&atilde;o que eu n&atilde;o serei. Eu sou leal &agrave; minha gera&ccedil;&atilde;o e tenho que honrar todo aqueles que n&atilde;o sobreviveram&quot;.</p>
 
 <p><br />
-Com esse leque aberto, o di&aacute;logo entre governo e movimentos sociais refor&ccedil;a ainda mais a necessidade da classe trabalhadora ir &agrave;s ruas no dia 20 deste m&ecirc;s de agosto, cujo chamado &eacute; ir &agrave;s ruas contra os ataques aos direitos do povo e em defesa da democracia.</p>
+Para Alexandre Concei&ccedil;&atilde;o, com esse leque aberto, o di&aacute;logo entre governo e movimentos sociais refor&ccedil;a ainda mais a necessidade da classe trabalhadora ir &agrave;s ruas no pr&oacute;ximo dia 20/09&nbsp;, cuja pauta central ser&atilde;o os ataques aos direitos do povo e em defesa da democracia.</p>
