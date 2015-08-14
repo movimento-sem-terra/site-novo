@@ -5,7 +5,7 @@ tags:
   - tag: movimentos-populares
   - tag: ajuste-fiscal
   - tag: direitos-trabalhistas
-title: Em ato com Dilma movimentos sociais cobram avanços para a classe trabalhadora
+title: Em ato com Dilma movimentos cobram avanços para a classe trabalhadora
 menu: projeto popular
 section: cover
 images_hd: "http://farm1.staticflickr.com/712/19944702004_4f52504dcf_b.jpg"
@@ -50,10 +50,10 @@ Da P&aacute;gina do MST</em></p>
 Na tarde desta quinta-feira (13), em Bras&iacute;lia, cerca de mil representantes de mais de 50 movimentos e organiza&ccedil;&otilde;es sociais do campo e da cidade, como MST, Central &Uacute;nica dos Trabalhadores (CUT), Confedera&ccedil;&atilde;o Nacional dos Trabalhadores na Agricultura (Contag), Uni&atilde;o Nacional dos Estudantes (UNE), Movimento dos Trabalhadores Sem Teto (MTST), entre outros, participaram de um ato com a presidenta Dilma Rousseff, no Pal&aacute;cio do Planalto.</p>
 
 <p><br />
-Denominado de Di&aacute;logo com Movimentos Sociais Brasileiros, o evento foi palco de express&atilde;o das in&uacute;meras pautas da classe trabalhadora que cobrou da presidente avan&ccedil;os diante dos retrocessos que atingem diretamente os direitos dos trabalhadores.</p>
+Denominado de Di&aacute;logo com Movimentos Sociais Brasileiros, o evento foi palco de express&atilde;o das in&uacute;meras pautas do povo brasileiro que cobrou da presidente avan&ccedil;os diante dos retrocessos que atingem diretamente os direitos dos trabalhadores.</p>
 
 <p><br />
-Uma das principais cr&iacute;ticas dos movimentos ao governo petista &eacute; exatamente a onda de retrocesso em curso no Congresso Nacional, que tem afetado os direitos da classe trabalhadora como um todo, que vai desde a reforma pol&iacute;tica a recente proposta aprovada pela casa do Projeto de Lei 2016/15, denominada de Lei antiterror, aprovada ontem no Congresso Nacional e que criminaliza movimentos e organiza&ccedil;&otilde;es populares.</p>
+Uma das principais cr&iacute;ticas dos movimentos ao governo petista &eacute; exatamente a onda de retrocesso em curso no Congresso Nacional, que tem afetado os direitos da classe trabalhadora como um todo, que vai desde a reforma pol&iacute;tica ao&nbsp;<span style="color: rgb(85, 85, 85); font-family: 'Exo 2', Helvetica, Arial, sans-serif; font-size: 17.6000003814697px; line-height: 25.1428318023682px;">O governo n&atilde;o deixou ser alvo de s&eacute;rias cr&iacute;ticas por parte das organiza&ccedil;&otilde;es, que ressaltaram os problemas da pol&iacute;tica econ&ocirc;mica adotada pelo governo para enfrentar a crise, a exemplo dos ajustes fiscais.&nbsp;</span>&nbsp;recente proposta aprovada pela casa do Projeto de Lei 2016/15, denominada de Lei antiterror, aprovada ontem no Congresso Nacional e que criminaliza movimentos e organiza&ccedil;&otilde;es populares.</p>
 
 <p><br />
 O governo n&atilde;o deixou ser alvo de s&eacute;rias cr&iacute;ticas por parte das organiza&ccedil;&otilde;es, que ressaltaram os problemas da pol&iacute;tica econ&ocirc;mica adotada pelo governo para enfrentar a crise, a exemplo dos ajustes fiscais.&nbsp;</p>
