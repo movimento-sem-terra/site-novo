@@ -15,6 +15,18 @@ files:
     small: "http://farm1.staticflickr.com/629/20380272718_8dd9b872e6_n.jpg"
     title: curso_comunicação.jpg
     $$hashKey: 085
+  - link: "http://farm1.staticflickr.com/632/20381735289_337b23b096_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/632/20381735289_337b23b096_t.jpg"
+    medium: "http://farm1.staticflickr.com/632/20381735289_337b23b096_z.jpg"
+    small: "http://farm1.staticflickr.com/632/20381735289_337b23b096_n.jpg"
+    title: curso_comunicação2.jpg
+    $$hashKey: 0FQ
+  - link: "http://farm6.staticflickr.com/5728/20542196106_45d695d80c_b.jpg"
+    thumbnail: "http://farm6.staticflickr.com/5728/20542196106_45d695d80c_t.jpg"
+    medium: "http://farm6.staticflickr.com/5728/20542196106_45d695d80c_z.jpg"
+    small: "http://farm6.staticflickr.com/5728/20542196106_45d695d80c_n.jpg"
+    title: curso_comunicação3.jpg
+    $$hashKey: 0FT
 created_date: "2015-08-14T10:46:11-03:00"
 published: true
 releated_posts:
@@ -42,8 +54,13 @@ Esta edi&ccedil;&atilde;o tamb&eacute;m ter&aacute; peso na apresenta&ccedil;&at
 <p><br />
 <a href="http://comunicacaopopularpr.redelivre.org.br/programacao/" target="_blank">Confira aqui a programa&ccedil;&atilde;o</a></p>
 
-<p><br />
-Esta &eacute; a terceira edi&ccedil;&atilde;o do Curso de Comunica&ccedil;&atilde;o Popular do Paran&aacute;, que teve in&iacute;cio em maio de 2012 e prosseguiu em novembro de 2013. Os eventos anteriores tamb&eacute;m foram marcados pela diversidade de p&uacute;blico, pela rica qualidade de debates e trocas de experi&ecirc;ncias.</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="curso_comunicação3.jpg" src="http://farm6.staticflickr.com/5728/20542196106_45d695d80c_b.jpg" />
+<figcaption></figcaption>
+</figure>
+
+<p>Esta &eacute; a terceira edi&ccedil;&atilde;o do Curso de Comunica&ccedil;&atilde;o Popular do Paran&aacute;, que teve in&iacute;cio em maio de 2012 e prosseguiu em novembro de 2013. Os eventos anteriores tamb&eacute;m foram marcados pela diversidade de p&uacute;blico, pela rica qualidade de debates e trocas de experi&ecirc;ncias.</p>
 
 <p><br />
 Em tempos de retrocessos de direitos, de avan&ccedil;o de pautas conservadoras e de criminaliza&ccedil;&atilde;o das organiza&ccedil;&otilde;es sindicais e dos movimentos sociais, se amplia a necessidade de expandir a constru&ccedil;&atilde;o da comunica&ccedil;&atilde;o popular. Como forma de a&ccedil;&atilde;o pol&iacute;tica e ferramenta para o debate de ideias, a pr&aacute;tica da comunica&ccedil;&atilde;o popular &eacute; essencial para furar a barreira da m&iacute;dia hegem&ocirc;nica, das grandes empresas de comunica&ccedil;&atilde;o, e garantir a diversifica&ccedil;&atilde;o de narrativas e fortalecimento da participa&ccedil;&atilde;o popular.</p>
@@ -61,7 +78,13 @@ Pelo seu conpromisso e entusiasmo na luta comunica&ccedil;&atilde;o popular e pe
 A troca oficial do nome do evento ser&aacute; realizada durante a manh&atilde; do dia 14, onde homenagens ser&atilde;o prestadas.</p>
 
 <p><br />
-<strong>Atividades Culturais</strong></p>
+&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="curso_comunicação2.jpg" src="http://farm1.staticflickr.com/632/20381735289_337b23b096_b.jpg" />
+<figcaption></figcaption>
+</figure>
+
+<p><strong>Atividades Culturais</strong></p>
 
 <p><br />
 A arte e a cultura popular ser&atilde;o elementos destaques durante o 3&ordm; Curso de Comunica&ccedil;&atilde;o Popular do Paran&aacute;. M&uacute;sica, imagens e poesia aliadas &agrave; luta social embalar&atilde;o os dias e noites do evento.</p>
