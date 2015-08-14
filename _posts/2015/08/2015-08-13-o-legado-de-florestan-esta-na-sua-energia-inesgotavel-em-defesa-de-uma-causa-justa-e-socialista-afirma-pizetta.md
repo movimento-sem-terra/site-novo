@@ -6,7 +6,7 @@ tags:
   - tag: enff
 title: "\"O legado de Florestan está na sua inesgotável defesa de uma causa justa e socialista\", afirma Pizetta"
 label: interviews
-section: cover
+section: null
 images_hd: "http://farm1.staticflickr.com/643/20358683070_2c610d7d59_b.jpg"
 menu: "educação, cultura e comunicação"
 sector: education
