@@ -24,12 +24,6 @@ files:
     small: "http://farm1.staticflickr.com/574/20647897342_7f30f400f2_n.jpg"
     title: IMG-20150816-WA0081.jpg
     $$hashKey: "057"
-  - link: "http://farm6.staticflickr.com/5622/20663776491_6ef0af9bda_b.jpg"
-    thumbnail: "http://farm6.staticflickr.com/5622/20663776491_6ef0af9bda_t.jpg"
-    medium: "http://farm6.staticflickr.com/5622/20663776491_6ef0af9bda_z.jpg"
-    small: "http://farm6.staticflickr.com/5622/20663776491_6ef0af9bda_n.jpg"
-    title: IMG-20150816-WA0096.jpg
-    $$hashKey: 05A
   - link: "http://farm1.staticflickr.com/605/20470427949_b9cac64980_b.jpg"
     thumbnail: "http://farm1.staticflickr.com/605/20470427949_b9cac64980_t.jpg"
     medium: "http://farm1.staticflickr.com/605/20470427949_b9cac64980_z.jpg"
