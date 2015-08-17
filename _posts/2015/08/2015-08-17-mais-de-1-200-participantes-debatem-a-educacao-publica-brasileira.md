@@ -38,6 +38,49 @@ Cada vez mais submetida a uma l&oacute;gica mercantilizada por grandes grupos fi
 <p><br />
 Abaixo, confira diversas entrevistas, artigos e reportagens que trazem o debate da conjuntura educacional, experi&ecirc;ncias de educa&ccedil;&atilde;o do campo e os principais desafios que se tem pela frente.</p>
 
+<p style="box-sizing: inherit; margin: 0px 0px 11px; font-size: 1.1em; color: rgb(85, 85, 85); font-family: 'Exo 2', Helvetica, Arial, sans-serif; line-height: 20.7999992370605px;">&nbsp;</p>
+
+<p style="box-sizing: inherit; margin: 0px 0px 11px; font-size: 1.1em; color: rgb(85, 85, 85); font-family: 'Exo 2', Helvetica, Arial, sans-serif; line-height: 20.7999992370605px;"><br />
+<strong style="box-sizing: inherit;">Entrevistas:</strong></p>
+
+<p style="box-sizing: inherit; margin: 0px 0px 11px; font-size: 1.1em; color: rgb(85, 85, 85); font-family: 'Exo 2', Helvetica, Arial, sans-serif; line-height: 20.7999992370605px;"><strong style="box-sizing: inherit;"><a href="http://www.mst.org.br/2015/07/15/enera-tem-o-desafio-de-criar-um-novo-espaco-de-articulacao-entre-os-trabalhadores-da-educacao.html" style="box-sizing: inherit; color: rgb(0, 100, 0); text-decoration: none;">Enera tem o desafio de criar um novo espa&ccedil;o de articula&ccedil;&atilde;o entre os trabalhadores da educa&ccedil;&atilde;o</a></strong></p>
+
+<p style="box-sizing: inherit; margin: 0px 0px 11px; font-size: 1.1em; color: rgb(85, 85, 85); font-family: 'Exo 2', Helvetica, Arial, sans-serif; line-height: 20.7999992370605px;"><strong style="box-sizing: inherit;"><a href="http://www.mst.org.br/2015/07/01/grandes-grupos-economicos-estao-ditando-a-formacao-de-criancas-e-jovens-brasileiros.html" style="box-sizing: inherit; color: rgb(0, 100, 0); text-decoration: none;">&ldquo;Grandes grupos econ&ocirc;micos est&atilde;o ditando a forma&ccedil;&atilde;o de crian&ccedil;as e jovens brasileiros&rdquo;</a></strong></p>
+
+<p><strong><a href="http://www.mst.org.br/2014/11/14/partido-do-agronegocio-invade-escolas-brasileiras.html">&quot;Partido do agroneg&oacute;cio&quot; invade escolas brasileiras</a></strong></p>
+
+<p>&nbsp;</p>
+
+<p><br />
+<strong>Reportagens Especiais:</strong></p>
+
+<p><strong><a href="http://www.mst.org.br/2015/08/17/de-cuba-para-o-brasil-as-licoes-que-ultrapassam-fronteiras.html" target="_blank">De Cuba para o Brasil, as li&ccedil;&otilde;es que ultrapassam fronteiras</a></strong></p>
+
+<p><strong><a href="http://www.mst.org.br/2015/05/18/reforma-agraria-em-bom-portugues-uma-historia-premiada.html">Reforma agr&aacute;ria em bom portugu&ecirc;s. Uma hist&oacute;ria premiada</a></strong></p>
+
+<p><strong><a href="http://www.mst.org.br/2015/05/06/de-tijolo-em-tijolo-sem-terra-construiram-a-primeira-escola-do-campo.html">De tijolo em tijolo, Sem Terra constru&iacute;ram a primeira escola do campo em MT</a></strong></p>
+
+<p><strong><a href="http://www.mst.org.br/2015/03/23/o-educando-de-ontem-e-o-professor-de-hoje.html">No Assentamento Palmares 2, o educando de ontem &eacute; o professor de hoje</a></strong></p>
+
+<p><br />
+<strong>Leia mais:</strong></p>
+
+<p><strong><a href="http://www.mst.org.br/2015/05/20/educacao-no-campo-a-estrategia-dos-usurpadores.html">Educa&ccedil;&atilde;o no campo: a estrat&eacute;gia dos usurpadores</a></strong></p>
+
+<p><strong><a href="http://www.mst.org.br/2015/07/20/educadores-de-todo-mundo-denunciam-a-unesco-a-mercantilizacao-da-educacao.html">Educadores de todo mundo denunciam &agrave; UNESCO a mercantiliza&ccedil;&atilde;o da educa&ccedil;&atilde;o</a></strong></p>
+
+<p><strong><a href="http://www.mst.org.br/2014/12/08/mp-se-posiciona-contra-programa-que-ensina-criancas-a-usar-agrotoxicos.html">MP se posiciona contra programa que ensina crian&ccedil;as a usar agrot&oacute;xicos</a></strong></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
 <p>&nbsp;</p>
 
 <p>&nbsp;</p>
