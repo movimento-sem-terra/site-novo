@@ -21,19 +21,3 @@ published: true
 releated_posts: []
 
 ---
-<p><img alt="ENERA_SITE.jpg" src="http://farm1.staticflickr.com/579/20473282849_e867bb9e1d_b.jpg" /></p>
-
-<p><br />
-<em>Da P&aacute;gina do MST</em></p>
-
-<p><br />
-Entre os dias 21 e 25 de setembro, acontece o 2&deg; Encontro Nacional de Educadoras e Educadores da Reforma Agr&aacute;ria (Enera), em Luzi&acirc;nia (GO).</p>
-
-<p><br />
-Durante os cinco dias, cerca de 1.200 participantes de todas as partes do Brasil, a maioria educadores do campo, se re&uacute;nem para debater o atual momento da educa&ccedil;&atilde;o p&uacute;blica brasileira.</p>
-
-<p><br />
-Cada vez mais submetida a uma l&oacute;gica mercantilizada por grandes grupos financeiros, o 2&deg; Enera ter&aacute;, como um de seus desafios, o papel de propor a constru&ccedil;&atilde;o de um novo espa&ccedil;o de articula&ccedil;&atilde;o entre os trabalhadores da educa&ccedil;&atilde;o e a sociedade.</p>
-
-<p><br />
-Abaixo, confira diversas entrevistas, artigos e reportagens que trazem o debate da conjuntura educacional, experi&ecirc;ncias de educa&ccedil;&atilde;o do campo e os principais desafios que se tem pela frente.</p>
