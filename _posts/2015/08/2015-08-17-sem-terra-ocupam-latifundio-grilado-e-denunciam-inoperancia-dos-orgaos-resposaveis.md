@@ -5,7 +5,7 @@ tags:
   - tag: ocupação
   - tag: grilagem
   - tag: maranhão
-title: Sem Terra ocupam latifúndio grilado e denunciam inoperância dos órgãos resposáveis
+title: "No MA, Sem Terra ocupam latifúndio e denunciam inoperância dos órgãos resposáveis"
 images_hd: "http://farm1.staticflickr.com/751/20659360105_84ba4bb33b_b.jpg"
 support_line: "Cerca de 150 famílias ocuparam a Fazenda São Francisco, no Município de Amarante (MA). A área reivindicada pode chegar a 10 mil hectares."
 menu: reforma agrária
