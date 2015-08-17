@@ -112,4 +112,4 @@ Sem responder &agrave;s provoca&ccedil;&otilde;es mais incisivas dos movimentos 
 Sobre a Lei Antiterror, a presidenta n&atilde;o se comprometeu com o veto, por&eacute;m lembrou do per&iacute;odo em que foi militante no per&iacute;odo da ditadura militar e sinalizou: &quot;n&atilde;o pe&ccedil;am a mim para ser contr&aacute;ria a qualquer manifesta&ccedil;&atilde;o que eu n&atilde;o serei. Eu sou leal &agrave; minha gera&ccedil;&atilde;o e tenho que honrar todo aqueles que n&atilde;o sobreviveram&quot;.</p>
 
 <p><br />
-Para Alexandre Concei&ccedil;&atilde;o, com esse leque aberto, o di&aacute;logo entre governo e movimentos sociais refor&ccedil;a ainda mais a necessidade da classe trabalhadora ir &agrave;s ruas no pr&oacute;ximo dia 20/09&nbsp;, cuja pauta central ser&atilde;o os ataques aos direitos do povo e em defesa da democracia.</p>
+Para Alexandre Concei&ccedil;&atilde;o, com esse leque aberto, o di&aacute;logo entre governo e movimentos sociais refor&ccedil;a ainda mais a necessidade da classe trabalhadora ir &agrave;s ruas no pr&oacute;ximo dia 20/08&nbsp;, cuja pauta central ser&atilde;o os ataques aos direitos do povo e em defesa da democracia.</p>
