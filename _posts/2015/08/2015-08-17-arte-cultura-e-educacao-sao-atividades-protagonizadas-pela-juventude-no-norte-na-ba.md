@@ -7,7 +7,7 @@ tags:
   - tag: arte
   - tag: cultura
 title: Arte e cultura são temas de atividade protagonizada pela juventude no norte na BA
-support_line: "Encontro reuniu mais de 100 jovens Sem Terra do que debateram o processo de formação política e identitária do camponês. \n"
+support_line: "Encontro reuniu mais de 100 jovens Sem Terra que debateram o processo de formação política e identitária do camponês. \n"
 menu: "educação, cultura e comunicação"
 images_hd: "http://farm6.staticflickr.com/5643/20469084768_2a9b4040cf_b.jpg"
 layout: post
