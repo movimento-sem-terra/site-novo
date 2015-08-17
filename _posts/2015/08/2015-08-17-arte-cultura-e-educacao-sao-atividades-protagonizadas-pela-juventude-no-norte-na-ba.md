@@ -30,6 +30,12 @@ files:
     small: "http://farm6.staticflickr.com/5622/20663776491_6ef0af9bda_n.jpg"
     title: IMG-20150816-WA0096.jpg
     $$hashKey: 05A
+  - link: "http://farm1.staticflickr.com/605/20470427949_b9cac64980_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/605/20470427949_b9cac64980_t.jpg"
+    medium: "http://farm1.staticflickr.com/605/20470427949_b9cac64980_z.jpg"
+    small: "http://farm1.staticflickr.com/605/20470427949_b9cac64980_n.jpg"
+    title: IMG-20150816-WA0038.jpg
+    $$hashKey: 0BY
 created_date: "2015-08-17T12:08:26-03:00"
 published: true
 releated_posts:
@@ -65,6 +71,12 @@ Para o acampado, Pedro Lucas, &quot;as atividades realizadas est&atilde;o contri
 
 <p><br />
 Os produtos ser&atilde;o expostos e vendidos na segunda quinzena de setembro durante a Feira Regional da Reforma Agr&aacute;ria que ser&aacute; realizada em Juazeiro. &nbsp;</p>
+
+<p>&nbsp;</p>
+
+<figure class="image"><img alt="IMG-20150816-WA0038.jpg" height="525" src="http://farm1.staticflickr.com/605/20470427949_b9cac64980_b.jpg" width="700" />
+<figcaption>Objetos confeccionados pelos jovens Sem Terra</figcaption>
+</figure>
 
 <p>&nbsp;</p>
 
