@@ -7,7 +7,7 @@ tags:
   - tag: arte
   - tag: cultura
 title: "Arte, cultura e educação são atividades protagonizadas pela juventude no norte na BA"
-support_line: "Atividades reuniu mais de 100 jovens Sem Terra "
+support_line: "Atividades reuniu mais de 100 jovens Sem Terra do estado. "
 menu: "educação, cultura e comunicação"
 images_hd: "http://farm6.staticflickr.com/5643/20469084768_2a9b4040cf_b.jpg"
 layout: post
