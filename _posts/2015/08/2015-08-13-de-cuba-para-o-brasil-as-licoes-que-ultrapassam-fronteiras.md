@@ -53,7 +53,7 @@ label: special-stories
 <p><img alt="seu sebastião.jpg" src="http://farm1.staticflickr.com/766/20354910089_e1c5ec9a2e_b.jpg" /></p>
 
 <p><br />
-<em>Em prepara&ccedil;&atilde;o ao 2&deg; Encontro Nacional dos&nbsp;Educadores e Educadoras da Reforma Agr&aacute;ria (ENERA), que acontecer&aacute; entre os dias 21 a 25/09, em Luzi&acirc;nia (GO), a P&aacute;gina do MST traz uma s&eacute;rie de entrevistas, reportagens e artigos sobre experi&ecirc;ncias da Educa&ccedil;&atilde;o do Campo, o atual cen&aacute;rio educacional do pa&iacute;s e os desafios que se anunciam sobre este debate.</em>&nbsp;</p>
+<em>Em prepara&ccedil;&atilde;o ao <a href="http://www.mst.org.br/2015/08/17/mais-de-1-200-participantes-debatem-a-educacao-publica-brasileira.html" target="_blank">2&deg; Encontro Nacional dos&nbsp;Educadores e Educadoras da Reforma Agr&aacute;ria (ENERA)</a>, que acontecer&aacute; entre os dias 21 a 25/09, em Luzi&acirc;nia (GO), a P&aacute;gina do MST traz uma s&eacute;rie de entrevistas, reportagens e artigos sobre experi&ecirc;ncias da Educa&ccedil;&atilde;o do Campo, o atual cen&aacute;rio educacional do pa&iacute;s e os desafios que se anunciam sobre este debate.</em>&nbsp;</p>
 
 <p><br />
 <em>Por Gustavo Marinho<br />
