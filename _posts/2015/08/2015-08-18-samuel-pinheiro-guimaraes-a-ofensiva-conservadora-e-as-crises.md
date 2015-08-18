@@ -18,7 +18,7 @@ files:
     title: samuelpinheiro_2.jpg
     $$hashKey: 0DM
 created_date: "2015-08-18T12:04:54-03:00"
-published: false
+published: true
 releated_posts:
   - 2015/08/2015-08-12-a-politica-economica-atual-nao-resultara-na-retomada-do-crescimento-diz-marcio-pochmann.md
   - 2014/12/2014-11-19-o-capital-esta-indo-muito-bem-mas-povo-esta-mal-diz-david-harvey.md
