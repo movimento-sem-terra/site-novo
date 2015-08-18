@@ -41,24 +41,24 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p>Cerca de 100 estudantes ocuparam hoje a superintend&ecirc;ncia do Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (INCRA) em Bel&eacute;m, no Par&aacute;, em protesto contra o atraso de libera&ccedil;&atilde;o de recursos para manuten&ccedil;&atilde;o das aulas. &nbsp;</p>
+<p>Cerca de 100 estudantes ocuparam hoje a superintend&ecirc;ncia do Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (INCRA) em Bel&eacute;m, no Par&aacute;, em protesto contra o atraso na&nbsp;libera&ccedil;&atilde;o de recursos para manuten&ccedil;&atilde;o das aulas. &nbsp;</p>
 
 <p><br />
-Os alunos fazem parte do Programa Nacional de Educa&ccedil;&atilde;o na Reforma Agr&aacute;ria (Pronera), s&atilde;o estudantes do curso de Licenciatura e Bacharelado em Geografia com &Ecirc;nfase em Desenvolvimento Territorial Rural ministrado na Universidade Federal do Par&aacute; (UFPA).</p>
+Os alunos fazem parte do Programa Nacional de Educa&ccedil;&atilde;o na Reforma Agr&aacute;ria (Pronera) e&nbsp;s&atilde;o estudantes do curso de Licenciatura e Bacharelado em Geografia com &Ecirc;nfase em Desenvolvimento Territorial Rural ministrado na Universidade Federal do Par&aacute; (UFPA).</p>
 
 <p><br />
-Segundo Jana Silva da dire&ccedil;&atilde;o estadual do MST e coordenadora do curso, muitos alunos j&aacute; est&atilde;o abandonando as aulas por falta de condi&ccedil;&otilde;es financeiras.&nbsp;</p>
+Segundo Jane&nbsp;Silva da dire&ccedil;&atilde;o estadual do MST e coordenadora do curso, muitos alunos j&aacute; est&atilde;o abandonando as aulas por falta de condi&ccedil;&otilde;es financeiras.&nbsp;</p>
 
 <p><br />
-&ldquo;As aulas come&ccedil;aram no dia 21 de julho e at&eacute; o momento os recursos n&atilde;o foram repassados, muitos alunos est&atilde;o abandonando o curso porque n&atilde;o tem recursos para se manter em Bel&eacute;m. O nosso maior problema tem sido de dinheiro da bolsa recebida pelo alunos, esse recurso cobre alimenta&ccedil;&atilde;o, moradia, rem&eacute;dios, transporte, apostilas e livros&rdquo;, diz.</p>
+&ldquo;As aulas come&ccedil;aram no dia 21 de julho e at&eacute; o momento os recursos n&atilde;o foram repassados, muitos alunos est&atilde;o abandonando as aulas porque n&atilde;o tem recursos para se manter em Bel&eacute;m. O nosso maior problema tem sido de dinheiro da bolsa recebida pelo alunos, esse recurso cobre alimenta&ccedil;&atilde;o, moradia, rem&eacute;dios, transporte, apostilas e livros&rdquo;, diz.</p>
 
 <p><br />
-Ainda Segundo Jane em reuni&atilde;o com representantes do MST na semana passada, a presidente do Incra, Maria L&uacute;cia Falc&oacute;n, prometeu a imediata libera&ccedil;&atilde;o da verba destinada aos alunos, cerca de setecentos reais que deveriam cobrir tamb&eacute;m os sal&aacute;rios dos professores.&nbsp;</p>
+Ainda Segundo Jane em reuni&atilde;o com representantes do MST na semana passada, a presidente do Incra, Maria L&uacute;cia Falc&oacute;n, prometeu a imediata libera&ccedil;&atilde;o da verba destinada aos alunos, cerca de setecentos mil reais que deveriam cobrir tamb&eacute;m os sal&aacute;rios dos professores.&nbsp;</p>
 
 <p><br />
-&ldquo;A promessa de libera&ccedil;&atilde;o imediata dos recursos aconteceu na semana passada. At&eacute; agora nada foi feito para amenizar a situa&ccedil;&atilde;o dos alunos, por isso, ocupamos o Incra. O nosso objetivo &eacute; fazer com que os nossos alunos n&atilde;o sejam prejudicados&rdquo;.&nbsp;</p>
+&ldquo;A promessa de libera&ccedil;&atilde;o imediata dos recursos aconteceu na semana passada. At&eacute; agora nada foi feito para amenizar a situa&ccedil;&atilde;o dos alunos, por isso, ocupamos o Incra. O nosso objetivo &eacute; fazer com que os nossos alunos n&atilde;o sejam prejudicados&rdquo;, denuncia.&nbsp;</p>
 
 <p><br />
-Os alunos permanecer&atilde;o acampados na superintend&ecirc;ncia regional at&eacute; receberam uma posi&ccedil;&atilde;o sobre os recursos. Atualmente o processo est&aacute; parado na mesa da presidente nacional do Incra, em Bras&iacute;lia.</p>
+Os alunos permanecer&atilde;o acampados na superintend&ecirc;ncia regional at&eacute; obterem uma posi&ccedil;&atilde;o sobre a libera&ccedil;&atilde;o dos recursos.&nbsp;</p>
 
 <p>&nbsp;</p>
