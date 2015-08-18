@@ -6,7 +6,7 @@ tags:
   - tag: economia
 title: "Samuel Pinheiro Guimarães: A ofensiva conservadora e as crises"
 images_hd: "http://farm1.staticflickr.com/583/20682067765_d7c312ebbb_b.jpg"
-support_line: "Pinheiro analisa a ofensiva conservadora que se aproveita de entrelaçadas crises na economia, na política, nas instituições do Estado, na imprensa e nos meios sociais para fazer avançar seus objetivos."
+support_line: "O diplomata brasileiro, Samuel Pinheiro Guimarães, faz uma análise da crise no Brasil, o avanço de setores conservadores e o papel do governo federal; bem como aponta as saídas e desafios das forças"
 menu: projeto popular
 label: articles
 layout: post
@@ -135,4 +135,6 @@ Especial para o Brasil de Fato</span></em></p>
 35.&nbsp;&nbsp; &nbsp;Para defender o Brasil.</p>
 
 <p><br />
-<em>*&nbsp;Samuel Pinheiro Guimar&atilde;es Neto (Rio de Janeiro, 30 de outubro de 1939 ) &eacute; um diplomata brasileiro.&nbsp;Bacharel em Ci&ecirc;ncias Jur&iacute;dicas e Sociais, pela Faculdade Nacional de Direito da Universidade do Brasil (atual UFRJ) em 1963, ingressou no Itamaraty nesse mesmo ano.[1] [2] &Eacute; mestre em economia pela Boston University (1969).</em></p>
+<em>*Diplomata brasileiro, foi secret&aacute;rio-geral das Rela&ccedil;&otilde;es Exteriores do Minist&eacute;rio das Rela&ccedil;&otilde;es Exteriores e ministro-chefe da Secretaria de Assuntos Estrat&eacute;gicos da Presid&ecirc;ncia da Rep&uacute;blica do Governo Lula.</em></p>
+
+<p>&nbsp;</p>
