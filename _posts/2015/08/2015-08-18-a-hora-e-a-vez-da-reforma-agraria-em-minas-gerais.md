@@ -36,7 +36,7 @@ releated_posts:
   - 2015/08/2015-08-03-sem-terra-ocupam-11-ministerios-da-fazenda-em-todo-o-pais.md
   - 2015/08/2015-08-05-apos-luta-dos-sem-terra-governo-se-compromete-em-recompor-orcamento-da-reforma-agraria.md
   - 2015/08/2015-08-12-movimentos-convocam-populacao-as-ruas-em-defesa-dos-direitos-sociais.md
-section: cover
+section: null
 
 ---
 <figure class="image" style="float:right"><img alt="minas!.jpg" src="http://farm1.staticflickr.com/705/20654283796_33207fe5c9_b.jpg" />
