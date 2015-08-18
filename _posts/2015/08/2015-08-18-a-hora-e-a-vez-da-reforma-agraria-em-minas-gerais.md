@@ -47,10 +47,13 @@ section: cover
 <em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
-O MST chega a Belo Horizonte a partir desta ter&ccedil;a-feira (18)&nbsp;para iniciar a Jornada Mineira de Lutas por Reforma Agr&aacute;ria. Os Sem Terra tamb&eacute;m j&aacute; se preparam para se somarem &agrave;s mobiliza&ccedil;&otilde;es do pr&oacute;ximo dia 20/08, quando diversas organiza&ccedil;&otilde;es sair&atilde;o &agrave;s ruas contra pol&iacute;tica econ&ocirc;mica do governo federal e em defesa da democracia.</p>
+O MST chega a Belo Horizonte a partir desta ter&ccedil;a-feira (18)&nbsp;para iniciar a Jornada Mineira de Lutas por Reforma Agr&aacute;ria.</p>
 
 <p><br />
-A jornada tem como objetivo denunciar a paralisa&ccedil;&atilde;o da Reforma Agr&aacute;ria no pa&iacute;s, a pol&iacute;tica econ&ocirc;mica perversa do governo federal, que coloca em risco a conquista de direitos dos trabalhadores, e cobrar o compromisso do Minist&eacute;rio do Desenvolvimento Agr&aacute;rio (MDA) em assentar todas as 5 mil fam&iacute;lias acampadas do MST no estado.</p>
+Os Sem Terra tamb&eacute;m j&aacute; se preparam para se somarem &agrave;s mobiliza&ccedil;&otilde;es do pr&oacute;ximo dia 20/08, quando diversas organiza&ccedil;&otilde;es sair&atilde;o &agrave;s ruas contra pol&iacute;tica econ&ocirc;mica do governo federal e em defesa da democracia.&nbsp;Em S&atilde;o Paulo, <a href="http://www.mst.org.br/2015/08/18/sem-terra-marcham-por-reforma-agraria-no-interior-de-sao-paulo.html" target="_blank">outras 450 fam&iacute;lias tamb&eacute;m j&aacute; aquecem os tambores numa marcha realizada no interior</a>&nbsp;do estado.</p>
+
+<p><br />
+A jornada mineira tem como objetivo denunciar a paralisa&ccedil;&atilde;o da Reforma Agr&aacute;ria no pa&iacute;s, a pol&iacute;tica econ&ocirc;mica perversa do governo federal, que coloca em risco a conquista de direitos dos trabalhadores, e cobrar o compromisso do Minist&eacute;rio do Desenvolvimento Agr&aacute;rio (MDA) em assentar todas as 5 mil fam&iacute;lias acampadas do MST no estado.</p>
 
 <p><br />
 O Movimento tr&aacute;s reivindica&ccedil;&otilde;es hist&oacute;ricas que o governo garantiu atender, como a erradica&ccedil;&atilde;o da pobreza no campo, o investimento em infraestrutura e no desenvolvimento dos assentamentos, al&eacute;m de um programa de agroind&uacute;strias, o desenvolvimento de um plano de recupera&ccedil;&atilde;o ambiental para o estado, a abertura de escolas do campo.</p>
