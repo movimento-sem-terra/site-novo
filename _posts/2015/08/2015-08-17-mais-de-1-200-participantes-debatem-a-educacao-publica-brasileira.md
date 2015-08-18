@@ -3,7 +3,7 @@ date: "2015-08-17T14:14:37-03:00"
 tags: []
 section: campaign
 title: Mais de 1.200 participantes debatem a educação pública brasileira
-images_hd: "http://farm1.staticflickr.com/579/20473282849_e867bb9e1d_b.jpg"
+images_hd: "http://farm1.staticflickr.com/674/20498722818_c307072c5b_b.jpg"
 support_line: Enera terá o papel de propor a construção de um novo espaço de articulação entre os trabalhadores da educação e a sociedade.
 sector: education
 target: _self
@@ -16,6 +16,12 @@ files:
     small: "http://farm1.staticflickr.com/579/20473282849_e867bb9e1d_n.jpg"
     title: ENERA_SITE.jpg
     $$hashKey: 09V
+  - link: "http://farm1.staticflickr.com/674/20498722818_c307072c5b_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/674/20498722818_c307072c5b_t.jpg"
+    medium: "http://farm1.staticflickr.com/674/20498722818_c307072c5b_z.jpg"
+    small: "http://farm1.staticflickr.com/674/20498722818_c307072c5b_n.jpg"
+    title: ENERA2.jpg
+    $$hashKey: "034"
 created_date: "2015-08-17T14:20:14-03:00"
 published: true
 releated_posts: []
