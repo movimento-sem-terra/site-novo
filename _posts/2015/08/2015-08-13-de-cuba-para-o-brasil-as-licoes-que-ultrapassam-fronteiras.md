@@ -47,7 +47,7 @@ releated_posts:
   - 2015/07/2015-07-06-sem-terra-debatem-os-desafios-da-educacao-do-campo-na-bahia.md
 sector: education
 section: featured-news
-label: special-stories
+label: null
 
 ---
 <p><img alt="seu sebastião.jpg" src="http://farm1.staticflickr.com/766/20354910089_e1c5ec9a2e_b.jpg" /></p>
