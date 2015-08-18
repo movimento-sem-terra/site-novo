@@ -46,7 +46,7 @@ releated_posts:
   - 2015/07/2015-07-01-grandes-grupos-economicos-estao-ditando-a-formacao-de-criancas-e-jovens-brasileiros.md
   - 2015/07/2015-07-06-sem-terra-debatem-os-desafios-da-educacao-do-campo-na-bahia.md
 sector: education
-section: cover
+section: featured-news
 label: special-stories
 
 ---
