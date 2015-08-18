@@ -40,7 +40,7 @@ section: cover
 
 ---
 <figure class="image" style="float:right"><img alt="minas!.jpg" src="http://farm1.staticflickr.com/705/20654283796_33207fe5c9_b.jpg" />
-<figcaption>Legenda</figcaption>
+<figcaption></figcaption>
 </figure>
 
 <p><br />
