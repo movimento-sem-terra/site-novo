@@ -26,7 +26,8 @@ releated_posts:
 ---
 <p><img alt="samuelpinheiro_2.jpg" src="http://farm1.staticflickr.com/583/20682067765_d7c312ebbb_b.jpg" /><br />
 <br style="line-height: 20.7999992370605px;" />
-<em><span style="line-height: 20.7999992370605px;">Por&nbsp;Samuel Pinheiro Guimar&atilde;es*</span></em></p>
+<em><span style="line-height: 20.7999992370605px;">Por&nbsp;Samuel Pinheiro Guimar&atilde;es*<br />
+Especial para o Brasil de Fato</span></em></p>
 
 <p><br />
 1.&nbsp;&nbsp; &nbsp;A sociedade brasileira est&aacute; diante de uma ofensiva conservadora que se aproveita de entrela&ccedil;adas crises na economia, na pol&iacute;tica, nas institui&ccedil;&otilde;es do Estado, na imprensa e nos meios sociais para fazer avan&ccedil;ar seus objetivos.&nbsp;</p>
