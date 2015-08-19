@@ -5,7 +5,7 @@ tags:
   - tag: agroecologia
   - tag: agrotóxicos
   - tag: alimentação
-title: Comida ou veneno? Produção orgânica se viabiliza como garantia de segurança alimentar
+title: Comida ou veneno? Produção orgânica se viabiliza como garantia de soberania alimentar
 support_line: "Ainda modesta no país, atividade agrícola sem agrotóxicos cresce 35% ao ano e se viabiliza também modelo de negócio – solidário, sustentável e lucrativo"
 menu: agricultura camponesa
 images_hd: "http://farm6.staticflickr.com/5636/20661201176_cfdbb49b55_b.jpg"
@@ -71,8 +71,7 @@ Esses produtores desafiam uma realidade assombrosa: o agroneg&oacute;cio brasile
 <p>&nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="vilmar_foto_Eduardo_Tavares.jpg" src="http://farm6.staticflickr.com/5700/20499483980_e50fa06299_b.jpg" />
-<figcaption>&ldquo;Pai&rdquo; Vilmar tem uma fam&iacute;lia de sementes nativas/ Foto: Eduardo Tavares<br />
-</figcaption>
+<figcaption>&ldquo;Pai&rdquo; Vilmar tem uma fam&iacute;lia de sementes nativas/ Foto: Eduardo Tavares</figcaption>
 </figure>
 
 <p>O agricultor &eacute; obrigado a comprar o pacote semente/agrot&oacute;xico da mesma empresa e n&atilde;o pode ter suas pr&oacute;prias sementes. A legisla&ccedil;&atilde;o brasileira ainda permite a pulveriza&ccedil;&atilde;o a&eacute;rea e a venda de agrot&oacute;xicos j&aacute; proibidos nos Estados Unidos e Uni&atilde;o Europeia, e oferece incentivos fiscais aos fabricantes. Um exemplo do que o controle do mercado por essas empresas &eacute; capaz: a Monsanto, repentinamente, quintuplicou o pre&ccedil;o da semente resistente ao agrot&oacute;xico glifosato, produzido pela empresa. Agricultores ga&uacute;chos que sempre foram favor&aacute;veis &agrave; difus&atilde;o da soja transg&ecirc;nica resistente ao glifosato se revoltaram e foram &agrave; Justi&ccedil;a contra o pagamento desses royalties.</p>
@@ -105,8 +104,7 @@ O agricultor Gilmar Bell&eacute;, formado em Economia, dirigente da Cooperativa 
 As 23 fam&iacute;lias da cooperativa t&ecirc;m bom padr&atilde;o de vida. A de Jos&eacute; Tondello comprova. Seus filhos Jonas, de 23 anos, estudante de Processos Gerenciais, e Neiva, 20 anos, dizem, enquanto colhem moranguinhos, que nem pensam em sair do campo. A mesma opini&atilde;o tem Maiara Marcon, de 24 anos, que largou o curso de Educa&ccedil;&atilde;o F&iacute;sica para ajudar seu pai na produ&ccedil;&atilde;o de mudas e desenvolver um projeto de ecoturismo no s&iacute;tio em Ip&ecirc;.</p>
 
 <figure class="image"><img alt="Maiara_Marcon_foto_Eduardo_Tavares.jpg" src="http://farm1.staticflickr.com/594/20678121022_6a4f7f7b49_b.jpg" />
-<figcaption>Maiara largou curso para ajudar o pai e desenvolver projeto de ecoturismo/ Foto: Eduardo Tavares<br />
-</figcaption>
+<figcaption>Maiara largou curso para ajudar o pai e desenvolver projeto de ecoturismo/ Foto: Eduardo Tavares</figcaption>
 </figure>
 
 <p><br />
@@ -118,8 +116,7 @@ Na Fazenda Cap&atilde;o Alto das Cri&uacute;vas, no munic&iacute;pio Sentinela d
 <p>&nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="airton_foto_Eduardo_Tavares.jpg" src="http://farm6.staticflickr.com/5758/20066396703_94fbb70002_b.jpg" />
-<figcaption>Airton: produ&ccedil;&atilde;o inclui leite, carne su&iacute;na e arroz<br />
-</figcaption>
+<figcaption>Airton: produ&ccedil;&atilde;o inclui leite, carne su&iacute;na e arroz</figcaption>
 </figure>
 
 <p>Sua fazenda promove cursos e est&aacute;gios gratuitos. Um dos alunos, Jo&atilde;o Kranz, &eacute; diretor da agroind&uacute;stria da Cooperativa Ecocitrus, em Montenegro, a 55 quil&ocirc;metros de Porto Alegre. &Eacute; a maior produtora brasileira de suco, polpa e &oacute;leo essencial de laranja e tangerina e exporta quase tudo para a Alemanha. Das 75 fam&iacute;lias associadas, 12 produzem com preparados biodin&acirc;micos que, segundo Kranz, aumentam a produtividade e propiciam excelente rela&ccedil;&atilde;o custo/benef&iacute;cio.</p>
