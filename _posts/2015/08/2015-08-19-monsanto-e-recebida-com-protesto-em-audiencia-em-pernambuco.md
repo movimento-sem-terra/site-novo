@@ -42,8 +42,6 @@ releated_posts:
 <em>Por&nbsp;Talles Reis</em><br />
 <em>Da P&aacute;gina do MST</em></p>
 
-<p>&nbsp;</p>
-
 <p><br />
 Provocada pela tramita&ccedil;&atilde;o de uma lei que pretende proibir o glifosato, princ&iacute;pio ativo do Roundup, a empresa Monsanto participou da reuni&atilde;o da Comiss&atilde;o de Agricultura da Assembleia Legislativa de Pernambuco (ALEP), na &uacute;ltima ter&ccedil;a-feira (18), para apresentar as vantagens de se utilizar os agrot&oacute;xicos, defender os transg&ecirc;nicos e propalar os benef&iacute;cios promovidos pela sua unidade de pesquisa, localizada em Petrolina, sert&atilde;o do estado.</p>
 
