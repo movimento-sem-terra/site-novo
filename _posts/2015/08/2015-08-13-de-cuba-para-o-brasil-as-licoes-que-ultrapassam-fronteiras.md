@@ -7,7 +7,7 @@ tags:
 title: "De Cuba para o Brasil, as lições que ultrapassam fronteiras"
 support_line: "Método cubano de alfabetização “Sim, eu posso!” transforma a realidade do povo cearense no campo e na cidade."
 menu: "educação, cultura e comunicação"
-images_hd: "http://farm1.staticflickr.com/766/20354910089_e1c5ec9a2e_b.jpg"
+images_hd: "http://farm1.staticflickr.com/736/19919109954_9a0623d347_b.jpg"
 layout: post
 files:
   - link: "http://farm1.staticflickr.com/766/20354910089_e1c5ec9a2e_b.jpg"
@@ -46,8 +46,8 @@ releated_posts:
   - 2015/07/2015-07-01-grandes-grupos-economicos-estao-ditando-a-formacao-de-criancas-e-jovens-brasileiros.md
   - 2015/07/2015-07-06-sem-terra-debatem-os-desafios-da-educacao-do-campo-na-bahia.md
 sector: education
-section: featured-news
-label: null
+section: null
+label: special-stories
 
 ---
 <p><img alt="seu sebastião.jpg" src="http://farm1.staticflickr.com/766/20354910089_e1c5ec9a2e_b.jpg" /></p>
