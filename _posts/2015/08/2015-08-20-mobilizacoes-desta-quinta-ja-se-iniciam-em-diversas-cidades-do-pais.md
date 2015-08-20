@@ -63,7 +63,10 @@ Confira as mobiliza&ccedil;&otilde;es:</p>
 
 <p>Na capital paraense, cerca de mil pessoas j&aacute; deram in&iacute;cio ao ato puxado por uma faixa que pede uma Constituinte Exclusiva e Soberana do Sistema Pol&iacute;tico. Os Manifestantes&nbsp;se reuniram no bairro Umarizal antes de sair em caminhada.</p>
 
-<p>&nbsp;</p>
+<p><br />
+<strong>SP</strong></p>
+
+<p>Na cidade de Ribeir&atilde;o Preto, cerca de 400 Sem Terra do MST chegam em marcha na cidade ap&oacute;s tr&ecirc;s dias de caminha. Os Sem Terra sa&iacute;ram na ter&ccedil;a-feira (18) de Serrana. O ato na capital Paulista est&aacute; marcado para as 17h no Largo da Batata, em Pinheiros.</p>
 
 <p><br />
 <strong>BA</strong></p>
