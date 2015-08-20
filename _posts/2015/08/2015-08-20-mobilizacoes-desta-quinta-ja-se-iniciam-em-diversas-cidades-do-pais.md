@@ -4,8 +4,8 @@ tags:
   - tag: lutas-e-mobilizações
   - tag: ajuste-fiscal
   - tag: direitos-trabalhistas
-title: Mobilizações desta quinta já se iniciam em diversas cidades do país
-support_line: "O ato denuncia as atuais políticas de austeridade do governo federal, a “guinada conservadora” comandadas pelo presidente da Câmara dos Deputados, Eduardo Cunha (PMDB-RJ), e afirmar que “a saída da crise é pela esquerda”."
+title: "Por todo Brasil, manifestações criticam política econômica e defendem democracia"
+support_line: "Os atos denunciam as atuais políticas de austeridade do governo federal, a “guinada conservadora” comandadas pelo presidente da Câmara dos Deputados, Eduardo Cunha (PMDB-RJ), e afirmar que “a saída da crise é pela esquerda”."
 menu: lutas e mobilizações
 section: cover
 images_hd: "http://farm1.staticflickr.com/636/20111756464_a942fe9093_b.jpg"
@@ -51,6 +51,24 @@ Os movimentos ainda defendem que a sa&iacute;da da crise &ldquo;dever&aacute; se
 Confira as mobiliza&ccedil;&otilde;es:</p>
 
 <p style="line-height: 20.7999992370605px;"><br />
+<strong>MG</strong></p>
+
+<p style="line-height: 20.7999992370605px;">&ldquo;Que os ricos paguem a conta&rdquo; &eacute; o grito dos cerca de 8 mil manifestantes, segundo estimativa da organiza&ccedil;&atilde;o, que ocupam a Pra&ccedil;a Afonso Arinos, neste momento, em Belo Horizonte. O protesto foi convocado pelos que n&atilde;o concordam com o impeachment da presidenta Dilma Rousseff, mas tamb&eacute;m n&atilde;o est&atilde;o satisfeitos com o governo. Eles pedem mudan&ccedil;as nas medidas econ&ocirc;micas que retiram direitos dos trabalhadores.</p>
+
+<p style="line-height: 20.7999992370605px;"><br />
+<strong>RS</strong></p>
+
+<p style="line-height: 20.7999992370605px;">Ap&oacute;s o ato de lan&ccedil;amento do Movimento em Defesa da Democracia e dos Direitos Sociais, na Par&oacute;quia Pomp&eacute;ia, manifestantes em Porto Alegre seguem em marcha at&eacute; a Esquina Democr&aacute;tica. O local &eacute; conhecido por abrigar protestos populares e fica no cruzamento da Avenida Borges de Medeiros com a Rua da Praia. Em seguida, haver&aacute; um ato p&uacute;blico em defesa da democracia e dos direitos sociais.</p>
+
+<p style="line-height: 20.7999992370605px;"><br />
+<strong>SP</strong></p>
+
+<p style="line-height: 20.7999992370605px;">Na capital paulista, come&ccedil;a a concentra&ccedil;&atilde;o com ao menos 15 mil pessoas para o ato no final desta tarde. Manifestantes se re&uacute;nem no Largo da Batata, regi&atilde;o oeste da cidade. Marcha deve prosseguir at&eacute; o Masp.</p>
+
+<p style="line-height: 20.7999992370605px;"><br />
+Durante a manh&atilde;, na cidade de Ribeir&atilde;o Preto, cerca de 400 Sem Terra do MST chegam em marcha na cidade ap&oacute;s tr&ecirc;s dias de caminha. Os Sem Terra sa&iacute;ram na ter&ccedil;a-feira (18) de Serrana. O ato na capital Paulista est&aacute; marcado para as 17h no Largo da Batata, em Pinheiros.</p>
+
+<p style="line-height: 20.7999992370605px;"><br />
 <strong>BA</strong></p>
 
 <p style="line-height: 20.7999992370605px;">Manifestantes em Salvador caminham pelas ruas do centro da capital baiana. Nas faixas e cartazes, palavras em defesa da democracia, contra a retirada de direitos sociais, al&eacute;m de manifesta&ccedil;&otilde;es contr&aacute;rias ao projeto do senador Jos&eacute; Serra (PSDB) que transfere os lucros do pr&eacute;-sal para multinacionais. Foto: S&iacute;lvio Medina Lopes</p>
@@ -68,14 +86,6 @@ Confira as mobiliza&ccedil;&otilde;es:</p>
 <p>Mais de mil &nbsp;trabalhadores sa&iacute;ram de Jo&atilde;o Pessoa e marcham at&eacute;&nbsp;Campina Grande, terra do senador Cassio Cunha Lima (PSDB), que apoia o impeachment da presidenta Dilma Rousseff.</p>
 
 <p><br />
-<strong>RS</strong></p>
-
-<p>Em Porto Alegre, mais de mil representantes de movimentos sociais e centrais sindicais est&atilde;o reunidos na Par&oacute;quia Pomp&eacute;ia, em Porto Alegre, para o lan&ccedil;amento do Movimento em Defesa da Democracia e dos Direitos Sociais. O objetivo do movimento &eacute; buscar alternativas contra ataques aos direitos sociais. Na ocasi&atilde;o tamb&eacute;m ser&aacute; assinada a Carta de Porto Alegre.</p>
-
-<p><br />
-&Agrave;s 17h&nbsp;haver&aacute; marcha at&eacute; a Esquina Democr&aacute;tica, onde ocorre um ato p&uacute;blico em defesa da democracia e dos direitos sociais. Participam da atividade a CTB, CUT, MST, Nova Central, UNE, UGT entre outras organiza&ccedil;&otilde;es sociais.</p>
-
-<p><br />
 <strong>AL</strong></p>
 
 <p>Mais de dois mil trabalhadores tomam as ruas do centro de Macei&oacute;, capital alagoana, na manh&atilde; de&nbsp;hoje (20). Os manifestantes marcham em defesa da democracia e contra as medidas de ajuste fiscal que retiram direitos dos trabalhadores com a justificativa de sair da crise econ&ocirc;mica.</p>
@@ -89,11 +99,6 @@ Confira as mobiliza&ccedil;&otilde;es:</p>
 <p>Na capital paraense, cerca de mil pessoas j&aacute; deram in&iacute;cio ao ato puxado por uma faixa que pede uma Constituinte Exclusiva e Soberana do Sistema Pol&iacute;tico. Os Manifestantes&nbsp;se reuniram no bairro Umarizal antes de sair em caminhada.</p>
 
 <p style="line-height: 20.7999992370605px;"><br />
-<strong>SP</strong></p>
-
-<p>Na cidade de Ribeir&atilde;o Preto, cerca de 400 Sem Terra do MST chegam em marcha na cidade ap&oacute;s tr&ecirc;s dias de caminha. Os Sem Terra sa&iacute;ram na ter&ccedil;a-feira (18) de Serrana. O ato na capital Paulista est&aacute; marcado para as 17h no Largo da Batata, em Pinheiros.</p>
-
-<p><br />
 <strong>PR</strong></p>
 
 <p>Mais de 5 mil pessoas se juntam na capital. Os movimentos deram in&iacute;cio ao ato&nbsp;na Pra&ccedil;a Santos Andrade.</p>
