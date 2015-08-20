@@ -25,6 +25,7 @@ releated_posts:
   - 2015/05/2015-05-25-sou-sem-terra-sou-pobre-sou-negao-sou-revolucao.md
   - 2015/06/2015-06-11-sem-terra-homenageiam-willy-correa-compositor-que-musicou-o-hino-do-mst.md
   - 2015/06/2015-06-25-a-batalha-de-dois-modelos-agricolas.md
+section: featured-news
 
 ---
 <figure class="image"><img alt="tendler.png" src="http://farm1.staticflickr.com/776/20491758758_1f79c13501_b.jpg" />
