@@ -5,7 +5,7 @@ tags:
   - tag: minas-gerais
   - tag: desapropriações
   - tag: massacre-de-felisburgo
-title: "Durante jornada, Sem Terra conquistam três áreas emblemáticas em Minas Gerais"
+title: "Durante jornada, Sem Terra conquistam três áreas emblemáticas em MG"
 support_line: "A mais emblemática é a antiga fazenda Nova Alegria, onde aconteceu o Massacre de Felisburgo, que tirou a vida de cinco pessoas e deixou uma criança baleada no olho."
 menu: reforma agrária
 images_hd: "http://farm6.staticflickr.com/5720/20731985495_aa754370f0_b.jpg"
@@ -105,7 +105,7 @@ Sobre o novo Plano Nacional de Reforma Agr&aacute;ria, Patrus garantiu que o lan
 <p>&nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="russo.jpg" src="http://farm1.staticflickr.com/708/20705771866_21aef7e882_b.jpg" />
-<figcaption>Legenda</figcaption>
+<figcaption></figcaption>
 </figure>
 
 <p>&ldquo;J&aacute; assentamos dez mil fam&iacute;lias nesses poucos meses como minist&eacute;rio, mas o nosso olhar para o futuro &eacute; que no final do governo da Presidente Dilma n&atilde;o tenha nenhuma crian&ccedil;a, nenhum jovem, nenhuma fam&iacute;lia morando de baixo da lona nesse pa&iacute;s&rdquo;, reiterou.</p>
