@@ -79,9 +79,9 @@ Confira as mobiliza&ccedil;&otilde;es:</p>
 <p style="line-height: 20.7999992370605px;">Em Curitiba os movimentos populares est&atilde;o se mobilizando na Pra&ccedil;a Santos Andrade.</p>
 
 <p style="line-height: 20.7999992370605px;"><br />
-RJ</p>
+<strong>RJ</strong></p>
 
-<p style="line-height: 20.7999992370605px;">Na capital fluminense, manifestantes j&aacute; come&ccedil;am a se concentrar, com &ocirc;nibus chegando de diversas cidades vizinhas.&nbsp;</p>
+<p style="line-height: 20.7999992370605px;">Militantes do Movimento dos Trabalhadores Sem Teto (MTST) e do Psol marcham da Cinel&acirc;ndia para o pr&eacute;dio do Minist&eacute;rio da Fazenda. Eles criticam a pol&iacute;tica econ&ocirc;mica do governo federal, conduzida por Joaquim Levy, a Agenda Brasil, proposta por Renan Calheiros e a ofensiva conservadora da direita.</p>
 
 <p style="line-height: 20.7999992370605px;"><br />
 <strong>CE</strong></p>
