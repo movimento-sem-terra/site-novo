@@ -6,7 +6,7 @@ tags:
   - tag: economia
 title: "Samuel Pinheiro Guimarães: A ofensiva conservadora e as crises"
 images_hd: "http://farm1.staticflickr.com/583/20682067765_d7c312ebbb_b.jpg"
-support_line: "O diplomata brasileiro, Samuel Pinheiro Guimarães, faz uma análise da crise no Brasil, o avanço de setores conservadores e o papel do governo federal; bem como aponta as saídas e desafios das forças"
+support_line: "O diplomata brasileiro, Samuel Pinheiro Guimarães, faz uma análise da crise no Brasil, o avanço de setores conservadores e o papel do governo federal"
 menu: projeto popular
 label: articles
 layout: post
