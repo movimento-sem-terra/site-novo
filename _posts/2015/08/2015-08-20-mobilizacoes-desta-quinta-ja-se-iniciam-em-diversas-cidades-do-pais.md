@@ -63,7 +63,7 @@ Confira as mobiliza&ccedil;&otilde;es:</p>
 
 <p>Na capital paraense, cerca de mil pessoas j&aacute; deram in&iacute;cio ao ato puxado por uma faixa que pede uma Constituinte Exclusiva e Soberana do Sistema Pol&iacute;tico. Os Manifestantes&nbsp;se reuniram no bairro Umarizal antes de sair em caminhada.</p>
 
-<p><br />
+<p style="line-height: 20.7999992370605px;"><br />
 <strong>SP</strong></p>
 
 <p>Na cidade de Ribeir&atilde;o Preto, cerca de 400 Sem Terra do MST chegam em marcha na cidade ap&oacute;s tr&ecirc;s dias de caminha. Os Sem Terra sa&iacute;ram na ter&ccedil;a-feira (18) de Serrana. O ato na capital Paulista est&aacute; marcado para as 17h no Largo da Batata, em Pinheiros.</p>
@@ -73,19 +73,17 @@ Confira as mobiliza&ccedil;&otilde;es:</p>
 
 <p>Na Bahia, cerca de 6 mil pessoas j&aacute; se mobilizam nas cidades de Teixeira de Freitas, Eun&aacute;polis e Porto Seguro. Em Salvador a concentra&ccedil;&atilde;o est&aacute; marcada para as 12h.&nbsp;</p>
 
-<p style="line-height: 20.7999992370605px;"><br />
+<p><br />
 <strong>PR</strong></p>
 
-<p style="line-height: 20.7999992370605px;">Em Curitiba os movimentos populares est&atilde;o se mobilizando na Pra&ccedil;a Santos Andrade.</p>
+<p>Mais de 5 mil pessoas se juntam na capital. Os movimentos deram in&iacute;cio ao ato&nbsp;na Pra&ccedil;a Santos Andrade.</p>
 
-<p style="line-height: 20.7999992370605px;"><br />
+<p><br />
 <strong>RJ</strong></p>
 
-<p style="line-height: 20.7999992370605px;">Militantes do Movimento dos Trabalhadores Sem Teto (MTST) e do Psol marcham da Cinel&acirc;ndia para o pr&eacute;dio do Minist&eacute;rio da Fazenda. Eles criticam a pol&iacute;tica econ&ocirc;mica do governo federal, conduzida por Joaquim Levy, a Agenda Brasil, proposta por Renan Calheiros e a ofensiva conservadora da direita.</p>
+<p>Militantes do Movimento dos Trabalhadores Sem Teto (MTST) e do Psol marcham da Cinel&acirc;ndia para o pr&eacute;dio do Minist&eacute;rio da Fazenda. Eles criticam a pol&iacute;tica econ&ocirc;mica do governo federal, conduzida por Joaquim Levy, a Agenda Brasil, proposta por Renan Calheiros e a ofensiva conservadora da direita.</p>
 
-<p style="line-height: 20.7999992370605px;"><br />
+<p><br />
 <strong>CE</strong></p>
 
-<p style="line-height: 20.7999992370605px;">Em <span style="line-height: 20.7999992370605px;">Fortaleza, os manifestantes protestam&nbsp;</span>contra o ajusta fiscal e a favor da sa&iacute;da de Eduardo Cunha do Congresso tem in&iacute;cio no centro na capital cearense.</p>
-
-<p style="line-height: 20.7999992370605px;">&nbsp;</p>
+<p>Em Fortaleza, os manifestantes protestam contra o ajusta fiscal e a favor da sa&iacute;da de Eduardo Cunha do Congresso tem in&iacute;cio no centro na capital cearense.</p>
