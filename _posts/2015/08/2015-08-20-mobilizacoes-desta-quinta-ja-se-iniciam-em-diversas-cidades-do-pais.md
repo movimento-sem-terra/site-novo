@@ -50,8 +50,20 @@ Os movimentos ainda defendem que a sa&iacute;da da crise &ldquo;dever&aacute; se
 <p><br />
 Confira as mobiliza&ccedil;&otilde;es:</p>
 
+<p style="line-height: 20.7999992370605px;"><br />
+<strong>BA</strong></p>
+
+<p style="line-height: 20.7999992370605px;">Manifestantes em Salvador caminham pelas ruas do centro da capital baiana. Nas faixas e cartazes, palavras em defesa da democracia, contra a retirada de direitos sociais, al&eacute;m de manifesta&ccedil;&otilde;es contr&aacute;rias ao projeto do senador Jos&eacute; Serra (PSDB) que transfere os lucros do pr&eacute;-sal para multinacionais. Foto: S&iacute;lvio Medina Lopes</p>
+
+<p style="line-height: 20.7999992370605px;">Na Bahia, cerca de 6 mil pessoas j&aacute; se mobilizam nas cidades de Teixeira de Freitas, Eun&aacute;polis e Porto Seguro. Em Salvador a concentra&ccedil;&atilde;o est&aacute; marcada para as 12h.&nbsp;</p>
+
 <p><br />
-<strong>PB</strong></p>
+<strong>PE</strong></p>
+
+<p>Em Caruaru cerca de 200 pessoas realizam manifesta&ccedil;&atilde;o no Marco Zero.<br />
+&nbsp;</p>
+
+<p><strong>PB</strong></p>
 
 <p>Mais de mil &nbsp;trabalhadores sa&iacute;ram de Jo&atilde;o Pessoa e marcham at&eacute;&nbsp;Campina Grande, terra do senador Cassio Cunha Lima (PSDB), que apoia o impeachment da presidenta Dilma Rousseff.</p>
 
@@ -80,11 +92,6 @@ Confira as mobiliza&ccedil;&otilde;es:</p>
 <strong>SP</strong></p>
 
 <p>Na cidade de Ribeir&atilde;o Preto, cerca de 400 Sem Terra do MST chegam em marcha na cidade ap&oacute;s tr&ecirc;s dias de caminha. Os Sem Terra sa&iacute;ram na ter&ccedil;a-feira (18) de Serrana. O ato na capital Paulista est&aacute; marcado para as 17h no Largo da Batata, em Pinheiros.</p>
-
-<p><br />
-<strong>BA</strong></p>
-
-<p>Na Bahia, cerca de 6 mil pessoas j&aacute; se mobilizam nas cidades de Teixeira de Freitas, Eun&aacute;polis e Porto Seguro. Em Salvador a concentra&ccedil;&atilde;o est&aacute; marcada para as 12h.&nbsp;</p>
 
 <p><br />
 <strong>PR</strong></p>
