@@ -7,7 +7,7 @@ tags:
   - tag: direitos-trabalhistas
 title: Em ato com Dilma movimentos cobram avanços para a classe trabalhadora
 menu: projeto popular
-section: featured-news
+section: null
 images_hd: "http://farm1.staticflickr.com/712/19944702004_4f52504dcf_b.jpg"
 support_line: Uma das principais críticas dos movimentos ao governo petista é exatamente a onda de retrocesso em curso no Congresso Nacional e a pauta conservadora do próprio governo.
 layout: post
