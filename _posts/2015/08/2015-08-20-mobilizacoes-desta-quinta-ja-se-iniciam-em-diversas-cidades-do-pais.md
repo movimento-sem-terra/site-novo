@@ -28,7 +28,9 @@ releated_posts:
   - 2015/08/2015-08-13-movimentos-populares-afirmam-que-agenda-brasil-sera-desastrosa-para-o-pais.md
 
 ---
-<p><img alt="teixeira.jpg" src="http://farm1.staticflickr.com/636/20111756464_a942fe9093_b.jpg" /></p>
+<figure class="image"><img alt="teixeira.jpg" src="http://farm1.staticflickr.com/636/20111756464_a942fe9093_b.jpg" />
+<figcaption>Mobiliza&ccedil;&atilde;o em Teixeira de Freitas, na Bahia.</figcaption>
+</figure>
 
 <p><br />
 <em>Da P&aacute;gina do MST</em></p>
@@ -51,8 +53,7 @@ Confira as mobiliza&ccedil;&otilde;es:</p>
 <p><br />
 <strong>AL</strong></p>
 
-<p><br />
-Em Macei&oacute;, apesar da manh&atilde; chuvosa, os movimentos do campo e da cidade se concentram desde as 9h na Pra&ccedil;a Sinimbu.</p>
+<p>Em Macei&oacute;, apesar da manh&atilde; chuvosa, os movimentos do campo e da cidade se concentram desde as 9h na Pra&ccedil;a Sinimbu.</p>
 
 <p><br />
 &quot;N&atilde;o aceitamos o plano Levy e agenda Renan! Estamos em luta para cobrar as reformas estruturais, a reforma agr&aacute;ria, reforma urbana, a democratiza&ccedil;&atilde;o da comunica&ccedil;&atilde;o, abaixar as taxas de juros, e n&atilde;o que a conta da crise seja lan&ccedil;ada nas costas dos trabalhadores&quot;, afirma Jos&eacute; Roberto da dire&ccedil;&atilde;o nacional do MST.&nbsp;</p>
@@ -60,17 +61,23 @@ Em Macei&oacute;, apesar da manh&atilde; chuvosa, os movimentos do campo e da ci
 <p><br />
 <strong>PA</strong></p>
 
-<p><br />
-Na capital paraense, as organiza&ccedil;&otilde;es j&aacute; deram in&iacute;cio ao ato puxado por uma faixa que pede uma Constituinte Exclusiva e Soberana do Sistema Pol&iacute;tico.</p>
+<p>Na capital paraense, cerca de mil pessoas j&aacute; deram in&iacute;cio ao ato puxado por uma faixa que pede uma Constituinte Exclusiva e Soberana do Sistema Pol&iacute;tico. Os Manifestantes&nbsp;se reuniram no bairro Umarizal antes de sair em caminhada.</p>
+
+<p>&nbsp;</p>
 
 <p><br />
 <strong>BA</strong></p>
 
-<p><br />
-Na Bahia, cerca de 6 mil pessoas j&aacute; se mobilizam nas cidades de Teixeira de Freitas, Eun&aacute;polis e Porto Seguro. Em Salvador a concentra&ccedil;&atilde;o est&aacute; marcada para as 12h.&nbsp;</p>
+<p>Na Bahia, cerca de 6 mil pessoas j&aacute; se mobilizam nas cidades de Teixeira de Freitas, Eun&aacute;polis e Porto Seguro. Em Salvador a concentra&ccedil;&atilde;o est&aacute; marcada para as 12h.&nbsp;</p>
 
 <p style="line-height: 20.7999992370605px;"><br />
 <strong>PR</strong></p>
 
+<p style="line-height: 20.7999992370605px;">Em Curitiba os movimentos populares est&atilde;o se mobilizando na Pra&ccedil;a Santos Andrade.</p>
+
 <p style="line-height: 20.7999992370605px;"><br />
-Em Curitiba os movimentos populares est&atilde;o se mobilizando na Pra&ccedil;a Santos Andrade.</p>
+<strong>CE</strong></p>
+
+<p style="line-height: 20.7999992370605px;">Em <span style="line-height: 20.7999992370605px;">Fortaleza, os manifestantes protestam&nbsp;</span>contra o ajusta fiscal e a favor da sa&iacute;da de Eduardo Cunha do Congresso tem in&iacute;cio no centro na capital cearense.</p>
+
+<p style="line-height: 20.7999992370605px;">&nbsp;</p>
