@@ -51,6 +51,14 @@ Os movimentos ainda defendem que a sa&iacute;da da crise &ldquo;dever&aacute; se
 Confira as mobiliza&ccedil;&otilde;es:</p>
 
 <p><br />
+<strong>RS</strong></p>
+
+<p>Em Porto Alegre,&nbsp;representantes de movimentos sociais e centrais sindicais est&atilde;o reunidos na Par&oacute;quia Pomp&eacute;ia, em Porto Alegre, para o lan&ccedil;amento do Movimento em Defesa da Democracia e dos Direitos Sociais. O objetivo do movimento &eacute; buscar alternativas contra ataques aos direitos sociais. Na ocasi&atilde;o tamb&eacute;m ser&aacute; assinada a Carta de Porto Alegre.</p>
+
+<p><br />
+&Agrave;s 17h&nbsp;haver&aacute; marcha at&eacute; a Esquina Democr&aacute;tica, onde ocorre um ato p&uacute;blico em defesa da democracia e dos direitos sociais. Participam da atividade a CTB, CUT, MST, Nova Central, UNE, UGT entre outras organiza&ccedil;&otilde;es sociais.</p>
+
+<p><br />
 <strong>AL</strong></p>
 
 <p>Mais de dois mil trabalhadores tomam as ruas do centro de Macei&oacute;, capital alagoana, na manh&atilde; de&nbsp;hoje (20). Os manifestantes marcham em defesa da democracia e contra as medidas de ajuste fiscal que retiram direitos dos trabalhadores com a justificativa de sair da crise econ&ocirc;mica.</p>
