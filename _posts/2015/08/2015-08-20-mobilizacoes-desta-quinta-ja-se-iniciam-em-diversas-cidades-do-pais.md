@@ -51,6 +51,11 @@ Os movimentos ainda defendem que a sa&iacute;da da crise &ldquo;dever&aacute; se
 Confira as mobiliza&ccedil;&otilde;es:</p>
 
 <p><br />
+<strong>PB</strong></p>
+
+<p>Mais de mil &nbsp;trabalhadores sa&iacute;ram de Jo&atilde;o Pessoa e marcham at&eacute;&nbsp;Campina Grande, terra do senador Cassio Cunha Lima (PSDB), que apoia o impeachment da presidenta Dilma Rousseff.</p>
+
+<p><br />
 <strong>RS</strong></p>
 
 <p>Em Porto Alegre, mais de mil representantes de movimentos sociais e centrais sindicais est&atilde;o reunidos na Par&oacute;quia Pomp&eacute;ia, em Porto Alegre, para o lan&ccedil;amento do Movimento em Defesa da Democracia e dos Direitos Sociais. O objetivo do movimento &eacute; buscar alternativas contra ataques aos direitos sociais. Na ocasi&atilde;o tamb&eacute;m ser&aacute; assinada a Carta de Porto Alegre.</p>
