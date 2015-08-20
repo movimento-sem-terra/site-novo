@@ -53,7 +53,7 @@ Confira as mobiliza&ccedil;&otilde;es:</p>
 <p><br />
 <strong>AL</strong></p>
 
-<p>Em Macei&oacute;, apesar da manh&atilde; chuvosa, os movimentos do campo e da cidade se concentram desde as 9h na Pra&ccedil;a Sinimbu.</p>
+<p>Mais de dois mil trabalhadores tomam as ruas do centro de Macei&oacute;, capital alagoana, na manh&atilde; de&nbsp;hoje (20). Os manifestantes marcham em defesa da democracia e contra as medidas de ajuste fiscal que retiram direitos dos trabalhadores com a justificativa de sair da crise econ&ocirc;mica.</p>
 
 <p><br />
 &quot;N&atilde;o aceitamos o plano Levy e agenda Renan! Estamos em luta para cobrar as reformas estruturais, a reforma agr&aacute;ria, reforma urbana, a democratiza&ccedil;&atilde;o da comunica&ccedil;&atilde;o, abaixar as taxas de juros, e n&atilde;o que a conta da crise seja lan&ccedil;ada nas costas dos trabalhadores&quot;, afirma Jos&eacute; Roberto da dire&ccedil;&atilde;o nacional do MST.&nbsp;</p>
@@ -77,6 +77,11 @@ Confira as mobiliza&ccedil;&otilde;es:</p>
 <strong>PR</strong></p>
 
 <p style="line-height: 20.7999992370605px;">Em Curitiba os movimentos populares est&atilde;o se mobilizando na Pra&ccedil;a Santos Andrade.</p>
+
+<p style="line-height: 20.7999992370605px;"><br />
+RJ</p>
+
+<p style="line-height: 20.7999992370605px;">Na capital fluminense, manifestantes j&aacute; come&ccedil;am a se concentrar, com &ocirc;nibus chegando de diversas cidades vizinhas.&nbsp;</p>
 
 <p style="line-height: 20.7999992370605px;"><br />
 <strong>CE</strong></p>
