@@ -7,8 +7,8 @@ tags:
   - tag: agenda-brasil
 images_hd: "http://farm6.staticflickr.com/5703/20765840735_0d9a999b83_b.jpg"
 menu: lutas e mobilizações
-title: "Em Pernambuco, mais de 20 mil saíram às ruas"
-support_line: "Durante a mobilização muitas destacaram o surgimento da nova frente de esquerda no Brasil, a Frente Brasil Popular, que reúne diversas organizações da classe trabalhadora."
+title: "Em Pernambuco, bandeira da constituinte se colocou no centro dos atos"
+support_line: "Mais de 20 mil saíram às ruas de PE, em que destacaram o surgimento da nova frente de esquerda no Brasil, a Frente Brasil Popular."
 layout: post
 files:
   - link: "http://farm6.staticflickr.com/5703/20765840735_0d9a999b83_b.jpg"
@@ -36,11 +36,12 @@ releated_posts:
 ---
 <p><img alt="PE_ato.jpg" src="http://farm6.staticflickr.com/5703/20765840735_0d9a999b83_b.jpg" /></p>
 
-<p><em>Por&nbsp;Phillyp Mikell</em><br />
+<p><br />
+<em>Por&nbsp;Phillyp Mikell</em><br />
 <em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Nesta quinta-feira, as mobiliza&ccedil;&otilde;es em Pernambuco atingiram as principais cidades do estado do Sert&atilde;o ao Litoral. Recife, Caruaru e Petrolina assistiram a marcha vermelha do povo nas ruas. Vinte mil pessoas sa&iacute;ram em defesa da democracia no Recife, 500 na capital do Agreste e 300 em Petrolina.</p>
+Nesta quinta-feira (20), as mobiliza&ccedil;&otilde;es em Pernambuco atingiram as principais cidades do estado do Sert&atilde;o ao Litoral. Recife, Caruaru e Petrolina assistiram a marcha vermelha do povo nas ruas. Vinte mil pessoas sa&iacute;ram em defesa da democracia no Recife, 500 na capital do Agreste e 300 em Petrolina.</p>
 
 <p><br />
 As principais bandeiras eram as mesmas do restante do pa&iacute;s: em defesa da democracia e da Petrobras, contra o ajuste fiscal e as medidas reacion&aacute;rias do Congresso Nacional, pela Constituinte Exclusiva e Soberana do Sistema Pol&iacute;tico e a democratiza&ccedil;&atilde;o dos meios de comunica&ccedil;&atilde;o.</p>
@@ -63,4 +64,4 @@ Terto acredita que a mobiliza&ccedil;&atilde;o tamb&eacute;m demonstrou a maturi
 Terto tamb&eacute;m destacou que o ato apontou a necessidade da constru&ccedil;&atilde;o de um Projeto Popular para o Brasil, e reafirmou os limites do sistema pol&iacute;tico brasileiro, que para ele seria uma heran&ccedil;a da ditadura militar e que atenderia aos interesses dos empres&aacute;rios.&nbsp;</p>
 
 <p><br />
-A bandeira da Constituinte, inclusive, se colocou no centro aglutinador dos movimentos populares, em que demonstraram ser uma pauta imprescind&iacute;vel para abrir caminhos para as reformas estruturais, seja no &acirc;mbito da pol&iacute;tica, economia ou na sociedade.</p>
+A bandeira da Constituinte, inclusive, se colocou no centro aglutinador dos movimentos populares, demonstrando&nbsp;ser uma pauta imprescind&iacute;vel para abrir caminhos para as reformas estruturais, seja no &acirc;mbito da pol&iacute;tica, economia ou na sociedade.</p>
