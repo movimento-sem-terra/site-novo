@@ -4,7 +4,7 @@ tags:
   - tag: ocupação
   - tag: mato-grosso-do-sul
   - tag: reforma-agrária
-title: "Cerca de mil famílias ocupam fazenda em Casa Verde, no MS"
+title: "Cerca de mil famílias ocupam latifúndio em Casa Verde, no MS"
 images_hd: "http://farm1.staticflickr.com/612/20141408643_e4fa2d4ee1_b.jpg"
 sector: mass-front
 menu: reforma agrária
