@@ -4,7 +4,7 @@ tags:
   - tag: lutas-e-mobilizações
   - tag: ajuste-fiscal
   - tag: direitos-trabalhistas
-title: "Milhares de pessoas saem às ruas de todo Brasil por uma 'saída pela esquerda'"
+title: "Milhares de pessoas saem às ruas de todo Brasil por uma 'saída à esquerda'"
 support_line: "Em São Paulo, a maior delas, ao menos 100 mil se juntaram contra o ajuste fiscal e em defesa da democracia."
 menu: lutas e mobilizações
 section: cover
@@ -59,8 +59,11 @@ Tamb&eacute;m tiveram mobiliza&ccedil;&otilde;es em ao menos em algumas&nbsp;cid
 <p><br />
 &ldquo;Queremos demonstrar para o conjunto da classe trabalhadora que se unirmos for&ccedil;as &eacute; poss&iacute;vel garantir uma pauta progressista&rdquo;, disse Jo&atilde;o Paulo Rodrigues, do MST.</p>
 
-<p><br />
+<p>&nbsp;
+<p><img alt="sp2.jpg" src="http://farm6.staticflickr.com/5717/20558754640_026cc73480_b.jpg" /><br />
+<br />
 O presidente da CUT, Vagner Freitas, enfatizou que a manifesta&ccedil;&atilde;o defende um projeto nacional de desenvolvimento, com gera&ccedil;&atilde;o de empregos e renda e redu&ccedil;&atilde;o das desigualdades. &ldquo;Queremos respeito &agrave; democracia. Quem perdeu as elei&ccedil;&otilde;es tem de parar com esse neg&oacute;cio de terceiro turno e se preparar para 2018&rdquo;, afirmou Vagner.</p>
+</p>
 
 <p><br />
 &ldquo;Mas n&atilde;o concordamos com essa pol&iacute;tica neoliberal nefasta para os trabalhadores. &Eacute; preciso taxar as grandes fortunas. Quem ganha mais que pague mais. Tamb&eacute;m n&atilde;o concordamos com enfrentar a infla&ccedil;&atilde;o com essa pol&iacute;tica de juros altos. O mercado n&atilde;o pensa nos trabalhadores&rdquo;, disse o presidente da CUT. &ldquo;Estamos aqui por reforma agr&aacute;ria, por uma reforma pol&iacute;tica que acabe com o financiamento empresarial de campanhas, por uma reforma tribut&aacute;ria que reduza as desigualdades e por uma reforma de m&iacute;dia que combata a concentra&ccedil;&atilde;o e o oligop&oacute;lio dos meios de comunica&ccedil;&atilde;o.&rdquo;</p>
@@ -79,6 +82,3 @@ A pretexto de instalar uma negocia&ccedil;&atilde;o que ponha fim &agrave; crise
 
 <p><br />
 <em>*Com informa&ccedil;&otilde;es da RBA</em></p>
-
-<p><br />
-<img alt="sp2.jpg" src="http://farm6.staticflickr.com/5717/20558754640_026cc73480_b.jpg" /></p>
