@@ -52,7 +52,7 @@ releated_posts:
   - 2014/10/2014-10-01-o-momento-da-agroecologia-e-agora-afirma-especialista-em-ciencias-agricolas.md
   - 2012/07/2012-07-25-3-mitos-sobre-a-agroecologia.md
   - 2015/06/2015-06-25-a-batalha-de-dois-modelos-agricolas.md
-section: featured-news
+section: null
 
 ---
 <p><img alt="comida ou veneno.jpg" src="http://farm6.staticflickr.com/5636/20661201176_cfdbb49b55_b.jpg" /><br />
