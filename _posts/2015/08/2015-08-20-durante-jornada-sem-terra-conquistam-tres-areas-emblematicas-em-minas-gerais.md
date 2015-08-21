@@ -5,11 +5,11 @@ tags:
   - tag: minas-gerais
   - tag: desapropriações
   - tag: massacre-de-felisburgo
-title: "Durante jornada, Sem Terra conquistam três áreas emblemáticas em MG"
+title: Sem Terra conquistam três áreas emblemáticas em MG
 support_line: "A mais emblemática é a antiga fazenda Nova Alegria, onde aconteceu o Massacre de Felisburgo, que tirou a vida de cinco pessoas e deixou uma criança baleada no olho."
 menu: reforma agrária
 images_hd: "http://farm6.staticflickr.com/5720/20731985495_aa754370f0_b.jpg"
-section: null
+section: featured-news
 layout: post
 files:
   - link: "http://farm6.staticflickr.com/5720/20731985495_aa754370f0_b.jpg"
