@@ -9,7 +9,7 @@ title: Organizações vão às ruas por saída popular a crise política e econ�
 images_hd: "http://farm6.staticflickr.com/5719/20500443130_55291f30bf_b.jpg"
 support_line: "Diante deste cenário conturbado, Gislene dos Santos, do MST, analisa o atual momento político e as mobilizações de setores da esquerda e da direita dessa semana."
 menu: projeto popular
-section: featured-news
+section: null
 layout: post
 files:
   - link: "http://farm1.staticflickr.com/759/20067450833_f43996b9cc_b.jpg"
@@ -34,6 +34,7 @@ releated_posts:
   - 2015/08/2015-08-13-manifestacoes-do-dia-20-podem-ampliar-dialogo-de-movimento-social-com-populacao.md
   - 2015/08/2015-08-12-a-politica-economica-atual-nao-resultara-na-retomada-do-crescimento-diz-marcio-pochmann.md
   - 2015/08/2015-08-13-movimentos-populares-afirmam-que-agenda-brasil-sera-desastrosa-para-o-pais.md
+label: interviews
 
 ---
 <p><img alt="ato-largo-da-batata-abril-2015-Gerardo-Lazzari-RBA.jpeg" src="http://farm6.staticflickr.com/5719/20500443130_55291f30bf_b.jpg" /></p>
