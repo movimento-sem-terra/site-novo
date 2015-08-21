@@ -16,6 +16,12 @@ files:
     small: "http://farm1.staticflickr.com/741/20761564585_c65cce0ce5_n.jpg"
     title: ato_RS.jpg
     $$hashKey: 1EH
+  - link: "http://farm1.staticflickr.com/570/20761657885_087576107c_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/570/20761657885_087576107c_t.jpg"
+    medium: "http://farm1.staticflickr.com/570/20761657885_087576107c_z.jpg"
+    small: "http://farm1.staticflickr.com/570/20761657885_087576107c_n.jpg"
+    title: Leandro Molina_RS.jpg
+    $$hashKey: 1N7
 created_date: "2015-08-21T11:49:42-03:00"
 published: true
 releated_posts:
@@ -51,8 +57,13 @@ No local, presidentes de centrais sindicais, procuradores do Minist&eacute;rio P
 <p><br />
 O presidente da Central &Uacute;nica dos Trabalhadores (CUT-RS), Claudir Nespolo, destacou a import&acirc;ncia da luta pela manuten&ccedil;&atilde;o e conquistas de direitos e contra as ofensivas da direita que quer implantar o golpe no pa&iacute;s.</p>
 
-<p><br />
-&ldquo;A maioria do Congresso brasileiro &eacute; composta por fazendeiros e empres&aacute;rios que defendem a terceiriza&ccedil;&atilde;o para impor o trabalho escravo no Brasil. Eles dizem que querem apurar a corrup&ccedil;&atilde;o, mas o que eles querem mesmo &eacute; acabar com a investiga&ccedil;&atilde;o. Para o capital a democracia n&atilde;o &eacute; valor, porque ele ganha dinheiro em qualquer regime, mas para os pobres e os trabalhadores ela &eacute; muito importante. &Eacute; por isso que estamos mobilizados, mostrando &agrave; sociedade que n&atilde;o est&aacute; morto quem peleia, e dizer &agrave;queles que querem derrotar a democracia que ter&atilde;o que passar por cima de muita gente&rdquo;, garantiu Nespolo.</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="Leandro Molina_RS.jpg" src="http://farm1.staticflickr.com/570/20761657885_087576107c_b.jpg" />
+<figcaption></figcaption>
+</figure>
+
+<p>&ldquo;A maioria do Congresso brasileiro &eacute; composta por fazendeiros e empres&aacute;rios que defendem a terceiriza&ccedil;&atilde;o para impor o trabalho escravo no Brasil. Eles dizem que querem apurar a corrup&ccedil;&atilde;o, mas o que eles querem mesmo &eacute; acabar com a investiga&ccedil;&atilde;o. Para o capital a democracia n&atilde;o &eacute; valor, porque ele ganha dinheiro em qualquer regime, mas para os pobres e os trabalhadores ela &eacute; muito importante. &Eacute; por isso que estamos mobilizados, mostrando &agrave; sociedade que n&atilde;o est&aacute; morto quem peleia, e dizer &agrave;queles que querem derrotar a democracia que ter&atilde;o que passar por cima de muita gente&rdquo;, garantiu Nespolo.</p>
 
 <p><br />
 Ap&oacute;s as atividades na Par&oacute;quia Pomp&eacute;ia, foi realizada uma marcha at&eacute; a Esquina Democr&aacute;tica, no Centro de Porto Alegre, para o ato em defesa da democracia e dos direitos sociais, que tamb&eacute;m reafirmou a preocupa&ccedil;&atilde;o com o avan&ccedil;o de pautas conservadoras no Congresso Nacional.</p>
