@@ -54,7 +54,7 @@ Os movimentos ainda defendem que a sa&iacute;da da crise &ldquo;dever&aacute; se
 Em S&atilde;o Paulo, a maior delas, calcula-se que cerca de 100 mil pessoas acabaram se somando &agrave; mobiliza&ccedil;&atilde;o que se iniciou no Largo da Batata e foi at&eacute; a Avenida Paulista.</p>
 
 <p><br />
-Tamb&eacute;m tiveram mobiliza&ccedil;&otilde;es Pernambuco, Para&iacute;ba, Minas Gerais, Algoas, Rio Grande do Sul, Manaus, Par&aacute;, Paran&aacute;, Rio de Janeiro, Cear&aacute;, Bahia.</p>
+Tamb&eacute;m tiveram mobiliza&ccedil;&otilde;es em ao menos em algumas&nbsp;cidades de Pernambuco, Para&iacute;ba, Minas Gerais, Alagoas, Rio Grande do Sul,&nbsp;Par&aacute;, Paran&aacute;, Rio de Janeiro, Cear&aacute; e&nbsp;Bahia, al&eacute;m de Manaus e Bras&iacute;lia.</p>
 
 <p><br />
 &ldquo;Queremos demonstrar para o conjunto da classe trabalhadora que se unirmos for&ccedil;as &eacute; poss&iacute;vel garantir uma pauta progressista&rdquo;, disse Jo&atilde;o Paulo Rodrigues, do MST.</p>
