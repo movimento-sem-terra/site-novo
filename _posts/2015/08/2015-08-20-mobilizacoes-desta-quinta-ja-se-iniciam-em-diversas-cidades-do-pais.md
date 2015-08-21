@@ -4,7 +4,7 @@ tags:
   - tag: lutas-e-mobilizações
   - tag: ajuste-fiscal
   - tag: direitos-trabalhistas
-title: "Centenas de milhares saem às ruas de todo Brasil por uma 'saída pela esquerda'"
+title: "Milhares de pessoas saem às ruas de todo Brasil por uma 'saída pela esquerda'"
 support_line: "Em São Paulo, a maior delas, ao menos 100 mil se juntaram contra o ajuste fiscal e em defesa da democracia."
 menu: lutas e mobilizações
 section: cover
