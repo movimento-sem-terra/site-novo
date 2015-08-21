@@ -4,19 +4,19 @@ tags:
   - tag: lutas-e-mobilizações
   - tag: ajuste-fiscal
   - tag: direitos-trabalhistas
-title: "Por todo Brasil, manifestações criticam política econômica e defendem democracia"
-support_line: "Os atos denunciam as atuais políticas de austeridade do governo federal, a “guinada conservadora” comandadas pelo presidente da Câmara dos Deputados, Eduardo Cunha (PMDB-RJ), e afirmar que “a saída da crise é pela esquerda”."
+title: "Centenas de milhares saem às ruas de todo Brasil por uma 'saída pela esquerda'"
+support_line: "Em São Paulo, a maior delas, ao menos 100 mil se juntaram contra o ajuste fiscal e em defesa da democracia."
 menu: lutas e mobilizações
 section: cover
-images_hd: "http://farm1.staticflickr.com/636/20111756464_a942fe9093_b.jpg"
+images_hd: "http://farm6.staticflickr.com/5649/20746627415_d522198f5e_b.jpg"
 layout: post
 files:
-  - link: "http://farm1.staticflickr.com/636/20111756464_a942fe9093_b.jpg"
-    thumbnail: "http://farm1.staticflickr.com/636/20111756464_a942fe9093_t.jpg"
-    medium: "http://farm1.staticflickr.com/636/20111756464_a942fe9093_z.jpg"
-    small: "http://farm1.staticflickr.com/636/20111756464_a942fe9093_n.jpg"
-    title: teixeira.jpg
-    $$hashKey: 0M8
+  - link: "http://farm6.staticflickr.com/5649/20746627415_d522198f5e_b.jpg"
+    thumbnail: "http://farm6.staticflickr.com/5649/20746627415_d522198f5e_t.jpg"
+    medium: "http://farm6.staticflickr.com/5649/20746627415_d522198f5e_z.jpg"
+    small: "http://farm6.staticflickr.com/5649/20746627415_d522198f5e_n.jpg"
+    title: sp.jpg
+    $$hashKey: 08M
 created_date: "2015-08-20T11:35:29-03:00"
 published: true
 releated_posts:
@@ -28,87 +28,48 @@ releated_posts:
   - 2015/08/2015-08-13-movimentos-populares-afirmam-que-agenda-brasil-sera-desastrosa-para-o-pais.md
 
 ---
-<figure class="image"><img alt="teixeira.jpg" src="http://farm1.staticflickr.com/636/20111756464_a942fe9093_b.jpg" />
-<figcaption>Mobiliza&ccedil;&atilde;o em Teixeira de Freitas, na Bahia.</figcaption>
-</figure>
+<p><img alt="sp.jpg" src="http://farm6.staticflickr.com/5649/20746627415_d522198f5e_b.jpg" /><br />
+<br />
+<em>Da P&aacute;gina do MST*</em></p>
 
 <p><br />
-<em>Da P&aacute;gina do MST</em></p>
+Centenas de milhares de pessoas sa&iacute;ras &agrave;s ruas em todo o pa&iacute;s nesta quinta-feira (20).&nbsp;</p>
 
 <p><br />
-As mobiliza&ccedil;&otilde;es marcadas pelos movimentos populares para esta quinta-feira (20) j&aacute; se iniciaram em diversas cidades pelo pa&iacute;s.</p>
+As mobiliza&ccedil;&otilde;es marcadas por diversos movimentos populares tiveram como foco a den&uacute;ncia das atuais pol&iacute;ticas de austeridade do governo federal, a &ldquo;guinada conservadora&rdquo; comandadas pelo presidente da C&acirc;mara dos Deputados, Eduardo Cunha (PMDB-RJ), e afirmar que &ldquo;a sa&iacute;da da crise &eacute; pela esquerda&rdquo;.&nbsp;</p>
 
 <p><br />
-O ato tem como foco denunciar as atuais pol&iacute;ticas de austeridade do governo federal, a &ldquo;guinada conservadora&rdquo; comandadas pelo presidente da C&acirc;mara dos Deputados, Eduardo Cunha (PMDB-RJ), e afirmar que &ldquo;a sa&iacute;da da crise &eacute; pela esquerda&rdquo;. As mobiliza&ccedil;&otilde;es acontecem em todo o pa&iacute;s.</p>
+A cr&iacute;tica contra o ajuste fiscal pede &ldquo;que os ricos paguem pela crise&rdquo;, apontando, tamb&eacute;m, a taxa&ccedil;&atilde;o de grandes fortunas, dividendos e remessas de lucros e auditoria da d&iacute;vida p&uacute;blica como alternativas para aliviar a economia.</p>
 
 <p><br />
-A cr&iacute;tica contra o ajuste fiscal pede &ldquo;que os ricos paguem pela crise&rdquo;, como informa o manifesto que convoca o protesto, apontando, tamb&eacute;m, a taxa&ccedil;&atilde;o de grandes fortunas, dividendos e remessas de lucros e auditoria da d&iacute;vida p&uacute;blica como alternativas para aliviar a economia.</p>
+Os movimentos ainda defendem que a sa&iacute;da da crise &ldquo;dever&aacute; ser pela esquerda&rdquo;, e convoca a popula&ccedil;&atilde;o para lutar por reformas.</p>
 
 <p><br />
-Os movimentos ainda defendem que a sa&iacute;da da crise &ldquo;dever&aacute; ser pela esquerda&rdquo;, e convoca a popula&ccedil;&atilde;o para lutar por reformas: &ldquo;&eacute; preciso enfrentar a estrutura de desigualdades da sociedade brasileira com uma plataforma popular&rdquo;, enfatiza o texto.</p>
+Em S&atilde;o Paulo, a maior delas, calcula-se que cerca de 100 mil pessoas acabaram se somando &agrave; mobiliza&ccedil;&atilde;o que se iniciou no Largo da Batata e foi at&eacute; a Avenida Paulista.</p>
 
 <p><br />
-Confira as mobiliza&ccedil;&otilde;es:</p>
-
-<p style="line-height: 20.7999992370605px;"><br />
-<strong>MG</strong></p>
-
-<p style="line-height: 20.7999992370605px;">&ldquo;Que os ricos paguem a conta&rdquo; &eacute; o grito dos cerca de 8 mil manifestantes, segundo estimativa da organiza&ccedil;&atilde;o, que ocupam a Pra&ccedil;a Afonso Arinos, neste momento, em Belo Horizonte. O protesto foi convocado pelos que n&atilde;o concordam com o impeachment da presidenta Dilma Rousseff, mas tamb&eacute;m n&atilde;o est&atilde;o satisfeitos com o governo. Eles pedem mudan&ccedil;as nas medidas econ&ocirc;micas que retiram direitos dos trabalhadores.</p>
-
-<p style="line-height: 20.7999992370605px;"><br />
-<strong>RS</strong></p>
-
-<p style="line-height: 20.7999992370605px;">Ap&oacute;s o ato de lan&ccedil;amento do Movimento em Defesa da Democracia e dos Direitos Sociais, na Par&oacute;quia Pomp&eacute;ia, manifestantes em Porto Alegre seguem em marcha at&eacute; a Esquina Democr&aacute;tica. O local &eacute; conhecido por abrigar protestos populares e fica no cruzamento da Avenida Borges de Medeiros com a Rua da Praia. Em seguida, haver&aacute; um ato p&uacute;blico em defesa da democracia e dos direitos sociais.</p>
-
-<p style="line-height: 20.7999992370605px;"><br />
-<strong>SP</strong></p>
-
-<p style="line-height: 20.7999992370605px;">Na capital paulista, come&ccedil;a a concentra&ccedil;&atilde;o com ao menos 15 mil pessoas para o ato no final desta tarde. Manifestantes se re&uacute;nem no Largo da Batata, regi&atilde;o oeste da cidade. Marcha deve prosseguir at&eacute; o Masp.</p>
-
-<p style="line-height: 20.7999992370605px;"><br />
-Durante a manh&atilde;, na cidade de Ribeir&atilde;o Preto, cerca de 400 Sem Terra do MST chegam em marcha na cidade ap&oacute;s tr&ecirc;s dias de caminha. Os Sem Terra sa&iacute;ram na ter&ccedil;a-feira (18) de Serrana. O ato na capital Paulista est&aacute; marcado para as 17h no Largo da Batata, em Pinheiros.</p>
-
-<p style="line-height: 20.7999992370605px;"><br />
-<strong>BA</strong></p>
-
-<p style="line-height: 20.7999992370605px;">Manifestantes em Salvador caminham pelas ruas do centro da capital baiana. Nas faixas e cartazes, palavras em defesa da democracia, contra a retirada de direitos sociais, al&eacute;m de manifesta&ccedil;&otilde;es contr&aacute;rias ao projeto do senador Jos&eacute; Serra (PSDB) que transfere os lucros do pr&eacute;-sal para multinacionais. Foto: S&iacute;lvio Medina Lopes</p>
-
-<p style="line-height: 20.7999992370605px;">Na Bahia, cerca de 6 mil pessoas j&aacute; se mobilizam nas cidades de Teixeira de Freitas, Eun&aacute;polis e Porto Seguro. Em Salvador a concentra&ccedil;&atilde;o est&aacute; marcada para as 12h.&nbsp;</p>
+Tamb&eacute;m tiveram mobiliza&ccedil;&otilde;es Pernambuco, Para&iacute;ba, Minas Gerais, Algoas, Rio Grande do Sul, Manaus, Par&aacute;, Paran&aacute;, Rio de Janeiro, Cear&aacute;, Bahia.</p>
 
 <p><br />
-<strong>PE</strong></p>
-
-<p>Em Caruaru cerca de 200 pessoas realizam manifesta&ccedil;&atilde;o no Marco Zero.<br />
-&nbsp;</p>
-
-<p><strong>PB</strong></p>
-
-<p>Mais de mil &nbsp;trabalhadores sa&iacute;ram de Jo&atilde;o Pessoa e marcham at&eacute;&nbsp;Campina Grande, terra do senador Cassio Cunha Lima (PSDB), que apoia o impeachment da presidenta Dilma Rousseff.</p>
+&ldquo;Queremos demonstrar para o conjunto da classe trabalhadora que se unirmos for&ccedil;as &eacute; poss&iacute;vel garantir uma pauta progressista&rdquo;, disse Jo&atilde;o Paulo Rodrigues, do MST.</p>
 
 <p><br />
-<strong>AL</strong></p>
-
-<p>Mais de dois mil trabalhadores tomam as ruas do centro de Macei&oacute;, capital alagoana, na manh&atilde; de&nbsp;hoje (20). Os manifestantes marcham em defesa da democracia e contra as medidas de ajuste fiscal que retiram direitos dos trabalhadores com a justificativa de sair da crise econ&ocirc;mica.</p>
+O presidente da CUT, Vagner Freitas, enfatizou que a manifesta&ccedil;&atilde;o defende um projeto nacional de desenvolvimento, com gera&ccedil;&atilde;o de empregos e renda e redu&ccedil;&atilde;o das desigualdades. &ldquo;Queremos respeito &agrave; democracia. Quem perdeu as elei&ccedil;&otilde;es tem de parar com esse neg&oacute;cio de terceiro turno e se preparar para 2018&rdquo;, afirmou Vagner.</p>
 
 <p><br />
-&quot;N&atilde;o aceitamos o plano Levy e agenda Renan! Estamos em luta para cobrar as reformas estruturais, a reforma agr&aacute;ria, reforma urbana, a democratiza&ccedil;&atilde;o da comunica&ccedil;&atilde;o, abaixar as taxas de juros, e n&atilde;o que a conta da crise seja lan&ccedil;ada nas costas dos trabalhadores&quot;, afirma Jos&eacute; Roberto da dire&ccedil;&atilde;o nacional do MST.&nbsp;</p>
+&ldquo;Mas n&atilde;o concordamos com essa pol&iacute;tica neoliberal nefasta para os trabalhadores. &Eacute; preciso taxar as grandes fortunas. Quem ganha mais que pague mais. Tamb&eacute;m n&atilde;o concordamos com enfrentar a infla&ccedil;&atilde;o com essa pol&iacute;tica de juros altos. O mercado n&atilde;o pensa nos trabalhadores&rdquo;, disse o presidente da CUT. &ldquo;Estamos aqui por reforma agr&aacute;ria, por uma reforma pol&iacute;tica que acabe com o financiamento empresarial de campanhas, por uma reforma tribut&aacute;ria que reduza as desigualdades e por uma reforma de m&iacute;dia que combata a concentra&ccedil;&atilde;o e o oligop&oacute;lio dos meios de comunica&ccedil;&atilde;o.&rdquo;</p>
 
 <p><br />
-<strong>PA</strong></p>
-
-<p>Na capital paraense, cerca de mil pessoas j&aacute; deram in&iacute;cio ao ato puxado por uma faixa que pede uma Constituinte Exclusiva e Soberana do Sistema Pol&iacute;tico. Os Manifestantes&nbsp;se reuniram no bairro Umarizal antes de sair em caminhada.</p>
-
-<p style="line-height: 20.7999992370605px;"><br />
-<strong>PR</strong></p>
-
-<p>Mais de 5 mil pessoas se juntam na capital. Os movimentos deram in&iacute;cio ao ato&nbsp;na Pra&ccedil;a Santos Andrade.</p>
+A &ldquo;indigna&ccedil;&atilde;o seletiva&rdquo; dos protestos de domingo passado foi observada por Guilherme Boulos, do MTST. &ldquo;Estamos aqui para recha&ccedil;ar esse moralismo seletivo de quem foi &agrave; Avenida Paulista dizer que &eacute; contra a corrup&ccedil;&atilde;o, mas aplaude Eduardo Cunha e A&eacute;cio Neves&rdquo;, disse, referindo-se ao presidente da C&acirc;mara, que acaba de ser denunciado pela Procuradoria-Geral da Rep&uacute;blica por crimes de corrup&ccedil;&atilde;o ativa e lavagem de dinheiro, e ao senador tucano e presidente do PSDB.</p>
 
 <p><br />
-<strong>RJ</strong></p>
-
-<p>Militantes do Movimento dos Trabalhadores Sem Teto (MTST) e do Psol marcham da Cinel&acirc;ndia para o pr&eacute;dio do Minist&eacute;rio da Fazenda. Eles criticam a pol&iacute;tica econ&ocirc;mica do governo federal, conduzida por Joaquim Levy, a Agenda Brasil, proposta por Renan Calheiros e a ofensiva conservadora da direita.</p>
+Cunha tamb&eacute;m foi alvo do discurso de Raimundo Bonfim, coordenador estadual da CMP: &ldquo;Estranho que o nome de um dos maiores corruptos do pa&iacute;s n&atilde;o foi visto em nenhum cartaz. Aquela elite que foi &agrave; Paulista domingo n&atilde;o quer acabar com a corrup&ccedil;&atilde;o, quer &eacute; acabar com os programas sociais&rdquo;.</p>
 
 <p><br />
-<strong>CE</strong></p>
+Boulos foi contundente tamb&eacute;m ao criticar o governo federal: &ldquo;N&oacute;s n&atilde;o estamos aqui para defender nenhum governo. Viemos tamb&eacute;m recha&ccedil;ar o ajuste fiscal que corta investimentos sociais, e essa Agenda Brasil&rdquo;, ressaltou, referindo-se a propostas apresentadas pelo presidente do Senado, Renan Calheiros (PMDB-AL).</p>
 
-<p>Em Fortaleza, os manifestantes protestam contra o ajusta fiscal e a favor da sa&iacute;da de Eduardo Cunha do Congresso tem in&iacute;cio no centro na capital cearense.</p>
+<p><br />
+A pretexto de instalar uma negocia&ccedil;&atilde;o que ponha fim &agrave; crise de governabilidade, Renan prop&otilde;e medidas como aprova&ccedil;&atilde;o do projeto que libera as terceiriza&ccedil;&otilde;es, a flexibiliza&ccedil;&atilde;o de regras para concess&atilde;o de licen&ccedil;a ambiental, a altera&ccedil;&atilde;o do tempo de contribui&ccedil;&atilde;o para aposentadorias, entre outras, que abrem caminho para novas privatiza&ccedil;&otilde;es e atacam as terras ind&iacute;genas. &ldquo;N&atilde;o aceitamos nenhum pacto sem povo. Isso &eacute; sa&iacute;da pela direita. E defendemos a sa&iacute;da pela esquerda. E ajuste fiscal no lombo dos ricos. Isso aqui &eacute; s&oacute; o come&ccedil;o.&rdquo;</p>
+
+<p><br />
+<em>*Com informa&ccedil;&otilde;es da RBA</em></p>
