@@ -7,7 +7,7 @@ tags:
   - tag: agricultura-camponesa
 images_hd: "http://farm6.staticflickr.com/5716/20573397379_9f30be4a9d_b.jpg"
 sector: null
-title: Estudantes realizam caminhada agroecológica em Assentamento o sul da Bahia
+title: Estudantes realizam caminhada agroecológica em Assentamento no sul da Bahia
 support_line: O objetivo foi aprofundar o debate da agroecologia nas escolas de assentamentos e acampamentos do MST entre a juventude Sem Terra.
 menu: agricultura camponesa
 layout: post
