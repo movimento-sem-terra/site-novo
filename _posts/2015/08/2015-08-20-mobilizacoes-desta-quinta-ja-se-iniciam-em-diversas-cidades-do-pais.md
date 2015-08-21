@@ -17,6 +17,12 @@ files:
     small: "http://farm6.staticflickr.com/5649/20746627415_d522198f5e_n.jpg"
     title: sp.jpg
     $$hashKey: 08M
+  - link: "http://farm6.staticflickr.com/5717/20558754640_026cc73480_b.jpg"
+    thumbnail: "http://farm6.staticflickr.com/5717/20558754640_026cc73480_t.jpg"
+    medium: "http://farm6.staticflickr.com/5717/20558754640_026cc73480_z.jpg"
+    small: "http://farm6.staticflickr.com/5717/20558754640_026cc73480_n.jpg"
+    title: sp2.jpg
+    $$hashKey: 0EN
 created_date: "2015-08-20T11:35:29-03:00"
 published: true
 releated_posts:
@@ -73,3 +79,6 @@ A pretexto de instalar uma negocia&ccedil;&atilde;o que ponha fim &agrave; crise
 
 <p><br />
 <em>*Com informa&ccedil;&otilde;es da RBA</em></p>
+
+<p><br />
+<img alt="sp2.jpg" src="http://farm6.staticflickr.com/5717/20558754640_026cc73480_b.jpg" /></p>
