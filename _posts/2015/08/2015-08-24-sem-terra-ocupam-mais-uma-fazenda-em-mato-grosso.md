@@ -33,7 +33,7 @@ releated_posts:
 Cerca de 150 fam&iacute;lias ocuparam na manh&atilde; desta segunda-feira (24) a Fazenda Vila Rica, no munic&iacute;pio de Rondon&oacute;polis (MT), a 200 km de Cuiab&aacute;. Al&eacute;m de ser improdutiva, a &aacute;rea est&aacute; sob investiga&ccedil;&atilde;o por suspeita de grilagem.&nbsp;</p>
 
 <p><br />
-Segundo Fia, da dire&ccedil;&atilde;o estadual do Movimento, os Sem Terra foram amea&ccedil;ados pelo dono da fazenda, que chegou acompanhado pela&nbsp;Pol&iacute;cia por volta das 6h&nbsp;no local.&nbsp;&nbsp;</p>
+Segundo Idalice Rodrigues Nunes, da dire&ccedil;&atilde;o estadual do MST, os Sem Terra foram amea&ccedil;ados pelo dono da fazenda, que chegou acompanhado pela&nbsp;Pol&iacute;cia por volta das 6h&nbsp;no local.&nbsp;&nbsp;</p>
 
 <p><br />
 &quot;O propriet&aacute;rio do terreno fez amea&ccedil;as diretas a todos n&oacute;s. Os policiais tentaram cont&ecirc;-lo, mas, ainda assim, as amea&ccedil;as persistiram. Ele se recusou a dizer seu nome, nossa inten&ccedil;&atilde;o era&nbsp;realizar um boletim de ocorr&ecirc;ncia para registrar o fato. De todo modo, j&aacute; entramos em contato com a Secret&aacute;ria de Direitos Humanos do estado para nos resguardar e,&nbsp;neste momento, estamos colhendo mais informa&ccedil;&otilde;es sobre o autor das amea&ccedil;as&quot;,&nbsp;contou.&nbsp;&nbsp;</p>
