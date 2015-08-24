@@ -33,8 +33,6 @@ releated_posts:
 <br />
 <em>Do Blog do&nbsp;Pedlowski</em></p>
 
-<p>&nbsp;</p>
-
 <p><br />
 O jornal ingl&ecirc;s &ldquo;The Guardian&rdquo; publicou hoje (23/08) uma extensa mat&eacute;ria sobre o conflito que coloca a popula&ccedil;&atilde;o das diversas ilhas que formam o estado do Hava&iacute;&nbsp;e tr&ecirc;s gigantes do setor agroqu&iacute;mico mundial (Syngenta, Dow, DuPont, Basf e Pioneer) por causa do uso intensivo de agrot&oacute;xicos e sementes geneticamente modificadas.</p>
 
