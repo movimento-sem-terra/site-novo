@@ -5,17 +5,23 @@ tags:
   - tag: reforma-política
   - tag: constituinte
 title: Movimentos debatem reforma do sistema político em Feira de Santana
-images_hd: "http://farm6.staticflickr.com/5815/20656883208_a2312cb527_b.jpg"
+images_hd: "http://farm1.staticflickr.com/626/20657420490_03557bd15e_b.jpg"
 support_line: "Os movimentos reafirmaram o compromisso de avançar com a pauta da construção de um novo projeto político para o país, seguindo em luta a favor da democracia e da reforma política."
 menu: projeto popular
 layout: post
 files:
-  - link: "http://farm6.staticflickr.com/5815/20656883208_a2312cb527_b.jpg"
-    thumbnail: "http://farm6.staticflickr.com/5815/20656883208_a2312cb527_t.jpg"
-    medium: "http://farm6.staticflickr.com/5815/20656883208_a2312cb527_z.jpg"
-    small: "http://farm6.staticflickr.com/5815/20656883208_a2312cb527_n.jpg"
+  - link: "http://farm1.staticflickr.com/759/20657414078_4a255c2e4a_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/759/20657414078_4a255c2e4a_t.jpg"
+    medium: "http://farm1.staticflickr.com/759/20657414078_4a255c2e4a_z.jpg"
+    small: "http://farm1.staticflickr.com/759/20657414078_4a255c2e4a_n.jpg"
     title: feiradesantana.jpg
-    $$hashKey: 0T7
+    $$hashKey: 04P
+  - link: "http://farm1.staticflickr.com/626/20657420490_03557bd15e_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/626/20657420490_03557bd15e_t.jpg"
+    medium: "http://farm1.staticflickr.com/626/20657420490_03557bd15e_z.jpg"
+    small: "http://farm1.staticflickr.com/626/20657420490_03557bd15e_n.jpg"
+    title: feiradesantana2.jpg
+    $$hashKey: 04Y
 created_date: "2015-08-24T11:19:23-03:00"
 published: true
 releated_posts:
@@ -30,7 +36,7 @@ releated_posts:
 ---
 <p>&nbsp;</p>
 
-<figure class="image" style="float:right"><img alt="feiradesantana.jpg" src="http://farm6.staticflickr.com/5815/20656883208_a2312cb527_b.jpg" />
+<figure class="image" style="float:right"><img alt="feiradesantana.jpg" src="http://farm1.staticflickr.com/759/20657414078_4a255c2e4a_b.jpg" />
 <figcaption></figcaption>
 </figure>
 
