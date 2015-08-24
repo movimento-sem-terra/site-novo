@@ -30,7 +30,13 @@ releated_posts:
 <em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Cerca de 150 fam&iacute;lias ocuparam na manh&atilde; desta segunda-feira (24) a Fazenda Vila Rica, no munic&iacute;pio de Rondon&oacute;polis (MT), a 200 km de Cuiab&aacute;.</p>
+Cerca de 150 fam&iacute;lias ocuparam na manh&atilde; desta segunda-feira (24) a Fazenda Vila Rica, no munic&iacute;pio de Rondon&oacute;polis (MT), a 200 km de Cuiab&aacute;. A &aacute;rea que &eacute; improdutiva est&aacute; sob investiga&ccedil;&atilde;o por suspeita de grilagem.&nbsp;</p>
+
+<p><br />
+Segundo Fia da dire&ccedil;&atilde;o estadual do Movimento, os Sem Terra foram amea&ccedil;ados pelo dono da fazenda que chegou acompanhado da Pol&iacute;cia por volta das 6h. da manh&atilde; no local.&nbsp;&nbsp;</p>
+
+<p><br />
+&quot;O propriet&aacute;rio do terreno fez amea&ccedil;as diretas a todos n&oacute;s. Os policiais tentaram cont&ecirc;-lo, mas, ainda assim, as amea&ccedil;as persistiram. Ele se recusou a dizer seu nome, nossa inten&ccedil;&atilde;o era&nbsp;realizar um boletim de ocorr&ecirc;ncia para registrar o fato. De todo modo, j&aacute; entramos em contato com a Secret&aacute;ria de Direitos Humanos do estado para nos resguardar e,&nbsp;neste momento, estamos colhendo mais informa&ccedil;&otilde;es sobre o autor das amea&ccedil;as&quot;,&nbsp;alerta.&nbsp;&nbsp;</p>
 
 <p><br />
 A dire&ccedil;&atilde;o estadual do MST ressalta que a ocupa&ccedil;&atilde;o reflete a alta concentra&ccedil;&atilde;o fundi&aacute;ria, a riqueza do Estado e o avan&ccedil;o do desemprego sobre os trabalhadores, e com isso &ldquo;a luta se torna necess&aacute;ria para que essas fam&iacute;lias tenham acesso &agrave; terra para produzir seu sustento&rdquo;, diz em nota.</p>
