@@ -88,13 +88,10 @@ Stedile afirma que, al&eacute;m da econ&ocirc;mica e pol&iacute;tica, o Brasil v
 <strong>Sa&iacute;das &agrave;s crises</strong></p>
 
 <p><br />
-O dirigente do MST apontou sa&iacute;das distintas defendidas por diferentes setores da sociedade para o enfrentamento das crises existentes no Brasil.</p>
+O dirigente do MST apontou sa&iacute;das distintas defendidas por diferentes setores da sociedade para o enfrentamento das crises existentes no Brasil<span style="line-height: 20.7999992370605px;">, que v&atilde;o desde &agrave; volta ao neoliberalismo, &agrave; tentativa de&nbsp;impeachment at&eacute; a constru&ccedil;&atilde;o de um programa unit&aacute;rio que avance econ&ocirc;mica, social e politicamente.</span></p>
 
 <p><br />
-A proposta da burguesia seria a retomada do neoliberalismo por meio da Agenda Brasil, o impeachment da presidente Dilma Rousseff, e a constru&ccedil;&atilde;o de um programa unit&aacute;rio que avance econ&ocirc;mica, social e politicamente.</p>
-
-<p><br />
-Essa proposta prev&ecirc; o realinhamento da economia brasileira &agrave; norte-americana, redu&ccedil;&atilde;o do papel do Estado e corte de custos de m&atilde;o de obra.</p>
+A proposta da burguesia seria a retomada do neoliberalismo por meio da Agenda Brasil.&nbsp;Essa proposta prev&ecirc; o realinhamento da economia brasileira &agrave; norte-americana, redu&ccedil;&atilde;o do papel do Estado e corte de custos de m&atilde;o de obra.</p>
 
 <p><br />
 &ldquo;A burguesia n&atilde;o pode fazer a disputa ideol&oacute;gica &agrave;s claras e dizer &agrave; sociedade que as suas propostas representam a retomada do neoliberalismo, isso porque esse programa j&aacute; foi derrotado quatro vezes nas elei&ccedil;&otilde;es. Ent&atilde;o ela tenta viabilizar o seu programa pelos espa&ccedil;os institucionais, onde t&ecirc;m hegemonia. A&iacute; essas propostas entram na pauta do Congresso Nacional e do Poder Judici&aacute;rio, inclusive, tentam influenciar no governo Dilma atrav&eacute;s de seus ministros burgueses, mudando o nome neoliberalismo para Agenda Brasil&rdquo;, acrescenta.</p>
