@@ -42,8 +42,6 @@ Segundo a coordena&ccedil;&atilde;o do Movimento, as terras onde est&atilde;o in
 <p><br />
 Por meio de medida liminar, a Uni&atilde;o pede que a Funda&ccedil;&atilde;o ABC deixe as terras por ter encerrado per&iacute;odo de comodato (quando h&aacute; um&nbsp;empr&eacute;stimo gratuito&nbsp;que deve ser restitu&iacute;da no tempo convencionado pelas partes).</p>
 
-<p>&nbsp;</p>
-
 <p><br />
 A ocupa&ccedil;&atilde;o da &aacute;rea pretende chamar aten&ccedil;&atilde;o do governo federal e exigir avan&ccedil;os na Reforma Agr&aacute;ria, que estaria &ldquo;completamente paralisada&rdquo;, segundo os Sem Terra.&nbsp;</p>
 
