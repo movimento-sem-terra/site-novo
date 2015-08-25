@@ -6,7 +6,7 @@ tags:
   - tag: maranhão
   - tag: grilagem
 title: Milícia armada invade acampamento do MST no Maranhão
-support_line: "Os homens fizeram trabalhadores de reféns e os ameaçaram de morte caso a área não seja desocupada. "
+support_line: Os homens fizeram trabalhadores de reféns e os ameaçaram de morte caso a área não fosse desocupada.
 menu: lutas e mobilizações
 images_hd: "http://farm1.staticflickr.com/593/20826488176_2153bc3c23_b.jpg"
 layout: post
