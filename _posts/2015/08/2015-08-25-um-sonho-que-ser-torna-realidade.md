@@ -61,15 +61,10 @@ Com isso, os trabalhadores est&atilde;o se organizando em 15 agrovilas, com dez 
 <p><br />
 Para os trabalhadores este momento representa os resultados da luta das&nbsp;milhares de &nbsp;pessoas que sonham com a Reforma Agr&aacute;ria.</p>
 
-<p>&nbsp;</p>
+<p><br />
+<strong>Hist&oacute;ria do assentamento</strong></p>
 
 <p>&nbsp;</p>
-
-<p><img alt="IMG_5960.jpg" height="466" src="http://farm1.staticflickr.com/673/20258845403_34b0c4b1b5_b.jpg" width="700" /></p>
-
-<p>&nbsp;</p>
-
-<p><strong>Hist&oacute;ria do assentamento</strong></p>
 
 <p>&nbsp;</p>
 
@@ -92,6 +87,12 @@ Despejadas, as fam&iacute;lias Sem Terra acamparam provisoriamente na &aacute;re
 
 <p><br />
 Em 05 de abril de 2008, as fam&iacute;lias ocuparam a fazenda Bela Manh&atilde;, com mais de 2 mil hectares, onde permaneceram acampadas at&eacute; os dias atuais.</p>
+
+<p>&nbsp;</p>
+
+<p><img alt="IMG_5960.jpg" height="466" src="http://farm1.staticflickr.com/673/20258845403_34b0c4b1b5_b.jpg" width="700" /></p>
+
+<p>&nbsp;</p>
 
 <p><br />
 <strong>&ldquo;Nunca pensei em desistir&rdquo;</strong></p>
