@@ -9,7 +9,7 @@ title: Dirigente do MST defende programa unitário para tirar país das crises
 support_line: "Durante congresso da CUT, em Porto Alegre, João Pedro Stedile apontou os principais desafios da classe trabalhadora na atual conjuntura."
 images_hd: "http://farm1.staticflickr.com/756/20223547744_0494650b3c_b.jpg"
 menu: projeto popular
-section: cover
+section: null
 layout: post
 files:
   - link: "http://farm1.staticflickr.com/756/20223547744_0494650b3c_b.jpg"
