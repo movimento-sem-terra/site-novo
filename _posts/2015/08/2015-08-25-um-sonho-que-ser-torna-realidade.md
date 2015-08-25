@@ -6,7 +6,7 @@ tags:
   - tag: reforma-agrária
   - tag: conquista
 title: Um sonho que ser torna realidade
-support_line: Sem Terra comemora destinação de área para Reforma Agrária na BA.
+support_line: Sem Terra comemoram destinação de área para Reforma Agrária na BA.
 images_hd: "http://farm6.staticflickr.com/5670/20691802610_acd7cc870f_b.jpg"
 menu: reforma agrária
 layout: post
