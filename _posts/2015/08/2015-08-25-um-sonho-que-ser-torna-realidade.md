@@ -5,7 +5,7 @@ tags:
   - tag: BAHIA
   - tag: reforma-agrária
   - tag: conquista
-title: Um sonho que se torna realidade; depois de oito anos Sem Terra conquistaram assentamento
+title: Um sonho que se torna realidade; depois de oito anos Sem Terra conquistam assentamento
 support_line: Sem Terra comemoram destinação de área para Reforma Agrária no extremo sul da Bahia.
 images_hd: "http://farm6.staticflickr.com/5670/20691802610_acd7cc870f_b.jpg"
 menu: reforma agrária
