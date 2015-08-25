@@ -15,6 +15,12 @@ files:
     small: "http://farm6.staticflickr.com/5715/20686475569_2df4433992_n.jpg"
     title: "ze_maria_canal!!.jpg"
     $$hashKey: 02U
+  - link: "http://farm1.staticflickr.com/590/20252251733_3013dbf6db_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/590/20252251733_3013dbf6db_t.jpg"
+    medium: "http://farm1.staticflickr.com/590/20252251733_3013dbf6db_z.jpg"
+    small: "http://farm1.staticflickr.com/590/20252251733_3013dbf6db_n.jpg"
+    title: "ze_maria_canal!.jpg"
+    $$hashKey: 0CU
 created_date: "2015-08-25T11:53:59-03:00"
 published: true
 releated_posts:
@@ -25,6 +31,10 @@ releated_posts:
   - 2015/04/2015-04-22-brasil-e-lider-em-violencia-no-campo-diz-ong.md
 
 ---
+<figure class="image" style="float:right"><img alt="ze_maria_canal!.jpg" src="http://farm1.staticflickr.com/590/20252251733_3013dbf6db_b.jpg" />
+<figcaption>Z&eacute; Maria foi assassinato com mais de 20 tiros.&nbsp;</figcaption>
+</figure>
+
 <p><br />
 <em>Da P&aacute;gina do MST*</em></p>
 
@@ -44,7 +54,7 @@ Al&eacute;m desses acusados, outros tr&ecirc;s estariam envolvidos na morte de Z
 Z&eacute; Maria do Tom&eacute; morreu em 21 de abril de 2010 com mais de 20 tiros, depois de denunciar as ilegalidades e viola&ccedil;&otilde;es de direitos cometidas pelas empresas do agroneg&oacute;cio instaladas na regi&atilde;o da Chapada do Apodi, como a grilagem de terras, polui&ccedil;&atilde;o das &aacute;guas e principalmente a pulveriza&ccedil;&atilde;o a&eacute;rea de agrot&oacute;xicos.</p>
 
 <p><br />
-<em>Hist&oacute;rico</em></p>
+<strong>Hist&oacute;rico</strong></p>
 
 <p><br />
 Jos&eacute; Maria Filho foi assassinado no dia 21 de abril de 2010, com mais de vinte tiros, &agrave; queima roupa, pr&oacute;ximo a sua resid&ecirc;ncia, na comunidade de Tom&eacute;, zona rural de Limoeiro do Norte (CE). Destacou-se na luta contra a pulveriza&ccedil;&atilde;o a&eacute;rea de agrot&oacute;xicos, na Chapada do Apodi, Cear&aacute;. Essa atividade, promovida por grandes empresas do agroneg&oacute;cio, causa a contamina&ccedil;&atilde;o da &aacute;gua, planta&ccedil;&otilde;es e solo das comunidades da regi&atilde;o. Al&eacute;m disso, provoca diversas doen&ccedil;as nos trabalhadores das empresas e moradores. Essas den&uacute;ncias encontraram repercuss&otilde;es em a&ccedil;&otilde;es judiciais, procedimentos do Minist&eacute;rio P&uacute;blico (Estadual, Federal e Trabalhista) e em in&uacute;meras pesquisas acad&ecirc;micas.</p>
