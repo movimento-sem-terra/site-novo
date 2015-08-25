@@ -66,8 +66,6 @@ N&atilde;o podemos pensar no processo de desenvolvimento sem essa base fundament
 
 <p><a href="http://www.mst.org.br/2015/08/12/congresso-debate-relacao-entre-educacao-do-campo-e-reforma-agraria.html"><strong>Congresso debate rela&ccedil;&atilde;o entre educa&ccedil;&atilde;o do campo e reforma agr&aacute;ria</strong></a></p>
 
-<p>&nbsp;</p>
-
 <p><br />
 Outro preceito importante que apregoo como professor que sou &ndash; desde 1979, leciono Direito na PUC-MG &ndash; &eacute; o combate &agrave; pobreza. N&atilde;o existe educa&ccedil;&atilde;o sem combate &agrave; pobreza. Crian&ccedil;a n&atilde;o aprende sem sa&uacute;de, sem alimenta&ccedil;&atilde;o, sem ter comida. E sa&uacute;de pressup&otilde;e o direito humano por alimenta&ccedil;&atilde;o adequada, com regularidade, quantidade, qualidade. Pressup&otilde;e &aacute;gua pot&aacute;vel, saneamento b&aacute;sico, moradia digna.</p>
 
