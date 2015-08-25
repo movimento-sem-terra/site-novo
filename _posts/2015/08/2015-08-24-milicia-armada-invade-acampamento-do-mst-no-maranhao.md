@@ -21,6 +21,7 @@ created_date: "2015-08-24T17:32:39-03:00"
 published: true
 releated_posts:
   - 2015/07/2015-07-10-apos-ocupar-terras-improdutivas-sem-terra-sao-ameacados-em-mg.md
+section: featured-news
 
 ---
 <p>&nbsp;</p>
@@ -28,9 +29,8 @@ releated_posts:
 <p><em>Por Reynaldo Costa<br />
 Da P&aacute;gina do MST</em></p>
 
-<div>&nbsp;</div>
-
-<p>Cerca de 20 homens fortemente armados&nbsp;invadiram na manh&atilde;&nbsp;desta segunda-feira&nbsp;(24)&nbsp;o acampamento Eg&iacute;dio Brunetto, em Amarante do Maranh&atilde;o.&nbsp;</p>
+<div><br />
+Cerca de 20 homens fortemente armados&nbsp;invadiram na manh&atilde;&nbsp;desta segunda-feira&nbsp;(24)&nbsp;o acampamento Eg&iacute;dio Brunetto, em Amarante do Maranh&atilde;o.&nbsp;</div>
 
 <p><br />
 Os homens fizeram trabalhadores de ref&eacute;ns amea&ccedil;ando-os de morte caso a &aacute;rea n&atilde;o fosse&nbsp;desocupada.</p>
