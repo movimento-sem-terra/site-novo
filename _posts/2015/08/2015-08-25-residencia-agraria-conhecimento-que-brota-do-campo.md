@@ -26,6 +26,7 @@ releated_posts:
   - 2015/08/2015-08-04-movimentos-populares-cobram-politicas-para-educacao-no-campo-na-alesp.md
   - 2015/07/2015-07-27-escolas-tem-papel-central-na-formacao-agroecologica-aponta-juventude.md
   - 2014/12/2014-11-21-camponeses-conquistam-curso-de-licenciatura-em-geografia-na-uft.md
+label: articles
 
 ---
 <p><img alt="residencia.jpg" src="http://farm1.staticflickr.com/614/20861287952_1f218b857e_b.jpg" /><br />
