@@ -30,39 +30,38 @@ Da P&aacute;gina do MST</em></p>
 
 <div>&nbsp;</div>
 
-<p>Cerca de 20 homens fortemente armados&nbsp;invadiram na manh&atilde;&nbsp;desta segunda-feira&nbsp;(24),&nbsp;&nbsp;o acampamento Eg&iacute;dio Brunetto, em Amarante do Maranh&atilde;o.&nbsp;</p>
+<p>Cerca de 20 homens fortemente armados&nbsp;invadiram na manh&atilde;&nbsp;desta segunda-feira&nbsp;(24)&nbsp;o acampamento Eg&iacute;dio Brunetto, em Amarante do Maranh&atilde;o.&nbsp;</p>
 
 <p><br />
-Os homens fizeram trabalhadores de ref&eacute;ns e&nbsp;os amea&ccedil;aram de morte caso a &aacute;rea n&atilde;o seja desocupada.</p>
+Os homens fizeram trabalhadores de ref&eacute;ns amea&ccedil;ando-os de morte caso a &aacute;rea n&atilde;o fosse&nbsp;desocupada.</p>
 
 <p><br />
-As informa&ccedil;&otilde;es d&atilde;o conta que durante todo o dia de ontem, domingo (23), sobre o comando de&nbsp;<span style="line-height: 1.6;">Eunice Murta, suposta propriet&aacute;ria da &aacute;rea, os milicianos rondaram toda a regi&atilde;o amedrontando comunidades vizinhas &agrave; ocupa&ccedil;&atilde;o.</span></p>
+As informa&ccedil;&otilde;es d&atilde;o conta que durante todo o dia deste domingo (23), sobre o comando da&nbsp;<span style="line-height: 20.7999992370605px;">suposta propriet&aacute;ria da &aacute;rea,&nbsp;</span><span style="line-height: 1.6;">Elenice Murta, os milicianos rondaram toda a regi&atilde;o amedrontando comunidades vizinhas &agrave; ocupa&ccedil;&atilde;o.</span></p>
 
 <p><br />
-O grupo armado definiu a pr&oacute;xima quarta-feira (01),&nbsp;como prazo limite para que as fam&iacute;lias desocuparem de forma &quot;volunt&aacute;ria&quot; e &quot;pacifica&quot; a &aacute;rea, sob&nbsp;a pena de serem retiradas &agrave; for&ccedil;a.</p>
+O grupo armado definiu a pr&oacute;xima quarta-feira (1)&nbsp;como prazo limite para que as fam&iacute;lias desocupassem de forma &quot;volunt&aacute;ria&quot; e &quot;pacifica&quot; a &aacute;rea, sob&nbsp;a pena de serem retiradas &agrave; for&ccedil;a.</p>
 
 <p><br />
-O Movimento dos Trabalhadores Rurais Sem Terra j&aacute; levou ao conhecimento da Secretaria de Seguran&ccedil;a Publica do Estado o ocorrido, e solicita a&ccedil;&atilde;o imediata do &oacute;rg&atilde;o a fim de evitar um conflito maior, j&aacute; que a mil&iacute;cia se encontra acampada na sede de uma fazenda vizinha a 10&nbsp;km da ocupa&ccedil;&atilde;o.</p>
+O MST j&aacute; levou o fato ao conhecimento da Secretaria de Seguran&ccedil;a P&uacute;blica do Estado, e solicita a&ccedil;&atilde;o imediata do &oacute;rg&atilde;o a fim de evitar um conflito maior, j&aacute; que a mil&iacute;cia se encontra acampada na sede de uma fazenda vizinha &agrave;&nbsp;10&nbsp;km da ocupa&ccedil;&atilde;o.</p>
 
 <p><br />
-Como parte dos acampados &eacute; do Munic&iacute;pio de A&ccedil;ail&acirc;ndia, alguns dos milicianos foram reconhecidos como Policiais Militares da 5&ordf; Companhia da PM-MA de A&ccedil;ail&acirc;ndia.</p>
+Como parte dos acampados &eacute; do munic&iacute;pio de A&ccedil;ail&acirc;ndia, alguns dos milicianos foram reconhecidos como Policiais Militares da 5&ordf; Companhia da PM-MA de A&ccedil;ail&acirc;ndia.</p>
+
+<p><br />
+<strong>Hist&oacute;rico da &aacute;rea&nbsp;</strong></p>
 
 <p>&nbsp;</p>
 
-<p><strong>Hist&oacute;rico da &aacute;rea&nbsp;</strong></p>
-
-<p>&nbsp;</p>
-
-<p>O Acampamento Eg&iacute;dio Brunetto est&aacute; localizado na&nbsp;Fazenda S&atilde;o Francisco, ocupada pelos Sem Terra&nbsp;no s&aacute;bado (15).</p>
+<p>O Acampamento Eg&iacute;dio Brunetto est&aacute; localizado na&nbsp;Fazenda S&atilde;o Francisco, ocupada pelos Sem Terra&nbsp;no &uacute;ltimo s&aacute;bado (15).</p>
 
 <p><br />
-A propriedade faz parte da Gleba Sitio Novo, onde outros oito grileiros se apropriaram&nbsp;da &aacute;rea que soma mais de dez&nbsp;mil hectares e que, segundo&nbsp;informa&ccedil;&otilde;es,&nbsp;do Instituto&nbsp;Nacional de Coloniza&ccedil;&atilde;o Agr&aacute;ria (Incra), s&atilde;o &aacute;reas pertencentes &agrave;&nbsp;Uni&atilde;o Federal.</p>
+A propriedade faz parte da Gleba Sitio Novo, onde outros oito grileiros se apropriaram&nbsp;da &aacute;rea que soma mais de 10 mil hectares, e que, segundo&nbsp;informa&ccedil;&otilde;es&nbsp;do Instituto&nbsp;Nacional de Coloniza&ccedil;&atilde;o Agr&aacute;ria (Incra), s&atilde;o &aacute;reas pertencentes &agrave;&nbsp;Uni&atilde;o Federal.</p>
 
 <p><br />
 A Gleba atinge cerca de cinco munic&iacute;pios&nbsp;e se consolida como uma regi&atilde;o onde impera o trabalho escravo e a pistolagem moderna, ou seja,&nbsp;<span style="line-height: 20.7999992370605px;">substitu&iacute;ram os &ldquo;jagun&ccedil;os&rdquo; por mil&iacute;cias armadas preparadas para aterrorizar comunidades rurais na regi&atilde;o.</span>&nbsp;</p>
 
 <p><br />
-A coordena&ccedil;&atilde;o estadual do MST afirma em nota que se trata da mesma articula&ccedil;&atilde;o, que aterroriza h&aacute; oito anos as comunidades Cip&oacute; Cortado e Batata da Terra em senador La Roque, um dos munic&iacute;pios da regi&atilde;o abrangida pela Gleba.</p>
+A coordena&ccedil;&atilde;o estadual do MST afirma em nota que se trata da mesma articula&ccedil;&atilde;o&nbsp;que aterroriza h&aacute; oito anos as comunidades Cip&oacute; Cortado e Batata da Terra, em senador La Roque, um dos munic&iacute;pios da regi&atilde;o que abrange&nbsp;a Gleba.</p>
 
 <p><br />
 Os Sem Terra aguardam um&nbsp;posicionamento do Incra&nbsp;e do Terra Legal sobre situa&ccedil;&atilde;o na regi&atilde;o do acampamento Eg&iacute;dio Brunetto.</p>
