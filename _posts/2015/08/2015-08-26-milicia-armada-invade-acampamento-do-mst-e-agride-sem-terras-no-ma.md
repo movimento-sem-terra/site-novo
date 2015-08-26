@@ -39,7 +39,7 @@ As primeiras informa&ccedil;&otilde;es d&atilde;o conta de que a mil&iacute;cia 
 
 <p>&nbsp;</p>
 
-<p>Segundo Luiz Antonio da dire&ccedil;&atilde;o estadual do MST, &quot;os trabalhadores foram feitos ref&eacute;ns e alguns espancados. Os barracos foram&nbsp;incendiados e parte do acampamento destru&iacute;do&quot;.</p>
+<p>Segundo a dire&ccedil;&atilde;o estadual do MST, &quot;os trabalhadores foram feitos ref&eacute;ns e alguns espancados. Os barracos foram&nbsp;incendiados e parte do acampamento destru&iacute;do&quot;.</p>
 
 <p><br />
 <span style="line-height: 20.7999992370605px;">H&aacute; ainda dois Sem Terra que desaparecem ap&oacute;s o ataque</span></p>
