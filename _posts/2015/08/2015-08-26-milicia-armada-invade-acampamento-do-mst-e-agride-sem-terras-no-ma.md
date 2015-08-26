@@ -5,7 +5,7 @@ tags:
   - tag: maranhão
   - tag: denuncía
   - tag: milícia
-title: Milícia armada invade acampamento do MST e agride Sem Terras no MA
+title: Milícia armada invade acampamento do MST e agride Sem Terra no MA
 support_line: "Cerca de 20 homens fizeram os trabalhadores de reféns e incendiaram parte dos barracos. "
 menu: direitos humanos
 section: cover
