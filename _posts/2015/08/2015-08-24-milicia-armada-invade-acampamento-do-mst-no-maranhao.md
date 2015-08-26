@@ -21,7 +21,7 @@ created_date: "2015-08-24T17:32:39-03:00"
 published: true
 releated_posts:
   - 2015/07/2015-07-10-apos-ocupar-terras-improdutivas-sem-terra-sao-ameacados-em-mg.md
-section: featured-news
+section: null
 
 ---
 <p>&nbsp;</p>
