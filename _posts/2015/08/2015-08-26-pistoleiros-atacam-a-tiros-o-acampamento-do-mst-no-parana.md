@@ -5,7 +5,7 @@ tags:
   - tag: reforma-agrária
   - tag: latifundio
   - tag: paraná
-title: "Pistoleiros atacam a tiros o acampamento do MST no Paraná "
+title: "Pistoleiros atacam a tiros acampamento do MST no Paraná "
 images_hd: "http://farm1.staticflickr.com/619/20912097391_908a478db1_b.jpg"
 menu: "educação, cultura e comunicação"
 support_line: "Homens armados dispararam mais de 30 tiros contra contra os trabalhadores. "
@@ -82,7 +82,7 @@ Os Sem Terra fizeram o boletim de ocorr&ecirc;ncia e aguardam apura&ccedil;&atil
 
 <p style="box-sizing: inherit; margin: 0px 0px 11px; font-size: 1.1em; color: rgb(85, 85, 85); font-family: 'Exo 2', Helvetica, Arial, sans-serif;"><a href="http://www.mst.org.br/2015/07/21/durmam-de-botina-a-historia-de-um-acampamento-sem-terra-no-parana.html" style="box-sizing: inherit; color: rgb(0, 100, 0); text-decoration: none;"><font color="#006400"><span style="box-sizing: inherit;">Conhe&ccedil;a a hist&oacute;ria do&nbsp;</span></font><span style="box-sizing: inherit; color: rgb(0, 100, 0); text-decoration: none; line-height: 20.7999992370605px;">Acampamento Herdeiros da Terra de 1&deg; Maio</span></a></p>
 
-<p><img alt="11937037_931167126950313_139750292047640477_o (1).jpg" src="http://farm1.staticflickr.com/748/20282211784_1431284217_b.jpg" /></p>
+<p>&nbsp;</p>
 
 <p>&nbsp;</p>
 
