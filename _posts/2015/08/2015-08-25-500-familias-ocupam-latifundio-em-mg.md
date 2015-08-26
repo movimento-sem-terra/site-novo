@@ -34,7 +34,7 @@ sector: mass-front
 <em>Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
-Cerca de 500 fam&iacute;lias montaram na manh&atilde; desta ter&ccedil;a-feira (25)&nbsp;o acampamento Princesa do Almerana, no Vale do Jequitinhonha, nordeste de Minas Gerais.&nbsp;</p>
+Cerca de 500 fam&iacute;lias montaram na manh&atilde; desta ter&ccedil;a-feira (25), em uma &aacute;rea abandonada de <span style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8000001907349px; line-height: normal;">731 hectares,&nbsp;</span>o acampamento Princesa Vale, em Almenara, no Vale do Jequitinhonha, nordeste de Minas Gerais.&nbsp;</p>
 
 <p><br />
 Al&eacute;m do assentamento imediato das mais de seis mil fam&iacute;lias acampadas em 42 latif&uacute;ndios da regi&atilde;o, os Sem Terra denunciam as m&aacute;s condi&ccedil;&otilde;es nos assentamentos, h&aacute; quase seis anos sem assist&ecirc;ncia t&eacute;cnica.&nbsp;</p>
