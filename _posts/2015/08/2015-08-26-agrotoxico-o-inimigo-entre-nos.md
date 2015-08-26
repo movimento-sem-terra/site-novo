@@ -8,7 +8,7 @@ tags:
 title: "Agrotóxico: o inimigo entre nós"
 support_line: Seminário promovido pelo IHU e PPG em Saúde Coletiva da Unisinos evidenciou o impacto do uso de agrotóxicos no ambiente e toda a lógica que sustenta o sistema apoiado no agronegócio.
 menu: agronegócio
-images_hd: "http://farm6.staticflickr.com/5723/20274867894_914b2cc889_b.jpg"
+images_hd: "http://farm1.staticflickr.com/752/20709597818_e9f186e590_b.jpg"
 layout: post
 files:
   - link: "http://farm6.staticflickr.com/5723/20274867894_914b2cc889_b.jpg"
@@ -29,6 +29,12 @@ files:
     small: "http://farm1.staticflickr.com/764/20887783642_4dbfbba7bb_n.jpg"
     title: mel.jpg
     $$hashKey: 02P
+  - link: "http://farm1.staticflickr.com/752/20709597818_e9f186e590_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/752/20709597818_e9f186e590_t.jpg"
+    medium: "http://farm1.staticflickr.com/752/20709597818_e9f186e590_z.jpg"
+    small: "http://farm1.staticflickr.com/752/20709597818_e9f186e590_n.jpg"
+    title: agrotoxico.jpeg
+    $$hashKey: 0GA
 created_date: "2015-08-26T09:39:53-03:00"
 published: true
 releated_posts:
@@ -41,7 +47,7 @@ releated_posts:
   - 2014/07/2014-07-17-vegetais-organicos-contem-60-mais-antioxidantes-do-que-com-agrotoxicos.md
 
 ---
-<p><br />
+<p><img alt="agrotoxico.jpeg" src="http://farm1.staticflickr.com/752/20709597818_e9f186e590_b.jpg" /><br />
 <br />
 <em><span style="line-height: 20.7999992370605px;">Por Jo&atilde;o Vitor Santos&nbsp;</span><br />
 Da IHU-Online</em></p>
