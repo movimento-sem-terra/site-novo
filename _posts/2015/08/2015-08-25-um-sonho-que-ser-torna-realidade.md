@@ -40,7 +40,7 @@ releated_posts:
   - 2015/07/2015-07-31-mais-um-grande-latifundio-e-ocupado-por-sem-terras-no-extremo-sul-da-bahia.md
   - 2015/08/2015-08-21-cerca-de-mil-familias-ocupam-fazenda-em-casa-verde-no-ms.md
   - 2015/08/2015-08-22-sem-terra-ocupam-latifundio-de-antigo-barao-de-cafe-em-londrina.md
-section: cover
+section: featured-news
 
 ---
 <p><img alt="IMG_5973.jpg" src="http://farm6.staticflickr.com/5670/20691802610_acd7cc870f_b.jpg" /></p>
