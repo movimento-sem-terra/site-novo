@@ -4,7 +4,7 @@ tags:
   - tag: ocupação
   - tag: minas-gerais
   - tag: reforma-agrária
-images_hd: "http://farm6.staticflickr.com/5834/20847223886_f0d3d39b69_b.jpg"
+images_hd: "http://farm6.staticflickr.com/5820/20735903040_da95286acf_b.jpg"
 title: "Com 7° latifúndio ocupado em duas semanas, Sem Terra aumentam a luta pela terra em todo país"
 menu: lutas e mobilizações
 support_line: "Nesta terça cerca de 500 famílias montaram o acampamento Princesa do Vale, no Vale do Jequitinhonha, nordeste de Minas Gerais."
@@ -16,6 +16,18 @@ files:
     small: "http://farm6.staticflickr.com/5834/20847223886_f0d3d39b69_n.jpg"
     title: minas_ocupação.jpg
     $$hashKey: 02U
+  - link: "http://farm6.staticflickr.com/5820/20735903040_da95286acf_b.jpg"
+    thumbnail: "http://farm6.staticflickr.com/5820/20735903040_da95286acf_t.jpg"
+    medium: "http://farm6.staticflickr.com/5820/20735903040_da95286acf_z.jpg"
+    small: "http://farm6.staticflickr.com/5820/20735903040_da95286acf_n.jpg"
+    title: Pricesa do Vale.JPG
+    $$hashKey: 0X6
+  - link: "http://farm1.staticflickr.com/617/20897675646_d57f459554_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/617/20897675646_d57f459554_t.jpg"
+    medium: "http://farm1.staticflickr.com/617/20897675646_d57f459554_z.jpg"
+    small: "http://farm1.staticflickr.com/617/20897675646_d57f459554_n.jpg"
+    title: Pricesa do Vale-4.JPG
+    $$hashKey: 0X9
 created_date: "2015-08-25T12:08:33-03:00"
 published: true
 releated_posts:
@@ -29,15 +41,13 @@ sector: mass-front
 section: featured-news
 
 ---
-<p>&nbsp;</p>
+<p><img alt="Pricesa do Vale.JPG" src="http://farm6.staticflickr.com/5820/20735903040_da95286acf_b.jpg" /></p>
 
 <p><br />
 <em>Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
 Cerca de 500 fam&iacute;lias montaram na manh&atilde; desta ter&ccedil;a-feira (25), em uma &aacute;rea abandonada de 731 hectares, o acampamento Princesa Vale, em Almenara, no Vale do Jequitinhonha, nordeste de Minas Gerais.&nbsp;</p>
-
-<p>&nbsp;</p>
 
 <p><br />
 Al&eacute;m do assentamento imediato das mais de seis mil fam&iacute;lias acampadas em 42 latif&uacute;ndios da regi&atilde;o, os Sem Terra denunciam as m&aacute;s condi&ccedil;&otilde;es nos assentamentos, h&aacute; quase seis anos sem assist&ecirc;ncia t&eacute;cnica.&nbsp;</p>
@@ -52,7 +62,13 @@ Silvio ressalta as contradi&ccedil;&otilde;es enfrentadas no estado de mineiro q
 &ldquo;O n&uacute;mero de pessoas que se juntam o Movimento s&oacute; tem aumentado nos &uacute;ltimos meses. Isso mostra a urg&ecirc;ncia do plano de Reforma Agr&aacute;ria Popular. Essa &eacute; uma luta leg&iacute;tima que a cada dia ganha mais adeptos em todo pa&iacute;s&rdquo;, finaliza.</p>
 
 <p><br />
-<strong>Aumento das ocupa&ccedil;&otilde;es</strong></p>
+&nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="Pricesa do Vale-4.JPG" src="http://farm1.staticflickr.com/617/20897675646_d57f459554_b.jpg" />
+<figcaption></figcaption>
+</figure>
+
+<p><strong>Aumento das ocupa&ccedil;&otilde;es</strong></p>
 
 <p><br />
 O aumento no n&uacute;mero de ocupa&ccedil;&otilde;es n&atilde;o se d&aacute; apenas no estado de Minas Gerais, como observa Silvia Neto. Apenas nas duas &uacute;ltimas semanas Sem Terra de outros estados ocuparam ao menos sete latif&uacute;ndios pelo Brasil.</p>
