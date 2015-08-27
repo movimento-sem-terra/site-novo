@@ -47,7 +47,6 @@ releated_posts:
 <em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Educadores mineiros se preparam para o II Encontro Nacional de Educadores da Reforma Agr&aacute;ria<br />
 Os construtores da educa&ccedil;&atilde;o do campo no MST de Minas Gerais iniciaram nesta quinta-feira (27), o 6&deg; Encontro Estadual dos Educadores da Reforma Agr&aacute;ria (EEERA), no Centro de Forma&ccedil;&atilde;o Francisca Veras, em Governador Valadares.&nbsp;</p>
 
 <p><br />
@@ -56,16 +55,17 @@ Durante tr&ecirc;s dias representantes de escolas do campo e do setor de educa&c
 <p><br />
 Atualmente, o estado de Minas Gerais conta com 17 escolas do Movimento, e o desafio para o pr&oacute;ximo per&iacute;odo &eacute; dobrar este n&uacute;mero, al&eacute;m de articular junto a diversas institui&ccedil;&otilde;es de ensino projetos para erradicar o analfabetismo nas &aacute;reas de acampamento e assentamento.&nbsp;</p>
 
-<p>&nbsp;</p>
+<p><br />
+O 6&deg; EEERA representa um momento de retomada e rearticula&ccedil;&atilde;o do setor de educa&ccedil;&atilde;o, direcionando seus princ&iacute;pios de estudo, trabalho e produ&ccedil;&atilde;o para a Reforma Agr&aacute;ria Popular, entendendo a escola como uma possibilidade de instrumento de transforma&ccedil;&atilde;o humana na gera&ccedil;&atilde;o de novas formas de sociabilidade e de organiza&ccedil;&atilde;o da vida no mundo.</p>
+
+<p><br />
+&nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="EEERA2.jpg" src="http://farm1.staticflickr.com/564/20745591788_e7821cbf42_b.jpg" />
 <figcaption></figcaption>
 </figure>
 
-<p>O 6&deg; EEERA representa um momento de retomada e rearticula&ccedil;&atilde;o do setor de educa&ccedil;&atilde;o, direcionando seus princ&iacute;pios de estudo, trabalho e produ&ccedil;&atilde;o para a Reforma Agr&aacute;ria Popular, entendendo a escola como uma possibilidade de instrumento de transforma&ccedil;&atilde;o humana na gera&ccedil;&atilde;o de novas formas de sociabilidade e de organiza&ccedil;&atilde;o da vida no mundo.</p>
-
-<p><br />
-<strong>Educa&ccedil;&atilde;o em Minas Gerais</strong></p>
+<p><strong>Educa&ccedil;&atilde;o em Minas Gerais</strong></p>
 
 <p><br />
 Em Minas Gerais, a luta por educa&ccedil;&atilde;o come&ccedil;ou desde a primeira ocupa&ccedil;&atilde;o &nbsp;no estado, com a entrada na fazenda Aruega, no munic&iacute;pio de Novo Cruzeiro.&nbsp;</p>
