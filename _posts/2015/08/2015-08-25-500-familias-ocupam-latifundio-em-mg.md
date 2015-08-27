@@ -26,6 +26,7 @@ releated_posts:
   - 2015/08/2015-08-24-sem-terra-ocupam-mais-uma-fazenda-em-mato-grosso.md
   - 2015/08/2015-08-24-mst-ocupa-terra-da-uniao-utilizada-pela-fundacao-abc-no-parana.md
 sector: mass-front
+section: featured-news
 
 ---
 <p><img alt="minas_ocupação.jpg" src="http://farm6.staticflickr.com/5834/20847223886_f0d3d39b69_b.jpg" /></p>
