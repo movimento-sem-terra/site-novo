@@ -6,8 +6,8 @@ tags:
   - tag: memória
   - tag: lutas-populares
   - tag: democracia
-title: Ato em defesa da construção do memorial Jango é realizado no DF
-support_line: "Para Alexandre Conceição, da coordenação nacional do MST, esse tipo de ação é um atentado contra a memória do povo brasileiro. "
+title: "Ato em defesa da construção do memorial Jango é realizado em Brasília "
+support_line: "Para defensores da obra, recusa do governo do DF é um atentado à memoria do povo brasileiro. "
 menu: lutas e mobilizações
 images_hd: "http://farm6.staticflickr.com/5658/20718851239_c558538cc8_b.jpg"
 layout: post
