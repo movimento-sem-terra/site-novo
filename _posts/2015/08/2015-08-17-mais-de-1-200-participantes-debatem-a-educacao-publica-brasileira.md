@@ -73,6 +73,10 @@ Abaixo, confira diversas entrevistas, artigos e reportagens que trazem o debate 
 <p><br />
 <strong>Leia mais:</strong></p>
 
+<p><strong><a href="http://www.mst.org.br/2015/08/17/mais-de-1-200-participantes-debatem-a-educacao-publica-brasileira.html">Semin&aacute;rio debate rumos da pol&iacute;tica educacional e o papel da educa&ccedil;&atilde;o na reforma agr&aacute;ria</a></strong></p>
+
+<p>&nbsp;</p>
+
 <p><strong><a href="http://www.mst.org.br/2015/05/20/educacao-no-campo-a-estrategia-dos-usurpadores.html">Educa&ccedil;&atilde;o no campo: a estrat&eacute;gia dos usurpadores</a></strong></p>
 
 <p><strong><a href="http://www.mst.org.br/2015/07/20/educadores-de-todo-mundo-denunciam-a-unesco-a-mercantilizacao-da-educacao.html">Educadores de todo mundo denunciam &agrave; UNESCO a mercantiliza&ccedil;&atilde;o da educa&ccedil;&atilde;o</a></strong></p>
