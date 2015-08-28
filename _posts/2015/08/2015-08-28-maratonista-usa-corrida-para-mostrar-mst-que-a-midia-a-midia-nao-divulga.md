@@ -3,7 +3,7 @@ date: "2015-08-28T09:32:42-03:00"
 tags:
   - tag: cultura
   - tag: reforma-agrária
-title: Maratonista usa corrida para mostrar MST que a mídia a mídia não divulga
+title: Maratonista usa corrida para mostrar MST que a mídia não divulga
 images_hd: "http://farm6.staticflickr.com/5685/20923794946_e8756fe8fc_b.jpg"
 menu: "educação, cultura e comunicação"
 support_line: "O jornalista Rodolfo Lucena sairá de Petrolina e vai percorrer assentamentos distribuídos às margens do rio São Francisco, ao largo da Estrada da Reforma Agrária."
@@ -32,8 +32,7 @@ releated_posts:
   - 2015/08/2015-08-25-um-sonho-que-ser-torna-realidade.md
 
 ---
-<p><br />
-&nbsp;</p>
+<p>&nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="Rodolfo-Lucena_Div-Eleonara-de-Lucena!.jpg" src="http://farm6.staticflickr.com/5685/20923794946_e8756fe8fc_b.jpg" />
 <figcaption></figcaption>
