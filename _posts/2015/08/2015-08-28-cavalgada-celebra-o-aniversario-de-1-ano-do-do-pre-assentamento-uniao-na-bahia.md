@@ -4,7 +4,7 @@ tags:
   - tag: cultura
   - tag: bahia
   - tag: reforma-agrária
-title: "Cavalgada celebra o aniversário de 1 ano do do Pré Assentamento União, na Bahia"
+title: "Cavalgada celebra o aniversário de 1 ano do Pré Assentamento União, na Bahia"
 images_hd: "http://farm6.staticflickr.com/5748/20765126310_5c440ff200_b.jpg"
 sector: culture
 support_line: "O espaço foi construído pelos trabalhadores e trabalhadoras pré assentadas junto com o grupo de vizinhos, buscando parcerias com os povoados. "
@@ -17,6 +17,12 @@ files:
     small: "http://farm6.staticflickr.com/5748/20765126310_5c440ff200_n.jpg"
     title: cavalgada.jpg
     $$hashKey: 0V3
+  - link: "http://farm1.staticflickr.com/580/20947398892_020b7ae8c9_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/580/20947398892_020b7ae8c9_t.jpg"
+    medium: "http://farm1.staticflickr.com/580/20947398892_020b7ae8c9_z.jpg"
+    small: "http://farm1.staticflickr.com/580/20947398892_020b7ae8c9_n.jpg"
+    title: "cavalgada!.jpg"
+    $$hashKey: 0Z1
 created_date: "2015-08-28T12:27:24-03:00"
 published: true
 releated_posts:
@@ -28,8 +34,13 @@ releated_posts:
   - 2015/08/2015-08-25-um-sonho-que-ser-torna-realidade.md
 
 ---
-<p><br />
-<em>Do&nbsp;Coletivo de Comunica&ccedil;&atilde;o do MST da&nbsp;Bahia<br />
+<p>&nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="cavalgada!.jpg" src="http://farm1.staticflickr.com/580/20947398892_020b7ae8c9_b.jpg" />
+<figcaption></figcaption>
+</figure>
+
+<p><em>Do&nbsp;Coletivo de Comunica&ccedil;&atilde;o do MST da&nbsp;Bahia<br />
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
