@@ -8,7 +8,7 @@ tags:
 title: Milícia armada invade acampamento do MST e agride Sem Terra no MA
 support_line: "Cerca de 20 homens fizeram os trabalhadores de reféns e incendiaram parte dos barracos. "
 menu: direitos humanos
-section: cover
+section: null
 images_hd: "http://farm1.staticflickr.com/696/20713370128_42b7d5dbc7_b.jpg"
 layout: post
 files:
@@ -30,9 +30,8 @@ releated_posts:
 
 <p><em>Da P&aacute;gina do MST</em></p>
 
-<p>&nbsp;</p>
-
-<p>Na manh&atilde; desta quarta-feira (26), cerca de&nbsp;20 homens armado atacaram&nbsp;o acampamento Egidio Brunetto, em Amarante do Maranh&atilde;o.&nbsp;</p>
+<p><br />
+Na manh&atilde; desta quarta-feira (26), cerca de&nbsp;20 homens armado atacaram&nbsp;o acampamento Egidio Brunetto, em Amarante do Maranh&atilde;o.&nbsp;</p>
 
 <p><br />
 As primeiras informa&ccedil;&otilde;es d&atilde;o conta de que a mil&iacute;cia &eacute; comandada&nbsp;por Elenice Murta, propriet&aacute;ria da &aacute;rea e por outros fazendeiros da regi&atilde;o.</p>
@@ -53,17 +52,11 @@ O Movimento j&aacute; entrou em contato com a Secret&aacute;ria de Seguran&ccedi
 <p><br />
 At&eacute; o momento n&atilde;o h&aacute; a informa&ccedil;&atilde;o sobre feridos.&nbsp;</p>
 
-<p>&nbsp;</p>
+<p><br />
+<strong>Hist&oacute;rico da &aacute;rea&nbsp;</strong></p>
 
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p><strong>Hist&oacute;rico da &aacute;rea&nbsp;</strong></p>
-
-<p>&nbsp;</p>
-
-<p>O Acampamento Eg&iacute;dio Brunetto est&aacute; localizado na Fazenda S&atilde;o Francisco, ocupada pelos Sem Terra no &uacute;ltimo s&aacute;bado (15).</p>
+<p><br />
+O Acampamento Eg&iacute;dio Brunetto est&aacute; localizado na Fazenda S&atilde;o Francisco, ocupada pelos Sem Terra no &uacute;ltimo s&aacute;bado (15).</p>
 
 <p><br />
 A propriedade faz parte da Gleba Sitio Novo, onde outros oito grileiros se apropriaram da &aacute;rea que soma mais de 10 mil hectares, e que, segundo informa&ccedil;&otilde;es do Instituto Nacional de Coloniza&ccedil;&atilde;o Agr&aacute;ria (Incra), s&atilde;o &aacute;reas pertencentes &agrave; Uni&atilde;o Federal.</p>
