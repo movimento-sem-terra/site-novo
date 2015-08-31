@@ -5,7 +5,7 @@ tags:
   - tag: direitos-humanos
   - tag: despejo
   - tag: mato-grosso
-title: Acampamento em Mato Grosso é alvo de despejo; dois vereadores foram detidos
+title: Acampamento em MT é alvo de despejo; dois vereadores foram detidos
 support_line: Policias da cavalaria e helicópteros estão no local e dois vereadores foram detidos em despejo de área do MST.
 menu: direitos humanos
 images_hd: "http://farm1.staticflickr.com/761/20416503113_c83af597f9_b.jpg"
