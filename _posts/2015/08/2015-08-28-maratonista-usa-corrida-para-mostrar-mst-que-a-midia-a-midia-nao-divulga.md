@@ -7,7 +7,7 @@ title: Maratonista usa corrida para mostrar MST que a mídia não divulga
 images_hd: "http://farm6.staticflickr.com/5685/20923794946_e8756fe8fc_b.jpg"
 menu: "educação, cultura e comunicação"
 support_line: "O jornalista Rodolfo Lucena sairá de Petrolina e vai percorrer assentamentos distribuídos às margens do rio São Francisco, ao largo da Estrada da Reforma Agrária."
-section: cover
+section: null
 layout: post
 files:
   - link: "http://farm6.staticflickr.com/5685/20923794946_e8756fe8fc_b.jpg"
