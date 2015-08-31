@@ -5,8 +5,8 @@ tags:
   - tag: reforma-agrária
   - tag: rio-grande-do-sul
 menu: "educação, cultura e comunicação"
-title: Acampados recebem atividades culturais no RS
-support_line: "Coletivo de Cultura levou grupos teatrais ao acampamento Dom Tomás Balduino, em Tapes\n"
+title: "Com arte e cultura, acampados mostram que a luta também é feita de amor, fé e união"
+support_line: "Coletivo de Cultura levou grupos teatrais ao acampamento Dom Tomás Balduino, em Tapes, no Rio Grande do Sul."
 images_hd: "http://farm1.staticflickr.com/636/20851621198_b8a0c7888e_b.jpg"
 sector: culture
 layout: post
