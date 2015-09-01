@@ -50,7 +50,7 @@ releated_posts:
   - 2015/08/2015-08-26-pistoleiros-atacam-a-tiros-o-acampamento-do-mst-no-parana.md
   - 2015/08/2015-08-14-para-mst-pl-antiterrorismo-e-absurdo-e-pedira-veto-em-reuniao-com-dilma.md
   - 2015/05/2015-05-06-de-tijolo-em-tijolo-sem-terra-construiram-a-primeira-escola-do-campo.md
-section: cover
+section: null
 
 ---
 <p>&nbsp;</p>
