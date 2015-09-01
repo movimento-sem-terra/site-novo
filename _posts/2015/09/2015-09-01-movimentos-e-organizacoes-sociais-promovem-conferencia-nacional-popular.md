@@ -5,7 +5,7 @@ tags:
   - tag: frente-brasil-popular
   - tag: movimentos-populares
   - tag: projeto-popular
-title: Movimentos e organizações sociais promovem Conferência Nacional Popular
+title: Movimentos realizam conferência para lançar a Frente Brasil Popular
 support_line: "A Frente Brasil Popular quer debater a nova agenda de lutas progressistas; entre os eixos da plataforma política estão a defesa dos direitos sociais do povo brasileiro, da democracia e da soberania nacional."
 menu: projeto popular
 section: cover
