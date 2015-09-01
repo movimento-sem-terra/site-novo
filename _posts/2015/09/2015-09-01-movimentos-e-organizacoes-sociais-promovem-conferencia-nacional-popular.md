@@ -42,7 +42,7 @@ releated_posts:
 <p><em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Nos &uacute;ltimos meses, diversos movimentos populares, centrais sindicais, e partidos pol&iacute;ticos buscam construir uma frente ampla na sociedade que aglutine diversas for&ccedil;as sociais em torno de um projeto para o Brasil.</p>
+Nos &uacute;ltimos meses, diversos movimentos populares, centrais sindicais, intelectuais e partidos pol&iacute;ticos buscam construir uma frente ampla na sociedade que aglutine diversas for&ccedil;as sociais em torno de um projeto para o Brasil.</p>
 
 <p><br />
 Esta articula&ccedil;&atilde;o desencadeou na Frente Brasil Popular, uma frente pol&iacute;tica que pretende pensar o futuro e apresentar um projeto alternativo ao pa&iacute;s, de car&aacute;ter popular.</p>
