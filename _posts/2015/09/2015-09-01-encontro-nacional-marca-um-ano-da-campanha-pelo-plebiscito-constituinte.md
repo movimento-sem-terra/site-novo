@@ -45,7 +45,7 @@ releated_posts:
 Na pr&oacute;xima sexta-feira (4), diversos movimentos populares de todo Brasil se re&uacute;nem na cidade de Belo Horizonte (MG) para o Encontro Nacional e Popular pela Constituinte.</p>
 
 <p><br />
-A atividade pretende reunir cerca de 1.000 ativistas, e marca um ano da realiza&ccedil;&atilde;o do Plebiscito Popular, quando quase 8 milh&otilde;es de pessoas disseram &ldquo;Sim&rdquo; &agrave; Reforma Pol&iacute;tica por meio de uma Constituinte Exclusiva e Soberana do Sistema Pol&iacute;tico (Clique aqui para ver mais informa&ccedil;&otilde;es).</p>
+A atividade pretende reunir cerca de 1.000 ativistas, e marca um ano da realiza&ccedil;&atilde;o do Plebiscito Popular, quando quase 8 milh&otilde;es de pessoas disseram &ldquo;Sim&rdquo; &agrave; Reforma Pol&iacute;tica por meio de uma Constituinte Exclusiva e Soberana do Sistema Pol&iacute;tico (<a href="https://www.facebook.com/events/1668829943339033/" target="_blank">Clique aqui</a> para ver mais informa&ccedil;&otilde;es).</p>
 
 <p><br />
 A a&ccedil;&atilde;o contar&aacute; com comit&ecirc;s municipais e estaduais da Campanha, al&eacute;m de movimentos populares de todo o Brasil que apoiam a Constituinte. O objetivo do encontro &eacute; retomar e refor&ccedil;ar os comit&ecirc;s populares da base e realizar atividades de forma&ccedil;&atilde;o pol&iacute;tica.</p>
