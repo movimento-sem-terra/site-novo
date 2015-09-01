@@ -59,7 +59,11 @@ Est&atilde;o entre as organiza&ccedil;&otilde;es que assinam a convocat&oacute;r
 <p><br />
 Os pontos da Frente Brasil Popular s&atilde;o: 1) Defesa dos direitos dos trabalhadores e das trabalhadoras; 2) Defesa dos direitos sociais do povo brasileiro; 3) Defesa da democracia; 4) Defesa da soberania nacional; 5) Lutar por reformas estruturais e populares; 6) Defesa dos processos de integra&ccedil;&atilde;o latino-americana.</p>
 
-<p>Confer&ecirc;ncia Nacional Popular: em defesa da democracia e por uma nova pol&iacute;tica econ&ocirc;mica</p>
+<p><br />
+Confira a nota completa da Frente Brasil Popular:</p>
+
+<p style="text-align: center;"><br />
+<strong>Confer&ecirc;ncia Nacional Popular: em defesa da democracia e por uma nova pol&iacute;tica econ&ocirc;mica</strong></p>
 
 <p><br />
 5 de setembro de 2015 * das 9h as 20h</p>
@@ -113,3 +117,9 @@ Compare&ccedil;a!!!</p>
 
 <p><br />
 Em defesa da democracia e de outra pol&iacute;tica econ&ocirc;mica!!!</p>
+
+<p><br />
+Essa convocat&oacute;ria &eacute; firmada por militantes que atuam nos mais diferentes espa&ccedil;os organizativos do povo brasileiro, como: CUT, CTB, MST, Via campesina, MPA, MMC, MAB, MAM, MCP, FUP (Federa&ccedil;&atilde;o &Uacute;nica dos Petroleiros), CONEN, UNE, Levante Popular da Juventude, FNDC (F&oacute;rum Nacional pela Democratiza&ccedil;&atilde;o da Comunica&ccedil;&atilde;o) , Consulta Popular, Marcha Mundial das Mulheres, Rede de M&eacute;dicas/os Populares, Associa&ccedil;&atilde;o de Juizes pela Democracia, RENAP, SENGE-Rio, Sindicato de Professores, Metal&uacute;rgicos do RS, Pastorais Sociais, igrejas, Central de Movimentos Populares-CMP; parlamentares e dirigentes de diversos partidos e correntes partid&aacute;rias, entre os quais o PT, o PCdoB, o PSB e o PDT. Tamb&eacute;m participam diversos intelectuais e jornalistas que atuam em diferentes espa&ccedil;os da m&iacute;dia popular e que compartilham desse esfor&ccedil;o.</p>
+
+<p><br />
+Contatos e sugest&otilde;es: frentebrasilpopular2015@gmail.com</p>
