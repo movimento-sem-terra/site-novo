@@ -7,7 +7,7 @@ tags:
 title: "Estudantes declaram apoio às famílias Sem Terra que ocupam área da Esalq  "
 support_line: "Eles denunciam a ociosidade no uso da terra, o distanciamento de pequenos produtores de leite da região e a influência dos antigos proprietários para adquirirem a área."
 menu: reforma agrária
-section: null
+section: featured-news
 images_hd: "http://farm1.staticflickr.com/714/21021108152_42cca35d8e_b.jpg"
 layout: post
 files:
