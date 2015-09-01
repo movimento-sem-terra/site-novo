@@ -28,6 +28,7 @@ releated_posts:
   - 2015/07/2015-07-08-agricultura-urbana-ativismo-e-direito-a-cidade.md
   - 2015/07/2015-07-21-especialista-explica-a-gravidade-das-consequencias-da-seca-no-nordeste.md
   - 2015/05/2015-05-18-monsanto-mexico-e-os-obesos-do-imperio.md
+label: articles
 
 ---
 <p><img alt="direito.jpg" src="http://farm6.staticflickr.com/5836/20843872468_de23bb9e91_b.jpg" /></p>
