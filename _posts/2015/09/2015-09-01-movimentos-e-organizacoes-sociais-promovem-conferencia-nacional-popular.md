@@ -8,7 +8,7 @@ tags:
 title: Movimentos realizam conferência para lançar a Frente Brasil Popular
 support_line: "A Frente Brasil Popular quer debater a nova agenda de lutas progressistas; entre os eixos da plataforma política estão a defesa dos direitos sociais do povo brasileiro, da democracia e da soberania nacional."
 menu: projeto popular
-section: cover
+section: featured-news
 images_hd: "http://farm6.staticflickr.com/5800/21059566815_e09f237ea6_b.jpg"
 layout: post
 files:
