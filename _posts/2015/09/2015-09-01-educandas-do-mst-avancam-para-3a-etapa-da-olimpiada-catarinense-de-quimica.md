@@ -3,7 +3,7 @@ date: "2015-09-01T14:59:57-03:00"
 tags:
   - tag: educação
   - tag: reforma-agrária
-title: Educandas do MST avançam para 3ª etapa da Olimpíada Catarinense de Química
+title: Jovens do MST avançam para 3ª etapa da Olimpíada Catarinense de Química
 menu: "educação, cultura e comunicação"
 images_hd: "http://farm1.staticflickr.com/669/21073215921_a467363868_b.jpg"
 sector: education
@@ -25,6 +25,7 @@ releated_posts:
   - 2015/08/2015-08-18-alunos-do-pronera-protestam-contra-falta-de-verba-no-pa.md
   - 2015/08/2015-08-19-seminario-debate-rumos-da-politica-educacional-e-o-papel-da-educacao-na-reforma-agraria.md
   - 2015/08/2015-08-28-maratonista-usa-corrida-para-mostrar-mst-que-a-midia-a-midia-nao-divulga.md
+section: featured-news
 
 ---
 <p><img alt="olimpiada.jpg" src="http://farm1.staticflickr.com/669/21073215921_a467363868_b.jpg" /><br />
