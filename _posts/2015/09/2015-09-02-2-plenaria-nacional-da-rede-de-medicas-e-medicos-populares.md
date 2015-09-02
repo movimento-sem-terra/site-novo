@@ -7,7 +7,7 @@ tags:
 section: tv
 video: "https://www.youtube.com/watch?v=fs9M5-VL9AQ&feature=youtu.be"
 title: 2° Plenária Nacional da Rede de Médicas e Médicos Populares
-support_line: Médicos constroem rede nacional para defender o direito à saúde público e fazerem o contraponto ao posicionamento conservador da categoria.
+support_line: Médicos constroem rede nacional para defender o direito à saúde pública e fazem o contraponto ao posicionamento conservador da categoria.
 menu: projeto popular
 layout: post
 files: []
