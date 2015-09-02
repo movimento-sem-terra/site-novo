@@ -1,10 +1,10 @@
 ---
 date: "2015-09-02T14:53:52-03:00"
 tags:
-  - tag: via-campesina
-  - tag: campones
   - tag: MDA
-  - tag: rio-grande-do-sul
+  - tag: agricultura-camponesa
+  - tag: reforma-agrária
+  - tag: produção
 title: Nacionalização do Programa Camponês volta a ser discutida com o MDA
 images_hd: "http://farm6.staticflickr.com/5750/20905093999_7a33c54832_b.jpg"
 menu: agricultura camponesa
@@ -26,19 +26,23 @@ files:
 created_date: "2015-09-02T15:08:04-03:00"
 published: true
 releated_posts:
-  - 2015/06/2015-06-26-via-campesina-critica-apropriacao-da-agroecologia-pelo-capital.md
-  - 2015/08/2015-08-17-via-campesina-participa-de-mobilizacao-dos-servidores-publicos-no-rs.md
+  - 2015/05/2015-05-28-trabalhadores-sem-terra-debatem-producao-agroecologica-na-bahia.md
+  - 2015/06/2015-06-01-sem-terra-da-bahia-realizam-estudo-e-intercambio-de-experiencias-agroecologicas.md
+  - 2015/06/2015-06-15-em-mais-uma-feira-sem-terra-da-bahia-mostram-a-forca-da-producao-agroecologica.md
+  - 2015/01/2014-05-19-com-o-selo-da-reforma-agraria-assentamentos-plantam-e-colhem-de-tudo-pelo-pais.md
+  - 2015/08/2015-08-12-assentados-do-rs-planejam-cultivo-do-arroz-agroecologico.md
+  - 2015/08/2015-08-18-comida-ou-veneno-producao-organica-se-viabiliza-como-garantia-de-seguranca-alimentar.md
+  - 2015/01/2015-01-26-assentados-gauchos-fornecem-alimentos-para-grupo-hospitalar-de-porto-alegre.md
+sector: production
 
 ---
 <p><img alt="11960063_10203990896007545_4219750424528693801_n.jpg" height="525" src="http://farm1.staticflickr.com/777/21099587171_7f06446575_b.jpg" width="700" /></p>
 
-<p>&nbsp;</p>
+<p><br />
+<em>Do&nbsp;Coletivo de Comunica&ccedil;&atilde;o&nbsp;de Comunica&ccedil;&atilde;o da Via Campesina RS</em></p>
 
-<p><em>Do&nbsp;Coletivo de Comunica&ccedil;&atilde;o&nbsp;de Comunica&ccedil;&atilde;o da Via Campesina RS</em></p>
-
-<p>&nbsp;</p>
-
-<p>A nacionaliza&ccedil;&atilde;o do Programa Campon&ecirc;s, implantado em 2013 no Estado do Rio Grande do Sul, voltou a ser discutida entre representantes de movimentos que integram a Via Campesina &ndash; Movimento das Mulheres Camponesas (MMC), Movimento dos Pequenos Agricultores (MPA), Movimento dos Trabalhadores Rurais Sem Terra (MST) e Movimento dos Atingidos por Barragens (MAB) &ndash;, Minist&eacute;rio de Desenvolvimento Agr&aacute;rio (MDA), Federa&ccedil;&atilde;o &Uacute;nica dos Petroleiros (FUP) e Federa&ccedil;&atilde;o dos Trabalhadores Metal&uacute;rgicos (FTM), nesta ter&ccedil;a-feira (1&ordm;), em Porto Alegre.</p>
+<p><br />
+A nacionaliza&ccedil;&atilde;o do Programa Campon&ecirc;s, implantado em 2013 no Estado do Rio Grande do Sul, voltou a ser discutida nesta ter&ccedil;a-feira (1&ordm;), em Porto Alegre, entre representantes de movimentos que integram a Via Campesina, Minist&eacute;rio de Desenvolvimento Agr&aacute;rio (MDA), Federa&ccedil;&atilde;o &Uacute;nica dos Petroleiros (FUP) e Federa&ccedil;&atilde;o dos Trabalhadores Metal&uacute;rgicos (FTM).</p>
 
 <p><br />
 A proposta de nacionalizar o Programa Campon&ecirc;s foi inserida na pauta do MDA em mar&ccedil;o deste ano, quando representantes da Via Campesina levaram a demanda ao ministro Patrus Ananias.</p>
@@ -74,9 +78,11 @@ Ent&atilde;o &eacute; fundamental que a popula&ccedil;&atilde;o brasileira compr
 Segundo Elisiane Jahn, do MMC, al&eacute;m de fomentar a produ&ccedil;&atilde;o e o consumo de alimentos saud&aacute;veis, o Programa Campon&ecirc;s tamb&eacute;m agrega valores ao trabalho das mulheres do campo, que t&ecirc;m papel fundamental na produ&ccedil;&atilde;o de alimentos.</p>
 
 <p><br />
-&ldquo;As mulheres, historicamente, t&ecirc;m papel significativo na produ&ccedil;&atilde;o diversificada de alimentos e o Programa Campon&ecirc;s traz impactos pr&aacute;ticos em nossas vidas, como a qualifica&ccedil;&atilde;o da produ&ccedil;&atilde;o atrav&eacute;s do acesso aos insumos org&acirc;nicos, e mudan&ccedil;as pol&iacute;ticas e ideol&oacute;gicas que tensionam o di&aacute;logo com o companheiro sobre o planejamento e o conjunto da propriedade. Isso provoca mudan&ccedil;as na cultura da opress&atilde;o e contribui para o fortalecimento da nossa organiza&ccedil;&atilde;o de mulheres&rdquo;, destaca Elisiane.</p>
+&ldquo;As mulheres, historicamente, t&ecirc;m papel significativo na produ&ccedil;&atilde;o diversificada de alimentos e o Programa Campon&ecirc;s traz impactos pr&aacute;ticos em nossas vidas, como a qualifica&ccedil;&atilde;o da produ&ccedil;&atilde;o atrav&eacute;s do acesso aos insumos org&acirc;nicos, e mudan&ccedil;as pol&iacute;ticas e ideol&oacute;gicas que tensionam o di&aacute;logo com o companheiro sobre o planejamento e o conjunto da propriedade. Isso provoca mudan&ccedil;as na cultura da opress&atilde;o e contribui para o fortalecimento da nossa organiza&ccedil;&atilde;o de mulheres&rdquo;, destaca Elisiane.<br />
+&nbsp;</p>
 
-<p><br />
+<p><img alt="11225727_10203990890527408_5714892754835601877_n.jpg" src="http://farm6.staticflickr.com/5750/20905093999_7a33c54832_b.jpg" /><br />
+<br />
 <strong>Projetos nacionais em 2016</strong></p>
 
 <p><br />
