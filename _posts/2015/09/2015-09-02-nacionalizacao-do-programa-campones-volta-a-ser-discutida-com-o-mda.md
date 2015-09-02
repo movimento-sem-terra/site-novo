@@ -34,7 +34,7 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p><strong><em><span style="color: rgb(0, 0, 0); font-family: Arial, sans-serif; line-height: 18.5714092254639px;">Do&nbsp;</span><b style="box-sizing: inherit; color: rgb(0, 0, 0); font-family: Arial, sans-serif; line-height: 18.5714092254639px;">Coletivo de Comunica&ccedil;&atilde;o</b><span style="color: rgb(0, 0, 0); font-family: Arial, sans-serif; line-height: 18.5714092254639px;">&nbsp;</span>de Comunica&ccedil;&atilde;o da Via Campesina RS</em></strong></p>
+<p><em>Do&nbsp;Coletivo de Comunica&ccedil;&atilde;o&nbsp;de Comunica&ccedil;&atilde;o da Via Campesina RS</em></p>
 
 <p>&nbsp;</p>
 
