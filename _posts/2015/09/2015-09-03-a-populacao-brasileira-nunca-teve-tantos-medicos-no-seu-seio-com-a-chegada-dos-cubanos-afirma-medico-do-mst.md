@@ -5,7 +5,7 @@ tags:
   - tag: médicos
   - tag: mais-médicos
   - tag: cuba
-title: "“Nunca tivemos tantos médicos no seu seio do povo com a chegada dos cubanos”, afirma médico do MST"
+title: "“Nunca tivemos tantos médicos para o povo com a chegada dos cubanos”, afirma médico do MST"
 images_hd: "http://farm6.staticflickr.com/5708/20494114333_848b1c677c_b.jpg"
 menu: projeto popular
 support_line: "Em entrevista, o Sem Terra formado em Cuba fala sobre a criação da Rede Nacional de Médicos Populares, atual ofensiva sobre o sistema público de saúde e a categoria médica conservadora."
