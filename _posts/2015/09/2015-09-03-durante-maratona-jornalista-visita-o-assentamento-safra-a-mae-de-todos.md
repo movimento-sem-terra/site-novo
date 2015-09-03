@@ -67,13 +67,13 @@ releated_posts:
   - 2015/06/2015-06-26-a-percussao-de-uma-batucada-na-rua-tem-que-tocar-as-pessoas-a-ir-pra-luta.md
 
 ---
-<p>&nbsp;</p>
+<p><img alt="01-b-melancia-va.jpg" src="http://farm6.staticflickr.com/5684/21111133135_dec6832904_b.jpg" /></p>
 
 <p><br />
 <em>Desde o&nbsp;&uacute;ltimo s&aacute;bado, o&nbsp;jornalista e maratonista Rodolfo Lucena est&aacute; percorrendo a&nbsp;<span style="line-height: 20.7999992370605px;">Estrada da Reforma Agr&aacute;ria, em Pernambuco.</span></em></p>
 
 <p><br />
-<em>At&eacute; o dia 9 de setembro, Lucena far&aacute; corridas em diversos assentamentos do pa&iacute;s, com a participa&ccedil;&atilde;o de militantes e da juventude assentada, com o objetivo de divulgar os benef&iacute;cios da atividade f&iacute;sica e estimular a pr&aacute;tica esportiva, e divulgar um MST que os meios de comunica&ccedil;&atilde;o n&atilde;o mostram. </em></p>
+<em>At&eacute; o dia 9 de setembro, <a href="http://www.mst.org.br/2015/08/28/maratonista-usa-corrida-para-mostrar-mst-que-a-midia-a-midia-nao-divulga.html">Lucena far&aacute; corridas em diversos assentamentos do pa&iacute;s,</a> com a participa&ccedil;&atilde;o de militantes e da juventude assentada, com o objetivo de divulgar os benef&iacute;cios da atividade f&iacute;sica e estimular a pr&aacute;tica esportiva, e divulgar um MST que os meios de comunica&ccedil;&atilde;o n&atilde;o mostram. </em></p>
 
 <p><br />
 <em><a href="https://mstmaratonando.wordpress.com/" target="_blank">Confira esta e outras hist&oacute;rias contada pelo jornalista ao longo de sua jornada.</a></em></p>
@@ -96,8 +96,7 @@ N&atilde;o houve paz naquela noite nem nos dias seguintes nem nos meses que se s
 &nbsp;</p>
 
 <figure class="image"><img alt="01-b-vaca.jpg" src="http://farm6.staticflickr.com/5671/21101050112_04c9e74d71_b.jpg" />
-<figcaption>Hoje h&aacute; paz &agrave;s margens do S&atilde;o Francisco &ndash; Foto Eleonora de Lucena<br />
-</figcaption>
+<figcaption>Hoje h&aacute; paz &agrave;s margens do S&atilde;o Francisco &ndash; Foto Eleonora de Lucena</figcaption>
 </figure>
 
 <p><br />
@@ -113,8 +112,7 @@ Na batalha oficial, a pol&iacute;cia fez amea&ccedil;as e provoca&ccedil;&otilde
 Foi tudo feito na surdina, mas com bastante precis&atilde;o e apoio de trabalhadores de v&aacute;rias regi&otilde;es. Reuni&otilde;es preparat&oacute;rias deixaram o povo ciente dos riscos que iria correr e tamb&eacute;m dos sonhos que estavam construindo, explica Adailto Cardoso dos Santos, 31, filho de quilombolas e hoje a principal lideran&ccedil;a do movimento em Santa Maria da Boa Vista.</p>
 
 <figure class="image"><img alt="01-b-irmao-tuca.jpg" src="http://farm6.staticflickr.com/5684/20923049890_642ed7ebbb_b.jpg" />
-<figcaption>Pioneiro, Irm&atilde;o Tuca hoje trabalha com agricultura org&acirc;nica &ndash; Foto Eleonora de Lucena<br />
-</figcaption>
+<figcaption>Pioneiro, Irm&atilde;o Tuca hoje trabalha com agricultura org&acirc;nica &ndash; Foto Eleonora de Lucena</figcaption>
 </figure>
 
 <p><br />
@@ -133,8 +131,7 @@ De fato, a experi&ecirc;ncia era in&eacute;dita na regi&atilde;o. Mas donos de t
 Na fazenda Safra, os primeiros assentados come&ccedil;avam a limpar a terra, preparar o campo para o trabalho. Logo seriam constru&iacute;das as primeiras casas, todas elas de alvenaria, financiadas pelo governo. Mas o espa&ccedil;o era pequeno para tanta gente. Pouco tempo depois da constitui&ccedil;&atilde;o do assentamento Safra, as fam&iacute;lias que n&atilde;o conseguiram lugar ali foram transferidas para outras &aacute;reas na regi&atilde;o, ao lado da rodovia que hoje o povo do lugar orgulhosamente chama de Estrada da Reforma Agr&aacute;ria.</p>
 
 <figure class="image"><img alt="01-a-avenida.jpg" src="http://farm6.staticflickr.com/5685/21101054932_035b07c8f8_b.jpg" />
-<figcaption>Avenida arborizada no assentamento Safra &ndash; foto Rodolfo Lucena<br />
-</figcaption>
+<figcaption>Avenida arborizada no assentamento Safra &ndash; foto Rodolfo Lucena</figcaption>
 </figure>
 
 <p><br />
@@ -153,8 +150,7 @@ Foi da casa deles que parti hoje para minha corrida matinal no assentamento. Per
 Cruzei por carneiros e cabras, cavalos, ovelhas e galinhas, cachorros de mais da conta. A certa altura, uma vaca e seus bezerros saltaram para o meio da estrada, talvez assustados com meu trote vermelho &ndash;vestia hoje a camiseta da sele&ccedil;&atilde;o da Rep&uacute;blica Popular da China. Me olharam e fugiam, eles corriam e eu corria atr&aacute;s, num pega-pega animal&hellip;</p>
 
 <figure class="image"><img alt="01-a-joao-e-antonia.jpg" src="http://farm1.staticflickr.com/775/21101067072_c109fc66db_b.jpg" />
-<figcaption>Jo&atilde;o e Ant&ocirc;nia, Rodolfo e Eleonora &ndash; Foto Luiz Paulo Mota dos Santos<br />
-</figcaption>
+<figcaption>Jo&atilde;o e Ant&ocirc;nia, Rodolfo e Eleonora &ndash; Foto Luiz Paulo Mota dos Santos</figcaption>
 </figure>
 
 <p><br />
@@ -176,8 +172,7 @@ Diferentemente de outras escolas, nomeadas em homenagem a figuras como Antonio C
 Mas n&atilde;o importa, porque os professores parecem todos comprometidos com as lutas locais e com levar &agrave;s crian&ccedil;as um ensino que preze as tradi&ccedil;&otilde;es de nosso pa&iacute;s. Quando cheguei l&aacute;, por exemplo, toda a garotada do ensino fundamental 1 estava mobilizada para um dia de apresenta&ccedil;&otilde;es folcl&oacute;ricas.</p>
 
 <figure class="image"><img alt="01-a-csa-de-bombas.jpg" src="http://farm6.staticflickr.com/5789/20923278998_891cf43c61_b.jpg" />
-<figcaption>Casa de bombas que capta &aacute;gua para irrigar a lavoura &ndash; Foto Rodolfo Lucena<br />
-</figcaption>
+<figcaption>Casa de bombas que capta &aacute;gua para irrigar a lavoura &ndash; Foto Rodolfo Lucena</figcaption>
 </figure>
 
 <p><br />
@@ -196,6 +191,5 @@ Tr&ecirc;s garotos dispararam na frente como gente grande, parecendo quenianos a
 Para que a hist&oacute;ria registre, vai a seguir a foto dos l&iacute;deres incontestes da primeira corrida do turno da tarde da escola do assentamento Safra, &ldquo;m&atilde;e de todos&rdquo;. De camisa azul, Felipe Napole&atilde;o, 10, foi o campe&atilde;o, seguido por Jos&eacute; Nielson, 12 (camiseta branca listrada) e Diogo Francisco, 9.</p>
 
 <figure class="image"><img alt="01-b-adailto.jpg" src="http://farm1.staticflickr.com/668/21084965856_a668f20f1b_b.jpg" />
-<figcaption>Filho de quilombolas, Adailto &eacute; o l&iacute;der do MST no munic&iacute;pio &ndash; Foto Eleonora de Lucena<br />
-</figcaption>
+<figcaption>Filho de quilombolas, Adailto &eacute; o l&iacute;der do MST no munic&iacute;pio &ndash; Foto Eleonora de Lucena</figcaption>
 </figure>
