@@ -5,7 +5,7 @@ tags:
   - tag: médicos
   - tag: mais-médicos
   - tag: cuba
-title: "“A população brasileira nunca teve tantos médicos no seu seio com a chegada dos cubanos”, afirma médico do MST"
+title: "“Nunca tivemos tantos médicos no seu seio do povo com a chegada dos cubanos”, afirma médico do MST"
 images_hd: "http://farm6.staticflickr.com/5708/20494114333_848b1c677c_b.jpg"
 menu: projeto popular
 support_line: "Em entrevista, o Sem Terra formado em Cuba fala sobre a criação da Rede Nacional de Médicos Populares, atual ofensiva sobre o sistema público de saúde e a categoria médica conservadora."
@@ -65,7 +65,7 @@ Filho de assentados da Reforma Agr&aacute;ria no munic&iacute;pio de Vacaria, no
 Dois anos depois, em 1989, foram assentados. Vinte anos mais tarde, Marcos de Almeida se formaria em medicina na Escola Latino Americana de Medicina (Elam), em Cuba.&nbsp;</p>
 
 <p><br />
-Ap&oacute;s completar a gradua&ccedil;&atilde;o, o Sem Terra se especializou em medicina da fam&iacute;lia e comunidade no Cear&aacute;, e em 2011, voltou ao estado natal para trabalhar em &aacute;reas de assentamentos do MST.&nbsp;</p>
+Ap&oacute;s completar a gradua&ccedil;&atilde;o em 2009, o Sem Terra se especializou em medicina da fam&iacute;lia e comunidade no Cear&aacute;, e em 2011, voltou ao estado natal para trabalhar em &aacute;reas de assentamentos do MST.&nbsp;</p>
 
 <p><br />
 Atualmente, trabalha com comunidades rurais na coordena&ccedil;&atilde;o de aten&ccedil;&atilde;o prim&aacute;ria de sa&uacute;de no munic&iacute;pio de Palmeiras das Miss&otilde;es (RS).</p>
@@ -80,7 +80,7 @@ Para ele, o principal papel do Programa Mais M&eacute;dicos foi ter trazido o de
 &nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="enc.jpg" src="http://farm6.staticflickr.com/5721/20927319678_5ee69da4af_b.jpg" />
-<figcaption></figcaption>
+<figcaption>2&deg; Plen&aacute;ria Nacional da rede foi realizada neste final de semana, na ENFF.</figcaption>
 </figure>
 
 <p><strong>Como surgiu e qual o objetivo da Rede Nacional de M&eacute;dicos e M&eacute;dicas Populares?</strong></p>
@@ -122,7 +122,7 @@ Na nossa percep&ccedil;&atilde;o a sa&uacute;de &eacute; um bem da sociedade, qu
 &nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="marco.jpg" src="http://farm1.staticflickr.com/779/21088965286_a8a0848928_b.jpg" />
-<figcaption></figcaption>
+<figcaption>Para Marcos de Almeida, o maior desafio da rede &eacute; articular a categoria.</figcaption>
 </figure>
 
 <p><strong>H&aacute; um antagonismo entre os interesses privados e a l&oacute;gica de um sistema p&uacute;blico de sa&uacute;de?</strong></p>
