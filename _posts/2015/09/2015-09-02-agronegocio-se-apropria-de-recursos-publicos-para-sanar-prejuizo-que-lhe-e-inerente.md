@@ -5,7 +5,7 @@ tags:
   - tag: economia
   - tag: agricultura
 title: Agronegócio se apropria de recursos públicos para sanar prejuízo que lhe é inerente
-section: cover
+section: featured-news
 menu: agronegócio
 support_line: "O setor está sendo atingido em cheio pela reversão dos preços das commodities com a crise chinesa, colocando em cheque a dependência econômica do país."
 images_hd: "http://farm6.staticflickr.com/5824/20898546430_cbd4c8fff6_b.jpg"
