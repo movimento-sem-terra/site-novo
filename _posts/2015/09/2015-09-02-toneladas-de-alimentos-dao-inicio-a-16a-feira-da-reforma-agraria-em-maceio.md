@@ -31,6 +31,7 @@ releated_posts:
   - 2015/08/2015-08-31-mst-ocupa-praca-da-faculdade-com-frutos-da-reforma-agraria.md
   - 2014/05/2014-05-19-com-o-selo-da-reforma-agraria-assentamentos-plantam-e-colhem-de-tudo-pelo-pais.md
   - 2015/08/2015-08-10-al-rs-debate-agrotoxicos-nao-e-justo-propagar-o-cancer-em-nome-do-lucro-de-meia-duzia.md
+section: featured-news
 
 ---
 <p><img alt="15028419690_2490dc19ca_z.jpg" src="http://farm1.staticflickr.com/633/20897892178_331b2085e0_b.jpg" /></p>
@@ -67,8 +68,7 @@ Al&eacute;m de debates e das exposi&ccedil;&otilde;es, os feirantes e visitantes
 &nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="Gustavo Gomes Banda INTEIRA UmBandoDeSamba.jpg" src="http://farm6.staticflickr.com/5631/20471506134_75f189f721_b.jpg" />
-<figcaption>Gustavo Gomes banda inteira: um bando de samba<br />
-</figcaption>
+<figcaption>Gustavo Gomes banda inteira: um bando de samba</figcaption>
 </figure>
 
 <p><strong>Programa&ccedil;&atilde;o Cultural</strong></p>
