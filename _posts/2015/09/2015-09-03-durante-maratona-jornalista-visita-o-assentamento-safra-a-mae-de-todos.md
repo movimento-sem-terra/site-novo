@@ -4,7 +4,7 @@ tags:
   - tag: reforma-agrária
   - tag: cultura
 menu: reforma agrária
-title: "Durante maratona, jornalista visita o Assentamento Safra, a 'mãe de todos'"
+title: "Maratonista visita o Assentamento Safra, a 'mãe de todos' em Pernambuco"
 support_line: "Confira a história do Assentamento Safra, em PE, contada pelo maratonista Rodolfo Lucena, que está percorrendo a estrada da Reforma Agrária."
 images_hd: "http://farm6.staticflickr.com/5684/21111133135_dec6832904_b.jpg"
 layout: post
