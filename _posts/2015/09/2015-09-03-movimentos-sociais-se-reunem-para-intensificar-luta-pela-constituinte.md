@@ -4,7 +4,7 @@ tags:
   - tag: projeto-popular
   - tag: constituinte
   - tag: reforma-política
-title: Movimentos Sociais se reúnem para intensificar luta pela Constituinte
+title: Movimentos populares se reúnem para intensificar luta pela Constituinte
 support_line: "A atividade pretende reunir cerca de mil ativistas e marca um ano da realização do Plebiscito Popular, quando 8 milhões disseram “Sim” à Reforma Política por meio de uma Constituinte."
 menu: projeto popular
 images_hd: "http://farm6.staticflickr.com/5742/20925505029_b33c7e8d6c_b.jpg"
