@@ -80,5 +80,27 @@ Para Lilian Faria Porto Borges, pr&oacute;-reitora de gradua&ccedil;&atilde;o da
 <p><br />
 Desde o in&iacute;cio do programa&nbsp;j&aacute; se formaram 69 pedagogos e pedagogas. Destes, 43 est&atilde;o vinculados a atividades do setor de educa&ccedil;&atilde;o do MST, em sua maioria no Paran&aacute;, mas tamb&eacute;m se formaram pessoas vindas do Rio Grande do Sul, Santa Catarina e S&atilde;o Paulo. Al&eacute;m disso, 30 j&aacute; fizeram algum tipo de&nbsp;especializa&ccedil;&atilde;o, al&eacute;m de mestrados e&nbsp;doutorados.</p>
 
+<p>&nbsp;</p>
+
+<p><strong>Marcha&nbsp;</strong></p>
+
+<p><br />
+Uma marcha de den&uacute;ncia &agrave;&nbsp;interven&ccedil;&atilde;o do agroneg&oacute;cio nas escolas do campo foi organizada durante o encontro. A concentra&ccedil;&atilde;o aconteceu hoje, no in&iacute;cio da tarde, na&nbsp;&nbsp;Avenida Rocha Pombo.</p>
+
+<p><br />
+Fontes do Minist&eacute;rio da Educa&ccedil;&atilde;o e da Secretaria de Educa&ccedil;&atilde;o Continuada, Alfabetiza&ccedil;&atilde;o, Diversidade e Inclus&atilde;o (Secadi) apontam que somente no Paran&aacute;, nos &uacute;ltimos sete anos, foram fechadas mais de 450 escolas do campo.</p>
+
+<p><br />
+Al&eacute;m disso, os educadores denunciaram&nbsp;o uso indiscriminado de agrot&oacute;xicos na produ&ccedil;&atilde;o de alimentos. N&oacute;s &uacute;ltimos anos o consumo de venenos aumentou muito, em m&eacute;dia cada brasileiro consome 5,2 litros de agrot&oacute;xicos por ano. Fontes da 10&ordf; Regional de Sa&uacute;de mostram que na regi&atilde;o oeste do Paran&aacute;, essa m&eacute;dia de consumo por pessoa sobe para 12 litros por ano.</p>
+
+<p><br />
+Os estudos apontam para rela&ccedil;&atilde;o entre o consumo de agrot&oacute;xicos e o aumento dos casos de c&acirc;ncer e de outras doen&ccedil;as.&nbsp;</p>
+
+<p><br />
+&nbsp;<br />
+&nbsp;</p>
+
+<p>&nbsp;</p>
+
 <p><br />
 &nbsp;</p>
