@@ -1,5 +1,5 @@
 ---
-date: "2015-09-04T15:21:40-03:00"
+date: "2015-09-04T16:19:40-03:00"
 tags:
   - tag: reforma-agrária
 title: "Governo se compromete com latifúndio e veta avanço na Reforma Agrária, afirma dirigente do MST"
