@@ -38,7 +38,8 @@ releated_posts:
 ---
 <p><img alt="IMG-20150904-WA0035.jpg" src="http://farm6.staticflickr.com/5794/21165410705_e782706a63_b.jpg" /></p>
 
-<p>Educadoras e educadores das &aacute;reas da reforma agr&aacute;ria sa&iacute;ram em marcha nesta sexta-feira (4), em Cascavel (PR), para rep&uacute;diar&nbsp;o fechamento das escolas do campo.</p>
+<p><br />
+Educadoras e educadores das &aacute;reas da reforma agr&aacute;ria sa&iacute;ram em marcha nesta sexta-feira (4), em Cascavel (PR), para rep&uacute;diar&nbsp;o fechamento das escolas do campo.</p>
 
 <p><br />
 O ato marcou o encerramento do VII Encontro Estadual das(os) Educadoras(es) da Reforma Agr&aacute;ria do Paran&aacute;, realizado nos &uacute;ltimos tr&ecirc;s dias na Unioeste (Universidade Estadual do Oeste do Paran&aacute;), campus de Cascavel, oeste do Paran&aacute;.</p>
@@ -48,8 +49,6 @@ A marcha come&ccedil;ou em frente ao Ceebja (Centro Estadual de Educa&ccedil;&at
 
 <p><br />
 Nos &uacute;ltimos anos as comunidades camponesas t&ecirc;m sofrido com o fechamento de escolas do campo. De 2003 a 2014&nbsp;foram fechadas mais de 37 mil escolas no meio rural brasileiro. S&oacute; no Paran&aacute;, foram&nbsp;mais de 450 escolas fechadas&nbsp;do campo <span style="line-height: 18.9091px;">nos &uacute;ltimos sete anos,</span>&nbsp;sendo 100 delas somente em 2014.</p>
-
-<p>&nbsp;</p>
 
 <p><br />
 Para o setor de educa&ccedil;&atilde;o do MST, o fechamento das escolas do campo n&atilde;o pode ser entendido somente pelo vi&eacute;s da educa&ccedil;&atilde;o. O que est&aacute; em jogo &eacute; uma op&ccedil;&atilde;o do governo por um modelo de desenvolvimento para o campo, que &eacute; o agroneg&oacute;cio.</p>
@@ -64,8 +63,6 @@ Em virtude disso, os manifestantes fizeram um ato de den&uacute;ncia da interven
 
 <p><br />
 Cerca de 2 mil exemplares da cartilha do Agrinho foram queimados em frente ao N&uacute;cleo Regional de Educa&ccedil;&atilde;o no ato de encerramento do Enera. Os educadores denunciam que, mesmo como uma recomenda&ccedil;&atilde;o contr&aacute;ria do Minist&eacute;rio P&uacute;blico do Paran&aacute;, o material continua sendo distribu&iacute;do em escolas do Paran&aacute;.</p>
-
-<p>&nbsp;</p>
 
 <p><br />
 Em abril de 2014, o MP notificou o Servi&ccedil;o Nacional de Aprendizagem Rural, com parecer contr&aacute;rio &agrave; realiza&ccedil;&atilde;o desses programas nas escolas p&uacute;blicas do Paran&aacute; e fez uma recomenda&ccedil;&atilde;o ao Conselho Estadual de Educa&ccedil;&atilde;o para que deliberassem medidas imediatas que impe&ccedil;am professores e estudantes da rede p&uacute;blica a participar do Programa Agrinho, justificando que &ldquo;a educa&ccedil;&atilde;o deve manter compromisso permanente com a qualidade do ambiente, a sustentabilidade e a vida do planeta&rdquo;.</p>
