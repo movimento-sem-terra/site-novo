@@ -9,7 +9,7 @@ title: "“Nunca tivemos tantos médicos no meio do povo com a chegada dos cuban
 images_hd: "http://farm6.staticflickr.com/5708/20494114333_848b1c677c_b.jpg"
 menu: projeto popular
 support_line: "Em entrevista, o Sem Terra formado em Cuba fala sobre a criação da Rede Nacional de Médicos Populares, atual ofensiva sobre o sistema público de saúde e a categoria médica conservadora."
-section: cover
+section: featured-news
 layout: post
 files:
   - link: "http://farm1.staticflickr.com/779/21088965286_a8a0848928_b.jpg"
