@@ -7,7 +7,7 @@ tags:
 title: Movimentos sociais propõem a construção de Constituintes Populares
 support_line: "Um ano após realizar plebiscito com cerca de 8 milhões de votos, Campanha pela Constituinte realiza encontro em BH e se compromete a criar espaços de discussão que relacionem problemas cotidianos da população e o sistema político."
 menu: projeto popular
-section: cover
+section: null
 images_hd: "http://farm6.staticflickr.com/5675/21160850925_980900edfe_b.jpg"
 layout: post
 files:
