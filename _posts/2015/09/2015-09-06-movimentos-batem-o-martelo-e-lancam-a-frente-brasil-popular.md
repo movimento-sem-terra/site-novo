@@ -29,6 +29,12 @@ files:
     small: "http://farm6.staticflickr.com/5719/20567157414_c841d489e3_n.jpg"
     title: amaral.jpg
     $$hashKey: 02P
+  - link: "http://farm6.staticflickr.com/5753/21001820320_36d91cda09_b.jpg"
+    thumbnail: "http://farm6.staticflickr.com/5753/21001820320_36d91cda09_t.jpg"
+    medium: "http://farm6.staticflickr.com/5753/21001820320_36d91cda09_z.jpg"
+    small: "http://farm6.staticflickr.com/5753/21001820320_36d91cda09_n.jpg"
+    title: joao.jpg
+    $$hashKey: 0CZ
 created_date: "2015-09-06T10:43:40-03:00"
 published: true
 releated_posts:
@@ -73,10 +79,9 @@ Stedile relembrou que a cria&ccedil;&atilde;o significa uma novidade no cen&aacu
 <p><br />
 &ldquo;A Frente Brasil Popular tem que articular as mais diferentes organiza&ccedil;&otilde;es para cumprir uma miss&atilde;o necess&aacute;ria nessa conjuntura de crise pol&iacute;tica e econ&ocirc;mica: construir um programa da classe trabalhadora, com unidade entre n&oacute;s, e um calend&aacute;rio de mobiliza&ccedil;&atilde;o, na luta concreta das ruas&rdquo;, apontou.</p>
 
-<p><br />
-&nbsp;</p>
+<p>&nbsp;</p>
 
-<figure class="image" style="float:right"><img alt="amaral.jpg" src="http://farm6.staticflickr.com/5719/20567157414_c841d489e3_b.jpg" />
+<figure class="image" style="float:right"><img alt="joao.jpg" src="http://farm6.staticflickr.com/5753/21001820320_36d91cda09_b.jpg" />
 <figcaption></figcaption>
 </figure>
 
@@ -97,8 +102,13 @@ Roberto Amaral, que rompeu com o PSB quando o partido decidiu apoiar eleitoralme
 <p><br />
 Tarso Genro, ex-governador do Rio Grande do Sul, saudou o lan&ccedil;amento da Frente Popular como uma das grandes novidades da esquerda no pa&iacute;s. &ldquo;Temos que alertar a presidenta Dilma que vamos at&eacute; o fim defendendo o seu mandato, mas &eacute; necess&aacute;rio que saiba que essa pol&iacute;tica econ&ocirc;mica est&aacute; nos levando para a recess&atilde;o e o desemprego&rdquo;, defendeu.</p>
 
-<p><br />
-In&uacute;meros deputados estaduais e federais e l&iacute;deres de partidos como PT, PCdoB, PCO estiveram presentes. Dois senadores tamb&eacute;m se pronunciaram no encontro a favor de mudan&ccedil;as nos rumos do governo: Roberto Requi&atilde;o (PMDB-PR) e Lindberg Farias (PT-RJ). &ldquo;Quem vai impedir o golpe neste pa&iacute;s s&atilde;o os movimentos sociais e populares organizados. Temos que nos posicionar claramente contra a Agenda Brasil do Renan Calheiros e do ministro (Joaquim) Levy&rdquo;, afirmou o senador Lindberg Farias.</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="amaral.jpg" src="http://farm6.staticflickr.com/5719/20567157414_c841d489e3_b.jpg" />
+<figcaption></figcaption>
+</figure>
+
+<p>In&uacute;meros deputados estaduais e federais e l&iacute;deres de partidos como PT, PCdoB, PCO estiveram presentes. Dois senadores tamb&eacute;m se pronunciaram no encontro a favor de mudan&ccedil;as nos rumos do governo: Roberto Requi&atilde;o (PMDB-PR) e Lindberg Farias (PT-RJ). &ldquo;Quem vai impedir o golpe neste pa&iacute;s s&atilde;o os movimentos sociais e populares organizados. Temos que nos posicionar claramente contra a Agenda Brasil do Renan Calheiros e do ministro (Joaquim) Levy&rdquo;, afirmou o senador Lindberg Farias.</p>
 
 <p><br />
 &ldquo;Juntos estivemos ontem, quando garantimos 54 milh&otilde;es de votos para a presidenta Dilma. Mas estamos aqui para dizer a ela que estamos organizando uma frente nacional, popular e democr&aacute;tica. Nacional e popular porque os rentistas n&atilde;o t&ecirc;m mais nada a ver com o povo brasileiro&rdquo;, criticou o senador Roberto Requi&atilde;o. O paranaense pediu que Dilma modifique sua pol&iacute;tica econ&ocirc;mica: &ldquo;queremos a Dilma eleita, n&atilde;o a Dilma comanda pelos bancos e pelo Levy&rdquo;.</p>
