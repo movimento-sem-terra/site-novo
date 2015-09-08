@@ -79,7 +79,7 @@ Os nomes das escolas nas &aacute;reas de Reforma Agr&aacute;ria, como Ernesto Ch
 &ldquo;Esse debate explicita que h&aacute; sim um car&aacute;ter classista por tr&aacute;s de todas as posi&ccedil;&otilde;es. Por que o secretaria n&atilde;o questiona, por exemplo, outras escolas que levam nomes de ditadores, como uma chamada Presidente M&eacute;dici na capital do estado?&rdquo;, indaga Lucin&eacute;ia.</p>
 
 <p><br />
-Neste sentido, Saviani observa que o fato de quererem que os Sem Terra deixem &ldquo;de adotar sua orienta&ccedil;&atilde;o ideol&oacute;gica nas escolas do campo&rdquo; &eacute; almejar que eles deixem de ser eles mesmos, e impor uma conson&acirc;ncia com interesses contr&aacute;rios aos seus. &nbsp;&ldquo;Vale dizer, contra o conhecimento das condi&ccedil;&otilde;es objetivas que pesam sobre os trabalhadores. &Eacute;, pois, a posi&ccedil;&atilde;o da Seduc que &eacute; ideol&oacute;gica no segundo sentido, enquanto falseamento ou oculta&ccedil;&atilde;o da realidade&rdquo;, defende Saviani.</p>
+Neste sentido, Saviani observa que o fato de quererem que os Sem Terra deixem &ldquo;de adotar sua orienta&ccedil;&atilde;o ideol&oacute;gica nas escolas do campo&rdquo; &eacute; almejar que eles n&atilde;o sejam eles mesmos, e impor uma conson&acirc;ncia com interesses contr&aacute;rios aos seus,&nbsp;&ldquo;vale dizer, contra o conhecimento das condi&ccedil;&otilde;es objetivas que pesam sobre os trabalhadores. &Eacute; a posi&ccedil;&atilde;o da Seduc que &eacute; ideol&oacute;gica no segundo sentido, enquanto falseamento ou oculta&ccedil;&atilde;o da realidade&rdquo;, defende Saviani.</p>
 
 <p><br />
 <strong>Ofensiva sobre a educa&ccedil;&atilde;o</strong></p>
