@@ -7,7 +7,7 @@ tags:
 support_line: "Dezenas de organizações, com representações de 22 estados, organizam articulação em defesa de uma saída à esquerda para a crise."
 images_hd: "http://farm1.staticflickr.com/656/20567130094_5bb0ac5bb0_b.jpg"
 menu: projeto popular
-section: cover
+section: featured-news
 title: Movimentos batem o martelo e lançam a Frente Brasil Popular
 layout: post
 files:
