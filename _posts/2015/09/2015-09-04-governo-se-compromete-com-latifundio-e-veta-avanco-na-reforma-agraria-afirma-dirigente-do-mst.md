@@ -27,7 +27,7 @@ section: featured-news
 Da P&aacute;gina do MST</em><o:p></o:p></p>
 
 <p><br />
-Nesta semana, dos in&uacute;meros fatos que ocorrem todos os dias na capital federal do pa&iacute;s, um deles tem indignados os movimentos e organiza&ccedil;&otilde;es sociais do campo. <o:p></o:p></p>
+Nesta semana, dos in&uacute;meros fatos que ocorrem todos os dias na capital federal do pa&iacute;s, um deles tem indignado&nbsp;os movimentos e organiza&ccedil;&otilde;es sociais do campo. <o:p></o:p></p>
 
 <p><br />
 Depois de ser pressionado pela bancada ruralista, o ministro da Casa Civil, Alo&iacute;zio Mercadante, determinou &agrave; Advocacia-Geral da Uni&atilde;o (AGU) que conteste a Instru&ccedil;&atilde;o Normativa 83/2015, publicada no in&iacute;cio de agosto no Di&aacute;rio Oficial da Uni&atilde;o.<o:p></o:p></p>
@@ -60,7 +60,7 @@ Alexandre recorda que ao discutir e votar o projeto de emenda da Constitui&ccedi
 Diversas organiza&ccedil;&otilde;es da sociedade civil v&ecirc;m denunciando que o Congresso Nacional, principalmente no &uacute;ltimo per&iacute;odo, busca meios de combater toda tentativa que assegure os direitos humanos fundamentais.<o:p></o:p></p>
 
 <p><br />
-Para dificultar cen&aacute;rio, Concei&ccedil;&atilde;o analisa que falta vontade pol&iacute;tica do governo em tomar qualquer medida e posicionamento em prol da classe trabalhadora camponesa.<o:p></o:p></p>
+Para dificultar o&nbsp;cen&aacute;rio, Concei&ccedil;&atilde;o analisa que falta vontade pol&iacute;tica do governo em tomar qualquer medida e posicionamento em prol da classe trabalhadora camponesa.<o:p></o:p></p>
 
 <p><br />
 &quot;H&aacute; nitidamente um avan&ccedil;o da bancada ruralista para que corte totalmente todas as possibilidades que garantem os direitos humanos sociais da classe trabalhadora rural. Diante dos fatos, vemos que falta vontade pol&iacute;tica do governo para fazer reforma agr&aacute;ria neste pa&iacute;s, mas seguiremos em luta. N&atilde;o vamos deixar que o agroneg&oacute;cio tome dos trabalhadores aquilo que &eacute; seu por direito e garantido pela Constitui&ccedil;&atilde;o desse pa&iacute;s&quot;, afirma Concei&ccedil;&atilde;o.<o:p></o:p></p>
