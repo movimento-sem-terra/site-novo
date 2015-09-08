@@ -6,7 +6,7 @@ tags:
 images_hd: "http://farm6.staticflickr.com/5659/21062765138_eb2b2fbd8a_b.jpg"
 sector: education
 menu: "educação, cultura e comunicação"
-title: "Escolas do MST viram alvo da Seduc, e tenta desconstruir conquistas dos Sem Terra"
+title: "Escolas do MST viram alvo da Seduc, que tenta desconstruir conquistas dos Sem Terra"
 support_line: "O secretário da pasta, Permínio Pinto (PSDB), pediu que o MPE tomasse providências para evitar que as escolas da rede pública ligadas ao MST adotassem a “orientação ideológica” do Movimento."
 layout: post
 files:
