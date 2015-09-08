@@ -27,6 +27,7 @@ releated_posts:
   - 2015/07/2015-07-24-a-batalha-e-dificil-mas-temos-que-vencer-a-guerra-contra-os-agrotoxicos-afirma-sem-terra.md
   - 2015/08/2015-08-19-seminario-debate-rumos-da-politica-educacional-e-o-papel-da-educacao-na-reforma-agraria.md
   - 2015/08/2015-08-25-residencia-agraria-conhecimento-que-brota-do-campo.md
+section: featured-news
 
 ---
 <p><img alt="educacao-campo-mst-1-ne274-copy.jpeg" src="http://farm6.staticflickr.com/5715/21078598152_283e3f0ea7_b.jpg" /></p>
