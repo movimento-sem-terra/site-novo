@@ -79,50 +79,7 @@ Os nomes das escolas nas &aacute;reas de Reforma Agr&aacute;ria, como Ernesto Ch
 &ldquo;Esse debate explicita que h&aacute; sim um car&aacute;ter classista por tr&aacute;s de todas as posi&ccedil;&otilde;es. Por que o secretaria n&atilde;o questiona, por exemplo, outras escolas que levam nomes de ditadores, como uma chamada Presidente M&eacute;dici na capital do estado?&rdquo;, indaga Lucin&eacute;ia.</p>
 
 <p><br />
-Neste sentido, Saviani observa que o fato de insistirem que os Sem Terra deixem &ldquo;de adotar sua orienta&ccedil;&atilde;o ideol&oacute;gica nas escolas do campo&rdquo; &eacute; querer que estes abram m&atilde;o de sua identidade e se alinhem a vis&otilde;es e interesses contr&aacute;rio aos seus. &eacute; querer que eles deixem deixassem de ser eles mesmos, e impor uma conson&acirc;ncia com interesses contr&aacute;rios aos seus. &nbsp;&ldquo;Vale dizer, contra o conhecimento das condi&ccedil;&otilde;es objetivas que pesam sobre os trabalhadores. &Eacute;, pois, a posi&ccedil;&atilde;o da Seduc que &eacute; ideol&oacute;gica no segundo sentido, enquanto falseamento ou oculta&ccedil;&atilde;o da realidade&rdquo;, defende Saviani.</p>
-
-<p><br />
-Nas &uacute;ltimas semanas, a Secretaria estadual de Educa&ccedil;&atilde;o (Seduc) do estado de Mato Grosso est&aacute; empreendendo uma s&eacute;rie de ataques &agrave;s escolas das &aacute;reas de assentamentos do estado.</p>
-
-<p><br />
-O secret&aacute;rio da pasta, Perm&iacute;nio Pinto (PSDB), pediu que o Minist&eacute;rio P&uacute;blico Estadual (MPE) tomasse provid&ecirc;ncias para evitar que as escolas da rede p&uacute;blica ligadas ao MST adotassem a &ldquo;orienta&ccedil;&atilde;o ideol&oacute;gica&rdquo; do Movimento.</p>
-
-<p><br />
-Em entrevista ao Rdnews, Pinto alegou que &ldquo;o ensino &eacute; p&uacute;blico e o sistema da Seduc tem que ser obedecido. As bandeiras de movimentos n&atilde;o voltados ao ensino t&ecirc;m que ser banidas. As escolas n&atilde;o podem ter vi&eacute;s ideol&oacute;gico&rdquo;, declarou.</p>
-
-<p><br />
-Entretanto, muitos setores da sociedade contestaram o pr&oacute;prio direcionamento ideol&oacute;gico do secret&aacute;rio ao tomar tal atitude.</p>
-
-<p><br />
-O professor doutor na &aacute;rea de Ci&ecirc;ncias Humanas: Filosofia da Educa&ccedil;&atilde;o da PUC/SP, Dermeval Saviani, defende a ideia de que &ldquo;n&atilde;o existe conhecimento desinteressado, o que indica que ci&ecirc;ncia e ideologia n&atilde;o se excluem, mas se relacionam dialeticamente&rdquo;.</p>
-
-<p><br />
-Neste sentido, para o professor, o que estaria em jogo seriam duas perspectivas quanto a concep&ccedil;&atilde;o e a intencionalidade da educa&ccedil;&atilde;o, com o vi&eacute;s ideol&oacute;gico estando naturalmente intr&iacute;nseco em ambas as percep&ccedil;&otilde;es.</p>
-
-<p><br />
-De um lado, os interesses que Pinto representaria, que &ldquo;se op&otilde;em ao conhecimento objetivo da realidade&rdquo;, buscando &ldquo;falsear a realidade para preservar seus interesses&rdquo;, nas palavras do professor.</p>
-
-<p><br />
-No caso, os setores representados pelo secret&aacute;rio n&atilde;o teriam, por exemplo, &ldquo;interesse algum em desvendar as condi&ccedil;&otilde;es de explora&ccedil;&atilde;o em que se apoia; j&aacute; os trabalhadores, que sofrem a explora&ccedil;&atilde;o, t&ecirc;m todo interesse em desvendar os mecanismos dessa situa&ccedil;&atilde;o, que &eacute; objetiva&rdquo;.</p>
-
-<p><br />
-Lucin&eacute;ia Freitas, da dire&ccedil;&atilde;o estadual do MST, discorre no mesmo sentido que Saviani. &ldquo;Ao fazer o ataque, o secret&aacute;rio tamb&eacute;m demonstra sua posi&ccedil;&atilde;o ideol&oacute;gica, ao questionar nossos m&eacute;todos e defender a ofensiva do agroneg&oacute;cio nas escolas do campo, com cartilhas mostrando &agrave;s crian&ccedil;as como utilizar os venenos agr&iacute;colas&rdquo;, critica.</p>
-
-<p><br />
-Lucin&eacute;ia faz refer&ecirc;ncia a penetra&ccedil;&atilde;o do agroneg&oacute;cio nas escolas do campo pela Associa&ccedil;&atilde;o Brasileira do Agroneg&oacute;cio (ABAG), que em parceria com Secretarias Municipais de Educa&ccedil;&atilde;o, distribuem cartilhas, como a &ldquo;Cartilha do Professor&rdquo; e &quot;Agroneg&oacute;cio - Sua vida depende dele&quot;, uma cartilha na forma de revista em quadrinhos para os alunos. &ldquo;Isso n&atilde;o &eacute; ass&eacute;dio ideol&oacute;gico?&rdquo;, questiona.</p>
-
-<p><br />
-Os nomes das escolas nas &aacute;reas de Reforma Agr&aacute;ria, como Ernesto Che Guevara e Florestan Fernandes, tamb&eacute;m s&atilde;o apontados pelo secret&aacute;rio como exemplos de uma ideologiza&ccedil;&atilde;o destes espa&ccedil;os.</p>
-
-<p><br />
-&ldquo;Esse debate explicita que h&aacute; sim um car&aacute;ter de classe por tr&aacute;s de todas as posi&ccedil;&otilde;es. Por que o secretaria n&atilde;o questiona, por exemplo, outras escolas que levam nomes de ditadores, como uma chamada Presidente M&eacute;dici na capital do estado?&rdquo;, indaga Lucin&eacute;ia.</p>
-
-<p><br />
-Neste sentido, Saviani observa que o fato de quererem que os Sem Terra deixem &ldquo;de adotar sua orienta&ccedil;&atilde;o ideol&oacute;gica nas escolas do campo&rdquo; &eacute; almejar&nbsp;que eles deixassem de serem eles mesmos, e impor uma conson&acirc;ncia contr&aacute;ria&nbsp;ao&nbsp;seu&nbsp;pr&oacute;prio&nbsp;interesse.&nbsp;&ldquo;Vale dizer, contra o conhecimento das condi&ccedil;&otilde;es objetivas que pesam sobre os trabalhadores. &Eacute;, pois, a posi&ccedil;&atilde;o da Seduc que &eacute; ideol&oacute;gica no segundo sentido, enquanto falseamento ou oculta&ccedil;&atilde;o da realidade&rdquo;, defende Saviani.</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
+Neste sentido, Saviani observa que o fato de quererem que os Sem Terra deixem &ldquo;de adotar sua orienta&ccedil;&atilde;o ideol&oacute;gica nas escolas do campo&rdquo; &eacute; almejar que eles deixem de ser eles mesmos, e impor uma conson&acirc;ncia com interesses contr&aacute;rios aos seus. &nbsp;&ldquo;Vale dizer, contra o conhecimento das condi&ccedil;&otilde;es objetivas que pesam sobre os trabalhadores. &Eacute;, pois, a posi&ccedil;&atilde;o da Seduc que &eacute; ideol&oacute;gica no segundo sentido, enquanto falseamento ou oculta&ccedil;&atilde;o da realidade&rdquo;, defende Saviani.</p>
 
 <p><br />
 <strong>Ofensiva sobre a educa&ccedil;&atilde;o</strong></p>
