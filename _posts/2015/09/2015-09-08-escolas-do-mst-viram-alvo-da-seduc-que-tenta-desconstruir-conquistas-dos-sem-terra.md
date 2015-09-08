@@ -1,10 +1,12 @@
 ---
 date: "2015-09-08T14:56:35-03:00"
-tags: []
+tags:
+  - tag: educação
+  - tag: reforma-agrária
 images_hd: "http://farm6.staticflickr.com/5659/21062765138_eb2b2fbd8a_b.jpg"
 sector: education
 menu: "educação, cultura e comunicação"
-title: "Escolas do MST viram alvo da Seduc, que tenta desconstruir conquistas dos Sem Terra"
+title: "Escolas do MST viram alvo da Seduc, e tenta desconstruir conquistas dos Sem Terra"
 support_line: "O secretário da pasta, Permínio Pinto (PSDB), pediu que o MPE tomasse providências para evitar que as escolas da rede pública ligadas ao MST adotassem a “orientação ideológica” do Movimento."
 layout: post
 files:
@@ -22,7 +24,12 @@ files:
     $$hashKey: 02X
 created_date: "2015-09-08T15:16:22-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - 2015/06/2015-06-03-sem-terrinha-cultivam-3-mil-mudas-e-ajudam-a-reflorestar-assentamento.md
+  - 2015/08/2015-08-27-educadores-mineiros-se-preparam-para-o-2-encontro-nacional-da-educacao-do-campo.md
+  - 2015/09/2015-09-01-educandas-do-mst-avancam-para-3a-etapa-da-olimpiada-catarinense-de-quimica.md
+  - 2015/09/2015-09-02-2-enera-vem-para-reabrir-os-circuitos-da-historia-da-educacao-do-campo.md
+  - 2015/08/2015-08-28-assembleia-legislativa-do-rs-aprova-projeto-para-que-empresas-facam-obras-e-doem-equipamentos-as-escolas.md
 
 ---
 <p><img alt="escola_MST.jpg" src="http://farm6.staticflickr.com/5659/21062765138_eb2b2fbd8a_b.jpg" /><br />
