@@ -47,6 +47,24 @@ files:
     small: "http://farm6.staticflickr.com/5626/20651660863_489e9e3734_n.jpg"
     title: levy.jpg
     $$hashKey: 1D8
+  - link: "http://farm6.staticflickr.com/5738/21086075679_07bdc5b1e0_b.jpg"
+    thumbnail: "http://farm6.staticflickr.com/5738/21086075679_07bdc5b1e0_t.jpg"
+    medium: "http://farm6.staticflickr.com/5738/21086075679_07bdc5b1e0_z.jpg"
+    small: "http://farm6.staticflickr.com/5738/21086075679_07bdc5b1e0_n.jpg"
+    title: zé pinto.jpg
+    $$hashKey: 05W
+  - link: "http://farm1.staticflickr.com/776/21084871690_4771a54e0c_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/776/21084871690_4771a54e0c_t.jpg"
+    medium: "http://farm1.staticflickr.com/776/21084871690_4771a54e0c_z.jpg"
+    small: "http://farm1.staticflickr.com/776/21084871690_4771a54e0c_n.jpg"
+    title: fulano.jpg
+    $$hashKey: 05Z
+  - link: "http://farm6.staticflickr.com/5648/21085094168_86d9458982_b.jpg"
+    thumbnail: "http://farm6.staticflickr.com/5648/21085094168_86d9458982_t.jpg"
+    medium: "http://farm6.staticflickr.com/5648/21085094168_86d9458982_z.jpg"
+    small: "http://farm6.staticflickr.com/5648/21085094168_86d9458982_n.jpg"
+    title: gravacao.jpg
+    $$hashKey: "062"
 created_date: "2015-09-09T11:43:13-03:00"
 published: true
 releated_posts:
@@ -57,10 +75,16 @@ releated_posts:
   - 2015/09/2015-09-03-durante-maratona-jornalista-visita-o-assentamento-safra-a-mae-de-todos.md
 
 ---
-<p><img alt="mineirinho.jpg" src="http://farm6.staticflickr.com/5732/21084608190_c50c0a0cf2_b.jpg" /><br />
+<figure class="image"><img alt="mineirinho.jpg" src="http://farm6.staticflickr.com/5732/21084608190_c50c0a0cf2_b.jpg" />
+<figcaption>Os artistas Sem Terra Mineirin (ao fundo) e Z&eacute; Pinto (direita) durante a grava&ccedil;&atilde;o.</figcaption>
+</figure>
+
+<p><br />
 <br />
 <em>Por Maura Silva<br />
 Da P&aacute;gina do MST</em></p>
+
+<p><em>Fotos: Luara Del Chaivon</em></p>
 
 <p><br />
 A letra, os acordes e a melodia n&atilde;o s&atilde;o apenas um amontoado de palavras, mas serve para comunicar o jeito Sem Terra de ser e de estar, de tocar e cantar, de compreender o mundo e a si mesmo.</p>
@@ -77,7 +101,7 @@ E para reafirmar essa identidade e em celebra&ccedil;&atilde;o aos 30 anos do Mo
 <figcaption>Os militantes e m&uacute;sicos do MST, Raul Amorim e Marquinho&nbsp;</figcaption>
 </figure>
 
-<p>Nasceu, assim, a ideia de se fazer um resgate das m&uacute;sicas criadas pelos Sem Terra, divididos em tr&ecirc;s projetos. O primeiro e j&aacute; conclu&iacute;do foi a regrava&ccedil;&atilde;o e a digitaliza&ccedil;&atilde;o do primeiro &aacute;lbum gravado pelo MST, Dor e Esperan&ccedil;a, lan&ccedil;ado em 1985.</p>
+<p>Nasceu, assim, a ideia de se fazer um resgate das m&uacute;sicas criadas pelos Sem Terra, divididos em tr&ecirc;s projetos. O primeiro e j&aacute; conclu&iacute;do foi a regrava&ccedil;&atilde;o e a digitaliza&ccedil;&atilde;o do primeiro &aacute;lbum gravado pelo MST, <a href="http://www.mst.org.br/2015/01/28/mst-digitaliza-seus-primeiros-registros-musicais.html">Dor e Esperan&ccedil;a</a>&nbsp;(ou&ccedil;a o &aacute;lbum <a href="http://www.mst.org.br/2015/05/04/dor-e-esperanca.html">aqui</a>), lan&ccedil;ado em 1985.</p>
 
 <p><br />
 O mais recente projeto e em fase de finaliza&ccedil;&atilde;o &eacute; a colet&acirc;nea de mais de 20 can&ccedil;&otilde;es dos Sem Terra criadas entre os anos de 1990 a 2000, e que n&atilde;o foram gravadas no primeiro CD do Movimento, o Arte em Movimento, de 1997.</p>
@@ -152,3 +176,9 @@ Na unha, no la&ccedil;o e no encal&ccedil;o do tempo, &eacute; a voz, a viola, o
 &nbsp;</p>
 
 <p><img alt="gravação.jpg" src="http://farm1.staticflickr.com/649/21084876568_391f45d3c7_b.jpg" /></p>
+
+<p><img alt="fulano.jpg" src="http://farm1.staticflickr.com/776/21084871690_4771a54e0c_b.jpg" /></p>
+
+<p><img alt="gravacao.jpg" src="http://farm6.staticflickr.com/5648/21085094168_86d9458982_b.jpg" /></p>
+
+<p><img alt="zé pinto.jpg" src="http://farm6.staticflickr.com/5738/21086075679_07bdc5b1e0_b.jpg" /></p>
