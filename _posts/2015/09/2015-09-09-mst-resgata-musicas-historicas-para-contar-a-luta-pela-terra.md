@@ -80,11 +80,10 @@ releated_posts:
 </figure>
 
 <p><br />
-<br />
 <em>Por Maura Silva<br />
 Da P&aacute;gina do MST</em></p>
 
-<p><em>Fotos: Luara Del Chaivon</em></p>
+<p><em>Fotos: Luara Dal&nbsp;Chiavon</em></p>
 
 <p><br />
 A letra, os acordes e a melodia n&atilde;o s&atilde;o apenas um amontoado de palavras, mas serve para comunicar o jeito Sem Terra de ser e de estar, de tocar e cantar, de compreender o mundo e a si mesmo.</p>
@@ -98,7 +97,7 @@ E para reafirmar essa identidade e em celebra&ccedil;&atilde;o aos 30 anos do Mo
 <p>&nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="raul.jpg" src="http://farm6.staticflickr.com/5801/20651632523_ac922b26e8_b.jpg" />
-<figcaption>Os militantes e m&uacute;sicos do MST, Raul Amorim e Marquinho&nbsp;</figcaption>
+<figcaption>Os militantes e m&uacute;sicos do MST, Raul Amorim e Marquinhos Monteiro.&nbsp;</figcaption>
 </figure>
 
 <p>Nasceu, assim, a ideia de se fazer um resgate das m&uacute;sicas criadas pelos Sem Terra, divididos em tr&ecirc;s projetos. O primeiro e j&aacute; conclu&iacute;do foi a regrava&ccedil;&atilde;o e a digitaliza&ccedil;&atilde;o do primeiro &aacute;lbum gravado pelo MST, <a href="http://www.mst.org.br/2015/01/28/mst-digitaliza-seus-primeiros-registros-musicais.html">Dor e Esperan&ccedil;a</a>&nbsp;(ou&ccedil;a o &aacute;lbum <a href="http://www.mst.org.br/2015/05/04/dor-e-esperanca.html">aqui</a>), lan&ccedil;ado em 1985.</p>
