@@ -103,7 +103,7 @@ E para reafirmar essa identidade e em celebra&ccedil;&atilde;o aos 30 anos do Mo
 <p>Nasceu, assim, a ideia de se fazer um resgate das m&uacute;sicas criadas pelos Sem Terra, divididos em tr&ecirc;s projetos. O primeiro e j&aacute; conclu&iacute;do foi a regrava&ccedil;&atilde;o e a digitaliza&ccedil;&atilde;o do primeiro &aacute;lbum gravado pelo MST, <a href="http://www.mst.org.br/2015/01/28/mst-digitaliza-seus-primeiros-registros-musicais.html">Dor e Esperan&ccedil;a</a>&nbsp;(ou&ccedil;a o &aacute;lbum <a href="http://www.mst.org.br/2015/05/04/dor-e-esperanca.html">aqui</a>), lan&ccedil;ado em 1985.</p>
 
 <p><br />
-O mais recente projeto e em fase de finaliza&ccedil;&atilde;o &eacute; a colet&acirc;nea de mais de 20 can&ccedil;&otilde;es dos Sem Terra criadas entre os anos de 1990 a 2000, e que n&atilde;o foram gravadas no primeiro CD do Movimento, o Arte em Movimento, de 1997.</p>
+O mais recente projeto e em fase de finaliza&ccedil;&atilde;o &eacute; a colet&acirc;nea de mais de 20 can&ccedil;&otilde;es dos Sem Terra criadas entre os anos de 1990 a 2000, e que n&atilde;o foram gravadas no primeiro CD do Movimento, o <a href="https://www.youtube.com/watch?v=wBbYYY3KDyU&amp;list=PL0EE7F145D9CA79A6">Arte em Movimento</a>, de 1997.</p>
 
 <p><br />
 O &uacute;ltimo projeto, a ser realizado em 2016, trabalhar&aacute; as m&uacute;sicas mais importantes para cada estado, mas que n&atilde;o tiveram um alcance nacional.</p>
