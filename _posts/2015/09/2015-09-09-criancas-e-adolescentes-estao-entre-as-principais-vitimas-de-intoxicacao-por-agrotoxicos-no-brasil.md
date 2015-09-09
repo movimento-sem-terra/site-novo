@@ -40,7 +40,6 @@ releated_posts:
 Da Rede Brasil Atual</em></p>
 
 <p><br />
-Protesto em Bras&iacute;lia no Dia Internacional da Luta Contra os Agrot&oacute;xicos, em 03 de dezembro de 2014<br />
 Crian&ccedil;as e adolescentes est&atilde;o entre as principais v&iacute;timas dos efeitos nocivos dos agrot&oacute;xicos no Brasil. Um estudo do Departamento de Geografia da Universidade de S&atilde;o Paulo (USP), com base em dados do Minist&eacute;rio da Sa&uacute;de e da Funda&ccedil;&atilde;o Oswaldo Cruz (Fiocruz), mostra que entre 2007 e 2014 foram notificadas em todo o pa&iacute;s 2.150 intoxica&ccedil;&otilde;es somente na faixa et&aacute;ria entre 0 e 14 anos de idade. O dado, por&eacute;m, n&atilde;o reflete o real, j&aacute; que de cada 50 casos de intoxica&ccedil;&atilde;o por agrot&oacute;xicos, apenas um &eacute; notificado no servi&ccedil;o de sa&uacute;de.</p>
 
 <p><br />
@@ -71,7 +70,6 @@ Os agrot&oacute;xicos afetam tamb&eacute;m a sa&uacute;de dos mais velhos. Confo
 O dirigente chama ainda a aten&ccedil;&atilde;o para o ass&eacute;dio da ind&uacute;stria de agrot&oacute;xicos. Em sua regi&atilde;o h&aacute; poucos t&eacute;cnicos. &quot;Se reunir todos os agr&ocirc;nomos do poder p&uacute;blico, temos em torno de 40 t&eacute;cnicos para assist&ecirc;ncia t&eacute;cnica. Uma empresa na cidade vizinha tem, sozinha, 36 agr&ocirc;nomos, cada um com um carro, que vai a cada propriedade vendendo os agrot&oacute;xicos. E a cada 15 dias fazem palestra, fazem churrasco e [oferecem] bebida e chamam os agricultores para fazer propaganda. &Eacute; muito diferente a aten&ccedil;&atilde;o. &Eacute; desleal.&quot;</p>
 
 <p><br />
-Protesto no Rio de Janeiro no Dia Internacional da Luta Contra os Agrot&oacute;xicos, em 03 de dezembro de 2014<br />
 Desde 2009, o Brasil lidera o consumo mundial desses produtos, utilizando sobre suas lavouras um quinto de todo o agrot&oacute;xico produzido no mundo. Tamanho consumo est&aacute; colocando em risco a vida e sa&uacute;de dos camponeses, trabalhadores rurais e seus familiares, em contato direto com o produto, e a popula&ccedil;&atilde;o da cidade, que consome alimentos contaminados por agrot&oacute;xicos.<br />
 &nbsp;</p>
 
