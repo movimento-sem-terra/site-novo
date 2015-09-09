@@ -30,7 +30,7 @@ releated_posts:
   - 2015/09/2015-09-01-educandas-do-mst-avancam-para-3a-etapa-da-olimpiada-catarinense-de-quimica.md
   - 2015/09/2015-09-02-2-enera-vem-para-reabrir-os-circuitos-da-historia-da-educacao-do-campo.md
   - 2015/08/2015-08-28-assembleia-legislativa-do-rs-aprova-projeto-para-que-empresas-facam-obras-e-doem-equipamentos-as-escolas.md
-section: cover
+section: null
 
 ---
 <p><img alt="escola_MST.jpg" src="http://farm6.staticflickr.com/5659/21062765138_eb2b2fbd8a_b.jpg" /><br />
