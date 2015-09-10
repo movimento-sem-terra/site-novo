@@ -5,7 +5,7 @@ tags:
   - tag: lutas-e-mobilizações
 sector: education
 images_hd: "http://farm6.staticflickr.com/5679/21278505926_6e44ddc22e_b.jpg"
-title: "Em PE, movimentos ocupam diversas secretarias de educação contra descaso do Estado"
+title: "Em PE, movimentos ocupam diversas secretarias de educação contra descaso do governo"
 menu: lutas e mobilizações
 support_line: "Turmas a mais de três meses sem aula, merenda escolar inadequada, falta de transporte e de professores são algumas das reclamações."
 layout: post
