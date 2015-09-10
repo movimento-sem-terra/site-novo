@@ -39,7 +39,7 @@ Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
-<p>Entre os dias 06 e 07 de setembro aconteceu o 7&ordm; Encontro dos Sem Terrinha do norte da Bahia. A atividade contou com cerca de 110 crian&ccedil;as dos assentamentos e acampamentos do MST na regi&atilde;o.&nbsp;</p>
+<p>Entre os dias 06 e 07 de setembro aconteceu em Juazeiro, na Bahia,&nbsp;o 7&ordm; Encontro dos Sem Terrinha do norte da Bahia. A atividade contou com cerca de 110 crian&ccedil;as dos assentamentos e acampamentos do MST na regi&atilde;o.&nbsp;</p>
 
 <p><br />
 A atividade contou com din&acirc;micas,&nbsp;espa&ccedil;os de lazer,&nbsp;oficinas&nbsp;de capoeira, pintura e diversas brincadeiras de roda e brincadeiras esportivas.&nbsp;</p>
