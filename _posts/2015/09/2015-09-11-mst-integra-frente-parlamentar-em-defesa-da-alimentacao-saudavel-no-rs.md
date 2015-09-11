@@ -30,7 +30,7 @@ releated_posts:
   - 2015/07/2015-07-27-mais-de-35-toneladas-de-alimentos-sao-vendidos-na-5o-feira-de-agroecologia-da-reforma-agraria.md
   - 2015/09/2015-09-04-na-expointer-via-campesina-cobra-criacao-de-um-programa-para-producao-de-alimentos-saudaveis.md
   - 2015/08/2015-08-10-al-rs-debate-agrotoxicos-nao-e-justo-propagar-o-cancer-em-nome-do-lucro-de-meia-duzia.md
-section: cover
+section: null
 
 ---
 <p><img alt="Assentado da Reforma Agrária, o vereador João Cardoso Tigre defendeu ações coletivas de conscientização, envolvendo escolas,�ssociações, cooperativas e entidades não governamentais..jpg" height="467" src="http://farm1.staticflickr.com/620/21329828381_7281bb588e_b.jpg" width="700" /></p>
