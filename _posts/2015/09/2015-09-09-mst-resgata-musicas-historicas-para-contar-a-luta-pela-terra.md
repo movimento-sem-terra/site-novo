@@ -7,7 +7,7 @@ title: MST resgata músicas históricas para contar a luta pela terra
 support_line: Três projetos farão um resgate das músicas criadas pelos Sem Terra; o objetivo é trazer à tona a memória musical do Movimento a partir de cada período histórico.
 menu: "educação, cultura e comunicação"
 sector: culture
-section: cover
+section: featured-news
 images_hd: "http://farm6.staticflickr.com/5732/21084608190_c50c0a0cf2_b.jpg"
 layout: post
 files:
