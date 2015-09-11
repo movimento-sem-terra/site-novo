@@ -27,6 +27,10 @@ published: true
 releated_posts:
   - 2015/05/2015-05-15-politicas-publicas-prioridade-para-alimentos-saudaveis.md
   - 2015/07/2015-07-16-frente-para-agroecologia-e-producao-organica-e-instalada-na-camara.md
+  - 2015/07/2015-07-27-mais-de-35-toneladas-de-alimentos-sao-vendidos-na-5o-feira-de-agroecologia-da-reforma-agraria.md
+  - 2015/09/2015-09-04-na-expointer-via-campesina-cobra-criacao-de-um-programa-para-producao-de-alimentos-saudaveis.md
+  - 2015/08/2015-08-10-al-rs-debate-agrotoxicos-nao-e-justo-propagar-o-cancer-em-nome-do-lucro-de-meia-duzia.md
+section: cover
 
 ---
 <p><img alt="Assentado da Reforma Agrária, o vereador João Cardoso Tigre defendeu ações coletivas de conscientização, envolvendo escolas,�ssociações, cooperativas e entidades não governamentais..jpg" height="467" src="http://farm1.staticflickr.com/620/21329828381_7281bb588e_b.jpg" width="700" /></p>
@@ -63,9 +67,11 @@ O vereador e assentado do MST em Eldorado do Sul, na regi&atilde;o Metropolitana
 Na ocasi&atilde;o, foi estabelecido o cronograma de atividades para os pr&oacute;ximos meses. Entre elas, est&aacute; uma aula p&uacute;blica no m&ecirc;s de outubro, no Bique da Reden&ccedil;&atilde;o, local onde acontece todos os s&aacute;bados a Feira Agroecol&oacute;gica.</p>
 
 <p><br />
-Tamb&eacute;m est&atilde;o previstas caravanas regionais mensais, junto &agrave; Comiss&atilde;o de Sa&uacute;de e Meio Ambiente da Assembleia Legislativa, Cine Debate com a apresenta&ccedil;&atilde;o de document&aacute;rios e almo&ccedil;os agroecol&oacute;gicos em assentamentos da Reforma Agr&aacute;ria.</p>
+Tamb&eacute;m est&atilde;o previstas caravanas regionais mensais, junto &agrave; Comiss&atilde;o de Sa&uacute;de e Meio Ambiente da Assembleia Legislativa, Cine Debate com a apresenta&ccedil;&atilde;o de document&aacute;rios e almo&ccedil;os agroecol&oacute;gicos em assentamentos da Reforma Agr&aacute;ria.<br />
+&nbsp;</p>
 
-<p><br />
+<p><img alt="GT envolve entidades, movimentos sociais, agricultores, consumidores e apoiadores daainiciativa.jpg" src="http://farm1.staticflickr.com/586/21321627865_e981d1500c_b.jpg" /><br />
+<br />
 <strong>Frente Parlamentar Ga&uacute;cha em Defesa da Alimenta&ccedil;&atilde;o Saud&aacute;vel</strong></p>
 
 <p><br />
