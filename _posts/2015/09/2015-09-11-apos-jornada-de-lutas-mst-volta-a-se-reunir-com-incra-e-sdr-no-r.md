@@ -6,7 +6,7 @@ tags:
   - tag: termo-de-cooperação
   - tag: reforma-agrária
   - tag: assentados
-title: "Após jornada de lutas, MST volta a se reunir com Incra e SDR no R"
+title: "Após jornada de lutas, MST volta a se reunir com Incra e SDR no RS"
 images_hd: "http://farm1.staticflickr.com/616/21297959366_b00f1ee0b2_b.jpg"
 menu: reforma agrária
 support_line: A reunião com o objetivo de dar continuidade às tratativas sobre demandas das famílias assentadas e acampadas no estado.
