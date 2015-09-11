@@ -47,6 +47,18 @@ files:
     small: "http://farm6.staticflickr.com/5762/21141049080_e235b03373_n.jpg"
     title: "donaJulia2!.jpg"
     $$hashKey: 03A
+  - link: "http://farm6.staticflickr.com/5657/21337486841_ca4135d474_b.jpg"
+    thumbnail: "http://farm6.staticflickr.com/5657/21337486841_ca4135d474_t.jpg"
+    medium: "http://farm6.staticflickr.com/5657/21337486841_ca4135d474_z.jpg"
+    small: "http://farm6.staticflickr.com/5657/21337486841_ca4135d474_n.jpg"
+    title: Cordel-Saberes-escola13deMaio.jpg
+    $$hashKey: 0F3
+  - link: "http://farm6.staticflickr.com/5832/21329282375_c1cb8a5d18_b.jpg"
+    thumbnail: "http://farm6.staticflickr.com/5832/21329282375_c1cb8a5d18_t.jpg"
+    medium: "http://farm6.staticflickr.com/5832/21329282375_c1cb8a5d18_z.jpg"
+    small: "http://farm6.staticflickr.com/5832/21329282375_c1cb8a5d18_n.jpg"
+    title: "Aula-13deMaio!.jpg"
+    $$hashKey: 0F6
 created_date: "2015-09-11T16:48:10-03:00"
 published: true
 releated_posts:
@@ -63,8 +75,6 @@ releated_posts:
 
 <p><br />
 <em>Em prepara&ccedil;&atilde;o ao <a href="http://www.mst.org.br/2015/08/17/mais-de-1-200-participantes-debatem-a-educacao-publica-brasileira.html" target="_blank">2&deg; Encontro Nacional dos Educadores e Educadoras da Reforma Agr&aacute;ria (ENERA)</a>, que acontecer&aacute; entre os dias 21 a 25/09, em Luzi&acirc;nia (GO), a P&aacute;gina do MST traz uma s&eacute;rie de entrevistas, reportagens e artigos sobre experi&ecirc;ncias da Educa&ccedil;&atilde;o do Campo, o atual cen&aacute;rio educacional do pa&iacute;s e os desafios que se anunciam sobre este debate.&nbsp;</em></p>
-
-<p>&nbsp;</p>
 
 <p><br />
 <em>Por Guy Zurkinden<br />
@@ -135,7 +145,12 @@ Em 2006, os Sem Terra ingressaram no Comit&ecirc; de educa&ccedil;&atilde;o do c
 A luta protagonizada pelos camponeses fez com que o Movimento se firmasse como refer&ecirc;ncia na educa&ccedil;&atilde;o do campo, passando a dirigir uma forma&ccedil;&atilde;o espec&iacute;fica destinada aos professores do EJA.<br />
 &nbsp;</p>
 
-<p><img alt="donaJulia2!.jpg" src="http://farm6.staticflickr.com/5762/21141049080_e235b03373_b.jpg" /><br />
+<figure class="image"><img alt="donaJulia2!.jpg" src="http://farm6.staticflickr.com/5762/21141049080_e235b03373_b.jpg" />
+<figcaption>Dona J&uacute;lia, que aos 43 anos faz o Ensino M&eacute;dio pelo EJA.<br />
+</figcaption>
+</figure>
+
+<p><br />
 <br />
 As den&uacute;ncias dos limites dos programas existentes, por&eacute;m, n&atilde;o cessaram. &ldquo;Esses projetos eram concebidos como paliativos, sem conseguir elevar o grau de escolaridade. Quem fazia alfabetiza&ccedil;&atilde;o n&atilde;o tinha perspectiva de continuar&rdquo;, explica Rubneuza Leandro, da dire&ccedil;&atilde;o do setor de educa&ccedil;&atilde;o.</p>
 
@@ -154,7 +169,7 @@ Segundo os dados da Secretaria de Educa&ccedil;&atilde;o, mais de 7 mil jovens e
 <p><br />
 &nbsp;</p>
 
-<figure class="image" style="float:right"><img alt="Crianças-Boqueirão!.jpg" src="http://farm6.staticflickr.com/5636/20707812573_59cc1d80a9_b.jpg" />
+<figure class="image" style="float:right"><img alt="Aula-13deMaio!.jpg" src="http://farm6.staticflickr.com/5832/21329282375_c1cb8a5d18_b.jpg" />
 <figcaption></figcaption>
 </figure>
 
@@ -175,8 +190,13 @@ Tatiane de Souza Santos, fi lha de assentada e coordenadora de turmas de EJA no 
 <p><br />
 Ao criar v&iacute;nculos de socializa&ccedil;&atilde;o, as aulas melhoram o conv&iacute;vio e refor&ccedil;am a identidade nas comunidades. Atividades pr&aacute;ticas e projetos produtivos, realizados com a ajuda de um t&eacute;cnico, tamb&eacute;m ajudaram a potencializar a produ&ccedil;&atilde;o. &ldquo;Gra&ccedil;as aos alunos do Saberes da Terra, temos hoje comercializa&ccedil;&atilde;o de galinhas e hortali&ccedil;as, produzidas em assentamentos&rdquo;, conta o pedagogo Adailton dos Santos Cardoso, membro da dire&ccedil;&atilde;o estadual do MST.</p>
 
-<p><br />
-Embora os avan&ccedil;os sejam importantes, os obst&aacute;culos n&atilde;o faltam. Segundo Edilene Menezes Mota, assentada e coordenadora de EJA em Santa Maria de Boa Vista, a maior difi culdade &eacute; a perman&ecirc;ncia dos educandos dentro da sala de aula. Muitos chegam cansados do trabalho.</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="Crianças-Boqueirão!.jpg" src="http://farm6.staticflickr.com/5636/20707812573_59cc1d80a9_b.jpg" />
+<figcaption></figcaption>
+</figure>
+
+<p>Embora os avan&ccedil;os sejam importantes, os obst&aacute;culos n&atilde;o faltam. Segundo Edilene Menezes Mota, assentada e coordenadora de EJA em Santa Maria de Boa Vista, a maior difi culdade &eacute; a perman&ecirc;ncia dos educandos dentro da sala de aula. Muitos chegam cansados do trabalho.</p>
 
 <p><br />
 Outros t&ecirc;m que sair do assentamento em busca de renda, dificultando a escolariza&ccedil;&atilde;o. A infraestrutura prec&aacute;ria &eacute; outro problema: em muitas escolas, m&atilde;es assistem &agrave;s aulas com as crian&ccedil;as, por falta de ciranda infantil. Seis meses ap&oacute;s o in&iacute;cio dos cursos, o material did&aacute;tico destinado aos alunos da EJA ainda n&atilde;o havia chegado. As merendas tamb&eacute;m faziam falta.</p>
@@ -188,9 +208,11 @@ Rubneuza Leandro aponta outra contradi&ccedil;&atilde;o: &ldquo;Os programas de 
 No campo pernambucano, 2014 come&ccedil;ou com uma avalanche de fechamento de escolas. Foram tr&ecirc;s s&oacute; munic&iacute;pio de Santa Maria da Boa Vista. &ldquo;As escolas restantes s&atilde;o superlotadas. No povoado vizinho, tem crian&ccedil;as estudando dentro de uma capela!&rdquo;, denuncia a assentada Edilce de Maria.</p>
 
 <p><br />
-Nos &uacute;ltimos dez anos, mais de 37 mil escolas do campo foram fechadas no pa&iacute;s. Em 2012, pela primeira vez em 14 anos, a taxa de analfabetismo voltou a aumentar no Nordeste brasileiro, passando de 16,9% (2011) para 17,4%.</p>
+Nos &uacute;ltimos dez anos, mais de 37 mil escolas do campo foram fechadas no pa&iacute;s. Em 2012, pela primeira vez em 14 anos, a taxa de analfabetismo voltou a aumentar no Nordeste brasileiro, passando de 16,9% (2011) para 17,4%.<br />
+&nbsp;</p>
 
-<p><br />
+<p><img alt="Cordel-Saberes-escola13deMaio.jpg" src="http://farm6.staticflickr.com/5657/21337486841_ca4135d474_b.jpg" /><br />
+<br />
 <strong>Superando uma hist&oacute;ria de exclus&atilde;o&nbsp;</strong></p>
 
 <p><br />
@@ -208,20 +230,4 @@ A vida muda com a chegada ao assentamento Nossa Senhora da Concei&ccedil;&atilde
 <p><br />
 &ldquo;N&atilde;o estou t&atilde;o jovem, mas n&atilde;o pretendo parar.&rdquo; Os olhos de Seu Jos&eacute; brilham por tr&aacute;s dos &oacute;culos. Em 2013, ele iniciou a EJA m&eacute;dio, rumo a outra pretens&atilde;o: a faculdade.</p>
 
-<p><br />
-<strong>Da terra &agrave; educa&ccedil;&atilde;o</strong></p>
-
-<p><br />
-Em Santa Maria, o trabalho realizado pelo setor de educa&ccedil;&atilde;o do MST nas &aacute;reas de Reforma Agr&aacute;ria virou refer&ecirc;ncia. Em 1997, a prefeitura do munic&iacute;pio inicia uma parceria com o Movimento, confiando o acompanhamento das escolas situadas em assentamentos a seus educadores.</p>
-
-<p><br />
-Em 2009, a Secretaria de Educa&ccedil;&atilde;o cria um departamento de educa&ccedil;&atilde;o do campo e amplia a a&ccedil;&atilde;o dos coordenadores do MST &agrave;s 63 escolas do munic&iacute;pio. No mesmo ano, Santa Maria da Boa Vista se destaca como o primeiro munic&iacute;pio do Nordeste brasileiro a realizar um semin&aacute;rio de educa&ccedil;&atilde;o do campo.</p>
-
-<p><br />
-A iniciativa vai desembocar num caderno tem&aacute;tico, composto por textos dialogando com a realidade e hist&oacute;ria dos camponeses no munic&iacute;pio. Reflexo deste processo, a taxa de analfabetismo baixou em Santa Maria da Boa Vista nos &uacute;ltimos anos. &ldquo;Isto &eacute; fruto da nossa luta. Nos munic&iacute;pios onde o MST atua voc&ecirc; v&ecirc; uma diferen&ccedil;a: escolas funcionando, pessoas estudando&rdquo;, ressalta Adailton.</p>
-
-<p><br />
-Por&eacute;m, de acordo com o dirigente, &ldquo;estas conquistas s&atilde;o hoje amea&ccedil;adas pela pol&iacute;tica partid&aacute;ria.&rdquo; Ap&oacute;s um imbr&oacute;glio pol&iacute;tico-judicial, a prefeita Eliane Costa (PSB) &eacute; eleita em junho de 2013. O seu vice &eacute; Jos&eacute; Gualberto de Freitas Almeida (PMDB), latifundi&aacute;rio e dono da Fazenda Milano, empresa de produ&ccedil;&atilde;o de uva para exporta&ccedil;&atilde;o, falida e ocupada em outubro de 2013 por 1000 fam&iacute;lias Sem Terra.</p>
-
-<p><br />
-Nos anos 90, Gualberto liderou a repress&atilde;o contra os Sem Terra na regi&atilde;o. A sua elei&ccedil;&atilde;o se traduziu logo em retrocessos. &ldquo;Perdemos a presen&ccedil;a institucionalizada que t&iacute;nhamos na secretaria de educa&ccedil;&atilde;o&rdquo;, afirma Adailton. Mas o militante n&atilde;o desanima: &ldquo;Continuaremos a fazer o que j&aacute; faz&iacute;amos antes: coordenar as nossas escolas de forma militante&rdquo;.</p>
+<p>&nbsp;</p>
