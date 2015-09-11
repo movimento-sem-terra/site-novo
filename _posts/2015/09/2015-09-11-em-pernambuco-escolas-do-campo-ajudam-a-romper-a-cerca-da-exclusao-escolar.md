@@ -69,6 +69,7 @@ releated_posts:
   - 2015/09/2015-09-01-educandas-do-mst-avancam-para-3a-etapa-da-olimpiada-catarinense-de-quimica.md
   - 2015/08/2015-08-13-de-cuba-para-o-brasil-as-licoes-que-ultrapassam-fronteiras.md
   - 2015/09/2015-09-08-escolas-do-mst-viram-alvo-da-seduc-que-tenta-desconstruir-conquistas-dos-sem-terra.md
+section: cover
 
 ---
 <p><img alt="CriançasBoqueirão2!.jpg" src="http://farm6.staticflickr.com/5713/20707898043_16c5c5425a_b.jpg" /></p>
@@ -109,6 +110,13 @@ Como milhares de trabalhadores do meio rural, a camponesa teve o direito &agrave
 Para chegar &agrave; escola mais pr&oacute;xima, Dona J&uacute;lia e a irm&atilde; tinham que caminhar mais de uma hora. Mas com medo que acontecesse alguma coisa com as filhas, sua m&atilde;e acabou proibindo as viagens.&nbsp;</p>
 
 <p><br />
+<strong>Leia mais:</strong></p>
+
+<p><strong><a href="http://www.mst.org.br/2015/08/17/de-cuba-para-o-brasil-as-licoes-que-ultrapassam-fronteiras.html">De Cuba para o Brasil, as li&ccedil;&otilde;es que ultrapassam fronteiras</a></strong></p>
+
+<p><strong><a href="http://www.mst.org.br/2015/05/18/reforma-agraria-em-bom-portugues-uma-historia-premiada.html">Reforma agr&aacute;ria em bom portugu&ecirc;s. Uma hist&oacute;ria premiada</a></strong></p>
+
+<p><br />
 &Agrave; J&uacute;lia s&oacute; ficou &ldquo;aquele sonho, de terminar os estudos.&rdquo; Em 1999, por&eacute;m, a ent&atilde;o rec&eacute;m assentada retomou o caminho da escola, e em 2003, completou o Ensino Fundamental. Mesmo com a vontade de seguir com os estudos na &eacute;poca, as necessidades da vida falaram mais alto. &ldquo;Tinha muito trabalho, os filhos eram pequenos.&rdquo;</p>
 
 <p><br />
@@ -146,8 +154,7 @@ A luta protagonizada pelos camponeses fez com que o Movimento se firmasse como r
 &nbsp;</p>
 
 <figure class="image"><img alt="donaJulia2!.jpg" src="http://farm6.staticflickr.com/5762/21141049080_e235b03373_b.jpg" />
-<figcaption>Dona J&uacute;lia, que aos 43 anos faz o Ensino M&eacute;dio pelo EJA.<br />
-</figcaption>
+<figcaption>Dona J&uacute;lia, que aos 43 anos faz o Ensino M&eacute;dio pelo EJA.</figcaption>
 </figure>
 
 <p><br />
@@ -159,6 +166,13 @@ Ao longo de semin&aacute;rios, marchas e ocupa&ccedil;&otilde;es, os Sem Terra p
 
 <p><br />
 Em 2013, ap&oacute;s sete anos de luta, a reivindica&ccedil;&atilde;o &eacute; atendida pelo governo: o programa EJA Campo entra em vigor, garantindo em n&iacute;vel do Estado todos os segmentos da educa&ccedil;&atilde;o aos jovens e adultos, com curr&iacute;culos e metodologia unificados. Para a coordenadora Maria Fernanda, a iniciativa &eacute; pioneira.</p>
+
+<p style="line-height: 20.8px;"><br />
+<strong>Leia mais:</strong></p>
+
+<p style="line-height: 20.8px;"><strong><a href="http://www.mst.org.br/2015/05/06/de-tijolo-em-tijolo-sem-terra-construiram-a-primeira-escola-do-campo.html">De tijolo em tijolo, Sem Terra constru&iacute;ram a primeira escola do campo em MT</a></strong></p>
+
+<p style="line-height: 20.8px;"><strong><a href="http://www.mst.org.br/2015/03/23/o-educando-de-ontem-e-o-professor-de-hoje.html">No Assentamento Palmares 2, o educando de ontem &eacute; o professor de hoje</a></strong></p>
 
 <p><br />
 &ldquo;Pela primeira vez a Educa&ccedil;&atilde;o de Jovens e Adultos se torna uma modalidade da educa&ccedil;&atilde;o b&aacute;sica. De programa compensat&oacute;rio, ela vira pol&iacute;tica p&uacute;blica.&rdquo;</p>
