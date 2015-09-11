@@ -98,7 +98,10 @@ Na beira da pista, por&eacute;m, os barracos dos acampamentos Hugo Ch&aacute;vez
 <figcaption></figcaption>
 </figure>
 
-<p>Um dos resultados desse processo &eacute; a escola Franscesco Moura, localizada no &ldquo;M&atilde;e Safra&rdquo; &ndash; como &eacute; chamado o assentamento mais antigo de Santa Maria -, onde acontece um dos cursos de Educa&ccedil;&atilde;o de Jovens e Adultos (EJA) Assentada no Safra, J&uacute;lia Nunes de Lima Ferreira &eacute; m&atilde;e de cinco filhos, todos adultos.</p>
+<p>Um dos resultados desse processo &eacute; a escola Franscesco Moura, localizada no &ldquo;M&atilde;e Safra&rdquo; &ndash; como &eacute; chamado o assentamento mais antigo de Santa Maria -, onde acontece um dos cursos de Educa&ccedil;&atilde;o de Jovens e Adultos (EJA).</p>
+
+<p><br />
+Assentada no Safra, J&uacute;lia Nunes de Lima Ferreira &eacute; m&atilde;e de cinco filhos, todos adultos.</p>
 
 <p><br />
 Em 1995, dona J&uacute;lia montou o barraco na beira do rio S&atilde;o Francisco, junto &agrave;s 2.200 fam&iacute;liasSem Terra. Daquela &eacute;poca, a agricultora tem lembran&ccedil;as de alegrias e sofrimento. &ldquo;Foi um tempo dif&iacute;cil, mas todo mundo era amigo. Um quilo de a&ccedil;&uacute;car, todo mundo dividia.&rdquo; Ap&oacute;s dois anos e cinco meses de resist&ecirc;ncia, nascia o assentamento Safra.</p>
