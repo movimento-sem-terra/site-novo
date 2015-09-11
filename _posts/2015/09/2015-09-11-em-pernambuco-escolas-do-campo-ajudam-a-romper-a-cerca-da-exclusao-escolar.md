@@ -1,6 +1,9 @@
 ---
 date: "2015-09-11T16:15:46-03:00"
-tags: []
+tags:
+  - tag: educação
+  - tag: enera
+  - tag: reforma-agrária
 images_hd: "http://farm6.staticflickr.com/5713/20707898043_16c5c5425a_b.jpg"
 title: "Em Pernambuco, escolas do campo ajudam a romper a cerca da exclusão escolar"
 support_line: A luta dos Sem Terra pela educação de jovens e adultos no campo pernambucano superou um histórico de exclusão.
@@ -20,32 +23,54 @@ files:
     small: "http://farm6.staticflickr.com/5646/21337143511_de9ea9c13d_n.jpg"
     title: "AulaSafra!.jpg"
     $$hashKey: 0FI
-  - link: "http://farm1.staticflickr.com/572/21318262572_56082eb53a_b.jpg"
-    thumbnail: "http://farm1.staticflickr.com/572/21318262572_56082eb53a_t.jpg"
-    medium: "http://farm1.staticflickr.com/572/21318262572_56082eb53a_z.jpg"
-    small: "http://farm1.staticflickr.com/572/21318262572_56082eb53a_n.jpg"
-    title: Alzenir2-escolaFranciscoMoura.jpg
-    $$hashKey: 0FL
   - link: "http://farm6.staticflickr.com/5713/20707898043_16c5c5425a_b.jpg"
     thumbnail: "http://farm6.staticflickr.com/5713/20707898043_16c5c5425a_t.jpg"
     medium: "http://farm6.staticflickr.com/5713/20707898043_16c5c5425a_z.jpg"
     small: "http://farm6.staticflickr.com/5713/20707898043_16c5c5425a_n.jpg"
     title: "CriançasBoqueirão2!.jpg"
     $$hashKey: 0FR
+  - link: "http://farm6.staticflickr.com/5618/20706385584_9d8b6fdf75_b.jpg"
+    thumbnail: "http://farm6.staticflickr.com/5618/20706385584_9d8b6fdf75_t.jpg"
+    medium: "http://farm6.staticflickr.com/5618/20706385584_9d8b6fdf75_z.jpg"
+    small: "http://farm6.staticflickr.com/5618/20706385584_9d8b6fdf75_n.jpg"
+    title: "Alzenir2-escolaFranciscoMoura!.jpg"
+    $$hashKey: "034"
+  - link: "http://farm1.staticflickr.com/765/21141248558_29f0a045c1_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/765/21141248558_29f0a045c1_t.jpg"
+    medium: "http://farm1.staticflickr.com/765/21141248558_29f0a045c1_z.jpg"
+    small: "http://farm1.staticflickr.com/765/21141248558_29f0a045c1_n.jpg"
+    title: "Aula-13deMaio3!.jpg"
+    $$hashKey: "037"
+  - link: "http://farm6.staticflickr.com/5762/21141049080_e235b03373_b.jpg"
+    thumbnail: "http://farm6.staticflickr.com/5762/21141049080_e235b03373_t.jpg"
+    medium: "http://farm6.staticflickr.com/5762/21141049080_e235b03373_z.jpg"
+    small: "http://farm6.staticflickr.com/5762/21141049080_e235b03373_n.jpg"
+    title: "donaJulia2!.jpg"
+    $$hashKey: 03A
 created_date: "2015-09-11T16:48:10-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - 2015/07/2015-07-15-enera-tem-o-desafio-de-criar-um-novo-espaco-de-articulacao-entre-os-trabalhadores-da-educacao.md
+  - 2015/07/2015-07-01-grandes-grupos-economicos-estao-ditando-a-formacao-de-criancas-e-jovens-brasileiros.md
+  - 2015/07/2015-07-23-escolas-tem-papel-fundamental-na-construcao-da-reforma-agraria-popular-apontam-educadores.md
+  - 2015/09/2015-09-02-2-enera-vem-para-reabrir-os-circuitos-da-historia-da-educacao-do-campo.md
+  - 2015/09/2015-09-01-educandas-do-mst-avancam-para-3a-etapa-da-olimpiada-catarinense-de-quimica.md
+  - 2015/08/2015-08-13-de-cuba-para-o-brasil-as-licoes-que-ultrapassam-fronteiras.md
+  - 2015/09/2015-09-08-escolas-do-mst-viram-alvo-da-seduc-que-tenta-desconstruir-conquistas-dos-sem-terra.md
 
 ---
 <p><img alt="CriançasBoqueirão2!.jpg" src="http://farm6.staticflickr.com/5713/20707898043_16c5c5425a_b.jpg" /></p>
+
+<p><br />
+<em>Em prepara&ccedil;&atilde;o ao <a href="http://www.mst.org.br/2015/08/17/mais-de-1-200-participantes-debatem-a-educacao-publica-brasileira.html" target="_blank">2&deg; Encontro Nacional dos Educadores e Educadoras da Reforma Agr&aacute;ria (ENERA)</a>, que acontecer&aacute; entre os dias 21 a 25/09, em Luzi&acirc;nia (GO), a P&aacute;gina do MST traz uma s&eacute;rie de entrevistas, reportagens e artigos sobre experi&ecirc;ncias da Educa&ccedil;&atilde;o do Campo, o atual cen&aacute;rio educacional do pa&iacute;s e os desafios que se anunciam sobre este debate.&nbsp;</em></p>
+
+<p>&nbsp;</p>
 
 <p><br />
 <em>Por Guy Zurkinden<br />
 Da P&aacute;gina do MST</em><em> </em></p>
 
 <p><em>Fotos Luiz Mario Santana</em></p>
-
-<p>&nbsp;</p>
 
 <p><br />
 H&aacute; quem diga que a hist&oacute;ria da educa&ccedil;&atilde;o do campo em Pernambuco nasce no munic&iacute;pio de Santa Maria da Boa Vista, no Vale de S&atilde;o Francisco, sert&atilde;o do estado. O ano data de 1995, quando 2.200 fam&iacute;lias Sem Terra ocuparam a Fazenda Safra, no m&ecirc;s de agosto. Da&iacute; em diante pipocaram acampamentos de fam&iacute;lias Sem Terra sobre as fazendas falidas da regi&atilde;o, outrora ocupadas por monocultivos de frutas destinados &agrave; exporta&ccedil;&atilde;o.</p>
@@ -56,8 +81,13 @@ Vinte anos depois, o trecho ficou conhecido como &ldquo;a estrada da Reforma Agr
 <p><br />
 Na beira da pista, por&eacute;m, os barracos dos acampamentos Hugo Ch&aacute;vez e Filhos da Luta demarcam que a luta pela terra ainda n&atilde;o terminou.</p>
 
-<p><br />
-Um dos resultados desse processo &eacute; a escola Franscesco Moura, localizada no &ldquo;M&atilde;e Safra&rdquo; &ndash; como &eacute; chamado o assentamento mais antigo de Santa Maria -, onde acontece um dos cursos de Educa&ccedil;&atilde;o de Jovens e Adultos (EJA) Assentada no Safra, J&uacute;lia Nunes de Lima Ferreira &eacute; m&atilde;e de cinco filhos, todos adultos.</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="Alzenir2-escolaFranciscoMoura!.jpg" src="http://farm6.staticflickr.com/5618/20706385584_9d8b6fdf75_b.jpg" />
+<figcaption></figcaption>
+</figure>
+
+<p>Um dos resultados desse processo &eacute; a escola Franscesco Moura, localizada no &ldquo;M&atilde;e Safra&rdquo; &ndash; como &eacute; chamado o assentamento mais antigo de Santa Maria -, onde acontece um dos cursos de Educa&ccedil;&atilde;o de Jovens e Adultos (EJA) Assentada no Safra, J&uacute;lia Nunes de Lima Ferreira &eacute; m&atilde;e de cinco filhos, todos adultos.</p>
 
 <p><br />
 Em 1995, dona J&uacute;lia montou o barraco na beira do rio S&atilde;o Francisco, junto &agrave;s 2.200 fam&iacute;liasSem Terra. Daquela &eacute;poca, a agricultora tem lembran&ccedil;as de alegrias e sofrimento. &ldquo;Foi um tempo dif&iacute;cil, mas todo mundo era amigo. Um quilo de a&ccedil;&uacute;car, todo mundo dividia.&rdquo; Ap&oacute;s dois anos e cinco meses de resist&ecirc;ncia, nascia o assentamento Safra.</p>
@@ -75,7 +105,13 @@ Para chegar &agrave; escola mais pr&oacute;xima, Dona J&uacute;lia e a irm&atild
 Esperou at&eacute; novembro de 2013, e aos 43 anos, a agricultora ingressou no programa estadual de Educa&ccedil;&atilde;o de Jovens e Adultos (EJA Campo) para dar in&iacute;cio ao Ensino M&eacute;dio. De segunda a sexta-feira, ap&oacute;s o dia de trabalho, Dona J&uacute;lia sai de sua casa azul rumo &agrave; escola Francesco Moura. L&aacute;, estuda das 19h &agrave;s 21h40. Em 2015, &ldquo;se Deus quiser&rdquo;, ter&aacute; seu sonho de crian&ccedil;a realizado.</p>
 
 <p><br />
-<strong>Do paliativo &agrave; pol&iacute;tica p&uacute;blica</strong></p>
+&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="Aula-13deMaio3!.jpg" src="http://farm1.staticflickr.com/765/21141248558_29f0a045c1_b.jpg" />
+<figcaption></figcaption>
+</figure>
+
+<p><strong>Do paliativo &agrave; pol&iacute;tica p&uacute;blica</strong></p>
 
 <p><br />
 Membro do setor de educa&ccedil;&atilde;o do MST e coordenadora de cinco turmas de EJA no munic&iacute;pio de Serra Talhada, Sert&atilde;o de Pernambuco, Ana Paula Monteiro Araujo destaca o fato de que &ldquo;pela primeira vez temos turmas de jovens e adultos cursando o ensino m&eacute;dio dentro dos nossos assentamentos&rdquo;. O caminho foi longo.</p>
@@ -96,9 +132,11 @@ Em 2005, o Minist&eacute;rio da Educa&ccedil;&atilde;o (MEC) lan&ccedil;ou o pro
 Em 2006, os Sem Terra ingressaram no Comit&ecirc; de educa&ccedil;&atilde;o do campo no estado e come&ccedil;aram a acompanhar cada passo das quatro edi&ccedil;&otilde;es do programa, realizando um diagn&oacute;stico das necessidades, mobiliza&ccedil;&atilde;o dos futuros educandos nas comunidades e elabora&ccedil;&atilde;o do projeto pol&iacute;tico-pedag&oacute;gico.</p>
 
 <p><br />
-A luta protagonizada pelos camponeses fez com que o Movimento se firmasse como refer&ecirc;ncia na educa&ccedil;&atilde;o do campo, passando a dirigir uma forma&ccedil;&atilde;o espec&iacute;fica destinada aos professores do EJA.</p>
+A luta protagonizada pelos camponeses fez com que o Movimento se firmasse como refer&ecirc;ncia na educa&ccedil;&atilde;o do campo, passando a dirigir uma forma&ccedil;&atilde;o espec&iacute;fica destinada aos professores do EJA.<br />
+&nbsp;</p>
 
-<p><br />
+<p><img alt="donaJulia2!.jpg" src="http://farm6.staticflickr.com/5762/21141049080_e235b03373_b.jpg" /><br />
+<br />
 As den&uacute;ncias dos limites dos programas existentes, por&eacute;m, n&atilde;o cessaram. &ldquo;Esses projetos eram concebidos como paliativos, sem conseguir elevar o grau de escolaridade. Quem fazia alfabetiza&ccedil;&atilde;o n&atilde;o tinha perspectiva de continuar&rdquo;, explica Rubneuza Leandro, da dire&ccedil;&atilde;o do setor de educa&ccedil;&atilde;o.</p>
 
 <p><br />
@@ -114,7 +152,13 @@ Em 2013, ap&oacute;s sete anos de luta, a reivindica&ccedil;&atilde;o &eacute; a
 Segundo os dados da Secretaria de Educa&ccedil;&atilde;o, mais de 7 mil jovens e adultos ingressaram nas turmas da EJA Campo em 2013: 3272 no Ensino Fundamental (EJA inicial) e 4 mil no Ensino M&eacute;dio (EJA m&eacute;dio).</p>
 
 <p><br />
-<strong>Educa&ccedil;&atilde;o emancipadora </strong></p>
+&nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="Crianças-Boqueirão!.jpg" src="http://farm6.staticflickr.com/5636/20707812573_59cc1d80a9_b.jpg" />
+<figcaption></figcaption>
+</figure>
+
+<p><strong>Educa&ccedil;&atilde;o emancipadora </strong></p>
 
 <p><br />
 &ldquo;Os alunos s&atilde;o muito comprometidos. Eles v&ecirc;m para aprender, mas tamb&eacute;m para passar o que sabem&rdquo;, observa a diretora da escola do assentamento Safra, Alzenir Socorro dos Santos (foto de capa), que tamb&eacute;m ensina l&iacute;nguas nas turmas do EJA.</p>
