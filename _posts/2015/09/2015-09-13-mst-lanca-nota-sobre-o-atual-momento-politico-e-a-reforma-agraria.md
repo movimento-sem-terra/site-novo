@@ -40,7 +40,7 @@ releated_posts:
 Diante da conjuntura pol&iacute;tica nacional e internacional, uma de suas principais advert&ecirc;ncias consiste em alertar sobre a import&acirc;ncia de n&atilde;o resumir a luta pol&iacute;tica &agrave; luta eleitoral e de n&atilde;o sucumbir &agrave;s armadilhas da pol&iacute;tica tradicional.&nbsp;</p>
 
 <p><br />
-Posto isso, o lan&ccedil;a sua posi&ccedil;&atilde;o oficial diante da atual crise pol&iacute;tica e a situa&ccedil;&atilde;o atual da Reforma Agr&aacute;ria no pa&iacute;s. &nbsp;</p>
+Posto isso, o Movimento&nbsp;lan&ccedil;a sua posi&ccedil;&atilde;o oficial diante da atual crise pol&iacute;tica e a situa&ccedil;&atilde;o atual da Reforma Agr&aacute;ria no pa&iacute;s. &nbsp;</p>
 
 <p><br />
 Al&eacute;m de denunciar as persegui&ccedil;&otilde;es, os assassinatos e a criminaliza&ccedil;&atilde;o dos movimentos populares na cidade e no campo e criticar o ajuste fiscal que atinge de maneira massiva a classe trabalhadora, o Movimento exige do governo federal o assentamento priorit&aacute;rio de todas as 120 mil fam&iacute;lias acampadas (algumas h&aacute; mais de dez anos), um Plano Nacional de Produ&ccedil;&atilde;o de Alimentos Saud&aacute;veis&nbsp;e a implanta&ccedil;&atilde;o&nbsp;do Programa Nacional de Agroecologia, aprovado em 2012 e at&eacute; hoje parado.</p>
