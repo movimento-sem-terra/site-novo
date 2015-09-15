@@ -8,7 +8,7 @@ title: MST lança nota sobre o atual momento político e a Reforma Agrária
 menu: reforma agrária
 support_line: "O Movimento exige, dentre outras coisas, que governo federal, implemente os compromissos assumidos com os Sem Terra."
 images_hd: "http://farm6.staticflickr.com/5790/21197776119_60be13b4b1_b.jpg"
-section: cover
+section: featured-news
 layout: post
 files:
   - link: "http://farm6.staticflickr.com/5790/21197776119_60be13b4b1_b.jpg"
