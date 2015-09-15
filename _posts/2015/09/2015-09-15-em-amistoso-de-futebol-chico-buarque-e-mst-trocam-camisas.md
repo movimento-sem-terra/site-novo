@@ -5,7 +5,7 @@ tags:
   - tag: chico-buarque
   - tag: cultura
   - tag: enff
-images_hd: "http://farm1.staticflickr.com/735/21429184972_3d6028f7f8_b.jpg"
+images_hd: "http://farm6.staticflickr.com/5659/21441708905_f92524d6db_b.jpg"
 sector: culture
 title: "Em amistoso de futebol, Chico Buarque e MST ‘trocam camisas’"
 menu: "educação, cultura e comunicação"
@@ -19,6 +19,18 @@ files:
     small: "http://farm1.staticflickr.com/735/21429184972_3d6028f7f8_n.jpg"
     title: jogo chico.jpg
     $$hashKey: 0MB
+  - link: "http://farm1.staticflickr.com/696/21253879308_b085067d0c_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/696/21253879308_b085067d0c_t.jpg"
+    medium: "http://farm1.staticflickr.com/696/21253879308_b085067d0c_z.jpg"
+    small: "http://farm1.staticflickr.com/696/21253879308_b085067d0c_n.jpg"
+    title: stefano figalo.png
+    $$hashKey: 058
+  - link: "http://farm6.staticflickr.com/5659/21441708905_f92524d6db_b.jpg"
+    thumbnail: "http://farm6.staticflickr.com/5659/21441708905_f92524d6db_t.jpg"
+    medium: "http://farm6.staticflickr.com/5659/21441708905_f92524d6db_z.jpg"
+    small: "http://farm6.staticflickr.com/5659/21441708905_f92524d6db_n.jpg"
+    title: sfigal.com_.png
+    $$hashKey: 05B
 created_date: "2015-09-15T11:46:43-03:00"
 published: true
 releated_posts:
@@ -28,12 +40,9 @@ releated_posts:
   - 2015/01/2015-01-25-mais-de-600-pessoas-participaram-do-premio-luta-pela-terra.md
 
 ---
-<p>&nbsp;</p>
-
-<p><iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/R9bxAbNCMVU" width="640"></iframe></p>
-
-<p><br />
-<em>Por Luiz Felipe Albuquerque<br />
+<p><img alt="sfigal.com_.png" src="http://farm6.staticflickr.com/5659/21441708905_f92524d6db_b.jpg" /><br />
+<br />
+<em>Por&nbsp;Luiz Felipe Albuquerque<br />
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
@@ -51,7 +60,8 @@ Entre um papo e outro, os Sem Terra apresentaram ao Chico a nova campanha da Esc
 <p><br />
 Como costume da ENFF, seus espa&ccedil;os s&atilde;o homenageados com nomes de lutadores e lutadoras da classe trabalhadora. Assim &eacute; o refeit&oacute;rio, chamado de Josu&eacute; de Castro, ou a Plen&aacute;ria Rosa Luxemburgo, ou os audit&oacute;rios Patativa do Assar&eacute; e Pagu. E assim ser&aacute; o campinho da escola: S&oacute;crates Brasileiro.</p>
 
-<p><br />
+<p><img alt="stefano figalo.png" src="http://farm1.staticflickr.com/696/21253879308_b085067d0c_b.jpg" /><br />
+<br />
 &ldquo;Perfeita escolha porque tem tudo a ver&rdquo;, diz Chico. &ldquo;Um grande companheiro de peladas, bate papo, cerveja e tudo mais&rdquo;, recorda o compositor, que diz ficar &ldquo;orgulhoso de ter participado da origem&rdquo; da Escola.</p>
 
 <p><br />
@@ -69,5 +79,7 @@ Voltando &agrave; homenagem ao S&oacute;crates, Chico ainda afirma que se &ldquo
 <p><br />
 Ainda sem data espec&iacute;fica, a pr&oacute;xima partida entre os Sem Terra e o Politeama j&aacute; est&aacute; marcada. Ser&aacute; na ENFF, na inaugura&ccedil;&atilde;o do Campo S&oacute;crates Brasileiro.<br />
 &nbsp;</p>
+
+<p><iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/R9bxAbNCMVU" width="640"></iframe></p>
 
 <p><img alt="jogo chico.jpg" src="http://farm1.staticflickr.com/735/21429184972_3d6028f7f8_b.jpg" /></p>
