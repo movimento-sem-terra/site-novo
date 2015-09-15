@@ -29,7 +29,7 @@ releated_posts:
 <p>&nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="dandara.jpg" src="http://farm6.staticflickr.com/5716/21437550325_9a1b0d7080_b.jpg" />
-<figcaption>Legenda</figcaption>
+<figcaption></figcaption>
 </figure>
 
 <p><em>Da P&aacute;gina do MST</em></p>
