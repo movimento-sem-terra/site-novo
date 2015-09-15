@@ -1,5 +1,5 @@
 ---
-date: "2015-09-15T09:24:46-03:00"
+date: "2015-09-15T11:24:46-03:00"
 tags:
   - tag: lutas-e-mobilizações
   - tag: alagoas
@@ -7,7 +7,7 @@ tags:
 title: Sem Terra se mobilizam em Arapiraca para denunciar especulação imobiliária
 support_line: "Os Sem Terra denunciam a entrega do terreno de uma ocupação de 13 anos para uma empreiteira, que construirá um condomínio de luxo no local."
 menu: lutas e mobilizações
-section: cover
+section: null
 images_hd: "http://farm6.staticflickr.com/5716/21437550325_9a1b0d7080_b.jpg"
 layout: post
 files:
