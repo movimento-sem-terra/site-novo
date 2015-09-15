@@ -19,18 +19,18 @@ files:
     small: "http://farm1.staticflickr.com/735/21429184972_3d6028f7f8_n.jpg"
     title: jogo chico.jpg
     $$hashKey: 0MB
-  - link: "http://farm1.staticflickr.com/696/21253879308_b085067d0c_b.jpg"
-    thumbnail: "http://farm1.staticflickr.com/696/21253879308_b085067d0c_t.jpg"
-    medium: "http://farm1.staticflickr.com/696/21253879308_b085067d0c_z.jpg"
-    small: "http://farm1.staticflickr.com/696/21253879308_b085067d0c_n.jpg"
-    title: stefano figalo.png
-    $$hashKey: 058
   - link: "http://farm6.staticflickr.com/5659/21441708905_f92524d6db_b.jpg"
     thumbnail: "http://farm6.staticflickr.com/5659/21441708905_f92524d6db_t.jpg"
     medium: "http://farm6.staticflickr.com/5659/21441708905_f92524d6db_z.jpg"
     small: "http://farm6.staticflickr.com/5659/21441708905_f92524d6db_n.jpg"
     title: sfigal.com_.png
     $$hashKey: 05B
+  - link: "http://farm6.staticflickr.com/5761/21431942552_90532c9fb4_b.jpg"
+    thumbnail: "http://farm6.staticflickr.com/5761/21431942552_90532c9fb4_t.jpg"
+    medium: "http://farm6.staticflickr.com/5761/21431942552_90532c9fb4_z.jpg"
+    small: "http://farm6.staticflickr.com/5761/21431942552_90532c9fb4_n.jpg"
+    title: stefano figalo.png
+    $$hashKey: 0AL
 created_date: "2015-09-15T11:46:43-03:00"
 published: true
 releated_posts:
@@ -57,11 +57,15 @@ Al&eacute;m do pr&oacute;prio Chico, Carlinhos Vergueiro e Chico Batera tamb&eac
 <p><br />
 Entre um papo e outro, os Sem Terra apresentaram ao Chico a nova campanha da Escola Nacional Florestan Fernandes (ENFF),&nbsp;a nomea&ccedil;&atilde;o do campo de futebol da Escola de &ldquo;S&oacute;crates Brasileiro&rdquo;.</p>
 
-<p><br />
-Como costume da ENFF, seus espa&ccedil;os s&atilde;o homenageados com nomes de lutadores e lutadoras da classe trabalhadora. Assim &eacute; o refeit&oacute;rio, chamado de Josu&eacute; de Castro, ou a Plen&aacute;ria Rosa Luxemburgo, ou os audit&oacute;rios Patativa do Assar&eacute; e Pagu. E assim ser&aacute; o campinho da escola: S&oacute;crates Brasileiro.</p>
+<p>&nbsp;</p>
 
-<p><img alt="stefano figalo.png" src="http://farm1.staticflickr.com/696/21253879308_b085067d0c_b.jpg" /><br />
-<br />
+<figure class="image" style="float:right"><img alt="stefano figalo.png" src="http://farm6.staticflickr.com/5761/21431942552_90532c9fb4_b.jpg" />
+<figcaption></figcaption>
+</figure>
+
+<p>Como costume da ENFF, seus espa&ccedil;os s&atilde;o homenageados com nomes de lutadores e lutadoras da classe trabalhadora. Assim &eacute; o refeit&oacute;rio, chamado de Josu&eacute; de Castro, ou a Plen&aacute;ria Rosa Luxemburgo, ou os audit&oacute;rios Patativa do Assar&eacute; e Pagu. E assim ser&aacute; o campinho da escola: S&oacute;crates Brasileiro.</p>
+
+<p><br />
 &ldquo;Perfeita escolha porque tem tudo a ver&rdquo;, diz Chico. &ldquo;Um grande companheiro de peladas, bate papo, cerveja e tudo mais&rdquo;, recorda o compositor, que diz ficar &ldquo;orgulhoso de ter participado da origem&rdquo; da Escola.</p>
 
 <p><br />
