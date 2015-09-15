@@ -28,7 +28,9 @@ releated_posts:
   - 2015/01/2015-01-25-mais-de-600-pessoas-participaram-do-premio-luta-pela-terra.md
 
 ---
-<p><img alt="jogo chico.jpg" src="http://farm1.staticflickr.com/735/21429184972_3d6028f7f8_b.jpg" /></p>
+<p>&nbsp;</p>
+
+<p><iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/R9bxAbNCMVU" width="640"></iframe></p>
 
 <p><br />
 <em>Por Luiz Felipe Albuquerque<br />
@@ -65,7 +67,7 @@ Voltando &agrave; homenagem ao S&oacute;crates, Chico ainda afirma que se &ldquo
 &ldquo;N&atilde;o &eacute; verdade, ele veio aqui e jogou conosco pelo Politeama&nbsp;e foi campe&atilde;o nos anos 90&rdquo;, brinca o compositor. &ldquo;&Eacute; um amigo que faz muita falta e &eacute; muito bom que voc&ecirc;s lembrem dele com o campinho de futebol&rdquo;, afirma.</p>
 
 <p><br />
-Ainda sem data espec&iacute;fica, a pr&oacute;xima partida entre os Sem Terra e o Politeama j&aacute; est&aacute; marcada. Ser&aacute; na ENFF, na inaugura&ccedil;&atilde;o do Campo S&oacute;crates Brasileiro.</p>
+Ainda sem data espec&iacute;fica, a pr&oacute;xima partida entre os Sem Terra e o Politeama j&aacute; est&aacute; marcada. Ser&aacute; na ENFF, na inaugura&ccedil;&atilde;o do Campo S&oacute;crates Brasileiro.<br />
+&nbsp;</p>
 
-<p><br />
-<iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/R9bxAbNCMVU" width="640"></iframe></p>
+<p><img alt="jogo chico.jpg" src="http://farm1.staticflickr.com/735/21429184972_3d6028f7f8_b.jpg" /></p>
