@@ -4,7 +4,7 @@ tags:
   - tag: lutas-e-mobilizações
   - tag: alagoas
   - tag: especulação-imobiliária
-title: Sem Terra se mobilizam em Arapiraca e denunciam a especulação imobiliária
+title: Sem Terra se mobilizam em Arapiraca para denunciar especulação imobiliária
 support_line: "Os Sem Terra denunciam a entrega do terreno de uma ocupação de 13 anos para uma empreiteira, que construirá um condomínio de luxo no local."
 menu: lutas e mobilizações
 section: cover
@@ -60,5 +60,3 @@ A &aacute;rea leiloada est&aacute; ocupada pelos trabalhadores h&aacute; 13 anos
 
 <p><br />
 Com todo esse tempo, os trabalhadores sempre estabeleceram o espa&ccedil;o do Acampamento Dandara como um exemplo em organiza&ccedil;&atilde;o, espa&ccedil;o para estudos e, principalmente, produ&ccedil;&atilde;o de alimentos saud&aacute;veis. Esta &aacute;rea, em acordo com participa&ccedil;&atilde;o do Minist&eacute;rio da Educa&ccedil;&atilde;o, seria desocupada para constru&ccedil;&atilde;o de uma Escola de Forma&ccedil;&atilde;o Agroecol&oacute;gica.</p>
-
-<p>&nbsp;</p>
