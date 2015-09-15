@@ -44,7 +44,7 @@ Foi esse o cl&aacute;ssico desta segunda-feira (14), num campinho no bairro do R
 Al&eacute;m do pr&oacute;prio Chico, Carlinhos Vergueiro e Chico Batera tamb&eacute;m estiveram em campo. Este &uacute;ltimo emprestado ao time dos Sem Terra. Resultado final: 7x7, melhor do que o &uacute;ltimo amistoso entre o time do MST e o Politeama, quando este ganhou dos Sem Terra no final dos anos de 1990.</p>
 
 <p><br />
-Entre um papo e outro, os Sem Terra apresentaram ao Chico a nova campanha da Escola Nacional Florestan Fernandes (ENFF): a nomea&ccedil;&atilde;o do campo de futebol da Escola de &ldquo;S&oacute;crates Brasileiro&rdquo;.</p>
+Entre um papo e outro, os Sem Terra apresentaram ao Chico a nova campanha da Escola Nacional Florestan Fernandes (ENFF),&nbsp;a nomea&ccedil;&atilde;o do campo de futebol da Escola de &ldquo;S&oacute;crates Brasileiro&rdquo;.</p>
 
 <p><br />
 Como costume da ENFF, seus espa&ccedil;os s&atilde;o homenageados com nomes de lutadores e lutadoras da classe trabalhadora. Assim &eacute; o refeit&oacute;rio, chamado de Josu&eacute; de Castro, ou a Plen&aacute;ria Rosa Luxemburgo, ou os audit&oacute;rios Patativa do Assar&eacute; e Pagu. E assim ser&aacute; o campinho da escola: S&oacute;crates Brasileiro.</p>
@@ -59,10 +59,10 @@ A ENFF foi fruto da Cole&ccedil;&atilde;o Terra, uma colet&acirc;nea de m&uacute
 Voltando &agrave; homenagem ao S&oacute;crates, Chico ainda afirma que se &ldquo;ele estivesse aqui estaria apoiando a Escola e o MST&rdquo;, j&aacute; que &ldquo;participou de todas as lutas pela democracia&rdquo; e &ldquo;foi sempre muito firme na defesa de sua classe&rdquo;.</p>
 
 <p><br />
-&ldquo;Um grande amigo&rdquo;, que &ldquo;todo mundo sabe a bola que batia&rdquo;. Por&eacute;m, para Chico, uma errata tem que ser colocada na hist&oacute;ria do futebol brasileiro. S&oacute;crates n&atilde;o se aposentou pelo Flamengo.</p>
+&ldquo;Um grande amigo&rdquo;, que &ldquo;todo mundo sabe a bola que batia&rdquo;. Por&eacute;m, para Chico, uma errata tem que ser feita na hist&oacute;ria do futebol brasileiro. S&oacute;crates n&atilde;o se aposentou pelo Flamengo.</p>
 
 <p><br />
-&ldquo;N&atilde;o &eacute; verdade, ele veio aqui e jogou conosco pelo nosso time, no Politeama, e foi campe&atilde;o nos anos 90&rdquo;, brinca o compositor. &ldquo;&Eacute; um amigo que faz muita falta e &eacute; muito bom que voc&ecirc;s lembrem dele com o campinho de futebol&rdquo;, afirma.</p>
+&ldquo;N&atilde;o &eacute; verdade, ele veio aqui e jogou conosco pelo Politeama&nbsp;e foi campe&atilde;o nos anos 90&rdquo;, brinca o compositor. &ldquo;&Eacute; um amigo que faz muita falta e &eacute; muito bom que voc&ecirc;s lembrem dele com o campinho de futebol&rdquo;, afirma.</p>
 
 <p><br />
 Ainda sem data espec&iacute;fica, a pr&oacute;xima partida entre os Sem Terra e o Politeama j&aacute; est&aacute; marcada. Ser&aacute; na ENFF, na inaugura&ccedil;&atilde;o do Campo S&oacute;crates Brasileiro.</p>
