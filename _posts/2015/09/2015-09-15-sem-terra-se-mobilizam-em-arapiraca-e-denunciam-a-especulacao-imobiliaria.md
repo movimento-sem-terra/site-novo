@@ -5,7 +5,7 @@ tags:
   - tag: alagoas
   - tag: especulação-imobiliária
 title: Sem Terra se mobilizam em Arapiraca e denunciam a especulação imobiliária
-support_line: "Os Sem Terra denunciam a entrega do terreno de uma ocupação de 13 anos para uma empreiteira, que construíra um condomínio de luxo no local."
+support_line: "Os Sem Terra denunciam a entrega do terreno de uma ocupação de 13 anos para uma empreiteira, que construirá um condomínio de luxo no local."
 menu: lutas e mobilizações
 section: cover
 images_hd: "http://farm6.staticflickr.com/5716/21437550325_9a1b0d7080_b.jpg"
