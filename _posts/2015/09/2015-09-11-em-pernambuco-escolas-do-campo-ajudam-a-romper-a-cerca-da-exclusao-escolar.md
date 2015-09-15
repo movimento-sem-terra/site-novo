@@ -4,7 +4,7 @@ tags:
   - tag: educação
   - tag: enera
   - tag: reforma-agrária
-images_hd: "http://farm6.staticflickr.com/5713/20707898043_16c5c5425a_b.jpg"
+images_hd: "http://farm6.staticflickr.com/5762/21141049080_e235b03373_b.jpg"
 title: "Em Pernambuco, escolas do campo ajudam a romper a cerca da exclusão escolar"
 support_line: A luta dos Sem Terra pela educação de jovens e adultos no campo pernambucano superou um histórico de exclusão.
 menu: "educação, cultura e comunicação"
@@ -69,7 +69,7 @@ releated_posts:
   - 2015/09/2015-09-01-educandas-do-mst-avancam-para-3a-etapa-da-olimpiada-catarinense-de-quimica.md
   - 2015/08/2015-08-13-de-cuba-para-o-brasil-as-licoes-que-ultrapassam-fronteiras.md
   - 2015/09/2015-09-08-escolas-do-mst-viram-alvo-da-seduc-que-tenta-desconstruir-conquistas-dos-sem-terra.md
-section: cover
+section: featured-news
 
 ---
 <p><img alt="CriançasBoqueirão2!.jpg" src="http://farm6.staticflickr.com/5713/20707898043_16c5c5425a_b.jpg" /></p>
