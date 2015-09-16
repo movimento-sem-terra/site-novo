@@ -38,7 +38,7 @@ releated_posts:
 <em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Os membros do n&uacute;cleo agr&aacute;rio da bancada do Partido dos Trabalhadores (PT) na C&acirc;mara dos Deputados escreveram um of&iacute;cio &agrave; presidenta Dilma Rousseff em que demonstram profundas preocupa&ccedil;&otilde;es com a possibilidade do o Minist&eacute;rio do Desenvolvimento Agr&aacute;rio (MDA) ser extinto na reforma administrativa que deve ser anunciada em breve pelo governo federal.</p>
+Os membros do n&uacute;cleo agr&aacute;rio da bancada do Partido dos Trabalhadores (PT) na C&acirc;mara dos Deputados escreveram um of&iacute;cio &agrave; presidenta Dilma Rousseff, em que demonstram profundas preocupa&ccedil;&otilde;es com a possibilidade do&nbsp;Minist&eacute;rio do Desenvolvimento Agr&aacute;rio (MDA) ser extinto na reforma administrativa, que deve ser anunciada em breve pelo governo federal.</p>
 
 <p><br />
 A carta assinada por 46 deputados manifesta &quot;profunda apreens&atilde;o&quot; com os &quot;rumores dando conta da prov&aacute;vel dilui&ccedil;&atilde;o da miss&atilde;o e atribui&ccedil;&otilde;es do MDA&rdquo;.&nbsp;</p>
@@ -53,4 +53,4 @@ O gesto &quot;seria uma contradi&ccedil;&atilde;o inusitada&quot;, uma vez que o
 Os deputados tamb&eacute;m lembram da import&acirc;ncia da agricultura familiar para a estrutura agr&iacute;cola brasileira, ao destacarem &ldquo;o papel estrat&eacute;gico desse segmento na oferta interna dos principais alimentos da dieta b&aacute;sica dos brasileiros&rdquo;, e na alta capacidade de gera&ccedil;&atilde;o de renda e emprego no campo.</p>
 
 <p><br />
-Neste caso, os deputados recordam os &uacute;ltimos dados do IBGE, que apontam que a ocupa&ccedil;&atilde;o da agricultura familiar &eacute; 3,7 vezes superior ao do agroneg&oacute;cio, e que enquanto este &uacute;ltimo gera um emprego a cada 60 hectares, em m&eacute;dia, essa rela&ccedil;&atilde;o cai para 9 hectares na agricultura familiar.</p>
+Neste caso, os deputados recordam os &uacute;ltimos dados do IBGE, que apontam que a ocupa&ccedil;&atilde;o da agricultura familiar &eacute; 3,7 maior ao do agroneg&oacute;cio, e que enquanto este &uacute;ltimo gera um emprego a cada 60 hectares, em m&eacute;dia, essa rela&ccedil;&atilde;o cai para 9 hectares na agricultura familiar.</p>
