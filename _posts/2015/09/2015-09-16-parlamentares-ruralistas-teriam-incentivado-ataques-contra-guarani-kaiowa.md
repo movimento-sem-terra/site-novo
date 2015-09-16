@@ -31,11 +31,13 @@ releated_posts:
 ---
 <p><img alt="parlamentares_indigenas.jpg" src="http://farm6.staticflickr.com/5752/21284958300_eae323f950_b.jpg" /><br />
 <br />
-<br />
 <em>Do Rel-Uita.org</em></p>
 
 <p><br />
-A comunidade da Terra Ind&iacute;gena &Ntilde;ande Ru Marangatu, homologada pela Presid&ecirc;ncia da Rep&uacute;blica h&aacute; mais de dez anos, foi atacada em 29 de agosto por um grupo de propriet&aacute;rios rurais, o que levou ao assassinato da lideran&ccedil;a Semi&atilde;o Vilhalva Guarani e Kaiow&aacute;, de 24 anos. Cleber Buzatto, secret&aacute;rio-executivo do Conselho Indigenista Mission&aacute;rio (Cimi) alerta que os Guarani Kaiow&aacute; est&atilde;o vivendo uma situa&ccedil;&atilde;o insustent&aacute;vel. Ele denuncia tamb&eacute;m uma prepara&ccedil;&atilde;o medi&aacute;tica a partir de mentiras para justificar os ataques.</p>
+A comunidade da Terra Ind&iacute;gena &Ntilde;ande Ru Marangatu, homologada pela Presid&ecirc;ncia da Rep&uacute;blica h&aacute; mais de dez anos, foi atacada em 29 de agosto por um grupo de propriet&aacute;rios rurais, o que levou ao assassinato da lideran&ccedil;a Semi&atilde;o Vilhalva Guarani e Kaiow&aacute;, de 24 anos.</p>
+
+<p><br />
+Cleber Buzatto, secret&aacute;rio-executivo do Conselho Indigenista Mission&aacute;rio (Cimi) alerta que os Guarani Kaiow&aacute; est&atilde;o vivendo uma situa&ccedil;&atilde;o insustent&aacute;vel. Ele denuncia tamb&eacute;m uma prepara&ccedil;&atilde;o medi&aacute;tica a partir de mentiras para justificar os ataques.</p>
 
 <p><br />
 <strong>O Cimi denuncia uma orquestra&ccedil;&atilde;o midi&aacute;tica preparando o clima para esses ataques, que culminaram no assassinato de Semi&atilde;o. Como foi isso?</strong></p>
