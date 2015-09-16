@@ -7,7 +7,7 @@ tags:
 title: Deputados escrevem ofício à Dilma contra possível extinção do MDA
 support_line: "Para eles, \"a eventual efetivação dessa medida representaria a revogação de uma conquista institucional histórica dos trabalhadores e trabalhadoras rurais\"."
 menu: agricultura camponesa
-images_hd: "http://farm1.staticflickr.com/645/21442084546_29897e3e94_b.jpg"
+images_hd: "http://farm6.staticflickr.com/5751/20845874644_b8ae4c6d9c_b.jpg"
 layout: post
 files:
   - link: "http://farm1.staticflickr.com/645/21442084546_29897e3e94_b.jpg"
@@ -16,6 +16,12 @@ files:
     small: "http://farm1.staticflickr.com/645/21442084546_29897e3e94_n.jpg"
     title: Patrus-Ananias.jpg
     $$hashKey: 096
+  - link: "http://farm6.staticflickr.com/5751/20845874644_b8ae4c6d9c_b.jpg"
+    thumbnail: "http://farm6.staticflickr.com/5751/20845874644_b8ae4c6d9c_t.jpg"
+    medium: "http://farm6.staticflickr.com/5751/20845874644_b8ae4c6d9c_z.jpg"
+    small: "http://farm6.staticflickr.com/5751/20845874644_b8ae4c6d9c_n.jpg"
+    title: MDA.jpeg
+    $$hashKey: 0HF
 created_date: "2015-09-16T12:35:05-03:00"
 published: true
 releated_posts:
@@ -27,11 +33,8 @@ releated_posts:
   - 2015/05/2015-05-11-vandana-shiva-parem-os-ladroes-de-territorios-ferteis.md
 
 ---
-<figure class="image"><img alt="Patrus-Ananias.jpg" src="http://farm1.staticflickr.com/645/21442084546_29897e3e94_b.jpg" />
-<figcaption>O ministro do MDA, Patrus Ananias, tamb&eacute;m j&aacute; se demonstrou preocupa&ccedil;&atilde;o com a possibilidade de extin&ccedil;&atilde;o do MDA.</figcaption>
-</figure>
-
-<p><br />
+<p><img alt="MDA.jpeg" src="http://farm6.staticflickr.com/5751/20845874644_b8ae4c6d9c_b.jpg" /><br />
+<br />
 <em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
