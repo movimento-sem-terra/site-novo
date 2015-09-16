@@ -20,7 +20,7 @@ files:
     title: gaudencio.jpg
     $$hashKey: 0FD
 created_date: "2015-09-15T18:08:47-03:00"
-published: false
+published: true
 releated_posts:
   - 2015/08/2015-08-04-movimentos-populares-cobram-politicas-para-educacao-no-campo-na-alesp.md
   - 2015/07/2015-07-01-grandes-grupos-economicos-estao-ditando-a-formacao-de-criancas-e-jovens-brasileiros.md
