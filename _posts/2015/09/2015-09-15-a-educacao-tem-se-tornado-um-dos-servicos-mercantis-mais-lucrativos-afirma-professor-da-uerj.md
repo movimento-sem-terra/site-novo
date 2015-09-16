@@ -4,13 +4,13 @@ tags:
   - tag: educação
   - tag: enera
   - tag: Gaudêncio-Frigotto
-title: "“A educação tem se tornado um dos serviços mercantis mais lucrativos”, afirma professor da UERJ"
+title: "A educação é um dos serviços mais lucrativos, afirma Gaudêncio Frigotto"
 images_hd: "http://farm6.staticflickr.com/5770/21261375969_954c9c701c_b.jpg"
 sector: education
 menu: "educação, cultura e comunicação"
 section: cover
 label: interviews
-support_line: "Em entrevista à Página do MST, o professor da UERJ, Gaudêncio Frigotto, fala sobre o crescente processo de mercantilização da educação no Brasil e sobre o projeto de educação a ser defendido para o país."
+support_line: "Em entrevista à Página do MST, o professor da UERJ fala sobre o crescente processo de mercantilização da educação no Brasil e sobre o projeto de educação a ser defendido para o país."
 layout: post
 files:
   - link: "http://farm6.staticflickr.com/5770/21261375969_954c9c701c_b.jpg"
