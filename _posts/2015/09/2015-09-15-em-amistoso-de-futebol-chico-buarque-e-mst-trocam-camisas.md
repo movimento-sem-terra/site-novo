@@ -10,7 +10,7 @@ sector: culture
 title: "Em amistoso de futebol, Chico Buarque e MST ‘trocam camisas’"
 menu: "educação, cultura e comunicação"
 support_line: "Entre um papo e outro, os Sem Terra apresentaram ao Chico a nova campanha da Escola Nacional Florestan Fernandes: a nomeação do campo de futebol da Escola de “Sócrates Brasileiro”."
-section: cover
+section: featured-news
 layout: post
 files:
   - link: "http://farm1.staticflickr.com/735/21429184972_3d6028f7f8_b.jpg"
