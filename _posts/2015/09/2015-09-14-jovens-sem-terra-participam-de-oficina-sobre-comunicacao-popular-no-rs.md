@@ -49,11 +49,12 @@ Da P&aacute;gina do MST</em></p>
 Entre os dias 12 e 13/09, a&nbsp;&nbsp;juventude Sem Terra&nbsp;do MST&nbsp;uma oficina sobre Comunica&ccedil;&atilde;o Popular, no Instituto Educar, em Pont&atilde;o,&nbsp;<span style="line-height: 20.8px;">na Regi&atilde;o Norte do Rio Grande do Sul.</span></p>
 
 <p><br />
-No primeiro dia de atividades, a jornalista Solange Engelmann, da coordena&ccedil;&atilde;o nacional de comunica&ccedil;&atilde;o do MST, trabalhou com os jovens, atrav&eacute;s de v&iacute;deos e debates, sobre a Democratiza&ccedil;&atilde;o da M&iacute;dia e a Comunica&ccedil;&atilde;o Popular.</p>
+No primeiro dia de atividades, Solange Engelmann, da coordena&ccedil;&atilde;o nacional do setor de&nbsp;comunica&ccedil;&atilde;o do MST, trabalhou com os jovens, atrav&eacute;s de v&iacute;deos e debates, sobre a Democratiza&ccedil;&atilde;o da M&iacute;dia e a Comunica&ccedil;&atilde;o Popular.</p>
 
 <p><br />
-&ldquo;O objetivo foi levar informa&ccedil;&otilde;es &agrave; juventude assentada das &aacute;reas de Reforma Agr&aacute;ria para que ela compreenda o funcionamento da m&iacute;dia e desenvolva alternativas para enfrentar o monop&oacute;lio dos meios de comunica&ccedil;&atilde;o e novas formas de se comunicar com a sociedade &rdquo;, explica Solange.<br />
-<br />
+&ldquo;O objetivo foi levar informa&ccedil;&otilde;es &agrave; juventude assentada das &aacute;reas de Reforma Agr&aacute;ria para que ela compreenda o funcionamento da m&iacute;dia e desenvolva alternativas para enfrentar o monop&oacute;lio dos meios de comunica&ccedil;&atilde;o e novas formas de se comunicar com a sociedade &rdquo;, explica Solange.</p>
+
+<p><br />
 Em pr&aacute;ticas no domingo, os jovens usaram a criatividade e produziram Fanzines, pautando quest&otilde;es sociais e resgatando a hist&oacute;ria de luta do MST pela conquista da terra. Eles tamb&eacute;m identificaram outras a&ccedil;&otilde;es que podem ser desenvolvidas nos assentamentos para promover a comunica&ccedil;&atilde;o interna e o di&aacute;logo com a sociedade, como r&aacute;dios comunit&aacute;rias, jornais informativos e blogs, al&eacute;m de atividades art&iacute;sticas e culturais.</p>
 
 <p><br />
