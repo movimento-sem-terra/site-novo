@@ -32,6 +32,7 @@ releated_posts:
   - 2014/05/2014-05-19-com-o-selo-da-reforma-agraria-assentamentos-plantam-e-colhem-de-tudo-pelo-pais.md
   - 2015/08/2015-08-10-al-rs-debate-agrotoxicos-nao-e-justo-propagar-o-cancer-em-nome-do-lucro-de-meia-duzia.md
 section: featured-news
+special-page: first-street-market
 
 ---
 <p><img alt="15028419690_2490dc19ca_z.jpg" src="http://farm1.staticflickr.com/633/20897892178_331b2085e0_b.jpg" /></p>
