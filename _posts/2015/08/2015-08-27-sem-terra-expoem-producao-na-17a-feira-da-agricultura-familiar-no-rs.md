@@ -24,6 +24,7 @@ releated_posts:
   - 2015/08/2015-08-25-um-sonho-que-ser-torna-realidade.md
   - 2015/07/2015-07-27-projetos-ao-agronegocio-tem-10-vezes-mais-verba-que-a-agricultura-familiar-em-sp.md
   - 2015/06/2015-06-12-feiras-agroecologicas-ocupam-as-ruas-das-cidades-do-extremo-sul-da-bahia.md
+special-page: first-street-market
 
 ---
 <p><img alt="Além de salame, copa, arroz e sementes agroecológicas, famílias assentadas comercializarão sucos naturais durante a feira.jpg" src="http://farm6.staticflickr.com/5744/20923265092_a7e0aef133_b.jpg" /></p>
