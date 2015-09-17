@@ -8,7 +8,7 @@ tags:
 support_line: O objetivo da marcha foi reafirmar o compromisso de lutar por uma educação que respeite e dialogue com a realidade do campo.
 menu: "educação, cultura e comunicação"
 images_hd: "http://farm6.staticflickr.com/5747/20873497593_c8492fe80d_b.jpg"
-title: Sem Terrinha ocupam saem às ruas em defesa da educação do campo
+title: "Sem Terrinha saem às ruas em defesa da educação do campo na Bahia "
 sector: education
 layout: post
 files:
