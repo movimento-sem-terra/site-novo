@@ -203,6 +203,17 @@
   }
 },
 {
+  "name": "special-page",
+  "title": "Página Especial",
+  "required": false,
+  "type":{
+    "view": "select",
+    "options": [
+      {"name": "Primeira Feria da Reforma Agrária", "id": "first-street-market"}
+      ]
+  }
+},
+{
   "name": "video",
   "pattern": "",
   "icon": "fa-youtube",
