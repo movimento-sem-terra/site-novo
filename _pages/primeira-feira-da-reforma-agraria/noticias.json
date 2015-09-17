@@ -2,5 +2,5 @@
 layout: null
 ---
 
-{% assign posts = site.posts  | where_not: "section", "tv","campaign","newspaper","musicoteca" %}
+{% assign posts = site.posts  | where: "special-page", "first-street-market" %}
 {% include posts.json posts=posts %}
