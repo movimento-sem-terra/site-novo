@@ -32,6 +32,7 @@ releated_posts:
   - 2015/07/2015-07-10-mst-participa-de-feira-latino-americana-de-economia-solidaria-no-rs.md
   - 2015/08/2015-08-31-mst-ocupa-praca-da-faculdade-com-frutos-da-reforma-agraria.md
   - 2015/02/2015-02-05-producao-de-assentados-no-parana-atendera-5-mil-pessoas-no-ano.md
+special-page: first-street-market
 
 ---
 <p><img alt="feira_aracaju.jpg" src="http://farm6.staticflickr.com/5713/21279106765_685cf822f3_b.jpg" /><br />
