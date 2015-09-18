@@ -6,9 +6,9 @@ tags:
   - tag: educação
   - tag: reforma-agrária
   - tag: enera
-title: "Mais de 1.200 pessoas participarão do 2° Encontro Nacional de Educadores da Reforma Agrária "
+title: "Encontro Nacional de Educadores da Reforma Agrária iniciará na próxima segunda  "
 images_hd: "http://farm6.staticflickr.com/5628/21324205739_140536535c_b.jpg"
-support_line: "O encontro tem como objetivo propor a construção de um novo espaço de articulação para a formulação de um novo projeto educacional. "
+support_line: "Cerca de 1.200 pessoas devem participar da atividade, que tem como objetivo propor a construção de um novo espaço de articulação para a formulação de um novo projeto educacional."
 menu: "educação, cultura e comunicação"
 layout: post
 files:
@@ -36,6 +36,8 @@ releated_posts:
   - 2014/05/2014-05-29-movimentos-se-reunem-na-cdh-senado-para-debater-paa-e-reforma-agraria.md-e
   - 2014/04/2014-04-10-movimentos-organizam-oficinas-para-promover-eja-nos-assentamentos.md
   - 2014/04/2014-04-10-movimentos-organizam-oficinas-para-promover-eja-nos-assentamentos.md-e
+section: cover
+sector: education
 
 ---
 <p><img alt="escola_terra.jpg" src="http://farm6.staticflickr.com/5628/21324205739_140536535c_b.jpg" /></p>
