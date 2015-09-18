@@ -8,7 +8,7 @@ title: "A educação é um dos serviços mais lucrativos, afirma Gaudêncio Frig
 images_hd: "http://farm6.staticflickr.com/5770/21261375969_954c9c701c_b.jpg"
 sector: education
 menu: "educação, cultura e comunicação"
-section: cover
+section: featured-news
 label: interviews
 support_line: "Em entrevista à Página do MST, o professor da UERJ fala sobre o crescente processo de mercantilização da educação no Brasil e sobre o projeto de educação a ser defendido para o país."
 layout: post
