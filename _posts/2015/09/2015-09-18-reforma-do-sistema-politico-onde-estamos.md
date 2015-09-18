@@ -6,17 +6,17 @@ tags:
   - tag: plebiscito-constituinte
   - tag: constituinte
 title: "Reforma do Sistema Político: Onde estamos? "
-images_hd: "http://farm6.staticflickr.com/5755/21333090248_8a4b236a34_b.jpg"
+images_hd: "http://farm1.staticflickr.com/727/21510491332_8d658326a8_b.jpg"
 menu: lutas e mobilizações
 support_line: "Em artigo, José Antonio Moroni analisa o atual cenário do Congresso Nacional. "
 layout: post
 files:
-  - link: "http://farm6.staticflickr.com/5755/21333090248_8a4b236a34_b.jpg"
-    thumbnail: "http://farm6.staticflickr.com/5755/21333090248_8a4b236a34_t.jpg"
-    medium: "http://farm6.staticflickr.com/5755/21333090248_8a4b236a34_z.jpg"
-    small: "http://farm6.staticflickr.com/5755/21333090248_8a4b236a34_n.jpg"
-    title: AgenciaBrasil171012_WDO7137A.JPG
-    $$hashKey: 02M
+  - link: "http://farm1.staticflickr.com/727/21510491332_8d658326a8_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/727/21510491332_8d658326a8_t.jpg"
+    medium: "http://farm1.staticflickr.com/727/21510491332_8d658326a8_z.jpg"
+    small: "http://farm1.staticflickr.com/727/21510491332_8d658326a8_n.jpg"
+    title: 4057974_x360.jpg
+    $$hashKey: 0F4
 created_date: "2015-09-18T17:12:30-03:00"
 published: true
 releated_posts:
@@ -35,8 +35,13 @@ releated_posts:
 <p><em>Por:Jos&eacute; Antonio Moroni*<br />
 Da Campanha da Constituinte&nbsp;</em></p>
 
-<p><br />
-Os diferentes movimentos e campanhas da sociedade civil brasileira que interagem nos debates sobre a reforma do sistema pol&iacute;tico identificaram tr&ecirc;s quest&otilde;es centrais a serem enfrentadas inicialmente: a influ&ecirc;ncia do poder econ&ocirc;mico nos processos &nbsp;decis&oacute;rios (processos eleitorais, partidos, pol&iacute;ticas publicas, decis&otilde;es de Estado etc), a subrepresenta&ccedil;&atilde;o de v&aacute;rios segmentos nos espa&ccedil;os de poder (mulheres, popula&ccedil;&atilde;o negra, povos ind&iacute;genas, juventude, camponeses/as, homoafetivos,&nbsp;trabalhadores/as em geral) e aus&ecirc;ncia de povo nos processos decis&oacute;rios (democracia sem povo).&nbsp;</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="AgenciaBrasil171012_WDO7137A.JPG" height="439" src="http://farm6.staticflickr.com/5755/21333090248_8a4b236a34_b.jpg" width="350" />
+<figcaption><em>Jos&eacute; Antonio Moroni</em></figcaption>
+</figure>
+
+<p>Os diferentes movimentos e campanhas da sociedade civil brasileira que interagem nos debates sobre a reforma do sistema pol&iacute;tico identificaram tr&ecirc;s quest&otilde;es centrais a serem enfrentadas inicialmente: a influ&ecirc;ncia do poder econ&ocirc;mico nos processos &nbsp;decis&oacute;rios (processos eleitorais, partidos, pol&iacute;ticas publicas, decis&otilde;es de Estado etc), a subrepresenta&ccedil;&atilde;o de v&aacute;rios segmentos nos espa&ccedil;os de poder (mulheres, popula&ccedil;&atilde;o negra, povos ind&iacute;genas, juventude, camponeses/as, homoafetivos,&nbsp;trabalhadores/as em geral) e aus&ecirc;ncia de povo nos processos decis&oacute;rios (democracia sem povo).&nbsp;</p>
 
 <p><br />
 O Congresso Nacional por anos se recusou a votar qualquer altera&ccedil;&atilde;o substancial sobre o tema. Este ano, resolveu votar.<br />
