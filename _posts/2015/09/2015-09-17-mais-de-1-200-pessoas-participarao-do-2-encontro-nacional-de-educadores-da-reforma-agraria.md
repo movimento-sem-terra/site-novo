@@ -7,7 +7,7 @@ tags:
   - tag: reforma-agrária
   - tag: enera
 title: "Mais de 1.200 pessoas participarão do 2° Encontro Nacional de Educadores da Reforma Agrária "
-images_hd: "http://farm6.staticflickr.com/5831/21306249268_77e5458d19_b.jpg"
+images_hd: "http://farm6.staticflickr.com/5628/21324205739_140536535c_b.jpg"
 support_line: "O encontro tem como objetivo propor a construção de um novo espaço de articulação para a formulação de um novo projeto educacional. "
 menu: "educação, cultura e comunicação"
 layout: post
@@ -18,6 +18,12 @@ files:
     small: "http://farm6.staticflickr.com/5831/21306249268_77e5458d19_n.jpg"
     title: 11899953_952619731477408_7195618427100352041_n.png
     $$hashKey: 06Y
+  - link: "http://farm6.staticflickr.com/5628/21324205739_140536535c_b.jpg"
+    thumbnail: "http://farm6.staticflickr.com/5628/21324205739_140536535c_t.jpg"
+    medium: "http://farm6.staticflickr.com/5628/21324205739_140536535c_z.jpg"
+    small: "http://farm6.staticflickr.com/5628/21324205739_140536535c_n.jpg"
+    title: escola_terra.jpg
+    $$hashKey: 05O
 created_date: "2015-09-17T16:53:06-03:00"
 published: true
 releated_posts:
@@ -32,11 +38,10 @@ releated_posts:
   - 2014/04/2014-04-10-movimentos-organizam-oficinas-para-promover-eja-nos-assentamentos.md-e
 
 ---
-<p><img alt="11899953_952619731477408_7195618427100352041_n.png" src="http://farm6.staticflickr.com/5831/21306249268_77e5458d19_b.jpg" /></p>
+<p><img alt="escola_terra.jpg" src="http://farm6.staticflickr.com/5628/21324205739_140536535c_b.jpg" /></p>
 
-<p>&nbsp;</p>
-
-<p><em>Da P&aacute;gina do MST&nbsp;</em></p>
+<p><br />
+<em>Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
 Na pr&oacute;xima segunda-feira (21), o MST dar&aacute; in&iacute;cio ao 2&deg; Encontro Nacional de Educadoras e Educadores da Reforma Agr&aacute;ria (Enera), em Luzi&acirc;nia, no estado de Goi&aacute;s.&nbsp;</p>
