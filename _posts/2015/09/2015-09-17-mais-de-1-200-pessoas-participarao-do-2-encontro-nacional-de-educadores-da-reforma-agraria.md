@@ -6,9 +6,9 @@ tags:
   - tag: educação
   - tag: reforma-agrária
   - tag: enera
-title: "Encontro Nacional de Educadores da Reforma Agrária iniciará na próxima segunda  "
+title: Mais de mil pessoas devem participar do Encontro Nacional de Educadores da Reforma Agrária
 images_hd: "http://farm6.staticflickr.com/5628/21324205739_140536535c_b.jpg"
-support_line: "Cerca de 1.200 pessoas devem participar da atividade, que tem como objetivo propor a construção de um novo espaço de articulação para a formulação de um novo projeto educacional."
+support_line: Encontro que se inicia na próxima segunda tem como objetivo propor a construção de um novo espaço de articulação para a formulação de um novo projeto educacional.
 menu: "educação, cultura e comunicação"
 layout: post
 files:
