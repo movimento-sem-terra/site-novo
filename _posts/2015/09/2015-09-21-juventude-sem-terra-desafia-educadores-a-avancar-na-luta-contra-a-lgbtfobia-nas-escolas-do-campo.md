@@ -47,7 +47,7 @@ Da P&aacute;gina do MST</em></p>
 O preconceito contra os homossexuais nas salas de aula e a naturaliza&ccedil;&atilde;o e banaliza&ccedil;&atilde;o desta atitude nas escolas &eacute; algo reconhecido at&eacute; mesmo pela Organiza&ccedil;&atilde;o das Na&ccedil;&otilde;es Unidas para Educa&ccedil;&atilde;o, Ci&ecirc;ncia e Cultura (UNESCO).&nbsp;</p>
 
 <p><br />
-Diante de uma realidade&nbsp;em que se&nbsp;nega&ccedil;&atilde;o a viol&ecirc;ncia no espa&ccedil;o escolar, o coletivo estadual de comunica&ccedil;&atilde;o e juventude do MST na Bahia realizou, na &uacute;ltima quinta-feira (17), uma interven&ccedil;&atilde;o pol&iacute;tica durante o 17&ordm; Encontro Estadual de Educadoras e Educadores do MST.</p>
+Diante de uma realidade&nbsp;em que se&nbsp;nega&nbsp;a viol&ecirc;ncia no espa&ccedil;o escolar, o coletivo estadual de comunica&ccedil;&atilde;o e juventude do MST na Bahia realizou, na &uacute;ltima quinta-feira (17), uma interven&ccedil;&atilde;o pol&iacute;tica durante o 17&ordm; Encontro Estadual de Educadoras e Educadores do MST.</p>
 
 <p><br />
 A juventude provocou o debate sobre a identidade de g&ecirc;nero no intuito de combater o preconceito e a LGBTfobia. A interven&ccedil;&atilde;o trouxe no olhar e no corpo dos sujeitos LGBT as marcas da viol&ecirc;ncia que cotidianamente s&atilde;o invisibilizadas na sociedade.</p>
