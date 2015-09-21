@@ -7,7 +7,7 @@ tags:
   - tag: constituinte
 title: "Reforma do Sistema Político: Onde estamos? "
 images_hd: "http://farm1.staticflickr.com/727/21510491332_8d658326a8_b.jpg"
-menu: lutas e mobilizações
+menu: projeto popular
 support_line: "Em artigo, José Antonio Moroni analisa o atual cenário do Congresso Nacional. "
 layout: post
 files:
@@ -20,28 +20,23 @@ files:
 created_date: "2015-09-18T17:12:30-03:00"
 published: true
 releated_posts:
-  - 2015/05/2015-05-22-pmdb-quer-aprovar-lei-do-mais-rico-na-reforma-politica.md
-  - 2015/02/2015-02-06-valmir-assuncao-o-primeiro-ataque-contra-a-reforma-politica.md
   - 2015/05/2015-05-14-deputados-querem-manter-doacao-empresarial-em-campanhas.md
-  - 2014/11/2014-10-16-plenaria-discute-os-proximos-passos-da-campanha-pela-constituinte.md
-  - 2015/05/2015-05-26-o-distritao-e-o-boi-de-piranha-o-que-o-pmdb-quer-e-institucionalizar-o-financiamento-privado-de-campanha.md
   - 2015/07/2015-07-06-movimentos-populares-se-levantam-contra-o-golpe.md
   - 2015/07/2015-07-06-precisamos-criar-uma-frente-politica-que-pense-o-futuro-e-tenha-um-projeto-alternativo-ao-da-burguesia-diz-stedile.md
   - 2015/07/2015-07-07-74-dos-brasileiros-sao-contra-financiamento-empresarial-de-campanhas-diz-datafolha.md
+  - 2015/08/2015-08-12-a-politica-economica-atual-nao-resultara-na-retomada-do-crescimento-diz-marcio-pochmann.md
+  - 2015/08/2015-08-18-samuel-pinheiro-guimaraes-a-ofensiva-conservadora-e-as-crises.md
+label: articles
 
 ---
-<p>&nbsp;</p>
+<p><img alt="4057974_x360.jpg" src="http://farm1.staticflickr.com/727/21510491332_8d658326a8_b.jpg" /></p>
 
-<p><em>Por:Jos&eacute; Antonio Moroni*<br />
+<p><br />
+<em>Por Jos&eacute; Antonio Moroni*<br />
 Da Campanha da Constituinte&nbsp;</em></p>
 
-<p>&nbsp;</p>
-
-<figure class="image" style="float:left"><img alt="AgenciaBrasil171012_WDO7137A.JPG" height="439" src="http://farm6.staticflickr.com/5755/21333090248_8a4b236a34_b.jpg" width="350" />
-<figcaption><em>Jos&eacute; Antonio Moroni</em></figcaption>
-</figure>
-
-<p>Os diferentes movimentos e campanhas da sociedade civil brasileira que interagem nos debates sobre a reforma do sistema pol&iacute;tico identificaram tr&ecirc;s quest&otilde;es centrais a serem enfrentadas inicialmente: a influ&ecirc;ncia do poder econ&ocirc;mico nos processos &nbsp;decis&oacute;rios (processos eleitorais, partidos, pol&iacute;ticas publicas, decis&otilde;es de Estado etc), a subrepresenta&ccedil;&atilde;o de v&aacute;rios segmentos nos espa&ccedil;os de poder (mulheres, popula&ccedil;&atilde;o negra, povos ind&iacute;genas, juventude, camponeses/as, homoafetivos,&nbsp;trabalhadores/as em geral) e aus&ecirc;ncia de povo nos processos decis&oacute;rios (democracia sem povo).&nbsp;</p>
+<p><br />
+Os diferentes movimentos e campanhas da sociedade civil brasileira que interagem nos debates sobre a reforma do sistema pol&iacute;tico identificaram tr&ecirc;s quest&otilde;es centrais a serem enfrentadas inicialmente: a influ&ecirc;ncia do poder econ&ocirc;mico nos processos &nbsp;decis&oacute;rios (processos eleitorais, partidos, pol&iacute;ticas publicas, decis&otilde;es de Estado etc), a subrepresenta&ccedil;&atilde;o de v&aacute;rios segmentos nos espa&ccedil;os de poder (mulheres, popula&ccedil;&atilde;o negra, povos ind&iacute;genas, juventude, camponeses/as, homoafetivos,&nbsp;trabalhadores/as em geral) e aus&ecirc;ncia de povo nos processos decis&oacute;rios (democracia sem povo).&nbsp;</p>
 
 <p><br />
 O Congresso Nacional por anos se recusou a votar qualquer altera&ccedil;&atilde;o substancial sobre o tema. Este ano, resolveu votar.<br />
