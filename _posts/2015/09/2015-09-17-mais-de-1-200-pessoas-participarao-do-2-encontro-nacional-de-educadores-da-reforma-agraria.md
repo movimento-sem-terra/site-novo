@@ -36,7 +36,7 @@ releated_posts:
   - 2014/05/2014-05-29-movimentos-se-reunem-na-cdh-senado-para-debater-paa-e-reforma-agraria.md-e
   - 2014/04/2014-04-10-movimentos-organizam-oficinas-para-promover-eja-nos-assentamentos.md
   - 2014/04/2014-04-10-movimentos-organizam-oficinas-para-promover-eja-nos-assentamentos.md-e
-section: cover
+section: null
 sector: education
 
 ---
