@@ -26,6 +26,7 @@ releated_posts:
   - 2015/08/2015-08-13-camara-aprova-lei-antiterror-que-pode-criminalizar-movimentos-populares.md
   - 2015/08/2015-08-14-em-ato-com-dilma-movimentos-sociais-cobram-avancos-para-a-classe-trabalhadora.md
   - 2015/08/2015-08-14-para-mst-pl-antiterrorismo-e-absurdo-e-pedira-veto-em-reuniao-com-dilma.md
+section: featured-news
 
 ---
 <figure class="image"><img alt="20_08.jpg" src="http://farm6.staticflickr.com/5756/21303321680_d4ed839aa2_b.jpg" />
