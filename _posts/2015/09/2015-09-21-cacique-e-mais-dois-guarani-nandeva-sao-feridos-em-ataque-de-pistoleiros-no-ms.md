@@ -6,17 +6,17 @@ tags:
   - tag: latifúndio
   - tag: violência
 title: Cacique e mais dois Guarani Ñandeva são feridos em ataque de pistoleiros no MS
-images_hd: "http://farm6.staticflickr.com/5822/21583716042_6dfa7fb9f7_b.jpg"
+images_hd: "http://farm6.staticflickr.com/5803/20974193443_a8429ac1ab_b.jpg"
 support_line: "O cacique Elpídeo Pires foi alvejado na perna esquerda, Meterio Morales no braço e Celso Benites recebeu três tiros nas costas."
 menu: direitos humanos
 layout: post
 files:
-  - link: "http://farm6.staticflickr.com/5822/21583716042_6dfa7fb9f7_b.jpg"
-    thumbnail: "http://farm6.staticflickr.com/5822/21583716042_6dfa7fb9f7_t.jpg"
-    medium: "http://farm6.staticflickr.com/5822/21583716042_6dfa7fb9f7_z.jpg"
-    small: "http://farm6.staticflickr.com/5822/21583716042_6dfa7fb9f7_n.jpg"
-    title: indigena.jpg
-    $$hashKey: 02M
+  - link: "http://farm6.staticflickr.com/5803/20974193443_a8429ac1ab_b.jpg"
+    thumbnail: "http://farm6.staticflickr.com/5803/20974193443_a8429ac1ab_t.jpg"
+    medium: "http://farm6.staticflickr.com/5803/20974193443_a8429ac1ab_z.jpg"
+    small: "http://farm6.staticflickr.com/5803/20974193443_a8429ac1ab_n.jpg"
+    title: CNBB_indio.jpg
+    $$hashKey: 0PO
 created_date: "2015-09-21T08:15:56-03:00"
 published: true
 releated_posts:
@@ -28,11 +28,7 @@ releated_posts:
   - 2015/09/2015-09-01-nao-vamos-deixar-o-agronegocio-tomar-o-nosso-pais-afirma-cacique-babau-tupinamba.md
 
 ---
-<figure class="image" style="float:right"><img alt="indigena.jpg" src="http://farm6.staticflickr.com/5822/21583716042_6dfa7fb9f7_b.jpg" />
-<figcaption></figcaption>
-</figure>
-
-<p style="line-height: 20.8px;"><br />
+<p style="line-height: 20.8px;"><img alt="CNBB_indio.jpg" src="http://farm6.staticflickr.com/5803/20974193443_a8429ac1ab_b.jpg" /><br />
 <br />
 <em>Do Cimi</em></p>
 
