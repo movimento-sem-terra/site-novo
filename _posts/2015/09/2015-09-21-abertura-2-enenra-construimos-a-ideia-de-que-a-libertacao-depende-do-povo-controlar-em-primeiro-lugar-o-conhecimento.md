@@ -58,7 +58,7 @@ releated_posts:
 <em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Come&ccedil;ou nesta segunda-feira (21), no Centro de Treinamento Educacional (CTI), o 2&deg; Encontro de Educadores e Educadoras da Reforma Agr&aacute;ria (Enera).</p>
+Come&ccedil;ou nesta segunda-feira (21), no Centro de Treinamento Educacional (CTI), em&nbsp;<span style="color: rgb(34, 34, 34); font-family: arial, sans-serif; line-height: 16.12px;">Luzi&acirc;nia, Goi&aacute;s,</span>&nbsp;o 2&deg; Encontro de Educadores e Educadoras da Reforma Agr&aacute;ria (Enera).&nbsp;</p>
 
 <p><br />
 At&eacute; a pr&oacute;xima sexta-feira (25), o evento reunir&aacute; cerca de 1500 educadoras e educadores de todo o pa&iacute;s para debater o atual momento da educa&ccedil;&atilde;o p&uacute;blica brasileira.</p>
