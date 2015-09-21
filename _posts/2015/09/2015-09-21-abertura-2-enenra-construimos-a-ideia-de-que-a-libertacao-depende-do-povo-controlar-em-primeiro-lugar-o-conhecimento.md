@@ -4,7 +4,7 @@ tags:
   - tag: 2°-enera
   - tag: educação
   - tag: enera
-title: "Abertura 2° Enenra: \"Construímos a ideia de que a libertação depende do povo controlar, em primeiro, lugar o conhecimento\""
+title: "\"Construímos a ideia de que a libertação de um povo depende dele controlar o conhecimento\"; abertura 2° Enera"
 images_hd: "http://farm6.staticflickr.com/5749/21580093226_5601671c0a_b.jpg"
 menu: "educação, cultura e comunicação"
 section: cover
