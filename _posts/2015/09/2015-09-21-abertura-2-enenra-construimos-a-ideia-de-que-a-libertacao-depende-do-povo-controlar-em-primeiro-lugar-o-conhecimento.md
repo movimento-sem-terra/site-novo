@@ -4,12 +4,12 @@ tags:
   - tag: 2°-enera
   - tag: educação
   - tag: enera
-title: "\"Construímos a ideia de que a libertação de um povo depende dele controlar o conhecimento\"; abertura 2° Enera"
+title: 2° Enera reúne mais de 1500 educadoras e educadores do campo em Goiás
 images_hd: "http://farm6.staticflickr.com/5749/21580093226_5601671c0a_b.jpg"
 menu: "educação, cultura e comunicação"
 section: cover
 sector: education
-support_line: 2° Enera reúne mais de 1500 educadoras e educadores do campo em Goiás.
+support_line: "O evento reunirá até a próxima sexta-feira (25), cerca de 1500 educadoras e educadoras de todo o pais para debater o atual momento da educação pública brasileira."
 layout: post
 files:
   - link: "http://farm6.staticflickr.com/5749/21580093226_5601671c0a_b.jpg"
@@ -86,6 +86,9 @@ Para Edgar Kolling, da coordena&ccedil;&atilde;o nacional do setor de Educa&cced
 
 <p><br />
 &ldquo;Elegemos um programa de governo, e na pr&aacute;tica estamos vivenciando outro; a luta de classes se acirrou. O atual ajuste financeiro diminuiu ainda mais os recursos para educa&ccedil;&atilde;o, para a sa&uacute;de, para o transporte. Em suma, diminuiu ainda mais a qualidade de vida do povo brasileiro. Esses mesmos ajustes, por outro lado, n&atilde;o diminu&iacute;ram o custo para os capitalistas que dominam o projeto financeiro. Infelizmente, aqui no Brasil, &eacute; sempre o trabalhador quem sangra&rdquo;, ressaltou Edgar.</p>
+
+<p><br />
+<a href="http://www.mst.org.br/2015/08/17/mais-de-1-200-participantes-debatem-a-educacao-publica-brasileira.html" target="_blank">Clique aqui </a>para ler mais not&iacute;cias sobre o 2&deg; Enera</p>
 
 <p><br />
 J&aacute; o Ministro do MDA, Patrus Ananias, reiterou a import&acirc;ncia de se pensar na educa&ccedil;&atilde;o do campo de forma a atender as suas demandas e particularidades.</p>
