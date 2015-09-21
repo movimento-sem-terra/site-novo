@@ -55,7 +55,7 @@ A juventude provocou o debate sobre a identidade de g&ecirc;nero no intuito de c
 <p>&nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="editada.jpg" src="http://farm1.staticflickr.com/679/21600416755_48e9e33859_b.jpg" />
-<figcaption></figcaption>
+<figcaption>Interven&ccedil;&atilde;o trouxe as marcas da viol&ecirc;ncia que cotidianamente s&atilde;o invisibilizadas.</figcaption>
 </figure>
 
 <p>A interven&ccedil;&atilde;o provocou a desconstru&ccedil;&atilde;o sobre o ser homem e ser mulher, propondo construir uma sociedade de iguais baseada em valores socialistas.&nbsp;</p>
