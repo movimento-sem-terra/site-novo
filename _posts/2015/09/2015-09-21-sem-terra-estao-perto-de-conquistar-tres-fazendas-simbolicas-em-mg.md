@@ -4,7 +4,7 @@ tags:
   - tag: reforma-agrária
   - tag: desapropriação
   - tag: assentamento
-title: Sem Terra estão perto de conquistar três fazendas simbólicas em MG
+title: Sem Terra estão perto de conquistar três fazendas emblemáticas em MG
 support_line: "As áreas estão em três municípios mineiros: o acampamento Nova Vida, em Novo Cruzeiro, o acampamento Terra Prometida, em Felisburgo, e um conjunto de 11 acampamentos, em Campo do Meio."
 menu: reforma agrária
 images_hd: "http://farm6.staticflickr.com/5765/21577243706_79a1143e2d_b.jpg"
