@@ -53,18 +53,20 @@ Abaixo, confira diversas entrevistas, artigos e reportagens que trazem o debate 
 <p><br />
 <strong>Mat&eacute;rias do Enera:</strong></p>
 
-<p><a href="http://www.mst.org.br/2015/09/21/abertura-2-enenra-construimos-a-ideia-de-que-a-libertacao-depende-do-povo-controlar-em-primeiro-lugar-o-conhecimento.html">2&deg; Enera re&uacute;ne mais de 1500 educadoras e educadores do campo em Goi&aacute;s</a></p>
+<p><strong><a href="http://www.mst.org.br/2015/09/21/abertura-2-enenra-construimos-a-ideia-de-que-a-libertacao-depende-do-povo-controlar-em-primeiro-lugar-o-conhecimento.html">2&deg; Enera re&uacute;ne mais de 1500 educadoras e educadores do campo em Goi&aacute;s</a></strong></p>
 
-<p>&nbsp;</p>
-
-<p><a href="http://www.mst.org.br/2015/09/21/mostra-cultural-expoe-produtos-da-reforma-agraria-durante-2-enera.html">Mostra Cultural exp&otilde;e produtos da Reforma Agr&aacute;ria durante 2&deg; Enera</a></p>
-
-<p>&nbsp;</p>
+<p><strong><a href="http://www.mst.org.br/2015/09/21/mostra-cultural-expoe-produtos-da-reforma-agraria-durante-2-enera.html">Mostra Cultural exp&otilde;e produtos da Reforma Agr&aacute;ria durante 2&deg; Enera</a></strong></p>
 
 <p><br />
 <strong style="box-sizing: inherit;">Entrevistas:</strong></p>
 
-<p style="box-sizing: inherit; margin: 0px 0px 11px; font-size: 1.1em; color: rgb(85, 85, 85); font-family: 'Exo 2', Helvetica, Arial, sans-serif; line-height: 20.7999992370605px;"><strong style="box-sizing: inherit;"><a href="http://www.mst.org.br/2015/07/15/enera-tem-o-desafio-de-criar-um-novo-espaco-de-articulacao-entre-os-trabalhadores-da-educacao.html" style="box-sizing: inherit; color: rgb(0, 100, 0); text-decoration: none;">Enera tem o desafio de criar um novo espa&ccedil;o de articula&ccedil;&atilde;o entre os trabalhadores da educa&ccedil;&atilde;o</a></strong></p>
+<p><strong><a href="http://www.mst.org.br/2015/09/15/a-educacao-tem-se-tornado-um-dos-servicos-mercantis-mais-lucrativos-afirma-professor-da-uerj.html">A educa&ccedil;&atilde;o &eacute; um dos servi&ccedil;os mais lucrativos, afirma Gaud&ecirc;ncio Frigotto</a></strong></p>
+
+<p>&nbsp;</p>
+
+<p style="box-sizing: inherit; margin: 0px 0px 11px; font-size: 1.1em; color: rgb(85, 85, 85); font-family: 'Exo 2', Helvetica, Arial, sans-serif; line-height: 20.7999992370605px;">&nbsp;</p>
+
+<p style="box-sizing: inherit; margin: 0px 0px 11px; font-size: 1.1em; color: rgb(85, 85, 85); font-family: 'Exo 2', Helvetica, Arial, sans-serif; line-height: 20.7999992370605px;"><strong style="box-sizing: inherit;"><a href="http://www.mst.org.br/2015/07/15/enera-tem-o-desafio-de-criar-um-novo-espaco-de-articulacao-entre-os-trabalhadores-da-educacao.html" style="box-sizing: inherit; color: rgb(0, 100, 0); text-decoration: none;">nera tem o desafio de criar um novo espa&ccedil;o de articula&ccedil;&atilde;o entre os trabalhadores da educa&ccedil;&atilde;o</a></strong></p>
 
 <p style="box-sizing: inherit; margin: 0px 0px 11px; font-size: 1.1em; color: rgb(85, 85, 85); font-family: 'Exo 2', Helvetica, Arial, sans-serif; line-height: 20.7999992370605px;"><strong style="box-sizing: inherit;"><a href="http://www.mst.org.br/2015/07/01/grandes-grupos-economicos-estao-ditando-a-formacao-de-criancas-e-jovens-brasileiros.html" style="box-sizing: inherit; color: rgb(0, 100, 0); text-decoration: none;">&ldquo;Grandes grupos econ&ocirc;micos est&atilde;o ditando a forma&ccedil;&atilde;o de crian&ccedil;as e jovens brasileiros&rdquo;</a></strong></p>
 
