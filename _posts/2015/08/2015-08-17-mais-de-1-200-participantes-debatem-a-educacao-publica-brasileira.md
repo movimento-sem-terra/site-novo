@@ -62,13 +62,9 @@ Abaixo, confira diversas entrevistas, artigos e reportagens que trazem o debate 
 
 <p><strong><a href="http://www.mst.org.br/2015/09/15/a-educacao-tem-se-tornado-um-dos-servicos-mercantis-mais-lucrativos-afirma-professor-da-uerj.html">A educa&ccedil;&atilde;o &eacute; um dos servi&ccedil;os mais lucrativos, afirma Gaud&ecirc;ncio Frigotto</a></strong></p>
 
-<p>&nbsp;</p>
+<p><strong><a href="http://www.mst.org.br/2015/07/15/enera-tem-o-desafio-de-criar-um-novo-espaco-de-articulacao-entre-os-trabalhadores-da-educacao.html">Enera tem o desafio de criar um novo espa&ccedil;o de articula&ccedil;&atilde;o entre os trabalhadores da educa&ccedil;&atilde;o</a></strong></p>
 
-<p style="box-sizing: inherit; margin: 0px 0px 11px; font-size: 1.1em; color: rgb(85, 85, 85); font-family: 'Exo 2', Helvetica, Arial, sans-serif; line-height: 20.7999992370605px;">&nbsp;</p>
-
-<p style="box-sizing: inherit; margin: 0px 0px 11px; font-size: 1.1em; color: rgb(85, 85, 85); font-family: 'Exo 2', Helvetica, Arial, sans-serif; line-height: 20.7999992370605px;"><strong style="box-sizing: inherit;"><a href="http://www.mst.org.br/2015/07/15/enera-tem-o-desafio-de-criar-um-novo-espaco-de-articulacao-entre-os-trabalhadores-da-educacao.html" style="box-sizing: inherit; color: rgb(0, 100, 0); text-decoration: none;">nera tem o desafio de criar um novo espa&ccedil;o de articula&ccedil;&atilde;o entre os trabalhadores da educa&ccedil;&atilde;o</a></strong></p>
-
-<p style="box-sizing: inherit; margin: 0px 0px 11px; font-size: 1.1em; color: rgb(85, 85, 85); font-family: 'Exo 2', Helvetica, Arial, sans-serif; line-height: 20.7999992370605px;"><strong style="box-sizing: inherit;"><a href="http://www.mst.org.br/2015/07/01/grandes-grupos-economicos-estao-ditando-a-formacao-de-criancas-e-jovens-brasileiros.html" style="box-sizing: inherit; color: rgb(0, 100, 0); text-decoration: none;">&ldquo;Grandes grupos econ&ocirc;micos est&atilde;o ditando a forma&ccedil;&atilde;o de crian&ccedil;as e jovens brasileiros&rdquo;</a></strong></p>
+<p><strong style="box-sizing: inherit;"><a href="http://www.mst.org.br/2015/07/01/grandes-grupos-economicos-estao-ditando-a-formacao-de-criancas-e-jovens-brasileiros.html" style="box-sizing: inherit; color: rgb(0, 100, 0); text-decoration: none;">Grandes grupos econ&ocirc;micos est&atilde;o ditando a forma&ccedil;&atilde;o de crian&ccedil;as e jovens brasileiros&rdquo;</a></strong></p>
 
 <p><strong><a href="http://www.mst.org.br/2014/11/14/partido-do-agronegocio-invade-escolas-brasileiras.html">&quot;Partido do agroneg&oacute;cio&quot; invade escolas brasileiras</a></strong></p>
 
