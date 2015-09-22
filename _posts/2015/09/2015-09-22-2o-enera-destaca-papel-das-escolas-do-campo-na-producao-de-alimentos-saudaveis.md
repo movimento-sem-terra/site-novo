@@ -4,7 +4,7 @@ tags:
   - tag: educação
   - tag: enera
   - tag: reforma-agrária
-title: 2º Enera destaca papel das escolas do campo na produção de alimentos saudáveis
+title: Educadores destacam papel das escolas do campo na produção de alimentos saudáveis
 images_hd: "http://farm6.staticflickr.com/5823/21014727343_929380da2e_b.jpg"
 sector: education
 menu: "educação, cultura e comunicação"
