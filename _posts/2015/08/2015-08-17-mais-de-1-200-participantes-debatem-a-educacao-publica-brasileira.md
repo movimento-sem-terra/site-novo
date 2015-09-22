@@ -51,6 +51,17 @@ Cada vez mais submetida a uma l&oacute;gica mercantilizada por grandes grupos fi
 Abaixo, confira diversas entrevistas, artigos e reportagens que trazem o debate da conjuntura educacional, experi&ecirc;ncias de educa&ccedil;&atilde;o do campo e os principais desafios que se tem pela frente.</p>
 
 <p><br />
+<strong>Mat&eacute;rias do Enera:</strong></p>
+
+<p><a href="http://www.mst.org.br/2015/09/21/abertura-2-enenra-construimos-a-ideia-de-que-a-libertacao-depende-do-povo-controlar-em-primeiro-lugar-o-conhecimento.html">2&deg; Enera re&uacute;ne mais de 1500 educadoras e educadores do campo em Goi&aacute;s</a></p>
+
+<p>&nbsp;</p>
+
+<p><a href="http://www.mst.org.br/2015/09/21/mostra-cultural-expoe-produtos-da-reforma-agraria-durante-2-enera.html">Mostra Cultural exp&otilde;e produtos da Reforma Agr&aacute;ria durante 2&deg; Enera</a></p>
+
+<p>&nbsp;</p>
+
+<p><br />
 <strong style="box-sizing: inherit;">Entrevistas:</strong></p>
 
 <p style="box-sizing: inherit; margin: 0px 0px 11px; font-size: 1.1em; color: rgb(85, 85, 85); font-family: 'Exo 2', Helvetica, Arial, sans-serif; line-height: 20.7999992370605px;"><strong style="box-sizing: inherit;"><a href="http://www.mst.org.br/2015/07/15/enera-tem-o-desafio-de-criar-um-novo-espaco-de-articulacao-entre-os-trabalhadores-da-educacao.html" style="box-sizing: inherit; color: rgb(0, 100, 0); text-decoration: none;">Enera tem o desafio de criar um novo espa&ccedil;o de articula&ccedil;&atilde;o entre os trabalhadores da educa&ccedil;&atilde;o</a></strong></p>
@@ -74,8 +85,6 @@ Abaixo, confira diversas entrevistas, artigos e reportagens que trazem o debate 
 <strong>Leia mais:</strong></p>
 
 <p><strong><a href="http://www.mst.org.br/2015/09/02/2-enera-vem-para-reabrir-os-circuitos-da-historia-da-educacao-do-campo.html">2&deg; ENERA vem para reabrir os circuitos da hist&oacute;ria da Educa&ccedil;&atilde;o do Campo</a></strong></p>
-
-<p>&nbsp;</p>
 
 <p><strong><a href="http://www.mst.org.br/2015/08/17/mais-de-1-200-participantes-debatem-a-educacao-publica-brasileira.html">Semin&aacute;rio debate rumos da pol&iacute;tica educacional e o papel da educa&ccedil;&atilde;o na reforma agr&aacute;ria</a></strong></p>
 
