@@ -124,11 +124,15 @@
       width: 100%;
       justify-content: space-between;
 
+      .see-more {
+        color: #fff;
+        text-decoration: underline;
+      }
+
       #date{
         @extend .title-with-shadow;
         @include span-columns(5);
         font-size: 3em;
-        font-style: italic;
         margin-top: 0;
         margin-bottom: 0;
         min-width: 235px;
@@ -146,7 +150,7 @@
         margin-top: 7px;
         @extend .text-with-shadow;
         @include span-columns(6);
-
+        text-align: center;
         @include media($mobile) {
           @include fill-parent();
         }
