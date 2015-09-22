@@ -44,6 +44,9 @@ O pedido de instala&ccedil;&atilde;o da pasta foi protocolado pela fazendeira e 
 Visando n&atilde;o repetir o erro, o presidente da Casa de Leis do Estado, J&uacute;nior Mochi (PMDB), pediu &agrave; deputada que especificasse o que seria investigado dentro do CIMI. O processo pol&iacute;tico ir&aacute; apurar a den&uacute;ncia de que o &oacute;rg&atilde;o estaria patrocinando &ldquo;invas&otilde;es de terras&rdquo; no estado.</p>
 
 <p><br />
+<strong>Ofensiva</strong></p>
+
+<p><br />
 A CPI ressurge em meio &agrave; ofensiva dos ruralistas sobre os povos ind&iacute;genas na regi&atilde;o. Parte dos fazendeiros e seus jagun&ccedil;os no estado t&ecirc;m atuado atrav&eacute;s de mil&iacute;cias armadas que, em menos de um m&ecirc;s, desferiu mais de dez ataques paramilitares contra o povo Guarani Kaiow&aacute; dos Tekoh&aacute; Nanderu Marangatu, Guyra Kamby&rsquo;i, Pyelito Kue e Potreiro Guasu.</p>
 
 <p><br />
@@ -53,7 +56,7 @@ O mais recente deles foi o ataque a tiros no &uacute;ltimo s&aacute;bado (19) co
 Outro epis&oacute;dio foi o ataque de um grupo de propriet&aacute;rios rurais sobre a comunidade da Terra Ind&iacute;gena &Ntilde;ande Ru Marangatu, o que levou ao assassinato da lideran&ccedil;a Semi&atilde;o Vilhalva Guarani e Kaiow&aacute;, de 24 anos.</p>
 
 <p><br />
-Em nota, o Cimi, acredita que a CPI criada pela fazendeira e deputada estadual Mara Caseiros (PTdoB) e subscrita por outros deputados fazendeiros &ldquo;faz parte da estrat&eacute;gia de ataques ruralistas aos povos ind&iacute;genas e seus aliados&rdquo;.</p>
+Em nota, o Cimi&nbsp;acredita que a CPI criada pela fazendeira e deputada estadual Mara Caseiros e subscrita por outros deputados fazendeiros &ldquo;faz parte da estrat&eacute;gia de ataques ruralistas aos povos ind&iacute;genas e seus aliados&rdquo;.</p>
 
 <p><br />
 A organiza&ccedil;&atilde;o lembra ainda que nos &ldquo;&uacute;ltimos 12 anos, ao menos 585 ind&iacute;genas cometeram suic&iacute;dio e outros 390 foram assassinados no Mato Grosso do Sul. O estado tem 23 milh&otilde;es de bovinos que ocupam aproximadamente 23 milh&otilde;es de hectares de terra. Enquanto isso, com os procedimentos de demarca&ccedil;&atilde;o paralisados, os cerca de 45 mil Guarani Kaiow&aacute; continuam espremidos em apenas 30 mil hectares de suas terras tradicionais&rdquo;.</p>
