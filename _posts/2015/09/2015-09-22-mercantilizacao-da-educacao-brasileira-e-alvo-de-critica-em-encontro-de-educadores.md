@@ -3,7 +3,7 @@ date: "2015-09-22T12:17:11-03:00"
 tags:
   - tag: educação
   - tag: enera
-title: Mercantilização da educação brasileira é alvo de critica em encontro de educadores
+title: Mercantilização da educação brasileira é alvo de crítica em encontro de educadores
 support_line: "“Temos que manter objetividade na luta política, não podemos passar a formação das juventudes para as corporações”, afirma professor da UFRJ, Roberto Leher."
 menu: "educação, cultura e comunicação"
 images_hd: "http://farm1.staticflickr.com/656/21602088346_b5479e32e3_b.jpg"
@@ -81,8 +81,6 @@ Para ele, &ldquo;o MST consegue, em certa medida, levar a educa&ccedil;&atilde;o
 <p><strong><a href="http://www.mst.org.br/2015/09/21/abertura-2-enenra-construimos-a-ideia-de-que-a-libertacao-depende-do-povo-controlar-em-primeiro-lugar-o-conhecimento.html">2&deg; Enera re&uacute;ne mais de 1500 educadoras e educadores do campo em Goi&aacute;s</a></strong></p>
 
 <p><strong><a href="http://www.mst.org.br/2015/09/21/mostra-cultural-expoe-produtos-da-reforma-agraria-durante-2-enera.html">Mostra Cultural exp&otilde;e produtos da Reforma Agr&aacute;ria durante 2&deg; Enera</a></strong></p>
-
-<p>&nbsp;</p>
 
 <p><br />
 Wender ponderou que ao dar acesso a universidade para a popula&ccedil;&atilde;o mais pobre por meio dos programas de inclus&atilde;o, beneficiaria os interesses da burguesia, uma vez que, &ldquo;na medida que d&aacute; mais acesso a educa&ccedil;&atilde;o, tamb&eacute;m d&aacute; milh&otilde;es para os empres&aacute;rios da educa&ccedil;&atilde;o&rdquo;, acrescenta.<br />
