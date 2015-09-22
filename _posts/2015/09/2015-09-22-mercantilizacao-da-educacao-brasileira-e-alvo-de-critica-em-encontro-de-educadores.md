@@ -4,7 +4,7 @@ tags:
   - tag: educação
   - tag: enera
 title: Mercantilização da educação brasileira é alvo de crítica em encontro de educadores
-support_line: "“Temos que manter objetividade na luta política, não podemos passar a formação das juventudes para as corporações”, afirma professor da UFRJ, Roberto Leher."
+support_line: "“Temos que manter objetividade na luta política, não podemos passar a formação das juventudes para as corporações”, afirma o reitor da UFRJ, Roberto Leher."
 menu: "educação, cultura e comunicação"
 images_hd: "http://farm1.staticflickr.com/656/21602088346_b5479e32e3_b.jpg"
 layout: post
