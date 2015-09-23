@@ -11,7 +11,7 @@ title: "Após marcha, educadores ocupam Ministério da Agricultura em Brasília"
 support_line: A ação foi para denunciar o uso abusivo de agrotóxicos utilizado pelo agronegócio e o fechamento de escolas no campo.
 menu: lutas e mobilizações
 sector: education
-section: featured-news
+section: null
 layout: post
 files:
   - link: "http://farm1.staticflickr.com/616/21468008928_245b36045b_b.jpg"
