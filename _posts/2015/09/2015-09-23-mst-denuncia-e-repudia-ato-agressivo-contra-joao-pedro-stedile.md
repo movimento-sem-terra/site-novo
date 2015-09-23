@@ -41,6 +41,9 @@ Para o MST, este epis&oacute;dio n&atilde;o &eacute; um fato isolado, mas um ref
 Estes atos de viol&ecirc;ncia e &oacute;dio propagado intensamente nas redes sociais, e que reverbera cada vez mais nas ruas, &eacute; mais uma demonstra&ccedil;&atilde;o da viol&ecirc;ncia dos setores da elite brasileira dispostos a promover uma onda de viol&ecirc;ncia e &oacute;dio contra os setores populares.</p>
 
 <p><br />
+<strong><a href="http://www.mst.org.br/2015/09/23/diversos-movimentos-populares-se-solidarizam-com-stedile-apos-sofrer-insultos-em-fortaleza.html">Clique aqui </a></strong>e confira a nota de solidariedade de diversos movimentos populares.</p>
+
+<p><br />
 Por&eacute;m, num outro recente epis&oacute;dio de &oacute;dio contra Stedile, quando circulou nas redes sociais um cartaz em que oferecia uma recompensa por ele &ldquo;vivo ou morto&rdquo;, j&aacute; alert&aacute;vamos que a dimens&atilde;o destes acontecimentos adv&eacute;m, sobretudo, de uma m&iacute;dia partidarizada, manipuladora e que distorce e esconde informa&ccedil;&otilde;es, ao mesmo tempo em que promove o &oacute;dio e o preconceito contra os que pensam diferente.</p>
 
 <p><br />
