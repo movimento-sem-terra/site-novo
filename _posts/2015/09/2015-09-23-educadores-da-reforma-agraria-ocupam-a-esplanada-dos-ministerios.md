@@ -9,7 +9,7 @@ support_line: Os educadores e educadores denunciam o crítico cenário de fecham
 menu: lutas e mobilizações
 sector: education
 images_hd: "http://farm1.staticflickr.com/580/21627571066_cb3d27b1c9_b.jpg"
-section: cover
+section: null
 layout: post
 files:
   - link: "http://farm6.staticflickr.com/5816/21463155448_e55c38bf01_b.jpg"
