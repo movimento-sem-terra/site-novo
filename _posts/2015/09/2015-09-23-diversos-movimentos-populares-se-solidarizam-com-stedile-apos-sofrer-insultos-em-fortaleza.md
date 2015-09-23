@@ -111,6 +111,7 @@ Deputado Estadual Renato Roseno<br />
 <span style="line-height: 20.8px;">Deputado Federal&nbsp;Jo&atilde;o Daniel (PT-SE)</span><br />
 Deputado Federal Pedro Uczai (PT-SC)<br />
 Deputado Federal Padre Jo&atilde;o (PT-MG)<br />
+Deputado Federal Odorico Monteiro (PT-CE)<br />
 Deputado Estadual Tadeu Veneri &nbsp;(PT-PR)<br />
 Deputada Estadual Luciane Carminatti (PT-SC)<br />
 Vereador Jo&atilde;o Alfredo<br />
@@ -120,5 +121,3 @@ Vereador Acr&iacute;sio Sena<br />
 <span style="line-height: 20.8px;">Vereador Leonardo Giordano</span><br />
 Renato Sim&otilde;es&nbsp;<br />
 Gilney Viana</p>
-
-<p>&nbsp;</p>
