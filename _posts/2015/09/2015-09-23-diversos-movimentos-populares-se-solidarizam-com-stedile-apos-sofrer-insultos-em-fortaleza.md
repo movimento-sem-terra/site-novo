@@ -93,6 +93,8 @@ Sindicato APEOC&nbsp;<br />
 Sindicato dos Metal&uacute;rgicos do Estado do Cear&aacute; &ndash; SINDMETAL<br />
 Sindicato dos Trabalhadores do Servi&ccedil;o P&uacute;blico Federal do Cear&aacute; &ndash; SINTSEF-CE<br />
 Sindicato dos Empregados no Com&eacute;rcio de Fortaleza&nbsp;Diret&oacute;rio Central dos Estudantes &ndash; UECE<br />
+<span style="line-height: 20.8px;">Justi&ccedil;a Global</span><br style="line-height: 20.8px;" />
+<span style="line-height: 20.8px;">Terra Sem Males</span><br />
 Diret&oacute;rio Central dos Estudantes - UNIFOR<br />
 Deputado Federal Jos&eacute; Guimar&atilde;es<br />
 Deputado Estadual Elmano Freitas<br />
@@ -104,9 +106,16 @@ Deputado Estadual Renato Roseno<br />
 <span style="line-height: 20.8px;">Deputado Federal&nbsp;</span><span style="line-height: 20.8px;">Wadih Damous&nbsp;</span><span style="line-height: 20.8px;">(PT-RJ)</span><br style="line-height: 20.8px;" />
 <span style="line-height: 20.8px;">Deputado Federal&nbsp;</span><span style="line-height: 20.8px;">Valmir Assun&ccedil;&atilde;o (</span><span style="line-height: 20.8px;">PT-BA)</span><br style="line-height: 20.8px;" />
 <span style="line-height: 20.8px;">Deputado Federal&nbsp;Jo&atilde;o Daniel (PT-SE)</span><br />
+Deputado Federal Pedro Uczai (PT-SC)<br />
+Deputado Federal Padre Jo&atilde;o (PT-MG)<br />
+Deputado Estadual Tadeu Veneri &nbsp;(PT-PR)<br />
+Deputada Estadual Luciane Carminatti (PT-SC)<br />
 Vereador Jo&atilde;o Alfredo<br />
 Vereador Jovanil<br />
 Vereador Ronivaldo Maia<br />
+Vereador Acr&iacute;sio Sena<br />
 <span style="line-height: 20.8px;">Vereador Leonardo Giordano</span><br />
-<span style="line-height: 20.8px;">Justi&ccedil;a Global</span><br />
-Terra Sem Males</p>
+Renato Sim&otilde;es&nbsp;<br />
+Gilney Viana</p>
+
+<p>&nbsp;</p>
