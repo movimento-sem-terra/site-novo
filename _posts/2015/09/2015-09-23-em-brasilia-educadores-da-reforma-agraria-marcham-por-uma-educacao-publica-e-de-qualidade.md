@@ -62,8 +62,10 @@ releated_posts:
 <figcaption>Foto: Biby Rojas Flores</figcaption>
 </figure>
 
-<p><em>Da P&aacute;gina do MST&nbsp;</em><br />
-<br />
+<p><br />
+<em>Da P&aacute;gina do MST&nbsp;</em></p>
+
+<p><br />
 A marcha realizada pelos 1500 participantes do<a href="http://www.mst.org.br/2015/08/17/mais-de-1-200-participantes-debatem-a-educacao-publica-brasileira.html"> 2&deg; Encontro Nacional dos Educadores da Reforma Agr&aacute;ria (Enera)</a>, pela Esplanada dos Minist&eacute;rios em Bras&iacute;lia (DF), nesta&nbsp;quarta-feira (23), iniciou com uma interven&ccedil;&atilde;o em frente ao Minist&eacute;rio da Educa&ccedil;&atilde;o (MEC)&nbsp;para denunciar o fechamento das escolas do campo e a mercantiliza&ccedil;&atilde;o da educa&ccedil;&atilde;o p&uacute;blica no pa&iacute;s.</p>
 
 <p><br />
@@ -94,6 +96,8 @@ Atiliana Brunetto, dirigente assentada do MST e ind&iacute;gena, chamou aten&cce
 <p><br />
 &ldquo;O Estado brasileiro est&aacute; matando o nosso povo ind&iacute;gena. Todas as fam&iacute;lias ind&iacute;genas s&atilde;o desrespeitadas quando o governo resolve paralisar as demarca&ccedil;&otilde;es das terras. N&oacute;s, educadores, lutamos por vida, terra e tamb&eacute;m pelos povos ind&iacute;genas. A quest&atilde;o ind&iacute;gena n&atilde;o &eacute; apenas mais um caso da pol&iacute;tica ou jur&iacute;dico, ela &eacute; um caso de vidas humanas. Isso fez com que n&oacute;s, popula&ccedil;&atilde;o ind&iacute;gena, fossemos para fora do pa&iacute;s pedir prote&ccedil;&atilde;o&quot;, salienta.</p>
 
+<p>&nbsp;</p>
+
 <figure class="image"><img alt="21661146535_aa79d1f040_z.jpg" src="http://farm1.staticflickr.com/588/21650886582_a024dcee42_b.jpg" />
 <figcaption>Foto: M&iacute;dia Ninja</figcaption>
 </figure>
@@ -112,6 +116,8 @@ Os Sem Terra terminaram a marcha <a href="http://www.mst.org.br/2015/09/23/apos-
 <figure class="image"><img alt="21649737332_4b0f42ccf4_z.jpg" src="http://farm6.staticflickr.com/5626/21039615604_174b3c5cdf_b.jpg" />
 <figcaption>Foto: M&iacute;dia Ninja</figcaption>
 </figure>
+
+<p>&nbsp;</p>
 
 <p>A Ministra K&aacute;tia Abreu, uma das principais representantes do agroneg&oacute;cio no governo federal tamb&eacute;m foi criticada no ato.</p>
 
