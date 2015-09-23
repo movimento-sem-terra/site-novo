@@ -7,7 +7,7 @@ tags:
 title: 2° Enera reúne mais de 1500 educadoras e educadores do campo em Goiás
 images_hd: "http://farm6.staticflickr.com/5749/21580093226_5601671c0a_b.jpg"
 menu: "educação, cultura e comunicação"
-section: cover
+section: featured-news
 sector: education
 support_line: "O evento reunirá até a próxima sexta-feira (25), cerca de 1500 educadoras e educadoras de todo o pais para debater o atual momento da educação pública brasileira."
 layout: post
