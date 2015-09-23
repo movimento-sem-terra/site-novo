@@ -88,7 +88,7 @@ Somente entre entre 2002-2010, as matr&iacute;culas na rede p&uacute;blica dimin
 Seguindo a caminhada os educadores e educadoras pararam em frete ao Minist&eacute;rio da Justi&ccedil;a para mostrar rep&uacute;dio ao projeto de Lei 2016/15, que restringe o direito &agrave; livre manifesta&ccedil;&atilde;o, podendo enquadrar militantes como terroristas.</p>
 
 <p><br />
-Os Sem Terra Tamb&eacute;m chamaram aten&ccedil;&atilde;o para os massacres do povo ind&iacute;gena. Segundo dados do Conselho Indienista Mission&aacute;rio (CIMI), entre os anos de 2003 e 2014, 390 ind&iacute;genas foram assassinados no Mato Grosso do Sul, um total que representa 52% dos casos registrados em todo o pa&iacute;s.</p>
+Os Sem Terra tamb&eacute;m chamaram aten&ccedil;&atilde;o para os massacres dos povos ind&iacute;genas no Brasil. Segundo dados do Conselho Indigenista Mission&aacute;rio (CIMI), entre os anos de 2003 e 2014, 390 ind&iacute;genas foram assassinados no Mato Grosso do Sul, um total que representa 52% dos casos registrados em todo o pa&iacute;s.</p>
 
 <p><br />
 Atiliana Brunetto, dirigente assentada do MST e ind&iacute;gena, chamou aten&ccedil;&atilde;o para essas mortes e exigiu a acelera&ccedil;&atilde;o no processo de demarca&ccedil;&atilde;o dos territ&oacute;rios.</p>
