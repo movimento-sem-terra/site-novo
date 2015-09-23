@@ -6,7 +6,7 @@ tags:
   - tag: violência-no-campo
   - tag: território-indigena
   - tag: educação
-title: "Em Brasília, educadores da Reforma Agrária marcham por uma educação pública e de qualidade"
+title: Educadores da Reforma Agrária marcham por uma educação pública e de qualidade
 menu: lutas e mobilizações
 section: cover
 sector: education
