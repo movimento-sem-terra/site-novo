@@ -102,6 +102,7 @@ Coletivo Trexter - Trabalhadores(as) da Extens&atilde;o Rural da Emater/RS<br />
 Central de Trabajadores de la Argentina (CTA) Aut&oacute;noma.<br />
 ETC - M&eacute;xico<br />
 Diret&oacute;rio Central dos Estudantes - UNIFOR<br />
+Paulo Assun&ccedil;&atilde;o - Vice Presidente do PT de Fortaleza<br />
 Deputado Federal Jos&eacute; Guimar&atilde;es<br />
 Deputado Estadual Elmano Freitas<br />
 Deputado Estadual Mois&eacute;s Br&aacute;z<br />
@@ -125,5 +126,7 @@ Vereador Acr&iacute;sio Sena<br />
 <span style="line-height: 20.8px;">Vereador Leonardo Giordano</span><br />
 Renato Sim&otilde;es&nbsp;<br />
 Gilney Viana</p>
+
+<p>&nbsp;</p>
 
 <p>&nbsp;</p>
