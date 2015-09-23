@@ -52,8 +52,7 @@ Os cerca de 1.500 educadores que<a href="http://www.mst.org.br/2015/09/23/educad
 <p><br />
 <span style="line-height: 20.8px;">Segundo dados da Anvisa,&nbsp;</span><span style="line-height: 20.8px;">64% dos alimentos est&atilde;o contaminados por agrot&oacute;xicos. J&aacute; o Minist&eacute;rio da Sa&uacute;de registrou 34.147 notifica&ccedil;&otilde;es de intoxica&ccedil;&atilde;o por agrot&oacute;xico entre 2007 e 2014 (MS/DataSUS).</span></p>
 
-<p><br />
-&nbsp;</p>
+<p>&nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="katia.jpg" src="http://farm1.staticflickr.com/751/21467970860_5f73dfab97_b.jpg" />
 <figcaption></figcaption>
@@ -66,10 +65,6 @@ Os participantes tamb&eacute;m denunciaram o fechamento das escolas do campo e c
 
 <p><br />
 Os educadores e educadoras do 2&deg; ENERA lutam pelo fortalecimento do Programa Nacional de Educa&ccedil;&atilde;o na Reforma Agr&aacute;ria, e exigem a constru&ccedil;&atilde;o de 300 novas escolas em &aacute;reas da Reforma Agr&aacute;ria, al&eacute;m de mais 100 Centros de Educa&ccedil;&atilde;o Infantil e a garantia de mais 30 Institutos Federais dentro de &aacute;reas de assentamentos.</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
 
 <p>&nbsp;</p>
 
