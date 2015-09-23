@@ -1,0 +1,111 @@
+@import "../bourbon/bourbon";
+@import "../neat/neat";
+@import "../_sass/variables";
+
+ul.tabs {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  max-width: 100% !important;
+  height: 32px;
+  border-bottom: solid 1px #CFCFD0;
+  display: inline-block;
+  li {
+    border: solid 1px #CFCFD0;
+    border-bottom: none;
+    float: left;
+    margin: 0 .25em 0 0;
+    padding: .25em .5em;
+
+    a {
+      color: #666;
+      font-weight: bold;
+      text-decoration: none;
+    }
+    &.active {
+      background: #666;
+      a {
+        color: white;
+      }
+    }
+  }
+}
+
+
+.filter {
+  border-bottom: 1px solid rgba(0,0,0,0.1);
+  margin-bottom: 10px;
+  margin-top: 30px;
+  transition: visibility 0s linear 0.5s,opacity 0.5s linear;
+  @include clearfix;
+
+  .speaker-content {
+
+  	@include clearfix;
+    min-height: 300px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+
+    .speaker-image-content {
+      @include span-columns(3);
+      text-align: left;
+
+      &.divisor {
+        border-right: solid 1px #CFCFD0;
+      }
+
+      .speaker-image {
+        padding: 10px;
+      }
+      .day-name,
+      .bold,
+      .month {
+        font-size: 30px;
+        font-weight: 300;
+        display: block;
+      }
+      .day-name{
+        font-size: 20px;
+      }
+      .bold{
+        font-weight: bold;
+        font-size: 60px;
+        line-height: 60px;
+      }
+    }
+
+    .speaker-description-content {
+      @include span-columns(9);
+      margin-left: -80px;
+
+      &.divisor {
+        .speaker-description-date,
+        .speaker-description {
+          padding-left: 20px;
+        }
+      }
+
+      .day-container{
+        border-left: solid 1px #961913;
+        margin-bottom: 40px;
+      }
+
+      .speaker-description-date {
+        font-size: 11px;
+        font-style: italic;
+      }
+
+      .speaker-description-title {
+        font-size: 30px;
+        font-weight: 300;
+        margin-bottom: 30px;
+
+        &.divisor {
+          border-left: solid 1px #CFCFD0;
+          padding-left: 20px;
+        }
+      }
+
+    }
+  }
+}
