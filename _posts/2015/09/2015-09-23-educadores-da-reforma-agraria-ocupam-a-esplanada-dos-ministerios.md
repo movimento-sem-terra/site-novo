@@ -24,6 +24,12 @@ files:
     small: "http://farm1.staticflickr.com/580/21627571066_cb3d27b1c9_n.jpg"
     title: feita are.jpg
     $$hashKey: 0VA
+  - link: "http://farm1.staticflickr.com/706/21663059671_441198c6f1_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/706/21663059671_441198c6f1_t.jpg"
+    medium: "http://farm1.staticflickr.com/706/21663059671_441198c6f1_z.jpg"
+    small: "http://farm1.staticflickr.com/706/21663059671_441198c6f1_n.jpg"
+    title: educação nao e.jpg
+    $$hashKey: 05R
 created_date: "2015-09-23T09:52:41-03:00"
 published: true
 releated_posts:
@@ -48,7 +54,13 @@ Na manh&atilde; desta quarta (23/9), a partir das 10h, os 1500 participantes do 
 Para os educadores e educadoras do 2&deg; ENERA, o fortalecimento do Programa Nacional de Educa&ccedil;&atilde;o na Reforma Agr&aacute;ria &eacute; priorit&aacute;rio. &ldquo;Exigimos a constru&ccedil;&atilde;o de 300 novas escolas em &aacute;reas da Reforma Agr&aacute;ria, al&eacute;m de mais 100 Centros de Educa&ccedil;&atilde;o Infantil e a garantia de mais 30 Institutos Federais dentro de &aacute;reas de assentamentos&rdquo;, completa Divina.</p>
 
 <p><br />
-<a href="https://www.flickr.com/photos/mstoficial/albums/72157658890640316" style="line-height: 20.8px;" target="_blank"><strong>Confira mais fotos do 2&deg; Enera</strong></a>&nbsp;</p>
+&nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="educação nao e.jpg" src="http://farm1.staticflickr.com/706/21663059671_441198c6f1_b.jpg" />
+<figcaption></figcaption>
+</figure>
+
+<p><a href="https://www.flickr.com/photos/mstoficial/albums/72157658890640316" style="line-height: 20.8px;" target="_blank"><strong>Confira mais fotos do 2&deg; Enera</strong></a>&nbsp;</p>
 
 <p><br />
 Al&eacute;m disso, os educadores tamb&eacute;m denunciam a paralisa&ccedil;&atilde;o da Reforma Agr&aacute;ria no Pa&iacute;s. Esta situa&ccedil;&atilde;o se agrava com o ajuste fiscal do governo, que cortou quase 50% dos recursos da Reforma Agr&aacute;ria - de R$ 3,5 bilh&otilde;es sobraram apenas R$ 1,8 bilh&atilde;o.</p>
@@ -70,3 +82,5 @@ Os participantes do 2&deg; ENERA tamb&eacute;m manifestam preocupa&ccedil;&atild
 
 <p><br />
 &ldquo;&Eacute; absurda, inclusive, a proposta da ministra K&aacute;tia Abreu que retira da Avisa o papel de registro de produtos agropecu&aacute;rios, delegando esta tarefa a outro &oacute;rg&atilde;o. &Eacute; uma tentativa de encobrir os dados alarmantes acerca dos venenos agr&iacute;colas&rdquo;, afirma N&iacute;vea da Silva, integrante da coordena&ccedil;&atilde;o do MST-RJ.</p>
+
+<p>&nbsp;</p>
