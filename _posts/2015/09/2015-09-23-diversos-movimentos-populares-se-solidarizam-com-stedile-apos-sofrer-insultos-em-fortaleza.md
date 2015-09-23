@@ -5,7 +5,7 @@ tags:
   - tag: stedile
   - tag: movimentos-populares
   - tag: solidariedade
-title: Diversos movimentos populares se solidarizam com Stedile após sofrer insultos em Fortaleza
+title: Diversas organizações se solidarizam com Stedile após sofrer insultos em Fortaleza
 support_line: "\"Esta agressão só pode ser compreendida como parte de uma ofensiva conservadora da direita na sociedade que busca criminalizar e intimidar todos/as aqueles/as que lutam por um Brasil justo e soberano\"."
 menu: direitos humanos
 images_hd: "http://farm6.staticflickr.com/5803/21466667130_7f992c4749_b.jpg"
