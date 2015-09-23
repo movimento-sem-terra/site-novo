@@ -94,6 +94,7 @@ Sindicato APEOC&nbsp;<br />
 Sindicato dos Metal&uacute;rgicos do Estado do Cear&aacute; &ndash; SINDMETAL<br />
 Sindicato dos Trabalhadores do Servi&ccedil;o P&uacute;blico Federal do Cear&aacute; &ndash; SINTSEF-CE<br />
 Sindicato dos Empregados no Com&eacute;rcio de Fortaleza&nbsp;Diret&oacute;rio Central dos Estudantes &ndash; UECE<br />
+Centro de Estudos da M&iacute;dia Alternativa Bar&atilde;o de Itarar&eacute;<br />
 <span style="line-height: 20.8px;">Justi&ccedil;a Global</span><br style="line-height: 20.8px;" />
 <span style="line-height: 20.8px;">Terra Sem Males<br />
 Associa&ccedil;&atilde;o Ga&uacute;cha de Prote&ccedil;&atilde;o ao Ambiente Natural -&nbsp;</span>AGAPAN<br />
