@@ -76,6 +76,7 @@ Marcha Mundial das Mulheres &ndash; MMM<br />
 Uni&atilde;o Brasileira das Mulheres - UBM<br />
 Movimento Organizado dos Trabalhadores Urbanos &ndash; MOTU<br />
 Levante Popular da Juventude<br />
+Movimento dos Trabalhadores Sem Teto - MTST<br />
 Uni&atilde;o da Juventude Socialista - UJS<br />
 Rua &ndash; Juventude Anticapitalista<br />
 Coletivo O Estopim<br />
@@ -94,7 +95,9 @@ Sindicato dos Metal&uacute;rgicos do Estado do Cear&aacute; &ndash; SINDMETAL<br
 Sindicato dos Trabalhadores do Servi&ccedil;o P&uacute;blico Federal do Cear&aacute; &ndash; SINTSEF-CE<br />
 Sindicato dos Empregados no Com&eacute;rcio de Fortaleza&nbsp;Diret&oacute;rio Central dos Estudantes &ndash; UECE<br />
 <span style="line-height: 20.8px;">Justi&ccedil;a Global</span><br style="line-height: 20.8px;" />
-<span style="line-height: 20.8px;">Terra Sem Males</span><br />
+<span style="line-height: 20.8px;">Terra Sem Males<br />
+Associa&ccedil;&atilde;o Ga&uacute;cha de Prote&ccedil;&atilde;o ao Ambiente Natural -&nbsp;</span>AGAPAN<br />
+Coletivo Trexter - Trabalhadores(as) da Extens&atilde;o Rural da Emater/RS<br />
 Diret&oacute;rio Central dos Estudantes - UNIFOR<br />
 Deputado Federal Jos&eacute; Guimar&atilde;es<br />
 Deputado Estadual Elmano Freitas<br />
