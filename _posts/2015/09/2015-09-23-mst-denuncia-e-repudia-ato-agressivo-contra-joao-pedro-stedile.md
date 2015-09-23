@@ -4,7 +4,7 @@ tags:
   - tag: direitos-humanos
   - tag: stedile
   - tag: violência
-title: MST denuncia e repudia ato agressivo contra João Pedro Stedile
+title: MST denuncia e repudia ato agressivo e constrangedor contra Stedile
 support_line: "Em nota, o Movimento diz que este episódio reflete o crescimento do ódio propagado pela elite brasileira e pelos meio de comunicação da burguesia."
 menu: direitos humanos
 images_hd: "http://farm1.staticflickr.com/725/21030317874_6bc45d51fc_b.jpg"
