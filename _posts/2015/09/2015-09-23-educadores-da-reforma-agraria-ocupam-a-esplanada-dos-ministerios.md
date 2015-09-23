@@ -59,12 +59,6 @@ Al&eacute;m disso, os educadores tamb&eacute;m denunciam a paralisa&ccedil;&atil
 
 <p><strong><a href="http://www.mst.org.br/2015/09/21/mostra-cultural-expoe-produtos-da-reforma-agraria-durante-2-enera.html">Mostra Cultural exp&otilde;e produtos da Reforma Agr&aacute;ria durante 2&deg; Enera</a></strong></p>
 
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
 <p><br />
 Os participantes do 2&deg; ENERA tamb&eacute;m manifestam preocupa&ccedil;&atilde;o com o alto grau de utiliza&ccedil;&atilde;o de agrot&oacute;xicos no Brasil, o que prejudica a sa&uacute;de do campon&ecirc;s e compromete a educa&ccedil;&atilde;o no campo. Segundo dados da Anvisa, &nbsp;64% dos alimentos est&atilde;o contaminados por agrot&oacute;xicos. J&aacute; o Minist&eacute;rio da Sa&uacute;de registrou 34.147 notifica&ccedil;&otilde;es de intoxica&ccedil;&atilde;o por agrot&oacute;xico entre 2007 e 2014 (MS/DataSUS).</p>
 
