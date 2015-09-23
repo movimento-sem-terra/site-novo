@@ -66,8 +66,6 @@ releated_posts:
 <br />
 A marcha realizada pelos 1500 participantes do<a href="http://www.mst.org.br/2015/08/17/mais-de-1-200-participantes-debatem-a-educacao-publica-brasileira.html"> 2&deg; Encontro Nacional dos Educadores da Reforma Agr&aacute;ria (Enera)</a>, pela Esplanada dos Minist&eacute;rios em Bras&iacute;lia (DF), nesta&nbsp;quarta-feira (23), iniciou com uma interven&ccedil;&atilde;o em frente ao Minist&eacute;rio da Educa&ccedil;&atilde;o (MEC)&nbsp;para denunciar o fechamento das escolas do campo e a mercantiliza&ccedil;&atilde;o da educa&ccedil;&atilde;o p&uacute;blica no pa&iacute;s.</p>
 
-<p style="line-height: 20.7999992370605px;">&nbsp;</p>
-
 <p><br />
 Para Divina Lopes, do setor de educa&ccedil;&atilde;o do Movimento, vivemos num per&iacute;odo de crise em que o capital precisa pensar novas formas de se reproduzir e uma dessas frentes &eacute; o avan&ccedil;o cada vez maior sobre a educa&ccedil;&atilde;o.</p>
 
@@ -120,7 +118,7 @@ Os Sem Terra terminaram a marcha <a href="http://www.mst.org.br/2015/09/23/apos-
 <p><br />
 Durante a a&ccedil;&atilde;o, a pol&iacute;cia militar do Distrito Federal jogou spray de pimenta para impedir a entrada dos manifestantes no pr&eacute;dio, que tiveram que recuar para que n&atilde;o desencadeasse um conflito.&nbsp;</p>
 
-<figure class="image" style="float:right"><img alt="21039255973_63316b8092_z.jpg" height="232" src="http://farm1.staticflickr.com/573/21474409640_1f30b25187_b.jpg" width="350" />
+<figure class="image" style="float:right"><img alt="21039255973_63316b8092_z.jpg" height="226" src="http://farm1.staticflickr.com/573/21474409640_1f30b25187_b.jpg" width="340" />
 <figcaption>Foto: Luana Mara</figcaption>
 </figure>
 
