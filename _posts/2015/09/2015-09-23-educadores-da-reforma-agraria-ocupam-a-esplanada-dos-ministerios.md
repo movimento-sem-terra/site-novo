@@ -8,7 +8,7 @@ title: Educadores da Reforma Agrária ocupam a Esplanada dos Ministérios
 support_line: Os educadores e educadores denunciam o crítico cenário de fechamento das escolas no campo e o forte processo de mercantilização da educação pública brasileira.
 menu: lutas e mobilizações
 sector: education
-images_hd: "http://farm6.staticflickr.com/5816/21463155448_e55c38bf01_b.jpg"
+images_hd: "http://farm1.staticflickr.com/580/21627571066_cb3d27b1c9_b.jpg"
 section: cover
 layout: post
 files:
@@ -18,6 +18,12 @@ files:
     small: "http://farm6.staticflickr.com/5816/21463155448_e55c38bf01_n.jpg"
     title: 21615082836_9499d3ac1e_z.jpg
     $$hashKey: 0HF
+  - link: "http://farm1.staticflickr.com/580/21627571066_cb3d27b1c9_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/580/21627571066_cb3d27b1c9_t.jpg"
+    medium: "http://farm1.staticflickr.com/580/21627571066_cb3d27b1c9_z.jpg"
+    small: "http://farm1.staticflickr.com/580/21627571066_cb3d27b1c9_n.jpg"
+    title: feita are.jpg
+    $$hashKey: 0VA
 created_date: "2015-09-23T09:52:41-03:00"
 published: true
 releated_posts:
@@ -28,12 +34,12 @@ releated_posts:
   - 2015/09/2015-09-11-em-pernambuco-escolas-do-campo-ajudam-a-romper-a-cerca-da-exclusao-escolar.md
 
 ---
-<p><img alt="21615082836_9499d3ac1e_z.jpg" src="http://farm6.staticflickr.com/5816/21463155448_e55c38bf01_b.jpg" /><br />
+<p><img alt="feita are.jpg" src="http://farm1.staticflickr.com/580/21627571066_cb3d27b1c9_b.jpg" /><br />
 <br />
 <em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Na manh&atilde; desta quarta (23/9), a partir das 10h, os 1500 participantes do <a href="http://www.mst.org.br/2015/08/17/mais-de-1-200-participantes-debatem-a-educacao-publica-brasileira.html" target="_blank">2&deg; Encontro Nacional de Educadores e Educadoras da Reforma Agr&aacute;ria (ENERA)</a> realizam ato p&uacute;blico na Esplanada dos Minist&eacute;rios, em Bras&iacute;lia. Os educadores e educadores denunciam o cr&iacute;tico cen&aacute;rio de fechamento das escolas no campo e o forte processo de mercantiliza&ccedil;&atilde;o da educa&ccedil;&atilde;o p&uacute;blica brasileira.&nbsp;O ser&aacute; no Minist&eacute;rio da Educa&ccedil;&atilde;o</p>
+Na manh&atilde; desta quarta (23/9), a partir das 10h, os 1500 participantes do <a href="http://www.mst.org.br/2015/08/17/mais-de-1-200-participantes-debatem-a-educacao-publica-brasileira.html" target="_blank">2&deg; Encontro Nacional de Educadores e Educadoras da Reforma Agr&aacute;ria (ENERA)</a> realizam ato p&uacute;blico na Esplanada dos Minist&eacute;rios, em Bras&iacute;lia. Os educadores e educadores denunciam o cr&iacute;tico cen&aacute;rio de fechamento das escolas no campo e o forte processo de mercantiliza&ccedil;&atilde;o da educa&ccedil;&atilde;o p&uacute;blica brasileira.&nbsp;O ato come&ccedil;ou no Minist&eacute;rio da Educa&ccedil;&atilde;o e segue pela esplanada.</p>
 
 <p><br />
 &ldquo;Segundo os dados dispon&iacute;veis do Censo Escolar do Instituto Nacional de Estudos e Pesquisas Educacionais An&iacute;sio Teixeira (Inep), nos &uacute;ltimos 15 anos, mais de 37 mil unidades educacionais a menos no meio rural. &Eacute; uma m&eacute;dia de oito escolas rurais fechadas por dia em todo pa&iacute;s. Como se n&atilde;o bastasse, h&aacute; uma grande a compra de institui&ccedil;&otilde;es educacionais por grandes grupos empresariais e a influ&ecirc;ncia cada vez mais vis&iacute;vel de empresas do agroneg&oacute;cio em linhas pedag&oacute;gicas de escolas e universidades&rdquo;, aponta Divina Lopes, integrante da dire&ccedil;&atilde;o nacional do MST.&nbsp;</p>
