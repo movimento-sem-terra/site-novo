@@ -113,6 +113,7 @@ Deputado Estadual Renato Roseno<br />
 Deputado Federal Pedro Uczai (PT-SC)<br />
 Deputado Federal Padre Jo&atilde;o (PT-MG)<br />
 Deputado Federal Odorico Monteiro (PT-CE)<br />
+Deputado Federal <span style="line-height: 20.8px;">Afonso Florence (</span>PT-BA)<br />
 Deputado Estadual Tadeu Veneri &nbsp;(PT-PR)<br />
 Deputada Estadual Luciane Carminatti (PT-SC)<br />
 Vereador Jo&atilde;o Alfredo<br />
@@ -122,3 +123,5 @@ Vereador Acr&iacute;sio Sena<br />
 <span style="line-height: 20.8px;">Vereador Leonardo Giordano</span><br />
 Renato Sim&otilde;es&nbsp;<br />
 Gilney Viana</p>
+
+<p>&nbsp;</p>
