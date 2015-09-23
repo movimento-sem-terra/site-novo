@@ -8,7 +8,7 @@ title: Educadores destacam papel das escolas do campo na produção de alimentos
 images_hd: "http://farm6.staticflickr.com/5823/21014727343_929380da2e_b.jpg"
 sector: education
 menu: "educação, cultura e comunicação"
-section: cover
+section: null
 support_line: "“É revolucionário pensar na produção de alimentos saudáveis com o abastecimento popular, mas para isso precisamos ter, além de mão de obra e terra, rumo, projetos e decisão política”, argumentou Adalberto Martins."
 layout: post
 files:
