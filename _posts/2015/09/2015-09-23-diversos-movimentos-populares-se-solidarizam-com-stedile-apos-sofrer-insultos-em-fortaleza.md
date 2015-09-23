@@ -99,6 +99,8 @@ Centro de Estudos da M&iacute;dia Alternativa Bar&atilde;o de Itarar&eacute;<br 
 <span style="line-height: 20.8px;">Terra Sem Males<br />
 Associa&ccedil;&atilde;o Ga&uacute;cha de Prote&ccedil;&atilde;o ao Ambiente Natural -&nbsp;</span>AGAPAN<br />
 Coletivo Trexter - Trabalhadores(as) da Extens&atilde;o Rural da Emater/RS<br />
+Central de Trabajadores de la Argentina (CTA) Aut&oacute;noma.<br />
+ETC - M&eacute;xico<br />
 Diret&oacute;rio Central dos Estudantes - UNIFOR<br />
 Deputado Federal Jos&eacute; Guimar&atilde;es<br />
 Deputado Estadual Elmano Freitas<br />
