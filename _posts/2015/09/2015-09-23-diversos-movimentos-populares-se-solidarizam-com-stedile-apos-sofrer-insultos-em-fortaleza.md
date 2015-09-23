@@ -102,4 +102,12 @@ Deputado Estadual Renato Roseno<br />
 Vereador Jo&atilde;o Alfredo<br />
 Vereador Jovanil<br />
 Vereador Ronivaldo Maia<br />
-<span style="line-height: 20.8px;">Justi&ccedil;a Global</span></p>
+<span style="line-height: 20.8px;">Justi&ccedil;a Global</span><br />
+Terra Sem Males<br />
+Deputada Federal Luizianne Lins (PT-CE)<br />
+Deputada Federal Ana Perugini (PT-SP)<br />
+Deputado Federal <span style="line-height: 20.8px;">Wadih Damous&nbsp;</span>(PT-RJ)<br />
+Deputado Federal <span style="line-height: 20.8px;">Valmir Assun&ccedil;&atilde;o (</span>PT-BA)<br />
+Deputado Federal <span style="line-height: 20.8px;">Jo&atilde;o Daniel (</span>PT-SE)</p>
+
+<p>&nbsp;</p>
