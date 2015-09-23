@@ -66,10 +66,12 @@ releated_posts:
 <br />
 A marcha realizada pelos 1500 participantes do<a href="http://www.mst.org.br/2015/08/17/mais-de-1-200-participantes-debatem-a-educacao-publica-brasileira.html"> 2&deg; Encontro Nacional dos Educadores da Reforma Agr&aacute;ria (Enera)</a>, pela Esplanada dos Minist&eacute;rios em Bras&iacute;lia (DF), nesta&nbsp;quarta-feira (23), iniciou com uma interven&ccedil;&atilde;o em frente ao Minist&eacute;rio da Educa&ccedil;&atilde;o (MEC)&nbsp;para denunciar o fechamento das escolas do campo e a mercantiliza&ccedil;&atilde;o da educa&ccedil;&atilde;o p&uacute;blica no pa&iacute;s.</p>
 
-<p style="line-height: 20.7999992370605px;"><br />
+<p style="line-height: 20.7999992370605px;">&nbsp;</p>
+
+<p><br />
 Para Divina Lopes, do setor de educa&ccedil;&atilde;o do Movimento, vivemos num per&iacute;odo de crise em que o capital precisa pensar novas formas de se reproduzir e uma dessas frentes &eacute; o avan&ccedil;o cada vez maior sobre a educa&ccedil;&atilde;o.</p>
 
-<p style="line-height: 20.7999992370605px;"><br />
+<p><br />
 &ldquo;&Eacute; inadmiss&iacute;vel que no &uacute;ltimo per&iacute;odo 37 mil escolas tenham sido fechadas no campo. N&atilde;o podemos aceitar que no Brasil ainda existam mais de 13 milh&otilde;es de analfabetos. O avan&ccedil;o do agroneg&oacute;cio e da l&oacute;gica mercantil dos empres&aacute;rios da educa&ccedil;&atilde;o tem que ser barrado. E hoje, o 2&deg; Enera se coloca em luta com um ato de den&uacute;ncia, mas tamb&eacute;m, marchamos em defesa de uma educa&ccedil;&atilde;o p&uacute;blica e de qualidade para todos os brasileiros&rdquo;, afirma.</p>
 
 <figure class="image" style="float:left"><img alt="21035803064_59b26385cc_z.jpg" height="200" src="http://farm1.staticflickr.com/694/21474442698_7173419e4c_b.jpg" width="300" />
