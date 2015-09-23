@@ -56,4 +56,4 @@ Entretanto, estas atitudes n&atilde;o ser&atilde;o capazes de nos tirar da luta 
 &nbsp;</p>
 
 <p style="text-align: right;">Dire&ccedil;&atilde;o Nacional do MST<br />
-S&atilde;o Paulo, 23 de agosto de 2015.</p>
+S&atilde;o Paulo, 23 de setembro de 2015.</p>
