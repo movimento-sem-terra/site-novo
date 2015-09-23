@@ -99,6 +99,14 @@ Centro de Estudos da M&iacute;dia Alternativa Bar&atilde;o de Itarar&eacute;<br 
 <span style="line-height: 20.8px;">Terra Sem Males<br />
 Associa&ccedil;&atilde;o Ga&uacute;cha de Prote&ccedil;&atilde;o ao Ambiente Natural -&nbsp;</span>AGAPAN<br />
 Coletivo Trexter - Trabalhadores(as) da Extens&atilde;o Rural da Emater/RS<br />
+Movimento dos Pequenos Agricultores - MPA<br />
+Movimento de Mulheres Camponesas - MMC<br />
+Federa&ccedil;&atilde;o dos Estudantes de Agronomia do Brasil -&nbsp;<span style="line-height: 20.8px;">FEAB&nbsp;</span><br />
+Comiss&atilde;o Pastoral da Terra - CPT<br />
+Pastoral da Juventude Rural - PJR<br />
+Associa&ccedil;&atilde;o Brasileira dos Estudantes de Engenharia Florestal -&nbsp;<span style="line-height: 20.8px;">ABEEF</span><br />
+Conselho Indigenista Mission&aacute;rio - CIMI<br />
+Pescadores e Pescadoras Artesanais<br />
 Central de Trabajadores de la Argentina (CTA) Aut&oacute;noma.<br />
 ETC - M&eacute;xico<br />
 Diret&oacute;rio Central dos Estudantes - UNIFOR<br />
@@ -119,6 +127,7 @@ Deputado Federal Odorico Monteiro (PT-CE)<br />
 Deputado Federal <span style="line-height: 20.8px;">Afonso Florence (</span>PT-BA)<br />
 Deputado Estadual Tadeu Veneri &nbsp;(PT-PR)<br />
 Deputada Estadual Luciane Carminatti (PT-SC)<br />
+Deputado Federal Dionilso Marcon (PT/RS)<br />
 Vereador Jo&atilde;o Alfredo<br />
 Vereador Jovanil<br />
 Vereador Ronivaldo Maia<br />
