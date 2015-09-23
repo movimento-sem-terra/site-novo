@@ -1,6 +1,6 @@
 ---
 layout: default
-scripts: ["special_news.js"]
+scripts: ["pagination/infinite-scroll.js", "pagination/all_news.js", "special_news.js"]
 external_scripts: ["//cdnjs.cloudflare.com/ajax/libs/masonry/3.3.0/masonry.pkgd.min.js","//cdnjs.cloudflare.com/ajax/libs/jquery-infinitescroll/2.0b2.120519/jquery.infinitescroll.min.js","//cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/3.1.8/imagesloaded.min.js", "//cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.3/moment-with-locales.min.js"]
 styles: ["special_news.css", "tabs.css"]
 ---
@@ -36,110 +36,115 @@ styles: ["special_news.css", "tabs.css"]
         - SP <br><a class="see-more" href="https://www.google.com.br/maps/place/Parque+da+%25C3%2581gua+Branca/@-23.530061,-46.6699305,17z/data=!3m1!4b1!4m2!3m1!1s0x94ce581d3c7750b1:0x2967be370a78fd7a?hl=pt" target="_blank">Ver no mapa</a></span>
       </div>
     </section>
-    <aside class="releated" role="complementary">
-      <h2>Informações</h2>
 
-      <section id="deputados">
-        <article>
-          <ul class="tabs">
-            <li>
-              <a href="#programacao">Programação</a>
-            </li>
-            <li>
-              <a href="#cardapios">Cardápio</a>
-            </li>
-            <li>
-              <a href="#seminarios">Seminários</a>
-            </li>
-          </ul>
-        </article>
-        <section id="programacao" class="filter">
+     <aside class="releated" role="complementary">
+       <h2>Informações</h2>
 
-          <article class="speaker-content">
-            <div class="speaker-image-content">
-              <span class="day-name" >Dia</span>
-              <span class="bold">23</span>
-              <span class="month">Outubro</span>
-            </div>
+       <section id="deputados">
+         <article>
+           <ul class="tabs">
+             <li>
+               <a href="#programacao">Programação</a>
+             </li>
+             <li>
+               <a href="#cardapios">Cardápio</a>
+             </li>
+             <li>
+               <a href="#seminarios">Seminários</a>
+             </li>
+           </ul>
+         </article>
+         <section id="programacao" class="filter">
 
-            <div class="speaker-description-content divisor">
-              <div class="day-container">
-                <h3 class="speaker-description-title">Título #1</h3>
-                <p><span class="speaker-description-date">9:00 - 10:00</span></p>
-                <p class="speaker-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus blanditiis saepe illo officiis, aperiam quis corporis modi porro consequuntur culpa ab harum magnam nostrum, dolore odio repudiandae nemo eum animi. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente eligendi dolorem beatae voluptates perspiciatis, quia quis, tempora cum quaerat molestias veniam nemo tenetur id odit earum fuga optio eos eveniet.</p>
-              </div>
-              <div class="day-container">
-                <h3 class="speaker-description-title">Título #2</h3>
-                <p><span class="speaker-description-date">10:00 - 11:00</span></p>
-                <p class="speaker-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iure, autem vitae. Commodi fugit inventore similique tempora eaque, placeat. Quos reiciendis distinctio odi  t vitae voluptates voluptatem hic repellendus obcaecati provident adipisci. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis aliquam, cupiditate. Minima officiis hic, dolorum eligendi, beatae esse veritatis enim, alias, architecto numquam quaerat rerum corporis cum excepturi doloribus pariatur!</p>
-              </div>
-              <div class="day-container">
-                <h3 class="speaker-description-title">Título #3</h3>
-                <p><span class="speaker-description-date">11:00 - 12:00</span></p>
-                <p class="speaker-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae ab, deleniti voluptates exercitationem itaque nihil quidem eos hic eum ex, quisquam voluptas molestias labore rerum alias dignissimos aliquam nostrum, aut? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium, voluptatum temporibus. Eveniet earum quas ut repudiandae accusamus odio sint deleniti sit, nostrum molestiae maxime dolorem tempora, quia in consequatur repellat?</p>
-              </div>
-            </div>
-          </article>
-        </section>
+           <article class="speaker-content">
+             <div class="speaker-image-content">
+               <span class="day-name" >Dia</span>
+               <span class="bold">23</span>
+               <span class="month">Outubro</span>
+             </div>
 
-        <section id="cardapios" class="filter">
-          <article class="speaker-content">
-            <div class="speaker-image-content">
-              <span class="day-name" >Dia</span>
-              <span class="bold">23</span>
-              <span class="month">Outubro</span>
-            </div>
+             <div class="speaker-description-content divisor">
+               <div class="day-container">
+                 <h3 class="speaker-description-title">Título #1</h3>
+                 <p><span class="speaker-description-date">9:00 - 10:00</span></p>
+                 <p class="speaker-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus blanditiis saepe illo officiis, aperiam quis corporis modi porro consequuntur culpa ab harum magnam nostrum, dolore odio repudiandae nemo eum animi. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente eligendi dolorem beatae voluptates perspiciatis, quia quis, tempora cum quaerat molestias veniam nemo tenetur id odit earum fuga optio eos eveniet.</p>
+               </div>
+               <div class="day-container">
+                 <h3 class="speaker-description-title">Título #2</h3>
+                 <p><span class="speaker-description-date">10:00 - 11:00</span></p>
+                 <p class="speaker-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iure, autem vitae. Commodi fugit inventore similique tempora eaque, placeat. Quos reiciendis distinctio odi  t vitae voluptates voluptatem hic repellendus obcaecati provident adipisci. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis aliquam, cupiditate. Minima officiis hic, dolorum eligendi, beatae esse veritatis enim, alias, architecto numquam quaerat rerum corporis cum excepturi doloribus pariatur!</p>
+               </div>
+               <div class="day-container">
+                 <h3 class="speaker-description-title">Título #3</h3>
+                 <p><span class="speaker-description-date">11:00 - 12:00</span></p>
+                 <p class="speaker-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae ab, deleniti voluptates exercitationem itaque nihil quidem eos hic eum ex, quisquam voluptas molestias labore rerum alias dignissimos aliquam nostrum, aut? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium, voluptatum temporibus. Eveniet earum quas ut repudiandae accusamus odio sint deleniti sit, nostrum molestiae maxime dolorem tempora, quia in consequatur repellat?</p>
+               </div>
+             </div>
+           </article>
+         </section>
 
-            <div class="speaker-description-content divisor">
-              <div class="day-container">
-                <h3 class="speaker-description-title">Título #1</h3>
-                <p><span class="speaker-description-date">9:00 - 10:00</span></p>
-                <p class="speaker-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus blanditiis saepe illo officiis, aperiam quis corporis modi porro consequuntur culpa ab harum magnam nostrum, dolore odio repudiandae nemo eum animi. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente eligendi dolorem beatae voluptates perspiciatis, quia quis, tempora cum quaerat molestias veniam nemo tenetur id odit earum fuga optio eos eveniet.</p>
-              </div>
-              <div class="day-container">
-                <h3 class="speaker-description-title">Título #2</h3>
-                <p><span class="speaker-description-date">10:00 - 11:00</span></p>
-                <p class="speaker-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iure, autem vitae. Commodi fugit inventore similique tempora eaque, placeat. Quos reiciendis distinctio odi  t vitae voluptates voluptatem hic repellendus obcaecati provident adipisci. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis aliquam, cupiditate. Minima officiis hic, dolorum eligendi, beatae esse veritatis enim, alias, architecto numquam quaerat rerum corporis cum excepturi doloribus pariatur!</p>
-              </div>
-              <div class="day-container">
-                <h3 class="speaker-description-title">Título #3</h3>
-                <p><span class="speaker-description-date">11:00 - 12:00</span></p>
-                <p class="speaker-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae ab, deleniti voluptates exercitationem itaque nihil quidem eos hic eum ex, quisquam voluptas molestias labore rerum alias dignissimos aliquam nostrum, aut? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium, voluptatum temporibus. Eveniet earum quas ut repudiandae accusamus odio sint deleniti sit, nostrum molestiae maxime dolorem tempora, quia in consequatur repellat?</p>
-              </div>
-            </div>
-          </article>
-        </section>
+         <section id="cardapios" class="filter">
+           <article class="speaker-content">
+             <div class="speaker-image-content">
+               <span class="day-name" >Dia</span>
+               <span class="bold">23</span>
+               <span class="month">Outubro</span>
+             </div>
 
-        <section id="seminarios" class="filter">
+             <div class="speaker-description-content divisor">
+               <div class="day-container">
+                 <h3 class="speaker-description-title">Título #1</h3>
+                 <p><span class="speaker-description-date">9:00 - 10:00</span></p>
+                 <p class="speaker-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus blanditiis saepe illo officiis, aperiam quis corporis modi porro consequuntur culpa ab harum magnam nostrum, dolore odio repudiandae nemo eum animi. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente eligendi dolorem beatae voluptates perspiciatis, quia quis, tempora cum quaerat molestias veniam nemo tenetur id odit earum fuga optio eos eveniet.</p>
+               </div>
+               <div class="day-container">
+                 <h3 class="speaker-description-title">Título #2</h3>
+                 <p><span class="speaker-description-date">10:00 - 11:00</span></p>
+                 <p class="speaker-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iure, autem vitae. Commodi fugit inventore similique tempora eaque, placeat. Quos reiciendis distinctio odi  t vitae voluptates voluptatem hic repellendus obcaecati provident adipisci. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis aliquam, cupiditate. Minima officiis hic, dolorum eligendi, beatae esse veritatis enim, alias, architecto numquam quaerat rerum corporis cum excepturi doloribus pariatur!</p>
+               </div>
+               <div class="day-container">
+                 <h3 class="speaker-description-title">Título #3</h3>
+                 <p><span class="speaker-description-date">11:00 - 12:00</span></p>
+                 <p class="speaker-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae ab, deleniti voluptates exercitationem itaque nihil quidem eos hic eum ex, quisquam voluptas molestias labore rerum alias dignissimos aliquam nostrum, aut? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium, voluptatum temporibus. Eveniet earum quas ut repudiandae accusamus odio sint deleniti sit, nostrum molestiae maxime dolorem tempora, quia in consequatur repellat?</p>
+               </div>
+             </div>
+           </article>
+         </section>
 
-          <article class="speaker-content">
-            <div class="speaker-image-content">
-              <span class="day-name" >Dia</span>
-              <span class="bold">23</span>
-              <span class="month">Outubro</span>
-            </div>
+         <section id="seminarios" class="filter">
 
-            <div class="speaker-description-content divisor">
-              <div class="day-container">
-                <h3 class="speaker-description-title">Título #1</h3>
-                <p><span class="speaker-description-date">9:00 - 10:00</span></p>
-                <p class="speaker-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus blanditiis saepe illo officiis, aperiam quis corporis modi porro consequuntur culpa ab harum magnam nostrum, dolore odio repudiandae nemo eum animi. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente eligendi dolorem beatae voluptates perspiciatis, quia quis, tempora cum quaerat molestias veniam nemo tenetur id odit earum fuga optio eos eveniet.</p>
-              </div>
-              <div class="day-container">
-                <h3 class="speaker-description-title">Título #2</h3>
-                <p><span class="speaker-description-date">10:00 - 11:00</span></p>
-                <p class="speaker-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iure, autem vitae. Commodi fugit inventore similique tempora eaque, placeat. Quos reiciendis distinctio odi  t vitae voluptates voluptatem hic repellendus obcaecati provident adipisci. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis aliquam, cupiditate. Minima officiis hic, dolorum eligendi, beatae esse veritatis enim, alias, architecto numquam quaerat rerum corporis cum excepturi doloribus pariatur!</p>
-              </div>
-              <div class="day-container">
-                <h3 class="speaker-description-title">Título #3</h3>
-                <p><span class="speaker-description-date">11:00 - 12:00</span></p>
-                <p class="speaker-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae ab, deleniti voluptates exercitationem itaque nihil quidem eos hic eum ex, quisquam voluptas molestias labore rerum alias dignissimos aliquam nostrum, aut? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium, voluptatum temporibus. Eveniet earum quas ut repudiandae accusamus odio sint deleniti sit, nostrum molestiae maxime dolorem tempora, quia in consequatur repellat?</p>
-              </div>
-            </div>
-          </article>
+           <article class="speaker-content">
+             <div class="speaker-image-content">
+               <span class="day-name" >Dia</span>
+               <span class="bold">23</span>
+               <span class="month">Outubro</span>
+             </div>
 
-        </section>
+             <div class="speaker-description-content divisor">
+               <div class="day-container">
+                 <h3 class="speaker-description-title">Título #1</h3>
+                 <p><span class="speaker-description-date">9:00 - 10:00</span></p>
+                 <p class="speaker-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus blanditiis saepe illo officiis, aperiam quis corporis modi porro consequuntur culpa ab harum magnam nostrum, dolore odio repudiandae nemo eum animi. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente eligendi dolorem beatae voluptates perspiciatis, quia quis, tempora cum quaerat molestias veniam nemo tenetur id odit earum fuga optio eos eveniet.</p>
+               </div>
+               <div class="day-container">
+                 <h3 class="speaker-description-title">Título #2</h3>
+                 <p><span class="speaker-description-date">10:00 - 11:00</span></p>
+                 <p class="speaker-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iure, autem vitae. Commodi fugit inventore similique tempora eaque, placeat. Quos reiciendis distinctio odi  t vitae voluptates voluptatem hic repellendus obcaecati provident adipisci. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis aliquam, cupiditate. Minima officiis hic, dolorum eligendi, beatae esse veritatis enim, alias, architecto numquam quaerat rerum corporis cum excepturi doloribus pariatur!</p>
+               </div>
+               <div class="day-container">
+                 <h3 class="speaker-description-title">Título #3</h3>
+                 <p><span class="speaker-description-date">11:00 - 12:00</span></p>
+                 <p class="speaker-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae ab, deleniti voluptates exercitationem itaque nihil quidem eos hic eum ex, quisquam voluptas molestias labore rerum alias dignissimos aliquam nostrum, aut? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium, voluptatum temporibus. Eveniet earum quas ut repudiandae accusamus odio sint deleniti sit, nostrum molestiae maxime dolorem tempora, quia in consequatur repellat?</p>
+               </div>
+             </div>
+           </article>
 
-      </section>
-    </aside>
+         </section>
+
+       </section>
+       
+       <h2>Continue lendo!</h2>
+       <section class="container">
+       </section>
+     </aside>
   </main>
