@@ -124,7 +124,7 @@ Os Sem Terra terminaram a marcha <a href="http://www.mst.org.br/2015/09/23/apos-
 <p><br />
 Durante a a&ccedil;&atilde;o, a pol&iacute;cia militar do Distrito Federal jogou spray de pimenta para impedir a entrada dos manifestantes no pr&eacute;dio, que tiveram que recuar para que n&atilde;o desencadeasse um conflito.&nbsp;</p>
 
-<figure class="image" style="float:right"><img alt="21039255973_63316b8092_z.jpg" height="226" src="http://farm1.staticflickr.com/573/21474409640_1f30b25187_b.jpg" width="340" />
+<figure class="image" style="float:right"><img alt="21039255973_63316b8092_z.jpg" height="199" src="http://farm1.staticflickr.com/573/21474409640_1f30b25187_b.jpg" width="300" />
 <figcaption>Foto: Luana Mara</figcaption>
 </figure>
 
