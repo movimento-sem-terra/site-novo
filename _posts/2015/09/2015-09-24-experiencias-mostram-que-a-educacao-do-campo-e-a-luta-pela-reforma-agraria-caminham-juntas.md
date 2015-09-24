@@ -28,6 +28,12 @@ files:
     small: "http://farm6.staticflickr.com/5827/21653040756_e495dee623_n.jpg"
     title: 21491503819_f991a191ec_z.jpg
     $$hashKey: 0J4
+  - link: "http://farm6.staticflickr.com/5661/21057723094_ab17898bbd_b.jpg"
+    thumbnail: "http://farm6.staticflickr.com/5661/21057723094_ab17898bbd_t.jpg"
+    medium: "http://farm6.staticflickr.com/5661/21057723094_ab17898bbd_z.jpg"
+    small: "http://farm6.staticflickr.com/5661/21057723094_ab17898bbd_n.jpg"
+    title: experiencias.jpg
+    $$hashKey: "194"
 created_date: "2015-09-24T11:36:44-03:00"
 published: true
 releated_posts:
@@ -38,8 +44,7 @@ releated_posts:
   - 2015/09/2015-09-15-a-educacao-tem-se-tornado-um-dos-servicos-mercantis-mais-lucrativos-afirma-professor-da-uerj.md
 
 ---
-<p><img alt="20985704024_9287250d79_z.jpg" src="http://farm6.staticflickr.com/5625/21492261569_821fb5e77c_b.jpg" /><br />
-&nbsp;</p>
+<p><img alt="experiencias.jpg" src="http://farm6.staticflickr.com/5661/21057723094_ab17898bbd_b.jpg" /></p>
 
 <p><em>Por Wesley Lima<br />
 Da P&aacute;gina do MST</em></p>
@@ -63,12 +68,14 @@ A atividade reuniu centenas de crian&ccedil;as com o objetivo de realizar uma a&
 <p><br />
 Para os educadores e educadoras do MST, a jornada foi fruto da materialidade que inclui o Sem Terrinha quanto sujeito na luta pela terra.</p>
 
-<p><br />
-Estruturando o processo de forma&ccedil;&atilde;o e mediando a aprendizagem proposta, o espa&ccedil;o construiu alguns eixos metodol&oacute;gicos. O primeiro deles traz como base a recrea&ccedil;&atilde;o, dando &ecirc;nfase ao resgate cultural e indenit&aacute;rio das crian&ccedil;as camponesas.<br />
-&nbsp;</p>
+<figure class="image"><img alt="20985704024_9287250d79_z.jpg" src="http://farm6.staticflickr.com/5625/21492261569_821fb5e77c_b.jpg" />
+<figcaption>Ciranda Infantil durante o 2&deg; Enera.</figcaption>
+</figure>
 
-<p><img alt="21491503819_f991a191ec_z.jpg" src="http://farm6.staticflickr.com/5827/21653040756_e495dee623_b.jpg" /><br />
-<br />
+<p><br />
+Estruturando o processo de forma&ccedil;&atilde;o e mediando a aprendizagem proposta, o espa&ccedil;o construiu alguns eixos metodol&oacute;gicos. O primeiro deles traz como base a recrea&ccedil;&atilde;o, dando &ecirc;nfase ao resgate cultural e indenit&aacute;rio das crian&ccedil;as camponesas.</p>
+
+<p><br />
 Em seguida, o estudo e o debate trouxeram elementos para se pensar o m&eacute;todo que o Estado conduz a educa&ccedil;&atilde;o brasileira nos territ&oacute;rios no Paran&aacute; e o Estatuto da Crian&ccedil;a e do Adolescente (ECA).</p>
 
 <p><br />
