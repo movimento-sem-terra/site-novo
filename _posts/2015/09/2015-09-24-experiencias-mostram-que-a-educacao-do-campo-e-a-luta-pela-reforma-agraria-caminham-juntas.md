@@ -51,7 +51,7 @@ Do norte ao sul do pa&iacute;s a educa&ccedil;&atilde;o do campo vem tomando pro
 Pensando nisto, o <a href="http://www.mst.org.br/2015/08/17/mais-de-1-200-participantes-debatem-a-educacao-publica-brasileira.html">2&ordm; Encontro Nacional de Educadores e Educadoras da Reforma Agr&aacute;ria (Enera)</a>, que teve in&iacute;cio nesta segunda-feira (21), em Luzi&acirc;nia (GO), est&aacute; sendo mais um espa&ccedil;o de troca de experi&ecirc;ncias vividas nas escolas do campo de todo pa&iacute;s.</p>
 
 <p><br />
-Este interc&acirc;mbio est&aacute; trazendo diversos elementos para se pensar a constru&ccedil;&atilde;o coletiva da luta contra o fechamento de escolas no campo e as pr&aacute;ticas pedag&oacute;gicas realizadas.</p>
+Este interc&acirc;mbio est&aacute; trazendo diversos elementos para se pensar a constru&ccedil;&atilde;o coletiva da luta contra o fechamento de escolas no campo e as pr&aacute;ticas pedag&oacute;gicas realizadas (<strong><a href="https://www.flickr.com/photos/mstoficial/" target="_blank">Clique aqui</a></strong> e confira mais fotos do 2&deg; Enera).</p>
 
 <p><br />
 <strong>Sem Terrinha em a&ccedil;&atilde;o</strong></p>
@@ -98,16 +98,16 @@ O projeto foi executado no extremo sul da Bahia e conseguiu alfabetizar 203 trab
 As atividades tiveram in&iacute;cio no dia 9 de janeiro de 2015, com aula inaugural que reuniu todas turmas de alfabetiza&ccedil;&atilde;o do projeto, e foi encerrado com uma festa de formatura no dia 9 de maio. Ao final, 98% dos estudantes aprenderam a ler e escrever.</p>
 
 <p><br />
-Dona Elza Silva, aos seus 83 anos, teve contato pela primeira vez com um papel e l&aacute;pis por meio do projeto. &ldquo;Agora que aprendi a ler e escrever continuarei lutando em defesa da terra e da educa&ccedil;&atilde;o para que outras pessoas possam estar aprendendo como eu&rdquo;, disse.<br />
-<br />
-<br />
-Leia mais:</p>
+Dona Elza Silva, aos seus 83 anos, teve contato pela primeira vez com um papel e l&aacute;pis por meio do projeto. &ldquo;Agora que aprendi a ler e escrever continuarei lutando em defesa da terra e da educa&ccedil;&atilde;o para que outras pessoas possam estar aprendendo como eu&rdquo;, disse.</p>
 
-<p><a href="http://www.mst.org.br/2015/09/23/em-brasilia-educadores-da-reforma-agraria-marcham-por-uma-educacao-publica-e-de-qualidade.html">Em Bras&iacute;lia, educadores da Reforma Agr&aacute;ria marcham por uma educa&ccedil;&atilde;o p&uacute;blica e de qualidade</a></p>
+<p><br />
+<strong>Leia mais:</strong></p>
 
-<p><a href="http://www.mst.org.br/2015/09/22/2o-enera-destaca-papel-das-escolas-do-campo-na-producao-de-alimentos-saudaveis.html">Educadores destacam papel das escolas do campo na produ&ccedil;&atilde;o de alimentos saud&aacute;veis</a></p>
+<p><strong><a href="http://www.mst.org.br/2015/09/23/em-brasilia-educadores-da-reforma-agraria-marcham-por-uma-educacao-publica-e-de-qualidade.html">Em Bras&iacute;lia, educadores da Reforma Agr&aacute;ria marcham por uma educa&ccedil;&atilde;o p&uacute;blica e de qualidade</a></strong></p>
 
-<p><a href="http://www.mst.org.br/2015/09/22/mercantilizacao-da-educacao-brasileira-e-alvo-de-critica-em-encontro-de-educadores.html">Mercantiliza&ccedil;&atilde;o da educa&ccedil;&atilde;o brasileira &eacute; alvo de cr&iacute;tica em encontro de educadores</a></p>
+<p><strong><a href="http://www.mst.org.br/2015/09/22/2o-enera-destaca-papel-das-escolas-do-campo-na-producao-de-alimentos-saudaveis.html">Educadores destacam papel das escolas do campo na produ&ccedil;&atilde;o de alimentos saud&aacute;veis</a></strong></p>
+
+<p><strong><a href="http://www.mst.org.br/2015/09/22/mercantilizacao-da-educacao-brasileira-e-alvo-de-critica-em-encontro-de-educadores.html">Mercantiliza&ccedil;&atilde;o da educa&ccedil;&atilde;o brasileira &eacute; alvo de cr&iacute;tica em encontro de educadores</a></strong></p>
 
 <p><br />
 &ldquo;Quando eu era jovem meu pai n&atilde;o me deixava estudar porque ele achava que eu ia para escola arrumar namorado. A minha &uacute;nica tarefa era cuidar da casa e dos meus irm&atilde;os&rdquo;, relembra.</p>
