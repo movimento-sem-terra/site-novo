@@ -110,6 +110,7 @@ Pescadores e Pescadoras Artesanais<br />
 Central de Trabajadores de la Argentina (CTA) Aut&oacute;noma.<br />
 ETC - M&eacute;xico<br />
 Diret&oacute;rio Central dos Estudantes - UNIFOR<br />
+<span style="line-height: 20.8px;">Chico Buarque de Hollanda</span><br />
 Paulo Assun&ccedil;&atilde;o - Vice Presidente do PT de Fortaleza<br />
 Deputado Federal Jos&eacute; Guimar&atilde;es<br />
 Deputado Estadual Elmano Freitas<br />
