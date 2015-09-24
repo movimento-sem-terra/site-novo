@@ -25,6 +25,7 @@ releated_posts:
   - 2015/09/2015-09-11-vale-processa-quem-se-manifesta-por-reparacao-e-emprego.md
   - 2014/12/2014-11-19-o-povo-quer-mudancas-e-os-movimentos-tem-propostas-basta-o-governo-ser-mais-humilde.md
   - 2015/03/2015-03-17-apos-ameaca-de-morte-stedile-recebe-cartas-de-apoio-e-solidariedade-de-vindas-de-todo-o-mundo.md
+section: featured-news
 
 ---
 <p><img alt="jp.jpg" src="http://farm1.staticflickr.com/725/21030317874_6bc45d51fc_b.jpg" /></p>
