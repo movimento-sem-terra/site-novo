@@ -38,7 +38,8 @@ section: cover
 ---
 <p><img alt="21474365989_fe2b0c9aea_z.jpg" src="http://farm6.staticflickr.com/5833/21498575438_e228fe25da_b.jpg" /></p>
 
-<p><em>Por Catiana de Medeiros<br />
+<p><br />
+<em>Por Catiana de Medeiros<br />
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
@@ -46,8 +47,6 @@ No quarto dia de debates do <a href="http://www.mst.org.br/2015/08/17/mais-de-1-
 
 <p><br />
 &ldquo;As escola de campo s&atilde;o laborat&oacute;rio destinados a recriar m&eacute;todos educativos de forma&ccedil;&atilde;o humana, e, quando fechadas, perdemos instrumentos de luta. Precisamos deter os processos mais duros de controle do capitalismo sobre essas institui&ccedil;&otilde;es e abrir espa&ccedil;os para avan&ccedil;ar em rela&ccedil;&atilde;o &agrave; escola do trabalho, que envolve, entre outros fatores, a participa&ccedil;&atilde;o direta das educandos no processo produtivo, em uma matriz unilateral de forma&ccedil;&atilde;o&rdquo;, explicou&nbsp;(<strong><a href="https://www.flickr.com/photos/mstoficial/" target="_blank">Clique aqui</a></strong> e confira mais fotos do 2&deg; Enera).</p>
-
-<p>&nbsp;</p>
 
 <p>&nbsp;</p>
 
@@ -70,8 +69,6 @@ Freitas destacou ainda, que os educandos devem estar organizados para enfrentar 
 <strong>Leia mais:</strong></p>
 
 <p><strong><a href="http://www.mst.org.br/2015/09/23/em-brasilia-educadores-da-reforma-agraria-marcham-por-uma-educacao-publica-e-de-qualidade.html">Em Bras&iacute;lia, educadores da Reforma Agr&aacute;ria marcham por uma educa&ccedil;&atilde;o p&uacute;blica e de qualidade</a></strong></p>
-
-<p>&nbsp;</p>
 
 <p><strong><a href="http://www.mst.org.br/2015/09/22/2o-enera-destaca-papel-das-escolas-do-campo-na-producao-de-alimentos-saudaveis.html">Educadores destacam papel das escolas do campo na produ&ccedil;&atilde;o de alimentos saud&aacute;veis</a></strong></p>
 
