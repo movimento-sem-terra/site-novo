@@ -97,7 +97,7 @@ Os Sem Terra tamb&eacute;m chamaram aten&ccedil;&atilde;o para os massacres dos 
 Atiliana Brunetto, dirigente assentada do MST e ind&iacute;gena, chamou aten&ccedil;&atilde;o para essas mortes e exigiu a acelera&ccedil;&atilde;o no processo de demarca&ccedil;&atilde;o dos territ&oacute;rios.</p>
 
 <p><br />
-&ldquo;O Estado brasileiro est&aacute; matando o nosso povo ind&iacute;gena. Todas as fam&iacute;lias ind&iacute;genas s&atilde;o desrespeitadas quando o governo resolve paralisar as demarca&ccedil;&otilde;es das terras. N&oacute;s, educadores, lutamos por vida, terra e tamb&eacute;m pelos povos ind&iacute;genas. A quest&atilde;o ind&iacute;gena n&atilde;o &eacute; apenas mais um caso da pol&iacute;tica ou jur&iacute;dico, ela &eacute; um caso de vidas humanas. Isso fez com que n&oacute;s, popula&ccedil;&atilde;o ind&iacute;gena, fossemos para fora do pa&iacute;s pedir prote&ccedil;&atilde;o&quot;, salienta.</p>
+&ldquo;O Estado brasileiro est&aacute; matando o nosso povo ind&iacute;gena. Todas as fam&iacute;lias ind&iacute;genas s&atilde;o desrespeitadas quando o governo resolve paralisar as demarca&ccedil;&otilde;es das terras. N&oacute;s, educadores, lutamos por vida, terra e tamb&eacute;m pelos povos ind&iacute;genas. A quest&atilde;o ind&iacute;gena n&atilde;o &eacute; s&oacute;&nbsp;um caso da pol&iacute;tica ou jur&iacute;dico, &eacute; tamb&eacute;m&nbsp;de vidas humanas. Isso fez com que n&oacute;s, popula&ccedil;&atilde;o ind&iacute;gena, fossemos para fora do pa&iacute;s pedir prote&ccedil;&atilde;o&quot;, salienta.</p>
 
 <p>&nbsp;</p>
 
