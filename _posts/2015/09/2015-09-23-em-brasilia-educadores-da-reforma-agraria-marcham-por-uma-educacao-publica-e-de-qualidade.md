@@ -6,9 +6,10 @@ tags:
   - tag: violência-no-campo
   - tag: território-indigena
   - tag: educação
+  - tag: enera
 title: "Em Brasília, educadores da Reforma Agrária marcham por uma educação pública e de qualidade"
 menu: lutas e mobilizações
-section: cover
+section: featured-news
 sector: education
 support_line: O ato iniciou com uma intervenção em frente ao Ministério da Educação (MEC) para denunciar o fechamento das escolas do campo e a mercantilização da educação pública no país.
 images_hd: "http://farm6.staticflickr.com/5707/21475510809_0febd20e6a_b.jpg"
@@ -53,9 +54,11 @@ files:
 created_date: "2015-09-23T19:21:28-03:00"
 published: true
 releated_posts:
+  - 2015/09/2015-09-23-apos-marcha-educadores-ocupam-ministerio-da-agricultura-em-brasilia.md
   - 2015/09/2015-09-21-abertura-2-enenra-construimos-a-ideia-de-que-a-libertacao-depende-do-povo-controlar-em-primeiro-lugar-o-conhecimento.md
-  - 2015/08/2015-08-10-al-rs-debate-agrotoxicos-nao-e-justo-propagar-o-cancer-em-nome-do-lucro-de-meia-duzia.md
-  - 2015/07/2015-07-10-deixem-os-indigenas-guarani-kayowa-viverem.md
+  - 2015/09/2015-09-21-mostra-cultural-expoe-produtos-da-reforma-agraria-durante-2-enera.md
+  - 2015/09/2015-09-22-mercantilizacao-da-educacao-brasileira-e-alvo-de-critica-em-encontro-de-educadores.md
+  - 2015/09/2015-09-22-2o-enera-destaca-papel-das-escolas-do-campo-na-producao-de-alimentos-saudaveis.md
 
 ---
 <figure class="image"><img alt="21472228668_770e710f26_z.jpg" src="http://farm1.staticflickr.com/711/21474361690_4f6470ffc2_b.jpg" />
