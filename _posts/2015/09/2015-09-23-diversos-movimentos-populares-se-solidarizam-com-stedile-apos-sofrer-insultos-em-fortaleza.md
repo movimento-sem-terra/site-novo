@@ -117,6 +117,7 @@ Deputado Estadual Elmano Freitas<br />
 Deputado Estadual Mois&eacute;s Br&aacute;z<br />
 Deputada Estadual Rachel Marques<br />
 Deputado Estadual Renato Roseno<br />
+Deputado Estadual Edegar Pretto (PT-RS)<br />
 <span style="line-height: 20.8px;">Deputada Federal Luizianne Lins (PT-CE)</span><br style="line-height: 20.8px;" />
 <span style="line-height: 20.8px;">Deputada Federal Ana Perugini (PT-SP)</span><br style="line-height: 20.8px;" />
 <span style="line-height: 20.8px;">Deputado Federal&nbsp;</span><span style="line-height: 20.8px;">Wadih Damous&nbsp;</span><span style="line-height: 20.8px;">(PT-RJ)</span><br style="line-height: 20.8px;" />
