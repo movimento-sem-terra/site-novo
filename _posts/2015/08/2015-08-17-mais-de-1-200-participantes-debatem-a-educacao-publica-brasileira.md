@@ -53,21 +53,19 @@ Abaixo, confira diversas entrevistas, artigos e reportagens que trazem o debate 
 <p><br />
 <strong>Mat&eacute;rias do Enera:</strong></p>
 
-<p><strong><a href="http://www.mst.org.br/2015/09/23/apos-marcha-educadores-ocupam-ministerio-da-agricultura-em-brasilia.html">Ap&oacute;s marcha, educadores ocupam Minist&eacute;rio da Agricultura em Bras&iacute;lia</a></strong></p>
+<p><strong><a href="http://www.mst.org.br/2015/09/23/em-brasilia-educadores-da-reforma-agraria-marcham-por-uma-educacao-publica-e-de-qualidade.html">Em Bras&iacute;lia, educadores da Reforma Agr&aacute;ria marcham por uma educa&ccedil;&atilde;o p&uacute;blica e de qualidade</a></strong></p>
+
+<p>&nbsp;</p>
+
+<p><strong><a href="http://www.mst.org.br/2015/09/24/2o-enera-mostra-que-temos-condicoes-de-reconstruir-os-processos-educativos-diz-educador.html" target="_blank">&ldquo;2&ordm; Enera mostra que temos condi&ccedil;&otilde;es de reconstruir os processos educativos&rdquo;, diz educador</a></strong></p>
 
 <p>&nbsp;</p>
 
 <p><strong><a href="http://www.mst.org.br/2015/09/23/educadores-da-reforma-agraria-ocupam-a-esplanada-dos-ministerios.html">Educadores da Reforma Agr&aacute;ria ocupam a Esplanada dos Minist&eacute;rios</a></strong></p>
 
-<p>&nbsp;</p>
-
 <p><strong><a href="http://www.mst.org.br/2015/09/22/2o-enera-destaca-papel-das-escolas-do-campo-na-producao-de-alimentos-saudaveis.html">Educadores destacam papel das escolas do campo na produ&ccedil;&atilde;o de alimentos saud&aacute;veis</a></strong></p>
 
-<p>&nbsp;</p>
-
 <p><a href="http://www.mst.org.br/2015/09/22/mercantilizacao-da-educacao-brasileira-e-alvo-de-critica-em-encontro-de-educadores.html"><strong>Mercantiliza&ccedil;&atilde;o da educa&ccedil;&atilde;o brasileira &eacute; alvo de cr&iacute;tica em encontro de educadores</strong></a></p>
-
-<p>&nbsp;</p>
 
 <p><strong><a href="http://www.mst.org.br/2015/09/21/abertura-2-enenra-construimos-a-ideia-de-que-a-libertacao-depende-do-povo-controlar-em-primeiro-lugar-o-conhecimento.html">2&deg; Enera re&uacute;ne mais de 1500 educadoras e educadores do campo em Goi&aacute;s</a></strong></p>
 
