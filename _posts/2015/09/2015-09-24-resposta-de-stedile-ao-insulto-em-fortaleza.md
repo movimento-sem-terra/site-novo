@@ -2,7 +2,7 @@
 date: "2015-09-24T10:47:21-03:00"
 tags:
   - tag: stedile
-title: "Resposta de Stedile ao insulto em Fortaleza "
+title: "Movimentos, organizações e personalidades se solidarizam com MST e Stedile"
 support_line: "\"A burguesia tem raiva de pobre, de preto porque ela ainda não saiu da casa grande. Ela não consegue conviver com a senzala\", disse Stedile."
 menu: projeto popular
 images_hd: "http://farm6.staticflickr.com/5775/21490832368_a5117e56bd_b.jpg"
@@ -43,7 +43,7 @@ Confira:</p>
 <iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/1ZN1q43J3Tw" width="640"></iframe></p>
 
 <p><br />
-Abaixo, veja as in&uacute;meras mensagens de solidariedade que Stedile recebeu ap&oacute;s o epis&oacute;dio, dentre elas, o ex-ministro das comunica&ccedil;&otilde;es, Franklin Martins, Anita Prestes, Frei Beto, o cantor uruguaio Daniel Viglieti, o economista M&aacute;rcio Pachmann e dezenas de organiza&ccedil;&otilde;es de todo o mundo. De prontid&atilde;o, pedimos desculpa caso tenhamos esquecido de mencionar alguma declara&ccedil;&atilde;o.</p>
+Abaixo, veja as in&uacute;meras mensagens de solidariedade que Stedile recebeu ap&oacute;s o epis&oacute;dio, dentre elas, o ex-ministro das comunica&ccedil;&otilde;es, Franklin Martins, Anita Prestes, Marco Aur&eacute;lio Garcia,&nbsp;Frei Beto,&nbsp;Samuel Pinheiro Guimar&atilde;es,&nbsp;o cantor uruguaio Daniel Viglieti, o economista M&aacute;rcio Pachmann e dezenas de organiza&ccedil;&otilde;es de todo o mundo. De prontid&atilde;o, pedimos desculpa caso tenhamos esquecido de mencionar alguma declara&ccedil;&atilde;o.</p>
 
 <p><br />
 Confira:</p>
@@ -118,26 +118,51 @@ Meu abra&ccedil;o e minha solidariedade diante da agress&atilde;o em Fortaleza. 
 Abra&ccedil;o<br />
 Franklin Martins</p>
 
-<p>--------------------------</p>
+<p><br />
+Prezado Jo&atilde;o Pedro,</p>
+
+<p>&Eacute; uma simples palavra de solidariedade pela agress&atilde;o covarde que voc&ecirc; sofreu ontem.</p>
+
+<p>A luta continua e ser&aacute; longa.</p>
+
+<p>Um abra&ccedil;o do</p>
+
+<p>Marco Aur&eacute;lio Garcia</p>
+
+<p>&nbsp;</p>
+
+<p>Caro Jo&atilde;o Pedro,</p>
+
+<p>Soube da agress&atilde;o que Voc&ecirc; e a Professora Adelaide Pereira sofreram.</p>
+
+<p>Receba toda a minha solidariedade e a certeza da minha amizade e admira&ccedil;&atilde;o permanente pelo teu trabalho em prol do Brasil.</p>
+
+<p>Afetuoso abra&ccedil;o</p>
+
+<p>Samuel Pinheiro Guimar&atilde;es</p>
+
+<p>&nbsp;</p>
+
+<p>-----</p>
 
 <p><strong>O Sr. Lindbergh Farias</strong> (Bloco Apoio Governo/PT - RJ) &ndash; Eu s&oacute; queria, Senador Humberto Costa, associar-me a V. Ex&ordf; quando V. Ex&ordf; prestou solidariedade a Jo&atilde;o Pedro St&eacute;dile. Eu acho que &eacute; preciso aqui responsabilidade, inclusive porque esse epis&oacute;dio do Cear&aacute; n&atilde;o &eacute; um epis&oacute;dio qualquer. Quem esteve &agrave; frente, organizando e divulgando nas redes, tem nome, chama-se Paulo Angelim e &eacute; filiado ao PSDB. Ent&atilde;o, eu chamo aqui responsabilidade desses partidos por esse clima de intoler&acirc;ncia que cresce no Pa&iacute;s. &Eacute; preciso responsabilidade nossa, mas tamb&eacute;m dos partidos de oposi&ccedil;&atilde;o. E eu quero aqui parabenizar V. Ex&ordf; pelo pronunciamento e tamb&eacute;m manifestar solidariedade ao companheiro Jo&atilde;o Pedro St&eacute;dile.</p>
 
-<p>--------------------------</p>
+<p>-----</p>
 
 <p><strong>O Sr. Roberto Requi&atilde;o</strong> (Bloco Maioria/PMDB - PR) &ndash; Senador Humberto, na mesma linha, a nossa solidariedade, a solidariedade do PMDB do Paran&aacute;. N&oacute;s temos que ser tolerantes com os conflitos e as crises sociais, mas a toler&acirc;ncia s&oacute; n&atilde;o pode suportar a intoler&acirc;ncia. Isso tem que ter um fim. A mais absoluta e completa solidariedade ao amigo e companheiro Pedro St&eacute;dile.</p>
 
-<p>--------------------------</p>
+<p>-----</p>
 
 <p><strong>A Sr&ordf; F&aacute;tima Bezerra</strong> (Bloco Apoio Governo/PT - RN) &ndash; Senador Humberto, tamb&eacute;m na mesma linha aqui do Senador Requi&atilde;o e do Senador Lindbergh, quero trazer aqui a nossa manifesta&ccedil;&atilde;o de solidariedade. S&atilde;o conden&aacute;veis os atos de intoler&acirc;ncia praticados ontem, na cidade de Fortaleza, com rela&ccedil;&atilde;o a Jo&atilde;o Pedro St&eacute;dile, que merece, sem d&uacute;vida nenhuma, todo o nosso respeito pela sua hist&oacute;ria, pela sua biografia, pelo brasileiro que &eacute;, pelo quanto ele lutou e continua lutando em prol da cidadania do campo e da cidadania da cidade, em prol da cidadania do povo brasileiro, em defesa da democracia. Ficam aqui o meu abra&ccedil;o e o de todos que fazem o Partido dos Trabalhadores no Rio Grande do Norte.</p>
 
 <p><br />
 <strong>O Sr. Antonio Carlos Valadares</strong> (Bloco Socialismo e Democracia/PSB - SE) &ndash; Senador Humberto, eu quero me somar &agrave;s manifesta&ccedil;&otilde;es de solidariedade ao grande l&iacute;der ruralista a favor dos trabalhadores do campo St&eacute;dile, que n&atilde;o merece, de maneira nenhuma, ser desfeiteado publicamente. Acho que essas atitudes n&atilde;o condizem com a plenitude do nosso regime democr&aacute;tico. Acho que a toler&acirc;ncia est&aacute; acima de tudo, e a unidade do nosso Pa&iacute;s se fortalece cada vez mais quando n&oacute;s respeitamos as diverg&ecirc;ncias. Se um cidad&atilde;o tem um pensamento diferente do meu, eu o respeito na medida em que a defesa dos seus pontos de vista seja feita de forma aberta, transparente e sem uso de qualquer subterf&uacute;gio. Portanto, V. Ex&ordf; tem toda a raz&atilde;o quando ocupa a tribuna para, no atendimento ao pensamento democr&aacute;tico vivenciado por V. Ex&ordf;, pedir respeito a essa lideran&ccedil;a do nosso campo brasileiro.</p>
 
-<p>--------------------------</p>
+<p>-----</p>
 
 <p><strong>O Sr. Paulo Paim</strong> (Bloco Apoio Governo/PT - RS) &ndash; Senador Humberto Costa, de forma muito r&aacute;pida, cumprimento V. Ex&ordf; por trazer este tema &agrave; tribuna. Eu recebi aqui no celular uma grava&ccedil;&atilde;o que mostra a agress&atilde;o ao Jo&atilde;o Pedro St&eacute;dile e a sua esposa, que, inclusive, estava &ndash; eu diria &ndash; apavorada, assustada com aquilo que estava acontecendo naquele momento. Ficam aqui o meu total apoio e a solidariedade, na certeza de que Jo&atilde;o Pedro St&eacute;dile &eacute; um intelectual, um pensador que expressa o seu ponto de vista, claro, sempre do lado dos sem-teto, dos sem-terra, dos mais pobres, daqueles que mais precisam. Quem pensa diferente que pense; agora, agress&atilde;o, n&atilde;o. Intoler&acirc;ncia, n&atilde;o podemos admitir de jeito nenhum. Cumprimentos a V. Ex&ordf; por trazer esse assunto &agrave; tribuna do Senado.</p>
 
-<p>--------------------------</p>
+<p>-----</p>
 
 <p><strong>O Sr. Jos&eacute; Pimentel</strong> (Bloco Apoio Governo/PT - CE) &ndash; Senador Humberto Costa, eu quero primeiro registrar que o seu pronunciamento &eacute; muito oportuno, num momento em que, no Brasil e no mundo, assistimos a uma escalada de &oacute;dio e de persegui&ccedil;&atilde;o aos mais pobres, quando se v&ecirc; o Primeiro Mundo, como &eacute; conhecido o continente europeu, impedindo o livre tr&acirc;nsito de pessoas que s&atilde;o v&iacute;timas de guerras patrocinadas por aqueles que vendem armas, que s&atilde;o os pa&iacute;ses mais ricos e, ao mesmo tempo, que n&atilde;o aceitam receber essa popula&ccedil;&atilde;o que ontem era col&ocirc;nia desses mesmos paises europeus que hoje os rejeitam; quando se assiste a uma senhora jornalista agredir um senhor j&aacute; idoso com uma crian&ccedil;a nos bra&ccedil;os simplesmente por ele n&atilde;o ser do continente europeu. Essas coisas tamb&eacute;m est&atilde;o presentes aqui no Brasil, em que assistimos a um conjunto de atos. Ontem mesmo, durante a sess&atilde;o do Congresso Nacional, n&oacute;s assist&iacute;amos a alguns &ldquo;convidados&rdquo; &ndash; entre aspas &ndash; agredindo diretamente aqueles que pensam diferentemente ou que t&ecirc;m a coragem de registrar que determinados procedimentos da chamada pauta-bomba n&atilde;o cabem no Or&ccedil;amento da Uni&atilde;o e n&atilde;o cabem nas obriga&ccedil;&otilde;es do Estado nacional. Esse evento com Jo&atilde;o Pedro St&eacute;dile &eacute; parte desse processo. Ele representa a agricultura familiar, ele representa aqueles que lutam para ter um peda&ccedil;o de terra para dali tirar o alimento da sua fam&iacute;lia e nos alimentar na cidade, porque, na cidade, n&oacute;s podemos n&atilde;o ter um carro para passear, podemos n&atilde;o ter uma bicicleta para andar, mas, se na panela n&atilde;o houver o arroz, o feij&atilde;o, a farinha de mandioca, n&atilde;o sobrevivemos. E &eacute; isso o que o Jo&atilde;o Pedro St&eacute;dile representa. Por isso, eu quero aqui me solidarizar com o Jo&atilde;o Pedro St&eacute;dile e dizer que a cultura do Cear&aacute; n&atilde;o &eacute; essa. &Eacute; uma meia d&uacute;zia de pessoas conhecidas, que, ontem, eram a base da ditadura militar &ndash; eu conhe&ccedil;o grande parte deles &ndash; ou filhotes e herdeiros daqueles da ditadura militar, que assim age, mas o povo cearense &eacute; um povo ordeiro, trabalhador, acolhedor como s&atilde;o a Regi&atilde;o Nordeste e o povo brasileiro. Volto a registrar: n&oacute;s precisamos, nosso L&iacute;der Humberto Costa, trazer isso para a agenda pol&iacute;tica para que, no dia de amanh&atilde;, n&atilde;o haja atos de intoler&acirc;ncia, que fazem parte da hist&oacute;ria brasileira. Os per&iacute;odos democr&aacute;ticos do Estado democr&aacute;tico de direito do Brasil, como voc&ecirc; acompanha de perto, s&atilde;o poucos e curt&iacute;ssimos: nesses 515 anos, de 1946 a 1964 e de 1988 para c&aacute;. Portanto, a cultura do Estado brasileiro &eacute; a cultura autorit&aacute;ria, ditatorial. N&oacute;s outros procuramos construir uma nova Na&ccedil;&atilde;o que possa conviver com as diferen&ccedil;as. E o seu pronunciamento, o seu mandato e a sua vida s&atilde;o voltados para isso. Portanto, parab&eacute;ns pelo pronunciamento.</p>
 
