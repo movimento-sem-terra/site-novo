@@ -4,7 +4,7 @@ tags:
   - tag: enera
   - tag: educação
   - tag: reforma-agrária
-title: "\"A classe trabalhadora deve enfrentar o direcionamento do capital na educação brasileira\""
+title: "A classe trabalhadora deve enfrentar o avanço do capital na educação, afirma dirigente do MST"
 menu: "educação, cultura e comunicação"
 support_line: "Rubneuza Leandro de Souza, do setor de educação do MST, avalia a contribuição do 2° Enera para a organização do MST, ao relacionar o encontro com a atual conjuntura da educação pública brasileira."
 sector: education
