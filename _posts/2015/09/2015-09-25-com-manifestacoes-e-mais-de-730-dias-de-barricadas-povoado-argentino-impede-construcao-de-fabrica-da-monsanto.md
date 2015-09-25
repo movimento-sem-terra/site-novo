@@ -4,7 +4,7 @@ tags:
   - tag: agronegócio
   - tag: monsanto
   - tag: lutas-e-mobilizações
-title: "Com manifestações e mais de 730 dias de barricadas, povoado argentino impede construção de fábrica da Monsanto"
+title: "Depois de mais de 730 dias de barricadas, povo argentino derrota nova fábrica da Monsanto"
 support_line: "“Chamam de progresso, mas os lucros são privados e nos territórios ficam a doença e a devastação”, diz um dos moradores; “Já nos deram golpes e balas de borracha. Não me importo. Vou deixar a vida pelos meus filhos”, afirma outro."
 images_hd: "http://farm6.staticflickr.com/5815/21693276142_a126738d0c_b.jpg"
 menu: lutas e mobilizações
