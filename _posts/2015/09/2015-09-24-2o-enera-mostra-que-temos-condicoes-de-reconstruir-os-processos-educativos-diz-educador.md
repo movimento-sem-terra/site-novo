@@ -33,6 +33,7 @@ releated_posts:
   - 2015/09/2015-09-21-abertura-2-enenra-construimos-a-ideia-de-que-a-libertacao-depende-do-povo-controlar-em-primeiro-lugar-o-conhecimento.md
   - 2015/09/2015-09-21-mostra-cultural-expoe-produtos-da-reforma-agraria-durante-2-enera.md
   - 2015/09/2015-09-22-mercantilizacao-da-educacao-brasileira-e-alvo-de-critica-em-encontro-de-educadores.md
+section: cover
 
 ---
 <p><img alt="21474365989_fe2b0c9aea_z.jpg" src="http://farm6.staticflickr.com/5833/21498575438_e228fe25da_b.jpg" /></p>
@@ -44,7 +45,9 @@ Da P&aacute;gina do MST</em></p>
 No quarto dia de debates do <a href="http://www.mst.org.br/2015/08/17/mais-de-1-200-participantes-debatem-a-educacao-publica-brasileira.html">2&ordm; Encontro Nacional dos Educadores e Educadoras da Reforma Agr&aacute;ria (Enera)</a>, realizado nesta quinta-feira (24), em Luzi&acirc;nia (GO), o educador Luiz Carlos Freitas, da Universidade Estadual de Campinas (Unicamp), defendeu a continuidade da luta contra o fechamento das escolas do campo e a necessidade de construir uma educa&ccedil;&atilde;o emancipadora e socialista, baseada na pedagogia da escola do trabalho.</p>
 
 <p><br />
-&ldquo;As escola de campo s&atilde;o laborat&oacute;rio destinados a recriar m&eacute;todos educativos de forma&ccedil;&atilde;o humana, e, quando fechadas, perdemos instrumentos de luta. Precisamos deter os processos mais duros de controle do capitalismo sobre essas institui&ccedil;&otilde;es e abrir espa&ccedil;os para avan&ccedil;ar em rela&ccedil;&atilde;o &agrave; escola do trabalho, que envolve, entre outros fatores, a participa&ccedil;&atilde;o direta das educandos no processo produtivo, em uma matriz unilateral de forma&ccedil;&atilde;o&rdquo;, explicou.</p>
+&ldquo;As escola de campo s&atilde;o laborat&oacute;rio destinados a recriar m&eacute;todos educativos de forma&ccedil;&atilde;o humana, e, quando fechadas, perdemos instrumentos de luta. Precisamos deter os processos mais duros de controle do capitalismo sobre essas institui&ccedil;&otilde;es e abrir espa&ccedil;os para avan&ccedil;ar em rela&ccedil;&atilde;o &agrave; escola do trabalho, que envolve, entre outros fatores, a participa&ccedil;&atilde;o direta das educandos no processo produtivo, em uma matriz unilateral de forma&ccedil;&atilde;o&rdquo;, explicou&nbsp;(<strong><a href="https://www.flickr.com/photos/mstoficial/" target="_blank">Clique aqui</a></strong> e confira mais fotos do 2&deg; Enera).</p>
+
+<p>&nbsp;</p>
 
 <p>&nbsp;</p>
 
@@ -63,4 +66,13 @@ Freitas destacou ainda, que os educandos devem estar organizados para enfrentar 
 <p><br />
 &ldquo;Eles precisam se desenvolver e se emancipar porque no nosso modelo de sociedade o trabalhador &eacute; o dono da produ&ccedil;&atilde;o, mas ele tem que se auto-organizar para conduzi-lo. Nesse sentido, o Enera mostra que temos condi&ccedil;&otilde;es de reconstruir os processos educativos, caminhando para a escola do trabalho, negando o fechamento das escolas e n&atilde;o entregando a educa&ccedil;&atilde;o p&uacute;blica ao capital&rdquo;, concluiu.</p>
 
-<p class="p1">&nbsp;</p>
+<p><br />
+<strong>Leia mais:</strong></p>
+
+<p><strong><a href="http://www.mst.org.br/2015/09/23/em-brasilia-educadores-da-reforma-agraria-marcham-por-uma-educacao-publica-e-de-qualidade.html">Em Bras&iacute;lia, educadores da Reforma Agr&aacute;ria marcham por uma educa&ccedil;&atilde;o p&uacute;blica e de qualidade</a></strong></p>
+
+<p>&nbsp;</p>
+
+<p><strong><a href="http://www.mst.org.br/2015/09/22/2o-enera-destaca-papel-das-escolas-do-campo-na-producao-de-alimentos-saudaveis.html">Educadores destacam papel das escolas do campo na produ&ccedil;&atilde;o de alimentos saud&aacute;veis</a></strong></p>
+
+<p><strong><a href="http://www.mst.org.br/2015/09/22/mercantilizacao-da-educacao-brasileira-e-alvo-de-critica-em-encontro-de-educadores.html">Mercantiliza&ccedil;&atilde;o da educa&ccedil;&atilde;o brasileira &eacute; alvo de cr&iacute;tica em encontro de educadores</a></strong></p>
