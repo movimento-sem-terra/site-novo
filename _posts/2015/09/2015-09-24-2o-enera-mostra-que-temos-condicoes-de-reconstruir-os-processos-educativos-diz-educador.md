@@ -33,7 +33,7 @@ releated_posts:
   - 2015/09/2015-09-21-abertura-2-enenra-construimos-a-ideia-de-que-a-libertacao-depende-do-povo-controlar-em-primeiro-lugar-o-conhecimento.md
   - 2015/09/2015-09-21-mostra-cultural-expoe-produtos-da-reforma-agraria-durante-2-enera.md
   - 2015/09/2015-09-22-mercantilizacao-da-educacao-brasileira-e-alvo-de-critica-em-encontro-de-educadores.md
-section: cover
+section: null
 
 ---
 <p><img alt="21474365989_fe2b0c9aea_z.jpg" src="http://farm6.staticflickr.com/5833/21498575438_e228fe25da_b.jpg" /></p>
