@@ -7,7 +7,7 @@ tags:
   - tag: petrobrás
   - tag: democracia
   - tag: ajuste-fiscal
-title: Movimentos realizam Dia Nacional de Luta no próximo sábado
+title: "No próximo sábado, movimentos saem às ruas em Dia Nacional de Luta"
 menu: lutas e mobilizações
 section: cover
 support_line: "A mobilização acontece em diversas regiões do Brasil, quando milhares saem às ruas em defesa da Petrobras, da democracia e contra o ajuste fiscal."
