@@ -6,7 +6,7 @@ tags:
   - tag: despejo
   - tag: produção-de-alimentos
 images_hd: "http://farm1.staticflickr.com/739/21796499621_deac64f49e_b.jpg"
-title: "Em protesto, Sem Terra fecham BR e distribuem alimentos na PB"
+title: "Contra despejos, Sem Terra fecham BR e distribuem alimentos na Paraíba"
 support_line: "Foram distribuídos frutas, verduras e legumes à população local. "
 menu: lutas e mobilizações
 layout: post
@@ -37,24 +37,22 @@ releated_posts:
 <p><em>Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
-Cerca de 500 Sem Terra fecharam na manha desta segunda-feira (28), a BR 101 na altura de &nbsp;Caapor&atilde;, no litoral sul da Para&iacute;ba.&nbsp;</p>
+Cerca de 500 Sem Terra fecharam, na manha desta segunda-feira (28), a BR 101, na altura de&nbsp;Caapor&atilde;, no litoral sul da Para&iacute;ba.&nbsp;</p>
 
 <p><br />
-Os trabalhadores distribuem alimentos aos passantes como forma de protesto contra a&ccedil;&otilde;es de despejo de acampamentos da regi&atilde;o.&nbsp;</p>
+A a&ccedil;&atilde;o serviu para denunciar as <span style="line-height: 20.8px;">a&ccedil;&otilde;es de despejo contra acampamentos da regi&atilde;o. Na ocasi&atilde;o, os Sem Terra tamb&eacute;m </span>distribu&iacute;ram alimentos aos passantes.&nbsp;</p>
 
 <p><br />
-Paulo S&eacute;rgio Alves da dire&ccedil;&atilde;o do MS-PB explica que a que s&oacute; essa semana est&atilde;o marcados quatro a&ccedil;&otilde;es de reintegra&ccedil;&atilde;o no estado.&nbsp;</p>
+Paulo S&eacute;rgio Alves, da dire&ccedil;&atilde;o estadual do MST, explica que s&oacute; essa semana est&atilde;o marcados quatro a&ccedil;&otilde;es de reintegra&ccedil;&atilde;o de posse no estado.&nbsp;</p>
 
 <p><br />
-&ldquo;At&eacute; sexta-feira quatro dos nossos acampamentos correm o risco de ser desapropriados. Um deles &eacute; o acampamento Ouro Verde que est&aacute; ocupado h&aacute; mais de 13 anos por fam&iacute;lias Sem Terra.</p>
+&ldquo;At&eacute; sexta-feira quatro dos nossos acampamentos correm o risco de serem desapropriados. Um deles &eacute; o acampamento Ouro Verde, que est&aacute; ocupado h&aacute; mais de 13 anos por fam&iacute;lias Sem Terra&quot;, afirma.</p>
 
 <p><br />
-Ao longo desses anos, os Sem Terra iniciaram uma vasta produ&ccedil;&atilde;o alimentos na &aacute;rea, considerado um dos mais produtivos da regi&atilde;o.&nbsp;</p>
+Ao longo destes anos, as fam&iacute;lias do&nbsp;Acampamento Ouro Verde, um dos que est&atilde;o amea&ccedil;ados de despejo, iniciaram uma vasta produ&ccedil;&atilde;o alimentos na &aacute;rea, considerado um dos mais produtivos da regi&atilde;o.&nbsp;</p>
 
 <p><br />
-&ldquo;S&atilde;o 75 hectares de terra plantada, totalizando mais de 6,6 toneladas de alimentos entre frutas, legumes e verduras. O nosso governo precisa entender que caso essas reintegra&ccedil;&otilde;es aconte&ccedil;am s&atilde;o mais de 600 fam&iacute;lias que ser&atilde;o jogadas na rua. O nosso protesto aqui &eacute; para mostrar que as terras antes improdutivas agora al&eacute;m de tirar fam&iacute;lias inteiras das ruas s&atilde;o produtivas&rdquo;, afirma Alves.&nbsp;</p>
+&ldquo;S&atilde;o 75 hectares de terra plantada, totalizando mais de 6,6 toneladas de alimentos entre frutas, legumes e verduras. O nosso governo precisa entender que caso essas reintegra&ccedil;&otilde;es aconte&ccedil;am, ser&atilde;o mais de 600 fam&iacute;lias que ser&atilde;o jogadas na rua. O nosso protesto aqui &eacute; para mostrar que terras antes improdutivas, agora tiraram fam&iacute;lias inteiras das ruas e s&atilde;o produtivas&rdquo;, afirma Alves.&nbsp;</p>
 
 <p><br />
-As a&ccedil;&otilde;es de despejo s&atilde;o para os acampamentos Ricardo Brindeiro, Wanderley Caixe, Mangueiral e Ouro Verde.<br />
-<br />
-No per&iacute;odo da tarde uma comiss&atilde;o de Sem Terra tem uma reuni&atilde;o agendada com representantes da vara agr&aacute;ria do Estado, do Instituto de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra) e com o secret&aacute;rio de direitos humanos do estado da Para&iacute;ba.&nbsp;</p>
+As a&ccedil;&otilde;es de despejo s&atilde;o para os acampamentos Ricardo Brindeiro, Wanderley Caixe, Mangueiral e Ouro Verde.&nbsp;No per&iacute;odo da tarde uma comiss&atilde;o do MST se reunir&aacute; com representantes da vara agr&aacute;ria do Estado, do Instituto de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra) e com o secret&aacute;rio de direitos humanos do estado da Para&iacute;ba.</p>
