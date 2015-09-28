@@ -7,7 +7,7 @@ tags:
   - tag: latifúndio
   - tag: concentração-de-terra
 images_hd: "http://farm1.staticflickr.com/706/21763951066_9ce4bd002a_b.jpg"
-title: "Em Pernambuco, Sem Terra ocupam fazenda improdutiva do ex-deputado Pedro Corrêa"
+title: "Sem Terra ocupam fazenda improdutiva do ex-deputado Pedro Corrêa, em PE"
 menu: lutas e mobilizações
 support_line: "Pedro Corrêa está preso, condenado a 7,2 anos de prisão por corrupção ativa."
 layout: post
