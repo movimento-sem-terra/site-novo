@@ -1,5 +1,5 @@
 ---
-date: "2015-09-28T13:42:18-03:00"
+date: "2015-09-28T16:42:18-03:00"
 tags:
   - tag: reforma-agrária
   - tag: pernambuco
@@ -39,7 +39,7 @@ releated_posts:
   - 2015/01/2015-01-09-concentracao-de-terra-cresce-e-latifundios-equivalem-a-tres-sergipe.md
   - 2015/01/2015-01-12-katia-abreu-a-ministra-que-desmata-a-razao.md
   - 2015/09/2015-09-28-sem-terra-ocupam-mais-um-latifundio-no-extremo-sul-da-bahia.md
-section: cover
+section: null
 
 ---
 <p><img alt="d11d46f6c43e29afba903e35b07dbc81.jpg" src="http://farm6.staticflickr.com/5818/21601210568_0ce6de1039_b.jpg" /></p>
@@ -62,8 +62,7 @@ De acordo Francisco Terto, da coordena&ccedil;&atilde;o nacional do MST, os Sem 
 <p>&nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="pedro correa.jpg" src="http://farm1.staticflickr.com/582/21603233539_9122d3e4f4_b.jpg" />
-<figcaption>Corr&ecirc;a foi condenado por corrup&ccedil;&atilde;o no mensal&atilde;o e &eacute; investigado na Lava Jato.<br />
-</figcaption>
+<figcaption>Corr&ecirc;a foi condenado por corrup&ccedil;&atilde;o no mensal&atilde;o e &eacute; investigado na Lava Jato.</figcaption>
 </figure>
 
 <p>Para Terto, &eacute; inadmiss&iacute;vel que a fam&iacute;lia Corr&ecirc;a domine a pol&iacute;tica do estado por meio da concentra&ccedil;&atilde;o de terras. Sobre as alega&ccedil;&otilde;es por parte da fam&iacute;lia do ex-parlamentar, que atribui a ocupa&ccedil;&atilde;o &agrave;s tratativas que Corr&ecirc;a est&aacute; fazendo para fechar um acordo de dela&ccedil;&atilde;o premiada com a Justi&ccedil;a no &acirc;mbito da Opera&ccedil;&atilde;o Lava Jato, Terto &eacute; taxativo.</p>
