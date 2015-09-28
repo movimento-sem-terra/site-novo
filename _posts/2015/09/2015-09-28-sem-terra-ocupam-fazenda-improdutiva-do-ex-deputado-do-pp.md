@@ -62,7 +62,8 @@ De acordo Francisco Terto, da coordena&ccedil;&atilde;o nacional do MST, os Sem 
 <p>&nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="pedro correa.jpg" src="http://farm1.staticflickr.com/582/21603233539_9122d3e4f4_b.jpg" />
-<figcaption>Legenda</figcaption>
+<figcaption>Corr&ecirc;a foi condenado por corrup&ccedil;&atilde;o no mensal&atilde;o e &eacute; investigado na Lava Jato.<br />
+</figcaption>
 </figure>
 
 <p>Para Terto, &eacute; inadmiss&iacute;vel que a fam&iacute;lia Corr&ecirc;a domine a pol&iacute;tica do estado por meio da concentra&ccedil;&atilde;o de terras. Sobre as alega&ccedil;&otilde;es por parte da fam&iacute;lia do ex-parlamentar, que atribui a ocupa&ccedil;&atilde;o &agrave;s tratativas que Corr&ecirc;a est&aacute; fazendo para fechar um acordo de dela&ccedil;&atilde;o premiada com a Justi&ccedil;a no &acirc;mbito da Opera&ccedil;&atilde;o Lava Jato, Terto &eacute; taxativo.</p>
