@@ -51,7 +51,7 @@ section: cover
 Cerca de 100 fam&iacute;lias Sem Terra ocuparam, na manh&atilde; deste domingo (27), a Fazenda Nova Esperan&ccedil;a, no munic&iacute;pio de Brejo da Madre de Deus, &agrave;&nbsp;200 quil&ocirc;metros de Recife (PE).</p>
 
 <p><br />
-A fazenda de cerca de 800 hectares &eacute; propriedade da fam&iacute;lia do ex-deputado do Partido Progressista (PP), Pedro Corr&ecirc;a, c<span style="line-height: 20.8px;">ondenado por corrup&ccedil;&atilde;o no processo do mensal&atilde;o, que cumpre pena em regime fechado desde 2013, </span>e investigado pela Opera&ccedil;&atilde;o Lava Jato, que apura casos de desvios e corrup&ccedil;&atilde;o na Petrobras.</p>
+A fazenda de cerca de 2 mil hectares&nbsp;&eacute; propriedade da fam&iacute;lia do ex-deputado do Partido Progressista (PP), Pedro Corr&ecirc;a, c<span style="line-height: 20.8px;">ondenado por corrup&ccedil;&atilde;o no processo do mensal&atilde;o, que cumpre pena em regime fechado desde 2013, </span>e investigado pela Opera&ccedil;&atilde;o Lava Jato, que apura casos de desvios e corrup&ccedil;&atilde;o na Petrobras.</p>
 
 <p><br />
 De acordo Francisco Terto, da coordena&ccedil;&atilde;o nacional do MST, os Sem Terra ocuparam a &aacute;rea para chamar aten&ccedil;&atilde;o sobre a atual situa&ccedil;&atilde;o da Reforma Agr&aacute;ria no pa&iacute;s.</p>
@@ -65,7 +65,7 @@ De acordo Francisco Terto, da coordena&ccedil;&atilde;o nacional do MST, os Sem 
 <figcaption>Legenda</figcaption>
 </figure>
 
-<p>Para Terto, &eacute; inadmiss&iacute;vel que a fam&iacute;lia Corr&ecirc;a domine a pol&iacute;tica do estado por meio da concentra&ccedil;&atilde;o de terras. Sobre as alega&ccedil;&otilde;es por parte da fam&iacute;lia do ex-parlamentar&nbsp;que atribui a ocupa&ccedil;&atilde;o &agrave;s tratativas que Corr&ecirc;a est&aacute; fazendo para fechar um acordo de dela&ccedil;&atilde;o premiada com a Justi&ccedil;a no &acirc;mbito da Opera&ccedil;&atilde;o Lava Jato, Terto &eacute; taxativo.</p>
+<p>Para Terto, &eacute; inadmiss&iacute;vel que a fam&iacute;lia Corr&ecirc;a domine a pol&iacute;tica do estado por meio da concentra&ccedil;&atilde;o de terras. Sobre as alega&ccedil;&otilde;es por parte da fam&iacute;lia do ex-parlamentar, que atribui a ocupa&ccedil;&atilde;o &agrave;s tratativas que Corr&ecirc;a est&aacute; fazendo para fechar um acordo de dela&ccedil;&atilde;o premiada com a Justi&ccedil;a no &acirc;mbito da Opera&ccedil;&atilde;o Lava Jato, Terto &eacute; taxativo.</p>
 
 <p><br />
 &ldquo;Essa &eacute;&nbsp;uma ocupa&ccedil;&atilde;o que n&atilde;o tem liga&ccedil;&atilde;o com o governo federal, n&atilde;o existem nenhum partido por tr&aacute;s como acusa a fam&iacute;lia Corr&ecirc;a.&nbsp;<span style="line-height: 20.8px;">A &aacute;rea de 2 mil hectares estava abandonada e seguia sem produ&ccedil;&atilde;o. N&atilde;o podemos permitir mais o ac&uacute;mulo de terras por fam&iacute;lias que det&eacute;m toda sua fortuna constru&iacute;da no latif&uacute;ndio&quot;</span>, destaca.&nbsp;</p>
