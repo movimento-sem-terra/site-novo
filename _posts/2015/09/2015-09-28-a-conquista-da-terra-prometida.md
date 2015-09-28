@@ -8,7 +8,7 @@ images_hd: "http://farm1.staticflickr.com/741/21162114153_4aac7dc170_b.jpg"
 support_line: Governo de Minas assina decreto desapropriando fazendas ocupadas por trabalhadoras e trabalhadores Sem Terra
 title: A conquista da terra prometida
 menu: reforma agrária
-section: cover
+section: featured-news
 layout: post
 files:
   - link: "http://farm1.staticflickr.com/741/21162114153_4aac7dc170_b.jpg"
