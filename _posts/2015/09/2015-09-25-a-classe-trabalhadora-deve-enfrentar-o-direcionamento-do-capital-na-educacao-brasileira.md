@@ -9,7 +9,7 @@ menu: "educação, cultura e comunicação"
 support_line: "Rubneuza Leandro de Souza, do setor de educação do MST, avalia a contribuição do 2° Enera para a organização do MST, ao relacionar o encontro com a atual conjuntura da educação pública brasileira."
 sector: education
 images_hd: "http://farm6.staticflickr.com/5767/21088408013_0055ceb5f9_b.jpg"
-section: cover
+section: null
 layout: post
 files:
   - link: "http://farm6.staticflickr.com/5767/21088408013_0055ceb5f9_b.jpg"
