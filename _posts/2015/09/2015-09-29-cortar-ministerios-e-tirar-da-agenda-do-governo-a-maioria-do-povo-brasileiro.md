@@ -4,8 +4,8 @@ tags:
   - tag: mda
   - tag: reforma-agrária
   - tag: crise-política
-title: “Cortar ministérios é tirar da agenda do governo a maioria do povo brasileiro”
-support_line: Coordenador nacional do MST afirma que a reforma administrativa “é pura propaganda enganosa”.
+title: "“Cortar ministérios é tirar da agenda do governo a maioria do povo brasileiro”, afirma dirigente do MST"
+support_line: "Alexandre Conceição, da coordenação nacional do MST, afirma que a reforma administrativa “é pura propaganda enganosa, porque cortar ministério não garante a economia de nem R$ 1”."
 menu: reforma agrária
 images_hd: "http://farm1.staticflickr.com/573/21191446634_a6aee34273_b.jpg"
 layout: post
@@ -19,22 +19,24 @@ files:
 created_date: "2015-09-29T13:17:47-03:00"
 published: true
 releated_posts:
-  - 2014/07/2014-07-17-familias-sem-terra-seguem-na-luta-por-area-grilada-em-abelardo-luz.md
-  - 2015/09/2015-09-02-nacionalizacao-do-programa-campones-volta-a-ser-discutida-com-o-mda.md
   - 2015/09/2015-09-13-mst-lanca-nota-sobre-o-atual-momento-politico-e-a-reforma-agraria.md
   - 2015/09/2015-09-16-deputados-escrevem-oficio-a-dilma-contra-possivel-extincao-do-mda.md
+  - 2015/03/2015-03-03-relatorio-mostra-aumento-na-concentracao-de-terras-do-brasil.md
+  - 2015/09/2015-09-29-em-nota-mst-defende-a-saude-publica-no-brasil-e-repudia-privatizacao-do-setor.md
+  - 2015/05/2015-05-07-governo-paga-o-preco-pela-acao-despolitizadora-do-ultimo-periodo.md
+  - 2015/08/2015-08-12-a-politica-economica-atual-nao-resultara-na-retomada-do-crescimento-diz-marcio-pochmann.md
+  - 2015/08/2015-08-18-samuel-pinheiro-guimaraes-a-ofensiva-conservadora-e-as-crises.md
+  - 2015/09/2015-09-18-reforma-do-sistema-politico-onde-estamos.md
 section: cover
 
 ---
 <p><img alt="15329829974_ceafb77cf0_b.jpg" height="438" src="http://farm1.staticflickr.com/573/21191446634_a6aee34273_b.jpg" width="700" /></p>
 
-<p>&nbsp;</p>
-
-<p><em>Por Luiz Felipe Albuquerque<br />
+<p><br />
+<em>Por Luiz Felipe Albuquerque<br />
 Do Brasil de Fato</em></p>
 
 <p><br />
-<br />
 A reforma administrativa anunciada pelo governo federal vem preocupando os movimentos populares. A queda de bra&ccedil;o entre setores do PMDB deixam encurralado o governo do PT, que pode n&atilde;o eliminar os dez minist&eacute;rios, como havia anunciado, na tentativa contemplar todos os aliados.</p>
 
 <p><br />
@@ -76,9 +78,8 @@ No Brasil, h&aacute; uma disputa por terras, cr&eacute;dito e tecnologia entre d
 <p><br />
 Do outro lado, a agricultura familiar e a reforma agr&aacute;ria, que ocupam milhares de trabalhadores rurais para produ&ccedil;&atilde;o em pequenas e m&eacute;dias propriedades, que cultiva prioritariamente alimentos para o povo brasileiro e pode superar a utiliza&ccedil;&atilde;o dos agrot&oacute;xicos com o desenvolvimento de uma nova matriz tecnol&oacute;gica, por meio da coopera&ccedil;&atilde;o e da agroindustrializa&ccedil;&atilde;o, consolidando o modelo da agroecologia.</p>
 
-<p>&nbsp;</p>
-
-<p>Essa disputa de modelos agr&iacute;colas est&aacute; expressa no governo. O MDA foi criado pelo [ex-presidente Fernando Henrique Cardoso] FHC depois do Massacre de Caraj&aacute;s [em 1999], para atender os pobres do campo. O Minist&eacute;rio da Agricultura passou a servir apenas ao agroneg&oacute;cio. Foi o governo que fez essa divis&atilde;o, que relegou um papel secund&aacute;rio para a agricultura familiar e a reforma agr&aacute;ria.</p>
+<p><br />
+Essa disputa de modelos agr&iacute;colas est&aacute; expressa no governo. O MDA foi criado pelo [ex-presidente Fernando Henrique Cardoso] FHC depois do Massacre de Caraj&aacute;s [em 1999], para atender os pobres do campo. O Minist&eacute;rio da Agricultura passou a servir apenas ao agroneg&oacute;cio. Foi o governo que fez essa divis&atilde;o, que relegou um papel secund&aacute;rio para a agricultura familiar e a reforma agr&aacute;ria.</p>
 
 <p><br />
 Por isso, temos muitas cr&iacute;ticas ao MDA, que tem um or&ccedil;amento pequeno, uma estrutura insuficiente e programas que atendem um contingente pequeno de camponeses. No entanto, &eacute; o &uacute;nico minist&eacute;rio preocupado com pol&iacute;ticas para o desenvolvimento da pequena agricultura.</p>
