@@ -35,6 +35,7 @@ releated_posts:
   - 2015/09/2015-09-22-mercantilizacao-da-educacao-brasileira-e-alvo-de-critica-em-encontro-de-educadores.md
   - 2015/09/2015-09-23-apos-marcha-educadores-ocupam-ministerio-da-agricultura-em-brasilia.md
   - 2015/09/2015-09-22-2o-enera-destaca-papel-das-escolas-do-campo-na-producao-de-alimentos-saudaveis.md
+label: interviews
 
 ---
 <p><img alt="enera_final.jpg" src="http://farm6.staticflickr.com/5767/21088408013_0055ceb5f9_b.jpg" /><br />
