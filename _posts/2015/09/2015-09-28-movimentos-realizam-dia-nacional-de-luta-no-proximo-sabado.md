@@ -9,7 +9,7 @@ tags:
   - tag: ajuste-fiscal
 title: "No próximo sábado, movimentos saem às ruas em Dia Nacional de Luta"
 menu: lutas e mobilizações
-section: featured-news
+section: cover
 support_line: "A mobilização acontece em diversas regiões do Brasil, quando milhares saem às ruas em defesa da Petrobras, da democracia e contra o ajuste fiscal."
 images_hd: "http://farm1.staticflickr.com/720/21606783899_f1c55bbedf_b.jpg"
 layout: post
