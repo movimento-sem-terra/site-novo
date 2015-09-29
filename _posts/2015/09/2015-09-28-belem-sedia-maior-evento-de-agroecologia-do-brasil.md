@@ -31,7 +31,10 @@ releated_posts:
   - 2014/04/2014-04-10-agroecologia-no-cultivo-de-cacau-ajuda-a-producao-e-o-meio-ambiente.md-e
 
 ---
-<p><img alt="belem.jpg" src="http://farm6.staticflickr.com/5631/21601203200_d42fc117c2_b.jpg" /></p>
+<figure class="image"><img alt="belem.jpg" src="http://farm6.staticflickr.com/5631/21601203200_d42fc117c2_b.jpg" />
+<figcaption>Foto: Jean Brito<br />
+</figcaption>
+</figure>
 
 <p><br />
 <em>Da P&aacute;gina do MST</em></p>
@@ -48,7 +51,8 @@ O tema do CBA deste ano ser&aacute; &ldquo;Diversidade e Soberania na Constru&cc
 <p>&nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="belem_feira.jpg" src="http://farm6.staticflickr.com/5642/21789242175_bfabf4b205_b.jpg" />
-<figcaption></figcaption>
+<figcaption>Foto:&nbsp;Jean Brito<br />
+</figcaption>
 </figure>
 
 <p>Ser&atilde;o duas grandes confer&ecirc;ncias, 12 mesas-redondas, 10 rodas de conversas, nove semin&aacute;rios e 22 oficinas, al&eacute;m de debates das apresenta&ccedil;&otilde;es orais ou escritas dos 165 relatos de experi&ecirc;ncias e outros 1200 p&ocirc;steres de trabalhos acad&ecirc;micos, divididos em 42 diferentes espa&ccedil;os no interior do Centro de Convers&otilde;es (<strong><a href="http://www.cbagroecologia.org.br" target="_blank">Clique aqui</a></strong> para saber mais).&nbsp;</p>
