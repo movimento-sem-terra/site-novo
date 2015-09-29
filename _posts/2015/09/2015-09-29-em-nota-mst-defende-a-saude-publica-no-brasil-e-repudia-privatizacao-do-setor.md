@@ -23,7 +23,6 @@ files:
 created_date: "2015-09-29T10:40:28-03:00"
 published: true
 releated_posts:
-  - 2015/05/2015-05-07-hoje-e-legal-contaminar-alguem-com-agrotoxico-no-brasil-critica-procurador.md
   - 2015/08/2015-08-25-brasil-tem-o-pior-cenario-do-mundo-em-relacao-aos-agrotoxicos-adverte-especialista.md
   - 2015/08/2015-08-26-agrotoxico-o-inimigo-entre-nos.md
   - 2015/09/2015-09-13-mst-lanca-nota-sobre-o-atual-momento-politico-e-a-reforma-agraria.md
