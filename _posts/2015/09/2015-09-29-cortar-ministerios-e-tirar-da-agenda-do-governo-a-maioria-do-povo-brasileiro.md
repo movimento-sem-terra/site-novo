@@ -23,6 +23,7 @@ releated_posts:
   - 2015/09/2015-09-02-nacionalizacao-do-programa-campones-volta-a-ser-discutida-com-o-mda.md
   - 2015/09/2015-09-13-mst-lanca-nota-sobre-o-atual-momento-politico-e-a-reforma-agraria.md
   - 2015/09/2015-09-16-deputados-escrevem-oficio-a-dilma-contra-possivel-extincao-do-mda.md
+section: cover
 
 ---
 <p><img alt="15329829974_ceafb77cf0_b.jpg" height="438" src="http://farm1.staticflickr.com/573/21191446634_a6aee34273_b.jpg" width="700" /></p>
