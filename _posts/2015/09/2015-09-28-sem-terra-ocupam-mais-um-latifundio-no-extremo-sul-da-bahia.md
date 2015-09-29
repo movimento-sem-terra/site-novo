@@ -34,6 +34,7 @@ releated_posts:
   - 2015/01/2015-01-09-concentracao-de-terra-cresce-e-latifundios-equivalem-a-tres-sergipe.md
   - 2015/01/2015-01-12-katia-abreu-a-ministra-que-desmata-a-razao.md
   - 2015/08/2015-08-17-sem-terra-ocupam-latifundio-grilado-e-denunciam-inoperancia-dos-orgaos-resposaveis.md
+section: featured-news
 
 ---
 <p><img alt="20150926_063732.jpg" src="http://farm6.staticflickr.com/5637/21596047598_9758e14012_b.jpg" /><br />
