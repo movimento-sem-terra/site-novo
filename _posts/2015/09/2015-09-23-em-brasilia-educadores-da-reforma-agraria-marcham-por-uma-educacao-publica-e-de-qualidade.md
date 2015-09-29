@@ -9,7 +9,7 @@ tags:
   - tag: enera
 title: "Em Brasília, educadores da Reforma Agrária marcham por uma educação pública e de qualidade"
 menu: lutas e mobilizações
-section: featured-news
+section: null
 sector: education
 support_line: O ato iniciou com uma intervenção em frente ao Ministério da Educação (MEC) para denunciar o fechamento das escolas do campo e a mercantilização da educação pública no país.
 images_hd: "http://farm6.staticflickr.com/5707/21475510809_0febd20e6a_b.jpg"
