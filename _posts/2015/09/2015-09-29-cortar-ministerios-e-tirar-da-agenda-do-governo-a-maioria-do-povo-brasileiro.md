@@ -27,7 +27,7 @@ releated_posts:
   - 2015/08/2015-08-12-a-politica-economica-atual-nao-resultara-na-retomada-do-crescimento-diz-marcio-pochmann.md
   - 2015/08/2015-08-18-samuel-pinheiro-guimaraes-a-ofensiva-conservadora-e-as-crises.md
   - 2015/09/2015-09-18-reforma-do-sistema-politico-onde-estamos.md
-section: cover
+section: featured-news
 
 ---
 <p><img alt="15329829974_ceafb77cf0_b.jpg" height="438" src="http://farm1.staticflickr.com/573/21191446634_a6aee34273_b.jpg" width="700" /></p>
