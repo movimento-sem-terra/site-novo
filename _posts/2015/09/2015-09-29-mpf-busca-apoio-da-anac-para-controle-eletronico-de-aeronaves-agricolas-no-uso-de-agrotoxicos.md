@@ -4,7 +4,7 @@ tags:
   - tag: agrotóxicos
   - tag: anac
   - tag: aeronaves-agrícolas
-title: MPF busca apoio da Anac para controle eletrônico de aeronaves agrícolas no uso de agrotóxicos
+title: MPF busca apoio da Anac para controle eletrônico da pulverização aérea
 support_line: "O objetivo é controlar e fiscalizar os efeitos indesejados da pulverização aérea de agrotóxicos, ainda permitida no Brasil."
 images_hd: "http://farm1.staticflickr.com/633/21189024324_7b7a80c5f3_b.jpg"
 menu: agronegócio
@@ -29,13 +29,11 @@ releated_posts:
 
 <p><img alt="avião-agricola.jpg" src="http://farm1.staticflickr.com/633/21189024324_7b7a80c5f3_b.jpg" /></p>
 
-<p>&nbsp;</p>
+<p><br />
+<em>Da IHU-Online</em></p>
 
-<p><em>Da IHU-Online</em></p>
-
-<p>&nbsp;</p>
-
-<p>O Minist&eacute;rio P&uacute;blico Federal (MPF) e outros &oacute;rg&atilde;os se reuniram nesta quinta-feira, 24 de setembro, com a diretoria da Ag&ecirc;ncia Nacional Avia&ccedil;&atilde;o Civil (Anac) para tratar da implanta&ccedil;&atilde;o de um sistema de rastreamento eletr&ocirc;nico de aeronaves agr&iacute;colas.</p>
+<p><br />
+O Minist&eacute;rio P&uacute;blico Federal (MPF) e outros &oacute;rg&atilde;os se reuniram nesta quinta-feira, 24 de setembro, com a diretoria da Ag&ecirc;ncia Nacional Avia&ccedil;&atilde;o Civil (Anac) para tratar da implanta&ccedil;&atilde;o de um sistema de rastreamento eletr&ocirc;nico de aeronaves agr&iacute;colas.</p>
 
 <p><br />
 &ldquo;Tais informa&ccedil;&otilde;es viabilizariam um controle efetivo das opera&ccedil;&otilde;es, possibilitando n&atilde;o s&oacute; o incremento da fiscaliza&ccedil;&atilde;o da Anac, mas tamb&eacute;m a gera&ccedil;&atilde;o de dados de grande utilidade para a&ccedil;&otilde;es de defesa da sa&uacute;de p&uacute;blica, do meio ambiente, do consumidor, dos trabalhadores e de combate ao crime, inclusive na extensa fronteira nacional&rdquo;, explicam os membros do Minist&eacute;rio P&uacute;blico que estiveram reunidos com a diretoria da Ag&ecirc;ncia.</p>
