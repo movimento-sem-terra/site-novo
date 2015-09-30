@@ -93,9 +93,9 @@ Na capital, a partir 14h (Avenida Paulista, 901 &ndash; em frente ao pr&eacute;d
 C&acirc;mara Municipal (R. Quatorze de Julho n&ordm; 26, Bairro S&atilde;o Joaquim)</p>
 
 <p>9h &ndash; Campinas<br />
-Esta&ccedil;&atilde;o Cultura - Pra&ccedil;a Marechal Floriano Peixoto s/n&ordm;, com caminhada at&eacute; o Largo da Catedral<br />
-&nbsp;<br />
-9h &ndash; Itapeva<br />
+Esta&ccedil;&atilde;o Cultura - Pra&ccedil;a Marechal Floriano Peixoto s/n&ordm;, com caminhada at&eacute; o Largo da Catedral</p>
+
+<p>9h &ndash; Itapeva<br />
 Pra&ccedil;a de Eventos Zico Campolim, na Av. Castelo Branco, 923 &ndash; Centro</p>
 
 <p>8h &ndash; Presidente Prudente<br />
@@ -129,3 +129,13 @@ Pra&ccedil;a Coronel Bertaso (Centro).</p>
 <strong>Distrito Federal</strong><br />
 9h &ndash; Ceil&acirc;ndia<br />
 Ato ser&aacute; realizado na Feira da Ceil&acirc;ndia.</p>
+
+<p><br />
+<strong>Para&iacute;ba</strong><br />
+O ato na capital acontece em frente ao teatro Santa Catarina.&nbsp;</p>
+
+<p><br />
+<strong>Par&aacute;</strong><br />
+A&nbsp;ato acontece na capital Bel&eacute;m, e a&nbsp;concentra&ccedil;&atilde;o ser&aacute; na escadinha, &agrave;s 9h.</p>
+
+<p>&nbsp;</p>
