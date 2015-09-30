@@ -54,7 +54,15 @@ Bonfim reconhece que, apesar do governo n&atilde;o estar correspondendo com o pr
 <strong>Confira onde ocorrer&atilde;o atos pol&iacute;ticos:</strong></p>
 
 <p><br />
-<strong>Bahia</strong><br />
+<strong style="line-height: 20.8px;">Rio de Janeiro</strong><br style="line-height: 20.8px;" />
+<span style="line-height: 20.8px;">No Rio, o ato ser&aacute; no dia 2 de outubro, no centro da capita, com caminhada da Candel&aacute;ria at&eacute; a Cinel&acirc;ndia, a partir das 16h.</span></p>
+
+<p><br />
+<span style="line-height: 20.8px;"><strong>Esp&iacute;rito Santo</strong></span><br style="line-height: 20.8px;" />
+<span style="line-height: 20.8px;">Vit&oacute;ria ser&aacute; sexta-feira (2), &agrave;s 17h, em frente a sede da Petrobras.</span><br />
+&nbsp;</p>
+
+<p><strong>Bahia</strong><br />
 Em Salvador, caminhada em defesa da democracia no centro. Local: Campo Grande, a partir das 9h.</p>
 
 <p><br />
@@ -76,10 +84,6 @@ Concentra&ccedil;&atilde;o na Pra&ccedil;a Derby, &agrave;s 8h, no Recife.</p>
 <p><br />
 <strong>Rio Grande do Sul</strong><br />
 Concentra&ccedil;&atilde;o no Largo Gl&ecirc;nio Peres, seguida de caminhada at&eacute; a torre simb&oacute;lica da Petrobr&aacute;s, na Pra&ccedil;a da Alf&acirc;ndega, centro de Porto Alegre, &agrave;s 10h.</p>
-
-<p><br />
-<strong>Rio de Janeiro</strong><br />
-No Rio, o ato ser&aacute; no dia 2 de outubro, no centro da capita, com caminhada da Candel&aacute;ria at&eacute; a Cinel&acirc;ndia, a partir das 16h.</p>
 
 <p><br />
 <strong>S&atilde;o Paulo</strong><br />
