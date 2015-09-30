@@ -7,15 +7,15 @@ tags:
 title: "Frente Brasil Popular, a defesa da Petrobrás e os interesses internacionais em disputa"
 support_line: "Neste 3 de outubro acontece a primeira grande atividade de rua da Frente Brasil Popular, que congrega entidades dos movimentos sociais, populares e sindicais. "
 menu: lutas e mobilizações
-images_hd: "http://farm1.staticflickr.com/657/21839849185_9e7b8a6bd1_b.jpg"
+images_hd: "http://farm1.staticflickr.com/729/21853057391_9c274a2fac_b.jpg"
 layout: post
 files:
-  - link: "http://farm1.staticflickr.com/657/21839849185_9e7b8a6bd1_b.jpg"
-    thumbnail: "http://farm1.staticflickr.com/657/21839849185_9e7b8a6bd1_t.jpg"
-    medium: "http://farm1.staticflickr.com/657/21839849185_9e7b8a6bd1_z.jpg"
-    small: "http://farm1.staticflickr.com/657/21839849185_9e7b8a6bd1_n.jpg"
-    title: frente-brasil-popular-foto-vermelhogggg.jpeg
-    $$hashKey: 0AG
+  - link: "http://farm1.staticflickr.com/729/21853057391_9c274a2fac_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/729/21853057391_9c274a2fac_t.jpg"
+    medium: "http://farm1.staticflickr.com/729/21853057391_9c274a2fac_z.jpg"
+    small: "http://farm1.staticflickr.com/729/21853057391_9c274a2fac_n.jpg"
+    title: dianacionaldelutas-13-03-15-beatrizmidiaconsulte19foto1054.jpg
+    $$hashKey: 0CF
 created_date: "2015-09-30T12:42:03-03:00"
 published: true
 releated_posts:
@@ -25,9 +25,9 @@ releated_posts:
   - 2015/09/2015-09-17-frente-brasil-popular-convoca-primeira-mobilizacao-no-62-aniversario-da-petrobras.md
 
 ---
-<p><img alt="frente-brasil-popular-foto-vermelhogggg.jpeg" src="http://farm1.staticflickr.com/657/21839849185_9e7b8a6bd1_b.jpg" /></p>
-
 <p>&nbsp;</p>
+
+<p><img alt="dianacionaldelutas-13-03-15-beatrizmidiaconsulte19foto1054.jpg" height="465" src="http://farm1.staticflickr.com/729/21853057391_9c274a2fac_b.jpg" width="700" /></p>
 
 <p><em>Por Norian Segatto*</em></p>
 
