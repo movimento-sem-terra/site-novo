@@ -138,4 +138,6 @@ O ato na capital acontece em frente ao teatro Santa Catarina.&nbsp;</p>
 <strong>Par&aacute;</strong><br />
 A&nbsp;ato acontece na capital Bel&eacute;m, e a&nbsp;concentra&ccedil;&atilde;o ser&aacute; na escadinha, &agrave;s 9h.</p>
 
-<p>&nbsp;</p>
+<p><br />
+<strong>Alagoas</strong><br />
+Com ato em Macei&oacute; no dia 3, os manifestantes se concentram &agrave;s 8h em frente ao antigo Produban no cal&ccedil;ad&atilde;o do com&eacute;rcio.</p>
