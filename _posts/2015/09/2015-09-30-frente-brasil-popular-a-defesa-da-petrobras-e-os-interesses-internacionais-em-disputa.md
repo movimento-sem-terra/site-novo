@@ -20,24 +20,25 @@ created_date: "2015-09-30T12:42:03-03:00"
 published: true
 releated_posts:
   - 2015/08/2015-08-24-dirigente-do-mst-defende-programa-unitario-para-tirar-pais-das-crises.md
-  - 2015/09/2015-09-01-movimentos-e-organizacoes-sociais-promovem-conferencia-nacional-popular.md
   - 2015/09/2015-09-03-frente-brasil-popular-quer-unificar-acao-de-movimentos-sociais.md
   - 2015/09/2015-09-17-frente-brasil-popular-convoca-primeira-mobilizacao-no-62-aniversario-da-petrobras.md
+  - 2015/09/2015-09-06-movimentos-batem-o-martelo-e-lancam-a-frente-brasil-popular.md
+  - 2015/09/2015-09-28-movimentos-realizam-dia-nacional-de-luta-no-proximo-sabado.md
+label: articles
 
 ---
 <p>&nbsp;</p>
 
 <p><img alt="dianacionaldelutas-13-03-15-beatrizmidiaconsulte19foto1054.jpg" height="465" src="http://farm1.staticflickr.com/729/21853057391_9c274a2fac_b.jpg" width="700" /></p>
 
-<p><em>Por Norian Segatto*</em></p>
+<p><br />
+<em>Por Norian Segatto*</em></p>
 
-<p>&nbsp;</p>
+<p><br />
+A FBP foi criada no dia 5 de setembro durante a Confer&ecirc;ncia Nacional Popular realizada em Belo Horizonte.</p>
 
-<p>A FBP foi criada no dia 5 de setembro durante a Confer&ecirc;ncia Nacional Popular realizada em Belo Horizonte.</p>
-
-<p>&nbsp;</p>
-
-<p>Os atos deste s&aacute;bado, que ocorrem em v&aacute;rias cidades do pa&iacute;s, ir&atilde;o se posicionar em defesa da democracia, da Petrobr&aacute;s e contra o ajuste fiscal proposto pelo governo. Em S&atilde;o Paulo, a concentra&ccedil;&atilde;o ocorre a partir das 14h em frente ao pr&eacute;dio da Petrobr&aacute;s, na avenida Paulista.</p>
+<p><br />
+Os atos deste s&aacute;bado, que ocorrem em v&aacute;rias cidades do pa&iacute;s, ir&atilde;o se posicionar em defesa da democracia, da Petrobr&aacute;s e contra o ajuste fiscal proposto pelo governo. Em S&atilde;o Paulo, a concentra&ccedil;&atilde;o ocorre a partir das 14h em frente ao pr&eacute;dio da Petrobr&aacute;s, na avenida Paulista.</p>
 
 <p><br />
 A data escolhida n&atilde;o &eacute; aleat&oacute;ria. Em 3 de outubro, a maior companhia brasileira completa 62 anos de uma hist&oacute;ria que se confunde com a do pa&iacute;s.</p>
@@ -48,10 +49,10 @@ O petr&oacute;leo sempre foi alvo de disputas. No Brasil, mesmo antes da cria&cc
 <p><br />
 Na luta popular que se travou pela cria&ccedil;&atilde;o da Petrobr&aacute;s, alguns pagaram seu idealismo com a vida, como o ensacador da doca de Santos, Deocl&eacute;cio Santana, morto em choque com a pol&iacute;cia em 1949.</p>
 
-<p>&nbsp;</p>
+<p><br />
+Frente &agrave; mobiliza&ccedil;&atilde;o popular na campanha O petr&oacute;leo &eacute; nosso, em 1951 Vargas encaminhou para o Congresso projeto de lei propondo a cria&ccedil;&atilde;o da Petr&oacute;leo Brasileiro S.A. Em outubro de 1953, finalmente foi sancionada a lei 2004, que deu origem &agrave; Petrobr&aacute;s.</p>
 
-<p>Frente &agrave; mobiliza&ccedil;&atilde;o popular na campanha O petr&oacute;leo &eacute; nosso, em 1951 Vargas encaminhou para o Congresso projeto de lei propondo a cria&ccedil;&atilde;o da Petr&oacute;leo Brasileiro S.A. Em outubro de 1953, finalmente foi sancionada a lei 2004, que deu origem &agrave; Petrobr&aacute;s.<br />
-<br />
+<p><br />
 A empresa nasceu e cresceu sob a &eacute;gide dessas disputas. Get&uacute;lio a cita em sua carta testamento: &quot;Quis criar liberdade nacional na potencializa&ccedil;&atilde;o das nossas riquezas atrav&eacute;s da Petrobr&aacute;s e, mal come&ccedil;a esta a funcionar, a onda de agita&ccedil;&atilde;o se avoluma&quot;. Get&uacute;lio se suicidou, mas a empresa fundada em seu governo continuou a prosperar e ser o epicentro de interesses e crises.</p>
 
 <p><br />
@@ -162,6 +163,5 @@ N&atilde;o &eacute; o fim da corrup&ccedil;&atilde;o, a melhoria das contas p&ua
 <p><br />
 &Eacute; com essa compreens&atilde;o que a Frente Brasil Popular conclama a popula&ccedil;&atilde;o a defender a Petrobr&aacute;s e a soberania energ&eacute;tica da na&ccedil;&atilde;o.</p>
 
-<p>&nbsp;</p>
-
-<p><em>* Norian Segatto &eacute; jornalista e escritor, editor da Editora Limiar e assessor de Comunica&ccedil;&atilde;o do Sindipetro Unificado de S&atilde;o Paulo.</em></p>
+<p><br />
+<em>* Norian Segatto &eacute; jornalista e escritor, editor da Editora Limiar e assessor de Comunica&ccedil;&atilde;o do Sindipetro Unificado de S&atilde;o Paulo.</em></p>
