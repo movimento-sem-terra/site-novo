@@ -24,6 +24,7 @@ releated_posts:
   - 2015/09/2015-09-06-movimentos-batem-o-martelo-e-lancam-a-frente-brasil-popular.md
   - 2015/09/2015-09-28-movimentos-realizam-dia-nacional-de-luta-no-proximo-sabado.md
   - 2015/09/2015-09-17-frente-brasil-popular-convoca-primeira-mobilizacao-no-62-aniversario-da-petrobras.md
+section: featured-news
 
 ---
 <p><img alt="econo.jpg" src="http://farm1.staticflickr.com/636/21620664478_07576783a7_b.jpg" /></p>
