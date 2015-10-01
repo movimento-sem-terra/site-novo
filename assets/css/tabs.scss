@@ -47,7 +47,7 @@ ul.tabs {
   	@include clearfix;
     min-height: 300px;
     padding-top: 25px;
-    padding-bottom: 25px;
+
 
     .item-image-content {
       @include span-columns(3);
@@ -103,7 +103,7 @@ ul.tabs {
       .day-schedule {
         font-size: 30px;
         font-weight: 300;
-        margin-bottom: 30px;
+        margin-bottom: 20px;
         padding-left: 20px;
 
         &.divisor {
