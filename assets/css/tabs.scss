@@ -42,14 +42,14 @@ ul.tabs {
   transition: visibility 0s linear 0.5s,opacity 0.5s linear;
   @include clearfix;
 
-  .speaker-content {
+  .item-content {
 
   	@include clearfix;
     min-height: 300px;
     padding-top: 25px;
     padding-bottom: 25px;
 
-    .speaker-image-content {
+    .item-image-content {
       @include span-columns(3);
       text-align: left;
 
@@ -57,7 +57,7 @@ ul.tabs {
         border-right: solid 1px #CFCFD0;
       }
 
-      .speaker-image {
+      .item-image {
         padding: 10px;
       }
       .bold,
@@ -74,13 +74,13 @@ ul.tabs {
       }
     }
 
-    .speaker-description-content {
+    .item-content {
       @include span-columns(9);
       margin-left: -80px;
 
       &.divisor {
-        .speaker-description-date,
-        .speaker-description {
+        .item-date,
+        .item {
           padding-left: 20px;
         }
       }
@@ -90,7 +90,7 @@ ul.tabs {
         margin-bottom: 40px;
       }
 
-      .speaker-description-date {
+      .item-date {
         font-size: 11px;
         font-style: italic;
       }
