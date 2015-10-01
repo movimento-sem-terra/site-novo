@@ -52,7 +52,6 @@
   }
 
   .releated {
-    margin-top: 49px;
     @extend .default-container;
 
 
@@ -129,27 +128,27 @@
         text-decoration: underline;
       }
 
-      #date{
-        @extend .title-with-shadow;
-        @include span-columns(5);
-        font-size: 3em;
-        margin-top: 0;
-        margin-bottom: 0;
-        min-width: 235px;
-        text-align: center;
-        align-self: center;
-
-        @include media($mobile) {
-          @include span-columns(12);
-        }
-      }
+      // #date{
+      //   @extend .title-with-shadow;
+      //   @include span-columns(5);
+      //   font-size: 3em;
+      //   margin-top: 0;
+      //   margin-bottom: 0;
+      //   min-width: 235px;
+      //   text-align: center;
+      //   align-self: center;
+      //
+      //   @include media($mobile) {
+      //     @include span-columns(12);
+      //   }
+      // }
 
       #place{
         align-self: center;
         font-size: 19px;
         margin-top: 7px;
         @extend .text-with-shadow;
-        @include span-columns(6);
+        @include span-columns(12);
         text-align: center;
         @include media($mobile) {
           @include fill-parent();
