@@ -54,7 +54,15 @@ Bonfim reconhece que, apesar do governo n&atilde;o estar correspondendo com o pr
 <strong>Confira onde ocorrer&atilde;o atos pol&iacute;ticos:</strong></p>
 
 <p><br />
-<strong>Bahia</strong><br />
+<strong style="line-height: 20.8px;">Rio de Janeiro</strong><br style="line-height: 20.8px;" />
+<span style="line-height: 20.8px;">No Rio, o ato ser&aacute; no dia 2 de outubro, no centro da capita, com caminhada da Candel&aacute;ria at&eacute; a Cinel&acirc;ndia, a partir das 16h.</span></p>
+
+<p><br />
+<span style="line-height: 20.8px;"><strong>Esp&iacute;rito Santo</strong></span><br style="line-height: 20.8px;" />
+<span style="line-height: 20.8px;">Vit&oacute;ria ser&aacute; sexta-feira (2), &agrave;s 17h, em frente a sede da Petrobras.</span><br />
+&nbsp;</p>
+
+<p><strong>Bahia</strong><br />
 Em Salvador, caminhada em defesa da democracia no centro. Local: Campo Grande, a partir das 9h.</p>
 
 <p><br />
@@ -78,10 +86,6 @@ Concentra&ccedil;&atilde;o na Pra&ccedil;a Derby, &agrave;s 8h, no Recife.</p>
 Concentra&ccedil;&atilde;o no Largo Gl&ecirc;nio Peres, seguida de caminhada at&eacute; a torre simb&oacute;lica da Petrobr&aacute;s, na Pra&ccedil;a da Alf&acirc;ndega, centro de Porto Alegre, &agrave;s 10h.</p>
 
 <p><br />
-<strong>Rio de Janeiro</strong><br />
-No Rio, o ato ser&aacute; no dia 2 de outubro, no centro da capita, com caminhada da Candel&aacute;ria at&eacute; a Cinel&acirc;ndia, a partir das 16h.</p>
-
-<p><br />
 <strong>S&atilde;o Paulo</strong><br />
 Na capital, a partir 14h (Avenida Paulista, 901 &ndash; em frente ao pr&eacute;dio da Petrobras).</p>
 
@@ -89,9 +93,9 @@ Na capital, a partir 14h (Avenida Paulista, 901 &ndash; em frente ao pr&eacute;d
 C&acirc;mara Municipal (R. Quatorze de Julho n&ordm; 26, Bairro S&atilde;o Joaquim)</p>
 
 <p>9h &ndash; Campinas<br />
-Esta&ccedil;&atilde;o Cultura - Pra&ccedil;a Marechal Floriano Peixoto s/n&ordm;, com caminhada at&eacute; o Largo da Catedral<br />
-&nbsp;<br />
-9h &ndash; Itapeva<br />
+Esta&ccedil;&atilde;o Cultura - Pra&ccedil;a Marechal Floriano Peixoto s/n&ordm;, com caminhada at&eacute; o Largo da Catedral</p>
+
+<p>9h &ndash; Itapeva<br />
 Pra&ccedil;a de Eventos Zico Campolim, na Av. Castelo Branco, 923 &ndash; Centro</p>
 
 <p>8h &ndash; Presidente Prudente<br />
@@ -125,3 +129,15 @@ Pra&ccedil;a Coronel Bertaso (Centro).</p>
 <strong>Distrito Federal</strong><br />
 9h &ndash; Ceil&acirc;ndia<br />
 Ato ser&aacute; realizado na Feira da Ceil&acirc;ndia.</p>
+
+<p><br />
+<strong>Para&iacute;ba</strong><br />
+O ato na capital acontece em frente ao teatro Santa Catarina.&nbsp;</p>
+
+<p><br />
+<strong>Par&aacute;</strong><br />
+A&nbsp;ato acontece na capital Bel&eacute;m, e a&nbsp;concentra&ccedil;&atilde;o ser&aacute; na escadinha, &agrave;s 9h.</p>
+
+<p><br />
+<strong>Alagoas</strong><br />
+Com ato em Macei&oacute; no dia 3, os manifestantes se concentram &agrave;s 8h em frente ao antigo Produban no cal&ccedil;ad&atilde;o do com&eacute;rcio.</p>
