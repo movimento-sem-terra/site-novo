@@ -6,7 +6,7 @@ tags:
   - tag: lutas-e-mobilizações
   - tag: democracia
   - tag: ajuste-fiscal
-title: Movimentos da Frente Popular Brasil Popular falam à imprensa sobre ato em defesa da Petrobras
+title: Frente Brasil Popular promete mobilização em mais de 18 estados em todo país
 support_line: "Coletiva de imprensa aconteceu na tarde dessa quinta-feira (30), na sede dos Sindicatos dos Jornalistas de São Paulo."
 menu: lutas e mobilizações
 images_hd: "http://farm6.staticflickr.com/5782/21681919078_62550eb67b_b.jpg"
