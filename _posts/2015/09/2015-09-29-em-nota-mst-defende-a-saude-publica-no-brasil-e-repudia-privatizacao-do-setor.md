@@ -9,7 +9,7 @@ tags:
 hat: ""
 title: "Em nota, MST defende a saúde pública no Brasil e repudia privatização do setor"
 support_line: Movimento defende Sistema Único de Saúde (SUS) e  manifesta seu desacordo com a atual política econômica implementada pelo Governo Federal.
-section: featured-news
+section: null
 images_hd: "http://farm6.staticflickr.com/5663/21622803280_148195df62_b.jpg"
 menu: reforma agrária
 layout: post
