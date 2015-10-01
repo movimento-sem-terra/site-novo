@@ -47,7 +47,6 @@
   padding: 0;
   width: 100%;
   background-color: #f8f8f9;
-
   .title {
     color: $mst-green;
   }
@@ -67,12 +66,9 @@
   #about {
     padding-bottom: 36px;
     overflow: hidden;
-    background: url(../img/nossa-producao/background.jpg) no-repeat left top;
-            background-size: cover;
-         -o-background-size: cover;
-       -moz-background-size: cover;
-    -webkit-background-size: cover;
-
+    min-height: 410px;
+    background: url(../img/feira-reforma-agraria/banner_site.jpg) no-repeat center center;
+        background-size: 100% 100%;
 
     .content {
       margin-top: 49px;
@@ -92,23 +88,27 @@
         }
       }
     }
+  }
 
-    .description {
+  .description {
+    @extend .default-container;
+
+    .content {
+      margin-top: 49px;
       @include span-columns(6);
       overflow: hidden;
       float: left;
       p {
-        @extend .title-with-shadow;
         font: 500 18px / 24px;
-        color: #ffffff;
-        font-weight: 200;
+        color: $gray-dark;
+        font-weight: 300;
         padding: 10px;
         font-size: 1.3em;
       }
+    }
 
-      @include media($mobile) {
-        @include fill-parent();
-      }
+    @include media($mobile) {
+      @include fill-parent();
     }
   }
   #information{

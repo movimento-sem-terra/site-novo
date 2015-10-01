@@ -209,7 +209,7 @@
   "type":{
     "view": "select",
     "options": [
-      {"name": "Primeira Feria da Reforma Agrária", "id": "first-street-market"}
+      {"name": "Primeira Feira da Reforma Agrária", "id": "first-street-market"}
       ]
   }
 },
