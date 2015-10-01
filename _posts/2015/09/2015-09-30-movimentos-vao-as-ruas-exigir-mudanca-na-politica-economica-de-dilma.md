@@ -9,7 +9,7 @@ tags:
 title: Movimentos vão às ruas exigir mudança na política econômica de Dilma
 support_line: Um dos principais focos dos protestos será defesa Petrobras como operadora das reservas do pré-sal.
 menu: lutas e mobilizações
-section: cover
+section: featured-news
 images_hd: "http://farm6.staticflickr.com/5774/21655427280_77f1e3786c_b.jpg"
 layout: post
 files:
