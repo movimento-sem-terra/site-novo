@@ -52,6 +52,7 @@ ul.tabs {
     .item-image-content {
       @include span-columns(3);
       text-align: left;
+      margin-top: 18px;
 
       &.divisor {
         border-right: solid 1px #CFCFD0;
@@ -71,6 +72,13 @@ ul.tabs {
         font-weight: bold;
         font-size: 60px;
         line-height: 60px;
+
+      }
+      .menu{
+        font-weight: bold;
+        font-size: 40px;
+        line-height: 60px;
+  
       }
     }
 
@@ -90,10 +98,7 @@ ul.tabs {
         margin-bottom: 40px;
       }
 
-      .item-date {
-        font-size: 11px;
-        font-style: italic;
-      }
+
 
       .day-schedule {
         font-size: 30px;
@@ -107,6 +112,10 @@ ul.tabs {
         }
       }
 
+    }
+
+    .menu-content{
+      margin-left: -20px;
     }
   }
 }
