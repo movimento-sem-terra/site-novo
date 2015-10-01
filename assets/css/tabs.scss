@@ -42,48 +42,53 @@ ul.tabs {
   transition: visibility 0s linear 0.5s,opacity 0.5s linear;
   @include clearfix;
 
-  .speaker-content {
+  .item-content {
 
   	@include clearfix;
     min-height: 300px;
     padding-top: 25px;
     padding-bottom: 25px;
 
-    .speaker-image-content {
+    .item-image-content {
       @include span-columns(3);
       text-align: left;
+      margin-top: 18px;
 
       &.divisor {
         border-right: solid 1px #CFCFD0;
       }
 
-      .speaker-image {
+      .item-image {
         padding: 10px;
       }
-      .day-name,
       .bold,
-      .month {
+      .day-name{
         font-size: 30px;
         font-weight: 300;
         display: block;
       }
-      .day-name{
-        font-size: 20px;
-      }
+
       .bold{
         font-weight: bold;
         font-size: 60px;
         line-height: 60px;
+
+      }
+      .menu{
+        font-weight: bold;
+        font-size: 40px;
+        line-height: 60px;
+  
       }
     }
 
-    .speaker-description-content {
+    .item-content {
       @include span-columns(9);
       margin-left: -80px;
 
       &.divisor {
-        .speaker-description-date,
-        .speaker-description {
+        .item-date,
+        .item {
           padding-left: 20px;
         }
       }
@@ -93,12 +98,9 @@ ul.tabs {
         margin-bottom: 40px;
       }
 
-      .speaker-description-date {
-        font-size: 11px;
-        font-style: italic;
-      }
 
-      .speaker-description-title {
+
+      .day-schedule {
         font-size: 30px;
         font-weight: 300;
         margin-bottom: 30px;
@@ -110,6 +112,10 @@ ul.tabs {
         }
       }
 
+    }
+
+    .menu-content{
+      margin-left: -20px;
     }
   }
 }

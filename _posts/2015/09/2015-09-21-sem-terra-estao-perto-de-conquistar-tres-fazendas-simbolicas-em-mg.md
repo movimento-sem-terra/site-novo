@@ -24,6 +24,7 @@ releated_posts:
   - 2015/09/2015-09-11-em-pernambuco-escolas-do-campo-ajudam-a-romper-a-cerca-da-exclusao-escolar.md
   - 2015/09/2015-09-13-mst-lanca-nota-sobre-o-atual-momento-politico-e-a-reforma-agraria.md
   - 2015/06/2015-06-01-tenho-orgulho-de-ser-agricultora-de-botar-a-mao-na-terra-de-ter-minhas-maos-calejadas.md
+section: null
 
 ---
 <p><img alt="Mídia_NINJA5.jpg" src="http://farm6.staticflickr.com/5765/21577243706_79a1143e2d_b.jpg" /></p>

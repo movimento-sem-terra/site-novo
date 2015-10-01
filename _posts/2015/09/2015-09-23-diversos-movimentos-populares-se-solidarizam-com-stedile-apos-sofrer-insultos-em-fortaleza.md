@@ -76,6 +76,7 @@ Marcha Mundial das Mulheres &ndash; MMM<br />
 Uni&atilde;o Brasileira das Mulheres - UBM<br />
 Movimento Organizado dos Trabalhadores Urbanos &ndash; MOTU<br />
 Levante Popular da Juventude<br />
+Movimento dos Trabalhadores Sem Teto - MTST<br />
 Uni&atilde;o da Juventude Socialista - UJS<br />
 Rua &ndash; Juventude Anticapitalista<br />
 Coletivo O Estopim<br />
@@ -93,13 +94,50 @@ Sindicato APEOC&nbsp;<br />
 Sindicato dos Metal&uacute;rgicos do Estado do Cear&aacute; &ndash; SINDMETAL<br />
 Sindicato dos Trabalhadores do Servi&ccedil;o P&uacute;blico Federal do Cear&aacute; &ndash; SINTSEF-CE<br />
 Sindicato dos Empregados no Com&eacute;rcio de Fortaleza&nbsp;Diret&oacute;rio Central dos Estudantes &ndash; UECE<br />
+Centro de Estudos da M&iacute;dia Alternativa Bar&atilde;o de Itarar&eacute;<br />
+<span style="line-height: 20.8px;">Justi&ccedil;a Global</span><br style="line-height: 20.8px;" />
+<span style="line-height: 20.8px;">Terra Sem Males<br />
+Associa&ccedil;&atilde;o Ga&uacute;cha de Prote&ccedil;&atilde;o ao Ambiente Natural -&nbsp;</span>AGAPAN<br />
+Coletivo Trexter - Trabalhadores(as) da Extens&atilde;o Rural da Emater/RS<br />
+Movimento dos Pequenos Agricultores - MPA<br />
+Movimento de Mulheres Camponesas - MMC<br />
+Federa&ccedil;&atilde;o dos Estudantes de Agronomia do Brasil -&nbsp;<span style="line-height: 20.8px;">FEAB&nbsp;</span><br />
+Comiss&atilde;o Pastoral da Terra - CPT<br />
+Pastoral da Juventude Rural - PJR<br />
+Associa&ccedil;&atilde;o Brasileira dos Estudantes de Engenharia Florestal -&nbsp;<span style="line-height: 20.8px;">ABEEF</span><br />
+Conselho Indigenista Mission&aacute;rio - CIMI<br />
+Pescadores e Pescadoras Artesanais<br />
+Central de Trabajadores de la Argentina (CTA) Aut&oacute;noma.<br />
+ETC - M&eacute;xico<br />
 Diret&oacute;rio Central dos Estudantes - UNIFOR<br />
+<span style="line-height: 20.8px;">Chico Buarque de Hollanda</span><br />
+Paulo Assun&ccedil;&atilde;o - Vice Presidente do PT de Fortaleza<br />
 Deputado Federal Jos&eacute; Guimar&atilde;es<br />
 Deputado Estadual Elmano Freitas<br />
 Deputado Estadual Mois&eacute;s Br&aacute;z<br />
 Deputada Estadual Rachel Marques<br />
 Deputado Estadual Renato Roseno<br />
+Deputado Estadual Edegar Pretto (PT-RS)<br />
+<span style="line-height: 20.8px;">Deputada Federal Luizianne Lins (PT-CE)</span><br style="line-height: 20.8px;" />
+<span style="line-height: 20.8px;">Deputada Federal Ana Perugini (PT-SP)</span><br style="line-height: 20.8px;" />
+<span style="line-height: 20.8px;">Deputado Federal&nbsp;</span><span style="line-height: 20.8px;">Wadih Damous&nbsp;</span><span style="line-height: 20.8px;">(PT-RJ)</span><br style="line-height: 20.8px;" />
+<span style="line-height: 20.8px;">Deputado Federal&nbsp;</span><span style="line-height: 20.8px;">Valmir Assun&ccedil;&atilde;o (</span><span style="line-height: 20.8px;">PT-BA)</span><br style="line-height: 20.8px;" />
+<span style="line-height: 20.8px;">Deputado Federal&nbsp;Jo&atilde;o Daniel (PT-SE)</span><br />
+Deputado Federal Pedro Uczai (PT-SC)<br />
+Deputado Federal Padre Jo&atilde;o (PT-MG)<br />
+Deputado Federal Odorico Monteiro (PT-CE)<br />
+Deputado Federal <span style="line-height: 20.8px;">Afonso Florence (</span>PT-BA)<br />
+Deputado Estadual Tadeu Veneri &nbsp;(PT-PR)<br />
+Deputada Estadual Luciane Carminatti (PT-SC)<br />
+Deputado Federal Dionilso Marcon (PT/RS)<br />
 Vereador Jo&atilde;o Alfredo<br />
 Vereador Jovanil<br />
 Vereador Ronivaldo Maia<br />
-<span style="line-height: 20.8px;">Justi&ccedil;a Global</span></p>
+Vereador Acr&iacute;sio Sena<br />
+<span style="line-height: 20.8px;">Vereador Leonardo Giordano</span><br />
+Renato Sim&otilde;es&nbsp;<br />
+Gilney Viana</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>

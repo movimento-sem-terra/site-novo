@@ -1,7 +1,7 @@
 ---
 date: "2015-08-17T14:14:37-03:00"
 tags: []
-section: campaign
+section: null
 title: Mais de 1.200 participantes debatem a educação pública brasileira
 images_hd: "http://farm6.staticflickr.com/5756/20499563458_8fa52a99b7_b.jpg"
 support_line: Enera terá o papel de propor a construção de um novo espaço de articulação entre os trabalhadores da educação e a sociedade.
@@ -31,6 +31,7 @@ files:
 created_date: "2015-08-17T14:20:14-03:00"
 published: true
 releated_posts: []
+menu: "educação, cultura e comunicação"
 
 ---
 <p><img alt="enera3.jpg" src="http://farm6.staticflickr.com/5756/20499563458_8fa52a99b7_b.jpg" /><br />
@@ -52,6 +53,16 @@ Abaixo, confira diversas entrevistas, artigos e reportagens que trazem o debate 
 
 <p><br />
 <strong>Mat&eacute;rias do Enera:</strong></p>
+
+<p><strong><a href="http://www.mst.org.br/2015/09/23/em-brasilia-educadores-da-reforma-agraria-marcham-por-uma-educacao-publica-e-de-qualidade.html">Em Bras&iacute;lia, educadores da Reforma Agr&aacute;ria marcham por uma educa&ccedil;&atilde;o p&uacute;blica e de qualidade</a></strong></p>
+
+<p><strong><a href="http://www.mst.org.br/2015/09/24/2o-enera-mostra-que-temos-condicoes-de-reconstruir-os-processos-educativos-diz-educador.html" target="_blank">&ldquo;2&ordm; Enera mostra que temos condi&ccedil;&otilde;es de reconstruir os processos educativos&rdquo;, diz educador</a></strong></p>
+
+<p><strong><a href="http://www.mst.org.br/2015/09/23/educadores-da-reforma-agraria-ocupam-a-esplanada-dos-ministerios.html">Educadores da Reforma Agr&aacute;ria ocupam a Esplanada dos Minist&eacute;rios</a></strong></p>
+
+<p><strong><a href="http://www.mst.org.br/2015/09/22/2o-enera-destaca-papel-das-escolas-do-campo-na-producao-de-alimentos-saudaveis.html">Educadores destacam papel das escolas do campo na produ&ccedil;&atilde;o de alimentos saud&aacute;veis</a></strong></p>
+
+<p><a href="http://www.mst.org.br/2015/09/22/mercantilizacao-da-educacao-brasileira-e-alvo-de-critica-em-encontro-de-educadores.html"><strong>Mercantiliza&ccedil;&atilde;o da educa&ccedil;&atilde;o brasileira &eacute; alvo de cr&iacute;tica em encontro de educadores</strong></a></p>
 
 <p><strong><a href="http://www.mst.org.br/2015/09/21/abertura-2-enenra-construimos-a-ideia-de-que-a-libertacao-depende-do-povo-controlar-em-primeiro-lugar-o-conhecimento.html">2&deg; Enera re&uacute;ne mais de 1500 educadoras e educadores do campo em Goi&aacute;s</a></strong></p>
 
