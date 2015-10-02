@@ -13,6 +13,9 @@ section.featured-banner{
     overflow: hidden;
     width: 346px;
     position: relative;
+    &.campaign {
+      margin-top: 24px;
+    }
     & > ul > li:first-child {
       -webkit-transition: margin-left 0.5s ease;
       -moz-transition: margin-left 0.5s ease;
@@ -90,6 +93,9 @@ section.featured-banner{
         img {
           width: 346px;
           height: 320px;
+          &.campaign-image {
+            height: 380px;
+          }
         }
       }
     }
