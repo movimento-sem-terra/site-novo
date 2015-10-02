@@ -68,6 +68,9 @@
     min-height: 410px;
     background: url(../img/feira-reforma-agraria/banner_site.jpg) no-repeat center center;
         background-size: 100% 100%;
+    @include media($mobile){
+      min-height: 200px;
+    }
 
     .content {
       margin-top: 49px;
@@ -103,6 +106,9 @@
         font-weight: 300;
         padding: 10px;
         font-size: 1.3em;
+      }
+      @include media($mobile) {
+        @include span-columns(12);
       }
     }
 
