@@ -63,35 +63,10 @@
     }
   }
 
-  #about {
-    padding-bottom: 36px;
-    overflow: hidden;
-    min-height: 410px;
-    background: url(../img/feira-reforma-agraria/banner_site.jpg) no-repeat center center;
-        background-size: 100% 100%;
-    @include media($mobile){
-      min-height: 200px;
-    }
 
-    .content {
-      margin-top: 49px;
-      @extend .default-container;
-      & > p{
-        @extend .text-with-shadow;
-        font-size: 18px;
-      }
 
-      .title {
-        @extend .title-with-shadow;
-        font-size: 36px;
-        font-style: italic;
 
-        @include media($mobile) {
-          padding: 10px;
-        }
-      }
-    }
-  }
+
 
   .description {
     @extend .default-container;
