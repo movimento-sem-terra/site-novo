@@ -66,6 +66,7 @@ releated_posts:
   - 2015/02/2015-02-05-producao-de-assentados-no-parana-atendera-5-mil-pessoas-no-ano.md
   - 2015/05/2015-05-12-com-metodo-cubano-sem-terra-zeram-analfabetismo-em-sete-assentamentos-da-bahia.md
 label: special-stories
+special-page: first-street-market
 
 ---
 <p><img alt="Reforma!!.jpg" src="http://farm6.staticflickr.com/5540/18861562011_b9d30dbd77_b.jpg" /></p>
