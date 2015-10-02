@@ -41,6 +41,10 @@ ul.tabs {
   margin-top: 10px;
   transition: visibility 0s linear 0.5s,opacity 0.5s linear;
   @include clearfix;
+  @include media($mobile) {
+    padding-left: $padding-mobile;
+    padding-right: $padding-mobile;
+  }
 
   .item-content {
 
@@ -53,6 +57,9 @@ ul.tabs {
       @include span-columns(3);
       text-align: left;
       margin-top: 10px;
+      @include media($mobile) {
+        @include span-columns(12);
+      }
 
       &.divisor {
         border-right: solid 1px #CFCFD0;
@@ -74,7 +81,7 @@ ul.tabs {
         line-height: 60px;
 
       }
-      .menu{
+      .region{
         font-weight: bold;
         font-size: 35px;
         line-height: 60px;
@@ -85,6 +92,10 @@ ul.tabs {
     .item-content {
       @include span-columns(9);
       margin-left: -80px;
+      @include media($mobile) {
+        @include span-columns(12);
+        margin-left: 0;
+      }
 
       &.divisor {
         .item-date,

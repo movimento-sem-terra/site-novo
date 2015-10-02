@@ -22,6 +22,8 @@ $font-family-base: 'Exo 2', Helvetica, Arial, sans-serif;
 
 $line-height-base: 1.428571429;
 
+$padding-mobile: 5%;
+
 $screen-xs: 480px;
 $screen-sm: 768px;
 $screen-md: 1090px;
@@ -30,6 +32,7 @@ $screen-big: 1400px;
 /* breakpoints */
 
 $desktop: new-breakpoint(min-width $screen-sm);
+$tablet: new-breakpoint(max-width $screen-sm + 1);
 $mobile: new-breakpoint(max-width $screen-sm);
 
 $home_screen_big: 65%;
@@ -38,3 +41,4 @@ $home_screen_small: 100%;
 
 $border: 1px solid #ddd;
 $border-flat: 2px dotted #999;
+

@@ -5,7 +5,11 @@
 @import "../neat/neat";
 @import "../_sass/variables";
 
+
+ 
+
 //EXTENDS
+
 .center{
   max-width: 1020px;
   margin: 0 auto;
@@ -33,15 +37,7 @@
 }
 //END
 
-/*
 
-    background: url(../img/nossa-producao/background.jpg) no-repeat center center fixed;
-        background-size: 100% 100%;
-            -webkit-background-size: cover;
-                -moz-background-size: cover;
-                    -o-background-size: cover;
-                        background-size: cover;
-*/
 
 #special {
   padding: 0;
@@ -53,8 +49,13 @@
 
   .releated {
     @extend .default-container;
-
-
+    @include media($mobile){
+      h2{
+        padding-left: $padding-mobile;
+        padding-right: $padding-mobile;
+      }
+    }
+        
     .container .item {
       @include media($screen-big) {
         width: 30%;
@@ -100,15 +101,28 @@
       @include span-columns(6);
       overflow: hidden;
       float: left;
+
       p {
         font: 500 18px / 24px;
         color: $gray-dark;
         font-weight: 300;
         padding: 10px;
         font-size: 1.3em;
+        @include media($mobile) {
+          padding: 0;
+        }
       }
+
       @include media($mobile) {
         @include span-columns(12);
+        padding-left: $padding-mobile;
+        padding-right: $padding-mobile;
+        margin-top: 0;
+        h1{
+          padding-top: $padding-mobile;
+          padding-bottom: $padding-mobile;
+        }
+
       }
     }
 
@@ -123,6 +137,10 @@
     display: flex;
     justify-content: center;
 
+    @include media($mobile) {
+      padding-bottom: 10px !important;
+    }
+
     .content{
       @extend .default-container;
       display: flex;
@@ -134,20 +152,6 @@
         text-decoration: underline;
       }
 
-      // #date{
-      //   @extend .title-with-shadow;
-      //   @include span-columns(5);
-      //   font-size: 3em;
-      //   margin-top: 0;
-      //   margin-bottom: 0;
-      //   min-width: 235px;
-      //   text-align: center;
-      //   align-self: center;
-      //
-      //   @include media($mobile) {
-      //     @include span-columns(12);
-      //   }
-      // }
 
       #place{
         align-self: center;
@@ -158,6 +162,8 @@
         text-align: center;
         @include media($mobile) {
           @include fill-parent();
+          font-size: .8em;
+
         }
       }
     }
