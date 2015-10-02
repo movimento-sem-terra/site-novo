@@ -75,6 +75,12 @@ files:
 created_date: "2015-01-15T14:46:13-02:00"
 published: true
 images_hd: "http://farm8.staticflickr.com/7468/15664540334_6f0dae4842_n.jpg"
+special-page: first-street-market
+releated_posts:
+  - 2015/09/2015-09-29-cortar-ministerios-e-tirar-da-agenda-do-governo-a-maioria-do-povo-brasileiro.md
+  - 2015/09/2015-09-29-apos-oito-anos-sem-terra-comemoram-conquista-de-area-na-bahia.md
+  - 2015/06/2015-06-02-sem-terra-doam-50-mil-litros-de-leite-para-banco-de-alimentos-de-sc.md
+  - 2014/12/2014-12-16-sem-terra-celebram-seis-meses-de-luta-com-colheita-da-producao.md
 
 ---
 <p style="text-align:center"><img alt="cooperunião.jpg" src="http://farm8.staticflickr.com/7468/15664540334_6f0dae4842_b.jpg" /></p>
