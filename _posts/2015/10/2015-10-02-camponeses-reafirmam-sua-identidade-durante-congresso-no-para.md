@@ -51,7 +51,7 @@ releated_posts:
 <p><em>Por Viviane Br&iacute;gida<br />
 Da P&aacute;gina do MST</em></p>
 
-<p><em>Fotos: Pilar Oliva e Icaro Matos</em></p>
+<p><em>Fotos: Jean Brito e &Iacute;caro Matos</em></p>
 
 <p>&nbsp;</p>
 
@@ -73,7 +73,7 @@ Para N&iacute;vea Regina do MST-RJ, que tamb&eacute;m participou do evento, o CB
 &ldquo;Estar presente nesses espa&ccedil;os &eacute; disputar tanto ideologicamente quanto cientificamente os debates. A regi&atilde;o amaz&ocirc;nica &eacute; de grande import&acirc;ncia devido a sua centralidade no hist&oacute;rico de luta e desenvolvimento agr&aacute;rio do pa&iacute;s. Os sujeitos aqui presentes, devido a sua ampla diversidade, tem muito o que contribuir para a Via Campesina Brasil&rdquo;, disse Regina.</p>
 
 <p><br />
-De acordo com Charles Trocate, do Movimento dos Atingidos pela Minera&ccedil;&atilde;o (MAB-PA), esse tipo de espa&ccedil;o fortalece a constru&ccedil;&atilde;o da Via Campesina em uma regi&atilde;o t&atilde;o central quanto a Amaz&ocirc;nia.<br />
+De acordo com Charles Trocate, do Movimento dos Atingidos pela Minera&ccedil;&atilde;o (MAM-PA), esse tipo de espa&ccedil;o fortalece a constru&ccedil;&atilde;o da Via Campesina em uma regi&atilde;o t&atilde;o central quanto a Amaz&ocirc;nia.<br />
 <br />
 &ldquo;Espa&ccedil;os como esse em que nos encontramos para discutir nossos desafios, deveriam ser frequentes, porque isso nos possibilita fazer uma an&aacute;lise partindo da perspectiva de cada sujeito que est&aacute; na constru&ccedil;&atilde;o di&aacute;ria de seus movimentos, tendo em vista a diversidade de sujeitos hist&oacute;ricos presentes na regi&atilde;o&rdquo;, afirmou Trocate.&nbsp;</p>
 
@@ -85,7 +85,7 @@ Durante todo o encontro foram feitas rodas de conversa dedicadas a trocas de con
 <p><br />
 O representante da Via Campesina, Sebasti&atilde;o Lopes e do Sistema Agroecol&oacute;gico de Produ&ccedil;&atilde;o Org&acirc;nica (Sapo), que fica localizado no assentamento Jo&atilde;o Batista, afirmou que devemos ter o compromisso de comer alimentos saud&aacute;veis.&nbsp;<br />
 <br />
-&ldquo;A agroecologia &eacute; a vis&atilde;o que veio dar certo. Somos capazes de buscar uma nova hist&oacute;ria do emp&iacute;rico com a t&eacute;cnica. Usar os recursos naturais dispon&iacute;veis no lote. Ter diversidade alimentar e comer uma produ&ccedil;&atilde;o que n&atilde;o seja do enlatado.&rdquo; Declara Lopes&rdquo;, finalizou.&nbsp;</p>
+&ldquo;A agroecologia &eacute; a vis&atilde;o que veio dar certo. Somos capazes de buscar uma nova hist&oacute;ria do emp&iacute;rico com a t&eacute;cnica. Usar os recursos naturais dispon&iacute;veis no lote. Ter diversidade alimentar e comer uma produ&ccedil;&atilde;o que n&atilde;o seja do enlatado&rdquo;, declara Lopes.&nbsp;</p>
 
 <p><img alt="JEAN BRITO (6).JPG" height="467" src="http://farm6.staticflickr.com/5763/21274316903_925b9a0ea6_b.jpg" width="700" /></p>
 
