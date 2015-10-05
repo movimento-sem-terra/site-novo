@@ -64,7 +64,7 @@ H&aacute; anos o MST denuncia sistematicamente a Ouvidoria Agr&aacute;ria Nacion
 <p><strong>Hist&oacute;rico&nbsp;</strong></p>
 
 <p><br />
-A Fazenda Cambar&aacute; &eacute; gerenciada por Marcos Bengtson, filho de Josu&eacute; Bengtson. O fazendeiro &eacute; r&eacute;u no processo que apura a morte do trabalhador rural Jos&eacute; Valmeristo Soares (o Carib&eacute;), assassinado em setembro de 2010.</p>
+A Fazenda Cambar&aacute; &eacute; gerenciada por Marcos&nbsp;Bengtson, filho de Josu&eacute; Bengtson. O fazendeiro &eacute; r&eacute;u no processo que apura a morte do trabalhador rural Jos&eacute; Valmeristo Soares (o Carib&eacute;), assassinado em setembro de 2010.</p>
 
 <p><br />
 A situa&ccedil;&atilde;o de conflito vem aumentado desde que a a&ccedil;&atilde;o de reintegra&ccedil;&atilde;o de posse foi julgada e negada em 2014. Na &eacute;poca&nbsp;foi comprovada que a &aacute;rea &eacute; pertencente &agrave; Uni&atilde;o.<br />
@@ -72,7 +72,7 @@ A situa&ccedil;&atilde;o de conflito vem aumentado desde que a a&ccedil;&atilde;
 Ap&oacute;s a comprova&ccedil;&atilde;o o Instituto de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra), realizou vistoria na &aacute;rea. Dias depois, a demarca&ccedil;&atilde;o feita pelo &oacute;rg&atilde;o foi destru&iacute;da a mando do fazendeiro.</p>
 
 <p><br />
-Marcos Bengtsontamb&eacute;m &eacute; um dos principais envolvidos na M&aacute;fia dos Sanguessugas, conhecida como m&aacute;fia das ambul&acirc;ncia. Esc&acirc;ndalo de corrup&ccedil;&atilde;o que veio &agrave; tona em 2006&nbsp;que descobriu uma quadrilha que desviava dinheiro p&uacute;blico destinado &agrave; compra de ambul&acirc;ncias.</p>
+Josu&eacute; Bengtson tamb&eacute;m &eacute; um dos principais envolvidos na M&aacute;fia dos Sanguessugas, conhecida como m&aacute;fia das ambul&acirc;ncia. Esc&acirc;ndalo de corrup&ccedil;&atilde;o que veio &agrave; tona em 2006&nbsp;que descobriu uma quadrilha que desviava dinheiro p&uacute;blico destinado &agrave; compra de ambul&acirc;ncias.</p>
 
 <p><br />
 O MST e SDDH (Sociedade Paraense em Defesa dos Direitos Humanos) far&aacute; nesta ter&ccedil;a-feira (06), uma coletiva de imprensa na sede da <span style="color: rgb(68, 68, 68); font-family: arial, sans-serif; line-height: 14.6545px;">Confer&ecirc;ncia Nacional dos Bispos do Brasil (</span>CNBB), em Bel&eacute;m, para denunciar &nbsp;o caso e exigir provid&ecirc;ncias efetivas.</p>
