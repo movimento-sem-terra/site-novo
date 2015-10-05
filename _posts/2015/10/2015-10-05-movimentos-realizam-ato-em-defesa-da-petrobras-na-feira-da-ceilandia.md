@@ -6,7 +6,7 @@ tags:
   - tag: Ceilândia
   - tag: Pré-sal
 title: Movimentos realizam ato em defesa da Petrobras na feira da Ceilândia
-support_line: "Um dos objetivosdo ato  foi denunciar o projeto de lei 131/2015, de autoria do senador José Serra (PSDB-SP), que pretende tirar da Petrobras a função de operadora única do pré-sal."
+support_line: "Um dos objetivos do ato  foi denunciar o projeto de lei 131/2015, de autoria do senador José Serra (PSDB-SP), que pretende tirar da Petrobras a função de operadora única do pré-sal."
 images_hd: "http://farm1.staticflickr.com/739/21780588608_6796ca9461_b.jpg"
 menu: lutas e mobilizações
 layout: post
