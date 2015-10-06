@@ -5,7 +5,7 @@ tags:
   - tag: agricultura-camponesa
   - tag: reforma-agrária
   - tag: produção
-title: "Hortas orgânicas: mais que alternativa, um modo de vida de assentadas da Reforma Agrária no RS"
+title: "Hortas orgânicas: mais que alternativa, um modo de vida de assentadas da Reforma Agrária"
 images_hd: "http://farm1.staticflickr.com/713/21811236798_15d19a6f5a_b.jpg"
 section: cover
 menu: reforma agrária
@@ -82,7 +82,7 @@ Inseridas num objetivo coletivo, onde a terra cumpre com a sua fun&ccedil;&atild
 <p>&nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="A assentada Marli Lopes Pereira conta que a sua opção por orgânicos se deu pela conscientização de que é preciso preservar o meio ambiente e propiciar à população uma vida mais saudável!.jpg" src="http://farm6.staticflickr.com/5623/21376381174_a5704af791_b.jpg" />
-<figcaption>Conforme Sandra Nunes Rodrigues, assistente social da Coptec, somente em Nova Santa Rita, as mulheres est&atilde;o na linha de frente na produ&ccedil;&atilde;o de hortali&ccedil;as</figcaption>
+<figcaption>Marli come&ccedil;ou a produ&ccedil;&atilde;o de org&acirc;nicos por causa do meio ambiente e da popula&ccedil;&atilde;o.</figcaption>
 </figure>
 
 <p>Este &eacute; o caso de Marli Lopes Pereira, 47 anos, natural do munic&iacute;pio de Planalto, na regi&atilde;o Norte do RS. Ela esteve na condi&ccedil;&atilde;o de acampada por seis anos em Arroio dos Ratos, at&eacute; que em 2005, junto a dezenas de fam&iacute;lias, realizou seu sonho de conquistar um lote, onde mora com o esposo e cinco filhos, e investe na produ&ccedil;&atilde;o de hortali&ccedil;as org&acirc;nicas.</p>
@@ -106,8 +106,11 @@ A op&ccedil;&atilde;o de Marli por org&acirc;nicos se deu pela conscientiza&cced
 &ldquo;O ser humano &eacute; cruel, se ele puder desmatar, desmata; se puder botar veneno, ele bota; se puder destruir, ele destr&oacute;i. E com a produ&ccedil;&atilde;o org&acirc;nica estamos tentando fazer a nossa parte, n&atilde;o poluindo, n&atilde;o destruindo. Eu quero passar esse ensinamento aos meus filhos, porque eu n&atilde;o vou durar para sempre, e desejo que eles continuem nessa miss&atilde;o&rdquo;, disse.<br />
 &nbsp;</p>
 
-<p><img alt="Ana 2.jpg" src="http://farm1.staticflickr.com/726/21811263858_b92e42d81c_b.jpg" /><br />
-<br />
+<figure class="image"><img alt="Ana 2.jpg" src="http://farm1.staticflickr.com/726/21811263858_b92e42d81c_b.jpg" />
+<figcaption>Ana Gisel Borba trabalha com horta org&acirc;nica h&aacute; 10 anos, desde o seu primeiro ano de assentada</figcaption>
+</figure>
+
+<p><br />
 <strong>Feira Org&acirc;nica de Canoas</strong></p>
 
 <p><br />
@@ -146,7 +149,7 @@ A assentada lembra que a proposta das cestas surgiu em 2010, a partir de debates
 <p>&nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="As assentadas comercializam sua produção através do PAA, PNAE e Feiras da região Metropolitana de Porto Alegre.jpg" src="http://farm1.staticflickr.com/609/21376279874_1626cd48d3_b.jpg" />
-<figcaption>As assentadas comercializam sua produ&ccedil;&atilde;o atrav&eacute;s do PAA, PNAE e Feiras da regi&atilde;o Metropolitana de Porto Alegre.</figcaption>
+<figcaption>Assentadas comercializam produ&ccedil;&atilde;o atrav&eacute;s do PAA, PNAE e Feiras.</figcaption>
 </figure>
 
 <p>De acordo a assentada, a sua op&ccedil;&atilde;o pela produ&ccedil;&atilde;o org&acirc;nica &eacute; fruto das jornadas de lutas da Via Campesina, vivenciadas enquanto acampada e assentada da Reforma Agr&aacute;ria, fator que contribuiu para o enraizamento de centenas de mulheres nesse tipo de cultivo.&nbsp;</p>
@@ -172,7 +175,7 @@ Juntos, os quatro assentamentos possuem em torno de 60 hectares de hortas e 150 
 <p>&nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="80 famílias assentadas que possuem certificação orgânica entregam através do PAA 33 tipos de produtos, totalizando 247.304 quilos de alimentos..jpg" src="http://farm6.staticflickr.com/5678/21376305024_27eefbd4b6_b.jpg" />
-<figcaption>80 fam&iacute;lias com 80 fam&iacute;lias assentadas que possuem certifica&ccedil;&atilde;o org&acirc;nica entregam atrav&eacute;s do PAA 33 tipos de produtos, totalizando 247.304 quilos de alimentos..jpgque possuem certifica&ccedil;&atilde;o org&acirc;nica entregam atrav&eacute;s do PAA 33 tipos de produtos, totalizando 247.304 quilos de alimentos..jpg</figcaption>
+<figcaption>80 fam&iacute;lias entregam pelo PAA 33 tipos de produtos ou 247.304 quilos de alimentos.</figcaption>
 </figure>
 
 <p>Os trabalhos de assist&ecirc;ncia e extens&atilde;o rural acontecem por meio do acompanhamento t&eacute;cnico, social e ambiental junto &agrave;s fam&iacute;lias, que recebem visitas de profissionais da Coptec pelo menos tr&ecirc;s vezes por ano.&nbsp;</p>
