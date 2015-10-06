@@ -31,6 +31,7 @@ releated_posts:
   - 2015/09/2015-09-11-no-ms-a-questao-indigena-e-um-barril-de-polvora-prestes-a-explodir.md
   - 2015/09/2015-09-15-nos-somos-as-vitimas-do-maior-genocidio-da-humanidade-denuncia-militante-indigena.md
   - 2015/09/2015-09-16-parlamentares-ruralistas-teriam-incentivado-ataques-contra-guarani-kaiowa.md
+section: cover
 
 ---
 <p><img alt="plenario_indigenas_escuro.jpg" src="http://farm6.staticflickr.com/5782/21804543950_6713e9d4fc_b.jpg" /><br />
