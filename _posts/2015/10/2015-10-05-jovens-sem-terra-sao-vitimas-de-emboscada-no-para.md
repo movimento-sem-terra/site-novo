@@ -8,7 +8,7 @@ tags:
 title: Jovens Sem Terra são vítimas de emboscada no Pará
 support_line: Um jovem levou um tiro de raspão e outro foi ferido com coronhadas no rosto.
 menu: direitos humanos
-images_hd: "http://farm1.staticflickr.com/659/21979918931_b38c9a9842_b.jpg"
+images_hd: "http://farm6.staticflickr.com/5713/21992736885_a87204401a_b.jpg"
 layout: post
 files:
   - link: "http://farm1.staticflickr.com/659/21979918931_b38c9a9842_b.jpg"
@@ -23,6 +23,12 @@ files:
     small: "http://farm1.staticflickr.com/616/21782282928_7818a96caf_n.jpg"
     title: entrevista coletiva 09 de 2010 (1).JPG
     $$hashKey: 0OS
+  - link: "http://farm6.staticflickr.com/5713/21992736885_a87204401a_b.jpg"
+    thumbnail: "http://farm6.staticflickr.com/5713/21992736885_a87204401a_t.jpg"
+    medium: "http://farm6.staticflickr.com/5713/21992736885_a87204401a_z.jpg"
+    small: "http://farm6.staticflickr.com/5713/21992736885_a87204401a_n.jpg"
+    title: acampamento Quintino Lira- Pará.jpg
+    $$hashKey: 0FR
 created_date: "2015-10-05T12:41:55-03:00"
 published: true
 releated_posts:
