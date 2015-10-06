@@ -9,7 +9,7 @@ title: Primeiros atos da Frente Brasil Popular pelo país defenderam a Petrobras
 support_line: "Com manifestações pela manhã e tarde, milhares de pessoas saíram às ruas para defender a democracia e se posicionar contra a privatização da maior estatal brasileira, a Petrobras."
 menu: lutas e mobilizações
 images_hd: "http://farm6.staticflickr.com/5618/21780082298_c83b44c3c0_b.jpg"
-section: cover
+section: featured-news
 layout: post
 files:
   - link: "http://farm1.staticflickr.com/669/21780019658_bf717b082a_b.jpg"
