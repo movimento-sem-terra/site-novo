@@ -70,6 +70,8 @@ releated_posts:
 <em>Por Catiana de Medeiros<br />
 Da P&aacute;gina do MST</em></p>
 
+<p><em>Fotos:&nbsp;<span style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px; line-height: normal;">Daniel Piovesan</span></em></p>
+
 <p><br />
 A vida de dezenas de fam&iacute;lias assentadas da Reforma Agr&aacute;ria no assentamento Santa Rita de C&aacute;ssia II, localizado no munic&iacute;pio de Nova Santa Rita, na regi&atilde;o Metropolitana de Porto Alegre (RS), ganhou novo sentido desde que conquistaram um peda&ccedil;o de terra, em 2005, e come&ccedil;aram a investir na produ&ccedil;&atilde;o de hortas org&acirc;nicas.</p>
 
