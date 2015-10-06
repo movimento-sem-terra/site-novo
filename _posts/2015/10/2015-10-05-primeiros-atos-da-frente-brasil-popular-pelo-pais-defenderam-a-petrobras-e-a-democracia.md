@@ -5,6 +5,7 @@ tags:
   - tag: Frente-Brasil-Popular
   - tag: democracia
   - tag: lutas-e-mobilizações
+  - tag: ajuste-fiscal
 title: Primeiro ato da Frente Brasil Popular pelo país defende a Petrobras e a democracia
 support_line: "Com manifestações pela manhã e tarde, milhares de pessoas saíram às ruas para defender a democracia e se posicionar contra a privatização da maior estatal brasileira, a Petrobras."
 menu: lutas e mobilizações
@@ -39,7 +40,14 @@ files:
 created_date: "2015-10-05T10:48:56-03:00"
 published: true
 releated_posts:
+  - 2015/09/2015-09-30-movimentos-vao-as-ruas-exigir-mudanca-na-politica-economica-de-dilma.md
   - 2015/09/2015-09-30-plenaria-da-frente-brasil-popular-mobiliza-movimentos-sociais-e-organizacoes-sindicais-no-rs.md
+  - 2015/06/2015-06-30-petrobras-e-os-interesses-em-jogo.md
+  - 2015/06/2015-06-30-movimentos-sociais-lancam-manifesto-em-defesa-da-petrobras.md
+  - 2015/06/2015-06-16-seis-motivos-para-manter-a-petrobras-como-operadora-unica-na-area-do-pre-sal.md
+  - 2015/09/2015-09-06-movimentos-batem-o-martelo-e-lancam-a-frente-brasil-popular.md
+  - 2015/09/2015-09-29-contra-ajuste-economistas-querem-emprego-e-renda-no-centro-da-politica-economica.md
+  - 2015/09/2015-09-30-frente-brasil-popular-a-defesa-da-petrobras-e-os-interesses-internacionais-em-disputa.md
 
 ---
 <p><img alt="ArwEHcfzA51yT_tOJb_8D21fT3URm9v_doEy0Vj6jMvq.jpg" height="394" src="http://farm6.staticflickr.com/5649/21781023109_88b4424ed9_b.jpg" width="700" /></p>
