@@ -103,9 +103,11 @@ O trabalho de Marli na horta &eacute; di&aacute;rio, e com o apoio da fam&iacute
 A op&ccedil;&atilde;o de Marli por org&acirc;nicos se deu pela conscientiza&ccedil;&atilde;o de que &eacute; preciso preservar o meio ambiente e a natureza, e propiciar &agrave; sua fam&iacute;lia e &agrave; popula&ccedil;&atilde;o uma vida mais saud&aacute;vel.</p>
 
 <p><br />
-&ldquo;O ser humano &eacute; cruel, se ele puder desmatar, desmata; se puder botar veneno, ele bota; se puder destruir, ele destr&oacute;i. E com a produ&ccedil;&atilde;o org&acirc;nica estamos tentando fazer a nossa parte, n&atilde;o poluindo, n&atilde;o destruindo. Eu quero passar esse ensinamento aos meus filhos, porque eu n&atilde;o vou durar para sempre, e desejo que eles continuem nessa miss&atilde;o&rdquo;, disse.</p>
+&ldquo;O ser humano &eacute; cruel, se ele puder desmatar, desmata; se puder botar veneno, ele bota; se puder destruir, ele destr&oacute;i. E com a produ&ccedil;&atilde;o org&acirc;nica estamos tentando fazer a nossa parte, n&atilde;o poluindo, n&atilde;o destruindo. Eu quero passar esse ensinamento aos meus filhos, porque eu n&atilde;o vou durar para sempre, e desejo que eles continuem nessa miss&atilde;o&rdquo;, disse.<br />
+&nbsp;</p>
 
-<p><br />
+<p><img alt="Ana 2.jpg" src="http://farm1.staticflickr.com/726/21811263858_b92e42d81c_b.jpg" /><br />
+<br />
 <strong>Feira Org&acirc;nica de Canoas</strong></p>
 
 <p><br />
@@ -121,7 +123,13 @@ Os alimentos produzidos pela fam&iacute;lia de Ana est&atilde;o em processo de c
 &ldquo;Nunca tivemos a inten&ccedil;&atilde;o de trabalhar com venenos, e como h&aacute; demanda para produtos naturais, logo que assentados come&ccedil;amos a investir nesse tipo de produ&ccedil;&atilde;o. As pessoas preferem adquirir nossos alimentos que ir ao supermercado comprar, porque sabem que o que &eacute; produzido aqui n&atilde;o cont&eacute;m veneno. Isso &eacute; uma grande motiva&ccedil;&atilde;o para continuarmos apostando nos org&acirc;nicos e oferecendo &agrave; popula&ccedil;&atilde;o produtos saud&aacute;veis&rdquo;, complementa.</p>
 
 <p><br />
-<strong>Cestas org&acirc;nicas</strong></p>
+&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="Conforme Sandra Nunes Rodrigues, assistente social da Coptec, somente em Nova Santa Rita, as mulheres estão na linha de frente na produção de hortaliças.jpg" src="http://farm6.staticflickr.com/5723/21376369054_267cf14532_b.jpg" />
+<figcaption>Rodrigues comenta sorbe o papel das mulheres de Nova Santa Rita estarem na linha de frente.</figcaption>
+</figure>
+
+<p><strong>Cestas org&acirc;nicas</strong></p>
 
 <p><br />
 Gabriela Severo de Souza, 37 anos, natural de Ros&aacute;rio do Sul, na regi&atilde;o Fronteira Oeste do RS, iniciou a sua produ&ccedil;&atilde;o na horta em 2006, um ano ap&oacute;s ter conquistado seu peda&ccedil;o de terra, tamb&eacute;m no assentamento Santa Rita de C&aacute;ssia II.&nbsp;</p>
@@ -135,8 +143,13 @@ A assentada lembra que a proposta das cestas surgiu em 2010, a partir de debates
 <p><br />
 &ldquo;Quando entregamos as cestas debatemos com os consumidores sobre os modelos de produ&ccedil;&atilde;o e o que est&aacute; sendo feito em rela&ccedil;&atilde;o &agrave;s pol&iacute;ticas p&uacute;blicas para o campo e os bens naturais. &Eacute; um di&aacute;logo permanente, onde tamb&eacute;m tem espa&ccedil;o para a m&iacute;stica do MST e atividades de integra&ccedil;&atilde;o, confraterniza&ccedil;&atilde;o e manejo&rdquo;, argumenta Gabriela.</p>
 
-<p><br />
-De acordo a assentada, a sua op&ccedil;&atilde;o pela produ&ccedil;&atilde;o org&acirc;nica &eacute; fruto das jornadas de lutas da Via Campesina, vivenciadas enquanto acampada e assentada da Reforma Agr&aacute;ria, fator que contribuiu para o enraizamento de centenas de mulheres nesse tipo de cultivo.&nbsp;</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="As assentadas comercializam sua produção através do PAA, PNAE e Feiras da região Metropolitana de Porto Alegre.jpg" src="http://farm1.staticflickr.com/609/21376279874_1626cd48d3_b.jpg" />
+<figcaption>As assentadas comercializam sua produ&ccedil;&atilde;o atrav&eacute;s do PAA, PNAE e Feiras da regi&atilde;o Metropolitana de Porto Alegre.</figcaption>
+</figure>
+
+<p>De acordo a assentada, a sua op&ccedil;&atilde;o pela produ&ccedil;&atilde;o org&acirc;nica &eacute; fruto das jornadas de lutas da Via Campesina, vivenciadas enquanto acampada e assentada da Reforma Agr&aacute;ria, fator que contribuiu para o enraizamento de centenas de mulheres nesse tipo de cultivo.&nbsp;</p>
 
 <p><br />
 &ldquo;A nossa tomada de consci&ecirc;ncia sobre a produ&ccedil;&atilde;o de org&acirc;nicos se d&aacute; atrav&eacute;s das lutas, onde obtivemos grandes aprendizados que fortalecem e reafirmam a possibilidade que temos hoje de tocar nossas hortas, permanecer na terra e assim criar os nossos filhos&rdquo;, destaca.</p>
@@ -156,8 +169,13 @@ Ana, Marli e Gabriela recebem assist&ecirc;ncia t&eacute;cnica da Coptec, que ta
 <p><br />
 Juntos, os quatro assentamentos possuem em torno de 60 hectares de hortas e 150 fam&iacute;lias est&atilde;o envolvidas nesse tipo de produ&ccedil;&atilde;o. Deste total, 80 hortas j&aacute; s&atilde;o reconhecidas como org&acirc;nicas, certificadas pela OCS-Coceargs, e outras 50 est&atilde;o em processo de transi&ccedil;&atilde;o.</p>
 
-<p><br />
-Os trabalhos de assist&ecirc;ncia e extens&atilde;o rural acontecem por meio do acompanhamento t&eacute;cnico, social e ambiental junto &agrave;s fam&iacute;lias, que recebem visitas de profissionais da Coptec pelo menos tr&ecirc;s vezes por ano.&nbsp;</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="80 famílias assentadas que possuem certificação orgânica entregam através do PAA 33 tipos de produtos, totalizando 247.304 quilos de alimentos..jpg" src="http://farm6.staticflickr.com/5678/21376305024_27eefbd4b6_b.jpg" />
+<figcaption>80 fam&iacute;lias com 80 fam&iacute;lias assentadas que possuem certifica&ccedil;&atilde;o org&acirc;nica entregam atrav&eacute;s do PAA 33 tipos de produtos, totalizando 247.304 quilos de alimentos..jpgque possuem certifica&ccedil;&atilde;o org&acirc;nica entregam atrav&eacute;s do PAA 33 tipos de produtos, totalizando 247.304 quilos de alimentos..jpg</figcaption>
+</figure>
+
+<p>Os trabalhos de assist&ecirc;ncia e extens&atilde;o rural acontecem por meio do acompanhamento t&eacute;cnico, social e ambiental junto &agrave;s fam&iacute;lias, que recebem visitas de profissionais da Coptec pelo menos tr&ecirc;s vezes por ano.&nbsp;</p>
 
 <p><br />
 Organizadas no Grupo Gestor das Hortas, Frutas e Plantas Medicinais, as fam&iacute;lias assentadas recebem orienta&ccedil;&otilde;es que envolvem desde a forma&ccedil;&atilde;o, como cursos, dia de campo e semin&aacute;rios, at&eacute; o plantio, certifica&ccedil;&atilde;o org&acirc;nica e comercializa&ccedil;&atilde;o.</p>
