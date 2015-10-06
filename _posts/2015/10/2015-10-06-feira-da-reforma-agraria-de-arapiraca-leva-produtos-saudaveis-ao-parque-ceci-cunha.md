@@ -45,6 +45,9 @@ Organizada pelo MST, a Feira, j&aacute; enraizada do calend&aacute;rio de Macei&
 S&atilde;o toneladas de produtos vindos diretamente da ro&ccedil;a, comercializados pelos pr&oacute;prios camponeses, direto para a mesa de quem est&aacute; na cidade. Tudo produzido em harmonia com o meio ambiente, sem a utiliza&ccedil;&atilde;o de veneno e vendido abaixo do pre&ccedil;o convencional.</p>
 
 <p><br />
+<strong><a href="http://www.mst.org.br/feira-reforma-agraria/" target="_blank">Veja informa&ccedil;&otilde;es sobre a 1&deg; Feira Nacional da Reforma Agr&aacute;ria, em S&atilde;o Paulo</a></strong></p>
+
+<p><br />
 &ldquo;Chegamos mais uma vez na segunda maior cidade do estado com os frutos de nossa luta. E esse &eacute; o grande momento de mostrar que a Reforma Agr&aacute;ria d&aacute; certo, tanto para quem vive no campo, mas tamb&eacute;m para quem vive nas cidades&rdquo;, destacou Jos&eacute; Roberto, da dire&ccedil;&atilde;o nacional do MST.</p>
 
 <p><br />
