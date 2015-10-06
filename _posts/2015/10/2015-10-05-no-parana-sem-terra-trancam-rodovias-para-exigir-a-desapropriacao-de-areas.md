@@ -29,6 +29,7 @@ releated_posts:
   - 2015/05/2015-05-28-sentenca-de-juiza-mostra-que-judiciario-nao-e-feito-apenas-de-moros-e-mendes.md
   - 2015/08/2015-08-11-sem-terra-acreditam-que-incendio-ao-redor-do-acampamento-no-pr-tem-origem-criminosa.md
   - 2015/05/2015-05-27-justica-decide-que-araupel-nao-e-dona-da-fazenda-rio-das-cobras.md
+section: featured-news
 
 ---
 <p><img alt="IMG_7971.JPG" height="467" src="http://farm6.staticflickr.com/5736/21978601831_e6f2fd5e0d_b.jpg" width="700" /></p>
