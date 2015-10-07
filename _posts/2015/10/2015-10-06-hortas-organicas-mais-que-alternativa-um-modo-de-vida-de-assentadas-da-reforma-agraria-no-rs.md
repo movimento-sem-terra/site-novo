@@ -7,7 +7,7 @@ tags:
   - tag: produção
 title: "Hortas orgânicas: mais que alternativa, um modo de vida de assentadas da Reforma Agrária"
 images_hd: "http://farm1.staticflickr.com/713/21811236798_15d19a6f5a_b.jpg"
-section: cover
+section: featured-news
 menu: reforma agrária
 special-page: first-street-market
 sector: production
