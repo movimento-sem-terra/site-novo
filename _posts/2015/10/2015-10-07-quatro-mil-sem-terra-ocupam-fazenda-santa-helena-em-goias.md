@@ -38,11 +38,10 @@ releated_posts:
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Desde o &uacute;ltimo dia 22 de setembro, fam&iacute;lias Sem Terra ocupam duas &aacute;reas da Usina Santa Elena, no munic&iacute;pio de Santa Elena de Goi&aacute;s (GO).&nbsp;</p>
+Desde o &uacute;ltimo dia 22 de setembro, fam&iacute;lias Sem Terra ocupam duas &aacute;reas da Usina Santa Elena, no munic&iacute;pio de Santa Helena de Goi&aacute;s (GO).&nbsp;</p>
 
 <p><br />
-A ocupa&ccedil;&atilde;o que come&ccedil;ou com 200 pessoas, hoje, 19 dias depois, j&aacute; conta com 4 mil Sem Terra.&nbsp;<br />
-Para Jos&eacute; Valdir Misnerovicz, da coordena&ccedil;&atilde;o estadual do MST, o alto n&uacute;mero de pessoas que aderiram &agrave; ocupa&ccedil;&atilde;o reflete a atual situa&ccedil;&atilde;o pol&iacute;tica e econ&ocirc;mica do pa&iacute;s.&nbsp;</p>
+A ocupa&ccedil;&atilde;o que come&ccedil;ou com 200 pessoas, hoje, 19 dias depois, j&aacute; conta com 4 mil Sem Terra. Para Jos&eacute; Valdir Misnerovicz, da coordena&ccedil;&atilde;o estadual do MST, o alto n&uacute;mero de pessoas que aderiram &agrave; ocupa&ccedil;&atilde;o reflete a atual situa&ccedil;&atilde;o pol&iacute;tica e econ&ocirc;mica do pa&iacute;s.&nbsp;</p>
 
 <p><br />
 &ldquo;Estamos na regi&atilde;o do cora&ccedil;&atilde;o do agroneg&oacute;cio em Goi&aacute;s. E esse aumento de fam&iacute;lias acampadas em t&atilde;o pouco tempo reflete a fal&ecirc;ncia do atual modelo econ&ocirc;mico ditado pelos interesses do agroneg&oacute;cio e das grandes corpora&ccedil;&otilde;es&rdquo;, afirma.&nbsp;</p>
@@ -57,15 +56,13 @@ Para Misnerovicz esse &eacute; um fen&ocirc;meno que deve ser observado num mome
 <strong>D&iacute;vida de R$ 1 bilh&atilde;o</strong></p>
 
 <p><br />
-A Fazenda Santa Elena &eacute; uma &aacute;rea com cerca de 15 mil hectares que pertencente &agrave; empresa UNA.&nbsp;<br />
-A fazenda tem uma d&iacute;vida com a Uni&atilde;o de aproximadamente R$ 1 bilh&atilde;o. Atualmente a d&iacute;vida vem sendo executada pela Fazenda Nacional, que destinou cerca de 5800 hectares, equivalente a 14% da &aacute;rea para fins de Reforma Agr&aacute;ria.&nbsp;</p>
+A Fazenda Santa Helena &eacute; uma &aacute;rea com cerca de 15 mil hectares que pertencente &agrave; empresa UNA. A fazenda tem uma d&iacute;vida com a Uni&atilde;o de aproximadamente R$ 1 bilh&atilde;o. Atualmente a d&iacute;vida vem sendo executada pela Fazenda Nacional, que destinou cerca de 5800 hectares, equivalente a 14% da &aacute;rea para fins de Reforma Agr&aacute;ria.&nbsp;</p>
 
 <p><br />
-O processo de reintegra&ccedil;&atilde;o foi feito na vara c&iacute;vel no munic&iacute;pio de Santa Elena por um dos arrendat&aacute;rios da &aacute;rea.&nbsp;</p>
+O processo de reintegra&ccedil;&atilde;o foi feito na vara c&iacute;vel no munic&iacute;pio de Santa Helena por um dos arrendat&aacute;rios da &aacute;rea.&nbsp;</p>
 
 <p><br />
-Como o antigo dono contraiu bilh&otilde;es em d&iacute;vidas, negociou com seus antigos fornecedores atrav&eacute;s de permuta.&nbsp;<br />
-Ou seja, as pessoas que hoje se apresentam como titulares/donos das terras s&atilde;o ex-fornecedores que permutaram partes do terreno em acordos que previa a quita&ccedil;&atilde;o de d&eacute;bitos do antigo dono.&nbsp;</p>
+Como o antigo dono contraiu bilh&otilde;es em d&iacute;vidas, negociou com seus antigos fornecedores atrav&eacute;s de permuta.&nbsp;Ou seja, as pessoas que hoje se apresentam como titulares/donos das terras s&atilde;o ex-fornecedores que permutaram partes do terreno em acordos que previa a quita&ccedil;&atilde;o de d&eacute;bitos do antigo dono.&nbsp;</p>
 
 <p><br />
 Segundo Misnerovicz, parte das fam&iacute;lias que ocupam a &aacute;rea j&aacute; foram cadastradas no Programa Nacional de Reforma Agr&aacute;ria, e aguardam a libera&ccedil;&atilde;o do Instituto de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra).&nbsp;</p>
