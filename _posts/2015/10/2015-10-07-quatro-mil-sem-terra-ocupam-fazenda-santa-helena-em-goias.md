@@ -56,7 +56,7 @@ Para Misnerovicz esse &eacute; um fen&ocirc;meno que deve ser observado num mome
 <strong>D&iacute;vida de R$ 1 bilh&atilde;o</strong></p>
 
 <p><br />
-A Fazenda Santa Helena &eacute; uma &aacute;rea com cerca de 15 mil hectares que pertencente &agrave; empresa UNA. A fazenda tem uma d&iacute;vida com a Uni&atilde;o de aproximadamente R$ 1 bilh&atilde;o. Atualmente a d&iacute;vida vem sendo executada pela Fazenda Nacional, que destinou cerca de 5800 hectares, equivalente a 14% da &aacute;rea para fins de Reforma Agr&aacute;ria.&nbsp;</p>
+A Fazenda Santa Helena &eacute; uma &aacute;rea com cerca de 15 mil hectares&nbsp;pertencente &agrave; empresa UNA. A fazenda tem uma d&iacute;vida com a Uni&atilde;o de aproximadamente R$ 1 bilh&atilde;o. Atualmente a d&iacute;vida vem sendo executada pela Fazenda Nacional, que destinou cerca de 5800 hectares, equivalente a 14% da &aacute;rea para fins de Reforma Agr&aacute;ria.&nbsp;</p>
 
 <p><br />
 O processo de reintegra&ccedil;&atilde;o foi feito na vara c&iacute;vel no munic&iacute;pio de Santa Helena por um dos arrendat&aacute;rios da &aacute;rea.&nbsp;</p>
