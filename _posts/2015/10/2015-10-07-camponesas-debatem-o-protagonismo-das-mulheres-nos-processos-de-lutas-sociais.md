@@ -52,7 +52,7 @@ releated_posts:
 Da P&agrave;gina do MST</em></p>
 
 <p><br />
-Alexandra Kollontai, Rosa Luxemburgo, Nesi da Silveira e Frida Kahlo. Todas s&atilde;o mulheres, feministas, revolucion&aacute;rias e tiveram um papel hist&oacute;rico na luta contra o patriarcado e o capital.&nbsp;</p>
+Alexandra Kollontai, Rosa Luxemburgo, Nise&nbsp;da Silveira e Frida Kahlo. Todas s&atilde;o mulheres, feministas, revolucion&aacute;rias e tiveram um papel hist&oacute;rico na luta contra o patriarcado e o capital.&nbsp;</p>
 
 <p><br />
 As hist&oacute;rias e as lutas destas trabalhadoras nortearam todo o debate realizado na 5&ordm; edi&ccedil;&atilde;o do Curso de Feminismo e Marxismo, onde reuniu cerca de 60 mulheres na Escola Nacional Florestan Fernandes, em Guararema (SP), entre os dias 2 e 5 de outubro.&nbsp;</p>
