@@ -51,7 +51,7 @@ Duvivier afirmou acreditar na arte como um instrumento de transforma&ccedil;&ati
 
 <p><strong>Qual &eacute; o papel do humor e da arte no debate pol&iacute;tico da sociedade?</strong></p>
 
-<p>Greg&oacute;rio Duvivier - O artista &eacute; parte da sociedade, mas tamb&eacute;m &eacute; um agente transformador. Um dos deveres do artista &eacute; contribuir para uma sociedade melhor. A arte &eacute; muito poderosa. Quando algu&eacute;m escreve um livro est&aacute; criando um mundo. Isso pode ser transformador. E um dos pap&eacute;is mais importante do humor &eacute; puxar o tapete das certezas.</p>
+<p>&nbsp;O artista &eacute; parte da sociedade, mas tamb&eacute;m &eacute; um agente transformador. Um dos deveres do artista &eacute; contribuir para uma sociedade melhor. A arte &eacute; muito poderosa. Quando algu&eacute;m escreve um livro est&aacute; criando um mundo. Isso pode ser transformador. E um dos pap&eacute;is mais importante do humor &eacute; puxar o tapete das certezas.</p>
 
 <p><br />
 <strong>Voc&ecirc; tem uma coluna na Folha de S. Paulo e faz trabalhos na Globo. Acha que &eacute; poss&iacute;vel romper o discurso conservador da grande m&iacute;dia?</strong></p>
