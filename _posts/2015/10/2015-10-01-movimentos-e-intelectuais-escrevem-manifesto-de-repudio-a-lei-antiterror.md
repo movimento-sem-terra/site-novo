@@ -23,6 +23,7 @@ releated_posts:
   - 2015/08/2015-08-13-camara-aprova-lei-antiterror-que-pode-criminalizar-movimentos-populares.md
   - 2015/08/2015-08-14-para-mst-pl-antiterrorismo-e-absurdo-e-pedira-veto-em-reuniao-com-dilma.md
   - 2015/09/2015-09-18-campanha-latino-americana-busca-apoio-pelo-fim-das-tropas-da-onu-no-haiti.md
+section: featured-news
 
 ---
 <p><img alt="lei antiterror.jpg" src="http://farm1.staticflickr.com/737/21239443434_69a7127257_b.jpg" /></p>
@@ -82,98 +83,160 @@ Cumpre ao Congresso Nacional defender a jovem democracia brasileira e recha&cced
 A Presidenta Dilma Roussef, que j&aacute; foi acusada da pr&aacute;tica de terrorismo pela Ditadura Militar n&atilde;o deveria ter enviado este projeto ao Congresso e, caso aprovado no Senado, dever&aacute; ter a dignidade de vet&aacute;-lo. &Eacute; o m&iacute;nimo que se espera. Abaixo assinamos:</p>
 
 <p><br />
-Alexandre Concei&ccedil;&atilde;o, MST<br />
+Abaixo assinamos:</p>
+
+<p><strong>--- ENTIDADES ---</strong></p>
+
+<p>A&ccedil;&atilde;o Educativa - Assessoria, Pesquisa e Informa&ccedil;&atilde;o<br />
 Actionaid Brasil<br />
-Adriano Ferreira - &nbsp;Movimento dos trabalhadores e trabalhadoras do campo MTC- Brasil<br />
-Aleida Guevara March &ndash; Medica cubana.<br />
-Anarquistas Contra o Racismo &ndash; ACR<br />
-Andr&eacute; Alc&acirc;ntara - Centro de Direitos Humanos de Sapopemba<br />
-Anivaldo Padilha, militante dos direitos humanos, S&atilde;o Paulo.<br />
-Ariovaldo Ramos, Pastor Evang&eacute;lico<br />
 Assembleia Nacional dos Estudantes &ndash; Livre &ndash; ANEL<br />
 Associa&ccedil;&atilde;o Brasileira de Ensino de Arquitetura e Urbanismo &ndash; ABEA<br />
+Associa&ccedil;&atilde;o de Advogados de Trabalhadores Rurais no Estado da Bahia - AATR<br />
 Associa&ccedil;&atilde;o dos Especialistas em Pol&iacute;ticas P&uacute;blicas do Estado de S&atilde;o Paulo &ndash; AEPPSP<br />
 Associa&ccedil;&atilde;o dos Ge&oacute;grafos Brasileiros &ndash; AGB<br />
+Associa&ccedil;&atilde;o ECCOS - CAMPINAS<br />
 Associa&ccedil;&atilde;o Ju&iacute;zes Para a Democracia &ndash; AJD Associa&ccedil;&atilde;o Miss&atilde;o Trememb&eacute; &ndash; AMI<br />
+Associa&ccedil;&atilde;o Nacional de P&oacute;s Graduandos<br />
 Associa&ccedil;&atilde;o Nacional de Transportes P&uacute;blicos &ndash; ANTP<br />
-Bento Rubi&atilde;o &ndash; Centro de Defesa dos Direitos Humanos Cearah Periferia<br />
-Central de Movimentos Populares &ndash; CMP<br />
-Central de Movimentos Populares/ CMP<br />
+Campanha pelo Plebiscito Constituinte<br />
+Central de Movimentos Populares - CMP<br />
 Centro de Assessoria &agrave; Autogest&atilde;o Popular &ndash; CAAP<br />
+Centro de Assessoria Popular Mariana Criola<br />
+Centro de Defesa da Vida Herbert de Souza &ndash; Fortaleza, CE<br />
+Centro de Direitos Econ&ocirc;micos e Sociais - CDES Direitos Humanos<br />
 Centro de Direitos Humanos de Cascavel &ndash; PR<br />
+Centro Dom Gaspar de Direitos Humanos<br />
 Centro Dom Helder C&acirc;mara de Estudos e A&ccedil;&atilde;o Social &ndash; CENDHEC<br />
 Centro Gaspar Garcia de Direitos Humanos<br />
-Cesar Sanson &ndash; Professor da Universidade Federal do Rio Grande do Norte &ndash; UFRN<br />
-Claudia Korol, educadora feminista, Argentina<br />
-Cloves Barbosa - Professor da UNIFESSPA<br />
+CFEMEA - Centro Feminista de Estudos e Assessoria<br />
 Coletivo de Artistas Socialistas &ndash; CAS<br />
 Coletivo Desentorpecendo a Raz&atilde;o &ndash; DAR Comboio<br />
+Coletivo Juventude Socialismo e Lierdade &ndash; JSOL Campinas<br />
 Comiss&atilde;o de Defesa da Liberdade de Imprensa e Direitos Humanos da Associa&ccedil;&atilde;o Brasileira de Imprensa &ndash; ABI<br />
 Comiss&atilde;o de Direitos Humanos do Sindicato dos Advogados de S&atilde;o Paulo<br />
 Comit&ecirc; Pela Desmilitariza&ccedil;&atilde;o<br />
 Comit&ecirc; Popular da Copa de SP<br />
 Comit&ecirc; Popular da Copa e das Olimp&iacute;adas do Rio de Janeiro<br />
+Comunidades Eclesiais de Base &ndash; CEBS Sorocaba<br />
+CONAM<br />
 Conectas<br />
 Confedera&ccedil;&atilde;o Nacional de Associa&ccedil;&otilde;es de Moradores &ndash; CONAM<br />
+CONIC - Conselho Nacional de Igrejas Crist&atilde;s do Brasil<br />
 Conselho Federal de Servi&ccedil;o Social &ndash; CFESS<br />
+Conselho Indigenista Mission&aacute;rio - CIMI<br />
+Conselho Municipal de Direitos Humanos e Cidadania de Campinas<br />
 Conselho Municipal de Direitos Humanos e Cidadania de Campinas<br />
 Consulta Popular<br />
 Coordena&ccedil;&atilde;o do F&oacute;rum Nacional de Reforma Urbana<br />
-Dainis KAREPOVS, historiador<br />
-Dr. Clifford Andrew Welch - Professor da Hist&oacute;ria Contempor&acirc;nea do Brasil, Escola de Filosofia, Letras e Ci&ecirc;ncias Humanas, UNIFESP - Universidade Federal de S&atilde;o Paulo / Brazil<br />
+CSP - Conlutas<br />
+CUT- Central &Uacute;nica dos Trabalhadores<br />
+Dignitatis Assessoria T&eacute;cnica Popular<br />
 Escola de Governo<br />
 Espa&ccedil;o Kaleidosc&oacute;pio &ndash; Crici&uacute;ma-SC<br />
-Fabiano Morales - Canoas RS<br />
+Esquerda Marxista<br />
 Federa&ccedil;&atilde;o de &Oacute;rg&atilde;os para Assist&ecirc;ncia Social e Educacional &ndash; FASE<br />
 Federa&ccedil;&atilde;o Interestadual dos Sindicatos de Engenharia &ndash; FISENGE<br />
 Federa&ccedil;&atilde;o Nacional das Associa&ccedil;&otilde;es de Empregados da Caixa Econ&ocirc;mica &ndash; FENAE<br />
 Federa&ccedil;&atilde;o Nacional dos Arquitetos e Urbanistas &ndash; FNA<br />
 Federa&ccedil;&atilde;o Nacional dos Estudantes de Arquitetura e Urbanismo do Brasil &ndash; FENEA<br />
+Fora do Eixo<br />
 F&oacute;rum da Amaz&ocirc;nia Oriental/ GT Urbano &ndash; FAOR<br />
 F&oacute;rum Nordeste de Reforma Urbana &ndash; FneRU<br />
 F&oacute;rum Sul de Reforma Urbana<br />
 F&oacute;rum Urbano da Amaz&ocirc;nia Ocidental &ndash; FAOC<br />
 Frente de Resist&ecirc;ncia Urbana<br />
-G&eacute;rson Wasen Fraga - UFFS - Campus Erechim<br />
-GRITO DOS EXLUIDOS CONTIENTAL<br />
+Greenpeace<br />
+Grito dos Exclu&iacute;dos Contiental<br />
 Grupo Lambda LGBT Brasil Grupo Tortura Nunca Mais &ndash; RJ<br />
 Grupo Tortura Nunca Mais &ndash; SP Habitat para a Humanidade<br />
-G&uuml;nter Adolf Wolff &ndash; Pastor<br />
-Helo&iacute;sa Fernandes Silveira &ndash; Sociologa<br />
-Henrique Parra - Departamento de Ci&ecirc;ncias Sociais/Unifesp&nbsp;<br />
+IBASE<br />
 Identidade &ndash; Grupo de Luta pela Diversidade Sexual Instituto Brasileiro de Administra&ccedil;&atilde;o Municipal &ndash; IBAM<br />
 Instituto Brasileiro de An&aacute;lises Sociais e Econ&ocirc;micas &ndash; IBASE<br />
 Instituto Brasileiro de Ci&ecirc;ncias Criminais &ndash; IBCCRIM<br />
+Intersindical<br />
+Intervozes - Coletivo Brasil de Comunica&ccedil;&atilde;o Social<br />
+Jornal P&aacute;gina 13<br />
+Juventude Revolu&ccedil;&atilde;o<br />
+Juventude Revolu&ccedil;&atilde;o<br />
+Levante Popular da Juventude<br />
+MAB &ndash; Movimento dos Atingidos por Barragens<br />
+Midia NINJA<br />
+Movimento de Moradia da Cidade de S&atilde;o Paulo / MMC<br />
+Movimento dos Pequenos Agricultores / MPA<br />
+Movimento dos Trabalhadores Rurais Sem Terra- MST<br />
+Movimento dos Trabalhadores/as Assentados/as, Acampados/as e Quilombola CETA/BA<br />
+MTST- Movimento dos Trabalhadores Sem Teto<br />
+NA&Ccedil;&Atilde;O HIP HOP BRASIL<br />
+Na&ccedil;&atilde;o Hip Hop Brasil<br />
+Pastoral Anglicana da Terra - Cascavel &ndash; PR<br />
+Plataforma de Direitos Humanos &ndash; Dhesca Brasil<br />
+Rede nacional de advogados populares, RENAP<br />
+Tend&ecirc;ncia Revolucion&aacute;ria, Psol<br />
+Terra de Direitos<br />
+Uni&atilde;o Brasileira de Mulheres<br />
+Uni&atilde;o de Negros Pela Igualdade - UNEGRO<br />
+Uni&atilde;o Nacional dos Estudantes- UNE<br />
+Uni&atilde;o Nacional por Moradia Popular</p>
+
+<p><strong>--- PERSONALIDADES ---</strong></p>
+
+<p>Adriano Esp&iacute;ndola Cavalheiro &ndash; Presidente da Comiss&atilde;o de Movimentos Sociais da 14&ordf; Subsec&ccedil;&atilde;o da OAB/MG<br />
+Adriano Ferreira - &nbsp;Movimento dos trabalhadores e trabalhadoras do campo MTC- Brasil<br />
+Aleida Guevara March &ndash; Medica cubana.<br />
+Alexandre Concei&ccedil;&atilde;o, MST<br />
+Anarquistas Contra o Racismo &ndash; ACR<br />
+Andr&eacute; Alc&acirc;ntara - Centro de Direitos Humanos de Sapopemba<br />
+Anivaldo Padilha, militante dos direitos humanos, S&atilde;o Paulo.<br />
+Ariovaldo Ramos, Pastor Evang&eacute;lico<br />
+Bento Rubi&atilde;o &ndash; Centro de Defesa dos Direitos Humanos Cearah Periferia<br />
+Bruno Elias, secret&aacute;rio nacional de movimentos populares do PT<br />
+Carlos A. C. Baccaglini - diretor de Comunica&ccedil;&atilde;o do Sinpro Campinas e Regi&atilde;o<br />
+Cesar Sanson &ndash; Professor da Universidade Federal do Rio Grande do Norte &ndash; UFRN<br />
+Claudia Korol, educadora feminista, Argentina<br />
+Cloves Barbosa - Professor da UNIFESSPA<br />
+Dainis KAREPOVS, historiador<br />
+Dr. Clifford Andrew Welch - Professor da Hist&oacute;ria Contempor&acirc;nea do Brasil, Escola de Filosofia, Letras e Ci&ecirc;ncias Humanas, UNIFESP - Universidade Federal de S&atilde;o Paulo / Brazil<br />
+Erina Batista Gomes - Advogada Popular<br />
+Fabiano Morales - Canoas RS<br />
+Fabio Konder Comparato, professor em&eacute;rito da Faculdade de Direito da USP.<br />
+Fernanda Maria da Costa Vieira &ndash; professora adjunta UFJF<br />
+Fernando Vieira. Oposi&ccedil;&atilde;o Sinpro-Rio<br />
+G&eacute;rson Wasen Fraga - UFFS - Campus Erechim<br />
+G&uuml;nter Adolf Wolff &ndash; Pastor<br />
+Helo&iacute;sa Fernandes Silveira &ndash; Sociologa<br />
+Henrique Parra - Departamento de Ci&ecirc;ncias Sociais/Unifesp<br />
 Iris Kantor - Universidade de S&atilde;o Paulo-Brasil<br />
-Issa Fernando Sarraf Mercadante - Medico&nbsp;<br />
+Issa Fernando Sarraf Mercadante - Medico<br />
+Ivan Valente - Deputado Federal PSOL/SP<br />
+Jacqueline Ramos Silva Carrijo, auditora fiscal do trabalho<br />
 Jean Tible, professor, USP<br />
-jos&eacute; arbex jr - professor de jornalismo &ndash; pucsp<br />
+Jorge Luiz Souto Maior, professor da Faculdade de Direito da USP<br />
+Jos&eacute; Antonio dos Santos da Silva - Coordenador do F&oacute;rum Permanente de Educa&ccedil;&atilde;o e Diversidade Etnicorracial do RS.<br />
+Jos&eacute; arbex jr - professor de jornalismo &ndash; pucsp<br />
 K&aacute;tia MARRO, docente da UFF<br />
+Kenarik Boujikian, co-fundadora da Associa&ccedil;&atilde;o Juizes para a Democracia, juiza TJSP<br />
 Laura Tavares - FLACSO Brasil<br />
 Leda Maria Paulani - Professora titular FEA-USP<br />
 Lisete Regina Gomes Arelaro - Professora da Faculdade de Educa&ccedil;&atilde;o /USP - Presidente da Associa&ccedil;&atilde;o Nacional de Pesquisa em Financiamento da Educa&ccedil;&atilde;o (FINEDUCA).<br />
 L&uacute;cio Gregori - engenheiro, ex-secret&aacute;rio municipal de transportes de S&atilde;o Paulo<br />
 Lu&iacute;s Carlos Dalla Rosa - Professor - Porto Alegre/RS<br />
+Luiz Henrique Ribeiro &ndash; Advogado, Procurador-Geral do Munic&iacute;pio de Coronel Fabriciano &ndash; MG<br />
 Ma&iacute;ra Streit &ndash; Rep&oacute;rter<br />
 Manhana de Castro - SIT - Superintend&ecirc;ncia de Infraestrutura e Transporte do Estado da Bahia<br />
 Maria Beatriz Costa Carvalho Vannuchi - &nbsp;psicanalista<br />
 Maria Laura de Abreu d&#39;Avila<br />
 Maria Marta Azzolini<br />
+Maria Victoria de Mesquita Benevides, soci&oacute;loga, professora titular da USP<br />
+Mariana Cavalcante Moura - Advogada Popular<br />
 Marluce Melo - Comiss&atilde;o Pastoral da Terra Nordeste 2 - CPT NE 2<br />
 Miguel do Rosario - Editor do blog o cafezinho<br />
-Movimento de Moradia da Cidade de S&atilde;o Paulo / MMC<br />
-Movimento dos Pequenos agricultores, MPA<br />
-Movimento dos Trabalhadores/as Assentados/as, Acampados/as e Quilombola - CETA/BA<br />
 Nelia Reis &ndash; UFAL<br />
 Otilia Beztriz Fiori Arantes - Professora USP<br />
-Pastoral Anglicana da Terra - Cascavel &ndash; PR<br />
 P&aacute;ulia Maria Cardoso Lima Reis<br />
+Paulo Bufalo - Presidente Estadual PSOL S&atilde;o Paulo e Vereador - Campinas SP<br />
 Paulo Eduardo Arantes - Professor USP<br />
-Plataforma de Direitos Humanos &ndash; Dhesca Brasil<br />
 Prof. Dr. Marcos Barbosa de Oliveira - Universidade de S&atilde;o Paulo<br />
 Prof. Horacio Martins &ndash; Curitiba<br />
 Rafael Litvin Villas B&ocirc;as, Professor da Universidade de Bras&iacute;lia<br />
-Rede nacional de advogados populares, RENAP<br />
-Renato da Silva Queiroz, FFLCH-USP<br />
-Reverendo Luiz Carlos Gabas &ndash; PR<br />
-Sergio Sauer &ndash; Professor UnB</p>
+Ramatis Jacino, historiador - S&atilde;o Paulo - SP<br />
+Renato da Silva Queiroz, FFLCH-USP</p>
