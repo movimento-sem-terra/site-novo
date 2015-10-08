@@ -26,7 +26,8 @@ releated_posts:
   - 2015/08/2015-08-25-brasil-tem-o-pior-cenario-do-mundo-em-relacao-aos-agrotoxicos-adverte-especialista.md
   - 2015/08/2015-08-26-agrotoxico-o-inimigo-entre-nos.md
   - 2014/04/2014-04-24-alimentacao-e-o-fator-determinante-da-causa-de-doencas-diz-nutricionista.md-e
-section: featured-news
+section: null
+label: interviews
 
 ---
 <p><img alt="MPA-2.jpg" src="http://farm1.staticflickr.com/725/21370040144_28cca9d7d6_b.jpg" /><br />
