@@ -6,7 +6,7 @@ tags:
   - tag: feminismo
   - tag: formação
 images_hd: "http://farm1.staticflickr.com/593/21992987876_7c5d776932_b.jpg"
-title: Camponesas debatem o protagonismo das mulheres nos processos de lutas sociais
+title: Camponesas debatem o protagonismo das mulheres nas lutas sociais
 support_line: "Cerca de 60 mulheres Sem Terra participaram da 5° edição o Curso de Feminismo e Marxismo, na ENFF."
 menu: projeto popular
 layout: post
@@ -43,6 +43,7 @@ releated_posts:
   - 2015/02/2015-02-12-em-encontro-camponesas-debatem-as-lutas-das-mulheres-em-alagoas.md
   - 2014/09/2014-09-18-seminario-na-unb-debate-feminismo-campesinato-e-luta-de-classes.md
   - 2014/10/2014-09-29-camponesas-debatem-o-papel-da-mulher-na-construcao-da-reforma-agraria.md
+section: featured-news
 
 ---
 <p><img alt="IMG_1486.jpg" src="http://farm1.staticflickr.com/593/21992987876_7c5d776932_b.jpg" /></p>
