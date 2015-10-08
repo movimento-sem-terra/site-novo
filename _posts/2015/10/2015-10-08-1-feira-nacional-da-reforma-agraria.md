@@ -12,6 +12,7 @@ created_date: "2015-10-08T13:39:29-03:00"
 published: true
 video_thumbnail: "http://img.youtube.com/vi/mf1REPzfqOo/0.jpg"
 releated_posts: []
+special-page: first-street-market
 
 ---
 <p><iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/mf1REPzfqOo" width="640"></iframe></p>
