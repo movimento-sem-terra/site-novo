@@ -73,4 +73,4 @@ A maioria das fam&iacute;lias est&atilde;o desabrigadas &agrave;s&nbsp;margens d
 Em repudio as a&ccedil;&otilde;es truculentas e desumanas, os trabalhadores criaram um documento denunciando a viol&ecirc;ncia praticada pela&nbsp;pol&iacute;cia.&nbsp;</p>
 
 <p><br />
-<img alt="IMG-20151009-WA0010.jpg" height="736" src="http://farm1.staticflickr.com/771/21872233569_fd83104d04_b.jpg" width="700" /></p>
+<img alt="IMG-20151009-WA0010.jpg" height="631" src="http://farm1.staticflickr.com/771/21872233569_fd83104d04_b.jpg" width="600" /></p>
