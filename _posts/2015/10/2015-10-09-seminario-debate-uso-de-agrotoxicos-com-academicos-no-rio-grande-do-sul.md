@@ -46,7 +46,7 @@ releated_posts:
 Da P&aacute;gina do MST</em><span style="line-height: 20.8px;">​</span></p>
 
 <p><br />
-<span style="line-height: 20.8px;">Entre os dias 5 e 7 de setembro,&nbsp;aconteceu &nbsp;Universidade Estadual do Rio Grande do Sul&nbsp;(Uergs) &ndash; Unidade Tapes, a&nbsp;7&ordf; Semana Acad&ecirc;mica do Curso&nbsp;Superior de Tecnologia e Gest&atilde;o Ambiental e a 3&ordf; Semana do&nbsp;</span><span style="line-height: 20.8px;">Bacharelado de Gest&atilde;o Ambiental.&nbsp;</span></p>
+<span style="line-height: 20.8px;">Entre os dias 5 e 7 de outubro,&nbsp;aconteceu &nbsp;Universidade Estadual do Rio Grande do Sul&nbsp;(Uergs) &ndash; Unidade Tapes, a&nbsp;7&ordf; Semana Acad&ecirc;mica do Curso&nbsp;Superior de Tecnologia e Gest&atilde;o Ambiental e a 3&ordf; Semana do&nbsp;</span><span style="line-height: 20.8px;">Bacharelado de Gest&atilde;o Ambiental.&nbsp;</span></p>
 
 <p><br />
 O presidente da Associa&ccedil;&atilde;o Ga&uacute;cha de Prote&ccedil;&atilde;o ao Ambiente Natural&nbsp;(Agapan), engenheiro agr&ocirc;nomo Leonardo Melgarejo, e o assessor&nbsp;parlamentar do deputado estadual Edegar Pretto (PT), Juliano de S&aacute;,&nbsp;debateram com educandos e educadores&nbsp;sobre produ&ccedil;&atilde;o agroecol&oacute;gica e uso de&nbsp;agrot&oacute;xicos no&nbsp;Brasil.&nbsp;</p>
