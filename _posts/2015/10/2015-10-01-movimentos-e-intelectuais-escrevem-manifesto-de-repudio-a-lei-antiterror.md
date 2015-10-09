@@ -153,6 +153,7 @@ IBASE<br />
 Identidade &ndash; Grupo de Luta pela Diversidade Sexual Instituto Brasileiro de Administra&ccedil;&atilde;o Municipal &ndash; IBAM<br />
 Instituto Brasileiro de An&aacute;lises Sociais e Econ&ocirc;micas &ndash; IBASE<br />
 Instituto Brasileiro de Ci&ecirc;ncias Criminais &ndash; IBCCRIM<br />
+<span style="line-height: 20.8px;">Instituto Sedes Sapientiae - S&atilde;o Paulo</span><br />
 Intersindical<br />
 Intervozes - Coletivo Brasil de Comunica&ccedil;&atilde;o Social<br />
 Jornal P&aacute;gina 13<br />
@@ -166,8 +167,10 @@ Movimento dos Pequenos Agricultores / MPA<br />
 Movimento dos Trabalhadores Rurais Sem Terra- MST<br />
 Movimento dos Trabalhadores/as Assentados/as, Acampados/as e Quilombola CETA/BA<br />
 MTST- Movimento dos Trabalhadores Sem Teto<br />
+<span style="line-height: 20.8px;">Movimento Nacional de Meninos e Meninas de Rua - MNMMR</span><br />
 NA&Ccedil;&Atilde;O HIP HOP BRASIL<br />
 Na&ccedil;&atilde;o Hip Hop Brasil<br />
+<span style="line-height: 20.8px;">Nucleo de Preserva&ccedil;&atilde;o da Mem&oacute;ria Pol&iacute;tica - S&atilde;o Paulo</span><br />
 Pastoral Anglicana da Terra - Cascavel &ndash; PR<br />
 Plataforma de Direitos Humanos &ndash; Dhesca Brasil<br />
 Rede nacional de advogados populares, RENAP<br />
@@ -235,8 +238,12 @@ Otilia Beztriz Fiori Arantes - Professora USP<br />
 P&aacute;ulia Maria Cardoso Lima Reis<br />
 Paulo Bufalo - Presidente Estadual PSOL S&atilde;o Paulo e Vereador - Campinas SP<br />
 Paulo Eduardo Arantes - Professor USP<br />
+<span style="line-height: 20.8px;">Paulo Vannuchi, - ex-ministro de Direitos Humanos &ndash; Governo Lula.</span><br />
 Prof. Dr. Marcos Barbosa de Oliveira - Universidade de S&atilde;o Paulo<br />
 Prof. Horacio Martins &ndash; Curitiba<br />
 Rafael Litvin Villas B&ocirc;as, Professor da Universidade de Bras&iacute;lia<br />
 Ramatis Jacino, historiador - S&atilde;o Paulo - SP<br />
-Renato da Silva Queiroz, FFLCH-USP</p>
+Renato da Silva Queiroz, FFLCH-USP<br />
+Wilson Cano, economista, professor decano da Unicamp</p>
+
+<p>&nbsp;</p>
