@@ -89,6 +89,7 @@ Abaixo assinamos:</p>
 
 <p>A&ccedil;&atilde;o Educativa - Assessoria, Pesquisa e Informa&ccedil;&atilde;o<br />
 Actionaid Brasil<br />
+<span style="line-height: 20.8px;">Articula&ccedil;&atilde;o de Mulheres Brasileiras - AMB</span><br />
 Assembleia Nacional dos Estudantes &ndash; Livre &ndash; ANEL<br />
 Associa&ccedil;&atilde;o Brasileira de Ensino de Arquitetura e Urbanismo &ndash; ABEA<br />
 Associa&ccedil;&atilde;o de Advogados de Trabalhadores Rurais no Estado da Bahia - AATR<br />
@@ -141,6 +142,7 @@ Federa&ccedil;&atilde;o Nacional dos Arquitetos e Urbanistas &ndash; FNA<br />
 Federa&ccedil;&atilde;o Nacional dos Estudantes de Arquitetura e Urbanismo do Brasil &ndash; FENEA<br />
 Fora do Eixo<br />
 F&oacute;rum da Amaz&ocirc;nia Oriental/ GT Urbano &ndash; FAOR<br />
+<span style="line-height: 20.8px;">F&oacute;rum de Mulheres da Amaz&ocirc;nia Paraense - FMAP</span><br />
 F&oacute;rum Nordeste de Reforma Urbana &ndash; FneRU<br />
 F&oacute;rum Sul de Reforma Urbana<br />
 F&oacute;rum Urbano da Amaz&ocirc;nia Ocidental &ndash; FAOC<br />
@@ -162,7 +164,9 @@ Juventude Revolu&ccedil;&atilde;o<br />
 Levante Popular da Juventude<br />
 MAB &ndash; Movimento dos Atingidos por Barragens<br />
 Midia NINJA<br />
+<span style="line-height: 20.8px;">Movimento Articulado de Mulheres da Amaz&ocirc;nia - MAMA</span><br />
 Movimento de Moradia da Cidade de S&atilde;o Paulo / MMC<br />
+<span style="line-height: 20.8px;">Movimento de Mulheres Camponesas - MMC</span><br />
 Movimento dos Pequenos Agricultores / MPA<br />
 Movimento dos Trabalhadores Rurais Sem Terra- MST<br />
 Movimento dos Trabalhadores/as Assentados/as, Acampados/as e Quilombola CETA/BA<br />
@@ -206,6 +210,7 @@ Fernanda Maria da Costa Vieira &ndash; professora adjunta UFJF<br />
 Fernando Vieira. Oposi&ccedil;&atilde;o Sinpro-Rio<br />
 G&eacute;rson Wasen Fraga - UFFS - Campus Erechim<br />
 G&uuml;nter Adolf Wolff &ndash; Pastor<br />
+<span style="line-height: 20.8px;">Helenita Sipahi - M&eacute;dica</span><br />
 Helo&iacute;sa Fernandes Silveira &ndash; Sociologa<br />
 Henrique Parra - Departamento de Ci&ecirc;ncias Sociais/Unifesp<br />
 Iris Kantor - Universidade de S&atilde;o Paulo-Brasil<br />
@@ -226,6 +231,7 @@ Lu&iacute;s Carlos Dalla Rosa - Professor - Porto Alegre/RS<br />
 Luiz Henrique Ribeiro &ndash; Advogado, Procurador-Geral do Munic&iacute;pio de Coronel Fabriciano &ndash; MG<br />
 Ma&iacute;ra Streit &ndash; Rep&oacute;rter<br />
 Manhana de Castro - SIT - Superintend&ecirc;ncia de Infraestrutura e Transporte do Estado da Bahia<br />
+<span style="line-height: 20.8px;">Marcelo Chalr&eacute;o (Pres. Com. Dir. Humanos OAB RJ)</span><br />
 Maria Beatriz Costa Carvalho Vannuchi - &nbsp;psicanalista<br />
 Maria Laura de Abreu d&#39;Avila<br />
 Maria Marta Azzolini<br />
@@ -244,6 +250,7 @@ Prof. Horacio Martins &ndash; Curitiba<br />
 Rafael Litvin Villas B&ocirc;as, Professor da Universidade de Bras&iacute;lia<br />
 Ramatis Jacino, historiador - S&atilde;o Paulo - SP<br />
 Renato da Silva Queiroz, FFLCH-USP<br />
-Wilson Cano, economista, professor decano da Unicamp</p>
+Wilson Cano, economista, professor decano da Unicamp<br />
+Zenaide Machado de Oliveira, ex presa pol&iacute;tica, soci&oacute;loga</p>
 
 <p>&nbsp;</p>
