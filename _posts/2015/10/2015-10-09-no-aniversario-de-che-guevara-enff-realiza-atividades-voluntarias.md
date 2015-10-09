@@ -72,7 +72,7 @@ O trabalho volunt&aacute;rio &eacute; uma pratica permanente na ENFF. Os educand
 <figcaption></figcaption>
 </figure>
 
-<p>Para Rosane Fernandes, da Comiss&atilde;o Pol&iacute;tico Pedag&oacute;gico da ENFF, o trabalho volunt&aacute;rio representa o fortalecimento do ser humano e da conquista de novos rumos para transforma&ccedil;&otilde;es sociais.</p>
+<p>Para Rosana&nbsp;Fernandes, da Comiss&atilde;o Pol&iacute;tico Pedag&oacute;gico da ENFF, o trabalho volunt&aacute;rio representa o fortalecimento do ser humano e da conquista de novos rumos para transforma&ccedil;&otilde;es sociais.</p>
 
 <p><br />
 Durante as atividades, os Sem Terra relembravam uma frase cl&aacute;ssica de Che, ao dizer que &ldquo;se voc&ecirc; &eacute; capaz de se indignar contra qualquer injusti&ccedil;a, cometida contra qualquer pessoal, em qualquer parte do mundo, ent&atilde;o somos companheiros&rdquo;.</p>
