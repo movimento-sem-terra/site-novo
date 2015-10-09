@@ -26,8 +26,8 @@ releated_posts:
   - 2015/09/2015-09-22-ruralistas-intensificam-ofensiva-sobre-indigenas-e-abrem-cpi-contra-o-cimi-no-ms.md
 
 ---
-<figure class="image" style="float:left"><img alt="patrick.jpg" src="http://farm6.staticflickr.com/5783/21432156313_6352257827_b.jpg" />
-<figcaption></figcaption>
+<figure class="image" style="float:right"><img alt="patrick.jpg" src="http://farm6.staticflickr.com/5783/21432156313_6352257827_b.jpg" />
+<figcaption>Patrick Mariano &eacute; advogado e doutorando na Universidade de Coimbra/Portugal.</figcaption>
 </figure>
 
 <p><br />
@@ -66,4 +66,4 @@ Atualmente s&atilde;o 600 profissionais espalhados por todo o Brasil. A luta des
 Quando a RENAP completou 5 anos, o ex-senador Jos&eacute; Paulo Bisol lan&ccedil;ou um desafio. Disse ele que gostaria de ver onde todos estariam nos pr&oacute;ximos 5 anos, se n&atilde;o estariam captulados cuidando de suas pr&oacute;prias vidas, deixando a m&iacute;stica da transforma&ccedil;&atilde;o social em segundo plano. Pois a RENAP completou outros cinco, dez e agora chega aos vinte anos mais consolidada do que nunca. Oxal&aacute; a RENAP consiga continuar vencendo o desafio do grande senador e resistir por mais 20 anos.</p>
 
 <p><br />
-<em>*Patrick Mariano, 35, advogado, doutorando &nbsp;na Universidade de Coimbra/Portugal.&nbsp;&nbsp;</em></p>
+<em>*Patrick Mariano, 35, advogado, doutorando na Universidade de Coimbra/Portugal.&nbsp;&nbsp;</em></p>
