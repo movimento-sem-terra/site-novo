@@ -7,7 +7,7 @@ tags:
 title: "Quatro mil Sem Terra ocupam Fazenda Santa Helena, em Goiás"
 menu: reforma agrária
 sector: mass-front
-section: cover
+section: null
 support_line: "A ocupação que começou com 200 pessoas, hoje, 19 dias depois, já conta com 4 mil Sem Terra. "
 images_hd: "http://farm6.staticflickr.com/5650/21403549813_10df8d2bc8_b.jpg"
 layout: post
