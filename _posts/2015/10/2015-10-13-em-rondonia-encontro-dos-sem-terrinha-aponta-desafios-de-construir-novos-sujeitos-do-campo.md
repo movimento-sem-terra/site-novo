@@ -38,9 +38,7 @@ releated_posts:
 ---
 <p><br />
 <em>Por Francisco Reginaldo&nbsp;<br />
-Da P&aacute;gina do MST</em></p>
-
-<p><em>Fotos: Aureni Miranda e Julia Bijus</em><br />
+Da P&aacute;gina do MST</em><br />
 <br />
 Durante os dias 08 e 09 de outubro, o MST do estado de Rond&ocirc;nia realizou o encontro dos Sem Terrinha de forma din&acirc;mica e direcionada em duas regionais do estado, com destaque para a regi&atilde;o norte que abrange tr&ecirc;s assentamentos e um acampamento.&nbsp;</p>
 
@@ -57,11 +55,9 @@ Foram realizadas oficinas como: teatro, musica, capoeira, futebol, pintura, toda
 J&aacute; na regional centro, o encontro aconteceu no CEPAC (Centro de Estudos e Pesquisa da Agricultura Camponesa), localizado no assentamento Padre Ezequiel Ramim, na cidade Mirante da Serra.&nbsp;</p>
 
 <p><br />
-Duas grandes escolas dos assentamentos Margarida Alves e Palmares, tiveram participa&ccedil;&atilde;o ativa no processo, somantizando aproximadamente 230 alunos do pr&eacute;-infantil ao 9&deg; ano fundamental, al&eacute;m da participa&ccedil;&atilde;o das escolas de outros assentamentos. No geral cerca 30 educadores e educadoras, juntamente com os militantes contribu&iacute;ram na organiza&ccedil;&atilde;o do evento.</p>
+Duas grandes escolas dos assentamentos Margarida Alves e Palmares, tiveram participa&ccedil;&atilde;o ativa no processo, somatizando aproximadamente 230 alunos do pr&eacute;-infantil ao 9&deg; ano fundamental, al&eacute;m da participa&ccedil;&atilde;o das escolas de outros assentamentos. No geral cerca 30 educadores e educadoras, juntamente com os militantes contribu&iacute;ram na organiza&ccedil;&atilde;o do evento.</p>
 
 <p><br />
 <span style="line-height: 20.8px;"><strong>&quot;As m&atilde;os que plantam, s&atilde;o as m&atilde;os que lutam&rdquo;</strong></span><br />
 <br />
-O encontro tamb&eacute;m foi palco de debate sobre a produ&ccedil;&atilde;o agroecol&oacute;gica, que girou em torno da constru&ccedil;&atilde;o do plano de cacau agroecol&oacute;gico a ser implementado nos assentamentos de Rond&ocirc;nia. Os espa&ccedil;os foram animados com muitas brincadeiras e m&uacute;sicas dos CDs sem terrinha, educa&ccedil;&atilde;o do campo e dos violeiros, al&eacute;m das din&acirc;micas de estudos e aprendizado que permearam a programa&ccedil;&atilde;o.&nbsp;</p>
-
-<p>&nbsp;</p>
+O encontro tamb&eacute;m foi palco de debate sobre a produ&ccedil;&atilde;o agroecol&oacute;gica, que girou em torno da constru&ccedil;&atilde;o do plano de cacau agroecol&oacute;gico a ser implementado nos assentamentos de Rond&ocirc;nia. Os espa&ccedil;os foram animados com muitas brincadeiras e m&uacute;sicas dos CDs sem terrinha, educa&ccedil;&atilde;o do campo e dos violeiros, al&eacute;m das din&acirc;micas de estudos e aprendizado que permearam a programa&ccedil;&atilde;o.</p>
