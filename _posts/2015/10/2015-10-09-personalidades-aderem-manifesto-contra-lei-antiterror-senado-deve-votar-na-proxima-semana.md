@@ -23,6 +23,7 @@ releated_posts:
   - 2015/08/2015-08-14-para-mst-pl-antiterrorismo-e-absurdo-e-pedira-veto-em-reuniao-com-dilma.md
   - 2014/04/2014-04-02-leis-antiterrorismo-preocupam-movimentos-sociais.md
   - 2015/08/2015-08-11-manifestacoes-publicas-de-protesto-nao-sao-terrorismo.md
+section: featured-news
 
 ---
 <p><img alt="criminalizacao-dos-movimentos-sociais.jpg" src="http://farm6.staticflickr.com/5628/21866750200_289bf906fe_b.jpg" /><br />
