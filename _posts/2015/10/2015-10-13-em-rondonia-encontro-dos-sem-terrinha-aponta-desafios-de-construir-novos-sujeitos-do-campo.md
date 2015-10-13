@@ -34,9 +34,8 @@ releated_posts:
 <em>Por Francisco Reginaldo&nbsp;<br />
 Da P&aacute;gina do MST</em><br />
 <br />
-Durante os dias 08 e 09 de outubro, o MST do estado de Rond&ocirc;nia realizou o encontro dos Sem Terrinha de forma din&acirc;mica e direcionada em duas regionais do estado, com destaque para a regi&atilde;o norte que abrange tr&ecirc;s assentamentos e um acampamento.&nbsp;</p>
-
-<p><br />
+Durante os dias 08 e 09 de outubro, o MST do estado de Rond&ocirc;nia realizou o encontro dos Sem Terrinha de forma din&acirc;mica e direcionada em duas regionais do estado, com destaque para a regi&atilde;o norte que abrange tr&ecirc;s assentamentos e um acampamento.&nbsp;<br />
+<br />
 <img alt="sem terrinha RO4.jpg" src="http://farm1.staticflickr.com/585/21956688659_5dfa204e4b_b.jpg" style="float:left" />Com o desafio de construir novos sujeitos do campo e assim dar &agrave;s crian&ccedil;as um lugar digno para viver, a Jornada Sem terrinha demonstra a for&ccedil;a do Movimento, mesmo diante do atual contexto de grandes enfrentamentos, e aponta as perspectivas da luta dos trabalhadores e trabalhadoras sem terra no&nbsp;estado de Rond&ocirc;nia.</p>
 
 <p><br />
