@@ -5,7 +5,7 @@ tags:
   - tag: fechamento-de-escolas
   - tag: Bahia
   - tag: lutas
-title: "Sem Terrinha lutam contra o fechamento de escolas no extremo sul da Bahia "
+title: "Sem Terrinha lutam contra o fechamento de escolas no sul da Bahia "
 support_line: "Os encontros fortaleceram a identidade camponesa através da mística, da ciranda e das brincadeiras que fazem parte do dia a dia dos assentamentos e acampamentos do MST. \n"
 menu: "educação, cultura e comunicação"
 images_hd: "http://farm6.staticflickr.com/5621/21474374654_c3e034dfc4_b.jpg"
@@ -45,14 +45,12 @@ section: cover
 ---
 <p><img alt="Brigada Che - brincadeiras.jpg" height="394" src="http://farm1.staticflickr.com/679/22084707902_9f75b32cf6_b.jpg" width="700" /></p>
 
-<p>&nbsp;</p>
-
-<p><em>Por&nbsp;Coletivo de Comunica&ccedil;&atilde;o do MST na Bahia<br />
+<p><br />
+<em>Por&nbsp;Coletivo de Comunica&ccedil;&atilde;o do MST na Bahia<br />
 Da P&aacute;gina do MST</em></p>
 
-<p>&nbsp;</p>
-
-<p>Entre os dias 09 e 12 de outubro, a <span style="line-height: 20.8px;">Jornada dos Sem Terrinha</span>&nbsp;mobilizou cerca de 600 crian&ccedil;as das brigadas Joaquim Ribeiro, Ch&ecirc; Guevara e Elias Gon&ccedil;alves de Meura no extremo sul da Bahia contra<span style="line-height: 20.8px;">&nbsp;o fechamento das escolas no campo.&nbsp;</span></p>
+<p><br />
+Entre os dias 09 e 12 de outubro, a <span style="line-height: 20.8px;">Jornada dos Sem Terrinha</span>&nbsp;mobilizou cerca de 600 crian&ccedil;as das brigadas Joaquim Ribeiro, Ch&ecirc; Guevara e Elias Gon&ccedil;alves de Meura no extremo sul da Bahia contra<span style="line-height: 20.8px;">&nbsp;o fechamento das escolas no campo.&nbsp;</span></p>
 
 <p><br />
 A frente deste processo, as crian&ccedil;as realizaram tr&ecirc;s encontros simult&acirc;neos nos munic&iacute;pios do Prado, Itabela e Santa Cruz Cabr&aacute;lia.</p>
@@ -60,17 +58,14 @@ A frente deste processo, as crian&ccedil;as realizaram tr&ecirc;s encontros simu
 <p><br />
 Os encontros fortaleceram a identidade camponesa atrav&eacute;s&nbsp;da m&iacute;stica, da&nbsp;ciranda&nbsp;e dos jogos e brincadeiras&nbsp;que fazem parte do dia a dia dos assentamentos e acampamentos do MST.&nbsp;</p>
 
-<p>&nbsp;</p>
+<p><br />
+As a&ccedil;&otilde;es tamb&eacute;m abordaram a import&acirc;ncia da agroecologia nas escolas, a constru&ccedil;&atilde;o da soberania alimentar, a educa&ccedil;&atilde;o do campo e a Reforma Agr&aacute;ria.&nbsp;</p>
 
-<p>As a&ccedil;&otilde;es tamb&eacute;m abordaram a import&acirc;ncia da agroecologia nas escolas, a constru&ccedil;&atilde;o da soberania alimentar, a educa&ccedil;&atilde;o do campo e a Reforma Agr&aacute;ria.&nbsp;</p>
+<p><br />
+Os pequenos tamb&eacute;m denunciaram a aus&ecirc;ncia de pol&iacute;ticas p&uacute;blicas e cobraram das autoridades maior responsabilidade e compromisso com os povos do campo.</p>
 
-<p>&nbsp;</p>
-
-<p>Os pequenos tamb&eacute;m denunciaram a aus&ecirc;ncia de pol&iacute;ticas p&uacute;blicas e cobraram das autoridades maior responsabilidade e compromisso com os povos do campo.</p>
-
-<p>&nbsp;</p>
-
-<p>Ingrid Santiago (10), estudante, afirmou que o encontro dos Sem Terrinha foi muito legal por ter sentido na pele a energia de estar fazendo luta junto com outras crian&ccedil;as.</p>
+<p><br />
+Ingrid Santiago (10), estudante, afirmou que o encontro dos Sem Terrinha foi muito legal por ter sentido na pele a energia de estar fazendo luta junto com outras crian&ccedil;as.</p>
 
 <p><br />
 J&aacute; Gustavo Santos (12), tamb&eacute;m estudante, acredita que todos os temas trabalhados nos encontros s&atilde;o importantes e a caminhada realizada nos centros das cidades puderam dialogar com a sociedade sobre a Reforma Agr&aacute;ria.</p>
@@ -80,13 +75,11 @@ J&aacute; Gustavo Santos (12), tamb&eacute;m estudante, acredita que todos os te
 
 <p><img alt="Brigada Joaquim.jpg" height="713" src="http://farm1.staticflickr.com/709/21476070663_994d1ec24d_b.jpg" width="700" /></p>
 
-<p>&nbsp;</p>
+<p><br />
+<strong>Jornada Sem Terrinha</strong></p>
 
-<p><strong>Jornada Sem Terrinha</strong></p>
-
-<p>&nbsp;</p>
-
-<p>A jornada de luta e forma&ccedil;&atilde;o em defesa da educa&ccedil;&atilde;o do campo &eacute; realizada no m&ecirc;s de outubro para desconstruir a apropria&ccedil;&atilde;o dada pelo capital ao dia das crian&ccedil;as em rela&ccedil;&atilde;o ao consumo.&nbsp;</p>
+<p><br />
+A jornada de luta e forma&ccedil;&atilde;o em defesa da educa&ccedil;&atilde;o do campo &eacute; realizada no m&ecirc;s de outubro para desconstruir a apropria&ccedil;&atilde;o dada pelo capital ao dia das crian&ccedil;as em rela&ccedil;&atilde;o ao consumo.&nbsp;</p>
 
 <p><br />
 &ldquo;Queremos que nossas crian&ccedil;as compreendam a nossa realidade e percebam que a luta &eacute; de extrema import&acirc;ncia para romper o individualismo e forjar sujeitos cr&iacute;ticos e coletivos&rdquo;, ressaltou o setor de educa&ccedil;&atilde;o do extremo sul.&nbsp;</p>
