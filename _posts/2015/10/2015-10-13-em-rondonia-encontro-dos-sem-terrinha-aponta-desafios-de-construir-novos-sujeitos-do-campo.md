@@ -4,7 +4,7 @@ tags:
   - tag: educação
   - tag: sem-terrinha
   - tag: jornada-dos-sem-terrinha
-title: Em Rondônia encontro dos sem terrinha aponta desafios de construir novos sujeitos do campo
+title: Em Rondônia encontro dos sem terrinha aponta o desafio de construir novos sujeitos do campo
 support_line: Jornada Sem terrinha demonstra a força do Movimento e aponta as perspectivas da luta dos trabalhadores sem terra no estado.
 menu: "educação, cultura e comunicação"
 images_hd: "http://farm6.staticflickr.com/5817/22142942005_7c0b3924f2_b.jpg"
@@ -40,9 +40,7 @@ releated_posts:
 <em>Por Francisco Reginaldo&nbsp;<br />
 Da P&aacute;gina do MST</em></p>
 
-<p><em>Fotos: Aureni Miranda e Julia Bijus</em></p>
-
-<p><img alt="sem terrinha RO4.jpg" src="http://farm6.staticflickr.com/5700/21956129879_cfb4f3835c_b.jpg" /><br />
+<p><em>Fotos: Aureni Miranda e Julia Bijus</em><br />
 <br />
 Durante os dias 08 e 09 de outubro, o MST do estado de Rond&ocirc;nia realizou o encontro dos Sem Terrinha de forma din&acirc;mica e direcionada em duas regionais do estado, com destaque para a regi&atilde;o norte que abrange tr&ecirc;s assentamentos e um acampamento.&nbsp;</p>
 
