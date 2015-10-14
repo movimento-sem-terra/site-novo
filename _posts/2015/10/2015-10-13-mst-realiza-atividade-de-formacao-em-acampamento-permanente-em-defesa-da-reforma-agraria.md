@@ -34,8 +34,7 @@ releated_posts:
 <p><img alt="df2.jpg" src="http://farm6.staticflickr.com/5751/22138135715_613cd02c9f_b.jpg" /></p>
 
 <p><br />
-<em>Por Marco Antonio Baratto<br />
-Da P&aacute;gina do MST</em></p>
+<em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
 Desde o dia 1&deg; de outubro, o MST do Distrito Federal e Entorno segue com o acampamento permanente em defesa da Reforma Agr&aacute;ria Popular, em frente a sede do governo do DF e da C&acirc;mara legislativa local, no eixo monumental em Bras&iacute;lia.</p>
