@@ -50,6 +50,9 @@ Da P&aacute;gina do MST</em></p>
 A 1&deg; Feira Nacional da Reforma Agr&aacute;ria, que acontece entre 22 e 25 de outubro no Parque da &Aacute;gua Branca em S&atilde;o Paulo, tem o objetivo de fortalecer a rela&ccedil;&atilde;o entre campo e cidade, oferecendo para popula&ccedil;&atilde;o o acesso a alimentos saud&aacute;veis, livres de agrot&oacute;xicos, ao mesmo tempo em que favorece a agricultura camponesa, hoje respons&aacute;vel por cerca de 70% da produ&ccedil;&atilde;o de alimentos no pa&iacute;s, segundo dados do IBGE (<strong><a href="https://www.facebook.com/events/1499754990323457/" target="_blank">Confira o evento da Feira no Facebook</a></strong>).</p>
 
 <p><br />
+Durante os quatro dias ser&atilde;o comercializados mais de 230 toneladas de alimentos entre os cerca de 800 produtos das &aacute;reas de assentamentos de 23 estados mais o Distrito Federal.&nbsp;</p>
+
+<p><br />
 Em entrevista, Carla Guindani, do setor de produ&ccedil;&atilde;o do MST, relaciona a Reforma Agr&aacute;ria como mote para a produ&ccedil;&atilde;o de alimentos saud&aacute;veis no pa&iacute;s.&nbsp;</p>
 
 <p><br />
