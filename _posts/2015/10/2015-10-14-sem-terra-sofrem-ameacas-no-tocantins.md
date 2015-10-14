@@ -69,6 +69,9 @@ O Incra afirma que n&atilde;o existe nenhum registro de propriedade em nome de T
 
 <p><br />
 O m&eacute;dico agora insatisfeito com a posi&ccedil;&atilde;o do Incra segue amea&ccedil;ando as fam&iacute;lias assentadas no local. &nbsp;&nbsp;<br />
-O MST j&aacute; acionou a Ouvidoria do Incra e a pol&iacute;cia militar que est&aacute; apurando o caso. O Movimento tamb&eacute;m registrou um boletim de ocorr&ecirc;ncia junto a delegacia civil de Porto Nacional na &uacute;ltima segunda-feira (12).&nbsp;</p>
+O MST j&aacute; acionou a Ouvidoria do Incra e a pol&iacute;cia militar que est&aacute; apurando o caso.</p>
+
+<p><br />
+O Movimento tamb&eacute;m registrou um boletim de ocorr&ecirc;ncia junto a delegacia civil de Porto Nacional na &uacute;ltima segunda-feira (12).&nbsp;</p>
 
 <p>&nbsp;</p>
