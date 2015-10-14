@@ -1,6 +1,12 @@
 ---
 date: "2015-10-14T11:09:52-03:00"
-tags: []
+tags:
+  - tag: feira-da-reforma-agrária
+  - tag: reforma-agrária
+  - tag: agricultura-camponesa
+  - tag: alimentação
+  - tag: saúde
+  - tag: agrotóxicos
 title: "“Não colocamos um prato de comida em nossas mesas, mas um cálice de veneno”, afirma dirigente do MST"
 menu: reforma agrária
 section: cover
@@ -23,7 +29,15 @@ files:
     $$hashKey: 02P
 created_date: "2015-10-14T11:26:38-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - 2014/07/2014-07-17-vegetais-organicos-contem-60-mais-antioxidantes-do-que-com-agrotoxicos.md
+  - 2015/10/2015-10-06-hortas-organicas-mais-que-alternativa-um-modo-de-vida-de-assentadas-da-reforma-agraria-no-rs.md
+  - 2015/09/2015-09-02-toneladas-de-alimentos-dao-inicio-a-16a-feira-da-reforma-agraria-em-maceio.md
+  - 2015/04/2015-04-06-comida-patrimonio-ameacado.md
+  - 2015/05/2015-05-26-poucas-redes-ditam-o-que-vamos-comer.md
+  - 2015/06/2015-06-17-prefeitura-de-sp-compra-mais-de-650-toneladas-de-feijao-da-reforma-agraria-para-merenda-escolar.md
+  - 2015/06/2015-06-17-a-agroecologia-como-modelo-ideal-de-producao-de-alimentos.md
+  - 2015/09/2015-09-09-criancas-e-adolescentes-estao-entre-as-principais-vitimas-de-intoxicacao-por-agrotoxicos-no-brasil.md
 
 ---
 <p><img alt="20150422-glifosato.jpg" src="http://farm6.staticflickr.com/5638/21977513540_d4b7735cc5_b.jpg" /><br />
