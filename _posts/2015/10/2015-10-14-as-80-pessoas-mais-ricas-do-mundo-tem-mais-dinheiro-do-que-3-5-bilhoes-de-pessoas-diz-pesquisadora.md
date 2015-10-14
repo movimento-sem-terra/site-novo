@@ -44,6 +44,7 @@ releated_posts:
   - 2015/04/2015-04-06-comida-patrimonio-ameacado.md
   - 2015/05/2015-05-15-agricultura-atual-nao-e-sustentavel-afirma-diretor-geral-da-fao.md
   - 2015/07/2015-07-27-projetos-ao-agronegocio-tem-10-vezes-mais-verba-que-a-agricultura-familiar-em-sp.md
+section: cover
 
 ---
 <p><img alt="silvia_ribeiro.jpg" src="http://farm6.staticflickr.com/5784/21975058018_02ec91045e_b.jpg" /></p>
