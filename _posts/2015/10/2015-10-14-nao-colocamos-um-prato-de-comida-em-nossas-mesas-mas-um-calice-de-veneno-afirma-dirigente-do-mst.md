@@ -12,7 +12,7 @@ menu: reforma agrária
 section: cover
 label: interviews
 images_hd: "http://farm6.staticflickr.com/5638/21977513540_d4b7735cc5_b.jpg"
-support_line: "Em entrevista, Carla Guindane, do setor de produção do MST, traz o debate político em torno da 1° Feira Nacional da Reforma Agrária."
+support_line: "Em entrevista, Carla Guindani, do setor de produção do MST, traz o debate político em torno da 1° Feira Nacional da Reforma Agrária."
 layout: post
 files:
   - link: "http://farm1.staticflickr.com/705/22175739811_9d51bd4372_b.jpg"
@@ -49,13 +49,13 @@ Da P&aacute;gina do MST</em></p>
 A 1&deg; Feira Nacional da Reforma Agr&aacute;ria, que acontece entre 22 e 25 de outubro no Parque da &Aacute;gua Branca em S&atilde;o Paulo, tem o objetivo de fortalecer a rela&ccedil;&atilde;o entre campo e cidade, oferecendo para popula&ccedil;&atilde;o o acesso a alimentos saud&aacute;veis, livres de agrot&oacute;xicos, ao mesmo tempo em que favorece a agricultura camponesa, hoje respons&aacute;vel por cerca de 70% da produ&ccedil;&atilde;o de alimentos no pa&iacute;s, segundo dados do IBGE (<strong><a href="https://www.facebook.com/events/1499754990323457/" target="_blank">Confira o evento da Feira no Facebook</a></strong>).</p>
 
 <p><br />
-Em entrevista, Carla Guindane, do setor de produ&ccedil;&atilde;o do MST, relaciona a Reforma Agr&aacute;ria como mote para a produ&ccedil;&atilde;o de alimentos saud&aacute;veis no pa&iacute;s.&nbsp;</p>
+Em entrevista, Carla Guindani, do setor de produ&ccedil;&atilde;o do MST, relaciona a Reforma Agr&aacute;ria como mote para a produ&ccedil;&atilde;o de alimentos saud&aacute;veis no pa&iacute;s.&nbsp;</p>
 
 <p><br />
 Para ela, num cen&aacute;rio em que a Reforma Agr&aacute;ria est&aacute; parada, &ldquo;&eacute; importante, por meio da feira, trazer essa pauta &agrave; popula&ccedil;&atilde;o brasileira e os resultados que a Reforma Agr&aacute;ria proporciona&rdquo;.&nbsp;</p>
 
 <p><br />
-Guindane tamb&eacute;m afirma que a falta de investimentos no setor evidencia a escolha do governo federal pela ind&uacute;stria do agroneg&oacute;cio, que tem como meta apenas o lucro.&nbsp;</p>
+Guindani&nbsp;tamb&eacute;m afirma que a falta de investimentos no setor evidencia a escolha do governo federal pela ind&uacute;stria do agroneg&oacute;cio, que tem como meta apenas o lucro.&nbsp;</p>
 
 <p><br />
 &ldquo;Os assentamentos de Reforma Agr&aacute;ria tem toda a condi&ccedil;&atilde;o de atender a demanda massiva de produ&ccedil;&atilde;o de alimentos saud&aacute;veis, caso o Estado fomentasse. O que fica claro para n&oacute;s &eacute; que essa &eacute; uma op&ccedil;&atilde;o pol&iacute;tica do governo de n&atilde;o apoiar a Reforma Agr&aacute;ria e apoiar os agroqu&iacute;micos, o latif&uacute;ndio e o agroneg&oacute;cio&rdquo;, ressalta.</p>
