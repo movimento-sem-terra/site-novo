@@ -1,5 +1,5 @@
 ---
-date: "2015-10-14T08:59:47-03:00"
+date: "2015-10-14T11:10:47-03:00"
 tags:
   - tag: agronegócio
   - tag: agricultura-camponesa
@@ -44,7 +44,7 @@ releated_posts:
   - 2015/04/2015-04-06-comida-patrimonio-ameacado.md
   - 2015/05/2015-05-15-agricultura-atual-nao-e-sustentavel-afirma-diretor-geral-da-fao.md
   - 2015/07/2015-07-27-projetos-ao-agronegocio-tem-10-vezes-mais-verba-que-a-agricultura-familiar-em-sp.md
-section: cover
+section: null
 
 ---
 <p><img alt="silvia_ribeiro.jpg" src="http://farm6.staticflickr.com/5784/21975058018_02ec91045e_b.jpg" /></p>
