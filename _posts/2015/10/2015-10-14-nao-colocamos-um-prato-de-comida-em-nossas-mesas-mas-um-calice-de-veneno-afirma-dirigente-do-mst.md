@@ -38,6 +38,7 @@ releated_posts:
   - 2015/06/2015-06-17-prefeitura-de-sp-compra-mais-de-650-toneladas-de-feijao-da-reforma-agraria-para-merenda-escolar.md
   - 2015/06/2015-06-17-a-agroecologia-como-modelo-ideal-de-producao-de-alimentos.md
   - 2015/09/2015-09-09-criancas-e-adolescentes-estao-entre-as-principais-vitimas-de-intoxicacao-por-agrotoxicos-no-brasil.md
+special-page: first-street-market
 
 ---
 <p><img alt="20150422-glifosato.jpg" src="http://farm6.staticflickr.com/5638/21977513540_d4b7735cc5_b.jpg" /><br />
