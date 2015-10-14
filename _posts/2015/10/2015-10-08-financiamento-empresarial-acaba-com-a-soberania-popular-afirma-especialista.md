@@ -28,6 +28,7 @@ releated_posts:
   - 2015/05/2015-05-22-pmdb-quer-aprovar-lei-do-mais-rico-na-reforma-politica.md
   - 2015/06/2015-06-12-na-camara-um-projeto-de-matar-a-reforma-politica.md
   - 2015/06/2015-06-23-deputados-descartam-propostas-da-sociedade-civil-para-a-reforma-politica.md
+label: interviews
 
 ---
 <figure class="image" style="float:right"><img alt="moroni.png" src="http://farm1.staticflickr.com/744/22049529451_99a0c847b6_b.jpg" />
