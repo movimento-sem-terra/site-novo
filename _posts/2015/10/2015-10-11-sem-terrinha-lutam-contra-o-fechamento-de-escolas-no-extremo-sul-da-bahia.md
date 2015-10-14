@@ -40,7 +40,7 @@ published: true
 releated_posts:
   - 2015/06/2015-06-24-mais-de-4-mil-escolas-do-campo-fecham-suas-portas-em-2014.md
   - 2015/08/2015-08-05-em-semana-de-lutas-sem-terras-denunciam-os-entraves-educacionais-na-ba.md
-section: cover
+section: null
 
 ---
 <p><img alt="Brigada Che - brincadeiras.jpg" height="394" src="http://farm1.staticflickr.com/679/22084707902_9f75b32cf6_b.jpg" width="700" /></p>
