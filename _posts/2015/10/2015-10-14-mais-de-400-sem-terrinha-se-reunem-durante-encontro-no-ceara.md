@@ -17,6 +17,18 @@ files:
     small: "http://farm1.staticflickr.com/582/21552165834_9f02fd7e6a_n.jpg"
     title: sem terrinha_CEARA.jpg
     $$hashKey: 02N
+  - link: "http://farm1.staticflickr.com/599/22004437078_d53304c23b_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/599/22004437078_d53304c23b_t.jpg"
+    medium: "http://farm1.staticflickr.com/599/22004437078_d53304c23b_z.jpg"
+    small: "http://farm1.staticflickr.com/599/22004437078_d53304c23b_n.jpg"
+    title: _DSC1994.jpg
+    $$hashKey: 0CO
+  - link: "http://farm1.staticflickr.com/759/22179675732_c494411aab_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/759/22179675732_c494411aab_t.jpg"
+    medium: "http://farm1.staticflickr.com/759/22179675732_c494411aab_z.jpg"
+    small: "http://farm1.staticflickr.com/759/22179675732_c494411aab_n.jpg"
+    title: _DSC1906 (2).jpg
+    $$hashKey: 0CR
 created_date: "2015-10-14T18:51:51-03:00"
 published: true
 releated_posts:
@@ -54,9 +66,11 @@ A Sem Terrinha Raylla Dias, do munic&iacute;pio de Crate&uacute;s, do assentamen
 J&aacute; Jorge Menezes, do assentamento Crisantemo, em Quixeramobim, conta sobre as dificuldades enfrentadas no dia a dia.&nbsp;</p>
 
 <p><br />
-&ldquo;Desde quando nasci que l&aacute; em Quixeramobim falta &aacute;gua. Meus pais n&atilde;o podem plantar e nem ter cria&ccedil;&otilde;es. &Eacute; a primeira vez que venho em Fortaleza, e aqui onde estamos tem &aacute;gua na torneira e tem bebedouro, &eacute; muito dif&iacute;cil isso l&aacute; em Quixeramobim. Eu vou para a escola de &ocirc;nibus, tenho que acordar cedo, e nem tem galo pra cantar, porque as galinhas nem &aacute;gua pra beber tem l&aacute;, e eu estudo em outra comunidade, porque l&aacute; onde eu moro tem escola, mas n&atilde;o tem espa&ccedil;o para as crian&ccedil;as, eu e meus amigos reclamamos porque isso n&atilde;o &eacute; bom&rdquo;.</p>
+&ldquo;Desde quando nasci que l&aacute; em Quixeramobim falta &aacute;gua. Meus pais n&atilde;o podem plantar e nem ter cria&ccedil;&otilde;es. &Eacute; a primeira vez que venho em Fortaleza, e aqui onde estamos tem &aacute;gua na torneira e tem bebedouro, &eacute; muito dif&iacute;cil isso l&aacute; em Quixeramobim. Eu vou para a escola de &ocirc;nibus, tenho que acordar cedo, e nem tem galo pra cantar, porque as galinhas nem &aacute;gua pra beber tem l&aacute;, e eu estudo em outra comunidade, porque l&aacute; onde eu moro tem escola, mas n&atilde;o tem espa&ccedil;o para as crian&ccedil;as, eu e meus amigos reclamamos porque isso n&atilde;o &eacute; bom&rdquo;.<br />
+&nbsp;</p>
 
-<p><br />
+<p><img alt="_DSC1994.jpg" src="http://farm1.staticflickr.com/599/22004437078_d53304c23b_b.jpg" /><br />
+<br />
 <strong>Fechar Escola &eacute; Crime</strong></p>
 
 <p><br />
@@ -68,8 +82,13 @@ O encontro afirmou novamente a campanha &ldquo;Fechar Escola &eacute; Crime&rdqu
 <p><br />
 O encontro contou com debates sobre a inf&acirc;ncia sem terra, a escola que temos e a escola que queremos, diversas oficinas l&uacute;dicas, formativas e educativas para as crian&ccedil;as como as oficinas de mamulengos, constru&ccedil;&atilde;o de livro, dan&ccedil;a, capoeira, conta&ccedil;&atilde;o de hist&oacute;rias, m&uacute;sicas infantis, constru&ccedil;&atilde;o de brinquedos, jogos e brincadeiras, mandala e hortas, pinturas de pain&eacute;is e etc.</p>
 
-<p><br />
-Durante todo o encontro as crian&ccedil;as sem terra puderam participar das atividades mostrando que seu direito de se expressar e ser respeitada. No encontro foram criados diversos gritos homenageando os sem terrinhas, um poema e a composi&ccedil;&atilde;o de uma m&uacute;sica pelos sem terrinhas do mun&iacute;cipio de Quixeramobim. V&aacute;rias interven&ccedil;&otilde;es aconteceram durante as plen&aacute;rias, tendo as crian&ccedil;as a possibilidade de falar o que sentem e dar visibilidade aos seus direitos negados.</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="_DSC1906 (2).jpg" src="http://farm1.staticflickr.com/759/22179675732_c494411aab_b.jpg" />
+<figcaption></figcaption>
+</figure>
+
+<p>Durante todo o encontro as crian&ccedil;as sem terra puderam participar das atividades mostrando que seu direito de se expressar e ser respeitada. No encontro foram criados diversos gritos homenageando os sem terrinhas, um poema e a composi&ccedil;&atilde;o de uma m&uacute;sica pelos sem terrinhas do mun&iacute;cipio de Quixeramobim. V&aacute;rias interven&ccedil;&otilde;es aconteceram durante as plen&aacute;rias, tendo as crian&ccedil;as a possibilidade de falar o que sentem e dar visibilidade aos seus direitos negados.</p>
 
 <p><br />
 &ldquo;&Eacute; a primeira vez que venho para o encontro dos sem terrinhas. Eu e todos meus amigos l&aacute; do assentamento Macei&oacute; quase n&atilde;o conseguimos dormir quando soubemos que o encontro iria acontecer. O &Iacute;talo e o &Iacute;caro que s&atilde;o meus vizinhos, dormiram cedo e acordaram &agrave;s cinco da manh&atilde; e foram logo para a sede da brigada. Estamos gostando muito do encontro, &eacute; bom conhecer outros sem terrinhas e saber que temos que lutar para ter nossos direitos garantidos&rdquo;, afirmou o sem terrinha Lucas, do assentamento Macei&oacute;, no munic&iacute;pio de Itapipoca. &nbsp;</p>
