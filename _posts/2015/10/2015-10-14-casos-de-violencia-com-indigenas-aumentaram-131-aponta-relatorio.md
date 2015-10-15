@@ -25,6 +25,7 @@ releated_posts:
   - 2015/09/2015-09-25-deputada-ruralista-manda-prender-advogado-que-pedia-cpi-do-genocidio-indigena-no-ms.md
   - 2015/10/2015-10-01-movimentos-e-intelectuais-escrevem-manifesto-de-repudio-a-lei-antiterror.md
   - 2015/09/2015-09-15-nos-somos-as-vitimas-do-maior-genocidio-da-humanidade-denuncia-militante-indigena.md
+section: featured-news
 
 ---
 <p><img alt="demarcação_ja.jpg" src="http://farm1.staticflickr.com/596/22138348096_61bc528638_b.jpg" /><br />
