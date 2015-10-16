@@ -66,10 +66,13 @@ releated_posts:
 <p><img alt="1Ferreira 03(1)!.jpg" src="http://farm1.staticflickr.com/687/22034859289_005260a6e1_b.jpg" /></p>
 
 <p><br />
-<em>Por Solange Engelmann (<span style="line-height: 20.8px;">Texto e fotos)</span><br />
-Da P&aacute;gina do MST</em></p>
+<em>Em prepara&ccedil;&atilde;o &agrave; <strong><a href="http://www.mst.org.br/feira-reforma-agraria/" target="_blank">1&deg; Feira Nacional da Reforma Agr&aacute;ria</a></strong>, que acontece entre os dias 22 a 25/10, no Parque da &Aacute;gua Branca, em S&atilde;o Paulo, a P&aacute;gina do MST traz uma s&eacute;rie de entrevistas, reportagens e artigos sobre experi&ecirc;ncias de produ&ccedil;&atilde;o agr&iacute;cola nas &aacute;reas de assentamento, al&eacute;m do atual debate em torno da disputa entre dois modelos agr&iacute;colas para o campo brasileiro: o agroneg&oacute;cio vs a agroecologia.&nbsp;</em></p>
 
 <p>&nbsp;</p>
+
+<p><br />
+<em>Por Solange Engelmann (<span style="line-height: 20.8px;">Texto e fotos)</span><br />
+Da P&aacute;gina do MST</em></p>
 
 <p><br />
 Ap&oacute;s migrar do Cear&aacute; para o Par&aacute; e perambular por algumas cidades do estado trabalhando como arrendat&aacute;rio, Jos&eacute; Ferreira Pinheiro, 62 anos, e Maria de Nazar&eacute;, 55, resolveram se aliar aos Sem Terra. Da luta, conquistaram um lote, a possibilidade de criar os filhos em melhores condi&ccedil;&otilde;es e a dignidade de viver.</p>
