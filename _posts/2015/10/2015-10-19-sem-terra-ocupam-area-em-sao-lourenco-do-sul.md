@@ -17,6 +17,18 @@ files:
     small: "http://farm1.staticflickr.com/766/22290197262_a6193c8ef9_n.jpg"
     title: dsc00897.jpg
     $$hashKey: 0FX
+  - link: "http://farm6.staticflickr.com/5794/22314308881_2387a6fa52_b.jpg"
+    thumbnail: "http://farm6.staticflickr.com/5794/22314308881_2387a6fa52_t.jpg"
+    medium: "http://farm6.staticflickr.com/5794/22314308881_2387a6fa52_z.jpg"
+    small: "http://farm6.staticflickr.com/5794/22314308881_2387a6fa52_n.jpg"
+    title: 10509482_10204198751803810_2251422645043721056_n.jpg
+    $$hashKey: 05C
+  - link: "http://farm6.staticflickr.com/5645/21681009554_a30e254b36_b.jpg"
+    thumbnail: "http://farm6.staticflickr.com/5645/21681009554_a30e254b36_t.jpg"
+    medium: "http://farm6.staticflickr.com/5645/21681009554_a30e254b36_z.jpg"
+    small: "http://farm6.staticflickr.com/5645/21681009554_a30e254b36_n.jpg"
+    title: 12107970_10204198749563754_115585150652044387_n.jpg
+    $$hashKey: 05F
 created_date: "2015-10-19T10:47:05-02:00"
 published: true
 releated_posts:
@@ -28,7 +40,7 @@ releated_posts:
   - 2015/02/2015-01-30-patrus-x-katia-sao-tomas-e-ernani-maria-fiori-explicam.md
 
 ---
-<p><img alt="dsc00897.jpg" height="525" src="http://farm1.staticflickr.com/766/22290197262_a6193c8ef9_b.jpg" width="700" /></p>
+<p><img alt="12107970_10204198749563754_115585150652044387_n.jpg" height="525" src="http://farm6.staticflickr.com/5645/21681009554_a30e254b36_b.jpg" width="700" /></p>
 
 <p>&nbsp;</p>
 
@@ -58,3 +70,6 @@ Conforme Machado, o latif&uacute;ndio tem capacidade para assentar mais de 50 fa
 
 <p><br />
 As fam&iacute;lias que ocupam a fazenda estavam acampadas nos munic&iacute;pios de Encruzilhada do Sul, Eldorado do Sul, Tapes e Pelotas.</p>
+
+<p><br />
+&nbsp;</p>
