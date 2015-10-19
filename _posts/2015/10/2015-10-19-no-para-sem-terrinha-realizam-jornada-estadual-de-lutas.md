@@ -47,7 +47,8 @@ Da P&aacute;gina do MST</em></p>
 <p><br />
 Cerca de&nbsp;400 Sem Terrinhas participaram entre os dias 15 e 18 de outubro de mais uma jornada estadual de luta no Par&aacute;.</p>
 
-<p>A jornada estadual dos Sem Terrinha, que em 2015 completou&nbsp;15 anos&nbsp;como&nbsp;t<span style="line-height: 20.8px;">ema: &ldquo;15 anos brincando e defendendo a vida no campo&quot;,&nbsp;</span>foi realizada no Assentamento 17 de Abril, no munic&iacute;pio de Eldorado do Caraj&aacute;s.&nbsp;</p>
+<p><br />
+A jornada estadual dos Sem Terrinha, que em 2015 completou&nbsp;15 anos&nbsp;como&nbsp;t<span style="line-height: 20.8px;">ema: &ldquo;15 anos brincando e defendendo a vida no campo&quot;,&nbsp;</span>foi realizada no Assentamento 17 de Abril, no munic&iacute;pio de Eldorado do Caraj&aacute;s.&nbsp;</p>
 
 <p><br />
 Durante o encontro foram realizadas diversas atividades&nbsp;tem&aacute;ticas que inseriram as crian&ccedil;as na pautas de meio ambiente, agroecologia e organiza&ccedil;&atilde;o coletiva.&nbsp;</p>
