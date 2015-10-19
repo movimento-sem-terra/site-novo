@@ -4,7 +4,7 @@ tags:
   - tag: ocupação
   - tag: reforma-agrária
   - tag: rio-grande-do-sul
-title: "Sem Terra ocupam fazenda na região da Fronteira, no Rio Grande do Su"
+title: "Sem Terra ocupam fazenda na região da Fronteira, no Rio Grande do Sul"
 support_line: "A área de aproximadamente e 500 hectares é improdutiva e não cumpre com sua função social conforme determina o artigo 184 da Constituição Federal.\n"
 menu: reforma agrária
 images_hd: "http://farm6.staticflickr.com/5808/21681850663_4be01b5aee_b.jpg"
