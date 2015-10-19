@@ -41,8 +41,8 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p><em>Por Giselda Coelho<br />
-Da P&aacute;gina do MST</em></p>
+<p><em>Por Suely Ferreira</em><br />
+<em>Do Coletivo de Educa&ccedil;&atilde;o do MST no Par&aacute;</em></p>
 
 <p><br />
 Cerca de&nbsp;400 Sem Terrinhas participaram entre os dias 15 e 18 de outubro de mais uma jornada estadual de luta no Par&aacute;.</p>
