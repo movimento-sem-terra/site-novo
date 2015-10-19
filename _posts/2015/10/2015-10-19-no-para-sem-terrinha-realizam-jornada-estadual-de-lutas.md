@@ -63,6 +63,6 @@ Para a dire&ccedil;&atilde;o estadual do MST,&nbsp;&quot;o&nbsp;encontro foi de&
 Para fechar o encontro&nbsp;as crian&ccedil;as participaram de uma marcha batizada de <span style="line-height: 20.8px;">&ldquo;Brincando e defendendo a vida no campo&rdquo;.&nbsp;</span></p>
 
 <p><br />
-&nbsp;</p>
+<img alt="DSCF3909.JPG" height="467" src="http://farm6.staticflickr.com/5661/21687243154_09a5becf9a_b.jpg" width="700" /></p>
 
 <p>&nbsp;</p>
