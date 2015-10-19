@@ -35,10 +35,8 @@ releated_posts:
   - 2015/09/2015-09-15-nos-somos-as-vitimas-do-maior-genocidio-da-humanidade-denuncia-militante-indigena.md
 
 ---
-<p>&nbsp;</p>
-
-<figure class="image" style="float:right"><img alt="ecard_soja_BR_europa.png" src="http://farm6.staticflickr.com/5803/22320616651_b6a8710e9c_b.jpg" />
-<figcaption>Legenda</figcaption>
+<figure class="image" style="float:right"><img alt="image-2.png" src="http://farm6.staticflickr.com/5792/22123226049_9dd984ccc9_b.jpg" />
+<figcaption></figcaption>
 </figure>
 
 <p><em><span style="line-height: 1.6;">Do Cimi</span></em></p>
@@ -58,8 +56,13 @@ A territorializa&ccedil;&atilde;o do capital agropecu&aacute;rio no MS n&atilde;
 <p><br />
 O tekoha Apyka&rsquo;i, na regi&atilde;o de Dourados, por exemplo, est&aacute; com o procedimento demarcat&oacute;rio paralisado e &eacute; alvo de a&ccedil;&otilde;es violentas e judiciais. Liderados por dona Damiana Guarani e Kaiow&aacute;, os ind&iacute;genas hoje vivem num acampamento periodicamente atacado por homens armados e acossados por reintegra&ccedil;&otilde;es de posse movidas na Justi&ccedil;a Federal pelo propriet&aacute;rio da Fazenda Serrana, arrendada &agrave; usina de etanol S&atilde;o Fernando. Dona Damiana teve o marido, filhos, sobrinhos e demais parentes mortos por atropelamentos, quando viviam &agrave;s margens da rodovia, inclusive por caminh&otilde;es carregando cana &agrave; usina, e viu crian&ccedil;as de sua aldeia mortas de fome. Em 2011, N&iacute;sio Gomes Guarani e Kaiow&aacute; foi assassinado no tekoha Guaivyry. O acampamento ind&iacute;gena estava montado numa pequena por&ccedil;&atilde;o de mata ladeada por uma planta&ccedil;&atilde;o de soja que se perdia de vista. No tekoha Kurusu Amb&aacute; n&atilde;o &eacute; diferente: em dez anos, sete lideran&ccedil;as assassinadas, crian&ccedil;as mortas de fome e comumente ind&iacute;genas s&atilde;o intoxicados por agrot&oacute;xicos despejados por avi&otilde;es sobre as lavouras soja, e na aldeia e na &uacute;nica fonte de &aacute;gua que possuem. &nbsp; &nbsp; &nbsp;</p>
 
-<p><br />
-Na cana, ind&iacute;genas n&atilde;o encontram apenas a morte, mas tamb&eacute;m trabalhos exaustivos e situa&ccedil;&otilde;es an&aacute;logas &agrave; escravid&atilde;o; os usineiros, m&atilde;o de obra barata ou escrava. A BioSul afirma que as 22 usinas de a&ccedil;&uacute;car e &aacute;lcool instaladas no MS, com presen&ccedil;a quase que exclusiva no cone sul do estado, processam 47 milh&otilde;es de toneladas de cana e &ldquo;com os novos empreendimentos industriais&rdquo;, tal como a BioSul chama a expans&atilde;o dos pr&oacute;prios neg&oacute;cios, o volume ir&aacute; passar de 1,9 bilh&atilde;o de litros (safra 2009/2010) para 5,9 bilh&otilde;es de litros (safra 2015). O governo federal, por sua vez, ajuda o setor injetando recursos p&uacute;blicos do Banco Nacional de Desenvolvimento Econ&ocirc;mico e Social (BNDES), caso da Usina S&atilde;o Fernando: sim, aquela que planta cana no tekoha Apyka&rsquo;i.</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="ecard_soja_BR_europa.png" src="http://farm6.staticflickr.com/5803/22320616651_b6a8710e9c_b.jpg" />
+<figcaption></figcaption>
+</figure>
+
+<p>Na cana, ind&iacute;genas n&atilde;o encontram apenas a morte, mas tamb&eacute;m trabalhos exaustivos e situa&ccedil;&otilde;es an&aacute;logas &agrave; escravid&atilde;o; os usineiros, m&atilde;o de obra barata ou escrava. A BioSul afirma que as 22 usinas de a&ccedil;&uacute;car e &aacute;lcool instaladas no MS, com presen&ccedil;a quase que exclusiva no cone sul do estado, processam 47 milh&otilde;es de toneladas de cana e &ldquo;com os novos empreendimentos industriais&rdquo;, tal como a BioSul chama a expans&atilde;o dos pr&oacute;prios neg&oacute;cios, o volume ir&aacute; passar de 1,9 bilh&atilde;o de litros (safra 2009/2010) para 5,9 bilh&otilde;es de litros (safra 2015). O governo federal, por sua vez, ajuda o setor injetando recursos p&uacute;blicos do Banco Nacional de Desenvolvimento Econ&ocirc;mico e Social (BNDES), caso da Usina S&atilde;o Fernando: sim, aquela que planta cana no tekoha Apyka&rsquo;i.</p>
 
 <p><br />
 A BioSul estima que entre 1990 e 2013 as &aacute;reas utilizadas para a planta&ccedil;&atilde;o de cana-de-a&ccedil;&uacute;car cresceram 903% no Mato Grosso do Sul. J&aacute; o IBGE aponta que entre 2005 e 2012, o aumento do rebanho de animais de corte foi de 41% - mais pasto, mais desmatamento, mais &aacute;gua. A Conab estima que entre 1976 e 2013, os hectares destinados para planta&ccedil;&atilde;o de soja no estado aumentaram 308%. O crescimento do agroneg&oacute;cio, portanto, &eacute; insustent&aacute;vel e desterritorializou a vida de centenas de fam&iacute;lias ind&iacute;genas, que possuem o direito constitucional de regressarem aos seus antigos lares. Ao mesmo tempo, fazendeiros que lucram arrendando o que consideram suas propriedades ou trabalham para a rede do agroneg&oacute;cio n&atilde;o desejam permitir o retorno desses ind&iacute;genas. &nbsp;</p>
