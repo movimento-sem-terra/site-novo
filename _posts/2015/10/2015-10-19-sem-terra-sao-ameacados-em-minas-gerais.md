@@ -5,7 +5,7 @@ tags:
   - tag: ameaça
   - tag: ocupação
   - tag: latifúndio
-title: "Sem Terra são ameaçados em Minas Gerais "
+title: Sem Terra sofrem ameaças em fazenda ocupada no triângulo mineiro
 support_line: "A área, improdutiva, pertence à Silvio da Cunha Vasconcelos, grande latifundiário, dono de fazendas espalhadas por todo país. "
 menu: direitos humanos
 images_hd: "http://farm6.staticflickr.com/5822/21684057154_239082967b_b.jpg"
@@ -42,11 +42,10 @@ releated_posts:
 <p><em>Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
-Desde a madrugada do &uacute;ltimo domingo (18), cerca de 120 fam&iacute;lias ocupam a Fazenda Santa Rita em Uberl&acirc;ndia, no Triangulo Mineiro.&nbsp;</p>
+Desde a madrugada do &uacute;ltimo domingo (18), cerca de 120 fam&iacute;lias ocupam a Fazenda Santa Rita, em Uberl&acirc;ndia, no Triangulo Mineiro.</p>
 
-<p>&nbsp;</p>
-
-<p>A &aacute;rea, improdutiva, pertence &agrave; Silvio da Cunha Vasconcelos, grande latifundi&aacute;rio, dono de fazendas espalhadas por todo pa&iacute;s.</p>
+<p><br />
+A &aacute;rea, improdutiva, pertence &agrave; Silvio da Cunha Vasconcelos, grande latifundi&aacute;rio, dono de fazendas espalhadas por todo pa&iacute;s.</p>
 
 <p><br />
 Segundo a dire&ccedil;&atilde;o estadual do MST, seguran&ccedil;as armados rondam o local acompanhados de c&atilde;es desde o in&iacute;cio do dia.&nbsp;</p>
@@ -55,16 +54,10 @@ Segundo a dire&ccedil;&atilde;o estadual do MST, seguran&ccedil;as armados ronda
 A &aacute;gua e a luz local est&atilde;o sendo sistematicamente cortadas, e mais de 200 cabe&ccedil;as de gado foram colocadas em meio ao acampamento por seguran&ccedil;as da fazenda que, at&eacute; ent&atilde;o, estava abandonada, sem nenhum sinal de cultivo ou pastagem.&nbsp;</p>
 
 <p><br />
-Ainda segundo os Sem Terra tiros est&atilde;o sendo disparados para o alto com a inten&ccedil;&atilde;o de intimidar e coagir as fam&iacute;lias.&nbsp;</p>
+Ainda segundo os Sem Terra, tiros est&atilde;o sendo disparados para o alto com a inten&ccedil;&atilde;o de intimidar e coagir as fam&iacute;lias.&nbsp;</p>
 
 <p><br />
-Silvio Vasconcelos &eacute; ligado ao empres&aacute;rio Jo&atilde;o Lyra, que com um patrim&ocirc;nio de R$ 240 milh&otilde;es &eacute; considerado o deputado mais rico da atual legislatura da C&acirc;mara, Lyra tamb&eacute;m &eacute; acusado pelo Minist&eacute;rio P&uacute;blico Federal (MPF) de manter trabalhadores em condi&ccedil;&otilde;es an&aacute;logas &agrave; escravid&atilde;o em uma fazenda de cana-de-a&ccedil;&uacute;car em Alagoas.</p>
+Silvio Vasconcelos &eacute; ligado ao empres&aacute;rio Jo&atilde;o Lyra, que com um patrim&ocirc;nio de R$ 240 milh&otilde;es, &eacute; considerado o deputado mais rico da atual legislatura da C&acirc;mara.&nbsp;Lyra tamb&eacute;m &eacute; acusado pelo Minist&eacute;rio P&uacute;blico Federal (MPF) de manter trabalhadores em condi&ccedil;&otilde;es an&aacute;logas &agrave; escravid&atilde;o em uma fazenda de cana-de-a&ccedil;&uacute;car em Alagoas.</p>
 
 <p><br />
 A dire&ccedil;&atilde;o estadual do MST j&aacute; entrou em contato com a pol&iacute;cia militar, com o Minist&eacute;rio P&uacute;blico e com a Secret&aacute;ria de Direitos Humanos do estado para denunciar o caso.&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
