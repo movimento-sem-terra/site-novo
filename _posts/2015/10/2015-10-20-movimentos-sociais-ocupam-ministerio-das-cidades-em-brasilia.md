@@ -1,6 +1,9 @@
 ---
 date: "2015-10-20T09:56:24-02:00"
-tags: []
+tags:
+  - tag: habitação-rural
+  - tag: lutas-e-mobilizações
+  - tag: reforma-agrária
 title: "Movimentos sociais ocupam Ministério das Cidades em Brasília "
 support_line: "Os movimentos reivindicam a contratação imediata de 35 mil unidades habitacionais para o campo, além da ampliação dos recursos destinados para o financiamento dessas unidades."
 menu: lutas e mobilizações
