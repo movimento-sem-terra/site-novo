@@ -26,8 +26,8 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p><em>Por Solange Engelmann&nbsp;<br />
-Da P&aacute;gina do MST</em></p>
+<p><em>Por&nbsp;<span style="font-family: 'Droid Sans', Arial, Verdana, sans-serif; line-height: normal;">Ronildo Brito</span><br style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; font-family: 'Droid Sans', Arial, Verdana, sans-serif; line-height: normal;" />
+Do Not&iacute;cias Livres</em></p>
 
 <p>&nbsp;</p>
 
