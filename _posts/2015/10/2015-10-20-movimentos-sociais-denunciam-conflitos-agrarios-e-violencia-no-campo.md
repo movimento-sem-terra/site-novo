@@ -2,6 +2,8 @@
 date: "2015-10-20T11:58:52-02:00"
 tags:
   - tag: reforma-agrária
+  - tag: movimentos-sociais
+  - tag: conflitos-no-campo
 support_line: Entre as denuncias também figuram ameaças aos povos indígenas e perseguições a lideranças de movimentos sociais.
 images_hd: "http://farm6.staticflickr.com/5689/22145385999_a15d53f8b1_b.jpg"
 menu: reforma agrária
@@ -17,6 +19,11 @@ files:
 created_date: "2015-10-20T12:10:39-02:00"
 published: true
 releated_posts:
+  - 2014/07/2014-07-17-familias-sem-terra-seguem-na-luta-por-area-grilada-em-abelardo-luz.md
+  - 2014/12/2014-11-03-terra-teto-e-trabalho-uma-condenacao-expressa-do-sistema-capitalista.md
+  - 2015/05/2015-05-28-incra-itinerante-chega-ao-para-e-se-reune-com-movimentos-sociais.md
+  - 2015/08/2015-08-04-a-ocupacao-de-terras-e-predios-publicos-tem-apoio-na-lei.md
+  - 2014/12/2014-11-05-cpt-quer-mais-compromisso-do-governo-com-os-povos-que-lutam-pela-terra.md
   - 2015/10/2015-10-19-sem-terra-sao-ameacados-em-minas-gerais.md
   - 2015/10/2015-10-19-sem-terra-ocupam-fazenda-na-regiao-da-fronteira-no-rio-grande-do-su.md
   - 2015/10/2015-10-20-movimentos-sociais-ocupam-ministerio-das-cidades-em-brasilia.md
