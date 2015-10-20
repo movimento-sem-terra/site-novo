@@ -4,7 +4,7 @@ tags:
   - tag: habitação-rural
   - tag: lutas-e-mobilizações
   - tag: reforma-agrária
-title: "MST ocupa Rodovias Paraibanas em luta por habitação rural   "
+title: "MST ocupa rodovias paraibanas em luta por habitação rural   "
 support_line: "Cerca de 1.500 famílias ocupam as cinco principais rodovias Paraibanas para revindicar avanços no processo de habitação rural. "
 menu: lutas e mobilizações
 images_hd: "http://farm6.staticflickr.com/5651/22317774032_450bc5c1f2_b.jpg"
@@ -18,7 +18,8 @@ files:
     $$hashKey: 09B
 created_date: "2015-10-20T11:18:17-02:00"
 published: true
-releated_posts: []
+releated_posts:
+  - 2015/10/2015-10-20-movimentos-sociais-ocupam-ministerio-das-cidades-em-brasilia.md
 
 ---
 <p><br />
