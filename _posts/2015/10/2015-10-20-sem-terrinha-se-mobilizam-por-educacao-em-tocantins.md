@@ -7,15 +7,15 @@ tags:
 title: "Sem Terrinha se mobilizam por educação em Tocantins "
 support_line: "Em reunião no SEDUC, as crianças apresentaram uma pauta de reivindicação que pede a construção de escolas do campo nos assentamento do MST."
 menu: lutas e mobilizações
-images_hd: "http://farm6.staticflickr.com/5836/22331040895_37cb45c62a_b.jpg"
+images_hd: "http://farm1.staticflickr.com/709/21708623704_6466be674b_b.jpg"
 layout: post
 files:
-  - link: "http://farm6.staticflickr.com/5836/22331040895_37cb45c62a_b.jpg"
-    thumbnail: "http://farm6.staticflickr.com/5836/22331040895_37cb45c62a_t.jpg"
-    medium: "http://farm6.staticflickr.com/5836/22331040895_37cb45c62a_z.jpg"
-    small: "http://farm6.staticflickr.com/5836/22331040895_37cb45c62a_n.jpg"
-    title: abc8757fa1cd314e112b3c71cf721e73.jpg
-    $$hashKey: 0C9
+  - link: "http://farm1.staticflickr.com/709/21708623704_6466be674b_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/709/21708623704_6466be674b_t.jpg"
+    medium: "http://farm1.staticflickr.com/709/21708623704_6466be674b_z.jpg"
+    small: "http://farm1.staticflickr.com/709/21708623704_6466be674b_n.jpg"
+    title: 12106934_381721632003019_8087687898165681394_n.jpg
+    $$hashKey: 05O
 created_date: "2015-10-20T11:03:46-02:00"
 published: true
 releated_posts:
@@ -25,7 +25,9 @@ releated_posts:
   - 2015/10/2015-10-12-criancas-sem-terra-marcham-em-defesa-da-educacao-no-campo-em-pe.md
 
 ---
-<p><img alt="abc8757fa1cd314e112b3c71cf721e73.jpg" height="525" src="http://farm6.staticflickr.com/5836/22331040895_37cb45c62a_b.jpg" width="700" /></p>
+<p>&nbsp;</p>
+
+<p><img alt="12106934_381721632003019_8087687898165681394_n.jpg" height="393" src="http://farm1.staticflickr.com/709/21708623704_6466be674b_b.jpg" width="700" /></p>
 
 <p>&nbsp;</p>
 
