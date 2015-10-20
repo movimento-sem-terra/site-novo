@@ -7,7 +7,7 @@ tags:
 title: "Sem Terrinha ocupam prefeitura de Olho D’Água do Casado, no Sertão de Alagoas"
 support_line: "Com faixas e palavras de ordem, as crianças acampadas e assentadas da região exigiram melhorias nas estruturas das escolas do município."
 menu: lutas e mobilizações
-images_hd: "http://farm1.staticflickr.com/769/22310070466_92ab93bddb_b.jpg"
+images_hd: "http://farm6.staticflickr.com/5674/22148643330_22ca097b72_b.jpg"
 layout: post
 files:
   - link: "http://farm6.staticflickr.com/5656/22149251009_e62b473372_b.jpg"
@@ -16,18 +16,18 @@ files:
     small: "http://farm6.staticflickr.com/5656/22149251009_e62b473372_n.jpg"
     title: IMG_5558.JPG
     $$hashKey: 0Q0
-  - link: "http://farm6.staticflickr.com/5777/22346730501_896cd3b957_b.jpg"
-    thumbnail: "http://farm6.staticflickr.com/5777/22346730501_896cd3b957_t.jpg"
-    medium: "http://farm6.staticflickr.com/5777/22346730501_896cd3b957_z.jpg"
-    small: "http://farm6.staticflickr.com/5777/22346730501_896cd3b957_n.jpg"
-    title: IMG-20151020-WA0033 (1).jpg
-    $$hashKey: 0Q3
   - link: "http://farm1.staticflickr.com/769/22310070466_92ab93bddb_b.jpg"
     thumbnail: "http://farm1.staticflickr.com/769/22310070466_92ab93bddb_t.jpg"
     medium: "http://farm1.staticflickr.com/769/22310070466_92ab93bddb_z.jpg"
     small: "http://farm1.staticflickr.com/769/22310070466_92ab93bddb_n.jpg"
     title: IMG_5525.JPG
     $$hashKey: 0Q6
+  - link: "http://farm6.staticflickr.com/5674/22148643330_22ca097b72_b.jpg"
+    thumbnail: "http://farm6.staticflickr.com/5674/22148643330_22ca097b72_t.jpg"
+    medium: "http://farm6.staticflickr.com/5674/22148643330_22ca097b72_z.jpg"
+    small: "http://farm6.staticflickr.com/5674/22148643330_22ca097b72_n.jpg"
+    title: IMG-20151020-WA0033 (1).jpg
+    $$hashKey: "159"
 created_date: "2015-10-20T15:13:11-02:00"
 published: true
 releated_posts:
@@ -37,8 +37,9 @@ releated_posts:
   - 2015/10/2015-10-13-em-rondonia-encontro-dos-sem-terrinha-aponta-desafios-de-construir-novos-sujeitos-do-campo.md
 
 ---
-<p><img alt="IMG_5558.JPG" height="467" src="http://farm6.staticflickr.com/5656/22149251009_e62b473372_b.jpg" width="700" /><br />
-&nbsp;</p>
+<p>&nbsp;</p>
+
+<p><img alt="IMG_5525.JPG" height="467" src="http://farm1.staticflickr.com/769/22310070466_92ab93bddb_b.jpg" width="700" /></p>
 
 <p>&nbsp;</p>
 
@@ -65,10 +66,6 @@ Para &nbsp;Al&eacute;cia Alves, de 14 anos, do assentamento Gastone Beltr&atilde
 <p><br />
 &nbsp;</p>
 
-<figure class="image" style="float:left"><img alt="IMG-20151020-WA0033 (1).jpg" height="400" src="http://farm6.staticflickr.com/5777/22346730501_896cd3b957_b.jpg" width="300" />
-<figcaption></figcaption>
-</figure>
-
 <p><strong>Pelo direito de estudar, brincar e ser feliz</strong></p>
 
 <p><br />
@@ -79,6 +76,9 @@ Diversas crian&ccedil;as dos assentamentos da regi&atilde;o reuniram-se em uma g
 
 <p><br />
 Desde oficinas de confec&ccedil;&atilde;o de brinquedos com materiais reutilizados, torneio de futebol de sab&atilde;o e uma maratona de brincadeiras, as crian&ccedil;as comandaram o dia refor&ccedil;ando a identidade e o papel das crian&ccedil;as nas &aacute;reas de Reforma Agr&aacute;ria.</p>
+
+<p><br />
+<img alt="IMG_5558.JPG" height="467" src="http://farm6.staticflickr.com/5656/22149251009_e62b473372_b.jpg" width="700" /></p>
 
 <p>&nbsp;</p>
 
