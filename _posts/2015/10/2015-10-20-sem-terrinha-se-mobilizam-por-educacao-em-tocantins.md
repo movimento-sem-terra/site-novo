@@ -35,7 +35,7 @@ releated_posts:
 Na manh&atilde; desta segunda feira (19), os Sem Terrinha do MST no estado do&nbsp;Tocantins, realizaram uma&nbsp;ocupa&ccedil;&atilde;o na Secretaria Estadual de Educa&ccedil;&atilde;o- SEDUC-TO, para reivindicar a constru&ccedil;&atilde;o de escolas no campo e exigir melhoria do transporte escolar.</p>
 
 <p><br />
-As crian&ccedil;as&nbsp;apresentaram na pauta de reivindica&ccedil;&atilde;o a implanta&ccedil;&atilde;o imediata de uma politica que discuta e defina projetos de constru&ccedil;&atilde;o de escolas do campo nos assentamento do MST, com as proposta discutidas junto com o movimento.</p>
+As crian&ccedil;as&nbsp;apresentaram na pauta de reivindica&ccedil;&atilde;o a implanta&ccedil;&atilde;o imediata de uma politica que discuta e defina projetos de constru&ccedil;&atilde;o de escolas do campo nos assentamento do MST.</p>
 
 <p><br />
 Dentre elas est&atilde;o a melhoria imediata no transporte escolar de modo que atenda de forma decente os alunos dos assentamento e acampamento;</p>
