@@ -13,8 +13,8 @@ collections:
   banners:
 timezone: BR
 lollipop:
-  title: Nossa História
-  link: nossa-historia
+  title: Feira Nacional da Reforma Agrária
+  link: feira-reforma-agraria
   enabled: true
 gems:
   - jekyll-sitemap
