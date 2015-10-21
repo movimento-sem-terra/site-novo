@@ -4,7 +4,7 @@ tags:
   - tag: habitação-rural
   - tag: lutas-e-mobilizações
   - tag: reforma-agrária
-title: "Após mobilizações, Governo se compromete com construção imediata de 12 mil unidades habitacionais"
+title: "Após mobilizações, Governo se compromete com construção imediata de 12 mil habitações"
 support_line: "Com esse compromisso assumido a demanda das demais unidades serão incluídas no Minha Casa Minha Vida 3 e os valores, quantidades e normativas do programa serão apresentados em dezembro."
 menu: lutas e mobilizações
 images_hd: "http://farm6.staticflickr.com/5700/22155529930_cab33bda5f_b.jpg"
@@ -36,7 +36,7 @@ releated_posts:
   - 2015/07/2015-07-20-cerca-de-300-familias-ocupam-o-segundo-latifundio-no-mato-grosso-em-uma-semana.md
   - 2014/05/2014-05-20-juventude-se-organiza-na-luta-pela-terra-no-parana.md-e
   - 2014/06/2014-06-11-mst-tranca-rodovia-no-rj-e-denuncia-lentidao-na-desapropriacao-de-fazenda.md-e
-section: cover
+section: null
 
 ---
 <div style="text-align:center">
