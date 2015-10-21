@@ -6,7 +6,7 @@ tags:
   - tag: reforma-agrária
   - tag: feira-da-reforma-agrária
   - tag: são-paulo
-title: Mais de 200 toneladas de alimentos serão comercializados na 1º Feira Nacional da Reforma Agrária
+title: 1º Feira Nacional da Reforma Agrária comercializa mais de 200 toneladas de alimentos
 support_line: "Além da feira, quem vier ao Parque encontrará também uma vasta programação, com shows, intervenções culturais, seminários e a Culinária da Terra, uma Praça de Alimentação com comidas típicas de cada região."
 menu: reforma agrária
 special-page: first-street-market
