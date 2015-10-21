@@ -4,7 +4,7 @@ tags:
   - tag: habitação-rural
   - tag: lutas-e-mobilizações
   - tag: reforma-agrária
-title: Governo se compromete com construção imediata de 12 mil unidades habitacionais
+title: "Após mobilizações, Governo se compromete com construção imediata de 12 mil unidades habitacionais"
 support_line: "Com esse compromisso assumido a demanda das demais unidades serão incluídas no Minha Casa Minha Vida 3 e os valores, quantidades e normativas do programa serão apresentados em dezembro."
 menu: lutas e mobilizações
 images_hd: "http://farm6.staticflickr.com/5700/22155529930_cab33bda5f_b.jpg"
