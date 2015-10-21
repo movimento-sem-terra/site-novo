@@ -4,6 +4,7 @@ tags:
   - tag: lutas-e-mobilizações
   - tag: reforma-agrária
   - tag: jornada
+  - tag: habitação-rural
 title: "Em Brasília, Sem Terra ocupa Conab e reivindica ampliação de PAA e PNAE "
 support_line: O objetivo da mobilização é garantir o encaminhamento dos pagamentos atrasados e lançamento de novas contratações do PAA e PNAE.
 menu: lutas e mobilizações
@@ -18,7 +19,10 @@ files:
     $$hashKey: 02X
 created_date: "2015-10-21T10:07:54-02:00"
 published: true
-releated_posts: []
+releated_posts:
+  - 2015/10/2015-10-20-movimentos-sociais-ocupam-ministerio-das-cidades-em-brasilia.md
+  - 2015/10/2015-10-20-mst-ocupa-rodovias-paraibanas-em-luta-por-habitacao-rural.md
+  - 2015/10/2015-10-20-apos-mobilizacoes-governo-se-compromete-com-construcao-imediata-de-12-mil-unidades-habitacionais.md
 
 ---
 <p class="p1">&nbsp;</p>
