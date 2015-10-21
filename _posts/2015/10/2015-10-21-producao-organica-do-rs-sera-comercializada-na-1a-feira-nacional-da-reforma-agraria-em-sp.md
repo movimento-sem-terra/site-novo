@@ -4,7 +4,9 @@ tags:
   - tag: feira-da-reforma-agrária
   - tag: alimentação-saudável
   - tag: agroecologia
-images_hd: "http://farm1.staticflickr.com/702/22370739521_3428270fd2_b.jpg"
+  - tag: reforma-agrária
+  - tag: produção
+images_hd: "http://farm1.staticflickr.com/660/22172429720_34b2b9f800_b.jpg"
 title: "Produção orgânica do RS será comercializada na 1ª Feira Nacional da Reforma Agrária, em SP"
 menu: agricultura camponesa
 support_line: "Cerca de 15 cooperativas do estado gaúcho comercializaram seus produtos durante os quatro dias de evento. "
@@ -16,23 +18,34 @@ files:
     small: "http://farm1.staticflickr.com/702/22370739521_3428270fd2_n.jpg"
     title: feiras_rs.jpg
     $$hashKey: 0FM
+  - link: "http://farm1.staticflickr.com/660/22172429720_34b2b9f800_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/660/22172429720_34b2b9f800_t.jpg"
+    medium: "http://farm1.staticflickr.com/660/22172429720_34b2b9f800_z.jpg"
+    small: "http://farm1.staticflickr.com/660/22172429720_34b2b9f800_n.jpg"
+    title: arroz_mat.jpg
+    $$hashKey: 05C
 created_date: "2015-10-21T12:50:04-02:00"
 published: true
 releated_posts:
+  - 2015/04/2015-04-29-do-eucalipto-a-producao-agroecologica-e-a-construcao-da-escola-popular.md
   - 2015/09/2015-09-10-comida-de-verdade-no-semiarido.md
-  - 2015/07/2015-07-14-com-alimentos-saudaveis-sem-terra-ocupam-as-ruas-da-bahia.md
+  - 2015/08/2015-08-31-mst-ocupa-praca-da-faculdade-com-frutos-da-reforma-agraria.md
+  - 2015/09/2015-09-02-toneladas-de-alimentos-dao-inicio-a-16a-feira-da-reforma-agraria-em-maceio.md
+  - 2014/08/2014-07-30-a-revolucao-silenciosa-no-campo-feita-pela-agricultura-familiar.md
+  - 2015/08/2015-08-18-comida-ou-veneno-producao-organica-se-viabiliza-como-garantia-de-seguranca-alimentar.md
+  - 2015/06/2015-06-16-sem-terra-reescrevem-historia-do-cacau-no-sul-da-bahia.md
 
 ---
-<p><img alt="feiras_rs.jpg" height="525" src="http://farm1.staticflickr.com/702/22370739521_3428270fd2_b.jpg" width="700" /></p>
-
 <p>&nbsp;</p>
+
+<p><img alt="arroz_mat.jpg" src="http://farm1.staticflickr.com/660/22172429720_34b2b9f800_b.jpg" /><br />
+&nbsp;</p>
 
 <p><em>Por Catiana de Medeiros<br />
 Da P&aacute;gina do MST</em></p>
 
-<p>&nbsp;</p>
-
-<p>Cerca de 30 toneladas de alimentos produzidos por fam&iacute;lias assentadas no Rio Grande do Sul ser&atilde;o comercializadas na 1&ordf; Feira Nacional da Reforma Agr&aacute;ria, que acontece de 21 a 25 deste m&ecirc;s, em S&atilde;o Paulo.</p>
+<p><br />
+Cerca de 30 toneladas de alimentos produzidos por fam&iacute;lias assentadas no Rio Grande do Sul ser&atilde;o comercializadas na 1&ordf; Feira Nacional da Reforma Agr&aacute;ria, que acontece de 21 a 25 deste m&ecirc;s, em S&atilde;o Paulo.</p>
 
 <p><br />
 O evento ser&aacute; realizado no Parque da &Aacute;gua Branca&nbsp;deve reunir mais de 500 agricultores de 23 estados e do Distrito Federal.</p>
