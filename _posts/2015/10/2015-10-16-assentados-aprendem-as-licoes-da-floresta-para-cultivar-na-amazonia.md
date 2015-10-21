@@ -8,7 +8,7 @@ support_line: "O lote do assentado Ferreira é um exemplo de como é possível o
 menu: reforma agrária
 special-page: first-street-market
 sector: production
-section: cover
+section: featured-news
 label: special-stories
 title: Assentados aprendem as lições da floresta para cultivar na Amazônia
 images_hd: "http://farm1.staticflickr.com/687/22034859289_005260a6e1_b.jpg"
