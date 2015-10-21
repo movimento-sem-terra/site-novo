@@ -11,7 +11,7 @@ sector: production
 section: null
 label: special-stories
 title: Assentados aprendem as lições da floresta para cultivar na Amazônia
-images_hd: "http://farm1.staticflickr.com/687/22034859289_005260a6e1_b.jpg"
+images_hd: "http://farm1.staticflickr.com/602/22168468430_5ccc6f11a1_b.jpg"
 layout: post
 files:
   - link: "http://farm1.staticflickr.com/687/22034859289_005260a6e1_b.jpg"
@@ -50,6 +50,12 @@ files:
     small: "http://farm1.staticflickr.com/649/22221923835_bb3e69c2bf_n.jpg"
     title: "Ferreira 04!.jpg"
     $$hashKey: 0TM
+  - link: "http://farm1.staticflickr.com/602/22168468430_5ccc6f11a1_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/602/22168468430_5ccc6f11a1_t.jpg"
+    medium: "http://farm1.staticflickr.com/602/22168468430_5ccc6f11a1_z.jpg"
+    small: "http://farm1.staticflickr.com/602/22168468430_5ccc6f11a1_n.jpg"
+    title: "1Ferreira 03(1)!!!!.jpg"
+    $$hashKey: 05U
 created_date: "2015-10-16T12:35:43-03:00"
 published: true
 releated_posts:
@@ -63,7 +69,7 @@ releated_posts:
   - 2015/06/2015-06-19-faz-parte-da-reforma-agraria-a-disputa-do-modelo-de-producao-para-a-agricultura-afirma-dirigente.md
 
 ---
-<p><img alt="1Ferreira 03(1)!.jpg" src="http://farm1.staticflickr.com/687/22034859289_005260a6e1_b.jpg" /></p>
+<p><img alt="1Ferreira 03(1)!!!!.jpg" src="http://farm1.staticflickr.com/602/22168468430_5ccc6f11a1_b.jpg" /><img alt="1Ferreira 03(1)!.jpg" src="http://farm1.staticflickr.com/687/22034859289_005260a6e1_b.jpg" /></p>
 
 <p><br />
 <em>Em prepara&ccedil;&atilde;o &agrave; <strong><a href="http://www.mst.org.br/feira-reforma-agraria/" target="_blank">1&deg; Feira Nacional da Reforma Agr&aacute;ria</a></strong>, que acontece entre os dias 22 a 25/10, no Parque da &Aacute;gua Branca, em S&atilde;o Paulo, a P&aacute;gina do MST traz uma s&eacute;rie de entrevistas, reportagens e artigos sobre experi&ecirc;ncias de produ&ccedil;&atilde;o agr&iacute;cola nas &aacute;reas de assentamento, al&eacute;m do atual debate em torno da disputa entre dois modelos agr&iacute;colas para o campo brasileiro: o agroneg&oacute;cio vs a agroecologia.&nbsp;</em></p>
