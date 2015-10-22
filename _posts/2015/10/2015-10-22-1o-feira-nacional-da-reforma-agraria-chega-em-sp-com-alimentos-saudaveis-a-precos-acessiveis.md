@@ -61,34 +61,44 @@ releated_posts:
 <p><em>Por Maura Silva<br />
 Da P&aacute;gina do MST</em></p>
 
+<p>&nbsp;</p>
+
+<p>O que a gente quer &eacute;&nbsp;&nbsp;ter uma sa&uacute;de melhor, por isso, &nbsp;tomamos a decis&atilde;o de produzir sem agrot&oacute;xico.&nbsp;Todo mundo trabalha, todo mundo divide. Foi na farinheira, que&nbsp;formamos um coletivo de mulheres. O servi&ccedil;o dos homens &eacute; o de fazer a colheita&nbsp;e a gente faz esse trabalho de beneficiamento&rdquo;.</p>
+
 <p><br />
-<span class="s1">Come&ccedil;ou nesta quinta-feira (22), no Parque da &Aacute;gua Branca, em&nbsp;</span><span class="s2">Sao Paulo,</span><span class="s1">&nbsp;a 1&deg; Feira Nacional da Reforma Agr&aacute;ria.&nbsp;</span></p>
+A fala acima&nbsp;&eacute; de Mar&iacute;lia Nunes, 19 anos, vinda do&nbsp;do assentamento Palmares 2,&nbsp;em Paraupebas (PA).&nbsp;</p>
 
-<p class="p1"><br />
-<span class="s1">At&eacute; o pr&oacute;ximo domingo (25), ser&atilde;o comercializados mais de 200 toneladas de alimentos, com cerca de 800 variedades de produtos das &aacute;reas de assentamentos de todo o pa&iacute;s.&nbsp;</span></p>
+<p><br />
+Ela &eacute; uma das participantes da&nbsp;1&ordm; Feira Nacional da Reforma Agr&aacute;ria que come&ccedil;ou nesta quinta-feira (22), no Parque da &Aacute;gua Branca, em&nbsp;S&atilde;o Paulo.</p>
 
-<p class="p1"><br />
-<span class="s1">Em um momento de paralisa&ccedil;&atilde;o da Reforma Agr&aacute;ria, a feira surge como alternativa de consumo saud&aacute;vel e acess&iacute;vel, al&eacute;m de ser um instrumento de fortalecimento do di&aacute;logo entre campo e cidade.</span></p>
+<p><br />
+At&eacute; o pr&oacute;ximo domingo (25), ser&atilde;o comercializados mais de 200 toneladas de alimentos, com cerca de 800 variedades de produtos das &aacute;reas de assentamentos de todo o pa&iacute;s.&nbsp;</p>
 
-<p class="p1"><br />
-<span class="s3">Para Carla Guindadi do setor de produ&ccedil;&atilde;o,</span> a realiza&ccedil;&atilde;o da feira&nbsp;&eacute; resultado de uma premissa do MST que preza pela&nbsp;produ&ccedil;&atilde;o socialmente justa e ambientalmente sustent&aacute;vel dos alimentos, que leva em considera&ccedil;&atilde;o quem produz.&nbsp;</p>
+<p><br />
+Em um momento de paralisa&ccedil;&atilde;o da Reforma Agr&aacute;ria, a feira surge como alternativa de consumo saud&aacute;vel e acess&iacute;vel, al&eacute;m de ser um instrumento de fortalecimento do di&aacute;logo entre campo e cidade.</p>
 
-<p class="p1"><br />
-&ldquo;Com a paralisia da Reforma Agr&aacute;ria &eacute; importante colocar em pauta para a popula&ccedil;&atilde;o brasileira, atrav&eacute;s da feira, os resultados que a Reforma Agr&aacute;ria proporciona. Uma feira realizada na cidade de S&atilde;o Paulo com 23 estados mais o Distrito Federal, mais de 800 produtos, uma mostra de cultura camponesa, uma mostra de culin&aacute;ria da terra s&atilde;o instrumentos da import&acirc;ncia e da produ&ccedil;&atilde;o advinda desse setor. &Eacute; um momento de troca e aproxima&ccedil;&atilde;o, a cidade conhecendo o que o campo produz e este, por sua vez, entendendo qual o potencial consumidor dessa cidade&rdquo;, afirma.&nbsp;</p>
+<p><br />
+Exemplo disso &eacute; o de&nbsp;M&ocirc;nica Ramos, 30 anos, que integra a Cooperativa Central das &Aacute;reas de Reforma Agr&aacute;ria do Cear&aacute; (CCA). De l&aacute;, veio a alga marinha Gracilaria Birdiae.</p>
 
-<p class="p1">&nbsp;</p>
+<p><br />
+&ldquo;A gente come&ccedil;ou a produzir [a alga] para se contrapor &agrave; forma como os empres&aacute;rios tiravam. Eles tiram e ela n&atilde;o nasce mais. A gente tem o cuidado de fazer o cultivo para ela nascer de novo. &Eacute; dentro de um manejo agroecol&oacute;gico&rdquo;, diz.</p>
+
+<p><br />
+M&ocirc;nica&nbsp;destaca os sabores e os benef&iacute;cios do produto do cearense. &ldquo;Ela fica muito gostosa com macarr&atilde;o. Na pr&oacute;pria embalagem, n&oacute;s colocamos ideias de receitas. Ela tamb&eacute;m tem nutrientes, &eacute; rica em minerais e vitaminas&rdquo;, afirma.</p>
+
+<p>&nbsp;</p>
 
 <p class="p1"><img alt="JOKA8504.jpg" height="467" src="http://farm1.staticflickr.com/706/22202311050_2dd299212e_b.jpg" width="700" /></p>
 
 <p class="p1">&nbsp;</p>
 
-<p class="p1">Ainda para Carla, outro papel desempenhado pela feira &eacute; trazer a tona o atual modelo agroexportador que afeta de maneira negativa toda a cadeia produtiva e de consumo.&nbsp;</p>
+<p class="p1"><span class="s3" style="line-height: 20.8px;">Para Carla Guindadi do setor de produ&ccedil;&atilde;o</span>, o papel desempenhado pela feira &eacute; o de&nbsp;trazer &agrave;&nbsp;tona o atual modelo agroexportador que afeta de maneira negativa toda a cadeia produtiva e de consumo.&nbsp;</p>
 
 <p class="p1"><br />
 &ldquo;S&atilde;o Paulo &eacute; a maior cidade do Brasil, &eacute; o local onde o debate campo cidade &eacute; mais evidente. Aqui &eacute; onde os dois modelos de disputa atuais - o modelo do agroneg&oacute;cio e da agricultura camponesa -, est&atilde;o mais vis&iacute;veis. E fazer essa feira no Parque da &Aacute;gua Branca, espa&ccedil;o que j&aacute; &eacute; conhecido na capital paulista pela cultura aos org&acirc;nicos, &eacute; tamb&eacute;m um espa&ccedil;o de di&aacute;logo com o p&uacute;blico consumidor.</p>
 
 <p class="p1"><br />
-&Eacute; o momento de pautarmos as diferen&ccedil;as entre a produ&ccedil;&atilde;o saud&aacute;vel de alimentos, a produ&ccedil;&atilde;o org&acirc;nica e a produ&ccedil;&atilde;o fetichizada de alimentos pautada pelo agroneg&oacute;cio e&nbsp;dar visibilidade a essa produ&ccedil;&atilde;o que &eacute; invisibilizada pela grande imprensa. N&atilde;o &eacute; todo mundo, por exemplo, que sabe que hoje a maior produ&ccedil;&atilde;o de arroz org&acirc;nico da Am&eacute;rica Latina pertence aos assentamentos da Reforma Agr&aacute;ria&rdquo; , finaliza. &nbsp;</p>
+&Eacute; o momento de pautarmos as diferen&ccedil;as entre a produ&ccedil;&atilde;o saud&aacute;vel de alimentos, a produ&ccedil;&atilde;o org&acirc;nica e a produ&ccedil;&atilde;o fetichizada de alimentos pautada pelo agroneg&oacute;cio e&nbsp;dar visibilidade a essa produ&ccedil;&atilde;o que &eacute; invisibilizada pela grande imprensa. N&atilde;o &eacute; todo mundo, por exemplo, que sabe que hoje a maior produ&ccedil;&atilde;o de arroz org&acirc;nico da Am&eacute;rica Latina pertence aos assentamentos da Reforma Agr&aacute;ria&rdquo; , conclu&iacute;. &nbsp;</p>
 
 <p class="p1"><br />
 <br />
