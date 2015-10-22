@@ -60,31 +60,17 @@ Da P&aacute;gina do MST</em><br />
 
 <p>-Vamo levar? Diz a vendedora, com uma voz animada.</p>
 
-<p>&nbsp;</p>
-
 <p>- Mo&ccedil;a, d&aacute; vontade de levar tudo &ndash; responde Andreia.</p>
-
-<p>&nbsp;</p>
 
 <p>Cleide oferece a castanha torrada do bar&uacute;. Raul come uma e olha para Cleide, impressionado.</p>
 
-<p>&nbsp;</p>
-
 <p>- &Eacute; a melhor castanha que j&aacute; comi, vou levar. Esse tipo de alimento devia ser parte do nosso cotidiano &ndash; diz Raul.</p>
-
-<p>&nbsp;</p>
 
 <p>-&nbsp; &Eacute; pra isso que a gente entra no movimento&nbsp; &ndash; afirma Cleide.</p>
 
-<p>&nbsp;</p>
-
 <p>Andreia pega o queijo.</p>
 
-<p>&nbsp;</p>
-
 <p>-Leva um &ldquo;queijin fresquin&rdquo; tamb&eacute;m &ndash; diz Cleide, com um sotaque &agrave; mineira.</p>
-
-<p>&nbsp;</p>
 
 <p>O casal concorda e compra.</p>
 
@@ -94,23 +80,13 @@ Da P&aacute;gina do MST</em><br />
 
 <p>- Acho que engordei demais nesses tempo por causa dessas comidas transg&ecirc;nicas &ndash; diz Andreia.</p>
 
-<p>&nbsp;</p>
-
 <p>- Voc&ecirc; nunca sabe de onde vem e o que tem nessas comidas &ndash; concorda Cleide.</p>
-
-<p>&nbsp;</p>
 
 <p>O casal coloca o queijo e as castanhas em uma sacola. Raul estende algumas notas a Cleide.</p>
 
-<p>&nbsp;</p>
-
 <p>- D&aacute; desconto de um real mo&ccedil;a?</p>
 
-<p>&nbsp;</p>
-
 <p>-Claro!</p>
-
-<p>&nbsp;</p>
 
 <p>Os dois se despedem, prometendo retornar e comprar mais.</p>
 
@@ -129,6 +105,8 @@ Da P&aacute;gina do MST</em><br />
 <p>&nbsp;</p>
 
 <p>&ldquo;A gente resolveu preparar esses doces e as castanhas especialmente para a feira. Plantamos e pegamos as frutas, recebemos doa&ccedil;&atilde;o dos potes e a&ccedil;&uacute;car de muita gente, e o que for vendido vai ser dividido entre todos, como cooperativa&rdquo;. O sucesso dos doces em Corumb&aacute; foi tanto que os acampados ir&atilde;o continuar a produzir ap&oacute;s a feira.</p>
+
+<p>&nbsp;</p>
 
 <p>Cleide entrou no MST h&aacute; um ano e cinco meses, pouco tempo antes da ocupa&ccedil;&atilde;o que deu origem ao acampamento Dom Tom&aacute;s. Trabalhou 12 anos em um restaurante com a m&atilde;e em An&aacute;polis.</p>
 
