@@ -36,7 +36,7 @@ releated_posts:
   - 2015/07/2015-07-20-cerca-de-300-familias-ocupam-o-segundo-latifundio-no-mato-grosso-em-uma-semana.md
   - 2014/05/2014-05-20-juventude-se-organiza-na-luta-pela-terra-no-parana.md-e
   - 2014/06/2014-06-11-mst-tranca-rodovia-no-rj-e-denuncia-lentidao-na-desapropriacao-de-fazenda.md-e
-section: null
+section: featured-news
 
 ---
 <div style="text-align:center">
