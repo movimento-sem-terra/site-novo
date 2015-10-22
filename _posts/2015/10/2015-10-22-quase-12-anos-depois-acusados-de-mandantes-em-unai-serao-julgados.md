@@ -36,7 +36,9 @@ releated_posts:
 Da RBA&nbsp;</em></p>
 
 <p><br />
-Onze anos e nove meses depois da chacina de Una&iacute;, em que quatro servidores do Minist&eacute;rio do Trabalho foram assassinados, quatro acusados de serem os mandantes ir&atilde;o a julgamento, na 9&ordf; Vara Federal Criminal de Belo Horizonte. A primeira sess&atilde;o do Tribunal do J&uacute;ri est&aacute; marcada para esta quinta-feira (22), a partir das 8h30. A segunda ser&aacute; na pr&oacute;xima ter&ccedil;a (27), no mesmo hor&aacute;rio. O julgamento abrange duas a&ccedil;&otilde;es penais. Uma tem como r&eacute;us Norberto M&acirc;nica, Jos&eacute; Alberto de Castro e Hugo Alves Pimenta. A segunda inclui o ex-prefeito Ant&eacute;rio M&acirc;nica, irm&atilde;o de Norberto.</p>
+Onze anos e nove meses depois da chacina de Una&iacute;, em que quatro servidores do Minist&eacute;rio do Trabalho foram assassinados, quatro acusados de serem os mandantes ir&atilde;o a julgamento, na 9&ordf; Vara Federal Criminal de Belo Horizonte.<br />
+<br />
+A primeira sess&atilde;o do Tribunal do J&uacute;ri est&aacute; marcada para esta quinta-feira (22), a partir das 8h30. A segunda ser&aacute; na pr&oacute;xima ter&ccedil;a (27), no mesmo hor&aacute;rio. O julgamento abrange duas a&ccedil;&otilde;es penais. Uma tem como r&eacute;us Norberto M&acirc;nica, Jos&eacute; Alberto de Castro e Hugo Alves Pimenta. A segunda inclui o ex-prefeito Ant&eacute;rio M&acirc;nica, irm&atilde;o de Norberto.</p>
 
 <p><br />
 No in&iacute;cio do m&ecirc;s, foram sorteados 25 jurados para a reuni&atilde;o do Tribunal do J&uacute;ri. Destes, ser&atilde;o escolhidos sete, tamb&eacute;m por sorteio, no in&iacute;cio da primeira sess&atilde;o, com igual n&uacute;mero de suplentes. A 9&ordf; Vara informou que haver&aacute; 34 testemunhas. Os r&eacute;us s&atilde;o acusados de homic&iacute;dio triplamente qualificado (motivo torpe, emboscada e com o objetivo de assegurar a impunidade de outros crimes). Tr&ecirc;s s&atilde;o acusados de serem mandatos e um (Castro), de ser o intermediador da contrata&ccedil;&atilde;o dos pistoleiros.</p>
