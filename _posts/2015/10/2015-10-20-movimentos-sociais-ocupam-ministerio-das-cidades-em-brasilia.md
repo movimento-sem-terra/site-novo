@@ -31,7 +31,7 @@ files:
 created_date: "2015-10-20T10:13:17-02:00"
 published: true
 releated_posts: []
-section: featured-news
+section: null
 
 ---
 <p>&nbsp;</p>
