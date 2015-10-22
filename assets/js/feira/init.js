@@ -8,12 +8,11 @@ $(document).ready(function() {
         format: 'json'
       },
       itemTemplate:
-        '<img src="{{image_b}}" alt="{{title}}" class="gallery-item"/>'
-    }).masonry({
-      itemSelector: 'img.gallery-item',
-      columnWidth: 'img.gallery-item',
-      percentPosition: true,
-      gutter: 30
+        '<a rel="colorbox" href="{{image_b}}" title="{{title}}">'+
+          '<img src="{{image_s}}" alt="{{title}}" class="gallery-item"/>'+
+        '</a>'
+    },function(data){
+      $('.gallery a').colorbox();
     });
   });
 
