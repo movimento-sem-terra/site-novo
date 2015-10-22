@@ -1,5 +1,5 @@
 ---
-date: "2015-10-22T15:23:18-02:00"
+date: "2015-10-22T14:23:18-03:00"
 tags:
   - tag: feira-da-reforma-agrária
   - tag: soberania-alimentar
@@ -12,7 +12,7 @@ menu: agricultura camponesa
 sector: null
 section: cover
 special-page: null
-support_line: O evento também tem o objetivo de debater com a população as diferenças entre a produção saudável de alimentos e a produção fetichizada pautada pelo agronegócio.
+support_line: O evento também tem o objetivo de debater com a população as diferenças entre a produção saudável de alimentos e a produção industrial padronizada pelo agronegócio.
 layout: post
 files:
   - link: "http://farm6.staticflickr.com/5729/22390129845_8cd67018be_b.jpg"
@@ -65,10 +65,10 @@ Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
-<p>O que a gente quer &eacute;&nbsp;&nbsp;ter uma sa&uacute;de melhor, por isso, &nbsp;tomamos a decis&atilde;o de produzir sem agrot&oacute;xico.&nbsp;Todo mundo trabalha, todo mundo divide. Foi na farinheira, que&nbsp;formamos um coletivo de mulheres. O servi&ccedil;o dos homens &eacute; o de fazer a colheita&nbsp;e a gente faz esse trabalho de beneficiamento&rdquo;.</p>
+<p>&quot;O que a gente quer &eacute;&nbsp;&nbsp;ter uma sa&uacute;de melhor, por isso, &nbsp;tomamos a decis&atilde;o de produzir sem agrot&oacute;xico.&nbsp;Todo mundo trabalha, todo mundo divide. Foi na farinheira, que&nbsp;formamos um coletivo de mulheres. O servi&ccedil;o dos homens &eacute; o de fazer a colheita&nbsp;e a gente faz esse trabalho de beneficiamento&rdquo;.</p>
 
 <p><br />
-A fala acima&nbsp;&eacute; de Mar&iacute;lia Nunes, 19 anos, vinda do&nbsp;do assentamento Palmares 2,&nbsp;em Paraupebas (PA).&nbsp;</p>
+A fala acima&nbsp;&eacute; de Mar&iacute;lia Nunes, 19 anos, vinda do assentamento Palmares 2,&nbsp;em Paraupebas (PA).&nbsp;</p>
 
 <p><br />
 Ela &eacute; uma das participantes da&nbsp;1&ordm; Feira Nacional da Reforma Agr&aacute;ria que come&ccedil;ou nesta quinta-feira (22), no Parque da &Aacute;gua Branca, em&nbsp;S&atilde;o Paulo.</p>
@@ -77,7 +77,7 @@ Ela &eacute; uma das participantes da&nbsp;1&ordm; Feira Nacional da Reforma Agr
 At&eacute; o pr&oacute;ximo domingo (25), ser&atilde;o comercializados mais de 200 toneladas de alimentos, com cerca de 800 variedades de produtos das &aacute;reas de assentamentos de todo o pa&iacute;s.&nbsp;</p>
 
 <p><br />
-Em um momento de paralisa&ccedil;&atilde;o da Reforma Agr&aacute;ria, a feira surge como alternativa de consumo saud&aacute;vel e acess&iacute;vel, al&eacute;m de ser um instrumento de fortalecimento do di&aacute;logo entre campo e cidade.</p>
+Em um momento de paralisa&ccedil;&atilde;o da Reforma Agr&aacute;ria, a feira surge como express&atilde;o da alternativa de consumo saud&aacute;vel e acess&iacute;vel, al&eacute;m de ser um instrumento de fortalecimento do di&aacute;logo entre campo e cidade.</p>
 
 <p><br />
 Exemplo disso &eacute; o de&nbsp;M&ocirc;nica Ramos, 30 anos, que integra a Cooperativa Central das &Aacute;reas de Reforma Agr&aacute;ria do Cear&aacute; (CCA). De l&aacute;, veio a alga marinha Gracilaria Birdiae.</p>
@@ -100,7 +100,7 @@ M&ocirc;nica&nbsp;destaca os sabores e os benef&iacute;cios do produto do cearen
 &ldquo;S&atilde;o Paulo &eacute; a maior cidade do Brasil, &eacute; o local onde o debate campo cidade &eacute; mais evidente. Aqui &eacute; onde os dois modelos de disputa atuais - o modelo do agroneg&oacute;cio e da agricultura camponesa -, est&atilde;o mais vis&iacute;veis. E fazer essa feira no Parque da &Aacute;gua Branca, espa&ccedil;o que j&aacute; &eacute; conhecido na capital paulista pela cultura aos org&acirc;nicos, &eacute; tamb&eacute;m um espa&ccedil;o de di&aacute;logo com o p&uacute;blico consumidor.</p>
 
 <p class="p1"><br />
-&Eacute; o momento de pautarmos as diferen&ccedil;as entre a produ&ccedil;&atilde;o saud&aacute;vel de alimentos, a produ&ccedil;&atilde;o org&acirc;nica e a produ&ccedil;&atilde;o fetichizada de alimentos pautada pelo agroneg&oacute;cio e&nbsp;dar visibilidade a essa produ&ccedil;&atilde;o que &eacute; invisibilizada pela grande imprensa. N&atilde;o &eacute; todo mundo, por exemplo, que sabe que hoje a maior produ&ccedil;&atilde;o de arroz org&acirc;nico da Am&eacute;rica Latina pertence aos assentamentos da Reforma Agr&aacute;ria&rdquo; , conclu&iacute;. &nbsp;</p>
+&quot;&Eacute; o momento de pautarmos as diferen&ccedil;as entre a produ&ccedil;&atilde;o saud&aacute;vel de alimentos, a produ&ccedil;&atilde;o org&acirc;nica e a produ&ccedil;&atilde;o fetichizada de alimentos pautada pelo agroneg&oacute;cio e&nbsp;dar visibilidade a essa produ&ccedil;&atilde;o que &eacute; invisibilizada pela grande imprensa. N&atilde;o &eacute; todo mundo, por exemplo, que sabe que hoje a maior produ&ccedil;&atilde;o de arroz org&acirc;nico da Am&eacute;rica Latina pertence aos assentamentos da Reforma Agr&aacute;ria&rdquo; , conclu&iacute;. &nbsp;</p>
 
 <p class="p1"><br />
 <br />
@@ -110,7 +110,7 @@ M&ocirc;nica&nbsp;destaca os sabores e os benef&iacute;cios do produto do cearen
 <strong><span class="s1">Soberania Alimentar&nbsp;</span></strong></p>
 
 <p class="p1"><br />
-<span class="s1">A expans&atilde;o do agroneg&oacute;cio &eacute; hoje impulsionada pelas grandes empresas multinacionais do sistema agroalimentar, diante dessa imposi&ccedil;&atilde;o do capital, a produ&ccedil;&atilde;o camponesa passou a ter muitas dificuldades para crescer. </span></p>
+<span class="s1">A expans&atilde;o do agroneg&oacute;cio &eacute; hoje impulsionada pelas grandes empresas multinacionais do sistema agroalimentar. Diante dessa imposi&ccedil;&atilde;o do capital, a produ&ccedil;&atilde;o camponesa passou a ter muitas dificuldades para crescer. </span></p>
 
 <p class="p1"><br />
 <span class="s1">Nesse &acirc;mbito, a mudan&ccedil;a do modelo agr&iacute;cola torna-se fundamental. E</span> &eacute; nesse sentido que a Reforma Agr&aacute;ria Popular trabalha, <span class="s1">fazendo contraposi&ccedil;&atilde;o a esse modelo excludente e privilegiando os produtores e movimentando a economia local e contribuindo de maneira massiva com a economia local.&nbsp;&nbsp;</span></p>
