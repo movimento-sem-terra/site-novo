@@ -1,5 +1,5 @@
 ---
-date: "2015-10-22T14:23:18-03:00"
+date: "2015-10-22T15:23:18-02:00"
 tags:
   - tag: feira-da-reforma-agrária
   - tag: soberania-alimentar
@@ -42,30 +42,27 @@ files:
 created_date: "2015-10-22T16:16:17-02:00"
 published: true
 releated_posts:
-  - 2015/07/2015-07-14-com-alimentos-saudaveis-sem-terra-ocupam-as-ruas-da-bahia.md
   - 2015/10/2015-10-21-producao-organica-do-rs-sera-comercializada-na-1a-feira-nacional-da-reforma-agraria-em-sp.md
-  - 2014/04/2014-04-15-sem-terra-debatem-organizacao-e-producao-em-nova-area-conquistada.md
   - 2015/04/2015-04-29-do-eucalipto-a-producao-agroecologica-e-a-construcao-da-escola-popular.md
-  - 2015/02/2015-02-27-acampamento-dom-tomas-balduino-o-grande-experimento-agroecologico-ameacado-pelo-latifundio.md
-  - 2015/04/2015-04-20-belem-sedia-a-2-feira-da-reforma-agraria.md
   - 2015/06/2015-06-25-a-batalha-de-dois-modelos-agricolas.md
-  - 2015/10/2015-10-02-camponeses-reafirmam-sua-identidade-durante-congresso-no-para.md
+  - 2015/10/2015-10-06-hortas-organicas-mais-que-alternativa-um-modo-de-vida-de-assentadas-da-reforma-agraria-no-rs.md
+  - 2015/01/2014-12-29-cinco-passos-para-esfriar-o-planeta-e-garantir-soberania-alimentar.md
+  - 2015/08/2015-08-18-comida-ou-veneno-producao-organica-se-viabiliza-como-garantia-de-seguranca-alimentar.md
+  - 2015/10/2015-10-21-mais-de-200-toneladas-de-alimentos-serao-comercializados-na-1o-feira-nacional-da-reforma-agraria.md
 
 ---
 <p class="p1">&nbsp;</p>
 
 <p class="p1"><img alt="JOKA8476.jpg" height="467" src="http://farm6.staticflickr.com/5786/22390310635_ea73ddd620_b.jpg" width="700" /></p>
 
-<p class="p1">&nbsp;</p>
-
-<p><em>Por Maura Silva<br />
+<p class="p1"><br />
+<em>Por Maura Silva<br />
 Da P&aacute;gina do MST</em></p>
 
 <p><em>Fotos: Joka Madruga e Victor Tineo</em></p>
 
-<p>&nbsp;</p>
-
-<p>&quot;O que a gente quer &eacute;&nbsp;&nbsp;ter uma sa&uacute;de melhor, por isso, &nbsp;tomamos a decis&atilde;o de produzir sem agrot&oacute;xico.&nbsp;Todo mundo trabalha, todo mundo divide. Foi na farinheira, que&nbsp;formamos um coletivo de mulheres. O servi&ccedil;o dos homens &eacute; o de fazer a colheita&nbsp;e a gente faz esse trabalho de beneficiamento&rdquo;.</p>
+<p><br />
+&quot;O que a gente quer &eacute;&nbsp;&nbsp;ter uma sa&uacute;de melhor, por isso&nbsp;tomamos a decis&atilde;o de produzir sem agrot&oacute;xico.&nbsp;Todo mundo trabalha, todo mundo divide. Foi na farinheira&nbsp;que&nbsp;formamos um coletivo de mulheres. O servi&ccedil;o dos homens &eacute; o de fazer a colheita&nbsp;e a gente faz esse trabalho de beneficiamento&rdquo;.</p>
 
 <p><br />
 A fala acima&nbsp;&eacute; de Mar&iacute;lia Nunes, 19 anos, vinda do assentamento Palmares 2,&nbsp;em Paraupebas (PA).&nbsp;</p>
@@ -86,7 +83,7 @@ Exemplo disso &eacute; o de&nbsp;M&ocirc;nica Ramos, 30 anos, que integra a Coop
 &ldquo;A gente come&ccedil;ou a produzir [a alga] para se contrapor &agrave; forma como os empres&aacute;rios tiravam. Eles tiram e ela n&atilde;o nasce mais. A gente tem o cuidado de fazer o cultivo para ela nascer de novo. &Eacute; dentro de um manejo agroecol&oacute;gico&rdquo;, diz.</p>
 
 <p><br />
-M&ocirc;nica&nbsp;destaca os sabores e os benef&iacute;cios do produto do cearense. &ldquo;Ela fica muito gostosa com macarr&atilde;o. Na pr&oacute;pria embalagem, n&oacute;s colocamos ideias de receitas. Ela tamb&eacute;m tem nutrientes, &eacute; rica em minerais e vitaminas&rdquo;, afirma.</p>
+M&ocirc;nica&nbsp;destaca os sabores e os benef&iacute;cios do produto cearense. &ldquo;Ela fica muito gostosa com macarr&atilde;o. Na pr&oacute;pria embalagem&nbsp;n&oacute;s colocamos ideias de receitas. Ela tamb&eacute;m tem nutrientes, &eacute; rica em minerais e vitaminas&rdquo;, afirma.</p>
 
 <p>&nbsp;</p>
 
@@ -100,11 +97,7 @@ M&ocirc;nica&nbsp;destaca os sabores e os benef&iacute;cios do produto do cearen
 &ldquo;S&atilde;o Paulo &eacute; a maior cidade do Brasil, &eacute; o local onde o debate campo cidade &eacute; mais evidente. Aqui &eacute; onde os dois modelos de disputa atuais - o modelo do agroneg&oacute;cio e da agricultura camponesa -, est&atilde;o mais vis&iacute;veis. E fazer essa feira no Parque da &Aacute;gua Branca, espa&ccedil;o que j&aacute; &eacute; conhecido na capital paulista pela cultura aos org&acirc;nicos, &eacute; tamb&eacute;m um espa&ccedil;o de di&aacute;logo com o p&uacute;blico consumidor.</p>
 
 <p class="p1"><br />
-&quot;&Eacute; o momento de pautarmos as diferen&ccedil;as entre a produ&ccedil;&atilde;o saud&aacute;vel de alimentos, a produ&ccedil;&atilde;o org&acirc;nica e a produ&ccedil;&atilde;o fetichizada de alimentos pautada pelo agroneg&oacute;cio e&nbsp;dar visibilidade a essa produ&ccedil;&atilde;o que &eacute; invisibilizada pela grande imprensa. N&atilde;o &eacute; todo mundo, por exemplo, que sabe que hoje a maior produ&ccedil;&atilde;o de arroz org&acirc;nico da Am&eacute;rica Latina pertence aos assentamentos da Reforma Agr&aacute;ria&rdquo; , conclu&iacute;. &nbsp;</p>
-
-<p class="p1"><br />
-<br />
-<img alt="22196646560_803757ea1a_z.jpg" src="http://farm1.staticflickr.com/716/21768399304_1033447bfc_b.jpg" /></p>
+&quot;&Eacute; o momento de pautarmos as diferen&ccedil;as entre a produ&ccedil;&atilde;o saud&aacute;vel de alimentos, a produ&ccedil;&atilde;o org&acirc;nica e a produ&ccedil;&atilde;o fetichizada de alimentos pautada pelo agroneg&oacute;cio e&nbsp;dar visibilidade a essa produ&ccedil;&atilde;o que &eacute; invisibilizada pela grande imprensa. N&atilde;o &eacute; todo mundo, por exemplo, que sabe que hoje a maior produ&ccedil;&atilde;o de arroz org&acirc;nico da Am&eacute;rica Latina pertence aos assentamentos da Reforma Agr&aacute;ria&rdquo; , conclu&iacute;.</p>
 
 <p class="p1"><br />
 <strong><span class="s1">Soberania Alimentar&nbsp;</span></strong></p>
