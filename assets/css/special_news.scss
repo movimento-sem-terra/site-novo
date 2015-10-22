@@ -6,7 +6,7 @@
 @import "../_sass/variables";
 
 
- 
+
 
 //EXTENDS
 
@@ -43,6 +43,24 @@
 }
 
 
+#special #galeria {
+  min-height: 400px;
+
+  .gallery {
+    display: inline;
+  }
+
+  .gallery-item {
+    max-width: 370px;
+    border-radius: 3px;
+    box-shadow: 3px 3px 3px rgba(0,0,0,0.125);
+    width: 15%;
+    max-width: 250px;
+    margin-bottom: 10px;
+    padding: 3px;
+  }
+
+}
 
 #special {
   padding: 0;

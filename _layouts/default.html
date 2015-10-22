@@ -9,13 +9,19 @@
 		<title>{{ page.title }} - {{ site.name }}</title>
    {% include metas.html %}
 		<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/site.css" />
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+    <link rel="shortcut icon" href="{{ site.baseurl }}/assets/img/logo.png" type="image/png" />
+
     {% if page.styles %}
       {% for style in page.styles %}
         <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/{{ style }}" />
       {% endfor %}
     {% endif %}
-        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
-		<link rel="shortcut icon" href="{{ site.baseurl }}/assets/img/logo.png" type="image/png" />
+    {% if page.external_styles %}
+      {% for style in page.external_styles %}
+        <link rel="stylesheet" type="text/css" href="{{ style }}" />
+      {% endfor %}
+    {% endif %}
 
   	</head>
   <body>
