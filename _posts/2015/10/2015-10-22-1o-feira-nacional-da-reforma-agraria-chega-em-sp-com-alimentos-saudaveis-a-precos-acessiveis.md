@@ -33,12 +33,12 @@ files:
     small: "http://farm6.staticflickr.com/5786/22390310635_ea73ddd620_n.jpg"
     title: JOKA8476.jpg
     $$hashKey: 02Y
-  - link: "http://farm1.staticflickr.com/650/21767938194_43193d410b_b.jpg"
-    thumbnail: "http://farm1.staticflickr.com/650/21767938194_43193d410b_t.jpg"
-    medium: "http://farm1.staticflickr.com/650/21767938194_43193d410b_z.jpg"
-    small: "http://farm1.staticflickr.com/650/21767938194_43193d410b_n.jpg"
-    title: 11752467_870599753028579_1243456590614411756_n.jpg
-    $$hashKey: 0BB
+  - link: "http://farm1.staticflickr.com/716/21768399304_1033447bfc_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/716/21768399304_1033447bfc_t.jpg"
+    medium: "http://farm1.staticflickr.com/716/21768399304_1033447bfc_z.jpg"
+    small: "http://farm1.staticflickr.com/716/21768399304_1033447bfc_n.jpg"
+    title: 22196646560_803757ea1a_z.jpg
+    $$hashKey: 0AF
 created_date: "2015-10-22T16:16:17-02:00"
 published: true
 releated_posts:
@@ -80,7 +80,9 @@ Da P&aacute;gina do MST</em></p>
 Ainda para Carla, outro papel desempenhado pela feira &eacute; trazer a tona o atual modelo agroexportador que afeta de maneira negativa toda a cadeia produtiva e de consumo.&nbsp;</p>
 
 <p class="p1"><br />
-&ldquo;S&atilde;o Paulo &eacute; a maior cidade do Brasil, &eacute; o local onde o debate campo cidade &eacute; mais evidente. Aqui &eacute; onde os dois modelos de disputa atuais - o modelo do agroneg&oacute;cio e da agricultura camponesa -, est&atilde;o mais vis&iacute;veis. E fazer essa feira no Parque da &Aacute;gua Branca, espa&ccedil;o que j&aacute; &eacute; conhecido na capital paulista pela cultura aos org&acirc;nicos, &eacute; tamb&eacute;m um espa&ccedil;o de di&aacute;logo com o p&uacute;blico consumidor. &Eacute; o momento de pautarmos as diferen&ccedil;as entre a produ&ccedil;&atilde;o saud&aacute;vel de alimentos, a produ&ccedil;&atilde;o org&acirc;nica e a produ&ccedil;&atilde;o fetichizada de alimentos pautada pelo agroneg&oacute;cio e&nbsp;dar visibilidade a essa produ&ccedil;&atilde;o que &eacute; invisibilizada pela grande imprensa. N&atilde;o &eacute; todo mundo, por exemplo, que sabe que hoje a maior produ&ccedil;&atilde;o de arroz org&acirc;nico da Am&eacute;rica Latina pertence aos assentamentos da Reforma Agr&aacute;ria&rdquo; , finaliza. &nbsp;</p>
+&ldquo;S&atilde;o Paulo &eacute; a maior cidade do Brasil, &eacute; o local onde o debate campo cidade &eacute; mais evidente. Aqui &eacute; onde os dois modelos de disputa atuais - o modelo do agroneg&oacute;cio e da agricultura camponesa -, est&atilde;o mais vis&iacute;veis. E fazer essa feira no Parque da &Aacute;gua Branca, espa&ccedil;o que j&aacute; &eacute; conhecido na capital paulista pela cultura aos org&acirc;nicos, &eacute; tamb&eacute;m um espa&ccedil;o de di&aacute;logo com o p&uacute;blico consumidor. &Eacute; o momento de pautarmos as diferen&ccedil;as entre a produ&ccedil;&atilde;o saud&aacute;vel de alimentos, a produ&ccedil;&atilde;o org&acirc;nica e a produ&ccedil;&atilde;o fetichizada de alimentos pautada pelo agroneg&oacute;cio e&nbsp;dar visibilidade a essa produ&ccedil;&atilde;o que &eacute; invisibilizada pela grande imprensa. N&atilde;o &eacute; todo mundo, por exemplo, que sabe que hoje a maior produ&ccedil;&atilde;o de arroz org&acirc;nico da Am&eacute;rica Latina pertence aos assentamentos da Reforma Agr&aacute;ria&rdquo; , finaliza. &nbsp;<br />
+<br />
+<img alt="22196646560_803757ea1a_z.jpg" src="http://farm1.staticflickr.com/716/21768399304_1033447bfc_b.jpg" /></p>
 
 <p class="p1"><br />
 <strong><span class="s1">Soberania Alimentar&nbsp;</span></strong></p>
@@ -92,12 +94,12 @@ Ainda para Carla, outro papel desempenhado pela feira &eacute; trazer a tona o a
 <span class="s1">Nesse &acirc;mbito, a mudan&ccedil;a do modelo agr&iacute;cola torna-se fundamental. E</span> &eacute; nesse sentido que a Reforma Agr&aacute;ria Popular trabalha, <span class="s1">fazendo contraposi&ccedil;&atilde;o a esse modelo excludente e privilegiando os produtores e movimentando a economia local e contribuindo de maneira massiva com a economia local.&nbsp;&nbsp;</span></p>
 
 <p class="p1"><br />
-<span class="s1">Da&iacute; a import&acirc;ncia do acesso &agrave; terra, sem a qual os limites da soberania ficam completamente amarrados pelo sistema de mercadorias. Dentro dessa concep&ccedil;&atilde;o, a produ&ccedil;&atilde;o de alimentos que atenda &agrave;s necessidades das popula&ccedil;&otilde;es locais se coloca como fundamental para o processo de soberania local e econ&ocirc;mica que favorece pessoas como Concei</span><span style="line-height: 20.8px;">&ccedil;&atilde;o, moradora do&nbsp;</span><span style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, 'Nimbus Sans L', sans-serif; font-size: 14.256px; line-height: normal; text-align: justify;">Assentamento Lagoa do Mineiro, no Cear&aacute;.</span></p>
+<span class="s1">Da&iacute; a import&acirc;ncia do acesso &agrave; terra, sem a qual os limites da soberania ficam completamente amarrados pelo sistema de mercadorias. Dentro dessa concep&ccedil;&atilde;o, a produ&ccedil;&atilde;o de alimentos que atenda &agrave;s necessidades das popula&ccedil;&otilde;es locais se coloca como fundamental para o processo de soberania local e econ&ocirc;mica que favorece pessoas como Concei</span><span style="line-height: 20.8px;">&ccedil;&atilde;o, moradora do&nbsp;</span>Assentamento Lagoa do Mineiro, no Cear&aacute;.</p>
 
 <figure class="image"><img alt="DSC_0017.JPG" height="466" src="http://farm6.staticflickr.com/5729/22390129845_8cd67018be_b.jpg" width="700" />
 <figcaption>O agroneg&oacute;cio insiste em dizer que os assentamentos n&atilde;o tem produ&ccedil;&atilde;o e, consequentemente, demanda.<br />
-Estamos aqui para provar exatamente o contr&aacute;rio. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;Com&nbsp;<br />
-as condi&ccedil;&otilde;es e subs&iacute;dios necess&aacute;rios, os assentamentos da Reforma Agr&aacute;ria tem sim toda a condi&ccedil;&atilde;o de atender a demanda massiva de produ&ccedil;&atilde;o e comercializa&ccedil;&atilde;o de alimentos saud&aacute;veis.<br />
+Estamos aqui para provar exatamente o contr&aacute;rio.<br />
+Com as condi&ccedil;&otilde;es e subs&iacute;dios necess&aacute;rios, os assentamentos da Reforma Agr&aacute;ria tem sim toda a condi&ccedil;&atilde;o de atender a demanda massiva de produ&ccedil;&atilde;o e comercializa&ccedil;&atilde;o de alimentos saud&aacute;veis.<br />
 O MST est&aacute; aqui para demonstrar toda organiza&ccedil;&atilde;o, toda produ&ccedil;&atilde;o coletiva e todo poder e valor que vem do campo.&nbsp;<br />
 &nbsp;</figcaption>
 </figure>
