@@ -61,6 +61,8 @@ releated_posts:
 <p><em>Por Maura Silva<br />
 Da P&aacute;gina do MST</em></p>
 
+<p><em>Fotos: Joka Madruga e Victor Tineo</em></p>
+
 <p>&nbsp;</p>
 
 <p>O que a gente quer &eacute;&nbsp;&nbsp;ter uma sa&uacute;de melhor, por isso, &nbsp;tomamos a decis&atilde;o de produzir sem agrot&oacute;xico.&nbsp;Todo mundo trabalha, todo mundo divide. Foi na farinheira, que&nbsp;formamos um coletivo de mulheres. O servi&ccedil;o dos homens &eacute; o de fazer a colheita&nbsp;e a gente faz esse trabalho de beneficiamento&rdquo;.</p>
