@@ -76,8 +76,13 @@ Da P&aacute;gina do MST</em></p>
 <p class="p1"><br />
 &ldquo;Com a paralisia da Reforma Agr&aacute;ria &eacute; importante colocar em pauta para a popula&ccedil;&atilde;o brasileira, atrav&eacute;s da feira, os resultados que a Reforma Agr&aacute;ria proporciona. Uma feira realizada na cidade de S&atilde;o Paulo com 23 estados mais o Distrito Federal, mais de 800 produtos, uma mostra de cultura camponesa, uma mostra de culin&aacute;ria da terra s&atilde;o instrumentos da import&acirc;ncia e da produ&ccedil;&atilde;o advinda desse setor. &Eacute; um momento de troca e aproxima&ccedil;&atilde;o, a cidade conhecendo o que o campo produz e este, por sua vez, entendendo qual o potencial consumidor dessa cidade&rdquo;, afirma.&nbsp;</p>
 
-<p class="p1"><br />
-Ainda para Carla, outro papel desempenhado pela feira &eacute; trazer a tona o atual modelo agroexportador que afeta de maneira negativa toda a cadeia produtiva e de consumo.&nbsp;</p>
+<p class="p1">&nbsp;</p>
+
+<p class="p1"><img alt="JOKA8504.jpg" height="467" src="http://farm1.staticflickr.com/706/22202311050_2dd299212e_b.jpg" width="700" /></p>
+
+<p class="p1">&nbsp;</p>
+
+<p class="p1">Ainda para Carla, outro papel desempenhado pela feira &eacute; trazer a tona o atual modelo agroexportador que afeta de maneira negativa toda a cadeia produtiva e de consumo.&nbsp;</p>
 
 <p class="p1"><br />
 &ldquo;S&atilde;o Paulo &eacute; a maior cidade do Brasil, &eacute; o local onde o debate campo cidade &eacute; mais evidente. Aqui &eacute; onde os dois modelos de disputa atuais - o modelo do agroneg&oacute;cio e da agricultura camponesa -, est&atilde;o mais vis&iacute;veis. E fazer essa feira no Parque da &Aacute;gua Branca, espa&ccedil;o que j&aacute; &eacute; conhecido na capital paulista pela cultura aos org&acirc;nicos, &eacute; tamb&eacute;m um espa&ccedil;o de di&aacute;logo com o p&uacute;blico consumidor.</p>
