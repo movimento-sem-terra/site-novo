@@ -80,7 +80,12 @@ Da P&aacute;gina do MST</em></p>
 Ainda para Carla, outro papel desempenhado pela feira &eacute; trazer a tona o atual modelo agroexportador que afeta de maneira negativa toda a cadeia produtiva e de consumo.&nbsp;</p>
 
 <p class="p1"><br />
-&ldquo;S&atilde;o Paulo &eacute; a maior cidade do Brasil, &eacute; o local onde o debate campo cidade &eacute; mais evidente. Aqui &eacute; onde os dois modelos de disputa atuais - o modelo do agroneg&oacute;cio e da agricultura camponesa -, est&atilde;o mais vis&iacute;veis. E fazer essa feira no Parque da &Aacute;gua Branca, espa&ccedil;o que j&aacute; &eacute; conhecido na capital paulista pela cultura aos org&acirc;nicos, &eacute; tamb&eacute;m um espa&ccedil;o de di&aacute;logo com o p&uacute;blico consumidor. &Eacute; o momento de pautarmos as diferen&ccedil;as entre a produ&ccedil;&atilde;o saud&aacute;vel de alimentos, a produ&ccedil;&atilde;o org&acirc;nica e a produ&ccedil;&atilde;o fetichizada de alimentos pautada pelo agroneg&oacute;cio e&nbsp;dar visibilidade a essa produ&ccedil;&atilde;o que &eacute; invisibilizada pela grande imprensa. N&atilde;o &eacute; todo mundo, por exemplo, que sabe que hoje a maior produ&ccedil;&atilde;o de arroz org&acirc;nico da Am&eacute;rica Latina pertence aos assentamentos da Reforma Agr&aacute;ria&rdquo; , finaliza. &nbsp;<br />
+&ldquo;S&atilde;o Paulo &eacute; a maior cidade do Brasil, &eacute; o local onde o debate campo cidade &eacute; mais evidente. Aqui &eacute; onde os dois modelos de disputa atuais - o modelo do agroneg&oacute;cio e da agricultura camponesa -, est&atilde;o mais vis&iacute;veis. E fazer essa feira no Parque da &Aacute;gua Branca, espa&ccedil;o que j&aacute; &eacute; conhecido na capital paulista pela cultura aos org&acirc;nicos, &eacute; tamb&eacute;m um espa&ccedil;o de di&aacute;logo com o p&uacute;blico consumidor.</p>
+
+<p class="p1"><br />
+&Eacute; o momento de pautarmos as diferen&ccedil;as entre a produ&ccedil;&atilde;o saud&aacute;vel de alimentos, a produ&ccedil;&atilde;o org&acirc;nica e a produ&ccedil;&atilde;o fetichizada de alimentos pautada pelo agroneg&oacute;cio e&nbsp;dar visibilidade a essa produ&ccedil;&atilde;o que &eacute; invisibilizada pela grande imprensa. N&atilde;o &eacute; todo mundo, por exemplo, que sabe que hoje a maior produ&ccedil;&atilde;o de arroz org&acirc;nico da Am&eacute;rica Latina pertence aos assentamentos da Reforma Agr&aacute;ria&rdquo; , finaliza. &nbsp;</p>
+
+<p class="p1"><br />
 <br />
 <img alt="22196646560_803757ea1a_z.jpg" src="http://farm1.staticflickr.com/716/21768399304_1033447bfc_b.jpg" /></p>
 
@@ -96,8 +101,11 @@ Ainda para Carla, outro papel desempenhado pela feira &eacute; trazer a tona o a
 <p class="p1"><br />
 <span class="s1">Da&iacute; a import&acirc;ncia do acesso &agrave; terra, sem a qual os limites da soberania ficam completamente amarrados pelo sistema de mercadorias. Dentro dessa concep&ccedil;&atilde;o, a produ&ccedil;&atilde;o de alimentos que atenda &agrave;s necessidades das popula&ccedil;&otilde;es locais se coloca como fundamental para o processo de soberania local e econ&ocirc;mica que favorece pessoas como Concei</span><span style="line-height: 20.8px;">&ccedil;&atilde;o, moradora do&nbsp;</span>Assentamento Lagoa do Mineiro, no Cear&aacute;.</p>
 
+<p class="p1">&nbsp;</p>
+
 <figure class="image"><img alt="DSC_0017.JPG" height="466" src="http://farm6.staticflickr.com/5729/22390129845_8cd67018be_b.jpg" width="700" />
-<figcaption>O agroneg&oacute;cio insiste em dizer que os assentamentos n&atilde;o tem produ&ccedil;&atilde;o e, consequentemente, demanda.<br />
+<figcaption><br />
+O agroneg&oacute;cio insiste em dizer que os assentamentos n&atilde;o tem produ&ccedil;&atilde;o e, consequentemente, demanda.<br />
 Estamos aqui para provar exatamente o contr&aacute;rio.<br />
 Com as condi&ccedil;&otilde;es e subs&iacute;dios necess&aacute;rios, os assentamentos da Reforma Agr&aacute;ria tem sim toda a condi&ccedil;&atilde;o de atender a demanda massiva de produ&ccedil;&atilde;o e comercializa&ccedil;&atilde;o de alimentos saud&aacute;veis.<br />
 O MST est&aacute; aqui para demonstrar toda organiza&ccedil;&atilde;o, toda produ&ccedil;&atilde;o coletiva e todo poder e valor que vem do campo.&nbsp;<br />
