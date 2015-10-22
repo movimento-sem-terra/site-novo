@@ -78,8 +78,7 @@ Da P&aacute;gina do MST</em><br />
 
 <p>- D&aacute; desconto de um real mo&ccedil;a?</p>
 
-<p><br />
--Claro!</p>
+<p>-Claro!</p>
 
 <p>Os dois se despedem, prometendo retornar e comprar mais.</p>
 
