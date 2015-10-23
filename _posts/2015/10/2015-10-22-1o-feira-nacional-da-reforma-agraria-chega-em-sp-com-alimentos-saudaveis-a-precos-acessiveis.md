@@ -68,7 +68,7 @@ Da P&aacute;gina do MST</em></p>
 A fala acima&nbsp;&eacute; de Mar&iacute;lia Nunes, 19 anos, vinda do assentamento Palmares 2,&nbsp;em Paraupebas (PA).&nbsp;</p>
 
 <p><br />
-Ela &eacute; uma das participantes da&nbsp;1&ordm; Feira Nacional da Reforma Agr&aacute;ria que come&ccedil;ou nesta quinta-feira (22), no Parque da &Aacute;gua Branca, em&nbsp;S&atilde;o Paulo.</p>
+Ela &eacute; uma das participantes da&nbsp;1&ordm; Feira Nacional da Reforma Agr&aacute;ria que come&ccedil;ou nesta quinta-feira (22), no Parque da &Aacute;gua Branca, em&nbsp;S&atilde;o Paulo (<strong><a href="https://www.flickr.com/photos/mstoficial" target="_blank">Clique aqui</a></strong> para ver mais fotos da feira)</p>
 
 <p><br />
 At&eacute; o pr&oacute;ximo domingo (25), ser&atilde;o comercializados mais de 200 toneladas de alimentos, com cerca de 800 variedades de produtos das &aacute;reas de assentamentos de todo o pa&iacute;s.&nbsp;</p>
