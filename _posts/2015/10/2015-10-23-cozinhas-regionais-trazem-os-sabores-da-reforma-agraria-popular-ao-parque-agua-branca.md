@@ -58,7 +58,7 @@ Moqueca, carne de bode, acaraj&eacute;, pato no tucupi, arroz com pequi, farinha
 A grande pra&ccedil;a de alimenta&ccedil;&atilde;o re&uacute;ne os sabores caracter&iacute;sticos de cada ponto do pa&iacute;s, tudo produzido pela m&atilde;o das camponesas e camponeses que, at&eacute; o pr&oacute;ximo dia 25, proporcionam a sociedade paulistana uma rica amostra da cultura e do paladar da Reforma Agr&aacute;ria Popular.</p>
 
 <p><br />
-Do caf&eacute; da manh&atilde; &agrave; janta, passando pelo almo&ccedil;o refor&ccedil;ado, a pra&ccedil;a de alimenta&ccedil;&atilde;o funciona todos os dias onde as aproximadamente 15 cozinhas servem o melhor dos pratos regionais, tudo comercializado a pre&ccedil;o justo.</p>
+Do caf&eacute; da manh&atilde; &agrave; janta, passando pelo almo&ccedil;o refor&ccedil;ado, a pra&ccedil;a de alimenta&ccedil;&atilde;o funciona todos os dias onde as aproximadamente 15 cozinhas servem o melhor dos pratos regionais, tudo comercializado a pre&ccedil;o justo (<strong><a href="https://www.flickr.com/photos/mstoficial" target="_blank">Clique aqui</a></strong> para ver mais fotos da feira)</p>
 
 <p><br />
 Enquanto preparava o tradicional vatap&aacute; baiano, Dulcelene Felic&iacute;ssima, do Rec&ocirc;ncavo da Bahia, estampou o sorriso no rosto para descrever o prazer de trazer o prato de sua terra. &ldquo;Foram 3 dias na estrada para chegar at&eacute; S&atilde;o Paulo, guiados pelo amor e pelo prazer para participar desse importante momento e ainda mais com a responsabilidade de trazer um pouco da nossa cultura para quem vive aqui em S&atilde;o Paulo&rdquo;, comentou a baiana conhecida por Dulce.</p>
