@@ -10,7 +10,7 @@ title: 1º Feira Nacional da Reforma Agrária chega em SP com alimentos saudáve
 images_hd: "http://farm1.staticflickr.com/706/22202311050_2dd299212e_b.jpg"
 menu: agricultura camponesa
 sector: null
-section: cover
+section: featured-news
 special-page: null
 support_line: O evento também tem o objetivo de debater com a população as diferenças entre a produção saudável de alimentos e a produção industrial padronizada pelo agronegócio.
 layout: post
