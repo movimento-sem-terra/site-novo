@@ -7,7 +7,7 @@ tags:
   - tag: rio-grande-do-sul
   - tag: despejo
 menu: reforma agrária
-title: "No Rio Grande do Sul, Sem Terra iniciam produção de alimentos em fazenda ocupada "
+title: "Como forma de resistência, Sem Terra iniciam produção de alimentos em fazenda ocupada no RS"
 support_line: "O objetivo das famílias é plantar na área mais de 30 quilos de milho e 500 mudas de rama de mandioca, além de feijão."
 images_hd: "http://farm6.staticflickr.com/5752/22416839981_eb7e6ee056_b.jpg"
 label: null
@@ -50,27 +50,28 @@ releated_posts:
 
 <p class="p1"><em>Da P&aacute;gina do MST</em></p>
 
-<p class="p2">&nbsp;</p>
+<p class="p2" style="line-height: 20.8px;"><span style="line-height: 20.8px;">As 400 fam&iacute;lias Sem Terra que ocupam&nbsp;a Fazenda Sol Agr&iacute;cola, sofrem com o pedido de reintegra&ccedil;&atilde;o de posse emitido no&nbsp;&uacute;ltimo dia (21)&nbsp;pela&nbsp;justi&ccedil;a do munic&iacute;pio.</span></p>
 
-<p class="p1"><span class="s1">Cerca de 400 fam&iacute;lias Sem Terra que ocupam desde a &uacute;ltima segunda-feira (19), a Fazenda Sol Agr&iacute;cola, em S&atilde;o Louren&ccedil;o do Sul, na regi&atilde;o Sul do Rio Grande do Sul, iniciaram nesta quarta-feira (21) a produ&ccedil;&atilde;o de alimentos no local.</span></p>
+<p class="p2" style="line-height: 20.8px;"><br />
+<span class="s1">Como forma de resist&ecirc;ncia na luta pela terra, as fam&iacute;lias resistem ao despejo e continuam&nbsp;acampadas e produzindo&nbsp;na fazenda.</span></p>
 
-<p class="p1">&nbsp;</p>
+<p class="p1" style="line-height: 20.8px;"><br />
+<span class="s1">&ldquo;N&atilde;o vamos sair, vamos permanecer nessa &aacute;rea que est&aacute; improdutiva e nas m&atilde;os do capital estrangeiro&rdquo;, disse Ainda Teixeira, da coordena&ccedil;&atilde;o estadual do MST.</span></p>
 
-<p class="p1"><span class="s1">O objetivo das fam&iacute;lias &eacute;&nbsp;plantar na &aacute;rea mais de 30 quilos de milho e 500 mudas de rama de mandioca, al&eacute;m de feij&atilde;o.</span></p>
+<p class="p1" style="line-height: 20.8px;"><br />
+<span class="s1">A fazenda Sol Agr&iacute;cola tem aproximadamente 750 hectares e &eacute; considerada improdutiva pelos Sem Terra. Na tarde de ontem, as fam&iacute;lias iniciaram a produ&ccedil;&atilde;o de alimentos, como milho e mandioca, no local. E pretendem continuar o plantio na &aacute;rea amanh&atilde;.</span></p>
+
+<p class="p1" style="line-height: 20.8px;"><br />
+<span class="s1">At&eacute; que o problema da falta de terra das fam&iacute;lias seja resolvido &agrave; inten&ccedil;&atilde;o &eacute; tornar o latif&uacute;ndio produtivo, com a produ&ccedil;&atilde;o de alimentos saud&aacute;veis.</span></p>
+
+<p class="p1" style="line-height: 20.8px;"><br />
+<span class="s1">O objetivo das fam&iacute;lias &eacute;&nbsp;plantar na &aacute;rea mais de 30 quilos de milho e 500 mudas de rama de mandioca, al&eacute;m de feij&atilde;o.</span></p>
 
 <p class="p1">&nbsp;</p>
 
 <p class="p1"><span class="s1">&ldquo;Com a produ&ccedil;&atilde;o queremos mostrar &agrave; sociedade que reivindicamos terra para poder viver e produzir. Podemos at&eacute; n&atilde;o colher o que estamos plantando hoje, mas algu&eacute;m far&aacute; e saber&aacute; que essas terras que n&atilde;o estavam produzindo podem gerar alimentos saud&aacute;veis&rdquo;, explica Aida Teixeira, da coordena&ccedil;&atilde;o estadual do MST.</span></p>
 
 <p class="p1">&nbsp;</p>
-
-<p class="p1"><span class="s1">A justi&ccedil;a determinou ontem (21) a reintegra&ccedil;&atilde;o de posse da fazenda, mas os Sem Terra seguem acampados, resistindo no local e aguardam uma solu&ccedil;&atilde;o por parte do governo estadual e federal para o assentamento das fam&iacute;lias acampadas no estado.</span></p>
-
-<p class="p1">&nbsp;</p>
-
-<p class="p1"><span class="s1">A fazenda Sol Agr&iacute;cola possui aproximadamente 750 hectares e est&aacute; localizado a 201 quil&ocirc;metros de Porto Alegre (RS).</span></p>
-
-<p class="p2">&nbsp;</p>
 
 <p class="p1"><strong><span class="s1">Latifundi&aacute;rio estrangeiro</span></strong></p>
 
@@ -85,27 +86,6 @@ releated_posts:
 
 <p class="p1"><br />
 <span class="s1">O latif&uacute;ndio tem capacidade para assentar mais de 50 fam&iacute;lias e n&atilde;o h&aacute; previs&atilde;o para os acampados deixarem o local. &ldquo;A nossa luta &eacute; de resist&ecirc;ncia e, como a &aacute;rea &eacute; improdutiva, vamos permanecer aqui e produzir alimentos para a popula&ccedil;&atilde;o&rdquo;, declara Paulo Machado, da coordena&ccedil;&atilde;o estadual do MST.</span></p>
-
-<p class="p1">&nbsp;</p>
-
-<p class="p2" style="text-align: center;"><span style="color: rgb(84, 84, 84); font-family: arial, sans-serif; font-size: small; line-height: 18.2px;">***</span></p>
-
-<p class="p2">&nbsp;</p>
-
-<p class="p2">J&aacute;&nbsp;<span style="line-height: 20.8px;">&nbsp;em S&atilde;o Louren&ccedil;o do Sul, na regi&atilde;o Sul do estado, tr&ecirc;s dias ap&oacute;s&nbsp;400 fam&iacute;lias Sem Terra ocuparem a Fazenda Sol Agr&iacute;cola,&nbsp;a justi&ccedil;a do munic&iacute;pio determinou a reintegra&ccedil;&atilde;o de posse da &aacute;rea e estabeleceu um prazo de 24 horas para os trabalhadores deixarem o local.</span></p>
-
-<p class="p2">&nbsp;</p>
-
-<p class="p2"><span class="s1">Como forma de resist&ecirc;ncia na luta pela terra, as fam&iacute;lias resistem ao despejo e continuam&nbsp;acampadas na fazenda.</span></p>
-
-<p class="p1"><br />
-<span class="s1">&ldquo;N&atilde;o vamos sair, vamos permanecer nessa &aacute;rea que est&aacute; improdutiva e nas m&atilde;os do capital estrangeiro&rdquo;, disse Ainda Teixeira, da coordena&ccedil;&atilde;o estadual do MST.</span></p>
-
-<p class="p1"><br />
-<span class="s1">A fazenda Sol Agr&iacute;cola tem aproximadamente 750 hectares e &eacute; considerada improdutiva pelos Sem Terra. Na tarde de ontem, as fam&iacute;lias iniciaram a produ&ccedil;&atilde;o de alimentos, como milho e mandioca, no local. E pretendem continuar o plantio na &aacute;rea amanh&atilde;.</span></p>
-
-<p class="p1"><br />
-<span class="s1">At&eacute; que o problema da falta de terra das fam&iacute;lias seja resolvido &agrave; inten&ccedil;&atilde;o &eacute; tornar o latif&uacute;ndio produtivo, com a produ&ccedil;&atilde;o de alimentos saud&aacute;veis.</span></p>
 
 <p class="p1"><br />
 &nbsp;</p>
