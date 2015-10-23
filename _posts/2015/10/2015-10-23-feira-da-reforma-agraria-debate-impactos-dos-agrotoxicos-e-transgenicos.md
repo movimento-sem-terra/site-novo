@@ -36,14 +36,12 @@ special-page: first-street-market
 
 <p><img alt="Seminário_I.jpg" height="467" src="http://farm6.staticflickr.com/5621/22414976525_6861734f80_b.jpg" width="700" /></p>
 
-<p>&nbsp;</p>
-
-<p><em>Por Jos&eacute; Coutinho&nbsp;J&uacute;nior<br />
+<p><br />
+<em>Por Jos&eacute; Coutinho&nbsp;J&uacute;nior<br />
 Da P&aacute;gina do MST</em></p>
 
-<p class="p1">&nbsp;</p>
-
-<p class="p1">Al&eacute;m da venda de produtos e da programa&ccedil;&atilde;o cultural, a 1<sup>a</sup> Feira Nacional da Reforma Agr&aacute;ria &eacute; palco de debates e semin&aacute;rios. Na manh&atilde; desta sexta-feira (23) ocorreu o semin&aacute;rio &quot;a realidade dos agrot&oacute;xicos e transg&ecirc;nicos no Brasil e seus impactos sobre a sa&uacute;de humana e ambiente&quot;.</p>
+<p class="p1"><br />
+Al&eacute;m da venda de produtos e da programa&ccedil;&atilde;o cultural, a 1<sup>a</sup> Feira Nacional da Reforma Agr&aacute;ria &eacute; palco de debates e semin&aacute;rios. Na manh&atilde; desta sexta-feira (23) ocorreu o semin&aacute;rio &quot;a realidade dos agrot&oacute;xicos e transg&ecirc;nicos no Brasil e seus impactos sobre a sa&uacute;de humana e ambiente&quot;.</p>
 
 <p class="p1"><br />
 Estavam presentes na mesa Leonardo Melgarejo, da Campanha contra os Agrot&oacute;xicos; Luiz Cl&aacute;udio Meirelles, da Fiocruz; Sheila Castro, do Instituto Nacional do C&acirc;ncer (Inca) e Javier Balbea, da Rede de M&eacute;dicos da Argentina.&nbsp;</p>
@@ -55,11 +53,14 @@ Meirelles iniciou o debate com um panorama sobre o uso de agrot&oacute;xicos no 
 &quot;H&aacute; mais pessoas contaminadas por agrot&oacute;xicos do que mostram os dados oficiais. N&atilde;o temos pol&iacute;ticas p&uacute;blicas de sa&uacute;de adequadas para fazer o enfrentamento com as grandes ind&uacute;strias&quot;.</p>
 
 <p class="p1"><br />
-O pesquisador tamb&eacute;m afirmou que existem leis de seguran&ccedil;a e regulamenta&ccedil;&atilde;o para os agrot&oacute;xicos, mas que &ldquo;o estado &eacute; omisso em cobrar essas a&ccedil;&otilde;es das empresas&rdquo;.<br />
-<br />
-Sheila questionou a falta de estudos que comprovem a toxidade dos agrot&oacute;xicos, e como os poucos estudos feitos s&atilde;o incompletos. &quot;N&atilde;o existe no Brasil um prazo de revis&atilde;o dos agrot&oacute;xicos. E quando h&aacute; estudos para avaliar sua toxidade, eles s&atilde;o imprecisos, pois se avalia a subst&acirc;ncia individualmente, quando na realidade os alimentos contaminados t&ecirc;m muitas subst&acirc;ncias t&oacute;xicas juntas&quot;.</p>
+O pesquisador tamb&eacute;m afirmou que existem leis de seguran&ccedil;a e regulamenta&ccedil;&atilde;o para os agrot&oacute;xicos, mas que &ldquo;o estado &eacute; omisso em cobrar essas a&ccedil;&otilde;es das empresas&rdquo;.</p>
 
 <p class="p1"><br />
+Sheila questionou a falta de estudos que comprovem a toxidade dos agrot&oacute;xicos, e como os poucos estudos feitos s&atilde;o incompletos. &quot;N&atilde;o existe no Brasil um prazo de revis&atilde;o dos agrot&oacute;xicos. E quando h&aacute; estudos para avaliar sua toxidade, eles s&atilde;o imprecisos, pois se avalia a subst&acirc;ncia individualmente, quando na realidade os alimentos contaminados t&ecirc;m muitas subst&acirc;ncias t&oacute;xicas juntas&quot;.<br />
+&nbsp;</p>
+
+<p class="p1"><img alt="Seminário.jpg" src="http://farm6.staticflickr.com/5623/22425835221_557d07df0a_b.jpg" /><br />
+<br />
 A pesquisadora mostrou estudos e an&aacute;lises nas quais os alimentos que foram produzidos e comercializados em 2014 e tinham grande quantidade de agrot&oacute;xicos. Dentre todos, o morango era campe&atilde;o, com 14 subst&acirc;ncias t&oacute;xicas diferentes.&nbsp;</p>
 
 <p class="p1"><br />
@@ -76,7 +77,3 @@ Ele afirmou que a fun&ccedil;&atilde;o dos transg&ecirc;nicos n&atilde;o &eacute
 
 <p class="p1"><br />
 &quot;N&atilde;o temos nenhum transg&ecirc;nico modificado para aumentar a produtividade, e sim para absorver veneno e permitir a cria&ccedil;&atilde;o de patentes. &Eacute; uma tecnologia que serve apenas para perpetuar a pobreza.&quot;</p>
-
-<p class="p2">&nbsp;</p>
-
-<p class="p2">&nbsp;</p>
