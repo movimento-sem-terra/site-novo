@@ -32,7 +32,9 @@ releated_posts:
 special-page: first-street-market
 
 ---
-<p><img alt="Seminário_I.jpg" height="467" src="http://farm6.staticflickr.com/5621/22414976525_6861734f80_b.jpg" width="700" /></p>
+<figure class="image"><img alt="Seminário_I.jpg" height="467" src="http://farm6.staticflickr.com/5621/22414976525_6861734f80_b.jpg" width="700" />
+<figcaption>Fotos: Alexandre Gon&ccedil;alves</figcaption>
+</figure>
 
 <p><br />
 <em>Por Jos&eacute; Coutinho&nbsp;J&uacute;nior<br />
@@ -57,7 +59,11 @@ O pesquisador tamb&eacute;m afirmou que existem leis de seguran&ccedil;a e regul
 Sheila questionou a falta de estudos que comprovem a toxidade dos agrot&oacute;xicos, e como os poucos estudos feitos s&atilde;o incompletos. &quot;N&atilde;o existe no Brasil um prazo de revis&atilde;o dos agrot&oacute;xicos. E quando h&aacute; estudos para avaliar sua toxidade, eles s&atilde;o imprecisos, pois se avalia a subst&acirc;ncia individualmente, quando na realidade os alimentos contaminados t&ecirc;m muitas subst&acirc;ncias t&oacute;xicas juntas&quot;.<br />
 &nbsp;</p>
 
-<p class="p1"><img alt="Seminário.jpg" src="http://farm6.staticflickr.com/5623/22425835221_557d07df0a_b.jpg" /><br />
+<figure class="image"><img alt="Seminário.jpg" src="http://farm6.staticflickr.com/5623/22425835221_557d07df0a_b.jpg" />
+<figcaption>Fotos: Alexandre Gon&ccedil;alves</figcaption>
+</figure>
+
+<p class="p1"><br />
 <br />
 A pesquisadora mostrou estudos e an&aacute;lises nas quais os alimentos que foram produzidos e comercializados em 2014 e tinham grande quantidade de agrot&oacute;xicos. Dentre todos, o morango era campe&atilde;o, com 14 subst&acirc;ncias t&oacute;xicas diferentes.&nbsp;</p>
 
