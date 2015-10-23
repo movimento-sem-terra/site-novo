@@ -46,11 +46,11 @@ releated_posts:
 ---
 <p class="p1">&nbsp;<img alt="Plantio - ocupacao em Sao Lourenço.jpg" height="525" src="http://farm6.staticflickr.com/5752/22416839981_eb7e6ee056_b.jpg" width="700" /></p>
 
-<p class="p1">&nbsp;</p>
+<p class="p1"><br />
+<em>Da P&aacute;gina do MST</em></p>
 
-<p class="p1"><em>Da P&aacute;gina do MST</em></p>
-
-<p class="p2" style="line-height: 20.8px;"><span style="line-height: 20.8px;">As 400 fam&iacute;lias Sem Terra que ocupam&nbsp;a Fazenda Sol Agr&iacute;cola, sofrem com o pedido de reintegra&ccedil;&atilde;o de posse emitido no&nbsp;&uacute;ltimo dia (21)&nbsp;pela&nbsp;justi&ccedil;a do munic&iacute;pio.</span></p>
+<p class="p2" style="line-height: 20.8px;"><br />
+<span style="line-height: 20.8px;">As 400 fam&iacute;lias Sem Terra que ocupam&nbsp;a Fazenda Sol Agr&iacute;cola, sofrem com o pedido de reintegra&ccedil;&atilde;o de posse emitido no&nbsp;&uacute;ltimo dia (21)&nbsp;pela&nbsp;justi&ccedil;a do munic&iacute;pio.</span></p>
 
 <p class="p2" style="line-height: 20.8px;"><br />
 <span class="s1">Como forma de resist&ecirc;ncia na luta pela terra, as fam&iacute;lias resistem ao despejo e continuam&nbsp;acampadas e produzindo&nbsp;na fazenda.</span></p>
@@ -67,13 +67,13 @@ releated_posts:
 <p class="p1" style="line-height: 20.8px;"><br />
 <span class="s1">O objetivo das fam&iacute;lias &eacute;&nbsp;plantar na &aacute;rea mais de 30 quilos de milho e 500 mudas de rama de mandioca, al&eacute;m de feij&atilde;o.</span></p>
 
-<p class="p1">&nbsp;</p>
+<p class="p1"><br />
+<span class="s1">&ldquo;Com a produ&ccedil;&atilde;o queremos mostrar &agrave; sociedade que reivindicamos terra para poder viver e produzir. Podemos at&eacute; n&atilde;o colher o que estamos plantando hoje, mas algu&eacute;m far&aacute; e saber&aacute; que essas terras que n&atilde;o estavam produzindo podem gerar alimentos saud&aacute;veis&rdquo;, explica Aida Teixeira, da coordena&ccedil;&atilde;o estadual do MST.</span><br />
+&nbsp;</p>
 
-<p class="p1"><span class="s1">&ldquo;Com a produ&ccedil;&atilde;o queremos mostrar &agrave; sociedade que reivindicamos terra para poder viver e produzir. Podemos at&eacute; n&atilde;o colher o que estamos plantando hoje, mas algu&eacute;m far&aacute; e saber&aacute; que essas terras que n&atilde;o estavam produzindo podem gerar alimentos saud&aacute;veis&rdquo;, explica Aida Teixeira, da coordena&ccedil;&atilde;o estadual do MST.</span></p>
-
-<p class="p1">&nbsp;</p>
-
-<p class="p1"><strong><span class="s1">Latifundi&aacute;rio estrangeiro</span></strong></p>
+<p class="p1"><img alt="resistência mst - ocupação em São Lourenço.jpg" src="http://farm1.staticflickr.com/780/22219219549_b8b19c8ce9_b.jpg" /><br />
+<br />
+<strong><span class="s1">Latifundi&aacute;rio estrangeiro</span></strong></p>
 
 <p class="p1"><br />
 <span class="s1">De acordo com os Sem Terra, a fazenda &eacute; de propriedade de um fazendeiro chin&ecirc;s, que comprou a &aacute;rea com investimentos de um fundo de pens&atilde;o da China em 2008 e n&atilde;o investiu mais no local, que se encontra improdutivo.</span></p>
@@ -87,9 +87,4 @@ releated_posts:
 <p class="p1"><br />
 <span class="s1">O latif&uacute;ndio tem capacidade para assentar mais de 50 fam&iacute;lias e n&atilde;o h&aacute; previs&atilde;o para os acampados deixarem o local. &ldquo;A nossa luta &eacute; de resist&ecirc;ncia e, como a &aacute;rea &eacute; improdutiva, vamos permanecer aqui e produzir alimentos para a popula&ccedil;&atilde;o&rdquo;, declara Paulo Machado, da coordena&ccedil;&atilde;o estadual do MST.</span></p>
 
-<p class="p1"><br />
-&nbsp;</p>
-
-<p class="p2"><img alt="resistência mst - ocupação em São Lourenço.jpg" height="525" src="http://farm1.staticflickr.com/780/22219219549_b8b19c8ce9_b.jpg" width="700" /></p>
-
-<p class="p1">&nbsp;</p>
+<p class="p2">&nbsp;</p>
