@@ -94,13 +94,9 @@ releated_posts:
 
 <p class="p2">J&aacute;&nbsp;<span style="line-height: 20.8px;">&nbsp;em S&atilde;o Louren&ccedil;o do Sul, na regi&atilde;o Sul do estado, tr&ecirc;s dias ap&oacute;s&nbsp;400 fam&iacute;lias Sem Terra ocuparem a Fazenda Sol Agr&iacute;cola,&nbsp;a justi&ccedil;a do munic&iacute;pio determinou a reintegra&ccedil;&atilde;o de posse da &aacute;rea e estabeleceu um prazo de 24 horas para os trabalhadores deixarem o local.</span></p>
 
-<p class="p1">&nbsp;</p>
-
-<p class="p1"><span class="s1">Tr&ecirc;s dias ap&oacute;s cerca de 400 fam&iacute;lias Sem Terra ocuparem a Fazenda Sol Agr&iacute;cola, em S&atilde;o Louren&ccedil;o do Sul, na regi&atilde;o Sul do Rio Grande do Sul, a justi&ccedil;a do munic&iacute;pio determinou a reintegra&ccedil;&atilde;o de posse da &aacute;rea e estabeleceu um prazo de 24 horas para os trabalhadores deixarem o local.</span></p>
-
 <p class="p2">&nbsp;</p>
 
-<p class="p1"><span class="s1">Como forma de resist&ecirc;ncia na luta pela terra, as fam&iacute;lias resistem ao despejo e continuam&nbsp;acampadas na fazenda.</span></p>
+<p class="p2"><span class="s1">Como forma de resist&ecirc;ncia na luta pela terra, as fam&iacute;lias resistem ao despejo e continuam&nbsp;acampadas na fazenda.</span></p>
 
 <p class="p1"><br />
 <span class="s1">&ldquo;N&atilde;o vamos sair, vamos permanecer nessa &aacute;rea que est&aacute; improdutiva e nas m&atilde;os do capital estrangeiro&rdquo;, disse Ainda Teixeira, da coordena&ccedil;&atilde;o estadual do MST.</span></p>
