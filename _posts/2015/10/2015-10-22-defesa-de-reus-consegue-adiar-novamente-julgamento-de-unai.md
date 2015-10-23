@@ -27,11 +27,12 @@ releated_posts:
   - 2015/09/2015-09-16-parlamentares-ruralistas-teriam-incentivado-ataques-contra-guarani-kaiowa.md
 
 ---
-<figure class="image" style="float:right"><img alt="vigilia.jpg" src="http://farm1.staticflickr.com/683/22392339405_23e5862674_b.jpg" />
-<figcaption></figcaption>
-</figure>
+<p>&nbsp;</p>
 
-<p><em>Por Vitor Nuzzi<br />
+<p style="text-align:center"><img alt="vigilia.jpg" height="352" src="http://farm1.staticflickr.com/683/22392339405_23e5862674_b.jpg" width="560" /></p>
+
+<p><br />
+<em>Por Vitor Nuzzi<br />
 Da RBA</em></p>
 
 <p><br />
