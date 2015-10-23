@@ -58,7 +58,7 @@ As atividades da 1&ordm; Feira Nacional da Reforma Agr&aacute;ria, que acontece 
 &nbsp;</p>
 
 <p>O movimento possui cerca de 15 r&aacute;dios FM espalhadas pelo Brasil,&nbsp; sendo que tr&ecirc;s s&atilde;o transmitidas tamb&eacute;m pela internet, a mais antiga, a r&aacute;dio Camponesa de S&atilde;o Paulo, completa 17 anos no ar.<br />
-<img alt="JOKA8874menor.jpg" src="http://farm1.staticflickr.com/780/22230240079_e60aab457a_b.jpg" style="float:right" /></p>
+<img alt="JOKA8874menor.jpg" height="450" src="http://farm1.staticflickr.com/780/22230240079_e60aab457a_b.jpg" style="float:right" width="300" /></p>
 
 <p>&quot;As r&aacute;dios s&atilde;o feitas por n&oacute;s e para n&oacute;s. Elas contribuem muito na nossa organicidade, na nossa organiza&ccedil;&atilde;o, &eacute; nossa liga&ccedil;&atilde;o com todo o movimento. As r&aacute;dios s&atilde;o ve&iacute;culos que ampliam a nossa voz, tem o papel de nos dar voz, j&aacute; que os movimentos sociais n&atilde;o tem espa&ccedil;o nos grande meios de comunica&ccedil;&atilde;o, a gente tem que construir nossos meios, fazer nossa pr&oacute;pria comunica&ccedil;&atilde;o&quot;, conclui Camila.<br />
 &nbsp;</p>
