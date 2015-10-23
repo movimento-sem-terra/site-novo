@@ -30,7 +30,7 @@ files:
     title: JOKA8874menor.jpg
     $$hashKey: 03L
 created_date: "2015-10-23T17:39:42-03:00"
-published: false
+published: true
 releated_posts: []
 
 ---
