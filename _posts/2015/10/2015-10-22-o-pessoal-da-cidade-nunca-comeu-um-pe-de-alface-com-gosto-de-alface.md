@@ -69,7 +69,7 @@ Da P&aacute;gina do MST</em><br />
 
 <p>As perguntas e a consequente compra dos produtos&nbsp;s&atilde;o cenas comuns na 1<span class="st">&ordf;</span> Feira da Reforma Agr&aacute;ria. Na barraca da goiana Cleide Oliveira, de 39 anos, n&atilde;o &eacute; diferente. Cleide mora em Corumb&aacute; e &eacute; uma das acampadas no acampamento Dom Tom&aacute;s Baldu&iacute;no.<br />
 <br />
-Na sua barraca, encontra-se &agrave; venda doce de manga, de caju, mel, queijo fresco, castanha de bar&uacute; (torrada e natural), tamarino e geleia de jabuticaba.<br />
+Na sua barraca, encontra-se &agrave; venda doce de manga, de caju, mel, queijo fresco, castanha de bar&uacute; (torrada e natural), tamarino e geleia de jabuticaba (<strong><a href="https://www.flickr.com/photos/mstoficial" target="_blank">Clique aqui</a></strong> para ver mais fotos da feira).<br />
 <br />
 Cleide afirma que o tamarino e o bar&uacute;, frutas que n&atilde;o s&atilde;o comuns para a popula&ccedil;&atilde;o paulistana, tem muitas utilidades. &ldquo;D&aacute; pra comer o tamarino, fazer suco, picol&eacute;. O bar&uacute;, al&eacute;m de comer, d&aacute; pra colocar em doce, sorvete, e dizem que &eacute; bom para tratar doen&ccedil;as de coluna, c&acirc;ncer, al&eacute;m de ser o &#39;viagra do serrado&#39;&rdquo;, diz rindo.</p>
 
