@@ -38,9 +38,11 @@ releated_posts: []
 
 <p><em>Por Nadine Nascimento</em></p>
 
-<p><em>De S&atilde;o Paulo (SP)</em></p>
-
-<p><em>Fotos: Joka Madruga</em><br />
+<p><em>De S&atilde;o Paulo (SP)<br />
+<br />
+Para o Brasil de Fato<br />
+<br />
+Fotos: Joka Madruga</em><br />
 &nbsp;</p>
 
 <p>As atividades da 1&ordm; Feira Nacional da Reforma Agr&aacute;ria, que acontece em S&atilde;o Paulo entre os dias 22 e 25, ser&atilde;o transmitidas pela &ldquo;R&aacute;dio Web Brasil em Movimento&rdquo;. &Eacute; a segunda vez que MST realiza a experi&ecirc;ncia de utilizar transmiss&atilde;o sonora via internet em suas atividades - a primeira foi na cobertura do 6&ordm; Congresso da organiza&ccedil;&atilde;o, realizado ano passado. A ideia &eacute; aproximar o evento de todos aqueles que n&atilde;o puderam comparecer.<br />
