@@ -53,7 +53,7 @@ releated_posts:
 ---
 <p class="p1">&nbsp;</p>
 
-<p class="p1"><img alt="JOKA8476.jpg" height="467" src="http://farm6.staticflickr.com/5786/22390310635_ea73ddd620_b.jpg" width="700" /></p>
+<p class="p1">&nbsp;</p>
 
 <p class="p1"><br />
 <em>Por Maura Silva<br />
