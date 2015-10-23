@@ -9,7 +9,7 @@ tags:
   - tag: agrotóxicos
 title: "As pessoas não comem um prato de comida, mas um cálice de veneno, afirma dirigente do MST"
 menu: reforma agrária
-section: featured-news
+section: null
 label: interviews
 images_hd: "http://farm6.staticflickr.com/5638/21977513540_d4b7735cc5_b.jpg"
 support_line: "Em entrevista, Carla Guindani, do setor de produção do MST, traz o debate político em torno da 1° Feira Nacional da Reforma Agrária."
