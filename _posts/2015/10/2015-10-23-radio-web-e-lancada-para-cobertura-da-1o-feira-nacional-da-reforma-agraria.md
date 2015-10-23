@@ -23,12 +23,12 @@ files:
     small: "http://farm6.staticflickr.com/5659/22390747216_d6c058a40f_n.jpg"
     title: JOKA8856.jpg
     $$hashKey: 03I
-  - link: "http://farm1.staticflickr.com/668/22229099638_82dd10c199_b.jpg"
-    thumbnail: "http://farm1.staticflickr.com/668/22229099638_82dd10c199_t.jpg"
-    medium: "http://farm1.staticflickr.com/668/22229099638_82dd10c199_z.jpg"
-    small: "http://farm1.staticflickr.com/668/22229099638_82dd10c199_n.jpg"
+  - link: "http://farm1.staticflickr.com/780/22230240079_e60aab457a_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/780/22230240079_e60aab457a_t.jpg"
+    medium: "http://farm1.staticflickr.com/780/22230240079_e60aab457a_z.jpg"
+    small: "http://farm1.staticflickr.com/780/22230240079_e60aab457a_n.jpg"
     title: JOKA8874menor.jpg
-    $$hashKey: 03L
+    $$hashKey: 0CU
 created_date: "2015-10-23T17:39:42-03:00"
 published: true
 releated_posts: []
@@ -36,16 +36,13 @@ releated_posts: []
 ---
 <p><img alt="JOKA8856.jpg" src="http://farm6.staticflickr.com/5659/22390747216_d6c058a40f_b.jpg" /></p>
 
-<p><em>Por Nadine Nascimento</em></p>
-
-<p><em>De S&atilde;o Paulo (SP)<br />
+<p><em>Por Nadine Nascimento</em><br />
+<em>Do Brasil de Fato<br />
 <br />
-Para o Brasil de Fato<br />
-<br />
-Fotos: Joka Madruga</em><br />
-&nbsp;</p>
+Fotos: Joka Madruga</em></p>
 
-<p>As atividades da 1&ordm; Feira Nacional da Reforma Agr&aacute;ria, que acontece em S&atilde;o Paulo entre os dias 22 e 25, ser&atilde;o transmitidas pela &ldquo;R&aacute;dio Web Brasil em Movimento&rdquo;. &Eacute; a segunda vez que MST realiza a experi&ecirc;ncia de utilizar transmiss&atilde;o sonora via internet em suas atividades - a primeira foi na cobertura do 6&ordm; Congresso da organiza&ccedil;&atilde;o, realizado ano passado. A ideia &eacute; aproximar o evento de todos aqueles que n&atilde;o puderam comparecer.<br />
+<p><br />
+As atividades da 1&ordm; Feira Nacional da Reforma Agr&aacute;ria, que acontece em S&atilde;o Paulo entre os dias 22 e 25, ser&atilde;o transmitidas pela &ldquo;R&aacute;dio Web Brasil em Movimento&rdquo;. &Eacute; a segunda vez que MST realiza a experi&ecirc;ncia de utilizar transmiss&atilde;o sonora via internet em suas atividades - a primeira foi na cobertura do 6&ordm; Congresso da organiza&ccedil;&atilde;o, realizado ano passado. A ideia &eacute; aproximar o evento de todos aqueles que n&atilde;o puderam comparecer.<br />
 &nbsp;</p>
 
 <p>&ldquo;Al&eacute;m de fazer a divulga&ccedil;&atilde;o do evento, a r&aacute;dio ser&aacute; um canal de di&aacute;logo com nossa base, com todos os assentados e acampados do MST que n&atilde;o puderam estar na feira&quot;, diz Camila Bonassa, coordenadora nacional da Frente de R&aacute;dios do Coletivo de Comunica&ccedil;&atilde;o do MST.<br />
@@ -61,9 +58,9 @@ Fotos: Joka Madruga</em><br />
 &nbsp;</p>
 
 <p>O movimento possui cerca de 15 r&aacute;dios FM espalhadas pelo Brasil,&nbsp; sendo que tr&ecirc;s s&atilde;o transmitidas tamb&eacute;m pela internet, a mais antiga, a r&aacute;dio Camponesa de S&atilde;o Paulo, completa 17 anos no ar.<br />
-&nbsp;</p>
+<img alt="JOKA8874menor.jpg" src="http://farm1.staticflickr.com/780/22230240079_e60aab457a_b.jpg" style="float:right" /></p>
 
-<p><img alt="JOKA8874menor.jpg" src="http://farm1.staticflickr.com/668/22229099638_82dd10c199_b.jpg" style="float:right" />&quot;As r&aacute;dios s&atilde;o feitas por n&oacute;s e para n&oacute;s. Elas contribuem muito na nossa organicidade, na nossa organiza&ccedil;&atilde;o, &eacute; nossa liga&ccedil;&atilde;o com todo o movimento. As r&aacute;dios s&atilde;o ve&iacute;culos que ampliam a nossa voz, tem o papel de nos dar voz, j&aacute; que os movimentos sociais n&atilde;o tem espa&ccedil;o nos grande meios de comunica&ccedil;&atilde;o, a gente tem que construir nossos meios, fazer nossa pr&oacute;pria comunica&ccedil;&atilde;o&quot;, conclui Camila.<br />
+<p>&quot;As r&aacute;dios s&atilde;o feitas por n&oacute;s e para n&oacute;s. Elas contribuem muito na nossa organicidade, na nossa organiza&ccedil;&atilde;o, &eacute; nossa liga&ccedil;&atilde;o com todo o movimento. As r&aacute;dios s&atilde;o ve&iacute;culos que ampliam a nossa voz, tem o papel de nos dar voz, j&aacute; que os movimentos sociais n&atilde;o tem espa&ccedil;o nos grande meios de comunica&ccedil;&atilde;o, a gente tem que construir nossos meios, fazer nossa pr&oacute;pria comunica&ccedil;&atilde;o&quot;, conclui Camila.<br />
 &nbsp;</p>
 
 <p>&Eacute; poss&iacute;vel ouvir a r&aacute;dio no link em <a href="http://www.mst.org.br/feira-reforma-agraria">mst.org.br/feira-reforma-agraria/</a>.</p>
