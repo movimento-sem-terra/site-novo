@@ -29,6 +29,7 @@ releated_posts:
   - 2015/07/2015-07-16-carta-aos-senadores-pede-rejeicao-do-fim-da-rotulagem-dos-alimentos-transgenicos.md
   - 2015/08/2015-08-10-escocia-proibe-cultivo-de-produtos-transgenicos.md
   - 2015/10/2015-10-06-hortas-organicas-mais-que-alternativa-um-modo-de-vida-de-assentadas-da-reforma-agraria-no-rs.md
+special-page: first-street-market
 
 ---
 <p>&nbsp;</p>
