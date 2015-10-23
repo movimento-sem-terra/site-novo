@@ -40,6 +40,8 @@ releated_posts:
   - 2015/09/2015-09-09-feira-da-reforma-agraria-proporciona-alimentos-saudaveis-a-populacao-de-aracaju.md
   - 2015/10/2015-10-08-a-identidade-cultural-do-ser-sem-terra.md
   - 2015/10/2015-10-22-o-pessoal-da-cidade-nunca-comeu-um-pe-de-alface-com-gosto-de-alface.md
+special-page: first-street-market
+section: featured-news
 
 ---
 <p><img alt="JOKA8824.jpg" src="http://farm6.staticflickr.com/5689/22219303060_5331267b84_b.jpg" /></p>
