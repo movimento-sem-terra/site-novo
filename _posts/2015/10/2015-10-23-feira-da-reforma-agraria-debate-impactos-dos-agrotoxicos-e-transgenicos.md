@@ -32,8 +32,6 @@ releated_posts:
 special-page: first-street-market
 
 ---
-<p>&nbsp;</p>
-
 <p><img alt="Seminário_I.jpg" height="467" src="http://farm6.staticflickr.com/5621/22414976525_6861734f80_b.jpg" width="700" /></p>
 
 <p><br />
@@ -47,7 +45,7 @@ Al&eacute;m da venda de produtos e da programa&ccedil;&atilde;o cultural, a 1<su
 Estavam presentes na mesa Leonardo Melgarejo, da Campanha contra os Agrot&oacute;xicos; Luiz Cl&aacute;udio Meirelles, da Fiocruz; Sheila Castro, do Instituto Nacional do C&acirc;ncer (Inca) e Javier Balbea, da Rede de M&eacute;dicos da Argentina.&nbsp;</p>
 
 <p class="p1"><br />
-Meirelles iniciou o debate com um panorama sobre o uso de agrot&oacute;xicos no Brasil e como os trabalhadores rurais s&atilde;o os principais afetados: de 1 milh&atilde;o de intoxica&ccedil;&otilde;es acidentais, 700 mil se d&atilde;o no trabalho.&nbsp;</p>
+Meirelles iniciou o debate com um panorama sobre o uso de agrot&oacute;xicos no Brasil e como os trabalhadores rurais s&atilde;o os principais afetados: de 1 milh&atilde;o de intoxica&ccedil;&otilde;es acidentais, 700 mil se d&atilde;o no trabalho (<strong><a href="https://www.flickr.com/photos/mstoficial" target="_blank">Clique aqui</a></strong> para ver mais fotos da feira)</p>
 
 <p class="p1"><br />
 &quot;H&aacute; mais pessoas contaminadas por agrot&oacute;xicos do que mostram os dados oficiais. N&atilde;o temos pol&iacute;ticas p&uacute;blicas de sa&uacute;de adequadas para fazer o enfrentamento com as grandes ind&uacute;strias&quot;.</p>
