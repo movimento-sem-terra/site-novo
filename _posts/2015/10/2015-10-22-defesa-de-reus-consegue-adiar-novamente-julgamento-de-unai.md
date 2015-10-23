@@ -6,16 +6,16 @@ tags:
   - tag: unaí
 title: Defesa de réus consegue adiar novamente julgamento de Unaí
 support_line: "Agora, dois serão julgados na próxima terça (27) e dois em novembro"
-images_hd: "http://farm1.staticflickr.com/683/22392339405_23e5862674_b.jpg"
+images_hd: "http://farm6.staticflickr.com/5790/22394284352_dd12309f9d_b.jpg"
 menu: direitos humanos
 layout: post
 files:
-  - link: "http://farm1.staticflickr.com/683/22392339405_23e5862674_b.jpg"
-    thumbnail: "http://farm1.staticflickr.com/683/22392339405_23e5862674_t.jpg"
-    medium: "http://farm1.staticflickr.com/683/22392339405_23e5862674_z.jpg"
-    small: "http://farm1.staticflickr.com/683/22392339405_23e5862674_n.jpg"
-    title: vigilia.jpg
-    $$hashKey: 1A3
+  - link: "http://farm6.staticflickr.com/5790/22394284352_dd12309f9d_b.jpg"
+    thumbnail: "http://farm6.staticflickr.com/5790/22394284352_dd12309f9d_t.jpg"
+    medium: "http://farm6.staticflickr.com/5790/22394284352_dd12309f9d_z.jpg"
+    small: "http://farm6.staticflickr.com/5790/22394284352_dd12309f9d_n.jpg"
+    title: 22392339405_23e5862674_b.jpg
+    $$hashKey: 05G
 created_date: "2015-10-22T17:46:34-02:00"
 published: true
 releated_posts:
@@ -29,9 +29,8 @@ releated_posts:
 ---
 <p>&nbsp;</p>
 
-<p style="text-align:center"><img alt="vigilia.jpg" height="352" src="http://farm1.staticflickr.com/683/22392339405_23e5862674_b.jpg" width="560" /></p>
-
-<p><br />
+<p><img alt="22392339405_23e5862674_b.jpg" src="http://farm6.staticflickr.com/5790/22394284352_dd12309f9d_b.jpg" /><br />
+<br />
 <em>Por Vitor Nuzzi<br />
 Da RBA</em></p>
 
