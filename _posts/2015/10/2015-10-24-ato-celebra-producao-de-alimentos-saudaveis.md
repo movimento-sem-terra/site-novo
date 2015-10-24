@@ -1,5 +1,5 @@
 ---
-date: "2015-10-24T08:24:09-03:00"
+date: "2015-10-24T09:24:09-02:00"
 tags:
   - tag: feira-da-reforma-agrária
   - tag: ato-político
@@ -8,7 +8,7 @@ tags:
 title: Ato celebra produção de alimentos saudáveis na 1° Feira Nacional da Reforma Agrária
 support_line: "\"Trator e agroquímico é o atraso, do século 20! Hoje o progresso está em produzir com técnicas sem veneno em equilíbrio com a natureza, aumentando a produtividade da mão-de-obra e do espaço físico”, afirma dirigente."
 menu: lutas e mobilizações
-section: cover
+section: featured-news
 images_hd: "http://farm6.staticflickr.com/5822/21812306573_e2691b9a7e_b.jpg"
 layout: post
 files:
