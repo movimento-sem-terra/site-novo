@@ -1,5 +1,5 @@
 ---
-date: "2015-10-24T09:24:09-02:00"
+date: "2015-10-24T08:24:09-03:00"
 tags:
   - tag: feira-da-reforma-agrária
   - tag: ato-político
@@ -92,7 +92,9 @@ Com est&eacute;tica de teatro popular as apresenta&ccedil;&otilde;es&nbsp;questi
 <p>A presidente&nbsp;Dilma Roussef enviou&nbsp;uma mensagem <span style="line-height: 20.8px;">em v&iacute;deo&nbsp;</span>saudando a Feira dos &ldquo;companheiros do MST&rdquo;, e parabenizou o que considerou como um &ldquo;admir&aacute;vel poder organizativo de for&ccedil;a produtiva&rdquo;.&nbsp;</p>
 
 <p><br />
-Na avalia&ccedil;&atilde;o&nbsp; da chefe de Estado, &ldquo;a Reforma Agr&aacute;ria continua a ser uma luta fundamental para a constru&ccedil;&atilde;o do Brasil desenvolvido com que sonhamos, uma Reforma Agr&aacute;ria que garanta o acesso &agrave; terra e tamb&eacute;m assegure apoio &agrave; produ&ccedil;&atilde;o sustent&aacute;vel, crie os canais de comercializa&ccedil;&atilde;o justa e garanta qualidade de vida &agrave;s fam&iacute;lias nos assentamentos&rdquo;. &ldquo;Que venham muitas outras Feiras!&rdquo;, parabenizou.</p>
+Na avalia&ccedil;&atilde;o&nbsp; da chefe de Estado, &ldquo;a Reforma Agr&aacute;ria continua a ser uma luta fundamental para a constru&ccedil;&atilde;o do Brasil desenvolvido com que sonhamos, uma Reforma Agr&aacute;ria que garanta o acesso &agrave; terra e tamb&eacute;m assegure apoio &agrave; produ&ccedil;&atilde;o sustent&aacute;vel, crie os canais de comercializa&ccedil;&atilde;o justa e garanta qualidade de vida &agrave;s fam&iacute;lias nos assentamentos&rdquo;. &ldquo;Que venham muitas outras Feiras!&rdquo;, parabenizou. Confira a &iacute;ntegra da mensagem:<br />
+<br />
+<iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/Jr4kQYJ6yHE" width="640"></iframe></p>
 
 <p><br />
 &quot;Louvamos a sauda&ccedil;&atilde;o da Presidenta, mas n&atilde;o vivemos s&oacute; flores. Dilma est&aacute; em d&iacute;vida com a reforma agr&aacute;ria. Cad&ecirc; a efetiva&ccedil;&atilde;o do Plano de agroecologia? N&atilde;o saiu nem um centavo! E as provid&ecirc;ncias para passar parte da Conab para o MDA? O Governo na teoria &eacute; contra os agrot&oacute;xicos, mas na pr&aacute;tica a ministra K&aacute;tia Abreu quer acabar com a Anvisa. N&oacute;s n&atilde;o vamos permitir!&quot;, disse Stedile.</p>
