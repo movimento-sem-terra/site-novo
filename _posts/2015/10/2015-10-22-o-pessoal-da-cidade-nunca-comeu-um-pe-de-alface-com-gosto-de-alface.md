@@ -50,7 +50,7 @@ releated_posts:
   - 2015/08/2015-08-31-mst-ocupa-praca-da-faculdade-com-frutos-da-reforma-agraria.md
   - 2015/10/2015-10-06-hortas-organicas-mais-que-alternativa-um-modo-de-vida-de-assentadas-da-reforma-agraria-no-rs.md
   - 2014/12/2014-11-21-camponesas-protagonizam-luta-contra-os-transgenicos.md
-section: cover
+section: featured-news
 special-page: first-street-market
 
 ---
