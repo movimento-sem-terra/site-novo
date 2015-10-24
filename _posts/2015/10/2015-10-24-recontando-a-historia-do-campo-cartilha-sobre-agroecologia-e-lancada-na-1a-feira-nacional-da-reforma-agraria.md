@@ -5,7 +5,7 @@ tags:
   - tag: educação-no-campo
   - tag: soberania-alimentar
   - tag: alimentação-saudável
-title: "Recontando a história do campo, cartilha sobre agroecologia é lançada na 1ª Feira Nacional da Reforma Agrária"
+title: "Cartilha sobre agroecologia é lançada na Feira da Reforma Agrária"
 support_line: Publicação é um projeto em desenvolvimento pelo setor de Educação do MST e pela Campanha Permanente Contra os Agrotóxicos para uso em escolas.
 menu: projeto popular
 special-page: first-street-market
