@@ -81,7 +81,7 @@ Ele alerta: &ldquo;trator e agroqu&iacute;mico &eacute; o atraso, do s&eacute;cu
 
 <p class="p4">&nbsp;</p>
 
-<p class="p4"><strong>Perigo <span style="color: rgb(84, 84, 84); font-family: arial, sans-serif; font-size: small; line-height: 18.2px;">&agrave;</span>&nbsp;mesa&nbsp;</strong></p>
+<p class="p4"><strong>Perigo <span style="color: rgb(84, 84, 84); font-family: arial, sans-serif; font-size: small; line-height: 18.2px;">&agrave;&nbsp;</span></strong><strong>mesa&nbsp;</strong></p>
 
 <p class="p4"><br />
 Segundo o Dossi&ecirc; da Associa&ccedil;&atilde;o Brasileira de Sa&uacute;de Coletiva (Abrasco), avalia&ccedil;&otilde;es toxicol&oacute;gicas recentes revelam a presen&ccedil;a de 15 a 17 tipos de subst&acirc;ncia agrot&oacute;xicas presentes na alimenta&ccedil;&atilde;o dos brasileiros.</p>
