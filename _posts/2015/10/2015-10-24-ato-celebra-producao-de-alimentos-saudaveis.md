@@ -6,7 +6,7 @@ tags:
   - tag: reforma-agrária
   - tag: sao-paulo
 title: Ato celebra produção de alimentos saudáveis na 1° Feira Nacional da Reforma Agrária
-support_line: "Para Stedile, “trator e agroquímico é o atraso, do século 20! Hoje o progresso está em produzir com técnicas sem veneno em equilíbrio com a natureza, aumentando a produtividade da mão-de-obra e do espaço físico”."
+support_line: "\"Trator e agroquímico é o atraso, do século 20! Hoje o progresso está em produzir com técnicas sem veneno em equilíbrio com a natureza, aumentando a produtividade da mão-de-obra e do espaço físico”, afirma dirigente."
 menu: lutas e mobilizações
 section: cover
 images_hd: "http://farm6.staticflickr.com/5822/21812306573_e2691b9a7e_b.jpg"
@@ -63,7 +63,9 @@ releated_posts:
 special-page: first-street-market
 
 ---
-<p><img alt="Rica_151023_FeiraReformaAgrária-0250.jpg" src="http://farm6.staticflickr.com/5822/21812306573_e2691b9a7e_b.jpg" /></p>
+<figure class="image"><img alt="Rica_151023_FeiraReformaAgrária-0250.jpg" src="http://farm6.staticflickr.com/5822/21812306573_e2691b9a7e_b.jpg" />
+<figcaption>Centenas de pessoas participaram do Ato em Defesa da Alimenta&ccedil;&atilde;o Saud&aacute;vel. /Foto: Ricardo Retamal</figcaption>
+</figure>
 
 <p><br />
 <em>Por Rafael Soriano<br />
@@ -93,6 +95,11 @@ Com est&eacute;tica de teatro popular as apresenta&ccedil;&otilde;es&nbsp;questi
 Na avalia&ccedil;&atilde;o&nbsp; da chefe de Estado, &ldquo;a Reforma Agr&aacute;ria continua a ser uma luta fundamental para a constru&ccedil;&atilde;o do Brasil desenvolvido com que sonhamos, uma Reforma Agr&aacute;ria que garanta o acesso &agrave; terra e tamb&eacute;m assegure apoio &agrave; produ&ccedil;&atilde;o sustent&aacute;vel, crie os canais de comercializa&ccedil;&atilde;o justa e garanta qualidade de vida &agrave;s fam&iacute;lias nos assentamentos&rdquo;. &ldquo;Que venham muitas outras Feiras!&rdquo;, parabenizou.</p>
 
 <p><br />
+&quot;Louvamos a sauda&ccedil;&atilde;o da Presidenta, mas n&atilde;o vivemos s&oacute; flores. Dilma est&aacute; em d&iacute;vida com a reforma agr&aacute;ria. Cad&ecirc; a efetiva&ccedil;&atilde;o do Plano de agroecologia? N&atilde;o saiu nem um centavo! E as provid&ecirc;ncias para passar parte da Conab para o MDA? O Governo na teoria &eacute; contra os agrot&oacute;xicos, mas na pr&aacute;tica a ministra K&aacute;tia Abreu quer acabar com a Anvisa. N&oacute;s n&atilde;o vamos permitir!&quot;, disse Stedile.</p>
+
+<p>&nbsp;</p>
+
+<p><br />
 <strong>Brasil sem veneno</strong></p>
 
 <p><br />
@@ -101,7 +108,7 @@ Ap&oacute;s muito debate junto &agrave; comunidade cient&iacute;fica, finalmente
 <p>&nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="Júlio_Oliveira.JPG" src="http://farm1.staticflickr.com/750/21812300623_bd1e5fd4eb_b.jpg" />
-<figcaption></figcaption>
+<figcaption>M&iacute;stica cobra figuras p&uacute;blicas sobre a Reforma Agr&aacute;ria/ Foto: J&uacute;lio Oliveira</figcaption>
 </figure>
 
 <p>No Brasil, maior consumidor de agrot&oacute;xicos do mundo,&nbsp;o componente representa 35% do veneno derramado na agricultura, enquanto que j&aacute; &eacute; proibido em diversos outros pa&iacute;ses.&nbsp;</p>
