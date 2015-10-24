@@ -64,7 +64,12 @@ A publica&ccedil;&atilde;o &eacute; um projeto em desenvolvimento pelo setor de 
 
 <p>&nbsp;</p>
 
-<p><img alt="ato_10ALEXANRE.jpg" src="http://farm6.staticflickr.com/5722/22246501370_d2f94e3d39_b.jpg" /><br />
+<figure class="image"><img alt="ato_10ALEXANRE.jpg" src="http://farm6.staticflickr.com/5722/22246501370_d2f94e3d39_b.jpg" />
+<figcaption>Foto: Alexandre Gon&ccedil;alves</figcaption>
+</figure>
+
+<p><br />
+<br />
 Neste sentido, com ilustra&ccedil;&otilde;es e linguagem pr&oacute;prias, a publica&ccedil;&atilde;o busca resgatar a rela&ccedil;&atilde;o entre ser humano e natureza, al&eacute;m de mostrar para as novas gera&ccedil;&otilde;es como este v&iacute;nculo vem sendo transformado ao longo da hist&oacute;ria.</p>
 
 <p><br />
