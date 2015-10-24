@@ -4,7 +4,7 @@ tags:
   - tag: feira-da-reforma-agrária
   - tag: Lula
   - tag: reforma-agrária
-title: "Lula: \"Eu acho que temos que correr para cumprir o compromisso que nós assumimos em praça pública com os trabalhadores do campo\""
+title: "Temos que correr para cumprir o compromisso de assentarmos as 120 mil famílias, afirma Lula"
 support_line: Em visita a 1° Feira Nacional da Reforma Agrária o ex-presidente andou pelos estandes e saboreou produtos da Reforma Agrária.
 section: cover
 special-page: first-street-market
@@ -55,14 +55,12 @@ releated_posts:
 <figcaption>Foto: Joka Madruga</figcaption>
 </figure>
 
-<p>&nbsp;</p>
-
-<p><em style="line-height: 20.8px;">Por Maura Silva&nbsp;<br />
+<p><br />
+<em style="line-height: 20.8px;">Por Maura Silva&nbsp;<br />
 Da P&aacute;gina do MST</em></p>
 
-<p>&nbsp;</p>
-
-<p>&ldquo;&Eacute;&nbsp; que a vida &eacute; como o pequi, n&atilde;o pode cravar os dentes, tem que sorver devagar que &eacute; pra dar tempo de saborear. Saborear as derrotas e as vit&oacute;rias, saborear a luta que &eacute; &aacute;rdua, dura, mas necess&aacute;ria para que a dignidade desse povo aqui se mantenha pulsando&rdquo;.&nbsp;</p>
+<p><br />
+&ldquo;&Eacute;&nbsp; que a vida &eacute; como o pequi, n&atilde;o pode cravar os dentes, tem que sorver devagar que &eacute; pra dar tempo de saborear. Saborear as derrotas e as vit&oacute;rias, saborear a luta que &eacute; &aacute;rdua, dura, mas necess&aacute;ria para que a dignidade desse povo aqui se mantenha pulsando&rdquo;.&nbsp;</p>
 
 <p><br />
 Foi o que disse Jos&eacute; Geronimo, acampado do MST no estado de Goi&aacute;s ao ex-presidente Luis In&aacute;cio da Silva. Lula visitou na tarde desse s&aacute;bado (24)&nbsp;a 1&deg; Feira Nacional da Reforma Agr&aacute;ria, que acontece at&eacute; domingo (25), no Parque da &Aacute;gua Branca, em S<span style="line-height: 20.8px;">&atilde;o&nbsp;</span>&nbsp;Paulo.&nbsp;</p>
