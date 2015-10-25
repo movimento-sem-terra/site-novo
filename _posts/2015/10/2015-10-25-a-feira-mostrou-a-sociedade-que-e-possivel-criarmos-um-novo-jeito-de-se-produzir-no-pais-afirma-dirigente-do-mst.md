@@ -4,7 +4,7 @@ tags:
   - tag: feira-da-reforma-agrária
   - tag: reforma-agrária
   - tag: produção
-title: "A Feira mostrou a sociedade que é possível criarmos um novo jeito de se produzir no país, afirma dirigente do MST"
+title: "Mostramos a sociedade que é possível criarmos um novo jeito de produzir no país, afirma dirigente do MST"
 menu: reforma agrária
 special-page: first-street-market
 section: cover
@@ -97,7 +97,8 @@ releated_posts:
 ---
 <p><img alt="22203459358_e005399669_z (1).jpg" src="http://farm6.staticflickr.com/5690/22485554181_ce2fcec844_b.jpg" /></p>
 
-<p><em>Por Maura Silva<br />
+<p><br />
+<em>Por Maura Silva<br />
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
@@ -105,6 +106,9 @@ Chega ao fim neste domingo (25) a 1&deg; Feira Nacional da Reforma Agr&aacute;ri
 
 <p><br />
 Ao todo, foram vendidas 220 toneladas de produtos espalhados em 800 itens de 80 cooperativas e associa&ccedil;&otilde;es. Cerca de 150 mil pessoas passaram durante os quatro dias de evento, segundo a dire&ccedil;&atilde;o do Parque da &Aacute;gua Branca. Apenas no s&aacute;bado (24), foram 70 mil pessoas, o segundo maior p&uacute;blico da hist&oacute;ria do Parque. A pra&ccedil;a de alimenta&ccedil;&atilde;o contou com 15 cozinhas de todas as regi&otilde;es do Brasil, onde foram servidas 10 mil refei&ccedil;&otilde;es.&nbsp;</p>
+
+<p><br />
+<strong><a href="https://www.flickr.com/photos/mstoficial" target="_blank">Clique aqui</a></strong> para ver mais fotos sobre a Feira.</p>
 
 <p><br />
 Para Adalberto Oliveira, do setor de produ&ccedil;&atilde;o e comercializa&ccedil;&atilde;o do MST, a Feira demostrou todo o poder de produ&ccedil;&atilde;o da agricultura camponesa, que hoje &eacute; respons&aacute;vel por alimentar 70% da popula&ccedil;&atilde;o brasileira.<br />
