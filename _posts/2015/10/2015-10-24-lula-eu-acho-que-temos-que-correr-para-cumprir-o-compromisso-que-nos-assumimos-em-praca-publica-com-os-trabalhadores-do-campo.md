@@ -40,13 +40,12 @@ created_date: "2015-10-24T16:54:13-02:00"
 published: true
 releated_posts:
   - 2015/10/2015-10-06-hortas-organicas-mais-que-alternativa-um-modo-de-vida-de-assentadas-da-reforma-agraria-no-rs.md
-  - 2014/07/2014-07-17-familias-sem-terra-seguem-na-luta-por-area-grilada-em-abelardo-luz.md
-  - 2015/06/2015-06-15-em-mais-uma-feira-sem-terra-da-bahia-mostram-a-forca-da-producao-agroecologica.md
-  - 2015/07/2015-07-10-mst-participa-de-feira-latino-americana-de-economia-solidaria-no-rs.md
-  - 2015/07/2015-07-14-com-alimentos-saudaveis-sem-terra-ocupam-as-ruas-da-bahia.md
   - 2015/10/2015-10-14-nao-colocamos-um-prato-de-comida-em-nossas-mesas-mas-um-calice-de-veneno-afirma-dirigente-do-mst.md
   - 2015/10/2015-10-21-mais-de-200-toneladas-de-alimentos-serao-comercializados-na-1o-feira-nacional-da-reforma-agraria.md
   - 2015/10/2015-10-21-producao-organica-do-rs-sera-comercializada-na-1a-feira-nacional-da-reforma-agraria-em-sp.md
+  - 2015/10/2015-10-22-bora-bora-pra-feira-nacional-da-reforma-agraria.md
+  - 2015/10/2015-10-22-1o-feira-nacional-da-reforma-agraria-chega-em-sp-com-alimentos-saudaveis-a-precos-acessiveis.md
+  - 2015/10/2015-10-22-o-pessoal-da-cidade-nunca-comeu-um-pe-de-alface-com-gosto-de-alface.md
 
 ---
 <p>&nbsp;</p>
@@ -66,7 +65,7 @@ Da P&aacute;gina do MST</em></p>
 Foi o que disse Jos&eacute; Geronimo, acampado do MST no estado de Goi&aacute;s ao ex-presidente Luis In&aacute;cio da Silva. Lula visitou na tarde desse s&aacute;bado (24)&nbsp;a 1&deg; Feira Nacional da Reforma Agr&aacute;ria, que acontece at&eacute; domingo (25), no Parque da &Aacute;gua Branca, em S<span style="line-height: 20.8px;">&atilde;o&nbsp;</span>&nbsp;Paulo.&nbsp;</p>
 
 <p><br />
-O ex-presidente andou pelos estandes da feira, comeu a moqueca de Tucunar&eacute; de dona Domingas e o Caruru de Maria do Ros&aacute;rio.</p>
+O ex-presidente andou pelos estandes da feira, comeu a moqueca de Tucunar&eacute; de dona Domingas e o Caruru de Maria do Ros&aacute;rio (<strong><a href="https://www.flickr.com/photos/mstoficial" target="_blank">Clique aqui</a></strong> para ver mais fotos da feira).</p>
 
 <p><br />
 Recebeu tapioca da cooperativa de mulheres assentadas do estado de Sergipe e o cacau org&acirc;nico vindo assentamento Terra Vista, no Sul da Bahia. &ldquo;Aqui est&aacute; todo o Brasil&rdquo;, disse ele na barraca do arroz da Cooperativa dos Trabalhadores dos Assentados da Regi&atilde;o de Porto Alegre (Cootap).&nbsp;</p>
