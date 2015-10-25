@@ -126,3 +126,9 @@ O MST est&aacute; aqui para demonstrar toda organiza&ccedil;&atilde;o, toda prod
 
 <p class="p6"><br />
 <span class="s1">Destaques do evento s&atilde;o os shows de violara caipira, como os das duplas Cacique e Paj&eacute; e Pereira da Viola, al&eacute;m de apresenta&ccedil;&otilde;es de Chico C&eacute;sar e Z&eacute; Geraldo. As crian&ccedil;as tamb&eacute;m encontram espa&ccedil;os na atividade, com brincadeiras e shows nas manh&atilde;s de s&aacute;bado e domingo.</span></p>
+
+<p class="p6">&nbsp;</p>
+
+<p class="p6"><span class="s1">Em v&iacute;deo de pronunciamento, presidenta Dilma sa&uacute;da a &nbsp;</span>1&ordm; Feira Nacional da Reforma Agr&aacute;ria</p>
+
+<p class="p6"><span class="s1"><a href="https://www.youtube.com/watch?v=Jr4kQYJ6yHE&amp;feature=youtu.be">https://www.youtube.com/watch?v=Jr4kQYJ6yHE&amp;feature=youtu.be</a>&nbsp;</span></p>
