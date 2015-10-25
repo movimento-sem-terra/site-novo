@@ -50,10 +50,6 @@ releated_posts:
 ---
 <p>&nbsp;</p>
 
-<figure class="image"><img alt="JOKA0199.jpg" height="467" src="http://farm6.staticflickr.com/5686/22441462235_4617524c26_b.jpg" width="700" />
-<figcaption>Foto: Joka Madruga</figcaption>
-</figure>
-
 <p><br />
 <em style="line-height: 20.8px;">Por Maura Silva&nbsp;<br />
 Da P&aacute;gina do MST</em></p>
