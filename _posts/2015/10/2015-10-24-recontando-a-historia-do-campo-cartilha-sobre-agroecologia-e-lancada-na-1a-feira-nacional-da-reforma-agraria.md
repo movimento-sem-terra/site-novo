@@ -1,11 +1,12 @@
 ---
-date: "2015-10-24T09:41:52-03:00"
+date: "2015-10-24T10:41:52-02:00"
 tags:
   - tag: educação
   - tag: educação-no-campo
   - tag: soberania-alimentar
   - tag: alimentação-saudável
-title: "Cartilha sobre agroecologia é lançada na Feira da Reforma Agrária"
+  - tag: feira-da-reforma-agrária
+title: Cartilha sobre agroecologia é lançada na Feira da Reforma Agrária
 support_line: Publicação é um projeto em desenvolvimento pelo setor de Educação do MST e pela Campanha Permanente Contra os Agrotóxicos para uso em escolas.
 menu: projeto popular
 special-page: first-street-market
@@ -39,10 +40,11 @@ files:
 created_date: "2015-10-24T11:21:22-03:00"
 published: true
 releated_posts:
-  - 2015/07/2015-07-27-mais-de-35-toneladas-de-alimentos-sao-vendidos-na-5o-feira-de-agroecologia-da-reforma-agraria.md
-  - 2014/09/2014-09-10-soberania-alimentar-e-energetica-se-faz-com-bens-naturais-a-servico-do-povo.md
-  - 2015/06/2015-06-25-a-batalha-de-dois-modelos-agricolas.md
-  - 2015/05/2015-05-21-projeto-visa-fortalecer-debate-da-soberania-alimentar-nas-escolas-dos-assentamentos.md
+  - 2015/10/2015-10-21-producao-organica-do-rs-sera-comercializada-na-1a-feira-nacional-da-reforma-agraria-em-sp.md
+  - 2015/10/2015-10-22-1o-feira-nacional-da-reforma-agraria-chega-em-sp-com-alimentos-saudaveis-a-precos-acessiveis.md
+  - 2015/10/2015-10-22-bora-bora-pra-feira-nacional-da-reforma-agraria.md
+  - 2015/10/2015-10-23-cozinhas-regionais-trazem-os-sabores-da-reforma-agraria-popular-ao-parque-agua-branca.md
+  - 2015/10/2015-10-22-o-pessoal-da-cidade-nunca-comeu-um-pe-de-alface-com-gosto-de-alface.md
 
 ---
 <figure class="image"><img alt="Foto: Maria Aparecida " src="http://farm6.staticflickr.com/5734/22246629990_c069f86535_b.jpg" />
@@ -53,14 +55,13 @@ releated_posts:
 Do Brasil de Fato</em></p>
 
 <p><br />
-<br />
 Voc&ecirc; sabe de onde vem o alimento que voc&ecirc; come em casa, na escola, na creche? Aqueles que compramos em nossa rua, no nosso bairro?&quot; &Eacute; esta a primeira pergunta da cartilha &ldquo;De onde vem a nossa comida?&rdquo;, lan&ccedil;ada nesta sexta-feira (23), durante o ato pol&iacute;tico da 1&ordf; Feira Nacional da Reforma Agr&aacute;ria, em S&atilde;o Paulo (SP).</p>
 
 <p><br />
 A publica&ccedil;&atilde;o &eacute; um projeto em desenvolvimento pelo setor de Educa&ccedil;&atilde;o do Movimento dos Trabalhadores Rurais Sem Terra (MST) e pela Campanha Permanente Contra os Agrot&oacute;xicos e Pela Vida para uso escolar, com estudantes e professores. O material aponta para a necessidade de entender a hist&oacute;ria da produ&ccedil;&atilde;o agr&iacute;cola no pa&iacute;s e a import&acirc;ncia da agroecologia para manuten&ccedil;&atilde;o da vida e do meio ambiente.</p>
 
 <p><br />
-&quot;Essas cartilhas, que n&oacute;s camponeses e camponesas estamos elaborando a partir da nossa hist&oacute;ria, a partir da nossa pr&aacute;tica em produ&ccedil;&atilde;o de alimentos saud&aacute;veis, s&atilde;o para que a popula&ccedil;&atilde;o brasileira tenha consci&ecirc;ncia que &eacute; poss&iacute;vel uma outra forma de produ&ccedil;&atilde;o que preserve a natureza e que preserve a vida principalmente&quot;, disse Maria Cristina Vargas, do setor de Educa&ccedil;&atilde;o do MST, durante a apresenta&ccedil;&atilde;o da cartilha no ato.</p>
+&quot;Essas cartilhas, que n&oacute;s camponeses e camponesas estamos elaborando a partir da nossa hist&oacute;ria, a partir da nossa pr&aacute;tica em produ&ccedil;&atilde;o de alimentos saud&aacute;veis, s&atilde;o para que a popula&ccedil;&atilde;o brasileira tenha consci&ecirc;ncia que &eacute; poss&iacute;vel uma outra forma de produ&ccedil;&atilde;o que preserve a natureza e que preserve a vida principalmente&quot;, disse Maria Cristina Vargas, do setor de Educa&ccedil;&atilde;o do MST, durante a apresenta&ccedil;&atilde;o da cartilha no ato (<strong><a href="https://www.flickr.com/photos/mstoficial" target="_blank">Clique aqui</a></strong> para ver mais fotos da feira).</p>
 
 <p>&nbsp;</p>
 
@@ -73,11 +74,10 @@ A publica&ccedil;&atilde;o &eacute; um projeto em desenvolvimento pelo setor de 
 Neste sentido, com ilustra&ccedil;&otilde;es e linguagem pr&oacute;prias, a publica&ccedil;&atilde;o busca resgatar a rela&ccedil;&atilde;o entre ser humano e natureza, al&eacute;m de mostrar para as novas gera&ccedil;&otilde;es como este v&iacute;nculo vem sendo transformado ao longo da hist&oacute;ria.</p>
 
 <p><br />
-&quot;Os processos trouxeram impactos muito s&eacute;rios e foram sendo determinados pela forma de produ&ccedil;&atilde;o capitalista, o que trouxe mudan&ccedil;as significativas dessa rela&ccedil;&atilde;o do trabalho com a natureza, ou seja, de realizar a agricultura. Ensinar educa&ccedil;&atilde;o ambiental para as crian&ccedil;as n&atilde;o &eacute; ensinar a separa&ccedil;&atilde;o do lixo. &Eacute; ensinar como que a gente recuperar esta rela&ccedil;&atilde;o do ser humano com a natureza. Como que a crian&ccedil;a pode entender que mesmo na cidade ela tem uma rela&ccedil;&atilde;o com a natureza&quot;, explica Nivia Regina da Silva, coordenadora da Campanha Permanente Contra os Agrot&oacute;xicos e Pela Vida.<br />
-&nbsp;</p>
+&quot;Os processos trouxeram impactos muito s&eacute;rios e foram sendo determinados pela forma de produ&ccedil;&atilde;o capitalista, o que trouxe mudan&ccedil;as significativas dessa rela&ccedil;&atilde;o do trabalho com a natureza, ou seja, de realizar a agricultura. Ensinar educa&ccedil;&atilde;o ambiental para as crian&ccedil;as n&atilde;o &eacute; ensinar a separa&ccedil;&atilde;o do lixo. &Eacute; ensinar como que a gente recuperar esta rela&ccedil;&atilde;o do ser humano com a natureza. Como que a crian&ccedil;a pode entender que mesmo na cidade ela tem uma rela&ccedil;&atilde;o com a natureza&quot;, explica Nivia Regina da Silva, coordenadora da Campanha Permanente Contra os Agrot&oacute;xicos e Pela Vida.</p>
 
 <p><br />
-Centros urbanos</p>
+<strong>Centros urbanos</strong></p>
 
 <figure class="image" style="float:right"><img alt="IMG_1089MARIA.JPG" src="http://farm1.staticflickr.com/751/22246783910_e2cba1ca07_b.jpg" />
 <figcaption>Foto: Maria Aparecida</figcaption>
