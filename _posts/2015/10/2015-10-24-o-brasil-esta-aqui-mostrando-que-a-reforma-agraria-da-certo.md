@@ -1,5 +1,5 @@
 ---
-date: "2015-10-24T15:27:14-03:00"
+date: "2015-10-24T16:27:14-02:00"
 tags:
   - tag: sem-terra
   - tag: reforma-agrária-popular
@@ -28,9 +28,11 @@ files:
 created_date: "2015-10-24T16:27:42-03:00"
 published: true
 releated_posts:
-  - 2015/04/2015-04-15-em-alagoas-sem-terra-defendem-a-reforma-agraria.md
-  - 2015/10/2015-10-06-feira-da-reforma-agraria-de-arapiraca-leva-produtos-saudaveis-ao-parque-ceci-cunha.md
-  - 2015/03/2015-03-04-livro-fala-sobre-a-resistencia-dos-trabalhadores-na-cidade-e-no-campo.md
+  - 2015/10/2015-10-22-bora-bora-pra-feira-nacional-da-reforma-agraria.md
+  - 2015/10/2015-10-22-1o-feira-nacional-da-reforma-agraria-chega-em-sp-com-alimentos-saudaveis-a-precos-acessiveis.md
+  - 2015/10/2015-10-22-o-pessoal-da-cidade-nunca-comeu-um-pe-de-alface-com-gosto-de-alface.md
+  - 2015/10/2015-10-21-producao-organica-do-rs-sera-comercializada-na-1a-feira-nacional-da-reforma-agraria-em-sp.md
+  - 2015/10/2015-10-21-mais-de-200-toneladas-de-alimentos-serao-comercializados-na-1o-feira-nacional-da-reforma-agraria.md
 
 ---
 <figure class="image"><img alt="IMG_8903.jpg" src="http://farm1.staticflickr.com/700/22253450818_a5356b27da_b.jpg" />
@@ -38,9 +40,7 @@ releated_posts:
 </figure>
 
 <p><br />
-<br />
 <em>Por Gustavo Marinho<br />
-<br />
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
@@ -50,7 +50,7 @@ Entre uma venda e outra, passando troco, pesando os alimentos e empacotando-os, 
 &ldquo;O abacaxi est&aacute; doce como mel e o inhame &eacute; a metade do pre&ccedil;o que voc&ecirc; encontra no supermercado&rdquo;, propagandeava Santino aos que passavam pelos corredores da 1&ordf; Feira Nacional da Reforma Agr&aacute;ria.</p>
 
 <p><br />
-Foram 3 dias na estrada de Alagoas at&eacute; o Parque da &Aacute;gua Branca, em S&atilde;o Paulo, trazendo na boleia do caminh&atilde;o as 2 toneladas de inhame, as 3 mil bananas-compridas e os mil abacaxis &ldquo;doces como mel&rdquo;.</p>
+Foram 3 dias na estrada de Alagoas at&eacute; o Parque da &Aacute;gua Branca, em S&atilde;o Paulo, trazendo na boleia do caminh&atilde;o as 2 toneladas de inhame, as 3 mil bananas-compridas e os mil abacaxis &ldquo;doces como mel&rdquo;&nbsp;(<strong><a href="https://www.flickr.com/photos/mstoficial" target="_blank">Clique aqui</a></strong> para ver mais fotos da feira).</p>
 
 <p><br />
 &ldquo;Esse &eacute; um momento hist&oacute;rico para o nosso Movimento. &Eacute; o Brasil inteiro que est&aacute; aqui mostrando que a Reforma Agr&aacute;ria d&aacute; certo com os frutos das nossas lutas&rdquo;, disse Santino.</p>
@@ -69,7 +69,6 @@ Lembrando das edi&ccedil;&otilde;es das Feiras em Alagoas, Santino refor&ccedil;
 </figure>
 
 <p><br />
-<br />
 &ldquo;S&atilde;o 16 anos de aprendizado, pensando as diversas dimens&otilde;es da Feira, para com isso ganhar ainda mais a confian&ccedil;a da sociedade. Assim como em Alagoas, nossa experi&ecirc;ncia de Feira Nacional deve virar tradi&ccedil;&atilde;o!&rdquo;, aposta. &ldquo;&Eacute; olhar no olho dos homens e das mulheres com m&atilde;os calejadas que nos alimentam e que aqui comercializam sua produ&ccedil;&atilde;o de qualidade com pre&ccedil;o justo&rdquo;.</p>
 
 <p><br />
