@@ -4,7 +4,7 @@ tags:
   - tag: feira-da-reforma-agrária
   - tag: reforma-agrária
   - tag: produção
-title: "Mostramos a sociedade que é possível criarmos um novo jeito de produzir no país, afirma dirigente do MST"
+title: "Mostramos a sociedade que é possível criarmos um novo jeito de produzir no país, afirma Sem Terra"
 menu: reforma agrária
 special-page: first-street-market
 section: cover
