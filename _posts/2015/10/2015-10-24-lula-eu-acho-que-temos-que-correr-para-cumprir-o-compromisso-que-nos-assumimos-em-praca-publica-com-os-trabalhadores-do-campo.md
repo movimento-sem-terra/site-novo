@@ -48,7 +48,7 @@ releated_posts:
   - 2015/10/2015-10-22-o-pessoal-da-cidade-nunca-comeu-um-pe-de-alface-com-gosto-de-alface.md
 
 ---
-<p>&nbsp;</p>
+<p><img alt="JOKA0199.jpg" src="http://farm6.staticflickr.com/5686/22441462235_4617524c26_b.jpg" /></p>
 
 <p><br />
 <em style="line-height: 20.8px;">Por Maura Silva&nbsp;<br />
@@ -108,3 +108,6 @@ Se a visita &agrave; Feira&nbsp;foi momento de adquirir produtos e experimentar 
 
 <p><br />
 &quot;A presidenta Dilma assumiu o compromisso de assentar 120 mil fam&iacute;lias at&eacute; o final de seu mandato, at&eacute; o momento foram assentadas 12 mil.&nbsp;Eu acho que temos que correr para cumprir o compromisso que n&oacute;s assumimos em pra&ccedil;a p&uacute;blica com os trabalhadores do campo&quot;, disse Lula.</p>
+
+<p><br />
+<iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/Ehudwblwcgo" width="640"></iframe></p>
