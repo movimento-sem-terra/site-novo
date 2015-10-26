@@ -4,7 +4,7 @@ tags:
   - tag: direitos-humanos
   - tag: estatuto-da-familia
 title: "Em nota, MST repudia projeto que trata do Estatuto da Família"
-support_line: "O projeto do Estatuto da Família (PL 6.583/13), foi recentemente aprovado por uma comissão especial  na Câmara dos Deputados e limita o entendimento de família. "
+support_line: "O projeto do Estatuto da Família (PL 6.583/13), foi recentemente aprovado por uma comissão especial  na Câmara dos Deputados e limita o entendimento sobre o conceito de família. "
 menu: direitos humanos
 images_hd: "http://farm6.staticflickr.com/5766/22478827942_fe2ac77e71_b.jpg"
 layout: post
