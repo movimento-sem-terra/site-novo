@@ -25,6 +25,7 @@ releated_posts:
   - 2015/05/2015-05-28-incra-itinerante-chega-ao-para-e-se-reune-com-movimentos-sociais.md
   - 2015/05/2015-05-22-sem-terra-ocupam-fazenda-abandonada-em-go.md
   - 2015/10/2015-10-23-sem-terra-entram-com-requerimento-para-barrar-pedido-de-reintegracao-de-posse-no-mt.md
+section: cover
 
 ---
 <p><img alt="incra_nacional.jpg" src="http://farm6.staticflickr.com/5733/22490313696_1cdb84f3e2_b.jpg" /></p>
