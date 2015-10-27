@@ -7,8 +7,8 @@ tags:
 title: "Mostramos a sociedade que é possível criarmos um novo jeito de produzir no país, afirma Sem Terra"
 menu: reforma agrária
 special-page: first-street-market
-section: cover
-images_hd: "http://farm6.staticflickr.com/5763/22287767569_05fc5ebfe9_b.jpg"
+section: featured-news
+images_hd: "http://farm6.staticflickr.com/5706/22287013868_b0d8ef7f17_b.jpg"
 support_line: "Cerca de 150 mil pessoas passaram durante os quatro dias de evento, segundo a direção do Parque da Água Branca. Apenas no sábado (24), foram 70 mil pessoas."
 layout: post
 files:
