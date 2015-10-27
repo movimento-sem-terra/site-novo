@@ -6,7 +6,7 @@ tags:
   - tag: reforma-agrária
 title: "Temos que correr para cumprir o compromisso de assentarmos as 120 mil famílias, afirma Lula"
 support_line: Em visita a 1° Feira Nacional da Reforma Agrária o ex-presidente andou pelos estandes e saboreou produtos da Reforma Agrária.
-section: null
+section: featured-news
 special-page: first-street-market
 menu: reforma agrária
 images_hd: "http://farm6.staticflickr.com/5686/22441462235_4617524c26_b.jpg"
