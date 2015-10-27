@@ -8,7 +8,7 @@ tags:
 title: “O pessoal da cidade nunca comeu um pé de alface com gosto de alface”
 support_line: "Cleide Oliveira, produtora e vendedora na 1a Feira da Reforma Agrária, conta sua história e mostra os frutos (e doces) da Reforma Agrária."
 menu: agricultura camponesa
-images_hd: "http://farm6.staticflickr.com/5823/21794574043_f27c9462d8_b.jpg"
+images_hd: "http://farm6.staticflickr.com/5759/21770695553_7708f685cb_b.jpg"
 layout: post
 files:
   - link: "http://farm6.staticflickr.com/5759/21770695553_7708f685cb_b.jpg"
@@ -54,17 +54,19 @@ section: featured-news
 special-page: first-street-market
 
 ---
-<p><img alt="22203450308_c79c2d944b_z.jpg" src="http://farm6.staticflickr.com/5823/21794574043_f27c9462d8_b.jpg" /></p>
+<figure class="image"><img alt="JOKA8582-cleide.jpg" height="467" src="http://farm6.staticflickr.com/5759/21770695553_7708f685cb_b.jpg" width="700" />
+<figcaption>Cleide em sua barraca na 1&ordf;&nbsp;Feira da Reforma Agr&aacute;ria</figcaption>
+</figure>
 
 <p><br />
 <em>Por Jos&eacute; Coutinho J&uacute;nior<br />
 Da P&aacute;gina do MST</em><br />
 &nbsp;</p>
 
-<p>- Da onde voc&ecirc;s s&atilde;o?<br />
-- Que fruta &eacute; essa?<br />
-- Como come isso?<br />
--Vamos levar.<br />
+<p>&nbsp;- Da onde voc&ecirc;s s&atilde;o?<br />
+&nbsp;- Que fruta &eacute; essa?<br />
+&nbsp;- Como come isso?<br />
+&nbsp;-Vamos levar.<br />
 &nbsp;</p>
 
 <p>As perguntas e a consequente compra dos produtos&nbsp;s&atilde;o cenas comuns na 1<span class="st">&ordf;</span> Feira da Reforma Agr&aacute;ria. Na barraca da goiana Cleide Oliveira, de 39 anos, n&atilde;o &eacute; diferente. Cleide mora em Corumb&aacute; e &eacute; uma das acampadas no acampamento Dom Tom&aacute;s Baldu&iacute;no.<br />
@@ -76,7 +78,11 @@ Cleide afirma que o tamarino e o bar&uacute;, frutas que n&atilde;o s&atilde;o c
 <p><br />
 Andreia Rodim e Raul Neto, um casal que passava pela feira, se aproxima da barraca de Cleide.</p>
 
+<p>&nbsp;</p>
+
 <p><img alt="22203459358_e005399669_z.jpg" src="http://farm1.staticflickr.com/755/22227745100_8a72c189fa_b.jpg" /></p>
+
+<p>&nbsp;</p>
 
 <p>-Vamo levar? Diz a vendedora, com uma voz animada.</p>
 
@@ -143,7 +149,7 @@ Cleide entrou no MST h&aacute; um ano e cinco meses, pouco tempo antes da ocupa&
 Seu marido, Jos&eacute; Ant&ocirc;nio, sempre trabalhou no campo, mas para outras pessoas. &ldquo;Ele ro&ccedil;ava pastos, plantava mudas. Mas ele sabe de tudo sobre planta&ccedil;&atilde;o, porque foi criado na ro&ccedil;a: o dia de plantar feij&atilde;o, alho, o que d&aacute; na lua cheia, a hora certa de plantar tudo&rdquo;.<br />
 &nbsp;</p>
 
-<p><img alt="JOKA8582-cleide.jpg" src="http://farm6.staticflickr.com/5759/21770695553_7708f685cb_b.jpg" /><br />
+<p><br />
 <br />
 Quando perguntada se tem planos do que vai plantar quando tiver seu peda&ccedil;o de terra garantido, Cleide abre um sorriso.</p>
 
