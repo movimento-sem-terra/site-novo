@@ -4,8 +4,8 @@ tags:
   - tag: feira-da-reforma-agrária
   - tag: incra
   - tag: desenvolvimento
-title: "“A cidade precisa dos produtos da Reforma Agrária”, afirma presidenta do Incra em visita a Feira em São Paulo"
-support_line: Na ocasião a presidenta tornou pública a autorização recursos para as demandas de construção de agroindústrias em 11 estados do país.
+title: "“A cidade precisa dos produtos da Reforma Agrária”, afirma presidenta do Incra "
+support_line: "Em visita à 1° Feira Nacional da Reforma Agrária, Maria Lúcia Fálcon, tornou pública a autorização recursos para as demandas de construção de agroindústrias em 11 estados do país."
 menu: reforma agrária
 special-page: first-street-market
 images_hd: "http://farm6.staticflickr.com/5773/22334200868_7725780d41_b.jpg"
