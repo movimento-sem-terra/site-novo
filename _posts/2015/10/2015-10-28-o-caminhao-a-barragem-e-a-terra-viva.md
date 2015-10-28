@@ -6,17 +6,17 @@ tags:
   - tag: 1°-Feira-Nacional-da-Reforma-Agrária
 title: "O caminhão, a barragem e a Terra Viva"
 support_line: Caminhoneiro e militante conta sua história e de uma das maiores cooperativas do MST
-images_hd: "http://farm6.staticflickr.com/5786/22362001318_3bdf533a93_b.jpg"
+images_hd: "http://farm6.staticflickr.com/5738/22536572002_1d86bdc045_b.jpg"
 menu: agricultura camponesa
 special-page: first-street-market
 layout: post
 files:
-  - link: "http://farm6.staticflickr.com/5786/22362001318_3bdf533a93_b.jpg"
-    thumbnail: "http://farm6.staticflickr.com/5786/22362001318_3bdf533a93_t.jpg"
-    medium: "http://farm6.staticflickr.com/5786/22362001318_3bdf533a93_z.jpg"
-    small: "http://farm6.staticflickr.com/5786/22362001318_3bdf533a93_n.jpg"
-    title: IMG_20151025_105125034.jpg
-    $$hashKey: 0HN
+  - link: "http://farm6.staticflickr.com/5738/22536572002_1d86bdc045_b.jpg"
+    thumbnail: "http://farm6.staticflickr.com/5738/22536572002_1d86bdc045_t.jpg"
+    medium: "http://farm6.staticflickr.com/5738/22536572002_1d86bdc045_z.jpg"
+    small: "http://farm6.staticflickr.com/5738/22536572002_1d86bdc045_n.jpg"
+    title: 21763539513_b76a9d0e55_k.jpg
+    $$hashKey: 0NV
 created_date: "2015-10-28T15:41:28-02:00"
 published: true
 releated_posts:
