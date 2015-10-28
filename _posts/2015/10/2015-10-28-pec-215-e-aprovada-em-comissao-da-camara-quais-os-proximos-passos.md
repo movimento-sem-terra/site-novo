@@ -41,8 +41,6 @@ releated_posts:
 <p><em>Por Marcelo Pellegrini<br />
 Da Carta Capital</em>&nbsp;</p>
 
-<p>&nbsp;</p>
-
 <p><br />
 A Comiss&atilde;o Especial da Demarca&ccedil;&atilde;o de Terras Ind&iacute;genas aprovou nesta ter&ccedil;a-feira 27, por 21 a zero, o substitutivo que o relator, deputado Osmar Serraglio (PMDB-PR), sobre a Proposta de Emenda &agrave; Constitui&ccedil;&atilde;o (PEC) 215/2000, que transfere do Executivo para o Legislativo a palavra final sobre a demarca&ccedil;&atilde;o de terras ind&iacute;genas. O texto &eacute; encarado pelos diversos povos tradicionais brasileiros e ativistas como uma amea&ccedil;a aos direitos ind&iacute;genas.</p>
 
