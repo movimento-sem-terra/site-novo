@@ -5,7 +5,7 @@ tags:
   - tag: reforma-agrária
   - tag: ocupação
   - tag: mst
-title: "Sem Terra celebram 30 anos da primeira ocupação realizada pelo MST, no RS"
+title: Sem Terra celebram 30 anos da primeira ocupação realizada pelo MST
 support_line: "Em celebração às três décadas da luta pela terra, também será realizado o Acampamento Estadual da Juventude Sem Terra"
 section: cover
 menu: reforma agrária
@@ -39,8 +39,7 @@ releated_posts:
 
 ---
 <figure class="image"><img alt="anoni.jpg" src="http://farm1.staticflickr.com/603/21926823353_064ae9a368_b.jpg" />
-<figcaption>Foto hist&oacute;rica da ocupa&ccedil;&atilde;o | Foto: Daniel de Andrade/Arquivo<br />
-</figcaption>
+<figcaption>Foto hist&oacute;rica da ocupa&ccedil;&atilde;o | Foto: Daniel de Andrade/Arquivo</figcaption>
 </figure>
 
 <p><br />
