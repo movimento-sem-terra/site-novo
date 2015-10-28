@@ -52,7 +52,7 @@ A empilhadeira se aproxima e, com suas garras, pega diversas caixas de leite emb
 Ap&oacute;s cinco minutos, o caminh&atilde;o de Audir Schmidt est&aacute; cheio de leite, doces e leite condensado da marca Terra Viva. O caminhoneiro parte para outros estados, entregar os produtos da Cooperativa Regional de Comercializa&ccedil;&atilde;o do Extremo Oeste (Cooperoeste).&nbsp;</p>
 
 <p><br />
-Hoje, o caminh&atilde;o de Audir estacionou em S&atilde;o Paulo, na 1&deg;&nbsp;Feira Nacional da Reforma Agr&aacute;ria.</p>
+Na semana passada, o caminh&atilde;o de Audir estacionou em S&atilde;o Paulo, na 1&deg;&nbsp;Feira Nacional da Reforma Agr&aacute;ria.</p>
 
 <p>&nbsp;</p>
 
