@@ -5,7 +5,7 @@ tags:
   - tag: reforma-agrária
   - tag: 1°-Feira-Nacional-da-Reforma-Agrária
 title: "O caminhão, a barragem e a Terra Viva"
-support_line: Caminhoneiro e militante conta sua história e de uma das maiores cooperativas do MST
+support_line: Caminhoneiro e militante conta sua história e de uma das maiores cooperativas do MST.
 images_hd: "http://farm6.staticflickr.com/5738/22536572002_1d86bdc045_b.jpg"
 menu: agricultura camponesa
 special-page: first-street-market
@@ -17,24 +17,30 @@ files:
     small: "http://farm6.staticflickr.com/5738/22536572002_1d86bdc045_n.jpg"
     title: 21763539513_b76a9d0e55_k.jpg
     $$hashKey: 0NV
+  - link: "http://farm1.staticflickr.com/713/22524478526_755e695650_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/713/22524478526_755e695650_t.jpg"
+    medium: "http://farm1.staticflickr.com/713/22524478526_755e695650_z.jpg"
+    small: "http://farm1.staticflickr.com/713/22524478526_755e695650_n.jpg"
+    title: aldir.jpg
+    $$hashKey: 058
+  - link: "http://farm1.staticflickr.com/769/22524503946_ff28479c15_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/769/22524503946_ff28479c15_t.jpg"
+    medium: "http://farm1.staticflickr.com/769/22524503946_ff28479c15_z.jpg"
+    small: "http://farm1.staticflickr.com/769/22524503946_ff28479c15_n.jpg"
+    title: doce de leite.jpg
+    $$hashKey: 05B
 created_date: "2015-10-28T15:41:28-02:00"
 published: true
 releated_posts:
-  - 2014/07/2014-07-17-familias-sem-terra-seguem-na-luta-por-area-grilada-em-abelardo-luz.md
-  - 2015/10/2015-10-06-feira-da-reforma-agraria-de-arapiraca-leva-produtos-saudaveis-ao-parque-ceci-cunha.md
-  - 2015/06/2015-06-15-em-mais-uma-feira-sem-terra-da-bahia-mostram-a-forca-da-producao-agroecologica.md
-  - 2015/07/2015-07-10-mst-participa-de-feira-latino-americana-de-economia-solidaria-no-rs.md
-  - 2015/07/2015-07-14-com-alimentos-saudaveis-sem-terra-ocupam-as-ruas-da-bahia.md
   - 2015/10/2015-10-25-a-feira-mostrou-a-sociedade-que-e-possivel-criarmos-um-novo-jeito-de-se-produzir-no-pais-afirma-dirigente-do-mst.md
   - 2015/10/2015-10-24-o-menino-de-107-anos-do-mst.md
   - 2015/10/2015-10-27-assentamento-do-rs-conquista-selo-identificador-da-producao-organica.md
+sector: production
 
 ---
-<figure class="image"><img alt="IMG_20151025_105125034.jpg" height="394" src="http://farm6.staticflickr.com/5786/22362001318_3bdf533a93_b.jpg" width="700" />
+<figure class="image"><img alt="aldir.jpg" src="http://farm1.staticflickr.com/713/22524478526_755e695650_b.jpg" />
 <figcaption>Audir Schmidt &nbsp;em sua barraca na&nbsp;1&deg;&nbsp;Feira Nacional da Reforma Agr&aacute;ria</figcaption>
 </figure>
-
-<p>&nbsp;</p>
 
 <p><em>Por Jos&eacute; Coutinho J&uacute;nior<br />
 Da P&aacute;gina do MST</em></p>
@@ -48,8 +54,13 @@ Ap&oacute;s cinco minutos, o caminh&atilde;o de Audir Schmidt est&aacute; cheio 
 <p><br />
 Hoje, o caminh&atilde;o de Audir estacionou em S&atilde;o Paulo, na 1&deg;&nbsp;Feira Nacional da Reforma Agr&aacute;ria.</p>
 
-<p><br />
-Audir &eacute; militante do Movimento dos Atingidos por Barragens (MAB). Ga&uacute;cho, sempre que p&aacute;ra para pensar em algo, exclama: &ldquo;barbaridade!&rdquo;.</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="doce de leite.jpg" src="http://farm1.staticflickr.com/769/22524503946_ff28479c15_b.jpg" />
+<figcaption>A cooperativa processa diversos produtos derivados do leite.</figcaption>
+</figure>
+
+<p>Audir &eacute; militante do Movimento dos Atingidos por Barragens (MAB). Ga&uacute;cho, sempre que p&aacute;ra para pensar em algo, exclama: &ldquo;barbaridade!&rdquo;.</p>
 
 <p><br />
 Seu pai tinha uma propriedade no munic&iacute;pio de Aratiba (RS); a empresa Eletrosul criou uma barragem no rio Uruguai que expulsou diversas fam&iacute;lias rurais, incluindo a de Audir.</p>
@@ -64,9 +75,11 @@ Ap&oacute;s 10 anos de lutas, eles, junto com mais 50 fam&iacute;lias, foram rea
 Mais de 10 assentamentos em diversos munic&iacute;pios da regi&atilde;o produzem leite para a Cooperoeste. Audir conta que, inicialmente, a produ&ccedil;&atilde;o total era de 60 mil litros por dia. Atualmente, a cooperativa produz 600 mil litros di&aacute;rios.</p>
 
 <p><br />
-Audir e a esposa Elenice ambos trabalham na Cooperoeste. Ele, caminhoneiro, ela, no almoxarifado. O ritmo da cooperativa nunca p&aacute;ra, nem as viagens que ele faz.</p>
+Audir e a esposa Elenice ambos trabalham na Cooperoeste. Ele, caminhoneiro, ela, no almoxarifado. O ritmo da cooperativa nunca p&aacute;ra, nem as viagens que ele faz.<br />
+&nbsp;</p>
 
-<p><br />
+<p><img alt="21763539513_b76a9d0e55_k.jpg" src="http://farm6.staticflickr.com/5738/22536572002_1d86bdc045_b.jpg" /><br />
+<br />
 &ldquo;Temos tr&ecirc;s caminh&otilde;es refrigerados, que transportam 16 toneladas. Eu fa&ccedil;o de duas a tr&ecirc;s viagens por semana, no Rio Grande do Sul, no norte do Paran&aacute;. S&atilde;o 700 km a viagem de ida e volta.</p>
 
 <p><br />
