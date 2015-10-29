@@ -7,7 +7,7 @@ tags:
   - tag: mst
 title: Sem Terra celebram 30 anos da primeira ocupação realizada pelo MST
 support_line: "Em celebração às três décadas da luta pela terra, também será realizado o Acampamento Estadual da Juventude Sem Terra"
-section: cover
+section: null
 menu: reforma agrária
 images_hd: "http://farm1.staticflickr.com/603/21926823353_064ae9a368_b.jpg"
 layout: post
