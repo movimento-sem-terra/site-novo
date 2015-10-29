@@ -4,7 +4,7 @@ tags:
   - tag: direitos-humanos
   - tag: lei-antiterror
   - tag: movimentos-populares
-title: "\"Aprovação da PL antiterrorismo é um retrocesso para a democracia\", afirma dirigente do MST"
+title: "\"Aprovação do PL antiterrorismo é um retrocesso para a democracia\", afirma dirigente do MST"
 support_line: "Para Alexandre Conceição, do MST, \"a única lei que precisamos é aquela que garanta direitos e não uma que nos impeça de lutar por eles.\""
 hat: "\"A única lei que precisamos é aquela que garanta direitos e não uma que nos impeça de lutar por eles\", critica Conceição sobre "
 menu: direitos humanos
@@ -66,10 +66,10 @@ A pr&oacute;pria ONU, por exemplo, teve 13 instrumentos internacionais sobre a m
 &quot;Cinco pa&iacute;ses estabeleceram essa tipifica&ccedil;&atilde;o, e, por coincid&ecirc;ncia, pa&iacute;ses que j&aacute; foram v&iacute;timas de a&ccedil;&otilde;es de agrupamentos terroristas, o que n&atilde;o&nbsp;ocorre no nosso pa&iacute;s. Qualquer subjetividade no tratamento de um tema como este pode permitir a criminaliza&ccedil;&atilde;o das lutas sociais, dos movimentos sociais, e a restri&ccedil;&atilde;o &agrave; liberdade de express&atilde;o e de organiza&ccedil;&atilde;o&quot;, salientou o l&iacute;der do Partido dos Trabalhadores no Senado, Humberto Costa (PT-PE).</p>
 
 <p><br />
-Para Alexandre Concei&ccedil;&atilde;o, da coordena&ccedil;&atilde;o nacional do MST, a &quot;aprova&ccedil;&atilde;o da PL antiterrorismo &eacute; um retrocesso para a democracia brasileira,&nbsp;pois tem cunho repressivo e pol&iacute;tico. &Eacute; uma PL que amea&ccedil;a os direitos do povo brasileiro institu&iacute;dos pela Constitui&ccedil;&atilde;o&quot;, afirmou.</p>
+Para Alexandre Concei&ccedil;&atilde;o, da coordena&ccedil;&atilde;o nacional do MST, a &quot;aprova&ccedil;&atilde;o do&nbsp;PL antiterrorismo &eacute; um retrocesso para a democracia brasileira,&nbsp;pois tem cunho repressivo e pol&iacute;tico. &Eacute; um&nbsp;projeto que amea&ccedil;a os direitos do povo brasileiro institu&iacute;dos pela Constitui&ccedil;&atilde;o&quot;, afirmou.</p>
 
 <p><br />
-A PL que tipifica terrorismo tem pelo ao menos tr&ecirc;s pontos que atentam gravemente contra as institui&ccedil;&otilde;es democr&aacute;ticas do pa&iacute;s. O primeiro &eacute; a criminaliza&ccedil;&atilde;o dos movimentos populares pela subjetividade com que o tema tem sido trabalhado. O segundo &eacute; que o tipo penal estabelecido &eacute; muito amplo e amb&iacute;guo. E por &uacute;ltimo, &eacute; o ponto do &quot;extremismo pol&iacute;tico&quot;, definido pelo senador Aloysio, em que &quot;considera-se terrorismo por extremismo pol&iacute;tico, para efeitos desta lei, o ato que atentar gravemente contra as institui&ccedil;&otilde;es democr&aacute;ticas&quot;.</p>
+O PL que tipifica terrorismo tem pelo ao menos tr&ecirc;s pontos que atentam gravemente contra as institui&ccedil;&otilde;es democr&aacute;ticas do pa&iacute;s. O primeiro &eacute; a criminaliza&ccedil;&atilde;o dos movimentos populares pela subjetividade com que o tema tem sido trabalhado. O segundo &eacute; que o tipo penal estabelecido &eacute; muito amplo e amb&iacute;guo. E por &uacute;ltimo, &eacute; o ponto do &quot;extremismo pol&iacute;tico&quot;, definido pelo senador Aloysio, em que &quot;considera-se terrorismo por extremismo pol&iacute;tico, para efeitos desta lei, o ato que atentar gravemente contra as institui&ccedil;&otilde;es democr&aacute;ticas&quot;.</p>
 
 <p><br />
 De acordo o senador Lindbergh Farias (PT/RJ), que destacou o termo &ldquo;extremismo pol&iacute;tico&rdquo; com preocupa&ccedil;&atilde;o, o PL cont&eacute;m muitos agravantes para as institui&ccedil;&otilde;es democr&aacute;ticas do pa&iacute;s e que amea&ccedil;am o direito &agrave; livre manifesta&ccedil;&atilde;o de pensamento e de express&atilde;o.</p>
@@ -78,7 +78,7 @@ De acordo o senador Lindbergh Farias (PT/RJ), que destacou o termo &ldquo;extrem
 &quot;A maior cr&iacute;tica nossa &eacute; a retirada dos pontos que preservavam os movimentos sociais. O projeto fala de um conjunto de atos preparat&oacute;rios, ou seja, sem acontecer o ato, que pega em cheio tudo que &eacute; movimento social&quot;, criticou o senador.</p>
 
 <p><br />
-O projeto antiterror estava travando a pauta do Senado desde o dia 5 deste m&ecirc;s, e foi votado em car&aacute;ter de urg&ecirc;ncia pelo Senado. A aus&ecirc;ncia de participa&ccedil;&atilde;o da sociedade civil, dos movimentos sociais, entidades e especialistas ligados &agrave; &aacute;rea do direito penal no debate de um texto com esse teor &eacute; alvo de cr&iacute;tica pelo Movimento.</p>
+O projeto antiterror estava travando a pauta do Senado desde o dia 5 deste m&ecirc;s&nbsp;e foi votado em car&aacute;ter de urg&ecirc;ncia pelo Senado. A aus&ecirc;ncia de participa&ccedil;&atilde;o da sociedade civil, dos movimentos sociais, entidades e especialistas ligados &agrave; &aacute;rea do direito penal no debate de um texto com esse teor &eacute; alvo de cr&iacute;tica pelo Movimento.</p>
 
 <p><br />
 &quot;N&atilde;o precisamos de lei antiterror no Brasil, muito menos uma que retrocede nos direitos b&aacute;sicos do povo, sem este sequer ter um processo de participa&ccedil;&atilde;o neste debate. O governo deve saber que a &uacute;nica lei que precisamos nesse pa&iacute;s &eacute; aquela que garante direitos e n&atilde;o de uma que nos impe&ccedil;a de lutar por eles&quot;, criticou Concei&ccedil;&atilde;o.</p>
