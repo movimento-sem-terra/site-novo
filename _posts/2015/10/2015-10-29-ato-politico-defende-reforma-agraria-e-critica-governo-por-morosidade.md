@@ -31,7 +31,9 @@ releated_posts:
   - 2015/04/2015-04-02-o-nosso-exercito-e-de-trabalhadores-que-lutam-pela-terra-diz-coordenador-do-mst.md
 
 ---
-<p><img alt="IMG-20151028-WA0041.jpg.jpeg" src="http://farm1.staticflickr.com/706/21951589413_92fd8a262b_b.jpg" /></p>
+<figure class="image"><img alt="IMG-20151028-WA0041.jpg.jpeg" src="http://farm1.staticflickr.com/706/21951589413_92fd8a262b_b.jpg" />
+<figcaption>Foto: Luiz Fernando</figcaption>
+</figure>
 
 <p><br />
 <em>Por Iris Pacheco<br />
@@ -49,7 +51,7 @@ Para a deputada federal &Eacute;rica Kokay (PT-DF), o pa&iacute;s passa por um m
 <p>&nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="IMG-20151028-WA0042.jpg.jpeg" src="http://farm1.staticflickr.com/726/21951595973_3966fb4fe4_b.jpg" />
-<figcaption></figcaption>
+<figcaption>Foto: Luiz Fernando</figcaption>
 </figure>
 
 <p>Francisco Ant&ocirc;nio Pereira, da coordena&ccedil;&atilde;o do MST, lembrou que as promessas do governo j&aacute; n&atilde;o convencem, e que sua morosidade com a pauta da Reforma Agr&aacute;ria junto com o corte or&ccedil;ament&aacute;rio inviabilizou ainda mais esse processo.</p>
