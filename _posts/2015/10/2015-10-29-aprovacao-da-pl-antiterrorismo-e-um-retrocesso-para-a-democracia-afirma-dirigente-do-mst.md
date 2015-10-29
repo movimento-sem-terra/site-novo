@@ -66,9 +66,6 @@ A pr&oacute;pria ONU, por exemplo, teve 13 instrumentos internacionais sobre a m
 &quot;Cinco pa&iacute;ses estabeleceram essa tipifica&ccedil;&atilde;o, e, por coincid&ecirc;ncia, pa&iacute;ses que j&aacute; foram v&iacute;timas de a&ccedil;&otilde;es de agrupamentos terroristas, o que n&atilde;o&nbsp;ocorre no nosso pa&iacute;s. Qualquer subjetividade no tratamento de um tema como este pode permitir a criminaliza&ccedil;&atilde;o das lutas sociais, dos movimentos sociais, e a restri&ccedil;&atilde;o &agrave; liberdade de express&atilde;o e de organiza&ccedil;&atilde;o&quot;, salientou o l&iacute;der do Partido dos Trabalhadores no Senado, Humberto Costa (PT-PE).</p>
 
 <p><br />
-Saiba quem s&atilde;o os senadores que votaram contra os movimentos sociais (INSERIR TABELA DE VOTA&Ccedil;&Atilde;O EM ANEXO)</p>
-
-<p><br />
 Para Alexandre Concei&ccedil;&atilde;o, da coordena&ccedil;&atilde;o nacional do MST, a &quot;aprova&ccedil;&atilde;o da PL antiterrorismo &eacute; um retrocesso para a democracia brasileira,&nbsp;pois tem cunho repressivo e pol&iacute;tico. &Eacute; uma PL que amea&ccedil;a os direitos do povo brasileiro institu&iacute;dos pela Constitui&ccedil;&atilde;o&quot;, afirmou.</p>
 
 <p><br />
