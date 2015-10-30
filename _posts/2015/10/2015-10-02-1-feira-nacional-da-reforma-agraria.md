@@ -1,7 +1,7 @@
 ---
 date: "2015-10-02T13:39:08-03:00"
 tags: []
-section: campaign
+section: null
 link: "http://www.mst.org.br/feira-reforma-agraria/"
 target: _self
 title: 1° Feira Nacional da Reforma Agrária
@@ -18,5 +18,6 @@ files:
 created_date: "2015-10-02T14:00:32-03:00"
 published: true
 releated_posts: []
+menu: reforma agrária
 
 ---
