@@ -65,7 +65,7 @@ Da P&aacute;gina do MST</em></p>
 Os 30 anos da ocupa&ccedil;&atilde;o da Fazenda Annoni, que se completaram nesta quinta-feira, 29 de outubro, foram marcados por um ato pol&iacute;tico e confraterniza&ccedil;&atilde;o no Assentamento Novo Sarandi, em Sarandi, na regi&atilde;o Norte do Rio Grande do Sul.</p>
 
 <p><br />
-O evento resgatou as hist&oacute;rias da luta e resist&ecirc;ncia de mais de 7 mil trabalhadores rurais Sem Terra iniciada em 1985.</p>
+O evento resgatou as hist&oacute;rias da luta e resist&ecirc;ncia de mais de 7 mil trabalhadores rurais Sem Terra iniciadas em 1985.</p>
 
 <p><br />
 Na madrugada de 29 de outubro de 1985, o agricultor Isaias Vedovatto, acompanhado de centenas de fam&iacute;lias, cortou a cerca do latif&uacute;ndio de 9.300 hectares. No ato de ontem, ele relatou a organiza&ccedil;&atilde;o dos Sem Terra para realizar a ocupa&ccedil;&atilde;o da &aacute;rea h&aacute; tr&ecirc;s d&eacute;cadas.</p>
