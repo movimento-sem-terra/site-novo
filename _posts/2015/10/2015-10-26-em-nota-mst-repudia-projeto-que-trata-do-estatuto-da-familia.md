@@ -18,7 +18,7 @@ files:
 created_date: "2015-10-26T11:49:54-02:00"
 published: true
 releated_posts: []
-section: featured-news
+section: null
 
 ---
 <figure class="image"><img alt="12508324505_9f71e32601_z.jpg" src="http://farm6.staticflickr.com/5766/22478827942_fe2ac77e71_b.jpg" />
