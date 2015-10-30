@@ -5,8 +5,8 @@ tags:
   - tag: fazenda-annoni
   - tag: mst
 images_hd: "http://farm1.staticflickr.com/595/22421213650_3341363aec_b.jpg"
-title: "‘O sonho era ter um pedaço de terra’, diz Sem Terra sobre a primeira ocupação do MST"
-support_line: "Reportagem conta a história da primeira ocupação realizada pelo MST há 30 anos, no Rio Grande do Sul."
+title: "Sem Terra contam a história da primeira ocupação realizada pelo MST, há 30 anos"
+support_line: "Reportagem conta a história da ocupação da Fazenda Annoni, realizada pelo MST há 30 anos, no Rio Grande do Sul."
 menu: reforma agrária
 section: cover
 layout: post
@@ -57,8 +57,7 @@ releated_posts:
 
 ---
 <figure class="image"><img alt="20151029-fazenda-annoni_4.jpg" src="http://farm1.staticflickr.com/595/22421213650_3341363aec_b.jpg" />
-<figcaption>M&aacute;rio Lil, Isa&iacute;as Vedovatto e Darci Maschio atuaram na lideran&ccedil;a da ocupa&ccedil;&atilde;o e ainda hoje s&atilde;o assentados na Annoni | Foto: Gerson Costa Lopes<br />
-</figcaption>
+<figcaption>M&aacute;rio Lil, Isa&iacute;as Vedovatto e Darci Maschio atuaram na lideran&ccedil;a da ocupa&ccedil;&atilde;o e ainda hoje s&atilde;o assentados na Annoni | Foto: Gerson Costa Lopes</figcaption>
 </figure>
 
 <p><br />
@@ -80,8 +79,7 @@ Se tivessem dado alguns passos para dentro de uma das estradas que entravam nas 
 <p>&nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="20151029-fazenda-annoni_3.jpg" height="332" src="http://farm6.staticflickr.com/5717/22583193556_0cc0a9d088_b.jpg" width="500" />
-<figcaption>Os frutos do trabalho realizado hoje na fazenda | Foto: Gerson Costa Lopes.<br />
-</figcaption>
+<figcaption>Os frutos do trabalho realizado hoje na fazenda | Foto: Gerson Costa Lopes.</figcaption>
 </figure>
 
 <p>Os colonos correram para o carro, queriam ver se havia ficado algo que despertasse suspeita da pol&iacute;cia. Fecharam as portas que estavam abertas e voltaram a se esconder para esperar o grupo que se atrasou retido na estrada. Quinze minutos depois, os policiais voltaram. Estranharam as portas fechadas, ainda sem ter sinal de haver algu&eacute;m por perto. As buscas para encontrar qualquer pista foram outra vez em v&atilde;o. Talvez para levar a informa&ccedil;&atilde;o, talvez desconfiando de algo, talvez por realmente n&atilde;o achar que o fusca fosse um problema, embarcaram na viatura e foram embora.</p>
@@ -126,8 +124,7 @@ Com experi&ecirc;ncia de driblar a ditadura militar, as reuni&otilde;es clandest
 As festas da igreja e bailes tamb&eacute;m funcionavam como fachada para angariar fundos para a causa. O dinheiro cobria despesas com deslocamentos e como apoio para os sem-terra acampados. Muitas vezes, era nestas festas que os representantes dos agricultores de cada regi&atilde;o poderiam se reunir sem levantar suspeita.</p>
 
 <figure class="image"><img alt="20151029-fazenda-annoni-historia_2.jpg" src="http://farm1.staticflickr.com/690/21986521174_f52c0596f3_b.jpg" />
-<figcaption>Imagem da &eacute;poca da coupa&ccedil;&atilde;o, em 1985 | Foto: Arquivo<br />
-</figcaption>
+<figcaption>Imagem da &eacute;poca da coupa&ccedil;&atilde;o, em 1985 | Foto: Arquivo</figcaption>
 </figure>
 
 <p><br />
