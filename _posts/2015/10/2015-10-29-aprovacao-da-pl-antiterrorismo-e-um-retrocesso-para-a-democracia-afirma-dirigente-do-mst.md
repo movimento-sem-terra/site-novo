@@ -9,7 +9,7 @@ support_line: "Para Alexandre Conceição, do MST, \"a única lei que precisamos
 hat: "\"A única lei que precisamos é aquela que garanta direitos e não uma que nos impeça de lutar por eles\", critica Conceição sobre "
 menu: direitos humanos
 images_hd: "http://farm6.staticflickr.com/5786/22392573410_06c9feccca_b.jpg"
-section: cover
+section: null
 layout: post
 files:
   - link: "http://farm6.staticflickr.com/5786/22392573410_06c9feccca_b.jpg"
