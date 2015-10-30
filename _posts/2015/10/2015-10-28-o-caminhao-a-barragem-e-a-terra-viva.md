@@ -36,6 +36,7 @@ releated_posts:
   - 2015/10/2015-10-24-o-menino-de-107-anos-do-mst.md
   - 2015/10/2015-10-27-assentamento-do-rs-conquista-selo-identificador-da-producao-organica.md
 sector: production
+section: featured-news
 
 ---
 <figure class="image"><img alt="aldir.jpg" src="http://farm1.staticflickr.com/713/22524478526_755e695650_b.jpg" />
