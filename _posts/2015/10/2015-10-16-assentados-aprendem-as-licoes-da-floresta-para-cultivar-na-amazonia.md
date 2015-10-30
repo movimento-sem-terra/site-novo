@@ -69,12 +69,7 @@ releated_posts:
   - 2015/06/2015-06-19-faz-parte-da-reforma-agraria-a-disputa-do-modelo-de-producao-para-a-agricultura-afirma-dirigente.md
 
 ---
-<p><img alt="1Ferreira 03(1)!!!!.jpg" src="http://farm1.staticflickr.com/602/22168468430_5ccc6f11a1_b.jpg" /><img alt="1Ferreira 03(1)!.jpg" src="http://farm1.staticflickr.com/687/22034859289_005260a6e1_b.jpg" /></p>
-
-<p><br />
-<em>Em prepara&ccedil;&atilde;o &agrave; <strong><a href="http://www.mst.org.br/feira-reforma-agraria/" target="_blank">1&deg; Feira Nacional da Reforma Agr&aacute;ria</a></strong>, que acontece entre os dias 22 a 25/10, no Parque da &Aacute;gua Branca, em S&atilde;o Paulo, a P&aacute;gina do MST traz uma s&eacute;rie de entrevistas, reportagens e artigos sobre experi&ecirc;ncias de produ&ccedil;&atilde;o agr&iacute;cola nas &aacute;reas de assentamento, al&eacute;m do atual debate em torno da disputa entre dois modelos agr&iacute;colas para o campo brasileiro: o agroneg&oacute;cio vs a agroecologia.&nbsp;</em></p>
-
-<p>&nbsp;</p>
+<p><img alt="1Ferreira 03(1)!.jpg" src="http://farm1.staticflickr.com/687/22034859289_005260a6e1_b.jpg" /></p>
 
 <p><br />
 <em>Por Solange Engelmann (<span style="line-height: 20.8px;">Texto e fotos)</span><br />
