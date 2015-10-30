@@ -6,7 +6,7 @@ tags:
   - tag: reforma-agrária
 title: "\"Aprendemos a sonhar e a conquistar sonhos, e ainda sonhamos com o socialismo”, afirma Sem Terra sobre a 1° ocupação do MST"
 images_hd: "http://farm1.staticflickr.com/607/22601870155_e4e653df48_b.jpg"
-section: cover
+section: null
 menu: reforma agrária
 support_line: "Na madrugada de 29/10 de 1985 7 mil famílias cortaram a cerca do latifúndio de 9.300 hectares, a 1° ocupação do MST."
 layout: post
