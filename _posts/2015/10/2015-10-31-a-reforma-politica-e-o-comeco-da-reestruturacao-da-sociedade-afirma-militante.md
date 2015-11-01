@@ -37,19 +37,19 @@ Na manh&atilde; deste s&aacute;bado (31), foram realizadas as primeiras atividad
 Durante tr&ecirc;s dias os jovens v&atilde;o discutir o atual cen&aacute;rio da crise pol&iacute;tica e econ&ocirc;mica. Al&eacute;m de debater a constru&ccedil;&atilde;o de um projeto de sociedade mais justo e igualit&aacute;rio.</p>
 
 <p><br />
-Na mesa: &ldquo;A crise t&aacute; pegando. E agora?&rdquo;, Katty&nbsp;Hellen, militante do Levante Popular da Juventude, destacou que a popula&ccedil;&atilde;o brasileira obteve avan&ccedil;os significativos na &uacute;ltima d&eacute;cada, portanto, o projeto neodesenvolvimentista fracassou, dando origem a atual instabilidade pol&iacute;tica e econ&ocirc;mica que aponta para a necessidade de uma reforma no sistema pol&iacute;tico brasileiro.</p>
+Na mesa: &ldquo;A crise t&aacute; pegando. E agora?&rdquo;, Katty&nbsp;Hellen, militante do Levante Popular da Juventude, destacou que a popula&ccedil;&atilde;o brasileira obteve avan&ccedil;os significativos na &uacute;ltima d&eacute;cada. No entanto, o projeto neodesenvolvimentista fracassou, dando origem &agrave; atual instabilidade econ&ocirc;mica que aponta para a necessidade de uma reforma pol&iacute;tica no sistema pol&iacute;tico brasileiro.&nbsp;</p>
 
 <p><br />
-&nbsp;&ldquo;A reforma pol&iacute;tica &eacute; o come&ccedil;o da reestrutura&ccedil;&atilde;o da sociedade. A juventude tem papel fundamental neste processo, deve estar ao lado da classe trabalhadora e se juntar &agrave; luta&rdquo;, afirmou Katty.</p>
+&ldquo;A reforma pol&iacute;tica &eacute; o come&ccedil;o da reestrutura&ccedil;&atilde;o da sociedade. A juventude tem papel fundamental neste processo, deve estar ao lado da classe trabalhadora e se juntar &agrave; luta&rdquo;, afirmou Katty.</p>
 
 <p><br />
-De acordo Cleidinei Zavaski, da coordena&ccedil;&atilde;o do MST no DF, a crise pela qual o pa&iacute;s passa &eacute; uma anormalidade global e se d&aacute; pela reorganiza&ccedil;&atilde;o das for&ccedil;as produtivas. Ou seja, a minoria rica recria mecanismos para manter a sua taxa de lucro em detrimento da classe trabalhadora, com aumento da explora&ccedil;&atilde;o e retirada de direitos.</p>
+De acordo Cledinei Zavaski, da coordena&ccedil;&atilde;o do MST no DF, a crise pela qual o pa&iacute;s passa &eacute; uma anormalidade global e se d&aacute; pela reorganiza&ccedil;&atilde;o das for&ccedil;as produtivas. Ou seja, a minoria rica recria mecanismos para manter a sua taxa de lucro em detrimento da classe trabalhadora, com aumento da explora&ccedil;&atilde;o e retirada de direitos.</p>
 
 <p><br />
 Para Zavaski, diante do ataque do capital, os desafios da juventude brasileira s&atilde;o enormes. Entre eles est&aacute; o enfrentamento da pauta conservadora, avan&ccedil;ar na luta pela manuten&ccedil;&atilde;o dos direitos e novas conquistas para a classe trabalhadora, articular e se solidarizar com todas as categorias e retomar o trabalho de base para o processo de organiza&ccedil;&atilde;o pol&iacute;tica e consci&ecirc;ncia coletiva.</p>
 
 <p><br />
-Ainda pela manh&atilde;, movimentos e organiza&ccedil;&otilde;es sociais e sindicais, como o Movimento dos Pequenos Agricultores (MPA), Movimento de Luta pela Terra (MLT), Movimentos dos estudantes de servi&ccedil;o social (MESS), Central dos Trabalhadores do Brasil (CTB), sindicatos dos professores (Sinpro-DF), saudaram a juventude presente no acampamento.</p>
+Ainda pela manh&atilde;, movimentos e organiza&ccedil;&otilde;es sociais e sindicais, como o Movimento dos Pequenos Agricultores (MPA), Movimento de Luta pela Terra (MLT), a Central dos Trabalhadores do Brasil (CTB), sindicatos dos professores (Sinpro-DF), saudaram a juventude presente no acampamento.</p>
 
 <p><br />
 A embaixadora da Venezuela, Maria Urbaneja Durant, destacou o papel da juventude e disse que a for&ccedil;a para poss&iacute;veis mudan&ccedil;as est&aacute; em espa&ccedil;os como o Acampamento.</p>
