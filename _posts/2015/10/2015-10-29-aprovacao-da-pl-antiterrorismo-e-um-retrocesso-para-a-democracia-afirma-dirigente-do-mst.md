@@ -51,7 +51,7 @@ Da P&aacute;gina do MST</em></p>
 Ap&oacute;s mais de duas horas de discuss&atilde;o intensa, o plen&aacute;rio do Senado aprovou, nesta quarta-feira (28), por 34 votos a favor e 18 contra, o Projeto de Lei 2016/15 que tipifica o crime de terrorismo e formula o conceito de organiza&ccedil;&atilde;o terrorista no pa&iacute;s.</p>
 
 <p><br />
-O texto da PL 2016/15, que em agosto foi votado pelo plen&aacute;rio da C&acirc;mara dos deputados, &eacute;&nbsp;<span style="line-height: 20.8px;">de autoria do Poder Executivo e conta com assinaturas dos ministros Joaquim Levy (Fazenda) e Jos&eacute; Eduardo Cardozo (Justi&ccedil;a), e&nbsp;</span>teve ader&ecirc;ncia de todos os partidos, com exce&ccedil;&atilde;o de PSOL e PC do B.</p>
+O texto da PL 2016/15, que em agosto foi votado pelo plen&aacute;rio da C&acirc;mara dos deputados <span style="line-height: 20.8px;">e&nbsp;</span><span style="line-height: 20.8px;">teve ader&ecirc;ncia de todos os partidos, com exce&ccedil;&atilde;o de PSOL e PC do B</span>, &eacute;&nbsp;<span style="line-height: 20.8px;">de autoria do Poder Executivo e conta com assinaturas dos ministros Joaquim Levy (Fazenda) e Jos&eacute; Eduardo Cardozo (Justi&ccedil;a).</span></p>
 
 <p><br />
 O PL&nbsp;continha um artigo em que assegurava que ele n&atilde;o se aplicaria &quot;&agrave; conduta individual ou coletiva de pessoas em manifesta&ccedil;&otilde;es pol&iacute;ticas, movimentos sociais, sindicais, religiosos, de classe ou categoria profissional, direcionados por prop&oacute;sitos sociais ou reivindicat&oacute;rios, visando contestar, criticar, protestar ou apoiar, com o objetivo de defender direitos, garantias e liberdades constitucionais, sem preju&iacute;zo da tipifica&ccedil;&atilde;o penal contida na lei.&quot;</p>
