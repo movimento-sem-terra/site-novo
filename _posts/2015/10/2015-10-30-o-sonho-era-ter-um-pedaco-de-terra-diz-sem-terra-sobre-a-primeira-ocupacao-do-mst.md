@@ -8,7 +8,7 @@ images_hd: "http://farm1.staticflickr.com/595/22421213650_3341363aec_b.jpg"
 title: "Sem Terra contam a história da primeira ocupação realizada pelo MST, há 30 anos"
 support_line: "Reportagem conta a história da ocupação da Fazenda Annoni, realizada pelo MST há 30 anos, no Rio Grande do Sul."
 menu: reforma agrária
-section: cover
+section: featured-news
 layout: post
 files:
   - link: "http://farm1.staticflickr.com/595/22421213650_3341363aec_b.jpg"
