@@ -39,7 +39,7 @@ Machismo, homofobia e racismo foram os temas discutidos na mesa &ldquo;Levante-s
 Na abertura da mesa, Laura Lyrio, da coordena&ccedil;&atilde;o do Levante, destacou ser fundamental debater a quest&atilde;o dos direitos das mulheres para o rompimento do machismo e da viol&ecirc;ncia.</p>
 
 <p><br />
-Para ela, &ldquo;vivemos num contexto de viola&ccedil;&atilde;o dos direitos das mulheres e da classe trabalhadora e muitas vezes somos violados duplamente&rdquo;, a mulher com o machismo, o negro com o racismo e o movimento LGBT com a homofobia.&nbsp;</p>
+Para ela, &ldquo;vivemos num contexto de viola&ccedil;&atilde;o dos direitos das mulheres e da classe trabalhadora e muitas vezes somos violados duplamente, a mulher com o machismo, o negro com o racismo e o movimento LGBT com a homofobia.&quot;&nbsp;</p>
 
 <p><br />
 Diante disso, Laura ressaltou que s&oacute; &eacute; poss&iacute;vel transformar essa situa&ccedil;&atilde;o e ocupar mais espa&ccedil;os de poder com a organiza&ccedil;&atilde;o da juventude.</p>
