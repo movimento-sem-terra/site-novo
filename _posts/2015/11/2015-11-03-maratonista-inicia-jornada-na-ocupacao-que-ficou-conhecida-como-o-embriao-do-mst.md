@@ -47,13 +47,13 @@ releated_posts:
   - 2015/09/2015-09-03-durante-maratona-jornalista-visita-o-assentamento-safra-a-mae-de-todos.md
 
 ---
-<p><img alt="29-abre.jpg" src="http://farm1.staticflickr.com/694/22759284201_2400ca3f1d_b.jpg" /></p>
+<p><img alt="29-estrada-va.jpg" src="http://farm6.staticflickr.com/5822/22125313764_ce9664f43f_b.jpg" /></p>
 
 <p><br />
 <em>Por&nbsp;Rodolfo Lucena<br />
 Do Blog Maratonando com o MST</em></p>
 
-<p>&nbsp;</p>
+<p><em>Fotos: Eleonora de Lucena&nbsp;</em></p>
 
 <p><br />
 Uma corrida internacional partindo da Encruzilhada Natalino, no noroeste do Rio Grande do Sul, marcou o in&iacute;cio da jornada sulista do projeto Maratonando com o MST. Jovens do M&eacute;xico, da Col&ocirc;mbia, da Argentina, da Noruega, do Paraguai e do Brasil, mais uma dupla de veteranos brasileiros integraram a turma que se reuniu em frente &agrave; est&aacute;tua do casal de agricultores que lembra a campanha heroica dos pioneiros da luta pelo direito &agrave; terra para quem trabalha nela.</p>
