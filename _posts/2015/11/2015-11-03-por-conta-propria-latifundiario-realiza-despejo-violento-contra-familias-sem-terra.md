@@ -5,7 +5,7 @@ tags:
   - tag: despejo
   - tag: violência
   - tag: latifúndio
-title: "Por conta própria, latifundiário realiza despejo violento contra famílias Sem Terra"
+title: Latifundiário realiza despejo por conta própria e destrói barracos e plantações
 menu: direitos humanos
 images_hd: "http://farm6.staticflickr.com/5811/22732213542_099f5277cc_b.jpg"
 support_line: "Cerca de 230 famílias foram despejadas violentamente da Fazenda Pedra Redonda, no extremo sul da Bahia"
