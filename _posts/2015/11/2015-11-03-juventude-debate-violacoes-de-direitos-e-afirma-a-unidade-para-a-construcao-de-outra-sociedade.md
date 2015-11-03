@@ -29,7 +29,7 @@ releated_posts:
 <p><img alt="mesa.jpg" src="http://farm1.staticflickr.com/751/22738580072_ac252cff59_b.jpg" /></p>
 
 <p><br />
-<em>Por Iris Pacheco<br />
+<em>Por Roberta Quintino<br />
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
