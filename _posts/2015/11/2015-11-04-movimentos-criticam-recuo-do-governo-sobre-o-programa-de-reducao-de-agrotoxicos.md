@@ -22,6 +22,7 @@ releated_posts:
   - 2015/09/2015-09-30-parlamento-alemao-convida-cientista-brasileira-para-debate-sobre-proibicao-do-glifosato.md
   - 2015/10/2015-10-06-monsanto-comeca-a-dar-adeus-ao-glifosato-mas-isso-nao-e-uma-boa-noticia.md
   - 2015/10/2015-10-30-transgenicos-nao-sao-alimentos-e-sim-mercadorias-aponta-medico-argentino.md
+section: cover
 
 ---
 <p><img alt="5 conf.jpg" src="http://farm6.staticflickr.com/5706/22600197150_d07386e9a7_b.jpg" /><br />
