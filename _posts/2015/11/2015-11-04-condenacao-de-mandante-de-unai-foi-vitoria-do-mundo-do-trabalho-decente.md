@@ -24,7 +24,7 @@ releated_posts:
   - 2015/10/2015-10-26-em-nota-mst-repudia-projeto-que-trata-do-estatuto-da-familia.md
   - 2015/10/2015-10-27-contra-o-genocidio-dos-povos-indigenas-movimentos-pedem-boicote-ao-agronegocio.md
   - 2015/10/2015-10-14-casos-de-violencia-com-indigenas-aumentaram-131-aponta-relatorio.md
-section: cover
+section: null
 
 ---
 <p><img alt="Ag-Br-chacina-de-unai.jpg" src="http://farm1.staticflickr.com/760/22788773751_c0bb59cc8e_b.jpg" /><br />
