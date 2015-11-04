@@ -6,7 +6,7 @@ tags:
   - tag: ligas-camponesas
   - tag: joão-pedro-teixeira
 images_hd: "http://farm6.staticflickr.com/5643/22154562194_cc81723f30_b.jpg"
-title: Marcada para viver. Entrevista ex-líder camponesa Elizabeth Teixeira
+title: Marcada para viver. Entrevista com a ex-líder camponesa Elizabeth Teixeira
 support_line: "\"Todos os dias, quando João Pedro saia, ele me abraçava e dizia: 'minha filha, vão tirar minha vida' - e nossos filhinhos todos em volta. 'Você continua a minha luta?'. Eu nunca tive resposta para isso, ficava calada.\" "
 menu: reforma agrária
 label: interviews
