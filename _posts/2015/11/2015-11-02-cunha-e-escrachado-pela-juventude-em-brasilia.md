@@ -5,7 +5,7 @@ tags:
 title: Cunha é escrachado pela juventude em Brasília
 support_line: "Cerca de 400 jovens escracharam o presidente da Câmara, deputado federal Eduardo Cunha (PMDB-RJ) em sua casa, localizada na chamada ‘Península dos Ministros’ do Lago Sul, em Brasília."
 menu: lutas e mobilizações
-images_hd: "http://farm6.staticflickr.com/5835/22098935133_d033b52d84_b.jpg"
+images_hd: "http://farm6.staticflickr.com/5663/22097244624_2da9827254_b.jpg"
 layout: post
 files:
   - link: "http://farm6.staticflickr.com/5706/22098790183_579d1bb380_b.jpg"
@@ -46,7 +46,7 @@ releated_posts:
   - 2015/06/2015-06-01-moroni-reforma-politica-do-eduardo-cunha-e-um-deboche-com-o-povo-brasileiro.md
   - 2015/06/2015-06-02-movimentos-sociais-denunciam-cunha-e-os-84-deputados-que-mudaram-seus-votos.md
   - 2015/05/2015-05-25-em-brasilia-mais-de-mil-pessoas-preparam-protesto-contra-pec-da-corrupcao.md
-section: cover
+section: featured-news
 
 ---
 <p style="text-align:center"><img alt="Cunha 3.jpg" height="338" src="http://farm6.staticflickr.com/5706/22098790183_579d1bb380_b.jpg" width="600" /></p>
