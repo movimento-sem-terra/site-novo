@@ -32,15 +32,13 @@ releated_posts:
   - 2015/09/2015-09-07-curso-popular-reune-mais-de-1000-jovens-no-ceara.md
 
 ---
-<p><img alt="1.jpg" height="494" src="http://farm6.staticflickr.com/5689/22389057667_0fa2d535e3_b.jpg" width="700" /></p>
+<p><img alt="21036535319_dc7af0a514_b.jpg" src="http://farm6.staticflickr.com/5662/22415476989_ab411fdc65_b.jpg" /></p>
 
-<p>&nbsp;</p>
+<p><br />
+<em>Da P&aacute;gina do MST&nbsp;</em></p>
 
-<p><em>Da P&aacute;gina do MST&nbsp;</em></p>
-
-<p>&nbsp;</p>
-
-<p>Entre os dias 16 e 19 de novembro jovens de todo o estado de Pernambuco realizam Acampamento Popular da Juventude&nbsp;Campo e Cidade no campus da Universidade Federal do Pernambuco, em Recife.</p>
+<p><br />
+Entre os dias 16 e 19 de novembro jovens de todo o estado de Pernambuco realizam Acampamento Popular da Juventude&nbsp;Campo e Cidade no campus da Universidade Federal do Pernambuco, em Recife.</p>
 
 <p><br />
 O objetivo &eacute; debater o atual cen&aacute;rio pol&iacute;tico nacional e o papel da&nbsp;juventude na&nbsp;constru&ccedil;&atilde;o de&nbsp;um projeto de pa&iacute;s verdadeiramente popular.</p>
@@ -52,15 +50,18 @@ Ser&atilde;o quatro dias de mesas tem&aacute;ticas, oficinas e atos pol&iacute;t
 A Coordenadora Nacional do Levante Popular da Juventude, Iyal&ecirc; Thayrine, destaca a necessidade da&nbsp;juventude se organizar&nbsp;para reagir ao movimento reacion&aacute;rio liderado pela C&acirc;mara Federal, que visa&nbsp;a supress&atilde;o de direitos dos trabalhadores e das trabalhadoras.</p>
 
 <p><br />
-&ldquo;Precisamos falar sobre todos esses ataques do Congresso Nacional, pensar respostas a essa conjuntura de avan&ccedil;o do conservadorismo e da opress&atilde;o sofrida pela classe trabalhadora&rdquo;, diz.</p>
+&ldquo;Precisamos falar sobre todos esses ataques do Congresso Nacional, pensar respostas a essa conjuntura de avan&ccedil;o do conservadorismo e da opress&atilde;o sofrida pela classe trabalhadora&rdquo;, diz.<br />
+&nbsp;</p>
 
-<p><br />
+<p><img alt="1.jpg" src="http://farm6.staticflickr.com/5689/22389057667_0fa2d535e3_b.jpg" /><br />
+<br />
 <strong>Programa&ccedil;&atilde;o</strong></p>
 
 <p><br />
 O acampamento traz no primeiro dia uma mesa tem&aacute;tica sobre &ldquo;O papel da Juventude no cen&aacute;rio pol&iacute;tico atual&rdquo;. Nos dois dias seguintes, 17 e 18, as mesas t&ecirc;m como temas, respectivamente, &ldquo;Combate ao racismo, machismo e LGBTfobia&rdquo; e &ldquo;Ajuste fiscal, pela taxa&ccedil;&atilde;o das grandes fortunas e em defesa da Petrobr&aacute;s&rdquo;.&nbsp;</p>
 
-<p>Ainda para Iyal&ecirc;, o&nbsp;acampa &eacute; um espa&ccedil;o muito importante para&nbsp;troca de conhecimento, experi&ecirc;ncias e viv&ecirc;ncias, al&eacute;m de ser um espa&ccedil;o de forma&ccedil;&atilde;o.</p>
+<p><br />
+Ainda para Iyal&ecirc;, o&nbsp;acampa &eacute; um espa&ccedil;o muito importante para&nbsp;troca de conhecimento, experi&ecirc;ncias e viv&ecirc;ncias, al&eacute;m de ser um espa&ccedil;o de forma&ccedil;&atilde;o.</p>
 
 <p><br />
 &ldquo;Vamos trazer tamb&eacute;m a quest&atilde;o da subrepresentatividade do povo nos espa&ccedil;os de poder, problema causado pelo sistema pol&iacute;tico vigente. Este cen&aacute;rio nos coloca a urg&ecirc;ncia de uma Constituinte Exclusiva e Soberana do sistema pol&iacute;tico. Precismos ter a popula&ccedil;&atilde;o verdadeiramente no poder, tomando as decis&otilde;es. E &eacute; fundamental que a juventude pernambucana esteja a par destes debates e se junte nessa constru&ccedil;&atilde;o&rdquo;, pontua.</p>
@@ -70,5 +71,3 @@ O Acampamento Popular da Juventude&nbsp;Campo e Cidade &eacute; organizado pelas
 
 <p><br />
 O encontro tem apoio da Universidade Federal de Pernambuco (UFPE).&nbsp;As inscri&ccedil;&otilde;es s&atilde;o gratuitas e podem ser feitas pelo link:&nbsp;<a href="http://bit.ly/acampalevantepe" target="_blank">http://bit.ly/acampalevantepe</a>.</p>
-
-<p>&nbsp;</p>
