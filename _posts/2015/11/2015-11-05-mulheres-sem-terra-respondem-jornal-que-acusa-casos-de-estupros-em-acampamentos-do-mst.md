@@ -41,7 +41,9 @@ releated_posts:
 <em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Nesta quarta-feira (4), sem nenhum fundamento, o Jornal Correio do Povo publicou um artigo do colunista Jo&atilde;o Muniz, &ldquo;o Matuto&rdquo;, alegando que as mulheres gr&aacute;vidas nos acampamentos do MST seriam v&iacute;timas de estupros dentro destes espa&ccedil;os.</p>
+Nesta quarta-feira (4), sem nenhum fundamento, o Jornal Correio do Povo publicou um artigo do colunista Jo&atilde;o Muniz, &ldquo;o Matuto&rdquo;, alegando que mulheres gr&aacute;vidas de dois acampamentos do MST no Paran&aacute; seriam v&iacute;timas de estupros dentro destes espa&ccedil;os.</p>
+
+<p>&nbsp;</p>
 
 <p><br />
 Em nota, o coletivo de mulheres do MST e a dire&ccedil;&atilde;o regional do Movimento repudiam o artigo intitulado &ldquo;Os filhos do St&eacute;dile e do Seriguelli&rdquo;.</p>
