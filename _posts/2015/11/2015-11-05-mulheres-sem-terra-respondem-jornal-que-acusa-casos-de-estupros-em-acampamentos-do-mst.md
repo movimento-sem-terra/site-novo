@@ -37,10 +37,11 @@ releated_posts:
 <figcaption>Mais de 2.500 fam&iacute;lias ocupam a &aacute;rea grilada da Araupel, no Paran&aacute;</figcaption>
 </figure>
 
-<p><em>Da P&aacute;gina do MST</em></p>
+<p><br />
+<em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Nesta quarta-feira (4), o Jornal Correio do Povo publicou um artigo do colunista Jo&atilde;o Muniz, &ldquo;o Matuto&rdquo;, alegando que as mulheres gr&aacute;vidas nos acampamentos seriam v&iacute;timas de estupros dentro destes espa&ccedil;os.</p>
+Nesta quarta-feira (4), sem nenhum fundamento, o Jornal Correio do Povo publicou um artigo do colunista Jo&atilde;o Muniz, &ldquo;o Matuto&rdquo;, alegando que as mulheres gr&aacute;vidas nos acampamentos do MST seriam v&iacute;timas de estupros dentro destes espa&ccedil;os.</p>
 
 <p><br />
 Em nota, o coletivo de mulheres do MST e a dire&ccedil;&atilde;o regional do Movimento repudiam o artigo intitulado &ldquo;Os filhos do St&eacute;dile e do Seriguelli&rdquo;.</p>
