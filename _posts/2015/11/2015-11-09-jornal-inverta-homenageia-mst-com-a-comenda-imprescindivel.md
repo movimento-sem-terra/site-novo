@@ -38,7 +38,7 @@ releated_posts:
 Entre os dias 6 e 7 de novembro aconteceu na Universidade Estadual do Rio de Janeiro (UERJ), o X Semin&aacute;rio Internacional de Lutas contra o Neoliberalismo&nbsp;</p>
 
 <p><br />
-O encontro contou com participa&ccedil;&atilde;o de mais de 500 pessoas e reuniu v&aacute;rios intelectuais de universidades brasileiras, dirigentes de movimentos populares e representa&ccedil;&otilde;es diplom&aacute;ticas de pa&iacute;ses como Venezuela, Cuba, Coreia do Norte, Nicar&aacute;gua e Bol&iacute;via.</p>
+O encontro contou com participa&ccedil;&atilde;o de mais de 500 pessoas e reuniu v&aacute;rios intelectuais de universidades brasileiras, dirigentes de movimentos populares e representa&ccedil;&otilde;es diplom&aacute;ticas de pa&iacute;ses, como Venezuela, Cuba, Coreia do Norte, Nicar&aacute;gua e Bol&iacute;via.</p>
 
 <p><br />
 Os debates analisaram a crise do sistema capitalista e apontaram propostas de supera&ccedil;&atilde;o. O resultado das discuss&otilde;es est&aacute; na declara&ccedil;&atilde;o do evento que pode ser acessada aqui.&nbsp;</p>
@@ -47,7 +47,4 @@ Os debates analisaram a crise do sistema capitalista e apontaram propostas de su
 Durante o semin&aacute;rio, o Jornal Inverta, que acaba de completar 24 anos, homenageou v&aacute;rios lutadores sociais com a Comenda Imprescind&iacute;vel.</p>
 
 <p><br />
-Entre os homenageados estavam Joao Pedro Stedile da coordena&ccedil;&atilde;o nacional do MST, que foi premiado como uma das mais importantes lideran&ccedil;as nacionais dos trabalhadores brasileiros.</p>
-
-<p><br />
-A medalha foi recebida em nome de Jo&atilde;o Pedro Stedile, por Joaquin Pinero da coordena&ccedil;&atilde;o nacional do MST no Rio de Janeiro.</p>
+Entre os homenageados estavam Jo&atilde;o Pedro Stedile, da coordena&ccedil;&atilde;o nacional do MST, que foi premiado como uma das mais importantes lideran&ccedil;as nacionais dos trabalhadores brasileiros.&nbsp;A medalha foi recebida&nbsp;por Joaquin Pinero, da coordena&ccedil;&atilde;o nacional do MST no Rio de Janeiro.</p>
