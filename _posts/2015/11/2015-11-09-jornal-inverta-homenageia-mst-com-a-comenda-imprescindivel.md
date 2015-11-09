@@ -31,30 +31,23 @@ releated_posts:
 ---
 <p><img alt="DSC_0866.JPG" height="463" src="http://farm1.staticflickr.com/738/22278199203_933393c561_b.jpg" width="700" /></p>
 
-<p>&nbsp;</p>
+<p><br />
+<em>Da P&aacute;gina do MST&nbsp;</em></p>
 
-<p><em>Da P&aacute;gina do MST&nbsp;</em></p>
+<p><br />
+Entre os dias 6 e 7 de novembro aconteceu na Universidade Estadual do Rio de Janeiro (UERJ), o X Semin&aacute;rio Internacional de Lutas contra o Neoliberalismo&nbsp;</p>
 
-<p>&nbsp;</p>
+<p><br />
+O encontro contou com participa&ccedil;&atilde;o de mais de 500 pessoas e reuniu v&aacute;rios intelectuais de universidades brasileiras, dirigentes de movimentos populares e representa&ccedil;&otilde;es diplom&aacute;ticas de pa&iacute;ses como Venezuela, Cuba, Coreia do Norte, Nicar&aacute;gua e Bol&iacute;via.</p>
 
-<p>Entre os dias 6 e 7 de novembro aconteceu <span style="line-height: 20.8px;">na Universidade&nbsp;Estadual do&nbsp;Rio de Janeiro (UERJ),&nbsp;</span>o X Semin&aacute;rio Internacional de Lutas contra o Neoliberalismo&nbsp;</p>
+<p><br />
+Os debates analisaram a crise do sistema capitalista e apontaram propostas de supera&ccedil;&atilde;o. O resultado das discuss&otilde;es est&aacute; na declara&ccedil;&atilde;o do evento que pode ser acessada aqui.&nbsp;</p>
 
-<p>&nbsp;</p>
+<p><br />
+Durante o semin&aacute;rio, o Jornal Inverta, que acaba de completar 24 anos, homenageou v&aacute;rios lutadores sociais com a Comenda Imprescind&iacute;vel.</p>
 
-<p>O encontro&nbsp;contou com participa<span style="line-height: 20.8px;">&ccedil;&atilde;o</span>&nbsp;de mais de 500 pessoas e reuniu v&aacute;rios intelectuais de&nbsp;universidades brasileiras, dirigentes de movimentos populares e representa&ccedil;&otilde;es diplom&aacute;ticas de pa&iacute;ses como Venezuela, Cuba, Coreia do Norte, Nicar&aacute;gua e Bol&iacute;via.</p>
+<p><br />
+Entre os homenageados estavam Joao Pedro Stedile da coordena&ccedil;&atilde;o nacional do MST, que foi premiado como uma das mais importantes lideran&ccedil;as nacionais dos trabalhadores brasileiros.</p>
 
-<p>&nbsp;</p>
-
-<p>Os debates&nbsp;analisaram&nbsp;a crise do sistema capitalista e apontaram&nbsp;propostas de supera&ccedil;&atilde;o. O resultado das discuss&otilde;es est&aacute;&nbsp;na declara&ccedil;&atilde;o do evento que pode ser acessada <a href="http://www.ceppes.org.br/seminario">aqui</a>.&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>Durante o semin&aacute;rio, o Jornal Inverta, que acaba de completar 24 anos, homenageou v&aacute;rios lutadores sociais com a Comenda Imprescind&iacute;vel.</p>
-
-<p>&nbsp;</p>
-
-<p>Entre os homenageados estavam&nbsp;Joao Pedro Stedile&nbsp;<span style="color: rgb(0, 0, 0); font-family: Arial, sans-serif; line-height: 18.5714px;">da coordena&ccedil;&atilde;o nacional do MST,&nbsp;que foi premiado&nbsp;</span>como uma&nbsp;das mais importantes lideran&ccedil;as nacionais dos trabalhadores brasileiros.</p>
-
-<p>&nbsp;</p>
-
-<p>A medalha foi recebida em nome de Jo&atilde;o&nbsp;Pedro Stedile, por Joaquin Pinero da coordena&ccedil;&atilde;o nacional do MST no Rio de Janeiro.</p>
+<p><br />
+A medalha foi recebida em nome de Jo&atilde;o Pedro Stedile, por Joaquin Pinero da coordena&ccedil;&atilde;o nacional do MST no Rio de Janeiro.</p>
