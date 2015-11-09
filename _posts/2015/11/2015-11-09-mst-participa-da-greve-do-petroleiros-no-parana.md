@@ -4,7 +4,7 @@ tags:
   - tag: petrobrás
   - tag: lutas-e-mobilizações
   - tag: solidariedade
-title: MST participa da greve do petroleiros no Paraná
+title: MST participa da greve dos petroleiros no Paraná
 images_hd: "http://farm1.staticflickr.com/722/22906113351_1220f3a1e6_b.jpg"
 support_line: "200 trabalhadores das áreas de Reforma Agrária estão acampados junto aos petroleiros, petroquímicos, e membros da CUT."
 menu: lutas e mobilizações
