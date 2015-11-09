@@ -7,7 +7,7 @@ tags:
 title: Diversos movimentos escrevem carta em apoio à greve dos petroleiros
 support_line: "Os petroleiros alegam que a maior empresa nacional sofre graves ataques que já estariam afetando a economia do país e comprometendo milhões de empregos. "
 menu: projeto popular
-section: cover
+section: null
 images_hd: "http://farm1.staticflickr.com/750/22906828111_f4df72d1d6_b.jpg"
 layout: post
 files:
