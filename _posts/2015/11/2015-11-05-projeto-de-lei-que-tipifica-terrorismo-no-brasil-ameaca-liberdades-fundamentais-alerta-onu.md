@@ -30,7 +30,7 @@ releated_posts:
   - 2015/08/2015-08-13-camara-aprova-lei-antiterror-que-pode-criminalizar-movimentos-populares.md
   - 2015/08/2015-08-14-para-mst-pl-antiterrorismo-e-absurdo-e-pedira-veto-em-reuniao-com-dilma.md
   - 2015/10/2015-10-29-aprovacao-da-pl-antiterrorismo-e-um-retrocesso-para-a-democracia-afirma-dirigente-do-mst.md
-section: cover
+section: featured-news
 
 ---
 <p><img alt="contra a criminalização.jpg" src="http://farm1.staticflickr.com/764/22382935938_7e5955113c_b.jpg" /></p>
