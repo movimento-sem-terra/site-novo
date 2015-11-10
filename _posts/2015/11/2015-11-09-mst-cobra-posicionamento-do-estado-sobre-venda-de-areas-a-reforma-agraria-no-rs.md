@@ -37,7 +37,9 @@ releated_posts:
 Ap&oacute;s cumprirem acordo firmado na semana passada para sair de fazendas ocupadas no Rio Grande do Sul, dirigentes do MST se reuniram com secret&aacute;rios do governo ga&uacute;cho, nesta segunda-feira (9), para tratar sobre a desapropria&ccedil;&atilde;o de &aacute;reas, como da Companhia Nacional de Silos e Armaz&eacute;m (CESA), da Companhia Estadual de Energia El&eacute;trica (CEEE) e Instituto Rio Grandense do Arroz (IRGA).&nbsp;</p>
 
 <p><br />
-O deputado Edegar Pretto (PT), um dos mediadores das negocia&ccedil;&otilde;es do Movimento, explicou que foram apresentadas as &aacute;reas de interesse para fins de aquisi&ccedil;&atilde;o e Reforma Agr&aacute;ria.&nbsp;<br />
+O deputado Edegar Pretto (PT), um dos mediadores das negocia&ccedil;&otilde;es do Movimento, explicou que foram apresentadas as &aacute;reas de interesse para fins de aquisi&ccedil;&atilde;o e Reforma Agr&aacute;ria.&nbsp;</p>
+
+<p><br />
 A superintend&ecirc;ncia do Incra/RS tem interesse para comprar duas &aacute;reas da CESA em Vit&oacute;ria das Miss&otilde;es e Cruz Alta; duas &aacute;reas da CEEE em Charqueadas e Candiota; e uma &aacute;rea do IRGA em Palmares do Sul.</p>
 
 <p><br />
