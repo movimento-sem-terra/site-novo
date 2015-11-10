@@ -48,7 +48,7 @@ releated_posts:
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
-O alto &iacute;ndice de analfabetismo no Maranh&atilde;o &eacute; uma das marcas do estado que tem o segundo pior &Iacute;ndice de Desenvolvimento Humano (IDH) do BRasilros.&nbsp;</p>
+O alto &iacute;ndice de analfabetismo no Maranh&atilde;o &eacute; uma das marcas do estado que tem o segundo pior &Iacute;ndice de Desenvolvimento Humano (IDH) dos estados brasileiros.&nbsp;</p>
 
 <p><br />
 Na popula&ccedil;&atilde;o com mais de 15 anos, 20,8% s&atilde;o analfabetos. Essa situa&ccedil;&atilde;o se agrava no meio rural, onde o &iacute;ndice sobe para 40,3%. Trata-se de um contexto onde mais da metade dos munic&iacute;pios do estado possuem baixo IDH, e a cultura pol&iacute;tica &eacute; hegemonizada pelas oligarquias atreladas ao poder econ&ocirc;mico. Mais de 20% da popula&ccedil;&atilde;o vive na extrema pobreza.</p>
