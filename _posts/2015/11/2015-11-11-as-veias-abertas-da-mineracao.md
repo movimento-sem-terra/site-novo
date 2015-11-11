@@ -7,17 +7,17 @@ tags:
   - tag: vale
 title: As Veias Abertas da Mineração
 support_line: "Vivemos a alquimia colonial e neo-colonial, que Galeano escreveu em 1978, onde o ouro se transforma em sucata e os alimentos se convertem em veneno."
-images_hd: "http://farm1.staticflickr.com/763/22523054117_27dd493f48_b.jpg"
+images_hd: "http://farm6.staticflickr.com/5725/22523265748_2ec0ced894_b.jpg"
 menu: direitos humanos
 label: articles
 layout: post
 files:
-  - link: "http://farm1.staticflickr.com/763/22523054117_27dd493f48_b.jpg"
-    thumbnail: "http://farm1.staticflickr.com/763/22523054117_27dd493f48_t.jpg"
-    medium: "http://farm1.staticflickr.com/763/22523054117_27dd493f48_z.jpg"
-    small: "http://farm1.staticflickr.com/763/22523054117_27dd493f48_n.jpg"
-    title: coluna-mam_0.jpg
-    $$hashKey: 0GV
+  - link: "http://farm6.staticflickr.com/5725/22523265748_2ec0ced894_b.jpg"
+    thumbnail: "http://farm6.staticflickr.com/5725/22523265748_2ec0ced894_t.jpg"
+    medium: "http://farm6.staticflickr.com/5725/22523265748_2ec0ced894_z.jpg"
+    small: "http://farm6.staticflickr.com/5725/22523265748_2ec0ced894_n.jpg"
+    title: MinaSamarcoGermano-e1358726311791.jpg
+    $$hashKey: 0SI
 created_date: "2015-11-11T09:43:58-02:00"
 published: true
 releated_posts:
@@ -35,7 +35,8 @@ releated_posts:
   - 2015/07/2015-07-20-papa-condena-a-forma-como-as-empresas-mineradoras-tratam-a-populacao.md
 
 ---
-<p><em>Por Jarbas Vieira*</em></p>
+<p><img alt="MinaSamarcoGermano-e1358726311791.jpg" height="438" src="http://farm6.staticflickr.com/5725/22523265748_2ec0ced894_b.jpg" width="700" /><br />
+<em>Por Jarbas Vieira*</em></p>
 
 <p><em>Do Brasil de Fato</em></p>
 
