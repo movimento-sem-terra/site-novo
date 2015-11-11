@@ -6,7 +6,7 @@ tags:
   - tag: meio-ambiente
   - tag: vale
 title: As Veias Abertas da Mineração
-support_line: "A única coisa que podemos afirmar é a preocupação, sem saber o que será dos próximos períodos, das famílias e dos trabalhadores desaparecidos ou mortos com a catástrofe ocasionada pela irresponsabilidade da empresa."
+support_line: "Vivemos a alquimia colonial e neo-colonial, que Galeano escreveu em 1978, onde o ouro se transforma em sucata e os alimentos se convertem em veneno."
 images_hd: "http://farm1.staticflickr.com/763/22523054117_27dd493f48_b.jpg"
 menu: direitos humanos
 label: articles
@@ -35,7 +35,6 @@ releated_posts:
   - 2015/07/2015-07-20-papa-condena-a-forma-como-as-empresas-mineradoras-tratam-a-populacao.md
 
 ---
-
 <p><em>Por Jarbas Vieira*</em></p>
 
 <p><em>Do Brasil de Fato</em></p>
