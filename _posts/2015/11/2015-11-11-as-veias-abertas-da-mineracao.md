@@ -4,33 +4,38 @@ tags:
   - tag: mineração
   - tag: direitos-humanos
   - tag: meio-ambiente
+  - tag: vale
 title: As Veias Abertas da Mineração
 support_line: "A única coisa que podemos afirmar é a preocupação, sem saber o que será dos próximos períodos, das famílias e dos trabalhadores desaparecidos ou mortos com a catástrofe ocasionada pela irresponsabilidade da empresa."
-images_hd: "http://farm1.staticflickr.com/606/22320111703_53c8fd2948_b.jpg"
+images_hd: "http://farm1.staticflickr.com/763/22523054117_27dd493f48_b.jpg"
 menu: direitos humanos
 label: articles
 layout: post
 files:
-  - link: "http://farm1.staticflickr.com/606/22320111703_53c8fd2948_b.jpg"
-    thumbnail: "http://farm1.staticflickr.com/606/22320111703_53c8fd2948_t.jpg"
-    medium: "http://farm1.staticflickr.com/606/22320111703_53c8fd2948_z.jpg"
-    small: "http://farm1.staticflickr.com/606/22320111703_53c8fd2948_n.jpg"
+  - link: "http://farm1.staticflickr.com/763/22523054117_27dd493f48_b.jpg"
+    thumbnail: "http://farm1.staticflickr.com/763/22523054117_27dd493f48_t.jpg"
+    medium: "http://farm1.staticflickr.com/763/22523054117_27dd493f48_z.jpg"
+    small: "http://farm1.staticflickr.com/763/22523054117_27dd493f48_n.jpg"
     title: coluna-mam_0.jpg
-    $$hashKey: 02X
+    $$hashKey: 0GV
 created_date: "2015-11-11T09:43:58-02:00"
 published: true
 releated_posts:
+  - 2015/03/2015-03-17-mineradora-vale-e-autuada-por-trabalho-escravo.md
+  - 2015/07/2015-07-15-minerio-guerra-se-anuncia.md
+  - 2015/09/2015-09-11-vale-processa-quem-se-manifesta-por-reparacao-e-emprego.md
+  - 2015/11/2015-11-07-chega-de-mortes-destruicao-e-sofrimento-para-saciar-a-voracidade-da-mineracao.md
   - 2015/07/2015-07-22-desigualdade-social-e-exploracao-de-recursos-naturais-estao-diretamente-associados-diz-professor.md
   - 2014/05/2014-05-21-movimentos-chamam-atencao-as-violacoes-de-direitos-pelas-mineradoras.md
   - 2014/05/2014-05-21-movimentos-chamam-atencao-as-violacoes-de-direitos-pelas-mineradoras.md-e
   - 2014/05/2014-05-27-tribunal-popular-julga-atuacao-de-mineradoras-na-america-latina.md
   - 2014/05/2014-05-27-tribunal-popular-julga-atuacao-de-mineradoras-na-america-latina.md-e
   - 2014/12/2014-12-09-na-america-latina-existem-211-conflitos-causados-pela-mineracao.md
-  - 2015/07/2015-07-15-minerio-guerra-se-anuncia.md
   - 2015/07/2015-07-31-carta-aberta-dos-atingidos-pela-mineracao-reunidos-no-vaticano.md
   - 2015/07/2015-07-20-papa-condena-a-forma-como-as-empresas-mineradoras-tratam-a-populacao.md
 
 ---
+
 <p><em>Por Jarbas Vieira*</em></p>
 
 <p><em>Do Brasil de Fato</em></p>
