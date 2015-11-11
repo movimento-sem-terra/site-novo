@@ -31,7 +31,7 @@ releated_posts:
   - 2015/10/2015-10-15-em-alagoas-movimentos-do-campo-se-mobilizam-pelas-terras-do-grupo-joao-lyra.md
   - 2015/06/2015-06-03-em-solidariedade-a-greve-dos-professores-sem-terra-realizam-panfletagem-no-ms.md
   - 2015/06/2015-06-22-o-mst-nunca-vai-esquecer-o-apoio-que-sempre-recebeu-da-classe-operaria-agora-e-o-momento-de-retribuir-a-solidariedade-disse-marcelo-bu.md
-section: featured-news
+section: null
 
 ---
 <p><img alt="10620298_1086098481409100_397516434356386913_o.jpg" src="http://farm1.staticflickr.com/722/22906113351_1220f3a1e6_b.jpg" /></p>
