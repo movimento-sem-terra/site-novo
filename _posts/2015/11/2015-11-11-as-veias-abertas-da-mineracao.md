@@ -36,9 +36,9 @@ releated_posts:
 
 ---
 <p><img alt="MinaSamarcoGermano-e1358726311791.jpg" height="438" src="http://farm6.staticflickr.com/5725/22523265748_2ec0ced894_b.jpg" width="700" /><br />
-<em>Por Jarbas Vieira*</em></p>
-
-<p><em>Do Brasil de Fato</em></p>
+<br />
+<em>Por Jarbas Vieira*<br />
+Do Brasil de Fato</em></p>
 
 <p><br />
 Passados 515 anos da invas&atilde;o da coroa portuguesa sobre o solo e subsolo brasileiro, ainda n&atilde;o conseguimos nos libertar totalmente das amarras coloniais, impostas atrav&eacute;s dos estupros de &iacute;ndias e negras, do genoc&iacute;dio ao povo origin&aacute;rio, da escravid&atilde;o, da religi&atilde;o, do exterm&iacute;nio que at&eacute; hoje o povo preto sofre, entre tantas outras formas de imposi&ccedil;&atilde;o para manter o pa&iacute;s subjugado aos interesses das empresas transnacionais, fazendo do Brasil, como dizia Darcy Ribeiro, uma col&ocirc;nia produtiva baseada na pilhagem dos bens naturais e explora&ccedil;&atilde;o do nosso povo.</p>
@@ -92,4 +92,4 @@ A &uacute;nica coisa que podemos afirmar &eacute; a preocupa&ccedil;&atilde;o, s
 At&eacute; quando iremos manter a l&oacute;gica destrutiva (de todos os pontos de vistas) para satisfazer os interesses das transnacionais? Ser&atilde;o necess&aacute;rios mais quantos trabalhadores mutilados, enlouquecidos e mortos? Quantos rompimentos de barragens ser&atilde;o necess&aacute;rios? Quantas pessoas ser&atilde;o vitimas de c&acirc;ncer, causadas pela explora&ccedil;&atilde;o mineral?</p>
 
 <p><br />
-*Jarbas Vieira &eacute; militante do Movimento pela Soberania Popular na Minera&ccedil;&atilde;o (MAM) e membro do Comit&ecirc; Nacional em Defesa dos Territ&oacute;rios Frente &agrave; Minera&ccedil;&atilde;o.</p>
+<em>*Jarbas Vieira &eacute; militante do Movimento pela Soberania Popular na Minera&ccedil;&atilde;o (MAM) e membro do Comit&ecirc; Nacional em Defesa dos Territ&oacute;rios Frente &agrave; Minera&ccedil;&atilde;o.</em></p>
