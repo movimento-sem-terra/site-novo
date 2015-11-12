@@ -4,7 +4,7 @@ tags:
   - tag: educação-no-campo
   - tag: bahia
   - tag: sem-terrinha
-title: "Em Vitória da Conquista, Sem Terrinha levantam a bandeira da educação do campo"
+title: "Em Vitória da Conquista, Sem Terrinha levantam a bandeira da educação no campo"
 menu: lutas e mobilizações
 images_hd: "http://farm6.staticflickr.com/5632/22780015490_7aa9286785_b.jpg"
 support_line: "Em marcha pelas ruas da cidades, os alunos reafirmaram o compromisso de lutar contra a privatização da educação pública."
