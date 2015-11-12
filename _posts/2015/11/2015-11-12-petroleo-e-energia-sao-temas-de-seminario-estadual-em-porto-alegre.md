@@ -59,3 +59,6 @@ O prop&oacute;sito &eacute; propiciar espa&ccedil;os de di&aacute;logo, articula
 
 <p><br />
 Integram a Plataforma ga&uacute;cha movimentos populares, sindicais e organiza&ccedil;&otilde;es sociais, tais como Federa&ccedil;&atilde;o &Uacute;nica dos Petroleiros (FUP), Movimento dos Trabalhadores Rurais Sem Terra (MST), Movimento dos Atingidos por Barragens (MAB), Movimento dos Pequenos Agricultores (MPA), Movimento das Trabalhadoras e Trabalhadores por Direito (MTD), Levante Popular da Juventude (LPJ), Central dos Trabalhadores e Trabalhadoras do Brasil (CTB), Federa&ccedil;&atilde;o dos Trabalhadores Metal&uacute;rgicos (FTM), Via Campesina, Central &Uacute;nica dos Trabalhadores (CUT), Cpers-Sindicato, entre outros.</p>
+
+<p><br />
+Tamb&eacute;m nesta quinta-feira, a Plataforma ga&uacute;cha movimentos populares, sindicais e organiza&ccedil;&otilde;es sociais, realiza pelas ruas da cidade, uma caminhada em apoio &agrave; greve dos petroleiros, contra a pol&iacute;tica econ&ocirc;mica do ajuste fiscal e pela sa&iacute;da de Eduardo Cunha da presid&ecirc;ncia da C&acirc;mara dos Deputados. A mobiliza&ccedil;&atilde;o faz parte da programa&ccedil;&atilde;o do Semin&aacute;rio de Forma&ccedil;&atilde;o Estadual.&nbsp;</p>
