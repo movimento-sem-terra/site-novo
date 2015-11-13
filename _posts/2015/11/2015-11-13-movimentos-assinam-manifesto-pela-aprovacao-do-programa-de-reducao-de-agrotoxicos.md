@@ -36,8 +36,6 @@ releated_posts:
 
 <p><em>Da P&aacute;gina do MST</em></p>
 
-<p>&nbsp;</p>
-
 <p><br />
 Movimentos assinam manifesto pela aprova&ccedil;&atilde;o do Programa Nacional de Redu&ccedil;&atilde;o de Agrot&oacute;xicos (Pronara) constru&iacute;do pela Campanha Permanente contra os Agrot&oacute;xicos e Pela Vida. O documento denuncia os impactos dos agrot&oacute;xicos no Brasil e questiona o fato do Programa ter o impedimento do MAPA, o &uacute;nico entre os nove Minist&eacute;rios envolvidos, que na figura da ministra K&aacute;tia Abreu, afirma existir &ldquo;uma incompatibilidade de princ&iacute;pios&rdquo; entre o Pronara e o MAPA.</p>
 
