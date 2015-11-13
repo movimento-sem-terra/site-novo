@@ -1,10 +1,10 @@
 ---
 date: "2015-11-13T09:11:21-02:00"
 tags:
-  - tag: ocupação
   - tag: lutas-e-mobilizações
-  - tag: brasília
-  - tag: ministério-de-minas-e-energia
+  - tag: greve
+  - tag: solidariedade
+  - tag: petrobrás
 title: "Em solidariedade aos petroleiros, movimentos ocupam Ministério de Minas e Energia"
 support_line: "Participam da ocupação 500 militantes do MST, FUP, CUT, UNE, UBES e Levante Popular da Juventude, com apoio da Frente Brasil Popular, que faz uma marcha a partir das 9h em defesa da democracia, contra o ajuste fiscal e pelo \"Fora Cunha\"."
 menu: lutas e mobilizações
@@ -25,7 +25,10 @@ files:
     $$hashKey: 0CC
 created_date: "2015-11-13T09:21:34-02:00"
 published: true
-releated_posts: []
+releated_posts:
+  - 2015/11/2015-11-09-mst-participa-da-greve-do-petroleiros-no-parana.md
+  - 2015/11/2015-11-09-movimentos-se-unem-ao-sindipetro-em-ato-e-apoiam-a-greve-dos-petroleiros.md
+  - 2015/11/2015-11-09-diversos-movimentos-escrevem-carta-em-apoio-a-greve-dos-petroleiros.md
 section: cover
 
 ---
