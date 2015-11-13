@@ -28,11 +28,15 @@ releated_posts:
   - 2015/10/2015-10-09-agricultores-expostos-a-agrotoxicos-nao-sabem-que-sofrem-risco-de-morte.md
 
 ---
-<p><img alt="12508801204_09b20a1e0f_z.jpg" height="467" src="http://farm6.staticflickr.com/5679/22957758496_78bbe62e04_b.jpg" width="700" /></p>
+<figure class="image"><img alt="12508801204_09b20a1e0f_z.jpg" height="467" src="http://farm6.staticflickr.com/5679/22957758496_78bbe62e04_b.jpg" width="700" />
+<figcaption>Foto: Leandro Taques</figcaption>
+</figure>
 
-<p>&nbsp;
+<p>&nbsp;</p>
+
 <p><em>Da P&aacute;gina do MST</em></p>
-</p>
+
+<p>&nbsp;</p>
 
 <p><br />
 Movimentos assinam manifesto pela aprova&ccedil;&atilde;o do Programa Nacional de Redu&ccedil;&atilde;o de Agrot&oacute;xicos (Pronara) constru&iacute;do pela Campanha Permanente contra os Agrot&oacute;xicos e Pela Vida. O documento denuncia os impactos dos agrot&oacute;xicos no Brasil e questiona o fato do Programa ter o impedimento do MAPA, o &uacute;nico entre os nove Minist&eacute;rios envolvidos, que na figura da ministra K&aacute;tia Abreu, afirma existir &ldquo;uma incompatibilidade de princ&iacute;pios&rdquo; entre o Pronara e o MAPA.</p>
