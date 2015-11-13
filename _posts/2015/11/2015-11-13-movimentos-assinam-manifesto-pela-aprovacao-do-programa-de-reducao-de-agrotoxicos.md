@@ -7,7 +7,7 @@ tags:
 title: Movimentos assinam manifesto pela aprovação do Programa de Redução de Agrotóxicos
 support_line: "O documento questiona o fato do Programa ter o impedimento do MAPA, o único entre os nove Ministérios envolvidos, que na figura da ministra Kátia Abreu, afirma existir “uma incompatibilidade de princípios” entre o Pronara e o MAPA."
 menu: agronegócio
-images_hd: "http://farm6.staticflickr.com/5758/22983951115_af59cedfdc_b.jpg"
+images_hd: "http://farm6.staticflickr.com/5679/22957758496_78bbe62e04_b.jpg"
 layout: post
 files:
   - link: "http://farm6.staticflickr.com/5679/22957758496_78bbe62e04_b.jpg"
@@ -16,12 +16,6 @@ files:
     small: "http://farm6.staticflickr.com/5679/22957758496_78bbe62e04_n.jpg"
     title: 12508801204_09b20a1e0f_z.jpg
     $$hashKey: 02X
-  - link: "http://farm6.staticflickr.com/5758/22983951115_af59cedfdc_b.jpg"
-    thumbnail: "http://farm6.staticflickr.com/5758/22983951115_af59cedfdc_t.jpg"
-    medium: "http://farm6.staticflickr.com/5758/22983951115_af59cedfdc_z.jpg"
-    small: "http://farm6.staticflickr.com/5758/22983951115_af59cedfdc_n.jpg"
-    title: 12508801204_09b20a1e0f_z.jpg
-    $$hashKey: 0T4
 created_date: "2015-11-13T10:44:57-02:00"
 published: true
 releated_posts:
