@@ -17,14 +17,16 @@ files:
     small: "http://farm6.staticflickr.com/5793/22359578294_4ca3e8df39_n.jpg"
     title: IMG-20151113-WA0001.jpg
     $$hashKey: 06D
+  - link: "http://farm6.staticflickr.com/5623/22794490950_3f684dc885_b.jpg"
+    thumbnail: "http://farm6.staticflickr.com/5623/22794490950_3f684dc885_t.jpg"
+    medium: "http://farm6.staticflickr.com/5623/22794490950_3f684dc885_z.jpg"
+    small: "http://farm6.staticflickr.com/5623/22794490950_3f684dc885_n.jpg"
+    title: 20151113032732.jpg
+    $$hashKey: 0CC
 created_date: "2015-11-13T09:21:34-02:00"
 published: true
-releated_posts:
-  - 2014/02/2014-02-03-sem-terra-ocupam-area-do-ministerio-da-fazenda-no-norte-de-minas-gerais.md-e
-  - 2014/02/2014-02-03-sem-terra-ocupam-area-do-ministerio-da-fazenda-no-norte-de-minas-gerais.md
-  - 2014/03/2014-03-06-mst-ocupa-area-endividada-em-mais-de-r-200-mi-da-usina-santa-elena-em-go.md-e
-  - 2014/03/2014-03-06-mst-ocupa-area-endividada-em-mais-de-r-200-mi-da-usina-santa-elena-em-go.md
-  - 2014/03/2014-03-06-sem-terra-ocupam-fazenda-de-16-mil-hectares-em-tocantins.md
+releated_posts: []
+section: cover
 
 ---
 <p><img alt="IMG-20151113-WA0001.jpg" height="393" src="http://farm6.staticflickr.com/5793/22359578294_4ca3e8df39_b.jpg" width="700" /><br />
@@ -54,6 +56,8 @@ Nesta sexta-feira, ser&aacute; realizado simultaneamente em 20 cidades do Brasil
 Do Museu, os manifestantes sair&atilde;o em marcha at&eacute; o Congresso Nacional pedindo a sa&iacute;da de Eduardo Cunha da C&acirc;mara dos Deputados e repudiando a ofensiva conservadora, que promove retrocessos nos direitos trabalhistas, a criminaliza&ccedil;&atilde;o da juventude e dos movimentos sociais e sindicais, dissemina o &oacute;dio, a viol&ecirc;ncia contra mulheres, al&eacute;m de propor a entrega das estatais e do servi&ccedil;o p&uacute;blico ao setor privado.</p>
 
 <p><br />
+<img alt="20151113032732.jpg" height="393" src="http://farm6.staticflickr.com/5623/22794490950_3f684dc885_b.jpg" width="700" /><br />
+<br />
 A manifesta&ccedil;&atilde;o faz parte da programa&ccedil;&atilde;o do o 41&ordm; Congresso da Uni&atilde;o dos Estudantes Secundaristas &ndash; Ubes, que acontece at&eacute; o dia 14 de novembro, no Pavilh&atilde;o de Exposi&ccedil;&otilde;es do Parque da Cidade.</p>
 
 <p><br />
