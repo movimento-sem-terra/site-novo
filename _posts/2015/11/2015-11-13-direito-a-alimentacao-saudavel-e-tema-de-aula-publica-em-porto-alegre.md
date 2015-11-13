@@ -27,10 +27,10 @@ releated_posts:
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
-No pr&oacute;ximo s&aacute;bado (14), <span style="line-height: 20.8px;">a Frente Parlamentar Ga&uacute;cha realiza uma aula p&uacute;blica em&nbsp;Defesa da Alimenta&ccedil;&atilde;o Saud&aacute;vel.</span></p>
+No pr&oacute;ximo s&aacute;bado (14), a Frente Parlamentar Ga&uacute;cha realiza uma aula p&uacute;blica em&nbsp;Defesa da Alimenta&ccedil;&atilde;o Saud&aacute;vel.</p>
 
 <p><br />
-Temas como o direito dos consumidores,&nbsp;efeitos nocivos dos agrot&oacute;xicos para a sa&uacute;de e meio ambiente ser&atilde;o tratados no encontro que contar&aacute; com a presen&ccedil;a de&nbsp;Jo&atilde;o Pedro Stedile,&nbsp;d<span style="color: rgb(0, 0, 0); font-family: Arial, sans-serif; line-height: 18.5714px;">a coordena&ccedil;&atilde;o nacional do MST.</span></p>
+Temas como o direito dos consumidores,&nbsp;efeitos nocivos dos agrot&oacute;xicos para a sa&uacute;de e meio ambiente ser&atilde;o tratados no encontro que contar&aacute; com a presen&ccedil;a de&nbsp;Jo&atilde;o Pedro Stedile,&nbsp;da coordena&ccedil;&atilde;o nacional do MST.</p>
 
 <p><br />
 O evento &eacute; o primeiro em parceria da Frente Parlamentar com diversos movimentos sociais e entidades que est&atilde;o unidos a partir do lan&ccedil;amento da Frente no Rio Grande do Sul, al&eacute;m de agricultores familiares, consumidores e apoiadores da iniciativa.</p>
