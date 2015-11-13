@@ -6,7 +6,7 @@ tags:
   - tag: solidariedade
   - tag: petrobrás
 title: "Em solidariedade aos petroleiros, movimentos ocupam Ministério de Minas e Energia"
-support_line: "Participam da ocupação 500 militantes do MST, FUP, CUT, UNE, UBES e Levante Popular da Juventude, com apoio da Frente Brasil Popular, que faz uma marcha a partir das 9h em defesa da democracia, contra o ajuste fiscal e pelo \"Fora Cunha\"."
+support_line: "São cerca de 500 militantes do MST, FUP, CUT, UNE, UBES e Levante Popular da Juventude em defesa da democracia, contra o ajuste fiscal e pelo \"Fora Cunha\"."
 menu: lutas e mobilizações
 images_hd: "http://farm6.staticflickr.com/5793/22359578294_4ca3e8df39_b.jpg"
 layout: post
@@ -40,8 +40,7 @@ section: cover
 Os movimentos sociais, sindicais e de juventude, com a participa&ccedil;&atilde;o dos petroleiros, ocuparam o Minist&eacute;rio de Minas e Energia, na manh&atilde; desta sexta-feira (13/11), em solidariedade aos petroleiros, que est&atilde;o em greve desde 1&ordm;. de novembro contra as pol&iacute;ticas da nova dire&ccedil;&atilde;o da Petrobras.</p>
 
 <p><br />
-A dire&ccedil;&atilde;o da Petrobras endureceu as negocia&ccedil;&otilde;es e o Conselho Deliberativo da FUP (Federa&ccedil;&atilde;o &Uacute;nica dos<br />
-Petroleiros) iniciou ontem uma reuni&atilde;o para avaliar a proposta apresentada pela empresa.</p>
+A dire&ccedil;&atilde;o da Petrobras endureceu as negocia&ccedil;&otilde;es e o Conselho Deliberativo da FUP (Federa&ccedil;&atilde;o &Uacute;nica dos Petroleiros) iniciou ontem uma reuni&atilde;o para avaliar a proposta apresentada pela empresa.</p>
 
 <p><br />
 Os movimentos sociais cobram que a Petrobras atenda as demandas da FUP e apresente respostas &agrave; Paula Brasil, a plataforma apresentada pelos petroleiros para o fortalecimento da empresa. Al&eacute;m disso, exigem um posicionamento claro da Petrobras, do minist&eacute;rio e do governo contra o projeto 131/2015, do senador Jos&eacute; Serra, que tira a petroleira brasileira do pr&eacute;-sal.</p>
