@@ -22,7 +22,7 @@ releated_posts: []
 <em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Trabalhadoras e trabalhadores rurais Sem Terra do Sert&atilde;o e do Agreste de Alagoas ocuparam na manh&atilde; de hoje (16) a superintend&ecirc;ncia da Companhia de Desenvolvimento dos Vales do S&atilde;o Francisco e Parna&iacute;ba (Codevasf), no munic&iacute;pio de Penedo. Os Sem Terra demandam &aacute;gua para produ&ccedil;&atilde;o e consumo, denunciando a inexist&ecirc;ncia de uma pol&iacute;tica que garanta que as fam&iacute;lias assentadas da regi&atilde;o tenham acesso &agrave; &aacute;gua.</p>
+Trabalhadoras e trabalhadores Sem Terra do Sert&atilde;o e do Agreste de Alagoas ocuparam na manh&atilde;&nbsp;desta&nbsp;segunda-feira (16) a superintend&ecirc;ncia da Companhia de Desenvolvimento dos Vales do S&atilde;o Francisco e Parna&iacute;ba (Codevasf), no munic&iacute;pio de Penedo. Os Sem Terra demandam &aacute;gua para produ&ccedil;&atilde;o e consumo, denunciando a inexist&ecirc;ncia de uma pol&iacute;tica que garanta que as fam&iacute;lias assentadas da regi&atilde;o tenham acesso &agrave; &aacute;gua.</p>
 
 <p><br />
 &ldquo;J&aacute; se passaram mais de 10 anos de promessas e engana&ccedil;&atilde;o do povo assentado aqui da regi&atilde;o&rdquo;, denunciou D&eacute;bora Nunes, da coordena&ccedil;&atilde;o nacional do MST. &ldquo;Temos fam&iacute;lias assentadas em menos de 3 hectares, com o compromisso do governo federal e estadual, a &eacute;poca, que as mesmas teriam irriga&ccedil;&atilde;o para viabilizar a sua produ&ccedil;&atilde;o e a perman&ecirc;ncia na ro&ccedil;a e at&eacute; agora nada foi feito&rdquo;.</p>
