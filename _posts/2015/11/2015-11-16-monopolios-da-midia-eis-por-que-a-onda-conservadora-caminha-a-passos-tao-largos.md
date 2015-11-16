@@ -24,6 +24,7 @@ files:
 created_date: "2015-11-16T14:22:53-02:00"
 published: true
 releated_posts: []
+label: articles
 
 ---
 <p><br />
