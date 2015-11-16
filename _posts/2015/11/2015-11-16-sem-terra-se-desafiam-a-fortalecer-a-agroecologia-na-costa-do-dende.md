@@ -32,7 +32,10 @@ releated_posts:
   - 2014/12/2014-11-04-no-reconcavo-sem-terra-debatem-o-processo-de-transicao-agroecologica.md
 
 ---
-<p><em>Por Coletivo de Comunica&ccedil;&atilde;o do MST na Bahia<br />
+<p><br />
+<img alt="DSC00195.jpg" height="433" src="http://farm6.staticflickr.com/5642/23042551846_de97eda363_b.jpg" width="699" /><br />
+<br />
+<em>Por Coletivo de Comunica&ccedil;&atilde;o do MST na Bahia<br />
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
@@ -56,7 +59,8 @@ Para a dire&ccedil;&atilde;o da brigada, o ano de 2015 foi estrat&eacute;gico pa
 <p><br />
 &ldquo;Para o pr&oacute;ximo ano queremos intensificar a produ&ccedil;&atilde;o de alimentos e fortalecer o nosso di&aacute;logo com a sociedade atrav&eacute;s das feiras da Reforma Agr&aacute;ria&rdquo;, disse.</p>
 
-<p><br />
+<p><img alt="DSC00187.jpg" height="525" src="http://farm6.staticflickr.com/5749/22650309207_23d62f2691_b.jpg" width="700" /><br />
+<br />
 <strong>Costa do Dend&ecirc;</strong></p>
 
 <p><br />
