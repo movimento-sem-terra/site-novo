@@ -6,7 +6,7 @@ tags:
 title: "Monopólios da mídia: eis por que a onda conservadora caminha a passos tão largos"
 support_line: "Apesar da democratização da mídia ser uma bandeira histórica das esquerdas, os governos Lula e Dilma muito pouco - ou quase nada - fizeram por ela."
 menu: "educação, cultura e comunicação"
-images_hd: "http://farm1.staticflickr.com/596/23065919285_6d0cfa2b7e_b.jpg"
+images_hd: "http://farm6.staticflickr.com/5654/23040470026_5b29ca8e97_b.jpg"
 layout: post
 files:
   - link: "http://farm1.staticflickr.com/596/23065919285_6d0cfa2b7e_b.jpg"
@@ -15,6 +15,12 @@ files:
     small: "http://farm1.staticflickr.com/596/23065919285_6d0cfa2b7e_n.jpg"
     title: Criminalization_of_the_MST_1_by_Latuff2.jpg
     $$hashKey: 0N8
+  - link: "http://farm6.staticflickr.com/5654/23040470026_5b29ca8e97_b.jpg"
+    thumbnail: "http://farm6.staticflickr.com/5654/23040470026_5b29ca8e97_t.jpg"
+    medium: "http://farm6.staticflickr.com/5654/23040470026_5b29ca8e97_z.jpg"
+    small: "http://farm6.staticflickr.com/5654/23040470026_5b29ca8e97_n.jpg"
+    title: alienacao.jpg
+    $$hashKey: 0RL
 created_date: "2015-11-16T14:22:53-02:00"
 published: true
 releated_posts: []
