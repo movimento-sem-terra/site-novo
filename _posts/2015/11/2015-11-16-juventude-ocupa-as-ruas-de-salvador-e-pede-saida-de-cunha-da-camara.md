@@ -39,7 +39,8 @@ releated_posts:
 <p><img alt="12243086_903822849711802_6437739845685075364_n.jpg" height="467" src="http://farm1.staticflickr.com/594/23048543702_775f097010_b.jpg" width="700" /></p>
 
 <p><br />
-<em>Por Jamile Ara&uacute;jo e Wesley Lima</em></p>
+<em>Por Jamile Ara&uacute;jo e Wesley Lima<br />
+Da P&aacute;gina do MST</em></p>
 
 <p><br />
 Na &uacute;ltima sexta-feira (13), mais de 250 trabalhadores do campo e da cidade, em sua maioria jovens, ocuparam as ruas do centro de Salvador, e<span style="line-height: 1.6;">&nbsp;exigiram&nbsp;a sa&iacute;da do presidente da C&acirc;mara dos Deputados, Eduardo Cunha (PMDB-RJ).</span></p>
