@@ -50,6 +50,8 @@ releated_posts:
 <p><em>Por Coletivo de Comunica&ccedil;&atilde;o do MST na Bahia<br />
 Da P&aacute;gina do MST</em></p>
 
+<p><em>Fotos: Danilo de Souza&nbsp;</em></p>
+
 <p>&nbsp;</p>
 
 <p>&ldquo;O povo est&aacute; sendo massacrado pela Vale do Rio Doce e pela burguesia sanguin&aacute;ria que persegue o campon&ecirc;s&rdquo;, denunciou Jaime Amorim, da dire&ccedil;&atilde;o nacional do MST, durante ato pol&iacute;tico realizado nessa ter&ccedil;a-feira (11), em Juazeiro, no norte da Bahia.&nbsp;</p>
