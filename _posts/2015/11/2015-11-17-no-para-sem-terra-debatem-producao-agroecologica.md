@@ -82,7 +82,7 @@ V&aacute;rias s&atilde;o as pr&aacute;ticas agroecol&oacute;gicas aliadas &agrav
 
 <p><br />
 Dentre os temas trabalhados durante o encontro estava a agroecologia e o campon&ecirc;s na regi&atilde;o amaz&ocirc;nica.&nbsp;<br />
-O professor William Assis do N&uacute;cleo de Ci&ecirc;ncias Agr&aacute;rias da Universidade Federal do Par&aacute; (NCADR/UFPAO) contribuiu nas reflex&otilde;es sobre o tema e seus desafios.&nbsp;</p>
+O professor William Assis do N&uacute;cleo de Ci&ecirc;ncias Agr&aacute;rias da Universidade Federal do Par&aacute; <span style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px; line-height: normal;">(NCADR/ UFPA)&nbsp;</span>contribuiu nas reflex&otilde;es sobre o tema e seus desafios.&nbsp;</p>
 
 <p><br />
 &ldquo;O conhecimento, paci&ecirc;ncia, planejamento s&atilde;o elementos importantes para compreens&atilde;o coletiva. A forma de lidar com a natureza define o mundo ao nosso redor. O princ&iacute;pio da agroecologia &eacute; sempre tentar encontrar o equil&iacute;brio.&rdquo; destacou Assis.</p>
