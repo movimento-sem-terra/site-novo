@@ -22,6 +22,7 @@ published: true
 releated_posts:
   - 2015/08/2015-08-11-sem-terra-acreditam-que-incendio-ao-redor-do-acampamento-no-pr-tem-origem-criminosa.md
   - 2015/06/2015-06-10-vale-e-condenada-a-pagar-rusd-804-milhoes-por-acidentes-de-trabalho.md
+section: cover
 
 ---
 <p><br />
