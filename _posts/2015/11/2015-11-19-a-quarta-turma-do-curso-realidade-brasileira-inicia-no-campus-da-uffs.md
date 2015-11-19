@@ -5,9 +5,9 @@ tags:
   - tag: educação
   - tag: Sem-Terra
   - tag: Chapecó
-title: A quarta turma do Curso ‘Realidade Brasileira’ inicia no campus da UFFS.
+title: "Em parceria com a UFFS, MST realiza curso de especialização "
 images_hd: "http://farm6.staticflickr.com/5766/22519793964_e7f20344d9_b.jpg"
-hat: "Em parceria com a UFFS, MST realiza curso de especialização "
+hat: ""
 support_line: "\"O curso assume o desafio de fazer com que a educação no campo seja de fato efetivada dentro do espaço da universidade\""
 menu: "educação, cultura e comunicação"
 layout: post
