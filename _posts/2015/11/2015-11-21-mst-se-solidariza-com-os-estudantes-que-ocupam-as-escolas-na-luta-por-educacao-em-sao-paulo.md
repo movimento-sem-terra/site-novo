@@ -89,7 +89,7 @@ Os argumentos principais da gest&atilde;o &eacute; que a falta de demanda e ampl
 Especialistas dizem que n&atilde;o &eacute; consenso essa avalia&ccedil;&atilde;o e apontam a falta de di&aacute;logo como um estopim da crise.&nbsp;</p>
 
 <p><br />
-Das 5.147 escolas estaduais de S&atilde;o Paulo, 93 ser&atilde;o disponibilizadas para que se transformem em escolas municipais ou t&eacute;cnicas, ou para outras fun&ccedil;&otilde;es (uma das escolas-alvo anunciadas acabou saindo da lista). N&atilde;o h&aacute;, por&eacute;m, garantias de que os pr&eacute;dios ser&atilde;o transformados em institui&ccedil;&otilde;es ou se ser&atilde;o simplesmente fechados.&nbsp;</p>
+Das 5.147 escolas estaduais de S&atilde;o Paulo, 94&nbsp;ser&atilde;o disponibilizadas para que se transformem em escolas municipais ou t&eacute;cnicas, ou para outras fun&ccedil;&otilde;es (uma das escolas-alvo anunciadas acabou saindo da lista). N&atilde;o h&aacute;, por&eacute;m, garantias de que os pr&eacute;dios ser&atilde;o transformados em institui&ccedil;&otilde;es ou se ser&atilde;o simplesmente fechados.&nbsp;</p>
 
 <p>&nbsp;</p>
 
