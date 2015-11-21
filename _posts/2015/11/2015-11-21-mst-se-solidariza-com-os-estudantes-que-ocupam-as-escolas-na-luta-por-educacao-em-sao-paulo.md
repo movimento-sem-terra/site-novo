@@ -77,7 +77,7 @@ Segundo o &nbsp;Sindicato dos Professores do Ensino Oficial do Estado de S&atild
 <strong>(DES) Organiza&ccedil;&atilde;o</strong></p>
 
 <p><br />
-A resist&ecirc;ncia dos estudantes que cresceu nos &uacute;ltimos dias s&oacute; aumenta a press&atilde;o sobre o goVERNO estadual que anunciou, em meados de setembro deste ano, a reorganiza&ccedil;&atilde;o escolar que j&aacute; come&ccedil;a a valer no ano que vem.&nbsp;</p>
+A resist&ecirc;ncia dos estudantes que cresceu nos &uacute;ltimos dias s&oacute; aumenta a press&atilde;o sobre o governo&nbsp;estadual que anunciou, em meados de setembro deste ano, a reorganiza&ccedil;&atilde;o escolar que j&aacute; come&ccedil;a a valer no ano que vem.&nbsp;</p>
 
 <p><br />
 Um redesenho no sistema de ensino da cidade com potencial para mexer nas vidas e trajetos cotidianos de um milh&atilde;o de alunos e suas fam&iacute;lias.&nbsp;</p>
