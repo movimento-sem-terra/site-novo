@@ -4,7 +4,7 @@ tags:
   - tag: campanha-fechar-escola-é-crime
   - tag: sao-paulo
   - tag: fechamento-de-escolas
-title: "MST se solidariza com os estudantes que ocupam as escolas na luta por educação em São Paulo "
+title: "MST se solidariza com estudantes que ocupam as escolas na luta por educação em São Paulo "
 support_line: Pelos menos seis escolas da capital receberam produtos dos assentamentos da Reforma Agrária.
 menu: lutas e mobilizações
 section: null
