@@ -55,7 +55,7 @@ Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
-<p>Durante a tarde dessa sexta-feira (20), militantes Sem Terra e do Levante Popular da Juventude percorreram a cidade de S&atilde;o Paulo para doar cerca de 1000 litros de leite, 500 litros de suco de uva e 1000 caixas do achocolatado &quot;Sem-Terrinha, para os estudantes que, desde o &uacute;ltimo dia 9 de novembro, ocupam escolas da capital paulista em protesto contra a reestrutura&ccedil;&atilde;o proposta pelo governador do estado, Geraldo Alckmin (PSDB).</p>
+<p>Durante a tarde dessa sexta-feira (20), militantes Sem Terra e do Levante Popular da Juventude, percorreram a cidade de S&atilde;o Paulo para doar 1000 litros de leite, 500 litros de suco de uva e 1000 caixas do achocolatado &quot;Sem-Terrinha, para os estudantes que, desde o &uacute;ltimo dia 9 de novembro, ocupam escolas da capital paulista em protesto contra a reestrutura&ccedil;&atilde;o proposta pelo governador do estado, Geraldo Alckmin (PSDB).</p>
 
 <p><br />
 Para &nbsp;a dire&ccedil;&atilde;o do Movimento, &eacute; importante apoiar a organiza&ccedil;&atilde;o social aut&ocirc;noma dos estudantes que, nesse momento, d&atilde;o uma aula de &nbsp;consci&ecirc;ncia e mobiliza&ccedil;&atilde;o na luta pelo direito &agrave; educa&ccedil;&atilde;o, que &eacute; uma bandeira de toda sociedade. Nesse sentido, toda solidariedade &eacute; necess&aacute;ria.</p>
