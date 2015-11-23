@@ -4,7 +4,7 @@ tags:
   - tag: paraíba
   - tag: encontro
   - tag: sem-terra
-title: Sem Terra debatem organicidade e mobilizam-se para 26º encontro estadual do MST
+title: Sem Terra debatem organicidade e mobilizam-se para 26º encontro estadual
 images_hd: "http://farm6.staticflickr.com/5676/22946106450_2825af61ac_b.jpg"
 menu: reforma agrária
 support_line: "Entre os dias 21 e 22 de novembro, trabalhadores rurais de 31 assentamentos e 20 acampamentos do médio sertão paraibano, participaram  do X Encontro da Brigada Patativa do Assaré, no município de Condado. "
