@@ -5,6 +5,7 @@ tags:
   - tag: justiça-social
   - tag: paraná
   - tag: keno
+  - tag: direitos-humanos
 title: Syngenta é condenada por morte de Sem Terra no Paraná
 support_line: "Justiça responsabiliza empresa por ação armada contra integrantes da Via Campesina, em 2007, que resultou no assassinato do trabalhador rural Keno e no ferimento de outros três camponeses."
 images_hd: "http://farm1.staticflickr.com/614/22722170877_2b58e514cb_b.jpg"
@@ -22,7 +23,12 @@ published: true
 releated_posts:
   - 2015/08/2015-08-11-sem-terra-acreditam-que-incendio-ao-redor-do-acampamento-no-pr-tem-origem-criminosa.md
   - 2015/06/2015-06-10-vale-e-condenada-a-pagar-rusd-804-milhoes-por-acidentes-de-trabalho.md
-section: cover
+  - 2015/08/2015-08-26-pistoleiros-atacam-a-tiros-o-acampamento-do-mst-no-parana.md
+  - 2015/08/2015-08-22-sem-terra-ocupam-latifundio-de-antigo-barao-de-cafe-em-londrina.md
+  - 2015/11/2015-11-03-por-conta-propria-latifundiario-realiza-despejo-violento-contra-familias-sem-terra.md
+  - 2015/11/2015-11-05-projeto-de-lei-que-tipifica-terrorismo-no-brasil-ameaca-liberdades-fundamentais-alerta-onu.md
+  - 2015/11/2015-11-04-condenacao-de-mandante-de-unai-foi-vitoria-do-mundo-do-trabalho-decente.md
+section: featured-news
 
 ---
 <p><br />
