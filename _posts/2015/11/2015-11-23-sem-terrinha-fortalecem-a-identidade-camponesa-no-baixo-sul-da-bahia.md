@@ -33,6 +33,8 @@ releated_posts:
 
 ---
 <p class="p1"><br />
+<img alt="37ed84e8-7451-4e86-891b-671b367af924.jpg" height="420" src="http://farm6.staticflickr.com/5801/22614066313_c9d1ab554f_b.jpg" width="700" /><br />
+<br />
 <em><span class="s1">Por Coletivo de Comunica&ccedil;&atilde;o do MST na Bahia<br />
 Da P&aacute;gina do MST</span></em></p>
 
