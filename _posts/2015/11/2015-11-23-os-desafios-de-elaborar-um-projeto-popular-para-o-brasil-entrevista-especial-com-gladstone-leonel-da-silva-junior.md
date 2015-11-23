@@ -6,8 +6,8 @@ tags:
   - tag: crise-política
   - tag: frente-brasil-popular
   - tag: constituinte
-title: "Financiamento das empresas é um investimento que direciona boa parte dos políticos, analisa especialista"
-support_line: Doutor em direito pela UnB analisa os desafios de elaborar um projeto popular para o Brasil e coloca a necessidade de recriar formas de avançar um projeto distinto.
+title: Doutor em direito analisa os desafios de elaborar um projeto popular para o Brasil
+support_line: Doutor em direito pela UnB coloca a necessidade de recriar formas de avançar um projeto distinto ao do vigente.
 menu: projeto popular
 images_hd: "http://farm1.staticflickr.com/636/22855301707_5feecfbbaa_b.jpg"
 layout: post
