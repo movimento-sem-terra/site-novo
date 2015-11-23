@@ -4,11 +4,11 @@ tags:
   - tag: campanha-fechar-escola-é-crime
   - tag: sao-paulo
   - tag: fechamento-de-escolas
-title: "MST se solidariza com estudantes que ocupam as escolas na luta por educação em São Paulo "
+title: MST doa alimentos aos estudantes que ocupam as escolas paulistanas
 support_line: Pelos menos seis escolas da capital receberam produtos dos assentamentos da Reforma Agrária.
 menu: lutas e mobilizações
 section: featured-news
-images_hd: "http://farm1.staticflickr.com/605/23180522975_b5d7e27f56_b.jpg"
+images_hd: "http://farm1.staticflickr.com/603/22552443534_4c18503671_b.jpg"
 layout: post
 files:
   - link: "http://farm1.staticflickr.com/605/23180522975_b5d7e27f56_b.jpg"
@@ -53,9 +53,8 @@ Da P&aacute;gina do MST</em></p>
 
 <p><em>Fotos: Thiago Soares</em></p>
 
-<p>&nbsp;</p>
-
-<p>Durante a tarde dessa sexta-feira (20), militantes Sem Terra e do Levante Popular da Juventude, percorreram a cidade de S&atilde;o Paulo para doar 1000 litros de leite, 500 litros de suco de uva e 1000 caixas do achocolatado &quot;Sem-Terrinha, para os estudantes que, desde o &uacute;ltimo dia 9 de novembro, ocupam escolas da capital paulista em protesto contra a reestrutura&ccedil;&atilde;o proposta pelo governador do estado, Geraldo Alckmin (PSDB).</p>
+<p><br />
+Durante a tarde dessa sexta-feira (20), militantes Sem Terra e do Levante Popular da Juventude&nbsp;percorreram a cidade de S&atilde;o Paulo para doar 1000 litros de leite, 500 litros de suco de uva e 1000 caixas do achocolatado &quot;Sem-Terrinha, para os estudantes que, desde o &uacute;ltimo dia 9 de novembro, ocupam escolas da capital paulista em protesto contra a reestrutura&ccedil;&atilde;o proposta pelo governador do estado, Geraldo Alckmin (PSDB).</p>
 
 <p><br />
 Para &nbsp;a dire&ccedil;&atilde;o do Movimento, &eacute; importante apoiar a organiza&ccedil;&atilde;o social aut&ocirc;noma dos estudantes que, nesse momento, d&atilde;o uma aula de &nbsp;consci&ecirc;ncia e mobiliza&ccedil;&atilde;o na luta pelo direito &agrave; educa&ccedil;&atilde;o, que &eacute; uma bandeira de toda sociedade. Nesse sentido, toda solidariedade &eacute; necess&aacute;ria.</p>
