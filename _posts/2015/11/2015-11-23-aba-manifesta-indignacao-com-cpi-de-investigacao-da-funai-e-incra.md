@@ -6,7 +6,7 @@ tags:
   - tag: incra
   - tag: Funai
 title: ABA manifesta indignação com CPI de investigação da Funai e Incra
-support_line: "Em nota vanço de medidas contrárias ao reconhecimento dos direitos de populações tradicionais, notadamente dos direitos territoriais dos povos indígenas e quilombolas, "
+support_line: "O texto questiona a legalidade da instalação do processo por não atender aos requisitos mínimos de um procedimento dessa natureza e ressalta a necessidade dos deputados conhecer o trabalho dos profissionais da área. "
 menu: direitos humanos
 images_hd: "http://farm6.staticflickr.com/5722/22878903669_17b4dd9d74_b.jpg"
 layout: post
@@ -32,7 +32,8 @@ releated_posts:
 
 <p>Em nota divulgada na &uacute;ltima ter&ccedil;a-feira (17), a&nbsp;Associa&ccedil;&atilde;o Brasileira de Antropologia (ABA) manifesta publicamente a sua perplexidade e indigna&ccedil;&atilde;o diante do avan&ccedil;o de medidas contr&aacute;rias ao reconhecimento dos direitos de popula&ccedil;&otilde;es tradicionais ind&iacute;genas e quilombolas, agora representada na Comiss&atilde;o Parlamentar de Inqu&eacute;rito (CPI) instalada para investigar a atua&ccedil;&atilde;o da <span style="line-height: 20.8px;">Funda&ccedil;&atilde;o Nacional do &Iacute;ndio (Funai) e do Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria&nbsp;(Incra).&nbsp;</span></p>
 
-<p><span style="line-height: 20.8px;">O texto questiona a legalidade da instala&ccedil;&atilde;o do processo&nbsp;por n&atilde;o atender aos requisitos m&iacute;nimos de um procedimento dessa natureza e ressalta a necessidade dos deputados conhecer o trabalho dos profissionais da &aacute;rea.&nbsp;</span></p>
+<p><br />
+<span style="line-height: 20.8px;">O texto questiona a legalidade da instala&ccedil;&atilde;o do processo&nbsp;por n&atilde;o atender aos requisitos m&iacute;nimos de um procedimento dessa natureza e ressalta a necessidade dos deputados conhecer o trabalho dos profissionais da &aacute;rea.&nbsp;</span></p>
 
 <p><br />
 &quot;Urgimos essa Casa do Povo a se atualizar e conhecer o trabalho que vem sendo feito por profissionais da antropologia, sejam ou n&atilde;o servidores do Incra e da Funai, abandonando a ignor&acirc;ncia interessada e as teorias conspirat&oacute;rias de uns poucos parlamentares, em favor da verdade, dos princ&iacute;pios fundamentais da Rep&uacute;blica, da luta pela igualdade na diversidade, na busca por uma sociedade mais justa e verdadeiramente democr&aacute;tica&quot;, afirma trecho da nota.&nbsp;</p>
