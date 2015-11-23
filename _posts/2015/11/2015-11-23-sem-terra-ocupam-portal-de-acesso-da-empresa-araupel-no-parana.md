@@ -37,6 +37,7 @@ releated_posts:
   - 2014/06/2014-06-11-para-sem-terra-superintende-do-incra-de-maraba-armou-emboscada.md
   - 2015/05/2015-05-27-justica-decide-que-araupel-nao-e-dona-da-fazenda-rio-das-cobras.md
   - 2015/10/2015-10-19-sem-terra-ocupam-area-em-sao-lourenco-do-sul.md
+section: null
 
 ---
 <p><img alt="1947f423-e057-426b-bad2-e0d3787ae681.jpg" height="394" src="http://farm1.staticflickr.com/705/22620056204_950692b28d_b.jpg" width="700" /></p>
@@ -46,30 +47,16 @@ releated_posts:
 <p><em>Por Riquieli Capitani<br />
 Da P&aacute;gina do MST</em></p>
 
-<p>&nbsp;</p>
-
-<p>Na manh&atilde; dessa segunda-feira (23), c<span style="line-height: 20.8px;">erca de 3 mil Sem Terra&nbsp;ocuparam por algumas horas o portal de acesso da empresa Araupel, localizada em&nbsp;Quedas do Igua&ccedil;u, regi&atilde;o Centro do Paran&aacute;,</span></p>
+<p><br />
+Na manh&atilde; dessa segunda-feira (23), c<span style="line-height: 20.8px;">erca de 3 mil Sem Terra&nbsp;ocuparam por algumas horas o portal de acesso da empresa Araupel, localizada em&nbsp;Quedas do Igua&ccedil;u, regi&atilde;o Centro do Paran&aacute;,</span></p>
 
 <p><br />
-De acordo com&nbsp;os trabalhadores,&nbsp;&ldquo;o Movimento&nbsp;vai lutar para que o local onde hoje&nbsp;est&aacute; localizada a empresa seja&nbsp;destinado&nbsp;para fins de Reforma Agr&aacute;ria&quot;.&nbsp;</p>
+De acordo com&nbsp;os trabalhadores,&nbsp;&ldquo;o Movimento&nbsp;vai lutar para que o local onde hoje&nbsp;est&aacute; localizada a empresa seja&nbsp;destinado&nbsp;para fins de Reforma Agr&aacute;ria&quot;.&nbsp;A Araupel exige&nbsp;que o governo do Paran&aacute; fa&ccedil;a a reintegra&ccedil;&atilde;o das &aacute;reas ocupadas pelos Sem Terra.</p>
 
 <p><br />
-A Araupel exige&nbsp;que o governo do Paran&aacute; fa&ccedil;a a reintegra&ccedil;&atilde;o das &aacute;reas ocupadas.</p>
-
-<p>&nbsp;</p>
-
-<p><strong>Hist&oacute;rico&nbsp;</strong></p>
-
-<p>&nbsp;</p>
-
-<p>Desde 1996 o MST definiu que todas as terras que est&atilde;o em posse da Araupel seriam espa&ccedil;os para assentamentos.</p>
+Desde 1996 o MST definiu que todas as terras que est&atilde;o em posse da Araupel seriam espa&ccedil;os para assentamentos.</p>
 
 <p><br />
 &ldquo;N&oacute;s, Sem Terra vamos permanecer mobilizados, e a sociedade de Quedas do Igua&ccedil;u,&nbsp;toda popula&ccedil;&atilde;o da cidade &eacute; ciente do hist&oacute;rico de viol&ecirc;ncia cometido contra os trabalhadores pela pela empresa que envolve tamb&eacute;m a&nbsp;explora&ccedil;&atilde;o e destrui&ccedil;&atilde;o da mata nativa da regi&atilde;o&quot;.</p>
 
 <p>&nbsp;</p>
-
-<p><img alt="7e6557b3-dc51-40c2-85c6-3b52ae532b9e.jpg" height="394" src="http://farm6.staticflickr.com/5698/23222362886_3d528c8b6a_b.jpg" width="700" /></p>
-
-<p><br />
-&nbsp;</p>
