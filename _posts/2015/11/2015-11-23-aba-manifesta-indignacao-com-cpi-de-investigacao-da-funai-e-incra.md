@@ -5,7 +5,7 @@ tags:
   - tag: CPI
   - tag: incra
   - tag: Funai
-title: ABA manifesta indignação com CPI de investigação da Funai e Incra
+title: ABA manifesta indignação com CPI que investiga Funai e Incra
 support_line: "O texto questiona a legalidade da instalação do processo por não atender aos requisitos mínimos de um procedimento dessa natureza e ressalta a necessidade dos deputados conhecer o trabalho dos profissionais da área. "
 menu: direitos humanos
 images_hd: "http://farm6.staticflickr.com/5756/23248091365_8bcfe79bab_b.jpg"
