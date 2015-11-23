@@ -8,7 +8,7 @@ tags:
 title: ABA manifesta indignação com CPI de investigação da Funai e Incra
 support_line: "O texto questiona a legalidade da instalação do processo por não atender aos requisitos mínimos de um procedimento dessa natureza e ressalta a necessidade dos deputados conhecer o trabalho dos profissionais da área. "
 menu: direitos humanos
-images_hd: "http://farm6.staticflickr.com/5722/22878903669_17b4dd9d74_b.jpg"
+images_hd: "http://farm6.staticflickr.com/5756/23248091365_8bcfe79bab_b.jpg"
 layout: post
 files:
   - link: "http://farm6.staticflickr.com/5722/22878903669_17b4dd9d74_b.jpg"
@@ -17,6 +17,12 @@ files:
     small: "http://farm6.staticflickr.com/5722/22878903669_17b4dd9d74_n.jpg"
     title: n-NDIOS-large570.jpg
     $$hashKey: 2EJ
+  - link: "http://farm6.staticflickr.com/5756/23248091365_8bcfe79bab_b.jpg"
+    thumbnail: "http://farm6.staticflickr.com/5756/23248091365_8bcfe79bab_t.jpg"
+    medium: "http://farm6.staticflickr.com/5756/23248091365_8bcfe79bab_z.jpg"
+    small: "http://farm6.staticflickr.com/5756/23248091365_8bcfe79bab_n.jpg"
+    title: n-NDIOS-large570.jpg
+    $$hashKey: 31C
 created_date: "2015-11-23T13:37:12-02:00"
 published: true
 releated_posts:
