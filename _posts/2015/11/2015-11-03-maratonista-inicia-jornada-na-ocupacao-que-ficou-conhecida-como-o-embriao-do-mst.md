@@ -45,6 +45,7 @@ releated_posts:
   - 2015/10/2015-10-30-o-sonho-era-ter-um-pedaco-de-terra-diz-sem-terra-sobre-a-primeira-ocupacao-do-mst.md
   - 2015/08/2015-08-28-maratonista-usa-corrida-para-mostrar-mst-que-a-midia-a-midia-nao-divulga.md
   - 2015/09/2015-09-03-durante-maratona-jornalista-visita-o-assentamento-safra-a-mae-de-todos.md
+section: featured-news
 
 ---
 <p><img alt="29-estrada-va.jpg" src="http://farm6.staticflickr.com/5822/22125313764_ce9664f43f_b.jpg" /></p>
