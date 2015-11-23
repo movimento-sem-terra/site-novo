@@ -22,7 +22,7 @@ releated_posts:
   - 2015/09/2015-09-29-contra-ajuste-economistas-querem-emprego-e-renda-no-centro-da-politica-economica.md
   - 2015/10/2015-10-08-financiamento-empresarial-acaba-com-a-soberania-popular-afirma-especialista.md
 label: articles
-section: featured-news
+section: null
 
 ---
 <p><img alt="brasil_petrobras.jpg" src="http://farm6.staticflickr.com/5834/22929809601_3493b0c522_b.jpg" /></p>
