@@ -41,10 +41,13 @@ releated_posts:
 Da P&aacute;gina do MST</p>
 
 <p class="p1"><br />
-Na &uacute;ltima&nbsp;quinta-feira (19), o Coletivo de Mulheres do MST fez uma den&uacute;ncia p&uacute;blica ao Conselho de Desenvolvimento do Territ&oacute;rio Cantuquirigua&ccedil;u (CONDETEC), que estava reunido na Universidade Federal da Fronteira Sul (UFFS), regi&atilde;o centro do Paran&aacute;.</p>
+Na &uacute;ltima&nbsp;quinta-feira (19), o Coletivo de Mulheres do MST fez uma den&uacute;ncia p&uacute;blica ao Conselho de Desenvolvimento do Territ&oacute;rio Cantuquirigua&ccedil;u (CONDETEC), estava reunido na Universidade Federal da Fronteira Sul (UFFS), regi&atilde;o centro do Paran&aacute;.</p>
 
 <p class="p7"><br />
 O Conselho que re&uacute;ne representantes de prefeituras, entidades e organiza&ccedil;&otilde;es atuantes na regi&atilde;o foi cobrado pelas trabalhadoras para que tome provid&ecirc;ncias diante do artigo &ldquo;Os filhos do St&eacute;dile e do Seriguelli&rdquo; do colunista Jo&atilde;o Muniz, &ldquo;o Matuto&rdquo;, publicado no Jornal Correio do Povo. Na publica&ccedil;&atilde;o, Muniz alegava que mulheres gr&aacute;vidas de dois acampamentos do MST no Paran&aacute; seriam v&iacute;timas de estupros dentro destes espa&ccedil;os.</p>
+
+<p class="p7"><br />
+Na ocasi&atilde;o, o MST divulgou uma <a href="http://www.mst.org.br/2015/11/05/mulheres-sem-terra-respondem-jornal-que-acusa-casos-de-estupros-em-acampamentos-do-mst.html">nota de rep&uacute;dio</a> ao artigo e afirmou que este&nbsp;representa &nbsp;&quot;o preconceito, o machismo e a viol&ecirc;ncia contra as mulheres e o povo trabalhador Sem Terra&quot;.&nbsp;</p>
 
 <p class="p7"><br />
 O jornalista &eacute; membro do CONDETEC e estava presente na reuni&atilde;o, mas n&atilde;o se pronunciou durante o espa&ccedil;o onde as Sem Terra apresentavam a den&uacute;ncia.</p>
