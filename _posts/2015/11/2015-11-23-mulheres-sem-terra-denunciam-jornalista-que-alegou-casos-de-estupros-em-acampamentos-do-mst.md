@@ -2,11 +2,10 @@
 date: "2015-11-23T09:19:08-02:00"
 tags:
   - tag: direitos-humanos
-  - tag: paraná
-  - tag: mulheres-camponesas
+  - tag: araupel
   - tag: violência
 title: Mulheres Sem Terra denunciam jornalista que alegou casos de estupros em acampamentos do MST
-images_hd: "http://farm1.staticflickr.com/671/23214759896_ec9bb7c430_b.jpg"
+images_hd: "http://farm6.staticflickr.com/5758/23214875806_2171bb060c_b.jpg"
 support_line: "A denúncia pública foi apresentada ao Conselho de Desenvolvimento do Território Cantuquiriguaçu (CONDETEC), que estava reunido na Universidade Federal da Fronteira Sul (UFFS), região centro do Paraná."
 menu: direitos humanos
 layout: post
@@ -17,9 +16,19 @@ files:
     small: "http://farm1.staticflickr.com/671/23214759896_ec9bb7c430_n.jpg"
     title: 22618121690_42202e3e10_b.jpg
     $$hashKey: 02Z
+  - link: "http://farm6.staticflickr.com/5758/23214875806_2171bb060c_b.jpg"
+    thumbnail: "http://farm6.staticflickr.com/5758/23214875806_2171bb060c_t.jpg"
+    medium: "http://farm6.staticflickr.com/5758/23214875806_2171bb060c_z.jpg"
+    small: "http://farm6.staticflickr.com/5758/23214875806_2171bb060c_n.jpg"
+    title: 22387743067_8909b39e42_b.jpg
+    $$hashKey: 0K0
 created_date: "2015-11-23T09:34:53-02:00"
 published: true
-releated_posts: []
+releated_posts:
+  - 2015/11/2015-11-05-mulheres-sem-terra-respondem-jornal-que-acusa-casos-de-estupros-em-acampamentos-do-mst.md
+  - 2015/06/2015-06-03-herdeiros-da-luta.md
+  - 2015/05/2015-05-27-justica-decide-que-araupel-nao-e-dona-da-fazenda-rio-das-cobras.md
+  - 2014/12/2014-11-14-queremos-obter-terras-para-criar-assentamentos-agroecologiocos.md
 
 ---
 <p class="p1">&nbsp;</p>
