@@ -61,6 +61,7 @@ releated_posts:
   - 2015/04/2015-04-02-o-nosso-exercito-e-de-trabalhadores-que-lutam-pela-terra-diz-coordenador-do-mst.md
   - 2014/02/2014-02-04-altamiro-borges-30-anos-do-mst-e-o-odio-da-midia.md
   - 2015/10/2015-10-28-o-caminhao-a-barragem-e-a-terra-viva.md
+section: featured-news
 
 ---
 <p><img alt="7.jpg" src="http://farm6.staticflickr.com/5708/22554589910_202b6e37f4_b.jpg" /></p>
