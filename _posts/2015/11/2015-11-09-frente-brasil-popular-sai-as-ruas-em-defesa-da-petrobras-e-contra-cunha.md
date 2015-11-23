@@ -9,7 +9,7 @@ title: Frente Brasil Popular sai às ruas em defesa da Petrobras e contra Cunha
 support_line: "As mobilizações serão na próxima sexta (13), e a luta será por mais direitos, contra a agenda conservadora, em defesa da democracia e por uma nova política econômica."
 menu: lutas e mobilizações
 images_hd: "http://farm6.staticflickr.com/5726/22479938087_bbc5b7d2e6_b.jpg"
-section: featured-news
+section: null
 layout: post
 files:
   - link: "http://farm6.staticflickr.com/5726/22479938087_bbc5b7d2e6_b.jpg"
