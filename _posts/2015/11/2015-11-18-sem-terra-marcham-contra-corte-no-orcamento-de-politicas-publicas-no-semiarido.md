@@ -41,6 +41,7 @@ releated_posts:
   - 2015/06/2015-06-30-especialista-alerta-para-degradacao-e-desertificacao-no-semiarido.md
   - 2015/09/2015-09-10-comida-de-verdade-no-semiarido.md
   - 2015/01/2015-01-27-pesquisa-inedita-no-semiarido-aponta-como-familias-agricultoras-enfrentam-os-impactos-ambientais.md
+section: featured-news
 
 ---
 <p><img alt="IMG-20151117-WA0035.jpg" height="525" src="http://farm6.staticflickr.com/5826/22696250458_37b312648d_b.jpg" width="700" /></p>
