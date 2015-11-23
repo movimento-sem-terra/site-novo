@@ -7,7 +7,7 @@ tags:
 title: "MST se solidariza com estudantes que ocupam as escolas na luta por educação em São Paulo "
 support_line: Pelos menos seis escolas da capital receberam produtos dos assentamentos da Reforma Agrária.
 menu: lutas e mobilizações
-section: null
+section: featured-news
 images_hd: "http://farm1.staticflickr.com/605/23180522975_b5d7e27f56_b.jpg"
 layout: post
 files:
