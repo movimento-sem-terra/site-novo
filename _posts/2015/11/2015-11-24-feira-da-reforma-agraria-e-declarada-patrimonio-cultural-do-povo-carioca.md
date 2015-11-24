@@ -28,6 +28,7 @@ releated_posts:
   - 2015/08/2015-08-31-mst-ocupa-praca-da-faculdade-com-frutos-da-reforma-agraria.md
   - 2015/10/2015-10-24-recontando-a-historia-do-campo-cartilha-sobre-agroecologia-e-lancada-na-1a-feira-nacional-da-reforma-agraria.md
   - 2015/10/2015-10-16-assentados-aprendem-as-licoes-da-floresta-para-cultivar-na-amazonia.md
+section: cover
 
 ---
 <p><img alt="22196656290_de0022843c_z.jpg" src="http://farm1.staticflickr.com/731/22880543287_902562017f_b.jpg" /></p>
