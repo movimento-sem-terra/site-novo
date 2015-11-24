@@ -82,7 +82,7 @@ Para a jovem Nynna Souza, ir at&eacute; o topo da Serra da Barriga foi um dos mo
 Entre palestras, rodas de discuss&atilde;o, oficinas e atividades culturais, durante os tr&ecirc;s dias de encontro os jovens apontaram a necessidade do fortalecimento da luta pela Reforma Agr&aacute;ria Popular.</p>
 
 <p><br />
-&ldquo;Nosso encontro &eacute; fruto de um bonito processo de organiza&ccedil;&atilde;o da Juventude Sem Terra nos acampamentos e assentamentos, debatendo o papel da juventude no nosso Movimento e as nossas tarefas na constru&ccedil;&atilde;o da Reforma Agr&aacute;ria Popular&rdquo;, disse Jos&eacute; Neto, do coletivo de juventude.</p>
+&ldquo;Nosso encontro &eacute; fruto de um bonito processo de organiza&ccedil;&atilde;o da Juventude Sem Terra nos acampamentos e assentamentos, debatendo o papel da juventude no nosso Movimento e as nossas tarefas na constru&ccedil;&atilde;o da Reforma Agr&aacute;ria Popular&rdquo;, disse Jos&eacute; Neto.</p>
 
 <p><br />
 Com a Universidade ornamentada com pipas e o grande coro que chamava a juventude para voar, a atividade trouxe em sua programa&ccedil;&atilde;o o debate em torno da vida da juventude no campo e na cidade.&nbsp;</p>
