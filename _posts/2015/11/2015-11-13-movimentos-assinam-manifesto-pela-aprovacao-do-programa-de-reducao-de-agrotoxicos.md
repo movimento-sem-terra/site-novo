@@ -26,7 +26,7 @@ releated_posts:
   - 2015/11/2015-11-04-movimentos-criticam-recuo-do-governo-sobre-o-programa-de-reducao-de-agrotoxicos.md
   - 2015/10/2015-10-07-voce-e-envenenado-diariamente-mas-o-lobby-dos-agrotoxicos-fala-mais-alto.md
   - 2015/10/2015-10-09-agricultores-expostos-a-agrotoxicos-nao-sabem-que-sofrem-risco-de-morte.md
-section: cover
+section: featured-news
 
 ---
 <figure class="image"><img alt="12508801204_09b20a1e0f_z.jpg" height="467" src="http://farm6.staticflickr.com/5679/22957758496_78bbe62e04_b.jpg" width="700" />
