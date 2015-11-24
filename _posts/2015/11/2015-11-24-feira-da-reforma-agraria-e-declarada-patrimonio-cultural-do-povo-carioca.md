@@ -41,13 +41,13 @@ Da P&aacute;gina do MST</em></p>
 A Feira Estadual da Reforma Agr&aacute;ria C&iacute;cero Guedes, realizada desde 2013 na cidade do Rio de Janeiro, foi reconhecida como de interesse cultural e social para a cidade, <span style="line-height: 20.8px;">a partir da Lei 5999/2015, de iniciativa do deputado Renato Cinco (PSoL)</span>.</p>
 
 <p><br />
-Para celebrar esta conquista, os Sem Terra j&aacute; marcaram a 7&deg; edi&ccedil;&atilde;o da Feira, que acontecer&aacute; entre os dias 7 a 9 de dezembro no Largo da Carioca, no centro do Rio de Janeiro, em que ser&atilde;o comercializadas mais de 70 toneladas de alimentos, com diversas variedades de produtos vindos das &aacute;reas de assentamentos da Reforma Agr&aacute;ria.&nbsp;</p>
+Para celebrar esta conquista, os Sem Terra j&aacute; marcaram a 7&deg; edi&ccedil;&atilde;o da Feira, que acontecer&aacute; entre os dias 7 a 9 de dezembro no Largo da Carioca, no centro do Rio de Janeiro. Ser&atilde;o comercializadas mais de 70 toneladas de alimentos, com diversas variedades de produtos vindos das &aacute;reas de assentamentos da Reforma Agr&aacute;ria.&nbsp;</p>
 
 <p><br />
 A diversidade dos alimentos surpreende os que passam pela Feira: quantas vezes pensamos nas outras possibilidades de arroz para al&eacute;m do branco? A Feira ser&aacute; composta por arroz e suco de uva integral, frutas, polpas de frutas, feij&otilde;es, como o vermelho e de corda, sucos, legumes, verduras, produtos derivados de cana-de-a&ccedil;&uacute;car, como a&ccedil;&uacute;car mascavo e melado, al&eacute;m de ervas medicinais.</p>
 
 <p><br />
-A estimativa &eacute; que cerca de 150 agricultores do estado, al&eacute;m de representa&ccedil;&otilde;es de outros demais estados do sudeste, estejam presentes no evento, divulgando produ&ccedil;&otilde;es in natura e industrializadas.</p>
+A estimativa &eacute; que cerca de 150 agricultores do estado, al&eacute;m de representa&ccedil;&otilde;es de outros demais estados do sudeste, estejam presentes no evento, divulgando produ&ccedil;&otilde;es <em>in natura</em> e industrializadas.</p>
 
 <p><br />
 A feira contar&aacute; ainda com a participa&ccedil;&atilde;o do setor de sa&uacute;de do MST, que mostrar&aacute; a produ&ccedil;&atilde;o de fitoter&aacute;picos e cosm&eacute;ticos dos assentamentos.&nbsp;</p>
