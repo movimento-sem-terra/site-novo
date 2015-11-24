@@ -31,9 +31,7 @@ releated_posts:
 </figure>
 
 <p><br />
-&nbsp;</p>
-
-<p><em>Do FNDC </em></p>
+<em>Do FNDC </em></p>
 
 <p><br />
 Treze organiza&ccedil;&otilde;es da sociedade civil protocolaram nesta segunda-feira (23) representa&ccedil;&atilde;o no Minist&eacute;rio P&uacute;blico Federal (MPF) contra 32 deputados e oito senadores s&oacute;cios de emissoras de r&aacute;dio e TV. A representa&ccedil;&atilde;o baseia-se no artigo 54, incisos I e II da Constitui&ccedil;&atilde;o Federal, que pro&iacute;be pol&iacute;ticos titulares de mandato eletivo de possu&iacute;rem ou controlarem empresas de radiodifus&atilde;o e empresas que gozem de favor decorrente de contrato com a Uni&atilde;o.</p>
