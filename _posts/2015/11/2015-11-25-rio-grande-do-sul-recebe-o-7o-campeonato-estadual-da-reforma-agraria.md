@@ -4,7 +4,7 @@ tags:
   - tag: futebol
   - tag: MST
   - tag: reforma-agrária
-title: "Rio Grande do Sul recebe o 7º Campeonato Estadual da Reforma Agrária. "
+title: Rio Grande do Sul recebe o 7º Campeonato Estadual da Reforma Agrária
 support_line: "O torneio de futebol, organizado pelo MST,  será realizado no Assentamento Rondinha, localizado no município de Jóia."
 menu: "educação, cultura e comunicação"
 images_hd: "http://farm6.staticflickr.com/5746/23005147610_0b4328aa27_b.jpg"
