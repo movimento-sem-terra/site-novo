@@ -66,8 +66,6 @@ Eles tamb&eacute;m denunciaram que quem comete terrorismo contra o povo s&atilde
 <p><br />
 Para <span style="line-height: 20.8px;">Jarbas Vieira, do Movimento pela Soberania Popular na Minera&ccedil;&atilde;o (MAM), </span>&ldquo;o&nbsp;C&oacute;digo de Minera&ccedil;&atilde;o flexibiliza ainda mais a explora&ccedil;&atilde;o mineral no Brasil. S&oacute; o relator da Comiss&atilde;o Especial do C&oacute;digo recebeu mais de R$ 2 milh&otilde;es de reais no seu financiamento de campanha de 2014. S&oacute; a Vale investiu mais de R$ 22 milh&otilde;es nas campanhas eleitorais e a comiss&atilde;o especial, que possui 27 deputados titulares, somente quatro n&atilde;o foram financiados pela minera&ccedil;&atilde;o. A Vale n&atilde;o vale nada&rdquo;.&nbsp;</p>
 
-<p>&nbsp;</p>
-
 <p><br />
 Ao&nbsp;menos cinco pessoas foram detidas de forma violenta pela Pol&iacute;cia Legislativa. No momento da deten&ccedil;&atilde;o, os manifestantes gritavam: &ldquo;Viva Mariana!&rdquo;.<br />
 &nbsp;</p>
