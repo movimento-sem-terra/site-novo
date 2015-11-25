@@ -7,15 +7,15 @@ tags:
 title: "\"Procuramos construir novas relações de gênero, em que todas e todos sejamos respeitosos um com o outro\", afirma dirigente"
 support_line: "Para marcar o dia internacional de luta pelo fim da violência contra a mulher, o MST realiza uma Semana de debates sobre o tema no campo."
 menu: direitos humanos
-images_hd: "http://farm1.staticflickr.com/766/22936856069_22f9dd24b0_b.jpg"
+images_hd: "http://farm6.staticflickr.com/5779/23305016175_cb4bae0140_b.jpg"
 layout: post
 files:
-  - link: "http://farm1.staticflickr.com/766/22936856069_22f9dd24b0_b.jpg"
-    thumbnail: "http://farm1.staticflickr.com/766/22936856069_22f9dd24b0_t.jpg"
-    medium: "http://farm1.staticflickr.com/766/22936856069_22f9dd24b0_z.jpg"
-    small: "http://farm1.staticflickr.com/766/22936856069_22f9dd24b0_n.jpg"
-    title: MST.jpg
-    $$hashKey: 0PO
+  - link: "http://farm6.staticflickr.com/5779/23305016175_cb4bae0140_b.jpg"
+    thumbnail: "http://farm6.staticflickr.com/5779/23305016175_cb4bae0140_t.jpg"
+    medium: "http://farm6.staticflickr.com/5779/23305016175_cb4bae0140_z.jpg"
+    small: "http://farm6.staticflickr.com/5779/23305016175_cb4bae0140_n.jpg"
+    title: MST_2009-e1426083969666.jpg
+    $$hashKey: 0YG
 created_date: "2015-11-25T15:26:35-02:00"
 published: true
 releated_posts:
