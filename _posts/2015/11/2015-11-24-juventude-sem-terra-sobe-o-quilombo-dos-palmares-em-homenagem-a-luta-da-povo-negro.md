@@ -38,6 +38,7 @@ releated_posts:
   - 2015/11/2015-11-04-acampamento-aponta-desafios-para-a-juventude-do-df-no-proximo-periodo.md
   - 2015/11/2015-11-05-juventude-sem-terra-se-compromete-com-a-producao-de-alimentos-saudaveis.md
   - 2015/10/2015-10-27-mst-ocupa-incra-em-brasilia-para-exigir-plano-nacional-da-reforma-agraria.md
+section: featured-news
 
 ---
 <p><img alt="quilombo dos palmares.jpg" src="http://farm1.staticflickr.com/623/22645431404_5ce94b8d3f_b.jpg" /></p>
