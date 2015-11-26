@@ -36,6 +36,7 @@ releated_posts:
   - 2014/05/2014-05-27-tribunal-popular-julga-atuacao-de-mineradoras-na-america-latina.md
   - 2014/05/2014-05-27-tribunal-popular-julga-atuacao-de-mineradoras-na-america-latina.md-e
   - 2014/12/2014-12-09-na-america-latina-existem-211-conflitos-causados-pela-mineracao.md
+section: cover
 
 ---
 <figure class="image" style="float:right"><img alt="preso.jpg" src="http://farm1.staticflickr.com/637/23286496996_7c655d6b31_b.jpg" />
