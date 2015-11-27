@@ -22,18 +22,18 @@ files:
     small: //farm6.staticflickr.com/5705/23264765991_d03ae5a1ea_n.jpg
     title: IMG_3130.JPG
     $$hashKey: 02P
-  - link: //farm6.staticflickr.com/5793/23238986932_bbd6c56b7e_b.jpg
-    thumbnail: //farm6.staticflickr.com/5793/23238986932_bbd6c56b7e_t.jpg
-    medium: //farm6.staticflickr.com/5793/23238986932_bbd6c56b7e_z.jpg
-    small: //farm6.staticflickr.com/5793/23238986932_bbd6c56b7e_n.jpg
-    title: IMG_3154.JPG
-    $$hashKey: 02S
   - link: //farm1.staticflickr.com/776/22979411279_3dcabf9229_b.jpg
     thumbnail: //farm1.staticflickr.com/776/22979411279_3dcabf9229_t.jpg
     medium: //farm1.staticflickr.com/776/22979411279_3dcabf9229_z.jpg
     small: //farm1.staticflickr.com/776/22979411279_3dcabf9229_n.jpg
     title: qG04j.jpeg
     $$hashKey: 02V
+  - link: //farm6.staticflickr.com/5775/23051866050_a001d74390_b.jpg
+    thumbnail: //farm6.staticflickr.com/5775/23051866050_a001d74390_t.jpg
+    medium: //farm6.staticflickr.com/5775/23051866050_a001d74390_z.jpg
+    small: //farm6.staticflickr.com/5775/23051866050_a001d74390_n.jpg
+    title: IMG_3100.JPG
+    $$hashKey: 0FA
 created_date: "2015-11-27T12:22:33-02:00"
 published: true
 releated_posts:
@@ -47,7 +47,7 @@ releated_posts:
   - 2015/09/2015-09-28-belem-sedia-maior-evento-de-agroecologia-do-brasil.md
 
 ---
-<p><img alt="qG04j.jpeg" height="466" src="//farm1.staticflickr.com/776/22979411279_3dcabf9229_b.jpg" width="700" /></p>
+<p><img alt="IMG_3100.JPG" src="//farm6.staticflickr.com/5775/23051866050_a001d74390_b.jpg" /></p>
 
 <p>&nbsp;</p>
 
@@ -78,7 +78,7 @@ Frente a essa l&oacute;gica, os Sem Terra entendem a agroecologia como ferrament
 
 <p>&nbsp;</p>
 
-<p><img alt="IMG_3154.JPG" height="466" src="//farm6.staticflickr.com/5793/23238986932_bbd6c56b7e_b.jpg" width="700" /></p>
+<p><img alt="qG04j.jpeg" src="//farm1.staticflickr.com/776/22979411279_3dcabf9229_b.jpg" /></p>
 
 <p><br />
 Nesse sentido Ant&ocirc;nio de Miranda, da dire&ccedil;&atilde;o nacional, afirma que a agroecologia, al&eacute;m de revitalizar a biodiversidade do solo, traz outra compreens&atilde;o na forma&ccedil;&atilde;o e na produ&ccedil;&atilde;o dos trabalhadores.</p>
