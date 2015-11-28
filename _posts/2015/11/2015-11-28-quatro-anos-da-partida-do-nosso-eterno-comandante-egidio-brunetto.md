@@ -1,5 +1,5 @@
 ---
-date: "2015-11-28T12:59:53-03:00"
+date: "2015-11-28T13:59:53-02:00"
 tags:
   - tag: egídio-brunetto
   - tag: homenagem
@@ -64,3 +64,9 @@ Para n&oacute;s Eg&iacute;dio Brunetto sempre estar&aacute; vivo, pois plantou e
 
 <p><br />
 Viva Brunetto! Viva a luta do MST! Viva a resist&ecirc;ncia dos que sonham!</p>
+
+<p><iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/FDPYvNaz7RI" width="640"></iframe></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
