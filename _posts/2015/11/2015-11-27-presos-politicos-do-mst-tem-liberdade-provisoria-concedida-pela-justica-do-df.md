@@ -35,11 +35,16 @@ Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
+<p>Os quatro jovens do MST presos por prestarem solidariedade &agrave;s v&iacute;timas de Mariana e denunciarem a proposta do novo C&oacute;digo de Minera&ccedil;&atilde;o, receberam liberdade provis&oacute;ria na tarde desta sexta-feira (27).</p>
+
+<p>&nbsp;</p>
+
 <p>A decis&atilde;o ocorreu em Audi&ecirc;ncia de Cust&oacute;dia realizada no Tribunal de Justi&ccedil;a do Distrito Federal (TJ/DF), com a ju&iacute;za Lorena Alves Ocampos e a promotora Thaienne Fernandes.</p>
 
 <p><br />
-Segundo Eduardo Correia, um dos advogados que acompanhou a audi&ecirc;ncia, ap&oacute;s o relato dos jovens sobre o ocorrido, a justi&ccedil;a compreendeu que n&atilde;o havia motivos para que eles continuassem detidos, concedendo liberdade provis&oacute;ria sem fian&ccedil;a.<br />
-<br />
+Segundo Eduardo Correia, um dos advogados que acompanhou a audi&ecirc;ncia, ap&oacute;s o relato dos jovens sobre o ocorrido, a justi&ccedil;a compreendeu que n&atilde;o havia motivos para que eles continuassem detidos, concedendo liberdade provis&oacute;ria sem fian&ccedil;a.</p>
+
+<p><br />
 &ldquo;Eles nem deveriam ter sido presos porque na verdade n&atilde;o houve nenhum crime. O que houve foi uma criminaliza&ccedil;&atilde;o do protesto que eles fizeram&rdquo;, explica Correia.</p>
 
 <p><br />
