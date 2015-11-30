@@ -17,7 +17,7 @@ files:
     title: camp_agrotoxicos2014_not.jpg
     $$hashKey: 17X
 created_date: "2015-11-30T16:07:35-02:00"
-published: true
+published: false
 releated_posts:
   - 2014/12/2014-12-03-movimentos-fazem-atividade-para-alertar-populacao-de-sp-contra-agrotoxicos.md
   - 2015/10/2015-10-06-monsanto-comeca-a-dar-adeus-ao-glifosato-mas-isso-nao-e-uma-boa-noticia.md
