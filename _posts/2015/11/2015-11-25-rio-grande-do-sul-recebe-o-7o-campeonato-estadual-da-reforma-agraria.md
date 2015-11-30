@@ -26,20 +26,19 @@ releated_posts:
   - 2014/07/2014-07-17-familias-sem-terra-seguem-na-luta-por-area-grilada-em-abelardo-luz.md
   - 2015/09/2015-09-15-em-amistoso-de-futebol-chico-buarque-e-mst-trocam-camisas.md
   - 2015/09/2015-09-15-mst-realiza-amistoso-de-futebol-com-o-time-de-chico-buarque.md
+section: featured-news
 
 ---
 <p>&nbsp;</p>
 
 <p><img alt="tn_658_645_top7_29115.jpg" src="http://farm6.staticflickr.com/5746/23005147610_0b4328aa27_b.jpg" /></p>
 
-<p>&nbsp;</p>
-
-<p><em>Por Catiana de Medeiros<br />
+<p><br />
+<em>Por Catiana de Medeiros<br />
 Da P&aacute;gina do MST</em></p>
 
-<p>&nbsp;</p>
-
-<p>A regi&atilde;o Noroeste Colonial do Rio Grande do Sul recebe, neste s&aacute;bado (28) e domingo (29), a etapa final do 7&ordm; Campeonato Estadual da Reforma Agr&aacute;ria.</p>
+<p><br />
+A regi&atilde;o Noroeste Colonial do Rio Grande do Sul recebe, neste s&aacute;bado (28) e domingo (29), a etapa final do 7&ordm; Campeonato Estadual da Reforma Agr&aacute;ria.</p>
 
 <p><br />
 O torneio de futebol, organizado pelo MST,&nbsp;&nbsp;s<span style="line-height: 20.8px;">er&aacute; realizado no Assentamento Rondinha, localizado no munic&iacute;pio de J&oacute;ia.</span></p>
@@ -62,9 +61,8 @@ Para o dirigente nacional do MST, Cedenir de Oliveira, o Campeonato Estadual da 
 <p><br />
 <strong>Hist&oacute;rico</strong></p>
 
-<p>O primeiro campeonato foi realizado no ano de 2005,&nbsp;a segunda edi&ccedil;&atilde;o foi&nbsp;quatro&nbsp;anos depois, em 2009. O torneio tamb&eacute;m aconteceu em 2010, 2011, 2012 e 2014, contemplando diferentes regi&otilde;es do Estado.</p>
+<p><br />
+O primeiro campeonato foi realizado no ano de 2005,&nbsp;a segunda edi&ccedil;&atilde;o foi&nbsp;quatro&nbsp;anos depois, em 2009. O torneio tamb&eacute;m aconteceu em 2010, 2011, 2012 e 2014, contemplando diferentes regi&otilde;es do Estado.</p>
 
 <p><br />
-As edi&ccedil;&otilde;es anteriores ocorreram em assentamentos dos munic&iacute;pios de Piratini, Candiota, Charqueadas, Tupanciret&atilde; e Santana do Livramento.<br />
-<br />
-&nbsp;</p>
+As edi&ccedil;&otilde;es anteriores ocorreram em assentamentos dos munic&iacute;pios de Piratini, Candiota, Charqueadas, Tupanciret&atilde; e Santana do Livramento.</p>
