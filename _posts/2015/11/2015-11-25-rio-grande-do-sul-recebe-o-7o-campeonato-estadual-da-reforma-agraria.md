@@ -26,7 +26,7 @@ releated_posts:
   - 2014/07/2014-07-17-familias-sem-terra-seguem-na-luta-por-area-grilada-em-abelardo-luz.md
   - 2015/09/2015-09-15-em-amistoso-de-futebol-chico-buarque-e-mst-trocam-camisas.md
   - 2015/09/2015-09-15-mst-realiza-amistoso-de-futebol-com-o-time-de-chico-buarque.md
-section: featured-news
+section: null
 
 ---
 <p>&nbsp;</p>
