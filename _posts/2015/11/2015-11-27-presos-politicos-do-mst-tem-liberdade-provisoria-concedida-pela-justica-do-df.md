@@ -8,7 +8,7 @@ tags:
 title: Presos políticos do MST têm liberdade provisória concedida pela justiça do DF
 support_line: "Os quatro jovens do MST presos por prestarem solidariedade às vítimas de Mariana e denunciarem a proposta do novo Código de Mineração, receberam liberdade provisória na tarde desta sexta-feira (27)."
 menu: lutas e mobilizações
-section: cover
+section: null
 images_hd: //farm1.staticflickr.com/606/22984752619_6a5d6f98aa_b.jpg
 layout: post
 files:
