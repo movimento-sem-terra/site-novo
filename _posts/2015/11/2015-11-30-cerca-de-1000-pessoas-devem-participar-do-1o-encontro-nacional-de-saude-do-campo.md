@@ -7,15 +7,15 @@ tags:
 title: Cerca de 1000 pessoas devem participar do 1º Encontro Nacional de Saúde do Campo
 support_line: "A abertura do evento, que tem como lema “Cuidar, promover, preservar: a saúde se conquista com luta popular”, acontece nesta terça, às 9h, em Brasília."
 menu: projeto popular
-images_hd: //farm1.staticflickr.com/633/23319181532_87c0fffa2a_b.jpg
+images_hd: //farm1.staticflickr.com/732/23345854631_8ce1ca86de_b.jpg
 layout: post
 files:
-  - link: //farm1.staticflickr.com/633/23319181532_87c0fffa2a_b.jpg
-    thumbnail: //farm1.staticflickr.com/633/23319181532_87c0fffa2a_t.jpg
-    medium: //farm1.staticflickr.com/633/23319181532_87c0fffa2a_z.jpg
-    small: //farm1.staticflickr.com/633/23319181532_87c0fffa2a_n.jpg
-    title: redenacional.jpg
-    $$hashKey: 22H
+  - link: //farm1.staticflickr.com/732/23345854631_8ce1ca86de_b.jpg
+    thumbnail: //farm1.staticflickr.com/732/23345854631_8ce1ca86de_t.jpg
+    medium: //farm1.staticflickr.com/732/23345854631_8ce1ca86de_z.jpg
+    small: //farm1.staticflickr.com/732/23345854631_8ce1ca86de_n.jpg
+    title: 21810571884_eeee8ee299_z.jpg
+    $$hashKey: 27V
 created_date: "2015-11-30T16:37:05-02:00"
 published: true
 releated_posts:
@@ -28,8 +28,8 @@ releated_posts:
   - 2015/09/2015-09-03-a-populacao-brasileira-nunca-teve-tantos-medicos-no-seu-seio-com-a-chegada-dos-cubanos-afirma-medico-do-mst.md
 
 ---
-<figure class="image"><img alt="redenacional.jpg" src="//farm1.staticflickr.com/633/23319181532_87c0fffa2a_b.jpg" />
-<figcaption>Um dos organizadores do encontro &eacute; a Rede Nacional de M&eacute;dicas e M&eacute;dicos Populares.</figcaption>
+<figure class="image"><img alt="21810571884_eeee8ee299_z.jpg" src="//farm1.staticflickr.com/732/23345854631_8ce1ca86de_b.jpg" />
+<figcaption>Produtos fitoter&aacute;picos das &aacute;reas de assentamentos durante a 1&deg; Feira Nacional da Reforma Agr&aacute;ria, em S&atilde;o Paulo.</figcaption>
 </figure>
 
 <p><br />
