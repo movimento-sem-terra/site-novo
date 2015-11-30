@@ -1,5 +1,5 @@
 ---
-date: "2015-11-25T14:57:34-03:00"
+date: "2015-11-25T15:57:34-02:00"
 tags:
   - tag: mineração
   - tag: código-mineral
@@ -8,7 +8,7 @@ tags:
   - tag: vale
 title: "\"O sangue dos atingidos também é sangue Sem Terra!\", disse juventude em solidariedade à Mariana"
 support_line: "Jovens do MST realizaram uma intervenção na Câmara dos Deputados, em Brasília, para repudiar a proposta do novo Código de Mineração."
-section: null
+section: featured-news
 menu: lutas e mobilizações
 images_hd: "http://farm6.staticflickr.com/5672/23197159432_1e91c1250c_b.jpg"
 layout: post
