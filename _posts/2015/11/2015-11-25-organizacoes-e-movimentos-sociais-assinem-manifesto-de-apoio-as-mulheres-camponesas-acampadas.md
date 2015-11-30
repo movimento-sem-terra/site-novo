@@ -4,6 +4,9 @@ tags:
   - tag: repudio
   - tag: mulheres
   - tag: camponesas
+  - tag: araupel
+  - tag: paraná
+  - tag: direitos-humanos
 title: "Organizações e movimentos sociais: assinem manifesto de apoio às mulheres camponesas acampadas"
 support_line: "A afirmação do jornalista ofende a honra e a dignidade das gestantes, assim com as famílias acampadas de um modo geral, de forma difamatória, injuriosa e completamente descabida”"
 menu: lutas e mobilizações
@@ -19,36 +22,45 @@ files:
 created_date: "2015-11-25T11:32:29-02:00"
 published: true
 releated_posts:
-  - 2015/02/2015-02-04-mst-representa-movimentos-sociais-em-inauguracao-da-casa-da-mulher-brasileira-no-ms.md
+  - 2015/11/2015-11-05-mulheres-sem-terra-respondem-jornal-que-acusa-casos-de-estupros-em-acampamentos-do-mst.md
+  - 2015/05/2015-05-27-justica-decide-que-araupel-nao-e-dona-da-fazenda-rio-das-cobras.md
+  - 2014/08/2014-08-08-mst-conquista-direito-de-permanecer-na-ocupacao-da-araupel-no-pr.md
+  - 2014/08/2014-08-11-denuncia-as-mentiras-da-araupel.md
+  - 2015/04/2015-04-12-nao-temos-apenas-tetas-mas-cabeca-e-forca-para-conduzir-o-que-queremos.md
+  - 2015/04/2015-04-13-queremos-construir-um-socialismo-revitalizado-onde-desapareca-a-diferenca-de-genero.md
+  - 2015/07/2015-07-16-encontro-de-mulheres-pela-soberania-e-seguranca-alimentar.md
+  - 2015/10/2015-10-07-camponesas-debatem-o-protagonismo-das-mulheres-nos-processos-de-lutas-sociais.md
+section: featured-news
 
 ---
+<figure class="image" style="float:right"><img alt="6761-3 (1).jpg" src="http://farm1.staticflickr.com/731/23217883011_f179d11bb9_b.jpg" />
+<figcaption></figcaption>
+</figure>
+
 <p>&nbsp;</p>
 
 <p><em>Da P&aacute;gina do MST&nbsp;</em></p>
 
-<p>&nbsp;</p>
-
-<p>Em rep&uacute;dio a um artigo com falsas informa&ccedil;&otilde;es publicado pelo jornal Correio do Povo do Paran&aacute;, organiza&ccedil;&otilde;es, movimentos sociais e populares, articula&ccedil;&otilde;es e coletivos s&atilde;o convidados a assinar a nota de apoio &agrave;s mulheres camponesas que est&atilde;o acampadas no centro do estado.</p>
+<p><br />
+Em rep&uacute;dio a um artigo com falsas informa&ccedil;&otilde;es publicado pelo jornal Correio do Povo do Paran&aacute;, organiza&ccedil;&otilde;es, movimentos populares, articula&ccedil;&otilde;es e coletivos s&atilde;o convidados a assinar a nota de apoio &agrave;s mulheres camponesas que est&atilde;o acampadas no centro do estado.</p>
 
 <p><br />
-Assinado por Jo&atilde;o Muniz e publicado no jornal de Laranjeiras do Sul no &uacute;ltimo dia 3 de novembro, o artigo &ldquo;Os filhos do St&eacute;dile e do Seriguelli&rdquo; afirma &ndash; sem indicar fontes &ndash; haver mais de 160 gestantes em dois acampamentos do MST, com &iacute;ndice alto de gestantes adolescentes, e com ocorr&ecirc;ncia de casos de estupro.</p>
+Assinado por Jo&atilde;o Muniz e publicado no jornal de Laranjeiras do Sul no &uacute;ltimo dia 3 de novembro, o artigo &ldquo;Os filhos do St&eacute;dile e do Seriguelli&rdquo; chega a denunciar&nbsp;&ndash; sem indicar fontes &ndash; ocorr&ecirc;ncias de casos de estupro nas &aacute;reas realizadas por dirigentes locais.</p>
 
 <p><br />
 A nota de apoio &agrave;s mulheres repudia as falsas informa&ccedil;&otilde;es trazidas pelo autor, assim como a postura machista e preconceituosa revelada ao longo do texto. &ldquo;A afirma&ccedil;&atilde;o do jornalista ofende a honra e a dignidade das gestantes, assim com as fam&iacute;lias acampadas de um modo geral, de forma difamat&oacute;ria, injuriosa e completamente descabida&rdquo;, aponta a nota.</p>
 
 <p><br />
-Os acampamentos Herdeiros da Terra de 1&ordm; de Maio, de Rio Bonito do Igua&ccedil;u, e Dom Tom&aacute;s Baldu&iacute;no, de Quedas do Igua&ccedil;u, est&atilde;o em terra usadas pela Araupel, empresa de monocultivo de pinus e eucalipto. A &aacute;rea, grilada pela empresa, pertence &agrave; Uni&atilde;o.</p>
+Os acampamentos Herdeiros da Terra de 1&ordm; de Maio, de Rio Bonito do Igua&ccedil;u, e Dom Tom&aacute;s Baldu&iacute;no, de Quedas do Igua&ccedil;u, est&atilde;o em terras usadas pela Araupel, empresa de monocultivo de pinus e eucalipto. A &aacute;rea, grilada pela empresa&nbsp;pertence &agrave; Uni&atilde;o.</p>
 
 <p><br />
 As fam&iacute;lias acampadas lutam pela efetiva&ccedil;&atilde;o da reforma agr&aacute;ria, prevista na Constitui&ccedil;&atilde;o Federal, e por melhores condi&ccedil;&otilde;es de vida no campo.</p>
 
-<p>&nbsp;</p>
+<p><br />
+<strong>Ofensiva da m&iacute;dia</strong></p>
 
-<p><strong>Ofensiva da m&iacute;dia</strong></p>
-
-<p>&nbsp;</p>
-
-<p>O artigo em quest&atilde;o &eacute; um exemplo de uma s&eacute;rie de ofensivas dos meios de comunica&ccedil;&atilde;o locais contra os acampamentos da regi&atilde;o, que ap&oacute;iam abertamente a Araupel.</p>
+<p><br />
+O artigo em quest&atilde;o &eacute; um exemplo de uma s&eacute;rie de ofensivas dos meios de comunica&ccedil;&atilde;o locais contra os acampamentos da regi&atilde;o, que apoiam abertamente a Araupel.</p>
 
 <p><br />
 A criminaliza&ccedil;&atilde;o dos acampamentos rurais no estado por parte dos meios de comunica&ccedil;&atilde;o j&aacute; foram denunciadas em carta durante o 3&ordm; Curso de Comunica&ccedil;&atilde;o Popular do Paran&aacute;, realizado em agosto deste ano. Leia a carta aqui.</p>
@@ -57,6 +69,9 @@ A criminaliza&ccedil;&atilde;o dos acampamentos rurais no estado por parte dos m
 As assinaturas para a nota em apoio &agrave;s mulheres podem ser enviadas para o e-mail comupopularpr@gmail.com, at&eacute; o dia 23 de novembro.</p>
 
 <p><br />
+Confira a &iacute;ntegra da nota logo abaixo:</p>
+
+<p style="text-align: center;"><br />
 <strong>Nota de apoio &agrave;s mulheres camponesas acampadas no Centro do Paran&aacute;</strong></p>
 
 <p><br />
@@ -114,9 +129,7 @@ As duas &aacute;reas s&atilde;o objetivo de A&ccedil;&atilde;o Declarat&oacute;r
 A ju&iacute;za da 1&ordf; Vara Federal de Cascavel, Lilia C&ocirc;rtes de Carvalho de Martino, declarou nulo o t&iacute;tulo de propriedade da Fazenda Rio das Cobras (que contempla o acampamento Dom Tom&aacute;s) que a empresa de celulose Araupel alegava ser dona.</p>
 
 <p><br />
-Na decis&atilde;o, a ju&iacute;za considerou ilegal toda a cadeia dominial das terras e disse que a &aacute;rea pertence &agrave; Uni&atilde;o.<br />
-<br />
-Com rela&ccedil;&atilde;o &agrave; &aacute;rea da Fazenda Pinhal Ralo (que contempla o Acampamento Herdeiros da Terra), a Justi&ccedil;a Federal de Cascavel entendeu que &eacute; compet&ecirc;ncia da Vara de Pato Branco, e segue em processo de an&aacute;lise.</p>
+Na decis&atilde;o, a ju&iacute;za considerou ilegal toda a cadeia dominial das terras e disse que a &aacute;rea pertence &agrave; Uni&atilde;o.&nbsp;Com rela&ccedil;&atilde;o &agrave; &aacute;rea da Fazenda Pinhal Ralo (que contempla o Acampamento Herdeiros da Terra), a Justi&ccedil;a Federal de Cascavel entendeu que &eacute; compet&ecirc;ncia da Vara de Pato Branco, e segue em processo de an&aacute;lise.</p>
 
 <p><br />
 Ao longo dos 11 anos de tramita&ccedil;&atilde;o do processo, os agricultores sem terra j&aacute; conquistaram dois assentamentos sobre as terras em disputa: o Assentamento Celso Furtado, em Quedas do Igua&ccedil;u, e o 10 de Maio, em Rio Bonito do Igua&ccedil;u.</p>
