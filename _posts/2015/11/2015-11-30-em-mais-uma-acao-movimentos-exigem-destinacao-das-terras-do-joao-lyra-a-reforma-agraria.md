@@ -8,7 +8,7 @@ tags:
 title: "Em mais uma ação, movimentos exigem que terras de João Lyra sejam destinadas à Reforma Agrária"
 menu: lutas e mobilizações
 section: cover
-images_hd: //farm1.staticflickr.com/629/22793256604_52abe8c32a_b.jpg
+images_hd: //farm6.staticflickr.com/5728/22795765873_0acbe84126_b.jpg
 support_line: "Na cidade de União dos Palmares (AL), os Sem Terra reivindicam as áreas da massa falida do Grupo João Lyra para o assentamento das famílias."
 layout: post
 files:
@@ -18,6 +18,12 @@ files:
     small: //farm1.staticflickr.com/629/22793256604_52abe8c32a_n.jpg
     title: IMG_5392 (2).JPG
     $$hashKey: 0Y6
+  - link: //farm6.staticflickr.com/5728/22795765873_0acbe84126_b.jpg
+    thumbnail: //farm6.staticflickr.com/5728/22795765873_0acbe84126_t.jpg
+    medium: //farm6.staticflickr.com/5728/22795765873_0acbe84126_z.jpg
+    small: //farm6.staticflickr.com/5728/22795765873_0acbe84126_n.jpg
+    title: ato_AL.jpg
+    $$hashKey: 1M1
 created_date: "2015-11-30T11:18:19-02:00"
 published: true
 releated_posts:
@@ -28,7 +34,7 @@ releated_posts:
   - 2015/05/2015-05-28-governo-federal-corta-mais-de-50-dos-recursos-da-reforma-agraria.md
 
 ---
-<p><img alt="IMG_5392 (2).JPG" src="//farm1.staticflickr.com/629/22793256604_52abe8c32a_b.jpg" /></p>
+<p><img alt="ato_AL.jpg" src="//farm6.staticflickr.com/5728/22795765873_0acbe84126_b.jpg" /></p>
 
 <p><br />
 <em><span style="line-height: 1.6;">Por </span></em><span style="line-height: 20.8px;"><em>Gustavo Marinho (texto e fotos)<br />
