@@ -5,7 +5,7 @@ tags:
   - tag: reforma-agrária
   - tag: desapropriação
   - tag: alagoas
-title: "Em mais uma ação, movimentos exigem destinação das terras do João Lyra à Reforma Agrária"
+title: "Em mais uma ação, movimentos exigem que terras de João Lyra sejam destinadas à Reforma Agrária"
 menu: lutas e mobilizações
 section: cover
 images_hd: //farm1.staticflickr.com/629/22793256604_52abe8c32a_b.jpg
