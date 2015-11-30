@@ -7,7 +7,7 @@ tags:
   - tag: araupel
   - tag: paraná
   - tag: direitos-humanos
-title: "Organizações e movimentos sociais: assinem manifesto de apoio às mulheres camponesas acampadas"
+title: Organizações assinam manifesto de apoio às mulheres acampadas no Paraná
 support_line: "A afirmação do jornalista ofende a honra e a dignidade das gestantes, assim com as famílias acampadas de um modo geral, de forma difamatória, injuriosa e completamente descabida”"
 menu: lutas e mobilizações
 images_hd: "http://farm1.staticflickr.com/731/23217883011_f179d11bb9_b.jpg"
