@@ -28,18 +28,17 @@ releated_posts:
   - 2015/07/2015-07-06-na-bahia-militantes-debatem-os-atuais-desafios-enfrentados-pela-classe-trabalhadora.md
   - 2015/10/2015-10-06-curso-de-formacao-desafia-educadores-a-zerar-o-analfabetismo.md
   - 2015/08/2015-08-07-sem-terra-rmpem-a-cerca-do-saber-e-se-formam-no-eja.md
+section: featured-news
 
 ---
 <p><img alt="IMG_2661.jpg" height="466" src="http://farm6.staticflickr.com/5682/22695619574_d4de6030e3_b.jpg" width="700" /></p>
 
-<p>&nbsp;</p>
-
-<p><em>Do Coletivo de Comunica&ccedil;&atilde;o do MST na Bahia<br />
+<p><br />
+<em>Do Coletivo de Comunica&ccedil;&atilde;o do MST na Bahia<br />
 Da P&aacute;gina do MST</em></p>
 
-<p>&nbsp;</p>
-
-<p>Entre os dias 19 e 21/11, foi realizada a&nbsp;terceira e &uacute;ltima etapa do Curso de Forma&ccedil;&atilde;o para Educadores do Campo na modalidade da Educa&ccedil;&atilde;o de Jovens e Adultos (EJA).</p>
+<p><br />
+Entre os dias 19 e 21/11, foi realizada a&nbsp;terceira e &uacute;ltima etapa do Curso de Forma&ccedil;&atilde;o para Educadores do Campo na modalidade da Educa&ccedil;&atilde;o de Jovens e Adultos (EJA).</p>
 
 <p><br />
 A etapa aconteceu na Escola Popular de Agroecologia e Agrofloresta Eg&iacute;dio Brunetto, no Prado, extremo sul baiano e reuniu cerca de 50 educadores do Movimento.</p>
@@ -51,9 +50,11 @@ Para Eliane Oliveira, do coletivo estadual de educa&ccedil;&atilde;o do MST, o c
 &ldquo;Ap&oacute;s erradicar o analfabetismo em sete &aacute;reas de assentamentos da regi&atilde;o, atrav&eacute;s do m&eacute;todo cubano &lsquo;Sim, eu Posso&rsquo;, percebemos a necessidade de enfrentar o desafio da evas&atilde;o escolar, em especial nas turmas da EJA&rdquo;, explicou.</p>
 
 <p><br />
-&ldquo;Diante disso, o curso possibilitou aos educadores aprofundar os conhecimentos pedag&oacute;gicos, al&eacute;m de organizar os processos de forma&ccedil;&atilde;o capazes de dialogar com a realidade dos trabalhadores&rdquo;, afirmou Oliveira.</p>
+&ldquo;Diante disso, o curso possibilitou aos educadores aprofundar os conhecimentos pedag&oacute;gicos, al&eacute;m de organizar os processos de forma&ccedil;&atilde;o capazes de dialogar com a realidade dos trabalhadores&rdquo;, afirmou Oliveira.<br />
+&nbsp;</p>
 
-<p><br />
+<p><img alt="IMG_2657.jpg" src="http://farm1.staticflickr.com/665/22696871523_6c464f6c1d_b.jpg" /><br />
+<br />
 J&aacute; para Elisiane Vit&oacute;ria, professora da Universidade Federal do Paran&aacute; (UFPR)&nbsp;o maior desafio na EJA reside em garantir um processo continuo de forma&ccedil;&atilde;o aos educadores.</p>
 
 <p><br />
