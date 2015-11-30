@@ -7,7 +7,7 @@ tags:
 title: Quatro anos da partida do nosso eterno comandante Egídio Brunetto
 support_line: "Brunetto contribuiu com a organização do MST em todo o país e com as lutas dos trabalhadores rurais pela terra, pela reforma agrária e por transformações sociais."
 menu: reforma agrária
-section: cover
+section: null
 images_hd: //farm1.staticflickr.com/631/23290739511_aca387a8fa_b.jpg
 layout: post
 files:
