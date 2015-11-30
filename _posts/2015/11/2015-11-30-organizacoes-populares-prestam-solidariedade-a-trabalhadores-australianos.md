@@ -3,7 +3,7 @@ date: "2015-11-30T13:51:10-02:00"
 tags:
   - tag: solidariedade
   - tag: greve
-title: Organizações populares prestam solidariedade a trabalhadores australianos
+title: Organizações populares prestam solidariedade aos trabalhadores australianos em greve
 support_line: O processo de mobilização já dura 17 dias e pode se estender ainda mais. Os trabalhadores dizem que continuarão até que a situação seja resolvida.
 menu: lutas e mobilizações
 images_hd: //farm6.staticflickr.com/5764/23398508416_f2b0d6e9b3_b.jpg
