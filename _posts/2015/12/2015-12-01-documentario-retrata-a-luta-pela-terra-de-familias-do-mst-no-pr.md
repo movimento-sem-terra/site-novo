@@ -49,7 +49,7 @@ Lessa, conta que a escolha do Assentamento Contestado foi para mostrar que a com
 <p><br />
 &ldquo;Todo mundo que conhece o Assentamento Contestado se apaixona pelo lugar. Pens&aacute;vamos que entrevistando os assentados ir&iacute;amos contar um pouco da hist&oacute;ria da luta pela terra no Brasil, e isso de fato aconteceu, o di&aacute;logo com os camponeses do Contestado permite contextualizar a hist&oacute;ria de resist&ecirc;ncia do trabalhador do campo&rdquo;.</p>
 
-<p><img alt="Vozes do Contestado.jpg" height="844" src="//farm1.staticflickr.com/618/22821187624_9a46e130ae_b.jpg" style="float:left" width="700" /><br />
+<p><img alt="Vozes do Contestado.jpg" height="482" src="//farm1.staticflickr.com/618/22821187624_9a46e130ae_b.jpg" style="float:left" width="400" /><br />
 <br />
 &ldquo;A produ&ccedil;&atilde;o de alimentos saud&aacute;veis est&aacute; cada vez mais na pauta da sociedade em geral e o MST traz esta discuss&atilde;o com for&ccedil;a defendendo a agroecologia em contraponto ao uso de veneno na agricultura, por isso, o Assentamento Contestado e a Escola Latino-Americana de Agroecologia s&atilde;o importantes para mostrar a sociedade que existe uma alternativa sustent&aacute;vel de produ&ccedil;&atilde;o que valoriza o trabalhador do campo e que isso est&aacute; relacionado com a qualidade de vida nas cidades tamb&eacute;m&rdquo;, esclarece Lessa.</p>
 
