@@ -35,7 +35,8 @@ releated_posts:
 <p><img alt="IMG_6739.JPG" height="467" src="//farm1.staticflickr.com/704/23423066386_6e8ee03ef5_b.jpg" width="700" /></p>
 
 <p><br />
-<em>Por Riquieli Capitani</em></p>
+<em>Por Riquieli Capitani<br />
+Da P&aacute;gina do MST</em></p>
 
 <p><br />
 Em 1999, um &aacute;rea com mais de 3 mil hectares de terras, foi ocupada. Hoje, 108 fam&iacute;lias Sem Terra s&atilde;o guardi&atilde;s e produtoras da vida, no espa&ccedil;o do MST, o Assentamento Contestado, localizado no munic&iacute;pio da Lapa, 70 quil&ocirc;metros de Curitiba, no Paran&aacute;. &Eacute; assim que essa hist&oacute;ria de luta pela terra &eacute; narrada pelos assentados e assentadas no Document&aacute;rio Vozes do Contestado.</p>
