@@ -63,7 +63,7 @@ Entre os dias 27 a 29 de novembro, aconteceu o IV Encontro Estadual da Juventude
 O encontro que contou com a participa&ccedil;&atilde;o de mais de 100 jovens de todas as regi&otilde;es do estado em que o MST est&aacute; organizado, apontou o trabalho de base como elemento principal para enfrentar os desafios colocados pela conjuntura atual de ataques &agrave; classe trabalhadora do campo e cidade.</p>
 
 <p><br />
-<img alt="1448847224911.jpg" height="225" src="//farm1.staticflickr.com/645/23155154830_3356b0ce05_b.jpg" style="float:left" width="300" />Para Cin&aacute;ria Mendon&ccedil;a, do coletivo estadual de juventude, esse ano a Juventude Sem Terra, al&eacute;m de reafirmar sua identidade e se comprometer em continuar lutando para construir a Reforma Agr&aacute;ria Popular, colocou os debates sobre o racismo, feminismo e a diversidade sexual como bandeiras de luta e condi&ccedil;&atilde;o para garantir o car&aacute;ter popular da estrat&eacute;gia pol&iacute;tica do MST.</p>
+Para Cin&aacute;ria Mendon&ccedil;a, do coletivo estadual de juventude, esse ano a Juventude Sem Terra, al&eacute;m de reafirmar sua identidade e se comprometer em continuar lutando para construir a Reforma Agr&aacute;ria Popular, colocou os debates sobre o racismo, feminismo e a diversidade sexual como bandeiras de luta e condi&ccedil;&atilde;o para garantir o car&aacute;ter popular da estrat&eacute;gia pol&iacute;tica do MST.</p>
 
 <p><br />
 &ldquo;A Reforma Agr&aacute;ria Popular &eacute; uma estrat&eacute;gia pol&iacute;tica que devemos construir para o campo e a cidade, pois tem como objetivo garantir condi&ccedil;&otilde;es digna de exist&ecirc;ncia e soberania alimentar para os povos. Por isso, seu debate n&atilde;o &eacute; obra apenas das trabalhadoras e trabalhadores Sem Terra, e sim da unidade da classe trabalhadora como um todo&rdquo;, afirmou.</p>
@@ -74,7 +74,7 @@ Mendon&ccedil;a destaca ainda, que o povo do campo n&atilde;o &eacute; homog&eci
 <p><br />
 Nesse sentido, o lema do encontro: &ldquo;Juventude Sem Terra em luta por Reforma Agr&aacute;ria Popular &ndash; anticapitalista, antirracista, feminista e colorida&rdquo;, deu o tom de todos os espa&ccedil;os, desde o processo de organiza&ccedil;&atilde;o at&eacute; as m&iacute;sticas, debates, oficinas, noites culturais e encaminhamentos para a organiza&ccedil;&atilde;o da juventude no pr&oacute;ximo per&iacute;odo.</p>
 
-<p><img alt="1448900300153.jpg" height="170" src="//farm6.staticflickr.com/5829/23155061000_ecc07be42c_b.jpg" style="float:right" width="300" /><br />
+<p><br />
 <strong>Mostra Cultural Sem Terra</strong></p>
 
 <p><br />
@@ -92,7 +92,7 @@ Para &Eacute;rica Rodrigues, do coletivo estadual de juventude, apesar das dific
 <p><br />
 &ldquo;Organizar a juventude continua sendo um desafio, mas &eacute; uma necessidade, precisamos criar unidade com as organiza&ccedil;&otilde;es de juventude da cidade para avan&ccedil;ar na constru&ccedil;&atilde;o da Reforma Agr&aacute;ria Popular e na forma&ccedil;&atilde;o pol&iacute;tica, pois a juventude precisa estar preparada para zelar os princ&iacute;pios organizativos do MST e construir os valores da sociedade que queremos construir&rdquo;, salientou.</p>
 
-<p><img alt="1448843747987.jpg" src="//farm1.staticflickr.com/602/22822519954_7593608a8e_b.jpg" style="float:left" /><br />
+<p><br />
 <strong>Trabalho de Base e Agitprop</strong></p>
 
 <p><br />
