@@ -17,12 +17,6 @@ files:
     small: //farm6.staticflickr.com/5660/23373376071_c8429b3b26_n.jpg
     title: 23156991240_a2e6f20245_z.jpg
     $$hashKey: 08I
-  - link: //farm6.staticflickr.com/5679/23088109119_42926975a5_b.jpg
-    thumbnail: //farm6.staticflickr.com/5679/23088109119_42926975a5_t.jpg
-    medium: //farm6.staticflickr.com/5679/23088109119_42926975a5_z.jpg
-    small: //farm6.staticflickr.com/5679/23088109119_42926975a5_n.jpg
-    title: 22825662843_93da92a44f_z.jpg
-    $$hashKey: 0GB
 created_date: "2015-12-01T21:17:55-02:00"
 published: true
 releated_posts:
