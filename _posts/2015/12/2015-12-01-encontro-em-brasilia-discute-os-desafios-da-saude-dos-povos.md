@@ -1,9 +1,9 @@
 ---
 date: "2015-12-01T20:26:39-02:00"
 tags:
-  - tag: encontro-de-saúde-dos-povos
   - tag: saúde
-  - tag: brasília
+  - tag: projeto-popular
+  - tag: médicos
 title: "Encontro em Brasília discute os desafios da saúde dos povos "
 support_line: "Durante quatro dias, o  evento que reúne movimentos sociais e populares de todo pais, vai debater o atual momento da saúde pública brasileira e compartilhar experiências de caráter técnico, político e social. "
 images_hd: //farm6.staticflickr.com/5660/23373376071_c8429b3b26_b.jpg
@@ -17,9 +17,21 @@ files:
     small: //farm6.staticflickr.com/5660/23373376071_c8429b3b26_n.jpg
     title: 23156991240_a2e6f20245_z.jpg
     $$hashKey: 08I
+  - link: //farm6.staticflickr.com/5679/23088109119_42926975a5_b.jpg
+    thumbnail: //farm6.staticflickr.com/5679/23088109119_42926975a5_t.jpg
+    medium: //farm6.staticflickr.com/5679/23088109119_42926975a5_z.jpg
+    small: //farm6.staticflickr.com/5679/23088109119_42926975a5_n.jpg
+    title: 22825662843_93da92a44f_z.jpg
+    $$hashKey: 0GB
 created_date: "2015-12-01T21:17:55-02:00"
 published: true
-releated_posts: []
+releated_posts:
+  - 2015/11/2015-11-30-cerca-de-1000-pessoas-devem-participar-do-1o-encontro-nacional-de-saude-do-campo.md
+  - 2015/09/2015-09-02-2-plenaria-nacional-da-rede-de-medicas-e-medicos-populares.md
+  - 2015/09/2015-09-03-a-populacao-brasileira-nunca-teve-tantos-medicos-no-seu-seio-com-a-chegada-dos-cubanos-afirma-medico-do-mst.md
+  - 2015/10/2015-10-07-voce-e-envenenado-diariamente-mas-o-lobby-dos-agrotoxicos-fala-mais-alto.md
+  - 2015/10/2015-10-06-o-povo-brasileiro-nao-se-alimenta-come-algo-que-acha-ser-alimento-afirma-lideranca-do-mpa.md
+  - 2015/10/2015-10-01-em-bate-papo-com-assentados-medico-do-mst-fala-sobre-beneficio-da-alimentacao-sem-agrotoxico.md
 
 ---
 <p><br />
