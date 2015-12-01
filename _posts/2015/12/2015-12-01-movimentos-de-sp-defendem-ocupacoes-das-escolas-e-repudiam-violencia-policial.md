@@ -1,6 +1,9 @@
 ---
 date: "2015-12-01T08:50:53-02:00"
-tags: []
+tags:
+  - tag: são-paulo
+  - tag: fechamento-de-escolas
+  - tag: campanha-fechar-escola-é-crime
 title: Movimentos de SP defendem ocupações das escolas e repudiam violência policial
 support_line: "Em nota, mais de 50 entidades exigem saída de representantes do Governo do Estado de São Paulo."
 menu: "educação, cultura e comunicação"
@@ -16,7 +19,9 @@ files:
     $$hashKey: "053"
 created_date: "2015-12-01T09:07:40-02:00"
 published: true
-releated_posts: []
+releated_posts:
+  - 2015/11/2015-11-21-mst-se-solidariza-com-os-estudantes-que-ocupam-as-escolas-na-luta-por-educacao-em-sao-paulo.md
+  - 2015/03/2015-03-12-movimentos-sociais-do-campo-realizam-ato-unificado-em-sp.md
 
 ---
 <p><img alt="forum_dos_movimentos_sociais_de_sp78933.jpg" src="//farm6.staticflickr.com/5681/23361207931_dbd11f6ec7_b.jpg" /></p>
