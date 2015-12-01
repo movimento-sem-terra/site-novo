@@ -47,7 +47,7 @@ O document&aacute;rio que foi feito pelos estudantes Est&eacute;fano Lessa e Cri
 Lessa, conta que a escolha do Assentamento Contestado foi para mostrar que a comunica&ccedil;&atilde;o, a produ&ccedil;&atilde;o de alimentos, e a reforma agr&aacute;ria popular s&atilde;o temas fundamentais que precisam ser debatidos e mostrados para a sociedade.</p>
 
 <p><br />
-&ldquo;Todo mundo que conhece o Assentamento Contestado se apaixona pelo lugar. Pens&aacute;vamos que entrevistando os assentados ir&iacute;amos contar um pouco da hist&oacute;ria da luta pela terra no Brasil, e isso de fato aconteceu, o di&aacute;logo com os camponeses do Contestado permite contextualizar a hist&oacute;ria de resist&ecirc;ncia do trabalhador do campo&rdquo;.</p>
+&ldquo;Todo mundo que conhece o Assentamento Contestado se apaixona pelo lugar. Pens&aacute;vamos que entrevistando os assentados ir&iacute;amos contar um pouco da hist&oacute;ria da luta pela terra no Brasil, e isso de fato aconteceu, o di&aacute;logo com os camponeses do Contestado permite contextualizar a hist&oacute;ria de resist&ecirc;ncia do trabalhador do campo&rdquo;, afirma.</p>
 
 <p><img alt="Vozes do Contestado.jpg" height="482" src="//farm1.staticflickr.com/618/22821187624_9a46e130ae_b.jpg" style="float:left" width="400" /><br />
 <br />
