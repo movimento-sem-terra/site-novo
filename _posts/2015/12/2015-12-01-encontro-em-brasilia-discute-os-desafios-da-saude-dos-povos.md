@@ -8,7 +8,7 @@ title: "Encontro em Brasília discute os desafios da saúde dos povos "
 support_line: "Durante quatro dias, o  evento que reúne movimentos sociais e populares de todo pais, vai debater o atual momento da saúde pública brasileira e compartilhar experiências de caráter técnico, político e social. "
 images_hd: //farm6.staticflickr.com/5660/23373376071_c8429b3b26_b.jpg
 menu: projeto popular
-section: cover
+section: featured-news
 layout: post
 files:
   - link: //farm6.staticflickr.com/5660/23373376071_c8429b3b26_b.jpg
