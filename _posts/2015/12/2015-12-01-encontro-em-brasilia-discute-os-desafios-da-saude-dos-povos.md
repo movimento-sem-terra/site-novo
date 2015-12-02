@@ -68,11 +68,11 @@ Para concluir, Gilmar&nbsp;falou&nbsp;sobre a import&acirc;ncia do papel da form
 <p><br />
 <strong>Crime ambiental de Mariana</strong></p>
 
-<p style="line-height: 20.8px;"><br />
-Integrante da coordena&ccedil;&atilde;o do evento pelo MPA, Maria lembrou da trag&eacute;dia de Mariana e ressaltou que, embora os&nbsp;movimentos tenham algumas<span style="line-height: 20.8px;">&nbsp;bandeiras de lutas espec&iacute;ficas</span>,<span style="line-height: 20.8px;">&nbsp;seja os&nbsp;agrot&oacute;xicos, a&nbsp;Reforma Agraria, demarca&ccedil;&atilde;o dos territ&oacute;rios tradicionais, todas&nbsp;</span><span style="line-height: 20.8px;">permeiam as vidas de muitas popula&ccedil;&otilde;es do pa&iacute;s.&nbsp;</span></p>
+<p><br />
+Integrante da coordena&ccedil;&atilde;o do evento pelo MPA, Maria lembrou da trag&eacute;dia de Mariana e ressaltou que, embora os&nbsp;movimentos tenham algumas&nbsp;bandeiras de lutas espec&iacute;ficas,&nbsp;seja os&nbsp;agrot&oacute;xicos, a&nbsp;Reforma Agraria, demarca&ccedil;&atilde;o dos territ&oacute;rios tradicionais, todas&nbsp;permeiam as vidas de muitas popula&ccedil;&otilde;es do pa&iacute;s.&nbsp;</p>
 
-<p style="line-height: 20.8px;"><br />
-<span style="line-height: 20.8px;">&quot;Hoje, o estado brasileiro financia a morte, privatiza a sa&uacute;de. O que aconteceu em Mariana &eacute; fruto da privatiza&ccedil;&atilde;o, que &eacute; fruto de uma pol&iacute;tica neoliberal, fascista e reacion&aacute;ria. Nosso encontro ser&aacute; pautado nas lutas dessas pessoas, de quem perde a vida diariamente por culpa desse processo. A esse pessoas n&atilde;o dedicamos um minuto de sil&ecirc;ncio, mas uma vida inteira de lutas&quot;, ressaltou.</span></p>
+<p><br />
+&quot;Hoje, o estado brasileiro financia a morte, privatiza a sa&uacute;de. O que aconteceu em Mariana &eacute; fruto da privatiza&ccedil;&atilde;o, que &eacute; fruto de uma pol&iacute;tica neoliberal, fascista e reacion&aacute;ria. Nosso encontro ser&aacute; pautado nas lutas dessas pessoas, de quem perde a vida diariamente por culpa desse processo. A esse pessoas n&atilde;o dedicamos um minuto de sil&ecirc;ncio, mas uma vida inteira de lutas&quot;, ressaltou.</p>
 
 <p><br />
 Alessandra do Movimento dos Atingidos por Barragens e moradora de Mariana, chamou aten&ccedil;&atilde;o para a l&oacute;gica do lucro e para os impactos que essa l&oacute;gica negativa causa na sa&uacute;de f&iacute;sica e emocional da popula&ccedil;&atilde;o.</p>
