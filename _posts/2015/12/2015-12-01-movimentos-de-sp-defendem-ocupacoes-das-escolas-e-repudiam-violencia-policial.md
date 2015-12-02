@@ -7,7 +7,7 @@ tags:
 title: Movimentos de SP defendem ocupações das escolas e repudiam violência policial
 support_line: "Em nota, mais de 50 entidades exigem saída de representantes do Governo do Estado de São Paulo."
 menu: "educação, cultura e comunicação"
-section: featured-news
+section: cover
 images_hd: //farm1.staticflickr.com/696/23467028575_3a8f7201f4_b.jpg
 layout: post
 files:
