@@ -8,25 +8,33 @@ title: Movimentos de SP defendem ocupações das escolas e repudiam violência p
 support_line: "Em nota, mais de 50 entidades exigem saída de representantes do Governo do Estado de São Paulo."
 menu: "educação, cultura e comunicação"
 section: featured-news
-images_hd: //farm6.staticflickr.com/5681/23361207931_dbd11f6ec7_b.jpg
+images_hd: //farm1.staticflickr.com/696/23467028575_3a8f7201f4_b.jpg
 layout: post
 files:
-  - link: //farm6.staticflickr.com/5681/23361207931_dbd11f6ec7_b.jpg
-    thumbnail: //farm6.staticflickr.com/5681/23361207931_dbd11f6ec7_t.jpg
-    medium: //farm6.staticflickr.com/5681/23361207931_dbd11f6ec7_z.jpg
-    small: //farm6.staticflickr.com/5681/23361207931_dbd11f6ec7_n.jpg
-    title: forum_dos_movimentos_sociais_de_sp78933.jpg
-    $$hashKey: "053"
+  - link: //farm1.staticflickr.com/696/23467028575_3a8f7201f4_b.jpg
+    thumbnail: //farm1.staticflickr.com/696/23467028575_3a8f7201f4_t.jpg
+    medium: //farm1.staticflickr.com/696/23467028575_3a8f7201f4_z.jpg
+    small: //farm1.staticflickr.com/696/23467028575_3a8f7201f4_n.jpg
+    title: a escola é nossa.jpg
+    $$hashKey: 0B1
 created_date: "2015-12-01T09:07:40-02:00"
 published: true
 releated_posts:
   - 2015/11/2015-11-21-mst-se-solidariza-com-os-estudantes-que-ocupam-as-escolas-na-luta-por-educacao-em-sao-paulo.md
-  - 2015/03/2015-03-12-movimentos-sociais-do-campo-realizam-ato-unificado-em-sp.md
+  - 2015/07/2015-07-27-projetos-ao-agronegocio-tem-10-vezes-mais-verba-que-a-agricultura-familiar-em-sp.md
+  - 2015/06/2015-06-24-mais-de-4-mil-escolas-do-campo-fecham-suas-portas-em-2014.md
+  - 2015/07/2015-07-20-richa-mais-uma-vez-atenta-a-educacao-e-fechara-casas-familiares-rurais.md
+  - 2015/09/2015-09-23-apos-marcha-educadores-ocupam-ministerio-da-agricultura-em-brasilia.md
+  - 2014/03/2014-03-07-brasil-fecha-em-media-oito-escolas-por-dia-na-regiao-rural.md
+  - 2015/10/2015-10-25-na-bahia-sem-terrinha-pintam-as-ruas-de-vermelho-em-defesa-das-escolas-do-campo.md
 
 ---
-<p><img alt="forum_dos_movimentos_sociais_de_sp78933.jpg" src="//farm6.staticflickr.com/5681/23361207931_dbd11f6ec7_b.jpg" /></p>
+<p>&nbsp;</p>
 
-<p><em>Por Vanessa Ramos<br />
+<p><img alt="a escola é nossa.jpg" src="//farm1.staticflickr.com/696/23467028575_3a8f7201f4_b.jpg" /></p>
+
+<p><br />
+<em>Por Vanessa Ramos<br />
 Da CUT</em></p>
 
 <p><br />
