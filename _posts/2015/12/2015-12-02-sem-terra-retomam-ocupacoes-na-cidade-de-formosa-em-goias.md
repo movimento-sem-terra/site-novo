@@ -27,14 +27,14 @@ releated_posts:
 <p style="line-height: 20.8px;"><br />
 <em>Da P&aacute;gina do MST</em></p>
 
-<p style="line-height: 20.8px;"><br />
-<span style="line-height: 1.6;">Na madrugada deste &uacute;ltimo domingo (29), trabalhadoras e trabalhadores rurais sem terra, ocuparam os arredores da Fazenda Boqueir&atilde;o, denominada de projeto Paran&atilde;, no munic&iacute;pio da cidade de Formosa em Goi&aacute;s.&nbsp;</span></p>
+<p><br />
+Na madrugada deste &uacute;ltimo domingo (29), trabalhadoras e trabalhadores rurais sem terra, ocuparam os arredores da Fazenda Boqueir&atilde;o, denominada de projeto Paran&atilde;, no munic&iacute;pio da cidade de Formosa em Goi&aacute;s.&nbsp;</p>
 
-<p style="line-height: 20.8px;"><br />
+<p><br />
 As cerca de 400 fam&iacute;lias mobilizadas reivindicam 1700 ha de terra, que se encontram improdutivos, para morar e produzir alimentos.&nbsp;</p>
 
-<p style="line-height: 20.8px;"><br />
+<p><br />
 De acordo, Marco Baratto, da coordena&ccedil;&atilde;o do MST no DF, a a&ccedil;&atilde;o marca a retomada das a&ccedil;&otilde;es na regi&atilde;o do V&atilde;o do Paran&aacute;, no Entorno do Distrito Federal e tem como objetivo &quot;a retomada da luta pela terra e por pol&iacute;ticas de desenvolvimento na regi&atilde;o. Al&eacute;m de fazer a disputa agr&aacute;ria que historicamente &eacute; denominado pelos grandes latif&uacute;ndios.&quot;</p>
 
-<p style="line-height: 20.8px;"><br />
+<p><br />
 A Fazenda Boqueir&atilde;o, pertencia a Pedro Celestino Chaves, conhecido como Nikita Chaves, que no per&iacute;odo da ditadura militar grilou as terras da serra comprida, no Vale do Paran&atilde;. Atualmente, o propriet&aacute;rio do im&oacute;vel &eacute; o Deputado Estadual Pedro Chaves (PMDB), filho de Nikita, que mant&eacute;m a heran&ccedil;a de concentra&ccedil;&atilde;o fundi&aacute;ria do pai.&nbsp;</p>
