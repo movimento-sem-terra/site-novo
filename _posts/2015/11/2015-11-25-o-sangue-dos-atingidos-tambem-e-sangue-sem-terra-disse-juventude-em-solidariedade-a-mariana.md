@@ -8,7 +8,7 @@ tags:
   - tag: vale
 title: "\"O sangue dos atingidos também é sangue Sem Terra!\", disse juventude em solidariedade à Mariana"
 support_line: "Jovens do MST realizaram uma intervenção na Câmara dos Deputados, em Brasília, para repudiar a proposta do novo Código de Mineração."
-section: featured-news
+section: null
 menu: lutas e mobilizações
 images_hd: "http://farm6.staticflickr.com/5672/23197159432_1e91c1250c_b.jpg"
 layout: post
