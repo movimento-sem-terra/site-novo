@@ -35,7 +35,7 @@ releated_posts:
 <em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
-No dia 28 de novembro, tr&ecirc;s Sem Terra do Acampamento Alexandra Kolontai, no munic&iacute;pio de Serrana (SP), foram agredidos e amea&ccedil;ados por oito homens da Usina Nova Uni&atilde;o. Os agressores portavam arma de fogo com silenciadores.&nbsp;</p>
+Tr&ecirc;s Sem Terra do Acampamento Alexandra Kolontai, no munic&iacute;pio de Serrana (SP), foram agredidos e amea&ccedil;ados por oito homens da Usina Nova Uni&atilde;o, n<span style="line-height: 20.8px;">o &uacute;ltimo dia 28 de novembro</span>. Os agressores portavam arma de fogo com silenciadores.&nbsp;</p>
 
 <p><br />
 De acordo com os relatos das fam&iacute;lias, em caminhonetes, os homens da Usina fizeram amea&ccedil;as verbais e ofenderam os integrantes do MST. Ao descerem do ve&iacute;culo, os trabalhadores rurais foram agredidos fisicamente com tapas na cabe&ccedil;a e socos na costela.&nbsp;</p>
