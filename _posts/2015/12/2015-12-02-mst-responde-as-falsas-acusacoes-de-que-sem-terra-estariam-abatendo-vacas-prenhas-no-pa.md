@@ -26,6 +26,7 @@ releated_posts:
   - 2015/01/2015-01-12-katia-abreu-a-ministra-que-desmata-a-razao.md
   - 2015/01/2015-01-12-cpt-considera-reforma-agraria-do-governo-dilma-a-pior-dos-ultimos-20-anos.md
   - 2015/06/2015-06-15-no-para-indigenas-lutam-contra-vale.md
+section: cover
 
 ---
 <p><br />
