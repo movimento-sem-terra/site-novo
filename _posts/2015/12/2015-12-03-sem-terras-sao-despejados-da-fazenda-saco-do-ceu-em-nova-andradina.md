@@ -39,11 +39,12 @@ releated_posts:
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="234328_49483_22635.jpg" src="//farm6.staticflickr.com/5835/22873787743_40dcd138a3_b.jpg" />
-<figcaption>http://www.mst.org.br/2015/09/23/mst-denuncia-presenca-de-milicias-armadas-em-ocupacao-de-casa-verde.html</figcaption>
+<figcaption>Foto: M&aacute;rcio Rog&eacute;rio/Nova News</figcaption>
 </figure>
 </div>
 
-<p><em>Da P&aacute;gina do MST</em></p>
+<p><br />
+<em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
 Mais de mil fam&iacute;lias do MST desocupam a Fazenda Saco do C&eacute;u, no munic&iacute;pio de Nova Andradina. A decis&atilde;o de acatar a reintegra&ccedil;&atilde;o de posse que estava marcada para&nbsp;quinta-feira (03), ocorreu ap&oacute;s uma Assembleia dos acampados e acampadas, onde fizeram um debate sobre o cumprimento da decis&atilde;o judicial.</p>
@@ -57,8 +58,13 @@ No final da tarde, as for&ccedil;as policiais de Nova Andradina e a Tropa de Cho
 <p><br />
 Com rela&ccedil;&atilde;o &agrave; log&iacute;stica para a retirada das fam&iacute;lias, seriam providenciados, junto &agrave; fazenda, &ocirc;nibus e caminh&otilde;es, por&eacute;m at&eacute; o momento os acampados est&atilde;o com os barracos desarmados e o transporte ainda n&atilde;o chegou.</p>
 
-<p><br />
-Diante disso, o Movimento publicamente que as for&ccedil;as policiais n&atilde;o est&atilde;o cumprindo o que foi acordado pela manh&atilde;. Al&eacute;m dos caminh&otilde;es que n&atilde;o chegaram, m&aacute;quinas est&atilde;o passando por cima dos barracos que ainda estavam sendo desmontados pelas fam&iacute;lias e muitas delas tem apenas isso para organizar a vida em outro lugar.</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="234338_49489_27705.jpg" height="209" src="//farm1.staticflickr.com/656/23132992649_d7c28bce48_b.jpg" width="300" />
+<figcaption>Foto: M&aacute;rcio Rog&eacute;rio/Nova News</figcaption>
+</figure>
+
+<p>Diante disso, o Movimento publicamente que as for&ccedil;as policiais n&atilde;o est&atilde;o cumprindo o que foi acordado pela manh&atilde;. Al&eacute;m dos caminh&otilde;es que n&atilde;o chegaram, m&aacute;quinas est&atilde;o passando por cima dos barracos que ainda estavam sendo desmontados pelas fam&iacute;lias e muitas delas tem apenas isso para organizar a vida em outro lugar.</p>
 
 <p><br />
 O MST solicitou foi que as for&ccedil;as policiais dessem o tempo necess&aacute;rio para as fam&iacute;lias desmontarem seus barracos e que n&atilde;o houvesse uso de for&ccedil;a, muito menos de falta de respeito com o pouco que essas pessoas possuem.</p>
@@ -68,3 +74,10 @@ H&aacute; cinco anos n&atilde;o existe Reforma Agr&aacute;ria em Mato Grosso do 
 
 <p><br />
 Na tarde desta quarta-feira (2), o MST do estado do Mato Grosso do Sul soltou uma <a href="http://www.mst.org.br/2015/12/03/familia-sem-terra-lutam-contra-despejo-no-ms.html">nota p&uacute;blica</a> para denunciar a situa&ccedil;&atilde;o das mais de mil fam&iacute;lias acampadas que desde o dia 21 de agosto de 2015 est&atilde;o no local e agora sequer ter&atilde;o a chance de colher o que plantou.</p>
+
+<p><br />
+&nbsp;</p>
+
+<figure class="image"><img alt="234329_49484_92321.jpg" src="//farm6.staticflickr.com/5714/23500956125_a262a237c5_b.jpg" />
+<figcaption>Foto: M&aacute;rcio Rog&eacute;rio/Nova News</figcaption>
+</figure>
