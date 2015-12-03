@@ -28,7 +28,10 @@ releated_posts:
 ---
 <p>&nbsp;</p>
 
-<p><em>Da P&aacute;gina do MST</em></p>
+<p><img alt="20151203032540.jpg" height="525" src="//farm1.staticflickr.com/643/23383681112_e58ab43d48_b.jpg" width="700" /></p>
+
+<p><br />
+<em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
 Na manh&atilde; desta quinta-feira (03), movimentos sociais e populares do campo, da floresta e das &aacute;guas realizam ato durante a 15&ordf; Confer&ecirc;ncia Nacional de Sa&uacute;de que ocorre no Centro de Conven&ccedil;&otilde;es Ulysses Guimar&atilde;es, em Bras&iacute;lia.</p>
