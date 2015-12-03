@@ -1,5 +1,5 @@
 ---
-date: "2015-12-01T09:00:15-02:00"
+date: "2015-12-03T09:00:15-02:00"
 tags:
   - tag: lutas-e-mobilizações
   - tag: agrotóxicos
@@ -26,6 +26,7 @@ releated_posts:
   - 2015/10/2015-10-14-nao-colocamos-um-prato-de-comida-em-nossas-mesas-mas-um-calice-de-veneno-afirma-dirigente-do-mst.md
   - 2015/11/2015-11-10-trator-e-flagrado-passando-veneno-ao-lado-da-escola-zumbi-dos-palmares-no-parana.md
   - 2015/11/2015-11-10-brasil-pode-ser-o-primeiro-pais-a-liberar-sementes-estereis.md
+section: cover
 
 ---
 <p><img alt="camp_agrotoxicos2014_not.jpg" src="//farm6.staticflickr.com/5753/23400754086_8ed6549f9f_b.jpg" /></p>
