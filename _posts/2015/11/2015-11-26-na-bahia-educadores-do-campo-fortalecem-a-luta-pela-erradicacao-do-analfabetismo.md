@@ -28,7 +28,7 @@ releated_posts:
   - 2015/07/2015-07-06-na-bahia-militantes-debatem-os-atuais-desafios-enfrentados-pela-classe-trabalhadora.md
   - 2015/10/2015-10-06-curso-de-formacao-desafia-educadores-a-zerar-o-analfabetismo.md
   - 2015/08/2015-08-07-sem-terra-rmpem-a-cerca-do-saber-e-se-formam-no-eja.md
-section: featured-news
+section: null
 
 ---
 <p><img alt="IMG_2661.jpg" height="466" src="http://farm6.staticflickr.com/5682/22695619574_d4de6030e3_b.jpg" width="700" /></p>
