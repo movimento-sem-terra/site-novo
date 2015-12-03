@@ -4,7 +4,7 @@ tags:
   - tag: despejo
   - tag: mato-grosso
   - tag: reforma-agrária
-title: Sem Terra entram com requerimento para barrar pedido de reintegração de posse no MT
+title: Sem Terra entram com requerimento para barrar pedido de reintegração de posse no MS
 support_line: "As mais de mil famílias estão ocupando a fazenda Saco do Céu, no município de Nova Andradina, desde o dia 21 de agosto de 2015."
 menu: lutas e mobilizações
 images_hd: "http://farm6.staticflickr.com/5778/22226704968_50a04ea0e7_b.jpg"
@@ -47,7 +47,8 @@ releated_posts:
 <p class="p1"><br />
 <span class="s1">Cerca de mil fam&iacute;lias&nbsp;Sem Terra que ocupam a&nbsp;fazenda Saco do C&eacute;u, localizada no munic&iacute;pio de Nova Andradina (MS), na regi&atilde;o de Nova Casa Verde, desde o dia 21 de agosto decidiram em assembleia&nbsp;entrar com um requerimento, pedindo ao Juiz de Direito da 2&ordf; Vara C&iacute;vel do Foro da Comarca de Nova Andradina, a suspens&atilde;o da reintegra&ccedil;&atilde;o de posse da &aacute;rea.</span></p>
 
-<p class="p1"><span class="s1">Os Sem Terra cobram&nbsp;do Instituto de&nbsp;Coloniza</span><span style="line-height: 20.8px;">&ccedil;&atilde;o</span><span class="s1">&nbsp;e Reforma&nbsp;Agr&aacute;ria (INCRA)&nbsp;garantias para que eles possam colher o que j&aacute; foi plantado na terra nestes meses de ocupa&ccedil;&atilde;o. </span></p>
+<p class="p1"><br />
+<span class="s1">Os Sem Terra cobram&nbsp;do Instituto de&nbsp;Coloniza</span><span style="line-height: 20.8px;">&ccedil;&atilde;o</span><span class="s1">&nbsp;e Reforma&nbsp;Agr&aacute;ria (INCRA)&nbsp;garantias para que eles possam colher o que j&aacute; foi plantado na terra nestes meses de ocupa&ccedil;&atilde;o. </span></p>
 
 <p class="p1"><br />
 <span class="s1">Este requerimento tamb&eacute;m tem como objetivo garantir a seguran&ccedil;a destas fam&iacute;lias acampadas e evitar qualquer confronto com as for&ccedil;as policiais que devem ser chamadas para a despejo dos sem-terras.</span></p>
