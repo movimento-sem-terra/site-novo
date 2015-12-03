@@ -45,13 +45,13 @@ A audi&ecirc;ncia ainda teve o car&aacute;ter de cobran&ccedil;a de declara&cced
 Compuseram a mesa representantes da dire&ccedil;&atilde;o estadual e regional do MST, da coordena&ccedil;&atilde;o do acampamento Pagu,&nbsp; do CMP, da PJ, da Prefeitura e C&acirc;mara Municipal de Jacare&iacute;, al&eacute;m da deputada estadual e representante da Frente Parlamentar em defesa da Reforma Agr&aacute;ria, Agricultura Familiar e Seguran&ccedil;a Alimentar e Nutricional, M&aacute;rcia Lia (PT) e o superintendente do INCRA/SP, Wellington Diniz.</p>
 
 <p><br />
-Ao final do evento o superintendente do INCRA/SP se comprometeu a fazer o ajuizamento do recurso para o pagamento das benfeitorias da Fazenda Cachoeira at&eacute; o final deste m&ecirc;s de dezembro. Segundo Diniz, esse recurso j&aacute; se encontra na superintend&ecirc;ncia do estado e que a &aacute;rea foi decretada para fins de Reforma Agr&aacute;ria desde o dia 26 de dezembro de 2014. Caso n&atilde;o ocorra o andamento do processo de ajuizamento do recurso, o decreto perde a validade.</p>
+Ao final do evento o superintendente do INCRA/SP se comprometeu a fazer o ajuizamento do recurso para o pagamento das benfeitorias da Fazenda Cachoeira at&eacute; o final deste m&ecirc;s de dezembro. Segundo Diniz, esse recurso j&aacute; se encontra na superintend&ecirc;ncia do estado e que a &aacute;rea foi decretada para fins de Reforma Agr&aacute;ria desde o dia 26 de dezembro de 2013. Caso n&atilde;o ocorra o andamento do processo de ajuizamento do recurso, o decreto perde a validade.</p>
 
 <p><br />
 <strong>Acampamento Patr&iacute;cia Galv&atilde;o</strong></p>
 
 <p><br />
-O acampamento Patr&iacute;cia Galv&atilde;o (Pagu) &eacute; fruto de um processo de luta que come&ccedil;ou em 2010 no munic&iacute;pio de Jacare&iacute;, com a ocupa&ccedil;&atilde;o de duas outras fazendas. No dia 17 de janeiro de 2014, 23 fam&iacute;lias montaram o acampamento na Fazenda Cachoeira, decretada para fins de Reforma Agr&aacute;ria em dezembro de 2014.</p>
+O acampamento Patr&iacute;cia Galv&atilde;o (Pagu) &eacute; fruto de um processo de luta que come&ccedil;ou em 2010 no munic&iacute;pio de Jacare&iacute;, com a ocupa&ccedil;&atilde;o de duas outras fazendas. No dia 17 de janeiro de 2014, 23 fam&iacute;lias montaram o acampamento na Fazenda Cachoeira, decretada para fins de Reforma Agr&aacute;ria em dezembro de 2013.</p>
 
 <p><br />
 A proposta de assentamento tem como base a produ&ccedil;&atilde;o de alimentos agroecol&oacute;gicos e preserva&ccedil;&atilde;o dos recursos naturais. A fazenda est&aacute; na margem do Rio Para&iacute;ba do Sul, que abastece o Vale do Para&iacute;ba paulista e o Rio de Janeiro, e tem diversas nascentes que necessitam ser preservadas.</p>
