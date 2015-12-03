@@ -6,7 +6,7 @@ tags:
   - tag: alimentos
   - tag: agronegócio
 title: Agrotóxicos em crianças
-support_line: "Em artigo, Roberto Naime, colunista e doutor em Geologia Ambiental,"
+support_line: "Em artigo, Roberto Naime, doutor em Geologia Ambiental, afirma que os efeitos nocivos dos agrotóxicos são maiores para as crianças."
 menu: agronegócio
 label: articles
 images_hd: //farm1.staticflickr.com/767/22866372113_e56ce20210_b.jpg
@@ -41,8 +41,9 @@ Do Portal EcoDebate</em></p>
 
 <p>&nbsp;</p>
 
-<figure class="image" style="float:right"><img alt="Foto4.jpg" height="288" src="//farm1.staticflickr.com/683/23125392939_5dcc5c52be_b.jpg" width="300" />
-<figcaption><em>Roberto Naime</em></figcaption>
+<figure class="image" style="float:right"><img alt="Foto4.jpg" height="240" src="//farm1.staticflickr.com/683/23125392939_5dcc5c52be_b.jpg" width="250" />
+<figcaption><em>Dr. Roberto Naime defende o consumo de<br />
+alimentos org&acirc;nicos</em></figcaption>
 </figure>
 
 <p>A pesquisadora cient&iacute;fica da Universidade Federal do Paran&aacute;, S&ocirc;nia Stertz, doutora em Tecnologia de Alimentos, presidente da Sociedade Brasileira de Ci&ecirc;ncia e Tecnologia de Alimentos na Regional do Paran&aacute;, registra que as crian&ccedil;as apresentam n&iacute;veis duas vezes mais elevados de pesticidas no sangue e seus efeitos s&atilde;o at&eacute; 10 vezes mais intensos do que em adultos.</p>
@@ -92,4 +93,4 @@ Na chamada agroecologia, por exemplo, se utilizam policultivos que j&aacute; era
 <p><br />
 Os mecanismos mais comuns de opera&ccedil;&atilde;o dos agrot&oacute;xicos &eacute; a inibi&ccedil;&atilde;o da a&ccedil;&atilde;o de enzimas que acabam gerando colapsos sin&aacute;pticos, ou seja, de transmiss&atilde;o de informa&ccedil;&otilde;es ao c&eacute;rebro atrav&eacute;s de conex&otilde;es de neur&ocirc;nios. Convenhamos que ao menos as crian&ccedil;as devem ser preservadas destes cen&aacute;rios apocal&iacute;pticos.</p>
 
-<p>* Roberto Naime &eacute; colunista do Portal EcoDebate e doutor em Geologia Ambiental.</p>
+<p><em>* Roberto Naime &eacute; colunista do Portal EcoDebate e doutor em Geologia Ambiental.</em></p>
