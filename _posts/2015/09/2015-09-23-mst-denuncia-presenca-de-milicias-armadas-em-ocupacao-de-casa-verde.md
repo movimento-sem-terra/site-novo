@@ -48,7 +48,9 @@ Em nota, os trabalhadores rurais dizem denunciar &ldquo;a impunidade que impera 
 &ldquo;Essa nota p&uacute;blica deve soar como um grito de den&uacute;ncia e um pedido de socorro, pois recentemente assistimos a morte de mais uma lideran&ccedil;as ind&iacute;gena, Sim&atilde;o Vilhalva, em MS, no munic&iacute;pio de Ant&ocirc;nio Jo&atilde;o. Ele e tantos outros foram assassinados pelo coronelismo que impera em nosso Estado, mas nada foi feito, nenhum culpado punido, e temos medo de que nossas fam&iacute;lias tamb&eacute;m possam ser v&iacute;timas de ataques inesperados&rdquo;, completa a nota.</p>
 
 <p><br />
-Eles tamb&eacute;m mostram indigna&ccedil;&atilde;o com a situa&ccedil;&atilde;o do Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (INCRA) no estado, que sofre com a falta de estrutura f&iacute;sica e financeira para tocar os trabalhos.&nbsp;<br />
+Eles tamb&eacute;m mostram indigna&ccedil;&atilde;o com a situa&ccedil;&atilde;o do Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (INCRA) no estado, que sofre com a falta de estrutura f&iacute;sica e financeira para tocar os trabalhos.&nbsp;</p>
+
+<p><br />
 &ldquo;N&atilde;o &agrave; toa que os funcion&aacute;rios fizeram uma grande movimenta&ccedil;&atilde;o grevista. At&eacute; o momento ainda aguardamos a nomea&ccedil;&atilde;o definitiva de um superintendente que possa tocar as quest&otilde;es necess&aacute;rias&rdquo;.</p>
 
 <p><br />
