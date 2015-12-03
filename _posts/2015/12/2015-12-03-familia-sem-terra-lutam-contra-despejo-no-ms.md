@@ -27,6 +27,8 @@ releated_posts:
 
 ---
 <p><br />
+<img alt="DSCN6890.JPG" src="//farm6.staticflickr.com/5828/23196852270_31b2fed200_b.jpg" /><br />
+<br />
 <em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
