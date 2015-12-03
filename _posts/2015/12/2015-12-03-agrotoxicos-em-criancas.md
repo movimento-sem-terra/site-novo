@@ -39,14 +39,12 @@ releated_posts:
 <em>Por Roberto Naime*<br />
 Do Portal EcoDebate</em></p>
 
-<p>&nbsp;</p>
-
 <figure class="image" style="float:right"><img alt="Foto4.jpg" height="240" src="//farm1.staticflickr.com/683/23125392939_5dcc5c52be_b.jpg" width="250" />
-<figcaption><em>Dr. Roberto Naime defende o consumo de<br />
-alimentos org&acirc;nicos</em></figcaption>
+<figcaption><em>Dr. Roberto Naime defende o consumo de alimentos org&acirc;nicos</em></figcaption>
 </figure>
 
-<p>A pesquisadora cient&iacute;fica da Universidade Federal do Paran&aacute;, S&ocirc;nia Stertz, doutora em Tecnologia de Alimentos, presidente da Sociedade Brasileira de Ci&ecirc;ncia e Tecnologia de Alimentos na Regional do Paran&aacute;, registra que as crian&ccedil;as apresentam n&iacute;veis duas vezes mais elevados de pesticidas no sangue e seus efeitos s&atilde;o at&eacute; 10 vezes mais intensos do que em adultos.</p>
+<p><br />
+A pesquisadora cient&iacute;fica da Universidade Federal do Paran&aacute;, S&ocirc;nia Stertz, doutora em Tecnologia de Alimentos, presidente da Sociedade Brasileira de Ci&ecirc;ncia e Tecnologia de Alimentos na Regional do Paran&aacute;, registra que as crian&ccedil;as apresentam n&iacute;veis duas vezes mais elevados de pesticidas no sangue e seus efeitos s&atilde;o at&eacute; 10 vezes mais intensos do que em adultos.</p>
 
 <p><br />
 &ldquo;At&eacute; a idade de dois anos, crian&ccedil;as produzem pouco de uma enzima chamada Paraoxonase-1, que auxilia na detoxifica&ccedil;&atilde;o ou elimina&ccedil;&atilde;o de pesticidas organofosforados. Algumas crian&ccedil;as s&oacute; atingem n&iacute;veis normais dessas enzimas aos 7 anos&rdquo;, assevera, citando investiga&ccedil;&atilde;o feita pela Universidade de Berkeley, na Calif&oacute;rnia.</p>
