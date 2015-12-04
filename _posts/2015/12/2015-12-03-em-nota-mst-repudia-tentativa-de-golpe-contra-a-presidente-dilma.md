@@ -23,7 +23,10 @@ section: cover
 
 ---
 <p><br />
-<em style="line-height: 20.8px;">Da P&aacute;gina do MST</em></p>
+<img alt="903813-mst-4505.jpg" height="468" src="//farm6.staticflickr.com/5633/23135598239_21805ba92d_b.jpg" width="700" /><br />
+&nbsp;</p>
+
+<p><em style="line-height: 20.8px;">Da P&aacute;gina do MST</em></p>
 
 <p><br />
 No &uacute;ltimo per&iacute;odo, o pa&iacute;s tem vivenciado uma crescente onda conservadora&nbsp;no Congresso Nacional que&nbsp;na figura do deputado Eduardo Cunha (<span style="line-height: 20.8px;">PMDB/RJ</span>), ent&atilde;o&nbsp;presidente da C&acirc;mara dos Deputados,&nbsp;tem orquestrado uma s&eacute;rie de a&ccedil;&otilde;es que promovem a retirada de&nbsp;direitos da classe trabalhadora, cuja ofensiva se desembocou na autoriza&ccedil;&atilde;o da abertura do processo de impeachment contra a presidente Dilma Rousseff nesta quarta-feira (02).&nbsp;</p>
