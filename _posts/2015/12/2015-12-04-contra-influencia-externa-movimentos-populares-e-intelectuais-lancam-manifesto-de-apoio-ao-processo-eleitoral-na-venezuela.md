@@ -4,7 +4,7 @@ tags:
   - tag: eleições
   - tag: venezuela
   - tag: américa-latina
-title: "Contra “influência externa”, movimentos populares e intelectuais lançam manifesto de apoio ao processo eleitoral na Venezuela"
+title: Movimentos populares e intelectuais lançam manifesto de apoio à Venezuela
 support_line: "Documento já tem mais de 300 assinaturas; dirigente do MST, João Pedro Stedile acredita que campanha difamatória tem interesse pelo petróleo como pano de fundo."
 images_hd: //farm1.staticflickr.com/610/23436122331_4de101834e_b.jpg
 menu: solidariedade
