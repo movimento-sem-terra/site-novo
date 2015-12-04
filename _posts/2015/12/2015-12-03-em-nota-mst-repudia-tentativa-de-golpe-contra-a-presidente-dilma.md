@@ -26,10 +26,10 @@ section: cover
 <em style="line-height: 20.8px;">Da P&aacute;gina do MST</em></p>
 
 <p><br />
-No &uacute;ltimo per&iacute;odo, o pa&iacute;s tem vivenciado uma crescente onda conservadora&nbsp;no Congresso Nacional que, na figura do deputado Eduardo Cunha (<span style="line-height: 20.8px;">PMDB/RJ</span>), ent&atilde;o&nbsp;presidente da C&acirc;mara dos Deputados,&nbsp;tem orquestrado uma s&eacute;rie de a&ccedil;&otilde;es que promovem a retirada de&nbsp;direitos da classe trabalhadora, cuja ofensiva se desembocou na autoriza&ccedil;&atilde;o da abertura do processo de impeachment contra a presidente Dilma Rousseff nesta quarta-feira (02).&nbsp;</p>
+No &uacute;ltimo per&iacute;odo, o pa&iacute;s tem vivenciado uma crescente onda conservadora&nbsp;no Congresso Nacional que&nbsp;na figura do deputado Eduardo Cunha (<span style="line-height: 20.8px;">PMDB/RJ</span>), ent&atilde;o&nbsp;presidente da C&acirc;mara dos Deputados,&nbsp;tem orquestrado uma s&eacute;rie de a&ccedil;&otilde;es que promovem a retirada de&nbsp;direitos da classe trabalhadora, cuja ofensiva se desembocou na autoriza&ccedil;&atilde;o da abertura do processo de impeachment contra a presidente Dilma Rousseff nesta quarta-feira (02).&nbsp;</p>
 
 <p><br />
-<span style="line-height: 20.8px;">Posto isso, o Movimento notadamente&nbsp;lan&ccedil;a sua posi&ccedil;&atilde;o oficial diante da atual crise pol&iacute;tica e &agrave; grave situa&ccedil;&atilde;o que tal a&ccedil;&atilde;o desencadeia.&nbsp;</span></p>
+<span style="line-height: 20.8px;">Posto isso, o Movimento notadamente&nbsp;lan&ccedil;a sua posi&ccedil;&atilde;o oficial diante da atual crise pol&iacute;tica e &agrave;&nbsp;situa&ccedil;&atilde;o de amea&ccedil;a para o&nbsp;Estado de Direito democr&aacute;tico&nbsp;que tal a&ccedil;&atilde;o desencadeia.&nbsp;</span></p>
 
 <p><br />
 &quot;<span style="line-height: 20.8px;">Repudiamos o comportamento do&nbsp;deputado&nbsp;Eduardo Cunha e afirmamos que ele &eacute; um reflexo da alian&ccedil;a expl&iacute;cita entre a m&iacute;dia empresarial, liderada pela Rede Globo, com partidos pol&iacute;ticos de oposi&ccedil;&atilde;o, tendo o PSDB como expoente. Logo, n&atilde;o tem legitimidade moral, &eacute;tica ou pol&iacute;tica de propor o impedimento da presid&ecirc;ncia da rep&uacute;blica&quot;, afirma em trecho da nota.&nbsp;</span></p>
