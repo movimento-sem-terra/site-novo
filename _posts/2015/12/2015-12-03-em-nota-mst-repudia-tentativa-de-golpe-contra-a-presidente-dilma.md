@@ -50,7 +50,7 @@ Como principal articulador da tentativa de golpe&nbsp;que coloca em xeque um pro
 O Movimento dos Trabalhadores Rurais Sem Terra vem &agrave; p&uacute;blico denunciar a tentativa de golpe institucional contra Presidenta da Rep&uacute;blica, Dilma Rousseff, promovido pelo presidente da C&acirc;mara Federal, Eduardo Cunha (PMDB/RJ) e reafirma seu compromisso em defesa da democracia e do respeito ao voto.</p>
 
 <p><br />
-Repudiamos o comportamento do&nbsp;deputado&nbsp;Eduardo Cunha e afirmamos que ele &eacute;&nbsp;reflexo da alian&ccedil;a expl&iacute;cita entre a m&iacute;dia empresarial e alguns&nbsp;partidos pol&iacute;ticos &nbsp;e que n&atilde;o tem legitimidade moral, &eacute;tica ou pol&iacute;tica de propor o impedimento da presid&ecirc;ncia da rep&uacute;blica.&nbsp;</p>
+Repudiamos o comportamento do&nbsp;deputado&nbsp;Eduardo Cunha e afirmamos que ele &eacute;&nbsp;reflexo da alian&ccedil;a expl&iacute;cita entre a m&iacute;dia empresarial,&nbsp;liderada pela Rede Globo, seguida por partidos pol&iacute;ticos,&nbsp;tendo o PSDB como expoente.&nbsp;E&nbsp;que n&atilde;o tem legitimidade moral, &eacute;tica ou pol&iacute;tica de propor o impedimento da presid&ecirc;ncia da rep&uacute;blica.&nbsp;</p>
 
 <p><br />
 Todos os ataques aos direitos da classe trabalhadora, proferidos sob a Presid&ecirc;ncia de Eduardo Cunha na C&acirc;mara de Deputados, est&atilde;o sendo respondidos com um grande FORA CUNHA! Portanto, seguiremos empunhando essa bandeira at&eacute; que o Cunha caia e seja provada a sua culpabilidade criminosa nos processos instaurados, sendo imediatamente preso.</p>
