@@ -19,6 +19,7 @@ files:
 created_date: "2015-12-03T22:06:32-02:00"
 published: true
 releated_posts: []
+section: cover
 
 ---
 <p><br />
