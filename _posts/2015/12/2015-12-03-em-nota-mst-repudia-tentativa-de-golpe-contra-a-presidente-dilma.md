@@ -47,16 +47,16 @@ Como principal articulador da tentativa de golpe&nbsp;que coloca em xeque um pro
 <strong>NOTA DO MST SOBRE O IMPEACHMENT DA PRESIDENTA DILMA</strong></p>
 
 <p><br />
-O Movimento dos Trabalhadores Rurais Sem Terra vem &agrave; p&uacute;blico denunciar a tentativa de golpe institucional contra Presidenta da Rep&uacute;blica, Dilma Rousseff, promovido pelo presidente da C&acirc;mera Federal, Eduardo Cunha (PMDB/RJ) e reafirma seu compromisso em defesa da democracia e do respeito ao voto.</p>
+O Movimento dos Trabalhadores Rurais Sem Terra vem &agrave; p&uacute;blico denunciar a tentativa de golpe institucional contra Presidenta da Rep&uacute;blica, Dilma Rousseff, promovido pelo presidente da C&acirc;mara Federal, Eduardo Cunha (PMDB/RJ) e reafirma seu compromisso em defesa da democracia e do respeito ao voto.</p>
 
 <p><br />
-Repudiamos o comportamento do&nbsp;deputado&nbsp;Eduardo Cunha e afirmamos que ele &eacute;&nbsp;reflexo da alian&ccedil;a expl&iacute;cita entre a m&iacute;dia empresarial, liderada pela Rede Globo, com partidos pol&iacute;ticos de oposi&ccedil;&atilde;o, tendo o PSDB como expoente. Logo, n&atilde;o tem legitimidade moral, &eacute;tica ou pol&iacute;tica de propor o impedimento da presid&ecirc;ncia da rep&uacute;blica.&nbsp;</p>
+Repudiamos o comportamento do&nbsp;deputado&nbsp;Eduardo Cunha e afirmamos que ele &eacute;&nbsp;reflexo da alian&ccedil;a expl&iacute;cita entre a m&iacute;dia empresarial e alguns&nbsp;partidos pol&iacute;ticos &nbsp;e que n&atilde;o tem legitimidade moral, &eacute;tica ou pol&iacute;tica de propor o impedimento da presid&ecirc;ncia da rep&uacute;blica.&nbsp;</p>
 
 <p><br />
 Todos os ataques aos direitos da classe trabalhadora, proferidos sob a Presid&ecirc;ncia de Eduardo Cunha na C&acirc;mara de Deputados, est&atilde;o sendo respondidos com um grande FORA CUNHA! Portanto, seguiremos empunhando essa bandeira at&eacute; que o Cunha caia e seja provada a sua culpabilidade criminosa nos processos instaurados, sendo imediatamente preso.</p>
 
 <p><br />
-Salientamos a necessidade de o Governo Dilma assumir a pauta que a elegeu em 2014 e fazer um mandato que defenda a classe trabalhadora. Por&eacute;m, n&atilde;o aceitamos nenhum tipo de golpe e vamos defender o mandato legitimado nas urnas da Presidenta. Ao mesmo tempo, continuaremos lutando para combater o atual pol&iacute;tica econ&ocirc;mica de vi&eacute;s neoliberal, implementada no segundo mandato da Presidenta Dilma, que penaliza a popula&ccedil;&atilde;o brasileira, promove um retrocesso nos direitos trabalhistas, beneficia o capital rentista e sinaliza a entrega das nossas riquezas naturais &agrave; rapinagem do capital internacional.</p>
+Salientamos a necessidade de o Governo Dilma assumir a pauta que a elegeu em 2014 e fazer um mandato que defenda a classe trabalhadora. Por&eacute;m, n&atilde;o aceitamos nenhum tipo de golpe e vamos defender o mandato da Presidenta legitimado nas urnas.&nbsp;Ao mesmo tempo, continuaremos lutando para combater o atual pol&iacute;tica econ&ocirc;mica de vi&eacute;s neoliberal, implementada no segundo mandato da Presidenta Dilma, que penaliza a popula&ccedil;&atilde;o brasileira, promove um retrocesso nos direitos trabalhistas, beneficia o capital rentista e sinaliza a entrega das nossas riquezas naturais &agrave; rapinagem do capital internacional.</p>
 
 <p><br />
 Acreditamos que, as crises pol&iacute;tica, econ&ocirc;mica, social e ambiental que vivemos nos dias de hoje, exigem profundas reformas estruturais que assegurem a consolida&ccedil;&atilde;o e aprofundamento da democracia, promovam a distribui&ccedil;&atilde;o da renda e riqueza produzida aqui e garantam a soberania do nosso pa&iacute;s.&nbsp;</p>
