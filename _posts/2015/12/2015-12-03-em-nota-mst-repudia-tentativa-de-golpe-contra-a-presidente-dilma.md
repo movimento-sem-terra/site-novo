@@ -56,13 +56,13 @@ Repudiamos o comportamento do&nbsp;deputado&nbsp;Eduardo Cunha e afirmamos que e
 Todos os ataques aos direitos da classe trabalhadora, proferidos sob a Presid&ecirc;ncia de Eduardo Cunha na C&acirc;mara de Deputados, est&atilde;o sendo respondidos com um grande FORA CUNHA! Portanto, seguiremos empunhando essa bandeira at&eacute; que o Cunha caia e seja provada a sua culpabilidade criminosa nos processos instaurados, sendo imediatamente preso.</p>
 
 <p><br />
-Salientamos a necessidade de o Governo Dilma assumir a pauta que a elegeu em 2014 e fazer um mandato que defenda a classe trabalhadora. Por&eacute;m, n&atilde;o aceitamos nenhum tipo de golpe e vamos defender o mandato da Presidenta legitimado pelas urnas.&nbsp;Ao mesmo tempo, continuaremos lutando para combater o atual pol&iacute;tica econ&ocirc;mica de vi&eacute;s neoliberal, implementada no segundo mandato da Presidenta Dilma, que penaliza a popula&ccedil;&atilde;o brasileira, promove um retrocesso nos direitos trabalhistas, beneficia o capital rentista e sinaliza a entrega das nossas riquezas naturais &agrave; rapinagem do capital internacional.</p>
+Salientamos a necessidade de o Governo Dilma assumir a pauta que a elegeu em 2014 e fazer um mandato que defenda a classe trabalhadora. Por&eacute;m, n&atilde;o aceitamos nenhum tipo de golpe e vamos defender o mandato da Presidenta legitimado pelas urnas.&nbsp;Ao mesmo tempo, continuaremos lutando para combater a&nbsp;atual pol&iacute;tica econ&ocirc;mica de vi&eacute;s neoliberal, implementada no segundo mandato da Presidenta Dilma, que penaliza a popula&ccedil;&atilde;o brasileira, promove um retrocesso nos direitos trabalhistas, beneficia o capital rentista e sinaliza a entrega das nossas riquezas naturais &agrave; rapinagem do capital internacional.</p>
 
 <p><br />
-Acreditamos que, as crises pol&iacute;tica, econ&ocirc;mica, social e ambiental que vivemos nos dias de hoje, exigem profundas reformas estruturais que assegurem a consolida&ccedil;&atilde;o e aprofundamento da democracia, promovam a distribui&ccedil;&atilde;o da renda e riqueza produzida aqui e garantam a soberania do nosso pa&iacute;s.&nbsp;</p>
+Acreditamos que&nbsp;as crises pol&iacute;tica, econ&ocirc;mica, social e ambiental que vivemos nos dias de hoje, exigem profundas reformas estruturais que assegurem a consolida&ccedil;&atilde;o e aprofundamento da democracia, promovam a distribui&ccedil;&atilde;o da renda e riqueza produzida aqui e garantam a soberania do nosso pa&iacute;s.&nbsp;</p>
 
 <p><br />
-Por isso, convocamos toda a milit&acirc;ncia e toda a classe trabalhadora para lutar pela cassa&ccedil;&atilde;o do mandato e pris&atilde;o de Eduardo Cunha. Entendendo que somente com as reformas estruturais&nbsp;podemos colocar Brasil em um novo patamar de democracia e justi&ccedil;a social.</p>
+Por isso, convocamos toda a milit&acirc;ncia e toda a classe trabalhadora para lutar pela cassa&ccedil;&atilde;o do mandato e pris&atilde;o de Eduardo Cunha. Entendendo que, somente com as reformas estruturais&nbsp;podemos colocar Brasil em um novo patamar de democracia e justi&ccedil;a social.</p>
 
 <p style="text-align: right;"><br />
 <strong>Movimento dos Trabalhadores Rurais Sem Terra - MST<br />
