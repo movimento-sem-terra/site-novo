@@ -36,6 +36,7 @@ releated_posts:
   - 2014/08/2014-08-26-programa-de-reducao-de-agrotoxicos-depende-da-sociedade-diz-pesquisador.md
   - 2014/12/2014-12-01-populacao-brasileira-vai-as-ruas-exigir-o-fim-do-uso-de-agrotoxicos.md
   - 2015/04/2015-04-06-virada-sem-veneno-promove-uma-semana-de-atividades-pela-saude.md
+section: featured-news
 
 ---
 <p>&nbsp;<br />
