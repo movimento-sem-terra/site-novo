@@ -23,6 +23,7 @@ releated_posts:
   - 2013/04/2013-04-11-shell-e-basf-irao-pagar-indenizacao-por-contaminacao-em-fabrica-de-agrotoxicos.md-e
   - 2013/04/2013-04-11-shell-e-basf-irao-pagar-indenizacao-por-contaminacao-em-fabrica-de-agrotoxicos.md
   - 2014/02/2014-02-06-casa-civil-pressiona-ministerios-para-a-liberalizacao-de-agrotoxicos.md
+label: interviews
 
 ---
 <p><br />
