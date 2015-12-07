@@ -18,7 +18,11 @@ files:
     $$hashKey: 04Y
 created_date: "2015-12-07T12:48:43-02:00"
 published: true
-releated_posts: []
+releated_posts:
+  - 2015/06/2015-06-01-sem-terra-intensificam-trabalho-de-base-em-sergipe.md
+  - 2015/05/2015-05-29-trabalhadores-da-industria-textil-paralisam-atividades-em-sergipe.md
+  - 2015/04/2015-04-29-ufs-realiza-a-2o-jornada-universitaria-em-defesa-da-reforma-agraria.md
+  - 2015/07/2015-07-13-em-sergipe-sem-terra-debatem-os-desafios-da-organizacao-politica.md
 
 ---
 <p class="p1"><br />
