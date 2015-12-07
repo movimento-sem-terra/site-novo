@@ -49,7 +49,10 @@ A solenidade de encerramento do curso foi realizada no audit&oacute;rio da&nbsp;
 <span style="line-height: 20.8px;">Gislene Reis,</span>&nbsp;historiadora,&nbsp;aluna do resid&ecirc;ncia agr&aacute;ria e tamb&eacute;m dirigente do MST, considera que &ldquo; o curso foi uma excelente experi&ecirc;ncia e demonstra o quanto precisamos fortalecer o Pronera, para que ele possibilite novas turmas e novos alunos acampados e assentados do MST&rdquo;. Ela lembrou ainda,&nbsp;que Movimento est&aacute;&nbsp;em fase de prepara&ccedil;&atilde;o para o in&iacute;cio do curso de Agroecologia pelo&nbsp;Pronera em Parceria com o Instituto Federal do&nbsp;Sergipe (IFS).</p>
 
 <p class="p7"><br />
-<span style="line-height: 20.8px;">Para a assentada, pedagoga e aluna do&nbsp;</span><span style="line-height: 20.8px;">resid&ecirc;ncia agr&aacute;ria,&nbsp;</span><span style="line-height: 20.8px;">Maria Norm&eacute;lia Santos, o aprendizado obtido no curso possibilitou que ela possam lidar melhor com o meio ambiente sem agredi-lo.&nbsp;</span><span style="line-height: 20.8px;">&ldquo;U</span><span style="line-height: 20.8px;">ma experi&ecirc;ncia marcante, foi aprender a matar as pragas sem a necessidade de usar veneno, hoje tenho uma horta coletiva com meus alunos e repasso o que aprendi&rdquo;, salientou</span><span style="line-height: 20.8px;">.</span></p>
+<span style="line-height: 20.8px;">J&aacute;&nbsp;a assentada, pedagoga e aluna do&nbsp;</span><span style="line-height: 20.8px;">resid&ecirc;ncia agr&aacute;ria,&nbsp;</span><span style="line-height: 20.8px;">Maria Norm&eacute;lia Santos, ressalta que aprendizado obtido no curso possibilitou novas pr&aacute;ticas de manejo com&nbsp;o meio ambiente sem agredi-lo. </span></p>
+
+<p class="p7"><br />
+<span style="line-height: 20.8px;">&ldquo;U</span><span style="line-height: 20.8px;">ma experi&ecirc;ncia marcante, foi aprender a matar as pragas sem a necessidade de usar veneno, hoje tenho uma horta coletiva com meus alunos e repasso o que aprendi&rdquo;, salientou Maria.</span></p>
 
 <p class="p7"><br />
 <strong>O Resid&ecirc;ncia Agr&aacute;ria&nbsp;</strong></p>
