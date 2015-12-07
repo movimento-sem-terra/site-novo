@@ -57,7 +57,9 @@ releated_posts:
 <em>Por Luiz Felipe Albuquerque<br />
 Da P&aacute;gina do MST</em></p>
 
-<p><em>Fotos: Luara&nbsp;</em></p>
+<p><em>Fotos: Luara&nbsp;Dal Chiavon</em></p>
+
+<p>&nbsp;</p>
 
 <p><br />
 Surdo, tamborim, caixa, pandeiro, zabumba, tri&acirc;ngulo e ganz&aacute;. Entre um instrumento e outro, partindo do bai&atilde;o e entrando no samba, foi que cerca de 15 Sem Terra de diversas partes do Brasil participaram da oficina de percuss&atilde;o com o m&uacute;sico Chico Batera, entre os dias 3 e 4 de dezembro, na &nbsp;Escola Nacional Florestan Fernandes, em Guararema (SP).</p>
