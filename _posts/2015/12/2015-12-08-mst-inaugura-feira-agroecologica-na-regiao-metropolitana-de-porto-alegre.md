@@ -7,7 +7,7 @@ tags:
 title: MST inaugura Feira Agroecológica na região Metropolitana de Porto Alegre
 support_line: "Novo ponto de comercialização no município de Canoas envolve 13 famílias assentadas em Nova Santa Rita. "
 menu: reforma agrária
-images_hd: //farm6.staticflickr.com/5782/22987800293_e1d9a105a5_b.jpg
+images_hd: //farm6.staticflickr.com/5666/22986732254_9f6c7fef47_b.jpg
 layout: post
 files:
   - link: //farm1.staticflickr.com/725/23246922939_85c2ea07f0_b.jpg
@@ -22,6 +22,12 @@ files:
     small: //farm6.staticflickr.com/5782/22987800293_e1d9a105a5_n.jpg
     title: 12341152_1948282858729454_3780179466264410082_n.jpg
     $$hashKey: 1F4
+  - link: //farm6.staticflickr.com/5666/22986732254_9f6c7fef47_b.jpg
+    thumbnail: //farm6.staticflickr.com/5666/22986732254_9f6c7fef47_t.jpg
+    medium: //farm6.staticflickr.com/5666/22986732254_9f6c7fef47_z.jpg
+    small: //farm6.staticflickr.com/5666/22986732254_9f6c7fef47_n.jpg
+    title: 12341411_1948282902062783_495496771283741559_n.jpg
+    $$hashKey: 1LP
 created_date: "2015-12-08T17:56:19-02:00"
 published: true
 releated_posts:
@@ -93,6 +99,9 @@ Da P&aacute;gina do MST</em></span></p>
 <span class="s1">&ldquo;Essa conquista nos ajudar&aacute; na obten&ccedil;&atilde;o de renda e a superar as dificuldades que v&iacute;nhamos enfrentando. Agora, conseguiremos comprar aquilo que falta para a nossa panificadora para potencializar a produ&ccedil;&atilde;o&rdquo;, afirma a assentada.</span></p>
 
 <p class="p3"><br />
-<span class="s1">A feira &eacute; fruto de uma parceira entre as prefeituras de Canoas e Nova Santa Rita, Coptec e Associa&ccedil;&atilde;o de Moradores do Bairro Igara.</span></p>
+<span class="s1">A feira &eacute; fruto de uma parceira entre as prefeituras de Canoas e Nova Santa Rita, Coptec e Associa&ccedil;&atilde;o de Moradores do Bairro Igara.</span><br />
+&nbsp;</p>
 
-<p class="p3">&nbsp;</p>
+<figure class="image"><img alt="12341411_1948282902062783_495496771283741559_n.jpg" height="394" src="//farm6.staticflickr.com/5666/22986732254_9f6c7fef47_b.jpg" width="700" />
+<figcaption>Foto: Justino Fernandes Vieira</figcaption>
+</figure>
