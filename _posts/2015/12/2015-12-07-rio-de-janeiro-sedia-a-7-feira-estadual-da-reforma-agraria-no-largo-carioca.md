@@ -41,7 +41,7 @@ releated_posts:
 De segunda at&eacute; quarta desta semana, o Largo Carioca, no centro do Rio de Janeiro, ser&aacute; o palco da <strong><a href="https://www.facebook.com/events/139157103110863/" target="_blank">VII Feira Estadual da Reforma Agr&aacute;ria C&iacute;cero Guedes</a></strong>. Frutas, legumes e verduras vindas de assentamentos de reforma agr&aacute;ria do estado do Rio de Janeiro estar&atilde;o &agrave; disposi&ccedil;&atilde;o do p&uacute;blico que passar pelo local.</p>
 
 <p><br />
-O objetivo da feira &eacute; mostrar mostrar a urg&ecirc;ncia da reforma agr&aacute;ria, provando na pr&aacute;tica que a justa divis&atilde;o de terras tem um grande potencial de produ&ccedil;&atilde;o de alimentos saud&aacute;veis, cultivados de forma agroecol&oacute;gica.</p>
+O objetivo da feira &eacute; mostrar a urg&ecirc;ncia da reforma agr&aacute;ria, provando na pr&aacute;tica que a justa divis&atilde;o de terras tem um grande potencial de produ&ccedil;&atilde;o de alimentos saud&aacute;veis, cultivados de forma agroecol&oacute;gica.</p>
 
 <p><br />
 Produtos agroindustrializados vindos assentamentos de outras regi&otilde;es do Brasil tamb&eacute;m far&atilde;o parte da feira, como por exemplo o suco de uva (RS), latic&iacute;nios (SC) e a cacha&ccedil;a (SP). Durante o evento, acontecer&atilde;o diversas apresenta&ccedil;&otilde;es culturais, como o bloco da Apafunk, o grupo de maracatu Tambores de Olokum e o forr&oacute; de Geraldo Junior e o Bloco da Terreirada Cearense (<strong><a href="http://secretariamstrj.wix.com/feiraestadual" target="_blank">Confira o site da Feira</a></strong>).</p>
