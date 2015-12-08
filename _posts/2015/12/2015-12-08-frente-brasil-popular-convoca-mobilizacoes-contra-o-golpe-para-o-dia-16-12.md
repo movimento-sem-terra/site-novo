@@ -34,7 +34,7 @@ releated_posts:
 <em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Reunidos na noite desta segunda-feira (6), em S&atilde;o Paulo, diversos representantes de movimentos populares, centrais sindicais e outros setores da sociedade civil que comp&otilde;em a Frente Brasil Popular tiraram o dia de 16 de dezembro para realizar uma mobiliza&ccedil;&atilde;o nacional contra o processo de impeachment da presidenta Dilma Rousseff em curso no Congresso Nacional.</p>
+Reunidos na noite desta segunda-feira (7), em S&atilde;o Paulo, diversos representantes de movimentos populares, centrais sindicais e outros setores da sociedade civil que comp&otilde;em a Frente Brasil Popular tiraram o dia de 16 de dezembro para realizar uma mobiliza&ccedil;&atilde;o nacional contra o processo de impeachment da presidenta Dilma Rousseff em curso no Congresso Nacional.</p>
 
 <p><br />
 Para as mais de 60 da Frente, est&aacute; em curso um processo de golpe da direita por meio de um grupo de parlamentares liderados pelo deputado Eduardo Cunha (PMDB-RJ).</p>
