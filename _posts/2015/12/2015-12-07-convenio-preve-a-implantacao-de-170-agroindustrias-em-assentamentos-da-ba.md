@@ -33,6 +33,7 @@ releated_posts:
   - 2015/12/2015-12-02-em-dez-regioes-da-bahia-sem-terra-se-preparam-para-o-28o-encontro-estadual-do-mst.md
   - 2015/10/2015-10-16-assentados-aprendem-as-licoes-da-floresta-para-cultivar-na-amazonia.md
   - 2015/08/2015-08-25-um-sonho-que-ser-torna-realidade.md
+section: featured-news
 
 ---
 <figure class="image"><img alt="IMG_9582.jpg" src="//farm6.staticflickr.com/5730/22956735603_939eee6b0a_b.jpg" />
