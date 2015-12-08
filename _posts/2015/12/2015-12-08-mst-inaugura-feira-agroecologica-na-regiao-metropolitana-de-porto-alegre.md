@@ -60,38 +60,7 @@ Da P&aacute;gina do MST</em></span></p>
 <span class="s1">Segundo Sandra Rodrigues, do n&uacute;cleo operacional da Cooperativa de Trabalho em Servi&ccedil;os T&eacute;cnicos (Coptec) de Nova Santa Rita, al&eacute;m de oferecer alimentos livres do uso de agrot&oacute;xicos, produzidos pelos pr&oacute;prios assentados, a feira fortalece a luta pela Reforma Agr&aacute;ria Popular.</span></p>
 
 <p class="p3"><br />
-<span class="s1">&ldquo;&Eacute; uma ferramenta para compartilhar a produ&ccedil;&atilde;o de alimentos saud&aacute;veis, diversificados e da &eacute;poca, e para estabelecer uma rela&ccedil;&atilde;o social&nbsp; e de proximidade entre os trabalhadores do campo e a popula&ccedil;&atilde;o da cidade&rdquo;, explica Sandra.</span><br />
-&nbsp;</p>
-
-<figure class="image" style="float:left"><img alt="12274606_1948295875394819_2497198558662984269_n.jpg" height="394" src="//farm1.staticflickr.com/725/23246922939_85c2ea07f0_b.jpg" width="700" />
-<figcaption>Foto: Justino Fernandes Vieira</figcaption>
-</figure>
-
-<p class="p3"><br />
-<br />
-<br />
-<br />
-&nbsp;</p>
-
-<p class="p3">&nbsp;</p>
-
-<p class="p3">&nbsp;</p>
-
-<p class="p3">&nbsp;</p>
-
-<p class="p3">&nbsp;</p>
-
-<p class="p3">&nbsp;</p>
-
-<p class="p3">&nbsp;</p>
-
-<p class="p3">&nbsp;</p>
-
-<p class="p3">&nbsp;</p>
-
-<p class="p3">&nbsp;</p>
-
-<p class="p3">&nbsp;</p>
+<span class="s1">&ldquo;&Eacute; uma ferramenta para compartilhar a produ&ccedil;&atilde;o de alimentos saud&aacute;veis, diversificados e da &eacute;poca, e para estabelecer uma rela&ccedil;&atilde;o social&nbsp; e de proximidade entre os trabalhadores do campo e a popula&ccedil;&atilde;o da cidade&rdquo;, explica Sandr</span></p>
 
 <p class="p3"><span class="s1">De acordo com a produtora Noeli Salete da Costa, 48 anos, a feira tamb&eacute;m propiciar&aacute; mais renda e qualidade de vida &agrave;s fam&iacute;lias assentadas. Ela trabalha na agroind&uacute;stria M&atilde;o na Massa, no Assentamento Sinos, e levar&aacute; em todos os s&aacute;bados p&atilde;es &ndash; integral, colonial e de milho &ndash;, cucas e bolachas para vender na feira.</span></p>
 
