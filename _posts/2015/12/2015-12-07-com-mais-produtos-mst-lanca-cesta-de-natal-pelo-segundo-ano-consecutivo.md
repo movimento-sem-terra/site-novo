@@ -9,7 +9,7 @@ images_hd: //farm1.staticflickr.com/672/23584164525_100d5bbfee_b.jpg
 support_line: "Café, suco de uva e dois tipos de arroz orgânico, palmito, dois tipos de cachaça, polpa de tomate, castanha de caju e panetone são alguns dos produtos que compõem a cesta."
 menu: reforma agrária
 sector: production
-section: cover
+section: featured-news
 layout: post
 files:
   - link: //farm1.staticflickr.com/672/23584164525_100d5bbfee_b.jpg
