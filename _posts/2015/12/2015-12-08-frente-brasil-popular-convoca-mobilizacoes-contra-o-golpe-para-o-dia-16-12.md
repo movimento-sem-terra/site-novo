@@ -1,5 +1,5 @@
 ---
-date: "2015-12-08T09:23:39-02:00"
+date: "2015-12-08T06:23:39-02:00"
 tags:
   - tag: lutas-e-mobilizações
   - tag: frente-brasil-popular
@@ -9,7 +9,7 @@ tags:
 title: Frente Brasil Popular convoca mobilizações contra o golpe para o dia 16/12
 support_line: "O coletivo nacional dos 66 movimentos populares, pastorais e partidos políticos que conformam a Frente colocam a necessidade do povo ir às ruas."
 menu: lutas e mobilizações
-section: cover
+section: null
 images_hd: //farm6.staticflickr.com/5652/23606489575_40ae43b952_b.jpg
 layout: post
 files:
