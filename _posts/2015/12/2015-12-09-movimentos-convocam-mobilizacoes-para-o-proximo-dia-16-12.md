@@ -11,15 +11,15 @@ title: Movimentos convocam mobilizações para o próximo dia 16/12
 support_line: "​Será o dia Nacional de Luta contra o Impeachment, o ajuste fiscal e pelo Fora Cunha. Para elas, o atual cenário exige que a população se mobilize para que não haja retrocessos sociais, políticos e econômicos."
 menu: lutas e mobilizações
 section: cover
-images_hd: //farm1.staticflickr.com/584/23260675819_b35944e63d_b.jpg
+images_hd: //farm1.staticflickr.com/675/23336281480_72bc4bf6b2_b.jpg
 layout: post
 files:
-  - link: //farm1.staticflickr.com/584/23260675819_b35944e63d_b.jpg
-    thumbnail: //farm1.staticflickr.com/584/23260675819_b35944e63d_t.jpg
-    medium: //farm1.staticflickr.com/584/23260675819_b35944e63d_z.jpg
-    small: //farm1.staticflickr.com/584/23260675819_b35944e63d_n.jpg
-    title: fora.jpg
-    $$hashKey: 02X
+  - link: //farm1.staticflickr.com/675/23336281480_72bc4bf6b2_b.jpg
+    thumbnail: //farm1.staticflickr.com/675/23336281480_72bc4bf6b2_t.jpg
+    medium: //farm1.staticflickr.com/675/23336281480_72bc4bf6b2_z.jpg
+    small: //farm1.staticflickr.com/675/23336281480_72bc4bf6b2_n.jpg
+    title: mobilizações_16.jpg
+    $$hashKey: 05R
 created_date: "2015-12-09T08:55:34-02:00"
 published: true
 releated_posts:
@@ -30,10 +30,12 @@ releated_posts:
   - 2015/09/2015-09-06-movimentos-batem-o-martelo-e-lancam-a-frente-brasil-popular.md
 
 ---
-<p><img alt="fora.jpg" src="//farm1.staticflickr.com/584/23260675819_b35944e63d_b.jpg" /></p>
+<p>&nbsp;</p>
 
-<p><br />
-<em>Da P&aacute;gina do MST</em></p>
+<p><img alt="mobilizações_16.jpg" src="//farm1.staticflickr.com/675/23336281480_72bc4bf6b2_b.jpg" /><br />
+&nbsp;</p>
+
+<p><em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
 Diversos movimentos populares e centrais sindicais soltaram na noite desta ter&ccedil;a-feira (8) uma convocat&oacute;ria unit&aacute;ria chamando a popula&ccedil;&atilde;o &agrave;s ruas para o dia Nacional de Luta contra o Impeachment, o ajuste fiscal e pelo Fora Cunha, que ser&aacute; realizado no pr&oacute;ximo dia 16 de dezembro.</p>
