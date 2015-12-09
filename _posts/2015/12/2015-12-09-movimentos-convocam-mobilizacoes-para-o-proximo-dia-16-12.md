@@ -42,7 +42,12 @@ Diversos movimentos populares e centrais sindicais soltaram na noite desta ter&c
 MST, CUT, MTST, CTB, UNE, Intersindical e CONEM s&atilde;o algumas das organiza&ccedil;&otilde;es que puxaram a convocat&oacute;ria. Para elas, o atual cen&aacute;rio nacional exige que a popula&ccedil;&atilde;o se mobilize para que n&atilde;o haja retrocessos sociais, pol&iacute;ticos e econ&ocirc;micos.</p>
 
 <p><br />
-Argumentam que n&atilde;o h&aacute; nenhuma comprova&ccedil;&atilde;o de crime por parte da presidenta Dilma Rousseff que pudesse justificar qualquer pedido de impeachment.</p>
+Em S&atilde;o Paulo, o ato acontecer&aacute;, a partir das 17h, na Avenida Paulista. Os manifestantes seguir&atilde;o em caminhada at&eacute; a Pra&ccedil;a da Rep&uacute;blica. De acordo com os organizadores, tamb&eacute;m ser&aacute; realizada uma grande manifesta&ccedil;&atilde;o em Bras&iacute;lia.</p>
+
+<p>&nbsp;</p>
+
+<p><br />
+Os organizadores argumentam que n&atilde;o h&aacute; nenhuma comprova&ccedil;&atilde;o de crime por parte da presidenta Dilma Rousseff que pudesse justificar qualquer pedido de impeachment.</p>
 
 <p><br />
 As entidades denunciam as motiva&ccedil;&otilde;es oportunistas e revanchistas do presidente da C&acirc;mara dos Deputados, Eduardo Cunha, ao mover este processo sem base jur&iacute;dica, que se configuraria em golpe. &nbsp;</p>
