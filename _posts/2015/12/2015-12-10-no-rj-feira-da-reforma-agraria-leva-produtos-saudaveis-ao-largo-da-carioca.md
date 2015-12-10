@@ -44,7 +44,7 @@ releated_posts:
 <p>&nbsp;</p>
 
 <p><em>Por Nat&aacute;lia Almeida e Vanessa Ramos&nbsp;<br />
-Da p&aacute;gina do MST&nbsp;</em></p>
+Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p>&nbsp;</p>
 
