@@ -1,7 +1,12 @@
 ---
 date: "2015-12-10T11:13:02-02:00"
-tags: []
-support_line: "Diversas organizações estão convocando toda a população brasileira a saírem às ruas no próximo dia 16, criticando o impeachment, ajuste fiscal e fora Cunha."
+tags:
+  - tag: lutas-e-mobilizações
+  - tag: movimentos-populares
+  - tag: impeachment
+  - tag: ajuste-fiscal
+  - tag: frente-brasil-popular
+support_line: "Diversas organizações estão convocando toda a população brasileira a saírem às ruas no próximo dia 16, contra o impeachment, o ajuste fiscal e pelo fora Cunha."
 title: Movimentos organizam a maior unidade da esquerda desde Collor
 menu: lutas e mobilizações
 section: cover
@@ -16,12 +21,19 @@ files:
     $$hashKey: 06Z
 created_date: "2015-12-10T11:23:02-02:00"
 published: true
-releated_posts: []
+releated_posts:
+  - 2015/12/2015-12-08-frente-brasil-popular-convoca-mobilizacoes-contra-o-golpe-para-o-dia-16-12.md
+  - 2015/12/2015-12-09-movimentos-convocam-mobilizacoes-para-o-proximo-dia-16-12.md
+  - 2015/09/2015-09-06-movimentos-batem-o-martelo-e-lancam-a-frente-brasil-popular.md
+  - 2015/11/2015-11-30-manifestacoes-pelo-pais-marcarao-dia-mundial-de-luta-contra-os-agrotoxicos.md
+  - 2015/10/2015-10-09-personalidades-aderem-manifesto-contra-lei-antiterror-senado-deve-votar-na-proxima-semana.md
+  - 2015/12/2015-12-08-mst-vai-as-ruas-defender-a-democracia-afirma-dirigente.md
+  - 2015/12/2015-12-09-juventude-pede-natal-sem-cunha-na-camara-dos-deputados-em-brasilia.md
+  - 2015/09/2015-09-29-contra-ajuste-economistas-querem-emprego-e-renda-no-centro-da-politica-economica.md
 
 ---
 <figure class="image"><img alt="coletiva_16.jpg" src="//farm6.staticflickr.com/5789/23570155711_88f699bfe7_b.jpg" />
-<figcaption>Coletiva de Imprensa com movimentos sociais conclamando para o ato nacional do dia 16/ Foto:&nbsp;Roberto Parizott<br />
-</figcaption>
+<figcaption>Coletiva de Imprensa com movimentos sociais conclamando para o ato nacional do dia 16/ Foto:&nbsp;Roberto Parizott</figcaption>
 </figure>
 
 <p><br />
