@@ -36,7 +36,7 @@ releated_posts:
 <p><img alt="e13c96c8-72fe-4705-acb2-93ca9b24ad82.jpg" src="//farm1.staticflickr.com/689/23028683143_ffb09a70c4_b.jpg" /></p>
 
 <p><br />
-<em>Catiana de Medeiros<br />
+<em>Por Catiana de Medeiros<br />
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
