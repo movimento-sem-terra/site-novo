@@ -10,7 +10,7 @@ tags:
 title: Movimentos convocam mobilizações para o próximo dia 16/12
 support_line: "​Será o dia Nacional de Luta contra o Impeachment, o ajuste fiscal e pelo Fora Cunha. Para elas, o atual cenário exige que a população se mobilize para que não haja retrocessos sociais, políticos e econômicos."
 menu: lutas e mobilizações
-section: cover
+section: featured-news
 images_hd: //farm1.staticflickr.com/675/23336281480_72bc4bf6b2_b.jpg
 layout: post
 files:
