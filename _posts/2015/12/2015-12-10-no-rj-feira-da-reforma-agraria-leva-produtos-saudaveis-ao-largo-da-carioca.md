@@ -7,7 +7,7 @@ tags:
 support_line: "Em sua 7ª edição, foram comercializados mais de 70 toneladas de produtos agroecológicos. "
 images_hd: //farm6.staticflickr.com/5703/23653383255_d78427b985_b.jpg
 menu: reforma agrária
-title: "No RJ, Feira da Reforma Agrária leva produtos saudáveis ao Largo da Carioca"
+title: " Feira da Reforma Agrária leva produtos saudáveis ao Largo da Carioca"
 layout: post
 files:
   - link: //farm6.staticflickr.com/5695/23544829182_bd85e445de_b.jpg
