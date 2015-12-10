@@ -4,7 +4,7 @@ tags:
   - tag: direitos-humanos
   - tag: latifúndio
   - tag: violência
-title: "Enquanto Brasilia ferve, segue gente sem-terra assassinada"
+title: "Enquanto Brasília ferve, segue gente sem-terra assassinada"
 support_line: "\"Por que nunca se abre uma CPMI para investigar quem esconde e conserva as causas estruturais desses crimes, sabidamente oriundas da péssima e muito injusta distribuição de terras do país?\", questiona Jacques Alfonsin."
 menu: direitos humanos
 label: articles
