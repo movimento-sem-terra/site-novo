@@ -11,18 +11,18 @@ menu: direitos humanos
 images_hd: //farm1.staticflickr.com/638/23026646943_a008ed4449_b.jpg
 layout: post
 files:
-  - link: //farm1.staticflickr.com/592/23545126122_092880386f_b.jpg
-    thumbnail: //farm1.staticflickr.com/592/23545126122_092880386f_t.jpg
-    medium: //farm1.staticflickr.com/592/23545126122_092880386f_z.jpg
-    small: //farm1.staticflickr.com/592/23545126122_092880386f_n.jpg
-    title: "Infografico-CPI-Funai-site!.jpg"
-    $$hashKey: 0YL
   - link: //farm1.staticflickr.com/638/23026646943_a008ed4449_b.jpg
     thumbnail: //farm1.staticflickr.com/638/23026646943_a008ed4449_t.jpg
     medium: //farm1.staticflickr.com/638/23026646943_a008ed4449_z.jpg
     small: //farm1.staticflickr.com/638/23026646943_a008ed4449_n.jpg
     title: cpi-genocidio-1-750x410.jpg
     $$hashKey: 0YO
+  - link: //farm6.staticflickr.com/5647/23545298672_9dddb4d72e_b.jpg
+    thumbnail: //farm6.staticflickr.com/5647/23545298672_9dddb4d72e_t.jpg
+    medium: //farm6.staticflickr.com/5647/23545298672_9dddb4d72e_z.jpg
+    small: //farm6.staticflickr.com/5647/23545298672_9dddb4d72e_n.jpg
+    title: "Infografico-CPI-Funai-site (1)!!!!.jpg"
+    $$hashKey: "144"
 created_date: "2015-12-10T12:31:21-02:00"
 published: true
 releated_posts:
@@ -36,7 +36,8 @@ releated_posts:
 ---
 <p style="line-height: 20.8px;"><img alt="cpi-genocidio-1-750x410.jpg" src="//farm1.staticflickr.com/638/23026646943_a008ed4449_b.jpg" /></p>
 
-<p style="line-height: 20.8px;"><em>Por Andr&eacute; de Souza e Evandro &Eacute;boli<br />
+<p style="line-height: 20.8px;"><br />
+<em>Por Andr&eacute; de Souza e Evandro &Eacute;boli<br />
 Da&nbsp;Amaz&ocirc;nia.com.br</em></p>
 
 <p><br />
@@ -61,13 +62,7 @@ A deputada &Eacute;rika Kokay (PT-DF) defendeu a depoente.</p>
 &mdash; A pergunta sobre rela&ccedil;&otilde;es amorosas &eacute; sexista, &eacute; machista. Se fosse um homem que aqui estivesse, talvez n&atilde;o tivesse sido feita essa pergunta (&hellip;) Eu lhe fa&ccedil;o um desagravo, porque vossa senhoria est&aacute; sendo agravada aqui no seu desenvolvimento, na sua capacidade profissional, na sua condi&ccedil;&atilde;o de mulher, na sua condi&ccedil;&atilde;o de antrop&oacute;loga, simplesmente porque fez um laudo que fere os interesses dos ruralistas que est&atilde;o aqui nesta Casa. Chega! &mdash; disse Kokay.</p>
 
 <p><br />
-&nbsp;</p>
-
-<figure class="image" style="float:left"><img alt="Infografico-CPI-Funai-site!.jpg" src="//farm1.staticflickr.com/592/23545126122_092880386f_b.jpg" />
-<figcaption></figcaption>
-</figure>
-
-<p><strong>Quest&otilde;es estaduais na CPI</strong></p>
+<strong>Quest&otilde;es estaduais na CPI</strong></p>
 
 <p><br />
 Tamb&eacute;m &eacute; comum que os deputados usem a CPI para tratar de quest&otilde;es de seus estados. &Eacute; o caso de tr&ecirc;s parlamentares do Sul: Alceu Moreira (PMDB-RS), que tamb&eacute;m &eacute; presidente da CPI, Lu&iacute;s Carlos Heinze e Valdir Colatto (PMDB-SC). A grande maioria dos requerimentos apresentados por eles tinham como objetivo convocar ou convidar pessoas que atuam ou trabalharam em seus estados.</p>
@@ -125,3 +120,6 @@ Entre tantas discuss&otilde;es, algumas conseguiam se destacar pelo bom humor.</
 
 <p><br />
 Em nota, a Funai afirmou que a CPI &eacute; uma ofensiva desigual, violenta e inconstitucional contra os povos ind&iacute;genas e quilombolas. E ataca os ruralistas. &ldquo;Tais setores agem para flexibilizar direitos e tornar os territ&oacute;rios ind&iacute;genas e quilombolas vulner&aacute;veis aos interesses empresariais e econ&ocirc;micos dominantes na nossa sociedade&rdquo;, informou a Funai em nota. O Incra n&atilde;o se manifestou sobre a instala&ccedil;&atilde;o da CPI.</p>
+
+<p><br />
+<img alt="Infografico-CPI-Funai-site (1)!!!!.jpg" src="//farm6.staticflickr.com/5647/23545298672_9dddb4d72e_b.jpg" /></p>
