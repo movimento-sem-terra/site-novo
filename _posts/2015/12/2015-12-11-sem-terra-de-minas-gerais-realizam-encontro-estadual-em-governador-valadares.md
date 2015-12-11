@@ -57,6 +57,8 @@ Da P&aacute;gina do MST</em></p>
 <span class="s1">&ldquo;H&aacute; dois debates fundamentais em quest&atilde;o: a conjuntura pol&iacute;tica, em&nbsp;um momento que a sociedade enfrenta uma crise pol&iacute;tica e econ&ocirc;mica profunda e passamos pelo crime ambiental em Mariana, que &eacute; mais um sinal da crise do capitalismo. Junto a isto, se soma a quest&atilde;o de avan&ccedil;ar na Reforma Agr&aacute;ria Popular, massificar a luta e ampliar o debate da produ&ccedil;&atilde;o de alimentos saud&aacute;veis, mostrando para a&nbsp;sociedade a viabilidade do nosso projeto.&quot;</span></p>
 
 <p class="p5"><br />
+<img alt="DSC_0054.jpg" height="468" src="//farm1.staticflickr.com/660/23384506050_cbc9e719fa_b.jpg" width="700" /><br />
+<br />
 <span class="s1">J&aacute; Ester Hoffmann, da Dire&ccedil;&atilde;o Estadual MST, </span><span style="line-height: 20.8px;">ressalta o fato das&nbsp;</span><span style="line-height: 20.8px;">terras do estado estarem&nbsp;loteadas para a explora&ccedil;&atilde;o mineral, o que dificulta ainda mais a desapropria&ccedil;&atilde;o de &aacute;reas para a Reforma Agr&aacute;ria.</span></p>
 
 <p class="p5"><br />
@@ -67,3 +69,6 @@ Da P&aacute;gina do MST</em></p>
 
 <p class="p5"><br />
 <span class="s1">Enquanto o MST procura formas de produ&ccedil;&atilde;o livre de agrot&oacute;xicos, baseada na cultura da agroecologia para alimentar a classe trabalhadora, as elites tentam imprimir um golpe no governo eleito democraticamente para entregar definitivamente o pa&iacute;s nas m&atilde;os do capital. &ldquo;Diante destes temas, nos questionamos como vamos organizar o MST para dar a resposta pol&iacute;tica que a sociedade espera de n&oacute;s&quot;, conclui &Ecirc;nio. &nbsp;</span></p>
+
+<p class="p5"><br />
+<img alt="IMG_6934.jpg" height="467" src="//farm1.staticflickr.com/582/23571678022_9b29524e98_b.jpg" width="700" /></p>
