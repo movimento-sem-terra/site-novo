@@ -5,10 +5,10 @@ tags:
   - tag: movimentos-sociais
   - tag: impeachment
 images_hd: //farm6.staticflickr.com/5625/23308382759_a590914f22_b.jpg
-support_line: "Mais de 480 personalidades, artistas e intelectuais assinaram o Manifesto em Defesa das Instituições Democráticas, criticando as manobras políticas realizadas na tentativa de destituir a presidenta Dilma Rousseff. "
+support_line: "O texto repudia a tentativa de golpe imposta por Eduardo Cunha, por não haver elementos que fundamentem esta atitude, a não ser pelo desespero de quem não consegue explicar o seu comprovado envolvimento com esquemas."
 title: Mais de 480 personalidades assinam manifesto contra golpe
 menu: lutas e mobilizações
-section: cover
+section: null
 layout: post
 files:
   - link: //farm6.staticflickr.com/5625/23308382759_a590914f22_b.jpg
@@ -35,7 +35,9 @@ releated_posts:
 
 <p style="line-height: 20.8px;">&nbsp;</p>
 
-<p style="line-height: 20.8px;">&nbsp;</p>
+<p style="line-height: 20.8px;">Mais de 480 personalidades, artistas e intelectuais assinaram o Manifesto em Defesa das Institui&ccedil;&otilde;es Democr&aacute;ticas, criticando as manobras pol&iacute;ticas realizadas na tentativa de destituir a presidenta Dilma Rousseff.&nbsp;</p>
+
+<p>&nbsp;</p>
 
 <p>O cineasta Luiz Carlos Barreto, os cantores Chico Buarque e Chico C&eacute;sar, os atores Wagner Moura, Osmar Prado, Henri Castelli, Marcos Frota e T&aacute;ssia Camargo s&atilde;o algumas das pessoas que assinam a carta.&nbsp;</p>
 
