@@ -46,7 +46,7 @@ Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
-<p>Entre os d ias 11 e 12/12 acontece no Assentamento Moacir Wanderley na regi&atilde;o metropolitana de Sergipe, o 2&ordm; torneio de futebol feminino e masculino da Reforma Agr&aacute;ria.&nbsp;</p>
+<p>Entre os dias 11 e 12 de dezembro&nbsp;acontece no Assentamento Moacir Wanderley na regi&atilde;o metropolitana de Sergipe, o 2&ordm; torneio de futebol feminino e masculino da Reforma Agr&aacute;ria.&nbsp;</p>
 
 <p>&nbsp;</p>
 
