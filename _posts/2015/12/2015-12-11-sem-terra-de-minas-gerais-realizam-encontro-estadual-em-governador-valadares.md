@@ -5,8 +5,8 @@ tags:
   - tag: minas-gerais
   - tag: reforma-agrária
   - tag: vale
-support_line: "O enfrentamento ao modelo de \_mineração, a conjuntura política nacional e os desafios da Reforma Agrária Popular são questões em foco nos debates."
-title: Sem Terra de Minas Gerais realizam encontro estadual em Governador Valadares
+support_line: "O enfrentamento ao modelo de \_mineração, a conjuntura política nacional e os desafios da Reforma Agrária Popular são questões em foco nos debates do encontro estadual."
+title: Sem Terra de MG debatem os desafios para o próximo período
 menu: reforma agrária
 images_hd: //farm6.staticflickr.com/5819/23053129753_78db1f7091_b.jpg
 layout: post
@@ -39,8 +39,9 @@ releated_posts:
 ---
 <p class="p1"><br />
 <img alt="DSC_0824.jpg" height="468" src="//farm6.staticflickr.com/5819/23053129753_78db1f7091_b.jpg" width="700" /><br />
-<br />
-<em>Por Geanini Hackbardt&nbsp;<br />
+&nbsp;</p>
+
+<p class="p1"><em>Por Geanini Hackbardt&nbsp;<br />
 Da P&aacute;gina do MST</em></p>
 
 <p class="p2"><br />
@@ -62,7 +63,7 @@ Da P&aacute;gina do MST</em></p>
 <span class="s1">&ldquo;A tomada de territ&oacute;rio pelas mineradoras, de forma degradadora e predat&oacute;ria,&nbsp;coloca em risco o nosso projeto tamb&eacute;m. O Brasil sempre extraiu o min&eacute;rio, mas a forma como o&nbsp;faz&nbsp;&eacute; que est&aacute; o&nbsp;problema. Faz sem&nbsp;preocupa&ccedil;&atilde;o nenhuma com a natureza, sem respeito algum &agrave;s comunidades. Essas empresas&nbsp;v&ecirc;m, tiram tudo, v&atilde;o embora e s&oacute; deixam a destrui&ccedil;&atilde;o. E ainda t&ecirc;m todo o apoio do estado para fazer isso. S&oacute; quando acontece um desastre desse, &eacute;&nbsp;que isso vem &agrave; tona, mesmo assim com v&aacute;rias informa&ccedil;&otilde;es sendo escondidas.&quot;</span></p>
 
 <p class="p5"><br />
-<span class="s1">A dirigente ainda ressalta que esse enfrentamento tamb&eacute;m se dar&aacute; com a amplia&ccedil;&atilde;o da produ&ccedil;&atilde;o de alimentos&nbsp;saud&aacute;veis. &ldquo;Um dos grandes desafios nossos &eacute; dar conta que nossos assentamentos sejam espa&ccedil;os de produ&ccedil;&atilde;o de alimentos saud&aacute;veis e que esses alimentos sejam entregues aos trabalhadores, nas escolas, feiras, etc, por&nbsp;um pre&ccedil;o acess&iacute;vel, por que a partir disso,&nbsp;voc&ecirc; constr&oacute;i a alian&ccedil;a com a cidade&rdquo;, aponta Ester.</span></p>
+<span class="s1">A dirigente ainda ressalta que esse enfrentamento tamb&eacute;m se dar&aacute; com a amplia&ccedil;&atilde;o da produ&ccedil;&atilde;o de alimentos&nbsp;saud&aacute;veis. &ldquo;Um dos grandes desafios nossos &eacute; dar conta que nossos assentamentos sejam espa&ccedil;os de produ&ccedil;&atilde;o de alimentos saud&aacute;veis e que esses alimentos sejam entregues aos trabalhadores, nas escolas, feiras, etc, por&nbsp;um pre&ccedil;o acess&iacute;vel, por que a partir disso se constr&oacute;i a alian&ccedil;a com a cidade&rdquo;, aponta Ester.</span></p>
 
 <p class="p5"><br />
 <span class="s1">Enquanto o MST procura formas de produ&ccedil;&atilde;o livre de agrot&oacute;xicos, baseada na cultura da agroecologia para alimentar a classe trabalhadora, as elites tentam imprimir um golpe no governo eleito democraticamente para entregar definitivamente o pa&iacute;s nas m&atilde;os do capital. &ldquo;Diante destes temas, nos questionamos como vamos organizar o MST para dar a resposta pol&iacute;tica que a sociedade espera de n&oacute;s&quot;, conclui &Ecirc;nio. &nbsp;</span></p>
