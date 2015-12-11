@@ -4,7 +4,7 @@ tags:
   - tag: frente-brasil-popular
   - tag: impeachment
   - tag: rio-grande-do-sul
-title: "“Temos que afinar a viola e enfrentar o impeachment”, diz Stédile no lançamento da FBP no RS\""
+title: "“Temos que afinar a viola e enfrentar o impeachment”, diz Stédile no RS"
 support_line: "O evento reuniu integrantes de movimentos populares, organizações sindicais e partidos políticos, que discutiram sobre a atual conjuntura política do Brasil."
 menu: lutas e mobilizações
 images_hd: //farm1.staticflickr.com/636/23051468354_ed918a200e_b.jpg
