@@ -41,6 +41,8 @@ releated_posts:
 <p><em>Por Catiana de Medeiros<br />
 Da P&aacute;gina do MST</em></p>
 
+<p><em><span style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px; line-height: normal;">Fotos:&nbsp;Leandro Molina</span></em></p>
+
 <p>&nbsp;</p>
 
 <p>Cerca de mil pessoas participaram do ato de lan&ccedil;amento da Frente Brasil Popular (FBP) no Rio Grande do Sul, realizado na manh&atilde; desta sexta-feira (11), no audit&oacute;rio da Federa&ccedil;&atilde;o dos Trabalhadores na Agricultura (Fetag), em Porto Alegre.</p>
