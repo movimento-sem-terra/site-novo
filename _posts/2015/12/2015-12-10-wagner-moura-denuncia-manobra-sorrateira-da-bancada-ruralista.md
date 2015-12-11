@@ -27,6 +27,7 @@ releated_posts:
   - 2015/01/2015-01-23-comissao-pastoral-da-terra-envia-carta-a-presidente-dilma.md
   - 2015/04/2015-04-24-sakamoto-o-brasil-vai-desistir-de-combater-o-trabalho-escravo.md
   - 2015/04/2015-04-14-a-bancada-bbb-domina-o-congresso.md
+section: featured-news
 
 ---
 <figure class="image" style="float:right"><img alt="wagnermoura-ecod.jpg" src="//farm6.staticflickr.com/5785/23029525314_67ea56a7f7_b.jpg" />
