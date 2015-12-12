@@ -55,7 +55,8 @@ O debate prosseguiu durante toda a tarde com uma an&aacute;lise de conjuntura mu
 <p><br />
 Joaquim Pinero, da coordena&ccedil;&atilde;o nacional do MST, enfatizou a necessidade dos militantes entenderem o momento pelo qual o mundo est&aacute; passando e refor&ccedil;ou a import&acirc;ncia de defender a democracia brasileira.&nbsp;</p>
 
-<p>&ldquo;O momento de crise econ&ocirc;mica e pol&iacute;tica deve servir para nos fortalecer e nos unir. N&atilde;o podemos permitir que os reacion&aacute;rios e neoliberais implantem a pol&iacute;tica de recess&atilde;o que eles est&atilde;o tentando. Precisamos ir para as ruas evitar o retrocesso, defender a democracia, que &eacute; uma conquista hist&oacute;rica do nosso pa&iacute;s e para al&eacute;m disso, as bandeiras das reformas que sonhamos precisam ser mais do que hasteadas, a da agr&aacute;ria, pol&iacute;tica e tribut&aacute;ria&rdquo;, salientou Pinero.</p>
+<p><br />
+&ldquo;O momento de crise econ&ocirc;mica e pol&iacute;tica deve servir para nos fortalecer e nos unir. N&atilde;o podemos permitir que os reacion&aacute;rios e neoliberais implantem a pol&iacute;tica de recess&atilde;o que eles est&atilde;o tentando. Precisamos ir para as ruas evitar o retrocesso, defender a democracia, que &eacute; uma conquista hist&oacute;rica do nosso pa&iacute;s e para al&eacute;m disso, as bandeiras das reformas que sonhamos precisam ser mais do que hasteadas, a da agr&aacute;ria, pol&iacute;tica e tribut&aacute;ria&rdquo;, salientou Pinero.</p>
 
 <p><br />
 J&aacute; Gilmar Gon&ccedil;alves, servidor p&uacute;blico e militante hist&oacute;rico das lutas sindicais e sociais em Rond&ocirc;nia e no MS, ao falar da situa&ccedil;&atilde;o agr&aacute;ria fez um relato do sistema implantado no estado.</p>
