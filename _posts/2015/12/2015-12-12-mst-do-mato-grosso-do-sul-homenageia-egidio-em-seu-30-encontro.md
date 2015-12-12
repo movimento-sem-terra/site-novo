@@ -40,8 +40,8 @@ releated_posts:
 <img alt="IMG_4135.JPG" height="467" src="//farm6.staticflickr.com/5682/23394139430_2bd33652ae_b.jpg" width="700" /><br />
 &nbsp;</p>
 
-<p>Por Janelson Ferreira&nbsp;<br />
-Da P&aacute;gina do MST</p>
+<p><em>Por Janelson Ferreira&nbsp;<br />
+Da P&aacute;gina do MST</em></p>
 
 <p><br />
 Durante os pr&oacute;ximos tr&ecirc;s dias, os sem-terras de Mato Grosso do Sul estar&atilde;o reunidos no Assentamento Geraldo Garcia, munic&iacute;pio de Sidrol&acirc;ndia, para debater diversos temas no intuito de refor&ccedil;ar a luta hist&oacute;rica dos 30 anos pela Reforma Agr&aacute;ria popular no estado.&nbsp;</p>
@@ -61,9 +61,8 @@ Joaquim Pinero, da coordena&ccedil;&atilde;o nacional do MST, enfatizou a necess
 J&aacute; Gilmar Gon&ccedil;alves, servidor p&uacute;blico e militante hist&oacute;rico das lutas sindicais e sociais em Rond&ocirc;nia e no MS, ao falar da situa&ccedil;&atilde;o agr&aacute;ria fez um relato do sistema implantado no estado.</p>
 
 <p><br />
-&ldquo;O sistema montado pelo neoliberalismo, pelo latif&uacute;ndio e pelos organismos do capitalismo est&aacute; enraizado no MS em diversas inst&acirc;ncias, onde comanda e delibera, principalmente na situa&ccedil;&atilde;o agr&aacute;ria. Por isso, precisamos refor&ccedil;ar ainda mais a nossa caminhada pela Reforma Agr&aacute;ria, pois o cen&aacute;rio de quest&otilde;es como o uso dos agrot&oacute;xicos pelo latif&uacute;ndio, nos mostra do que s&atilde;o capazes. Estamos vendo o aumento do c&acirc;ncer e diversas outras doen&ccedil;as s&eacute;rias que est&aacute; matando a nossa gente&rdquo;, afirmou Gon&ccedil;alves.</p>
-
-<p><br />
+&ldquo;O sistema montado pelo neoliberalismo, pelo latif&uacute;ndio e pelos organismos do capitalismo est&aacute; enraizado no MS em diversas inst&acirc;ncias, onde comanda e delibera, principalmente na situa&ccedil;&atilde;o agr&aacute;ria. Por isso, precisamos refor&ccedil;ar ainda mais a nossa caminhada pela Reforma Agr&aacute;ria, pois o cen&aacute;rio de quest&otilde;es como o uso dos agrot&oacute;xicos pelo latif&uacute;ndio, nos mostra do que s&atilde;o capazes. Estamos vendo o aumento do c&acirc;ncer e diversas outras doen&ccedil;as s&eacute;rias que est&aacute; matando a nossa gente&rdquo;, afirmou Gon&ccedil;alves.<br />
+<br />
 <img alt="IMG_9956.JPG" height="467" src="//farm1.staticflickr.com/652/23061663694_1917fea6b3_b.jpg" style="float:left" width="700" />Historicamente o Mato Grosso do Sul &eacute; marcado pelas lutas dos povos ind&iacute;genas por seus direitos. O estado tem a segunda maior popula&ccedil;&atilde;o ind&iacute;gena confinada em um pequeno espa&ccedil;o de terra. Diante desta realidade, Lindomar Terena, uma lideran&ccedil;a de refer&ecirc;ncia internacional na batalha pela demarca&ccedil;&atilde;o de terras, comentou sobre a luta dos povos ind&iacute;genas do MS e afirmou que esta se encontra em um dos seus momentos mais acirrados.&nbsp;</p>
 
 <p><br />
