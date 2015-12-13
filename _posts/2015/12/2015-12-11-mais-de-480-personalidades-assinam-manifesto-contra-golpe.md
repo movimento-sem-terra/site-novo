@@ -8,7 +8,7 @@ images_hd: //farm6.staticflickr.com/5625/23308382759_a590914f22_b.jpg
 support_line: "O texto repudia a tentativa de golpe imposta por Eduardo Cunha, por não haver elementos que fundamentem esta atitude, a não ser pelo desespero de quem não consegue explicar o seu comprovado envolvimento com esquemas."
 title: Mais de 480 personalidades assinam manifesto contra golpe
 menu: lutas e mobilizações
-section: null
+section: featured-news
 layout: post
 files:
   - link: //farm6.staticflickr.com/5625/23308382759_a590914f22_b.jpg
