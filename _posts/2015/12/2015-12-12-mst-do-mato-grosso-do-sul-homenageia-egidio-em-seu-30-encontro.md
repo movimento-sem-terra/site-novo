@@ -6,7 +6,7 @@ tags:
   - tag: egídio-brunetto
   - tag: indígenas
 support_line: "Além da homenagem às lutas e valores defendidos por Egídio Brunetto, o Movimento discutirá a organicidade e os desafios a partir do debate sobre o atual cenário da batalha contra o latifúndio e o capital."
-title: "MST do Mato Grosso do Sul homenageia Egídio em seu 30°Encontro "
+title: "No Mato Grosso do Sul, MST homenageia Egídio em seu 30°Encontro "
 menu: reforma agrária
 images_hd: //farm6.staticflickr.com/5682/23394139430_2bd33652ae_b.jpg
 layout: post
