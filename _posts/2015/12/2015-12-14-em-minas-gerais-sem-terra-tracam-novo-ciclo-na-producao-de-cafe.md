@@ -71,6 +71,8 @@ releated_posts:
 <em>Por Maura Silva<br />
 Da P&aacute;gina do MST</em></p>
 
+<p><em>Fotos: Arquivo&nbsp;Cooperativa Camponesa</em></p>
+
 <p><br />
 Quando se trata de&nbsp;Minas Gerais, &eacute; quase imposs&iacute;vel n&atilde;o associ&aacute;-lo entre outras coisas com o famoso cafezinho mineiro. N&atilde;o por menos, o estado &eacute; a lideran&ccedil;a mundial de produ&ccedil;&atilde;o e exporta&ccedil;&atilde;o de caf&eacute;.</p>
 
