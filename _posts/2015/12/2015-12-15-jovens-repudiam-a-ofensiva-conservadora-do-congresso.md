@@ -37,7 +37,7 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p><img alt="12366206_930392457042281_7713690188362307091_n.jpg" src="//farm1.staticflickr.com/707/23145636953_f112b06ef4_b.jpg" /><em>Por Coletivo de Comunica&ccedil;&atilde;o do MST na Bahia</em></p>
+<p><em>Por Coletivo de Comunica&ccedil;&atilde;o do MST na Bahia</em></p>
 
 <p><br />
 Jovens militantes ligados &agrave;&nbsp;v&aacute;rios&nbsp;movimentos sociais do campo e da cidade realizaram entre os dias 11 e 13 de dezembro, em Boa Nova, o 10&ordm; Encontro Estadual da Pastoral da Juventude Rural da Bahia.&nbsp;</p>
