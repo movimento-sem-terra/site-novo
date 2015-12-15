@@ -6,7 +6,7 @@ tags:
   - tag: frente-brasil-popular
   - tag: golpe
   - tag: impeachment
-title: "Raimundo Bonfim: Acabou a brincadeira, vamos às ruas, contra o golpe"
+title: "Raimundo Bonfim: acabou a brincadeira, vamos às ruas contra o golpe e o ajuste fiscal"
 label: articles
 menu: lutas e mobilizações
 support_line: "Os movimentos conclamam a população para nesta quarta- feira, dia 16/ 12 – dia nacional de luta, saírem em milhares às ruas, contra o golpe, em defesa da democracia, fora Cunha e por outra política econômica."
