@@ -36,7 +36,7 @@ releated_posts:
 ---
 <p><img alt="IMG-20151214-WA0051.jpg" height="436" src="//farm6.staticflickr.com/5798/23400720159_3c15ae987f_b.jpg" width="700" /></p>
 
-<p><em>]</em></p>
+<p>&nbsp;</p>
 
 <p><em>Do Coletivo de Comunica&ccedil;&atilde;o do MST na Bahia<br />
 Da P&aacute;gina do MST</em></p>
