@@ -6,7 +6,7 @@ tags:
   - tag: levante-popular-da-juventude
   - tag: bahia
 title: Levante da Juventude realiza café da manhã com produtos da reforma agrária na UEFS
-support_line: "A atividade faz parte da recepção aos calouros e calouras do semestre 2015.2 e tem o como objetivo visibilizar a pauta do Bandejão Popular, que defende a aquisição de alimentos oriundos da agricultura familiar aos restaurantes universitário"
+support_line: "O café da manhã faz parte da “Calourada do Levante Popular da Juventude” na UEFS, e com o tema “Queremos a universidade de portas abertas”, pretende estreitar a relação da universidade com os movimentos sociais e comunidade. "
 menu: projeto popular
 images_hd: //farm6.staticflickr.com/5698/23479836070_936614ed2a_b.jpg
 layout: post
@@ -36,13 +36,13 @@ releated_posts:
 <em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Nesta quarta-feira (16/12), o Levante Popular da Juventude realizar&aacute; um caf&eacute; da manh&atilde;&nbsp;com produtos da agricultura familiar no Canteiro Central da Universidade Estadual de Feira de Santana (UEFS) a partir d<span style="line-height: 20.8px;">as 7h.&nbsp;</span>&nbsp;</p>
+Nesta quarta-feira (16/12), o Levante Popular da Juventude realizar&aacute; um caf&eacute; da manh&atilde;, <span style="line-height: 20.8px;">&nbsp;a partir d</span><span style="line-height: 20.8px;">as 7h,</span>&nbsp;com produtos da agricultura familiar no Canteiro Central da Universidade Estadual de Feira de Santana (UEFS).<span style="line-height: 20.8px;">&nbsp;</span>&nbsp;</p>
 
 <p><br />
-A atividade faz&nbsp;parte da recep&ccedil;&atilde;o aos calouros e calouras do semestre 2015.2 e tem o como objetivo visibilizar a pauta do Bandej&atilde;o Popular, que defende a aquisi&ccedil;&atilde;o de alimentos oriundos da agricultura familiar aos restaurantes universit&aacute;rios.&nbsp;</p>
+A atividade faz&nbsp;parte da recep&ccedil;&atilde;o aos calouros e calouras do semestre 2015.2 e tem o como objetivo visibilizar a pauta do Bandej&atilde;o Popular, que defende a aquisi&ccedil;&atilde;o de alimentos oriundos da agricultura familiar para&nbsp;os restaurantes universit&aacute;rios.&nbsp;</p>
 
 <p><br />
-O caf&eacute; da manh&atilde; faz parte da &ldquo;Calourada do Levante Popular da Juventude&rdquo; na UEFS, que, com o tema &ldquo;Queremos a universidade de portas abertas&rdquo;, pretende estreitar a rela&ccedil;&atilde;o da universidade com os movimentos sociais e comunidade.&nbsp;</p>
+O caf&eacute; da manh&atilde; faz parte da &ldquo;Calourada do Levante Popular da Juventude&rdquo; na UEFS, e com o tema &ldquo;Queremos a universidade de portas abertas&rdquo;, pretende estreitar a rela&ccedil;&atilde;o da universidade com os movimentos sociais e comunidade.&nbsp;</p>
 
 <p><br />
 Ap&oacute;s o caf&eacute;&nbsp;ser&aacute; realizado uma aula p&uacute;blica sobre a conjuntura da educa&ccedil;&atilde;o e um ato de solidariedade aos estudantes secundaristas de S&atilde;o Paulo.</p>
