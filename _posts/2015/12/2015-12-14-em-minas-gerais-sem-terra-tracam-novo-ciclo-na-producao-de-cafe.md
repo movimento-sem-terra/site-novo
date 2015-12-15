@@ -63,6 +63,7 @@ releated_posts:
   - 2015/10/2015-10-25-a-feira-mostrou-a-sociedade-que-e-possivel-criarmos-um-novo-jeito-de-se-produzir-no-pais-afirma-dirigente-do-mst.md
   - 2015/09/2015-09-29-apos-oito-anos-sem-terra-comemoram-conquista-de-area-na-bahia.md
   - 2015/10/2015-10-07-familias-do-mst-e-mab-comemoram-conquista-de-assentamento-no-rs.md
+section: featured-news
 
 ---
 <p><img alt="cafe_gaui.jpg" src="//farm1.staticflickr.com/774/23377615449_716f9b1ba9_b.jpg" /></p>
