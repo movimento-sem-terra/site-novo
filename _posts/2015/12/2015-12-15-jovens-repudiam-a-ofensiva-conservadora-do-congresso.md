@@ -4,7 +4,7 @@ tags:
   - tag: juventude
   - tag: bahia
   - tag: lutas
-title: Jovens repudiam a ofensiva conservadora do Congresso Nacional
+title: Jovens repudiam ofensiva conservadora do Congresso Nacional
 support_line: "Como instrumento de diálogo com a sociedade, foi lançada a “Carta Política da Juventude Camponesa da Bahia”, que sistematizou os debates e afirmou posicionamentos políticos."
 menu: lutas e mobilizações
 images_hd: //farm1.staticflickr.com/707/23145636953_f112b06ef4_b.jpg
