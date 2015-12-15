@@ -21,6 +21,10 @@ created_date: "2015-12-15T10:15:21-02:00"
 published: true
 releated_posts:
   - 2015/06/2015-06-11-mudancas-climaticas-armando-a-armadilha.md
+  - 2015/07/2015-07-23-amazonia-verdades-que-nao-se-curam.md
+  - 2015/08/2015-08-11-doi-minha-alma-quando-ha-desmatamento-para-plantar-a-soja-diz-papa.md
+  - 2015/08/2015-08-17-tratado-entre-50-paises-ultrapassa-tudo-o-que-ja-se-viu-em-favor-das-trasnacionais.md
+  - 2015/07/2015-07-28-desmatamento-silencioso-da-caatinga-tem-intensificado-a-desertificacao-do-semiarido-brasileiro.md
 
 ---
 <p><img alt="emissoes-co2.jpg" src="//farm6.staticflickr.com/5656/23138101214_cd44a49c33_b.jpg" /></p>
