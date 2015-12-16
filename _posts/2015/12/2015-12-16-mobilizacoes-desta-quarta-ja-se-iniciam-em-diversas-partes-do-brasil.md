@@ -20,6 +20,12 @@ files:
     small: //farm6.staticflickr.com/5770/23421806929_d01cb9ebeb_n.jpg
     title: respeitem.jpg
     $$hashKey: 0SQ
+  - link: //farm6.staticflickr.com/5745/23789952715_625ab288c1_b.jpg
+    thumbnail: //farm6.staticflickr.com/5745/23789952715_625ab288c1_t.jpg
+    medium: //farm6.staticflickr.com/5745/23789952715_625ab288c1_z.jpg
+    small: //farm6.staticflickr.com/5745/23789952715_625ab288c1_n.jpg
+    title: capital_Alagoana.jpg
+    $$hashKey: "061"
 created_date: "2015-12-16T12:10:48-02:00"
 published: true
 releated_posts:
@@ -47,6 +53,14 @@ A juventude permanecer&aacute; ao longo do dia realizando interven&ccedil;&otild
 
 <p><br />
 Outros 1500 Sem Terra liberaram o ped&aacute;gio em S&atilde;o Miguel do Igua&ccedil;u, onde tamb&eacute;m protestavam contra o impeachment e o ajuste fiscal do governo federal.</p>
+
+<p>&nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="capital_Alagoana.jpg" src="//farm6.staticflickr.com/5745/23789952715_625ab288c1_b.jpg" />
+<figcaption>Em Macei&oacute;, cerca de 6 mil pessoas marcham pelas ruas do centro da cidade.</figcaption>
+</figure>
+
+<p>Na capital alagoana, cerca de 6 mil pessoas est&atilde;o marcham&nbsp;momento no Centro da Cidade de Macei&oacute;.</p>
 
 <p><br />
 Nesta quarta, diversos movimentos populares e centrais sindicais saem &agrave;s ruas em todo o Brasil para se posicionarem contra o processo de impeachment, pedir o fora Cunha e criticarem a pol&iacute;tica econ&ocirc;mica empregada pelo governo federal.&nbsp;</p>
