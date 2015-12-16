@@ -27,7 +27,7 @@ releated_posts:
   - 2015/12/2015-12-07-entre-uma-prosa-e-outra-chico-batera-participa-de-oficina-de-percussao-na-enff.md
   - 2015/12/2015-12-07-mst-retoma-acampamento-na-regiao-da-campanha-do-rio-grande-do-sul.md
   - 2015/11/2015-11-25-organizacoes-e-movimentos-sociais-assinem-manifesto-de-apoio-as-mulheres-camponesas-acampadas.md
-section: featured-news
+section: null
 
 ---
 <figure class="image"><img alt="10891556_395694223931018_2730421401367017551_n (1).jpg" src="//farm1.staticflickr.com/661/23333817780_407b7c07d8_b.jpg" />
