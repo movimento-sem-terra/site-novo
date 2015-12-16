@@ -65,6 +65,12 @@ Outros 1500 Sem Terra liberaram o ped&aacute;gio em S&atilde;o Miguel do Igua&cc
 <p><br />
 Em&nbsp;Cajazeiras (PB), cerca de&nbsp;200 pessoas tamb&eacute;m protestaram&nbsp;nesta manh&atilde;.</p>
 
+<p><br />
+Em Caruaru,&nbsp;<span style="line-height: 20.8px;">interior pernambucano,</span> cerca de 1500 pessoas de diversos movimentos populares realizam&nbsp;protesto que se inicia em frente ao pr&eacute;dio do INSS e vai em dire&ccedil;&atilde;o ao Marco Zero da cidade.</p>
+
+<p><br />
+Pela manh&atilde;, mais de mil ind&iacute;genas, de povos provenientes de todas as regi&otilde;es do pa&iacute;s, ocuparam a c&uacute;pula do Congresso Nacional, em Bras&iacute;lia. Eles reivindicam a rejei&ccedil;&atilde;o da PEC 215/00 - que quer passar do Executivo para o Legislativo a compet&ecirc;ncia para a demarca&ccedil;&atilde;o de terras ind&iacute;genas.&nbsp;Eles tamb&eacute;m denunciam as manobras de Cunha e da bancada ruralista para a aprova&ccedil;&atilde;o de pautas conservadoras. &Agrave;&nbsp;tarde, outro ato est&aacute; marcado na capital federal.</p>
+
 <p>&nbsp;</p>
 
 <p><br />
