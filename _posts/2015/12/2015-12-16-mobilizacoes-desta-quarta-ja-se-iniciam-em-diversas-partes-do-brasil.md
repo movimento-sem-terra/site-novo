@@ -60,7 +60,7 @@ Outros 1500 Sem Terra liberaram o ped&aacute;gio em S&atilde;o Miguel do Igua&cc
 <figcaption>Em Macei&oacute;, cerca de 6 mil pessoas marcham pelas ruas do centro da cidade.</figcaption>
 </figure>
 
-<p>Na capital alagoana, cerca de 6 mil pessoas est&atilde;o marcham&nbsp;momento no Centro da Cidade de Macei&oacute;.</p>
+<p>Na capital alagoana, cerca de 6 mil pessoas marcham neste momento no Centro da Cidade de Macei&oacute;.</p>
 
 <p><br />
 Nesta quarta, diversos movimentos populares e centrais sindicais saem &agrave;s ruas em todo o Brasil para se posicionarem contra o processo de impeachment, pedir o fora Cunha e criticarem a pol&iacute;tica econ&ocirc;mica empregada pelo governo federal.&nbsp;</p>
