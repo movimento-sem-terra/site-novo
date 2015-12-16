@@ -63,6 +63,11 @@ Outros 1500 Sem Terra liberaram o ped&aacute;gio em S&atilde;o Miguel do Igua&cc
 <p>Na capital alagoana, cerca de 6 mil pessoas marcham neste momento no Centro da Cidade de Macei&oacute;.</p>
 
 <p><br />
+Em&nbsp;Cajazeiras (PB), cerca de&nbsp;200 pessoas tamb&eacute;m protestaram&nbsp;nesta manh&atilde;.</p>
+
+<p>&nbsp;</p>
+
+<p><br />
 Nesta quarta, diversos movimentos populares e centrais sindicais saem &agrave;s ruas em todo o Brasil para se posicionarem contra o processo de impeachment, pedir o fora Cunha e criticarem a pol&iacute;tica econ&ocirc;mica empregada pelo governo federal.&nbsp;</p>
 
 <p><br />
