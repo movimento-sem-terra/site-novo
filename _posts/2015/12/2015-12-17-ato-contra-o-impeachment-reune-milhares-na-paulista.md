@@ -34,7 +34,7 @@ releated_posts:
   - 2015/12/2015-12-08-frente-brasil-popular-convoca-mobilizacoes-contra-o-golpe-para-o-dia-16-12.md
 
 ---
-<figure class="image"><img alt="12376527_576451525846330_9040745841206260868_n.jpg" height="467" src="//farm6.staticflickr.com/5707/23503044650_a7286a91be_b.jpg" width="700" />
+<figure class="image"><img alt="12359831_576451529179663_4728367670944242141_n.jpg" height="467" src="//farm1.staticflickr.com/762/23772652446_05dfbc9413_b.jpg" width="700" />
 <figcaption>Em S&atilde;o Paulo, mais de 40 mil pessoas tomaram a Avenida Paulista</figcaption>
 </figure>
 
@@ -65,6 +65,10 @@ Ele tamb&eacute;m chamou a tentativa de impeachment de &quot;oportunismo do PSDB
 <p>&nbsp;</p>
 
 <p>Durante o ato, os militantes souberam da decis&atilde;o do Procurador Geral da Rep&uacute;blica Rodrigo Janot de afastar Cunha da Presid&ecirc;ncia da C&acirc;mara dos Deputados.</p>
+
+<p>&nbsp;</p>
+
+<p><img alt="12376527_576451525846330_9040745841206260868_n.jpg" height="467" src="//farm6.staticflickr.com/5707/23503044650_a7286a91be_b.jpg" width="700" /></p>
 
 <p>&nbsp;</p>
 
