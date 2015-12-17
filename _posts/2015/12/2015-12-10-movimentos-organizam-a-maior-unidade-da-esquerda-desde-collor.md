@@ -9,7 +9,7 @@ tags:
 support_line: "Diversas organizações estão convocando toda a população brasileira a saírem às ruas no próximo dia 16, contra o impeachment, o ajuste fiscal e pelo fora Cunha."
 title: Movimentos organizam a maior unidade da esquerda desde Collor
 menu: lutas e mobilizações
-section: featured-news
+section: null
 images_hd: //farm6.staticflickr.com/5789/23570155711_88f699bfe7_b.jpg
 layout: post
 files:
