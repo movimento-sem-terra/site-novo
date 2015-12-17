@@ -49,7 +49,7 @@ releated_posts:
   - 2015/09/2015-09-03-durante-maratona-jornalista-visita-o-assentamento-safra-a-mae-de-todos.md
   - 2015/09/2015-09-09-mst-resgata-musicas-historicas-para-contar-a-luta-pela-terra.md
   - 2015/09/2015-09-15-mst-realiza-amistoso-de-futebol-com-o-time-de-chico-buarque.md
-section: featured-news
+section: null
 
 ---
 <p><img alt="IMG_4495.jpg" src="//farm6.staticflickr.com/5709/23290989830_6270dfcd69_b.jpg" /></p>
