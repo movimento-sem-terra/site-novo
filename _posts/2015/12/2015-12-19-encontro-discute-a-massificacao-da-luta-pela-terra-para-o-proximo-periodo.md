@@ -43,7 +43,7 @@ Da P&aacute;gina do MST</em></p>
 Durante os dias 17 a 20 de dezembro, ocorre no Centro de Forma&ccedil;&atilde;o Canudos, localizado no Assentamento Moacir Wanderley, Regi&atilde;o Metropolitana de Sergipe 20&ordm; encontro estadual do MST, que esse ano traz como um dos pontos centrais de discuss&atilde;o o processo de massifica&ccedil;&atilde;o do Movimento.</p>
 
 <p><br />
-Na abertura do encontro, a m&iacute;stica simbolizou o crime ambiental de responsabilidade da Vale - Samarco que ocorreu Mariana em Minas Gerais e representantes de diversas organiza&ccedil;&otilde;es sociais do campo e da cidade estiveram presentes para saudar e fortalecer a unidade da luta. Na ocasi&atilde;o, a import&acirc;ncia de construirmos diariamente um di&aacute;logo junto &agrave; sociedade para avan&ccedil;armos na constru&ccedil;&atilde;o de uma sociedade mais justa e igualit&aacute;ria se fez presente.&nbsp;<br />
+Na abertura do encontro, a m&iacute;stica simbolizou o crime ambiental de responsabilidade da Vale - Samarco que ocorreu Mariana em Minas Gerais e representantes de diversas organiza&ccedil;&otilde;es sociais do campo e da cidade estiveram presentes para saudar e fortalecer a unidade da luta. Na ocasi&atilde;o, a import&acirc;ncia de construirmos diariamente um di&aacute;logo junto &agrave; sociedade para avan&ccedil;armos na constru&ccedil;&atilde;o de uma sociedade mais justa e igualit&aacute;ria tamb&eacute;m&nbsp;se fez presente.&nbsp;<br />
 &nbsp;</p>
 
 <figure class="image"><img alt="IMG_0412.JPG" src="//farm6.staticflickr.com/5787/23770912601_f27ca03807_b.jpg" />
