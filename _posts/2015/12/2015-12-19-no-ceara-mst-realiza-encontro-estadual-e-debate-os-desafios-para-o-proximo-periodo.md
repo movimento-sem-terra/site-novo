@@ -36,8 +36,7 @@ releated_posts:
 <figcaption>Foto: Elitiel Guedes</figcaption>
 </figure>
 
-<p><br />
-&nbsp;</p>
+<p>&nbsp;</p>
 
 <p><em>Por Genivando dos Santos&nbsp;<br />
 Da P&aacute;gina do MST</em></p>
