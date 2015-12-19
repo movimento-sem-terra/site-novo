@@ -4,7 +4,7 @@ tags:
   - tag: mato-grosso-do-sul
   - tag: conquista
   - tag: produção
-title: Sem Terras conquistam melhorias para o Assentamento Itamarati em MS
+title: Sem Terra conquistam melhorias para o Assentamento Itamarati em MS
 support_line: Serão mais de R$ 4 milhões em estradas vicinais e núcleo urbano passou a ser responsabilidade de Ponta Porã.
 menu: reforma agrária
 images_hd: //farm1.staticflickr.com/703/23224418354_fecf28c2a5_b.jpg
