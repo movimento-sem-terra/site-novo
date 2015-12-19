@@ -4,7 +4,7 @@ tags:
   - tag: encontro-estadual
   - tag: maranhão
   - tag: balaiada
-title: MST Maranhão realiza encontro estadual na região da revolta da Balaiada
+title: MST Maranhão realiza encontro estadual na região da Balaiada
 support_line: O Movimento reafirmou a importância do fortalecimento da luta contra o avanço da direita conservadora que ameaça a frágil democracia brasileira e ainda traçará suas principais ações no estado para os próximos dois anos.
 menu: reforma agrária
 images_hd: //farm6.staticflickr.com/5661/23223737103_28b0efc38e_b.jpg
