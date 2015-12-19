@@ -38,8 +38,7 @@ releated_posts:
   - 2015/09/2015-09-30-no-para-via-campesina-reafirma-luta-contra-modelo-adotado-para-o-campo.md
 
 ---
-<p><br />
-&nbsp;</p>
+<p>&nbsp;</p>
 
 <figure class="image"><img alt="foto_marcelo cruz (74).JPG" height="467" src="//farm1.staticflickr.com/725/23555559610_64bae8df7f_b.jpg" width="700" />
 <figcaption>Foto: Marcelo Cruz</figcaption>
@@ -62,7 +61,7 @@ A cidade &eacute; p&oacute;lo da regi&atilde;o marcada por conflitos agr&aacute;
 &ldquo;Queremos dialogar com a sociedade marabaense sobre a luta pela reforma agr&aacute;ria. Mostrar que os Sem Terra reivindicam, ocupam e produz na terra. Apresentar para o povo mais de 60 produtos diversificados al&eacute;m de debater a import&acirc;ncia da organiza&ccedil;&atilde;o dos assentamentos de reforma agr&aacute;ria e n&atilde;o &aacute;reas apenas para pasto e gado. Os camponeses utilizam a terra para produzir alimentos para a sua fam&iacute;lia e tamb&eacute;m para a sociedade&rdquo; destaca Rodrigues.</p>
 
 <figure class="image"><img alt="foto_marcelo cruz (56).JPG" height="1049" src="//farm1.staticflickr.com/695/23483362139_39b1442be0_b.jpg" width="700" />
-<figcaption>Legenda</figcaption>
+<figcaption>Foto: Marcelo Cruz</figcaption>
 </figure>
 
 <p><br />
