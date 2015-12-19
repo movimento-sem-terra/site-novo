@@ -25,6 +25,10 @@ releated_posts:
   - 2015/03/2015-03-10-no-maranhao-sem-terra-focam-na-vale-e-ocupam-sede-da-empresa.md
 
 ---
+<p>&nbsp;</p>
+
+<p><img alt="ApDvuGJs0bLDRGVr4CZrCZhZnWQY8Rg2zOcHsmGbRqgS (1).jpg" src="//farm6.staticflickr.com/5661/23223737103_28b0efc38e_b.jpg" /></p>
+
 <p><br />
 <em>Por Reynaldo Costa<br />
 Da P&aacute;gina do MST</em></p>
