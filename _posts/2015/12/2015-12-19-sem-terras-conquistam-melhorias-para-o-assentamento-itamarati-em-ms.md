@@ -22,7 +22,9 @@ releated_posts:
   - 2015/10/2015-10-05-sem-terra-conquistam-liberacao-de-recursos-mato-grosso-do-sul.md
 
 ---
-<p>&nbsp;</p>
+<p><br />
+<img alt="IMG_3093.JPG" src="//farm1.staticflickr.com/703/23224418354_fecf28c2a5_b.jpg" /><br />
+&nbsp;</p>
 
 <p><em>Por karina Vilas Boas<br />
 Da P&aacute;gina do MST</em></p>
