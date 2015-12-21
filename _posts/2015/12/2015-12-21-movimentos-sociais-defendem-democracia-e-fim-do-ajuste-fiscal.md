@@ -5,11 +5,11 @@ tags:
   - tag: economia
   - tag: frente-brasil-popular
   - tag: democracia
-title: Movimentos sociais defendem democracia e fim do ajuste fiscal
-support_line: "Os movimentos sociais querem “a Dilma que elegeram”, cobrando que a presidenta assuma compromissos de campanha com os trabalhadores e a manutenção de conquistas sociais."
+title: Movimentos da Frente Brasil Popular defendem democracia e fim do ajuste fiscal
+support_line: "Os movimentos querem “a Dilma que elegeram”, cobrando que a presidenta assuma compromissos de campanha com os trabalhadores e a manutenção de conquistas sociais."
 menu: projeto popular
 section: cover
-images_hd: //farm6.staticflickr.com/5736/23259861353_93c9f0851b_b.jpg
+images_hd: //farm1.staticflickr.com/740/23258564904_1f114b93ea_b.jpg
 layout: post
 files:
   - link: //farm6.staticflickr.com/5736/23259861353_93c9f0851b_b.jpg
@@ -18,6 +18,12 @@ files:
     small: //farm6.staticflickr.com/5736/23259861353_93c9f0851b_n.jpg
     title: 16_12.jpg
     $$hashKey: 0BY
+  - link: //farm1.staticflickr.com/740/23258564904_1f114b93ea_b.jpg
+    thumbnail: //farm1.staticflickr.com/740/23258564904_1f114b93ea_t.jpg
+    medium: //farm1.staticflickr.com/740/23258564904_1f114b93ea_z.jpg
+    small: //farm1.staticflickr.com/740/23258564904_1f114b93ea_n.jpg
+    title: 16_121.jpg
+    $$hashKey: 0YQ
 created_date: "2015-12-21T10:15:41-02:00"
 published: true
 releated_posts:
@@ -29,8 +35,9 @@ releated_posts:
   - 2015/12/2015-12-10-movimentos-organizam-a-maior-unidade-da-esquerda-desde-collor.md
 
 ---
-<p><img alt="16_12.jpg" src="//farm6.staticflickr.com/5736/23259861353_93c9f0851b_b.jpg" /><br />
-&nbsp;</p>
+<figure class="image"><img alt="16_121.jpg" src="//farm1.staticflickr.com/740/23258564904_1f114b93ea_b.jpg" />
+<figcaption>Ato no &uacute;ltimo dia 16/12 contra impeachment, ajuste fiscal e fora Cunha reuniu quase 100 mil pessoas em S&atilde;o Paulo. Outros 22 estados tamb&eacute;m fizeram atos. Foto: M&iacute;dia Ninja&nbsp;</figcaption>
+</figure>
 
 <p><em>Do&nbsp;CdB</em></p>
 
