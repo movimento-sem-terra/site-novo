@@ -34,7 +34,7 @@ releated_posts:
 <em>Da CPT</em></p>
 
 <p><br />
-&quot;T&atilde;o ou mais grave que o mar de lama da Samarco em Mariana, Minas Gerais, &eacute; o mar de lama que escorre do mundo da pol&iacute;tica. Pois enquanto a lama da Samarco afeta a bacia do Rio Doce, a que escorre do Congresso Nacional, das assembleias legislativas e de gabinetes de Bras&iacute;lia afetam sonhos e esperan&ccedil;as de toda na&ccedil;&atilde;o brasileira, sobretudo dos mais pobres&quot;, afirma a Comiss&atilde;o Pastoral da Terra - CPT, em nota publicada no dia 17-12-2015.</p>
+&quot;T&atilde;o ou mais grave que o mar de lama da Samarco em Mariana, Minas Gerais, &eacute; o mar de lama que escorre do mundo da pol&iacute;tica. Pois enquanto a lama da Samarco afeta a bacia do Rio Doce, a que escorre do Congresso Nacional, das assembleias legislativas e de gabinetes de Bras&iacute;lia afetam sonhos e esperan&ccedil;as de toda na&ccedil;&atilde;o brasileira, sobretudo dos mais pobres&quot;, afirma a Comiss&atilde;o Pastoral da Terra - CPT em nota.</p>
 
 <p><br />
 Eis a nota.</p>
