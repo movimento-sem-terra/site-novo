@@ -70,7 +70,7 @@ Da P&aacute;gina do MST</em></p>
 Este foi o juramento feito por 45 trabalhadores rurais Sem Terra durante cerim&ocirc;nia de formatura da 1&ordf; Turma Especial de Medicina Veterin&aacute;ria para assentados da Reforma Agr&aacute;ria, realizada na &uacute;ltima sexta-feira (18), em Pelotas, na regi&atilde;o Sul do Rio Grande do Sul.</p>
 
 <p><br />
-Os formandos, oriundos dos estados do Rio Grande do Sul, Paran&aacute;, Santa Catarina, Cear&aacute;, Minas Gerais e Mato Grosso do Sul, receberam o diploma de M&eacute;dico Veterin&aacute;rio ap&oacute;s oito anos da realiza&ccedil;&atilde;o do primeiro vestibular, que ofereceu 60 vagas, e de enfrentamento &agrave;s barreiras impostas por ruralistas e setores conservadores da regi&atilde;o de Pelotas que n&atilde;o queriam que o curso n&atilde;o fosse uma conquista dos Sem Terra.</p>
+Os formandos, oriundos dos estados do Rio Grande do Sul, Paran&aacute;, Santa Catarina, Cear&aacute;, Minas Gerais e Mato Grosso do Sul, receberam o diploma de M&eacute;dico Veterin&aacute;rio ap&oacute;s oito anos da realiza&ccedil;&atilde;o do primeiro vestibular, que ofereceu 60 vagas, e de enfrentamento &agrave;s barreiras impostas por ruralistas e setores conservadores da regi&atilde;o que n&atilde;o queriam a realiza&ccedil;&atilde;o do curso.</p>
 
 <p>&nbsp;</p>
 
@@ -81,31 +81,36 @@ Os formandos, oriundos dos estados do Rio Grande do Sul, Paran&aacute;, Santa Ca
 <p>A 1&ordf; Turma Especial de Medicina Veterin&aacute;ria teve como patrono o deputado Ad&atilde;o Pretto <em>(in memoriam)</em> e &eacute; uma parceria entre o Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra) e a Universidade Federal de Pelotas (Ufpel), onde ocorreram as aulas, atrav&eacute;s do Programa Nacional de Educa&ccedil;&atilde;o na Reforma Agr&aacute;ria (Pronera).&nbsp;Uma segunda turma, que tamb&eacute;m iniciou com 60 acad&ecirc;micos, est&aacute; em andamento deste 2013.</p>
 
 <p><br />
-Durante a cerim&ocirc;nia de cola&ccedil;&atilde;o de grau, a oradora da turma, Roseli Canzarolli, afirmou que o ingresso dos Sem Terra na universidade, a cinco anos atr&aacute;s, representa o rompimento das cercas do saber e que o diploma conquistado refor&ccedil;a o compromisso que os acad&ecirc;micos t&ecirc;m com a luta do MST e a responsabilidade de atuar na produ&ccedil;&atilde;o agroecol&oacute;gica, travando o avan&ccedil;o do agroneg&oacute;cio.</p>
+Durante a cerim&ocirc;nia de cola&ccedil;&atilde;o de grau, a oradora da turma, Roseli Canzarolli, afirmou que o ingresso dos Sem Terra na universidade representa o rompimento das cercas do saber, e que o diploma conquistado refor&ccedil;a o compromisso que os acad&ecirc;micos t&ecirc;m com a luta do MST e a responsabilidade de atuar na produ&ccedil;&atilde;o agroecol&oacute;gica, travando o avan&ccedil;o do agroneg&oacute;cio.</p>
 
 <p><br />
-Roseli tamb&eacute;m explicou que a turma Sem Terra n&atilde;o teve regalias ou vantagens: &ldquo;S&oacute; tivemos o que &eacute; nosso por direito e de qualquer outro estudante&rdquo;, e relatou o preconceito sofrido e as dificuldades que vieram com a falta de infraestrutura e de recursos para realizar o curso. Em nome dos 45 formandos, ela ainda ressaltou que jamais esquecer&atilde;o de suas origens: a fam&iacute;lia Sem Terra.</p>
+Roseli tamb&eacute;m explicou que a turma n&atilde;o teve regalias ou vantagens: &ldquo;S&oacute; tivemos o que &eacute; nosso por direito e de qualquer outro estudante&rdquo;, e relatou o preconceito sofrido e as dificuldades que vieram com a falta de infraestrutura e de recursos para realizar o curso. Em nome dos 45 formandos, ela ainda ressaltou que jamais esquecer&atilde;o de suas origens: a fam&iacute;lia Sem Terra.</p>
 
 <p><br />
 &ldquo;Nosso compromisso &eacute; nunca esquecer que viemos dos assentamentos e acampamentos. Ao MST: conte com essas m&eacute;dicas e m&eacute;dicos veterin&aacute;rios, mas, principalmente, com homens e mulheres dispostos a encarar a luta por um Brasil sem cercas&rdquo;, finalizou Roseli.</p>
 
-<p>&nbsp;
+<p>&nbsp;</p>
+
 <p><img alt="2 (2).jpg" src="//farm6.staticflickr.com/5698/23521633229_babd097230_b.jpg" /><br />
 <br />
 <strong>Educa&ccedil;&atilde;o aliada &agrave; transforma&ccedil;&atilde;o social</strong></p>
-</p>
+
+<p>&nbsp;</p>
 
 <p><br />
-Em nome do MST, o coordenador nacional Cedenir de Oliveira, agradeceu &agrave; Ufpel por ter aberto as portas da universidade para acolher os acad&ecirc;micos e da coragem que tiveram de enfrentar, junto ao Movimento, todos as barreiras que se levantaram contra a realiza&ccedil;&atilde;o do curso para acampados e assentados da Reforma Agr&aacute;ria. Ele tamb&eacute;m afirmou que, al&eacute;m de marchar e ocupar latif&uacute;ndios, os Sem Terra t&ecirc;m a condi&ccedil;&atilde;o de entrar na universidade de cabe&ccedil;a erguida. &ldquo;Essa juventude nos orgulha&rdquo;, disse.</p>
+Em nome do MST, o coordenador nacional Cedenir de Oliveira, agradeceu &agrave; Ufpel por ter aberto as portas da universidade para acolher os acad&ecirc;micos e da coragem que tiveram de enfrentar, junto ao Movimento, todos as barreiras que se levantaram contra a realiza&ccedil;&atilde;o do curso para acampados e assentados da Reforma Agr&aacute;ria.</p>
 
 <p><br />
-Para o dirigente do MST, o processo de educa&ccedil;&atilde;o dos filhos de assentados e acampados tem entre seus objetivos principais mudar os paradigmas da agricultura, na qual s&atilde;o jogados em torno de 1 bilh&atilde;o de litros de veneno por ano, provocando c&acirc;ncer e a morte de mais de 500 mil pessoas.</p>
+Ele tamb&eacute;m afirmou que, al&eacute;m de marchar e ocupar latif&uacute;ndios, os Sem Terra t&ecirc;m a condi&ccedil;&atilde;o de entrar na universidade de cabe&ccedil;a erguida. &ldquo;Essa juventude nos orgulha&rdquo;, disse.</p>
 
 <p><br />
-Segundo Oliveira, para mudar essa realidade se faz necess&aacute;ria a produ&ccedil;&atilde;o de alimentos sadios, uma pr&aacute;tica j&aacute; adotada por milhares de trabalhadores Sem Terra em todo o Brasil, mas que tamb&eacute;m &eacute; fundamental o conhecimento acad&ecirc;mico e cient&iacute;fico para fortalecer esse modelo saud&aacute;vel de agricultura.</p>
+Para o dirigente do MST, o processo de educa&ccedil;&atilde;o dos filhos de assentados e acampados tem entre seus objetivos principais mudar os paradigmas da agricultura, que recebe em torno de 1 bilh&atilde;o de litros de veneno por ano, provocando c&acirc;ncer e a morte de cerca de 500 mil brasileiros, segundo dados do Instituto Nacional do C&acirc;ncer (Inca).</p>
 
 <p><br />
-&ldquo;Nossa perspectiva &eacute; que possamos avan&ccedil;ar na produ&ccedil;&atilde;o de alimentos livres de venenos. E, para isso, contamos com o conhecimento emp&iacute;rico dos nossos camponeses, mas tamb&eacute;m precisamos, sim, do conhecimento cient&iacute;fico, que se d&aacute; atrav&eacute;s de cursos como o de Medicina Veterin&aacute;ria, Agronomia e tantos outros que conquistamos, para que de fato possamos enfrentar as grandes contradi&ccedil;&otilde;es, produzir com qualidade e abastecer a sociedade&rdquo;, argumentou.</p>
+Segundo Oliveira, para mudar essa realidade &eacute; necess&aacute;ria a produ&ccedil;&atilde;o de alimentos sadios, uma pr&aacute;tica j&aacute; adotada por milhares de trabalhadores Sem Terra em todo o Brasil, mas tamb&eacute;m &eacute; fundamental o conhecimento acad&ecirc;mico e cient&iacute;fico para fortalecer esse modelo saud&aacute;vel de agricultura.</p>
+
+<p><br />
+&ldquo;Nossa perspectiva &eacute; que possamos avan&ccedil;ar na produ&ccedil;&atilde;o de alimentos livres de venenos. E&nbsp;para isso&nbsp;contamos com o conhecimento emp&iacute;rico dos nossos camponeses, mas tamb&eacute;m precisamos, sim, do conhecimento cient&iacute;fico, que se d&aacute; atrav&eacute;s de cursos como o de Medicina Veterin&aacute;ria, Agronomia e tantos outros que conquistamos, para que de fato possamos enfrentar as grandes contradi&ccedil;&otilde;es, produzir com qualidade e abastecer a sociedade&rdquo;, argumentou.</p>
 
 <p>&nbsp;</p>
 
@@ -113,7 +118,10 @@ Segundo Oliveira, para mudar essa realidade se faz necess&aacute;ria a produ&cce
 <figcaption></figcaption>
 </figure>
 
-<p>Cedenir ainda apontou a import&acirc;ncia de romper as cercas da educa&ccedil;&atilde;o, para al&eacute;m do latif&uacute;ndio, &ldquo;para ter pessoas mais dignas, mais cultas e, consequentemente, mais humanas&rdquo;. &ldquo;N&atilde;o faremos mudan&ccedil;as sociais nesse pa&iacute;s apenas distribuindo economia. N&oacute;s precisamos elevar o n&iacute;vel de conhecimento e de cultura das massas atrav&eacute;s da educa&ccedil;&atilde;o dos nossos filhos e das nossas bases. Somente assim transformaremos esse pa&iacute;s&rdquo;, concluiu.</p>
+<p>Cedenir ainda apontou a import&acirc;ncia de romper as cercas da educa&ccedil;&atilde;o, para al&eacute;m do latif&uacute;ndio, &ldquo;para ter pessoas mais dignas, mais cultas e, consequentemente, mais humanas&rdquo;.</p>
+
+<p><br />
+&ldquo;N&atilde;o faremos mudan&ccedil;as sociais nesse pa&iacute;s apenas distribuindo economia. N&oacute;s precisamos elevar o n&iacute;vel de conhecimento e de cultura das massas atrav&eacute;s da educa&ccedil;&atilde;o dos nossos filhos e das nossas bases. Somente assim transformaremos esse pa&iacute;s&rdquo;, concluiu.</p>
 
 <p><br />
 <strong>Barreiras</strong></p>
@@ -122,7 +130,7 @@ Segundo Oliveira, para mudar essa realidade se faz necess&aacute;ria a produ&cce
 O curso de Medicina Veterin&aacute;ria para assentados da Reforma Agr&aacute;ria come&ccedil;ou a ser pensado ainda em 2005 pelo MST, quando foi encaminhado um projeto para a capacita&ccedil;&atilde;o de jovens em Medicina Veterin&aacute;ria ao Pronera. No ano de 2007 ocorreu a assinatura do conv&ecirc;nio e foi realizado vestibular para o ingresso de 60 acad&ecirc;micos.</p>
 
 <p><br />
-Por&eacute;m, o Minist&eacute;rio P&uacute;blico de Pelotas entrou com uma a&ccedil;&atilde;o civil contra a realiza&ccedil;&atilde;o do curso e as aulas iniciaram apenas quatro anos depois, no primeiro semestre de 2011, ap&oacute;s longa disputa judicial que terminou com o parecer favor&aacute;vel do Superior Tribunal de Justi&ccedil;a (STJ) ao Incra no final de 2010.</p>
+Por&eacute;m, o Minist&eacute;rio P&uacute;blico de Pelotas entrou com uma a&ccedil;&atilde;o civil contra a realiza&ccedil;&atilde;o do curso, e as aulas iniciaram apenas quatro anos depois, no primeiro semestre de 2011, ap&oacute;s longa disputa judicial que terminou com o parecer favor&aacute;vel do Superior Tribunal de Justi&ccedil;a (STJ) ao Incra no final de 2010.</p>
 
 <p><br />
 As aulas iniciaram em regime de altern&acirc;ncia, ou seja, os estudantes passavam de 80 a 120 dias na Universidade e depois mais dois meses nas suas comunidades, realizando trabalhos acad&ecirc;micos e de pesquisa pr&aacute;tica.<br />
