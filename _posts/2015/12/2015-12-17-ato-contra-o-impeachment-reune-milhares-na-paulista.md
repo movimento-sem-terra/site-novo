@@ -6,7 +6,7 @@ tags:
   - tag: contra-o-golpe
   - tag: frente-brasil-popular
   - tag: ato
-title: Ato contra o impeachment reúne milhares na Paulista
+title: Ato contra o impeachment e ajuste fiscal reúne milhares na Paulista
 support_line: "Contra Eduardo Cunha e o ajuste fiscal, movimentos disseram que querem \"a Dilma que elegeram\"."
 menu: lutas e mobilizações
 section: featured-news
