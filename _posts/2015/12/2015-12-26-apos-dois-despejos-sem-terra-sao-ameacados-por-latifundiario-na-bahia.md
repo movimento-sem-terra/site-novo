@@ -5,7 +5,7 @@ tags:
   - tag: violência
   - tag: latifúndio
   - tag: reforma-agrária
-title: "Após dois despejos, Sem Terra são ameaçados por latifúndiário na Bahia"
+title: Latifundiário ameaça 150 famílias Sem Terra na Bahia
 support_line: O filho do proprietário foi ao espaço do acampamento e disse que durante a noite colocaria fogo nos barracos com todos os pertences das famílias.
 menu: direitos humanos
 images_hd: //farm6.staticflickr.com/5784/23988745335_ee212c9a90_b.jpg
