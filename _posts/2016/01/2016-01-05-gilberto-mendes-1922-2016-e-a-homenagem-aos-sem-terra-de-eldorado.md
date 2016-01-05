@@ -3,7 +3,7 @@ date: "2016-01-05T11:03:23-02:00"
 tags:
   - tag: lutadores-e-lutadoras-do-povo
   - tag: reforma-agrária
-title: Gilberto Mendes (1922-2016) e a homenagem aos sem-terra de Eldorado
+title: Gilberto Mendes (1922-2016) e a homenagem aos Sem Terra de Eldorado
 support_line: "Falecido no dia 1º, compositor musicou poema de Haroldo de Campos sobre os 19 sem-terra assassinados em 1996 no sudeste do Pará; foi militante do PCB"
 menu: lutas e mobilizações
 images_hd: //farm2.staticflickr.com/1685/23895001640_a29f7269ae_b.jpg
