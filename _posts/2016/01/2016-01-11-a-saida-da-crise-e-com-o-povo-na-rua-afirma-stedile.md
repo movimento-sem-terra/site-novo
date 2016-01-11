@@ -40,7 +40,7 @@ releated_posts:
 <p>Que passos precisam ser dados pela classe trabalhadora para avan&ccedil;armos na luta contra a ofensiva conservadora da direita?</p>
 
 <p><br />
-Essa foi uma das perguntas que norteou o debate realizado neste &uacute;ltimo s&aacute;bado (09), no Museu da Moeda, localizado no Pelourinho, em Salvador, na Plen&aacute;ria dos Movimento Sociais.&nbsp;</p>
+Essa foi uma das perguntas que norteou o debate realizado neste &uacute;ltimo s&aacute;bado (09), no Museu da Moeda, localizado no Pelourinho, em Salvador, na plen&aacute;ria dos movimentos sociais.&nbsp;</p>
 
 <p><br />
 O encontro debateu&nbsp;o atual cen&aacute;rio pol&iacute;tico e construiu, junto com os movimentos sociais, centrais sindicais e partidos de esquerda estrat&eacute;gias de lutas coletivas em defesa dos direitos da classe trabalhadora.&nbsp;</p>
