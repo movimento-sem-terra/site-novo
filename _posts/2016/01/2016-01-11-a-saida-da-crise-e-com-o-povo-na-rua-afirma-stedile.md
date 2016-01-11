@@ -29,6 +29,7 @@ releated_posts:
   - 2015/11/2015-11-23-os-desafios-de-elaborar-um-projeto-popular-para-o-brasil-entrevista-especial-com-gladstone-leonel-da-silva-junior.md
   - 2015/12/2015-12-10-movimentos-organizam-a-maior-unidade-da-esquerda-desde-collor.md
   - 2015/12/2015-12-08-frente-brasil-popular-convoca-mobilizacoes-contra-o-golpe-para-o-dia-16-12.md
+section: cover
 
 ---
 <p>&nbsp;</p>
