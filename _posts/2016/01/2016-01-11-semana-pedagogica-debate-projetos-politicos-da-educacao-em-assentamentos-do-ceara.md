@@ -5,7 +5,7 @@ tags:
   - tag: semana-pedagógica
   - tag: ceará
 title: Semana pedagógica debate projetos políticos da educação em assentamentos do Ceará
-support_line: "A atividade é uma estratégia coletiva de caráter político-pedagógico constituída pela troca de experiências, avaliação e elaboração de diretrizes para o planejamento pedagógico anual, formação continuada na perspectiva da educação do campo."
+support_line: A VI Semana Pedagógica acontece de 11 a 15 de Janeiro  e coloca o desafio de consolidar projetos políticos pedagógicos de uma educação integral de nível médio do campo.
 menu: "educação, cultura e comunicação"
 images_hd: //farm2.staticflickr.com/1606/23953099309_cb8a1a25be_b.jpg
 layout: post
@@ -44,7 +44,7 @@ releated_posts:
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Com o p&eacute; no ch&atilde;o, na luta e construindo a Reforma Agr&aacute;ria Popular tamb&eacute;m na educa&ccedil;&atilde;o. Nesse sentido,&nbsp;o setor de educa&ccedil;&atilde;o do MST do Estado do Cear&aacute; come&ccedil;a 2016 com trabalho de base nos assentamentos a partir da VI Semana Pedag&oacute;gica das Escolas do Campo de Ensino M&eacute;dio das trabalhadoras e trabalhadores sem terra.</p>
+Com o p&eacute; no ch&atilde;o, na luta e construindo a Reforma Agr&aacute;ria Popular tamb&eacute;m na educa&ccedil;&atilde;o. Nesse sentido,&nbsp;o setor de educa&ccedil;&atilde;o do MST do Estado do Cear&aacute; come&ccedil;a 2016 com trabalho de base nos assentamentos a partir da VI Semana Pedag&oacute;gica das escolas do campo de ensino m&eacute;dio das trabalhadoras e trabalhadores sem terra.</p>
 
 <p><br />
 A semana Pedag&oacute;gica das Escolas do Campo faz parte do calend&aacute;rio anual do setor de educa&ccedil;&atilde;o e &eacute; uma conquista do movimento diante do estado. Esse ano a VI Semana Pedag&oacute;gica acontece de 11 a 15 de Janeiro na Escola do Campo Padre Jos&eacute; Augusto, no Assentamento Pedra e Cal, regi&atilde;o do Jaguaribe, Munic&iacute;pio de Jaguaretama. Ela completa o ciclo das cinco primeiras escolas de ensino m&eacute;dio das &aacute;reas de reforma agr&aacute;ria, conquistadas pela luta do povo.</p>
@@ -58,7 +58,7 @@ A atividade &eacute; uma estrat&eacute;gia coletiva de car&aacute;ter pol&iacute
 
 <p><br />
 <br />
-Sua programa&ccedil;&atilde;o &eacute; organizada em di&aacute;logo e a partir da avalia&ccedil;&atilde;o realizada com sujeitos que constroem a experi&ecirc;ncia das Escolas de Ensino M&eacute;dio do Campo, identificam as principais necessidades organizativas, pol&iacute;ticas e pedag&oacute;gicas, apontam diretrizes para os planejamentos anuais e as pautas a serem reivindicadas nas lutas do MST.</p>
+Sua programa&ccedil;&atilde;o &eacute; organizada em di&aacute;logo e a partir da avalia&ccedil;&atilde;o realizada com sujeitos que constroem a experi&ecirc;ncia das escolas de ensino m&eacute;dio do campo, identificam as principais necessidades organizativas, pol&iacute;ticas e pedag&oacute;gicas, apontam diretrizes para os planejamentos anuais e as pautas a serem reivindicadas nas lutas do MST.</p>
 
 <p><br />
 Desde 2011, algumas defini&ccedil;&otilde;es v&ecirc;m sendo afirmadas pelos educadores e educadoras do setor no estado, entre elas, a decis&atilde;o de que a Semana Pedag&oacute;gica a cada ano deve acontecer de forma itinerante em uma escola do campo.</p>
