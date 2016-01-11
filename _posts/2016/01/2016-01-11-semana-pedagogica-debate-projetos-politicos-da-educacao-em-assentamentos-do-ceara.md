@@ -52,8 +52,6 @@ A semana Pedag&oacute;gica das Escolas do Campo faz parte do calend&aacute;rio a
 <p><br />
 A atividade &eacute; uma estrat&eacute;gia coletiva de car&aacute;ter pol&iacute;tico-pedag&oacute;gico constitu&iacute;da pela troca de experi&ecirc;ncias, avalia&ccedil;&atilde;o da caminhada, elabora&ccedil;&atilde;o de diretrizes para o planejamento pedag&oacute;gico anual, forma&ccedil;&atilde;o continuada, confraterniza&ccedil;&atilde;o e constru&ccedil;&atilde;o de pautas de lutas, em busca de avan&ccedil;ar na implementa&ccedil;&atilde;o do projeto pol&iacute;tico-pedag&oacute;gico das escolas de ensino m&eacute;dio do campo no estado.</p>
 
-<p>&nbsp;</p>
-
 <figure class="image" style="float:left"><img alt="ELITIEL GUEDES - 49.jpg" height="466" src="//farm2.staticflickr.com/1448/23692689274_75500e6557_b.jpg" width="700" />
 <figcaption>Foto: Elitiel Guedes</figcaption>
 </figure>
