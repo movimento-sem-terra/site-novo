@@ -9,7 +9,7 @@ tags:
 title: Ato contra o impeachment e ajuste fiscal reúne milhares na Paulista
 support_line: "Contra Eduardo Cunha e o ajuste fiscal, movimentos disseram que querem \"a Dilma que elegeram\"."
 menu: lutas e mobilizações
-section: featured-news
+section: null
 images_hd: //farm1.staticflickr.com/762/23772652446_05dfbc9413_b.jpg
 layout: post
 files:
