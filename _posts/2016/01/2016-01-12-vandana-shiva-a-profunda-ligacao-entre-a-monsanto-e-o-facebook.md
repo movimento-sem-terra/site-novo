@@ -6,16 +6,16 @@ tags:
   - tag: sementes
 title: "Vandana Shiva: A profunda ligação entre a Monsanto e o Facebook"
 support_line: "Da plantação até a prateleira do supermercado, tudo será determinado pelos interesses dos mesmos acionistas. Vamos conversar sobre liberdade de escolha?"
-images_hd: //farm2.staticflickr.com/1490/23971112459_60d1f75ff5_b.jpg
+images_hd: //farm2.staticflickr.com/1444/24230868022_ca0427bacc_b.jpg
 menu: transgênicos
 layout: post
 files:
-  - link: //farm2.staticflickr.com/1490/23971112459_60d1f75ff5_b.jpg
-    thumbnail: //farm2.staticflickr.com/1490/23971112459_60d1f75ff5_t.jpg
-    medium: //farm2.staticflickr.com/1490/23971112459_60d1f75ff5_z.jpg
-    small: //farm2.staticflickr.com/1490/23971112459_60d1f75ff5_n.jpg
-    title: Monsanto-e1.jpg
-    $$hashKey: 1PQ
+  - link: //farm2.staticflickr.com/1444/24230868022_ca0427bacc_b.jpg
+    thumbnail: //farm2.staticflickr.com/1444/24230868022_ca0427bacc_t.jpg
+    medium: //farm2.staticflickr.com/1444/24230868022_ca0427bacc_z.jpg
+    small: //farm2.staticflickr.com/1444/24230868022_ca0427bacc_n.jpg
+    title: GOOD-vandana3.jpeg
+    $$hashKey: 23N
 created_date: "2016-01-12T15:23:02-02:00"
 published: true
 releated_posts:
@@ -24,8 +24,8 @@ releated_posts:
   - 2015/11/2015-11-10-brasil-pode-ser-o-primeiro-pais-a-liberar-sementes-estereis.md
 
 ---
-<p><br />
-<em>Da Carta Maior*</em></p>
+<p><em>Vandana Shiva&nbsp;- CommonDreams</em><em style="line-height: 20.8px;">*</em><br />
+<em>Da Carta Maior</em></p>
 
 <p><br />
 Enquanto a Ag&ecirc;ncia Reguladora de Telecomunica&ccedil;&otilde;es da &Iacute;ndia decide o futuro do programa &ldquo;Free Basics&rdquo;, Mark Zuckerberg est&aacute; na &Iacute;ndia com um bilh&atilde;o de r&uacute;pias, em moeda trocada, para fazer sua publicidade. O programa &eacute; um internet.org repaginado ou, em outras palavras, um sistema em que o Facebook decide qual parte da internet comp&otilde;e o pacote b&aacute;sico para os usu&aacute;rios.</p>
