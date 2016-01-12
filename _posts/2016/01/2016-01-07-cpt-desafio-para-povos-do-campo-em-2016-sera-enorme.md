@@ -32,11 +32,11 @@ releated_posts:
 section: featured-news
 
 ---
-<p>Do Brasil de Fato&nbsp;</p>
+<p><br />
+<em>Do Brasil de Fato</em>&nbsp;</p>
 
-<p>&nbsp;</p>
-
-<p>A Comiss&atilde;o Pastoral da Terra (CPT) lan&ccedil;ou nesta ter&ccedil;a-feira (5) um balan&ccedil;o da quest&atilde;o agr&aacute;ria no Brasil em 2015.</p>
+<p><br />
+A Comiss&atilde;o Pastoral da Terra (CPT) lan&ccedil;ou nesta ter&ccedil;a-feira (5) um balan&ccedil;o da quest&atilde;o agr&aacute;ria no Brasil em 2015.</p>
 
 <p><br />
 A crise pol&iacute;tica e econ&ocirc;mica no Congresso resultou, de acordo com a pastoral, em pautas conservadoras e no corte de verbas para pol&iacute;ticas sociais no campo.</p>
@@ -54,7 +54,7 @@ Os cortes de 50% no or&ccedil;amento do Minist&eacute;rio do Desenvolvimento Agr
 &ldquo;Os movimentos sociais do campo questionam os dados do MDA, que declarou ter assentado cerca de 13 mil fam&iacute;lias de trabalhadores rurais at&eacute; outubro, quando somente cerca de sete mil novas fam&iacute;lias haviam sido assentadas at&eacute; ent&atilde;o. De todo modo, o n&uacute;mero &eacute; muito aqu&eacute;m da necessidade das fam&iacute;lias acampadas no Brasil&rdquo;.</p>
 
 <p><br />
-Conflitos</p>
+<strong>Conflitos</strong></p>
 
 <p><br />
 A viol&ecirc;ncia no campo em 2015 foi, de acordo com dados parciais da CPT, o ano com maior n&uacute;mero de mortes no campo desde 2004: foram assassinados 49 camponeses, sem terras e assentados da Reforma Agr&aacute;ria.</p>
@@ -66,7 +66,7 @@ A viol&ecirc;ncia no campo em 2015 foi, de acordo com dados parciais da CPT, o a
 A atua&ccedil;&atilde;o dos &oacute;rg&atilde;os estatais em rela&ccedil;&atilde;o aos camponeses tamb&eacute;m foi apontada pela pastoral como alarmante. &ldquo;A viol&ecirc;ncia praticada pelo pr&oacute;prio Estado brasileiro, atrav&eacute;s da for&ccedil;a policial, dos investimentos aos grandes projetos desenvolvimentistas, das a&ccedil;&otilde;es do Poder Judici&aacute;rio e das portarias e decretos que limitam as demarca&ccedil;&otilde;es e desapropria&ccedil;&otilde;es, permanece alarmante&rdquo;.</p>
 
 <p><br />
-Ambiente&nbsp;</p>
+<strong>Ambiente&nbsp;</strong></p>
 
 <p><br />
 A crise ambiental tamb&eacute;m foi aprofundada. Houve aumento em 16% do desmatamento da Amaz&ocirc;nia, e trag&eacute;dias como a de Mariana (MG) configuraram um dos maiores desastres ambientais da hist&oacute;ria.</p>
@@ -81,7 +81,7 @@ Do mesmo modo, o Brasil continua como o maior consumidor mundial de agrot&oacute
 &ldquo;Enquanto de um lado, os &oacute;rg&atilde;os reguladores s&atilde;o flex&iacute;veis com a libera&ccedil;&atilde;o desses produtos no pa&iacute;s, a estrutura dos &oacute;rg&atilde;os de vigil&acirc;ncia e fiscaliza&ccedil;&atilde;o foi concebida para n&atilde;o funcionar e impede o acompanhamento das popula&ccedil;&otilde;es expostas, deixando de verificar quais s&atilde;o os riscos do contato com essas subst&acirc;ncias&rdquo;.&nbsp;</p>
 
 <p><br />
-Condi&ccedil;&otilde;es de trabalho</p>
+<strong>Condi&ccedil;&otilde;es de trabalho</strong></p>
 
 <p><br />
 O combate ao trabalho escravo tamb&eacute;m sofreu retrocessos, com a suspens&atilde;o da Lista Suja de Trabalho Escravo por decis&atilde;o liminar do STF a pedido de grandes construtoras e o pedido de revis&atilde;o do conceito de trabalho escravo por parte de deputados da bancada ruralista, aponta a CPT.</p>
@@ -93,7 +93,7 @@ O combate ao trabalho escravo tamb&eacute;m sofreu retrocessos, com a suspens&at
 Trata-se de uma alega&ccedil;&atilde;o falsa, pois o baixo efetivo de auditores fiscais em atividade tem reduzido as autua&ccedil;&otilde;es, considerando como em condi&ccedil;&otilde;es an&aacute;logas &agrave; escravid&atilde;o apenas um caso em cada sete estabelecimentos fiscalizados, sob o fr&aacute;gil argumento de que trabalho escravo s&oacute; se caracterizaria pela soma de viola&ccedil;&otilde;es e n&atilde;o pela verifica&ccedil;&atilde;o de infra&ccedil;&otilde;es isoladas&rdquo;.</p>
 
 <p><br />
-Mobiliza&ccedil;&otilde;es</p>
+<strong>Mobiliza&ccedil;&otilde;es</strong></p>
 
 <p><br />
 Apesar de todas as dificuldades, 2015 foi um ano de muitas lutas para os camponeses. A pastoral destaca a jornada das mulheres da Via Campesina e a marcha das Margaridas, que mobilizaram milhares de camponesas de todo o pa&iacute;s, al&eacute;m das ocupa&ccedil;&otilde;es de terras em todo pa&iacute;s, que ganharam for&ccedil;a em 2015.&nbsp;</p>
