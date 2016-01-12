@@ -31,7 +31,6 @@ releated_posts:
 </figure>
 
 <p><br />
-<br />
 <em>Da P&aacute;gina do MAB</em></p>
 
 <p><br />
