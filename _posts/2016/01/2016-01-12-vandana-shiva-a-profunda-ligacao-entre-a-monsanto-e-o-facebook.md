@@ -6,16 +6,16 @@ tags:
   - tag: sementes
 title: "Vandana Shiva: A profunda ligação entre a Monsanto e o Facebook"
 support_line: "Da plantação até a prateleira do supermercado, tudo será determinado pelos interesses dos mesmos acionistas. Vamos conversar sobre liberdade de escolha?"
-images_hd: //farm2.staticflickr.com/1444/24230868022_ca0427bacc_b.jpg
+images_hd: //farm2.staticflickr.com/1610/23712389603_238db8f67f_b.jpg
 menu: transgênicos
 layout: post
 files:
-  - link: //farm2.staticflickr.com/1444/24230868022_ca0427bacc_b.jpg
-    thumbnail: //farm2.staticflickr.com/1444/24230868022_ca0427bacc_t.jpg
-    medium: //farm2.staticflickr.com/1444/24230868022_ca0427bacc_z.jpg
-    small: //farm2.staticflickr.com/1444/24230868022_ca0427bacc_n.jpg
-    title: GOOD-vandana3.jpeg
-    $$hashKey: 23N
+  - link: //farm2.staticflickr.com/1610/23712389603_238db8f67f_b.jpg
+    thumbnail: //farm2.staticflickr.com/1610/23712389603_238db8f67f_t.jpg
+    medium: //farm2.staticflickr.com/1610/23712389603_238db8f67f_z.jpg
+    small: //farm2.staticflickr.com/1610/23712389603_238db8f67f_n.jpg
+    title: 5812cdb0a2.jpg
+    $$hashKey: 2JJ
 created_date: "2016-01-12T15:23:02-02:00"
 published: true
 releated_posts:
