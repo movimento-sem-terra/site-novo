@@ -22,6 +22,7 @@ releated_posts:
   - 2015/12/2015-12-09-movimentos-convocam-mobilizacoes-para-o-proximo-dia-16-12.md
   - 2015/12/2015-12-10-movimentos-lancam-frente-brasil-popular-e-marcham-em-defesa-da-democracia-no-rs.md
   - 2015/12/2015-12-09-juventude-pede-natal-sem-cunha-na-camara-dos-deputados-em-brasilia.md
+section: featured-news
 
 ---
 <p>&nbsp;</p>
