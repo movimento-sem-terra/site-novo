@@ -8,7 +8,7 @@ tags:
 title: Movimentos da Frente Brasil Popular defendem democracia e fim do ajuste fiscal
 support_line: "Os movimentos querem “a Dilma que elegeram”, cobrando que a presidenta assuma compromissos de campanha com os trabalhadores e a manutenção de conquistas sociais."
 menu: projeto popular
-section: featured-news
+section: null
 images_hd: //farm1.staticflickr.com/740/23258564904_1f114b93ea_b.jpg
 layout: post
 files:
