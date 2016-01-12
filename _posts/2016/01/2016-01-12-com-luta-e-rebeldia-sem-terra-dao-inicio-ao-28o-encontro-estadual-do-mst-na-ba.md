@@ -4,7 +4,7 @@ tags:
   - tag: encontro-estadual
   - tag: bahia
   - tag: lutas-e-mobilizações
-images_hd: //farm2.staticflickr.com/1568/24252799161_12b392eddc_b.jpg
+images_hd: //farm2.staticflickr.com/1538/24309321256_4b32ca6e92_b.jpg
 title: "Com luta e rebeldia, Sem Terra dão início ao 28º Encontro Estadual do MST na BA"
 support_line: "São esses os companheiros e companheiras que têm nos bonés e bandeiras vermelhas a resposta para os problemas coletivos: a organização popular. "
 menu: lutas e mobilizações
@@ -16,6 +16,12 @@ files:
     small: //farm2.staticflickr.com/1568/24252799161_12b392eddc_n.jpg
     title: IMG_3717.jpg
     $$hashKey: 02X
+  - link: //farm2.staticflickr.com/1538/24309321256_4b32ca6e92_b.jpg
+    thumbnail: //farm2.staticflickr.com/1538/24309321256_4b32ca6e92_t.jpg
+    medium: //farm2.staticflickr.com/1538/24309321256_4b32ca6e92_z.jpg
+    small: //farm2.staticflickr.com/1538/24309321256_4b32ca6e92_n.jpg
+    title: IMG_3713.jpg
+    $$hashKey: 0DN
 created_date: "2016-01-12T11:22:33-02:00"
 published: true
 releated_posts:
@@ -32,6 +38,8 @@ releated_posts:
   - 2015/12/2015-12-22-na-chapada-diamantina-agroecologia-e-educacao-sao-apontados-como-desafios.md
 
 ---
+<p><img alt="IMG_3717.jpg" height="467" src="//farm2.staticflickr.com/1568/24252799161_12b392eddc_b.jpg" width="700" /></p>
+
 <p>&nbsp;</p>
 
 <p><em>Do Coletivo de Comunica&ccedil;&atilde;o da Bahia&nbsp;</em></p>
