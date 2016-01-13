@@ -7,16 +7,16 @@ tags:
   - tag: balanço-2015
 title: "\"2015 entra pra história como o ano que não existiu para a Reforma Agrária\", afirma dirigente "
 menu: reforma agrária
-images_hd: //farm2.staticflickr.com/1455/24273602851_89fd0023a5_b.jpg
+images_hd: //farm2.staticflickr.com/1491/24357518965_5c81da2fce_b.jpg
 support_line: "Alexandre Conceição, da coordenação nacional do MST, avalia 2015 como o ano que o governo virou as costas para todos aqueles que lutam pelos os direitos da classe trabalhadora no Brasil. "
 layout: post
 files:
-  - link: //farm2.staticflickr.com/1455/24273602851_89fd0023a5_b.jpg
-    thumbnail: //farm2.staticflickr.com/1455/24273602851_89fd0023a5_t.jpg
-    medium: //farm2.staticflickr.com/1455/24273602851_89fd0023a5_z.jpg
-    small: //farm2.staticflickr.com/1455/24273602851_89fd0023a5_n.jpg
-    title: alexandre.jpg
-    $$hashKey: 081
+  - link: //farm2.staticflickr.com/1491/24357518965_5c81da2fce_b.jpg
+    thumbnail: //farm2.staticflickr.com/1491/24357518965_5c81da2fce_t.jpg
+    medium: //farm2.staticflickr.com/1491/24357518965_5c81da2fce_z.jpg
+    small: //farm2.staticflickr.com/1491/24357518965_5c81da2fce_n.jpg
+    title: buc363dsmascufybp3hpp1jjv.jpg
+    $$hashKey: 17Y
 created_date: "2016-01-13T12:51:15-02:00"
 published: true
 releated_posts:
