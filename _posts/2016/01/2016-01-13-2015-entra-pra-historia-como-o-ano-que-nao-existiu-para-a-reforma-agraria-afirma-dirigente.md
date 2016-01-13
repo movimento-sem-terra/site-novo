@@ -45,7 +45,7 @@ Para ele, &quot;o&nbsp;pagamento de juros aos bancos e o super&aacute;vit prim&a
 Sobre as perspectivas de luta para o pr&oacute;ximo per&iacute;odo, Concei&ccedil;&atilde;o&nbsp;afirma&nbsp;que o&nbsp;Movimento&nbsp;continuar&aacute; na luta pela&nbsp;defesa aos direitos do trabalhador do campo e da cidade e contra todo e qualquer tipo de retrocesso e cerceamento de direitos.&nbsp;</p>
 
 <p><br />
-&quot;Vamos fazer grandes jornadas na luta pela terra para que todas as fam&iacute;lias sejam assentadas e&nbsp;para que as pol&iacute;ticas p&uacute;blicas se consolidem no fortalecimento de uma agricultura saud&aacute;vel que produza alimentos&nbsp;baratos&nbsp;para todo povo brasileiro. Fortaleceremos com o conjunto&nbsp;dos movimentos do campo de da cidade, a luta&nbsp;contra a&nbsp;retirada de direitos e as reformas neoliberais.  N&atilde;o ficaremos parados se&nbsp;o governo da presidenta resolver mexer&nbsp;na aposentadoria rural, retrocedendo em&nbsp;uma conquista antiga dos camponeses em todo Brasil&quot;, afirma.&nbsp;</p>
+&quot;<span style="line-height: 20.8px;">O ano de 2015 foi&nbsp;de intensas lutas pela terra, de grandes jornadas de lutas contra o retrocesso&nbsp;e contra uma pol&iacute;tica econ&ocirc;mica recessiva e neoliberal. Chegamos ao final do ano com um saldo organizativo muito positivo e por isso, buscaremos cada vez mais a unidade das organiza&ccedil;&otilde;es do campo com o conjunto&nbsp;dos movimentos do campo de da cidade, para fortalecer a luta&nbsp;contra a&nbsp;retirada de direitos e as reformas neoliberais&quot;</span>, afirma.&nbsp;</p>
 
 <p><br />
 <strong>Confira abaixo a entrevista na &iacute;ntegra</strong></p>
@@ -72,7 +72,7 @@ N&atilde;o houve cortes&nbsp;no&nbsp;Pronera, mas&nbsp;os valores atuais do prog
 <strong>As poucas conquistas que ocorreram foram fruto de muita mobiliza&ccedil;&atilde;o e press&atilde;o social. Essa ser&aacute; a linha que o Movimento seguir&aacute; em 2016?&nbsp;</strong></p>
 
 <p><br />
-Todos os assentamentos e pol&iacute;ticas p&uacute;blicas&nbsp;criadas&nbsp;pelos governos s&atilde;o sempre fruto de muitas lutas e 2016 n&atilde;o ser&aacute; diferente.  O ano de 2015 foi&nbsp;de intensas lutas pela terra, de grandes jornadas de lutas contra o retrocesso&nbsp;e contra uma pol&iacute;tica econ&ocirc;mica recessiva e neoliberal.  Chegamos ao final do ano com um saldo organizativo muito positivo e por isso, buscaremos cada vez mais a unidade das organiza&ccedil;&otilde;es do campo com o conjunto&nbsp;dos movimentos do campo de da cidade, para fortalecer a luta&nbsp;contra a&nbsp;retirada de direitos e as reformas neoliberais.</p>
+Todos os assentamentos e pol&iacute;ticas p&uacute;blicas&nbsp;criadas&nbsp;pelos governos s&atilde;o sempre fruto de muitas lutas e 2016 n&atilde;o ser&aacute; diferente. O ano de 2015 foi&nbsp;de intensas lutas pela terra, de grandes jornadas de lutas contra o retrocesso&nbsp;e contra uma pol&iacute;tica econ&ocirc;mica recessiva e neoliberal. Chegamos ao final do ano com um saldo organizativo muito positivo e por isso, buscaremos cada vez mais a unidade das organiza&ccedil;&otilde;es do campo com o conjunto&nbsp;dos movimentos do campo de da cidade, para fortalecer a luta&nbsp;contra a&nbsp;retirada de direitos e as reformas neoliberais.</p>
 
 <p><br />
 <strong>Qual a avalia&ccedil;&atilde;o do Movimento sobre&nbsp;atua&ccedil;&atilde;o do Congresso Nacional, em especial na C&acirc;mara dos Deputados, durante 2015?&nbsp;</strong></p>
