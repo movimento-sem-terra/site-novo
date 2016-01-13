@@ -27,8 +27,6 @@ section: cover
 
 ---
 <p><br />
-<img alt="alexandre.jpg" height="510" src="//farm2.staticflickr.com/1455/24273602851_89fd0023a5_b.jpg" width="700" /><br />
-<br />
 <em>Por Maura Silva<br />
 Da P&aacute;gina do MST</em></p>
 
