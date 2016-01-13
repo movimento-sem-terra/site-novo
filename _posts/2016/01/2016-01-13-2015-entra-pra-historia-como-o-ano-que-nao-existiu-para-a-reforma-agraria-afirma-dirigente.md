@@ -26,13 +26,14 @@ releated_posts:
 section: cover
 
 ---
-<p>&nbsp;</p>
-
-<p><em>Por Maura Silva<br />
+<p><br />
+<img alt="alexandre.jpg" height="510" src="//farm2.staticflickr.com/1455/24273602851_89fd0023a5_b.jpg" width="700" /><br />
+<br />
+<em>Por Maura Silva<br />
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Um ano em que o governo&nbsp;federal virou as costas para todos aqueles que lutam contra o latif&uacute;ndio, o agroneg&oacute;cio e os direitos da classe trabalhadora no Brasil.&nbsp;&Eacute;&nbsp;assim que, Alexandre Concei&ccedil;&atilde;o, da coordena&ccedil;&atilde;o nacional do&nbsp;MST, avalia o ano de 2015.&nbsp;</p>
+Um ano em que o governo&nbsp;federal virou as costas para todos aqueles que lutam contra o latif&uacute;ndio, o agroneg&oacute;cio e os direitos da classe trabalhadora no Brasil.&nbsp;&Eacute;&nbsp;assim que, Alexandre Concei&ccedil;&atilde;o, da coordena&ccedil;&atilde;o nacional do&nbsp;MST, avalia 2015.&nbsp;</p>
 
 <p><br />
 Em entrevista para a P&aacute;gina do MST, Concei&ccedil;&atilde;o fala sobre a escolha de lado do governo Dilma&nbsp;ao travar o processo de&nbsp;desapropria&ccedil;&otilde;es&nbsp;e demarca&ccedil;&otilde;es de terra.</p>
