@@ -5,7 +5,7 @@ tags:
   - tag: bahia
   - tag: desafios
   - tag: roda-de-conversa
-title: LGBT Sem Terra apontam a formação e a luta como desafios no Movimento
+title: "Formação e a luta são desafios apontados pelos LGBT Sem Terra "
 support_line: "O debate ocorreu na 1º Roda de Conversa realizada durante o 28º Encontro Estadual do MST na Bahia que se propôs discutir a Reforma Agrária e as relações de gênero como plataformas de luta contra a LGBTfobia. "
 menu: reforma agrária
 images_hd: //farm2.staticflickr.com/1534/23727646613_a9d1410cac_b.jpg
