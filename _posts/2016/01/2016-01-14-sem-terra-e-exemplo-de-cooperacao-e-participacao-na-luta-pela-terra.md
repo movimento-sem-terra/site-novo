@@ -56,7 +56,8 @@ Mulher e trabalhadora Sem Terra, Maria Helena Ramos, m&atilde;e de tr&ecirc;s fi
 Dona Heleninha como gosta de ser chamada, descreve a rotina da equipe de cozinha durante o evento.</p>
 
 <p><br />
-&ldquo;As atividades come&ccedil;am a partir das quatro horas da manh&atilde; para preparar o caf&eacute; que &eacute; servido as seis. Em seguida, come&ccedil;a os preparativos para o almo&ccedil;o que &eacute; servido ao meio dia, e posteriormente, vem a prepara&ccedil;&atilde;o do jantar. Normalmente, as atividades da cozinha se encerram as dez horas da noite&rdquo;, explica.</p>
+&ldquo;As atividades come&ccedil;am a partir das quatro horas da manh&atilde; para preparar o caf&eacute; que &eacute; servido as seis. Em seguida, come&ccedil;a os preparativos para o almo&ccedil;o que &eacute; servido ao meio dia, e posteriormente, vem a prepara&ccedil;&atilde;o do jantar. Normalmente, as atividades da cozinha se encerram as dez horas da noite&rdquo;, explica.<br />
+&nbsp;</p>
 
 <p><img alt="_DSC0954 (2).jpg" height="467" src="//farm2.staticflickr.com/1654/24374813265_3c475a582b_b.jpg" width="700" /><br />
 <br />
