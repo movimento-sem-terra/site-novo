@@ -4,7 +4,7 @@ tags:
   - tag: bahia
   - tag: encontro-estadual
   - tag: trabalho-coletivo
-title: Sem Terra é exemplo de cooperação e participação na luta pela terra
+title: Trabalhadores dão exemplo de cooperação e participação na luta pela terra
 menu: reforma agrária
 support_line: O Trabalho coletivo durante o  28º Encontro Estadual do MST cumpre o objetivo de potencializar as forças das famílias Sem Terra por meio da distribuição de tarefas para a execução de atividades.
 images_hd: //farm2.staticflickr.com/1633/24266584852_5dde8e13c5_b.jpg
