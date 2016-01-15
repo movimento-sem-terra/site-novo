@@ -22,6 +22,7 @@ releated_posts:
   - 2014/08/2014-08-08-vandana-shiva-as-entrelinhas-das-guerras-por-alimentos.md
   - 2014/09/2014-09-02-argentinos-denunciam-monsanto-por-tentar-controlar-mercado-de-sementes.md
   - 2015/11/2015-11-10-brasil-pode-ser-o-primeiro-pais-a-liberar-sementes-estereis.md
+section: featured-news
 
 ---
 <p><em>Vandana Shiva&nbsp;- CommonDreams</em><em style="line-height: 20.8px;">*</em><br />
