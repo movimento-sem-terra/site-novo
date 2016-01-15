@@ -22,6 +22,7 @@ published: true
 releated_posts:
   - 2014/08/2014-08-08-acao-da-policia-fere-23-sem-terra-apos-mobilizacao-na-paraiba.md
   - 2015/10/2015-10-27-contra-o-genocidio-dos-povos-indigenas-movimentos-pedem-boicote-ao-agronegocio.md
+section: featured-news
 
 ---
 <p>&nbsp;</p>
