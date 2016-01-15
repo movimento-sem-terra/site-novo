@@ -19,11 +19,11 @@ files:
 created_date: "2016-01-15T11:05:29-02:00"
 published: true
 releated_posts:
-  - 2014/07/2014-07-17-familias-sem-terra-seguem-na-luta-por-area-grilada-em-abelardo-luz.md
-  - 2014/12/2014-10-28-ufsc-recebe-300-jovens-assentados-da-reforma-agraria.md
-  - 2014/12/2014-11-24-seminario-sobre-producao-de-alimentos-esta-disponivel-em-video.md
   - 2015/03/2015-03-31-usurpacao-da-terra-e-repressao-aos-movimentos-sociais-na-historia-do-parana.md
   - 2015/04/2015-04-23-stedile-que-o-espirito-de-tiradentes-nos-ilumine-para-irmos-as-ruas-por-justica-social.md
+  - 2015/06/2015-06-01-tenho-orgulho-de-ser-agricultora-de-botar-a-mao-na-terra-de-ter-minhas-maos-calejadas.md
+  - 2015/06/2015-06-03-entre-o-acesso-social-a-terra-e-a-repressao-i-legal-desse-direito.md
+  - 2016/01/2016-01-06-na-capital-da-soja-assentados-driblam-uso-de-agrotoxicos-e-investem-na-producao-organica.md
 
 ---
 <p>&nbsp;</p>
