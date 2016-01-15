@@ -35,23 +35,28 @@ releated_posts:
 ---
 <p style="line-height: 20.8px;"><img alt="IMG_8203.JPG" height="525" src="//farm2.staticflickr.com/1479/24100761670_0fc1a8df0c_b.jpg" width="700" /></p>
 
-<p style="line-height: 20.8px;">&nbsp;</p>
+<p style="box-sizing: inherit; margin: 0px 0px 11px; font-size: 1.1em; color: rgb(85, 85, 85); font-family: 'Exo 2', Helvetica, Arial, sans-serif;">&nbsp;</p>
 
-<p style="line-height: 20.8px;">Cerca de 150 militantes de todas as partes de Alagoas deram&nbsp;in&iacute;cio essa semana a um amplo mutir&atilde;o de trabalho de base, que come&ccedil;a a percorrer os assentamentos&nbsp;e&nbsp;acampamentos de cada munic&iacute;pio onde o Movimento se organiza no Estado. e acaba no&nbsp;26&ordm; Encontro Estadual do MST Alagoas, em fevereiro.</p>
+<p><em>Por Rafael Soriano<br />
+Da P&aacute;gina do MST</em></p>
 
-<p style="line-height: 20.8px;"><br />
+<p>&nbsp;</p>
+
+<p>Cerca de 150 militantes de todas as partes de Alagoas deram in&iacute;cio essa semana a um amplo mutir&atilde;o de trabalho de base, que come&ccedil;a a percorrer os assentamentos e acampamentos de cada munic&iacute;pio onde o Movimento se organiza no Estado. e acaba no 26&ordm; Encontro Estadual do MST Alagoas, em fevereiro.</p>
+
+<p><br />
 Partindo da an&aacute;lise da conjuntura complexa em que se encontra a sociedade e, particularmente, as for&ccedil;as de esquerda, assim como da mem&oacute;ria de conquistas das lutas de 2015, os militantes tra&ccedil;aram o cronograma de visitas &agrave;s agrovilas e casas.&nbsp;</p>
 
-<p style="line-height: 20.8px;"><br />
+<p><br />
 Tamb&eacute;m ser&aacute; promovido um processo tanto de escuta como de reflex&atilde;o em temas como agroecologia, participa&ccedil;&atilde;o pol&iacute;tica, acesso &agrave; pol&iacute;ticas p&uacute;blicas, massifica&ccedil;&atilde;o das lutas e outros.</p>
 
-<p style="line-height: 20.8px;"><br />
+<p><br />
 &ldquo;Para o trabalho de base, devemos ter a clareza do momento hist&oacute;rico que vivemos e onde &eacute; preciso avan&ccedil;ar&rdquo;, salienta D&eacute;bora Nunes, da coordena&ccedil;&atilde;o nacional do MST.&nbsp;</p>
 
-<p style="line-height: 20.8px;"><br />
+<p><br />
 Ela explica que esse mutir&atilde;o consiste numa escuta e reflex&atilde;o conjunta, &ldquo;que pode nos levar a um patamar consistente de organiza&ccedil;&atilde;o. Sabendo enxergar e atender a necessidade de todos, mulheres, jovens, crian&ccedil;as, podemos retomar e fortalecer a m&iacute;stica e organiza&ccedil;&atilde;o do povo, fortalecer nosso movimento&rdquo;, afirma.</p>
 
-<p style="line-height: 20.8px;"><br />
+<p><br />
 Com uma programa&ccedil;&atilde;o que contou com grupos de estudo, palestras, cineclube Cinema na Terra, m&iacute;sticas e momentos de planejamento, o Semin&aacute;rio de Prepara&ccedil;&atilde;o do Trabalho de Base aconteceu de 6 a 8 de janeiro, no Centro de Forma&ccedil;&atilde;o Zumbi dos Palmares, no assentamento Milton Santos, em Atalaia. Todo o processo deve durar at&eacute; o pr&oacute;ximo encontro estadual do Movimento, entre 27 e 28 de fevereiro.</p>
 
 <p style="line-height: 20.8px;">&nbsp;</p>
