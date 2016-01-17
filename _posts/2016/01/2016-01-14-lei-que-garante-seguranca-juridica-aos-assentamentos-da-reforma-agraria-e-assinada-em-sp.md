@@ -85,15 +85,19 @@ A proposta inicial era de que a Lei fosse implementada em duas fases: experiment
 No entanto, essa segunda fase nunca foi efetivada. Passados 30 anos desde sua cria&ccedil;&atilde;o, nunca houve uma normativa que a regulamentasse.</p>
 
 <p><br />
-Com o tempo e o avan&ccedil;o na arrecada&ccedil;&atilde;o de terras em S&atilde;o Paulo, o n&uacute;mero de assentamentos cresceu no estado.<br />
-<br />
+Com o tempo e o avan&ccedil;o na arrecada&ccedil;&atilde;o de terras em S&atilde;o Paulo, o n&uacute;mero de assentamentos cresceu no estado.</p>
+
+<p><br />
 Os quatro pontos principais aprovados no projeto s&atilde;o demandas apresentadas pelos movimentos sociais de luta pela terra&nbsp; em todo o estado: a lei deve continuar sendo um instrumento de arrecada&ccedil;&atilde;o; as terras s&atilde;o patrim&ocirc;nio p&uacute;blico e devem cumprir sua fun&ccedil;&atilde;o social; instrumento de combate &agrave; especula&ccedil;&atilde;o fundi&aacute;ria, com mecanismos de fiscaliza&ccedil;&atilde;o contra a venda e arredamento de lotes nos assentamentos; e seguran&ccedil;a jur&iacute;dica de hereditariedade na concess&atilde;o de uso da terra.</p>
 
 <p><br />
-Atualmente existem em torno de sete mil fam&iacute;lias vivendo em 136 assentamentos estaduais em S&atilde;o Paulo.</p>
+Atualmente existem em torno de sete mil fam&iacute;lias vivendo em 136 assentamentos estaduais em S&atilde;o Paulo com uma &aacute;rea total de 24.814.059 hectares destas 5.237.344,21% s&atilde;o consideradas terras devolutas.</p>
 
 <p><br />
-Cerca de 3500 fam&iacute;lias seguem acampadas. Somente o Instituto Florestal de S&atilde;o Paulo possui em torno de 50 mil hectares de terras que hoje s&atilde;o destinados &agrave; pesquisa de pinus e eucalipto.</p>
+Os maiores n&uacute;cleos est&atilde;o no Pontal do Paranapanema, regi&atilde;o centro de Bauru, Borebi, Iaras e Vale do Ribeira.&nbsp;</p>
+
+<p><br />
+Ao todo cerca de 3500 fam&iacute;lias seguem acampadas. Somente o Instituto Florestal de S&atilde;o Paulo possui em torno de 50 mil hectares de terras que hoje s&atilde;o destinados &agrave; pesquisa de pinus e eucalipto.</p>
 
 <p>&nbsp;</p>
 
