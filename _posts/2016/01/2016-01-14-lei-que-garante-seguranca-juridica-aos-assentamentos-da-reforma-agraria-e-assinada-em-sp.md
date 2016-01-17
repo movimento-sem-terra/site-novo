@@ -27,14 +27,27 @@ releated_posts:
   - 2016/01/2016-01-07-cpt-desafio-para-povos-do-campo-em-2016-sera-enorme.md
 
 ---
-<p>&nbsp;</p>
+<div style="color: rgb(0, 0, 0); font-family: 'Times New Roman'; font-size: 14.16px; line-height: normal;"><br />
+&nbsp;</div>
 
 <p><em>Por Camila Bonassa e Maura Silva<br />
 Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p>&nbsp;</p>
 
-<p>Na manh&atilde; desta quinta-feira (14), foi sancionado o projeto de lei 1.209/15, que permite a transmiss&atilde;o de terras e acesso aos cr&eacute;ditos provenientes da Reforma Agr&aacute;ria seja feita para mais um membro da fam&iacute;lia, al&eacute;m do titular.</p>
+<p>Na manh&atilde; desta quinta-feira (14), foi sancionado o projeto de lei 1.209/15, que permite a transmiss&atilde;o de terras e acesso aos cr&eacute;ditos provenientes da Reforma Agr&aacute;ria.</p>
+
+<p><br />
+At&eacute; ent&atilde;o&nbsp;n&atilde;o existia&nbsp;seguran&ccedil;a jur&iacute;dica para que a concess&atilde;o de uso da terra fosse repassada a outro membro da fam&iacute;lia na falta do titular. Agora, a partir da nova lei, isso est&aacute; garantido (desde que seguidos alguns crit&eacute;rios).</p>
+
+<p><br />
+A lei prev&ecirc; o termo de parceria agr&iacute;cola, que possibilitar&aacute; ampliar e diversificar a capacidade produtiva do lote. A norma atual determina que s&oacute; o titular pode tirar a Declara&ccedil;&atilde;o de Aptid&atilde;o ao Pronaf (DAP) e acessar linhas de financiamentos fundamentais para o fomento da agricultura familiar, como o Fundo de Expans&atilde;o do Agroneg&oacute;cio Paulista (Feap) e o Programa Nacional de Fortalecimento da Agricultura Familiar (Pronaf), entre outros.</p>
+
+<p><br />
+Al&eacute;m disso, apenas o titular tem direito a acessar os programas de compras institucionais de alimentos, como o Programa Paulista da Agricultura de Interesse Social (PPAIS).</p>
+
+<p><br />
+O novo texto estabelece, na parceria agr&iacute;cola, que um dos membros da fam&iacute;lia, que resida no lote, possa tirar outra DAP e acessar mais linhas de cr&eacute;dito, como tamb&eacute;m os programas de compras institucionais.</p>
 
 <p><br />
 A lei foi assinada no Pal&aacute;cio dos Bandeirantes pelo governador Geraldo Alckmin (PSDB), na cerim&ocirc;nia tamb&eacute;m estiveram presentes representantes do MST.</p>
