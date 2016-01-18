@@ -4,7 +4,7 @@ tags:
   - tag: monsanto
   - tag: transgênicos
   - tag: áfrica
-title: Monsanto e a Fundação Gates pressionam o Quênia para suspender a proibição sobre transgênicos
+title: Monsanto e a Fundação Gates pressionam o Quênia para suspender a proibição de transgênicos
 support_line: Devido a pressões corporativas o Quênia retira as proibições aos cultivos transgênicos com todas as suas implicações.
 menu: transgênicos
 images_hd: //farm2.staticflickr.com/1548/24382095251_2c5a428141_b.jpg
