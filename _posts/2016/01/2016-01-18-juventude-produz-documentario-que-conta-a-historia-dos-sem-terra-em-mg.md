@@ -36,7 +36,7 @@ Produzido pelo coletivo de juventude Lampi&otilde;es de Minas, o document&aacute
 O filme tem objetivo de dialogar com a popula&ccedil;&atilde;o da regi&atilde;o sobre o que &eacute; o MST, seu projeto de Reforma Agr&aacute;ria Popular e o que significa a chegada do Movimento para os trabalhadores da antiga fazenda.</p>
 
 <p><br />
-<strong>Assista aqui na &iacute;ntegra:</strong> http://migre.me/sJf52</p>
+<strong>Assista aqui na &iacute;ntegra:</strong> <a href="http://migre.me/sJf52">http://migre.me/sJf52</a></p>
 
 <p><br />
 Resultado de um ano de trabalho, o processo de produ&ccedil;&atilde;o come&ccedil;ou com oficinas de planejamento do roteiro e introdu&ccedil;&atilde;o &agrave; filmagem. Em seguida, os jovens realizaram as entrevistas com os sem terra e os colonos, antigos trabalhadores do local.</p>
