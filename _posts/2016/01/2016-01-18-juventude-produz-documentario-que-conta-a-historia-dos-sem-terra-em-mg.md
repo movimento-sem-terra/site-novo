@@ -22,6 +22,7 @@ releated_posts:
   - 2015/06/2015-06-09-jovens-escracham-rede-globo-na-assembleia-legislativa-de-minas-gerais.md
   - 2015/07/2015-07-10-apos-ocupar-terras-improdutivas-sem-terra-sao-ameacados-em-mg.md
   - 2015/08/2015-08-20-durante-jornada-sem-terra-conquistam-tres-areas-emblematicas-em-minas-gerais.md
+section: featured-news
 
 ---
 <p><br />
