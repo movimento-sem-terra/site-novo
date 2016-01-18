@@ -22,6 +22,9 @@ releated_posts:
   - 2015/01/2015-01-28-mst-digitaliza-seus-primeiros-registros-musicais.md
   - 2015/05/2015-05-25-sou-sem-terra-sou-pobre-sou-negao-sou-revolucao.md
   - 2016/01/2016-01-04-banda-um-de-cada-canto-impulsiona-a-luta-na-bahia.md
+section: tv
+video: "https://youtu.be/dfLCBZ5aXU0"
+video_thumbnail: "http://img.youtube.com/vi/dfLCBZ5aXU0/0.jpg"
 
 ---
 <p>https://www.youtube.com/watch?v=dfLCBZ5aXU0&amp;feature=youtu.be</p>
