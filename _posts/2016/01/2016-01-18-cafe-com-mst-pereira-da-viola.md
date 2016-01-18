@@ -27,4 +27,5 @@ video: "https://youtu.be/dfLCBZ5aXU0"
 video_thumbnail: "http://img.youtube.com/vi/dfLCBZ5aXU0/0.jpg"
 
 ---
-<p>https://www.youtube.com/watch?v=dfLCBZ5aXU0&amp;feature=youtu.be</p>
+<p><br />
+<iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/dfLCBZ5aXU0" width="640"></iframe></p>
