@@ -5,7 +5,7 @@ tags:
   - tag: goiás
   - tag: reforma-agrária
 title: "Sem Terra ocupam latifúndio em Goiás "
-support_line: "A fazenda Sibéria está a 200km de Goiânia, contém aproximadamente dois mil hectares é um espolio, com dividas, abandonada pelos pretensos donos e utilizada com plantio de cana-de-açúcar."
+support_line: "A fazenda Sibéria está a 200 km de Goiânia, contém aproximadamente dois mil hectares e é um espolio com dividas, abandonada pelos pretensos donos e utilizada com plantio de cana-de-açúcar."
 menu: lutas e mobilizações
 images_hd: //farm2.staticflickr.com/1455/24377126231_6b79fa7d18_b.jpg
 layout: post
@@ -35,21 +35,17 @@ releated_posts:
 <figcaption>Fam&iacute;lias reunidas em assembleia na ocupa&ccedil;&atilde;o&nbsp;</figcaption>
 </figure>
 
-<p>&nbsp;</p>
-
-<p><em>Da P&aacute;gina do MST&nbsp;</em></p>
-
-<p>&nbsp;</p>
-
-<p>Na madrugada do &uacute;ltimo domingo&nbsp;(17), cerca de&nbsp;1500 Sem Terra derrubaram as cercas de mais um latif&uacute;ndio em,&nbsp;Rian&aacute;polis, Goi&aacute;s.</p>
+<p><br />
+<em>Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
-A fazenda Sib&eacute;ria<span style="line-height: 20.8px;">&nbsp;est&aacute; a&nbsp;</span><span style="line-height: 20.8px;">200km de Goi&acirc;nia,</span> cont&eacute;m aproximadamente dois mil hectares &eacute;&nbsp;<span style="line-height: 20.8px;">um espolio, com dividas, abandonada pelos pretensos donos e utilizada com plantio de cana-de-a&ccedil;&uacute;car.</span></p>
+Na madrugada do &uacute;ltimo domingo&nbsp;(17), cerca de&nbsp;1500 Sem Terra derrubaram as cercas de mais um latif&uacute;ndio em,&nbsp;Rian&aacute;polis, Goi&aacute;s.</p>
+
+<p><br />
+A fazenda Sib&eacute;ria<span style="line-height: 20.8px;">&nbsp;que fica&nbsp;a&nbsp;</span><span style="line-height: 20.8px;">200 km de Goi&acirc;nia,</span> cont&eacute;m aproximadamente dois mil hectares e &eacute;&nbsp;<span style="line-height: 20.8px;">um espolio&nbsp;com d&iacute;vidas, abandonada pelos pretensos donos e utilizada para plantio de cana-de-a&ccedil;&uacute;car.</span></p>
 
 <p><br />
 Nas &uacute;ltimas d&eacute;cadas a regi&atilde;o v&ecirc;m enfrentando processos de constata&ccedil;&atilde;o fundi&aacute;ria e o avan&ccedil;o&nbsp;<span style="line-height: 20.8px;">do Capital no campo, not&oacute;ria principalmente pela&nbsp;monocultura de&nbsp;cana-de-a&ccedil;&uacute;car e a mecaniza&ccedil;&atilde;o que contribui para o&nbsp;processo de desemprego estrutural e de migra&ccedil;&atilde;o for&ccedil;ada campo cidade.&nbsp;</span></p>
-
-<p>&nbsp;</p>
 
 <p><br />
 <strong>Hist&oacute;rico Estadual</strong></p>
@@ -71,5 +67,3 @@ Atualmente as fam&iacute;lias est&atilde;o na &aacute;rea plantando milho &nbsp;
 
 <p><br />
 <span style="line-height: 20.8px;">Em&nbsp;assembleia realizada na noite de ontem, os Sem Terra decidiram que&nbsp;o processo de plantio na &aacute;rea cpme&ccedil;a ainda essa semana.</span></p>
-
-<p>&nbsp;</p>
