@@ -4,8 +4,8 @@ tags:
   - tag: mato-grosso-do-sul
   - tag: reforma-agrária
   - tag: reivindicações
-title: "Durante reunião, MST reivindica melhorias de infraestrutura para o MS"
-support_line: Um dos principais pontos debatidos foi a situação das chuvas que está prejudicando e muito as produções dos assentados de MS.
+title: MST reivindica melhorias de infraestrutura para o MS
+support_line: Um dos principais pontos debatidos foi a situação do excesso de chuvas que tem prejudicado as produções dos assentados no estado.
 menu: reforma agrária
 images_hd: //farm2.staticflickr.com/1581/24090243509_2311112765_b.jpg
 layout: post
