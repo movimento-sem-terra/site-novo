@@ -17,7 +17,7 @@ files:
     title: nicinha.jpg
     $$hashKey: 0C4
 created_date: "2016-01-18T12:07:46-02:00"
-published: true
+published: false
 releated_posts:
   - 2015/03/2015-03-17-apos-ameaca-de-morte-stedile-recebe-cartas-de-apoio-e-solidariedade-de-vindas-de-todo-o-mundo.md
   - 2015/11/2015-11-13-pm-que-assassinou-sem-terra-vai-a-juri-por-homicidio-no-rs.md
