@@ -18,7 +18,7 @@ files:
     title: 1441301270_usina-de-belo-monte.jpg
     $$hashKey: 0HI
 created_date: "2016-01-18T12:24:07-02:00"
-published: true
+published: false
 releated_posts:
   - 2015/09/2015-09-30-pescadores-atingidos-pela-usina-de-belo-monte-ficam-sem-rio-e-sem-peixe-aponta-atlas.md
   - 2015/08/2015-08-11-doi-minha-alma-quando-ha-desmatamento-para-plantar-a-soja-diz-papa.md
