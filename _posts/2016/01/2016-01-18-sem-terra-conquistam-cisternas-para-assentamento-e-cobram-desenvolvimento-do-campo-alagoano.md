@@ -4,7 +4,7 @@ tags:
   - tag: alagoas
   - tag: desenvolvimento
   - tag: Canal-do-Sertão
-title: Sem Terra conquistam cisternas e cobram desenvolvimento para o campo alagoano
+title: Sem Terra conquistam cisternas para assentamentos em Alagoas
 images_hd: //farm2.staticflickr.com/1573/24378221961_aa8195c295_b.jpg
 support_line: "“A terra que há de nos comer, há de nos fazer viver!”, é nessa mística de luta que os camponeses destacaram o papel do campo no desenvolvimento da região. "
 menu: reforma agrária
