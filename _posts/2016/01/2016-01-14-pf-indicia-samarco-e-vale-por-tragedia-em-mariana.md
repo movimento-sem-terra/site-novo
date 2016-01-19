@@ -27,7 +27,7 @@ releated_posts:
   - 2015/11/2015-11-27-militantes-denunciam-que-samarco-apos-21-dias-do-rompimento-ainda-nao-atende-atingidos-de-forma-eficaz.md
   - 2015/11/2015-11-27-presos-politicos-do-mst-tem-liberdade-provisoria-concedida-pela-justica-do-df.md
   - 2016/01/2016-01-06-90-dos-brasileiros-culpam-samarco-por-tragedia-em-mariana.md
-section: featured-news
+section: null
 
 ---
 <p>&nbsp;</p>
