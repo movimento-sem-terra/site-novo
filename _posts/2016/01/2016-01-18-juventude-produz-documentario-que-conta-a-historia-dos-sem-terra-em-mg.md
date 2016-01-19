@@ -48,7 +48,7 @@ As oficinas s&atilde;o fruto de uma parceria entre o MST, a Universidade Federal
 <strong>O Assentamento</strong></p>
 
 <p><br />
-A antiga fazenda foi ocupada em 25 de mar&ccedil;o de 2010, com o apoio de estudantes das Universidades Federais de Vi&ccedil;osa e Juiz de Fora. As fam&iacute;lias sofreram despejo antes de completar um ano de ocupa&ccedil;&atilde;o e se abrigaram &agrave; beira da MG 353, que liga Goian&aacute;&nbsp;a Juiz de Fora.</p>
+A antiga fazenda foi ocupada em 25 de mar&ccedil;o de 2010&nbsp;com o apoio de estudantes das Universidades Federais de Vi&ccedil;osa e Juiz de Fora. As fam&iacute;lias sofreram despejo antes de completar um ano de ocupa&ccedil;&atilde;o e se abrigaram &agrave; beira da MG 353, que liga Goian&aacute;&nbsp;a Juiz de Fora.</p>
 
 <p><br />
 Ap&oacute;s anos de resist&ecirc;ncia, a terra conquistada<span style="line-height: 20.8px;">&nbsp;</span>abrigar&aacute; 120 fam&iacute;lias em seus&nbsp;<span style="line-height: 20.8px;">4.213 ha</span>. Os assentados j&aacute; possuem ampla produ&ccedil;&atilde;o agroecol&oacute;gica de verduras, feij&atilde;o, mandioca, leite e queijo.&nbsp;Atualmente,&nbsp;procuram desenvolver a coopera&ccedil;&atilde;o e luta com&nbsp;agroind&uacute;strias, escola e&nbsp;preserva&ccedil;&atilde;o do amplo patrim&ocirc;nio hist&oacute;rico da &aacute;rea, al&eacute;m da constru&ccedil;&atilde;o de uma r&aacute;dio na comunidade.</p>
