@@ -6,7 +6,7 @@ tags:
   - tag: ataque
   - tag: nota
   - tag: agronegócio
-title: Movimentos denunciam ataques a indígenas no MS
+title: Movimentos denunciam ataques a indígenas no Mato Grosso do Sul
 support_line: "Ataques às comunidades intensificaram após a suspensão da reintegração de posse do território Tey'i Jusu aos fazendeiros."
 menu: direitos humanos
 images_hd: //farm2.staticflickr.com/1620/23873280264_5629f49080_b.jpg
