@@ -4,9 +4,9 @@ tags:
   - tag: bahia
   - tag: escola
   - tag: educação-no-campo
-title: "Em seminário na BA, Sem Terra reafirmam compromisso de lutar pela educação de qualidade no campo "
+title: Lutar por uma educação de qualidade no campo é um compromisso do povo
 images_hd: //farm2.staticflickr.com/1516/23891384904_4f9c521d81_b.jpg
-support_line: "Os Sem Terra apontaram a situação de negação da educação do campo, em contraste com a benevolência do estado com as escolas públicas administradas pelo capital. "
+support_line: "Durante seminário Sem Terra apontaram a situação de negação da educação do campo, em contraste com a benevolência do estado com as escolas públicas administradas pelo capital. "
 menu: "educação, cultura e comunicação"
 layout: post
 files:
@@ -42,9 +42,8 @@ releated_posts:
 ---
 <p><img alt="9cc0677f-26a2-48d0-b649-87be757801c6 (1).jpg" height="393" src="//farm2.staticflickr.com/1651/23892755933_5b3efe4eb6_b.jpg" width="700" /></p>
 
-<p>&nbsp;</p>
-
-<p><em>Do&nbsp;Coletivo de Comunica&ccedil;&atilde;o do MST na Bahia</em></p>
+<p><br />
+<em>Do&nbsp;Coletivo de Comunica&ccedil;&atilde;o do MST na Bahia</em></p>
 
 <p><br />
 Formar o ser humano, construir rela&ccedil;&otilde;es de coopera&ccedil;&atilde;o e respeito, desenvolver um modelo de agricultura que alimente o povo e preserve o meio ambiente, esses&nbsp;foram os princ&iacute;pios que orientaram a realiza&ccedil;&atilde;o do 2&ordm; Semin&aacute;rio de Educa&ccedil;&atilde;o do Campo e Agroecologia, entre os dias 19 e 20/01, no Assentamento Josinei Hip&oacute;lito, em Ituber&aacute;, no Baixo Sul baiano.</p>
