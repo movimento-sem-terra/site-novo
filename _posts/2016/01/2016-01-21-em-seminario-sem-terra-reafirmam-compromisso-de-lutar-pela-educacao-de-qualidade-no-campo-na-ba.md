@@ -4,7 +4,7 @@ tags:
   - tag: bahia
   - tag: escola
   - tag: educação-no-campo
-title: "Em seminário, Sem Terra reafirmam compromisso de lutar pela educação de qualidade no campo na BA"
+title: "Em seminário na BA, Sem Terra reafirmam compromisso de lutar pela educação de qualidade no campo "
 images_hd: //farm2.staticflickr.com/1516/23891384904_4f9c521d81_b.jpg
 support_line: "Os Sem Terra apontaram a situação de negação da educação do campo, em contraste com a benevolência do estado com as escolas públicas administradas pelo capital. "
 menu: "educação, cultura e comunicação"
