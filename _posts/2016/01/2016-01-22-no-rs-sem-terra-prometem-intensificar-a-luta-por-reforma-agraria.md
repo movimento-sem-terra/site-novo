@@ -46,10 +46,7 @@ Da P&aacute;gina do MST</em></p>
 Esta &eacute; uma das resolu&ccedil;&otilde;es tomadas por cerca de mil trabalhadores rurais Sem Terra durante o 17&ordm; Encontro Estadual do Movimento, realizado de 19 a 21 de janeiro no Assentamento Capela, em Nova Santa Rita, na regi&atilde;o Metropolitana de Porto Alegre.</p>
 
 <p><br />
-&ldquo;H&aacute; muita energia e disposi&ccedil;&atilde;o da nossa milit&acirc;ncia para continuar com os acampamentos e massificar a luta pela terra.</p>
-
-<p><br />
-Em 2016, tamb&eacute;m em mem&oacute;ria dos 20 anos do Massacre de Eldorado de Caraj&aacute;s, as ocupa&ccedil;&otilde;es se intensificar&atilde;o no RS e no Brasil&rdquo;, adianta o dirigente estadual do MST, Cedenir de Oliveira.</p>
+&ldquo;H&aacute; muita energia e disposi&ccedil;&atilde;o da nossa milit&acirc;ncia para continuar com os acampamentos e massificar a luta pela terra.Em 2016, tamb&eacute;m em mem&oacute;ria dos 20 anos do Massacre de Eldorado de Caraj&aacute;s, as ocupa&ccedil;&otilde;es se intensificar&atilde;o no RS e no Brasil&rdquo;, adianta o dirigente estadual do MST, Cedenir de Oliveira.</p>
 
 <p><br />
 Nos &uacute;ltimos dois anos, conforme S&iacute;lvia Reis Marques, da dire&ccedil;&atilde;o nacional pelo RS, a produ&ccedil;&atilde;o de alimentos sem o uso de agrot&oacute;xicos esteve sempre presente nos debates do MST e, no pr&oacute;ximo per&iacute;odo, continuar&aacute; sendo umas das principais a&ccedil;&otilde;es defendidas pelo Movimento.</p>
