@@ -45,7 +45,8 @@ Ao final do percurso foi servido um jantar, acompanhado por apresenta&ccedil;&ot
 <p><br />
 De acordo com Valquiria de Jesus, da dire&ccedil;&atilde;o estadual do MST, a cavalgada ajuda no resgate e valoriza&ccedil;&atilde;o da cultura camponesa na regi&atilde;o, fortalecendo os la&ccedil;os de unidade nas comunidades e povoados com as fam&iacute;lias Sem Terra.</p>
 
-<p>Pensando nisso, Alessandra, assentada e educadora no MST, afirmou que a cavalgada apresentou &agrave; popula&ccedil;&atilde;o um pouco da identidade camponesa e o comprometimento do MST com a promo&ccedil;&atilde;o da cultura.</p>
+<p><br />
+Pensando nisso, Alessandra, assentada e educadora no MST, afirmou que a cavalgada apresentou &agrave; popula&ccedil;&atilde;o um pouco da identidade camponesa e o comprometimento do MST com a promo&ccedil;&atilde;o da cultura.</p>
 
 <p><br />
 <strong>Rela&ccedil;&atilde;o com a sociedade</strong><br />
