@@ -4,7 +4,7 @@ tags:
   - tag: direitos-humanos
   - tag: comissão-da-verdade
   - tag: ditadura
-title: "No grande sertão, comissão da verdade busca as origens das injustiças fundiárias"
+title: "No grande sertão, Comissão da Verdade busca as origens das injustiças fundiárias"
 support_line: "Mais que investigar crimes da ditadura, Comissão da Verdade do Grande Sertão, no norte de Minas Gerais, irá às origens das injustiças fundiárias e ajudará povos tradicionais a retomar o seu lugar."
 images_hd: //farm2.staticflickr.com/1545/23998130804_6051937308_b.jpg
 menu: direitos humanos
@@ -69,7 +69,7 @@ Em 2016, a Comiss&atilde;o da Verdade do Grande Sert&atilde;o, sediada em Montes
 <p>&nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="sula_jade.jpg" src="//farm2.staticflickr.com/1700/24626315485_018b9a3c6c_b.jpg" />
-<figcaption>Seu Sula, sobrevivente do Massacre de Cachoerinha. E Jad&eacute; de Paula, que morreria dois dias depois de conversar com a reportagem</figcaption>
+<figcaption>Seu Sula e Jad&eacute;, que morreria dois dias depois de conversar com a reportagem</figcaption>
 </figure>
 
 <p>Sobre a quest&atilde;o ind&iacute;gena, quem se encarregou de concentrar os dados foi a Comiss&atilde;o Nacional da Verdade (CNV). Nesse aspecto, j&aacute; existem alguns avan&ccedil;os &ndash; o maior foi a anistia dada a 13 ind&iacute;genas Akeiwara, conhecidos tamb&eacute;m como Suru&iacute; do Par&aacute;. Eles passaram a receber indeniza&ccedil;&otilde;es em 2014, pois no per&iacute;odo ditatorial foram coagidos a trabalhar para os militares na ca&ccedil;ada aos guerrilheiros que se escondiam na regi&atilde;o do Araguaia e entorno.</p>
@@ -86,8 +86,7 @@ Uma popula&ccedil;&atilde;o ind&iacute;gena inteira agonizou durante a famosa Gu
 <p>&nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="Daniel_Foto_Ana_Mendes.jpg" src="//farm2.staticflickr.com/1591/23999557053_529395b579_b.jpg" />
-<figcaption>Daniel, filho de Saluzinho, que resistiu, em 1967, ao cerco da ditadura, e de Dulce, torturada enquanto o pai estava preso<br />
-</figcaption>
+<figcaption>Daniel, filho de Saluzinho, que resistiu em 1967 ao cerco da ditadura, e de Dulce, torturada enquanto o pai estava preso</figcaption>
 </figure>
 
 <p>Revisitar essas e outras hist&oacute;rias ocorridas na &eacute;poca da ditadura tem esse teor: entender o momento atual. &ldquo;A gente tenta tirar o peso do revanchismo, mas tem sim um acerto de contas hist&oacute;rico a ser feito&rdquo;, diz a advogada Maria Tereza Carvalho, uma das coordenadoras da Comiss&atilde;o da Verdade do Grande Sert&atilde;o. A pol&iacute;tica de distribui&ccedil;&atilde;o de terra da ditadura, dita reforma agr&aacute;ria, criou latif&uacute;ndios Brasil afora, e em Minas Gerais n&atilde;o foi diferente. &ldquo;Se a gente tem hoje fazendeiro dentro de &aacute;rea quilombola, fazendeiro dentro de terra ind&iacute;gena e posseiros que foram expulsos das suas terras, esse per&iacute;odo, que compreende os anos 60 e 70, foi essencial pra isso&rdquo;, explica.</p>
@@ -128,8 +127,7 @@ Territ&oacute;rio para eles n&atilde;o &eacute; sin&ocirc;nimo de terra. Territ&
 <p>&nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="joao_batista_Foto_Ana_Mendes.jpg" src="//farm2.staticflickr.com/1661/23998252604_28983fb9d7_b.jpg" />
-<figcaption>Jo&atilde;o Batista: historicamente popula&ccedil;&otilde;es v&ecirc;m lutando por seus espa&ccedil;os territoriais<br />
-</figcaption>
+<figcaption>Batista: historicamente popula&ccedil;&otilde;es v&ecirc;m lutando por seus espa&ccedil;os territoriais</figcaption>
 </figure>
 
 <p>O antrop&oacute;logo Jo&atilde;o Batista Almeida Costa, professor da Universidade Estadual de Montes Claros e pesquisador da Comiss&atilde;o da Verdade do Grande Sert&atilde;o, fala sobre a &ldquo;constru&ccedil;&atilde;o pol&iacute;tica da identidade&rdquo;.</p>
