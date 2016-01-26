@@ -23,16 +23,17 @@ releated_posts:
   - 2015/10/2015-10-05-sem-terra-conquistam-liberacao-de-recursos-mato-grosso-do-sul.md
   - 2015/12/2015-12-03-familia-sem-terra-lutam-contra-despejo-no-ms.md
   - 2015/10/2015-10-07-familias-do-mst-e-mab-comemoram-conquista-de-assentamento-no-rs.md
+section: cover
 
 ---
-<p>&nbsp;</p>
+<p><img alt="Moisés Escobar Osório_assentado.jpg" src="//farm2.staticflickr.com/1561/24487825611_cefb8feafe_b.jpg" /></p>
 
-<p><em>Por Karina Vilas Boas<br />
+<p><br />
+<em>Por Karina Vilas Boas<br />
 Da P&aacute;gina do MST</em></p>
 
-<p>&nbsp;</p>
-
-<p>Enquanto os grandes latif&uacute;ndios possuem suas estradas cascalhadas, conservadas, muitas vezes com recurso p&uacute;blico, para o escoamento de suas produ&ccedil;&otilde;es, os assentamentos de Mato Grosso do Sul sofrem com o descaso dos poderes constitu&iacute;dos e no per&iacute;odo de chuvas, como foram os &uacute;ltimos 60 dias a situa&ccedil;&atilde;o piora ainda mais e fica praticamente imposs&iacute;vel transitar pelas estradas e muitas fam&iacute;lias est&atilde;o ilhadas, perderam suas planta&ccedil;&otilde;es e ainda n&atilde;o conseguiram calcular o tamanho do preju&iacute;zo que tiveram.</p>
+<p><br />
+Enquanto os grandes latif&uacute;ndios possuem suas estradas cascalhadas, conservadas, muitas vezes com recurso p&uacute;blico, para o escoamento de suas produ&ccedil;&otilde;es, os assentamentos de Mato Grosso do Sul sofrem com o descaso dos poderes constitu&iacute;dos e no per&iacute;odo de chuvas, como foram os &uacute;ltimos 60 dias a situa&ccedil;&atilde;o piora ainda mais e fica praticamente imposs&iacute;vel transitar pelas estradas e muitas fam&iacute;lias est&atilde;o ilhadas, perderam suas planta&ccedil;&otilde;es e ainda n&atilde;o conseguiram calcular o tamanho do preju&iacute;zo que tiveram.</p>
 
 <p><br />
 Essa &eacute; a situa&ccedil;&atilde;o dos Sem Terra do Conquista na Fronteira, localizado na Nova Itamarati, distrito do munic&iacute;pio de Ponta Por&atilde;, &aacute;rea da antiga Fazenda Itamaraty, desapropriada em 2002 para reforma agr&aacute;ria e implanta&ccedil;&atilde;o de um assentamento. Desde ent&atilde;o as fam&iacute;lias assentadas tem batalhado e tirado dinheiro do pr&oacute;prio bolso para manter as estradas e garantir o escoamento da produ&ccedil;&atilde;o.</p>
@@ -49,9 +50,8 @@ J&aacute; para Rosangela Vieira de Souza, assentada e agente de sa&uacute;de, o 
 <p><br />
 Mois&eacute;s Escobar Os&oacute;rio, assentado h&aacute; 15 anos no Conquista na Fronteira, foi um dos que teve que deixar tudo o que tinha e levar a mulher e os filhos para a casa de parentes.</p>
 
-<p>&nbsp;</p>
-
-<p>&ldquo;D&aacute; uma dor no peito ver tudo o que constru&iacute;mos acabado, at&eacute; as &aacute;rvores nativas que plantamos quando entramos na terra morreram, &eacute; uma vida toda que se perde e sei que sozinho n&atilde;o vamos dar conta de nos reerguemos, precisamos com urg&ecirc;ncia de ajuda pol&iacute;tica para poder nos recuperamos. Minha esperan&ccedil;a vem com o sol dos &uacute;ltimos dias e com as not&iacute;cias dos esfor&ccedil;os que o movimento tem feito&rdquo;, conclui.</p>
+<p><br />
+&ldquo;D&aacute; uma dor no peito ver tudo o que constru&iacute;mos acabado, at&eacute; as &aacute;rvores nativas que plantamos quando entramos na terra morreram, &eacute; uma vida toda que se perde e sei que sozinho n&atilde;o vamos dar conta de nos reerguemos, precisamos com urg&ecirc;ncia de ajuda pol&iacute;tica para poder nos recuperamos. Minha esperan&ccedil;a vem com o sol dos &uacute;ltimos dias e com as not&iacute;cias dos esfor&ccedil;os que o movimento tem feito&rdquo;, conclui.</p>
 
 <p><br />
 Nos &uacute;ltimos dias o MST tem feito diversas articula&ccedil;&otilde;es nacionais e locais, com &oacute;rg&atilde;os como prefeituras, governo do Estado, o Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (INCRA) e o Minist&eacute;rio do Desenvolvimento Agr&aacute;rio (MDA), para garantir recursos que possam ser investidos na infraestrutura dos assentamentos, principalmente nas estradas que garantem o escoamento da produ&ccedil;&atilde;o.</p>
