@@ -23,7 +23,7 @@ releated_posts:
   - 2014/07/2014-07-17-familias-sem-terra-seguem-na-luta-por-area-grilada-em-abelardo-luz.md
   - 2014/12/2014-11-05-cpt-quer-mais-compromisso-do-governo-com-os-povos-que-lutam-pela-terra.md
   - 2015/01/2014-12-29-gerson-teixeira-um-balanco-da-reforma-agraria-no-governo-dilma.md
-section: cover
+section: null
 label: interviews
 
 ---
