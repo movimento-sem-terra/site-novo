@@ -6,7 +6,7 @@ tags:
   - tag: latifundio
   - tag: violência
 images_hd: //farm2.staticflickr.com/1564/24543076621_c3a4aa8282_b.jpg
-title: Fazendeiro despeja agrotóxicos em área indígena no MS
+title: Indígenas sofrem ataque de pulverização aérea em MS
 support_line: "Os ataques têm sido realizados com aviões, que despejam venenos agrícolas sobre a comunidade e as nascentes de onde os indígenas coletam água para beber."
 menu: direitos humanos
 layout: post
