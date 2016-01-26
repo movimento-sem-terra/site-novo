@@ -20,12 +20,13 @@ created_date: "2016-01-21T14:07:43-02:00"
 published: true
 releated_posts:
   - 2015/09/2015-09-22-ruralistas-intensificam-ofensiva-sobre-indigenas-e-abrem-cpi-contra-o-cimi-no-ms.md
+label: interviews
 
 ---
 <p><br />
-<em>Do IHU Unisinos</em><br />
-<br />
-<br />
+<em>Do IHU Unisinos</em></p>
+
+<p><br />
 Sobre o crescimento da viol&ecirc;ncia contra os povos ind&iacute;genas nas &uacute;ltimas semanas, com os chocantes casos da morte do menino Vitor, da etnia Kaingang, assassinado no colo da m&atilde;e enquanto era amamentado em frente &agrave; rodovi&aacute;ria do munic&iacute;pio de Imbituba, em Santa Catarina, e de outro ind&iacute;gena n&atilde;o identificado morto tamb&eacute;m em uma rodovi&aacute;ria, no centro de Belo Horizonte, espancado enquanto dormia, o secret&aacute;rio-executivo do Conselho Indigenista Mission&aacute;rio (Cimi), Cl&eacute;ber Buzatto, afirma ter rela&ccedil;&atilde;o direta com os ataques aos direitos ind&iacute;genas promovidos pela bancada ruralista no Congresso Nacional.</p>
 
 <p><br />
