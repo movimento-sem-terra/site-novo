@@ -24,6 +24,7 @@ releated_posts:
   - 2014/12/2014-11-05-cpt-quer-mais-compromisso-do-governo-com-os-povos-que-lutam-pela-terra.md
   - 2015/01/2014-12-29-gerson-teixeira-um-balanco-da-reforma-agraria-no-governo-dilma.md
 section: cover
+label: interviews
 
 ---
 <p><br />
