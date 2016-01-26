@@ -23,6 +23,7 @@ releated_posts:
   - 2015/12/2015-12-10-movimentos-lancam-frente-brasil-popular-e-marcham-em-defesa-da-democracia-no-rs.md
   - 2015/12/2015-12-09-juventude-pede-natal-sem-cunha-na-camara-dos-deputados-em-brasilia.md
 section: featured-news
+label: articles
 
 ---
 <p>&nbsp;</p>
