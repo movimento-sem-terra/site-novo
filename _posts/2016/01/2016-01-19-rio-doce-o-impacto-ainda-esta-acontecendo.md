@@ -25,6 +25,7 @@ releated_posts:
   - 2015/11/2015-11-27-militantes-denunciam-que-samarco-apos-21-dias-do-rompimento-ainda-nao-atende-atingidos-de-forma-eficaz.md
   - 2015/11/2015-11-27-presos-politicos-do-mst-tem-liberdade-provisoria-concedida-pela-justica-do-df.md
   - 2015/12/2015-12-21-a-vale-da-morte-uma-tragedia-que-podera-ficar-impune.md
+label: interviews
 
 ---
 <p><br />
