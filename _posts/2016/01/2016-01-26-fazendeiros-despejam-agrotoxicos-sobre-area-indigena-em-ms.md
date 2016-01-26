@@ -6,7 +6,7 @@ tags:
   - tag: latifundio
   - tag: violência
 images_hd: //farm2.staticflickr.com/1564/24543076621_c3a4aa8282_b.jpg
-title: Fazendeiros despejam agrotóxicos sobre área indígena em MS
+title: Fazendeiro despeja agrotóxicos em área indígena no MS
 support_line: "Os ataques têm sido realizados com aviões, que despejam venenos agrícolas sobre a comunidade e as nascentes de onde os indígenas coletam água para beber."
 menu: direitos humanos
 layout: post
@@ -64,3 +64,6 @@ Segundo o relato da Acikan, em dezembro, pistoleiros contratados pelos donos das
 
 <p><br />
 As den&uacute;ncias foram protocoladas a pedido das comunidades ind&iacute;genas e dirigidas ao Presidente da Funda&ccedil;&atilde;o Nacional do &Iacute;ndio (Funai), Jo&atilde;o Pedro Goncalves da Costa, &agrave; Subprocuradora-Geral da Rep&uacute;blica e coordenadora da Sexta C&acirc;mara do Minist&eacute;rio P&uacute;blico Federal (MPF), Deborah Duprat, ao Ministro da Justi&ccedil;a, Eduardo Cardozo, e &agrave; Corregedoria Geral da Pol&iacute;cia Federal.</p>
+
+<p><br />
+<em>*Com informa&ccedil;&otilde;es do Cimi.</em>&nbsp;</p>
