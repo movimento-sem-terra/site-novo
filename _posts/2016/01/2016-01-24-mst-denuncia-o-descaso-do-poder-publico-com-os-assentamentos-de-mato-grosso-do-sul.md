@@ -5,7 +5,7 @@ tags:
   - tag: chuvas
   - tag: alagamentos
   - tag: assentamento
-title: MST denúncia o descaso do poder público com os assentamentos de Mato Grosso do Sul
+title: MST denúncia o descaso do poder público com os assentamentos de MS
 support_line: A situação se agravou no último período com as fortes chuvas.
 menu: direitos humanos
 images_hd: //farm2.staticflickr.com/1561/24487825611_cefb8feafe_b.jpg
