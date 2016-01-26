@@ -8,7 +8,7 @@ title: MST manifesta defesa por reforma psiquiátrica brasileira
 support_line: Movimento defende reforma que humanize os tratamentos e não viole os direitos humanos.
 menu: direitos humanos
 images_hd: //farm2.staticflickr.com/1584/24396027492_768d36cbb4_b.jpg
-section: cover
+section: featured-news
 layout: post
 files:
   - link: //farm2.staticflickr.com/1584/24396027492_768d36cbb4_b.jpg
