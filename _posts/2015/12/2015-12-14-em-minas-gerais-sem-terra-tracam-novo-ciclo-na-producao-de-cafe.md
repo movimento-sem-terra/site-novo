@@ -191,3 +191,17 @@ A cooperativa, a organiza&ccedil;&atilde;o dos trabalhadores, das mulheres e a v
 
 <p><br />
 Marques coloca que um dos grandes desafios &eacute; pensar maneiras pr&aacute;ticas de quebrar a hegemonia do agroneg&oacute;cio e garantir a produ&ccedil;&atilde;o de alimentos de qualidade que possibilitem renda ao produtor e beneficie ao consumidor.</p>
+
+<p><br />
+<strong>Parcerias</strong></p>
+
+<p><br />
+Desde o in&iacute;cio de 2014, a Cooperativa Camponesa recebe o apoio da&nbsp;<span style="line-height: 20.8px;">Christian Aid,&nbsp;</span><span style="line-height: 20.8px;">uma ag&ecirc;ncia crist&atilde; de coopera&ccedil;&atilde;o internacional,&nbsp;</span><span style="line-height: 20.8px;">que se transformou em&nbsp;importante parceira neste processo de fortalecimento da cadeia produtiva do caf&eacute; sob bases org&acirc;nicas.</span></p>
+
+<p><br />
+O projeto conta com o apoio na aquisi&ccedil;&atilde;o de insumos org&acirc;nicos e com assessoria t&eacute;cnica permanente, criando perspectivas concretas para a transi&ccedil;&atilde;o agroecol&oacute;gica.</p>
+
+<p><br />
+Entre outras atividades, os associados podem trocar experi&ecirc;ncias com outras cooperativas de produ&ccedil;&atilde;o de caf&eacute; pelo mundo, como foi o caso das visitas &agrave;s &aacute;reas de produ&ccedil;&atilde;o na Nicar&aacute;gua e no Burundi, o que permite agregar conhecimentos imprescind&iacute;veis para que a cooperativa se consolide na produ&ccedil;&atilde;o org&acirc;nica.</p>
+
+<p><strong>&nbsp;</strong></p>
