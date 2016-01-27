@@ -30,7 +30,7 @@ releated_posts:
   - 2015/07/2015-07-02-vale-o-paradoxo-da-destruicao.md
   - 2015/11/2015-11-09-mst-participa-da-greve-do-petroleiros-no-parana.md
   - 2015/11/2015-11-09-diversos-movimentos-escrevem-carta-em-apoio-a-greve-dos-petroleiros.md
-section: null
+section: cover
 
 ---
 <p><img alt="Ocupação Sefaz 8.jpg" src="//farm2.staticflickr.com/1619/24536294292_ce2babc7e2_b.jpg" /></p>
