@@ -23,7 +23,7 @@ releated_posts:
   - 2015/10/2015-10-05-sem-terra-conquistam-liberacao-de-recursos-mato-grosso-do-sul.md
   - 2015/12/2015-12-03-familia-sem-terra-lutam-contra-despejo-no-ms.md
   - 2015/10/2015-10-07-familias-do-mst-e-mab-comemoram-conquista-de-assentamento-no-rs.md
-section: cover
+section: featured-news
 
 ---
 <p><img alt="Moisés Escobar Osório_assentado.jpg" src="//farm2.staticflickr.com/1561/24487825611_cefb8feafe_b.jpg" /></p>
