@@ -123,8 +123,7 @@ Um exemplo &eacute; a disciplina de Organiza&ccedil;&atilde;o do Trabalho e T&ea
 <p>&nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="DSC_0890!.jpg" src="//farm2.staticflickr.com/1560/24537082272_6919177b93_b.jpg" />
-<figcaption>Campo Experimental de Agricultura Camponesa e Reforma Agr&aacute;ria.<br />
-</figcaption>
+<figcaption>Campo Experimental de Agricultura Camponesa e Reforma Agr&aacute;ria.</figcaption>
 </figure>
 
 <p>Nossa forma&ccedil;&atilde;o &eacute; muito voltada para o conv&iacute;vio com o meio ambiente. A partir dos projetos e atividades que fazemos nas disciplinas, temos maior aproxima&ccedil;&atilde;o com a natureza e entendemos melhor como nos relacionar com ela&rdquo;, explica S&ocirc;nia dos Santos Paiva, de 15 anos e estudante do 1&ordm; ano.</p>
@@ -199,7 +198,7 @@ A partir de elementos das m&uacute;sicas populares e da vida no assentamento, a 
 <p>&nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="DSC_0776.jpg" src="//farm2.staticflickr.com/1463/24537455792_9664cb6777_b.jpg" />
-<figcaption></figcaption>
+<figcaption>Adriano Leonel, um dos entusiastas da Banda de Lata.</figcaption>
 </figure>
 
 <p>Todo o trabalho de constru&ccedil;&atilde;o das m&uacute;sicas foi feito com a participa&ccedil;&atilde;o dos pr&oacute;prios educandos, com a utiliza&ccedil;&atilde;o de t&eacute;cnicas que Adriano trazia de seu curso de Pedagogia.</p>
