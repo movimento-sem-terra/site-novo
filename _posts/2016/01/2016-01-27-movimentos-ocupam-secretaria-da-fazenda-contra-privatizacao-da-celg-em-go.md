@@ -42,7 +42,10 @@ section: cover
 Na manh&atilde; desta quarta-feira, manifestantes ligados ao MST, ao Movimento dos Atingidos por Barragens (MAB) e &agrave; Central &Uacute;nica dos Trabalhadores de Goi&aacute;s (CUT) ocuparam o pr&eacute;dio da Secretaria da Fazenda, em Bras&iacute;lia, e a&nbsp;sede da Secretaria da Fazenda do Estado de Goi&aacute;s.&nbsp;</p>
 
 <p><br />
-Segundo os manifestantes, a a&ccedil;&atilde;o &eacute; para evitar a privatiza&ccedil;&atilde;o das Centrais El&eacute;tricas de Goi&aacute;s (Celg)&nbsp;Distribui&ccedil;&atilde;o. A ocupa&ccedil;&atilde;o ocorre em paralelo a uma audi&ecirc;ncia com os ministros da Casa Civil, Jaques Wagner, e da Secretaria-Geral da Presid&ecirc;ncia da Rep&uacute;blica, Ricardo Berzoini, em Bras&iacute;lia, marcada para &agrave;s 10h desta quarta.</p>
+Segundo os manifestantes, a a&ccedil;&atilde;o &eacute; para evitar a privatiza&ccedil;&atilde;o do setor el&eacute;trico, que o governo federal pretende fazer vendendo as distribuidoras de energia que o sistema Eletrobr&aacute;s mant&eacute;m em Goi&aacute;s, Rond&ocirc;nia, Roraima, Amazonas, Piau&iacute;, Alagoas e Acre.&nbsp;</p>
+
+<p><br />
+A ocupa&ccedil;&atilde;o ocorre em paralelo a uma audi&ecirc;ncia com os ministros da Casa Civil, Jaques Wagner, e da Secretaria-Geral da Presid&ecirc;ncia da Rep&uacute;blica, Ricardo Berzoini, em Bras&iacute;lia, marcada para &agrave;s 10h desta quarta.</p>
 
 <p><br />
 O encontro com os ministros servir&aacute; para debater o setor el&eacute;trico e o plano do governo federal de privatizar as distribuidoras de energia da Eletrobr&aacute;s.</p>
