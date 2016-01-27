@@ -7,7 +7,7 @@ tags:
   - tag: petrobrás
 images_hd: //farm2.staticflickr.com/1619/24536294292_ce2babc7e2_b.jpg
 menu: lutas e mobilizações
-title: "Movimentos ocupam Secretaria da Fazenda contra privatização da Celg, em GO"
+title: Movimentos ocupam Secretarias da Fazenda contra privatização da Celg
 support_line: "A ocupação ocorre em paralelo a uma audiência com os ministros da Casa Civil, Jaques Wagner, e da Secretaria-Geral da Presidência, Ricardo Berzoini, em Brasília."
 layout: post
 files:
@@ -39,7 +39,7 @@ section: null
 <em>Da P&aacute;gina do MST*</em></p>
 
 <p><br />
-Na manh&atilde; desta quarta-feira, manifestantes ligados ao MST e &agrave; Central &Uacute;nica dos Trabalhadores de Goi&aacute;s (CUT) ocuparam a sede da Secretaria da Fazenda do Estado de Goi&aacute;s.&nbsp;</p>
+Na manh&atilde; desta quarta-feira, manifestantes ligados ao MST, ao Movimento dos Atingidos por Barragens (MAB) e &agrave; Central &Uacute;nica dos Trabalhadores de Goi&aacute;s (CUT) ocuparam o pr&eacute;dio da Secretaria da Fazenda, em Bras&iacute;lia, e a&nbsp;sede da Secretaria da Fazenda do Estado de Goi&aacute;s.&nbsp;</p>
 
 <p><br />
 Segundo os manifestantes, a a&ccedil;&atilde;o &eacute; para evitar a privatiza&ccedil;&atilde;o das Centrais El&eacute;tricas de Goi&aacute;s (Celg)&nbsp;Distribui&ccedil;&atilde;o. A ocupa&ccedil;&atilde;o ocorre em paralelo a uma audi&ecirc;ncia com os ministros da Casa Civil, Jaques Wagner, e da Secretaria-Geral da Presid&ecirc;ncia da Rep&uacute;blica, Ricardo Berzoini, em Bras&iacute;lia, marcada para &agrave;s 10h desta quarta.</p>
