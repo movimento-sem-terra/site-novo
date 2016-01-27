@@ -8,7 +8,7 @@ images_hd: //farm2.staticflickr.com/1452/24619589956_c0d5b38bee_b.jpg
 menu: "educação, cultura e comunicação"
 sector: education
 section: cover
-title: "Ao som das latas a horta madala, Sem Terra desenvolvem experiências educacionais no CE"
+title: "Do som das latas à horta madala, assim, Sem Terra desenvolvem experiências educacionais no CE"
 support_line: "De luta em luta, com criatividade e persistência, os Sem Terra do estado do Ceará desenvolvem diversas experiências sobre a educação do campo no estado."
 layout: post
 files:
