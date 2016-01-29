@@ -43,13 +43,19 @@ releated_posts:
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
-&ldquo;Sou uma mulher trans, Sem Terra, pedagoga e comprometida com a luta pela Reforma Agr&aacute;ria&rdquo;, afirma D&ecirc;, do Coletivo de Juventude e Forma&ccedil;&atilde;o do MST no Mato Grosso, ao contextualizar sua participa&ccedil;&atilde;o dentro do Movimento e sua milit&acirc;ncia em defesa de uma sociedade mais justa e igualit&aacute;ria.&nbsp;<br />
-<br />
-Com 25 anos e 19 milit&acirc;ncia, D&ecirc; conta que desde crian&ccedil;a j&aacute; sabia a sua identidade de g&ecirc;nero, mas, foi a partir dos 14 que conversou abertamente com a fam&iacute;lia e reafirmou-se quanto sujeito LGBT.&nbsp;<br />
-<br />
-Nascida e crescida em uma fam&iacute;lia que possui como base pol&iacute;tica os princ&iacute;pios organizativos do MST, D&ecirc; conta que n&atilde;o &eacute; f&aacute;cil ser uma mulher trans diante do preconceito e da viol&ecirc;ncia que existe no campo. &ldquo;J&aacute; ouvi muito: viado bom &eacute; viado morto!&rdquo;, destaca.&nbsp;<br />
-<br />
-Ela diz ainda que o MST, enquanto organiza&ccedil;&atilde;o de massa, tem como espa&ccedil;o de luta e centralidade de for&ccedil;as o campo. Pensando nisso, aponta que o Movimento surge liderado por homens heterossexuais, a partir de setores progressistas, como a Comiss&atilde;o Pastoral da Terra (CPT), reproduzindo uma concep&ccedil;&atilde;o patriarcal de fam&iacute;lia.</p>
+&ldquo;Sou uma mulher trans, Sem Terra, pedagoga e comprometida com a luta pela Reforma Agr&aacute;ria&rdquo;, afirma D&ecirc;, do Coletivo de Juventude e Forma&ccedil;&atilde;o do MST no Mato Grosso, ao contextualizar sua participa&ccedil;&atilde;o dentro do Movimento e sua milit&acirc;ncia em defesa de uma sociedade mais justa e igualit&aacute;ria.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Com 25 anos e 19 milit&acirc;ncia, D&ecirc; conta que desde crian&ccedil;a j&aacute; sabia a sua identidade de g&ecirc;nero, mas, foi a partir dos 14 que conversou abertamente com a fam&iacute;lia e reafirmou-se quanto sujeito LGBT.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Nascida e crescida em uma fam&iacute;lia que possui como base pol&iacute;tica os princ&iacute;pios organizativos do MST, D&ecirc; conta que n&atilde;o &eacute; f&aacute;cil ser uma mulher trans diante do preconceito e da viol&ecirc;ncia que existe no campo. &ldquo;J&aacute; ouvi muito: viado bom &eacute; viado morto!&rdquo;, destaca.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Ela diz ainda que o MST, enquanto organiza&ccedil;&atilde;o de massa, tem como espa&ccedil;o de luta e centralidade de for&ccedil;as o campo. Pensando nisso, aponta que o Movimento surge liderado por homens heterossexuais, a partir de setores progressistas, como a Comiss&atilde;o Pastoral da Terra (CPT), reproduzindo uma concep&ccedil;&atilde;o patriarcal de fam&iacute;lia.</p>
 
 <p><br />
 Neste contexto, &ldquo;o nosso Movimento n&atilde;o nasce diferente apesar do ideal libert&aacute;rio e o campo das inst&acirc;ncias acaba se tornando um campo de disputa, que se reproduz o discurso sobre os padr&otilde;es e determinamos o que &eacute; ser um dirigente&rdquo;.&nbsp;</p>
@@ -64,8 +70,10 @@ Neste contexto, &ldquo;o nosso Movimento n&atilde;o nasce diferente apesar do id
 Pensando nisso, ela diz que um dos pontos principais para o MST avan&ccedil;ar nessa pauta &eacute; impulsionar e construir lutas contra o conservadorismo na estrat&eacute;gia pol&iacute;tica.</p>
 
 <p><br />
-&ldquo;Este debate dentro do Movimento surge a partir da auto-organiza&ccedil;&atilde;o dos sujeitos LGBT Sem Terra presentes nas inst&acirc;ncias, sendo essa uma decis&atilde;o acertada para construirmos a Reforma Agr&aacute;ria Popular&rdquo;.&nbsp;<br />
-&ldquo;N&oacute;s LGBTs estamos organizados desde a base do Movimento, nos assentamentos e acampamentos, at&eacute; os setores que comp&otilde;em a organicidade, como a educa&ccedil;&atilde;o e frente de massa. Mesmo assim, o nosso Movimento tem dificuldade em aceitar a diversidade&rdquo;, contextualiza.&nbsp;</p>
+&ldquo;Este debate dentro do Movimento surge a partir da auto-organiza&ccedil;&atilde;o dos sujeitos LGBT Sem Terra presentes nas inst&acirc;ncias, sendo essa uma decis&atilde;o acertada para construirmos a Reforma Agr&aacute;ria Popular&rdquo;.&nbsp;</p>
+
+<p><br />
+&ldquo;N&oacute;s LGBTs estamos organizados desde a base do Movimento, nos assentamentos e acampamentos, at&eacute; os setores que comp&otilde;em a organicidade, como a educa&ccedil;&atilde;o e frente de massa. Mesmo assim, o nosso Movimento tem dificuldade em aceitar a diversidade&rdquo;, diz.&nbsp;</p>
 
 <p>&nbsp;</p>
 
