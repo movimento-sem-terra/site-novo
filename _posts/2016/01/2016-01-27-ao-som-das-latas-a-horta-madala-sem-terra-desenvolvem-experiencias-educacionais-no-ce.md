@@ -7,7 +7,7 @@ tags:
 images_hd: //farm2.staticflickr.com/1452/24619589956_c0d5b38bee_b.jpg
 menu: "educação, cultura e comunicação"
 sector: education
-section: cover
+section: featured-news
 title: " Sem Terra usam a criatividade para desenvolver experiências educacionais no Ceará"
 support_line: "De luta em luta, com criatividade e persistência, os Sem Terra do estado do Ceará desenvolvem diversas experiências sobre a educação do campo no estado."
 layout: post
