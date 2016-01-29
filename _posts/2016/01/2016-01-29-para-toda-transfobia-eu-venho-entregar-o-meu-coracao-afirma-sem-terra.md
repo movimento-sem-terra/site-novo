@@ -6,7 +6,7 @@ tags:
   - tag: igualdade
   - tag: direitos-humanos
   - tag: lgbt
-title: "\"Contra toda transfobia eu venho oferecer meu coração\", afirma Sem Terra"
+title: "“Sou uma mulher trans, Sem Terra, pedagoga e comprometida com a luta pela Reforma Agrária”"
 images_hd: //farm2.staticflickr.com/1463/24688620875_32ae835420_b.jpg
 support_line: "O dia 29 de janeiro é marcado como o Dia da Visibilidade Trans e tem o objetivo de ressaltar a importância da diversidade e o respeito para o Movimento Trans em todo país. "
 menu: direitos humanos
