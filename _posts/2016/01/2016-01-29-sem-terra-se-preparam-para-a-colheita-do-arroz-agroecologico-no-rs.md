@@ -1,11 +1,11 @@
 ---
-date: "2016-01-29T09:28:05-02:00"
+date: "2016-01-29T00:00:05-02:00"
 tags:
   - tag: produção
   - tag: reforma-agrária
   - tag: arroz-agroecológico
 title: Sem Terra se preparam para a colheita do arroz agroecológico no RS
-section: cover
+section: null
 menu: reforma agrária
 sector: production
 images_hd: //farm2.staticflickr.com/1572/24318731819_ed642d2b6c_b.jpg
