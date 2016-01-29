@@ -42,8 +42,16 @@ releated_posts:
   - 2015/12/2015-12-01-juventude-aponta-trabalho-de-base-como-um-dos-principais-desafios-o-proximo-periodo.md
 
 ---
-<p><img alt="IMG_9159.JPG" height="467" src="//farm2.staticflickr.com/1594/24692345515_9a4cfed880_b.jpg" width="700" /><br />
-&nbsp;</p>
+<p><img alt="IMG_9159.JPG" height="467" src="//farm2.staticflickr.com/1594/24692345515_9a4cfed880_b.jpg" width="700" /></p>
+
+<p style="line-height: 20.8px;">&nbsp;</p>
+
+<p style="line-height: 20.8px;"><em>Por Antonio Kanova<br />
+Da P&aacute;gina do MST</em></p>
+
+<p style="line-height: 20.8px;"><em>Fotos&nbsp;<span style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px; line-height: normal;">Rafael Batista</span></em></p>
+
+<p>&nbsp;</p>
 
 <p><span style="line-height: 20.8px;">Entre os dias 13 e 29 de janeiro,&nbsp;</span>57 jovens Sem Terra&nbsp;vindos&nbsp;dos estados da regi&atilde;o Sul do pa&iacute;s e de&nbsp;Pernambuco reuniram-se em Veran&oacute;polis, na Serra ga&uacute;cha, para debater os desafios da Reforma Agr&aacute;ria Popular e&nbsp;as tarefas de organiza&ccedil;&atilde;o da juventude&nbsp;dentro dos acampamentos e assentamento.&nbsp;</p>
 
@@ -60,14 +68,15 @@ J&aacute; Patr&iacute;cia Matos, educanda que participou da forma&ccedil;&atilde
 
 <p><img alt="IMG_9133.JPG" height="467" src="//farm2.staticflickr.com/1560/24598837891_5c50ff407d_b.jpg" width="700" /></p>
 
-<p><br />
-Durante os dias de forma&ccedil;&atilde;o os jovens estudaram a&nbsp;hist&oacute;ria da luta pela terra,&nbsp;do MST e&nbsp;a quest&atilde;o agr&aacute;ria no pa&iacute;s, a juventude tamb&eacute;m teve a oportunidade de conhecer a hist&oacute;ria das revolu&ccedil;&otilde;es na Am&eacute;rica Latina, perpassando desde a revolu&ccedil;&atilde;o mexicana at&eacute; o legado do comandante Che Guevara.&nbsp;</p>
+<p>&nbsp;</p>
+
+<p>Durante os dias de forma&ccedil;&atilde;o os jovens estudaram a&nbsp;hist&oacute;ria da luta pela terra,&nbsp;do MST e&nbsp;a quest&atilde;o agr&aacute;ria no pa&iacute;s, a juventude tamb&eacute;m teve a oportunidade de conhecer a hist&oacute;ria das revolu&ccedil;&otilde;es na Am&eacute;rica Latina, perpassando desde a revolu&ccedil;&atilde;o mexicana at&eacute; o legado do comandante Che Guevara.&nbsp;</p>
 
 <p>&nbsp;</p>
 
 <p style="line-height: 20.8px;">Lucas Nogueira, do coletivo de acompanhamento pol&iacute;tico e pedag&oacute;gico ressalta a identidade revolucion&aacute;ria do curso. &nbsp;<br />
 <br />
-&ldquo;O primeiro contado da juventude &eacute; o Che, tendo ele como uma referencia revolucion&aacute;ria&rdquo;, explicou Lucas Nogueira, do coletivo de acompanhamento pol&iacute;tico e pedag&oacute;gico&quot;, conclu&iacute;.&nbsp;</p>
+&ldquo;O primeiro contado da juventude &eacute; o Che, tendo ele como uma referencia revolucion&aacute;ria&rdquo;, explicou Lucas Nogueira, do coletivo de acompanhamento pol&iacute;tico e pedag&oacute;gico.&nbsp;</p>
 
 <p><br />
 Os jovens tamb&eacute;m realizaram oficinas de teatro, batucada, palha&ccedil;o e produ&ccedil;&otilde;es de materiais. A ideia &eacute; que as aulas&nbsp;sejam reproduzidas para a juventude dos acampamentos, assentamento e nas escolas do campo.&nbsp;</p>
