@@ -6,7 +6,7 @@ tags:
   - tag: igualdade
   - tag: direitos-humanos
   - tag: lgbt
-title: "“Para toda transfobia eu venho entregar o meu coração”, afirma Sem Terra"
+title: "\"Contra toda transfobia eu venho oferecer meu coração\", afirma Sem Terra"
 images_hd: //farm2.staticflickr.com/1463/24688620875_32ae835420_b.jpg
 support_line: "O dia 29 de janeiro é marcado como o Dia da Visibilidade Trans e tem o objetivo de ressaltar a importância da diversidade e o respeito para o Movimento Trans em todo país. "
 menu: direitos humanos
@@ -116,4 +116,4 @@ O dia da Visibilidade Trans no Brasil, comemorado em 29 de janeiro, &eacute; uma
 Fortalecendo essa luta nacional e construindo uma unidade pol&iacute;tica em defesa dos direitos da classe trabalhadora, o MST reafirma seu compromisso por uma sociedade livre de todas as opress&otilde;es a partir do ensaio fotogr&aacute;fico &ldquo;MST contra TRANSfobia&rdquo;.</p>
 
 <p><br />
-Neste sentido, a D&ecirc; afirma&nbsp;levantar&nbsp;a bandeira da diversidade e da luta popular, e diz que &ldquo;para toda transfobia eu venho entregar o meu cora&ccedil;&atilde;o&rdquo;.</p>
+Neste sentido, a D&ecirc; afirma&nbsp;levantar&nbsp;a bandeira da diversidade e da luta popular, e diz que &quot;Contra toda transfobia eu venho oferecer meu cora&ccedil;&atilde;o&quot;.</p>
