@@ -25,6 +25,18 @@ files:
     small: //farm2.staticflickr.com/1463/24688620875_32ae835420_n.jpg
     title: IMG_3460.jpg
     $$hashKey: "030"
+  - link: //farm2.staticflickr.com/1648/24062171743_5a112cb06b_b.jpg
+    thumbnail: //farm2.staticflickr.com/1648/24062171743_5a112cb06b_t.jpg
+    medium: //farm2.staticflickr.com/1648/24062171743_5a112cb06b_z.jpg
+    small: //farm2.staticflickr.com/1648/24062171743_5a112cb06b_n.jpg
+    title: IMG_3395.jpg
+    $$hashKey: 0HB
+  - link: //farm2.staticflickr.com/1471/24060864124_537404aa9b_b.jpg
+    thumbnail: //farm2.staticflickr.com/1471/24060864124_537404aa9b_t.jpg
+    medium: //farm2.staticflickr.com/1471/24060864124_537404aa9b_z.jpg
+    small: //farm2.staticflickr.com/1471/24060864124_537404aa9b_n.jpg
+    title: IMG_3455.jpg
+    $$hashKey: 0HE
 created_date: "2016-01-29T12:20:13-02:00"
 published: true
 releated_posts:
@@ -37,34 +49,35 @@ releated_posts:
 <figcaption>D&ecirc;, do Coletivo de Juventude e Forma&ccedil;&atilde;o do MST&nbsp;</figcaption>
 </figure>
 
-<p>&nbsp;</p>
-
-<p><em>Por Por Jailma Lopes e&nbsp;Wesley Lima&nbsp;<br />
+<p><br />
+<em>Por Por Jailma Lopes e&nbsp;Wesley Lima&nbsp;<br />
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
 &ldquo;Sou uma mulher trans, Sem Terra, pedagoga e comprometida com a luta pela Reforma Agr&aacute;ria&rdquo;, afirma D&ecirc;, do Coletivo de Juventude e Forma&ccedil;&atilde;o do MST no Mato Grosso, ao contextualizar sua participa&ccedil;&atilde;o dentro do Movimento e sua milit&acirc;ncia em defesa de uma sociedade mais justa e igualit&aacute;ria.&nbsp;</p>
 
-<p>&nbsp;</p>
-
-<p>Com 25 anos e 19 milit&acirc;ncia, D&ecirc; conta que desde crian&ccedil;a j&aacute; sabia a sua identidade de g&ecirc;nero, mas, foi a partir dos 14 que conversou abertamente com a fam&iacute;lia e reafirmou-se quanto sujeito LGBT.&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>Nascida e crescida em uma fam&iacute;lia que possui como base pol&iacute;tica os princ&iacute;pios organizativos do MST, D&ecirc; conta que n&atilde;o &eacute; f&aacute;cil ser uma mulher trans diante do preconceito e da viol&ecirc;ncia que existe no campo. &ldquo;J&aacute; ouvi muito: viado bom &eacute; viado morto!&rdquo;, destaca.&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>Ela diz ainda que o MST, enquanto organiza&ccedil;&atilde;o de massa, tem como espa&ccedil;o de luta e centralidade de for&ccedil;as o campo. Pensando nisso, aponta que o Movimento surge liderado por homens heterossexuais, a partir de setores progressistas, como a Comiss&atilde;o Pastoral da Terra (CPT), reproduzindo uma concep&ccedil;&atilde;o patriarcal de fam&iacute;lia.</p>
+<p><br />
+Com 25 anos e 19 de milit&acirc;ncia, D&ecirc; conta que desde crian&ccedil;a j&aacute; sabia a sua identidade de g&ecirc;nero, mas&nbsp;foi a partir dos 14 que conversou abertamente com a fam&iacute;lia e se reafirmou&nbsp;quanto sujeito LGBT.&nbsp;</p>
 
 <p><br />
-Neste contexto, &ldquo;o nosso Movimento n&atilde;o nasce diferente apesar do ideal libert&aacute;rio e o campo das inst&acirc;ncias acaba se tornando um campo de disputa, que se reproduz o discurso sobre os padr&otilde;es e determinamos o que &eacute; ser um dirigente&rdquo;.&nbsp;</p>
+Nascida e crescida numa fam&iacute;lia que possui como base pol&iacute;tica os princ&iacute;pios organizativos do MST, D&ecirc; conta que n&atilde;o &eacute; f&aacute;cil ser uma mulher trans diante do preconceito e da viol&ecirc;ncia que existe no campo. &ldquo;J&aacute; ouvi muito: viado bom &eacute; viado morto!&rdquo;, conta.&nbsp;</p>
+
+<p><br />
+Ela diz ainda que o MST, enquanto organiza&ccedil;&atilde;o de massa, tem como espa&ccedil;o de luta e centralidade de for&ccedil;as o Campo. Nesse sentido, aponta que o Movimento surge liderado por homens heterossexuais, a partir de setores progressistas, como a Comiss&atilde;o Pastoral da Terra (CPT), reproduzindo uma concep&ccedil;&atilde;o patriarcal de fam&iacute;lia.</p>
+
+<p>&nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="IMG_3395.jpg" src="//farm2.staticflickr.com/1648/24062171743_5a112cb06b_b.jpg" />
+<figcaption></figcaption>
+</figure>
+
+<p>Neste contexto, &ldquo;o nosso Movimento n&atilde;o nasce diferente, apesar do ideal libert&aacute;rio, e o campo das inst&acirc;ncias acaba se tornando um campo de disputa, que se reproduz o discurso sobre os padr&otilde;es e determinamos o que &eacute; ser um dirigente&rdquo;.&nbsp;</p>
 
 <p><br />
 &ldquo;N&atilde;o &eacute; f&aacute;cil discutir a diversidade dentro do Movimento. Olha quanto tempo demoramos para dialogar essas quest&otilde;es. N&atilde;o tem como discutir Reforma Agr&aacute;ria Popular sem o protagonismo dos sujeitos que a constr&oacute;i&rdquo;, afirma.&nbsp;</p>
 
 <p><br />
-&ldquo;&Eacute; muito importante quando abrimos esse tema falar das rela&ccedil;&otilde;es de g&ecirc;nero e &nbsp;sexualidade, j&aacute; que temos um grande ac&uacute;mulo de lutas em defesa da Reforma Agr&aacute;ria. O Movimento n&atilde;o &eacute; uma caixinha e quando se trata de rela&ccedil;&otilde;es de g&ecirc;nero temos muito para avan&ccedil;ar&rdquo;, explica.&nbsp;</p>
+Para ela, &ldquo;&eacute;&nbsp;muito importante quando abrimos esse tema e falamos&nbsp;das rela&ccedil;&otilde;es de g&ecirc;nero e&nbsp;sexualidade, j&aacute; que temos um grande ac&uacute;mulo de lutas em defesa da Reforma Agr&aacute;ria. O Movimento n&atilde;o &eacute; uma caixinha, e quando se trata de rela&ccedil;&otilde;es de g&ecirc;nero temos muito para avan&ccedil;ar&rdquo;, explica.</p>
 
 <p><br />
 Pensando nisso, ela diz que um dos pontos principais para o MST avan&ccedil;ar nessa pauta &eacute; impulsionar e construir lutas contra o conservadorismo na estrat&eacute;gia pol&iacute;tica.</p>
@@ -75,15 +88,20 @@ Pensando nisso, ela diz que um dos pontos principais para o MST avan&ccedil;ar n
 <p><br />
 &ldquo;N&oacute;s LGBTs estamos organizados desde a base do Movimento, nos assentamentos e acampamentos, at&eacute; os setores que comp&otilde;em a organicidade, como a educa&ccedil;&atilde;o e frente de massa. Mesmo assim, o nosso Movimento tem dificuldade em aceitar a diversidade&rdquo;, diz.&nbsp;</p>
 
-<p>&nbsp;</p>
+<p><br />
+&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="IMG_3455.jpg" src="//farm2.staticflickr.com/1471/24060864124_537404aa9b_b.jpg" />
+<figcaption></figcaption>
+</figure>
 
 <p><strong>Avan&ccedil;os</strong></p>
 
 <p><br />
-Os LGBTs Sem Terra v&ecirc;m realizando diversas atividades de estudos e debates, a fim de acumular politicamente em torno das rela&ccedil;&otilde;es de g&ecirc;nero e como esta, influ&ecirc;ncia diretamente nas viv&ecirc;ncias dos sujeitos nas &aacute;reas de Reforma Agr&aacute;ria.</p>
+Os LGBTs Sem Terra v&ecirc;m realizando diversas atividades de estudos e debates, a fim de acumular politicamente em torno das rela&ccedil;&otilde;es de g&ecirc;nero e como isso influencia diretamente nas viv&ecirc;ncias dos sujeitos nas &aacute;reas de Reforma Agr&aacute;ria.</p>
 
 <p><br />
-Nacionalmente, o Movimento construiu o Semin&aacute;rio &ldquo;MST e a Diversidade Sexual&rdquo;, um grupo de estudos na Escola Nacional Florestan Fernandes (ENFF) e diversas interven&ccedil;&otilde;es pol&iacute;ticas e espa&ccedil;os auto-organizados nos estados.</p>
+Nacionalmente, o Movimento construiu o Semin&aacute;rio &ldquo;MST e a Diversidade Sexual&rdquo;, um grupo de estudos na Escola Nacional Florestan Fernandes (ENFF), e diversas interven&ccedil;&otilde;es pol&iacute;ticas e espa&ccedil;os auto-organizados nos estados.</p>
 
 <p><br />
 Diante dessas iniciativas, D&ecirc; acrescenta que precisamos continuar com as lutas e ocupar o MST com a diversidade, colorindo a Reforma Agr&aacute;ria Popular.&nbsp;</p>
@@ -98,4 +116,4 @@ O dia da Visibilidade Trans no Brasil, comemorado em 29 de janeiro, &eacute; uma
 Fortalecendo essa luta nacional e construindo uma unidade pol&iacute;tica em defesa dos direitos da classe trabalhadora, o MST reafirma seu compromisso por uma sociedade livre de todas as opress&otilde;es a partir do ensaio fotogr&aacute;fico &ldquo;MST contra TRANSfobia&rdquo;.</p>
 
 <p><br />
-Neste sentido, a D&ecirc; conclu&iacute; levantando a bandeira da diversidade e da luta popular. Afirmando &ldquo;para toda transfobia eu venho entregar o meu cora&ccedil;&atilde;o&rdquo;.</p>
+Neste sentido, a D&ecirc; afirma&nbsp;levantar&nbsp;a bandeira da diversidade e da luta popular, e diz que &ldquo;para toda transfobia eu venho entregar o meu cora&ccedil;&atilde;o&rdquo;.</p>
