@@ -37,18 +37,16 @@ releated_posts:
 ---
 <p>&nbsp;</p>
 
-<p>Da P&aacute;gina do MST&nbsp;</p>
+<p><em>Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
-120 fam&iacute;lias Sem Terra ocuparam na manha desta quarta-feira (27), a Fazenda Santa Cruz, no munic&iacute;pio de Mirante do Paranapanema, no Pontal do Paranapanema, extremo Oeste de S&atilde;o Paulo.</p>
+Cento e vinte fam&iacute;lias Sem Terra ocuparam, na manh&atilde;&nbsp;desta quarta-feira (27), a Fazenda Santa Cruz, no munic&iacute;pio de Mirante do Paranapanema, extremo Oeste de S&atilde;o Paulo.</p>
 
 <p><br />
-Cledson Mendes da dire&ccedil;&atilde;o estadual do MST a ocupa&ccedil;&atilde;o foi feita com o objetivo de pressionar o governo do Estado a cumprir com a decis&atilde;o de judicial de destinar toda a &aacute;rea para fins de Reforma Agr&aacute;ria.&nbsp;</p>
+Para Cledson Mendes, da dire&ccedil;&atilde;o estadual do MST, a ocupa&ccedil;&atilde;o foi feita com o objetivo de pressionar o governo estadual a cumprir com a decis&atilde;o judicial de destinar toda a &aacute;rea para fins de Reforma Agr&aacute;ria.&nbsp;</p>
 
 <p><br />
-Esta &eacute; uma &aacute;rea devoluta, a pessoa que se diz propriet&aacute;ria n&atilde;o quer acatar uma decis&atilde;o judicial de 1998, que decretou que toda a &aacute;rea fosse destinada para a constru&ccedil;&atilde;o de assentamentos. Hoje apenas 30% do local conta com acampamentos Sem Terra, os outros 70% continua em m&atilde;os erradas. Estamos aqui para cobrar isso do governo do Estado&rdquo;, afirma.&nbsp;</p>
+&quot;Esta &eacute; uma &aacute;rea devoluta. A&nbsp;pessoa que se diz propriet&aacute;ria n&atilde;o quer acatar uma decis&atilde;o judicial de 1998, que decretou que toda a &aacute;rea fosse destinada para a constru&ccedil;&atilde;o de assentamentos. Hoje apenas 30% do local conta com acampamentos Sem Terra, os outros 70% continuam em m&atilde;os erradas. Estamos aqui para cobrar isso do governo do Estado&rdquo;, afirma.&nbsp;</p>
 
 <p><br />
-Atualmente em toda a regi&atilde;o Oeste do estado mais de 400 fam&iacute;lias Sem Terra seguem acampadas, muitas esperam h&aacute; mais de cinco anos, parte dessas em &aacute;reas s&atilde;o precarizadas, falta estrutura b&aacute;sica para que as fam&iacute;lias possam seguir com dignidade.&nbsp;</p>
-
-<p>&nbsp;</p>
+Atualmente, em toda a regi&atilde;o Oeste do estado, mais de 400 fam&iacute;lias Sem Terra seguem acampadas, muitas h&aacute; mais de cinco anos, parte dessas em &aacute;reas s&atilde;o precarizadas, falta estrutura b&aacute;sica para que as fam&iacute;lias possam seguir com dignidade.</p>
