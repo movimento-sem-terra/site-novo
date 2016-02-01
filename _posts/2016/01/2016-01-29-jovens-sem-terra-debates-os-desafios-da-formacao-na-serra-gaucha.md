@@ -4,7 +4,7 @@ tags:
   - tag: formação
   - tag: juventude
   - tag: rio-grande-do-sul
-title: "Jovens Sem Terra debates os desafios da formação na Serra Gaúcha "
+title: "Jovens Sem Terra debatem os desafios da formação na Serra Gaúcha "
 images_hd: //farm2.staticflickr.com/1564/24598840581_56d6664494_b.jpg
 menu: "educação, cultura e comunicação"
 support_line: "O encontro analisou o atual cenário político, e avaliou os desafios apresentados para o próximo período."
