@@ -4,7 +4,7 @@ tags:
   - tag: carnaval
   - tag: Sem-Terra
   - tag: reforma-agrária
-title: "Escola de samba faz homenagem aos agricultores familiares e Adão Pretto, um dos fundadores do MST"
+title: "Em Porto Alegre, escola de samba faz homenagem à Adão Pretto e a agricultura familiar"
 support_line: "Samba-enredo será apresentado no Carnaval de Porto Alegre (RS), na madrugada do dia 7 de fevereiro."
 images_hd: //farm2.staticflickr.com/1556/24129388653_c237794b03_b.jpg
 menu: "educação, cultura e comunicação"
@@ -125,5 +125,9 @@ Caleja as m&atilde;os e alimenta a alma<br />
 Gl&oacute;rias de um agricultor, heran&ccedil;a de um vencedor<br />
 Ga&uacute;cho fiel a lutar, Ad&atilde;o a nos guiar do c&eacute;u<br />
 Nessa jornada a caminhar<br />
-Vamos te homenagear com nossa Vila Isabel<br />
-​</em></p>
+Vamos te homenagear com nossa Vila Isabel</em></p>
+
+<p>&nbsp;</p>
+
+<p><br />
+<em>​</em></p>
