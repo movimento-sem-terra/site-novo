@@ -5,7 +5,7 @@ tags:
   - tag: formação
   - tag: educação-Sem-Terra
   - tag: escolas-itinerantes
-title: Educadores se formam em Curso de Especialização em Educação do campo no Paraná
+title: Educadores se formam em Curso de Especialização  no Paraná
 support_line: Os estudantes apresentaram seus trabalhos de conclusão de curso que tiveram como objeto de estudo e análise a própria prática educativa desenvolvida no chão das escolas do campo.
 images_hd: //farm2.staticflickr.com/1646/24127887254_b6d5541d17_b.jpg
 menu: "educação, cultura e comunicação"
