@@ -51,10 +51,7 @@ Da P&aacute;gina do MST</em></p>
 
 <p>Por meio de uma iniciativa da Escola de Samba Unidos de Vila Isabel, do munic&iacute;pio de Viam&atilde;o, na regi&atilde;o Metropolitana de Porto Alegre, Ad&atilde;o Pretto, ex-deputado e um dos fundadores do MST, ser&aacute; homenageado no Carnaval da Capital ga&uacute;cha deste ano.<br />
 <br />
-A homenagem se d&aacute; pelo envolvimento que o parlamentar &ndash; falecido em 2009 &ndash; teve com a Vila Santa Isabel ao se mudar com sua fam&iacute;lia de Miragua&iacute;, no Noroeste do estado, em 1986, para assumir uma cadeira na</p>
-
-<p><br />
-Assembleia Legislativa do Rio Grande do Sul, e tamb&eacute;m por algumas das principais bandeiras defendidas por ele: a agricultura familiar e a produ&ccedil;&atilde;o de alimentos saud&aacute;veis.</p>
+A homenagem se d&aacute; pelo envolvimento que o parlamentar &ndash; falecido em 2009 &ndash; teve com a Vila Santa Isabel ao se mudar com sua fam&iacute;lia de Miragua&iacute;, no Noroeste do estado, em 1986, para assumir uma cadeira na&nbsp;Assembleia Legislativa do Rio Grande do Sul, e tamb&eacute;m por algumas das principais bandeiras defendidas por ele: a agricultura familiar e a produ&ccedil;&atilde;o de alimentos saud&aacute;veis.</p>
 
 <p><br />
 &ldquo;A nossa fam&iacute;lia sempre teve um compromisso com Viam&atilde;o, em especial com a comunidade da Santa Isabel, que nos acolheu quando o pai foi eleito e fomos morar l&aacute;. &Eacute; uma alegria muito grande ver esta homenagem, n&atilde;o s&oacute; ao primeiro colono que se tornou deputado, mas ao importante e estrat&eacute;gico trabalho de agricultura familiar&rdquo;, diz Ad&atilde;o Pretto Filho, filho mais novo de Ad&atilde;o.</p>
