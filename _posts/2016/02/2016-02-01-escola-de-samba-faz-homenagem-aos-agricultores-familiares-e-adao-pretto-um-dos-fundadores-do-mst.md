@@ -4,7 +4,7 @@ tags:
   - tag: carnaval
   - tag: Sem-Terra
   - tag: reforma-agrária
-title: "Em Porto Alegre, escola de samba faz homenagem à Adão Pretto e a agricultura familiar"
+title: "Em Porto Alegre, escola de samba faz homenagem a Adão Pretto e a agricultura familiar"
 support_line: "Samba-enredo será apresentado no Carnaval de Porto Alegre (RS), na madrugada do dia 7 de fevereiro."
 images_hd: //farm2.staticflickr.com/1556/24129388653_c237794b03_b.jpg
 menu: "educação, cultura e comunicação"
