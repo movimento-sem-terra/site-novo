@@ -84,7 +84,7 @@ Ser&atilde;o em torno de 1500 pessoas desfilando &ndash; entre elas, acampados, 
 <img alt="Foto Leandro Molina (2).JPG" height="467" src="//farm2.staticflickr.com/1475/24128115534_074a9fd325_b.jpg" width="700" /></p>
 
 <p><br />
-<strong>Abaixo confira a e o v&iacute;deo com samba-enredo da escola:</strong><br />
+<strong>Abaixo confira o samba-enredo da escola:</strong><br />
 <br />
 Brava gente guerreira: As m&atilde;os que alimentam a na&ccedil;&atilde;o brasileira</p>
 
