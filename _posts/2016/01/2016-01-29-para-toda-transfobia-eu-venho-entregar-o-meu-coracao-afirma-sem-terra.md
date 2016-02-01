@@ -10,7 +10,7 @@ title: "“Sou uma mulher trans, Sem Terra, pedagoga e comprometida com a luta p
 images_hd: //farm2.staticflickr.com/1463/24688620875_32ae835420_b.jpg
 support_line: "O dia 29 de janeiro é marcado como o Dia da Visibilidade Trans e tem o objetivo de ressaltar a importância da diversidade e o respeito para o Movimento Trans em todo país. "
 menu: direitos humanos
-section: cover
+section: featured-news
 layout: post
 files:
   - link: //farm2.staticflickr.com/1697/24393107110_32e4cfc727_b.jpg
