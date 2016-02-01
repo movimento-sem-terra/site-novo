@@ -6,7 +6,7 @@ tags:
   - tag: escola-nacional-florestan-fernades
 section: tv
 video: "https://www.youtube.com/watch?v=ycotsNxotgg&feature=youtu.be"
-title: "ENFF na batalha de ideia: 10 anos da Escola Nacional Fernandes"
+title: "ENFF na batalha das ideias: 10 anos da Escola Nacional Fernandes"
 menu: "educação, cultura e comunicação"
 sector: education
 support_line: Vídeo apresenta as principais concepções no campo da formação política que a ENFF desenvolveu nos seus primeiros 10 anos de atividades.
