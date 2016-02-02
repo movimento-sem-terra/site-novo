@@ -4,8 +4,14 @@ $(document).ready(function() {
     var p  = posts.splice(0,6);
 
     $.each(p, function(index, post){
+
+      var iframeVideo = '';
+      if(!!post.video){
+        iframeVideo = '<iframe width="100%" src="'+post.video+'" allowfullscreen frameborder="0"></iframe>';
+      }
+
       var article = '<article class="headline">'+
-        '<iframe width="100%" src="'+post.video+'" allowfullscreen frameborder="0"></iframe>'+
+        iframeVideo +
         '<h1>'+
         '<a href="'+post.url+'">'+post.title+'</a>'+
         '</h1>'+
