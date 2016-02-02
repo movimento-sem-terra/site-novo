@@ -9,7 +9,7 @@ tags:
 title: "MST: Estamos entrando num novo período histórico da luta de classes"
 support_line: "Confira a Carta de Caruaru, em que o MST apresenta o balanço crítico do atual momento político e as perspectivas para o próximo período.\n"
 images_hd: //farm2.staticflickr.com/1572/24684668271_59fd9d87c0_b.jpg
-section: cover
+section: null
 menu: reforma agrária
 layout: post
 files:
