@@ -40,16 +40,16 @@ releated_posts:
   - 2015/02/2015-02-11-abram-alas-a-unidos-da-lona-preta.md
 
 ---
-<p>&nbsp;</p>
+<p><img alt="Foto Leandro Molina.jpg" src="//farm2.staticflickr.com/1556/24129388653_c237794b03_b.jpg" /></p>
 
-<p><em>Por Catiana de Medeiros<br />
+<p><br />
+<em>Por Catiana de Medeiros<br />
 Da P&aacute;gina do MST</em></p>
 
 <p><em>Fotos: Leandro Molina&nbsp;</em></p>
 
-<p>&nbsp;</p>
-
-<p>Por meio de uma iniciativa da Escola de Samba Unidos de Vila Isabel, do munic&iacute;pio de Viam&atilde;o, na regi&atilde;o Metropolitana de Porto Alegre, Ad&atilde;o Pretto, ex-deputado e um dos fundadores do MST, ser&aacute; homenageado no Carnaval da Capital ga&uacute;cha deste ano.<br />
+<p><br />
+Por meio de uma iniciativa da Escola de Samba Unidos de Vila Isabel, do munic&iacute;pio de Viam&atilde;o, na regi&atilde;o Metropolitana de Porto Alegre, Ad&atilde;o Pretto, ex-deputado e um dos fundadores do MST, ser&aacute; homenageado no Carnaval da Capital ga&uacute;cha deste ano.<br />
 <br />
 A homenagem se d&aacute; pelo envolvimento que o parlamentar &ndash; falecido em 2009 &ndash; teve com a Vila Santa Isabel ao se mudar com sua fam&iacute;lia de Miragua&iacute;, no Noroeste do estado, em 1986, para assumir uma cadeira na&nbsp;Assembleia Legislativa do Rio Grande do Sul, e tamb&eacute;m por algumas das principais bandeiras defendidas por ele: a agricultura familiar e a produ&ccedil;&atilde;o de alimentos saud&aacute;veis.</p>
 
