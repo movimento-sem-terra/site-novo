@@ -1,6 +1,11 @@
 ---
 date: "2016-02-02T17:25:15-02:00"
-tags: []
+tags:
+  - tag: reforma-agrária
+  - tag: mst
+  - tag: economia
+  - tag: política
+  - tag: carta-de-caruaru
 title: "MST: Estamos entrando num novo período histórico da luta de classes"
 support_line: "Confira a Carta de Caruaru, em que o MST apresenta o balanço crítico do atual momento político e as perspectivas para o próximo período.\n"
 images_hd: //farm2.staticflickr.com/1572/24684668271_59fd9d87c0_b.jpg
@@ -16,10 +21,18 @@ files:
     $$hashKey: 02X
 created_date: "2016-02-02T17:31:50-02:00"
 published: true
-releated_posts: []
+releated_posts:
+  - 2016/01/2016-01-22-no-rs-sem-terra-prometem-intensificar-a-luta-por-reforma-agraria.md
+  - 2016/01/2016-01-27-ao-som-das-latas-a-horta-madala-sem-terra-desenvolvem-experiencias-educacionais-no-ce.md
+  - 2016/01/2016-01-29-sem-terra-se-preparam-para-a-colheita-do-arroz-agroecologico-no-rs.md
+  - 2016/01/2016-01-27-sem-terra-ocupam-fazenda-no-pontal-do-paranapanema.md
+  - 2015/08/2015-08-18-samuel-pinheiro-guimaraes-a-ofensiva-conservadora-e-as-crises.md
+  - 2015/10/2015-10-08-gregorio-duvivier-muita-gente-morre-por-causa-do-conservadorismo.md
 
 ---
-<p><img alt="mst83094.jpg" src="//farm2.staticflickr.com/1572/24684668271_59fd9d87c0_b.jpg" /></p>
+<figure class="image" style="float:right"><img alt="mst83094.jpg" src="//farm2.staticflickr.com/1572/24684668271_59fd9d87c0_b.jpg" />
+<figcaption></figcaption>
+</figure>
 
 <p><em>Da P&aacute;gina do MST</em></p>
 
