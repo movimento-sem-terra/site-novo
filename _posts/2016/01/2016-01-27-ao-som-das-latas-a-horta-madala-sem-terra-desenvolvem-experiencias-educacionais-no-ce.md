@@ -74,6 +74,7 @@ releated_posts:
   - 2014/12/2014-12-01-para-dirigente-do-mst-pauta-minima-sera-o-assentamento-de-120-mil-familias.md
   - 2015/10/2015-10-16-assentados-aprendem-as-licoes-da-floresta-para-cultivar-na-amazonia.md
   - 2016/01/2016-01-14-lei-que-garante-seguranca-juridica-aos-assentamentos-da-reforma-agraria-e-assinada-em-sp.md
+label: special-stories
 
 ---
 <p><img alt="DSC_0902!.jpg" src="//farm2.staticflickr.com/1545/24537072492_5fa6597cf0_b.jpg" /></p>
