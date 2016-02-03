@@ -1,5 +1,5 @@
 ---
-date: "2016-01-22T12:03:06-02:00"
+date: "2016-02-03T09:03:06-02:00"
 tags:
   - tag: homenagem
   - tag: plinio-de-arruda
