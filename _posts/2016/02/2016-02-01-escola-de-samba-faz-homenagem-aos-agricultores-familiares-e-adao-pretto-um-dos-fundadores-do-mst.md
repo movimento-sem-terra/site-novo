@@ -38,6 +38,7 @@ releated_posts:
   - 2015/02/2015-02-12-em-alagoas-escola-de-samba-revive-a-luta-pela-terra.md
   - 2015/02/2015-02-13-no-carnaval-de-olinda-sem-terra-homenageiam-a-solidariedade-do-povo-cubano.md
   - 2015/02/2015-02-11-abram-alas-a-unidos-da-lona-preta.md
+section: featured-news
 
 ---
 <p><img alt="Foto Leandro Molina.jpg" src="//farm2.staticflickr.com/1556/24129388653_c237794b03_b.jpg" /></p>
