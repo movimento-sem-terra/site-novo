@@ -33,7 +33,7 @@ releated_posts:
 
 <p style="line-height: 20.8px;"><em>Do Cimi</em></p>
 
-<p style="line-height: 20.8px;"><br />
+<p><br />
 Servidores da Funda&ccedil;&atilde;o Nacional do &Iacute;ndio (Funai) est&atilde;o desde a manh&atilde; desta ter&ccedil;a, 2, no tekoha Kurusu Amb&aacute;, onde ind&iacute;genas Guarani e Kaiow&aacute; sofreram um ataque violento no &uacute;ltimo domingo, 31 de janeiro. Eles confirmam as informa&ccedil;&otilde;es de que um acampamento inteiro foi incendiado por pistoleiros, e temem a explos&atilde;o de um conflito grave no local.&nbsp;</p>
 
 <p><br />
