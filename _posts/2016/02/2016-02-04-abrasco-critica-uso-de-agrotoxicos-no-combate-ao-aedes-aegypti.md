@@ -6,7 +6,7 @@ tags:
   - tag: saúde
 title: Abrasco critica uso de agrotóxicos no combate ao Aedes Aegypti
 support_line: "A nota explica o contexto de surgimento da atual epidemia, e ressalta que \"a distribuição espacial por local de moradia é maior nas áreas mais pobres, com urbanização precária e com saneamento ambiental inadequado."
-menu: lutas e mobilizações
+menu: projeto popular
 images_hd: //farm2.staticflickr.com/1646/24186311043_1f2e42b16f_b.jpg
 layout: post
 files:
@@ -24,13 +24,13 @@ releated_posts:
   - 2015/12/2015-12-09-o-povo-ja-nao-deixa-de-comer-para-pagar-consulta-em-clinica-particular-diz-medica-camponesa.md
 
 ---
-<p>&nbsp;</p>
+<p><img alt="129500-dengue02.jpg" src="//farm2.staticflickr.com/1646/24186311043_1f2e42b16f_b.jpg" /></p>
 
-<p>Da P&aacute;gina do MST&nbsp;</p>
+<p><br />
+<em>Da P&aacute;gina do MST&nbsp;</em></p>
 
-<p>&nbsp;</p>
-
-<p>Entidade que re&uacute;ne pesquisadores da sa&uacute;de coletiva afirma que o uso de agrot&oacute;xicos pela Sa&uacute;de P&uacute;blica n&atilde;o tem tido efetividade, n&atilde;o diminui a infesta&ccedil;&atilde;o pelo Aedes e provoca danos s&eacute;rios &agrave;s pessoas</p>
+<p><br />
+Entidade que re&uacute;ne pesquisadores da sa&uacute;de coletiva afirma que o uso de agrot&oacute;xicos pela Sa&uacute;de P&uacute;blica n&atilde;o tem tido efetividade, n&atilde;o diminui a infesta&ccedil;&atilde;o pelo Aedes e provoca danos s&eacute;rios &agrave;s pessoas</p>
 
 <p><br />
 A Associa&ccedil;&atilde;o Brasileira de Sa&uacute;de Coletiva (Abrasco) lan&ccedil;ou nesta semana uma Nota de Alerta criticando a atua&ccedil;&atilde;o do Minist&eacute;rio da Sa&uacute;de frente &agrave; epidemia de Zika e Microcefalia. O ṕrincipal eixo da nota questiona o uso de agrot&oacute;xicos no combate ao mosquito, ao inv&eacute;s da implementa&ccedil;&atilde;o de a&ccedil;&otilde;es de saneamento ambiental e fornecimento regular de &aacute;gua.</p>
