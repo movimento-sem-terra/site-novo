@@ -54,8 +54,6 @@ releated_posts:
 <em>Por&nbsp;Regina Groenendal<br />
 Do IBS</em></p>
 
-<p>&nbsp;</p>
-
 <p><br />
 Tirar o sustento do solo sem degrad&aacute;-lo e repor os nutrientes para que permane&ccedil;a f&eacute;rtil. Assim pode ser definido o ciclo virtuoso dos Sistemas Agroflorestais, tamb&eacute;m conhecidos como SAF&rsquo;s que estabelecem a planta&ccedil;&atilde;o de esp&eacute;cies agr&iacute;colas e florestais em uma mesma &aacute;rea. O objetivo principal &eacute; o desenvolvimento de uma agricultura sustent&aacute;vel, que respeite e preserve os recursos naturais existentes.</p>
 
