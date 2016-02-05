@@ -7,7 +7,7 @@ tags:
   - tag: latifúndio
   - tag: violência
 title: PM ataca acampamento em área grilada por latifundiário e pretendida pela Vale
-support_line: A ação das forças policiais aconteceu sem mandado de judicial. Os trabalhadores rurais temem um novo Massacre de Eldorado dos Carajás.
+support_line: A ação das forças policiais aconteceu sem mandado judicial. Os trabalhadores rurais temem um novo Massacre de Eldorado dos Carajás.
 menu: direitos humanos
 section: cover
 images_hd: //farm2.staticflickr.com/1476/24805836926_9fd4dfe3a9_b.jpg
@@ -47,7 +47,7 @@ Segundo os relatos dos trabalhadores rurais, ainda eram umas 10h quando o movime
 Segundo relatos dos trabalhadores das comunidades vizinhas, Macedo &eacute; conhecido na regi&atilde;o por sua trucul&ecirc;ncia e por ter se apossado de terras de pequenos agricultores, de destruir florestas, praticar o trabalho escravo e de se utilizar de m&atilde;o de obra infantil em serrarias clandestinas.</p>
 
 <p><br />
-Por&eacute;m, ao chegarem &agrave;s proximidades da fazenda, os trabalhadores foram recebidos &agrave; bala e com bombas de g&aacute;s, que atingiram crian&ccedil;as, mulheres e idosos. At&eacute; o momento tr&ecirc;s pessoas est&atilde;o desaparecidas. Mais de 120 pessoas foram transportadas em caminh&otilde;es escoltados pelas viaturas da policia at&eacute; a Delegacia de Parauapebas.</p>
+Por&eacute;m, ao chegarem &agrave;s proximidades da fazenda, os trabalhadores foram recebidos &agrave; bala e com bombas de g&aacute;s, que atingiram crian&ccedil;as, mulheres e idosos. At&eacute; o momento tr&ecirc;s pessoas est&atilde;o desaparecidas. Mais de 120 pessoas foram transportadas em caminh&otilde;es escoltados pelas viaturas da pol&iacute;cia at&eacute; a Delegacia de Parauapebas.</p>
 
 <p><br />
 Sete integrantes do acampamento est&atilde;o presos, sendo um deles uma mulher. Dezesseis pessoas j&aacute; registram queixas e fizeram exame de corpo delito. Durante o processo violento de despejo dos trabalhadores, 35 pessoas foram feridas ou sofreram escoria&ccedil;&otilde;es pelo corpo, incluindo 10 crian&ccedil;as, mulheres e idosos que tiveram que ser tratados as pressas.</p>
