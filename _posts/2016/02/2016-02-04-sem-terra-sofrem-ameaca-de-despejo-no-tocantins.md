@@ -30,25 +30,22 @@ releated_posts:
 ---
 <p>&nbsp;</p>
 
-<p>Da P&aacute;gina do MST&nbsp;</p>
+<p><em>Da P&aacute;gina do MST&nbsp;</em></p>
 
-<p>&nbsp;</p>
-
-<p>Cerca de 450 fam&iacute;lias Sem Terra correm o risco de ser despejadas do Acampamento Olga Ben&aacute;rio, localizado &agrave;s margens da Rodovia Bel&eacute;m Bras&iacute;lia, pr&oacute;ximo ao munic&iacute;pio de Fortaleza do Taboc&atilde;o e Rio dos Bois em Tocantins.</p>
+<p><br />
+Cerca de 450 fam&iacute;lias Sem Terra correm o risco de serem despejadas do Acampamento Olga Ben&aacute;rio, localizado &agrave;s margens da Rodovia Bel&eacute;m Bras&iacute;lia, pr&oacute;ximo ao munic&iacute;pio de Fortaleza do Taboc&atilde;o e Rio dos Bois, em Tocantins.</p>
 
 <p><br />
 A a&ccedil;&atilde;o judicial movida pelo Departamento Nacional de Infraestrutura de Transportes (DNIT) est&aacute; prevista para ser cumprida a partir do dia 15/2.</p>
 
 <p><br />
-O acampamento Olga foi erguido em 22 de junho de 2013 sob promessa do Instituto de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (INCRA) de que parte da &aacute;rea que compreende um total de 19 mil hectares fosse destinada para constru&ccedil;&atilde;o de um assentamento para as fam&iacute;lias ainda em 2013.&nbsp;</p>
+O acampamento Olga foi erguido em 22 de junho de 2013, sob promessa do Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra) de que parte dos 19 mil hectares da &aacute;rea fosse destinada para constru&ccedil;&atilde;o de um assentamento &agrave;s fam&iacute;lias ainda em 2013.&nbsp;</p>
 
 <p><br />
-At&eacute; o momento o INCRA n&atilde;o se manifestou sobre o pedido de despejo e o processo de desapropria&ccedil;&atilde;o da &aacute;rea.&nbsp;<br />
-<br />
-<br />
-Em nota, a dire&ccedil;&atilde;o estadual do Movimento critica a morosidade do INCRA e pede para que o &oacute;rg&atilde;o se manifeste acerca do assentamento das fam&iacute;lias. Que n&atilde;o tem para onde ir, caso o despejo se concretize.&nbsp;<br />
-<br />
-<br />
-O Movimento tamb&eacute;m acredita que tal situa&ccedil;&atilde;o ocorre pela falta de comprometimento dos governos estaduais e federais para com a Reforma Agr&aacute;ria em nosso pa&iacute;s. &nbsp;</p>
+At&eacute; o momento o Incra&nbsp;n&atilde;o se manifestou sobre o pedido de despejo e o processo de desapropria&ccedil;&atilde;o da &aacute;rea.&nbsp;</p>
 
-<p>&nbsp;</p>
+<p><br />
+Em nota, a dire&ccedil;&atilde;o estadual do Movimento critica a morosidade do Incra e pede para que o &oacute;rg&atilde;o se manifeste sobre o assentamento das fam&iacute;lias&nbsp;que n&atilde;o t&ecirc;m para onde ir, caso o despejo se concretize.&nbsp;</p>
+
+<p><br />
+O Movimento tamb&eacute;m acredita que tal situa&ccedil;&atilde;o ocorre pela falta de comprometimento dos governos estaduais e federal&nbsp;para com a Reforma Agr&aacute;ria no&nbsp;pa&iacute;s.</p>
