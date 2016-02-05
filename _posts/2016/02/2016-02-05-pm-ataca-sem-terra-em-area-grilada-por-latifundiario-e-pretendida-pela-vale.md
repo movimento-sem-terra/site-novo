@@ -6,7 +6,7 @@ tags:
   - tag: pará
   - tag: latifúndio
   - tag: violência
-title: PM ataca Sem Terra em área grilada por latifundiário e pretendida pela Vale
+title: PM ataca acampamento em área grilada por latifundiário e pretendida pela Vale
 support_line: A ação das forças policiais aconteceu sem mandado de judicial. Os trabalhadores rurais temem um novo Massacre de Eldorado dos Carajás.
 menu: direitos humanos
 section: cover
@@ -31,7 +31,8 @@ releated_posts:
   - 2015/01/2015-01-12-cpt-considera-reforma-agraria-do-governo-dilma-a-pior-dos-ultimos-20-anos.md
 
 ---
-<p><em>Da P&aacute;gina do MST</em></p>
+<p><br />
+<em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
 N&atilde;o foi preciso nenhum mandado judicial para que um comando de opera&ccedil;&otilde;es policiais, composto por membros da Pol&iacute;cia Militar, Grupo T&aacute;tico Operacional e Pol&iacute;cia Rodovi&aacute;ria, realizassem o despejo de fam&iacute;lias Sem Terra acampados &agrave;s margens da Fazenda Santa Clara, entre a regi&atilde;o conhecida como Santa Cruz (PA), na &uacute;ltima quarta-feira (3).</p>
