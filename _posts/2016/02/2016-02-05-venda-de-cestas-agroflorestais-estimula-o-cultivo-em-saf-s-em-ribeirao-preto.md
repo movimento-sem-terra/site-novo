@@ -92,4 +92,4 @@ O assentado pondera que &eacute; importante que o consumo consciente seja cada v
 O projeto de comercializa&ccedil;&atilde;o de cestas agroflorestais conta com o apoio financeiro de programas como o Micro Bacia II, Agroflorestar I e FUNbio. Cada fam&iacute;lia participante do projeto implantou no seu lote uma &aacute;rea de 500 &sup2; de plantio de hortali&ccedil;as e frutas no modo SAF.<br />
 &nbsp;</p>
 
-<p><img alt="cestas2.jpg" src="//farm2.staticflickr.com/1533/24463837839_bd55496634_b.jpg" /></p>
+<p><img alt="30 famílias.jpg" src="//farm2.staticflickr.com/1474/24713618652_76147b2b5f_b.jpg" /></p>
