@@ -36,7 +36,9 @@ releated_posts:
 <em>Por Leonardo Sakamoto, em seu blog</em></p>
 
 <p><br />
-Obtida atrav&eacute;s da Lei de Acesso &agrave; Informa&ccedil;&atilde;o, a terceira edi&ccedil;&atilde;o da &ldquo;Lista de Transpar&ecirc;ncia sobre Trabalho Escravo Contempor&acirc;neo&rdquo; traz os dados de empregadores autuados em decorr&ecirc;ncia de caracteriza&ccedil;&atilde;o de trabalho an&aacute;logo ao de escravo e que tiveram decis&atilde;o administrativa final entre dezembro de 2013 e dezembro de 2015.<br />
+Obtida atrav&eacute;s da Lei de Acesso &agrave; Informa&ccedil;&atilde;o, a terceira edi&ccedil;&atilde;o da &ldquo;Lista de Transpar&ecirc;ncia sobre Trabalho Escravo Contempor&acirc;neo&rdquo; traz os dados de empregadores autuados em decorr&ecirc;ncia de caracteriza&ccedil;&atilde;o de trabalho an&aacute;logo ao de escravo e que tiveram decis&atilde;o administrativa final entre dezembro de 2013 e dezembro de 2015.</p>
+
+<p><br />
 As informa&ccedil;&otilde;es foram compiladas pelo Minist&eacute;rio do Trabalho e Previd&ecirc;ncia Social a pedido da Rep&oacute;rter Brasil e do Instituto do Pacto Nacional para a Erradica&ccedil;&atilde;o do Trabalho Escravo (InPACTO) uma vez que uma liminar concedida pelo Supremo Tribunal Federal, em dezembro de 2014, segue em vigor, impedindo que o governo federal divulgue uma atualiza&ccedil;&atilde;o do cadastro de empregadores flagrados com m&atilde;o de obra escrava, a chamada &ldquo;lista suja&rdquo;, que esteve p&uacute;blico entre 2003 e 2014.</p>
 
 <p><br />
@@ -88,7 +90,9 @@ A lista tem sido, enquanto a &ldquo;lista suja&rdquo; segue suspensa, o principa
 <strong>Tentativa de censura</strong></p>
 
 <p><br />
-Por conta da divulga&ccedil;&atilde;o da &ldquo;Lista de Transpar&ecirc;ncia sobre Trabalho Escravo Contempor&acirc;neo no Brasil&rdquo;, este blog, a Rep&oacute;rter Brasil e o InPACTO sofreram processos judiciais visando &agrave; censura do nome de empregadores envolvidos com trabalho an&aacute;logo ao de escravo de acordo com o governo federal. Tive que responder, inclusive, pela acusa&ccedil;&atilde;o do crime de difama&ccedil;&atilde;o por uma empresa que havia sido relacionada na Lista de Transpar&ecirc;ncia.<br />
+Por conta da divulga&ccedil;&atilde;o da &ldquo;Lista de Transpar&ecirc;ncia sobre Trabalho Escravo Contempor&acirc;neo no Brasil&rdquo;, este blog, a Rep&oacute;rter Brasil e o InPACTO sofreram processos judiciais visando &agrave; censura do nome de empregadores envolvidos com trabalho an&aacute;logo ao de escravo de acordo com o governo federal. Tive que responder, inclusive, pela acusa&ccedil;&atilde;o do crime de difama&ccedil;&atilde;o por uma empresa que havia sido relacionada na Lista de Transpar&ecirc;ncia.</p>
+
+<p><br />
 Contudo, o juiz Ulisses Augusto Pascolati J&uacute;nior, da Vara do Juizado Especial Criminal do Foro Central Criminal de S&atilde;o Paulo, arquivou o processo. Segundo ele, &ldquo;a simples narrativa dos fatos que, nesse caso, tinha o intuito de informar a sociedade (grifo do juiz), a partir da divulga&ccedil;&atilde;o de dados p&uacute;blicos, n&atilde;o basta para a configura&ccedil;&atilde;o do crime de difama&ccedil;&atilde;o&rdquo;.</p>
 
 <p><br />
