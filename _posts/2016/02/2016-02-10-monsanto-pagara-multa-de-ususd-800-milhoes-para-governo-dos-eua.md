@@ -4,7 +4,7 @@ tags:
   - tag: monsanto
   - tag: agrotóxicos
   - tag: glifosato
-title: Monsanto pagará multa de US$ 800 milhões para governo dos EUA
+title: Monsanto pagará multa de US$ 80 milhões para governo dos EUA
 support_line: "Enquanto isso, no Brasil, Kátia Abreu continua barrando pedidos de suspensão contra o glifosato e outros agrotóxicos.   "
 menu: agronegócio
 images_hd: //farm2.staticflickr.com/1457/24309497194_4320633691_b.jpg
