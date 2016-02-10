@@ -9,7 +9,7 @@ tags:
 title: PM ataca acampamento em área grilada por latifundiário e pretendida pela Vale
 support_line: A ação das forças policiais aconteceu sem mandado judicial. Os trabalhadores rurais temem um novo Massacre de Eldorado dos Carajás.
 menu: direitos humanos
-section: cover
+section: null
 images_hd: //farm2.staticflickr.com/1476/24805836926_9fd4dfe3a9_b.jpg
 layout: post
 files:
