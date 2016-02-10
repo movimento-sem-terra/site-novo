@@ -36,6 +36,7 @@ releated_posts:
   - 2016/01/2016-01-27-sem-terra-ocupam-fazenda-no-pontal-do-paranapanema.md
   - 2016/01/2016-01-29-sem-terra-se-preparam-para-a-colheita-do-arroz-agroecologico-no-rs.md
   - 2016/02/2016-02-01-escola-de-samba-faz-homenagem-aos-agricultores-familiares-e-adao-pretto-um-dos-fundadores-do-mst.md
+section: featured-news
 
 ---
 <p><img alt="_MG_8457.JPG" src="//farm2.staticflickr.com/1655/24167579244_f08fbb8c00_b.jpg" /><br />
