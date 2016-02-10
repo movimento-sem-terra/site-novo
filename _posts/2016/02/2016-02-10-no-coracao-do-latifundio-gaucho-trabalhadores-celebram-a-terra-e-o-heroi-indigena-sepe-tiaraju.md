@@ -4,7 +4,7 @@ tags:
   - tag: romaria-da-terra
   - tag: lutas-e-mobilizações
   - tag: sepe-tiaraju
-title: "No coração do latifúndio gaúcho, trabalhadores celebram a terra e o herói indígena Sepé Tiaraju"
+title: "No coração do latifúndio, trabalhadores celebram a terra e o herói indígena Sepé Tiaraju"
 support_line: "Concentração de cerca de 12 mil pessoas ocorreu na Romaria da Terra, em São Gabriel, na Fronteira Oeste do Rio Grande do Sul."
 menu: lutas e mobilizações
 section: cover
