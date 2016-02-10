@@ -25,7 +25,7 @@ releated_posts:
   - 2016/01/2016-01-26-no-grande-sertao-comissao-da-verdade-busca-as-origens-das-injusticas-fundiarias.md
   - 2016/01/2016-01-28-em-relatorio-internacional-brasil-e-criticado-por-aumento-da-violencia-no-campo.md
   - 2015/12/2015-12-09-enquanto-brasilia-ferve-segue-gente-sem-terra-assassinada.md
-section: cover
+section: null
 
 ---
 <figure class="image" style="float:right"><img alt="violencia_latifundio.jpg" src="//farm2.staticflickr.com/1581/24308667974_e80c99846b_b.jpg" />
