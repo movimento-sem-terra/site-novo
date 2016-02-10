@@ -44,7 +44,9 @@ releated_posts:
   - 2015/02/2015-02-11-em-homenagem-a-sepe-tiaraju-indigenas-reafirmam-sua-forca-na-luta-pela-terra.md
 
 ---
-<p><img alt="Romaria da Terra - Foto Leandro Molina 3.JPG" src="//farm2.staticflickr.com/1713/24575196779_5a42f833dd_b.jpg" /></p>
+<figure class="image"><img alt="Romaria da Terra - Foto Leandro Molina 3.JPG" src="//farm2.staticflickr.com/1713/24575196779_5a42f833dd_b.jpg" />
+<figcaption>Foto: Leandro Molina</figcaption>
+</figure>
 
 <p><br />
 <em>Por Catiana de Medeiros<br />
@@ -65,7 +67,7 @@ Na caminhada, cerca de 12 mil trabalhadores do campo e da cidade fizeram suas or
 <p>&nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="Romaria da Terra - Foto Leandro Molina 6.JPG" src="//farm2.staticflickr.com/1561/24916552536_7814c3e802_b.jpg" />
-<figcaption></figcaption>
+<figcaption>Foto: Leandro Molina</figcaption>
 </figure>
 
 <p>Durante o trajeto, ocorreram sete paradas em celebra&ccedil;&atilde;o &agrave;s redu&ccedil;&otilde;es jesu&iacute;ticas: S&atilde;o Francisco de Borja, S&atilde;o Nicolau, S&atilde;o Miguel Arcanjo, S&atilde;o Louren&ccedil;o M&aacute;rtir, S&atilde;o Jo&atilde;o Batista, S&atilde;o Luiz Gonzaga e Santo &Acirc;ngelo Cust&oacute;dio. J&aacute; no parque, romeiros e romeiras participaram de missa celebrada pelo bispo da Diocese de Bag&eacute;, Dom G&iacute;lio Fel&iacute;cio.</p>
@@ -80,7 +82,7 @@ Este ano a romaria teve como tema &ldquo;Cuidar da Terra, Casa Comum&rdquo;. Con
 &nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="Encontro dos Indígenas - Foto Eduardo Teixeira.jpg" src="//farm2.staticflickr.com/1668/24316005643_8bd8e3c470_b.jpg" />
-<figcaption></figcaption>
+<figcaption>Foto: Eduardo Teixeira</figcaption>
 </figure>
 
 <p><strong>Demarca&ccedil;&atilde;o de terras ind&iacute;genas</strong></p>
@@ -107,7 +109,11 @@ Durante o encontro, foi constru&iacute;do um documento de reivindica&ccedil;&oti
 <strong>Acampamento da Juventude</strong><br />
 &nbsp;</p>
 
-<p><img alt="Acampamento da Juventude - Foto Michele Corrêa (1).jpg" src="//farm2.staticflickr.com/1533/24942829925_9a2e38d23f_b.jpg" /><br />
+<figure class="image"><img alt="Acampamento da Juventude - Foto Michele Corrêa (1).jpg" src="//farm2.staticflickr.com/1533/24942829925_9a2e38d23f_b.jpg" />
+<figcaption>Foto: Michele C&ocirc;rrea</figcaption>
+</figure>
+
+<p><br />
 <br />
 Ainda em comunh&atilde;o &agrave;s tem&aacute;ticas da Romaria da Terra, ocorreu de 7 a 9 de fevereiro, tamb&eacute;m em S&atilde;o Gabriel, o 11&ordm; Acampamento da Juventude. O Evento envolveu desde oficinas, com debates sobre quest&otilde;es de g&ecirc;nero, agroecologia, agita&ccedil;&atilde;o e propaganda, entre outros temas, at&eacute; atividades de integra&ccedil;&atilde;o dos jovens do campo e da cidade.</p>
 
