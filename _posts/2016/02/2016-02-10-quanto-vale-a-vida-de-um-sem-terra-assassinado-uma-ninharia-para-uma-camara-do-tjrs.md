@@ -4,7 +4,7 @@ tags:
   - tag: direitos-humanos
   - tag: violência
   - tag: latifundio
-title: "Quanto vale a vida de um sem-terra assassinado? Uma ninharia, para uma Câmara do TJRS"
+title: "Quanto vale a vida de um sem-terra assassinado? Para uma Câmara do TJRS, uma ninharia"
 support_line: "\"A morte do Elton Brum da Silva não foi considerada suficiente para encher o poço das lágrimas e do grande sofrimento dos seus familiares e companheiras/os\", escreve Jacques Alfonsin."
 menu: direitos humanos
 label: articles
@@ -25,6 +25,7 @@ releated_posts:
   - 2016/01/2016-01-26-no-grande-sertao-comissao-da-verdade-busca-as-origens-das-injusticas-fundiarias.md
   - 2016/01/2016-01-28-em-relatorio-internacional-brasil-e-criticado-por-aumento-da-violencia-no-campo.md
   - 2015/12/2015-12-09-enquanto-brasilia-ferve-segue-gente-sem-terra-assassinada.md
+section: cover
 
 ---
 <figure class="image" style="float:right"><img alt="violencia_latifundio.jpg" src="//farm2.staticflickr.com/1581/24308667974_e80c99846b_b.jpg" />
