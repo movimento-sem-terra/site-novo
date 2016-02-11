@@ -35,7 +35,7 @@ releated_posts:
 <em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Cerca de 250 integrantes do MST voltaram a ocupar na manh&atilde; desta quinta-feira (11) a sede da Regional de&nbsp;Educa&ccedil;&atilde;o do munic&iacute;pio de S&atilde;o Mateus, no Esp&iacute;rito Santo, contra medida que reduz a carga hor&aacute;ria dos trabalhadores das redes. Os Sem Terra j&aacute; haviam ocupado o local nos &uacute;ltimos dias 4 e 5 de fevereiro.</p>
+Cerca de 250 integrantes do MST voltaram a ocupar na manh&atilde; desta quinta-feira (11) a sede da Secretaria Regional de&nbsp;Educa&ccedil;&atilde;o do munic&iacute;pio de S&atilde;o Mateus, no Esp&iacute;rito Santo, contra medida que reduz a carga hor&aacute;ria dos trabalhadores das redes. Os Sem Terra j&aacute; haviam ocupado o local nos &uacute;ltimos dias 4 e 5 de fevereiro.</p>
 
 <p><br />
 Por&eacute;m, mais uma vez, Haroldo Rocha, da Secretaria de Estado da Educa&ccedil;&atilde;o (Sedu), se mostrou irredut&iacute;vel para qualquer abertura de di&aacute;logo com os trabalhadores rurais.</p>
@@ -68,4 +68,4 @@ Segundo Ribeiro, essa medida judicial foi uma importante vit&oacute;ria na luta 
 &ldquo;Querem implementar no Esp&iacute;rito Santo o mesmo modelo de educa&ccedil;&atilde;o que est&aacute; sendo implementado no estado de S&atilde;o Paulo, com a jun&ccedil;&atilde;o de turmas e o fechamento de salas de aula e de escolas&rdquo;, disse a educadora.</p>
 
 <p><br />
-Para ela, essas mudan&ccedil;as &eacute; uma forma &ldquo;do capitalismo avan&ccedil;ar na educa&ccedil;&atilde;o, transformando a educa&ccedil;&atilde;o em mercadoria. O embate &eacute; para privatizar a rede p&uacute;blica de ensino, assim como j&aacute; fazem com a sa&uacute;de p&uacute;blica. Isso &eacute; um tratamento ilegal, j&aacute; que a Constitui&ccedil;&atilde;o prev&ecirc; o direito &agrave; educa&ccedil;&atilde;o publica e de qualidade&rdquo;, acrescenta.</p>
+Para ela, essas mudan&ccedil;as &eacute; uma forma &ldquo;do capitalismo avan&ccedil;ar na educa&ccedil;&atilde;o, transformando a educa&ccedil;&atilde;o em mercadoria. O embate &eacute; para privatizar a rede p&uacute;blica de ensino, assim como j&aacute; fazem com a sa&uacute;de p&uacute;blica. Isso &eacute; um tratamento ilegal, j&aacute; que a Constitui&ccedil;&atilde;o prev&ecirc; o direito &agrave; educa&ccedil;&atilde;o p&uacute;blica e de qualidade&rdquo;, acrescenta.</p>
