@@ -4,7 +4,7 @@ tags:
   - tag: cultura
   - tag: reforma-agrária
   - tag: juventude
-title: Juventude Sem Terra realiza gincana e garanti participação popular
+title: Juventude Sem Terra realiza gincana e resgata cultura popular
 menu: "educação, cultura e comunicação"
 support_line: "Sem distinção de idade, orientação sexual ou opção religiosa, a gincana envolveu os trabalhadores em um clima místico e de resgate da cultura local."
 images_hd: //farm2.staticflickr.com/1487/24335795403_050e4b4782_b.jpg
@@ -37,7 +37,8 @@ releated_posts:
 <figcaption></figcaption>
 </figure>
 
-<p><em>Do&nbsp;Coletivo de Comunica&ccedil;&atilde;o do MST na Bahia<br />
+<p><br />
+<em>Do&nbsp;Coletivo de Comunica&ccedil;&atilde;o do MST na Bahia<br />
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
