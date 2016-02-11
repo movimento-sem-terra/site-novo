@@ -3,7 +3,7 @@ date: "2016-02-11T11:29:15-02:00"
 tags:
   - tag: cultura
   - tag: carnaval
-title: Bloco de carnaval do MST ocupa as ruas do Prado e denuncia os impactos dos agrotóxicos
+title: Bloco do MST ocupa as ruas do Prado e denuncia os impactos dos agrotóxicos
 menu: "educação, cultura e comunicação"
 sector: culture
 images_hd: //farm2.staticflickr.com/1524/24957331795_2d11ea89d1_b.jpg
