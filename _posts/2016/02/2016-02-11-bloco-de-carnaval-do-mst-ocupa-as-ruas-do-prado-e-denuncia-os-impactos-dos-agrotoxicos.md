@@ -8,7 +8,7 @@ menu: "educação, cultura e comunicação"
 sector: culture
 images_hd: //farm2.staticflickr.com/1524/24957331795_2d11ea89d1_b.jpg
 support_line: "A partir das músicas, cartazes e banners, o bloco procurou dialogar com a sociedade sobre as contradições do modelo do agronegócio."
-section: cover
+section: null
 layout: post
 files:
   - link: //farm2.staticflickr.com/1524/24957331795_2d11ea89d1_b.jpg
