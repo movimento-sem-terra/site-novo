@@ -3,8 +3,8 @@ date: "2016-02-11T13:45:24-02:00"
 tags:
   - tag: trabalho-escravo
   - tag: direitos-humanos
-title: Trabalho escravo?
-support_line: "Em tempos de smartphones, assim como não mais se viaja em carruagens, também não se escraviza e castiga nos moldes de outrora, em que pese a crueldade ser a mesma."
+title: "Em tempos de smartphones, não se escraviza nos moldes de outrora, mas a crueldade é a mesma"
+support_line: "Falar em trabalho escravo contemporâneo significa a restrição de liberdade, servidão por dívida, jornada exaustiva e condições degradantes. Esfola-se não a pele, mas a dignidade do trabalhador."
 menu: direitos humanos
 label: articles
 images_hd: //farm2.staticflickr.com/1708/24663954800_1e50de6768_b.jpg
