@@ -4,7 +4,7 @@ tags:
   - tag: educação
   - tag: lutas-e-mobilizações
 menu: lutas e mobilizações
-section: cover
+section: null
 sector: education
 title: Sem Terra reocupam Superintendência de Educação em São Mateus
 images_hd: //farm2.staticflickr.com/1680/24333542433_e4aeae88c4_b.jpg
