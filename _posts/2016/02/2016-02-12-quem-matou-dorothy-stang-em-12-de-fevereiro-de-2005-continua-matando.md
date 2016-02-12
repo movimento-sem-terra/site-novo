@@ -36,7 +36,7 @@ releated_posts:
 <p style="line-height: 20.8px;"><br />
 <em>Por Jacques T&aacute;vora Alfonsin*</em></p>
 
-<p style="line-height: 20.8px;"><br />
+<p><br />
 Camponesas e camponeses de Anapu, no sul do Par&aacute;, certamente v&atilde;o se reunir neste 12 de fevereiro, para lembrar a morte da freira Dorothy Stang, uma fiel e dedicada companheira delas/es, religiosa conhecida por sua coragem e disposi&ccedil;&atilde;o, assassinada em raz&atilde;o de sua luta em favor do povo pobre daquela regi&atilde;o, da reforma agr&aacute;ria, e contra o desmatamento crescente que l&aacute; se verificava, promovido por latifundi&aacute;rios interessados, como em outros lugares do pa&iacute;s, na expans&atilde;o do plantio de soja, na conquista de espa&ccedil;o para o gado, em minera&ccedil;&atilde;o e em vender madeira.</p>
 
 <p><br />
