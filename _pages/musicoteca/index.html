@@ -95,24 +95,4 @@ styles: ["playlist.css"]
         <a href="videos/">Mais...</a>
     </p>
   </section>
-
-  <section id="mst-indica">
-
-    <h2>MST indica</h2>
-
-    <ul>
-      {% for partner in site.musicoteca.partners  %}
-        <li>
-          <a href="{{partner.link}}" title="link para parceiro externo" target="_blank">
-            <img src="{{partner.images_hd}}" alt="{{partner.title}}" />
-            <br> {{partner.title}}
-          </a>
-        </li>
-      {% endfor %}
-    </ul>
-  </section>
-
-
-
-
 </main>
