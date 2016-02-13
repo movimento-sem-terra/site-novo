@@ -4,7 +4,7 @@ tags:
   - tag: educação
   - tag: reforma-agrária
   - tag: assentamento
-images_hd: //farm2.staticflickr.com/1452/24619589956_c0d5b38bee_b.jpg
+images_hd: //farm2.staticflickr.com/1608/24335038343_8896f352da_b.jpg
 menu: "educação, cultura e comunicação"
 sector: education
 section: featured-news
@@ -66,6 +66,12 @@ files:
     small: //farm2.staticflickr.com/1463/24537455792_9664cb6777_n.jpg
     title: DSC_0776.jpg
     $$hashKey: 08Z
+  - link: //farm2.staticflickr.com/1608/24335038343_8896f352da_b.jpg
+    thumbnail: //farm2.staticflickr.com/1608/24335038343_8896f352da_t.jpg
+    medium: //farm2.staticflickr.com/1608/24335038343_8896f352da_z.jpg
+    small: //farm2.staticflickr.com/1608/24335038343_8896f352da_n.jpg
+    title: bana.jpg
+    $$hashKey: "062"
 created_date: "2016-01-27T11:38:27-02:00"
 published: true
 releated_posts:
@@ -74,6 +80,7 @@ releated_posts:
   - 2014/12/2014-12-01-para-dirigente-do-mst-pauta-minima-sera-o-assentamento-de-120-mil-familias.md
   - 2015/10/2015-10-16-assentados-aprendem-as-licoes-da-floresta-para-cultivar-na-amazonia.md
   - 2016/01/2016-01-14-lei-que-garante-seguranca-juridica-aos-assentamentos-da-reforma-agraria-e-assinada-em-sp.md
+label: special-stories
 
 ---
 <p><img alt="DSC_0902!.jpg" src="//farm2.staticflickr.com/1545/24537072492_5fa6597cf0_b.jpg" /></p>
