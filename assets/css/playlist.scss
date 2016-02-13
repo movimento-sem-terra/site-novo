@@ -20,6 +20,10 @@ main#musicoteca {
     text-shadow: 1px 2px 4px #000000;
     color: #ffffff;
 
+    .name-page {
+      color: #ffffff;
+    }
+
     .content {
       @include outer-container;
       margin-top: 49px;
