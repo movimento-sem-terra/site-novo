@@ -6,7 +6,7 @@ module Jekyll
       releated_posts = post['releated_posts'][0..limit]
 
       site_posts.select do |site_post|
-        post_name = site_post.cleaned_relative_path
+        post_name = site_post.relative_path
         releated_posts.find { |releated| post_name.include? releated }
       end
     end
