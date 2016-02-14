@@ -8,7 +8,7 @@ tags:
 title: "Quem matou Dorothy Stang, em 12 de fevereiro de 2005, continua matando"
 menu: direitos humanos
 label: articles
-section: cover
+section: null
 support_line: "A repercussão desse assassinato deu a impressão que a violência de crimes praticados por motivos idênticos, se não fosse eliminada, pelo menos diminuiria. Os fatos posteriores vêm provando o contrário."
 images_hd: //farm2.staticflickr.com/1579/24883317091_b5677912b0_b.jpg
 layout: post
