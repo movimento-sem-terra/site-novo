@@ -4,7 +4,7 @@ tags:
   - tag: reforma-agrária
   - tag: despejo
   - tag: latifúndio
-title: Disputa por área entre latifundiários ameaça despejar dezenas de famílias Sem Terra
+title: Famílias acampadas há doze anos lutam para resistir a despejo em Alagoas
 support_line: "Doze anos após a primeira ocupação da antiga Usina Ouricuri, em Atalaia (AL), uma nova ameaça está presente: o despejo anunciado para esta segunda."
 menu: direitos humanos
 section: cover
