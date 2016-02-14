@@ -1,4 +1,4 @@
-require 'jekyll/document'
+require 'jekyll/post'
 require 'json'
 
 module Jekyll
@@ -8,10 +8,10 @@ module Jekyll
     def generate(site)
       tags = Hash.new
 
-      site.posts.docs.each do |post|
-        post.data['tags'].each do |tag|
+      site.posts.each do |post|
+        post.tags.each do |tag|
           key = tag.values.first.downcase
-          value = post.relative_path
+          value = post.name
 
           if tags[key].class == Array
             tags[key] << value

@@ -5,9 +5,8 @@ module Jekyll
       return [] if post['releated_posts'].nil? || post['releated_posts'].size <= 0
       releated_posts = post['releated_posts'][0..limit]
 
-      site_posts.select do |site_post|
-        post_name = site_post.cleaned_relative_path
-        releated_posts.find { |releated| post_name.include? releated }
+      site_posts.select do |p|
+        releated_posts.include? p.name
       end
     end
   end
