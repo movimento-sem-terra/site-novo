@@ -8,12 +8,12 @@ module Jekyll
 
     def generate(site)
       data = []
-      site.posts.reverse.each_with_index do |post, i|
+      site.posts.docs.reverse.each_with_index do |post, i|
         data << {
           'year' =>  post.date.strftime("%Y"),
           'month' =>  post.date.strftime("%m"),
           'date' => post.date.strftime("%FT%T"),
-          'title' => post.title,
+          'title' => post.data['title'],
           'url' => "#{site.config['url']}#{post.url}",
           'tags' => Array(post.data['tags']).flatten.map{ |tag| tag['tag'] },
           'support_line' => post.data['support_line']

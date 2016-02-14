@@ -5,7 +5,7 @@ module Jekyll
 
     def generate(site)
       @all_articles = site.posts
-      @newest_post = @all_articles.sort { |a, b| b <=> a }[0..300]
+      @newest_post = @all_articles.docs.sort { |a, b| b <=> a }[0..300]
       musicoteca  = find 'musicoteca', 'section', 50
       musicoteca_albuns = musicoteca.select{ |m| m.data['type'] == 'album' }
       musicoteca_tape = musicoteca.select{ |m| m.data['type'] == 'tape' }
@@ -30,7 +30,7 @@ module Jekyll
 
       articles = find 'articles', 'label'
       interviews = find 'interviews', 'label'
-      musicoteca_videos = @all_articles.select{ |v| v.data['section'] == 'tv'  && v.data['sector'] == 'culture' }
+      musicoteca_videos = @all_articles.docs.select{ |v| v.data['section'] == 'tv'  && v.data['sector'] == 'culture' }
 
       site.config['musicoteca'] = {}
       site.config['musicoteca']['videos'] = musicoteca_videos
@@ -55,7 +55,7 @@ module Jekyll
     def find value, field = 'section', minimum = 0, except = []
       result = filter_with_except(value, field, @newest_post, except)
       if result.size < minimum
-        result = filter_with_except(value, field, @all_articles, except)
+        result = filter_with_except(value, field, @all_articles.docs, except)
       end
 
       result.sort! { |a, b| b <=> a }
