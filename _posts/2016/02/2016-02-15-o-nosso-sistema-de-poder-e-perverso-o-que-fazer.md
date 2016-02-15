@@ -128,7 +128,6 @@ Mais do que nunca a assertiva de Che Guevarra &eacute; necess&aacute;ria:&nbsp;&
 
 <p>&nbsp;</p>
 
-<p><em>Pertti Simula &eacute; psicanalista e Mestre em Ci&ecirc;ncias</em></p>
+<p><em>* Pertti Simula &eacute; psicanalista e Mestre em Ci&ecirc;ncias</em></p>
 
-<p><em>A abordagem usada no texto, chamada de m&eacute;todo conscientia, &eacute; o resultado de um trabalho de 30 anos<br />
-unindo observa&ccedil;&otilde;es pr&aacute;ticas das dimens&otilde;es do coletivo, coopera&ccedil;&atilde;o, campo terap&ecirc;utico e&nbsp;das rela&ccedil;&otilde;es humanas. O desenvolvimento da metodologia est&aacute; sendo realizado em grande&nbsp;parte em cooperativas, escolas e institutos de forma&ccedil;&atilde;o do Movimento dos Trabalhadores&nbsp;Rurais sem Terra do Brasil &ndash; MST, al&eacute;m da participa&ccedil;&atilde;o de educadores de escolas na&nbsp;Finl&acirc;ndia e Su&eacute;cia.</em></p>
+<p><em>A abordagem usada no texto, chamada de m&eacute;todo conscientia, &eacute; o resultado de um trabalho de 30 anos&nbsp;unindo observa&ccedil;&otilde;es pr&aacute;ticas das dimens&otilde;es do coletivo, coopera&ccedil;&atilde;o, campo terap&ecirc;utico e&nbsp;das rela&ccedil;&otilde;es humanas. O desenvolvimento da metodologia est&aacute; sendo realizado em grande&nbsp;parte em cooperativas, escolas e institutos de forma&ccedil;&atilde;o do Movimento dos Trabalhadores&nbsp;Rurais sem Terra do Brasil &ndash; MST, al&eacute;m da participa&ccedil;&atilde;o de educadores de escolas na&nbsp;Finl&acirc;ndia e Su&eacute;cia.</em></p>
