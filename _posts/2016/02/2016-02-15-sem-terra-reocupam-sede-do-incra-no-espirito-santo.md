@@ -5,8 +5,8 @@ tags:
   - tag: fechamento-de-escolas
   - tag: espírito-santo
   - tag: assentamentos
-title: "Sem Terra ocupam sede do Incra no Espírito Santo "
-support_line: "Os Sem Terra se manifestam contra as recentes medidas instituídas pelo governo, que tem como objetivo objetivo prejudicar ainda mais a educação pública do estado. "
+title: Sem Terra se mobilizam contra sucateamento da educação no campo no ES
+support_line: "Os Sem Terra se manifestam contra as recentes medidas instituídas pelo governo, que tem como objetivo prejudicar ainda mais a educação pública do estado. "
 menu: lutas e mobilizações
 images_hd: //farm2.staticflickr.com/1660/24418181914_6a1d3d0704_b.jpg
 layout: post
@@ -34,6 +34,7 @@ releated_posts:
   - _posts/2015/06/2015-06-24-mais-de-4-mil-escolas-do-campo-fecham-suas-portas-em-2014.md
   - _posts/2015/07/2015-07-20-richa-mais-uma-vez-atenta-a-educacao-e-fechara-casas-familiares-rurais.md
   - _posts/2015/09/2015-09-23-apos-marcha-educadores-ocupam-ministerio-da-agricultura-em-brasilia.md
+section: cover
 
 ---
 <p><img alt="sede governo ES.jpg" src="//farm2.staticflickr.com/1660/24418181914_6a1d3d0704_b.jpg" /></p>
@@ -45,21 +46,19 @@ releated_posts:
 Cerca de&nbsp;500 Sem Terra ocuparam a sede da Superintend&ecirc;ncia do Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra), em Vit&oacute;ria (ES), na manh&atilde; dessa segunda-feira (15).</p>
 
 <p><br />
-Na parte da tarde, os trabalhadores rurais realizaram uma mobiliza&ccedil;&atilde;o em frente ao Pal&aacute;cio Anchieta, para pressionar a realiza&ccedil;&atilde;o de uma audi&ecirc;ncia com o governo do estado. Os trabalhadores&nbsp;se mobilizam contra as recentes medidas&nbsp;institu&iacute;das pelo governo federal e estadual, que tem como objetivo&nbsp;objetivo prejudicar ainda mais a educa&ccedil;&atilde;o p&uacute;blica do estado.&nbsp;</p>
+Na parte da tarde, os trabalhadores rurais realizaram um protesto&nbsp;em frente ao Pal&aacute;cio Anchieta&nbsp;para pressionar a realiza&ccedil;&atilde;o de uma audi&ecirc;ncia com o governo do estado. Os trabalhadores&nbsp;se mobilizam contra as recentes medidas&nbsp;institu&iacute;das pelo governo estadual na educa&ccedil;&atilde;o do campo, que pretende <span style="line-height: 20.8px;">reduzir a carga hor&aacute;ria dos trabalhadores nas redes</span>&nbsp;de ensino.&nbsp;</p>
 
 <p><br />
-Segundo Adelson Lima, da dire&ccedil;&atilde;o estadual do Movimento, uma das medidas adotadas pelo governo reduz a carga hor&aacute;ria dos trabalhadores das redes.</p>
+&ldquo;A proposta do estado &eacute; pagar somente a hora/aula dada por cada educador. Esse &eacute; um projeto que sucateia o ensino p&uacute;blico. Al&eacute;m disso, tamb&eacute;m estamos aqui contra o fechamento e a nuclea&ccedil;&atilde;o das escolas do campo, e para exigir o reconhecimento da pedagogia da altern&acirc;ncia, a aprova&ccedil;&atilde;o imediata das diretrizes operacionais das escolas dos assentamentos a cria&ccedil;&atilde;o do&nbsp;projeto de Educa&ccedil;&atilde;o de Jovens e Adultos (EJA) para o ensino m&eacute;dio dos assentamentos&rdquo;, disse&nbsp;<span style="line-height: 20.8px;">Adelson Lima, da dire&ccedil;&atilde;o estadual do MST</span>.</p>
 
 <p><br />
-&ldquo;A proposta do estado &eacute; pagar somente a hora/aula dada por cada educador. Esse &eacute; um projeto que sucateia o ensino p&uacute;blico. Al&eacute;m disso, tamb&eacute;m estamos aqui contra o fechamento e a nuclea&ccedil;&atilde;o das escolas do campo, e para exigir o reconhecimento da pedagogia da altern&acirc;ncia, a aprova&ccedil;&atilde;o imediata das diretrizes operacionais das escolas dos assentamentos a cria&ccedil;&atilde;o do&nbsp;projeto de Educa&ccedil;&atilde;o de Jovens e Adultos (EJA) para o ensino m&eacute;dio dos assentamentos&rdquo;, diz.</p>
+Desde o come&ccedil;o de fevereiro, os trabalhadores rurais est&atilde;o se mobilizando contra&nbsp;a proposta da Secretaria de Estado da Educa&ccedil;&atilde;o (Sedu), que desconsidera a Pedagogia da Altern&acirc;ncia. Neste modelo, os alunos intercalam um per&iacute;odo de conviv&ecirc;ncia na sala de aula com outro no campo, garantindo a perman&ecirc;ncia dos alunos no meio rural. A Sedu vinha se mostrando irredut&iacute;vel no di&aacute;logo.</p>
 
 <p><br />
-Desde o come&ccedil;o de fevereiro, os trabalhadores rurais est&atilde;o se mobilizando contra&nbsp;a proposta da Secretaria de Estado da Educa&ccedil;&atilde;o (Sedu) que prejudica a educa&ccedil;&atilde;o na regi&atilde;o, uma vez que desconsidera a Pedagogia da Altern&acirc;ncia. Neste modelo, os alunos intercalam um per&iacute;odo de conviv&ecirc;ncia na sala de aula com outro no campo, garantindo a perman&ecirc;ncia dos alunos no meio rural. A Sedu vinha se mostrando irredut&iacute;vel no di&aacute;logo.</p>
-
-<p>&nbsp;</p>
+Ap&oacute;s a mobiliza&ccedil;&atilde;o desta segunda, os Sem Terra conseguiram marcar uma audi&ecirc;ncia para esta tarde com a Secretaria de Educa&ccedil;&atilde;o e&nbsp;de Agricultura e com o chefe da casa civil.</p>
 
 <p><br />
-Os trabalhadores tamb&eacute;m exigem a obten&ccedil;&atilde;o de terras no estado, o levantamento imediato de terras devolutas&nbsp;para o assentamento das tr&ecirc;s mil fam&iacute;lias acampadas na regi&atilde;o.</p>
+Al&eacute;m da pauta da educa&ccedil;&atilde;o, os trabalhadores tamb&eacute;m exigem a obten&ccedil;&atilde;o de terras no estado, o levantamento imediato de terras devolutas&nbsp;para o assentamento das tr&ecirc;s mil fam&iacute;lias acampadas na regi&atilde;o.</p>
 
 <p><br />
 Outra reivindica&ccedil;&atilde;o dos Sem Terra &eacute; a constru&ccedil;&atilde;o imediata de barragens na regi&atilde;o e a puni&ccedil;&atilde;o do estado pela contamina&ccedil;&atilde;o do Rio Doce com a trag&eacute;dia de Mariana ocorrida no final do ano passado.</p>
