@@ -8,15 +8,15 @@ title: O nosso sistema de poder é perverso. – O que fazer?
 menu: lutas e mobilizações
 label: articles
 support_line: "No capitalismo, como em qualquer sistema de concentração de poder, a repressão funciona “bem” para “benefício” de poucos. "
-images_hd: //farm2.staticflickr.com/1476/25018767366_fec382206e_b.jpg
+images_hd: //farm2.staticflickr.com/1718/24418549973_b844229e4c_b.jpg
 layout: post
 files:
-  - link: //farm2.staticflickr.com/1476/25018767366_fec382206e_b.jpg
-    thumbnail: //farm2.staticflickr.com/1476/25018767366_fec382206e_t.jpg
-    medium: //farm2.staticflickr.com/1476/25018767366_fec382206e_z.jpg
-    small: //farm2.staticflickr.com/1476/25018767366_fec382206e_n.jpg
-    title: capitalismo-2.jpg
-    $$hashKey: 0CS
+  - link: //farm2.staticflickr.com/1718/24418549973_b844229e4c_b.jpg
+    thumbnail: //farm2.staticflickr.com/1718/24418549973_b844229e4c_t.jpg
+    medium: //farm2.staticflickr.com/1718/24418549973_b844229e4c_z.jpg
+    small: //farm2.staticflickr.com/1718/24418549973_b844229e4c_n.jpg
+    title: 4544.jpg
+    $$hashKey: 06F
 created_date: "2016-02-15T12:29:08-02:00"
 published: true
 releated_posts: []
