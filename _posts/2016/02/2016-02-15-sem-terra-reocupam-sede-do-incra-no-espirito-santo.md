@@ -5,7 +5,7 @@ tags:
   - tag: fechamento-de-escolas
   - tag: espírito-santo
   - tag: assentamentos
-title: Sem Terra se mobilizam contra sucateamento da educação no campo no ES
+title: Sem Terra se mobilizam contra sucateamento da educação no ES
 support_line: "Os Sem Terra se manifestam contra as recentes medidas instituídas pelo governo, que tem como objetivo prejudicar ainda mais a educação pública do estado. "
 menu: lutas e mobilizações
 images_hd: //farm2.staticflickr.com/1660/24418181914_6a1d3d0704_b.jpg
