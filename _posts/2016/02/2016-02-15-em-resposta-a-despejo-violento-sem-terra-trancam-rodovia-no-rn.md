@@ -31,9 +31,8 @@ releated_posts:
 <p><em>Por Jailma Lopes<br />
 Da P&aacute;gina do MST</em></p>
 
-<p>&nbsp;</p>
-
-<p>Na manh&atilde; desta segunda-feira (15), cerca de 150 fam&iacute;lias Sem Terra trancaram as BR&rsquo;s 304 e 406, em cinco trechos no Rio Grande do Norte.&nbsp;</p>
+<p><br />
+Na manh&atilde; desta segunda-feira (15), cerca de 150 fam&iacute;lias Sem Terra trancaram cinco trechos&nbsp;das BR&rsquo;s 304 e 406, no Rio Grande do Norte.</p>
 
 <p><br />
 Na BR-406, foram dois os trechos bloqueados: no Km 100, em Jo&atilde;o C&acirc;mara, e no Km 163, na comunidade de Ma&ccedil;aranduba, em Cear&aacute;-Mirim, cidade da regi&atilde;o Metropolitana da capital potiguar.&nbsp;</p>
@@ -42,25 +41,25 @@ Na BR-406, foram dois os trechos bloqueados: no Km 100, em Jo&atilde;o C&acirc;m
 Na BR-304, o trecho interditado fica no Km 285, nas proximidades do restaurante Coisas da Ro&ccedil;a, em Maca&iacute;ba, cidade que tamb&eacute;m faz parte da Grande Natal.&nbsp;</p>
 
 <p><br />
-A a&ccedil;&atilde;o foi um protesto contra&nbsp;a realiza&ccedil;&atilde;o violenta&nbsp;de um despejo que aconteceu tamb&eacute;m na manh&atilde; desta segunda no Acampamento Dandara, em Caic&oacute;, regi&atilde;o do Serid&oacute; do Rio Grande do Norte.</p>
+A a&ccedil;&atilde;o foi um protesto contra&nbsp;a realiza&ccedil;&atilde;o violenta&nbsp;de um despejo que aconteceu na manh&atilde; desta segunda no Acampamento Dandara, em Caic&oacute;, regi&atilde;o do Serid&oacute; do estado.</p>
 
 <p><br />
-O acampamento estava localizado em uma &aacute;rea da Empresa Agropecu&aacute;ria do Rio Grande do Norte (EMPARN), que, assim como a Empresa Brasileira de Pesquisa Agropecu&aacute;ria (EMBRAPA), est&aacute; sob os mandos e desmandos da ministra K&aacute;tia Abreu.</p>
+O acampamento estava numa &aacute;rea da Empresa Agropecu&aacute;ria do Rio Grande do Norte (EMPARN).</p>
 
 <p><br />
-Anterior a essa a&ccedil;&atilde;o de despejo, o Movimento realizou um acordo com o governo do estado que concedeu 120 dias para que as fam&iacute;lias fossem realocadas em uma nova &aacute;rea.&nbsp;</p>
+Antes do despejo, o MST realizou um acordo com o governo do estado, que concedeu 120 dias para que as fam&iacute;lias fossem realocadas em uma nova &aacute;rea.&nbsp;</p>
 
 <p><br />
-No entanto, segundo a dire&ccedil;&atilde;o estadual do Movimento, &nbsp;EMBRAPA n&atilde;o cumpriu o acordo e seguiu com amea&ccedil;as as fam&iacute;lias acampadas, usando os meios de comunica&ccedil;&atilde;o da regi&atilde;o para criminalizar os Sem Terra.&nbsp;</p>
+No entanto, segundo a dire&ccedil;&atilde;o estadual do Movimento, a EMBRAPA n&atilde;o cumpriu o acordo e seguiu amea&ccedil;ando&nbsp;as fam&iacute;lias acampadas, e se utilizando dos meios de comunica&ccedil;&atilde;o da regi&atilde;o para criminalizar a luta dos Sem Terra.</p>
 
 <p><br />
-Lucenilson Angelo, da dire&ccedil;&atilde;o nacional do movimento, essa posi&ccedil;&atilde;o da empresa s&oacute; ratifica o alinhamento pol&iacute;tico do governo federal com o agroneg&oacute;cio.</p>
+Para Lucenilson Angelo, da dire&ccedil;&atilde;o nacional do Movimento, essa posi&ccedil;&atilde;o da empresa s&oacute; ratifica o alinhamento pol&iacute;tico do governo federal com o agroneg&oacute;cio.</p>
 
 <p><br />
-&ldquo;Mais uma vez o governo federal est&aacute; mostrando que o agroneg&oacute;cio &eacute; seu carro chefe.&nbsp;Nossa resposta n&atilde;o tem como ser outra, sen&atilde;o, massificar as lutas, seguir organizando o povo e colocando a nossa alternativa para o campo brasileiro&rdquo;, afirma.</p>
+&ldquo;Mais uma vez o governo federal est&aacute; mostrando que o agroneg&oacute;cio &eacute; seu carro chefe.&nbsp;Nossa resposta n&atilde;o tem como ser outra, sen&atilde;o&nbsp;massificar as lutas, seguir organizando o povo e colocando a nossa alternativa para o campo brasileiro&rdquo;, afirma.</p>
 
 <p><br />
-Rosa Maria, da dire&ccedil;&atilde;o nacional do Movimento reafirma que os acampados seguir&atilde;o construindo as condi&ccedil;&otilde;es para um projeto de vida para as fam&iacute;lias Sem Terra, de soberania popular para toda a regi&atilde;o, projetando a dinamiza&ccedil;&atilde;o da economia regional e avan&ccedil;ando na luta por &aacute;gua e direitos sociais para o conjunto da sociedade.&nbsp;</p>
+Rosa Maria, da dire&ccedil;&atilde;o nacional do MST,&nbsp;disse que os acampados seguir&atilde;o construindo as condi&ccedil;&otilde;es para um projeto de vida &agrave;s fam&iacute;lias Sem Terra, de soberania popular para toda a regi&atilde;o, projetando a dinamiza&ccedil;&atilde;o da economia regional e avan&ccedil;ando na luta por &aacute;gua e direitos sociais para o conjunto da sociedade.&nbsp;</p>
 
 <p><br />
-&ldquo;Nossa tarefa &eacute; chegar nas regi&otilde;es e contribuir para a transforma&ccedil;&atilde;o da sociedade, n&atilde;o s&oacute; para as fam&iacute;lias camponesas, como para o povo da cidade. Sabemos que essa &eacute; uma regi&atilde;o muito rica, marcada por muitas desigualdades, todos os territ&oacute;rios que s&atilde;o alvos do agroneg&oacute;cio s&atilde;o devastadas, se apropriam da nossa pouca &aacute;gua, da terra, de investimentos exorbitantes e deixam a pobreza e doen&ccedil;as&rdquo;, finalizou.&nbsp;</p>
+&ldquo;Nossa tarefa &eacute; chegar nas regi&otilde;es e contribuir para a transforma&ccedil;&atilde;o da sociedade, n&atilde;o s&oacute; para as fam&iacute;lias camponesas, como para o povo da cidade. Sabemos que essa &eacute; uma regi&atilde;o muito rica, marcada por muitas desigualdades. Todos os territ&oacute;rios que s&atilde;o alvos do agroneg&oacute;cio s&atilde;o devastadas, se apropriam da nossa pouca &aacute;gua, da terra, de investimentos exorbitantes e deixam a pobreza e doen&ccedil;as&rdquo;, finalizou.</p>
