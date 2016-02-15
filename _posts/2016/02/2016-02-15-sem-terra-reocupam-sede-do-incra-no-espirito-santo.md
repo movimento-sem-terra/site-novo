@@ -55,10 +55,10 @@ Na parte da tarde, os trabalhadores rurais realizaram um protesto&nbsp;em frente
 Desde o come&ccedil;o de fevereiro, os trabalhadores rurais est&atilde;o se mobilizando contra&nbsp;a proposta da Secretaria de Estado da Educa&ccedil;&atilde;o (Sedu), que desconsidera a Pedagogia da Altern&acirc;ncia. Neste modelo, os alunos intercalam um per&iacute;odo de conviv&ecirc;ncia na sala de aula com outro no campo, garantindo a perman&ecirc;ncia dos alunos no meio rural. A Sedu vinha se mostrando irredut&iacute;vel no di&aacute;logo.</p>
 
 <p><br />
-Ap&oacute;s a mobiliza&ccedil;&atilde;o desta segunda, os Sem Terra conseguiram marcar uma audi&ecirc;ncia para esta tarde com a Secretaria de Educa&ccedil;&atilde;o e&nbsp;de Agricultura e com o chefe da casa civil.</p>
+Ap&oacute;s a mobiliza&ccedil;&atilde;o desta segunda, os Sem Terra conseguiram marcar uma audi&ecirc;ncia para esta tarde com a Secretaria de Educa&ccedil;&atilde;o,&nbsp;de Agricultura e com o chefe da casa civil.</p>
 
 <p><br />
-Al&eacute;m da pauta da educa&ccedil;&atilde;o, os trabalhadores tamb&eacute;m exigem a obten&ccedil;&atilde;o de terras no estado, o levantamento imediato de terras devolutas&nbsp;para o assentamento das tr&ecirc;s mil fam&iacute;lias acampadas na regi&atilde;o.</p>
+Al&eacute;m da pauta da educa&ccedil;&atilde;o, os trabalhadores tamb&eacute;m exigem a obten&ccedil;&atilde;o de terras no estado e&nbsp;o levantamento imediato de terras devolutas&nbsp;para o assentamento das tr&ecirc;s mil fam&iacute;lias acampadas na regi&atilde;o.</p>
 
 <p><br />
-Outra reivindica&ccedil;&atilde;o dos Sem Terra &eacute; a constru&ccedil;&atilde;o imediata de barragens na regi&atilde;o e a puni&ccedil;&atilde;o do estado pela contamina&ccedil;&atilde;o do Rio Doce com a trag&eacute;dia de Mariana ocorrida no final do ano passado.</p>
+Outra reivindica&ccedil;&atilde;o &eacute; a constru&ccedil;&atilde;o imediata de barragens na regi&atilde;o e a puni&ccedil;&atilde;o do estado pela contamina&ccedil;&atilde;o do Rio Doce com a trag&eacute;dia de Mariana ocorrida no final do ano passado.</p>
