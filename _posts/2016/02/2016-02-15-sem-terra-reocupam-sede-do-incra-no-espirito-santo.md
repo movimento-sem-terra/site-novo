@@ -5,7 +5,7 @@ tags:
   - tag: fechamento-de-escolas
   - tag: espírito-santo
   - tag: assentamentos
-title: "Sem Terra reocupam sede do Incra no Espírito Santo "
+title: "Sem Terra ocupam sede do Incra no Espírito Santo "
 support_line: "Os Sem Terra se manifestam contra as recentes medidas instituídas pelo governo, que tem como objetivo objetivo prejudicar ainda mais a educação pública do estado. "
 menu: lutas e mobilizações
 images_hd: //farm2.staticflickr.com/1463/24950882141_c1c7ea25d6_b.jpg
