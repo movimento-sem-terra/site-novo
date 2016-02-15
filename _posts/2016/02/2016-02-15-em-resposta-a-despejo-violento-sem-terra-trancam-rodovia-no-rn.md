@@ -33,7 +33,7 @@ Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
-<p>Na manh&atilde; desta segunda feira (15), cerca de 150 fam&iacute;lias Sem Terra trancaram as BR&rsquo;s 304 e 406, em cinco trechos.&nbsp;</p>
+<p>Na manh&atilde; desta segunda-feira (15), cerca de 150 fam&iacute;lias Sem Terra trancaram as BR&rsquo;s 304 e 406, em cinco trechos no Rio Grande do Norte.&nbsp;</p>
 
 <p><br />
 Na BR-406, foram dois os trechos bloqueados: no Km 100, em Jo&atilde;o C&acirc;mara, e no Km 163, na comunidade de Ma&ccedil;aranduba, em Cear&aacute;-Mirim, cidade da regi&atilde;o Metropolitana da capital potiguar.&nbsp;</p>
@@ -45,13 +45,13 @@ Na BR-304, o trecho interditado fica no Km 285, nas proximidades do restaurante 
 A a&ccedil;&atilde;o foi um protesto contra&nbsp;a realiza&ccedil;&atilde;o violenta&nbsp;de um despejo que aconteceu tamb&eacute;m na manh&atilde; desta segunda no Acampamento Dandara, em Caic&oacute;, regi&atilde;o do Serid&oacute; do Rio Grande do Norte.</p>
 
 <p><br />
-O acampamento estava localizado em uma &aacute;rea da Empresa Agropecu&aacute;ria do Rio Grande do Norte (EMPARN), que, assim como a Empresa Brasileira de Pesquisa Agropecu&aacute;ria (EMBRAPA), est&aacute; sob os mandos e desmandos da ministra K&aacute;tia.</p>
+O acampamento estava localizado em uma &aacute;rea da Empresa Agropecu&aacute;ria do Rio Grande do Norte (EMPARN), que, assim como a Empresa Brasileira de Pesquisa Agropecu&aacute;ria (EMBRAPA), est&aacute; sob os mandos e desmandos da ministra K&aacute;tia Abreu.</p>
 
 <p><br />
 Anterior a essa a&ccedil;&atilde;o de despejo, o Movimento realizou um acordo com o governo do estado que concedeu 120 dias para que as fam&iacute;lias fossem realocadas em uma nova &aacute;rea.&nbsp;</p>
 
 <p><br />
-No entanto, EMBRAPA n&atilde;o cumpriu o acordo e seguiu com amea&ccedil;as as fam&iacute;lias acampadas, usando os meios de comunica&ccedil;&atilde;o da regi&atilde;o para criminalizar o Movimento.&nbsp;</p>
+No entanto, segundo a dire&ccedil;&atilde;o estadual do Movimento, &nbsp;EMBRAPA n&atilde;o cumpriu o acordo e seguiu com amea&ccedil;as as fam&iacute;lias acampadas, usando os meios de comunica&ccedil;&atilde;o da regi&atilde;o para criminalizar os Sem Terra.&nbsp;</p>
 
 <p><br />
 Lucenilson Angelo, da dire&ccedil;&atilde;o nacional do movimento, essa posi&ccedil;&atilde;o da empresa s&oacute; ratifica o alinhamento pol&iacute;tico do governo federal com o agroneg&oacute;cio.</p>
