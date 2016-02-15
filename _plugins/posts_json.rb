@@ -1,8 +1,9 @@
 require 'json'
+require_relative './get_video_embeded'
 
 module Jekyll
   module PostsJSON
-    include VideoEmbeded
+    include Jekyll::VideoEmbeded
 
     def generate_json(obj, stdout=false)
       Array(obj).flatten[0..500].map do |post|
