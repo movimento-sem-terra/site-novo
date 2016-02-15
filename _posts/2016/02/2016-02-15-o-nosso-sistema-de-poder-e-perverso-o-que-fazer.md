@@ -22,20 +22,20 @@ published: true
 releated_posts: []
 
 ---
-<p>&nbsp;</p>
-
-<p><em>Da P&aacute;gina do MST *</em></p>
+<p><img alt="4544.jpg" src="//farm2.staticflickr.com/1718/24418549973_b844229e4c_b.jpg" /></p>
 
 <p><br />
-<br />
+<em>Por&nbsp;</em><em style="line-height: 20.8px;"><em>P</em>ertti Simula*</em><br />
+<em>Da P&aacute;gina do MST</em></p>
+
+<p><br />
 Analisando somente&nbsp;quatro caracter&iacute;sticas essenciais da nossa sociedade podemos&nbsp;concluir:</p>
 
 <p><br />
 a) A ess&ecirc;ncia do capitalismo &eacute; o&nbsp;capital, dinheiro. Quem tem capital ganha mais por ter&nbsp;capital. O dinheiro e&nbsp;lucro &eacute; o objetivo &ldquo;sagrado&rdquo; que justifica os meios. Isto resulta&nbsp;numa especula&ccedil;&atilde;o e explora&ccedil;&atilde;o dos recursos naturais e humanos (trabalhadores) sem&nbsp;limites, causando enormes injusti&ccedil;as econ&ocirc;micas e sociais.&nbsp;</p>
 
-<p>&nbsp;</p>
-
-<p>b) O sistema pol&iacute;tico &eacute; de&nbsp;democracia representativa que significa delegar o poder&nbsp;pol&iacute;tico para representantes (presidente, governadores, senadores, delegados,&nbsp;vereadores) causando uma aliena&ccedil;&atilde;o do povo da tomada de decis&otilde;es e de&nbsp;planejamento da sociedade. Com isto a democracia foi sequestrada e colocada a&nbsp;servi&ccedil;o do poder especulativo, econ&ocirc;mico.</p>
+<p><br />
+b) O sistema pol&iacute;tico &eacute; de&nbsp;democracia representativa que significa delegar o poder&nbsp;pol&iacute;tico para representantes (presidente, governadores, senadores, delegados,&nbsp;vereadores) causando uma aliena&ccedil;&atilde;o do povo da tomada de decis&otilde;es e de&nbsp;planejamento da sociedade. Com isto a democracia foi sequestrada e colocada a&nbsp;servi&ccedil;o do poder especulativo, econ&ocirc;mico.</p>
 
 <p><br />
 c) O&nbsp;trabalho &eacute; organizado de modo que quem tem capital consegue se tornar&nbsp;empregador e os trabalhadores s&atilde;o empregados. A rela&ccedil;&atilde;o entre empregador e&nbsp;empregado significa um conflito estrutural. O empregado trabalha numa aliena&ccedil;&atilde;o e&nbsp;submiss&atilde;o humilhante. O empregador v&ecirc; o empregado como um mero recurso e&nbsp;despesa sem aspecto humano.</p>
@@ -70,9 +70,8 @@ Os poderes n&atilde;o querem que o povo possa sentir conscientemente indigna&cce
 <p><br />
 O poder d&aacute; uma sensa&ccedil;&atilde;o de que agora eu existo. O poder &eacute; como uma droga alienante, quanto mais&nbsp;poder &nbsp;se consegue , mais aumenta a necessidade de alcan&ccedil;&aacute;-lo ainda em doses maiores&nbsp;causando um circulo vicioso, uma depend&ecirc;ncia. Por isso a sede de poder aumenta sem&nbsp;limites.</p>
 
-<p>&nbsp;</p>
-
-<p>Ganhando poder o ser humano pode exigir dos outros. Exigir &eacute; um ato de repress&atilde;o,&nbsp;limita&ccedil;&atilde;o da liberdade do outro, e, por tanto, da responsabilidade dele, &eacute; em ultima&nbsp;instancia uma tentativa de limitar a consci&ecirc;ncia do outro. O poderoso acaba inevitavelmente&nbsp;se reprimindo a si mesmo, sendo que tudo que fazemos com o outro, fazemos dentro de n&oacute;s&nbsp;mesmos no nosso modo de sentir e pensar (S&oacute;crates, filosofo grego 450 a.C.).</p>
+<p><br />
+Ganhando poder o ser humano pode exigir dos outros. Exigir &eacute; um ato de repress&atilde;o,&nbsp;limita&ccedil;&atilde;o da liberdade do outro, e, por tanto, da responsabilidade dele, &eacute; em ultima&nbsp;instancia uma tentativa de limitar a consci&ecirc;ncia do outro. O poderoso acaba inevitavelmente&nbsp;se reprimindo a si mesmo, sendo que tudo que fazemos com o outro, fazemos dentro de n&oacute;s&nbsp;mesmos no nosso modo de sentir e pensar (S&oacute;crates, filosofo grego 450 a.C.).</p>
 
 <p><br />
 O poderoso se sente maior e mais importante que os outros (arrog&acirc;ncia). Ganhar poder&nbsp;alimenta a mania de grandeza nele. O poderoso &eacute; bajulado por outros, e isto o aliena ainda&nbsp;mais da realidade. O sistema tende lev&aacute;-lo para corrup&ccedil;&atilde;o e recorrer a ditatura.</p>
@@ -85,8 +84,9 @@ O poderoso se sente maior e mais importante que os outros (arrog&acirc;ncia). Ga
 
 <p><br />
 Na quest&atilde;o estrutural, devemos construir uma sociedade socialista&nbsp;com bases na solidariedade e na igualdade entre todos e todas,&nbsp;deve ter uma organiza&ccedil;&atilde;o do poder maximamente horizontalizada (o principio geral do&nbsp;MST). A democracia participativa (direta) deve ser a ess&ecirc;ncia da democracia o povo votando&nbsp;sobre todas as decis&otilde;es importantes diretamente. Ao lado disto, a democracia&nbsp;representativa ser&aacute; mantida para escolher os representantes que cuidam da implanta&ccedil;&atilde;o&nbsp;das decis&otilde;es. Isso requer um processo longo de desenvolvimento humano e social, mas &eacute;&nbsp;uma condi&ccedil;&atilde;o necess&aacute;ria para as&nbsp;pessoas crescerem na consci&ecirc;ncia humana, social,<br />
-pol&iacute;tica, econ&ocirc;mica e ecol&oacute;gica.<br />
-<br />
+pol&iacute;tica, econ&ocirc;mica e ecol&oacute;gica.</p>
+
+<p><br />
 A quest&atilde;o ps&iacute;quica&nbsp;da lavagem cerebral pelo capitalismo &eacute; um fato e desafio bem&nbsp;conhecido e comentado. Conforme o&nbsp;conceito capitalista o ser humano tem pela sua&nbsp;natureza as seguintes caracter&iacute;sticas: Ele &eacute;&nbsp;competidor querendo sempre submeter os&nbsp;outros (darwinismo). Ele &eacute;&nbsp;conquistador, sempre querendo mais poder (gan&acirc;ncia). Ele &eacute;&nbsp;racional, e lutando pelos seus objetivos est&aacute; fazendo bem para a sociedade em geral (&ldquo;m&atilde;o&nbsp;invis&iacute;vel&rdquo;, Adam Smith, economista ingl&ecirc;s, s&eacute;culo XVII).</p>
 
 <p><br />
@@ -104,9 +104,8 @@ Um conceito que funciona no sentido de incentivar o&nbsp;nosso modo de sentir pa
 <p><br />
 2.&nbsp;Conscientize-se sobre a nossa total liberdade para sentir e a liberdade limitada para&nbsp;agir. Desenvolva aceita&ccedil;&atilde;o e respeito pelo modo de sentir dos outros e de si mesmo. O&nbsp;poder de manipula&ccedil;&atilde;o emocional atrav&eacute;s de descontentamento, humilha&ccedil;&atilde;o ou raiva &eacute;&nbsp;reduzido drasticamente. O poder psicol&oacute;gico da repress&atilde;o perde a sua for&ccedil;a. Isto vai&nbsp;levar ao aumento do sentimento de liberdade e responsabilidade, portanto, alegria e&nbsp;uni&atilde;o do coletivo.</p>
 
-<p>&nbsp;</p>
-
-<p>3.&nbsp;Desenvolva o h&aacute;bito de refor&ccedil;ar a consci&ecirc;ncia das riquezas humanas. N&atilde;o fa&ccedil;a critica&nbsp;ou avalia&ccedil;&atilde;o sobre uma pessoa. Avalie o que ela faz com respeito e refor&ccedil;ando a&nbsp;consci&ecirc;ncia das riquezas dela. Desenvolva a compreens&atilde;o sobre os nossos empecilhos&nbsp;internos. Haver&aacute; um sentimento de valoriza&ccedil;&atilde;o m&uacute;tua entre os membros do coletivo, o&nbsp;que aumenta a uni&atilde;o, motiva&ccedil;&atilde;o e coragem.</p>
+<p><br />
+3.&nbsp;Desenvolva o h&aacute;bito de refor&ccedil;ar a consci&ecirc;ncia das riquezas humanas. N&atilde;o fa&ccedil;a critica&nbsp;ou avalia&ccedil;&atilde;o sobre uma pessoa. Avalie o que ela faz com respeito e refor&ccedil;ando a&nbsp;consci&ecirc;ncia das riquezas dela. Desenvolva a compreens&atilde;o sobre os nossos empecilhos&nbsp;internos. Haver&aacute; um sentimento de valoriza&ccedil;&atilde;o m&uacute;tua entre os membros do coletivo, o&nbsp;que aumenta a uni&atilde;o, motiva&ccedil;&atilde;o e coragem.</p>
 
 <p><br />
 4.&nbsp;Introduza a percep&ccedil;&atilde;o de que somos todos espelhos internos uns dos outros em&nbsp;caracter&iacute;sticas humanas. Tudo que vejo no outro est&aacute; em mim tamb&eacute;m, obviamente&nbsp;em graus e modos diferentes. Esta consci&ecirc;ncia aumenta a sensa&ccedil;&atilde;o de igualdade,&nbsp;reduz a critica, a classifica&ccedil;&atilde;o (&ldquo;pior/melhor&rdquo;), acusa&ccedil;&otilde;es e conflitos pessoais e fomenta&nbsp;coopera&ccedil;&atilde;o e o desenvolvimento humano pela autoconsci&ecirc;ncia.</p>
@@ -126,8 +125,8 @@ Este &eacute; um processo de transforma&ccedil;&atilde;o do modo de sentir, pens
 <p><br />
 Mais do que nunca a assertiva de Che Guevarra &eacute; necess&aacute;ria:&nbsp;&ldquo;Vamos ser realistas e tentar o imposs&iacute;vel.&rdquo;</p>
 
-<p>&nbsp;</p>
+<p><br />
+<em>* Pertti Simula &eacute; psicanalista e Mestre em Ci&ecirc;ncias</em></p>
 
-<p><em>* Pertti Simula &eacute; psicanalista e Mestre em Ci&ecirc;ncias</em></p>
-
-<p><em>A abordagem usada no texto, chamada de m&eacute;todo conscientia, &eacute; o resultado de um trabalho de 30 anos&nbsp;unindo observa&ccedil;&otilde;es pr&aacute;ticas das dimens&otilde;es do coletivo, coopera&ccedil;&atilde;o, campo terap&ecirc;utico e&nbsp;das rela&ccedil;&otilde;es humanas. O desenvolvimento da metodologia est&aacute; sendo realizado em grande&nbsp;parte em cooperativas, escolas e institutos de forma&ccedil;&atilde;o do Movimento dos Trabalhadores&nbsp;Rurais sem Terra do Brasil &ndash; MST, al&eacute;m da participa&ccedil;&atilde;o de educadores de escolas na&nbsp;Finl&acirc;ndia e Su&eacute;cia.</em></p>
+<p><br />
+<em>A abordagem usada no texto, chamada de m&eacute;todo conscientia, &eacute; o resultado de um trabalho de 30 anos&nbsp;unindo observa&ccedil;&otilde;es pr&aacute;ticas das dimens&otilde;es do coletivo, coopera&ccedil;&atilde;o, campo terap&ecirc;utico e&nbsp;das rela&ccedil;&otilde;es humanas. O desenvolvimento da metodologia est&aacute; sendo realizado em grande&nbsp;parte em cooperativas, escolas e institutos de forma&ccedil;&atilde;o do Movimento dos Trabalhadores&nbsp;Rurais sem Terra do Brasil &ndash; MST, al&eacute;m da participa&ccedil;&atilde;o de educadores de escolas na&nbsp;Finl&acirc;ndia e Su&eacute;cia.</em></p>
