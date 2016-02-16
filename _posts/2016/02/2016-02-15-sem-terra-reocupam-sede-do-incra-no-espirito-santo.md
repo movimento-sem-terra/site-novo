@@ -34,7 +34,7 @@ releated_posts:
   - _posts/2015/06/2015-06-24-mais-de-4-mil-escolas-do-campo-fecham-suas-portas-em-2014.md
   - _posts/2015/07/2015-07-20-richa-mais-uma-vez-atenta-a-educacao-e-fechara-casas-familiares-rurais.md
   - _posts/2015/09/2015-09-23-apos-marcha-educadores-ocupam-ministerio-da-agricultura-em-brasilia.md
-section: cover
+section: null
 
 ---
 <p><img alt="sede governo ES.jpg" src="//farm2.staticflickr.com/1660/24418181914_6a1d3d0704_b.jpg" /></p>
