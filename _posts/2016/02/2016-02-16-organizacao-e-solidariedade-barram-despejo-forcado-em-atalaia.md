@@ -1,6 +1,9 @@
 ---
 date: "2016-02-16T10:32:30-02:00"
-tags: []
+tags:
+  - tag: despejo
+  - tag: solidariedade
+  - tag: reforma-agrária
 title: Organização e solidariedade barram despejo forçado em Atalaia
 menu: lutas e mobilizações
 section: cover
@@ -29,7 +32,10 @@ files:
     $$hashKey: 02S
 created_date: "2016-02-16T10:50:25-02:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2015/12/2015-12-03-sem-terras-sao-despejados-da-fazenda-saco-do-ceu-em-nova-andradina.md
+  - _posts/2016/02/2016-02-05-venda-de-cestas-agroflorestais-estimula-o-cultivo-em-saf-s-em-ribeirao-preto.md
+  - _posts/2016/02/2016-02-04-sem-terra-sofrem-ameaca-de-despejo-no-tocantins.md
 
 ---
 <p><img alt="IMG_8531.JPG" src="//farm2.staticflickr.com/1534/24697766119_12d1b0a164_b.jpg" /><br />
@@ -49,19 +55,19 @@ As movimenta&ccedil;&otilde;es da Pol&iacute;cia Militar acercando o acampamento
 <p><br />
 &ldquo;O alerta permanece, e toda essa capacidade de organiza&ccedil;&atilde;o para resistir das fam&iacute;lias e de solidariedade que recebemos dos demais movimentos de luta pela terra e dos companheiros da cidade somente refor&ccedil;am o sentimento de continuar a luta pela reforma agr&aacute;ria, pelo acesso &agrave; terra e aos direitos&rdquo;, ressalta Jos&eacute; Roberto, da dire&ccedil;&atilde;o nacional do MST. &ldquo;Uma vit&oacute;ria para o MST, evitando o despejo e o agravamento da situa&ccedil;&atilde;o dessas fam&iacute;lias&rdquo;, conclui.</p>
 
+<p><br />
+Estiveram presentes na manh&atilde; desta segunda no acampamento S&atilde;o Jos&eacute;, na Zona Rural de Atalaia, representantes de diversos movimentos sociais do campo alagoano, entre a Comiss&atilde;o Pastoral da Terra (CPT), o Movimento Terra, Trabalho e Liberdade (MTL), a Via do Trabalho, o Movimento de Liberta&ccedil;&atilde;o dos Sem Terra (MLST), entre outros. Tamb&eacute;m somaram for&ccedil;as&nbsp;os sindicatos dos trabalhadores da educa&ccedil;&atilde;o e dos banc&aacute;rios, bem como a Central &Uacute;nica dos Trabalhadores (CUT).</p>
+
+<p><br />
+&ldquo;O estado doava a terra pra o fazendeiro escravizar antigamente, hoje tem muita diferen&ccedil;a? Veja o caso do cortador de cana-de-a&ccedil;&uacute;car nos contextos atuais&rdquo;, reflete Izac Jackson, da CUT, condenando o papel do Estado brasileiro sempre em favor das elites. &ldquo;O valor dessa resist&ecirc;ncia &eacute; imensur&aacute;vel: &eacute; um marco pela historia de resist&ecirc;ncia de cada um de voc&ecirc;s. &Eacute; um marco pela vida de um trabalhador que est&aacute; presente entre n&oacute;s em esp&iacute;rito, nos dando for&ccedil;a&rdquo;, avalia.</p>
+
 <p>&nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="IMG_8525.JPG" src="//farm2.staticflickr.com/1708/24697768549_1e2f40b985_b.jpg" />
 <figcaption></figcaption>
 </figure>
 
-<p>Estiveram presentes na manh&atilde; desta segunda no acampamento S&atilde;o Jos&eacute;, na Zona Rural de Atalaia, representantes de diversos movimentos sociais do campo alagoano, entre a Comiss&atilde;o Pastoral da Terra (CPT), o Movimento Terra, Trabalho e Liberdade (MTL), a Via do Trabalho, o Movimento de Liberta&ccedil;&atilde;o dos Sem Terra (MLST), entre outros. Tamb&eacute;m somaram for&ccedil;as&nbsp;os sindicatos dos trabalhadores da educa&ccedil;&atilde;o e dos banc&aacute;rios, bem como a Central &Uacute;nica dos Trabalhadores (CUT).</p>
-
-<p><br />
-&ldquo;O estado doava a terra pra o fazendeiro escravizar antigamente, hoje tem muita diferen&ccedil;a? Veja o caso do cortador de cana-de-a&ccedil;&uacute;car nos contextos atuais&rdquo;, reflete Izac Jackson, da CUT, condenando o papel do Estado brasileiro sempre em favor das elites. &ldquo;O valor dessa resist&ecirc;ncia &eacute; imensur&aacute;vel: &eacute; um marco pela historia de resist&ecirc;ncia de cada um de voc&ecirc;s. &Eacute; um marco pela vida de um trabalhador que est&aacute; presente entre n&oacute;s em esp&iacute;rito, nos dando for&ccedil;a&rdquo;, avalia.</p>
-
-<p><br />
-Preparados para o enfrentamento, bem como diziam as falas que animavam a&nbsp;multid&atilde;o, os sindicalistas deram uma for&ccedil;a extra &agrave;&nbsp;resist&ecirc;ncia. &ldquo;Essa tristeza que passamos se transforma em oxig&ecirc;nio para luta, em esperan&ccedil;a. Por isso estamos aqui, toda classe trabalhadora unida para resistir e dar o recado claro: essa terra ser&aacute; efetivamente de cada trabalhador, cada trabalhadora! &Eacute; simb&oacute;lica e ser&aacute; conquistada!&rdquo;, disse&nbsp;Izac.</p>
+<p>Preparados para o enfrentamento, bem como diziam as falas que animavam a&nbsp;multid&atilde;o, os sindicalistas deram uma for&ccedil;a extra &agrave;&nbsp;resist&ecirc;ncia. &ldquo;Essa tristeza que passamos se transforma em oxig&ecirc;nio para luta, em esperan&ccedil;a. Por isso estamos aqui, toda classe trabalhadora unida para resistir e dar o recado claro: essa terra ser&aacute; efetivamente de cada trabalhador, cada trabalhadora! &Eacute; simb&oacute;lica e ser&aacute; conquistada!&rdquo;, disse&nbsp;Izac.</p>
 
 <p><br />
 Desde o in&iacute;cio da manh&atilde;, havia toda uma movimenta&ccedil;&atilde;o das tropas da pol&iacute;cia militar, caminh&otilde;es, carros-pipa, ambul&acirc;ncias;&nbsp;toda uma infraestrutura disponibilizada pela Prefeitura contra as fam&iacute;lias, que contraditoriamente sofrem com a neglig&ecirc;ncia do acesso &agrave;&nbsp;pol&iacute;ticas p&uacute;blicas no dia&nbsp;a&nbsp;dia.</p>
@@ -78,10 +84,12 @@ O MST fez diversas media&ccedil;&otilde;es com as inst&acirc;ncias do poder p&ua
 <p><br />
 O julgamento da a&ccedil;&atilde;o rescis&oacute;ria sobre este tema, impetrada pelo MPF e em tramita&ccedil;&atilde;o no Tribunal de Justi&ccedil;a (TJ-AL), &eacute; de grande esperan&ccedil;a para as fam&iacute;lias para terem acesso &agrave;quelas terras. O MST e os demais movimentos de Alagoas seguem mobilizados para que se fa&ccedil;a justi&ccedil;a social, e alertam que apenas iniciaram uma grande campanha de solidariedade sobre&nbsp;o acampamento S&atilde;o Jos&eacute;, que ganha adeptos a cada dia.</p>
 
-<p>&nbsp;
+<p>&nbsp;</p>
+
 <p><img alt="IMG_8492.JPG" src="//farm2.staticflickr.com/1544/24697774389_5fd0cb3cff_b.jpg" /><br />
-<span style="line-height: 20.8px;">FOTOS - Gustavo Marinho</span><strong>Hist&oacute;rico&nbsp;</strong></p>
-</p>
+&nbsp;</p>
+
+<p><strong>Hist&oacute;rico&nbsp;</strong></p>
 
 <p><br />
 O acampamento S&atilde;o Jos&eacute; foi criado em 2004, quando da primeira ocupa&ccedil;&atilde;o da fazenda S&atilde;o Sebasti&atilde;o, rodeada de outras &aacute;reas que tamb&eacute;m pertenceram &agrave; Usina Ouricuri e que viraram assentamentos por meio da luta dos trabalhadores rurais. A disputa por terras na regi&atilde;o&nbsp;j&aacute; deixou marcas violentas, como o assassinato de Chico do Sindicato e Jos&eacute; Elenilson (em 1995 e 2000, respectivamente).</p>
