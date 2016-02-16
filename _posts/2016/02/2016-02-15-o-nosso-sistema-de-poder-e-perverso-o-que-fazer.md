@@ -4,7 +4,7 @@ tags:
   - tag: capitalismo
   - tag: sistema-de-poder
   - tag: concentração-de-renda
-title: O nosso sistema de poder é perverso. – O que fazer?
+title: A perversidade do sistema capitalista. O que fazer?
 menu: lutas e mobilizações
 label: articles
 support_line: "No capitalismo, como em qualquer sistema de concentração de poder, a repressão funciona “bem” para “benefício” de poucos. "
