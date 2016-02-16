@@ -37,7 +37,7 @@ Da P&aacute;gina do MST</em></p>
 <p>Com o tema &ldquo;Educa&ccedil;&atilde;o com agroecologia. Transformando a pr&aacute;tica educativa&rdquo;, foi realizada nos dias 11 e 12 de fevereiro&nbsp;a 2&ordm; Jornada Pedag&oacute;gica da Brigada Elias de Meura, na Escola Municipal Paulo Freire, no Assentamento Luis In&aacute;cio Lula da Silva, em Santa Cruz Cabr&aacute;lia (BA).</p>
 
 <p><br />
-Para Maria Gil, da coordena&ccedil;&atilde;o do setor de educa&ccedil;&atilde;o da brigada, a jornada pedag&oacute;gica &eacute; um momento importante, pois permite que v&aacute;rios autores como os educadores, diretores e coordenadores possam discutir e planejar o novo ano letivo.</p>
+Para Maria Gil, da coordena&ccedil;&atilde;o do setor de educa&ccedil;&atilde;o da brigada, a jornada pedag&oacute;gica &eacute; um momento importante, pois permite que v&aacute;rios atores como os educadores, diretores e coordenadores possam discutir e planejar o novo ano letivo.</p>
 
 <p><br />
 &ldquo;&Eacute; importante, mais uma vez, ressaltarmos que a educa&ccedil;&atilde;o e a forma&ccedil;&atilde;o s&atilde;o pol&iacute;ticas estrat&eacute;gicas dentro de nossa concep&ccedil;&atilde;o de desenvolvimento social. Qualquer transforma&ccedil;&atilde;o mais expressiva da sociedade e em setores sociais espec&iacute;ficos que buscam uma valoriza&ccedil;&atilde;o de sua identidade tem na educa&ccedil;&atilde;o um dos seus mais fortes alicerces&rdquo;, explicou Gil.</p>
@@ -52,8 +52,4 @@ J&aacute; Jaziane Mota, da dire&ccedil;&atilde;o estadual do MST, acredita que a
 Com o grito de ordem &ldquo;Educa&ccedil;&atilde;o do campo. Direito nosso, dever do estado!&rdquo;, a programa&ccedil;&atilde;o da jornada contou com a presen&ccedil;a de diversas representa&ccedil;&otilde;es da educa&ccedil;&atilde;o reconhecidas a n&iacute;vel nacional e regional.</p>
 
 <p><br />
-O pr&oacute;ximo passo apontado pelos educadores &eacute; levar &agrave;s salas de aula, nos assentamentos e acampamentos da brigada, o planejamento constru&iacute;do.&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
+O pr&oacute;ximo passo apontado pelos educadores &eacute; levar &agrave;s salas de aula, nos assentamentos e acampamentos da brigada, o planejamento constru&iacute;do.</p>
