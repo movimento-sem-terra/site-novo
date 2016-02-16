@@ -29,7 +29,7 @@ files:
     title: 0.0.jpeg
     $$hashKey: "033"
 created_date: "2016-02-16T12:24:40-02:00"
-published: true
+published: false
 releated_posts:
   - _posts/2014/05/2014-05-14-agroecologia-tera-grande-encontro-as-margens-do-sao-francisco.md
   - _posts/2014/05/2014-05-14-agroecologia-tera-grande-encontro-as-margens-do-sao-francisco.md-e
