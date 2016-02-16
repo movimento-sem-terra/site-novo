@@ -6,7 +6,7 @@ tags:
   - tag: reforma-agrária
 title: Organização e solidariedade barram despejo forçado em Atalaia
 menu: lutas e mobilizações
-section: cover
+section: featured-news
 sector: mass-front
 images_hd: //farm2.staticflickr.com/1534/24697766119_12d1b0a164_b.jpg
 support_line: Diversas movimentos se juntaram ao acampamento dos Sem Terra e impediram que a polícia militar realizasse o despejo das famílias.
