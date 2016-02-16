@@ -18,7 +18,7 @@ files:
     title: LULLA.jpg
     $$hashKey: 07L
 created_date: "2016-02-16T18:05:31-02:00"
-published: false
+published: true
 releated_posts:
   - _posts/2015/01/2015-01-21-lula-visita-escola-florestan-fernandes-e-defende-atuacao-dos-movimentos-sociais-no-brasil.md
   - _posts/2015/01/2015-01-22-em-visita-a-enff-lula-destaca-a-importancia-da-formacao-politica.md
