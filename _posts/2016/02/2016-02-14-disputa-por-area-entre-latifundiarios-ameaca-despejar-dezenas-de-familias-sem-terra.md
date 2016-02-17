@@ -7,7 +7,7 @@ tags:
 title: Famílias acampadas há doze anos lutam para resistir a despejo em Alagoas
 support_line: "Doze anos após a primeira ocupação da antiga Usina Ouricuri, em Atalaia (AL), uma nova ameaça está presente: o despejo anunciado para esta segunda."
 menu: direitos humanos
-section: featured-news
+section: null
 images_hd: //farm2.staticflickr.com/1613/25022358345_41024a2fdf_b.jpg
 layout: post
 files:
