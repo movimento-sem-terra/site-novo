@@ -5,7 +5,7 @@ tags:
   - tag: fechamento-de-escolas
   - tag: educação-no-campo
   - tag: vitória
-title: "Sem Terra ocupam Sedu após secretário ignorar reivindicação sobre educação do campo "
+title: "Sem Terra ocupam Sedu após secretário ignorar pauta sobre educação "
 images_hd: //farm2.staticflickr.com/1646/24993919561_650268a841_b.jpg
 menu: "educação, cultura e comunicação"
 support_line: Entre as reivindicações dos Sem Terra está a continuidade do projeto de educação das escolas de assentamentos do estado.
@@ -44,12 +44,10 @@ releated_posts:
   - _posts/2015/07/2015-07-20-richa-mais-uma-vez-atenta-a-educacao-e-fechara-casas-familiares-rurais.md
   - _posts/2015/09/2015-09-23-apos-marcha-educadores-ocupam-ministerio-da-agricultura-em-brasilia.md
 sector: education
+section: cover
 
 ---
 <p>&nbsp;</p>
-
-<p><br />
-&nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="seduocupação.jpg" src="//farm2.staticflickr.com/1468/24457146374_ce97231b1f_b.jpg" />
 <figcaption></figcaption>
