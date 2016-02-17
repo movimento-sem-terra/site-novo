@@ -47,6 +47,12 @@ releated_posts:
   - _posts/2014/02/2014-02-06-casa-civil-pressiona-ministerios-para-a-liberalizacao-de-agrotoxicos.md
 
 ---
+<figure class="image" style="float:right"><img alt="toxico_rio.jpg" src="//farm2.staticflickr.com/1613/24992030611_ece71ac511_b.jpg" />
+<figcaption></figcaption>
+</figure>
+
+<p>&nbsp;</p>
+
 <p><em>Por&nbsp;Ra&iacute;za Tourinho &amp; Gra&ccedil;a Portela<br />
 Da&nbsp;Fiocruz</em></p>
 
@@ -89,8 +95,7 @@ De acordo com Firpo, o consumo intensivo de agrot&oacute;xicos est&aacute; conce
 Em 2011, o Programa de An&aacute;lise de Res&iacute;duos de Agrot&oacute;xicos (PARA) da Anvisa, indicou como insatisfat&oacute;ria quatro das cinco amostras de alface; quatro das seis de cenoura; seis das nove de pepino e sete das nove amostras de piment&atilde;o. Em compensa&ccedil;&atilde;o, nenhuma das seis amostras de tomate analisadas tiveram resqu&iacute;cios de agrot&oacute;xicos acima do permitido ou com o uso n&atilde;o liberado. &nbsp;J&aacute; em 2012, o percentual de amostras de alimentos insatisfat&oacute;rias para consumo no Rio de Janeiro foi de 37,5%.</p>
 
 <figure class="image"><img alt="tabela intoxicacao 2.PNG" src="//farm2.staticflickr.com/1602/24991922891_fddfded1b5_b.jpg" />
-<figcaption>Munic&iacute;pios fluminenses com mais de 10 notifica&ccedil;&otilde;es registradas no Sinan entre 2009 e 2012/Fonte: MS<br />
-</figcaption>
+<figcaption>Munic&iacute;pios fluminenses com mais de 10 notifica&ccedil;&otilde;es registradas no Sinan entre 2009 e 2012/Fonte: MS</figcaption>
 </figure>
 
 <p><br />
