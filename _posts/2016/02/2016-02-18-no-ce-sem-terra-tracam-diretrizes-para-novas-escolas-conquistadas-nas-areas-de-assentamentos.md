@@ -3,7 +3,7 @@ date: "2016-02-18T17:43:30-02:00"
 tags:
   - tag: educação
   - tag: reforma-agrária
-title: "No Ceará, Sem Terra traçam diretrizes para novas escolas nos assentamentos"
+title: Sem Terra traçam diretrizes para as duas novas escolas conquistadas no Ceará
 menu: "educação, cultura e comunicação"
 sector: education
 images_hd: //farm2.staticflickr.com/1551/25113519955_f6420f6325_b.jpg
