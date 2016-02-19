@@ -5,8 +5,8 @@ tags:
   - tag: universidade
   - tag: medicina
   - tag: Sem-Terra
-title: Filho de assentados do MST fará medicina em universidade criada no governo Dilma
-support_line: "Marcondes Guedes nasceu e morou no Assentamento 10 de Abril, no Crato (CE), até os 15 anos. Ele vai estudar na Universidade Federal do Cariri."
+title: Sem Terra fará medicina em universidade criada no Cariri
+support_line: "Marcondes Guedes nasceu e morou no Assentamento 10 de Abril, no Crato (CE), até os 15 anos. "
 menu: "educação, cultura e comunicação"
 images_hd: //farm2.staticflickr.com/1654/25009399222_a6acaeed69_b.jpg
 layout: post
@@ -15,18 +15,11 @@ files:
     thumbnail: //farm2.staticflickr.com/1615/25034353081_161b55725f_t.jpg
     medium: //farm2.staticflickr.com/1615/25034353081_161b55725f_z.jpg
     small: //farm2.staticflickr.com/1615/25034353081_161b55725f_n.jpg
-    title: Marcondes-Guedes-vestibular-medicina-universidade-do-Cariri-Foto-Ya--an---Nepomucena.jpg
-    $$hashKey: 02M
-  - link: //farm2.staticflickr.com/1654/25009399222_a6acaeed69_b.jpg
-    thumbnail: //farm2.staticflickr.com/1654/25009399222_a6acaeed69_t.jpg
-    medium: //farm2.staticflickr.com/1654/25009399222_a6acaeed69_z.jpg
-    small: //farm2.staticflickr.com/1654/25009399222_a6acaeed69_n.jpg
-    title: a036e746-5bca-48f9-85eb-63694308d87c.jpeg
-    $$hashKey: 02P
-created_date: "2016-02-19T11:34:43-02:00"
+    title: Marcondes-Guedes-vestibular-medicina-universidade-do-Cariri-Foto-Ya--an
+    $$hashKey: 02V
+created_date: "2016-02-19T16:01:04-02:00"
 published: true
-releated_posts:
-  - _posts/2016/01/2016-01-27-jovens-sem-terra-se-formam-em-curso-de-capacitacao-em-sc.md
+releated_posts: []
 
 ---
 <p>&nbsp;</p>
