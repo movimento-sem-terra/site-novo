@@ -23,6 +23,7 @@ releated_posts:
   - _posts/2015/05/2015-05-21-movimentos-sociais-lancam-manifesto-contra-ajuste-fiscal.md
   - _posts/2015/08/2015-08-12-a-politica-economica-atual-nao-resultara-na-retomada-do-crescimento-diz-marcio-pochmann.md
   - _posts/2015/02/2015-02-27-stedile-sociedade-nao-aceitara-golpes-do-congresso-ou-poder-judiciario.md
+section: cover
 
 ---
 <p>&nbsp;</p>
