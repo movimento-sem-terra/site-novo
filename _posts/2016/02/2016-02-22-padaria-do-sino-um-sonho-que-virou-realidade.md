@@ -46,7 +46,7 @@ releated_posts:
 <p style="line-height: 20.8px;"><em>Por Catiana de Medeiros<br />
 Da P&aacute;gina do MST</em></p>
 
-<p style="line-height: 20.8px;"><em><span style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px; line-height: 12.8px;">Fotos: Tiago Gianichinni</span></em></p>
+<p><em>Fotos: Tiago Gianichinni</em></p>
 
 <p style="line-height: 20.8px;">&nbsp;</p>
 
