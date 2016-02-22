@@ -37,6 +37,7 @@ releated_posts:
   - _posts/2015/10/2015-10-07-camponesas-debatem-o-protagonismo-das-mulheres-nos-processos-de-lutas-sociais.md
   - _posts/2015/11/2015-11-05-mulheres-sem-terra-respondem-jornal-que-acusa-casos-de-estupros-em-acampamentos-do-mst.md
   - _posts/2015/11/2015-11-25-organizacoes-e-movimentos-sociais-assinem-manifesto-de-apoio-as-mulheres-camponesas-acampadas.md
+section: cover
 
 ---
 <p style="line-height: 20.8px;"><img alt="Foto Tiago Gianichinni 6.JPG" height="463" src="//farm2.staticflickr.com/1457/24826499579_c293e845e0_b.jpg" width="700" /></p>
