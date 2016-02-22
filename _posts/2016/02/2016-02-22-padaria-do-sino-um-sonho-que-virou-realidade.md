@@ -50,68 +50,68 @@ Da P&aacute;gina do MST</em></p>
 
 <p style="line-height: 20.8px;">&nbsp;</p>
 
-<p style="line-height: 20.8px;">A luta dos trabalhadores rurais Sem Terra n&atilde;o se limita apenas &agrave; conquista de um peda&ccedil;o de ch&atilde;o para poder morar e produzir alimentos.&nbsp;</p>
+<p>A luta dos trabalhadores rurais Sem Terra n&atilde;o se limita apenas &agrave; conquista de um peda&ccedil;o de ch&atilde;o para poder morar e produzir alimentos.&nbsp;</p>
 
-<p style="line-height: 20.8px;"><br />
+<p><br />
 Ela ultrapassa o corte das cercas dos latif&uacute;ndios e, com base na organiza&ccedil;&atilde;o coletiva e de novas alternativas, busca melhorias sociais e qualidade de vida para as fam&iacute;lias assentadas. E neste processo, que envolve homens e mulheres, tamb&eacute;m est&atilde;o as cinco propriet&aacute;rias da marca M&atilde;os na Massa, da Padaria do Sino, no Rio Grande do Sul.</p>
 
-<p style="line-height: 20.8px;"><br />
+<p><br />
 Marta Pereira (42), Noeli Costa (48), F&aacute;tima da Silva (41), Maria Viegas (57) e Ver&ocirc;nica Portela (62) moram no Assentamento Sino, no munic&iacute;pio de Nova Santa Rita, na regi&atilde;o Metropolitana de Porto Alegre, onde conclu&iacute;ram a constru&ccedil;&atilde;o de uma padaria no segundo semestre de 2014, com dinheiro que arrecadavam das feiras e recursos do Banco Nacional do Desenvolvimento (BNDES), operacionalizados pelo governo do Estado na gest&atilde;o do ent&atilde;o governador Tarso Genro (PT).</p>
 
-<p style="line-height: 20.8px;"><br />
+<p><br />
 A luta para a conquista deste sonho foi de 9 anos &ndash; desde 2005 as assentadas come&ccedil;aram a discutir a ideia de trabalhar com panif&iacute;cios.&nbsp;</p>
 
-<p style="line-height: 20.8px;"><br />
+<p><br />
 Enquanto buscavam apoio para a concretiza&ccedil;&atilde;o do projeto, em 2011 as Sem Terra participaram de um curso de boas pr&aacute;ticas na &aacute;rea de alimenta&ccedil;&atilde;o no Centro de Forma&ccedil;&atilde;o Sep&eacute; Tiaraj&uacute;, em Viam&atilde;o, tamb&eacute;m na regi&atilde;o Metropolitana. Este foi o in&iacute;cio da constru&ccedil;&atilde;o de uma nova forma de obter renda no campo e de uma vida mais digna para elas.</p>
 
-<p style="line-height: 20.8px;"><br />
+<p><br />
 &ldquo;Os primeiros dias eram dif&iacute;ceis, trabalh&aacute;vamos sem parar das 4 horas &agrave;s 22 horas, pois n&atilde;o t&iacute;nhamos experi&ecirc;ncia no manuseio dos equipamentos.&nbsp;</p>
 
-<p style="line-height: 20.8px;">&nbsp;</p>
+<p>&nbsp;</p>
 
-<p style="line-height: 20.8px;">Agora t&aacute; tranquilo, n&oacute;s come&ccedil;amos e terminamos a lida cedo e conseguimos produzir muito mais e com maior tranquilidade. Mas para isto fomos atr&aacute;s de capacita&ccedil;&atilde;o, fizemos cursos de culin&aacute;ria e visitamos padarias em outros assentamentos&rdquo;, explica Maria.</p>
+<p>Agora t&aacute; tranquilo, n&oacute;s come&ccedil;amos e terminamos a lida cedo e conseguimos produzir muito mais e com maior tranquilidade. Mas para isto fomos atr&aacute;s de capacita&ccedil;&atilde;o, fizemos cursos de culin&aacute;ria e visitamos padarias em outros assentamentos&rdquo;, explica Maria.</p>
 
-<p style="line-height: 20.8px;"><br />
+<p><br />
 Antes de utilizar a estrutura mecanizada da padaria, as propriet&aacute;rias da marca M&atilde;os na Massa faziam toda a produ&ccedil;&atilde;o das feiras em suas pr&oacute;prias casas, onde tinham como ferramentas de trabalho cilindro manual, forno de barro e muita dedica&ccedil;&atilde;o. A padaria foi regularizada no segundo semestre de 2015 e este ano as Sem Terra j&aacute; iniciaram a comercializa&ccedil;&atilde;o por meio do Programa Nacional de Alimenta&ccedil;&atilde;o Escolar (Pnae).</p>
 
-<p style="line-height: 20.8px;"><br />
+<p><br />
 &ldquo;Era um sonho mas n&atilde;o imagin&aacute;vamos que seria realizado devido &agrave;s burocracias e dificuldades financeiras. Est&aacute;vamos quase perdendo a esperan&ccedil;a quando recebemos a boa not&iacute;cia de que t&iacute;nhamos conseguido&rdquo; diz Marta.</p>
 
-<p style="line-height: 20.8px;"><br />
+<p><br />
 &nbsp;</p>
 
-<p style="line-height: 20.8px;"><strong>Comercializa&ccedil;&atilde;o</strong></p>
+<p>Comercializa&ccedil;&atilde;o</p>
 
-<p style="line-height: 20.8px;"><br />
+<p><br />
 A Padaria do Sino &eacute; filiada &agrave; Cooperativa de Produ&ccedil;&atilde;o Agropecu&aacute;ria dos Assentados de Tapes (Coopat) e Cooperativa dos Trabalhadores Assentados da Regi&atilde;o de Porto Alegre (Cootap). Atualmente, ela vende seus produtos duas vezes por semana em tr&ecirc;s feiras ecol&oacute;gicas na regi&atilde;o Metropolitana.&nbsp;</p>
 
-<p style="line-height: 20.8px;"><br />
+<p><br />
 Nas sextas-feiras as assentadas comercializam p&atilde;o doce, integral e de leite; cucas tradicionais e recheadas; biscoitos amanteigados e de maisena; e cueca virada no Centro de Nova Santa Rita.&nbsp;</p>
 
-<p style="line-height: 20.8px;"><br />
+<p><br />
 Aos s&aacute;bados elas oferecem os mesmos produtos nos bairros Igara e Harmonia, no munic&iacute;pio de Canoas. Em cada feira elas vendem em m&eacute;dia 15 unidades de cada alimento.</p>
 
-<p style="line-height: 20.8px;"><br />
+<p><br />
 O transporte da produ&ccedil;&atilde;o &eacute; feito pelas pr&oacute;prias assentadas, que j&aacute; conquistaram uma camionete para facilitar a comercializa&ccedil;&atilde;o. Com a autonomia e independ&ecirc;ncia, elas tamb&eacute;m garantem a entrega de p&atilde;o doce e integral; cuca tradicional e biscoitos de milho e maisena para 16 escolas municipais de Nova Santa Rita. Al&eacute;m disso, atendem demandas de produ&ccedil;&atilde;o para alguns eventos.</p>
 
-<p style="line-height: 20.8px;"><br />
-<strong>Bons frutos</strong></p>
+<p><br />
+Bons frutos</p>
 
-<p style="line-height: 20.8px;"><br />
+<p><br />
 A regi&atilde;o onde as cinco mulheres est&atilde;o assentadas &eacute; de terra arenosa e, por este motivo, nem todo o tipo de produ&ccedil;&atilde;o consegue se desenvolver.&nbsp;</p>
 
-<p style="line-height: 20.8px;"><br />
+<p><br />
 Diante esta realidade, a maioria dos assentados do munic&iacute;pio optaram por investir em arroz, hortas e frutas agroecol&oacute;gicos. Neste contexto, a padaria surgiu como mais uma alternativa vi&aacute;vel e as propriet&aacute;rias que antes trabalhavam na cidade, na lavoura com seus maridos ou fazendo feiras para obter alguma renda, agora t&ecirc;m seu pr&oacute;prio neg&oacute;cio.</p>
 
-<p style="line-height: 20.8px;"><br />
+<p><br />
 &ldquo;A padaria se transformou num sonho realizado. Ela melhorou nossa vida e quem antes trabalhava fora agora pode viver desta conquista. Apesar da terra nos dar alimentos, n&oacute;s t&iacute;nhamos muitas dificuldades em rela&ccedil;&atilde;o &agrave; renda, mas hoje estamos bem melhor e d&aacute; pra viver legal&rdquo;, argumenta Noeli.</p>
 
-<p style="line-height: 20.8px;"><br />
+<p><br />
 Para a assentada F&aacute;tima, a padaria &eacute; mais que uma boa alternativa financeira, &ldquo;pois ela possibilita viver com mais dignidade no campo&rdquo;. &ldquo;Agora t&aacute; tudo muito bom. N&oacute;s convivemos mais, trocamos experi&ecirc;ncias e temos mais qualidade de vida&rdquo;, relata.</p>
 
-<p style="line-height: 20.8px;">&nbsp;</p>
+<p>&nbsp;</p>
 
-<p style="line-height: 20.8px;"><img alt="Foto Tiago Gianichinni 5.JPG" height="463" src="//farm2.staticflickr.com/1524/25100946561_14c03fd2c2_b.jpg" width="700" /></p>
+<p><img alt="Foto Tiago Gianichinni 5.JPG" height="463" src="//farm2.staticflickr.com/1524/25100946561_14c03fd2c2_b.jpg" width="700" /></p>
 
 <p style="line-height: 20.8px;"><br />
 <strong>Planos</strong></p>
