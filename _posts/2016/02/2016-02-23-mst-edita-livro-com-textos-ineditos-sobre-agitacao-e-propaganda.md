@@ -105,3 +105,7 @@ Todo esse material, in&eacute;dito em portugu&ecirc;s, torna-se agora dispon&iac
 simb&oacute;licos, em absoluta sintonia com as demandas e desafios organizativos e&nbsp;culturais da classe trabalhadora.&rdquo;</p>
 
 <p>&nbsp;</p>
+
+<p>* O lan&ccedil;amento acontece na pr&oacute;xima quinta-feira (25), &agrave;s 20h, no Teatro de Arena (Rua: Doutor Teodoro Baima, 98)</p>
+
+<p>&nbsp;</p>
