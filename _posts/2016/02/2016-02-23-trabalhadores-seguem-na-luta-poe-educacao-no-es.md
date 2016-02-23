@@ -5,7 +5,7 @@ tags:
   - tag: espírito-santo
 images_hd: //farm2.staticflickr.com/1652/25097560902_db50b78028_b.jpg
 menu: lutas e mobilizações
-title: Trabalhadores seguem na luta poe educação no ES
+title: Trabalhadores seguem firme na luta por educação no ES
 support_line: As ações pela educação acontecem em todo o estado desde o começo do mês de fevereiro.
 layout: post
 files:
