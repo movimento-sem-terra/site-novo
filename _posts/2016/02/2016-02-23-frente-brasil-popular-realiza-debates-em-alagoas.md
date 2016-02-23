@@ -7,7 +7,7 @@ tags:
   - tag: alagoas
 title: Frente Brasil Popular realiza debates em Alagoas
 support_line: "Os debates que são organizados pela Frente Brasil Popular acontecem em dois dias, o primeiro na capital Maceió, no dia (24) e o segundo no Agreste do estado, no dia (25), na cidade de Arapiraca.\n"
-images_hd: //farm2.staticflickr.com/1698/25098521972_4be377d033_b.jpg
+images_hd: //farm2.staticflickr.com/1565/24922655440_9333e78078_b.jpg
 menu: lutas e mobilizações
 layout: post
 files:
@@ -17,12 +17,12 @@ files:
     small: //farm2.staticflickr.com/1698/25098521972_4be377d033_n.jpg
     title: IMG-20160221-WA0050.jpg
     $$hashKey: 1AA
-  - link: //farm2.staticflickr.com/1711/24589971263_5c56b88dd6_b.jpg
-    thumbnail: //farm2.staticflickr.com/1711/24589971263_5c56b88dd6_t.jpg
-    medium: //farm2.staticflickr.com/1711/24589971263_5c56b88dd6_z.jpg
-    small: //farm2.staticflickr.com/1711/24589971263_5c56b88dd6_n.jpg
-    title: IMG-20160221-WA0051.jpg
-    $$hashKey: 1AD
+  - link: //farm2.staticflickr.com/1565/24922655440_9333e78078_b.jpg
+    thumbnail: //farm2.staticflickr.com/1565/24922655440_9333e78078_t.jpg
+    medium: //farm2.staticflickr.com/1565/24922655440_9333e78078_z.jpg
+    small: //farm2.staticflickr.com/1565/24922655440_9333e78078_n.jpg
+    title: foto13.jpg
+    $$hashKey: 05T
 created_date: "2016-02-23T13:57:54-03:00"
 published: true
 releated_posts:
@@ -31,6 +31,8 @@ releated_posts:
   - _posts/2015/09/2015-09-15-sem-terra-se-mobilizam-em-arapiraca-e-denunciam-a-especulacao-imobiliaria.md
 
 ---
+<p><img alt="IMG-20160221-WA0050.jpg" height="446" src="//farm2.staticflickr.com/1698/25098521972_4be377d033_b.jpg" width="700" /></p>
+
 <p>&nbsp;</p>
 
 <p><em>Da P&aacute;gina do MST&nbsp;</em></p>
