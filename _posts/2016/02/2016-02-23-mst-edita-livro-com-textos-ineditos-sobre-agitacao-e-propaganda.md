@@ -22,6 +22,7 @@ releated_posts:
   - _posts/2015/10/2015-10-08-gregorio-duvivier-muita-gente-morre-por-causa-do-conservadorismo.md
   - _posts/2014/07/2014-07-25-ariano-suassuna-esquerda-e-direita.md
   - _posts/2014/06/2014-06-13-mostra-de-artes-revive-a-historia-de-30-anos-do-mst.md-e
+section: cover
 
 ---
 <p><img alt="Convite_AgitProp_horizontal-01.jpg" height="467" src="//farm2.staticflickr.com/1587/25096964132_a3ba62e1dc_b.jpg" width="700" /></p>
