@@ -4,8 +4,8 @@ tags:
   - tag: frente-brasil-popular
   - tag: lutas
   - tag: democracia
-title: Todos/as às ruas para o dia nacional de mobilização em 31 de março
-support_line: "A saída para o povo brasileiro é a ampliação de direitos, o aprofundamento da democracia e as reformas populares. "
+title: "Frentes de esquerda convocam dia de luta em todo o país "
+support_line: Mobilizações estão marcadas para o próximo dia 31 em diversas capitais.
 menu: lutas e mobilizações
 images_hd: //farm2.staticflickr.com/1526/25142513681_f6401ae5c7_b.jpg
 layout: post
