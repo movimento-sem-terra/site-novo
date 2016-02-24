@@ -5,7 +5,7 @@ tags:
   - tag: rio-utinga
   - tag: bahia
   - tag: lutas-e-mobilizações
-title: "Após reivindicações, Sem Terra se reúnem com prefeitos na BA "
+title: "Após mobilizações, Sem Terra se reúnem com prefeitos na BA "
 support_line: Entre as pautas apresentadas estavam a regularização do fornecimento de energia nos assentamentos na Chapada Diamantina e melhorias na estrutura das escolas do campo
 images_hd: //farm2.staticflickr.com/1630/24944521620_760c3439ce_b.jpg
 menu: lutas e mobilizações
