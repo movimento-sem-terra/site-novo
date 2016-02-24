@@ -7,8 +7,8 @@ tags:
   - tag: livro
 images_hd: //farm2.staticflickr.com/1444/25142994231_b2884f396b_b.jpg
 menu: "educação, cultura e comunicação"
-support_line: "O livro parte de vários anos de pesquisa empreendida por militantes da Cultura, Comunicação e Juventude do Movimento. "
-title: MST lança livro sobre Agitprop
+support_line: "A obra é resultado de vários anos de pesquisa empreendida por militantes da Cultura, Comunicação e Juventude do Movimento. "
+title: "Em entrevista, Douglas Estevam fala sobre o lançamento do livro 'Agitprop: cultura política'"
 layout: post
 files:
   - link: //farm2.staticflickr.com/1444/25142994231_b2884f396b_b.jpg
@@ -42,7 +42,7 @@ Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
-<p>O MST lan&ccedil;a em S&atilde;o Paulo, nesta quinta-feira (25), o livro Agitprop:&nbsp;cultura pol&iacute;tica, uma colet&acirc;nea de textos te&oacute;ricos e pe&ccedil;as teatrais&nbsp;relacionados &agrave; cultura de Agita&ccedil;&atilde;o e Propaganda, com foco, sobretudo, nas&nbsp;experi&ecirc;ncias sovi&eacute;tica e alem&atilde; &ndash; mas abordando tamb&eacute;m, como n&atilde;o poderia&nbsp;deixar de ser, a trajet&oacute;ria brasileira, especialmente a do pr&oacute;prio Movimento.</p>
+<p>O MST lan&ccedil;a em S&atilde;o Paulo, nesta quinta-feira (25), o livro Agitprop:&nbsp;cultura pol&iacute;tica, uma colet&acirc;nea de textos te&oacute;ricos e pe&ccedil;as teatrais&nbsp;relacionados &agrave; cultura de Agita&ccedil;&atilde;o e Propaganda, com foco, sobretudo,&nbsp;nas&nbsp;experi&ecirc;ncias sovi&eacute;tica e alem&atilde; &ndash; mas abordando tamb&eacute;m, como n&atilde;o poderia&nbsp;deixar de ser, a trajet&oacute;ria brasileira, especialmente a do pr&oacute;prio Movimento.</p>
 
 <p><br />
 O livro parte de v&aacute;rios anos de pesquisa empreendida por militantes da&nbsp;Cultura, Comunica&ccedil;&atilde;o e Juventude do Movimento.&nbsp;</p>
