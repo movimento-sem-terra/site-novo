@@ -50,7 +50,7 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p>No &uacute;ltimo s&aacute;bado (20), cerca de 450 trabalhadores e trabalhadoras Sem Terra realizaram um ato simb&oacute;lico e m&iacute;stico na inaugura&ccedil;&atilde;o da Escola Municipal Comandante Hugo Ch&aacute;vez, localizada no Pr&eacute; Assentamento Hugo Ch&aacute;vez, em Medeiros Neto, no Extremo Sul da Bahia.</p>
+<p>No &uacute;ltimo s&aacute;bado (20), cerca de 450 &nbsp;Sem Terra realizaram um ato simb&oacute;lico e m&iacute;stico na inaugura&ccedil;&atilde;o da Escola Municipal Comandante Hugo Ch&aacute;vez, localizada no Pr&eacute; Assentamento Hugo Ch&aacute;vez, em Medeiros Neto, no Extremo Sul da Bahia.</p>
 
 <p><br />
 A escola, que foi constru&iacute;da com os recursos das fam&iacute;lias do pr&eacute;-assentamento, tem o objetivo de atender aproximadamente 130 crian&ccedil;as e adolescentes nas modalidades de educa&ccedil;&atilde;o infantil, ensino fundamental e Educa&ccedil;&atilde;o de Jovens e Adultos (EJA).</p>
