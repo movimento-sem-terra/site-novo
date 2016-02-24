@@ -17,7 +17,7 @@ files:
     title: PP_ato_pro_Dilma_Foto_Paulo_Pinto_20082015_005.jpg
     $$hashKey: 0LC
 created_date: "2016-02-23T12:09:21-03:00"
-published: true
+published: false
 releated_posts:
   - _posts/2015/12/2015-12-11-temos-que-afinar-a-viola-e-enfrentar-o-impeachment-diz-stedile-no-lancamento-da-fbp-no-rs.md
   - _posts/2015/12/2015-12-10-movimentos-organizam-a-maior-unidade-da-esquerda-desde-collor.md
