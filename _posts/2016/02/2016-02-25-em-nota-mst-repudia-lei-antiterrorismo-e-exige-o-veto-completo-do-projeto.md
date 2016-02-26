@@ -29,7 +29,7 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p>O Movimento dos Trabalhadores Rurais Sem Terra vem &agrave; p&uacute;blico repudiar o projeto de lei enviado pelo Poder Executivo que tipifica o crime de terrorismo. A proposta &eacute; desnecess&aacute;ria e inconsequente. Infelizmente, soma-se a outras iniciativas de setores conservadores do Congresso Nacional que querem implementar uma escalada autorit&aacute;ria nas leis brasileiras, mudando inclusive a pr&oacute;pria Constitui&ccedil;&atilde;o, como &eacute; o caso da maioridade penal.&nbsp;</p>
+<p>O Movimento dos Trabalhadores Rurais Sem Terra vem a&nbsp;p&uacute;blico repudiar o projeto de lei enviado pelo Poder Executivo que tipifica o crime de terrorismo. A proposta &eacute; desnecess&aacute;ria e inconsequente. Infelizmente, soma-se a outras iniciativas de setores conservadores do Congresso Nacional que querem implementar uma escalada autorit&aacute;ria nas leis brasileiras, mudando inclusive a pr&oacute;pria Constitui&ccedil;&atilde;o, como &eacute; o caso da maioridade penal.&nbsp;</p>
 
 <p><br />
 Vivemos tempos em que tudo &eacute; criminalizado. Jovens pobres e negros s&atilde;o os maiores alvos da viol&ecirc;ncia e de um sistema de justi&ccedil;a criminal seletivo e com claro recorte de classe.</p>
