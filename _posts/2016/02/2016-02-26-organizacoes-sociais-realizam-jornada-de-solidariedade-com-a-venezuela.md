@@ -17,12 +17,6 @@ files:
     small: //farm2.staticflickr.com/1702/24649636673_47555a606f_n.jpg
     title: 20160225_181756.jpg
     $$hashKey: "061"
-  - link: //farm2.staticflickr.com/1638/25276423055_c6e02758a0_b.jpg
-    thumbnail: //farm2.staticflickr.com/1638/25276423055_c6e02758a0_t.jpg
-    medium: //farm2.staticflickr.com/1638/25276423055_c6e02758a0_z.jpg
-    small: //farm2.staticflickr.com/1638/25276423055_c6e02758a0_n.jpg
-    title: 20160225_180642.jpg
-    $$hashKey: "064"
   - link: //farm2.staticflickr.com/1717/25183304601_7918bbbb33_b.jpg
     thumbnail: //farm2.staticflickr.com/1717/25183304601_7918bbbb33_t.jpg
     medium: //farm2.staticflickr.com/1717/25183304601_7918bbbb33_z.jpg
@@ -62,10 +56,6 @@ E, ainda assim, segue firme em seus ideais e valores da Revolu&ccedil;&atilde;o 
 O deputado Paulo Pimenta, presidente da Comiss&atilde;o de Direitos Humanos da C&acirc;mara dos Deputados, tamb&eacute;m prestou solidariedade ao governo da Venezuela.</p>
 
 <p>&nbsp;</p>
-
-<figure class="image" style="float:left"><img alt="20160225_180642.jpg" height="533" src="//farm2.staticflickr.com/1638/25276423055_c6e02758a0_b.jpg" width="300" />
-<figcaption></figcaption>
-</figure>
 
 <p>&ldquo;Todos n&oacute;s latino-americanos somos filhos de uma mesma causa e temos um sonho em comum: o de construir uma sociedade onde as pessoas sejam valorizadas, independente de sua classe social, e onde cada um de n&oacute;s possa ser construtor de um projeto cidad&atilde;o.&rdquo;, afirmou. &ldquo;Embaixador Alberto Castellar, receba o nosso abra&ccedil;o, a nossa solidariedade e o nosso compromisso de companheirismo e de luta&rdquo;, concluiu.</p>
 
