@@ -5,7 +5,7 @@ tags:
   - tag: educação
   - tag: governo-do-estado
 title: Movimentos sociais pedem CPI sobre desvio na merenda escolar em São Paulo
-support_line: "As denúncias de pagamento de propinas a gestores do governo paulista para fechamento de contratos com creches e escolas públicas de 19 cidades estão sendo investigadas pela Operação Alba Branca, deflagrada no último dia 19. As irregularidad"
+support_line: "As denúncias de pagamento de propinas a gestores do governo paulista para fechamento de contratos com creches e escolas públicas de 19 cidades estão sendo investigadas pela Operação Alba Branca, deflagrada no último dia 19. "
 menu: lutas e mobilizações
 images_hd: //farm2.staticflickr.com/1487/25253825906_008dd92f61_b.jpg
 layout: post
