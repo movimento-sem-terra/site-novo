@@ -29,6 +29,7 @@ releated_posts:
   - _posts/2015/12/2015-12-11-temos-que-afinar-a-viola-e-enfrentar-o-impeachment-diz-stedile-no-lancamento-da-fbp-no-rs.md
   - _posts/2015/12/2015-12-10-movimentos-organizam-a-maior-unidade-da-esquerda-desde-collor.md
   - _posts/2015/12/2015-12-10-movimentos-lancam-frente-brasil-popular-e-marcham-em-defesa-da-democracia-no-rs.md
+section: featured-news
 
 ---
 <p>&nbsp;</p>
