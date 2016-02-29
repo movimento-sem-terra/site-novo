@@ -4,7 +4,7 @@ tags:
   - tag: reforma-agrária
   - tag: produtos-orgânicos
   - tag: santa-catarina
-title: Sem Terra realiza 1ª Festa da Cultura Camponesa em Chapecó
+title: Sem Terra participam da 1ª Festa da Cultura Camponesa em Chapecó
 images_hd: //farm2.staticflickr.com/1626/25009807619_ef709e9f1d_b.jpg
 support_line: "O evento reuniu 600 pessoas entre expositores e visitantes. "
 menu: agricultura camponesa
