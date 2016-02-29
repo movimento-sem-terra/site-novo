@@ -7,7 +7,7 @@ tags:
 title: "Em nota, MST repudia Lei antiterrorismo e exige o veto completo do projeto\n "
 support_line: "A proposta é desnecessária, por que já existem leis mais que suficientes para enquadrar qualquer eventual ação de grupos terroristas no Brasil."
 menu: lutas e mobilizações
-section: cover
+section: featured-news
 images_hd: //farm2.staticflickr.com/1639/25143256482_34c6ebef34_b.jpg
 layout: post
 files:
