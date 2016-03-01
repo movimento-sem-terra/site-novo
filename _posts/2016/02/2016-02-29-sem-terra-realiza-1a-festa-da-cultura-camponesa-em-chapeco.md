@@ -41,7 +41,7 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p>Cerca de 600 pessoas&nbsp;Sem Terra, d<span style="line-height: 20.8px;">a&nbsp;comunidade Faxinal dos Rosas e do&nbsp;Movimento de Mulheres Camponesas,&nbsp;</span>realizaram no &uacute;ltimo domingo (28), a&nbsp;<span style="line-height: 20.8px;">1&ordf; Festa da Cultura Camponesa em Chapec&oacute;, Santa Catarina.</span></p>
+<p>Cerca de 600 Sem Terra, juntamente com moradores&nbsp;d<span style="line-height: 20.8px;">a&nbsp;comunidade Faxinal dos Rosas e do&nbsp;Movimento de Mulheres Camponesas,&nbsp;</span>realizaram no &uacute;ltimo domingo (28), a&nbsp;<span style="line-height: 20.8px;">1&ordf; Festa da Cultura Camponesa em Chapec&oacute;, Santa Catarina.</span></p>
 
 <p><br />
 A comunidade se reuniu ao o som da&nbsp;viola, para saborear o&nbsp;&ldquo;franguinho na panela&rdquo;,&nbsp;o risoto, &ldquo;la bella polenta&rdquo;&nbsp;e a&nbsp;feijoada, um dos pratos de maior&nbsp;sucesso do evento.&nbsp;</p>
