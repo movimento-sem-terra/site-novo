@@ -6,7 +6,7 @@ tags:
   - tag: solidariedade-internacional
 title: Organizações sociais realizam Jornada de Solidariedade com a Venezuela
 support_line: Atos expressaram o apoio dos movimentos sociais brasileiros ao governo de Nicolás Maduro frente aos ataques da oposição
-section: cover
+section: null
 menu: solidariedade
 images_hd: //farm2.staticflickr.com/1702/24649636673_47555a606f_b.jpg
 layout: post
