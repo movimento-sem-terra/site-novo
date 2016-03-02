@@ -11,32 +11,24 @@ menu: "educação, cultura e comunicação"
 images_hd: //farm2.staticflickr.com/1691/25075491649_1951ee2b87_b.jpg
 layout: post
 files:
-  - link: //farm2.staticflickr.com/1707/25416925306_0a16d8fe41_b.jpg
-    thumbnail: //farm2.staticflickr.com/1707/25416925306_0a16d8fe41_t.jpg
-    medium: //farm2.staticflickr.com/1707/25416925306_0a16d8fe41_z.jpg
-    small: //farm2.staticflickr.com/1707/25416925306_0a16d8fe41_n.jpg
-    title: IMG-20160217-WA0003.jpg
-    $$hashKey: 0CH
   - link: //farm2.staticflickr.com/1691/25075491649_1951ee2b87_b.jpg
     thumbnail: //farm2.staticflickr.com/1691/25075491649_1951ee2b87_t.jpg
     medium: //farm2.staticflickr.com/1691/25075491649_1951ee2b87_z.jpg
     small: //farm2.staticflickr.com/1691/25075491649_1951ee2b87_n.jpg
     title: IMG-20160217-WA00030.jpg
     $$hashKey: 0CK
+  - link: //farm2.staticflickr.com/1605/24817578083_2d38142234_b.jpg
+    thumbnail: //farm2.staticflickr.com/1605/24817578083_2d38142234_t.jpg
+    medium: //farm2.staticflickr.com/1605/24817578083_2d38142234_z.jpg
+    small: //farm2.staticflickr.com/1605/24817578083_2d38142234_n.jpg
+    title: IMG-20160217-WA0003.jpg
+    $$hashKey: 0V1
 created_date: "2016-03-02T12:39:15-03:00"
 published: true
 releated_posts:
-  - _posts/2014/04/2014-04-30-movimentos-sociais-conquistam-curso-de-direito-na-federal-do-parana.md
-  - _posts/2014/04/2014-04-30-movimentos-sociais-conquistam-curso-de-direito-na-federal-do-parana.md-e
-  - _posts/2014/05/2014-05-02-universidade-federal-da-fronteira-sul-conquista-centro-de-educacao-do-campo.md
-  - _posts/2014/05/2014-05-02-universidade-federal-da-fronteira-sul-conquista-centro-de-educacao-do-campo.md-e
-  - _posts/2014/07/2014-07-04-uffs-lanca-forum-sobre-questao-agraria-e-declara-apoio-ao-herdeiros-da-luta.md
-  - _posts/2014/04/2014-04-14-tendler-agroecologia-e-fundamental-na-producao-economica-e-social.md
-  - _posts/2014/02/2014-02-27-neste-carnaval-barraca-do-mst-em-olinda-homenageia-hugo-chavez.md
-  - _posts/2014/02/2014-02-28-sem-terra-desfilam-com-boneco-de-hugo-chavez-no-carnaval-de-olinda.md
-  - _posts/2014/02/2014-02-28-sem-terra-desfilam-com-boneco-de-hugo-chavez-no-carnaval-de-olinda.md-e
-  - _posts/2014/03/2014-03-06-mst-homenageia-hugo-chavez-no-carnaval-de-olinda.md
   - _posts/2015/11/2015-11-23-escola-do-campo-realiza-seminario-sobre-diversidade-cultural-no-parana.md
+  - _posts/2015/11/2015-11-10-trator-e-flagrado-passando-veneno-ao-lado-da-escola-zumbi-dos-palmares-no-parana.md
+  - _posts/2015/11/2015-11-19-syngenta-e-condenada-por-morte-de-sem-terra-no-parana.md
 
 ---
 <p>&nbsp;</p>
@@ -52,7 +44,7 @@ O pr&ecirc;mio Orier&ecirc; &ndash; Cabe&ccedil;as Iluminadas foi criado em 2009
 <p><br />
 A inscri&ccedil;&atilde;o para participa&ccedil;&atilde;o na premia&ccedil;&atilde;o contemplou tr&ecirc;s categorias: painel, reda&ccedil;&atilde;o e composi&ccedil;&atilde;o musical, ambas as categorias tinham a exig&ecirc;ncia que fosse uma produ&ccedil;&atilde;o coletiva dos estudantes, ao todo foram 800 inscri&ccedil;&otilde;es distribu&iacute;das nas tr&ecirc;s categorias.</p>
 
-<p><br />
+<p><img alt="IMG-20160217-WA0003.jpg" src="//farm2.staticflickr.com/1605/24817578083_2d38142234_b.jpg" style="float:left" /><br />
 De acordo com a Professora Adriana Alexandre, os processos formativos foram satisfat&oacute;rios, por permitir a participa&ccedil;&atilde;o do coletivo de educadores, membros da comunidade e dos estudantes, desde o 6&ordm; ano ao 3&ordm; ano do Ensino M&eacute;dio, com dan&ccedil;as, encena&ccedil;&otilde;es, produ&ccedil;&otilde;es de textos, m&uacute;sicas e pain&eacute;is.</p>
 
 <p><br />
