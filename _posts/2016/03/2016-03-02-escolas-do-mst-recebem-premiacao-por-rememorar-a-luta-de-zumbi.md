@@ -17,12 +17,12 @@ files:
     small: //farm2.staticflickr.com/1691/25075491649_1951ee2b87_n.jpg
     title: IMG-20160217-WA00030.jpg
     $$hashKey: 0CK
-  - link: //farm2.staticflickr.com/1605/24817578083_2d38142234_b.jpg
-    thumbnail: //farm2.staticflickr.com/1605/24817578083_2d38142234_t.jpg
-    medium: //farm2.staticflickr.com/1605/24817578083_2d38142234_z.jpg
-    small: //farm2.staticflickr.com/1605/24817578083_2d38142234_n.jpg
-    title: IMG-20160217-WA0003.jpg
-    $$hashKey: 0V1
+  - link: //farm2.staticflickr.com/1535/25326064792_66dbae3a0f_b.jpg
+    thumbnail: //farm2.staticflickr.com/1535/25326064792_66dbae3a0f_t.jpg
+    medium: //farm2.staticflickr.com/1535/25326064792_66dbae3a0f_z.jpg
+    small: //farm2.staticflickr.com/1535/25326064792_66dbae3a0f_n.jpg
+    title: IMG-20160217-WA0003 (2).jpg
+    $$hashKey: 1BB
 created_date: "2016-03-02T12:39:15-03:00"
 published: true
 releated_posts:
@@ -44,7 +44,7 @@ O pr&ecirc;mio Orier&ecirc; &ndash; Cabe&ccedil;as Iluminadas foi criado em 2009
 <p><br />
 A inscri&ccedil;&atilde;o para participa&ccedil;&atilde;o na premia&ccedil;&atilde;o contemplou tr&ecirc;s categorias: painel, reda&ccedil;&atilde;o e composi&ccedil;&atilde;o musical, ambas as categorias tinham a exig&ecirc;ncia que fosse uma produ&ccedil;&atilde;o coletiva dos estudantes, ao todo foram 800 inscri&ccedil;&otilde;es distribu&iacute;das nas tr&ecirc;s categorias.</p>
 
-<p><img alt="IMG-20160217-WA0003.jpg" src="//farm2.staticflickr.com/1605/24817578083_2d38142234_b.jpg" style="float:left" /><br />
+<p><br />
 De acordo com a Professora Adriana Alexandre, os processos formativos foram satisfat&oacute;rios, por permitir a participa&ccedil;&atilde;o do coletivo de educadores, membros da comunidade e dos estudantes, desde o 6&ordm; ano ao 3&ordm; ano do Ensino M&eacute;dio, com dan&ccedil;as, encena&ccedil;&otilde;es, produ&ccedil;&otilde;es de textos, m&uacute;sicas e pain&eacute;is.</p>
 
 <p><br />
@@ -64,3 +64,7 @@ Cada turma produziu um painel e deliberou coletivamente qual iriam inscrever no 
 
 <p><br />
 Segundo a coordena&ccedil;&atilde;o das duas escolas, todos os anos o tema Zumbi dos Palmares e o Quilombo &eacute; um componente curricular do plano de estudo. A participa&ccedil;&atilde;o no concurso foi para potencializar esse processo e evidenciar esta parte da hist&oacute;ria do Brasil que n&atilde;o &eacute; retratada nas demais escolas.</p>
+
+<p>&nbsp;</p>
+
+<p style="text-align:center"><img alt="IMG-20160217-WA0003 (2).jpg" src="//farm2.staticflickr.com/1535/25326064792_66dbae3a0f_b.jpg" /></p>
