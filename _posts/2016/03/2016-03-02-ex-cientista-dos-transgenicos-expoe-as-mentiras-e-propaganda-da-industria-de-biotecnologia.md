@@ -6,7 +6,7 @@ tags:
   - tag: alimentos-modificados
 images_hd: //farm2.staticflickr.com/1587/24819770413_7e398e520f_b.jpg
 menu: transgênicos
-title: Ex-cientista dos Transgênicos Expõe as Mentiras e Propaganda da Indústria de Biotecnologia
+title: Ex-cientista dos transgênicos expõe as mentiras na propaganda da indústria de biotecnologia
 support_line: "Vrain condena toda a premissa da engenharia genética como má ciência, com base na ideia agora desacreditada que cada gene codifica uma única proteína."
 layout: post
 files:
