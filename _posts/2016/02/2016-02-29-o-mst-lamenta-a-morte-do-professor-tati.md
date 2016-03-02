@@ -4,7 +4,7 @@ tags:
   - tag: nota
   - tag: falecimento
   - tag: pesar
-section: cover
+section: null
 title: O MST lamenta a morte do professor Tati
 support_line: "Um grande companheiro, amigo, um lutador comprometido com as causas dos trabalhadores e trabalhadoras, principalmente de sua categoria, os professores do ensino superior.\n"
 images_hd: //farm2.staticflickr.com/1576/24757915593_5f8f8a9eb8_b.jpg
