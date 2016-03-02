@@ -31,8 +31,6 @@ releated_posts:
   - _posts/2015/11/2015-11-19-syngenta-e-condenada-por-morte-de-sem-terra-no-parana.md
 
 ---
-<p>&nbsp;</p>
-
 <p><em style="line-height: 1.6;">Por Geani Paula Souza e Valter de Jesus Leite</em></p>
 
 <p><br />
