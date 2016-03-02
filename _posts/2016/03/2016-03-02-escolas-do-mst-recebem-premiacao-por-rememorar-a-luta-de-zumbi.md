@@ -49,7 +49,7 @@ O Col&eacute;gio Estadual do Campo Contestado, situado no Assentamento Contestad
 <p><br />
 O pr&ecirc;mio Orier&ecirc; &ndash; Cabe&ccedil;as Iluminadas foi criado em 2009 pelo Centro Cultural, com intuito de valorizar e evidenciar a heran&ccedil;a Africana e Afro-Brasileira no Paran&aacute;. O col&eacute;gio participou pelas categorias reda&ccedil;&atilde;o e painel, nas quais&nbsp;ganhou.</p>
 
-<p><br />
+<p><img alt="IMG-20160217-WA0003.jpg" src="//farm2.staticflickr.com/1707/25416925306_0a16d8fe41_b.jpg" style="float:left" /><br />
 A inscri&ccedil;&atilde;o para participa&ccedil;&atilde;o na premia&ccedil;&atilde;o contemplou tr&ecirc;s categorias: painel, reda&ccedil;&atilde;o e composi&ccedil;&atilde;o musical, ambas as categorias tinham a exig&ecirc;ncia que fosse uma produ&ccedil;&atilde;o coletiva dos estudantes, ao todo foram 800 inscri&ccedil;&otilde;es distribu&iacute;das nas tr&ecirc;s categorias.</p>
 
 <p><br />
