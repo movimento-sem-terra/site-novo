@@ -33,7 +33,8 @@ releated_posts:
 </figure>
 
 <p><br />
-<em>Por Bruna Daniely</em></p>
+<em>Por Bruna Daniely<br />
+Da P&aacute;gina do MST</em></p>
 
 <p><br />
 Ap&oacute;s mapeamento cultural realizado nas &aacute;reas de assentamento em todo o Sergipe, notou-se uma&nbsp;not&oacute;ria quantidade de manifesta&ccedil;&otilde;es culturais e artistas populares, a partir da&iacute; nasceu a necessidade de registrar tamanha diversidade cultural.</p>
