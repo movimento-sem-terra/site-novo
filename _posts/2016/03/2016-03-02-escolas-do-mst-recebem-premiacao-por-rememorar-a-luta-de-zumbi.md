@@ -29,6 +29,7 @@ releated_posts:
   - _posts/2015/11/2015-11-23-escola-do-campo-realiza-seminario-sobre-diversidade-cultural-no-parana.md
   - _posts/2015/11/2015-11-10-trator-e-flagrado-passando-veneno-ao-lado-da-escola-zumbi-dos-palmares-no-parana.md
   - _posts/2015/11/2015-11-19-syngenta-e-condenada-por-morte-de-sem-terra-no-parana.md
+section: cover
 
 ---
 <p><em style="line-height: 1.6;">Por Geani Paula Souza e Valter de Jesus Leite<br />
