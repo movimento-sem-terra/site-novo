@@ -25,19 +25,10 @@ files:
 created_date: "2016-03-02T10:38:29-03:00"
 published: true
 releated_posts:
-  - _posts/2014/12/2014-11-03-sem-terra-expoem-sua-producao-em-feira-da-agricultura-familiar.md
-  - _posts/2015/05/2015-05-28-trabalhadores-sem-terra-debatem-producao-agroecologica-na-bahia.md
-  - _posts/2015/06/2015-06-01-sem-terra-da-bahia-realizam-estudo-e-intercambio-de-experiencias-agroecologicas.md
-  - _posts/2015/06/2015-06-15-em-mais-uma-feira-sem-terra-da-bahia-mostram-a-forca-da-producao-agroecologica.md
-  - _posts/2015/06/2015-06-16-sem-terra-reescrevem-historia-do-cacau-no-sul-da-bahia.md
-  - _posts/2015/06/2015-06-22-mulheres-sem-terra-fazem-da-agroecologia-uma-ferramenta-de-emancipacao.md
-  - _posts/2014/04/2014-04-09-mst-e-homenageado-na-bahia-pelos-30-anos-de-luta-pela-reforma-agraria.md
-  - _posts/2014/04/2014-04-11-na-bahia-mst-recebe-homenagem-pelos-30-anos-de-luta-e-resistencia.md
-  - _posts/2014/04/2014-04-11-na-bahia-mst-recebe-homenagem-pelos-30-anos-de-luta-e-resistencia.md-e
-  - _posts/2014/08/2014-08-14-produtos-da-reforma-agraria-ocupam-a-universidade-federal-da-bahia.md
-  - _posts/2014/12/2014-11-10-seminario-constroi-linhas-de-atuacao-para-a-transicao-agroecologica-na-bahia.md
-  - _posts/2015/04/2015-04-29-do-eucalipto-a-producao-agroecologica-e-a-construcao-da-escola-popular.md
-  - _posts/2015/07/2015-07-14-com-alimentos-saudaveis-sem-terra-ocupam-as-ruas-da-bahia.md
+  - _posts/2016/02/2016-02-16-producao-agroecologica-e-tema-dos-encontros-intersetoriais-no-extremo-sul-da-ba.md
+  - _posts/2016/02/2016-02-20-sem-terra-ocupam-mais-um-latifundio-improdutivo-no-extremo-sul-baiano.md
+  - _posts/2016/01/2016-01-18-medicos-cubanos-sao-homenageados-durante-encontro-estadual.md
+  - _posts/2016/02/2016-02-18-na-bahia-sem-terra-ocupam-prefeitura-em-defesa-do-rio-utinga.md
 
 ---
 <p><img alt="DSCF2736.jpg" height="468" src="//farm2.staticflickr.com/1538/24809584004_f02ee89f64_b.jpg" width="700" /></p>
