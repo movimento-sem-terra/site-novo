@@ -31,7 +31,8 @@ releated_posts:
   - _posts/2015/11/2015-11-19-syngenta-e-condenada-por-morte-de-sem-terra-no-parana.md
 
 ---
-<p><em style="line-height: 1.6;">Por Geani Paula Souza e Valter de Jesus Leite</em></p>
+<p><em style="line-height: 1.6;">Por Geani Paula Souza e Valter de Jesus Leite<br />
+Da P&aacute;gina do MST</em></p>
 
 <p><br />
 O Col&eacute;gio Estadual do Campo Contestado, situado no Assentamento Contestado na Lapa, estado do Paran&aacute;, ganhou o pr&ecirc;mio Orier&ecirc;- Cabe&ccedil;as Iluminadas, do Centro Cultural Humait&aacute;, com o tema Zumbi dos Palmares.</p>
