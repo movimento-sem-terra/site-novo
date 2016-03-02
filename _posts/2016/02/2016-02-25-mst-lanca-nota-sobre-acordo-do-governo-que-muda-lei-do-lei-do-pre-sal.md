@@ -7,7 +7,7 @@ tags:
 title: MST lança nota sobre acordo do governo que muda lei do  lei do pré-sal
 support_line: "O petróleo é uma riqueza estratégica para os interesses nacionais Por isso, deve ficar sob controle do  Estado."
 menu: lutas e mobilizações
-section: null
+section: cover
 images_hd: //farm2.staticflickr.com/1647/25143628532_7feff02d51_b.jpg
 layout: post
 files:
