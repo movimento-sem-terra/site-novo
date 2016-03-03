@@ -24,6 +24,7 @@ releated_posts:
   - _posts/2015/10/2015-10-30-violencia-policial-deveria-ser-enquadrada-na-nova-lei-sobre-terrorismo.md
   - _posts/2015/11/2015-11-11-lei-antiterrorismo-da-inseguranca-juridica-a-derrota-da-democracia.md
   - _posts/2015/11/2015-11-05-projeto-de-lei-que-tipifica-terrorismo-no-brasil-ameaca-liberdades-fundamentais-alerta-onu.md
+section: cover
 
 ---
 <p>&nbsp;</p>
