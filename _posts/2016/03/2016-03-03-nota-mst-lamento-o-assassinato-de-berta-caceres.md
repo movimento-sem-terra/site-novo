@@ -23,6 +23,7 @@ releated_posts:
   - _posts/2015/12/2015-12-03-em-nota-mst-repudia-tentativa-de-golpe-contra-a-presidente-dilma.md
   - _posts/2016/01/2016-01-20-mst-manifesta-defesa-por-reforma-psiquiatrica-brasileira.md
   - _posts/2015/07/2015-07-14-mst-lamenta-falecimento-da-companheira-sandra-bittencourt.md
+section: cover
 
 ---
 <p>&nbsp;</p>
