@@ -7,7 +7,7 @@ tags:
 title: "Caso Sétimo Garibaldi: a seletividade penal brasileira em julgamento"
 support_line: "Integrante do MST, Garibaldi foi morto em 1998 por uma milícia armada."
 menu: direitos humanos
-images_hd: //farm2.staticflickr.com/1645/25107970549_cf8e425448_b.jpg
+images_hd: //farm2.staticflickr.com/1708/25382863061_e3bca5524b_b.jpg
 layout: post
 files:
   - link: //farm2.staticflickr.com/1557/25179847660_10d088655c_b.jpg
@@ -16,12 +16,12 @@ files:
     small: //farm2.staticflickr.com/1557/25179847660_10d088655c_n.jpg
     title: unnamed.jpg
     $$hashKey: 0PY
-  - link: //farm2.staticflickr.com/1645/25107970549_cf8e425448_b.jpg
-    thumbnail: //farm2.staticflickr.com/1645/25107970549_cf8e425448_t.jpg
-    medium: //farm2.staticflickr.com/1645/25107970549_cf8e425448_z.jpg
-    small: //farm2.staticflickr.com/1645/25107970549_cf8e425448_n.jpg
+  - link: //farm2.staticflickr.com/1708/25382863061_e3bca5524b_b.jpg
+    thumbnail: //farm2.staticflickr.com/1708/25382863061_e3bca5524b_t.jpg
+    medium: //farm2.staticflickr.com/1708/25382863061_e3bca5524b_z.jpg
+    small: //farm2.staticflickr.com/1708/25382863061_e3bca5524b_n.jpg
     title: unnamed (1).jpg
-    $$hashKey: 0Q1
+    $$hashKey: 11D
 created_date: "2016-03-03T14:23:42-03:00"
 published: true
 releated_posts:
