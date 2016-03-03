@@ -4,7 +4,7 @@ tags:
   - tag: lei-antiterror
   - tag: democracia
   - tag: por-direitos
-title: "A tipificação de crime de terrorismo no Brasil: A perversidade da lei é a sua própria criação. Entrevista especial com Adriano Pilatti"
+title: "A tipificação de crime de terrorismo no Brasil: A perversidade da lei é a sua própria criação"
 support_line: "“Parecemos caminhar em direção de uma espécie de ‘democradura’: a máscara do ‘Estado Democrático de Direito’ a disfarçar o autoritarismo crescente dos poderes constituídos face ao poder constituinte”."
 menu: direitos humanos
 label: interviews
