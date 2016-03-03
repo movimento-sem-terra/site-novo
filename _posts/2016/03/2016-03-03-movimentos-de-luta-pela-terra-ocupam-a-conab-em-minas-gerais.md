@@ -20,11 +20,10 @@ files:
 created_date: "2016-03-03T13:04:44-03:00"
 published: true
 releated_posts:
-  - _posts/2014/02/2014-02-03-sem-terra-ocupam-area-do-ministerio-da-fazenda-no-norte-de-minas-gerais.md
-  - _posts/2014/02/2014-02-03-sem-terra-ocupam-area-do-ministerio-da-fazenda-no-norte-de-minas-gerais.md-e
-  - _posts/2014/08/2014-08-26-juventude-sem-terra-ocupa-latifundio-na-regiao-de-governador-valadares.md
-  - _posts/2014/10/2014-09-29-mst-ocupa-fazenda-duas-barras-no-norte-de-minas-gerais.md
   - _posts/2015/07/2015-07-15-confira-nota-do-mst-sobre-o-acidente-de-aviao-do-prefeito-genil-mata-da-cruz.md
+  - _posts/2015/06/2015-06-10-cpt-40-anos-de-defesa-da-terra-e-da-gente-da-terra.md
+  - _posts/2015/07/2015-07-17-os-maus-efeitos-do-atraso-na-execucao-da-reforma-agraria.md
+  - _posts/2015/08/2015-08-20-durante-jornada-sem-terra-conquistam-tres-areas-emblematicas-em-minas-gerais.md
 
 ---
 <p><br />
@@ -40,4 +39,4 @@ Cerca de 400 fam&iacute;lias, organizadas por movimentos de luta pela terra que 
 A pauta abrange todo o estado e tem como principais pontos a libera&ccedil;&atilde;o imediata de cestas b&aacute;sicas para fam&iacute;lias acampadas, celeridade no processo de obten&ccedil;&atilde;o de terras em conflito &ndash; principalmente a Fazenda S&atilde;o Francisco Letreiro, a Carinhosa, a Caba&ccedil;a, em Uberl&acirc;ndia e a Arco-&Iacute;ris, em Gurinhat&atilde; &ndash; que est&atilde;o em processo avan&ccedil;ado de arrecada&ccedil;&atilde;o, e a realiza&ccedil;&atilde;o de novas vistorias de terras improdutivas.</p>
 
 <p><br />
-<span style="line-height: 20.8px;">O F&oacute;rum &eacute; composto pelo MST, Movimento de Liberta&ccedil;&atilde;o dos Sem Terra (MLST), MPRA e Movimento Terra, Trabalho e Liberdade (MTL).</span></p>
+<span style="line-height: 20.8px;">O F&oacute;rum &eacute; composto pelo MST, Movimento de Liberta&ccedil;&atilde;o dos Sem Terra (MLST), Movimento&nbsp;Popular&nbsp;de Reforma Agr&aacute;ria (MPRA)&nbsp;e Movimento Terra, Trabalho e Liberdade (MTL).</span></p>
