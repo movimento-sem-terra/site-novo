@@ -33,8 +33,9 @@ Da IHU-Online</em></p>
 
 <p>&nbsp;</p>
 
-<p>A recente aprova&ccedil;&atilde;o do Projeto de Lei - PL que tipifica o crime de terrorismo no Brasil poder&aacute; &ldquo;ter consequ&ecirc;ncias grav&iacute;ssimas do ponto de vista das liberdades&rdquo; e &eacute; uma &ldquo;verdadeira irresponsabilidade&rdquo; da Presid&ecirc;ncia da Rep&uacute;blica e do Congresso, diz Adriano Pilatti &agrave; IHU On-Line, na entrevista a seguir, concedida por e-mail.<br />
-Al&eacute;m disso, pontua, a nova lei, caso seja sancionada pela presidente Dilma, ser&aacute; uma &ldquo;inutilidade, pois a grande maioria das condutas tipificadas como crimes de terrorismo j&aacute; s&atilde;o tipificadas como crimes comuns&rdquo;.</p>
+<p>A recente aprova&ccedil;&atilde;o do Projeto de Lei - PL que tipifica o crime de terrorismo no Brasil poder&aacute; &ldquo;ter consequ&ecirc;ncias grav&iacute;ssimas do ponto de vista das liberdades&rdquo; e &eacute; uma &ldquo;verdadeira irresponsabilidade&rdquo; da Presid&ecirc;ncia da Rep&uacute;blica e do Congresso, diz Adriano Pilatti.<br />
+<br />
+Al&eacute;m disso, Pilatti&nbsp;pontua, a nova lei, caso seja sancionada pela presidente Dilma, ser&aacute; uma &ldquo;inutilidade, pois a grande maioria das condutas tipificadas como crimes de terrorismo j&aacute; s&atilde;o tipificadas como crimes comuns&rdquo;.</p>
 
 <p><br />
 Para Pilatti, a &ldquo;perversidade essencial&rdquo; do PL pode ser vista tanto na &ldquo;amplitude de suas defini&ccedil;&otilde;es&rdquo; como na &ldquo;vagueza dos termos em que s&atilde;o estabelecidas&rdquo;. Como exemplo, ele menciona o Art. 2&ordm; do PL, o qual, na sua avalia&ccedil;&atilde;o, permite uma &ldquo;larga margem de subjetividade&rdquo; de interpreta&ccedil;&atilde;o, &ldquo;que se d&aacute; ao agente e &agrave; autoridade policial primeiro, ao membro do Minist&eacute;rio P&uacute;blico depois, e finalmente ao juiz para avaliar a ocorr&ecirc;ncia ou n&atilde;o das motiva&ccedil;&otilde;es e finalidades elencadas&rdquo;.</p>
