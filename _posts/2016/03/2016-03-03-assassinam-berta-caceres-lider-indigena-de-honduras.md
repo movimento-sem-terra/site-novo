@@ -8,7 +8,7 @@ tags:
 support_line: "Na semana passada, Cáceres deu uma coletiva de imprensa em que denunciou que quatro dirigentes de sua comunidade foram assassinados e outros receberam ameaças."
 title: "Assassinam Berta Cáceres, líder indígena de Honduras"
 menu: solidariedade
-images_hd: //farm2.staticflickr.com/1671/25179421900_9123ae7cc8_b.jpg
+images_hd: //farm2.staticflickr.com/1490/24845062154_6a6fe7a4fa_b.jpg
 layout: post
 files:
   - link: //farm2.staticflickr.com/1671/25179421900_9123ae7cc8_b.jpg
@@ -17,6 +17,12 @@ files:
     small: //farm2.staticflickr.com/1671/25179421900_9123ae7cc8_n.jpg
     title: 03-03-16_bertacaceres_homepage.jpg
     $$hashKey: 06K
+  - link: //farm2.staticflickr.com/1490/24845062154_6a6fe7a4fa_b.jpg
+    thumbnail: //farm2.staticflickr.com/1490/24845062154_6a6fe7a4fa_t.jpg
+    medium: //farm2.staticflickr.com/1490/24845062154_6a6fe7a4fa_z.jpg
+    small: //farm2.staticflickr.com/1490/24845062154_6a6fe7a4fa_n.jpg
+    title: 03-03-16_bertacaceres_homepage.jpg
+    $$hashKey: 0VA
 created_date: "2016-03-03T14:04:00-03:00"
 published: true
 releated_posts: []
