@@ -54,7 +54,7 @@ Frei Xavier Plassat &eacute; coordenador da Campanha da CPT de Preven&ccedil;&at
 <strong>Confira a entrevista.</strong></p>
 
 <p><br />
-<strong>IHU On-Line - </strong>Em que consistem as den&uacute;ncias de pr&aacute;tica de trabalho escravo na Fazenda Brasil Verde, no Par&aacute;, que foi julgada na Corte Interamericana de Direitos Humanos - CIDH?</p>
+<strong>IHU On-Line - Em que consistem as den&uacute;ncias de pr&aacute;tica de trabalho escravo na Fazenda Brasil Verde, no Par&aacute;, que foi julgada na Corte Interamericana de Direitos Humanos - CIDH?</strong></p>
 
 <p><br />
 <strong>Xavier Plassat &ndash;</strong> Primeiro &eacute; preciso entender que a audi&ecirc;ncia da Corte Interamericana julgou o Estado brasileiro e n&atilde;o julgou o fazendeiro em cuja fazenda foram apurados fatos de trabalho escravo naquela &eacute;poca. Ent&atilde;o, &eacute; o pr&oacute;prio Estado quem est&aacute; sendo acusado de viola&ccedil;&otilde;es variadas na Comiss&atilde;o Interamericana de Direitos Humanos em rela&ccedil;&atilde;o a n&atilde;o efetiva repress&atilde;o e preven&ccedil;&atilde;o do trabalho escravo constatado nessa fazenda.</p>
