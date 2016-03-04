@@ -4,7 +4,7 @@ tags:
   - tag: música
   - tag: santa-catarina
   - tag: cultura
-title: "Sem Terra gravam CD me Santa Catarina "
+title: "Sem Terra gravam CD em Santa Catarina "
 images_hd: //farm2.staticflickr.com/1469/25385141752_5724c68330_b.jpg
 support_line: O processo de construção do álbum surgiu após diversas oficinas de músicas iniciadas em 2003.
 menu: "educação, cultura e comunicação"
