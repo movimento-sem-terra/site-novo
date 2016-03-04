@@ -4,7 +4,7 @@ tags:
   - tag: nota
   - tag: Berta-Cáceres
   - tag: lutadores-e-lutadoras-do-povo
-title: "Nota: MST lamento o assassinato de Berta Cáceres"
+title: "Nota: MST lamenta o assassinato de Berta Cáceres"
 menu: direitos humanos
 support_line: "A trajetória de Cáceres é marcada pela sua coragem e determinação nas lutas em defesa do meio ambiente, dos povos indígenas e dos camponeses de seu país e da América Latina.\n"
 images_hd: //farm2.staticflickr.com/1706/25387722461_c51665c832_b.jpg
