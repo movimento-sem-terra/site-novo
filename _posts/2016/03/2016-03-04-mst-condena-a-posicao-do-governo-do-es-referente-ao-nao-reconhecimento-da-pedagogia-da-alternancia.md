@@ -4,7 +4,7 @@ tags:
   - tag: fechamento-de-escolas
   - tag: espirito-santo
   - tag: educação
-title: MST condena a posição do governo do ES referente ao não reconhecimento da pedagogia da alternância
+title: "MST condena a posição do governo do ES "
 support_line: "A posição tomada pelo governo estadual tem como objetivo “inviabilizar a existência das escolas dos assentamentos, assim como precarizar as condições de trabalho de seus professores”."
 menu: lutas e mobilizações
 images_hd: //farm2.staticflickr.com/1660/25381765492_71ec121113_b.jpg
