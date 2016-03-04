@@ -32,8 +32,7 @@ releated_posts:
 
 <p style="text-align: justify;">&nbsp;</p>
 
-<p style="text-align: justify;">O Movimento dos Trabalhadores Rurais Sem Terra (MST) vem a p&uacute;blico pelo presente&nbsp;documento manifestar sua indigna&ccedil;&atilde;o quanto a posi&ccedil;&atilde;o assumida pelo governo do estado do Esp&iacute;rito Santo referente ao n&atilde;o reconhecimento da Pedagogia da Altern&acirc;ncia&nbsp;nas Escolas de Assentamento do Estado. A posi&ccedil;&atilde;o tomada pelo Governo Estadual&nbsp;tem como objetivo &ldquo;inviabilizar a exist&ecirc;ncia das escolas dos assentamentos, assim como<br />
-precarizar as condi&ccedil;&otilde;es de trabalho de seus professores&rdquo;.</p>
+<p style="text-align: justify;">O Movimento dos Trabalhadores Rurais Sem Terra (MST) vem a p&uacute;blico pelo presente&nbsp;documento manifestar sua indigna&ccedil;&atilde;o quanto a posi&ccedil;&atilde;o assumida pelo governo do estado do Esp&iacute;rito Santo referente ao n&atilde;o reconhecimento da Pedagogia da Altern&acirc;ncia&nbsp;nas Escolas de Assentamento do Estado. A posi&ccedil;&atilde;o tomada pelo Governo Estadual&nbsp;tem como objetivo &ldquo;inviabilizar a exist&ecirc;ncia das escolas dos assentamentos, assim como&nbsp;precarizar as condi&ccedil;&otilde;es de trabalho de seus professores&rdquo;.</p>
 
 <p style="text-align: justify;">&nbsp;</p>
 
