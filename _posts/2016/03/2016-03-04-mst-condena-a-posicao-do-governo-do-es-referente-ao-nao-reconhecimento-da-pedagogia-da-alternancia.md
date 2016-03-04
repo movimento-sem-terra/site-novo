@@ -37,8 +37,7 @@ precarizar as condi&ccedil;&otilde;es de trabalho de seus professores&rdquo;.</p
 
 <p style="text-align: justify;">&nbsp;</p>
 
-<p style="text-align: justify;">As escolas de Assentamento no Esp&iacute;rito Santo surgiram no ano de 1985, a partir de&nbsp;reivindica&ccedil;&otilde;es das fam&iacute;lias por terra, trabalho e por uma educa&ccedil;&atilde;o diferente da&nbsp;oferecida pelo Poder P&uacute;blico, pois as crian&ccedil;as necessitam de escola e o direito &agrave;&nbsp;educa&ccedil;&atilde;o &eacute; uma das prioridades do movimento.&nbsp;A partir desse entendimento, o Coletivo de Educa&ccedil;&atilde;o criado entre os assentamentos&nbsp;passou a ter como fundamento de suas escolas a Pedagogia da Altern&acirc;ncia, inaugurada&nbsp;pela Rede Movimento de Educa&ccedil;&atilde;o Promocional do Esp&iacute;rito Santo (MEPES). Uma<br />
-Pedagogia que permite tanto aos assentados como a outros estudantes de Escolas do&nbsp;Campo condi&ccedil;&otilde;es de aprendizagem a partir de suas demandas.</p>
+<p style="text-align: justify;">As escolas de Assentamento no Esp&iacute;rito Santo surgiram no ano de 1985, a partir de&nbsp;reivindica&ccedil;&otilde;es das fam&iacute;lias por terra, trabalho e por uma educa&ccedil;&atilde;o diferente da&nbsp;oferecida pelo Poder P&uacute;blico, pois as crian&ccedil;as necessitam de escola e o direito &agrave;&nbsp;educa&ccedil;&atilde;o &eacute; uma das prioridades do movimento.&nbsp;A partir desse entendimento, o Coletivo de Educa&ccedil;&atilde;o criado entre os assentamentos&nbsp;passou a ter como fundamento de suas escolas a Pedagogia da Altern&acirc;ncia, inaugurada&nbsp;pela Rede Movimento de Educa&ccedil;&atilde;o Promocional do Esp&iacute;rito Santo (MEPES). Uma&nbsp;Pedagogia que permite tanto aos assentados como a outros estudantes de Escolas do&nbsp;Campo condi&ccedil;&otilde;es de aprendizagem a partir de suas demandas.</p>
 
 <p style="text-align: justify;"><br />
 Essa metodologia&nbsp;permite a altern&acirc;ncia do educando no ambiente da escola e da comunidade em um&nbsp;processo de aprendizagem que ocorre em ambos os per&iacute;odos, igualmente acompanhados&nbsp;pelos professores, o que constitui o que se convencionou denominar de &ldquo;tempo escola&rdquo;&nbsp;e &ldquo;tempo comunidade&rdquo;.&nbsp;</p>
@@ -47,8 +46,7 @@ Essa metodologia&nbsp;permite a altern&acirc;ncia do educando no ambiente da esc
 A partir do ano de 1992, as escolas de assentamento passaram a ofertar tamb&eacute;m o&nbsp;segundo segmento do Ensino Fundamental pela Rede P&uacute;blica estadual tamb&eacute;m na&nbsp;Pedagogia da Altern&acirc;ncia e com a inclus&atilde;o das disciplinas de Agricultura, Pr&aacute;ticas na&nbsp;Propriedade Familiar, Educa&ccedil;&atilde;o Familiar e Zootecnia.</p>
 
 <p style="text-align: justify;"><br />
-Nesse per&iacute;odo foi aprovado um projeto de resolu&ccedil;&atilde;o pelo Conselho Estadual de&nbsp;Educa&ccedil;&atilde;o, com prazo de validade de 10 (dez) anos, que reconhecia esta metodologia de&nbsp;ensino e aprendizagem. Ap&oacute;s o vencimento desse prazo, v&aacute;rios di&aacute;logos foram feitos e&nbsp;os avan&ccedil;os obtidos ocorreram sempre a partir de acordos verbais com o governo do&nbsp;estado, que nunca publicou nenhum documento oficial reconhecendo essa Pedagogia<br />
-como fundamento das escolas dos assentamentos.</p>
+Nesse per&iacute;odo foi aprovado um projeto de resolu&ccedil;&atilde;o pelo Conselho Estadual de&nbsp;Educa&ccedil;&atilde;o, com prazo de validade de 10 (dez) anos, que reconhecia esta metodologia de&nbsp;ensino e aprendizagem. Ap&oacute;s o vencimento desse prazo, v&aacute;rios di&aacute;logos foram feitos e&nbsp;os avan&ccedil;os obtidos ocorreram sempre a partir de acordos verbais com o governo do&nbsp;estado, que nunca publicou nenhum documento oficial reconhecendo essa Pedagogia&nbsp;como fundamento das escolas dos assentamentos.</p>
 
 <p style="text-align: justify;"><br />
 Diante da necessidade de garantir a legalidade dos direitos conquistados nessas&nbsp;negocia&ccedil;&otilde;es com o Estado, em 2012, iniciamos a produ&ccedil;&atilde;o das Diretrizes de Escolas de&nbsp;Assentamentos, documento que regulamentaria o funcionamento da Pedagogia da&nbsp;Altern&acirc;ncia. Com esse prop&oacute;sito foram realizadas diversas reuni&otilde;es no Coletivo de&nbsp;Educa&ccedil;&atilde;o dos Assentamentos, inclusive com participa&ccedil;&atilde;o de t&eacute;cnicos da Secretaria de&nbsp;Estado de Educa&ccedil;&atilde;o do Esp&iacute;rito Santo (SEDU) e, em 2013, foi protocolado no Conselho&nbsp;Estadual de Educa&ccedil;&atilde;o um relat&oacute;rio contendo o que foi produzido nessas reuni&otilde;es e&nbsp;semin&aacute;rios e posteriormente encaminhado para a SEDU para an&aacute;lise e aprova&ccedil;&atilde;o.</p>
@@ -83,9 +81,7 @@ Para o fortalecimento de nossa luta conclamamos o apoio de todos os segmentos da
 <p style="text-align: justify;"><br />
 Queremos ainda aproveitar para marcarmos nossa posi&ccedil;&atilde;o contr&aacute;ria &agrave;s seguintes&nbsp;pol&iacute;ticas:&nbsp;- Fechamento de escolas (Do campo e da cidade); Nuclea&ccedil;&atilde;o das escolas do campo;&nbsp;Projeto Escola Viva; e Qualquer projeto destinado a educa&ccedil;&atilde;o que desconsidere&nbsp;princ&iacute;pios democr&aacute;ticos e ampla discuss&atilde;o coletiva com as comunidades interessadas.</p>
 
-<p style="text-align: right;">&nbsp;</p>
-
-<p style="text-align: right;">&nbsp;</p>
+<p style="text-align: justify;">&nbsp;</p>
 
 <p style="text-align: right;">Setor de Educa&ccedil;&atilde;o do MST</p>
 
