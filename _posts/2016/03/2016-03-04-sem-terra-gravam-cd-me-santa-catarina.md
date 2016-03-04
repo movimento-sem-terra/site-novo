@@ -46,10 +46,9 @@ Come&ccedil;ou na &uacute;ltima&nbsp;semana em Chapec&oacute;, Santa Catarina, a
 O processo de constru&ccedil;&atilde;o do CD surgiu ap&oacute;s diversas oficinas de m&uacute;sicas iniciadas&nbsp;em 2003, a partir da&iacute;,&nbsp;surgiu a necessidade&nbsp;de fazer um&nbsp;resgate das m&uacute;sicas feitas pelos assentados de Santa&nbsp;Catarina.</p>
 
 <p><br />
-O resultado foi a sele&ccedil;&atilde;o de 15 m&uacute;sicas que est&atilde;o sendo gravadas e que ser&atilde;o&nbsp;reproduzidas e distribu&iacute;das gratuitamente em encontros de violeiros em seis&nbsp;munic&iacute;pios do estado.&nbsp;<br />
-&nbsp;</p>
+O resultado foi a sele&ccedil;&atilde;o de 15 m&uacute;sicas que est&atilde;o sendo gravadas e que ser&atilde;o&nbsp;reproduzidas e distribu&iacute;das gratuitamente em encontros de violeiros em seis&nbsp;munic&iacute;pios do estado.&nbsp;</p>
 
-<p><img alt="IMG-20160301-WA0003.jpg" src="//farm2.staticflickr.com/1692/25386453662_cb5a74ec1e_b.jpg" style="float:left" /><br />
+<p><br />
 Foram mais de 20 m&uacute;sicos envolvidos no&nbsp;trabalho que tem como&nbsp;parceiros o Minist&eacute;rio da Cultura, a Universidade Federal Fronteira Sul (UFFS) e uma ementa do Deputado Federal Pedro Ucsai.</p>
 
 <p><br />
