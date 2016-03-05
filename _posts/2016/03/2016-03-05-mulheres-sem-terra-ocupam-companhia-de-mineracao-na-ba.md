@@ -5,7 +5,7 @@ tags:
   - tag: bahia
   - tag: mulheres
   - tag: reforma-agrária
-title: Mulheres Sem Terra ocupam companhia de mineração na BA
+title: Mulheres Sem Terra ocupam mineradora na Bahia
 images_hd: //farm2.staticflickr.com/1571/25506310446_abdf704a7c_b.jpg
 support_line: A ação que faz parte da Jornada Nacional de Lutas das Mulheres aconteceu em solidariedade aos trabalhadores da mineração.
 menu: lutas e mobilizações
