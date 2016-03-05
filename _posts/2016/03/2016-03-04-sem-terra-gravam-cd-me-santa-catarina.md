@@ -43,7 +43,7 @@ Da P&aacute;gina do MST</em></p>
 Come&ccedil;ou na &uacute;ltima&nbsp;semana em Chapec&oacute;, Santa Catarina, a grava&ccedil;&atilde;o do &aacute;lbum&nbsp;Terra e Arte. O trabalho&nbsp;&eacute; resultado de tr&ecirc;s anos de&nbsp;trabalho, mas tamb&eacute;m de&nbsp;31 anos de hist&oacute;ria do povo Sem Terra em todo o estado.</p>
 
 <p><br />
-O processo de constru&ccedil;&atilde;o do CD surgiu ap&oacute;s diversas oficinas de m&uacute;sicas iniciadas&nbsp;em 2003, a partir da&iacute;,&nbsp;surgiu a necessidade&nbsp;de fazer um&nbsp;resgate das m&uacute;sicas feitas pelos assentados de Santa&nbsp;Catarina.</p>
+O processo de constru&ccedil;&atilde;o do CD surgiu ap&oacute;s diversas oficinas de m&uacute;sicas iniciadas&nbsp;em 2013, a partir da&iacute;,&nbsp;surgiu a necessidade&nbsp;de fazer um&nbsp;resgate das m&uacute;sicas feitas pelos assentados de Santa&nbsp;Catarina.</p>
 
 <p><br />
 O resultado foi a sele&ccedil;&atilde;o de 15 m&uacute;sicas que est&atilde;o sendo gravadas e que ser&atilde;o&nbsp;reproduzidas e distribu&iacute;das gratuitamente em encontros de violeiros em seis&nbsp;munic&iacute;pios do estado.&nbsp;</p>
