@@ -60,7 +60,7 @@ As mulheres denunciam as empresas transnacionais, chamando a aten&ccedil;&atilde
 <strong>Apura&ccedil;&otilde;es&nbsp;</strong></p>
 
 <p><br />
-A UNIAL atua no ramo sucroalcooleiro, respons&aacute;vel pela fabrica&ccedil;&atilde;o do a&ccedil;&uacute;car cristal da marca A&ccedil;&uacute;car Uni&atilde;o e j&aacute; responde a dois inqu&eacute;ritos civis instaurados pelo Minist&eacute;rio P&uacute;blico do Trabalho (MPT).&nbsp;</p>
+A UNIAL atua no ramo sucroalcooleiro, &eacute; respons&aacute;vel pela fabrica&ccedil;&atilde;o do a&ccedil;&uacute;car cristal da marca&nbsp;Uni&atilde;o que j&aacute; responde a dois inqu&eacute;ritos civis instaurados pelo Minist&eacute;rio P&uacute;blico do Trabalho (MPT).&nbsp;</p>
 
 <p><br />
 As a&ccedil;&otilde;es apuram den&uacute;ncias de terceiriza&ccedil;&atilde;o il&iacute;cita, doen&ccedil;a ocupacional, trabalho infantil e viola&ccedil;&otilde;es &agrave; Norma Regulamentadora 31, a NR-31, que trata da seguran&ccedil;a e sa&uacute;de no trabalho, na agricultura, pecu&aacute;ria, silvicultura, explora&ccedil;&atilde;o florestal e aquicultura.&nbsp;</p>
