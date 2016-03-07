@@ -40,6 +40,7 @@ releated_posts:
   - _posts/2016/03/2016-03-05-em-jornada-de-luta-mulheres-sem-terra-denunciam-o-agronegocio.md
   - _posts/2016/03/2016-03-07-mulheres-sem-terra-ocupam-agencias-do-inss-em-alagoas.md
   - _posts/2016/03/2016-03-07-na-paraiba-mulheres-saem-as-ruas-na-luta-em-defesa-da-alimentacao-saudavel.md
+section: cover
 
 ---
 <p>&nbsp;</p>
