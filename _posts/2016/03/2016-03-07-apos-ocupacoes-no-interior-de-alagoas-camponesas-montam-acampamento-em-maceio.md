@@ -34,19 +34,18 @@ releated_posts:
 ---
 <p><img alt="Ato em Piranhas.jpg" height="394" src="//farm2.staticflickr.com/1546/24969163703_8acc109da8_b.jpg" width="700" /></p>
 
-<p>&nbsp;</p>
-
-<p><em>Por Gustavo Marinho<br />
+<p><br />
+<em>Por Gustavo Marinho<br />
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
 Ap&oacute;s ocupa&ccedil;&otilde;es realizadas na manh&atilde; dessa segunda-feira (7),&nbsp;em diversas regi&otilde;es de Alagoas, mulheres Sem terra&nbsp;de todo o estado montaram acampamento na pra&ccedil;a Centen&aacute;rio, na cidade de Macei&oacute;, onde d&atilde;o continuidade as a&ccedil;&otilde;es da Jornada Nacional de Lutas das Mulheres Sem Terra.</p>
 
 <p><br />
-As camponesas que no in&iacute;cio da manh&atilde; ocuparam as ag&ecirc;ncias do Instituto Nacional de Seguro Social (INSS) nos munic&iacute;pios de Porto Calvo, Murici, Delmiro Gouveia, Piranhas, Teot&ocirc;nio Vilela, Traipu e Girau do Ponciano, al&eacute;m das prefeituras de Atalaia, de Olho d&rsquo;&Aacute;gua do Casado, Delmiro Gouveia e de Girau do Ponciano chegaram na capital alagoana no final da tarde de hoje.</p>
+As camponesas que no in&iacute;cio da manh&atilde; ocuparam as ag&ecirc;ncias do Instituto Nacional de Seguro Social (INSS) nos munic&iacute;pios de Porto Calvo, Murici, Delmiro Gouveia, Piranhas, Teot&ocirc;nio Vilela, Traipu e Girau do Ponciano, al&eacute;m das prefeituras de Atalaia, de Olho d&rsquo;&Aacute;gua do Casado, Delmiro Gouveia e de Girau do Ponciano, chegaram na capital alagoana no final da tarde.</p>
 
 <p><br />
-Amanh&atilde; (8) elas&nbsp;participam, de uma grande marcha em defesa dos direitos das mulheres trabalhadoras, da democracia e contra o golpe. A concentra&ccedil;&atilde;o da marcha est&aacute; prevista para &agrave;s 8h, na pr&oacute;pria pra&ccedil;a Centen&aacute;rio e ser&aacute; em<span style="line-height: 20.8px;">&nbsp;conjunto com outros movimentos sociais.</span></p>
+Nesta ter&ccedil;a-feira (8), as Sem Terra&nbsp;participam, de uma grande marcha em defesa dos direitos das mulheres trabalhadoras, da democracia e contra o golpe. A concentra&ccedil;&atilde;o da marcha est&aacute; prevista para &agrave;s 8h, na pr&oacute;pria pra&ccedil;a Centen&aacute;rio e ser&aacute; em<span style="line-height: 20.8px;">&nbsp;conjunto com outros movimentos sociais.</span></p>
 
 <p><br />
 Somente nas ocupa&ccedil;&otilde;es nos munic&iacute;pios do interior de Alagoas, aproximadamente 1000 camponesas estiveram mobilizadas pautando a desburocratiza&ccedil;&atilde;o das ag&ecirc;ncias do INSS na emiss&atilde;o de documentos para acesso aos benef&iacute;cios sociais.</p>
