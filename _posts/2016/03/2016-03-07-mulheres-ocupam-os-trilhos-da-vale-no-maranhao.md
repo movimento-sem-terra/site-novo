@@ -32,6 +32,7 @@ created_date: "2016-03-07T10:47:00-03:00"
 published: true
 releated_posts:
   - _posts/2014/10/2014-09-25-quilombolas-do-maranhao-bloqueiam-ferrovia-da-vale.md
+section: featured-news
 
 ---
 <p><img alt="IMG_4608.JPG" height="525" src="//farm2.staticflickr.com/1535/25585867615_dc493a670f_b.jpg" width="700" /><br />
