@@ -5,7 +5,7 @@ tags:
   - tag: mulheres-camponesas
   - tag: reforma-agrária
 images_hd: //farm2.staticflickr.com/1579/24956252784_a7b1337ac9_b.jpg
-title: "Mulheres Sem Terra iniciam Jornada Nacional de Lutas no no RN "
+title: "Camponesas iniciam Jornada Nacional de Lutas no no RN "
 support_line: "Em meio as ofensivas que avançam sob a classe trabalhadora, as mulheres enfatizam que a unidade política é condição para enfrentar a conjuntura que se acirra."
 menu: lutas e mobilizações
 layout: post
