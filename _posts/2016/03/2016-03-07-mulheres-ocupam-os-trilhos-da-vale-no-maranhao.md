@@ -4,8 +4,8 @@ tags:
   - tag: jornada-de-luta-das-mulheres-2016
   - tag: maranhão
   - tag: vale
-title: Mulheres ocupam os trilhos da Vale no Maranhão
-support_line: "Ação denuncia que a ação da Vale na região tem ameaçado territórios conquistados, aumentado a violência, os conflitos trabalhistas e fundiários, o número de acidentes e impedido as famílias de ir e vir."
+title: Mulheres do MST ocupam os trilhos da Vale no Maranhão
+support_line: "Ação denuncia os impactos da Vale na região que vai desde a ameaça de territórios conquistados, até o aumento da violência, dos conflitos trabalhistas e fundiários, do número de acidentes e restrição do direito de ir e vir."
 menu: lutas e mobilizações
 images_hd: //farm2.staticflickr.com/1535/25585867615_dc493a670f_b.jpg
 layout: post
@@ -37,22 +37,23 @@ section: featured-news
 ---
 <p><img alt="IMG_4608.JPG" height="525" src="//farm2.staticflickr.com/1535/25585867615_dc493a670f_b.jpg" width="700" /><br />
 <br />
-<em>Da P&aacute;gina do MST</em></p>
+<em>Da P&aacute;gina do MST<br />
+Por Reynaldo Costa</em></p>
 
 <p><br />
-Na madrugada desta segunda-feira (7), cerca de 300 mulheres Sem Terra do Maranh&atilde;o ocuparam os trilhos da Vale, na ferrovia Caraj&aacute;s.</p>
+Na madrugada desta segunda-feira (7), cerca de 300 mulheres Sem Terra do Maranh&atilde;o ocuparam os trilhos <span style="line-height: 20.8px;">da Estrada de Ferro Caraj&aacute;s administrada e usada pela Mineradora Vale. As Mulheres Sem Terra denunciam os impactos provocados pela atua&ccedil;&atilde;o da Mineradora na Regi&atilde;o.&nbsp;</span></p>
 
 <p><br />
-Os trens de min&eacute;rio foram paralisados &agrave;s 5h&nbsp;da manh&atilde; e assim permaneceram at&eacute; o meio da manh&atilde;,&nbsp;sendo impedidos de&nbsp;seguir do Par&aacute; para o porto de S&atilde;o Lu&iacute;s no Maranh&atilde;o.&nbsp;</p>
+Com a manifesta&ccedil;&atilde;o os trens de que transportam min&eacute;rio, desde a mina de Caraj&aacute;s em Parauapebas Par&aacute; &agrave; S&atilde;o Lu&iacute;s no Maranh&atilde;o, est&atilde;o parados.</p>
 
 <p><br />
-&ldquo;As mulheres Sem Terra da Regi&atilde;o Amaz&ocirc;nica se somam &agrave; jornada de luta nacional, denunciando a forma de atua&ccedil;&atilde;o destrutiva da empresa Vale ao longo dos 25 munic&iacute;pios atravessados pelo corredor Caraj&aacute;s, tamb&eacute;m conhecido como Corredor da Morte. A luta das mulheres, acontece no Assentamento Diamante Negro Juta&iacute;, munic&iacute;pio Igarap&eacute; do Meio, onde as fam&iacute;lias s&atilde;o diretamente atingidas pela duplica&ccedil;&atilde;o da ferrovia&rdquo;, afirmam Sem Terra em manifesto.</p>
+<span style="line-height: 20.8px;">&ldquo;As mulheres Sem Terra da Regi&atilde;o Amaz&ocirc;nica se somam &agrave; jornada de luta nacional, denunciando a forma de atua&ccedil;&atilde;o destrutiva da empresa Vale ao longo dos 25 munic&iacute;pios atravessados pelo corredor Caraj&aacute;s, tamb&eacute;m conhecido como Corredor da Morte&quot;,&nbsp;afirmam Sem Terra em manifesto.</span></p>
 
 <p><br />
-A atividade &eacute; um ato de den&uacute;ncia &agrave;s a&ccedil;&otilde;es destrutivas da Vale e tamb&eacute;m reivindica pautas espec&iacute;ficas para amenizar o impacto da Vale no assentamento Vila Diamante e demais comunidades do entorno, como a constru&ccedil;&atilde;o de um viaduto sobre a rodovia, que permita a circula&ccedil;&atilde;o segura das fam&iacute;lias.</p>
+Al&eacute;m das den&uacute;ncias, a atividade tamb&eacute;m reivindica&nbsp;a&ccedil;&otilde;es espec&iacute;ficas para amenizar o impacto da Vale no assentamento Diamante Negro Juta&iacute; e outras comunidades do entorno, tamb&eacute;m afetadas pelas a&ccedil;&otilde;es da mineradora.</p>
 
 <p><br />
-&ldquo;Denunciamos que a a&ccedil;&atilde;o da Vale na regi&atilde;o tem amea&ccedil;ado territ&oacute;rios conquistados, aumentado a viol&ecirc;ncia, os conflitos trabalhistas e fundi&aacute;rios, o n&uacute;mero de acidentes e impedido as fam&iacute;lias de ir e vir, na medida que a empresa se nega a construir viadutos e passarelas sobre a rodovia&rdquo;, salientaram.</p>
+Os impactos provocados pela Vale no Maranh&atilde;o e Par&aacute;, por onde percorre os trilhos da Estrada de Ferro Caraj&aacute;s, s&atilde;o enormes e s&atilde;o dos mais variados poss&iacute;veis. Entre os mais comuns est&atilde;o atropelamentos de pessoas devido a falta de seguran&ccedil;a na estrada de ferroa. A mineradora ainda vem causando grandes impactos ambientais e sociais com a duplica&ccedil;&atilde;o da ferrovia.</p>
 
 <p><br />
-As mulheres ainda participaram de uma atividade de estudo sobre g&ecirc;nero e feminismo e sobre a expans&atilde;o do capital na regi&atilde;o amaz&ocirc;nica.</p>
+A manifesta&ccedil;&atilde;o faz parte da Jornada Nacional de Lutas das Mulheres da Via Campesina, e no maranh&atilde;o as trabalhadoras rurais ainda participaram de um encontro para estudo sobre g&ecirc;nero e feminismo e tamb&eacute;m sobre a expans&atilde;o do capital na regi&atilde;o amaz&ocirc;nica.</p>
