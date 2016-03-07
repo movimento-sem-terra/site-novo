@@ -29,16 +29,11 @@ releated_posts:
 ---
 <p><img alt="AgACcHEqkbfxuYy5FLfXVrrmnsP-efXCigbbb3T6dZfm.jpg" height="525" src="//farm2.staticflickr.com/1484/25291605080_49a4410830_b.jpg" width="700" /></p>
 
-<p>&nbsp;</p>
-
-<p><em>Da P&aacute;gina do MST&nbsp;</em></p>
-
-<p>&nbsp;</p>
-
-<p>Cerca de 500 mulheres Sem Terra, ocuparam na manh&atilde; dessa segunda-feira (7),&nbsp;&nbsp;a sede da <span style="color: rgb(0, 0, 0); font-family: arial; line-height: 16px; text-align: justify;">a sede da Associa&ccedil;&atilde;o de Plantadores de Cana da Para&iacute;ba (Asplan),</span>&nbsp;na capital da Para&iacute;ba. A ocupa&ccedil;&atilde;o aconteceu&nbsp;com o objetivo de denunciar o modelo do monocultivo da cana de a&ccedil;&uacute;car, baseado no uso intensivo de agrot&oacute;xicos.</p>
+<p><br />
+<em>Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
-Tamb&eacute;m nessa segunda em Jo&atilde;o Pessoa,&nbsp;500 mulheres camponesas ocuparam a Associa&ccedil;&atilde;o dos Plantadores de Cana, que no 8 de mar&ccedil;o homenageia as mulheres, mas envenena a m&atilde;e terra com o monocultivo da cana de a&ccedil;&uacute;car e com uso intensivo de agrot&oacute;xicos.</p>
+Na manh&atilde; desta segunda-feira (7),&nbsp;<span style="line-height: 20.8px;">​c</span><span style="line-height: 20.8px;">erca de 500 mulheres Sem Terra&nbsp;ocuparam</span>&nbsp;a<span style="color: rgb(0, 0, 0); font-family: arial; line-height: 16px; text-align: justify;">&nbsp;sede da Associa&ccedil;&atilde;o de Plantadores de Cana da Para&iacute;ba (Asplan),</span>&nbsp;em Jo&atilde;o Pessoa,&nbsp;capital da Para&iacute;ba. A ocupa&ccedil;&atilde;o aconteceu&nbsp;com o objetivo de denunciar o modelo do monocultivo da cana de a&ccedil;&uacute;car, baseado no uso intensivo de agrot&oacute;xicos.</p>
 
 <p><br />
 O Brasil &eacute; o maior consumidor de agrot&oacute;xicos do mundo desde 2009. Uma pesquisa recente da Universidade de Bras&iacute;lia concluiu que, na hip&oacute;tese mais otimista, 30% dos alimentos consumidos pelos brasileiros s&atilde;o impr&oacute;prios para o consumo somente por conta de contamina&ccedil;&atilde;o por agrot&oacute;xicos. Modelo esse implementado e defendido pela <span style="color: rgb(0, 0, 0); font-family: arial; line-height: 16px; text-align: justify;">(Asplan)</span>.</p>
