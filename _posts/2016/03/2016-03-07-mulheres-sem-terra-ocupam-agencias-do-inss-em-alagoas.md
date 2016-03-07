@@ -7,7 +7,7 @@ tags:
   - tag: mulheres
 title: Mulheres Sem Terra ocupam agências do INSS em  Alagoas
 images_hd: //farm2.staticflickr.com/1516/25585672445_9559534a5e_b.jpg
-support_line: "Segundo a dirigente, as ocupações nas agências do INSS, que marcam o início da Jornada de Lutas, simboliza a indignação das camponesas com a burocracia do órgão para atender às demandas de acesso aos direitos sociais. "
+support_line: "As camponesas denunciam a burocracia do órgão na emissão de documentos para acesso aos direitos sociais. "
 menu: lutas e mobilizações
 layout: post
 files:
