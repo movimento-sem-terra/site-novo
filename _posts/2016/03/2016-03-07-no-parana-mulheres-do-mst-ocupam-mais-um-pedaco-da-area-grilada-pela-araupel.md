@@ -32,7 +32,7 @@ releated_posts:
 <em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Cerca de 450 fam&iacute;lias do MST, acampadas no Herdeiros da Terra de 1&deg; de Maio, em Rio Bonito do Igua&ccedil;u, regi&atilde;o centro do Paran&aacute;, ocuparam na &uacute;ltima sexta-feira (6), uma &aacute;rea denominada Guajuvira pertencente ao t&iacute;tulo Pinhal Ralo nas terras griladas pela empresa Araupel.</p>
+Cerca de 450 fam&iacute;lias do MST, acampadas no Herdeiros da Terra de 1&deg; de Maio, em Rio Bonito do Igua&ccedil;u, regi&atilde;o centro do Paran&aacute;, ocuparam no &uacute;ltimo domingo (6), uma &aacute;rea denominada Guajuvira pertencente ao t&iacute;tulo Pinhal Ralo nas terras griladas pela empresa Araupel.</p>
 
 <p><br />
 A ocupa&ccedil;&atilde;o realizada pelo Movimento foi para evitar confronto com uma outra organiza&ccedil;&atilde;o chamada de Ligas Camponesas que estava amea&ccedil;ando ocupar a &aacute;rea com interesse de retirar as madeiras do local.</p>
