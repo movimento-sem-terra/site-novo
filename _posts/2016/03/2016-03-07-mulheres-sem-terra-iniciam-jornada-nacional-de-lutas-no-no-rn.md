@@ -56,7 +56,7 @@ No Rio Grande do Norte, na manh&atilde; desta segunda-feira (7), cerca de 400&nb
 <span style="line-height: 20.8px;">&ldquo;Essa atividade d&aacute; o tom da an&aacute;lise do Movimento priorizar a constru&ccedil;&atilde;o da unidade pol&iacute;tica e da necessidade de recolocar a Reforma Agr&aacute;ria Popular, como uma pauta do conjunto da sociedade brasileira do campo e da cidade.&nbsp;</span></p>
 
 <p><br />
-<span style="line-height: 20.8px;">Nosso programa agr&aacute;ria depende necessariamente dessa unidade classista, n&atilde;o ser&aacute; obra, nem beneficiar&aacute; somente as e os Sem Terra, mas trata-se de um projeto para o campo brasileiro, que pretende produzir alimentos saud&aacute;veis e baratos para o povo da cidade.&rdquo;</span></p>
+<span style="line-height: 20.8px;">Nosso programa agr&aacute;rio depende necessariamente dessa unidade classista, n&atilde;o ser&aacute; obra, nem beneficiar&aacute; somente as e os Sem Terra, mas trata-se de um projeto para o campo brasileiro, que pretende produzir alimentos saud&aacute;veis e baratos para o povo da cidade.&rdquo;</span></p>
 
 <p><br />
 <span style="line-height: 20.8px;">No entanto, aponta, que para tanto, &eacute; necess&aacute;rio fazer enfrentamento ao agroneg&oacute;cio e o hidroneg&oacute;cio; a minera&ccedil;&atilde;o; a especula&ccedil;&atilde;o; a impunidade no Brasil, que sistema judici&aacute;rio classista, criminaliza as e os Sem Terra, e &eacute; conivente com a viol&ecirc;ncia do latif&uacute;ndio, como tem sido h&aacute; vinte anos com Massacre de Eldorado dos Caraj&aacute;s.</span></p>
