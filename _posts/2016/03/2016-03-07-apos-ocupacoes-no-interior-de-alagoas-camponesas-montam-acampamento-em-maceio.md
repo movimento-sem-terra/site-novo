@@ -30,6 +30,7 @@ releated_posts:
   - _posts/2016/03/2016-03-07-mulheres-sem-terra-ocupam-agencias-do-inss-em-alagoas.md
   - _posts/2016/03/2016-03-05-em-jornada-de-luta-mulheres-sem-terra-denunciam-o-agronegocio.md
   - _posts/2016/03/2016-03-07-mulheres-debatem-as-formas-de-opressao-do-capital-no-campo.md
+  - _posts/2016/03/2016-03-07-jornada-nacional-de-lutas-leva-milhares-de-mulheres-as-ruas-de-todo-pais.md
 
 ---
 <p><img alt="Ato em Piranhas.jpg" height="394" src="//farm2.staticflickr.com/1546/24969163703_8acc109da8_b.jpg" width="700" /></p>
