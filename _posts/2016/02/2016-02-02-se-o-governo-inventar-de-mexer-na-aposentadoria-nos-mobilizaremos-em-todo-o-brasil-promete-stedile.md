@@ -9,7 +9,7 @@ tags:
 title: "Stedile: Se o governo inventar de mexer na aposentadoria nos mobilizaremos em todo o Brasil"
 support_line: "A fala foi feita durante a coletiva de imprensa realizada em São Paulo, em que foi apresentado balanço crítico do atual momento político e as perspectivas do Movimento para o próximo período."
 menu: reforma agrária
-section: featured-news
+section: null
 images_hd: //farm2.staticflickr.com/1669/24484216620_d8b944d538_b.jpg
 layout: post
 files:
