@@ -4,7 +4,7 @@ tags:
   - tag: assentamento
   - tag: reforma-agrária
   - tag: posse-de-terra
-title: Famílias Sem terra de Sergipe e Bahia festejam emissão de posse
+title: Famílias Sem terra de Sergipe e Bahia festejam imissão de posse
 support_line: "A fazenda tem quase 9,8 mil hectares de extensão e vai beneficiar mais de 400 famílias. "
 images_hd: //farm2.staticflickr.com/1565/25495093271_f525d87446_b.jpg
 menu: reforma agrária
