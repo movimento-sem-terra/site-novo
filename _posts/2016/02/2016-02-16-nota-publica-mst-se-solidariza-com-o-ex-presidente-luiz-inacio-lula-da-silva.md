@@ -7,7 +7,7 @@ tags:
 title: "Nota Pública: MST se solidariza com o ex-presidente Luiz Inácio Lula da Silva"
 support_line: Nos solidarizamos com Lula e sua família. A cada dia se evidencia a estratégia de primeiro condená-lo para depois encontrar um crime que justifique a condenação.
 menu: lutas e mobilizações
-section: featured-news
+section: null
 images_hd: //farm2.staticflickr.com/1494/25072426995_12dcba75cd_b.jpg
 layout: post
 files:
