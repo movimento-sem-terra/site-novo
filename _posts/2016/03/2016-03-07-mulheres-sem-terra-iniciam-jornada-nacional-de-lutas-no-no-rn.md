@@ -33,21 +33,20 @@ releated_posts:
 ---
 <p><img alt="12791022_894318860666600_206913826688239607_n.jpg" height="693" src="//farm2.staticflickr.com/1481/24959834753_81fc5deee0_b.jpg" width="700" /></p>
 
-<p>&nbsp;</p>
-
-<p><em>Por&nbsp;Jailma Lopes D. Serafim<br />
+<p><br />
+<em>Por&nbsp;Jailma Lopes D. Serafim<br />
 Da P&aacute;gina do MST</em></p>
 
-<p>&nbsp;</p>
-
-<p>No Rio Grande do Norte, na manh&atilde; desta segunda-feira (7), cerca de 400&nbsp;mulheres do campo e da cidade, das organiza&ccedil;&otilde;es que comp&otilde;em a Frente Brasil Popular, abrem calend&aacute;rio de lutas de 2016, em refer&ecirc;ncia a semana do 8 de mar&ccedil;o.<br />
-<br />
-<span style="line-height: 20.8px;">Pela manh&atilde; ser&aacute; feito um debate sobre reforma na Previd&ecirc;ncia e os impactos na vida das mulheres, no audit&oacute;rio do Sindicato das professoras e dos professores do estado.</span><br style="line-height: 20.8px;" />
-<span style="line-height: 20.8px;">Pela tarde as mulheres realizaram&nbsp;oficinas de produ&ccedil;&atilde;o de materiais e concentra&ccedil;&atilde;o para ato que acontece &agrave;s 16 horas pelas ruas da cidade. </span></p>
+<p><br />
+No Rio Grande do Norte, na manh&atilde; desta segunda-feira (7), cerca de 400&nbsp;mulheres do campo e da cidade, das organiza&ccedil;&otilde;es que comp&otilde;em a Frente Brasil Popular, abrem calend&aacute;rio de lutas de 2016, em refer&ecirc;ncia a semana do 8 de mar&ccedil;o.</p>
 
 <p><br />
-<span style="line-height: 20.8px;"><strong>Jornada Nacional de Lutas</strong></span><br />
-<br />
+<span style="line-height: 20.8px;">Pela manh&atilde; ser&aacute; feito um debate sobre reforma na Previd&ecirc;ncia e os impactos na vida das mulheres, no audit&oacute;rio do Sindicato das professoras e dos professores do estado.&nbsp;</span><span style="line-height: 20.8px;">Pela tarde as mulheres realizaram&nbsp;oficinas de produ&ccedil;&atilde;o de materiais e concentra&ccedil;&atilde;o para ato que acontece &agrave;s 16 horas pelas ruas da cidade. </span></p>
+
+<p><br />
+<span style="line-height: 20.8px;"><strong>Jornada Nacional de Lutas</strong></span></p>
+
+<p><br />
 <span style="line-height: 20.8px;">As atividades integram a Jornada Nacional das Mulheres Sem Terra, que este ano tem como lema: &ldquo;Mulheres em Luta em defesa da natureza e alimenta&ccedil;&atilde;o saud&aacute;vel, contra o agroneg&oacute;cio&rdquo;.</span></p>
 
 <p><br />
@@ -57,14 +56,13 @@ Da P&aacute;gina do MST</em></p>
 <span style="line-height: 20.8px;">&ldquo;Essa atividade d&aacute; o tom da an&aacute;lise do Movimento priorizar a constru&ccedil;&atilde;o da unidade pol&iacute;tica e da necessidade de recolocar a Reforma Agr&aacute;ria Popular, como uma pauta do conjunto da sociedade brasileira do campo e da cidade.&nbsp;</span></p>
 
 <p><br />
-<span style="line-height: 20.8px;">Nosso programa agr&aacute;ria depende necessariamente dessa unidade classista, n&atilde;o ser&aacute; obra, nem beneficiar&aacute; somente as e os Sem Terra, mas trata-se de um projeto para o campo brasileira, que pretende produzir alimentos saud&aacute;veis e baratos para o povo da cidade.&rdquo;</span></p>
+<span style="line-height: 20.8px;">Nosso programa agr&aacute;ria depende necessariamente dessa unidade classista, n&atilde;o ser&aacute; obra, nem beneficiar&aacute; somente as e os Sem Terra, mas trata-se de um projeto para o campo brasileiro, que pretende produzir alimentos saud&aacute;veis e baratos para o povo da cidade.&rdquo;</span></p>
 
 <p><br />
 <span style="line-height: 20.8px;">No entanto, aponta, que para tanto, &eacute; necess&aacute;rio fazer enfrentamento ao agroneg&oacute;cio e o hidroneg&oacute;cio; a minera&ccedil;&atilde;o; a especula&ccedil;&atilde;o; a impunidade no Brasil, que sistema judici&aacute;rio classista, criminaliza as e os Sem Terra, e &eacute; conivente com a viol&ecirc;ncia do latif&uacute;ndio, como tem sido h&aacute; vinte anos com Massacre de Eldorado dos Caraj&aacute;s.</span></p>
 
-<p>&nbsp;</p>
-
-<p><strong><span style="line-height: 20.8px;">Retrocessos&nbsp;</span></strong></p>
+<p><br />
+<strong><span style="line-height: 20.8px;">Retrocessos&nbsp;</span></strong></p>
 
 <p><br />
 Em meio as ofensivas que avan&ccedil;am sob a classe trabalhadora, as mulheres enfatizam que a unidade pol&iacute;tica &eacute; condi&ccedil;&atilde;o para enfrentar a conjuntura que se acirra&nbsp;e que imp&otilde;e uma s&eacute;rie de retrocessos aos direitos sociais, dentre elas:</p>
@@ -86,8 +84,3 @@ Para Mara Farias, do Levante Popular do Juventude, &ldquo;h&aacute; de escancara
 
 <p><br />
 &ldquo;N&oacute;s precisamos retomar um amplo processo de unidade, a Frente Brasil Popular &eacute; um espa&ccedil;o central para isso, mas tamb&eacute;m construir com o conjunto das organiza&ccedil;&otilde;es um amplo processo de forma&ccedil;&atilde;o pol&iacute;tica que dispute a sociedade, organize e se converta em lutas de enfrentamento a esse sistema&rdquo;.</p>
-
-<p><br />
-&nbsp;</p>
-
-<p>&nbsp;</p>
