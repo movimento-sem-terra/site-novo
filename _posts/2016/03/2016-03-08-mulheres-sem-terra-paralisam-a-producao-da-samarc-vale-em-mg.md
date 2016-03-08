@@ -51,10 +51,8 @@ releated_posts:
 ---
 <p><img alt="luta -1.jpg" height="463" src="//farm2.staticflickr.com/1474/25243887619_48fb849399_b.jpg" width="700" /></p>
 
-<p>&nbsp;</p>
-
-<p><em>Por Gianini Hackbardt<br />
-Da P&aacute;gina do MST</em></p>
+<p><br />
+<em>Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
