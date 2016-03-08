@@ -6,7 +6,7 @@ tags:
   - tag: mobilizações
   - tag: mulheres
 title: "No Paraná, mais de cinco mil mulheres Sem Terra realizam ação na Araupel "
-support_line: A ação teve como objetivo chamar a atenção da sociedade acerca do modelo destrutivo cunhado pelo agronegócio.
+support_line: A ação teve como objetivo chamar a atenção da sociedade para o modelo destrutivo do agronegócio.
 menu: lutas e mobilizações
 images_hd: //farm2.staticflickr.com/1663/25242174019_0731cfefc6_b.jpg
 layout: post
@@ -34,23 +34,14 @@ releated_posts:
 ---
 <p><img alt="Ah_xbmYHVk4h1e5u2_wjgQdeisiV1LL12AxVLZ5Oe_y2.jpg" height="394" src="//farm2.staticflickr.com/1713/24983002253_19d4e756c4_b.jpg" width="700" /></p>
 
-<p>&nbsp;</p>
-
-<p><em>Riquieli Capitani<br />
-Da P&aacute;gina do MST</em></p>
-
-<p>&nbsp;</p>
-
-<p>Cerca de cinco&nbsp;mil trabalhadoras Sem Terra realizaram uma a&ccedil;&atilde;o rel&acirc;mpago na madrugada desta ter&ccedil;a-feira (8), nas depend&ecirc;ncias da empresa Araupel, em Quedas do Igua&ccedil;u, regi&atilde;o centro do Paran&aacute;.</p>
+<p><br />
+<em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Vindas de todo o estado, as mulheres&nbsp;destru&iacute;ram estufas e bandejas de mudas de eucalipto em uma a&ccedil;&atilde;o que, em si, n&atilde;o demorou mais de 20 minutos. A&ccedil;&atilde;o encerrada, as agricultoras voltaram para seus assentamentos e acampamentos.</p>
+<span style="line-height: 20.8px;">Na madrugada desta ter&ccedil;a-feira (8), c</span>erca de cinco&nbsp;mil trabalhadoras Sem Terra realizaram uma a&ccedil;&atilde;o rel&acirc;mpago, nas depend&ecirc;ncias da empresa Araupel, em Quedas do Igua&ccedil;u, regi&atilde;o centro do Paran&aacute;.</p>
 
 <p><br />
-A mobiliza&ccedil;&atilde;o faz parte da Jornada Nacional de Lutas, que tem como lema &ldquo;Mulheres na luta em defesa da natureza e alimenta&ccedil;&atilde;o saud&aacute;vel, contra o agroneg&oacute;cio&rdquo;.</p>
-
-<p><br />
-A a&ccedil;&atilde;o&nbsp;teve como objetivo chamar a aten&ccedil;&atilde;o da sociedade acerca do&nbsp;modelo destrutivo cunhado pelo&nbsp;agroneg&oacute;cio, como por exemplo: a expans&atilde;o da monocultura de&nbsp;pinus e eucalipto, que transforma as terras em&nbsp;deserto verde e improdutivo.</p>
+Vindas de todo o estado, as mulheres destru&iacute;ram as mudas de eucalipto e pinus para denunciar o modelo destrutivo do agroneg&oacute;cio e seus impactos para o meio ambiente, como por exemplo: a expans&atilde;o da monocultura de pinus e eucalipto, que transforma as terras em um deserto verde improdutivo do ponto de vista da soberania alimentar.</p>
 
 <p><br />
 O MST critica os &lsquo;deserto&nbsp;verde&rsquo; da monocultura de pinus e eucalipto, que destr&oacute;i a biodiversidade do territ&oacute;rio, deteriora o solo, secam os rios, ocupando grandes extens&otilde;es de terra, que poderiam ser utilizadas para produzir variedade de alimentos saud&aacute;veis por fam&iacute;lia a espera da reforma agr&aacute;ria.</p>
@@ -58,6 +49,8 @@ O MST critica os &lsquo;deserto&nbsp;verde&rsquo; da monocultura de pinus e euca
 <p><br />
 As mulheres tamb&eacute;m denunciam a apropria&ccedil;&atilde;o ilegal de terras feitas&nbsp;pela Araupel. No final do ano passado a justi&ccedil;a federal anulou as matr&iacute;culas de nove im&oacute;veis que est&atilde;o sob dom&iacute;nio da empresa, assim, segundo o Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra), a decis&atilde;o mant&eacute;m a empresa&nbsp;&aacute;rea apenas como usu&aacute;ria, mediante concess&atilde;o de direito real de uso, isso significa que a Araupel&nbsp;est&aacute; fazendo o papel de inquilina do im&oacute;vel e que, portanto, deve pagar pelo seu uso.</p>
 
-<p>&nbsp;</p>
+<p><br />
+Nesse contexto, as mulheres camponesas exigem a desapropria&ccedil;&atilde;o da fazenda de cerca de 35 mil hectares para fins de Reforma Agr&aacute;ria. Elas tamb&eacute;m cobram que as&nbsp;cerca de 10 mil fam&iacute;lias acampadas no Paran&aacute; sejam assentadas no estado.</p>
 
-<p>Nesse contexto, as mulheres camponesas exigem a desapropria&ccedil;&atilde;o da fazenda de cerca de 35 mil hectares para fins de Reforma Agr&aacute;ria. Elas tamb&eacute;m cobram que as&nbsp;cerca de 10 mil fam&iacute;lias acampadas no Paran&aacute; sejam assentadas no estado.</p>
+<p><br />
+<span style="line-height: 20.8px;">A mobiliza&ccedil;&atilde;o faz parte da Jornada Nacional de Lutas das Mulheres na luta em defesa da natureza e alimenta&ccedil;&atilde;o saud&aacute;vel, contra o agroneg&oacute;cio&rdquo;.&nbsp;</span></p>
