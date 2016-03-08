@@ -86,23 +86,24 @@ O Ars&ecirc;nio &eacute; utilizado principalmente na extra&ccedil;&atilde;o de o
 <p style="line-height: 20.8px;"><br />
 <strong>As mulheres s&atilde;o as principais afetadas pela minera&ccedil;&atilde;o</strong></p>
 
-<p style="line-height: 20.8px;"><br />
-O trabalho dom&eacute;stico ainda &eacute; visto pela sociedade como fun&ccedil;&atilde;o das mulheres que, consequentemente, s&atilde;o as que sofrem com a sobrecarga de trabalho quando h&aacute; falta de &aacute;gua ou quando existe&nbsp;aumento da polui&ccedil;&atilde;o causada pela explora&ccedil;&atilde;o miner&aacute;ria.&nbsp;</p>
+<p>&nbsp;</p>
 
-<p style="line-height: 20.8px;"><br />
+<p>O trabalho dom&eacute;stico ainda &eacute; visto pela sociedade como fun&ccedil;&atilde;o das mulheres que, consequentemente, s&atilde;o as que sofrem com a sobrecarga de trabalho quando h&aacute; falta de &aacute;gua ou quando existe aumento da polui&ccedil;&atilde;o causada pela explora&ccedil;&atilde;o miner&aacute;ria.&nbsp;</p>
+
+<p><br />
 S&atilde;o elas que convivem dia e noite com a chegada de milhares de trabalhadores nas comunidades, homens multiplicadores da viol&ecirc;ncia e da prostitui&ccedil;&atilde;o, do ass&eacute;dio, do estupro e at&eacute; da explora&ccedil;&atilde;o infantil.</p>
 
-<p style="line-height: 20.8px;"><br />
+<p><br />
 S&atilde;o elas que cuidam dos familiares adoecidos, com asma, bronquite, silicose, ulcera&ccedil;&otilde;es nasais e c&acirc;ncer, entre outras doen&ccedil;as causadas pela minera&ccedil;&atilde;o.</p>
 
-<p style="line-height: 20.8px;"><br />
-A minera&ccedil;&atilde;o&nbsp;&eacute; o setor que mais t&ecirc;m causado mortes, mutila&ccedil;&otilde;es e adoecimento mental naa trabalhadoras e trabalhadores.</p>
+<p><br />
+A minera&ccedil;&atilde;o &eacute; o setor que mais t&ecirc;m causado mortes, mutila&ccedil;&otilde;es e adoecimento mental naa trabalhadoras e trabalhadores.</p>
 
-<p style="line-height: 20.8px;">&nbsp;</p>
+<p>&nbsp;</p>
 
-<p style="line-height: 20.8px;">Al&eacute;m disso, a minera&ccedil;&atilde;o&nbsp;subordina outros setores da economia nas cidades exploradas, gerando o desemprego principalmente entre as mulheres e, consequentemente, a queda da renda familiar.</p>
+<p>Al&eacute;m disso, a minera&ccedil;&atilde;o subordina outros setores da economia nas cidades exploradas, gerando o desemprego principalmente entre as mulheres e, consequentemente, a queda da renda familiar.</p>
 
-<p style="line-height: 20.8px;"><br />
+<p><br />
 Minas Gerais, por exemplo, &eacute; o segundo estado mais minerado do Brasil e tem apenas 7% do PIB vinculado a esta atividade. Um percentual m&iacute;nimo, se considerarmos os impactos sociais e ambientais gerados.</p>
 
 <p>&nbsp;</p>
