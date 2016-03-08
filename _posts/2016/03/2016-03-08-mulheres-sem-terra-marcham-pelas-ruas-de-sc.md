@@ -47,7 +47,7 @@ Em S&atilde;o Miguel do Oeste foram&nbsp;cerca de 1000 mulheres,&nbsp;em Lages 5
 <p><br />
 A mobiliza&ccedil;&atilde;o foi&nbsp;formada pela uni&atilde;o de diversos movimentos do campo e da cidade, al&eacute;m da igreja, Pastoral da Juventude do Meio Popular (PJMP), Pastoral da Juventude Rural (PJR) e sindicatos.<br />
 <br />
-Para Irma Brunetto da dire&ccedil;&atilde;o Nacional do MST, o 8 de mar&ccedil;o n&atilde;o pode ser aderido pelo capital para que se venda mercadorias, pois &eacute; um dia de luta.</p>
+Para Irma Brunetto da dire&ccedil;&atilde;o nacional do MST, o oito&nbsp;de mar&ccedil;o n&atilde;o pode ser aderido pelo capital para que se venda mercadorias, pois &eacute; um dia de luta.</p>
 
 <p><br />
 &ldquo;Temos que aproveitar esse dia para dizer mais uma vez que somos contra a viol&ecirc;ncia, n&atilde;o d&aacute; mais para permitir a discrimina&ccedil;&atilde;o e o conservadorismo. Uma viol&ecirc;ncia sutil contra as mulheres&rdquo;, advertiu Irma.<br />
@@ -55,10 +55,10 @@ Para Irma Brunetto da dire&ccedil;&atilde;o Nacional do MST, o 8 de mar&ccedil;o
 Em Chapec&oacute; as mulheres&nbsp;seguiram em marcha at&eacute; a delegacia regional da mulher, mas&nbsp;encontraram as&nbsp;portas fechadas, pois a mesma s&oacute; funciona meio per&iacute;odo. As Sem Terra exigem que&nbsp;a delegacia&nbsp;funcione 24hs, como forma de protesto, as mulheres&nbsp;deixaram&nbsp;cruzes em frente &agrave; delegacia.</p>
 
 <p><br />
-&ldquo;&Eacute; momento de chamar a aten&ccedil;&atilde;o da sociedade, para esta pauta coletiva, em defesa da alimenta&ccedil;&atilde;o saud&aacute;vel, da perman&ecirc;ncia de homens e mulheres no campo com dignidade, de falar que a viol&ecirc;ncia contra as mulheres persiste e algo urgente precisa ser feito&rdquo;, Afirma o companheiro do Movimento dos Pequenos Agricultores (MPA), Taiti Zambenedetti.</p>
+&ldquo;&Eacute; momento de chamar a aten&ccedil;&atilde;o da sociedade, para esta pauta coletiva, em defesa da alimenta&ccedil;&atilde;o saud&aacute;vel, da perman&ecirc;ncia de homens e mulheres no campo com dignidade, de falar que a viol&ecirc;ncia contra as mulheres persiste e algo urgente precisa ser feito&rdquo;, afirma o companheiro do Movimento dos Pequenos Agricultores (MPA), Taiti Zambenedetti.</p>
 
 <p><br />
-J&aacute; para a Joana Sebenn, representante do Movimento de Mulheres Camponesas (MMS), o 8 de mar&ccedil;o &eacute; uma data hist&oacute;rica, n&atilde;o apenas para as mulheres, mas para a sociedade como um todo.</p>
+J&aacute; para a Joana Sebenn, representante do Movimento de Mulheres Camponesas (MMC), o 8 de mar&ccedil;o &eacute; uma data hist&oacute;rica, n&atilde;o apenas para as mulheres, mas para a sociedade como um todo.</p>
 
 <p><br />
 &ldquo;Surge com a luta das mulheres Socialistas que buscavam rela&ccedil;&otilde;es de igualdade, de oportunidade entre homens e mulheres. Enfrentamento contra a explora&ccedil;&atilde;o que a classe trabalhadora e em especial as mulheres eram submetidas. &Eacute; uma data onde se rememora a luta por sal&aacute;rios justos, redu&ccedil;&atilde;o da jornada de trabalho, pelo fim da viol&ecirc;ncia&rdquo;.</p>
