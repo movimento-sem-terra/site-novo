@@ -4,8 +4,8 @@ tags:
   - tag: jornada-de-lutas-das-mulheres-2016
   - tag: lutas-e-mobilizações
   - tag: jornada-de-lutas
-title: Jornada Nacional das Mulheres do MST mobiliza 20 estados do Brasil
-support_line: Foram mais de 20 mil mulheres em luta o capital e em defesa dos direitos sociais da classe trabalhadora.
+title: Jornada Nacional das Mulheres do MST mobiliza 21 estados do Brasil
+support_line: Foram mais de 30 mil mulheres em luta o capital e em defesa dos direitos sociais da classe trabalhadora.
 menu: lutas e mobilizações
 images_hd: //farm2.staticflickr.com/1686/25297076790_3c24c821c7_b.jpg
 layout: post
@@ -196,6 +196,21 @@ Mulheres do MST e do MAB protestaram contra a Vale do Rio Doce no Rio de Janeiro
 
 <p><br />
 Integrantes do MST, Movimento Campon&ecirc;s Popular (MCP), Movimento dos Atingidos por Barragem (MAB) e Via Campesina inicia Jornada de Luta das Mulheres com luta em Goi&acirc;nia pela aprova&ccedil;&atilde;o da lei da agricultura familiar e camponesa, que est&aacute; em negocia&ccedil;&atilde;o desde outubro de 2014.</p>
+
+<p><br />
+<strong>PE&nbsp;</strong></p>
+
+<p><br />
+As mobiliza&ccedil;&otilde;es aconteceram no Sert&atilde;o no munic&iacute;pio de Petrolina onde cerca de 200 mulheres ocuparam o INCRA para reivindicar cr&eacute;dito de apoio &agrave; mulher e agilidade nas desapropria&ccedil;&otilde;es de terras.</p>
+
+<p><br />
+Na Zona da Mata Sul houve uma ocupa&ccedil;&atilde;o em um laborat&oacute;rio de mudas de cana-de-a&ccedil;&uacute;car, onde at&eacute; o momento as companheiras permanecem no local para pedir a desapropria&ccedil;&atilde;o de v&aacute;rios acampamentos antigos.</p>
+
+<p><br />
+No Recife ocorrem as rodas de di&aacute;logo entre mulheres do campo e da cidade e ser&aacute; feita a entrega de uma carta reivindicat&oacute;ria ao governador do estado.</p>
+
+<p><br />
+No Litoral Norte cerca de 200 mulheres se mobilizaram e fizeram uma marcha.&nbsp;</p>
 
 <p><br />
 <strong>RS</strong></p>
