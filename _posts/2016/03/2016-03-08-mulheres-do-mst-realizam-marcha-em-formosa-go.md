@@ -5,7 +5,7 @@ tags:
   - tag: mulheres
   - tag: lutas-e-mobilizações
   - tag: distrito-federal
-title: Mulheres do MST realizam marcha em Formosa do Goiás
+title: Mulheres do MST e MMC realizam marcha em Formosa do Goiás
 images_hd: //farm2.staticflickr.com/1697/24991929804_1558832558_b.jpg
 support_line: "As mulheres também denunciaram a violência do agronegócio contra todos aqueles que defendem a Reforma Agrária Popular. "
 menu: lutas e mobilizações
