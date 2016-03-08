@@ -5,7 +5,7 @@ tags:
   - tag: lutas-e-mobilizações
   - tag: jornada-de-lutas
 title: Jornada Nacional de Lutas leva milhares de mulheres às ruas de todo país
-support_line: "Dentre outras coisas, as Sem Terra pautam a defesa da natureza, da alimentação saudável e denunciam o agronegócio. "
+support_line: Até o momento são cerca de 18 mil mulheres mobilizadas em 12 estados do país.
 menu: lutas e mobilizações
 images_hd: //farm2.staticflickr.com/1686/25297076790_3c24c821c7_b.jpg
 layout: post
