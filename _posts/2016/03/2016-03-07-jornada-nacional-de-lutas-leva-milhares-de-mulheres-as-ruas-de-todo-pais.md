@@ -140,10 +140,10 @@ Mais de 200 Mulheres da Via Campesina ocuparam o Minist&eacute;rio da Agricultur
 Cerca de 500 Mulheres do MST-DF e entorno ocuparam&nbsp;o Complexo Jardim da Fazenda Santa Clara, pr&oacute;ximo &agrave; Una&iacute; (MG). A fazenda possui cerca de 9 mil hectares de terras griladas.</p>
 
 <p><br />
-&nbsp;Tamb&eacute;m no DF&nbsp;300 mulheres&nbsp;ocupam a fazenda S&aacute;lvia, localizada em Sobradinho (DF). A &aacute;rea pertence &agrave; Uni&atilde;o e as mulheres exigem que ela seja destinada &agrave; Reforma Agr&aacute;ria.</p>
+Tamb&eacute;m no DF&nbsp;300 mulheres&nbsp;ocupam a fazenda S&aacute;lvia, localizada em Sobradinho (DF). A &aacute;rea pertence &agrave; Uni&atilde;o e as mulheres exigem que ela seja destinada &agrave; Reforma Agr&aacute;ria.</p>
 
 <p><br />
-Cerca de 1000 integrantes do MST DF e Entorno realizaram uma marcha contra a contra a retirada de diretos da classe trabalhadora do campo e da cidade. A mobiliza&ccedil;&atilde;o acontece no munic&iacute;pio de Formosa (GO), distante 80 Km de Bras&iacute;lia.</p>
+Cerca de 1000 integrantes do Movimento de Mulheres Camponesas e MST DF e Entorno realizaram uma marcha contra a contra a retirada de diretos da classe trabalhadora do campo e da cidade. A mobiliza&ccedil;&atilde;o acontece no munic&iacute;pio de Formosa (GO), distante 80 Km de Bras&iacute;lia.</p>
 
 <p><br />
 Dentre as preocupa&ccedil;&otilde;es das mulheres Sem Terra, est&aacute; a reforma da previd&ecirc;ncia, anunciada pelo Governo Federal.</p>
@@ -169,7 +169,7 @@ Na manh&atilde; desta ter&ccedil;a feira, cerca de 600 mulheres Sem Terra e urba
 Sindicatos, partidos pol&iacute;ticos, movimentos de juventude, movimentos populares e de luta pela terra realizaram na manh&atilde; desta ter&ccedil;a-feira (08), uma grande marcha pela cidade de Macei&oacute; em defesa dos direitos das mulheres, contra o golpe e pela democracia.</p>
 
 <p><br />
-As camponesas que no in&iacute;cio da manh&atilde; ocuparam as ag&ecirc;ncias do INSS em diversos munic&iacute;pios do estado, al&eacute;m das prefeituras de Atalaia, de Olho d&rsquo;&Aacute;gua do Casado, Delmiro Gouveia e de Girau do Ponciano. O protesto foi contra a retirada de direitos dos trabalhadores e a anunciada reforma da previd&ecirc;ncia.</p>
+As camponesas que no in&iacute;cio da manh&atilde; desta segunda-feira (7)&nbsp;ocuparam as ag&ecirc;ncias do INSS em diversos munic&iacute;pios do estado, al&eacute;m das prefeituras de Atalaia, de Olho d&rsquo;&Aacute;gua do Casado, Delmiro Gouveia e de Girau do Ponciano, protestaram contra a retirada de direitos dos trabalhadores e a anunciada reforma da previd&ecirc;ncia.</p>
 
 <p><br />
 <strong>MT</strong></p>
