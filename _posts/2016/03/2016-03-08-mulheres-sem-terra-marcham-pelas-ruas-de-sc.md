@@ -39,7 +39,7 @@ Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
-<p>Cerca de 2.500 mulheres Sem Terra se mobilizaram na manh&atilde; desta ter&ccedil;a-feira (8), em tr&ecirc;s grandes regi&otilde;es do estado do Paran&aacute;.</p>
+<p>Cerca de 2.500 mulheres Sem Terra se mobilizaram na manh&atilde; desta ter&ccedil;a-feira (8), em tr&ecirc;s grandes regi&otilde;es do estado de Santa Catarina.</p>
 
 <p><br />
 Em S&atilde;o Miguel do Oeste foram&nbsp;cerca de 1000 mulheres,&nbsp;em Lages 500 companheiras e em Chapec&oacute; foram&nbsp;1000 mulheres.&nbsp;</p>
