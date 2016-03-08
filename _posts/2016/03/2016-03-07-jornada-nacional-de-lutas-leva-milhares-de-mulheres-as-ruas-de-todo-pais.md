@@ -98,9 +98,7 @@ As mulheres Sem Terra tamb&eacute;m denunciam a impunidade no caso do Massacre d
 <strong>PA</strong></p>
 
 <p><br />
-Cerca de 500 Mulheres Sem Terra ocuparam a portaria da Vale em Parauapebas, no sudeste paraense. A PM reagiu de forma truculenta com bombas e agress&atilde;o. Seis manifestantes est&atilde;o presas e mais de 10 pessoas est&atilde;o feridas.&nbsp;</p>
-
-<p>&nbsp;</p>
+<span style="line-height: 20.8px;">No Par&aacute;, cerca de 500 mulheres do MST realizaram uma marcha at&eacute; a&nbsp;portaria da Floresta Nacional de Caraj&aacute;s (FLONACA), onde h&aacute;&nbsp;mais de 30 anos a mineradora Vale saqueia o povo brasileiro.&nbsp;No entanto, as mulheres foram recebidas pela pol&iacute;cia com bombas de g&aacute;s e bastante trucul&ecirc;ncia. Pelo menos 10 manifestantes est&atilde;o feridas e seis manifestantes est&atilde;o presos.&nbsp;</span></p>
 
 <p><br />
 <strong>MG/ Regi&atilde;o Sudeste</strong></p>
@@ -201,16 +199,16 @@ Integrantes do MST, Movimento Campon&ecirc;s Popular (MCP), Movimento dos Atingi
 <strong>PE&nbsp;</strong></p>
 
 <p><br />
-As mobiliza&ccedil;&otilde;es aconteceram no Sert&atilde;o no munic&iacute;pio de Petrolina onde cerca de 200 mulheres ocuparam o INCRA para reivindicar cr&eacute;dito de apoio &agrave; mulher e agilidade nas desapropria&ccedil;&otilde;es de terras.</p>
+Em Ibimirim e Goiana, no Litoral Norte, cerca de 200 mulheres realizaram uma marcha contra o agroneg&oacute;cio e em defesa dos direitos das trabalhadoras rurais.</p>
 
 <p><br />
-Na Zona da Mata Sul houve uma ocupa&ccedil;&atilde;o em um laborat&oacute;rio de mudas de cana-de-a&ccedil;&uacute;car, onde at&eacute; o momento as companheiras permanecem no local para pedir a desapropria&ccedil;&atilde;o de v&aacute;rios acampamentos antigos.</p>
+J&aacute; em Petrolina, sert&atilde;o do Pernambuco, as mobiliza&ccedil;&otilde;es reuniram cerca de 200 mulheres em uma ocupa&ccedil;&atilde;o do INCRA para reivindicar cr&eacute;dito de apoio &agrave; mulher e agilidade nas desapropria&ccedil;&otilde;es de terras.</p>
 
 <p><br />
-No Recife ocorrem as rodas de di&aacute;logo entre mulheres do campo e da cidade e ser&aacute; feita a entrega de uma carta reivindicat&oacute;ria ao governador do estado.</p>
+Na capital do estado, Recife, o Movimento fez parte das rodas de di&aacute;logo entre mulheres do campo e da cidade, onde fizeram a entrega de uma carta reivindicat&oacute;ria ao governador do estado.</p>
 
 <p><br />
-No Litoral Norte cerca de 200 mulheres se mobilizaram e fizeram uma marcha.&nbsp;</p>
+Enquanto que em Tamandar&eacute;, &nbsp;Zona da Mata Sul, houve uma ocupa&ccedil;&atilde;o em um laborat&oacute;rio de mudas de cana-de-a&ccedil;&uacute;car da Usina Santo Andr&eacute;. As mulheres permanecem no local para denunciar a monocultura de cana transg&ecirc;nica no estado.&nbsp;</p>
 
 <p><br />
 <strong>RS</strong></p>
