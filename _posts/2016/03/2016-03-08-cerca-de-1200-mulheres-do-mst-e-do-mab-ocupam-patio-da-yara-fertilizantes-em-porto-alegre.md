@@ -4,7 +4,8 @@ tags:
   - tag: jornada-nacional-de-lutas-das-mulheres-2016
   - tag: mab
   - tag: lutas-e-mobilizações
-title: "Cerca de 1200 mulheres do MST e do MAB ocupam pátio da Yara Fertilizantes, em Porto Alegre"
+  - tag: rio-grande-do-sul
+title: Cerca de 1200 mulheres do MST e do MAB ocupam a Yara Fertilizantes em Porto Alegre
 support_line: "O objetivo da ocupação é denunciar o uso abusivo de fertilizantes sintéticos e de agrotóxicos na produção de alimentos no Brasil. \n"
 menu: lutas e mobilizações
 images_hd: //farm2.staticflickr.com/1546/24979597954_27a648faa0_b.jpg
@@ -25,20 +26,16 @@ files:
 created_date: "2016-03-08T07:28:12-03:00"
 published: true
 releated_posts:
-  - _posts/2014/03/2014-03-13-nesta-sexta-atingidos-por-barragens-realizam-jornada-em-13-estados.md
-  - _posts/2014/03/2014-03-13-nesta-sexta-atingidos-por-barragens-realizam-jornada-em-13-estados.md-e
+  - _posts/2016/03/2016-03-08-no-parana-mais-de-cinco-mil-mulheres-sem-terra-realizam-acao-na-araupel.md
 
 ---
 <p><img alt="IMG_8150.JPG" height="467" src="//farm2.staticflickr.com/1468/25517320841_818b8c8d03_b.jpg" width="700" /></p>
 
-<p>&nbsp;</p>
+<p><br />
+<em>Da P&aacute;gina do MST</em></p>
 
-<p><em>Catiana de Medeiros<br />
-Da P&aacute;gina do MST</em></p>
-
-<p>&nbsp;</p>
-
-<p>Cerca de 1200 mulheres MST&nbsp;e do Movimento dos Atingidos por Barragens (MAB) ocuparam na madrugada desta ter&ccedil;a-feira (8), o p&aacute;tio da empresa Yara Fertilizantes, em Porto Alegre, na Capital do Rio Grande do Sul.</p>
+<p><br />
+Cerca de 1200 mulheres MST&nbsp;e do Movimento dos Atingidos por Barragens (MAB) ocuparam na madrugada desta ter&ccedil;a-feira (8), o p&aacute;tio da empresa Yara Fertilizantes, em Porto Alegre, na Capital do Rio Grande do Sul.</p>
 
 <p><br />
 Segundo a dirigente estadual do Setor de G&ecirc;nero do MST, Roberta Coimbra, o objetivo da ocupa&ccedil;&atilde;o &eacute; denunciar o uso abusivo de fertilizantes sint&eacute;ticos e de agrot&oacute;xicos na produ&ccedil;&atilde;o de alimentos no Brasil.</p>
