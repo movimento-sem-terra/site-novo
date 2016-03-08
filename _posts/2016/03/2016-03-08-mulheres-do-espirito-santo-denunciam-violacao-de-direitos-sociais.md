@@ -18,7 +18,9 @@ files:
     $$hashKey: 0BY
 created_date: "2016-03-08T14:09:53-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2016/03/2016-03-07-mulheres-ocupam-os-trilhos-da-vale-no-maranhao.md
+  - _posts/2016/03/2016-03-05-mais-de-mil-mulheres-sem-terra-ocupam-fazenda-autuada-por-trabalho-escravo-na-ba.md
 
 ---
 <p><br />
