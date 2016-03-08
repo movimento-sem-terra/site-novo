@@ -5,7 +5,7 @@ tags:
   - tag: mobilizações
   - tag: mato-grosso
 images_hd: //farm2.staticflickr.com/1542/24987597083_0f132dd549_b.jpg
-title: "Mulheres Sem Terra bloqueiam rodovia em Maracaju, no MT"
+title: Mulheres Sem Terra bloqueiam rodovia no MS
 support_line: "As mulheres denunciam o alto consumo de agrotóxicos pela população brasileira. \"Somos o país que mais consome veneno no mundo. O governo precisa dar mais atenção à agricultura familiar, que é quem alimenta a população\"."
 menu: lutas e mobilizações
 layout: post
