@@ -35,7 +35,7 @@ releated_posts:
 <em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Na manh&atilde; desta ter&ccedil;a-feira (8), cerca de 500 mulheres Sem Terra sa&iacute;ram em marcha chegaram a portaria da Floresta Nacional de Caraj&aacute;s (FLONACA), onde a mais de 30 anos a mineradora Vale saqueia o povo brasileiro.</p>
+Na manh&atilde; desta ter&ccedil;a-feira (8), cerca de 500 mulheres Sem Terra sa&iacute;ram em marcha chegaram a portaria da Floresta Nacional de Caraj&aacute;s (FLONACA), onde h&aacute;&nbsp;mais de 30 anos a mineradora Vale saqueia o povo brasileiro.</p>
 
 <p><br />
 O objetivo era fazer um ato simb&oacute;lico para que n&atilde;o se esque&ccedil;am de Mariana e alertar a sociedade que a qualquer momento a trag&eacute;dia de Mariana pode acontecer em Parauapebas. Al&eacute;m de ser um ato contra a a&ccedil;&atilde;o do capital e da Vale que comanda o estado do Par&aacute;.</p>
