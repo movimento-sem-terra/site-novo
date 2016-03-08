@@ -5,7 +5,7 @@ tags:
   - tag: lutas-e-mobilizações
   - tag: jornada-de-lutas
 title: Jornada Nacional das Mulheres do MST mobiliza 21 estados do Brasil
-support_line: Foram mais de 30 mil mulheres em luta o capital e em defesa dos direitos sociais da classe trabalhadora.
+support_line: Foram mais de 30 mil mulheres em luta contra o capital e em defesa dos direitos sociais da classe trabalhadora.
 menu: lutas e mobilizações
 images_hd: //farm2.staticflickr.com/1686/25297076790_3c24c821c7_b.jpg
 layout: post
