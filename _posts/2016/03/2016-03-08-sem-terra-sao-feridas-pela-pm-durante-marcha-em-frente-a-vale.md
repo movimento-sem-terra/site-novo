@@ -5,7 +5,7 @@ tags:
   - tag: pará
   - tag: vale
   - tag: marcha
-title: Sem Terra são feridas pela PM durante marcha em frente a Vale
+title: PM fere mulheres Sem Terra em ação truculenta no Pará
 support_line: "Cerca de dez pessoas são feridas durante marcha das mulheres em direção a Vale de Parauapebas, no Pará. "
 menu: lutas e mobilizações
 images_hd: //farm2.staticflickr.com/1686/25528209311_5731512191_b.jpg
