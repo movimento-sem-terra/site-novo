@@ -8,16 +8,10 @@ tags:
 title: "Mulheres Sem Terra paralisam Vale-Samarco em MG \n"
 menu: lutas e mobilizações
 support_line: "Passados quatro meses do maior crime ambiental da história do país, a maior parte das famílias atingidas ainda segue sem qualquer tipo de assistência. "
-images_hd: //farm2.staticflickr.com/1474/25243887619_48fb849399_b.jpg
+images_hd: //farm2.staticflickr.com/1642/25585455516_50fbfb2ba4_b.jpg
 section: cover
 layout: post
 files:
-  - link: //farm2.staticflickr.com/1474/25243887619_48fb849399_b.jpg
-    thumbnail: //farm2.staticflickr.com/1474/25243887619_48fb849399_t.jpg
-    medium: //farm2.staticflickr.com/1474/25243887619_48fb849399_z.jpg
-    small: //farm2.staticflickr.com/1474/25243887619_48fb849399_n.jpg
-    title: luta -1.jpg
-    $$hashKey: 13T
   - link: //farm2.staticflickr.com/1528/25315970490_b97ca1451e_b.jpg
     thumbnail: //farm2.staticflickr.com/1528/25315970490_b97ca1451e_t.jpg
     medium: //farm2.staticflickr.com/1528/25315970490_b97ca1451e_z.jpg
@@ -36,6 +30,12 @@ files:
     small: //farm2.staticflickr.com/1631/25585456816_6de91a0b60_n.jpg
     title: AnkQbWCq3M70ISYbLH6yHangayyBgNIGCrvAv7TNG3ZU.jpg
     $$hashKey: 1B8
+  - link: //farm2.staticflickr.com/1450/25316405870_5a22313c9b_b.jpg
+    thumbnail: //farm2.staticflickr.com/1450/25316405870_5a22313c9b_t.jpg
+    medium: //farm2.staticflickr.com/1450/25316405870_5a22313c9b_z.jpg
+    small: //farm2.staticflickr.com/1450/25316405870_5a22313c9b_n.jpg
+    title: Ats7S-iqOWaR0aEp5i0RLzE9t5fT6OYhXEDJC9jXjLnX.jpg
+    $$hashKey: 0AH
 created_date: "2016-03-08T08:53:19-03:00"
 published: true
 releated_posts:
@@ -49,10 +49,12 @@ releated_posts:
   - _posts/2015/11/2015-11-11-as-veias-abertas-da-mineracao.md
 
 ---
-<p><img alt="luta -1.jpg" height="463" src="//farm2.staticflickr.com/1474/25243887619_48fb849399_b.jpg" width="700" /></p>
+<p>&nbsp;</p>
 
-<p><br />
-<em>Da P&aacute;gina do MST</em></p>
+<p><img alt="Ak2LMSnovyOQ9eoR1Iae6G1PMnVpzANEynG7aJX78x-y.jpg" height="412" src="//farm2.staticflickr.com/1642/25585455516_50fbfb2ba4_b.jpg" width="700" /><br />
+&nbsp;</p>
+
+<p><em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
 1500 mulheres&nbsp;Sem Terra&nbsp;da regi&atilde;o sudeste, ocuparam as depend&ecirc;ncias da mineradora Samarco/Vale, <span style="line-height: 20.8px;">nos arredores da Barragem de Germano (Fund&atilde;o),&nbsp;</span>na manh&atilde; desta ter&ccedil;a-feira (8),&nbsp;travando as estradas, os trilhos e toda extra&ccedil;&atilde;o do Complexo de Mariana.</p>
@@ -77,7 +79,9 @@ O Ars&ecirc;nio &eacute; utilizado principalmente na extra&ccedil;&atilde;o de o
 
 <p>&nbsp;</p>
 
-<p><img alt="Ak2LMSnovyOQ9eoR1Iae6G1PMnVpzANEynG7aJX78x-y.jpg" height="412" src="//farm2.staticflickr.com/1642/25585455516_50fbfb2ba4_b.jpg" width="700" /></p>
+<p><img alt="Ats7S-iqOWaR0aEp5i0RLzE9t5fT6OYhXEDJC9jXjLnX.jpg" height="624" src="//farm2.staticflickr.com/1450/25316405870_5a22313c9b_b.jpg" width="700" /></p>
+
+<p>&nbsp;</p>
 
 <p style="line-height: 20.8px;"><br />
 <strong>As mulheres s&atilde;o as principais afetadas pela minera&ccedil;&atilde;o</strong></p>
