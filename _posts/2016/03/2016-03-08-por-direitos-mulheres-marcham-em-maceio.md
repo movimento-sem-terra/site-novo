@@ -4,7 +4,7 @@ tags:
   - tag: jornada-nacional-de-lutas-das-mulheres-2016
   - tag: mobilizações
   - tag: alagoas
-title: Em Maceió mulheres marcham por direitos sociais
+title: "Em Maceió, mulheres marcham por direitos sociais"
 images_hd: //farm2.staticflickr.com/1601/24985880103_3b738d1c94_b.jpg
 support_line: "Nos cartazes e faixas, as camponesas pautam a defesa de políticas efetivas para as mulheres trabalhadoras rurais, como condição de garantia de sua permanência no campo."
 menu: lutas e mobilizações
