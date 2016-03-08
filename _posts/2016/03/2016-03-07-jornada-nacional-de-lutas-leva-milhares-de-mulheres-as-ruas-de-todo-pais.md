@@ -77,7 +77,7 @@ section: cover
 <em>Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
-A Jornada Nacional de Luta das Mulheres Camponesas mobilizou mais de 20 mil mulheres em todo o Brasil em 20 estados do Brasil.&nbsp;</p>
+A Jornada Nacional de Luta das Mulheres Camponesas mobilizou mais de 20 mil mulheres em todo o Brasil.</p>
 
 <p><br />
 As trabalhadoras denunciam a viol&ecirc;ncia contra a mulher, al&eacute;m da a&ccedil;&atilde;o do capital estrangeiro na agricultura brasileira e as empresas transnacionais. A Jornada das Mulheres chama a aten&ccedil;&atilde;o da sociedade para o modelo destrutivo do agroneg&oacute;cio para o meio ambiente, a amea&ccedil;a &agrave; soberania alimentar do pa&iacute;s e a vida da popula&ccedil;&atilde;o brasileira, afetando de forma direta a realidade das mulheres. &nbsp;</p>
