@@ -4,7 +4,7 @@ tags:
   - tag: jornada-de-luta-das-mulheres-2016
   - tag: nortex
   - tag: mato-grosso
-title: "Mulheres ocupam da indústria Nortox no MT "
+title: "Mulheres ocupam a indústria Nortox no MT "
 support_line: "A empresa já causou diversos problemas sociais e ambientais no Paraná  e, agora, encontra-se em processo de licenciamento de suas atividades no MT."
 images_hd: //farm2.staticflickr.com/1589/25587179496_e6374f085d_b.jpg
 menu: lutas e mobilizações
