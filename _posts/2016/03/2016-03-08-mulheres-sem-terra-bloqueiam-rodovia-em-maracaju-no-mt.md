@@ -51,12 +51,15 @@ releated_posts:
 <p>Cerca de 400 mulheres Sem Terra trancam neste momento a rodovia MS-162,&nbsp;entrada do munic&iacute;pio de Maracaju, no Mato Grosso do Sul.</p>
 
 <p><br />
-A a&ccedil;&atilde;o &eacute; composta&nbsp;por camponesas do MST, do&nbsp;Movimento Campon&ecirc;s de Luta pela Reforma Agr&aacute;ria (<span style="line-height: 20.8px;">MCLRA)&nbsp;</span>&nbsp;e da (Central &Uacute;nica dos Trabalhadores (CUT). &nbsp;O ato faz parte da Jornada Nacional de Luta das Mulheres.</p>
+A a&ccedil;&atilde;o &eacute; composta&nbsp;por camponesas do MST, do&nbsp;Movimento Campon&ecirc;s de Luta pela Reforma Agr&aacute;ria (<span style="line-height: 20.8px;">MCLRA)&nbsp;</span>&nbsp;e da (Central &Uacute;nica dos Trabalhadores (CUT) e&nbsp;faz parte da Jornada Nacional de Luta das Mulheres.</p>
 
 <p><br />
 De acordo com Fabiana Aparecida, dirigente estadual do MST, as mulheres Sem Terra est&atilde;o mobilizadas em todo Brasil, realizando marchas, ocupa&ccedil;&otilde;es, trancamento de vias, entre outras a&ccedil;&otilde;es.<br />
 <br />
-&quot;Queremos chamar a aten&ccedil;&atilde;o da sociedade para nossas pautas. Estamos aqui em defesa da natureza, da alimenta&ccedil;&atilde;o saud&aacute;vel e contra o agroneg&oacute;cio&quot;. Al&eacute;m destas bandeiras, segundo a dirigente, as Sem - Terras lutam pela demarca&ccedil;&atilde;o das Terras Ind&iacute;genas, pela defesa de seus direitos e pelo combate &agrave; viol&ecirc;ncia contra a mulher.</p>
+&quot;Queremos chamar a aten&ccedil;&atilde;o da sociedade para nossas pautas. Estamos aqui em defesa da natureza, da alimenta&ccedil;&atilde;o saud&aacute;vel e contra o agroneg&oacute;cio&quot;, afirma.&nbsp;</p>
+
+<p><br />
+Al&eacute;m destas bandeiras, as Sem Terra lutam pela demarca&ccedil;&atilde;o das Terras Ind&iacute;genas, pela defesa de seus direitos e pelo combate &agrave; viol&ecirc;ncia contra a mulher.</p>
 
 <p><br />
 O munic&iacute;pio foi escolhido pelas mulheres camponesas, pois al&eacute;m de concentrar empresas como a Cargill, Coamo, entre outras representantes do latif&uacute;ndio e respons&aacute;veis pelos altos &iacute;ndices de alimentos produzidos com agrot&oacute;xicos, est&aacute; em curso na cidade a instala&ccedil;&atilde;o da f&aacute;brica BBCA, para processar milho, soja e colocar em risco a biodiversidade da regi&atilde;o, pois quando esta empresa operava na China, ela foi respons&aacute;vel pela morte do Rio Huai. Em Maracaju, a ind&uacute;stria ser&aacute; instalada pr&oacute;xima ao Rio Brilhante.</p>
@@ -65,7 +68,7 @@ O munic&iacute;pio foi escolhido pelas mulheres camponesas, pois al&eacute;m de 
 As mulheres denunciam o alto consumo de agrot&oacute;xicos pela popula&ccedil;&atilde;o brasileira. &quot;Somos o pa&iacute;s que mais consome veneno no mundo. O governo precisa dar mais aten&ccedil;&atilde;o &agrave; agricultura familiar, que &eacute; quem alimenta a popula&ccedil;&atilde;o. Enquanto o agroneg&oacute;cio recebe bilh&otilde;es dos cofres p&uacute;blicos para exportar soja, n&oacute;s recebemos cada vez menos recursos para colocar o alimento no prato do brasileiro. O ajuste fiscal aperta mais sobre a camponesa&quot; afirma Fabiana.</p>
 
 <p><br />
-Outro ponto destacado diz respeito &agrave; Reforma Agr&aacute;ria. De acordo com o MST, 2015 foi um ano perdido para a Reforma Agr&aacute;ria. No entanto, este cen&aacute;rio n&atilde;o se repetir&aacute; neste ano, segundo o movimento, pois as mobiliza&ccedil;&otilde;es tendem a aumentar. A inten&ccedil;&atilde;o &eacute; pressionar o Governo Federal para retomar os processos de desapropria&ccedil;&atilde;o.</p>
+Outro ponto destacado diz respeito &agrave; Reforma Agr&aacute;ria. Para&nbsp;o MST, 2015 foi um ano perdido para a Reforma Agr&aacute;ria. No entanto, este cen&aacute;rio n&atilde;o se repetir&aacute; neste ano, segundo o movimento, pois as mobiliza&ccedil;&otilde;es tendem a aumentar. A inten&ccedil;&atilde;o &eacute; pressionar o Governo Federal para retomar os processos de desapropria&ccedil;&atilde;o.</p>
 
 <p><br />
 As Sem Terra tamb&eacute;m chamam a aten&ccedil;&atilde;o para o auto &iacute;ndice de casos de viol&ecirc;ncia contra a mulher no MS. Entre 2014 e 2015 foram mais de 19000 ocorr&ecirc;ncias do tipo. O Mato Grosso do Sul &eacute; o segundo estado em n&uacute;mero de estupros de mulheres. Recentemente, o governador Reinaldo Azambuja vetou um projeto de lei que visava combater os casos de ass&eacute;dio em transportes coletivos de todo estado. O veto foi ratificado pela base do governo na Assembleia Legislativa.</p>
