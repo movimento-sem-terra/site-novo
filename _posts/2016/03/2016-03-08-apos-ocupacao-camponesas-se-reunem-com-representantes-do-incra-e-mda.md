@@ -22,6 +22,12 @@ files:
     small: //farm2.staticflickr.com/1627/24987936384_ed1e2be541_n.jpg
     title: 20160308064240.jpg
     $$hashKey: 0XX
+  - link: //farm2.staticflickr.com/1477/24988117444_c9e6b3a7e0_b.jpg
+    thumbnail: //farm2.staticflickr.com/1477/24988117444_c9e6b3a7e0_t.jpg
+    medium: //farm2.staticflickr.com/1477/24988117444_c9e6b3a7e0_z.jpg
+    small: //farm2.staticflickr.com/1477/24988117444_c9e6b3a7e0_n.jpg
+    title: Aq9jT9pyStxhXzbIk8ywJjKTBHG03Zfpee_J6_pm-25i.jpg
+    $$hashKey: 1GC
 created_date: "2016-03-08T14:29:38-03:00"
 published: true
 releated_posts:
@@ -81,4 +87,7 @@ Nesta ter&ccedil;a-feira, cerca de 500 mulheres de movimentos populares do campo
 O objetivo &eacute; denunciar no Dia Internacional da Mulher a realidade das trabalhadoras dos meios urbano e rural, que ainda sofrem com a desigualdade de direitos e poder&atilde;o perder conquistas hist&oacute;ricas com a atual constru&ccedil;&atilde;o do projeto da reforma da previd&ecirc;ncia. Elas pautam tamb&eacute;m a elabora&ccedil;&atilde;o de pol&iacute;ticas p&uacute;blicas de assist&ecirc;ncia &agrave;s mulheres com rela&ccedil;&atilde;o &agrave; sa&uacute;de, combate &agrave; viol&ecirc;ncia e condi&ccedil;&otilde;es de trabalho.</p>
 
 <p><br />
-Parte das camponesas que est&atilde;o acampadas no Incra sair&atilde;o a partir das 14 horas em marcha at&eacute; o pr&eacute;dio da previd&ecirc;ncia. A audi&ecirc;ncia come&ccedil;a &agrave;s 15h30 e ter&aacute; a participa&ccedil;&atilde;o do Minist&eacute;rio do Trabalho e Previd&ecirc;ncia Social. Ela &eacute; organizada pela Via Campesina, Levante Popular da Juventude e Marcha Mundial das Mulheres.</p>
+Parte das camponesas que est&atilde;o acampadas no Incra sair&atilde;o a partir das 14 horas em marcha at&eacute; o pr&eacute;dio da previd&ecirc;ncia. A audi&ecirc;ncia come&ccedil;a &agrave;s 15h30 e ter&aacute; a participa&ccedil;&atilde;o do Minist&eacute;rio do Trabalho e Previd&ecirc;ncia Social. Ela &eacute; organizada pela Via Campesina, Levante Popular da Juventude e Marcha Mundial das Mulheres.<br />
+&nbsp;</p>
+
+<p><img alt="Aq9jT9pyStxhXzbIk8ywJjKTBHG03Zfpee_J6_pm-25i.jpg" height="525" src="//farm2.staticflickr.com/1477/24988117444_c9e6b3a7e0_b.jpg" width="700" /></p>
