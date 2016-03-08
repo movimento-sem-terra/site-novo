@@ -80,10 +80,10 @@ section: cover
 A Jornada Nacional de Luta das Mulheres Camponesas mobilizou mais de 30 mil mulheres em todo o Brasil.</p>
 
 <p><br />
-As trabalhadoras denunciam a viol&ecirc;ncia contra a mulher, al&eacute;m da a&ccedil;&atilde;o do capital estrangeiro na agricultura brasileira e as empresas transnacionais. A Jornada das Mulheres chama a aten&ccedil;&atilde;o da sociedade para o modelo destrutivo do agroneg&oacute;cio para o meio ambiente, a amea&ccedil;a &agrave; soberania alimentar do pa&iacute;s e a vida da popula&ccedil;&atilde;o brasileira, afetando de forma direta a realidade das mulheres. &nbsp;</p>
+As trabalhadoras denunciam a viol&ecirc;ncia contra a mulher, al&eacute;m da a&ccedil;&atilde;o do capital estrangeiro na agricultura brasileira e as empresas transnacionais. A Jornada das&nbsp;Mulheres chamam a aten&ccedil;&atilde;o da sociedade para o modelo destrutivo do agroneg&oacute;cio para o meio ambiente, a amea&ccedil;a &agrave; soberania alimentar do pa&iacute;s e a vida da popula&ccedil;&atilde;o brasileira, afetando de forma direta a realidade das mulheres. &nbsp;</p>
 
 <p><br />
-No Par&aacute;, cerca de 500 mulheres do MST realizaram uma marcha at&eacute; a sede da Vale, em protesto ao desrespeito aos direitos das popula&ccedil;&otilde;es nos lugares onde a empresa est&aacute; presente. No entanto, as mulheres foram recebidas pela pol&iacute;cia com bombas de g&aacute;s e bastante trucul&ecirc;ncia. Pelo menos 10 manifestantes est&atilde;o feridas e seis manifestantes est&atilde;o presos.&nbsp;</p>
+No Par&aacute;, cerca de 500 mulheres do MST realizaram uma marcha at&eacute; a&nbsp;portaria da Floresta Nacional de Caraj&aacute;s (FLONACA), onde h&aacute;&nbsp;mais de 30 anos a mineradora Vale saqueia o povo brasileiro, e&nbsp;protestaram contra o&nbsp;desrespeito aos direitos das popula&ccedil;&otilde;es nos lugares onde a empresa est&aacute; presente. No entanto, as mulheres foram recebidas pela pol&iacute;cia com bombas de g&aacute;s e bastante trucul&ecirc;ncia. Pelo menos 10 manifestantes est&atilde;o feridas e seis manifestantes est&atilde;o presos.&nbsp;</p>
 
 <p><br />
 O rompimento da barragem de rejeitos de minera&ccedil;&atilde;o de Fund&atilde;o, localizada em Mariana (MG) tamb&eacute;m foi lembrada. Cerca de 1500 Mulheres Sem Terra da regi&atilde;o sudeste ocuparam as depend&ecirc;ncias da mineradora Samarco-Vale, travando as estradas, os trilhos e toda extra&ccedil;&atilde;o do Complexo de Mariana.</p>
