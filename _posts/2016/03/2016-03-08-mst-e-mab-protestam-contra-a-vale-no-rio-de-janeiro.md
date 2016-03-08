@@ -23,8 +23,8 @@ releated_posts:
   - _posts/2015/11/2015-11-11-as-veias-abertas-da-mineracao.md
   - _posts/2015/03/2015-03-17-mineradora-vale-e-autuada-por-trabalho-escravo.md
   - _posts/2015/07/2015-07-15-minerio-guerra-se-anuncia.md
-  - _posts/2015/08/2015-08-03-mst-ocupa-ferrovia-da-mineradora-vale-no-para.md
-  - _posts/2015/09/2015-09-11-vale-processa-quem-se-manifesta-por-reparacao-e-emprego.md
+  - _posts/2015/12/2015-12-21-a-vale-da-morte-uma-tragedia-que-podera-ficar-impune.md
+  - _posts/2015/11/2015-11-25-o-sangue-dos-atingidos-tambem-e-sangue-sem-terra-disse-juventude-em-solidariedade-a-mariana.md
 
 ---
 <p><img alt="AnzbFYihHI9Xj9C34aace1sPHOUDGPekpXZCUd54Ti7S.jpg" height="394" src="//farm2.staticflickr.com/1459/24994452444_c0111ffc73_b.jpg" width="700" /><br />
