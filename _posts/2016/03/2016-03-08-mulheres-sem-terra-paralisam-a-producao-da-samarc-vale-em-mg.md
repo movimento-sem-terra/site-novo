@@ -5,7 +5,7 @@ tags:
   - tag: vale
   - tag: samarco
   - tag: mineração
-title: "Mulheres Sem Terra paralisam Vale-Samarco em MG \n"
+title: "Mulheres Sem Terra paralisam produção da Vale-Samarco em MG \n"
 menu: lutas e mobilizações
 support_line: "Passados quatro meses do maior crime ambiental da história do país, a maior parte das famílias atingidas ainda segue sem qualquer tipo de assistência. "
 images_hd: //farm2.staticflickr.com/1642/25585455516_50fbfb2ba4_b.jpg
