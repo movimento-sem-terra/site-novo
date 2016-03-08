@@ -25,6 +25,8 @@ releated_posts:
   - _posts/2016/03/2016-03-07-jornada-nacional-de-lutas-leva-milhares-de-mulheres-as-ruas-de-todo-pais.md
 
 ---
+<p><img alt="AhMi9bjw2NDaa8XSkTj50caQGq5tuD7odNNyMWHPTNSM (1).jpg" height="394" src="//farm2.staticflickr.com/1466/24990883953_ba6790b060_b.jpg" width="700" /></p>
+
 <p><br />
 <em>Por Aline Oliveira<br />
 Da P&aacute;gina do MST&nbsp;</em></p>
