@@ -42,7 +42,7 @@ Al&eacute;m disso,&nbsp;pautas estruturais como&nbsp;a garantia de abastecimento
 A pauta das urbanas do Movimento unidade classista &eacute; principalmente com rela&ccedil;&atilde;o as estruturas nos condom&iacute;nios populares do projeto Minha Casa Minha Vida (MCMV) do governo federal, que inclui a&nbsp;constru&ccedil;&atilde;o de escolas de ensino fundamental e m&eacute;dio de tempo integral, restaurante popular, creches, mobilidade com transporte p&uacute;blico, dentre outras.</p>
 
 <p><br />
-Para&nbsp;Ana Luisa, acampada do MST, a luta apenas come&ccedil;ou.&nbsp;&quot;Estamos aqui pra buscar melhoria de vida, n&atilde;o estamos roubando nada de ningu&eacute;m, apenas cobrando nossos direitos, e tamb&eacute;m pra garantir que nenhum direito seja retirados de n&oacute;s&quot;.</p>
+Para&nbsp;Ana Luisa, acampada do MST, a luta apenas come&ccedil;ou.&nbsp;&quot;Estamos aqui pra buscar melhoria de vida, n&atilde;o estamos roubando nada de ningu&eacute;m, apenas cobrando os nossos direitos para garantir que nenhum deles seja retirados de n&oacute;s&quot;.</p>
 
 <p><br />
 Uma comiss&atilde;o representativa das mulheres foi recebida pelo governador&nbsp;para apresentar a pauta e negociar.&nbsp;</p>
