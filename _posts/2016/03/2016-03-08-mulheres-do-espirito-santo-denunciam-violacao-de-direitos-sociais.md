@@ -5,7 +5,7 @@ tags:
   - tag: jornada-de-luta-das-mulheres-2016
   - tag: espirito-santo
 title: Mulheres do Espírito Santo denunciam violação de direitos sociais
-support_line: "Cerca de duas mil mulheres de diversos movimentos sociais do campo e da cidade marcharam em direção ao palácio do governo e o "
+support_line: "Cerca de duas mil mulheres de diversos movimentos sociais do campo e da cidade marcharam pelo centro de Vitória em direção ao palácio do governo. "
 images_hd: //farm2.staticflickr.com/1663/25525377371_924936ab7e_b.jpg
 menu: lutas e mobilizações
 layout: post
@@ -22,7 +22,7 @@ releated_posts: []
 
 ---
 <p><br />
-<img alt="AmNdkiugBlKHNx9dueAQYZ0wHOvhXNpyOv60cU9pmnZk.jpg" src="//farm2.staticflickr.com/1663/25525377371_924936ab7e_b.jpg" /></p>
+<img alt="AmNdkiugBlKHNx9dueAQYZ0wHOvhXNpyOv60cU9pmnZk.jpg" height="420" src="//farm2.staticflickr.com/1663/25525377371_924936ab7e_b.jpg" width="700" /></p>
 
 <p><br />
 <em>Da P&aacute;gina do MST</em></p>
