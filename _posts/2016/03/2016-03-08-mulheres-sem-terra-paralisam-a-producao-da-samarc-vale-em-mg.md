@@ -5,7 +5,7 @@ tags:
   - tag: vale
   - tag: samarco
   - tag: mineração
-title: "Mulheres Sem Terra paralisam produção da Samarco/Vale em MG \n"
+title: "Mulheres Sem Terra paralisam Vale-Samarco em MG \n"
 menu: lutas e mobilizações
 support_line: "Passados quatro meses do maior crime ambiental da história do país, a maior parte das famílias atingidas ainda segue sem qualquer tipo de assistência. "
 images_hd: //farm2.staticflickr.com/1474/25243887619_48fb849399_b.jpg
@@ -54,9 +54,8 @@ releated_posts:
 <p><br />
 <em>Da P&aacute;gina do MST</em></p>
 
-<p>&nbsp;</p>
-
-<p>1500 mulheres&nbsp;Sem Terra&nbsp;da regi&atilde;o sudeste, ocuparam as depend&ecirc;ncias da mineradora Samarco/Vale, <span style="line-height: 20.8px;">nos arredores da Barragem de Germano (Fund&atilde;o),&nbsp;</span>na manh&atilde; desta ter&ccedil;a-feira (8),&nbsp;travando as estradas, os trilhos e toda extra&ccedil;&atilde;o do Complexo de Mariana.</p>
+<p><br />
+1500 mulheres&nbsp;Sem Terra&nbsp;da regi&atilde;o sudeste, ocuparam as depend&ecirc;ncias da mineradora Samarco/Vale, <span style="line-height: 20.8px;">nos arredores da Barragem de Germano (Fund&atilde;o),&nbsp;</span>na manh&atilde; desta ter&ccedil;a-feira (8),&nbsp;travando as estradas, os trilhos e toda extra&ccedil;&atilde;o do Complexo de Mariana.</p>
 
 <p><br />
 <span style="line-height: 20.8px;">A a&ccedil;&atilde;o, organizada em conjunto com o Movimento pela Soberania Popular na Minera&ccedil;&atilde;o,&nbsp;integra a&nbsp;Jornada Nacional de Lutas das Mulheres Camponesas.</span></p>
@@ -80,11 +79,8 @@ O Ars&ecirc;nio &eacute; utilizado principalmente na extra&ccedil;&atilde;o de o
 
 <p><img alt="Ak2LMSnovyOQ9eoR1Iae6G1PMnVpzANEynG7aJX78x-y.jpg" height="412" src="//farm2.staticflickr.com/1642/25585455516_50fbfb2ba4_b.jpg" width="700" /></p>
 
-<p style="line-height: 20.8px;">&nbsp;</p>
-
-<p style="line-height: 20.8px;">&nbsp;</p>
-
-<p style="line-height: 20.8px;"><strong>As mulheres s&atilde;o as principais afetadas pela minera&ccedil;&atilde;o</strong></p>
+<p style="line-height: 20.8px;"><br />
+<strong>As mulheres s&atilde;o as principais afetadas pela minera&ccedil;&atilde;o</strong></p>
 
 <p style="line-height: 20.8px;"><br />
 O trabalho dom&eacute;stico ainda &eacute; visto pela sociedade como fun&ccedil;&atilde;o das mulheres que, consequentemente, s&atilde;o as que sofrem com a sobrecarga de trabalho quando h&aacute; falta de &aacute;gua ou quando existe&nbsp;aumento da polui&ccedil;&atilde;o causada pela explora&ccedil;&atilde;o miner&aacute;ria.&nbsp;</p>
