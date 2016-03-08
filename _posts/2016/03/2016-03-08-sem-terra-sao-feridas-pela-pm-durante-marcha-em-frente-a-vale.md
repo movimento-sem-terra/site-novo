@@ -35,10 +35,18 @@ releated_posts:
 <em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Nesta ter&ccedil;a-feira (8), cerca de 500 mulheres Sem Terra realizava uma marcha pac&iacute;fica em dire&ccedil;&atilde;o &agrave; entrada da mina da Vale no munic&iacute;pio de Parauapebas, estado do Par&aacute;.</p>
+Na manh&atilde; desta ter&ccedil;a-feira (8), cerca de 500 mulheres Sem Terra sa&iacute;ram em marcha chegaram a portaria da Floresta Nacional de Caraj&aacute;s (FLONACA), onde a mais de 30 anos a mineradora Vale saqueia o povo brasileiro.</p>
 
 <p><br />
-Ao chegarem no local as mulheres foram recebidas pelo pelot&atilde;o de choque com bombas e balas de borracha. At&eacute; o momento as informa&ccedil;&otilde;es que temos &eacute; que seis pessoas foram detidas pela PM e 10 feridas durante o confronto.</p>
+O objetivo era fazer um ato simb&oacute;lico para que n&atilde;o se esque&ccedil;am de Mariana e alertar a sociedade que a qualquer momento a trag&eacute;dia de Mariana pode acontecer em Parauapebas. Al&eacute;m de ser um ato contra a a&ccedil;&atilde;o do capital e da Vale que comanda o estado do Par&aacute;.</p>
 
 <p><br />
-Para Ayala Ferreira, da dire&ccedil;&atilde;o do movimento, &ldquo;a inten&ccedil;&atilde;o dos poderosos da regi&atilde;o &eacute; implementar a pol&iacute;tica do medo como fez o maior Curi&oacute; na d&eacute;cada de 80&rdquo;. Por isso, as mulheres continuam mobilizadas e esperam que a autoridades competentes tomem uma atitude em rela&ccedil;&atilde;o a a&ccedil;&atilde;o truculenta da PM no estado.</p>
+Durante o ato a pol&iacute;cia tentou intervir no meio da marcha e chegando na portaria da FLONACA o ato simb&oacute;lico se transformou &nbsp;em viol&ecirc;ncia e abuso de poder por parte da pol&iacute;cia de Parauapebas, com o uso de bomba de efeito moral e balas de borracha para dispersar as mulheres que &nbsp;cantavam e criavam palavras de ordem. Pelo ao menos seis pessoas foram detidas pela PM e 10 feridas durante o confronto.&nbsp;</p>
+
+<p><br />
+Para Ayala Ferreira, da dire&ccedil;&atilde;o do MST, A policia mais uma vez se mostra a servi&ccedil;os e mandos da Vale e sua atitude nos faz lembrar e saber que ela ainda sabe como massacrar e que n&atilde;o ir&aacute; medir esfor&ccedil;os a servi&ccedil;o do grande capital. &ldquo;a inten&ccedil;&atilde;o dos poderosos da regi&atilde;o &eacute; implementar a pol&iacute;tica do medo como fez o major Curi&oacute; na d&eacute;cada de 80&rdquo;.&nbsp;</p>
+
+<p><br />
+As mulheres continuam mobilizadas e esperam que a autoridades competentes tomem uma atitude em rela&ccedil;&atilde;o &agrave; a&ccedil;&atilde;o truculenta da PM no estado.</p>
+
+<p>&nbsp;</p>
