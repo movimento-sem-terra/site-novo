@@ -4,7 +4,7 @@ tags:
   - tag: jornada-nacional-de-lutas-das-mulheres-2016
   - tag: mobilizações
   - tag: alagoas
-title: "Por direitos, mulheres marcham em Maceió"
+title: Em Maceió mulheres marcham por direitos sociais
 images_hd: //farm2.staticflickr.com/1601/24985880103_3b738d1c94_b.jpg
 support_line: "Nos cartazes e faixas, as camponesas pautam a defesa de políticas efetivas para as mulheres trabalhadoras rurais, como condição de garantia de sua permanência no campo."
 menu: lutas e mobilizações
@@ -26,14 +26,12 @@ releated_posts:
 ---
 <p><img alt="AlPL4J0AxPjUvZ44rsl73ovRvxVMx2-liR0ZTnLE7if2.jpg" height="394" src="//farm2.staticflickr.com/1601/24985880103_3b738d1c94_b.jpg" width="700" /></p>
 
-<p>&nbsp;</p>
-
-<p><em>Por Gustavo Marinho<br />
+<p><br />
+<em>Por Gustavo Marinho<br />
 Da P&aacute;gina do MST</em></p>
 
-<p>&nbsp;</p>
-
-<p>Sindicatos, partidos pol&iacute;ticos, movimentos&nbsp;de juventude, movimentos populares e de luta pela terra realizam na manh&atilde; desta ter&ccedil;a-feira&nbsp;(08), uma grande marcha pela cidade de Macei&oacute; em defesa dos direitos das mulheres, contra o golpe e pela democracia.</p>
+<p><br />
+Sindicatos, partidos pol&iacute;ticos, movimentos&nbsp;de juventude, movimentos populares e de luta pela terra realizam na manh&atilde; desta ter&ccedil;a-feira&nbsp;(08), uma grande marcha pela cidade de Macei&oacute; em defesa dos direitos das mulheres, contra o golpe e pela democracia.</p>
 
 <p><br />
 A concentra&ccedil;&atilde;o est&aacute; marcada&nbsp;para &agrave;s 8h&nbsp;na pra&ccedil;a Centen&aacute;rio e,&nbsp;em seguida, o ato seguir&aacute; at&eacute; o Pal&aacute;cio do Governo do estado, no Centro da Cidade.</p>
