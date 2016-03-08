@@ -51,7 +51,12 @@ Segundo D&eacute;bora Nunes, da Coordena&ccedil;&atilde;o Nacional do MST, a a&c
 A pauta principal das agricultoras &eacute; a demanda de investimentos para fortalecer a organiza&ccedil;&atilde;o produtiva das mulheres camponesas, que possa fortalecer a autonomia, gerar emprego e renda, al&eacute;m de garantir a perman&ecirc;ncia das mulheres no campo.</p>
 
 <p><br />
-&ldquo;Seja no campo da forma&ccedil;&atilde;o e do pr&oacute;prio investimento em infraestruturas produtivas, &eacute; preciso que o governo do estado possa olhar para o campo alagoano, em especial &agrave;s mulheres camponesas, como uma real possibilidade de trazer desenvolvimento para todo o estado, atrav&eacute;s da garantia de produ&ccedil;&atilde;o de alimentos saud&aacute;veis e diversificados&rdquo;, destacou D&eacute;bora.</p>
+&ldquo;Seja no campo da forma&ccedil;&atilde;o e do pr&oacute;prio investimento em infraestruturas produtivas, &eacute; preciso que o governo do estado possa olhar para o campo alagoano, em especial &agrave;s mulheres camponesas, como uma real possibilidade de trazer desenvolvimento para todo o estado, atrav&eacute;s da garantia de produ&ccedil;&atilde;o de alimentos saud&aacute;veis e diversificados&rdquo;, destacou D&eacute;bora.<br />
+&nbsp;</p>
+
+<figure class="image"><img alt="Marcha.JPG" height="467" src="//farm2.staticflickr.com/1514/25500309392_8837ef7e29_b.jpg" width="700" />
+<figcaption>Foto: Gustavo Marinho</figcaption>
+</figure>
 
 <p><br />
 As Sem Terra que j&aacute; montam acampamento nas depend&ecirc;ncias da Secretaria, exigem uma reuni&atilde;o com o secret&aacute;rio de agricultura, &Aacute;lvaro Vasconcelos, o secret&aacute;rio de planejamento do estado, Carlos Christian Reis e do chefe de gabinete do governador, F&aacute;bio Luiz Ara&uacute;jo Lopes.</p>
