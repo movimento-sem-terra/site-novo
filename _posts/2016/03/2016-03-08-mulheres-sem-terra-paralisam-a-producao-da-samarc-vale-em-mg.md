@@ -5,7 +5,7 @@ tags:
   - tag: vale
   - tag: samarco
   - tag: mineração
-title: "Mulheres Sem Terra paralisam a produção da Samarc/Vale em MG \n"
+title: "Mulheres Sem Terra paralisam a produção da Samarco/Vale em MG \n"
 menu: lutas e mobilizações
 support_line: "Passados quatro meses do maior crime ambiental da história do país, a maior parte das famílias atingidas ainda segue sem qualquer tipo de assistência. "
 images_hd: //farm2.staticflickr.com/1474/25243887619_48fb849399_b.jpg
@@ -18,12 +18,24 @@ files:
     small: //farm2.staticflickr.com/1474/25243887619_48fb849399_n.jpg
     title: luta -1.jpg
     $$hashKey: 13T
-  - link: //farm2.staticflickr.com/1611/25243888639_44a73431d2_b.jpg
-    thumbnail: //farm2.staticflickr.com/1611/25243888639_44a73431d2_t.jpg
-    medium: //farm2.staticflickr.com/1611/25243888639_44a73431d2_z.jpg
-    small: //farm2.staticflickr.com/1611/25243888639_44a73431d2_n.jpg
-    title: luta -3.jpg
-    $$hashKey: 13W
+  - link: //farm2.staticflickr.com/1528/25315970490_b97ca1451e_b.jpg
+    thumbnail: //farm2.staticflickr.com/1528/25315970490_b97ca1451e_t.jpg
+    medium: //farm2.staticflickr.com/1528/25315970490_b97ca1451e_z.jpg
+    small: //farm2.staticflickr.com/1528/25315970490_b97ca1451e_n.jpg
+    title: At_kCQ2N_wU2Mr-8rop6Hb4CmqAEpdJQfcnlnf8pcJzW.jpg
+    $$hashKey: 1B2
+  - link: //farm2.staticflickr.com/1642/25585455516_50fbfb2ba4_b.jpg
+    thumbnail: //farm2.staticflickr.com/1642/25585455516_50fbfb2ba4_t.jpg
+    medium: //farm2.staticflickr.com/1642/25585455516_50fbfb2ba4_z.jpg
+    small: //farm2.staticflickr.com/1642/25585455516_50fbfb2ba4_n.jpg
+    title: Ak2LMSnovyOQ9eoR1Iae6G1PMnVpzANEynG7aJX78x-y.jpg
+    $$hashKey: 1B5
+  - link: //farm2.staticflickr.com/1631/25585456816_6de91a0b60_b.jpg
+    thumbnail: //farm2.staticflickr.com/1631/25585456816_6de91a0b60_t.jpg
+    medium: //farm2.staticflickr.com/1631/25585456816_6de91a0b60_z.jpg
+    small: //farm2.staticflickr.com/1631/25585456816_6de91a0b60_n.jpg
+    title: AnkQbWCq3M70ISYbLH6yHangayyBgNIGCrvAv7TNG3ZU.jpg
+    $$hashKey: 1B8
 created_date: "2016-03-08T08:53:19-03:00"
 published: true
 releated_posts:
@@ -66,7 +78,13 @@ Cidades como Governador Valadares, Colatina e Linhares, no Esp&iacute;rito Santo
 <p><br />
 O Ars&ecirc;nio &eacute; utilizado principalmente na extra&ccedil;&atilde;o de ouro, ou seja, &eacute; um ind&iacute;cio de que poderia haver extra&ccedil;&atilde;o ilegal nestas minas.&nbsp;</p>
 
-<p style="line-height: 20.8px;"><img alt="luta -3.jpg" height="463" src="//farm2.staticflickr.com/1611/25243888639_44a73431d2_b.jpg" width="700" /></p>
+<p>&nbsp;</p>
+
+<p><img alt="Ak2LMSnovyOQ9eoR1Iae6G1PMnVpzANEynG7aJX78x-y.jpg" height="412" src="//farm2.staticflickr.com/1642/25585455516_50fbfb2ba4_b.jpg" width="700" /></p>
+
+<p style="line-height: 20.8px;">&nbsp;</p>
+
+<p style="line-height: 20.8px;">&nbsp;</p>
 
 <p style="line-height: 20.8px;"><strong>As mulheres s&atilde;o as principais afetadas pela minera&ccedil;&atilde;o</strong></p>
 
@@ -91,6 +109,10 @@ Minas Gerais, por exemplo, &eacute; o segundo estado mais minerado do Brasil e t
 
 <p>&nbsp;</p>
 
+<p><img alt="At_kCQ2N_wU2Mr-8rop6Hb4CmqAEpdJQfcnlnf8pcJzW.jpg" height="525" src="//farm2.staticflickr.com/1528/25315970490_b97ca1451e_b.jpg" width="700" /></p>
+
+<p>&nbsp;</p>
+
 <p><strong>Nossas Propostas</strong></p>
 
 <p><br />
@@ -104,3 +126,7 @@ A legisla&ccedil;&atilde;o deve ser mais rigorosa, prevendo a demarca&ccedil;&at
 
 <p><br />
 Mesmo com solo preservado, todos estes territ&oacute;rios est&atilde;o sujeitos &agrave; extra&ccedil;&atilde;o, isto porque o estado justifica a explora&ccedil;&atilde;o do subsolo afirmando que se trata de interesse da uni&atilde;o. Ironicamente, desde a privatiza&ccedil;&atilde;o da Vale do Rio Doce, o Brasil n&atilde;o possui nenhuma empresa estatal no setor, que s&oacute; favorece interesses privados, do capital internacional.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><img alt="AnkQbWCq3M70ISYbLH6yHangayyBgNIGCrvAv7TNG3ZU.jpg" height="525" src="//farm2.staticflickr.com/1631/25585456816_6de91a0b60_b.jpg" width="700" /></p>
