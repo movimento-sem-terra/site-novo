@@ -109,7 +109,7 @@ Ao mesmo tempo, as camponesas apresentar&atilde;o como alternativa o projeto de 
 
 <p><strong>ES</strong></p>
 
-<p><span style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px; line-height: normal;">Cerca de 2000 mulheres marcham em dire&ccedil;&atilde;o ao pal&aacute;cio da Fonte Grande, no centro de Vit&oacute;ria-ES. S&atilde;o mulheres de diversos movimentos sociais do Campo e da Cidade que est&atilde;o nas ruas para denunciar as mazelas causadas pelas grandes empresas do&nbsp;</span></p>
+<p>Cerca de 2000 mulheres marcham em dire&ccedil;&atilde;o ao pal&aacute;cio da Fonte Grande, no centro de Vit&oacute;ria-ES. S&atilde;o mulheres de diversos movimentos sociais do Campo e da Cidade que est&atilde;o nas ruas para denunciar as mazelas causadas pelas grandes empresas do&nbsp;</p>
 
 <p>&nbsp;</p>
 
