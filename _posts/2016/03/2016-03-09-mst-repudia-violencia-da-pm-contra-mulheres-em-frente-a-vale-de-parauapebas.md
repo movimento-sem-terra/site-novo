@@ -37,13 +37,13 @@ releated_posts:
 Em nota, o MST, a Comiss&atilde;o Pastoral da Terra (CPT) e o&nbsp;F&oacute;rum de Mulheres Camponesas do Sul e Sudeste do Par&aacute; repudiam a&ccedil;&atilde;o violenta da PM ocorrida na manh&atilde; desta ter&ccedil;a-feira (8), contra as&nbsp;300 mulheres camponesas que&nbsp;organizaram uma marcha, em sentido a portaria da Floresta Nacional de Caraj&aacute;s (FLONACA), onde h&aacute; mais de 30 anos a mineradora Vale saqueia o povo brasileiro.</p>
 
 <p><br />
-Com o objetivo de denunciar pacificamente todas as formas de viol&ecirc;ncia que as mulheres sofrem no dia a dia, o ato simb&oacute;lico com o uso de<span style="line-height: 20.8px;">&nbsp;lama e&nbsp;barro para lembrar o &ldquo;CASO MARIANA&rdquo; e alertar para os riscos que corre a popula&ccedil;&atilde;o da regi&atilde;o, infelizmente resultou em trag&eacute;dia quando no in&iacute;cio do ato a pol&iacute;cia por ordem de seu comandante MAJOR SOUSA, agiu de forma truculenta. </span></p>
+Com o objetivo de denunciar pacificamente todas as formas de viol&ecirc;ncia que as mulheres sofrem no dia a dia, o ato simb&oacute;lico com o uso de<span style="line-height: 20.8px;">&nbsp;lama e&nbsp;barro para lembrar o caso Mariana&nbsp;e alertar para os riscos que corre a popula&ccedil;&atilde;o da regi&atilde;o, infelizmente resultou em trag&eacute;dia quando no in&iacute;cio do ato a pol&iacute;cia por ordem de seu comandante Major Sousa, agiu de forma truculenta. </span></p>
 
 <p><br />
 <span style="line-height: 20.8px;">A pol&iacute;cia realizou uma verdadeira persegui&ccedil;&atilde;o policial &agrave;s mulheres camponesas. Atiraram&nbsp;spray de pimenta e&nbsp;bombas em um percurso de mais de 500 metros por entre as ruas da cidade e nas lojas. Mulheres&nbsp;ca&iacute;ram, se machucaram, se feriram, inclusive mulher gr&aacute;vida que desmaiou necessitando de atendimento m&eacute;dico.</span></p>
 
 <p><br />
-Para o Movimento&nbsp;&ldquo;o ocorrido na Portaria da &ldquo;VALE&rdquo; nesse dia 08 de mar&ccedil;o de 2016 &eacute; uma forma de viol&ecirc;ncia em que reafirma mais uma vez que o ESTADO protege as grandes empresas, protege os donos do capital e por sua vez continua massacrando a classe trabalhadora. A A&Ccedil;&Atilde;O VIOLENTA DA POL&Iacute;CIA NOS MOSTRA A SUA FORMA DE AGIR E NOS FAZ LEMBRAR O DIA 17 DE ABRIL DE 1996, EXATAMENTE H&Aacute; 20 ANOS ATR&Aacute;S, QUANDO 19 TRABALHADORES FORAM BRUTALMENTE ASSASSINADOS NA CURVA DO &ldquo;S&rdquo;.&rdquo;</p>
+Para o Movimento&nbsp;&ldquo;o ocorrido na Portaria da Vale&nbsp;nesse dia 08 de mar&ccedil;o de 2016 &eacute; uma forma de viol&ecirc;ncia em que reafirma mais uma vez que o Estado protege as grandes empresas, protege os donos do capital e por sua vez continua massacrando a classe trabalhadora. A a&ccedil;&atilde;o violenta da pol&iacute;cia nos mostra a sua forma de agir e nos faz lembrar o dia 17 de abril de 1996, exatamente h&aacute; 20 anos atr&aacute;s, quando 19 trabalhadores foram brutalmente assassinados na curva do &quot;S&quot;.&quot;&nbsp;</p>
 
 <p><br />
 <strong>Confira nota abaixo.</strong></p>
