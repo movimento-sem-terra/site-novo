@@ -6,7 +6,7 @@ tags:
   - tag: mulheres
 title: "“Que não se atrevam a mexer na aposentadoria”, avisam Sem Terra"
 images_hd: //farm2.staticflickr.com/1680/25557908991_66ae5905a1_b.jpg
-support_line: "Cerca de 600 mulheres participaram da atividade, que teve como objetivo denunciar no Dia Internacional da Mulher a realidade das trabalhadoras dos meios urbano e rural. "
+support_line: "Cerca de 600 mulheres participaram da atividade, que teve como objetivo denunciar a realidade das trabalhadoras dos meios urbano e rural. "
 menu: lutas e mobilizações
 layout: post
 files:
