@@ -4,7 +4,7 @@ tags:
   - tag: jornada-de-lutas-das-mulheres-2016
   - tag: lutas-e-mobilizações
   - tag: jornada-de-lutas
-title: Jornada Nacional das Mulheres do MST mobiliza 21 estados do Brasil
+title: Jornada Nacional das Mulheres do MST mobiliza 22 estados do Brasil
 support_line: Foram mais de 30 mil mulheres em luta contra o capital e em defesa dos direitos sociais da classe trabalhadora.
 menu: lutas e mobilizações
 images_hd: //farm2.staticflickr.com/1686/25297076790_3c24c821c7_b.jpg
@@ -123,7 +123,7 @@ Na madrugada desta ter&ccedil;a-feira (8), cerca de 5 mil trabalhadoras Sem Terr
 
 <p>&nbsp;</p>
 
-<p>Na manh&atilde; desta ter&ccedil;a-feira (08), aproximadamente 2000 mulheres do campo e da cidade, saem &agrave;s ruas da Aracaju em ato um unificado, constru&iacute;do por v&aacute;rias entidades, coletivos, sindicatos, movimentos sociais e populares afirmar a luta pela democracia e a garantia dos direitos das mulheres conquistados nos &uacute;ltimos anos.</p>
+<p>Na manh&atilde; desta ter&ccedil;a-feira (08), aproximadamente 2000 mulheres do campo e da cidade, sa&iacute;ram &agrave;s ruas de&nbsp;Aracaju em ato um unificado, constru&iacute;do por v&aacute;rias entidades, coletivos, sindicatos, movimentos sociais e populares afirmar a luta pela democracia e a garantia dos direitos das mulheres conquistados nos &uacute;ltimos anos.</p>
 
 <p><br />
 Al&eacute;m de denunciar as viol&ecirc;ncias sofridas pelas mulheres, j&aacute; que s&atilde;o as primeiras penalizadas na crise do capitalismo, pois seus empregos s&atilde;o massacrantes e sal&aacute;rios reduzidos.</p>
@@ -141,19 +141,19 @@ Mulheres de Santa Catarina realizaram marchas e manifesta&ccedil;&otilde;es nos 
 <p><br />
 <strong style="line-height: 20.8px;">TO</strong></p>
 
-<p style="line-height: 20.8px;"><br />
-No TO&nbsp;mais&nbsp;de 200 Mulheres da Via Campesina ocuparam o Minist&eacute;rio da Agricultura no Tocantins. Elas pediram a sa&iacute;da da Ministra K&aacute;tia Abreu do comando do MAPA.</p>
+<p><br />
+Em TO&nbsp;mais&nbsp;de 200 Mulheres da Via Campesina ocuparam o Minist&eacute;rio da Agricultura no Tocantins. Elas pediram a sa&iacute;da da Ministra K&aacute;tia Abreu do comando do MAPA.</p>
 
-<p style="line-height: 20.8px;"><br />
+<p><br />
 A pol&iacute;cia Militar do estado agiu de forma truculenta e agressiva&nbsp;contra militantes que participavam da a&ccedil;&atilde;o, entre eles o&nbsp;Movimento dos Atingidos por Barragens (MAB), Conselho Indigenista Mission&aacute;rio (Cimi),&nbsp;Comiss&atilde;o Pastoral da Terra e a Marcha Mundial de Mulheres (MMM).</p>
 
-<p style="line-height: 20.8px;"><br />
+<p><br />
 Em&nbsp;nota, os movimentos sociais repudiaram e exigiram das autoridades e &oacute;rg&atilde;os competentes respostas concretas frente ao acelerado aumento da brutal viol&ecirc;ncia que atinge profundamente os camponeses e camponesas, sobretudo os Sem Terra e os movimentos sociais no estado do Tocantins, a&ccedil;&otilde;es que tendem a intensificar.</p>
 
 <p><br />
 De acordo, relato no relato a pol&iacute;cia Militar agiu de forma arbitr&aacute;ria prendendo imediatamente cinco militantes do MST, os conduzindo at&eacute; a sede da pol&iacute;cia Federal, onde foram recebidos pelo delegado da pol&iacute;cia Federal que instaurou inqu&eacute;rito encaminhando o processo conforme orienta&ccedil;&atilde;o da policia Militar, enviando-os para o Pres&iacute;dio, Casa de Cust&oacute;dia de Pris&atilde;o de Palmas (CCPP).</p>
 
-<p style="line-height: 20.8px;">&nbsp;</p>
+<p>&nbsp;</p>
 
 <p><img alt="12806252_1066951333377580_2088989686220722521_n.jpg" height="393" src="//farm2.staticflickr.com/1518/25523397161_8244994cd0_b.jpg" width="700" /><br />
 <br />
