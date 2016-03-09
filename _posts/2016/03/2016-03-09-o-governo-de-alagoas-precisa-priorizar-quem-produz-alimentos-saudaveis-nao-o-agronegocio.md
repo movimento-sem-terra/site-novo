@@ -6,7 +6,7 @@ tags:
   - tag: alagoas
 menu: lutas e mobilizações
 images_hd: //farm2.staticflickr.com/1704/25651776095_b9d90954aa_b.jpg
-title: "“O governo de Alagoas precisa priorizar quem produz alimentos saudáveis, não o agronegócio” "
+title: "“O governo de Alagoas precisa priorizar quem produz alimentos saudáveis” "
 support_line: Mulheres Sem Terra se mobilizam em todo estado em jornada de lutas
 layout: post
 files:
