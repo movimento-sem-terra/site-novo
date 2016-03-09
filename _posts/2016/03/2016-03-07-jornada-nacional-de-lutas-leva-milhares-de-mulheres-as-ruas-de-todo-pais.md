@@ -117,6 +117,21 @@ Cerca de 1500 Mulheres Sem Terra da regi&atilde;o sudeste ocuparam as depend&eci
 <p><br />
 Na madrugada desta ter&ccedil;a-feira (8), cerca de 5 mil trabalhadoras Sem Terra realizaram uma a&ccedil;&atilde;o rel&acirc;mpago nas depend&ecirc;ncias da empresa Araupel, em Quedas do Igua&ccedil;u, regi&atilde;o centro do Paran&aacute;. Vindas de todo o estado, as mulheres destru&iacute;ram as mudas de eucalipto e pinus para denunciar o modelo destrutivo do agroneg&oacute;cio e seus impactos para o meio ambiente, como por exemplo: a expans&atilde;o da monocultura de pinus e eucalipto, que transforma as terras&nbsp;em um deserto verde improdutivo do ponto de vista da soberania alimentar.</p>
 
+<p>&nbsp;</p>
+
+<p><strong>SE</strong></p>
+
+<p>&nbsp;</p>
+
+<p>Na manh&atilde; desta ter&ccedil;a-feira (08), aproximadamente 2000 mulheres do campo e da cidade, saem &agrave;s ruas da Aracaju em ato um unificado, constru&iacute;do por v&aacute;rias entidades, coletivos, sindicatos, movimentos sociais e populares afirmar a luta pela democracia e a garantia dos direitos das mulheres conquistados nos &uacute;ltimos anos.</p>
+
+<p><br />
+Al&eacute;m de denunciar as viol&ecirc;ncias sofridas pelas mulheres, j&aacute; que s&atilde;o as primeiras penalizadas na crise do capitalismo, pois seus empregos s&atilde;o massacrantes e sal&aacute;rios reduzidos.</p>
+
+<p><br />
+Ao t&eacute;rmino do ato unificado as mulheres camponesas organizadas no MST e nos territ&oacute;rios da cidadania, seguiram em caminhada at&eacute; a superintend&ecirc;ncia regional do Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (INCRA), levando a pauta da luta pela democratiza&ccedil;&atilde;o dos meios comuns (terra, &aacute;gua e sementes), e por um modo de viver agroecol&oacute;gico. E em defesa dos direitos sociais, que implicam diretamente na vida das mulheres do campo.<br />
+&nbsp;</p>
+
 <p><br />
 <strong style="line-height: 1.6;">SC</strong></p>
 
@@ -127,8 +142,18 @@ Mulheres de Santa Catarina realizaram marchas e manifesta&ccedil;&otilde;es nos 
 <strong style="line-height: 20.8px;">TO</strong></p>
 
 <p style="line-height: 20.8px;"><br />
-Mais de 200 Mulheres da Via Campesina ocuparam o Minist&eacute;rio da Agricultura no Tocantins. Elas pediram a sa&iacute;da da Ministra K&aacute;tia Abreu do comando do MAPA.<br />
-&nbsp;</p>
+No TO&nbsp;mais&nbsp;de 200 Mulheres da Via Campesina ocuparam o Minist&eacute;rio da Agricultura no Tocantins. Elas pediram a sa&iacute;da da Ministra K&aacute;tia Abreu do comando do MAPA.</p>
+
+<p style="line-height: 20.8px;"><br />
+A pol&iacute;cia Militar do estado agiu de forma truculenta e agressiva&nbsp;contra militantes que participavam da a&ccedil;&atilde;o, entre eles o&nbsp;Movimento dos Atingidos por Barragens (MAB), Conselho Indigenista Mission&aacute;rio (Cimi),&nbsp;Comiss&atilde;o Pastoral da Terra e a Marcha Mundial de Mulheres (MMM).</p>
+
+<p style="line-height: 20.8px;"><br />
+Em&nbsp;nota, os movimentos sociais repudiaram e exigiram das autoridades e &oacute;rg&atilde;os competentes respostas concretas frente ao acelerado aumento da brutal viol&ecirc;ncia que atinge profundamente os camponeses e camponesas, sobretudo os Sem Terra e os movimentos sociais no estado do Tocantins, a&ccedil;&otilde;es que tendem a intensificar.</p>
+
+<p><br />
+De acordo, relato no relato a pol&iacute;cia Militar agiu de forma arbitr&aacute;ria prendendo imediatamente cinco militantes do MST, os conduzindo at&eacute; a sede da pol&iacute;cia Federal, onde foram recebidos pelo delegado da pol&iacute;cia Federal que instaurou inqu&eacute;rito encaminhando o processo conforme orienta&ccedil;&atilde;o da policia Militar, enviando-os para o Pres&iacute;dio, Casa de Cust&oacute;dia de Pris&atilde;o de Palmas (CCPP).</p>
+
+<p style="line-height: 20.8px;">&nbsp;</p>
 
 <p><img alt="12806252_1066951333377580_2088989686220722521_n.jpg" height="393" src="//farm2.staticflickr.com/1518/25523397161_8244994cd0_b.jpg" width="700" /><br />
 <br />
