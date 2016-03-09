@@ -1,5 +1,5 @@
 ---
-date: "2016-03-08T14:18:21-03:00"
+date: "2016-03-08T00:18:21-03:00"
 tags:
   - tag: jornada-de-lutas-das-mulheres-2016
   - tag: lutas-e-mobilizações
