@@ -67,7 +67,7 @@ O MST critica os &lsquo;deserto verde&rsquo; da monocultura de pinus e eucalipto
 As mulheres tamb&eacute;m denunciam a apropria&ccedil;&atilde;o ilegal de terras feitas pela Araupel. No final do ano passado a justi&ccedil;a federal anulou as matr&iacute;culas de nove im&oacute;veis que est&atilde;o sob dom&iacute;nio da empresa, assim, segundo o Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra), a decis&atilde;o mant&eacute;m a empresa &aacute;rea apenas como usu&aacute;ria, mediante concess&atilde;o de direito real de uso, isso significa que a Araupel est&aacute; fazendo o papel de inquilina do im&oacute;vel e que, portanto, deve pagar pelo seu uso.</p>
 
 <p><br />
-As mulheres Sem Terra trazem suas preocupa&ccedil;&otilde;es sobre o descaso da reforma agr&aacute;ria na regi&atilde;o Centro do Paran&aacute;, nesta regi&atilde;o h&aacute; acampamentos com mais 18 anos. Somente nessa regi&atilde;o s&atilde;o mais de 3,5 mil fam&iacute;lias acampadas, sendo mais de 10 mil pessoas.</p>
+Outra preocupa&ccedil;&atilde;o&nbsp;das trabalhadoras sem terra &eacute;&nbsp;o descaso da reforma agr&aacute;ria na regi&atilde;o Centro do Paran&aacute;, nesta regi&atilde;o h&aacute; acampamentos com mais 18 anos. Somente nessa regi&atilde;o s&atilde;o mais de 3,5 mil fam&iacute;lias acampadas, sendo mais de 10 mil pessoas.</p>
 
 <p><br />
 No Paran&aacute;, s&atilde;o mais de 12 mil Sem Terra acampados em 80 &aacute;reas.</p>
