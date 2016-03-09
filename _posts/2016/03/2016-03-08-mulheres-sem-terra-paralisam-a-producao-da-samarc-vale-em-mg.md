@@ -8,7 +8,7 @@ tags:
 title: "Mulheres Sem Terra paralisam produção da Vale-Samarco em MG \n"
 menu: lutas e mobilizações
 support_line: "Passados quatro meses do maior crime ambiental da história do país, a maior parte das famílias atingidas ainda segue sem qualquer tipo de assistência. "
-images_hd: //farm2.staticflickr.com/1642/25585455516_50fbfb2ba4_b.jpg
+images_hd: //farm2.staticflickr.com/1551/25332141070_028659d903_b.jpg
 section: featured-news
 layout: post
 files:
@@ -36,6 +36,12 @@ files:
     small: //farm2.staticflickr.com/1450/25316405870_5a22313c9b_n.jpg
     title: Ats7S-iqOWaR0aEp5i0RLzE9t5fT6OYhXEDJC9jXjLnX.jpg
     $$hashKey: 0AH
+  - link: //farm2.staticflickr.com/1551/25332141070_028659d903_b.jpg
+    thumbnail: //farm2.staticflickr.com/1551/25332141070_028659d903_t.jpg
+    medium: //farm2.staticflickr.com/1551/25332141070_028659d903_z.jpg
+    small: //farm2.staticflickr.com/1551/25332141070_028659d903_n.jpg
+    title: 1459979_349409215182962_350025297028652719_n.jpg
+    $$hashKey: 06D
 created_date: "2016-03-08T08:53:19-03:00"
 published: true
 releated_posts:
