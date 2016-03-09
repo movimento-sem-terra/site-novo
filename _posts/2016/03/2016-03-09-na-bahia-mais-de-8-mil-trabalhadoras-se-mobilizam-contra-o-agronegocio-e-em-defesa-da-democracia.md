@@ -8,7 +8,7 @@ tags:
 title: "Na Bahia, mais de 8 mil trabalhadoras se mobilizam contra o agronegócio e em defesa da democracia"
 support_line: "Nas ações, as trabalhadoras denunciaram o capital estrangeiro na agricultura brasileira e chamaram a atenção da sociedade ao modelo de produção do agronegócio e seus impactos ao meio ambiente."
 menu: lutas e mobilizações
-images_hd: //farm2.staticflickr.com/1518/25278200619_d38def99cd_b.jpg
+images_hd: //farm2.staticflickr.com/1547/25619736646_f24fb88231_b.jpg
 layout: post
 files:
   - link: //farm2.staticflickr.com/1518/25278200619_d38def99cd_b.jpg
@@ -47,6 +47,12 @@ files:
     small: //farm2.staticflickr.com/1615/25019048573_8cb47a4869_n.jpg
     title: IMG_7011.JPG
     $$hashKey: "252"
+  - link: //farm2.staticflickr.com/1547/25619736646_f24fb88231_b.jpg
+    thumbnail: //farm2.staticflickr.com/1547/25619736646_f24fb88231_t.jpg
+    medium: //farm2.staticflickr.com/1547/25619736646_f24fb88231_z.jpg
+    small: //farm2.staticflickr.com/1547/25619736646_f24fb88231_n.jpg
+    title: IMG_2417.JPG
+    $$hashKey: 2E0
 created_date: "2016-03-09T13:00:53-03:00"
 published: true
 releated_posts:
@@ -57,7 +63,7 @@ releated_posts:
 
 ---
 <p><br />
-<img alt="12794577_961585170602236_4969944668384472447_n.jpg" height="467" src="//farm2.staticflickr.com/1518/25278200619_d38def99cd_b.jpg" width="700" /><em>​<br />
+<img alt="IMG_2417.JPG" height="466" src="//farm2.staticflickr.com/1547/25619736646_f24fb88231_b.jpg" width="700" /><em>​<br />
 <br />
 Por Coletivo de Comunica&ccedil;&atilde;o do MST na Bahia<br />
 Da P&aacute;gina do MST</em></p>
@@ -108,6 +114,21 @@ Para Lucin&eacute;ia Dur&atilde;es, tamb&eacute;m da dire&ccedil;&atilde;o estad
 Em Ipia&uacute;, cerca de 400 mulheres do campo e da cidade marcharam pelos principais pontos da cidade denunciando o agroneg&oacute;cio e as transnacionais da minera&ccedil;&atilde;o, &ldquo;que empreendem um projeto de morte para popula&ccedil;&atilde;o brasileira&quot;, afirmam as trabalhadoras.</p>
 
 <p><br />
+<strong>Rec&ocirc;ncavo</strong></p>
+
+<p style="line-height: 20.8px;"><br />
+O rec&ocirc;ncavo &eacute; uma das regi&otilde;es mais centrais da Bahia e foi nesse sentido que mais de 4.350 trabalhadoras do campo e da cidade ocuparam as ruas de Feira de Santana e Salvador, neste 08 de mar&ccedil;o, em uma grande marcha, defendendo os direitos das mulheres, a democracia, o trabalho e a previd&ecirc;ncia social.</p>
+
+<p style="line-height: 20.8px;"><br />
+&ldquo;A nossa luta &eacute; contra o agroneg&oacute;cio e por alimenta&ccedil;&atilde;o saud&aacute;vel na mesa de todos os trabalhadores&rdquo;, enfatizou Leonice Rocha, do MST.</p>
+
+<p style="line-height: 20.8px;">&nbsp;</p>
+
+<p style="line-height: 20.8px;">Com m&iacute;stica, gritos de ordem, interven&ccedil;&otilde;es art&iacute;sticas e falas pol&iacute;ticas, apontando a unidade na luta de classes e defendendo a democracia, as mulheres chamaram a aten&ccedil;&atilde;o da sociedade e convocaram a popula&ccedil;&atilde;o a tamb&eacute;m ocupar as ruas.<br />
+&nbsp;</p>
+
+<p style="line-height: 20.8px;"><img alt="12794577_961585170602236_4969944668384472447_n.jpg" height="467" src="//farm2.staticflickr.com/1518/25278200619_d38def99cd_b.jpg" width="700" /><br />
+<br />
 <strong>Nordeste</strong></p>
 
 <p><br />
@@ -126,29 +147,17 @@ Na manh&atilde; tamb&eacute;m desse &uacute;ltimo domingo (6), mais 200 Mulheres
 Na ocupa&ccedil;&atilde;o, as trabalhadoras denunciaram o &ldquo;falso modelo de produ&ccedil;&atilde;o sustent&aacute;vel&rdquo; da empresa atrav&eacute;s do monocultivo de eucalipto e apontaram ainda, que a companhia comprou diversas propriedades na regi&atilde;o, por&eacute;m as terras est&atilde;o sem produ&ccedil;&atilde;o.</p>
 
 <p><br />
-<strong>Rec&ocirc;ncavo</strong></p>
-
-<p><br />
-O rec&ocirc;ncavo &eacute; uma das regi&otilde;es mais centrais da Bahia e foi nesse sentido que mais de 4.350 trabalhadoras do campo e da cidade ocuparam as ruas de Feira de Santana e Salvador, neste 08 de mar&ccedil;o, em uma grande marcha, defendendo os direitos das mulheres, a democracia, o trabalho e a previd&ecirc;ncia social.</p>
-
-<p><br />
-&ldquo;A nossa luta &eacute; contra o agroneg&oacute;cio e por alimenta&ccedil;&atilde;o saud&aacute;vel na mesa de todos os trabalhadores&rdquo;, enfatizou Leonice Rocha, do MST.</p>
-
-<p>&nbsp;</p>
-
-<p>Com m&iacute;stica, gritos de ordem, interven&ccedil;&otilde;es art&iacute;sticas e falas pol&iacute;ticas, apontando a unidade na luta de classes e defendendo a democracia, as mulheres chamaram a aten&ccedil;&atilde;o da sociedade e convocaram a popula&ccedil;&atilde;o a tamb&eacute;m ocupar as ruas.</p>
-
-<p>&nbsp;</p>
-
-<p><strong>Sul</strong></p>
+<strong>Sul</strong></p>
 
 <p><br />
 J&aacute; em Itabuna, sul do estado, mais de 250 mulheres reunidas sa&iacute;ram em marcha denunciando a viol&ecirc;ncia e pautando a constru&ccedil;&atilde;o de uma sociedade mais justa e igualit&aacute;ria para todas.</p>
 
 <p><br />
-Ao som de tambores e enfatizando que &ldquo;Sem feminismo, n&atilde;o h&aacute; Socialismo&rdquo;, as trabalhadoras dialogaram com a sociedade sobre o avan&ccedil;o do agroneg&oacute;cio no campo brasileiro, denunciaram a viol&ecirc;ncia contra a mulher e defenderam a democracia.</p>
+Ao som de tambores e enfatizando que &ldquo;Sem feminismo, n&atilde;o h&aacute; Socialismo&rdquo;, as trabalhadoras dialogaram com a sociedade sobre o avan&ccedil;o do agroneg&oacute;cio no campo brasileiro, denunciaram a viol&ecirc;ncia contra a mulher e defenderam a democracia.<br />
+&nbsp;</p>
 
-<p><br />
+<p><img alt="IMG_7011.JPG" height="416" src="//farm2.staticflickr.com/1615/25019048573_8cb47a4869_b.jpg" width="700" /><br />
+<br />
 <strong>Sudoeste</strong></p>
 
 <p><br />
@@ -165,4 +174,7 @@ Cerca de 1.500 Mulheres sa&iacute;ram em marcha da Pra&ccedil;a do Vaporzinho, n
 
 <p>&nbsp;</p>
 
-<p>Enquanto que na noite desta ter&ccedil;a-feira (8), a fazenda S&atilde;o Judas Tadeu, de 700 hectares, localizada no munic&iacute;pio de Casa Nova, foi ocupada com mais de 150 Mulheres Sem Terra que apontam a improdutividade da &aacute;rea.</p>
+<p>Enquanto que na noite desta ter&ccedil;a-feira (8), a fazenda S&atilde;o Judas Tadeu, de 700 hectares, localizada no munic&iacute;pio de Casa Nova, foi ocupada com mais de 150 Mulheres Sem Terra que apontam a improdutividade da &aacute;rea.<br />
+&nbsp;</p>
+
+<p><img alt="IMG_3640.JPG" height="466" src="//farm2.staticflickr.com/1447/25278202589_fc68e3a885_b.jpg" width="700" /></p>
