@@ -33,10 +33,11 @@ releated_posts:
 <p><br />
 Movimentos Sociais divulgam nota de rep&uacute;dio &agrave; a&ccedil;&atilde;o truculenta e agressiva da pol&iacute;cia militar contra militantes do MST no estado do Tocantins.&nbsp;</p>
 
-<p>&quot;Os movimentos sociais repudiam e exigem das autoridades e &oacute;rg&atilde;os competentes respostas concretas frente ao acelerado aumento da brutal viol&ecirc;ncia que atinge profundamente os camponeses e camponesas, sobretudo os Sem Terra e os movimentos sociais no estado do Tocantins, a&ccedil;&otilde;es que tendem a intensificar&quot;, afirmam em trecho de nota.</p>
-
 <p><br />
 A a&ccedil;&atilde;o ocorreu nesta ter&ccedil;a-feira (8), durante a manifesta&ccedil;&atilde;o das mulheres camponesas dos movimentos sociais do campo, organizada pelo MST, Movimento dos Atingidos por Barragens (MAB), Conselho Indigenista Mission&aacute;rio (Cimi), Comiss&atilde;o Pastoral da Terra e Marcha Mundial de Mulheres (MMM) em frente a&nbsp;sede do Minist&eacute;rio da Agricultura, Pecu&aacute;ria e Abastecimento em Palmas, capital do estado. &nbsp;</p>
+
+<p><br />
+<span style="line-height: 20.8px;">​</span><span style="line-height: 20.8px;">&quot;Os movimentos sociais repudiam e exigem das autoridades e &oacute;rg&atilde;os competentes respostas concretas frente ao acelerado aumento da brutal viol&ecirc;ncia que atinge profundamente os camponeses e camponesas, sobretudo os Sem Terra e os movimentos sociais no estado do Tocantins, a&ccedil;&otilde;es que tendem a intensificar&quot;, afirmam em trecho de nota.</span></p>
 
 <p><br />
 De acordo, relato no relato na ocasi&atilde;o a pol&iacute;cia Militar agiu de forma arbitr&aacute;ria prendendo imediatamente cinco militantes do MST, os conduzindo at&eacute; a sede da pol&iacute;cia Federal, onde foram recebidos pelo delegado da pol&iacute;cia Federal que instaurou inqu&eacute;rito encaminhando o processo conforme orienta&ccedil;&atilde;o da policia Militar, enviando-os para o Pres&iacute;dio, Casa de Cust&oacute;dia de Pris&atilde;o de Palmas (CCPP).</p>
