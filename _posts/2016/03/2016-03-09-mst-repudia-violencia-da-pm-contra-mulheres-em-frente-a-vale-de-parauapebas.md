@@ -34,7 +34,7 @@ releated_posts:
 <em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Em nota, o MST, a Comiss&atilde;o Pastoral da Terra (CPT) e o&nbsp;F&oacute;rum de Mulheres Camponesas do Sul e Sudeste do Par&aacute; repudiam a&ccedil;&atilde;o violenta da PM ocorrida na manh&atilde; desta ter&ccedil;a-feira (8), contra as&nbsp;300 mulheres camponesas que&nbsp;organizaram uma marcha, em sentido a portaria da Floresta Nacional de Caraj&aacute;s (FLONACA), onde h&aacute; mais de 30 anos a mineradora Vale saqueia o povo brasileiro.</p>
+Em nota, o MST&nbsp;Par&aacute;, a Comiss&atilde;o Pastoral da Terra (CPT) e o&nbsp;F&oacute;rum de Mulheres Camponesas do Sul e Sudeste do Par&aacute; repudiam a&ccedil;&atilde;o violenta da PM ocorrida na manh&atilde; desta ter&ccedil;a-feira (8), contra as&nbsp;300 mulheres camponesas que&nbsp;organizaram uma marcha, em sentido a portaria da Floresta Nacional de Caraj&aacute;s (FLONACA), onde h&aacute; mais de 30 anos a mineradora Vale saqueia o povo brasileiro.</p>
 
 <p><br />
 Com o objetivo de denunciar pacificamente todas as formas de viol&ecirc;ncia que as mulheres sofrem no dia a dia, o ato simb&oacute;lico com o uso de<span style="line-height: 20.8px;">&nbsp;lama e&nbsp;barro para lembrar o caso Mariana&nbsp;e alertar para os riscos que corre a popula&ccedil;&atilde;o da regi&atilde;o, infelizmente resultou em trag&eacute;dia quando no in&iacute;cio do ato a pol&iacute;cia por ordem de seu comandante Major Sousa, agiu de forma truculenta. </span></p>
