@@ -122,9 +122,8 @@ O rec&ocirc;ncavo &eacute; uma das regi&otilde;es mais centrais da Bahia e foi n
 <p style="line-height: 20.8px;"><br />
 &ldquo;A nossa luta &eacute; contra o agroneg&oacute;cio e por alimenta&ccedil;&atilde;o saud&aacute;vel na mesa de todos os trabalhadores&rdquo;, enfatizou Leonice Rocha, do MST.</p>
 
-<p style="line-height: 20.8px;">&nbsp;</p>
-
-<p style="line-height: 20.8px;">Com m&iacute;stica, gritos de ordem, interven&ccedil;&otilde;es art&iacute;sticas e falas pol&iacute;ticas, apontando a unidade na luta de classes e defendendo a democracia, as mulheres chamaram a aten&ccedil;&atilde;o da sociedade e convocaram a popula&ccedil;&atilde;o a tamb&eacute;m ocupar as ruas.<br />
+<p style="line-height: 20.8px;"><br />
+Com m&iacute;stica, gritos de ordem, interven&ccedil;&otilde;es art&iacute;sticas e falas pol&iacute;ticas, apontando a unidade na luta de classes e defendendo a democracia, as mulheres chamaram a aten&ccedil;&atilde;o da sociedade e convocaram a popula&ccedil;&atilde;o a tamb&eacute;m ocupar as ruas.<br />
 &nbsp;</p>
 
 <p style="line-height: 20.8px;"><img alt="12794577_961585170602236_4969944668384472447_n.jpg" height="467" src="//farm2.staticflickr.com/1518/25278200619_d38def99cd_b.jpg" width="700" /><br />
