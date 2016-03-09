@@ -81,9 +81,11 @@ Foi pautado como alternativa de contraposi&ccedil;&atilde;o ao modelo do agroneg
 De acordo com Jeane Nubia, da dire&ccedil;&atilde;o estadual do MST, estamos vivendo um per&iacute;odo de grandes avan&ccedil;os das pautas conservadoras e uma eminente tentativa de golpe a democracia brasileira e aos direitos das mulheres.</p>
 
 <p><br />
-&ldquo;Precisamos nos mobilizar. Fazer luta e defender as conquistas hist&oacute;ricas da classe trabalhadora&rdquo;, destacou Nubia.</p>
+&ldquo;Precisamos nos mobilizar. Fazer luta e defender as conquistas hist&oacute;ricas da classe trabalhadora&rdquo;, destacou Nubia.<br />
+&nbsp;</p>
 
-<p><br />
+<p><img alt="12804887_961584610602292_2250174242256232066_n.jpg" height="467" src="//farm2.staticflickr.com/1497/25350140240_f6da18e706_b.jpg" width="700" /><br />
+<br />
 <strong>Extremo Sul</strong></p>
 
 <p><br />
