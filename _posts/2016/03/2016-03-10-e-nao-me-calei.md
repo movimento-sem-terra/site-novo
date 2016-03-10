@@ -78,6 +78,6 @@ Seguiremos em marcha, n&atilde;o nos calaremos e avan&ccedil;aremos na defesa da
 
 <p>&nbsp;</p>
 
-<p style="text-align: right;">S&atilde;o Paulo, 10 de mar&ccedil;o de 2016</p>
+<p style="text-align: right;">Par&aacute;, 10 de mar&ccedil;o de 2016</p>
 
 <p style="text-align: right;">Coletivos de Mulheres do MST - Par&aacute;&nbsp;</p>
