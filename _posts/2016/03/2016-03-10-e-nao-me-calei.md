@@ -5,7 +5,7 @@ tags:
   - tag: jornada-nacional-de-lutas-2016
   - tag: pará
   - tag: violência
-title: E não me calei
+title: E não nos calaremos
 images_hd: //farm2.staticflickr.com/1550/25676684215_eb0123cb98_b.jpg
 support_line: "Manifesto das mulheres do Pará contra violência da PM na última terça-feira (8). "
 menu: direitos humanos
