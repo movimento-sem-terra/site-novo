@@ -56,10 +56,8 @@ releated_posts:
 <p><img alt="256c9aff-4770-4396-abe6-e6245f12cc63.jpg" height="394" src="//farm2.staticflickr.com/1686/25528209311_5731512191_b.jpg" width="700" /></p>
 
 <p><br />
-<em>Da P&aacute;gina do MST</em></p>
-
-<p><br />
-Por Viviane Brigida</p>
+<em>Por Viviane Brigida<br />
+<em style="line-height: 20.8px;">Da P&aacute;gina do MST</em></em></p>
 
 <p><br />
 Neste 08 de Mar&ccedil;o, mulheres do MST no Par&aacute; realizaram a&ccedil;&atilde;o e forma&ccedil;&atilde;o deram in&iacute;cio a jornada de lutas em mem&oacute;ria aos vinte anos de impunidade do Massacre de Eldorado dos Caraj&aacute;s.</p>
