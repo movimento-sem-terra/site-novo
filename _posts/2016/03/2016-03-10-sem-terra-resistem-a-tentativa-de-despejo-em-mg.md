@@ -47,7 +47,7 @@ releated_posts:
 <p>Cerca de 400 fam&iacute;lias Sem Terra est&atilde;o, neste momento,&nbsp;paralisando a BR-135 nas proximidades do munic&iacute;pio de Engenheiro Navarro no norte de Minas Gerais,&nbsp;para prestar solidariedade &agrave;s fam&iacute;lias acampadas h&aacute;&nbsp;18 anos na fazenda Ariadn&oacute;polis.</p>
 
 <p><br />
-Os Sem Terra&nbsp;est&atilde;o resistindo &agrave; decis&atilde;o da Vara Agr&aacute;ria do estado&nbsp;que pediu a&nbsp;reintegra&ccedil;&atilde;o de posse da &aacute;rea.&nbsp;O&nbsp;despejo est&aacute; marcado para hoje (10).</p>
+Os Sem Terra&nbsp;est&atilde;o resistindo &agrave; decis&atilde;o da Vara Agr&aacute;ria do estado&nbsp;que pediu a&nbsp;reintegra&ccedil;&atilde;o de posse da &aacute;rea.&nbsp;O&nbsp;despejo est&aacute; marcado para esta quinta-feira (10).</p>
 
 <p><br />
 O Decreto NE n&ordm; 107, de 08 de mar&ccedil;o de 2016, declara a desapropria&ccedil;&atilde;o da fazenda, contrariando a decis&atilde;o da Vara Agr&aacute;ria.<br />
