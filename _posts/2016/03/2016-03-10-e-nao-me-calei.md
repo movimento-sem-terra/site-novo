@@ -5,8 +5,9 @@ tags:
   - tag: jornada-nacional-de-lutas-2016
   - tag: pará
   - tag: violência
-title: E não nos calaremos
-images_hd: //farm2.staticflickr.com/1550/25676684215_eb0123cb98_b.jpg
+  - tag: vale
+title: E não mais nos calaremos
+images_hd: //farm2.staticflickr.com/1470/25051004063_54e8f8591f_b.jpg
 support_line: "Manifesto das mulheres do Pará contra violência da PM na última terça-feira (8). "
 menu: direitos humanos
 layout: post
@@ -17,26 +18,32 @@ files:
     small: //farm2.staticflickr.com/1550/25676684215_eb0123cb98_n.jpg
     title: 25237618000_4028745c7a_b.jpg
     $$hashKey: 0SY
+  - link: //farm2.staticflickr.com/1470/25051004063_54e8f8591f_b.jpg
+    thumbnail: //farm2.staticflickr.com/1470/25051004063_54e8f8591f_t.jpg
+    medium: //farm2.staticflickr.com/1470/25051004063_54e8f8591f_z.jpg
+    small: //farm2.staticflickr.com/1470/25051004063_54e8f8591f_n.jpg
+    title: IMG-20160309-WA0008.jpg
+    $$hashKey: 1S9
 created_date: "2016-03-10T14:23:37-03:00"
 published: true
 releated_posts:
+  - _posts/2016/02/2016-02-05-pm-ataca-sem-terra-em-area-grilada-por-latifundiario-e-pretendida-pela-vale.md
   - _posts/2015/01/2015-01-14-dorothy-stang-dez-anos-de-impunidade-na-amazonia.md
-  - _posts/2014/06/2014-06-30-em-nota-cpt-denuncia-prisao-do-militante-do-mst-em-maraba.md
-  - _posts/2014/07/2014-07-07-mais-uma-lideranca-quilombola-e-assassinada-no-para.md
-  - _posts/2014/07/2014-07-07-mais-uma-lideranca-quilombola-e-assassinada-no-para.md-e
   - _posts/2014/08/2014-08-26-audiencia-publica-discute-regularizacao-fundiaria-e-ambiental-no-para.md
   - _posts/2016/03/2016-03-08-mulheres-sem-terra-ocupam-falso-projeto-sustentavel-de-mineradora-na-bahia.md
-  - _posts/2016/03/2016-03-08-mulheres-sem-terra-marcham-pelas-ruas-de-sc.md
+  - _posts/2016/02/2016-02-10-quanto-vale-a-vida-de-um-sem-terra-assassinado-uma-ninharia-para-uma-camara-do-tjrs.md
+  - _posts/2015/12/2015-12-21-a-vale-da-morte-uma-tragedia-que-podera-ficar-impune.md
+  - _posts/2016/01/2016-01-19-rio-doce-o-impacto-ainda-esta-acontecendo.md
+  - _posts/2016/01/2016-01-14-pf-indicia-samarco-e-vale-por-tragedia-em-mariana.md
 section: cover
 
 ---
-<p>&nbsp;</p>
+<p><br />
+<em>Por Coletivo de Mulheres do Par&aacute;<br />
+Da P&aacute;gina do MST</em></p>
 
-<p><em>Do Coletivo de Mulheres do Par&aacute;&nbsp;</em></p>
-
-<p>&nbsp;</p>
-
-<p>Antes que termine mar&ccedil;o e o epis&oacute;dio da viol&ecirc;ncia policial na Marcha das mulheres Sem Terra no final da manh&atilde; de 8 de mar&ccedil;o em Parauapebas, Par&aacute;,&nbsp;passe para o esquecimento geral, decidimos que seria importante dizer algo mais, motivadas, sobretudo, por dois fatos: um de indigna&ccedil;&atilde;o, outro de agradecimento.</p>
+<p><br />
+Antes que termine mar&ccedil;o e o epis&oacute;dio da viol&ecirc;ncia policial na Marcha das mulheres Sem Terra no final da manh&atilde; de 8 de mar&ccedil;o em Parauapebas, Par&aacute;,&nbsp;passe para o esquecimento geral, decidimos que seria importante dizer algo mais, motivadas, sobretudo, por dois fatos: um de indigna&ccedil;&atilde;o, outro de agradecimento.</p>
 
 <p><br />
 A trucul&ecirc;ncia da Pol&iacute;cia Militar do Par&aacute; n&atilde;o &eacute; mais novidade para ningu&eacute;m, quantos de n&oacute;s n&atilde;o vivenciamos ou conhecemos algu&eacute;m que tenham sido agredido, mal abordado&nbsp;nas&nbsp;&ldquo;opera&ccedil;&otilde;es policiais&rdquo; nos bairros, preso&nbsp;sem explica&ccedil;&atilde;o aparente ou &nbsp;por &ldquo;desacato &agrave;&nbsp;autoridade&rdquo;?</p>
