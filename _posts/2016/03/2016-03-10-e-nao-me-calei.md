@@ -27,6 +27,7 @@ releated_posts:
   - _posts/2014/08/2014-08-26-audiencia-publica-discute-regularizacao-fundiaria-e-ambiental-no-para.md
   - _posts/2016/03/2016-03-08-mulheres-sem-terra-ocupam-falso-projeto-sustentavel-de-mineradora-na-bahia.md
   - _posts/2016/03/2016-03-08-mulheres-sem-terra-marcham-pelas-ruas-de-sc.md
+section: cover
 
 ---
 <p>&nbsp;</p>
