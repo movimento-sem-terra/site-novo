@@ -39,31 +39,36 @@ releated_posts:
 ---
 <p class="p1"><img alt="2b3dcc00-67a5-47ce-9dbc-16fb30963b3c.jpg" height="525" src="//farm2.staticflickr.com/1522/25662909686_6fb0fabd02_b.jpg" width="700" /></p>
 
-<p class="p1">&nbsp;</p>
+<p>&nbsp;</p>
 
-<p class="p1"><span class="s1">Depois de quase tr&ecirc;s dias de acampamento no Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra) do Rio Grande do Sul, as cerca de 1200 mulheres do Movimento dos Trabalhadores Rurais Sem Terra (MST) e do Movimento dos Atingidos das Barragens (MAB) desocuparam na tarde desta quinta-feira (10),&nbsp;o pr&eacute;dio da autarquia, no Centro de Porto Alegre, no Rio Grande do Sul.</span></p>
+<p><em>Por Catiana de Medeiros<br />
+Da P&aacute;gina do MST</em></p>
 
-<p class="p1"><br />
-<span class="s1">Uma das principais pautas das mulheres que estavam acampadas diz respeito ao incentivo &agrave; produ&ccedil;&atilde;o agroecol&oacute;gica. Elas reivindicaram um semin&aacute;rio estadual para discutir o impacto dos agrot&oacute;xicos; a proibi&ccedil;&atilde;o do uso do 2,4-D e da pulveriza&ccedil;&atilde;o a&eacute;rea; e a efetiva&ccedil;&atilde;o do Plano Nacional de Agroecologia e Produ&ccedil;&atilde;o Org&acirc;nica (Planapo) nas &aacute;reas de assentamentos. O semin&aacute;rio foi agendado para o pr&oacute;ximo m&ecirc;s de agosto com o envolvimento do Incra, Minist&eacute;rio do Desenvolvimento Agr&aacute;rio (MDA) e de outros &oacute;rg&atilde;os governamentais e movimentos populares.</span></p>
+<div>&nbsp;</div>
 
-<p class="p1"><br />
-<span class="s1">Ainda para impulsionar a produ&ccedil;&atilde;o de alimentos saud&aacute;veis nos assentamentos, as camponesas solicitaram que todas tivessem acesso a pol&iacute;ticas p&uacute;blicas como o Fomento Mulher e Kit Feira. O superintendente regional do Incra, Roberto Ramos, informou que h&aacute; previs&atilde;o de libera&ccedil;&atilde;o de R$ 10,3 milh&otilde;es para execu&ccedil;&atilde;o de 3440 novos projetos do Fomento Mulher e o comprometimento de licitar 40 novos kits para a realiza&ccedil;&atilde;o de feiras no estado este ano.</span></p>
+<div>Depois de quase tr&ecirc;s dias de acampamento no Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra) do Rio Grande do Sul, as cerca de 1200 mulheres do Movimento dos Trabalhadores Rurais Sem Terra (MST) e do Movimento dos Atingidos das Barragens (MAB) desocuparam na tarde desta quinta-feira (10),&nbsp;o pr&eacute;dio da autarquia, no Centro de Porto Alegre, no Rio Grande do Sul.</div>
 
-<p class="p1"><br />
-<span class="s1">Na pauta de reivindica&ccedil;&otilde;es tamb&eacute;m constava a aquisi&ccedil;&atilde;o de novas &aacute;reas para assentar todas as fam&iacute;lias sem terra acampadas, atingidas e expulsas por barragens no estado, al&eacute;m da Assessoria T&eacute;cnica, Social e Ambiental &agrave; Reforma Agr&aacute;ria (Ates) &ndash; hoje, os projetos de produ&ccedil;&atilde;o e o plano de desenvolvimento dos assentamentos dependem deste programa.</span></p>
+<p><br />
+Uma das principais pautas das mulheres que estavam acampadas diz respeito ao incentivo &agrave; produ&ccedil;&atilde;o agroecol&oacute;gica. Elas reivindicaram um semin&aacute;rio estadual para discutir o impacto dos agrot&oacute;xicos; a proibi&ccedil;&atilde;o do uso do 2,4-D e da pulveriza&ccedil;&atilde;o a&eacute;rea; e a efetiva&ccedil;&atilde;o do Plano Nacional de Agroecologia e Produ&ccedil;&atilde;o Org&acirc;nica (Planapo) nas &aacute;reas de assentamentos. O semin&aacute;rio foi agendado para o pr&oacute;ximo m&ecirc;s de agosto com o envolvimento do Incra, Minist&eacute;rio do Desenvolvimento Agr&aacute;rio (MDA) e de outros &oacute;rg&atilde;os governamentais e movimentos populares.</p>
 
-<p class="p1"><br />
-<span class="s1">De acordo com Ramos, foram assegurados R$ 497 milh&otilde;es para manter os contratos de assist&ecirc;ncia t&eacute;cnica nas &aacute;reas de reforma agr&aacute;ria de todo o Brasil. Deste valor, R$ 17 milh&otilde;es s&atilde;o para execu&ccedil;&atilde;o do programa no RS at&eacute; dezembro deste ano.</span></p>
+<p><br />
+Ainda para impulsionar a produ&ccedil;&atilde;o de alimentos saud&aacute;veis nos assentamentos, as camponesas solicitaram que todas tivessem acesso a pol&iacute;ticas p&uacute;blicas como o Fomento Mulher e Kit Feira. O superintendente regional do Incra, Roberto Ramos, informou que h&aacute; previs&atilde;o de libera&ccedil;&atilde;o de R$ 10,3 milh&otilde;es para execu&ccedil;&atilde;o de 3440 novos projetos do Fomento Mulher e o comprometimento de licitar 40 novos kits para a realiza&ccedil;&atilde;o de feiras no estado este ano.</p>
 
-<p class="p1"><br />
-<span class="s1">Sobre a destina&ccedil;&atilde;o de novas &aacute;reas para a reforma agr&aacute;ria n&atilde;o h&aacute; muitos avan&ccedil;os. Ramos disse que o Instituto enfrenta dificuldades para criar assentamentos, uma vez que &ldquo;ningu&eacute;m quer receber em T&iacute;tulos da D&iacute;vida Agr&aacute;ria&rdquo;. J&aacute; o Estado afirma que tem dispon&iacute;vel &aacute;reas da Companhia Estadual de Silos e Armaz&eacute;ns (Cesa), Companhia Estadual de Energia El&eacute;trica (CEEE) e Instituto Riograndense do Arroz (Irga) para negocia&ccedil;&atilde;o com o governo federal.</span></p>
+<p><br />
+Na pauta de reivindica&ccedil;&otilde;es tamb&eacute;m constava a aquisi&ccedil;&atilde;o de novas &aacute;reas para assentar todas as fam&iacute;lias sem terra acampadas, atingidas e expulsas por barragens no estado, al&eacute;m da Assessoria T&eacute;cnica, Social e Ambiental &agrave; Reforma Agr&aacute;ria (Ates) &ndash; hoje, os projetos de produ&ccedil;&atilde;o e o plano de desenvolvimento dos assentamentos dependem deste programa.</p>
 
-<p class="p1"><br />
-<span class="s1">Durante as reuni&otilde;es de negocia&ccedil;&atilde;o para desocupa&ccedil;&atilde;o do local, o superintendente do Incra tamb&eacute;m falou sobre as dificuldades que a autarquia federal t&ecirc;m para atender as demandas das camponesas. Segundo ele, o Or&ccedil;amento geral do Incra para 2016 &eacute; R$ 714 milh&otilde;es, metade do valor de 2013, e que este ano devem ocorrer &quot;grandes cortes&quot; de gastos nas superintend&ecirc;ncias regionais. &ldquo;&Eacute; um cen&aacute;rio de muitos cortes e dificuldades de acompanhar os assentamentos e realizar a reforma agr&aacute;ria&rdquo;, declarou.</span></p>
+<p><br />
+De acordo com Ramos, foram assegurados R$ 497 milh&otilde;es para manter os contratos de assist&ecirc;ncia t&eacute;cnica nas &aacute;reas de reforma agr&aacute;ria de todo o Brasil. Deste valor, R$ 17 milh&otilde;es s&atilde;o para execu&ccedil;&atilde;o do programa no RS at&eacute; dezembro deste ano.</p>
 
-<p class="p1">&nbsp;</p>
+<p><br />
+Sobre a destina&ccedil;&atilde;o de novas &aacute;reas para a reforma agr&aacute;ria n&atilde;o h&aacute; muitos avan&ccedil;os. Ramos disse que o Instituto enfrenta dificuldades para criar assentamentos, uma vez que &ldquo;ningu&eacute;m quer receber em T&iacute;tulos da D&iacute;vida Agr&aacute;ria&rdquo;. J&aacute; o Estado afirma que tem dispon&iacute;vel &aacute;reas da Companhia Estadual de Silos e Armaz&eacute;ns (Cesa), Companhia Estadual de Energia El&eacute;trica (CEEE) e Instituto Riograndense do Arroz (Irga) para negocia&ccedil;&atilde;o com o governo federal.</p>
 
-<p class="p1"><img alt="4.jpg" height="525" src="//farm2.staticflickr.com/1668/25570374892_e99a015237_b.jpg" width="700" /></p>
+<p><br />
+Durante as reuni&otilde;es de negocia&ccedil;&atilde;o para desocupa&ccedil;&atilde;o do local, o superintendente do Incra tamb&eacute;m falou sobre as dificuldades que a autarquia federal t&ecirc;m para atender as demandas das camponesas. Segundo ele, o Or&ccedil;amento geral do Incra para 2016 &eacute; R$ 714 milh&otilde;es, metade do valor de 2013, e que este ano devem ocorrer &quot;grandes cortes&quot; de gastos nas superintend&ecirc;ncias regionais. &ldquo;&Eacute; um cen&aacute;rio de muitos cortes e dificuldades de acompanhar os assentamentos e realizar a reforma agr&aacute;ria&rdquo;, declarou.</p>
+
+<p>&nbsp;</p>
+
+<p><img alt="4.jpg" height="525" src="//farm2.staticflickr.com/1668/25570374892_e99a015237_b.jpg" width="700" /></p>
 
 <p class="p1"><br />
 <strong><span class="s1">Avalia&ccedil;&atilde;o MST e MAB</span></strong></p>
