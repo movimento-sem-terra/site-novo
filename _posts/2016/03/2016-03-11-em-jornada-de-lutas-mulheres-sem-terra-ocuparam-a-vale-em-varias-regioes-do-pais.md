@@ -4,7 +4,7 @@ tags:
   - tag: vale
   - tag: jornada-nacional-de-lutas-da-mulheres
   - tag: mulheres
-title: "Em Jornada de lutas, mulheres Sem Terra ocuparam a Vale em várias regiões do país"
+title: Vale é denunciada por impactos sociais e ambientais em várias regiões do país
 support_line: "Em ações que se espalharam por diversas cidades as mulheres denunciaram os impactos causados pela Vale ao meio ambiente, e as regiões em que a empresa está instalada. "
 menu: lutas e mobilizações
 images_hd: //farm2.staticflickr.com/1617/25586446552_df4be8e0a1_b.jpg
@@ -34,6 +34,12 @@ files:
     small: //farm2.staticflickr.com/1617/25586446552_df4be8e0a1_n.jpg
     title: 12670406_1066275710111809_8639070756902429925_n.jpg
     $$hashKey: "101"
+  - link: //farm2.staticflickr.com/1709/25707862225_6fef0c447f_b.jpg
+    thumbnail: //farm2.staticflickr.com/1709/25707862225_6fef0c447f_t.jpg
+    medium: //farm2.staticflickr.com/1709/25707862225_6fef0c447f_z.jpg
+    small: //farm2.staticflickr.com/1709/25707862225_6fef0c447f_n.jpg
+    title: 24994452444_c0111ffc73_b.jpg
+    $$hashKey: 05W
 created_date: "2016-03-11T17:02:42-03:00"
 published: true
 releated_posts:
@@ -73,7 +79,7 @@ Os impactos provocados pela Vale no Maranh&atilde;o e Par&aacute;, por onde perc
 <p><img alt="25528209311_5731512191_b.jpg" height="394" src="//farm2.staticflickr.com/1620/25586446202_ed93e466b3_b.jpg" width="700" /></p>
 
 <p><br />
-J&aacute; no Par&aacute; as Sem Terra no munic&iacute;pio de Parauapebas, sudoeste paraense, 500 mulheres realizaram um ato pacifista e de den&uacute;ncias contra a Vale.&nbsp;</p>
+No Par&aacute; as Sem Terra no munic&iacute;pio de Parauapebas, sudoeste paraense, 500 mulheres realizaram um ato pacifista e de den&uacute;ncias contra a Vale.&nbsp;</p>
 
 <p><br />
 No entanto, o direito de manifesta&ccedil;&atilde;o foi reprimido pela pol&iacute;cia militar na maior prov&iacute;ncia mineral do planeta: A Serra dos Caraj&aacute;s.</p>
@@ -108,6 +114,22 @@ Cidades como Governador Valadares, Colatina e Linhares, no Esp&iacute;rito Santo
 <p><br />
 O Ars&ecirc;nio &eacute; utilizado principalmente na extra&ccedil;&atilde;o de ouro, ou seja, &eacute; um ind&iacute;cio de que poderia haver extra&ccedil;&atilde;o ilegal nestas minas.&nbsp;</p>
 
+<p><img alt="24994452444_c0111ffc73_b.jpg" height="394" src="//farm2.staticflickr.com/1709/25707862225_6fef0c447f_b.jpg" width="700" /></p>
+
+<p>J&aacute; capital carioca,&nbsp;300 camponesas e camponeses ligados ao MST e ao Movimento dos Atingidos por Barragens (MAB) realizar&atilde;o um&nbsp;protesto contra a Vale no Rio de Janeiro.</p>
+
 <p><br />
-As mulheres Sem Terra afirmam que seguir&atilde;o firma na luta contra toda viol&ecirc;ncia, injusti&ccedil;a e impunidade. 2016 ser&aacute; um ano de luta protagonizado pelas mulheres em todo o Brasil.&nbsp;<br />
+A a&ccedil;&atilde;o aconteceu&nbsp;em frente ao escrit&oacute;rio da Vale, no Leblon, teve como objetivo denunciar e responsabilizar a empresa pelo crime social e ambiental ocorrido em Mariana, onde centenas de pessoas, segundo informa&ccedil;&otilde;es do MAB, ainda est&atilde;o desalojadas e desempregadas.</p>
+
+<p><br />
+Para Elisangela Carvalho, da dire&ccedil;&atilde;o nacional do MST, a Vale fez uma tentativa de se esconder e evitar protestos na porta da sua sede ao mudar de endere&ccedil;o do Centro do Rio de Janeiro para o Leblon. &quot;N&atilde;o adianta ela se esconder. Vamos continuar nossas den&uacute;ncias contra a Vale para mostrar o mal que ela causa a sociedade&quot;.</p>
+
+<p><br />
+Durante a a&ccedil;&atilde;o, jovens do Levante Popular realizaram uma m&iacute;stica em que, simbolicamente, devolveram para a Vale a sujeira que a Samarco criou em Mariana. Eles espalharam lama, bandeiras do MAB sujas de terra e recipientes de pl&aacute;sticos, que armazenavam a lama, na frente da sede da Vale. Os nomes dos 19 mortos no desastre de Mariana foram mencionados em voz alta.</p>
+
+<p><br />
+A mobiliza&ccedil;&atilde;o questionou o atual modelo de minera&ccedil;&atilde;o e denunciou seus riscos ambientais. Para o MST, esse &eacute; um modelo &ldquo;predat&oacute;rio&rdquo;. &quot;A vale mata rio e mata gente. Por isso, n&atilde;o podemos permitir que este modelo de desenvolvimento permane&ccedil;a. Isso n&atilde;o &eacute; progresso e sim, preju&iacute;zos, danos e mortes&quot;, finalizou Elisangela.</p>
+
+<p><br />
+As mulheres Sem Terra de todo pa&iacute;s&nbsp;afirmam que seguir&atilde;o firma na luta contra toda viol&ecirc;ncia, injusti&ccedil;a e impunidade. 2016 ser&aacute; um ano de luta protagonizado pelas mulheres em todo o Brasil.&nbsp;<br />
 &nbsp;</p>
