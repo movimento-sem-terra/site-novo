@@ -30,24 +30,24 @@ releated_posts:
 <p><em>Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
-O Movimento dos Trabalhadores Rurais Sem Terra&nbsp;vem a p&uacute;blico esclarecer e repudiar as informa&ccedil;&otilde;es&nbsp;divulgados pela TV Tarob&aacute;, de Cascavel,&nbsp;afiliada &agrave; Rede Bandeirantes, sobre um suposto sequestro de sua equipe de jornalistas ocorrido em Quedas do Igua&ccedil;u, no in&iacute;cio da tarde da&nbsp;&uacute;ltima&nbsp;quarta-feira (09).<br />
+O Movimento dos Trabalhadores Rurais Sem Terra&nbsp;vem a p&uacute;blico esclarecer e repudiar as informa&ccedil;&otilde;es&nbsp;divulgados pela TV Tarob&aacute;, de Cascavel,&nbsp;afiliada &agrave; Rede Bandeirantes, sobre o&nbsp;suposto sequestro de sua equipe de jornalistas ocorrido em Quedas do Igua&ccedil;u, no in&iacute;cio da tarde da&nbsp;&uacute;ltima&nbsp;quarta-feira (9).<br />
 <br />
-1- Lamentamos muito o fato da emissora n&atilde;o se atentar para devidos cuidados na apura&ccedil;&atilde;o de uma pauta, como, por exemplo, contatar a assessoria de impressa do MST.</p>
+1- Lamentamos muito o fato da emissora n&atilde;o se atentar aos devidos cuidados na apura&ccedil;&atilde;o de uma pauta, como, por exemplo, contatar a assessoria de impressa do MST.</p>
 
 <p><br />
-2. Os jornalistas chegaram de longe, as escondidas fazendo imagens sem nenhum acordo com Movimento, em nenhum momento existiu&nbsp;viol&ecirc;ncia, armas ou algo coer&ccedil;&atilde;o.&nbsp;Tanto que n&atilde;o existe nenhuma imagem que comprove qualquer tipo de&nbsp;agress&atilde;o. Essa emissora h&aacute;&nbsp;muito tempo criminaliza as a&ccedil;&otilde;es do MST, com not&iacute;cias raivosas&nbsp;e posicionamentos preconceituosos, exemplo mais recente, as ocupa&ccedil;&otilde;es do Movimento nas &aacute;reas griladas pela empresa Araupel.</p>
+2. Os jornalistas chegaram de longe, as escondidas fazendo imagens sem nenhum acordo com o Movimento, em nenhum momento existiu&nbsp;viol&ecirc;ncia, armas ou alguma&nbsp;coer&ccedil;&atilde;o.&nbsp;Prova disso &eacute;&nbsp;que n&atilde;o existe nenhuma imagem que comprove qualquer tipo de&nbsp;agress&atilde;o. Essa emissora h&aacute;&nbsp;muito tempo criminaliza as a&ccedil;&otilde;es do MST, com not&iacute;cias raivosas&nbsp;e posicionamentos preconceituosos, exemplo mais recente, as ocupa&ccedil;&otilde;es do Movimento nas &aacute;reas griladas pela empresa Araupel.</p>
 
 <p><br />
-3. Existe uma orienta&ccedil;&atilde;o para todas as fam&iacute;lias do Movimento, para que <span style="line-height: 20.8px;">n&atilde;o&nbsp;</span>concedam&nbsp;entrevistas a essa emissora&nbsp;devido a outras situa&ccedil;&otilde;es em que as vers&otilde;es do MST foram distorcidas pela empresa, e pela constante criminaliza&ccedil;&atilde;o do canal de comunica&ccedil;&atilde;o aos movimentos sociais, rurais,&nbsp;urbanos, sindicatos e outros movimentos ligado a classe trabalhadora.</p>
+3. Existe uma orienta&ccedil;&atilde;o para todas as fam&iacute;lias do Movimento, para que <span style="line-height: 20.8px;">n&atilde;o&nbsp;</span>concedam&nbsp;entrevista&nbsp;a essa emissora&nbsp;por contra de outras situa&ccedil;&otilde;es em que as vers&otilde;es do MST foram distorcidas pela empresa, e tamb&eacute;m&nbsp;pela constante criminaliza&ccedil;&atilde;o do canal de comunica&ccedil;&atilde;o aos movimentos sociais, rurais,&nbsp;urbanos, sindicatos e outros movimentos ligado a classe trabalhadora.</p>
 
 <p><br />
-4. &Eacute; um direito do Movimento, como de qualquer entidade, escolher para quais emissoras ir&aacute; dar entrevistas, prova disso &eacute; que o MST&nbsp;n&atilde;o se negou a receber outras emissoras,&nbsp;sempre tratando&nbsp;os profissionais da comunica&ccedil;&atilde;o com muito profissionalismo e respeito.</p>
+4. &Eacute; um direito do Movimento, assim como de qualquer outra entidade, escolher para quais emissoras ir&aacute; dar entrevistas, prova disso, &eacute; que o MST&nbsp;n&atilde;o se negou em&nbsp;receber outras emissoras,&nbsp;sempre tratando&nbsp;os profissionais da comunica&ccedil;&atilde;o com muito profissionalismo e respeito.</p>
 
 <p><br />
 5. O Movimento Sem Terra afirma: Defendemos a liberdade de express&atilde;o, somos contra o monop&oacute;lio do meios de comunica&ccedil;&atilde;o, defendemos que eles sejam democratizados, para isso, &eacute; preciso regulamentar a m&iacute;dia, que n&atilde;o expressa a pluralidade e diversidade em seus posicionamentos.</p>
 
 <p><br />
-N&atilde;o temos nada contra os trabalhadores jornalistas, mas discordamos da linha editorial adotada pelos seus patr&otilde;es.&nbsp;A assessoria de imprensa do MST esta &agrave;&nbsp;disposi&ccedil;&atilde;o para maiores esclarecimentos.</p>
+N&atilde;o temos nada contra os trabalhadores jornalistas, mas, discordamos da linha editorial adotada pelos seus patr&otilde;es.&nbsp;A assessoria de imprensa do MST esta &agrave;&nbsp;disposi&ccedil;&atilde;o para maiores esclarecimentos.</p>
 
 <p>&nbsp;</p>
 
