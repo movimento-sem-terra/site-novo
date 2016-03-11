@@ -6,7 +6,7 @@ tags:
   - tag: nota-de-repudio
   - tag: democratização-da-comunicação
 support_line: "Não temos nada contra os trabalhadores jornalistas, mas discordamos da linha editorial adotada pelos seus patrões. "
-title: "Em nota, MST repudia falsa notícia sobre sequestro de sua equipe"
+title: "Em nota, MST repudia falsa notícia sobre sequestro de jornalistas da TV Tarobá"
 menu: lutas e mobilizações
 images_hd: //farm2.staticflickr.com/1617/25070773773_5b2a1875c4_b.jpg
 layout: post
