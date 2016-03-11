@@ -40,6 +40,12 @@ files:
     small: //farm2.staticflickr.com/1709/25707862225_6fef0c447f_n.jpg
     title: 24994452444_c0111ffc73_b.jpg
     $$hashKey: 05W
+  - link: //farm2.staticflickr.com/1687/25081855843_9e84e7661f_b.jpg
+    thumbnail: //farm2.staticflickr.com/1687/25081855843_9e84e7661f_t.jpg
+    medium: //farm2.staticflickr.com/1687/25081855843_9e84e7661f_z.jpg
+    small: //farm2.staticflickr.com/1687/25081855843_9e84e7661f_n.jpg
+    title: luta -1.jpg
+    $$hashKey: 0IV
 created_date: "2016-03-11T17:02:42-03:00"
 published: true
 releated_posts:
@@ -47,6 +53,7 @@ releated_posts:
   - _posts/2015/12/2015-12-21-a-vale-da-morte-uma-tragedia-que-podera-ficar-impune.md
   - _posts/2016/03/2016-03-07-mulheres-ocupam-os-trilhos-da-vale-no-maranhao.md
   - _posts/2016/03/2016-03-05-em-jornada-de-luta-mulheres-sem-terra-denunciam-o-agronegocio.md
+  - _posts/2016/03/2016-03-05-mais-de-mil-mulheres-sem-terra-ocupam-fazenda-autuada-por-trabalho-escravo-na-ba.md
 
 ---
 <p><img alt="25585455516_50fbfb2ba4_b.jpg" height="412" src="//farm2.staticflickr.com/1506/25707482175_f5e804a1c2_b.jpg" width="700" /></p>
@@ -54,9 +61,8 @@ releated_posts:
 <p><br />
 <em>Da P&aacute;gina do MST&nbsp;</em></p>
 
-<p>&nbsp;</p>
-
-<p>Durante a&nbsp;semana da Jornada&nbsp;de lutas, mulheres do MST deram o recado &agrave; causadora da maior trag&eacute;dia ambiental do Brasil, a Vale do Rio Doce.&nbsp;</p>
+<p><br />
+Durante a&nbsp;semana da Jornada&nbsp;de lutas, mulheres do MST deram o recado &agrave; causadora da maior trag&eacute;dia ambiental do Brasil, a Vale do Rio Doce.&nbsp;</p>
 
 <p><br />
 Em a&ccedil;&otilde;es que se espalharam por diversas cidades as mulheres denunciaram os impactos sociais e ambientais provocados pela Vale nas regi&otilde;es em que&nbsp;est&aacute; instalada.&nbsp;</p>
@@ -95,10 +101,11 @@ Para Ayala Ferreira, da dire&ccedil;&atilde;o do MST, a pol&iacute;cia mais uma 
 <p><br />
 As trabalhadoras rurais afirmam que n&atilde;o se calar&atilde;o diante dos &oacute;rg&atilde;os repressores nas manifesta&ccedil;&otilde;es populares e que a falta de pol&iacute;ticas p&uacute;blicas para &aacute;reas do campo como sa&uacute;de, educa&ccedil;&atilde;o, lazer, produ&ccedil;&atilde;o agroecol&oacute;gica, cultura, prote&ccedil;&atilde;o social e previdenci&aacute;ria, contribuem para a desigualdade social e refor&ccedil;am a viol&ecirc;ncia contra as mulheres.&nbsp;</p>
 
-<p><br />
-<span style="line-height: 20.8px;">Em Minas Gerais, 1500 mulheres Sem Terra da regi&atilde;o sudeste tamb&eacute;m ocuparam as depend&ecirc;ncias da mineradora Samarco/Vale, nos arredores da Barragem de Germano (Fund&atilde;o) travando as estradas, os trilhos e toda extra&ccedil;&atilde;o do Complexo de Mariana.</span></p>
-
 <p>&nbsp;</p>
+
+<p><img alt="luta -1.jpg" height="463" src="//farm2.staticflickr.com/1687/25081855843_9e84e7661f_b.jpg" width="700" /><br />
+<br />
+<span style="line-height: 20.8px;">Em Minas Gerais, 1500 mulheres Sem Terra da regi&atilde;o sudeste tamb&eacute;m ocuparam as depend&ecirc;ncias da mineradora Samarco/Vale, nos arredores da Barragem de Germano (Fund&atilde;o) travando as estradas, os trilhos e toda extra&ccedil;&atilde;o do Complexo de Mariana.</span></p>
 
 <p><br />
 A a&ccedil;&atilde;o foi organizada em conjunto com o Movimento pela Soberania Popular na Minera&ccedil;&atilde;o e teve o objetivo de denunciar a impunidade no maior crime ambiental da hist&oacute;ria do pa&iacute;s. Passados quatro meses a maior parte das fam&iacute;lias atingidas ainda segue sem qualquer tipo de assist&ecirc;ncia.&nbsp;</p>
@@ -112,12 +119,15 @@ Cidades como Governador Valadares, Colatina e Linhares, no Esp&iacute;rito Santo
 <p><br />
 O Ars&ecirc;nio &eacute; utilizado principalmente na extra&ccedil;&atilde;o de ouro, ou seja, &eacute; um ind&iacute;cio de que poderia haver extra&ccedil;&atilde;o ilegal nestas minas.&nbsp;</p>
 
+<p>&nbsp;</p>
+
 <p><img alt="24994452444_c0111ffc73_b.jpg" height="394" src="//farm2.staticflickr.com/1709/25707862225_6fef0c447f_b.jpg" width="700" /></p>
 
-<p>J&aacute; capital carioca,&nbsp;300 camponesas e camponeses ligados ao MST e ao Movimento dos Atingidos por Barragens (MAB) realizar&atilde;o um&nbsp;protesto contra a Vale no Rio de Janeiro.</p>
+<p><br />
+J&aacute; na capital carioca,&nbsp;300 camponesas e camponeses ligados ao MST e ao Movimento dos Atingidos por Barragens (MAB) realizaram um&nbsp;protesto contra a Vale no Rio de Janeiro.</p>
 
 <p><br />
-A a&ccedil;&atilde;o aconteceu&nbsp;em frente ao escrit&oacute;rio da Vale, no Leblon, teve como objetivo denunciar e responsabilizar a empresa pelo crime social e ambiental ocorrido em Mariana, onde centenas de pessoas, segundo informa&ccedil;&otilde;es do MAB, ainda est&atilde;o desalojadas e desempregadas.</p>
+A a&ccedil;&atilde;o aconteceu&nbsp;em frente ao escrit&oacute;rio da Vale, no Leblon, e teve como objetivo denunciar e responsabilizar a empresa pelo crime social e ambiental ocorrido em Mariana, onde centenas de pessoas, segundo informa&ccedil;&otilde;es do MAB, ainda est&atilde;o desalojadas e desempregadas.</p>
 
 <p><br />
 Para Elisangela Carvalho, da dire&ccedil;&atilde;o nacional do MST, a Vale fez uma tentativa de se esconder e evitar protestos na porta da sua sede ao mudar de endere&ccedil;o do Centro do Rio de Janeiro para o Leblon. &quot;N&atilde;o adianta ela se esconder. Vamos continuar nossas den&uacute;ncias contra a Vale para mostrar o mal que ela causa a sociedade&quot;.</p>
@@ -129,5 +139,4 @@ Durante a a&ccedil;&atilde;o, jovens do Levante Popular realizaram uma m&iacute;
 A mobiliza&ccedil;&atilde;o questionou o atual modelo de minera&ccedil;&atilde;o e denunciou seus riscos ambientais. Para o MST, esse &eacute; um modelo &ldquo;predat&oacute;rio&rdquo;. &quot;A vale mata rio e mata gente. Por isso, n&atilde;o podemos permitir que este modelo de desenvolvimento permane&ccedil;a. Isso n&atilde;o &eacute; progresso e sim, preju&iacute;zos, danos e mortes&quot;, finalizou Elisangela.</p>
 
 <p><br />
-As mulheres Sem Terra de todo pa&iacute;s&nbsp;afirmam que seguir&atilde;o firma na luta contra toda viol&ecirc;ncia, injusti&ccedil;a e impunidade. 2016 ser&aacute; um ano de luta protagonizado pelas mulheres em todo o Brasil.&nbsp;<br />
-&nbsp;</p>
+As mulheres Sem Terra de todo pa&iacute;s&nbsp;afirmam que seguir&atilde;o firma na luta contra toda viol&ecirc;ncia, injusti&ccedil;a e impunidade. 2016 ser&aacute; um ano de luta protagonizado pelas mulheres em todo o Brasil.&nbsp;</p>
