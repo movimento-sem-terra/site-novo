@@ -7,7 +7,7 @@ tags:
 title: "23 anos de assassinato do Sem Terra Diniz Bento da Silva, o Teixeirinha"
 support_line: "Dirigente do MST,  foi torturado e morto por policiais, na ocupação realizada pelo Movimento na Fazenda Santana em Campo Bonito em1993."
 menu: direitos humanos
-images_hd: //farm2.staticflickr.com/1650/25073816134_7d3432c055_b.jpg
+images_hd: //farm2.staticflickr.com/1601/25077599753_def03aff39_b.jpg
 layout: post
 files:
   - link: //farm2.staticflickr.com/1601/25077599753_def03aff39_b.jpg
@@ -31,6 +31,8 @@ releated_posts:
   - _posts/2015/07/2015-07-01-em-boca-fechada-nao-entra-bala.md
 
 ---
+<p style="text-align:center"><img alt="Teixeirinha.jpg" src="//farm2.staticflickr.com/1650/25073816134_7d3432c055_b.jpg" /></p>
+
 <p>&nbsp;</p>
 
 <p><em>Por Geani Paula e Riquieli Capitani&nbsp;<br />
