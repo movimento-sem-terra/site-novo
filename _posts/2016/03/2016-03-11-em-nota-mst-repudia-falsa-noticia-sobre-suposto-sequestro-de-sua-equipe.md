@@ -6,7 +6,7 @@ tags:
   - tag: nota-de-repudio
   - tag: democratização-da-comunicação
 support_line: "Não temos nada contra os trabalhadores jornalistas, mas discordamos da linha editorial adotada pelos seus patrões. "
-title: "Em Nota, MST repudia falsa notícia sobre suposto sequestro de sua equipe    "
+title: "Em nota, MST repudia falsa notícia sobre sequestro de sua equipe"
 menu: lutas e mobilizações
 images_hd: //farm2.staticflickr.com/1617/25070773773_5b2a1875c4_b.jpg
 layout: post
@@ -29,9 +29,8 @@ releated_posts:
 ---
 <p><em>Da P&aacute;gina do MST&nbsp;</em></p>
 
-<p>&nbsp;</p>
-
-<p>O Movimento dos Trabalhadores Rurais Sem Terra&nbsp;vem a p&uacute;blico esclarecer e repudiar as informa&ccedil;&otilde;es&nbsp;divulgados pela TV Tarob&aacute;, de Cascavel,&nbsp;afiliada &agrave; Rede Bandeirantes, sobre um suposto sequestro de sua equipe de jornalistas ocorrido em Quedas do Igua&ccedil;u, no in&iacute;cio da tarde da&nbsp;&uacute;ltima&nbsp;quarta-feira (09).<br />
+<p><br />
+O Movimento dos Trabalhadores Rurais Sem Terra&nbsp;vem a p&uacute;blico esclarecer e repudiar as informa&ccedil;&otilde;es&nbsp;divulgados pela TV Tarob&aacute;, de Cascavel,&nbsp;afiliada &agrave; Rede Bandeirantes, sobre um suposto sequestro de sua equipe de jornalistas ocorrido em Quedas do Igua&ccedil;u, no in&iacute;cio da tarde da&nbsp;&uacute;ltima&nbsp;quarta-feira (09).<br />
 <br />
 1- Lamentamos muito o fato da emissora n&atilde;o se atentar para devidos cuidados na apura&ccedil;&atilde;o de uma pauta, como, por exemplo, contatar a assessoria de impressa do MST.</p>
 
