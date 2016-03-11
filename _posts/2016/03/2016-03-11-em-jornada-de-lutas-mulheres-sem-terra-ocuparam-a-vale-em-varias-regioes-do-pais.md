@@ -5,7 +5,7 @@ tags:
   - tag: jornada-nacional-de-lutas-da-mulheres
   - tag: mulheres
 title: "Em Jornada de lutas, mulheres Sem Terra ocuparam a Vale em várias regiões do país"
-support_line: "Em ações que se espalharam por diversas cidades as mulheres denunciaram os impactos causados pela Vale ao meio ambiente e a regiões em que a empresa está instalada. "
+support_line: "Em ações que se espalharam por diversas cidades as mulheres denunciaram os impactos causados pela Vale ao meio ambiente, e as regiões em que a empresa está instalada. "
 menu: lutas e mobilizações
 images_hd: //farm2.staticflickr.com/1617/25586446552_df4be8e0a1_b.jpg
 layout: post
@@ -54,11 +54,12 @@ releated_posts:
 <p>Em semana de lutas, mulheres do MST deram o recado &agrave; causadora da maior trag&eacute;dia ambiental do Brasil, a Vale do Rio Doce.&nbsp;</p>
 
 <p><br />
-Em a&ccedil;&otilde;es que se espalharam por diversas cidades as mulheres denunciaram os impactos causados pela Vale ao meio ambiente e a regi&otilde;es em que a empresa est&aacute; instalada.&nbsp;</p>
+Em a&ccedil;&otilde;es que se espalharam por diversas cidades as mulheres denunciaram os impactos causados pela Vale ao meio ambiente, e a regi&otilde;es em que a empresa est&aacute; instalada.&nbsp;</p>
 
 <p><br />
-Foi o caso do Maranh&atilde;o onde 300 mulheres Sem ocuparam os trilhos da Estrada de Ferro Caraj&aacute;s administrada e usada pela mineradora. Com a manifesta&ccedil;&atilde;o os trens de que transportam min&eacute;rio, desde a mina de Caraj&aacute;s em Parauapebas Par&aacute; &agrave; S&atilde;o Lu&iacute;s no Maranh&atilde;o, ficaram paralisados.<br />
-<br />
+Foi o caso do Maranh&atilde;o onde 300 mulheres Sem ocuparam os trilhos da Estrada de Ferro Caraj&aacute;s administrada e usada pela mineradora. Com a manifesta&ccedil;&atilde;o os trens de que transportam min&eacute;rio, desde a mina de Caraj&aacute;s em Parauapebas Par&aacute; &agrave; S&atilde;o Lu&iacute;s no Maranh&atilde;o, ficaram paralisados.</p>
+
+<p><br />
 As mulheres denunciaram a forma de atua&ccedil;&atilde;o destrutiva da empresa ao longo dos 25 munic&iacute;pios atravessados pelo corredor Caraj&aacute;s, tamb&eacute;m conhecido como Corredor da Morte.</p>
 
 <p><br />
