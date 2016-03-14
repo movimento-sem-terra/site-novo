@@ -4,7 +4,7 @@ tags:
   - tag: residência-em-saúde
   - tag: saúde
   - tag: médicos
-title: Programa se propõe a construir novo modelo de formação para profissionais de saúde que atuarão no campo
+title: Programa se propõe a construir novo modelo de formação para profissionais de saúde no campo
 support_line: O Programa de Residência Multiprofissional em Saúde da Família com ênfase na Saúde da População do Campo tem como objetivo superar a invisibilidade e a negligência histórica da saúde da população do campo.
 menu: reforma agrária
 images_hd: //farm2.staticflickr.com/1524/25689578181_41e340b49e_b.jpg
