@@ -109,4 +109,4 @@ Segundo informa&ccedil;&otilde;es do Jornal da Cidade/Bauru e Jornal do Comercio
 Em 2008, a liminar foi concedida pelo Juiz Jos&eacute; Roberto Tomazzi, da 1&deg; Vara do Trabalho da Comarca de Ja&uacute;.</p>
 
 <p><br />
-Segundo o procurador do Trabalho, Lu&iacute;s Henrique Rafael, aproximadamente R$ 2,5 milh&otilde;es foram bloqueados das contas banc&aacute;rias de empresas do Grupo. Ap&oacute;s Justi&ccedil;a determinar o bloqueio dos ativos financeiros do Grupo, esse valor foi repassado para uma conta judicial e esta &agrave; disposi&ccedil;&atilde;o da Justi&ccedil;a do Trabalho.&nbsp;</p>
+De acordo&nbsp;o procurador do Trabalho, Lu&iacute;s Henrique Rafael, aproximadamente R$ 2,5 milh&otilde;es foram bloqueados das contas banc&aacute;rias de empresas do Grupo. Ap&oacute;s Justi&ccedil;a determinar o bloqueio dos ativos financeiros do Grupo, esse valor foi repassado para uma conta judicial e esta &agrave; disposi&ccedil;&atilde;o da Justi&ccedil;a do Trabalho.&nbsp;</p>
