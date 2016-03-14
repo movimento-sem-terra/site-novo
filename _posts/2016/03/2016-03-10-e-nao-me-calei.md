@@ -35,7 +35,7 @@ releated_posts:
   - _posts/2015/12/2015-12-21-a-vale-da-morte-uma-tragedia-que-podera-ficar-impune.md
   - _posts/2016/01/2016-01-19-rio-doce-o-impacto-ainda-esta-acontecendo.md
   - _posts/2016/01/2016-01-14-pf-indicia-samarco-e-vale-por-tragedia-em-mariana.md
-section: cover
+section: featured-news
 
 ---
 <p><br />
