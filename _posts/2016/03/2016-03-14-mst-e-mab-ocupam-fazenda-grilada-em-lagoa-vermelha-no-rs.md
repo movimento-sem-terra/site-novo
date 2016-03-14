@@ -5,7 +5,7 @@ tags:
   - tag: mst
   - tag: ocupação
   - tag: rio-grande-do-sul
-title: "MST e MAB ocupam fazenda grilada em Lagoa Vermelha, no RS"
+title: MST e MAB ocupam fazenda grilada em Lagoa Vermelha no RS
 support_line: Os acampados no local são da própria região e a maioria são famílias sem-terra expulsas pela construção de barragens – há sete somente no Nordeste gaúcho.
 menu: lutas e mobilizações
 images_hd: //farm2.staticflickr.com/1677/25488525370_e017227f61_b.jpg
