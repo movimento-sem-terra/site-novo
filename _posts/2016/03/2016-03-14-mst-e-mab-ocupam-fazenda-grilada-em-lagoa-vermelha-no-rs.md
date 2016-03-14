@@ -36,7 +36,7 @@ releated_posts:
 Na madrugada desta segunda-feira (14), Dia Internacional de Luta contra as Barragens, 500 integrantes do MST e Movimento dos Atingidos por Barragens (MAB, ocuparam a fazenda Gazola, na regi&atilde;o Nordeste do Rio Grande do Sul.</p>
 
 <p><br />
-A &aacute;rea tem 500 hectares e est&aacute; localizada no munic&iacute;pio de Lagoa Vermelha &ndash; a dois quil&ocirc;metros do Centro da cidade. Com a ocupa&ccedil;&atilde;o os militantes denunciam a grilagem da fazenda e reivindicam a sua desapropria&ccedil;&atilde;o para reforma agr&aacute;ria. &ldquo;&Eacute; uma terra arrendada, e quem hoje lucra com ela n&atilde;o &eacute; o dono&rdquo;, afirma o coordenador do MAB, Arnaldo Pollo.</p>
+A &aacute;rea tem 500 hectares e est&aacute; localizada no munic&iacute;pio de Lagoa Vermelha &ndash; a dois quil&ocirc;metros do Centro da cidade. Com a ocupa&ccedil;&atilde;o os militantes denunciam a grilagem da fazenda e reivindicam a sua desapropria&ccedil;&atilde;o para reforma agr&aacute;ria. &ldquo;&Eacute; uma terra arrendada&nbsp;e quem hoje lucra com ela n&atilde;o &eacute; o dono&rdquo;, afirma o coordenador do MAB, Arnaldo Pollo.</p>
 
 <p><br />
 Os acampados no local s&atilde;o da pr&oacute;pria regi&atilde;o e a maioria s&atilde;o fam&iacute;lias sem-terra expulsas pela constru&ccedil;&atilde;o de barragens &ndash; h&aacute; sete somente no Nordeste ga&uacute;cho.</p>
