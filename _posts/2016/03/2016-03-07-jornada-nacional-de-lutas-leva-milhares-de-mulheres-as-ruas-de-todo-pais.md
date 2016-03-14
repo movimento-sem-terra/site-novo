@@ -64,6 +64,12 @@ files:
     small: //farm2.staticflickr.com/1701/25593469676_aa872497f8_n.jpg
     title: AhMi9bjw2NDaa8XSkTj50caQGq5tuD7odNNyMWHPTNSM.jpg
     $$hashKey: 1XQ
+  - link: //farm2.staticflickr.com/1704/25166214783_ff0b0a1655_b.jpg
+    thumbnail: //farm2.staticflickr.com/1704/25166214783_ff0b0a1655_t.jpg
+    medium: //farm2.staticflickr.com/1704/25166214783_ff0b0a1655_z.jpg
+    small: //farm2.staticflickr.com/1704/25166214783_ff0b0a1655_n.jpg
+    title: 1013304_1280097122016840_4311530060684094202_n.jpg
+    $$hashKey: "437"
 created_date: "2016-03-07T15:36:54-03:00"
 published: true
 releated_posts:
@@ -73,7 +79,8 @@ releated_posts:
 section: featured-news
 
 ---
-<p><br />
+<p><img alt="1013304_1280097122016840_4311530060684094202_n.jpg" height="463" src="//farm2.staticflickr.com/1704/25166214783_ff0b0a1655_b.jpg" width="700" /><br />
+<br />
 <em>Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
