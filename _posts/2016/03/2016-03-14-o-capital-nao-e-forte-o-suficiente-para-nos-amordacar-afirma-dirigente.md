@@ -49,6 +49,12 @@ Outro tema lembrando foi a impunidade do Massacre de Eldorado de Caraj&aacute;s 
 Em entrevista Lucin&eacute;ia Miranda de Freitas, do coletivo de mulheres do MST, avalia a Jornada de Lutas, fala das batalhas enfrentadas pela mulher Sem Terra e tra&ccedil;a o panorama de lutas para o pr&oacute;ximo per&iacute;odo.</p>
 
 <p><br />
+&quot;Vamos avivar na mem&oacute;ria do povo brasileiro que j&aacute; s&atilde;o 20 anos de impunidade do massacre de Caraj&aacute;s. E mais uma vez, afirmamos que &ldquo;N&atilde;o nos calaremos&rdquo;. Que o Estado e o capital n&atilde;o s&atilde;o fortes o suficiente para nos amorda&ccedil;ar. E que nosso papel de articular e fortalecer a organiza&ccedil;&atilde;o das mulheres na luta contra todas as formas de opress&atilde;o seguir&aacute; avan&ccedil;ando&quot;, ressalta Lucin&eacute;ia.&nbsp;</p>
+
+<p><br />
+<strong>Confira abaixo a entrevista completa.</strong></p>
+
+<p><br />
 <strong>Foram mais de 30 mil mulheres mobilizadas em 22 estados, qual avalia&ccedil;&atilde;o que podemos fazer da Jornada diante desses n&uacute;meros?</strong></p>
 
 <p><br />
@@ -103,4 +109,4 @@ Al&eacute;m dessa repress&atilde;o e criminaliza&ccedil;&atilde;o das lutas soci
 A pauta das mulheres ser&aacute; a de construir os processos de lutas e enfrentamentos nos quais o MST esteja envolvido, desde o planejamento at&eacute; a articula&ccedil;&atilde;o e efetiva&ccedil;&atilde;o das mesmas. Logo, a Jornada das Mulheres abriu o calend&aacute;rio de lutas que segue com as mobiliza&ccedil;&otilde;es da Frente Brasil Popular contra o golpe e por uma nova pol&iacute;tica econ&ocirc;mica.</p>
 
 <p><br />
-Em abril, a Jornada ser&aacute; simb&oacute;lica, pois vamos avivar na mem&oacute;ria do povo brasileiro que j&aacute; s&atilde;o 20 anos de impunidade do massacre de Caraj&aacute;s. E mais uma vez, afirmaremos que &ldquo;N&atilde;o nos calaremos&rdquo;. Que o Estado e o capital n&atilde;o s&atilde;o fortes o suficiente para nos amorda&ccedil;ar. E que nosso papel de articular e fortalecer a organiza&ccedil;&atilde;o das mulheres na luta contra todas as formas de opress&atilde;o seguir&aacute; avan&ccedil;ando.&nbsp;</p>
+Em abril, a Jornada ser&aacute; simb&oacute;lica, pois vamos avivar na mem&oacute;ria do povo brasileiro que j&aacute; s&atilde;o 20 anos de impunidade do massacre de Caraj&aacute;s. E mais uma vez, afirmamos que &ldquo;N&atilde;o nos calaremos&rdquo;. Que o Estado e o capital n&atilde;o s&atilde;o fortes o suficiente para nos amorda&ccedil;ar. E que nosso papel de articular e fortalecer a organiza&ccedil;&atilde;o das mulheres na luta contra todas as formas de opress&atilde;o seguir&aacute; avan&ccedil;ando.&nbsp;</p>
