@@ -33,7 +33,7 @@ releated_posts:
 Da p&aacute;gina do MST</em></p>
 
 <p><br />
-O MST lan&ccedil;ou na manh&atilde; de hoje (14) uma nota p&uacute;blica em solidariedade &agrave; comunidade Batista do bairro do Pinheiro, em Macei&oacute;, estado de Alagoas, em apoio aos Pastores Wellington e Odja Soares, que v&ecirc;m recebendo ataques e amea&ccedil;as pela aceita&ccedil;&atilde;o de homossexuais como membros da igreja.</p>
+O MST lan&ccedil;ou na manh&atilde; de hoje (14) uma nota p&uacute;blica em solidariedade &agrave; comunidade Batista do bairro do Pinheiro, em Macei&oacute;, estado de Alagoas, em apoio aos Pastores Wellington e Odja Barros, que v&ecirc;m recebendo ataques e amea&ccedil;as pela aceita&ccedil;&atilde;o de homossexuais como membros da igreja.</p>
 
 <p><br />
 O Movimento destaca o respeito e confian&ccedil;a na hist&oacute;ria dos pastores que sempre estiveram lado a lado das organiza&ccedil;&otilde;es populares de Alagoas, na luta contra toda forma de injusti&ccedil;a e explora&ccedil;&atilde;o.</p>
@@ -54,13 +54,13 @@ Segundo trecho da nota, a trajet&oacute;ria dos pastores frente &agrave; comunid
 &ldquo;Malditas sejam todas as cercas que nos privam de viver e de amar!&rdquo;</p>
 
 <p><br />
-O Movimento dos Trabalhadores&nbsp; Rurais Sem Terra (MST) vem &agrave; p&uacute;blico manifestar apoio e solidariedade ao Pastor Wellington Santos e Pastora Odja Santos, diante dos recentes ataques e ofensas que v&ecirc;m sofrendo em virtude da formaliza&ccedil;&atilde;o da aceita&ccedil;&atilde;o de pessoas homoafetivas como membros da Igreja Batista do Pinheiro em Macei&oacute;, Alagoas.</p>
+O Movimento dos Trabalhadores&nbsp; Rurais Sem Terra (MST) vem &agrave; p&uacute;blico manifestar apoio e solidariedade ao Pastor Wellington Santos e Pastora Odja Barros, diante dos recentes ataques e ofensas que v&ecirc;m sofrendo em virtude da formaliza&ccedil;&atilde;o da aceita&ccedil;&atilde;o de pessoas homoafetivas como membros da Igreja Batista do Pinheiro em Macei&oacute;, Alagoas.</p>
 
 <p><br />
 Reconhecemos que foi uma decis&atilde;o hist&oacute;rica e corajosa tomada pelos membros dessa comunidade crist&atilde;. Compartilhamos de um profundo respeito, admira&ccedil;&atilde;o e confian&ccedil;a &agrave; trajet&oacute;ria da Comunidade Batista do Pinheiro, em que, historicamente, se coloca como aguerrida defensora dos trabalhadores e trabalhadoras do campo e contra todas as formas de injusti&ccedil;a social em nosso estado.</p>
 
 <p><br />
-Essa Igreja, atualmente liderada pelo pastor Wellington Santos e pela pastora Odja Santos, v&ecirc;m caminhando lado a lado com o povo, sendo protagonistas na defesa da igualdade social, contra a intoler&acirc;ncia, o preconceito e toda forma de viol&ecirc;ncia ao povo alagoano, jamais se furtando do acolhimento e da solidariedade aos movimentos sociais.</p>
+Essa Igreja, atualmente liderada pelo pastor Wellington Santos e pela pastora Odja Barros, v&ecirc;m caminhando lado a lado com o povo, sendo protagonistas na defesa da igualdade social, contra a intoler&acirc;ncia, o preconceito e toda forma de viol&ecirc;ncia ao povo alagoano, jamais se furtando do acolhimento e da solidariedade aos movimentos sociais.</p>
 
 <p><br />
 &Eacute; importante lembrar que a intoler&acirc;ncia mata todos os dias dezenas de pessoas, posicionando Alagoas como o estado mais perigoso para jovens negros, o terceiro mais perigoso para as mulheres e o quinto estado no Brasil mais perigoso para homossexuais viverem. No Nordeste, lidera o ranking de assassinatos por homofobia, colocando esta como uma quest&atilde;o urgente para a reflex&atilde;o e a&ccedil;&atilde;o das organiza&ccedil;&otilde;es sociais e populares, do Estado e tamb&eacute;m da Igreja.</p>
