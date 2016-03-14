@@ -4,7 +4,7 @@ tags:
   - tag: são-paulo
   - tag: ocupação
   - tag: reforma-agrária
-title: MST ocupa fazenda Martinópólis em São Paulo
+title: Sem Terra ocupam fazenda Martinópólis em São Paulo
 images_hd: //farm2.staticflickr.com/1588/25791863465_753ede5814_b.jpg
 support_line: "O Movimento afirma que a terra é do Estado e deve ser destinada para fins de Reforma Agrária. "
 menu: lutas e mobilizações
