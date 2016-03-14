@@ -25,6 +25,7 @@ releated_posts:
   - _posts/2016/03/2016-03-07-na-paraiba-mulheres-saem-as-ruas-na-luta-em-defesa-da-alimentacao-saudavel.md
   - _posts/2016/03/2016-03-07-mulheres-debatem-as-formas-de-opressao-do-capital-no-campo.md
   - _posts/2016/03/2016-03-07-apos-ocupacoes-no-interior-de-alagoas-camponesas-montam-acampamento-em-maceio.md
+section: cover
 
 ---
 <p><br />
