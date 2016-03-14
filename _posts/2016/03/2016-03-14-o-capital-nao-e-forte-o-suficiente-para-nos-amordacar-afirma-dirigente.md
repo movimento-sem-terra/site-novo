@@ -31,6 +31,9 @@ section: cover
 <p><br />
 <img alt="25619736646_f24fb88231_b.jpg" height="466" src="//farm2.staticflickr.com/1507/25696392521_7c89883a06_b.jpg" width="700" /></p>
 
+<p><em>Por Maura Silva&nbsp;<br />
+Da P&aacute;gina do MST</em></p>
+
 <p><br />
 Em mais uma Jornada Nacional de Lutas milhares de Sem Terra sa&iacute;ram &agrave;s ruas de todo o Brasil. Com o lema Mulheres na luta em defesa da natureza e alimenta&ccedil;&atilde;o saud&aacute;vel, contra o agroneg&oacute;cio, as trabalhadoras rurais se mobilizaram durante a primeira quinzena de mar&ccedil;o, em todo pa&iacute;s, para chamar a aten&ccedil;&atilde;o da sociedade referente ao modelo destrutivo do agroneg&oacute;cio para o meio ambiente, a amea&ccedil;a &agrave; soberania alimentar do pa&iacute;s e a vida da popula&ccedil;&atilde;o brasileira, que afeta de forma direta a realidade das mulheres.&nbsp;</p>
 
