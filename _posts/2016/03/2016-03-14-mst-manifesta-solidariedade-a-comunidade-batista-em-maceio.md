@@ -39,7 +39,10 @@ O MST lan&ccedil;ou na manh&atilde; de hoje (14) uma nota p&uacute;blica em soli
 O Movimento destaca o respeito e confian&ccedil;a na hist&oacute;ria dos pastores que sempre estiveram lado a lado das organiza&ccedil;&otilde;es populares de Alagoas, na luta contra toda forma de injusti&ccedil;a e explora&ccedil;&atilde;o.</p>
 
 <p><br />
-Segundo trecho da nota, a trajet&oacute;ria dos pastores frente &agrave; comunidade refor&ccedil;a a necessidade do Movimento reafirmar seu apoio e solidariedade. &ldquo;Tais posi&ccedil;&otilde;es, colocam-nos na responsabilidade e compromisso de externar nossa solidariedade ao companheiro Pastor Wellington e a companheira Pastora Odja, bem como nosso rep&uacute;dio aos ataques por diversos meios, de car&aacute;ter intolerante, homof&oacute;bico e excludente, que se diferenciam dos valores dos e das que querem construir outro tipo de sociedade, guiada pelo respeito, justi&ccedil;a e igualdade&rdquo;, afirma.</p>
+Segundo trecho da nota, a trajet&oacute;ria dos pastores frente &agrave; comunidade refor&ccedil;a a necessidade do Movimento afirmar seu apoio e solidariedade.</p>
+
+<p><br />
+&ldquo;Tais posi&ccedil;&otilde;es, colocam-nos na responsabilidade e compromisso de externar nossa solidariedade ao companheiro Pastor Wellington e a companheira Pastora Odja, bem como nosso rep&uacute;dio aos ataques por diversos meios, de car&aacute;ter intolerante, homof&oacute;bico e excludente, que se diferenciam dos valores dos e das que querem construir outro tipo de sociedade, guiada pelo respeito, justi&ccedil;a e igualdade&rdquo;, afirma.</p>
 
 <p><br />
 <strong>Confira a nota na &iacute;ntegra:</strong></p>
