@@ -32,7 +32,8 @@ releated_posts:
   - _posts/2015/12/2015-12-03-movimentos-realizam-ato-em-conferencia-nacional-de-saude.md
 
 ---
-<p><img alt="Convite_Solenidade_Residência_2016.jpg" height="495" src="//farm2.staticflickr.com/1540/25157938593_42aa097996_b.jpg" width="700" /><br />
+<p><br />
+<img alt="Convite_Solenidade_Residência_2016.jpg" height="495" src="//farm2.staticflickr.com/1540/25157938593_42aa097996_b.jpg" width="700" /><br />
 <br />
 <br />
 <em>Do setor&nbsp;de Comunica&ccedil;&atilde;o do MST Pernambuco</em></p>
