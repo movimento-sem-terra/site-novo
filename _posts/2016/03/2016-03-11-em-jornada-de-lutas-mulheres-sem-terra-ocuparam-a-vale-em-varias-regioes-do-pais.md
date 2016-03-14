@@ -54,6 +54,7 @@ releated_posts:
   - _posts/2016/03/2016-03-07-mulheres-ocupam-os-trilhos-da-vale-no-maranhao.md
   - _posts/2016/03/2016-03-05-em-jornada-de-luta-mulheres-sem-terra-denunciam-o-agronegocio.md
   - _posts/2016/03/2016-03-05-mais-de-mil-mulheres-sem-terra-ocupam-fazenda-autuada-por-trabalho-escravo-na-ba.md
+section: featured-news
 
 ---
 <p><img alt="25585455516_50fbfb2ba4_b.jpg" height="412" src="//farm2.staticflickr.com/1506/25707482175_f5e804a1c2_b.jpg" width="700" /></p>
