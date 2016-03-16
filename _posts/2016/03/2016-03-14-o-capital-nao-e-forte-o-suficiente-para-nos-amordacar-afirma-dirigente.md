@@ -25,13 +25,14 @@ releated_posts:
   - _posts/2016/03/2016-03-07-na-paraiba-mulheres-saem-as-ruas-na-luta-em-defesa-da-alimentacao-saudavel.md
   - _posts/2016/03/2016-03-07-mulheres-debatem-as-formas-de-opressao-do-capital-no-campo.md
   - _posts/2016/03/2016-03-07-apos-ocupacoes-no-interior-de-alagoas-camponesas-montam-acampamento-em-maceio.md
-section: cover
+section: featured-news
 
 ---
 <p><br />
 <img alt="25619736646_f24fb88231_b.jpg" height="466" src="//farm2.staticflickr.com/1507/25696392521_7c89883a06_b.jpg" width="700" /></p>
 
-<p><em>Por Maura Silva&nbsp;<br />
+<p><br />
+<em>Por Maura Silva&nbsp;<br />
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
