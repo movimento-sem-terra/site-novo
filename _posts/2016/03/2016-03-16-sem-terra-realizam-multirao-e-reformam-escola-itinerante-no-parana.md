@@ -3,7 +3,7 @@ date: "2016-03-16T14:02:55-03:00"
 tags:
   - tag: educação
   - tag: reforma-agrária
-title: Sem Terra realizam multirão e reformam escola itinerante no Paraná
+title: Sem Terra realizam mutirão e reformam escola itinerante no Paraná
 menu: "educação, cultura e comunicação"
 sector: education
 images_hd: //farm2.staticflickr.com/1558/25211637783_30f512851c_b.jpg
