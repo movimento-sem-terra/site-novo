@@ -1,5 +1,5 @@
 ---
-date: "2016-03-16T14:17:49-03:00"
+date: "2016-03-16T10:17:49-03:00"
 tags:
   - tag: lutas-e-mobilizações
   - tag: democracia
@@ -7,7 +7,7 @@ tags:
 title: Ato no Tuca nesta quarta abre agenda de luta pela democracia
 support_line: "Artistas, juristas e intelectuais reúnem-se hoje (16) para defender a ordem constitucional. Na sexta (18), manifestação em São Paulo terá a presença de Lula."
 menu: lutas e mobilizações
-section: cover
+section: null
 images_hd: //farm2.staticflickr.com/1720/25717539582_f6cdc914a4_b.jpg
 layout: post
 files:
