@@ -19,4 +19,4 @@ published: true
 releated_posts: []
 
 ---
-<iframe src="http://cobertura.brasildefato.com.br" width="640" height="360"></iframe>
+<p><iframe height="360" src="http://cobertura.brasildefato.com.br" width="640"></iframe></p>
