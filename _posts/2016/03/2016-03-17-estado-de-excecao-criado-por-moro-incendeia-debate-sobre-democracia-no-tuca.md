@@ -7,7 +7,7 @@ tags:
 title: "'Estado de exceção' criado por Moro incendeia debate sobre democracia no Tuca"
 support_line: Vazamento de grampo telefônico de conversa entre Dilma e Lula foi duramente criticado pelo campo progressista na noite de ontem (16) no Teatro da PUC de São Paulo
 menu: projeto popular
-section: cover
+section: null
 images_hd: //farm2.staticflickr.com/1650/25226008114_9e814f761f_b.jpg
 layout: post
 files:
