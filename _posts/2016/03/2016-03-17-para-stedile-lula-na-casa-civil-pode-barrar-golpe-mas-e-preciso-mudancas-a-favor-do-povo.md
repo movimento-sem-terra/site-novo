@@ -20,6 +20,7 @@ created_date: "2016-03-17T13:52:12-03:00"
 published: true
 releated_posts:
   - _posts/2015/12/2015-12-11-mais-de-480-personalidades-assinam-manifesto-contra-golpe.md
+section: featured-news
 
 ---
 <p class="p1">&nbsp;</p>
