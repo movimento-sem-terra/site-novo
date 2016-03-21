@@ -56,7 +56,8 @@ releated_posts:
 ---
 <p><img alt="DSC_0387.jpg" height="467" src="//farm2.staticflickr.com/1513/25915887806_e995e0eeb8_b.jpg" width="700" /><br />
 <br />
-<em>Por Luiz Fernando&nbsp;</em></p>
+<em>Por Luiz Fernando&nbsp;<br />
+Da P&aacute;gina do MST</em></p>
 
 <p><br />
 Entre os dias 15 a 17 de mar&ccedil;o, ocorreu o Festival de Troca Sementes e Cultura Camponesa no assentamento Moacir Wanderley, interior do Sergipe, que promoveu o interc&acirc;mbio de materiais gen&eacute;tico que est&atilde;o sob a guarda de fam&iacute;lias assentadas em &aacute;reas de Reforma Agr&aacute;ria.&nbsp;</p>
