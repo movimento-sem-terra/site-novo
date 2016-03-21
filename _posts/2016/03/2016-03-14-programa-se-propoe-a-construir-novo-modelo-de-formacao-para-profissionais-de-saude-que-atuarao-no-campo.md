@@ -44,10 +44,10 @@ releated_posts:
 <em>Do setor&nbsp;de Comunica&ccedil;&atilde;o do MST Pernambuco</em></p>
 
 <p><br />
-Nesta segunda-feira (12), ocorreu a solenidade oficial de abertura do Programa de Resid&ecirc;ncia Multiprofissional em Sa&uacute;de da Fam&iacute;lia com &ecirc;nfase na Sa&uacute;de da Popula&ccedil;&atilde;o do Campo na Universidade de Pernambuco (UPE) - Campus Garanhuns.&nbsp;Esteve presente&nbsp;representantes de universidades, movimentos sociais, coletivos e algumas autoridades locais.</p>
+Na &uacute;ltima segunda-feira (12), ocorreu a solenidade oficial de abertura do Programa de Resid&ecirc;ncia Multiprofissional em Sa&uacute;de da Fam&iacute;lia com &ecirc;nfase na Sa&uacute;de da Popula&ccedil;&atilde;o do Campo na Universidade de Pernambuco (UPE) - Campus Garanhuns.&nbsp;Estiveram&nbsp;presente&nbsp;representantes de universidades, movimentos sociais, coletivos e algumas autoridades locais.</p>
 
 <p><br />
-Ainda nesta segunda-feira, tamb&eacute;m&nbsp;houve&nbsp;um ato pol&iacute;tico no Centro de Forma&ccedil;&atilde;o Paulo Freire, Assentamento Normandia em Caruaru, para marcar a import&acirc;ncia desse momento para a popula&ccedil;&atilde;o local e para a Sa&uacute;de no Campo como um todo no pa&iacute;s.</p>
+Na&nbsp;mesma data, tamb&eacute;m&nbsp;houve&nbsp;um ato pol&iacute;tico no Centro de Forma&ccedil;&atilde;o Paulo Freire, Assentamento Normandia em Caruaru, para marcar a import&acirc;ncia desse momento para a popula&ccedil;&atilde;o local e para a Sa&uacute;de no Campo como um todo no pa&iacute;s.</p>
 
 <p><br />
 Coordenado pela Universidade de Pernambuco (UPE) &ndash; Campus Garanhuns, em parceria com a Escola Nacional Florestan Fernandes (ENFF), as Comunidades Quilombolas de Garanhuns e o Coletivo de Sa&uacute;de no Campo, o Programa de Resid&ecirc;ncia Multiprofissional em Sa&uacute;de da Fam&iacute;lia com &ecirc;nfase na Sa&uacute;de da Popula&ccedil;&atilde;o do Campo tem como objetivo superar a invisibilidade e a neglig&ecirc;ncia hist&oacute;rica da sa&uacute;de da popula&ccedil;&atilde;o do campo.</p>
