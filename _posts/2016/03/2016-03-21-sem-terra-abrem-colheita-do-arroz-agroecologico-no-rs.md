@@ -17,6 +17,18 @@ files:
     small: //farm2.staticflickr.com/1467/25657640250_a8b397b040_n.jpg
     title: Foto Leandro Molina 2.jpg
     $$hashKey: 0B9
+  - link: //farm2.staticflickr.com/1572/25325781274_5a2db98003_b.jpg
+    thumbnail: //farm2.staticflickr.com/1572/25325781274_5a2db98003_t.jpg
+    medium: //farm2.staticflickr.com/1572/25325781274_5a2db98003_z.jpg
+    small: //farm2.staticflickr.com/1572/25325781274_5a2db98003_n.jpg
+    title: Foto Leandro Molina 2.jpg
+    $$hashKey: 0H8
+  - link: //farm2.staticflickr.com/1464/25863522041_ec693a351a_b.jpg
+    thumbnail: //farm2.staticflickr.com/1464/25863522041_ec693a351a_t.jpg
+    medium: //farm2.staticflickr.com/1464/25863522041_ec693a351a_z.jpg
+    small: //farm2.staticflickr.com/1464/25863522041_ec693a351a_n.jpg
+    title: Foto Leandro Molina 3 (1).jpg
+    $$hashKey: 0HB
 created_date: "2016-03-21T08:53:58-03:00"
 published: true
 releated_posts:
@@ -34,6 +46,10 @@ releated_posts:
   - _posts/2016/03/2016-03-17-mst-promove-13a-abertura-oficial-da-colheita-do-arroz-agroecologico.md
 
 ---
+<p style="box-sizing: inherit; margin: 0px 0px 11px; font-size: 1.1em; color: rgb(85, 85, 85); font-family: 'Exo 2', Helvetica, Arial, sans-serif;"><img alt="Foto Leandro Molina 2.jpg" height="467" src="//farm2.staticflickr.com/1572/25325781274_5a2db98003_b.jpg" width="700" /></p>
+
+<p style="box-sizing: inherit; margin: 0px 0px 11px; font-size: 1.1em; color: rgb(85, 85, 85); font-family: 'Exo 2', Helvetica, Arial, sans-serif;">&nbsp;</p>
+
 <p style="box-sizing: inherit; margin: 0px 0px 11px; font-size: 1.1em; color: rgb(85, 85, 85); font-family: 'Exo 2', Helvetica, Arial, sans-serif;"><em style="box-sizing: inherit;">Por Catiana de Medeiros<br style="box-sizing: inherit;" />
 Da P&aacute;gina do MST</em></p>
 
@@ -91,6 +107,10 @@ Da P&aacute;gina do MST</em></p>
 
 <p class="p1"><br />
 <span class="s1">&ldquo;N&atilde;o basta dividirmos os latif&uacute;ndios e garantir terra para quem nela quer trabalhar. &Eacute; importante construirmos um modelo de produ&ccedil;&atilde;o diferenciado daquele que est&aacute; a&iacute; e debatermos com a sociedade essas quest&otilde;es. Hoje, n&oacute;s estamos comprovando que &eacute; poss&iacute;vel, sim, produzirmos um alimento mais saud&aacute;vel e sem o uso de agrot&oacute;xicos&rdquo;, concluiu.</span></p>
+
+<p class="p1">&nbsp;</p>
+
+<p class="p1"><img alt="Foto Leandro Molina 3 (1).jpg" height="467" src="//farm2.staticflickr.com/1464/25863522041_ec693a351a_b.jpg" width="700" /></p>
 
 <p class="p1"><br />
 <span class="s1">Confira mais fotos da abertura da colheita <a href="https://www.flickr.com/photos/mst_rs/">aqui</a></span></p>
