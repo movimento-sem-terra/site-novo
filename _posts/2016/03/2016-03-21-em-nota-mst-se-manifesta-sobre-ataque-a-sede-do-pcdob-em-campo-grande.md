@@ -4,7 +4,7 @@ tags:
   - tag: contra-o-golpe
   - tag: impeachment
   - tag: democracia
-title: "Em nota, MST se manifesta sobre ataque a sede do PCdoB em Campo Grande"
+title: MST se manifesta contra ataque a sede do PCdoB em Campo Grande
 support_line: "Ações como essa não nos intimidam, apenas nos fortalecem e deixam claro que precisamos combater o ódio irracional que está tomando conta do nosso país. "
 menu: lutas e mobilizações
 images_hd: //farm2.staticflickr.com/1552/25935396846_12b1948b7d_b.jpg
@@ -31,6 +31,16 @@ releated_posts:
 <p>&nbsp;</p>
 
 <p><em>Da P&aacute;gina do MST&nbsp;</em></p>
+
+<p>&nbsp;</p>
+
+<p>A sede do Partido Comunista do Brasil (PCdoB)&nbsp;de Mato Grosso do Sul foi atacada na noite de&nbsp;sexta-feira (18). De acordo com o presidente estadual do partido, Mario Cesar Fonseca da Silva, houve a tentativa de queimar a placa que fica em frente ao pr&eacute;dio, o que poderia ter resultado em um inc&ecirc;ndio de maior propor&ccedil;&atilde;o.</p>
+
+<p><br />
+Diante da onda de agress&otilde;es, que mobiliza setores da sociedade brasileira, o MST&nbsp;v&ecirc;m a p&uacute;blico&nbsp;externar seu apoio ao&nbsp;PCdoB.</p>
+
+<p><br />
+<span class="s1">Segue a nota</span><span style="color: rgb(84, 84, 84); font-family: arial, sans-serif; font-size: small; line-height: 18.2px;">:</span></p>
 
 <p><br />
 <span class="s1">No claro intuito de intimidar os camaradas do Partido Comunista do Brasil (PCdoB) de Mato Grosso do Sul, reacion&aacute;rios facistas atacaram a sede do partido em Campo Grande, colocaram fogo na faxada no momento em que havia um militante na sede, que correu s&eacute;rio risco de vida.&nbsp;<br />
