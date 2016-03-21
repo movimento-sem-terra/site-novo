@@ -48,20 +48,20 @@ releated_posts:
 ---
 <p style="box-sizing: inherit; margin: 0px 0px 11px; font-size: 1.1em; color: rgb(85, 85, 85); font-family: 'Exo 2', Helvetica, Arial, sans-serif;"><img alt="Foto Leandro Molina 2.jpg" height="467" src="//farm2.staticflickr.com/1572/25325781274_5a2db98003_b.jpg" width="700" /></p>
 
-<p style="box-sizing: inherit; margin: 0px 0px 11px; font-size: 1.1em; color: rgb(85, 85, 85); font-family: 'Exo 2', Helvetica, Arial, sans-serif;">&nbsp;</p>
-
-<p style="box-sizing: inherit; margin: 0px 0px 11px; font-size: 1.1em; color: rgb(85, 85, 85); font-family: 'Exo 2', Helvetica, Arial, sans-serif;"><em style="box-sizing: inherit;">Por Catiana de Medeiros<br style="box-sizing: inherit;" />
+<p style="box-sizing: inherit; margin: 0px 0px 11px; font-size: 1.1em; color: rgb(85, 85, 85); font-family: 'Exo 2', Helvetica, Arial, sans-serif;"><br />
+<em style="box-sizing: inherit;">Por Catiana de Medeiros<br style="box-sizing: inherit;" />
 Da P&aacute;gina do MST</em></p>
 
 <p style="box-sizing: inherit; margin: 0px 0px 11px; font-size: 1.1em; color: rgb(85, 85, 85); font-family: 'Exo 2', Helvetica, Arial, sans-serif;"><em style="box-sizing: inherit;">Fotos: Leandro Molina</em></p>
 
-<p class="p1">&nbsp;</p>
+<p class="p1"><br />
+A colheita simb&oacute;lica de 50 sacas de arroz marcou a 13&ordf; Abertura Oficial da Colheita do Arroz Agroecol&oacute;gico, realizada na &uacute;ltima sexta-feira (18) pelo MST do Rio Grande do Sul, no Assentamento Filhos de Sep&eacute;, em Viam&atilde;o, na regi&atilde;o Metropolitana de Porto Alegre. O evento reuniu cerca de 1.500 pessoas, entre assentados e acampados de todo o estado e apoiadores do Movimento.</p>
 
-<p class="p1"><span class="s1">Anterior &agrave; colheita, &agrave;s margens da lavoura, o assentado e coordenador da Associa&ccedil;&atilde;o de Moradores do Assentamento Filhos de Sep&eacute; (AASIF), Mois&eacute;s de Moura resgatou a hist&oacute;ria do assentamento, que em dezembro deste ano completa 18 anos e &eacute; considerado Territ&oacute;rio Livre de Transg&ecirc;nicos e de Agrot&oacute;xicos. </span></p>
+<p class="p1"><br />
+<span class="s1">Anterior &agrave; colheita, &agrave;s margens da lavoura, o assentado e coordenador da Associa&ccedil;&atilde;o de Moradores do Assentamento Filhos de Sep&eacute; (AASIF), Mois&eacute;s de Moura resgatou a hist&oacute;ria do assentamento, que em dezembro deste ano completa 18 anos e &eacute; considerado Territ&oacute;rio Livre de Transg&ecirc;nicos e de Agrot&oacute;xicos. </span></p>
 
-<p class="p1">&nbsp;</p>
-
-<p class="p1"><span class="s1">Ele tamb&eacute;m falou sobre a luta por democratiza&ccedil;&atilde;o da terra e a produ&ccedil;&atilde;o de alimentos no local, que hoje est&aacute; direcionada para frutas, hortali&ccedil;as, panif&iacute;cios e arroz.</span></p>
+<p class="p1"><br />
+<span class="s1">Ele tamb&eacute;m falou sobre a luta por democratiza&ccedil;&atilde;o da terra e a produ&ccedil;&atilde;o de alimentos no local, que hoje est&aacute; direcionada para frutas, hortali&ccedil;as, panif&iacute;cios e arroz.</span></p>
 
 <p class="p1"><br />
 <span class="s1">&ldquo;N&oacute;s somos a prova de que a Reforma Agr&aacute;ria d&aacute; certo. Hoje, com a organiza&ccedil;&atilde;o do MST e do Grupo Gestor do Arroz Agroecol&oacute;gico temos todas as ferramentas necess&aacute;rias para poder produzir e levar alimentos saud&aacute;veis &agrave;s fam&iacute;lias do campo e da cidade&rdquo;, disse.</span></p>
