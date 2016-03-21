@@ -5,7 +5,7 @@ tags:
   - tag: fora-globo
   - tag: democracia
 title: "“Direita não luta por direitos e sim por medo de perder seus privilégios”, afirma historiadora"
-support_line: "Cerca de cinco mil pessoas compareceram no ato em defesa da democracia ocorrido da última sexta-feira (18), em Vitória. Entre elas, a historiadora Juliana Quintela Miranda, alertou para a importância da união da esquerda."
+support_line: "Cerca de cinco mil pessoas compareceram no ato em defesa da democracia ocorrido da última sexta-feira (18), em Vitória. Entre elas, a historiadora Juliana Quintela Miranda, alertou para a importância da união da esquerda"
 menu: lutas e mobilizações
 images_hd: //farm2.staticflickr.com/1544/25840880502_53a302a396_b.jpg
 layout: post
