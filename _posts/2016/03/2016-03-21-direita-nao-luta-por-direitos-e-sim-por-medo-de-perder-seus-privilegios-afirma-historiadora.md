@@ -38,7 +38,7 @@ releated_posts:
 ---
 <p><img alt="1 - manifestantes em frente a sede da TV Gazeta (foto - Danielle).jpg" height="478" src="//farm2.staticflickr.com/1544/25840880502_53a302a396_b.jpg" width="700" /><br />
 <br />
-<em>Por Danniele Melo&nbsp;<br />
+<em>Por Danielle Melo&nbsp;<br />
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
