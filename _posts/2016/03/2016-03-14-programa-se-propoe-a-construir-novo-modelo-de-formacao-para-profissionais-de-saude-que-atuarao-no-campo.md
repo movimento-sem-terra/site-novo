@@ -1,5 +1,5 @@
 ---
-date: "2016-03-14T10:03:51-03:00"
+date: "2016-03-15T10:03:51-03:00"
 tags:
   - tag: residência-em-saúde
   - tag: saúde
@@ -7,21 +7,27 @@ tags:
 title: Programa se propõe a construir novo modelo de formação para profissionais de saúde no campo
 support_line: O Programa de Residência Multiprofissional em Saúde da Família com ênfase na Saúde da População do Campo tem como objetivo superar a invisibilidade e a negligência histórica da saúde da população do campo.
 menu: reforma agrária
-images_hd: //farm2.staticflickr.com/1524/25689578181_41e340b49e_b.jpg
+images_hd: //farm2.staticflickr.com/1491/25867914191_14d566827f_b.jpg
 layout: post
 files:
-  - link: //farm2.staticflickr.com/1540/25157938593_42aa097996_b.jpg
-    thumbnail: //farm2.staticflickr.com/1540/25157938593_42aa097996_t.jpg
-    medium: //farm2.staticflickr.com/1540/25157938593_42aa097996_z.jpg
-    small: //farm2.staticflickr.com/1540/25157938593_42aa097996_n.jpg
-    title: Convite_Solenidade_Residência_2016.jpg
-    $$hashKey: 07E
-  - link: //farm2.staticflickr.com/1524/25689578181_41e340b49e_b.jpg
-    thumbnail: //farm2.staticflickr.com/1524/25689578181_41e340b49e_t.jpg
-    medium: //farm2.staticflickr.com/1524/25689578181_41e340b49e_z.jpg
-    small: //farm2.staticflickr.com/1524/25689578181_41e340b49e_n.jpg
-    title: 16390461124_421c772707_b.jpg
-    $$hashKey: 07H
+  - link: //farm2.staticflickr.com/1491/25867914191_14d566827f_b.jpg
+    thumbnail: //farm2.staticflickr.com/1491/25867914191_14d566827f_t.jpg
+    medium: //farm2.staticflickr.com/1491/25867914191_14d566827f_z.jpg
+    small: //farm2.staticflickr.com/1491/25867914191_14d566827f_n.jpg
+    title: DSC_8995.JPG
+    $$hashKey: "189"
+  - link: //farm2.staticflickr.com/1470/25330169044_e67a4986ee_b.jpg
+    thumbnail: //farm2.staticflickr.com/1470/25330169044_e67a4986ee_t.jpg
+    medium: //farm2.staticflickr.com/1470/25330169044_e67a4986ee_z.jpg
+    small: //farm2.staticflickr.com/1470/25330169044_e67a4986ee_n.jpg
+    title: DSC_8747.JPG
+    $$hashKey: 18C
+  - link: //farm2.staticflickr.com/1672/25867915941_c8697e593d_b.jpg
+    thumbnail: //farm2.staticflickr.com/1672/25867915941_c8697e593d_t.jpg
+    medium: //farm2.staticflickr.com/1672/25867915941_c8697e593d_z.jpg
+    small: //farm2.staticflickr.com/1672/25867915941_c8697e593d_n.jpg
+    title: DSC_9008.JPG
+    $$hashKey: 18F
 created_date: "2016-03-14T11:08:18-03:00"
 published: true
 releated_posts:
@@ -33,24 +39,25 @@ releated_posts:
 
 ---
 <p><br />
-<img alt="Convite_Solenidade_Residência_2016.jpg" height="495" src="//farm2.staticflickr.com/1540/25157938593_42aa097996_b.jpg" width="700" /><br />
-<br />
+<img alt="DSC_8995.JPG" height="463" src="//farm2.staticflickr.com/1491/25867914191_14d566827f_b.jpg" width="700" /><br />
 <br />
 <em>Do setor&nbsp;de Comunica&ccedil;&atilde;o do MST Pernambuco</em></p>
 
 <p><br />
-Nesta segunda-feira (12), ocorre a solenidade oficial de abertura do Programa de Resid&ecirc;ncia Multiprofissional em Sa&uacute;de da Fam&iacute;lia com &ecirc;nfase na Sa&uacute;de da Popula&ccedil;&atilde;o do Campo na Universidade de Pernambuco (UPE) - Campus Garanhuns, a partir das 14h. Estar&atilde;o presentes representantes de universidades, movimentos sociais, coletivos e algumas autoridades locais.</p>
+Nesta segunda-feira (12), ocorreu a solenidade oficial de abertura do Programa de Resid&ecirc;ncia Multiprofissional em Sa&uacute;de da Fam&iacute;lia com &ecirc;nfase na Sa&uacute;de da Popula&ccedil;&atilde;o do Campo na Universidade de Pernambuco (UPE) - Campus Garanhuns.&nbsp;Esteve presente&nbsp;representantes de universidades, movimentos sociais, coletivos e algumas autoridades locais.</p>
 
 <p><br />
-Ainda nesta segunda-feira, tamb&eacute;m&nbsp;haver&aacute; um ato pol&iacute;tico no Centro de Forma&ccedil;&atilde;o Paulo Freire, Assentamento Normandia em Caruaru, a partir das 20h, para marcar a import&acirc;ncia desse momento para a popula&ccedil;&atilde;o local e para a Sa&uacute;de no Campo como um todo no pa&iacute;s.</p>
+Ainda nesta segunda-feira, tamb&eacute;m&nbsp;houve&nbsp;um ato pol&iacute;tico no Centro de Forma&ccedil;&atilde;o Paulo Freire, Assentamento Normandia em Caruaru, para marcar a import&acirc;ncia desse momento para a popula&ccedil;&atilde;o local e para a Sa&uacute;de no Campo como um todo no pa&iacute;s.</p>
 
 <p><br />
 Coordenado pela Universidade de Pernambuco (UPE) &ndash; Campus Garanhuns, em parceria com a Escola Nacional Florestan Fernandes (ENFF), as Comunidades Quilombolas de Garanhuns e o Coletivo de Sa&uacute;de no Campo, o Programa de Resid&ecirc;ncia Multiprofissional em Sa&uacute;de da Fam&iacute;lia com &ecirc;nfase na Sa&uacute;de da Popula&ccedil;&atilde;o do Campo tem como objetivo superar a invisibilidade e a neglig&ecirc;ncia hist&oacute;rica da sa&uacute;de da popula&ccedil;&atilde;o do campo.</p>
 
 <p><br />
-A forma&ccedil;&atilde;o pretende consolidar a compreens&atilde;o ampla e cr&iacute;tica dos processos de transforma&ccedil;&otilde;es sociais, comprometidos com a organiza&ccedil;&atilde;o coletiva, a qualidade de vida dessas popula&ccedil;&otilde;es e a consolida&ccedil;&atilde;o do Sistema &Uacute;nico de Sa&uacute;de.</p>
+A forma&ccedil;&atilde;o pretende consolidar a compreens&atilde;o ampla e cr&iacute;tica dos processos de transforma&ccedil;&otilde;es sociais, comprometidos com a organiza&ccedil;&atilde;o coletiva, a qualidade de vida dessas popula&ccedil;&otilde;es e a consolida&ccedil;&atilde;o do Sistema &Uacute;nico de Sa&uacute;de.<br />
+&nbsp;</p>
 
-<p><br />
+<p><img alt="DSC_9008.JPG" height="463" src="//farm2.staticflickr.com/1672/25867915941_c8697e593d_b.jpg" width="700" /><br />
+<br />
 O Programa &eacute; uma forma&ccedil;&atilde;o de p&oacute;s-gradua&ccedil;&atilde;o para trabalhadores da sa&uacute;de graduados em educa&ccedil;&atilde;o f&iacute;sica, enfermagem, farm&aacute;cia, fisioterapia, medicina veterin&aacute;ria, nutri&ccedil;&atilde;o, odontologia, psicologia, servi&ccedil;o social e terapia ocupacional, sendo dois de enfermagem e odontologia e um de cada categoria profissional somando um total de 12 residentes, que desenvolver&atilde;o trabalhos com a popula&ccedil;&atilde;o em assentamentos no munic&iacute;pio de Caruaru e comunidades quilombolas em Garanhuns.</p>
 
 <p><br />
