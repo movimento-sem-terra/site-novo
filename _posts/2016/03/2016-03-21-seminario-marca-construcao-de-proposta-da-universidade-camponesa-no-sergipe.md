@@ -8,7 +8,7 @@ tags:
 title: "Seminário marca construção de proposta da Universidade Camponesa no Sergipe\n"
 images_hd: //farm2.staticflickr.com/1680/25335344844_cb655a8ab3_b.jpg
 menu: "educação, cultura e comunicação"
-support_line: A proposta surgiu de grupos pertencentes aos movimentos sociais e sua metodologia perpassa por um espaço de convergências das experiências e intensa troca de conhecimentos.
+support_line: "Educadores e representantes de movimentos sociais se reuniram para debater os princípios, propósitos, objetivos e a proposta político-pedagógica da Universidade"
 layout: post
 files:
   - link: //farm2.staticflickr.com/1680/25335344844_cb655a8ab3_b.jpg
@@ -34,25 +34,25 @@ releated_posts:
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Com o objetivo da implanta&ccedil;&atilde;o da Universidade Camponesa no estado de Sergipe &eacute; que nos dias 17 e 18 de mar&ccedil;o, educadores e representantes de movimentos sociais se reuniram para debater os princ&iacute;pios, prop&oacute;sitos, objetivos e a proposta pol&iacute;tico pedag&oacute;gica da Universidade.</p>
+Com o objetivo de&nbsp;implantar&nbsp;a Universidade Camponesa no estado de Sergipe &eacute; que, nos dias 17 e 18 de mar&ccedil;o, educadores e representantes de movimentos sociais se reuniram para debater os princ&iacute;pios, prop&oacute;sitos, objetivos e a proposta pol&iacute;tico-pedag&oacute;gica da Universidade.</p>
 
 <p><br />
-A proposta surgiu de grupos pertencentes aos movimentos sociais e teve uma iniciativa por parte do mandato popular do deputado federal Jo&atilde;o Daniel (PT/SE), que elaborou um projeto de lei para a cria&ccedil;&atilde;o da Universidade Camponesa do Brasil.</p>
+A iniciativa surgiu de grupos pertencentes aos movimentos sociais e teve uma iniciativa por parte do mandato popular do deputado federal Jo&atilde;o Daniel (PT/SE), que elaborou um projeto de lei para a cria&ccedil;&atilde;o da Universidade Camponesa do Brasil.</p>
 
 <p><br />
 A metodologia perpassa por um espa&ccedil;o de converg&ecirc;ncias das experi&ecirc;ncias, um local de intensa troca de conhecimento, mas tamb&eacute;m de produ&ccedil;&atilde;o de um novo conhecimento entrela&ccedil;ado &agrave; demanda e &agrave; realidade, onde ser&atilde;o geradas e experimentadas solu&ccedil;&otilde;es de problemas comuns ao campo que impulsionem a autonomia camponesa.</p>
 
 <p><br />
-&quot;&Eacute; uma proposta nova, diferente de tudo que existe no Brasil. &Eacute; uma universidade com perfil pr&oacute;prio, mas estamos bebendo no exemplo da UFFS e todos os avan&ccedil;os conquistados por ela&quot;, ressalta Marilia Fontes, do MST no Sergipe.</p>
+&quot;&Eacute; uma proposta nova, diferente de tudo que existe no Brasil. &Eacute; uma universidade com perfil pr&oacute;prio, mas estamos bebendo no exemplo da UFFS e de todos os avan&ccedil;os conquistados por ela&quot;, ressalta Marilia Fontes, do MST no Sergipe.</p>
 
 <p><br />
-A ideia &eacute; que a Universidade seja um espa&ccedil;o dos camponeses para os camponeses, as aulas ser&atilde;o facilitadas por educadores populares e pelos pr&oacute;prios camponeses, por meio da acredita&ccedil;&atilde;o/reconhecimento de saberes, tendo como principio o di&aacute;logo entre o conhecimento popular e acad&ecirc;mico.</p>
+A ideia &eacute; que a Universidade seja um espa&ccedil;o dos camponeses para os camponeses; as aulas ser&atilde;o facilitadas por educadores populares e pelos pr&oacute;prios camponeses, por meio da acredita&ccedil;&atilde;o e do&nbsp;reconhecimento de saberes, tendo como principio o di&aacute;logo entre os conhecimentos popular e acad&ecirc;mico.</p>
 
 <p><br />
-Ser&atilde;o ofertados cursos nas diversas &aacute;reas e dimens&atilde;o da vida para jovens camponeses, produtores familiares, trabalhadores rurais e sem-terra assentados da reforma agr&aacute;ria, agentes de desenvolvimento, educadores e lideran&ccedil;as de base.</p>
+Ser&atilde;o ofertados cursos nas diversas &aacute;reas e dimens&otilde;es&nbsp;da vida para jovens camponeses, produtores familiares, trabalhadores rurais e sem-terra assentados da reforma agr&aacute;ria, agentes de desenvolvimento, educadores e lideran&ccedil;as de base.</p>
 
 <p><br />
-Esse foi o primeiro semin&aacute;rio, ap&oacute;s as reuni&otilde;es iniciais que tiveram como objetivo nivelar o entendimento e construir o espa&ccedil;o. Deste semin&aacute;rio foram montados dois grupos. Um ir&aacute; construir o projeto pol&iacute;tico pedag&oacute;gico que ser&aacute; apresentado ao MEC, e outro que far&aacute; a mobiliza&ccedil;&atilde;o pol&iacute;tica nos territ&oacute;rios, organizando debates com a juventude sobre as demandas dos jovens organizados em movimentos sociais.</p>
+Esse foi o primeiro semin&aacute;rio, ap&oacute;s as reuni&otilde;es iniciais que tiveram como objetivo nivelar o entendimento e construir o espa&ccedil;o. Deste semin&aacute;rio foram montados dois grupos:&nbsp;Um ir&aacute; construir o projeto pol&iacute;tico-pedag&oacute;gico que ser&aacute; apresentado ao MEC;&nbsp;e o outro que far&aacute; a mobiliza&ccedil;&atilde;o pol&iacute;tica nos territ&oacute;rios, organizando debates com a juventude sobre as demandas dos jovens organizados em movimentos sociais.</p>
 
 <p><br />
-Participaram do semin&aacute;rio Ant&ocirc;nio Andriolli, vice reitor&nbsp;da Universidade Federal da Fronteira Sul (UFFS), e representantes do mandato Jo&atilde;o Daniel (PT/SE), INCRA, FETASE, Rede Sergipana de Agroecologia (RESEA), N&uacute;cleos de Extens&atilde;o em Desenvolvimento Territorial (NEDET), N&uacute;cleo de agroecologia da EMBRAPA, Centro Comunit&aacute;rio de Forma&ccedil;&atilde;o em Agropecu&aacute;ria Dom Jos&eacute; Brand&atilde;o de Castro (CFAC), Comit&ecirc; de Educa&ccedil;&atilde;o do Campo, Territ&oacute;rios da cidadania, e militantes do MST, Movimento dos Pequenos Agricultores (MPA) e&nbsp; Movimento Campon&ecirc;s Popular (MCP).</p>
+Participaram do semin&aacute;rio Ant&ocirc;nio Andriolli, vice-reitor&nbsp;da Universidade Federal da Fronteira Sul (UFFS), e representantes do mandato Jo&atilde;o Daniel (PT/SE), INCRA, FETASE, Rede Sergipana de Agroecologia (RESEA), N&uacute;cleos de Extens&atilde;o em Desenvolvimento Territorial (NEDET), N&uacute;cleo de Agroecologia da EMBRAPA, Centro Comunit&aacute;rio de Forma&ccedil;&atilde;o em Agropecu&aacute;ria Dom Jos&eacute; Brand&atilde;o de Castro (CFAC), Comit&ecirc; de Educa&ccedil;&atilde;o do Campo, Territ&oacute;rios da cidadania&nbsp;e militantes do MST, Movimento dos Pequenos Agricultores (MPA) e&nbsp; Movimento Campon&ecirc;s Popular (MCP).</p>
