@@ -32,16 +32,12 @@ releated_posts:
 ---
 <p><img alt="IMG_5212.jpg" height="467" src="//farm2.staticflickr.com/1591/25376423264_dd898cab80_b.jpg" width="700" /></p>
 
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p><em>Por Hildebrando Silva<br />
+<p><br />
+<em>Por Hildebrando Silva<br />
 Da P&aacute;gina do MST</em></p>
 
-<p>&nbsp;</p>
-
-<p>De 21 a&nbsp;24 de mar&ccedil;o, acontece na Escola Nacional Florestan Fernandes (ENFF),&nbsp;a primeira banca de defesa de disserta&ccedil;&otilde;es de mestrado.</p>
+<p><br />
+De 21 a&nbsp;24 de mar&ccedil;o, acontece na Escola Nacional Florestan Fernandes (ENFF),&nbsp;a primeira banca de defesa de disserta&ccedil;&otilde;es de mestrado.</p>
 
 <p><br />
 Essa primeira experi&ecirc;ncia&nbsp;&eacute; fruto de uma parceria entre a ENFF e universidades p&uacute;blicas com&nbsp;programas de p&oacute;s -&nbsp;gradua&ccedil;&atilde;o que se vinculam as demandas dos estudantes do campo, assentados, acampados, quilombolas, agricultores familiares do Brasil e da Am&eacute;rica Latina.</p>
@@ -65,7 +61,6 @@ Djacira Ara&uacute;jo, tamb&eacute;m ressalta, que apesar da dificuldade na traj
 &quot;A qualidade e o aprofundamento dos estudos apresentados nas bancas de defesa, revelam o alto n&iacute;vel de aprendizados e de elabora&ccedil;&otilde;es trazidas pelos estudantes, muitos destes trabalhos abarcam estudos que aprofundam e apontam quest&otilde;es cientificas para a compreens&atilde;o da din&acirc;mica da Am&eacute;rica L&aacute;tina e caribe como um todo&quot;, diz.&nbsp;</p>
 
 <p><br />
-<br />
 <strong>O Programa</strong></p>
 
 <p><br />
