@@ -4,7 +4,7 @@ tags:
   - tag: manifesto
   - tag: contra-o-golpe
   - tag: democracia
-title: "Em manifesto, Povos do campo e cidade se posicionam contra o golpe, a mídia e o capitalismo internacional"
+title: "Em manifesto, Povos do campo e cidade se posicionam contra o golpe"
 support_line: O documento aponta a necessidade de construir lutas frente as constantes ameaças à democracia brasileira.
 menu: lutas e mobilizações
 images_hd: //farm2.staticflickr.com/1458/25709810170_8e2050abb9_b.jpg
