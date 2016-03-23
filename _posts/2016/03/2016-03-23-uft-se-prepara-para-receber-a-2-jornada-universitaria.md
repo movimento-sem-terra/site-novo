@@ -4,7 +4,7 @@ tags:
   - tag: Jornada-Universitária
   - tag: educação
   - tag: tocantins
-title: "UFT se prepara para receber a 2° Jornada Universitária "
+title: "UFT se prepara para receber a 3°Jornada Universitária "
 support_line: "O objetivo deste ano, segundo os educandos e professores é relembrar o massacre de Eldorado de Carajás – que em 2016 completa 20 anos -, e também a morte do padre Jósimo Moraes."
 menu: "educação, cultura e comunicação"
 images_hd: //farm2.staticflickr.com/1455/25916310581_0147ba7cf8_b.jpg
@@ -29,7 +29,7 @@ releated_posts:
 <em>Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
-A Universidade federal de Tocantins (UFT), vai realizar entre os dias 9 e 10 de maio, a Jornada Universit&aacute;ria da Reforma Agr&aacute;ria 2016.&nbsp;</p>
+A Universidade federal de Tocantins (UFT), vai realizar entre os dias 9 e 10 de maio, a 3&deg; Jornada Universit&aacute;ria da Reforma Agr&aacute;ria.&nbsp;</p>
 
 <p><br />
 O objetivo deste ano, segundo os educandos e professores &eacute; relembrar o massacre de Eldorado de Caraj&aacute;s &ndash; que em 2016 completa 20 anos -, e tamb&eacute;m a morte do padre J&oacute;simo Moraes, coordenador da Pastoral da Terra (CPT), assassinado em 1986 a mando de fazendeiros da microrregi&atilde;o do Bico do Papagaio (atual estado de Tocantins) por sua defesa dos trabalhadores rurais.</p>
