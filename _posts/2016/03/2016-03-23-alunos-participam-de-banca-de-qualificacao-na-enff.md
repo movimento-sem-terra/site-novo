@@ -5,7 +5,7 @@ tags:
   - tag: enff
   - tag: universidade
 title: Educandos participam de formação de pós-graduação na ENFF
-support_line: "Essa experiência é fruto de uma parceria entre a  ENFF e universidades públicas que se vinculam  com as demandas dos estudantes do campo,"
+support_line: Essa experiência é fruto de uma parceria entre a  ENFF e universidades públicas que se vinculam  com as demandas dos estudantes do campo
 menu: "educação, cultura e comunicação"
 images_hd: //farm2.staticflickr.com/1604/25376431534_ee44f351a9_b.jpg
 layout: post
