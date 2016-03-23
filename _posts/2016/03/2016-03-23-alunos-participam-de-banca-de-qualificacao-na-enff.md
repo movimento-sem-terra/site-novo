@@ -4,7 +4,7 @@ tags:
   - tag: educacao
   - tag: enff
   - tag: universidade
-title: "Alunos participam de banca de qualificação na ENFF "
+title: Educandos participam de formação de pós-graduação na ENFF
 support_line: "Essa experiência é fruto de uma parceria entre a  ENFF e universidades públicas que se vinculam  com as demandas dos estudantes do campo,"
 menu: "educação, cultura e comunicação"
 images_hd: //farm2.staticflickr.com/1604/25376431534_ee44f351a9_b.jpg
@@ -44,7 +44,7 @@ Da P&aacute;gina do MST</em></p>
 <p>De 21 a&nbsp;24 de mar&ccedil;o, acontece na Escola Nacional Florestan Fernandes (ENFF),&nbsp;a primeira banca de defesa de disserta&ccedil;&otilde;es de mestrado.</p>
 
 <p><br />
-Essa primeira experi&ecirc;ncia&nbsp;&eacute; fruto de uma parceria entre a &nbsp;ENFF e universidades p&uacute;blicas com&nbsp;programas de p&oacute;s -&nbsp;gradua&ccedil;&atilde;o que se vinculam &nbsp;as demandas dos estudantes do campo, assentados, acampados, quilombolas, agricultores familiares do Brasil e da Am&eacute;rica Latina.</p>
+Essa primeira experi&ecirc;ncia&nbsp;&eacute; fruto de uma parceria entre a ENFF e universidades p&uacute;blicas com&nbsp;programas de p&oacute;s -&nbsp;gradua&ccedil;&atilde;o que se vinculam as demandas dos estudantes do campo, assentados, acampados, quilombolas, agricultores familiares do Brasil e da Am&eacute;rica Latina.</p>
 
 <p><br />
 Segundo Djacira Ara&uacute;jo, da coordena&ccedil;&atilde;o do programa e da escola, a iniciativa&nbsp;&eacute; um marco na luta dos trabalhadores do campo, pelo acesso e o direito ao ensino superior e pela democratiza&ccedil;&atilde;o das universidades.</p>
