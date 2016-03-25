@@ -25,13 +25,13 @@ releated_posts: []
 <em><font color="#222222"><font face="arial, sans-serif"><font style="font-size: 9pt">Da P&aacute;gina do MST</font></font></font></em></p>
 
 <p style="margin-bottom: 0cm; orphans: 1;"><br />
-<span style="line-height: 100%;">O diplomata, Milton Rond&oacute; Filho, que responde pela chefia da Coordena&ccedil;&atilde;o de A&ccedil;&otilde;es Internacionais de Combate &agrave; Fome do Itamaraty e tem fun&ccedil;&atilde;o de fazer o di&aacute;logo entre movimentos socais, na &uacute;ltima quarta-feira (23), foi advertido por prestar informa&ccedil;&otilde;es referente a situa&ccedil;&atilde;o da pol&iacute;tica brasileira para movimentos sociais no exterior.</span></p>
+<span style="line-height: 1.6;">O diplomata, Milton Rond&oacute; Filho, que responde pela chefia da Coordena&ccedil;&atilde;o de A&ccedil;&otilde;es Internacionais de Combate &agrave; Fome do Itamaraty e tem fun&ccedil;&atilde;o de fazer o di&aacute;logo entre movimentos socais, na &uacute;ltima quarta-feira (23), foi advertido por prestar informa&ccedil;&otilde;es referente a situa&ccedil;&atilde;o da pol&iacute;tica brasileira para movimentos sociais no exterior.</span></p>
 
-<p style="margin-bottom: 0cm; line-height: 100%"><br />
-Diante disso, <font color="#222222"><font face="arial, sans-serif"><font style="font-size: 9pt">Movimentos sociais do campo </font></font></font><font color="#222222"><font face="arial, sans-serif"><font style="font-size: 9pt">no Brasil, </font></font></font><font color="#222222"><font face="arial, sans-serif"><font style="font-size: 9pt">divulgam manifesto em apoio </font></font></font><font color="#222222"><font face="arial, sans-serif"><font style="font-size: 9pt">&agrave; </font></font></font><font color="#222222"><font face="arial, sans-serif"><font style="font-size: 9pt">Milton Rond&oacute; e sua atua&ccedil;&atilde;o frente &agrave; Coordena&ccedil;&atilde;o de A&ccedil;&otilde;es Internacionais de Combate &agrave; Fome do Itamaraty, desde 2003. </font></font></font></p>
+<p><br />
+Diante disso, Movimentos sociais do campo no Brasil, divulgam manifesto em apoio &agrave; Milton Rond&oacute; e sua atua&ccedil;&atilde;o frente &agrave; Coordena&ccedil;&atilde;o de A&ccedil;&otilde;es Internacionais de Combate &agrave; Fome do Itamaraty, desde 2003.</p>
 
-<p style="margin-bottom: 0cm; line-height: 100%"><br />
-&quot;<font color="#222222"><font face="arial, sans-serif"><font style="font-size: 9pt">Milton Rond&oacute; sempre pautou suas atua&ccedil;&otilde;es em defesa da Constitui&ccedil;&atilde;o, especialmente de seus mandamentos de constru&ccedil;&atilde;o de uma sociedade livre, justa e solid&aacute;ria e de erradicar a pobreza e a marginaliza&ccedil;&atilde;o. Sua disposi&ccedil;&atilde;o de trabalho na supera&ccedil;&atilde;o das desigualdades fazem desse servidor p&uacute;blico um exemplo de car&aacute;ter e de compromisso republicano&rdquo;, afirma trecho do Manifesto.</font></font></font></p>
+<p><br />
+&quot;Milton Rond&oacute; sempre pautou suas atua&ccedil;&otilde;es em defesa da Constitui&ccedil;&atilde;o, especialmente de seus mandamentos de constru&ccedil;&atilde;o de uma sociedade livre, justa e solid&aacute;ria e de erradicar a pobreza e a marginaliza&ccedil;&atilde;o. Sua disposi&ccedil;&atilde;o de trabalho na supera&ccedil;&atilde;o das desigualdades fazem desse servidor p&uacute;blico um exemplo de car&aacute;ter e de compromisso republicano&rdquo;, afirma trecho do Manifesto.</p>
 
 <p style="margin-bottom: 0cm; orphans: 1;"><br />
 <strong><font color="#222222"><font face="arial, sans-serif"><font style="font-size: 9pt">Confira abaixo na &iacute;ntegra.</font></font></font></strong></p>
