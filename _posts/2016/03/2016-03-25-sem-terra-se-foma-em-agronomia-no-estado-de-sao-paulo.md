@@ -4,7 +4,7 @@ tags:
   - tag: agronomia
   - tag: assentados
   - tag: pronera
-title: Sem Terra se foma em Agronomia no estado de São Paulo
+title: Sem Terra se forma em Agronomia no estado de São Paulo
 images_hd: //farm2.staticflickr.com/1561/25966000471_377f1812dd_b.jpg
 support_line: "Depois de sete anos ocupando o latifúndio do saber, 48 assentados e filhos de assentados beneficiários da reforma agrária, realizaram a colação de grau da I turma de Agronomia em parceria com o PRONERA no estado de São Paulo"
 menu: "educação, cultura e comunicação"
