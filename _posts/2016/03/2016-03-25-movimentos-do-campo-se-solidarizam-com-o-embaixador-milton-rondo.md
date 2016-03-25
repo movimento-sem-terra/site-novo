@@ -6,7 +6,7 @@ tags:
 title: Movimentos do campo se solidarizam com o embaixador Milton Rondó
 support_line: "O manifesto de apoio ao diplomata salienta seu compromisso com a construção de uma sociedade livre, justa e solidária"
 menu: reforma agrária
-section: cover
+section: null
 images_hd: //farm2.staticflickr.com/1569/25964585901_83be5b7d7a_b.jpg
 layout: post
 files:
