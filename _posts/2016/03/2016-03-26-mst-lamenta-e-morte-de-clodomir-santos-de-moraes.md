@@ -42,7 +42,7 @@ Sua experi&ecirc;ncia e legado foram fundamentais para os nossos aprendizados in
 Jornalista, advogado, soci&oacute;logo, professor e, essencialmente, militante comunista, Clodomir nos deixa um legado vivo na luta dos movimentos camponeses.</p>
 
 <p><br />
-Nos somamos &agrave; sua fam&iacute;lia e amigos neste momento de perda, manifestando nossa solidariedade e compromisso de que seguiremos sua luta por reforma agr&aacute;ria e pelas mudan&ccedil;as estruturais necess&aacute;rias na sociedade brasileira.</p>
+Nos somamos &agrave; sua fam&iacute;lia e amigos neste momento de perda, manifestando nossa solidariedade e compromisso de que seguiremos sua luta por Reforma Agr&aacute;ria e pelas mudan&ccedil;as estruturais necess&aacute;rias na sociedade brasileira.</p>
 
 <p style="text-align: right;"><br />
 DIRE&Ccedil;&Atilde;O NACIONAL DO MST&nbsp;<br />
