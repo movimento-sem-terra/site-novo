@@ -23,11 +23,19 @@ releated_posts:
   - _posts/2015/04/2015-04-20-mst-lamenta-a-morte-de-manoel-jose-dos-santos.md
   - _posts/2015/11/2015-11-04-marcada-para-viver-entrevista-ex-lider-camponesa-elizabeth-teixeira.md
   - _posts/2015/02/2015-02-18-o-centenario-de-francisco-juliao-marca-a-vida-de-um-eterno-lutador-da-reforma-agraria.md
+section: cover
 
 ---
-<p>&nbsp;</p>
+<p><br />
+<em>Da P&aacute;gina do MST&nbsp;</em></p>
 
-<p><em>Da P&aacute;gina do MST&nbsp;</em></p>
+<p><br />
+Em nota, o MST manifesta seu pesar pelo falecimento do professor Clodomir Santos de Moraes. Exemplo na luta pela transforma&ccedil;&atilde;o social no Brasil, Clodomir teve seus direitos pol&iacute;ticos cassados por 15 anos, no per&iacute;odo da ditadura. Foi um dos organizadores da Ligas Camponesas na d&eacute;cada de 50 e sempre esteve ligado aos assuntos da reforma agr&aacute;ria e desenvolvimento rural, mesmo em seu ex&iacute;lio pol&iacute;tico.&nbsp;</p>
+
+<p><span style="line-height: 20.8px;">&quot;Sua experi&ecirc;ncia e legado foram fundamentais para os nossos aprendizados iniciais e a Teoria da Organiza&ccedil;&atilde;o sistematizada e implementada por ele foi pilar de constru&ccedil;&atilde;o de in&uacute;meras cooperativas e experi&ecirc;ncias produtivas nos assentamentos de reforma agr&aacute;ria conquistados pelo Movimento Sem Terra, assim como de centenas de cursos de capacita&ccedil;&atilde;o organizativa e t&eacute;cnica&quot;, afirma trecho da nota.</span></p>
+
+<p><br />
+<strong><span style="line-height: 20.8px;">Confira na &iacute;ntegra.&nbsp;</span></strong></p>
 
 <p><br />
 O Movimento dos Trabalhadores Rurais Sem Terra manifesta seu pesar pelo falecimento do professor Clodomir Santos de Moraes.</p>
