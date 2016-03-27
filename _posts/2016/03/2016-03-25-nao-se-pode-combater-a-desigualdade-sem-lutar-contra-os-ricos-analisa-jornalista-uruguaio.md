@@ -19,12 +19,11 @@ files:
 created_date: "2016-03-25T19:45:39-03:00"
 published: true
 releated_posts: []
-section: cover
+section: null
 
 ---
-<p>&nbsp;</p>
-
-<p><em>Por Jo&atilde;o Vitor Santos</em><br />
+<p><br />
+<em>Por Jo&atilde;o Vitor Santos</em><br />
 Do <span style="line-height: 20.8px;">IHU On-Line&nbsp;</span></p>
 
 <p><br />
