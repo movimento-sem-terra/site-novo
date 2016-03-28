@@ -34,8 +34,8 @@ section: cover
 </figure>
 
 <p><br />
-Por Rafael Tatemoto<br />
-Do Brasil de Fato</p>
+<em>Por Rafael Tatemoto<br />
+Do Brasil de Fato</em></p>
 
 <p><br />
 As frentes Brasil Popular e Povo Sem Medo far&atilde;o um ato em Bras&iacute;lia na pr&oacute;xima quinta-feira (31). As organiza&ccedil;&otilde;es esperam levar 100 mil pessoas &agrave;s ruas da capital federal em &ldquo;defesa da democracia&rdquo; e &ldquo;contra o ajuste fiscal&rdquo;.</p>
