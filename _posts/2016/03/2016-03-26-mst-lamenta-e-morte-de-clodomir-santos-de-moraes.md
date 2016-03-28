@@ -23,7 +23,7 @@ releated_posts:
   - _posts/2015/04/2015-04-20-mst-lamenta-a-morte-de-manoel-jose-dos-santos.md
   - _posts/2015/11/2015-11-04-marcada-para-viver-entrevista-ex-lider-camponesa-elizabeth-teixeira.md
   - _posts/2015/02/2015-02-18-o-centenario-de-francisco-juliao-marca-a-vida-de-um-eterno-lutador-da-reforma-agraria.md
-section: cover
+section: null
 
 ---
 <p><br />
