@@ -36,13 +36,13 @@ releated_posts: []
 Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;<br />
-Depois de sete anos ocupando o latif&uacute;ndio do saber e resistindo a&nbsp;diversas formas de preconceitos, 48 militantes assentados e filhos de assentados benefici&aacute;rios da reforma agr&aacute;ria,&nbsp;realizaram a&nbsp;cerim&ocirc;nia de cola&ccedil;&atilde;o de grau da I turma de Agronomia em parceria com o PRONERA no estado de S&atilde;o Paulo.&nbsp;</p>
+Depois de sete anos ocupando o latif&uacute;ndio do saber e resistindo a&nbsp;diversas formas de preconceito, 48 militantes assentados e filhos de assentados benefici&aacute;rios da reforma agr&aacute;ria,realizaram a cola&ccedil;&atilde;o de grau da I turma de Agronomia em parceria com o PRONERA no estado de S&atilde;o Paulo.</p>
 
 <p><br />
-O evento que ocorreu na quinta-feira (17), contou com a participa&ccedil;&atilde;o de familiares e o representante do Programa Nacional de Educa&ccedil;&atilde;o na Reforma Agr&aacute;ria (PRONERA),&nbsp;Reinaldo Rodrigues, o superintendente do Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra), Wellinton Diniz, o vice-reitor da Universidade Federal de S&atilde;o Carlos (UFSCar), professor Dr. Adilson Jesus e pela coordena&ccedil;&atilde;o do curso, o professor Fernando Silveira Franco.&nbsp;</p>
+O evento, que ocorreu na quinta-feira (17), contou com a participa&ccedil;&atilde;o de familiares e do representante do Programa Nacional de Educa&ccedil;&atilde;o na Reforma Agr&aacute;ria (PRONERA),&nbsp;Reinaldo Rodrigues; do superintendente do Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra), Wellinton Diniz; do vice-reitor da Universidade Federal de S&atilde;o Carlos (UFSCar), professor Dr. Adilson Jesus e da coordena&ccedil;&atilde;o do curso, representada pelo&nbsp;professor Fernando Silveira Franco.&nbsp;</p>
 
 <p><br />
-Organizado pelo MST, pela Federa&ccedil;&atilde;o dos Empregados Rurais Assalariados do Estado de S&atilde;o Paulo&nbsp;(FERAESP), Organiza&ccedil;&atilde;o de Mulheres Assentadas e Quilombolas do Estado de S&atilde;o Paulo (OMAQUESP) e Federa&ccedil;&atilde;o da Agricultura Familiar (FAF), o objetivo do curso &eacute; formar assentados para atuar nas &aacute;reas de assentamento e assim contribuir tecnicamente na organiza&ccedil;&atilde;o da produ&ccedil;&atilde;o, comercializa&ccedil;&atilde;o e outras quest&otilde;es sociais de melhorias para os trabalhadores e trabalhadoras do campo.&nbsp;<br />
+Organizado pelo MST, pela Federa&ccedil;&atilde;o dos Empregados Rurais Assalariados do Estado de S&atilde;o Paulo&nbsp;(FERAESP), pela Organiza&ccedil;&atilde;o de Mulheres Assentadas e Quilombolas do Estado de S&atilde;o Paulo (OMAQUESP) e pela Federa&ccedil;&atilde;o da Agricultura Familiar (FAF), o objetivo do curso &eacute; formar assentados para atuarem&nbsp;nas &aacute;reas de assentamento e assim contribuir tecnicamente na organiza&ccedil;&atilde;o da produ&ccedil;&atilde;o, da comercializa&ccedil;&atilde;o e de&nbsp;outras quest&otilde;es sociais de melhorias para os trabalhadores e trabalhadoras do campo.&nbsp;<br />
 &nbsp;</p>
 
 <figure class="image"><img alt="agro.jpg" height="467" src="//farm2.staticflickr.com/1640/25427487254_e38decf0f5_b.jpg" width="700" />
@@ -50,10 +50,10 @@ Organizado pelo MST, pela Federa&ccedil;&atilde;o dos Empregados Rurais Assalari
 </figure>
 
 <p><br />
-Para o Prof, Dr. Fernando Silveira Franco, coordenador do curso de agronomia, a cerim&ocirc;nia &eacute; de extrema import&acirc;ncia para a hist&oacute;ria do curso, para os educandos e para todos aqueles que durante esses sete anos se dedicaram direta ou indiretamente para a conclus&atilde;o deste sonho.</p>
+Para o Prof.&nbsp;Dr. Fernando Silveira Franco, coordenador do curso de agronomia, a cerim&ocirc;nia &eacute; de extrema import&acirc;ncia para a hist&oacute;ria do curso, para os educandos e para todos aqueles que durante esses sete anos se dedicaram direta ou indiretamente para &agrave;&nbsp;conclus&atilde;o deste sonho.</p>
 
 <p><br />
-&ldquo;Por se tratar de um curso que apresenta uma abordagem e uma perspectiva completamente diferente de outros cursos de gradua&ccedil;&atilde;o, sua relev&acirc;ncia &eacute; ainda maior, no contexto da UFSCar Sorocaba e da regi&atilde;o em geral, bem como para o desenvolvimento da Agroecologia, como alternativa de produ&ccedil;&atilde;o sustent&aacute;vel nos assentamentos de Reforma Agr&aacute;ria&rdquo;, afirmou o coordenador.</p>
+&ldquo;Por se tratar de um curso que apresenta uma abordagem e uma perspectiva completamente diferentes de outros cursos de gradua&ccedil;&atilde;o, sua relev&acirc;ncia &eacute; ainda maior, no contexto da UFSCar Sorocaba e da regi&atilde;o em geral, bem como para o desenvolvimento da Agroecologia, como alternativa de produ&ccedil;&atilde;o sustent&aacute;vel nos assentamentos de Reforma Agr&aacute;ria&rdquo;, afirmou o coordenador.</p>
 
 <p><br />
-Os agr&ocirc;nomos e agr&ocirc;nomas rec&eacute;m-formados v&ecirc;m de diversas regi&otilde;es do estado de S&atilde;o Paulo como Sorocaba, regi&atilde;o Sudoeste, S&atilde;o Carlos, Vale do Ribeira, Andradina, Promiss&atilde;o, Ribeir&atilde;o Preto, Vale do Para&iacute;ba e Pontal do Paranapanema.&nbsp;</p>
+Os agr&ocirc;nomos e agr&ocirc;nomas rec&eacute;m-formados v&ecirc;m de diversas regi&otilde;es do estado de S&atilde;o Paulo,&nbsp;como Sorocaba, regi&atilde;o Sudoeste, S&atilde;o Carlos, Vale do Ribeira, Andradina, Promiss&atilde;o, Ribeir&atilde;o Preto, Vale do Para&iacute;ba e Pontal do Paranapanema.&nbsp;</p>
