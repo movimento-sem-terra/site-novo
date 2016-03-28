@@ -8,7 +8,7 @@ tags:
 title: Defesa da democracia é o único caminho para sair da crise de governabilidade
 support_line: "Se superar empate de opiniões com a direita, campo progressista deve buscar a convocação de Assembleia Constituinte que promova a reforma do sistema político e da estrutura do Estado\n"
 menu: lutas e mobilizações
-images_hd: //farm2.staticflickr.com/1652/26000898292_b442d944c7_b.jpg
+images_hd: //farm2.staticflickr.com/1718/26068612986_2c183355a3_b.jpg
 layout: post
 files:
   - link: //farm2.staticflickr.com/1652/26000898292_b442d944c7_b.jpg
@@ -17,17 +17,22 @@ files:
     small: //farm2.staticflickr.com/1652/26000898292_b442d944c7_n.jpg
     title: emirsader1.jpg
     $$hashKey: "105"
+  - link: //farm2.staticflickr.com/1718/26068612986_2c183355a3_b.jpg
+    thumbnail: //farm2.staticflickr.com/1718/26068612986_2c183355a3_t.jpg
+    medium: //farm2.staticflickr.com/1718/26068612986_2c183355a3_z.jpg
+    small: //farm2.staticflickr.com/1718/26068612986_2c183355a3_n.jpg
+    title: 25614966780_b4372419bf_z.jpg
+    $$hashKey: 0CP
 created_date: "2016-03-28T11:56:07-03:00"
 published: true
 releated_posts:
-  - _posts/2016/01/2016-01-22-sem-terra-se-reunem-no-28o-encontro-estadual-em-sao-paulo.md
-  - _posts/2015/07/2015-07-06-movimentos-populares-se-levantam-contra-o-golpe.md
-  - _posts/2015/12/2015-12-16-mobilizacoes-desta-quarta-ja-se-iniciam-em-diversas-partes-do-brasil.md
   - _posts/2015/12/2015-12-17-contra-o-golpe-milhares-de-pessoas-saem-as-ruas-na-bahia.md
   - _posts/2016/03/2016-03-17-estado-de-excecao-criado-por-moro-incendeia-debate-sobre-democracia-no-tuca.md
   - _posts/2016/03/2016-03-16-ato-no-tuca-nesta-quarta-abre-agenda-de-luta-pela-democracia.md
   - _posts/2016/03/2016-03-16-audiencia-publica-na-ba-impulsiona-lutas-populares-em-defesa-da-petrobras.md
   - _posts/2016/03/2016-03-17-amanha-e-preciso-que-as-ruas-estejam-ocupadas-por-gente-que-nao-tem-medo-da-direita-diz-valter-pomar.md
+  - _posts/2016/03/2016-03-21-a-luta-e-para-garantir-a-democracia-afirma-frente-brasil-popular.md
+  - _posts/2016/02/2016-02-01-brasil-nao-deveria-abster-se-de-tomar-decisoes-ousadas-afirma-economista.md
 
 ---
 <p><br />
