@@ -24,6 +24,7 @@ releated_posts:
   - _posts/2016/03/2016-03-16-ato-no-tuca-nesta-quarta-abre-agenda-de-luta-pela-democracia.md
   - _posts/2016/03/2016-03-17-estado-de-excecao-criado-por-moro-incendeia-debate-sobre-democracia-no-tuca.md
   - _posts/2016/03/2016-03-17-amanha-e-preciso-que-as-ruas-estejam-ocupadas-por-gente-que-nao-tem-medo-da-direita-diz-valter-pomar.md
+section: cover
 
 ---
 <p>&nbsp;</p>
