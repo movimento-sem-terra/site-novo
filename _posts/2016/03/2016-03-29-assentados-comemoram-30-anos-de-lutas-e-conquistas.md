@@ -95,7 +95,7 @@ A conquista da terra foi uma grande vit&oacute;ria para essas fam&iacute;lias. A
 
 <p><img alt="Mariana da Silva.jpg" height="394" src="//farm2.staticflickr.com/1492/26021296632_a9215f1bb3_b.jpg" width="700" /><br />
 <br />
-Questionada sobre os 30 anos do Assentamento, a assentada dona Mariana nos contou sua alegria e emo&ccedil;&atilde;o em participar deste momento.</p>
+Questionada sobre os 30 anos do Assentamento, dona Mariana nos contou sua alegria e emo&ccedil;&atilde;o em participar deste momento.</p>
 
 <p><br />
 &ldquo;Sinto-me muito feliz. Ontem mesmo eu estava l&aacute; brincando e minhas filhas falaram que eu estava muito alegre. Respondi que estava mesmo, porque a luta que n&oacute;s tivemos para hoje comemorar os 30 anos dessa conquista. A maior satisfa&ccedil;&atilde;o para mim &eacute; criar meus netos e bisnetos no sossego dessa terra. Eu comecei na luta e estou aqui at&eacute; o fim&rdquo;, concluiu a assentada entre risos.</p>
