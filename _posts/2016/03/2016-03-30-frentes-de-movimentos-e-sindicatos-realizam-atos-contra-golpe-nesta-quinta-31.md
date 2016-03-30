@@ -27,6 +27,7 @@ releated_posts:
   - _posts/2016/03/2016-03-11-movimentos-e-organizacoes-populares-realizam-protestos-em-toda-bahia.md
   - _posts/2016/03/2016-03-17-estado-de-excecao-criado-por-moro-incendeia-debate-sobre-democracia-no-tuca.md
   - _posts/2016/03/2016-03-17-para-stedile-lula-na-casa-civil-pode-barrar-golpe-mas-e-preciso-mudancas-a-favor-do-povo.md
+section: cover
 
 ---
 <p><br />
