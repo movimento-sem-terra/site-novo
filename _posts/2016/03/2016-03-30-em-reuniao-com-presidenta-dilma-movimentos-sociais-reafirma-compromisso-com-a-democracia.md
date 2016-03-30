@@ -7,7 +7,7 @@ tags:
 support_line: "É consenso entre as organizações camponesas que o golpe produzirá uma ruptura democrática com consequências terríveis para os trabalhadores do campo e da cidade, além de abrir caminho para a retomada do projeto neoliberal no Brasil."
 menu: lutas e mobilizações
 images_hd: //farm2.staticflickr.com/1463/25866050570_cdc59c375a_b.jpg
-title: "Em reunião com presidenta Dilma, movimentos sociais reafirma compromisso com a democracia"
+title: "Em reunião com presidenta Dilma, movimentos sociais reafirmam compromisso com a democracia"
 layout: post
 files:
   - link: //farm2.staticflickr.com/1463/25866050570_cdc59c375a_b.jpg
