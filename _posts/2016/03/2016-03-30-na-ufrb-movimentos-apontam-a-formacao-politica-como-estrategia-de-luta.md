@@ -6,7 +6,7 @@ tags:
   - tag: contra-o-golpe
 title: "​Na UFRB, Movimentos apontam a formação política como estratégia de luta"
 images_hd: //farm2.staticflickr.com/1647/26042588472_b7ba81f861_b.jpg
-support_line: "Militantes debateram o o atual cenário político e encaminharam a criação de um Comitê Contra o Golpe. \n"
+support_line: "Militantes debateram o atual cenário político e encaminharam a criação de um Comitê Contra o Golpe. \n"
 menu: lutas e mobilizações
 layout: post
 files:
