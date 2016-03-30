@@ -4,10 +4,10 @@ tags:
   - tag: contra-o-golpe
   - tag: lutas-e-mobilizações
   - tag: democracia
-title: Parlamentares se comprometem com a pauta da Reforma Agrária e a defesa da democracia
+title: Parlamentares se comprometem com a Reforma Agrária e a defesa da democracia
 images_hd: //farm2.staticflickr.com/1486/26138247635_88ae3d27ab_b.jpg
 menu: lutas e mobilizações
-support_line: A atividade também reuniu personalidades defensoras da democracia.
+support_line: "De acordo com João Pedro Stedile, da direção do MST, o momento de crise política exige a união da classe trabalhadora para a construção de um outro modelo de desenvolvimento."
 layout: post
 files:
   - link: //farm2.staticflickr.com/1486/26138247635_88ae3d27ab_b.jpg
