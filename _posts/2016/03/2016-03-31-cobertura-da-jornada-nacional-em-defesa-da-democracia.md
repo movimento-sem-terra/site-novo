@@ -6,7 +6,7 @@ tags:
 menu: lutas e mobilizações
 section: cover
 title: Cobertura da Jornada Nacional em Defesa da Democracia
-support_line: Cobertura em tempo real das mobilizações contra o golpe em todo país
+support_line: Acompanhe em tempo real as mobilizações contra o golpe em todo país
 images_hd: //farm2.staticflickr.com/1555/26059805362_840bb26cb1_b.jpg
 layout: post
 files:
@@ -21,4 +21,4 @@ published: true
 releated_posts: []
 
 ---
-<iframe height="360" src="http://cobertura.brasildefato.com.br" width="640"></iframe>
+<p><iframe height="360" src="http://cobertura.brasildefato.com.br" width="640"></iframe></p>
