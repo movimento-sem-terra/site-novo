@@ -48,10 +48,12 @@ releated_posts:
 section: cover
 
 ---
-<figure class="image"><img alt="sp2.jpg" height="394" src="//farm2.staticflickr.com/1533/25565023214_e69fb87851_b.jpg" width="700" />
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="sp2.jpg" height="394" src="//farm2.staticflickr.com/1533/25565023214_e69fb87851_b.jpg" width="700" />
 <figcaption>Ato na Pra&ccedil;a da S&eacute;, em S&atilde;o Paulo, reuniu 60 mil manifestantes.&nbsp;<br />
 Foto: Gilberto Cervinsky</figcaption>
 </figure>
+</div>
 
 <p><br />
 <em>Por Rute Pina*<br />
@@ -59,9 +61,6 @@ Do Brasil de Fato</em></p>
 
 <p><br />
 Mais de 700 mil pessoas participaram da Jornada Nacional em Defesa da Democracia nesta quinta-feira (31) em diversas cidades brasileiras. Os atos foram organizados pela Frente Brasil Popular e pela Frente Povo Sem Medo, com o objetivo de defender a democracia contra o golpe e de lutar por uma outra pol&iacute;tica econ&ocirc;mica.</p>
-
-<p><br />
-A manifesta&ccedil;&atilde;o fez parte de um conjunto de a&ccedil;&otilde;es unit&aacute;rias convocadas pela Frente Brasil Popular e&nbsp;pela Frente Povo Sem Medo em todo o pa&iacute;s. Foto: Jos&eacute; Eduardo Bernardes / Brasil de Fato.</p>
 
 <p><br />
 Al&eacute;m dos atos nacionais, brasileiros que moram em outras partes do mundo tamb&eacute;m se manifestam contra a tentativa de golpe em curso no Brasil. Foram registrados atos em Bogot&aacute; (Col&ocirc;mbia), Paris (Fran&ccedil;a), Munique (Alemanha), Copenhagen (Dinamarca), Coimbra (Portugal) e Barcelona (Espanha).</p>
@@ -88,10 +87,12 @@ Passada essa turbul&ecirc;ncia, diz Nilceia, a presidenta deveria liderar um pro
 <a href="http://cobertura.brasildefato.com.br/">Cobertura ao vivo - Confira como foi a cobertura em tempo real em diversas cidades do pa&iacute;s e do mundo</a><br />
 &nbsp;</p>
 
-<figure class="image"><img alt="25886219860_79931a18ea_b.jpg" height="394" src="//farm2.staticflickr.com/1644/26077329462_c08075488d_b.jpg" width="700" />
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="25886219860_79931a18ea_b.jpg" height="394" src="//farm2.staticflickr.com/1644/26077329462_c08075488d_b.jpg" width="700" />
 <figcaption>​Cerca de 200 mil pessoas participaram do ato em Bras&iacute;lia (DF).<br />
 Foto: Rafael Tatemoto / Brasil de Fato.</figcaption>
 </figure>
+</div>
 
 <p><br />
 <strong>Juventude</strong></p>
@@ -124,10 +125,12 @@ J&aacute; no Rio, aproximadamente 50 mil manifestantes ocuparam o Largo da Cario
 Al&eacute;m dos atos nacionais, brasileiros que moram em outras partes do mundo tamb&eacute;m se manifestam contra a tentativa de golpe em curso no Brasil. J&aacute; foram registrados atos em Bogot&aacute; (Col&ocirc;mbia), Paris (Fran&ccedil;a), Munique (Alemanha), Copenhagen (Dinamarca), Coimbra (Portugal) e Barcelona (Espanha).<br />
 &nbsp;</p>
 
-<figure class="image"><img alt="25893598850_acda669126_z.jpg" height="394" src="//farm2.staticflickr.com/1454/26103441941_0fd01c36bd_b.jpg" width="700" />
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="25893598850_acda669126_z.jpg" height="394" src="//farm2.staticflickr.com/1454/26103441941_0fd01c36bd_b.jpg" width="700" />
 <figcaption>70 mil compareceram em ato no Largo da Carioca, Rio de Janeiro.&nbsp;<br />
 Foto: M&iacute;dia Ninja</figcaption>
 </figure>
+</div>
 
 <p><br />
 <strong>Confira as a&ccedil;&otilde;es por estado:</strong></p>
@@ -165,12 +168,7 @@ Em Goi&acirc;nia, cerca de 2 mil pessoas participaram do ato, que se concentrou 
 <p><br />
 Na capital, S&atilde;o Lu&iacute;s, a organiza&ccedil;&atilde;o divulgou que mil pessoas participaram do ato. J&aacute; no munic&iacute;pio de Imperatriz, a estimativa &eacute; de que 500 pessoas manifestaram seu apoio &agrave; democracia na Pra&ccedil;a de F&aacute;tima.</p>
 
-<p><br />
-<strong>MG</strong></p>
-
 <p>&nbsp;</p>
-
-<p>Em Belo Horizonte, o ato reuniu cerca de 40 mil na Pra&ccedil;a da Esta&ccedil;&atilde;o. A popula&ccedil;&atilde;o de outras cidades, como Juiz de Fora, Montes Claros, Po&ccedil;os de Caldas, S&atilde;o Louren&ccedil;o e Varginha tamb&eacute;m participaram da manifesta&ccedil;&atilde;o.</p>
 
 <p><br />
 <strong>MT</strong></p>
@@ -184,7 +182,14 @@ Em Cuiab&aacute;, o palco das manifesta&ccedil;&otilde;es contra o golpe foi a a
 <p><br />
 A concentra&ccedil;&atilde;o do ato em Bel&eacute;m come&ccedil;ou &agrave;s 16h na Pra&ccedil;a da Leitura e, at&eacute; o final da noite, reuniu aproximadamente 30 mil pessoas.</p>
 
-<p><br />
+<p style="line-height: 20.8px;"><br />
+<strong>MG</strong></p>
+
+<p style="line-height: 20.8px;">&nbsp;</p>
+
+<p style="line-height: 20.8px;">Em Belo Horizonte, o ato reuniu cerca de 40 mil na Pra&ccedil;a da Esta&ccedil;&atilde;o. A popula&ccedil;&atilde;o de outras cidades, como Juiz de Fora, Montes Claros, Po&ccedil;os de Caldas, S&atilde;o Louren&ccedil;o e Varginha tamb&eacute;m participaram da manifesta&ccedil;&atilde;o.</p>
+
+<p style="line-height: 20.8px;"><br />
 <strong>PE</strong></p>
 
 <p><br />
