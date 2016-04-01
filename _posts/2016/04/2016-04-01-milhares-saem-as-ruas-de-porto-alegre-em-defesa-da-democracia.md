@@ -5,7 +5,7 @@ tags:
   - tag: ato
   - tag: rio-grande-do-sul
 title: Milhares saem às ruas de Porto Alegre em defesa da democracia
-support_line: "Em todo o estado, cerca de 100 mil militantes de movimentos populares do campo e da cidade e de diversas outras organizações participaram dos atos em mais de 20 municípios"
+support_line: "Em todo o estado, cerca de 100 mil militantes de diversas organizações e movimentos populares do campo e da cidade, participaram dos atos em mais de 20 municípios"
 menu: lutas e mobilizações
 images_hd: //farm2.staticflickr.com/1600/26145188026_8073df26f1_b.jpg
 layout: post
@@ -48,7 +48,7 @@ Da P&aacute;gina do MST</em></p>
 Mais de 80 mil pessoas tomaram as ruas de Porto Alegre, no Rio Grande do Sul, nesta quinta-feira (31), para denunciar o golpe em curso no pa&iacute;s e defender a democracia brasileira, em ato realizado pelo Frente Brasil Popular e Frente Povo Sem Medo.</p>
 
 <p><br />
-Em todo o estado, cerca de 100 mil militantes de movimentos populares do campo e da cidade e de diversas outras organiza&ccedil;&otilde;es participaram, em mais de 20 munic&iacute;pios, da Jornada Nacional em Defesa da Democracia.</p>
+Em todo o estado, cerca de 100 mil militantes de diversas organiza&ccedil;&otilde;es e movimentos populares do campo e da cidade,&nbsp;participaram dos atos em mais de 20 munic&iacute;pios, da Jornada Nacional em Defesa da Democracia.</p>
 
 <p><br />
 Na Capital, a concentra&ccedil;&atilde;o come&ccedil;ou por volta das 17 horas na Esquina Democr&aacute;tica, no bairro Centro. Com centenas de cartazes e revezamento de falas em carros de som, os manifestantes denunciavam a atua&ccedil;&atilde;o da grande m&iacute;dia, de parte do poder judici&aacute;rio e dos setores da direita na tentativa de impedir a presidente Dilma Rousseff de continuar seu mandato at&eacute; o ano de 2018, quando ocorrem novas elei&ccedil;&otilde;es para a presid&ecirc;ncia da Rep&uacute;blica.</p>
