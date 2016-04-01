@@ -33,20 +33,16 @@ releated_posts:
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Cerca de 30 fam&iacute;lias Sem Terra reocuparam na madrugada desta ter&ccedil;a-feira (29),&nbsp;os 360 hectares que pertenciam a antiga Agroeste, empresa localizada na cidade de&nbsp;Xanxer&ecirc; e que atualmente pertence&nbsp;grupo Monsanto.</p>
+Cerca de 30 fam&iacute;lias Sem Terra reocuparam, na madrugada desta ter&ccedil;a-feira (29),&nbsp;os 360 hectares que pertenciam &agrave; antiga Agroeste, empresa localizada na cidade de&nbsp;Xanxer&ecirc; e que atualmente pertence ao grupo Monsanto.</p>
 
 <p><br />
-Os Sem Terra resistem h&aacute; cerca de&nbsp;dois anos em um espa&ccedil;o cedido pela comunidade de Lageado Grande e,&nbsp;nesta ter&ccedil;a-feira,&nbsp;resolveram voltar &agrave;&nbsp;&aacute;rea da fazenda&nbsp;com o objetivo de pressionar o Instituto Nacional de Coloniza&ccedil;&atilde;o&nbsp;Reforma Agr&aacute;ria (Incra-PA).</p>
+Os Sem Terra resistem h&aacute; cerca de&nbsp;dois anos em um espa&ccedil;o cedido pela comunidade de Lageado Grande e,&nbsp;nesta ter&ccedil;a-feira,&nbsp;resolveram voltar &agrave;&nbsp;&aacute;rea da fazenda&nbsp;com o objetivo de pressionar o Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra).</p>
 
 <p><br />
-Segundo&nbsp;<span style="line-height: 20.8px;">Irma Brunetto da dire&ccedil;&atilde;o do MST,</span>&nbsp;o objetivo do Movimento &eacute; denunciar&nbsp;o descaso das grandes empresas multinacionais com o nosso territ&oacute;rio.</p>
+Segundo&nbsp;<span style="line-height: 20.8px;">Irma Brunetto, da dire&ccedil;&atilde;o do MST,</span>&nbsp;o objetivo do Movimento &eacute; denunciar&nbsp;o descaso das grandes empresas multinacionais com o nosso territ&oacute;rio.</p>
 
 <p><br />
-&ldquo;No ano passado o INCRA perdeu na justi&ccedil;a em Porto Alegre, com a justificativa de que a &aacute;rea estava em repouso, mas sabemos que n&atilde;o &eacute; isso, a &aacute;rea estava abandonada e s&oacute; depois da ocupa&ccedil;&atilde;o do Movimento a&nbsp;Monsanto arrendou a &aacute;rea para um ex-funcion&aacute;rio da Agroeste&rdquo;, afirma Brunetto.</p>
+&ldquo;No ano passado, o INCRA perdeu na Justi&ccedil;a em&nbsp;Porto Alegre, com a justificativa de que a &aacute;rea estava em repouso, mas sabemos que n&atilde;o &eacute; isso, o local&nbsp;estava abandonado&nbsp;e s&oacute; depois da ocupa&ccedil;&atilde;o do Movimento a&nbsp;Monsanto arrendou o im&oacute;vel&nbsp;para um ex-funcion&aacute;rio da Agroeste&rdquo;, afirma Brunetto.</p>
 
 <p><br />
 Os Sem Terra garantem&nbsp;para que o arrendat&aacute;rio poder&aacute; colher a soja que plantou at&eacute; agora&nbsp;na &aacute;rea, mas deixaram claro que, de agora em diante, as fam&iacute;lias acampadas trabalharam na produ&ccedil;&atilde;o org&acirc;nica. &nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
