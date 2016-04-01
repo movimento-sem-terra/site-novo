@@ -38,7 +38,7 @@ releated_posts:
 section: cover
 
 ---
-<p><img alt="AkqpufsUv4ioZrKuzG5iGEwc8pbT0qBdfUIDkAb2y5wZ.jpg" height="466" src="//farm2.staticflickr.com/1579/26081939832_3b1a6d1c05_b.jpg" width="700" /></p>
+<p><img alt="Ag3u49NvDKqOxDQKE_AYgV33BE9tnVfFendMX8KiotmI.jpg" height="394" src="//farm2.staticflickr.com/1626/25569649794_eccc3e90c8_b.jpg" width="700" /></p>
 
 <p>&nbsp;</p>
 
@@ -79,6 +79,9 @@ Por fim, Concei&ccedil;&atilde;o reafirmou que a classe trabalhadora est&aacute;
 
 <p><br />
 A solenidade contou com a participa&ccedil;&atilde;o de representantes de movimentos sociais e sindicais ligados ao campo entre eles a Via Campesina, Movimento dos Pequenos Agricultores (MPA), Movimento dos Atingidos por Barragem (MAB), Movimento dos Atingidos pela Minera&ccedil;&atilde;o (MAM), Federa&ccedil;&atilde;o dos Trabalhadores na Agricultura Familiar e integrantes de comunidades quilombolas e do movimento negro.&nbsp;</p>
+
+<p><br />
+<img alt="AkqpufsUv4ioZrKuzG5iGEwc8pbT0qBdfUIDkAb2y5wZ.jpg" height="466" src="//farm2.staticflickr.com/1579/26081939832_3b1a6d1c05_b.jpg" width="700" /></p>
 
 <p><br />
 <strong>Igualdade racial</strong></p>
