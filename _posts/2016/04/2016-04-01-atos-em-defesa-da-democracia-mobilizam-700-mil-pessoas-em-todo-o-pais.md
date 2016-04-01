@@ -37,6 +37,12 @@ files:
     small: //farm2.staticflickr.com/1707/26077637992_a92481e667_n.jpg
     title: 00749d36-178c-40ce-8de2-23af922a340d.jpg
     $$hashKey: 082
+  - link: //farm2.staticflickr.com/1538/26078167912_9305bcd7ca_b.jpg
+    thumbnail: //farm2.staticflickr.com/1538/26078167912_9305bcd7ca_t.jpg
+    medium: //farm2.staticflickr.com/1538/26078167912_9305bcd7ca_z.jpg
+    small: //farm2.staticflickr.com/1538/26078167912_9305bcd7ca_n.jpg
+    title: 12932845_1087272754678771_6886479233086497185_n.jpg
+    $$hashKey: 1GD
 created_date: "2016-04-01T11:04:20-03:00"
 published: true
 releated_posts:
@@ -168,8 +174,6 @@ Em Goi&acirc;nia, cerca de 2 mil pessoas participaram do ato, que se concentrou 
 <p><br />
 Na capital, S&atilde;o Lu&iacute;s, a organiza&ccedil;&atilde;o divulgou que mil pessoas participaram do ato. J&aacute; no munic&iacute;pio de Imperatriz, a estimativa &eacute; de que 500 pessoas manifestaram seu apoio &agrave; democracia na Pra&ccedil;a de F&aacute;tima.</p>
 
-<p>&nbsp;</p>
-
 <p><br />
 <strong>MT</strong></p>
 
@@ -185,9 +189,14 @@ A concentra&ccedil;&atilde;o do ato em Bel&eacute;m come&ccedil;ou &agrave;s 16h
 <p style="line-height: 20.8px;"><br />
 <strong>MG</strong></p>
 
-<p style="line-height: 20.8px;">&nbsp;</p>
+<p style="line-height: 20.8px;"><br />
+Em Belo Horizonte, o ato reuniu cerca de 40 mil na Pra&ccedil;a da Esta&ccedil;&atilde;o. A popula&ccedil;&atilde;o de outras cidades, como Juiz de Fora, Montes Claros, Po&ccedil;os de Caldas, S&atilde;o Louren&ccedil;o e Varginha tamb&eacute;m participaram da manifesta&ccedil;&atilde;o.<br />
+&nbsp;</p>
 
-<p style="line-height: 20.8px;">Em Belo Horizonte, o ato reuniu cerca de 40 mil na Pra&ccedil;a da Esta&ccedil;&atilde;o. A popula&ccedil;&atilde;o de outras cidades, como Juiz de Fora, Montes Claros, Po&ccedil;os de Caldas, S&atilde;o Louren&ccedil;o e Varginha tamb&eacute;m participaram da manifesta&ccedil;&atilde;o.</p>
+<figure class="image"><img alt="12932845_1087272754678771_6886479233086497185_n.jpg" height="1020" src="//farm2.staticflickr.com/1538/26078167912_9305bcd7ca_b.jpg" width="700" />
+<figcaption>Manifestante Sem Terra critica Rede Globo por monop&oacute;lio e manipula&ccedil;&atilde;o da informa&ccedil;&atilde;o.&nbsp;<br />
+Foto: Geanini Hackbardt</figcaption>
+</figure>
 
 <p style="line-height: 20.8px;"><br />
 <strong>PE</strong></p>
