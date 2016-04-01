@@ -85,7 +85,7 @@ A atriz do Grupo 59 de Teatro, Nilceia Maria Vicente, 37, afirma que saiu de cas
 Passada essa turbul&ecirc;ncia, diz Nilceia, a presidenta deveria liderar um processo de reforma pol&iacute;tica no pa&iacute;s. &ldquo;A gente est&aacute; aqui brigando por ela e ela precisa estar l&aacute; brigando por n&oacute;s tamb&eacute;m&rdquo;, disse.</p>
 
 <p><br />
-Cobertura ao vivo - Confira como foi a cobertura em tempo real em diversas cidades do pa&iacute;s e do mundo<br />
+<a href="http://cobertura.brasildefato.com.br/">Cobertura ao vivo - Confira como foi a cobertura em tempo real em diversas cidades do pa&iacute;s e do mundo</a><br />
 &nbsp;</p>
 
 <figure class="image"><img alt="25886219860_79931a18ea_b.jpg" height="394" src="//farm2.staticflickr.com/1644/26077329462_c08075488d_b.jpg" width="700" />
