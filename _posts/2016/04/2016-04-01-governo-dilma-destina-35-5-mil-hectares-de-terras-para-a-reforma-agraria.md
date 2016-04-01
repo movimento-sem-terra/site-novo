@@ -35,6 +35,7 @@ releated_posts:
   - _posts/2015/08/2015-08-20-durante-jornada-sem-terra-conquistam-tres-areas-emblematicas-em-minas-gerais.md
   - _posts/2016/03/2016-03-31-audiencia-publica-discute-icms-ecologico-em-assentamentos-no-parana.md
   - _posts/2016/03/2016-03-18-mst-ocupa-area-de-envolvidos-na-operacao-lava-jato-no-parana.md
+section: cover
 
 ---
 <p><img alt="AkqpufsUv4ioZrKuzG5iGEwc8pbT0qBdfUIDkAb2y5wZ.jpg" height="466" src="//farm2.staticflickr.com/1579/26081939832_3b1a6d1c05_b.jpg" width="700" /></p>
