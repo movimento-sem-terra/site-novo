@@ -7,7 +7,7 @@ tags:
 title: Rádio camponesa comemora cinco anos de ocupação do latifúndio do ar
 images_hd: //farm2.staticflickr.com/1576/25919836890_172df7931a_b.jpg
 menu: "educação, cultura e comunicação"
-support_line: "A Rádio Camponesa FM 95,7 também esta disponível na web, desde 2015, e conta com uma equipe de comunicadores formados pelo coletivo de comunicação do assentamento."
+support_line: "\"É um espaço de disputa da informação que pauta a democratização e a construção da formação educativa e política da classe trabalhadora do campo e da cidade.\""
 layout: post
 files:
   - link: //farm2.staticflickr.com/1576/25919836890_172df7931a_b.jpg
@@ -55,7 +55,7 @@ A programa&ccedil;&atilde;o que iniciou com uma alvorada por volta das 5h30 da m
 Para Lia Pinheiro, educadora na Faculdade de educa&ccedil;&atilde;o de Crate&uacute;s, &eacute; uma alegria muito grande comemorar o aniversario de 05 anos da R&aacute;dio Camponesa.</p>
 
 <p><br />
-&quot;A R&aacute;dio tem sido fundamental no processo de ruptura do latif&uacute;ndio do ar, na regi&atilde;o do sert&atilde;o de Crate&uacute;s. &Eacute; um espa&ccedil;o de disputa da informa&ccedil;&atilde;o que pauta a democratiza&ccedil;&atilde;o, bem como, a constru&ccedil;&atilde;o da forma&ccedil;&atilde;o educativa e pol&iacute;tica da classe trabalhadora do campo e da cidade&quot;, salientou.<br />
+&quot;A R&aacute;dio tem sido fundamental no processo de ruptura do latif&uacute;ndio do ar, na regi&atilde;o do sert&atilde;o de Crate&uacute;s. &Eacute; um espa&ccedil;o de disputa da informa&ccedil;&atilde;o que pauta a democratiza&ccedil;&atilde;o e&nbsp;a constru&ccedil;&atilde;o da forma&ccedil;&atilde;o educativa e pol&iacute;tica da classe trabalhadora do campo e da cidade&quot;, salientou.<br />
 &nbsp;</p>
 
 <p><img alt="12946956_1076135215784264_963400966_o.jpg" height="394" src="//farm2.staticflickr.com/1510/25919837020_a5bd1b9bd4_b.jpg" width="700" /><br />
