@@ -6,8 +6,8 @@ tags:
   - tag: violência
   - tag: ameaça
 title: "Sem Terras sofrem com ameaças em Rondônia "
-support_line: "Em todos os contatos com as forças policias do Estado, as famílias disseram claramente que o objetivo principal era se organizar para que o direito à terra fosse alcançado através de luta e reivindicação."
-images_hd: //farm2.staticflickr.com/1586/25629801094_83582bc368_b.jpg
+support_line: "Em todos os contatos com as forças policiais do Estado, as famílias disseram claramente que o objetivo principal era se organizar para que o direito à terra fosse alcançado através de luta e reivindicação."
+images_hd: //farm2.staticflickr.com/1599/26143468982_06e8dd397d_b.jpg
 menu: direitos humanos
 layout: post
 files:
@@ -17,12 +17,12 @@ files:
     small: //farm2.staticflickr.com/1586/25629801094_83582bc368_n.jpg
     title: DSC_9363 (1).jpg
     $$hashKey: 09U
-  - link: //farm2.staticflickr.com/1632/25961657120_a533c5942e_b.jpg
-    thumbnail: //farm2.staticflickr.com/1632/25961657120_a533c5942e_t.jpg
-    medium: //farm2.staticflickr.com/1632/25961657120_a533c5942e_z.jpg
-    small: //farm2.staticflickr.com/1632/25961657120_a533c5942e_n.jpg
-    title: DSC_9294.jpg
-    $$hashKey: 09X
+  - link: //farm2.staticflickr.com/1599/26143468982_06e8dd397d_b.jpg
+    thumbnail: //farm2.staticflickr.com/1599/26143468982_06e8dd397d_t.jpg
+    medium: //farm2.staticflickr.com/1599/26143468982_06e8dd397d_z.jpg
+    small: //farm2.staticflickr.com/1599/26143468982_06e8dd397d_n.jpg
+    title: Super do INCRA visitando o Acampamento abril 2015 (fonte CPT).jpg
+    $$hashKey: 05V
 created_date: "2016-04-04T12:47:34-03:00"
 published: true
 releated_posts:
@@ -42,7 +42,9 @@ releated_posts:
   - _posts/2016/02/2016-02-05-pm-ataca-sem-terra-em-area-grilada-por-latifundiario-e-pretendida-pela-vale.md
 
 ---
-<p><img alt="DSC_9294.jpg" height="466" src="//farm2.staticflickr.com/1632/25961657120_a533c5942e_b.jpg" width="700" /></p>
+<p>&nbsp;</p>
+
+<p><img alt="DSC_9363 (1).jpg" height="466" src="//farm2.staticflickr.com/1586/25629801094_83582bc368_b.jpg" width="700" /></p>
 
 <p>&nbsp;</p>
 
@@ -58,7 +60,7 @@ O Objetivo do acampamento foi organizar as fam&iacute;lias e apresentar as deman
 O acampamento est&aacute; localizado em frente as Fazenda Quatro Cachoeiras e Fazenda Nova Vida, cujo propriet&aacute;rio &eacute; Jo&atilde;o Arantes Neto.&nbsp;</p>
 
 <p><br />
-Em todos os contatos com as for&ccedil;as policias do Estado, as fam&iacute;lias disseram claramente que o objetivo principal era se organizar para que o direito &agrave; terra fosse alcan&ccedil;ado atrav&eacute;s de luta e reivindica&ccedil;&atilde;o coletiva perante o Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra).<br />
+Em todos os contatos com as for&ccedil;as policiais do Estado, as fam&iacute;lias disseram claramente que o objetivo principal era se organizar para que o direito &agrave; terra fosse alcan&ccedil;ado atrav&eacute;s de luta e reivindica&ccedil;&atilde;o coletiva perante o Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra).<br />
 <br />
 Mesmo assim, o Juiz Edilson Neuhas da comarca de Ariquemes, aceitou um pedido rel&acirc;mpago do &ldquo;dono&rdquo; da fazenda atrav&eacute;s do advogado Severino Jos&eacute; Peterle, que expediu um mandato em cumprimento a liminar (interdito proibit&oacute;rio), mostrando mais uma vez a efici&ecirc;ncia do poder judici&aacute;rio para com os latifundi&aacute;rios da regi&atilde;o.</p>
 
