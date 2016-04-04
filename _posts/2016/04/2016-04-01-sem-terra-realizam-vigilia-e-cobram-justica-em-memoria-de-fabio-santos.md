@@ -45,7 +45,7 @@ Em 2016, o massacre completa 20 anos de impunidade e os trabalhadores Sem Terra 
 <strong>Caso F&aacute;bio</strong></p>
 
 <p><br />
-No dia 02 de abril de 2013, F&aacute;bio foi executado com 15 tiros na frente de familiares enquanto seguia ao distrito de Palmeirinha.</p>
+No dia 2 de abril de 2013, F&aacute;bio foi executado com 15 tiros na frente de familiares enquanto seguia ao distrito de Palmeirinha.</p>
 
 <p><br />
 &ldquo;Quantas vezes os nossos camponeses ser&atilde;o assassinados?&rdquo;, questiona a dire&ccedil;&atilde;o do MST na regi&atilde;o. Dizem ainda, que esse tipo de a&ccedil;&atilde;o, com o uso de pistolagem, covarde e cruel, &eacute; o que os Sem Terra vivenciam no campo brasileiro.</p>
