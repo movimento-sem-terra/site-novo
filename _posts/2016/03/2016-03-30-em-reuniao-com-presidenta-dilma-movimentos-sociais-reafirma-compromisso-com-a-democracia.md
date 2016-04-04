@@ -26,6 +26,7 @@ releated_posts:
   - _posts/2016/03/2016-03-17-amanha-e-preciso-que-as-ruas-estejam-ocupadas-por-gente-que-nao-tem-medo-da-direita-diz-valter-pomar.md
   - _posts/2016/03/2016-03-21-em-nota-mst-se-manifesta-sobre-ataque-a-sede-do-pcdob-em-campo-grande.md
   - _posts/2016/03/2016-03-21-a-luta-e-para-garantir-a-democracia-afirma-frente-brasil-popular.md
+section: featured-news
 
 ---
 <p style="text-align: justify;"><br />
