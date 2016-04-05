@@ -29,10 +29,16 @@ releated_posts:
   - _posts/2015/08/2015-08-17-arte-cultura-e-educacao-sao-atividades-protagonizadas-pela-juventude-no-norte-na-ba.md
   - _posts/2015/10/2015-10-08-a-identidade-cultural-do-ser-sem-terra.md
   - _posts/2016/01/2016-01-22-cavalgada-popular-reune-trabalhadores-do-campo-e-da-cidade-na-ba.md
+section: featured-news
+video: "https://youtu.be/VzSwZbjCitI"
+video_thumbnail: "http://img.youtube.com/vi/VzSwZbjCitI/0.jpg"
 
 ---
 <p><br />
-<em>Da P&aacute;gina do MST</em></p>
+https://youtu.be/VzSwZbjCitI</p>
+
+<p><br />
+<em style="line-height: 20.8px;">Da P&aacute;gina do MST</em></p>
 
 <p><br />
 Entre os dias 20 e 24 de julho o MST ir&aacute; promover um grande Festival Nacional de Artes e Cultura da Reforma Agr&aacute;ria,&nbsp;que receber&aacute; toda a produ&ccedil;&atilde;o cultural e art&iacute;stica do campo brasileiro.</p>
