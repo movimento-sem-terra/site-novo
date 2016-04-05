@@ -47,13 +47,13 @@ Da P&aacute;gina do MST</em></p>
 O debate em torno de pol&iacute;ticas p&uacute;blicas para fam&iacute;lias camponesas do Brasil reuniu cerca de 150 pessoas na 2&ordf; Confer&ecirc;ncia Estadual de Assist&ecirc;ncia T&eacute;cnica e Extens&atilde;o Rural, realizada nos dias 31 de mar&ccedil;o e 1&ordm; de abril no munic&iacute;pio de Canoas, na regi&atilde;o Metropolitana de Porto Alegre, no Rio Grande do Sul.</p>
 
 <p><br />
-O evento teve como objetivo discutir estrat&eacute;gias para promover a universaliza&ccedil;&atilde;o da assist&ecirc;ncia t&eacute;cnica e extens&atilde;o rural p&uacute;blica e de qualidade aos agricultores familiares e da Reforma Agr&aacute;ria, ampliando assim a produ&ccedil;&atilde;o de alimentos saud&aacute;veis.</p>
+O evento teve como objetivo discutir estrat&eacute;gias para promover a universaliza&ccedil;&atilde;o da assist&ecirc;ncia t&eacute;cnica e extens&atilde;o rural p&uacute;blica e de qualidade aos agricultores familiares e da Reforma Agr&aacute;ria, ampliando assim, a produ&ccedil;&atilde;o de alimentos saud&aacute;veis.</p>
 
 <p><br />
-Nos dois dias de atividades, delegados e convidados participaram de palestras sobre o contexto hist&oacute;rico e a estrutura&ccedil;&atilde;o da Ater, e elegeram as propostas e a delega&ccedil;&atilde;o estadual que vai participar da 2&ordf; Confer&ecirc;ncia Nacional de Assist&ecirc;ncia T&eacute;cnica e Extens&atilde;o Rural, em Bras&iacute;lia.</p>
+Nos dois dias de atividades, delegados e convidados participaram de palestras sobre o contexto hist&oacute;rico e a estrutura&ccedil;&atilde;o da Ater&nbsp;e elegeram as propostas e a delega&ccedil;&atilde;o estadual que vai participar da 2&ordf; Confer&ecirc;ncia Nacional de Assist&ecirc;ncia T&eacute;cnica e Extens&atilde;o Rural, em Bras&iacute;lia.</p>
 
 <p><br />
-Entre os pontos priorizados est&aacute; o est&iacute;mulo &agrave; produ&ccedil;&atilde;o de base agroecol&oacute;gica, com pol&iacute;ticas p&uacute;blicas espec&iacute;ficas de seguro agr&iacute;cola, Ater, reestrutura&ccedil;&atilde;o da propriedade e comercializa&ccedil;&atilde;o., al&eacute;m da amplia&ccedil;&atilde;o das chamadas p&uacute;blicas para as mulheres, estimulando a participa&ccedil;&atilde;o e contemplando a diversifica&ccedil;&atilde;o agroecol&oacute;gica.</p>
+Entre os pontos priorizados est&aacute; o est&iacute;mulo &agrave; produ&ccedil;&atilde;o de base agroecol&oacute;gica, com pol&iacute;ticas p&uacute;blicas espec&iacute;ficas de seguro agr&iacute;cola, Ater, reestrutura&ccedil;&atilde;o da propriedade e comercializa&ccedil;&atilde;o, al&eacute;m da amplia&ccedil;&atilde;o das chamadas p&uacute;blicas para as mulheres, estimulando a participa&ccedil;&atilde;o e contemplando a diversifica&ccedil;&atilde;o agroecol&oacute;gica.</p>
 
 <p><br />
 De acordo com o presidente da Cooperativa de Trabalho em Servi&ccedil;os T&eacute;cnicos (Coptec), &Aacute;lvaro Delatorre, a confer&ecirc;ncia foi uma oportunidade para a sociedade civil se manifestar e ajudar a construir o processo de assist&ecirc;ncia t&eacute;cnica coletivamente, uma vez que envolveu todas as categorias que comp&otilde;em a agricultura familiar, representantes de movimentos sociais, quilombolas, ind&iacute;genas, entre outros.</p>
@@ -65,7 +65,7 @@ Contudo, segundo Delatorre, o debate da confer&ecirc;ncia por si s&oacute; n&ati
 &ldquo;Quem tem condi&ccedil;&otilde;es de alterar a correla&ccedil;&atilde;o de for&ccedil;as e fazer com que as nossas pautas sejam contempladas &agrave; n&iacute;vel de governo s&atilde;o os movimentos organizados. O MST, por exemplo, tem o papel fundamental de articular outros movimentos para transformar a confer&ecirc;ncia num grande ato pol&iacute;tico em defesa de uma agricultura limpa para o nosso pa&iacute;s&rdquo;, assinalou.</p>
 
 <p><br />
-O presidente da Coptec afirmou que uma das maiores dificuldades enfrentadas hoje para realizar assist&ecirc;ncia t&eacute;cnica &agrave;s fam&iacute;lias camponesas est&aacute; relacionada &agrave; redu&ccedil;&atilde;o do or&ccedil;amento do Minist&eacute;rio de Desenvolvimento Agr&aacute;rio (MDA) e Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra).<br />
+O presidente da Coptec afirmou que uma das maiores dificuldades enfrentadas hoje para realizar assist&ecirc;ncia t&eacute;cnica &agrave;s fam&iacute;lias camponesas est&aacute; relacionada &agrave; redu&ccedil;&atilde;o do or&ccedil;amento do Minist&eacute;rio de Desenvolvimento Agr&aacute;rio (MDA) e do Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra).<br />
 <br />
 &ldquo;Menos recursos significam que n&atilde;o existir&atilde;o novas chamadas p&uacute;blicas e que n&atilde;o haver&atilde;o novos benefici&aacute;rios do programa. Atualmente a Ater atende menos de 10% das fam&iacute;lias camponeses do Brasil. J&aacute; &agrave; n&iacute;vel de assentamentos, somente 30% das fam&iacute;lias recebem assist&ecirc;ncia t&eacute;cnica&rdquo;, explicou Delatorre.</p>
 
