@@ -46,13 +46,22 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p>Na manh&atilde; desta segunda-feira (04), trabalhadores Sem Terra, sa&iacute;ram em marcha do Acampamento Sebasti&atilde;o Camargo, localizado em Santa Terezinha do Igua&ccedil;u, regi&atilde;o oeste do Paran&aacute;, at&eacute; pra&ccedil;a principal do munic&iacute;pio. O objetivo &eacute; esperar em vig&iacute;lia o retorno da audi&ecirc;ncia que est&aacute; acontecendo desde &agrave;s 14h, na C&acirc;mara de vereadores de Foz do Igua&ccedil;u.</p>
+<p>Sem Terra participaram na tarde desta segunda-feira (4), de uma&nbsp;audi&ecirc;ncia&nbsp;para&nbsp;buscar solu&ccedil;&otilde;es para o conflito&nbsp;na Fazenda Santa Maria, ocupada no dia 18 de mar&ccedil;o, por cerca de 4500 pessoas do MST.</p>
 
 <p><br />
-A audi&ecirc;ncia em Foz do Igua&ccedil;u aconteceu para&nbsp;buscar solu&ccedil;&otilde;es para o conflito&nbsp;na Fazenda Santa Maria, ocupada no dia 18 de mar&ccedil;o, por cerca de 4500 pessoas do MST. A ocupa&ccedil;&atilde;o ocorreu para denunciar o desvio de recursos p&uacute;blicos e reivindicar &agrave; &aacute;rea para a Reforma Agr&aacute;ria.</p>
+A ocupa&ccedil;&atilde;o ocorreu para denunciar o desvio de recursos p&uacute;blicos e reivindicar &agrave; &aacute;rea para a Reforma Agr&aacute;ria.</p>
 
 <p><br />
-A &aacute;rea ocupada pelos Sem Terra pertence aos irm&atilde;os Lic&iacute;nio de Oliveira Machado Filho, presidente da Etesco, e a S&eacute;rgio Luiz Cabral de Oliveira Machado, ex-presidente da Transpetro, ambos envolvidos no desvio de dinheiro p&uacute;blico na Petrobr&aacute;s, citados nas dela&ccedil;&otilde;es do doleiro Alberto Youssef e do lobista Fernando Moura, durante as investiga&ccedil;&otilde;es da Opera&ccedil;&atilde;o Lava Jato, da Policia Federal.</p>
+<span style="line-height: 20.8px;">A audi&ecirc;ncia contou com a participa&ccedil;&atilde;o do superintendente do Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra), Nilton Bezerra Guedes, Secret&aacute;rio especial de Assuntos Fundi&aacute;rios, Hamilton Serighelli, representantes da Instituto Chico Mendes de Conserva&ccedil;&atilde;o da Biodiversidade (ICMBio), o prefeito de Santa Terezinha, Valdecir Ferens, e membros do MST.</span></p>
+
+<p><br />
+Para Diego Moreira, da coordena&ccedil;&atilde;o estadual do MST a audi&ecirc;ncia foi bastante positiva e que agora &eacute; preciso manter uma mesa de dialogo permanente.</p>
+
+<p><br />
+&ldquo;Sa&iacute;mos com alguns encaminhamentos, entre eles a proposta do cancelamento de reintegra&ccedil;&atilde;o de posse, at&eacute; que venha a p&uacute;blico o resultado das investiga&ccedil;&otilde;es sobre a Fazenda, e a resposta do propriet&aacute;rio mediante a proposta de compra da &aacute;rea. &ldquo;Ficou combinado tamb&eacute;m que os &oacute;rg&atilde;os ambientais v&atilde;o poder desenvolver seu trabalho na &aacute;rea de preserva&ccedil;&atilde;o ambiental, no corredor da biodiversidade, para que n&atilde;o haja nenhum preju&iacute;zo ambiental, al&eacute;m disso o Incra dever&aacute; abrir um edital de compra de terras na regi&atilde;o&rdquo;, explica Moreira.</p>
+
+<p><br />
+Suspeita-se que a &aacute;rea ocupada pelos Sem Terra seja de posse&nbsp;dos irm&atilde;os Lic&iacute;nio de Oliveira Machado Filho, presidente da Etesco, e a S&eacute;rgio Luiz Cabral de Oliveira Machado, ex-presidente da Transpetro, ambos envolvidos no desvio de dinheiro p&uacute;blico na Petrobr&aacute;s, citados nas dela&ccedil;&otilde;es do doleiro Alberto Youssef e do lobista Fernando Moura, durante as investiga&ccedil;&otilde;es da Opera&ccedil;&atilde;o Lava Jato, da Policia Federal.</p>
 
 <p><br />
 Lic&iacute;nio foi delatado como o homem que indicou Renato Duque para diretor de Servi&ccedil;os da Petrobr&aacute;s. Com a indica&ccedil;&atilde;o a Etesco passou a ter uma participa&ccedil;&atilde;o maior nos contratos da Petrobr&aacute;s e pagar propina para o lobista Fernando Moura.</p>
