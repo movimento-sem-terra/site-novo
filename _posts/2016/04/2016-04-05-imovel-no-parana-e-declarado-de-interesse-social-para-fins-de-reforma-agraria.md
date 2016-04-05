@@ -39,10 +39,10 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p>O im&oacute;vel rural Fazenda Prudentina, situado no munic&iacute;pio de Laranjal (PR), foi declarado de interesse social, para fins de reforma agr&aacute;ria, em decreto da Presid&ecirc;ncia da Rep&uacute;blica, assinado por Dilma Rouseff na sexta-feira (1) e publicado nesta segunda-feira (4) no Di&aacute;rio Oficial da Uni&atilde;o (DOU).</p>
+<p>O im&oacute;vel rural Fazenda Prudentina, situado no munic&iacute;pio de Laranjal (PR), foi declarado de interesse social, para fins de Reforma Agr&aacute;ria, em decreto da Presid&ecirc;ncia da Rep&uacute;blica, assinado por Dilma Rouseff na sexta-feira (1), e publicado nesta segunda-feira (4), no Di&aacute;rio Oficial da Uni&atilde;o (DOU).</p>
 
 <p><br />
-Com &aacute;rea de 852,9 hectares, o im&oacute;vel foi vistoriado por t&eacute;cnicos do Incra em 2013, tendo sido classificado como improdutivo.</p>
+Com &aacute;rea de 852,9 hectares, o im&oacute;vel foi vistoriado por t&eacute;cnicos do Instituto de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra),&nbsp;em 2013, tendo sido classificado como improdutivo.</p>
 
 <p><br />
 O pr&oacute;ximo passo, ap&oacute;s a publica&ccedil;&atilde;o do decreto, ser&aacute; o encaminhamento &agrave; Secretaria do Tesouro Nacional do valor apurado na avalia&ccedil;&atilde;o para emiss&atilde;o dos T&iacute;tulos da D&iacute;vida Agr&aacute;ria (TDA), que far&atilde;o parte da peti&ccedil;&atilde;o para o ajuizamento da a&ccedil;&atilde;o de desapropria&ccedil;&atilde;o. A indeniza&ccedil;&atilde;o da terra nua &eacute; paga por TDAs, resgat&aacute;veis no prazo de 5 a 20 anos, j&aacute; a indeniza&ccedil;&atilde;o das benfeitorias que possam existir no im&oacute;vel &eacute; paga &agrave; vista e em dinheiro.</p>
