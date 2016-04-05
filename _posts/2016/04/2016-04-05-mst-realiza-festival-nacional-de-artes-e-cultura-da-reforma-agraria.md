@@ -35,9 +35,6 @@ video_thumbnail: "http://img.youtube.com/vi/VzSwZbjCitI/0.jpg"
 
 ---
 <p><br />
-https://youtu.be/VzSwZbjCitI</p>
-
-<p><br />
 <em style="line-height: 20.8px;">Da P&aacute;gina do MST</em></p>
 
 <p><br />
