@@ -21,6 +21,7 @@ published: true
 releated_posts:
   - _posts/2015/06/2015-06-26-via-campesina-critica-apropriacao-da-agroecologia-pelo-capital.md
   - _posts/2015/10/2015-10-02-camponeses-reafirmam-sua-identidade-durante-congresso-no-para.md
+section: featured-news
 
 ---
 <p><br />
