@@ -8,7 +8,7 @@ tags:
 title: MST realiza Festival Nacional de Artes e Cultura da Reforma Agrária
 support_line: "Entre os dias 20 e 24 de julho, a capital mineira, Belo Horizonte, receberá toda a produção cultural e artística do campo brasileiro"
 menu: "educação, cultura e comunicação"
-images_hd: //farm2.staticflickr.com/1712/25650735613_f10ddfa3e7_b.jpg
+images_hd: //farm2.staticflickr.com/1535/26204755991_0042f92612_b.jpg
 layout: post
 files:
   - link: //farm2.staticflickr.com/1664/26160815832_00d683c01a_b.jpg
@@ -17,12 +17,12 @@ files:
     small: //farm2.staticflickr.com/1664/26160815832_00d683c01a_n.jpg
     title: PROPOSTA CARTAZ.jpg
     $$hashKey: 06V
-  - link: //farm2.staticflickr.com/1712/25650735613_f10ddfa3e7_b.jpg
-    thumbnail: //farm2.staticflickr.com/1712/25650735613_f10ddfa3e7_t.jpg
-    medium: //farm2.staticflickr.com/1712/25650735613_f10ddfa3e7_z.jpg
-    small: //farm2.staticflickr.com/1712/25650735613_f10ddfa3e7_n.jpg
-    title: 22380194816_090ae97333_z.jpg
-    $$hashKey: 06Y
+  - link: //farm2.staticflickr.com/1535/26204755991_0042f92612_b.jpg
+    thumbnail: //farm2.staticflickr.com/1535/26204755991_0042f92612_t.jpg
+    medium: //farm2.staticflickr.com/1535/26204755991_0042f92612_z.jpg
+    small: //farm2.staticflickr.com/1535/26204755991_0042f92612_n.jpg
+    title: banner hot site.jpg
+    $$hashKey: 05F
 created_date: "2016-04-05T11:57:02-03:00"
 published: true
 releated_posts:
