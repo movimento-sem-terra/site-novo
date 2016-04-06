@@ -41,7 +41,7 @@ video_thumbnail: "http://img.youtube.com/vi/VzSwZbjCitI/0.jpg"
 Entre os dias 20 e 24 de julho o MST ir&aacute; promover um grande Festival Nacional de Artes e Cultura da Reforma Agr&aacute;ria,&nbsp;que receber&aacute; toda a produ&ccedil;&atilde;o cultural e art&iacute;stica do campo brasileiro.</p>
 
 <p><br />
-A programa&ccedil;&atilde;o reunir&aacute; a cultura forjada nos acampamento de lona preta e assentamentos da Reforma Agr&aacute;ria, desenvolvida nestes mais de 30 anos de luta do movimento.&nbsp;</p>
+A programa&ccedil;&atilde;o reunir&aacute; a cultura forjada nos acampamentos de lona preta e assentamentos da Reforma Agr&aacute;ria, desenvolvida nestes mais de 30 anos de luta do movimento.&nbsp;</p>
 
 <p><br />
 A capital mineira, Belo Horizonte, ser&aacute; o local onde acontecer&aacute; a&nbsp;feira de produtos da reforma agr&aacute;ria de todo o territ&oacute;rio nacional, o espa&ccedil;o gastron&ocirc;mico &quot;Culin&aacute;ria da Terra&quot;, instala&ccedil;&otilde;es de artes pl&aacute;sticas, interven&ccedil;&otilde;es c&ecirc;nicas, shows gratuitos com atra&ccedil;&otilde;es regionais e nacionais, entre v&aacute;rias outras.&nbsp;</p>
