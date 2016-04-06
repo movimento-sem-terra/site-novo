@@ -27,7 +27,7 @@ releated_posts:
 <em>Da Via Campesina</em></p>
 
 <p><br />
-Este ano se completa 20 anos do Massacre de Eldorado dos Caraj&aacute;s, onde 19 trabalhadoras e trabalhadores sem terra foram assassinados em sua luta leg&iacute;tima pela terra.&nbsp;</p>
+Este ano completa-se 20 anos do Massacre de Eldorado dos Caraj&aacute;s, onde 19 trabalhadoras e trabalhadores Sem Terra foram assassinados em sua luta leg&iacute;tima por territ&oacute;rio.&nbsp;</p>
 
 <p><br />
 Este feito ocorreu em 17 de abril de 1996&nbsp;e, desde ent&atilde;o, a Via Campesina instituiu esta data como Dia Internacional de Lutas Camponesas, &eacute; nesse marco de mem&oacute;ria e resist&ecirc;ncia, que organiza a Confer&ecirc;ncia Internacional de Reforma Agr&aacute;ria, que busca atualizar o debate sobre esta tem&aacute;tica junto a seus membros e aliados como a Marcha Mundial de Mulheres, World Forum of Fisher People, Organizaci&oacute;n de Pueblos Ind&iacute;genas, CIP, Fian Internacional, Grain, ETC, LRAN e Amigos de la Tierra Internacional.</p>
