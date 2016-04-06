@@ -4,7 +4,7 @@ tags:
   - tag: merenda-escolar
   - tag: prefeitura
   - tag: agricultura-camponesa
-title: Prefeitura de São Paulo regulamenta lei que torna obrigatório alimentos orgânicos nas merendas escolares
+title: Prefeitura de São Paulo regulamenta lei que torna obrigatório alimentos orgânicos nas escolas
 menu: agricultura camponesa
 support_line: "Desde 2013, a prefeitura paulistana vem adotando medidas para melhorar a qualidade da alimentação escolar, como a aquisição de alimentos orgânicos pelo Departamento de Alimentação Escolar (DAE). "
 images_hd: //farm2.staticflickr.com/1548/26004355150_c929bff662_b.jpg
