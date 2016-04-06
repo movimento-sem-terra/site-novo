@@ -23,16 +23,14 @@ releated_posts:
   - _posts/2015/10/2015-10-02-camponeses-reafirmam-sua-identidade-durante-congresso-no-para.md
 
 ---
-<p>&nbsp;</p>
-
 <p><br />
-<em>Da P&aacute;gina do MST</em></p>
+<em>Da Via Campesina</em></p>
 
 <p><br />
 Este ano se completa 20 anos do Massacre de Eldorado dos Caraj&aacute;s, onde 19 trabalhadoras e trabalhadores sem terra foram assassinados em sua luta leg&iacute;tima pela terra.&nbsp;</p>
 
 <p><br />
-Este feito ocorreu em 17 de abril de 1996&nbsp;e, desde ent&atilde;o, a Via Campesina instituiu esta data como Dia Internacional de Lutas Camponesas, &eacute; nesse marco de mem&oacute;ria e resist&ecirc;ncia, que organiza a Confer&ecirc;ncia Internacional de Reforma Agr&aacute;ria, que busca atualizar o debate sobre esta tem&aacute;tica junto a seus membros e aliados como a Marcha Mundial de Mulheres, World Forum of Fisher People, Organiza&ccedil;&atilde;o dos Povos Ind&iacute;genas, CIP, Fian Internacional, Grain, ETC, LRAN e os Amigos da Terra Internacional.</p>
+Este feito ocorreu em 17 de abril de 1996&nbsp;e, desde ent&atilde;o, a Via Campesina instituiu esta data como Dia Internacional de Lutas Camponesas, &eacute; nesse marco de mem&oacute;ria e resist&ecirc;ncia, que organiza a Confer&ecirc;ncia Internacional de Reforma Agr&aacute;ria, que busca atualizar o debate sobre esta tem&aacute;tica junto a seus membros e aliados como a Marcha Mundial de Mulheres, World Forum of Fisher People, Organizaci&oacute;n de Pueblos Ind&iacute;genas, CIP, Fian Internacional, Grain, ETC, LRAN e Amigos de la Tierra Internacional.</p>
 
 <p><br />
 A Confer&ecirc;ncia acontece de 13 a 17 de abril no estado do Par&aacute;, Brasil. Entre as principais mesas de debates est&atilde;o: Estudos sobre a natureza do projeto do capital e do agroneg&oacute;cio; a natureza do projeto de reforma agraria popular, e os desafios do movimento campo e cidade na constru&ccedil;&atilde;o de uma agenda de a&ccedil;&otilde;es unit&aacute;rias.&nbsp;</p>
@@ -51,8 +49,3 @@ Al&eacute;m disso, deve garantir condi&ccedil;&otilde;es e direitos b&aacute;sic
 
 <p><br />
 Neste contexto, para um movimento global como a Via Campesina tamb&eacute;m &eacute; estrat&eacute;gico construir elementos comuns para incid&ecirc;ncia em pol&iacute;ticas p&uacute;blicas, e tamb&eacute;m fortalecer &nbsp;a unidade e solidariedade nas lutas nos territ&oacute;rios.</p>
-
-<p><br />
-<strong>Informa&ccedil;&otilde;es &agrave;&nbsp;imprensa: </strong></p>
-
-<p>Viviana Rojas Flores (61) 9929-9536</p>
