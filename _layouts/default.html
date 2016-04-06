@@ -51,13 +51,13 @@
     <script type="text/javascript" src="//code.jquery.com/jquery-2.1.0.min.js"></script>
 		<script type="text/javascript" src="{{ site.baseurl }}/assets/js/jquery.hammer.js"></script>
     <script type="text/javascript" src="{{ site.baseurl }}/assets/js/carousel.js"></script>
-    {% if layout.scripts %}
-      {% for script in layout.scripts %}
+    {% if page.scripts %}
+      {% for script in page.scripts %}
         <script type="text/javascript" src="{{ site.baseurl }}/assets/js/{{ script }}"></script>
       {% endfor %}
     {% endif %}
-    {% if layout.external_scripts %}
-      {% for script in layout.external_scripts %}
+    {% if page.external_scripts %}
+      {% for script in page.external_scripts %}
         <script type="text/javascript" src="{{ script }}"></script>
       {% endfor %}
     {% endif %}
