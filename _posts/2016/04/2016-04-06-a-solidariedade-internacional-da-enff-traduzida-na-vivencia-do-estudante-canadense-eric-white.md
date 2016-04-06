@@ -29,7 +29,7 @@ releated_posts:
   - _posts/2016/03/2016-03-23-uft-se-prepara-para-receber-a-2-jornada-universitaria.md
 
 ---
-<figure class="image"><img alt="hnn.jpg" height="506" src="//farm2.staticflickr.com/1559/26003298020_9d042e6446_b.jpg" width="600" />
+<figure class="image"><img alt="hnn.jpg" height="322" src="//farm2.staticflickr.com/1559/26003298020_9d042e6446_b.jpg" width="382" />
 <figcaption>&nbsp;Eric White esteve entre os jovens que estiveram na ENFF em 2015, ele decidiu voltar em 2016 para contribuir no que ele mesmo classificou como &ldquo;a solidariedade que aprendeu no MST&rdquo;.</figcaption>
 </figure>
 
