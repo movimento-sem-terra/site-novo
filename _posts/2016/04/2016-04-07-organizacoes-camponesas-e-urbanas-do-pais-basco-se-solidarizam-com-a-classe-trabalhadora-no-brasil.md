@@ -4,7 +4,7 @@ tags:
   - tag: solidariedade-internacional
   - tag: contra-o-golpe
   - tag: país-Basco
-title: Organizações camponesas e urbanas do País Basco se solidarizam com a classe trabalhadora no Brasil
+title: Organizações camponesas e urbanas do País Basco se manifestam contra o golpe no Brasil
 support_line: “No al golpe” foi o grito ecoado durante etapa do curso Soberania Alimentar e Agroecologia.
 menu: solidariedade
 images_hd: //farm2.staticflickr.com/1614/26227559821_68bb7cb7ff_b.jpg
