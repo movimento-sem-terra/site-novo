@@ -40,14 +40,13 @@ Da P&aacute;gina do MST</em></p>
 Na &uacute;ltima&nbsp;ter&ccedil;a-feira (5), <span style="line-height: 20.8px;">come&ccedil;ou&nbsp;no Campus Darcy Ribeiro da Universidade de Bras&iacute;lia (UnB),&nbsp;a 3&deg; Jornada Universit&aacute;ria em defesa da Reforma Agr&aacute;ria.</span></p>
 
 <p><br />
-O tema da palestra inicial foi &ldquo;A Reforma Agr&aacute;ria em Cuba: a inser&ccedil;&atilde;o da juventude no campo&rdquo;. A mesa contou com a participa&ccedil;&atilde;o de&nbsp;Raciel Proenza e Yusmari D&iacute;az&nbsp;da embaixada de Cuba e Marco Ant&ocirc;nio Baratto, da dire&ccedil;&atilde;o do MST-DF, al&eacute;m de estudantes, professores, militantes de movimentos sociais e de sindicatos.</p>
+O tema da palestra inicial foi &ldquo;A Reforma Agr&aacute;ria em Cuba: a inser&ccedil;&atilde;o da juventude no campo&rdquo;. A mesa contou com a participa&ccedil;&atilde;o de&nbsp;Raciel Proenza e Yusmari D&iacute;az&nbsp;da embaixada de Cuba e Marco Ant&ocirc;nio Baratto, da dire&ccedil;&atilde;o do MST-DF, do<span style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px; line-height: normal;">&nbsp;professor Jair Reck (UnB e Nescuba),&nbsp;</span>al&eacute;m de estudantes, professores, militantes de movimentos sociais e de sindicatos.</p>
 
 <p><br />
 A terceira edi&ccedil;&atilde;o da Jornada relembra o massacre de Eldorado dos Caraj&aacute;s, que completa vinte anos no dia 17 de abril, data que os movimentos sociais adotaram como Dia Internacional de Luta pela Terra.</p>
 
-<p>&nbsp;</p>
-
-<p>A encontro&nbsp;tem&nbsp;como foco a den&uacute;ncia da viol&ecirc;ncia e a impunidade no campo, bem como&nbsp;a defesa da Reforma Agr&aacute;ria como instrumento fundamental de supera&ccedil;&atilde;o da desigualdade social.</p>
+<p><br />
+A encontro&nbsp;tem&nbsp;como foco a den&uacute;ncia da viol&ecirc;ncia e a impunidade no campo, bem como&nbsp;a defesa da Reforma Agr&aacute;ria como instrumento fundamental de supera&ccedil;&atilde;o da desigualdade social.</p>
 
 <p><br />
 Entre os muitos desafios na promo&ccedil;&atilde;o da justi&ccedil;a social no campo est&aacute; a quest&atilde;o da juventude e sua rela&ccedil;&atilde;o com a terra.</p>
@@ -66,5 +65,3 @@ Para&nbsp;Marco Ant&ocirc;nio Ribeiro, da dire&ccedil;&atilde;o estadual do MST 
 
 <p><br />
 Para mais informa&ccedil;&otilde;es sobre a 3<span style="line-height: 20.8px;">&deg;&nbsp;Jornada Universit&aacute;ria em defesa da Reforma Agr&aacute;ria clique&nbsp;</span><a href="http://jornadareformaagrariaunb.blogspot.com">aqui</a>.</p>
-
-<p>&nbsp;</p>
