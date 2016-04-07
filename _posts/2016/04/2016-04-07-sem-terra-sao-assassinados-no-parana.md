@@ -35,7 +35,7 @@ section: cover
 <p><em>Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
-Na tarde dessa quinta-feira (7), duas equipes da Pol&iacute;cia Militar do Paran&aacute;, acompanhadas de seguran&ccedil;as da empresa Araupel atacaram o acampamento Herdeiros da Terra de 1&ordm; de Maio na regi&atilde;o de Quedas do Igua&ccedil;u, Centro&nbsp;do estado.</p>
+Na tarde dessa quinta-feira (7), duas equipes da Pol&iacute;cia Militar do Paran&aacute;, acompanhadas de seguran&ccedil;as da empresa Araupel atacaram o acampamento Dom Tom&aacute;s Baldu&iacute;no,&nbsp;na regi&atilde;o de Quedas do Igua&ccedil;u, Centro&nbsp;do estado.</p>
 
 <p><br />
 At&eacute; o momento existe a confirma&ccedil;&atilde;o de dois mortos e aproximadamente seis feridos - o n&uacute;mero exato ainda n&atilde;o foi confirmado -, pois a pol&iacute;cia militar est&aacute;, nesse momento, impedindo a aproxima&ccedil;&atilde;o de integrantes do Movimento no local.&nbsp;</p>
@@ -49,7 +49,6 @@ O acampamento, localizado em uma &aacute;rea pertencente a empresa Araupel, est&
 <p><br />
 Os Sem Terra do local sofrem com constantes amea&ccedil;as por parte de seguran&ccedil;as e pistoleiros da empresa, amea&ccedil;as essas que contam com a coniv&ecirc;ncia do governo e da Secret&aacute;ria de Seguran&ccedil;a P&uacute;blica do Estado.&nbsp;</p>
 
-<p><br />
-Em agosto de 2015, no mesmo acampamento, homens armados dispararam mais de 30 tiros contra os trabalhadores. Ningu&eacute;m ficou ferido.</p>
+<p>&nbsp;</p>
 
 <p>&nbsp;</p>
