@@ -44,10 +44,25 @@ At&eacute; o momento existe a confirma&ccedil;&atilde;o de dois mortos e aproxim
 <strong>Hist&oacute;rico</strong></p>
 
 <p><br />
-O acampamento, localizado em uma &aacute;rea pertencente a empresa Araupel, est&aacute; organizado com 2500 fam&iacute;lias, cerca de 7 mil pessoas.</p>
+O acampamento, localizado em uma &aacute;rea pertencente a empresa Araupel, est&aacute; organizado com 2500 fam&iacute;lias, cerca de sete&nbsp;mil pessoas.</p>
 
 <p><br />
 Os Sem Terra do local sofrem com constantes amea&ccedil;as por parte de seguran&ccedil;as e pistoleiros da empresa, amea&ccedil;as essas que contam com a coniv&ecirc;ncia do governo e da Secret&aacute;ria de Seguran&ccedil;a P&uacute;blica do Estado.&nbsp;</p>
+
+<p><br />
+<strong>Conflitos agr&aacute;rios no estado</strong></p>
+
+<p><br />
+Este cen&aacute;rio reflete parte do clima de tens&atilde;o que nasce na luta pelo acesso &agrave; terra e contra a grilagem na regi&atilde;o. O conflito tem rela&ccedil;&atilde;o com o surgimento de dois acampamentos do MST na regi&atilde;o centro-sul do Paran&aacute;, constru&iacute;dos nas &aacute;reas em que funcionam as atividades da empresa Araupel, exportadora de pinus e eucalipto.</p>
+
+<p><br />
+O primeiro acampamento, Herdeiros da Terra, est&aacute; localizado no munic&iacute;pio de Rio Bonito do Igua&ccedil;u. A ocupa&ccedil;&atilde;o aconteceu em 1&ordm; de maio de 2014 e hoje abriga mais de mil fam&iacute;lias. Ali, elas possuem aproximadamente 1,5 mil hectares para a produ&ccedil;&atilde;o de alimentos.</p>
+
+<p><br />
+O segundo acampamento, Dom Tom&aacute;s Baldu&iacute;no, cuja ocupa&ccedil;&atilde;o teve in&iacute;cio em junho de 2014, possui 1500 fam&iacute;lias e fica na regi&atilde;o de Quedas do Igua&ccedil;u. Ao contr&aacute;rio da outra ocupa&ccedil;&atilde;o, esta possui 12 alqueires de &aacute;rea aberta, sendo apenas 9 - cerca de 30 hectares - utilizados para o plantio.</p>
+
+<p><br />
+Procurado, o Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra) informou n&atilde;o poder se posicionar sobre o caso, j&aacute; que trata-se de um acampamento, e n&atilde;o assentamento. J&aacute; a Ouvidoria Agr&aacute;ria Nacional informou que n&atilde;o tem informa&ccedil;&otilde;es sobre o caso, mas que est&aacute; verificando o ocorrido.</p>
 
 <p>&nbsp;</p>
 
