@@ -7,15 +7,15 @@ tags:
 title: Organizações camponesas e urbanas do País Basco se manifestam contra o golpe no Brasil
 support_line: “No al golpe” foi o grito ecoado durante etapa do curso Soberania Alimentar e Agroecologia.
 menu: solidariedade
-images_hd: //farm2.staticflickr.com/1614/26227559821_68bb7cb7ff_b.jpg
+images_hd: //farm2.staticflickr.com/1589/26268187996_8067247b2c_b.jpg
 layout: post
 files:
-  - link: //farm2.staticflickr.com/1614/26227559821_68bb7cb7ff_b.jpg
-    thumbnail: //farm2.staticflickr.com/1614/26227559821_68bb7cb7ff_t.jpg
-    medium: //farm2.staticflickr.com/1614/26227559821_68bb7cb7ff_z.jpg
-    small: //farm2.staticflickr.com/1614/26227559821_68bb7cb7ff_n.jpg
-    title: misc06.jpg
-    $$hashKey: 0MR
+  - link: //farm2.staticflickr.com/1589/26268187996_8067247b2c_b.jpg
+    thumbnail: //farm2.staticflickr.com/1589/26268187996_8067247b2c_t.jpg
+    medium: //farm2.staticflickr.com/1589/26268187996_8067247b2c_z.jpg
+    small: //farm2.staticflickr.com/1589/26268187996_8067247b2c_n.jpg
+    title: 8222606901_8db12dc6bc_z.jpg
+    $$hashKey: 11K
 created_date: "2016-04-07T15:01:56-03:00"
 published: true
 releated_posts:
