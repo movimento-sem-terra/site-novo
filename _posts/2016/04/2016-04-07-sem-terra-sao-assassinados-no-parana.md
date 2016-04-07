@@ -35,7 +35,7 @@ section: cover
 <p><em>Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
-Na tarde dessa quinta-feira (7), duas equipes da Pol&iacute;cia Militar do Paran&aacute;, acompanhadas de seguran&ccedil;as da empresa Araupel atacaram o acampamento Herdeiros da Terra de 1&ordm; de Maio na regi&atilde;o de Quedas do Igua&ccedil;u, Oeste do estado do Paran&aacute;.</p>
+Na tarde dessa quinta-feira (7), duas equipes da Pol&iacute;cia Militar do Paran&aacute;, acompanhadas de seguran&ccedil;as da empresa Araupel atacaram o acampamento Herdeiros da Terra de 1&ordm; de Maio na regi&atilde;o de Quedas do Igua&ccedil;u, Centro&nbsp;do estado.</p>
 
 <p><br />
 At&eacute; o momento existe a confirma&ccedil;&atilde;o de dois mortos e aproximadamente seis feridos - o n&uacute;mero exato ainda n&atilde;o foi confirmado -, pois a pol&iacute;cia militar est&aacute;, nesse momento, impedindo a aproxima&ccedil;&atilde;o de integrantes do Movimento no local.&nbsp;</p>
