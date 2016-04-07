@@ -66,23 +66,24 @@ Confira abaixo o regulamento do Festival e da Mostra:</p>
 
 <p><br />
 <strong>MOSTRA DE POESIA</strong><br />
-<a href="http://goo.gl/forms/Rm9e497Xlp">Inscreva-se na Mostra de Poesia &quot;Versando Rebeldia&quot;&nbsp;</a><br />
-<br />
-<br />
-<strong>Envie os arquivo solicitados no regulamento para o e-mail&nbsp;</strong>poesiasdasemana@gmail.com, juntamente com a ficha de inscri&ccedil;&atilde;o gerada.</p>
+<a href="http://goo.gl/forms/Rm9e497Xlp">Inscreva-se na Mostra de Poesia &quot;Versando Rebeldia&quot;&nbsp;</a></p>
 
 <p><br />
 <a href="https://docs.google.com/uc?id=0Bwus_4SL8MWDSndkWXY2RU5BQ3M&amp;export=download">Regulamento Mostra de Poesia.pdf</a></p>
+
+<p><br />
+<strong style="line-height: 20.8px;">Envie os arquivo solicitados no regulamento para o e-mail&nbsp;</strong><span style="line-height: 20.8px;">poesiasdasemana@gmail.com, juntamente com a ficha de inscri&ccedil;&atilde;o gerada.</span></p>
 
 <p><br />
 <strong>FESTIVAL DE M&Uacute;SICA</strong><br />
 <a href="http://goo.gl/forms/FFBEYLvIMv">Inscreva-se no Festival de M&uacute;sica &quot;Da Luta Brotam Vozes de Liberdade&quot;</a></p>
 
 <p><br />
-<strong>Envie os arquivo solicitados no regulamento para o e-mail&nbsp;</strong>musicasemterra@gmail.com, juntamente com a ficha de inscri&ccedil;&atilde;o gerada.</p>
+<a href="https://docs.google.com/uc?id=0Bwus_4SL8MWDWHREeGtQa1JrdzQ&amp;export=download">Regulamento Festival de M&uacute;sica.pdf</a></p>
 
 <p><br />
-<a href="https://docs.google.com/uc?id=0Bwus_4SL8MWDWHREeGtQa1JrdzQ&amp;export=download">Regulamento Festival de M&uacute;sica.pdf</a><br />
-&nbsp;</p>
+<strong style="line-height: 20.8px;">Envie os arquivo solicitados no regulamento para o e-mail&nbsp;</strong><span style="line-height: 20.8px;">musicasemterra@gmail.com, juntamente com a ficha de inscri&ccedil;&atilde;o gerada.</span></p>
+
+<p>&nbsp;</p>
 
 <p><img alt="PROPOSTA CARTAZ.jpg" src="//farm2.staticflickr.com/1664/26160815832_00d683c01a_b.jpg" /></p>
