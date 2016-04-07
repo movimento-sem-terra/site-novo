@@ -33,10 +33,11 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p><em>Da P&aacute;gina do MST&nbsp;</em><br />
-&nbsp;</p>
+<p><em>Por Felipe Canova<br />
+Da P&aacute;gina do MST</em></p>
 
-<p>Na &uacute;ltima&nbsp;ter&ccedil;a-feira (5), <span style="line-height: 20.8px;">come&ccedil;ou&nbsp;no Campus Darcy Ribeiro da Universidade de Bras&iacute;lia (UnB),&nbsp;a 3&deg; Jornada Universit&aacute;ria em defesa da Reforma Agr&aacute;ria.</span></p>
+<p><br />
+Na &uacute;ltima&nbsp;ter&ccedil;a-feira (5), <span style="line-height: 20.8px;">come&ccedil;ou&nbsp;no Campus Darcy Ribeiro da Universidade de Bras&iacute;lia (UnB),&nbsp;a 3&deg; Jornada Universit&aacute;ria em defesa da Reforma Agr&aacute;ria.</span></p>
 
 <p><br />
 O tema da palestra inicial foi &ldquo;A Reforma Agr&aacute;ria em Cuba: a inser&ccedil;&atilde;o da juventude no campo&rdquo;. A mesa contou com a participa&ccedil;&atilde;o de&nbsp;Raciel Proenza e Yusmari D&iacute;az&nbsp;da embaixada de Cuba e Marco Ant&ocirc;nio Baratto, da dire&ccedil;&atilde;o do MST-DF, al&eacute;m de estudantes, professores, militantes de movimentos sociais e de sindicatos.</p>
@@ -62,5 +63,8 @@ Para&nbsp;Marco Ant&ocirc;nio Ribeiro, da dire&ccedil;&atilde;o estadual do MST 
 
 <p><br />
 &quot;Os poucos avan&ccedil;os obtidos nos &uacute;ltimos anos est&atilde;o sendo cotidianamente atacados por uma ofensiva conservadora que pretende, em &uacute;ltima inst&acirc;ncia, derrubar o pensamento critico e qualquer projeto de esquerda em nosso pa&iacute;s. Isto mostra&nbsp;a import&acirc;ncia de iniciativas como as Jornadas Universit&aacute;rias de Apoio &agrave; Reforma Agr&aacute;ria&nbsp;que fomentam o debate sobre a quest&atilde;o agr&aacute;ria associando-a com a conjuntura nacional e as lutas que teremos daqui para a frente&rdquo;, concluiu.</p>
+
+<p><br />
+Para mais informa&ccedil;&otilde;es sobre a 3<span style="line-height: 20.8px;">&deg;&nbsp;Jornada Universit&aacute;ria em defesa da Reforma Agr&aacute;ria clique&nbsp;</span><a href="http://jornadareformaagrariaunb.blogspot.com">aqui</a>.</p>
 
 <p>&nbsp;</p>
