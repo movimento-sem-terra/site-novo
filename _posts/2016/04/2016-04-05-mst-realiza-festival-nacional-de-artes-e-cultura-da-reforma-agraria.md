@@ -23,6 +23,18 @@ files:
     small: //farm2.staticflickr.com/1535/26204755991_0042f92612_n.jpg
     title: banner hot site.jpg
     $$hashKey: 05F
+  - link: "https://docs.google.com/uc?id=0Bwus_4SL8MWDSndkWXY2RU5BQ3M&export=download"
+    thumbnail: "http://farm4.staticflickr.com/3852/15187675380_7b00f5fdff_b.jpg"
+    title: Regulamento Mostra de Poesia.pdf
+    basename: Regulamento Mostra de Poesia
+    embed: "https://docs.google.com/uc?id=0Bwus_4SL8MWDSndkWXY2RU5BQ3M"
+    $$hashKey: 0A1
+  - link: "https://docs.google.com/uc?id=0Bwus_4SL8MWDWHREeGtQa1JrdzQ&export=download"
+    thumbnail: "http://farm4.staticflickr.com/3852/15187675380_7b00f5fdff_b.jpg"
+    title: Regulamento Festival de Música.pdf
+    basename: Regulamento Festival de Música
+    embed: "https://docs.google.com/uc?id=0Bwus_4SL8MWDWHREeGtQa1JrdzQ"
+    $$hashKey: 0A3
 created_date: "2016-04-05T11:57:02-03:00"
 published: true
 releated_posts:
@@ -60,11 +72,17 @@ Confira abaixo o regulamento do Festival e da Mostra:</p>
 <strong>Envie os arquivo solicitados no regulamento para o e-mail&nbsp;</strong>poesiasdasemana@gmail.com, juntamente com a ficha de inscri&ccedil;&atilde;o gerada.</p>
 
 <p><br />
+<a href="https://docs.google.com/uc?id=0Bwus_4SL8MWDSndkWXY2RU5BQ3M&amp;export=download">Regulamento Mostra de Poesia.pdf</a></p>
+
+<p><br />
 <strong>FESTIVAL DE M&Uacute;SICA</strong><br />
 <a href="http://goo.gl/forms/FFBEYLvIMv">Inscreva-se no Festival de M&uacute;sica &quot;Da Luta Brotam Vozes de Liberdade&quot;</a></p>
 
 <p><br />
-<strong>Envie os arquivo solicitados no regulamento para o e-mail&nbsp;</strong>musicasemterra@gmail.com, juntamente com a ficha de inscri&ccedil;&atilde;o gerada.<br />
+<strong>Envie os arquivo solicitados no regulamento para o e-mail&nbsp;</strong>musicasemterra@gmail.com, juntamente com a ficha de inscri&ccedil;&atilde;o gerada.</p>
+
+<p><br />
+<a href="https://docs.google.com/uc?id=0Bwus_4SL8MWDWHREeGtQa1JrdzQ&amp;export=download">Regulamento Festival de M&uacute;sica.pdf</a><br />
 &nbsp;</p>
 
 <p><img alt="PROPOSTA CARTAZ.jpg" src="//farm2.staticflickr.com/1664/26160815832_00d683c01a_b.jpg" /></p>
