@@ -5,7 +5,7 @@ tags:
   - tag: paraná
   - tag: assassinatos
   - tag: violência-no-campo
-title: MST repudia ação da PM e exige punição imediata dos responsáveis pelo crime cometido contra os Sem Terra no Paraná
+title: MST exige punição imediata dos responsáveis pelo crime cometido contra Sem Terra no Paraná
 support_line: "No ataque covarde promovido pela PM e por seguranças da Araupel, foram assassinam dois trabalhadores Sem Terra"
 menu: direitos humanos
 section: cover
