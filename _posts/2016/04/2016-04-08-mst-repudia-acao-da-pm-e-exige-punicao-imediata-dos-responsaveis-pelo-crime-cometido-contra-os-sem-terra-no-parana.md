@@ -9,15 +9,15 @@ title: MST exige punição imediata dos responsáveis pelo crime cometido contra
 support_line: "No ataque covarde promovido pela PM e por seguranças da Araupel, foram assassinam dois trabalhadores Sem Terra"
 menu: direitos humanos
 section: cover
-images_hd: //farm2.staticflickr.com/1719/25702605134_10ce774165_b.jpg
+images_hd: //farm2.staticflickr.com/1611/25704898853_aa70079878_b.jpg
 layout: post
 files:
-  - link: //farm2.staticflickr.com/1719/25702605134_10ce774165_b.jpg
-    thumbnail: //farm2.staticflickr.com/1719/25702605134_10ce774165_t.jpg
-    medium: //farm2.staticflickr.com/1719/25702605134_10ce774165_z.jpg
-    small: //farm2.staticflickr.com/1719/25702605134_10ce774165_n.jpg
-    title: 12988155_1015139998563698_242578661_n.jpg
-    $$hashKey: 0G8
+  - link: //farm2.staticflickr.com/1611/25704898853_aa70079878_b.jpg
+    thumbnail: //farm2.staticflickr.com/1611/25704898853_aa70079878_t.jpg
+    medium: //farm2.staticflickr.com/1611/25704898853_aa70079878_z.jpg
+    small: //farm2.staticflickr.com/1611/25704898853_aa70079878_n.jpg
+    title: eldorado-dos-carajas_massacre_por-carlos-latuff.jpg
+    $$hashKey: 0RB
 created_date: "2016-04-08T10:31:58-03:00"
 published: true
 releated_posts:
