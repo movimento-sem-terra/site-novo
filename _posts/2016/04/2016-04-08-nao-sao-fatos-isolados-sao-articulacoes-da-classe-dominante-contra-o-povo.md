@@ -62,4 +62,4 @@ De acordo com a dire&ccedil;&atilde;o do MST na Bahia, a direita ampliou sua fre
 &ldquo;Esses assassinatos e as a&ccedil;&otilde;es truculentas n&atilde;o s&atilde;o fatos isolados, s&atilde;o articula&ccedil;&otilde;es da classe dominante contra o povo&rdquo;.</p>
 
 <p><br />
-Com isso, o MST no estado exige justi&ccedil;a e afirma que estar&aacute; nas ruas e nos latif&uacute;ndios realizando lutas em defesa da igualdade, da democracia e&nbsp;contra o golpe e o agroneg&oacute;cio.</p>
+Com isso, o MST no estado exige justi&ccedil;a e afirma que estar&aacute; nas ruas e nos latif&uacute;ndios realizando lutas em defesa da igualdade, da democracia e&nbsp;contra&nbsp;o agroneg&oacute;cio.</p>
