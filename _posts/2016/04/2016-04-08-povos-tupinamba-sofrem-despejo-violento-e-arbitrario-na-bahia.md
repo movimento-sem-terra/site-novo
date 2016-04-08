@@ -39,10 +39,6 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<figure class="image" style="float:left"><img alt="9576_1332576473423061_6128227575748807615_n.jpg" height="400" src="//farm2.staticflickr.com/1498/26242437591_caf855ee6a_b.jpg" width="300" />
-<figcaption>Cacique Babau e seu irm&atilde;o, Jos&eacute; Aelson</figcaption>
-</figure>
-
 <p>Nesta quinta-feira (07), os Povos da Aldeia Tupinamb&aacute; Serra do Padeiro, <span style="color: rgb(84, 84, 84); font-family: arial, sans-serif; font-size: small; line-height: 18.2px;">em Ilh&eacute;us (BA)</span><wbr style="color: rgb(84, 84, 84); font-family: arial, sans-serif; font-size: small; line-height: 18.2px;" /><span style="color: rgb(84, 84, 84); font-family: arial, sans-serif; font-size: small; line-height: 18.2px;">,&nbsp;</span>sofreram um violento despejo em suas terras ancestrais.</p>
 
 <p><br />
