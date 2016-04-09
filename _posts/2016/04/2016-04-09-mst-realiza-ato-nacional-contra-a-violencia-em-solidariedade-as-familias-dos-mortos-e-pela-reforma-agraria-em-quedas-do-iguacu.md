@@ -4,7 +4,7 @@ tags:
   - tag: violência-no-campo
   - tag: lutas-e-mobilizações
   - tag: latifúndio
-title: "MST realiza ato nacional contra a violência, em solidariedade as famílias dos mortos, e pela Reforma Agrária, em Quedas do Iguaçu"
+title: MST realiza ato nacional em Quedas do Iguaçu-PR
 support_line: "A atividade resulta do ataque covarde promovido pela Polícia Militar e por seguranças da Araupel contra trabalhadores Sem Terra, organizados no Acampamento Dom Tomas Balduíno, no município de Quedas do Iguaçu"
 menu: lutas e mobilizações
 images_hd: //farm2.staticflickr.com/1703/26224115492_cf3f3cdb6f_b.jpg
