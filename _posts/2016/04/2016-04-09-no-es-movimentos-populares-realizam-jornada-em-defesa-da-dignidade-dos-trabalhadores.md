@@ -38,10 +38,10 @@ releated_posts:
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Ap&oacute;s duas horas de atraso e muita press&atilde;o, o Governador Paulo Hartug, recebeu em audi&ecirc;ncia os representantes da comiss&atilde;o para discuss&atilde;o da pauta dos trabalhadores e trabalhadoras do campo e da cidade.</p>
+Na &uacute;ltima quarta-feira (06), cerca de 500 trabalhadores e trabalhadoras de movimentos da Via Campesina e organiza&ccedil;&otilde;es sindicais sa&iacute;ram em marcha pelas ruas da capital Capixaba, Vit&oacute;ria. A concentra&ccedil;&atilde;o foi realizada na Pra&ccedil;a Jucutuquara e depois seguiu at&eacute; o Pal&aacute;cio da Anchieta, onde tiveram uma audi&ecirc;ncia com o governo do estado e alguns secret&aacute;rios.</p>
 
 <p><br />
-Na &uacute;ltima quarta-feira (06), cerca de 500 trabalhadores e trabalhadoras de movimentos da Via Campesina e organiza&ccedil;&otilde;es sindicais sa&iacute;ram em marcha pelas ruas da capital Capixaba, Vit&oacute;ria. A concentra&ccedil;&atilde;o foi realizada na Pra&ccedil;a Jucutuquara e depois seguiu at&eacute; o Pal&aacute;cio da Anchieta, onde tiveram uma audi&ecirc;ncia com o governo do estado e alguns secret&aacute;rios.</p>
+<span style="line-height: 20.8px;">Ap&oacute;s duas horas de atraso e muita press&atilde;o, o Governador Paulo Hartug, recebeu em audi&ecirc;ncia os representantes da comiss&atilde;o para discuss&atilde;o da pauta dos trabalhadores e trabalhadoras do campo e da cidade.</span></p>
 
 <p><br />
 A mesma reuni&atilde;o j&aacute; havia sido agendada no dia 28 de mar&ccedil;o, por&eacute;m, em virtude da agenda do PMDB frente &agrave;s atuais movimenta&ccedil;&otilde;es pol&iacute;ticas no cen&aacute;rio nacional, ela foi remarcada.</p>
