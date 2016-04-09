@@ -5,7 +5,7 @@ tags:
   - tag: educação
   - tag: ceará
 images_hd: //farm2.staticflickr.com/1449/26285129956_caaf3e3266_b.jpg
-title: Ceara recebe III Jornada Universitária em Defesa da Reforma Agrária
+title: Ceará recebe III Jornada Universitária em Defesa da Reforma Agrária
 support_line: "MST, professores, alunos e demais movimentos sociais coordenam e participam de debates para pensar a distribuição de terra no país."
 menu: "educação, cultura e comunicação"
 layout: post
@@ -45,13 +45,11 @@ releated_posts:
 ---
 <p><img alt="IMG-20160407-WA0132.jpg" height="394" src="//farm2.staticflickr.com/1641/25706219874_5f17c41b41_b.jpg" width="700" /></p>
 
-<p>&nbsp;</p>
+<p><br />
+<em>Da P&aacute;gina do MST&nbsp;</em></p>
 
-<p><em>Da P&aacute;gina do MST&nbsp;</em></p>
-
-<p>&nbsp;</p>
-
-<p>Nesta quinta-feira (7), foi realizada a abertura da III Jornada Universit&aacute;ria em Defesa da Reforma Agr&aacute;ria, no audit&oacute;rio da Universidade Estadual do Cear&aacute; (UECE) em Fortaleza.</p>
+<p><br />
+Nesta quinta-feira (7), foi realizada a abertura da III Jornada Universit&aacute;ria em Defesa da Reforma Agr&aacute;ria, no audit&oacute;rio da Universidade Estadual do Cear&aacute; (UECE) em Fortaleza.</p>
 
 <p><br />
 A Jornada teve in&iacute;cio com a m&iacute;stica do movimento seguida de aula p&uacute;blica com o tema &quot;A quest&atilde;o agr&aacute;ria nos tempos de hoje&quot;, ministrada por professores e militantes do MST.&nbsp;</p>
