@@ -32,7 +32,8 @@ releated_posts:
   - _posts/2015/11/2015-11-11-lei-antiterrorismo-da-inseguranca-juridica-a-derrota-da-democracia.md
 
 ---
-<p><br />
+<p><img alt="mst _  leonardo sá_-9.jpg" height="467" src="//farm2.staticflickr.com/1625/26224602672_d5b01b04e4_b.jpg" width="700" /><br />
+<br />
 <em>Por Danielle Mello<br />
 Da P&aacute;gina do MST</em></p>
 
