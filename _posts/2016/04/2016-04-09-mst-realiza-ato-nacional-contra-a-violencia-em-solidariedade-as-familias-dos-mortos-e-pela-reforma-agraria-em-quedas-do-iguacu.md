@@ -32,7 +32,7 @@ Foto de capa: Joka Madruga</em></p>
 <p><br />
 O Movimento dos Trabalhadores Rurais Sem Terra (MST), vai realizar nesse s&aacute;bado (9), &agrave;s 10h, na Pra&ccedil;a S&atilde;o Pedro, em Quedas do Igua&ccedil;u, regi&atilde;o centro do Paran&aacute;, o Ato Nacional contra a viol&ecirc;ncia, em solidariedade as fam&iacute;lias dos mortos, e pela Reforma Agr&aacute;ria.<br />
 <br />
-A atividade resulta do ataque covarde promovido pela Pol&iacute;cia Militar e por seguran&ccedil;as da Araupel contra trabalhadores Sem Terra, organizados no Acampamento Dom Tomas Baldu&iacute;no, no munic&iacute;pio de Quedas do Igua&ccedil;u, regi&atilde;o central do Paran&aacute;, na tarde de ontem (8).<br />
+A atividade resulta do ataque covarde promovido pela Pol&iacute;cia Militar e por seguran&ccedil;as da Araupel contra trabalhadores Sem Terra, organizados no Acampamento Dom Tomas Baldu&iacute;no, no munic&iacute;pio de Quedas do Igua&ccedil;u, regi&atilde;o central do Paran&aacute;, na tarde de quinta-feira (7).<br />
 <br />
 Na a&ccedil;&atilde;o violenta foram assassinados os trabalhadores rurais, Vilmar Bordim, de 44 anos, casado, pai de tr&ecirc;s filhos e Leonir Orback, de 25 anos, que deixa a esposa gr&aacute;vida de nove meses. Tamb&eacute;m foram feridos sete trabalhadores, al&eacute;m de dois terem sido detidos para depor, mas j&aacute; foram liberados.<br />
 <br />
