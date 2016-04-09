@@ -3,7 +3,7 @@ date: "2016-04-08T21:22:45-03:00"
 tags:
   - tag: movimentos-populares
   - tag: espírito-santo
-title: "No ES, Movimentos Populares realizam jornada em defesa da dignidade dos trabalhadores"
+title: Movimentos Populares realizam jornada em defesa da dignidade dos trabalhadores
 images_hd: //farm2.staticflickr.com/1625/26224602672_d5b01b04e4_b.jpg
 support_line: "Desde novembro de 2015, os trabalhadores e trabalhadoras buscam interlocução com governo"
 menu: lutas e mobilizações
