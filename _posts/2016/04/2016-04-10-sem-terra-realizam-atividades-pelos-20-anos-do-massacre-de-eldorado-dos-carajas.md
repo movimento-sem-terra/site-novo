@@ -5,7 +5,7 @@ tags:
   - tag: massacre-de-eldorado-dos-carajás
   - tag: impunidade
   - tag: reforma-agrária
-title: Sem Terra realizam atividades pelos 20 Anos do Massacre de Eldorado dos Carajás
+title: Sem Terra realiza atividades pelos 20 Anos do Massacre de Eldorado dos Carajás
 support_line: " MST realiza atividades que marcam a luta pela reforma agrária, a impunidade e denúncia da violência contra os trabalhadores e trabalhadoras rurais"
 menu: lutas e mobilizações
 images_hd: //farm2.staticflickr.com/1565/26084547240_366b799120_b.jpg
@@ -57,8 +57,10 @@ Al&eacute;m disso, a Universidade Federal do Sul e Sudeste do Par&aacute; (Unife
 <strong>A&ccedil;&otilde;es Unit&aacute;rias e em defesa da democracia</strong></p>
 
 <p><br />
-Na capital, Bel&eacute;m, ser&aacute; realizado o acampamento com cerca de 400 camponeses e camponesas.<br />
-Organizado no centro da cidade, a atividade contar&aacute; com um ato de mem&oacute;ria &agrave;s v&iacute;timas de Eldorado dos Caraj&aacute;s, al&eacute;m de pautar audi&ecirc;ncias com &oacute;rg&atilde;os p&uacute;blicos, bem como a&ccedil;&otilde;es junto a outros setores populares em defesa da democracia, organizadas em conjunto com a Frente Brasil Popular (FBP)</p>
+Na capital, Bel&eacute;m, ser&aacute; realizado o acampamento com cerca de 400 camponeses e camponesas.</p>
+
+<p><br />
+Organizado no centro da cidade, a atividade contar&aacute; com um ato de mem&oacute;ria &agrave;s v&iacute;timas de Eldorado dos Caraj&aacute;s, al&eacute;m de pautar audi&ecirc;ncias com &oacute;rg&atilde;os p&uacute;blicos, bem como a&ccedil;&otilde;es junto a outros setores populares em defesa da democracia, organizadas em conjunto com a Frente Brasil Popular (FBP).</p>
 
 <p><br />
 J&aacute; a Universidade Federal do Par&aacute; (UFPA), receber&aacute; a 1&ordf; Jornada Universit&aacute;ria em defesa da Reforma Agr&aacute;ria.</p>
