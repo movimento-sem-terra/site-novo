@@ -17,6 +17,12 @@ files:
     small: //farm2.staticflickr.com/1565/26084547240_366b799120_n.jpg
     title: Arte Carajás.jpg
     $$hashKey: 0S8
+  - link: //farm2.staticflickr.com/1488/26357650545_c5ca379616_b.jpg
+    thumbnail: //farm2.staticflickr.com/1488/26357650545_c5ca379616_t.jpg
+    medium: //farm2.staticflickr.com/1488/26357650545_c5ca379616_z.jpg
+    small: //farm2.staticflickr.com/1488/26357650545_c5ca379616_n.jpg
+    title: OKOKKO.jpg
+    $$hashKey: 13S
 created_date: "2016-04-10T20:21:29-03:00"
 published: true
 releated_posts:
@@ -33,7 +39,7 @@ Da P&aacute;gina do MST</em></p>
 No contexto de crise pol&iacute;tica, social e ambiental vivenciadas pela sociedade e os recentes acontecimentos em torno a quest&atilde;o agr&aacute;ria e conflitos no campo, como o caso do <a href="http://www.mst.org.br/2016/04/08/mst-repudia-acao-da-pm-e-exige-punicao-imediata-dos-responsaveis-pelo-crime-cometido-contra-os-sem-terra-no-parana.html">assassinato dos Sem Terra no estado do Paran&aacute;</a>, sul do Brasil, o MST realiza atividades que marcam a luta pela reforma agr&aacute;ria, a impunidade e den&uacute;ncia da viol&ecirc;ncia contra os trabalhadores e trabalhadoras rurais.</p>
 
 <p><br />
-Em mem&oacute;ria e justi&ccedil;a aos m&aacute;rtires da luta pela terra, assassinados na curva do &ldquo;S&rdquo; em Eldorado dos Caraj&aacute;s, em 17 de abril de 1996, que se tornou um marco para a luta camponesa em todo o mundo, ser&atilde;o realizados atividades no estado do Par&aacute; e em todo Brasil.</p>
+Em mem&oacute;ria e justi&ccedil;a aos m&aacute;rtires da luta pela terra, assassinados na curva do &ldquo;S&rdquo; em Eldorado dos Caraj&aacute;s, em 17 de abril de 1996, que se tornou um marco para a luta camponesa em todo o mundo, ser&atilde;o realizadas atividades no estado do Par&aacute; e em todo Brasil.</p>
 
 <p><br />
 <strong>Viol&ecirc;ncia e Impunidade no campo</strong></p>
@@ -42,7 +48,11 @@ Em mem&oacute;ria e justi&ccedil;a aos m&aacute;rtires da luta pela terra, assas
 No Par&aacute;, entre os dias 10 a 17 de abril, acontece o Acampamento Nacional da juventude Sem Terra. S&atilde;o esperados cerca de 500 jovens para lembrar as v&iacute;timas de Eldorado e homenage&aacute;-las, dentre elas, Oziel Alves Pereira, de 17 anos, jovem que foi assassinado na curva do &ldquo;S&rdquo; naquele 17 de abril de 1996 e se tornou um s&iacute;mbolo para milit&acirc;ncia Sem Terra.</p>
 
 <p><br />
-Os jovens do acampamento ter&atilde;o palestras sobre viol&ecirc;ncia, situa&ccedil;&atilde;o da juventude no campo, sa&uacute;de, sexualidade; oficinas de teatro, dan&ccedil;a, pintura, percuss&atilde;o, v&iacute;deos; visita ao cemit&eacute;rio de Curion&oacute;polis onde as v&iacute;timas do massacre foram enterrados; al&eacute;m do ato em comemora&ccedil;&atilde;o aos 18 anos do Programa Nacional de educa&ccedil;&atilde;o na Reforma Agr&aacute;ria (PRONERA).</p>
+Os jovens do acampamento ter&atilde;o palestras sobre viol&ecirc;ncia, situa&ccedil;&atilde;o da juventude no campo, sa&uacute;de, sexualidade; oficinas de teatro, dan&ccedil;a, pintura, percuss&atilde;o, v&iacute;deos; visita ao cemit&eacute;rio de Curion&oacute;polis onde as v&iacute;timas do massacre foram enterrados; al&eacute;m do ato em comemora&ccedil;&atilde;o aos 18 anos do Programa Nacional de educa&ccedil;&atilde;o na Reforma Agr&aacute;ria (PRONERA).<br />
+<br />
+&nbsp;</p>
+
+<p><img alt="OKOKKO.jpg" height="571" src="//farm2.staticflickr.com/1488/26357650545_c5ca379616_b.jpg" width="700" /></p>
 
 <p><br />
 Em Marab&aacute;, ser&aacute; realizada a <a href="http://www.mst.org.br/2016/04/06/via-campesina-realiza-conferencia-internacional-sobre-reforma-agraria-no-brasil.html">Confer&ecirc;ncia Internacional da Reforma Agr&aacute;ria</a>, nos dias 13 a 17. O evento organizado pela Via Campesina contar&aacute; com a participa&ccedil;&atilde;o de representantes e lideran&ccedil;as de movimentos camponeses dos cinco continentes do mundo. Eles v&atilde;o discutir temas sobre o projeto do capital, agroneg&oacute;cio, quest&atilde;o mineral, meio ambiente, entre outros.</p>
