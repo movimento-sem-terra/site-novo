@@ -41,7 +41,16 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p>Os textos publicados repudiam os ataques e exigem puni&ccedil;&atilde;o imediata aos respons&aacute;veis.&nbsp;O Instituto de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra) lamentou o ocorrido e &nbsp;reiterou que &ldquo;o Incra vem agindo dentro dos princ&iacute;pios da legalidade, amparado pela Procuradoria Federal Especializada (PFE) junto ao Incra/PR;&nbsp;Procuradoria da Uni&atilde;o no Paran&aacute; e Procuradoria Federal no Paran&aacute;, no sentido de arrecadar a &aacute;rea explorada pela empresa Araupel no munic&iacute;pio de Quedas&rdquo;.&nbsp;</p>
+<p>Os textos publicados repudiam os ataques e exigem puni&ccedil;&atilde;o imediata aos respons&aacute;veis.&nbsp;</p>
+
+<p><br />
+O Instituto de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra) lamentou o ocorrido e &nbsp;reiterou que &ldquo;o Incra vem agindo dentro dos princ&iacute;pios da legalidade, amparado pela Procuradoria Federal Especializada (PFE) junto ao Incra/PR;&nbsp;Procuradoria da Uni&atilde;o no Paran&aacute; e Procuradoria Federal no Paran&aacute;, no sentido de arrecadar a &aacute;rea explorada pela empresa Araupel no munic&iacute;pio de Quedas&rdquo;.&nbsp;</p>
+
+<p><br />
+A Anistia Internacional ressaltou que &eacute;&nbsp;fundamental que as secretarias estaduais de seguran&ccedil;a e a Pol&iacute;cia Civil investiguem esses eventos de modo c&eacute;lere e independente e que os policiais envolvidos sejam imediatamente afastados.&nbsp;</p>
+
+<p><br />
+E na figura do diretor executivo da Anistia Internacional Brasil,&nbsp;Atila Roque,&nbsp;afirmou que &eacute;&nbsp;sintom&aacute;tico que, &agrave;s v&eacute;speras de se completarem 20 anos do Massacre de Eldorado dos Caraj&aacute;s, quando 19 pessoas foram assassinadas e outras 69 ficaram feridas, continuemos a presenciar a escalada de assassinatos no campo&rdquo;.</p>
 
 <p>&nbsp;</p>
 
