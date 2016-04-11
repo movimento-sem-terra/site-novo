@@ -5,7 +5,7 @@ tags:
   - tag: ocupação
   - tag: latifundio
 title: "MST ocupa Latifúndio improdutivo no interior da Bahia "
-support_line: "Em meios as grandes extensões de monocultivos de soja e algodão, famílias Sem Terra exigem a desapropriação da fazenda para fins de reforma agrária "
+support_line: "Em meios a grandes extensões de monocultivo de soja e algodão, famílias Sem Terra exigem a desapropriação da fazenda para fins de Reforma Agrária. "
 menu: lutas e mobilizações
 images_hd: //farm2.staticflickr.com/1459/25772097863_2f7edc5116_b.jpg
 layout: post
@@ -42,7 +42,7 @@ releated_posts:
 <em>Do Coletivo de Comunica&ccedil;&atilde;o do MST na Bahia</em></p>
 
 <p><br />
-Na madrugada dessa segunda-feira (11), mais de 260 fam&iacute;lias ocuparam a fazenda Bial, localizada no munic&iacute;pio de Iui&uacute; (Bahia), regi&atilde;o de S&atilde;o Francisco. A &aacute;rea com grandes extens&otilde;es de&nbsp;monocultivo de algod&atilde;o e soja, a fazenda se encontra com as atividades paralisadas e &ldquo;com toda produ&ccedil;&atilde;o perdida&rdquo;, diz os trabalhadores Sem Terra.</p>
+Na madrugada dessa segunda-feira (11), mais de 260 fam&iacute;lias ocuparam a fazenda Bial, localizada no munic&iacute;pio de Iui&uacute; (Bahia), regi&atilde;o de S&atilde;o Francisco. A &aacute;rea com grandes extens&otilde;es de&nbsp;monocultivo de algod&atilde;o e soja, est&atilde;o&nbsp;com as atividades paralisadas e &ldquo;com toda produ&ccedil;&atilde;o perdida&rdquo;, dizem os trabalhadores Sem Terra.</p>
 
 <p><br />
 O gerente da fazenda e um advogado, acompanhados por uma viatura da Pol&iacute;cia Militar, amea&ccedil;aram as fam&iacute;lias, afirmando que a ocupa&ccedil;&atilde;o era ilegal e que deveriam sair, a qualquer custa, da &aacute;rea, o que n&atilde;o foi atendido.</p>
