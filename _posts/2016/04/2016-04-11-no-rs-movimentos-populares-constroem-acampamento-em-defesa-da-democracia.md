@@ -35,7 +35,7 @@ releated_posts:
 Na tarde desta segunda-feira (11), cerca de 500 integrantes de movimentos sociais ligados &agrave; Frente Brasil Popular e &agrave; Frente Povo Sem Medo ocuparam a Pra&ccedil;a da Matriz,&nbsp;Centro Hist&oacute;rico de Porto Alegre (RS), onde constroem o Acampamento da Legalidade e da Democracia.</p>
 
 <p><br />
-De acordo com o dirigente estadual do MST, Cedenir de Oliveira, esta mobiliza&ccedil;&atilde;o popular, que inicia no mesmo dia da vota&ccedil;&atilde;o do relat&oacute;rio do deputado Jovair Arantes (PTB-GO) na comiss&atilde;o de impeachment, tem como objetivo defender a democracia e denunciar o golpe em curso no pa&iacute;s, al&eacute;m de marcar, para os Sem Terra&nbsp;o in&iacute;cio da Jornada de Luta por Reforma Agr&aacute;ria.&nbsp;</p>
+De acordo com o dirigente estadual do MST, Cedenir de Oliveira, esta mobiliza&ccedil;&atilde;o popular, que inicia no mesmo dia da vota&ccedil;&atilde;o do relat&oacute;rio do deputado Jovair Arantes (PTB-GO) na comiss&atilde;o de impeachment, tem como objetivo defender a democracia e denunciar o golpe em curso no pa&iacute;s, al&eacute;m de marcar o in&iacute;cio da Jornada de Luta por Reforma Agr&aacute;ria para os Sem Terra.&nbsp;</p>
 
 <p><br />
 Os participantes do acampamento, de v&aacute;rias regi&otilde;es do estado, come&ccedil;aram a se concentrar na pra&ccedil;a por volta das 16 horas, com lonas, barracas e colch&otilde;es. Segundo Oliveira, o Acampamento da Legalidade e da Democracia se manter&aacute; em car&aacute;ter de resist&ecirc;ncia, portanto, n&atilde;o h&aacute; previs&atilde;o para os manifestantes deixarem o local. &ldquo;Sairemos daqui somente quando a democracia n&atilde;o estiver mais em risco, quando o golpe for derrotado&rdquo;, afirma.</p>
