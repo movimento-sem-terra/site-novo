@@ -28,6 +28,9 @@ releated_posts:
   - _posts/2015/10/2015-10-29-movimentos-populares-prestam-solidariedade-a-servidores-da-educacao-no-df.md
   - _posts/2015/11/2015-11-09-movimentos-se-unem-ao-sindipetro-em-ato-e-apoiam-a-greve-dos-petroleiros.md
   - _posts/2015/12/2015-12-03-em-nota-mst-repudia-tentativa-de-golpe-contra-a-presidente-dilma.md
+images_hd: //farm2.staticflickr.com/1702/25767541853_4f83f83fc2_b.jpg
+support_line: "Anistia Internacional, CPT, MMM, entre outros, lamentaram as mortes e cobraram punição imediata aos culpados. "
+menu: direitos humanos
 
 ---
 <p>&nbsp;</p>
