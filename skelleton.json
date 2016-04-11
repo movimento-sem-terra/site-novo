@@ -210,6 +210,7 @@
     "view": "select",
     "options": [
       {"name": "Primeira Feira da Reforma Agrária", "id": "first-street-market"}
+      {"name": "Jornada Nacional de luta pela Reforma Agrária", "id": "land-reform"}
       ]
   }
 },
