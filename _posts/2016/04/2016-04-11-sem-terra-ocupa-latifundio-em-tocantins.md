@@ -7,7 +7,7 @@ tags:
 title: "Sem Terra ocupa latifúndio em Tocantins "
 support_line: A Fazenda foi adquirida por práticas de crime ambientais e grilagem
 menu: lutas e mobilizações
-images_hd: //farm2.staticflickr.com/1582/26103834540_fb3410c45b_b.jpg
+images_hd: //farm2.staticflickr.com/1541/26104010500_17ee95db8b_b.jpg
 layout: post
 files:
   - link: //farm2.staticflickr.com/1582/26103834540_fb3410c45b_b.jpg
@@ -16,6 +16,12 @@ files:
     small: //farm2.staticflickr.com/1582/26103834540_fb3410c45b_n.jpg
     title: images.jpg
     $$hashKey: "137"
+  - link: //farm2.staticflickr.com/1541/26104010500_17ee95db8b_b.jpg
+    thumbnail: //farm2.staticflickr.com/1541/26104010500_17ee95db8b_t.jpg
+    medium: //farm2.staticflickr.com/1541/26104010500_17ee95db8b_z.jpg
+    small: //farm2.staticflickr.com/1541/26104010500_17ee95db8b_n.jpg
+    title: mst81764.jpg
+    $$hashKey: 0GX
 created_date: "2016-04-11T18:05:24-03:00"
 published: true
 releated_posts:
