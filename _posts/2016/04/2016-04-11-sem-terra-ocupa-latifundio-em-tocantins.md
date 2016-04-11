@@ -30,10 +30,10 @@ releated_posts:
 Na madrugada de s&aacute;bado (08), 150 fam&iacute;lias Sem Terra, organizadas em Tocantins, ocuparam a fazenda Ozara, localizada no munic&iacute;pio de S&atilde;o Sebasti&atilde;o, Bico do Papagaio. As fam&iacute;lias est&atilde;o acampadas na regi&atilde;o desde 2013 e ocuparam a fazenda como forma de pressionar o INCRA a desapropri&aacute;-la para fins de reforma agr&aacute;ria.</p>
 
 <p><br />
-Segundo Eliane Teixeira, membro da dire&ccedil;&atilde;o regional do MST, a fazenda &eacute; respons&aacute;vel por crimes ambientais e possui terras p&uacute;blicas griladas pelo fazendeiro. &ldquo;Por isso, exigimos que a fazenda seja desapropriada para assentar nossas fam&iacute;lias&rdquo;, afirma Eliane.&nbsp;</p>
+Segundo Eliane Teixeira, membro da dire&ccedil;&atilde;o regional do MST, a fazenda &eacute; respons&aacute;vel por crimes ambientais e possui terras p&uacute;blicas griladas pelo fazendeiro. &ldquo;Por isso, exigimos que a fazenda seja desapropriada para assentar nossas fam&iacute;lias&rdquo;, afirmou&nbsp;Eliane.&nbsp;</p>
 
 <p><br />
-A regi&atilde;o do Bico do Papagaio abrange os estados de Tocantins, Maranh&atilde;o e Par&aacute; e, desde as capitanias heredit&aacute;rias at&eacute; os latif&uacute;ndios modernos, &eacute; caracterizada por uma estrutura fundi&aacute;ria altamente marcada pela concentra&ccedil;&atilde;o de terras, grilagem, ocorr&ecirc;ncia de trabalho escravo e disputas agr&aacute;rias vinculadas &agrave; posse ilegal de terra, &agrave; seca, ao movimento sindical e &agrave; pol&iacute;tica agr&iacute;cola.</p>
+A regi&atilde;o do Bico do Papagaio abrange os estados de Tocantins, Maranh&atilde;o e Par&aacute; e, desde as capitanias heredit&aacute;rias at&eacute; os latif&uacute;ndios modernos, &eacute; caracterizada por uma estrutura fundi&aacute;ria altamente marcada pela concentra&ccedil;&atilde;o de terras, grilagem, ocorr&ecirc;ncia de trabalho escravo e disputas agr&aacute;rias vinculadas &agrave; posse ilegal de terra, &agrave; seca e&nbsp;&agrave; pol&iacute;tica agr&iacute;cola.</p>
 
 <p><br />
 A presen&ccedil;a do MST na regi&atilde;o &eacute; importante porque as a&ccedil;&otilde;es governamentais da atualidade ainda n&atilde;o foram capazes de resolver o atraso de distribui&ccedil;&atilde;o das terras e de efetuar a reforma agr&aacute;ria, al&eacute;m de combater a viol&ecirc;ncia cometida contra camponeses e trabalhadores rurais do campo pelos fazendeiros locais.&nbsp;</p>
