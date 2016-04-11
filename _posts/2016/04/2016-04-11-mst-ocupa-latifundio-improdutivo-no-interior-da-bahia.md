@@ -52,6 +52,7 @@ Na ocupa&ccedil;&atilde;o, encontram-se crian&ccedil;as, homens e mulheres que e
 
 <p><br />
 <img alt="20160411075019.jpg" height="420" src="//farm2.staticflickr.com/1460/26308618151_9462a948af_b.jpg" width="700" /><br />
+<br />
 A ocupa&ccedil;&atilde;o faz parte da Jornada Nacional de Lutas em Defesa da Reforma Agr&aacute;ria que, somente na Bahia, pretende mobilizar milhares de trabalhadores e ocupar mais de 30 latif&uacute;ndios. As lutas acontecer&atilde;o durante o m&ecirc;s de abril e relembram os 20 anos de impunidade da morte de 21 trabalhadores Sem Terra, em Eldorado dos Caraj&aacute;s, no Par&aacute;.</p>
 
 <p><br />
