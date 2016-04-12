@@ -58,7 +58,7 @@ O conv&ecirc;nio com o Incra estava parado desde 2012 e foi retomado este ano, o
 <br />
 <strong>Veredas da Terra</strong></p>
 
-<figure class="image" style="float:right"><img alt="DSC07132.JPG" height="225" src="//farm2.staticflickr.com/1609/26393297085_5c420bed4d_b.jpg" width="400" />
+<figure class="image"><img alt="DSC07132.JPG" height="141" src="//farm2.staticflickr.com/1609/26393297085_5c420bed4d_b.jpg" width="250" />
 <figcaption></figcaption>
 </figure>
 
