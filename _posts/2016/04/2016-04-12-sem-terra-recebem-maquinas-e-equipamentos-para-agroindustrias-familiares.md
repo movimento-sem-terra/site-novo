@@ -55,14 +55,13 @@ O conv&ecirc;nio com o Incra estava parado desde 2012 e foi retomado este ano, o
 <br />
 &ldquo;Gra&ccedil;as ao esfor&ccedil;o do nosso governo conseguimos destravar essa pauta e atender &agrave; demanda antiga dos assentados da reforma agr&aacute;ria&rdquo;, disse Martins, ao representar o governador Fernando Pimentel na solenidade realizada no assentamento Estrela do Norte, onde ser&aacute; o centro de armazenamento, envase e distribui&ccedil;&atilde;o dos produtos.<br />
 <br />
-<br />
-<strong>Veredas da Terra</strong></p>
+&nbsp;</p>
 
 <figure class="image"><img alt="DSC07132.JPG" height="141" src="//farm2.staticflickr.com/1609/26393297085_5c420bed4d_b.jpg" width="250" />
 <figcaption></figcaption>
 </figure>
 
-<p><br />
+<p><strong>Veredas da Terra</strong><br />
 <br />
 A expectativa do movimento &eacute; que com o investimento na micro destilaria as atividades da Cooperativa Camponesa Veredas da Terra ir&atilde;o avan&ccedil;ar. Atualmente, os assentamentos produzem e vendem, via cooperativa, uma s&eacute;rie de produtos t&iacute;picos da regi&atilde;o do Norte de Minas, como a geleia de umbu, o doce de castanha de baru, al&eacute;m da cacha&ccedil;a artesanal da marca Veredas da Terra.<br />
 <br />
