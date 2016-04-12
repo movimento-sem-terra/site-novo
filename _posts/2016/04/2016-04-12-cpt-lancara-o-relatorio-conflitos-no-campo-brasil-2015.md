@@ -27,7 +27,9 @@ releated_posts:
   - _posts/2014/12/2014-11-05-cpt-quer-mais-compromisso-do-governo-com-os-povos-que-lutam-pela-terra.md
 
 ---
-<p><em>Da CPT</em></p>
+<p><br />
+<br />
+<em>Da CPT</em></p>
 
 <p><em>Foto de capa: Cezar Magalh&atilde;es/Reprodu&ccedil;&atilde;o da Web</em><br />
 <br />
@@ -57,8 +59,6 @@ No dia 15 de abril, pr&oacute;xima sexta-feira, a Comiss&atilde;o Pastoral da Te
 <p><strong>Servi&ccedil;o</strong>:<br />
 &nbsp;</p>
 
-<p>&nbsp;</p>
-
 <p>Lan&ccedil;amento do relat&oacute;rio Conflitos no Campo Brasil 2015</p>
 
 <p>Quando: 15 de abril (sexta-feira), a partir das 14h30.</p>
@@ -71,4 +71,6 @@ No dia 15 de abril, pr&oacute;xima sexta-feira, a Comiss&atilde;o Pastoral da Te
 
 <p>Quando: 15 de abril (sexta-feira), a partir das 13h30.</p>
 
-<p>Onde: Centro Diocesano de Pastoral de Marab&aacute; &ndash; Agopolis do Incra, Bairro Amap&aacute; &ndash; Marab&aacute; (PA).</p>
+<p>Onde: Centro Diocesano de Pastoral de Marab&aacute; &ndash; Agopolis do Incra, Bairro Amap&aacute; &ndash; Marab&aacute; (PA).<br />
+<br />
+&nbsp;</p>
