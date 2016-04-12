@@ -5,8 +5,8 @@ tags:
   - tag: massacre-de-eldorado-dos-carajás
   - tag: impunidade
   - tag: reforma-agrária
-title: Sem Terra realiza atividades pelos 20 Anos do Massacre de Eldorado dos Carajás
-support_line: " MST realiza atividades que marcam a luta pela reforma agrária, a impunidade e denúncia da violência contra os trabalhadores e trabalhadoras rurais"
+title: Sem Terra realizam atividades pelos 20 Anos do Massacre de Eldorado dos Carajás
+support_line: "MST realiza atividades que marcam a luta pela reforma agrária, a impunidade e denúncia da violência contra os trabalhadores e trabalhadoras rurais"
 menu: lutas e mobilizações
 images_hd: //farm2.staticflickr.com/1565/26084547240_366b799120_b.jpg
 layout: post
