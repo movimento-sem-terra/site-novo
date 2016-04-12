@@ -8,15 +8,15 @@ title: MST repudia tentativa de criminalização do Movimento por parlamentares
 support_line: "Deputados usaram a tribuna da Câmara dos Deputados para reproduzir mentiras sobre o MST, baseadas em matérias mal apuradas pela imprensa e supostos áudios da polícia"
 menu: direitos humanos
 section: cover
-images_hd: //farm2.staticflickr.com/1513/26381032315_7736efd99b_b.jpg
+images_hd: //farm2.staticflickr.com/1565/26288952502_31420f977d_b.jpg
 layout: post
 files:
-  - link: //farm2.staticflickr.com/1513/26381032315_7736efd99b_b.jpg
-    thumbnail: //farm2.staticflickr.com/1513/26381032315_7736efd99b_t.jpg
-    medium: //farm2.staticflickr.com/1513/26381032315_7736efd99b_z.jpg
-    small: //farm2.staticflickr.com/1513/26381032315_7736efd99b_n.jpg
-    title: criminalization_of_the_mst_1_by_latuff2.jpg
-    $$hashKey: 05C
+  - link: //farm2.staticflickr.com/1565/26288952502_31420f977d_b.jpg
+    thumbnail: //farm2.staticflickr.com/1565/26288952502_31420f977d_t.jpg
+    medium: //farm2.staticflickr.com/1565/26288952502_31420f977d_z.jpg
+    small: //farm2.staticflickr.com/1565/26288952502_31420f977d_n.jpg
+    title: rede-globo-mente.jpg
+    $$hashKey: 0K7
 created_date: "2016-04-11T23:44:21-03:00"
 published: true
 releated_posts: []
