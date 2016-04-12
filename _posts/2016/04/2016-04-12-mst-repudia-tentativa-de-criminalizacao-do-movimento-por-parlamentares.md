@@ -54,7 +54,7 @@ O MST repudia de forma veemente a tentativa de criminaliza&ccedil;&atilde;o do M
 Na noite desta segunda (11/4), durante o ato em defesa da Democracia promovido pela Frente Brasil Popular, Jos&eacute; Carlos dos Santos foi detido por portar uma quantidade de dinheiro em sua mochila, o que foi considerado suspeito pela pol&iacute;cia militar do DF.</p>
 
 <p><br />
-O senhor Jo&atilde;o Santos, que n&atilde;o integra o MST nem em sua base militante, nem em suas inst&acirc;ncias diretivas, prestou seus esclarecimentos, declarou a origem do dinheiro e foi liberado. Segundo informa&ccedil;&otilde;es prestadas pelos policiais da 5&deg; DP de Bras&iacute;lia ao MST, o senhor Fontes afirmou n&atilde;o ser integrante de nenhum partido, ou movimento algum, tendo ido &agrave; manifesta&ccedil;&atilde;o por ato individual, que tamb&eacute;m &eacute; leg&iacute;timo.</p>
+O senhor Jos&eacute; Carlos, que n&atilde;o integra o MST nem em sua base militante, nem em suas inst&acirc;ncias diretivas, prestou seus esclarecimentos, declarou a origem do dinheiro e foi liberado. Segundo informa&ccedil;&otilde;es prestadas pelos policiais da 5&deg; DP de Bras&iacute;lia ao MST, o senhor Santos afirmou n&atilde;o ser integrante de nenhum partido, ou movimento algum, tendo ido &agrave; manifesta&ccedil;&atilde;o por ato individual, que tamb&eacute;m &eacute; leg&iacute;timo.</p>
 
 <p><br />
 Neste sentido, tamb&eacute;m repudiamos a mat&eacute;ria veiculada no site das Organiza&ccedil;&otilde;es Globo, G1, que afirma uma mentira em sua apura&ccedil;&atilde;o (ou a falta dela). Em nenhum momento, o site entrou em contato com o MST para confirmar a associa&ccedil;&atilde;o de um militante a um suposto crime, como tentam insinuar.</p>
