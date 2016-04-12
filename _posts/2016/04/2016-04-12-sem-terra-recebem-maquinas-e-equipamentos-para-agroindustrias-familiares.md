@@ -39,6 +39,13 @@ releated_posts:
 ---
 <p><br />
 <img alt="DSC07124.JPG" height="394" src="//farm2.staticflickr.com/1602/25790532163_56b267c33c_b.jpg" width="700" /><br />
+<br />
+<br />
+<em>Da P&aacute;gina do MST</em></p>
+
+<p><em>Por Geanini Hackbardt</em><br />
+<br />
+<br />
 Assentados da Reforma Agr&aacute;ria de Minas Gerais receberam da Secretaria de Estado de Desenvolvimento Agr&aacute;rio (Seda), nesta segunda-feira (11/04), mais de 160 m&aacute;quinas e equipamentos para cinco agroind&uacute;strias de derivados da cana de a&ccedil;&uacute;car.<br />
 <br />
 A entrega resulta de um conv&ecirc;nio entre o Governo de Minas Gerais e o Incra para o desenvolvimento agroindustrial em cinco assentamentos. Tr&ecirc;s delas se localizam na regi&atilde;o do Norte de Minas (Estrela do Norte, Darcy Ribeiro e S&atilde;o Francisco II) e dois na regi&atilde;o metropolitana de Belo Horizonte (Comunidade Resist&ecirc;ncia e Ho-Chi-Minh).<br />
