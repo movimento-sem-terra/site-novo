@@ -38,24 +38,18 @@
 //END
 
 .jornadas {
-  @extend .default-container;
-  h2 {
-    font-size: 2.5em;
-  }
+	.header.description{
+		h1 {
+			text-align: center;
+		}
 
-  p {
-    font: 500 18px / 24px;
-    color: #555;
-    font-weight: 300;
-    padding: 10px;
-    font-size: 1.3em;
-  }
-
-  .header {
-
-  }
-
-  .content {
-
-  }
+		.cover {
+			background-color: black;
+			max-width: none;
+			box-shadow: none;
+			display: flex;
+			justify-content: center;
+			margin-bottom: 15px;
+		}
+	}
 }
