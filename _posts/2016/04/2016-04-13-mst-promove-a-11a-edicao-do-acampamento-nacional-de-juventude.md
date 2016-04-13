@@ -50,7 +50,7 @@ L&aacute; est&atilde;o reunidos 500 jovens de norte a sul do Brasil que realizam
 A Curva do &ldquo;S&rdquo; na BR 155, em Eldorado dos Caraj&aacute;s, foi o local onde 21 trabalhadores rurais foram assassinados pela pol&iacute;cia militar no epis&oacute;dio que ficou conhecido como Massacre de Eldorado dos Caraj&aacute;s. No dia 17 de abril, a trag&eacute;dia completa 20 anos de total impunidade.&nbsp;</p>
 
 <p><br />
-Para J&uacute;nior Santos, membro do coletivo de juventude do MST Par&aacute;, as atividades desenvolvidas neste per&iacute;odo na Curva do &ldquo;S&rdquo; simbolizam um ato de resist&ecirc;ncia da classe trabalhadora, um resgate da hist&oacute;ria para que a sociedade n&atilde;o esque&ccedil;a o que aconteceu ali. &ldquo;Ao mesmo tempo, o acampamento reitera o direito garantido pela Constitui&ccedil;&atilde;o Federal da reforma agr&aacute;ria&rdquo;, declara.<br />
+Para J&uacute;nior Santos, membro do coletivo de juventude do MST Par&aacute;, as atividades desenvolvidas neste per&iacute;odo na Curva do &ldquo;S&rdquo; simbolizam um ato de resist&ecirc;ncia da classe trabalhadora, um resgate da hist&oacute;ria para que a sociedade n&atilde;o esque&ccedil;a o que aconteceu ali. &ldquo;Ao mesmo tempo, o acampamento reitera o direito garantido pela Constitui&ccedil;&atilde;o Federal da Reforma Agr&aacute;ria&rdquo;, declara.<br />
 <br />
 Santos tamb&eacute;m avalia que a participa&ccedil;&atilde;o da juventude Sem Terra de outros estados e regi&otilde;es do pa&iacute;s &eacute; uma experi&ecirc;ncia importante do ponto de vista de resgate hist&oacute;rico do Movimento.</p>
 
