@@ -4,7 +4,7 @@ tags:
   - tag: agrotóxicos
   - tag: agronegócio
   - tag: veneno
-title: "Nos esgotos da Câmara, projeto que bota mais agrotóxico na sua mesa terá comissão instalada hoje"
+title: "Nos esgotos da Câmara, projeto que bota mais agrotóxico na sua mesa tem comissão instalada "
 support_line: "Ao contrário das outras tentativas de mudança de lei, desta vez o caso é o pior: trata-se de jogar no lixo a Lei 7802/1898, construída a partir de grande luta da sociedade civil."
 menu: agronegócio
 images_hd: //farm2.staticflickr.com/1599/26316740512_0484cba63c_b.jpg
