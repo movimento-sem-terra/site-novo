@@ -31,7 +31,9 @@ releated_posts:
   - _posts/2015/04/2015-04-17-eldorado-de-carajas-para-nao-passar-em-branco.md
 
 ---
-<p><img alt="IMG_2365.JPG" height="467" src="//farm2.staticflickr.com/1537/26382901706_6e3d95419f_b.jpg" width="700" /></p>
+<figure class="image"><img alt="IMG_2365.JPG" height="467" src="//farm2.staticflickr.com/1537/26382901706_6e3d95419f_b.jpg" width="700" />
+<figcaption>Fotos: Daniele Bastos</figcaption>
+</figure>
 
 <p>&nbsp;</p>
 
