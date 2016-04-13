@@ -6,7 +6,7 @@ tags:
   - tag: lutas-e-mobilizações
 images_hd: //farm2.staticflickr.com/1453/26316764842_5183b83377_b.jpg
 title: " Duas fazendas são ocupadas por Sem Terra no sul da Bahia"
-support_line: "Barracos de lona preta começaram a ser montados nos latifúndios pelos trabalhadores, que não possuem previsão de saída. Enquanto isso, o Incra é cobrado à iniciar o processo de vistoria das áreas para realizar as desapropriações."
+support_line: "Barracos de lona preta começaram a ser montados nos latifúndios pelos trabalhadores, que não possuem previsão de saída. Enquanto isso, o Incra é cobrado a iniciar o processo de vistoria das áreas para realizar as desapropriações."
 menu: lutas e mobilizações
 layout: post
 files:
@@ -59,7 +59,7 @@ releated_posts:
 <p>Ela conta ainda, que as fam&iacute;lias Sem Terra pretendem romper com o monocultivo nessas localidades e garantir a soberania alimentar e econ&ocirc;mica da regi&atilde;o.<br />
 &nbsp;</p>
 
-<p>Barracos de lona preta come&ccedil;aram a ser montados nos latif&uacute;ndios pelos trabalhadores, que n&atilde;o possuem previs&atilde;o de sa&iacute;da. Enquanto isso, o Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra) &eacute; cobrado &agrave; iniciar o processo de vistoria das &aacute;reas para realizar as desapropria&ccedil;&otilde;es.<br />
+<p>Barracos de lona preta come&ccedil;aram a ser montados nos latif&uacute;ndios pelos trabalhadores, que n&atilde;o possuem previs&atilde;o de sa&iacute;da. Enquanto isso, o Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra) &eacute; cobrado a iniciar o processo de vistoria das &aacute;reas para realizar as desapropria&ccedil;&otilde;es.<br />
 &nbsp;</p>
 
 <p>De acordo com Maria Aparecida, acampada, a conquista da terra simboliza a realiza&ccedil;&atilde;o de um sonho, o de produzir e, a partir disso, sustentar seus filhos e netos.<br />
