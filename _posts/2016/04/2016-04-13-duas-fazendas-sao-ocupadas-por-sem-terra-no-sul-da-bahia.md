@@ -35,7 +35,13 @@ releated_posts:
 
 ---
 <p><br />
-<br />
+&nbsp;</p>
+
+<figure class="image"><img alt="25148216585_e204320ce5_b.jpg" height="466" src="//farm2.staticflickr.com/1453/26316764842_5183b83377_b.jpg" width="700" />
+<figcaption></figcaption>
+</figure>
+
+<p><br />
 <em>Da P&aacute;gina do MST</em></p>
 
 <p><em>Por Coletivo de Comunica&ccedil;&atilde;o do MST na Bahia</em><br />
