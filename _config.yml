@@ -15,7 +15,7 @@ timezone: BR
 lollipop:
   title: Feira Nacional da Reforma Agrária
   link: feira-reforma-agraria
-  enabled: false
+  enabled: true
 gems:
   - jekyll-sitemap
 exclude:
