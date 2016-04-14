@@ -1,10 +1,10 @@
-{% if site.lollipop.enabled %}
-  <section class="lollipop">
-    <span>novidade!</span>
-
-    Transmissão ao vivo da <a href="/feira-reforma-agraria/">Feira Nacional</a> por nossa Rádio Web <strong>Brasil em Movimento</strong>
-    <iframe src="//radio.inaclive.tv.br" width="240px" height="23px" style="border:none; overflow: hidden;" frameBorder="0" scrolling="no">
-
-    </iframe>
-  </section>
-{% endif %}
+ {% if site.lollipop.enabled %}
+    <section class="lollipop">
+      <span>novidade!</span>
+      Você já viu a nova página da
+      <a href="{{ site.baseurl }}/{{ site.lollipop.link }}" class="lollipop" title="Link para a nova página">
+        {{ site.lollipop.title  }}
+      </a>
+     ?
+   </section>
+ {% endif %}
