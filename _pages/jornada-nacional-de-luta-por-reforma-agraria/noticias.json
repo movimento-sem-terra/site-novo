@@ -1,0 +1,6 @@
+---
+layout: null
+---
+
+{% assign posts = site.posts  | where: "special-page", "land-reform" %}
+{% include posts.json posts=posts %}
