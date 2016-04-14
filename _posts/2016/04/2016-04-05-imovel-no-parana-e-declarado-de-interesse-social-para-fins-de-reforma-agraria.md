@@ -31,6 +31,7 @@ releated_posts:
   - _posts/2015/05/2015-05-11-servidores-ocupam-incra-e-questionam-atrasos-e-debilidades-na-politica-do-orgao.md
   - _posts/2016/03/2016-03-31-sem-terra-voltam-a-ocupar-area-da-monsanto-em-santa-catarina.md
   - _posts/2016/04/2016-04-01-governo-dilma-destina-35-5-mil-hectares-de-terras-para-a-reforma-agraria.md
+special-page: land-reform
 
 ---
 <p>&nbsp;</p>
