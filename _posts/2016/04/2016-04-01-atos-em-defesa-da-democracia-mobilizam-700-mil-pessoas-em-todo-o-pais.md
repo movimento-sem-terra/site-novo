@@ -51,7 +51,7 @@ releated_posts:
   - _posts/2016/03/2016-03-21-direita-nao-luta-por-direitos-e-sim-por-medo-de-perder-seus-privilegios-afirma-historiadora.md
   - _posts/2016/03/2016-03-23-em-manifesto-povos-do-campo-e-cidade-se-posicionam-contra-o-golpe-a-midia-e-o-capitalismo-internacional.md
   - _posts/2016/03/2016-03-14-o-capital-nao-e-forte-o-suficiente-para-nos-amordacar-afirma-dirigente.md
-section: featured-news
+section: null
 
 ---
 <div style="text-align:center">
