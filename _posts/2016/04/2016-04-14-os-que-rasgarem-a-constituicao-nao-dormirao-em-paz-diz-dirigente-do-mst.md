@@ -122,6 +122,10 @@ Se rasgarem a Constitui&ccedil;&atilde;o, este ato aprofundar&aacute; a instabil
 <p><br />
 O povo n&atilde;o ficar&aacute; omisso e a luta em defesa da democracia, dos direitos do povo e do Brasil tomar&aacute; conta das ruas, das escolas e das f&aacute;bricas. No campo e na cidade o povo se levantar&aacute; em defesa da democracia e da justi&ccedil;a social.</p>
 
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
 <p style="text-align: right;"><br />
 Cabe registrar que at&eacute; aqui s&oacute; o lado da democracia continua enterrando seus mortos.<br />
 Queremos Paz! Sem Democracia Teremos Luta!</p>
