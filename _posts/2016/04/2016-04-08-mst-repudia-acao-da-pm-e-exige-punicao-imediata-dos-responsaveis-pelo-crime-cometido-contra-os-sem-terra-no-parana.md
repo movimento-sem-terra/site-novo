@@ -29,6 +29,7 @@ releated_posts:
   - _posts/2016/02/2016-02-12-o-campo-em-rondonia-um-barril-de-polvora.md
   - _posts/2015/12/2015-12-22-justica-decide-que-mais-uma-area-da-araupel-pertence-a-uniao.md
   - _posts/2015/01/2015-01-07-se-latifundio-nao-existe-por-que-tantas-mortes-no-campo.md
+special-page: land-reform
 
 ---
 <p><br />
