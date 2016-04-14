@@ -28,6 +28,7 @@ releated_posts:
   - _posts/2015/10/2015-10-19-sem-terra-sao-ameacados-em-minas-gerais.md
   - _posts/2015/11/2015-11-12-familias-sem-terra-sao-ameacadas-por-ruralistas-no-rs.md
 section: null
+special-page: land-reform
 
 ---
 <p>&nbsp;</p>
