@@ -9,7 +9,7 @@ title: "Após 20 anos do massacre, Pará lidera número de mortes no campo"
 support_line: "Estado registra a maior parte dos assassinatos em áreas rurais no país, seguido por Rondônia e Mato Grosso."
 menu: direitos humanos
 special-page: land-reform
-images_hd: //farm2.staticflickr.com/1575/26154793830_c7b7699e26_b.jpg
+images_hd: //farm2.staticflickr.com/1643/26336879472_fb5787d03c_b.jpg
 layout: post
 files:
   - link: //farm2.staticflickr.com/1500/26401688906_a904e010e1_b.jpg
@@ -42,12 +42,12 @@ files:
     small: //farm2.staticflickr.com/1675/25824838053_76a5005d40_n.jpg
     title: 25816613143_bff558b26d_b.jpg
     $$hashKey: 12E
-  - link: //farm2.staticflickr.com/1575/26154793830_c7b7699e26_b.jpg
-    thumbnail: //farm2.staticflickr.com/1575/26154793830_c7b7699e26_t.jpg
-    medium: //farm2.staticflickr.com/1575/26154793830_c7b7699e26_z.jpg
-    small: //farm2.staticflickr.com/1575/26154793830_c7b7699e26_n.jpg
-    title: 26317253512_af0d1f2f89_z.jpg
-    $$hashKey: 15Y
+  - link: //farm2.staticflickr.com/1643/26336879472_fb5787d03c_b.jpg
+    thumbnail: //farm2.staticflickr.com/1643/26336879472_fb5787d03c_t.jpg
+    medium: //farm2.staticflickr.com/1643/26336879472_fb5787d03c_z.jpg
+    small: //farm2.staticflickr.com/1643/26336879472_fb5787d03c_n.jpg
+    title: especialcarajas.jpg
+    $$hashKey: 1VO
 created_date: "2016-04-14T13:00:18-03:00"
 published: true
 releated_posts:
