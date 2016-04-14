@@ -9,7 +9,7 @@ title: Impunidade em mortes é motor da violência no campo
 support_line: Massacre de Eldorado dos Carajás e assassinatos recentes no Paraná evidenciam falta de justiça.
 menu: direitos humanos
 special-page: land-reform
-images_hd: //farm2.staticflickr.com/1510/26427477325_a5a6a76ee1_b.jpg
+images_hd: //farm2.staticflickr.com/1533/26336928212_2e121f22a2_b.jpg
 layout: post
 files:
   - link: //farm2.staticflickr.com/1614/26335032462_1648b3faa9_b.jpg
@@ -36,12 +36,12 @@ files:
     small: //farm2.staticflickr.com/1556/26361194591_c748be05f7_n.jpg
     title: 26411269015_1ffeb91e6a_b.jpg
     $$hashKey: 0UV
-  - link: //farm2.staticflickr.com/1510/26427477325_a5a6a76ee1_b.jpg
-    thumbnail: //farm2.staticflickr.com/1510/26427477325_a5a6a76ee1_t.jpg
-    medium: //farm2.staticflickr.com/1510/26427477325_a5a6a76ee1_z.jpg
-    small: //farm2.staticflickr.com/1510/26427477325_a5a6a76ee1_n.jpg
-    title: 26317253512_af0d1f2f89_z.jpg
-    $$hashKey: 0YH
+  - link: //farm2.staticflickr.com/1533/26336928212_2e121f22a2_b.jpg
+    thumbnail: //farm2.staticflickr.com/1533/26336928212_2e121f22a2_t.jpg
+    medium: //farm2.staticflickr.com/1533/26336928212_2e121f22a2_z.jpg
+    small: //farm2.staticflickr.com/1533/26336928212_2e121f22a2_n.jpg
+    title: especialcarajas.jpg
+    $$hashKey: 0B3
 created_date: "2016-04-14T12:45:51-03:00"
 published: true
 releated_posts:
