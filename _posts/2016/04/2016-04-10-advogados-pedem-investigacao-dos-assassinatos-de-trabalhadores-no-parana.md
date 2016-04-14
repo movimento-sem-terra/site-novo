@@ -25,6 +25,7 @@ releated_posts:
   - _posts/2014/08/2014-08-08-sem-terra-se-reunem-com-representantes-do-governo-para-discutir-ocupacao-da-araupel.md
   - _posts/2014/08/2014-08-11-denuncia-as-mentiras-da-araupel.md
   - _posts/2014/12/2014-11-03-luta-pela-terra-no-pr-faz-incra-lancar-edital-para-compra-de-areas-ocupadas.md
+special-page: land-reform
 
 ---
 <p><br />
