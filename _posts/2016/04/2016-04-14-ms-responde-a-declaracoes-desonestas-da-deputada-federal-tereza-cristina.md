@@ -4,7 +4,7 @@ tags:
   - tag: reforma-agrária
   - tag: olga-benário
   - tag: contra-o-golpe
-title: MS responde a declarações desonestas da deputada federal Tereza Cristina
+title: MST/MS responde a declarações desonestas da deputada federal Tereza Cristina
 support_line: "Esquecendo que a questão da Reforma Agrária no Estado arrasta-se por anos, a deputada tenta justificar seu voto pró golpe como retaliação a criação do acampamento Olga Benário."
 menu: lutas e mobilizações
 images_hd: //farm2.staticflickr.com/1620/26432196365_b718af8483_b.jpg
@@ -42,8 +42,11 @@ No mesmo local onde est&aacute; o acampamento Olga Ben&aacute;rio, j&aacute; hav
 O recente epis&oacute;dio de Quedas do Igua&ccedil;u (PR), no qual dois companheiros foram mortos e mais sete ficaram feridos em uma emboscada armada pela pol&iacute;cia e seguran&ccedil;as contratados da madeireira Araupel, n&atilde;o &eacute; fato isolado. Pelo contr&aacute;rio, o ataque &eacute; resultado de uma disputa de classe que se repete, como aconteceu na ocupa&ccedil;&atilde;o da propriedade Saco do C&eacute;u, em Nova Andradina, onde fomos atacados diversas vezes pela mil&iacute;cia que se encontrava no local.</p>
 
 <p><br />
-Diante desses fatos recorrentes, repudiamos a declara&ccedil;&atilde;o da deputada que disse: &ldquo;sinto-me muito firme. N&atilde;o mudo minha opini&atilde;o por nada. Mas isso que est&aacute; ocorrendo &eacute; um desrespeito &agrave; Constitui&ccedil;&atilde;o. &Eacute; uma amea&ccedil;a&quot;.&nbsp;<br />
-Senhora deputada, s&atilde;o nossas fam&iacute;lias, crian&ccedil;as, idosos, homens e mulheres de bem que s&atilde;o constantemente amea&ccedil;ados por estarem lutando por uma vida mais digna, por um peda&ccedil;o de ch&atilde;o para garantir a soberania alimentar de todos. N&atilde;o somos n&oacute;s os agressores da Constitui&ccedil;&atilde;o Federal.&nbsp;</p>
+Diante desses fatos recorrentes, repudiamos a declara&ccedil;&atilde;o da deputada que disse: &ldquo;sinto-me muito firme. N&atilde;o mudo minha opini&atilde;o por nada. Mas isso que est&aacute; ocorrendo &eacute; um desrespeito &agrave; Constitui&ccedil;&atilde;o. &Eacute; uma amea&ccedil;a&quot;.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Senhora deputada, s&atilde;o nossas fam&iacute;lias, crian&ccedil;as, idosos, homens e mulheres de bem que s&atilde;o constantemente amea&ccedil;ados por estarem lutando por uma vida mais digna, por um peda&ccedil;o de ch&atilde;o para garantir a soberania alimentar de todos. N&atilde;o somos n&oacute;s os agressores da Constitui&ccedil;&atilde;o Federal.&nbsp;</p>
 
 <p><br />
 Quem n&atilde;o cumpre a constitui&ccedil;&atilde;o &eacute; a nobre parlamentar. Tereza Cristina &eacute; sub-relatora da CPI da Funai/Incra na c&acirc;mara federal e tamb&eacute;m comp&otilde;e a bancada ruralista. Em recentes declara&ccedil;&otilde;es, ressaltou que &ldquo;h&aacute; dezenas de fazendas improdutivas na regi&atilde;o que poderiam ser desapropriadas pelo Incra para assentamento&rdquo;.&nbsp;</p>
