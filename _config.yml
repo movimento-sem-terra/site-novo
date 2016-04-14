@@ -13,9 +13,9 @@ collections:
   banners:
 timezone: BR
 lollipop:
-  title: Feira Nacional da Reforma Agrária
-  link: feira-reforma-agraria
-  enabled: false
+  title: Jornada de lutas de 2016
+  link: jornada-nacional-de-luta-por-reforma-agraria
+  enabled: true
 gems:
   - jekyll-sitemap
 exclude:
