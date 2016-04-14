@@ -6,7 +6,7 @@ tags:
   - tag: pará
 title: "Sobreviventes relembram dia do massacre no Pará\n"
 support_line: "A ação da Polícia Militar (PM) para liberar a estrada, em Eldorado dos Carajás, ocupada por integrantes do Movimento dos Trabalhadores Rurais Sem Terra (MST) deixou 21 mortos e 69 feridos."
-images_hd: //farm2.staticflickr.com/1508/26402049076_5ddd94b5d9_b.jpg
+images_hd: //farm2.staticflickr.com/1535/26336863572_bee63e4ee1_b.jpg
 menu: direitos humanos
 special-page: land-reform
 layout: post
@@ -41,12 +41,12 @@ files:
     small: //farm2.staticflickr.com/1616/26335601072_4670361102_n.jpg
     title: 26363012286_f17881d6e9_b.jpg
     $$hashKey: 1F5
-  - link: //farm2.staticflickr.com/1508/26402049076_5ddd94b5d9_b.jpg
-    thumbnail: //farm2.staticflickr.com/1508/26402049076_5ddd94b5d9_t.jpg
-    medium: //farm2.staticflickr.com/1508/26402049076_5ddd94b5d9_z.jpg
-    small: //farm2.staticflickr.com/1508/26402049076_5ddd94b5d9_n.jpg
-    title: 26123479470_c3005474e8_z.jpg
-    $$hashKey: 1F8
+  - link: //farm2.staticflickr.com/1535/26336863572_bee63e4ee1_b.jpg
+    thumbnail: //farm2.staticflickr.com/1535/26336863572_bee63e4ee1_t.jpg
+    medium: //farm2.staticflickr.com/1535/26336863572_bee63e4ee1_z.jpg
+    small: //farm2.staticflickr.com/1535/26336863572_bee63e4ee1_n.jpg
+    title: especialcarajas.jpg
+    $$hashKey: 1PX
 created_date: "2016-04-14T13:26:32-03:00"
 published: true
 releated_posts:
