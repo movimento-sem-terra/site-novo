@@ -4,7 +4,7 @@ tags:
   - tag: lutas-e-mobilizações
   - tag: mato-grosso-do-sul
   - tag: democracia
-title: MST bloqueia principais rodovias de Mato Grosso do Sul nesta sexta-feira como parte de uma ação nacional
+title: MST bloqueia principais rodovias de Mato Grosso do Sul nesta sexta-feira
 support_line: "A ação acontece em solidariedade aos Sem Terra do Paraná, contra a decisão do TCU (Tribunal de Contas da União) de paralisar a reforma agrária, contra o golpe, em defesa da democracia e para lembrar o Massacre de Eldorado dos Carajás."
 menu: lutas e mobilizações
 special-page: land-reform
