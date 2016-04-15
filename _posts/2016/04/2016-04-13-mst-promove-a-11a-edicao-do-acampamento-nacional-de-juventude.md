@@ -29,15 +29,15 @@ releated_posts:
   - _posts/2016/01/2016-01-13-mst-realiza-curso-de-formacao-para-juventude-no-ceara.md
   - _posts/2016/01/2016-01-29-jovens-sem-terra-debates-os-desafios-da-formacao-na-serra-gaucha.md
   - _posts/2015/04/2015-04-17-eldorado-de-carajas-para-nao-passar-em-branco.md
+special-page: land-reform
 
 ---
 <figure class="image"><img alt="IMG_2365.JPG" height="467" src="//farm2.staticflickr.com/1537/26382901706_6e3d95419f_b.jpg" width="700" />
 <figcaption>Fotos: Daniele Bastos</figcaption>
 </figure>
 
-<p>&nbsp;</p>
-
-<p><em>Por Viviane Brigida<br />
+<p><br />
+<em>Por Viviane Brigida<br />
 Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
@@ -62,7 +62,3 @@ Para o MST Par&aacute;, a curva do &ldquo;S&rdquo; representa um legado para a J
 
 <p><br />
 S&atilde;o vinte anos do Massacre de Eldorado dos Caraj&aacute;s! Entre redes, roupas, barracas, cadernos, canetas, bolsas, pratos e colheres, est&atilde;o tamb&eacute;m a coragem, a rebeldia e anima&ccedil;&atilde;o da juventude Sem Terra.</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
