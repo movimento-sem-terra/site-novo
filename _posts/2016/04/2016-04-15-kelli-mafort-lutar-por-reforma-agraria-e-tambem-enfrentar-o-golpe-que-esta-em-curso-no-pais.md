@@ -8,7 +8,7 @@ title: "Kelli Mafort: Lutar por Reforma Agrária é também enfrentar o golpe qu
 support_line: "\"Saímos às ruas para reafirmar nosso compromisso com a legalidade e com as lutas sociais, em especial, a luta pela Reforma Agrária\". "
 menu: lutas e mobilizações
 special-page: land-reform
-section: null
+section: featured-news
 images_hd: //farm2.staticflickr.com/1489/26354694412_00eaeecc8c_b.jpg
 layout: post
 files:
