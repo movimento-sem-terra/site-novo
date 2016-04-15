@@ -4,7 +4,7 @@ tags:
   - tag: jornada-nacional-de-lutas
   - tag: reforma-agrária
   - tag: lutas-e-mobilizações
-title: "Jornada Nacional de Lutas mobiliza 50 mil Sem Terra em 16 estados do país "
+title: "Jornada Nacional de Lutas mobiliza 62 mil Sem Terra em 18 estados do país "
 menu: lutas e mobilizações
 special-page: land-reform
 support_line: "Além da Reforma Agrária, agenda de ações pauta a luta pela democracia, contra o golpe e o fim da violência no campo. "
@@ -342,5 +342,24 @@ Em Salvador os comerci&aacute;rios tamb&eacute;m paralisaram e fizeram um arrast
 <figcaption>Santa Catarina&nbsp;</figcaption>
 </figure>
 </div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div><strong>CE&nbsp;</strong></div>
+
+<div><br />
+<strong>15 mil Sem Terra trancaram nessa sexta-feira oito pontos de Brs.&nbsp;</strong></div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div><strong>RN</strong></div>
+
+<div>&nbsp;</div>
+
+<div><span style="font-family: arial, helvetica, freesans, sans-serif; font-size: 15.12px; letter-spacing: -0.3024px; line-height: 21.924px;">Cerca de 800 trabalhadores Sem Terra trancaram quatro trechos em tr&ecirc;s rodovias federais que cortam o Rio Grande do Norte (um na BR-101/Norte, dois na BR-304 e um na BR- 406). Os trabalhadores exigem a retomada do processo de Reforma Agr&aacute;ria no pa&iacute;s.&nbsp;</span></div>
 
 <div>&nbsp;</div>
