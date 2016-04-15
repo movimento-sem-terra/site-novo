@@ -28,17 +28,15 @@ releated_posts:
   - _posts/2016/04/2016-04-05-imovel-no-parana-e-declarado-de-interesse-social-para-fins-de-reforma-agraria.md
   - _posts/2015/12/2015-12-22-justica-decide-que-mais-uma-area-da-araupel-pertence-a-uniao.md
   - _posts/2016/03/2016-03-07-no-parana-mulheres-do-mst-ocupam-mais-um-pedaco-da-area-grilada-pela-araupel.md
+special-page: land-reform
 
 ---
-<p>&nbsp;</p>
-
-<p><em>Por Camila&nbsp;&nbsp;Hoshino<br />
+<p><br />
+<em>Por Camila&nbsp;&nbsp;Hoshino<br />
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
-&nbsp;</p>
-
-<p>A oficializa&ccedil;&atilde;o da imiss&atilde;o do Incra na posse de tr&ecirc;s fazendas localizadas em &aacute;rea de conflito agr&aacute;rio, em Quedas do Igua&ccedil;u, centro-sul do Paran&aacute;, deve acontecer nos pr&oacute;ximos dias, segundo o pr&oacute;prio &oacute;rg&atilde;o, respons&aacute;vel pela Reforma Agr&aacute;ria.</p>
+A oficializa&ccedil;&atilde;o da imiss&atilde;o do Incra na posse de tr&ecirc;s fazendas localizadas em &aacute;rea de conflito agr&aacute;rio, em Quedas do Igua&ccedil;u, centro-sul do Paran&aacute;, deve acontecer nos pr&oacute;ximos dias, segundo o pr&oacute;prio &oacute;rg&atilde;o, respons&aacute;vel pela Reforma Agr&aacute;ria.</p>
 
 <p><br />
 A regi&atilde;o &eacute; foco de disputa entre a empresa madeireira Araupel e o MST&nbsp;h&aacute; pelo menos duas d&eacute;cadas.&nbsp;</p>
@@ -80,5 +78,4 @@ No caso da &uacute;ltima fazenda, em nome de Carolina da Rosa Pezzi (A&ccedil;&a
 Embora os assentamentos indicados n&atilde;o resolvam o conflito agr&aacute;rio na regi&atilde;o, eles s&atilde;o mais um passo pela Reforma Agr&aacute;ria, de acordo com Camilo.&ldquo;Isso gera um clima de alegria ap&oacute;s a ressaca do per&iacute;odo dif&iacute;cil do assassinato de dois trabalhadores sem-terra na regi&atilde;o&rdquo;, afirma o advogado do MST.</p>
 
 <p><br />
-Apesar da not&iacute;cia, o Movimento cobra a investiga&ccedil;&atilde;o do caso dos assassinatos em Quedas do Igua&ccedil;u por parte da Pol&iacute;cia Federal e a devida responsabiliza&ccedil;&atilde;o dos respons&aacute;veis pelo crime.<br />
-&nbsp;</p>
+Apesar da not&iacute;cia, o Movimento cobra a investiga&ccedil;&atilde;o do caso dos assassinatos em Quedas do Igua&ccedil;u por parte da Pol&iacute;cia Federal e a devida responsabiliza&ccedil;&atilde;o dos respons&aacute;veis pelo crime.</p>
