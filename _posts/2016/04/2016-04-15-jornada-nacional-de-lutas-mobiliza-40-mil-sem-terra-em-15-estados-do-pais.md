@@ -101,6 +101,18 @@ files:
     small: //farm2.staticflickr.com/1565/26354011862_3150343a5c_n.jpg
     title: AjnfbNFVAr0E-kaObkQ7SpYLw9kTPd4ZqpfYe0jTZXFz.jpg
     $$hashKey: "130"
+  - link: //farm2.staticflickr.com/1533/26448858835_1e1cdef0a6_b.jpg
+    thumbnail: //farm2.staticflickr.com/1533/26448858835_1e1cdef0a6_t.jpg
+    medium: //farm2.staticflickr.com/1533/26448858835_1e1cdef0a6_z.jpg
+    small: //farm2.staticflickr.com/1533/26448858835_1e1cdef0a6_n.jpg
+    title: 4305b1e0-084e-4c72-9b6d-6d95199bddbc (1).jpg
+    $$hashKey: 06I
+  - link: //farm2.staticflickr.com/1482/26448902545_53e7e4a488_b.jpg
+    thumbnail: //farm2.staticflickr.com/1482/26448902545_53e7e4a488_t.jpg
+    medium: //farm2.staticflickr.com/1482/26448902545_53e7e4a488_z.jpg
+    small: //farm2.staticflickr.com/1482/26448902545_53e7e4a488_n.jpg
+    title: As8MJCIfdnU1aLDv_Yekbbc6Ng_CTtxy7-SngwvdY3Yb.jpg
+    $$hashKey: 06L
 created_date: "2016-04-15T13:51:12-03:00"
 published: true
 releated_posts:
@@ -132,7 +144,17 @@ O Movimento tamb&eacute;m relembra em sua a&ccedil;&otilde;es o Massacre de Eldo
 
 <p>&nbsp;</p>
 
-<p>At&eacute; o momento foram realizadas 15 a&ccedil;&otilde;es em diferentes cidades dos pa&iacute;s que contaram com a participa&ccedil;&atilde;o de 50 mil Sem Terra.&nbsp;</p>
+<p>At&eacute; o momento foram realizadas 15 a&ccedil;&otilde;es em diferentes cidades dos pa&iacute;s que contaram com a participa&ccedil;&atilde;o de 50 mil Sem Terra.&nbsp;<br />
+<br />
+Para Kelli Mafort, da coordena&ccedil;&atilde;o nacional do MST, &nbsp;l<span style="line-height: 20.8px;">utar por Reforma Agr&aacute;ria &eacute; tamb&eacute;m enfrentar o golpe que est&aacute; em curso no pa&iacute;s. Golpe n&atilde;o somente contra o mandato constitucional da presidente&nbsp;Dilma, mas contra a maioria do povo brasileiro</span><br />
+<br />
+&quot;O Golpe pode aprofundar a retirada de direitos conquistados historicamente e dar vaz&atilde;o ao processo conservador e fascista contra os pobres, os negros, os ind&iacute;genas, os Sem Terra, lgbts, a juventude e as mulheres. Por isso, estamos na linha de frente contra esse processo e, ao mesmo tempo, na luta pela terra, por Reforma Agr&aacute;ria, e pela realiza&ccedil;&atilde;o de reformas estruturais que &nbsp;interessam ao povo&quot;, afirmou.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Veja a entrevista <a href="http://www.mst.org.br/2016/04/15/kelli-mafort-lutar-por-reforma-agraria-e-tambem-enfrentar-o-golpe-que-esta-em-curso-no-pais.html">aqui</a></strong></p>
+
+<p>&nbsp;</p>
 
 <p><br />
 Confira as a&ccedil;&otilde;es dessa sexta-feira (15)</p>
@@ -185,7 +207,7 @@ No Paran&aacute;, 8100&nbsp;assentados&nbsp;e acampados&nbsp;da Reforma Agr&aacu
 
 <div>&nbsp;</div>
 
-<div>Na capital paulista,&nbsp;&nbsp;cerca de 150 Sem Terra, organizados pelo MST, bloquearam a Rodovia Anhanhaguera, no Km 313, em Ribeir&atilde;o Preto. Tamb&eacute;m aconteceram paralisa&ccedil;&otilde;es na Rodovia&nbsp;Marechal Rondon, em Andradina; Francisco Alves Negr&atilde;o e Salvador Rufino Oliveira Negro, em Itaber&aacute;.&nbsp;</div>
+<div>Na capital paulista,&nbsp;&nbsp;cerca de 150 Sem Terra, organizados pelo MST, bloquearam a Rodovia Anhanhaguera, no Km 313, em Ribeir&atilde;o Preto. Tamb&eacute;m aconteceram paralisa&ccedil;&otilde;es na Rodovia&nbsp;Marechal Rondon, em Andradina; e o trevo entre a Francisco Alves Negr&atilde;o e Salvador Rufino Oliveira Netto, em Itaber&aacute;. Tamb&eacute;m aconteceram mobiliza&ccedil;&otilde;es durante todo o dia na capital puxadas pela Frente Brasil Popular.&nbsp;</div>
 
 <div>&nbsp;
 <figure class="image"><img alt="AoAEmQgiOLsatykZP-yEOvlAGK9RpIhn7nsDz3Z2fQFE (1).jpg" height="525" src="//farm2.staticflickr.com/1555/26172722550_c48d03a5ff_b.jpg" width="700" />
@@ -244,6 +266,13 @@ Cerca de 1200 Sem Terra bloquearam as BR 050, BR116 na regi&atilde;o do Rio Doce
 
 <p>No Piau&iacute;, cerca de 700 Sem Terra trancaram as&nbsp;BRs 316 e&nbsp;343. Os trabalhadores pautaram a defesa da democracia e a paralisa&ccedil;&atilde;o da Reforma Agr&aacute;ria.&nbsp;</p>
 
+<p><br />
+&nbsp;</p>
+
+<figure class="image"><img alt="4305b1e0-084e-4c72-9b6d-6d95199bddbc (1).jpg" height="465" src="//farm2.staticflickr.com/1533/26448858835_1e1cdef0a6_b.jpg" width="700" />
+<figcaption>Piau&iacute;</figcaption>
+</figure>
+
 <p>&nbsp;</p>
 
 <p><strong>PA</strong></p>
@@ -292,6 +321,12 @@ Em Jaciara, onde h&aacute; o encontro das BRs 163 e 364, 600 pessoas fazem o tra
 <p><br />
 No Sergipe foram cinco pontos trancados,&nbsp;tr&ecirc;s na BR 10, entrada da cidade de Cristin&aacute;polis; trevo de Pedra Branca, no munic&iacute;pio de Laranjeiras; e no Povoado Cruz da Donzela, localizado no munic&iacute;pio de Malha dos Bois. Os outros dois pontos foram em rodovias estaduais, no munic&iacute;pio de Sim&atilde;o Dias e no trevo de Vaca Serrada, no alto Sert&atilde;o sergipano.</p>
 
+<figure class="image"><img alt="As8MJCIfdnU1aLDv_Yekbbc6Ng_CTtxy7-SngwvdY3Yb.jpg" height="394" src="//farm2.staticflickr.com/1482/26448902545_53e7e4a488_b.jpg" width="700" />
+<figcaption>Sergipe</figcaption>
+</figure>
+
+<p>&nbsp;</p>
+
 <p><br />
 <strong>BA</strong></p>
 
@@ -320,9 +355,9 @@ Em Salvador os comerci&aacute;rios tamb&eacute;m paralisaram e fizeram um arrast
 
 <p>Cerca de 500 Sem Terra se preparam para seguir em marcha pelo estado na tarde dessa sexta-feira. Os trabalhadores tamb&eacute;m trancaram seis Brs em todo&nbsp;estado. Foram elas: Br 361, 230, 101, 073, 104 e 412.</p>
 
-<p><strong>PE</strong></p>
-
 <p>&nbsp;</p>
+
+<p><strong>PE</strong></p>
 
 <p>Cerca de quatro mil&nbsp;Sem Terra trancaram a&nbsp;BR 101 que corta o estado pelo o litoral sul e norte e zona da mata,&nbsp;a BR 232 que liga a capital sentido interior,&nbsp;a BR 316 no sert&atilde;o e&nbsp;a PE 041 que liga a capital sentido interior por Caruaru Os trabalhadores exigiram&nbsp;o fim da viol&ecirc;ncia e a retomada do plano de Reforma Agr&aacute;ria.&nbsp;&nbsp;</p>
 
@@ -338,6 +373,8 @@ Em Salvador os comerci&aacute;rios tamb&eacute;m paralisaram e fizeram um arrast
 
 <p>Cerca de 400 Sem Terra bloquearam a SC&nbsp;467 pr&oacute;ximo ao munic&iacute;pio de&nbsp;Abelardo Luz. Tamb&eacute;m em Santa Catarina, 300 trabalhadores bloquearam&nbsp;o ped&aacute;gio na BR116 no munic&iacute;pio de Correia Pinto.</p>
 
+<p>&nbsp;</p>
+
 <figure class="image"><img alt="AjnfbNFVAr0E-kaObkQ7SpYLw9kTPd4ZqpfYe0jTZXFz.jpg" height="525" src="//farm2.staticflickr.com/1565/26354011862_3150343a5c_b.jpg" width="700" />
 <figcaption>Santa Catarina&nbsp;</figcaption>
 </figure>
@@ -347,19 +384,21 @@ Em Salvador os comerci&aacute;rios tamb&eacute;m paralisaram e fizeram um arrast
 
 <div>&nbsp;</div>
 
-<div><strong>CE&nbsp;</strong></div>
+<div>
+<div style="line-height: 20.8px;"><strong>CE&nbsp;</strong></div>
 
-<div><br />
-<strong>15 mil Sem Terra trancaram nessa sexta-feira oito pontos de Brs.&nbsp;</strong></div>
+<div style="line-height: 20.8px;"><br />
+15 mil Sem Terra trancaram de mobilizaram em oito ponto da cidade por Reforma Agr&aacute;ria e contra o golpe.&nbsp;</div>
 
-<div>&nbsp;</div>
+<div style="line-height: 20.8px;">&nbsp;</div>
 
-<div>&nbsp;</div>
+<div style="line-height: 20.8px;">&nbsp;</div>
 
-<div><strong>RN</strong></div>
+<div style="line-height: 20.8px;"><strong>RN</strong></div>
 
-<div>&nbsp;</div>
+<div style="line-height: 20.8px;">&nbsp;</div>
 
-<div><span style="font-family: arial, helvetica, freesans, sans-serif; font-size: 15.12px; letter-spacing: -0.3024px; line-height: 21.924px;">Cerca de 800 trabalhadores Sem Terra trancaram quatro trechos em tr&ecirc;s rodovias federais que cortam o Rio Grande do Norte (um na BR-101/Norte, dois na BR-304 e um na BR- 406). Os trabalhadores exigem a retomada do processo de Reforma Agr&aacute;ria no pa&iacute;s.&nbsp;</span></div>
+<div style="line-height: 20.8px;">Cerca de 800 trabalhadores Sem Terra trancaram quatro trechos em tr&ecirc;s rodovias federais que cortam o Rio Grande do Norte (um na BR-101/Norte, dois na BR-304 e um na BR- 406). Os trabalhadores exigem a retomada do processo de Reforma Agr&aacute;ria no pa&iacute;s.</div>
+</div>
 
 <div>&nbsp;</div>
