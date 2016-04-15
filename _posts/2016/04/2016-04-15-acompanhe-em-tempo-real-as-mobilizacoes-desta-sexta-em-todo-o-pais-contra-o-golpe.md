@@ -2,8 +2,8 @@
 date: "2016-04-15T10:58:21-03:00"
 tags:
   - tag: lutas-e-mobilizações
-title: Acompanhe em tempo real as mobilizações desta sexta em todo o país contra o golpe
-support_line: "Os movimentos populares que compõem a Frente Brasil Popular realizam marchas, trancamento de rodovias e liberação de pedágios em todo o país."
+title: Acompanhe em tempo real as mobilizações contra o golpe em todo o país
+support_line: "Nesta sexta-feira (15), os movimentos populares que compõem a Frente Brasil Popular realizam marchas, trancamento de rodovias e liberação de pedágios em todo o país."
 menu: lutas e mobilizações
 section: cover
 images_hd: //farm2.staticflickr.com/1574/25840600543_3c677582ce_b.jpg
@@ -20,4 +20,4 @@ published: true
 releated_posts: []
 
 ---
-<iframe height="360" src="http://radar.brasildefato.com.br" width="640"></iframe>
+<p><iframe height="360" src="http://radar.brasildefato.com.br" width="640"></iframe></p>
