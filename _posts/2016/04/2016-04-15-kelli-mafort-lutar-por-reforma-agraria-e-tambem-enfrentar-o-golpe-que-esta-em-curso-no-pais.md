@@ -8,7 +8,7 @@ title: "Kelli Mafort: Lutar por Reforma Agrária é também enfrentar o golpe qu
 support_line: "\"Saímos às ruas para reafirmar nosso compromisso com a legalidade e com as lutas sociais, em especial, a luta pela Reforma Agrária\". "
 menu: lutas e mobilizações
 special-page: land-reform
-section: cover
+section: null
 images_hd: //farm2.staticflickr.com/1489/26354694412_00eaeecc8c_b.jpg
 layout: post
 files:
@@ -67,9 +67,11 @@ Em entrevista, Kelli Mafort,&nbsp;da coordena&ccedil;&atilde;o nacional do MST, 
 
 <p><strong>Confira:&nbsp;</strong></p>
 
-<p>&nbsp;
+<p>&nbsp;</p>
+
 <p style="text-align: justify;"><strong>Quais as bandeiras da Jornada esse ano?</strong></p>
-</p>
+
+<p>&nbsp;</p>
 
 <p style="text-align: justify;"><br />
 Estamos nas ruas e nas lutas para exigir a realiza&ccedil;&atilde;o da Reforma Agr&aacute;ria nesse pa&iacute;s. Os protestos de hoje trazem consigo a mem&oacute;ria dos 21 trabalhadores assassinados no Massacre de Eldorado dos Caraj&aacute;s no Par&aacute; e tamb&eacute;m expressam nossa total&nbsp; indigna&ccedil;&atilde;o e compromisso de luta com os recentes epis&oacute;dios de viol&ecirc;ncia: o inc&ecirc;ndio criminoso a um Acampamento do MST em Rond&ocirc;nia, o assassinato de um prefeito assentado da Reforma Agr&aacute;ria na Para&iacute;ba e a emboscada criminosa feita pela Pol&iacute;cia Militar junto com agentes da empresa Araupel no Paran&aacute;, que resultou no assassinato de dois companheiros e seis feridos (parte deles foi presa ainda no hospital).</p>
