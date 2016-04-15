@@ -58,7 +58,7 @@ Os Sem Terra tamb&eacute;m cobram a&ccedil;&otilde;es contra o aumento da viol&e
 Em entrevista, Kelli Mafort,&nbsp;da coordena&ccedil;&atilde;o nacional do MST, ressalta a import&acirc;ncia das mobiliza&ccedil;&otilde;es e de a&ccedil;&otilde;es que tem como objetivo a luta contra o golpe e&nbsp;pela democracia.&nbsp;</p>
 
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="kelli-mafort_interna.jpg" height="462" src="//farm2.staticflickr.com/1473/25843942353_94573aa66e_b.jpg" width="600" />
+<figure class="image" style="display:inline-block"><img alt="kelli-mafort_interna.jpg" height="385" src="//farm2.staticflickr.com/1473/25843942353_94573aa66e_b.jpg" width="500" />
 <figcaption>Kelli Mafort: &quot;Nos causou muita indigna&ccedil;&atilde;o que a vota&ccedil;&atilde;o final do golpe fosse prevista para o dia 17 de abril, Dia Internacional da Luta Camponesa (em mem&oacute;ria ao Massacre de Caraj&aacute;s em 1996). Para n&oacute;s o dia 17 de abril, &eacute; aquele de 1997, quando a Marcha por Reforma Agr&aacute;ria levou 100 mil trabalhadores e trabalhadoras de diversas categorias &agrave; Bras&iacute;lia&quot;.&nbsp;</figcaption>
 </figure>
 </div>
