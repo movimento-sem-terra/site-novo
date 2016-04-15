@@ -251,7 +251,7 @@ No Paran&aacute;, 8100&nbsp;assentados&nbsp;e acampados&nbsp;da Reforma Agr&aacu
 <strong>MG</strong></p>
 
 <p><br />
-Cerca de 1200 Sem Terra bloquearam as BR 050, BR116 na regi&atilde;o do Rio Doce, BR 116 em Governador Valarades e BR 153 em Montes Claros.&nbsp;</p>
+Cerca de 1200 Sem Terra bloquearam as BR 050, BR116 na regi&atilde;o do Rio Doce, BR 116 em Governador Valarades e BR 153 em Montes Claros. J&aacute; na Zona da Mata 100 trabalhadores trancaram a BR 353.</p>
 
 <p><br />
 &nbsp;</p>
