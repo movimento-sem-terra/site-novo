@@ -40,10 +40,10 @@ releated_posts:
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Nessa sexta-feira (15), 20 trechos de rodovias em todo o estado de Alagoas foram paralisados por&nbsp;movimentos sociais do campo&nbsp;que, com bandeiras e palavras de ordem, denunciaram&nbsp;a viol&ecirc;ncia e a impunidade no campo.</p>
+Nessa sexta-feira (15), o MST juntamente com diversos movimentos do campo, entre eles,&nbsp;Comiss&atilde;o Pastoral da Terra (CPT), Movimento de Liberta&ccedil;&atilde;o dos Sem Terra&nbsp;(MLST)&nbsp;, Movimento&nbsp;de Luta pela Terra (MLT), Movimento&nbsp;Terra, Trabalho e Liberdade (MTTL), MUPT, Via do Trabalho e Terra Livre, trancaram&nbsp;20 trechos de rodovias em todo o estado de Alagoas e,&nbsp;com bandeiras e palavras de ordem, denunciaram&nbsp;a viol&ecirc;ncia e a impunidade.</p>
 
 <p><br />
-Do Sert&atilde;o ao Litoral mais de cinco&nbsp;mil trabalhadores e trabalhadoras rurais est&atilde;o mobilizados nos bloqueios bloquearam as rodovias estaduais e federais, na BR 101 trechos nos munic&iacute;pios de Teot&ocirc;nio Vilela, Junqueiro, Atalaia, Flexeiras e Joaquim Gomes, est&atilde;o fechados, al&eacute;m dos bloqueios nas cidades de &nbsp;Delmiro Gouveia, Olho d&rsquo;&Aacute;gua do Casado, Piranhas, Girau do Ponciano, Cajueiro, Novo Lino, Uni&atilde;o dos Palmares, Murici, Campo Alegre, Maragogi, Matriz do Camaragibe, S&atilde;o Luiz do Quitunde e em Porto Calvo.</p>
+Do Sert&atilde;o ao Litoral mais de cinco&nbsp;mil trabalhadores e trabalhadoras rurais est&atilde;o mobilizados nos bloqueios das rodovias estaduais e federais, na BR 101 trechos nos munic&iacute;pios de Teot&ocirc;nio Vilela, Junqueiro, Atalaia, Flexeiras e Joaquim Gomes, est&atilde;o fechados, al&eacute;m dos bloqueios nas cidades de &nbsp;Delmiro Gouveia, Olho d&rsquo;&Aacute;gua do Casado, Piranhas, Girau do Ponciano, Cajueiro, Novo Lino, Uni&atilde;o dos Palmares, Murici, Campo Alegre, Maragogi, Matriz do Camaragibe, S&atilde;o Luiz do Quitunde e em Porto Calvo.</p>
 
 <p><br />
 Segundo Jos&eacute; Roberto Silva, da dire&ccedil;&atilde;o nacional do MST, a a&ccedil;&atilde;o relembra os 20 anos do massacre de Eldorado dos Caraj&aacute;s, &ldquo;nossa luta hoje &eacute; em mem&oacute;ria aos 20 anos de impunidade do assassinato dos trabalhadores rurais Sem Terra em Eldorado dos Caraj&aacute;s, no Par&aacute;. Essa impunidade reaviva cada vez mais a viol&ecirc;ncia no campo que est&aacute; presente em todas as nossas regi&otilde;es, onde o agroneg&oacute;cio continua matando e massacrando Sem Terra&rdquo;, disse.</p>
