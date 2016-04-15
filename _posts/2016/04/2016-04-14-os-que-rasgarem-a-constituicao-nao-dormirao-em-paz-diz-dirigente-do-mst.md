@@ -5,7 +5,7 @@ tags:
   - tag: contra-o-golpe
   - tag: democracia
   - tag: legalidade
-title: "Os que rasgarem a Constituição não dormirão em paz”, diz dirigente do MST"
+title: "\"Os que rasgarem a Constituição não dormirão em paz”, diz dirigente do MST"
 support_line: "Frente Brasil Popular e Frente Povo Sem Medo do Rio Grande do Sul soltam nota à imprensa alertando para resistência dos movimentos sociais em caso de golpe.\n"
 images_hd: //farm2.staticflickr.com/1627/25828366433_7d7d9c45ce_b.jpg
 menu: lutas e mobilizações
