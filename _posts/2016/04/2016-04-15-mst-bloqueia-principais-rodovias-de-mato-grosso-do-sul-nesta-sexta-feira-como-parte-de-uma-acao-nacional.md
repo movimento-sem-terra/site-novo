@@ -62,6 +62,6 @@ Tamb&eacute;m estamos nas rodovias para lembrar o Massacre de Eldorado dos Caraj
 Por fim, ressaltamos que temos lado na disputa pol&iacute;tica que vem sendo travada nacionalmente no Brasil. Somos contr&aacute;rios ao impeachment da presidenta da rep&uacute;blica, Dilma Rousseff, porque estamos do lado da democracia.</p>
 
 <p><br />
-O MST aguarda a descida do superintendente do Incra MS, Humberto de Mello, na BR 262, para debater quest&otilde;es ligadas a Reforma Agr&aacute;ria, a mesma est&aacute; paralisada por conta da decis&atilde;o do TCU, mas atualmente h&aacute; apenas uma &aacute;rea decretada para este fim no Estado e sem d&uacute;vida n&atilde;o ir&aacute; resolver o problema da quest&atilde;o de terra e dos milhares de acampados</p>
+&nbsp;</p>
 
 <p>&nbsp;</p>
