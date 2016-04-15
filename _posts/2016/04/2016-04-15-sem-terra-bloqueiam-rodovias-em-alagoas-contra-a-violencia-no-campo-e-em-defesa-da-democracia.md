@@ -32,7 +32,7 @@ releated_posts:
   - _posts/2016/03/2016-03-02-sem-terra-realizam-24o-encontro-estadual-em-alagoas.md
 
 ---
-<p><img alt="78e08ff1-4fed-41c8-a581-bc95f78264f6.jpg" height="525" src="//farm2.staticflickr.com/1508/25839583553_3be53a2eb8_b.jpg" width="700" /></p>
+<p><img alt="78e08ff1-4fed-41c8-a581-bc95f78264f6.jpg" height="488" src="//farm2.staticflickr.com/1508/25839583553_3be53a2eb8_b.jpg" width="650" /></p>
 
 <p>&nbsp;</p>
 
@@ -55,10 +55,10 @@ Al&eacute;m do massacre de Eldorado dos Caraj&aacute;s, Jos&eacute; Roberto lemb
 &ldquo;Estas a&ccedil;&otilde;es demonstram uma rea&ccedil;&atilde;o do agroneg&oacute;cio, nesse &uacute;ltimo per&iacute;odo tamb&eacute;m tivemos ataques de pistoleiros em Rond&ocirc;nia e na Para&iacute;ba. Nossa a&ccedil;&atilde;o &eacute; para mais uma vez refor&ccedil;ar nossa disposi&ccedil;&atilde;o de seguir em luta, na mem&oacute;ria dos companheiros tombados e na certeza de que &eacute; preciso garantir vida digna, com a distribui&ccedil;&atilde;o de terra e de riqueza, para o povo pobre desse pa&iacute;s&rdquo;, afirmou Jos&eacute; Roberto.</p>
 
 <p><br />
-Durante toda a manh&atilde; as rodovias devem seguir paralisadas pelos camponeses e camponesas, marcando o in&iacute;cio da Jornada Nacional de Luta por Reforma Agr&aacute;ria em Alagoas.</p>
+Durante toda a manh&atilde; as rodovias devem seguir paralisadas marcando o in&iacute;cio da Jornada Nacional de Luta por Reforma Agr&aacute;ria em Alagoas.</p>
 
 <p><br />
-Durante o bloqueio das rodovias, os Sem Terra tamb&eacute;m fazem a defesa da democracia e posicionam-se contra o golpe. Para D&eacute;bora Nunes, da Coordena&ccedil;&atilde;o Nacional do MST, a rela&ccedil;&atilde;o entre o grupo que conduz o golpe dentro do parlamento e os que conduzem golpes aos trabalhadores e trabalhadoras rurais &eacute; direto.</p>
+As a&ccedil;&otilde;es tamb&eacute;m s&atilde;o pela defesa da democracia e contra o golpe em curso no pa&iacute;s. Para D&eacute;bora Nunes, da Coordena&ccedil;&atilde;o Nacional do MST, a rela&ccedil;&atilde;o entre o grupo que conduz o golpe dentro do parlamento e os que conduzem golpes aos trabalhadores e trabalhadoras rurais &eacute; direto.</p>
 
 <p><br />
 &ldquo;Parte dos que conduzem o golpe dentro do parlamento, tiveram suas campanhas financiadas pelo agroneg&oacute;cio, o mesmo que continua matando trabalhadores e trabalhadoras rurais em todo o pa&iacute;s&rdquo;, destaca. &ldquo;Matam trabalhadores, destroem o meio ambiente, concentram terras e riqueza e agora querem pautar uma agenda pol&iacute;tica de ataques aos direitos sociais, trabalhistas e humanos conquistados historicamente pela luta da classe trabalhadora, atacando a Constitui&ccedil;&atilde;o e a democracia&rdquo;, finaliza.&nbsp;</p>
