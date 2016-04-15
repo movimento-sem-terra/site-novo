@@ -104,11 +104,12 @@ releated_posts:
   - _posts/2014/05/2014-05-20-juventude-se-organiza-na-luta-pela-terra-no-parana.md-e
   - _posts/2014/06/2014-06-11-mst-tranca-rodovia-no-rj-e-denuncia-lentidao-na-desapropriacao-de-fazenda.md
   - _posts/2014/07/2014-07-17-familias-sem-terra-seguem-na-luta-por-area-grilada-em-abelardo-luz.md
+section: cover
 
 ---
 <p>&nbsp;</p>
 
-<p>Da P&aacute;gina do MST&nbsp;</p>
+<p><em>Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p>&nbsp;</p>
 
@@ -212,7 +213,8 @@ No Paran&aacute;, 8100&nbsp;assentados&nbsp;e acampados&nbsp;da Reforma Agr&aacu
 <p>No MS as&nbsp;rodovias bloqueadas foram as BR 262, entre Terenos e Anast&aacute;cio, BR 163, entre Mundo Novo e&nbsp;Eldorado e a BR 267.&nbsp;</p>
 
 <p>Os Sem Terra protestaram contra os assassinatos no Paran&aacute;, contra a decis&atilde;o do TCU (Tribunal de Contas da Uni&atilde;o) de paralisar a Reforma Agr&aacute;ria, contra o golpe e&nbsp;em defesa da democracia.&nbsp;</p>
-<br />
+&nbsp;
+
 <figure class="image"><img alt="AkQmqewDhpzLQp4Hxj_9xItiuzK8trwzN7_0okKVvKtP.jpg" height="397" src="//farm2.staticflickr.com/1653/26445596235_e887c7f648_b.jpg" width="700" />
 <figcaption>Mato Grosso do Sul&nbsp;</figcaption>
 </figure>
@@ -243,7 +245,8 @@ Cerca de 1200 Sem Terra bloquearam as BR 050, BR116 na regi&atilde;o do Rio Doce
 <p>&nbsp;</p>
 
 <p>No Par&aacute; que est&aacute; mobilizado desde o in&iacute;cio da semana, 1200 jovens que participam do&nbsp;Acampamento Nacional da Juventude Sem Terra &quot;Oziel Alves Pereira&quot;, ocuparam a pista na curva do S, local do Massacre de Eldorados dos Caraj&aacute;s. Os jovens protestaram contra a impunidade no caso que completa 20 anos no pr&oacute;ximo dia 17.&nbsp;&nbsp;</p>
-<br />
+&nbsp;
+
 <figure class="image"><img alt="AmGwO09MB5n_IbY7yeFWbuYOOpHMB_vA-ZN58BxCZLuY.jpg" height="394" src="//farm2.staticflickr.com/1588/25840707084_837a3d0c0b_b.jpg" width="700" />
 <figcaption>Par&aacute;</figcaption>
 </figure>
