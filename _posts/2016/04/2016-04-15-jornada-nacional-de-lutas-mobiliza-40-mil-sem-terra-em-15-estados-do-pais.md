@@ -4,7 +4,7 @@ tags:
   - tag: jornada-nacional-de-lutas
   - tag: reforma-agrária
   - tag: lutas-e-mobilizações
-title: "Jornada Nacional de Lutas mobiliza 50 mil Sem Terra em 15 estados do país "
+title: "Jornada Nacional de Lutas mobiliza 50 mil Sem Terra em 16 estados do país "
 menu: lutas e mobilizações
 special-page: land-reform
 support_line: "Além da Reforma Agrária, agenda de ações pauta a luta pela democracia, contra o golpe e o fim da violência no campo. "
