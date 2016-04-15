@@ -24,22 +24,23 @@ releated_posts:
   - _posts/2015/06/2015-06-26-via-campesina-critica-apropriacao-da-agroecologia-pelo-capital.md
   - _posts/2016/04/2016-04-06-via-campesina-realiza-conferencia-internacional-sobre-reforma-agraria-no-brasil.md
   - _posts/2016/04/2016-04-10-sem-terra-realizam-atividades-pelos-20-anos-do-massacre-de-eldorado-dos-carajas.md
+special-page: land-reform
 
 ---
-<p>&nbsp;</p>
-
-<p><em style="box-sizing: inherit; color: rgb(85, 85, 85); font-family: 'Exo 2', Helvetica, Arial, sans-serif; font-size: 17.6px; line-height: 25.1428px;">Por Gisele Brito<br style="box-sizing: inherit;" />
-Da P&aacute;gina do MST&nbsp;</em></p>
+<p class="p1"><br />
+<span class="s1"><i>Por Gisele Brito<br />
+Da P&aacute;gina do MST&nbsp;</i></span></p>
 
 <p><br />
 &quot;Globalizamos a Luta! Globalizamos a esperan&ccedil;a!&quot; Com esse grito de luta, come&ccedil;ou oficialmente a Confer&ecirc;ncia Internacional da Reforma Agr&aacute;ria na manh&atilde; de hoje (13), em Marab&aacute;, no sudeste do Par&aacute;.</p>
 
 <p><br />
-O evento, organizado pela Via Campesina, tem como objetivos fortalecer a unidade e a solidariedade entre os povos, estudar as estrat&eacute;gias do capital e suas crises, trocar informa&ccedil;&otilde;es e experi&ecirc;ncias sobre pol&iacute;ticas p&uacute;blicas e debater as diversas propostas de reforma agr&aacute;ria apresentadas pelos movimentos populares que lutam pela terra. Representantes de organiza&ccedil;&otilde;es camponesas de dez regi&otilde;es de todos os continentes do mundo est&atilde;o presentes.<br />
-<br />
-<img alt="26323193492_2c1559dcef_z.jpg" src="//farm2.staticflickr.com/1525/25823041293_56ceda60e5_b.jpg" /><br />
-<br />
-&quot;O objetivo principal &eacute; atualizar o debate sobre reforma agr&aacute;ria e contribuir para a constru&ccedil;&atilde;o de um calend&aacute;rio de lutas comuns. Independentemente se &eacute; a &#39;reforma agr&aacute;ria popular&#39; ou a &#39;reforma camponesa&#39;. Se est&aacute; na &Aacute;sia, na &Aacute;frica ou na Europa. O importante &eacute; a gente ter elementos comuns de enfrentamento do inimigo, que &eacute; o mesmo: o capital&rdquo;, afirma Marina dos Santos, membro da dire&ccedil;&atilde;o nacional do MST e coordenadora Internacional da Via Campesina pela Am&eacute;rica Latina.</p>
+O evento, organizado pela Via Campesina, tem como objetivos fortalecer a unidade e a solidariedade entre os povos, estudar as estrat&eacute;gias do capital e suas crises, trocar informa&ccedil;&otilde;es e experi&ecirc;ncias sobre pol&iacute;ticas p&uacute;blicas e debater as diversas propostas de reforma agr&aacute;ria apresentadas pelos movimentos populares que lutam pela terra. Representantes de organiza&ccedil;&otilde;es camponesas de dez regi&otilde;es de todos os continentes do mundo est&atilde;o presentes.</p>
+
+<p><br />
+<img alt="26323193492_2c1559dcef_z.jpg" src="//farm2.staticflickr.com/1525/25823041293_56ceda60e5_b.jpg" /></p>
+
+<p>&quot;O objetivo principal &eacute; atualizar o debate sobre reforma agr&aacute;ria e contribuir para a constru&ccedil;&atilde;o de um calend&aacute;rio de lutas comuns. Independentemente se &eacute; a &#39;reforma agr&aacute;ria popular&#39; ou a &#39;reforma camponesa&#39;. Se est&aacute; na &Aacute;sia, na &Aacute;frica ou na Europa. O importante &eacute; a gente ter elementos comuns de enfrentamento do inimigo, que &eacute; o mesmo: o capital&rdquo;, afirma Marina dos Santos, membro da dire&ccedil;&atilde;o nacional do MST e coordenadora Internacional da Via Campesina pela Am&eacute;rica Latina.</p>
 
 <p><br />
 Para Faustino Torrez, da Asociaci&oacute;n de Trabajadores del Campo (ATC) e da Via Campesina pela Centro Am&eacute;rica, o significado da reforma agr&aacute;ria vem sendo apropriado e deturpado pelos Estados e e pelo capital. Por isso, o debate neste momento &eacute; fundamental para a articula&ccedil;&atilde;o.</p>
