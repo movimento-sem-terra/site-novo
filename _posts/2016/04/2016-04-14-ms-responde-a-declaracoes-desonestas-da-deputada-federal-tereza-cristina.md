@@ -4,7 +4,7 @@ tags:
   - tag: reforma-agrária
   - tag: olga-benário
   - tag: contra-o-golpe
-title: MST/MS responde a declarações desonestas da deputada federal Tereza Cristina
+title: MST responde a declarações desonestas da deputada federal Tereza Cristina
 support_line: "Esquecendo que a questão da Reforma Agrária no Estado arrasta-se por anos, a deputada tenta justificar seu voto pró golpe como retaliação a criação do acampamento Olga Benário."
 menu: lutas e mobilizações
 images_hd: //farm2.staticflickr.com/1620/26432196365_b718af8483_b.jpg
