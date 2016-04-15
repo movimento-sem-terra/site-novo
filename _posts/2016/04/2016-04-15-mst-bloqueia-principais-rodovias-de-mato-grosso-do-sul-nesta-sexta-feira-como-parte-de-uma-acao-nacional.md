@@ -4,7 +4,7 @@ tags:
   - tag: lutas-e-mobilizações
   - tag: mato-grosso-do-sul
   - tag: democracia
-title: MST bloqueia principais rodovias de Mato Grosso do Sul nesta sexta-feira
+title: MST bloqueia principais rodovias do Mato Grosso do Sul
 support_line: "A ação acontece em solidariedade aos Sem Terra do Paraná, contra a decisão do TCU (Tribunal de Contas da União) de paralisar a reforma agrária, contra o golpe, em defesa da democracia e para lembrar o Massacre de Eldorado dos Carajás."
 menu: lutas e mobilizações
 special-page: land-reform
@@ -38,22 +38,30 @@ releated_posts:
 <em>Da P&aacute;gina do MST</em><br />
 <br />
 <br />
-O Movimento dos Trabalhadores Rurais de Mato Grosso do Sul (MST), bloqueou na manh&atilde; desta sexta-feira (15) as principais rodovias do Estado, como parte de uma a&ccedil;&atilde;o nacional. Est&atilde;o participando da atividade cerca de mil fam&iacute;lias Sem Terra.<br />
-<br />
-As rodovias bloqueadas s&atilde;o a BR 262, entre Terenos e Anast&aacute;cio, a BR 163, entre Mundo Novo a Eldorado e a BR 267, pr&oacute;ximo a Casa Verde, estrada que liga MS a SP. Os acampamentos do MST que fazem parte da a&ccedil;&atilde;o s&atilde;o: na BR 262, o Dorcelina Folador, na BR 163, o Ant&ocirc;nio Irm&atilde;o e o Jos&eacute; Marcio Zoia e na BR 267, os acampamentos Florestan Fernandes, Teixeirinha, Zumbi dos Palmares, Graciano e 12 de Abril.<br />
-<br />
-A a&ccedil;&atilde;o acontece em solidariedade aos Sem Terra do Paran&aacute;, contra a decis&atilde;o do TCU (Tribunal de Contas da Uni&atilde;o) de paralisar a reforma agr&aacute;ria, contra o golpe, em defesa da democracia e para lembrar o Massacre de Eldorado dos Caraj&aacute;s.<br />
-<br />
-No &uacute;ltimo dia 7 de abril, foram alvos de uma a&ccedil;&atilde;o covarde do governo do Paran&aacute;, integrantes do Acampamento Dom Tomas Baldu&iacute;no do MST, que fica localizado no munic&iacute;pio de Quedas do Igua&ccedil;u. Na ocasi&atilde;o foram v&iacute;timas fatais de uma emboscada realizada pela Policia Militar e por seguran&ccedil;as contratados pela empresa Araupel, os trabalhadores rurais Vilmar Bordim, 44 anos, casado, pai de tr&ecirc;s filhos e Leonir Orback de 25 anos, deixa esposa gravida de nove meses. Tamb&eacute;m foram feridos mais sete trabalhadores. Todos os ataques foram feitos pelas costas, o que deixa claro como foi o ocorrido.<br />
-<br />
-Sobre as investiga&ccedil;&otilde;es do TCU em rela&ccedil;&atilde;o a corrup&ccedil;&atilde;o no Incra, queremos que os respons&aacute;veis sejam investigados e punidos. O que n&atilde;o podemos permitir &eacute; que se paralise a reforma agr&aacute;ria no pa&iacute;s, enquanto o processo se desenrola com a morosidade costumeira. S&atilde;o milhares de fam&iacute;lias passando fome em seus barracos de lona, &agrave;s margens da rodovia.<br />
-<br />
-Tamb&eacute;m estamos nas rodovias para lembrar o Massacre de Eldorado dos Caraj&aacute;s, que ocorreu em 17 de abril de 1996, no munic&iacute;pio de Eldorado dos Caraj&aacute;s, no sul do Par&aacute;, decorrente da a&ccedil;&atilde;o da pol&iacute;cia do estado do Par&aacute;. Vinte um Sem Terra foram mortos pelos policiais. O confronto ocorreu quando 1.500 Sem Terra que estavam acampados na regi&atilde;o decidiram fazer uma marcha em protesto contra a demora da desapropria&ccedil;&atilde;o de terras. Ap&oacute;s 20 anos a impunidade e viol&ecirc;ncia continuam assombrando nossas fam&iacute;lias acampadas e assentadas.<br />
-<br />
-Por fim, ressaltamos que temos lado na disputa pol&iacute;tica que vem sendo travada nacionalmente no Brasil. Somos contr&aacute;rios ao impeachment da presidenta da rep&uacute;blica, Dilma Rousseff, porque estamos do lado da democracia.<br />
-<br />
-<strong>&ldquo;Lutar! Construir Reforma Agr&aacute;ria Popular!&rdquo;</strong><br />
-<br />
+O Movimento dos Trabalhadores Rurais de Mato Grosso do Sul (MST), bloqueou na manh&atilde; desta sexta-feira (15) as principais rodovias do Estado, como parte de uma a&ccedil;&atilde;o nacional. Est&atilde;o participando da atividade cerca de mil fam&iacute;lias Sem Terra.</p>
+
+<p><br />
+As rodovias bloqueadas s&atilde;o a BR 262, entre Terenos e Anast&aacute;cio, a BR 163, entre Mundo Novo a Eldorado e a BR 267, pr&oacute;ximo a Casa Verde, estrada que liga MS a SP. Os acampamentos do MST que fazem parte da a&ccedil;&atilde;o s&atilde;o: na BR 262, o Dorcelina Folador, na BR 163, o Ant&ocirc;nio Irm&atilde;o e o Jos&eacute; Marcio Zoia e na BR 267, os acampamentos Florestan Fernandes, Teixeirinha, Zumbi dos Palmares, Graciano e 12 de Abril.</p>
+
+<p><br />
+A a&ccedil;&atilde;o acontece em solidariedade aos Sem Terra do Paran&aacute;, contra a decis&atilde;o do TCU (Tribunal de Contas da Uni&atilde;o) de paralisar a reforma agr&aacute;ria, contra o golpe, em defesa da democracia e para lembrar o Massacre de Eldorado dos Caraj&aacute;s.</p>
+
+<p><br />
+No &uacute;ltimo dia 7 de abril, foram alvos de uma a&ccedil;&atilde;o covarde do governo do Paran&aacute;, integrantes do Acampamento Dom Tomas Baldu&iacute;no do MST, que fica localizado no munic&iacute;pio de Quedas do Igua&ccedil;u.</p>
+
+<p><br />
+Na ocasi&atilde;o foram v&iacute;timas fatais de uma emboscada realizada pela Policia Militar e por seguran&ccedil;as contratados pela empresa Araupel, os trabalhadores rurais Vilmar Bordim, 44 anos, casado, pai de tr&ecirc;s filhos e Leonir Orback de 25 anos, deixa esposa gravida de nove meses. Tamb&eacute;m foram feridos mais sete trabalhadores. Todos os ataques foram feitos pelas costas, o que deixa claro como foi o ocorrido.</p>
+
+<p><br />
+Sobre as investiga&ccedil;&otilde;es do TCU em rela&ccedil;&atilde;o a corrup&ccedil;&atilde;o no Incra, queremos que os respons&aacute;veis sejam investigados e punidos. O que n&atilde;o podemos permitir &eacute; que se paralise a reforma agr&aacute;ria no pa&iacute;s, enquanto o processo se desenrola com a morosidade costumeira. S&atilde;o milhares de fam&iacute;lias passando fome em seus barracos de lona, &agrave;s margens da rodovia.</p>
+
+<p><br />
+Tamb&eacute;m estamos nas rodovias para lembrar o Massacre de Eldorado dos Caraj&aacute;s, que ocorreu em 17 de abril de 1996, no munic&iacute;pio de Eldorado dos Caraj&aacute;s, no sul do Par&aacute;, decorrente da a&ccedil;&atilde;o da pol&iacute;cia do estado do Par&aacute;. Vinte um Sem Terra foram mortos pelos policiais. O confronto ocorreu quando 1.500 Sem Terra que estavam acampados na regi&atilde;o decidiram fazer uma marcha em protesto contra a demora da desapropria&ccedil;&atilde;o de terras. Ap&oacute;s 20 anos a impunidade e viol&ecirc;ncia continuam assombrando nossas fam&iacute;lias acampadas e assentadas.</p>
+
+<p><br />
+Por fim, ressaltamos que temos lado na disputa pol&iacute;tica que vem sendo travada nacionalmente no Brasil. Somos contr&aacute;rios ao impeachment da presidenta da rep&uacute;blica, Dilma Rousseff, porque estamos do lado da democracia.</p>
+
+<p><br />
 O MST aguarda a descida do superintendente do Incra MS, Humberto de Mello, na BR 262, para debater quest&otilde;es ligadas a Reforma Agr&aacute;ria, a mesma est&aacute; paralisada por conta da decis&atilde;o do TCU, mas atualmente h&aacute; apenas uma &aacute;rea decretada para este fim no Estado e sem d&uacute;vida n&atilde;o ir&aacute; resolver o problema da quest&atilde;o de terra e dos milhares de acampados</p>
 
 <p>&nbsp;</p>
