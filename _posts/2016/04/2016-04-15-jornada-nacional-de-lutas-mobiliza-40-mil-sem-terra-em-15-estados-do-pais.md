@@ -119,7 +119,7 @@ section: cover
 
 <p>&nbsp;</p>
 
-<p>Nessa sexta-feira (17), Sem Terra em todo o pa&iacute;s&nbsp;est&atilde;o mobilizados para a Jornada Nacional de Lutas pela Reforma Agr&aacute;ria.</p>
+<p>Nessa sexta-feira (15), Sem Terra em todo o pa&iacute;s&nbsp;est&atilde;o mobilizados para a Jornada Nacional de Lutas pela Reforma Agr&aacute;ria.</p>
 
 <p><br />
 Neste ano o MST&nbsp;se soma ao conjunto das mobiliza&ccedil;&otilde;es da Frente Brasil Popular contra os ajustes, em defesa da democracia, contra o golpe e pela Reforma Agr&aacute;ria.&nbsp;</p>
@@ -132,10 +132,10 @@ O Movimento tamb&eacute;m relembra em sua a&ccedil;&otilde;es o Massacre de Eldo
 
 <p>&nbsp;</p>
 
-<p>At&eacute; o momento foram realizadas 15 a&ccedil;&atilde;o em diferentes cidades dos pa&iacute;s que contaram com a participa&ccedil;&atilde;o de 40 mil Sem Terra.&nbsp;</p>
+<p>At&eacute; o momento foram realizadas 15 a&ccedil;&otilde;es em diferentes cidades dos pa&iacute;s que contaram com a participa&ccedil;&atilde;o de 50 mil Sem Terra.&nbsp;</p>
 
 <p><br />
-Confira as a&ccedil;&otilde;es dessa sexta-feira (17)</p>
+Confira as a&ccedil;&otilde;es dessa sexta-feira (15)</p>
 
 <p>&nbsp;</p>
 
