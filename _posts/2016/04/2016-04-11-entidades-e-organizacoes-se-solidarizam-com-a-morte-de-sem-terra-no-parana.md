@@ -31,20 +31,17 @@ releated_posts:
 images_hd: //farm2.staticflickr.com/1702/25767541853_4f83f83fc2_b.jpg
 support_line: "Anistia Internacional, CPT, MMM, entre outros, lamentaram as mortes e cobraram punição imediata aos culpados. "
 menu: direitos humanos
+special-page: land-reform
 
 ---
-<p>&nbsp;</p>
-
-<p><em>Da P&aacute;gina do MST </em></p>
+<p><br />
+<em>Da P&aacute;gina do MST </em></p>
 
 <p><br />
-<em>&nbsp;</em></p>
+Ap&oacute;s o assassinato dos Sem Terra, Vilmar Bordim (44) e Leonir Orback (25), que aconteceu na &uacute;ltima quinta-feira (7), no munic&iacute;pio de Quedas do Igua&ccedil;u, diversas entidades e organiza&ccedil;&otilde;es divulgaram apoio e solidariedade ao MST.&nbsp;</p>
 
-<p>Ap&oacute;s o assassinato dos Sem Terra, Vilmar Bordim (44) e Leonir Orback (25), que aconteceu na &uacute;ltima quinta-feira (7), no munic&iacute;pio de Quedas do Igua&ccedil;u, diversas entidades e organiza&ccedil;&otilde;es divulgaram apoio e solidariedade ao MST.&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>Os textos publicados repudiam os ataques e exigem puni&ccedil;&atilde;o imediata aos respons&aacute;veis.&nbsp;</p>
+<p><br />
+Os textos publicados repudiam os ataques e exigem puni&ccedil;&atilde;o imediata aos respons&aacute;veis.&nbsp;</p>
 
 <p><br />
 O Instituto de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra) lamentou o ocorrido e &nbsp;reiterou que &ldquo;o Incra vem agindo dentro dos princ&iacute;pios da legalidade, amparado pela Procuradoria Federal Especializada (PFE) junto ao Incra/PR;&nbsp;Procuradoria da Uni&atilde;o no Paran&aacute; e Procuradoria Federal no Paran&aacute;, no sentido de arrecadar a &aacute;rea explorada pela empresa Araupel no munic&iacute;pio de Quedas&rdquo;.&nbsp;</p>
@@ -59,28 +56,23 @@ E na figura do diretor executivo da Anistia Internacional Brasil,&nbsp;Atila Roq
 
 <p>Para a Frente Brasil Popular e a Frente Povo sem Medo do Rio Grande do Sul, &ldquo;os assassinatos s&atilde;o parte do atual momento de amea&ccedil;a ao Estado Democr&aacute;tico de Direito em que vivemos&rdquo;.&nbsp;</p>
 
-<p>&nbsp;</p>
+<p><br />
+O N&uacute;cleo Agr&aacute;rio do Partido dos Trabalhadores lamentou que &ldquo;o atual governo do PSDB do Paran&aacute;, n&atilde;o satisfeito em reprimir professores, utilize a PM n&atilde;o para proteger os mais fracos, mas fazer cumprir os desmandos dos poderosos&rdquo;.</p>
 
-<p>O N&uacute;cleo Agr&aacute;rio do Partido dos Trabalhadores lamentou que &ldquo;o atual governo do PSDB do Paran&aacute;, n&atilde;o satisfeito em reprimir professores, utilize a PM n&atilde;o para proteger os mais fracos, mas fazer cumprir os desmandos dos poderosos&rdquo;.</p>
+<p><br />
+Em nota afirmaram ainda que tratar-se de &ldquo;uma trag&eacute;dia anunciada, uma vez que o acampamento, com cerca de 1.500 fam&iacute;lias e sete mil pessoas, sofre constantes amea&ccedil;as por parte dos pistoleiros da empresa Araupel com a absoluta coniv&ecirc;ncia do governo do estado do Paran&aacute; e da sua PM com longa hist&oacute;ria de crimes contra trabalhadores&rdquo;.</p>
 
-<p>&nbsp;</p>
+<p><br />
+J&aacute; o Partido Socialismo e Liberdade (Psol), expressou rep&uacute;dio &agrave; a&ccedil;&atilde;o policial e exige a apura&ccedil;&atilde;o transparente dos fatos, com puni&ccedil;&atilde;o dos respons&aacute;veis pelos assassinatos e ferimentos.</p>
 
-<p>Em nota afirmaram ainda que tratar-se de &ldquo;uma trag&eacute;dia anunciada, uma vez que o acampamento, com cerca de 1.500 fam&iacute;lias e sete mil pessoas, sofre constantes amea&ccedil;as por parte dos pistoleiros da empresa Araupel com a absoluta coniv&ecirc;ncia do governo do estado do Paran&aacute; e da sua PM com longa hist&oacute;ria de crimes contra trabalhadores&rdquo;.</p>
-
-<p>&nbsp;</p>
-
-<p>J&aacute; o Partido Socialismo e Liberdade (Psol), expressou rep&uacute;dio &agrave; a&ccedil;&atilde;o policial e exige a apura&ccedil;&atilde;o transparente dos fatos, com puni&ccedil;&atilde;o dos respons&aacute;veis pelos assassinatos e ferimentos.</p>
-
-<p>&nbsp;</p>
-
-<p>Em um ato em defesa da democracia com educadores e estudantes, em S&atilde;o Paulo, o ex-presidente Luiz In&aacute;cio Lula da Silva pediu uma salva de palmas em solidariedade a as v&iacute;timas e afirmou que os dois Sem Terra &ldquo;s&atilde;o v&iacute;timas da falta de respeito pelo povo trabalhador nesse pa&iacute;s&rdquo;.</p>
+<p><br />
+Em um ato em defesa da democracia com educadores e estudantes, em S&atilde;o Paulo, o ex-presidente Luiz In&aacute;cio Lula da Silva pediu uma salva de palmas em solidariedade a as v&iacute;timas e afirmou que os dois Sem Terra &ldquo;s&atilde;o v&iacute;timas da falta de respeito pelo povo trabalhador nesse pa&iacute;s&rdquo;.</p>
 
 <p><br />
 Abaixo seguem&nbsp;as entidades e organiza&ccedil;&otilde;es que divulgaram apoio e solidariedade:</p>
 
-<p>&nbsp;</p>
-
-<p>Central &Uacute;nica dos Trabalhadores (CUT)<br />
+<p><br />
+Central &Uacute;nica dos Trabalhadores (CUT)<br />
 Partido Socialismo e Liberdade (PSOL)<br />
 Anistia Internacional<br />
 N&uacute;cleo Agr&aacute;rio do Partido dos Trabalhadores<br />
@@ -107,5 +99,3 @@ Sindicato dos Banc&aacute;rios<br />
 Marcha Mundial de Mulheres (MMM)<br />
 Movimento Passe Livre<br />
 Osvaldo Russo, conselheiro da ABRA e ex-presidente do INCRA</p>
-
-<p>&nbsp;</p>
