@@ -29,6 +29,7 @@ releated_posts:
   - _posts/2015/04/2015-04-17-no-para-fazenda-peruano-e-destinada-a-reforma-agraria-e-vira-assentamento-norival-santana.md
   - _posts/2015/04/2015-04-17-a-reforma-agraria-nao-foi-feita-quase-20-anos-depois-do-massacre-de-carajas.md
   - _posts/2015/04/2015-04-17-eldorado-de-carajas-para-nao-passar-em-branco.md
+special-page: land-reform
 
 ---
 <p><br />
