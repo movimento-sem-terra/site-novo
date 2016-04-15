@@ -4,7 +4,7 @@ tags:
   - tag: jornada-nacional-de-lutas
   - tag: reforma-agrária
   - tag: lutas-e-mobilizações
-title: "Jornada Nacional de Lutas mobiliza 40 mil Sem Terra em 15 estados do país "
+title: "Jornada Nacional de Lutas mobiliza 50 mil Sem Terra em 15 estados do país "
 menu: lutas e mobilizações
 special-page: land-reform
 support_line: "Além da Reforma Agrária, agenda de ações pauta a luta pela democracia, contra o golpe e o fim da violência no campo. "
@@ -95,6 +95,12 @@ files:
     small: //farm2.staticflickr.com/1575/25842999963_373a0c6a9a_n.jpg
     title: AqqkQibk_Sz3OT0WSqnRIQu9Nk3cEgA86vUh3gQguYMe.jpg
     $$hashKey: 0Q3
+  - link: //farm2.staticflickr.com/1565/26354011862_3150343a5c_b.jpg
+    thumbnail: //farm2.staticflickr.com/1565/26354011862_3150343a5c_t.jpg
+    medium: //farm2.staticflickr.com/1565/26354011862_3150343a5c_z.jpg
+    small: //farm2.staticflickr.com/1565/26354011862_3150343a5c_n.jpg
+    title: AjnfbNFVAr0E-kaObkQ7SpYLw9kTPd4ZqpfYe0jTZXFz.jpg
+    $$hashKey: "130"
 created_date: "2016-04-15T13:51:12-03:00"
 published: true
 releated_posts:
@@ -328,12 +334,13 @@ Em Salvador os comerci&aacute;rios tamb&eacute;m paralisaram e fizeram um arrast
 
 <p>&nbsp;</p>
 
-<p><br />
-&nbsp;</p>
+<p><strong>SC</strong></p>
 
-<p>&nbsp;</p>
+<p>Cerca de 400 Sem Terra bloquearam a SC&nbsp;467 pr&oacute;ximo ao munic&iacute;pio de&nbsp;Abelardo Luz. Tamb&eacute;m em Santa Catarina, 300 trabalhadores bloquearam&nbsp;o ped&aacute;gio na BR116 no munic&iacute;pio de Correia Pinto.</p>
+
+<figure class="image"><img alt="AjnfbNFVAr0E-kaObkQ7SpYLw9kTPd4ZqpfYe0jTZXFz.jpg" height="525" src="//farm2.staticflickr.com/1565/26354011862_3150343a5c_b.jpg" width="700" />
+<figcaption>Santa Catarina&nbsp;</figcaption>
+</figure>
 </div>
-
-<div>&nbsp;</div>
 
 <div>&nbsp;</div>
