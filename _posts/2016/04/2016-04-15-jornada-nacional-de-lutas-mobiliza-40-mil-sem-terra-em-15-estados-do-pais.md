@@ -144,7 +144,7 @@ O Movimento tamb&eacute;m relembra em sua a&ccedil;&otilde;es o Massacre de Eldo
 
 <p>&nbsp;</p>
 
-<p>At&eacute; o momento foram realizadas 15 a&ccedil;&otilde;es em diferentes cidades dos pa&iacute;s que contaram com a participa&ccedil;&atilde;o de 50 mil Sem Terra.&nbsp;<br />
+<p>At&eacute; o momento foram realizadas 18&nbsp;a&ccedil;&otilde;es em diferentes cidades dos pa&iacute;s que contaram com a participa&ccedil;&atilde;o de 62&nbsp;mil Sem Terra.&nbsp;<br />
 <br />
 Para Kelli Mafort, da coordena&ccedil;&atilde;o nacional do MST, &nbsp;l<span style="line-height: 20.8px;">utar por Reforma Agr&aacute;ria &eacute; tamb&eacute;m enfrentar o golpe que est&aacute; em curso no pa&iacute;s. Golpe n&atilde;o somente contra o mandato constitucional da presidente&nbsp;Dilma, mas contra a maioria do povo brasileiro</span><br />
 <br />
