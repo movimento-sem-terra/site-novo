@@ -4,7 +4,7 @@ tags:
   - tag: minas-gerais
   - tag: assentamentos
   - tag: reforma-agrária
-title: MST/MG forma convênio para implantar e recuperar infraestrutura em assentamentos
+title: MST forma convênio para implantar e recuperar infraestrutura em assentamentos em MG
 images_hd: //farm2.staticflickr.com/1605/26432580765_e081e65f64_b.jpg
 menu: reforma agrária
 support_line: "Duas mil famílias terão acesso à infraestrutura adequada para o desenvolvimento socioeconômico e produtivo. "
