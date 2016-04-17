@@ -1,5 +1,5 @@
 ---
-date: "2016-04-14T13:03:37-03:00"
+date: "2016-04-17T13:03:37-03:00"
 tags:
   - tag: massacre-de-eldorado-dos-carajás
   - tag: impunidade
@@ -54,6 +54,7 @@ releated_posts:
   - _posts/2015/04/2015-04-17-no-para-fazenda-peruano-e-destinada-a-reforma-agraria-e-vira-assentamento-norival-santana.md
   - _posts/2015/04/2015-04-17-a-reforma-agraria-nao-foi-feita-quase-20-anos-depois-do-massacre-de-carajas.md
   - _posts/2015/04/2015-04-17-carajas-19-anos-de-impunidade.md
+section: cover
 
 ---
 <p style="box-sizing: inherit; margin: 0px 0px 11px; font-size: 1.1em; color: rgb(85, 85, 85); font-family: 'Exo 2', Helvetica, Arial, sans-serif;">&nbsp;</p>
