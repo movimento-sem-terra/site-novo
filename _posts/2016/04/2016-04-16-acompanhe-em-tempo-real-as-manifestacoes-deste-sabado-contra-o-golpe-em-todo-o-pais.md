@@ -1,7 +1,7 @@
 ---
 date: "2016-04-16T16:01:20-03:00"
 tags: []
-title: "Acompanhe em tempo real as manifestações deste sábado contra o golpe, em todo o país"
+title: "Acompanhe em tempo real as manifestações deste domingo contra o golpe, em todo o país"
 support_line: "Confira o Radar das Lutas Populares - especial Contra o Golpe, produzido pelo Brasil de Fato."
 menu: lutas e mobilizações
 images_hd: //farm2.staticflickr.com/1609/26466369435_4a5f25b588_b.jpg
@@ -18,4 +18,4 @@ published: true
 releated_posts: []
 
 ---
-<iframe height="360" src="http://radar.brasildefato.com.br" width="640"></iframe> 
+<p><iframe height="360" src="http://radar.brasildefato.com.br" width="640"></iframe></p>
