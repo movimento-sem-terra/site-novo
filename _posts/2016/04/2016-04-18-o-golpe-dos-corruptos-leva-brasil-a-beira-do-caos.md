@@ -40,8 +40,8 @@ releated_posts:
 <h4 itemprop="author" rel="author"><em>Por Rodrigo Viana<br />
 Da Revista F&oacute;rum&nbsp;</em></h4>
 
-<h4 itemprop="author" rel="author"><br />
-Depois de assistir &agrave; sess&atilde;o do golpe, em Brasilia, entendi porque a TFP (Tradi&ccedil;&atilde;o, Fam&iacute;lia e Propriedade &ndash; velha institui&ccedil;&atilde;o cat&oacute;lica de ultra-direita, que defendeu a ditadura em 64) entrou em decad&ecirc;ncia.</h4>
+<p itemprop="author" rel="author"><br />
+Depois de assistir &agrave; sess&atilde;o do golpe, em Brasilia, entendi porque a TFP (Tradi&ccedil;&atilde;o, Fam&iacute;lia e Propriedade &ndash; velha institui&ccedil;&atilde;o cat&oacute;lica de ultra-direita, que defendeu a ditadura em 64) entrou em decad&ecirc;ncia.</p>
 
 <p><br />
 A TFP tornou-se desnecess&aacute;ria. O discurso da &ldquo;fam&iacute;lia acima de tudo&rdquo; ganhou a parada.&nbsp;</p>
