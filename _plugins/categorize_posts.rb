@@ -43,7 +43,7 @@ module Jekyll
       site.config['carousel'] = carousel
       site.config['recent'] = recent
       site.config['featured_news'] = featured_news
-      site.config['interviews'] = interviews
+      site.config['interviews'] = interviews || []
       site.config['tv_mst'] = tv_mst
       site.config['special_stories'] = special_stories
       site.config['campaigns'] = campaigns
