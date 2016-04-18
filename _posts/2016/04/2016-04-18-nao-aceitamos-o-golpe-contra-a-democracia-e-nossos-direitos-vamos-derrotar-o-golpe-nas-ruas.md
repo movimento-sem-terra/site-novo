@@ -7,7 +7,7 @@ tags:
 title: "Não aceitamos o golpe contra a democracia e nossos direitos! Vamos derrotar o golpe nas ruas!"
 support_line: "As forças econômicas, políticas conservadoras e reacionárias que alimentaram essa farsa têm o objetivo de liquidar direitos trabalhistas e sociais do povo brasileiro. "
 menu: lutas e mobilizações
-section: featured-news
+section: cover
 images_hd: //farm2.staticflickr.com/1467/26221742570_58ac2b5907_b.jpg
 layout: post
 files:
