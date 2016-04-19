@@ -1,7 +1,7 @@
 ---
 date: "2016-04-19T12:38:01-03:00"
 tags: []
-title: "Conflitos no Campo Brasil 2015 é lançado pela CPT nacional no Acampamento Nacional pela Democracia, em Brasília e em Maraba."
+title: Conflitos no Campo Brasil 2015 é lançado pela CPT
 support_line: "A publicação anual da Comissão Pastoral da Terra, Conflitos no Campo Brasil 2015, foi lançada na última sexta-feira (15) em ato no Acampamento Nacional pela Democracia e Contra o Golpe, em frente ao Estádio Mané Garrincha, em Brasília."
 menu: direitos humanos
 images_hd: //farm2.staticflickr.com/1592/26432638542_b4419c6859_b.jpg
