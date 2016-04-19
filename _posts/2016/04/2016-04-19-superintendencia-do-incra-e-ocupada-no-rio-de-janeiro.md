@@ -1,6 +1,9 @@
 ---
 date: "2016-04-19T12:52:03-03:00"
-tags: []
+tags:
+  - tag: rio-de-janeiro
+  - tag: ocupação-incra
+  - tag: reforma-agrária
 title: Superintendência do Incra é ocupada no Rio de Janeiro
 support_line: "A ação acontece após dois anos sem negociação com o Incra, reafirmando, portanto o compromisso dos trabalhadores em ocupar as ruas para pautar a Reforma Agrária Popular."
 menu: lutas e mobilizações
@@ -22,7 +25,16 @@ files:
     $$hashKey: 0JF
 created_date: "2016-04-19T12:57:32-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2015/12/2015-12-07-rio-de-janeiro-sedia-a-7-feira-estadual-da-reforma-agraria-no-largo-carioca.md
+  - _posts/2014/03/2014-03-06-depois-de-8-anos-justica-concede-assentamento-ao-mst-no-rio-de-janeiro.md
+  - _posts/2014/05/2014-05-30-assentamentos-inauguram-agroindustria-de-cana-no-rio-de-janeiro.md
+  - _posts/2014/05/2014-05-30-assentamentos-inauguram-agroindustria-de-cana-no-rio-de-janeiro.md-e
+  - _posts/2014/06/2014-06-11-mst-tranca-rodovia-no-rj-e-denuncia-lentidao-na-desapropriacao-de-fazenda.md
+  - _posts/2015/05/2015-05-07-apos-marcha-da-classe-trabalhadora-sem-terra-ocupam-o-incra-no-ms.md
+  - _posts/2015/05/2015-05-07-familias-sem-terra-ocupam-incra-em-bauru.md
+  - _posts/2015/04/2015-04-22-sem-terra-ocupam-incra-na-paraiba.md
+  - _posts/2015/05/2015-05-28-sem-terra-ocupam-incra-em-curitiba.md
 
 ---
 <p>&nbsp;</p>
