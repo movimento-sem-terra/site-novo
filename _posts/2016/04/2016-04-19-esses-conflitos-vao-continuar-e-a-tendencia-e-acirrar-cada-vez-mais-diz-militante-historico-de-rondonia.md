@@ -5,9 +5,9 @@ tags:
   - tag: cpt
   - tag: rondonia
 title: "“Esses conflitos vão continuar e a tendência é acirrar cada vez mais”, diz militante histórico de Rondônia"
-support_line: "O sociólogo foi coordenador da CPT por uma década no período de redemocratização do país, após ficar preso durante alguns dias por causa do seu envolvimento nas lutas. \n"
+support_line: "Olavo Nienow foi coordenador da CPT por uma década no período de redemocratização do país, após ficar preso durante alguns dias por causa do seu envolvimento nas lutas. "
 menu: direitos humanos
-images_hd: //farm2.staticflickr.com/1552/26525372155_2659f4fa58_b.jpg
+images_hd: //farm2.staticflickr.com/1657/25920682104_7c0bcc9615_b.jpg
 layout: post
 files:
   - link: //farm2.staticflickr.com/1552/26525372155_2659f4fa58_b.jpg
@@ -16,6 +16,12 @@ files:
     small: //farm2.staticflickr.com/1552/26525372155_2659f4fa58_n.jpg
     title: olavo-670x1191.jpg
     $$hashKey: 0JH
+  - link: //farm2.staticflickr.com/1657/25920682104_7c0bcc9615_b.jpg
+    thumbnail: //farm2.staticflickr.com/1657/25920682104_7c0bcc9615_t.jpg
+    medium: //farm2.staticflickr.com/1657/25920682104_7c0bcc9615_z.jpg
+    small: //farm2.staticflickr.com/1657/25920682104_7c0bcc9615_n.jpg
+    title: 585534271.jpg
+    $$hashKey: 10J
 created_date: "2016-04-19T13:11:38-03:00"
 published: true
 releated_posts:
@@ -31,7 +37,7 @@ releated_posts:
 ---
 <p>&nbsp;</p>
 
-<p><em style="box-sizing: inherit; color: rgb(85, 85, 85); font-family: 'Exo 2', Helvetica, Arial, sans-serif; font-size: 17.6px; line-height: 25.1428px;">Da Fazendo Media<br style="box-sizing: inherit;" />
+<p><em>Da Fazendo Media<br />
 Por Eduardo S&aacute;&nbsp;</em></p>
 
 <p><br />
