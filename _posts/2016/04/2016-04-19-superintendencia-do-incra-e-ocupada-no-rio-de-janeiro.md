@@ -14,12 +14,12 @@ files:
     small: //farm2.staticflickr.com/1564/25922288483_1476c67c20_n.jpg
     title: IMG-20160418-WA0043.jpg
     $$hashKey: 0DD
-  - link: //farm2.staticflickr.com/1668/26432842792_100e83b84e_b.jpg
-    thumbnail: //farm2.staticflickr.com/1668/26432842792_100e83b84e_t.jpg
-    medium: //farm2.staticflickr.com/1668/26432842792_100e83b84e_z.jpg
-    small: //farm2.staticflickr.com/1668/26432842792_100e83b84e_n.jpg
-    title: IMG-20160418-WA0048 (1).jpg
-    $$hashKey: 0DG
+  - link: //farm2.staticflickr.com/1558/26459215161_3b3112dbe4_b.jpg
+    thumbnail: //farm2.staticflickr.com/1558/26459215161_3b3112dbe4_t.jpg
+    medium: //farm2.staticflickr.com/1558/26459215161_3b3112dbe4_z.jpg
+    small: //farm2.staticflickr.com/1558/26459215161_3b3112dbe4_n.jpg
+    title: MST Ocupacao INCRA RJ _Colectivo de Comunicação MST RJ - Pablo Vergara-20.JPG
+    $$hashKey: 0JF
 created_date: "2016-04-19T12:57:32-03:00"
 published: true
 releated_posts: []
@@ -41,11 +41,9 @@ Por Vanessa Ramos</em></p>
 <p><br />
 A a&ccedil;&atilde;o acontece ap&oacute;s dois anos sem negocia&ccedil;&atilde;o com o Incra. A iniciativa, portanto, reafirma o compromisso dos trabalhadores em ocupar as ruas para pautar a Reforma Agr&aacute;ria Popular.</p>
 
-<figure class="image" style="float:right"><img alt="IMG-20160418-WA0048 (1).jpg" height="533" src="//farm2.staticflickr.com/1668/26432842792_100e83b84e_b.jpg" width="300" />
-<figcaption></figcaption>
+<figure class="image"><img alt="MST Ocupacao INCRA RJ _Colectivo de Comunicação MST RJ - Pablo Vergara-20.JPG" height="400" src="//farm2.staticflickr.com/1558/26459215161_3b3112dbe4_b.jpg" width="600" />
+<figcaption>Foto: Pablo Vergara</figcaption>
 </figure>
-
-<p>&nbsp;</p>
 
 <p>A ocupa&ccedil;&atilde;o do Incra/RJ tamb&eacute;m faz parte da Jornada de Lutas do MST, iniciada no Rio de Janeiro com o trancamento da Rodovia Presidente Dutra, na altura do km 242, munic&iacute;pio Pira&iacute;, na &uacute;ltima sexta-feira (15).</p>
 
