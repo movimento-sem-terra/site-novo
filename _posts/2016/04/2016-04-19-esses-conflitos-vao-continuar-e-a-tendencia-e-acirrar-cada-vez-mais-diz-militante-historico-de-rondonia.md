@@ -37,7 +37,7 @@ releated_posts:
 ---
 <p>&nbsp;</p>
 
-<p><em>Da Fazendo Media<br />
+<p><em>Da Articula&ccedil;&atilde;o Nacional de Agroecologia (ANA)<br />
 Por Eduardo S&aacute;&nbsp;</em></p>
 
 <p><br />
