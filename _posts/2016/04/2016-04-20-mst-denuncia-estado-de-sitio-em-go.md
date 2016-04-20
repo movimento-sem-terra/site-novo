@@ -42,7 +42,7 @@ Fotos: MST/GO</em></p>
 <p>&nbsp;</p>
 
 <p><br />
-Ap&oacute;s pris&atilde;o de militante, o MST em Goi&aacute;s lan&ccedil;ou nesta quarta-feira (20), nota se posicionando contra a criminaliza&ccedil;&atilde;o dos movimentos sociais em curso neste estado. Apesar de ter sido intimado para esclarecimentos, o militante Luiz Batista Borges do acampamento Padre J&oacute;simo, foi preso pela Pol&iacute;cia Militar e encontra-se encarcerado no munic&iacute;pio de Rio Verde. Ap&oacute;s determina&ccedil;&atilde;o da comarca de Santa Helena de Goi&aacute;s, uma opera&ccedil;&atilde;o foi deflagrada para prender diversas lideran&ccedil;as do Movimento na regi&atilde;o.</p>
+Ap&oacute;s pris&atilde;o de militante, o MST em Goi&aacute;s lan&ccedil;ou nesta quarta-feira (20) nota se posicionando contra a criminaliza&ccedil;&atilde;o dos movimentos sociais em curso neste estado. Apesar de ter sido intimado para esclarecimentos, o militante Luiz Batista Borges do acampamento Padre J&oacute;simo, foi preso pela Pol&iacute;cia Militar e encontra-se encarcerado no munic&iacute;pio de Rio Verde. Ap&oacute;s determina&ccedil;&atilde;o da comarca de Santa Helena de Goi&aacute;s, uma opera&ccedil;&atilde;o foi deflagrada para prender diversas lideran&ccedil;as do Movimento na regi&atilde;o.</p>
 
 <p>&nbsp;</p>
 
@@ -70,41 +70,41 @@ Ap&oacute;s pris&atilde;o de militante, o MST em Goi&aacute;s lan&ccedil;ou nest
 <p>Confira a &iacute;ntegra da Nota do Movimento sobre a situa&ccedil;&atilde;o em Goi&aacute;s:</p>
 
 <p style="text-align: center;"><br />
-<strong>NOTA PÚBLICA DE DENÚNCIA</strong></p>
+<strong>NOTA P&Uacute;BLICA DE DEN&Uacute;NCIA</strong></p>
 
 <p>&nbsp;</p>
 
-<p style="text-align: right;">Goiânia, 20 de abril de 2016.</p>
+<p style="text-align: right;">Goi&acirc;nia, 20 de abril de 2016.</p>
 
 <p>&nbsp;</p>
 
-<p>O Movimento dos Trabalhadores Rurais Sem Terra &ndash; MST &ndash; do estado de Goiás vem, publicamente, denunciar e repudiar os recentes atos de criminalização da luta pela Reforma Agrária promovidos por setores do Ministério Público, do Judiciário e do Governo do Estado de Goiás.</p>
+<p>O Movimento dos Trabalhadores Rurais Sem Terra &ndash; MST &ndash; do estado de Goi&aacute;s vem, publicamente, denunciar e repudiar os recentes atos de criminaliza&ccedil;&atilde;o da luta pela Reforma Agr&aacute;ria promovidos por setores do Minist&eacute;rio P&uacute;blico, do Judici&aacute;rio e do Governo do Estado de Goi&aacute;s.</p>
 
 <p>&nbsp;</p>
 
-<p>No momento de celebração e memória dos 20 anos do Massacre de Eldorado dos Carajás (PA), e uma semana após o covarde assassinato de dois trabalhadores rurais sem terra em Quedas do Iguaçu (PR), na quinta-feira passada -14/04/2016 - foi deflagrada operação policial para prender diversos militantes do MST, conforme determinação judicial da Comarca de Santa Helena de Goiás (GO). O agricultor Luiz Batista Borges, integrante do acampamento Pe. Josimo, foi preso ao atender convite para prestar esclarecimentos na delegacia local. No mesmo dia a polícia invadiu a casa do agricultor Valdir Misnerovicz, conhecido militante e defensor da Reforma Agrária no país e internacionalmente, e foi ao acampamento Pe. Josimo em procura dos agricultores Diessyka Santana e Natalino de Jesus.</p>
+<p>No momento de celebra&ccedil;&atilde;o e mem&oacute;ria dos 20 anos do Massacre de Eldorado dos Caraj&aacute;s (PA), e uma semana ap&oacute;s o covarde assassinato de dois trabalhadores rurais sem terra em Quedas do Igua&ccedil;u (PR), na quinta-feira passada -14/04/2016 - foi deflagrada opera&ccedil;&atilde;o policial para prender diversos militantes do MST, conforme determina&ccedil;&atilde;o judicial da Comarca de Santa Helena de Goi&aacute;s (GO). O agricultor Luiz Batista Borges, integrante do acampamento Pe. Josimo, foi preso ao atender convite para prestar esclarecimentos na delegacia local. No mesmo dia a pol&iacute;cia invadiu a casa do agricultor Valdir Misnerovicz, conhecido militante e defensor da Reforma Agr&aacute;ria no pa&iacute;s e internacionalmente, e foi ao acampamento Pe. Josimo em procura dos agricultores Diessyka Santana e Natalino de Jesus.</p>
 
 <p>&nbsp;</p>
 
-<p>Em processo que corre em segredo de justiça, sabe-se que a alegação formal para a repressão é que os militantes sociais constituem uma organização criminosa. A gravidade de tal acusação deve preocupar não só os que lutam pela reforma agrária em Goiás, mas todos e todas lutadores/as populares do Brasil. É um novo nível de perseguição política, que se insere na conjuntura nacional de golpe contra a democracia e contra as forças populares.</p>
+<p>Em processo que corre em segredo de justi&ccedil;a, sabe-se que a alega&ccedil;&atilde;o formal para a repress&atilde;o &eacute; que os militantes sociais constituem uma organiza&ccedil;&atilde;o criminosa. A gravidade de tal acusa&ccedil;&atilde;o deve preocupar n&atilde;o s&oacute; os que lutam pela reforma agr&aacute;ria em Goi&aacute;s, mas todos e todas lutadores/as populares do Brasil. &Eacute; um novo n&iacute;vel de persegui&ccedil;&atilde;o pol&iacute;tica, que se insere na conjuntura nacional de golpe contra a democracia e contra as for&ccedil;as populares.</p>
 
 <p>&nbsp;</p>
 
-<p>Nos últimos dois anos, as famílias do MST acampadas em Goiás saltaram de 600 para cerca de 6.000 e é contra essa reorganização da luta pela terra que o Estado está atuando. O maior acampamento do estado era, até então, justamente o acampamento Padre Josimo Tavares, localizado no município de Santa Helena de Goiás. Este acampamento exige a desapropriação da Fazenda Usina Santa Helena, pertencente ao Grupo Econômico Naoum, o qual já se encontra em recuperação judicial, com diversas dívidas trabalhistas e uma gigantesca dívida com a União. Apesar de toda essa conjugação de fatos, o Poder Judiciário local tem sido omisso na busca por uma resolução pacífica do conflito. Ao contrário, rejeitou processo da Fazenda Pública a partir do qual a União poderia arrecadar parcela do latifúndio para cobrar as dívidas para com a mesma, e, posteriormente, poderia destiná-las para reforma agrária.</p>
+<p>Nos &uacute;ltimos dois anos, as fam&iacute;lias do MST acampadas em Goi&aacute;s saltaram de 600 para cerca de 6.000 e &eacute; contra essa reorganiza&ccedil;&atilde;o da luta pela terra que o Estado est&aacute; atuando. O maior acampamento do estado era, at&eacute; ent&atilde;o, justamente o acampamento Padre Josimo Tavares, localizado no munic&iacute;pio de Santa Helena de Goi&aacute;s. Este acampamento exige a desapropria&ccedil;&atilde;o da Fazenda Usina Santa Helena, pertencente ao Grupo Econ&ocirc;mico Naoum, o qual j&aacute; se encontra em recupera&ccedil;&atilde;o judicial, com diversas d&iacute;vidas trabalhistas e uma gigantesca d&iacute;vida com a Uni&atilde;o. Apesar de toda essa conjuga&ccedil;&atilde;o de fatos, o Poder Judici&aacute;rio local tem sido omisso na busca por uma resolu&ccedil;&atilde;o pac&iacute;fica do conflito. Ao contr&aacute;rio, rejeitou processo da Fazenda P&uacute;blica a partir do qual a Uni&atilde;o poderia arrecadar parcela do latif&uacute;ndio para cobrar as d&iacute;vidas para com a mesma, e, posteriormente, poderia destin&aacute;-las para reforma agr&aacute;ria.</p>
 
 <p>&nbsp;</p>
 
-<p>O caráter de perseguição e criminalização dos movimentos populares se confirma quando observamos a portaria n. 446 de 12 de abril de 2016 da Secretaria de Segurança Pública de Goiás, a qual impõe para a Policia Civil e a Policia Militar do Estado o estado de &ldquo;prontidão&rdquo;, permanecendo suas tropas de sobreaviso por dois meses, restringindo férias, licenças e quaisquer outras formas de ausência dos seus servidores, para suposta &ldquo;proteção da ordem pública e da paz social&rdquo;, &ldquo;acompanhando de possíveis delitos em conflitos urbanos e rurais&rdquo;.</p>
+<p>O car&aacute;ter de persegui&ccedil;&atilde;o e criminaliza&ccedil;&atilde;o dos movimentos populares se confirma quando observamos a portaria n. 446 de 12 de abril de 2016 da Secretaria de Seguran&ccedil;a P&uacute;blica de Goi&aacute;s, a qual imp&otilde;e para a Policia Civil e a Policia Militar do Estado o estado de &ldquo;prontid&atilde;o&rdquo;, permanecendo suas tropas de sobreaviso por dois meses, restringindo f&eacute;rias, licen&ccedil;as e quaisquer outras formas de aus&ecirc;ncia dos seus servidores, para suposta &ldquo;prote&ccedil;&atilde;o da ordem p&uacute;blica e da paz social&rdquo;, &ldquo;acompanhando de poss&iacute;veis delitos em conflitos urbanos e rurais&rdquo;.</p>
 
 <p>&nbsp;</p>
 
-<p>Assim, alertamos toda a sociedade brasileira desta tentativa de criminalização da luta pela Reforma Agrária e repudiamos o avanço do Estado Policial em Goiás. Diante das ilegalidades e do caráter marcadamente político-ideológico das investigações e do processo judicial exigimos a liberdade para todos os perseguidos políticos. Por fim, conclamamos as forças sociais progressistas a reagirem veementemente contra esse atentado à democracia e aos direitos humanos. De nossa parte, reiteramos nosso compromisso em permanecer firmes na luta contra o latifúndio e quaisquer forças conservadoras, e assim contribuir na construção de uma sociedade mais livre, justa e solidária.</p>
+<p>Assim, alertamos toda a sociedade brasileira desta tentativa de criminaliza&ccedil;&atilde;o da luta pela Reforma Agr&aacute;ria e repudiamos o avan&ccedil;o do Estado Policial em Goi&aacute;s. Diante das ilegalidades e do car&aacute;ter marcadamente pol&iacute;tico-ideol&oacute;gico das investiga&ccedil;&otilde;es e do processo judicial exigimos a liberdade para todos os perseguidos pol&iacute;ticos. Por fim, conclamamos as for&ccedil;as sociais progressistas a reagirem veementemente contra esse atentado &agrave; democracia e aos direitos humanos. De nossa parte, reiteramos nosso compromisso em permanecer firmes na luta contra o latif&uacute;ndio e quaisquer for&ccedil;as conservadoras, e assim contribuir na constru&ccedil;&atilde;o de uma sociedade mais livre, justa e solid&aacute;ria.</p>
 
 <p>&nbsp;</p>
 
-<p style="text-align: center;"><strong>Lutar, Construir Reforma Agrária Popular!</strong></p>
+<p style="text-align: center;"><strong>Lutar, Construir Reforma Agr&aacute;ria Popular!</strong></p>
 
 <p style="text-align: center;"><br />
-<strong>Movimento dos Trabalhadores e Trabalhadoras Rurais Sem Terra - Goiás.</strong></p>
+<strong>Movimento dos Trabalhadores e Trabalhadoras Rurais Sem Terra - Goi&aacute;s.</strong></p>
 
 <p>&nbsp;</p>
