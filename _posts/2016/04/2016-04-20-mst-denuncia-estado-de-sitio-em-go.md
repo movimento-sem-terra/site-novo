@@ -5,7 +5,7 @@ tags:
   - tag: goiás
   - tag: direitos-humanos
   - tag: acampamento
-title: MST denuncia estado de sítio em GO
+title: MST denuncia estado de sítio em Goiás
 support_line: "Além de prenderem Luiz Batista, os policiais tentaram utilizar a mesma tática de suposta intimação com o militante Valdir Misnerovicz e realizaram buscas no acampamento por Diessyca Santana e Natalino de Jesus."
 menu: direitos humanos
 images_hd: //farm2.staticflickr.com/1667/25940147934_e38e7e5855_b.jpg
@@ -63,7 +63,7 @@ Ap&oacute;s pris&atilde;o de militante, o MST em Goi&aacute;s lan&ccedil;ou nest
 
 <p>&nbsp;</p>
 
-<p>Segundo a Nota do Movimento, &quot;nos últimos dois anos, as famílias do MST acampadas em Goiás saltaram de 600 para cerca de 6.000 e é contra essa reorganização da luta pela terra que o Estado está atuando. O maior acampamento do estado era, até então, justamente o acampamento Padre Josimo Tavares, localizado no município de Santa Helena de Goiás. Este acampamento exige a desapropriação da Fazenda Usina Santa Helena, pertencente ao Grupo Econômico Naoum, o qual já se encontra em recuperação judicial, com diversas dívidas trabalhistas e uma gigantesca dívida com a União. Apesar de toda essa conjugação de fatos, o Poder Judiciário local tem sido omisso na busca por uma resolução pacífica do conflito.&quot;</p>
+<p>Segundo a Nota do Movimento, &quot;nos &uacute;ltimos dois anos, as fam&iacute;lias do MST acampadas em Goi&aacute;s saltaram de 600 para cerca de 6.000 e &eacute; contra essa reorganiza&ccedil;&atilde;o da luta pela terra que o Estado est&aacute; atuando. O maior acampamento do estado era, at&eacute; ent&atilde;o, justamente o acampamento Padre Josimo Tavares, localizado no munic&iacute;pio de Santa Helena de Goi&aacute;s. Este acampamento exige a desapropria&ccedil;&atilde;o da Fazenda Usina Santa Helena, pertencente ao Grupo Econ&ocirc;mico Naoum, o qual j&aacute; se encontra em recupera&ccedil;&atilde;o judicial, com diversas d&iacute;vidas trabalhistas e uma gigantesca d&iacute;vida com a Uni&atilde;o. Apesar de toda essa conjuga&ccedil;&atilde;o de fatos, o Poder Judici&aacute;rio local tem sido omisso na busca por uma resolu&ccedil;&atilde;o pac&iacute;fica do conflito.&quot;</p>
 
 <p>&nbsp;</p>
 
