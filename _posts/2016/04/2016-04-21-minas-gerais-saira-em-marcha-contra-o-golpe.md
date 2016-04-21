@@ -68,6 +68,6 @@ A abertura da Marcha ocorrer&aacute; em Ouro Preto, com a participa&ccedil;&atil
 <p>No dia 26, &agrave;s 5h da manh&atilde;, a marcha seguir&aacute; de Sabar&aacute; para Belo Horizonte. O destino &eacute; a Pra&ccedil;a da Liberdade, onde acontecer&aacute; um ato pol&iacute;tico-cultural a partir das 14horas. Na ocasi&atilde;o tamb&eacute;m haver&aacute; uma audi&ecirc;ncia da Frente Brasil Popular Minas com o governador Fernando Pimentel, no Pal&aacute;cio da Liberdade.<br />
 &nbsp;</p>
 
-<p>Compartilhar evento</p>
+<p>Clique <a href="https://www.facebook.com/events/1592724897708323/">aqui </a>e confirme presen&ccedil;a no evento nas redes sociais.</p>
 
-<p>https://www.facebook.com/events/1592724897708323/</p>
+<p>&nbsp;</p>
