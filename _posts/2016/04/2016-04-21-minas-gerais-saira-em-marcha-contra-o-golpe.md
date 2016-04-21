@@ -6,7 +6,7 @@ tags:
   - tag: minas-gerais
   - tag: lutas-e-mobilizações
 title: Minas Gerais sairá em Marcha contra o Golpe
-support_line: "Lançada data em que o estado comemora o dia de Tiradentes, ícone da Inconfidência Mineira, o objetivo é dar uma resposta à vergonhosa votação, comandada por Eduardo Cunha e Michel Temer, que aprovou o processo de impeachment à Dilma."
+support_line: "A abertura da Marcha ocorrerá em Ouro Preto, com a participação da Frente Brasil Popular na entrega da medalha da Inconfidência ao ex-presidente do Uruguai Pepe Mujica."
 images_hd: //farm2.staticflickr.com/1650/26550043655_e0d28b24cc_b.jpg
 menu: lutas e mobilizações
 layout: post
@@ -41,7 +41,7 @@ Por Geanini Hackbardt</em></p>
 <p>&nbsp;</p>
 
 <p><br />
-A abertura da Marcha ocorrer&aacute; em Ouro Preto, com a participa&ccedil;&atilde;o da Frente Brasil Popular na entrega da medalha da Inconfid&ecirc;ncia ao ex-presidente do Uruguai Pepe Mujica.</p>
+&nbsp;</p>
 
 <p>&nbsp;</p>
 
