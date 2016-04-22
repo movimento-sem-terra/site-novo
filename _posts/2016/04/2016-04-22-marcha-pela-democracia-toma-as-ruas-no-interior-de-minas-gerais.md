@@ -48,7 +48,7 @@ Por Geanini Hackbardt</em><br />
 <p>&nbsp;</p>
 
 <p><br />
-&nbsp;Nesta quinta-feira (23), durante a entrega da Medalha Tiradentes para um dos nomes mais importantes do cen&aacute;rio social, o ex-presidente do Uruguai, Pepe Mujica, cerca de 3 mil militantes de v&aacute;rios Movimentos Populares se reuniram para dar abertura &agrave; Marcha pela Democracia.</p>
+&nbsp;Nesta quinta-feira (21), durante a entrega da Medalha Tiradentes para um dos nomes mais importantes do cen&aacute;rio social, o ex-presidente do Uruguai, Pepe Mujica, cerca de 3 mil militantes de v&aacute;rios Movimentos Populares se reuniram para dar abertura &agrave; Marcha pela Democracia.</p>
 
 <p>&nbsp;</p>
 
