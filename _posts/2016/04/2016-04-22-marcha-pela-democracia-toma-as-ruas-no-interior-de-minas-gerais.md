@@ -41,8 +41,7 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p><em>Da P&aacute;gina do MST<br />
-Por Geanini Hackbardt</em><br />
+<p><em>Da P&aacute;gina do MST</em><br />
 &nbsp;</p>
 
 <p>&nbsp;</p>
