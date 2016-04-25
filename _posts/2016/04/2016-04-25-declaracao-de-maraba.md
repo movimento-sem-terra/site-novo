@@ -38,7 +38,7 @@ releated_posts:
 <p><em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Ap&oacute;s se reunirem por cinco dias em Marab&aacute;, os 130 delegados de quatro continentes do globo lan&ccedil;aram a Declara&ccedil;&atilde;o de Marab&aacute;, documento s&iacute;ntese das discuss&otilde;es da Confer&ecirc;ncia Internacional da Reforma Agr&aacute;ria. Confira o texto na &iacute;ntegra abaixo:</p>
+Ap&oacute;s se reunirem por cinco dias em Marab&aacute;-PA, os 130 delegados de quatro continentes do globo lan&ccedil;aram a Declara&ccedil;&atilde;o de Marab&aacute;, documento s&iacute;ntese das discuss&otilde;es da Confer&ecirc;ncia Internacional da Reforma Agr&aacute;ria. Confira o texto na &iacute;ntegra abaixo:</p>
 
 <p>&nbsp;</p>
 
