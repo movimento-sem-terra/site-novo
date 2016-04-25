@@ -9,7 +9,7 @@ support_line: "Dirigente do MST avalia que um eventual governo Temer seria \"o p
 images_hd: //farm2.staticflickr.com/1686/26544599192_582a64cb84_b.jpg
 menu: lutas e mobilizações
 label: interviews
-section: cover
+section: null
 layout: post
 files:
   - link: //farm2.staticflickr.com/1686/26544599192_582a64cb84_b.jpg
