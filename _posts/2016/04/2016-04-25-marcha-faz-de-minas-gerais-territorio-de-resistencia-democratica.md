@@ -6,7 +6,7 @@ tags:
   - tag: democracia
   - tag: samarco
 title: Marcha faz de Minas Gerais território de resistência democrática
-support_line: "De acordo com os movimentos que organizam a manifestação, essa é uma forma simbólica e concreta de mostrar para a sociedade que o caminho para reverter a atual cisma na política brasileira é longo e exige persistência."
+support_line: De acordo com os movimentos essa é uma forma de mostrar para a sociedade que o caminho para reverter a atual cisma na política brasileira é longo e exige persistência.
 menu: lutas e mobilizações
 special-page: land-reform
 images_hd: //farm2.staticflickr.com/1631/26615055536_7d9da367fd_b.jpg
