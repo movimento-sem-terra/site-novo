@@ -4,7 +4,7 @@ tags:
   - tag: solidariedade-internacional
   - tag: conferência-internacional
   - tag: via-campesina
-title: Declaração de Marabá
+title: Conferência internacional da Reforma Agrária lança declaração final
 support_line: "Confira a declaração final da Conferência Internacional da Reforma Agrária, realizada entre 13 e 17 de abril, em Marabá-PA."
 menu: solidariedade
 special-page: land-reform
@@ -36,6 +36,9 @@ releated_posts:
 <p>&nbsp;</p>
 
 <p><em>Da P&aacute;gina do MST</em></p>
+
+<p><br />
+&nbsp;</p>
 
 <p>&nbsp;</p>
 
