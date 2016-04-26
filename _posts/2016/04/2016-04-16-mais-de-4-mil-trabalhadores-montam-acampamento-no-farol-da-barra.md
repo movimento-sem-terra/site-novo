@@ -6,7 +6,7 @@ tags:
   - tag: democracia
   - tag: acampamento
 images_hd: //farm2.staticflickr.com/1717/26465974565_f9e4bb2ee9_b.jpg
-title: Mais de 4 mil trabalhadores montam acampamento no Farol da Barra
+title: Mais de quatro mil trabalhadores montam acampamento no Farol da Barra
 support_line: "A ação reafirma o compromisso dos trabalhadores em ocupar as ruas para pautar a Reforma Agrária Popular e exigir justiça aos lutadores do povo que morreram em defesa de uma sociedade mais justa, fraterna e igualitária."
 menu: lutas e mobilizações
 special-page: land-reform
@@ -39,7 +39,7 @@ releated_posts:
 Da P&aacute;gina do MST&nbsp;</em><br />
 <br />
 <br />
-Ap&oacute;s o trancamento da BR 324, por um per&iacute;odo de 4 horas, realizado nesse s&aacute;bado (16/04), mais de 4 mil trabalhadores e trabalhadoras Sem Terra se deslocaram para o Farol da Barra e, em ato simb&oacute;lico, est&atilde;o montando um grande acampamento por tempo indeterminado.</p>
+Ap&oacute;s o trancamento da BR 324, por um per&iacute;odo de quatro&nbsp;horas, realizado nesse s&aacute;bado (16), mais de quatro&nbsp;mil trabalhadores e trabalhadoras Sem Terra se deslocaram para o Farol da Barra e, em ato simb&oacute;lico, est&atilde;o montando um grande acampamento por tempo indeterminado.</p>
 
 <p><br />
 A a&ccedil;&atilde;o reafirma o compromisso dos trabalhadores em ocupar as ruas para pautar a Reforma Agr&aacute;ria Popular e &ldquo;exigir justi&ccedil;a aos lutadores do povo que morreram em defesa de uma sociedade mais justa, fraterna e igualit&aacute;ria&rdquo;, diz o MST.<br />
@@ -57,9 +57,7 @@ Para o MST a ocupa&ccedil;&atilde;o de um espa&ccedil;o, como o Farol da Barra, 
 Pensando nisso, os trabalhadores realizar&atilde;o uma programa&ccedil;&atilde;o de atividades na tarde e noite do dia 16, com artistas populares, resgatando a cultura e a hist&oacute;ria de luta do povo.</p>
 
 <p><br />
-&nbsp;</p>
-
-<p><strong>Vai ter Reforma Agr&aacute;ria</strong></p>
+<strong>Vai ter Reforma Agr&aacute;ria</strong></p>
 
 <p><br />
 Al&eacute;m de fortalecer as lutas contra o golpe e defender a democracia, durante o fechamento da BR, os Sem Terra realizaram diversas interven&ccedil;&otilde;es art&iacute;sticas e culturais, apontando a luta pela terra como base norteadora do di&aacute;logo com a sociedade.</p>
