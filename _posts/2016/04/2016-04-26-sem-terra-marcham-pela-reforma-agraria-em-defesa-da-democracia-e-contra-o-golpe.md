@@ -44,8 +44,6 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
-
 <p><em>Da P&aacute;gina do MST<br />
 Por Jailma Lopes</em></p>
 
@@ -59,12 +57,9 @@ Marcada por m&iacute;stica, m&uacute;sicas, palavras de ordem, interven&ccedil;&
 <p><br />
 &ldquo;Esse per&iacute;odo de acirramento da luta de classes, exige que o conjunto da classe trabalhadora se mantenha mobilizado, denunciando os projetos de morte e anunciando os projetos de vida&rdquo;, ressalta Lucenilson Angelo, da dire&ccedil;&atilde;o nacional o MST.</p>
 
-<figure class="image" style="float:right"><img alt="13055237_1729044360673586_2260698376011113620_o.jpg" height="600" src="//farm2.staticflickr.com/1558/26565455322_af1777d605_b.jpg" width="400" />
-<figcaption></figcaption>
-</figure>
+<p>&nbsp;</p>
 
-<p><br />
-&ldquo;Para n&oacute;s, est&aacute; colocada a tarefa de dialogar com a classe trabalhadora da cidade sobre o bloqueio da reforma agr&aacute;ria, que se explicita com a &uacute;ltima decis&atilde;o do Tribunal de Contas da Uni&atilde;o (TCU) de impedir a execu&ccedil;&atilde;o do or&ccedil;amento do Incra; cobrar do governo do estado os compromissos assumidos desde mar&ccedil;o 2015, com rela&ccedil;&atilde;o &agrave;s pol&iacute;ticas p&uacute;blicas para o campo; bem como denunciar o golpe em curso a democracia brasileira, em que a postura un&acirc;nime das oligarquias do RN, envergonharam o povo potiguar no &uacute;ltimos dia 17/04&rdquo;, destaca o dirigente.</p>
+<p>&ldquo;Para n&oacute;s, est&aacute; colocada a tarefa de dialogar com a classe trabalhadora da cidade sobre o bloqueio da reforma agr&aacute;ria, que se explicita com a &uacute;ltima decis&atilde;o do Tribunal de Contas da Uni&atilde;o (TCU) de impedir a execu&ccedil;&atilde;o do or&ccedil;amento do Incra; cobrar do governo do estado os compromissos assumidos desde mar&ccedil;o 2015, com rela&ccedil;&atilde;o &agrave;s pol&iacute;ticas p&uacute;blicas para o campo; bem como denunciar o golpe em curso a democracia brasileira, em que a postura un&acirc;nime das oligarquias do RN, envergonharam o povo potiguar no &uacute;ltimos dia 17/04&rdquo;, destaca o dirigente.</p>
 
 <p><br />
 O movimento tamb&eacute;m denuncia a viol&ecirc;ncia e impunidade no campo, fazendo mem&oacute;ria e denunciando os 20 anos do Massacre de Eldorado dos Caraj&aacute;s, onde foram assassinados 21 Sem Terras no Par&aacute; e 20 anos depois s&atilde;o as mesmas posi&ccedil;&otilde;es de classe que orquestraram o assassinado, recentemente, de 2 companheiros no Paran&aacute;, bem como o assassinato da democracia, denunciam os Sem Terra.</p>
@@ -74,5 +69,9 @@ Para Angelo essa jornada ser&aacute; um marco hist&oacute;rico, tanto pelo momen
 
 <p><br />
 &ldquo;A reforma agr&aacute;ria &eacute; uma das condi&ccedil;&otilde;es concretas para enfrentar a crise econ&ocirc;mica, e garantir vida para o conjunto da sociedade brasileira, &agrave; medida que apontamos a produ&ccedil;&atilde;o de alimentos saud&aacute;veis e baratos para o povo&rdquo;, destaca.</p>
+
+<p>&nbsp;</p>
+
+<p style="text-align:center"><img alt="13055237_1729044360673586_2260698376011113620_o.jpg" height="696" src="//farm2.staticflickr.com/1558/26565455322_af1777d605_b.jpg" width="464" /></p>
 
 <p>&nbsp;</p>
