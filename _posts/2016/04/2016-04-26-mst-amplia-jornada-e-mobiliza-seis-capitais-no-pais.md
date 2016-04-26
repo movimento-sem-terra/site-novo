@@ -63,6 +63,7 @@ created_date: "2016-04-26T14:39:09-03:00"
 published: true
 releated_posts:
   - _posts/2016/03/2016-03-23-em-manifesto-povos-do-campo-e-cidade-se-posicionam-contra-o-golpe-a-midia-e-o-capitalismo-internacional.md
+section: cover
 
 ---
 <p>&nbsp;</p>
