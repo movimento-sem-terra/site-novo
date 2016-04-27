@@ -1,7 +1,7 @@
 ---
 date: "2016-04-27T16:51:47-03:00"
 tags: []
-title: Movimentos Populares lançam em Alagoas o comitê da campanha conta o uso dos agrotóxicos
+title: Alagoas lança o comitê da campanha conta o uso dos agrotóxicos
 support_line: "O lançamento ocorre na passagem da Marcha em Defesa da Reforma Agrária, da Democracia e Contra o Golpe pela Universidade, que conta com a participação de mais de 1500 trabalhadores."
 images_hd: //farm2.staticflickr.com/1570/26589155892_cfb97ca339_b.jpg
 menu: reforma agrária
@@ -19,8 +19,6 @@ published: true
 releated_posts: []
 
 ---
-<p><img alt="Comitê.jpg" height="658" src="//farm2.staticflickr.com/1570/26589155892_cfb97ca339_b.jpg" width="700" /></p>
-
 <p>&nbsp;</p>
 
 <p><em>Da P&aacute;gina do MST<br />
@@ -62,6 +60,10 @@ Participam tamb&eacute;m do lan&ccedil;amento do comit&ecirc; uma diversidade de
 
 <p><br />
 A Campanha visa combater a utiliza&ccedil;&atilde;o de agrot&oacute;xicos e a a&ccedil;&atilde;o de suas empresas (produtoras e comercializadoras), explicitando as contradi&ccedil;&otilde;es geradas pelo modelo de produ&ccedil;&atilde;o imposto pelo agroneg&oacute;cio, construindo um processo de conscientiza&ccedil;&atilde;o na sociedade sobre a amea&ccedil;a que representam os agrot&oacute;xicos, denunciando seus efeitos para a sa&uacute;de e o meio ambiente, al&eacute;m de constituir-se num espa&ccedil;o de constru&ccedil;&atilde;o de unidade entre ambientalistas, camponeses, trabalhadores urbanos, estudantes, consumidores e todos aqueles que prezam pela produ&ccedil;&atilde;o de um alimento saud&aacute;vel que respeite ao meio ambiente.</p>
+
+<p>&nbsp;</p>
+
+<p><img alt="Comitê.jpg" height="658" src="//farm2.staticflickr.com/1570/26589155892_cfb97ca339_b.jpg" width="700" /></p>
 
 <p>&nbsp;</p>
 
