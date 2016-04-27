@@ -5,7 +5,7 @@ tags:
   - tag: marcha
   - tag: democracia
 images_hd: //farm2.staticflickr.com/1502/26406034610_2e892100c8_b.jpg
-title: Juventude escracha os inimigos da reforma agrária e da democracia
+title: Juventude escracha os inimigos da Reforma Agrária e da democracia
 support_line: "Durante a marcha, foi realizado várias intervenções de escrachos a órgãos e instituições, que historicamente são responsáveis por criminalizar o MST e as lutas sociais, como a sede do Jornal Tribuna do Norte."
 menu: lutas e mobilizações
 special-page: land-reform
