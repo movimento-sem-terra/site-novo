@@ -49,7 +49,10 @@ Da P&aacute;gina do MST</em></p>
 A mesa de debates foi composta por&nbsp;<span style="line-height: 20.8px;">Keslen Mariel Muller, assentado e bolsista do projeto Resid&ecirc;ncia Agr&aacute;ria Jovem; Priscila de Oliveira, do Coletivo Nacional de Juventude do MST e Natacha Zanatta, professora da Universidade Federal de Santa Catarina&nbsp;(UFSC).</span></p>
 
 <p><br />
-<span style="line-height: 20.8px;">A atividade que contou tamb&eacute;m com a &nbsp;apresenta&ccedil;&atilde;o da pe&ccedil;a teatral,&nbsp;</span><span style="line-height: 20.8px;">&quot;A farsa da Justi&ccedil;a Burguesa&rdquo;, protagonizada pelos participantes do evento,&nbsp;</span>discutiu&nbsp;as demandas da&nbsp;juventude camponesa, o evento tamb&eacute;m abordou a viol&ecirc;ncia no campo em conson&acirc;ncia com o&nbsp;tema da Jornada que este ano foi&nbsp;<span style="line-height: 20.8px;">o Massacre de Eldorado dos Caraj&aacute;s.</span></p>
+<span style="line-height: 20.8px;">A atividade que contou tamb&eacute;m com a &nbsp;apresenta&ccedil;&atilde;o da pe&ccedil;a teatral,&nbsp;</span><span style="line-height: 20.8px;">&quot;A farsa da Justi&ccedil;a Burguesa&rdquo;, protagonizada pelos participantes do evento,&nbsp;</span>discutiu&nbsp;as demandas da&nbsp;juventude camponesa.&nbsp;</p>
+
+<p><br />
+O&nbsp;evento tamb&eacute;m abordou a viol&ecirc;ncia no campo em conson&acirc;ncia com o&nbsp;tema da Jornada que este ano foi&nbsp;<span style="line-height: 20.8px;">o Massacre de Eldorado dos Caraj&aacute;s.</span></p>
 
 <p>&nbsp;</p>
 
