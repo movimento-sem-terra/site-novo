@@ -30,7 +30,9 @@ releated_posts:
   - _posts/2016/04/2016-04-18-cientistas-politicos-criticam-argumentos-de-deputados-em-votacao-do-impeachment.md
 
 ---
-<p><img alt="26071364894_53c0c01459_z.jpg" src="//farm2.staticflickr.com/1587/26077132863_c860a42ec7_b.jpg" /></p>
+<figure class="image"><img alt="26071364894_53c0c01459_z.jpg" src="//farm2.staticflickr.com/1587/26077132863_c860a42ec7_b.jpg" />
+<figcaption>Reuni&atilde;o com presidente do Senado, Renan Calheiros (PMDB-AL) / M&iacute;dia NinjaLegenda</figcaption>
+</figure>
 
 <p>&nbsp;</p>
 
