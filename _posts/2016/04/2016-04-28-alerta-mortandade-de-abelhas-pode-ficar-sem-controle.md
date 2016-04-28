@@ -94,6 +94,8 @@ De acordo com Boni, as abelhas s&atilde;o fundamentais no processo de poliniza&c
 <p><br />
 Como resultados dos efeitos que os agrot&oacute;xicos e a soja transg&ecirc;nica t&ecirc;m causado na Campanha, os engenheiros tamb&eacute;m citam a degrada&ccedil;&atilde;o do solo, a supress&atilde;o das pastagens nativas e a diminui&ccedil;&atilde;o da renda das fam&iacute;lias assentadas, uma vez que atinge, de forma indiscriminada, outros tipos de cultivos. Conforme o assentado em Hulha Negra, Elio Francisco Anschau, nos &uacute;ltimos tr&ecirc;s anos t&ecirc;m sido cada vez mais dif&iacute;cil obter renda com a apicultura e manter a sua produ&ccedil;&atilde;o, de tr&ecirc;s hectares, de milho crioulo e de alimentos agroecol&oacute;gicos.</p>
 
+<p>&nbsp;</p>
+
 <figure class="image"><img alt="Engenheiro agrônomo Maurício Boni.JPG" height="467" src="//farm2.staticflickr.com/1567/26090782343_2e7a49d2b5_b.jpg" width="700" />
 <figcaption>Engenheiro agr&ocirc;nomo Maur&iacute;cio Boni: &quot;os n&iacute;veis de produ&ccedil;&atilde;o e diversidade ficam comprometidos na medida que n&atilde;o h&aacute; abelhas&quot;.</figcaption>
 </figure>
@@ -126,6 +128,8 @@ Uma das principais queixas dos assentados se refere ao descaso dos &oacute;rg&at
 <figure class="image"><img alt="Matéria II - O assentado Amarildo Zanovello diz que há ineficiência e inoperância dos órgãos públicos em relação aos problemas enfrentados pelos apicultores.JPG" height="750" src="//farm2.staticflickr.com/1450/26089209594_4a3eea269b_b.jpg" width="500" />
 <figcaption>O assentado em Candiota, Amarildo Zanovello denuncia a inoper&acirc;ncia dos &oacute;rg&atilde;os competentes.</figcaption>
 </figure>
+
+<p>&nbsp;</p>
 
 <p>Amarildo Zanovello, assentado em Candiota, tamb&eacute;m chama a aten&ccedil;&atilde;o para a inefici&ecirc;ncia e a inoper&acirc;ncia dos &oacute;rg&atilde;os p&uacute;blicos em rela&ccedil;&atilde;o aos problemas enfrentados pelos apicultores. &ldquo;Deixei as abelhas mortas dois meses no freezer, esperando retorno do Ibama e da Secretaria do Meio Ambiente, que ficaram de indicar algum laborat&oacute;rio para analisar o tipo de produto que est&aacute; causando essas mortes. At&eacute; hoje n&atilde;o tive retorno de nenhum &oacute;rg&atilde;o. N&atilde;o temos prote&ccedil;&atilde;o nem respeito, porque o agroneg&oacute;cio n&atilde;o tem limites com a produ&ccedil;&atilde;o que est&aacute; no seu no entorno, muito menos com as pessoas que t&ecirc;m outro sistema de produ&ccedil;&atilde;o sem veneno&rdquo;, completa.</p>
 
