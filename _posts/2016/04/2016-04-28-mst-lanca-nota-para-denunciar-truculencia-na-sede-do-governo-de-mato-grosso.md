@@ -35,10 +35,13 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p>O MST no Mato Grosso lan&ccedil;ou na manh&atilde; desta quinta-feira (28) uma nota para expor a situa&ccedil;&atilde;o de trucul&ecirc;ncia envolvendo a Secretaria de Educa&ccedil;&atilde;o do Governo do Estado de Mato Grosso. Ap&oacute;s percorrerem em marcha a sede do Governo para protocolarem suas pautas, os militantes foram recebidos com armas por parte dos seguran&ccedil;as, ignorando a presen&ccedil;a de crian&ccedil;as na mobiliza&ccedil;&atilde;o. Confira o texto completo divulgado pelo Movimento:</p>
+<p>O MST no Mato Grosso lan&ccedil;ou na manh&atilde; desta quinta-feira (28) uma nota para expor a situa&ccedil;&atilde;o de trucul&ecirc;ncia envolvendo a Secretaria de Educa&ccedil;&atilde;o do Governo do Estado de Mato Grosso. Ap&oacute;s percorrerem em marcha a sede do Governo para protocolarem suas pautas, os militantes foram recebidos com armas por parte dos seguran&ccedil;as, ignorando a presen&ccedil;a de crian&ccedil;as na mobiliza&ccedil;&atilde;o.</p>
+
+<p><br />
+Confira o texto completo divulgado pelo Movimento:</p>
 
 <p style="text-align: center;"><br />
-NOTA DE ESCLARECIMENTO DO MST</p>
+<strong>NOTA DE ESCLARECIMENTO DO MST</strong></p>
 
 <p><br />
 Nesta manh&atilde;, 28 de abril, a Marcha &ldquo;POR REFORMA AGR&Aacute;RIA, DEMOCRACIA E CONTRA A IMPUNIDADE&rdquo; dos Trabalhadores e Trabalhadoras Sem Terra De Mato Grosso (MST MT), aproximadamente 500 pessoas, percorreu o Centro Pol&iacute;tico Administrativo do Governo para&nbsp; protocolar a pauta de reivindica&ccedil;&otilde;es.</p>
