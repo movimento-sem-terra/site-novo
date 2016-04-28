@@ -9,15 +9,21 @@ title: MST lança nota para denunciar truculência na sede do Governo de Mato Gr
 support_line: "Após percorrerem em marcha a sede do Governo para protocolarem suas pautas, os militantes foram recebidos com armas por parte dos seguranças, ignorando a presença de crianças na mobilização."
 menu: direitos humanos
 special-page: land-reform
-images_hd: //farm2.staticflickr.com/1493/26091302293_8925e72eb3_b.jpg
+images_hd: //farm2.staticflickr.com/1586/26423093060_25b616e86f_b.jpg
 layout: post
 files:
-  - link: //farm2.staticflickr.com/1493/26091302293_8925e72eb3_b.jpg
-    thumbnail: //farm2.staticflickr.com/1493/26091302293_8925e72eb3_t.jpg
-    medium: //farm2.staticflickr.com/1493/26091302293_8925e72eb3_z.jpg
-    small: //farm2.staticflickr.com/1493/26091302293_8925e72eb3_n.jpg
-    title: mstilustr.jpg
-    $$hashKey: 17J
+  - link: //farm2.staticflickr.com/1586/26423093060_25b616e86f_b.jpg
+    thumbnail: //farm2.staticflickr.com/1586/26423093060_25b616e86f_t.jpg
+    medium: //farm2.staticflickr.com/1586/26423093060_25b616e86f_z.jpg
+    small: //farm2.staticflickr.com/1586/26423093060_25b616e86f_n.jpg
+    title: WhatsApp-Image-20160428.jpg
+    $$hashKey: 05P
+  - link: //farm2.staticflickr.com/1565/26423097560_ee657a6e0e_b.jpg
+    thumbnail: //farm2.staticflickr.com/1565/26423097560_ee657a6e0e_t.jpg
+    medium: //farm2.staticflickr.com/1565/26423097560_ee657a6e0e_z.jpg
+    small: //farm2.staticflickr.com/1565/26423097560_ee657a6e0e_n.jpg
+    title: WhatsApp-Image-20160428(1).jpg
+    $$hashKey: 05S
 created_date: "2016-04-28T12:22:03-03:00"
 published: true
 releated_posts:
@@ -29,6 +35,8 @@ releated_posts:
   - _posts/2015/08/2015-08-24-sem-terra-ocupam-mais-uma-fazenda-em-mato-grosso.md
 
 ---
+<p><img alt="WhatsApp-Image-20160428(1).jpg" height="525" src="//farm2.staticflickr.com/1565/26423097560_ee657a6e0e_b.jpg" width="700" /></p>
+
 <p>&nbsp;</p>
 
 <p><em>Da P&aacute;gina do MST</em></p>
