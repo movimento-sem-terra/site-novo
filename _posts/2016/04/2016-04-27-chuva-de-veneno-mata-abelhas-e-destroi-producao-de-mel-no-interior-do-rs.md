@@ -80,7 +80,7 @@ A partir de hoje, publicaremos a s&eacute;rie &ldquo;Tem veneno no seu mel&rdquo
 &nbsp;</p>
 
 <figure class="image"><img alt="Matéria I - Seu João Machado perdeu todas as colmeias em poucas horas, após perceber que vizinhos passavam veneno nas lavouras.jpg" height="467" src="//farm2.staticflickr.com/1649/26404016910_5448fdd4fd_b.jpg" width="700" />
-<figcaption>Seu Jo&atilde;o Machado perdeu todas as colmeias em poucas horas, ap&oacute;s perceber que vizinhos passavam veneno nas lavouras</figcaption>
+<figcaption>Seu Jo&atilde;o Camargo perdeu todas as colmeias em poucas horas, ap&oacute;s perceber que vizinhos passavam veneno nas lavouras</figcaption>
 </figure>
 
 <p><br />
@@ -90,10 +90,10 @@ A partir de hoje, publicaremos a s&eacute;rie &ldquo;Tem veneno no seu mel&rdquo
 A morte repentina e em massa, de abelhas, tem preocupado apicultores assentados da reforma agr&aacute;ria da regi&atilde;o da Campanha. A fatalidade, que se intensificou nos &uacute;ltimos tr&ecirc;s anos, mostra que h&aacute; fortes ind&iacute;cios de estar relacionada ao monocultivo de soja transg&ecirc;nica e ao uso abusivo de agrot&oacute;xicos.</p>
 
 <p><br />
-Assentado no munic&iacute;pio de Hulha Negra, seu Jo&atilde;o Carlos Machado, 55 anos, trabalha com produ&ccedil;&atilde;o de mel h&aacute; mais de tr&ecirc;s d&eacute;cadas. Ele conta que, com o passar dos anos, perdeu algumas abelhas por quest&otilde;es naturais e clim&aacute;ticas, mas nada comparado ao ocorrido nos &uacute;ltimos tr&ecirc;s anos, quando se intensificou o plantio de soja transg&ecirc;nica em toda a regi&atilde;o.</p>
+Assentado no munic&iacute;pio de Hulha Negra, seu Jo&atilde;o Carlos Camargo, 55 anos, trabalha com produ&ccedil;&atilde;o de mel h&aacute; mais de tr&ecirc;s d&eacute;cadas. Ele conta que, com o passar dos anos, perdeu algumas abelhas por quest&otilde;es naturais e clim&aacute;ticas, mas nada comparado ao ocorrido nos &uacute;ltimos tr&ecirc;s anos, quando se intensificou o plantio de soja transg&ecirc;nica em toda a regi&atilde;o.</p>
 
 <p><br />
-&ldquo;Quando se trabalha com abelhas &eacute; normal ter alguma perda por ataques de insetos ou falta de alimentos, mas nos &uacute;ltimos anos tive perda total das colmeias e de forma diferente das outras situa&ccedil;&otilde;es, pois elas estavam em &oacute;timas condi&ccedil;&otilde;es&rdquo;, explica Machado.</p>
+&ldquo;Quando se trabalha com abelhas &eacute; normal ter alguma perda por ataques de insetos ou falta de alimentos, mas nos &uacute;ltimos anos tive perda total das colmeias e de forma diferente das outras situa&ccedil;&otilde;es, pois elas estavam em &oacute;timas condi&ccedil;&otilde;es&rdquo;, explica Camargo.</p>
 
 <p><br />
 A primeira morte em massa das colmeias do assentado ocorreu em 2014, quando, em trabalho de monitoramento, percebeu que havia algo anormal com as abelhas. Naquele ano, ele perdeu suas 30 colmeias, o que correspondeu a cerca de 2 mil quilos de mel n&atilde;o colhidos.</p>
