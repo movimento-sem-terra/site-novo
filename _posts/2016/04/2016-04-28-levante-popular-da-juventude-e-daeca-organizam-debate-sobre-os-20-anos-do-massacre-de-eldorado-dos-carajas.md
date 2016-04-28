@@ -4,7 +4,7 @@ tags:
   - tag: levante-popular-da-juventude
   - tag: juventude
   - tag: massacre-de-eldorado-dos-carajás
-title: Levante Popular da Juventude e DAECA organizam debate sobre os 20 anos do Massacre de Eldorado dos Carajás
+title: Levante Popular da Juventude e DAECA organizam debate no RS
 menu: "educação, cultura e comunicação"
 images_hd: //farm2.staticflickr.com/1456/26695291025_4857b8a61a_b.jpg
 support_line: "O debate passou pela atual conjuntura brasileira, pela repressão aos movimentos sociais e pela luta pela terra no Brasil. "
@@ -62,14 +62,22 @@ A atividade, organizada pelo Levante Popular da Juventude e DAECA, contou com a 
 O debate passou pela atual conjuntura brasileira, pela repress&atilde;o aos movimentos sociais e pela luta pela terra no Brasil. Anelise Bernardy, do Levante Popular da Juventude e estudante de Ci&ecirc;ncias Sociais na UFRGS, abriu o encontro refor&ccedil;ando a necessidade de construir espa&ccedil;os para conversar e acolher os movimentos sociais na universidade.</p>
 
 <p><br />
-Como anda a luta pela terra? Como o MST v&ecirc; a atual conjuntura? Qual o projeto do Movimento Sem Terra para o Brasil? Como a universidade pode colaborar? Estas foram algumas das perguntas disparadoras do debate.<br />
+Como anda a luta pela terra? Como o MST v&ecirc; a atual conjuntura? Qual o projeto do Movimento Sem Terra para o Brasil? Como a universidade pode colaborar? Estas foram algumas das perguntas disparadoras do debate.</p>
+
+<p><br />
 Em 17 de abril de 1996, no munic&iacute;pio de Eldorado dos Caraj&aacute;s, no Sul do Par&aacute;, o MST enfrentava o latif&uacute;ndio de frente. Nesse dia, a bra&ccedil;os com a Pol&iacute;cia Militar, o latif&uacute;ndio matou 19 militantes Sem Terra.</p>
 
 <p><br />
-Este foi um massacre de ampla repercuss&atilde;o a n&iacute;vel internacional, mas a impunidade continua at&eacute; aos dias de hoje, uma vez que os mentores nunca foram julgados: o ent&atilde;o presidente da Rep&uacute;blica Fernando Henrique Cardoso; o ex-governador do Par&aacute;, Almir Gabriel, que determinou a a&ccedil;&atilde;o; o coronel M&aacute;rio Pantoja, que deu ordem para atirar; e a mineradora Vale que, segundo os autos de investiga&ccedil;&atilde;o, financiou o massacre. Entre 1995 e 1997, se consolidava no Brasil a implanta&ccedil;&atilde;o do neoliberalismo. Os petroleiros faziam greve e o ex&eacute;rcito sa&iacute;a &agrave;s ruas para reprimir os movimentos sociais. A mineradora Vale era privatizada.</p>
+Este foi um massacre de ampla repercuss&atilde;o a n&iacute;vel internacional, mas a impunidade continua at&eacute; aos dias de hoje, uma vez que os mentores nunca foram julgados: o ent&atilde;o presidente da Rep&uacute;blica Fernando Henrique Cardoso; o ex-governador do Par&aacute;, Almir Gabriel, que determinou a a&ccedil;&atilde;o; o coronel M&aacute;rio Pantoja, que deu ordem para atirar; e a mineradora Vale que, segundo os autos de investiga&ccedil;&atilde;o, financiou o massacre.</p>
 
 <p><br />
-&ldquo;O recente assassinato de dois Sem Terra pela Pol&iacute;cia Militar do Paran&aacute;, no dia 7 de abril, nos leva a pensar na repress&atilde;o, criminaliza&ccedil;&atilde;o e viol&ecirc;ncia contra os movimentos sociais como ferramenta necess&aacute;ria para aplicar um determinado modelo econ&ocirc;mico. A viol&ecirc;ncia ataca os empobrecidos, os ind&iacute;genas, os negros, mas n&atilde;o &eacute; por isso que a luta para&rdquo;, disse Braga. &ldquo;A luta por terra n&atilde;o come&ccedil;ou com o MST e &eacute; uma luta pesada. Muitos companheiros foram mortos&rdquo;, acrescentou.</p>
+Entre 1995 e 1997, se consolidava no Brasil a implanta&ccedil;&atilde;o do neoliberalismo. Os petroleiros faziam greve e o ex&eacute;rcito sa&iacute;a &agrave;s ruas para reprimir os movimentos sociais. A mineradora Vale era privatizada.</p>
+
+<p><br />
+&ldquo;O recente assassinato de dois Sem Terra pela Pol&iacute;cia Militar do Paran&aacute;, no dia 7 de abril, nos leva a pensar na repress&atilde;o, criminaliza&ccedil;&atilde;o e viol&ecirc;ncia contra os movimentos sociais como ferramenta necess&aacute;ria para aplicar um determinado modelo econ&ocirc;mico.</p>
+
+<p><br />
+A viol&ecirc;ncia ataca os empobrecidos, os ind&iacute;genas, os negros, mas n&atilde;o &eacute; por isso que a luta para&rdquo;, disse Braga. &ldquo;A luta por terra n&atilde;o come&ccedil;ou com o MST e &eacute; uma luta pesada. Muitos companheiros foram mortos&rdquo;, acrescentou.</p>
 
 <p>&nbsp;</p>
 
@@ -88,7 +96,9 @@ Na contram&atilde;o de um processo de transforma&ccedil;&atilde;o do modelo de a
 No in&iacute;cio deste m&ecirc;s, depois da presidenta Dilma Rousseff assinar 25 decretos para desapropria&ccedil;&atilde;o de 56 mil hectares que seriam destinados &agrave; Reforma Agr&aacute;ria e &agrave; regulariza&ccedil;&atilde;o de territ&oacute;rios Quilombolas, a grande m&iacute;dia fez uma reportagem falando de irregularidades nos lotes ,e o Tribunal de Contas da Uni&atilde;o (TCU) suspende a concess&atilde;o de benef&iacute;cios. &ldquo;A elite nos ataca constantemente. O TCU bloqueou todos os recursos para a Reforma Agr&aacute;ria, que chegam por meio de editais&rdquo;, explicou Braga.</p>
 
 <p><br />
-Para o agroec&oacute;logo do MST, a Reforma Agr&aacute;ria &eacute; uma das transforma&ccedil;&otilde;es necess&aacute;rias, tanto para &ldquo;travar o envenenamento das pessoas e da terra, como para distribuir riqueza&rdquo;. No entanto, n&atilde;o basta faz&ecirc;-la e n&atilde;o mudar os modelos de desenvolvimento, n&atilde;o acabar com o capitalismo. &ldquo;Nosso enfoque &eacute; em cima do modelo de desenvolvimento que se aplica, que expulsa as pessoas da sua terra e que gera lucro para meia d&uacute;zia. N&atilde;o &eacute; s&oacute; o modelo de desenvolvimento da agricultura, mas tamb&eacute;m da energia, de explora&ccedil;&atilde;o de min&eacute;rio&rdquo;, argumentou.<br />
+Para o agroec&oacute;logo do MST, a Reforma Agr&aacute;ria &eacute; uma das transforma&ccedil;&otilde;es necess&aacute;rias, tanto para &ldquo;travar o envenenamento das pessoas e da terra, como para distribuir riqueza&rdquo;.<br />
+<br />
+No&nbsp;entanto, n&atilde;o basta faz&ecirc;-la e n&atilde;o mudar os modelos de desenvolvimento, n&atilde;o acabar com o capitalismo. &ldquo;Nosso enfoque &eacute; em cima do modelo de desenvolvimento que se aplica, que expulsa as pessoas da sua terra e que gera lucro para meia d&uacute;zia. N&atilde;o &eacute; s&oacute; o modelo de desenvolvimento da agricultura, mas tamb&eacute;m da energia, de explora&ccedil;&atilde;o de min&eacute;rio&rdquo;, argumentou.<br />
 <br />
 Hoje, o projeto de Reforma Agr&aacute;ria Popular do MST prev&ecirc; um novo modelo de desenvolvimento econ&ocirc;mico ancorado em quest&otilde;es sociais e ambientais, sustentado na agroecologia. Conforme Barga, &ldquo;as reformas s&atilde;o necess&aacute;rias para um pa&iacute;s mais justo, mas sem luta n&atilde;o vai haver mudan&ccedil;a&rdquo;.</p>
 
@@ -103,7 +113,9 @@ Hoje, o projeto de Reforma Agr&aacute;ria Popular do MST prev&ecirc; um novo mod
 Para onde vai a crise econ&ocirc;mica e pol&iacute;tica? Quais os pr&oacute;ximos passos? Estas foram perguntas que surgiram entre os estudantes presentes no debate. Integrando a Frente Brasil Popular, para o MST a luta atual deve se sustentar na defesa da democracia. Nas palavras de Braga, &ldquo;n&atilde;o houve crime de responsabilidade. Se trata de um golpe, de uma a&ccedil;&atilde;o de um grupo financiado por empres&aacute;rios&rdquo;.</p>
 
 <p><br />
-Esta a&ccedil;&atilde;o com o objetivo de derrubar Dilma e a prov&aacute;vel instaura&ccedil;&atilde;o de um governo liderado por Michel Temer, representa uma vit&oacute;ria do modelo neoliberal. &ldquo;A Ponte Para o Futuro, programa para um governo PMDB, que j&aacute; circula pelos meios de comunica&ccedil;&atilde;o, pretende resolver a crise com arrocho e corte nos direitos trabalhistas, &eacute; ponte para um futuro que beneficia meia d&uacute;zia e quer tirar dos empobrecidos&rdquo;, afirmou.</p>
+Esta a&ccedil;&atilde;o com o objetivo de derrubar Dilma e a prov&aacute;vel instaura&ccedil;&atilde;o de um governo liderado por Michel Temer, representa uma vit&oacute;ria do modelo neoliberal.<br />
+<br />
+&ldquo;A Ponte Para o Futuro, programa para um governo PMDB, que j&aacute; circula pelos meios de comunica&ccedil;&atilde;o, pretende resolver a crise com arrocho e corte nos direitos trabalhistas, &eacute; ponte para um futuro que beneficia meia d&uacute;zia e quer tirar dos empobrecidos&rdquo;, afirmou.</p>
 
 <p><br />
 O agroec&oacute;logo lembrou ainda que o pr&eacute;-sal brasileiro, que financia sa&uacute;de e educa&ccedil;&atilde;o, tamb&eacute;m est&aacute; em risco. A privatiza&ccedil;&atilde;o de empresas, como a Petrobras, &eacute; apresentada como solu&ccedil;&atilde;o para a crise por setores da burguesia e da pol&iacute;tica brasileira.</p>
