@@ -6,7 +6,7 @@ tags:
   - tag: projeto-popular
   - tag: educação
 images_hd: //farm2.staticflickr.com/1589/26110624703_15e09a7082_b.jpg
-title: "No Pará, I Jornada Universitária debate a reforma agrária na Amazônia"
+title: "No Pará, I Jornada Universitária debate a Reforma Agrária na Amazônia"
 menu: "educação, cultura e comunicação"
 support_line: Temas como a questão agrária no Brasil e na Amazônia e diversidade e desafios da reforma agrária foram debatidos nos dois dias de jornada.
 layout: post
