@@ -34,7 +34,7 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p><em>Por Catiana de Medeiros<br />
+<p><em>Por&nbsp;Solange Engelmann<br />
 Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
