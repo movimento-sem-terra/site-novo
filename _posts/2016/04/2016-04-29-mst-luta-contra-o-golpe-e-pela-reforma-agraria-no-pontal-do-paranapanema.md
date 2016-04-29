@@ -28,7 +28,7 @@ releated_posts:
   - _posts/2015/07/2015-07-15-sem-terra-ocupam-o-itesp-para-cobrar-destinacao-de-terras-para-reforma-agraria.md
 
 ---
-<p>&nbsp;</p>
+<p><img alt="20160429071229.jpg" height="642" src="//farm2.staticflickr.com/1686/26105906464_df72a497a6_b.jpg" width="700" /></p>
 
 <p>&nbsp;</p>
 
