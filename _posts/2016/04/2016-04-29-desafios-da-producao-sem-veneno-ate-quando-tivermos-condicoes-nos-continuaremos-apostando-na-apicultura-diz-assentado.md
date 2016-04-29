@@ -37,6 +37,7 @@ releated_posts:
   - _posts/2015/08/2015-08-10-al-rs-debate-agrotoxicos-nao-e-justo-propagar-o-cancer-em-nome-do-lucro-de-meia-duzia.md
   - _posts/2016/04/2016-04-27-chuva-de-veneno-mata-abelhas-e-destroi-producao-de-mel-no-interior-do-rs.md
   - _posts/2016/04/2016-04-28-alerta-mortandade-de-abelhas-pode-ficar-sem-controle.md
+section: cover
 
 ---
 <p style="line-height: 20.8px;">&nbsp;</p>
