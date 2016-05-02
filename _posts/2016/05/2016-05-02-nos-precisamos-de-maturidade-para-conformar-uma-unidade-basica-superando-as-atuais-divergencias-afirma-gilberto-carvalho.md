@@ -4,7 +4,7 @@ tags:
   - tag: democracia
   - tag: legalidade
   - tag: contra-o-golpe
-title: "\"Nós precisamos de maturidade para conformar uma unidade básica, superando as atuais divergências\", afirma Gilberto Carvalho"
+title: "\" A elite brasileira que entrou na história do golpe não o fez sem cobrar um preço\", afirma Gilberto Carvalho"
 support_line: "Para o ex-ministro, a elite interessada no golpe parlamentar visa excluir o povo da esfera de controle sobre s direitos sociais e bens nacionais."
 images_hd: //farm9.staticflickr.com/8564/26166563174_d1ec559895_b.jpg
 menu: lutas e mobilizações
