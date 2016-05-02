@@ -38,20 +38,20 @@ releated_posts:
 <p><em>Da P&aacute;gina do MST<br />
 Por Aline Oliveira</em></p>
 
-<p>&nbsp;</p>
-
 <p><br />
 Na manh&atilde; desta segunda-feira (2), cerca de 600&nbsp;Sem Terra ocuparam o pal&aacute;cio do Governo do Estado do Cear&aacute;. A principal reivindica&ccedil;&atilde;o &eacute; uma audi&ecirc;ncia imediata com o governador do estado Camilo Santana (PT-CE).</p>
 
 <p><br />
-Desde o dia (28), os Sem Terra est&atilde;o acampados na sede do Instituto de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra)&nbsp;em um acampamento montado&nbsp;na avenida Jos&eacute; Bastos. Desde ent&atilde;o,&nbsp;uma s&eacute;rie de audi&ecirc;ncias est&atilde;o sendo realizadas com o&nbsp;intuito de negociar a pauta apresentada pelos trabalhadores. As reuni&otilde;es j&aacute; aconteceram com as secretarias de Cidades, Educa&ccedil;&atilde;o, Cultura e juventude.</p>
+Desde o dia (28), os Sem Terra est&atilde;o acampados na sede do Instituto de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra)&nbsp;em um acampamento montado&nbsp;na avenida Jos&eacute; Bastos. Desde ent&atilde;o,&nbsp;uma s&eacute;rie de audi&ecirc;ncias est&atilde;o sendo realizadas com o&nbsp;intuito de negociar a pauta apresentada pelos trabalhadores. As reuni&otilde;es j&aacute; aconteceram com as secretarias de Cidades, Educa&ccedil;&atilde;o, Cultura e Juventude.</p>
 
 <figure class="image" style="float:right"><img alt="IMG_20160502_075440439.jpg" height="169" src="//farm2.staticflickr.com/1503/26170604504_66d3a3c01f_b.jpg" width="300" />
 <figcaption></figcaption>
 </figure>
 
 <p><br />
-A audi&ecirc;ncia com o governador t de negociar pautas relacem o objetdas a quest&atilde;o da seca que j&aacute; se prorroga por cinco anos. Tamb&eacute;m cobram projetos produtivos e desapropria&ccedil;&atilde;o de terras pelo governo do estado, atrav&eacute;s de conv&ecirc;nio.</p>
+Al&eacute;m de&nbsp;<span style="line-height: 20.8px;">cobrar</span><span style="line-height: 20.8px;">&nbsp;projetos produtivos e de desapropria&ccedil;&atilde;o de terras, o</span>s Sem Terra pretendem negociar pautas referentes &agrave;&nbsp;seca que afeta os assentamentos da regi&atilde;o&nbsp;h&aacute;&nbsp;cinco anos.&nbsp;</p>
 
 <p><br />
-Para Denilson Alves, assentado no assentamento S&atilde;o Manoel em Tamboril, &quot;esperamos que a nossa pauta seja negociada e que tenhamos boas respostas. Infelizmente nos &uacute;ltimos tempos o governador tem se comprometido em resolver nossas reivindica&ccedil;&otilde;es, mas nada tem avan&ccedil;ado. Portanto exigimos uma audi&ecirc;ncia imediata com o governador&quot;.</p>
+Para Denilson Alves, do assentamento S&atilde;o Manoel em Tamboril, as&nbsp;a&ccedil;&otilde;es s&atilde;o para cobrar do Estado o cumprimento das promessas feitas aos Sem Terra.</p>
+
+<p>&quot;Esperamos que a nossa pauta seja negociada e que tenhamos boas respostas. Infelizmente nos &uacute;ltimos tempos o governador tem se comprometido em resolver nossas reivindica&ccedil;&otilde;es, mas nada tem avan&ccedil;ado. Portanto exigimos uma audi&ecirc;ncia imediata com o governador&quot;, finalizou.</p>
