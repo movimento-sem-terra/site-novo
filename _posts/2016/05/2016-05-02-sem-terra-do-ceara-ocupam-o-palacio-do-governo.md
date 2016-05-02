@@ -4,7 +4,7 @@ tags:
   - tag: ceará
   - tag: governo
   - tag: ocupação
-title: Sem Terra ocupam o palácio do governo no Ceará
+title: Sem Terra ocupam o palácio da Abolição no Ceará
 menu: lutas e mobilizações
 images_hd: //farm8.staticflickr.com/7041/26170538184_5c7bea0d72_b.jpg
 support_line: A principal reivindicação é uma audiência imediata com o governador do estado Camilo Santana.
