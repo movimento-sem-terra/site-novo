@@ -54,4 +54,5 @@ Al&eacute;m de&nbsp;<span style="line-height: 20.8px;">cobrar</span><span style=
 <p><br />
 Para Denilson Alves, do assentamento S&atilde;o Manoel em Tamboril, as&nbsp;a&ccedil;&otilde;es s&atilde;o para cobrar do Estado o cumprimento das promessas feitas aos Sem Terra.</p>
 
-<p>&quot;Esperamos que a nossa pauta seja negociada e que tenhamos boas respostas. Infelizmente nos &uacute;ltimos tempos o governador tem se comprometido em resolver nossas reivindica&ccedil;&otilde;es, mas nada tem avan&ccedil;ado. Portanto exigimos uma audi&ecirc;ncia imediata com o governador&quot;, finalizou.</p>
+<p><br />
+&quot;Esperamos que a nossa pauta seja negociada e que tenhamos boas respostas. Nos &uacute;ltimos tempos o governador tem se comprometido em resolver nossas reivindica&ccedil;&otilde;es, mas, infelizmente,&nbsp;em nada tem avan&ccedil;ado, finalizou.</p>
