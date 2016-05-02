@@ -7,7 +7,7 @@ tags:
   - tag: democracia
 title: "Em Porto Alegre, Prêmio Nobel da Paz denuncia golpe brando contra a democracia brasileira"
 support_line: O argentino Adolfo Pérez Esquivel veio ao Brasil a convite do MST e participou do Ato Unificado do 1º de Maio na Capital gaúcha.
-images_hd: //farm8.staticflickr.com/7391/26173309194_08099f9336_b.jpg
+images_hd: //farm8.staticflickr.com/7182/26779284325_18646076af_b.jpg
 menu: solidariedade
 layout: post
 files:
@@ -23,6 +23,12 @@ files:
     small: //farm8.staticflickr.com/7067/26778890445_290cd7dc11_n.jpg
     title: Esquivel fez palestra sobre Direitos Humanos e Democracia na América Latina. Foto Leandro Molina.jpg
     $$hashKey: 085
+  - link: //farm8.staticflickr.com/7182/26779284325_18646076af_b.jpg
+    thumbnail: //farm8.staticflickr.com/7182/26779284325_18646076af_t.jpg
+    medium: //farm8.staticflickr.com/7182/26779284325_18646076af_z.jpg
+    small: //farm8.staticflickr.com/7182/26779284325_18646076af_n.jpg
+    title: "No Ato Unificado do 1 de Maio, Esquivel motivou o povo brasileiro a continuar sua luta em defesa da democracia. Foto Thiago Koche.JPG"
+    $$hashKey: 05F
 created_date: "2016-05-02T17:07:47-03:00"
 published: true
 releated_posts:
@@ -59,9 +65,15 @@ Diante da conjuntura pol&iacute;tica que vive o Brasil, Esquivel afirmou que o g
 O ativista de direitos humanos ganhou o Pr&ecirc;mio Nobel da Paz em 1980. Ele declarou que veio ao Brasil como &ldquo;irm&atilde;o&rdquo; para defender os direitos humanos e sociais e que o povo da Am&eacute;rica Latina precisa reagir aos ataques que vem sofrendo. Esquivel ainda apontou que a organiza&ccedil;&atilde;o social deve ser diversa e criticou o &ldquo;monocultivo de mentes&rdquo;. &ldquo;A domina&ccedil;&atilde;o come&ccedil;a pela cultura, e necessitamos de resist&ecirc;ncia para caminhos alternativos. Temos que replantar uma nova democracia&rdquo;, disse.</p>
 
 <p><br />
-Neste domingo, o argentino participou do Ato Unificado do 1&ordm; de Maio, no Parque da Reden&ccedil;&atilde;o. Ele definiu a data como um dia que marca a luta por uma vida mais digna. Segundo ele, &ldquo;o povo tem direito &agrave; sua soberania e &agrave; um desenvolvimento mais justo, e n&atilde;o &agrave; imposi&ccedil;&atilde;o do autoritarismo&rdquo;. &ldquo;Muita for&ccedil;a e esperan&ccedil;a ao povo brasileiro. Estejamos sempre de p&eacute; para defender nossa soberania&rdquo;, motivou.<br />
+Neste domingo, o argentino participou do Ato Unificado do 1&ordm; de Maio, no Parque da Reden&ccedil;&atilde;o. Ele definiu a data como um dia que marca a luta por uma vida mais digna. Segundo ele, &ldquo;o povo tem direito &agrave; sua soberania e &agrave; um desenvolvimento mais justo, e n&atilde;o &agrave; imposi&ccedil;&atilde;o do autoritarismo&rdquo;. &ldquo;Muita for&ccedil;a e esperan&ccedil;a ao povo brasileiro. Estejamos sempre de p&eacute; para defender nossa soberania&rdquo;, motivou.</p>
+
+<p><br />
 <br />
 &nbsp;</p>
+
+<figure class="image"><img alt="No Ato Unificado do 1 de Maio, Esquivel motivou o povo brasileiro a continuar sua luta em defesa da democracia. Foto Thiago Koche.JPG" height="467" src="//farm8.staticflickr.com/7182/26779284325_18646076af_b.jpg" width="700" />
+<figcaption>No Ato Unificado do 1 de Maio, Esquivel motivou o povo brasileiro a continuar sua luta em defesa da democracia. Foto Thiago Koche</figcaption>
+</figure>
 
 <p><br />
 Depois do ato, acompanhando do dirigente estadual do MST, Cedenir de Oliveira, Esquivel visitou o Assentamento Capela no munic&iacute;pio de Nova Santa Rita, onde provou alimentos org&acirc;nicos da reforma agr&aacute;ria e conheceu a estrutura da Cooperativa de Produ&ccedil;&atilde;o Agropecu&aacute;ria Nova Santa Rita (Coopan). Integrantes do MST tamb&eacute;m apresentaram a ele a tradi&ccedil;&atilde;o ga&uacute;cha e m&uacute;sicas que acompanham as lutas do Movimento.</p>
