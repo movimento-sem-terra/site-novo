@@ -7,7 +7,7 @@ tags:
 images_hd: //farm8.staticflickr.com/7056/26175370123_949fdd191f_b.jpg
 menu: projeto popular
 section: featured-news
-title: "Dirigente do MST vê rompimento da Constituição, e Contag espera 'disputa nas ruas'"
+title: Dirigente do MST vê rompimento da Constituição
 support_line: "O dirigente do MST acredita que o \"cretinismo político\" demonstrado pela Câmara na votação de 17 de abril e o comportamento do Judiciário são \"pedagógicos\", em certa medida."
 layout: post
 files:
