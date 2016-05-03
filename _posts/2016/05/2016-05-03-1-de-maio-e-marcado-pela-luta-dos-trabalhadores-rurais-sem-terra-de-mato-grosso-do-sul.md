@@ -4,7 +4,7 @@ tags:
   - tag: reforma-agrária
   - tag: ocupação
   - tag: mato-grosso
-title: 1° de Maio é marcado pela luta dos trabalhadores rurais Sem Terra de Mato Grosso do Sul
+title: 1° de Maio é marcado pela luta dos Sem Terra no Mato Grosso do Sul
 images_hd: //farm8.staticflickr.com/7592/26189831323_6cfd587d0d_b.jpg
 support_line: Duas grandes ações foram realizadas no estado para refirmar a luta pela Reforma Agrária MT
 menu: lutas e mobilizações
