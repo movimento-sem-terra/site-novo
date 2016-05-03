@@ -84,4 +84,4 @@ A deputada disse que: &ldquo;h&aacute; dezenas de fazendas improdutivas na regi&
 <p style="text-align:center"><img alt="Acampamento Olga Benário (4).jpg" height="338" src="//farm8.staticflickr.com/7587/26726528651_6e757c1b70_b.jpg" width="600" /></p>
 
 <p><br />
-O Movimento reafirma sua posi&ccedil;&atilde;o&nbsp;no campo em defesa da Reforma Agr&aacute;ria Popular, da demarca&ccedil;&atilde;o de terras ind&iacute;genas, da democracia.</p>
+O Movimento reafirma sua posi&ccedil;&atilde;o&nbsp;no campo em defesa da Reforma Agr&aacute;ria Popular, da demarca&ccedil;&atilde;o de terras ind&iacute;genas&nbsp;e da democracia.</p>
