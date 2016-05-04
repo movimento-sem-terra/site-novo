@@ -87,7 +87,7 @@ Tamb&eacute;m foi lan&ccedil;ado o 2&ordm; Plano Nacional de Agroecologia e Prod
 
 <p><br />
 O governo federal tamb&eacute;m anunciou ontem o in&iacute;cio dos trabalhos da Ag&ecirc;ncia Nacional de Assist&ecirc;ncia T&eacute;cnica e Extens&atilde;o Rural (Anater). Institu&iacute;da pelo Decreto n&ordm; 8252/2014, a Anater tem 18 metas a serem executadas at&eacute; o final de 2016, incluindo o atendimento &agrave; 10 mil fam&iacute;lias com servi&ccedil;o de extens&atilde;o rural.<br />
-Para saber mais sobre o Plano Safra 2016/2017 clique aqui.</p>
+Para saber mais sobre o Plano Safra 2016/2017 clique <a href="http://www.mda.gov.br/sitemda/plano_safra">aqui</a>.</p>
 
 <p><br />
 <strong>Paralisa&ccedil;&atilde;o nacional</strong></p>
