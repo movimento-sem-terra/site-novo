@@ -5,7 +5,7 @@ tags:
   - tag: educação
   - tag: reforma-agrária
 support_line: "Durante todo o mês de abril, dezenas de universidades participaram das atividades em todo o Brasil."
-title: Jornada Universitária leva o tema da Reforma Agrária para a acadêmia
+title: Jornada Universitária leva o tema da Reforma Agrária para a academia
 images_hd: //farm9.staticflickr.com/8621/26680710942_d4058b4fc9_b.jpg
 menu: "educação, cultura e comunicação"
 layout: post
