@@ -42,7 +42,7 @@ Fotos: Parauapebas Not&iacute;cias</em></p>
 <p>O acampamento Frei Henri (fazenda Fazendinha) em Curion&oacute;plis-PA (distante cerca de 526 km de Bel&eacute;m), continua sofrendo ataque da Policia Militar, juntamente com fazendeiro.</p>
 
 <p><br />
-Por volta das 6h da manh&atilde; desta quarta (4), o fazendeiro Darlan Lopes (&quot;D&atilde;o&quot;), obstruiu a pista com maquinas e uma tenda no qual tomava caf&eacute; com os policiais que ajudaram no fechamento da PA 275.</p>
+Por volta das 6h da manh&atilde; desta quarta (4), o fazendeiro Darlan Lopes (&quot;D&atilde;o&quot;), obstruiu a pista com m&aacute;quinas e uma tenda na qual tomava caf&eacute; com os policiais que ajudaram no fechamento da PA 275.</p>
 
 <p><br />
 A PM tentou entrar no acampamento para iniciar um despejo das fam&iacute;lias por volta de 11h, mas as fam&iacute;lias resistem e at&eacute; o momento n&atilde;o conseguiram entrar.</p>
