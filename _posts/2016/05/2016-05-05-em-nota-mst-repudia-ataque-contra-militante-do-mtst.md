@@ -31,10 +31,10 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p>O MST vem a p&uacute;blico repudiar veementemente a a&ccedil;&atilde;o&nbsp;de um policial militar do Estado de S&atilde;o Paulo contra a marcha do Movimento dos Trabalhadores Sem Teto (MTST), em Itapecerica da Serra, nesta quarta-feira (04).&nbsp;Na ocasi&atilde;o, o policial atirou com uma arma letal contra&nbsp;<span style="line-height: 20.8px;">Edilma Aparecida Vieira dos Santos,</span>&nbsp;36, integrante do MTST.</p>
+<p>O MST vem a p&uacute;blico repudiar veementemente a a&ccedil;&atilde;o&nbsp;de um policial militar do Estado de S&atilde;o Paulo contra a marcha do Movimento dos Trabalhadores Sem Teto (MTST), em Itapecerica da Serra, nesta quarta-feira (04).&nbsp;Na ocasi&atilde;o, o policial militar, <span style="line-height: 20.8px;">Robson Vieira do Nascimento&nbsp;</span>atirou com uma arma letal contra&nbsp;<span style="line-height: 20.8px;">Edilma Aparecida Vieira dos Santos,</span>&nbsp;36, integrante do MTST.</p>
 
 <p><br />
-Cerca de 500 manifestantes <span style="line-height: 20.8px;">da ocupa&ccedil;&atilde;o Jo&atilde;o Goulart&nbsp;</span>seguiam em dire&ccedil;&atilde;o &agrave; prefeitura de Itapecerica da Serra,&nbsp;quando foram&nbsp;surpreendidos&nbsp;por&nbsp;Robson Vieira do Nascimento, que disparou&nbsp;de dentro de um carro em movimento&nbsp;contra a manifesta&ccedil;&atilde;o, atingindo Edilma na barriga. &nbsp;</p>
+Cerca de 500 manifestantes <span style="line-height: 20.8px;">da ocupa&ccedil;&atilde;o Jo&atilde;o Goulart&nbsp;</span>seguiam em dire&ccedil;&atilde;o &agrave; prefeitura de Itapecerica da Serra,&nbsp;quando foram&nbsp;surpreendidos&nbsp;pelo policial que disparou&nbsp;de dentro de um carro em movimento&nbsp;contra a manifesta&ccedil;&atilde;o, atingindo Edilma na barriga. &nbsp;</p>
 
 <p><br />
 Ap&oacute;s ser identificado o&nbsp;policial foi preso em flagrante e levado ao pres&iacute;dio Rom&atilde;o Gomes.</p>
