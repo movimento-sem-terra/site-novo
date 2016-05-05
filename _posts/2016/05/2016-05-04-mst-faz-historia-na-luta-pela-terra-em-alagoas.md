@@ -4,7 +4,7 @@ tags:
   - tag: marcha
   - tag: alagoas
   - tag: reforma-agrária
-title: MST faz história na luta pela terra em Alagoas
+title: Movimentos sociais fazem história na luta pela terra em Alagoas
 support_line: "Com passagem por diversa cidades, marcha foi encerrada em Maceió com o apoio de 2500 Sem Terra, além da sociedade civil."
 menu: lutas e mobilizações
 images_hd: //farm8.staticflickr.com/7370/26547924960_03feee3aa5_b.jpg
@@ -46,6 +46,7 @@ releated_posts:
   - _posts/2015/07/2015-07-16-sem-terra-resistem-a-tentativa-de-despejo-em-alagoas.md
 
 ---
+
 <p><img alt="26771426716_1820625d00_z.jpg" height="467" src="//farm8.staticflickr.com/7463/26214998004_e965b4a26a_b.jpg" width="700" /></p>
 
 <p>&nbsp;</p>
