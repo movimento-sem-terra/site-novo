@@ -46,7 +46,6 @@ releated_posts:
   - _posts/2015/07/2015-07-16-sem-terra-resistem-a-tentativa-de-despejo-em-alagoas.md
 
 ---
-
 <p><img alt="26771426716_1820625d00_z.jpg" height="467" src="//farm8.staticflickr.com/7463/26214998004_e965b4a26a_b.jpg" width="700" /></p>
 
 <p>&nbsp;</p>
@@ -56,7 +55,7 @@ Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
-<p>Em mais de 80 km percorridos, cerca de 1500 trabalhadores e trabalhadoras rurais Sem Terra constru&iacute;ram di&aacute;logo junto &agrave; sociedade alagoana e demonstraram a grande express&atilde;o da for&ccedil;a e da organiza&ccedil;&atilde;o dos que constru&iacute;ram a Marcha em Defesa da Reforma Agr&aacute;ria, da Democracia e Contra o Golpe.</p>
+<p>Em mais de 80 km percorridos, cerca de 1500 trabalhadores e trabalhadoras rurais Sem Terra, juntamente com outros movimentos da luta por terra, a&nbsp;Comiss&atilde;o Pastoral da Terra (CPT), Movimento de Liberta&ccedil;&atilde;o dos Sem Terra (MLST), Movimento de Luta pela Terra (MLT), Movimento Terra Trabalho e Liberdade (MTL) e&nbsp;Terra Livre,&nbsp;constru&iacute;ram di&aacute;logo junto &agrave; sociedade alagoana e demonstraram a grande express&atilde;o da for&ccedil;a e da organiza&ccedil;&atilde;o dos que constru&iacute;ram a Marcha em Defesa da Reforma Agr&aacute;ria, da Democracia e Contra o Golpe.</p>
 
 <p><br />
 &ldquo;Nas cidades de Uni&atilde;o dos Palmares, Branquinha, Murici, Messias ou em Macei&oacute;, cada passo dado coletivamente por homens, mulheres, jovens e crian&ccedil;as foi exemplo para o povo alagoano de que &eacute; a luta e a resist&ecirc;ncia que nos trar&aacute; as conquistas dos nossos direitos&rdquo;, afirmou Jos&eacute; Roberto, da Dire&ccedil;&atilde;o Nacional do MST.</p>
