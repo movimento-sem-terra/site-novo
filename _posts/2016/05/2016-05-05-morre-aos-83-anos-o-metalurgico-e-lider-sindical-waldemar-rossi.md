@@ -6,7 +6,7 @@ tags:
 title: Morre aos 83 anos o metalúrgico e líder sindical Waldemar Rossi
 support_line: "Sua história é um misto de luta e compromisso com a classe trabalhadora. Travou o bom combate. Metalúrgico aposentado, sempre gentil, também esteve presente na comissão da verdade, que investigava os crimes da Ditadura Militar no Brasil."
 menu: projeto popular
-images_hd: //farm8.staticflickr.com/7166/26763916831_357e94f371_b.jpg
+images_hd: //farm8.staticflickr.com/7309/26798891316_cee6d56a0c_b.jpg
 layout: post
 files:
   - link: //farm8.staticflickr.com/7166/26763916831_357e94f371_b.jpg
@@ -15,6 +15,12 @@ files:
     small: //farm8.staticflickr.com/7166/26763916831_357e94f371_n.jpg
     title: waldem.jpg
     $$hashKey: 0GK
+  - link: //farm8.staticflickr.com/7309/26798891316_cee6d56a0c_b.jpg
+    thumbnail: //farm8.staticflickr.com/7309/26798891316_cee6d56a0c_t.jpg
+    medium: //farm8.staticflickr.com/7309/26798891316_cee6d56a0c_z.jpg
+    small: //farm8.staticflickr.com/7309/26798891316_cee6d56a0c_n.jpg
+    title: 130886279149263788_C042-WaldermarRossi.jpg
+    $$hashKey: 0BK
 created_date: "2016-05-05T09:56:50-03:00"
 published: true
 releated_posts:
@@ -24,15 +30,17 @@ releated_posts:
   - _posts/2014/08/2014-08-14-campos-agiu-com-ousadia-e-coragem-contra-o-latifundio-pernambucano.md
 
 ---
-<p><img alt="waldem.jpg" height="600" src="//farm8.staticflickr.com/7166/26763916831_357e94f371_b.jpg" width="600" /></p>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="waldem.jpg" height="500" src="//farm8.staticflickr.com/7166/26763916831_357e94f371_b.jpg" width="500" />
+<figcaption></figcaption>
+</figure>
+</div>
 
 <p>&nbsp;</p>
 
 <p>&nbsp;</p>
 
 <p><em>Por Ronaldo Werneck</em></p>
-
-<p>&nbsp;</p>
 
 <p>&nbsp;</p>
 
