@@ -22,6 +22,12 @@ files:
     small: //farm8.staticflickr.com/7004/26801307606_5087116b11_n.jpg
     title: 13043551_639292316228917_5988814576355340011_n.jpg
     $$hashKey: 1GF
+  - link: //farm8.staticflickr.com/7531/26785010011_eb5c621065_b.jpg
+    thumbnail: //farm8.staticflickr.com/7531/26785010011_eb5c621065_t.jpg
+    medium: //farm8.staticflickr.com/7531/26785010011_eb5c621065_z.jpg
+    small: //farm8.staticflickr.com/7531/26785010011_eb5c621065_n.jpg
+    title: 26160815832_00d683c01a_b.jpg
+    $$hashKey: 05M
 created_date: "2016-05-05T14:24:44-03:00"
 published: true
 releated_posts:
@@ -77,7 +83,21 @@ Seja na instala&ccedil;&atilde;o do acampamento de lona preta, na mostra de v&ia
 <p><br />
 Durante os quatro dias, haver&aacute; apresenta&ccedil;&otilde;es de composi&ccedil;&otilde;es in&eacute;ditas no festival de m&uacute;sica, &ldquo;Da luta brotam vozes de liberdade&rdquo;.<br />
 <br />
-E declama&ccedil;&otilde;es das poesias na Mostra &ldquo;Versando Rebeldia&rdquo;, que resultar&atilde;o num livro de 100 poemas. J&aacute; o festival se converter&aacute; em CD, com as 20 melhores composi&ccedil;&otilde;es, 10 da milit&acirc;ncia e 10 de compositores profissionais. Ambas inscri&ccedil;&otilde;es est&atilde;o abertas at&eacute; 31 de maio de 2016. Confira os regulamentos abaixo.</p>
+E declama&ccedil;&otilde;es das poesias na Mostra &ldquo;Versando Rebeldia&rdquo;, que resultar&atilde;o num livro de 100 poemas. J&aacute; o festival se converter&aacute; em CD, com as 20 melhores composi&ccedil;&otilde;es, 10 da milit&acirc;ncia e 10 de compositores profissionais. Ambas inscri&ccedil;&otilde;es est&atilde;o abertas at&eacute; 31 de maio de 2016.</p>
+
+<p><br />
+Confira os regulamentos <a href="http://www.mst.org.br/2016/04/05/mst-realiza-festival-nacional-de-artes-e-cultura-da-reforma-agraria.html">aqui</a></p>
+
+<p>&nbsp;</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="26160815832_00d683c01a_b.jpg" height="707" src="//farm8.staticflickr.com/7531/26785010011_eb5c621065_b.jpg" width="500" />
+<figcaption></figcaption>
+</figure>
+</div>
+
+<p><br />
+&nbsp;</p>
 
 <p>&nbsp;</p>
 
