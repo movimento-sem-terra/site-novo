@@ -37,7 +37,7 @@ O Levante Popular da Juventude e o MST escracharam a senadora Ana Am&eacute;lia 
 Neste mesmo dia, no Senado, a Comiss&atilde;o Especial do Impeachment vota a admissibilidade do processo contra Dilma Rousseff. A senadora ga&uacute;cha integra essa comiss&atilde;o e j&aacute; declarou sua posi&ccedil;&atilde;o favor&aacute;vel a este processo.</p>
 
 <p><br />
-Assim como foi feito com os torturadores da Ditadura em 2012, com a Rede Globo em 2013, com Eduardo Cunha (PMDB) em 2015, e Michel Temer (PMDB) e Jair Bolsonaro (PP) no m&ecirc;s de abril deste ano, o Levante Popular da Juventude encontra motivos para escrachar Ana Am&eacute;lia Lemos, atualmente uma das maiores inimigas do povo brasileiro.</p>
+Assim como foi feito com os torturadores da Ditadura em 2012, com a Rede Globo em 2013, com Eduardo Cunha (PMDB) em 2015, e Michel Temer (PMDB) e Jair Bolsonaro (PSC) no m&ecirc;s de abril deste ano, o Levante Popular da Juventude encontra motivos para escrachar Ana Am&eacute;lia Lemos, atualmente uma das maiores inimigas do povo brasileiro.</p>
 
 <p><br />
 Ana Am&eacute;lia, ao lado de figuras como Bolsonaro, seu colega no Partido Progressista, tamb&eacute;m &eacute; a cara de um processo que representa um golpe na democracia brasileira: o afastamento de uma presidenta que n&atilde;o cometeu nenhum crime de responsabilidade fiscal e n&atilde;o carrega nenhuma den&uacute;ncia de corrup&ccedil;&atilde;o.</p>
