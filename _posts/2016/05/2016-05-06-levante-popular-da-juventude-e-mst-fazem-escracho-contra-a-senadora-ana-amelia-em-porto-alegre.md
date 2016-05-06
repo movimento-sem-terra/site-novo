@@ -5,7 +5,7 @@ tags:
   - tag: juventude
   - tag: golpe
   - tag: democracia
-title: Levante Popular da Juventude e MST fazem escracho contra a senadora Ana Amélia em Porto Alegre
+title: Levante Popular da Juventude e MST escracham senadora Ana Amélia em Porto Alegre
 support_line: "Neste mesmo dia, no Senado, a Comissão Especial do Impeachment vota a admissibilidade do processo contra Dilma Rousseff. A senadora gaúcha integra essa comissão e já declarou sua posição favorável a este processo."
 menu: lutas e mobilizações
 images_hd: //farm8.staticflickr.com/7063/26578912600_7db5ac1e5d_b.jpg
@@ -27,12 +27,12 @@ releated_posts:
   - _posts/2016/05/2016-05-01-o-mst-e-contra-uma-nova-eleicao-porque-ela-legalizaria-o-golpe-afirma-dirigente.md
 
 ---
-<p>&nbsp;</p>
+<p><img alt="Foto Caio Piccarelli.jpg" height="394" src="//farm8.staticflickr.com/7063/26578912600_7db5ac1e5d_b.jpg" width="700" /></p>
 
 <p>&nbsp;</p>
 
-<p><em>Por Catiana Medeiros<br />
-Da P&aacute;gina do MST<br />
+<p><br />
+<em>Da P&aacute;gina do MST<br />
 Foto: Caio Piccarelli</em></p>
 
 <p>&nbsp;</p>
