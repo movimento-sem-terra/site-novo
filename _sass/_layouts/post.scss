@@ -45,6 +45,27 @@ main.post {
       }
     }
 
+    object, iframe {
+      max-width: 100%;
+    }
+  } //article
+  .social {
+    margin-bottom: 10px;
+    img{
+      display: inline;
+      width: 28px;
+      height: auto;
+    }
+  }
+  footer{
+    a{
+      font-size: 17px;
+    }
+  }
+}
+
+@media(max-width: $screen-xs) {
+  main.post article figure {
     img {
       width: 100%;
       height: auto;
@@ -74,22 +95,6 @@ main.post {
       background-color: #DDD;
       padding: 5px 10px;
       font-size: 13px;
-    }
-    object, iframe {
-      max-width: 100%;
-    }
-  }
-  .social {
-    margin-bottom: 10px;
-    img{
-      display: inline;
-      width: 28px;
-      height: auto;
-    }
-  }
-  footer{
-    a{
-      font-size: 17px;
     }
   }
 }
