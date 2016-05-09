@@ -101,9 +101,9 @@ Dentro da fazenda est&aacute; localizada a antiga esta&ccedil;&atilde;o de trem 
 <p><br />
 As fam&iacute;lias j&aacute; come&ccedil;aram a erguer seus barracos de lona na fazenda e iniciam o cotidiano da ocupa&ccedil;&atilde;o, com trabalho coletivo, montagem das cozinhas, a ciranda infantil e com a cria&ccedil;&atilde;o da m&iacute;stica do novo acampamento.<br />
 &nbsp;<br />
-<strong>Informa&ccedil;&otilde;es &agrave; imprensa:</strong></p>
+&nbsp;</p>
 
-<p>11)&nbsp;99690-3614<br />
-(11) 97581-8121<br />
-<br />
+<p style="text-align:center"><img alt="13140892_1085433044859977_861366022_n.jpg" height="600" src="//farm8.staticflickr.com/7296/26841808731_b88c02c4a7_b.jpg" width="450" /></p>
+
+<p><br />
 &nbsp;</p>
