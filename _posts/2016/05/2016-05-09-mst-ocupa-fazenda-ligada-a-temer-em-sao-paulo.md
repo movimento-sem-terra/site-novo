@@ -43,13 +43,16 @@ releated_posts:
 <p><em>Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
-Na manh&atilde; desta segunda-feira (09), mil fam&iacute;lias organizadas pelo&nbsp;Movimento dos Trabalhadores Rurais Sem Terra (MST), ocuparam a fazenda Esmeralda, com sede em Duartina, interior de S&atilde;o Paulo, a fazenda &eacute; ligada ao vice-presidente Michel Temer (PMDB).</p>
+Na manh&atilde; desta segunda-feira (9), mil fam&iacute;lias organizadas pelo&nbsp;Movimento dos Trabalhadores Rurais Sem Terra (MST), ocuparam a fazenda Esmeralda, com sede em Duartina, interior de S&atilde;o Paulo, a fazenda &eacute; ligada ao vice-presidente Michel Temer (PMDB).</p>
 
 <p><br />
 O objetivo da ocupa&ccedil;&atilde;o &eacute;&nbsp;denunciar&nbsp;as conspira&ccedil;&otilde;es golpistas de Temer, muitas vezes articuladas de dentro da propriedade. Coma a a&ccedil;&atilde;o, os&nbsp;Sem Terra tamb&eacute;m recolocam a pauta da Reforma Agr&aacute;ria em todo pa&iacute;s.</p>
 
 <p><br />
-A fazenda tem cerca de 1500 hectares, fica entre os munic&iacute;pios de Duartina, Fern&atilde;o, G&aacute;lia e Lucian&oacute;polis. Apesar de n&atilde;o constarem registros documentais em nome de Temer, &eacute; recorrente para os moradores da cidade a no&ccedil;&atilde;o de quem &eacute; o verdadeiro dono da &aacute;rea. Temer &eacute; cunhado com a express&atilde;o&nbsp;&ldquo;o homem est&aacute; a&iacute;!&rdquo;, sempre que chega na fazenda para participar de articula&ccedil;&otilde;es regionais e nacionais do PMDB.</p>
+A fazenda tem cerca de 1500 hectares, fica entre os munic&iacute;pios de Duartina, Fern&atilde;o, G&aacute;lia e Lucian&oacute;polis. Apesar de n&atilde;o constarem registros documentais em nome de Temer, &eacute; recorrente para os moradores da cidade a no&ccedil;&atilde;o de quem &eacute; o verdadeiro dono da &aacute;rea.</p>
+
+<p><br />
+Temer &eacute; cunhado com a express&atilde;o&nbsp;&ldquo;o homem est&aacute; a&iacute;!&rdquo;, sempre que chega na fazenda para participar de articula&ccedil;&otilde;es regionais e nacionais do PMDB.</p>
 
 <p><br />
 Os manifestantes denunciam tamb&eacute;m o cultivo&nbsp;eucalipto na propriedade, chamado&nbsp;de &ldquo;deserto verde&rdquo; pela sua atua&ccedil;&atilde;o mal&eacute;fica ao solo.</p>
@@ -71,7 +74,7 @@ A Argeplan, empresa do propriet&aacute;rio formal da fazenda, Coronel &ldquo;Lim
 Num contrato de R$ 162 milh&otilde;es com a empresa Engevix, cujo propriet&aacute;rio Jos&eacute; Antunes foi preso na opera&ccedil;&atilde;o Lava Jato, foi revelada (em dela&ccedil;&atilde;o premiada pelo pr&oacute;prio Antunes) a passagem de propina no valor de R$ 1 milh&atilde;o para o PMDB de Temer.</p>
 
 <p><br />
-Apesar de ter mais de 1500 hectares, em uma situa&ccedil;&atilde;o an&aacute;loga ao &ldquo;s&iacute;tio de Atibaia&rdquo; de 15 hectares remetido ao ex-presidente Luiz In&aacute;cio &#39;Lula&#39; da Silva, a fazenda Esmeralda no interior de S&atilde;o Paulo nunca teve a mesma cobertura de sua real posse pelo pemedebista Michel Temer.</p>
+Apesar de ter mais de 1500 hectares, em uma situa&ccedil;&atilde;o an&aacute;loga ao &ldquo;s&iacute;tio de Atibaia&rdquo; - factoide criado pela m&iacute;dia -,<span style="line-height: 20.8px;">&nbsp;</span>remetido ao ex-presidente Luiz In&aacute;cio &#39;Lula&#39; da Silva, a fazenda Esmeralda no interior de S&atilde;o Paulo nunca teve a mesma cobertura de sua real posse pelo pemedebista Michel Temer.</p>
 
 <p><br />
 Al&eacute;m de sediar atividades regionais do PMDB, a propriedade funcionou como QG das articula&ccedil;&otilde;es golpistas do Vice, que esteve no local no &uacute;ltimo dia 1&ordm; de maio.</p>
