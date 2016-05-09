@@ -4,7 +4,7 @@ tags:
   - tag: contra-o-golpe
   - tag: frente-de-esquerda
   - tag: frente-brasil-popular
-images_hd: //farm8.staticflickr.com/7706/26885132506_1d058a03cc_b.jpg
+images_hd: //farm8.staticflickr.com/7011/26918655105_1b680a34ca_b.jpg
 support_line: "A decisão do deputado corrobora com o apelo e clamor da sociedade que defende a democracia e o Estado Democrático de Direito.\n"
 title: "Em nota, Frente Brasil Popular se posiciona a favor da decisão do deputado Waldir Maranhão"
 menu: lutas e mobilizações
@@ -16,6 +16,12 @@ files:
     small: //farm8.staticflickr.com/7706/26885132506_1d058a03cc_n.jpg
     title: photo453623726021388593.jpg
     $$hashKey: 0SF
+  - link: //farm8.staticflickr.com/7011/26918655105_1b680a34ca_b.jpg
+    thumbnail: //farm8.staticflickr.com/7011/26918655105_1b680a34ca_t.jpg
+    medium: //farm8.staticflickr.com/7011/26918655105_1b680a34ca_z.jpg
+    small: //farm8.staticflickr.com/7011/26918655105_1b680a34ca_n.jpg
+    title: frente brasil popular.jpg
+    $$hashKey: "141"
 created_date: "2016-05-09T16:28:50-03:00"
 published: true
 releated_posts:
