@@ -4,7 +4,7 @@ tags:
   - tag: rio-grande-do-sul
   - tag: bloqueio
   - tag: democracia
-title: "MST participa do Dia Nacional de Paralisações e Mobilização contra o Golpe nesta terça-feira, no RS"
+title: MST participa do Dia Nacional de Paralisações e Mobilização contra o Golpe no RS
 support_line: "Conforme os organizadores, o intuito é denunciar o golpe institucional, midiático e jurídico em curso contra a democracia brasileira"
 menu: lutas e mobilizações
 images_hd: //farm8.staticflickr.com/7363/26933953285_75bcf7bf72_b.jpg
