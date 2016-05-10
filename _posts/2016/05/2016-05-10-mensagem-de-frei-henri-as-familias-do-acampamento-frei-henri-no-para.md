@@ -4,28 +4,31 @@ tags:
   - tag: acampamento-frei-henri
   - tag: solidariedade
   - tag: violência
-images_hd: //farm8.staticflickr.com/7655/26329475704_7a37ecb817_b.jpg
+images_hd: //farm8.staticflickr.com/7275/26663950200_de0f0c50ba_b.jpg
 title: "Mensagem de Frei Henri às famílias do Acampamento “Frei Henri”, no Pará"
 support_line: "Em carta, Henri se solidariza e reafirma seu compromisso de luta pela Reforma Agrária."
 menu: solidariedade
 layout: post
 files:
-  - link: //farm8.staticflickr.com/7655/26329475704_7a37ecb817_b.jpg
-    thumbnail: //farm8.staticflickr.com/7655/26329475704_7a37ecb817_t.jpg
-    medium: //farm8.staticflickr.com/7655/26329475704_7a37ecb817_z.jpg
-    small: //farm8.staticflickr.com/7655/26329475704_7a37ecb817_n.jpg
-    title: foto henri.jpg
-    $$hashKey: 08L
+  - link: //farm8.staticflickr.com/7275/26663950200_de0f0c50ba_b.jpg
+    thumbnail: //farm8.staticflickr.com/7275/26663950200_de0f0c50ba_t.jpg
+    medium: //farm8.staticflickr.com/7275/26663950200_de0f0c50ba_z.jpg
+    small: //farm8.staticflickr.com/7275/26663950200_de0f0c50ba_n.jpg
+    title: foto henri 2 (1).jpg
+    $$hashKey: 05O
 created_date: "2016-05-10T12:50:41-03:00"
 published: true
 releated_posts:
-  - _posts/2016/03/2016-03-08-familias-sem-terra-sao-feitas-refens-e-tem-casas-incendiados-por-pistoleiros.md
   - _posts/2016/02/2016-02-12-quem-matou-dorothy-stang-em-12-de-fevereiro-de-2005-continua-matando.md
   - _posts/2016/02/2016-02-12-o-campo-em-rondonia-um-barril-de-polvora.md
   - _posts/2015/11/2015-11-13-em-solidariedade-aos-petroleiros-movimentos-ocupam-ministerio-de-minas-e-energia.md
   - _posts/2016/03/2016-03-10-e-nao-me-calei.md
 
 ---
+<figure class="image"><img alt="foto henri 2 (1).jpg" height="514" src="//farm8.staticflickr.com/7275/26663950200_de0f0c50ba_b.jpg" width="700" />
+<figcaption></figcaption>
+</figure>
+
 <p>&nbsp;</p>
 
 <p><em>Da P&aacute;gina do MST&nbsp;</em></p>
