@@ -41,7 +41,7 @@ releated_posts:
 Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
-Entre os dias 4 e 7 de maio, est&aacute; sendo realizando o I Encontro de Pesquisa e Inicia&ccedil;&atilde;o Tecnol&oacute;gica em Agroecologia de estudantes das Escolas de Acampamento do Paran&aacute; e o I Encontro de Forma&ccedil;&atilde;o de Educadores e Educadoras em Agroecologia das Escolas de Acampamento do Paran&aacute;, no munic&iacute;pio de Guarapuava, regi&atilde;o centro-oeste do estado.</p>
+Entre os dias 4 e 7 de maio, foi realizando o I Encontro de Pesquisa e Inicia&ccedil;&atilde;o Tecnol&oacute;gica em Agroecologia de estudantes das Escolas de Acampamento do Paran&aacute; e o I Encontro de Forma&ccedil;&atilde;o de Educadores e Educadoras em Agroecologia das Escolas de Acampamento do Paran&aacute;, no munic&iacute;pio de Guarapuava, regi&atilde;o centro-oeste do estado.</p>
 
 <p><br />
 O encontro conta com a participa&ccedil;&atilde;o de 122 pessoas, entre eles 80 educadores e 42 estudantes. A atividade integra o projeto &ldquo;Forma&ccedil;&atilde;o em Agroecologia dos jovens do Ensino M&eacute;dio das Escolas Itinerantes do Paran&aacute;: do saber popular ao conhecimento cient&iacute;fico para o cuidado com a terra e com a vida&rdquo;.</p>
