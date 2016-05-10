@@ -37,14 +37,14 @@ releated_posts:
 
 <p>&nbsp;</p>
 
+<p>&nbsp;</p>
+
 <p><em>Do Brasil de Fato*<br />
 Foto: M&iacute;dia Ninja</em></p>
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
-
-<p>Diversas a&ccedil;&otilde;es e mobiliza&ccedil;&otilde;es organizadas pela Frente Brasil Popular e pela Frente Povo Sem Medo est&atilde;o sendo realizadas desde &agrave;s 6h desta ter&ccedil;a-feira (10), Dia Nacional de Luta em Defesa da Democracia e contra o Golpe. Tracamento de rodovias foram realizadas em, pelo menos, sete estados. Al&eacute;m disso, paralisa&ccedil;&otilde;es convocadas por centrais sindicais est&atilde;o previstas para o longo do dia.</p>
+<p>Diversas a&ccedil;&otilde;es e mobiliza&ccedil;&otilde;es organizadas pela Frente Brasil Popular e pela Frente Povo Sem Medo est&atilde;o sendo realizadas desde &agrave;s 6h desta ter&ccedil;a-feira (10), Dia Nacional de Luta em Defesa da Democracia e contra o Golpe. Trancamento de rodovias foram realizadas em, pelo menos, sete estados. Al&eacute;m disso, paralisa&ccedil;&otilde;es convocadas por centrais sindicais est&atilde;o previstas para o longo do dia.</p>
 
 <p><br />
 O objetivo &eacute; promover &quot;muitos agitos em defesa da democracia, contra o golpe e a retirada de direitos&quot;, segundo Raimundo Bonfim, coordenador geral da Central de Movimentos Populares (CMP), referindo-se ao processo de impeachment da presidenta Dilma Rousseff, que tramita no Senado.</p>
