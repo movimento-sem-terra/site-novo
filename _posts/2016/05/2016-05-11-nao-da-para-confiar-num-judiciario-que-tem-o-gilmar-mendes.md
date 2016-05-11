@@ -5,7 +5,7 @@ tags:
   - tag: legalidade
   - tag: lutas-e-mobilizações
 title: Não dá para confiar num Judiciário que tem o Gilmar Mendes
-support_line: "Em entrevista,ao jornalista Paulo Henrique Amorim,  Stedile descreve a audiência que promoveu com o Papa Francisco I para tratar do Golpe das “forças do capital\"."
+support_line: "Em entrevista ao jornalista Paulo Henrique Amorim,  Stedile descreve a audiência que promoveu com o Papa Francisco I para tratar do Golpe das “forças do capital\"."
 menu: lutas e mobilizações
 section: cover
 label: interviews
