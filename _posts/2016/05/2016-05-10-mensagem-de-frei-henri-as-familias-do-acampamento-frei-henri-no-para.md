@@ -52,19 +52,13 @@ Meus companheiros e amigos,</p>
 Estou sendo informado pelo pessoal da CPT de todos os acontecimentos preocupantes que&nbsp;t&ecirc;m atingido o acampamento de voc&ecirc;s, que, ali&aacute;s, para minha honra, leva meu nome, e me sinto&nbsp;muito orgulhoso disso.</p>
 
 <p><br />
-Quero dizer, com muita for&ccedil;a, que estou totalmente solid&aacute;rio a voc&ecirc;s. Se tivesse a&nbsp;possibilidade, fretaria um avi&atilde;o para chegar logo no meio dos meus queridos acampados, e&nbsp;enfrentar esses fazendeiros/grileiros. Infelizmente estou doente, deitado, sem poder me levantar.</p>
+Quero dizer, com muita for&ccedil;a, que estou totalmente solid&aacute;rio a voc&ecirc;s. Se tivesse a&nbsp;possibilidade, fretaria um avi&atilde;o para chegar logo no meio dos meus queridos acampados, e&nbsp;enfrentar esses fazendeiros/grileiros. Infelizmente estou doente, deitado, sem poder me levantar.&nbsp;Estou bem consciente da dificuldade de voc&ecirc;s, do perigo desses fazendeiros e da trincheira que&nbsp;eles&nbsp;constru&iacute;ram.</p>
 
 <p><br />
-Estou bem consciente da dificuldade de voc&ecirc;s, do perigo desses fazendeiros e da trincheira que eles<br />
-constru&iacute;ram.</p>
+Mas sei tamb&eacute;m do acompanhamento que tem sido feito pelos advogados da CPT e do&nbsp;MST, muito competentes.</p>
 
 <p><br />
-Mas sei tamb&eacute;m do acompanhamento que tem sido feito pelos advogados da CPT e do<br />
-MST, muito competentes.</p>
-
-<p><br />
-Pelas informa&ccedil;&otilde;es que tenho, eu sei que o direito, a lei, est&aacute; do lado de voc&ecirc;s. A terra onde&nbsp;voc&ecirc;s est&atilde;o &eacute; p&uacute;blica, da Uni&atilde;o, e por isso, tem que ser destinada de prefer&ecirc;ncia para reforma&nbsp;agr&aacute;ria. Mas tem muita sujeira da parte dos fazendeiros para falsificar algumas coisas e facilitar a<br />
-grilagem.</p>
+Pelas informa&ccedil;&otilde;es que tenho, eu sei que o direito, a lei, est&aacute; do lado de voc&ecirc;s. A terra onde&nbsp;voc&ecirc;s est&atilde;o &eacute; p&uacute;blica, da Uni&atilde;o, e por isso, tem que ser destinada de prefer&ecirc;ncia para reforma&nbsp;agr&aacute;ria. Mas tem muita sujeira da parte dos fazendeiros para falsificar algumas coisas e facilitar a&nbsp;grilagem.</p>
 
 <p><br />
 Tendo visitado o acampamento v&aacute;rias vezes antes de deixar o Brasil, eu estou certo da&nbsp;determina&ccedil;&atilde;o e da coragem de voc&ecirc;s para segurar esta terra, que Deus lhes confiou para sustentar&nbsp;suas fam&iacute;lias e todos os meninos que est&atilde;o a&iacute;. Terra que vale ouro, por causa da Vale que est&aacute;&nbsp;pertinho, e dos fazendeiros que querem fazer lucro em cima dela.</p>
