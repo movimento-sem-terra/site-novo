@@ -5,7 +5,7 @@ tags:
   - tag: acampamento
   - tag: reintegração-de-posse
   - tag: violência
-title: Acampamento Padre Josimas é destruído pela polícia no Bico do Papagaio
+title: Acampamento Padre Josimo é destruído pela polícia no Bico do Papagaio
 support_line: "No momento, 80 famílias encontram-se desalojadas, na beira do rio Tocantins."
 menu: lutas e mobilizações
 images_hd: //farm8.staticflickr.com/7312/26347695024_6b5f7a5cb9_b.jpg
@@ -51,7 +51,7 @@ releated_posts:
 <p><em>Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
-O acampamento Padre Josimas est&aacute; instalado h&aacute; um ano no munic&iacute;pio de Carrasco Bonito, regi&atilde;o do Bico do Papagaio, historicamente conhecida por frequentes conflitos agr&aacute;rios, envolvendo MST e outros movimento de luta por terra.</p>
+O acampamento Padre Josimo est&aacute; instalado h&aacute; um ano no munic&iacute;pio de Carrasco Bonito, regi&atilde;o do Bico do Papagaio, historicamente conhecida por frequentes conflitos agr&aacute;rios, envolvendo MST e outros movimento de luta por terra.</p>
 
 <p><br />
 Na segunda-feira (9), um dia antes do cumprimento de da ordem de reintegra&ccedil;&atilde;o de posse, a pol&iacute;cia militar de Tocantins apareceu no local e, utilizando os tratores da pr&oacute;pria fazenda, destruiu o acampamento e ateou fogo em todos os barracos.</p>
