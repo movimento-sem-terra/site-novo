@@ -5,7 +5,7 @@ tags:
   - tag: mulheres
   - tag: democracia
 title: "Interino, Ilegítimo, machista e patriarcal "
-support_line: "Para a deputada federal Maria do Rosário (PT-RS), esse é o retrato do governo Temer, que de tão ilegítimo, já nasce a base da exclusão."
+support_line: "Confirmados os nomes de sua equipe, Temer será o primeiro presidente (interino) desde Ernesto Geisel  a não nomear nenhuma mulher ocupar uma cadeira em Brasília. "
 menu: direitos humanos
 section: cover
 images_hd: //farm8.staticflickr.com/7521/26370847803_e875fed173_b.jpg
@@ -37,8 +37,7 @@ releated_posts:
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Assim vem sendo chamada a nova composi&ccedil;&atilde;o de governo do ent&atilde;o presidente interino Michel Temer (PMDB).&nbsp;<br />
-Confirmados os nomes de sua equipe, na tarde dessa quinta-feira (12), Temer ser&aacute; o primeiro presidente (interino) desde Ernesto Geisel - que presidiu o pa&iacute;s durante a ditadura militar de 1974 a 1979 -, a n&atilde;o nomear nenhuma mulher para ocupar uma cadeira em Bras&iacute;lia.&nbsp;</p>
+Assim vem sendo chamada a nova composi&ccedil;&atilde;o de governo do ent&atilde;o presidente interino Michel Temer (PMDB).&nbsp;Confirmados os nomes de sua equipe, na tarde dessa quinta-feira (12), Temer ser&aacute; o primeiro presidente (interino) desde Ernesto Geisel - que presidiu o pa&iacute;s durante a ditadura militar de 1974 a 1979 -, a n&atilde;o nomear nenhuma mulher para ocupar uma cadeira em Bras&iacute;lia.&nbsp;</p>
 
 <p><br />
 Est&atilde;o em sua lista nomes como de Eliseu Padilha, Romero Juc&aacute;, Geddel Vieira Lima, Jos&eacute; Serra, Moreira Franco e Henrique Eduardo Alves, todos aliados bem pr&oacute;ximos a Temer e que se enquadram no perfil, homem, h&eacute;tero, branco e rico.&nbsp;</p>
@@ -83,7 +82,7 @@ Segundo dados do Instituto Brasileiro de Geografia e Estat&iacute;stica (IBGE), 
 A levar em conta os governos petistas a participa&ccedil;&atilde;o feminina foi maior. No governo Lula (2003-2011), foram 11 mulheres no Congresso, j&aacute; no governo Dilma (2012-2016), foram 15.&nbsp;</p>
 
 <p><br />
-<a href="http://azmina.com.br/2016/05/dez-mulheres-gabaritadas-que-temer-poderia-nomear-como-ministras/">Aqui </a>uma lista feita pelo AzMina com 10 mulheres gabaritadas que Temer poderia indicar como ministras de seu governo interino, algumas, inclusive s&atilde;o do pr&oacute;prio partido de Temer, o PMDB. &nbsp;</p>
+Veja <a href="http://azmina.com.br/2016/05/dez-mulheres-gabaritadas-que-temer-poderia-nomear-como-ministras/">aqui </a>uma lista feita pelo AzMina com 10 mulheres gabaritadas que Temer poderia indicar como ministras de seu governo interino, algumas, inclusive s&atilde;o do pr&oacute;prio partido de Temer, o PMDB. &nbsp;</p>
 
 <p>&nbsp;</p>
 
