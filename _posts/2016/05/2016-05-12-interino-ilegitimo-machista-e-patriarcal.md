@@ -7,7 +7,7 @@ tags:
 title: "Interino, Ilegítimo, machista e patriarcal "
 support_line: "Confirmados os nomes de sua equipe, Temer será o primeiro presidente (interino) desde Ernesto Geisel  a não nomear nenhuma mulher ocupar uma cadeira em Brasília. "
 menu: direitos humanos
-section: cover
+section: null
 images_hd: //farm8.staticflickr.com/7521/26370847803_e875fed173_b.jpg
 layout: post
 files:
