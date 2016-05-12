@@ -46,10 +46,7 @@ Est&atilde;o em sua lista nomes como de Eliseu Padilha, Romero Juc&aacute;, Gedd
 Para a deputada federal Maria do Ros&aacute;rio (PT-RS), esse &eacute; o retrato do governo Temer, que de t&atilde;o ileg&iacute;timo, j&aacute; nasce a base da exclus&atilde;o.</p>
 
 <p><br />
-&ldquo;A aus&ecirc;ncia de mulheres &eacute; um ind&iacute;cio claro do tipo de governo que Michel Temer vai implantar no pa&iacute;s. Uma bancada excludente que vai governar para poucos.</p>
-
-<p><br />
-N&atilde;o devemos criar nenhum tipo de ilus&atilde;o. Com essa composi&ccedil;&atilde;o, n&oacute;s, mulheres, seremos as primeiras afetadas, seguidas dos negros, LGBTs, ind&iacute;genas, quilombolas e todos aqueles que n&atilde;o se enquadram no padr&atilde;o de um governo comandado pelo PMDB&rdquo;, diz.&nbsp;</p>
+&ldquo;A aus&ecirc;ncia de mulheres &eacute; um ind&iacute;cio claro do tipo de governo que Michel Temer vai implantar no pa&iacute;s. Uma bancada excludente que vai governar para poucos.N&atilde;o devemos criar nenhum tipo de ilus&atilde;o. Com essa composi&ccedil;&atilde;o, n&oacute;s, mulheres, seremos as primeiras afetadas, seguidas dos negros, LGBTs, ind&iacute;genas, quilombolas e todos aqueles que n&atilde;o se enquadram no padr&atilde;o de um governo comandado pelo PMDB&rdquo;, diz.&nbsp;</p>
 
 <p><br />
 Maria do Ros&aacute;rio, que em 2014 foi agredida pelo deputado federal Jair Bolsonaro (PP-RJ) - &agrave; &eacute;poca, o progressista disse que n&atilde;o estuprava a parlamentar porque ela &quot;n&atilde;o merece&quot;-, afirma que o momento &eacute; de luta e unidade para que um governo de retrocessos n&atilde;o seja estabelecido nos pr&oacute;ximos dois anos.&nbsp;</p>
@@ -61,13 +58,7 @@ Maria do Ros&aacute;rio, que em 2014 foi agredida pelo deputado federal Jair Bol
 J&aacute; para Tica Moreno da Marcha Mundial das Mulheres (MMM), n&atilde;o &eacute; surpresa que um grupo de pessoas que acionam um pleito ileg&iacute;timo governem baseados na falta de representatividade.&nbsp;<br />
 &nbsp;&nbsp; &nbsp;</p>
 
-<p>&ldquo;Essa composi&ccedil;&atilde;o s&oacute; deixa claro que o golpe al&eacute;m de antidemocr&aacute;tico &eacute; patriarcal, machista e patronal. A falta de indica&ccedil;&otilde;es de mulheres &eacute; mais um elemento que mostra que o governo Temer n&atilde;o representa a popula&ccedil;&atilde;o brasileira.</p>
-
-<p><br />
-O processo de impeachment foi conduzido por Eduardo Cunha, um dos protagonistas nos projetos mais reacion&aacute;rios em rela&ccedil;&atilde;o ao direito das mulheres no Brasil.</p>
-
-<p><br />
-Foi uma farsa referendada pelos setores mais conservadores, preconceituosos e reacion&aacute;rios do pa&iacute;s. Um governo ileg&iacute;timo que n&atilde;o ser&aacute; reconhecido&rdquo;, afirma.</p>
+<p>&ldquo;Essa composi&ccedil;&atilde;o s&oacute; deixa claro que o golpe al&eacute;m de antidemocr&aacute;tico &eacute; patriarcal, machista e patronal. A falta de indica&ccedil;&otilde;es de mulheres &eacute; mais um elemento que mostra que o governo Temer n&atilde;o representa a popula&ccedil;&atilde;o brasileira.&nbsp;O processo de impeachment foi conduzido por Eduardo Cunha, um dos protagonistas nos projetos mais reacion&aacute;rios em rela&ccedil;&atilde;o ao direito das mulheres no Brasil.&nbsp;Foi uma farsa referendada pelos setores mais conservadores, preconceituosos e reacion&aacute;rios do pa&iacute;s. Um governo ileg&iacute;timo que n&atilde;o ser&aacute; reconhecido&rdquo;, afirma.</p>
 
 <p><br />
 Kelli Mafort, da coordena&ccedil;&atilde;o nacional do MST, segue na mesma linha. Para ela a composi&ccedil;&atilde;o dessa equipe revela que muitos segmentos da sociedade n&atilde;o est&atilde;o representados no governo interino de Temer.</p>
