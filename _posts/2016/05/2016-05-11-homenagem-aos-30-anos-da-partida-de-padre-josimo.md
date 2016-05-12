@@ -22,7 +22,7 @@ files:
     title: Padre_Josimo_Arquivo_CPT.jpg
     $$hashKey: "030"
 created_date: "2016-05-11T11:54:39-03:00"
-published: true
+published: false
 releated_posts:
   - _posts/2016/05/2016-05-05-morre-aos-83-anos-o-metalurgico-e-lider-sindical-waldemar-rossi.md
   - _posts/2015/07/2015-07-26-perdemos-um-grande-camarada-vito-giannotti.md
