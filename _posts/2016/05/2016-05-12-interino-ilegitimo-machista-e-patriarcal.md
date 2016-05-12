@@ -82,7 +82,7 @@ Segundo dados do Instituto Brasileiro de Geografia e Estat&iacute;stica (IBGE), 
 A levar em conta os governos petistas a participa&ccedil;&atilde;o feminina foi maior. No governo Lula (2003-2011), foram 11 mulheres no Congresso, j&aacute; no governo Dilma (2012-2016), foram 15.&nbsp;</p>
 
 <p><br />
-Veja <a href="http://azmina.com.br/2016/05/dez-mulheres-gabaritadas-que-temer-poderia-nomear-como-ministras/">aqui </a>uma lista feita pelo AzMina com 10 mulheres gabaritadas que Temer poderia indicar como ministras de seu governo interino, algumas, inclusive s&atilde;o do pr&oacute;prio partido de Temer, o PMDB. &nbsp;</p>
+Veja <a href="http://azmina.com.br/2016/05/dez-mulheres-gabaritadas-que-temer-poderia-nomear-como-ministras/">aqui </a>uma lista feita pelo <em>AzMina</em> com 10 mulheres gabaritadas que Temer poderia indicar como ministras de seu governo interino, algumas, inclusive, s&atilde;o do pr&oacute;prio partido de Temer, o PMDB. &nbsp;</p>
 
 <p>&nbsp;</p>
 
