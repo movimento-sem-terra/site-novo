@@ -8,7 +8,7 @@ tags:
 title: Nota do MST sobre afastamento da presidenta Dilma Roussef
 support_line: "Esse é um golpe institucional e anti-democrático, que desrespeitou a vontade de 54 milhões de eleitores."
 menu: lutas e mobilizações
-section: cover
+section: null
 images_hd: //farm8.staticflickr.com/7264/26904190001_2917363c65_b.jpg
 layout: post
 files:
