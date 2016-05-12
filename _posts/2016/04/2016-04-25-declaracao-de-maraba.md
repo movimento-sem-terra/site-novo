@@ -8,7 +8,7 @@ title: Conferência internacional da Reforma Agrária lança declaração final
 support_line: "Confira a declaração final da Conferência Internacional da Reforma Agrária, realizada entre 13 e 17 de abril, em Marabá-PA."
 menu: solidariedade
 special-page: land-reform
-section: featured-news
+section: null
 images_hd: //farm2.staticflickr.com/1685/26369344410_6f6fc6a449_b.jpg
 layout: post
 files:
