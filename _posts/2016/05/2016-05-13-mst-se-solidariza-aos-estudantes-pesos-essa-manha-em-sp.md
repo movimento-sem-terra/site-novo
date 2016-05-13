@@ -4,7 +4,7 @@ tags:
   - tag: lutas-e-mobilizações
   - tag: solidariedade
   - tag: violência
-title: "MST se solidariza aos estudantes pesos essa manhã em SP \n \n"
+title: "MST se solidariza com secundaristas presos essa manhã em SP \n \n"
 support_line: "O movimento estudantil, ao ocupar pacificamente as escolas, nada mais faz do que lutar pelo direito constitucional ter acesso à um ensino público, gratuito e de qualidade. "
 menu: direitos humanos
 images_hd: //farm8.staticflickr.com/7713/26899487942_c4a729bd2e_b.jpg
