@@ -70,7 +70,7 @@ Kelli Mafort, da coordena&ccedil;&atilde;o nacional do MST, segue na mesma linha
 Segundo dados do Instituto Brasileiro de Geografia e Estat&iacute;stica (IBGE), as mulheres representam 52%&nbsp;da popula&ccedil;&atilde;o do pa&iacute;s.&nbsp;</p>
 
 <p><br />
-A levar em conta os governos petistas a participa&ccedil;&atilde;o feminina foi maior. No governo Lula (2003-2011), foram 11 mulheres no Congresso, j&aacute; no governo Dilma (2012-2016), foram 15.&nbsp;</p>
+A levar em conta os governos petistas a participa&ccedil;&atilde;o feminina foi maior. No governo Lula (2003-2010), foram 11 mulheres no minist&eacute;rio, j&aacute; no governo Dilma (2011-2016), foram 15.&nbsp;</p>
 
 <p><br />
 Veja <a href="http://azmina.com.br/2016/05/dez-mulheres-gabaritadas-que-temer-poderia-nomear-como-ministras/">aqui </a>uma lista feita pelo <em>AzMina</em> com 10 mulheres gabaritadas que Temer poderia indicar como ministras de seu governo interino, algumas, inclusive, s&atilde;o do pr&oacute;prio partido de Temer, o PMDB. &nbsp;</p>
