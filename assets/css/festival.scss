@@ -1,0 +1,64 @@
+---
+---
+
+@import "../bourbon/bourbon";
+@import "../neat/neat";
+@import "../_sass/variables";
+
+#site-header, .search, body > footer {
+  display: none;
+}
+
+.festival {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: space-between;
+
+  img {
+    width: 100%;
+  }
+  figure {
+    margin: 0;
+  }
+}// .festival
+
+.festival .capa {
+  height: 100%;
+  img {
+    height: 100%;
+  }
+}
+
+.festival .informacoes {
+  align-self: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  padding: 0;
+}// .festival .informacoes {
+
+.festival .informacoes .letreiro{
+  max-width: 500px;
+  align-self: center;
+}// .festival .informacoes .letreiro{
+
+.festival .informacoes .mostras {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  max-width: 750px;
+
+  img {
+    max-width: 280px;
+  }
+} // .festival .informacoes .mostras{
+
+.festival .informacoes .inscricao {
+  align-self: center;
+  padding: 0;
+  margin-top: auto;
+  h1 {
+    font-size: 2em;
+  }
+}// .festival .informacoes .inscricao {
