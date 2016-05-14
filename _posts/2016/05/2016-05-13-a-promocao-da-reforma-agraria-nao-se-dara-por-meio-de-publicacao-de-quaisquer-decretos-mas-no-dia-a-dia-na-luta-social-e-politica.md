@@ -48,7 +48,7 @@ releated_posts:
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
-A presid&ecirc;ncia da Rep&uacute;blica assinou no dia de maio, antes do golpe parlamentar, o Decreto n&ordm; 8.738 que disp&otilde;e sobre a sele&ccedil;&atilde;o de fam&iacute;lias para o Programa Nacional de Reforma Agr&aacute;ria.</p>
+A presid&ecirc;ncia da Rep&uacute;blica assinou no &uacute;ltimo dia 3 de maio, antes do golpe parlamentar, o Decreto n&ordm; 8.738 que disp&otilde;e sobre a sele&ccedil;&atilde;o de fam&iacute;lias para o Programa Nacional de Reforma Agr&aacute;ria.</p>
 
 <p><br />
 Embora trate de quest&otilde;es centrais no processo de Reforma Agr&aacute;ria, o que demandaria o envolvimento e di&aacute;logo com os movimentos campesinos, o Decreto foi elaborado sem a escuta ao Movimento dos Trabalhadores Rurais Sem Terra.</p>
