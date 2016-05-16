@@ -37,7 +37,9 @@
   }
 
   @include media($desktop) {
-    background-image: url(/assets/img/festival/background-left.jpg), url(/assets/img/festival/background-right.jpg);
+    $left: "//farm8.staticflickr.com/7241/26949842432_d20f3b5bc5_b.jpg";
+    $right: "//farm4.staticflickr.com/7490/27010978706_36eb968e2e_b.jpg";
+    background-image: url($left), url($right);
     background-position: left bottom, right bottom;
     background-repeat: no-repeat;
   }// @include media($desktop) {
@@ -51,7 +53,7 @@
       height: 100%;
       z-index: -2;
       opacity: 0.2;
-      background-image: url(/assets/img/festival/capa.png);
+      background-image: url(//farm8.staticflickr.com/7558/26769695760_ebcbb7b08b_n.jpg);
       background-repeat: no-repeat;
       background-position: 50% 0;
       -ms-background-size: cover;
@@ -68,7 +70,7 @@
 
   @include media($desktop) {
     display: inline-block;
-    min-width: 720px;
+    max-width: 720px;
     height: 100%;
 
     img {
@@ -135,6 +137,17 @@
     max-width: 280px;
   }
 
+  .poesia, .musica {
+    background-image: url(/assets/img/festival/borao.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: white;
+    width: 200px;
+    text-align: center;
+    font-size: 1.2em;
+    margin: 6px;
+  }
   .poesia, .musica, .feira {
     align-self: center;
   }
@@ -165,6 +178,7 @@
   display: none;
 
   @include media($desktop) {
+    display: inline-block;
     span {
       margin-top: 50px;
       width: 100%;
