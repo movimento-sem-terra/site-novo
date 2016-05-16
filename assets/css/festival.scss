@@ -145,5 +145,8 @@
   .poesia, .musica {
     font-size: 1.3em;
     padding: 12px;
+    -webkit-box-shadow: 4px 2px 13px 0px rgba(50, 50, 50, 0.75);
+    -moz-box-shadow:    4px 2px 13px 0px rgba(50, 50, 50, 0.75);
+    box-shadow:         4px 2px 13px 0px rgba(50, 50, 50, 0.75);
   }
 }// .festival .informacoes .inscricao {
