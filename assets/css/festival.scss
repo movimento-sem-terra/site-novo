@@ -72,10 +72,9 @@
     display: inline-block;
     max-width: 720px;
     height: 100%;
-
-    img {
-      height: 100%;
-    }
+    width: 100%;
+    background-image: url(/assets/img/festival/capa.png);
+    background-repeat: no-repeat;
   }
 }
 
