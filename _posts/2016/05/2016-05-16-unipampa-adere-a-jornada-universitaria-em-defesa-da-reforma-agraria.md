@@ -30,8 +30,8 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p><em><span style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px; line-height: normal;">Por Catiana de Medeiros</span><br style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px; line-height: normal;" />
-<span style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px; line-height: normal;">Da P&aacute;gina do MST</span></em></p>
+<p><em>Por Catiana de Medeiros<br />
+Da P&aacute;gina do MST</em></p>
 
 <p><br />
 O campus da Universidade Federal do Pampa (Unipampa) em Dom Pedrito, na regi&atilde;o da Campanha do Rio Grande do Sul, entrou na lista das institui&ccedil;&otilde;es de ensino que aderiram &agrave; Jornada Universit&aacute;ria em Defesa da Reforma Agr&aacute;ria no estado. A primeira edi&ccedil;&atilde;o do evento no campus iniciou em 29 abril e foi encerrado nesta sexta-feira (13).</p>
