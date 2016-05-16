@@ -5,6 +5,15 @@
 @import "../neat/neat";
 @import "../_sass/variables";
 
+@font-face {
+    font-family: FestivalFontLight;
+    src: url(/assets/fonts/festival/Antonio-Light.ttf);
+}
+@font-face {
+    font-family: EspecialFontLight;
+    src: url(/assets/fonts/festival/WCManoNegraBta_835513655.otf);
+}
+
 #site-header, .search, body > footer {
   display: none;
 }
@@ -36,6 +45,10 @@
   flex-direction: column;
   height: 100vh;
   padding: 0;
+
+  span {
+    font-family: EspecialFontLight;
+  }
 }// .festival .informacoes {
 
 .festival .informacoes .letreiro{
@@ -54,11 +67,28 @@
   }
 } // .festival .informacoes .mostras{
 
+.festival .informacoes .feira {
+  font-size: 2em;
+
+}// .festival .informacoes .feira {
+
+.festival .informacoes .frase {
+  span {
+    margin-top: 50px;
+    width: 100%;
+    text-align: center;
+    display: inline-block;
+    line-height: 0.9em;
+    font-size: 3.5em;
+  }
+}// .festival .informacoes .frase {
+
 .festival .informacoes .inscricao {
   align-self: center;
   padding: 0;
   margin-top: auto;
   h1 {
     font-size: 2em;
+    font-family: FestivalFontLight;
   }
 }// .festival .informacoes .inscricao {
