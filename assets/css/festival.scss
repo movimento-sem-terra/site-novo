@@ -29,22 +29,51 @@
   display: flex;
   justify-content: space-between;
 
-  background-image: url(/assets/img/festival/background-left.jpg), url(/assets/img/festival/background-right.jpg);
-  background-position: left bottom, right bottom;
-  background-repeat: no-repeat;
-
   img {
     width: 100%;
   }
   figure {
     margin: 0;
   }
+
+  @include media($desktop) {
+    background-image: url(/assets/img/festival/background-left.jpg), url(/assets/img/festival/background-right.jpg);
+    background-position: left bottom, right bottom;
+    background-repeat: no-repeat;
+  }// @include media($desktop) {
+  @include media($mobile) {
+    &:after{
+      content: " ";
+      position: absolute;
+      left: -26%;
+      top: 0;
+      width: 100%;
+      height: 100%;
+      z-index: -2;
+      opacity: 0.2;
+      background-image: url(/assets/img/festival/capa.png);
+      background-repeat: no-repeat;
+      background-position: 50% 0;
+      -ms-background-size: cover;
+      -o-background-size: cover;
+      -moz-background-size: cover;
+      -webkit-background-size: cover;
+      background-size: cover;
+    }
+  }// @include media($mobile) {
 }// .festival
 
 .festival .capa {
-  height: 100%;
-  img {
+  display: none;
+
+  @include media($desktop) {
+    display: inline-block;
+    min-width: 720px;
     height: 100%;
+
+    img {
+      height: 100%;
+    }
   }
 }
 
@@ -67,22 +96,35 @@
 
   h1 {
     font-family: EspecialFontBold;
-    font-size: 4em;
     margin: 0;
+    font-size: 2.4em;
     word-spacing: 0.2em;
     letter-spacing: 2px;
   }
   h2 {
     font-family: FestivalFontLight;
-    font-size: 1.5em;
     text-transform: uppercase;
+    font-size: 1.3em;
     margin: 0;
+    margin-top: 2px;
   }
   h3 {
     font-family: EspecialFontLight;
-    font-size: 1.4em;
+    font-size: 1.2em;
     margin: 0;
+    margin-top: 2px;
   }
+  @include media($desktop) {
+    h1 {
+      font-size: 4em;
+    }
+    h2 {
+      font-size: 1.5em;
+    }
+    h3 {
+      font-size: 1.4em;
+    }
+  }// @include media($desktop) {
 }// .festival .informacoes .letreiro{
 
 .festival .informacoes .mostras {
@@ -90,25 +132,50 @@
   flex-wrap: wrap;
   justify-content: center;
   max-width: 750px;
+  flex-direction: column;
 
   img {
     max-width: 280px;
   }
+
+  .poesia, .musica, .feira {
+    align-self: center;
+  }
+
+  .feira {
+    text-align: center;
+    font-size: 1.5em;
+  }
+
+  @include media($desktop) {
+    flex-direction: initial;
+
+    .poesia, .musica, .feira {
+      align-self: initial;
+    }
+
+    .feira {
+      font-size: 2em;
+    }
+  }// @include media($desktop) {
 } // .festival .informacoes .mostras{
 
 .festival .informacoes .feira {
-  font-size: 2em;
 
 }// .festival .informacoes .feira {
 
 .festival .informacoes .frase {
-  span {
-    margin-top: 50px;
-    width: 100%;
-    text-align: center;
-    display: inline-block;
-    line-height: 0.9em;
-    font-size: 3.5em;
+  display: none;
+
+  @include media($desktop) {
+    span {
+      margin-top: 50px;
+      width: 100%;
+      text-align: center;
+      display: inline-block;
+      line-height: 0.9em;
+      font-size: 3.5em;
+    }
   }
 }// .festival .informacoes .frase {
 
@@ -118,11 +185,17 @@
   padding: 0;
   margin-top: auto;
   width: 100%;
-  justify-content: space-around;
+  justify-content: space-between;
   letter-spacing: 5px;
 
+  @include media($desktop) {
+    justify-content: space-around;
+  }// @include media($desktop) {
+}// .festival .informacoes .inscricao {
+
+.festival .informacoes .inscricao {
   h1 {
-    font-size: 2em;
+    font-size: 1.2em;
     font-family: FestivalFontLight;
     color: white;
     letter-spacing: initial;
@@ -143,10 +216,20 @@
   }
 
   .poesia, .musica {
-    font-size: 1.3em;
-    padding: 12px;
+    font-size: 1em;
+    padding: 9px;
     -webkit-box-shadow: 4px 2px 13px 0px rgba(50, 50, 50, 0.75);
     -moz-box-shadow:    4px 2px 13px 0px rgba(50, 50, 50, 0.75);
     box-shadow:         4px 2px 13px 0px rgba(50, 50, 50, 0.75);
   }
-}// .festival .informacoes .inscricao {
+
+  @include media($desktop) {
+    h1 {
+      font-size: 2em;
+    }
+    .poesia, .musica {
+      font-size: 1.3em;
+      padding: 12px;
+    }
+  }// @include media($desktop) {
+}// .festival .informacoes .inscricao
