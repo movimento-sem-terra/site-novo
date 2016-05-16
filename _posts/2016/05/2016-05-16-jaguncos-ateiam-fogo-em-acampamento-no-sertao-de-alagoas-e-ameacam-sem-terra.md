@@ -17,7 +17,7 @@ files:
     title: MST.jpg
     $$hashKey: "136"
 created_date: "2016-05-16T14:20:45-03:00"
-published: true
+published: false
 releated_posts:
   - _posts/2015/07/2015-07-30-cpt-registra-23-mortes-no-campo-somente-no-primeiro-semestre-de-2015.md
   - _posts/2015/07/2015-07-10-apos-ocupar-terras-improdutivas-sem-terra-sao-ameacados-em-mg.md
