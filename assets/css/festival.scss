@@ -36,6 +36,15 @@
     margin: 0;
   }
 
+  a {
+    color: white;
+  }
+  a:hover, a:focus {
+    color: white;
+    text-decoration: underline;
+  }
+
+
   @include media($desktop) {
     $left: "//farm8.staticflickr.com/7241/26949842432_d20f3b5bc5_b.jpg";
     $right: "//farm4.staticflickr.com/7490/27010978706_36eb968e2e_b.jpg";
@@ -210,11 +219,6 @@
     color: white;
     letter-spacing: initial;
     text-shadow: 3px 0px 2px rgba(61, 61, 61, 0.7);
-  }
-
-  a:hover, a:focus {
-    color: white;
-    text-decoration: underline;
   }
 
   .poesia {
