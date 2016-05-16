@@ -13,6 +13,10 @@
     font-family: EspecialFontLight;
     src: url(/assets/fonts/festival/WCManoNegraBta_835513655.otf);
 }
+@font-face {
+    font-family: EspecialFontBold;
+    src: url(/assets/fonts/festival/WCManoNegraBta-Bold_3698615530.otf);
+}
 
 #site-header, .search, body > footer {
   display: none;
@@ -21,8 +25,13 @@
 .festival {
   height: 100vh;
   width: 100vw;
+  max-width: 100%;
   display: flex;
   justify-content: space-between;
+
+  background-image: url(/assets/img/festival/background-left.jpg), url(/assets/img/festival/background-right.jpg);
+  background-position: left bottom, right bottom;
+  background-repeat: no-repeat;
 
   img {
     width: 100%;
@@ -54,6 +63,26 @@
 .festival .informacoes .letreiro{
   max-width: 500px;
   align-self: center;
+  text-align: center;
+
+  h1 {
+    font-family: EspecialFontBold;
+    font-size: 4em;
+    margin: 0;
+    word-spacing: 0.2em;
+    letter-spacing: 2px;
+  }
+  h2 {
+    font-family: FestivalFontLight;
+    font-size: 1.5em;
+    text-transform: uppercase;
+    margin: 0;
+  }
+  h3 {
+    font-family: EspecialFontLight;
+    font-size: 1.4em;
+    margin: 0;
+  }
 }// .festival .informacoes .letreiro{
 
 .festival .informacoes .mostras {

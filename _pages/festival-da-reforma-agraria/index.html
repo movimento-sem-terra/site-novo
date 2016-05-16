@@ -2,14 +2,26 @@
 layout: default
 styles: ["festival.css"]
 ---
-<article class="festival">
+<article class="festival" itemscope itemtype="http://schema.org/Event">
   <figure class="capa">
-    <img src="/assets/img/festival/capa.png" alt="arte da capa do festival"/>
+    <img src="/assets/img/festival/capa.png" alt="arte da capa do festival" itemprop="image"/>
   </figure>
   <section class="informacoes">
-    <figure class="letreiro">
-      <img src="/assets/img/festival/letreiro.png" alt="Festival Nacional de Artes e Cultura da Reforma Agrária - 20 a 24 de Julho/2016 Belo Horizonte-MG"/>
-    </figure>
+    <header class="letreiro">
+      <meta itemprop="name" content="Festival Nacional de Artes e Cultura da Reforma Agrária"/>
+      <meta itemprop="startDate" content="2016-07-20T09:00"/>
+      <meta itemprop="endDate" content="2016-07-24T20:00"/>
+      <h1>
+        Festival Nacional
+      </h1>
+      <h2>
+        de Artes e Cultura da Reforma Agrária
+      </h2>
+      <h3 itemprop="location" itemscope itemtype="http://schema.org/Place">
+        <meta itemprop="address name" content="Belo Horizonte - MG"/>
+        20 a 24 de Julho/2016 Belo Horizonte-MG
+      </h3>
+    </header>
     <figure class="mostras">
       <img src="/assets/img/festival/mostra-poesia.png" alt="Primeira mostra de poesia" class="poesia"/>
       <img src="/assets/img/festival/mostra-musica.png" alt="Segundo festival de música" class="musica"/>
