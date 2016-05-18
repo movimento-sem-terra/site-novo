@@ -14,7 +14,7 @@ files:
     title: Conflitos_no_campo_2015.png
     $$hashKey: 0AE
 created_date: "2016-04-19T12:50:48-03:00"
-published: true
+published: false
 releated_posts: []
 section: featured-news
 
