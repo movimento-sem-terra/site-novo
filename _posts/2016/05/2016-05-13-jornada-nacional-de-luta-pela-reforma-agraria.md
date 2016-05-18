@@ -1,7 +1,7 @@
 ---
 date: "2016-05-13T09:27:57-03:00"
 tags: []
-section: campaign
+section: null
 link: "http://www.mst.org.br/jornada-nacional-de-luta-por-reforma-agraria"
 target: _self
 title: Jornada Nacional de Luta pela Reforma Agrária
@@ -18,5 +18,7 @@ files:
 created_date: "2016-05-13T09:31:14-03:00"
 published: true
 releated_posts: []
+menu: lutas e mobilizações
 
 ---
+
