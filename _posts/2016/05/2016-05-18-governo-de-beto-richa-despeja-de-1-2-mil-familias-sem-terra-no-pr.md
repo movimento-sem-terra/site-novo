@@ -4,7 +4,7 @@ tags:
   - tag: violência
   - tag: despejo
   - tag: beto-richa
-title: "Governo de Beto Richa despeja de 1,2 mil famílias Sem Terra no PR"
+title: "Governo Beto Richa despeja 1,2 mil famílias Sem Terra no PR"
 support_line: "Em nota, MST denuncia o aparato repressivo do Estado e exige medidas imediatas contra a violência."
 menu: direitos humanos
 images_hd: //farm8.staticflickr.com/7331/26494757903_a3578e8056_b.jpg
