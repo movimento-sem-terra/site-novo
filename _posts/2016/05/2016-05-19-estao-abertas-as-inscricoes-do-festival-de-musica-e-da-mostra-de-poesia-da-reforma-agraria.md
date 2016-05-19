@@ -82,6 +82,9 @@ Voc&ecirc;s s&atilde;o os guerrilheiros<br />
 Que a hist&oacute;ria nos deu.&rdquo;</p>
 
 <p><br />
+Confira o Especial do Festival clicando <a href="http://www.mst.org.br/festival-da-reforma-agraria/">aqui</a>.</p>
+
+<p><br />
 <strong>Festival Nacional</strong></p>
 
 <p><br />
