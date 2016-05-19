@@ -28,6 +28,7 @@ releated_posts:
   - _posts/2016/02/2016-02-22-agrotoxicos-veneno-na-mesa-dos-cariocas.md
   - _posts/2016/01/2016-01-22-papa-apoia-ativistas-argentinos-em-processo-contra-monsanto.md
   - _posts/2016/02/2016-02-03-uniao-europeia-revoga-patente-de-melao-da-monsanto.md
+section: featured-news
 
 ---
 <p>&nbsp;</p>
