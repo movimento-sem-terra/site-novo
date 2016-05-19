@@ -28,6 +28,18 @@ files:
     small: //farm8.staticflickr.com/7523/27047298541_d953d5d445_n.jpg
     title: 13262679_818252078308040_1810205331_o.jpg
     $$hashKey: 04A
+  - link: //farm8.staticflickr.com/7354/26511609914_2039a621f0_b.jpg
+    thumbnail: //farm8.staticflickr.com/7354/26511609914_2039a621f0_t.jpg
+    medium: //farm8.staticflickr.com/7354/26511609914_2039a621f0_z.jpg
+    small: //farm8.staticflickr.com/7354/26511609914_2039a621f0_n.jpg
+    title: 13262281_818313758301872_2086172356_o.jpg
+    $$hashKey: 05I
+  - link: //farm8.staticflickr.com/7315/27083760096_04a46a7164_b.jpg
+    thumbnail: //farm8.staticflickr.com/7315/27083760096_04a46a7164_t.jpg
+    medium: //farm8.staticflickr.com/7315/27083760096_04a46a7164_z.jpg
+    small: //farm8.staticflickr.com/7315/27083760096_04a46a7164_n.jpg
+    title: 13271528_818313701635211_1341681898_o.jpg
+    $$hashKey: 05L
 created_date: "2016-05-19T15:19:43-03:00"
 published: true
 releated_posts:
@@ -99,6 +111,13 @@ A diretora Alessandra Vieira Wilneck afirma que os alunos est&atilde;o organizad
 Os alunos da Escola Joceli Corr&ecirc;a precisam de alimentos para lanches e jantares, al&eacute;m de materiais para produzirem cartazes e dar continuidade &agrave;s atividades educativas. Quem puder participar da campanha, pode deixar sua doa&ccedil;&atilde;o na escola, localizada no Assentamento Rondinha, 90, Grupo 5, estrada 8 de Abril.</p>
 
 <p><br />
+&nbsp;</p>
+
+<figure class="image"><img alt="13262281_818313758301872_2086172356_o.jpg" height="525" src="//farm8.staticflickr.com/7354/26511609914_2039a621f0_b.jpg" width="700" />
+<figcaption></figcaption>
+</figure>
+
+<p><br />
 <strong>Mais de 100 escolas ocupadas</strong></p>
 
 <p><br />
@@ -106,3 +125,10 @@ Conforme o Sindicato dos Professores do Rio Grande do Sul (CPERS), at&eacute; a 
 
 <p><br />
 Na &uacute;ltima sexta-feira (13), o CPERS decidiu entrar em greve por tempo indeterminado. Entre as reivindica&ccedil;&otilde;es, est&aacute; o pagamento integral dos sal&aacute;rios em dia, a nomea&ccedil;&atilde;o de professores e funcion&aacute;rios nas escolas, o reajuste imediato de 13,01% referente a 2015 e 11,36% em rela&ccedil;&atilde;o a este ano, o pagamento do Piso Nacional e a manuten&ccedil;&atilde;o do Plano de Carreira.</p>
+
+<p><br />
+&nbsp;</p>
+
+<figure class="image"><img alt="13271528_818313701635211_1341681898_o.jpg" height="525" src="//farm8.staticflickr.com/7315/27083760096_04a46a7164_b.jpg" width="700" />
+<figcaption></figcaption>
+</figure>
