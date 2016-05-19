@@ -13,8 +13,8 @@ collections:
   banners:
 timezone: BR
 lollipop:
-  title: Jornada de luta por Reforma Agrária 2016
-  link: jornada-nacional-de-luta-por-reforma-agraria
+  title: Festival da Reforma Agrária
+  link: festival-da-reforma-agraria
   enabled: true
 gems:
   - jekyll-sitemap
