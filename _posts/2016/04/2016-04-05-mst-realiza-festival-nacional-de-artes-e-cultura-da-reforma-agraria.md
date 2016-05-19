@@ -8,21 +8,9 @@ tags:
 title: MST realiza Festival Nacional de Artes e Cultura da Reforma Agrária
 support_line: "Entre os dias 20 e 24 de julho, a capital mineira, Belo Horizonte, receberá toda a produção cultural e artística do campo brasileiro"
 menu: "educação, cultura e comunicação"
-images_hd: //farm2.staticflickr.com/1535/26204755991_0042f92612_b.jpg
+images_hd: //farm8.staticflickr.com/7704/27018455092_ba16ed1154_b.jpg
 layout: post
 files:
-  - link: //farm2.staticflickr.com/1664/26160815832_00d683c01a_b.jpg
-    thumbnail: //farm2.staticflickr.com/1664/26160815832_00d683c01a_t.jpg
-    medium: //farm2.staticflickr.com/1664/26160815832_00d683c01a_z.jpg
-    small: //farm2.staticflickr.com/1664/26160815832_00d683c01a_n.jpg
-    title: PROPOSTA CARTAZ.jpg
-    $$hashKey: 06V
-  - link: //farm2.staticflickr.com/1535/26204755991_0042f92612_b.jpg
-    thumbnail: //farm2.staticflickr.com/1535/26204755991_0042f92612_t.jpg
-    medium: //farm2.staticflickr.com/1535/26204755991_0042f92612_z.jpg
-    small: //farm2.staticflickr.com/1535/26204755991_0042f92612_n.jpg
-    title: banner hot site.jpg
-    $$hashKey: 05F
   - link: "https://docs.google.com/uc?id=0Bwus_4SL8MWDSndkWXY2RU5BQ3M&export=download"
     thumbnail: "http://farm4.staticflickr.com/3852/15187675380_7b00f5fdff_b.jpg"
     title: Regulamento Mostra de Poesia.pdf
@@ -35,6 +23,12 @@ files:
     basename: Regulamento Festival de Música
     embed: "https://docs.google.com/uc?id=0Bwus_4SL8MWDWHREeGtQa1JrdzQ"
     $$hashKey: 0A3
+  - link: //farm8.staticflickr.com/7704/27018455092_ba16ed1154_b.jpg
+    thumbnail: //farm8.staticflickr.com/7704/27018455092_ba16ed1154_t.jpg
+    medium: //farm8.staticflickr.com/7704/27018455092_ba16ed1154_z.jpg
+    small: //farm8.staticflickr.com/7704/27018455092_ba16ed1154_n.jpg
+    title: Flyer.png
+    $$hashKey: 0LK
 created_date: "2016-04-05T11:57:02-03:00"
 published: true
 releated_posts:
@@ -86,4 +80,4 @@ Confira abaixo o regulamento do Festival e da Mostra:</p>
 
 <p>&nbsp;</p>
 
-<p><img alt="PROPOSTA CARTAZ.jpg" src="//farm2.staticflickr.com/1664/26160815832_00d683c01a_b.jpg" /></p>
+<p><img alt="Flyer.png" height="576" src="//farm8.staticflickr.com/7704/27018455092_ba16ed1154_b.jpg" width="700" /></p>
