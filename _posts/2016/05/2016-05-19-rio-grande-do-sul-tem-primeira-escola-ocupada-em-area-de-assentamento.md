@@ -4,7 +4,7 @@ tags:
   - tag: ocupação
   - tag: secundaristas
   - tag: lutas-e-mobilizações
-title: Rio Grande do Sul tem primeira escola ocupada em área de assentamento
+title: Já são duas escolas ocupadas em área de assentamento no Rio Grande do Sul
 support_line: "Os estudantes protestam contra o Projeto de Lei 44/2016, do governador José Ivo Sartori (PMDB), que visa privatizar parcialmente a educação pública."
 menu: lutas e mobilizações
 images_hd: //farm8.staticflickr.com/7440/27115758355_3c7984ca27_b.jpg
@@ -53,7 +53,10 @@ releated_posts:
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Alunos da Escola Estadual de Ensino M&eacute;dio Joceli Corr&ecirc;a do Assentamento Rondinha, no munic&iacute;pio de J&oacute;ia, na regi&atilde;o Norte do Rio Grande do Sul, ocuparam a institui&ccedil;&atilde;o na noite desta quarta-feira (18). Esta &eacute; a primeira escola ocupada em &aacute;rea de reforma agr&aacute;ria no estado.</p>
+Alunos da Escola Estadual de Ensino M&eacute;dio Joceli Corr&ecirc;a do Assentamento Rondinha, no munic&iacute;pio de J&oacute;ia, na regi&atilde;o Norte do Rio Grande do Sul, ocuparam a institui&ccedil;&atilde;o na noite desta quarta-feira (18).</p>
+
+<p><br />
+Esta &eacute; a segunda escola ocupada em &aacute;rea de Reforma Agr&aacute;ria no estado -&nbsp;a primeira foi Escola Estadual de Ensino M&eacute;dio Ant&ocirc;nio Conselheiro do Assentamento Bom Ser&aacute; -, em Santana do Livramento, na regi&atilde;o da Campanha, na &uacute;ltima segunda-feira (16).</p>
 
 <p><br />
 Os estudantes protestam contra o Projeto de Lei 44/2016, do governador Jos&eacute; Ivo Sartori (PMDB), que visa privatizar parcialmente a educa&ccedil;&atilde;o p&uacute;blica; e exigem o fim do parcelamento do sal&aacute;rios dos professores, mais investimentos na &aacute;rea da Educa&ccedil;&atilde;o e ensino de qualidade no campo.</p>
