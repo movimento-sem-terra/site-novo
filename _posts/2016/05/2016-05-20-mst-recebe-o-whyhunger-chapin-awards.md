@@ -6,7 +6,7 @@ tags:
 images_hd: //farm8.staticflickr.com/7732/27134747145_a856b47961_b.jpg
 menu: projeto popular
 title: "MST recebe o WhyHunger Chapin Awards "
-support_line: Premiação é concedida ao Movimento por seu impacto na luta por justiça social no Brasil através da promoção Reforma Agrária.
+support_line: Premiação foi concedida ao Movimento por seu impacto na luta por justiça social no Brasil através da promoção Reforma Agrária.
 section: cover
 layout: post
 files:
