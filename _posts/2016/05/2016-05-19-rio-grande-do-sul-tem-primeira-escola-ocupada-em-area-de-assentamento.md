@@ -10,12 +10,6 @@ menu: lutas e mobilizações
 images_hd: //farm8.staticflickr.com/7440/27115758355_3c7984ca27_b.jpg
 layout: post
 files:
-  - link: //farm8.staticflickr.com/7125/26841444210_fa0308830c_b.jpg
-    thumbnail: //farm8.staticflickr.com/7125/26841444210_fa0308830c_t.jpg
-    medium: //farm8.staticflickr.com/7125/26841444210_fa0308830c_z.jpg
-    small: //farm8.staticflickr.com/7125/26841444210_fa0308830c_n.jpg
-    title: 13241536_818251844974730_586048046_o.jpg
-    $$hashKey: "044"
   - link: //farm8.staticflickr.com/7440/27115758355_3c7984ca27_b.jpg
     thumbnail: //farm8.staticflickr.com/7440/27115758355_3c7984ca27_t.jpg
     medium: //farm8.staticflickr.com/7440/27115758355_3c7984ca27_z.jpg
@@ -40,6 +34,12 @@ files:
     small: //farm8.staticflickr.com/7315/27083760096_04a46a7164_n.jpg
     title: 13271528_818313701635211_1341681898_o.jpg
     $$hashKey: 05L
+  - link: //farm8.staticflickr.com/7274/27063541421_3b19958c64_b.jpg
+    thumbnail: //farm8.staticflickr.com/7274/27063541421_3b19958c64_t.jpg
+    medium: //farm8.staticflickr.com/7274/27063541421_3b19958c64_z.jpg
+    small: //farm8.staticflickr.com/7274/27063541421_3b19958c64_n.jpg
+    title: foto.jpg
+    $$hashKey: 12Q
 created_date: "2016-05-19T15:19:43-03:00"
 published: true
 releated_posts:
@@ -55,7 +55,7 @@ releated_posts:
   - _posts/2016/05/2016-05-13-mst-presta-solidariedade-aos-estudantes-da-etec-em-taubate.md
 
 ---
-<figure class="image"><img alt="13241536_818251844974730_586048046_o.jpg" height="525" src="//farm8.staticflickr.com/7125/26841444210_fa0308830c_b.jpg" width="700" />
+<figure class="image"><img alt="foto.jpg" height="539" src="//farm8.staticflickr.com/7274/27063541421_3b19958c64_b.jpg" width="700" />
 <figcaption></figcaption>
 </figure>
 
