@@ -106,6 +106,8 @@ Ela apresentou casos de assentados que perderam colmeias e toda a produ&ccedil;&
 <p><br />
 O representante da Secretaria de Sa&uacute;de do Estado, Dalto Paiva, conta que o munic&iacute;pio tem uma s&eacute;rie de casos de c&acirc;ncer, atribu&iacute;dos aos efeitos nefastos que, segundo ele, os agrot&oacute;xicos trazem para os trabalhadores rurais em toda a regi&atilde;o. &quot;Temos acompanhado os diversos problemas de sa&uacute;de causado pela ingest&atilde;o involunt&aacute;ria do veneno pulverizado&quot;, relatou.</p>
 
+<p>&nbsp;</p>
+
 <figure class="image"><img alt="_MG_0200.JPG" height="467" src="//farm8.staticflickr.com/7421/27036373862_fa9206bc46_b.jpg" width="700" />
 <figcaption></figcaption>
 </figure>
@@ -124,6 +126,8 @@ A audi&ecirc;ncia p&uacute;blica fez parte da Jornada Universit&aacute;ria em De
 
 <p><br />
 O evento encerrou com a concord&acirc;ncia entre os participantes de que o modelo agr&iacute;cola com base no uso de veneno est&aacute; com os dias contados, e que &eacute; cada vez mais urgente novas alternativas de produ&ccedil;&atilde;o de alimentos, entre elas a agroecol&oacute;gica, que n&atilde;o maltrata o meio ambiente e prioriza a vida, e n&atilde;o o lucro de poucos a qualquer pre&ccedil;o.</p>
+
+<p>&nbsp;</p>
 
 <figure class="image"><img alt="_MG_0225.JPG" height="467" src="//farm8.staticflickr.com/7378/27062567381_5248dc48da_b.jpg" width="700" />
 <figcaption></figcaption>
