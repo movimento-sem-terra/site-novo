@@ -4,7 +4,7 @@ tags:
   - tag: despejo
   - tag: Minas-Gerais
   - tag: violência-Reforma-Agrária
-title: "Mesmo sob cerco polícial, Sem Terra retomam a sede de Ariadnópolis"
+title: "Mesmo sob cerco polícial, Sem Terra decidem reocupar fazenda em MG"
 images_hd: //farm8.staticflickr.com/7683/26857564560_9932b7a048_b.jpg
 support_line: "Segundo relatos de uma das dirigentes estaduais, a polícia agiu com violência, agredindo deliberadamente as mulheres que estavam no local.   "
 menu: direitos humanos
