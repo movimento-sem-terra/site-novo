@@ -54,7 +54,7 @@ Da P&aacute;gina do MST</em></p>
 Movimentos do campo, advogados populares e a Comiss&atilde;o de Habita&ccedil;&atilde;o, Reforma Agr&aacute;ria e Urbana da Assembleia Legislativa de Goi&aacute;s realizaram, no dia 19 de maio, visita &agrave; Casa de Pris&atilde;o Provis&oacute;ria (CPP) de Rio Verde, munic&iacute;pio de Goi&aacute;s. Nesta CPP est&aacute; privado de liberdade o agricultor sem terra Lu&iacute;s Batista Borges, coordenador do acampamento Padre Josino, localizado em Santa Helena de Goi&aacute;s-GO.</p>
 
 <p><br />
-Luiz est&aacute; preso desde o dia 13 de maio, numa a&ccedil;&atilde;o coordenada pela Secretaria de Seguran&ccedil;a P&uacute;blica do estado com a Comarca de Santa Helena, em repress&atilde;o &agrave; a&ccedil;&atilde;o do MST para acelera&ccedil;&atilde;o da destina&ccedil;&atilde;o das &aacute;reas da Usina Santa Helena de A&ccedil;&uacute;car e &Aacute;lcool, ocupadas pelo movimento e declaradas &aacute;rea p&uacute;blica.</p>
+Luiz est&aacute; preso desde o dia 13 de abril, numa a&ccedil;&atilde;o coordenada pela Secretaria de Seguran&ccedil;a P&uacute;blica do estado com a Comarca de Santa Helena, em repress&atilde;o &agrave; a&ccedil;&atilde;o do MST para acelera&ccedil;&atilde;o da destina&ccedil;&atilde;o das &aacute;reas da Usina Santa Helena de A&ccedil;&uacute;car e &Aacute;lcool, ocupadas pelo movimento e declaradas &aacute;rea p&uacute;blica.</p>
 
 <p><br />
 No dia 11 de abril, a SESP emitiu portaria na qual estabelece regime de prontid&atilde;o da tropa militar do estado durante dois meses para a repress&atilde;o &agrave; conflitos urbanos e rurais.</p>
