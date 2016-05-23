@@ -6,7 +6,7 @@ tags:
   - tag: ceará
 title: "No ceará, assentamento Santana comemora 30 anos de luta e resistência"
 support_line: "Durante toda a semana foram realizadas atividades com o intuito de celebrar e reafirmar a necessidade de luta na construção da Reforma Agrária Popular.\n"
-images_hd: //farm8.staticflickr.com/7591/27099843882_df7e462b6a_b.jpg
+images_hd: //farm8.staticflickr.com/7669/26591337784_929260fef7_b.jpg
 menu: reforma agrária
 layout: post
 files:
@@ -34,6 +34,18 @@ files:
     small: //farm8.staticflickr.com/7591/27099843882_df7e462b6a_n.jpg
     title: WhatsApp-Image-20160521 (1).jpg
     $$hashKey: 0KD
+  - link: //farm8.staticflickr.com/7669/26591337784_929260fef7_b.jpg
+    thumbnail: //farm8.staticflickr.com/7669/26591337784_929260fef7_t.jpg
+    medium: //farm8.staticflickr.com/7669/26591337784_929260fef7_z.jpg
+    small: //farm8.staticflickr.com/7669/26591337784_929260fef7_n.jpg
+    title: 13241386_1108410469223405_1427679314548496278_n.jpg
+    $$hashKey: "115"
+  - link: //farm8.staticflickr.com/7788/26591337974_82d3a85e26_b.jpg
+    thumbnail: //farm8.staticflickr.com/7788/26591337974_82d3a85e26_t.jpg
+    medium: //farm8.staticflickr.com/7788/26591337974_82d3a85e26_z.jpg
+    small: //farm8.staticflickr.com/7788/26591337974_82d3a85e26_n.jpg
+    title: 13245340_1108410379223414_3459757769461864137_n.jpg
+    $$hashKey: "118"
 created_date: "2016-05-23T12:47:32-03:00"
 published: true
 releated_posts:
@@ -49,7 +61,9 @@ releated_posts:
   - _posts/2016/05/2016-05-16-estamos-aqui-ha-quatro-anos-lutando-e-resistindo-e-daqui-nao-sairemos.md
 
 ---
-<p><img alt="WhatsApp-Image-20160521.jpg" height="394" src="//farm8.staticflickr.com/7386/27195557495_1e9b325d80_b.jpg" width="700" /></p>
+<figure class="image"><img alt="13245340_1108410379223414_3459757769461864137_n.jpg" height="525" src="//farm8.staticflickr.com/7788/26591337974_82d3a85e26_b.jpg" width="700" />
+<figcaption></figcaption>
+</figure>
 
 <p>&nbsp;</p>
 
@@ -81,10 +95,19 @@ O assentamento Santana &eacute; o primeiro assentamento de Reforma Agr&aacute;ri
 Tabosa.</p>
 
 <p><br />
-No in&iacute;cio contava com 78 fam&iacute;lias, atualmente s&atilde;o 95;&nbsp;com uma popula&ccedil;&atilde;o de aproximadamente 600 habitantes. Durante esse 30 anos foram diversas conquistas, entre elas; a terra, habita&ccedil;&atilde;o, escola, com&eacute;rcio, cooperativa, cursos de forma&ccedil;&atilde;o profissional, posto de sa&uacute;de, a&ccedil;udes, energia el&eacute;trica, adultora, po&ccedil;os profundo, casa digital e&nbsp;ponto de cultura.</p>
+No in&iacute;cio contava com 78 fam&iacute;lias, atualmente s&atilde;o 95;&nbsp;com uma popula&ccedil;&atilde;o de aproximadamente 600 habitantes. Durante esse 30 anos foram diversas conquistas, entre elas; a terra, habita&ccedil;&atilde;o, escola, com&eacute;rcio, cooperativa, cursos de forma&ccedil;&atilde;o profissional, posto de sa&uacute;de, a&ccedil;udes, energia el&eacute;trica, adultora, po&ccedil;os profundo, casa digital e&nbsp;ponto de cultura.<br />
+<br />
+&nbsp;</p>
+
+<figure class="image"><img alt="WhatsApp-Image-20160521 (1).jpg" height="394" src="//farm8.staticflickr.com/7591/27099843882_df7e462b6a_b.jpg" width="700" />
+<figcaption></figcaption>
+</figure>
 
 <p><br />
 O assentamento conta com apoio&nbsp;da comunidade&nbsp;Eclesiastes de base(CEBs),e do Sindicato dos Trabalhadores Rurais (STR).</p>
 
 <p><br />
 Para Virg&iacute;nia dos Santos (78), assentada, e uma das primeiras militantes das CEBs da Diocese de Crate&uacute;s &quot;O&nbsp;assentamento Santana &eacute; fruto das lutas dos oprimidos em busca em busca da liberta&ccedil;&atilde;o&quot;.</p>
+
+<p><br />
+<img alt="13241386_1108410469223405_1427679314548496278_n.jpg" height="525" src="//farm8.staticflickr.com/7669/26591337784_929260fef7_b.jpg" width="700" /></p>
