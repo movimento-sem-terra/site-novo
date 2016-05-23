@@ -7,7 +7,7 @@ tags:
   - tag: educandos
 images_hd: //farm8.staticflickr.com/7129/26593936634_16d72f47f0_b.jpg
 title: Educandos do MST recebem o 9º Prêmio Orirerê
-support_line: "Foi mais de 500 trabalhos inscritos dos colégios estaduais de 79 cidades paranaenses, entre elas de duas escolas MST."
+support_line: "Foram mais de 500 trabalhos inscritos dos colégios estaduais de 79 cidades paranaenses, entre elas de duas escolas MST."
 menu: "educação, cultura e comunicação"
 layout: post
 files:
@@ -62,7 +62,7 @@ Da P&aacute;gina do MST</em></p>
 Na tarde da &uacute;ltima quinta-feira (19), no plen&aacute;rio da Assembleia Legislativa do Paran&aacute;, em Curitiba, foram entregues os diplomas a alunos e professores que participaram do 9&ordm; Pr&ecirc;mio Orirer&ecirc; &ndash; Cabe&ccedil;as Iluminadas, com o tema &ldquo;Zumbi dos Palmares &ndash; Her&oacute;i Nacional&rdquo;, nas categorias de pintura, reda&ccedil;&atilde;o e m&uacute;sica.</p>
 
 <p><br />
-Foi mais de 500 trabalhos inscritos dos col&eacute;gios estaduais de 79 cidades paranaenses, entre elas de duas escolas do MST, o Col&eacute;gio Estadual do Campo Contestado, no Assentamento Contestado, na Lapa, que venceu como melhor reda&ccedil;&atilde;o, e a Escola Itinerante Paulo Freire, situada no Acampamento Reduto de Caraguat&aacute;, no munic&iacute;pio de Paula Freitas, ganhadora como melhor pintura.</p>
+Foram&nbsp;mais de 500 trabalhos inscritos dos col&eacute;gios estaduais de 79 cidades paranaenses, entre elas de duas escolas do MST, o Col&eacute;gio Estadual do Campo Contestado, no Assentamento Contestado, na Lapa, que venceu como melhor reda&ccedil;&atilde;o, e a Escola Itinerante Paulo Freire, situada no Acampamento Reduto de Caraguat&aacute;, no munic&iacute;pio de Paula Freitas, ganhadora como melhor pintura.</p>
 
 <p><br />
 O pr&ecirc;mio - que foi criado em 2009, pelo Centro Cultural Humait&aacute;, no Paran&aacute;, tem como objetivo valorizar e dar visibilidade a cultura africana e &agrave; presen&ccedil;a negra no estado -, levou&nbsp;os autores dos melhores trabalhos&nbsp;para conhecer o Museu Afro Brasil, em S&atilde;o Paulo.</p>
