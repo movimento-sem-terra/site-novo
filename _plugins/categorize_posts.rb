@@ -5,7 +5,7 @@ module Jekyll
 
     def generate(site)
       @all_articles = site.posts
-      @newest_post = @all_articles.docs.sort { |a, b| b <=> a }[0..800]
+      @newest_post = @all_articles.docs.sort { |a, b| b <=> a }[0..1000]
       musicoteca  = find 'musicoteca', 'section', 50
       musicoteca_albuns = musicoteca.select{ |m| m.data['type'] == 'album' }
       musicoteca_tape = musicoteca.select{ |m| m.data['type'] == 'tape' }
