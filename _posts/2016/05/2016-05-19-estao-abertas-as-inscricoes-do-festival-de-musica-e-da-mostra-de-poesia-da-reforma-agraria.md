@@ -8,7 +8,7 @@ tags:
 title: Estão abertas as inscrições do Festival de Música e da Mostra de Poesia da Reforma Agrária
 support_line: "Serão selecionados 60 poemas para integrar um livro, os quais serão recitados durante o Festival Nacional. Já o Festival de Música selecionará 40 canções inéditas, que serão apresentadas no evento."
 menu: "educação, cultura e comunicação"
-section: featured-news
+section: null
 images_hd: //farm8.staticflickr.com/7315/27112935555_048648d94e_b.jpg
 layout: post
 files:
