@@ -35,7 +35,9 @@ releated_posts:
   - _posts/2015/12/2015-12-16-mobilizacoes-desta-quarta-ja-se-iniciam-em-diversas-partes-do-brasil.md
 
 ---
-<p><img alt="WhatsApp-Image-20160524.jpg" height="467" src="//farm8.staticflickr.com/7280/27223384545_5e80124d67_b.jpg" width="700" /></p>
+<figure class="image"><img alt="WhatsApp-Image-20160524.jpg" height="467" src="//farm8.staticflickr.com/7280/27223384545_5e80124d67_b.jpg" width="700" />
+<figcaption>Fotos: M&iacute;dia Ninja&nbsp;</figcaption>
+</figure>
 
 <p>&nbsp;</p>
 
@@ -58,7 +60,7 @@ Na avalia&ccedil;&atilde;o dos movimentos, &eacute; neste mesmo lugar de fragili
 &ldquo;Um governo que n&atilde;o tem legitimidade conferida pelo voto, que tem um programa de retrocessos sociais, sem apoio popular, e que gera desconfian&ccedil;a internacional, este governo cria as condi&ccedil;&otilde;es objetivas para que neste prazo de 120 dias possamos derrotar este governo golpista&rdquo;, aponta Igor Felippe, membro da coordena&ccedil;&atilde;o nacional do MST e mediador do debate.</p>
 
 <figure class="image"><img alt="WhatsApp-Image-20160524 (1).jpg" height="467" src="//farm8.staticflickr.com/7728/26617894043_bb1808cb97_b.jpg" width="700" />
-<figcaption></figcaption>
+<figcaption>Fotos: M&iacute;dia Ninja&nbsp;</figcaption>
 </figure>
 
 <p><br />
@@ -72,7 +74,11 @@ Para o senador Lindberg Farias (PT/RJ),&nbsp;a popula&ccedil;&atilde;o j&aacute;
 <br />
 &nbsp;</p>
 
-<p><img alt="WhatsApp-Image-20160524 (2).jpg" height="467" src="//farm8.staticflickr.com/7627/26948244890_b732431dfa_b.jpg" width="700" /><br />
+<figure class="image"><img alt="WhatsApp-Image-20160524 (2).jpg" height="467" src="//farm8.staticflickr.com/7627/26948244890_b732431dfa_b.jpg" width="700" />
+<figcaption>Fotos: M&iacute;dia Ninja&nbsp;</figcaption>
+</figure>
+
+<p><br />
 <br />
 <strong>Calend&aacute;rio de atividades da Frente Brasil Popular</strong></p>
 
