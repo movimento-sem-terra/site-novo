@@ -6,7 +6,7 @@ tags:
   - tag: paraná
   - tag: direitos-humanos
 images_hd: //farm8.staticflickr.com/7692/27127911712_b70c581b5d_b.jpg
-title: Atuação de delegada em investigação do massacre de Quedas do Iguaçu-PR deve ser investigada
+title: "Para a Terra de Direitos, atuação de delegada do massacre de Quedas do Iguaçu deve ser investigada"
 support_line: "A Delegada é a responsável por conduzir a investigação da Polícia Civil sobre o caso em que Policiais Militares atacaram um acampamento sem terra e mataram dois trabalhadores, no último dia 7 de abril."
 menu: direitos humanos
 layout: post
@@ -38,12 +38,10 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p><em>Do Terra de Direitos</em></p>
+<p><em>Da&nbsp;Terra de Direitos</em></p>
 
 <p><br />
-&nbsp;</p>
-
-<p>Em um contexto de intensa criminaliza&ccedil;&atilde;o dos movimentos sociais, a Terra de Direitos protocolou, nesta sexta-feira (20), uma representa&ccedil;&atilde;o em que pede que seja investigada a atua&ccedil;&atilde;o da delegada de Pol&iacute;cia Civil, Ana Karine Palodetto, na apura&ccedil;&atilde;o do caso do massacre de trabalhadores rurais sem terra, em Quedas do Igua&ccedil;u (PR).</p>
+Em um contexto de intensa criminaliza&ccedil;&atilde;o dos movimentos sociais, a Terra de Direitos protocolou, nesta sexta-feira (20), uma representa&ccedil;&atilde;o em que pede que seja investigada a atua&ccedil;&atilde;o da delegada de Pol&iacute;cia Civil, Ana Karine Palodetto, na apura&ccedil;&atilde;o do caso do massacre de trabalhadores rurais sem terra, em Quedas do Igua&ccedil;u (PR).</p>
 
 <p><br />
 O documento, direcionado &agrave; Corregedoria Geral da Pol&iacute;cia Civil do Paran&aacute;, &agrave; Procuradoria de Justi&ccedil;a do Minist&eacute;rio P&uacute;blico do estado e para a 1&ordf; Promotoria de Justi&ccedil;a de Quedas do Igua&ccedil;u aponta que houve abuso de autoridade por parte de Ana Karine. A Delegada &eacute; a respons&aacute;vel por conduzir a investiga&ccedil;&atilde;o da Pol&iacute;cia Civil sobre o caso em que Policiais Militares atacaram um acampamento sem terra e mataram dois trabalhadores, no &uacute;ltimo dia 7 de abril.</p>
