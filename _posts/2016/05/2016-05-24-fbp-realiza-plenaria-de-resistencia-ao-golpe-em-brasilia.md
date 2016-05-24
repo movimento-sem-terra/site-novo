@@ -41,9 +41,7 @@ releated_posts:
   - _posts/2015/12/2015-12-16-mobilizacoes-desta-quarta-ja-se-iniciam-em-diversas-partes-do-brasil.md
 
 ---
-<p style="text-align:center"><img alt="Foto Plenária Frente Brasil DF.jpg" height="334" src="//farm8.staticflickr.com/7333/27188129756_04a1a4df9e_b.jpg" width="500" /></p>
-
-<p>&nbsp;</p>
+<p style="text-align:center"><img alt="Foto Plenária Frente Brasil DF.jpg" src="//farm8.staticflickr.com/7333/27188129756_04a1a4df9e_b.jpg" /></p>
 
 <p>&nbsp;</p>
 
