@@ -7,15 +7,15 @@ tags:
 title: Nota conjunta da FUP e CUT sobre o Pré-Sal e as ameaças dos golpistas à soberania
 support_line: "Abrir a operação do Pré-Sal para as multinacionais é o primeiro passo para acabar com o regime de partilha, conquistado a duras penas pelo povo brasileiro para que o Estado possa utilizar os recursos do petróleo em benefício da população."
 menu: projeto popular
-images_hd: //farm8.staticflickr.com/7132/26636199574_1c3a3876a3_b.jpg
+images_hd: //farm8.staticflickr.com/7385/26971270770_c97316bcc2_b.jpg
 layout: post
 files:
-  - link: //farm8.staticflickr.com/7132/26636199574_1c3a3876a3_b.jpg
-    thumbnail: //farm8.staticflickr.com/7132/26636199574_1c3a3876a3_t.jpg
-    medium: //farm8.staticflickr.com/7132/26636199574_1c3a3876a3_z.jpg
-    small: //farm8.staticflickr.com/7132/26636199574_1c3a3876a3_n.jpg
-    title: Chevron_Logo.svg.png
-    $$hashKey: 04E
+  - link: //farm8.staticflickr.com/7385/26971270770_c97316bcc2_b.jpg
+    thumbnail: //farm8.staticflickr.com/7385/26971270770_c97316bcc2_t.jpg
+    medium: //farm8.staticflickr.com/7385/26971270770_c97316bcc2_z.jpg
+    small: //farm8.staticflickr.com/7385/26971270770_c97316bcc2_n.jpg
+    title: gigantes_do_petroleo.jpg
+    $$hashKey: 05M
 created_date: "2016-05-25T11:50:45-03:00"
 published: true
 releated_posts:
