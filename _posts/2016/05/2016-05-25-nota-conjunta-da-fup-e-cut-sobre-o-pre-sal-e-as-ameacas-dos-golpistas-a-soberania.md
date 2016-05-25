@@ -35,7 +35,7 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p>A Federa&ccedil;&atilde;o &Uacute;nica dos Petroleiros (FUP) e a Central &Uacute;nica dos Trabalhadores (CUT) nesta ter&ccedil;a-feira (24) uma nota conjunta p&uacute;blica em defesa do regime de explora&ccedil;&atilde;o da camada Pr&eacute;-Sal, que se aponta como primeira &quot;moeda de troca dos golpistas&quot; ao ser proposta a abertura &agrave;s multinacionais. Leia a &iacute;ntegra do posicionamento:</p>
+<p>A Federa&ccedil;&atilde;o &Uacute;nica dos Petroleiros (FUP) e a Central &Uacute;nica dos Trabalhadores (CUT) lan&ccedil;aram nesta ter&ccedil;a-feira (24) uma nota conjunta p&uacute;blica em defesa do regime de explora&ccedil;&atilde;o da camada Pr&eacute;-Sal, que se aponta como primeira &quot;moeda de troca dos golpistas&quot; ao ser proposta a abertura &agrave;s multinacionais. Leia a &iacute;ntegra do posicionamento:</p>
 
 <p style="text-align: center;"><br />
 <strong>N&atilde;o permitiremos que o Pr&eacute;-Sal seja moeda de troca dos golpista</strong></p>
