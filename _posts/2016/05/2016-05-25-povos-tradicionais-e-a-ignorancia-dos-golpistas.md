@@ -20,6 +20,7 @@ created_date: "2016-05-25T12:55:06-03:00"
 published: true
 releated_posts:
   - _posts/2015/04/2015-04-10-brasilia-sera-palco-do-i-acampamento-terra-livre-em-defesa-dos-povos-indigenas.md
+section: featured-news
 
 ---
 <p><br />
