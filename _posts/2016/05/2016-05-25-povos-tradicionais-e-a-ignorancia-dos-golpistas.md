@@ -23,7 +23,8 @@ releated_posts:
 
 ---
 <p><br />
-<em>Gustavo Taboada Soldati (*)</em></p>
+<em>Gustavo Taboada Soldati (*)<br />
+Do Brasil de Fato</em></p>
 
 <p><br />
 O editorial do &ldquo;Estad&atilde;o&rdquo;, publicado no dia 16 de maio de 2016 evidencia a total ignor&acirc;ncia, xenofobia, conservadorismo e criminaliza&ccedil;&atilde;o daqueles que o assinam. Em resumo, este texto deprecia, sem nenhum conhecimento de causa ou respeito &agrave; hist&oacute;ria do povo brasileiro, a cria&ccedil;&atilde;o do Conselho Nacional dos Povos e Comunidades Tradicionais, atrav&eacute;s do Decreto Presidencial 8.750 de 9 de maio de 2016. O texto, sustentado em impress&otilde;es antropol&oacute;gicas rasas, critica a&ccedil;&otilde;es revolucion&aacute;rias do governo petista taxando-as de &ldquo;burocr&aacute;ticas&rdquo; e &ldquo;bolivarianas&rdquo;. &Eacute; mais do mesmo, mais mentiras e difama&ccedil;&otilde;es deliberadas contra um governo que ousou olhar e agir em favor dos pobres. Os autores desconhecem:</p>
