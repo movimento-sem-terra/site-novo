@@ -28,15 +28,11 @@ releated_posts:
 ---
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
+<p><em>Artigo&nbsp;de Jo&atilde;o Pedro Stedile<br />
+Para o Brasil de Fato</em></p>
 
-<p><em>Artido de Jo&atilde;o Pedro Stedile<br />
-Para o Brasil de Fato</em><br />
-&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>Bastaram algumas horas ou dias para o governo provis&oacute;rio dos golpistas assumirem seus postos para j&aacute; mostrarem a que vieram, com a composi&ccedil;&atilde;o do minist&eacute;rio, os planos anunciados e as declara&ccedil;&otilde;es p&uacute;blicas.</p>
+<p><br />
+Bastaram algumas horas ou dias para o governo provis&oacute;rio dos golpistas assumirem seus postos para j&aacute; mostrarem a que vieram, com a composi&ccedil;&atilde;o do minist&eacute;rio, os planos anunciados e as declara&ccedil;&otilde;es p&uacute;blicas.</p>
 
 <p><br />
 O senado afastou apenas temporariamente a presidenta Dilma Roussef e empossou provisoriamente o sr. Michel Temer. Segundo alguns juristas, a rigor, pela Constitui&ccedil;&atilde;o, o vice-presidente n&atilde;o poderia nem mudar o minist&eacute;rio. Apenas deveria tomar os atos administrativos at&eacute; que se julgue o m&eacute;rito. Mas a &uacute;ltima coisa que os golpistas e o conivente STF (Supremo Tribunal Federal) est&atilde;o fazendo &eacute; respeitar a Constitui&ccedil;&atilde;o. Agora vale tudo. Como disse Lula, &eacute; como se voc&ecirc; fosse viajar e deixasse sua casa aos cuidados de algu&eacute;m provisoriamente, e ele vendesse e alterasse tudo l&aacute; de dentro.</p>
