@@ -4,7 +4,7 @@ tags:
   - tag: feira-da-reforma-agrária
   - tag: agroecologia
   - tag: reforma-agrária
-title: MST realiza a III Feira Agrária no Ceará
+title: MST realiza III Feira Agrária no Ceará
 images_hd: //farm8.staticflickr.com/7508/27222122711_e401ca3105_b.jpg
 menu: reforma agrária
 support_line: "A programação do evento vai até o próximo sábado (28). "
@@ -60,6 +60,8 @@ O evento&nbsp;est&aacute; sendo realizado&nbsp;pelo MST&nbsp;em conjunto com a C
 
 <p><br />
 A programa&ccedil;&atilde;o que segue at&eacute; s&aacute;bado (28),&nbsp;conta com&nbsp;palestras&nbsp;sobre agroecologia e alimenta&ccedil;&atilde;o saud&aacute;vel, Reforma Reforma Agr&aacute;ria Popular, atos pol&iacute;ticos e educacionais.&nbsp;</p>
+
+<p>&nbsp;</p>
 
 <figure class="image"><img alt="WhatsApp-Image-20160527 (2).jpeg" height="394" src="//farm8.staticflickr.com/7047/26685954183_df30ddbbde_b.jpg" width="700" />
 <figcaption></figcaption>
