@@ -7,113 +7,11 @@
 
 
 main#musicoteca {
-  background-color: $mst-light-gray;
+  background-color: #e6e6e6;
   padding: 0;
   width: 100%;
   @include fill-parent();
 
-
-  & > header {
-    overflow: hidden;
-    background: url('https://farm8.staticflickr.com/7288/16203273487_0bdeaeddf6_z.jpg') no-repeat left top;
-    background-size: cover;
-    text-shadow: 1px 2px 4px #000000;
-    color: #ffffff;
-
-    .name-page {
-      color: #ffffff;
-    }
-
-    .content {
-      @include outer-container;
-      margin-top: 49px;
-
-      & > p{
-        text-shadow: 1px 2px 1px #000000;
-        font-family: 'Exo 2';
-        color: #ffffff;
-        font-weight: 500;
-        font-size: 18px;
-      }
-
-      h2 {
-        font-size: 36px;
-        font-style: italic;
-
-        @include media($mobile) {
-          padding: 10px;
-        }
-      }
-
-      #summary {
-        overflow: hidden;
-        float: left;
-
-        @include span-columns(6);
-        @include media($mobile) {
-          @include fill-parent();
-        }
-
-        p {
-          font: 500 18px / 24px;
-          font-weight: 200;
-          padding: 10px;
-        }
-      }
-    }
-
-    nav {
-
-      background: $mst-red;
-      transition-duration: .5s;
-      position: relative;
-
-      &.fixed {
-        position: fixed;
-        top: 0;
-        left:0;
-        z-index: 100;
-        box-shadow: 1px 0px 6px rgb(50, 50, 50);
-        background: rgba($mst-red, .85);
-        -webkit-backface-visibility:hidden;
-      }
-
-      ul {
-        padding: 5px;
-        margin: 0;
-        width: 100%;
-        text-align: center;
-        display: table;
-        table-layout: fixed;
-        width: 100%;
-
-        li {
-          display: table-cell;
-
-          a {
-            color: white;
-            font-weight: bold;
-            font-size: 1.5em;
-
-            @include media($mobile) {
-              font-size: 1em;
-            }
-
-            text-decoration: none;
-
-            &::after{
-              font-family: 'Glyphicons Halflings Regular', Helvetica, Arial, sans-serif;
-              content: " \E114";
-              font-size: 0.5em;
-              display: inline-block;
-              color: white;
-              margin-left: 0.5em;
-            }
-          }
-        }
-      }
-    }
-  }
 
   section {
     padding: 60px 10px;
@@ -264,6 +162,111 @@ main#musicoteca {
       }
     } // #mst-indica
   }
-
-
 }
+
+main#musicoteca > header {
+  display: flex;
+  justify-content: space-between;
+  overflow: hidden;
+  background-image: url('http://farm8.staticflickr.com/7573/27266226721_1d42bcde4a_b.jpg');
+  background-size: contain;
+  color: #ffffff;
+  height: 300px;
+  padding: 0 10px;
+
+  .icone {
+    margin: 0;
+  }
+
+  .icone-um {
+    background-image: url('/assets/img/musicoteca/icone1.png');
+    background-size: contain;
+    max-width: 300px;
+    background-repeat: no-repeat;
+    width: 100%;
+  }
+
+  .icone-dois {
+    background-image: url('/assets/img/musicoteca/icone2.png');
+    background-size: cover;
+    max-width: 450px;
+    background-repeat: no-repeat;
+    width: 100%;
+  }
+
+  .name-page {
+    color: #ffffff;
+  }
+
+  .content {
+    width: 100%;
+    align-self: center;
+
+    p{
+      font-family: 'Exo 2';
+      color: $mst-dark-gray;
+      font-weight: 400;
+      font-size: 1.2em;
+    }
+
+    h2 {
+      font-size: 36px;
+      font-style: italic;
+
+      @include media($mobile) {
+        padding: 10px;
+      }
+    }
+  }
+} // main#musicoteca > header {
+
+main#musicoteca > nav {
+  background: $mst-red;
+  transition-duration: .5s;
+  position: relative;
+
+  &.fixed {
+    position: fixed;
+    top: 0;
+    left:0;
+    z-index: 100;
+    box-shadow: 1px 0px 6px rgb(50, 50, 50);
+    background: rgba($mst-red, .85);
+    -webkit-backface-visibility:hidden;
+  }
+
+  ul {
+    padding: 5px;
+    margin: 0;
+    width: 100%;
+    text-align: center;
+    display: table;
+    table-layout: fixed;
+    width: 100%;
+
+    li {
+      display: table-cell;
+
+      a {
+        color: white;
+        font-weight: bold;
+        font-size: 1.5em;
+
+        @include media($mobile) {
+          font-size: 1em;
+        }
+
+        text-decoration: none;
+
+        &::after{
+          font-family: 'Glyphicons Halflings Regular', Helvetica, Arial, sans-serif;
+          content: " \E114";
+          font-size: 0.5em;
+          display: inline-block;
+          color: white;
+          margin-left: 0.5em;
+        }
+      }
+    }
+  }
+}// main#musicoteca > nav {
