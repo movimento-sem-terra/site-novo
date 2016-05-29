@@ -66,7 +66,7 @@ styles: ["playlist.css"]
     <ul>
       {% for tape in site.musicoteca.tape | limit: 3 %}
       <li>
-        {% include musicoteca/album.html album=tape %}
+        {% include musicoteca/cover-album.html album=tape %}
       </li>
       {% endfor %}
     </ul>
