@@ -6,7 +6,7 @@ tags:
   - tag: michel-temer
   - tag: reforma-agrária
 title: Temer transfere secretarias da reforma agrária e Incra para Casa Civil
-support_line: "Em decreto publicado nesta segunda-feira, dia 30.05, passam a ser de responsabilidades da Casa Civil as políticas da reforma agrária e da promoção do desenvolvimento sustentável da agricultura familiar."
+support_line: "Em decreto publicado nesta segunda-feira, passam a ser de responsabilidades da Casa Civil as políticas da reforma agrária e da promoção do desenvolvimento sustentável da agricultura familiar."
 section: cover
 menu: reforma agrária
 images_hd: //farm8.staticflickr.com/7122/27357681275_9440273289_b.jpg
