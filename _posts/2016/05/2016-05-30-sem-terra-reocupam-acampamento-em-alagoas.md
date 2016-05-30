@@ -4,7 +4,7 @@ tags:
   - tag: latifúndio
   - tag: alagoas
   - tag: ruralistas
-title: Sem Terra reocupam acampamento em Alagoas
+title: Sem Terra reocupam área em Alagoas
 support_line: "​O local vive sob intenso conflito pela disputa da área, liderado por um consórcio de latifundiários da região."
 menu: agronegócio
 images_hd: //farm8.staticflickr.com/7371/26747749753_7be755169f_b.jpg
