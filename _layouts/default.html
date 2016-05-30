@@ -22,6 +22,16 @@
         <link rel="stylesheet" type="text/css" href="{{ style }}" />
       {% endfor %}
     {% endif %}
+    {% if layout.styles %}
+      {% for style in layout.styles %}
+        <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/{{ style }}" />
+      {% endfor %}
+    {% endif %}
+    {% if layout.external_styles %}
+      {% for style in layout.external_styles %}
+        <link rel="stylesheet" type="text/css" href="{{ style }}" />
+      {% endfor %}
+    {% endif %}
 
   	</head>
   <body>
@@ -58,6 +68,16 @@
     {% endif %}
     {% if page.external_scripts %}
       {% for script in page.external_scripts %}
+        <script type="text/javascript" src="{{ script }}"></script>
+      {% endfor %}
+    {% endif %}
+    {% if layout.scripts %}
+      {% for script in layout.scripts %}
+        <script type="text/javascript" src="{{ site.baseurl }}/assets/js/{{ script }}"></script>
+      {% endfor %}
+    {% endif %}
+    {% if layout.external_scripts %}
+      {% for script in layout.external_scripts %}
         <script type="text/javascript" src="{{ script }}"></script>
       {% endfor %}
     {% endif %}
