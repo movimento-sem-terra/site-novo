@@ -7,7 +7,7 @@ tags:
 title: Os golpistas mostraram a que vieram
 support_line: "\"Ninguém aceitará nenhum processo de negociação ou sentará à mesa com representantes de um governo golpista, ilegítimo e apátrida.\""
 menu: projeto popular
-section: cover
+section: featured-news
 images_hd: //farm8.staticflickr.com/7306/27170532922_255409be5b_b.jpg
 layout: post
 files:
