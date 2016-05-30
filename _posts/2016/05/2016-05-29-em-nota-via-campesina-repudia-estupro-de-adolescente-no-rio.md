@@ -110,6 +110,8 @@ CONAQ&nbsp;- Coordena&ccedil;&atilde;o Nacional de Articula&ccedil;&atilde;o das
 
 <div>
 <p paraeid="{8f410ab3-3c91-4e81-acba-e33851efc0f6}{230}" paraid="977526514">MST &ndash; Movimento dos Trabalhadores Rurais Sem Terra&nbsp;</p>
+
+<p paraeid="{8f410ab3-3c91-4e81-acba-e33851efc0f6}{230}" paraid="977526514">CIMI -&nbsp;Conselho Indigenista Mission&aacute;rio&nbsp;</p>
 </div>
 
 <div class="OutlineElement Ltr SCX125471529" style="margin: 0px; padding: 0px; -webkit-user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; overflow: visible; cursor: text; clear: both; position: relative; direction: ltr; color: rgb(0, 0, 0); font-family: 'Segoe UI', Tahoma, Verdana, sans-serif; font-size: 8px; line-height: normal;">
