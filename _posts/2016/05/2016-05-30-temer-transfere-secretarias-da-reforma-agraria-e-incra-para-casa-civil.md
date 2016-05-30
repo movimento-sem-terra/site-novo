@@ -26,7 +26,7 @@ releated_posts:
   - _posts/2015/09/2015-09-29-cortar-ministerios-e-tirar-da-agenda-do-governo-a-maioria-do-povo-brasileiro.md
 
 ---
-<p>&nbsp;</p>
+<p><img alt="AgenciaBrasil160412_MCA3098.JPG" height="466" src="//farm8.staticflickr.com/7122/27357681275_9440273289_b.jpg" width="700" /></p>
 
 <p>&nbsp;</p>
 
