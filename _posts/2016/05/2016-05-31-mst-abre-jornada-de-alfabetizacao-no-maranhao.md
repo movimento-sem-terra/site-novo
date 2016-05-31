@@ -74,3 +74,9 @@ O estado do Maranh&atilde;o amarga um &iacute;ndice de analfabetismo de 19,31%. 
 
 <p><br />
 Para Auzerina Carneiro, da dire&ccedil;&atilde;o Nacional o MST, &quot;a educa&ccedil;&atilde;o &eacute; a maior ferramenta para mudar a sociedade e ela &eacute; o nosso maior instrumento de luta. N&oacute;s reconhecemos a jornada de alfabetiza&ccedil;&atilde;o como instrumento de mudan&ccedil;a na vida de milhares de maranhenses. Reconhecemos o empenho do governador Fl&aacute;vio Dino que tem vontade pol&iacute;tica de reduzir o &iacute;ndice de analfabetismo no Maranh&atilde;o. Sabemos que n&atilde;o &eacute; f&aacute;cil alfabetizar dentro desse sistema viciado das pol&iacute;ticas de jovens e adultos. O MST sempre esteve na luta pela erradica&ccedil;&atilde;o do analfabetismo e sabemos que &eacute; poss&iacute;vel construir uma sociedade diferente&quot;.</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><em>*Editado por Rafael Soriano</em></p>
