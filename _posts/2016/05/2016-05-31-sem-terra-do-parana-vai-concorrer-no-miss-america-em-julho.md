@@ -61,8 +61,10 @@ Jaires &eacute; conhecida como &ldquo;Baiana&rdquo; e mora no acampamento Dom To
 &ldquo;Meus pais me chamaram pra vir, falaram sobre a reforma agr&aacute;ria popular e as viv&ecirc;ncias do acampamento que eles se somavam. Ent&atilde;o, decidi vir&rdquo;. Jaires nasceu e cresceu em Valen&ccedil;a, na Bahia e foi criada numa comunidade rural com pai, m&atilde;e, mais seis irm&atilde;s e irm&atilde;os mais velhos e um irm&atilde;o mais novo.</p>
 
 <p><br />
-Jaires est&aacute; inserida na escala de atividades do acampamento. Seja na &ldquo;produ&ccedil;&atilde;o&rdquo;, que s&atilde;o ro&ccedil;adas, plantio, colheita; na &ldquo;Infra&rdquo;, que s&atilde;o atividades da parte estrutural do acampamento, como alguma reforma na escola, limpeza de nascente; ou nos servi&ccedil;os gerais, como lavar o barrac&atilde;o coletivo. &ldquo;No fim da tarde eu vou para a cidade, para trabalhar como bab&aacute;&rdquo;. Jaires tamb&eacute;m cuida de atividades dom&eacute;sticas de sua casa e de seu &ldquo;lotinho&rdquo;.<br />
-Nas horas vagas, Baiana &eacute; miss.</p>
+Jaires est&aacute; inserida na escala de atividades do acampamento. Seja na &ldquo;produ&ccedil;&atilde;o&rdquo;, que s&atilde;o ro&ccedil;adas, plantio, colheita; na &ldquo;Infra&rdquo;, que s&atilde;o atividades da parte estrutural do acampamento, como alguma reforma na escola, limpeza de nascente; ou nos servi&ccedil;os gerais, como lavar o barrac&atilde;o coletivo. &ldquo;No fim da tarde eu vou para a cidade, para trabalhar como bab&aacute;&rdquo;. Jaires tamb&eacute;m cuida de atividades dom&eacute;sticas de sua casa e de seu &ldquo;lotinho&rdquo;.</p>
+
+<p><br />
+<strong>Nas horas vagas, Baiana &eacute; miss.</strong></p>
 
 <p><br />
 &ldquo;Eu sempre tive vontade de ser modelo, cheguei at&eacute; fazer uma sele&ccedil;&atilde;o quando morava no Esp&iacute;rito Santo, mas n&atilde;o deu em nada&rdquo;. Foi abordada por seu padrinho de carreira quando participava de um encontro de jovens no acampamento. &ldquo;O professor Fabiano Zanatta sugeriu que eu tinha um perfil pra ser Miss Paran&aacute;. Ele me orientou sobre as etapas desse processo e me apoiou pra que eu me inscrevesse no concurso municipal. A partir da&iacute; eu pensei &lsquo;&Eacute; isso que eu quero pra mim, me encontrei!&rsquo;&rdquo;, conta.</p>
