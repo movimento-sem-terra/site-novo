@@ -98,4 +98,4 @@ El Khalili, Amyra. Desmistificando REDD e Servi&ccedil;os Ambientais por Michael
 
 <p>&nbsp;</p>
 
-<p>**Editado por Rafael Soriano</p>
+<p><em>**Editado por Rafael Soriano</em></p>
