@@ -58,3 +58,9 @@ Para esta edi&ccedil;&atilde;o, a estimativa das fam&iacute;lias &eacute; vender
 
 <p><br />
 A 2&ordf; Feira do Feij&atilde;o Org&acirc;nico tem o apoio da Bionatur; Cooperativa de Produ&ccedil;&atilde;o Agropecu&aacute;ria Vista Alegre (Coopava), do Assentamento Conquista da Liberdade; Cooperativa de Comercializa&ccedil;&atilde;o e Presta&ccedil;&atilde;o de Servi&ccedil;os dos Assentados da Regi&atilde;o Sul (Coopersul), do Assentamento 8 de Maio; e Empresa de Assist&ecirc;ncia T&eacute;cnica e Extens&atilde;o Rural (Emater/RS).</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><em>*Editado por Rafael Soriano</em></p>
