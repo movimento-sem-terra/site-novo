@@ -25,6 +25,16 @@ releated_posts:
 section: cover
 
 ---
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><em>Da P&aacute;gina do MST</em></p>
+
+<p>&nbsp;</p>
+
 <p>No contexto de recrudescimento das for&ccedil;as conservadoras e recorrente persegui&ccedil;&atilde;o aos movimentos de luta democr&aacute;tica, o MST no estado de Goi&aacute;s tem denunciado a instaura&ccedil;&atilde;o de um clima de criminaliza&ccedil;&atilde;o aos seus militantes (Leia mais <a href="http://www.mst.org.br/2016/04/20/mst-denuncia-estado-de-sitio-em-go.html">aqui</a>). Nesta segunda-feira (30), o militante pela Reforma Agr&aacute;ria Jos&eacute; Valdir Misnerovicz foi preso em Veran&oacute;polis (RS) numa opera&ccedil;&atilde;o desencadeada pela Pol&iacute;cia Civil de Goi&aacute;s e articulada com a Pol&iacute;cia do Rio Grande do Sul.</p>
 
 <p><br />
