@@ -22,6 +22,7 @@ releated_posts:
   - _posts/2016/04/2016-04-20-mst-denuncia-estado-de-sitio-em-go.md
   - _posts/2015/02/2015-02-02-e-a-luta-continua-aumentam-as-ameacas-aos-povos-originarios-do-brasil.md
   - _posts/2015/03/2015-03-16-uma-semana-apos-despejo-gado-de-eunicio-de-oliveira-pisoteiam-os-alimentos-de-3-mil-familias.md
+section: cover
 
 ---
 <p>No contexto de recrudescimento das for&ccedil;as conservadoras e recorrente persegui&ccedil;&atilde;o aos movimentos de luta democr&aacute;tica, o MST no estado de Goi&aacute;s tem denunciado a instaura&ccedil;&atilde;o de um clima de criminaliza&ccedil;&atilde;o aos seus militantes (Leia mais <a href="http://www.mst.org.br/2016/04/20/mst-denuncia-estado-de-sitio-em-go.html">aqui</a>). Nesta segunda-feira (30), o militante pela Reforma Agr&aacute;ria Jos&eacute; Valdir Misnerovicz foi preso em Veran&oacute;polis (RS) numa opera&ccedil;&atilde;o desencadeada pela Pol&iacute;cia Civil de Goi&aacute;s e articulada com a Pol&iacute;cia do Rio Grande do Sul.</p>
