@@ -1,6 +1,9 @@
 ---
 date: "2016-06-02T10:55:05-03:00"
-tags: []
+tags:
+  - tag: agroecologia
+  - tag: agricultura-camponesa
+  - tag: meio-ambiente
 title: "Semana do Meio Ambiente: 70% dos alimentos são produzidos por pequenos agricultores"
 support_line: Movimentos camponeses usam período para debater sobre a importância da agroecologia
 images_hd: //farm8.staticflickr.com/7460/27416835205_dacc0cf998_b.jpg
@@ -16,7 +19,11 @@ files:
     $$hashKey: 02X
 created_date: "2016-06-02T11:32:59-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2016/03/2016-03-04-a-producao-de-alimentos-saudaveis-e-uma-arma-contra-o-agronegocio-afirmam-sem-terra.md
+  - _posts/2016/05/2016-05-10-educacao-e-agroecologia-em-discussao-no-parana.md
+  - _posts/2016/05/2016-05-09-bionatur-lanca-campanha-promocional-de-sementes-agroecologicas.md
+  - _posts/2016/03/2016-03-01-produtos-da-reforma-agraria-sao-comercializados-em-shoping-da-capital-sergipana.md
 
 ---
 <figure class="image"><img alt="27367552166_6c73f39d47_z.jpg" src="//farm8.staticflickr.com/7460/27416835205_dacc0cf998_b.jpg" />
