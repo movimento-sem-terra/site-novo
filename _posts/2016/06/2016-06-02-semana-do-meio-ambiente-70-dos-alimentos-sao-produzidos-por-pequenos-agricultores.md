@@ -32,8 +32,6 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
-
 <p><em>Por J&uacute;lia Dolce<br />
 Do Brasil de Fato</em></p>
 
