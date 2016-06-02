@@ -25,17 +25,11 @@ releated_posts:
   - _posts/2016/02/2016-02-25-em-nota-mst-repudia-lei-antiterrorismo-e-exige-o-veto-completo-do-projeto.md
 
 ---
-<p>&nbsp;</p>
+<p><br />
+<em>Da CPT</em></p>
 
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p><em>Da CPT</em></p>
-
-<p>&nbsp;</p>
-
-<p>A Comiss&atilde;o Pastoral da Terra lan&ccedil;ou nesta quarta-feira (01) Nota condenando a persegui&ccedil;&atilde;o aos lutadores pela Reforma Agr&aacute;ria e se posicionou veemente contra a pris&atilde;o de militantes pela Pol&iacute;cia de Goi&aacute;s, como ocorrido nesta ter&ccedil;a-feira (31) com Jos&eacute; Valdir Misnerovicz. Confira a nota:</p>
+<p><br />
+A Comiss&atilde;o Pastoral da Terra lan&ccedil;ou nesta quarta-feira (01) Nota condenando a persegui&ccedil;&atilde;o aos lutadores pela Reforma Agr&aacute;ria e se posicionou veemente contra a pris&atilde;o de militantes pela Pol&iacute;cia de Goi&aacute;s, como ocorrido nesta ter&ccedil;a-feira (31) com Jos&eacute; Valdir Misnerovicz. Confira a nota:</p>
 
 <p style="text-align: center;"><br />
 <strong>NOTA P&Uacute;BLICA</strong></p>
