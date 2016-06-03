@@ -34,6 +34,7 @@ releated_posts:
   - _posts/2016/04/2016-04-12-cpt-lancara-o-relatorio-conflitos-no-campo-brasil-2015.md
   - _posts/2016/01/2016-01-07-cpt-desafio-para-povos-do-campo-em-2016-sera-enorme.md
   - _posts/2015/07/2015-07-20-chega-ao-fim-o-4-congresso-da-comissao-pastoral-da-terra.md
+section: featured-news
 
 ---
 <p><img alt="image001(1).jpg" src="//farm8.staticflickr.com/7261/27162775900_d92dbd29e5_b.jpg" /></p>
