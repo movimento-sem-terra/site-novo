@@ -76,7 +76,8 @@ Visivelmente abalado, o ge&oacute;grafo afirmou que interpreta a pris&atilde;o c
 <p><br />
 <strong>Entenda o caso</strong></p>
 
-<p>O MST vem sendo alvo de problemas judiciais por conta de um processo que busca criminalizar o Movimento, enquadrando-o como organiza&ccedil;&atilde;o criminosa, com base na Lei 12.850/2013.</p>
+<p><br />
+O MST vem sendo alvo de problemas judiciais por conta de um processo que busca criminalizar o Movimento, enquadrando-o como organiza&ccedil;&atilde;o criminosa, com base na Lei 12.850/2013.</p>
 
 <p>Em 14 de abril deste ano, a Justi&ccedil;a, atrav&eacute;s da comarca de Santa Helena de Goi&aacute;s (GO), expediu mandado de pris&atilde;o contra os pequenos agricultores Luiz Batista, Diessyka Santana e Natalino de Jesus, integrantes do acampamento Padre Josimo (GO), e contra o ge&oacute;grafo Jos&eacute; Valdir, que &eacute; conhecido nacional e internacionalmente pela luta em defesa da reforma argr&aacute;ria. Diessyka e Natalino n&atilde;o chegaram a ser presos porque est&atilde;o exilados pelo Movimento, enquanto Luiz e Valdir est&atilde;o presos em Goi&aacute;s.</p>
 
@@ -85,7 +86,8 @@ Visivelmente abalado, o ge&oacute;grafo afirmou que interpreta a pris&atilde;o c
 <p><br />
 <strong>Impeachment e repress&atilde;o</strong></p>
 
-<p>Para o movimento, os fatos est&atilde;o em sintonia com o processo de impeachment que vem sendo enfrentado pela presidenta afastada Dilma Roussef, que, na vis&atilde;o dos movimentos populares como um todo, anuncia um per&iacute;odo de repress&atilde;o crescente aos grupos de esquerda.</p>
+<p><br />
+Para o movimento, os fatos est&atilde;o em sintonia com o processo de impeachment que vem sendo enfrentado pela presidenta afastada Dilma Roussef, que, na vis&atilde;o dos movimentos populares como um todo, anuncia um per&iacute;odo de repress&atilde;o crescente aos grupos de esquerda.</p>
 
 <p>O MST assegurou que, apesar do contexto e das tentativas de intimida&ccedil;&atilde;o, seguir&aacute; na luta pela reforma agr&aacute;ria. &quot;As fam&iacute;lias sem-terra n&atilde;o retroceder&atilde;o um passo sequer. Ao contr&aacute;rio, manter&atilde;o a luta contra a concentra&ccedil;&atilde;o de terra e pela justi&ccedil;a social em Goi&aacute;s&quot;, disse a entidade em nota.</p>
 
