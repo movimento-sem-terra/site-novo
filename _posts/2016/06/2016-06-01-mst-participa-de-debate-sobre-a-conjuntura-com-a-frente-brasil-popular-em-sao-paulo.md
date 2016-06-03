@@ -79,7 +79,7 @@ Com rela&ccedil;&atilde;o os desafios dos movimentos foram destacados, que &quot
 
 <p>&nbsp;</p>
 
-<p><img alt="WhatsApp-Image-20160601(2).jpg" height="253" src="//farm8.staticflickr.com/7371/26796197403_11bab54532_b.jpg" style="float:right" width="450" /></p>
+<p><img alt="WhatsApp-Image-20160601(2).jpg" height="253" src="//farm8.staticflickr.com/7371/26796197403_11bab54532_b.jpg" width="450" /></p>
 
 <p><br />
 Os palestrantes ressaltaram o importante papel que&nbsp; a CMP tem desempenhado na articula&ccedil;&atilde;o e mobiliza&ccedil;&otilde;es de ruas, no atual quadro pol&iacute;tico.</p>
