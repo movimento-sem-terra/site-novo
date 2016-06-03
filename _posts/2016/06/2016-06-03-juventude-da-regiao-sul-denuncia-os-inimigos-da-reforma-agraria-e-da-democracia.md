@@ -43,7 +43,7 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p>Nesta sexta-feira (03), a Juventude Sem Terra e a Frente Brasil Popular realizam escrachos na sede da RBS, filial a rede Globo de Santa Catarina, em Florian&oacute;polis, em defesa da Democracia e contra o golpe.</p>
+<p>Nesta sexta-feira (03), a Juventude Sem Terra e a Frente Brasil Popular realizaram escrachos na sede da RBS, filial a rede Globo de Santa Catarina, em Florian&oacute;polis, em defesa da Democracia e contra o golpe.</p>
 
 <p><br />
 &ldquo;O povo n&atilde;o &eacute; bobo, abaixo a rede globo! M&iacute;dia, golpista, sensacionalista! Democratize J&aacute;!...&rdquo; Foram algumas das mensagens que deram o tom das den&uacute;ncias que nortearam as palavras de ordem, interven&ccedil;&otilde;es art&iacute;sticas, lambe-lambes, m&uacute;sicas e batucadas.</p>
@@ -55,10 +55,12 @@ A juventude denuncia uma das respons&aacute;veis por patrocinar o golpe no Brasi
 Para a juventude, este espa&ccedil;o &eacute; tamb&eacute;m de aprendizado, pois eles sentem no dia-a-dia como a m&iacute;dia usa a classe trabalhadora. &ldquo;A atividade foi produtiva, conseguindo expor o sentimento do povo oprimido&rdquo;, disse um dos jovens que participaram.</p>
 
 <p><br />
-Com gritos de ordens de Fora Temer os jovens tamb&eacute;m se posicionaram contra este governo golpista, que vem tirando o direito dos trabalhadores, da educa&ccedil;&atilde;o p&uacute;blica e a participa&ccedil;&atilde;o social nas pol&iacute;ticas publicas da educa&ccedil;&atilde;o.</p>
+Com gritos de ordens de Fora Temer, os jovens tamb&eacute;m se posicionaram contra este governo golpista, que vem tirando o direito dos trabalhadores, da educa&ccedil;&atilde;o p&uacute;blica e a participa&ccedil;&atilde;o social nas pol&iacute;ticas publicas da educa&ccedil;&atilde;o.</p>
 
 <p><br />
-&ldquo;A juventude n&atilde;o aceita que seja rasgada a constitui&ccedil;&atilde;o, e vamos continuar na luta pelos direitos e n&atilde;o ao golpe&rdquo;, gritava a juventude durante o ato.<br />
+&ldquo;A juventude n&atilde;o aceita que seja rasgada a constitui&ccedil;&atilde;o, e vamos continuar na luta pelos direitos e contra o golpe&rdquo;, gritava a juventude durante o ato.<br />
 &nbsp;</p>
 
 <p>&nbsp;</p>
+
+<p><em>*Editado por Rafael Soriano</em></p>
