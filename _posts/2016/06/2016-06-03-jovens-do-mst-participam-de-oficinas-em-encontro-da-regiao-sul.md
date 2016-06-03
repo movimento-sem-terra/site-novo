@@ -61,6 +61,13 @@ Um dos locais da programa&ccedil;&atilde;o foi a ocupa&ccedil;&atilde;o do Minis
 <p><br />
 Os jovens permanecem at&eacute; o pr&oacute;ximo s&aacute;bado (04), em diversas atividades e oficinas, trocando experi&ecirc;ncia, aprendendo e construindo uma comunica&ccedil;&atilde;o popular.</p>
 
+<p><br />
+Confira o v&iacute;deo produzido pela equipe de comunica&ccedil;&atilde;o do encontro:</p>
+
+<p>&nbsp;</p>
+
+<p><iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/CQTZ-GaMoiU" width="640"></iframe></p>
+
 <p>&nbsp;</p>
 
 <p>&nbsp;</p>
