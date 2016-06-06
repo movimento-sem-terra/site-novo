@@ -6,7 +6,7 @@ tags:
   - tag: direitos-humanos
 support_line: "Segundo nota, o caso sinaliza os tempos sombrios, inaugurados com o Golpe à democracia efetuado pelo Congresso Nacional e com instalação de um governo provisório ilegítimo."
 menu: direitos humanos
-images_hd: //farm8.staticflickr.com/7656/27501541065_2c0fb700b6_b.jpg
+images_hd: //farm8.staticflickr.com/7322/27403265652_5025ef0845_b.jpg
 title: Encontro Brasileiro de Movimentos Populares em diálogo com o papa repudia prisão de militantes do MST em GO
 layout: post
 files:
@@ -16,6 +16,12 @@ files:
     small: //farm8.staticflickr.com/7656/27501541065_2c0fb700b6_n.jpg
     title: lutar-nao-e-crime2.jpg
     $$hashKey: 02X
+  - link: //farm8.staticflickr.com/7322/27403265652_5025ef0845_b.jpg
+    thumbnail: //farm8.staticflickr.com/7322/27403265652_5025ef0845_t.jpg
+    medium: //farm8.staticflickr.com/7322/27403265652_5025ef0845_z.jpg
+    small: //farm8.staticflickr.com/7322/27403265652_5025ef0845_n.jpg
+    title: lutar-nao-e-crime2.jpg
+    $$hashKey: 0B7
 created_date: "2016-06-06T11:51:42-03:00"
 published: true
 releated_posts:
