@@ -6,8 +6,8 @@ tags:
   - tag: nota
 images_hd: //farm8.staticflickr.com/7743/27506438585_1ce8b41b33_b.jpg
 menu: "educação, cultura e comunicação"
-title: MST-MG emite nota sobre notícia falsa veiculada no portal G1
-support_line: O Movimento dos Trabalhadores Rurais Sem Terra de Minas Gerais esclarece que não é responsável por nenhuma ocupação urbana da cidade de Teófilo Otoni.
+title: MST emite nota sobre notícia falsa veiculada no portal G1
+support_line: O MST de Minas Gerais esclarece que não é responsável por nenhuma ocupação urbana da cidade de Teófilo Otoni.
 layout: post
 files:
   - link: //farm8.staticflickr.com/7743/27506438585_1ce8b41b33_b.jpg
