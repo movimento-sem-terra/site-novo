@@ -5,7 +5,7 @@ tags:
   - tag: mobilizações
   - tag: direitos-humanos
   - tag: distrito-federal
-title: Sem-terra do DF e cidades do entorno participam de formação sobre direitos humanos e mobilização
+title: Sem Terra do DF e cidades do entorno participam de formação sobre direitos humanos e mobilização
 support_line: "Em seminário estadual, trabalhadores do campo refletem a conjuntura política e econômica e fortalecem a ação de resistência popular"
 images_hd: //farm8.staticflickr.com/7423/26893089954_f67a6fa559_b.jpg
 menu: reforma agrária
