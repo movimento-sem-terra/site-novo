@@ -4,7 +4,7 @@ tags:
   - tag: papa-francisco
   - tag: mariana
   - tag: movimentos-populares
-title: Teve início ontem o Encontro Brasileiro de Movimentos Populares em diálogo com o Papa Francisco
+title: Teve início Encontro Brasileiro de Movimentos Populares em diálogo com o Papa Francisco
 images_hd: //farm8.staticflickr.com/7290/27403279696_5084dc1ec4_b.jpg
 support_line: "Uma mesa de abertura, na manhã dessa quinta-feira (2) saudou os quase 300 participantes do evento"
 menu: projeto popular
