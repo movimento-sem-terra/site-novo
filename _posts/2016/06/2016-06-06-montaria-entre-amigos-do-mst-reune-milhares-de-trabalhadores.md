@@ -36,13 +36,13 @@ releated_posts:
 <p>Pelo quinto ano consecutivo, o MST em parceria com outras organiza&ccedil;&otilde;es do campo e da cidade realizaram nesse &uacute;ltimo s&aacute;bado (04) a tradicional &quot;Montaria dos amigos do MST&quot;.</p>
 
 <p><br />
-Nesse ano, a atividade contou com a participa&ccedil;&atilde;o de 3 mil pessoas que se reuniram na comunidade de Laranjeiras, no Prado, e percorreram 10 km at&eacute; o Assentamento Jac&iacute; Rocha, onde a montaria foi culminada com diversas apresenta&ccedil;&otilde;es musicais dos artistas da Reforma Agr&aacute;ria, como Emerson Batista e Adilson Silva e do amigo do MST, Vanoly Cigano.</p>
+Nesse ano, a atividade contou com a participa&ccedil;&atilde;o de 3 mil pessoas que se reuniram na comunidade de Limeira, no Prado, e percorreram 10 km at&eacute; o Assentamento Jac&iacute; Rocha, onde a montaria foi culminada com diversas apresenta&ccedil;&otilde;es musicais dos artistas da Reforma Agr&aacute;ria, como Emerson Batista e Adilson Silva e do amigo do MST, Vanoly Cigano.</p>
 
 <p><br />
 A montaria teve o objetivo de fortalecer a unidade entre os trabalhadores do campo e da cidade, pautando a Reforma Agr&aacute;ria Popular como instrumento de resgate e fortalecimento da cultura popular.</p>
 
 <p><br />
-De acordo Maristela Cunha, da dire&ccedil;&atilde;o estadual do MST, a atividade foi uma ferramente importante que permitiu fortalecer o di&aacute;logo com a sociedade e, ao mesmo tempo, permitiu resgatar tradi&ccedil;&otilde;es culturais que valorizam a identidade camponesa.</p>
+De acordo Maristela Cunha, da dire&ccedil;&atilde;o estadual do MST, a atividade foi uma ferramenta importante que permitiu fortalecer o di&aacute;logo com a sociedade e, ao mesmo tempo, permitiu resgatar tradi&ccedil;&otilde;es culturais que valorizam a identidade camponesa.</p>
 
 <p><br />
 &quot;A montaria dos amigos nos permite mostrar &agrave; sociedade que a Reforma Agr&aacute;ria muda a vida de muitas pessoas e n&atilde;o somente no &acirc;mbito econ&ocirc;mico, mas tamb&eacute;m no &acirc;mbito pol&iacute;tico e cultural, possibilitando-nos pautar nossa posi&ccedil;&atilde;o de classe&quot;, explicou.</p>
