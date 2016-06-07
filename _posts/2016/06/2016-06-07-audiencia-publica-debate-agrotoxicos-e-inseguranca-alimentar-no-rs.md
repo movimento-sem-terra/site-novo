@@ -32,10 +32,10 @@ releated_posts:
 <em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Nesta quarta-feira (8), o F&oacute;rum Ga&uacute;cho de Combate aos Impactos dos Agrot&oacute;xicos (FGCIA) realiza a audi&ecirc;ncia p&uacute;blica &#39;Os agrot&oacute;xicos e a (in)seguran&ccedil;a alimentar&#39;, no Teatro Dante Barone da Assembleia Legislativa do Rio Grande do Sul. O evento que ocorrer&aacute; das 13 &agrave;s 18 horas, tem como objetivo debater, coletar informa&ccedil;&otilde;es e propor encaminhamentos a respeito do impacto do uso de agrot&oacute;xicos na seguran&ccedil;a alimentar em diversos munic&iacute;pios do estado.</p>
+Nesta quarta-feira (8), o F&oacute;rum Ga&uacute;cho de Combate aos Impactos dos Agrot&oacute;xicos (FGCIA) realiza a audi&ecirc;ncia p&uacute;blica &#39;Os agrot&oacute;xicos e a (in)seguran&ccedil;a alimentar&#39;, no Teatro Dante Barone da Assembleia Legislativa do Rio Grande do Sul.</p>
 
 <p><br />
-A discuss&atilde;o contar&aacute; com representantes de &oacute;rg&atilde;os p&uacute;blicos, associa&ccedil;&otilde;es civis, estabelecimentos de sa&uacute;de, conselhos, universidades e movimentos sociais organizados.</p>
+O evento que ocorrer&aacute; das 13 &agrave;s 18 horas, tem como objetivo debater, coletar informa&ccedil;&otilde;es e propor encaminhamentos a respeito do impacto do uso de agrot&oacute;xicos na seguran&ccedil;a alimentar em diversos munic&iacute;pios do estado. A discuss&atilde;o contar&aacute; com representantes de &oacute;rg&atilde;os p&uacute;blicos, associa&ccedil;&otilde;es civis, estabelecimentos de sa&uacute;de, conselhos, universidades e movimentos sociais organizados.</p>
 
 <p><br />
 Durante a atividade, ser&aacute; lan&ccedil;ada a &ldquo;Consulta P&uacute;blica sobre Agrot&oacute;xicos&rdquo; no munic&iacute;pio de Porto Alegre, al&eacute;m do relan&ccedil;amento da Campanha Permanente contra os Agrot&oacute;xicos e pela Vida.</p>
