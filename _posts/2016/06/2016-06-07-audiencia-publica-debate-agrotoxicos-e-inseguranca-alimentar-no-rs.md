@@ -28,10 +28,8 @@ releated_posts:
   - _posts/2015/12/2015-12-03-no-parana-experiencias-comprovam-que-producao-agroecologica-e-possivel.md
 
 ---
-<p>&nbsp;</p>
-
-<p><em>Por Catiana Medeiros<br />
-Da P&aacute;gina do MST</em></p>
+<p><br />
+<em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
 Nesta quarta-feira (8), o F&oacute;rum Ga&uacute;cho de Combate aos Impactos dos Agrot&oacute;xicos (FGCIA) realiza a audi&ecirc;ncia p&uacute;blica &#39;Os agrot&oacute;xicos e a (in)seguran&ccedil;a alimentar&#39;, no Teatro Dante Barone da Assembleia Legislativa do Rio Grande do Sul. O evento que ocorrer&aacute; das 13 &agrave;s 18 horas, tem como objetivo debater, coletar informa&ccedil;&otilde;es e propor encaminhamentos a respeito do impacto do uso de agrot&oacute;xicos na seguran&ccedil;a alimentar em diversos munic&iacute;pios do estado.</p>
