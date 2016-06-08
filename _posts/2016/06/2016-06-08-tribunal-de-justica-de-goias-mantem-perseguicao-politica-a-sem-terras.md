@@ -4,7 +4,7 @@ tags:
   - tag: goiás
 menu: direitos humanos
 section: cover
-title: Tribunal de Justiça de Goiás mantem perseguição política à sem-terras
+title: Tribunal de Justiça de Goiás mantem perseguição política a Sem Terras
 support_line: "Em julgamentos realizados na tarde nesta terça (07), TJ nega habeas corpus aos agricultores e presos políticos Luiz Batista e José Valdir"
 images_hd: //farm8.staticflickr.com/7214/27547245635_be80b2af89_b.jpg
 layout: post
