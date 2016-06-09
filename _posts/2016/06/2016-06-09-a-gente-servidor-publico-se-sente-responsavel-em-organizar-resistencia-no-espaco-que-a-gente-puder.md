@@ -4,7 +4,7 @@ tags: []
 images_hd: //farm8.staticflickr.com/7299/27469356002_7a64ab85a5_b.jpg
 menu: lutas e mobilizações
 support_line: "Trabalhadores do serviço público, com apoio de movimentos populares e ex-ministros da pasta, realizam ato contra desmonte da política agrária."
-title: "\"A gente, servidor público, se sente responsável em organizar resistência no espaço que a gente puder\""
+title: "\"A gente, servidor público, se sente responsável em organizar resistência no espaço que puder\""
 section: featured-news
 layout: post
 files:
