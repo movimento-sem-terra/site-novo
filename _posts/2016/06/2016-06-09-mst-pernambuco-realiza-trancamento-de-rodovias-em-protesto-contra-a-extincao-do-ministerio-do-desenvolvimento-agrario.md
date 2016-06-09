@@ -4,8 +4,8 @@ tags:
   - tag: jornada-unitária-de-lutas
   - tag: democracia
   - tag: direitos-sociais
-title: MST Pernambuco realiza trancamento de rodovias em protesto contra a extinção do Ministério do Desenvolvimento Agrário
-support_line: O MST permanecerá mobilizado para denunciar o golpe de Estado em curso no Brasil e lutar para que nenhum direito seja retirado da classe trabalhadora.
+title: "No Pernambuco, MST tranca rodovias em protesto contra a extinção MDA"
+support_line: O Movimento permanecerá mobilizado para denunciar o golpe no Brasil e em luta para nenhum direito seja retirado da classe trabalhadora
 menu: lutas e mobilizações
 images_hd: //farm8.staticflickr.com/7080/27290861730_af77016f46_b.jpg
 layout: post
@@ -21,16 +21,12 @@ published: true
 releated_posts: []
 
 ---
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p><em>Por Phillyp Mikell<br />
+<p><br />
+<em>Por Phillyp Mikell<br />
 Da P&aacute;gina do MST</em></p>
 
-<p>&nbsp;</p>
-
-<p>Na manh&atilde; desta quinta-feira (09), o MST realizou paralisa&ccedil;&otilde;es em protesto contra a extin&ccedil;&atilde;o do Minist&eacute;rio do Desenvolvimento Agr&aacute;rio, contra os ataques &agrave; Previd&ecirc;ncia Rural e em defesa dos programas Minha Casa, Minha Vida - rural e Programa de Aquisi&ccedil;&atilde;o de Alimentos (PAA).</p>
+<p><br />
+Na manh&atilde; desta quinta-feira (09), o MST realizou paralisa&ccedil;&otilde;es em protesto contra a extin&ccedil;&atilde;o do Minist&eacute;rio do Desenvolvimento Agr&aacute;rio, contra os ataques &agrave; Previd&ecirc;ncia Rural e em defesa dos programas Minha Casa, Minha Vida - rural e Programa de Aquisi&ccedil;&atilde;o de Alimentos (PAA).</p>
 
 <p><br />
 Em Pernambuco as paralisa&ccedil;&otilde;es aconteceram simultaneamente no primeiro per&iacute;odo da manh&atilde;. Pontos importantes das BR 101, 232, 408 e 360, assim como trechos de algumas rodovias estaduais foram interrompidos. Cerca de 2 mil pessoas participaram das a&ccedil;&otilde;es em todo o estado.</p>
@@ -50,10 +46,7 @@ Serviu ao longo desses anos para fortalecer o desenvolvimento rural, a pol&iacut
 <p><br />
 Os MST permanecer&aacute; mobilizado para denunciar o golpe de Estado em curso no Brasil e lutar para que nenhum direito seja retirado da classe trabalhadora, assim como, continuar na defesa intransigente da Reforma Agr&aacute;ria Popular, por uma alimenta&ccedil;&atilde;o digna e saud&aacute;vel para toda a popula&ccedil;&atilde;o brasileira.</p>
 
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p><em>*Editado por Rafael Soriano</em></p>
+<p><br />
+<em>*Editado por Rafael Soriano</em></p>
 
 <p>&nbsp;</p>
