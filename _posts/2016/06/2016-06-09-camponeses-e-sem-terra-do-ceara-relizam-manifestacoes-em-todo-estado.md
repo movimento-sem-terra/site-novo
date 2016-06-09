@@ -4,7 +4,7 @@ tags:
   - tag: jornada-unitária-de-lutas
   - tag: democracia
   - tag: direitos-sociais
-title: Camponeses e Sem Terra do Ceará relizam manifestações em todo estado
+title: Camponeses do Ceará relizam manifestações em todo estado
 support_line: "Eles denunciam a retirada dos direitos dos trabalhadores, exigem o retorno imediato do Ministério do Desenvolvimento Agrário, e também dizem não ao governo golpista de Temer."
 menu: lutas e mobilizações
 images_hd: //farm8.staticflickr.com/7344/27567437245_a59816a3a6_b.jpg
