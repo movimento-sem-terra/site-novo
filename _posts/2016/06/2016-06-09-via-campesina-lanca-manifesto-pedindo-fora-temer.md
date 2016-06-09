@@ -19,6 +19,7 @@ files:
 created_date: "2016-06-09T17:46:16-03:00"
 published: true
 releated_posts: []
+section: featured-news
 
 ---
 <p><br />
