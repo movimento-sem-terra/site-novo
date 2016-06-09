@@ -4,7 +4,7 @@ tags:
   - tag: transgenicos
   - tag: monsanto
   - tag: vandana-shiva
-title: Batalha das Sementes e as ameaças da Monsanto contra a Natureza
+title: "Vandana Shiva: Batalha das Sementes e as ameaças da Monsanto contra a Natureza"
 menu: transgênicos
 support_line: "Como a imensa diversidade alimentar do planeta, mantida pelos agricultores por milênios, é ameaçada por empresas como a Monsanto. Quais as possíveis resistências"
 label: articles
