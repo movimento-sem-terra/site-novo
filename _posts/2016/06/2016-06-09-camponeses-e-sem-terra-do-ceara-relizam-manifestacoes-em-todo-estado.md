@@ -21,16 +21,15 @@ published: true
 releated_posts: []
 
 ---
-<p>&nbsp;</p>
+<p><br />
+<img alt="ce jornada.jpg" height="525" src="//farm8.staticflickr.com/7344/27567437245_a59816a3a6_b.jpg" width="700" /></p>
 
-<p>&nbsp;</p>
-
-<p><em>Por Aline Oliveira<br />
+<p><br />
+<em>Por Aline Oliveira<br />
 Da P&aacute;gina do MST</em></p>
 
-<p>&nbsp;</p>
-
-<p>Na manh&atilde; desta quinta feira (09) camponeses Sem Terra e outros movimentos sociais do campo se mobilizaram nas cidades de Santa Quit&eacute;ria, Tamboril, Crate&uacute;s, itapipoca, Quixeramobim, Iguatu, e Fortaleza somando cerca de 3500 manifestantes.</p>
+<p><br />
+Na manh&atilde; desta quinta feira (09) camponeses Sem Terra e outros movimentos sociais do campo se mobilizaram nas cidades de Santa Quit&eacute;ria, Tamboril, Crate&uacute;s, itapipoca, Quixeramobim, Iguatu, e Fortaleza somando cerca de 3500 manifestantes.</p>
 
 <p><br />
 Eles denunciam a retirada dos direitos dos trabalhadores, exigem o retorno imediato do Minist&eacute;rio do Desenvolvimento Agr&aacute;rio (MDA), e tamb&eacute;m dizem n&atilde;o ao governo golpista de Temer.</p>
@@ -41,8 +40,5 @@ A atividade foi realizada nos centros das cidades , com marchas e interven&ccedi
 <p><br />
 &quot;Exigimos que esse Governo golpista e ileg&iacute;timo devolva o direito do povo. N&atilde;o aceitamos o aumento das tarifas do Minha Casa Minha Vida, n&atilde;o admitimos que a idade para aposentadoria rural aumente, n&atilde;o aceitamos que um governo n&atilde;o aprovado pelo povo brasileiro se ache no direito de fazer do Brasil a p&aacute;tria dos abutres&quot;, afirma Genivando Santos, da coordena&ccedil;&atilde;o do MST.</p>
 
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p><em>*Editado por Rafael Soriano</em></p>
+<p><br />
+<em>*Editado por Rafael Soriano</em></p>
