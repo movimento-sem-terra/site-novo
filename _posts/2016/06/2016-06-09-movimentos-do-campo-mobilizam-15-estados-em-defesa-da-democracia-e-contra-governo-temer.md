@@ -120,7 +120,7 @@ Militantes do Movimento dos Atingidos por Barragens realizaram nesta quinta-feir
 <strong>PIAU&Iacute;</strong></p>
 
 <p><br />
-Cerca de 1000 trabalhadores do MCP, MPA, MAB e MST ocupam desde quarta-feira (08) a superintend&ecirc;ncia do Incra, em Teresina. Nesta quinta-feira (09), 600 militantes ocuparam a sede do INSS. Mais delega&ccedil;&otilde;es de camponeses est&atilde;o chegando &agrave; capital piauiense, somando um total de 4000 Sem Terra que participar&atilde;o da satividades unit&aacute;rias desta sexta-feira (10).</p>
+Cerca de 1000 trabalhadores do MCP, MPA, MAB e MST ocupam desde quarta-feira (08) a superintend&ecirc;ncia do Incra, em Teresina. Nesta quinta-feira (09), 600 militantes ocuparam a sede do INSS. Mais delega&ccedil;&otilde;es de camponeses est&atilde;o chegando &agrave; capital piauiense, somando um total de 4000 Sem Terra que participar&atilde;o das atividades unit&aacute;rias desta sexta-feira (10).</p>
 
 <p><br />
 <strong>RIO GRANDE DO NORTE</strong></p>
@@ -148,7 +148,7 @@ Em Pernambuco, foi realizado nesta quinta-feira (09) um bloqueio geral de estrad
 <strong>SANTA CATARINA</strong></p>
 
 <p><br />
-Em Chapec&oacute;, nesta quinta-feira (09), mais de 2000 trabalhadores rurais sem mobilizaram pelas ruas da cidade denunciando a perda de direitos dos camponeses. Na parte da manh&atilde; os militantes fecharam a ag&ecirc;ncia do Banco do Brasil e &agrave; tarde, ocuparam o INSS.</p>
+Em Chapec&oacute;, nesta quinta-feira (09), mais de 2000 trabalhadores rurais se mobilizaram pelas ruas da cidade denunciando a perda de direitos dos camponeses. Na parte da manh&atilde; os militantes fecharam a ag&ecirc;ncia do Banco do Brasil e &agrave; tarde, ocuparam o INSS.</p>
 
 <p><br />
 <strong>S&Atilde;O PAULO</strong></p>
@@ -170,7 +170,7 @@ Em Bel&eacute;m, camponeses organizados no MST, na Fetag-CUT, ribeirinhos, quilo
 <strong>DISTRITO FEDERAL</strong></p>
 
 <p><br />
-Parlamentares, ex-funcion&aacute;rios do MDA e militantes de diversos movimentos rurais protestaram em frente a dede do Minist&eacute;rio extinto pelo governo interino. A a&ccedil;&atilde;o que contou com mais de cem manifestantes &eacute; contra a extin&ccedil;&atilde;o do Minist&eacute;rio e contra as pol&iacute;ticas conservadoras de Temer.</p>
+Parlamentares, ex-funcion&aacute;rios do MDA e militantes de diversos movimentos rurais protestaram em frente a sede do Minist&eacute;rio extinto pelo governo interino. A a&ccedil;&atilde;o que contou com mais de cem manifestantes &eacute; contra a extin&ccedil;&atilde;o do Minist&eacute;rio e contra as pol&iacute;ticas conservadoras de Temer.</p>
 
 <p><br />
 <strong>CEAR&Aacute;</strong></p>
