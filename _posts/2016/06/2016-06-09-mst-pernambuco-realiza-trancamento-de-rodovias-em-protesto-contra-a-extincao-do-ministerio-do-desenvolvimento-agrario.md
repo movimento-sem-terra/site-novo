@@ -4,7 +4,7 @@ tags:
   - tag: jornada-unitária-de-lutas
   - tag: democracia
   - tag: direitos-sociais
-title: "No Pernambuco, MST tranca rodovias em protesto contra a extinção MDA"
+title: "Em Pernambuco, MST tranca rodovias em protesto contra a extinção MDA"
 support_line: O Movimento permanecerá mobilizado para denunciar o golpe no Brasil e em luta para nenhum direito seja retirado da classe trabalhadora
 menu: lutas e mobilizações
 images_hd: //farm8.staticflickr.com/7080/27290861730_af77016f46_b.jpg
