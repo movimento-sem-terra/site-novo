@@ -31,8 +31,6 @@ releated_posts:
 ---
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
-
 <p><em>Por Lizely borges<br />
 Da P&aacute;gina do MST</em></p>
 
@@ -81,7 +79,7 @@ Nosotros de las organizaciones campesinas de la Cloc- V&iacute;a Campesina Sudam
 
 <p>&nbsp;</p>
 
-<p><strong>NOTA DE 81 GRUPOS DE PESQUISA CONTRA A CRIMINALIZA&Ccedil;&Atilde;O DO MST E A PRIS&Atilde;O DE MILITANTES EM GOI&Aacute;S</strong></p>
+<p><strong>NOTA DE 130 GRUPOS DE PESQUISA CONTRA A CRIMINALIZA&Ccedil;&Atilde;O DO MST E A PRIS&Atilde;O DE MILITANTES EM GOI&Aacute;S</strong></p>
 
 <p><br />
 Os membros dos grupos de pesquisa abaixo listados denunciam o processo de criminaliza&ccedil;&atilde;o dos movimentos sociais, concretizado na&nbsp; pris&atilde;o abusiva de Jos&eacute; Valdir Misnerovicz, militante da reforma agr&aacute;ria e professor mestre em Geografia enquanto ministrava aulas no dia 31 de maio de 2016, na cidade de Veran&oacute;polis/RS. Acusamos ainda a arbitrariedade da pris&atilde;o do agricultor Sem Terra Luiz Batista Borges, recluso desde o dia 14 de abril de 2016. Estas a&ccedil;&otilde;es demonstram uma escalada da viol&ecirc;ncia perpetrada pelas for&ccedil;as do Estado para a manuten&ccedil;&atilde;o do estado golpista, que reprime organiza&ccedil;&otilde;es sociais pac&iacute;ficas, tentando caracteriz&aacute;-las como criminosas.</p>
@@ -180,3 +178,54 @@ Repudiamos as for&ccedil;as golpistas e sua escalada da viol&ecirc;ncia; nos sol
 79.&nbsp;&nbsp;&nbsp; Grupo de Pesquisa de Geografia das Lutas no Campo e na Cidade (GEOLUTAS) &ndash; Unioeste<br />
 80.&nbsp;&nbsp;&nbsp; Grupo de Pesquisa Meio Ambiente: sociedades tradicionais e sociedade hegem&ocirc;nica &ndash; PUC/PR<br />
 81.&nbsp;&nbsp;&nbsp; Laborat&oacute;rio de Investiga&ccedil;&atilde;o Teatro e Sociedade (LITS) &ndash; USP</p>
+
+<p>82. Laborat&oacute;rio de Experimenta&ccedil;&atilde;o em Hist&oacute;ria Social &ndash; UFRJ.<br />
+83. Movimentos sociais, rela&ccedil;&otilde;es de poder e pol&iacute;ticas p&uacute;blicas para o campo &ndash; CPDA/UFRRJ<br />
+84. N&uacute;cleo Milton Santos - Servi&ccedil;o Social UNG<br />
+85. Grupo de Estudos e Pesquisas do Or&ccedil;amento P&uacute;blico e da Seguridade Social/GOPSS &ndash; UERJ<br />
+86. N&uacute;cleo de Estudos em Trabalho, Cidadania e Desenvolvimento (NETRAD) - UFF<br />
+87. N&uacute;cleo de Estudos, Experi&ecirc;ncias e Pesquisas em Agroecologia (NEEPA) &ndash; UFC<br />
+88. Grupo de Estudos e Pesquisas em Pr&aacute;ticas Educativas (GEPPE) &ndash; UnB<br />
+89. Cooperativismo, desarrollo rural y emprendimientos solidarios en la Union Europea y Am&eacute;rica Latina (COODRESUEL) &ndash; Depto de Geografia, Universidad de Alicante, Espanha<br />
+90. Centro de Estudos Marxistas (Cemarx) &ndash; Unicamp/Uneb<br />
+91. Estado, pol&iacute;ticas e espa&ccedil;o p&uacute;blico &ndash; EPSJV/Fiocruz e FEBF/ UERJ<br />
+92. Grupo de Estudos rurais, urbanos e ambientais da Am&eacute;rica Latina (GERUAM-UNILA)<br />
+93. Grupo Interdisciplinar de Estudos e Pesquisa sobre Capitais Transnacionais (GIEPTALC)- UNILA<br />
+94. Rizoma&nbsp; grupo de Teatro del Oprimido &ndash; Buenos Aires/Argentina<br />
+95. N&uacute;cleo de Pesquisa em Pol&iacute;tica Externa Latino-americana (NUPELA) &ndash; UNILA<br />
+96. Grupo de Pesquisa em Agroecologia (UFFS)<br />
+97. Grupo de Estudos e Pesquisa em Educa&ccedil;&atilde;o, Classes e Conflitos Sociais (GEPECSO) &ndash; Unifesp<br />
+98. N&uacute;cleo Interdisciplinar de Estudos e Pesquisas (NIEP-Marx) &ndash; UFF<br />
+99. Laborat&oacute;rio de Estudos de Hist&oacute;ria Agr&aacute;ria e Movimentos Sociais (LEHAMS) &ndash; UFTM<br />
+100. N&uacute;cleo de Estudos de Hist&oacute;ria e Cultura Afro-Brasileira e Africana (NECHABA) &ndash; UFTM<br />
+101. Grupo de Pesquisa Educa&ccedil;&atilde;o Popular e movimentos sociais do Campo &ndash; UFPB<br />
+102. Grupo de Estudo e Pesquisa em Educa&ccedil;&atilde;o da Diversidade do Campo (GEPEDIC) UNESPAR-Campus Paranava&iacute;-PR<br />
+103. N&uacute;cleo da Escuela de Teatro Politico del Movimiento Popular La Dignidad &ndash; Buenos Aires/Argentina<br />
+104. Grupo de pesquisa c&ecirc;nica Casonero de Teatro del Oprimido&nbsp; &ndash;Buenos Aires/Argentina<br />
+105. Grupo de pesquisa c&ecirc;nica Teatro Popular La Otra Cosa &ndash; Buenos Aires/Argentina<br />
+106. Grupo Narrativas no realistas y fant&aacute;sticas en los a&ntilde;os ochenta en el Uruguay. Historia, cr&iacute;tica y teor&iacute;a&nbsp; (1980-1990) FHUCE/UDELAR/ Uruguay<br />
+107. N&uacute;cleo de Estudos e Pesquisas sobre Juventudes, Culturas, Identidades e Cidadania&nbsp; &ndash; NPEJI/UCSAL<br />
+108. N&uacute;cleo de Estudos e Pesquisa em Educa&ccedil;&atilde;o de Jovens e Adultos -NEPEJA &ndash; FaE/UEMG<br />
+109. Grupo de Estudos Educa&ccedil;&atilde;o e Teorias Cr&iacute;ticas &ndash; FEBF/ UERJ<br />
+110. Grupo de Estudos Agr&aacute;rios &ndash; LATEC/UEL<br />
+111. Coletivo de Estudos sobre Conflitos por Territ&oacute;rio e por Terra/ENCONTTRA (DGEOG/UFPR)</p>
+
+<p>112. N&uacute;cleo de Pesquisa e Extens&atilde;o Rural (NuPER) &ndash; UFSCar<br />
+113. Laborat&oacute;rio de Estudos Audoivisuais OLHO &ndash; Faculdade de Educa&ccedil;&atilde;o/Unicamp<br />
+114. Grupo de Estudos sobre Crise, Neodesenvolvimentismo e Direitos Sociais &ndash; UEMG<br />
+115. Grupo de Pesquisas Hidrossedimentol&oacute;gicas do Semi&aacute;rido - UFC<br />
+116. N&uacute;cleo de Pesquisa, Documenta&ccedil;&atilde;o e Refer&ecirc;ncia sobre Movimentos Sociais e Pol&iacute;ticas P&uacute;blicas no Campo &ndash; CPDA/UFRRJ<br />
+117. N&uacute;cleo de Estudos, Documenta&ccedil;&atilde;o e Dados sobre Trabalho e Educa&ccedil;&atilde;o (Neddate) &ndash; UFF<br />
+118. Trabalho, territ&oacute;rio e pol&iacute;ticas p&uacute;blicas (TRAPPU) &ndash; UFG-GO<br />
+119. Grupo de Pesquisa em Educa&ccedil;&atilde;o, Cultura e Pol&iacute;tica (Habitus) &ndash;IF Sert&atilde;o PE<br />
+120. N&uacute;cleo de Hist&oacute;ria Econ&ocirc;mica da Depend&ecirc;ncia Latino-Americana &ndash; HEDLA/UFRGS<br />
+121. Grupo de estudo e pesquisa do espaco rural (GEPER) &ndash; UEG<br />
+122. Cooperativismo Popular, Pol&iacute;&shy;ticas P&uacute;blicas e Desenvolvimento Regional &ndash; UFFS<br />
+123. Grupo de Estudos e Pesquisa em Geografia Agr&aacute;ria&nbsp; - NEPAT - IESA/UFG<br />
+124. Laborat&oacute;rio de Educa&ccedil;&atilde;o do Campo e Estudos a Reforma Agr&aacute;ria (LECERA) &ndash; UFSC<br />
+125. Laboratorio de habita&ccedil;&atilde;o e assentamentos humanos da Faculdade de Arquitetura e Urbanismo (LABHAB FAUUSP) &ndash; USP<br />
+126. N&uacute;cleo de Estudos em Agroecologia do Instituto Federal de Bras&iacute;lia Campus Planaltina<br />
+127. N&uacute;cleo de Pesquisa Urbana (Cidades) &ndash; UERJ<br />
+128. N&uacute;cleo de Agroecologia e Educa&ccedil;&atilde;o do Campo (NAEC) &ndash; UNIFESSPA<br />
+129 &ndash; Grupo de Estudos Amaz&ocirc;nicos &ndash; UFF<br />
+130 - Grupo de Estudos e Pesquisa em Educa&ccedil;&atilde;o do Campo - GEPEC - UFT/Tocantin&oacute;polis</p>
