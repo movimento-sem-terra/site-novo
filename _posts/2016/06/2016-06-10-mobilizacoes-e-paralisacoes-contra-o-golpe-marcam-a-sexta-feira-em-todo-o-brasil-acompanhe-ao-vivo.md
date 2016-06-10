@@ -5,8 +5,8 @@ tags:
   - tag: jornada-de-lutas
   - tag: brasil
   - tag: unidade
-title: Mobilizações e paralisações contra o golpe marcam a sexta-feira em todo o Brasil. Acompanhe ao vivo
-support_line: "Cobertura em tempo real das mobilizações da Jornada Nacional de Lutas contra o golpe e “Fora Temer!”"
+title: Mobilizações contra o golpe marcam a sexta-feira em todo o Brasil. Acompanhe ao vivo
+support_line: "Cobertura em tempo real da Jornada Nacional de Lutas contra o golpe e “Fora Temer!”"
 menu: lutas e mobilizações
 images_hd: //farm8.staticflickr.com/7455/27548896736_5f2d2ab32f_b.jpg
 section: cover
