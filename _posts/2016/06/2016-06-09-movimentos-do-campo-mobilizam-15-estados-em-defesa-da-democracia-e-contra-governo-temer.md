@@ -8,7 +8,7 @@ title: Movimentos do campo mobilizam 15 estados em defesa da democracia e contra
 support_line: "Com participação ampla da diversidade do campo e mobilizando cada localidade do país, Jornada rejeita mudanças na Previdência e na Conab e ecoa o grito “Fora Temer!”"
 menu: lutas e mobilizações
 images_hd: //farm8.staticflickr.com/7293/27290136920_d30d1ab002_b.jpg
-section: cover
+section: featured-news
 layout: post
 files:
   - link: //farm8.staticflickr.com/7293/27290136920_d30d1ab002_b.jpg
