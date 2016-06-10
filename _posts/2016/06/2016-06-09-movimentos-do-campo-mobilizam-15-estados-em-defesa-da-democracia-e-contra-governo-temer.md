@@ -54,14 +54,12 @@ releated_posts: []
 ---
 <p><img alt="WhatsApp-Image-201606081.jpg" height="467" src="//farm8.staticflickr.com/7293/27290136920_d30d1ab002_b.jpg" width="700" /></p>
 
-<p>&nbsp;</p>
-
-<p><em>Da P&aacute;gina do MST<br />
+<p><br />
+<em>Da P&aacute;gina do MST<br />
 Foto de Capa: Setor de Comunica&ccedil;&atilde;o MST/PR</em></p>
 
-<p>&nbsp;</p>
-
-<p>Sem Terras, quilombolas, pequenos agricultores, atingidos por barragens, ribeirinhos, pescadores e camponeses em geral realizam hoje mobiliza&ccedil;&otilde;es em todas as regi&otilde;es do pa&iacute;s. Os mais de 19 mil manifestantes se posicionam contra o governo ileg&iacute;timo de Michel Temer e seus ataques aos direitos sociais, duramente conquistados por gera&ccedil;&otilde;es de trabalhadores.</p>
+<p><br />
+Sem Terras, quilombolas, pequenos agricultores, atingidos por barragens, ribeirinhos, pescadores e camponeses em geral realizam hoje mobiliza&ccedil;&otilde;es em todas as regi&otilde;es do pa&iacute;s. Os mais de 19 mil manifestantes se posicionam contra o governo ileg&iacute;timo de Michel Temer e seus ataques aos direitos sociais, duramente conquistados por gera&ccedil;&otilde;es de trabalhadores.</p>
 
 <p><br />
 As medidas adotadas no curto per&iacute;odo de governo interino de Temer afetam diretamente a classe trabalhadora do campo. A extin&ccedil;&atilde;o de minist&eacute;rios (Minist&eacute;rios do Desenvolvimento Agr&aacute;rio e das Mulheres, Igualdade Racial e de Direitos Humanos), a fragiliza&ccedil;&atilde;o de programas como Minha Casa Minha Vida, Programa de Aquisi&ccedil;&atilde;o de Alimentos (PAA) e Bolsa Fam&iacute;lia, o ataque &agrave;s leis trabalhistas e a reforma da Previd&ecirc;ncia est&atilde;o na pauta dos atos.</p>
@@ -96,8 +94,6 @@ Os Sem Terra est&atilde;o mobilizados desde a quarta-feira (08), com mais de 120
 
 <p><br />
 Mais de 1500 trabalhadores do MST ocuparam no dia 08 o Incra em Salvador e suas unidades avan&ccedil;adas em Bom Jesus da Lapa e Itabuna. Nesta quinta-feira (09), cem pequenos agricultores do Movimento de Pequenos Agricultores (MPA) ocuparam a ag&ecirc;ncia do INSS em Jacobina.</p>
-
-<p>&nbsp;</p>
 
 <p><br />
 <strong>SERGIPE</strong></p>
@@ -187,5 +183,3 @@ Parlamentares, ex-funcion&aacute;rios do MDA e militantes de diversos movimentos
 
 <p><br />
 Pelas ruas de Crix&aacute;s, 400 camponeses repudiaram as a&ccedil;&otilde;es do governo interino Michel Temer, como o fim do Programa de aquisi&ccedil;&atilde;o de Alimentos (PAA) e tamb&eacute;m o fim do Minist&eacute;rio do Desenvolvimento Agr&aacute;rio (MDA). Em Catal&atilde;o foi ocupada a sede da Previd&ecirc;ncia Social por cerca de 700 militantes; Ainda, o MCP ocupou a Pra&ccedil;a Central de Posse com cem fam&iacute;lias.</p>
-
-<p>&nbsp;</p>
