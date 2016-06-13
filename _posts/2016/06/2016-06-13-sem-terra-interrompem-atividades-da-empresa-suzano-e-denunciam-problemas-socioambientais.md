@@ -6,7 +6,7 @@ tags:
 title: Sem Terra interrompem atividades da empresa Suzano e denunciam problemas socioambientais
 support_line: "O MST repudia o modelo de desenvolvimento do agronegócio, sem contribuir com o desenvolvimento social, cultural e ambiental da região. "
 menu: lutas e mobilizações
-images_hd: //farm8.staticflickr.com/7600/27036555734_d63d95a92d_b.jpg
+images_hd: //farm8.staticflickr.com/7114/27573743251_f1239d9a48_b.jpg
 layout: post
 files:
   - link: //farm8.staticflickr.com/7114/27573743251_f1239d9a48_b.jpg
@@ -26,9 +26,11 @@ published: true
 releated_posts: []
 
 ---
-<p>&nbsp;</p>
+<p><br />
+<img alt="ba4.jpg" height="467" src="//farm8.staticflickr.com/7114/27573743251_f1239d9a48_b.jpg" width="700" /></p>
 
-<p><em>Por Coletivo de Comunica&ccedil;&atilde;o do MST na Bahia<br />
+<p><br />
+<em>Por Coletivo de Comunica&ccedil;&atilde;o do MST na Bahia<br />
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
@@ -57,9 +59,11 @@ De acordo com a dire&ccedil;&atilde;o nacional do MST, a atual proposta de aumen
 <p>As cidades de Teixeira de Freitas e Eun&aacute;polis sofrem um crescimento desordenado e sem planifica&ccedil;&atilde;o, provocando assim o aumento do desemprego, da viol&ecirc;ncia e indig&ecirc;ncia.</p>
 
 <p><br />
-Al&eacute;m disso, os grandes monocultivos de eucalipto da Suzano est&atilde;o provocando a morte das nascentes, afluentes e rios da regi&atilde;o. A empresa tem provocado tamb&eacute;m um descontrole ambiental, exemplo disso, foi a invas&atilde;o de borboletas do eucalipto em v&aacute;rias cidades da regi&atilde;o, provocando enfermidades.</p>
+Al&eacute;m disso, os grandes monocultivos de eucalipto da Suzano est&atilde;o provocando a morte das nascentes, afluentes e rios da regi&atilde;o. A empresa tem provocado tamb&eacute;m um descontrole ambiental, exemplo disso, foi a invas&atilde;o de borboletas do eucalipto em v&aacute;rias cidades da regi&atilde;o, provocando enfermidades.<br />
+&nbsp;</p>
 
-<p><br />
+<p><img alt="ba3.jpg" height="467" src="//farm8.staticflickr.com/7600/27036555734_d63d95a92d_b.jpg" width="700" /><br />
+<br />
 <strong>Pelo rio Mucuri</strong></p>
 
 <p><br />
