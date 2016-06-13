@@ -5,7 +5,7 @@ title: "Agrotóxicos: 70% dos alimentos in natura consumidos no Brasil estão co
 images_hd: //farm8.staticflickr.com/7329/27652438285_05af6df387_b.jpg
 support_line: "O Brasil é o maior consumidor mundial de agrotóxicos e nos últimos anos ocorreu um aumento expressivo do uso desses produtos nas lavouras brasileiras, principalmente do Glifosato."
 menu: agronegócio
-section: featured-news
+section: cover
 layout: post
 files:
   - link: //farm8.staticflickr.com/7329/27652438285_05af6df387_b.jpg
