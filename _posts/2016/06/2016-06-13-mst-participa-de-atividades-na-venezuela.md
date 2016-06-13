@@ -26,7 +26,9 @@ releated_posts: []
 
 <p>&nbsp;</p>
 
-<p>No s&aacute;bado (04), os estudantes de medicina da Escola Latino-americana de Medicina Salvador Allende (Elam), organizaram uma atividade de an&aacute;lise de conjuntura sobre a defesa da democracia na Venezuela e no Brasil.<br />
+<p>No s&aacute;bado (04), os estudantes de medicina da Escola Latino-americana de Medicina Salvador Allende (Elam), organizaram uma atividade de an&aacute;lise de conjuntura sobre a defesa da democracia na Venezuela e no Brasil.</p>
+
+<p><br />
 A an&aacute;lise contou com Alexandre Concei&ccedil;&atilde;o, da dire&ccedil;&atilde;o nacional do MST e Cesar Trompiz, presidente da Fudanyacuho e vice-ministro de Agenda e Assessoria Presidencial.</p>
 
 <p><br />
@@ -47,6 +49,8 @@ O representante do MST esteve na Venezuela para participar tamb&eacute;m do Fest
 <p><br />
 Alexandre tratou do tema da Soberania e as sementes como patrim&ocirc;nio da humanidade, fechando a agenda nesta ter&ccedil;a (07), quando participou do programa de TV &ldquo;En contacto con Maduro&rdquo;, onde disse estar animado com o povo em luta no Brasil.</p>
 
-<p>&nbsp;
 <p>&nbsp;</p>
-</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
