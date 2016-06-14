@@ -1,7 +1,7 @@
 ---
 date: "2016-06-14T09:52:38-03:00"
 tags: []
-title: "Tarso: prisão política de membros do MST tem relação estreita com o golpismo \"institucional\" em curso"
+title: "Tarso: prisão de membros do MST tem relação estreita com o golpismo"
 support_line: "Para o ex-ministro e ex-governador do Rio Grande do Sul, o resultado da nova investida contra a democracia é um golpe contra a soberania popular, que tem a mídia oligopolista como o centro organizador dos partidos tradicionais."
 section: cover
 menu: direitos humanos
