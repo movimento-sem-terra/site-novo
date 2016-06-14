@@ -25,7 +25,8 @@ releated_posts: []
 <p>&nbsp;</p>
 
 <p><em>Por Solange Engelmann<br />
-Da P&aacute;gina do MST</em></p>
+Da P&aacute;gina do MST<br />
+Camila Domingues/Pal&aacute;cio Piratini</em></p>
 
 <p>&nbsp;</p>
 
@@ -38,7 +39,7 @@ Para Tarso, as consequ&ecirc;ncias do Golpe institucional no Brasil, para a demo
 Ele defende ainda, que nesse momento &eacute; fundamental acreditar na democracia, n&atilde;o somente no contexto t&aacute;tico, mas tamb&eacute;m do ponto de vista estrat&eacute;gico para projetar a constru&ccedil;&atilde;o de um socialismo democr&aacute;tico, superior aos regimes em funcionamento at&eacute; agora.</p>
 
 <p><br />
-Confira abaixo a entrevista completa.</p>
+A P&aacute;gina do MST lan&ccedil;a uma s&eacute;rie especial sobre a criminaliza&ccedil;&atilde;o dos movimenos sociais no contexto do golpe brasileiro. Esta semana, confira abaixo a entrevista cedida por Tarso Genro.</p>
 
 <p><br />
 <strong>Qual o contexto geopol&iacute;tico do golpe na Am&eacute;rica Latina. E o papel dos EUA no golpe brasileiro?</strong></p>
