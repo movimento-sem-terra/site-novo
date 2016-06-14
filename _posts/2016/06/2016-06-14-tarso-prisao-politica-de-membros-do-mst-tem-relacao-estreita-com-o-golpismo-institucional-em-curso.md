@@ -26,7 +26,7 @@ releated_posts: []
 
 <p><em>Por Solange Engelmann<br />
 Da P&aacute;gina do MST<br />
-Camila Domingues/Pal&aacute;cio Piratini</em></p>
+Foto: Camila Domingues/Pal&aacute;cio Piratini</em></p>
 
 <p>&nbsp;</p>
 
