@@ -23,7 +23,8 @@ releated_posts: []
 <p>&nbsp;</p>
 
 <p><em>Por Catiana de Medeiros<br />
-Da P&aacute;gina do MST</em></p>
+Da P&aacute;gina do MST<br />
+Foto de Capa: Joka Madruga</em></p>
 
 <p>&nbsp;</p>
 
