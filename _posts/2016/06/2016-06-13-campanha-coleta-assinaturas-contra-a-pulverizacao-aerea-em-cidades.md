@@ -42,7 +42,7 @@ J&aacute; sabemos que o motivo &eacute; engordar os bolsos deles, no momento em 
 Al&eacute;m, isso vai servir apenas para deixar pessoas doentes e mosquitos mais resistentes. Vamos mostrar para esse governo golpista que somos muito e n&atilde;o queremos veneno sobre nossas cabe&ccedil;as!</p>
 
 <p><br />
-<a href="https://secure.avaaz.org/en/petition_site_petition_starters/?copy">Assine aqui</a>.</p>
+<a href="https://secure.avaaz.org/en/petition/Presidencia_da_Republica_Veto_a_emenda_que_permite_pulverizacao_aerea_nas_cidades/">Assine aqui</a>.</p>
 
 <p><br />
 <strong>Saiba mais</strong>:</p>
