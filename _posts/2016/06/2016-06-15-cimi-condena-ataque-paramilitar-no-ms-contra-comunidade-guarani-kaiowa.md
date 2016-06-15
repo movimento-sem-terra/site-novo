@@ -4,7 +4,7 @@ tags: []
 title: Cimi condena ataque paramilitar no MS contra comunidade GUarani-Kaiowá
 support_line: "No massacre, foram vitimados ao menos seis feridos à bala e resultou na morte do jovem indígena Clodiodi Aquileu Rodrigues de Souza, de apenas 26 anos."
 menu: direitos humanos
-images_hd: //farm8.staticflickr.com/7304/27654656626_d5b2c42ac4_b.jpg
+images_hd: //farm8.staticflickr.com/7594/27654916076_c26460f515_b.jpg
 layout: post
 files:
   - link: //farm8.staticflickr.com/7304/27654656626_d5b2c42ac4_b.jpg
@@ -13,12 +13,22 @@ files:
     small: //farm8.staticflickr.com/7304/27654656626_d5b2c42ac4_n.jpg
     title: LogoCIMI.jpg
     $$hashKey: 05V
+  - link: //farm8.staticflickr.com/7594/27654916076_c26460f515_b.jpg
+    thumbnail: //farm8.staticflickr.com/7594/27654916076_c26460f515_t.jpg
+    medium: //farm8.staticflickr.com/7594/27654916076_c26460f515_z.jpg
+    small: //farm8.staticflickr.com/7594/27654916076_c26460f515_n.jpg
+    title: agronegocio-e-a-questao-indigena.gif
+    $$hashKey: "033"
 created_date: "2016-06-15T11:59:39-03:00"
 published: true
 releated_posts: []
 
 ---
 <p>O Conselho Indigenista Mission&aacute;rio (Cimi) emitiu na &uacute;ltima ter&ccedil;a-feira (14) uma nota condenando o ataque covarde de pistoleiros no Mato Grosso do Sul contra a comunidade Guarani-Kaiow&aacute;. No massacre, foram vitimados ao menos seis feridos &agrave; bala e resultou na morte do jovem ind&iacute;gena Clodiodi Aquileu Rodrigues de Souza, de apenas 26 anos. &quot;O Cimi solidariza-se com os Guarani-Kaiow&aacute;, especialmente com os familiares da lideran&ccedil;a assassinada e dos feridos, e exige que o Minist&eacute;rio da Justi&ccedil;a tome provid&ecirc;ncias imediatas e efetivas a fim de fazer cessar os ataques paramilitares contra comunidades ind&iacute;genas no Mato Grosso do Sul&quot;, diz trecho da nota. Confira:</p>
+
+<p>&nbsp;</p>
+
+<p style="text-align:center"><img alt="LogoCIMI.jpg" height="311" src="//farm8.staticflickr.com/7304/27654656626_d5b2c42ac4_b.jpg" width="500" /></p>
 
 <p><br />
 <strong>Nota do Cimi sobre o Massacre de Caarap&oacute; e o assassinato do Guarani e Kaiow&aacute; Clodiodi de Souza</strong></p>
