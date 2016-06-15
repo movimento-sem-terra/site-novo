@@ -1,0 +1,5 @@
+---
+layout: null
+---
+{% assign posts = site.posts  %}
+{% include posts.json posts=posts %}
