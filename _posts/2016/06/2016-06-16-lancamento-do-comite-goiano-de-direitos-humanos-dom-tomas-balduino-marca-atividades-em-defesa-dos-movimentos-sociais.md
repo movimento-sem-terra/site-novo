@@ -1,7 +1,7 @@
 ---
 date: "2016-06-16T14:30:55-03:00"
 tags: []
-title: Lançamento do Comitê Goiano de Direitos Humanos Dom Tomás Balduino marca atividades em defesa dos movimentos sociais
+title: Goiás lança Comitê de Direitos Humanos Dom Tomás Balduino
 images_hd: //farm8.staticflickr.com/7268/27101690803_57933a2737_b.jpg
 menu: direitos humanos
 support_line: "Pela primeira vez, o MST foi enquadrado na Lei nº 12.850/2013, que tipifica as organizações criminosas."
