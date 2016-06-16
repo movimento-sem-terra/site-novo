@@ -20,9 +20,7 @@ releated_posts: []
 ---
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
-
-<p><em>Por Cristiane Passos<br />
+<p><em>Por Coletivo de Comunica&ccedil;&atilde;o do Comit&ecirc; Goiano de Direitos Humanos Dom Tom&aacute;s Balduino<br />
 Da CPT</em></p>
 
 <p>&nbsp;</p>
