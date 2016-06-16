@@ -4,7 +4,7 @@ tags:
   - tag: indígenas
   - tag: direitos-humanos
   - tag: Kaiowá
-title: "Movimentos populares se posicionam contra morte de indígenas no MT "
+title: Movimentos populares se posicionam contra morte de indígenas no MS
 support_line: "Diante deste momento de extrema violência, é necessário que digamos que os ruralistas não nos alimentam. Muito menos nos representam."
 menu: direitos humanos
 images_hd: //farm8.staticflickr.com/7529/27099768924_18c6222072_b.jpg
