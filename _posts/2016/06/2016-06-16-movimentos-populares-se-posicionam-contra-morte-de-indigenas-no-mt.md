@@ -86,9 +86,9 @@ Pela imediata demarca&ccedil;&atilde;o dos territ&oacute;rios ind&iacute;genas!<
 
 <p>&nbsp;</p>
 
-<p style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px; line-height: normal; margin: 0px 0px 6px; text-align: right;"><font color="#1d2129" face="helvetica, arial, sans-serif"><span style="font-size: 14px; line-height: 19.32px;">FRENTE EM DEFESA DOS POVOS IND&Iacute;GENAS DE MATO GROSSO DO SUL</span></font></p>
+<p style="text-align: right;">FRENTE EM DEFESA DOS POVOS IND&Iacute;GENAS DE MATO GROSSO DO SUL</p>
 
-<div class="yj6qo ajU" style="cursor: pointer; outline: none; padding: 10px 0px; width: 22px; margin: 2px 0px 0px; color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px; line-height: normal; text-align: right;">&nbsp;</div>
+<div style="text-align: right;">&nbsp;</div>
 
 <p><br />
 &nbsp;</p>
