@@ -34,7 +34,7 @@ releated_posts: []
 
 ---
 <figure class="image"><img alt="Abertura do evento aconteceu na manhã da última quinta-feira. Foto Antônio Kanova.jpg" height="467" src="//farm8.staticflickr.com/7075/27450724140_225ce8e20c_b.jpg" width="700" />
-<figcaption></figcaption>
+<figcaption>Abertura do evento aconteceu na manh&atilde; da &uacute;ltima quinta-feira. Foto Ant&ocirc;nio Kanova</figcaption>
 </figure>
 
 <p>&nbsp;</p>
@@ -69,6 +69,10 @@ Esse trabalho coletivo tamb&eacute;m foi destacado por Ceres. &ldquo;H&aacute; a
 Livro<br />
 <br />
 Na noite de ontem, o educador Jos&eacute; Maria Tardin apresentou aos participantes o livro &#39;A conven&ccedil;&atilde;o dos ventos: agroecologia em contos&#39;, da ativista da agricultura ecol&oacute;gica Ana Primavesi. A obra foi lan&ccedil;ada pela Editora Express&atilde;o Popular e traz hist&oacute;rias sobre o campo voltadas para p&uacute;blico infanto-juvenil. &ldquo;Ana sempre repetia: solo sadio, planta sadia, homem sadio. Essa &eacute; a base de toda a teoria e conhecimento que ela desenvolveu&rdquo;, disse Tardin.</p>
+
+<figure class="image"><img alt="O educador José Maria Tardin apresentou aos participantes o livro A convenção dos ventos agroecologia em contos'. Foto Miguel Stedile.JPG" height="525" src="//farm8.staticflickr.com/7647/27728798635_d44c06a3a2_b.jpg" width="700" />
+<figcaption>O educador Jos&eacute; Maria Tardin apresentou aos participantes o livro A conven&ccedil;&atilde;o dos ventos agroecologia em contos&#39;. Foto Miguel Stedile</figcaption>
+</figure>
 
 <p><br />
 <strong>Semin&aacute;rio</strong></p>
