@@ -5,7 +5,7 @@ tags:
   - tag: Festival-Nacional-de-Arte-e-Cultura-da-Reforma-Agrária
   - tag: arte-e-cultura
 images_hd: //farm8.staticflickr.com/7720/27729503335_79e9cc36b3_b.jpg
-title: Ocupação da Funarte MG recebe o lançamento do Festival Nacional da Reforma Agrária
+title: "Em MG, cupação da Funarte recebe o lançamento do Festival Nacional da Reforma Agrária"
 support_line: "Os artistas que ocuparam a Funarte Minas Gerais, após 30 dias de resistência, decidiram naquele dia ampliar as ações e partir para outra direção. "
 menu: "educação, cultura e comunicação"
 layout: post
