@@ -52,7 +52,7 @@ Durante uma visita a Misnerovicz, no N&uacute;cleo de Cust&oacute;dia de Seguran
 <p><img alt="_MG_0303.JPG" height="467" src="//farm8.staticflickr.com/7445/27409394780_ddcdbc5009_b.jpg" width="700" /></p>
 
 <p><br />
-Ao saber que a empresa UNA tamb&eacute;m &eacute; alvo de mais de tr&ecirc;s mil a&ccedil;&otilde;es trabalhistas, o deputado Marcon manifestou perplexidade diante da atua&ccedil;&atilde;o do poder Judici&aacute;rio de Goi&aacute;s. &ldquo;Est&atilde;o detendo as pessoas que organizam o povo para a luta por direitos, enquanto empresas que n&atilde;o cumprem a fun&ccedil;&atilde;o social da propriedade da terra seguem impunes&rdquo;, disse.</p>
+Ao saber que a empresa NAOUM tamb&eacute;m &eacute; alvo de mais de tr&ecirc;s mil a&ccedil;&otilde;es trabalhistas, o deputado Marcon manifestou perplexidade diante da atua&ccedil;&atilde;o do poder Judici&aacute;rio de Goi&aacute;s. &ldquo;Est&atilde;o detendo as pessoas que organizam o povo para a luta por direitos, enquanto empresas que n&atilde;o cumprem a fun&ccedil;&atilde;o social da propriedade da terra seguem impunes&rdquo;, disse.</p>
 
 <p><br />
 Em Goi&acirc;nia, os parlamentares se reuniram na Assembleia Legislativa com o Secret&aacute;rio Municipal de Direitos Humanos, Pedro Wilson, com o tamb&eacute;m deputado Federal Rubens Otoni (PT-GO), com a deputada estadual Isaura Lemos (PC do B- GO) e representantes do Comit&ecirc; Goiano de Direitos Humanos Dom Tom&aacute;s Baldu&iacute;no, cuja composi&ccedil;&atilde;o re&uacute;ne movimentos e organiza&ccedil;&otilde;es sociais goianas.</p>
