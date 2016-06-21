@@ -14,17 +14,22 @@ files:
     small: //farm8.staticflickr.com/7325/27716457822_f582e3efdd_n.jpg
     title: photo715570199401703433.jpg
     $$hashKey: 08Q
+  - link: //farm8.staticflickr.com/7339/27717058102_73dbdf91a4_b.jpg
+    thumbnail: //farm8.staticflickr.com/7339/27717058102_73dbdf91a4_t.jpg
+    medium: //farm8.staticflickr.com/7339/27717058102_73dbdf91a4_z.jpg
+    small: //farm8.staticflickr.com/7339/27717058102_73dbdf91a4_n.jpg
+    title: logo c fundo.PNG
+    $$hashKey: "037"
 created_date: "2016-06-21T11:57:57-03:00"
 published: true
 releated_posts: []
 
 ---
-<p>&nbsp;</p>
+<p><img alt="photo715570199401703433.jpg" height="467" src="//farm8.staticflickr.com/7325/27716457822_f582e3efdd_b.jpg" width="700" /></p>
 
 <p>&nbsp;</p>
 
-<p><em>Por Wesley Lima<br />
-Da P&aacute;gina do MST</em></p>
+<p><em>Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
@@ -41,6 +46,10 @@ Cerca de 300 participantes de 39 pa&iacute;ses e quatro continentes s&atilde;o e
 
 <p><br />
 O Encontro &eacute; fruto de uma articula&ccedil;&atilde;o internacional da juventude dos movimentos sociais, que em 2015 reuniu jovens da &Aacute;frica do Sul, Honduras e outros 23 pa&iacute;ses. Na ocasi&atilde;o, debateram a situa&ccedil;&atilde;o pol&iacute;tica de seus territ&oacute;rios e divulgaram um documento denunciando o imperialismo, capitalismo e o sistema neoliberal, como inimigos de seus pa&iacute;ses.</p>
+
+<p>&nbsp;</p>
+
+<p><img alt="logo c fundo.PNG" height="416" src="//farm8.staticflickr.com/7339/27717058102_73dbdf91a4_b.jpg" width="500" /></p>
 
 <p><br />
 <strong>Festival da Utopia</strong></p>
