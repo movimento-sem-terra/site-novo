@@ -7,34 +7,38 @@ tags:
 title: "No Paraná, assentamento 8 de abril completa 19 anos  "
 support_line: "A área do assentamento que possui 555 famílias em cerca de 13,8 mil hectares, foi ocupada pela no dia 8 de abril de 1997. "
 menu: reforma agrária
-images_hd: //farm8.staticflickr.com/7337/27562753320_a14f624bcb_b.jpg
+images_hd: //farm8.staticflickr.com/7711/27229207383_80c42293cc_b.jpg
 layout: post
 files:
-  - link: //farm8.staticflickr.com/7242/27806241426_3ddb2b1068_b.jpg
-    thumbnail: //farm8.staticflickr.com/7242/27806241426_3ddb2b1068_t.jpg
-    medium: //farm8.staticflickr.com/7242/27806241426_3ddb2b1068_z.jpg
-    small: //farm8.staticflickr.com/7242/27806241426_3ddb2b1068_n.jpg
-    title: Maurício Susin3.jpg
-    $$hashKey: 05P
-  - link: //farm8.staticflickr.com/7337/27562753320_a14f624bcb_b.jpg
-    thumbnail: //farm8.staticflickr.com/7337/27562753320_a14f624bcb_t.jpg
-    medium: //farm8.staticflickr.com/7337/27562753320_a14f624bcb_z.jpg
-    small: //farm8.staticflickr.com/7337/27562753320_a14f624bcb_n.jpg
-    title: Maurício Susin1.jpg
-    $$hashKey: 05S
-  - link: //farm8.staticflickr.com/7340/27806242276_428427eb28_b.jpg
-    thumbnail: //farm8.staticflickr.com/7340/27806242276_428427eb28_t.jpg
-    medium: //farm8.staticflickr.com/7340/27806242276_428427eb28_z.jpg
-    small: //farm8.staticflickr.com/7340/27806242276_428427eb28_n.jpg
-    title: Maurício Susin1 (1).jpg
-    $$hashKey: 05V
+  - link: //farm8.staticflickr.com/7674/27806991516_eceb1bcdb2_b.jpg
+    thumbnail: //farm8.staticflickr.com/7674/27806991516_eceb1bcdb2_t.jpg
+    medium: //farm8.staticflickr.com/7674/27806991516_eceb1bcdb2_z.jpg
+    small: //farm8.staticflickr.com/7674/27806991516_eceb1bcdb2_n.jpg
+    title: Sede do Assentamento (1).JPG
+    $$hashKey: 096
+  - link: //farm8.staticflickr.com/7711/27229207383_80c42293cc_b.jpg
+    thumbnail: //farm8.staticflickr.com/7711/27229207383_80c42293cc_t.jpg
+    medium: //farm8.staticflickr.com/7711/27229207383_80c42293cc_z.jpg
+    small: //farm8.staticflickr.com/7711/27229207383_80c42293cc_n.jpg
+    title: João Orzinkovisk (1).JPG
+    $$hashKey: 099
+  - link: //farm8.staticflickr.com/7126/27806993756_daefe60a6c_b.jpg
+    thumbnail: //farm8.staticflickr.com/7126/27806993756_daefe60a6c_t.jpg
+    medium: //farm8.staticflickr.com/7126/27806993756_daefe60a6c_z.jpg
+    small: //farm8.staticflickr.com/7126/27806993756_daefe60a6c_n.jpg
+    title: IMG_1971.JPG
+    $$hashKey: 09C
 created_date: "2016-06-22T14:08:11-03:00"
 published: true
 releated_posts: []
 
 ---
-<p><img alt="Maurício Susin1 (1).jpg" height="468" src="//farm8.staticflickr.com/7340/27806242276_428427eb28_b.jpg" width="700" /><br />
+<p><br />
 &nbsp;</p>
+
+<figure class="image"><img alt="IMG_1971.JPG" height="467" src="//farm8.staticflickr.com/7126/27806993756_daefe60a6c_b.jpg" width="700" />
+<figcaption></figcaption>
+</figure>
 
 <p><em>Por Riquieli Capitani<br />
 Da P&aacute;gina do MST</em></p>
@@ -61,8 +65,8 @@ Durante o ato politico realizado pela manh&atilde;, Jo&atilde;o Orzinkovisk, mem
 <p><br />
 Orzinkovisk tamb&eacute;m falou sobre&nbsp;a luta dos Sem Terra no estado. &ldquo;As&nbsp;coisas que constru&iacute;mos aqui no assentamento s&oacute; foram poss&iacute;veis&nbsp;pela luta das fam&iacute;lias que conseguiram garantir seus direitos. Direitos esse&nbsp;que hoje est&atilde;o amea&ccedil;ados pelo atual&nbsp;governo golpista de Michel Temer, e que n&oacute;s repudiamos, n&atilde;o aceitamos, mas n&atilde;o vamos parar de lutar, seguiremos pra frente, lutando diariamente para melhorar as condi&ccedil;&otilde;es de vida dos trabalhadores do campo e da cidade&rdquo;, disse.</p>
 
-<figure class="image"><img alt="Maurício Susin3.jpg" height="468" src="//farm8.staticflickr.com/7242/27806241426_3ddb2b1068_b.jpg" width="700" />
-<figcaption></figcaption>
+<figure class="image"><img alt="Sede do Assentamento (1).JPG" height="334" src="//farm8.staticflickr.com/7674/27806991516_eceb1bcdb2_b.jpg" width="700" />
+<figcaption>Assentamento 8 de abril</figcaption>
 </figure>
 
 <p><br />
