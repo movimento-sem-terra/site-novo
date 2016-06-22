@@ -18,7 +18,7 @@ published: true
 releated_posts: []
 
 ---
-<p><br />
+<p><img alt="foto nicinha 34.jpg" src="//farm8.staticflickr.com/7500/27808813606_7974d9832f_b.jpg" /><br />
 <br />
 <br />
 <em>Da P&aacute;gina do MAB</em></p>
