@@ -23,7 +23,7 @@ releated_posts: []
 ---
 <p>&nbsp;</p>
 
-<p><em>Por Aline Oliveira&nbsp;<br />
+<p><em>Por </em><em>Gene Santos<br />
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
