@@ -33,8 +33,8 @@ published: true
 releated_posts: []
 
 ---
-<figure class="image"><img alt="IMG_8563.jpg" height="427" src="//farm8.staticflickr.com/7458/27266831973_d9576bc29e_b.jpg" width="700" />
-<figcaption>Fotos: Maria Aparecida&nbsp;</figcaption>
+<figure class="image"><img alt="IMG_8575.jpg" height="467" src="//farm8.staticflickr.com/7657/27266843493_fa48dcea3b_b.jpg" width="700" />
+<figcaption>Da esquerda para direita:&nbsp;Alan Tygel,&nbsp;Gabriel Fernandes e&nbsp;Sheila Castro (Fotos: Maria Aparecida)</figcaption>
 </figure>
 
 <p>&nbsp;</p>
@@ -47,10 +47,6 @@ Na tarde dessa quinta-feira&nbsp;(23), dentro da programa&ccedil;&atilde;o da&nb
 
 <p><br />
 <span style="line-height: 20.8px;">Na mesa de abertura&nbsp;que teve como tema: &ldquo;A realidade dos agrot&oacute;xicos e transg&ecirc;nicos no Brasil e seus impactos sobre a sa&uacute;de humana e ambiente&rdquo;, estavam presentes Sheila Castro, do Instituto Nacional do C&acirc;ncer (Inca), Gabriel Fernandes, da Campanha Brasil Livre de Transg&ecirc;nicos, e Alan Tygel, integrante da Campanha Permanente Contra os Agrot&oacute;xicos e pela Vida.</span></p>
-
-<figure class="image"><img alt="IMG_8563.jpg" height="427" src="//farm8.staticflickr.com/7458/27266831973_d9576bc29e_b.jpg" width="700" />
-<figcaption></figcaption>
-</figure>
 
 <p><br />
 Alan Tygel iniciou sua fala&nbsp;com a pergunta: &ldquo;Qual o motivo que levou o Brasil a se tornar o maior consumidor de agrot&oacute;xicos do mundo?&rdquo;.</p>
