@@ -35,7 +35,10 @@ releated_posts: []
 
 <p>&nbsp;</p>
 
-<p>Durante o <a href="http://www.mst.org.br/2016/06/21/juventude-realiza-encontro-internacional-em-defesa-de-um-novo-projeto-de-sociedade.html">Festival da Utopia</a>, realizado em Maric&aacute;, no Rio de Janeiro, a j<span style="line-height: 20.8px;">uventude vinda de mais de 40 pa&iacute;ses, de quatro continentes&nbsp;debateu sobre a atual conjuntura pol&iacute;tica mundial.</span></p>
+<p><em>Do Brasil de Fato&nbsp;</em></p>
+
+<p><br />
+Durante o <a href="http://www.mst.org.br/2016/06/21/juventude-realiza-encontro-internacional-em-defesa-de-um-novo-projeto-de-sociedade.html">Festival da Utopia</a>, realizado em Maric&aacute;, no Rio de Janeiro, a j<span style="line-height: 20.8px;">uventude vinda de mais de 40 pa&iacute;ses, de quatro continentes&nbsp;debateu sobre a atual conjuntura pol&iacute;tica mundial.</span></p>
 
 <p><br />
 Para o colombiano, Julian Gil, participante do encontro:&nbsp;<span style="line-height: 20.8px;">&ldquo;A esperan&ccedil;a pode at&eacute; ter muitas cores, aromas e formas, mas tem apenas uma maneira de manter-se viva: na luta&rdquo;</span></p>
