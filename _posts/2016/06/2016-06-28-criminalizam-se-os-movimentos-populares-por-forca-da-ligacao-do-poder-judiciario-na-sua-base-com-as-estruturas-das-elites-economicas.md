@@ -4,7 +4,7 @@ tags:
   - tag: movimentos-sociais
   - tag: criminalização
   - tag: direitos-humanos
-title: “Criminalizam-se os movimentos populares por força da ligação do Poder Judiciário com as estruturas das elites econômicas”
+title: "\"Quem está na ponta da repressão dos movimentos populares é a polícia\""
 support_line: "Para Marcelo Lavenère: o Poder Judiciário no Brasil ainda reflete as origens de um Brasil patrimonialista e submetido às oligarquias locais."
 menu: direitos humanos
 label: interviews
