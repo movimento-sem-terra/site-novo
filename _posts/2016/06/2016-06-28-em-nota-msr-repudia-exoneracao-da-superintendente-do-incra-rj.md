@@ -3,7 +3,7 @@ date: "2016-06-28T15:29:21-03:00"
 tags: []
 support_line: "Tal exoneração realizada sem o conhecimento da superintendente demonstra a não prioridade e o descompromisso com a Reforma Agrária. "
 menu: lutas e mobilizações
-title: "Em nota, MSR repudia exoneração da superintendente do INCRA-RJ"
+title: "Em nota, MST repudia exoneração da superintendente do INCRA-RJ"
 images_hd: //farm8.staticflickr.com/7376/27929871476_19907f6357_b.jpg
 layout: post
 files:
