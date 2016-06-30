@@ -1,8 +1,8 @@
 ---
 date: "2016-06-30T15:15:40-03:00"
 tags: []
-title: Acampamento Marcelino Chiarello se retira da area da Reserva Nacional
-support_line: "As famílias acampadas na reserva nacional se dirigiram para uma área cedida por um pequeno agricultor da cidade de Guatambu, onde ficarão momentaneamente até se resolver a situação."
+title: Sem Terra se retiram de Reserva Nacional em SC
+support_line: "As famílias acampadas se dirigiram para uma área cedida por um pequeno agricultor da cidade de Guatambu, onde ficarão momentaneamente."
 menu: reforma agrária
 images_hd: //farm8.staticflickr.com/7742/27390207853_962d77fc7f_b.jpg
 layout: post
@@ -39,13 +39,13 @@ Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
-<p>No &uacute;ltimo dia 28 se encerrou o prazo acordado com o Ju&iacute;s Federal de Chapec&oacute;, Gueverson Rog&eacute;rio Farias, para que as fam&iacute;lias acampadas na Floresta Nacional, localizada entre os munic&iacute;pios de Guatambu e Chapec&oacute; se retirassem do local.</p>
+<p>No &uacute;ltimo dia (28), encerrou-se o prazo acordado com o ju&iacute;z&nbsp;federal de Chapec&oacute;, Santa Catarina, Gueverson Rog&eacute;rio Farias, para que as fam&iacute;lias Sem Terra&nbsp;acampadas na Floresta Nacional, localizada entre os munic&iacute;pios de Guatambu e Chapec&oacute; se retirassem do local.</p>
 
 <p><br />
-As fam&iacute;lias acampadas juntamente com diversos deputados e movimentos parceiros, como Movimento dos Pequenos Agricultores (MPA), Movimento dos Atingidos por Barragens (MAB), Movimento de Mulheres Camponesas (MMC), Pastoral da Juventude Rural (PJR) e outras entidades apoiadoras, construiram um ato no dia anterior (27) em defesa da Reforma Agr&aacute;ria Popular.</p>
+Com o apoio de&nbsp;deputados e movimentos populares, os Sem Terra constru&iacute;ram um dia de atividades em defesa da Reforma da Reforma Agr&aacute;ria e da perman&ecirc;ncia das fam&iacute;lias na &aacute;rea. Participaram da a&ccedil;&atilde;o o&nbsp;Movimento dos Pequenos Agricultores (MPA), Movimento dos Atingidos por Barragens (MAB), Movimento de Mulheres Camponesas (MMC), Pastoral da Juventude Rural (PJR) e outras entidades apoiadoras.</p>
 
 <p><br />
-A atividade iniciou no acampamento Marcelino Chiarello com acolhida e almo&ccedil;o, na parte da tarde os manifestantes se dirigiram para a SC-283, onde realizaram bloqueio por cerca de 20 minutos. Logo em seguida foram para o centro da cidade de Guatambu, no centro comunit&aacute;ria da Igreja S&atilde;o Miguel Arcanjo.</p>
+O dia de a&ccedil;&otilde;es come&ccedil;ou no acampamento Marcelino Chiarello com acolhida e almo&ccedil;o, a tarde os manifestantes se dirigiram para a SC-283, onde realizaram bloqueio por cerca de 20 minutos. Logo em seguida foram para o centro da cidade de Guatambu, no centro comunit&aacute;ria da Igreja S&atilde;o Miguel Arcanjo.</p>
 
 <p><br />
 Juntamente com o diversos apoiadores da Reforma Agr&aacute;ria, estavam presentes o representante do Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra-Regional), Pedro Possamai, e o assessor do Presidente Nacional do Incra, Jorge Tadeu.</p>
@@ -75,15 +75,13 @@ Para resolver a situa&ccedil;&atilde;o das demais fam&iacute;lias acampadas no e
 
 <p>&nbsp;</p>
 
-<p>&ldquo; Devemos avan&ccedil;ar na identifica&ccedil;&atilde;o das &aacute;reas que est&atilde;o com d&iacute;vida com o governo, pois &eacute; mais f&aacute;cil que elas sejam destinadas para a Reforma Agr&aacute;ria, j&aacute; que o pa&iacute;s vive um momento de crise, sem recurso para compras de novas &aacute;reas&rdquo;, defendeu. &quot;Assim resolver&iacute;amos dois problemas de uma s&oacute; vez: o caso das terras endividadas e o caso das fam&iacute;lias que esperam por um peda&ccedil;o de terra para sobreviver&quot;, complementa Jorge.</p>
+<p>&ldquo;Devemos avan&ccedil;ar na identifica&ccedil;&atilde;o das &aacute;reas que est&atilde;o com d&iacute;vida com o governo, pois &eacute; mais f&aacute;cil que elas sejam destinadas para a Reforma Agr&aacute;ria, j&aacute; que o pa&iacute;s vive um momento de crise, sem recurso para compras de novas &aacute;reas&rdquo;, defendeu. &quot;Assim resolver&iacute;amos dois problemas de uma s&oacute; vez: o caso das terras endividadas e o caso das fam&iacute;lias que esperam por um peda&ccedil;o de terra para sobreviver&quot;, complementa Jorge.</p>
 
 <p><br />
-As fam&iacute;lias acampadas na reserva nacional se dirigiram para uma &aacute;rea cedida por um pequeno agricultor da cidade de Guatambu, onde ficar&atilde;o momentaneamente at&eacute; se resolver a situa&ccedil;&atilde;o.</p>
+As fam&iacute;lias acampadas na reserva nacional se dirigiram para uma &aacute;rea cedida por um pequeno agricultor da cidade de Guatambu, onde ficar&atilde;o momentaneamente&nbsp;a situa&ccedil;&atilde;o for resolvida.</p>
 
 <p><br />
 Existem hoje no estado de Santa Catarina nove acampamentos organizados pelo MST, totalizando mais de 1300 fam&iacute;lias.</p>
-
-<p>&nbsp;</p>
 
 <p>&nbsp;</p>
 
