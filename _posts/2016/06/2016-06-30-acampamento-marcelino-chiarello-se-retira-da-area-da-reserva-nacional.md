@@ -1,7 +1,7 @@
 ---
 date: "2016-06-30T15:15:40-03:00"
 tags: []
-title: Sem Terra se retiram de Reserva Nacional em SC
+title: Sem Terra se retiram de áreal da Reserva Nacional em SC
 support_line: "As famílias acampadas se dirigiram para uma área cedida por um pequeno agricultor da cidade de Guatambu, onde ficarão momentaneamente."
 menu: reforma agrária
 images_hd: //farm8.staticflickr.com/7742/27390207853_962d77fc7f_b.jpg
