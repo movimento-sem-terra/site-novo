@@ -4,7 +4,7 @@ tags:
   - tag: agronegócio
   - tag: venda-de-terras
   - tag: soberania-nacional
-title: "Venda de terras para estrangeiros prejudica a soberania nacional e dificulta acesso à terra, avaliam especialistas"
+title: "Venda de terras para estrangeiros: ameaça à soberania nacional e ao acesso à terra"
 support_line: Temer deve apoiar votação de PL que libera a compra de terras por pessoas físicas e jurídicas de outros países. PL da bancada ruralista está pronto para ser votado na Câmara.
 menu: agronegócio
 section: cover
@@ -68,3 +68,9 @@ A mudan&ccedil;a teve impacto imediato e milhares de alqueires foram vendidos a 
 
 <p><br />
 Somos um pa&iacute;s concentrador. Significa dizer que vender as terras indiscriminadamente vai concentrar. E a terceira, que nos pega em cheio, &eacute; que vai dificultar ainda mais a reforma agr&aacute;ria, porque pode encarecer enormemente os pre&ccedil;os&rdquo;, elenca o presidente da Contag, Alberto Ercilio Bloch.</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><em>*Editado por Maura Silva</em></p>
