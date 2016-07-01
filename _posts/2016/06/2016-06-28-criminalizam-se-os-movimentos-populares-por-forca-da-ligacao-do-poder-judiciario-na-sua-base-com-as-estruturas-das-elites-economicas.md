@@ -9,7 +9,7 @@ support_line: "Para Marcelo Lavenère: o Poder Judiciário no Brasil ainda refle
 menu: direitos humanos
 label: interviews
 images_hd: //farm8.staticflickr.com/7328/27917133126_80d4bde88c_b.jpg
-section: cover
+section: null
 layout: post
 files:
   - link: //farm8.staticflickr.com/7372/27338105033_8f5acebd6f_b.jpg
