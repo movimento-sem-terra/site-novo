@@ -36,8 +36,10 @@ e a perda de direitos.</p>
 O conjunto de medidas que contribui para os retrocessos nas pol&iacute;ticas&nbsp;p&uacute;blicas destinadas ao desenvolvimento agr&aacute;rio e social no campo brasileiro s&atilde;o&nbsp;in&uacute;meras. Inicia-se pela extin&ccedil;&atilde;o do pr&oacute;prio MDA, como express&atilde;o de uma&nbsp;hist&oacute;ria de lutas e conquistas dos movimentos sociais do campo que resultaram&nbsp;nos Governos do Presidente Lula e da Presidenta Dilma, na constru&ccedil;&atilde;o de pol&iacute;ticas&nbsp;p&uacute;blicas que modificaram positivamente e profundamente a qualidade de vida da&nbsp;popula&ccedil;&atilde;o rural, em todas as regi&otilde;es do pa&iacute;s.</p>
 
 <p><br />
-Segue-se a este movimento, a remo&ccedil;&atilde;o de toda a estrutura do extinto&nbsp;MDA e do Incra para o Minist&eacute;rio do Desenvolvimento Social, que passa a&nbsp;incorporar em seu nome o &ldquo;Agr&aacute;rio&rdquo;, por meio da MP 726/2016. Dada a<br />
-diverg&ecirc;ncia pol&iacute;tica entre as for&ccedil;as do governo interino e golpista, esta estrutura&nbsp;toda passa para as compet&ecirc;ncias da Casa Civil da Presid&ecirc;ncia da Rep&uacute;blica, por&nbsp;meio do Decreto 8.780/2016. H&aacute; rumores de que, se confirmado o golpe,&nbsp;retornar-se-&aacute; a estrutura ministerial.</p>
+Segue-se a este movimento, a remo&ccedil;&atilde;o de toda a estrutura do extinto&nbsp;MDA e do Incra para o Minist&eacute;rio do Desenvolvimento Social, que passa a&nbsp;incorporar em seu nome o &ldquo;Agr&aacute;rio&rdquo;, por meio da MP 726/2016.</p>
+
+<p><br />
+Dada a&nbsp;diverg&ecirc;ncia pol&iacute;tica entre as for&ccedil;as do governo interino e golpista, esta estrutura&nbsp;toda passa para as compet&ecirc;ncias da Casa Civil da Presid&ecirc;ncia da Rep&uacute;blica, por&nbsp;meio do Decreto 8.780/2016. H&aacute; rumores de que, se confirmado o golpe,&nbsp;retornar-se-&aacute; a estrutura ministerial.</p>
 
 <p><br />
 Na esteira do desmonte das pol&iacute;ticas p&uacute;blicas promovido pelo governo&nbsp;interino, percebe-se duas situa&ccedil;&otilde;es: a de paralisa&ccedil;&atilde;o ou de suspens&atilde;o ou&nbsp;revoga&ccedil;&atilde;o das pol&iacute;ticas.&nbsp;No primeiro caso, a paralisa&ccedil;&atilde;o est&aacute; diretamente ligada a fatores como:</p>
