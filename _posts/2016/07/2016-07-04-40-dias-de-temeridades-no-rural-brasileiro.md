@@ -5,7 +5,7 @@ tags:
   - tag: golpe
   - tag: desmontes
 label: articles
-title: 40 dias de Temeridades no Rural Brasileiro
+title: 40 dias de TEMERridades no Rural Brasileiro
 support_line: "Na esteira do desmonte das políticas públicas promovido pelo governo interino, percebe-se duas situações: a de paralisação ou de suspensão ou revogação das políticas. "
 menu: lutas e mobilizações
 images_hd: //farm8.staticflickr.com/7399/27468047713_58ca41d420_b.jpg
@@ -24,7 +24,7 @@ releated_posts: []
 ---
 <p>&nbsp;</p>
 
-<p><em>Por Jo&atilde;o Marcelo Intini<br />
+<p><em>Por Jo&atilde;o Marcelo Intini *<br />
 Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p>&nbsp;</p>
@@ -83,3 +83,7 @@ Devemos estar atentos aos pr&oacute;ximos passos. A nomea&ccedil;&atilde;o de um
 
 <p style="text-align: right;"><br />
 Bras&iacute;lia, 01 de julho de 2016.</p>
+
+<p style="text-align: right;">&nbsp;</p>
+
+<p><em>* Engenheiro agr&ocirc;nomo e assessor t&eacute;cnico da lideran&ccedil;a do Partidos dos Trabalhadores&nbsp;na C&acirc;mara dos Deputados. J&aacute; atuou como diretor do Departamento de Apoio &agrave; Produ&ccedil;&atilde;o Familiar e ao Acesso &agrave; Alimenta&ccedil;&atilde;o do Minist&eacute;rio do Desenvolvimento e Combate &agrave; Fome (MDS) e como diretor da Conab&nbsp;(Companhia Nacional de Abastecimento)</em></p>
