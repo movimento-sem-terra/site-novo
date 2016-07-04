@@ -418,3 +418,6 @@ PARLAMENTARES</p>
 <p>Walnice Nogueira Galv&atilde;o &ndash; Prof. USP</p>
 
 <p>Wilson Mozena Leandro - Professor EA-UFG</p>
+
+<p><br />
+<em>* Texto originalmente publicado no Portal da C&acirc;mara Legislativa</em></p>
