@@ -4,7 +4,7 @@ tags:
   - tag: movimentos-sociais
   - tag: criminalização
   - tag: direitos-humanos
-title: "“Criminalizam-se os movimentos populares pela ligação do Judiciário com as elites econômicas”\n"
+title: "“Criminalizam os movimentos populares pela ligação do Judiciário com as elites econômicas”\n"
 support_line: "Para Marcelo Lavenère: o Poder Judiciário no Brasil ainda reflete as origens de um Brasil patrimonialista e submetido às oligarquias locais."
 menu: direitos humanos
 label: interviews
