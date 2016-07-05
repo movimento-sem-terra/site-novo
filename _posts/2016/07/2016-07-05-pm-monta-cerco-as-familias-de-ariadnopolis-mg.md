@@ -40,16 +40,17 @@ Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
-<p><img alt="photo734839020419393723.jpg" height="444" src="//farm8.staticflickr.com/7406/28107922575_4414dc1f52_b.jpg" width="250" /></p>
-
-<p><br />
-Atualmente, mesmo em processo de regulariza&ccedil;&atilde;o dos lotes, elas continuam em situa&ccedil;&atilde;o de risco, causada por arbitrariedades da pol&iacute;cia.</p>
+<p>Atualmente, mesmo em processo de regulariza&ccedil;&atilde;o dos lotes, elas continuam em situa&ccedil;&atilde;o de risco, causada por arbitrariedades da pol&iacute;cia.</p>
 
 <p><br />
 Nas ru&iacute;nas do antigo parque industrial funciona a escola, a cooperativa e h&aacute; previs&atilde;o de projetos educacionais fomentados por universidades e institutos de educa&ccedil;&atilde;o, com objetivo de desenvolver atividades de capacita&ccedil;&atilde;o para os trabalhadores.</p>
 
 <p><br />
 Nas terras, os agricultores produzem hortali&ccedil;as, caf&eacute;, frutas, feij&atilde;o, pequenos animais, entre outras culturas. As intimida&ccedil;&otilde;es da pol&iacute;cia n&atilde;o amea&ccedil;am somente os produtores, mas toda a sociedade que precisa dos alimentos saud&aacute;veis e baratos em sua mesa.</p>
+
+<p>&nbsp;</p>
+
+<p><img alt="photo734839020419393723.jpg" src="//farm8.staticflickr.com/7406/28107922575_4414dc1f52_b.jpg" /></p>
 
 <p>&nbsp;</p>
 
