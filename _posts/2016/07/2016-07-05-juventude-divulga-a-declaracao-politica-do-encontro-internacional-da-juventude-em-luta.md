@@ -2,7 +2,7 @@
 date: "2016-07-05T11:59:57-03:00"
 tags: []
 images_hd: //farm8.staticflickr.com/7404/28003992382_a0b7175d24_b.jpg
-title: Juventude divulga a Declaração Política do Encontro Internacional da Juventude em Luta
+title: Veja a Declaração Política do Encontro Internacional da Juventude em Luta
 support_line: "O Encontro reuniu 280 jovens militantes de 43 nações, de 4 continentes, representando 115 movimentos populares."
 menu: solidariedade
 section: featured-news
