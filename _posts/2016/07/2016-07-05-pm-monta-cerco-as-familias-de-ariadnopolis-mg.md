@@ -24,7 +24,7 @@ published: true
 releated_posts: []
 
 ---
-<p><img alt="photo734839020419393724 (1).jpg" height="225" src="//farm8.staticflickr.com/7283/28107858135_d6578cdede_b.jpg" width="400" /></p>
+<p><img alt="photo734839020419393724 (1).jpg" height="394" src="//farm8.staticflickr.com/7283/28107858135_d6578cdede_b.jpg" width="700" /></p>
 
 <p>&nbsp;</p>
 
@@ -50,7 +50,7 @@ Nas terras, os agricultores produzem hortali&ccedil;as, caf&eacute;, frutas, fei
 
 <p>&nbsp;</p>
 
-<p><img alt="photo734839020419393723.jpg" src="//farm8.staticflickr.com/7406/28107922575_4414dc1f52_b.jpg" /></p>
+<p><img alt="photo734839020419393723.jpg" height="450" src="//farm8.staticflickr.com/7406/28107922575_4414dc1f52_b.jpg" width="200" /></p>
 
 <p>&nbsp;</p>
 
