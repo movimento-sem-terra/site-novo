@@ -1,7 +1,7 @@
 ---
 date: "2016-07-05T13:31:06-03:00"
 tags: []
-title: PM monta cerco às famílias de Ariadnópolis-MG
+title: Polícia Militar monta cerco às famílias de Ariadnópolis-MG
 images_hd: //farm8.staticflickr.com/7283/28107858135_d6578cdede_b.jpg
 menu: direitos humanos
 support_line: "Mesmo em processo de regularização dos lotes, as famílias continuam em situação de risco, causada por arbitrariedades da polícia."
@@ -40,7 +40,7 @@ Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
-<p><img alt="photo734839020419393723.jpg" height="500" src="//farm8.staticflickr.com/7406/28107922575_4414dc1f52_b.jpg" width="281" /></p>
+<p><img alt="photo734839020419393723.jpg" height="300" src="//farm8.staticflickr.com/7406/28107922575_4414dc1f52_b.jpg" width="169" /></p>
 
 <p><br />
 Atualmente, mesmo em processo de regulariza&ccedil;&atilde;o dos lotes, elas continuam em situa&ccedil;&atilde;o de risco, causada por arbitrariedades da pol&iacute;cia.</p>
