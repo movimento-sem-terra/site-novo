@@ -48,10 +48,7 @@ Na esteira do desmonte das pol&iacute;ticas p&uacute;blicas promovido pelo gover
 i. Desmonte inconsequente das equipes t&eacute;cnicas, levando a perda da&nbsp;mem&oacute;ria institucional e o desmonte hier&aacute;rquico, cuja possibilidade de comando&nbsp;e manuten&ccedil;&atilde;o dos atos administrativos se apresenta comprometida. Toda a&nbsp;cadeia de comando e de gest&atilde;o do MDA e do Incra foi exonerada, incluindo as&nbsp;representa&ccedil;&otilde;es nos Estados. Nesta mesma situa&ccedil;&atilde;o, vem a demiss&atilde;o do&nbsp;Presidente da ANATER, ferindo a lei e interrompendo um processo, j&aacute; complicado&nbsp;na sua origem, de montagem da Agencia;</p>
 
 <p><br />
-ii. Suspens&atilde;o de pagamentos e de repasses or&ccedil;ament&aacute;rios e&nbsp;financeiros, que foram garantidos no Plano Safra da Agricultura Familiar e nos</p>
-
-<p><br />
-1 Assessor T&eacute;cnico do PT na C&acirc;mara dos Deputados&nbsp;acordos de coopera&ccedil;&atilde;o firmados entre diferentes &oacute;rg&atilde;os. Neste caso, &eacute; n&iacute;tida a paralisia nos servi&ccedil;os de Assist&ecirc;ncia T&eacute;cnica e Extens&atilde;o Rural e nas aquisi&ccedil;&otilde;es de alimentos por parte da CONAB, no &acirc;mbito do PAA;</p>
+ii. Suspens&atilde;o de pagamentos e de repasses or&ccedil;ament&aacute;rios e&nbsp;financeiros, que foram garantidos no Plano Safra da Agricultura Familiar e nos&nbsp;acordos de coopera&ccedil;&atilde;o firmados entre diferentes &oacute;rg&atilde;os. Neste caso, &eacute; n&iacute;tida a paralisia nos servi&ccedil;os de Assist&ecirc;ncia T&eacute;cnica e Extens&atilde;o Rural e nas aquisi&ccedil;&otilde;es de alimentos por parte da CONAB, no &acirc;mbito do PAA;</p>
 
 <p><br />
 No segundo caso, a suspens&atilde;o ou revoga&ccedil;&atilde;o de pol&iacute;ticas est&aacute; associada a fatores como:&nbsp;</p>
