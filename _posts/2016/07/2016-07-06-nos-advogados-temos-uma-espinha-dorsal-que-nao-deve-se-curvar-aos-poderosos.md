@@ -25,6 +25,8 @@ releated_posts: []
 <figcaption>Profissionais do direito se re&uacute;nem no DF para a constru&ccedil;&atilde;o de uma Frente Nacional em defesa da Democracia.</figcaption>
 </figure>
 
+<p>&nbsp;</p>
+
 <p><em>Por Lizely Borges<br />
 Da P&aacute;gina do MST</em></p>
 
