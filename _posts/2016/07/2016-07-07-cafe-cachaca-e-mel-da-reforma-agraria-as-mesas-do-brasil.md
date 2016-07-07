@@ -1,7 +1,7 @@
 ---
 date: "2016-07-07T15:29:01-03:00"
 tags: []
-title: "Café, cachaça e mel: da reforma agrária às mesas do Brasil"
+title: "Café, cachaça e mel: da Reforma Agrária às mesas do Brasil"
 support_line: "Há poucas semanas do Festival Nacional de Arte e Cultura da Reforma Agrária, a grande atração é a riqueza da produção do MST."
 menu: agricultura camponesa
 section: featured-news
