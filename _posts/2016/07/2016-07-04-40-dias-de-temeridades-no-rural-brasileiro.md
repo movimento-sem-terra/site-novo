@@ -17,15 +17,22 @@ files:
     small: //farm8.staticflickr.com/7399/27468047713_58ca41d420_n.jpg
     title: EF_Joao-Marcelo-Intini-CONAB_12012016001-850x540.jpg
     $$hashKey: 05Z
+  - link: //farm8.staticflickr.com/7425/27535464464_5a21374aea_b.jpg
+    thumbnail: //farm8.staticflickr.com/7425/27535464464_5a21374aea_t.jpg
+    medium: //farm8.staticflickr.com/7425/27535464464_5a21374aea_z.jpg
+    small: //farm8.staticflickr.com/7425/27535464464_5a21374aea_n.jpg
+    title: WhatsApp-Image-20160706.jpeg
+    $$hashKey: "033"
 created_date: "2016-07-04T12:05:25-03:00"
 published: true
 releated_posts: []
 
 ---
+<p><img alt="WhatsApp-Image-20160706.jpeg" height="699" src="//farm8.staticflickr.com/7425/27535464464_5a21374aea_b.jpg" width="700" /></p>
+
 <p>&nbsp;</p>
 
-<p><em>Por Jo&atilde;o Marcelo Intini *<br />
-Da P&aacute;gina do MST&nbsp;</em></p>
+<p><em>Por Jo&atilde;o Marcelo Intini *</em></p>
 
 <p>&nbsp;</p>
 
