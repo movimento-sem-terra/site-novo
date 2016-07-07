@@ -1,7 +1,7 @@
 ---
 date: "2016-07-07T14:52:06-03:00"
 tags: []
-title: Sem Terras fazem protesto contra fechamento de Escola Rural na Prefeitura de Sidrolândia
+title: Sem Terra fazem protesto contra fechamento de Escola Rural na Prefeitura de Sidrolândia
 support_line: Desde o início do ano a comunidade escolar está sendo prejudicada com o descaso do poder público local.
 menu: lutas e mobilizações
 images_hd: //farm8.staticflickr.com/7349/27540004663_e3e0475d9a_b.jpg
@@ -20,9 +20,11 @@ releated_posts: []
 ---
 <p><img alt="WhatsApp-Image-20160707(1).jpeg" height="338" src="//farm8.staticflickr.com/7349/27540004663_e3e0475d9a_b.jpg" width="600" /></p>
 
-<p>&nbsp;
 <p>&nbsp;</p>
-</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
 
 <p><em>Por Karina Vilas Boas<br />
 Da P&aacute;gina do MST</em></p>
