@@ -29,7 +29,7 @@ releated_posts: []
 <p>&nbsp;</p>
 
 <p><em>Por Isadora Camargo<br />
-Do UOL</em></p>
+Da Ag&ecirc;ncia EFE</em></p>
 
 <p>&nbsp;</p>
 
