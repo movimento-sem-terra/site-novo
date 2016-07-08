@@ -8,15 +8,15 @@ tags:
 title: "Divulgados os finalistas do Festival de Arte e Cultura da Reforma Agrária "
 support_line: ​Todas as músicas e poesias poderão ser conferidas pelo público no Festival de Arte e Cultura da Reforma Agrária.
 menu: "educação, cultura e comunicação"
-images_hd: //farm8.staticflickr.com/7381/27898818850_cfef52f8fa_b.jpg
+images_hd: //farm8.staticflickr.com/7510/28180222475_7b8103b356_b.jpg
 layout: post
 files:
-  - link: //farm8.staticflickr.com/7381/27898818850_cfef52f8fa_b.jpg
-    thumbnail: //farm8.staticflickr.com/7381/27898818850_cfef52f8fa_t.jpg
-    medium: //farm8.staticflickr.com/7381/27898818850_cfef52f8fa_z.jpg
-    small: //farm8.staticflickr.com/7381/27898818850_cfef52f8fa_n.jpg
-    title: AL 2009 Marcha Estadual (137).JPG
-    $$hashKey: "031"
+  - link: //farm8.staticflickr.com/7510/28180222475_7b8103b356_b.jpg
+    thumbnail: //farm8.staticflickr.com/7510/28180222475_7b8103b356_t.jpg
+    medium: //farm8.staticflickr.com/7510/28180222475_7b8103b356_z.jpg
+    small: //farm8.staticflickr.com/7510/28180222475_7b8103b356_n.jpg
+    title: compor-violao1.jpg
+    $$hashKey: "064"
 created_date: "2016-07-08T18:12:36-03:00"
 published: true
 releated_posts: []
