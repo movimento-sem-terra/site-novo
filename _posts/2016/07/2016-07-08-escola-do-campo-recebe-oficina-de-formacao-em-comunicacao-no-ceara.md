@@ -4,21 +4,27 @@ tags: []
 title: Escola do Campo recebe oficina de formação em comunicação no Ceará
 support_line: A formação tem como objetivo instruir jovens comunicadores para fortalecer as iniciativas de comunicação já existentes na escola e na comunidade.
 menu: "educação, cultura e comunicação"
-images_hd: //farm8.staticflickr.com/7435/27557686613_a2482ccf44_b.jpg
+images_hd: //farm8.staticflickr.com/7504/27893781390_82a419b4d1_b.jpg
 layout: post
 files:
-  - link: //farm8.staticflickr.com/7435/27557686613_a2482ccf44_b.jpg
-    thumbnail: //farm8.staticflickr.com/7435/27557686613_a2482ccf44_t.jpg
-    medium: //farm8.staticflickr.com/7435/27557686613_a2482ccf44_z.jpg
-    small: //farm8.staticflickr.com/7435/27557686613_a2482ccf44_n.jpg
-    title: 25715489212_52fd257822_z.jpg
-    $$hashKey: 05X
+  - link: //farm8.staticflickr.com/7504/27893781390_82a419b4d1_b.jpg
+    thumbnail: //farm8.staticflickr.com/7504/27893781390_82a419b4d1_t.jpg
+    medium: //farm8.staticflickr.com/7504/27893781390_82a419b4d1_z.jpg
+    small: //farm8.staticflickr.com/7504/27893781390_82a419b4d1_n.jpg
+    title: WhatsApp-Image-20160708(1).jpeg
+    $$hashKey: 08W
+  - link: //farm8.staticflickr.com/7361/28174920045_3285bb1d66_b.jpg
+    thumbnail: //farm8.staticflickr.com/7361/28174920045_3285bb1d66_t.jpg
+    medium: //farm8.staticflickr.com/7361/28174920045_3285bb1d66_z.jpg
+    small: //farm8.staticflickr.com/7361/28174920045_3285bb1d66_n.jpg
+    title: WhatsApp-Image-20160708(2).jpeg
+    $$hashKey: 08Z
 created_date: "2016-07-08T11:28:33-03:00"
 published: true
 releated_posts: []
 
 ---
-<p>&nbsp;</p>
+<p><img alt="WhatsApp-Image-20160708(2).jpeg" height="394" src="//farm8.staticflickr.com/7361/28174920045_3285bb1d66_b.jpg" width="700" /></p>
 
 <p>&nbsp;</p>
 
