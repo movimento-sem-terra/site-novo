@@ -16,11 +16,33 @@ files:
     small: //farm8.staticflickr.com/7571/28096839292_39fa2bd13b_n.jpg
     title: IMG_0482.JPG
     $$hashKey: 02X
+  - link: //farm8.staticflickr.com/7318/28122995161_ea7527103c_b.jpg
+    thumbnail: //farm8.staticflickr.com/7318/28122995161_ea7527103c_t.jpg
+    medium: //farm8.staticflickr.com/7318/28122995161_ea7527103c_z.jpg
+    small: //farm8.staticflickr.com/7318/28122995161_ea7527103c_n.jpg
+    title: IMG_0533.JPG
+    $$hashKey: "063"
+  - link: //farm8.staticflickr.com/7400/28200691815_20b3cc9846_b.jpg
+    thumbnail: //farm8.staticflickr.com/7400/28200691815_20b3cc9846_t.jpg
+    medium: //farm8.staticflickr.com/7400/28200691815_20b3cc9846_z.jpg
+    small: //farm8.staticflickr.com/7400/28200691815_20b3cc9846_n.jpg
+    title: IMG_0510.JPG
+    $$hashKey: "066"
+  - link: //farm8.staticflickr.com/7450/28097032612_f8b197f368_b.jpg
+    thumbnail: //farm8.staticflickr.com/7450/28097032612_f8b197f368_t.jpg
+    medium: //farm8.staticflickr.com/7450/28097032612_f8b197f368_z.jpg
+    small: //farm8.staticflickr.com/7450/28097032612_f8b197f368_n.jpg
+    title: IMG_0515.JPG
+    $$hashKey: 069
 created_date: "2016-07-09T17:39:08-03:00"
 published: true
 releated_posts: []
 
 ---
+<figure class="image"><img alt="IMG_0533.JPG" height="467" src="//farm8.staticflickr.com/7318/28122995161_ea7527103c_b.jpg" width="700" />
+<figcaption></figcaption>
+</figure>
+
 <p><em>Por Catiana de Medeiros<br />
 Da P&aacute;gina do MST</em></p>
 
@@ -36,6 +58,10 @@ Os dois camponeses moram desde 1988 no Assentamento Nova Estrela e lembram que t
 <p><br />
 Segundo dona Beloni, eles apostam no contato direto com o consumidor para levar &agrave; sociedade os frutos da reforma agr&aacute;ria, mostrando que a democratiza&ccedil;&atilde;o das terras gera grandes experi&ecirc;ncias quando as fam&iacute;lias se mant&ecirc;m organizadas. &ldquo;Eu adoro fazer feira, porque &eacute; um trabalho muito gratificante, um espa&ccedil;o de troca de experi&ecirc;ncias e aprendizado entre o campo e a cidade&rdquo;, complementa.</p>
 
+<figure class="image"><img alt="IMG_0510.JPG" height="467" src="//farm8.staticflickr.com/7400/28200691815_20b3cc9846_b.jpg" width="700" />
+<figcaption></figcaption>
+</figure>
+
 <p><br />
 <strong>Diversidade</strong></p>
 
@@ -50,6 +76,10 @@ Quem passar pela Feira da Reforma Agr&aacute;ria at&eacute; o pr&oacute;ximo dom
 
 <p><br />
 De acordo com Helo&iacute;se Dorneles, do Assentamento Filhos de Sep&eacute; de Viam&atilde;o, na regi&atilde;o Metropolitana de Porto Alegre, a introdu&ccedil;&atilde;o desses produtos naturais e artesanais em feiras ocorreu a partir de capacita&ccedil;&atilde;o realizada pela Cooperativa de Trabalho em Servi&ccedil;os T&eacute;cnicos (Coptec) &agrave;s mulheres camponesas. &ldquo;O curso nos incentivou a produzir n&atilde;o somente para n&oacute;s, mas tamb&eacute;m para as feiras. E vale a pena, porque as pessoas t&ecirc;m acesso a produtos com pre&ccedil;os mais baixos que no mercado. E, al&eacute;m de serem naturais, t&ecirc;m o mesmo efeito daqueles que est&atilde;o nas prateleiras das farm&aacute;cias&rdquo;, afirma.</p>
+
+<figure class="image"><img alt="IMG_0515.JPG" height="467" src="//farm8.staticflickr.com/7450/28097032612_f8b197f368_b.jpg" width="700" />
+<figcaption></figcaption>
+</figure>
 
 <p><br />
 <strong>Experi&ecirc;ncia aprendente e ensinante</strong></p>
