@@ -36,4 +36,4 @@ Os religiosos que d&atilde;o continuidade ao trabalho de Dorothy, em defesa da r
 Em 2015, segundo a Comiss&atilde;o Pastoral da Terra, sete pessoas envolvidas na luta pela reforma agr&aacute;ria foram assassinadas em Anapu entre julho e novembro. Um deles foi Z&eacute; da Lapada, l&iacute;der de um grupo de trabalhadores sem-terra. Em um v&iacute;deo in&eacute;dito, gravado um m&ecirc;s antes de sua morte, ele comenta a presen&ccedil;a de pistoleiros na regi&atilde;o.</p>
 
 <p><br />
-<a href="https://www.youtube.com/watch?v=1rwuGGn4wF4">https://www.youtube.com/watch?v=1rwuGGn4wF4</a></p>
+<iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/1rwuGGn4wF4" width="640"></iframe></p>
