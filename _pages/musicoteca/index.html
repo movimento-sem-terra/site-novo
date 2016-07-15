@@ -80,7 +80,7 @@ styles: ["playlist.css"]
         <a href="videos/">Vídeos</a>
     </h2>
     <ul>
-      {% for video in site.musicoteca.videos  %}
+      {% for video in site.musicoteca.videos | limit: 3 %}
         <li>
           <iframe width="560" height="315" src="{{ video.video | get_video_embeded }}" frameborder="0" allowfullscreen></iframe>
           <div>

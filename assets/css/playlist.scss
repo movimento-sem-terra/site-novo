@@ -24,6 +24,7 @@ main#musicoteca {
 
     &#videos {
       ul {
+        display: block;
         li {
           @include span-columns(4);
 
@@ -233,6 +234,8 @@ main#musicoteca > nav {
           height: 205px;
           cursor: pointer;
           background-size: cover;
+          width: 100%;
+
           img {
             display: none;
             width: 100%;
@@ -240,6 +243,7 @@ main#musicoteca > nav {
         }
 
         .playlist {
+          display: inline-block;
           padding: 10px;
           margin-top: 28px;
 

@@ -6,7 +6,9 @@ module Jekyll
     include Jekyll::VideoEmbeded
 
     def generate_json(obj, stdout=false)
-      Array(obj).flatten[0..500].map do |post|
+       array = Array(obj).flatten
+
+       array.map do |post|
         result = {
           title: post.data['title'],
           url: post.url,

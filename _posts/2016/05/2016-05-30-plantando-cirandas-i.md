@@ -147,7 +147,7 @@ tracks:
 title: Plantando Cirandas I
 support_line: Plantando Cirandas I
 download: "https://docs.google.com/uc?id=0Bwus_4SL8MWDelRJNUU2ZThGTmM&export=download"
-images_hd: !<tag:yaml.org,2002:js/function> "function link() {\n    [native code]\n}"
+images_hd: "http://farm4.staticflickr.com/3852/15187675380_7b00f5fdff_b.jpg"
 layout: post
 files:
   - link: "https://docs.google.com/uc?id=0Bwus_4SL8MWDUDFJeDA1alBiV3M&export=download"
@@ -162,7 +162,6 @@ files:
     basename: Fita Plantando Cirandas 1
     embed: "https://docs.google.com/uc?id=0Bwus_4SL8MWDelRJNUU2ZThGTmM"
     $$hashKey: 0S3
-  - "\"Authentication failed : 'https://api.flickr.com/services/upload/' - Filetype was not recognised\""
 created_date: "2016-05-30T12:33:22-03:00"
 published: true
 releated_posts: []
