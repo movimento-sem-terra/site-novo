@@ -1,0 +1,56 @@
+---
+ programacao:
+   - titulo: Festival
+     eventos:
+     - dia: 22
+       dia_semana: Quinta
+       manha:
+         - item: Abertura da Feira (8h)
+       tarde:
+         - item: Cantadores, violeiros e manifestações culturais
+         - item: Show Violeiros e Cacique e Pajé (16h)
+   - titulo: Feira
+     eventos:
+     - dia: 22
+       dia_semana: Quinta
+       manha:
+         - item: Abertura da Feira (8h)
+       tarde:
+         - item: Cantadores, violeiros e manifestações culturais
+         - item: Show Violeiros e Cacique e Pajé (16h)
+     - dia: 24
+       dia_semana: Sexta
+       manha:
+         - item: Abertura da Feira (8h)
+         - item: Abertura da Feira (10h)
+       tarde:
+         - item: Cantadores, violeiros e manifestações culturais
+         - item: Cantadores, violeiros e manifestações culturais
+         - item: Cantadores, violeiros e manifestações culturais
+         - item: Show Violeiros e Cacique e Pajé (16h)
+   - titulo: Outros
+     eventos:
+     - dia: 22
+       dia_semana: Quinta
+       manha:
+         - item: Abertura da Feira (8h)
+       tarde:
+         - item: Cantadores, violeiros e manifestações culturais
+         - item: Show Violeiros e Cacique e Pajé (16h)
+     - dia: 23
+       dia_semana: Quinta
+       manha:
+         - item: Abertura da Feira (8h)
+         - item: Abertura da Feira (8h)
+       tarde:
+         - item: Cantadores, violeiros e manifestações culturais
+         - item: Cantadores, violeiros e manifestações culturais
+         - item: Cantadores, violeiros e manifestações culturais
+         - item: Show Violeiros e Cacique e Pajé (16h)
+     - dia: 24
+       dia_semana: Quinta
+       manha:
+         - item: Abertura da Feira (8h)
+       tarde:
+         - item: Cantadores, violeiros e manifestações culturais
+         - item: Show Violeiros e Cacique e Pajé (16h)

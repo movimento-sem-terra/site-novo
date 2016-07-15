@@ -1,9 +1,11 @@
 ---
 layout: white_page
 styles: ["festival.css", "tabs.css"]
+scripts: ["festival.js"]
 title: "Festival Nacional"
 description: "Artes e Cultura da Reforma Agrária."
 images_hd: "http://farm8.staticflickr.com/7558/26769695760_ebcbb7b08b_n.jpg"
+external_scripts: ["//code.jquery.com/jquery-3.1.0.min.js"]
 ---
 <article class="festival" itemscope itemtype="http://schema.org/Event">
   <figure class="capa" title="arte da capa do festival">
@@ -63,78 +65,41 @@ images_hd: "http://farm8.staticflickr.com/7558/26769695760_ebcbb7b08b_n.jpg"
     </section><!-- informações section -->
     <section class="agenda">
       <ul id="tabs">
-        <li class="active">
-          <a href="#tab-informacao-1">
-            Informação 1
-          </a>
-        </li>
+			{% for p in site.data.festival.programacao %}
         <li>
-          <a href="#tab-informacao-2">
-            Informação 2
+          <a href="#tab-informacao-{{ forloop.index }}">
+            {{ p.titulo }}
           </a>
         </li>
-        <li>
-          <a href="#tab-informacao-3">
-            Informação 3
-          </a>
-        </li>
+			{% endfor %}
       </ul>
-      <div id="tab-informacao-1">
-        <section class="programacao filter" >
+			{% for p in site.data.festival.programacao %}
+      <div id="tab-informacao-{{ forloop.index }}" class="filter">
+				{% for e in p.eventos %}
+        <section class="programacao">
           <article class="item-content">
             <div class="item-image-content">
-              <span class="bold">22</span>
-              <span class="day-name">Quinta</span>
+              <span class="bold">{{ e.dia }}</span>
+              <span class="day-name">{{ e.dia_semana }}</span>
             </div>
 
             <div class="item-content divisor">
               <div class="day-container">
                 <h3 class="day-schedule">Manhã</h3>
-                <p class="item">Abertura da Feira (8h)</p>
+								{% for item in e.manha %}
+                <p class="item">{{ item.item }}</p>
+								{% endfor %}
                 <h3 class="day-schedule">Tarde</h3>
-                <p class="item">Cantadores, violeiros e manifestações culturais</p>
-                <p class="item">Show Violeiros e Cacique e Pajé (16h)</p>
+								{% for item in e.tarde %}
+                <p class="item">{{ item.item }}</p>
+								{% endfor %}
               </div>
             </div>
           </article>
         </section><!-- programacao filter -->
-        <section class="programacao filter" >
-          <article class="item-content">
-            <div class="item-image-content">
-              <span class="bold">23</span>
-              <span class="day-name">Quinta</span>
-            </div>
-
-            <div class="item-content divisor">
-              <div class="day-container">
-                <h3 class="day-schedule">Manhã</h3>
-                <p class="item">Abertura da Feira (8h)</p>
-                <h3 class="day-schedule">Tarde</h3>
-                <p class="item">Cantadores, violeiros e manifestações culturais</p>
-                <p class="item">Show Violeiros e Cacique e Pajé (16h)</p>
-              </div>
-            </div>
-          </article>
-        </section><!-- programacao filter -->
-        <section class="programacao filter" >
-          <article class="item-content">
-            <div class="item-image-content">
-              <span class="bold">23</span>
-              <span class="day-name">Quinta</span>
-            </div>
-
-            <div class="item-content divisor">
-              <div class="day-container">
-                <h3 class="day-schedule">Manhã</h3>
-                <p class="item">Abertura da Feira (8h)</p>
-                <h3 class="day-schedule">Tarde</h3>
-                <p class="item">Cantadores, violeiros e manifestações culturais</p>
-                <p class="item">Show Violeiros e Cacique e Pajé (16h)</p>
-              </div>
-            </div>
-          </article>
-        </section><!-- programacao filter -->
-      </div><!-- tab-programacao-1 -->
+			{% endfor %}
+      </div><!-- tab-programacao -->
+			{% endfor %}
     </section><!-- agenda section -->
   </div><!-- div.scroll -->
 </article>
