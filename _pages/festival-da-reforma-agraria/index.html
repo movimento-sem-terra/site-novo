@@ -1,6 +1,6 @@
 ---
 layout: white_page
-styles: ["festival.css"]
+styles: ["festival.css", "tabs.css"]
 title: "Festival Nacional"
 description: "Artes e Cultura da Reforma Agrária."
 images_hd: "http://farm8.staticflickr.com/7558/26769695760_ebcbb7b08b_n.jpg"
@@ -9,57 +9,132 @@ images_hd: "http://farm8.staticflickr.com/7558/26769695760_ebcbb7b08b_n.jpg"
   <figure class="capa" title="arte da capa do festival">
     <meta content="/assets/img/festival/capa.png"  itemprop="image"/>
   </figure>
-  <section class="informacoes">
-    <header class="letreiro">
-      <meta itemprop="name" content="Festival Nacional de Artes e Cultura da Reforma Agrária"/>
-      <meta itemprop="startDate" content="2016-07-20T09:00"/>
-      <meta itemprop="endDate" content="2016-07-24T20:00"/>
-      <h1>
-        Festival Nacional
-      </h1>
-      <h2>
-        de Artes e Cultura da Reforma Agrária
-      </h2>
-      <h3 itemprop="location" itemscope itemtype="http://schema.org/Place">
-        <meta itemprop="address name" content="Belo Horizonte - MG"/>
-        20 a 24 de Julho/2016 Belo Horizonte-MG
-      </h3>
-    </header>
-    <figure class="mostras">
-      <span class="poesia">
-        <a href="/2016/04/05/mst-realiza-festival-nacional-de-artes-e-cultura-da-reforma-agraria.html">
-          I Mostra de Poesia
-        </a>
-      </span>
-      <span class="musica">
-        <a href="/2016/04/05/mst-realiza-festival-nacional-de-artes-e-cultura-da-reforma-agraria.html">
-          II Festival de Música
-        </a>
-      </span>
-      <span class="feira">
-        + Feira da Reforma Agrária
-      </span>
-    </figure>
-    <section class="frase">
-      <span>
-        "Da luta brotam
-        <br/>
-        vozes da liberdade"
-      </span>
-    </section>
-    <section class="inscricao">
-      <span class="poesia">
-        Poeta?
-        <a href="#">
-          <h1>Inscrições encerradas</h1>
-        </a>
-      </span>
-      <span class="musica">
-        Músico?
-        <a href="#">
-          <h1>Inscrições encerradas</h1>
-        </a>
-      </span>
-    </section>
-  </section>
+  <div class="scroll">
+    <section class="informacoes">
+      <header class="letreiro">
+        <meta itemprop="name" content="Festival Nacional de Artes e Cultura da Reforma Agrária"/>
+        <meta itemprop="startDate" content="2016-07-20T09:00"/>
+        <meta itemprop="endDate" content="2016-07-24T20:00"/>
+        <h1>
+          Festival Nacional
+        </h1>
+        <h2>
+          de Artes e Cultura da Reforma Agrária
+        </h2>
+        <h3 itemprop="location" itemscope itemtype="http://schema.org/Place">
+          <meta itemprop="address name" content="Belo Horizonte - MG"/>
+          20 a 24 de Julho/2016 Belo Horizonte-MG
+        </h3>
+      </header>
+      <figure class="mostras">
+        <span class="poesia">
+          <a href="/2016/04/05/mst-realiza-festival-nacional-de-artes-e-cultura-da-reforma-agraria.html">
+            I Mostra de Poesia
+          </a>
+        </span>
+        <span class="musica">
+          <a href="/2016/04/05/mst-realiza-festival-nacional-de-artes-e-cultura-da-reforma-agraria.html">
+            II Festival de Música
+          </a>
+        </span>
+        <span class="feira">
+          + Feira da Reforma Agrária
+        </span>
+      </figure>
+      <section class="frase">
+        <span>
+          "Da luta brotam
+          <br/>
+          vozes da liberdade"
+        </span>
+      </section>
+      <section class="descricao">
+        <span>
+          <p>
+          O panorama geral do Festival é que durante as manhãs tenham formação (Seminários e painéis); As tardes, oficinas e Mostra de Poesia e durante a noite tenha o Festival e shows. Além da Feira da Reforma Agrária que será o dia inteiro ou somente tardes (ainda discutindo);
+          </p>
+        </span>
+        <span>
+          <p>
+          Também será organizada uma visita orientada em uma das comunidades urbanas de Belo Horizonte, comunidade Aglomerado da Serra, com cerca de 500 pessoas, em uma das tardes do Festival. A programação para tal atividade será organizada pelo Coletivo de Juventude e Brigada de agitação e propaganda de Minas Gerais junto ao Coletivo Fora do Eixo e Levante Popular da Juventude.
+          </p>
+        </span>
+      </section>
+    </section><!-- informações section -->
+    <section class="agenda">
+      <ul id="tabs">
+        <li class="active">
+          <a href="#tab-informacao-1">
+            Informação 1
+          </a>
+        </li>
+        <li>
+          <a href="#tab-informacao-2">
+            Informação 2
+          </a>
+        </li>
+        <li>
+          <a href="#tab-informacao-3">
+            Informação 3
+          </a>
+        </li>
+      </ul>
+      <div id="tab-informacao-1">
+        <section class="programacao filter" >
+          <article class="item-content">
+            <div class="item-image-content">
+              <span class="bold">22</span>
+              <span class="day-name">Quinta</span>
+            </div>
+
+            <div class="item-content divisor">
+              <div class="day-container">
+                <h3 class="day-schedule">Manhã</h3>
+                <p class="item">Abertura da Feira (8h)</p>
+                <h3 class="day-schedule">Tarde</h3>
+                <p class="item">Cantadores, violeiros e manifestações culturais</p>
+                <p class="item">Show Violeiros e Cacique e Pajé (16h)</p>
+              </div>
+            </div>
+          </article>
+        </section><!-- programacao filter -->
+        <section class="programacao filter" >
+          <article class="item-content">
+            <div class="item-image-content">
+              <span class="bold">23</span>
+              <span class="day-name">Quinta</span>
+            </div>
+
+            <div class="item-content divisor">
+              <div class="day-container">
+                <h3 class="day-schedule">Manhã</h3>
+                <p class="item">Abertura da Feira (8h)</p>
+                <h3 class="day-schedule">Tarde</h3>
+                <p class="item">Cantadores, violeiros e manifestações culturais</p>
+                <p class="item">Show Violeiros e Cacique e Pajé (16h)</p>
+              </div>
+            </div>
+          </article>
+        </section><!-- programacao filter -->
+        <section class="programacao filter" >
+          <article class="item-content">
+            <div class="item-image-content">
+              <span class="bold">23</span>
+              <span class="day-name">Quinta</span>
+            </div>
+
+            <div class="item-content divisor">
+              <div class="day-container">
+                <h3 class="day-schedule">Manhã</h3>
+                <p class="item">Abertura da Feira (8h)</p>
+                <h3 class="day-schedule">Tarde</h3>
+                <p class="item">Cantadores, violeiros e manifestações culturais</p>
+                <p class="item">Show Violeiros e Cacique e Pajé (16h)</p>
+              </div>
+            </div>
+          </article>
+        </section><!-- programacao filter -->
+      </div><!-- tab-programacao-1 -->
+    </section><!-- agenda section -->
+  </div><!-- div.scroll -->
 </article>
