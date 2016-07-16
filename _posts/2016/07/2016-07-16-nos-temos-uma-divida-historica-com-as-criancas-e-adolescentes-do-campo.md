@@ -101,6 +101,9 @@ Para a deputada federal, Maria do Ros&aacute;rio (PT-RS), ministra da Secretaria
 <p><br />
 Ros&aacute;rio refere-se &agrave; Proposta de Emenda Constitucional 241/2016, apresentada por Temer em maio deste ano, que estabelece um novo regime fiscal para gastos com sa&uacute;de e educa&ccedil;&atilde;o. A PEC aguarda parecer do relator na Comiss&atilde;o de Constitui&ccedil;&atilde;o e Justi&ccedil;a e de Cidadania (CCJC) e encontra forte resist&ecirc;ncia dos movimentos populares pela avalia&ccedil;&atilde;o de que, articulado a mais a&ccedil;&otilde;es do governo interino, resultar&aacute; no desmonte das pol&iacute;ticas das &aacute;reas, como a extin&ccedil;&atilde;o do SUS.</p>
 
+<p><br />
+Veja <a href="http://www.camara.gov.br/proposicoesWeb/prop_mostrarintegra;jsessionid=FC4BBABA00634A87A0BE1FE3D8DFD62A.proposicoesWeb1?codteor=1468431&amp;filename=PEC+241/2016">aqui</a></p>
+
 <p>&nbsp;</p>
 
 <p>&nbsp;</p>
