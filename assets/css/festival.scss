@@ -258,5 +258,13 @@ body {
   }// ul.tabs
 
   .programacao {
+    padding: 0;
+    .item-content .item-image-content {
+      width: 20%;
+
+      .bold {
+        font-size: 1.6em;
+      }
+    }
   }// .programacao
 }// .festival .agenda

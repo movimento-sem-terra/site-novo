@@ -68,7 +68,7 @@ external_scripts: ["//code.jquery.com/jquery-3.1.0.min.js"]
 			{% for p in site.data.festival.programacao %}
         <li>
           <a href="#tab-informacao-{{ forloop.index }}">
-            {{ p.titulo }}
+            {{ p.dia }}
           </a>
         </li>
 			{% endfor %}
@@ -79,19 +79,14 @@ external_scripts: ["//code.jquery.com/jquery-3.1.0.min.js"]
         <section class="programacao">
           <article class="item-content">
             <div class="item-image-content">
-              <span class="bold">{{ e.dia }}</span>
-              <span class="day-name">{{ e.dia_semana }}</span>
+              <span class="bold">{{ e.horario }}</span>
             </div>
 
             <div class="item-content divisor">
               <div class="day-container">
-                <h3 class="day-schedule">Manhã</h3>
-								{% for item in e.manha %}
-                <p class="item">{{ item.item }}</p>
-								{% endfor %}
-                <h3 class="day-schedule">Tarde</h3>
-								{% for item in e.tarde %}
-                <p class="item">{{ item.item }}</p>
+                <h3 class="day-schedule">{{ e.nome }}</h3>
+								{% for item in e.detalhes %}
+                <p class="item">{{ item }}</p>
 								{% endfor %}
               </div>
             </div>

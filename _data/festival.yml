@@ -1,88 +1,32 @@
 ---
- programacao:
-   - titulo: Festival
-     eventos:
-     - dia: 21
-       dia_semana: Quinta- feira 
-       manha:9h Seminário 
-  Conjuntura Política atual
-- João Pedro Stédile (MST)
-- Beatriz Cerqueira (CUT)
-
-- 7h às 21h - Feira da Reforma Agrária e Feira gastronômica
-- 12h às 16h - Balaio Cultural Cora Coralina - Serraria Souza Pinto
-- 12h às 18h- Mostra Plástica – CRJ
-LANÇAMENTO da Mostra Plástica (Fotografias 32 anos MST, Exposição 20 anos de Impunidade de Eldorado dos Carajás (PA) / Felisburgo (MG)
-
-- 12h às 15h - Cinema da Terra 
-Centro cultural UFMG
-
-- Mostra Acampamento Sem Terra – Pça. da Estação
-
-- Feira Literária Expressão Popular – Pça. Da Estação
-
-- 16h às 18h- Mostra de Poesia
-Tema das Bruxas – Caldeirão de Poesia. / Atrações voltadas para as mulheres.
-
-- 19:30h – Festival de Música – Seleção
-
-- 21:30h - Apresentação cultural
-
-Titane
-Chico César
-
-     - dia: 22
-       dia_semana: Sexta-feira
-       
-- 9h-Painéis temáticos:
-
-- Educação e Juventude - CRJ
-- Saúde e Produção - CRJ
-- Gênero – Centro Cult UFMG
-- Comunicação - Viaduto
-- Direitos Humanos - CRJ
-
-- 7h às 21h -Feira da Reforma Agrária e Feira gastronômica
-
-- 12h às 16h - Balaio Cultural Cora Coralina - Serraria Souza Pinto
-
-- 12h às 18h - Mostra Plástica – CRJ
-
-- Mostra Acampamento Sem Terra – Pça. da Estação
-
-- Feira Literária Expressão Popular – Pça. Da Estação
-
-- 16h às 18h- Mostra de Poesia
-Tema: Íris Poética. / Atrações voltadas para a diversidade sexual
-
-Carol Andrade
-
-- 19:30h – Festival de Música – Seleção
-
-- 21:30h -Apresentação cultural
-
-Zé Mulato e Cassiano
-Pereira da Viola 
-
-     - dia: 24
-       dia_semana: Domingo
-       manha:
-        -- 7h às 17h -Feira da reforma agrária e Feira gastronômica
-
-- 9h às 12h -Mostra Plástica
-
-- 10h às 14h - Balaio Cultural Cora Coralina - Serraria Souza Pinto
-
-- Mostra Acampamento Sem Terra – Pça. da Estação
-
-- Feira Literária Expressão Popular – Pça. Da Estação
-
-- 14h - Ato Frente Brasil Popular
-
-- Apresentação cultural 
-15h - Tambores – Tambolelê
-16h - Samba – Aline Calixto
-
-
-Homenagem ao maior carnaval popular de resistência no país.
-
+programacao:
+  - dia: 21/07 Quinta-feira
+    eventos:
+    - horario: 9h
+      nome: Seminário Conjuntura Política atual
+      detalhes:
+      - João Pedro Stédile
+      - Beatriz Cerqueira
+    - horario: 7h às 21h
+      nome: Feira da reforma agrária e Feira gastronômica
+    - horario: 12h às 16h
+      nome: Balaio Cultural Cora Coralina - Serraria Souza Pinto
+    - horario: 12h às 18h
+      nome: Mostra Plástica – CRJ
+      detalhes:
+      - LANÇAMENTO da Mostra Plástica (Fotografias 32 anos MST, Exposição 20 anos de Impunidade de Eldorado dos Carajás (PA) / Felisburgo (MG)
+    - horario: 12h às 15h
+      nome: Cinema da Terra
+      detalhes:
+      - Centro cultural UFMG
+      - Mostra Acampamento Sem Terra –
+      - Pça. da Estação
+      - Feira Literária Expressão Popular –
+      - Pça. Da Estação
+    - horario: 16h às 18h
+      nome: Mostra de Poesia
+      detalhes: Tema das Bruxas – Caldeirão de Poesia. / Atrações voltadas para as mulheres.
+    - horario: 19:30h
+      nome: Festival de Música – Seleção
+    - horario: 21:30h
+      nome: Apresentação cultural
