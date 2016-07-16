@@ -1,22 +1,38 @@
 ---
 programacao:
+  - dia: 20/07 Quarta-feira
+    eventos:
+    - horario: '-'
+      nome: "Chegada e alojamento das delegações dos estados"
+    - horario: '-'
+      nome: "Organização da feira"
+    - horario: '-'
+      nome: "Mostra Acampamento Sem Terra – Pça. da Estação"
+    - horario: '-'
+      nome: "Feira Literária Expressão Popular – Pça. Da Estação"
+    - horario: 19:30h
+      nome: "ATO POLÍTICO CULTURAL DE ABERTURA DO FESTIVAL NACIONAL DA REFORMA AGRÁRIA"
+      detalhes:
+      - Participação de Babilak Bah, com orquestra de Enxadário
+      - Apresentação cultural
+      - Forró Iluminado
   - dia: 21/07 Quinta-feira
     eventos:
     - horario: 9h
-      nome: Seminário Conjuntura Política atual
+      nome: "Seminário Conjuntura Política atual"
       detalhes:
       - João Pedro Stédile
       - Beatriz Cerqueira
     - horario: 7h às 21h
-      nome: Feira da reforma agrária e Feira gastronômica
+      nome: "Feira da reforma agrária e Feira gastronômica"
     - horario: 12h às 16h
-      nome: Balaio Cultural Cora Coralina - Serraria Souza Pinto
+      nome: "Balaio Cultural Cora Coralina - Serraria Souza Pinto"
     - horario: 12h às 18h
-      nome: Mostra Plástica – CRJ
+      nome: "Mostra Plástica – CRJ"
       detalhes:
       - LANÇAMENTO da Mostra Plástica (Fotografias 32 anos MST, Exposição 20 anos de Impunidade de Eldorado dos Carajás (PA) / Felisburgo (MG)
     - horario: 12h às 15h
-      nome: Cinema da Terra
+      nome: "Cinema da Terra"
       detalhes:
       - Centro cultural UFMG
       - Mostra Acampamento Sem Terra –
@@ -24,9 +40,86 @@ programacao:
       - Feira Literária Expressão Popular –
       - Pça. Da Estação
     - horario: 16h às 18h
-      nome: Mostra de Poesia
+      nome: "Mostra de Poesia"
       detalhes: Tema das Bruxas – Caldeirão de Poesia. / Atrações voltadas para as mulheres.
     - horario: 19:30h
-      nome: Festival de Música – Seleção
+      nome: "Festival de Música – Seleção"
     - horario: 21:30h
-      nome: Apresentação cultural
+      nome: "Apresentação cultural"
+  - dia: 22/07 Sexta-feira
+    eventos:
+    - horario: 9h
+      nome: "Painéis temáticos"
+      detalhes:
+      - Educação e Juventude - CRJ
+      - Saúde e Produção - CRJ
+      - Gênero – Centro Cult UFMG
+      - Comunicação - Viaduto
+      - Direitos Humanos - CRJ
+    - horario: 7h às 21h
+      nome: "Feira da reforma agrária e Feira gastronômica"
+    - horario: 12h às 16h
+      nome: "Balaio Cultural Cora Coralina - Serraria Souza Pinto"
+    - horario: 12h às 18h
+      nome: "Mostra Plástica – CRJ"
+      detalhes:
+      - Mostra Acampamento Sem Terra – Pça. da Estação
+      - Feira Literária Expressão Popular – Pça. Da Estação
+    - horario: 16h às 18h
+      nome: "Mostra de Poesia"
+      detalhes:
+      - Tema: Íris Poética. / Atrações voltadas para a diversidade sexual
+      - Carol Andrade
+    - horario: 19:30h
+      nome: "Festival de Música – Seleção"
+    - horario: 21:30h
+      nome: "Apresentação cultural"
+      detalhes:
+      - Zé Mulato e Cassiano
+      - Pereira da Viola
+  - dia: 23/07 Sábado
+    eventos:
+    - horario: 9h
+      nome: "Seminário Desafios da cultura na atual luta de classes"
+    - horario: 7h às 21h
+      nome: "Feira da reforma agrária e Feira gastronômica"
+    - horario: 11h às 16h
+      nome: "Balaio Cultural Cora Coralina - Serraria Souza Pinto"
+    - horario: 12h às 18h
+      nome: "Mostra Plástica – CRJ"
+    - horario: 12h às 15h
+      nome: "Cinema da Terra - Centro cultural UFMG"
+      detalhes:
+      - Mostra Acampamento Sem Terra – Pça. da Estação
+      - Feira Literária Expressão Popular – Pça. Da Estação
+    - horario: 16h às 18h
+      nome: "Mostra de Poesia - Tema: Viola Enluarada. / Atrações voltadas para o campo."
+      detalhes:
+      - Xangai
+    - horario: 19:30h
+      nome: "Festival de Música – Final"
+    - horario: 21:30h
+      nome: "Apresentação cultural - Renegado"
+  - dia: 24/07 Domingo
+    eventos:
+    - horario: 7h às 17h
+      nome: "Feira da reforma agrária e Feira gastronômica"
+    - horario: 9h às 12h
+      nome: "Mostra Plástica"
+    - horario: 10h às 14h
+      nome: "Balaio Cultural Cora Coralina - Serraria Souza Pinto"
+      detalhes:
+      - Mostra Acampamento Sem Terra – Pça. da Estação
+      - Feira Literária Expressão Popular – Pça. Da Estação
+    - horario: 14h
+      nome: "Ato Frente Brasil Popular"
+      detalhes:
+      - Apresentação cultural
+    - horario: 15h
+      nome: "Tambores – Tambolelê"
+    - horario: 16h
+      nome: "Samba – Aline Calixto"
+    - horario: 17h
+      nome: "Homenagem ao maior carnaval popular de resistência no país."
+    - horario: '-'
+      nome: "RETORNO AOS ESTADOS"

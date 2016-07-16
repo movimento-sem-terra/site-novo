@@ -4,13 +4,15 @@ $(document).ready(function(){
 		$('ul#tabs li:first').addClass('active');
 		$('.filter').hide();
 		$('.filter:first').show();
+
 		$('ul#tabs li').on('click',function(){
 			$('ul#tabs li').removeClass('active');
 			$(this).addClass('active')
 
-			$('.filter').fadeOut('slow');
+      var options = { duration: 500, queue: false, };
+			$('.filter').fadeOut(options);
 			var activeTab = $(this).find('a').attr('href');
-			$(activeTab).fadeIn('slow');
+			$(activeTab).fadeIn(options);
 
 			return false;
 		});
