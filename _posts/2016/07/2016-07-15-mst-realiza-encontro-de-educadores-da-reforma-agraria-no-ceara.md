@@ -6,7 +6,7 @@ tags:
   - tag: escola-do-campo
 images_hd: //farm8.staticflickr.com/7062/28045407570_97080e7ab7_b.jpg
 title: MST realiza encontro de educadores da Reforma Agrária no Ceará
-support_line: "O evento reuniu para conhecer e debater a experiência das escolas do campo no estado. "
+support_line: "O evento reuniu educadores para conhecer e debater a experiência das escolas do campo no estado. "
 menu: "educação, cultura e comunicação"
 layout: post
 files:
