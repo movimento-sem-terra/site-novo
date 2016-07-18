@@ -27,8 +27,8 @@ releated_posts: []
 
 <p>&nbsp;</p>
 
-<p><em>Por &nbsp;Lizely Roberta Borges<br />
-Da P&aacute;gina do MST</em></p>
+<p><em>Por &nbsp;Mariana Pitasse<br />
+Do Brasil de Fato&nbsp;</em></p>
 
 <p>&nbsp;</p>
 
