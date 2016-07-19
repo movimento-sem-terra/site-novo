@@ -25,41 +25,19 @@ published: true
 releated_posts: []
 
 ---
-<p style="text-align: justify;">O Movimento lan&ccedil;a nessa ter&ccedil;a (19), a musicoteca Inezita Barroso, um espa&ccedil;o para</p>
-
-<p style="text-align: justify;">divulga&ccedil;&atilde;o dos &aacute;lbuns j&aacute; produzidos pelo Movimento, bem como obras de parceiros</p>
-
-<p style="text-align: justify;">que contenham a tem&aacute;tica de luta.</p>
+<p style="text-align: justify;">O Movimento lan&ccedil;a nessa ter&ccedil;a (19), a musicoteca Inezita Barroso, um espa&ccedil;o para divulga&ccedil;&atilde;o dos &aacute;lbuns j&aacute; produzidos pelo Movimento, bem como obras de parceiros que contenham a tem&aacute;tica de luta.</p>
 
 <p style="text-align: justify;">&nbsp;</p>
 
-<p style="text-align: justify;">O MST que nasceu em sinfonia, usa os acordes como bandeira de identidade, luta e</p>
-
-<p style="text-align: justify;">resist&ecirc;ncia. Reafirmando essa identidade e em celebra&ccedil;&atilde;o aos 30 anos do MST, completados em</p>
-
-<p style="text-align: justify;">2014, no &uacute;ltimo per&iacute;odo foi feito um recolhimento das can&ccedil;&otilde;es hist&oacute;ricas que traduzem</p>
-
-<p style="text-align: justify;">parte da mem&oacute;ria musical do povo Sem Terra. Hist&oacute;ria essa que agora estar&aacute;</p>
-
-<p style="text-align: justify;">dispon&iacute;vel para todos em nossa p&aacute;gina.</p>
+<p style="text-align: justify;">O MST que nasceu em sinfonia, usa os acordes como bandeira de identidade, luta e resist&ecirc;ncia. Reafirmando essa identidade e em celebra&ccedil;&atilde;o aos 30 anos do MST, completados em 2014, no &uacute;ltimo per&iacute;odo foi feito um recolhimento das can&ccedil;&otilde;es hist&oacute;ricas que traduzem parte da mem&oacute;ria musical do povo Sem Terra. Hist&oacute;ria essa que agora estar&aacute; dispon&iacute;vel para todos em nossa p&aacute;gina.</p>
 
 <p style="text-align: justify;">&nbsp;</p>
 
-<p style="text-align: justify;">Para Gu&ecirc; Oliveira, integrante do Setor de Cultura do MST, um dos objetivos da</p>
-
-<p style="text-align: justify;">musicoteca &eacute; trazer &agrave; tona a mem&oacute;ria musical do Movimento a partir de cada per&iacute;odo</p>
-
-<p style="text-align: justify;">hist&oacute;rico. &ldquo;O nosso papel &eacute; deixar para nossos filhos o legado de lutadoras e lutadores.</p>
-
-<p style="text-align: justify;">Perpetuar atrav&eacute;s da m&uacute;sica a luta de todos e de cada um de n&oacute;s&rdquo;, acredita a</p>
-
-<p style="text-align: justify;">percussionista.</p>
+<p style="text-align: justify;">Para Gu&ecirc; Oliveira, integrante do Setor de Cultura do MST, um dos objetivos da musicoteca &eacute; trazer &agrave; tona a mem&oacute;ria musical do Movimento a partir de cada per&iacute;odo hist&oacute;rico. &ldquo;O nosso papel &eacute; deixar para nossos filhos o legado de lutadoras e lutadores. Perpetuar atrav&eacute;s da m&uacute;sica a luta de todos e de cada um de n&oacute;s&rdquo;, acredita a percussionista.</p>
 
 <p style="text-align: justify;">&nbsp;</p>
 
-<p style="text-align: justify;">J&aacute; para Levi de Souza, m&uacute;sico do Setor de Cultura do Paran&aacute;, as m&uacute;sicas no</p>
-
-<p style="text-align: justify;">Movimento sempre tiveram seu lugar estrat&eacute;gico. &ldquo;As can&ccedil;&otilde;es s&atilde;o instrumentos de luta. Em &eacute;pocas de intensa repress&atilde;o, o nosso grito de lamento e resist&ecirc;ncia vinha e, ainda vem, atrav&eacute;s da can&ccedil;&atilde;o. Tanto nos momentos de anima&ccedil;&atilde;o dos encontros e reuni&otilde;es, quanto nos momentos de enfrentamento, seja nos acampamentos, na guarita, quando o cansa&ccedil;o bate, do conflito &agrave; resist&ecirc;ncia, a m&uacute;sica est&aacute; presente. &Eacute; bonito e &eacute; nosso, uma cultura enraizado dentro do Movimento. Estamos com a foice, mas tamb&eacute;m com a viola do lado. &Eacute; esse o retrato musical da viv&ecirc;ncia do sujeito coletivo Sem Terra&rdquo;, salienta.</p>
+<p style="text-align: justify;">J&aacute; para Levi de Souza, m&uacute;sico do Setor de Cultura do Paran&aacute;, as m&uacute;sicas no Movimento sempre tiveram seu lugar estrat&eacute;gico. &ldquo;As can&ccedil;&otilde;es s&atilde;o instrumentos de luta. Em &eacute;pocas de intensa repress&atilde;o, o nosso grito de lamento e resist&ecirc;ncia vinha e, ainda vem, atrav&eacute;s da can&ccedil;&atilde;o. Tanto nos momentos de anima&ccedil;&atilde;o dos encontros e reuni&otilde;es, quanto nos momentos de enfrentamento, seja nos acampamentos, na guarita, quando o cansa&ccedil;o bate, do conflito &agrave; resist&ecirc;ncia, a m&uacute;sica est&aacute; presente. &Eacute; bonito e &eacute; nosso, uma cultura enraizado dentro do Movimento. Estamos com a foice, mas tamb&eacute;m com a viola do lado. &Eacute; esse o retrato musical da viv&ecirc;ncia do sujeito coletivo Sem Terra&rdquo;, salienta.</p>
 
 <p style="text-align: justify;">&nbsp;</p>
 
