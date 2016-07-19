@@ -13,6 +13,7 @@ created_date: "2016-07-07T12:10:20-03:00"
 published: true
 video_thumbnail: "http://img.youtube.com/vi/QZAk7cOJ3ZY/0.jpg"
 releated_posts: []
+special-page: festival
 
 ---
 <p>&quot;Dizem que meu povo &eacute; alegre e pac&iacute;fico, eu digo que meu povo &eacute; uma grande for&ccedil;a insultada.&quot;</p>
