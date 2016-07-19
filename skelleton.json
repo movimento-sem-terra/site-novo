@@ -209,6 +209,7 @@
   "type":{
     "view": "select",
     "options": [
+      {"name": "Festival da Reforma Agrária", "id": "festival"},
       {"name": "Primeira Feira da Reforma Agrária", "id": "first-street-market"},
       {"name": "Jornada Nacional de luta pela Reforma Agrária", "id": "land-reform"}
       ]
