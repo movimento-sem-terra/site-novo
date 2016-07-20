@@ -37,7 +37,7 @@ Da P&aacute;gina do MST&nbsp;</em></p>
 Mais de 1500 Sem Terra de 19 estados do Brasil deram in&iacute;cio, nesta quarta-feira (20), ao Festival Nacional de Artes e Cultura da Reforma Agr&aacute;ria, na cidade de Belo Horizonte, em Minas Gerais.</p>
 
 <p><br />
-O ato pol&iacute;tico-cultural, que acontece na Pra&ccedil;a da Esta&ccedil;&atilde;o e na Serraria Souza Pinto, no centro da cidade, vai at&eacute; o pr&oacute;ximo domingo (20), e contar&aacute; com uma Feira de Produtos da Reforma Agr&aacute;ria, Feira Liter&aacute;ria e gastron&ocirc;mica com iguarias de todas as regi&otilde;es do Brasil, Mostra de Cinema da Terra, shows e semin&aacute;rios de forma&ccedil;&atilde;o sobre diversos temas.</p>
+O ato pol&iacute;tico-cultural, que acontece na Pra&ccedil;a da Esta&ccedil;&atilde;o e na Serraria Souza Pinto, no centro da cidade, vai at&eacute; o pr&oacute;ximo domingo (24), e contar&aacute; com uma Feira de Produtos da Reforma Agr&aacute;ria, Feira Liter&aacute;ria e gastron&ocirc;mica com iguarias de todas as regi&otilde;es do Brasil, Mostra de Cinema da Terra, shows e semin&aacute;rios de forma&ccedil;&atilde;o sobre diversos temas.</p>
 
 <p><br />
 De acordo com a paraense Maria Raimunda C&eacute;sar, da Frente de Educa&ccedil;&atilde;o, Cultura e Forma&ccedil;&atilde;o do MST, a atividade traz o ac&uacute;mulo hist&oacute;rico de luta e resist&ecirc;ncia que camponeses e camponesas de todo o pa&iacute;s constru&iacute;ram ao longo desses 32 anos de funda&ccedil;&atilde;o do Movimento, seja na organiza&ccedil;&atilde;o da classe trabalhadora ou na disputa de um modelo de sociedade que priorize a valoriza&ccedil;&atilde;o do ser humano.</p>
