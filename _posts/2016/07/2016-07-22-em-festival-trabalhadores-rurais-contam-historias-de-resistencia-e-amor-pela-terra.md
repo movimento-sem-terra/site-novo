@@ -6,7 +6,7 @@ support_line: "Produtores de 19 estados participam de feira da reforma agrária,
 special-page: festival
 images_hd: //farm9.staticflickr.com/8844/28394247561_cd2fd0fc56_b.jpg
 menu: "educação, cultura e comunicação"
-section: cover
+section: featured-news
 sector: culture
 layout: post
 files:
