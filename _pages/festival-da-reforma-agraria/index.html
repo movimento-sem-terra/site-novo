@@ -5,7 +5,7 @@ scripts: ["festival.js"]
 title: "Festival Nacional"
 description: "Artes e Cultura da Reforma Agrária."
 images_hd: "http://farm8.staticflickr.com/7558/26769695760_ebcbb7b08b_n.jpg"
-external_scripts: ["//code.jquery.com/jquery-3.1.0.min.js","//cdnjs.cloudflare.com/ajax/libs/masonry/3.3.0/masonry.pkgd.min.js"]
+external_scripts: ["//code.jquery.com/jquery-3.1.0.min.js","//cdnjs.cloudflare.com/ajax/libs/masonry/3.3.0/masonry.pkgd.min.js","//cdnjs.cloudflare.com/ajax/libs/jquery.sticky/1.0.3/jquery.sticky.min.js"]
 ---
 <article class="festival" itemscope itemtype="http://schema.org/Event">
   <figure class="capa" title="arte da capa do festival">
@@ -52,25 +52,30 @@ external_scripts: ["//code.jquery.com/jquery-3.1.0.min.js","//cdnjs.cloudflare.c
       <section class="descricao">
         <span>
           <p>
-          O panorama geral do Festival é que durante as manhãs tenham formação (Seminários e painéis); As tardes, oficinas e Mostra de Poesia e durante a noite tenha o Festival e shows. Além da Feira da Reforma Agrária que será o dia inteiro ou somente tardes (ainda discutindo);
+          Tratar a memória, a cultura, a terra como coisa viva, bicho inquieto - assim faz o Sem Terra quando ocupa, quando canta, quando luta e quando versa. Sua memória pessoal e a nossa memória coletiva. Quando escreve, quando canta e quando dança ele mostra que a história pode - e deve - ser contada a partir de  momentos que sacodem a alma da gente sem o heroísmos de gelo, mas com a grandeza da vida.
           </p>
         </span>
         <span>
           <p>
-          Também será organizada uma visita orientada em uma das comunidades urbanas de Belo Horizonte, comunidade Aglomerado da Serra, com cerca de 500 pessoas, em uma das tardes do Festival. A programação para tal atividade será organizada pelo Coletivo de Juventude e Brigada de agitação e propaganda de Minas Gerais junto ao Coletivo Fora do Eixo e Levante Popular da Juventude.
+          Assim é o meu, seu, assim é o nosso Festival de Arte e Cultura da Reforma Agrária. Em suas andanças incessantes a gente vai caçando e cantando histórias. Vai vendo e ouvindo de tudo. O que de melhor ouviu se transforma em poesia, em canto e em arte, dai a gente lembra como são grandes os pequenos momentos e como eles vão se abraçando, traçando a vida.Tratar e viver a arte como coisa viva, bicho inquieto assim a gente mostra que a história pode - e deve - ser contada a partir quem por ela luta.
           </p>
         </span>
       </section><!-- informações section -->
       <section class="menu">
         <ul>
           <li>
-            <a href="#agenda">
+            <a data-animation="scroll" data-offset="132"  href="#agenda">
               Agenda
             </a>
           </li>
           <li>
-            <a href="#noticias">
+            <a data-animation="scroll" data-offset="132"  href="#noticias">
               Noticias
+            </a>
+          </li>
+          <li>
+            <a data-animation="scroll" data-offset="132"  href="#radio">
+              Nossa Rádio
             </a>
           </li>
         </ul>
@@ -78,61 +83,70 @@ external_scripts: ["//code.jquery.com/jquery-3.1.0.min.js","//cdnjs.cloudflare.c
     </section><!-- informações section -->
 </article>
 <section class="agenda" id="agenda">
-	<ul id="tabs">
-		{% for p in site.data.festival.programacao %}
-		<li>
-			<a href="#tab-informacao-{{ forloop.index }}">
-				{{ p.dia }}
-			</a>
-		</li>
-		{% endfor %}
-	</ul>
-	{% for p in site.data.festival.programacao %}
-	<div id="tab-informacao-{{ forloop.index }}" class="filter">
-		{% for e in p.eventos %}
-		<section class="programacao">
-			<article class="item-content">
-				<div class="item-image-content">
-					<span class="bold">{{ e.horario }}</span>
-				</div>
+  <ul id="tabs">
+    {% for p in site.data.festival.programacao %}
+    <li>
+      <a data-animation="scroll" data-offset="10" href="#tab-informacao-{{ forloop.index }}">
+        {{ p.dia }}
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
+  {% for p in site.data.festival.programacao %}
+  <div id="tab-informacao-{{ forloop.index }}" class="filter">
+    {% for e in p.eventos %}
+    <section class="programacao">
+      <article class="item-content">
+        <div class="item-image-content">
+          <span class="bold">{{ e.horario }}</span>
+        </div>
 
-				<div class="item-content divisor">
-					<div class="day-container">
-						<h3 class="day-schedule">{{ e.nome }}</h3>
-						{% for item in e.detalhes %}
-						<p class="item">{{ item }}</p>
-						{% endfor %}
-					</div>
-				</div>
-			</article>
-		</section><!-- programacao filter -->
-		{% endfor %}
-	</div><!-- tab-programacao -->
-	{% endfor %}
+        <div class="item-content divisor">
+          <div class="day-container">
+            <h3 class="day-schedule">{{ e.nome }}</h3>
+            {% for item in e.detalhes %}
+            <p class="item">{{ item }}</p>
+            {% endfor %}
+          </div>
+        </div>
+      </article>
+    </section><!-- programacao filter -->
+    {% endfor %}
+  </div><!-- tab-programacao -->
+  {% endfor %}
 </section><!-- agenda section -->
 <section class="noticias" id="noticias">
-	{% assign posts = site.posts  | where: "special-page", "festival" %}
+  {% assign posts = site.posts  | where: "special-page", "festival" %}
   <article class="container">
-	{% for post in posts | limit: 8 %}
-	<div class="item">
-		<article class="headline">
+  {% for post in posts | limit: 8 %}
+  <div class="item">
+    <article class="headline">
       {% if post.images_hd and post.images_hd != '' %}
-				<a href="{{ post.url }}">
-					<figure style="background-image:url( {{ post.images_hd }} );"
-							alt="imagem da capa da noticia">
-					</figure>
-				</a>
+        <a href="{{ post.url }}">
+          <figure style="background-image:url( {{ post.images_hd }} );"
+              alt="imagem da capa da noticia">
+          </figure>
+        </a>
       {% endif %}
-			<h1>
-				<a href="{{ post.url }}">
-					{{ post.title }}
-				</a>
-			</h1>
-			<p class="support-line">
-			{{ post.support_line }}
-			</p>
-		</article>
-	</div> <!-- div item container -->
-	{% endfor %}
+      <h1>
+        <a href="{{ post.url }}">
+          {{ post.title }}
+        </a>
+      </h1>
+      <p class="support-line">
+      {{ post.support_line }}
+      </p>
+    </article>
+  </div> <!-- div item container -->
+  {% endfor %}
   </article>
+</section><!-- div noticias -->
+<section class="radio" id="radio">
+  <iframe width="480"
+          height="270"
+     src="http://www.ustream.tv/embed/22627387?html5ui"
+   scrolling="no"
+  allowfullscreen webkitallowfullscreen frameborder="0"
+                                       style="border: 0 none transparent;">
+  </iframe>
 </section><!-- div noticias -->
