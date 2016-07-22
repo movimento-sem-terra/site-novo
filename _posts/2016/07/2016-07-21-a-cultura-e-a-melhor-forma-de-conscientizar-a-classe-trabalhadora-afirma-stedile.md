@@ -31,6 +31,7 @@ files:
 created_date: "2016-07-21T13:42:50-03:00"
 published: true
 releated_posts: []
+section: featured-news
 
 ---
 <p><img alt="photo752459493118421164.jpg" src="//farm9.staticflickr.com/8886/28376296581_209025abd4_b.jpg" /><br />
