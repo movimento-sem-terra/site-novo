@@ -343,10 +343,10 @@ body {
    background-color: rgba(159,138,159,1);
   }
   ul li {
-		font-size: 2em;
+		font-size: 1.2em;
 		font-weight: bold;
     flex-grow: 1;
-    padding: 9px;
+    padding: 0;
     -webkit-box-shadow: 4px 2px 13px 0px rgba(50, 50, 50, 0.75);
     -moz-box-shadow:    4px 2px 13px 0px rgba(50, 50, 50, 0.75);
     box-shadow:         4px 2px 13px 0px rgba(50, 50, 50, 0.75);
@@ -403,4 +403,14 @@ body {
   display: flex;
   width: 100%;
   justify-content: center;
+}//.radio
+
+.local {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+
+  iframe {
+    width: 100vw;
+  }
 }//.radio

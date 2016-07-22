@@ -69,6 +69,11 @@ external_scripts: ["//code.jquery.com/jquery-3.1.0.min.js","//cdnjs.cloudflare.c
             </a>
           </li>
           <li>
+            <a data-animation="scroll" data-offset="132"  href="#local">
+              Local
+            </a>
+          </li>
+          <li>
             <a data-animation="scroll" data-offset="132"  href="#noticias">
               Noticias
             </a>
@@ -86,7 +91,7 @@ external_scripts: ["//code.jquery.com/jquery-3.1.0.min.js","//cdnjs.cloudflare.c
   <ul id="tabs">
     {% for p in site.data.festival.programacao %}
     <li>
-      <a data-animation="scroll" data-offset="10" href="#tab-informacao-{{ forloop.index }}">
+      <a href="#tab-informacao-{{ forloop.index }}">
         {{ p.dia }}
       </a>
     </li>
@@ -115,6 +120,10 @@ external_scripts: ["//code.jquery.com/jquery-3.1.0.min.js","//cdnjs.cloudflare.c
   </div><!-- tab-programacao -->
   {% endfor %}
 </section><!-- agenda section -->
+<section id="local" class="local">
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3751.107582528897!2d-43.9342002!3d-19.9198708!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xa699f00ada1a7f%3A0x1f9d35ed100ec0cc!2sSERRARIA+SOUZA+PINTO+-+Centro%2C+Belo+Horizonte+-+MG!5e0!3m2!1spt-BR!2sbr!4v1469216477587" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
+	</iframe>
+</section>
 <section class="noticias" id="noticias">
   {% assign posts = site.posts  | where: "special-page", "festival" %}
   <article class="container">
