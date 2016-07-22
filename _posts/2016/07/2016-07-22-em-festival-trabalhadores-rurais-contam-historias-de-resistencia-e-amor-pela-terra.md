@@ -1,7 +1,7 @@
 ---
 date: "2016-07-22T11:43:52-03:00"
 tags: []
-title: "Em festival, trabalhadores rurais contam histórias de resistência e amor pela terra"
+title: "Em festival, camponeses contam histórias de resistência e amor pela terra"
 support_line: "Produtores de 19 estados participam de feira da reforma agrária, com mais de 160 toneladas de produtos, em MG"
 special-page: festival
 images_hd: //farm9.staticflickr.com/8844/28394247561_cd2fd0fc56_b.jpg
