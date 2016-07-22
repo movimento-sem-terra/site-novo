@@ -33,7 +33,9 @@ published: true
 releated_posts: []
 
 ---
-<p><img alt="robson2.jpg" src="//farm9.staticflickr.com/8844/28394247561_cd2fd0fc56_b.jpg" /></p>
+<figure class="image"><img alt="robson2.jpg" height="467" src="//farm9.staticflickr.com/8844/28394247561_cd2fd0fc56_b.jpg" width="700" />
+<figcaption></figcaption>
+</figure>
 
 <p><br />
 <em>Por&nbsp;Jos&eacute; Eduardo Bernardes<br />
@@ -67,7 +69,11 @@ Apesar de ser a refer&ecirc;ncia para os tratamentos medicinais no assentamento,
 &ldquo;Nossa luta n&atilde;o &eacute; s&oacute; contra os medicamentos, mas contra os grandes laborat&oacute;rios farmac&ecirc;uticos. Geralmente os m&eacute;dicos receitam automaticamente esses medicamentos de laborat&oacute;rios e n&oacute;s lutamos para provar que nossos produtos tamb&eacute;m podem concorrer com esse mercado&rdquo;, conclui J&uacute;lia.<br />
 &nbsp;</p>
 
-<p><img alt="agricu.jpg" src="//farm9.staticflickr.com/8813/28189483540_0fa1f207d2_b.jpg" /><br />
+<figure class="image"><img alt="agricu.jpg" height="467" src="//farm9.staticflickr.com/8813/28189483540_0fa1f207d2_b.jpg" width="700" />
+<figcaption></figcaption>
+</figure>
+
+<p><br />
 <strong>Arte e luta no campo</strong></p>
 
 <p><br />
