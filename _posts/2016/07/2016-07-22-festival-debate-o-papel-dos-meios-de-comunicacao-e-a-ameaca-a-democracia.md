@@ -34,6 +34,7 @@ files:
 created_date: "2016-07-22T18:23:17-03:00"
 published: true
 releated_posts: []
+special-page: festival
 
 ---
 <p><img alt="photo752459493118421178.jpg" src="//farm9.staticflickr.com/8861/28446148696_92a17bb619_b.jpg" /></p>
