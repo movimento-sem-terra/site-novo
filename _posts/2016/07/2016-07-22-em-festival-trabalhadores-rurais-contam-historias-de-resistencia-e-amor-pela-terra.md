@@ -4,7 +4,7 @@ tags: []
 title: "Em festival, trabalhadores rurais contam histórias de resistência e amor pela terra"
 support_line: "Produtores de 19 estados participam de feira da reforma agrária, com mais de 160 toneladas de produtos, em MG"
 special-page: festival
-images_hd: //farm9.staticflickr.com/8039/28189434700_d53d4e7ef1_b.jpg
+images_hd: //farm9.staticflickr.com/8844/28394247561_cd2fd0fc56_b.jpg
 menu: "educação, cultura e comunicação"
 section: cover
 sector: culture
@@ -16,14 +16,27 @@ files:
     small: //farm9.staticflickr.com/8039/28189434700_d53d4e7ef1_n.jpg
     title: robson.jpg
     $$hashKey: 0BR
+  - link: //farm9.staticflickr.com/8844/28394247561_cd2fd0fc56_b.jpg
+    thumbnail: //farm9.staticflickr.com/8844/28394247561_cd2fd0fc56_t.jpg
+    medium: //farm9.staticflickr.com/8844/28394247561_cd2fd0fc56_z.jpg
+    small: //farm9.staticflickr.com/8844/28394247561_cd2fd0fc56_n.jpg
+    title: robson2.jpg
+    $$hashKey: 0EQ
+  - link: //farm9.staticflickr.com/8813/28189483540_0fa1f207d2_b.jpg
+    thumbnail: //farm9.staticflickr.com/8813/28189483540_0fa1f207d2_t.jpg
+    medium: //farm9.staticflickr.com/8813/28189483540_0fa1f207d2_z.jpg
+    small: //farm9.staticflickr.com/8813/28189483540_0fa1f207d2_n.jpg
+    title: agricu.jpg
+    $$hashKey: 0ET
 created_date: "2016-07-22T11:48:09-03:00"
 published: true
 releated_posts: []
 
 ---
-<p>&nbsp;</p>
+<p><img alt="robson2.jpg" src="//farm9.staticflickr.com/8844/28394247561_cd2fd0fc56_b.jpg" /></p>
 
-<p><em>Por&nbsp;Jos&eacute; Eduardo Bernardes<br />
+<p><br />
+<em>Por&nbsp;Jos&eacute; Eduardo Bernardes<br />
 Do Brasil de Fato</em></p>
 
 <p><br />
@@ -36,7 +49,10 @@ O jovem agricutor &eacute; membro do Movimento dos Trabalhadores Rurais Sem Terr
 Das terras sergipanas, ele chegou &agrave; capital mineira com muitos de sesu produtos: mam&atilde;o, coco, feij&atilde;o de corda, car&aacute;, ab&oacute;bora, laranja, tangerina e at&eacute; caranguejo para expor e comercializar durante os cinco dias de festival. &ldquo;A feira &eacute; importante porque podemos apresentar nossos produtos, as coisas que a gente planta e colhe o ano todo&rdquo;, destaca o agricultor.</p>
 
 <p><br />
-Al&eacute;m de Almeida, cerca de 1.500 sem-terra participam do festival em Belo Horizonte. J&uacute;lia Farias, agricultora de 52 anos do Rio de Janeiro est&aacute; entre eles. S&atilde;o 11 anos de milit&acirc;ncia no MST, nove deles vivendo no assentamento Roseli Nunes, no munic&iacute;pio de Pira&iacute;, no Sul Fluminense.&nbsp;</p>
+Al&eacute;m de Almeida, cerca de 1.500 sem-terra participam do festival em Belo Horizonte. J&uacute;lia Farias, agricultora de 52 anos do Rio de Janeiro est&aacute; entre eles. S&atilde;o 11 anos de milit&acirc;ncia no MST, nove deles vivendo no assentamento Roseli Nunes, no munic&iacute;pio de Pira&iacute;, no Sul Fluminense.&nbsp;<br />
+&nbsp;</p>
+
+<p><img alt="robson.jpg" src="//farm9.staticflickr.com/8039/28189434700_d53d4e7ef1_b.jpg" /></p>
 
 <p><br />
 J&uacute;lia produz ervas medicinais e produtos fitoter&aacute;picos obtidos atrav&eacute;s da combina&ccedil;&atilde;o de ervas. &ldquo;A reforma agr&aacute;ria &eacute; muito mais do que arroz e milho. Esse &eacute; um trabalho muito importante de resgate de uma cultura. Os fitoter&aacute;picos s&atilde;o uma liga&ccedil;&atilde;o com nossos ancestrais&rdquo;, lembra.</p>
@@ -48,9 +64,10 @@ A agricultora comemora a chance de mostrar seus produtos para tantas pessoas que
 Apesar de ser a refer&ecirc;ncia para os tratamentos medicinais no assentamento, J&uacute;lia destaca que ainda existe uma barreira para que os medicamentos fitoter&aacute;picos se consolidem no pa&iacute;s. &ldquo;As ervas demoram para fazer efeito e as pessoas querem rem&eacute;dios de a&ccedil;&atilde;o imediata. O fitoter&aacute;pico tem um caminho mais demorado, mas tem um efeito muito melhor&rdquo;, afirma.</p>
 
 <p><br />
-&ldquo;Nossa luta n&atilde;o &eacute; s&oacute; contra os medicamentos, mas contra os grandes laborat&oacute;rios farmac&ecirc;uticos. Geralmente os m&eacute;dicos receitam automaticamente esses medicamentos de laborat&oacute;rios e n&oacute;s lutamos para provar que nossos produtos tamb&eacute;m podem concorrer com esse mercado&rdquo;, conclui J&uacute;lia.</p>
+&ldquo;Nossa luta n&atilde;o &eacute; s&oacute; contra os medicamentos, mas contra os grandes laborat&oacute;rios farmac&ecirc;uticos. Geralmente os m&eacute;dicos receitam automaticamente esses medicamentos de laborat&oacute;rios e n&oacute;s lutamos para provar que nossos produtos tamb&eacute;m podem concorrer com esse mercado&rdquo;, conclui J&uacute;lia.<br />
+&nbsp;</p>
 
-<p><br />
+<p><img alt="agricu.jpg" src="//farm9.staticflickr.com/8813/28189483540_0fa1f207d2_b.jpg" /><br />
 <strong>Arte e luta no campo</strong></p>
 
 <p><br />
