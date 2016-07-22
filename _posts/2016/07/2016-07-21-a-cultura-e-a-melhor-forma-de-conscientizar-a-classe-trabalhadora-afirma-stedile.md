@@ -6,7 +6,7 @@ title: "“A cultura é a melhor forma de conscientizar a classe trabalhadora”
 support_line: "Essa é a análise de Stedile e Beatriz Cerqueira, presidente da CUT de MG, ao participarem de um debate durante o Festival Nacional de Arte e Cultura da Reforma Agrária, em Belo Horizonte."
 menu: projeto popular
 sector: culture
-special-page: first-street-market
+special-page: festival
 images_hd: //farm9.staticflickr.com/8886/28376296581_209025abd4_b.jpg
 layout: post
 files:
