@@ -31,6 +31,8 @@ releated_posts: []
 <em>Por Catiana de Medeiros<br />
 Do Sa&uacute;de Popular</em></p>
 
+<p><em>Fotos: Elitiel Guedes</em></p>
+
 <p><br />
 &ldquo;A alimenta&ccedil;&atilde;o saud&aacute;vel n&atilde;o pode ser direito de uma &uacute;nica classe social. As pessoas est&atilde;o adoecendo por consumirem produtos de prateleiras, por isso o acesso ao verdadeiro alimento deve ser garantido para todos e todas&rdquo;. Essse foi o alerta dado pela pesquisadora da &aacute;rea alimentar, Patr&iacute;cia Pinto, durante o painel &#39;O alimento como direito, agrot&oacute;xico e sa&uacute;de humana&rdquo;.&nbsp;</p>
 
