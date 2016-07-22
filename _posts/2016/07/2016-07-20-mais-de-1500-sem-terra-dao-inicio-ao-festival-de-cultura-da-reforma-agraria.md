@@ -4,7 +4,7 @@ tags: []
 title: Mais de 1500 Sem Terra dão início ao Festival de Cultura da Reforma Agrária
 support_line: "Feira, festival de música e poesia e shows completam as atrações na cidade de Belo Horizonte até o próximo domingo."
 menu: "educação, cultura e comunicação"
-section: null
+section: cover
 sector: culture
 special-page: festival
 images_hd: //farm9.staticflickr.com/8429/27824088494_aea049d6c1_b.jpg
