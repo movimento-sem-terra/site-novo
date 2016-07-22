@@ -5,13 +5,12 @@ scripts: ["festival.js"]
 title: "Festival Nacional"
 description: "Artes e Cultura da Reforma Agrária."
 images_hd: "http://farm8.staticflickr.com/7558/26769695760_ebcbb7b08b_n.jpg"
-external_scripts: ["//code.jquery.com/jquery-3.1.0.min.js"]
+external_scripts: ["//code.jquery.com/jquery-3.1.0.min.js","//cdnjs.cloudflare.com/ajax/libs/masonry/3.3.0/masonry.pkgd.min.js"]
 ---
 <article class="festival" itemscope itemtype="http://schema.org/Event">
   <figure class="capa" title="arte da capa do festival">
     <meta content="/assets/img/festival/capa.png"  itemprop="image"/>
   </figure>
-  <div class="scroll">
     <section class="informacoes">
       <header class="letreiro">
         <meta itemprop="name" content="Festival Nacional de Artes e Cultura da Reforma Agrária"/>
@@ -61,40 +60,79 @@ external_scripts: ["//code.jquery.com/jquery-3.1.0.min.js"]
           Também será organizada uma visita orientada em uma das comunidades urbanas de Belo Horizonte, comunidade Aglomerado da Serra, com cerca de 500 pessoas, em uma das tardes do Festival. A programação para tal atividade será organizada pelo Coletivo de Juventude e Brigada de agitação e propaganda de Minas Gerais junto ao Coletivo Fora do Eixo e Levante Popular da Juventude.
           </p>
         </span>
+      </section><!-- informações section -->
+      <section class="menu">
+        <ul>
+          <li>
+            <a href="#agenda">
+              Agenda
+            </a>
+          </li>
+          <li>
+            <a href="#noticias">
+              Noticias
+            </a>
+          </li>
+        </ul>
       </section>
     </section><!-- informações section -->
-    <section class="agenda">
-      <ul id="tabs">
-			{% for p in site.data.festival.programacao %}
-        <li>
-          <a href="#tab-informacao-{{ forloop.index }}">
-            {{ p.dia }}
-          </a>
-        </li>
-			{% endfor %}
-      </ul>
-			{% for p in site.data.festival.programacao %}
-      <div id="tab-informacao-{{ forloop.index }}" class="filter">
-				{% for e in p.eventos %}
-        <section class="programacao">
-          <article class="item-content">
-            <div class="item-image-content">
-              <span class="bold">{{ e.horario }}</span>
-            </div>
-
-            <div class="item-content divisor">
-              <div class="day-container">
-                <h3 class="day-schedule">{{ e.nome }}</h3>
-								{% for item in e.detalhes %}
-                <p class="item">{{ item }}</p>
-								{% endfor %}
-              </div>
-            </div>
-          </article>
-        </section><!-- programacao filter -->
-			{% endfor %}
-      </div><!-- tab-programacao -->
-			{% endfor %}
-    </section><!-- agenda section -->
-  </div><!-- div.scroll -->
 </article>
+<section class="agenda" id="agenda">
+	<ul id="tabs">
+		{% for p in site.data.festival.programacao %}
+		<li>
+			<a href="#tab-informacao-{{ forloop.index }}">
+				{{ p.dia }}
+			</a>
+		</li>
+		{% endfor %}
+	</ul>
+	{% for p in site.data.festival.programacao %}
+	<div id="tab-informacao-{{ forloop.index }}" class="filter">
+		{% for e in p.eventos %}
+		<section class="programacao">
+			<article class="item-content">
+				<div class="item-image-content">
+					<span class="bold">{{ e.horario }}</span>
+				</div>
+
+				<div class="item-content divisor">
+					<div class="day-container">
+						<h3 class="day-schedule">{{ e.nome }}</h3>
+						{% for item in e.detalhes %}
+						<p class="item">{{ item }}</p>
+						{% endfor %}
+					</div>
+				</div>
+			</article>
+		</section><!-- programacao filter -->
+		{% endfor %}
+	</div><!-- tab-programacao -->
+	{% endfor %}
+</section><!-- agenda section -->
+<section class="noticias" id="noticias">
+	{% assign posts = site.posts  | where: "special-page", "festival" %}
+  <article class="container">
+	{% for post in posts | limit: 8 %}
+	<div class="item">
+		<article class="headline">
+      {% if post.images_hd and post.images_hd != '' %}
+				<a href="{{ post.url }}">
+					<figure style="background-image:url( {{ post.images_hd }} );"
+							alt="imagem da capa da noticia">
+					</figure>
+				</a>
+      {% endif %}
+			<h1>
+				<a href="{{ post.url }}">
+					{{ post.title }}
+				</a>
+			</h1>
+			<p class="support-line">
+			{{ post.support_line }}
+			</p>
+		</article>
+	</div> <!-- div item container -->
+	{% endfor %}
+  </article>
+</section><!-- div noticias -->

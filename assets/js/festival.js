@@ -18,5 +18,15 @@ $(document).ready(function(){
 		});
 	};
 
+  var grid = function(){
+		var $container = $('#noticias .container');
+    $container.masonry({
+      itemSelector: '.item',
+      columnWidth: '.item',
+      percentPosition: true
+    });
+	};
+
 	tabs();
+  grid();
 });

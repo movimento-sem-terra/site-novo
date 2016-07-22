@@ -4,10 +4,15 @@
 @import "../bourbon/bourbon";
 @import "../neat/neat";
 @import "../_sass/variables";
+@import "../_sass/_includes/mixins";
 
 @font-face {
     font-family: FestivalFontLight;
     src: url(/assets/fonts/festival/Antonio-Light.ttf);
+}
+@font-face {
+    font-family: FestivalFontBold;
+    src: url(/assets/fonts/festival/Antonio-Bold.ttf);
 }
 @font-face {
     font-family: EspecialFontLight;
@@ -58,8 +63,12 @@ body {
   height: 100vh;
   width: 100vw;
   max-width: 100%;
-  display: flex;
+  display: inline-block;
   justify-content: space-between;
+
+  @include media($desktop) {
+		display: flex;
+  }
 
   img {
     width: 100%;
@@ -92,10 +101,14 @@ body {
 
 .festival .informacoes {
   align-self: flex-start;
-  display: flex;
+  display: inline-block;
   flex-direction: column;
   height: 100vh;
   padding: 0;
+
+  @include media($desktop) {
+		display: flex;
+  }
 
   span {
     font-family: EspecialFontLight;
@@ -138,11 +151,15 @@ body {
 }// .festival .informacoes .letreiro{
 
 .festival .informacoes .mostras {
-  display: flex;
+  display: block;
   flex-wrap: wrap;
   justify-content: center;
   max-width: 750px;
-  flex-direction: column;
+	flex-direction: column;
+
+  @include media($desktop) {
+		display: flex;
+  }
 
   img {
     max-width: 280px;
@@ -225,8 +242,16 @@ body {
   }// p
 }// .festival .informacoes .descricao
 
-.festival .agenda {
+.agenda {
+	display: inline-block;
+	padding: 10px;
   height: 100vh;
+
+  @include media($desktop) {
+		display: block;
+		padding: 40px 10%;
+  }
+
   ul#tabs{
     list-style-type: none;
     margin: 0;
@@ -235,6 +260,14 @@ body {
     height: 32px;
     border-bottom: solid 1px #CFCFD0;
     display: inline-block;
+
+		@include media($mobile) {
+			display: block;
+      li {
+				display: block;
+        width: 100%;
+			}
+		}
 
     a {
       color: #666;
@@ -262,9 +295,105 @@ body {
     .item-content .item-image-content {
       width: 20%;
 
+			@include media($mobile) {
+				width: 100%;
+			}
       .bold {
         font-size: 1.6em;
       }
     }
   }// .programacao
-}// .festival .agenda
+
+  .filter {
+		@include media($mobile) {
+			display: inline-block;
+      .item-content {
+				min-height: initial;
+				padding-top: 0;
+
+				.item-content .day-schedule {
+					font-size: 1.1em;
+				}
+      }
+		}
+  }
+}// .agenda
+.menu {
+	font-family: FestivalFontBold;
+	color: white;
+	letter-spacing: initial;
+	display: none;
+
+  @include media($desktop) {
+		display: inline-block;
+  }
+
+  ul {
+		width: 100%;
+		display: flex;
+    justify-content: center;
+  }
+
+  ul li:nth-child(even) {
+   background-color: rgba(228,148,118,1);
+  }
+  ul li:nth-child(odd) {
+   background-color: rgba(159,138,159,1);
+  }
+  ul li {
+		font-size: 2em;
+		font-weight: bold;
+    flex-grow: 1;
+    padding: 9px;
+    -webkit-box-shadow: 4px 2px 13px 0px rgba(50, 50, 50, 0.75);
+    -moz-box-shadow:    4px 2px 13px 0px rgba(50, 50, 50, 0.75);
+    box-shadow:         4px 2px 13px 0px rgba(50, 50, 50, 0.75);
+  }
+}//.menu
+
+.noticias {
+	display: inline-block;
+  height: 100vh;
+  width: 100%;
+
+  @include media($desktop) {
+		display: block;
+		padding: 40px 10%;
+		padding: 10px;
+  }
+
+  @include default-figure-images();
+
+  .container{
+    .item {
+      margin: 10px 10px 20px 5px;
+      box-shadow: 0px 0px 10px 0px  rgba(34,25,25,0.4);
+      padding-bottom: 5px;
+      border-radius: 3px;
+      width: 100%;
+
+
+      @include media($screen-sm) {
+        width: 48%;
+      }
+      @include media($screen-md) {
+        width: 30%;
+      }
+      @include media($screen-big) {
+        width: 22%;
+      }
+
+      .headline {
+        .support-line,
+        time,
+        h1 {
+          padding: 0 10px;
+        }
+
+        h1 a {
+          color: $mst-red;
+        }
+      }
+    }
+  }
+}// .noticias

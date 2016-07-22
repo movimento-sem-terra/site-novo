@@ -5,6 +5,11 @@ $(document).ready(function() {
 
     $.each(p, function(index, post){
       var image = '';
+
+      if(!post.cover){
+        post.cover = post.images_hd;
+      }
+
       if(!!post.cover){
         image += '<a href="'+post.url+'">';
         image += '<figure style="background-image:url('+post.cover+');" alt="imagem da capa da noticia"></figure>';
@@ -27,8 +32,6 @@ $(document).ready(function() {
         '</time>'+
         support_line +
         '</article>';
-
-
 
 
       var item = '<div class="item">'+ article + '</div>';
