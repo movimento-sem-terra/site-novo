@@ -5,7 +5,7 @@ title: "“Liberalismo castrou processo criativo dos artistas”, diz Pereira da
 support_line: Músico participou da coletiva de imprensa de lançamento do Festival Nacional de Arte e Cultura da Reforma Agrária
 menu: "educação, cultura e comunicação"
 sector: culture
-section: cover
+section: null
 special-page: festival
 images_hd: //farm9.staticflickr.com/8413/28439874836_16f6b1aee5_b.jpg
 layout: post
