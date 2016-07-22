@@ -204,16 +204,17 @@ body {
 
 .festival .informacoes .frase {
   display: none;
+  padding: 10px;
 
   @include media($desktop) {
     display: inline-block;
     span {
-      margin-top: 50px;
+      margin-top: 20px;
       width: 100%;
       text-align: center;
       display: inline-block;
       line-height: 0.9em;
-      font-size: 3.5em;
+      font-size: 2em;
     }
   }
 }// .festival .informacoes .frase {
