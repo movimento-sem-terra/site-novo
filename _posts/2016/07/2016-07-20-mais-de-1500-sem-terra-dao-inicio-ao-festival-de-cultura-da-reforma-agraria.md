@@ -34,7 +34,7 @@ releated_posts: []
 Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
-Mais de 1500 Sem Terra de 19 estados do Brasil deram in&iacute;cio, nesta quarta-feira (20), ao Festival Nacional de Artes e Cultura da Reforma Agr&aacute;ria, na cidade de Belo Horizonte, em Minas Gerais.</p>
+Mais de 1500 Sem Terra de 19 estados do Brasil deram in&iacute;cio, nesta quarta-feira (20), ao <a href="http://www.mst.org.br/festival-da-reforma-agraria/" target="_blank">Festival Nacional de Artes e Cultura da Reforma Agr&aacute;ria</a>, na cidade de Belo Horizonte, em Minas Gerais.</p>
 
 <p><br />
 O ato pol&iacute;tico-cultural, que acontece na Pra&ccedil;a da Esta&ccedil;&atilde;o e na Serraria Souza Pinto, no centro da cidade, vai at&eacute; o pr&oacute;ximo domingo (24), e contar&aacute; com uma Feira de Produtos da Reforma Agr&aacute;ria, Feira Liter&aacute;ria e gastron&ocirc;mica com iguarias de todas as regi&otilde;es do Brasil, Mostra de Cinema da Terra, shows e semin&aacute;rios de forma&ccedil;&atilde;o sobre diversos temas.</p>
