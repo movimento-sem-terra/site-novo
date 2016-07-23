@@ -1,7 +1,7 @@
 ---
 date: "2016-07-23T13:45:38-03:00"
 tags: []
-title: Ciranda Infantil Paulo Freire estimula o brincar e a alimentação saudável no Festival da Reforma Agrária
+title: "Durante Festival, Ciranda Infantil estimula o brincar e a alimentação saudável"
 support_line: A Ciranda conta com o apoio de educadores que vieram de diversos estados do país.
 menu: reforma agrária
 special-page: festival
