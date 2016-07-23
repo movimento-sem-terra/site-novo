@@ -64,6 +64,11 @@ external_scripts: ["//code.jquery.com/jquery-3.1.0.min.js","//cdnjs.cloudflare.c
       <section class="menu">
         <ul>
           <li>
+            <a data-animation="scroll" data-offset="132"  href="#apresentacao">
+              Apresentação
+            </a>
+          </li>
+          <li>
             <a data-animation="scroll" data-offset="132"  href="#agenda">
               Agenda
             </a>
@@ -92,6 +97,13 @@ external_scripts: ["//code.jquery.com/jquery-3.1.0.min.js","//cdnjs.cloudflare.c
       </section>
     </section><!-- informações section -->
 </article>
+<section class="apresentacao" id="apresentacao">
+	<iframe
+		height="315"
+		src="//www.youtube.com/embed/eNjrEXOdLNw?showinfo=0&controls=0"
+		frameborder="0" allowfullscreen>
+	</iframe>
+</section><!-- apresentacao section -->
 <section class="agenda" id="agenda">
   <ul id="tabs">
     {% for p in site.data.festival.programacao %}
@@ -137,7 +149,7 @@ external_scripts: ["//code.jquery.com/jquery-3.1.0.min.js","//cdnjs.cloudflare.c
     <article class="headline">
       {% if post.images_hd and post.images_hd != '' %}
         <a href="{{ post.url }}">
-          <figure style="background-image:url( {{ post.images_hd }} );"
+          <figure style="background-image:url( {{ post | find_image: 'tiny' }} );"
               alt="imagem da capa da noticia">
           </figure>
         </a>
