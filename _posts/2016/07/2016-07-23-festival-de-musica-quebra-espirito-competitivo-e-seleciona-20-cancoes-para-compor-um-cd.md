@@ -1,7 +1,7 @@
 ---
 date: "2016-07-23T14:34:14-03:00"
 tags: []
-title: "Festival de música quebra 'espírito competitivo' e seleciona 20 canções para compor um CD"
+title: "Festival de música quebra 'espírito competitivo' e seleciona as 20 canções do CD"
 support_line: "Depois de dois dias de apresentações, selecionadores apresentam as 20 canções que farão parte de um CD."
 menu: "educação, cultura e comunicação"
 section: cover
@@ -34,8 +34,7 @@ releated_posts: []
 
 ---
 <figure class="image"><img alt="photo752459493118421271.jpg" src="//farm9.staticflickr.com/8791/28417424331_ecc2a60481_b.jpg" />
-<figcaption>O Sem Terra Lup&eacute;rcio Damasceno, de Sergipe, foi um dos selecionados com a can&ccedil;&atilde;o&nbsp;&quot;Quantos gritos&quot;&nbsp;<br />
-</figcaption>
+<figcaption>O Sem Terra Lup&eacute;rcio Damasceno, de Sergipe, foi um dos selecionados com a can&ccedil;&atilde;o&nbsp;&quot;Quantos gritos&quot;&nbsp;</figcaption>
 </figure>
 
 <p>&nbsp;</p>
