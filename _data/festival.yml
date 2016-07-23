@@ -87,15 +87,18 @@ programacao:
       nome: "Balaio Cultural Cora Coralina - Serraria Souza Pinto"
     - horario: 12h às 18h
       nome: "Mostra Plástica – CRJ"
+    - horario: 14h
+      nome: "Rubinho do Vale"
     - horario: 12h às 15h
       nome: "Cinema da Terra - Centro cultural UFMG"
       detalhes:
       - Mostra Acampamento Sem Terra – Pça. da Estação
       - Feira Literária Expressão Popular – Pça. Da Estação
     - horario: 16h às 18h
-      nome: "Mostra de Poesia - Tema: Viola Enluarada. / Atrações voltadas para o campo."
+      nome: "Mostra de Poesia: Literarte 'Pois ser a capa e contracapa é a belezada contradição!"
       detalhes:
-      - Xangai
+      - Lirinha
+      - Vander Lee
     - horario: 19:30h
       nome: "Festival de Música – Final"
     - horario: 21:30h
@@ -106,11 +109,19 @@ programacao:
       nome: "Feira da reforma agrária e Feira gastronômica"
     - horario: 9h às 12h
       nome: "Mostra Plástica"
+    - horario: 12h
+      nome: "Wilson Dias e banda (Viola)"
     - horario: 10h às 14h
       nome: "Balaio Cultural Cora Coralina - Serraria Souza Pinto"
       detalhes:
       - Mostra Acampamento Sem Terra – Pça. da Estação
       - Feira Literária Expressão Popular – Pça. Da Estação
+    - horario: 16h às 18h
+      nome: "Mostra de Poesia - Tema: Viola Enluarada. / Atrações voltadas para o campo."
+      detalhes:
+      - João Bã
+      - Xangai
+      - Marquinhos Monteiro
     - horario: 14h
       nome: "Ato Frente Brasil Popular"
       detalhes:
