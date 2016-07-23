@@ -5,7 +5,7 @@ title: "Durante Festival, Ciranda Infantil estimula o brincar e a alimentação 
 support_line: A Ciranda conta com o apoio de educadores que vieram de diversos estados do país.
 menu: reforma agrária
 special-page: festival
-images_hd: //farm9.staticflickr.com/8619/27878446694_d34ab1d110_b.jpg
+images_hd: //farm9.staticflickr.com/8603/28389908452_eff45e7a7f_b.jpg
 layout: post
 files:
   - link: //farm9.staticflickr.com/8698/27878446614_2be504dfa5_b.jpg
