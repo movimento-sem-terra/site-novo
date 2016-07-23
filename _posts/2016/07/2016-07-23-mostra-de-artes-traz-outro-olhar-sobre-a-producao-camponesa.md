@@ -83,8 +83,10 @@ Ela destaca a import&acirc;ncia de mostras como estas. &ldquo;Quem dera se as pe
 Com toda a sua beleza, a Mostra de Artes Pl&aacute;sticas homenageia Domingos S&aacute;vio, um franciscano que esteve sempre presente na constru&ccedil;&atilde;o e desenvolvimento das brigadas de artes do MST, ajudando em in&uacute;meras concep&ccedil;&otilde;es e pinturas dos pain&eacute;is usados em grandes eventos do Movimento, assim como nos processos de forma&ccedil;&atilde;o dos integrantes das brigadas, como a C&acirc;ndido Portinari.</p>
 
 <p><br />
-&ldquo;A vida toda ele colaborou com v&aacute;rios grupos e movimentos populares, em particular o MST. Por isso, nada mais justo que esse evento o homenageie com o nome da mostra&rdquo;, lembra Anderson.<br />
-Brigada C&acirc;ndido Portinari</p>
+&ldquo;A vida toda ele colaborou com v&aacute;rios grupos e movimentos populares, em particular o MST. Por isso, nada mais justo que esse evento o homenageie com o nome da mostra&rdquo;, lembra Anderson.</p>
+
+<p><br />
+<strong>Brigada C&acirc;ndido Portinari</strong></p>
 
 <p><br />
 A Brigada C&acirc;ndido Portinari, ainda que n&atilde;o fosse conhecida por esse nome, j&aacute; vem desenvolvendo, h&aacute; tempos, experi&ecirc;ncias nas atividades do MST. &ldquo;A primeira experi&ecirc;ncia foi na constru&ccedil;&atilde;o dos materiais para os 20 anos do Movimento, quando ainda &eacute;ramos apenas um grupo, sem uma dimens&atilde;o nacional de representatividade&rdquo;, relembra Evelaine Martines Brennand, artista pl&aacute;stica e uma das pioneiras da Brigada.</p>
