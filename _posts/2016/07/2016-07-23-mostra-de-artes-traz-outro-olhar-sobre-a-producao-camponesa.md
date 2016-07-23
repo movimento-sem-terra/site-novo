@@ -30,7 +30,7 @@ files:
 created_date: "2016-07-23T10:52:57-03:00"
 published: true
 releated_posts: []
-section: cover
+section: null
 
 ---
 <p><img alt="IMG_9582.jpg" src="//farm9.staticflickr.com/8785/28413114261_febc4e6f3d_b.jpg" /></p>
