@@ -10,9 +10,9 @@ scripts: ["latest-news/laster.js", "album.js"]
   {% else %}
 	  {% if page.section == 'tv'%}
 	    {% if page.video_duration %}
-	      <span class='meta' itemprop="duration">{{ page.video_duration }}</span> 
+	      <span class='meta' itemprop="duration">{{ page.video_duration }}</span>
 	    {% endif %}
-	    <span class='meta' itemprop="thumbnailURL">{{ page.video_thumbnail }}</span> 
+	    <span class='meta' itemprop="thumbnailURL">{{ page.video_thumbnail }}</span>
 	    <span class='meta' itemprop="embedURL">{{ page.video  }}</span>
 	    <article itemprop="video" itemscope itemtype="http://schema.org/VideoObject">
 	  {% else %}
@@ -28,6 +28,9 @@ scripts: ["latest-news/laster.js", "album.js"]
 	        {% include social-buttons.html article = page %}
 	      </header>
 	      {% include related-posts.html post=page %}
+				{% if page.section == 'tv'%}
+					<iframe width="100%" height="500px" src="{{ page.video | get_video_embeded }}" allowfullscreen frameborder="0"></iframe>
+				{% endif %}
 	      <div itemprop="articleBody" class="article-body">{{ content }}</div>
 	    </article>
     {% endif %}
