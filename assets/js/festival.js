@@ -66,9 +66,14 @@ $(document).ready(function(){
     });
   };
 
+  var selecionados = function(){
+		$('.selecionados a').colorbox();
+  };
+
   tabs();
   grid();
   scroll();
   menu();
   flickrGalery();
+  selecionados();
 });

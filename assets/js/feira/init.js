@@ -2,7 +2,7 @@ $(document).ready(function() {
 
   $('.gallery').imagesLoaded(function(){
     $('.gallery').jflickrfeed({
-      limit: 30,
+      limit: 40,
       qstrings: {
         id: '90599227@N08',
         format: 'json'

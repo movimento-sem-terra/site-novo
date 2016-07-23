@@ -89,6 +89,11 @@ external_scripts: ["//code.jquery.com/jquery-3.1.0.min.js","//cdnjs.cloudflare.c
             </a>
           </li>
           <li>
+            <a data-animation="scroll" data-offset="132"  href="#selecionados">
+              Selecionados
+            </a>
+          </li>
+          <li>
             <a data-animation="scroll" data-offset="132"  href="#radio">
               Nossa Rádio
             </a>
@@ -98,11 +103,11 @@ external_scripts: ["//code.jquery.com/jquery-3.1.0.min.js","//cdnjs.cloudflare.c
     </section><!-- informações section -->
 </article>
 <section class="apresentacao" id="apresentacao">
-	<iframe
-		height="315"
-		src="//www.youtube.com/embed/eNjrEXOdLNw?showinfo=0&controls=0"
-		frameborder="0" allowfullscreen>
-	</iframe>
+  <iframe
+    height="315"
+    src="//www.youtube.com/embed/eNjrEXOdLNw?showinfo=0&controls=0"
+    frameborder="0" allowfullscreen>
+  </iframe>
 </section><!-- apresentacao section -->
 <section class="agenda" id="agenda">
   <ul id="tabs">
@@ -138,8 +143,8 @@ external_scripts: ["//code.jquery.com/jquery-3.1.0.min.js","//cdnjs.cloudflare.c
   {% endfor %}
 </section><!-- agenda section -->
 <section id="local" class="local">
-	<iframe style="pointer-events:none;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3751.107582528897!2d-43.9342002!3d-19.9198708!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xa699f00ada1a7f%3A0x1f9d35ed100ec0cc!2sSERRARIA+SOUZA+PINTO+-+Centro%2C+Belo+Horizonte+-+MG!5e0!3m2!1spt-BR!2sbr!4v1469216477587" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
-	</iframe>
+  <iframe style="pointer-events:none;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3751.107582528897!2d-43.9342002!3d-19.9198708!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xa699f00ada1a7f%3A0x1f9d35ed100ec0cc!2sSERRARIA+SOUZA+PINTO+-+Centro%2C+Belo+Horizonte+-+MG!5e0!3m2!1spt-BR!2sbr!4v1469216477587" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
+  </iframe>
 </section>
 <section class="noticias" id="noticias">
   {% assign posts = site.posts  | where: "special-page", "festival" %}
@@ -167,6 +172,19 @@ external_scripts: ["//code.jquery.com/jquery-3.1.0.min.js","//cdnjs.cloudflare.c
   {% endfor %}
   </article>
 </section><!-- div noticias -->
+<section class="selecionados" id="selecionados">
+  <h2>
+   Selecionados
+  </h2>
+  <div class="resultados">
+     <a rel="colorbox" href="//farm9.staticflickr.com/8175/28216296970_b398452fb0_b.jpg" title="lista final do festival de música parte 1">
+       <img src="//farm9.staticflickr.com/8175/28216296970_b398452fb0_n.jpg" alt="lista final do festival de música parte 2" class="gallery-item"/>
+     </a>
+     <a rel="colorbox" href="//farm9.staticflickr.com/8157/28499481845_13a99c07ef_b.jpg" title="lista final do festival de música parte 1">
+       <img src="//farm9.staticflickr.com/8157/28499481845_13a99c07ef_n.jpg" alt="lista final do festival de música parte 2" class="gallery-item"/>
+     </a>
+  </div>
+</section><!-- div gallery -->
 <section class="gallery" id="fotos">
 
 </section><!-- div gallery -->
