@@ -26,6 +26,8 @@ releated_posts: []
 <em>Por Nelsina Gomes<br />
 Da p&aacute;gina do MST</em></p>
 
+<p><em>Fotos: Elitiel Guedes</em></p>
+
 <p><br />
 Com o tema Educa&ccedil;&atilde;o e Juventude, estudantes, educadores e interessados no assunto participaram de um semin&aacute;rio na manh&atilde; desta sexta-feira (22), no Centro de Refer&ecirc;ncia da Juventude, no centro de Belo Horizonte, para discutir os desafios da educa&ccedil;&atilde;o na atual conjuntura. O evento, que integra a programa&ccedil;&atilde;o do Festival Nacional de Arte e Cultura da Reforma Agr&aacute;ria, foi idealizado pelos setores de educa&ccedil;&atilde;o e juventude do MST que trouxeram quest&otilde;es sobre o tema que afetam tanto o campo, quanto a cidade.</p>
 
