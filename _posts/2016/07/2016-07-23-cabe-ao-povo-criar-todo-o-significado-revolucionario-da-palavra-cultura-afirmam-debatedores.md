@@ -5,7 +5,7 @@ sector: culture
 menu: "educação, cultura e comunicação"
 special-page: festival
 support_line: "Seminário trouxe os desafios da cultura na atual luta de classes, durante o Festival de Artes e Cultura da Reforma Agrária."
-title: "Cabe ao povo criar todo o significado revolucionário da palavra ‘Cultura’, afirmam debatedores"
+title: "Cabe ao povo criar o significado revolucionário da palavra ‘Cultura’, afirmam debatedores"
 images_hd: //farm9.staticflickr.com/8760/27883098484_3cf6073bb5_b.jpg
 layout: post
 files:
