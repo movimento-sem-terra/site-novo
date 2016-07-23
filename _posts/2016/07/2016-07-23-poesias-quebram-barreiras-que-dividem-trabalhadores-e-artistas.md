@@ -27,7 +27,7 @@ releated_posts: []
 D</span>o Brasil de Fato e&nbsp;M&iacute;dia Ninja</em></p>
 
 <p><br />
-O Festival Nacional de Arte e Cultura da Reforma Agr&aacute;ria, que acontece neste m&ecirc;s de julho em Belo Horizonte (MG), recebeu mais de 120 inscri&ccedil;&otilde;es de poetas da base acampada e assentada do Movimento dos Trabalhadores Rurais Sem Terra (MST) e de amigos do Movimento. Ap&oacute;s uma pr&eacute;-sele&ccedil;&atilde;o, 60 poesias se classificaram e foram apresentadas ao p&uacute;blico durante os quatro dias de Festival.</p>
+O <a href="http://www.mst.org.br/festival-da-reforma-agraria/" target="_blank">Festival Nacional de Arte e Cultura da Reforma Agr&aacute;ria</a>, que acontece neste m&ecirc;s de julho em Belo Horizonte (MG), recebeu mais de 120 inscri&ccedil;&otilde;es de poetas da base acampada e assentada do Movimento dos Trabalhadores Rurais Sem Terra (MST) e de amigos do Movimento. Ap&oacute;s uma pr&eacute;-sele&ccedil;&atilde;o, 60 poesias se classificaram e foram apresentadas ao p&uacute;blico durante os quatro dias de Festival.</p>
 
 <p><br />
 &ldquo;O n&iacute;vel das inscri&ccedil;&otilde;es estava alt&iacute;ssimo e foi bem dif&iacute;cil, mas chegamos nesse resultado final, que est&aacute; lindo&rdquo;, explica Dandara de Ara&uacute;jo, do coletivo nacional de cultura do MST, que organiza a mostra.</p>
