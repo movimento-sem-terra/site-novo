@@ -24,7 +24,7 @@ files:
 created_date: "2016-07-22T16:20:12-03:00"
 published: true
 releated_posts: []
-section: null
+section: featured-news
 
 ---
 <p><img alt="FESTIVAL_NACIONAL_ELITIEL 22GUEDES-1 (1).JPG" src="//farm9.staticflickr.com/8728/28476935875_9a94fe76d5_b.jpg" /><br />
