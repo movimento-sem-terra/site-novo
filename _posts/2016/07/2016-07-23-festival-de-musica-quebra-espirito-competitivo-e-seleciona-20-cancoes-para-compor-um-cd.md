@@ -1,7 +1,7 @@
 ---
 date: "2016-07-23T14:34:14-03:00"
 tags: []
-title: "Festival de música quebra 'espírito competitivo' e seleciona as 20 canções do CD"
+title: "Festival de música quebra 'espírito competitivo' e seleciona 20 canções"
 support_line: "Depois de dois dias de apresentações, selecionadores apresentam as 20 canções que farão parte de um CD."
 menu: "educação, cultura e comunicação"
 section: cover
