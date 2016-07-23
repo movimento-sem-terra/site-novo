@@ -47,7 +47,7 @@ Da P&aacute;gina do MST</em></p>
 <p><em>Fotos: Leandro Taques</em></p>
 
 <p><br />
-O que seria, de fato, a democracia? E ser&aacute; que ela existe mesmo no Brasil? Estes foram os questionamentos que Ana Cl&aacute;udia, do Coletivo Intervozes, trouxe no semin&aacute;rio &ldquo;Comunica&ccedil;&atilde;o: m&iacute;dia e a amea&ccedil;a &agrave; democracia&rdquo;, nesta sexta-feira (22), realizado durante o Festival de Arte e Cultura da Reforma Agr&aacute;ria, que acontece entre os dias 20 a 24 de julho, em Belo Horizonte (MG).</p>
+O que seria, de fato, a democracia? E ser&aacute; que ela existe mesmo no Brasil? Estes foram os questionamentos que Ana Cl&aacute;udia, do Coletivo Intervozes, trouxe no semin&aacute;rio &ldquo;Comunica&ccedil;&atilde;o: m&iacute;dia e a amea&ccedil;a &agrave; democracia&rdquo;, nesta sexta-feira (22), realizado durante o <a href="http://www.mst.org.br/festival-da-reforma-agraria/">Festival de Arte e Cultura da Reforma Agr&aacute;ria</a>, que acontece entre os dias 20 a 24 de julho, em Belo Horizonte (MG).</p>
 
 <p><br />
 Para ela, ainda &eacute; bem dif&iacute;cil falar em democracia no pa&iacute;s, j&aacute; que todo o processo de democratiza&ccedil;&atilde;o &eacute; ainda muito recente. &ldquo;O que entendemos de democracia vem sendo confrontada constantemente na atual conjuntura, isso que nem chegamos construir, consolidar uma. Por isso, a primeira quest&atilde;o &eacute; se vivemos mesmo numa democracia&rdquo;.</p>
