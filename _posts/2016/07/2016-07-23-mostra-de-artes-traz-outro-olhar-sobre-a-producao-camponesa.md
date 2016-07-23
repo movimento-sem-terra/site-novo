@@ -5,7 +5,7 @@ special-page: festival
 sector: culture
 images_hd: //farm9.staticflickr.com/8785/28413114261_febc4e6f3d_b.jpg
 menu: "educação, cultura e comunicação"
-title: Mostra de Artes traz outro olhar sobre a produção camponesa
+title: Mostra de Artes traz outro olhar sobre a produção no Campo
 support_line: "A Mostra acontece durante o Festival Nacional de Artes e Cultura da Reforma Agrária, em Belo Horizonte."
 layout: post
 files:
@@ -39,7 +39,9 @@ releated_posts: []
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
-&ldquo;A arte &eacute;, antes de tudo, um processo, e &eacute;, acima de tudo, um trabalho&rdquo;. &Eacute; assim que o artista pl&aacute;stico e educador popular, Anderson Augusto, nos apresenta os trabalhos que comp&otilde;em a Mostra de Artes Pl&aacute;sticas do MST, durante o Festival Nacional de Arte e Cultura da Reforma Agr&aacute;ria que acontece em Belo Horizonte (MG).&nbsp;<br />
+&ldquo;A arte &eacute;, antes de tudo, um processo, e &eacute;, acima de tudo, um trabalho&rdquo;. &Eacute; assim que o artista pl&aacute;stico e educador popular, Anderson Augusto, nos apresenta os trabalhos que comp&otilde;em a Mostra de Artes Pl&aacute;sticas do MST, durante o Festival Nacional de Arte e Cultura da Reforma Agr&aacute;ria que acontece em Belo Horizonte (MG).&nbsp;</p>
+
+<p><br />
 Segundo Anderson, a mostra, que acontece no Centro de Refer&ecirc;ncia da Juventude, ao lado da Pra&ccedil;a da Esta&ccedil;&atilde;o, surgiu com o intuito de dinamizar e mostrar que a produ&ccedil;&atilde;o da Reforma Agr&aacute;ria &eacute; mais ampla do que s&oacute; a produ&ccedil;&atilde;o de alimentos.&nbsp;</p>
 
 <p><br />
