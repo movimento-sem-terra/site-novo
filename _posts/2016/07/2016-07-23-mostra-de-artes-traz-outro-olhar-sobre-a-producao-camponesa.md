@@ -5,7 +5,7 @@ special-page: festival
 sector: culture
 images_hd: //farm9.staticflickr.com/8785/28413114261_febc4e6f3d_b.jpg
 menu: "educação, cultura e comunicação"
-title: Mostra de Artes traz outro olhar sobre a produção no Campo
+title: Mostra de Artes Plásticas traz outro olhar sobre a produção no Campo
 support_line: "A Mostra acontece durante o Festival Nacional de Artes e Cultura da Reforma Agrária, em Belo Horizonte."
 layout: post
 files:
@@ -30,6 +30,7 @@ files:
 created_date: "2016-07-23T10:52:57-03:00"
 published: true
 releated_posts: []
+section: cover
 
 ---
 <p><img alt="IMG_9582.jpg" src="//farm9.staticflickr.com/8785/28413114261_febc4e6f3d_b.jpg" /></p>
