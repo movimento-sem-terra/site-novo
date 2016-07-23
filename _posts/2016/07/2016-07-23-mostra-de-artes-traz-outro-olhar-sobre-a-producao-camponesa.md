@@ -40,7 +40,7 @@ section: null
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
-&ldquo;A arte &eacute;, antes de tudo, um processo, e &eacute;, acima de tudo, um trabalho&rdquo;. &Eacute; assim que o artista pl&aacute;stico e educador popular, Anderson Augusto, nos apresenta os trabalhos que comp&otilde;em a Mostra de Artes Pl&aacute;sticas do MST, durante o Festival Nacional de Arte e Cultura da Reforma Agr&aacute;ria que acontece em Belo Horizonte (MG).&nbsp;</p>
+&ldquo;A arte &eacute;, antes de tudo, um processo, e &eacute;, acima de tudo, um trabalho&rdquo;. &Eacute; assim que o artista pl&aacute;stico e educador popular, Anderson Augusto, nos apresenta os trabalhos que comp&otilde;em a Mostra de Artes Pl&aacute;sticas do MST, durante o <a href="http://www.mst.org.br/festival-da-reforma-agraria/" target="_blank">Festival Nacional de Arte e Cultura da Reforma Agr&aacute;ria</a> que acontece em Belo Horizonte (MG).&nbsp;</p>
 
 <p><br />
 Segundo Anderson, a mostra, que acontece no Centro de Refer&ecirc;ncia da Juventude, ao lado da Pra&ccedil;a da Esta&ccedil;&atilde;o, surgiu com o intuito de dinamizar e mostrar que a produ&ccedil;&atilde;o da Reforma Agr&aacute;ria &eacute; mais ampla do que s&oacute; a produ&ccedil;&atilde;o de alimentos.&nbsp;</p>
