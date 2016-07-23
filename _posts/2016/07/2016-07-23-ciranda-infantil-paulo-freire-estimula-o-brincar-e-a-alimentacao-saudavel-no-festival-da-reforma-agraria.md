@@ -37,19 +37,16 @@ published: true
 releated_posts: []
 
 ---
-<figure class="image"><img alt="IMG_9510.jpg" height="467" src="//farm9.staticflickr.com/8603/28389908452_eff45e7a7f_b.jpg" width="700" />
-<figcaption></figcaption>
-</figure>
+<p><img alt="IMG_9510.jpg" height="467" src="//farm9.staticflickr.com/8603/28389908452_eff45e7a7f_b.jpg" width="700" /></p>
 
-<p class="p1">&nbsp;</p>
-
-<p><em>Por Nelsina Gomes<br />
+<p class="p1"><br />
+<em>Por Nelsina Gomes<br />
 Da P&aacute;gina do MST</em></p>
 
 <p><em>Fotos Maria Aparecida</em></p>
 
 <p><br />
-<span class="s1">Cerca de 30 crian&ccedil;as vindas de diversos estados participam diariamente da Ciranda Infantil Paulo Freire. A atividade faz parte da programa&ccedil;&atilde;o do Festival Nacional de Artes e Cultura da Reforma Agr&aacute;ria, que acontece em Belo Horizonte, entre os dias 20 e </span><span class="s2">24 de julho</span><span class="s1">. As atividades da Ciranda s&atilde;o realizadas sempre das 8h &agrave;s 18h.</span></p>
+<span class="s1">Cerca de 30 crian&ccedil;as vindas de diversos estados participam diariamente da Ciranda Infantil Paulo Freire. A atividade faz parte da programa&ccedil;&atilde;o do <a href="http://www.mst.org.br/festival-da-reforma-agraria/" target="_blank">Festival Nacional de Artes e Cultura da Reforma Agr&aacute;ria</a>, que acontece em Belo Horizonte, entre os dias 20 e </span><span class="s2">24 de julho</span><span class="s1">. As atividades da Ciranda s&atilde;o realizadas sempre das 8h &agrave;s 18h.</span></p>
 
 <p class="p1"><br />
 <span class="s1">Os temas s&atilde;o definidos pelos educadores ainda pela manh&atilde;, antes de receberem as crian&ccedil;as. Entre as atividades, est&atilde;o oficinas com brinquedos, para discutir a quest&atilde;o do brincar, al&eacute;m de atividades que estimulam a alimenta&ccedil;&atilde;o saud&aacute;vel, sempre de maneira l&uacute;dica e educativa.</span></p>
