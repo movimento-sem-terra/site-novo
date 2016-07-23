@@ -36,7 +36,7 @@ section: cover
 <p><img alt="IMG_9582.jpg" src="//farm9.staticflickr.com/8785/28413114261_febc4e6f3d_b.jpg" /></p>
 
 <p><br />
-<em>Por Maria Aparecida*<br />
+<em>Por Maria Aparecida (Texto e Fotos)*<br />
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
