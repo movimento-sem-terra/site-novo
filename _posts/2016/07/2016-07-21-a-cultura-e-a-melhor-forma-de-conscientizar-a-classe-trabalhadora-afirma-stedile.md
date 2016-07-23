@@ -46,7 +46,7 @@ Da P&aacute;gina do MST</em></p>
 &ldquo;A sociedade brasileira vive uma profunda crise econ&ocirc;mica, pol&iacute;tica, ambiental e social&quot;, descreveu Jo&atilde;o Pedro Stedile, da dire&ccedil;&atilde;o nacional do Movimento dos Trabalhadores Rurais Sem Terra (MST).</p>
 
 <p><br />
-Jo&atilde;o Pedro e Beatriz Cerqueira, presidente da Central &Uacute;nica dos Trabalhadores (CUT) de Minas Gerais, participaram de uma mesa de debate sobre a conjuntura pol&iacute;tica no espa&ccedil;o Minas Centro, em Belo Horizonte (MG), na manh&atilde; desta quinta-feira (21). A atividade faz parte da programa&ccedil;&atilde;o do <a href="http://www.mst.org.br/2016/07/20/mais-de-1500-sem-terra-dao-inicio-ao-festival-de-cultura-da-reforma-agraria.html">Festival Nacional de Arte e Cultura da Reforma Agr&aacute;ria</a>, que acontece na capital mineira de 20 a 24 de julho.</p>
+Jo&atilde;o Pedro e Beatriz Cerqueira, presidente da Central &Uacute;nica dos Trabalhadores (CUT) de Minas Gerais, participaram de uma mesa de debate sobre a conjuntura pol&iacute;tica no espa&ccedil;o Minas Centro, em Belo Horizonte (MG), na manh&atilde; desta quinta-feira (21). A atividade faz parte da programa&ccedil;&atilde;o do <a href="http://www.mst.org.br/festival-da-reforma-agraria/" target="_blank">Festival Nacional de Arte e Cultura da Reforma Agr&aacute;ria</a>, que acontece na capital mineira de 20 a 24 de julho.</p>
 
 <p><br />
 &quot;A economia n&atilde;o cresce h&aacute; tr&ecirc;s anos, teve um aumento de 14% no n&uacute;mero de desemprego e ocorreu um sequestro do sistema eleitoral. Hoje, o povo n&atilde;o reconhece mais no Congresso os seus representantes&quot;, apontou o dirigente do MST.</p>
