@@ -53,7 +53,7 @@ Ao todo, s&atilde;o mais de 80 pratos oferecidos no Festival, que acontece entre
 <p>&nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="photo959441388816148404.jpg" src="//farm9.staticflickr.com/8759/28483233796_34a0daf2f0_b.jpg" />
-<figcaption>Maria Josu&eacute; Ch&aacute;vez sua filha Josiane Santos<span style="line-height: 1.6; background-color: rgb(255, 255, 255);">bjetivo da Cozinha da Terra &eacute; mostrar as comidas t&iacute;picas regionais de cada estado. Os pratos v&ecirc;m como uma representa&ccedil;&atilde;o da cultura regional que est&aacute; presente na mesa das pessoas&rdquo;, disse Ma&iacute;ra Santiago, do setor de produ&ccedil;&atilde;o do MST e da organiza&ccedil;&atilde;o da Cozinha Gastron&ocirc;mica.</span></figcaption>
+<figcaption>Maria Josu&eacute; Ch&aacute;vez e sua filha Josiane Santos</figcaption>
 </figure>
 
 <p><br />
