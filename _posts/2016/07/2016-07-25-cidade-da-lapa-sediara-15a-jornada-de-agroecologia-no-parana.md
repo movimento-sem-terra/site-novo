@@ -5,8 +5,8 @@ tags:
   - tag: soberania-alimentar
   - tag: agrotoxicos
 title: Cidade da Lapa sediará 15ª Jornada de Agroecologia no Paraná
-support_line: É a primeira vez que o município recebe o encontro e pretende reunir aproximadamente três mil pessoas durante os quatro dias
-menu: lutas e mobilizações
+support_line: É a primeira vez que o município recebe o encontro e os quatro dias de atividade pretende reunir aproximadamente três mil pessoas
+menu: transgênicos
 images_hd: //farm9.staticflickr.com/8520/27924395373_0784701ccc_b.jpg
 layout: post
 files:
@@ -38,14 +38,10 @@ releated_posts: []
 </figure>
 
 <p><br />
-De 27 a 30 de julho, o munic&iacute;pio da Lapa, regi&atilde;o sul do Paran&aacute;, sediar&aacute; pela primeira vez a 15&ordf; edi&ccedil;&atilde;o da Jornada de Agroecologia, um dos maiores eventos sobre agroecologia do Brasil.</p>
-
-<p>&nbsp;</p>
+De 27 a 30 de julho, o munic&iacute;pio da Lapa, regi&atilde;o sul do Paran&aacute;, sediar&aacute; pela primeira vez a 15&ordf; edi&ccedil;&atilde;o da Jornada de Agroecologia.</p>
 
 <p><br />
 A atividade que tem como lema, &ldquo;Terra livre de transg&ecirc;nicos e sem Agrot&oacute;xicos, cuidando da Terra, cultivando Biodiversidade, colhendo Soberania Alimentar&rdquo;, acontecer&aacute; no Parque de Exposi&ccedil;&otilde;es e Eventos da cidade, reunir&aacute; aproximadamente tr&ecirc;s mil pessoas durante os quatro dias.</p>
-
-<p>&nbsp;</p>
 
 <p><br />
 A Jornada que &eacute; promovida por organiza&ccedil;&otilde;es e movimentos sociais do campo e da cidade re&uacute;ne agricultores, estudantes, t&eacute;cnicos, pesquisadores, professores, e tem como objetivo construir de forma coletiva um Projeto Popular e Soberano para a agricultura, contra as empresas transnacionais do agroneg&oacute;cio.</p>
