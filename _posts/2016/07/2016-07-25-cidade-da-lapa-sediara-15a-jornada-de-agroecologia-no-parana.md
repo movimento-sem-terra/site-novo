@@ -34,16 +34,18 @@ releated_posts: []
 
 ---
 <figure class="image"><img alt="Londrina_Foto Leandro Taques.jpg" height="467" src="//farm9.staticflickr.com/8520/27924395373_0784701ccc_b.jpg" width="700" />
-<figcaption>Foto: Leandro a</figcaption>
+<figcaption><em>Foto: Leandro Taques</em></figcaption>
 </figure>
 
 <p><br />
 De 27 a 30 de julho, o munic&iacute;pio da Lapa, regi&atilde;o sul do Paran&aacute;, sediar&aacute; pela primeira vez a 15&ordf; edi&ccedil;&atilde;o da Jornada de Agroecologia, um dos maiores eventos sobre agroecologia do Brasil.</p>
 
-<p>&nbsp;
+<p>&nbsp;</p>
+
 <p><br />
 A atividade que tem como lema, &ldquo;Terra livre de transg&ecirc;nicos e sem Agrot&oacute;xicos, cuidando da Terra, cultivando Biodiversidade, colhendo Soberania Alimentar&rdquo;, acontecer&aacute; no Parque de Exposi&ccedil;&otilde;es e Eventos da cidade, reunir&aacute; aproximadamente tr&ecirc;s mil pessoas durante os quatro dias.</p>
-</p>
+
+<p>&nbsp;</p>
 
 <p><br />
 A Jornada que &eacute; promovida por organiza&ccedil;&otilde;es e movimentos sociais do campo e da cidade re&uacute;ne agricultores, estudantes, t&eacute;cnicos, pesquisadores, professores, e tem como objetivo construir de forma coletiva um Projeto Popular e Soberano para a agricultura, contra as empresas transnacionais do agroneg&oacute;cio.</p>
