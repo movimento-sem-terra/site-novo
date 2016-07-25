@@ -5,7 +5,7 @@ tags:
   - tag: soberania-alimentar
   - tag: agrotoxicos
 title: Cidade da Lapa sediará 15ª Jornada de Agroecologia no Paraná
-support_line: É a primeira vez que o município recebe o encontro e os quatro dias de atividade pretende reunir aproximadamente três mil pessoas
+support_line: É a primeira vez que o município recebe o encontro. A pretensão é reunir aproximadamente três mil pessoas durante os quatro dias de atividade
 menu: transgênicos
 images_hd: //farm9.staticflickr.com/8520/27924395373_0784701ccc_b.jpg
 layout: post
