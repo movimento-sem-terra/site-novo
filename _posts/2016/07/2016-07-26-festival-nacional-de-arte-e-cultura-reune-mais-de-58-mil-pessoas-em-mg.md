@@ -35,6 +35,7 @@ files:
 created_date: "2016-07-26T15:04:34-03:00"
 published: true
 releated_posts: []
+section: cover
 
 ---
 <figure class="image"><img alt="13692858_1306556026035362_1311975028521768072_o.jpg" height="466" src="//farm9.staticflickr.com/8859/28534984016_8a3b2b27de_b.jpg" width="700" />
