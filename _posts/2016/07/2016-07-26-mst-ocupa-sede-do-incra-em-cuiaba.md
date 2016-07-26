@@ -28,7 +28,7 @@ Na manh&atilde; desta segunda-feira (25), trabalhadores e trabalhadoras sem terr
 De acordo D&ecirc; Silva, da coordena&ccedil;&atilde;o regional do MST, o objetivo da ocupa&ccedil;&atilde;o &eacute; pressionar o Instituto para uma efetiva&ccedil;&atilde;o de assentamentos e adequa&ccedil;&atilde;o de infraestrutura daqueles j&aacute; existentes.</p>
 
 <p><br />
-&ldquo;Em Mato Grosso consolidaram assentamentos sem infraestrutura adequada, nem possibilidades de subsist&ecirc;ncia ou acesso a cr&eacute;ditos, sa&uacute;de e outras necessidades b&aacute;sicas. Por isso, nossa luta permanece firme e forte, para fazer valer nossos direitos e aqueles de toda a classe trabalhadora brasileira&rdquo;, explicou.</p>
+&ldquo;Em Mato Grosso se consolidaram assentamentos sem infraestrutura adequada, nem possibilidades de subsist&ecirc;ncia ou acesso a cr&eacute;ditos, sa&uacute;de e outras necessidades b&aacute;sicas. Por isso, nossa luta permanece firme e forte, para fazer valer nossos direitos e aqueles de toda a classe trabalhadora brasileira&rdquo;, explicou.</p>
 
 <p><br />
 D&ecirc; Silva tamb&eacute;m expressou a solidariedade do MST a outros movimentos que ocorrem no estado, como a greve dos professores e funcion&aacute;rios p&uacute;blicos e a ocupa&ccedil;&atilde;o das escolas pelos estudantes.</p>
