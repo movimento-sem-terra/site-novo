@@ -27,7 +27,7 @@ releated_posts: []
 
 <p>&nbsp;</p>
 
-<p>O MST recebeu com tristesa na noite desta ter&ccedil;a-feira (26) a not&iacute;cia do falecimento de Seu Luiz Beltrame, o poeta Sem Terra que carregava nas costas 107 anos de luta e poesia.</p>
+<p>O MST recebeu com tristeza na noite desta ter&ccedil;a-feira (26) a not&iacute;cia do falecimento de Seu Luiz Beltrame, o poeta Sem Terra que tinha no caminho 107 anos de luta e poesia.</p>
 
 <p><br />
 Nos solidarizamos com os familiares e todos os amigos, militantes, companheiros, que em todo pa&iacute;s se comovem com sua passagem, mas sobretudo se alimentam de sua inspira&ccedil;&atilde;o, de seus exemplos.</p>
@@ -36,7 +36,7 @@ Nos solidarizamos com os familiares e todos os amigos, militantes, companheiros,
 Neste momento de pesar, fazemos ecoar aos quatro ventos o qu&atilde;o grande foi em sua passagem por esta vida Luiz Beltrame!</p>
 
 <p><br />
-Como um p&aacute;ssaro livre nos deixa seu belo canto em suaves palavras. Como um um jaguar valente nos ensinou a atitude firme da luta. Como um mensageiro trilhou estradas&nbsp; e caminhos que aproxima da p&aacute;tria terra livre e solid&aacute;ria.</p>
+Como um p&aacute;ssaro livre nos deixa seu belo canto em suaves palavras. Como um um jaguar valente nos ensinou a atitude firme da luta. Como um mensageiro trilhou estradas e caminhos que aproxima da p&aacute;tria terra livre e solid&aacute;ria.</p>
 
 <p><br />
 Luiz Beltrame vive em cada Sem Terra.</p>
