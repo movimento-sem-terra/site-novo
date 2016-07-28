@@ -3,7 +3,7 @@ date: "2016-07-26T14:30:18-03:00"
 tags: []
 images_hd: //farm9.staticflickr.com/8648/28534983836_9c9c262c7b_b.jpg
 title: Festival Nacional de Arte e Cultura reúne mais de 58 mil pessoas em MG
-support_line: "No total, foram mais de 160 toneladas de alimentos comercializados durantes os quatro dias de Festival. "
+support_line: "No total, foram mais de 160 toneladas de alimentos comercializados durantes os cinco dias de Festival. "
 menu: "educação, cultura e comunicação"
 special-page: festival
 layout: post
