@@ -33,6 +33,9 @@ releated_posts: []
 O Movimento lan&ccedil;a nessa ter&ccedil;a (19), a musicoteca Inezita Barroso, um espa&ccedil;o para divulga&ccedil;&atilde;o dos &aacute;lbuns j&aacute; produzidos pelo Movimento, bem como obras de parceiros que contenham a tem&aacute;tica de luta.</p>
 
 <p style="text-align: justify;"><br />
+<strong><a href="http://www.mst.org.br/musicoteca">Clique aqui e acesse a Musicoteca Inezita Barroso.</a></strong></p>
+
+<p style="text-align: justify;"><br />
 O MST que nasceu em sinfonia, usa os acordes como bandeira de identidade, luta e resist&ecirc;ncia. Reafirmando essa identidade e em celebra&ccedil;&atilde;o aos 30 anos do MST, completados em 2014, no &uacute;ltimo per&iacute;odo foi feito um recolhimento das can&ccedil;&otilde;es hist&oacute;ricas que traduzem parte da mem&oacute;ria musical do povo Sem Terra. Hist&oacute;ria essa que agora estar&aacute; dispon&iacute;vel para todos em nossa p&aacute;gina.</p>
 
 <p style="text-align: justify;"><br />
