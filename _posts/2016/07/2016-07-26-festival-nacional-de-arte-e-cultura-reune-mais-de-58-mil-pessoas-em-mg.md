@@ -48,10 +48,10 @@ section: featured-news
 Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
-Mais de 58 mil pessoas estiveram presentes durante os quatro dias do Festival Nacional de Artes e Cultura da Reforma Agr&aacute;ria, que aconteceu de 20 a 24 de julho em Belo Horizonte, Minas Gerais.</p>
+Mais de 58 mil pessoas estiveram presentes durante os cinco dias do Festival Nacional de Artes e Cultura da Reforma Agr&aacute;ria, que aconteceu de 20 a 24 de julho em Belo Horizonte, Minas Gerais.</p>
 
 <p><br />
-A programa&ccedil;&atilde;o ficou dividia entre dois polos principais, a Serraria Souza Pinto onde aconteceu a Feira Nacional da Reforma Agr&aacute;ria e as apresenta&ccedil;&otilde;es dos selecionados de m&uacute;sica e poesia do Festival. J&aacute;&nbsp;o palco montado na Pra&ccedil;a Esta&ccedil;&atilde;o recebeu grandes nomes da m&uacute;sica brasileira como Chico C&eacute;sar.&nbsp;</p>
+A programa&ccedil;&atilde;o ficou dividida entre dois polos principais, a Serraria Souza Pinto onde aconteceu a Feira Nacional da Reforma Agr&aacute;ria e as apresenta&ccedil;&otilde;es dos selecionados de m&uacute;sica e poesia do Festival. J&aacute;&nbsp;o palco montado na Pra&ccedil;a Esta&ccedil;&atilde;o recebeu grandes nomes da m&uacute;sica brasileira como Chico C&eacute;sar. Al&eacute;m disso, aconteceram atividades no Centro de Refer&ecirc;ncia da Juventude (CRJ), no Minascentro e na Funarte.&nbsp;</p>
 
 <p><br />
 <strong>Feira</strong></p>
