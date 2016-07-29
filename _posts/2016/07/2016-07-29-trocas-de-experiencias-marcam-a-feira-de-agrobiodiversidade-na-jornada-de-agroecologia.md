@@ -4,7 +4,7 @@ tags:
   - tag: Jornada-de-Agroecologia
   - tag: reforma-agrária
 title: Trocas de experiências marcam a Feira de Agrobiodiversidade na Jornada de Agroecologia
-support_line: "Cuidado com o meio ambiente e com a saúde humana também são uma preocupação dos 30 grupos expositores. Comida, artesanato e sementes a preços acessíveis podem ser encontradas no local."
+support_line: "Cuidado com o meio ambiente e com a saúde humana também são uma preocupação dos 80 grupos expositores. Comida, artesanato e sementes a preços acessíveis podem ser encontradas no local."
 images_hd: //farm9.staticflickr.com/8870/28015043273_a3aa532b84_b.jpg
 menu: agricultura camponesa
 layout: post
@@ -46,10 +46,10 @@ As frutas, verduras, p&atilde;es e artesanato expostos na Feira da Agrobiodivers
 A discuss&atilde;o de uma nova sociedade tamb&eacute;m est&aacute; presente em bolachas, geleias, sementes, cachec&oacute;is que s&atilde;o apresentados na Feira. Em comum entre os diversos grupos produtores, est&aacute; a ideia de uma produ&ccedil;&atilde;o que respeite o meio ambiente, trabalhadores e trabalhadoras, al&eacute;m dos consumidores e consumidoras.</p>
 
 <p><br />
-Cerca de 30 grupos &ndash; entre integrantes de acampamentos, assentamentos, ind&iacute;genas e faxinalenses de diferentes partes do estado &ndash; est&atilde;o expondo diversos produtos na Feira. Os valores subjetivos incorporados em cada produto &ndash; como solidariedade, bem-estar e sa&uacute;de &ndash; v&atilde;o para al&eacute;m dos pre&ccedil;os, acess&iacute;veis para todos os bolsos.</p>
+Cerca de 80 grupos &ndash; entre integrantes de acampamentos, assentamentos, ind&iacute;genas e faxinalenses de diferentes partes do estado &ndash; est&atilde;o expondo diversos produtos na Feira. Os valores subjetivos incorporados em cada produto &ndash; como solidariedade, bem-estar e sa&uacute;de &ndash; v&atilde;o para al&eacute;m dos pre&ccedil;os, acess&iacute;veis para todos os bolsos.</p>
 
 <p><br />
-Teresinha de Lima dos Santos &eacute; uma das mais de 30 expositoras da Feira. Ela produz e exp&otilde;e p&atilde;es, bolachas, cerveja artesanal, macarr&atilde;o &ndash; de tr&ecirc;s variedades -, tudo de forma agroecol&oacute;gica. &ldquo;N&atilde;o t&ocirc; s&oacute; vendendo alimento, mas tamb&eacute;m sa&uacute;de&rdquo;, se orgulha.</p>
+Teresinha de Lima dos Santos &eacute; uma das &nbsp;80 expositoras da Feira. Ela produz e exp&otilde;e p&atilde;es, bolachas, cerveja artesanal, macarr&atilde;o &ndash; de tr&ecirc;s variedades -, tudo de forma agroecol&oacute;gica. &ldquo;N&atilde;o t&ocirc; s&oacute; vendendo alimento, mas tamb&eacute;m sa&uacute;de&rdquo;, se orgulha.</p>
 
 <p><br />
 Esta &eacute; a segunda vez que a trabalhadora rural participa da atividade. Moradora de Irati, no Centro-Sul do estado, ela diz ter aproveitado muito a experi&ecirc;ncia quando acompanhou a Jornada em 2015, realizada em sua cidade. Desde l&aacute;, conseguiu avan&ccedil;ar e produzir seus p&atilde;es caseiros tamb&eacute;m de forma agroecol&oacute;gica. Para ela, participar da Feira &eacute; sempre um grande aprendizado. &ldquo;Aqui tem muita troca de ideias, de como recuperar as sementes&hellip;&rdquo;</p>
