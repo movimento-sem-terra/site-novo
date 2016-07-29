@@ -1,7 +1,7 @@
 ---
 date: "2016-07-29T12:34:34-03:00"
 tags: []
-title: MST realiza Feira Estadual da Reforma Agrária no MA
+title: MST realiza Feira Estadual da Reforma Agrária no Maranhão
 images_hd: //farm9.staticflickr.com/8702/28599211056_588c852db5_b.jpg
 menu: reforma agrária
 support_line: "Cerca de duzentos camponeses e camponesas do MST do Maranhão , representando os acampamentos e assentamentos do Movimento, fazem parte da feira."
