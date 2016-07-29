@@ -23,6 +23,7 @@ files:
 created_date: "2016-07-19T12:32:19-03:00"
 published: true
 releated_posts: []
+section: featured-news
 
 ---
 <p style="text-align: justify;">&nbsp;</p>
