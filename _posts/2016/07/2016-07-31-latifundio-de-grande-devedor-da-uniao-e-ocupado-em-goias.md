@@ -16,11 +16,12 @@ files:
 created_date: "2016-07-31T13:12:42-03:00"
 published: true
 releated_posts: []
+section: cover
 
 ---
 <p>&nbsp;</p>
 
-<p>Da P&aacute;gina do MST</p>
+<p><em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
 Nesta manh&atilde;, dia 31 de julho de 2016, na cidade de Santa Helena de Goi&aacute;s, cerca de 1000 fam&iacute;lias trabalhadoras Sem Terra reocuparam o latif&uacute;ndio de pouco mais de 20 mil hectares da Usina Santa Helena (USH). O objetivo da a&ccedil;&atilde;o &eacute; exigir a imediata desapropria&ccedil;&atilde;o da Usina e o assentamento das 6.500 fam&iacute;lias acampadas em Goi&aacute;s.</p>
