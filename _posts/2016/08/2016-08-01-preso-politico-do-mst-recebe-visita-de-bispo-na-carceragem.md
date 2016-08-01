@@ -101,7 +101,7 @@ F&eacute; em Deus.</p>
 <p><br />
 &nbsp;</p>
 
-<p><img alt="bispo.png" src="//farm9.staticflickr.com/8721/28418753190_abbef3d0b3_b.jpg" /></p>
+<p><img alt="bispo.png" height="72" src="//farm9.staticflickr.com/8721/28418753190_abbef3d0b3_b.jpg" width="125" /></p>
 
 <p><strong>Dom Guilherme Antonio Werlang, M.S.F.</strong><br />
 <em>Bispo Diocesano de Ipameri</em></p>
