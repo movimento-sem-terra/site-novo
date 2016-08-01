@@ -35,13 +35,13 @@ releated_posts: []
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Entre os dias 22 e 24 de julho, cerca de 100 jovens ligados ao MST, ao Movimento Campon&ecirc;s Popular (MCP), Levante Popular da Juventude (LPJ), Movimento dos Trabalhadores Sem Teto (MTST); Pastoral da Juventude do Meio Popular (PJMP) e Pastoral da Juventude Rural (PJR) participaram do 1&ordm; Acampamento Popular da Juventude &ndash; Goi&aacute;s, no Centro de Forma&ccedil;&atilde;o do MST em Corumb&aacute;, distante 113 quil&ocirc;metros de Goi&acirc;nia.</p>
+Entre os dias 22 e 24 de julho, cerca de 100 jovens ligados ao MST, ao Movimento Campon&ecirc;s Popular (MCP), Levante Popular da Juventude (LPJ), Movimento dos Trabalhadores Sem Teto (MTST); Pastoral da Juventude do Meio Popular (PJMP) e Pastoral da Juventude Rural (PJR) participaram do 1&ordm; Acampamento Popular da Juventude &ndash; Goi&aacute;s, no Centro de Forma&ccedil;&atilde;o do MST em Corumb&aacute;, que fica &agrave; 113 km de Goi&acirc;nia.</p>
 
 <p><br />
 Conforme Beth Cerqueira, da coordena&ccedil;&atilde;o do MST em Goi&aacute;s, o objetivo do acampamento foi refletir sobre a conjuntura pol&iacute;tica vigente e seus reflexos nas pol&iacute;ticas p&uacute;blicas voltadas para a juventude do campo e da cidade.</p>
 
 <p><br />
-Os jovens debateram temas como diversidade; reforma agr&aacute;ria popular; agita&ccedil;&atilde;o e propaganda no processo de transforma&ccedil;&atilde;o social; elementos para an&aacute;lise de conjuntura; g&ecirc;nero; e racismo. &ldquo;Trata-se de uma atividade da resist&ecirc;ncia. A juventude sempre encabe&ccedil;ou as rea&ccedil;&otilde;es ao autoritarismo. Esse acampamento &eacute; para abrirmos os olhos para o golpe em curso e pensar nas t&aacute;ticas que vamos usar contra ele&rdquo;, completa Beth.<br />
+Os jovens debateram temas como diversidade, reforma agr&aacute;ria popular, agita&ccedil;&atilde;o e propaganda no processo de transforma&ccedil;&atilde;o social, elementos para an&aacute;lise de conjuntura, g&ecirc;nero e racismo. &ldquo;Trata-se de uma atividade da resist&ecirc;ncia. A juventude sempre encabe&ccedil;ou as rea&ccedil;&otilde;es ao autoritarismo. Esse acampamento &eacute; para abrirmos os olhos para o golpe em curso e pensar nas t&aacute;ticas que vamos usar contra ele&rdquo;, completa Beth.<br />
 &nbsp;</p>
 
 <p><img alt="goias.jpg" src="//farm9.staticflickr.com/8701/28666317516_20def2abef_b.jpg" /><br />
