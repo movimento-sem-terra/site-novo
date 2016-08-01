@@ -6,7 +6,7 @@ tags:
   - tag: Reforma-Agraria
 title: "Após despejo, Sem Terra reocupam latifúndio e intensificam denúncias\n"
 images_hd: //farm9.staticflickr.com/8693/28593171552_b9cfece47f_b.jpg
-support_line: "A ação ocorreu após oito dias das famílias terem sido obrigadas, através de uma liminar de despejo."
+support_line: "A ação ocorreu após oito dias das famílias terem sido obrigadas, através de uma liminar de despejo, a abandonarem seus lares."
 menu: lutas e mobilizações
 layout: post
 files:
@@ -66,4 +66,4 @@ Por outro lado, as fam&iacute;lias j&aacute; receberam duas liminares de despejo
 Diante das in&uacute;meras pr&aacute;ticas de abuso de poder e concentra&ccedil;&atilde;o de riqueza na regi&atilde;o, as fam&iacute;lias reafirmam o compromisso de seguirem denunciando e lutando pela Reforma Agr&aacute;ria Popular.</p>
 
 <p><br />
-A dire&ccedil;&atilde;o do Movimento na regi&atilde;o destaca que &eacute; inadmiss&iacute;vel os trabalhadores serem tratados com tanta neglig&ecirc;ncia e exigi um posicionamento do Governo do Estado frente a essa situa&ccedil;&atilde;o cont&iacute;nua de abuso de poder e criminaliza&ccedil;&atilde;o das lutas populares.</p>
+A dire&ccedil;&atilde;o do Movimento na regi&atilde;o destaca que &eacute; inadmiss&iacute;vel os trabalhadores serem tratados com tanta neglig&ecirc;ncia e exige&nbsp;um posicionamento do Governo do Estado frente a essa situa&ccedil;&atilde;o cont&iacute;nua de abuso de poder e criminaliza&ccedil;&atilde;o das lutas populares.</p>
