@@ -6,7 +6,7 @@ tags:
   - tag: São-Paulo
 title: MST ocupa latifúndio do Grupo Atalla no interior de São Paulo
 menu: lutas e mobilizações
-section: cover
+section: featured-news
 images_hd: //farm8.staticflickr.com/7571/28687535626_27c4e0bc9c_b.jpg
 support_line: "O Grupo Atalla foi um dos financiadores da Operação Bandeirantes (OBAN) em São Paulo. A OBAN foi o maior esquema de caça aos militantes de esquerda, tortura, assassinato e desaparecimento durante a ditadura civil-militar."
 layout: post
@@ -43,6 +43,8 @@ releated_posts: []
 <figure class="image"><img alt="jau.jpeg" height="394" src="//farm9.staticflickr.com/8794/28687535236_12faf9f2ed_b.jpg" width="700" />
 <figcaption>Fotos: MST/SP</figcaption>
 </figure>
+
+<p>&nbsp;</p>
 
 <p><em>Por Selma Santos<br />
 Da P&aacute;gina do MST&nbsp;</em></p>
