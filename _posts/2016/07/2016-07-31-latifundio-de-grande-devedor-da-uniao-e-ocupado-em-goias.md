@@ -16,9 +16,10 @@ files:
 created_date: "2016-07-31T13:12:42-03:00"
 published: true
 releated_posts: []
-section: cover
+section: featured-news
 
 ---
+
 <p>&nbsp;</p>
 
 <p><em>Da P&aacute;gina do MST</em></p>
