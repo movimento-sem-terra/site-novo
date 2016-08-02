@@ -4,8 +4,8 @@ tags:
   - tag: Ariadnópolis
   - tag: despejo
   - tag: direitos-humanos
-title: Conflito em Ariadnópolis recebe audiência do Centro Judiciário de Soluções de Conflito de Grande Repercussão Social
-support_line: "O objetivo do encontro foi promover um acordo para cessar as constantes ameaças de despejo dos trabalhadores. Ameaças que, somente neste ano, se repetiram por três vezes. \n\n"
+title: Conflito em Ariadnópolis recebe audiência no Cejus Social
+support_line: "O objetivo do encontro foi promover um acordo para cessar as constantes ameaças de despejo dos trabalhadores. Ameaças que, somente neste ano, se repetiram por três vezes. "
 menu: direitos humanos
 images_hd: //farm9.staticflickr.com/8288/28112239343_e2b5897a7f_b.jpg
 layout: post
@@ -53,6 +53,10 @@ J&aacute; o MST contestou&nbsp;a investida argumentando que a &aacute;rea j&aacu
 
 <p><br />
 &quot;H&aacute;&nbsp;17 anos que os trabalhadores do MST sentem o peso da justi&ccedil;a, que diz que n&atilde;o h&aacute; acordo, ressalta o advogado Carlos Alberto Torezani. Para ele a liminar de despejo n&atilde;o se justifica. &quot;N&atilde;o h&aacute; domic&iacute;lio, que &eacute; a inten&ccedil;&atilde;o de permanecer por parte dos propriet&aacute;rios, nem posse da sede h&aacute; anos&quot;, esclarece Torezani.</p>
+
+<figure class="image"><img alt="WhatsApp Image 2016-08-02 at 16.50.38.jpeg" height="394" src="//farm9.staticflickr.com/8288/28112239343_e2b5897a7f_b.jpg" width="700" />
+<figcaption>Trabalhadores rurais aguardam audi&ecirc;ncia&nbsp;</figcaption>
+</figure>
 
 <p><br />
 O arrastar do conflito mostra que n&atilde;o h&aacute; solu&ccedil;&atilde;o sem interven&ccedil;&atilde;o do Estado. A presen&ccedil;a do advogado geral de Minas Gerais, Onofre &nbsp;Alves Batista Junior, mostra este entendimento.</p>
