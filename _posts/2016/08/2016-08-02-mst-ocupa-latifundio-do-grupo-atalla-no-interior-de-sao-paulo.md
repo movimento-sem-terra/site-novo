@@ -49,7 +49,7 @@ Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p>&nbsp;</p>
 
-<p>A ter&ccedil;a-feira amanheceu com mais um latif&uacute;ndio ocupado em S&atilde;o Paulo. Cerca de 700 sem terra ocuparam a Usina Lambari, no munic&iacute;pio de Ja&uacute;&nbsp;um latif&uacute;ndio com cerca de 1.000 hectares, de propriedade do Grupo Atalla.</p>
+<p>A ter&ccedil;a-feira amanheceu com mais um latif&uacute;ndio ocupado em S&atilde;o Paulo. Cerca de 1000 Sem terra ocuparam a Usina Lambari, no munic&iacute;pio de Ja&uacute;&nbsp;um latif&uacute;ndio com cerca de 1000 hectares, de propriedade do Grupo Atalla.</p>
 
 <p><br />
 A fazenda encontra-se abandonada e, no momento, est&aacute; arrendada para a Ra&iacute;zen. Criada a partir da jun&ccedil;&atilde;o de parte dos neg&oacute;cios da Shell e da Cosan, a Ra&iacute;zen cresceu como empresa &uacute;nica. Atualmente &eacute; considerada uma das cinco maiores empresas em faturamento e est&aacute; entre as tr&ecirc;s maiores distribuidoras de combust&iacute;veis do Brasil. Al&eacute;m disso, &eacute; a principal fabricante de etanol de cana-de-a&ccedil;&uacute;car do pa&iacute;s e a maior exportadora individual de a&ccedil;&uacute;car de cana no mercado internacional.</p>
