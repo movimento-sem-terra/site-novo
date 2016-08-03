@@ -18,7 +18,8 @@ published: true
 releated_posts: []
 
 ---
-<p><br />
+<p><img alt="181014_via.jpg" height="466" src="//farm9.staticflickr.com/8325/28128238713_21d3b51594_b.jpg" width="700" /><br />
+<br />
 <em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
