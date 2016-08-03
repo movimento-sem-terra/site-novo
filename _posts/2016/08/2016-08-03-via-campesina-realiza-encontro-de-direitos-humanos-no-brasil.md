@@ -19,7 +19,6 @@ releated_posts: []
 
 ---
 <p><br />
-<br />
 <em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
