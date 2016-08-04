@@ -23,7 +23,7 @@ releated_posts: []
 <p><em>Da Via Campesina</em></p>
 
 <p><br />
-V&aacute;rios delegados, que inclui mulheres, homens e jovens, &nbsp;que representam camponeses e camponesas, migrantes e trabalhadores rurais de diferente regi&otilde;es da Via Campesina levaram mensagens de solidariedade global e soberania alimentar ao F&oacute;rum Social Mundial 2016. &nbsp;O F&oacute;rum que &eacute; um chamado coletivo para um mundo sustent&aacute;vel e inclusivo, acontecer&aacute; em Montreal, Canad&aacute;, de 09 a 14 de agosto.</p>
+V&aacute;rios delegados, que inclui mulheres, homens e jovens, &nbsp;que representam camponeses e camponesas, migrantes e trabalhadores rurais de diferente regi&otilde;es da Via Campesina levar&atilde;o mensagens de solidariedade global e soberania alimentar ao F&oacute;rum Social Mundial 2016. &nbsp;O F&oacute;rum que &eacute; um chamado coletivo para um mundo sustent&aacute;vel e inclusivo, acontecer&aacute; em Montreal, Canad&aacute;, de 09 a 14 de agosto.</p>
 
 <p><br />
 A Via Campesina v&ecirc; o F&oacute;rum Social Mundial (FSM) como um espa&ccedil;o importante para construir a unidade dos Movimentos sociais a n&iacute;vel mundial &ndash; os que lutam por justi&ccedil;a social, econ&ocirc;mica, cultural e pol&iacute;tica. Em Montreal, nossos delegados e delegadas v&atilde;o organizar e participar coletivamente de debates que incluem quest&otilde;es chaves como a Reforma Agr&aacute;ria, justi&ccedil;a clim&aacute;tica, pesquisas camponesas, alternativas ao sistema agroindustrial transnacional, soberania popular versus impunidade corporativa, juventude camponesa, o futuro da agricultura, entre outras.</p>
