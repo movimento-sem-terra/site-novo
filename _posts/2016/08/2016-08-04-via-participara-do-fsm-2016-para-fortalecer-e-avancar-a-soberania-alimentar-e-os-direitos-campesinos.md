@@ -1,7 +1,7 @@
 ---
 date: "2016-08-04T14:01:59-03:00"
 tags: []
-title: Via participará do FSM 2016 para fortalecer e avançar a Soberania Alimentar e os direitos campesinos
+title: Via participará do FSM 2016 para fortalecer a Soberania Alimentar e os direitos campesinos
 support_line: "O Fórum Social Mundial (FSM) é um espaço importante para construir a unidade dos Movimentos sociais a nível mundial – os que lutam por justiça social, econômica, cultural e política"
 images_hd: //farm9.staticflickr.com/8870/28766347155_f622d785a6_b.jpg
 menu: direitos humanos
@@ -23,7 +23,7 @@ releated_posts: []
 <p><em>Da Via Campesina</em></p>
 
 <p><br />
-V&aacute;rios delegados, que inclui mulheres, homens e jovens, &nbsp;que representam camponeses e camponesas, migrantes e trabalhadores rurais de diferente regi&otilde;es da Via Campesina levaram mensagens de solidariedade global e soberania alimentar ao F&oacute;rum Social Mundial 2016. &nbsp;O F&oacute;rum que &eacute; um chamado coletivo para um mundo sustent&aacute;vel e inclusivo, acontecer&aacute; em se Montreal, Canad&aacute;, de 09 a 14 de agosto.</p>
+V&aacute;rios delegados, que inclui mulheres, homens e jovens, &nbsp;que representam camponeses e camponesas, migrantes e trabalhadores rurais de diferente regi&otilde;es da Via Campesina levaram mensagens de solidariedade global e soberania alimentar ao F&oacute;rum Social Mundial 2016. &nbsp;O F&oacute;rum que &eacute; um chamado coletivo para um mundo sustent&aacute;vel e inclusivo, acontecer&aacute; em Montreal, Canad&aacute;, de 09 a 14 de agosto.</p>
 
 <p><br />
 A Via Campesina v&ecirc; o F&oacute;rum Social Mundial (FSM) como um espa&ccedil;o importante para construir a unidade dos Movimentos sociais a n&iacute;vel mundial &ndash; os que lutam por justi&ccedil;a social, econ&ocirc;mica, cultural e pol&iacute;tica. Em Montreal, nossos delegados e delegadas v&atilde;o organizar e participar coletivamente de debates que incluem quest&otilde;es chaves como a Reforma Agr&aacute;ria, justi&ccedil;a clim&aacute;tica, pesquisas camponesas, alternativas ao sistema agroindustrial transnacional, soberania popular versus impunidade corporativa, juventude camponesa, o futuro da agricultura, entre outras.</p>
