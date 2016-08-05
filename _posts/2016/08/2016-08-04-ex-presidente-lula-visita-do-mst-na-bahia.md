@@ -4,7 +4,7 @@ tags: []
 title: "Ex presidente Lula visita assentamento do MST na Bahia \n"
 images_hd: //farm9.staticflickr.com/8705/28151438234_18cb9c7b14_b.jpg
 menu: lutas e mobilizações
-support_line: "A atividade envolveu cerca de 2500 trabalhadores e trabalhadoras Sem Terra, além de representações públicas estaduais, nacionais e de diversos segmentos da sociedade."
+support_line: "A atividade envolveu cerca de 2500 trabalhadores e trabalhadoras Sem Terra, além de representações públicas estaduais, nacionais e de diversos segmentos da sociedade"
 layout: post
 files:
   - link: //farm9.staticflickr.com/8696/28151437544_388219764a_b.jpg
@@ -64,17 +64,16 @@ Na ocasi&atilde;o, Lula falou sobre a import&acirc;ncia da luta da classe&nbsp;t
 <strong>Media&ccedil;&atilde;o do conflito entre a&nbsp;empresa Veracel e os Sem Terra</strong></p>
 
 <p><br />
-&quot;Lembro da minha vinda em 2005 na empresa de Eucalipto Veracel e o que&nbsp;eu disse aos empres&aacute;rios sobre as reivindica&ccedil;&otilde;es dos Sem Terra. Lembro&nbsp;das cr&iacute;ticas que a empresa me fez, quando eu disse que o movimento Sem Terra &eacute; um Movimento s&eacute;rio, de homens e de mulheres de bem, e que era&nbsp;preciso respeitar-los&quot;.</p>
+&quot;Lembro da minha vinda em 2005 na empresa de Eucalipto Veracel e o que&nbsp;eu disse aos empres&aacute;rios sobre as reivindica&ccedil;&otilde;es dos Sem Terra. Lembro&nbsp;das cr&iacute;ticas que a empresa me fez, quando eu disse que o movimento Sem Terra &eacute; um Movimento s&eacute;rio, de homens e de mulheres de bem, e que era&nbsp;preciso respeit&aacute;-los&quot;.</p>
 
 <p><br />
 &quot;As fam&iacute;lias obtiveram a terra, e o mais dignificante &eacute; que provaram&nbsp;com o resultado do trabalho que estavam certos, que valeu a pena&nbsp;qualquer sacrif&iacute;cio quando a luta &eacute; pela dignidade, quando &eacute; por&nbsp;melhores condi&ccedil;&otilde;es de vida para nossos filhos&quot;, afirmou.</p>
 
 <p><br />
-&quot;Aprendi que n&atilde;o ha nenhuma raz&atilde;o para que um homem ou uma mulher&nbsp;deixe de lutar, que deixe de acreditar e de perseverar&quot;.</p>
+&quot;Aprendi que n&atilde;o h&aacute; nenhuma raz&atilde;o para que um homem ou uma mulher&nbsp;deixe de lutar, que deixe de acreditar e de perseverar&quot;.</p>
 
 <p><br />
-Fruto da intermedia&ccedil;&atilde;o de Lula na &eacute;poca, se evitou um conflito entre a&nbsp;classe trabalhadora e as empresas transnacionais do eucalipto na&nbsp;regi&atilde;o, que poderia ter culminado como o ocorrido em Eldorados dos<br />
-Caraj&aacute;s em 1998. Com isso,&nbsp;assentou-se 720 fam&iacute;lias em 9 &aacute;reas de&nbsp;assentamentos na regi&atilde;o do extremo Sul da Bahia.</p>
+Fruto da intermedia&ccedil;&atilde;o de Lula na &eacute;poca, se evitou um conflito entre a&nbsp;classe trabalhadora e as empresas transnacionais do eucalipto na&nbsp;regi&atilde;o, que poderia ter culminado como o ocorrido em Eldorado dos Caraj&aacute;s em 1998. Com isso,&nbsp;assentou-se 720 fam&iacute;lias em 9 &aacute;reas de&nbsp;assentamentos na regi&atilde;o do extremo Sul da Bahia.</p>
 
 <figure class="image"><img alt="IMG_9151.JPG" height="467" src="//farm9.staticflickr.com/8801/28484694270_c79a29eb6b_b.jpg" width="700" />
 <figcaption></figcaption>
@@ -84,7 +83,7 @@ Caraj&aacute;s em 1998. Com isso,&nbsp;assentou-se 720 fam&iacute;lias em 9 &aac
 <strong>Riqueza da luta dos trabalhadores</strong></p>
 
 <p><br />
-Argurmentou que as fam&iacute;lias do movimento Sem Terra &eacute; exemplo do que &eacute; o&nbsp;povo brasileiro. &quot;Voc&ecirc;s ficam muito tempo embaixo de uma lona preta,&nbsp;com todas as dificuldades e resiste as a&ccedil;&otilde;es da classe burguesa que<br />
+Argumentou que as fam&iacute;lias do movimento Sem Terra &eacute; exemplo do que &eacute; o&nbsp;povo brasileiro. &quot;Voc&ecirc;s ficam muito tempo embaixo de uma lona preta,&nbsp;com todas as dificuldades e resiste as a&ccedil;&otilde;es da classe burguesa que<br />
 faz de tudo para dificultar a vida dos trabalhadores&quot;.</p>
 
 <p><br />
@@ -94,15 +93,12 @@ faz de tudo para dificultar a vida dos trabalhadores&quot;.</p>
 &quot;As pessoas querem paz, n&atilde;o querem tomar nada de ningu&eacute;m. N&oacute;s queremos&nbsp;o que &eacute; nosso. O direito a dignidade, o direito a vida, a dec&ecirc;ncia.</p>
 
 <p><br />
-&quot;Nos queremos que uma menina filha de um trabalhador possa ir pra&nbsp;universidade pra ser engenheira, pra ser m&eacute;dica, agronoma, n&atilde;o pra ser&nbsp;empregada domestica. Nos queremos que as pessoas evoluam, se eles<br />
-podem mandar os filhos deles fazer p&oacute;s gradua&ccedil;&atilde;o na fran&ccedil;a, por que o&nbsp;trabalhador n&atilde;o podem tamb&eacute;m?&quot;.</p>
-
-<p><br />
+&quot;Nos queremos que uma menina filha de um trabalhador possa ir pra&nbsp;universidade pra ser engenheira, pra ser m&eacute;dica, agr&ocirc;noma, n&atilde;o pra ser&nbsp;empregada domestica. Nos queremos que as pessoas evoluam, se eles<br />
+podem mandar os filhos deles fazer p&oacute;s gradua&ccedil;&atilde;o na Fran&ccedil;a, por que o&nbsp;trabalhador n&atilde;o podem tamb&eacute;m?&quot;.<br />
 <strong>Den&uacute;ncia contra o golpe&nbsp;</strong></p>
 
 <p><br />
-Afirmou que a elite brasileira, em conjunto com o capital&nbsp;internacional, est&atilde;o dando um golpe &agrave; democracia do pa&iacute;s, afim de&nbsp;implantar seus interesses. &quot;Est&atilde;o afastando a Predenta Dilma sem<br />
-nenhuma raz&atilde;o&quot;.</p>
+Afirmou que a elite brasileira, em conjunto com o capital&nbsp;internacional, est&atilde;o dando um golpe &agrave; democracia do pa&iacute;s, afim de&nbsp;implantar seus interesses. &quot;Est&atilde;o afastando a Presidenta Dilma sem nenhuma raz&atilde;o&quot;.</p>
 
 <p><br />
 &quot;Eles n&atilde;o est&atilde;o contra Dilma, ou contra o PT, est&atilde;o contra 54 milh&otilde;es&nbsp;de votos dos trabalhadores que elegeram a Presidenta&quot;, denunciou.</p>
