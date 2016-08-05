@@ -94,7 +94,9 @@ faz de tudo para dificultar a vida dos trabalhadores&quot;.</p>
 
 <p><br />
 &quot;Nos queremos que uma menina filha de um trabalhador possa ir pra&nbsp;universidade pra ser engenheira, pra ser m&eacute;dica, agr&ocirc;noma, n&atilde;o pra ser&nbsp;empregada domestica. Nos queremos que as pessoas evoluam, se eles<br />
-podem mandar os filhos deles fazer p&oacute;s gradua&ccedil;&atilde;o na Fran&ccedil;a, por que o&nbsp;trabalhador n&atilde;o podem tamb&eacute;m?&quot;.<br />
+podem mandar os filhos deles fazer p&oacute;s gradua&ccedil;&atilde;o na Fran&ccedil;a, por que o&nbsp;trabalhador n&atilde;o podem tamb&eacute;m?&quot;.</p>
+
+<p><br />
 <strong>Den&uacute;ncia contra o golpe&nbsp;</strong></p>
 
 <p><br />
