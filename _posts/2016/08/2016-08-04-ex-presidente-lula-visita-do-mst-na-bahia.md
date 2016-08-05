@@ -1,7 +1,7 @@
 ---
 date: "2016-08-04T17:11:50-03:00"
 tags: []
-title: "Ex presidente Lula visita do MST na Bahia \n"
+title: "Ex presidente Lula visita assentamento do MST na Bahia \n"
 images_hd: //farm9.staticflickr.com/8705/28151438234_18cb9c7b14_b.jpg
 menu: lutas e mobilizações
 support_line: "A atividade envolveu cerca de 2500 trabalhadores e trabalhadoras Sem Terra, além de representações públicas estaduais, nacionais e de diversos segmentos da sociedade."
@@ -40,6 +40,7 @@ files:
 created_date: "2016-08-04T17:36:34-03:00"
 published: true
 releated_posts: []
+section: featured-news
 
 ---
 <figure class="image"><img alt="IMG_9085.JPG" height="467" src="//farm9.staticflickr.com/8696/28151437544_388219764a_b.jpg" width="700" />
