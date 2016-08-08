@@ -2,7 +2,7 @@
 date: "2016-08-08T10:59:42-03:00"
 tags: []
 title: Caminhada reuniu mais de 200 organizações em Copacabana
-support_line: "Com a presença de mais 30 mil pessoas, a pauta principal da caminhada foi a oposição ao governo golpista de Michel Temer, os cortes de direitos da classe trabalhadora e a calamidade olímpica causada no Rio de Janeiro"
+support_line: "Com a presença de mais 30 mil pessoas, a pauta principal da caminhada foi a oposição ao governo golpista de Michel Temer, os cortes de direitos da classe trabalhadora e a calamidade olímpica "
 images_hd: //farm9.staticflickr.com/8265/28848489315_c47b798c6e_b.jpg
 menu: lutas e mobilizações
 layout: post
