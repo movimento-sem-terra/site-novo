@@ -4,21 +4,21 @@ tags: []
 title: Seminário em São Paulo discute ataques à legislação dos agrotóxicos
 support_line: "O objetivo é debater e denunciar para a sociedade os ataques que estão ocorrendo à lei 7802/89, que regula o uso de agrotóxicos no Brasil"
 menu: meio ambiente
-images_hd: //farm9.staticflickr.com/8665/28773372441_6f6bd01bea_b.jpg
+images_hd: //farm9.staticflickr.com/8855/28774207201_3c7159cab0_b.jpg
 layout: post
 files:
-  - link: //farm9.staticflickr.com/8665/28773372441_6f6bd01bea_b.jpg
-    thumbnail: //farm9.staticflickr.com/8665/28773372441_6f6bd01bea_t.jpg
-    medium: //farm9.staticflickr.com/8665/28773372441_6f6bd01bea_z.jpg
-    small: //farm9.staticflickr.com/8665/28773372441_6f6bd01bea_n.jpg
-    title: 10991140_936035056441377_4558094995880885407_n.jpg
-    $$hashKey: 0I7
   - link: //farm9.staticflickr.com/8729/28744319792_5fd11eae9a_b.jpg
     thumbnail: //farm9.staticflickr.com/8729/28744319792_5fd11eae9a_t.jpg
     medium: //farm9.staticflickr.com/8729/28744319792_5fd11eae9a_z.jpg
     small: //farm9.staticflickr.com/8729/28744319792_5fd11eae9a_n.jpg
     title: Arte-SEMINARIO-SP.jpg
     $$hashKey: 0IA
+  - link: //farm9.staticflickr.com/8855/28774207201_3c7159cab0_b.jpg
+    thumbnail: //farm9.staticflickr.com/8855/28774207201_3c7159cab0_t.jpg
+    medium: //farm9.staticflickr.com/8855/28774207201_3c7159cab0_z.jpg
+    small: //farm9.staticflickr.com/8855/28774207201_3c7159cab0_n.jpg
+    title: ec623d46cfa50503b90f5e9c1cda209e.jpg
+    $$hashKey: 0LD
 created_date: "2016-08-08T11:56:54-03:00"
 published: true
 releated_posts: []
