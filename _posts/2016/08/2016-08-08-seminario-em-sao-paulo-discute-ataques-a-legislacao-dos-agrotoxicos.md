@@ -36,7 +36,7 @@ No dia 12 de agosto, ser&aacute; realizado em S&atilde;o Paulo o debate Agrot&oa
 A atividade ser&aacute; realizada no &acirc;mbito da Comiss&atilde;o Especial de Fitossanit&aacute;rios da C&acirc;mara dos Deputados. A comiss&atilde;o &eacute; respons&aacute;vel por tratar do PL 6299/2002 e seus apensados. O principal deles &eacute; o PL 3200, chamado de PL do Veneno, que visa derrubar a Lei de Agrot&oacute;xicos e instituir a Lei de Defensivos Fitossanit&aacute;rios.</p>
 
 <p><br />
-Um dos deputados que luta contra a bancada ruralista nesta comiss&atilde;o &eacute; o Dep. Estadual Nilto Tatto, do PT. Ele &eacute; respons&aacute;vel pela organiza&ccedil;&atilde;o deste debate, que contar&aacute; ainda com a participa&ccedil;&atilde;o da Campanha Permanente Contra os Agrot&oacute;xicos e Pela Vida e o IDEC, entre outras entidades que promovem a luta contra os agrot&oacute;xicos.</p>
+Um dos deputados que luta contra a bancada ruralista nesta comiss&atilde;o &eacute; o Dep. Estadual Nilto Tatto, do PT. Ele &eacute; respons&aacute;vel pela organiza&ccedil;&atilde;o deste debate, que contar&aacute; ainda com a participa&ccedil;&atilde;o da Campanha Permanente Contra os Agrot&oacute;xicos e Pela Vida, o IDEC, a CUT, entre outras entidades que promovem a luta contra os agrot&oacute;xicos.</p>
 
 <p><br />
 <strong>Servi&ccedil;o</strong></p>
