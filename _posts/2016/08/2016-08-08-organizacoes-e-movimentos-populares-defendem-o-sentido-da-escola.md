@@ -154,7 +154,10 @@ Foi aberta uma consulta p&uacute;blica pelo site do Senado, no canal E-Cidadania
 <p><br />
 <strong>*</strong>&nbsp;<em>O MST entende que o&nbsp;projeto Escola Sem Partido cerceia a liberdade de manifesta&ccedil;&atilde;o do educador, &nbsp;subverte a atual ordem constitucional e impede o pluralismo de ideias e de concep&ccedil;&otilde;es pedag&oacute;gicas, al&eacute;m de negar a <span style="line-height: 20.8px;">laicidade do Estado prevista&nbsp;na Constitui&ccedil;&atilde;o de 88, a&nbsp;</span>liberdade de c&aacute;tedra e a possibilidade ampla de aprendizagem.</em></p>
 
-<p><span style="line-height: 20.8px;">Para acompanhar as a&ccedil;&otilde;es da Frente Nacional Escola sem Morda&ccedil;a, clique&nbsp;</span><a href="https://www.facebook.com/frenteescolasemmordaca/?fref=ts" style="line-height: 20.8px;">aqui</a><span style="line-height: 20.8px;">.</span><br />
+<p><span style="line-height: 20.8px;">Para acompanhar as a&ccedil;&otilde;es da Frente Nacional Escola sem Morda&ccedil;a, clique&nbsp;</span><a href="https://www.facebook.com/frenteescolasemmordaca/?fref=ts" style="line-height: 20.8px;">aqui</a><span style="line-height: 20.8px;">.</span></p>
+
+<p><br />
+O portal e-Cidadania, do Senado Federal, abriu&nbsp;consulta p&uacute;blica&nbsp;sobre o Programa&nbsp;Escola Sem Partido, acesse e vote <a href="https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=125666">aqui&nbsp;</a><br />
 <em>&nbsp;</em></p>
 
 <p><em>#EscolaSemMordaca</em></p>
