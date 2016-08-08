@@ -24,11 +24,14 @@ published: true
 releated_posts: []
 
 ---
+<p>&nbsp;</p>
+
 <figure class="image"><img alt="IMG-20160805-WA0026.jpg" height="394" src="//farm9.staticflickr.com/8265/28848489315_c47b798c6e_b.jpg" width="700" />
 <figcaption><em>Foto: Janelson Ferreira</em></figcaption>
 </figure>
 
-<p><em>Por Janelson Ferreira<br />
+<p><br />
+<em>Por Janelson Ferreira<br />
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
@@ -47,7 +50,12 @@ A manifesta&ccedil;&atilde;o destacou o processo golpista de afastamento da Pres
 De acordo com Joaqu&iacute;n Pi&ntilde;ero, da Dire&ccedil;&atilde;o Nacional do MST, &quot;o ato ganha import&acirc;ncia por reunir mais de 200 organiza&ccedil;&otilde;es de todo pa&iacute;s e demonstrar o cen&aacute;rio preocupante para a classe trabalhadora que vive o Brasil&quot;.</p>
 
 <p><br />
-Para o dirigente, al&eacute;m do retorno da pauta neoliberal, o MST faz a leitura de que o governo de Temer &eacute; marcado pela criminaliza&ccedil;&atilde;o dos movimentos sociais com a pris&atilde;o, por exemplos, de diversos camaradas sem-terra. &quot;Esse &eacute; o balan&ccedil;o do governo Temer: mais repress&atilde;o, mais privatiza&ccedil;&atilde;o, mais liberdade para o capital&quot;, concluiu.</p>
+Para o dirigente, al&eacute;m do retorno da pauta neoliberal, o MST faz a leitura de que o governo de Temer &eacute; marcado pela criminaliza&ccedil;&atilde;o dos movimentos sociais com a pris&atilde;o, por exemplos, de diversos camaradas sem-terra. &quot;Esse &eacute; o balan&ccedil;o do governo Temer: mais repress&atilde;o, mais privatiza&ccedil;&atilde;o, mais liberdade para o capital&quot;, concluiu.<br />
+&nbsp;</p>
+
+<figure class="image"><img alt="WhatsApp Image 2016-08-08 at 09.43.05.jpeg" height="466" src="//farm9.staticflickr.com/8324/28230897034_2e27fde669_b.jpg" width="700" />
+<figcaption>Foto: Pablo Vergara</figcaption>
+</figure>
 
 <p><br />
 As primeiras semanas do governo Temer demonstram qual ser&aacute; sua atua&ccedil;&atilde;o. Cortes na educa&ccedil;&atilde;o, como o Programa Ci&ecirc;ncias sem Fronteiras, em programas sociais, como o Minha Casa Minha Vida, envolvimento de ministros em casos de corrup&ccedil;&atilde;o, aproxima&ccedil;&atilde;o do Minist&eacute;rio das Rela&ccedil;&otilde;es Exteriores com os Estados Unidos, entre v&aacute;rios outros exemplos.</p>
