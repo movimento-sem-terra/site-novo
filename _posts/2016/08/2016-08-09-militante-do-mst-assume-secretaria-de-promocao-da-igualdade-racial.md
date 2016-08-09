@@ -31,7 +31,7 @@ releated_posts: []
 <em>Por Coletivo de Comunica&ccedil;&atilde;o do MST na Bahia</em></p>
 
 <p><br />
-Mulher, negra, militante Sem Terra e soci&oacute;loga. Essas s&atilde;o algumas caracter&iacute;sticas de Fabya dos Reis Santos que, ap&oacute;s atuar na coordena&ccedil;&atilde;o da Secretaria de Promo&ccedil;&atilde;o da Igualdade Racial (Sepromi-BA), na manh&atilde; desta segunda-feira (08), assumiu o cargo de secret&aacute;ria, substituindo Ver&aacute; L&uacute;cia Barbosa, tamb&eacute;m militante do MST, que realiza a fun&ccedil;&atilde;o desde 2015.</p>
+Mulher, negra, militante Sem Terra e soci&oacute;loga, essas s&atilde;o algumas caracter&iacute;sticas de Fabya dos Reis Santos. Ap&oacute;s atuar na coordena&ccedil;&atilde;o da Secretaria de Promo&ccedil;&atilde;o da Igualdade Racial (Sepromi-BA), na manh&atilde; desta segunda-feira (08), Fabya assumiu o cargo de secret&aacute;ria, substituindo Ver&aacute; L&uacute;cia Barbosa, tamb&eacute;m militante do MST e que realiza a fun&ccedil;&atilde;o desde 2015.</p>
 
 <p><br />
 A transmiss&atilde;o do cargo aconteceu na Assembleia Legislativa da Bahia (ALBA) em uma plen&aacute;ria que representava a pluralidade de sujeitos, identidades, movimentos e organiza&ccedil;&otilde;es populares que constroem a Sepromi.</p>
