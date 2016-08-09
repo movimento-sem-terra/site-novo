@@ -34,7 +34,7 @@ releated_posts: []
 
 ---
 <figure class="image"><img alt="Organizações de classe e movimentos sociais debatem impactos da PL Escola em Partido. (Foto Mídia Ninja).jpg" height="466" src="//farm9.staticflickr.com/8664/28777229841_ed20edee8d_b.jpg" width="700" />
-<figcaption></figcaption>
+<figcaption>Fotos: M&iacute;dia Ninja&nbsp;</figcaption>
 </figure>
 
 <p>&nbsp;</p>
