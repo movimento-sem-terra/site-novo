@@ -4,7 +4,7 @@ tags:
   - tag: Usina-Santa-Helena
   - tag: ocupação
   - tag: reforma-agrária
-title: "Em nota, MST se pronuncia sobre a suspensão do despejo de ocupação em Goiás"
+title: "Em nota, MST se pronuncia sobre a suspensão de despejo em Goiás"
 support_line: "Embora parcial e temporária, essa pequena vitória reafirma a importância da pressão popular para a realização da Reforma Agrária."
 menu: lutas e mobilizações
 images_hd: //farm9.staticflickr.com/8848/28260896303_c8112f53af_b.jpg
