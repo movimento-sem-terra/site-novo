@@ -33,7 +33,7 @@ releated_posts: []
 
 <p>&nbsp;</p>
 
-<p>Na manh&atilde; de hoje (8), as fam&iacute;lias que vivem no acampamento Quintino Lira, munic&iacute;pio de Irituia, foram atacadas por jagun&ccedil;os e pistoleiros.</p>
+<p>Na manh&atilde; de hoje (8), as fam&iacute;lias que vivem no acampamento Quintino Lira, munic&iacute;pio de Santa Luzia, foram atacadas por jagun&ccedil;os e pistoleiros.</p>
 
 <p><br />
 Portando armas de grosso calibre como submetralhadoras e espingardas de repeti&ccedil;&atilde;o,&nbsp; o grupo sequestrou a senhora Marizita, professora do acampamento, e os trabalhadores Chico Vieira e Chico Perna.</p>
