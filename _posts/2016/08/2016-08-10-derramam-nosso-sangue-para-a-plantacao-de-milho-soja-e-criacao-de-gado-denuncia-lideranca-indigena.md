@@ -43,7 +43,7 @@ releated_posts: []
 </figure>
 
 <p><br />
-<em>Por Lizely Borges<br />
+<em>Por Lizely Borges*<br />
 Da P&aacute;gina do MST </em></p>
 
 <p><br />
@@ -59,7 +59,8 @@ Para al&eacute;m da luta cotidiana pelo reconhecimento do Estado, da hist&oacute
 No entanto, segundo lideran&ccedil;as destes povos, neste per&iacute;odo se imp&otilde;e com mais for&ccedil;a, a amea&ccedil;a aos seus territ&oacute;rios pelas a&ccedil;&otilde;es do governo ileg&iacute;timo em exerc&iacute;cio, Michel Temer, e pela atua&ccedil;&atilde;o dos poderes legislativo e judici&aacute;rio, poderes alinhados aos interesses de grupos vinculados ao agroneg&oacute;cio, &agrave; minera&ccedil;&atilde;o e &agrave;s empresas multinacionais.</p>
 
 <p><br />
-&ldquo;Nesta data queremos visibilizar que o respeito aos povos ind&iacute;genas seja de fato realidade. Vivemos ainda a invisibilidade. Lutamos todo dia para mostrar que existimos. &Eacute; dia de comemorar nossa exist&ecirc;ncia, mas &eacute; dia de luta. Luta para que a pol&iacute;tica p&uacute;blica chegue &agrave; aldeia, para que sejamos vistos n&atilde;o como &iacute;ndios, mas como povos ind&iacute;genas na sua diversidade. Quando atacam nossos direitos, atacam a vida. E o maior de todos os ataques que vivemos agora &eacute; a disputa pelo territ&oacute;rio&rdquo;, relata a coordenadora executiva da Articula&ccedil;&atilde;o dos Povos Ind&iacute;genas do Brasil (APIB), S&ocirc;nia Guajajara.</p>
+&ldquo;Nesta data queremos visibilizar que o respeito aos povos ind&iacute;genas seja de fato realidade. Vivemos ainda a invisibilidade. Lutamos todo dia para mostrar que existimos. &Eacute; dia de comemorar nossa exist&ecirc;ncia, mas &eacute; dia de luta. Luta para que a pol&iacute;tica p&uacute;blica chegue &agrave; aldeia, para que sejamos vistos n&atilde;o como &iacute;ndios, mas como povos ind&iacute;genas na sua diversidade. Quando atacam nossos direitos, atacam a vida. E o maior de todos os ataques que vivemos agora &eacute; a disputa pelo territ&oacute;rio&rdquo;, relata a coordenadora executiva da Articula&ccedil;&atilde;o dos Povos Ind&iacute;genas do Brasil (APIB), S&ocirc;nia Guajajara.<br />
+&nbsp;</p>
 
 <figure class="image"><img alt="indigenas 3.jpg" height="467" src="//farm9.staticflickr.com/8682/28881486965_b0d03e0aa8_b.jpg" width="700" />
 <figcaption><em>Povos ind&iacute;genas participam da audi&ecirc;ncia e denunciam a viol&ecirc;ncia do Estado e a ofensiva do capital sobre seus territ&oacute;rios. Foto: M&iacute;dia NInja</em></figcaption>
@@ -75,7 +76,10 @@ Os povos ind&iacute;genas e quilombolas, extrativistas e pescadores artesanais a
 Mesmo j&aacute; declarada inconstitucional em 2004 pelo parecer do deputado Luiz Couto (PT- PE), ent&atilde;o relator da mat&eacute;ria na Comiss&atilde;o de Constitui&ccedil;&atilde;o e Justi&ccedil;a e Cidadania (CCJC), a PEC foi reapresentada em 2012 pelo deputado Osmar Seraglio (PMDB-PR) e aprovada na CCJC. Dois anos depois, em 2014, o mesmo deputado apresentou um substitutivo &agrave; PEC 215, com novas emendas e a inclus&atilde;o da possibilidade de reabertura de processos administrativos j&aacute; finalizados. &nbsp;</p>
 
 <p><br />
-&ldquo;Em 2013 mais de mil ind&iacute;genas ocuparam o Congresso para impedir a prova&ccedil;&atilde;o da PEC 215. Este foi um marco hist&oacute;rico. Foi a primeira vez que o plen&aacute;rio teve a representa&ccedil;&atilde;o verdadeira dos povos brasileiros. Em 2014 conseguimos arquivar a PEC, mas ela foi retomada com a legislativo de 2015. A primeira medida deles foi desarquiva-la. Aprova-la &eacute; decretar a morte dos povos ind&iacute;genas. E a gente sabe que isso faz parte de um acordo no Congresso Nacional entre Executivo e Legislativo, foi uma das moedas de troca na vota&ccedil;&atilde;o pelo impeachment, assim como os projetos de lei da minera&ccedil;&atilde;o, a flexibiliza&ccedil;&atilde;o do licenciamento ambiental para facilitar empreendimentos&rdquo;, denuncia Sonia. &nbsp;A PEC 215 est&aacute; sujeita &agrave; aprecia&ccedil;&atilde;o pelo Plen&aacute;rio a qualquer momento. &ldquo;Vamos continuar fazendo a luta para impedir que venha a plen&aacute;rio&rdquo;, complementa.</p>
+S&ocirc;nia relata que em 2013 mais de mil ind&iacute;genas ocuparam o Congresso para impedir a prova&ccedil;&atilde;o da PEC 215. &quot;Este foi um marco hist&oacute;rico. Foi a primeira vez que o plen&aacute;rio teve a representa&ccedil;&atilde;o verdadeira dos povos brasileiros.&nbsp;Em 2014 conseguimos arquivar a PEC, mas ela foi retomada com a legislativo de 2015. A primeira medida deles foi desarquiva-la. Aprova-la &eacute; decretar a morte dos povos ind&iacute;genas&quot;, salienta.&nbsp;&nbsp;</p>
+
+<p><br />
+Segundo denuncia&nbsp;a coordenadora da APIB, &nbsp;essas a&ccedil;&otilde;es fazem parte de um acordo no Congresso Nacional entre Executivo e Legislativo, foi uma das moedas de troca na vota&ccedil;&atilde;o pelo impeachment, assim como os projetos de lei da minera&ccedil;&atilde;o, a flexibiliza&ccedil;&atilde;o do licenciamento ambiental para facilitar empreendimentos.&nbsp;A PEC 215 est&aacute; sujeita &agrave; aprecia&ccedil;&atilde;o pelo Plen&aacute;rio a qualquer momento. &ldquo;Vamos continuar fazendo a luta para impedir que venha a plen&aacute;rio&rdquo;, complementa.</p>
 
 <p><br />
 Como proposta de altera&ccedil;&atilde;o da Constitui&ccedil;&atilde;o Federal, nos artigos 49 e 231, a PEC 215, para ser aprovada, necessita de voto favor&aacute;vel por tr&ecirc;s quintos dos deputados, em dois turnos. Ou seja, deve obter 308 votos em duas vota&ccedil;&otilde;es distintas.&nbsp;Depois de aprovada pela C&acirc;mara, a mat&eacute;ria segue em dois turnos no Senado. Ali precisa de votos de 49 senadores.</p>
