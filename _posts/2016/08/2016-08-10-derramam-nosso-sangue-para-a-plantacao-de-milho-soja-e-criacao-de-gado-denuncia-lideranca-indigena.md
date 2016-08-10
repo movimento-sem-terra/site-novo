@@ -140,3 +140,6 @@ As organiza&ccedil;&otilde;es, movimentos populares e povos tradicionais refor&c
 
 <p><br />
 &ldquo;N&atilde;o precisamos que ningu&eacute;m valide a nossa identidade, eu tenho a minha fam&iacute;lia, gera&ccedil;&otilde;es que validam. Projetos de morte como a PEC 215 tem que ser combatida. N&atilde;o aceitamos esta compreens&atilde;o. Os povos origin&aacute;rios j&aacute; estavam aqui quando as pessoas chegaram, constru&iacute;mos riqueza neste pais e n&atilde;o desfrutamos nada, desfrutamos a sarjeta e a viol&ecirc;ncia&rdquo;, diz a representante da Articula&ccedil;&atilde;o Nacional de Quilombos (ANQ), Maria de Fatima Batista Barros.</p>
+
+<p><br />
+<em>*Editado Por Iris Pacheco</em></p>
