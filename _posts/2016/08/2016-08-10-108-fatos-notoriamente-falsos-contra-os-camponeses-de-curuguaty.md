@@ -28,8 +28,7 @@ releated_posts: []
 <p><br />
 <img alt="Liberdade-Paraguai.tif" height="663" src="//farm8.staticflickr.com/7532/28280253604_e7971f87ca_b.jpg" width="700" /></p>
 
-<p><br />
-<em>Por Leonardo Wexell Severo *</em></p>
+<p><em>Por Leonardo Wexell Severo *</em></p>
 
 <p><br />
 O estupro jur&iacute;dico praticado pela &ldquo;Justi&ccedil;a&rdquo; do Paraguai contra os 11 camponeses presos pol&iacute;ticos de Marina Kue, em Curuguaty, provocou a en&eacute;rgica rea&ccedil;&atilde;o popular, assim como da equipe de advogados que entrou imediatamente com recurso de apela&ccedil;&atilde;o especial.</p>
