@@ -33,10 +33,13 @@ A abertura est&aacute; prevista para acontecer nesta quinta-feira (11), a partir
 O evento apresentar&aacute; para a sociedade soteropolitana uma diversidade de alimentos saud&aacute;veis e artesanatos oriundos dos acampamentos e assentamentos. Al&eacute;m disso, o MST montar&aacute; uma barraca com livros e produtos com os s&iacute;mbolos do Movimento e da luta pela terra no Brasil.</p>
 
 <p><br />
-Al&eacute;m disso, a programa&ccedil;&atilde;o estar&aacute; repleta de interven&ccedil;&otilde;es art&iacute;sticas e manifesta&ccedil;&otilde;es culturais, que est&atilde;o sendo preparadas para dialogar com a sociedade sobre o atual cen&aacute;rio pol&iacute;tico e denunciar o modelo de produ&ccedil;&atilde;o do agroneg&oacute;cio.</p>
+A programa&ccedil;&atilde;o estar&aacute; repleta de interven&ccedil;&otilde;es art&iacute;sticas e manifesta&ccedil;&otilde;es culturais, que est&atilde;o sendo preparadas para dialogar com a sociedade sobre o atual cen&aacute;rio pol&iacute;tico e denunciar o modelo de produ&ccedil;&atilde;o do agroneg&oacute;cio.</p>
 
 <p><br />
 O MST contar&aacute; com a participa&ccedil;&atilde;o de assentados e acampados de 10 regi&otilde;es do estado onde o Movimento est&aacute; organizado. Para equipe que est&aacute; coordenando a Feira, a garantia da participa&ccedil;&atilde;o destas regi&otilde;es oferecer&aacute; uma diversidade de produtos e uma ampla riqueza cultural.</p>
+
+<p><br />
+Confirme presen&ccedil;a e acompanhe a programa&ccedil;&atilde;o <a href="https://www.facebook.com/events/1574507539509496/">aqui</a></p>
 
 <p><br />
 <em>*Editado por Iris Pacheco</em></p>
