@@ -14,20 +14,22 @@ files:
     small: //farm9.staticflickr.com/8797/28894969035_521d3e9145_n.jpg
     title: curuguaty.jpg_1718483346.jpg
     $$hashKey: 0H6
-  - link: //farm9.staticflickr.com/8835/28610342250_2309a0d866_b.jpg
-    thumbnail: //farm9.staticflickr.com/8835/28610342250_2309a0d866_t.jpg
-    medium: //farm9.staticflickr.com/8835/28610342250_2309a0d866_z.jpg
-    small: //farm9.staticflickr.com/8835/28610342250_2309a0d866_n.jpg
-    title: Marina-kue_Report_Frontpage_original.jpg
-    $$hashKey: 0H9
+  - link: //farm8.staticflickr.com/7532/28280253604_e7971f87ca_b.jpg
+    thumbnail: //farm8.staticflickr.com/7532/28280253604_e7971f87ca_t.jpg
+    medium: //farm8.staticflickr.com/7532/28280253604_e7971f87ca_z.jpg
+    small: //farm8.staticflickr.com/7532/28280253604_e7971f87ca_n.jpg
+    title: Liberdade-Paraguai.tif
+    $$hashKey: 0W8
 created_date: "2016-08-10T14:25:32-03:00"
 published: true
 releated_posts: []
 
 ---
-<p>&nbsp;</p>
+<p><br />
+<img alt="Liberdade-Paraguai.tif" height="663" src="//farm8.staticflickr.com/7532/28280253604_e7971f87ca_b.jpg" width="700" /></p>
 
-<p><em>Por Leonardo Wexell Severo *</em></p>
+<p><br />
+<em>Por Leonardo Wexell Severo *</em></p>
 
 <p><br />
 O estupro jur&iacute;dico praticado pela &ldquo;Justi&ccedil;a&rdquo; do Paraguai contra os 11 camponeses presos pol&iacute;ticos de Marina Kue, em Curuguaty, provocou a en&eacute;rgica rea&ccedil;&atilde;o popular, assim como da equipe de advogados que entrou imediatamente com recurso de apela&ccedil;&atilde;o especial.</p>
