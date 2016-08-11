@@ -19,6 +19,7 @@ files:
 created_date: "2016-08-11T17:24:03-03:00"
 published: true
 releated_posts: []
+section: cover
 
 ---
 <figure class="image"><img alt="WhatsApp Image 2016-08-11 at 17.05.53.jpeg" height="394" src="//farm8.staticflickr.com/7577/28813845012_a273409b33_b.jpg" width="700" />
