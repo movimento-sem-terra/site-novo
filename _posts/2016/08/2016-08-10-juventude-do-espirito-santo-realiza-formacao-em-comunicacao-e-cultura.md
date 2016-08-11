@@ -36,7 +36,7 @@ releated_posts: []
 <em>Da P&aacute;gina do MST </em></p>
 
 <p><br />
-Compondo as atividades da Jornada da Juventude Sem Terra no estado do Esp&iacute;rito Santo, cerca de 60 jovens realizaram um curso de forma&ccedil;&atilde;o na tem&aacute;tica da comunica&ccedil;&atilde;o e da cultura. O curso aconteceu no Assentamento Nova Esperan&ccedil;a, em Santa Tereza, regi&atilde;o Serrana, durante os dias 05 a 07 de agosto.</p>
+Compondo as atividades da Jornada da Juventude Sem Terra no estado do Esp&iacute;rito Santo, cerca de 60 jovens realizaram um curso de forma&ccedil;&atilde;o na tem&aacute;tica da comunica&ccedil;&atilde;o e da cultura. O curso aconteceu no Assentamento Vale da Esperan&ccedil;a, em Santa Tereza, regi&atilde;o Serrana, durante os dias 05 a 07 de agosto.</p>
 
 <p><br />
 O encontro que contou com oficinas de m&uacute;sica, teatro, v&iacute;deo, literatura e r&aacute;dio, pautou o debate da democratiza&ccedil;&atilde;o da comunica&ccedil;&atilde;o e da cultura, envolvendo os jovens dos assentamentos e acampamentos da regi&atilde;o.</p>
