@@ -54,7 +54,7 @@ N&atilde;o &eacute; s&oacute; a proposta da agricultura que est&aacute; colocada
 <strong>Qual a diferen&ccedil;a entre o modelo de produ&ccedil;&atilde;o do capital e o modelo defendido pelo MST?</strong></p>
 
 <p><br />
-O agroneg&oacute;cio possui como principal base o lucro por meio da produ&ccedil;&atilde;o em grande escala para exporta&ccedil;&atilde;o. O agroneg&oacute;cio n&atilde;o produz alimento que vai para sociedade, para os trabalhadores. Pensam apenas no lucro das empresas, dos seus propriet&aacute;rios e dos bancos. Nossa vis&atilde;o &eacute; de produ&ccedil;&atilde;o de alimentos saud&aacute;veis que realmente cheguem &agrave; na&ccedil;&atilde;o. Existe uma popula&ccedil;&atilde;o que ainda passa fome no mundo e outros possuem grandes extens&otilde;es de terra que n&atilde;o s&atilde;o utilizadas.</p>
+O agroneg&oacute;cio possui como principal base o lucro por meio da produ&ccedil;&atilde;o em grande escala para exporta&ccedil;&atilde;o. N&atilde;o produz alimento para sociedade e para os trabalhadores. Pensam apenas no lucro das empresas, dos seus propriet&aacute;rios e dos bancos. Nossa vis&atilde;o &eacute; de produ&ccedil;&atilde;o de alimentos saud&aacute;veis que realmente cheguem &agrave; na&ccedil;&atilde;o. Existe uma popula&ccedil;&atilde;o que ainda passa fome no mundo e outros possuem grandes extens&otilde;es de terra que n&atilde;o s&atilde;o utilizadas.</p>
 
 <p><br />
 A diferen&ccedil;a principal no objetivo final. O nosso &eacute; alimentar o povo com qualidade, enquanto o agroneg&oacute;cio quer apenas lucrar, trazendo morte e a destrui&ccedil;&atilde;o da natureza e das pessoas.</p>
