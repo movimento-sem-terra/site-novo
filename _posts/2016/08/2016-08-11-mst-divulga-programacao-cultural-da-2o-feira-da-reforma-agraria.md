@@ -1,7 +1,7 @@
 ---
 date: "2016-08-11T17:19:09-03:00"
 tags: []
-title: MST divulga programação cultural da 2º Feira da Reforma Agrária
+title: MST divulga programação cultural da 2º Feira da Reforma Agrária na BA
 images_hd: //farm9.staticflickr.com/8585/28303708813_c75d9586f3_b.jpg
 menu: reforma agrária
 support_line: "Além da produção, o MST preparou uma programação cultural com diversos artistas populares da capital e dos assentamentos e acampamentos."
@@ -30,6 +30,7 @@ published: true
 releated_posts: []
 
 ---
+
 <p><img alt="IMG_7355.jpg" height="467" src="//farm9.staticflickr.com/8593/28633846550_9ff6516fb2_b.jpg" width="700" /></p>
 
 <p>&nbsp;</p>
