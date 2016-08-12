@@ -52,6 +52,10 @@ Segundo a dire&ccedil;&atilde;o do Movimento, a proposta inicial da Feira de tra
 <p><br />
 Estas quest&otilde;es apareceram diversas vezes nas falas realizadas no ato, em especial no posicionamento de Lucineia Dur&atilde;es, da dire&ccedil;&atilde;o estadual do MST, ao afirmar que quebrar os arames farpados significa romper com a ideia de subordina&ccedil;&atilde;o.</p>
 
+<p>&nbsp;</p>
+
+<p><img alt="_MG_7464.jpg" height="467" src="//farm9.staticflickr.com/8452/28319499264_41883aa53c_b.jpg" width="700" /></p>
+
 <p><br />
 <strong>Campo e cidade</strong></p>
 
@@ -75,6 +79,10 @@ Pensando nisso, o secret&aacute;rio de desenvolvimento rural, Jer&ocirc;nimo Rod
 
 <p><br />
 &ldquo;Temos a tarefa de incentivar e fortalecer a produ&ccedil;&atilde;o de alimentos saud&aacute;veis para assim, desenvolver um campo que inclua e garanta o crescimento dos sujeitos &eacute; nossa fun&ccedil;&atilde;o&rdquo;, concluiu o secret&aacute;rio.</p>
+
+<p>&nbsp;</p>
+
+<p><img alt="_MG_7517.jpg" height="400" src="//farm9.staticflickr.com/8574/28861792681_59ea05a887_b.jpg" width="600" /></p>
 
 <p><br />
 <strong>Alimentar &eacute; um ato pol&iacute;tico</strong></p>
