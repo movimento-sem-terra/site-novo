@@ -51,7 +51,7 @@ O espa&ccedil;o&nbsp;surgiu por iniciativa&nbsp;das fam&iacute;lias acampadas qu
 O espa&ccedil;o&nbsp;contou com a contribui&ccedil;&atilde;o das companheiras Ad&egrave;le Goliot e Clarissa Figueira do Comit&ecirc; de amigos do MST na Fran&ccedil;a e da Associa&ccedil;&atilde;o Fran&ccedil;a Am&eacute;rica Latina que vivenciaram por alguns dias, todo o processo organizativo e de luta do acampamento.</p>
 
 <p><br />
-&ldquo;A biblioteca &eacute; importante pois completa&nbsp;a experi&ecirc;ncia pr&aacute;tica da luta do MST, com o&nbsp;conhecimento te&oacute;rico, a&nbsp;educa&ccedil;&atilde;o e a forma&ccedil;&atilde;o que s&atilde;o fatores fundamentais&nbsp;para a perman&ecirc;ncia na luta.</p>
+&ldquo;A biblioteca &eacute; importante pois completa&nbsp;a experi&ecirc;ncia pr&aacute;tica da luta do MST, com o&nbsp;conhecimento te&oacute;rico, a&nbsp;educa&ccedil;&atilde;o e a forma&ccedil;&atilde;o que s&atilde;o fatores fundamentais&nbsp;para a perman&ecirc;ncia na luta&quot;, frisou&nbsp;<span style="line-height: 20.8px;">Goliot.</span></p>
 
 <p><br />
 Os acampados agradecem as doa&ccedil;&otilde;es e o apoio que&nbsp;recebido de toda comunidade,&nbsp;e convidam para contribui&ccedil;&atilde;o de mais material did&aacute;tico para composi&ccedil;&atilde;o do acervo&nbsp;que tamb&eacute;m ser&aacute; destinado para cria&ccedil;&atilde;o de novas bibliotecas comunit&aacute;rias nos assentamentos e acampamentos da Reforma Agr&aacute;ria.</p>
