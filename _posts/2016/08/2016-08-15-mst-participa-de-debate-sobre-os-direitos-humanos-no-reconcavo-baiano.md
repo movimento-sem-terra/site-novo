@@ -21,7 +21,8 @@ releated_posts: []
 <p><br />
 <img alt="5f62a240-a9ea-4d15-be6a-9838d5471188.jpg" height="463" src="//farm9.staticflickr.com/8193/28926051081_a89546b853_b.jpg" width="700" /><br />
 <br />
-<em>Por Coletivo de Comunica&ccedil;&atilde;o do MST na Bahia</em></p>
+<em>Por Coletivo de Comunica&ccedil;&atilde;o do MST na Bahia<br />
+Da P&aacute;gina do MST</em></p>
 
 <p><br />
 Na &uacute;ltima quarta-feira (10), o Centro de Artes Humanidades e Letras (CAHL) da Universidade Federal do Rec&ocirc;ncavo Baiano (UFRB), em Cachoeira, foi palco de uma mesa de debate sobre os movimentos sociais e os direitos humanos.</p>
