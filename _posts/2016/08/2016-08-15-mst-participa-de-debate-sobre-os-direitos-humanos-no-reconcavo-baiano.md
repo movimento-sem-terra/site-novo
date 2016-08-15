@@ -39,7 +39,7 @@ A m&iacute;stica e a simbologia da luta pela terra marcaram a atividade quando 4
 De acordo com Leonice Rocha, da dire&ccedil;&atilde;o estadual do MST, o espa&ccedil;o foi importante para construir, junto &agrave; universidade, uma linha de pensamento comum acerca da atual conjuntura e avan&ccedil;ar na unidade de classe.</p>
 
 <p><br />
-&ldquo;Nosso desafio neste contexto &eacute; sermos os protagonistas das lutas. Sem recuar, em momento algum, dos princ&iacute;pios que nos conectam quanto classe&rdquo;, destacou.</p>
+&ldquo;Nosso desafio neste contexto &eacute; sermos os protagonistas das lutas. Sem recuar, em momento algum, dos princ&iacute;pios que nos conectam como classe&rdquo;, destacou.</p>
 
 <p><br />
 A atividade foi resultado final da disciplina de Direitos Humanos, do curso de Servi&ccedil;o Social, organizado pelos discentes de direitos humanos e pela professora Dra. Rosen&aacute;ria Ferraz.</p>
