@@ -57,7 +57,7 @@ A <span style="line-height: 20.8px;">&nbsp;atividade contou com a milit&acirc;nc
 Os militantes denunciaram o racismo como instrumento opressor e ideol&oacute;gico legitimado nas rela&ccedil;&otilde;es do sistema capitalista. Os trabalhadores tamb&eacute;m&nbsp;pautaram a Reforma Agr&aacute;ria Popular como instrumento de luta para constru&ccedil;&atilde;o de uma sociedade diferente.</p>
 
 <p><br />
-Marcos Rezende, do Conselho de Entidades Negras (CEN), disse que o MST est&aacute; dando continuidade a uma luta que come&ccedil;ou h&aacute; 218 anos atr&aacute;s com a Revolta de B&uacute;zios e tantos outros m&aacute;rtires.</p>
+Marcos Rezende, do Coletivo&nbsp;de Entidades Negras (CEN), disse que o MST est&aacute; dando continuidade a uma luta que come&ccedil;ou h&aacute; 218 anos atr&aacute;s com a Revolta de B&uacute;zios e tantos outros m&aacute;rtires.</p>
 
 <p><br />
 Para ele:&nbsp;&quot;a lei de 1950 &nbsp;privou os negros de adquirir terra, pois esse direito foi passado aos &lsquo;bem nascidos&rsquo; e a Reforma Agr&aacute;ria, desde ent&atilde;o foi inviabilizada, por isso, estamos em luta contra essa viol&ecirc;ncia&rdquo;, explicou.</p>
@@ -66,7 +66,7 @@ Para ele:&nbsp;&quot;a lei de 1950 &nbsp;privou os negros de adquirir terra, poi
 J&aacute; Gilberto Leal&nbsp;da Coordena&ccedil;&atilde;o Nacional de Entidades Negras (Conen), acredita que devemos continuar nossa luta contra a opress&atilde;o e o coronelismo, que infelizmente existem em nossos dias.</p>
 
 <figure class="image"><img alt="_MG_7929.jpg" height="467" src="//farm9.staticflickr.com/8368/28718722460_312e8da3af_b.jpg" width="700" />
-<figcaption>&Acirc;ngela Guimar&atilde;es, representante da UNEGRO</figcaption>
+<figcaption>Dandara, representante do CONEN</figcaption>
 </figure>
 
 <p><br />
