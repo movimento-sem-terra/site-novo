@@ -70,3 +70,6 @@ A atividade teve como objetivo apresentar uma pauta estruturante para as escolas
 
 <p><br />
 Durante a semana da VII Jornada, os jovens produziram faixas e cartazes contra a municipaliza&ccedil;&atilde;o das escolas Itinerantes, contra o fechamento das escolas do campo, e tamb&eacute;m denunciaram os malef&iacute;cios dos agrot&oacute;xicos.</p>
+
+<p><br />
+<em>*Editado por Iris Pacheco</em></p>
