@@ -3,7 +3,7 @@ date: "2016-08-15T14:59:53-03:00"
 tags: []
 title: "Paola Carosella: “O Estado não incentiva a agricultura orgânica o suficiente”"
 support_line: Cozinheira do Masterchef participou de debate sobre os PLs que visam facilitar a introdução de novos agrotóxicos
-images_hd: //farm9.staticflickr.com/8623/28972973486_83ab05a2ac_b.jpg
+images_hd: //farm9.staticflickr.com/8643/28719730610_a50a94b26c_b.jpg
 menu: agricultura camponesa
 layout: post
 files:
@@ -13,18 +13,12 @@ files:
     small: //farm9.staticflickr.com/8698/28388223253_23dce4f164_n.jpg
     title: paola.jpg
     $$hashKey: 0EY
-  - link: //farm9.staticflickr.com/8623/28972973486_83ab05a2ac_b.jpg
-    thumbnail: //farm9.staticflickr.com/8623/28972973486_83ab05a2ac_t.jpg
-    medium: //farm9.staticflickr.com/8623/28972973486_83ab05a2ac_z.jpg
-    small: //farm9.staticflickr.com/8623/28972973486_83ab05a2ac_n.jpg
-    title: images1.jpg
-    $$hashKey: 0F1
-  - link: //farm9.staticflickr.com/8644/28388416323_17caae7ceb_b.jpg
-    thumbnail: //farm9.staticflickr.com/8644/28388416323_17caae7ceb_t.jpg
-    medium: //farm9.staticflickr.com/8644/28388416323_17caae7ceb_z.jpg
-    small: //farm9.staticflickr.com/8644/28388416323_17caae7ceb_n.jpg
+  - link: //farm9.staticflickr.com/8643/28719730610_a50a94b26c_b.jpg
+    thumbnail: //farm9.staticflickr.com/8643/28719730610_a50a94b26c_t.jpg
+    medium: //farm9.staticflickr.com/8643/28719730610_a50a94b26c_z.jpg
+    small: //farm9.staticflickr.com/8643/28719730610_a50a94b26c_n.jpg
     title: 13892153_1090712991036208_5198791104159550953_n.jpg
-    $$hashKey: 0F4
+    $$hashKey: 0L6
 created_date: "2016-08-15T15:15:13-03:00"
 published: true
 releated_posts: []
@@ -96,8 +90,9 @@ Daniel Gaio, secret&aacute;rio nacional de Meio Ambiente da Central &Uacute;nica
 
 <p>&nbsp;</p>
 
-<p><img alt="13892153_1090712991036208_5198791104159550953_n.jpg" height="505" src="//farm9.staticflickr.com/8644/28388416323_17caae7ceb_b.jpg" width="700" /><br />
-<br />
+<p><img alt="13892153_1090712991036208_5198791104159550953_n.jpg" height="417" src="//farm9.staticflickr.com/8643/28719730610_a50a94b26c_b.jpg" width="700" /></p>
+
+<p><br />
 <strong>Fitossanit&aacute;rios</strong></p>
 
 <p><br />
@@ -125,4 +120,4 @@ Bortoletto afirma que a ideia de concentrar o processo de libera&ccedil;&atilde;
 A reportagem entrou em contato com o deputado Covatti Filho para comentar o teor do projeto, mas n&atilde;o obteve retorno.</p>
 
 <p><br />
-<strong>Edi&ccedil;&atilde;o: </strong>Camila Rodrigues da Silva</p>
+<em><strong>Edi&ccedil;&atilde;o: </strong>Camila Rodrigues da Silva</em></p>
