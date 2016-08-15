@@ -21,7 +21,6 @@ releated_posts: []
 <p><br />
 <img alt="monsanto-malvinas.jpg" height="438" src="//farm9.staticflickr.com/8747/28929613561_96f656a6dc_b.jpg" width="700" /><br />
 <br />
-<br />
 <em>Por Mar&iacute;a Julia Gim&eacute;nez<br />
 Do Brasil de Fato</em></p>
 
