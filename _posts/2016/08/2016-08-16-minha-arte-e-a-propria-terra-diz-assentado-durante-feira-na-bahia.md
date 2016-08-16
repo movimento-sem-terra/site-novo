@@ -79,7 +79,3 @@ Hoje, quando Amilton e sua companheira Rosimeire exp&otilde;em suas obras de art
 
 <p><br />
 No assentamento onde mora&nbsp;Amilton possui um galp&atilde;o conhecido por todos. Dizem que ele&nbsp;faz&nbsp;&ldquo;milagres&rdquo; com as m&atilde;os, que transforma&nbsp;terra em arte e arte em poesia.</p>
-
-<p>&nbsp;</p>
-
-<p>&ldquo;Eu quero que as pessoas do mundo tenham paz e vivessem uns para os outros, como irm&atilde;os&rdquo;, concluiu ao refletir sobre a necessidade de se construir uma sociedade baseada nos valores da coletividade.</p>
