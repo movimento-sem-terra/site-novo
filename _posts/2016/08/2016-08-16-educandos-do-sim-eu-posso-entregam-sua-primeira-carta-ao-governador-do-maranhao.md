@@ -32,6 +32,7 @@ releated_posts: []
 ---
 <p><br />
 <img alt="13962505_1189832101068094_6810530935329082145_n.jpg" height="463" src="//farm9.staticflickr.com/8354/28413029973_b7d342916c_b.jpg" width="700" /><br />
+<br />
 <em>Por Juliana Adriano<br />
 Da P&aacute;gina do MST</em></p>
 
