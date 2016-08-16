@@ -6,7 +6,7 @@ tags:
   - tag: terra
 title: "“Minha arte é a própria terra”, diz assentado durante Feira na Bahia"
 images_hd: //farm9.staticflickr.com/8229/28925633812_555064c10e_b.jpg
-support_line: "No assentamento onde mora Amilton possui um galpão conhecido por todos. Dizem que ele faz “milagres” com as mãos, que transforma terra em arte e arte em poesia. "
+support_line: "No assentamento onde mora Amilton possui um galpão conhecido por todos. Dizem que ele faz “milagres” com as mãos, que transforma terra em arte e arte em poesia"
 menu: "educação, cultura e comunicação"
 layout: post
 files:
@@ -39,7 +39,8 @@ releated_posts: []
 
 <p>&nbsp;</p>
 
-<p><em>Por Coletivo de Comunica&ccedil;&atilde;o do MST na Bahia</em></p>
+<p><em>Por Coletivo de Comunica&ccedil;&atilde;o do MST na Bahia<br />
+Da P&aacute;gina do MST</em></p>
 
 <p><br />
 Para <span style="line-height: 20.8px;">Amilton Soares Rocha Oleiro:&nbsp;</span>&ldquo;O conhecimento vem da terra. Do profundo da terra que nos permite&nbsp;transformar&nbsp;barro em arte&quot;.</p>
