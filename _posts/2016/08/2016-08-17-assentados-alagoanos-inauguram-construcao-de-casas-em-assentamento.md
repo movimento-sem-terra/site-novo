@@ -26,6 +26,7 @@ releated_posts: []
 ---
 <p><br />
 <img alt="IMG_0608.JPG" height="467" src="//farm9.staticflickr.com/8331/29012825136_5363405df1_b.jpg" width="700" /><br />
+<br />
 <em>Por Gustavo Marinho<br />
 Da P&aacute;gina do MST</em></p>
 
