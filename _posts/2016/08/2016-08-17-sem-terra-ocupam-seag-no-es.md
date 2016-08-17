@@ -24,10 +24,10 @@ releated_posts: []
 
 <p>&nbsp;</p>
 
-<p>Na manh&atilde;&nbsp;dessa quarta-feira (17), aproximadamente 1000 participantes da II Jornada Campo e Cidade, ocuparam a Secretaria de Estado da Agricultura, Abastecimento, Aquicultura e Pesca (Seag)&nbsp;no Esp&iacute;rito Santo.<br />
+<p>Na manh&atilde;&nbsp;dessa quarta-feira (17), aproximadamente 1000 participantes da II Jornada Campo e Cidade, ocuparam a Secretaria de Estado da Agricultura, Abastecimento, Aquicultura e Pesca (Seag), no Esp&iacute;rito Santo.<br />
 &nbsp;</p>
 
-<p>Os manifestantes permaneceram por cerca de uma hora na Seag, em seguida seguiram para o&nbsp;Pal&aacute;cio Fonte Grande onde foram recebidos por uma comiss&atilde;o&nbsp;formada por&nbsp;representantes do governo.</p>
+<p>Os manifestantes permaneceram por toda manh&atilde; na Seag, onde foram mantidos aprisionados por policiais. Por volta das 15h, seguiram para o&nbsp;Pal&aacute;cio Fonte Grande onde foram recebidos por uma comiss&atilde;o&nbsp;formada por&nbsp;representantes do governo.</p>
 
 <p><br />
 <span style="line-height: 20.8px;">Os trabalhadores reivindicaram</span><span style="line-height: 20.8px;">&nbsp;o posicionamento do secret&aacute;rio</span><span style="line-height: 20.8px;">, Octaciano Neto, em rela&ccedil;&atilde;o as pautas expostas durante a I Jornada. Segundo a organiza&ccedil;&atilde;o da Jornada: &quot;a</span>&nbsp;expectativa &eacute; de que, desta vez, o governador do estado, Paulo&nbsp;Hartung&nbsp;quebre sua neglig&ecirc;ncia hist&oacute;ria com os coletivos organizados em favor da agricultura familiar. Os militantes exigem ser&nbsp;recebidos dignamente - n&atilde;o da forma desrespeitosa como&nbsp;aconteceu em abril, ap&oacute;s quase um ano de solicita&ccedil;&otilde;es, em que o governador permaneceu apenas por poucos minutos na sala e n&atilde;o se comprometeu de fato com nenhuma pauta reivindicada &ndash; e terem suas pautas, urgentes, acolhidas pelo chefe do governo estadual&quot;.</p>
