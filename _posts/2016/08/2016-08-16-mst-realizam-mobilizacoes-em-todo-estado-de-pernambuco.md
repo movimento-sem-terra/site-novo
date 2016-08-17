@@ -1,7 +1,7 @@
 ---
 date: "2016-08-16T13:49:34-03:00"
 tags: []
-title: MST realizam mobilizações em todo estado de Pernambuco
+title: MST realiza mobilizações em todo estado de Pernambuco
 support_line: "Convocada com o caráter de denunciar o ataque à democracia no país por meio do golpe no país, o MST denuncia o governo golpista de Michel Temer"
 images_hd: //farm9.staticflickr.com/8123/29026907025_80956828cb_b.jpg
 menu: lutas e mobilizações
