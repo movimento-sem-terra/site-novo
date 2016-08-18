@@ -46,7 +46,7 @@ releated_posts: []
 <img alt="DSC_0186-1024x680.jpg" height="465" src="//farm9.staticflickr.com/8374/29016919116_f3ca5b34dd_b.jpg" width="700" /><br />
 <br />
 <em>Por Michele Torinelli<br />
-Da Rede Livre</em></p>
+Da Vida Boa</em></p>
 
 <p><br />
 Munic&iacute;pio da Lapa, Paran&aacute;. Cerca de 150 fam&iacute;lias habitam uma &aacute;rea de mais de tr&ecirc;s mil hectares. Antigamente essa terra pertencia a uma pessoa s&oacute;, o Bar&atilde;o de Serro Azul, e depois foi parar nas m&atilde;os de uma ind&uacute;stria de cer&acirc;mica. O Movimento dos Trabalhadores Rurais Sem Terra (MST) descobriu que a empresa tinha uma grande d&iacute;vida com a Uni&atilde;o e ocupou a terra em 1999, reivindicando que fosse destinada &agrave; reforma agr&aacute;ria. Eram trinta fam&iacute;lias debaixo de lona preta. E, mesmo sob conjuntura desfavor&aacute;vel, com Jaime Lerner no governo do estado e Fernando Henrique Cardoso na presid&ecirc;ncia, em poucos meses a terra foi conquistada.</p>
@@ -181,3 +181,9 @@ Mas a conjuntura atual n&atilde;o &eacute; nada favor&aacute;vel: o fato &eacute
 
 <p><br />
 O assentamento Contestado &eacute; modelo dessa luta, exemplo n&atilde;o s&oacute; da mudan&ccedil;a estrutural que a sociedade precisa por meio da reforma agr&aacute;ria, mas da constru&ccedil;&atilde;o de um modelo de organiza&ccedil;&atilde;o social calcado na coopera&ccedil;&atilde;o, na ecologia e na emancipa&ccedil;&atilde;o humana &ndash; princ&iacute;pios defendidos e aplicados por meio da agroecologia.</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>* Tamb&eacute;m dispon&iacute;vel na p&aacute;gina <a href="http://vidaboa.redelivre.org.br/">Vida Boa</a></p>
