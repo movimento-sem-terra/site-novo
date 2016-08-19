@@ -93,4 +93,4 @@ De acordo com Evanildo Costa, tamb&eacute;m da dire&ccedil;&atilde;o nacional do
 <p><br />
 Tendo estes elementos como base, a dire&ccedil;&atilde;o do Movimento afirmou que a Feira da Reforma Agr&aacute;ria ser&aacute; realizada anualmente e no decorrer do ano, as grandes regi&otilde;es tem como tarefa, mobilizar a sociedade em torno da atividade nas cidades polos</p>
 
-<p>*Editado por Iris Pacheco</p>
+<p><em>*Editado por Iris Pacheco</em></p>
