@@ -27,69 +27,85 @@ releated_posts: []
 
 <p>&nbsp;</p>
 
-<p>N&oacute;s, movimentos de trabalhadores do campo e entidades abaixo assinados, viemos a p&uacute;blico alertar &agrave; sociedade em geral, &agrave;s empresas e o poder p&uacute;blico sobre as amea&ccedil;as veiculadas no dia 19 de julho pela imprensa de que o governo golpista e ileg&iacute;timo do presidente em exerc&iacute;cio, Michel Temer, e sua base de apoio planejam alterar a legisla&ccedil;&atilde;o para que estrangeiros possam adquirir, sem limites, terras no pa&iacute;s.</p>
+<p>Cerca de 150 educadores ligados &agrave; entidades do campo, movimentos populares e sindicais se reuniram no V FoFEC (F&oacute;rum Fluminense de Educa&ccedil;&atilde;o do Campo), que aconteceu no &uacute;ltimo dia 6 de agosto na Escola Municipal Sargento Jo&atilde;o D&eacute;lio em Duque de Caxias no Rio de Janeiro. &nbsp;</p>
 
 <p><br />
-Est&aacute; na pauta do Congresso Nacional o PL 2289/2007, de autoria de Beto Faro (PT/PA), que regulamenta o Art.190 da Constitui&ccedil;&atilde;o Federal no que se refere &agrave; aquisi&ccedil;&atilde;o ou arrendamento de propriedade rural por pessoa f&iacute;sica ou jur&iacute;dica estrangeira. A Comiss&atilde;o de Agricultura, Pecu&aacute;ria e Abastecimento Rural da C&acirc;mara de</p>
+O FoFEC teve o objetivo de reunir o ac&uacute;mulo de experi&ecirc;ncias estrat&eacute;gicas das comunidades camponesas e tradicionais com a finalidade de consolidar a educa&ccedil;&atilde;o do campo como realidade efetiva que atenda &agrave;s necessidades dos sujeitos diversos que vivem da terra, dos rios e das florestas.</p>
 
 <p><br />
-Deputados, composta majoritariamente pela bancada ruralista, somou a este projeto o PL 4059/2012. Contr&aacute;rio ao primeiro projeto de lei, o PL 4059 libera a aquisi&ccedil;&atilde;o irrestrita de terras para o capital estrangeiro.</p>
+Ao final do encontro os grupos presentes lan&ccedil;aram uma carta aberta em que , dentre outras coisas, criticam o Projeto Escola Sem Partido e atual governo comandando interinamente por Michel Temer.</p>
 
 <p><br />
-Atualmente, a compra de terra por estrangeiros encontra limites. &Eacute; poss&iacute;vel a aquisi&ccedil;&atilde;o de at&eacute; tr&ecirc;s m&oacute;dulos rurais, sem qualquer condicionalidade. Acima deste n&uacute;mero &eacute; necess&aacute;ria a aprova&ccedil;&atilde;o da compra pelo Estado Brasileiro, com limite de 50 m&oacute;dulos para pessoa f&iacute;sica e 100 para pessoa jur&iacute;dica. &nbsp;</p>
-
-<p><br />
-A PL 4059/12 visa retirar estas restri&ccedil;&otilde;es. De grande interesse da bancada ruralista, o PL deve ser submetido &agrave; vota&ccedil;&atilde;o em regime de urg&ecirc;ncia nos pr&oacute;ximos dias.</p>
-
-<p><br />
-Vender terras p&uacute;blicas significa vender biodiversidade, &aacute;gua, bens naturais, subsolo e o controle de nosso territ&oacute;rio ao capital estrangeiro - este que n&atilde;o tem nenhuma identidade e compromisso com os interesses do povo brasileiro. A venda dessas terras vai beneficiar somente o grande capital nacional e transnacional. &nbsp;</p>
-
-<p><br />
-Isso significa nenhum benef&iacute;cio para agricultura do pa&iacute;s, para a produ&ccedil;&atilde;o de alimentos saud&aacute;veis, para a preserva&ccedil;&atilde;o dos recursos naturais, ou para nossa economia. Ao mesmo tempo em que abre a possibilidade de compra ilimitada pelos estrangeiros, temos o direito a terra negado &agrave; milh&otilde;es de brasileiros.</p>
-
-<p><br />
-O Ministro da Agricultura Blairo Maggi (PP) justificou que a aliena&ccedil;&atilde;o de terras ao capital estrangeiro permitir&aacute; que os bancos estrangeiros financiem a lavoura dos grandes propriet&aacute;rios, e em caso de preju&iacute;zo, eles teriam direito a ficar com a terra. &nbsp;Sabemos que o sistema financeiro nacional tem oferecido cr&eacute;dito suficiente para todas as atividades do agroneg&oacute;cio. Sabemos tamb&eacute;m que a acumula&ccedil;&atilde;o de terras e recursos naturais &eacute; estrat&eacute;gica para o ac&uacute;mulo ilimitado pelo capital.</p>
-
-<p><br />
-Conclamamos ao povo brasileiro, o Itamaraty e os parlamentares progressistas que ajudem a derrubar integralmente o PL 4059/2012, apoiado por um governo golpista e tempor&aacute;rio e que atuemos para atualizar a Lei 5709/1971 de acordo com a realidade agr&aacute;ria e pol&iacute;tica do pa&iacute;s. &nbsp;Ajudem a defender a soberania nacional.</p>
-
-<p><br />
-Alertamos aos potenciais compradores de terras do capital estrangeiro que, n&oacute;s, os movimentos de trabalhadores/as do campo, n&atilde;o admitiremos essa possibilidade e, em caso de se consolidar a medida &lsquo;vende-p&aacute;tria&rsquo; do governo golpista, transformaremos essas &aacute;reas em prioridade n&uacute;mero um de nossas ocupa&ccedil;&otilde;es, para destin&aacute;-las &agrave; reforma agr&aacute;ria, como determina a Constitui&ccedil;&atilde;o brasileira.</p>
+&quot;Declaramos que nos posicionamos contra o atual governo federal, golpista e inconstitucional, que trabalha pela retirada de direitos da classe trabalhadora, que tem como pol&iacute;tica para o campo a hegemoniza&ccedil;&atilde;o e a amplia&ccedil;&atilde;o do agroneg&oacute;cio &ndash; modelo que gera doen&ccedil;a e morte para a terra, os seres humanos e o ambiente &ndash; assim como repudiamos projetos que firam a autonomia das escolas p&uacute;blicas e de seus educadores, como a &ldquo;Escola Sem Partido&rdquo; e seus similares&quot;, diz um trecho do documento.&nbsp;</p>
 
 <p>&nbsp;</p>
 
-<p>Por esta raz&atilde;o, os movimentos populares e organiza&ccedil;&otilde;es do campo denunciam a a&ccedil;&atilde;o da bancada ruralista e do ileg&iacute;timo presidente Michel Temer em desnacionalizar a terra brasileira e comprometer os bens naturais em raz&atilde;o do lucro. Esperamos contar com ades&atilde;o de demais movimentos e setores da sociedade na assinatura desta nota e no empenho comum nas a&ccedil;&otilde;es em defesa do territ&oacute;rio nacional.</p>
+<p>Leia abaixo a carta na &iacute;ntegra e veja aqui o v&iacute;deo produzido pelo Coletivo Luta em Foco sobre o encontro.&nbsp;</p>
 
 <p><br />
-Em defesa de nosso territ&oacute;rio a servi&ccedil;o dos interesses do povo brasileiro! Pela soberania da terra e do alimento pelo povo brasileiro!</p>
+18 anos na Luta por Direitos da Educa&ccedil;&atilde;o do Campesinato Fluminense</p>
 
 <p><br />
-Contra as medidas do governo golpista, que s&oacute; defende o lucro e o interesse do capital estrangeiro.</p>
+Carta Aberta V FOFEC</p>
 
 <p><br />
-Bras&iacute;lia, 04 de agosto de 2016.</p>
+N&oacute;s, participantes do V F&oacute;rum Fluminense de Educa&ccedil;&atilde;o do Campo, reunidos na Escola Municipal&nbsp;Sargento Jo&atilde;o D&eacute;lio, no munic&iacute;pio de Duque de Caxias (RJ), no dia 06 de agosto de 2016, conclamamos a&nbsp;todos os movimentos sociais do campo e da cidade para, de forma mais incisiva, lutarmos pelos nossos&nbsp;direitos, a fim de&nbsp;construir uma Educa&ccedil;&atilde;o na perspectiva da emancipa&ccedil;&atilde;o humana. Declaramos que nos posicionamos contra o atual governo federal, golpista e inconstitucional, que trabalha pela retirada de&nbsp;direitos da classe trabalhadora, que tem como pol&iacute;tica para o campo a hegemoniza&ccedil;&atilde;o e a amplia&ccedil;&atilde;o do&nbsp;agroneg&oacute;cio &ndash; modelo que gera doen&ccedil;a e morte para a terra, os seres humanos e o ambiente &ndash; assim como&nbsp;repudiamos projetos que firam a autonomia das escolas p&uacute;blicas e de seus educadores, como a &ldquo;Escola Sem Partido&rdquo; e seus similares.</p>
 
 <p><br />
-Articula&ccedil;&atilde;o dos Empregados Rurais do Estado de Minas Gerais (ADERE-MG)<br />
-Central dos Movimentos Populares (CMP)<br />
-Centro Brasileiro de Solidariedade e Luta pela Paz (Cebrapaz)<br />
-Comiss&atilde;o Pastoral da Terra (CPT)<br />
-Confedera&ccedil;&atilde;o Nacional dos Trabalhadores na Agricultura (CONTAG)<br />
-Confedera&ccedil;&atilde;o Nacional dos Trabalhadores em Educa&ccedil;&atilde;o (CNTE)<br />
-Confedera&ccedil;&atilde;o Nacional das Associa&ccedil;&otilde;es de Moradores (Conam)<br />
-Conselho Indigenista Mission&aacute;rio (CIMI)<br />
-Conselho Nacional das Igrejas Crist&atilde;s do Brasil (Conic)<br />
-Coordena&ccedil;&atilde;o Nacional das Comunidades Quilombolas (Conaq)<br />
-Federa&ccedil;&atilde;o dos Empregados Rurais Assalariados do Estado de Minas Gerais (FERAEMG)<br />
-Federa&ccedil;&atilde;o dos Trabalhadores na Agricultura Familiar (Fetraf)<br />
-Levante Popular da Juventude<br />
-Movimento Campon&ecirc;s Popular (MCP)<br />
-Movimento de Mulheres Camponesas (MMC)<br />
-Movimento dos Pequenos Agricultores (MPA)<br />
-Movimento dos Atingidos por Barragens (MAB)<br />
-Movimento dos Trabalhadores Rurais Sem Terra (MST)<br />
-Pastoral da Juventude Rural (PJR)<br />
-Sindicato dos Empregados Rurais da Regi&atilde;o Sul de Minas Gerais (SERRSMG/CUT)<br />
-Sindicato dos Empregadores Rurais de Concei&ccedil;&atilde;o de Rio Verde (MG)<br />
-Sindicato dos Empregadores Rurais do Munic&iacute;pio de Carmo de Minas (MG)<br />
-Via Campesina do Bras</p>
+No que tange ao estado do Rio de Janeiro, vivenciamos um processo de invisibiliza&ccedil;&atilde;o da &aacute;rea rural&nbsp;do estado, acarretando sua desagriculturaliza&ccedil;&atilde;o e a aus&ecirc;ncia e/ou morosidade de pol&iacute;ticas p&uacute;blicas sociais.&nbsp;Tal processo constitui o discurso hegem&ocirc;nico que ser agricultor e agricultora &eacute; sin&ocirc;nimo de&nbsp;miserabilidade, levando &agrave;&nbsp;reprodu&ccedil;&atilde;o de tal discurso para os filhos e filhas dos trabalhadores e trabalhadoras&nbsp;do campo, incidindo, assim, no &ecirc;xodo rural.</p>
+
+<p><br />
+As crian&ccedil;as, adolescentes, jovens e idosos do campo t&ecirc;m direito &agrave; educa&ccedil;&atilde;o do campo no lugar onde&nbsp;vivem, tendo acesso aos conhecimentos produzidos socialmente pela humanidade. Para tanto, suas escolas&nbsp;devem ter condi&ccedil;&otilde;es f&iacute;sicas e pedag&oacute;gicas adequadas, valorizando-se a hist&oacute;ria, o jeito de viver e produzir a&nbsp;vida dos trabalhadores e trabalhadoras do campo.</p>
+
+<p><br />
+Diante dessa realidade, nos comprometemos a lutar pelo/pela:</p>
+
+<p><br />
+1. Reconhecimento e valoriza&ccedil;&atilde;o do modo de produzir a vida dos trabalhadores e trabalhadoras do<br />
+campo.<br />
+2. Reconhecimento das &aacute;reas rurais dos munic&iacute;pios nos Planos Diretores Municipais.<br />
+3. Reconhecimento das escolas do campo nos Planos Municipais de Agricultura.<br />
+4. Institui&ccedil;&atilde;o de pol&iacute;ticas p&uacute;blicas intersetoriais para fortalecimento da agricultura familiar e<br />
+camponesa.<br />
+5. Implementa&ccedil;&atilde;o de assist&ecirc;ncias t&eacute;cnicas comprometidas com a agricultura familiar e a<br />
+agroecologia, fortalecendo o papel do Centro j&aacute; existente - Centro Escola Fam&iacute;lia de Forma&ccedil;&atilde;o por<br />
+Altern&acirc;ncia Rei Alberto.<br />
+6. Fortalecimento do Programa Nacional de Alimenta&ccedil;&atilde;o Escolar em todos os munic&iacute;pios do estado,<br />
+garantindo a aquisi&ccedil;&atilde;o de 30% dos recursos destinados &agrave; agricultura familiar, privilegiando a produ&ccedil;&atilde;o local.<br />
+18 anos na Luta por Direitos da Educa&ccedil;&atilde;o do Campesinato Fluminense<br />
+7. Investimento em transportes p&uacute;blicos para as &aacute;reas rurais e costeiras para a realiza&ccedil;&atilde;o da<br />
+Pedagogia da Altern&acirc;ncia e acesso &agrave;s escolas do campo.<br />
+8. Efetiva&ccedil;&atilde;o da Educa&ccedil;&atilde;o do Campo como pol&iacute;tica p&uacute;blica, decorrendo a reabertura, a manuten&ccedil;&atilde;o e<br />
+a constru&ccedil;&atilde;o de escolas do campo, pela garantia e a amplia&ccedil;&atilde;o do acesso a todos os n&iacute;veis da Educa&ccedil;&atilde;o<br />
+B&aacute;sica e suas modalidades, a Educa&ccedil;&atilde;o Profissional &ndash; nos n&iacute;veis t&eacute;cnicos e superior &ndash;, al&eacute;m do atendimento<br />
+em processos inclusivos de Educa&ccedil;&atilde;o Especial.<br />
+9. Cria&ccedil;&atilde;o do Departamento de Educa&ccedil;&atilde;o do Campo no &acirc;mbito das Secretarias Municipais e Estadual<br />
+de Educa&ccedil;&atilde;o, em conson&acirc;ncia com os movimentos sociais e seus f&oacute;runs regionais e territoriais.<br />
+10. Participa&ccedil;&atilde;o dos movimentos sociais nos cursos de Educa&ccedil;&atilde;o do Campo em seus processos de<br />
+formula&ccedil;&atilde;o, implementa&ccedil;&atilde;o, desenvolvimento e avalia&ccedil;&atilde;o.<br />
+11. Institui&ccedil;&atilde;o de F&oacute;runs Municipais de Educa&ccedil;&atilde;o que tenham como uma de suas tarefas a<br />
+elabora&ccedil;&atilde;o de forma&ccedil;&atilde;o continuada para as escolas do campo.<br />
+12. Institucionaliza&ccedil;&atilde;o do concurso p&uacute;blico espec&iacute;fico para as escolas do campo, escolas ind&iacute;genas,<br />
+quilombolas e cai&ccedil;aras.<br />
+13. Reconhecimento e fortalecimento das Licenciaturas da Educa&ccedil;&atilde;o do Campo existentes no estado<br />
+do Rio de Janeiro, garantindo as condi&ccedil;&otilde;es de infraestrutura f&iacute;sica, financeira e pol&iacute;tico-pedag&oacute;gica.<br />
+14. Discuss&atilde;o dos projetos pol&iacute;tico-pedag&oacute;gicos das escolas do campo junto &agrave;s suas comunidades e<br />
+aos movimentos sociais, contemplando um curr&iacute;culo diferenciado que valorize a cultura e a realidade local.<br />
+15. Elabora&ccedil;&atilde;o de material pedag&oacute;gico que contemple a realidade da Educa&ccedil;&atilde;o do Campo,<br />
+constru&iacute;do coletivamente por seus educadores e educadoras e comunidades.<br />
+16. Garantia de pr&aacute;ticas formativas em Assist&ecirc;ncia T&eacute;cnica e Extens&atilde;o Rural no &acirc;mbito da forma&ccedil;&atilde;o<br />
+profissional &ndash; t&eacute;cnica ou superior &ndash; visando o fortalecimento da agricultura familiar e camponesa.<br />
+17. Garantia das condi&ccedil;&otilde;es legais para todos os educandos e educandas da Educa&ccedil;&atilde;o do Campo e<br />
+Comunidades Tradicionais, tais como calend&aacute;rio escolar respeitando a Pedagogia da Altern&acirc;ncia, registro e<br />
+avalia&ccedil;&atilde;o do desenvolvimento do educando.<br />
+18. Efetiva&ccedil;&atilde;o da autonomia das escolas ind&iacute;genas.<br />
+19. Extin&ccedil;&atilde;o da nuclea&ccedil;&atilde;o como pol&iacute;tica, municipal, estadual e nacional, assim como luta contra o<br />
+fechamento das escolas do campo.<br />
+20. Institui&ccedil;&atilde;o do Conselho Estadual de Educa&ccedil;&atilde;o Ind&iacute;gena.<br />
+21. Contabiliza&ccedil;&atilde;o do deslocamento (casa/escola/casa) como tempo de trabalho para o educador e<br />
+educadora que atuam em escolas de dif&iacute;cil acesso, assim como incentivo financeiro para tal deslocamento.</p>
+
+<p><br />
+Duque de Caxias, 06 de agosto de 2016.</p>
+
+<p>&nbsp;</p>
