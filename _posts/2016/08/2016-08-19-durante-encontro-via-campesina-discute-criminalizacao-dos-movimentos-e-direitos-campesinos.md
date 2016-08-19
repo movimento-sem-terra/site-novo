@@ -1,7 +1,7 @@
 ---
 date: "2016-08-19T17:42:27-03:00"
 tags: []
-title: " Durante encontro, Via campesina discute criminalização dos Movimentos e direitos campesinos\n"
+title: " Durante encontro, Via discute criminalização dos Movimentos e direitos campesinos\n"
 images_hd: //farm9.staticflickr.com/8645/29018048541_dc4881d7b2_b.jpg
 support_line: "Participam do Encontro cerca de 60 participantes de 18 países da África, Ásia, Europa e América."
 menu: solidariedade
@@ -32,9 +32,8 @@ releated_posts: []
 <p><em>Por Iris Pacheco<br />
 Da P&aacute;gina do MST</em></p>
 
-<p>&nbsp;</p>
-
-<p>Realizado na Escola Nacional Florestan Fernandes (ENFF), munic&iacute;pio de Guararema, S&atilde;o Paulo, o Encontro de Direitos Humanos da Via Campesina, que come&ccedil;ou nesta quinta-feira (18) e vai at&eacute; este s&aacute;bado (20), debate assuntos que envolvem a conjuntura pol&iacute;tica no atual momento de criminaliza&ccedil;&atilde;o das lutas dos movimentos sociais no mundo. O evento aborda tamb&eacute;m os Tratados Internacionais que envolvem os direitos camponeses e as viola&ccedil;&otilde;es destes pelo Estado e empresas transnacionais.</p>
+<p><br />
+Realizado na Escola Nacional Florestan Fernandes (ENFF), munic&iacute;pio de Guararema, S&atilde;o Paulo, o Encontro de Direitos Humanos da Via Campesina, que come&ccedil;ou nesta quinta-feira (18) e vai at&eacute; este s&aacute;bado (20), debate assuntos que envolvem a conjuntura pol&iacute;tica no atual momento de criminaliza&ccedil;&atilde;o das lutas dos movimentos sociais no mundo. O evento aborda tamb&eacute;m os Tratados Internacionais que envolvem os direitos camponeses e as viola&ccedil;&otilde;es destes pelo Estado e empresas transnacionais.</p>
 
 <p><br />
 Participam do Encontro cerca de 60 militantes de 18 pa&iacute;ses da &Aacute;frica, &Aacute;sia, Europa e Am&eacute;rica. S&atilde;o dirigentes pol&iacute;ticos de todos os continentes e advogados populares vinculados a Movimentos camponeses da Via Campesina e tamb&eacute;m organiza&ccedil;&otilde;es parceiras, que, durante esses tr&ecirc;s dias, ir&atilde;o discutir e tra&ccedil;ar um plano de a&ccedil;&atilde;o que unifique as iniciativas existentes nos pa&iacute;ses e consiga ter a&ccedil;&otilde;es r&aacute;pidas de den&uacute;ncia e solidariedade internacionalista.</p>
@@ -91,8 +90,5 @@ Dentro do Conselho houve a resist&ecirc;ncia de alguns pa&iacute;ses do norte, c
 <p><br />
 Segundo Diego, a luta pela declara&ccedil;&atilde;o &eacute; necess&aacute;ria para avan&ccedil;ar e visibilizar a proposta que a Via Campesina tem sobre o campesinato no marco da crise do capitalismo hoje, que &eacute; a concep&ccedil;&atilde;o de que a agricultura camponesa pode alimentar a humanidade. Ainda, para gerar a discuss&atilde;o na comiss&atilde;o de Direitos Humanos da ONU sobre melhores condi&ccedil;&otilde;es para frear as a&ccedil;&otilde;es de criminaliza&ccedil;&atilde;o dos Movimentos, em especial, a &Aacute;frica e Am&eacute;rica Latina.</p>
 
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p><em>*Editado por Rafael Soriano</em></p>
+<p><br />
+<em>*Editado por Rafael Soriano</em></p>
