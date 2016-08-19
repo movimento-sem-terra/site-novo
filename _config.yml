@@ -13,8 +13,8 @@ collections:
   banners:
 timezone: BR
 lollipop:
-  title: Festival da Reforma Agrária
-  link: festival-da-reforma-agraria
+  title: Musicoteca 
+  link: musicoteca
   enabled: true
 gems:
   - jekyll-sitemap
