@@ -23,8 +23,8 @@ releated_posts: []
 ---
 <p>&nbsp;</p>
 
-<p><em>Por Layza Queiroz e Luciana Pivato, advogadas populares da Terra de Direitos<br />
-Do Justificando&nbsp;</em></p>
+<p><em>Por Layza Queiroz e Luciana Pivato &nbsp;<br />
+Da&nbsp;</em><em style="line-height: 20.8px;">Terra de Direitos</em></p>
 
 <p>&nbsp;</p>
 
@@ -93,5 +93,6 @@ Outro elemento que novamente chama a aten&ccedil;&atilde;o &eacute; o verdadeiro
 O assassinato de Ronair causa enorme indigna&ccedil;&atilde;o aos diversos movimentos, organiza&ccedil;&otilde;es e defensores/as dos direitos humanos que h&aacute; anos vinham reivindicando provid&ecirc;ncias urgentes no sentido de garantir a vida e os direitos das fam&iacute;lias que vivem no local. At&eacute; quando os/as trabalhadores/as pagar&atilde;o com suas vidas por tamanho descaso e coniv&ecirc;ncia dos poderes p&uacute;blicos do pa&iacute;s? De quem &eacute; a responsabilidade por mais esta morte no campo?</p>
 
 <p><br />
-* ​Luciana Pivato &eacute; advogada da organiza&ccedil;&atilde;o Terra de Direitos, membro da JusDh e da Renap, especialista em direito penal e criminologia pela Universidade Federal do Paran&aacute; e Instituto de Criminologia e Ci&ecirc;ncia Criminais.<br />
-* Layza Queiroz &eacute; advogada da organiza&ccedil;&atilde;o Terra de Direitos, e integrante do Comit&ecirc; Brasileiro de Defensoras e Defensores de Direitos Humanos. Atua na pauta sobre defensoras e defensores de direitos humanos e na assessoria jur&iacute;dica popular a movimentos sociais, povos ind&iacute;genas, povos e comunidades tradicionais da Amaz&ocirc;nia que lutam pela defesa de seus direitos territoriais.</p>
+* ​Luciana Pivato &eacute; advogada da organiza&ccedil;&atilde;o Terra de Direitos, membro da JusDh e da Renap, especialista em direito penal e criminologia pela Universidade Federal do Paran&aacute; e Instituto de Criminologia e Ci&ecirc;ncia Criminais.</p>
+
+<p>* Layza Queiroz &eacute; advogada da organiza&ccedil;&atilde;o Terra de Direitos, e integrante do Comit&ecirc; Brasileiro de Defensoras e Defensores de Direitos Humanos. Atua na pauta sobre defensoras e defensores de direitos humanos e na assessoria jur&iacute;dica popular a movimentos sociais, povos ind&iacute;genas, povos e comunidades tradicionais da Amaz&ocirc;nia que lutam pela defesa de seus direitos territoriais.</p>
