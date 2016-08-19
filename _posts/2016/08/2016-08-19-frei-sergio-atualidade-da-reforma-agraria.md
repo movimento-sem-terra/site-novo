@@ -21,20 +21,14 @@ releated_posts: []
 ---
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
-
 <p><em>Por Frei S&eacute;rgio Ant&ocirc;nio G&ouml;rgen<br />
 Para o Sul21</em></p>
-
-<p>&nbsp;</p>
 
 <p><br />
 A Reforma Agr&aacute;ria &eacute; uma necessidade nacional para os que pensam o desenvolvimento brasileiro com justi&ccedil;a social, equil&iacute;brio ambiental e distribui&ccedil;&atilde;o racional da popula&ccedil;&atilde;o no espa&ccedil;o geogr&aacute;fico do pa&iacute;s.</p>
 
-<p>&nbsp;
 <p><br />
 As raz&otilde;es s&atilde;o muitas. &Eacute; imposs&iacute;vel quitar a d&iacute;vida social da Na&ccedil;&atilde;o e propiciar condi&ccedil;&otilde;es dignas de vida &agrave; maioria de nossa popula&ccedil;&atilde;o sem extirpar o c&acirc;ncer do latif&uacute;ndio. A concentra&ccedil;&atilde;o da terra e a exclus&atilde;o camponesa &ndash; com uma de suas mais perversas consequ&ecirc;ncias que &eacute; o &ecirc;xodo rural desordenado &ndash; est&atilde;o na raiz, na causa estrutural da situa&ccedil;&atilde;o de mis&eacute;ria que desgra&ccedil;a milh&otilde;es de brasileiros.</p>
-</p>
 
 <p><br />
 Entre outras raz&otilde;es, ligadas ao futuro da humanidade, est&atilde;o a agenda ambiental e a substitui&ccedil;&atilde;o dos combust&iacute;veis f&oacute;sseis. Os sistemas camponeses de produ&ccedil;&atilde;o s&atilde;o mais aptos e mais flex&iacute;veis para incorporar tecnologias ambientalmente sustent&aacute;veis, atrav&eacute;s das m&uacute;ltiplas possibilidades de rota&ccedil;&atilde;o de culturas, sistemas integrados de policultivos, combina&ccedil;&atilde;o de produ&ccedil;&atilde;o vegetal com produ&ccedil;&atilde;o animal, sistemas agroflorestais, redu&ccedil;&atilde;o da depend&ecirc;ncia de insumos externos, utiliza&ccedil;&atilde;o de mecaniza&ccedil;&atilde;o leve e multifuncional, com as devidas multiplica&ccedil;&otilde;es de benef&iacute;cios advindos do aumento da biodiversidade que este modelo de produ&ccedil;&atilde;o agr&iacute;cola e pecu&aacute;rio propicia.</p>
