@@ -36,12 +36,6 @@ A Igreja do Ros&aacute;rio, no Centro de Goi&aacute;s, foi onde aconteceu o even
 A abertura do lan&ccedil;amento ficou por conta dos/as Artistas do Cerrado, que apresentaram ao p&uacute;blico a pe&ccedil;a &quot;Com Cerrado, Com &Aacute;gua, Com Vida&quot;. A encena&ccedil;&atilde;o, segundo o grupo de teatro composto por agentes da Comiss&atilde;o Pastoral da Terra (CPT), &quot;convida o povo a integrar, fazer parte e compor a cria&ccedil;&atilde;o do Cerrado com responsabilidade, ou seja, respeitando a biodiversidade e participando de entidades, grupos, associa&ccedil;&otilde;es e comunidades que defendem nossa Casa Comum, o Cerrado. &Eacute; a Casa Comum porque nos garante &Aacute;gua&quot;.</p>
 
 <p><br />
-<strong>Confira um trecho da apresenta&ccedil;&atilde;o abaixo:</strong></p>
-
-<p><br />
-&lt;iframe width=&quot;1150&quot; height=&quot;644&quot; src=&quot;https://www.youtube.com/embed/2vZZNXPk9ug&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;</p>
-
-<p><br />
 Participaram do lan&ccedil;amento o pesquisador Altair Sales Barbosa; Elziene de Abreu, do Coletivo de Fundo e Fecho de Pasto da Bahia; a lideran&ccedil;a ind&iacute;gena Ant&ocirc;nio Apinaj&eacute;, do Tocantins; Isolete Wichinieski, da Comiss&atilde;o Pastoral da Terra (CPT); e o mediador Robson de Sousa Moraes, da Universidade Estadual de Goi&aacute;s (UEG).</p>
 
 <p><br />
