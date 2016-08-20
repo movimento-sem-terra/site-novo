@@ -16,6 +16,7 @@ files:
 created_date: "2016-08-19T15:21:58-03:00"
 published: true
 releated_posts: []
+section: cover
 
 ---
 <figure class="image"><img alt="alvimar.png" height="583" src="//farm9.staticflickr.com/8029/29058908536_d29460ed3e_b.jpg" width="700" />
@@ -28,7 +29,7 @@ releated_posts: []
 
 <p>&nbsp;</p>
 
-<p>&ldquo;A morte n&atilde;o &eacute; uma verdade quando se cumpre bem o papel da vida.&rdquo; Jos&eacute; Mart&iacute;</p>
+<p>&ldquo;A morte n&atilde;o &eacute; uma verdade quando se cumpre bem o papel da vida.&rdquo; (Jos&eacute; Mart&iacute;)</p>
 
 <p><br />
 Os movimentos sociais perderam hoje&nbsp;(19), um dos alicerces da luta pela terra. Alvimar Ribeiro dos Santos, militante de longa data da Comiss&atilde;o Pastoral da Terra (CPT), foi um dos fundadores do MST em Minas Gerais.<br />
