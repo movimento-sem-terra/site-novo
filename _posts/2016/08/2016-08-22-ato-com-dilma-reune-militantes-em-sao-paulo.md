@@ -36,7 +36,7 @@ releated_posts: []
 A Frente Brasil Popular, que re&uacute;ne movimentos populares&nbsp;e sindicais, lideran&ccedil;as pol&iacute;ticas e a sociedade civil organizada, realiza nessa ter&ccedil;a-feira (23), o Ato com Dilma em Defesa da Democracia e dos Direitos Sociais.</p>
 
 <p><br />
-O evento, que acontece&nbsp;<span style="line-height: 20.8px;">nos dias que antecedem o julgamento final do processo de impeachment da presidenta Dilma Rousseff no Senado -&nbsp;marcado para</span><span style="color: rgb(84, 84, 84); font-family: arial, sans-serif; font-size: small; line-height: 18.2px;">&nbsp;pr&oacute;xima quinta-feira (25) -,&nbsp;</span>soma-se as in&uacute;meras a&ccedil;&otilde;es contra o golpe orquestrado contra o mandato leg&iacute;timo da presidenta,&nbsp;que corre o risco de perder o cargo sem ter cometido nenhum crime de responsabilidade &ndash; um atentado contra a democracia brasileira.</p>
+O evento, que acontece&nbsp;<span style="line-height: 20.8px;">nos dias que ant</span>ecedem o julgamento final do processo de impeachment da presidenta Dilma Rousseff no Senado -&nbsp;marcado para&nbsp;pr&oacute;xima quinta-feira (25) -,&nbsp;soma-se as in&uacute;meras a&ccedil;&otilde;es contra o golpe orquestrado contra o mandato leg&iacute;timo de Dilma, que corre o risco de perder o cargo sem ter cometido nenhum crime de responsabilidade.</p>
 
 <p><br />
 Os movimentos e organiza&ccedil;&otilde;es&nbsp;j&aacute; preparam&nbsp;jornadas e atos contra a retirada de direitos sociais e trabalhistas e n&atilde;o descartam a realiza&ccedil;&atilde;o de uma greve geral&nbsp;no pr&oacute;ximo per&iacute;odo.</p>
