@@ -1,7 +1,7 @@
 ---
 date: "2016-05-18T10:52:18-03:00"
 tags: []
-section: campaign
+section: null
 link: "http://www.mst.org.br/festival-da-reforma-agraria/"
 target: _self
 title: Festival Nacional de Artes e Cultura da Reforma Agrária
@@ -18,5 +18,6 @@ files:
 created_date: "2016-05-18T11:05:12-03:00"
 published: true
 releated_posts: []
+menu: "educação, cultura e comunicação"
 
 ---
