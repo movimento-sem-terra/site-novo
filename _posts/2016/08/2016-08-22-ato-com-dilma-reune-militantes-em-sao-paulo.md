@@ -4,7 +4,7 @@ tags:
   - tag: lutas-e-mobilizações
   - tag: golpe
   - tag: Dilma
-title: "Ato com Dilma reúne militantes em São Paulo "
+title: "Frente Brasil popular convoca ato com Dilma em São Paulo "
 support_line: "A atividade inicia às 19h, na Casa de Portugal, na Avenida Liberdade, 602, zona central da cidade de São Paulo. "
 menu: lutas e mobilizações
 images_hd: //farm9.staticflickr.com/8863/28544381263_ebfb5b0a7c_b.jpg
@@ -42,7 +42,7 @@ O evento, que acontece&nbsp;<span style="line-height: 20.8px;">nos dias que ante
 Os movimentos e organiza&ccedil;&otilde;es&nbsp;j&aacute; preparam&nbsp;jornadas e atos contra a retirada de direitos sociais e trabalhistas e n&atilde;o descartam a realiza&ccedil;&atilde;o de uma greve geral&nbsp;no pr&oacute;ximo per&iacute;odo.</p>
 
 <p><br />
-<span style="line-height: 20.8px;">A atividade inicia &agrave;s 19h, na Casa de Portugal, na Avenida Liberdade, 602, zona central da cidade de S&atilde;o Paulo.&nbsp;</span></p>
+<span style="line-height: 20.8px;">A atividade est&aacute; marcada para&nbsp;&agrave;s 19h, na Casa de Portugal,&nbsp;&nbsp;Avenida Liberdade, 602, zona central da cidade de S&atilde;o Paulo.&nbsp;</span></p>
 
 <p>&nbsp;</p>
 
