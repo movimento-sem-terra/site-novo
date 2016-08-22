@@ -1,7 +1,7 @@
 ---
 date: "2016-08-22T14:01:04-03:00"
 tags: []
-title: "Via Campesina, Renap e entidades defendem no STF lei do RS que protege o a saúde da população e o meio ambiente contra os agrotóxicos"
+title: Entidades defendem no STF lei que protege a saúde da população contra os agrotóxicos
 support_line: "Para proteger o meio ambiente e a saúde da população, a legislação dispõe que os agrotóxicos importados não podem ser cadastrados no órgão estadual de meio ambiente se não tiverem seu uso autorizado no país de origem"
 menu: agronegócio
 images_hd: //farm9.staticflickr.com/8493/28543966243_0833249d7a_b.jpg
