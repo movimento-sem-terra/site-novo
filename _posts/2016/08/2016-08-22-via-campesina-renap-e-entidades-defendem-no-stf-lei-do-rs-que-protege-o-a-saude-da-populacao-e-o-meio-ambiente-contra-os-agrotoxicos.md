@@ -23,13 +23,16 @@ releated_posts: []
 <p><em>* Por&nbsp;Efendy Emiliano Maldonado&nbsp;com colabora&ccedil;&atilde;o de Leandro Scalabrin</em></p>
 
 <p><br />
-No in&iacute;cio deste m&ecirc;s de maio a Via Campesina, a Cooperativa Agroecol&oacute;gica Nacional Terra e Vida (COONATERRA &ndash; BIONATUR); a Comiss&atilde;o de Direitos Humanos de Passo Fundo (CDHPF); o Instituto Ga&uacute;cho de Estudos Ambientais (ING&Aacute;); o N&uacute;cleo Amigos da Terra Brasil; a Terra de Direitos e a Associa&ccedil;&atilde;o Ga&uacute;cha de Prote&ccedil;&atilde;o ao Ambiente Natural (AGAPAN), protocolaram no Supremo Tribunal Federal, por meio da assessoria da Rede Nacional de Advogados e Advogadas Populares, seu pedido de admiss&atilde;o na qualidade de Amicus Curiae nos autos da Argui&ccedil;&atilde;o de Descumprimento de Preceito Fundamental (ADPF) n&ordm; 221 &ndash; para defender a lei estadual e decretos do Rio Grande do Sul que restringem a distribui&ccedil;&atilde;o e comercializa&ccedil;&atilde;o de agrot&oacute;xicos e biocidas importados em territ&oacute;rio ga&uacute;cho.</p>
+No in&iacute;cio deste m&ecirc;s de maio a Via Campesina, a Cooperativa Agroecol&oacute;gica Nacional Terra e Vida (COONATERRA &ndash; BIONATUR); a Comiss&atilde;o de Direitos Humanos de Passo Fundo (CDHPF); o Instituto Ga&uacute;cho de Estudos Ambientais (Ing&aacute;); o N&uacute;cleo Amigos da Terra Brasil; a Terra de Direitos e a Associa&ccedil;&atilde;o Ga&uacute;cha de Prote&ccedil;&atilde;o ao Ambiente Natural (AGAPAN), protocolaram no Supremo Tribunal Federal, por meio da assessoria da Rede Nacional de Advogados e Advogadas Populares, seu pedido de admiss&atilde;o na qualidade de Amicus Curiae nos autos da Argui&ccedil;&atilde;o de Descumprimento de Preceito Fundamental (Adfp) n&ordm; 221 &ndash; para defender a lei estadual e decretos do Rio Grande do Sul que restringem a distribui&ccedil;&atilde;o e comercializa&ccedil;&atilde;o de agrot&oacute;xicos e biocidas importados em territ&oacute;rio ga&uacute;cho.</p>
 
 <p><br />
 Para proteger o meio ambiente e a sa&uacute;de da popula&ccedil;&atilde;o, a legisla&ccedil;&atilde;o disp&otilde;e que os agrot&oacute;xicos importados n&atilde;o podem ser cadastrados no &oacute;rg&atilde;o estadual de meio ambiente se n&atilde;o tiverem seu uso autorizado no pa&iacute;s de origem. Trata-se de uma legisla&ccedil;&atilde;o avan&ccedil;ada que adota o mecanismo da &ldquo;extraterritorialidade&rdquo; no que tange a atua&ccedil;&atilde;o de empresas transnacionais, dispondo que elas s&oacute; podem comercializar no Brasil, produtos que comercializa no seu pa&iacute;s de origem.</p>
 
 <p><br />
-O Partido Democratas (DEM), ingressou no STF com Argui&ccedil;&atilde;o de Descumprimento de Preceito Fundamental (ADPF) n&ordm; 221, para invalidar a lei ga&uacute;cha. O DEM tem o apoio do SINDAG - SINDICATO NACIONAL DA IND&Uacute;STRIA DE DEFENSIVOS AGR&Iacute;COLAS - ANDEF - ASSOCIA&Ccedil;&Atilde;O NACIONAL DE DEFESA VEGETAL - ABIFINA - ASSOCIA&Ccedil;&Atilde;O BRASILEIRA DAS IND&Uacute;STRIAS DE QU&Iacute;MICA FINA, BIOTECNOLOGIA E SUAS ESPECIALIDADES - AENDA - ASSOCIA&Ccedil;&Atilde;O DAS EMPRESAS NACIONAIS DE DEFENSIVOS AGR&Iacute;COLAS). Esta a&ccedil;&atilde;o beneficia empresas como a Syngenta que tem comercializado no Brasil, agrot&oacute;xicos que tem comercializa&ccedil;&atilde;o vedada no seu pa&iacute;s de origem. A Syngenta j&aacute; ingressou com Mandado se Seguran&ccedil;a contra a FEPAM (&oacute;rg&atilde;o ambiental do RS), para desobrigar-se de cumprir a lei que &eacute; objeto da ADPF do DEM.</p>
+O Partido Democratas (DEM), ingressou no STF com Argui&ccedil;&atilde;o de Descumprimento de Preceito Fundamental (ADPF) n&ordm; 221, para invalidar a lei ga&uacute;cha. O DEM tem o apoio do Sindicato Nacional das Empresas de Avia&ccedil;&atilde;o Agr&iacute;cola (Sindag), da&nbsp;&nbsp;Associa&ccedil;&atilde;o Nacional de Defesa Vegetal (Andef), da&nbsp;&nbsp;Associa&ccedil;&atilde;o Brasileira da Ind&uacute;stria de Qu&iacute;mica Fina, Biotecnologia e suas Especialidades (ABIFINA)&nbsp;e da&nbsp;Associa&ccedil;&atilde;o Brasileira dos Defensivos (AENDA).</p>
+
+<p><br />
+Esta a&ccedil;&atilde;o beneficia empresas como a Syngenta que tem comercializado no Brasil, agrot&oacute;xicos que tem comercializa&ccedil;&atilde;o vedada no seu pa&iacute;s de origem. A Syngenta j&aacute; ingressou com Mandado se Seguran&ccedil;a contra a FEPAM (&oacute;rg&atilde;o ambiental do RS), para desobrigar-se de cumprir a lei que &eacute; objeto da ADPF do DEM.</p>
 
 <p><br />
 O relator da ADPF &eacute; o Ministro Dias Toffoli (Link do processo no STF <a href="http://http://www.stf.jus.br/portal/processo/verProcessoAndamento.asp?incidente=3989456">aqui</a>) que em 2015 julgou inconstitucional lei ga&uacute;cha que proibia o com&eacute;rcio de alimentos importados n&atilde;o submetidos a an&aacute;lise do teor de agrot&oacute;xicos que continham .</p>
@@ -54,7 +57,7 @@ Al&eacute;m disso, uma s&eacute;rie de pesquisas cient&iacute;ficas nacionais e 
 
 <p>&nbsp;</p>
 
-<p style="line-height: 20.8px;"><em><span style="color: rgb(34, 34, 34); font-family: arial, sans-serif; line-height: normal;"><span style="font-size: 12.8px;">* Ambos advoados</span> populares da Via Campesina</span></em></p>
+<p><em>* Ambos advogados populares da Via Campesina</em></p>
 
 <div>&nbsp;</div>
 
