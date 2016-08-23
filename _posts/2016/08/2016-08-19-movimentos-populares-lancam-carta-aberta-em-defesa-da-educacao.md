@@ -20,11 +20,11 @@ releated_posts: []
 ---
 <p>&nbsp;</p>
 
-<p><em>Da P&aacute;gina do MST&nbsp;</em></p>
+<p><em>Por Coletivo de Comunica&ccedil;&atilde;o do Rio de Janeiro&nbsp;<br />
+Da P&aacute;gina do MST&nbsp;</em></p>
 
-<p>&nbsp;</p>
-
-<p>Cerca de 150 educadores ligados &agrave;&nbsp;entidades do campo, movimentos populares e sindicais se reuniram no V&nbsp;FoFEC (F&oacute;rum Fluminense de Educa&ccedil;&atilde;o do Campo), que aconteceu no &uacute;ltimo&nbsp;dia&nbsp;6 de agosto&nbsp;na Escola Municipal Sargento Jo&atilde;o D&eacute;lio em&nbsp;Duque de Caxias no&nbsp;Rio de Janeiro.&nbsp;&nbsp;</p>
+<p><br />
+Cerca de 150 educadores ligados &agrave;&nbsp;entidades do campo, movimentos populares e sindicais se reuniram no V&nbsp;FoFEC (F&oacute;rum Fluminense de Educa&ccedil;&atilde;o do Campo), que aconteceu no &uacute;ltimo&nbsp;dia&nbsp;6 de agosto&nbsp;na Escola Municipal Sargento Jo&atilde;o D&eacute;lio em&nbsp;Duque de Caxias no&nbsp;Rio de Janeiro.&nbsp;&nbsp;</p>
 
 <p><br />
 O FoFEC teve o objetivo de&nbsp;reunir o ac&uacute;mulo de experi&ecirc;ncias estrat&eacute;gicas das comunidades camponesas e tradicionais com a finalidade de consolidar a educa&ccedil;&atilde;o do campo como realidade efetiva que atenda &agrave;s necessidades dos sujeitos diversos que vivem da terra, dos rios e das florestas.</p>
@@ -35,14 +35,14 @@ Ao final do encontro os grupos presentes lan&ccedil;aram uma carta aberta em que
 <p><br />
 &quot;Declaramos que nos posicionamos contra o atual governo federal, golpista e inconstitucional, que trabalha pela retirada de direitos da classe trabalhadora, que tem como pol&iacute;tica para o campo a hegemoniza&ccedil;&atilde;o e a amplia&ccedil;&atilde;o do agroneg&oacute;cio &ndash; modelo que gera doen&ccedil;a e morte para a terra, os seres humanos e o ambiente &ndash; assim como repudiamos projetos que firam a autonomia das escolas p&uacute;blicas e de seus educadores, como a &ldquo;Escola Sem Partido&rdquo; e seus similares&quot;, diz um trecho do documento.&nbsp;</p>
 
-<p>&nbsp;</p>
-
-<p>Leia abaixo a carta na &iacute;ntegra e veja <a href="https://www.facebook.com/MovimentoSemTerra/?fref=ts#">aqui</a> o v&iacute;deo produzido pelo Coletivo Luta em Foco sobre o encontro.&nbsp;</p>
+<p><br />
+Leia abaixo a carta na &iacute;ntegra e veja <a href="https://www.facebook.com/MovimentoSemTerra/?fref=ts#">aqui</a> o v&iacute;deo produzido pelo Coletivo Luta em Foco sobre o encontro.&nbsp;</p>
 
 <p><br />
 18 anos na Luta por Direitos da Educa&ccedil;&atilde;o do Campesinato Fluminense</p>
 
-<p>Carta Aberta V FOFEC</p>
+<p><br />
+<strong>Carta Aberta V FOFEC</strong></p>
 
 <p><br />
 N&oacute;s, participantes do V F&oacute;rum Fluminense de Educa&ccedil;&atilde;o do Campo, reunidos na Escola Municipal<br />
@@ -116,6 +116,7 @@ fechamento das escolas do campo.<br />
 educadora que atuam em escolas de dif&iacute;cil acesso, assim como incentivo financeiro para tal deslocamento.</p>
 
 <p><br />
-Duque de Caxias, 06 de agosto de 2016.</p>
+Duque de Caxias, 06 de agosto de 2016</p>
 
-<p>&nbsp;</p>
+<p><br />
+<em>*Editado por Maura Silva</em></p>
