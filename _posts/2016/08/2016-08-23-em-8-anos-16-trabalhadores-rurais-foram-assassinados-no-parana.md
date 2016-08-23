@@ -33,8 +33,9 @@ published: true
 releated_posts: []
 
 ---
-<p><br />
-<em>Por Assessoria de&nbsp; Comunica&ccedil;&atilde;o da Terra de Direitos</em></p>
+<p>&nbsp;</p>
+
+<p><em>Por Assessoria de&nbsp; Comunica&ccedil;&atilde;o da Terra de Direitos</em></p>
 
 <p><br />
 O assassinato de Sebasti&atilde;o Camargo, em 1998 , n&atilde;o foi um caso isolado. O crime se d&aacute; num contexto de intensifica&ccedil;&atilde;o da repress&atilde;o aos movimentos sociais de luta pela terra no Paran&aacute;, endossada pelo ent&atilde;o governador Jaime Lerner, o &ldquo;Arquiteto da Viol&ecirc;ncia&rsquo;&rsquo;. Entre os anos de 1994 e 2002 &ndash; primeiro e segundo mandatos de Lerner &ndash; 16 trabalhadores rurais sem terra foram assassinados no Paran&aacute;.</p>
@@ -93,7 +94,8 @@ Os assassinatos foram denunciados pela Terra de Direitos &agrave; Organiza&ccedi
 O assassinato de Sebasti&atilde;o Camargo foi denunciado &agrave; Comiss&atilde;o Interamericana de Direitos Humanos (CIDH) em 2000, pela demora injustificada no andamento do processo. Apesar do amplo material levantado acerca do assassinato, o processo criminal permaneceu em fase de instru&ccedil;&atilde;o inicial e v&aacute;rios crimes prescreveram pela demora da investiga&ccedil;&atilde;o.</p>
 
 <p><br />
-Em 2009, a CIDH apresentou na Assembleia Geral da Organiza&ccedil;&atilde;o dos Estados Americanos (OEA) o relat&oacute;rio de m&eacute;rito do caso do assassinato do trabalhador rural Sebasti&atilde;o Camargo. A CIDH apontou a necessidade de uma investiga&ccedil;&atilde;o imparcial e efetiva do crime e acusou o Estado brasileiro de n&atilde;o cumprir disposi&ccedil;&otilde;es da Conven&ccedil;&atilde;o Interamericana de Direitos Humanos.</p>
+Em 2009, a CIDH apresentou na Assembleia Geral da Organiza&ccedil;&atilde;o dos Estados Americanos (OEA) o relat&oacute;rio de m&eacute;rito do caso do assassinato do trabalhador rural Sebasti&atilde;o Camargo. A CIDH apontou a necessidade de uma investiga&ccedil;&atilde;o imparcial e efetiva do crime e acusou o Estado brasileiro de n&atilde;o cumprir disposi&ccedil;&otilde;es da Conven&ccedil;&atilde;o Interamericana de Direitos Humanos.<br />
+&nbsp;</p>
 
 <p><img alt="unnamed2.png" src="//farm9.staticflickr.com/8340/29179807265_e9518207ba_b.jpg" /></p>
 
