@@ -1,9 +1,9 @@
 ---
 date: "2016-08-23T13:59:17-03:00"
 tags: []
-images_hd: //farm9.staticflickr.com/8155/29182643615_58cc108c97_b.jpg
+images_hd: //farm9.staticflickr.com/8522/29104825431_18e73ccdac_b.jpg
 support_line: "Em debate, os educandos pautaram a produção de alimentos saudáveis, o golpe à democracia brasileira e a criminalização dos movimentos populares"
-title: Jovens do RS participam da Jornada Nacional da Juventude Sem Terra
+title: Sem Terra participam da Jornada Nacional da Juventude Sem Terra no RS
 menu: lutas e mobilizações
 layout: post
 files:
@@ -13,12 +13,12 @@ files:
     small: //farm8.staticflickr.com/7654/29149052406_8c4d741040_n.jpg
     title: IMG_2913.JPG
     $$hashKey: 02M
-  - link: //farm9.staticflickr.com/8155/29182643615_58cc108c97_b.jpg
-    thumbnail: //farm9.staticflickr.com/8155/29182643615_58cc108c97_t.jpg
-    medium: //farm9.staticflickr.com/8155/29182643615_58cc108c97_z.jpg
-    small: //farm9.staticflickr.com/8155/29182643615_58cc108c97_n.jpg
-    title: IMG_4847.JPG
-    $$hashKey: 02P
+  - link: //farm9.staticflickr.com/8522/29104825431_18e73ccdac_b.jpg
+    thumbnail: //farm9.staticflickr.com/8522/29104825431_18e73ccdac_t.jpg
+    medium: //farm9.staticflickr.com/8522/29104825431_18e73ccdac_z.jpg
+    small: //farm9.staticflickr.com/8522/29104825431_18e73ccdac_n.jpg
+    title: IMG_2951.JPG
+    $$hashKey: 090
 created_date: "2016-08-23T14:04:19-03:00"
 published: true
 releated_posts: []
