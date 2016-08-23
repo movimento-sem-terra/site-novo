@@ -4,8 +4,8 @@ tags:
   - tag: Via-Campesina
   - tag: presos-políticos
   - tag: lutas-e-mobilizações
-title: "“Não descansaremos enquanto não libertamos todos os nossos presos políticos”, afirma Via Campesina"
-support_line: "Em entrevista,  Leandro Scalabrin, advogado popular do Movimento dos Atingidos por Barragens (MAB), compartilha algumas dessas propostas e ressalta a importância de realizar uma atividade como esta na atual conjuntura"
+title: "“Não descansaremos enquanto não libertarmos todos os nossos presos políticos”, afirma Via Campesina"
+support_line: "Em entrevista, Leandro Scalabrin, advogado popular do MAB, compartilha as propostas de ações e ressalta a importância de realizar uma atividade como esta na atual conjuntura de criminalização"
 images_hd: //farm8.staticflickr.com/7763/28875612270_ce0533a72e_b.jpg
 menu: direitos humanos
 layout: post
@@ -19,22 +19,22 @@ files:
 created_date: "2016-08-22T16:53:07-03:00"
 published: true
 releated_posts: []
+label: interviews
 
 ---
 <figure class="image"><img alt="IMG_4847.JPG" height="378" src="//farm8.staticflickr.com/7763/28875612270_ce0533a72e_b.jpg" width="700" />
 <figcaption></figcaption>
 </figure>
 
-<p>&nbsp;</p>
-
-<p><em>Por Iris Pacheco<br />
+<p><br />
+<em>Por Iris Pacheco<br />
 Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
 Durante Encontro de Direitos Humanos da Via Campesina, que ocorreu entre os dias 18 a 20 de agosto, na Escola Nacional Florestan Fernandes (ENFF), munic&iacute;pio de Guararema, S&atilde;o Paulo, Advogados populares, Movimentos do campo e organiza&ccedil;&otilde;es discutiram a criminaliza&ccedil;&atilde;o das lutas dos movimentos sociais no mundo e tiraram in&uacute;meras propostas de a&ccedil;&otilde;es que visam fortalecer e ampliar a atua&ccedil;&atilde;o do Coletivo de Direitos Humanos da Via.</p>
 
 <p><br />
-Em entrevista para a P&aacute;gina do MST, Leandro Scalabrin, advogado popular do Movimento dos Atingidos por Barragens (MAB), compartilha algumas dessas propostas e ressalta a import&acirc;ncia de realizar uma atividade como esta na atual conjuntura.</p>
+Em entrevista para a P&aacute;gina do MST, Leandro Scalabrin, advogado popular do Movimento dos Atingidos por Barragens (MAB), compartilha algumas dessas propostas e ressalta a import&acirc;ncia de realizar uma atividade como esta na atual conjuntura de criminaliza&ccedil;&atilde;o.</p>
 
 <p><br />
 &ldquo;O Encontro foi positivo, sa&iacute;mos muito motivados e o Coletivo fortalecido e ampliado. Conseguimos aprofundar o tema de nossas Campanhas Internacionais para efetiv&aacute;-las em cada pa&iacute;s e identificamos o desafio comum da criminaliza&ccedil;&atilde;o das lutas sociais no mundo. Este trabalho ser&aacute; multiplicado por todos continentes e vamos construir uma rede de prote&ccedil;&atilde;o para nossos defensores de direitos humanos. N&atilde;o descansaremos enquanto n&atilde;o libertarmos todos os nossos presos pol&iacute;ticos&rdquo; afirma.</p>
@@ -91,7 +91,7 @@ Em cada pa&iacute;s reivindicaremos que o Governo vote a favor tanto da Declara&
 A Via esteve presente na mobiliza&ccedil;&atilde;o internacional ocorrida em Genebra em 2014, durante a 26&ordf; reuni&atilde;o do Conselho de Direitos Humanos da Organiza&ccedil;&atilde;o das Na&ccedil;&otilde;es Unidas, quando conseguimos aprovar uma resolu&ccedil;&atilde;o para responsabilizar as transnacionais pelas viola&ccedil;&otilde;es de direitos humanos cometidas no contexto de suas atividades. Foi uma vota&ccedil;&atilde;o apertada, com 20 pa&iacute;ses votando a favor, 14 contra e 13 absten&ccedil;&otilde;es, incluindo a do Brasil. Agora, a ONU criou um grupo de trabalho intergovernamental para a constru&ccedil;&atilde;o das normas vinculantes.</p>
 
 <p><br />
-<strong>A Via est&aacute; presente nos dois processos. Quais s&atilde;o os principais pontos defendidos pelos movimentos camponeses nesses Tratados?</strong></p>
+<strong>Quais s&atilde;o os principais pontos defendidos pelos movimentos camponeses nesses Tratados?</strong></p>
 
 <p><br />
 Denunciamos a arquitetura da impunidade, que faz com que empresas do capital privado controlem o Estado e aprovem leis, criem institui&ccedil;&otilde;es para atender seus interesses em detrimento dos bens comuns e direitos humanos. Assim ocorre na constru&ccedil;&atilde;o de barragens, no financiamento de campanhas eleitorais, na contamina&ccedil;&atilde;o de nossa comida com veneno, na apropria&ccedil;&atilde;o privada do territ&oacute;rio e do trabalho.</p>
@@ -105,4 +105,5 @@ Os Estados precisam estabelecer a responsabilidade legal das empresas por suas a
 <p><br />
 O Encontro foi positivo, sa&iacute;mos muito motivados e o Coletivo fortalecido e ampliado. Conseguimos aprofundar o tema de nossas Campanhas Internacionais para efetiv&aacute;-las em cada pa&iacute;s e identificamos o desafio comum da criminaliza&ccedil;&atilde;o das lutas sociais no mundo. Este trabalho ser&aacute; multiplicado por todos continentes e vamos construir uma rede de prote&ccedil;&atilde;o para nossos defensores de direitos humanos. N&atilde;o descansaremos enquanto n&atilde;o libertarmos todos os nossos presos pol&iacute;ticos.</p>
 
-<p>&nbsp;</p>
+<p><br />
+<em>*Editado por Maura Silva</em></p>
