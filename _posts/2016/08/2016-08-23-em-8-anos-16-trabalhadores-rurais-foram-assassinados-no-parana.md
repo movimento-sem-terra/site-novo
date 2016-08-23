@@ -94,9 +94,10 @@ Os assassinatos foram denunciados pela Terra de Direitos &agrave; Organiza&ccedi
 O assassinato de Sebasti&atilde;o Camargo foi denunciado &agrave; Comiss&atilde;o Interamericana de Direitos Humanos (CIDH) em 2000, pela demora injustificada no andamento do processo. Apesar do amplo material levantado acerca do assassinato, o processo criminal permaneceu em fase de instru&ccedil;&atilde;o inicial e v&aacute;rios crimes prescreveram pela demora da investiga&ccedil;&atilde;o.</p>
 
 <p><br />
-Em 2009, a CIDH apresentou na Assembleia Geral da Organiza&ccedil;&atilde;o dos Estados Americanos (OEA) o relat&oacute;rio de m&eacute;rito do caso do assassinato do trabalhador rural Sebasti&atilde;o Camargo. A CIDH apontou a necessidade de uma investiga&ccedil;&atilde;o imparcial e efetiva do crime e acusou o Estado brasileiro de n&atilde;o cumprir disposi&ccedil;&otilde;es da Conven&ccedil;&atilde;o Interamericana de Direitos Humanos.<br />
+Em 2009, a CIDH apresentou na Assembleia Geral da Organiza&ccedil;&atilde;o dos Estados Americanos (OEA) o relat&oacute;rio de m&eacute;rito do caso do assassinato do trabalhador rural Sebasti&atilde;o Camargo. A CIDH apontou a necessidade de uma investiga&ccedil;&atilde;o imparcial e efetiva do crime e acusou o Estado brasileiro de n&atilde;o cumprir disposi&ccedil;&otilde;es da Conven&ccedil;&atilde;o Interamericana de Direitos Humanos.</p>
+
+<p><br />
+Outros casos que tramitam na CIDH s&atilde;o os de assassinato de Antonio Tavares Pereira (2003) e S&eacute;timo Garibaldi (1998). Em 2009, a Corte Interamericana de Direitos Humanos da OEA condenou o Estado Brasileiro pela morte de Garibaldi. Mesmo assim, o caso segue com o inqu&eacute;rito policial arquivado.<br />
 &nbsp;</p>
 
-<p><img alt="unnamed2.png" src="//farm9.staticflickr.com/8340/29179807265_e9518207ba_b.jpg" /></p>
-
-<p>Outros casos que tramitam na CIDH s&atilde;o os de assassinato de Antonio Tavares Pereira (2003) e S&eacute;timo Garibaldi (1998). Em 2009, a Corte Interamericana de Direitos Humanos da OEA condenou o Estado Brasileiro pela morte de Garibaldi. Mesmo assim, o caso segue com o inqu&eacute;rito policial arquivado.</p>
+<p><img alt="unnamed2.png" height="700" src="//farm9.staticflickr.com/8340/29179807265_e9518207ba_b.jpg" width="700" /></p>
