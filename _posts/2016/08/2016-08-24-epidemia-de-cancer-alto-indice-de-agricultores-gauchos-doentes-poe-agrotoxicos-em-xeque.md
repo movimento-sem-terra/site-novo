@@ -1,6 +1,10 @@
 ---
 date: "2016-08-24T12:36:12-03:00"
-tags: []
+tags:
+  - tag: agrotóxicos
+  - tag: cancêr
+  - tag: monsanto
+  - tag: glifosato
 images_hd: //farm9.staticflickr.com/8326/28583147153_bc2d02a64b_b.jpg
 title: "'Epidemia de câncer'? Alto índice de agricultores gaúchos doentes põe agrotóxicos em xeque"
 support_line: "O glifosato é o agrotóxico mais usado no país, e fabricado pela Monsanto, que rechaça a relação do uso do produto com a doença"
@@ -46,6 +50,7 @@ files:
 created_date: "2016-08-24T12:43:37-03:00"
 published: true
 releated_posts: []
+section: featured-news
 
 ---
 <figure class="image"><img alt="_90827912_thinkstockphotos-149337494.jpg" height="393" src="//farm9.staticflickr.com/8326/28583147153_bc2d02a64b_b.jpg" width="700" />
