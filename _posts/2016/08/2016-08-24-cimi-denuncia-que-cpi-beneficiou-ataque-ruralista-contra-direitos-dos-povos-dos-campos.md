@@ -66,3 +66,6 @@ O Cimi lamenta o mau uso do instrumento de investiga&ccedil;&atilde;o e dos recu
 <p style="text-align: right;"><br />
 <strong><em>Bras&iacute;lia, DF, 22 de agosto de 2016<br />
 Conselho Indigenista Mission&aacute;rio - Cimi</em></strong></p>
+
+<p><br />
+<em>*Editado por Iris Pacheco</em></p>
