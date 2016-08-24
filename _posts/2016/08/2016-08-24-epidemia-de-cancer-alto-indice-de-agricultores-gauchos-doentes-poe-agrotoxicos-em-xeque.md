@@ -222,5 +222,5 @@ A estimativa &eacute; que para cada registro de intoxica&ccedil;&atilde;o exista
 A Syngenta, fabricante do paraquat, n&atilde;o se manifestou sobre os casos de intoxica&ccedil;&atilde;o e afirmou endossar o posicionamento da Andef.</p>
 
 <figure class="image"><img alt="_90827914_dzv_9216.jpg" height="394" src="//farm9.staticflickr.com/8285/28583147283_34964748e2_b.jpg" width="700" />
-<figcaption>A agricultura &eacute; uma das atividades mais importantes para a economia do noroeste ga&uacute;cho. Foto: Diogo Zanatta/BBC Brasil</figcaption>
+<figcaption><em>A agricultura &eacute; uma das atividades mais importantes para a economia do noroeste ga&uacute;cho. Foto: Diogo Zanatta/BBC Brasil</em></figcaption>
 </figure>
