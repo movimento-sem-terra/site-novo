@@ -33,7 +33,7 @@ releated_posts: []
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
-&ldquo;Achei os temas sensacionais. J&aacute; fiz outros cursos de forma&ccedil;&atilde;o do MST e precisamos conhecer cada vez mais o processo de luta pela terra, principalmente em Goi&aacute;s. N&atilde;o tem nada melhor que aprender&rdquo;. Essa &eacute; a avalia&ccedil;&atilde;o do Sem Terra Jo&atilde;o Neves J&uacute;nior, de 69 anos, mais conhecido como Vovoz&atilde;o.</p>
+&ldquo;J&aacute; fiz outros cursos de forma&ccedil;&atilde;o do MST, mas precisamos conhecer o processo de luta pela terra, principalmente em Goi&aacute;s. N&atilde;o tem nada melhor que aprender&rdquo;. Essa &eacute; a avalia&ccedil;&atilde;o do Sem Terra Jo&atilde;o Neves J&uacute;nior, de 69 anos, mais conhecido como Vovoz&atilde;o.</p>
 
 <p><br />
 Jo&atilde;o foi um dos 73 participantes da Escola Estadual Dandara, que o MST de Goi&aacute;s realizou, entre os dias 15 e 20 de agosto, no Acampamento Leonir Orback, situado na ocupa&ccedil;&atilde;o da Usina Santa Helena, em Santa Helena de Goi&aacute;s, aproximadamente 207 km de Goi&acirc;nia.</p>
