@@ -56,10 +56,8 @@ releated_posts: []
 <em>Por Paula Sperb<br />
 Da BBC Brasil</em></p>
 
-<p>&nbsp;
 <p><br />
 O agricultor At&iacute;lio Marques da Rosa, de 76 anos, andava de moto quando sentiu uma forte tontura e caiu na frente de casa em Braga, uma cidadezinha de menos de 4 mil habitantes no interior do Rio Grande do Sul.</p>
-</p>
 
 <p><br />
 &quot;A tontura reapareceu depois, e os exames mostraram o c&acirc;ncer&quot;, conta o filho Osmar Marques da Rosa, de 55 anos, que tamb&eacute;m &eacute; agricultor.</p>
@@ -162,76 +160,62 @@ O n&uacute;mero &eacute; preocupante, especialmente porque 64,1% dos venenos apl
 
 <p>&nbsp;Inca &eacute; um dos &oacute;rg&atilde;os que se posicionam oficialmente &quot;contra as atuais pr&aacute;ticas de uso de agrot&oacute;xicos no Brasil&quot; e &quot;ressalta seus riscos &agrave; sa&uacute;de, em especial nas causas do c&acirc;ncer&quot;.</p>
 
-<p>&nbsp;</p>
+<p><br />
+Como solu&ccedil;&atilde;o, recomenda o fim da pulveriza&ccedil;&atilde;o a&eacute;rea dos venenos, o fim da isen&ccedil;&atilde;o fiscal para a comercializa&ccedil;&atilde;o dos produtos e o incentivo &agrave; agricultura org&acirc;nica, que n&atilde;o usa agrot&oacute;xico para o cultivo de alimentos.</p>
 
-<p>Como solu&ccedil;&atilde;o, recomenda o fim da pulveriza&ccedil;&atilde;o a&eacute;rea dos venenos, o fim da isen&ccedil;&atilde;o fiscal para a comercializa&ccedil;&atilde;o dos produtos e o incentivo &agrave; agricultura org&acirc;nica, que n&atilde;o usa agrot&oacute;xico para o cultivo de alimentos.</p>
+<p><br />
+M&aacute;rcia Sarpa Campos Mello, pesquisadora do instituto e uma das autoras do &quot;Dossi&ecirc; Abrasco - Os impactos dos Agrot&oacute;xicos na Sa&uacute;de&quot;, ressalta que o agrot&oacute;xico mais usado no Brasil &eacute; o glifosato - vendido com o nome de Roundup e fabricado pela Monsanto.</p>
 
-<p>&nbsp;</p>
+<p><br />
+Segundo ela, o glifosato est&aacute; relacionado aos c&acirc;nceres de mama e pr&oacute;stata, al&eacute;m de linfoma e outras muta&ccedil;&otilde;es gen&eacute;ticas.</p>
 
-<p>M&aacute;rcia Sarpa Campos Mello, pesquisadora do instituto e uma das autoras do &quot;Dossi&ecirc; Abrasco - Os impactos dos Agrot&oacute;xicos na Sa&uacute;de&quot;, ressalta que o agrot&oacute;xico mais usado no Brasil &eacute; o glifosato - vendido com o nome de Roundup e fabricado pela Monsanto.</p>
+<p><br />
+&quot;A Organiza&ccedil;&atilde;o Mundial da Sa&uacute;de (OMS) afirma que 80% dos casos de c&acirc;ncer s&atilde;o atribu&iacute;dos &agrave; exposi&ccedil;&atilde;o de agentes qu&iacute;micos. Se os agrot&oacute;xicos tamb&eacute;m s&atilde;o esses agentes, o que j&aacute; est&aacute; comprovado, temos que diminuir ou banir completamente esses produtos&quot;, defende.</p>
 
-<p>&nbsp;</p>
+<p><br />
+A Monsanto, entretanto, recha&ccedil;a a opini&atilde;o. Procurada pela BBC Brasil, a empresa afirma que o registro do glifosato na Uni&atilde;o Europ&eacute;ia foi renovado por 18 meses, em junho.</p>
 
-<p>Segundo ela, o glifosato est&aacute; relacionado aos c&acirc;nceres de mama e pr&oacute;stata, al&eacute;m de linfoma e outras muta&ccedil;&otilde;es gen&eacute;ticas.</p>
+<p><br />
+A renova&ccedil;&atilde;o, por&eacute;m, n&atilde;o passou sem pol&ecirc;mica. A inten&ccedil;&atilde;o inicial era que a renova&ccedil;&atilde;o fosse por 15 anos. Fran&ccedil;a, It&aacute;lia, Su&eacute;cia e Pa&iacute;ses Baixos foram contra. Um dos motivos &eacute; a recente classifica&ccedil;&atilde;o da Agency for Research on Cancer (IARC), parte da Organiza&ccedil;&atilde;o Mundial da Sa&uacute;de, que classificou o glifosato como &quot;provavelmente cancer&iacute;geno para humanos&quot;.</p>
 
-<p>&nbsp;</p>
+<p><br />
+Procurada, a Monsanto afirma que &quot;todos os usos de produtos registrados &agrave; base de glifosato s&atilde;o seguros para a sa&uacute;de e o meio ambiente, o que &eacute; comprovado por um dos maiores bancos de dados cient&iacute;ficos j&aacute; compilados sobre um produto agr&iacute;cola&quot;.<br />
+&nbsp;</p>
 
-<p>&quot;A Organiza&ccedil;&atilde;o Mundial da Sa&uacute;de (OMS) afirma que 80% dos casos de c&acirc;ncer s&atilde;o atribu&iacute;dos &agrave; exposi&ccedil;&atilde;o de agentes qu&iacute;micos. Se os agrot&oacute;xicos tamb&eacute;m s&atilde;o esses agentes, o que j&aacute; est&aacute; comprovado, temos que diminuir ou banir completamente esses produtos&quot;, defende.</p>
+<figure class="image"><img alt="_90827917_thinkstockphotos-471895659.jpg" height="394" src="//farm9.staticflickr.com/8422/28915414560_984a8b895b_b.jpg" width="700" />
+<figcaption><em>Fabricante afirma que glifosato &eacute; seguro para a sa&uacute;de</em></figcaption>
+</figure>
 
-<p>&nbsp;</p>
+<p><br />
+<strong>Tr&ecirc;s vezes mais</strong></p>
 
-<p>A Monsanto, entretanto, recha&ccedil;a a opini&atilde;o. Procurada pela BBC Brasil, a empresa afirma que o registro do glifosato na Uni&atilde;o Europ&eacute;ia foi renovado por 18 meses, em junho.</p>
+<p><br />
+Segundo a Associa&ccedil;&atilde;o Brasileira de Sa&uacute;de Coletiva (Abrasco), o brasileiro consome at&eacute; 12 litros de agrot&oacute;xico por ano.</p>
 
-<p>&nbsp;</p>
+<p><br />
+A bi&oacute;loga Francesca Werner Ferreira, da Aipan (Associa&ccedil;&atilde;o Ijuiense de Prote&ccedil;&atilde;o ao Ambiente Natural) e professora da Uniju&iacute; (Universidade Regional do Noroeste do Estado do Rio Grande do Sul), alerta que a situa&ccedil;&atilde;o &eacute; ainda pior no noroeste ga&uacute;cho, onde o volume consumido pode ser tr&ecirc;s vezes maior.</p>
 
-<p>A renova&ccedil;&atilde;o, por&eacute;m, n&atilde;o passou sem pol&ecirc;mica. A inten&ccedil;&atilde;o inicial era que a renova&ccedil;&atilde;o fosse por 15 anos. Fran&ccedil;a, It&aacute;lia, Su&eacute;cia e Pa&iacute;ses Baixos foram contra. Um dos motivos &eacute; a recente classifica&ccedil;&atilde;o da Agency for Research on Cancer (IARC), parte da Organiza&ccedil;&atilde;o Mundial da Sa&uacute;de, que classificou o glifosato como &quot;provavelmente cancer&iacute;geno para humanos&quot;.</p>
+<p><br />
+Ela conta que produtores da regi&atilde;o t&ecirc;m abusado das subst&acirc;ncias para secar culturas fora de &eacute;poca da colheita e, assim, aumentar a produ&ccedil;&atilde;o. &Eacute; o caso do trigo, que recebe doses extras de glifosato, 2,4-D, um dos componentes do &quot;agente laranja&quot;, usado como arma qu&iacute;mica durante a Guerra do Vietn&atilde;, e paraquat.</p>
 
-<p>Image copyright Thinkstock</p>
+<p><br />
+Segundo o promotor Nilton Kasctin do Santos, este &uacute;ltimo causa necrose nos rins e morte das c&eacute;lulas do pulm&atilde;o, que terminam em asfixia sem que haja a possibilidade de aplica&ccedil;&atilde;o de oxig&ecirc;nio, pois isso potencializaria os efeitos da subst&acirc;ncia.</p>
 
-<p>Image caption Fabricante afirma que glifosato &eacute; seguro para a sa&uacute;de</p>
+<p><br />
+&quot;Nada disso &eacute; inven&ccedil;&atilde;o de palpiteiro, de ambientalista de esquerda ou de algum cientista maluco que nunca tomou sol. Tamb&eacute;m n&atilde;o &eacute; inven&ccedil;&atilde;o de algum inimigo do agroneg&oacute;cio. Sabe quem diz tudo isso sobre o paraquat? O pr&oacute;prio fabricante. Est&aacute; na bula, no r&oacute;tulo&quot;, alerta o promotor.</p>
 
-<p>&nbsp;</p>
+<p><br />
+No &uacute;ltimo ano, 52 pessoas morreram por intoxica&ccedil;&atilde;o por paraquat em terras ga&uacute;chas, segundo o Centro de Informa&ccedil;&atilde;o Toxicol&oacute;gica do Estado.</p>
 
-<p>Procurada, a Monsanto afirma que &quot;todos os usos de produtos registrados &agrave; base de glifosato s&atilde;o seguros para a sa&uacute;de e o meio ambiente, o que &eacute; comprovado por um dos maiores bancos de dados cient&iacute;ficos j&aacute; compilados sobre um produto agr&iacute;cola&quot;.</p>
+<p><br />
+No Brasil, 1.186 mortes foram causadas por intoxica&ccedil;&atilde;o por agrot&oacute;xico de 2007 a 2014, segundo a coordenadora do Laborat&oacute;rio de Geografia Agr&aacute;ria da USP, Larissa Bombardi.</p>
 
-<p>Tr&ecirc;s vezes mais</p>
+<p><br />
+A estimativa &eacute; que para cada registro de intoxica&ccedil;&atilde;o existam outros 50 casos n&atilde;o notificados, afirma ela. A pesquisa da professora aponta ainda que 300 beb&ecirc;s de zero a um ano de idade sofreram intoxica&ccedil;&atilde;o no mesmo per&iacute;odo.</p>
 
-<p>&nbsp;</p>
+<p><br />
+A Syngenta, fabricante do paraquat, n&atilde;o se manifestou sobre os casos de intoxica&ccedil;&atilde;o e afirmou endossar o posicionamento da Andef.</p>
 
-<p>Segundo a Associa&ccedil;&atilde;o Brasileira de Sa&uacute;de Coletiva (Abrasco), o brasileiro consome at&eacute; 12 litros de agrot&oacute;xico por ano.</p>
-
-<p>&nbsp;</p>
-
-<p>A bi&oacute;loga Francesca Werner Ferreira, da Aipan (Associa&ccedil;&atilde;o Ijuiense de Prote&ccedil;&atilde;o ao Ambiente Natural) e professora da Uniju&iacute; (Universidade Regional do Noroeste do Estado do Rio Grande do Sul), alerta que a situa&ccedil;&atilde;o &eacute; ainda pior no noroeste ga&uacute;cho, onde o volume consumido pode ser tr&ecirc;s vezes maior.</p>
-
-<p>&nbsp;</p>
-
-<p>Ela conta que produtores da regi&atilde;o t&ecirc;m abusado das subst&acirc;ncias para secar culturas fora de &eacute;poca da colheita e, assim, aumentar a produ&ccedil;&atilde;o. &Eacute; o caso do trigo, que recebe doses extras de glifosato, 2,4-D, um dos componentes do &quot;agente laranja&quot;, usado como arma qu&iacute;mica durante a Guerra do Vietn&atilde;, e paraquat.</p>
-
-<p>Image copyright Diogo Zanatta/BBC Brasil</p>
-
-<p>Image caption A agricultura &eacute; uma das atividades mais importantes para a economia do noroeste ga&uacute;cho</p>
-
-<p>&nbsp;</p>
-
-<p>Segundo o promotor Nilton Kasctin do Santos, este &uacute;ltimo causa necrose nos rins e morte das c&eacute;lulas do pulm&atilde;o, que terminam em asfixia sem que haja a possibilidade de aplica&ccedil;&atilde;o de oxig&ecirc;nio, pois isso potencializaria os efeitos da subst&acirc;ncia.</p>
-
-<p>&nbsp;</p>
-
-<p>&quot;Nada disso &eacute; inven&ccedil;&atilde;o de palpiteiro, de ambientalista de esquerda ou de algum cientista maluco que nunca tomou sol. Tamb&eacute;m n&atilde;o &eacute; inven&ccedil;&atilde;o de algum inimigo do agroneg&oacute;cio. Sabe quem diz tudo isso sobre o paraquat? O pr&oacute;prio fabricante. Est&aacute; na bula, no r&oacute;tulo&quot;, alerta o promotor.</p>
-
-<p>&nbsp;</p>
-
-<p>No &uacute;ltimo ano, 52 pessoas morreram por intoxica&ccedil;&atilde;o por paraquat em terras ga&uacute;chas, segundo o Centro de Informa&ccedil;&atilde;o Toxicol&oacute;gica do Estado.</p>
-
-<p>&nbsp;</p>
-
-<p>No Brasil, 1.186 mortes foram causadas por intoxica&ccedil;&atilde;o por agrot&oacute;xico de 2007 a 2014, segundo a coordenadora do Laborat&oacute;rio de Geografia Agr&aacute;ria da USP, Larissa Bombardi.</p>
-
-<p>&nbsp;</p>
-
-<p>A estimativa &eacute; que para cada registro de intoxica&ccedil;&atilde;o existam outros 50 casos n&atilde;o notificados, afirma ela. A pesquisa da professora aponta ainda que 300 beb&ecirc;s de zero a um ano de idade sofreram intoxica&ccedil;&atilde;o no mesmo per&iacute;odo.</p>
-
-<p>&nbsp;</p>
-
-<p>A Syngenta, fabricante do paraquat, n&atilde;o se manifestou sobre os casos de intoxica&ccedil;&atilde;o e afirmou endossar o posicionamento da Andef.</p>
+<figure class="image"><img alt="_90827914_dzv_9216.jpg" height="394" src="//farm9.staticflickr.com/8285/28583147283_34964748e2_b.jpg" width="700" />
+<figcaption>A agricultura &eacute; uma das atividades mais importantes para a economia do noroeste ga&uacute;cho. Foto: Diogo Zanatta/BBC Brasil</figcaption>
+</figure>
