@@ -34,11 +34,10 @@ releated_posts: []
 <span class="s1">A suspens&atilde;o foi dada ap&oacute;s a defesa de Prochet ter entrado com o pedido de Habeas Corpus, alegando que n&atilde;o poderia cumprir um prazo determinado pelo juiz da 2&ordf; Vara do Tribunal do J&uacute;ri.</span></p>
 
 <p class="p1"><br />
-<span class="s1">Pelo fato da defesa ter incorporado no processo cerca de 3mil p&aacute;ginas de documentos e 26 CDs menos de uma semana antes do julgamento, o juiz determinou que os advogados apresentassem, at&eacute; o dia 23, quais documentos e v&iacute;deos seriam utilizados no j&uacute;ri, para que houvesse tempo h&aacute;bil de an&aacute;lise por parte do Minist&eacute;rio P&uacute;blico.</span></p>
+<span class="s1">Pelo fato da defesa ter incorporado no processo cerca de 3 mil p&aacute;ginas de documentos e 26 CDs menos de uma semana antes do julgamento, o juiz determinou que os advogados apresentassem, at&eacute; o dia 23, quais documentos e v&iacute;deos seriam utilizados no j&uacute;ri, para que houvesse tempo h&aacute;bil de an&aacute;lise por parte do Minist&eacute;rio P&uacute;blico.</span></p>
 
 <p class="p1"><br />
-<span class="s1">O julgamento foi suspenso por decis&atilde;o do relator do pedido, o desembargador do Tribunal de Justi&ccedil;a, Clayton<br />
-Camargo, que j&aacute; declarou, durante sess&atilde;o, que integrantes do Movimento dos Trabalhadores Rurais Sem Terra (MST) seriam &ldquo;bandidos, e n&atilde;o assentados&rdquo;.</span></p>
+<span class="s1">O julgamento foi suspenso por decis&atilde;o do relator do pedido, o desembargador do Tribunal de Justi&ccedil;a, Clayton&nbsp;Camargo, que j&aacute; declarou, durante sess&atilde;o, que integrantes do Movimento dos Trabalhadores Rurais Sem Terra (MST) seriam &ldquo;bandidos, e n&atilde;o assentados&rdquo;.</span></p>
 
 <p class="p1"><br />
 <span class="s1"><b>Relembre o caso</b></span></p>
