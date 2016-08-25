@@ -4,7 +4,7 @@ tags:
   - tag: direitos-humanos
   - tag: impunidade
   - tag: violência-no-campo
-title: Júri popular de ex-presidente da UDR acusado de matar trabalhador sem-terra é adiado
+title: Júri popular de ex-presidente da UDR acusado de matar Sem Terra é adiado
 support_line: Júri foi suspenso a pedido da defesa do ruralista Marcos Prochet. Essa é a terceira vez que o FAZENDEIRO pede que julgamento seja adiado
 menu: direitos humanos
 images_hd: //farm9.staticflickr.com/8295/29133931181_898da15a42_b.jpg
@@ -23,7 +23,7 @@ section: cover
 
 ---
 <p><br />
-Da P&aacute;gina do MST&nbsp;</p>
+<em>Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
 ￼Foi adiado o j&uacute;ri popular do Marcos Menezes Prochet, previsto para esta quinta-feira (25), em Curitiba. Ex-presidente da Uni&atilde;o Democr&aacute;tica, Prochet &eacute; acusado de matar o trabalhador rural sem-terra Sebasti&atilde;o Camargo, em 1998. Sem considerar o julgamento que condenou o fazendeiro a 15 anos de pris&atilde;o em 2013 &ndash; e que foi anulado em 2014 &ndash; esta &eacute; terceira vez que o ruralista pede que o j&uacute;ri seja suspenso.</p>
