@@ -48,7 +48,7 @@ Da P&aacute;gina do MST</em></p>
 &ldquo;A Constitui&ccedil;&atilde;o Federal diz que todo o poder emana do povo. Mas se o poder p&otilde;e em causa a soberania nacional devemos nos perguntar quem est&aacute; exercendo esse poder. &Eacute; o povo? N&atilde;o h&aacute; legalidade num sistema que n&atilde;o tenha que ser leg&iacute;timo. Eduardo Cunha era o maior interessado no golpe e foi quem presidiu todas as sess&otilde;es&rdquo;, declara Alfonsin, ao se referir ao processo de impeachment de Dilma Rousseff, acrescentando que a presidenta afastada n&atilde;o est&aacute; sendo impedida, mas sim deposta em um golpe de Estado.</p>
 
 <p><br />
-O p&uacute;blico evento foi composto, em sua maioria, por estudantes de cursos de Direito que tamb&eacute;m refletiram quais os efeitos teria uma poss&iacute;vel mudan&ccedil;a de governo, diante a aprova&ccedil;&atilde;o do impeachment. O que causaria aos direitos humanos e sociais.<br />
+O p&uacute;blico evento foi composto, em sua maioria, por estudantes de cursos de Direito que tamb&eacute;m refletiu sobre os efeitos que uma poss&iacute;vel mudan&ccedil;a de governo, diante a aprova&ccedil;&atilde;o do impeachment, causaria aos direitos humanos e sociais.<br />
 &nbsp;</p>
 
 <p><img alt="IMG_3043.JPG" height="467" src="//farm9.staticflickr.com/8262/28624063823_b733a5f4db_b.jpg" width="700" /></p>
