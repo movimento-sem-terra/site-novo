@@ -19,6 +19,7 @@ files:
 created_date: "2016-08-25T14:01:18-03:00"
 published: true
 releated_posts: []
+section: featured-news
 
 ---
 <figure class="image"><img alt="29216240025_27da144552_z.jpg" src="//farm9.staticflickr.com/8152/28938037260_c4cf204e85_b.jpg" />
