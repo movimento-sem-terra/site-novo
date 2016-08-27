@@ -23,7 +23,7 @@ releated_posts: []
 
 ---
 <figure class="image"><img alt="29139708152_7f3048d48c_z.jpg" src="//farm9.staticflickr.com/8505/28650205243_e3e9550173_b.jpg" />
-<figcaption>A constru&ccedil;&atilde;o do Acampamento come&ccedil;ou h&aacute; mais de um ano. Cr&eacute;ditos: Divulga&ccedil;&atilde;o</figcaption>
+<figcaption><em>A constru&ccedil;&atilde;o do Acampamento come&ccedil;ou h&aacute; mais de um ano. Cr&eacute;ditos: Divulga&ccedil;&atilde;o</em></figcaption>
 </figure>
 
 <p><br />
