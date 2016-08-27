@@ -43,7 +43,9 @@ releated_posts:
 ---
 <p>&nbsp;</p>
 
-<p><img alt="WhatsApp Image 2016-08-26 at 16.10.12.jpeg" height="525" src="//farm9.staticflickr.com/8431/29162043272_247ffe4dc9_b.jpg" width="700" /></p>
+<figure class="image"><img alt="WhatsApp Image 2016-08-26 at 16.10.12.jpeg" height="525" src="//farm9.staticflickr.com/8431/29162043272_247ffe4dc9_b.jpg" width="700" />
+<figcaption>Trabalhadora Sem Terra durante despejo do Acampamento Lu&iacute;s Gama em Teixeira de Freitas</figcaption>
+</figure>
 
 <p><br />
 <em>Por Coletivo de Comunica&ccedil;&atilde;o do MST na Bahia<br />
@@ -62,7 +64,9 @@ A liminar foi emitida pelo juiz da comarca local, Marcos Aurelius, atendendo o p
 De acordo com os trabalhadores e trabalhadoras, a fazenda estava abandonada, tomada pelo mato e n&atilde;o se produzia nada. Al&eacute;m disso, o latifundi&aacute;rio mora em Salvador e n&atilde;o visita a fazenda.<br />
 &nbsp;</p>
 
-<p><img alt="WhatsApp Image 2016-08-26 at 15.44.43.jpeg" height="263" src="//farm9.staticflickr.com/8474/29270393585_b8cec3f678_b.jpg" style="float:left" width="350" /></p>
+<figure class="image" style="float:left"><img alt="WhatsApp Image 2016-08-26 at 15.44.43.jpeg" height="263" src="//farm9.staticflickr.com/8474/29270393585_b8cec3f678_b.jpg" width="350" />
+<figcaption>Plantio de hortali&ccedil;as feito pelos Sem Terra na &aacute;rea</figcaption>
+</figure>
 
 <p>Em 2014, por exemplo, a propriedade foi arrendada &agrave;s empresas de eucalipto da regi&atilde;o, mas devido o relevo muito inclinado o negocio n&atilde;o funcionou e o propriet&aacute;rio abandonou a terra.</p>
 
