@@ -22,9 +22,12 @@ published: true
 releated_posts: []
 
 ---
-<p>&nbsp;</p>
+<figure class="image"><img alt="29139708152_7f3048d48c_z.jpg" src="//farm9.staticflickr.com/8505/28650205243_e3e9550173_b.jpg" />
+<figcaption>A constru&ccedil;&atilde;o do Acampamento come&ccedil;ou h&aacute; mais de um ano. Cr&eacute;ditos: Divulga&ccedil;&atilde;o</figcaption>
+</figure>
 
-<p><em>Am&eacute;lia Gomes*<br />
+<p><br />
+<em>Am&eacute;lia Gomes*<br />
 Do Brasil de Fato</em></p>
 
 <p><br />
