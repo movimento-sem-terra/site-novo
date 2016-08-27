@@ -67,7 +67,6 @@ main.post {
 @media(max-width: $screen-xs) {
   main.post article figure {
     img {
-      width: 100%;
       height: auto;
     }
 
@@ -118,9 +117,6 @@ main.post {
         p{
           font-size: 1.3em;
         }
-      }
-      img {
-        width: 100%;
       }
     }
   }
