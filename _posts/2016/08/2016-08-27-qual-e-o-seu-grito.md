@@ -1,8 +1,11 @@
 ---
 date: "2016-08-27T16:00:17-03:00"
-tags: []
+tags:
+  - tag: grito-dos-excluídos-2016
+  - tag: luta
+  - tag: defesa-de-direitos
 title: Qual é o seu grito?
-support_line: "É hora de dizer: basta! O Brasil e as nossas riquezas são nossas"
+support_line: "O grito dos excluídos é uma manifestação popular carregada de simbolismo, gestos e expressões, congregando diversidades culturais, de classes, pessoas, gêneros e organizações"
 images_hd: //farm9.staticflickr.com/8878/29192448721_c4836c5233_b.jpg
 menu: lutas e mobilizações
 layout: post
@@ -22,6 +25,7 @@ files:
 created_date: "2016-08-27T16:05:33-03:00"
 published: true
 releated_posts: []
+label: articles
 
 ---
 <p>&nbsp;</p>
