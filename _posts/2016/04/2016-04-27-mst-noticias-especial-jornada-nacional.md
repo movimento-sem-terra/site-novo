@@ -16,6 +16,8 @@ files:
     $$hashKey: 0GC
 created_date: "2016-04-27T14:32:31-03:00"
 published: true
+section: "boletim"
+soundcloud: '<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/276708281&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>'
 releated_posts: []
 
 ---

@@ -80,7 +80,8 @@
     {"name": "Vídeo", "id": "tv"},
     {"name": "Musicoteca", "id": "musicoteca"},
     {"name": "Campanha", "id": "campaign"},
-    {"name": "Jornal", "id": "newspaper"}
+    {"name": "Jornal", "id": "newspaper"},
+    {"name": "Boletim", "id": "boletim"}
     ]
   }
 },
@@ -229,6 +230,19 @@
     "field": "section",
     "equal": true,
     "value": "tv"
+  }
+},
+{
+  "name": "soundcloud",
+  "title": "Link SoundCloud",
+  "required": true,
+  "type": {
+    "view": "textarea"
+  },
+  "need": {
+    "field": "section",
+    "equal": true,
+    "value": "boletim"
   }
 },
 {

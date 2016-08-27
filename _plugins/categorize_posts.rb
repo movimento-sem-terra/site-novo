@@ -11,6 +11,7 @@ module Jekyll
       musicoteca_tape = musicoteca.select{ |m| m.data['type'] == 'tape' }
       musicoteca_partners = musicoteca.select{ |m| m.data['type'] == 'partner' }
 
+      boletim = find('boletim').first
       cover = find('cover').first
       tv_mst = find('tv').slice(0,5)
       newspapers = find('newspaper', 'section', 1)
@@ -48,8 +49,8 @@ module Jekyll
       site.config['special_stories'] = special_stories
       site.config['campaigns'] = campaigns
       site.config['newspaper'] = newspapers.first
+      site.config['boletim'] = boletim
       site.config['others'] = @newest_post
-
     end
 
     def find value, field = 'section', minimum = 0, except = []

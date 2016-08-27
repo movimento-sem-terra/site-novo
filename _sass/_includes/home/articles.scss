@@ -3,6 +3,14 @@ section.articles {
     width: 100%;
   }
 
+  .boletim {
+    margin-top: 40px;
+
+    iframe {
+       max-height: 250px;
+    }
+  }
+
   @media(min-width: $screen-sm) {
 	  border: none;
     vertical-align:top;
