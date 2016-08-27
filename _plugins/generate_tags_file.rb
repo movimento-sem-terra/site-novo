@@ -8,7 +8,7 @@ module Jekyll
     def generate(site)
       tags = Hash.new
 
-      site.posts.docs.last(2000).each do |post|
+      site.posts.docs.last(1000).each do |post|
         post.data['tags'].each do |tag|
           key = tag.values.first.downcase
           value = post.relative_path
