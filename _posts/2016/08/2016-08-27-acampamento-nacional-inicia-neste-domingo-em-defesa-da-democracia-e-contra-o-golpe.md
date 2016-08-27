@@ -5,7 +5,7 @@ tags:
   - tag: brasilia
   - tag: democracia
   - tag: golpe
-title: Acampamento Nacional inicia neste domingo em defesa da democracia e contra o golpe
+title: Acampamento Nacional em defesa da democracia e contra o golpe inicia neste domingo
 support_line: "Organizado pelas Frentes Brasil Popular e Povo Sem Medo, o acampamento será o ponto de referência da resistência popular "
 menu: lutas e mobilizações
 images_hd: //farm9.staticflickr.com/8078/28648999193_169cd6da01_b.jpg
