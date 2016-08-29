@@ -4,7 +4,7 @@ tags:
   - tag: repressão
   - tag: movimentos-populares
   - tag: morte-no-campo
-title: "Em carta Movimentos sociais denunciam repressão as causas sociais "
+title: "Em carta, Movimentos sociais denunciam repressão as causas sociais "
 support_line: "O documento repudia contundentemente o autoritarismo de práticas que negam ao povo o direito de se manifestar livremente, sobretudo quando outros direitos lhes são negados"
 menu: lutas e mobilizações
 images_hd: //farm9.staticflickr.com/8496/29236217181_8f6876e33b_b.jpg
