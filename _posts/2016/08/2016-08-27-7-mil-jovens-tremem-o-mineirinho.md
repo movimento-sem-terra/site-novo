@@ -40,7 +40,7 @@ O 3&deg; Acampamento Nacional do Levante vai acontecer de 5 a 9 de setembro em B
 A constru&ccedil;&atilde;o do Acampamento come&ccedil;ou h&aacute; mais de um ano e revela aspectos que est&atilde;o presentes na forma de agir e lutar do cotidiano dos militantes, mostrando que a pol&iacute;tica tamb&eacute;m deve ser constru&iacute;da pela juventude. Na disputa pelos nossos direitos todas as formas de luta s&atilde;o v&aacute;lidas, por isso, arte e cultura tamb&eacute;m comp&otilde;e os m&eacute;todos de luta do Levante e v&atilde;o permear o encontro.</p>
 
 <p><br />
-O acampamento &eacute; constru&iacute;do de forma aut&ocirc;noma e conta com apoio e parceria de artistas e personalidades pol&iacute;ticas para construir sua programa&ccedil;&atilde;o que contar&aacute; com shows, oficinas e rodas de debate. Parte da despesa ser&aacute; viabilizada atrav&eacute;s de uma campanha de financiamento coletivo. Para contribuir acesse <a href="http://www.catarse.me/3acampalevante">www.catarse.me/3acampalevante</a> e veja as possibilidades de recompensa.</p>
+O acampamento &eacute; constru&iacute;do de forma aut&ocirc;noma e conta com apoio e parceria de artistas e personalidades pol&iacute;ticas para construir sua programa&ccedil;&atilde;o que contar&aacute; com shows, oficinas e rodas de debate. Parte da despesa ser&aacute; viabilizada atrav&eacute;s de uma campanha de financiamento coletivo. Para contribuir acesse <a href="https://www.catarse.me/3acampadolevante">www.catarse.me/3acampalevante</a> e veja as possibilidades de recompensa.</p>
 
 <p><br />
 <em>*Am&eacute;lia Gomes &eacute; jornalista e militante do Levante Popular da Juventude.</em></p>
