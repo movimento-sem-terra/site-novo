@@ -33,7 +33,7 @@ releated_posts:
 
 ---
 <figure class="image"><img alt="29236521781_faeea2e49f_z.jpg" src="//farm9.staticflickr.com/8544/29282173376_153675c108_b.jpg" />
-<figcaption>&#39;&#39;No passado, com as armas, e hoje, com a ret&oacute;rica jur&iacute;dica, pretendem novamente atentar contra a democracia e contra o Estado do Direito,&#39;&#39; afirma ex-presidenta / Divulga&ccedil;&atilde;o</figcaption>
+<figcaption>&#39;&#39;No passado, com as armas, e hoje, com a ret&oacute;rica jur&iacute;dica, pretendem novamente atentar contra a democracia e contra o Estado do Direito,&#39;&#39; afirma presidenta / Divulga&ccedil;&atilde;o</figcaption>
 </figure>
 
 <p>&nbsp;</p>
