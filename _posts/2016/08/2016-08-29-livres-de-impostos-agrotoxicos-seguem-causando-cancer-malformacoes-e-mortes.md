@@ -7,16 +7,16 @@ tags:
   - tag: transgênicos
 title: "Livres de impostos, agrotóxicos seguem causando câncer, malformações e mortes"
 support_line: "Em audiência pública, especialistas apontam os perigos dos agroquímicos e o descompasso das leis brasileiras que permitem e isentam de impostos venenos que já foram banidos em outros países"
-images_hd: //farm9.staticflickr.com/8404/29321349455_ffdf78e899_b.jpg
+images_hd: //farm9.staticflickr.com/8049/29321535445_b76bc3ba55_b.jpg
 menu: transgênicos
 layout: post
 files:
-  - link: //farm9.staticflickr.com/8404/29321349455_ffdf78e899_b.jpg
-    thumbnail: //farm9.staticflickr.com/8404/29321349455_ffdf78e899_t.jpg
-    medium: //farm9.staticflickr.com/8404/29321349455_ffdf78e899_z.jpg
-    small: //farm9.staticflickr.com/8404/29321349455_ffdf78e899_n.jpg
-    title: unnamed.jpg
-    $$hashKey: 1JC
+  - link: //farm9.staticflickr.com/8049/29321535445_b76bc3ba55_b.jpg
+    thumbnail: //farm9.staticflickr.com/8049/29321535445_b76bc3ba55_t.jpg
+    medium: //farm9.staticflickr.com/8049/29321535445_b76bc3ba55_z.jpg
+    small: //farm9.staticflickr.com/8049/29321535445_b76bc3ba55_n.jpg
+    title: transgnico750.jpg
+    $$hashKey: 05I
 created_date: "2016-08-29T16:10:44-03:00"
 published: true
 releated_posts:
