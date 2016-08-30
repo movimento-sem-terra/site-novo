@@ -7,7 +7,7 @@ tags:
 title: "''Votem contra o impeachment. Votem pela democracia\", diz Dilma em sua defesa"
 support_line: Leia na íntegra discurso de Dilma Roussef no Senado Federal
 menu: lutas e mobilizações
-section: cover
+section: featured-news
 images_hd: //farm9.staticflickr.com/8544/29282173376_153675c108_b.jpg
 layout: post
 files:
