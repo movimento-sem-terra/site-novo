@@ -3,7 +3,7 @@ date: "2016-08-30T10:59:40-03:00"
 tags:
   - tag: agricultura
   - tag: agronegócio
-title: "Agricultura familiar e o cultivo do fumo: mais de três séculos de dependência econômica."
+title: "Agricultura familiar e o cultivo do fumo: mais de três séculos de dependência econômica"
 support_line: "Em entrevista, Amadeu Bonatorevela que além de o fumo não ser um alimento, é “altamente tóxico” e gera “graves consequências para as pessoas envolvidas no processo produtivo."
 label: interviews
 menu: agronegócio
