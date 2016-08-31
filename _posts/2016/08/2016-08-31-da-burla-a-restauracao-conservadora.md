@@ -86,6 +86,8 @@ Nessas&nbsp; circunst&acirc;ncias &eacute; hora de as for&ccedil;as populares e 
 
 <p>&nbsp;</p>
 
+<p><img alt="WhatsApp Image 2016-08-31 at 11.13.26.jpeg" height="720" src="//farm9.staticflickr.com/8318/29361874635_123a3e77a3_b.jpg" width="700" /></p>
+
 <p>&nbsp;</p>
 
 <p><em>*Editado por Rafael Soriano</em></p>
