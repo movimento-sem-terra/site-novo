@@ -5,7 +5,7 @@ tags:
 title: "“A História tem a dinâmica de ascenso e descenso para a classe trabalhadora”, aponta liderança"
 support_line: "Independente do resultado do julgamento do impeachment, movimentos populares reafirmam a importância da resistência, mesmo em contexto adverso no campo dos direitos sociais."
 images_hd: //farm9.staticflickr.com/8682/29259513121_a08085a485_b.jpg
-section: cover
+section: featured-news
 menu: lutas e mobilizações
 layout: post
 files:
