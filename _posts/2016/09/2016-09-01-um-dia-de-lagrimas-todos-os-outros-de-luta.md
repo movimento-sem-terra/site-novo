@@ -4,8 +4,8 @@ tags:
   - tag: contra-o-golpe
   - tag: democracia
   - tag: lutas-e-mobilizações
-title: Um dia de lágrimas. Todos os outros de luta
-support_line: "Movimentos populares e organizações de defesa dos direitos humanos lamentam a violação da democracia "
+title: "“Aos movimentos populares sempre coube a luta por direitos\""
+support_line: Movimentos populares e organizações lamentam a violação da democracia e reafirmam a resistência a um governo sem a legitimidade das urnas
 images_hd: //farm9.staticflickr.com/8535/29102180220_2b14e16d50_b.jpg
 menu: lutas e mobilizações
 layout: post
@@ -52,8 +52,6 @@ section: null
 <figure class="image"><img alt="WhatsApp Image 2016-09-01 at 16.29.04.jpeg" height="465" src="//farm9.staticflickr.com/8505/28768674193_0c73f0ea93_b.jpg" width="700" />
 <figcaption></figcaption>
 </figure>
-
-<p>&nbsp;</p>
 
 <p><em>Por Lizely Borges<br />
 Da P&aacute;gina do MST&nbsp;</em></p>
@@ -102,7 +100,8 @@ O Conselho Nacional referido por Cl&eacute;ber foi instalado em abril deste ano,
 Na pauta agr&aacute;ria os movimentos campesinos destacam como avan&ccedil;os na gest&atilde;o de Dilma os Programas de Aquisi&ccedil;&atilde;o de Alimentos (PAA), a destina&ccedil;&atilde;o de recursos para pequenos agricultores pelo Plano Safra, a reserva de moradias para agricultores pelo Programa Minha Casa, Minha Vida e programas de assist&ecirc;ncia t&eacute;cnica: &ldquo;Imagine o que &eacute; uma fam&iacute;lia camponesa que n&atilde;o tinha casa e passa a ter, mudou a cara no campo. O PAA tamb&eacute;m garantiu que fam&iacute;lias possam produzir e comercializar alimentos. O Safra garantiu a proje&ccedil;&atilde;o de recursos para a agricultura familiar, com a estrutura&ccedil;&atilde;o da cadeia produtiva. Com o golpe, o que est&aacute; em jogo s&atilde;o as conquistas que para n&oacute;s &eacute; insuficiente mas para as elites s&atilde;o demais&rdquo;, destaca Rafaela.</p>
 
 <p><br />
-O coordenador do Movimento dos Trabalhadores Rurais sem Terra (MST), Alexandre Concei&ccedil;&atilde;o, destaca que a posse de Michel Temer (PMDB) cria obst&aacute;culos ao avan&ccedil;o da pauta agr&aacute;ria. &ldquo;Mesmo com cr&iacute;ticas ao governo de Dilma na quest&atilde;o agr&aacute;ria, com a vota&ccedil;&atilde;o de hoje n&oacute;s tivemos a constru&ccedil;&atilde;o de um projeto de governo que interrompe qualquer distribui&ccedil;&atilde;o de renda e riqueza no campo&rdquo;, diz.</p>
+O coordenador do Movimento dos Trabalhadores Rurais sem Terra (MST), Alexandre Concei&ccedil;&atilde;o, destaca que a posse de Michel Temer (PMDB) cria obst&aacute;culos ao avan&ccedil;o da pauta agr&aacute;ria. &ldquo;Mesmo com cr&iacute;ticas ao governo de Dilma na quest&atilde;o agr&aacute;ria, com a vota&ccedil;&atilde;o de hoje n&oacute;s tivemos a constru&ccedil;&atilde;o de um projeto de governo que interrompe qualquer distribui&ccedil;&atilde;o de renda e riqueza no campo&rdquo;, diz.<br />
+&nbsp;</p>
 
 <figure class="image"><img alt="WhatsApp Image 2016-09-01 at 16.31.18.jpeg" height="465" src="//farm9.staticflickr.com/8378/29390158535_7b0d768c33_b.jpg" width="700" />
 <figcaption></figcaption>
@@ -127,7 +126,8 @@ Cl&eacute;ber tamb&eacute;m destaca a intensifica&ccedil;&atilde;o de processos 
 A composi&ccedil;&atilde;o do Congresso, C&acirc;mara e Senado, julgadores do processo de impeachment de Dilma, &eacute; sinalizadora do cen&aacute;rio de recrudescimento na disputa de for&ccedil;as e de retrocessos sociais. A Frente Parlamentar da Agropecu&aacute;ria (FPA) possui forte incid&ecirc;ncia nas decis&otilde;es tomadas pelo Executivo. Como aponta a Ag&ecirc;ncia A P&uacute;blica, do total de 513 deputados federais, 207 s&atilde;o da bancada ruralista. No Senado o contexto &eacute; semelhante, dos 81 senadores cerca de 32 possuem estreitos v&iacute;nculos com interesses do agroneg&oacute;cio.&nbsp;</p>
 
 <p><br />
-Diante deste contexto os movimentos populares reafirmam o enfrentamento ao governo n&atilde;o legitimado pelas urnas e a defesa permanente de direitos e da democracia. Rafaela aponta que cabe aos movimentos reconhecer a luta hist&oacute;rica da classe trabalhadora, construir unidade entre os diversos setores da esquerda, insistir na pauta da reforma pol&iacute;tica, definir uma pauta nacional de mobiliza&ccedil;&atilde;o e compreender as mulheres e jovens como centrais na luta. &ldquo;Precisamos olh&aacute;-los como sujeitos estrat&eacute;gicos que s&atilde;o e foram para a hist&oacute;ria, para as mudan&ccedil;as que a gente quer&rdquo;, diz.</p>
+Diante deste contexto os movimentos populares reafirmam o enfrentamento ao governo n&atilde;o legitimado pelas urnas e a defesa permanente de direitos e da democracia. Rafaela aponta que cabe aos movimentos reconhecer a luta hist&oacute;rica da classe trabalhadora, construir unidade entre os diversos setores da esquerda, insistir na pauta da reforma pol&iacute;tica, definir uma pauta nacional de mobiliza&ccedil;&atilde;o e compreender as mulheres e jovens como centrais na luta. &ldquo;Precisamos olh&aacute;-los como sujeitos estrat&eacute;gicos que s&atilde;o e foram para a hist&oacute;ria, para as mudan&ccedil;as que a gente quer&rdquo;, diz.<br />
+&nbsp;</p>
 
 <figure class="image"><img alt="WhatsApp Image 2016-09-01 at 16.28.37.jpeg" height="465" src="//farm9.staticflickr.com/8503/29390193235_48fb7559c6_b.jpg" width="700" />
 <figcaption></figcaption>
