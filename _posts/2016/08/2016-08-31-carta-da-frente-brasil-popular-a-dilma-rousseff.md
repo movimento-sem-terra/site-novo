@@ -6,7 +6,7 @@ tags:
 title: Carta da Frente Brasil Popular à Dilma Rousseff
 support_line: "As forças reacionárias, ao interromper vosso legítimo mandato, impuseram um governo usurpador, que não esconde seu perfil misógino e racista."
 menu: projeto popular
-section: cover
+section: featured-news
 images_hd: //farm9.staticflickr.com/8042/29077363340_540b4e9687_b.jpg
 layout: post
 files:
