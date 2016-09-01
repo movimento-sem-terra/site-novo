@@ -46,6 +46,7 @@ releated_posts:
   - _posts/2016/03/2016-03-21-a-luta-e-para-garantir-a-democracia-afirma-frente-brasil-popular.md
   - _posts/2016/05/2016-05-12-interino-ilegitimo-machista-e-patriarcal.md
   - _posts/2016/08/2016-08-24-dilma-a-defesa-da-democracia-exige-luta-diaria.md
+section: null
 
 ---
 <figure class="image"><img alt="WhatsApp Image 2016-09-01 at 16.29.04.jpeg" height="465" src="//farm9.staticflickr.com/8505/28768674193_0c73f0ea93_b.jpg" width="700" />
