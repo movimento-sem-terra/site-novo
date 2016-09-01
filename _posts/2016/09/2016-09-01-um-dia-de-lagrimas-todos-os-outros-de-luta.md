@@ -4,7 +4,7 @@ tags:
   - tag: contra-o-golpe
   - tag: democracia
   - tag: lutas-e-mobilizações
-title: "“Aos movimentos populares sempre coube a luta por direitos\""
+title: "“Aos movimentos populares sempre coube a luta por direitos\", afirma dirigente"
 support_line: Movimentos populares e organizações lamentam a violação da democracia e reafirmam a resistência a um governo sem a legitimidade das urnas
 images_hd: //farm9.staticflickr.com/8535/29102180220_2b14e16d50_b.jpg
 menu: lutas e mobilizações
