@@ -5,19 +5,19 @@ tags:
   - tag: dilma-rousseff
   - tag: lutas-e-mobilizações
   - tag: fora-temer
-title: "\"A farsa foi tão grande que não tiveram coragem de lhe tirar os direitos políticos. Apenas lhe roubaram o mandato\""
+title: "\"A farsa foi tão grande que não tiveram coragem de lhe tirar os direitos políticos.\""
 support_line: "Em artigo, João Pedro Stédile afirma que a burguesia brasileira precisava apenas de um governo totalmente seu para poder implementar seu plano neoliberal"
 menu: direitos humanos
 label: articles
-images_hd: //farm8.staticflickr.com/7522/29096619640_6770e2152b_b.jpg
+images_hd: //farm9.staticflickr.com/8136/29096730200_3e94dcdd04_b.jpg
 layout: post
 files:
-  - link: //farm8.staticflickr.com/7522/29096619640_6770e2152b_b.jpg
-    thumbnail: //farm8.staticflickr.com/7522/29096619640_6770e2152b_t.jpg
-    medium: //farm8.staticflickr.com/7522/29096619640_6770e2152b_z.jpg
-    small: //farm8.staticflickr.com/7522/29096619640_6770e2152b_n.jpg
+  - link: //farm9.staticflickr.com/8136/29096730200_3e94dcdd04_b.jpg
+    thumbnail: //farm9.staticflickr.com/8136/29096730200_3e94dcdd04_t.jpg
+    medium: //farm9.staticflickr.com/8136/29096730200_3e94dcdd04_z.jpg
+    small: //farm9.staticflickr.com/8136/29096730200_3e94dcdd04_n.jpg
     title: stedile2.jpg
-    $$hashKey: 1E2
+    $$hashKey: 1R1
 created_date: "2016-09-01T11:28:40-03:00"
 published: true
 releated_posts:
