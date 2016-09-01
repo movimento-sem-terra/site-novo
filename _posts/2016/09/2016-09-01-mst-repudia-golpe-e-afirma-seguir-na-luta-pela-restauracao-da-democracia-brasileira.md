@@ -51,14 +51,15 @@ Ap&oacute;s a viola&ccedil;&atilde;o da Constitui&ccedil;&atilde;o brasileira co
 A farsa que sustentou este processo foi desmascarada no pr&oacute;prio julgamento, desmontada pela defesa e pela fragilidade da acusa&ccedil;&atilde;o, e reconhecida pelo constrangimento em ca&ccedil;ar os direitos pol&iacute;ticos da presidenta Dilma Rousseff. Sem crimes que pudessem dar base a uma den&uacute;ncia contra a presidenta, a elite econ&ocirc;mica e pol&iacute;tica brasileira ferem gravemente o processo democr&aacute;tico e colocam em risco a legitimidade do voto do povo.</p>
 
 <p><br />
-Coerentes com o hist&oacute;rico de defesa da democracia, recusamos reconhecer o governo de Michel Temer. Temos convic&ccedil;&atilde;o de que o Impeachment n&atilde;o &eacute; o &uacute;ltimo ato de viola&ccedil;&atilde;o dos direitos do povo brasileiro promovido pelas elites econ&ocirc;micas e pol&iacute;ticas do Brasil. Desta forma, denunciamos:</p>
+Coerentes com o hist&oacute;rico de defesa da democracia, recusamos reconhecer o governo de Michel Temer. Temos convic&ccedil;&atilde;o de que o Impeachment n&atilde;o &eacute; o &uacute;ltimo ato de viola&ccedil;&atilde;o dos direitos do povo brasileiro promovido pelas elites econ&ocirc;micas e pol&iacute;ticas do Brasil. Desta forma, denunciamos:<br />
+&nbsp;</p>
 
-<ul>
+<ol>
 	<li>A tentativa de entrega do Pr&eacute;-Sal brasileiro, retirando a exclusividade de explora&ccedil;&atilde;o da Petrobras.</li>
 	<li>A tentativa de flexibiliza&ccedil;&atilde;o dos direitos trabalhistas, dos direitos previdenci&aacute;rios e de sucateamento do Sistema &Uacute;nico de Sa&uacute;de.</li>
 	<li>A tentativa de privatiza&ccedil;&atilde;o dos bens do povo brasileiro e a mercantiliza&ccedil;&atilde;o das nossa&nbsp; terras, &aacute;gua e min&eacute;rios para estrangeiros.</li>
-	<li>A completa paralisa&ccedil;&atilde;o da reforma agr&aacute;ria, somado a retrocessos em todas as &aacute;reas sociais, tais como educa&ccedil;&atilde;o e o desmonte do Programa Minha Casa, Minha Vida.</li>
-</ul>
+	<li>A completa paralisa&ccedil;&atilde;o da reforma agr&aacute;ria, somado a retrocessos em todas as &aacute;reas sociais, tais como educa&ccedil;&atilde;o e o desmonte do Programa Minha Casa, Minha Vida.<span id="cke_bm_370E" style="display: none;">&nbsp;</span></li>
+</ol>
 
 <p><br />
 A sa&iacute;da para a crise pol&iacute;tica, econ&ocirc;mica e social que vivemos &eacute; a defesa irrestrita da democracia. Acreditamos ser fundamental mudan&ccedil;as no sistema pol&iacute;tico brasileiro e defendemos a convoca&ccedil;&atilde;o de uma Constituinte Exclusiva para mudar o sistema pol&iacute;tico. &Eacute; preciso garantir a inclus&atilde;o do povo nos processos decis&oacute;rios do pa&iacute;s, de forma a garantir a participa&ccedil;&atilde;o popular nos temas de interesse nacional, tais como as reformas estruturantes, historicamente impedidas pela classe dominante.</p>
