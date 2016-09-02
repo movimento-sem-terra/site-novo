@@ -48,10 +48,13 @@ E, deste ent&atilde;o, a PM deliberadamente ataca os manifestantes levando p&aci
 Trazemos &agrave; p&uacute;blico nossa indigna&ccedil;&atilde;o, ao passo que nos solidarizamos com D&eacute;bora e todas e todos que s&atilde;o v&iacute;timas cotidianas da pol&iacute;cia que mais mata no mundo.&nbsp;&nbsp;</p>
 
 <p><br />
-O uso da for&ccedil;a&nbsp;s&oacute; corrobora o despreparo de uma institui&ccedil;&atilde;o militarizada que foi criada nos moldes da ditadura militar.&nbsp;</p>
+O uso da for&ccedil;a&nbsp;s&oacute; corrobora o despreparo de uma institui&ccedil;&atilde;o &nbsp;que foi criada nos moldes da ditadura militar e que segue militarizada at&eacute; os dias de hoje.</p>
 
 <p><br />
-Reiteramos que lutar &eacute; um direito garantido em Constitui&ccedil;&atilde;o. E esse direito deve ser respeitado ao passo que cabe &agrave;s ruas a defesa de todos os nossos direitos.&nbsp;A repress&atilde;o s&oacute; aumenta nossa indigna&ccedil;&atilde;o e n&atilde;o vai intimidar a classe trabalhadora de ocupar cada avenida, cada latif&uacute;ndio e a opini&atilde;o p&uacute;blica com nosso grito de resist&ecirc;ncia.<br />
+Reiteramos que lutar &eacute; um direito garantido em Constitui&ccedil;&atilde;o. E isso deve ser respeitado ao passo que cabe &agrave;s ruas a defesa e a manuten&ccedil;&atilde;o desses&nbsp;direitos.&nbsp;</p>
+
+<p><br />
+A repress&atilde;o s&oacute; aumenta nossa indigna&ccedil;&atilde;o e n&atilde;o vai intimidar a classe trabalhadora de ocupar cada avenida, cada latif&uacute;ndio e a opini&atilde;o p&uacute;blica com nosso grito de resist&ecirc;ncia.<br />
 &nbsp;</p>
 
 <p style="text-align: right;">S&atilde;o Paulo, 2 de setembro de 2016.</p>
