@@ -5,7 +5,7 @@ tags:
   - tag: violência
   - tag: repressão
 title: "O uso da força só corrobora o despreparo de uma instituição militarizada "
-support_line: "Em nota: MST repudia violência da Polícia Militar do Estado de São Paulo "
+support_line: "Em nota, MST repudia violência da Polícia Militar do Estado de São Paulo "
 menu: direitos humanos
 images_hd: //farm9.staticflickr.com/8393/29375778886_370237b2ca_b.jpg
 layout: post
