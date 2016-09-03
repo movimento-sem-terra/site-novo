@@ -50,7 +50,7 @@ Em entrevista para a P&aacute;gina do MST, realizada nas depend&ecirc;ncias do P
 Diante do cen&aacute;rio de redu&ccedil;&atilde;o do papel do Estado na efetiva&ccedil;&atilde;o de direitos b&aacute;sicos, o ministro deposto convoca as for&ccedil;as de esquerda a se unirem para o debate com a popula&ccedil;&atilde;o.&nbsp;</p>
 
 <p><br />
-&ldquo;Com o golpe confirmado, temos que nos mobilizar para preservar os nossos direitos e continuar a nossa luta pelas reformas fundamentais que o Brasil precisa &ndash; a reforma tribut&aacute;ria, no sentido que os ricos paguem mais impostos, a reforma agr&aacute;ria, a urbana, na perspectiva de colocarmos em pr&aacute;tica o princ&iacute;pio constitucional da fun&ccedil;&atilde;o social da propriedade e das riquezas, pontua.&nbsp;&nbsp;</p>
+&ldquo;Com o golpe confirmado, temos que nos mobilizar para preservar os nossos direitos e continuar a nossa luta pelas reformas fundamentais que o Brasil precisa &ndash; a reforma tribut&aacute;ria, no sentido que os ricos paguem mais impostos, a reforma agr&aacute;ria, a urbana, na perspectiva de colocarmos em pr&aacute;tica o princ&iacute;pio constitucional da fun&ccedil;&atilde;o social da propriedade e das riquezas&quot;, pontua.&nbsp;&nbsp;</p>
 
 <p><br />
 <strong>Que a&ccedil;&otilde;es adotadas pelo governo de Michel Temer impactar&atilde;o mais fortemente as realidades dos trabalhadores e trabalhadoras rurais?</strong></p>
