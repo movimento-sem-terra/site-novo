@@ -61,10 +61,10 @@ As oficinas que foram feitas em parceria em parceria com a Escola Popular e Lati
 Um dos coletivos participantes da oficina, foi a Alba TV, canal participativo e comunit&aacute;rio criado h&aacute; 10 anos e que al&eacute;m da internet, tem sinal aberto para quase metade dos estados venezuelanos. A proposta do canal &eacute; produzir e vincular not&iacute;cias e conte&uacute;dos a partir dos movimentos populares da Venezuela e tamb&eacute;m da Am&eacute;rica Latina.</p>
 
 <p><br />
-O MST tamb&eacute;m participou de uma oficina realizada pela Escola Livre de Cinema Popular com os cineastas venezuelanos Irm&atilde;os Rodriguez.<br />
-&nbsp;</p>
+O MST tamb&eacute;m participou de uma oficina realizada pela Escola Livre de Cinema Popular com os cineastas venezuelanos Irm&atilde;os Rodriguez.</p>
 
-<p><img alt="WhatsApp Image 2016-08-29 at 12.41.13.jpeg" height="394" src="//farm9.staticflickr.com/8310/28815317043_ff9c5c2429_b.jpg" width="700" /><br />
+<p><br />
+<img alt="WhatsApp Image 2016-08-29 at 12.41.13.jpeg" height="394" src="//farm9.staticflickr.com/8310/28815317043_ff9c5c2429_b.jpg" width="700" /><br />
 <br />
 <strong>Cinema como ferramenta de luta</strong></p>
 
