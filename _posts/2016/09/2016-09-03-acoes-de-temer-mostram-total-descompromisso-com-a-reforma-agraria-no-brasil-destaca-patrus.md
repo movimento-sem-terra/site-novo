@@ -24,6 +24,7 @@ releated_posts:
   - _posts/2016/08/2016-08-29-votem-contra-o-impeachment-votem-pela-democracia-diz-dilma-em-sua-defesa.md
   - _posts/2016/08/2016-08-29-se-ha-golpe-havera-luta.md
   - _posts/2016/08/2016-08-31-carta-da-frente-brasil-popular-a-dilma-rousseff.md
+label: interviews
 
 ---
 <p>&nbsp;</p>
