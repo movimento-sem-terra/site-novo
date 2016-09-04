@@ -61,9 +61,11 @@ As oficinas que foram feitas em parceria em parceria com a Escola Popular e Lati
 Um dos coletivos participantes da oficina, foi a Alba TV, canal participativo e comunit&aacute;rio criado h&aacute; 10 anos e que al&eacute;m da internet, tem sinal aberto para quase metade dos estados venezuelanos. A proposta do canal &eacute; produzir e vincular not&iacute;cias e conte&uacute;dos a partir dos movimentos populares da Venezuela e tamb&eacute;m da Am&eacute;rica Latina.</p>
 
 <p><br />
-O MST tamb&eacute;m participou de uma oficina realizada pela Escola Livre de Cinema Popular com os cineastas venezuelanos Irm&atilde;os Rodriguez.</p>
+O MST tamb&eacute;m participou de uma oficina realizada pela Escola Livre de Cinema Popular com os cineastas venezuelanos Irm&atilde;os Rodriguez.<br />
+&nbsp;</p>
 
-<p><img alt="WhatsApp Image 2016-08-29 at 12.41.13.jpeg" height="225" src="//farm9.staticflickr.com/8310/28815317043_ff9c5c2429_b.jpg" style="float:left" width="400" /><br />
+<p><img alt="WhatsApp Image 2016-08-29 at 12.41.13.jpeg" height="394" src="//farm9.staticflickr.com/8310/28815317043_ff9c5c2429_b.jpg" width="700" /><br />
+<br />
 <strong>Cinema como ferramenta de luta</strong></p>
 
 <p><br />
@@ -91,9 +93,10 @@ O cineasta Andr&eacute;s Rodriguez, tamb&eacute;m acredita nessa perspectiva e c
 &ldquo;Nos afetou muito um olhar de fora, que sempre est&aacute; avaliando ou elaborando nossos discursos e dizendo quem somos. Essa identidade deve ser constru&iacute;da quadro a quadro, com suor, com paix&atilde;o, com sangue, com muita for&ccedil;a para poder calar as vozes de gente que quer nos conquistar, nos colonizar atrav&eacute;s dos discursos, da identidade&rdquo;, salienta.</p>
 
 <p><br />
-Rodriguez ainda aponta o objetivo principal do cinema latino-americano e venezuelano. &ldquo;&Eacute; construir uma identidade pr&oacute;pria, livre, onde realmente nossa maneira de ver as coisas, nossas idiossincrasias, &eacute; uma luta que temos que enfrentar com muita for&ccedil;a&rdquo;, ressalta.</p>
+Rodriguez ainda aponta o objetivo principal do cinema latino-americano e venezuelano. &ldquo;&Eacute; construir uma identidade pr&oacute;pria, livre, onde realmente nossa maneira de ver as coisas, nossas idiossincrasias, &eacute; uma luta que temos que enfrentar com muita for&ccedil;a&rdquo;, ressalta.<br />
+&nbsp;</p>
 
-<p><img alt="WhatsApp Image 2016-08-29 at 13.25.09.jpeg" height="300" src="//farm9.staticflickr.com/8418/29436939845_cbc659e272_b.jpg" style="float:left" width="400" /></p>
+<p><img alt="WhatsApp Image 2016-08-29 at 13.25.09.jpeg" height="338" src="//farm9.staticflickr.com/8418/29436939845_cbc659e272_b.jpg" style="float:left" width="450" /></p>
 
 <p><strong>Agroecologia: troca de experi&ecirc;ncia entre os povos</strong></p>
 
