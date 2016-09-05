@@ -167,3 +167,5 @@ Conselho Indigenista Mission&aacute;rio (CIMI)</p>
 <p>Movimento dos Pequenos Agricultores (MPA)</p>
 
 <p>Movimento dos Trabalhadores Rurais Sem Terra (MST)</p>
+
+<p>Movimento Nacional pela Soberania Popular Frente a Minera&ccedil;&atilde;o (MAM)</p>
