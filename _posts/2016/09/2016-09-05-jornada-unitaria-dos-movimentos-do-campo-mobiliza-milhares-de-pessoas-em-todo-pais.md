@@ -9,7 +9,7 @@ title: "Jornada Unitária dos movimentos do campo mobiliza milhares de pessoas e
 support_line: "Até o momento, já são mais de 12 mil pessoas mobilizadas em sete estados"
 menu: lutas e mobilizações
 section: cover
-images_hd: //farm9.staticflickr.com/8445/29369424982_11b764998f_b.jpg
+images_hd: //farm9.staticflickr.com/8252/29443944036_ded44a90de_b.jpg
 layout: post
 files:
   - link: //farm9.staticflickr.com/8016/28856018503_d2dc71b933_b.jpg
@@ -48,12 +48,6 @@ files:
     small: //farm9.staticflickr.com/8202/28856019183_f1ab42dc53_n.jpg
     title: WhatsApp Image 2016-09-05 at 10.07.36.jpeg
     $$hashKey: 0TF
-  - link: //farm9.staticflickr.com/8445/29369424982_11b764998f_b.jpg
-    thumbnail: //farm9.staticflickr.com/8445/29369424982_11b764998f_t.jpg
-    medium: //farm9.staticflickr.com/8445/29369424982_11b764998f_z.jpg
-    small: //farm9.staticflickr.com/8445/29369424982_11b764998f_n.jpg
-    title: WhatsApp Image 2016-09-05 at 11.41.34.jpeg
-    $$hashKey: 0TI
   - link: //farm9.staticflickr.com/8313/28853681754_987a15f41e_b.jpg
     thumbnail: //farm9.staticflickr.com/8313/28853681754_987a15f41e_t.jpg
     medium: //farm9.staticflickr.com/8313/28853681754_987a15f41e_z.jpg
@@ -72,6 +66,12 @@ files:
     small: //farm9.staticflickr.com/8185/29443829796_fd9e412868_n.jpg
     title: WhatsApp Image 2016-09-05 at 11.16.23 (1).jpeg
     $$hashKey: 0TR
+  - link: //farm9.staticflickr.com/8252/29443944036_ded44a90de_b.jpg
+    thumbnail: //farm9.staticflickr.com/8252/29443944036_ded44a90de_t.jpg
+    medium: //farm9.staticflickr.com/8252/29443944036_ded44a90de_z.jpg
+    small: //farm9.staticflickr.com/8252/29443944036_ded44a90de_n.jpg
+    title: WhatsApp Image 2016-09-05 at 11.41.33.jpeg
+    $$hashKey: 1AL
 created_date: "2016-09-05T13:59:33-03:00"
 published: true
 releated_posts:
@@ -129,7 +129,7 @@ Na capital federal, o principal polo de mobiliza&ccedil;&atilde;o dessa Jornada,
 
 <p>&nbsp;</p>
 
-<figure class="image"><img alt="WhatsApp Image 2016-09-05 at 11.41.34.jpeg" height="394" src="//farm9.staticflickr.com/8445/29369424982_11b764998f_b.jpg" width="700" />
+<figure class="image"><img alt="WhatsApp Image 2016-09-05 at 11.41.33.jpeg" height="394" src="//farm9.staticflickr.com/8252/29443944036_ded44a90de_b.jpg" width="700" />
 <figcaption></figcaption>
 </figure>
 
