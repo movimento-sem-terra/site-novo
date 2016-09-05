@@ -72,6 +72,12 @@ files:
     small: //farm9.staticflickr.com/8356/29399690501_0bd2dbe024_n.jpg
     title: Brasília. Foto Bruno Pilon (2).jpeg
     $$hashKey: 2WF
+  - link: //farm9.staticflickr.com/8073/28857639143_c825483d66_b.jpg
+    thumbnail: //farm9.staticflickr.com/8073/28857639143_c825483d66_t.jpg
+    medium: //farm9.staticflickr.com/8073/28857639143_c825483d66_z.jpg
+    small: //farm9.staticflickr.com/8073/28857639143_c825483d66_n.jpg
+    title: Brasília. Foto Bruno Pilon (1).jpg
+    $$hashKey: "072"
 created_date: "2016-09-05T13:59:33-03:00"
 published: true
 releated_posts:
@@ -122,7 +128,12 @@ Os manifestantes tamb&eacute;m v&atilde;o &agrave;s ruas contra a retirada de di
 Na capital federal, o principal polo de mobiliza&ccedil;&atilde;o dessa Jornada, duas mil pessoas ocuparam na madrugada de hoje (5) o Minist&eacute;rio do Planejamento, na Esplanada dos Minist&eacute;rios.&nbsp;</p>
 
 <p><br />
-As atividades da Jornada de Lutas Unit&aacute;ria estar&atilde;o concentradas neste local, onde j&aacute; est&aacute; sendo montando um acampamento que durar&aacute; at&eacute; o dia 7, quando os manifestantes tamb&eacute;m se integrar&atilde;o &agrave;s a&ccedil;&otilde;es do Grito dos Exclu&iacute;dos.</p>
+As atividades da Jornada de Lutas Unit&aacute;ria estar&atilde;o concentradas neste local, onde j&aacute; est&aacute; sendo montando um acampamento que durar&aacute; at&eacute; o dia 7, quando os manifestantes tamb&eacute;m se integrar&atilde;o &agrave;s a&ccedil;&otilde;es do Grito dos Exclu&iacute;dos.<br />
+&nbsp;</p>
+
+<figure class="image"><img alt="Brasília. Foto Bruno Pilon (1).jpg" height="394" src="//farm9.staticflickr.com/8073/28857639143_c825483d66_b.jpg" width="700" />
+<figcaption><em>Ocupa&ccedil;&atilde;o do Minist&eacute;rio do Planejamento pelo campo unit&aacute;rio em Bras&iacute;lia.</em></figcaption>
+</figure>
 
 <p><br />
 <strong>Alagoas</strong></p>
@@ -134,11 +145,11 @@ Participaram das mobiliza&ccedil;&otilde;es al&eacute;m da Fetag-AL, a Comiss&at
 <p><br />
 Os trabalhadores tamb&eacute;m ocuparam o Tribunal de Contas da Uni&atilde;o (TCU)</p>
 
-<p>&nbsp;</p>
-
+<p>&nbsp;
 <figure class="image"><img alt="14273430_1181987388532379_1382252165_o.jpg" height="420" src="//farm9.staticflickr.com/8070/29443807876_361211938c_b.jpg" width="700" />
 <figcaption></figcaption>
 </figure>
+</p>
 
 <p><br />
 <strong>Cear&aacute;</strong></p>
