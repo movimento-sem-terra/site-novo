@@ -177,7 +177,10 @@ Dentre as reivindica&ccedil;&otilde;es est&aacute; o assentamento imediato das 1
 Por Reforma Agr&aacute;ria, contra o golpe e a retirada de direitos, cerca de dois mil trabalhadores Rurais Sem Terra ocupam desde a manh&atilde; desta segunda-feira (5) o p&aacute;tio do INCRA e do Minist&eacute;rio da Fazenda em Porto Alegre, no Rio Grande do Sul.</p>
 
 <p><br />
-Os agricultores exigem a retomada da Reforma Agr&aacute;ria com o assentamento de 2,3 mil fam&iacute;lias acampadas no estado e a suspens&atilde;o da decis&atilde;o do TCU de penalizar mais de 578 mil assentados no pa&iacute;s por consider&aacute;-los irregulares. No RS, onde h&aacute; em torno de 13 mil fam&iacute;lias assentadas, segundo informa&ccedil;&otilde;es do Incra, mais de 10,5 mil benefici&aacute;rios da reforma agr&aacute;ria encontram-se em situa&ccedil;&atilde;o de irregularidade.<br />
+Os agricultores exigem a retomada da Reforma Agr&aacute;ria com o assentamento de 2,3 mil fam&iacute;lias acampadas no estado e a suspens&atilde;o da decis&atilde;o do TCU de penalizar mais de 578 mil assentados no pa&iacute;s por consider&aacute;-los irregulares.</p>
+
+<p><br />
+No RS, onde h&aacute; em torno de 13 mil fam&iacute;lias assentadas, segundo informa&ccedil;&otilde;es do Incra, mais de 10,5 mil benefici&aacute;rios da reforma agr&aacute;ria encontram-se em situa&ccedil;&atilde;o de irregularidade.<br />
 &nbsp;</p>
 
 <figure class="image"><img alt="WhatsApp Image 2016-09-05 at 07.06.42.jpeg" height="394" src="//farm9.staticflickr.com/8068/29478153115_3d2be4c7e1_b.jpg" width="700" />
