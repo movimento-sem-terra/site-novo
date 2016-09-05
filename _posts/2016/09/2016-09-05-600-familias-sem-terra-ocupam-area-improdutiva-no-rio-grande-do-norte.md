@@ -6,7 +6,7 @@ tags:
   - tag: golpe
   - tag: lutas-e-mobilizações
 images_hd: //farm9.staticflickr.com/8120/29394476011_38b6c0d125_b.jpg
-title: "600 famílias Sem Terra ocupam área improdutiva no Rio Grande do Norte "
+title: "No RN, 600 famílias Sem Terra ocupam fazenda da família do governador, Robinson Farias"
 support_line: O objetivo dos trabalhadores é transformar o espaço em uma Comuna Urbana. Alternativa que surge como projeto de transformação social frente ao Capital
 menu: lutas e mobilizações
 layout: post
