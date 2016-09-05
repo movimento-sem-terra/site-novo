@@ -56,7 +56,8 @@ section: cover
 
 <p><img alt="Brasília (4).jpeg" height="397" src="//farm9.staticflickr.com/8232/29438687976_0e7ae5b430_b.jpg" width="700" /></p>
 
-<p><em>Da P&aacute;gina do MST</em></p>
+<p><br />
+<em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
 Cerca de 2 mil pessoas ocuparam na madrugada de hoje (5) o Minist&eacute;rio do Planejamento, na Esplanada dos Minist&eacute;rios, no Distrito Federal. A a&ccedil;&atilde;o faz parte da&nbsp;Jornada de Lutas Unit&aacute;ria dos Trabalhadores e Trabalhadoras e Povos do Campo, das &Aacute;guas e das Florestas,&nbsp;organizada por movimentos sociais e sindicais, que acontece em todos os estados do Pa&iacute;s, com grande concentra&ccedil;&atilde;o em Bras&iacute;lia, entre os dias 5 a 7 de setembro.</p>
@@ -80,7 +81,3 @@ A Jornada &eacute; realizada por organiza&ccedil;&otilde;es do campo unit&aacute
 <strong>Servi&ccedil;o</strong></p>
 
 <p>Acampamento da Jornada Nacional de Lutas - 5 a 7 de setembro de 2016 em Bras&iacute;lia - DF</p>
-
-<p>&nbsp;</p>
-
-<p><img alt="WhatsApp Image 2016-09-05 at 05.50.06.jpeg" height="394" src="//farm9.staticflickr.com/8239/29438561606_f141afcf82_b.jpg" width="700" /></p>
