@@ -49,7 +49,7 @@ Da P&aacute;gina do MST<br />
 Fotos: Thierry Derone e Pablo Cabrera</em></p>
 
 <p><br />
-O curta metragem &ldquo;La tierra &eacute;s de nosotros&rdquo; (A terra &eacute; nossa) discute de maneira po&eacute;tica a rela&ccedil;&atilde;o das camponesas e camponeses com a terra, seu v&iacute;nculo e sua produ&ccedil;&atilde;o.<span style="line-height: 20.8px;">&nbsp;</span>A estreia do curta ser&aacute; feita nacionalmente pela Alba TV na pr&oacute;xima quarta-feira (7).</p>
+O curta metragem &ldquo;La tierra &eacute;s de nosotros&rdquo; (A terra &eacute; nossa) discute de maneira po&eacute;tica a rela&ccedil;&atilde;o das camponesas e camponeses com a terra, seu v&iacute;nculo e sua produ&ccedil;&atilde;o.<span style="line-height: 20.8px;">&nbsp;</span>A estreia do curta ser&aacute; na Venezuela pela Alba TV, nesta quarta-feira (7).</p>
 
 <p><br />
 O trabalho &eacute; resultado da oficina de cinema e agroecologia realizadas entre os dias 20 e 23 de agosto, em Caquetios, uma escola de forma&ccedil;&atilde;o que est&aacute; sendo constru&iacute;da pelo MST na Venezuela, no estado de Laras, h&aacute; pouco mais de 400km da capital do pa&iacute;s, Caracas.</p>
