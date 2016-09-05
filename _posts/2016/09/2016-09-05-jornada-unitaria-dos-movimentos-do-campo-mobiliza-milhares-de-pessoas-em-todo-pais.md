@@ -90,6 +90,18 @@ files:
     small: //farm9.staticflickr.com/8163/29481423685_bb79237007_n.jpg
     title: WhatsApp Image 2016-09-05 at 10.09.32.jpeg
     $$hashKey: "063"
+  - link: //farm9.staticflickr.com/8440/28857977994_6daa85369d_b.jpg
+    thumbnail: //farm9.staticflickr.com/8440/28857977994_6daa85369d_t.jpg
+    medium: //farm9.staticflickr.com/8440/28857977994_6daa85369d_z.jpg
+    small: //farm9.staticflickr.com/8440/28857977994_6daa85369d_n.jpg
+    title: IMG-20160905-WA0019.jpg
+    $$hashKey: "064"
+  - link: //farm9.staticflickr.com/8130/29193793100_f7ef9a4daa_b.jpg
+    thumbnail: //farm9.staticflickr.com/8130/29193793100_f7ef9a4daa_t.jpg
+    medium: //farm9.staticflickr.com/8130/29193793100_f7ef9a4daa_z.jpg
+    small: //farm9.staticflickr.com/8130/29193793100_f7ef9a4daa_n.jpg
+    title: IMG-20160905-WA0019.jpg
+    $$hashKey: "067"
 created_date: "2016-09-05T13:59:33-03:00"
 published: true
 releated_posts:
@@ -186,7 +198,7 @@ Dentre as reivindica&ccedil;&otilde;es est&aacute; o assentamento imediato das 1
 <strong>Porto Alegre</strong></p>
 
 <p><br />
-Por Reforma Agr&aacute;ria, contra o golpe e a retirada de direitos, cerca de dois mil trabalhadores Rurais Sem Terra ocupam desde a manh&atilde; desta segunda-feira (5) o p&aacute;tio do INCRA e do Minist&eacute;rio da Fazenda em Porto Alegre, no Rio Grande do Sul.</p>
+Por Reforma Agr&aacute;ria, contra o golpe e a retirada de direitos, cerca de dois mil trabalhadores Rurais Sem Terra ocupam desde a manh&atilde; desta segunda-feira (5) o p&aacute;tio do Incra&nbsp;e do Minist&eacute;rio da Fazenda em Porto Alegre, no Rio Grande do Sul.</p>
 
 <p><br />
 Os agricultores exigem a retomada da Reforma Agr&aacute;ria com o assentamento de 2,3 mil fam&iacute;lias acampadas no estado e a suspens&atilde;o da decis&atilde;o do TCU de penalizar mais de 578 mil assentados no pa&iacute;s por consider&aacute;-los irregulares.</p>
@@ -206,7 +218,7 @@ No RS, onde h&aacute; em torno de 13 mil fam&iacute;lias assentadas, segundo inf
 600 fam&iacute;lias Sem Terra ocuparam na madrugada desse domingo (04), uma &aacute;rea improdutiva de 300 hectares localizada na Zona Norte de Natal (Parque dos Coqueiros). O terreno &eacute; de posse da fam&iacute;lia do governador do Rio Grande do Norte, Robinson Farias (PSD).</p>
 
 <p><br />
-Nesta segunda-feira (05), quest&atilde;o agr&aacute;ria &eacute; a pauta principal da jornada e cerca de 300 trabalhadores e trabalhadoras Sem Terra ocuparam o INCRA, em Natal, Rio Grande do Norte.</p>
+Nesta segunda-feira (05), quest&atilde;o agr&aacute;ria &eacute; a pauta principal da jornada e cerca de 300 trabalhadores e trabalhadoras Sem Terra ocuparam o <span style="line-height: 20.8px;">&nbsp;Incra</span>, em Natal, Rio Grande do Norte.</p>
 
 <p><br />
 Segundo, Lucenilson Angelo, da dire&ccedil;&atilde;o nacional do MST, nos &uacute;ltimos meses, com a crise econ&ocirc;mica e com os meses de instabilidade pol&iacute;tica que consolidou o golpe que levou o ent&atilde;o vice-presidente Michel Temer &agrave; Presid&ecirc;ncia da Rep&uacute;blica, a situa&ccedil;&atilde;o da popula&ccedil;&atilde;o do campo piorou significativamente.<br />
@@ -220,8 +232,7 @@ Segundo, Lucenilson Angelo, da dire&ccedil;&atilde;o nacional do MST, nos &uacut
 <strong>Paran&aacute;&nbsp;</strong></p>
 
 <p><br />
-Cerca de mil integrantes do MST, de todas as regi&otilde;es do Paran&aacute;, ocuparam o INCRA na manh&atilde; desta segunda-feira (5).&nbsp;Os trabalhadores tamb&eacute;m denunciam a amea&ccedil;a &agrave; soberania nacional, a criminaliza&ccedil;&atilde;o dos povos ind&iacute;genas, quilombolas, mulheres e a paralisa&ccedil;&atilde;o de diversas pol&iacute;ticas p&uacute;blicas, como as que envolvem o andamento da Reforma Agr&aacute;ria, tais como: o Programa Nacional de Educa&ccedil;&atilde;o na Reforma Agr&aacute;ria (Pronera), Assessoria T&eacute;cnica, Social e Ambiental &agrave; Reforma Agr&aacute;ria &nbsp;(ATES), Terra forte, Programa de Aquisi&ccedil;&atilde;o de Alimentos (PAA), Programa Nacional de Alimenta&ccedil;&atilde;o Escolar (Pnae) e o Programa Minha Casa Minha Vida.<br />
-&nbsp;</p>
+Cerca de mil integrantes do MST, de todas as regi&otilde;es do Paran&aacute;, ocuparam o <span style="line-height: 20.8px;">&nbsp;Incra</span> na manh&atilde; desta segunda-feira (5).&nbsp;Os trabalhadores tamb&eacute;m denunciam a amea&ccedil;a &agrave; soberania nacional, a criminaliza&ccedil;&atilde;o dos povos ind&iacute;genas, quilombolas, mulheres e a paralisa&ccedil;&atilde;o de diversas pol&iacute;ticas p&uacute;blicas, como as que envolvem o andamento da Reforma Agr&aacute;ria, tais como: o Programa Nacional de Educa&ccedil;&atilde;o na Reforma Agr&aacute;ria (Pronera), Assessoria T&eacute;cnica, Social e Ambiental &agrave; Reforma Agr&aacute;ria &nbsp;(ATES), Terra forte, Programa de Aquisi&ccedil;&atilde;o de Alimentos (PAA), Programa Nacional de Alimenta&ccedil;&atilde;o Escolar (Pnae) e o Programa Minha Casa Minha Vida.</p>
 
 <figure class="image"><img alt="WhatsApp Image 2016-09-05 at 10.07.36.jpeg" height="466" src="//farm9.staticflickr.com/8202/28856019183_f1ab42dc53_b.jpg" width="700" />
 <figcaption><em>No Paran&aacute;, os trabalhadores preparam a montagem dos barracos na ocupa&ccedil;&atilde;o do INCRA.</em></figcaption>
@@ -242,7 +253,7 @@ Em Vit&oacute;ria, cerca de 300 Sem Terra ocuparam a sede do Instituto Nacional 
 <strong>Mato Grosso&nbsp;</strong></p>
 
 <p><br />
-Desde domingo (04), cerca de 250 integrantes do MST de todas as regi&otilde;es do estado de Mato Grosso, ocupam a sede do INCRA.</p>
+Desde domingo (04), cerca de 250 integrantes do MST de todas as regi&otilde;es do estado de Mato Grosso, ocupam a sede do <span style="line-height: 20.8px;">&nbsp;Incra</span>.</p>
 
 <p>Os trabalhadores exigem o assentamento imediato das duas mil fam&iacute;lias que se encontram ainda acampadas, a efetiva&ccedil;&atilde;o dos assentamentos a adequa&ccedil;&atilde;o de infraestrutura dos assentamentos j&aacute; existentes e a agilidade no processo de regulariza&ccedil;&atilde;o das fam&iacute;lias beneficiarias da Reforma Agr&aacute;ria junto ao TCU.</p>
 
@@ -257,9 +268,9 @@ Desde domingo (04), cerca de 250 integrantes do MST de todas as regi&otilde;es d
 <p><strong>Maranh&atilde;o </strong></p>
 
 <p><br />
-200 fam&iacute;lias Sem Terra&nbsp;ocuparam nessa manh&atilde; (5)&nbsp;a Superintend&ecirc;ncia Regional do Intituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria.<br />
+200 fam&iacute;lias Sem Terra&nbsp;ocuparam nessa manh&atilde; (5)&nbsp;a Superintend&ecirc;ncia Regional do Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra)<br />
 <br />
-Os manifestantes exigem o fortalecimento&nbsp;do INCRA, e o assentamento imediato das fam&iacute;lias acampadas em todo estado.&nbsp;<br />
+Os manifestantes exigem o fortalecimento&nbsp;do instituto, e o assentamento imediato das fam&iacute;lias acampadas em todo estado.&nbsp;<br />
 &nbsp;</p>
 
 <figure class="image"><img alt="WhatsApp Image 2016-09-05 at 15.18.30.jpeg" height="394" src="//farm9.staticflickr.com/8543/29372705732_d19d7828f4_b.jpg" width="700" />
@@ -277,3 +288,22 @@ Os manifestantes exigem o fortalecimento&nbsp;do INCRA, e o assentamento imediat
 <figure class="image"><img alt="WhatsApp Image 2016-09-05 at 10.09.32.jpeg" height="394" src="//farm9.staticflickr.com/8163/29481423685_bb79237007_b.jpg" width="700" />
 <figcaption><em>Em Jornada Unit&aacute;ria de Lutas, Sem Terra bloqueiam a&nbsp;rodovia Anhanguera</em></figcaption>
 </figure>
+
+<p>&nbsp;</p>
+
+<p><strong>Pernambuco&nbsp;</strong></p>
+
+<p>Cerca de 500 Sem Terra ocuparam a sede do&nbsp;&nbsp;do Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra). Os trabalhadores v&atilde;o permanecer no local at&eacute; a pr&oacute;xima sexta-feira (9).</p>
+
+<p><br />
+A ocupa&ccedil;&atilde;o faz parte da Jornada Unit&aacute;ria de Luta e al&eacute;m das pautas j&aacute; apresentadas, os Sem Terra exigem a desapropria&ccedil;&atilde;o de &aacute;rea para fins de Reforma Agr&aacute;ria e tamb&eacute;m acesso ao cr&eacute;dito para agricultura familiar.&nbsp;<br />
+<br />
+&nbsp;</p>
+
+<figure class="image"><img alt="IMG-20160905-WA0019.jpg" height="394" src="//farm9.staticflickr.com/8130/29193793100_f7ef9a4daa_b.jpg" width="700" />
+<figcaption>Sem Terra realizam ocupa&ccedil;&atilde;o na sede do Incra em Pernambuco&nbsp;</figcaption>
+</figure>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
