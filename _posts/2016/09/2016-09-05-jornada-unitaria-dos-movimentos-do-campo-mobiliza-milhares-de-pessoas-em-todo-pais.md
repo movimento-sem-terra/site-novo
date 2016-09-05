@@ -246,6 +246,8 @@ Desde domingo (04), cerca de 250 integrantes do MST de todas as regi&otilde;es d
 
 <p>Os trabalhadores exigem o assentamento imediato das duas mil fam&iacute;lias que se encontram ainda acampadas, a efetiva&ccedil;&atilde;o dos assentamentos a adequa&ccedil;&atilde;o de infraestrutura dos assentamentos j&aacute; existentes e a agilidade no processo de regulariza&ccedil;&atilde;o das fam&iacute;lias beneficiarias da Reforma Agr&aacute;ria junto ao TCU.</p>
 
+<p>&nbsp;</p>
+
 <figure class="image"><img alt="WhatsApp Image 2016-09-05 at 13.51.05.jpeg" height="394" src="//farm9.staticflickr.com/8313/28853681754_987a15f41e_b.jpg" width="700" />
 <figcaption><em>Trabalhadores e trabalhadoras denunciam o governo golpista </em></figcaption>
 </figure>
@@ -261,7 +263,7 @@ Os manifestantes exigem o fortalecimento&nbsp;do INCRA, e o assentamento imediat
 &nbsp;</p>
 
 <figure class="image"><img alt="WhatsApp Image 2016-09-05 at 15.18.30.jpeg" height="394" src="//farm9.staticflickr.com/8543/29372705732_d19d7828f4_b.jpg" width="700" />
-<figcaption>Trabalhadores Sem Terra ocupam o Incra no MA</figcaption>
+<figcaption><em>Trabalhadores Sem Terra ocupam o Incra no MA</em></figcaption>
 </figure>
 
 <p>&nbsp;</p>
@@ -273,5 +275,5 @@ Os manifestantes exigem o fortalecimento&nbsp;do INCRA, e o assentamento imediat
 <p>&nbsp;</p>
 
 <figure class="image"><img alt="WhatsApp Image 2016-09-05 at 10.09.32.jpeg" height="394" src="//farm9.staticflickr.com/8163/29481423685_bb79237007_b.jpg" width="700" />
-<figcaption>Em Jornada Unit&aacute;ria de Lutas, Sem Terra bloqueiam a&nbsp;rodovia Anhanguera</figcaption>
+<figcaption><em>Em Jornada Unit&aacute;ria de Lutas, Sem Terra bloqueiam a&nbsp;rodovia Anhanguera</em></figcaption>
 </figure>
