@@ -18,12 +18,6 @@ files:
     small: //farm9.staticflickr.com/8068/29478153115_3d2be4c7e1_n.jpg
     title: WhatsApp Image 2016-09-05 at 07.06.42.jpeg
     $$hashKey: 0T3
-  - link: //farm9.staticflickr.com/8396/29478153445_592a4d225d_b.jpg
-    thumbnail: //farm9.staticflickr.com/8396/29478153445_592a4d225d_t.jpg
-    medium: //farm9.staticflickr.com/8396/29478153445_592a4d225d_z.jpg
-    small: //farm9.staticflickr.com/8396/29478153445_592a4d225d_n.jpg
-    title: WhatsApp Image 2016-09-05 at 11.28.47.jpeg
-    $$hashKey: 0T6
   - link: //farm9.staticflickr.com/8041/29443778006_16b8f793bc_b.jpg
     thumbnail: //farm9.staticflickr.com/8041/29443778006_16b8f793bc_t.jpg
     medium: //farm9.staticflickr.com/8041/29443778006_16b8f793bc_z.jpg
@@ -78,6 +72,12 @@ files:
     small: //farm9.staticflickr.com/8534/28855909834_20643d37a0_n.jpg
     title: Alagoas (4).jpeg
     $$hashKey: 0DG
+  - link: //farm9.staticflickr.com/8738/29400874911_16689638cd_b.jpg
+    thumbnail: //farm9.staticflickr.com/8738/29400874911_16689638cd_t.jpg
+    medium: //farm9.staticflickr.com/8738/29400874911_16689638cd_z.jpg
+    small: //farm9.staticflickr.com/8738/29400874911_16689638cd_n.jpg
+    title: Rio Grande do Norte (2).jpeg
+    $$hashKey: 06V
 created_date: "2016-09-05T13:59:33-03:00"
 published: true
 releated_posts:
@@ -89,7 +89,6 @@ releated_posts:
   - _posts/2016/05/2016-05-12-nota-do-mst-sobre-afastamento-da-presidenta-dilma-roussef.md
   - _posts/2016/05/2016-05-17-em-salvador-minc-e-ocupado-em-repudio-ao-governo-interino-de-temer.md
   - _posts/2016/05/2016-05-23-esse-golpe-nao-e-so-contra-o-mandato-de-dilma-mas-contra-a-classe-trabalhadora.md
-  - _posts/2016/06/2016-06-10-mobilizacoes-e-paralisacoes-contra-o-golpe-marcam-a-sexta-feira-em-todo-o-brasil-acompanhe-ao-vivo.md
   - _posts/2016/06/2016-06-10-vice-prefeita-de-curitiba-presta-solidariedade-a-luta-do-mst-no-pr.md
   - _posts/2016/09/2016-09-05-mst-chega-a-capital-paranaense-contra-o-golpe-e-por-reforma-agraria.md
   - _posts/2016/09/2016-09-05-600-familias-sem-terra-ocupam-area-improdutiva-no-rio-grande-do-norte.md
@@ -189,14 +188,19 @@ Os agricultores exigem a retomada da Reforma Agr&aacute;ria com o assentamento d
 <strong>Rio Grande do Norte </strong></p>
 
 <p><br />
-600 fam&iacute;lias Sem Terra ocuparam na madrugada desse domingo (04), uma &aacute;rea improdutiva de 300 hectares localizada na Zona Norte de Natal (Parque dos Coqueiros). O terreno &eacute; de posse da fam&iacute;lia do governador do Rio Grande do Norte, Robinson Farias (PSD).&nbsp;</p>
+600 fam&iacute;lias Sem Terra ocuparam na madrugada desse domingo (04), uma &aacute;rea improdutiva de 300 hectares localizada na Zona Norte de Natal (Parque dos Coqueiros). O terreno &eacute; de posse da fam&iacute;lia do governador do Rio Grande do Norte, Robinson Farias (PSD).</p>
 
-<p>Segundo, Lucenilson Angelo, da dire&ccedil;&atilde;o nacional do MST, nos &uacute;ltimos meses, com a crise econ&ocirc;mica e com os meses de instabilidade pol&iacute;tica que consolidou o golpe que levou o ent&atilde;o vice-presidente Michel Temer &agrave; Presid&ecirc;ncia da Rep&uacute;blica, a situa&ccedil;&atilde;o da popula&ccedil;&atilde;o do campo piorou significativamente.</p>
+<p><br />
+Nesta segunda-feira (05), quest&atilde;o agr&aacute;ria &eacute; a pauta principal da jornada e cerca de 300 trabalhadores e trabalhadoras Sem Terra ocuparam o INCRA, em Natal, Rio Grande do Norte.</p>
 
 <p>&nbsp;</p>
 
-<figure class="image"><img alt="WhatsApp Image 2016-09-05 at 10.07.36.jpeg" height="466" src="//farm9.staticflickr.com/8202/28856019183_f1ab42dc53_b.jpg" width="700" />
-<figcaption></figcaption>
+<p>Segundo, Lucenilson Angelo, da dire&ccedil;&atilde;o nacional do MST, nos &uacute;ltimos meses, com a crise econ&ocirc;mica e com os meses de instabilidade pol&iacute;tica que consolidou o golpe que levou o ent&atilde;o vice-presidente Michel Temer &agrave; Presid&ecirc;ncia da Rep&uacute;blica, a situa&ccedil;&atilde;o da popula&ccedil;&atilde;o do campo piorou significativamente.<br />
+<br />
+&nbsp;</p>
+
+<figure class="image"><img alt="WhatsApp Image 2016-09-05 at 11.28.47.jpeg" height="525" src="//farm9.staticflickr.com/8396/29478153445_592a4d225d_b.jpg" width="700" />
+<figcaption>Legenda</figcaption>
 </figure>
 
 <p><br />
