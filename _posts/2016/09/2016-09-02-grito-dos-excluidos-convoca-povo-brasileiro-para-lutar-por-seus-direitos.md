@@ -21,6 +21,7 @@ created_date: "2016-09-02T14:41:20-03:00"
 published: true
 releated_posts:
   - _posts/2016/08/2016-08-27-qual-e-o-seu-grito.md
+section: featured-news
 
 ---
 <p>&nbsp;</p>
