@@ -146,7 +146,7 @@ A bancada ruralista em conluio com Minist&eacute;rio da agricultura e as empresa
 O Brasil &eacute; campe&atilde;o mundial em consumo de venenos, tendo uma m&eacute;dia de consumo anual de 5,2 litros per capita, e sua consequ&ecirc;ncia para os alimentos e a sa&uacute;de publica s&atilde;o graves. A cada dia surgem estudos, pesquisas e evid&ecirc;ncias de suas consequ&ecirc;ncias com a prolifera&ccedil;&atilde;o de c&acirc;ncer, como denunciam m&eacute;dicos e cientistas.</p>
 
 <p><br />
-Exigimos que a pulveriza&ccedil;&atilde;o a&eacute;rea seja barrada e os venenos sejam rigorosamente controlados, incluindo os impostos (hoje s&atilde;o isentos) em sua comercializa&ccedil;&atilde;o. As empresas precisam ser responsabilizadas pelos danos que causam ao povo brasileiro.&nbsp; &nbsp;</p>
+Exigimos que a pulveriza&ccedil;&atilde;o a&eacute;rea seja barrada e os venenos sejam rigorosamente controlados, incluindo os impostos (hoje isentos) em sua comercializa&ccedil;&atilde;o. As empresas precisam ser responsabilizadas pelos danos que causam ao povo brasileiro.&nbsp; &nbsp;</p>
 
 <p><br />
 <em>Bras&iacute;lia, 05 de setembro de 2016</em></p>
