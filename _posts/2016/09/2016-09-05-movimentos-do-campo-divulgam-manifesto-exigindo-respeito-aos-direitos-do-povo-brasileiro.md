@@ -148,22 +148,22 @@ O Brasil &eacute; campe&atilde;o mundial em consumo de venenos, tendo uma m&eacu
 <p><br />
 Exigimos que a pulveriza&ccedil;&atilde;o a&eacute;rea seja barrada e os venenos sejam rigorosamente controlados, incluindo os impostos (hoje s&atilde;o isentos) em sua comercializa&ccedil;&atilde;o. As empresas precisam ser responsabilizadas pelos danos que causam ao povo brasileiro.&nbsp; &nbsp;</p>
 
-<p style="text-align: right;"><br />
+<p><br />
 <em>Bras&iacute;lia, 05 de setembro de 2016</em></p>
 
-<p style="text-align: right;"><br />
+<p><br />
 Conselho Indigenista Mission&aacute;rio (CIMI)</p>
 
-<p style="text-align: right;">Federa&ccedil;&atilde;o Nacional dos Trabalhadores e Trabalhadoras na Agicultura Familiar (FETRAF)</p>
+<p>Federa&ccedil;&atilde;o Nacional dos Trabalhadores e Trabalhadoras na Agicultura Familiar (FETRAF)</p>
 
-<p style="text-align: right;">Confedera&ccedil;&atilde;o Nacional dos Trabalhadores na Agricultura (CONTAG)</p>
+<p>Confedera&ccedil;&atilde;o Nacional dos Trabalhadores na Agricultura (CONTAG)</p>
 
-<p style="text-align: right;">Movimento dos Atingidos por Barragens (MAB)</p>
+<p>Movimento dos Atingidos por Barragens (MAB)</p>
 
-<p style="text-align: right;">Movimento Campon&ecirc;s Popular (MCP)</p>
+<p>Movimento Campon&ecirc;s Popular (MCP)</p>
 
-<p style="text-align: right;">Movimento de Mulheres Camponesas (MMC)</p>
+<p>Movimento de Mulheres Camponesas (MMC)</p>
 
-<p style="text-align: right;">Movimento dos Pequenos Agricultores (MPA)</p>
+<p>Movimento dos Pequenos Agricultores (MPA)</p>
 
-<p style="text-align: right;">Movimento dos Trabalhadores Rurais Sem Terra (MST)</p>
+<p>Movimento dos Trabalhadores Rurais Sem Terra (MST)</p>
