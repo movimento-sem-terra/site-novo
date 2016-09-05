@@ -12,12 +12,6 @@ section: cover
 images_hd: //farm9.staticflickr.com/8356/29399690501_0bd2dbe024_b.jpg
 layout: post
 files:
-  - link: //farm9.staticflickr.com/8016/28856018503_d2dc71b933_b.jpg
-    thumbnail: //farm9.staticflickr.com/8016/28856018503_d2dc71b933_t.jpg
-    medium: //farm9.staticflickr.com/8016/28856018503_d2dc71b933_z.jpg
-    small: //farm9.staticflickr.com/8016/28856018503_d2dc71b933_n.jpg
-    title: WhatsApp Image 2016-09-05 at 05.55.53 - Cópia.jpeg
-    $$hashKey: 0T0
   - link: //farm9.staticflickr.com/8068/29478153115_3d2be4c7e1_b.jpg
     thumbnail: //farm9.staticflickr.com/8068/29478153115_3d2be4c7e1_t.jpg
     medium: //farm9.staticflickr.com/8068/29478153115_3d2be4c7e1_z.jpg
@@ -102,9 +96,8 @@ releated_posts:
 
 <p><em>Da P&aacute;gina do MST&nbsp;</em></p>
 
-<p>&nbsp;</p>
-
-<p>Come&ccedil;ou nessa segunda-feira (5) e vai at&eacute; a pr&oacute;xima quarta (7) em todo pa&iacute;s, a Jornada de Lutas Unit&aacute;ria dos Trabalhadores e Trabalhadoras e Povos do Campo, das &Aacute;guas e das Florestas, organizada por movimentos sociais e sindicais.</p>
+<p><br />
+Come&ccedil;ou nessa segunda-feira (5) e vai at&eacute; a pr&oacute;xima quarta (7) em todo pa&iacute;s, a Jornada de Lutas Unit&aacute;ria dos Trabalhadores e Trabalhadoras e Povos do Campo, das &Aacute;guas e das Florestas, organizada por movimentos sociais e sindicais.</p>
 
 <p><br />
 A quest&atilde;o agr&aacute;ria &eacute; a pauta principal da jornada, que tem entre as suas reivindica&ccedil;&otilde;es o assentamento imediato das mais de 120 mil fam&iacute;lias acampadas em todo o pa&iacute;s, a revoga&ccedil;&atilde;o da lei que permite a venda indiscriminada de terras para estrangeiros, a defesa da produ&ccedil;&atilde;o de alimentos saud&aacute;veis e de pol&iacute;ticas de transi&ccedil;&atilde;o para a agroeocologia.</p>
@@ -116,13 +109,10 @@ Outro ponto tratado durante a Jornada &eacute; desenvolvimento e infraestrutura 
 Os manifestantes tamb&eacute;m v&atilde;o &agrave;s ruas contra a retirada de direitos, contra a criminaliza&ccedil;&atilde;o dos movimentos populares e, principalmente, contra o golpe e pela democracia ap&oacute;s a viola&ccedil;&atilde;o da Constitui&ccedil;&atilde;o brasileira pelo Congresso Nacional e pela elite econ&ocirc;mica e pol&iacute;tica do pa&iacute;s que levou Michel Temer &agrave; Presid&ecirc;ncia da Rep&uacute;blica.&nbsp;</p>
 
 <p><br />
-Confira as a&ccedil;&otilde;es dessa segunda-feira (5)</p>
+<strong>Confira as a&ccedil;&otilde;es dessa segunda-feira (5)</strong></p>
 
-<p>&nbsp;</p>
-
-<figure class="image"><img alt="WhatsApp Image 2016-09-05 at 05.55.53 - Cópia.jpeg" height="466" src="//farm9.staticflickr.com/8016/28856018503_d2dc71b933_b.jpg" width="700" />
-<figcaption><br />
-&nbsp;</figcaption>
+<figure class="image"><img alt="Brasília. Foto Bruno Pilon (2).jpeg" height="466" src="//farm9.staticflickr.com/8356/29399690501_0bd2dbe024_b.jpg" width="700" />
+<figcaption><em>As atividades da Jornada de Lutas Unit&aacute;ria est&atilde;o concentradas em Bras&iacute;lia, onde j&aacute; est&aacute; sendo montado um acampamento que durar&aacute; at&eacute; quarta-feira (7). Foto: Bruno Pilon</em></figcaption>
 </figure>
 
 <p><br />
@@ -131,13 +121,8 @@ Confira as a&ccedil;&otilde;es dessa segunda-feira (5)</p>
 <p><br />
 Na capital federal, o principal polo de mobiliza&ccedil;&atilde;o dessa Jornada, duas mil pessoas ocuparam na madrugada de hoje (5) o Minist&eacute;rio do Planejamento, na Esplanada dos Minist&eacute;rios.&nbsp;</p>
 
-<p>As atividades da Jornada de Lutas Unit&aacute;ria estar&atilde;o concentradas neste local, onde j&aacute; est&aacute; sendo montando um acampamento que durar&aacute; at&eacute; o dia 7, quando os manifestantes tamb&eacute;m se integrar&atilde;o &agrave;s a&ccedil;&otilde;es do Grito dos Exclu&iacute;dos.</p>
-
-<p>&nbsp;</p>
-
-<figure class="image"><img alt="WhatsApp Image 2016-09-05 at 11.41.33.jpeg" height="394" src="//farm9.staticflickr.com/8252/29443944036_ded44a90de_b.jpg" width="700" />
-<figcaption></figcaption>
-</figure>
+<p><br />
+As atividades da Jornada de Lutas Unit&aacute;ria estar&atilde;o concentradas neste local, onde j&aacute; est&aacute; sendo montando um acampamento que durar&aacute; at&eacute; o dia 7, quando os manifestantes tamb&eacute;m se integrar&atilde;o &agrave;s a&ccedil;&otilde;es do Grito dos Exclu&iacute;dos.</p>
 
 <p><br />
 <strong>Alagoas</strong></p>
