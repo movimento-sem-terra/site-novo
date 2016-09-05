@@ -182,7 +182,7 @@ Os agricultores exigem a retomada da Reforma Agr&aacute;ria com o assentamento d
 &nbsp;</p>
 
 <figure class="image"><img alt="WhatsApp Image 2016-09-05 at 07.06.42.jpeg" height="394" src="//farm9.staticflickr.com/8068/29478153115_3d2be4c7e1_b.jpg" width="700" />
-<figcaption></figcaption>
+<figcaption><em>Sem Terra ocupam o Minist&eacute;rio da Fazenda em Porto Alegre&nbsp;</em></figcaption>
 </figure>
 
 <p><br />
