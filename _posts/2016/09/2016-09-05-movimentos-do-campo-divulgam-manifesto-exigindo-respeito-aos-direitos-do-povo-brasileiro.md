@@ -4,7 +4,7 @@ tags:
   - tag: manifesto
   - tag: movimentos-do-campo
   - tag: jornada-unitária
-title: "Movimentos do campo divulgam manifesto exigindo respeito aos direitos do povo brasileiro "
+title: Movimentos do campo divulgam manifesto exigindo respeito aos direitos do povo
 support_line: "\"Estamos mobilizados para defender a democracia, a soberania territorial e alimentar e para impedir qualquer retrocesso aos direitos conquistados pela classe trabalhadora\""
 menu: lutas e mobilizações
 section: featured-news
