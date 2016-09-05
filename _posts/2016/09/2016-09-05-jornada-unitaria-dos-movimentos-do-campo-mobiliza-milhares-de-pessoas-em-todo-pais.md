@@ -1,10 +1,10 @@
 ---
 date: "2016-09-05T13:43:33-03:00"
 tags:
-  - tag: jornada-de-lutas
   - tag: fora-temer
   - tag: contra-o-golpe
   - tag: reforma-agrária
+  - tag: jornada-de-lutas
 title: "Jornada Unitária dos movimentos do campo mobiliza milhares de pessoas em todo país \n"
 support_line: "Até o momento, já são mais de 12 mil pessoas mobilizadas em dez estados"
 menu: lutas e mobilizações
@@ -105,21 +105,16 @@ files:
 created_date: "2016-09-05T13:59:33-03:00"
 published: true
 releated_posts:
-  - _posts/2016/05/2016-05-12-editorial-impeachment-sem-crime-agrediu-democracia.md
   - _posts/2016/04/2016-04-14-ms-responde-a-declaracoes-desonestas-da-deputada-federal-tereza-cristina.md
+  - _posts/2016/04/2016-04-25-em-defesa-da-reforma-agraria-e-da-democracia-sem-terra-marcham-em-al.md
   - _posts/2016/04/2016-04-25-mst-realiza-marchas-em-defesa-da-reforma-agraria-e-da-democracia.md
   - _posts/2016/05/2016-05-09-mst-ocupa-fazenda-ligada-a-temer-em-sao-paulo.md
   - _posts/2016/05/2016-05-11-mst-bloqueia-rodovias-do-distrito-federal-em-defesa-da-democracia.md
-  - _posts/2016/05/2016-05-12-nota-do-mst-sobre-afastamento-da-presidenta-dilma-roussef.md
-  - _posts/2016/05/2016-05-17-em-salvador-minc-e-ocupado-em-repudio-ao-governo-interino-de-temer.md
-  - _posts/2016/05/2016-05-23-esse-golpe-nao-e-so-contra-o-mandato-de-dilma-mas-contra-a-classe-trabalhadora.md
-  - _posts/2016/06/2016-06-10-vice-prefeita-de-curitiba-presta-solidariedade-a-luta-do-mst-no-pr.md
+  - _posts/2016/05/2016-05-12-editorial-impeachment-sem-crime-agrediu-democracia.md
   - _posts/2016/09/2016-09-05-mst-chega-a-capital-paranaense-contra-o-golpe-e-por-reforma-agraria.md
   - _posts/2016/09/2016-09-05-600-familias-sem-terra-ocupam-area-improdutiva-no-rio-grande-do-norte.md
   - _posts/2016/09/2016-09-05-mst-ocupa-incra-e-ministerio-da-fazenda-e-exige-retomada-da-reforma-agraria.md
   - _posts/2016/08/2016-08-09-programa-de-temer-jamais-teria-sido-eleito-nas-urnas-afirma-dilma.md
-  - _posts/2016/05/2016-05-12-interino-ilegitimo-machista-e-patriarcal.md
-  - _posts/2016/06/2016-06-09-movimentos-do-campo-dao-inicio-a-manifestacoes-contra-temer-entenda-as-pautas.md
 
 ---
 <p>&nbsp;</p>
@@ -274,36 +269,29 @@ Os manifestantes exigem o fortalecimento&nbsp;do instituto, e o assentamento ime
 &nbsp;</p>
 
 <figure class="image"><img alt="WhatsApp Image 2016-09-05 at 15.18.30.jpeg" height="394" src="//farm9.staticflickr.com/8543/29372705732_d19d7828f4_b.jpg" width="700" />
-<figcaption><em>Trabalhadores Sem Terra ocupam o Incra no MA</em></figcaption>
+<figcaption><em>Trabalhadores e trabalhadoras Sem Terra ocupam o Incra no MA</em></figcaption>
 </figure>
 
 <p>&nbsp;</p>
 
 <p><strong>S&atilde;o Paulo&nbsp;</strong></p>
 
-<p>Cerca de 150 Sem Terra&nbsp;bloqueram&nbsp;rodovia Anhanguera, km 340 no in&iacute;cio da manh&atilde; dessa segunda-feira.&nbsp;&nbsp; &nbsp; Al&eacute;m do&nbsp;golpe de Estado, os trabalhadores denunciaram o bloqueio de pol&iacute;ticas p&uacute;blicas, a paralisa&ccedil;&atilde;o&nbsp;da Reforma Agr&aacute;ria e a retirada de direitos da classe trabalhadora. Recentemente&nbsp;o Tribunal de Contas da Uni&atilde;o, em uma a&ccedil;&atilde;o que supera suas atribui&ccedil;&otilde;es constitucionais, determinou a paralisa&ccedil;&atilde;o completa da Reforma Agr&aacute;ria, enquadrando atrav&eacute;s de uma metodologia question&aacute;vel, 578 mil benefici&aacute;rios das pol&iacute;ticas p&uacute;blicas no campo.&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<figure class="image"><img alt="WhatsApp Image 2016-09-05 at 10.09.32.jpeg" height="394" src="//farm9.staticflickr.com/8163/29481423685_bb79237007_b.jpg" width="700" />
-<figcaption><em>Em Jornada Unit&aacute;ria de Lutas, Sem Terra bloqueiam a&nbsp;rodovia Anhanguera</em></figcaption>
-</figure>
-
-<p>&nbsp;</p>
-
-<p><strong>Pernambuco&nbsp;</strong></p>
-
-<p>Cerca de 500 Sem Terra ocuparam a sede do&nbsp;&nbsp;do Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra). Os trabalhadores v&atilde;o permanecer no local at&eacute; a pr&oacute;xima sexta-feira (9).</p>
+<p>Cerca de 150 Sem Terra&nbsp;bloquearam a rodovia Anhanguera, km 340 no in&iacute;cio da manh&atilde; dessa segunda-feira (05).&nbsp;&nbsp; &nbsp;</p>
 
 <p><br />
-A ocupa&ccedil;&atilde;o faz parte da Jornada Unit&aacute;ria de Luta e al&eacute;m das pautas j&aacute; apresentadas, os Sem Terra exigem a desapropria&ccedil;&atilde;o de &aacute;rea para fins de Reforma Agr&aacute;ria e tamb&eacute;m acesso ao cr&eacute;dito para agricultura familiar.&nbsp;<br />
+Al&eacute;m do&nbsp;golpe de Estado, os trabalhadores denunciaram o bloqueio de pol&iacute;ticas p&uacute;blicas, a paralisa&ccedil;&atilde;o&nbsp;da Reforma Agr&aacute;ria e a retirada de direitos da classe trabalhadora. Recentemente&nbsp;o TCU, em uma a&ccedil;&atilde;o que supera suas atribui&ccedil;&otilde;es constitucionais, determinou a paralisa&ccedil;&atilde;o completa da Reforma Agr&aacute;ria, enquadrando atrav&eacute;s de uma metodologia question&aacute;vel, 578 mil benefici&aacute;rios das pol&iacute;ticas p&uacute;blicas no campo.&nbsp;<br />
 <br />
 &nbsp;</p>
 
-<figure class="image"><img alt="IMG-20160905-WA0019.jpg" height="394" src="//farm9.staticflickr.com/8130/29193793100_f7ef9a4daa_b.jpg" width="700" />
-<figcaption>Sem Terra realizam ocupa&ccedil;&atilde;o na sede do Incra em Pernambuco&nbsp;</figcaption>
+<figure class="image"><img alt="WhatsApp Image 2016-09-05 at 10.09.32.jpeg" height="394" src="//farm9.staticflickr.com/8163/29481423685_bb79237007_b.jpg" width="700" />
+<figcaption><em>Em Jornada de Lutas Unit&aacute;ria, Sem Terra bloqueiam a&nbsp;rodovia Anhanguera</em></figcaption>
 </figure>
 
-<p>&nbsp;</p>
+<p><br />
+<strong>Pernambuco&nbsp;</strong></p>
 
-<p>&nbsp;</p>
+<p><br />
+Cerca de 500 Sem Terra ocuparam a sede do Incra e os v&atilde;o permanecer no local at&eacute; a pr&oacute;xima sexta-feira (9).</p>
+
+<p><br />
+A ocupa&ccedil;&atilde;o faz parte da Jornada de Lutas Unit&aacute;ria e al&eacute;m das pautas j&aacute; apresentadas, os Sem Terra exigem a desapropria&ccedil;&atilde;o de &aacute;rea para fins de Reforma Agr&aacute;ria e tamb&eacute;m acesso ao cr&eacute;dito para agricultura familiar.</p>
