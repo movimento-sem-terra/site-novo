@@ -48,12 +48,6 @@ files:
     small: //farm9.staticflickr.com/8070/29443807876_361211938c_n.jpg
     title: 14273430_1181987388532379_1382252165_o.jpg
     $$hashKey: 0TO
-  - link: //farm9.staticflickr.com/8185/29443829796_fd9e412868_b.jpg
-    thumbnail: //farm9.staticflickr.com/8185/29443829796_fd9e412868_t.jpg
-    medium: //farm9.staticflickr.com/8185/29443829796_fd9e412868_z.jpg
-    small: //farm9.staticflickr.com/8185/29443829796_fd9e412868_n.jpg
-    title: WhatsApp Image 2016-09-05 at 11.16.23 (1).jpeg
-    $$hashKey: 0TR
   - link: //farm9.staticflickr.com/8356/29399690501_0bd2dbe024_b.jpg
     thumbnail: //farm9.staticflickr.com/8356/29399690501_0bd2dbe024_t.jpg
     medium: //farm9.staticflickr.com/8356/29399690501_0bd2dbe024_z.jpg
@@ -78,6 +72,12 @@ files:
     small: //farm9.staticflickr.com/8738/29400874911_16689638cd_n.jpg
     title: Rio Grande do Norte (2).jpeg
     $$hashKey: 06V
+  - link: //farm9.staticflickr.com/8308/28856260034_6f2b7eb5e4_b.jpg
+    thumbnail: //farm9.staticflickr.com/8308/28856260034_6f2b7eb5e4_t.jpg
+    medium: //farm9.staticflickr.com/8308/28856260034_6f2b7eb5e4_z.jpg
+    small: //farm9.staticflickr.com/8308/28856260034_6f2b7eb5e4_n.jpg
+    title: Espirito Santo (1).jpeg
+    $$hashKey: 06G
 created_date: "2016-09-05T13:59:33-03:00"
 published: true
 releated_posts:
@@ -159,7 +159,7 @@ Os trabalhadores tamb&eacute;m ocuparam o Tribunal de Contas da Uni&atilde;o (TC
 <strong>Cear&aacute;</strong></p>
 
 <p><br />
-Cerca de dois mil trabalhadores/as rurais ocuparam na manh&atilde; desta segunda-feira (05) seis ag&ecirc;ncias do Banco do Nordeste, nos munic&iacute;pios de Santa Quit&eacute;ria, Quixad&aacute;,Crate&uacute;s, Quixeramobim, Itapipoca e Canind&eacute;.</p>
+Cerca de dois mil trabalhadores/as rurais ocuparam na manh&atilde; desta segunda-feira (05) seis ag&ecirc;ncias do Banco do Nordeste, nos munic&iacute;pios de Santa Quit&eacute;ria, Quixad&aacute;, Crate&uacute;s, Quixeramobim, Itapipoca e Canind&eacute;.</p>
 
 <p><br />
 Dentre as reivindica&ccedil;&otilde;es est&aacute; o assentamento imediato das 120 mil fam&iacute;lias acampadas em todo Brasil, demarca&ccedil;&atilde;o de terras ind&iacute;genas e a n&atilde;o retirada de direitos pelo governo golpista de Michel Temer.&nbsp;</p>
@@ -193,51 +193,45 @@ Os agricultores exigem a retomada da Reforma Agr&aacute;ria com o assentamento d
 <p><br />
 Nesta segunda-feira (05), quest&atilde;o agr&aacute;ria &eacute; a pauta principal da jornada e cerca de 300 trabalhadores e trabalhadoras Sem Terra ocuparam o INCRA, em Natal, Rio Grande do Norte.</p>
 
-<p>&nbsp;</p>
-
-<p>Segundo, Lucenilson Angelo, da dire&ccedil;&atilde;o nacional do MST, nos &uacute;ltimos meses, com a crise econ&ocirc;mica e com os meses de instabilidade pol&iacute;tica que consolidou o golpe que levou o ent&atilde;o vice-presidente Michel Temer &agrave; Presid&ecirc;ncia da Rep&uacute;blica, a situa&ccedil;&atilde;o da popula&ccedil;&atilde;o do campo piorou significativamente.<br />
-<br />
+<p><br />
+Segundo, Lucenilson Angelo, da dire&ccedil;&atilde;o nacional do MST, nos &uacute;ltimos meses, com a crise econ&ocirc;mica e com os meses de instabilidade pol&iacute;tica que consolidou o golpe que levou o ent&atilde;o vice-presidente Michel Temer &agrave; Presid&ecirc;ncia da Rep&uacute;blica, a situa&ccedil;&atilde;o da popula&ccedil;&atilde;o do campo piorou significativamente.<br />
 &nbsp;</p>
 
-<figure class="image"><img alt="WhatsApp Image 2016-09-05 at 11.28.47.jpeg" height="525" src="//farm9.staticflickr.com/8396/29478153445_592a4d225d_b.jpg" width="700" />
-<figcaption>Legenda</figcaption>
+<figure class="image"><img alt="Rio Grande do Norte (2).jpeg" height="525" src="//farm9.staticflickr.com/8738/29400874911_16689638cd_b.jpg" width="700" />
+<figcaption><em>Sem Terra ocupam o INCRA em Natal e pressiona por Reforma Agr&aacute;ria</em></figcaption>
 </figure>
 
 <p><br />
 <strong>Paran&aacute;&nbsp;</strong></p>
 
 <p><br />
-Cerca de mil integrantes do MST, de todas as regi&otilde;es do Paran&aacute;, ocuparam na manh&atilde; desta segunda-feira (5), o Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (INCRA).&nbsp;Os trabalhadores tamb&eacute;m denunciam a amea&ccedil;a &agrave; soberania nacional, a criminaliza&ccedil;&atilde;o dos povos ind&iacute;genas, quilombolas, mulheres e a paralisa&ccedil;&atilde;o de diversas pol&iacute;ticas p&uacute;blicas, como as que envolvem o andamento da Reforma Agr&aacute;ria, tais como: o Programa Nacional de Educa&ccedil;&atilde;o na Reforma Agr&aacute;ria (Pronera), Assessoria T&eacute;cnica, Social e Ambiental &agrave; Reforma Agr&aacute;ria &nbsp;(ATES), Terra forte, Programa de Aquisi&ccedil;&atilde;o de Alimentos (PAA), Programa Nacional de Alimenta&ccedil;&atilde;o Escolar (Pnae) e o Programa Minha Casa Minha Vida.</p>
+Cerca de mil integrantes do MST, de todas as regi&otilde;es do Paran&aacute;, ocuparam na manh&atilde; desta segunda-feira (5), o Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (INCRA).&nbsp;Os trabalhadores tamb&eacute;m denunciam a amea&ccedil;a &agrave; soberania nacional, a criminaliza&ccedil;&atilde;o dos povos ind&iacute;genas, quilombolas, mulheres e a paralisa&ccedil;&atilde;o de diversas pol&iacute;ticas p&uacute;blicas, como as que envolvem o andamento da Reforma Agr&aacute;ria, tais como: o Programa Nacional de Educa&ccedil;&atilde;o na Reforma Agr&aacute;ria (Pronera), Assessoria T&eacute;cnica, Social e Ambiental &agrave; Reforma Agr&aacute;ria &nbsp;(ATES), Terra forte, Programa de Aquisi&ccedil;&atilde;o de Alimentos (PAA), Programa Nacional de Alimenta&ccedil;&atilde;o Escolar (Pnae) e o Programa Minha Casa Minha Vida.<br />
+&nbsp;</p>
 
-<p>&nbsp;</p>
-
-<figure class="image"><img alt="WhatsApp Image 2016-09-05 at 11.16.23 (1).jpeg" height="393" src="//farm9.staticflickr.com/8185/29443829796_fd9e412868_b.jpg" width="700" />
-<figcaption></figcaption>
+<figure class="image"><img alt="WhatsApp Image 2016-09-05 at 10.07.36.jpeg" height="466" src="//farm9.staticflickr.com/8202/28856019183_f1ab42dc53_b.jpg" width="700" />
+<figcaption><em>No Paran&aacute;, os trabalhadores preparam a montagem dos barracos na ocupa&ccedil;&atilde;o do INCRA.</em></figcaption>
 </figure>
 
 <p><br />
 <strong>Esp&iacute;rito Santo&nbsp;</strong></p>
 
 <p><br />
-Em Vit&oacute;ria, cerca de 300 Sem Terra ocuparam a sede do Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra). Al&eacute;md e reivindicar as pautas da Jornada de Lutas Unit&aacute;ria dos Trabalhadores e Trabalhadoras e Povos do Campo, das &Aacute;guas e das Florestas, organizada por movimentos sociais e sindicais, que acontece em todos os estados do pa&iacute;s, entre os dias 5 a 7 de setembro. Os trabalhadores tamb&eacute;m protestam contra o golpe que levou o vice-presidente Michel Temer &agrave; Presid&ecirc;ncia da Rep&uacute;blica.&nbsp;</p>
+Em Vit&oacute;ria, cerca de 300 Sem Terra ocuparam a sede do Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra). Al&eacute;m de reivindicar as pautas da Jornada de Lutas Unit&aacute;ria dos Trabalhadores e Trabalhadoras e Povos do Campo, das &Aacute;guas e das Florestas, organizada por movimentos sociais e sindicais, que acontece em todos os estados do pa&iacute;s, entre os dias 5 a 7 de setembro. Os trabalhadores tamb&eacute;m protestam contra o golpe que levou o vice-presidente Michel Temer &agrave; Presid&ecirc;ncia da Rep&uacute;blica.&nbsp;<br />
+&nbsp;</p>
 
-<p>&nbsp;</p>
-
-<figure class="image"><img alt="WhatsApp Image 2016-09-05 at 13.51.05.jpeg" height="394" src="//farm9.staticflickr.com/8313/28853681754_987a15f41e_b.jpg" width="700" />
-<figcaption></figcaption>
+<figure class="image"><img alt="Espirito Santo (1).jpeg" height="487" src="//farm9.staticflickr.com/8308/28856260034_6f2b7eb5e4_b.jpg" width="700" />
+<figcaption><em>Camponeses e camponesas chegam &agrave; sede do INCRA em Vit&oacute;ria, Esp&iacute;rito Santo</em></figcaption>
 </figure>
 
 <p><br />
 <strong>Mato Grosso&nbsp;</strong></p>
 
 <p><br />
-Cerca de 250 integrantes Acampados e Assentados do Movimento dos Trabalhadores Rurais Sem Terra (MST) de todas as regi&otilde;es do Estado de MT, desde domingo (04), ocupam a sede do Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agraria (INCRA). A mobiliza&ccedil;&atilde;o faz parte da Jornada Nacional de Lutas Unit&aacute;rias dos Povos do Campo, das &Aacute;guas e das Florestas. Os trabalhadores exigem o assentamento imediato das duas mil fam&iacute;lias que se encontram ainda acampadas, a efetiva&ccedil;&atilde;o dos assentamentos a adequa&ccedil;&atilde;o de infraestrutura dos assentamentos j&aacute; existentes e a agilidade no processo de regulariza&ccedil;&atilde;o das fam&iacute;lias beneficiarias da Reforma Agr&aacute;ria junto ao Tribunal de Contas da Uni&atilde;o.</p>
+Desde domingo (04), cerca de 250 integrantes do MST de todas as regi&otilde;es do estado de Mato Grosso, ocupam a sede do INCRA.</p>
 
-<p><br />
+<p>Os trabalhadores exigem o assentamento imediato das duas mil fam&iacute;lias que se encontram ainda acampadas, a efetiva&ccedil;&atilde;o dos assentamentos a adequa&ccedil;&atilde;o de infraestrutura dos assentamentos j&aacute; existentes e a agilidade no processo de regulariza&ccedil;&atilde;o das fam&iacute;lias beneficiarias da Reforma Agr&aacute;ria junto ao TCU.<br />
 &nbsp;</p>
 
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
+<figure class="image"><img alt="WhatsApp Image 2016-09-05 at 13.51.05.jpeg" height="394" src="//farm9.staticflickr.com/8313/28853681754_987a15f41e_b.jpg" width="700" />
+<figcaption><em>Trabalhadores e trabalhadoras denunciam o govetrno golpista </em></figcaption>
+</figure>
