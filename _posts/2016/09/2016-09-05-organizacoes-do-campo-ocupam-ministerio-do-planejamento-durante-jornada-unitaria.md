@@ -42,7 +42,7 @@ section: featured-news
 <em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Cerca de 2 mil pessoas ocuparam na madrugada de hoje (5) o Minist&eacute;rio do Planejamento, na Esplanada dos Minist&eacute;rios, no Distrito Federal. A a&ccedil;&atilde;o faz parte da&nbsp;Jornada de Lutas Unit&aacute;ria dos Trabalhadores e Trabalhadoras e Povos do Campo, das &Aacute;guas e das Florestas,&nbsp;organizada por movimentos sociais e sindicais, que acontece em todos os estados do Pa&iacute;s, com grande concentra&ccedil;&atilde;o em Bras&iacute;lia, entre os dias 5 a 7 de setembro.</p>
+Cerca de 2 mil pessoas ocuparam na madrugada de hoje (5) o Minist&eacute;rio do Planejamento, na Esplanada dos Minist&eacute;rios, no Distrito Federal. A a&ccedil;&atilde;o faz parte da&nbsp;Jornada de Lutas Unit&aacute;ria dos Trabalhadores e Trabalhadoras e Povos do Campo, das &Aacute;guas e das Florestas,&nbsp;organizada por Movimentos populares, sindicais e pastorais, que acontece em todos os estados do Pa&iacute;s, com grande concentra&ccedil;&atilde;o em Bras&iacute;lia, entre os dias 5 a 7 de setembro.</p>
 
 <p><br />
 As atividades da&nbsp;Jornada de Lutas Unit&aacute;ria&nbsp;estar&atilde;o concentradas neste local, onde j&aacute; est&aacute; sendo montando um acampamento que durar&aacute; at&eacute; o dia 7, quando os manifestantes tamb&eacute;m se integrar&atilde;o &agrave;s a&ccedil;&otilde;es do Grito dos Exclu&iacute;dos.</p>
