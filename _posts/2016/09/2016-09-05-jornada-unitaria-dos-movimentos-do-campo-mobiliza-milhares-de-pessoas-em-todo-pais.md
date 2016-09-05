@@ -183,6 +183,8 @@ Os agricultores exigem a retomada da Reforma Agr&aacute;ria com o assentamento d
 
 <p>Segundo, Lucenilson Angelo, da dire&ccedil;&atilde;o nacional do MST, nos &uacute;ltimos meses, com a crise econ&ocirc;mica e com os meses de instabilidade pol&iacute;tica que consolidou o golpe que levou o ent&atilde;o vice-presidente Michel Temer &agrave; Presid&ecirc;ncia da Rep&uacute;blica, a situa&ccedil;&atilde;o da popula&ccedil;&atilde;o do campo piorou significativamente.</p>
 
+<p>&nbsp;</p>
+
 <figure class="image"><img alt="WhatsApp Image 2016-09-05 at 10.07.36.jpeg" height="466" src="//farm9.staticflickr.com/8202/28856019183_f1ab42dc53_b.jpg" width="700" />
 <figcaption></figcaption>
 </figure>
