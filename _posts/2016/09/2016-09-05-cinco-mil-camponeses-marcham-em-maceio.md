@@ -40,7 +40,7 @@ releated_posts:
 <p><em>Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
-Numa unidade in&eacute;dita entre os movimentos sociais do campo e a Federa&ccedil;&atilde;o dos Trabalhadores da Agricultura de Alagoas (Fetag-AL), mais de cinco mil trabalhadores rurais iniciam mobiliza&ccedil;&atilde;o na capital alagoana. Partindo da pra&ccedil;a Sinimbu, os camponeses realizam marchas e atos p&uacute;blicos pelas ruas do Centro, defendendo pol&iacute;ticas p&uacute;blicas que colaborem no desenvolvimento do meio rural.</p>
+Numa unidade&nbsp;entre os movimentos sociais do campo e a Federa&ccedil;&atilde;o dos Trabalhadores da Agricultura de Alagoas (Fetag-AL), mais de cinco mil trabalhadores rurais iniciam mobiliza&ccedil;&atilde;o na capital alagoana. Partindo da pra&ccedil;a Sinimbu, os camponeses realizam marchas e atos p&uacute;blicos pelas ruas do Centro, defendendo pol&iacute;ticas p&uacute;blicas que colaborem no desenvolvimento do meio rural.</p>
 
 <p><br />
 No Alto Sert&atilde;o do Estado, os camponeses marcham entre Senador Rui Palmeira e S&atilde;o Jos&eacute; da Tapera, com um contingente de duas mil fam&iacute;lias, que exigem o cumprimento de projetos de irriga&ccedil;&atilde;o prometidos desde 2015. Na oportunidade, as fam&iacute;lias questionam pra quem &eacute; o acesso &agrave; &aacute;gua do Canal do Sert&atilde;o, que j&aacute; conta com 100 km executados, mas abriga &agrave; sua margem fam&iacute;lias sem abastecimento de &aacute;gua.</p>
