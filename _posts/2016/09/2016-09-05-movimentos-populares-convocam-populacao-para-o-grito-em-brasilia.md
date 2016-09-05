@@ -20,6 +20,7 @@ created_date: "2016-09-05T17:20:32-03:00"
 published: true
 releated_posts:
   - _posts/2016/09/2016-09-02-grito-dos-excluidos-convoca-povo-brasileiro-para-lutar-por-seus-direitos.md
+  - _posts/2016/08/2016-08-27-qual-e-o-seu-grito.md
 
 ---
 <p>&nbsp;</p>
