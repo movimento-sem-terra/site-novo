@@ -4,7 +4,7 @@ tags:
   - tag: grito-dos-excluídos-2016
   - tag: brasília
   - tag: convocatória
-title: Movimentos populares convocam população para o Grito em Brasília
+title: Movimentos convocam população para o Grito em Brasília
 support_line: "\"Não podemos esperar nada de bom de um governo que não foi escolhido pelo povo\""
 menu: lutas e mobilizações
 images_hd: //farm8.staticflickr.com/7795/29447898736_67389e8093_b.jpg
