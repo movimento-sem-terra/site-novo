@@ -48,12 +48,12 @@ releated_posts:
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Cerca de dois mil trabalhadores/as rurais ocuparam na manh&atilde; desta segunda-feira (05)&nbsp;seis ag&ecirc;ncias do Banco do Nordeste, nos munic&iacute;pios de Santa Quit&eacute;ria, Quixad&aacute;,Crate&uacute;s, Quixeramobim, Itapipoca e Canind&eacute;.<br />
+Cerca de dois mil trabalhadores rurais&nbsp;ocuparam na manh&atilde; desta segunda-feira (5)&nbsp;seis ag&ecirc;ncias do Banco do Nordeste, nos munic&iacute;pios de Santa Quit&eacute;ria, Quixad&aacute;,Crate&uacute;s, Quixeramobim, Itapipoca e Canind&eacute;.<br />
 <br />
 A a&ccedil;&atilde;o faz parte da Jornada de Lutas Unit&aacute;ria dos Trabalhadores e Trabalhadoras e Povos do Campo, das &Aacute;guas e das Florestas.</p>
 
 <p><br />
-Os trabalhadores e trabalhadoras tamb&eacute;m exigem a suspens&atilde;o imediata do Ac&oacute;rd&atilde;o de n&uacute;mero 775/2016 que inviabiliza a Reforma Agr&aacute;ria.</p>
+Os camponeses tamb&eacute;m exigem a suspens&atilde;o imediata do Ac&oacute;rd&atilde;o de n&uacute;mero 775/2016 que inviabiliza a Reforma Agr&aacute;ria.</p>
 
 <p><br />
 Eles tamb&eacute;m&nbsp;reivindicam o assentamento imediato das 120 mil fam&iacute;lias acampadas em todo Brasil, demarca&ccedil;&atilde;o de terras ind&iacute;genas e a n&atilde;o retirada de direitos pelo governo golpista de Michel Temer.&nbsp;</p>
