@@ -6,7 +6,7 @@ tags:
   - tag: reforma-agrária
   - tag: jornada-de-lutas
 title: "Jornada Unitária dos movimentos do campo mobiliza milhares de pessoas em todo país \n"
-support_line: "Até o momento, já são mais de 12 mil pessoas mobilizadas em dez estados"
+support_line: "Até o momento, cerca de 12 mil pessoas estão mobilizadas em dez estados"
 menu: lutas e mobilizações
 section: cover
 images_hd: //farm9.staticflickr.com/8356/29399690501_0bd2dbe024_b.jpg
