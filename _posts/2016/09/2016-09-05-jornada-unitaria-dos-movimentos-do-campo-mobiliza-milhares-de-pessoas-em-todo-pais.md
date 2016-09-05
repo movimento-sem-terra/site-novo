@@ -6,7 +6,7 @@ tags:
   - tag: contra-o-golpe
   - tag: reforma-agrária
 title: "Jornada Unitária dos movimentos do campo mobiliza milhares de pessoas em todo país \n"
-support_line: "Até o momento, já são mais de 12 mil pessoas mobilizadas em oito estados"
+support_line: "Até o momento, já são mais de 12 mil pessoas mobilizadas em dez estados"
 menu: lutas e mobilizações
 section: cover
 images_hd: //farm9.staticflickr.com/8356/29399690501_0bd2dbe024_b.jpg
@@ -78,6 +78,18 @@ files:
     small: //farm9.staticflickr.com/8308/28856260034_6f2b7eb5e4_n.jpg
     title: Espirito Santo (1).jpeg
     $$hashKey: 06G
+  - link: //farm9.staticflickr.com/8543/29372705732_d19d7828f4_b.jpg
+    thumbnail: //farm9.staticflickr.com/8543/29372705732_d19d7828f4_t.jpg
+    medium: //farm9.staticflickr.com/8543/29372705732_d19d7828f4_z.jpg
+    small: //farm9.staticflickr.com/8543/29372705732_d19d7828f4_n.jpg
+    title: WhatsApp Image 2016-09-05 at 15.18.30.jpeg
+    $$hashKey: "060"
+  - link: //farm9.staticflickr.com/8163/29481423685_bb79237007_b.jpg
+    thumbnail: //farm9.staticflickr.com/8163/29481423685_bb79237007_t.jpg
+    medium: //farm9.staticflickr.com/8163/29481423685_bb79237007_z.jpg
+    small: //farm9.staticflickr.com/8163/29481423685_bb79237007_n.jpg
+    title: WhatsApp Image 2016-09-05 at 10.09.32.jpeg
+    $$hashKey: "063"
 created_date: "2016-09-05T13:59:33-03:00"
 published: true
 releated_posts:
@@ -232,9 +244,34 @@ Em Vit&oacute;ria, cerca de 300 Sem Terra ocuparam a sede do Instituto Nacional 
 <p><br />
 Desde domingo (04), cerca de 250 integrantes do MST de todas as regi&otilde;es do estado de Mato Grosso, ocupam a sede do INCRA.</p>
 
-<p>Os trabalhadores exigem o assentamento imediato das duas mil fam&iacute;lias que se encontram ainda acampadas, a efetiva&ccedil;&atilde;o dos assentamentos a adequa&ccedil;&atilde;o de infraestrutura dos assentamentos j&aacute; existentes e a agilidade no processo de regulariza&ccedil;&atilde;o das fam&iacute;lias beneficiarias da Reforma Agr&aacute;ria junto ao TCU.<br />
-&nbsp;</p>
+<p>Os trabalhadores exigem o assentamento imediato das duas mil fam&iacute;lias que se encontram ainda acampadas, a efetiva&ccedil;&atilde;o dos assentamentos a adequa&ccedil;&atilde;o de infraestrutura dos assentamentos j&aacute; existentes e a agilidade no processo de regulariza&ccedil;&atilde;o das fam&iacute;lias beneficiarias da Reforma Agr&aacute;ria junto ao TCU.</p>
 
 <figure class="image"><img alt="WhatsApp Image 2016-09-05 at 13.51.05.jpeg" height="394" src="//farm9.staticflickr.com/8313/28853681754_987a15f41e_b.jpg" width="700" />
 <figcaption><em>Trabalhadores e trabalhadoras denunciam o governo golpista </em></figcaption>
+</figure>
+
+<p>&nbsp;</p>
+
+<p><strong>Maranh&atilde;o </strong></p>
+
+<p><br />
+200 fam&iacute;lias Sem Terra&nbsp;ocuparam nessa manh&atilde; (5)&nbsp;a Superintend&ecirc;ncia Regional do Intituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria.<br />
+<br />
+Os manifestantes exigem o fortalecimento&nbsp;do INCRA, e o assentamento imediato das fam&iacute;lias acampadas em todo estado.&nbsp;<br />
+&nbsp;</p>
+
+<figure class="image"><img alt="WhatsApp Image 2016-09-05 at 15.18.30.jpeg" height="394" src="//farm9.staticflickr.com/8543/29372705732_d19d7828f4_b.jpg" width="700" />
+<figcaption>Trabalhadores Sem Terra ocupam o Incra no MA</figcaption>
+</figure>
+
+<p>&nbsp;</p>
+
+<p><strong>S&atilde;o Paulo&nbsp;</strong></p>
+
+<p>Cerca de 150 Sem Terra&nbsp;bloqueram&nbsp;rodovia Anhanguera, km 340 no in&iacute;cio da manh&atilde; dessa segunda-feira.&nbsp;&nbsp; &nbsp; Al&eacute;m do&nbsp;golpe de Estado, os trabalhadores denunciaram o bloqueio de pol&iacute;ticas p&uacute;blicas, a paralisa&ccedil;&atilde;o&nbsp;da Reforma Agr&aacute;ria e a retirada de direitos da classe trabalhadora. Recentemente&nbsp;o Tribunal de Contas da Uni&atilde;o, em uma a&ccedil;&atilde;o que supera suas atribui&ccedil;&otilde;es constitucionais, determinou a paralisa&ccedil;&atilde;o completa da Reforma Agr&aacute;ria, enquadrando atrav&eacute;s de uma metodologia question&aacute;vel, 578 mil benefici&aacute;rios das pol&iacute;ticas p&uacute;blicas no campo.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<figure class="image"><img alt="WhatsApp Image 2016-09-05 at 10.09.32.jpeg" height="394" src="//farm9.staticflickr.com/8163/29481423685_bb79237007_b.jpg" width="700" />
+<figcaption>Em Jornada Unit&aacute;ria de Lutas, Sem Terra bloqueiam a&nbsp;rodovia Anhanguera</figcaption>
 </figure>
