@@ -4,7 +4,7 @@ tags:
   - tag: lutas-e-mobilizações
   - tag: pernambuco
   - tag: ocupação-incra
-title: Sem Terra ocupa Incra no Pernambuco e permanecem mobilizados
+title: Sem Terra ocupa Incra em Pernambuco e seguem mobilizados
 support_line: A mobilização faz parte da Jornada de Lutas Unitária e reivindica a desapropriação das áreas improdutivas para o assentamento das família acampadas no estado
 menu: lutas e mobilizações
 images_hd: //farm9.staticflickr.com/8215/29195209240_5d07e3829c_b.jpg
