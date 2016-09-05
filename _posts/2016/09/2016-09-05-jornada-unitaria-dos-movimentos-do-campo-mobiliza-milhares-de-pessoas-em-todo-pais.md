@@ -60,12 +60,6 @@ files:
     small: //farm9.staticflickr.com/8185/29443829796_fd9e412868_n.jpg
     title: WhatsApp Image 2016-09-05 at 11.16.23 (1).jpeg
     $$hashKey: 0TR
-  - link: //farm9.staticflickr.com/8252/29443944036_ded44a90de_b.jpg
-    thumbnail: //farm9.staticflickr.com/8252/29443944036_ded44a90de_t.jpg
-    medium: //farm9.staticflickr.com/8252/29443944036_ded44a90de_z.jpg
-    small: //farm9.staticflickr.com/8252/29443944036_ded44a90de_n.jpg
-    title: WhatsApp Image 2016-09-05 at 11.41.33.jpeg
-    $$hashKey: 1AL
   - link: //farm9.staticflickr.com/8356/29399690501_0bd2dbe024_b.jpg
     thumbnail: //farm9.staticflickr.com/8356/29399690501_0bd2dbe024_t.jpg
     medium: //farm9.staticflickr.com/8356/29399690501_0bd2dbe024_z.jpg
@@ -78,6 +72,12 @@ files:
     small: //farm9.staticflickr.com/8073/28857639143_c825483d66_n.jpg
     title: Brasília. Foto Bruno Pilon (1).jpg
     $$hashKey: "072"
+  - link: //farm9.staticflickr.com/8534/28855909834_20643d37a0_b.jpg
+    thumbnail: //farm9.staticflickr.com/8534/28855909834_20643d37a0_t.jpg
+    medium: //farm9.staticflickr.com/8534/28855909834_20643d37a0_z.jpg
+    small: //farm9.staticflickr.com/8534/28855909834_20643d37a0_n.jpg
+    title: Alagoas (4).jpeg
+    $$hashKey: 0DG
 created_date: "2016-09-05T13:59:33-03:00"
 published: true
 releated_posts:
@@ -96,6 +96,7 @@ releated_posts:
   - _posts/2016/09/2016-09-05-mst-ocupa-incra-e-ministerio-da-fazenda-e-exige-retomada-da-reforma-agraria.md
   - _posts/2016/08/2016-08-09-programa-de-temer-jamais-teria-sido-eleito-nas-urnas-afirma-dilma.md
   - _posts/2016/05/2016-05-12-interino-ilegitimo-machista-e-patriarcal.md
+  - _posts/2016/06/2016-06-09-movimentos-do-campo-dao-inicio-a-manifestacoes-contra-temer-entenda-as-pautas.md
 
 ---
 <p>&nbsp;</p>
@@ -116,6 +117,8 @@ Os manifestantes tamb&eacute;m v&atilde;o &agrave;s ruas contra a retirada de di
 
 <p><br />
 <strong>Confira as a&ccedil;&otilde;es dessa segunda-feira (5)</strong></p>
+
+<p>&nbsp;</p>
 
 <figure class="image"><img alt="Brasília. Foto Bruno Pilon (2).jpeg" height="466" src="//farm9.staticflickr.com/8356/29399690501_0bd2dbe024_b.jpg" width="700" />
 <figcaption><em>As atividades da Jornada de Lutas Unit&aacute;ria est&atilde;o concentradas em Bras&iacute;lia, onde j&aacute; est&aacute; sendo montado um acampamento que durar&aacute; at&eacute; quarta-feira (7). Foto: Bruno Pilon</em></figcaption>
@@ -139,46 +142,51 @@ As atividades da Jornada de Lutas Unit&aacute;ria estar&atilde;o concentradas ne
 <strong>Alagoas</strong></p>
 
 <p><br />
-Numa unidade&nbsp;entre os movimentos sociais do campo e a Federa&ccedil;&atilde;o dos Trabalhadores da Agricultura de Alagoas (Fetag-AL), mais de cinco mil trabalhadores rurais iniciaram mobiliza&ccedil;&atilde;o na capital alagoana. Partindo da pra&ccedil;a Sinimbu, os camponeses realizaram marchas e atos p&uacute;blicos pelas ruas do Centro, defendendo pol&iacute;ticas p&uacute;blicas que colaborem no desenvolvimento do meio rural. J&aacute; no Alto Sert&atilde;o do Estado, os camponeses marcharam entre Senador Rui Palmeira e S&atilde;o Jos&eacute; da Tapera, com um contingente de duas mil fam&iacute;lias.<br />
+Numa unidade&nbsp;entre os movimentos sociais do campo e a Federa&ccedil;&atilde;o dos Trabalhadores da Agricultura de Alagoas (Fetag-AL), mais de cinco mil trabalhadores rurais iniciaram mobiliza&ccedil;&atilde;o na capital alagoana. Partindo da pra&ccedil;a Sinimbu, os camponeses realizaram marchas e atos p&uacute;blicos pelas ruas do Centro, defendendo pol&iacute;ticas p&uacute;blicas que colaborem no desenvolvimento do meio rural. J&aacute; no Alto Sert&atilde;o do Estado, os camponeses marcharam entre Senador Rui Palmeira e S&atilde;o Jos&eacute; da Tapera, com um contingente de duas mil fam&iacute;lias.</p>
+
+<p><br />
 Participaram das mobiliza&ccedil;&otilde;es al&eacute;m da Fetag-AL, a Comiss&atilde;o Pastoral da Terra (CPT), Movimento de Luta pela Terra (MLT), Movimento de Liberta&ccedil;&atilde;o dos Sem Terra (MLST), Movimento dos Trabalhadores Rurais Sem Terra (MST), Movimento Terra, Trabalho e Liberdade (MTL), Movimento Unidos pela Terra (MUPT), Via do Trabalho e Terra Livre.</p>
 
 <p><br />
 Os trabalhadores tamb&eacute;m ocuparam o Tribunal de Contas da Uni&atilde;o (TCU)</p>
 
-<p>&nbsp;
-<figure class="image"><img alt="14273430_1181987388532379_1382252165_o.jpg" height="420" src="//farm9.staticflickr.com/8070/29443807876_361211938c_b.jpg" width="700" />
-<figcaption></figcaption>
+<p>&nbsp;</p>
+
+<figure class="image"><img alt="Alagoas (4).jpeg" height="394" src="//farm9.staticflickr.com/8534/28855909834_20643d37a0_b.jpg" width="700" />
+<figcaption><em>Camponeses e camponesas em marcha no estado de Alagoas</em></figcaption>
 </figure>
-</p>
 
 <p><br />
 <strong>Cear&aacute;</strong></p>
 
 <p><br />
-Cerca de dois mil trabalhadores/as rurais ocuparam na manh&atilde; desta segunda-feira (05) seis ag&ecirc;ncias do Banco do Nordeste, nos munic&iacute;pios de Santa Quit&eacute;ria, Quixad&aacute;,Crate&uacute;s, Quixeramobim, Itapipoca e Canind&eacute;.<br />
+Cerca de dois mil trabalhadores/as rurais ocuparam na manh&atilde; desta segunda-feira (05) seis ag&ecirc;ncias do Banco do Nordeste, nos munic&iacute;pios de Santa Quit&eacute;ria, Quixad&aacute;,Crate&uacute;s, Quixeramobim, Itapipoca e Canind&eacute;.</p>
+
+<p><br />
 Dentre as reivindica&ccedil;&otilde;es est&aacute; o assentamento imediato das 120 mil fam&iacute;lias acampadas em todo Brasil, demarca&ccedil;&atilde;o de terras ind&iacute;genas e a n&atilde;o retirada de direitos pelo governo golpista de Michel Temer.&nbsp;</p>
 
 <p>&nbsp;</p>
 
-<figure class="image"><img alt="WhatsApp Image 2016-09-05 at 07.06.42.jpeg" height="394" src="//farm9.staticflickr.com/8068/29478153115_3d2be4c7e1_b.jpg" width="700" />
-<figcaption></figcaption>
+<figure class="image"><img alt="14273430_1181987388532379_1382252165_o.jpg" height="420" src="//farm9.staticflickr.com/8070/29443807876_361211938c_b.jpg" width="700" />
+<figcaption><em>Mobiliza&ccedil;&atilde;o na ag&ecirc;ncia do Banco do Nordeste no Cear&aacute;</em></figcaption>
 </figure>
 
 <p><br />
 <strong>Porto Alegre</strong></p>
 
 <p><br />
-Por Reforma Agr&aacute;ria, contra o golpe e a retirada de direitos, cerca de dois mil trabalhadores Rurais Sem Terra ocupam desde a manh&atilde; desta segunda-feira (5) o p&aacute;tio do Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra) e do Minist&eacute;rio da Fazenda em Porto Alegre, no Rio Grande do Sul.<br />
-Os agricultores exigem a retomada da Reforma Agr&aacute;ria com o assentamento de 2,3 mil fam&iacute;lias acampadas no estado e a suspens&atilde;o da decis&atilde;o do Tribunal de Contas da Uni&atilde;o (TCU) de penalizar mais de 578 mil assentados no pa&iacute;s por consider&aacute;-los irregulares. No RS, onde h&aacute; em torno de 13 mil fam&iacute;lias assentadas, segundo informa&ccedil;&otilde;es do Incra, mais de 10,5 mil benefici&aacute;rios da reforma agr&aacute;ria encontram-se em situa&ccedil;&atilde;o de irregularidade.</p>
+Por Reforma Agr&aacute;ria, contra o golpe e a retirada de direitos, cerca de dois mil trabalhadores Rurais Sem Terra ocupam desde a manh&atilde; desta segunda-feira (5) o p&aacute;tio do Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra) e do Minist&eacute;rio da Fazenda em Porto Alegre, no Rio Grande do Sul.</p>
 
-<p>&nbsp;</p>
+<p><br />
+Os agricultores exigem a retomada da Reforma Agr&aacute;ria com o assentamento de 2,3 mil fam&iacute;lias acampadas no estado e a suspens&atilde;o da decis&atilde;o do Tribunal de Contas da Uni&atilde;o (TCU) de penalizar mais de 578 mil assentados no pa&iacute;s por consider&aacute;-los irregulares. No RS, onde h&aacute; em torno de 13 mil fam&iacute;lias assentadas, segundo informa&ccedil;&otilde;es do Incra, mais de 10,5 mil benefici&aacute;rios da reforma agr&aacute;ria encontram-se em situa&ccedil;&atilde;o de irregularidade.<br />
+&nbsp;</p>
 
-<figure class="image"><img alt="WhatsApp Image 2016-09-05 at 11.28.47.jpeg" height="525" src="//farm9.staticflickr.com/8396/29478153445_592a4d225d_b.jpg" width="700" />
+<figure class="image"><img alt="WhatsApp Image 2016-09-05 at 07.06.42.jpeg" height="394" src="//farm9.staticflickr.com/8068/29478153115_3d2be4c7e1_b.jpg" width="700" />
 <figcaption></figcaption>
 </figure>
 
 <p><br />
-<strong>Rio Grande do Norte&nbsp;</strong></p>
+<strong>Rio Grande do Norte </strong></p>
 
 <p><br />
 600 fam&iacute;lias Sem Terra ocuparam na madrugada desse domingo (04), uma &aacute;rea improdutiva de 300 hectares localizada na Zona Norte de Natal (Parque dos Coqueiros). O terreno &eacute; de posse da fam&iacute;lia do governador do Rio Grande do Norte, Robinson Farias (PSD).&nbsp;</p>
