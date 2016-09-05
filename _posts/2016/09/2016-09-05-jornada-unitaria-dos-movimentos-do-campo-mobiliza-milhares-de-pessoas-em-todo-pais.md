@@ -5,7 +5,7 @@ tags:
   - tag: fora-temer
   - tag: contra-o-golpe
   - tag: reforma-agrária
-title: "Jornada Unitária dos movimentos do campo mobiliza milhares de pessoas em todo país \n\n"
+title: "Jornada Unitária dos movimentos do campo mobiliza milhares de pessoas em todo país \n"
 support_line: "Até o momento, já são mais de 12 mil pessoas mobilizadas em oito estados"
 menu: lutas e mobilizações
 section: cover
@@ -174,10 +174,10 @@ Dentre as reivindica&ccedil;&otilde;es est&aacute; o assentamento imediato das 1
 <strong>Porto Alegre</strong></p>
 
 <p><br />
-Por Reforma Agr&aacute;ria, contra o golpe e a retirada de direitos, cerca de dois mil trabalhadores Rurais Sem Terra ocupam desde a manh&atilde; desta segunda-feira (5) o p&aacute;tio do Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra) e do Minist&eacute;rio da Fazenda em Porto Alegre, no Rio Grande do Sul.</p>
+Por Reforma Agr&aacute;ria, contra o golpe e a retirada de direitos, cerca de dois mil trabalhadores Rurais Sem Terra ocupam desde a manh&atilde; desta segunda-feira (5) o p&aacute;tio do INCRA e do Minist&eacute;rio da Fazenda em Porto Alegre, no Rio Grande do Sul.</p>
 
 <p><br />
-Os agricultores exigem a retomada da Reforma Agr&aacute;ria com o assentamento de 2,3 mil fam&iacute;lias acampadas no estado e a suspens&atilde;o da decis&atilde;o do Tribunal de Contas da Uni&atilde;o (TCU) de penalizar mais de 578 mil assentados no pa&iacute;s por consider&aacute;-los irregulares. No RS, onde h&aacute; em torno de 13 mil fam&iacute;lias assentadas, segundo informa&ccedil;&otilde;es do Incra, mais de 10,5 mil benefici&aacute;rios da reforma agr&aacute;ria encontram-se em situa&ccedil;&atilde;o de irregularidade.<br />
+Os agricultores exigem a retomada da Reforma Agr&aacute;ria com o assentamento de 2,3 mil fam&iacute;lias acampadas no estado e a suspens&atilde;o da decis&atilde;o do TCU de penalizar mais de 578 mil assentados no pa&iacute;s por consider&aacute;-los irregulares. No RS, onde h&aacute; em torno de 13 mil fam&iacute;lias assentadas, segundo informa&ccedil;&otilde;es do Incra, mais de 10,5 mil benefici&aacute;rios da reforma agr&aacute;ria encontram-se em situa&ccedil;&atilde;o de irregularidade.<br />
 &nbsp;</p>
 
 <figure class="image"><img alt="WhatsApp Image 2016-09-05 at 07.06.42.jpeg" height="394" src="//farm9.staticflickr.com/8068/29478153115_3d2be4c7e1_b.jpg" width="700" />
@@ -205,7 +205,7 @@ Segundo, Lucenilson Angelo, da dire&ccedil;&atilde;o nacional do MST, nos &uacut
 <strong>Paran&aacute;&nbsp;</strong></p>
 
 <p><br />
-Cerca de mil integrantes do MST, de todas as regi&otilde;es do Paran&aacute;, ocuparam na manh&atilde; desta segunda-feira (5), o Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (INCRA).&nbsp;Os trabalhadores tamb&eacute;m denunciam a amea&ccedil;a &agrave; soberania nacional, a criminaliza&ccedil;&atilde;o dos povos ind&iacute;genas, quilombolas, mulheres e a paralisa&ccedil;&atilde;o de diversas pol&iacute;ticas p&uacute;blicas, como as que envolvem o andamento da Reforma Agr&aacute;ria, tais como: o Programa Nacional de Educa&ccedil;&atilde;o na Reforma Agr&aacute;ria (Pronera), Assessoria T&eacute;cnica, Social e Ambiental &agrave; Reforma Agr&aacute;ria &nbsp;(ATES), Terra forte, Programa de Aquisi&ccedil;&atilde;o de Alimentos (PAA), Programa Nacional de Alimenta&ccedil;&atilde;o Escolar (Pnae) e o Programa Minha Casa Minha Vida.<br />
+Cerca de mil integrantes do MST, de todas as regi&otilde;es do Paran&aacute;, ocuparam o INCRA na manh&atilde; desta segunda-feira (5).&nbsp;Os trabalhadores tamb&eacute;m denunciam a amea&ccedil;a &agrave; soberania nacional, a criminaliza&ccedil;&atilde;o dos povos ind&iacute;genas, quilombolas, mulheres e a paralisa&ccedil;&atilde;o de diversas pol&iacute;ticas p&uacute;blicas, como as que envolvem o andamento da Reforma Agr&aacute;ria, tais como: o Programa Nacional de Educa&ccedil;&atilde;o na Reforma Agr&aacute;ria (Pronera), Assessoria T&eacute;cnica, Social e Ambiental &agrave; Reforma Agr&aacute;ria &nbsp;(ATES), Terra forte, Programa de Aquisi&ccedil;&atilde;o de Alimentos (PAA), Programa Nacional de Alimenta&ccedil;&atilde;o Escolar (Pnae) e o Programa Minha Casa Minha Vida.<br />
 &nbsp;</p>
 
 <figure class="image"><img alt="WhatsApp Image 2016-09-05 at 10.07.36.jpeg" height="466" src="//farm9.staticflickr.com/8202/28856019183_f1ab42dc53_b.jpg" width="700" />
@@ -216,7 +216,7 @@ Cerca de mil integrantes do MST, de todas as regi&otilde;es do Paran&aacute;, oc
 <strong>Esp&iacute;rito Santo&nbsp;</strong></p>
 
 <p><br />
-Em Vit&oacute;ria, cerca de 300 Sem Terra ocuparam a sede do Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra). Al&eacute;m de reivindicar as pautas da Jornada de Lutas Unit&aacute;ria dos Trabalhadores e Trabalhadoras e Povos do Campo, das &Aacute;guas e das Florestas, organizada por movimentos sociais e sindicais, que acontece em todos os estados do pa&iacute;s, entre os dias 5 a 7 de setembro. Os trabalhadores tamb&eacute;m protestam contra o golpe que levou o vice-presidente Michel Temer &agrave; Presid&ecirc;ncia da Rep&uacute;blica.&nbsp;<br />
+Em Vit&oacute;ria, cerca de 300 Sem Terra ocuparam a sede do Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra). Al&eacute;m de reivindicar as pautas da Jornada de Lutas Unit&aacute;ria os trabalhadores tamb&eacute;m protestam contra o golpe e a retirada de direitos significativa da classe trabalhadora.<br />
 &nbsp;</p>
 
 <figure class="image"><img alt="Espirito Santo (1).jpeg" height="487" src="//farm9.staticflickr.com/8308/28856260034_6f2b7eb5e4_b.jpg" width="700" />
@@ -233,5 +233,5 @@ Desde domingo (04), cerca de 250 integrantes do MST de todas as regi&otilde;es d
 &nbsp;</p>
 
 <figure class="image"><img alt="WhatsApp Image 2016-09-05 at 13.51.05.jpeg" height="394" src="//farm9.staticflickr.com/8313/28853681754_987a15f41e_b.jpg" width="700" />
-<figcaption><em>Trabalhadores e trabalhadoras denunciam o govetrno golpista </em></figcaption>
+<figcaption><em>Trabalhadores e trabalhadoras denunciam o governo golpista </em></figcaption>
 </figure>
