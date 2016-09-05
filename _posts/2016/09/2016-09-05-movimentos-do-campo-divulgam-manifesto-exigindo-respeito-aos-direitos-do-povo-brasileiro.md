@@ -56,7 +56,9 @@ Os Movimentos populares, sindicais e pastorais que atuam no campo brasileiro e o
 <strong>1. Em defesa da Soberania Nacional</strong></p>
 
 <p><br />
-N&atilde;o aceitamos as medidas que ferem a soberania nacional e os interesses de todo povo brasileiro.<br />
+N&atilde;o aceitamos as medidas que ferem a soberania nacional e os interesses de todo povo brasileiro.</p>
+
+<p><br />
 Uma delas &eacute; a a&ccedil;&atilde;o deliberada da bancada ruralista em conluio com o governo golpista para aprovar leis que flexibilizam completamente a venda de terras brasileiras para o capital estrangeiro. A outra &eacute; a entrega do patrim&ocirc;nio mineral do Brasil, abrindo a explora&ccedil;&atilde;o do pr&eacute;-sal para empresas de capital internacional, sem contar as graves viola&ccedil;&otilde;es ambientais e sociais das grandes empresas, como ocorreu no caso da Vale do Rio Doce, em Mariana/MG.</p>
 
 <p><br />
