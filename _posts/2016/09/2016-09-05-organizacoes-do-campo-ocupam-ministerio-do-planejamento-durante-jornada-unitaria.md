@@ -7,33 +7,9 @@ tags:
 title: Organizações do campo ocupam Ministério do Planejamento durante Jornada Unitária
 support_line: "A questão agrária é a pauta principal da jornada, como a reivindicação de assentamento imediato das mais de 120 mil famílias acampadas em todo o País"
 menu: lutas e mobilizações
-images_hd: //farm9.staticflickr.com/8232/29438687976_0e7ae5b430_b.jpg
+images_hd: //farm9.staticflickr.com/8132/29393664421_48c253928d_b.jpg
 layout: post
 files:
-  - link: //farm9.staticflickr.com/8154/29364294412_575c1d2144_b.jpg
-    thumbnail: //farm9.staticflickr.com/8154/29364294412_575c1d2144_t.jpg
-    medium: //farm9.staticflickr.com/8154/29364294412_575c1d2144_z.jpg
-    small: //farm9.staticflickr.com/8154/29364294412_575c1d2144_n.jpg
-    title: WhatsApp Image 2016-09-05 at 05.58.42.jpeg
-    $$hashKey: 068
-  - link: //farm9.staticflickr.com/8027/29438561236_c6f5d78f31_b.jpg
-    thumbnail: //farm9.staticflickr.com/8027/29438561236_c6f5d78f31_t.jpg
-    medium: //farm9.staticflickr.com/8027/29438561236_c6f5d78f31_z.jpg
-    small: //farm9.staticflickr.com/8027/29438561236_c6f5d78f31_n.jpg
-    title: WhatsApp Image 2016-09-05 at 05.50.03.jpeg
-    $$hashKey: 06B
-  - link: //farm9.staticflickr.com/8406/29438561546_652f7485d4_b.jpg
-    thumbnail: //farm9.staticflickr.com/8406/29438561546_652f7485d4_t.jpg
-    medium: //farm9.staticflickr.com/8406/29438561546_652f7485d4_z.jpg
-    small: //farm9.staticflickr.com/8406/29438561546_652f7485d4_n.jpg
-    title: WhatsApp Image 2016-09-05 at 05.59.30.jpeg
-    $$hashKey: 06H
-  - link: //farm9.staticflickr.com/8239/29438561606_f141afcf82_b.jpg
-    thumbnail: //farm9.staticflickr.com/8239/29438561606_f141afcf82_t.jpg
-    medium: //farm9.staticflickr.com/8239/29438561606_f141afcf82_z.jpg
-    small: //farm9.staticflickr.com/8239/29438561606_f141afcf82_n.jpg
-    title: WhatsApp Image 2016-09-05 at 05.50.06.jpeg
-    $$hashKey: 06K
   - link: //farm9.staticflickr.com/8491/28848443544_6bf1b9a8f6_b.jpg
     thumbnail: //farm9.staticflickr.com/8491/28848443544_6bf1b9a8f6_t.jpg
     medium: //farm9.staticflickr.com/8491/28848443544_6bf1b9a8f6_z.jpg
@@ -46,6 +22,12 @@ files:
     small: //farm9.staticflickr.com/8232/29438687976_0e7ae5b430_n.jpg
     title: Brasília (4).jpeg
     $$hashKey: 08M
+  - link: //farm9.staticflickr.com/8132/29393664421_48c253928d_b.jpg
+    thumbnail: //farm9.staticflickr.com/8132/29393664421_48c253928d_t.jpg
+    medium: //farm9.staticflickr.com/8132/29393664421_48c253928d_z.jpg
+    small: //farm9.staticflickr.com/8132/29393664421_48c253928d_n.jpg
+    title: índice.jpg
+    $$hashKey: 13Q
 created_date: "2016-09-05T09:43:10-03:00"
 published: true
 releated_posts: []
