@@ -103,13 +103,13 @@ releated_posts:
 <p><em>Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
-Come&ccedil;ou nessa segunda-feira (5) e vai at&eacute; a pr&oacute;xima quarta (7) em todo pa&iacute;s, a Jornada de Lutas Unit&aacute;ria dos Trabalhadores e Trabalhadoras e Povos do Campo, das &Aacute;guas e das Florestas, organizada por movimentos sociais e sindicais.</p>
+Come&ccedil;ou nessa segunda-feira (5) e vai at&eacute; a pr&oacute;xima quarta (7) em todo pa&iacute;s, a Jornada de Lutas Unit&aacute;ria dos Trabalhadores e Trabalhadoras e Povos do Campo, das &Aacute;guas e das Florestas, organizada por movimentos populares, sindicais e pastorais que atuam no campo brasileiro.</p>
 
 <p><br />
-A quest&atilde;o agr&aacute;ria &eacute; a pauta principal da jornada, que tem entre as suas reivindica&ccedil;&otilde;es o assentamento imediato das mais de 120 mil fam&iacute;lias acampadas em todo o pa&iacute;s, a revoga&ccedil;&atilde;o da lei que permite a venda indiscriminada de terras para estrangeiros, a defesa da produ&ccedil;&atilde;o de alimentos saud&aacute;veis e de pol&iacute;ticas de transi&ccedil;&atilde;o para a agroeocologia.</p>
+A quest&atilde;o agr&aacute;ria &eacute; a pauta principal da jornada, que tem entre as suas reivindica&ccedil;&otilde;es o assentamento imediato das mais de 120 mil fam&iacute;lias acampadas em todo o pa&iacute;s, a revoga&ccedil;&atilde;o da lei que permite a venda indiscriminada de terras para estrangeiros, a defesa da produ&ccedil;&atilde;o de alimentos saud&aacute;veis e de pol&iacute;ticas de transi&ccedil;&atilde;o para a agroecologia.</p>
 
 <p><br />
-Outro ponto tratado durante a Jornada &eacute; desenvolvimento e infraestrutura no campo, como o fortalecimento de programas estruturantes, assist&ecirc;ncia t&eacute;cnica e demais programas que garantem a produ&ccedil;&atilde;o da agricultura familiar e camponesa.</p>
+Outro ponto tratado durante a Jornada &eacute; o desenvolvimento e infraestrutura no campo, como o fortalecimento de programas estruturantes, assist&ecirc;ncia t&eacute;cnica e demais programas que garantem a produ&ccedil;&atilde;o da agricultura familiar e camponesa.</p>
 
 <p><br />
 Os manifestantes tamb&eacute;m v&atilde;o &agrave;s ruas contra a retirada de direitos, contra a criminaliza&ccedil;&atilde;o dos movimentos populares e, principalmente, contra o golpe e pela democracia ap&oacute;s a viola&ccedil;&atilde;o da Constitui&ccedil;&atilde;o brasileira pelo Congresso Nacional e pela elite econ&ocirc;mica e pol&iacute;tica do pa&iacute;s que levou Michel Temer &agrave; Presid&ecirc;ncia da Rep&uacute;blica.&nbsp;</p>
@@ -144,7 +144,7 @@ As atividades da Jornada de Lutas Unit&aacute;ria estar&atilde;o concentradas ne
 Numa unidade&nbsp;entre os movimentos sociais do campo e a Federa&ccedil;&atilde;o dos Trabalhadores da Agricultura de Alagoas (Fetag-AL), mais de cinco mil trabalhadores rurais iniciaram mobiliza&ccedil;&atilde;o na capital alagoana. Partindo da pra&ccedil;a Sinimbu, os camponeses realizaram marchas e atos p&uacute;blicos pelas ruas do Centro, defendendo pol&iacute;ticas p&uacute;blicas que colaborem no desenvolvimento do meio rural. J&aacute; no Alto Sert&atilde;o do Estado, os camponeses marcharam entre Senador Rui Palmeira e S&atilde;o Jos&eacute; da Tapera, com um contingente de duas mil fam&iacute;lias.</p>
 
 <p><br />
-Participaram das mobiliza&ccedil;&otilde;es al&eacute;m da Fetag-AL, a Comiss&atilde;o Pastoral da Terra (CPT), Movimento de Luta pela Terra (MLT), Movimento de Liberta&ccedil;&atilde;o dos Sem Terra (MLST), Movimento dos Trabalhadores Rurais Sem Terra (MST), Movimento Terra, Trabalho e Liberdade (MTL), Movimento Unidos pela Terra (MUPT), Via do Trabalho e Terra Livre.</p>
+Participaram das mobiliza&ccedil;&otilde;es al&eacute;m da Fetag-AL, a CPT, Movimento de Luta pela Terra (MLT), Movimento de Liberta&ccedil;&atilde;o dos Sem Terra (MLST), Movimento dos Trabalhadores Rurais Sem Terra (MST), Movimento Terra, Trabalho e Liberdade (MTL), Movimento Unidos pela Terra (MUPT), Via do Trabalho e Terra Livre.</p>
 
 <p><br />
 Os trabalhadores tamb&eacute;m ocuparam o Tribunal de Contas da Uni&atilde;o (TCU)</p>
