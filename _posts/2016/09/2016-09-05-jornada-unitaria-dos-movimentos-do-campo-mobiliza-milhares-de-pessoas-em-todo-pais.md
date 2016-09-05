@@ -9,7 +9,7 @@ title: "Jornada Unitária dos movimentos do campo mobiliza milhares de pessoas e
 support_line: "Até o momento, já são mais de 12 mil pessoas mobilizadas em oito estados"
 menu: lutas e mobilizações
 section: cover
-images_hd: //farm9.staticflickr.com/8252/29443944036_ded44a90de_b.jpg
+images_hd: //farm9.staticflickr.com/8356/29399690501_0bd2dbe024_b.jpg
 layout: post
 files:
   - link: //farm9.staticflickr.com/8016/28856018503_d2dc71b933_b.jpg
@@ -72,6 +72,12 @@ files:
     small: //farm9.staticflickr.com/8252/29443944036_ded44a90de_n.jpg
     title: WhatsApp Image 2016-09-05 at 11.41.33.jpeg
     $$hashKey: 1AL
+  - link: //farm9.staticflickr.com/8356/29399690501_0bd2dbe024_b.jpg
+    thumbnail: //farm9.staticflickr.com/8356/29399690501_0bd2dbe024_t.jpg
+    medium: //farm9.staticflickr.com/8356/29399690501_0bd2dbe024_z.jpg
+    small: //farm9.staticflickr.com/8356/29399690501_0bd2dbe024_n.jpg
+    title: Brasília. Foto Bruno Pilon (2).jpeg
+    $$hashKey: 2WF
 created_date: "2016-09-05T13:59:33-03:00"
 published: true
 releated_posts:
