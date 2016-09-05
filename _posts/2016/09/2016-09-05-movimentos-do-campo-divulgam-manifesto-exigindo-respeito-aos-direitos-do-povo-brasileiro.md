@@ -8,7 +8,7 @@ title: Movimentos do campo divulgam manifesto exigindo respeito aos direitos do 
 support_line: "\"Estamos mobilizados para defender a democracia, a soberania territorial e alimentar e para impedir qualquer retrocesso aos direitos conquistados pela classe trabalhadora\""
 menu: lutas e mobilizações
 section: featured-news
-images_hd: //farm9.staticflickr.com/8108/29189790790_93fe49f937_b.jpg
+images_hd: //farm9.staticflickr.com/8479/29398859141_69e1e2312c_b.jpg
 layout: post
 files:
   - link: //farm9.staticflickr.com/8108/29189790790_93fe49f937_b.jpg
@@ -17,6 +17,12 @@ files:
     small: //farm9.staticflickr.com/8108/29189790790_93fe49f937_n.jpg
     title: Trabalhadores.jpg
     $$hashKey: 1UE
+  - link: //farm9.staticflickr.com/8479/29398859141_69e1e2312c_b.jpg
+    thumbnail: //farm9.staticflickr.com/8479/29398859141_69e1e2312c_t.jpg
+    medium: //farm9.staticflickr.com/8479/29398859141_69e1e2312c_z.jpg
+    small: //farm9.staticflickr.com/8479/29398859141_69e1e2312c_n.jpg
+    title: Brasília. Foto Bruno Pilon (3) - Cópia.jpg
+    $$hashKey: 24S
 created_date: "2016-09-05T14:06:57-03:00"
 published: true
 releated_posts:
