@@ -26,6 +26,7 @@ releated_posts:
   - _posts/2016/08/2016-08-25-estamos-juntos-nesta-luta-diz-dilma-durante-ato-em-brasilia.md
   - _posts/2016/08/2016-08-26-todas-as-nossas-conquistas-correm-riscos-de-serem-anuladas-alerta-advogado-popular.md
   - _posts/2016/08/2016-08-27-acampamento-nacional-inicia-neste-domingo-em-defesa-da-democracia-e-contra-o-golpe.md
+section: featured-news
 
 ---
 <p>&nbsp;</p>
