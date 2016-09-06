@@ -36,7 +36,7 @@ releated_posts:
 <p>&nbsp;</p>
 
 <figure class="image"><img alt="20160905-jornal-sul21-gs-050916-7715-15.jpg" height="467" src="//farm9.staticflickr.com/8675/29473625596_4bd1d614f8_b.jpg" width="700" />
-<figcaption><em>Integrantes do MST ocupam desde ontem (5) a sede do Minist&eacute;rio da Fazenda e do Incra, em Porto Alegre. Foto: Guilherme Santos/Sul21</em></figcaption>
+<figcaption><em>Integrantes do MST ocupam desde esta segunda (05) a sede do Minist&eacute;rio da Fazenda e do Incra, em Porto Alegre. Foto: Guilherme Santos/Sul21</em></figcaption>
 </figure>
 
 <p><br />
