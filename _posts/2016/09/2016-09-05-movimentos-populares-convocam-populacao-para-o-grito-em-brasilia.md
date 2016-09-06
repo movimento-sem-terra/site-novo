@@ -42,7 +42,7 @@ Os Movimentos populares, sindicais e pastorais, que organizam a Jornada de Lutas
 <p><br />
 <strong>Convocat&oacute;ria para o Grito dos Exclu&iacute;dos 2016 &ndash; Distrito Federal, 07 de setembro</strong></p>
 
-<p><em>Concentra&ccedil;&atilde;o em frente &agrave; Catedral de Bras&iacute;lia, a partir das 8h30</em></p>
+<p><em>Concentra&ccedil;&atilde;o em frente ao Museu Nacional, a partir das 8h30</em></p>
 
 <p><br />
 Temer subiu ao poder de forma ileg&iacute;tima e governa apenas para os ricos e poderosos. Ele quer acabar com os direitos das trabalhadoras e dos trabalhadores do campo e da cidade, das florestas e das &aacute;guas; das mulheres, das negras e dos negros, dos ind&iacute;genas, das/os LGBTs, da juventude e das moradoras e dos moradores das periferias.</p>
