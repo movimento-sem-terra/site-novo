@@ -52,6 +52,11 @@ A decis&atilde;o do Tribunal de Contas da Uni&atilde;o (TCU) de penalizar mais d
 <p><br />
 A den&uacute;ncia dessa situa&ccedil;&atilde;o, bem como da paralisia do programa de Reforma Agr&aacute;ria, s&atilde;o dois dos principais pontos da agenda da jornada nacional de mobiliza&ccedil;&atilde;o do MST que, em Porto Alegre, ocupou os p&aacute;tios do Minist&eacute;rio da Fazenda e do Incra. &nbsp;</p>
 
+<figure class="image" style="float:left"><img alt="20160905-jornal-sul21-gs-050916-7666-08.jpg" height="300" src="//farm9.staticflickr.com/8359/28885586353_18b5035bdf_b.jpg" width="450" />
+<figcaption><em>A paralisa&ccedil;&atilde;o da Reforma Agr&aacute;ria &eacute; um dos principais pontos da<br />
+jornada de lutas unit&aacute;ria.&nbsp;Foto: Guilherme Santos/Sul21&nbsp;</em></figcaption>
+</figure>
+
 <p><br />
 &quot;Estamos mobilizados em dez estados hoje dentro da jornada nacional de lutas em defesa da reforma agr&aacute;ria e contra esse governo ileg&iacute;timo de Temer. Provavelmente outros estados se somar&atilde;o a essa mobiliza&ccedil;&atilde;o nesta ter&ccedil;a-feira. No Rio Grande do Sul n&oacute;s temos hoje mais de duas mil fam&iacute;lias acampadas, sem nenhuma perspectiva de assentamento. Em n&iacute;vel nacional, temos mais de 100 mil fam&iacute;lias acampadas&quot;, assinala Ildo Pereira, tamb&eacute;m integrante da dire&ccedil;&atilde;o do MST, que participa da ocupa&ccedil;&atilde;o no Minist&eacute;rio da Fazenda e no Incra.</p>
 
