@@ -71,13 +71,11 @@ Foi anunciado tamb&eacute;m que daqui a vinte dias &ldquo;teremos os contratos&r
 <p>&nbsp;</p>
 
 <figure class="image"><img alt="FOTO RAFAEL SORIANO MST.JPG" height="467" src="//farm9.staticflickr.com/8467/29499213205_fea8952456_b.jpg" width="700" />
-<figcaption>Audi&ecirc;ncia com os representantes do governo de Alagoas. Jornada Unit&aacute;ria dos movimentos do campo mobiliza milhares de pessoas em todo pa&iacute;s <a href="https://t.co/wJwyFdkA1c">http://migre.me/uUoMy&nbsp;</a></figcaption>
+<figcaption><em>Audi&ecirc;ncia com os representantes do governo de Alagoas. Foto: &Eacute;sio Melo (CPT)</em></figcaption>
 </figure>
 
 <p><br />
-&nbsp;</p>
-
-<p><strong>Mobiliza&ccedil;&otilde;es</strong></p>
+<strong>Mobiliza&ccedil;&otilde;es</strong></p>
 
 <p><br />
 Para continuar a pressionar o governo e outros &oacute;rg&atilde;os, os movimentos que realizam Jornada de Lutas Unit&aacute;ria dos trabalhadores e Trabalhadoras e Povos do Campo, das &Aacute;guas e das Florestas realizam uma nova marcha, manh&atilde; desta ter&ccedil;a-feira, com paradas em pontos estrat&eacute;gicos. Entre eles est&aacute; o Tribunal de Justi&ccedil;a (TJ-AL), onde cobrar&aacute; celeridade na condena&ccedil;&atilde;o e pris&atilde;o dos mandantes de assassinatos de lideran&ccedil;as Sem Terra, como o caso de Jaelson Melqu&iacute;ades, morto em 2005 em Atalaia.</p>
@@ -97,3 +95,6 @@ As mobiliza&ccedil;&otilde;es continuam ainda nesta quarta-feira (07), quando em
 <p>&nbsp;</p>
 
 <p>Participam das mobiliza&ccedil;&otilde;es al&eacute;m do MST, CPT, CUT e Fetag-AL, o Movimento de Luta pela Terra (MLT), Movimento de Liberta&ccedil;&atilde;o dos Sem Terra (MLST), Movimento Terra, Trabalho e Liberdade (MTL), Movimento Unidos pela Terra (MUPT), Via do Trabalho e Terra Livre.</p>
+
+<p><br />
+<em>* Editado por Iris Pacheco</em></p>
