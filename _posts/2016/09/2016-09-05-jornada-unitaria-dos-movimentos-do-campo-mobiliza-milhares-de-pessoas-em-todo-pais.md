@@ -133,59 +133,11 @@ Outro ponto tratado durante a Jornada &eacute; o desenvolvimento e infraestrutur
 <p><br />
 Os manifestantes tamb&eacute;m v&atilde;o &agrave;s ruas contra a retirada de direitos, contra a criminaliza&ccedil;&atilde;o dos movimentos populares e, principalmente, contra o golpe e pela democracia ap&oacute;s a viola&ccedil;&atilde;o da Constitui&ccedil;&atilde;o brasileira pelo Congresso Nacional e pela elite econ&ocirc;mica e pol&iacute;tica do pa&iacute;s que levou Michel Temer &agrave; Presid&ecirc;ncia da Rep&uacute;blica.&nbsp;</p>
 
-<p><br style="line-height: 20.8px;" />
-<strong style="line-height: 20.8px;">Confira as a&ccedil;&otilde;es dessa segunda-feira (6)</strong></p>
-
-<p>Cerca de 300 Sem Terra ocuparam na manh&atilde;&nbsp;dessa ter&ccedil;a-feira a sede do&nbsp;sede do&nbsp;Instituto de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra).</p>
-
-<p>A a&ccedil;&atilde;o faz parte da Jornada Unit&aacute;ria dos Movimentos do Campo, e contou com a participa&ccedil;&atilde;o de diversos movimento do campo que em carta denunciam o governo de Michel Temer e reivindicam a retirada de direitos das popula&ccedil;&otilde;es campesinas.&nbsp;</p>
-
-<p>Leia a carta na &iacute;ntegra:&nbsp;</p>
-
-<p>Nos &uacute;ltimos meses acompanhamos um processo devastador de retrocessos nos direitos e garantias fundamentais das trabalhadoras e trabalhadores do campo e da cidade. Em pouco tempo de exerc&iacute;cio no comando do pa&iacute;s, o presidente golpista Michel Temer, tem um papel fundamental em abolir direitos em defesa dos interesses econ&ocirc;micos de empres&aacute;rios nacionais e transnacionais, propriet&aacute;rios rurais, enfim uma elite que historicamente sempre enriqueceu da explora&ccedil;&atilde;o das trabalhadoras e trabalhadores, bem como dos bens da natureza.</p>
-
 <p><br />
-O que se observa &eacute; um verdadeiro desmonte na legisla&ccedil;&atilde;o trabalhista, impondo uma total desregulamenta&ccedil;&atilde;o do trabalho, com propostas de fim do 13&ordm;, aumento da jornada de trabalho, aumento da idade para aposentadoria, dentre muitos outros direitos.</p>
-
-<p><br />
-No plano agr&aacute;rio, esses grupos est&atilde;o atacando com as garantias constitucionais dos territ&oacute;rios ind&iacute;genas, quilombolas, dentre outras comunidades tradicionais, com a aprova&ccedil;&atilde;o da PEC 215, que retira do executivo a compet&ecirc;ncia para regulariza&ccedil;&atilde;o dos territ&oacute;rios ind&iacute;genas e quilombolas e a transfere para o Congresso, marcadamente composto pela bancada ruralista que visa impedir a demarca&ccedil;&atilde;o desses territ&oacute;rios.</p>
-
-<p><br />
-A ofensiva contra a reforma agr&aacute;ria fica evidente na recente resolu&ccedil;&atilde;o do Tribunal de Contas da Uni&atilde;o que determina ao INCRA a suspens&atilde;o de todos os procedimentos para efetiva&ccedil;&atilde;o da reforma agr&aacute;ria. Isso significa paralisa&ccedil;&atilde;o das desapropria&ccedil;&otilde;es e de qualquer acompanhamento aos assentamentos realizados, trata-se de estrangular as trabalhadoras e os trabalhadores rurais apostando na retomada da terra por setores econ&ocirc;micos.</p>
-
-<p><br />
-N&atilde;o &eacute; pouco significativo que esteja em debate no congresso a altera&ccedil;&atilde;o da lei de vendas de terras para estrangeiros. O que o governo golpista de Michel Temer e a bancada ruralista querem com a aprova&ccedil;&atilde;o do PL 4059/12 &eacute; a transfer&ecirc;ncia do territ&oacute;rio nacional, incluindo a Amaz&ocirc;nia, para empresas ou propriet&aacute;rios estrangeiros. Isso significar&aacute; perda da soberania do territ&oacute;rio nacional e desnacionaliza&ccedil;&atilde;o de recursos naturais como a &aacute;gua.</p>
-
-<p><br />
-Os ataques n&atilde;o param por ai. A bancada ruralista no congresso nacional est&aacute; atuando para aprovar leis que exp&otilde;em para a sociedade a uma vulnerabilidade em sua sa&uacute;de, na medida em que busca revogar a lei dos agrot&oacute;xicos de 1989 e implementar a lei do Veneno. Torna-se fundamental lutar para que esta legisla&ccedil;&atilde;o n&atilde;o seja aprovada, al&eacute;m de garantir a implanta&ccedil;&atilde;o do Programa Nacional de Redu&ccedil;&atilde;o do Uso de Agrot&oacute;xicos, consolidando uma pol&iacute;tica que preze, acima de tudo, a sa&uacute;de humana e ambiental.</p>
-
-<p><br />
-Mas n&atilde;o s&atilde;o apenas amea&ccedil;as aos direitos das trabalhadoras e dos trabalhadores, o que est&aacute; em jogo &eacute; a pr&oacute;pria democracia. O governo golpista de Michel Temer e seus aliados n&atilde;o possuem nenhum compromisso com a democracia, tanto &eacute; assim que os movimentos sociais que lutam que lutam em defesa de seus direitos s&atilde;o criminalizados. Lutar por terra tornou-se crime de associa&ccedil;&atilde;o criminosa, lutar por territ&oacute;rios tradicionais tem levado a morte comunidades ind&iacute;genas, quilombolas, sem terras e camponeses.</p>
-
-<p><br />
-Por isso, lutamos. Resistiremos a esse avan&ccedil;o conservador que amea&ccedil;a direitos em m&uacute;ltiplos campos, resistiremos ao avan&ccedil;o do agroneg&oacute;cio que vem impondo a morte a diversas comunidades ind&iacute;genas e ao ambiente. Resistiremos em defesa da terra, do territ&oacute;rio e das &aacute;guas, LUTAREMOS EM NOME &nbsp;da vida com dignidade!<br />
-<br />
-MBLT&nbsp;<br />
-MST<br />
-MAB<br />
-MPA<br />
-UNACOOP<br />
-AQUILERJ<br />
-CONAQUE<br />
-FETAG<br />
-SEDRO</p>
-
-<p>apoios: ANDES, CUT, Sindipetro RJ, SEPE RJ</p>
-
-<p>&nbsp;</p>
-
-<p><br />
-<strong>Confira as a&ccedil;&otilde;es dessa segunda-feira (5)</strong></p>
-
-<p>&nbsp;</p>
+<strong>Confira as a&ccedil;&otilde;es dessa segunda-feira (05)</strong></p>
 
 <figure class="image"><img alt="Brasília. Foto Bruno Pilon (2).jpeg" height="466" src="//farm9.staticflickr.com/8356/29399690501_0bd2dbe024_b.jpg" width="700" />
-<figcaption><em>qAs atividades da Jornada de Lutas Unit&aacute;ria est&atilde;o concentradas em Bras&iacute;lia, onde j&aacute; est&aacute; sendo montado um acampamento que durar&aacute; at&eacute; quarta-feira (7). Foto: Bruno Pilon</em></figcaption>
+<figcaption><em>As atividades da Jornada de Lutas Unit&aacute;ria est&atilde;o concentradas em Bras&iacute;lia, onde j&aacute; est&aacute; sendo montado um acampamento que durar&aacute; at&eacute; quarta-feira (07). Foto: Bruno Pilon</em></figcaption>
 </figure>
 
 <p><br />
@@ -322,44 +274,47 @@ Os manifestantes exigem o fortalecimento&nbsp;do instituto, e o assentamento ime
 
 <p><strong>S&atilde;o Paulo (Capital)&nbsp;</strong></p>
 
-<p>Cerca de 300 Sem Terra, representando 10 regionais organizadas pelo MST, ocuparam a superintend&ecirc;ncia do Instituto de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra) na manh&atilde; dessa segunda-feira (5).</p>
+<p><br />
+Cerca de 300 Sem Terra, representando 10 regionais organizadas pelo MST, ocuparam a superintend&ecirc;ncia do Instituto de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra) na manh&atilde; dessa segunda-feira (5).</p>
 
 <p><br />
 <strong>S&atilde;o Paulo (Ribeir&atilde;o Preto)&nbsp;</strong></p>
 
-<p>150 trabalhadores do MST e de movimentos parceiros bloquearam a Rodovia Anhanguera no km 340. Na a&ccedil;&atilde;o foram distribu&iacute;das aproximadamente meia tonelada de alimentos org&acirc;nicos produzidos nos assentamentos do MST da regi&atilde;o. Os trabalhadores tamb&eacute;m realizaram trancamento da Rodovia C&acirc;ndido Portinari com cerca de 120 pessoas.<br />
-<br />
-<br />
+<p><br />
+150 trabalhadores do MST e de movimentos parceiros bloquearam a Rodovia Anhanguera no km 340. Na a&ccedil;&atilde;o foram distribu&iacute;das aproximadamente meia tonelada de alimentos org&acirc;nicos produzidos nos assentamentos do MST da regi&atilde;o. Os trabalhadores tamb&eacute;m realizaram trancamento da Rodovia C&acirc;ndido Portinari com cerca de 120 pessoas.</p>
+
+<p><br />
 <strong>S&atilde;o Paulo (Andradina)</strong></p>
 
-<p>150 Sem Terra bloquearam a Rodovia Marechal Rondon na cidade de Andradina.</p>
+<p><br />
+150 Sem Terra bloquearam a Rodovia Marechal Rondon na cidade de Andradina.</p>
 
 <p><br />
 <strong>S&atilde;o Paulo (Sudoeste)</strong></p>
 
-<p>Aproximadamente 120 trabalhadores Sem Terra ocuparam as terras do Horto Florestal na regi&atilde;o Sudoeste do estado. &nbsp;A ocupa&ccedil;&atilde;o reivindicou a conclus&atilde;o do processo de sele&ccedil;&atilde;o e cria&ccedil;&atilde;o do assentamento da Fazenda Lageado, em Itaporanga e a cria&ccedil;&atilde;o do assentamento na fazenda Cacan, em Riversul. Al&eacute;m disso, os trabalhadores exigiram a retomada das &nbsp;negocia&ccedil;&otilde;es com a Secretaria do Meio Ambiente para a cria&ccedil;&atilde;o do assentamento agroecol&oacute;gico Nova Esperan&ccedil;a.</p>
+<p><br />
+Aproximadamente 120 trabalhadores Sem Terra ocuparam as terras do Horto Florestal na regi&atilde;o Sudoeste do estado. &nbsp;A ocupa&ccedil;&atilde;o reivindicou a conclus&atilde;o do processo de sele&ccedil;&atilde;o e cria&ccedil;&atilde;o do assentamento da Fazenda Lageado, em Itaporanga e a cria&ccedil;&atilde;o do assentamento na fazenda Cacan, em Riversul. Al&eacute;m disso, os trabalhadores exigiram a retomada das &nbsp;negocia&ccedil;&otilde;es com a Secretaria do Meio Ambiente para a cria&ccedil;&atilde;o do assentamento agroecol&oacute;gico Nova Esperan&ccedil;a.</p>
 
-<p>&nbsp;</p>
+<p><br />
+<strong>S&atilde;o Paulo (Promiss&atilde;o)</strong></p>
 
-<p><strong>S&atilde;o Paulo (Promiss&atilde;o)</strong></p>
+<p><br />
+Cerca de 300 pessoas ocuparam a Fazenda Santa Maria, do grupo Atalla, no munic&iacute;pio de Piraju. Eles tamb&eacute;m reivindicaram a protocola&ccedil;&atilde;o da &aacute;rea na Procuradoria da Fazenda Nacional com a inten&ccedil;&atilde;o que entre com a execu&ccedil;&atilde;o fiscal para in&iacute;cio do processo de adjudica&ccedil;&atilde;o. Tamb&eacute;m na regi&atilde;o 150 manifestantes ocuparam a Fazenda Torr&atilde;o de Ouro, em Alvinl&acirc;ndia</p>
 
-<p>Cerca de 300 pessoas ocuparam a Fazenda Santa Maria, do grupo Atalla, no munic&iacute;pio de Piraju. Eles tamb&eacute;m reivindicaram a protocola&ccedil;&atilde;o da &aacute;rea na Procuradoria da Fazenda Nacional com a inten&ccedil;&atilde;o que entre com a execu&ccedil;&atilde;o fiscal para in&iacute;cio do processo de adjudica&ccedil;&atilde;o. Tamb&eacute;m na regi&atilde;o 150 manifestantes ocuparam a Fazenda Torr&atilde;o de Ouro, em Alvinl&acirc;ndia</p>
+<p><br />
+<strong>S&atilde;o Paulo (Iaras)</strong></p>
 
-<p>&nbsp;</p>
+<p><br />
+Trabalhadores Sem Terra ocuparam a ag&ecirc;ncia do Banco do Brasil, em Agudos. Al&eacute;m de todas as pautas da Jornada Unit&aacute;ria, os manifestantes denunciaram a morosidade no atendimento &agrave;s fam&iacute;lias, a falta de preparo da ger&ecirc;ncia local para as pautas espec&iacute;ficas com os assentados e a paralisa&ccedil;&atilde;o na libera&ccedil;&atilde;o de cr&eacute;ditos e financiamentos Os trabalhadores tamb&eacute;m ocuparam a Companhia Paulista de For&ccedil;a e Luz (CPFL) no munic&iacute;pio.</p>
 
-<p><strong>S&atilde;o Paulo (Iaras)</strong></p>
+<p><br />
+<strong>S&atilde;o Paulo (Pontal do Paranapanema)</strong></p>
 
-<p>Trabalhadores Sem Terra ocuparam a ag&ecirc;ncia do Banco do Brasil, em Agudos. Al&eacute;m de todas as pautas da Jornada Unit&aacute;ria, os manifestantes denunciaram a morosidade no atendimento &agrave;s fam&iacute;lias, a falta de preparo da ger&ecirc;ncia local para as pautas espec&iacute;ficas com os assentados e a paralisa&ccedil;&atilde;o na libera&ccedil;&atilde;o de cr&eacute;ditos e financiamentos Os trabalhadores tamb&eacute;m ocuparam a Companhia Paulista de For&ccedil;a e Luz (CPFL) no munic&iacute;pio.</p>
+<p><br />
+Os trabalhadores ocuparam ag&ecirc;ncias do Banco do Brasil na regi&atilde;o, o escrit&oacute;rio do Instituto de Terras do Estado de S&atilde;o Paulo (Itesp) e tamb&eacute;m realizaram trancamento de rodovias.</p>
 
-<p>&nbsp;</p>
-
-<p><strong>S&atilde;o Paulo (Pontal do Paranapanema)</strong></p>
-
-<p>Os trabalhadores ocuparam ag&ecirc;ncias do Banco do Brasil na regi&atilde;o, o escrit&oacute;rio do Instituto de Terras do Estado de S&atilde;o Paulo (Itesp) e tamb&eacute;m realizaram trancamento de rodovias.</p>
-
-<p>Al&eacute;m do golpe de Estado, os trabalhadores denunciaram o bloqueio de pol&iacute;ticas p&uacute;blicas, a paralisa&ccedil;&atilde;o da Reforma Agr&aacute;ria e a retirada de direitos da classe trabalhadora. Recentemente o TCU, em uma a&ccedil;&atilde;o que supera suas atribui&ccedil;&otilde;es constitucionais, determinou a paralisa&ccedil;&atilde;o completa da Reforma Agr&aacute;ria, enquadrando atrav&eacute;s de uma metodologia question&aacute;vel, 578 mil benefici&aacute;rios das pol&iacute;ticas p&uacute;blicas no campo.&nbsp;</p>
-
-<p>&nbsp;</p>
+<p><br />
+Al&eacute;m do golpe de Estado, os trabalhadores denunciaram o bloqueio de pol&iacute;ticas p&uacute;blicas, a paralisa&ccedil;&atilde;o da Reforma Agr&aacute;ria e a retirada de direitos da classe trabalhadora. Recentemente o TCU, em uma a&ccedil;&atilde;o que supera suas atribui&ccedil;&otilde;es constitucionais, determinou a paralisa&ccedil;&atilde;o completa da Reforma Agr&aacute;ria, enquadrando atrav&eacute;s de uma metodologia question&aacute;vel, 578 mil benefici&aacute;rios das pol&iacute;ticas p&uacute;blicas no campo.&nbsp;</p>
 
 <figure class="image"><img alt="WhatsApp Image 2016-09-05 at 10.09.32.jpeg" height="394" src="//farm9.staticflickr.com/8163/29481423685_bb79237007_b.jpg" width="700" />
 <figcaption><em>Em Jornada de Lutas Unit&aacute;ria, Sem Terra bloqueiam a&nbsp;rodovia Anhanguera</em></figcaption>
