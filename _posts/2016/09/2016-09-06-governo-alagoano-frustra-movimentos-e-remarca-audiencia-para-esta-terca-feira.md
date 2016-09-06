@@ -31,10 +31,11 @@ files:
 created_date: "2016-09-06T11:30:58-03:00"
 published: true
 releated_posts:
-  - _posts/2016/04/2016-04-28-marcha-em-defesa-da-reforma-agraria-e-contra-o-golpe-chega-a-maceio.md
-  - _posts/2016/04/2016-04-29-em-passagem-pela-ufal-sem-terra-realizam-atividades-com-a-comunidade-academica.md
   - _posts/2016/08/2016-08-11-em-alagoas-juventude-sem-terra-realiza-mobilizacao-em-diversos-municipios.md
-  - _posts/2016/04/2016-04-15-jornada-nacional-de-lutas-mobiliza-40-mil-sem-terra-em-15-estados-do-pais.md
+  - _posts/2016/09/2016-09-01-a-farsa-foi-tao-grande-que-nao-tiveram-coragem-de-lhe-tirar-os-direitos-politicos-apenas-lhe-roubaram-o-mandato.md
+  - _posts/2016/09/2016-09-01-um-dia-de-lagrimas-todos-os-outros-de-luta.md
+  - _posts/2016/09/2016-09-02-grito-dos-excluidos-convoca-povo-brasileiro-para-lutar-por-seus-direitos.md
+  - _posts/2016/09/2016-09-05-protesto-contra-temer-reune-mais-de-cem-mil-na-paulista.md
 
 ---
 <p>&nbsp;</p>
@@ -53,8 +54,7 @@ Ap&oacute;s a realiza&ccedil;&atilde;o de marchas e ocupa&ccedil;&otilde;es em M
 Estiveram presentes na reuni&atilde;o, representantes do Gabinete Civil, Secretaria de Agricultura (Seagri), Secretaria de Transporte e Desenvolvimento Urbano, Secretaria de Seguran&ccedil;a P&uacute;blica, Secretaria de Educa&ccedil;&atilde;o (SEE), Instituto de Terras de Alagoas (Iteral) e Secretaria de Recursos H&iacute;dricos e Meio Ambiente. O governador, contudo, apesar do pr&eacute;vio agendamento, n&atilde;o compareceu.</p>
 
 <p><br />
-&ldquo;Estamos nos sentindo enganados, as respostas dadas pelo Governo batem e voltam. Nunca vi tratar tanto dos mesmos assuntos e nunca encaminhar nada resolutivo&rdquo;, alega Carlos Lima, da coordena&ccedil;&atilde;o da Comiss&atilde;o Pastoral da Terra (CPT). Segundo o mesmo, os movimentos t&ecirc;m tido muita dificuldade de interlocu&ccedil;&atilde;o com este governo.<br />
-&nbsp;</p>
+&ldquo;Estamos nos sentindo enganados, as respostas dadas pelo Governo batem e voltam. Nunca vi tratar tanto dos mesmos assuntos e nunca encaminhar nada resolutivo&rdquo;, alega Carlos Lima, da coordena&ccedil;&atilde;o da Comiss&atilde;o Pastoral da Terra (CPT). Segundo o mesmo, os movimentos t&ecirc;m tido muita dificuldade de interlocu&ccedil;&atilde;o com este governo.</p>
 
 <p><br />
 Para Rilda Alves, presidente da Central &Uacute;nica dos Trabalhadores (CUT) e membro da Federa&ccedil;&atilde;o dos Trabalhadores da Agricultura de Alagoas (Fetag-AL), &ldquo;as decis&otilde;es pol&iacute;ticas s&atilde;o precedentes aos encaminhamentos t&eacute;cnicos do secretariado. Fica cansativo fazermos reuni&atilde;o de trabalho aqui com os secret&aacute;rios, mas a delibera&ccedil;&atilde;o pol&iacute;tica s&oacute; ocorrer com o governador depois. O povo que ficou l&aacute; fora quer avan&ccedil;os concretos&rdquo;, dispara.</p>
@@ -68,8 +68,16 @@ Dos secret&aacute;rios presentes, os militantes ouviram que existem recursos do 
 <p><br />
 Foi anunciado tamb&eacute;m que daqui a vinte dias &ldquo;teremos os contratos&rdquo; para recupera&ccedil;&atilde;o de 250 km de estradas em &aacute;rea rural, segundo o pr&oacute;prio secret&aacute;rio Mozart Amaral. A lista de prioridades dos assentados ser&aacute; entregue pelas lideran&ccedil;as para ordenar os servi&ccedil;os. Tamb&eacute;m na pauta da educa&ccedil;&atilde;o, foi identificada a possibilidade de construir escolas de ensino m&eacute;dio em &aacute;reas rurais, bem como a retomada das escolas itinerantes no estado.</p>
 
-<p><img alt="FOTO ESIO MELO 2.JPG" src="//farm9.staticflickr.com/8347/29390832062_dd9542451f_b.jpg" /><br />
-<strong>Mobiliza&ccedil;&otilde;es</strong></p>
+<p>&nbsp;</p>
+
+<figure class="image"><img alt="FOTO RAFAEL SORIANO MST.JPG" height="467" src="//farm9.staticflickr.com/8467/29499213205_fea8952456_b.jpg" width="700" />
+<figcaption>Audi&ecirc;ncia com os representantes do governo de Alagoas. Jornada Unit&aacute;ria dos movimentos do campo mobiliza milhares de pessoas em todo pa&iacute;s <a href="https://t.co/wJwyFdkA1c">http://migre.me/uUoMy&nbsp;</a></figcaption>
+</figure>
+
+<p><br />
+&nbsp;</p>
+
+<p><strong>Mobiliza&ccedil;&otilde;es</strong></p>
 
 <p><br />
 Para continuar a pressionar o governo e outros &oacute;rg&atilde;os, os movimentos que realizam Jornada de Lutas Unit&aacute;ria dos trabalhadores e Trabalhadoras e Povos do Campo, das &Aacute;guas e das Florestas realizam uma nova marcha, manh&atilde; desta ter&ccedil;a-feira, com paradas em pontos estrat&eacute;gicos. Entre eles est&aacute; o Tribunal de Justi&ccedil;a (TJ-AL), onde cobrar&aacute; celeridade na condena&ccedil;&atilde;o e pris&atilde;o dos mandantes de assassinatos de lideran&ccedil;as Sem Terra, como o caso de Jaelson Melqu&iacute;ades, morto em 2005 em Atalaia.</p>
