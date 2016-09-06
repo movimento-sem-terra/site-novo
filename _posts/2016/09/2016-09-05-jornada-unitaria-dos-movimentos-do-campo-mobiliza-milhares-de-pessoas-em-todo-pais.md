@@ -108,12 +108,12 @@ files:
     small: //farm9.staticflickr.com/8126/29428563841_e3c6d62614_n.jpg
     title: Movimentos do Campo se manifestam no INCRA_Pablo Vergara-19.JPG
     $$hashKey: 1DD
-  - link: //farm9.staticflickr.com/8610/29428637141_9617f9bb1d_b.jpg
-    thumbnail: //farm9.staticflickr.com/8610/29428637141_9617f9bb1d_t.jpg
-    medium: //farm9.staticflickr.com/8610/29428637141_9617f9bb1d_z.jpg
-    small: //farm9.staticflickr.com/8610/29428637141_9617f9bb1d_n.jpg
-    title: 14183701_1224989467573765_1337846056800560871_n.jpg
-    $$hashKey: 1FF
+  - link: //farm9.staticflickr.com/8617/29400351402_c1b175e99a_b.jpg
+    thumbnail: //farm9.staticflickr.com/8617/29400351402_c1b175e99a_t.jpg
+    medium: //farm9.staticflickr.com/8617/29400351402_c1b175e99a_z.jpg
+    small: //farm9.staticflickr.com/8617/29400351402_c1b175e99a_n.jpg
+    title: 28875804394_09086b6ec6_b.jpg
+    $$hashKey: 1R7
 created_date: "2016-09-05T13:59:33-03:00"
 published: true
 releated_posts:
@@ -177,12 +177,8 @@ Desde o per&iacute;odo da manh&atilde;, as fam&iacute;lias estavam concentradas 
 
 <p class="p1">&nbsp;</p>
 
-<figure class="image"><img alt="14183701_1224989467573765_1337846056800560871_n.jpg" height="525" src="//farm9.staticflickr.com/8610/29428637141_9617f9bb1d_b.jpg" width="700" />
-<figcaption>Legenda</figcaption>
-</figure>
-
 <p><br />
-<strong>Confira as a&ccedil;&otilde;es desta segunda-feira (05)</strong></p>
+<strong>Confira as a&ccedil;&otilde;es desta segunda-feira (05)</strong><img alt="28875804394_09086b6ec6_b.jpg" src="//farm9.staticflickr.com/8617/29400351402_c1b175e99a_b.jpg" /></p>
 
 <figure class="image"><img alt="Brasília. Foto Bruno Pilon (2).jpeg" height="466" src="//farm9.staticflickr.com/8356/29399690501_0bd2dbe024_b.jpg" width="700" />
 <figcaption><em>As atividades da Jornada de Lutas Unit&aacute;ria est&atilde;o concentradas em Bras&iacute;lia, onde j&aacute; est&aacute; sendo montado um acampamento que durar&aacute; at&eacute; quarta-feira (07). Foto: Bruno Pilon</em></figcaption>
