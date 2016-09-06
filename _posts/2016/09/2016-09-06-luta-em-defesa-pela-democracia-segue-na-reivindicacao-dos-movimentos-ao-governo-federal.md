@@ -100,3 +100,6 @@ Neste momento devem pautar, com prioridade, a perman&ecirc;ncia do Programa de A
 
 <p><br />
 A Jornada segue at&eacute; dia 07 de setembro, culminando na participa&ccedil;&atilde;o dos movimentos populares na Grito dos Exclu&iacute;dos, realizado em contraposi&ccedil;&atilde;o ao Dia da P&aacute;tria. Al&eacute;m de Bras&iacute;lia, alguns estados sinalizam permanecer mobilizados at&eacute; sexta-feira (09).&nbsp;</p>
+
+<p><br />
+<em>*Editado por Iris Pacheco</em></p>
