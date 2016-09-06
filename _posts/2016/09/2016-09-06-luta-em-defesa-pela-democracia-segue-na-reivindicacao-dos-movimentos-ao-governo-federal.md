@@ -4,7 +4,7 @@ tags:
   - tag: jornada-de-lutas
   - tag: lutas-e-mobilizações
   - tag: movimentos-do-campo
-title: Luta em defesa pela democracia segue na reivindicação dos movimentos ao governo federal
+title: "Luta em defesa pela democracia segue na reivindicação dos movimentos ao governo "
 support_line: "Acampados em Brasília, movimentos do campo, águas e florestas defendem em audiência a retomada e aprofundamento de políticas sociais"
 images_hd: //farm9.staticflickr.com/8499/29380099622_3bbdfc2971_b.jpg
 menu: lutas e mobilizações
