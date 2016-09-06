@@ -133,6 +133,52 @@ Outro ponto tratado durante a Jornada &eacute; o desenvolvimento e infraestrutur
 <p><br />
 Os manifestantes tamb&eacute;m v&atilde;o &agrave;s ruas contra a retirada de direitos, contra a criminaliza&ccedil;&atilde;o dos movimentos populares e, principalmente, contra o golpe e pela democracia ap&oacute;s a viola&ccedil;&atilde;o da Constitui&ccedil;&atilde;o brasileira pelo Congresso Nacional e pela elite econ&ocirc;mica e pol&iacute;tica do pa&iacute;s que levou Michel Temer &agrave; Presid&ecirc;ncia da Rep&uacute;blica.&nbsp;</p>
 
+<p><br style="line-height: 20.8px;" />
+<strong style="line-height: 20.8px;">Confira as a&ccedil;&otilde;es dessa segunda-feira (6)</strong></p>
+
+<p>Cerca de 300 Sem Terra ocuparam na manh&atilde;&nbsp;dessa ter&ccedil;a-feira a sede do&nbsp;sede do&nbsp;Instituto de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra).</p>
+
+<p>A a&ccedil;&atilde;o faz parte da Jornada Unit&aacute;ria dos Movimentos do Campo, e contou com a participa&ccedil;&atilde;o de diversos movimento do campo que em carta denunciam o governo de Michel Temer e reivindicam a retirada de direitos das popula&ccedil;&otilde;es campesinas.&nbsp;</p>
+
+<p>Leia a carta na &iacute;ntegra:&nbsp;</p>
+
+<p>Nos &uacute;ltimos meses acompanhamos um processo devastador de retrocessos nos direitos e garantias fundamentais das trabalhadoras e trabalhadores do campo e da cidade. Em pouco tempo de exerc&iacute;cio no comando do pa&iacute;s, o presidente golpista Michel Temer, tem um papel fundamental em abolir direitos em defesa dos interesses econ&ocirc;micos de empres&aacute;rios nacionais e transnacionais, propriet&aacute;rios rurais, enfim uma elite que historicamente sempre enriqueceu da explora&ccedil;&atilde;o das trabalhadoras e trabalhadores, bem como dos bens da natureza.</p>
+
+<p><br />
+O que se observa &eacute; um verdadeiro desmonte na legisla&ccedil;&atilde;o trabalhista, impondo uma total desregulamenta&ccedil;&atilde;o do trabalho, com propostas de fim do 13&ordm;, aumento da jornada de trabalho, aumento da idade para aposentadoria, dentre muitos outros direitos.</p>
+
+<p><br />
+No plano agr&aacute;rio, esses grupos est&atilde;o atacando com as garantias constitucionais dos territ&oacute;rios ind&iacute;genas, quilombolas, dentre outras comunidades tradicionais, com a aprova&ccedil;&atilde;o da PEC 215, que retira do executivo a compet&ecirc;ncia para regulariza&ccedil;&atilde;o dos territ&oacute;rios ind&iacute;genas e quilombolas e a transfere para o Congresso, marcadamente composto pela bancada ruralista que visa impedir a demarca&ccedil;&atilde;o desses territ&oacute;rios.</p>
+
+<p><br />
+A ofensiva contra a reforma agr&aacute;ria fica evidente na recente resolu&ccedil;&atilde;o do Tribunal de Contas da Uni&atilde;o que determina ao INCRA a suspens&atilde;o de todos os procedimentos para efetiva&ccedil;&atilde;o da reforma agr&aacute;ria. Isso significa paralisa&ccedil;&atilde;o das desapropria&ccedil;&otilde;es e de qualquer acompanhamento aos assentamentos realizados, trata-se de estrangular as trabalhadoras e os trabalhadores rurais apostando na retomada da terra por setores econ&ocirc;micos.</p>
+
+<p><br />
+N&atilde;o &eacute; pouco significativo que esteja em debate no congresso a altera&ccedil;&atilde;o da lei de vendas de terras para estrangeiros. O que o governo golpista de Michel Temer e a bancada ruralista querem com a aprova&ccedil;&atilde;o do PL 4059/12 &eacute; a transfer&ecirc;ncia do territ&oacute;rio nacional, incluindo a Amaz&ocirc;nia, para empresas ou propriet&aacute;rios estrangeiros. Isso significar&aacute; perda da soberania do territ&oacute;rio nacional e desnacionaliza&ccedil;&atilde;o de recursos naturais como a &aacute;gua.</p>
+
+<p><br />
+Os ataques n&atilde;o param por ai. A bancada ruralista no congresso nacional est&aacute; atuando para aprovar leis que exp&otilde;em para a sociedade a uma vulnerabilidade em sua sa&uacute;de, na medida em que busca revogar a lei dos agrot&oacute;xicos de 1989 e implementar a lei do Veneno. Torna-se fundamental lutar para que esta legisla&ccedil;&atilde;o n&atilde;o seja aprovada, al&eacute;m de garantir a implanta&ccedil;&atilde;o do Programa Nacional de Redu&ccedil;&atilde;o do Uso de Agrot&oacute;xicos, consolidando uma pol&iacute;tica que preze, acima de tudo, a sa&uacute;de humana e ambiental.</p>
+
+<p><br />
+Mas n&atilde;o s&atilde;o apenas amea&ccedil;as aos direitos das trabalhadoras e dos trabalhadores, o que est&aacute; em jogo &eacute; a pr&oacute;pria democracia. O governo golpista de Michel Temer e seus aliados n&atilde;o possuem nenhum compromisso com a democracia, tanto &eacute; assim que os movimentos sociais que lutam que lutam em defesa de seus direitos s&atilde;o criminalizados. Lutar por terra tornou-se crime de associa&ccedil;&atilde;o criminosa, lutar por territ&oacute;rios tradicionais tem levado a morte comunidades ind&iacute;genas, quilombolas, sem terras e camponeses.</p>
+
+<p><br />
+Por isso, lutamos. Resistiremos a esse avan&ccedil;o conservador que amea&ccedil;a direitos em m&uacute;ltiplos campos, resistiremos ao avan&ccedil;o do agroneg&oacute;cio que vem impondo a morte a diversas comunidades ind&iacute;genas e ao ambiente. Resistiremos em defesa da terra, do territ&oacute;rio e das &aacute;guas, LUTAREMOS EM NOME &nbsp;da vida com dignidade!<br />
+<br />
+MBLT&nbsp;<br />
+MST<br />
+MAB<br />
+MPA<br />
+UNACOOP<br />
+AQUILERJ<br />
+CONAQUE<br />
+FETAG<br />
+SEDRO</p>
+
+<p>apoios: ANDES, CUT, Sindipetro RJ, SEPE RJ</p>
+
+<p>&nbsp;</p>
+
 <p><br />
 <strong>Confira as a&ccedil;&otilde;es dessa segunda-feira (5)</strong></p>
 
@@ -248,7 +294,7 @@ Em Vit&oacute;ria, cerca de 300 Sem Terra ocuparam a sede do Instituto Nacional 
 <strong>Mato Grosso&nbsp;</strong></p>
 
 <p><br />
-Desde domingo (04), cerca de 250 integrantes do MST de todas as regi&otilde;es do estado de Mato Grosso, ocupam a sede do <span style="line-height: 20.8px;">&nbsp;Incra</span>.</p>
+Desde domingo (04), cerca de 250 integrantes do MST de todas as regi&otilde;es do estado de Mato Grosso, ocupam a sede do<span style="line-height: 20.8px;">&nbsp;Instituto de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra)</span>.</p>
 
 <p>Os trabalhadores exigem o assentamento imediato das duas mil fam&iacute;lias que se encontram ainda acampadas, a efetiva&ccedil;&atilde;o dos assentamentos a adequa&ccedil;&atilde;o de infraestrutura dos assentamentos j&aacute; existentes e a agilidade no processo de regulariza&ccedil;&atilde;o das fam&iacute;lias beneficiarias da Reforma Agr&aacute;ria junto ao TCU.</p>
 
