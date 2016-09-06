@@ -4,9 +4,9 @@ tags:
   - tag: fora-temer
   - tag: contra-o-golpe
   - tag: reforma-agrária
-  - tag: jornada-de-lutas
-title: "Jornada Unitária dos movimentos do campo mobiliza milhares de pessoas em todo país \n"
-support_line: "Até o momento, cerca de 12 mil pessoas estão mobilizadas em dez estados"
+  - tag: jornada-nacional-de-lutas
+title: "Jornada Unitária do campo segue mobilizando milhares de pessoas em todo país \n"
+support_line: "Em seu segundo dia, mais de 11 estados são mobilizados em defesa da reforma agrária e contra o golpe "
 menu: lutas e mobilizações
 section: cover
 images_hd: //farm9.staticflickr.com/8356/29399690501_0bd2dbe024_b.jpg
@@ -102,19 +102,35 @@ files:
     small: //farm9.staticflickr.com/8130/29193793100_f7ef9a4daa_n.jpg
     title: IMG-20160905-WA0019.jpg
     $$hashKey: "067"
+  - link: //farm9.staticflickr.com/8126/29428563841_e3c6d62614_b.jpg
+    thumbnail: //farm9.staticflickr.com/8126/29428563841_e3c6d62614_t.jpg
+    medium: //farm9.staticflickr.com/8126/29428563841_e3c6d62614_z.jpg
+    small: //farm9.staticflickr.com/8126/29428563841_e3c6d62614_n.jpg
+    title: Movimentos do Campo se manifestam no INCRA_Pablo Vergara-19.JPG
+    $$hashKey: 1DD
+  - link: //farm9.staticflickr.com/8610/29428637141_9617f9bb1d_b.jpg
+    thumbnail: //farm9.staticflickr.com/8610/29428637141_9617f9bb1d_t.jpg
+    medium: //farm9.staticflickr.com/8610/29428637141_9617f9bb1d_z.jpg
+    small: //farm9.staticflickr.com/8610/29428637141_9617f9bb1d_n.jpg
+    title: 14183701_1224989467573765_1337846056800560871_n.jpg
+    $$hashKey: 1FF
 created_date: "2016-09-05T13:59:33-03:00"
 published: true
 releated_posts:
+  - _posts/2016/05/2016-05-15-nota-sobre-a-desocupacao-da-fazenda-de-michel-temer-em-duartina-sp.md
   - _posts/2016/04/2016-04-14-ms-responde-a-declaracoes-desonestas-da-deputada-federal-tereza-cristina.md
-  - _posts/2016/04/2016-04-25-em-defesa-da-reforma-agraria-e-da-democracia-sem-terra-marcham-em-al.md
   - _posts/2016/04/2016-04-25-mst-realiza-marchas-em-defesa-da-reforma-agraria-e-da-democracia.md
   - _posts/2016/05/2016-05-09-mst-ocupa-fazenda-ligada-a-temer-em-sao-paulo.md
   - _posts/2016/05/2016-05-11-mst-bloqueia-rodovias-do-distrito-federal-em-defesa-da-democracia.md
+  - _posts/2016/04/2016-04-25-em-defesa-da-reforma-agraria-e-da-democracia-sem-terra-marcham-em-al.md
   - _posts/2016/05/2016-05-12-editorial-impeachment-sem-crime-agrediu-democracia.md
   - _posts/2016/09/2016-09-05-mst-chega-a-capital-paranaense-contra-o-golpe-e-por-reforma-agraria.md
   - _posts/2016/09/2016-09-05-600-familias-sem-terra-ocupam-area-improdutiva-no-rio-grande-do-norte.md
   - _posts/2016/09/2016-09-05-mst-ocupa-incra-e-ministerio-da-fazenda-e-exige-retomada-da-reforma-agraria.md
   - _posts/2016/08/2016-08-09-programa-de-temer-jamais-teria-sido-eleito-nas-urnas-afirma-dilma.md
+  - _posts/2016/09/2016-09-06-governo-alagoano-frustra-movimentos-e-remarca-audiencia-para-esta-terca-feira.md
+  - _posts/2016/09/2016-09-06-para-o-tcu-os-assentados-estao-proibidos-de-melhorar-de-vida-diz-mst.md
+  - _posts/2016/09/2016-09-06-movimentos-do-campo-realizam-manifestacao-no-incra-do-rj.md
 
 ---
 <p>&nbsp;</p>
@@ -134,7 +150,39 @@ Outro ponto tratado durante a Jornada &eacute; o desenvolvimento e infraestrutur
 Os manifestantes tamb&eacute;m v&atilde;o &agrave;s ruas contra a retirada de direitos, contra a criminaliza&ccedil;&atilde;o dos movimentos populares e, principalmente, contra o golpe e pela democracia ap&oacute;s a viola&ccedil;&atilde;o da Constitui&ccedil;&atilde;o brasileira pelo Congresso Nacional e pela elite econ&ocirc;mica e pol&iacute;tica do pa&iacute;s que levou Michel Temer &agrave; Presid&ecirc;ncia da Rep&uacute;blica.&nbsp;</p>
 
 <p><br />
-<strong>Confira as a&ccedil;&otilde;es dessa segunda-feira (05)</strong></p>
+<strong>Confira as a&ccedil;&otilde;es desta ter&ccedil;a-feira (06)</strong></p>
+
+<p><br />
+<strong>Rio de Janeiro&nbsp;</strong></p>
+
+<p><br />
+Nesta ter&ccedil;a-feira (06), cerca de 200 camponeses, agricultores, quilombolas de diversos movimentos sociais realizaram manifesta&ccedil;&atilde;o em frente &agrave; sede do Incra, no centro do Rio de Janeiro, reivindicando a obten&ccedil;&atilde;o de terras para fam&iacute;lias acampadas, assist&ecirc;ncia t&eacute;cnica e cr&eacute;ditos para Reforma Agr&aacute;ria, al&eacute;m de outras pautas.</p>
+
+<p><br />
+Desde o per&iacute;odo da manh&atilde;, as fam&iacute;lias estavam concentradas na Pra&ccedil;a da Candel&aacute;ria, no centro da capital e depois caminharam at&eacute; a sede do pr&eacute;dio, na Avenida Presidente Vargas.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<figure class="image"><img alt="Movimentos do Campo se manifestam no INCRA_Pablo Vergara-19.JPG" height="467" src="//farm9.staticflickr.com/8126/29428563841_e3c6d62614_b.jpg" width="700" />
+<figcaption><em>Trabalhadores e trabalhadoras mobilizadas em frente ao Incra no RJ. Foto: Pablo Vergara</em></figcaption>
+</figure>
+
+<p><strong>Bahia&nbsp;</strong></p>
+
+<p class="p1"><br />
+<span class="s1">Mais de 1,5 mil trabalhadores e trabalhadoras Sem Terra chegaram a capital baiana nesta &uacute;ltima segunda-feira (5) em defesa da Reforma Agr&aacute;ria, pela democracia e contra o governo golpista e ileg&iacute;timo de Michel Temer (PMDB).</span></p>
+
+<p class="p1"><br />
+<span class="s1">Munidos de suas ferramentas de trabalho e reivindicando alguns pontos espec&iacute;ficos, em especial o descaso com a educa&ccedil;&atilde;o do campo - pauta hist&oacute;rica do MST na Bahia -, os trabalhadores montaram um grande acampamento no Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra) por tempo indeterminado.</span></p>
+
+<p class="p1">&nbsp;</p>
+
+<figure class="image"><img alt="14183701_1224989467573765_1337846056800560871_n.jpg" height="525" src="//farm9.staticflickr.com/8610/29428637141_9617f9bb1d_b.jpg" width="700" />
+<figcaption>Legenda</figcaption>
+</figure>
+
+<p><br />
+<strong>Confira as a&ccedil;&otilde;es desta segunda-feira (05)</strong></p>
 
 <figure class="image"><img alt="Brasília. Foto Bruno Pilon (2).jpeg" height="466" src="//farm9.staticflickr.com/8356/29399690501_0bd2dbe024_b.jpg" width="700" />
 <figcaption><em>As atividades da Jornada de Lutas Unit&aacute;ria est&atilde;o concentradas em Bras&iacute;lia, onde j&aacute; est&aacute; sendo montado um acampamento que durar&aacute; at&eacute; quarta-feira (07). Foto: Bruno Pilon</em></figcaption>
