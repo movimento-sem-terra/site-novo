@@ -177,8 +177,13 @@ Desde o per&iacute;odo da manh&atilde;, as fam&iacute;lias estavam concentradas 
 
 <p class="p1">&nbsp;</p>
 
+<figure class="image"><img alt="28875804394_09086b6ec6_b.jpg" height="467" src="//farm9.staticflickr.com/8617/29400351402_c1b175e99a_b.jpg" width="700" />
+<figcaption><em>Sem Terra marcham pela capital baiana. Foto: Manuela Hernandez</em></figcaption>
+</figure>
+
 <p><br />
-<strong>Confira as a&ccedil;&otilde;es desta segunda-feira (05)</strong><img alt="28875804394_09086b6ec6_b.jpg" src="//farm9.staticflickr.com/8617/29400351402_c1b175e99a_b.jpg" /></p>
+<strong>Confira as a&ccedil;&otilde;es desta segunda-feira (05)</strong><br />
+&nbsp;</p>
 
 <figure class="image"><img alt="Brasília. Foto Bruno Pilon (2).jpeg" height="466" src="//farm9.staticflickr.com/8356/29399690501_0bd2dbe024_b.jpg" width="700" />
 <figcaption><em>As atividades da Jornada de Lutas Unit&aacute;ria est&atilde;o concentradas em Bras&iacute;lia, onde j&aacute; est&aacute; sendo montado um acampamento que durar&aacute; at&eacute; quarta-feira (07). Foto: Bruno Pilon</em></figcaption>
