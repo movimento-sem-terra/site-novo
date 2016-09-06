@@ -22,6 +22,12 @@ files:
     small: //farm9.staticflickr.com/8505/28886287623_c693721c5f_n.jpg
     title: Movimentos do Campo se manifestam no INCRA_Pablo Vergara-19.JPG
     $$hashKey: 0SU
+  - link: //farm9.staticflickr.com/8019/29428465921_c918066994_b.jpg
+    thumbnail: //farm9.staticflickr.com/8019/29428465921_c918066994_t.jpg
+    medium: //farm9.staticflickr.com/8019/29428465921_c918066994_z.jpg
+    small: //farm9.staticflickr.com/8019/29428465921_c918066994_n.jpg
+    title: Movimentos do Campo se manifestam no INCRA_Pablo Vergara-17.JPG
+    $$hashKey: 0YH
 created_date: "2016-09-06T20:03:39-03:00"
 published: true
 releated_posts:
@@ -35,7 +41,7 @@ releated_posts:
 <p>&nbsp;</p>
 
 <figure class="image"><img alt="Movimentos do Campo se manifestam no INCRA_Pablo Vergara-19.JPG" height="467" src="//farm9.staticflickr.com/8505/28886287623_c693721c5f_b.jpg" width="700" />
-<figcaption>Trabalhadores e trabalhadoras se mobilizam em frente ao Incra no Rio de janeiro. Foto: Pablo Vergara</figcaption>
+<figcaption><em>Trabalhadores e trabalhadoras se mobilizam em frente ao Incra no Rio de janeiro. Foto: Pablo Vergara</em></figcaption>
 </figure>
 
 <p><br />
@@ -77,6 +83,10 @@ A ofensiva contra a reforma agr&aacute;ria fica evidente na recente resolu&ccedi
 
 <p><br />
 N&atilde;o &eacute; pouco significativo que esteja em debate no congresso a altera&ccedil;&atilde;o da lei de vendas de terras para estrangeiros. O que o governo golpista de Michel Temer e a bancada ruralista querem com a aprova&ccedil;&atilde;o do PL 4059/12 &eacute; a transfer&ecirc;ncia do territ&oacute;rio nacional, incluindo a Amaz&ocirc;nia, para empresas ou propriet&aacute;rios estrangeiros. Isso significar&aacute; perda da soberania do territ&oacute;rio nacional e desnacionaliza&ccedil;&atilde;o de recursos naturais como a &aacute;gua.</p>
+
+<figure class="image" style="float:right"><img alt="Movimentos do Campo se manifestam no INCRA_Pablo Vergara-17.JPG" height="300" src="//farm9.staticflickr.com/8019/29428465921_c918066994_b.jpg" width="450" />
+<figcaption><em>Foto: Pablo Vergara</em></figcaption>
+</figure>
 
 <p><br />
 Os ataques n&atilde;o param a&iacute;. A bancada ruralista no congresso nacional est&aacute; atuando para aprovar leis que exp&otilde;em para a sociedade a uma vulnerabilidade em sua sa&uacute;de, na medida em que busca revogar a lei dos agrot&oacute;xicos de 1989 e implementar a lei do Veneno. Torna-se fundamental lutar para que esta legisla&ccedil;&atilde;o n&atilde;o seja aprovada, al&eacute;m de garantir a implanta&ccedil;&atilde;o do Programa Nacional de Redu&ccedil;&atilde;o do Uso de Agrot&oacute;xicos, consolidando uma pol&iacute;tica que preze, acima de tudo, a sa&uacute;de humana e ambiental.</p>
