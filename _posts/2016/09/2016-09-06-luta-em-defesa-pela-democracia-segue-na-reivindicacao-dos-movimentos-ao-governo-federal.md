@@ -34,11 +34,14 @@ releated_posts:
   - _posts/2016/09/2016-09-05-mst-chega-a-capital-paranaense-contra-o-golpe-e-por-reforma-agraria.md
 
 ---
-<p><br />
-<img alt="Unknown1.jpg" height="466" src="//farm9.staticflickr.com/8499/29380099622_3bbdfc2971_b.jpg" width="700" /><br />
-&nbsp;</p>
+<p>&nbsp;</p>
 
-<p><em>Equipe de comunica&ccedil;&atilde;o da Jornada Nacional</em></p>
+<figure class="image"><img alt="Unknown1.jpg" height="466" src="//farm9.staticflickr.com/8499/29380099622_3bbdfc2971_b.jpg" width="700" />
+<figcaption><em>Durante audi&ecirc;ncia, Movimentos do campo unit&aacute;rio defendem a democracia no pa&iacute;s e reivindicam respeito ao voto popular. Foto: Bruno Pilon</em></figcaption>
+</figure>
+
+<p><br />
+<em>Equipe de comunica&ccedil;&atilde;o da Jornada Nacional</em></p>
 
 <p><br />
 Em audi&ecirc;ncia com governo federal, o<span style="line-height: 20.8px;">s movimentos do campo unit&aacute;rio acampados em Bras&iacute;lia-DF, desde a madrugada desta segunda-feira (5),&nbsp;reivindicaram&nbsp;</span>um conjunto de pautas para retomada e aprofundamento das pol&iacute;ticas para o campo, das &aacute;guas e florestas, com prioriza&ccedil;&atilde;o para a destina&ccedil;&atilde;o de terras para a efetiva&ccedil;&atilde;o da reforma agr&aacute;ria popular e titula&ccedil;&atilde;o de terras para povos ind&iacute;genas e quilombolas.</p>
@@ -59,7 +62,7 @@ A unidade dos&nbsp;movimentos populares para&nbsp;permanecer em luta e pautar su
 &ldquo;O que nos unificou &eacute; acima de tudo neste momento, &eacute; a preocupa&ccedil;&atilde;o com a realidade no campo e com as pol&iacute;ticas conquistadas a duras penas nos &uacute;ltimos anos, e recentemente amea&ccedil;adas&rdquo;, pontua o presidente da Contag, Alberto Broch.</p>
 
 <p><br />
-&ldquo;O que nos traz aqui s&atilde;o as 120 mil fam&iacute;lias acampadas, as 579 mil fam&iacute;lias com acesso bloqueado &agrave;s pol&iacute;ticas agr&aacute;rias pelo Tribunal de Contas da Uni&atilde;o (TCU), produtores com acesso dificultado &agrave; assist&ecirc;ncia t&eacute;cnica. Precisamos extrair uma resposta do governo para dar ao povo sobre um or&ccedil;amento que pertence ao povo&rdquo;, destaca o membro da coordena&ccedil;&atilde;o nacional do Movimento dos Trabalhadores Rurais Sem Terra (MST), Alexandre Concei&ccedil;&atilde;o.</p>
+&ldquo;O que nos traz aqui s&atilde;o as 120 mil fam&iacute;lias acampadas, as 579 mil fam&iacute;lias com acesso bloqueado &agrave;s pol&iacute;ticas agr&aacute;rias pelo Tribunal de Contas da Uni&atilde;o (TCU), produtores com acesso dificultado &agrave; assist&ecirc;ncia t&eacute;cnica. Precisamos extrair uma resposta do governo para dar ao povo sobre um or&ccedil;amento que pertence ao povo&rdquo;, destaca o integrante&nbsp;da coordena&ccedil;&atilde;o nacional do MST, Alexandre Concei&ccedil;&atilde;o.</p>
 
 <p><br />
 <strong>Retorno do MDA</strong><br />
@@ -70,10 +73,12 @@ Uma das pautas priorit&aacute;rias defendida pelos movimentos populares &eacute;
 Entendido como central para a operacionaliza&ccedil;&atilde;o da pol&iacute;tica p&uacute;blica para a reforma agr&aacute;ria e agricultura familiar, o MDA foi fruto da press&atilde;o dos movimentos populares ap&oacute;s a cria&ccedil;&atilde;o do Massacre de Eldorado de Caraj&aacute;s. &ldquo;O MDA n&atilde;o &eacute; um &oacute;rg&atilde;o do governo e nem dos movimentos sociais. &Eacute; um patrim&ocirc;nio da agricultura familiar e camponesa&rdquo;, defende Alberto.<br />
 &nbsp;</p>
 
-<p><img alt="Unknown.jpg" height="466" src="//farm9.staticflickr.com/8300/29408656521_6889968afe_b.jpg" width="700" /><br />
-&nbsp;</p>
+<figure class="image"><img alt="Unknown.jpg" height="466" src="//farm9.staticflickr.com/8300/29408656521_6889968afe_b.jpg" width="700" />
+<figcaption><em>Em audi&ecirc;ncia, Movimentos defendem a volta do MDA e as pol&iacute;ticas agr&aacute;rias que este administrava. Foto: Bruno Pilon</em></figcaption>
+</figure>
 
-<p><strong>Participantes da audi&ecirc;ncia</strong></p>
+<p><br />
+<strong>Participantes da audi&ecirc;ncia</strong></p>
 
 <p><br />
 As organiza&ccedil;&otilde;es e movimentos populares que participaram da audi&ecirc;ncia p&uacute;blica foi&nbsp;o MST, Movimento Campon&ecirc;s Popular (MCP), Movimento das Mulheres Camponesas (MCP), Movimento dos Pequenos Agricultores (MPA) e as organiza&ccedil;&otilde;es Confedera&ccedil;&atilde;o Nacional dos Trabalhadores da Agricultura (Contag), Conselho Mission&aacute;rio Ind&iacute;gena (CIMI), Federa&ccedil;&atilde;o Nacional dos Trabalhadores e Trabalhadoras na Agricultura Familiar (Fetraf).</p>
