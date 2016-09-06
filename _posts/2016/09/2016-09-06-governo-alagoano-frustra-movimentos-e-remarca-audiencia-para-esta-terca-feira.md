@@ -5,7 +5,7 @@ tags:
   - tag: alagoas
   - tag: jornada-nacional-de-lutas
 title: Governo alagoano frustra movimentos e remarca audiência para esta terça-feira
-support_line: Os movimentos têm tido muita dificuldade de interlocução com este governo que nunca encaminhar nada resolutivo da pauta camponesa
+support_line: Os movimentos têm tido muita dificuldade de interlocução com este governo que nunca encaminha nada resolutivo da pauta camponesa
 menu: lutas e mobilizações
 images_hd: //farm9.staticflickr.com/8436/28876979543_97d96514c8_b.jpg
 layout: post
@@ -71,7 +71,7 @@ Foi anunciado tamb&eacute;m que daqui a vinte dias &ldquo;teremos os contratos&r
 <p>&nbsp;</p>
 
 <figure class="image"><img alt="FOTO RAFAEL SORIANO MST.JPG" height="467" src="//farm9.staticflickr.com/8467/29499213205_fea8952456_b.jpg" width="700" />
-<figcaption><em>Audi&ecirc;ncia com os representantes do governo de Alagoas. Foto: &Eacute;sio Melo (CPT)</em></figcaption>
+<figcaption><em>Audi&ecirc;ncia com os representantes do governo de Alagoas. Foto: Rafael Soriano</em></figcaption>
 </figure>
 
 <p><br />
