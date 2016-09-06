@@ -25,15 +25,13 @@ files:
 created_date: "2016-09-05T23:09:08-03:00"
 published: true
 releated_posts:
-  - _posts/2016/03/2016-03-07-jornada-nacional-de-lutas-leva-milhares-de-mulheres-as-ruas-de-todo-pais.md
-  - _posts/2016/04/2016-04-15-kelli-mafort-lutar-por-reforma-agraria-e-tambem-enfrentar-o-golpe-que-esta-em-curso-no-pais.md
-  - _posts/2016/04/2016-04-15-no-mato-grosso-mais-de-1000-sem-terra-mobilizam-se-pela-reforma-agraria.md
-  - _posts/2016/04/2016-04-29-jornada-potiguar-de-luta-pela-reforma-agraria-reune-centenas-de-pessoas-no-rn.md
-  - _posts/2016/08/2016-08-02-com-grandes-ocupacoes-de-terra-mst-exige-reforma-agraria.md
-  - _posts/2015/12/2015-12-09-movimentos-convocam-mobilizacoes-para-o-proximo-dia-16-12.md
-  - _posts/2015/12/2015-12-15-raimundo-bonfim-acabou-a-brincadeira-vamos-as-ruas-contra-o-golpe.md
-  - _posts/2015/12/2015-12-16-mobilizacoes-desta-quarta-ja-se-iniciam-em-diversas-partes-do-brasil.md
-  - _posts/2016/04/2016-04-01-atos-em-defesa-da-democracia-mobilizam-700-mil-pessoas-em-todo-o-pais.md
+  - _posts/2016/09/2016-09-01-mst-repudia-golpe-e-afirma-seguir-na-luta-pela-restauracao-da-democracia-brasileira.md
+  - _posts/2016/09/2016-09-01-um-dia-de-lagrimas-todos-os-outros-de-luta.md
+  - _posts/2016/09/2016-09-01-a-farsa-foi-tao-grande-que-nao-tiveram-coragem-de-lhe-tirar-os-direitos-politicos-apenas-lhe-roubaram-o-mandato.md
+  - _posts/2016/09/2016-09-05-600-familias-sem-terra-ocupam-area-improdutiva-no-rio-grande-do-norte.md
+  - _posts/2016/09/2016-09-02-grito-dos-excluidos-convoca-povo-brasileiro-para-lutar-por-seus-direitos.md
+  - _posts/2016/09/2016-09-05-movimentos-do-campo-divulgam-manifesto-exigindo-respeito-aos-direitos-do-povo-brasileiro.md
+  - _posts/2016/09/2016-09-05-mst-chega-a-capital-paranaense-contra-o-golpe-e-por-reforma-agraria.md
 
 ---
 <p><br />
