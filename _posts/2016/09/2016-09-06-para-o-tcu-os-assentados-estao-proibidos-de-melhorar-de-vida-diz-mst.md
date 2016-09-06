@@ -44,7 +44,10 @@ releated_posts:
 Do Sul 21&nbsp;</em></p>
 
 <p><br />
-A decis&atilde;o do Tribunal de Contas da Uni&atilde;o (TCU) de penalizar mais de 578 mil assentados no pa&iacute;s por consider&aacute;-los irregulares est&aacute; mobilizando assentamentos de Reforma Agr&aacute;ria em todo o pa&iacute;s. No Rio Grande do Sul, onde h&aacute; em torno de 13 mil fam&iacute;lias assentadas, segundo informa&ccedil;&otilde;es do Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra), mais de 10,5 mil benefici&aacute;rios da reforma agr&aacute;ria encontram-se em situa&ccedil;&atilde;o de irregularidade. Fam&iacute;lias que apresentaram melhoria na condi&ccedil;&atilde;o de renda ap&oacute;s serem assentadas foram inclu&iacute;das pelo TCU em uma rela&ccedil;&atilde;o de suspeita de irregularidades.</p>
+A decis&atilde;o do Tribunal de Contas da Uni&atilde;o (TCU) de penalizar mais de 578 mil assentados no pa&iacute;s por consider&aacute;-los irregulares est&aacute; mobilizando assentamentos de Reforma Agr&aacute;ria em todo o pa&iacute;s.</p>
+
+<p><br />
+No Rio Grande do Sul, onde h&aacute; em torno de 13 mil fam&iacute;lias assentadas, segundo informa&ccedil;&otilde;es do Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra), mais de 10,5 mil benefici&aacute;rios da reforma agr&aacute;ria encontram-se em situa&ccedil;&atilde;o de irregularidade. Fam&iacute;lias que apresentaram melhoria na condi&ccedil;&atilde;o de renda ap&oacute;s serem assentadas foram inclu&iacute;das pelo TCU em uma rela&ccedil;&atilde;o de suspeita de irregularidades.</p>
 
 <p><br />
 &quot;Hoje, para o Tribunal, &eacute; crime as fam&iacute;lias se organizarem para terem renda e melhores condi&ccedil;&otilde;es de vida no campo. Essas fam&iacute;lias est&atilde;o com as vidas bloqueadas, n&atilde;o conseguem acessar a cr&eacute;ditos e a outros recursos e programas&quot;, diz Cedenir de Oliveira, da dire&ccedil;&atilde;o estadual do Movimento dos Trabalhadores Rurais Sem Terra (MST).</p>
