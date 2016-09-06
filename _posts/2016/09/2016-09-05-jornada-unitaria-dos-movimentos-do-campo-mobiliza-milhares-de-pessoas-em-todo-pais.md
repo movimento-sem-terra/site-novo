@@ -276,40 +276,44 @@ Os manifestantes exigem o fortalecimento&nbsp;do instituto, e o assentamento ime
 
 <p><strong>S&atilde;o Paulo (Capital)&nbsp;</strong></p>
 
-<p>Cerca de 300 Sem Terra, representando 10 regionais organizadas pelo MST,&nbsp;ocuparam&nbsp;a superintend&ecirc;ncia do Instituto de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra) na manh&atilde; dessa segunda-feira (5).</p>
+<p>Cerca de 300 Sem Terra, representando 10 regionais organizadas pelo MST, ocuparam a superintend&ecirc;ncia do Instituto de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra) na manh&atilde; dessa segunda-feira (5).</p>
 
 <p><br />
-<strong style="line-height: 20.8px;">S&atilde;o Paulo (Ribeir&atilde;o Preto)&nbsp;</strong></p>
+<strong>S&atilde;o Paulo (Ribeir&atilde;o Preto)&nbsp;</strong></p>
+
+<p>150 trabalhadores do MST e de movimentos parceiros bloquearam a Rodovia Anhanguera no km 340. Na a&ccedil;&atilde;o foram distribu&iacute;das aproximadamente meia tonelada de alimentos org&acirc;nicos produzidos nos assentamentos do MST da regi&atilde;o. Os trabalhadores tamb&eacute;m realizaram trancamento da Rodovia C&acirc;ndido Portinari com cerca de 120 pessoas.<br />
+<br />
+<br />
+<strong>S&atilde;o Paulo (Andradina)</strong></p>
+
+<p>150 Sem Terra bloquearam a Rodovia Marechal Rondon na cidade de Andradina.</p>
+
+<p><br />
+<strong>S&atilde;o Paulo (Sudoeste)</strong></p>
+
+<p>Aproximadamente 120 trabalhadores Sem Terra ocuparam as terras do Horto Florestal na regi&atilde;o Sudoeste do estado. &nbsp;A ocupa&ccedil;&atilde;o reivindicou a conclus&atilde;o do processo de sele&ccedil;&atilde;o e cria&ccedil;&atilde;o do assentamento da Fazenda Lageado, em Itaporanga e a cria&ccedil;&atilde;o do assentamento na fazenda Cacan, em Riversul. Al&eacute;m disso, os trabalhadores exigiram a retomada das &nbsp;negocia&ccedil;&otilde;es com a Secretaria do Meio Ambiente para a cria&ccedil;&atilde;o do assentamento agroecol&oacute;gico Nova Esperan&ccedil;a.</p>
 
 <p>&nbsp;</p>
 
-<p>150 trabalhadores blo&nbsp;da Rodovia Anhanguera por cerca de 150 pessoas ligadas ao MST e movimentos parceiros. Na a&ccedil;&atilde;o foi distribu&iacute;do aproximadamente meia tonelada de alimentos org&acirc;nicos produzidos nos assentamentos do MST da regi&atilde;o.<br />
-2) Desocuparam a Anhanguera e partiram direto para o escrit&oacute;rio do Incra, tamb&eacute;m em Ribeir&atilde;o.<br />
-3) Trancamento da Rodovia C&acirc;ndido Portinari com cerca de 120 pessoas.</p>
+<p><strong>S&atilde;o Paulo (Promiss&atilde;o)</strong></p>
 
-<p>- Andradina:<br />
-Bloqueio da rodovia Marechal Rondon por cerca de 150 pessoas.</p>
+<p>Cerca de 300 pessoas ocuparam a Fazenda Santa Maria, do grupo Atalla, no munic&iacute;pio de Piraju. Eles tamb&eacute;m reivindicaram a protocola&ccedil;&atilde;o da &aacute;rea na Procuradoria da Fazenda Nacional com a inten&ccedil;&atilde;o que entre com a execu&ccedil;&atilde;o fiscal para in&iacute;cio do processo de adjudica&ccedil;&atilde;o. Tamb&eacute;m na regi&atilde;o 150 manifestantes ocuparam a Fazenda Torr&atilde;o de Ouro, em Alvinl&acirc;ndia</p>
 
-<p>- Sudoeste:<br />
-Aproximadamente 120 pessoas ocuparam as terras do Horto Florestal na regi&atilde;o Sudoeste do estado. &nbsp;A ocupa&ccedil;&atilde;o tamb&eacute;m reivindica a conclus&atilde;o do processo de sele&ccedil;&atilde;o e cria&ccedil;&atilde;o do assentamento da Fazenda Lageado, em Itaporanga. Cria&ccedil;&atilde;o do assentamento na fazenda Cacan, em Riversul. Al&eacute;m disso, a retomada das &nbsp;negocia&ccedil;&otilde;es com a Secretaria do Meio Ambiente para a cria&ccedil;&atilde;o do assentamento agroecol&oacute;gico Nova Esperan&ccedil;a.</p>
+<p>&nbsp;</p>
 
-<p>- Promiss&atilde;o:<br />
-1) Ocupa&ccedil;&atilde;o da Fazenda Santa Maria, do grupo Atalla, no munic&iacute;pio de Piraju&iacute;, com cerca de 300 pessoas. Reivindica&ccedil;&atilde;o tamb&eacute;m da protocola&ccedil;&atilde;o da &aacute;rea na Procuradoria da Fazenda Nacional com a inten&ccedil;&atilde;o que entre com a execu&ccedil;&atilde;o fiscal para in&iacute;cio do processo de adjudica&ccedil;&atilde;o.<br />
-2) Ocupa&ccedil;&atilde;o da Fazenda Torr&atilde;o de Ouro, em Alvinl&acirc;ndia. 150 pessoas na manifesta&ccedil;&atilde;o.</p>
+<p><strong>S&atilde;o Paulo (Iaras)</strong></p>
 
-<p>- Iaras:&nbsp;<br />
-1) Ocupa&ccedil;&atilde;o da ag&ecirc;ncia do Banco do Brasil, em Agudos, com cerca de ??? manifestantes. Al&eacute;m de todas as pautas da Jornada Unit&aacute;ria, os manifestantes denunciam a morosidade no atendimento &agrave;s fam&iacute;lias, a falta de preparo da ger&ecirc;ncia local para as pautas espec&iacute;ficas com os assentados e a paralisa&ccedil;&atilde;o na libera&ccedil;&atilde;o de cr&eacute;ditos e financiamentos.<br />
-2) Ocupa&ccedil;&atilde;o CPFL, com aproximadamente ??? pessoas, tamb&eacute;m no munic&iacute;pio de Agudos.</p>
+<p>Trabalhadores Sem Terra ocuparam a ag&ecirc;ncia do Banco do Brasil, em Agudos. Al&eacute;m de todas as pautas da Jornada Unit&aacute;ria, os manifestantes denunciaram a morosidade no atendimento &agrave;s fam&iacute;lias, a falta de preparo da ger&ecirc;ncia local para as pautas espec&iacute;ficas com os assentados e a paralisa&ccedil;&atilde;o na libera&ccedil;&atilde;o de cr&eacute;ditos e financiamentos Os trabalhadores tamb&eacute;m ocuparam a Companhia Paulista de For&ccedil;a e Luz (CPFL) no munic&iacute;pio.</p>
 
-<p>- Pontal:<br />
-1) Ocupa&ccedil;&atilde;o da ag&ecirc;ncia do Banco do Brasil.<br />
-2) Ocupa&ccedil;&atilde;o do escrit&oacute;rio do Instituto de Terras do Estado de S&atilde;o Paulo (Itesp).<br />
-3) Trancamento rodovia.</p>
+<p>&nbsp;</p>
 
-<p><br />
-Al&eacute;m do&nbsp;golpe de Estado, os trabalhadores denunciaram o bloqueio de pol&iacute;ticas p&uacute;blicas, a paralisa&ccedil;&atilde;o&nbsp;da Reforma Agr&aacute;ria e a retirada de direitos da classe trabalhadora. Recentemente&nbsp;o TCU, em uma a&ccedil;&atilde;o que supera suas atribui&ccedil;&otilde;es constitucionais, determinou a paralisa&ccedil;&atilde;o completa da Reforma Agr&aacute;ria, enquadrando atrav&eacute;s de uma metodologia question&aacute;vel, 578 mil benefici&aacute;rios das pol&iacute;ticas p&uacute;blicas no campo.&nbsp;<br />
-<br />
-&nbsp;</p>
+<p><strong>S&atilde;o Paulo (Pontal do Paranapanema)</strong></p>
+
+<p>Os trabalhadores ocuparam ag&ecirc;ncias do Banco do Brasil na regi&atilde;o, o escrit&oacute;rio do Instituto de Terras do Estado de S&atilde;o Paulo (Itesp) e tamb&eacute;m realizaram trancamento de rodovias.</p>
+
+<p>Al&eacute;m do golpe de Estado, os trabalhadores denunciaram o bloqueio de pol&iacute;ticas p&uacute;blicas, a paralisa&ccedil;&atilde;o da Reforma Agr&aacute;ria e a retirada de direitos da classe trabalhadora. Recentemente o TCU, em uma a&ccedil;&atilde;o que supera suas atribui&ccedil;&otilde;es constitucionais, determinou a paralisa&ccedil;&atilde;o completa da Reforma Agr&aacute;ria, enquadrando atrav&eacute;s de uma metodologia question&aacute;vel, 578 mil benefici&aacute;rios das pol&iacute;ticas p&uacute;blicas no campo.&nbsp;</p>
+
+<p>&nbsp;</p>
 
 <figure class="image"><img alt="WhatsApp Image 2016-09-05 at 10.09.32.jpeg" height="394" src="//farm9.staticflickr.com/8163/29481423685_bb79237007_b.jpg" width="700" />
 <figcaption><em>Em Jornada de Lutas Unit&aacute;ria, Sem Terra bloqueiam a&nbsp;rodovia Anhanguera</em></figcaption>
