@@ -114,16 +114,15 @@ files:
     small: //farm9.staticflickr.com/8617/29400351402_c1b175e99a_n.jpg
     title: 28875804394_09086b6ec6_b.jpg
     $$hashKey: 1R7
+  - link: //farm9.staticflickr.com/8064/28884282994_432500fb77_b.jpg
+    thumbnail: //farm9.staticflickr.com/8064/28884282994_432500fb77_t.jpg
+    medium: //farm9.staticflickr.com/8064/28884282994_432500fb77_z.jpg
+    small: //farm9.staticflickr.com/8064/28884282994_432500fb77_n.jpg
+    title: 28876979543_97d96514c8_b.jpg
+    $$hashKey: 0IO
 created_date: "2016-09-05T13:59:33-03:00"
 published: true
 releated_posts:
-  - _posts/2016/05/2016-05-15-nota-sobre-a-desocupacao-da-fazenda-de-michel-temer-em-duartina-sp.md
-  - _posts/2016/04/2016-04-14-ms-responde-a-declaracoes-desonestas-da-deputada-federal-tereza-cristina.md
-  - _posts/2016/04/2016-04-25-mst-realiza-marchas-em-defesa-da-reforma-agraria-e-da-democracia.md
-  - _posts/2016/05/2016-05-09-mst-ocupa-fazenda-ligada-a-temer-em-sao-paulo.md
-  - _posts/2016/05/2016-05-11-mst-bloqueia-rodovias-do-distrito-federal-em-defesa-da-democracia.md
-  - _posts/2016/04/2016-04-25-em-defesa-da-reforma-agraria-e-da-democracia-sem-terra-marcham-em-al.md
-  - _posts/2016/05/2016-05-12-editorial-impeachment-sem-crime-agrediu-democracia.md
   - _posts/2016/09/2016-09-05-mst-chega-a-capital-paranaense-contra-o-golpe-e-por-reforma-agraria.md
   - _posts/2016/09/2016-09-05-600-familias-sem-terra-ocupam-area-improdutiva-no-rio-grande-do-norte.md
   - _posts/2016/09/2016-09-05-mst-ocupa-incra-e-ministerio-da-fazenda-e-exige-retomada-da-reforma-agraria.md
@@ -131,6 +130,7 @@ releated_posts:
   - _posts/2016/09/2016-09-06-governo-alagoano-frustra-movimentos-e-remarca-audiencia-para-esta-terca-feira.md
   - _posts/2016/09/2016-09-06-para-o-tcu-os-assentados-estao-proibidos-de-melhorar-de-vida-diz-mst.md
   - _posts/2016/09/2016-09-06-movimentos-do-campo-realizam-manifestacao-no-incra-do-rj.md
+  - _posts/2016/05/2016-05-23-esse-golpe-nao-e-so-contra-o-mandato-de-dilma-mas-contra-a-classe-trabalhadora.md
 
 ---
 <p>&nbsp;</p>
@@ -182,8 +182,25 @@ Desde o per&iacute;odo da manh&atilde;, as fam&iacute;lias estavam concentradas 
 </figure>
 
 <p><br />
-<strong>Confira as a&ccedil;&otilde;es desta segunda-feira (05)</strong><br />
-&nbsp;</p>
+<strong>Alagoas</strong></p>
+
+<p class="p1"><br />
+<span class="s1">Para continuar a pressionar o governo e outros &oacute;rg&atilde;os, os movimentos que realizam Jornada de Lutas Unit&aacute;ria dos trabalhadores e Trabalhadoras e Povos do Campo, das &Aacute;guas e das Florestas realizaram uma nova marcha, na manh&atilde; desta ter&ccedil;a-feira, com paradas em pontos estrat&eacute;gicos. Entre eles est&aacute; o Tribunal de Justi&ccedil;a (TJ-AL), onde cobrar&aacute; celeridade na condena&ccedil;&atilde;o e pris&atilde;o dos mandantes de assassinatos de lideran&ccedil;as Sem Terra, como o caso de Jaelson Melqu&iacute;ades, morto em 2005 em Atalaia.</span></p>
+
+<p class="p1"><br />
+<span class="s1">Ainda nesta ter&ccedil;a, a coluna com cinco mil homens e mulheres trabalhadores rurais se deslocou&nbsp;at&eacute; o Incra, onde protocolaram pauta, para fazer a primeira negocia&ccedil;&atilde;o com o novo presidente, indicado pelo Governo Federal. Na pauta, demandas dos assentados e aquisi&ccedil;&atilde;o de terras para cria&ccedil;&atilde;o de novos assentamentos.</span></p>
+
+<p class="p1"><br />
+<span class="s1">As mobiliza&ccedil;&otilde;es continuam ainda nesta quarta-feira (07), quando em conjunto com os movimentos urbanos, ser&aacute; realizado mais uma edi&ccedil;&atilde;o do Grito dos Exclu&iacute;dos, desta vez com o grito de &ldquo;Fora Temer! E nenhum direito a menos!&rdquo;.</span></p>
+
+<p class="p1">&nbsp;</p>
+
+<figure class="image"><img alt="28876979543_97d96514c8_b.jpg" height="467" src="//farm9.staticflickr.com/8064/28884282994_432500fb77_b.jpg" width="700" />
+<figcaption><em>Camponeses e camponesas em marcha pela reforma agr&aacute;ria. Foto: &Eacute;sio Melo (CPT)</em></figcaption>
+</figure>
+
+<p><br />
+<strong>Confira as a&ccedil;&otilde;es desta segunda-feira (05)</strong></p>
 
 <figure class="image"><img alt="Brasília. Foto Bruno Pilon (2).jpeg" height="466" src="//farm9.staticflickr.com/8356/29399690501_0bd2dbe024_b.jpg" width="700" />
 <figcaption><em>As atividades da Jornada de Lutas Unit&aacute;ria est&atilde;o concentradas em Bras&iacute;lia, onde j&aacute; est&aacute; sendo montado um acampamento que durar&aacute; at&eacute; quarta-feira (07). Foto: Bruno Pilon</em></figcaption>
