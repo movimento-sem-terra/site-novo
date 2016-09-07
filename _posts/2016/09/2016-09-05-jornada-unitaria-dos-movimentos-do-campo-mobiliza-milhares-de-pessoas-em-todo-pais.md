@@ -243,18 +243,18 @@ Na madrugada desta ter&ccedil;a-feira (06), o MST ocupou a BR 101. A a&ccedil;&a
 As 600 fam&iacute;lias Sem Terra e Sem Teto sofreram press&atilde;o da PM que fez uma cobertura da a&eacute;rea com helic&oacute;pteros, intimidando os trabalhadores.</p>
 
 <p><br />
-Al&eacute;m disso, o Incra segue ocupado, pressionando pelo assentamento das fam&iacute;lias acampadas h&aacute; mais de dez anos.</p>
+Al&eacute;m disso, o Incra segue ocupado, pressionando pelo assentamento das fam&iacute;lias acampadas h&aacute; mais de dez anos.<br />
+&nbsp;</p>
 
-<p>&nbsp;</p>
-
-<figure class="image" style="float:left"><img alt="Unknown5.jpg" height="394" src="//farm9.staticflickr.com/8536/28888077143_5a1a3c7465_b.jpg" width="700" />
-<figcaption><em>BR 101 trancada em resist&ecirc;ncia ao despejo da Comuna urbana.</em></figcaption>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="Unknown5.jpg" height="394" src="//farm9.staticflickr.com/8536/28888077143_5a1a3c7465_b.jpg" width="700" />
+<figcaption><em>BR 101 trancada em resist&ecirc;ncia ao despejo da Comuna Urbana.</em></figcaption>
 </figure>
+</div>
 
 <p><br />
-<br />
-<br />
-<strong>Confira as a&ccedil;&otilde;es desta segunda-feira (05)</strong></p>
+<strong>Confira as a&ccedil;&otilde;es desta segunda-feira (05)</strong><br />
+&nbsp;</p>
 
 <figure class="image"><img alt="Brasília. Foto Bruno Pilon (2).jpeg" height="466" src="//farm9.staticflickr.com/8356/29399690501_0bd2dbe024_b.jpg" width="700" />
 <figcaption><em>As atividades da Jornada de Lutas Unit&aacute;ria est&atilde;o concentradas em Bras&iacute;lia, onde j&aacute; est&aacute; sendo montado um acampamento que durar&aacute; at&eacute; quarta-feira (07). Foto: Bruno Pilon</em></figcaption>
