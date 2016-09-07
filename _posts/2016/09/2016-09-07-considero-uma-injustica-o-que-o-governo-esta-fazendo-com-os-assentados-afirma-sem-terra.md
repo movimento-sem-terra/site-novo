@@ -4,7 +4,7 @@ tags:
   - tag: jornada-nacional-de-lutas
   - tag: maranhão
   - tag: ocupação-incra
-title: "“Considero uma injustiça o que o governo está fazendo com os assentados”, afirma Sem Terra"
+title: "“É uma injustiça o que o governo está fazendo com os assentados”, afirma Sem Terra"
 support_line: "Com a determinação do TCU, cerca de 30 mil famílias estão impedidas de realizar quaisquer atividade como assentado no Maranhão "
 menu: lutas e mobilizações
 images_hd: //farm9.staticflickr.com/8837/29402822972_e6c242ae46_b.jpg
