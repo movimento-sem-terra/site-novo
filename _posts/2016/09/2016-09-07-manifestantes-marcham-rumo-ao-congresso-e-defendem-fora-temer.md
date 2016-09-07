@@ -78,3 +78,6 @@ Ao final do ato em Bras&iacute;lia, foram registradas pela Secretaria de Seguran
 
 <p><br />
 O Brasil de Fato presenciou o momento em que a Pol&iacute;cia Militar efetuou a pris&atilde;o e agiu com g&aacute;s de pimenta contra os manifestantes, atingindo inclusive jornalistas. As circunst&acirc;ncias da ocorr&ecirc;ncia ainda n&atilde;o foram devidamente esclarecidas.</p>
+
+<p><br />
+<em><span style="line-height: 20.8px;">​*Edi&ccedil;&atilde;o Simone Freire&nbsp;</span></em></p>
