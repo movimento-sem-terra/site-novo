@@ -120,6 +120,18 @@ files:
     small: //farm9.staticflickr.com/8064/28884282994_432500fb77_n.jpg
     title: 28876979543_97d96514c8_b.jpg
     $$hashKey: 0IO
+  - link: //farm9.staticflickr.com/8472/28888052923_1c8f8f4501_b.jpg
+    thumbnail: //farm9.staticflickr.com/8472/28888052923_1c8f8f4501_t.jpg
+    medium: //farm9.staticflickr.com/8472/28888052923_1c8f8f4501_z.jpg
+    small: //farm9.staticflickr.com/8472/28888052923_1c8f8f4501_n.jpg
+    title: Unknown3.jpg
+    $$hashKey: 0CV
+  - link: //farm9.staticflickr.com/8536/28888077143_5a1a3c7465_b.jpg
+    thumbnail: //farm9.staticflickr.com/8536/28888077143_5a1a3c7465_t.jpg
+    medium: //farm9.staticflickr.com/8536/28888077143_5a1a3c7465_z.jpg
+    small: //farm9.staticflickr.com/8536/28888077143_5a1a3c7465_n.jpg
+    title: Unknown5.jpg
+    $$hashKey: 0CY
 created_date: "2016-09-05T13:59:33-03:00"
 published: true
 releated_posts:
@@ -200,6 +212,48 @@ Desde o per&iacute;odo da manh&atilde;, as fam&iacute;lias estavam concentradas 
 </figure>
 
 <p><br />
+<strong>Bras&iacute;lia</strong></p>
+
+<p><br />
+Os movimentos populares seguem firmes na luta pela democracia e contra o golpe. Na tarde desta ter&ccedil;a-feira (06), houve uma manifesta&ccedil;&atilde;o em frente ao Pal&aacute;cio da Alvorada denunciando o golpe e exigindo a volta da democracia para o pa&iacute;s.</p>
+
+<p><br />
+Em Defesa das pol&iacute;ticas de habita&ccedil;&atilde;o para o campo, as camponesas e camponeses tamb&eacute;m marcharam at&eacute; o minist&eacute;rio das cidades com a pauta da retomada imediata das pol&iacute;ticas p&uacute;blicas de habita&ccedil;&atilde;o para o campo, fundamentais para superar o d&eacute;ficit habitacional que atinge milhares de fam&iacute;lias em todo o pa&iacute;s.</p>
+
+<p><br />
+Os trabalhadores exigem a retomada imediata da &quot;faixa 1&quot; do Minha casa minha vida, que foi extinta pelo governo temer.</p>
+
+<p><br />
+Nesta quarta-feira (7), o acampamento organizado pelos movimentos sociais do campo participar&aacute; do 22&ordm; Grito dos Exclu&iacute;dos. A concentra&ccedil;&atilde;o para o ato ser&aacute; &agrave;s 8h30, no Museu da Rep&uacute;blica. A passeata deve percorrer a Esplanada dos Minist&eacute;rios.&nbsp;<br />
+&nbsp;</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="Unknown3.jpg" height="466" src="//farm9.staticflickr.com/8472/28888052923_1c8f8f4501_b.jpg" width="700" />
+<figcaption><em>Camponeses e camponesas marcham rumo ao Minist&eacute;rio das Cidades. Foto: Bruno Pilon</em></figcaption>
+</figure>
+</div>
+
+<p><br />
+<strong>Rio Grande do Norte</strong></p>
+
+<p><br />
+Na madrugada desta ter&ccedil;a-feira (06), o MST ocupou a BR 101. A a&ccedil;&atilde;o realizada como uma forma de resist&ecirc;ncia &agrave; liminar de reintegra&ccedil;&atilde;o de posse da Comuna Urbana na propriedade improdutiva do governador Robinson Farias (PSD), alvo da especula&ccedil;&atilde;o imobili&aacute;ria no estado.</p>
+
+<p><br />
+As 600 fam&iacute;lias Sem Terra e Sem Teto sofreram press&atilde;o da PM que fez uma cobertura da a&eacute;rea com helic&oacute;pteros, intimidando os trabalhadores.</p>
+
+<p><br />
+Al&eacute;m disso, o Incra segue ocupado, pressionando pelo assentamento das fam&iacute;lias acampadas h&aacute; mais de dez anos.</p>
+
+<p>&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="Unknown5.jpg" height="394" src="//farm9.staticflickr.com/8536/28888077143_5a1a3c7465_b.jpg" width="700" />
+<figcaption><em>BR 101 trancada em resist&ecirc;ncia ao despejo da Comuna urbana.</em></figcaption>
+</figure>
+
+<p><br />
+<br />
+<br />
 <strong>Confira as a&ccedil;&otilde;es desta segunda-feira (05)</strong></p>
 
 <figure class="image"><img alt="Brasília. Foto Bruno Pilon (2).jpeg" height="466" src="//farm9.staticflickr.com/8356/29399690501_0bd2dbe024_b.jpg" width="700" />
