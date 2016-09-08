@@ -5,7 +5,7 @@ tags:
   - tag: minas-gerais
   - tag: jornada-nacional-de-lutas
   - tag: contra-o-golpe
-title: MST ocupa Incra em Minas Gerais
+title: Sem terra ocupa Incra em Minas Gerais
 support_line: A mobilização unitária denuncia o esvaziamento da pauta da reforma agrária diante do avanço do agronegócio
 menu: lutas e mobilizações
 images_hd: //farm9.staticflickr.com/8009/29543055785_cb44520594_b.jpg
