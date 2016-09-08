@@ -30,13 +30,13 @@ releated_posts:
 <p><em>Da P&aacute;gina do MST </em></p>
 
 <p><br />
-A fazenda Saco de Bom Jesus, de propriedade da senadora Ana Am&eacute;lia (PP), foi declarada improdutiva. A senadora tamb&eacute;m declarou parcialmente o patrim&ocirc;nio ao TRE</p>
+A fazenda Saco de Bom Jesus, de propriedade da senadora Ana Am&eacute;lia (PP), foi declarada improdutiva. A senadora tamb&eacute;m declarou parcialmente o patrim&ocirc;nio ao TRE.</p>
 
 <p><br />
 O MST ocupou na madrugada desta quinta-feira (06) a fazenda Saco de Bom Jesus, localizada no munic&iacute;pio de Formosa, interior de Goi&aacute;s. A fazenda &eacute; ligada a ligada &agrave; senadora Ana Am&eacute;lia Lemos (PP).</p>
 
 <p><br />
-O objetivo da ocupa&ccedil;&atilde;o &eacute; denunciar a exist&ecirc;ncia de espa&ccedil;os improdutivos, ao mesmo tempo em que &eacute; negado &agrave; milhares de fam&iacute;lias um espa&ccedil;o de terra. Em Goi&aacute;s, a estimativa &eacute; que cerca de 5 a 08 mil fam&iacute;lias estejam acampadas por todo o estado, &agrave; espera da terra.</p>
+O objetivo da ocupa&ccedil;&atilde;o &eacute; denunciar a exist&ecirc;ncia de espa&ccedil;os improdutivos, ao mesmo tempo em que &eacute; negado &agrave; milhares de fam&iacute;lias um espa&ccedil;o de terra. <span data-offset-key="8o02a-0-0"><span data-text="true">A estimativa &eacute; que em Goi&aacute;s, tenha cerca de 5 a 08 mil fam&iacute;lias acampadas &agrave; espera da terra.</span></span></p>
 
 <p><br />
 A a&ccedil;&atilde;o segue o conjunto de mobiliza&ccedil;&otilde;es realizadas pelo pa&iacute;s pela Jornada de Lutas Unit&aacute;ria dos Trabalhadores e Trabalhadoras e Povos do Campo, das Aguas e das Florestas.</p>
