@@ -34,9 +34,6 @@ releated_posts:
 De Olho nos Ruralistas</em></p>
 
 <p><br />
-Por In&ecirc;s Castilho</p>
-
-<p><br />
 Um truck branco delicadamente pintado em verde numa tarde de s&aacute;bado num parque, em S&atilde;o Paulo. Flores, ervas e folhagens em vasinhos coloridos, com t&eacute;cnicos de branco e verde explicando como plantar, fazer muda, compostar. Tudo de gra&ccedil;a para a popula&ccedil;&atilde;o. O projeto Plantaria, da Monsanto, quer &ldquo;deixar a capital mais verde&rdquo;. Em S&atilde;o Paulo desde o inicio de agosto, j&aacute; passou por v&aacute;rios lugares e, at&eacute; 7 de setembro, faz ponto no Parque da &Aacute;gua Branca, um dos ber&ccedil;os da agroecologia na cidade, com sua tradicional feira de produtores org&acirc;nicos.</p>
 
 <p><br />
