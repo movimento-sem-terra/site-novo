@@ -5,7 +5,7 @@ tags:
   - tag: agronegócio
   - tag: monsanto
 title: Monsanto tenta lavar imagem doando plantas em reduto paulista da agroecologia
-support_line: "Empresa será julgada num tribunal internacional na Holanda, em outubro, mas tenta lavar imagem doando plantas em reduto da agroecologia em São Paulo"
+support_line: "Empresa será julgada num tribunal internacional na Holanda, em outubro, que vai julgar as acusações e avaliar os danos causados por ela em todo o mundo"
 menu: agronegócio
 images_hd: //farm9.staticflickr.com/8303/29432399942_ae6732b058_b.jpg
 layout: post
