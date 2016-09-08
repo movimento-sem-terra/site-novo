@@ -108,3 +108,6 @@ Para Evanildo Costa, da dire&ccedil;&atilde;o nacional do MST, diante do cen&aac
 
 <p><br />
 &ldquo;Nosso movimento est&aacute; de &lsquo;luto&rsquo; pela democracia brasileira, conquistada a duras penas pelos trabalhadores e trabalhadoras do campo e da cidade. Este luto se converte em for&ccedil;a popular e em rebeldia para denunciarmos com nossas ferramentas trabalho toda explora&ccedil;&atilde;o que os trabalhadores v&ecirc;m sofrendo neste pa&iacute;s. N&atilde;o nos calaremos diante de um Governo Golpista e &agrave;s ruas, mais do que nunca, ser&aacute; nosso espa&ccedil;o de mobiliza&ccedil;&atilde;o&rdquo;, concluiu Costa.</p>
+
+<p><br />
+<em>*Editado por Iris Pacheco</em></p>
