@@ -23,6 +23,7 @@ releated_posts:
   - _posts/2016/09/2016-09-05-jornada-unitaria-dos-movimentos-do-campo-mobiliza-milhares-de-pessoas-em-todo-pais.md
   - _posts/2016/09/2016-09-06-governo-alagoano-frustra-movimentos-e-remarca-audiencia-para-esta-terca-feira.md
   - _posts/2016/09/2016-09-05-sem-terra-ocupa-incra-no-pernambuco-e-permanecem-mobilizados.md
+section: featured-news
 
 ---
 <p>&nbsp;</p>
