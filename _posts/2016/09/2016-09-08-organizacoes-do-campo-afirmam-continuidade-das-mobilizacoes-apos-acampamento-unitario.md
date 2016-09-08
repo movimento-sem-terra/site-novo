@@ -59,7 +59,7 @@ Com a participa&ccedil;&atilde;o no 22&deg; Grito dos Exclu&iacute;dos, a Jornad
 <p><br />
 De acordo com Alessandra Lunas, da Confedera&ccedil;&atilde;o Nacional dos Trabalhadores na Agricultura (CONTAG), a jornada de lutas foi o in&iacute;cio das lutas que ainda est&atilde;o por vir. &ldquo;Inauguramos este acampamento, mostrando ao governo golpista a nossa unidade e nossa capacidade de luta permanente, o recado j&aacute; est&aacute; dado agora ele sabe o que vai enfrentar&quot;, conclu&iacute;.</p>
 
-<figure class="image" style="float:left"><img alt="Brasília Foto Bruno Pilon (2).jpg" height="300" src="//farm9.staticflickr.com/8113/29547353415_f5f91a6777_b.jpg" width="450" />
+<figure class="image" style="float:left"><img alt="Brasília Foto Bruno Pilon (2).jpg" height="266" src="//farm9.staticflickr.com/8113/29547353415_f5f91a6777_b.jpg" width="400" />
 <figcaption><em>Camponeses marcham em Bras&iacute;lia rumo ao Minist&eacute;rio das cidades.<br />
 Foto: Bruno Pilon</em></figcaption>
 </figure>
@@ -86,6 +86,9 @@ As organiza&ccedil;&otilde;es ainda denunciam a amea&ccedil;a aos direitos previ
 <p>&nbsp;</p>
 
 <p style="text-align:center"><img alt="infografico_final-01.png" height="933" src="//farm9.staticflickr.com/8137/28922449564_759b538a0d_b.jpg" width="700" /></p>
+
+<p><br />
+<strong>Mobiliza&ccedil;&atilde;o permanente </strong></p>
 
 <p><br />
 Ap&oacute;s o acampamento unit&aacute;rio em Bras&iacute;lia, muitos estados seguem mobilizados em todo pa&iacute;s. Segundo Kelli Mafort, da dire&ccedil;&atilde;o nacional do MST, a pauta central das reivindica&ccedil;&otilde;es continua sendo o assentamento das 120 mil fam&iacute;lias acampadas em todo o pa&iacute;s.</p>
