@@ -24,9 +24,13 @@ releated_posts:
   - _posts/2016/09/2016-09-07-considero-uma-injustica-o-que-o-governo-esta-fazendo-com-os-assentados-afirma-sem-terra.md
 
 ---
-<p>&nbsp;</p>
+<p><br />
+&nbsp;</p>
 
-<p><em>Da P&aacute;gina do MST</em></p>
+<p style="text-align:center"><img alt="Minas Gerais.jpg" height="467" src="//farm9.staticflickr.com/8009/29543055785_cb44520594_b.jpg" width="700" /></p>
+
+<p><br />
+<em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
 O MST ocupou o Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra) na manh&atilde; desta quinta-feira (08). A mobiliza&ccedil;&atilde;o conta com 300 fam&iacute;lias e integra a Jornada de Lutas Unit&aacute;ria dos Trabalhadores e Trabalhadoras e Povos do Campo, das &Aacute;guas e das Florestas.&nbsp;</p>
