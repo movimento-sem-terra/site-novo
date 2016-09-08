@@ -45,7 +45,7 @@ A a&ccedil;&atilde;o segue o conjunto de mobiliza&ccedil;&otilde;es realizadas p
 Em Bras&iacute;li, 2000 integrantes de movimentos campesinos, reunidos nos dias 05 a 07 de setembro, ocuparam o Minist&eacute;rio do Planejamento e apresentaram &agrave; Casa Civil, Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra) e Minist&eacute;rios das Cidades e Desenvolvimento Social um conjunto de pautas de reivindica&ccedil;&otilde;es para retomada das pol&iacute;ticas agr&aacute;rias, paralisadas com as medidas adotadas pelo governo interino de Michel Temer (PMDB), e para defesa de uma reforma agr&aacute;ria de car&aacute;ter popular.</p>
 
 <p><br />
-O membro da coordena&ccedil;&atilde;o nacional, Marco Ant&ocirc;nio Baratto comenta sobre as mobiliza&ccedil;&otilde;es de reinvindica&ccedil;&atilde;o. &ldquo;Tensionar o governo central para iniciar um negociar um processo de negocia&ccedil;&atilde;o em torno da reforma agr&aacute;ria, agricultura familiar e camponesa&rdquo;, aponta.</p>
+O membro da coordena&ccedil;&atilde;o nacional, Marco Ant&ocirc;nio Baratto comenta sobre as mobiliza&ccedil;&otilde;es de reivindica&ccedil;&atilde;o. &ldquo;Tensionar o governo central para iniciar um negociar um processo de negocia&ccedil;&atilde;o em torno da reforma agr&aacute;ria, agricultura familiar e camponesa&rdquo;, aponta.</p>
 
 <p><br />
 <strong>Terra improdutiva e n&atilde;o declarada</strong></p>
