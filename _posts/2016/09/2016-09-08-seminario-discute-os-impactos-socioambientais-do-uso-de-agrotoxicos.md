@@ -18,7 +18,11 @@ files:
     $$hashKey: 0CW
 created_date: "2016-09-08T09:26:07-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2016/05/2016-05-05-agrotoxicos-mais-um-projeto-polemico-na-camara.md
+  - _posts/2016/05/2016-05-06-mortandade-de-abelhas-mp-diz-que-encaminhara-providencias-junto-ao-governo-do-estado-do-rs.md
+  - _posts/2016/05/2016-05-12-seminario-debate-riscos-da-utilizacao-de-agrotoxicos-no-ceara.md
+  - _posts/2016/06/2016-06-02-pl-que-substitui-lei-dos-agrotoxicos-representa-retrocesso-dizem-pesquisadores.md
 
 ---
 <p>&nbsp;<br />
