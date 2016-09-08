@@ -6,16 +6,16 @@ tags:
   - tag: brasil
 title: CTNBio quer enfiar transgênicos não avaliados pela nossa goela abaixo
 support_line: Governo golpista faz manobras para liberação de milho transgênico sem aprovação no Brasil
-images_hd: //farm9.staticflickr.com/8702/29461860241_f98e5cd3b2_b.jpg
+images_hd: //farm9.staticflickr.com/8030/28918572664_3c8aa54d08_b.jpg
 menu: transgênicos
 layout: post
 files:
-  - link: //farm9.staticflickr.com/8702/29461860241_f98e5cd3b2_b.jpg
-    thumbnail: //farm9.staticflickr.com/8702/29461860241_f98e5cd3b2_t.jpg
-    medium: //farm9.staticflickr.com/8702/29461860241_f98e5cd3b2_z.jpg
-    small: //farm9.staticflickr.com/8702/29461860241_f98e5cd3b2_n.jpg
-    title: transgenicos_simbolo.jpg
-    $$hashKey: 03D
+  - link: //farm9.staticflickr.com/8030/28918572664_3c8aa54d08_b.jpg
+    thumbnail: //farm9.staticflickr.com/8030/28918572664_3c8aa54d08_t.jpg
+    medium: //farm9.staticflickr.com/8030/28918572664_3c8aa54d08_z.jpg
+    small: //farm9.staticflickr.com/8030/28918572664_3c8aa54d08_n.jpg
+    title: 29461860241_f98e5cd3b2_b.jpg
+    $$hashKey: 1MO
 created_date: "2016-09-08T11:14:34-03:00"
 published: true
 releated_posts:
