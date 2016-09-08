@@ -23,7 +23,7 @@ releated_posts:
   - _posts/2016/05/2016-05-16-mst-monta-acampamento-no-coracao-do-latifundio-gaucho.md
   - _posts/2016/08/2016-08-09-em-nota-mst-se-pronuncia-sobre-a-suspensao-do-despejo-de-ocupacao-em-goias.md
   - _posts/2016/09/2016-09-05-organizacoes-do-campo-ocupam-ministerio-do-planejamento-durante-jornada-unitaria.md
-section: cover
+section: featured-news
 
 ---
 <p>&nbsp;</p>
