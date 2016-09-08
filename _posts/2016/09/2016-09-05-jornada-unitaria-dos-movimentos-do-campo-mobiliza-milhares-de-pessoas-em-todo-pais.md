@@ -8,7 +8,7 @@ tags:
 title: "Jornada Unitária do campo segue mobilizando milhares de pessoas em todo país \n"
 support_line: "Em seu segundo dia, 13 estados são mobilizados em defesa da reforma agrária e contra o golpe "
 menu: lutas e mobilizações
-section: cover
+section: featured-news
 images_hd: //farm9.staticflickr.com/8356/29399690501_0bd2dbe024_b.jpg
 layout: post
 files:
