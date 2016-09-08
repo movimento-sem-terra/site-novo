@@ -20,6 +20,7 @@ created_date: "2016-09-07T20:22:44-03:00"
 published: true
 releated_posts:
   - _posts/2016/09/2016-09-05-protesto-contra-temer-reune-mais-de-cem-mil-na-paulista.md
+section: featured-news
 
 ---
 <p>&nbsp;</p>
