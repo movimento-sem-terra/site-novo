@@ -24,12 +24,12 @@ files:
     small: //farm9.staticflickr.com/8836/29257533010_3b89fa08e0_n.jpg
     title: Brasília Foto Bruno Pilon.jpg
     $$hashKey: 0BH
-  - link: //farm9.staticflickr.com/8137/28922449564_759b538a0d_b.jpg
-    thumbnail: //farm9.staticflickr.com/8137/28922449564_759b538a0d_t.jpg
-    medium: //farm9.staticflickr.com/8137/28922449564_759b538a0d_z.jpg
-    small: //farm9.staticflickr.com/8137/28922449564_759b538a0d_n.jpg
-    title: infografico_final-01.png
-    $$hashKey: 0BQ
+  - link: //farm9.staticflickr.com/8196/29468202041_b42d4177b7_b.jpg
+    thumbnail: //farm9.staticflickr.com/8196/29468202041_b42d4177b7_t.jpg
+    medium: //farm9.staticflickr.com/8196/29468202041_b42d4177b7_z.jpg
+    small: //farm9.staticflickr.com/8196/29468202041_b42d4177b7_n.jpg
+    title: INFOGRAFICO_FINALFINAL-01.png
+    $$hashKey: 0BG
 created_date: "2016-09-08T16:12:02-03:00"
 published: true
 releated_posts:
@@ -81,11 +81,10 @@ Outro ponto trata do desenvolvimento e infraestrutura no campo, como o fortaleci
 As organiza&ccedil;&otilde;es ainda denunciam a amea&ccedil;a aos direitos previdenci&aacute;rios e trabalhistas, a criminaliza&ccedil;&atilde;o dos movimentos populares e, principalmente, o golpe &agrave; democracia ap&oacute;s a viola&ccedil;&atilde;o da Constitui&ccedil;&atilde;o brasileira pelo Congresso Nacional e pela elite econ&ocirc;mica e pol&iacute;tica do pa&iacute;s que levou Michel Temer &agrave; Presid&ecirc;ncia da Rep&uacute;blica.</p>
 
 <p><br />
-<strong>Vejam o panorama das a&ccedil;&otilde;es em todo o Brasil</strong></p>
+<strong>Vejam o panorama das a&ccedil;&otilde;es em todo o Brasil</strong><br />
+&nbsp;</p>
 
-<p>&nbsp;</p>
-
-<p style="text-align:center"><img alt="infografico_final-01.png" height="667" src="//farm9.staticflickr.com/8137/28922449564_759b538a0d_b.jpg" width="500" /></p>
+<p style="text-align:center"><img alt="INFOGRAFICO_FINALFINAL-01.png" height="600" src="//farm9.staticflickr.com/8196/29468202041_b42d4177b7_b.jpg" width="450" /></p>
 
 <p><br />
 <strong>Mobiliza&ccedil;&atilde;o permanente </strong></p>
