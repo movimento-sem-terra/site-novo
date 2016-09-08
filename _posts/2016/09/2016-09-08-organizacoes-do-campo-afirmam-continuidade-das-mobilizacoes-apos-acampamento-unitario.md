@@ -94,7 +94,7 @@ Ap&oacute;s o acampamento unit&aacute;rio em Bras&iacute;lia, muitos estados seg
 Mafort tamb&eacute;m frisa outra pauta de luta que &eacute; o acesso &agrave; infraestrutura nos assentamentos j&aacute; existentes.</p>
 
 <p><br />
-&ldquo;Nossas fam&iacute;lias est&atilde;o abandonadas, sem infraestrutura. O Plano Plurianual (PPA) est&aacute; completamente parado. H&aacute;, ainda, a a&ccedil;&atilde;o civil p&uacute;blica, que quer deslegitimar a luta das fam&iacute;lias acampadas. Al&eacute;m disso, o governo golpista de Michel Temer imp&otilde;e a agenda de retirada de direitos dos povos do campo. Quando sa&iacute;mos &agrave;s ruas, debaixo de bombas de g&aacute;s e repress&atilde;o policial, estamos lutando por nossos direitos e resistindo contra essa ditadura imposta por esse governo golpista&quot;, afirma Kelli.</p>
+&ldquo;Nossas fam&iacute;lias est&atilde;o abandonadas, sem infraestrutura. O Plano Plurianual (PPA) est&aacute; completamente parado. H&aacute; ainda, a a&ccedil;&atilde;o civil p&uacute;blica que quer deslegitimar a luta das fam&iacute;lias acampadas. Al&eacute;m disso, o governo golpista de Michel Temer imp&otilde;e a agenda de retirada de direitos dos povos do campo. Quando sa&iacute;mos &agrave;s ruas, debaixo de bombas de g&aacute;s e repress&atilde;o policial, estamos lutando por nossos direitos e resistindo contra essa ditadura imposta por esse governo golpista&quot;, afirma Kelli.</p>
 
 <p><br />
 Bahia, Rio Grande do Norte, Alagoas, S&atilde;o Paulo e Minas Gerais seguem em ocupa&ccedil;&otilde;es no Incra. J&aacute; no Cear&aacute;, trabalhadores ocuparam na manh&atilde; dessa quinta-feira (8) a Prefeitura de Limoeiro do Norte, em Pernambuco tamb&eacute;m foram realizados trancamento de rodovias no estado.</p>
