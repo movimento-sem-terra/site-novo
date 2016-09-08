@@ -8,15 +8,39 @@ tags:
 title: MST ocupa fazenda improdutiva ligada à senadora Ana Amélia em Formosa
 support_line: "O objetivo da ocupação é denunciar a existência de espaços improdutivos, ao mesmo tempo em que é negado à milhares de famílias um espaço de terra"
 menu: lutas e mobilizações
-images_hd: //farm9.staticflickr.com/8376/29507074046_d03719f8d1_b.jpg
+images_hd: //farm9.staticflickr.com/8187/29439155382_ab06aea187_b.jpg
 layout: post
 files:
-  - link: //farm9.staticflickr.com/8376/29507074046_d03719f8d1_b.jpg
-    thumbnail: //farm9.staticflickr.com/8376/29507074046_d03719f8d1_t.jpg
-    medium: //farm9.staticflickr.com/8376/29507074046_d03719f8d1_z.jpg
-    small: //farm9.staticflickr.com/8376/29507074046_d03719f8d1_n.jpg
-    title: koinonia.fw2_folder-009.jpg
-    $$hashKey: 0T3
+  - link: //farm9.staticflickr.com/8243/29548521815_06a70cb937_b.jpg
+    thumbnail: //farm9.staticflickr.com/8243/29548521815_06a70cb937_t.jpg
+    medium: //farm9.staticflickr.com/8243/29548521815_06a70cb937_z.jpg
+    small: //farm9.staticflickr.com/8243/29548521815_06a70cb937_n.jpg
+    title: Goiás Foto Janelson Ferreira (2).jpg
+    $$hashKey: 0H4
+  - link: //farm9.staticflickr.com/8187/29439155382_ab06aea187_b.jpg
+    thumbnail: //farm9.staticflickr.com/8187/29439155382_ab06aea187_t.jpg
+    medium: //farm9.staticflickr.com/8187/29439155382_ab06aea187_z.jpg
+    small: //farm9.staticflickr.com/8187/29439155382_ab06aea187_n.jpg
+    title: Goiás Foto Janelson Ferreira (4).jpg
+    $$hashKey: 0H7
+  - link: //farm9.staticflickr.com/8061/28925650573_403c646fa9_b.jpg
+    thumbnail: //farm9.staticflickr.com/8061/28925650573_403c646fa9_t.jpg
+    medium: //farm9.staticflickr.com/8061/28925650573_403c646fa9_z.jpg
+    small: //farm9.staticflickr.com/8061/28925650573_403c646fa9_n.jpg
+    title: Goiás Foto Janelson Ferreira (3).jpg
+    $$hashKey: 0HA
+  - link: //farm9.staticflickr.com/8044/28925650583_8462d93ffd_b.jpg
+    thumbnail: //farm9.staticflickr.com/8044/28925650583_8462d93ffd_t.jpg
+    medium: //farm9.staticflickr.com/8044/28925650583_8462d93ffd_z.jpg
+    small: //farm9.staticflickr.com/8044/28925650583_8462d93ffd_n.jpg
+    title: Goiás Foto Janelson Ferreira (1).jpg
+    $$hashKey: 0HD
+  - link: //farm9.staticflickr.com/8432/29258721250_3aa0bf4e72_b.jpg
+    thumbnail: //farm9.staticflickr.com/8432/29258721250_3aa0bf4e72_t.jpg
+    medium: //farm9.staticflickr.com/8432/29258721250_3aa0bf4e72_z.jpg
+    small: //farm9.staticflickr.com/8432/29258721250_3aa0bf4e72_n.jpg
+    title: Goiás Foto Janelson Ferreira (5).jpg
+    $$hashKey: 0HG
 created_date: "2016-09-08T10:25:35-03:00"
 published: true
 releated_posts:
@@ -28,7 +52,10 @@ section: featured-news
 ---
 <p>&nbsp;</p>
 
-<p><em>Da P&aacute;gina do MST </em></p>
+<p style="text-align:center"><img alt="Goiás Foto Janelson Ferreira (4).jpg" height="466" src="//farm9.staticflickr.com/8187/29439155382_ab06aea187_b.jpg" width="700" /></p>
+
+<p><br />
+<em>Da P&aacute;gina do MST </em></p>
 
 <p><br />
 A fazenda Saco de Bom Jesus, de propriedade da senadora Ana Am&eacute;lia (PP), foi declarada improdutiva. A senadora tamb&eacute;m declarou parcialmente o patrim&ocirc;nio ao TRE.</p>
@@ -37,7 +64,10 @@ A fazenda Saco de Bom Jesus, de propriedade da senadora Ana Am&eacute;lia (PP), 
 O MST ocupou na madrugada desta quinta-feira (06) a fazenda Saco de Bom Jesus, localizada no munic&iacute;pio de Formosa, interior de Goi&aacute;s. A fazenda &eacute; ligada a ligada &agrave; senadora Ana Am&eacute;lia Lemos (PP).</p>
 
 <p><br />
-O objetivo da ocupa&ccedil;&atilde;o &eacute; denunciar a exist&ecirc;ncia de espa&ccedil;os improdutivos, ao mesmo tempo em que &eacute; negado &agrave; milhares de fam&iacute;lias um espa&ccedil;o de terra. <span data-offset-key="8o02a-0-0"><span data-text="true">A estimativa &eacute; que em Goi&aacute;s, tenha cerca de 5 a 08 mil fam&iacute;lias acampadas &agrave; espera da terra.</span></span></p>
+Apenas algumas horas ap&oacute;s a ocupa&ccedil;&atilde;o, a tropa de choque da PM de Goi&aacute;s, realiza despejo arbitr&aacute;rio mesmo n&atilde;o havendo nenhuma ordem judicial. Os policiais agiram de forma truculenta contra os Sem Terras, afirmando que &quot;n&atilde;o precisavam de pedido de reintegra&ccedil;&atilde;o&quot;.</p>
+
+<p><br />
+O objetivo da a&ccedil;&atilde;o &eacute; denunciar a exist&ecirc;ncia de espa&ccedil;os improdutivos, ao mesmo tempo em que &eacute; negado &agrave; milhares de fam&iacute;lias um espa&ccedil;o de terra. <span data-offset-key="8o02a-0-0"><span data-text="true">A estimativa &eacute; que em Goi&aacute;s, tenha cerca de 5 a 08 mil fam&iacute;lias acampadas &agrave; espera da terra.</span></span></p>
 
 <p><br />
 A a&ccedil;&atilde;o segue o conjunto de mobiliza&ccedil;&otilde;es realizadas pelo pa&iacute;s pela Jornada de Lutas Unit&aacute;ria dos Trabalhadores e Trabalhadoras e Povos do Campo, das Aguas e das Florestas.</p>
@@ -48,7 +78,7 @@ Em Bras&iacute;lia, 2000 integrantes de movimentos campesinos, reunidos nos dias
 <p><br />
 O membro da coordena&ccedil;&atilde;o nacional, Marco Ant&ocirc;nio Baratto comenta sobre as mobiliza&ccedil;&otilde;es de reivindica&ccedil;&atilde;o. &ldquo;Tensionar o governo &eacute; central para iniciar um processo de negocia&ccedil;&atilde;o em torno da reforma agr&aacute;ria, agricultura familiar e camponesa&rdquo;, aponta.</p>
 
-<p><br />
+<p><img alt="Goiás Foto Janelson Ferreira (2).jpg" height="300" src="//farm9.staticflickr.com/8243/29548521815_06a70cb937_b.jpg" style="float:left" width="450" /><br />
 <strong>Terra improdutiva e n&atilde;o declarada</strong></p>
 
 <p><br />
@@ -60,7 +90,7 @@ As informa&ccedil;&otilde;es sobre a fazenda tamb&eacute;m apontam v&aacute;rias
 <p><br />
 Pela legisla&ccedil;&atilde;o vigente, as entidades signat&aacute;rias entendem que a lota&ccedil;&atilde;o de gado n&atilde;o atende aos &iacute;ndices de produtividade do estado de Goi&aacute;s. Seiscentas cabe&ccedil;as em 1909 hectares resultariam numa lota&ccedil;&atilde;o de 0,31 cabe&ccedil;a por hectare. Segundo os movimentos sociais, &iacute;ndice muito baixo para quem diz representar o &ldquo;moderno modelo do agroneg&oacute;cio. Conforme o artigo 184 da Constitui&ccedil;&atilde;o Federal Brasileira de 1988, a fazenda que n&atilde;o cumpre a fun&ccedil;&atilde;o social deve ser declarada de interesse social e destinada para fins de Reforma Agr&aacute;ria.</p>
 
-<p><br />
+<p><img alt="Goiás Foto Janelson Ferreira (3).jpg" height="225" src="//farm9.staticflickr.com/8061/28925650573_403c646fa9_b.jpg" style="float:right" width="400" /><br />
 <strong>Pedido de vistoria ao Incra</strong></p>
 
 <p><br />
