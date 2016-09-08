@@ -4,7 +4,7 @@ tags:
   - tag: democratização-da-comunicação
   - tag: intervozes
   - tag: grito-dos-excluídos-2016
-title: "Grito dos Excluídos: Desmentir e transformar a mídia, porque comunicação é direito e direito se conquista"
+title: "Desmentir e transformar a mídia, porque comunicação é direito e direito se conquista"
 support_line: "Diante desse cenário, é preciso afirmar a comunicação como um direito humano fundamental"
 menu: direitos humanos
 images_hd: //farm9.staticflickr.com/8441/28923909463_51b395204d_b.jpg
