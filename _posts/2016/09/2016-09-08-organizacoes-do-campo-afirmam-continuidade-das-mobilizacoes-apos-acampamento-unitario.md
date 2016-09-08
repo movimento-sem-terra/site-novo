@@ -85,7 +85,7 @@ As organiza&ccedil;&otilde;es ainda denunciam a amea&ccedil;a aos direitos previ
 
 <p>&nbsp;</p>
 
-<p style="text-align:center"><img alt="infografico_final-01.png" height="933" src="//farm9.staticflickr.com/8137/28922449564_759b538a0d_b.jpg" width="700" /></p>
+<p style="text-align:center"><img alt="infografico_final-01.png" height="667" src="//farm9.staticflickr.com/8137/28922449564_759b538a0d_b.jpg" width="500" /></p>
 
 <p><br />
 <strong>Mobiliza&ccedil;&atilde;o permanente </strong></p>
