@@ -23,6 +23,7 @@ releated_posts:
   - _posts/2016/04/2016-04-26-sementes-transgenicas-reduzem-a-biodiversidade-aponta-estudo-da-unicamp.md
   - _posts/2016/04/2016-04-28-alerta-mortandade-de-abelhas-pode-ficar-sem-controle.md
   - _posts/2016/08/2016-08-22-brasil-paraiso-dos-agrotoxicos.md
+section: featured-news
 
 ---
 <p>&nbsp;</p>
