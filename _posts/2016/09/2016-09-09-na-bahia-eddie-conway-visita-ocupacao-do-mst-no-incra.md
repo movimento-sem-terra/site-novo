@@ -40,11 +40,16 @@ releated_posts:
 <figcaption>O ativista Conway segundo a partir da esquerda&nbsp;</figcaption>
 </figure>
 
+<p>&nbsp;</p>
+
+<p><em>Por Coletivo de Comunica&ccedil;&atilde;o do MST na Bahia<br />
+Da P&aacute;gina do MST</em></p>
+
 <p><br />
 Os diversos massacres contra o povo negro s&atilde;o as bases de um longo processo de marginaliza&ccedil;&atilde;o e exclus&atilde;o racial no Brasil.&nbsp;Essas&nbsp;opress&otilde;es se repetem em diversos pa&iacute;ses do mundo, principalmente naqueles que possuem&nbsp;a l&oacute;gica capitalista como regente sist&ecirc;mico de uma organiza&ccedil;&atilde;o social.</p>
 
 <p><br />
-Foi <span style="line-height: 20.8px;">&nbsp;com o objetivo de denunciar a opress&atilde;o racial no mundo e conhecer de perto as iniciativas do MST&nbsp;entorno do atual cen&aacute;rio pol&iacute;tico,&nbsp;</span>que&nbsp;Marshall &ldquo;Eddie&rdquo; Conway (69), ativista do Movimento Panteras Negras, em Baltimore, nos Estados Unidos da Am&eacute;rica (EUA), visitou na manh&atilde; desta sexta-feira (9) o acampamento do MST montado no Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra) na Bahia.</p>
+Foi <span style="line-height: 20.8px;">&nbsp;com o objetivo de denunciar a opress&atilde;o racial no mundo e conhecer de perto as iniciativas do MST&nbsp;entorno do atual cen&aacute;rio pol&iacute;tico,&nbsp;</span>que&nbsp;Marshall &ldquo;Eddie&rdquo; Conway (69), ativista do Movimento Panteras Negras, em Baltimore, nos Estados Unidos da Am&eacute;rica (EUA), visitou na manh&atilde; desta sexta-feira (9) o acampamento do MST montado no Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra),&nbsp;na Bahia.</p>
 
 <p><br />
 &ldquo;Conway foi mais uma v&iacute;tima do racismo institucionalizado nos EUA, ficando preso de 1971 a&nbsp;2014 em um julgamento com muitas irregularidades&rdquo;, contou Elizabeth Rocha, da dire&ccedil;&atilde;o nacional do MST, durante ato simb&oacute;lico de recep&ccedil;&atilde;o ao ativista.</p>
@@ -66,6 +71,8 @@ Emocionado com a m&iacute;stica e as falas em sua homenagem, Conway disse que am
 <figure class="image"><img alt="_MG_2796.jpg" height="467" src="//farm9.staticflickr.com/8359/29278162420_74651f6e58_b.jpg" width="700" />
 <figcaption>M&iacute;stica que denunciou a apress&atilde;o em todo mundo&nbsp;</figcaption>
 </figure>
+
+<p>&nbsp;</p>
 
 <p><strong>&ldquo;Globalizemos a luta. Globalizemos a esperan&ccedil;a&rdquo;</strong></p>
 
