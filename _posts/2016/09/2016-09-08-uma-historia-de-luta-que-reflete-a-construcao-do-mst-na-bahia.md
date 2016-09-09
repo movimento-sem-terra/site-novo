@@ -30,7 +30,7 @@ files:
     title: IMG_2597.jpg
     $$hashKey: 1JS
 created_date: "2016-09-08T18:03:10-03:00"
-published: false
+published: true
 releated_posts:
   - _posts/2016/07/2016-07-22-apos-um-ano-acampados-sem-terra-sofrem-despejo-no-extremo-sul-baiano.md
   - _posts/2016/06/2016-06-17-educacao-de-tempo-integral-e-uma-realidade-na-bahia.md
