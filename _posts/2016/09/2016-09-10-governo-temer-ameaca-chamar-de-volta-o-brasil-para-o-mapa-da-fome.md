@@ -37,8 +37,7 @@ releated_posts:
   - _posts/2015/12/2015-12-14-no-norte-da-bahia-sem-terra-debatem-os-desafios-da-luta-pela-terra.md
 
 ---
-<p><br />
-&nbsp;</p>
+<p>&nbsp;</p>
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="peixebravo_MG_leodrumond.jpg" height="467" src="//farm9.staticflickr.com/8221/29551804146_f47a167cba_b.jpg" width="700" />
@@ -66,7 +65,8 @@ A vizinha de dona Valdira, Maria da Gl&oacute;ria Santos da Silva, nem d&aacute;
 Seu Expedito Jacobina, da comunidade &Aacute;gua Suja, na zona rural de Jacobina do Piau&iacute;, tamb&eacute;m n&atilde;o d&aacute; muito espa&ccedil;o para falar dos tempos tristes da fome. Desde 2013, ele armazena a &aacute;gua de produ&ccedil;&atilde;o da cisterna-cal&ccedil;ad&atilde;o. Nestes &uacute;ltimos tr&ecirc;s anos, inseridos num per&iacute;odo de forte estiagem, ele passou a produzir macaxeira, batata e mam&atilde;o sem parar. &ldquo;A manga e a pinha t&aacute; florindo&rdquo;, orgulha-se ele, que tamb&eacute;m cria ovino, abelha e galinha. A carne para consumo da fam&iacute;lia, ele n&atilde;o compra. &ldquo;Quanto mais a gente puder produzir para consumo, a gente j&aacute; est&aacute; no lucro. Vai comprar um pacote de arroz... &eacute; R$ 6,00. Pra muitas pessoas &eacute; complicado&rdquo;, diz ele que al&eacute;m de trabalhar na ro&ccedil;a &eacute; funcion&aacute;rio de uma escola p&uacute;blica municipal.</p>
 
 <figure class="image" style="float:left"><img alt="quintal_produtivo.jpg" height="374" src="//farm9.staticflickr.com/8346/28960278574_c30c044e8e_b.jpg" width="400" />
-<figcaption><em>Produzir seu pr&oacute;prio alimento para escapar da fome | Foto: Arquivo Asacom</em></figcaption>
+<figcaption><em>Produzir seu pr&oacute;prio alimento para escapar da fome.<br />
+Foto: Arquivo Asacom</em></figcaption>
 </figure>
 
 <p><br />
@@ -84,9 +84,9 @@ E o que dizer agora desta estrat&eacute;gia diante de um governo que n&atilde;o 
 <p><br />
 Conselheira do Consea, Elza Braga, diz que para enfrentar a fome &eacute; preciso enfrentar a pobreza, que &eacute; um quadro dotado de complexidade. &ldquo;Pra melhorar os indicadores da seguran&ccedil;a alimentar tem que ter uma conjuga&ccedil;&atilde;o de a&ccedil;&otilde;es, n&atilde;o s&oacute; a &aacute;gua, mas o PAA [Programa de Aquisi&ccedil;&atilde;o de Alimentos], o Pronaf [Programa Nacional de Fortalecimento da Agricultura Familiar], a economia solid&aacute;ria, toda pol&iacute;tica voltada para os assentamentos, educa&ccedil;&atilde;o alimentar, &eacute; uma s&eacute;rie de medidas al&eacute;m das pol&iacute;ticas de aumento de renda &ndash; bolsa fam&iacute;lia e aumento do sal&aacute;rio m&iacute;nimo&rdquo;, assegura ela que tamb&eacute;m &eacute; professora da Universidade Federal do Cear&aacute;.</p>
 
-<figure class="image" style="float:right"><img alt="PB_lagoa_seca_vladia_lima.jpg" height="267" src="//farm9.staticflickr.com/8504/29551804856_6d6190fcab_b.jpg" width="400" />
-<figcaption><em>Governo Temer insiste na subtra&ccedil;&atilde;o do protagonismo e da participa&ccedil;&atilde;o<br />
-da sociedade civil | Foto: Vl&aacute;dia Lima/Arquivo Asacom</em></figcaption>
+<figure class="image" style="float:right"><img alt="PB_lagoa_seca_vladia_lima.jpg" height="247" src="//farm9.staticflickr.com/8504/29551804856_6d6190fcab_b.jpg" width="371" />
+<figcaption><em>Governo Temer insiste na subtra&ccedil;&atilde;o do protagonismo e da<br />
+participa&ccedil;&atilde;oda sociedade civil | Foto: Vl&aacute;dia Lima/Arquivo Asa</em></figcaption>
 </figure>
 
 <p><br />
