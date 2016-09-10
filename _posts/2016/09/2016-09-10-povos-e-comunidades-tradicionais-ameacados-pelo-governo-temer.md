@@ -66,7 +66,7 @@ Para ele, &eacute; momento de uni&atilde;o do povo contra um projeto que quer co
 <p><br />
 <strong>Movimento Quilombola</strong></p>
 
-<figure class="image" style="float:right"><img alt="quilombola.jpg" height="268" src="//farm9.staticflickr.com/8224/29585728795_4ae88a1ec3_b.jpg" width="400" />
+<figure class="image" style="float:right"><img alt="quilombola.jpg" height="248" src="//farm9.staticflickr.com/8224/29585728795_4ae88a1ec3_b.jpg" width="370" />
 <figcaption><em>Foto: Ag&ecirc;ncia Brasil (EBC).</em></figcaption>
 </figure>
 
