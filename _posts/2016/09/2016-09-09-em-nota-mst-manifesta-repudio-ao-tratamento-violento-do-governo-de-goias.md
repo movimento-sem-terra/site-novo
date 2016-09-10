@@ -7,7 +7,7 @@ tags:
 support_line: "Ao mesmo tempo em que há um contingenciamento progressivo do orçamento voltado à Reforma Agrária, ocorre também  o aumento da violência no campo aos que lutam pela terra"
 menu: direitos humanos
 images_hd: //farm9.staticflickr.com/8165/28943131984_c88b769a5d_b.jpg
-title: "Em nota: MST manifesta repúdio ao tratamento violento do Governo de Goiás"
+title: MST manifesta repúdio ao tratamento violento do Governo de Goiás
 layout: post
 files:
   - link: //farm9.staticflickr.com/8165/28943131984_c88b769a5d_b.jpg
