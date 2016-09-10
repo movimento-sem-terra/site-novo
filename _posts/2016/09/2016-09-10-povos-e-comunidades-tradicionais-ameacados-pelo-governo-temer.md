@@ -88,7 +88,7 @@ Se a morosidade no processo de regulariza&ccedil;&atilde;o fundi&aacute;ria dos 
 <p><br />
 <strong>Ind&iacute;genas em luta</strong></p>
 
-<figure class="image" style="float:left"><img alt="indios-em-brasilia-300x200.jpg" height="300" src="//farm9.staticflickr.com/8120/29475721982_6befa6b8f7_b.jpg" width="450" />
+<figure class="image" style="float:left"><img alt="indios-em-brasilia-300x200.jpg" height="267" src="//farm9.staticflickr.com/8120/29475721982_6befa6b8f7_b.jpg" width="400" />
 <figcaption><em>Foto: Ag&ecirc;ncia Brasil (EBC).</em></figcaption>
 </figure>
 
