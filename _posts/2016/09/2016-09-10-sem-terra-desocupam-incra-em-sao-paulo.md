@@ -1,5 +1,5 @@
 ---
-date: "2016-09-10T12:29:54-03:00"
+date: "2016-09-09T12:29:54-03:00"
 tags:
   - tag: jornada-nacional-de-lutas
   - tag: ocupação-incra
