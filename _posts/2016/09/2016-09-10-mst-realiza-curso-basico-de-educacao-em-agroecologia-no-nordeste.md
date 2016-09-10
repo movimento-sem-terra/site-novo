@@ -32,8 +32,7 @@ releated_posts:
   - _posts/2016/08/2016-08-02-jornada-de-agroecologia-reafirma-necessidade-de-construir-espacos-de-resistencia-e-autonomia-frente-ao-capital.md
 
 ---
-<p><br />
-&nbsp;</p>
+<p>&nbsp;</p>
 
 <p style="text-align:center"><img alt="TURMA AGROECOLOGIA.JPG" height="467" src="//farm9.staticflickr.com/8817/29476790582_a0187d7555_b.jpg" width="700" /></p>
 
@@ -45,7 +44,7 @@ Da P&aacute;gina do MST</em></p>
 Avan&ccedil;ar no debate da agroecologia nos Projetos Pol&iacute;ticos Pedag&oacute;gicos das escolas de Reforma Agr&aacute;ria. Este &eacute; um dos objetivos do I Curso B&aacute;sico de Educa&ccedil;&atilde;o em Agroecologia da Regi&atilde;o Nordeste.</p>
 
 <p><br />
-A atividade que ocorre entre os dias 05 e 11 de setembro, na Escola Popular de Agroecologia e Agrofloresta Eg&iacute;dio Brunetto, no extremo sul da Bahia, tem como p&uacute;blico principal educadores, educadoras das escolas do campo, coordenadores pedag&oacute;gicos, militantes de setores de sa&uacute;de, forma&ccedil;&atilde;o, produ&ccedil;&atilde;o e educa&ccedil;&atilde;o, assentandos e acampados, membros de assist&ecirc;ncia t&eacute;cnica, parceiros do MST e da via Campesina.</p>
+A atividade que ocorre entre os dias 05 e 11 de setembro, na Escola Popular de Agroecologia e Agrofloresta Eg&iacute;dio Brunetto, no extremo sul da Bahia, tem como p&uacute;blico principal educadores, educadoras das escolas do campo, coordenadores pedag&oacute;gicos, militantes de setores de sa&uacute;de, forma&ccedil;&atilde;o, produ&ccedil;&atilde;o e educa&ccedil;&atilde;o, assentados e acampados, membros de assist&ecirc;ncia t&eacute;cnica, parceiros do MST e da via Campesina.</p>
 
 <p><br />
 Durante o curso os participantes t&ecirc;m a oportunidade de aprofundar temas como o estudo da agricultura e seus sistemas agr&aacute;rios, al&eacute;m de conhecer experi&ecirc;ncias agroecol&oacute;gicas de outros pa&iacute;ses, a exemplo do &ldquo;M&eacute;todo Campon&ecirc;s a Campon&ecirc;s&rdquo;, apresentado pelo militante e dirigente da Via Campesina, Peter Rosset.</p>
@@ -62,7 +61,11 @@ Eliane explica que v&aacute;rios trabalhadores, pesquisadores e estudantes t&eci
 <p><br />
 <strong>Estudos e Pr&aacute;ticas agroecol&oacute;gicas</strong></p>
 
-<p><img alt="TURMA AGROECOLOGIA-1.JPG" height="284" src="//farm9.staticflickr.com/8772/29296353470_5902deba33_b.jpg" style="float:left" width="400" /><br />
+<figure class="image" style="float:left"><img alt="TURMA AGROECOLOGIA-1.JPG" height="284" src="//farm9.staticflickr.com/8772/29296353470_5902deba33_b.jpg" width="400" />
+<figcaption>Legenda</figcaption>
+</figure>
+
+<p><br />
 &ldquo;A Educa&ccedil;&atilde;o qualquer que seja ela, &eacute; sempre uma teoria do conhecimento posta em pr&aacute;tica&rdquo; (Paulo Freire).</p>
 
 <p><br />
