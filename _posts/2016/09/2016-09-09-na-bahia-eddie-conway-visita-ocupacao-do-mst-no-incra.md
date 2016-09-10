@@ -3,7 +3,7 @@ date: "2016-09-09T15:40:05-03:00"
 tags:
   - tag: solidariedade
   - tag: lutas-e-mobilizações
-title: "Na Bahia, Eddie Conway, visita ocupação do MST no Incra"
+title: "Na Bahia, Eddie Conway visita ocupação do MST no Incra"
 images_hd: //farm9.staticflickr.com/8231/28942466194_a9deb90566_b.jpg
 menu: solidariedade
 support_line: "O ativista do Movimento Panteras Negras foi conhecer de perto as iniciativas do Movimento "
