@@ -36,7 +36,7 @@ releated_posts:
 </div>
 
 <p><br />
-Por Silvia Ribeiro (*)</p>
+<em>Por Silvia Ribeiro (*)</em></p>
 
 <p><br />
 Se fosse poss&iacute;vel extinguir totalmente esp&eacute;cies que uma empresa ou institui&ccedil;&atilde;o considere daninhas, seria justificado faz&ecirc;-lo? Quem decide? Como isso afeta as cadeias alimentares e os ecossistemas?</p>
