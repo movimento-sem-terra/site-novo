@@ -4,7 +4,7 @@ tags:
   - tag: reforma-agrária
   - tag: moradia
   - tag: plano-rural
-title: Movimentos populares protestam contra anúncio de paralisação da política habitacional rural em 2016
+title: "Movimentos populares protestam contra anúncio de paralisação da política habitacional rural "
 support_line: "Ministério das Cidades afirma que a meta de unidades disponibilizada em 2016 será de 18 mil, número alcançado em maio deste ano. A meta inicial para o ano era de 35 mil unidades\n "
 menu: lutas e mobilizações
 images_hd: //farm9.staticflickr.com/8089/29343242340_9fb26fbc5b_b.jpg
@@ -55,7 +55,7 @@ Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
-<p>Movimentos populares do campo manifestaram reprova&ccedil;&atilde;o ao an&uacute;ncio do ministro das Cidades, Bruno Ara&uacute;jo (PSDB), em reuni&atilde;o realizada no dia 06 de setembro em Bras&iacute;lia-DF, de rebaixamento da meta de disponibiliza&ccedil;&atilde;o de moradias para a popula&ccedil;&atilde;o do campo. A meta estabelecida para 2016 era, inicialmente, de 35 mil unidades para a popula&ccedil;&atilde;o de baixa renda pela faixa 1 do Programa Minha Casa, Minha Vida (MCMV). Na reuni&atilde;o com o Minist&eacute;rio para apresenta&ccedil;&atilde;o das reivindica&ccedil;&otilde;es dos movimentos campesinos durante a Jornada Nacional das e dos Trabalhadores Rurais, das &Aacute;guas e Florestas, valendo do argumento de contingenciamento do or&ccedil;amento p&uacute;blico como resposta &agrave; crise econ&ocirc;mica, o ministro afirmou que a meta passaria a ser de 18 mil unidades.&nbsp;</p>
+<p>Movimentos populares do campo manifestaram reprova&ccedil;&atilde;o ao an&uacute;ncio do ministro das Cidades, Bruno Ara&uacute;jo (PSDB), em reuni&atilde;o realizada no dia 06 de setembro em Bras&iacute;lia-DF, de rebaixamento da meta de disponibiliza&ccedil;&atilde;o de moradias para a popula&ccedil;&atilde;o do campo. A meta estabelecida para 2016 era, inicialmente, de 35 mil unidades para a popula&ccedil;&atilde;o de baixa renda pela faixa I&nbsp;do Programa Minha Casa, Minha Vida (MCMV). Na reuni&atilde;o com o Minist&eacute;rio para apresenta&ccedil;&atilde;o das reivindica&ccedil;&otilde;es dos movimentos campesinos durante a Jornada Nacional das e dos Trabalhadores Rurais, das &Aacute;guas e Florestas, valendo do argumento de contingenciamento do or&ccedil;amento p&uacute;blico como resposta &agrave; crise econ&ocirc;mica, o ministro afirmou que a meta passaria a ser de 18 mil unidades.&nbsp;</p>
 
 <p><br />
 Este n&uacute;mero representa o total de contratos firmados at&eacute; maio deste ano, antes do afastamento da presidenta destitu&iacute;da Dilma Rousseff (PT). Com este an&uacute;ncio o ministro afirma, desta forma, que em 2016 n&atilde;o ser&aacute; disponibilizada mais nenhuma moradia &agrave; popula&ccedil;&atilde;o do campo pela pol&iacute;tica de habitacional rural. Como os contratos das 18 mil casas est&atilde;o em tramita&ccedil;&atilde;o, a proposta do ministro restringe-se a auditar os contratos j&aacute; firmados para identificar irregularidades.&nbsp;</p>
