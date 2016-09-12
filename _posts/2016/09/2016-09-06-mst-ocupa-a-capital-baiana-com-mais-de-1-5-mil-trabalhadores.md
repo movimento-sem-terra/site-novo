@@ -4,7 +4,7 @@ tags:
   - tag: jornada-de-lutas
   - tag: fora-temer
   - tag: bahia
-title: MST ocupa à capital baiana com mais de mil trabalhadores
+title: MST ocupa a capital baiana com mais de mil trabalhadores
 menu: lutas e mobilizações
 images_hd: //farm9.staticflickr.com/8320/28875804394_09086b6ec6_b.jpg
 support_line: "Com a bandeiras vermelhas estendidas sobre o prédio, os trabalhadores denunciaram, a paralisação da Reforma Agrária, e a ofensiva do agronegócio e das transnacionais sobre a agricultura camponesa"
