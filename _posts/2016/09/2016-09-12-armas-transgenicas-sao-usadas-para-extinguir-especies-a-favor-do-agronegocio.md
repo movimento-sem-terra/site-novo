@@ -81,16 +81,16 @@ No caso de GBIRd, ao manipular ratos comuns, h&aacute; uma cadeia de riscos sobr
 N&atilde;o &eacute; muito diferente no caso dos mosquitos: a elimina&ccedil;&atilde;o de um tipo espec&iacute;fico de mosquito, se for poss&iacute;vel, abrir&aacute; espa&ccedil;o a outros que voltaram a ser vetores de doen&ccedil;as, qui&ccedil;&aacute; muito mais dif&iacute;ceis de controlar.</p>
 
 <p><br />
-Por esta e outras raz&otilde;es, 71 governos e 335 ONG que pertencem &agrave; IUCN, em vez de apoiarem o uso da biologia sint&eacute;tica, votaram uma emenda &agrave; proposta, estabelecendo uma morat&oacute;ria &ldquo;de fato&rdquo; dentro do IUCN ao apoio &agrave; pesquisa, experimentos de campo e uso de biodiversidade e outros aspetos. Leia <a href="http://etcgroup.org/content/30-environmental-leaders-say-no-gene-drives-conservation">aqui</a>.</p>
+Por esta e outras raz&otilde;es, 71 governos e 335 ONG que pertencem &agrave; IUCN, em vez de apoiarem o uso da biologia sint&eacute;tica, votaram uma emenda &agrave; proposta, estabelecendo uma morat&oacute;ria &ldquo;de fato&rdquo; dentro do IUCN ao apoio &agrave; pesquisa, experimentos de campo e uso de biodiversidade e outros aspectos. Leia <a href="http://etcgroup.org/content/30-environmental-leaders-say-no-gene-drives-conservation">aqui</a>.</p>
 
 <p><br />
 Mas, o uso de impulsionadores gen&eacute;ticos n&atilde;o &eacute; pensado sob a perspectiva de conserva&ccedil;&atilde;o. As empresas transacionais do agroneg&oacute;cio foram desenvolvendo biologia sint&eacute;tica para eliminar enfermidades, para reverter a resist&ecirc;ncia de ervas invasoras ao agrot&oacute;xico no uso de sementes transg&ecirc;nicas, para aumentar seu uso.</p>
 
 <p><br />
-Neste sentido, o protagonismo dado pelos meios de comunica&ccedil;&atilde;o ao argumento de que seriam um instrumento de conserva&ccedil;&atilde;o ou de preven&ccedil;&atilde;o de enfermidades &eacute; tamb&eacute;m uma manipula&ccedil;&atilde;o medi&aacute;tica para evitar que o uso desse tipo de biotecnologia seja associado ao amplo recha&ccedil;o global que existe aos cultivos transg&ecirc;nicos, que hoje est&atilde;o concentrados nos Estados Unidos, Brasil, Argentina, M&eacute;xico e Austr&aacute;lia.</p>
+Neste sentido, o protagonismo dado pelos meios de comunica&ccedil;&atilde;o ao argumento de que seriam um instrumento de conserva&ccedil;&atilde;o ou de preven&ccedil;&atilde;o de enfermidades &eacute; tamb&eacute;m uma manipula&ccedil;&atilde;o midi&aacute;tica para evitar que o uso desse tipo de biotecnologia seja associado ao amplo recha&ccedil;o global que existe aos cultivos transg&ecirc;nicos, que hoje est&atilde;o concentrados nos Estados Unidos, Brasil, Argentina, M&eacute;xico e Austr&aacute;lia.</p>
 
 <p><br />
-&Eacute; urgente ampliar o debate sobre o uso, os riscos e os impactos da biologia sint&eacute;tica e especialmente dos impulsionadores gen&eacute;ticos. Se voc&ecirc; concorda que deve ser estabelecida uma morat&oacute;ria internacional que impe&ccedil;a qualquer libera&ccedil;&atilde;o, pode agregar sua assinatura &agrave; carta mencionada no link: http://tinyurl.com/jm4t6bg.</p>
+&Eacute; urgente ampliar o debate sobre o uso, os riscos e os impactos da biologia sint&eacute;tica e especialmente dos impulsionadores gen&eacute;ticos. Se voc&ecirc; concorda que deve ser estabelecida uma morat&oacute;ria internacional que impe&ccedil;a qualquer libera&ccedil;&atilde;o, pode agregar sua assinatura &agrave; carta mencionada no link: <a href="http://tinyurl.com/jm4t6bg">http://tinyurl.com/jm4t6bg</a>.</p>
 
 <p><br />
 <em>(*) Silvia Ribeiro &eacute; pesquisadora do Grupo ETC.</em></p>
