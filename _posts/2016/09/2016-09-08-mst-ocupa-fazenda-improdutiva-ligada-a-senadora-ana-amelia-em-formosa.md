@@ -61,7 +61,7 @@ section: featured-news
 A fazenda Saco de Bom Jesus, de propriedade da senadora Ana Am&eacute;lia (PP), foi declarada improdutiva. A senadora tamb&eacute;m declarou parcialmente o patrim&ocirc;nio ao TRE.</p>
 
 <p><br />
-O MST ocupou na madrugada desta quinta-feira (06) a fazenda Saco de Bom Jesus, localizada no munic&iacute;pio de Formosa, interior de Goi&aacute;s. A fazenda &eacute; ligada a ligada &agrave; senadora Ana Am&eacute;lia Lemos (PP).</p>
+O MST ocupou na madrugada desta quinta-feira (06) a fazenda Saco de Bom Jesus, localizada no munic&iacute;pio de Formosa, interior de Goi&aacute;s. A fazenda &eacute; ligada &agrave; senadora Ana Am&eacute;lia Lemos (PP).</p>
 
 <p><br />
 Apenas algumas horas ap&oacute;s a ocupa&ccedil;&atilde;o, a tropa de choque da PM de Goi&aacute;s, realiza despejo arbitr&aacute;rio mesmo n&atilde;o havendo nenhuma ordem judicial. Os policiais agiram de forma truculenta contra os Sem Terras, afirmando que &quot;n&atilde;o precisavam de pedido de reintegra&ccedil;&atilde;o&quot;.</p>
