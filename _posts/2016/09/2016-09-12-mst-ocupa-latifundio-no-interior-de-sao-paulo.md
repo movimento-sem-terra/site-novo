@@ -30,10 +30,7 @@ releated_posts:
   - _posts/2016/05/2016-05-12-acampados-iniciam-plantio-na-fazenda-de-temer-ocupada.md
 
 ---
-<p>&nbsp;</p>
-
 <p><br />
-<br />
 <em>Da P&aacute;gina do MST </em></p>
 
 <p><br />
