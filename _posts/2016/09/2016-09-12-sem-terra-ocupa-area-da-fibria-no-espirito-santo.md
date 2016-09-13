@@ -26,8 +26,7 @@ releated_posts:
   - _posts/2016/02/2016-02-23-trabalhadores-seguem-na-luta-poe-educacao-no-es.md
 
 ---
-<p><br />
-&nbsp;</p>
+<p>&nbsp;</p>
 
 <p style="text-align:center"><img alt="WhatsApp Image 2016-09-12 at 08.45.10(1).jpeg" height="484" src="//farm8.staticflickr.com/7547/29006747914_8e35092920_b.jpg" width="700" /></p>
 
@@ -37,8 +36,13 @@ releated_posts:
 <p><br />
 Na manh&atilde; desta segunda-feira (12), cerca de 150 fam&iacute;lias do MST ocuparam uma &aacute;rea de aproximadamente 1.200 ha de posse da empresa F&iacute;bria, localizada no munic&iacute;pio de Linhares.</p>
 
+<p>A ocupa&ccedil;&atilde;o faz parte da Jornada de luta pela Reforma Agr&aacute;ria que est&aacute; paralisada no estado. Ao todo s&atilde;o 750 fam&iacute;lias acampadas no Estado do Esp&iacute;rito Santo, al&eacute;m de denunciar os impactos do agroneg&oacute;cio.</p>
+
 <p><br />
-A ocupa&ccedil;&atilde;o faz parte da luta pela Reforma Agr&aacute;ria que est&aacute; paralisada no estado. Ao todo s&atilde;o 750 fam&iacute;lias acampadas no Estado do Esp&iacute;rito Santo.</p>
+De acordo Rodrigo Gon&ccedil;alves, dirigente do MST, o agroneg&oacute;cio &eacute; respons&aacute;vel pela degrada&ccedil;&atilde;o ambiental e envenenamento do solo no estado. Enquanto que o Movimento prop&otilde;e uma nova forma de matriz produtiva com a democratiza&ccedil;&atilde;o da terra.</p>
+
+<p><br />
+&quot;Queremos construir nessa &aacute;rea hoje ocupada, alimentos saud&aacute;veis e sem agrot&oacute;xicos, contribuindo para a elimina&ccedil;&atilde;o da fome e da pobreza&quot;, afirma.</p>
 
 <p><br />
 Os trabalhadores e trabalhadoras do campo tamb&eacute;m est&atilde;o em luta em defesa da Democracia, pelo retorno do Minist&eacute;rio do Desenvolvimento Agr&aacute;rio (MDA) e fortalecimento do INCRA.</p>
