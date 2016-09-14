@@ -1,6 +1,9 @@
 ---
 date: "2016-09-14T12:53:13-03:00"
-tags: []
+tags:
+  - tag: conquista
+  - tag: bahia
+  - tag: incra
 title: Sem Terra desocupam o Incra após resposta positiva das negociações
 images_hd: //farm9.staticflickr.com/8186/29053908663_03fd4bec5f_b.jpg
 menu: lutas e mobilizações
@@ -21,7 +24,10 @@ files:
     $$hashKey: 0CR
 created_date: "2016-09-14T13:01:03-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2016/09/2016-09-06-mst-ocupa-a-capital-baiana-com-mais-de-1-5-mil-trabalhadores.md
+  - _posts/2016/06/2016-06-09-sem-terra-monta-acampamento-no-incra-do-parana.md
+  - _posts/2016/06/2016-06-07-apos-lutas-de-abril-sem-terra-celebram-diversas-conquistas-no-extremo-sul-baiano.md
 
 ---
 <p><img alt="_MG_2713.jpg" height="467" src="//farm9.staticflickr.com/8186/29053908663_03fd4bec5f_b.jpg" width="700" /></p>
