@@ -1,0 +1,22 @@
+---
+date: "2016-09-14T11:24:28-03:00"
+tags: []
+section: boletim
+soundcloud: "https://soundcloud.com/movimento-sem-terra/nota-de-apoio-ocupa-nova-esperanca-do-mst-sp"
+title: "Nota de Apoio à Ocupação Nova Esperança "
+support_line: O Governo do Estado de São Paulo tem utilizado de forma deliberada a Polícia Militar para reintegrar a posse de imóveis ocupados sem decisão judicial
+menu: lutas e mobilizações
+images_hd: //farm8.staticflickr.com/7568/29386402730_be437771f9_b.jpg
+layout: post
+files:
+  - link: //farm8.staticflickr.com/7568/29386402730_be437771f9_b.jpg
+    thumbnail: //farm8.staticflickr.com/7568/29386402730_be437771f9_t.jpg
+    medium: //farm8.staticflickr.com/7568/29386402730_be437771f9_z.jpg
+    small: //farm8.staticflickr.com/7568/29386402730_be437771f9_n.jpg
+    title: boletim nota.jpg
+    $$hashKey: "036"
+created_date: "2016-09-14T11:32:23-03:00"
+published: true
+releated_posts: []
+
+---
