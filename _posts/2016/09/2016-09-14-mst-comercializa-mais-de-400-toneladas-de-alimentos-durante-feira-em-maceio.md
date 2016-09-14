@@ -1,6 +1,9 @@
 ---
 date: "2016-09-14T12:17:48-03:00"
-tags: []
+tags:
+  - tag: feira-da-reforma-agrária
+  - tag: alagoas
+  - tag: alimentação-saudável
 title: MST comercializa mais de 400 toneladas de alimentos durante Feira em Maceió
 images_hd: //farm9.staticflickr.com/8305/29567010462_ef779397a4_b.jpg
 menu: reforma agrária
@@ -22,7 +25,10 @@ files:
     $$hashKey: 09Q
 created_date: "2016-09-14T12:37:32-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2016/09/2016-09-02-mst-realiza-17a-feira-da-reforma-agraria-em-maceio.md
+  - _posts/2016/08/2016-08-30-mst-realiza-a-i-feira-capixaba-de-produtos-da-reforma-agraria.md
+  - _posts/2016/03/2016-03-04-a-producao-de-alimentos-saudaveis-e-uma-arma-contra-o-agronegocio-afirmam-sem-terra.md
 
 ---
 <figure class="image"><img alt="IMG_1345.JPG" height="467" src="//farm9.staticflickr.com/8305/29567010462_ef779397a4_b.jpg" width="700" />
