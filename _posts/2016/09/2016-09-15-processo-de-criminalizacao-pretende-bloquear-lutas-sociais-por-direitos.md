@@ -5,18 +5,18 @@ tags:
   - tag: criminalização
   - tag: direitos-humanos
 title: Processo de criminalização pretende bloquear lutas sociais por direitos
-images_hd: //farm9.staticflickr.com/8238/29593248212_3748b6b481_b.jpg
+images_hd: //farm9.staticflickr.com/8854/29623738031_c4be09af54_b.jpg
 section: featured-news
 support_line: "No dia 8/09, a pedido do juiz Thiago Boghi, que presidiu a audiência, a Polícia Militar (PM) montou uma verdadeira operação de guerra em Santa Helena de Goiás, por temer uma grande mobilização do Movimento."
 menu: direitos humanos
 layout: post
 files:
-  - link: //farm9.staticflickr.com/8238/29593248212_3748b6b481_b.jpg
-    thumbnail: //farm9.staticflickr.com/8238/29593248212_3748b6b481_t.jpg
-    medium: //farm9.staticflickr.com/8238/29593248212_3748b6b481_z.jpg
-    small: //farm9.staticflickr.com/8238/29593248212_3748b6b481_n.jpg
+  - link: //farm9.staticflickr.com/8854/29623738031_c4be09af54_b.jpg
+    thumbnail: //farm9.staticflickr.com/8854/29623738031_c4be09af54_t.jpg
+    medium: //farm9.staticflickr.com/8854/29623738031_c4be09af54_z.jpg
+    small: //farm9.staticflickr.com/8854/29623738031_c4be09af54_n.jpg
     title: Audiência dia 8 2.jpg
-    $$hashKey: 18J
+    $$hashKey: 1HF
 created_date: "2016-09-15T17:45:43-03:00"
 published: true
 releated_posts:
