@@ -6,7 +6,7 @@ tags:
   - tag: bahia
 menu: "educação, cultura e comunicação"
 label: interviews
-title: “Para se contrapor a qualquer forma de dominação ou ofensiva conservadora contra a educação estaremos a postos”
+title: “Para se contrapor a qualquer forma de ofensiva contra a educação estaremos a postos”
 images_hd: //farm9.staticflickr.com/8508/29701280715_3568d1be5b_b.jpg
 support_line: "Militante do setor de educação fala dos objetivos, a programação e o posicionamento político do setor diante dos retrocessos no campo da educação com Michel Temer (PMDB)."
 layout: post
