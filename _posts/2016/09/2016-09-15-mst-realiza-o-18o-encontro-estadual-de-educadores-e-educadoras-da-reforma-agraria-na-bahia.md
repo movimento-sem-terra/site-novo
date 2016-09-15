@@ -3,7 +3,7 @@ date: "2016-09-15T14:13:56-03:00"
 tags:
   - tag: educação
   - tag: bahia
-title: " MST realiza o 18º Encontro Estadual de Educadores e Educadoras da Reforma Agrária na Bahia"
+title: " MST realiza o 18º Encontro de Educadores e Educadoras da Reforma Agrária na Bahia"
 images_hd: //farm9.staticflickr.com/8596/29701172335_8a56f6e43f_b.jpg
 support_line: "Além das exposições em plenária, serão realizadas rodas de conversas para debater de maneira mais ampla os desafios e planejar ações."
 menu: "educação, cultura e comunicação"
