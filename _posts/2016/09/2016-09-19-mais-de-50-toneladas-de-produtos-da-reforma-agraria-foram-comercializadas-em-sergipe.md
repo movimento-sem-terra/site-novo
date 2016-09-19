@@ -53,7 +53,7 @@ Cerca de 200 agricultores levaram a capital sergipana uma grande diversidade de 
 Para Gileno Damasceno, da Dire&ccedil;&atilde;o Nacional do MST, a feira teve tamb&eacute;m o objetivo de &ldquo;debater com a popula&ccedil;&atilde;o de Aracaju o papel da soberania alimentar, da produ&ccedil;&atilde;o de alimentos saud&aacute;veis e mostrar a urg&ecirc;ncia da Reforma Agr&aacute;ria, comprovando na pr&aacute;tica o seu grande potencial de produ&ccedil;&atilde;o.&rdquo;</p>
 
 <figure class="image" style="float:left"><img alt="DSC_0169 - Copia.jpg" height="600" src="//farm9.staticflickr.com/8329/29752963026_7f87096852_b.jpg" width="400" />
-<figcaption>Legenda</figcaption>
+<figcaption></figcaption>
 </figure>
 
 <p><br />
