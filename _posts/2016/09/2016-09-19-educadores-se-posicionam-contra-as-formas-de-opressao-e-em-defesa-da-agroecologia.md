@@ -5,7 +5,7 @@ tags:
   - tag: agroecologia
   - tag: bahia
 title: Educadores se posicionam contra as formas de opressão e em defesa da agroecologia
-support_line: "Com o lema “Educação do Campo: por uma escola agroecológica e da classe trabalhadora”, as atividades ocorreram com muita mística, animação e gritando “Fora Temer!”"
+support_line: "Com o lema “Educação do Campo: por uma escola agroecológica e da classe trabalhadora”, as atividades ocorreram com muita mística, animação e pelo “Fora Temer!”"
 menu: "educação, cultura e comunicação"
 images_hd: //farm9.staticflickr.com/8257/29753606466_a3d5275242_b.jpg
 layout: post
@@ -31,12 +31,10 @@ files:
 created_date: "2016-09-19T10:42:08-03:00"
 published: true
 releated_posts:
-  - _posts/2016/01/2016-01-12-sem-terra-lancam-campanha-contra-agrotoxicos-e-em-defesa-da-vida.md
-  - _posts/2016/02/2016-02-18-na-bahia-sem-terra-discutem-educacao-no-campo-e-agroecologia.md
-  - _posts/2016/03/2016-03-01-pautando-a-agroecologia-sem-terra-realizam-seminario-no-baixo-sul-baiano.md
   - _posts/2016/03/2016-03-04-a-producao-de-alimentos-saudaveis-e-uma-arma-contra-o-agronegocio-afirmam-sem-terra.md
   - _posts/2016/09/2016-09-10-mst-realiza-curso-basico-de-educacao-em-agroecologia-no-nordeste.md
   - _posts/2016/05/2016-05-10-educacao-e-agroecologia-em-discussao-no-parana.md
+  - _posts/2016/07/2016-07-28-jornada-de-agroecologia-completa-15-anos-e-registra-avancos-na-educacao-no-campo.md
 
 ---
 <p>&nbsp;</p>
@@ -75,8 +73,8 @@ Nesse sentido, que uma diversidade de cantos, toques e express&otilde;es denunci
 <p><br />
 Al&eacute;m disso, as ra&iacute;zes ancestrais e o contexto hist&oacute;rico de repress&atilde;o e explora&ccedil;&atilde;o atrav&eacute;s das di&aacute;sporas ind&iacute;genas e africanas estiveram presentes com o objetivo de reafirmar os valores sociais e culturais, que s&atilde;o transmitidos de gera&ccedil;&atilde;o em gera&ccedil;&atilde;o, como bases pol&iacute;ticas para se pensar a agroecologia no contexto educativo.</p>
 
-<figure class="image" style="float:right"><img alt="IMG_0129.JPG" height="246" src="//farm9.staticflickr.com/8557/29676914192_ce65f079f1_b.jpg" width="450" />
-<figcaption>Legenda</figcaption>
+<figure class="image" style="float:right"><img alt="IMG_0129.JPG" height="219" src="//farm9.staticflickr.com/8557/29676914192_ce65f079f1_b.jpg" width="400" />
+<figcaption></figcaption>
 </figure>
 
 <p><br />
