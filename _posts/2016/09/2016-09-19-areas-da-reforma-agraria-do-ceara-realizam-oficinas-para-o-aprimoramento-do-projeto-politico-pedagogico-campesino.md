@@ -4,7 +4,7 @@ tags:
   - tag: educação
   - tag: ceará
   - tag: escola-do-campo
-title: Áreas da Reforma Agrária do Ceará realizam oficinas para o aprimoramento do projeto político pedagógico campesino
+title: Áreas da Reforma Agrária do Ceará realizam oficinas do projeto pedagógico campesino
 images_hd: //farm9.staticflickr.com/8153/29165743213_d2bcb5afa0_b.jpg
 support_line: "Com a luta pelo fortalecimento da educação do campo, as escolas buscam fortalecer sua metodologia pedagógica desenvolvida para aprimorar o detalhamento descritivo do inventário da realidade."
 menu: "educação, cultura e comunicação"
