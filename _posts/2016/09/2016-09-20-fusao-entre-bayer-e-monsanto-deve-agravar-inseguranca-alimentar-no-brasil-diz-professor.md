@@ -5,7 +5,7 @@ tags:
   - tag: agrotoxicos
   - tag: bayer
   - tag: monsanto
-title: "Fusão entre Bayer e Monsanto deve agravar insegurança alimentar no Brasil, diz professor"
+title: Fusão entre Bayer e Monsanto deve agravar insegurança alimentar no Brasil
 support_line: "Para a Bayer, a fusão significa mais acesso a sementes, inclusive transgênicas. Para a Monsanto, é completar sua linha de produtos com mais de 80 agroquímicos produzidos pela alemã"
 menu: transgênicos
 images_hd: //farm9.staticflickr.com/8135/29520592020_e7a489bd0a_b.jpg
