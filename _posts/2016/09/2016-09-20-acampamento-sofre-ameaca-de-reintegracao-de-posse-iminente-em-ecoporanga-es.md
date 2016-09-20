@@ -30,7 +30,7 @@ files:
     title: acamp derli casali e maria izabel.jpg
     $$hashKey: 039
 created_date: "2016-09-20T14:44:54-03:00"
-published: true
+published: false
 releated_posts:
   - _posts/2016/09/2016-09-12-sem-terra-ocupa-area-da-fibria-no-espirito-santo.md
   - _posts/2016/03/2016-03-10-sem-terra-resistem-a-tentativa-de-despejo-em-mg.md
