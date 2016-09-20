@@ -100,75 +100,43 @@ Al&eacute;m de coordenar a ELAA, Simone &eacute; professora de Di&aacute;logo de
 <p><br />
 Esse &eacute; um trecho de Extens&atilde;o ou Comunica&ccedil;&atilde;o, em que Freire discute o papel do extensionista, ou seja, do t&eacute;cnico agr&ocirc;nomo que atua diretamente com os camponeses, e come&ccedil;a questionando o termo extens&atilde;o. Afinal, trata-se de estender um conhecimento t&eacute;cnico dado, desde algu&eacute;m que sabe para algu&eacute;m que n&atilde;o sabe, ou, a partir do di&aacute;logo entre sujeitos, trocar saberes para que se possa transformar a realidade, considerando as rela&ccedil;&otilde;es que a permeiam?</p>
 
-<p>o famoso educador brasileiro, alvo do projeto Escola Sem Partido, prop&otilde;e que a t&eacute;cnica nunca &eacute; neutra, e que insistir na extens&atilde;o &eacute; reproduzir rela&ccedil;&otilde;es de poder que anulam os sujeitos a partir de interesses dados &ndash; no caso, disseminar um determinado modelo agr&iacute;cola, o agroneg&oacute;cio. Por isso ele aponta para a comunica&ccedil;&atilde;o como metodologia &ndash; tanto no campo quanto em sala de aula &ndash;, e na problematiza&ccedil;&atilde;o da realidade para que os sujeitos possam, criticamente, decidir.</p>
+<p>|<br />
+O famoso educador brasileiro, alvo do projeto Escola Sem Partido, prop&otilde;e que a t&eacute;cnica nunca &eacute; neutra, e que insistir na extens&atilde;o &eacute; reproduzir rela&ccedil;&otilde;es de poder que anulam os sujeitos a partir de interesses dados &ndash; no caso, disseminar um determinado modelo agr&iacute;cola, o agroneg&oacute;cio. Por isso ele aponta para a comunica&ccedil;&atilde;o como metodologia &ndash; tanto no campo quanto em sala de aula &ndash;, e na problematiza&ccedil;&atilde;o da realidade para que os sujeitos possam, criticamente, decidir.</p>
 
-<p>&nbsp;</p>
+<p><br />
+Como indicou Simone na aula de quarta-feira (24), a t&eacute;cnica tem que ser vista como experimenta&ccedil;&atilde;o, n&atilde;o como verdade, e precisa estar em di&aacute;logo com os saberes e com o contexto do campon&ecirc;s. &ldquo;&Eacute; dif&iacute;cil, n&atilde;o &eacute; simples, pois a gente constr&oacute;i coletivamente processos que n&atilde;o est&atilde;o dados em nossos espa&ccedil;os&rdquo;, diz Simone, que assim como grande parte dos educandos, &eacute; de origem campesina, assentada no norte do Paran&aacute;. E esse desafio, al&eacute;m de se dar no tempo-comunidade, como &eacute; denominado o per&iacute;odo em que os educandos voltam para suas casas, tamb&eacute;m se d&aacute; no tempo-escola, ou seja, na metodologia da ELAA, na forma em que o processo de ensino-aprendizado se d&aacute;.</p>
 
-<p>&nbsp;</p>
+<p><br />
+Ap&oacute;s a m&iacute;stica de abertura feita pelos educandos ao som de Mercedes Sosa, a aula come&ccedil;ou com duas perguntas geradoras: a gente tem consci&ecirc;ncia natural? A gente tem consci&ecirc;ncia da natureza? Nos separamos em grupos para discutir e, depois de alguns minutos, cada grupo apresentou sua vis&atilde;o, ou vis&otilde;es. No meu grupo, problematizamos que existe uma consci&ecirc;ncia naturalizada, a partir da qual se esquece que no mundo n&atilde;o existe &ldquo;fora&rdquo;.</p>
 
-<p>Como indicou Simone na aula de quarta-feira (24), a t&eacute;cnica tem que ser vista como experimenta&ccedil;&atilde;o, n&atilde;o como verdade, e precisa estar em di&aacute;logo com os saberes e com o contexto do campon&ecirc;s. &ldquo;&Eacute; dif&iacute;cil, n&atilde;o &eacute; simples, pois a gente constr&oacute;i coletivamente processos que n&atilde;o est&atilde;o dados em nossos espa&ccedil;os&rdquo;, diz Simone, que assim como grande parte dos educandos, &eacute; de origem campesina, assentada no norte do Paran&aacute;. E esse desafio, al&eacute;m de se dar no tempo-comunidade, como &eacute; denominado o per&iacute;odo em que os educandos voltam para suas casas, tamb&eacute;m se d&aacute; no tempo-escola, ou seja, na metodologia da ELAA, na forma em que o processo de ensino-aprendizado se d&aacute;.</p>
+<p><br />
+Quanto &agrave; quest&atilde;o do lixo, um dos integrantes contou a realidade de sua comunidade, perto de um lix&atilde;o, em que os catadores dizem que, para eles, &ldquo;sem lixo n&atilde;o tem vida&rdquo;. E o que &eacute; lixo para alguns &eacute; luxo para outros&hellip; Problematizamos tamb&eacute;m a quest&atilde;o dos valores antropoc&ecirc;ntricos que separam ser humano e natureza, criando uma dicotomia que coisifica a natureza, e que faz os pr&oacute;prios movimentos sociais reproduzirem um modo de atuar produtivista que criticam na rela&ccedil;&atilde;o capitalista entre seres humanos.</p>
 
-<p>&nbsp;</p>
+<figure class="image" style="float:right"><img alt="unnamed2.jpg" height="266" src="//farm9.staticflickr.com/8030/29815999695_6cb6133d39_b.jpg" width="400" />
+<figcaption><em>Simone em frente &agrave; secretaria da Escola: &ldquo;aqui se respira lucha&rdquo;.</em></figcaption>
+</figure>
 
-<p>&nbsp;</p>
+<p><br />
+Depois das coloca&ccedil;&otilde;es dos grupos, Simone enfatizou que essa separa&ccedil;&atilde;o entre ser humano e natureza retira a nossa no&ccedil;&atilde;o de todo e de diversidade, que permitiria perceber como tudo est&aacute; integrado em suas diferen&ccedil;as. Mas, por outro lado, o termo &ldquo;consci&ecirc;ncia natural&rdquo; &eacute; t&iacute;pico do liberalismo, em que se reduz o ser humano &agrave; sua faceta biol&oacute;gica, ocultando fatores socioculturais &ndash; destacadamente, a luta de classes. E a partir de 1989, com a queda do muro de Berlim, esse discurso se imp&otilde;e.</p>
 
-<p>Ap&oacute;s a m&iacute;stica de abertura feita pelos educandos ao som de Mercedes Sosa, a aula come&ccedil;ou com duas perguntas geradoras: a gente tem consci&ecirc;ncia natural? A gente tem consci&ecirc;ncia da natureza? Nos separamos em grupos para discutir e, depois de alguns minutos, cada grupo apresentou sua vis&atilde;o, ou vis&otilde;es. No meu grupo, problematizamos que existe uma consci&ecirc;ncia naturalizada, a partir da qual se esquece que no mundo n&atilde;o existe &ldquo;fora&rdquo;.</p>
+<p><br />
+&Eacute; essa a ideologia que est&aacute; por detr&aacute;s da frase &ldquo;voc&ecirc; pode mudar o mundo&rdquo; &ndash; o que, para Simone, &eacute; uma pegadinha do capitalismo, que exclui a necessidade da organiza&ccedil;&atilde;o pol&iacute;tica coletiva para enfrentar quest&otilde;es estruturais. Mudar, no capitalismo &eacute; reformar &ndash; e, segundo essa perspectiva, se o indiv&iacute;duo, sozinho, se esfor&ccedil;ar, ele pode mudar o mundo. &ldquo;A gente tamb&eacute;m quer mudan&ccedil;a de postura nas nossas rela&ccedil;&otilde;es pessoais, mas n&atilde;o d&aacute; para achar que a luta de classes n&atilde;o existe mais e que basta uma mudan&ccedil;a individual&rdquo;, complementa Simone.</p>
 
-<p>&nbsp;</p>
+<p><br />
+Assim a apropria&ccedil;&atilde;o de conceitos ligados &agrave; ecologia acaba servindo para renovar o capitalismo. E ela cita um exemplo concreto: a Monsanto est&aacute; desenvolvendo projetos de agroecologia. &ldquo;Tem contradi&ccedil;&otilde;es que a gente vai trabalhando no dia a dia, mas tem contradi&ccedil;&otilde;es que s&atilde;o antag&ocirc;nicas: Monsanto e agroecologia n&atilde;o podem trabalhar juntas&rdquo;, diz Simone. Por isso, &eacute; preciso questionar para quem e com quem exercitamos a agroecologia.</p>
 
-<p>&nbsp;</p>
+<p><br />
+&ldquo;Queremos agroecologia para trabalhar com os lascados, com os sem terra, com os ind&iacute;genas, com os quilombolas, e n&atilde;o para renovar o capitalismo&rdquo;, defende a coordenadora. Monsanto faz de fato agroecologia? O que &eacute; agroecologia? &ldquo;O capitalismo precisa da crise para se renovar e agora resolveu que vai viver em crise. E aponta que a revolu&ccedil;&atilde;o n&atilde;o &eacute; necess&aacute;ria, que basta a gente mudar nossa postura individual. E assim se constr&oacute;i uma ecologia s&oacute; para quem tem acesso, para quem pode pagar, sem tocar em quest&otilde;es estruturais&rdquo;, problematiza Simone.</p>
 
-<p>Quanto &agrave; quest&atilde;o do lixo, um dos integrantes contou a realidade de sua comunidade, perto de um lix&atilde;o, em que os catadores dizem que, para eles, &ldquo;sem lixo n&atilde;o tem vida&rdquo;. E o que &eacute; lixo para alguns &eacute; luxo para outros&hellip; Problematizamos tamb&eacute;m a quest&atilde;o dos valores antropoc&ecirc;ntricos que separam ser humano e natureza, criando uma dicotomia que coisifica a natureza, e que faz os pr&oacute;prios movimentos sociais reproduzirem um modo de atuar produtivista que criticam na rela&ccedil;&atilde;o capitalista entre seres humanos.</p>
+<p><br />
+Esse debate traz questionamentos tamb&eacute;m para o pr&oacute;prio movimento: &ldquo;estamos vendendo agroecologia para a classe m&eacute;dia &ndash; e estamos acomodados com isso&rdquo;, diz Marilene Schalavin, educanda do curso e integrante do MST, acampada em Porecatu (PR). &ldquo;Precisamos ter essa consci&ecirc;ncia pr&aacute;tica de democratizar a agroecologia nas a&ccedil;&otilde;es da Via Campesina no dia a dia&rdquo;, complementa. Segundo Simone, o desafio das organiza&ccedil;&otilde;es &eacute; multiplicar a agroecologia, e para isso &eacute; preciso construir processos de transi&ccedil;&atilde;o a partir do di&aacute;logo de saberes e da rela&ccedil;&atilde;o com o outro, tendo a clareza de que a agroecologia &eacute; um projeto pol&iacute;tico.</p>
 
-<p>Simone: &quot;aqui se respira lucha&quot;.</p>
-
-<p>&nbsp;</p>
-
-<p>Simone em frente &agrave; secretaria da Escola: &ldquo;aqui se respira lucha&rdquo;.</p>
-
-<p>&nbsp;</p>
-
-<p>Depois das coloca&ccedil;&otilde;es dos grupos, Simone enfatizou que essa separa&ccedil;&atilde;o entre ser humano e natureza retira a nossa no&ccedil;&atilde;o de todo e de diversidade, que permitiria perceber como tudo est&aacute; integrado em suas diferen&ccedil;as. Mas, por outro lado, o termo &ldquo;consci&ecirc;ncia natural&rdquo; &eacute; t&iacute;pico do liberalismo, em que se reduz o ser humano &agrave; sua faceta biol&oacute;gica, ocultando fatores socioculturais &ndash; destacadamente, a luta de classes. E a partir de 1989, com a queda do muro de Berlim, esse discurso se imp&otilde;e.</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&Eacute; essa a ideologia que est&aacute; por detr&aacute;s da frase &ldquo;voc&ecirc; pode mudar o mundo&rdquo; &ndash; o que, para Simone, &eacute; uma pegadinha do capitalismo, que exclui a necessidade da organiza&ccedil;&atilde;o pol&iacute;tica coletiva para enfrentar quest&otilde;es estruturais. Mudar, no capitalismo &eacute; reformar &ndash; e, segundo essa perspectiva, se o indiv&iacute;duo, sozinho, se esfor&ccedil;ar, ele pode mudar o mundo. &ldquo;A gente tamb&eacute;m quer mudan&ccedil;a de postura nas nossas rela&ccedil;&otilde;es pessoais, mas n&atilde;o d&aacute; para achar que a luta de classes n&atilde;o existe mais e que basta uma mudan&ccedil;a individual&rdquo;, complementa Simone.</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>Assim a apropria&ccedil;&atilde;o de conceitos ligados &agrave; ecologia acaba servindo para renovar o capitalismo. E ela cita um exemplo concreto: a Monsanto est&aacute; desenvolvendo projetos de agroecologia. &ldquo;Tem contradi&ccedil;&otilde;es que a gente vai trabalhando no dia a dia, mas tem contradi&ccedil;&otilde;es que s&atilde;o antag&ocirc;nicas: Monsanto e agroecologia n&atilde;o podem trabalhar juntas&rdquo;, diz Simone. Por isso, &eacute; preciso questionar para quem e com quem exercitamos a agroecologia.</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&ldquo;Queremos agroecologia para trabalhar com os lascados, com os sem terra, com os ind&iacute;genas, com os quilombolas, e n&atilde;o para renovar o capitalismo&rdquo;, defende a coordenadora. Monsanto faz de fato agroecologia? O que &eacute; agroecologia? &ldquo;O capitalismo precisa da crise para se renovar e agora resolveu que vai viver em crise. E aponta que a revolu&ccedil;&atilde;o n&atilde;o &eacute; necess&aacute;ria, que basta a gente mudar nossa postura individual. E assim se constr&oacute;i uma ecologia s&oacute; para quem tem acesso, para quem pode pagar, sem tocar em quest&otilde;es estruturais&rdquo;, problematiza Simone.</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>Esse debate traz questionamentos tamb&eacute;m para o pr&oacute;prio movimento: &ldquo;estamos vendendo agroecologia para a classe m&eacute;dia &ndash; e estamos acomodados com isso&rdquo;, diz Marilene Schalavin, educanda do curso e integrante do MST, acampada em Porecatu (PR). &ldquo;Precisamos ter essa consci&ecirc;ncia pr&aacute;tica de democratizar a agroecologia nas a&ccedil;&otilde;es da Via Campesina no dia a dia&rdquo;, complementa. Segundo Simone, o desafio das organiza&ccedil;&otilde;es &eacute; multiplicar a agroecologia, e para isso &eacute; preciso construir processos de transi&ccedil;&atilde;o a partir do di&aacute;logo de saberes e da rela&ccedil;&atilde;o com o outro, tendo a clareza de que a agroecologia &eacute; um projeto pol&iacute;tico.</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>A aula foi permeada de debates e intera&ccedil;&otilde;es culturais, como exposi&ccedil;&atilde;o do v&iacute;deo Abuela Grillo, do videoclipe Latinoam&eacute;rica e uma din&acirc;mica de energiza&ccedil;&atilde;o coletiva inspirada nas pr&aacute;ticas de bioenergia, difundidas e praticadas no assentamento &ndash; exemplos de outro modelo de educa&ccedil;&atilde;o que vai se construindo no cotidiano da ELAA.</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
+<p><br />
+A aula foi permeada de debates e intera&ccedil;&otilde;es culturais, como exposi&ccedil;&atilde;o do v&iacute;deo Abuela Grillo, do videoclipe Latinoam&eacute;rica e uma din&acirc;mica de energiza&ccedil;&atilde;o coletiva inspirada nas pr&aacute;ticas de bioenergia, difundidas e praticadas no assentamento &ndash; exemplos de outro modelo de educa&ccedil;&atilde;o que vai se construindo no cotidiano da ELAA.</p>
 
 <p>Cultura corporal: libertando o corpo para libertar a vida</p>
 
-<p><em>Conversa sobre Cultura Corporal com Sylviane Guilherme</em></p>
+<p>&nbsp;</p>
 
 <p>&nbsp;</p>
 
