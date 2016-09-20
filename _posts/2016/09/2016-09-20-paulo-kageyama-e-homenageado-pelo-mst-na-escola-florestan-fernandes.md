@@ -71,7 +71,7 @@ O ato simb&oacute;lico lembrou a tradi&ccedil;&atilde;o dos povos ind&iacute;gen
 Na ENFF, o Bosque que hoje leva o nome de Paulo Kageyama, esta posto &agrave; sobra de um grande Jatob&aacute; que abriga uma diversidade de plantas e flores, de forma que, sua hist&oacute;ria e trajet&oacute;ria de luta sempre estejam a florir e produzir novos frutos.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 
 <p><br />
-O Professor Joao Dagoberto (Cobr&atilde;o), da Universidade de S&atilde;o Paulo (USP), amigo de kageyama, lembra que o Jatob&aacute; &eacute; uma arvore s&iacute;mbolo das pesquisas e trajet&oacute;ria do professor e que esse espa&ccedil;o o deixara sempre presente entre n&oacute;s.</p>
+O Professor Jo&atilde;o Dagoberto (Cobr&atilde;o), da Universidade de S&atilde;o Paulo (USP), amigo de kageyama, lembra que o Jatob&aacute; &eacute; uma arvore s&iacute;mbolo das pesquisas e trajet&oacute;ria do professor e que esse espa&ccedil;o o deixara sempre presente entre n&oacute;s.</p>
 
 <p><br />
 <em>*Editado por Iris Pacheco</em></p>
