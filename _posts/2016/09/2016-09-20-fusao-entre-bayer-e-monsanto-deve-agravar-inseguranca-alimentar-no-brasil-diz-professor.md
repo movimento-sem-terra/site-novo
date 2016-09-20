@@ -29,6 +29,7 @@ releated_posts:
   - _posts/2016/06/2016-06-02-pl-que-substitui-lei-dos-agrotoxicos-representa-retrocesso-dizem-pesquisadores.md
   - _posts/2016/08/2016-08-29-livres-de-impostos-agrotoxicos-seguem-causando-cancer-malformacoes-e-mortes.md
   - _posts/2016/01/2016-01-12-vandana-shiva-a-profunda-ligacao-entre-a-monsanto-e-o-facebook.md
+section: featured-news
 
 ---
 <p>&nbsp;</p>
