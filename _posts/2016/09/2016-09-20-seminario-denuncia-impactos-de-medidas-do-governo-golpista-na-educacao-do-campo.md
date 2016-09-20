@@ -17,7 +17,7 @@ files:
     title: Educação do Campo.jpg
     $$hashKey: 0YM
 created_date: "2016-09-20T14:55:21-03:00"
-published: true
+published: false
 releated_posts: []
 
 ---
@@ -38,7 +38,7 @@ As medidas adotadas pela gest&atilde;o de Michel Temer (PMDB) impactam negativam
 Abaixo, as e os participantes do VI Semin&aacute;rio Nacional das Licenciaturas em Educa&ccedil;&atilde;o do Campo, realizado de 13 a 16 de setembro, em Bras&iacute;lia-DF, alertam sobre o cen&aacute;rio pol&iacute;tico e econ&ocirc;mico de amea&ccedil;a &agrave; direitos sociais e apresentam uma plataforma de lutas e resist&ecirc;ncia.</p>
 
 <p style="text-align: center;"><br />
-<strong>Carta do VI Semin&aacute;rio Nacional das Licenciaturas em Educa&ccedil;&atilde;o do Campo</strong></p>
+<strong>&nbsp;Carta do VI Semin&aacute;rio Nacional das Licenciaturas em Educa&ccedil;&atilde;o do Campo</strong></p>
 
 <p style="text-align: center;"><strong>Bras&iacute;lia, 13 a 16 de setembro de 2016</strong></p>
 
