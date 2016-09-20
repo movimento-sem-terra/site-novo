@@ -5,7 +5,7 @@ tags:
   - tag: bahia
   - tag: agroecologia
 title: "“Com agroecologia construiremos uma educação de qualidade para classe trabalhadora\""
-support_line: A luta da classe trabalhadora em defesa de uma educação do campo de qualidade ocupou as mesas de discussões 18º Encontro Estadual de Educadores e Educadoras do MST na Bahia
+support_line: A luta da classe trabalhadora em defesa de uma educação do campo de qualidade ocupou as mesas de discussões do 18º Encontro Estadual de Educadores e Educadoras do MST na Bahia
 menu: "educação, cultura e comunicação"
 images_hd: //farm8.staticflickr.com/7472/29817475695_1cf60feb5e_b.jpg
 layout: post
