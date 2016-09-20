@@ -57,12 +57,12 @@ Sua hist&oacute;ria marcada pela dedica&ccedil;&atilde;o em pensar outra matriz 
 <p><br />
 Paulo kageyama era amigo do MST e deixou um enorme legado no debate sobre a agroecologia e a biodiversidade para o povo brasileiro. Grande defensor da agricultura familiar colaborou em diversos projetos de assentamentos do Movimento no estado de S&atilde;o Paulo.</p>
 
-<p><br />
-&ldquo;N&oacute;s vamos eterniz&aacute;-lo pela sua hist&oacute;ria, pelo seu legado e pelo seu compromisso com a luta. N&atilde;o s&oacute; com a agroecologia, com o MST e a Via Campesina, mais por seu compromisso com a humanidade&rdquo;, ressaltou Jo&atilde;o Paulo Rodrigues, da Dire&ccedil;&atilde;o Nacional do MST.</p>
-
-<figure class="image" style="float:left"><img alt="DSC08507.JPG" height="228" src="//farm9.staticflickr.com/8533/29186534784_d74270c055_b.jpg" width="370" />
+<figure class="image" style="float:left"><img alt="DSC08507.JPG" height="247" src="//farm9.staticflickr.com/8533/29186534784_d74270c055_b.jpg" width="400" />
 <figcaption></figcaption>
 </figure>
+
+<p><br />
+&ldquo;N&oacute;s vamos eterniz&aacute;-lo pela sua hist&oacute;ria, pelo seu legado e pelo seu compromisso com a luta. N&atilde;o s&oacute; com a agroecologia, com o MST e a Via Campesina, mais por seu compromisso com a humanidade&rdquo;, ressaltou Jo&atilde;o Paulo Rodrigues, da Dire&ccedil;&atilde;o Nacional do MST.</p>
 
 <p><br />
 O ato simb&oacute;lico lembrou a tradi&ccedil;&atilde;o dos povos ind&iacute;genas Xukuru, que plantam seus iluminados em um bosque e l&aacute; os reverenciam e recebem suas for&ccedil;as.</p>
