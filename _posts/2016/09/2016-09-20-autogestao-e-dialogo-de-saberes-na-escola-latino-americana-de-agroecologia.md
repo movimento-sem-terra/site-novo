@@ -134,13 +134,14 @@ Esse debate traz questionamentos tamb&eacute;m para o pr&oacute;prio movimento: 
 <p><br />
 A aula foi permeada de debates e intera&ccedil;&otilde;es culturais, como exposi&ccedil;&atilde;o do v&iacute;deo Abuela Grillo, do videoclipe Latinoam&eacute;rica e uma din&acirc;mica de energiza&ccedil;&atilde;o coletiva inspirada nas pr&aacute;ticas de bioenergia, difundidas e praticadas no assentamento &ndash; exemplos de outro modelo de educa&ccedil;&atilde;o que vai se construindo no cotidiano da ELAA.</p>
 
-<p>Cultura corporal: libertando o corpo para libertar a vida</p>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="unnamed3.jpg" height="465" src="//farm9.staticflickr.com/8474/29189792213_fa3ca59966_b.jpg" width="700" />
+<figcaption><em>Conversa sobre Cultura Corporal: libertando o corpo para libertar a vida com Sylviane Guilherme</em></figcaption>
+</figure>
+</div>
 
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>Para al&eacute;m das disciplinas estabelecidas, outros elementos s&atilde;o trabalhados na ELAA, como Sa&uacute;de, Esporte e Lazer. H&aacute; um momento reservado para isso nas tardes de quinta feira, e no dia 25 a Sylviane Guilherme, do Setor de Cultura do MST-PR, puxou uma din&acirc;mica para pensar esse espa&ccedil;o para al&eacute;m do que est&aacute; dado &ndash; o tradicional futebolzinho. &ldquo;A humanidade produziu uma diversidade de pr&aacute;ticas gigante e a gente fica s&oacute; no futebol&rdquo;, provoca Sylviane, fazendo um sinal de &ldquo;j&oacute;inha&rdquo;.</p>
+<p><br />
+Para al&eacute;m das disciplinas estabelecidas, outros elementos s&atilde;o trabalhados na ELAA, como Sa&uacute;de, Esporte e Lazer. H&aacute; um momento reservado para isso nas tardes de quinta feira, e no dia 25 a Sylviane Guilherme, do Setor de Cultura do MST-PR, puxou uma din&acirc;mica para pensar esse espa&ccedil;o para al&eacute;m do que est&aacute; dado &ndash; o tradicional futebolzinho. &ldquo;A humanidade produziu uma diversidade de pr&aacute;ticas gigante e a gente fica s&oacute; no futebol&rdquo;, provoca Sylviane, fazendo um sinal de &ldquo;j&oacute;inha&rdquo;.</p>
 
 <p>&nbsp;</p>
 
