@@ -84,8 +84,8 @@ Simone Aparecida Rezende, da coordena&ccedil;&atilde;o pedag&oacute;gica do MST,
 A Escola funciona no sistema de altern&acirc;ncia &ndash; o que significa que o estudante passa um per&iacute;odo em sua comunidade e outro per&iacute;odo na Escola, para que possa experienciar o conhecimento adquirido junto com sua comunidade e para que os cursos atendam &agrave; demanda de v&aacute;rias regi&otilde;es. Sendo assim, os cursos na ELAA s&atilde;o intensivos e os educandos moram na escola durante o per&iacute;odo de aulas &ndash; por isso a ELAA conta com estrutura de refeit&oacute;rio e alojamento.</p>
 
 <figure class="image" style="float:left"><img alt="unnamed1.jpg" height="602" src="//farm9.staticflickr.com/8152/29702877472_95af5036ff_b.jpg" width="400" />
-<figcaption><em>Aula no casar&atilde;o, com a arte deixada pelo pessoal da m&iacute;stica no ch&atilde;o:<br />
-Latinoam&eacute;rica unida.</em></figcaption>
+<figcaption><em>Aula no casar&atilde;o, com a arte deixada pelo pessoal da m&iacute;stica<br />
+no ch&atilde;o: Latinoam&eacute;rica unida.</em></figcaption>
 </figure>
 
 <p><br />
@@ -143,154 +143,94 @@ A aula foi permeada de debates e intera&ccedil;&otilde;es culturais, como exposi
 <p><br />
 Para al&eacute;m das disciplinas estabelecidas, outros elementos s&atilde;o trabalhados na ELAA, como Sa&uacute;de, Esporte e Lazer. H&aacute; um momento reservado para isso nas tardes de quinta feira, e no dia 25 a Sylviane Guilherme, do Setor de Cultura do MST-PR, puxou uma din&acirc;mica para pensar esse espa&ccedil;o para al&eacute;m do que est&aacute; dado &ndash; o tradicional futebolzinho. &ldquo;A humanidade produziu uma diversidade de pr&aacute;ticas gigante e a gente fica s&oacute; no futebol&rdquo;, provoca Sylviane, fazendo um sinal de &ldquo;j&oacute;inha&rdquo;.</p>
 
-<p>&nbsp;</p>
+<p><br />
+Sentados em roda, conversamos sobre alguns elementos que desconstroem a Educa&ccedil;&atilde;o F&iacute;sica tal como costuma ser praticada nas escolas. As pr&aacute;ticas corporais s&atilde;o frequentemente encaradas como compensa&ccedil;&atilde;o depois de um dia de &ldquo;trabalho s&eacute;rio&rdquo;, ou como distra&ccedil;&atilde;o. &ldquo;Isso &eacute; reprodu&ccedil;&atilde;o do discurso do capital: o primeiro espa&ccedil;o a ser conquistado &eacute; o corpo&rdquo;, entende Sylviane. &ldquo;Sem conhecer o nosso corpo e sem saber quem a gente &eacute;, a gente vai fazer uma revolu&ccedil;&atilde;o incompleta&rdquo;, agrega.</p>
 
-<p>&nbsp;</p>
+<p><br />
+Por isso &eacute; interessante problematizar os termos: para al&eacute;m da Educa&ccedil;&atilde;o F&iacute;sica, que reproduz uma din&acirc;mica militar, trata-se de toda uma Cultura Corporal, que engloba esportes, lutas, gin&aacute;sticas e dan&ccedil;as que o capitalismo transformou em mercadoria e entretenimento, mas que sempre esteve conectada &agrave; hist&oacute;ria, &agrave; cultura, aos ciclos naturais e &agrave;s pr&aacute;ticas cotidianas.</p>
 
-<p>Sentados em roda, conversamos sobre alguns elementos que desconstroem a Educa&ccedil;&atilde;o F&iacute;sica tal como costuma ser praticada nas escolas. As pr&aacute;ticas corporais s&atilde;o frequentemente encaradas como compensa&ccedil;&atilde;o depois de um dia de &ldquo;trabalho s&eacute;rio&rdquo;, ou como distra&ccedil;&atilde;o. &ldquo;Isso &eacute; reprodu&ccedil;&atilde;o do discurso do capital: o primeiro espa&ccedil;o a ser conquistado &eacute; o corpo&rdquo;, entende Sylviane. &ldquo;Sem conhecer o nosso corpo e sem saber quem a gente &eacute;, a gente vai fazer uma revolu&ccedil;&atilde;o incompleta&rdquo;, agrega.</p>
+<p><br />
+Pensando a partir da dualidade agroecologia versus Revolu&ccedil;&atilde;o Verde, antes da mecaniza&ccedil;&atilde;o do campo o contato com a terra era mais intenso, mais manual, muitas vezes coletivo, envolvendo diversidade de cultivos e movimentos, assim como cantos e dan&ccedil;as (o que me lembrou desse v&iacute;deo incr&iacute;vel); ou seja, um amplo repert&oacute;rio de movimentos e ritmos a partir do contato com o meio e com o outro. A Revolu&ccedil;&atilde;o Verde e seus monocultivos substitu&iacute;ram o corpo pelas m&aacute;quinas, o coletivo pelo individual, interferindo na rela&ccedil;&atilde;o com a natureza, com o outro e com o pr&oacute;prio corpo.</p>
 
-<p>&nbsp;</p>
+<p><br />
+&ldquo;Hoje o campon&ecirc;s t&aacute; dentro de casa, sentado no sof&aacute; vendo TV&rdquo;, exemplifica Sylviane, que agrega que a agroecologia retoma uma cultura f&iacute;sica e est&eacute;tica que o campo perdeu. Ela entende que esse esvaziamento das pr&aacute;ticas corporais faz parte da cultura do capital, &agrave; qual n&atilde;o interessa que as pessoas sejam plenas e se organizem coletivamente.</p>
 
-<p>&nbsp;</p>
+<p><br />
+&ldquo;&Eacute; mais f&aacute;cil controlar seres humanos desumanizados&rdquo;, complementa a convidada, referindo-se ao duplo sentido da famosa frase de Rosa Luxemburgo: &ldquo;quem n&atilde;o se movimenta n&atilde;o sente as correntes que o prendem&rdquo;; quem n&atilde;o se move no sentido da organiza&ccedil;&atilde;o social, mas tamb&eacute;m no que diz respeito ao pr&oacute;prio corpo.</p>
 
-<p>Por isso &eacute; interessante problematizar os termos: para al&eacute;m da Educa&ccedil;&atilde;o F&iacute;sica, que reproduz uma din&acirc;mica militar, trata-se de toda uma Cultura Corporal, que engloba esportes, lutas, gin&aacute;sticas e dan&ccedil;as que o capitalismo transformou em mercadoria e entretenimento, mas que sempre esteve conectada &agrave; hist&oacute;ria, &agrave; cultura, aos ciclos naturais e &agrave;s pr&aacute;ticas cotidianas.</p>
+<p><br />
+E assim seguimos para a parte pr&aacute;tica da atividade: todo mundo um pouco travado no come&ccedil;o, aos poucos se soltando, e ao final uma catarse coletiva como nunca antes na hist&oacute;ria da ELAA tomou conta do casar&atilde;o onde acontece grande parte das atividades da Escola. As palavras seriam de pouca valia para relatar essa experi&ecirc;ncia, ent&atilde;o deixo que a foto expresse, atrav&eacute;s da luz e das posturas corporais, o que as letrinhas n&atilde;o podem teorizar.</p>
 
-<p>&nbsp;</p>
+<p><br />
+<strong>Comunica&ccedil;&atilde;o ecol&oacute;gica em contraposi&ccedil;&atilde;o &agrave; monocultura da m&iacute;dia</strong></p>
 
-<p>Pensando a partir da dualidade agroecologia versus Revolu&ccedil;&atilde;o Verde, antes da mecaniza&ccedil;&atilde;o do campo o contato com a terra era mais intenso, mais manual, muitas vezes coletivo, envolvendo diversidade de cultivos e movimentos, assim como cantos e dan&ccedil;as (o que me lembrou desse v&iacute;deo incr&iacute;vel); ou seja, um amplo repert&oacute;rio de movimentos e ritmos a partir do contato com o meio e com o outro. A Revolu&ccedil;&atilde;o Verde e seus monocultivos substitu&iacute;ram o corpo pelas m&aacute;quinas, o coletivo pelo individual, interferindo na rela&ccedil;&atilde;o com a natureza, com o outro e com o pr&oacute;prio corpo.</p>
+<p><br />
+Outra atividade complementar foi puxada por esta que vos escreve durante o C&iacute;rculo de Cultura, na quarta (24) &agrave; noite, acerca da comunica&ccedil;&atilde;o. A proposta de debate e intera&ccedil;&atilde;o, e na minha forma de estar e participar ao longo dessa viv&ecirc;ncia no assentamento coloca a pr&oacute;pria pr&aacute;tica comunicacional em xeque: minha presen&ccedil;a aqui n&atilde;o se reduz a uma divulga&ccedil;&atilde;o desde fora, a t&iacute;tulo de assessoria de imprensa. Divulgar &eacute; preciso, mas a partir do di&aacute;logo e da troca, como tanto preconiza Paulo Freire.</p>
 
-<p>&nbsp;</p>
+<p><br />
+O fazer dial&oacute;gico precisa ser experienciado no pr&oacute;prio campo da comunica&ccedil;&atilde;o, que paradoxalmente costuma ser deixado de lado nas lutas sociais e abordado de maneira instrumentalista, reproduzindo uma pr&aacute;tica midi&aacute;tica isolada em si mesma, calcada mais na propaganda que no di&aacute;logo, mais na especializa&ccedil;&atilde;o que no fazer comum.</p>
 
-<p>&nbsp;</p>
+<p><br />
+O projeto Vida Boa, com suas limita&ccedil;&otilde;es, assume esse desafio &ndash; assim como o Projeto Flora &ndash; Reflorestando a Reforma Agr&aacute;ria, uma iniciativa do Instituto Contestado que tem um olhar todo especial para a comunica&ccedil;&atilde;o &ndash; enquanto parte constitutiva do projeto, e n&atilde;o apenas acess&oacute;rio de divulga&ccedil;&atilde;o. No artigo Comunica&ccedil;&atilde;o tem gosto? Integrantes do projeto discutem essa apropria&ccedil;&atilde;o a partir do questionamento do termo p&uacute;blico-alvo &ndash; e a pr&oacute;pria comunica&ccedil;&atilde;o se torna o alvo de reflex&atilde;o.</p>
 
-<p>&ldquo;Hoje o campon&ecirc;s t&aacute; dentro de casa, sentado no sof&aacute; vendo TV&rdquo;, exemplifica Sylviane, que agrega que a agroecologia retoma uma cultura f&iacute;sica e est&eacute;tica que o campo perdeu. Ela entende que esse esvaziamento das pr&aacute;ticas corporais faz parte da cultura do capital, &agrave; qual n&atilde;o interessa que as pessoas sejam plenas e se organizem coletivamente.</p>
+<figure class="image" style="float:left"><img alt="unnamed4.jpg" height="266" src="//farm9.staticflickr.com/8867/29702877492_42a38eecc6_b.jpg" width="400" />
+<figcaption></figcaption>
+</figure>
 
-<p>&nbsp;</p>
+<p><br />
+Falamos tanto de Paulo Freire, de di&aacute;logo na escola e no campo, mas por que esse debate &eacute; alijado da comunica&ccedil;&atilde;o? &Eacute; preciso reconhecer a comunica&ccedil;&atilde;o popular e participativa como processo inerente aos movimentos sociais, como metodologia do fazer comum &ndash; e, em contraposi&ccedil;&atilde;o &agrave; monocultura da m&iacute;dia de massa, criar nossa pr&oacute;pria comunica&ccedil;&atilde;o, talvez ecol&oacute;gica.</p>
 
-<p>&nbsp;</p>
+<p><br />
+Assistimos ao document&aacute;rio Levante Sua Voz, do Coletivo Intervozes, e na sequ&ecirc;ncia debatemos o porqu&ecirc; da comunica&ccedil;&atilde;o ser direito e como ele nos &eacute; negado. Assim como n&atilde;o podemos fazer agroecologia sem ter como plano de fundo o debate da reforma agr&aacute;ria, n&atilde;o podemos fazer comunica&ccedil;&atilde;o popular sem ter como plano de fundo a reforma da m&iacute;dia &ndash; ou nos restringiremos ao reformismo que n&atilde;o leva em considera&ccedil;&atilde;o quest&otilde;es estrutural.</p>
 
-<p>&ldquo;&Eacute; mais f&aacute;cil controlar seres humanos desumanizados&rdquo;, complementa a convidada, referindo-se ao duplo sentido da famosa frase de Rosa Luxemburgo: &ldquo;quem n&atilde;o se movimenta n&atilde;o sente as correntes que o prendem&rdquo;; quem n&atilde;o se move no sentido da organiza&ccedil;&atilde;o social, mas tamb&eacute;m no que diz respeito ao pr&oacute;prio corpo.</p>
+<p><br />
+Os participantes deram v&aacute;rios relatos de como a m&iacute;dia de massa criminaliza os movimentos sociais, bem como da necessidade de criarmos e fortalecermos nossos pr&oacute;prios meios para construir narrativas, divulgar experi&ecirc;ncias e disputar valores.</p>
 
-<p>&nbsp;</p>
+<p><br />
+Na sequ&ecirc;ncia assistimos ao document&aacute;rio Cultura &ndash; da Universidade &agrave;s Ruas, do Coletivo Soylocoporti, um exemplo do que pode ser feito em nossas experi&ecirc;ncias locais para divulgar nossas narrativas de forma participativa e atrav&eacute;s de formatos pr&oacute;prios &ndash; a comunica&ccedil;&atilde;o como parte das lutas, n&atilde;o algo externo a elas.</p>
 
-<p>&nbsp;</p>
+<p><br />
+V&aacute;rias experi&ecirc;ncias de comunica&ccedil;&atilde;o popular foram apresentadas ao longo do debate: O Candeeiro e o projeto Semi-&Aacute;rido em Tela, da ASA &ndash; Articula&ccedil;&atilde;o do Semi-&Aacute;rido Brasileiro (que &eacute; parceira do Projeto Flora); Ref&uacute;gio Zumbis, do Mato Grosso, que entre outras atividades realiza saraus e conta com uma webr&aacute;dio; projeto &Aacute;gua Boa &ndash; Sert&otilde;es, Sons e Imagens, da Para&iacute;ba; al&eacute;m de v&aacute;rias experi&ecirc;ncias de zines, lambes, panfletos e est&ecirc;ncil.</p>
 
-<p>E assim seguimos para a parte pr&aacute;tica da atividade: todo mundo um pouco travado no come&ccedil;o, aos poucos se soltando, e ao final uma catarse coletiva como nunca antes na hist&oacute;ria da ELAA tomou conta do casar&atilde;o onde acontece grande parte das atividades da Escola. As palavras seriam de pouca valia para relatar essa experi&ecirc;ncia, ent&atilde;o deixo que a foto expresse, atrav&eacute;s da luz e das posturas corporais, o que as letrinhas n&atilde;o podem teorizar.</p>
+<p><br />
+La&iacute;s e Hudson, do Setor de Cultura da Escola, finalizaram a atividade convidando a todos a pensar e compartilhar o que sonham para a comunica&ccedil;&atilde;o na ELAA, para que possam junto fortalecer o di&aacute;logo na escola. Agrade&ccedil;o por demais o espa&ccedil;o, a acolhida e o di&aacute;logo! E fiquei bem feliz de ver a m&iacute;dia sendo problematizada numa das m&iacute;sticas de abertura dos dias seguintes.</p>
 
-<p>&nbsp;</p>
+<p><br />
+<strong>Autogest&atilde;o e multiculturalidade</strong></p>
 
-<p>&nbsp;</p>
+<p><br />
+A educa&ccedil;&atilde;o na ELAA n&atilde;o &eacute; um servi&ccedil;o, mas um processo participativo. Pleno doming&atilde;o e eu pedi pra Thay me levar na cachoeirinha do assentamento. &ldquo;Depois que a gente limpar o banheiro&rdquo;, ela sugeriu. &ldquo;Mas limpar banheiro em pleno domingo?&rdquo;, contestei eu. &ldquo;U&eacute;, a Escola n&atilde;o pode parar, e a gente que gestiona ela&rdquo;, respondeu a mo&ccedil;a. Acatado. Cachoeira s&oacute; depois da limpeza.</p>
 
-<p>&nbsp;</p>
+<p><br />
+Os educandos se organizam por n&uacute;cleos, equipes e setores, e tocam as demandas da escola, desde alimenta&ccedil;&atilde;o, limpeza, cultivo e gest&atilde;o. A atual turma de tecn&oacute;logos conta com 54 educandos, que vivem na ELAA durante o tempo-aula. Essa etapa, a segunda da turma (s&atilde;o seis etapas no total), come&ccedil;ou em 13 de agosto e vai at&eacute; 29 de outubro &ndash; dois meses e meio de intensa viv&ecirc;ncia coletiva, que exige muita organiza&ccedil;&atilde;o.</p>
 
-<p>Comunica&ccedil;&atilde;o ecol&oacute;gica em contraposi&ccedil;&atilde;o &agrave; monocultura da m&iacute;dia</p>
+<p><br />
+Banheiros limpos, fomos &agrave; cachoeirinha &ndash; eu, Thayana Fiel, que mora em Pelotas e integra o Levante Popular da Juventude, e Diego Splinter, que me contou um pouco de sua hist&oacute;ria no caminho. Ele estudava Geografia na Universidade Federal Fluminense, mas deixou o curso por n&atilde;o se identificar com &ldquo;o ensino formal descolado da realidade&rdquo;. Mas foi por meio da universidade que ingressou no movimento estudantil e veio a conhecer de perto o MST. Depois de flertar algum tempo com o movimento, incentivado pelo seu amigo C&iacute;cero Guedes, uma lideran&ccedil;a da regi&atilde;o, partiu para sua primeira ocupa&ccedil;&atilde;o.</p>
 
-<p>&nbsp;</p>
+<figure class="image" style="float:right"><img alt="unnamed5.jpg" height="266" src="//farm9.staticflickr.com/8303/29702877582_40c52ecff7_b.jpg" width="400" />
+<figcaption><em>Diego e sua intensa hist&oacute;ria no movimento</em></figcaption>
+</figure>
 
-<p>Outra atividade complementar foi puxada por esta que vos escreve durante o C&iacute;rculo de Cultura, na quarta (24) &agrave; noite, acerca da comunica&ccedil;&atilde;o. A proposta de debate e intera&ccedil;&atilde;o, e na minha forma de estar e participar ao longo dessa viv&ecirc;ncia no assentamento coloca a pr&oacute;pria pr&aacute;tica comunicacional em xeque: minha presen&ccedil;a aqui n&atilde;o se reduz a uma divulga&ccedil;&atilde;o desde fora, a t&iacute;tulo de assessoria de imprensa. Divulgar &eacute; preciso, mas a partir do di&aacute;logo e da troca, como tanto preconiza Paulo Freire.</p>
+<p><br />
+O processo de forma&ccedil;&atilde;o com as fam&iacute;lias envolvidas levou quatro meses, e em 02 de novembro de 2012 ocuparam a &aacute;rea da Usina Camba&iacute;ba, no munic&iacute;pio de Campos (RJ). A data n&atilde;o foi escolhida aleatoriamente, assim como a terra ocupada: Dia de Finados, em lembran&ccedil;a dos militantes de esquerda que foram incinerados nos fornos da usina durante a ditadura militar.</p>
 
-<p>&nbsp;</p>
+<p><br />
+A regi&atilde;o, tomada por monocultivos de cana, &eacute; controlada por ex&eacute;rcitos particulares de fazendeiros, os jagun&ccedil;os. &ldquo;As pequenas comunidades passam a ser controladas por essa for&ccedil;a armada&rdquo;, relata Diego. E assim aconteceu com o rec&eacute;m-surgido acampamento Lu&iacute;s Maranh&atilde;o: por bater de frente com a jagun&ccedil;agem, C&iacute;cero foi assassinado no come&ccedil;o de 2013 &ndash; e por ter sido testemunha do processo, Diego foi aconselhado a deixar a &aacute;rea, pra n&atilde;o se tornar a pr&oacute;xima v&iacute;tima.</p>
 
-<p>&nbsp;</p>
+<p><br />
+Hist&oacute;ria triste, e t&atilde;o comum na luta pela reforma agr&aacute;ria. Os respons&aacute;veis pelo assassinato ficaram impunes, por falta de provas materiais. E l&aacute; foi Diego de volta &agrave; cidade do Rio de Janeiro, pra onde esperava nunca mais ter de voltar, para contribuir na secretaria estadual do movimento. Hoje ele j&aacute; est&aacute; assentado em Maca&eacute; (RJ), e vai ter que reformar seu barraco quando for para o tempo-comunidade. &ldquo;D&aacute; &uacute;ltima vez o telhado estava tomado por feij&atilde;o e bucha, tanto que at&eacute; entrou no barraco&rdquo;, conta Diego. Muito trabalho pela frente quando voltar.</p>
 
-<p>O fazer dial&oacute;gico precisa ser experienciado no pr&oacute;prio campo da comunica&ccedil;&atilde;o, que paradoxalmente costuma ser deixado de lado nas lutas sociais e abordado de maneira instrumentalista, reproduzindo uma pr&aacute;tica midi&aacute;tica isolada em si mesma, calcada mais na propaganda que no di&aacute;logo, mais na especializa&ccedil;&atilde;o que no fazer comum.</p>
+<p><br />
+Diego viu no curso da ELAA outra proposta de educa&ccedil;&atilde;o, voltada &agrave; realidade e &agrave; transforma&ccedil;&atilde;o social. &ldquo;Al&eacute;m de ser uma vontade pessoal, a forma&ccedil;&atilde;o em agroecologia tamb&eacute;m &eacute; uma demanda da minha comunidade&rdquo;, explica. O assentamento Lu&iacute;s Maranh&atilde;o, onde vive, se organiza de acordo com um novo modelo denominado Projeto de Desenvolvimento Sustent&aacute;vel (PDS) &ndash; e cabe a Diego contribuir para a transi&ccedil;&atilde;o agroecol&oacute;gica com as fam&iacute;lias de l&aacute;.</p>
 
-<p>&nbsp;</p>
+<p><br />
+Cada educando da ELAA representa uma realidade. Yosseth Condori, boliviana de Oruro, faz parte do movimento de mulheres campesinas Bartolina Sisa, e tem a miss&atilde;o de multiplicar a agroecologia por l&aacute;. Paulo Eduardo Pinheiro, do MST da regi&atilde;o de Ribeiro Preto (SP), &eacute; filho de assentados e integra o grupo de rap Veneno H2, que existe h&aacute; mais de dez anos.</p>
 
-<p>&nbsp;</p>
+<p><br />
+Ronaldo Korczak &ndash; &ldquo;meu v&ocirc; era da Ucr&acirc;nia&rdquo;, explica ao ter que me soletrar minuciosamente seu sobrenome &ndash; tamb&eacute;m foi criado no movimento, &ldquo;debaixo de lona preta&rdquo;. Morador da regi&atilde;o de Campo Mour&atilde;o (PR), ele conta que, quando chegou &agrave; cidade, &ldquo;o povo fechava as portas das lojas achando que a gente ia roubar&rdquo;. Mais uma barreira enfrentada pelos sem terra: o preconceito.</p>
 
-<p>O projeto Vida Boa, com suas limita&ccedil;&otilde;es, assume esse desafio &ndash; assim como o Projeto Flora &ndash; Reflorestando a Reforma Agr&aacute;ria, uma iniciativa do Instituto Contestado que tem um olhar todo especial para a comunica&ccedil;&atilde;o &ndash; enquanto parte constitutiva do projeto, e n&atilde;o apenas acess&oacute;rio de divulga&ccedil;&atilde;o. No artigo Comunica&ccedil;&atilde;o tem gosto? Integrantes do projeto discutem essa apropria&ccedil;&atilde;o a partir do questionamento do termo p&uacute;blico-alvo &ndash; e a pr&oacute;pria comunica&ccedil;&atilde;o se torna o alvo de reflex&atilde;o.</p>
+<p><br />
+Sua fam&iacute;lia foi assentada quando ele tinha 15 anos, depois de passarem por muito barraco de lona e experi&ecirc;ncias comunit&aacute;rias &agrave;s quais n&atilde;o se adaptaram. Enquanto ele estuda na ELAA, seu irm&atilde;o se formou como t&eacute;cnico agr&iacute;cola na Escola Milton Santos, em Maring&aacute; (PR).</p>
 
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>Falamos tanto de Paulo Freire, de di&aacute;logo na escola e no campo, mas por que esse debate &eacute; alijado da comunica&ccedil;&atilde;o? &Eacute; preciso reconhecer a comunica&ccedil;&atilde;o popular e participativa como processo inerente aos movimentos sociais, como metodologia do fazer comum &ndash; e, em contraposi&ccedil;&atilde;o &agrave; monocultura da m&iacute;dia de massa, criar nossa pr&oacute;pria comunica&ccedil;&atilde;o, talvez ecol&oacute;gica.</p>
-
-<p>&nbsp;</p>
-
-<p>Assistimos ao document&aacute;rio Levante Sua Voz, do Coletivo Intervozes, e na sequ&ecirc;ncia debatemos o porqu&ecirc; da comunica&ccedil;&atilde;o ser direito e como ele nos &eacute; negado. Assim como n&atilde;o podemos fazer agroecologia sem ter como plano de fundo o debate da reforma agr&aacute;ria, n&atilde;o podemos fazer comunica&ccedil;&atilde;o popular sem ter como plano de fundo a reforma da m&iacute;dia &ndash; ou nos restringiremos ao reformismo que n&atilde;o leva em considera&ccedil;&atilde;o quest&otilde;es estrutural.</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>Os participantes deram v&aacute;rios relatos de como a m&iacute;dia de massa criminaliza os movimentos sociais, bem como da necessidade de criarmos e fortalecermos nossos pr&oacute;prios meios para construir narrativas, divulgar experi&ecirc;ncias e disputar valores.</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>Na sequ&ecirc;ncia assistimos ao document&aacute;rio Cultura &ndash; da Universidade &agrave;s Ruas, do Coletivo Soylocoporti, um exemplo do que pode ser feito em nossas experi&ecirc;ncias locais para divulgar nossas narrativas de forma participativa e atrav&eacute;s de formatos pr&oacute;prios &ndash; a comunica&ccedil;&atilde;o como parte das lutas, n&atilde;o algo externo a elas.</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>V&aacute;rias experi&ecirc;ncias de comunica&ccedil;&atilde;o popular foram apresentadas ao longo do debate: O Candeeiro e o projeto Semi-&Aacute;rido em Tela, da ASA &ndash; Articula&ccedil;&atilde;o do Semi-&Aacute;rido Brasileiro (que &eacute; parceira do Projeto Flora); Ref&uacute;gio Zumbis, do Mato Grosso, que entre outras atividades realiza saraus e conta com uma webr&aacute;dio; projeto &Aacute;gua Boa &ndash; Sert&otilde;es, Sons e Imagens, da Para&iacute;ba; al&eacute;m de v&aacute;rias experi&ecirc;ncias de zines, lambes, panfletos e est&ecirc;ncil.</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>La&iacute;s e Hudson, do Setor de Cultura da Escola, finalizaram a atividade convidando a todos a pensar e compartilhar o que sonham para a comunica&ccedil;&atilde;o na ELAA, para que possam junto fortalecer o di&aacute;logo na escola. Agrade&ccedil;o por demais o espa&ccedil;o, a acolhida e o di&aacute;logo! E fiquei bem feliz de ver a m&iacute;dia sendo problematizada numa das m&iacute;sticas de abertura dos dias seguintes.</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>Autogest&atilde;o e multiculturalidade</p>
-
-<p>&nbsp;</p>
-
-<p>A educa&ccedil;&atilde;o na ELAA n&atilde;o &eacute; um servi&ccedil;o, mas um processo participativo. Pleno doming&atilde;o e eu pedi pra Thay me levar na cachoeirinha do assentamento. &ldquo;Depois que a gente limpar o banheiro&rdquo;, ela sugeriu. &ldquo;Mas limpar banheiro em pleno domingo?&rdquo;, contestei eu. &ldquo;U&eacute;, a Escola n&atilde;o pode parar, e a gente que gestiona ela&rdquo;, respondeu a mo&ccedil;a. Acatado. Cachoeira s&oacute; depois da limpeza.</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>Os educandos se organizam por n&uacute;cleos, equipes e setores, e tocam as demandas da escola, desde alimenta&ccedil;&atilde;o, limpeza, cultivo e gest&atilde;o. A atual turma de tecn&oacute;logos conta com 54 educandos, que vivem na ELAA durante o tempo-aula. Essa etapa, a segunda da turma (s&atilde;o seis etapas no total), come&ccedil;ou em 13 de agosto e vai at&eacute; 29 de outubro &ndash; dois meses e meio de intensa viv&ecirc;ncia coletiva, que exige muita organiza&ccedil;&atilde;o.</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>Banheiros limpos, fomos &agrave; cachoeirinha &ndash; eu, Thayana Fiel, que mora em Pelotas e integra o Levante Popular da Juventude, e Diego Splinter, que me contou um pouco de sua hist&oacute;ria no caminho. Ele estudava Geografia na Universidade Federal Fluminense, mas deixou o curso por n&atilde;o se identificar com &ldquo;o ensino formal descolado da realidade&rdquo;. Mas foi por meio da universidade que ingressou no movimento estudantil e veio a conhecer de perto o MST. Depois de flertar algum tempo com o movimento, incentivado pelo seu amigo C&iacute;cero Guedes, uma lideran&ccedil;a da regi&atilde;o, partiu para sua primeira ocupa&ccedil;&atilde;o.</p>
-
-<p>&nbsp;</p>
-
-<p><em>Diego e sua intensa hist&oacute;ria no movimento</em></p>
-
-<p>&nbsp;</p>
-
-<p>O processo de forma&ccedil;&atilde;o com as fam&iacute;lias envolvidas levou quatro meses, e em 02 de novembro de 2012 ocuparam a &aacute;rea da Usina Camba&iacute;ba, no munic&iacute;pio de Campos (RJ). A data n&atilde;o foi escolhida aleatoriamente, assim como a terra ocupada: Dia de Finados, em lembran&ccedil;a dos militantes de esquerda que foram incinerados nos fornos da usina durante a ditadura militar.</p>
-
-<p>&nbsp;</p>
-
-<p>A regi&atilde;o, tomada por monocultivos de cana, &eacute; controlada por ex&eacute;rcitos particulares de fazendeiros, os jagun&ccedil;os. &ldquo;As pequenas comunidades passam a ser controladas por essa for&ccedil;a armada&rdquo;, relata Diego. E assim aconteceu com o rec&eacute;m-surgido acampamento Lu&iacute;s Maranh&atilde;o: por bater de frente com a jagun&ccedil;agem, C&iacute;cero foi assassinado no come&ccedil;o de 2013 &ndash; e por ter sido testemunha do processo, Diego foi aconselhado a deixar a &aacute;rea, pra n&atilde;o se tornar a pr&oacute;xima v&iacute;tima.</p>
-
-<p>&nbsp;</p>
-
-<p>Hist&oacute;ria triste, e t&atilde;o comum na luta pela reforma agr&aacute;ria. Os respons&aacute;veis pelo assassinato ficaram impunes, por falta de provas materiais. E l&aacute; foi Diego de volta &agrave; cidade do Rio de Janeiro, pra onde esperava nunca mais ter de voltar, para contribuir na secretaria estadual do movimento. Hoje ele j&aacute; est&aacute; assentado em Maca&eacute; (RJ), e vai ter que reformar seu barraco quando for para o tempo-comunidade. &ldquo;D&aacute; &uacute;ltima vez o telhado estava tomado por feij&atilde;o e bucha, tanto que at&eacute; entrou no barraco&rdquo;, conta Diego. Muito trabalho pela frente quando voltar.</p>
-
-<p>&nbsp;</p>
-
-<p>Diego viu no curso da ELAA outra proposta de educa&ccedil;&atilde;o, voltada &agrave; realidade e &agrave; transforma&ccedil;&atilde;o social. &ldquo;Al&eacute;m de ser uma vontade pessoal, a forma&ccedil;&atilde;o em agroecologia tamb&eacute;m &eacute; uma demanda da minha comunidade&rdquo;, explica. O assentamento Lu&iacute;s Maranh&atilde;o, onde vive, se organiza de acordo com um novo modelo denominado Projeto de Desenvolvimento Sustent&aacute;vel (PDS) &ndash; e cabe a Diego contribuir para a transi&ccedil;&atilde;o agroecol&oacute;gica com as fam&iacute;lias de l&aacute;.</p>
-
-<p>&nbsp;</p>
-
-<p>Cada educando da ELAA representa uma realidade. Yosseth Condori, boliviana de Oruro, faz parte do movimento de mulheres campesinas Bartolina Sisa, e tem a miss&atilde;o de multiplicar a agroecologia por l&aacute;. Paulo Eduardo Pinheiro, do MST da regi&atilde;o de Ribeiro Preto (SP), &eacute; filho de assentados e integra o grupo de rap Veneno H2, que existe h&aacute; mais de dez anos.</p>
-
-<p>&nbsp;</p>
-
-<p>Ronaldo Korczak &ndash; &ldquo;meu v&ocirc; era da Ucr&acirc;nia&rdquo;, explica ao ter que me soletrar minuciosamente seu sobrenome &ndash; tamb&eacute;m foi criado no movimento, &ldquo;debaixo de lona preta&rdquo;. Morador da regi&atilde;o de Campo Mour&atilde;o (PR), ele conta que, quando chegou &agrave; cidade, &ldquo;o povo fechava as portas das lojas achando que a gente ia roubar&rdquo;. Mais uma barreira enfrentada pelos sem terra: o preconceito.</p>
-
-<p>&nbsp;</p>
-
-<p>Sua fam&iacute;lia foi assentada quando ele tinha 15 anos, depois de passarem por muito barraco de lona e experi&ecirc;ncias comunit&aacute;rias &agrave;s quais n&atilde;o se adaptaram. Enquanto ele estuda na ELAA, seu irm&atilde;o se formou como t&eacute;cnico agr&iacute;cola na Escola Milton Santos, em Maring&aacute; (PR).</p>
-
-<p>&nbsp;</p>
-
-<p>&Eacute; do interc&acirc;mbio dessas hist&oacute;rias de vida que se constr&oacute;i a ELAA: um amplo di&aacute;logo de saberes que tem como base a transforma&ccedil;&atilde;o social e a agroecologia. Pois como j&aacute; dizia Bertolt Brecht, &ldquo;apenas quando somos instru&iacute;dos pela realidade &eacute; que podemos mud&aacute;-la&rdquo;.</p>
+<p><br />
+&Eacute; do interc&acirc;mbio dessas hist&oacute;rias de vida que se constr&oacute;i a ELAA: um amplo di&aacute;logo de saberes que tem como base a transforma&ccedil;&atilde;o social e a agroecologia. Pois como j&aacute; dizia Bertolt Brecht, &ldquo;apenas quando somos instru&iacute;dos pela realidade &eacute; que podemos mud&aacute;-la&rdquo;.</p>
