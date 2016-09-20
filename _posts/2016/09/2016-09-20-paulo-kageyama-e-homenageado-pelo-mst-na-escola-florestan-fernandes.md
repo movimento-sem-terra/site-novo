@@ -5,7 +5,7 @@ tags:
   - tag: paulo-kageyama
   - tag: enff
 title: Paulo Kageyama é homenageado pelo MST na Escola Florestan Fernandes
-support_line: "Falecido em maior deste ano, kageyama deixou um enorme legado no debate sobre a agroecologia e a biodiversidade para o povo brasileiro"
+support_line: "Falecido em maio deste ano, kageyama deixou um enorme legado no debate sobre a agroecologia e a biodiversidade para o povo brasileiro"
 menu: reforma agrária
 images_hd: //farm9.staticflickr.com/8110/29731480011_c8eac7b210_b.jpg
 layout: post
