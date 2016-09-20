@@ -55,6 +55,7 @@ releated_posts:
   - _posts/2016/06/2016-06-22-no-parana-assentamento-8-de-abril-completa-19-anos.md
   - _posts/2016/08/2016-08-02-jornada-de-agroecologia-reafirma-necessidade-de-construir-espacos-de-resistencia-e-autonomia-frente-ao-capital.md
   - _posts/2016/06/2016-06-09-sem-terra-monta-acampamento-no-incra-do-parana.md
+section: featured-news
 
 ---
 <p>&nbsp;</p>
