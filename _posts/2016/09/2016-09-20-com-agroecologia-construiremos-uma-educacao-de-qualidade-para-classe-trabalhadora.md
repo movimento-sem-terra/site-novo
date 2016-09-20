@@ -57,7 +57,7 @@ O Encontro trouxe como lema &ldquo;Educa&ccedil;&atilde;o do Campo: por uma esco
 Jozenilza Figueiredo, do coletivo estadual de educa&ccedil;&atilde;o, acredita que a agroecologia tem sido um debate importante a n&iacute;vel nacional dentro do MST, por ser mais um instrumento de luta que comp&otilde;e a Reforma Agr&aacute;ria Popular e que traz em sua centralidade a alimenta&ccedil;&atilde;o saud&aacute;vel.</p>
 
 <p><br />
-&ldquo;Esse debate precisa ser apropriado por n&oacute;s enquanto educadores e educadoras do Movimento, j&aacute; que entendemos a escola como um espa&ccedil;o central para expandi-lo. &Eacute; nesse intuito que o Movimento juntamente com o setor de produ&ccedil;&atilde;o, de sa&uacute;de e demais setores, trazemos esse debate &agrave; tona&rdquo;, explicou.</p>
+&ldquo;Esse debate precisa ser apropriado por n&oacute;s enquanto educadores e educadoras do Movimento, j&aacute; que entendemos a escola como um espa&ccedil;o central para expandi-lo. &Eacute; nesse intuito que o Movimento juntamente com os setores de produ&ccedil;&atilde;o, de sa&uacute;de e os demais traz esse debate &agrave; tona&rdquo;, explicou.</p>
 
 <figure class="image" style="float:left"><img alt="IMG_5443.jpg" height="267" src="//farm9.staticflickr.com/8351/29734737891_ffee315b87_b.jpg" width="400" />
 <figcaption></figcaption>
