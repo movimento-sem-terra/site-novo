@@ -83,33 +83,24 @@ Simone Aparecida Rezende, da coordena&ccedil;&atilde;o pedag&oacute;gica do MST,
 <p><br />
 A Escola funciona no sistema de altern&acirc;ncia &ndash; o que significa que o estudante passa um per&iacute;odo em sua comunidade e outro per&iacute;odo na Escola, para que possa experienciar o conhecimento adquirido junto com sua comunidade e para que os cursos atendam &agrave; demanda de v&aacute;rias regi&otilde;es. Sendo assim, os cursos na ELAA s&atilde;o intensivos e os educandos moram na escola durante o per&iacute;odo de aulas &ndash; por isso a ELAA conta com estrutura de refeit&oacute;rio e alojamento.</p>
 
-<p>&nbsp;</p>
+<figure class="image" style="float:left"><img alt="unnamed1.jpg" height="602" src="//farm9.staticflickr.com/8152/29702877472_95af5036ff_b.jpg" width="400" />
+<figcaption><em>Aula no casar&atilde;o, com a arte deixada pelo pessoal da m&iacute;stica no ch&atilde;o:<br />
+Latinoam&eacute;rica unida.</em></figcaption>
+</figure>
 
-<p>&nbsp;ELAA &eacute; uma proposta que surge da Via Campesina, uma articula&ccedil;&atilde;o mundial de movimentos camponeses, em 2005 no F&oacute;rum Social Mundial em Porto Alegre e regi&atilde;o, quando Hugo Ch&aacute;vez esteve presente. O projeto abarcava duas escolas, uma no Brasil e outra na Venezuela, que tamb&eacute;m se consolidou &ndash; &eacute; a IALA (Instituto de Agroecologia Latino-Americano) Paulo Freire. Existem outros IALAs: o Guarani no Paraguai, um no Chile voltado para as mulheres e outro na Col&ocirc;mbia, inaugurado esse ano &ndash; al&eacute;m de experi&ecirc;ncias no Equador, Guatemala e Argentina.</p>
+<p><br />
+A ELAA &eacute; uma proposta que surge da Via Campesina, uma articula&ccedil;&atilde;o mundial de movimentos camponeses, em 2005 no F&oacute;rum Social Mundial em Porto Alegre e regi&atilde;o, quando Hugo Ch&aacute;vez esteve presente. O projeto abarcava duas escolas, uma no Brasil e outra na Venezuela, que tamb&eacute;m se consolidou &ndash; &eacute; a IALA (Instituto de Agroecologia Latino-Americano) Paulo Freire. Existem outros IALAs: o Guarani no Paraguai, um no Chile voltado para as mulheres e outro na Col&ocirc;mbia, inaugurado esse ano &ndash; al&eacute;m de experi&ecirc;ncias no Equador, Guatemala e Argentina.</p>
 
-<p>&nbsp;</p>
+<p><br />
+<strong>Metodologia: di&aacute;logo de saberes</strong></p>
 
-<p>&nbsp;</p>
+<p><br />
+Al&eacute;m de coordenar a ELAA, Simone &eacute; professora de Di&aacute;logo de Saberes no Encontro de Culturas, que &eacute; a metodologia que guia a din&acirc;mica da Escola. A partir de Paulo Freire, entende-se que &ldquo;educar e educar-se, na pr&aacute;tica da liberdade, &eacute; tarefa daqueles que sabem que poucos sabem &ndash; por isto sabem que sabem algo e podem assim chegar, a saber mais &ndash; em di&aacute;logo com aqueles que, quase sempre, pensam que nada sabem, para que estes, transformando seu pensar que nada sabem em saber que pouco sabem, possam igualmente saber mais&rdquo;.</p>
 
-<p>Metodologia: di&aacute;logo de saberes</p>
+<p><br />
+Esse &eacute; um trecho de Extens&atilde;o ou Comunica&ccedil;&atilde;o, em que Freire discute o papel do extensionista, ou seja, do t&eacute;cnico agr&ocirc;nomo que atua diretamente com os camponeses, e come&ccedil;a questionando o termo extens&atilde;o. Afinal, trata-se de estender um conhecimento t&eacute;cnico dado, desde algu&eacute;m que sabe para algu&eacute;m que n&atilde;o sabe, ou, a partir do di&aacute;logo entre sujeitos, trocar saberes para que se possa transformar a realidade, considerando as rela&ccedil;&otilde;es que a permeiam?</p>
 
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>Al&eacute;m de coordenar a ELAA, Simone &eacute; professora de Di&aacute;logo de Saberes no Encontro de Culturas, que &eacute; a metodologia que guia a din&acirc;mica da Escola. A partir de Paulo Freire, entende-se que &ldquo;educar e educar-se, na pr&aacute;tica da liberdade, &eacute; tarefa daqueles que sabem que poucos sabem &ndash; por isto sabem que sabem algo e podem assim chegar, a saber mais &ndash; em di&aacute;logo com aqueles que, quase sempre, pensam que nada sabem, para que estes, transformando seu pensar que nada sabem em saber que pouco sabem, possam igualmente saber mais&rdquo;.</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>Esse &eacute; um trecho de Extens&atilde;o ou Comunica&ccedil;&atilde;o, em que Freire discute o papel do extensionista, ou seja, do t&eacute;cnico agr&ocirc;nomo que atua diretamente com os camponeses, e come&ccedil;a questionando o termo extens&atilde;o. Afinal, trata-se de estender um conhecimento t&eacute;cnico dado, desde algu&eacute;m que sabe para algu&eacute;m que n&atilde;o sabe, ou, a partir do di&aacute;logo entre sujeitos, trocar saberes para que se possa transformar a realidade, considerando as rela&ccedil;&otilde;es que a permeiam?</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>O famoso educador brasileiro, alvo do projeto Escola Sem Partido, prop&otilde;e que a t&eacute;cnica nunca &eacute; neutra, e que insistir na extens&atilde;o &eacute; reproduzir rela&ccedil;&otilde;es de poder que anulam os sujeitos a partir de interesses dados &ndash; no caso, disseminar um determinado modelo agr&iacute;cola, o agroneg&oacute;cio. Por isso ele aponta para a comunica&ccedil;&atilde;o como metodologia &ndash; tanto no campo quanto em sala de aula &ndash;, e na problematiza&ccedil;&atilde;o da realidade para que os sujeitos possam, criticamente, decidir.</p>
+<p>o famoso educador brasileiro, alvo do projeto Escola Sem Partido, prop&otilde;e que a t&eacute;cnica nunca &eacute; neutra, e que insistir na extens&atilde;o &eacute; reproduzir rela&ccedil;&otilde;es de poder que anulam os sujeitos a partir de interesses dados &ndash; no caso, disseminar um determinado modelo agr&iacute;cola, o agroneg&oacute;cio. Por isso ele aponta para a comunica&ccedil;&atilde;o como metodologia &ndash; tanto no campo quanto em sala de aula &ndash;, e na problematiza&ccedil;&atilde;o da realidade para que os sujeitos possam, criticamente, decidir.</p>
 
 <p>&nbsp;</p>
 
