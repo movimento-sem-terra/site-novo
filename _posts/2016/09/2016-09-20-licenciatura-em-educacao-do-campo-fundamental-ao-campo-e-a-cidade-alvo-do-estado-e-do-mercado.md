@@ -16,6 +16,12 @@ files:
     small: //farm9.staticflickr.com/8140/29192060433_9daa6e88aa_n.jpg
     title: "A professora da licenciatura na educação do campo da Unb, Mônica Molina, defende a construção de organização de resistência dos educadores aos retrocessos em curso..JPG"
     $$hashKey: 0JT
+  - link: //farm9.staticflickr.com/8526/29193135943_b3af357ba0_b.jpg
+    thumbnail: //farm9.staticflickr.com/8526/29193135943_b3af357ba0_t.jpg
+    medium: //farm9.staticflickr.com/8526/29193135943_b3af357ba0_z.jpg
+    small: //farm9.staticflickr.com/8526/29193135943_b3af357ba0_n.jpg
+    title: "A deputada federal, Erica Kokay (PT-DF), debate a conjuntura política com educandos, educadores, coordenadores de licenciaturas e movimentos populares..JPG"
+    $$hashKey: 08K
 created_date: "2016-09-20T16:02:41-03:00"
 published: true
 releated_posts:
@@ -80,6 +86,40 @@ Para construir esta vincula&ccedil;&atilde;o, a licenciatura tem como eixos cent
 
 <p><br />
 De acordo com os movimentos populares e especialistas, o ganho deste modelo educacional n&atilde;o se restringe aos sujeitos do campo. O sujeito da &aacute;rea urbana &eacute; intensamente afetado pelas pol&iacute;ticas educacionais rurais. &ldquo;A cidade n&atilde;o vive sem o campo, no que consome, na preserva&ccedil;&atilde;o dos bens naturais. As consequ&ecirc;ncias do agroneg&oacute;cio, como a destrui&ccedil;&atilde;o do meio ambiente e da produ&ccedil;&atilde;o de alimentos voltada ao mercado interno, atingem a todos&rdquo;, enfatiza M&ocirc;nica.</p>
+
+<p><br />
+<strong>Ofensiva do Executivo e Legislativo</strong></p>
+
+<p><br />
+Os participantes do Semin&aacute;rio manifestaram preocupa&ccedil;&atilde;o com as medidas adotadas e anunciadas pelo governo de Michel Temer. Eles destacam que a aprova&ccedil;&atilde;o da Proposta de Emenda Constitucional 241/2016, apresentada por Temer em maio deste ano, vulnerabiliza a forma&ccedil;&atilde;o de educadores do campo. A PEC estabelece um novo regime fiscal para gastos com sa&uacute;de e educa&ccedil;&atilde;o e congela por 20 anos os recursos destinados &agrave; estas &aacute;reas, reajustados apenas por &iacute;ndices inflacion&aacute;rios. &ldquo;O governo Temer n&atilde;o vai se pautar pelo cumprimento integral das previs&otilde;es constitucionais. Ele se pauta pelo mercado. Para o governo e o agroneg&oacute;cio a educa&ccedil;&atilde;o do campo &eacute; entrave porque por ela os sujeitos constroem sua pr&oacute;pria hist&oacute;ria&rdquo;, destaca o coordenador geral da Campanha Educa&ccedil;&atilde;o para Todos, Daniel Cara.</p>
+
+<p><br />
+O or&ccedil;amento aprovado para os cursos de licenciatura em educa&ccedil;&atilde;o do campo para 2016 foi de R$ 26 milh&otilde;es. A proposta or&ccedil;ament&aacute;ria encaminhada ao Congresso para 2017 &eacute; de R$ 11 milh&otilde;es, uma redu&ccedil;&atilde;o em mais de 50%.</p>
+
+<p>&nbsp;</p>
+
+<p><img alt="A deputada federal, Erica Kokay (PT-DF), debate a conjuntura política com educandos, educadores, coordenadores de licenciaturas e movimentos populares..JPG" height="400" src="//farm9.staticflickr.com/8526/29193135943_b3af357ba0_b.jpg" width="600" /></p>
+
+<p><br />
+Para a deputada Erica Kokay (PT), a consequente fragiliza&ccedil;&atilde;o da pol&iacute;tica educacional refor&ccedil;a o argumento de que a &aacute;rea deve ser explorada pela iniciativa privada. &ldquo;Se as pol&iacute;ticas p&uacute;blicas est&atilde;o congeladas eu abro espa&ccedil;o para a iniciativa privada. Voc&ecirc; retira a capacidade do estado em gerir uma pol&iacute;tica p&uacute;blica. O Estado n&atilde;o tem mais capacidade de sustentar. Ent&atilde;o voc&ecirc; tem a iniciativa privada que vai intervir e atuar para o que lhe d&aacute; lucro&rdquo;, argumenta. Daniel destaca o avan&ccedil;o das parcerias p&uacute;blico-privadas na gest&atilde;o da pol&iacute;tica habitacional nos munic&iacute;pios: &ldquo;Os atores internacionais perceberam que a educa&ccedil;&atilde;o no Brasil &eacute; gigante, que tem se tornado mais relevante para as pessoas, que se tornou prioridade e tem fundos volumosos&rdquo;.</p>
+
+<p><br />
+N&atilde;o apenas a redu&ccedil;&atilde;o do or&ccedil;amento deve afetar duramente a estrutura e perman&ecirc;ncia dos estudantes nos cursos de licenciatura. Os especialistas em educa&ccedil;&atilde;o no campo apontam que medidas como o Escola sem Partido (PL 193/2016), do senador Magno Malta (PR), provocar&aacute; o esvaziamento da fun&ccedil;&atilde;o de educador do campo orientado pela perspectiva de educa&ccedil;&atilde;o para transforma&ccedil;&atilde;o. O PL estabelece controle sobre os conte&uacute;dos ministrados em sala de aula. Temas como reforma agr&aacute;ria e estrutura&ccedil;&atilde;o da agricultura brasileira passariam distantes das forma&ccedil;&otilde;es. &ldquo;H&aacute; uma tentativa de homogeneizar a educa&ccedil;&atilde;o, desconsiderando as especificidades dos diferentes sujeitos e respectivas demandas educacionais&rdquo;, destaca a integrante do Fonec, Clarice dos Santos.</p>
+
+<p><br />
+Para eles h&aacute; uma a&ccedil;&atilde;o deliberada em esvaziar o campo com o fechamento das escolas rurais e fragiliza&ccedil;&atilde;o da pol&iacute;tica educacional, estendendo ao mercado a tarefa de educar e formar os trabalhadores rurais. &ldquo;Quanto mais hegem&ocirc;nico o modelo de agroneg&oacute;cio, o campo n&atilde;o precisa nem de sujeitos e nem de escolas. N&atilde;o pensa o campo como produ&ccedil;&atilde;o de alimentos, mas de lucro&rdquo;, diz M&ocirc;nica.</p>
+
+<p><br />
+<strong>Resist&ecirc;ncia e proposi&ccedil;&atilde;o</strong></p>
+
+<p><br />
+Durante o Semin&aacute;rio, em audi&ecirc;ncia p&uacute;blica na C&acirc;mara de Deputados realizada no dia 15/09, foi lan&ccedil;ada a Campanha Educa&ccedil;&atilde;o &eacute; Direito, N&atilde;o &eacute; Mercadoria. A campanha &eacute; uma a&ccedil;&atilde;o do Fonec em resist&ecirc;ncia &agrave; mercantiliza&ccedil;&atilde;o em curso da pol&iacute;tica educacional.</p>
+
+<p><br />
+Nas pr&oacute;ximas semanas, como estrat&eacute;gia para ganhar corpo e amadurecer o debate, devem ser realizados lan&ccedil;amentos da Campanha nas universidades que desenvolvem os cursos de licenciatura em educa&ccedil;&atilde;o do campo.</p>
+
+<p><br />
+&ldquo;N&oacute;s n&atilde;o estamos partindo do nada, de uma condi&ccedil;&atilde;o de desorganiza&ccedil;&atilde;o e desmobiliza&ccedil;&atilde;o social. Nestes &uacute;ltimos anos que demarcamos como per&iacute;odo que constru&iacute;mos a luta da educa&ccedil;&atilde;o no campo, fizemos num ambiente de concretiza&ccedil;&otilde;es. Se lembrarmos o ambiente em que construirmos o Pronera, em 1997, foi durante o governo de Fernando Henrique Cardoso (PSDB), per&iacute;odo de intensa repress&atilde;o social. N&oacute;s somos capazes de nos mobilizar. Eu tenho convic&ccedil;&atilde;o de que constru&iacute;mos uma sapata, fundamentos, um edif&iacute;cio s&oacute;lido de luta da educa&ccedil;&atilde;o do campo e &eacute; daqui que vamos resistir&rdquo;, enfatiza Clarice.</p>
 
 <p>&nbsp;</p>
 
