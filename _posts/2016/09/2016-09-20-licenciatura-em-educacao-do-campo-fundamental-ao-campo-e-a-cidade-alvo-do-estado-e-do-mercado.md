@@ -109,6 +109,10 @@ N&atilde;o apenas a redu&ccedil;&atilde;o do or&ccedil;amento deve afetar durame
 <p><br />
 Para eles h&aacute; uma a&ccedil;&atilde;o deliberada em esvaziar o campo com o fechamento das escolas rurais e fragiliza&ccedil;&atilde;o da pol&iacute;tica educacional, estendendo ao mercado a tarefa de educar e formar os trabalhadores rurais. &ldquo;Quanto mais hegem&ocirc;nico o modelo de agroneg&oacute;cio, o campo n&atilde;o precisa nem de sujeitos e nem de escolas. N&atilde;o pensa o campo como produ&ccedil;&atilde;o de alimentos, mas de lucro&rdquo;, diz M&ocirc;nica.</p>
 
+<p>&nbsp;</p>
+
+<p><iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/E219QtrQSbc" width="640"></iframe></p>
+
 <p><br />
 <strong>Resist&ecirc;ncia e proposi&ccedil;&atilde;o</strong></p>
 
