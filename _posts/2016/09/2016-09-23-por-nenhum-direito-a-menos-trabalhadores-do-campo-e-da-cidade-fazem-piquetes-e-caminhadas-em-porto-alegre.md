@@ -5,7 +5,7 @@ tags:
   - tag: lutas-e-mobilizações
   - tag: direitos-sociais
   - tag: defesa-de-direitos
-title: "Por nenhum direito a menos, trabalhadores do campo e da cidade fazem piquetes e caminhadas em Porto Alegre"
+title: Trabalhadores do campo e da cidade fazem piquetes e caminhadas em Porto Alegre
 support_line: "No Rio Grande do Sul, as ações foram realizadas pelas centrais sindicais e contaram com o apoio de organizações do campo, como o MST."
 menu: lutas e mobilizações
 images_hd: //farm9.staticflickr.com/8456/29878050615_1c8e3d48f1_b.jpg
@@ -38,6 +38,7 @@ releated_posts:
   - _posts/2016/09/2016-09-07-com-o-lema-fora-temer-nenhum-direito-a-menos-ato-reune-milhares-em-sp.md
 
 ---
+
 <p><img alt="IMG_5176.JPG" height="467" src="//farm9.staticflickr.com/8286/29795071231_53e217da4a_b.jpg" width="700" /></p>
 
 <p>&nbsp;</p>
