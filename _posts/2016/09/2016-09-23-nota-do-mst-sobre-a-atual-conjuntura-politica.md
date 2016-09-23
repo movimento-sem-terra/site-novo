@@ -8,7 +8,7 @@ title: Nota do MST sobre a atual conjuntura política
 menu: projeto popular
 section: cover
 images_hd: //farm6.staticflickr.com/5276/29769100772_1f54a484f3_b.jpg
-support_line: O Movimento também critica o caráter fascista da política em tempos de retrocessos como este.
+support_line: O Movimento critica o caráter fascista da política em tempos de retrocessos como este e reafirma a Frente Brasil Popular como polo de unidade entre campo e cidade.
 layout: post
 files:
   - link: //farm6.staticflickr.com/5276/29769100772_1f54a484f3_b.jpg
@@ -32,7 +32,11 @@ releated_posts: []
 
 <p>&nbsp;</p>
 
-<p>O MST lan&ccedil;ou publicamente nesta sexta-feira (23) uma nota em que analisa a conjuntura pol&iacute;tica e se posiciona na constru&ccedil;&atilde;o das lutas para superar a crise a que os capitalistas submeteram o pais. O Movimento tamb&eacute;m critica o car&aacute;ter fascista da pol&iacute;tica em tempos de retrocessos como este. &quot;Aumentam o uso da viol&ecirc;ncia e repress&atilde;o contra os movimentos populares, entidades de esquerda e democr&aacute;ticas, assim como a qualquer mobiliza&ccedil;&atilde;o que se oponha a esse projeto&quot;, afirma trecho da nota. Confira:</p>
+<p>O MST lan&ccedil;ou publicamente nesta sexta-feira (23) uma nota em que analisa a conjuntura pol&iacute;tica e se posiciona na constru&ccedil;&atilde;o das lutas para superar a crise a que os capitalistas submeteram o pais.</p>
+
+<p><br />
+O Movimento tamb&eacute;m critica o car&aacute;ter fascista da pol&iacute;tica em tempos de retrocessos como este. &quot;Aumentam o uso da viol&ecirc;ncia e repress&atilde;o contra os movimentos populares, entidades de esquerda e democr&aacute;ticas, assim como a qualquer mobiliza&ccedil;&atilde;o que se oponha a esse projeto&quot;, afirma trecho da nota. Confira:<br />
+&nbsp;</p>
 
 <p style="text-align: center;"><br />
 <strong>NOTA DO MST SOBRE A CONJUNTURA POL&Iacute;TICA </strong></p>
