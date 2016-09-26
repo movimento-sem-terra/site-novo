@@ -7,21 +7,21 @@ tags:
 title: "MST presta solidariedade ao senador Lindbergh Farias e a Maria Antônia, sua companheira"
 support_line: "A lição do companheiro professor Florestan Fernandes nos orienta e nos anima neste momento de resistência: \"Não se deixar esmagar, não se deixar cooptar, lutar sempre!\""
 menu: lutas e mobilizações
-images_hd: //farm6.staticflickr.com/5725/29915151626_a8825a80b8_b.jpg
+images_hd: //farm9.staticflickr.com/8479/29323050633_c37dd26d08_b.jpg
 layout: post
 files:
-  - link: //farm6.staticflickr.com/5725/29915151626_a8825a80b8_b.jpg
-    thumbnail: //farm6.staticflickr.com/5725/29915151626_a8825a80b8_t.jpg
-    medium: //farm6.staticflickr.com/5725/29915151626_a8825a80b8_z.jpg
-    small: //farm6.staticflickr.com/5725/29915151626_a8825a80b8_n.jpg
-    title: download.jpg
-    $$hashKey: 13V
   - link: //farm9.staticflickr.com/8115/29835276022_0fac4e9acd_b.jpg
     thumbnail: //farm9.staticflickr.com/8115/29835276022_0fac4e9acd_t.jpg
     medium: //farm9.staticflickr.com/8115/29835276022_0fac4e9acd_z.jpg
     small: //farm9.staticflickr.com/8115/29835276022_0fac4e9acd_n.jpg
     title: lindberg.jpg
     $$hashKey: 13Y
+  - link: //farm9.staticflickr.com/8479/29323050633_c37dd26d08_b.jpg
+    thumbnail: //farm9.staticflickr.com/8479/29323050633_c37dd26d08_t.jpg
+    medium: //farm9.staticflickr.com/8479/29323050633_c37dd26d08_z.jpg
+    small: //farm9.staticflickr.com/8479/29323050633_c37dd26d08_n.jpg
+    title: imagem_materia.jpg
+    $$hashKey: 0GC
 created_date: "2016-09-26T17:04:47-03:00"
 published: true
 releated_posts:
