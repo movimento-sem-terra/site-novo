@@ -7,7 +7,7 @@ tags:
 images_hd: //farm9.staticflickr.com/8503/29317178333_14e609f1c6_b.jpg
 support_line: A grade de estudos e práticas foi construída por diversos movimentos populares que se propuseram ao desafio de multiplicar ideias e experiências geradas a partir do pensamento brasileiro
 menu: "educação, cultura e comunicação"
-title: "MST realiza atividade de formação em Fortaleza "
+title: "No Ceará, Escola Florestan Fernandes Nordeste recebe curso de Realidade Brasileira "
 layout: post
 files:
   - link: //farm9.staticflickr.com/8503/29317178333_14e609f1c6_b.jpg
