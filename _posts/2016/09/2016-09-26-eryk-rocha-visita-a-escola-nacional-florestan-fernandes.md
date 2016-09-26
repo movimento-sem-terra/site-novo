@@ -50,7 +50,9 @@ Na ocasi&atilde;o, Rocha falou sobre o longa &ldquo;Campo de Jogo&rdquo;, dirigi
 
 <p>&nbsp;</p>
 
-<p>Durante a atividade na ENFF temas gerais relacionados &agrave; m&iacute;dia e democratiza&ccedil;&atilde;o foram abordados por Rocha.&nbsp;<br />
+<p>Durante a atividade na ENFF temas gerais relacionados &agrave; m&iacute;dia e democratiza&ccedil;&atilde;o foram abordados por Rocha.&nbsp;</p>
+
+<p><br />
 Os educandos presentes na atividade fizeram questionamentos relacionados ao filme e ao padr&atilde;o hegem&ocirc;nico em que os meios de comunica&ccedil;&atilde;o se encaixam na sociedade burguesa.&nbsp;</p>
 
 <p><br />
@@ -60,7 +62,7 @@ O cineasta declarou seu apoio a luta do MST e se colocou &agrave; disposi&ccedil
 <strong>Cannes</strong></p>
 
 <p><br />
-O document&aacute;rio &ldquo;Cinema Novo&rdquo;, de Eryk Rocha, sobre o movimento cinematogr&aacute;fico nascido no Brasil que revolucionou a cria&ccedil;&atilde;o art&iacute;ticas nos anos 1960 e 1970, ganhou em maio deste ano o &ldquo;Olho de Ouro&rdquo; do Festival de</p>
+O document&aacute;rio &ldquo;Cinema Novo&rdquo;, de Eryk Rocha, sobre o movimento cinematogr&aacute;fico nascido no Brasil que revolucionou a cria&ccedil;&atilde;o art&iacute;ticas nos anos 1960 e 1970, ganhou em maio deste ano o &ldquo;Olho de Ouro&rdquo; do Festival de Cannes.</p>
 
 <p>&nbsp;</p>
 
