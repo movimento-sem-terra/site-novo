@@ -6,7 +6,7 @@ tags:
   - tag: agronegócio
 title: "Campanha em Defesa do Cerrado será lançada nesta terça-feira, em Brasília"
 support_line: "Um dos objetivos da campanha é pautar e conscientizar a sociedade, em nível nacional e internacional, sobre a importância do Cerrado e os impactos dos grandes projetos do agronegócio"
-images_hd: //farm9.staticflickr.com/8139/29835018452_c6c508454c_b.jpg
+images_hd: //farm9.staticflickr.com/8494/29655560170_ae104cc32f_b.jpg
 menu: lutas e mobilizações
 layout: post
 files:
@@ -16,6 +16,12 @@ files:
     small: //farm9.staticflickr.com/8139/29835018452_c6c508454c_n.jpg
     title: unnamed (1).png
     $$hashKey: 0UQ
+  - link: //farm9.staticflickr.com/8494/29655560170_ae104cc32f_b.jpg
+    thumbnail: //farm9.staticflickr.com/8494/29655560170_ae104cc32f_t.jpg
+    medium: //farm9.staticflickr.com/8494/29655560170_ae104cc32f_z.jpg
+    small: //farm9.staticflickr.com/8494/29655560170_ae104cc32f_n.jpg
+    title: fauna-e-flora-do-cerrado-15.jpg
+    $$hashKey: 04X
 created_date: "2016-09-26T16:52:31-03:00"
 published: true
 releated_posts:
