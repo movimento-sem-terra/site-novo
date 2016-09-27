@@ -4,7 +4,7 @@ tags:
   - tag: despejo
   - tag: violência-no-campo
   - tag: rondonia
-title: Famílias de acampamento do MST sofrem despejo ilegal por pistoleiros em Rondônia
+title: Acampamento do MST sofre despejo ilegal por pistoleiros em Rondônia
 support_line: "Foi utilizado aparato bélico pesado, com armas automáticas e de grosso calibre."
 menu: direitos humanos
 section: cover
