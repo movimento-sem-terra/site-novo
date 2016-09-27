@@ -55,16 +55,15 @@ A raiz hist&oacute;rica desse comportamento est&aacute; no car&aacute;ter antide
 
 <p>&nbsp;</p>
 
-<p>Abaixo a nota divulgada pelo senado em seu perfil oficial&nbsp;</p>
-
-<p><br />
-<img alt="lindberg.jpg" src="//farm9.staticflickr.com/8115/29835276022_0fac4e9acd_b.jpg" /></p>
-
-<p><br />
-&nbsp;</p>
-
-<p><br />
-Saudamos Lindbergh e Maria Ant&ocirc;nia por enfrentar esse ataque de cabe&ccedil;a erguida e n&atilde;o se intimidar com essas agress&otilde;es.&nbsp;</p>
+<p>Saudamos Lindbergh e Maria Ant&ocirc;nia por enfrentar esse ataque de cabe&ccedil;a erguida e n&atilde;o se intimidar com essas agress&otilde;es.&nbsp;</p>
 
 <p><br />
 A li&ccedil;&atilde;o do companheiro professor Florestan Fernandes nos orienta e nos anima neste momento de resist&ecirc;ncia: &quot;N&atilde;o se deixar esmagar, n&atilde;o se deixar cooptar, lutar sempre!&quot;.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Abaixo a nota divulgada pelo senado em seu perfil oficial&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><img alt="lindberg.jpg" src="//farm9.staticflickr.com/8115/29835276022_0fac4e9acd_b.jpg" /></p>
