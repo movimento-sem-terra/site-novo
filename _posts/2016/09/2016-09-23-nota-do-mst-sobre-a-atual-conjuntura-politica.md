@@ -6,7 +6,7 @@ tags:
   - tag: fora-temer
 title: Nota do MST sobre a atual conjuntura política
 menu: projeto popular
-section: cover
+section: featured-news
 images_hd: //farm6.staticflickr.com/5276/29769100772_1f54a484f3_b.jpg
 support_line: O Movimento critica o caráter fascista da política em tempos de retrocessos como este e reafirma a Frente Brasil Popular como polo de unidade entre campo e cidade.
 layout: post
