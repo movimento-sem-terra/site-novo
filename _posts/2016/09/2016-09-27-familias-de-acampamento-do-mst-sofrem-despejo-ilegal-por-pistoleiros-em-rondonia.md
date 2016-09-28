@@ -30,8 +30,7 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p><em>Por Francisco Kelvim<br />
-*Especial para P&aacute;gina do MST</em></p>
+<p><em>*Especial para P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
@@ -82,9 +81,5 @@ Ambos os casos poderiam ter sido evitados, mas n&atilde;o houve agilidade e efic
 <p>&nbsp;</p>
 
 <p><iframe frameborder="0" height="650" src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1cpRcRXeGerftmQJ2VNGLBcVXqNekVAQYJHopJlJO19I&amp;font=Default&amp;lang=pt-br&amp;timenav_position=top&amp;initial_zoom=2&amp;height=650" width="100%"></iframe></p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
 
 <p><em>*Editado por Rafael Soriano</em></p>
