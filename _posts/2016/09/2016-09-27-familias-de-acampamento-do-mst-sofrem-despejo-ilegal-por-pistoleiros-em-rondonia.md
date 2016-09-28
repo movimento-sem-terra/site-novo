@@ -28,8 +28,6 @@ releated_posts:
 ---
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
-
 <p><em>*Especial para P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
