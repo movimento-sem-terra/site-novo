@@ -90,4 +90,4 @@ O INCRA, ainda durante o Governo Dilma, chegou a contestar por tr&ecirc;s vezes 
 No entanto, os ventos mudaram ap&oacute;s o golpe de Estado: no &uacute;ltimo dia 21 de setembro, o TCU suspendeu por 120 dias o bloqueio de 400 mil fam&iacute;lias benefici&aacute;rias, o que mostra uma condescend&ecirc;ncia do &oacute;rg&atilde;o com o novo governo. Ficaram de fora os casos que envolvem jovens e idosos, pessoas consideradas sem bons antecedentes, pessoas que apresentam &ldquo;sinais exteriores de riqueza&rdquo;, dentre outros.</p>
 
 <p><br />
-<em>*Mayr&aacute; Lima &eacute; doutoranda em&nbsp;Ci&ecirc;ncia&nbsp;Pol&iacute;tica&nbsp;pela Universidade Federal de Bras&iacute;lia (UNB)</em></p>
+<em>*Mayr&aacute; Lima &eacute; doutoranda em&nbsp;Ci&ecirc;ncia&nbsp;Pol&iacute;tica&nbsp;pela Universidade&nbsp;de Bras&iacute;lia (UNB)</em></p>
