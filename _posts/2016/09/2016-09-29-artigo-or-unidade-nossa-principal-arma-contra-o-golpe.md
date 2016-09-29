@@ -4,7 +4,7 @@ tags:
   - tag: golpe
   - tag: fora-temer
   - tag: lutas-e-mobilizações
-title: "Artigo | Unidade: nossa principal arma contra o golpe"
+title: "Unidade: nossa principal arma contra o golpe"
 support_line: "O papel de uma Frente não é de apenas somar as forças existentes, mas multiplicar sua capacidade de ação"
 images_hd: //farm6.staticflickr.com/5130/29380269794_efe0ec7c36_b.jpg
 menu: lutas e mobilizações
@@ -28,6 +28,7 @@ releated_posts:
   - _posts/2016/08/2016-08-29-organizacoes-de-trabalhadores-meio-ambiente-direitos-humanos-e-mulheres-dos-eua-denunciam-o-golpe.md
   - _posts/2016/08/2016-08-31-carta-da-frente-brasil-popular-a-dilma-rousseff.md
   - _posts/2016/09/2016-09-01-apos-impeachment-e-posse-senadores-aprovam-mp-do-setor-agricola.md
+label: articles
 
 ---
 <figure class="image"><img alt="29856835642_f91f3391fe_z.jpg" src="//farm6.staticflickr.com/5130/29380269794_efe0ec7c36_b.jpg" />
