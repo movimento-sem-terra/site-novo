@@ -83,7 +83,11 @@ Em 1989 um dos fazendeiros sugeriu um acordo de troca. Ele daria quatro alqueire
 <p><br />
 Foram quase 30 anos na luta pela posse da &aacute;rea. A fam&iacute;lia se emociona ao lembrar os anos de sofrimento. &ldquo;A proposta dele era acabar com n&oacute;s, mas gra&ccedil;as a Deus estamos todos vivos. Eu rezava muito, acho que eu s&oacute; venci aquela batalha a custa de sofrimento e f&eacute; em Deus&rdquo;, relembra Dona Rosa.</p>
 
-<p><img alt="Foto Geani Paula (1).jpg" height="271" src="//farm8.staticflickr.com/7514/30025104605_3d8a6229fd_b.jpg" style="float:left" width="450" /><br />
+<figure class="image" style="float:left"><img alt="Foto Geani Paula (1).jpg" height="271" src="//farm8.staticflickr.com/7514/30025104605_3d8a6229fd_b.jpg" width="450" />
+<figcaption></figcaption>
+</figure>
+
+<p><br />
 <strong>Continuidade da Luta pela Terra</strong></p>
 
 <p><br />
