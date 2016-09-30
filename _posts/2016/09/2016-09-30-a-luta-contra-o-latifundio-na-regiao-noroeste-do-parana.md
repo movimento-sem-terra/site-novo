@@ -46,7 +46,8 @@ releated_posts:
 </figure>
 </div>
 
-<p><em>Por Geani Paula<br />
+<p><br />
+<em>Por Geani Paula<br />
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
