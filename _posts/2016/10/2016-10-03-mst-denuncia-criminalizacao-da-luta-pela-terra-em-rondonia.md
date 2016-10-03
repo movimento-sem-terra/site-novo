@@ -33,7 +33,7 @@ releated_posts:
 Nesta segunda-feira (03), O MST divulgou nota de esclarecimentos referente &agrave; luta pela terra por Rond&ocirc;nia, em que alguns grupos &ldquo;isolados&rdquo; e &ldquo;independentes&rdquo;, de forma recorrente, em muitas das ocupa&ccedil;&otilde;es de terras organizadas por eles, tem usado a bandeira do MST, ainda que n&atilde;o o Movimento n&atilde;o comungue dos mesmos objetivos e princ&iacute;pios no que se refere &agrave; luta pela terra.</p>
 
 <p><br />
-De acordo a nota, tal fato tem sido utilizado amplamente, por pessoas e meios de comunica&ccedil;&atilde;o, para veicular negativamente a imagem do MST, refor&ccedil;ando sua criminaliza&ccedil;&atilde;o.</p>
+De acordo a nota, tal fato tem sido utilizado amplamente, por pessoas e meios de comunica&ccedil;&atilde;o, para veicular negativamente a imagem do MST, refor&ccedil;ando a criminaliza&ccedil;&atilde;o.</p>
 
 <p><br />
 &ldquo;Respeitamos todas as fam&iacute;lias que fazem a luta pelo direito a terra por precisarem dela para viver e reafirmamos que os conflitos resultam da omiss&atilde;o do Estado brasileiro que financia um modelo de concentra&ccedil;&atilde;o de terras nas m&atilde;os de poucos&rdquo;, salienta trecho da nota.</p>
