@@ -24,6 +24,7 @@ releated_posts:
   - _posts/2016/09/2016-09-20-acordo-de-paz-com-as-farc-ep-colocara-em-debate-a-reforma-agraria.md
   - _posts/2016/09/2016-09-27-latifundio-de-dez-mil-hectares-e-ocupado-no-vale-do-rio-doce.md
   - _posts/2016/09/2016-09-26-o-papel-da-reforma-agraria-popular-no-brasil.md
+section: featured-news
 
 ---
 <p>&nbsp;</p>
