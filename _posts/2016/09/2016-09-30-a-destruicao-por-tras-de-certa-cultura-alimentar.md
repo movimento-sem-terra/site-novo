@@ -23,6 +23,7 @@ releated_posts:
   - _posts/2016/08/2016-08-05-idec-brasil-importa-frutas-com-agrotoxicos-ilegais.md
   - _posts/2016/08/2016-08-22-brasil-paraiso-dos-agrotoxicos.md
   - _posts/2016/08/2016-08-29-livres-de-impostos-agrotoxicos-seguem-causando-cancer-malformacoes-e-mortes.md
+label: articles
 
 ---
 <p>&nbsp;</p>
