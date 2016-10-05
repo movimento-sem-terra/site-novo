@@ -29,6 +29,7 @@ releated_posts:
   - _posts/2016/02/2016-02-03-uniao-europeia-revoga-patente-de-melao-da-monsanto.md
   - _posts/2016/02/2016-02-10-monsanto-pagara-multa-de-ususd-800-milhoes-para-governo-dos-eua.md
   - _posts/2016/05/2016-05-12-o-glifosato-e-o-maior-escandalo-sanitario-da-historia-diz-documentarista.md
+section: featured-news
 
 ---
 <p>&nbsp;</p>
