@@ -9,7 +9,7 @@ title: Reintegração de posse deixa trabalhadores rurais feridos
 section: cover
 menu: direitos humanos
 images_hd: //farm6.staticflickr.com/5675/30054183691_f900422654_b.jpg
-support_line: "Mesmo sem reação nenhuma, foram efetuados disparos com bala de borracha, deixando feridos alguns acampados."
+support_line: "Mesmo sem reação nenhuma, foram efetuados disparos com bala de borracha, deixando feridos alguns acampados no interior de Pernambuco."
 layout: post
 files:
   - link: //farm6.staticflickr.com/5675/30054183691_f900422654_b.jpg
