@@ -30,6 +30,7 @@ releated_posts:
   - _posts/2016/08/2016-08-05-idec-brasil-importa-frutas-com-agrotoxicos-ilegais.md
   - _posts/2016/08/2016-08-22-brasil-paraiso-dos-agrotoxicos.md
   - _posts/2016/08/2016-08-29-livres-de-impostos-agrotoxicos-seguem-causando-cancer-malformacoes-e-mortes.md
+label: interviews
 
 ---
 <p style="text-align:center"><img alt="IRRIGA~1.png" height="500" src="//farm6.staticflickr.com/5309/29528801844_a55992b91f_b.jpg" width="700" /></p>
@@ -155,10 +156,12 @@ Do ponto de vista das pol&iacute;ticas p&uacute;blicas, um centro de refer&ecirc
 <p><br />
 Portanto, tem sido muito dif&iacute;cil para n&oacute;s constatarmos que o Estado tem sido muito eficiente para atrair os empreendimentos, para produzir material de divulga&ccedil;&atilde;o &mdash; materiais bonitos, coloridos, em papel de alta qualidade, em ingl&ecirc;s &mdash;, mas incapaz de produzir um material de informa&ccedil;&atilde;o para os agentes comunit&aacute;rios de sa&uacute;de, para os profissionais das Unidades B&aacute;sicas e para os profissionais da vigil&acirc;ncia. Trata-se de um Estado capaz de oferecer &aacute;gua ao agroneg&oacute;cio, mas incapaz de garantir o acesso e o direito humano &agrave; &aacute;gua, que &eacute; priorit&aacute;rio por lei, em uma situa&ccedil;&atilde;o como essa de seca; um Estado que &eacute; capaz de oferecer tecnologia para a produ&ccedil;&atilde;o e produtividade do agroneg&oacute;cio, mas n&atilde;o &eacute; capaz de fortalecer a assist&ecirc;ncia t&eacute;cnica &agrave; agricultura familiar, pelo contr&aacute;rio, essa assist&ecirc;ncia t&eacute;cnica tem sido cada vez mais precarizada e desconstru&iacute;da. Eu fico muito indignada de ver isso: s&atilde;o 10 anos vendo o sofrimento dessas fam&iacute;lias; &eacute; muita injusti&ccedil;a!</p>
 
-<p>&nbsp;
+<p>&nbsp;</p>
+
 <p><br />
 A Pol&iacute;tica Nacional de Irriga&ccedil;&atilde;o, que foi definida em 2013 pelo Minist&eacute;rio da Integra&ccedil;&atilde;o, continua priorizando a &aacute;gua para o aumento da produtividade do agroneg&oacute;cio e pretende expandir esse modelo de &aacute;reas irrigadas para a produ&ccedil;&atilde;o do agroneg&oacute;cio em milh&otilde;es e milh&otilde;es de hectares: h&aacute; dados que falam em mais 400 mil hectares irrigados no Nordeste, outros falam em seis milh&otilde;es de hectares no Brasil. Ou seja, trata-se da mesma pol&iacute;tica, com todas essas consequ&ecirc;ncias negativas que ela tem de destrui&ccedil;&atilde;o do movo de vida tradicional, de inviabiliza&ccedil;&atilde;o da agricultura familiar camponesa e de privilegiamento desse tipo de empresa, destruindo tamb&eacute;m o ambiente e a sa&uacute;de das pessoas, com essa ilus&atilde;o do progresso, do desenvolvimento e do emprego como algo muito melhor do que o trabalho aut&ocirc;nomo, livre e produtivo que a agricultura familiar sup&otilde;e.</p>
-</p>
+
+<p>&nbsp;</p>
 
 <p><br />
 <strong>Quais as perspectivas e desafios de dar continuidade a sua pesquisa dada essa situa&ccedil;&atilde;o?</strong></p>
