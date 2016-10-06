@@ -5,10 +5,10 @@ tags:
   - tag: presos-políticos
   - tag: direitos-humanos
   - tag: solidariedade-internacional
-title: Comitê mobiliza solidariedade internacional aos presos políticos do MST
+title: Comitê mobiliza solidariedade internacional a presos políticos do MST
 section: cover
 images_hd: //farm6.staticflickr.com/5019/30044487312_5fcf8150d8_b.jpg
-support_line: O texto para manifestações no Brasil e no exterior apela à sensibilidade das autoridades destinatárias acerca da escalada da repressão aos movimentos sociais.
+support_line: O texto para manifestações no Brasil e no exterior apela à sensibilidade das autoridades destinatárias acerca da escalada da repressão aos movimentos.
 menu: solidariedade
 layout: post
 files:
@@ -74,7 +74,7 @@ Abra&ccedil;os.</p>
 
 <p style="text-align: center;"><br />
 <strong>Coordena&ccedil;&atilde;o do Comit&ecirc; Goiano de Direitos Humanos Dom Tom&aacute;s Balduino</strong><br />
-<a href="http://mailto:comidedhdomtomasbalduino@gmail.com">comitedhdomtomasbalduino@gmail.com</a></p>
+<a href="mailto:comidedhdomtomasbalduino@gmail.com">comidedhdomtomasbalduino@gmail.com</a></p>
 
 <p><br />
 <strong>PROPOSTA DE CARTA&nbsp; A SER ENVIADA&nbsp; POR CORREIO ELETRONICA AS TRES AUTORIDADES</strong></p>
@@ -82,21 +82,21 @@ Abra&ccedil;os.</p>
 <p><br />
 V. Exa. Marconi Perillo<br />
 Governador de Goi&aacute;s<br />
-<a href="http://mailto:gabinete.particular@palacio.go.gov.br">gabinete.particular@palacio.go.gov.br;</a></p>
+<a href="mailto:gabinete.particular@palacio.go.gov.br">gabinete.particular@palacio.go.gov.br</a></p>
 
 <p><br />
 V. Exa. Dra. Laurita Vaz<br />
 Presidente do Superior Tribunal de Justi&ccedil;a<br />
-<a href="http://mailto:presidencia@stj.jus.br">presidencia@stj.jus.br</a></p>
+<a href="mailto:presidencia@stj.jus.br">presidencia@stj.jus.br</a></p>
 
 <p><br />
 V. Exa Dr. Leobino Valente Chaves<br />
 Presidente Tribunal de Justi&ccedil;a de Goi&aacute;s<br />
-<a href="http://mailto:secexepres@tjgo.jus.br">secexepres@tjgo.jus.br</a></p>
+<a href="mailto:secexepres@tjgo.jus.br">secexepres@tjgo.jus.br</a></p>
 
 <p><br />
 Com c&oacute;pia para<br />
-<a href="http://mailto:comidedhdomtomasbalduino@gmail.com">comitedhdomtomasbalduino@gmail.com</a></p>
+<a href="mailto:comidedhdomtomasbalduino@gmail.com">comidedhdomtomasbalduino@gmail.com</a></p>
 
 <p><br />
 Vimos, por meio desta, apresentar nossa grande preocupa&ccedil;&atilde;o com a recente escalada da repress&atilde;o aos Movimentos Sociais no Brasil, especialmente no estado de Goi&aacute;s. &Eacute; de nosso conhecimento que lideran&ccedil;as e militantes do MST no referido estado est&atilde;o presos e sendo perseguidos. Luiz Batista Borges encontra-se preso desde o dia 14 de abril de 2016, Jos&eacute; Valdir Misnerovicz, lideran&ccedil;a de renome internacional, encontra-se preso desde o dia 31 de maio e L&aacute;zaro Pereira da Luz, desde o dia 15 de junho &uacute;ltimo. Outros dois militantes encontram-se exilados.</p>
@@ -158,7 +158,7 @@ Em n&iacute;vel federal, o golpe em curso tem fortes v&iacute;nculos com o agron
 
 <p style="text-align: center;"><br />
 <strong>Coordena&ccedil;&atilde;o do Comit&ecirc; Goiano de Direitos Humanos Dom Tom&aacute;s Balduino</strong><br />
-<a href="http://mailto:comitedhdomtomasbalduino@gmail.com">comitedhdomtomasbalduino@gmail.com</a></p>
+<a href="mailto:comidedhdomtomasbalduino@gmail.com">comidedhdomtomasbalduino@gmail.com</a></p>
 
 <p style="text-align: center;">&nbsp;</p>
 
