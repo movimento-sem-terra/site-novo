@@ -7,15 +7,15 @@ tags:
 title: “Cardápio” da bancada ruralista traz venda de terras a estrangeiros como prioridade
 support_line: "Frente Parlamentar Agropecuária (FPA) pauta em seu “cardápio” a aprovação do Projeto de Lei (PL) 4059/2012, que pretende liberar no território brasileiro "
 menu: agronegócio
-images_hd: //farm8.staticflickr.com/7468/30041700662_5b8600f907_b.jpg
+images_hd: //farm6.staticflickr.com/5141/29860759700_d425b2e30b_b.jpg
 layout: post
 files:
-  - link: //farm8.staticflickr.com/7468/30041700662_5b8600f907_b.jpg
-    thumbnail: //farm8.staticflickr.com/7468/30041700662_5b8600f907_t.jpg
-    medium: //farm8.staticflickr.com/7468/30041700662_5b8600f907_z.jpg
-    small: //farm8.staticflickr.com/7468/30041700662_5b8600f907_n.jpg
+  - link: //farm6.staticflickr.com/5141/29860759700_d425b2e30b_b.jpg
+    thumbnail: //farm6.staticflickr.com/5141/29860759700_d425b2e30b_t.jpg
+    medium: //farm6.staticflickr.com/5141/29860759700_d425b2e30b_z.jpg
+    small: //farm6.staticflickr.com/5141/29860759700_d425b2e30b_n.jpg
     title: Indígenas.jpeg
-    $$hashKey: "057"
+    $$hashKey: 0CI
 created_date: "2016-10-06T14:52:11-03:00"
 published: true
 releated_posts:
