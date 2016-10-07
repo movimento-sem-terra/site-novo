@@ -33,6 +33,7 @@ releated_posts:
   - _posts/2016/09/2016-09-06-para-o-tcu-os-assentados-estao-proibidos-de-melhorar-de-vida-diz-mst.md
   - _posts/2016/09/2016-09-06-movimentos-do-campo-realizam-manifestacao-no-incra-do-rj.md
   - _posts/2016/09/2016-09-07-considero-uma-injustica-o-que-o-governo-esta-fazendo-com-os-assentados-afirma-sem-terra.md
+section: featured-news
 
 ---
 <p>&nbsp;</p>
