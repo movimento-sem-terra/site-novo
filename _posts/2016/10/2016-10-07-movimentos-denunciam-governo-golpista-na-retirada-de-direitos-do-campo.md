@@ -50,7 +50,7 @@ A iniciativa ocorreu ap&oacute;s uma reuni&atilde;o realizada em 5 e 6 de outubr
 &ldquo;Esse tratamento reafirma o car&aacute;ter ileg&iacute;timo e anti democr&aacute;tico deste governo, e deixa em evidencia que pol&iacute;ticas conquistadas com muita luta nos &uacute;ltimos anos sofrem risco de extin&ccedil;&atilde;o&rdquo;, salienta trecho da nota.</p>
 
 <p><br />
-No documentos os Movimentos ainda sinalizam que esse cen&aacute;rio de instabilidade e desvaloriza&ccedil;&atilde;o da pol&iacute;tica agr&aacute;ria pelo governo federal, ser&aacute; convertido em luta pela defesa e efetiva&ccedil;&atilde;o dos direitos dos povos do campo.</p>
+No documento os Movimentos ainda sinalizam que esse cen&aacute;rio de instabilidade e desvaloriza&ccedil;&atilde;o da pol&iacute;tica agr&aacute;ria pelo governo federal, ser&aacute; convertido em luta pela defesa e efetiva&ccedil;&atilde;o dos direitos dos povos do campo.</p>
 
 <p><br />
 <strong>Confira abaixo a nota na &iacute;ntegra.</strong></p>
