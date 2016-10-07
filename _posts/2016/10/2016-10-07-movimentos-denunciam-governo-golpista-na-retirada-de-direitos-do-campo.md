@@ -68,7 +68,7 @@ Esse tratamento reafirma o car&aacute;ter ileg&iacute;timo e anti democr&aacute;
 O objetivo desta reuni&atilde;o era obter resposta do governo federal &agrave; pauta entregue em audi&ecirc;ncia realizada no ultimo 05 de setembro, fruto de nossa <a href="http://www.mst.org.br/2016/09/08/organizacoes-do-campo-afirmam-continuidade-das-mobilizacoes-apos-acampamento-unitario.html">Jornada Nacional de lutas</a> que mobilizou cerca de 30 mil militantes em 14 estados do pa&iacute;s em torno da luta pela terra, que teve como marco a <a href="http://www.mst.org.br/2016/09/05/organizacoes-do-campo-ocupam-ministerio-do-planejamento-durante-jornada-unitaria.html">ocupa&ccedil;&atilde;o do minist&eacute;rio do planejamento</a>.</p>
 
 <p><br />
-Na ocasi&atilde;o a pauta foi apresentada aos ministros Eliseu Padilha da Casa Civil, Dyogo Henrique de Oliveira do Planejamento, Desenvolvimento e Gest&atilde;o e Bruno &Aacute;raujo da Cidades, e Gedel Viera Lima da Secretaria de Governo da Presid&ecirc;ncia, al&eacute;m do Presidente do INCRA e o Secret&aacute;rio da SEDA .</p>
+Na ocasi&atilde;o a pauta foi apresentada aos ministros Eliseu Padilha da Casa Civil, Dyogo Henrique de Oliveira do Planejamento, Desenvolvimento e Gest&atilde;o e Bruno &Aacute;raujo da Cidades, e Gedel Viera Lima da Secretaria de Governo da Presid&ecirc;ncia, al&eacute;m do Presidente do INCRA e o Secret&aacute;rio da Seade .</p>
 
 <p><br />
 Durante audi&ecirc;ncia do dia 5 de setembro foram firmados compromissos com a manuten&ccedil;&atilde;o dos valores or&ccedil;ament&aacute;rios em igual ou superiores de 2016 para 2017, para reforma agr&aacute;ria e agricultura familiar e camponesa; contrata&ccedil;&atilde;o dos projetos de habita&ccedil;&atilde;o rural j&aacute; apresentados e manuten&ccedil;&atilde;o do programa em 2017; a demarca&ccedil;&atilde;o de terras ind&iacute;genas e quilombolas; atuar para o efetivo desbloqueio dos cadastros de assentados atingidos pelo ac&oacute;rd&atilde;o do Tribunal de Contas da Uni&atilde;o (TCU) e para resolu&ccedil;&atilde;o das d&iacute;vidas provenientes da seca.</p>
@@ -123,4 +123,5 @@ Movimento Campon&ecirc;s Popular (MCP)<br />
 Movimento das Mulheres Camponesas (MMC)<br />
 Movimento de Pescadores e Pescadoras Artesanais (MPP)<br />
 Movimento dos Pequenos Agricultores (MPA)<br />
-Movimento dos Trabalhadores Rurais sem Terra (MST)</em></p>
+Movimento dos Trabalhadores Rurais sem Terra (MST)</em><br />
+<em>Movimento Nacional pela Soberania Popular na Minera&ccedil;&atilde;o (MAM)</em></p>
