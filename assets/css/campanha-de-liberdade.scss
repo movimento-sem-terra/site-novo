@@ -1,0 +1,167 @@
+---
+---
+
+@import "../bourbon/bourbon";
+@import "../neat/neat";
+@import "../_sass/variables";
+@import "../_sass/_includes/mixins";
+
+@import 'https://fonts.googleapis.com/css?family=Oxygen+Mono';
+
+* { box-sizing:border-box; }
+body {
+  background-image: url('/assets/img/campanha-liberdade/background.png');
+  background-attachment: fixed;
+}
+
+.liberdade {
+  height: 100vh;
+  width: 100vw;
+
+  section.descricao {
+    font-family: 'Oxygen Mono', monospace;
+    padding: 0;
+    margin-top: 15px;
+    margin-right: 10px;
+    position: absolute;
+    right: 0;
+    text-align: center;
+
+    h1 {
+      color: #6D6666;
+      font-size: 3.5em;
+    }
+    h2 {
+      color: #DB7D7D;
+      font-size: 3.0em;
+      span {
+        font-size: 1.7em;
+      }
+    }
+    h3 {
+      color: #992B2B;
+      font-size: 2.5em;
+    }
+    h4 {
+      color: #992B2B;
+      font-size: 2.8em;
+      margin: 0;
+    }
+  }
+
+  figure.capa {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+  }// figure
+
+  figure.passaros {
+    align-self: flex-end;
+    width: 600px;
+    height: 330px;
+    margin: 0;
+    margin-bottom: 70px;
+    background-image: url('/assets/img/campanha-liberdade/passaros.png');
+
+  }// figure.passaros
+
+  figure.cerca {
+    align-self: flex-end;
+    margin: 0;
+    margin-bottom: 100px;
+    min-width: 30vw;
+    min-height: 70px;
+    background-image: url(/assets/img/campanha-liberdade/cerca.png);
+    background-repeat-x: repeat;
+    background-position: right;
+
+    .right {
+      background-position: right;
+    }
+  }
+}// .liberdade
+
+section.soliedariedade {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: space-between;
+
+  & > section {
+    width: 50vw;
+    margin: 0;
+  }
+
+  section.descricao {
+    font-family: 'Oxygen Mono', monospace;
+    padding: 30px;
+    font-weight: bold;
+    text-align: justify;
+
+    p {
+			text-rendering: optimizeLegibility;
+			text-shadow:0 0 1px transparent;
+    }
+
+    p:nth-child(1) {
+      font-size: 1.7em;
+			line-height: 40px;
+    }
+
+    p:nth-child(2) {
+      font-size: 1.3em;
+			line-height: 35px;
+    }
+
+    p:nth-child(2) {
+      font-size: 1.2em;
+			line-height: 30px;
+    }
+  }
+
+  figure.fotos {
+    display: flex;
+    flex-direction: row;
+  }
+
+  figure.foto {
+    width: 150px;
+    height: 130px;
+    background-color: white;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    -webkit-border-radius: 99em;
+    -moz-border-radius: 99em;
+    border-radius: 99em;
+    border: 5px solid #eee;
+    box-shadow: 0 3px 2px rgba(0, 0, 0, 0.3);
+  }
+
+  section.contribua {
+		display: flex;
+    flex-direction: column;
+		justify-content: space-around;
+
+    button {
+			align-self: center;
+			color: #fff;
+			background-color: #6D6666;
+			text-shadow: -1px 1px #417cb8;
+			border: none;
+      width: 150px;
+		}
+
+    input {
+			align-self: center;
+    }
+
+    a {
+		  text-transform: uppercase;
+      font-size: 1.4em;
+      text-align: center;
+    }
+  }
+}// .section.soliedariedade
