@@ -16,6 +16,12 @@ files:
     small: //farm6.staticflickr.com/5528/30206682306_5250eb1d5e_n.jpg
     title: 28468292872_b4b82506d3_b.jpg
     $$hashKey: 0X8
+  - link: //farm6.staticflickr.com/5496/30127007872_7577b8303b_b.jpg
+    thumbnail: //farm6.staticflickr.com/5496/30127007872_7577b8303b_t.jpg
+    medium: //farm6.staticflickr.com/5496/30127007872_7577b8303b_z.jpg
+    small: //farm6.staticflickr.com/5496/30127007872_7577b8303b_n.jpg
+    title: LuizBeltrame.png
+    $$hashKey: 0CB
 created_date: "2016-10-10T14:40:33-03:00"
 published: true
 releated_posts:
@@ -24,11 +30,10 @@ releated_posts:
 ---
 <p>&nbsp;</p>
 
-<p style="text-align:center"><img alt="28468292872_b4b82506d3_b.jpg" height="466" src="//farm6.staticflickr.com/5528/30206682306_5250eb1d5e_b.jpg" width="700" /></p>
+<p style="text-align:center"><img alt="LuizBeltrame.png" height="500" src="//farm6.staticflickr.com/5496/30127007872_7577b8303b_b.jpg" width="500" /></p>
 
-<p>&nbsp;</p>
-
-<p><em>Por Camila Bonassa<br />
+<p><br />
+<em>Por Camila Bonassa<br />
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
@@ -44,7 +49,7 @@ Nunca frequentou escola. Ainda adolescente decorava n&atilde;o s&oacute; as poes
 &ldquo;E assim o tempo passou. As letras eu n&atilde;o conhecia. E para conhecer elas meu pai &eacute; que me valia. Completei 14 anos e escrever eu j&aacute; sabia. J&aacute; assinava o meu nome, lia as coisas que eu queria&rdquo;.</p>
 
 <p><br />
-Seu Luiz nunca deixou de decorar seus poemas e declam&aacute;-los, onde quer que esteja. A mem&oacute;ria sempre foi uma capacidade invej&aacute;vel do poeta campon&ecirc;s. Lembrava o nome de cada camarada que conheceu ao longo da milit&acirc;ncia.</p>
+Seu Luiz nunca deixou de decorar seus poemas e declam&aacute;-los.&nbsp;A mem&oacute;ria sempre foi uma capacidade invej&aacute;vel do poeta campon&ecirc;s. Lembrava o nome de cada camarada que conheceu ao longo da milit&acirc;ncia.</p>
 
 <p><br />
 A terra foi um dos temas mais presentes em seu repert&oacute;rio. Mas n&atilde;o somente aquela que sonhava para si. Em 1984 escreveu: &ldquo;Eu quero o Brasil com tudo com sa&uacute;de e educa&ccedil;&atilde;o. Eu quero a liberdade pra toda popula&ccedil;&atilde;o. Um Brasil onde os sem terra tenham um peda&ccedil;o de ch&atilde;o&rdquo;. Por&eacute;m, somente em 1991 que concretizou o sonho ao chegar ao Assentamento Reunidas, em Promiss&atilde;o, para viver e trabalhar com um dos filhos. Empunhou a bandeira do MST e se fez, mais que poeta Sem Terra, um militante da Reforma Agr&aacute;ria.</p>
