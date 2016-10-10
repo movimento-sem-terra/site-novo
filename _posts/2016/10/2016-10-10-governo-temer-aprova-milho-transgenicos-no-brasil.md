@@ -32,7 +32,7 @@ releated_posts:
 <p style="margin-bottom: 0cm; line-height: 100%"><em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Na &uacute;ltima quinta-feira (06), a Comiss&atilde;o T&eacute;cnica Nacional de Biosseguran&ccedil;a (CTNBio) liberou no Brasil mais tr&ecirc;s tipos de milho transg&ecirc;nicos para comercializa&ccedil;&atilde;o. As marcas MON 87427 e MON 87460, da Monsanto, e Evento 3272, fabricada pela Syngenta, agora podem causar danos ao mercado de ra&ccedil;&otilde;es no pa&iacute;s, al&eacute;m de amea&ccedil;ar contaminar as lavouras, caso plantado.</p>
+Na &uacute;ltima quinta-feira (06), a Comiss&atilde;o T&eacute;cnica Nacional de Biosseguran&ccedil;a (CTNBio) liberou no Brasil mais tr&ecirc;s tipos de milho&nbsp;transg&ecirc;nico&nbsp;para comercializa&ccedil;&atilde;o. As marcas MON 87427 e MON 87460, da Monsanto, e Evento 3272, fabricada pela Syngenta, agora podem causar danos ao mercado de ra&ccedil;&otilde;es no pa&iacute;s, al&eacute;m de amea&ccedil;ar contaminar as lavouras, caso plantado.</p>
 
 <p><br />
 O principal contexto envolvendo a libera&ccedil;&atilde;o destes novos tipos de Organismos Geneticamente Modificados (OGM) no Brasil &eacute; bastante escuso e tem estado fora do foco das not&iacute;cias sobre a movimenta&ccedil;&atilde;o da &uacute;ltima semana da CTNBio. Um carregamento de milho, com estas e outras variedades, est&aacute; h&aacute; mais de um m&ecirc;s pronto e embarcado nos Estados Unidos para ser transportado para o Brasil.</p>
