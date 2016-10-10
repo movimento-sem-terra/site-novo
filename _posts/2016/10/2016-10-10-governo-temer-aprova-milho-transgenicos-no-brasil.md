@@ -25,6 +25,7 @@ releated_posts:
   - _posts/2016/08/2016-08-29-livres-de-impostos-agrotoxicos-seguem-causando-cancer-malformacoes-e-mortes.md
   - _posts/2016/09/2016-09-20-fusao-entre-bayer-e-monsanto-deve-agravar-inseguranca-alimentar-no-brasil-diz-professor.md
   - _posts/2016/09/2016-09-08-ctnbio-quer-enfiar-transgenicos-nao-avaliados-pela-nossa-goela-abaixo.md
+section: featured-news
 
 ---
 <p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
