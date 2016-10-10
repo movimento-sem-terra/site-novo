@@ -4,18 +4,18 @@ tags:
   - tag: ctnbio
   - tag: transgenicos
   - tag: agrotóxicos
-title: Governo Temer aprova milho transgênicos no Brasil
+title: Governo Temer aprova milho transgênico no Brasil
 support_line: Aprovação de três novas formas de milho transgênico no país traz ameaças de contaminação e afeta o mercado interno
 menu: agronegócio
-images_hd: //farm6.staticflickr.com/5441/30205608396_dbd9a6e4e7_b.jpg
+images_hd: //farm9.staticflickr.com/8548/30205930466_474c6e2a18_b.jpg
 layout: post
 files:
-  - link: //farm6.staticflickr.com/5441/30205608396_dbd9a6e4e7_b.jpg
-    thumbnail: //farm6.staticflickr.com/5441/30205608396_dbd9a6e4e7_t.jpg
-    medium: //farm6.staticflickr.com/5441/30205608396_dbd9a6e4e7_z.jpg
-    small: //farm6.staticflickr.com/5441/30205608396_dbd9a6e4e7_n.jpg
-    title: download.jpg
-    $$hashKey: 06Z
+  - link: //farm9.staticflickr.com/8548/30205930466_474c6e2a18_b.jpg
+    thumbnail: //farm9.staticflickr.com/8548/30205930466_474c6e2a18_t.jpg
+    medium: //farm9.staticflickr.com/8548/30205930466_474c6e2a18_z.jpg
+    small: //farm9.staticflickr.com/8548/30205930466_474c6e2a18_n.jpg
+    title: images.jpg
+    $$hashKey: 0I0
 created_date: "2016-10-10T13:48:55-03:00"
 published: true
 releated_posts:
