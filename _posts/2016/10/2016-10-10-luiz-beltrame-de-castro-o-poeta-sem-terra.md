@@ -65,5 +65,5 @@ O poeta Sem Terra nunca esmoreceu da luta. As palavras rabiscadas lentamente pel
 Com o falecimento do filho, Seu Luiz foi morar em Coroados (SP), com uma das filhas, onde permaneceu at&eacute; sua partida, em 26 de julho de 2016. Partiu aos 107 anos, sem ver realizado o sonho da Reforma Agr&aacute;ria no Brasil. No entanto, nos deixou um legado de amor e de luta, pela terra e pela vida.</p>
 
 <p><br />
-<em>* Editado por Iris Pacheco&nbsp;<br />
-**Neste dia 10, Seu Luiz Beltrame, poeta da vida e da luta, completaria 108 anos.&nbsp;</em></p>
+<em>*Neste dia 10, Seu Luiz Beltrame, poeta da vida e da luta, completaria 108 anos.&nbsp;<br />
+**Editado por Iris Pacheco&nbsp;</em></p>
