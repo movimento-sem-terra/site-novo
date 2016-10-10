@@ -28,6 +28,7 @@ releated_posts:
   - _posts/2016/02/2016-02-26-nos-ultimos-10-anos-32-512-escolas-foram-fechadas-diz-educadora.md
   - _posts/2016/05/2016-05-10-educacao-e-agroecologia-em-discussao-no-parana.md
   - _posts/2016/06/2016-06-17-educacao-de-tempo-integral-e-uma-realidade-na-bahia.md
+section: featured-news
 
 ---
 <p>&nbsp;</p>
