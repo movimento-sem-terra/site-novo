@@ -87,6 +87,7 @@ releated_posts:
   - _posts/2016/07/2016-07-05-homenageado-pelo-agronegocio-temer-diz-que-aplicara-medidas-impopulares.md
   - _posts/2016/07/2016-07-15-opiniao-os-interesses-do-agronegocio-e-o-governo-golpista.md
   - _posts/2016/09/2016-09-01-apos-impeachment-e-posse-senadores-aprovam-mp-do-setor-agricola.md
+label: articles
 
 ---
 <p><br />
