@@ -7,15 +7,15 @@ tags:
 title: Governo Temer aprova milho transgênico no Brasil
 support_line: Aprovação de três novas formas de milho transgênico no país traz ameaças de contaminação e afeta o mercado interno
 menu: agronegócio
-images_hd: //farm9.staticflickr.com/8548/30205930466_474c6e2a18_b.jpg
+images_hd: //farm6.staticflickr.com/5456/30241103195_9380270d51_b.jpg
 layout: post
 files:
-  - link: //farm9.staticflickr.com/8548/30205930466_474c6e2a18_b.jpg
-    thumbnail: //farm9.staticflickr.com/8548/30205930466_474c6e2a18_t.jpg
-    medium: //farm9.staticflickr.com/8548/30205930466_474c6e2a18_z.jpg
-    small: //farm9.staticflickr.com/8548/30205930466_474c6e2a18_n.jpg
-    title: images.jpg
-    $$hashKey: 0I0
+  - link: //farm6.staticflickr.com/5456/30241103195_9380270d51_b.jpg
+    thumbnail: //farm6.staticflickr.com/5456/30241103195_9380270d51_t.jpg
+    medium: //farm6.staticflickr.com/5456/30241103195_9380270d51_z.jpg
+    small: //farm6.staticflickr.com/5456/30241103195_9380270d51_n.jpg
+    title: ogm_mais.jpg
+    $$hashKey: 0T3
 created_date: "2016-10-10T13:48:55-03:00"
 published: true
 releated_posts:
