@@ -38,7 +38,7 @@ releated_posts:
 <em>Da Rede Brasil Atual</em></p>
 
 <p><br />
-A Proposta de Emenda &agrave; Constitui&ccedil;&atilde;o (PEC) 241/2016, considerada um dos pilares program&aacute;ticos do governo Michel Temer e o maior golpe nos direitos sociais inscritos na Constitui&ccedil;&atilde;o de 1988, foi aprovada na noite de hoje (10) por 366 votos a favor, 111 contra e duas absten&ccedil;&otilde;es. O &uacute;ltimo requerimento de obstru&ccedil;&atilde;o da oposi&ccedil;&atilde;o foi rejeitado &agrave;s 19h50.</p>
+A Proposta de Emenda &agrave; Constitui&ccedil;&atilde;o (PEC) 241/2016, considerada um dos pilares program&aacute;ticos do governo Michel Temer e o maior golpe nos direitos sociais inscritos na Constitui&ccedil;&atilde;o de 1988, foi aprovada na noite desta segunda-feira (10) por 366 votos a favor, 111 contra e duas absten&ccedil;&otilde;es. O &uacute;ltimo requerimento de obstru&ccedil;&atilde;o da oposi&ccedil;&atilde;o foi rejeitado &agrave;s 19h50.</p>
 
 <p><br />
 O projeto cria um teto de despesas prim&aacute;rias federais reajustado pelo &Iacute;ndice Nacional de Pre&ccedil;os ao Consumidor Amplo (IPCA) e, na pr&aacute;tica, congela os gastos em sa&uacute;de e educa&ccedil;&atilde;o por 20 anos. A PEC ainda precisa ser aprovada em segundo turno na casa.</p>
