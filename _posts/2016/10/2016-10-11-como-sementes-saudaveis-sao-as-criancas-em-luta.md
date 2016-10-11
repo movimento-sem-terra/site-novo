@@ -24,6 +24,7 @@ releated_posts:
   - _posts/2016/05/2016-05-04-na-bahia-sem-terrinha-denunciam-a-violencia-no-campo.md
   - _posts/2016/03/2016-03-02-escolas-do-mst-recebem-premiacao-por-rememorar-a-luta-de-zumbi.md
   - _posts/2016/03/2016-03-02-artistas-populares-gravam-cd-e-dvd-com-composicoes-que-expressam-a-cultura-do-povo-sem-terra.md
+section: cover
 
 ---
 <p>&nbsp;</p>
