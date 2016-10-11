@@ -7,7 +7,7 @@ tags:
 title: Estudo sobre a soberania alimentar marca abertura de Encontro dos Sem Terrinha
 support_line: "O evento que ocorre no Rio Grande tem como lema “Alimentação Saudável: um direito de todos”"
 menu: "educação, cultura e comunicação"
-section: cover
+section: null
 images_hd: //farm9.staticflickr.com/8558/30262855575_79d6939deb_b.jpg
 layout: post
 files:
