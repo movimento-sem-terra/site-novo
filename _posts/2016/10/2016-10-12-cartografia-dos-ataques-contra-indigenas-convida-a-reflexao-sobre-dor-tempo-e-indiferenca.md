@@ -37,7 +37,7 @@ releated_posts:
 ---
 <p>&nbsp;</p>
 
-<p><img alt="caci01.jpg" src="//farm9.staticflickr.com/8409/29985024380_1ed635d091_b.jpg" /></p>
+<p style="text-align:center"><img alt="caci01.jpg" height="491" src="//farm9.staticflickr.com/8409/29985024380_1ed635d091_b.jpg" width="700" /></p>
 
 <p><br />
 <em>Por Alceu Lu&iacute;s Castilho<br />
