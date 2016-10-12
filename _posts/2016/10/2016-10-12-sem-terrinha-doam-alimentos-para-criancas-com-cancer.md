@@ -37,7 +37,10 @@ releated_posts:
 Um grupo de crian&ccedil;as do MST que participa do 18&ordm; Encontro Estadual dos Sem Terrinha em Santa Maria, na regi&atilde;o Central do Rio Grande do Sul, na tarde desta ter&ccedil;a-feira (11),&nbsp;doou alimentos livres de venenos&nbsp;ao Centro de Apoio &agrave; Crian&ccedil;a com C&acirc;ncer (CACC).</p>
 
 <p><br />
-Seguindo o lema do encontro &ldquo;Alimenta&ccedil;&atilde;o saud&aacute;vel: um direito de todos&rdquo;, as crian&ccedil;as doaram cestas com arroz agroecol&oacute;gico, panif&iacute;cios, frutas, legumes, verduras e ovos org&acirc;nicos. Conforme Diana Daros, do Setor de Educa&ccedil;&atilde;o do Movimento, o intuito da doa&ccedil;&atilde;o foi dialogar sobre a alimenta&ccedil;&atilde;o saud&aacute;vel e demonstrar o valor da solidariedade.</p>
+Seguindo o lema do encontro &ldquo;Alimenta&ccedil;&atilde;o saud&aacute;vel: um direito de todos&rdquo;, as crian&ccedil;as doaram cestas com arroz agroecol&oacute;gico, panif&iacute;cios, frutas, legumes, verduras e ovos org&acirc;nicos.</p>
+
+<p><br />
+Conforme Diana Daros, do Setor de Educa&ccedil;&atilde;o do Movimento, o intuito da doa&ccedil;&atilde;o foi dialogar sobre a alimenta&ccedil;&atilde;o saud&aacute;vel e demonstrar o valor da solidariedade.</p>
 
 <p><br />
 &ldquo;Nem sempre conseguimos ajudar da maneira que gostar&iacute;amos, mas n&oacute;s doamos aquilo que temos: alimentos, luta em defesa dos direitos de todos &agrave; escola e &agrave; educa&ccedil;&atilde;o, e valoriza&ccedil;&atilde;o do trabalhador do campo e da cidade. &Eacute; assim que preservamos o esp&iacute;rito de solidariedade dos Sem Terrinha&rdquo;, explicou.</p>
