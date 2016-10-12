@@ -31,7 +31,7 @@ releated_posts:
 
 ---
 <p><br />
-Da P&aacute;gina do MST*</p>
+<em>Da P&aacute;gina do MST*</em></p>
 
 <p><br />
 Ap&oacute;s a passagem do furac&atilde;o Matthew, entre os dias 3 e 4 de outubro no Haiti, mais de 1,5 milh&atilde;o de pessoas foram afetadas. O impacto das enchentes e do vento foi devastador principalmente no sul e no oeste do pa&iacute;s, que ainda n&atilde;o tinha se recuperado do terremoto de 2010.</p>
