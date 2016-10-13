@@ -4,7 +4,7 @@ tags:
   - tag: educação-no-campo
   - tag: semiárido
   - tag: seminário
-title: Juazeiro vai sediar o Seminário Interterritorial de Educação do Campo no Semiárido
+title: Juazeiro sedia Seminário de educação do campo no Semiárido
 support_line: "O evento surgiu da necessidade da mobilização dos territórios em defesa da educação pública e de qualidade, em especial com a educação do campo e uma educação contextualizada."
 menu: "educação, cultura e comunicação"
 section: featured-news
@@ -37,7 +37,7 @@ releated_posts:
 <p>&nbsp;</p>
 
 <p><em>Por Comunica&ccedil;&atilde;o do Irpaa<br />
-Fotos: Wesley Lima</em></p>
+Foto: Wesley Lima/MST</em></p>
 
 <p>&nbsp;</p>
 
