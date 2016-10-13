@@ -9,7 +9,8 @@
 @import 'https://fonts.googleapis.com/css?family=Oxygen+Mono';
 
 * { box-sizing:border-box; }
-body {
+
+.capa {
   background-image: url('/assets/img/campanha-liberdade/background.png');
   background-attachment: fixed;
 }
@@ -103,6 +104,8 @@ section.soliedariedade {
     p {
 			text-rendering: optimizeLegibility;
 			text-shadow:0 0 1px transparent;
+      font-size: 1.2em;
+			line-height: 30px;
     }
 
     p:nth-child(1) {
@@ -114,11 +117,6 @@ section.soliedariedade {
       font-size: 1.3em;
 			line-height: 35px;
     }
-
-    p:nth-child(2) {
-      font-size: 1.2em;
-			line-height: 30px;
-    }
   }
 
   figure.fotos {
@@ -127,17 +125,36 @@ section.soliedariedade {
   }
 
   figure.foto {
+    display: table;
     width: 150px;
-    height: 130px;
-    background-color: white;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
-    -webkit-border-radius: 99em;
-    -moz-border-radius: 99em;
-    border-radius: 99em;
-    border: 5px solid #eee;
-    box-shadow: 0 3px 2px rgba(0, 0, 0, 0.3);
+
+    figcaption {
+      display: table-row;
+
+      span {
+        display: block;
+        text-align: center;
+      }
+      time {
+        display: block;
+				font-weight: bold;
+      }
+    }
+
+		img {
+      display: table-row;
+			width: 150px;
+			height: 150px;
+			background-color: white;
+			background-size: cover;
+			background-repeat: no-repeat;
+			background-position: center center;
+			-webkit-border-radius: 99em;
+			-moz-border-radius: 99em;
+			border-radius: 99em;
+			border: 5px solid #eee;
+			box-shadow: 0 3px 2px rgba(0, 0, 0, 0.3);
+		}
   }
 
   section.contribua {
@@ -148,14 +165,33 @@ section.soliedariedade {
     button {
 			align-self: center;
 			color: #fff;
-			background-color: #6D6666;
-			text-shadow: -1px 1px #417cb8;
+			background-color: #909293;
+      box-shadow: 1px 2px 3px 2px #ccc;
+			text-shadow: 1px 1px #000000;
 			border: none;
-      width: 150px;
+			width: 250px;
+			height: 50px;
 		}
 
     input {
 			align-self: center;
+			border: none;
+			border-bottom: 1px solid #757575;
+			width: 250px;
+			font-size: 1.2em;
+		}
+
+		input:focus {
+			outline:none;
+			border-color: $mst-green;
+			transition-property: border-color;
+			transition-duration: 0.5s;
+			-webkit-transition-property: border-color;
+			-webkit-transition-duration: 0.5s;
+			-o-transition-property: border-color;
+			-o-transition-duration: 0.5s;
+			-moz-transition-property: border-color;
+			-moz-transition-duration: 0.5s;
     }
 
     a {
