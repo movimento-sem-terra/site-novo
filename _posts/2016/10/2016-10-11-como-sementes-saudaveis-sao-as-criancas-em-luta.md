@@ -46,51 +46,29 @@ section: cover
 <p style="text-align: right;"><br />
 <strong>SEMENTE DA AGROECOLOGIA</strong></p>
 
-<p style="text-align: right;">&quot;O rio que nasce na serra corre pela Serra semeia a vida</p>
-
-<p style="text-align: right;">Semeia, plantas que cobre a serra</p>
-
-<p style="text-align: right;">que acorda os p&aacute;ssaros que festejam o verde</p>
-
-<p style="text-align: right;">o verde vibra ao tocar da brisa. A eterna chuva rega a semente,</p>
-
-<p style="text-align: right;">a semente que nasce, verdeja o vale</p>
-
-<p style="text-align: right;">o vale que cresce a grama, que alimenta a vaca</p>
-
-<p style="text-align: right;">a vaca que produz a vida</p>
-
-<p style="text-align: right;">a vida que morreria,</p>
-
-<p style="text-align: right;">morreria um dia, que semeei a semente</p>
-
-<p style="text-align: right;">que semeia a vida e seria floresta</p>
-
-<p style="text-align: right;">floresta que &eacute; agroflorestal,</p>
-
-<p style="text-align: right;">que seria&nbsp; alimenta&ccedil;&atilde;o!</p>
-
-<p style="text-align: right;">L&aacute; vai a alimenta&ccedil;&atilde;o</p>
-
-<p style="text-align: right;">correndo pela Serra</p>
-
-<p style="text-align: right;">descendo a serra semeando luz,</p>
-
-<p style="text-align: right;">exclamando, cantando ao som dos ventos;</p>
-
-<p style="text-align: right;">viverei nos olhos dessa gente,</p>
-
-<p style="text-align: right;">dos guardi&atilde;s das sementes,</p>
-
-<p style="text-align: right;">dos guardi&otilde;es da bio diversidade</p>
-
-<p style="text-align: right;">verdejais&nbsp; os vales;</p>
-
-<p style="text-align: right;">verdejais a serra</p>
-
-<p style="text-align: right;">frutificai a terra</p>
-
-<p style="text-align: right;">plantai a agroecologia!&rdquo;</p>
+<p style="text-align: right;"><em>&quot;O rio que nasce na serra corre pela Serra semeia a vida<br />
+Semeia, plantas que cobre a serra<br />
+que acorda os p&aacute;ssaros que festejam o verde<br />
+o verde vibra ao tocar da brisa. A eterna chuva rega a semente,<br />
+a semente que nasce, verdeja o vale<br />
+o vale que cresce a grama, que alimenta a vaca<br />
+a vaca que produz a vida<br />
+a vida que morreria,<br />
+morreria um dia, que semeei a semente<br />
+que semeia a vida e seria floresta<br />
+floresta que &eacute; agroflorestal,<br />
+que seria&nbsp; alimenta&ccedil;&atilde;o!<br />
+L&aacute; vai a alimenta&ccedil;&atilde;o<br />
+correndo pela Serra<br />
+descendo a serra semeando luz,<br />
+exclamando, cantando ao som dos ventos;<br />
+viverei nos olhos dessa gente,<br />
+dos guardi&atilde;s das sementes,<br />
+dos guardi&otilde;es da bio diversidade<br />
+verdejais&nbsp; os vales;<br />
+verdejais a serra<br />
+frutificai a terra<br />
+plantai a agroecologia!&rdquo;</em></p>
 
 <p style="text-align: right;">(Ant&ocirc;nio de Miranda)*</p>
 
