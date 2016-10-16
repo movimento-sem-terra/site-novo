@@ -7,7 +7,7 @@ tags:
 title: "Via denuncia ameaça de empresas transnacionais para a Soberania Alimentar  "
 support_line: "\"Os povos do mundo estão lutando para derrotar a captura corporativa, ocupando terras, plantio e protegendo suas próprias sementes e também lutando em nível nacional e internacionalmente”"
 menu: agricultura camponesa
-section: featured-news
+section: cover
 images_hd: //farm6.staticflickr.com/5765/30365795485_169575bce8_b.jpg
 layout: post
 files:
