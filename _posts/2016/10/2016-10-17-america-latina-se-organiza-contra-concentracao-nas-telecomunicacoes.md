@@ -36,14 +36,14 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p>Por Ana Claudia Mielke*<br />
-Do Intervozes</p>
+<p><em>Por Ana Claudia Mielke*<br />
+Do Intervozes</em></p>
 
 <p><br />
 A concentra&ccedil;&atilde;o dos servi&ccedil;os de radiodifus&atilde;o nas m&atilde;os de poucos grupos econ&ocirc;micos h&aacute; tempos se constitui como uma das grandes preocupa&ccedil;&otilde;es em pa&iacute;ses latino-americanos, j&aacute; que tal concentra&ccedil;&atilde;o tem impacto direto sobre a liberdade de express&atilde;o e sobre a pr&oacute;pria consolida&ccedil;&atilde;o da democracia na regi&atilde;o. Entre os &uacute;ltimos 15 e 20 anos, no entanto, outro fen&ocirc;meno de concentra&ccedil;&atilde;o tem chamado a aten&ccedil;&atilde;o daqueles que se debru&ccedil;am em pesquisas sobre o tema ou que atuam na incid&ecirc;ncia pol&iacute;tica pela regula&ccedil;&atilde;o do setor, que &eacute; a concentra&ccedil;&atilde;o dos servi&ccedil;os de telecomunica&ccedil;&otilde;es.</p>
 
 <p><br />
-Na Argentina, Chile, Col&ocirc;mbia e M&eacute;xico, as quatro principais operadoras de TV paga controlam mais 90% do mercado &ndash; crescimento que se deu, sobretudo, entre os anos de 2000 e 2014. Estes dados foram apresentados pelo pesquisador argentino Guilhermo Mastrini durante o Encuentro Internacional: Libertad de Expresi&oacute;n y Concentraci&oacute;n Medi&aacute;tica en Am&eacute;rica Latina, realizado no &uacute;ltimo dia 5, em Santiago, no Chile, reunindo ativistas e pesquisadores de pa&iacute;ses da Am&eacute;rica do Sul, Norte e Central.</p>
+Na Argentina, Chile, Col&ocirc;mbia e M&eacute;xico, as quatro principais operadoras de TV paga controlam mais 90% do mercado &ndash; crescimento que se deu, sobretudo, entre os anos de 2000 e 2014. Estes dados foram apresentados pelo pesquisador argentino Guilhermo Mastrini durante o <a href="http://www.observacom.org/encuentro-internacional-sobre-libertad-de-expresion-y-concentracion-mediatica-en-america-latina-2/">Encuentro Internacional: Libertad de Expresi&oacute;n y Concentraci&oacute;n Medi&aacute;tica en Am&eacute;rica Latina</a>, realizado no &uacute;ltimo dia 5, em Santiago, no Chile, reunindo ativistas e pesquisadores de pa&iacute;ses da Am&eacute;rica do Sul, Norte e Central.</p>
 
 <p><br />
 O estudo realizado por ele, que contempla Argentina, Brasil, Chile, Col&ocirc;mbia e M&eacute;xico mostra que os n&iacute;veis de concentra&ccedil;&atilde;o no mercado da TV aberta seguem sendo tamb&eacute;m muito elevados &ndash; em torno de 80% nos pa&iacute;ses estudados &ndash; o que confirma a necessidade de ainda se dedicar esfor&ccedil;os &iacute;mpares na regula&ccedil;&atilde;o econ&ocirc;mica deste setor.</p>
