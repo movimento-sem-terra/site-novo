@@ -105,7 +105,9 @@ Diana lembra que toda a diversidade das refei&ccedil;&otilde;es que foram servid
 <p><br />
 O dirigente nacional do MST pelo RS, Ildo Pereira, em di&aacute;logo com as crian&ccedil;as, motivou-as a continuarem a luta de seus pais por soberania alimentar e a reforma agr&aacute;ria popular. &ldquo;Os Sem Terrinhas s&atilde;o o futuro do nosso Movimento. Queremos que voc&ecirc;s saiam desse encontro com o compromisso de serem nossa vanguarda e defensores da produ&ccedil;&atilde;o de alimentos saud&aacute;veis&rdquo;, refor&ccedil;a.</p>
 
-<p>50</p>
+<figure class="image" style="float:right"><img alt="IMG_6073.jpg" height="252" src="//farm6.staticflickr.com/5475/30412486215_583d220ab0_b.jpg" width="400" />
+<figcaption></figcaption>
+</figure>
 
 <p><br />
 <strong>Confira a &iacute;ntegra da carta compromisso dos Sem Terrinhas do Rio Grande do Sul:</strong></p>
@@ -137,6 +139,10 @@ Nos colocamos em marcha para denunciar o sucateamento da educa&ccedil;&atilde;o 
 <p>Fortalecer em nossos assentamentos e escolas o trabalho sobre a produ&ccedil;&atilde;o de alimentos saud&aacute;vel, bem como trocar experi&ecirc;ncia;</p>
 
 <p>Organizar feiras e amostras nas escolas para divulgar a produ&ccedil;&atilde;o org&acirc;nica e agroecol&oacute;gica dos nossos assentamentos;</p>
+
+<figure class="image" style="float:left"><img alt="IMG_7425.jpg" height="267" src="//farm6.staticflickr.com/5772/29780799303_ebd514967e_b.jpg" width="400" />
+<figcaption></figcaption>
+</figure>
 
 <p>Lutar pela educa&ccedil;&atilde;o p&uacute;blica e do campo, n&atilde;o permitindo que nenhuma escola seja fechada;</p>
 
