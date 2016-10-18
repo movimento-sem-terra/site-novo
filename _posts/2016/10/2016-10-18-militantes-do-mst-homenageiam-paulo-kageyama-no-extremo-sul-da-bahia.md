@@ -4,7 +4,7 @@ tags:
   - tag: paulo-kageyama
   - tag: homenagem
   - tag: bahia
-title: Militantes do MST homenageiam Paulo Kageyama no extremo sul da Bahia
+title: MST homenageia Paulo Kageyama no extremo sul da Bahia
 support_line: "A contribuição política do professor na construção da Escola Popular de Agroecologia e Agrofloresta Egídio Brunetto, no extremo sul da Bahia, foram as referências históricas que mediaram a homenagem"
 menu: reforma agrária
 images_hd: //farm6.staticflickr.com/5456/30375070006_9d9aa16462_b.jpg
