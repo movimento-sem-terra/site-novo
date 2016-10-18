@@ -47,7 +47,7 @@ Diante disso, o Movimento lan&ccedil;a uma nota sobre a decis&atilde;o do STJ e 
 &ldquo;Por unanimidade, o STJ definiu que a milit&acirc;ncia no MST n&atilde;o se configura como participa&ccedil;&atilde;o em organiza&ccedil;&atilde;o criminosa, reconhecendo que lutar n&atilde;o &eacute; crime&rdquo;, salienta trecho de nota.</p>
 
 <p><br />
-O MST ainda afirma a continuidade da luta pela liberta&ccedil;&atilde;o dos presos pol&iacute;ticos da luta pela reforma agr&aacute;ria em Goi&aacute;s. &nbsp;</p>
+O MST ainda afirma a continuidade da luta pela liberta&ccedil;&atilde;o dos presos pol&iacute;ticos da luta pela reforma agr&aacute;ria em Goi&aacute;s. Tanto Luiz Batista, quanto L&aacute;zaro Pereira&nbsp;seguem encarcerados.&nbsp;</p>
 
 <p><br />
 &ldquo;O setor de direitos humanos do MST vai recorrer ao STF para obter o habeas corpus no mesmo processo para o agricultor Luiz Batista Borges, encarcerado h&aacute; seis meses, e de Natalino de Jesus e Diessyka Lorena, que est&atilde;o exilados&rdquo;, ressalta.</p>
