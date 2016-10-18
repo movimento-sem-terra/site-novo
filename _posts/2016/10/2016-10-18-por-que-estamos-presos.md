@@ -6,7 +6,7 @@ tags:
   - tag: reforma-agrária
   - tag: goiás
 title: Por que estamos presos?
-support_line: "“Nossas prisões não tem razão de existir. Não cometemos crime algum\""
+support_line: Integrante do MST que terá habeas corpus julgado nesta terça escreve carta à militância
 menu: direitos humanos
 section: featured-news
 images_hd: //farm6.staticflickr.com/5582/29776245624_4f22caf9df_b.jpg
