@@ -75,8 +75,8 @@ As for&ccedil;as conservadoras do Judici&aacute;rio - aliadas aos latifundi&aacu
 Desde abril h&aacute; militantes presos por participar da luta pela democratiza&ccedil;&atilde;o da terra. Querem enquadrar o MST como uma organiza&ccedil;&atilde;o criminosa.</p>
 
 <figure class="image" style="float:left"><img alt="Rio Verde 2.jpg" height="278" src="//farm9.staticflickr.com/8135/30373409676_c243173297_b.jpg" width="370" />
-<figcaption><em>Militantes da Reforma Agr&aacute;ria em Rio Verde a espera da<br />
-liberta&ccedil;&atilde;o dos Sem Terra.</em></figcaption>
+<figcaption><em>Militantes da Reforma Agr&aacute;ria em Rio Verde<br />
+a espera da liberta&ccedil;&atilde;o dos Sem Terra.</em></figcaption>
 </figure>
 
 <p><br />
