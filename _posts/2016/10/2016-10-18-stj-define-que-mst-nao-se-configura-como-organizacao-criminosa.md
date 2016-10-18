@@ -4,7 +4,7 @@ tags:
   - tag: direitos-humanos
   - tag: goiás
   - tag: crimizalização
-title: STJ define que MST não se configura como organização criminosa
+title: " STJ definiu que militância no MST não se configura como participação em organização criminosa"
 support_line: "\"O MST obteve uma importante vitória diante da onda de criminalização da política que avança no país\""
 menu: direitos humanos
 section: cover
