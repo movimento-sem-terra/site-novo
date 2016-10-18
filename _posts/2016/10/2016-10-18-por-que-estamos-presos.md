@@ -78,11 +78,15 @@ O que eu, Luiz, Diessyka e Natalino temos em comum? Muitas coisas em comum h&aac
 Em comum, temos o fato de pertencer &agrave; mesma organiza&ccedil;&atilde;o social &ndash; o MST. Em comum temos sonhos, desejos coletivos de constru&ccedil;&atilde;o de uma nova sociedade, com justi&ccedil;a social, que a terra, bem comum, realmente seja de todos; que possa cumprir a sua fun&ccedil;&atilde;o social e ecol&oacute;gica. Portanto, temos em comum o desejo de uma reforma agr&aacute;ria de car&aacute;ter popular.</p>
 
 <p><br />
-Sonhamos e lutamos por um projeto de campo com camponeses cumprindo sua fun&ccedil;&atilde;o/miss&atilde;o de produzir alimentos saud&aacute;veis para alimentar toda a sociedade. Sonhamos e lutamos por uma educa&ccedil;&atilde;o do campo, uma escola onde educadores e educandos aprendam a ler o mundo criticamente e propositalmente, onde os valores humanistas sejam uma pr&aacute;tica cotidiana.<br />
+Sonhamos e lutamos por um projeto de campo com camponeses cumprindo sua fun&ccedil;&atilde;o/miss&atilde;o de produzir alimentos saud&aacute;veis para alimentar toda a sociedade. Sonhamos e lutamos por uma educa&ccedil;&atilde;o do campo, uma escola onde educadores e educandos aprendam a ler o mundo criticamente e propositalmente, onde os valores humanistas sejam uma pr&aacute;tica cotidiana.</p>
+
+<p><br />
 Temos em comum o desejo e sonho de uma sociedade em que os jovens do campo e cidade n&atilde;o sejam apenas uma estat&iacute;stica e somente potencial de for&ccedil;a de trabalho a ser explorada pelos capitalistas, mas sejam sujeitos cr&iacute;ticos e construtores de uma sociedade realmente desenvolvida, livres para expressar suas opini&otilde;es e afli&ccedil;&otilde;es.</p>
 
 <p><br />
-Temos em comum o sonho e desejo de uma sociedade que valorize, reconhe&ccedil;a e respeite a terceira idade, que estes sejam vistos e tratados como solu&ccedil;&atilde;o, como mem&oacute;ria hist&oacute;rica. Que sejam valorizados na sua fun&ccedil;&atilde;o social, dando sua parcela de contribui&ccedil;&atilde;o para as atuais gera&ccedil;&otilde;es. Que n&atilde;o sejam vistos com preconceitos, problema ou custo para a sociedade ou como problema para a previd&ecirc;ncia social: esta &eacute; a tentativa cotidiana, ideol&oacute;gica, que as for&ccedil;as e interesses do capital fazem para justificar a retiradas de direitos historicamente conquistados.<br />
+Temos em comum o sonho e desejo de uma sociedade que valorize, reconhe&ccedil;a e respeite a terceira idade, que estes sejam vistos e tratados como solu&ccedil;&atilde;o, como mem&oacute;ria hist&oacute;rica. Que sejam valorizados na sua fun&ccedil;&atilde;o social, dando sua parcela de contribui&ccedil;&atilde;o para as atuais gera&ccedil;&otilde;es. Que n&atilde;o sejam vistos com preconceitos, problema ou custo para a sociedade ou como problema para a previd&ecirc;ncia social: esta &eacute; a tentativa cotidiana, ideol&oacute;gica, que as for&ccedil;as e interesses do capital fazem para justificar a retiradas de direitos historicamente conquistados.</p>
+
+<p><br />
 Sonhamos e lutamos por uma cidade com urbanidade, uma cidade em que todos tenham habita&ccedil;&atilde;o de qualidade, com casas sem muros e cercas el&eacute;tricas. Em que os moradores possam olhar e ver a rua, se cumprimentarem, brincar nas pra&ccedil;as sem medo de serem roubados ou violentados. Que a cidade seja lugar de vida em todas as dimens&otilde;es.</p>
 
 <p><br />
