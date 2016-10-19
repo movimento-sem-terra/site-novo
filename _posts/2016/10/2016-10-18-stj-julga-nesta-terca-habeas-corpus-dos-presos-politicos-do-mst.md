@@ -7,7 +7,7 @@ tags:
 title: STJ julga nesta terça habeas corpus dos presos políticos do MST
 support_line: Durante o julgamento acontecerá uma vigília em frente ao TJ-GO e nos Fóruns de dez cidades do interior
 menu: direitos humanos
-section: featured-news
+section: null
 images_hd: //farm6.staticflickr.com/5321/29774288103_8cf3d46f92_b.jpg
 layout: post
 files:
