@@ -6,7 +6,7 @@ tags:
   - tag: alimentação-saudável
 title: Seminário de Alimentação Saudável debate agroecologia na Bahia
 menu: agricultura camponesa
-support_line: "Diversos movimentos, organizações e seguimentos políticos avaliaram a atuação do Governo as iniciativas que garantem o escoamento de alimentos saudáveis à população baiana"
+support_line: "Diversos movimentos, organizações e seguimentos políticos avaliaram a atuação do governo as iniciativas que garantem o escoamento de alimentos saudáveis à população baiana"
 images_hd: //farm9.staticflickr.com/8274/30339099271_180ebdaa90_b.jpg
 layout: post
 files:
@@ -43,7 +43,7 @@ Da P&aacute;gina do MST</em></p>
 Com o objetivo de ampliar e fortalecer os debates em torno da produ&ccedil;&atilde;o agroecol&oacute;gica, o MST contribuiu, nesta ter&ccedil;a-feira (18), com os debates realizados no Semin&aacute;rio Alimenta&ccedil;&atilde;o Saud&aacute;vel e o SISAN na Bahia, realizado no audit&oacute;rio da Funda&ccedil;&atilde;o Luiz Eduardo Magalh&atilde;es, localizado no Centro Administrativo da Bahia (CAB).</p>
 
 <p><br />
-Diversos movimentos, organiza&ccedil;&otilde;es e seguimentos pol&iacute;ticos estiveram presentes no evento e avaliaram os passos dados pelo atual Governo por meio de v&aacute;rias iniciativas que garantem o escoamento de alimentos saud&aacute;veis &agrave; popula&ccedil;&atilde;o baiana.</p>
+Diversos movimentos, organiza&ccedil;&otilde;es e seguimentos pol&iacute;ticos estiveram presentes no evento e avaliaram os passos dados pelo atual governo por meio de v&aacute;rias iniciativas que garantem o escoamento de alimentos saud&aacute;veis &agrave; popula&ccedil;&atilde;o baiana.</p>
 
 <p><br />
 Exemplo disso, foram os apontamentos realizados a partir dos resultados colhidos com o Programa de Aquisi&ccedil;&atilde;o de Alimentos (PAA) e o Programa Nacional de Alimenta&ccedil;&atilde;o Escolar (PNAE), ambos avaliados de maneira positiva pela plen&aacute;ria e colocados como instrumentos importantes para o desenvolvimento econ&ocirc;mico e social no campo brasileiro.</p>
