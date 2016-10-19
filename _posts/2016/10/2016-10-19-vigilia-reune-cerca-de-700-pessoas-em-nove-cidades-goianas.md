@@ -29,7 +29,8 @@ releated_posts:
 ---
 <p>&nbsp;</p>
 
-<p><em>Da P&aacute;gina do MST</em></p>
+<p><em>Por Maisa Lima<br />
+Da P&aacute;gina do MST</em></p>
 
 <p><br />
 Cerca de 700 pessoas participaram,&nbsp;nesta ter&ccedil;a-feira (18),&nbsp;da vig&iacute;lia pela liberta&ccedil;&atilde;o dos presos pol&iacute;ticos do MST em Goi&aacute;s.</p>
