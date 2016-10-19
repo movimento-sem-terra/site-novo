@@ -30,6 +30,12 @@ releated_posts:
 ---
 <p>&nbsp;</p>
 
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="VC_Indios-protestam-em-frente-ao-STF-Brasilia_05212015002-850x537.jpg" height="442" src="//farm6.staticflickr.com/5521/30425693985_eb78a1722c_b.jpg" width="700" />
+<figcaption><em>Foto: Valter Campanato/ Ag&ecirc;ncia Brasil</em></figcaption>
+</figure>
+</div>
+
 <p>&nbsp;</p>
 
 <p><em>De Olho nos Ruralistas&nbsp;</em></p>
