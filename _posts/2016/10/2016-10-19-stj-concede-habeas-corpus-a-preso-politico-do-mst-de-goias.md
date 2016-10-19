@@ -34,9 +34,14 @@ releated_posts:
 ---
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="unnamed.jpg" height="336" src="//farm9.staticflickr.com/8548/30331144621_8d1100de81_b.jpg" width="700" />
+<figcaption><em>O Sem Terra Valdir Misnerovicz (centro), recebeu habeas corpus nesta ter&ccedil;a-feira (18), por decis&atilde;o do STJ, em Bras&iacute;lia / Reprodu&ccedil;&atilde;o/ Brasil de Fato</em></figcaption>
+</figure>
+</div>
 
-<p><em>Por&nbsp;Lizely Borges, do MST<br />
+<p><br />
+<em>Por&nbsp;Lizely Borges, do MST<br />
 Cristiane Sampaio, do Brasil de Fato<br />
 Da P&aacute;gina do MST&nbsp;</em></p>
 
