@@ -85,10 +85,16 @@ Os mandados se relacionam &agrave; ocupa&ccedil;&atilde;o de uma parte da usina 
 <strong>Mobiliza&ccedil;&atilde;o permanente</strong></p>
 
 <p><br />
-Para o MST, o resultado do julgamento aponta para o fortalecimento das a&ccedil;&otilde;es de mobiliza&ccedil;&atilde;o e resist&ecirc;ncia contra a criminaliza&ccedil;&atilde;o das lideran&ccedil;as e da luta agr&aacute;ria. &ldquo;Ficou claro para o Tribunal, nos autos e nas suas falas, atesta que lutar pela terra n&atilde;o &eacute; crime e estar agrupado com o MST n&atilde;o &eacute; crime. Que a fala desses ministros possa ecoar esse Brasil e cada vez mais a gente possa organizar o nosso povo e fazer a justi&ccedil;a social na luta pela terra&rdquo;, disse Alexandre Concei&ccedil;&atilde;o.</p>
+Para o MST, o resultado do julgamento aponta para o fortalecimento das a&ccedil;&otilde;es de mobiliza&ccedil;&atilde;o e resist&ecirc;ncia contra a criminaliza&ccedil;&atilde;o das lideran&ccedil;as e da luta agr&aacute;ria.</p>
 
 <p><br />
-Para Dom Guilherme Antonio Werlang, da Confedera&ccedil;&atilde;o Nacional dos Bispos do Brasil (CNBB), a decis&atilde;o precisa ser disseminada em grande escala. &ldquo;N&oacute;s temos que divulgar amplamente este pronunciamento un&acirc;nime dos ministros do STJ de que o MST e os movimentos populares n&atilde;o s&atilde;o organiza&ccedil;&otilde;es criminosas. Inclusive, eles disseram que os movimentos s&atilde;o indispens&aacute;veis e relevantes para a democracia na busca pelos direitos de toda cidad&atilde; e cidad&atilde;o&rdquo;, disse o bispo, que &eacute; um dos autores do pedido de habeas corpus e acompanhou o julgamento.</p>
+&ldquo;Ficou claro para o Tribunal, nos autos e nas suas falas, atesta que lutar pela terra n&atilde;o &eacute; crime e estar agrupado com o MST n&atilde;o &eacute; crime. Que a fala desses ministros possa ecoar esse Brasil e cada vez mais a gente possa organizar o nosso povo e fazer a justi&ccedil;a social na luta pela terra&rdquo;, disse Alexandre Concei&ccedil;&atilde;o.</p>
+
+<p><br />
+Dom Guilherme Antonio Werlang, da Confedera&ccedil;&atilde;o Nacional dos Bispos do Brasil (CNBB), tamb&eacute;m acredita que a decis&atilde;o precisa ser disseminada em grande escala.</p>
+
+<p><br />
+&ldquo;N&oacute;s temos que divulgar amplamente este pronunciamento un&acirc;nime dos ministros do STJ de que o MST e os movimentos populares n&atilde;o s&atilde;o organiza&ccedil;&otilde;es criminosas. Inclusive, eles disseram que os movimentos s&atilde;o indispens&aacute;veis e relevantes para a democracia na busca pelos direitos de toda cidad&atilde; e cidad&atilde;o&rdquo;, disse o bispo, que &eacute; um dos autores do pedido de habeas corpus e acompanhou o julgamento.</p>
 
 <p><br />
 Os dois refor&ccedil;aram a continuidade da Campanha Internacional pela Liberdade dos Presos da Reforma Agr&aacute;ria do Estado de Goi&aacute;s, a&ccedil;&atilde;o desenvolvida por diversos movimentos, centrais sindicais, organiza&ccedil;&otilde;es, pesquisadores e entidades.</p>
