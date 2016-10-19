@@ -70,6 +70,9 @@ Embora os magistrados n&atilde;o tenham atendido &agrave; totalidade dos pedidos
 Ap&oacute;s o julgamento, o MST avaliou a decis&atilde;o como um resultado positivo em alguns aspectos. &ldquo;Tivemos duas grandes vit&oacute;rias: uma do debate pol&iacute;tico sobre a import&acirc;ncia da organiza&ccedil;&atilde;o dos movimentos populares e outra, que foi a soltura do Valdir. Se a gente pegar o primeiro julgamento, n&oacute;s perdemos de tr&ecirc;s a zero; no segundo, de tr&ecirc;s a um; e agora conseguimos soltar um companheiro. Isso significa que estamos no caminho certo para soltar os outros companheiros, que n&atilde;o cometeram crime, apenas buscaram justi&ccedil;a&rdquo;, disse, em refer&ecirc;ncia &agrave; evolu&ccedil;&atilde;o do processo nas diferentes esferas de decis&atilde;o judicial.</p>
 
 <p><br />
+<a href="http://www.mst.org.br/2016/10/18/stj-define-que-mst-nao-se-configura-como-organizacao-criminosa.html">Confira a nota do MST sobre a decis&atilde;o</a></p>
+
+<p><br />
 <strong>O caso</strong></p>
 
 <p><br />
