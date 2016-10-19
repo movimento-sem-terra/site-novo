@@ -27,12 +27,16 @@ releated_posts:
   - _posts/2016/03/2016-03-02-escolas-do-mst-recebem-premiacao-por-rememorar-a-luta-de-zumbi.md
 
 ---
+<p>&nbsp;</p>
+
 <p><em>Por Ra&iacute;ssa Lopes<br />
 Do Brasil de Fato</em></p>
 
-<p>Nos dias 22 e 23 de outubro, a cidade de Campo do Meio recebe o 1&ordm; Festival de Cultura Campesina do Sul de Minas. Organizado pelo Movimento dos Trabalhadores s Rurais Sem Terra (MST), a iniciativa pretende valorizar os artistas locais e fazer frente aos &uacute;ltimos acontecimentos na Usina Ariadn&oacute;polis. L&aacute; est&aacute; localizado um assentamento que resiste h&aacute; pelo menos 14 anos e, em &uacute;ltimo acordo realizado com a empresa Usina Ariadn&oacute;polis A&ccedil;&uacute;car e &Aacute;lcool S/A, as fam&iacute;lias foram obrigadas a se retirar da sede do terreno e ocupar uma &aacute;rea menor.</p>
+<p><br />
+Nos dias 22 e 23 de outubro, a cidade de Campo do Meio recebe o 1&ordm; Festival de Cultura Campesina do Sul de Minas. Organizado pelo Movimento dos Trabalhadores s Rurais Sem Terra (MST), a iniciativa pretende valorizar os artistas locais e fazer frente aos &uacute;ltimos acontecimentos na Usina Ariadn&oacute;polis. L&aacute; est&aacute; localizado um assentamento que resiste h&aacute; pelo menos 14 anos e, em &uacute;ltimo acordo realizado com a empresa Usina Ariadn&oacute;polis A&ccedil;&uacute;car e &Aacute;lcool S/A, as fam&iacute;lias foram obrigadas a se retirar da sede do terreno e ocupar uma &aacute;rea menor.</p>
 
-<p>&ldquo;A arte, os saberes populares e a produ&ccedil;&atilde;o de alimentos saud&aacute;veis foram despejados. Esse festival vem para mostrar que a cultura &eacute; uma grande ferramenta de transforma&ccedil;&atilde;o social e de di&aacute;logo com a sociedade. Para mostrar que iremos lutar&rdquo;, ressalta a coordenadora da atividade e militante do MST, Maysa Matias.</p>
+<p><br />
+&ldquo;A arte, os saberes populares e a produ&ccedil;&atilde;o de alimentos saud&aacute;veis foram despejados. Esse festival vem para mostrar que a cultura &eacute; uma grande ferramenta de transforma&ccedil;&atilde;o social e de di&aacute;logo com a sociedade. Para mostrar que iremos lutar&rdquo;, ressalta a coordenadora da atividade e militante do MST, Maysa Matias.</p>
 
 <p><strong>Resist&ecirc;ncia e mem&oacute;ria</strong></p>
 
