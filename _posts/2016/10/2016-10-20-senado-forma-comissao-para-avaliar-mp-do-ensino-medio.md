@@ -24,6 +24,8 @@ releated_posts:
   - _posts/2016/06/2016-06-24-jovens-de-mais-de-40-paises-debatem-a-politica-no-festival-da-utopia.md
 
 ---
+<p>&nbsp;</p>
+
 <p><em>Por Cristiane Sampaio<br />
 Do Brasil de Fato</em></p>
 
@@ -41,6 +43,7 @@ O relator escolhido foi o senador Pedro Chaves (PSC-MS), que disse que pretende 
 
 <p><br />
 <strong>Controv&eacute;rsias</strong><br />
+<br />
 <br />
 A pol&ecirc;mica que circunda a medida resultou, at&eacute; agora, no recebimento de 567 emendas (sugest&otilde;es de altera&ccedil;&atilde;o). Al&eacute;m disso, a MP &eacute; alvo de questionamentos no Supremo Tribunal Federal (STF) por parte de parlamentares da oposi&ccedil;&atilde;o, que criticam especialmente a forma como as modifica&ccedil;&otilde;es no ensino est&atilde;o sendo propostas.</p>
 
@@ -81,5 +84,4 @@ Professores e diversos atores com atua&ccedil;&atilde;o ligada &agrave; educa&cc
 &ldquo;Ela vem com o argumento de que vai ajudar o ensino m&eacute;dio a melhorar o seu rendimento, mas isso n&atilde;o &eacute; verdade. Entre outras coisas, ela atropela a Constitui&ccedil;&atilde;o Federal, que diz que todo jovem com idade entre 15 e 17 anos tem que estar matriculado no ensino m&eacute;dio, e a medida n&atilde;o se prop&otilde;e a resolver isso. Temos atualmente 1,7 milh&atilde;o de jovens fora da escola, e eles v&atilde;o continuar nessa situa&ccedil;&atilde;o. Ent&atilde;o, essa proposta &eacute; pura engana&ccedil;&atilde;o&rdquo;, criticou o dirigente.</p>
 
 <p><br />
-<em>*Editado por&nbsp;Camila Rodrigues da Silva</em><br />
-&Aacute;rea de anexos</p>
+<em>*Editado por&nbsp;Camila Rodrigues da Silva</em></p>
