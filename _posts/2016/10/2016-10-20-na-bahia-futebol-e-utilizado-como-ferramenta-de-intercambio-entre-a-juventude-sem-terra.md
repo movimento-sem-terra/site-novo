@@ -3,7 +3,7 @@ date: "2016-10-20T11:40:35-02:00"
 tags:
   - tag: "educação,-cultura-e-comunicação"
   - tag: juventude
-title: "Na Bahia,  futebol é utilizado como ferramenta de intercâmbio entre a juventude Sem Terra"
+title: "Na Bahia,  futebol é utilizado como ferramenta de intercâmbio entre a juventude"
 support_line: "“O esporte tem o dom de transformar, sensibilizar, mobilizar e aproximar pessoas. E esse é nosso objetivo, estreitar as nossas relações com outros acampamentos e assentamentos\", afirmou assentado."
 menu: "educação, cultura e comunicação"
 images_hd: //farm6.staticflickr.com/5509/30412073316_31991aa87f_b.jpg
@@ -28,10 +28,13 @@ releated_posts:
   - _posts/2016/06/2016-06-03-juventude-da-regiao-sul-denuncia-os-inimigos-da-reforma-agraria-e-da-democracia.md
 
 ---
+<p style="text-align:center"><img alt="WhatsApp Image 2016-10-19 at 11.01.jpg" height="519" src="//farm6.staticflickr.com/5509/30412073316_31991aa87f_b.jpg" width="700" /></p>
+
 <p><em>Por Coletivo de Comunica&ccedil;&atilde;o do MST na Bahia<br />
 Da P&aacute;gina do MST</em></p>
 
-<p>Neste &uacute;ltimo domingo (16) mais de 120 jovens Sem Terra promoveram um grande interc&acirc;mbio social e esportivo com a realiza&ccedil;&atilde;o de jogos de futebol, reunindo algumas &aacute;reas do MST, como os acampamentos Anita Garibalde e F&aacute;bio Santos e o Assentamento Bela Manh&atilde;, ambos localizados no Extremo Sul da Bahia.</p>
+<p><br />
+Neste &uacute;ltimo domingo (16) mais de 120 jovens Sem Terra promoveram um grande interc&acirc;mbio social e esportivo com a realiza&ccedil;&atilde;o de jogos de futebol, reunindo algumas &aacute;reas do MST, como os acampamentos Anita Garibalde e F&aacute;bio Santos e o Assentamento Bela Manh&atilde;, ambos localizados no Extremo Sul da Bahia.</p>
 
 <p>O evento j&aacute; se tornou uma tradi&ccedil;&atilde;o entre as comunidades, que se re&uacute;nem duas vezes ao m&ecirc;s para contarem hist&oacute;rias, compartilhar alegrias e se confraternizarem com um almo&ccedil;o coletivo, acompanhado por m&uacute;sicas, dan&ccedil;as e culminando com a partida de futebol.</p>
 
@@ -51,6 +54,7 @@ Da P&aacute;gina do MST</em></p>
 
 <p>No final da tarde mesmo com os placares apontando uma diferen&ccedil;a num&eacute;rica, 2 x 1 e 4 x 0, n&atilde;o houve perdedores entre as comunidades. Todos sa&iacute;ram ganhando, pois o que prevaleceu foram as rela&ccedil;&otilde;es de amizade, confraterniza&ccedil;&atilde;o, companherismo e unidade.</p>
 
-<p><em>*Editado por Wesley Lima</em></p>
+<p><br />
+<em>*Editado por Wesley Lima</em></p>
 
 <p>&nbsp;</p>
