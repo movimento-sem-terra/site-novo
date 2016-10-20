@@ -5,7 +5,7 @@ tags:
   - tag: agroecologia
   - tag: universidade
 title: MST leva o debate da agroecologia à Universidade Federal do Sul da Bahia
-support_line: O debate buscou ampliar o diálogo com a sociedade acadêmica e proporcionar junto a instituição de ensino a construção de uma ciência comprometida com o desenvolvimento da realidade social.
+support_line: O debate buscou ampliar o diálogo com a sociedade acadêmica para proporcionar a construção de uma ciência comprometida com o desenvolvimento da realidade social
 menu: reforma agrária
 images_hd: //farm9.staticflickr.com/8662/30334037872_0e2ab39289_b.jpg
 layout: post
@@ -87,5 +87,3 @@ Destacaram tamb&eacute;m, os resultados dos projetos trabalhados com as fam&iacu
 
 <p><br />
 <em>*Editado por Wesley Lima</em></p>
-
-<p>&nbsp;</p>
