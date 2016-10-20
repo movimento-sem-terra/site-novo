@@ -32,6 +32,7 @@ releated_posts:
   - _posts/2016/04/2016-04-21-camponeses-de-23-paises-discutem-dados-da-cpt-de-conflitos-no-campo.md
   - _posts/2016/04/2016-04-19-esses-conflitos-vao-continuar-e-a-tendencia-e-acirrar-cada-vez-mais-diz-militante-historico-de-rondonia.md
   - _posts/2016/10/2016-10-10-pec-241-e-agora-bancada-ruralista.md
+section: featured-news
 
 ---
 <p>&nbsp;</p>
