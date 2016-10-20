@@ -7,7 +7,7 @@ tags:
 title: " STJ definiu que militância no MST não se configura como participação em organização criminosa"
 support_line: "\"O MST obteve uma importante vitória diante da onda de criminalização da política que avança no país\""
 menu: direitos humanos
-section: cover
+section: featured-news
 images_hd: //farm6.staticflickr.com/5742/30416777335_a0f1c31109_b.jpg
 layout: post
 files:
