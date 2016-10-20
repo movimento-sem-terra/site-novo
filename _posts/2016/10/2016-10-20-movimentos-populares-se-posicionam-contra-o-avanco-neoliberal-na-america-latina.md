@@ -23,8 +23,11 @@ published: true
 releated_posts:
   - _posts/2016/09/2016-09-08-organizacoes-do-campo-afirmam-continuidade-das-mobilizacoes-apos-acampamento-unitario.md
   - _posts/2016/09/2016-09-01-mst-repudia-golpe-e-afirma-seguir-na-luta-pela-restauracao-da-democracia-brasileira.md
+section: cover
 
 ---
+<p>&nbsp;</p>
+
 <p><em>Da P&aacute;gina do MST</em><br />
 &nbsp;</p>
 
@@ -37,7 +40,7 @@ Tendo como plano de fundo os processos revolucion&aacute;rios que ocorreram em C
 &ldquo;Reafirmamos que vamos nos manter nas ruas resistindo, mas tamb&eacute;m construindo a unidade e acumulando for&ccedil;as para reverter o projeto de restaura&ccedil;&atilde;o neoliberal que a direita tenta nos impor&rdquo;, destaca o documento.</p>
 
 <p><br />
-Leia na &iacute;ntegra a declara&ccedil;&atilde;o.</p>
+<strong>Leia na &iacute;ntegra a declara&ccedil;&atilde;o.</strong></p>
 
 <p><br />
 <strong>Declara&ccedil;&atilde;o dos movimentos populares ante a conjuntura da Am&eacute;rica Latina, 17 de outubro de 2016, Caracas, Venezuela</strong></p>
@@ -91,7 +94,7 @@ Os povos s&atilde;o os principais garantidores da sua continuidade, porque neles
 Por esse motivo, recha&ccedil;amos qualquer ato dirigido a desmoralizar e desmobilizar as diversas express&otilde;es organizadas no campo popular de esquerda, e reafirmamos que vamos nos manter nas ruas resistindo, mas tamb&eacute;m construindo a unidade e acumulando for&ccedil;as para reverter o projeto de restaura&ccedil;&atilde;o neoliberal que a direita tenta nos impor.</p>
 
 <p><br />
-Expressamos nossa lealdade e compromisso de defender incondicionalmente a Revolu&ccedil;&atilde;o Bolivariana, assim como a soberania e autodetermina&ccedil;&atilde;o do povo da Venezuela. A obra iniciada por Hugo Ch&aacute;vez e continuada por Nicol&aacute;s Maduro representa um s&iacute;mbolo de resist&ecirc;ncia, e seus avan&ccedil;os demostram que &eacute; poss&iacute;vel construir um socialismo democr&aacute;tico e participativo a partir da transforma&ccedil;&atilde;o do modelo capitalista de produ&ccedil;&atilde;o e de reprodu&ccedil;&atilde;o da vida.</p>
+Expressamos nossa lealdade e compromisso de defender incondicionalmente a Revolu&ccedil;&atilde;o Bolivariana, assim como a soberania e autodetermina&ccedil;&atilde;o do povo da Venezuela. A obra iniciada por Hugo Ch&aacute;vez e continuada por Nicol&aacute;s Maduro representa um s&iacute;mbolo de resist&ecirc;ncia, e seus avan&ccedil;os demonstram que &eacute; poss&iacute;vel construir um socialismo democr&aacute;tico e participativo a partir da transforma&ccedil;&atilde;o do modelo capitalista de produ&ccedil;&atilde;o e de reprodu&ccedil;&atilde;o da vida.</p>
 
 <p><br />
 Do mesmo jeito, sentimo-nos comprometidos com a defesa de Am&eacute;rica Latina e do Caribe como zonas de paz, onde os povos possam conviver em condi&ccedil;&otilde;es de bem-estar, equidade, justi&ccedil;a social e ambiental.</p>
@@ -129,4 +132,4 @@ Movimiento Popular Patria Grande. Argentina</p>
 
 <p><br />
 <em>*Tradu&ccedil;&atilde;o: Mar&iacute;a Julia Gim&eacute;nez<br />
-*Editado por Wesley Lima</em></p>
+**Editado por Wesley Lima</em></p>
