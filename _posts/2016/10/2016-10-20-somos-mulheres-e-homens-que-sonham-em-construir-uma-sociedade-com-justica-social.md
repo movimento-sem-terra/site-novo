@@ -54,7 +54,8 @@ Ao sair da pris&atilde;o, o militante da Reforma Agr&aacute;ria concedeu uma ent
 Valdir continuou e comentou que quando algu&eacute;m faz essa op&ccedil;&atilde;o de vida tem de estar preparado para tudo, inclusive para a pris&atilde;o, que &eacute; funcional para o sistema vigente.</p>
 
 <figure class="image" style="float:left"><img alt="Valdir sai da CPP.jpg" height="452" src="//farm6.staticflickr.com/5474/30157376180_42e7dc4819_b.jpg" width="400" />
-<figcaption><em>Valdir na sa&iacute;da do&nbsp;Complexo Prisional de Aparecida de Goi&acirc;nia.</em></figcaption>
+<figcaption><em>Valdir na sa&iacute;da do&nbsp;Complexo Prisional de Aparecida de<br />
+Goi&acirc;nia.</em></figcaption>
 </figure>
 
 <p><br />
