@@ -24,10 +24,15 @@ releated_posts:
   - _posts/2016/08/2016-08-26-monsanto-se-intromete-na-producao-de-organicos-movimentos-criticam-violacoes.md
 
 ---
+<p>&nbsp;</p>
+
 <p><em>Do Opera Mundi</em></p>
 
 <p><br />
-Organiza&ccedil;&otilde;es da sociedade civil montaram um tribunal internacional que, na sexta-feira (14/10), iniciou um &ldquo;julgamento moral&rdquo; da gigante do agroneg&oacute;cio Monsanto. Realizado em Haia, cidade holandesa sede da Corte Internacional de Justi&ccedil;a da ONU, o tribunal n&atilde;o tem valor jur&iacute;dico. O evento, chamado de Tribunal Monsanto, contou com o apoio de 200 organiza&ccedil;&otilde;es e teve a inten&ccedil;&atilde;o de, pela primeira vez, julgar a multinacional por supostos preju&iacute;zos a pessoas e ao meio ambiente decorrentes de seus agrot&oacute;xicos e/ou sementes geneticamente modificadas.</p>
+Organiza&ccedil;&otilde;es da sociedade civil montaram um tribunal internacional que, na sexta-feira (14/10), iniciou um &ldquo;julgamento moral&rdquo; da gigante do agroneg&oacute;cio Monsanto. Realizado em Haia, cidade holandesa sede da Corte Internacional de Justi&ccedil;a da ONU, o tribunal n&atilde;o tem valor jur&iacute;dico.</p>
+
+<p><br />
+O evento, chamado de Tribunal Monsanto, contou com o apoio de 200 organiza&ccedil;&otilde;es e teve a inten&ccedil;&atilde;o de, pela primeira vez, julgar a multinacional por supostos preju&iacute;zos a pessoas e ao meio ambiente decorrentes de seus agrot&oacute;xicos e/ou sementes geneticamente modificadas.</p>
 
 <p><br />
 Durante tr&ecirc;s dias, cinco ju&iacute;zes ouviram 30 depoimentos de v&iacute;timas e opini&otilde;es de especialistas de 15 pa&iacute;ses diferentes para emitirem uma opini&atilde;o legal sobre o comportamento da Monsanto em seis aspectos: direito a um ambiente saud&aacute;vel, direito &agrave; sa&uacute;de, direito ao alimento, liberdade de express&atilde;o e pesquisa acad&ecirc;mica, cumplicidade em crimes de guerra (a Monsanto produziu o Agente Laranja, usado na guerra do Vietn&atilde;) e crime de &ldquo;ecoc&iacute;dio&rdquo;.</p>
