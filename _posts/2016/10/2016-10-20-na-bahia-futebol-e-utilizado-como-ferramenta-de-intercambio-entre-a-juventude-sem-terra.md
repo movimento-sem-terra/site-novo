@@ -28,7 +28,15 @@ releated_posts:
   - _posts/2016/06/2016-06-03-juventude-da-regiao-sul-denuncia-os-inimigos-da-reforma-agraria-e-da-democracia.md
 
 ---
-<p style="text-align:center"><img alt="WhatsApp Image 2016-10-19 at 11.01.jpg" height="519" src="//farm6.staticflickr.com/5509/30412073316_31991aa87f_b.jpg" width="700" /></p>
+<p>&nbsp;</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2016-10-19 at 11.01.jpg" height="519" src="//farm6.staticflickr.com/5509/30412073316_31991aa87f_b.jpg" width="700" />
+<figcaption></figcaption>
+</figure>
+</div>
+
+<p>&nbsp;</p>
 
 <p><em>Por Coletivo de Comunica&ccedil;&atilde;o do MST na Bahia<br />
 Da P&aacute;gina do MST</em></p>
