@@ -15,8 +15,20 @@ files:
     small: //farm6.staticflickr.com/5743/30334963042_06509c3c83_n.jpg
     title: 1d1b90817b8206362a26652564d815f4.jpg
     $$hashKey: 1N6
+  - link: //farm6.staticflickr.com/5528/30153995660_8c710b80c4_b.jpg
+    thumbnail: //farm6.staticflickr.com/5528/30153995660_8c710b80c4_t.jpg
+    medium: //farm6.staticflickr.com/5528/30153995660_8c710b80c4_z.jpg
+    small: //farm6.staticflickr.com/5528/30153995660_8c710b80c4_n.jpg
+    title: renata mieli.jpg
+    $$hashKey: 1Y1
+  - link: //farm6.staticflickr.com/5711/30452133185_e039724f84_b.jpg
+    thumbnail: //farm6.staticflickr.com/5711/30452133185_e039724f84_t.jpg
+    medium: //farm6.staticflickr.com/5711/30452133185_e039724f84_z.jpg
+    small: //farm6.staticflickr.com/5711/30452133185_e039724f84_n.jpg
+    title: jean.jpg
+    $$hashKey: 1Y4
 created_date: "2016-10-20T14:45:46-02:00"
-published: false
+published: true
 releated_posts:
   - _posts/2016/09/2016-09-02-fndc-repudia-desmonte-da-ebc-pelo-governo-temer.md
   - _posts/2016/10/2016-10-17-a-luta-contra-o-golpe-e-a-luta-contra-o-monopolio-midiatico.md
@@ -33,14 +45,24 @@ O FNDC completa 25 anos de atua&ccedil;&atilde;o exortando a sociedade a denunci
 <p><br />
 A campanha consiste numa plataforma de den&uacute;ncias online por meio da qual qualquer brasileiro pode denunciar casos de viola&ccedil;&atilde;o &agrave; liberdade de express&atilde;o, com a possibilidade de anexar arquivos e documentos que corroborem as den&uacute;ncias e de manter o denunciante no anonimato. Como o FNDC n&atilde;o disp&otilde;e de estrutura para acompanhar os casos individualmente, prestando assist&ecirc;ncia jur&iacute;dica &agrave;s v&iacute;timas de viola&ccedil;&otilde;es, a campanha encaminhar&aacute; as den&uacute;ncias confirmadas para todas as autoridades competentes, dando ampla divulga&ccedil;&atilde;o aos casos e pressionando politicamente as inst&acirc;ncias respons&aacute;veis pela apura&ccedil;&atilde;o e puni&ccedil;&atilde;o.</p>
 
+<figure class="image" style="float:left"><img alt="renata mieli.jpg" height="269" src="//farm6.staticflickr.com/5528/30153995660_8c710b80c4_b.jpg" width="400" />
+<figcaption><em>Renata Mielli, coordenadora geral do F&oacute;rum.</em></figcaption>
+</figure>
+
 <p><br />
 Ao discursar durante o ato pol&iacute;tico na C&acirc;mara, Renata Mielli ressaltou que o golpe em curso do pa&iacute;s impactou os movimentos sociais, inclusive o FNDC. &ldquo;Se no &uacute;ltimo per&iacute;odo lutamos por uma agenda propositiva, com foco no avan&ccedil;o da democratiza&ccedil;&atilde;o da comunica&ccedil;&atilde;o, o golpe nos colocou numa m&aacute;quina do tempo, nos fazendo retroceder. Ent&atilde;o, precisamos deixar nossa agenda propositiva de lado para colocar na ordem do dia uma agenda de den&uacute;ncia e de resist&ecirc;ncia&quot;. Renata lembrou que a liberdade de express&atilde;o &eacute; justamente uma das primeiras v&iacute;timas de golpes e rupturas democr&aacute;ticas. &quot;Governos que n&atilde;o tiveram o escrut&iacute;nio das urnas precisam calar as vozes dissonantes. N&atilde;o &eacute; poss&iacute;vel aplicar medidas t&atilde;o regressivas, que retiram direitos trabalhistas e sociais sem violar a liberdade de express&atilde;o&quot;, observou.</p>
 
 <p><br />
-Bia Barbosa, secret&aacute;ria geral do FNDC, tamb&eacute;m falou sobre o retrocesso que o golpe imp&ocirc;s &agrave; luta pela democratiza&ccedil;&atilde;o da comunica&ccedil;&atilde;o. &quot;Neste momento, nossa perspectiva n&atilde;o &eacute; mais a de avan&ccedil;ar na luta por um novo marco regulat&oacute;rio para as comunica&ccedil;&otilde;es, mas de fortalecer a luta pela democratiza&ccedil;&atilde;o da comunica&ccedil;&atilde;o&quot;. Bia lembrou que as entidades que organizam e constr&oacute;em o FNDC sempre tiveram a compreens&atilde;o pol&iacute;tica de que a democracia n&atilde;o se consolidar&aacute; no Brasil sem a democratiza&ccedil;&atilde;o da comunica&ccedil;&atilde;o. &quot;Por&eacute;m, n&atilde;o conseguimos construir um cen&aacute;rio de correla&ccedil;&atilde;o de for&ccedil;as na sociedade e de decis&atilde;o pol&iacute;tica de enfrentamento do antigo governo federal para fazer avan&ccedil;ar essa agenda&quot;.&nbsp;<br />
-&nbsp;</p>
+Bia Barbosa, secret&aacute;ria geral do FNDC, tamb&eacute;m falou sobre o retrocesso que o golpe imp&ocirc;s &agrave; luta pela democratiza&ccedil;&atilde;o da comunica&ccedil;&atilde;o. &quot;Neste momento, nossa perspectiva n&atilde;o &eacute; mais a de avan&ccedil;ar na luta por um novo marco regulat&oacute;rio para as comunica&ccedil;&otilde;es, mas de fortalecer a luta pela democratiza&ccedil;&atilde;o da comunica&ccedil;&atilde;o&quot;. Bia lembrou que as entidades que organizam e constr&oacute;em o FNDC sempre tiveram a compreens&atilde;o pol&iacute;tica de que a democracia n&atilde;o se consolidar&aacute; no Brasil sem a democratiza&ccedil;&atilde;o da comunica&ccedil;&atilde;o. &quot;Por&eacute;m, n&atilde;o conseguimos construir um cen&aacute;rio de correla&ccedil;&atilde;o de for&ccedil;as na sociedade e de decis&atilde;o pol&iacute;tica de enfrentamento do antigo governo federal para fazer avan&ccedil;ar essa agenda&quot;.&nbsp;</p>
 
-<p>O deputado Jean Wyllys (PSol-RJ), coordenador da Frente Parlamentar Pela Liberdade de Express&atilde;o e o Direito &agrave; Comunica&ccedil;&atilde;o com Participa&ccedil;&atilde;o Popular (Frentecom), afirmou que se as conquistas no campo das comunica&ccedil;&otilde;es n&atilde;o foram muitas nos &uacute;ltimos anos, &quot;elas certamente se devem &agrave; atua&ccedil;&atilde;o do FNDC&quot;. Para o deputado, a campanha Calar Jamais! &eacute; um exemplo de como determinados aspectos da nossa identidade permanecem. Lembrando a m&uacute;sica de Belchior, &ldquo;Como Nossos Pais&rdquo;, Jean afirmou que a luta de hoje &eacute; a mesma de 1964, quando foi instalado o regime militar no Brasil. &ldquo;As mesmas for&ccedil;as pol&iacute;ticas que engendraram o golpe militar se reuniram e deram o golpe desta vez&rdquo;, alertou o deputado.</p>
+<figure class="image" style="float:right"><img alt="jean.jpg" height="302" src="//farm6.staticflickr.com/5711/30452133185_e039724f84_b.jpg" width="400" />
+<figcaption>O deputado Jean &eacute; coordenador da Frente Parlamentar<br />
+Pela Liberdade de Express&atilde;o e o Direito &agrave; Comunica&ccedil;&atilde;o<br />
+com Participa&ccedil;&atilde;o Popular (Frentecom).</figcaption>
+</figure>
+
+<p><br />
+O deputado Jean Wyllys (PSol-RJ), coordenador da Frente Parlamentar Pela Liberdade de Express&atilde;o e o Direito &agrave; Comunica&ccedil;&atilde;o com Participa&ccedil;&atilde;o Popular (Frentecom), afirmou que se as conquistas no campo das comunica&ccedil;&otilde;es n&atilde;o foram muitas nos &uacute;ltimos anos, &quot;elas certamente se devem &agrave; atua&ccedil;&atilde;o do FNDC&quot;. Para o deputado, a campanha Calar Jamais! &eacute; um exemplo de como determinados aspectos da nossa identidade permanecem. Lembrando a m&uacute;sica de Belchior, &ldquo;Como Nossos Pais&rdquo;, Jean afirmou que a luta de hoje &eacute; a mesma de 1964, quando foi instalado o regime militar no Brasil. &ldquo;As mesmas for&ccedil;as pol&iacute;ticas que engendraram o golpe militar se reuniram e deram o golpe desta vez&rdquo;, alertou o deputado.</p>
 
 <p><br />
 <strong>25 anos do FNDC</strong></p>
