@@ -2,9 +2,11 @@
 date: "2016-10-20T10:43:35-02:00"
 tags:
   - tag: cpt
+  - tag: reforma-agrária
+  - tag: desapropriações
 title: Justiça de Goiás admite CPT como “amicus curiae” em causa contra Usina Santa Helena
 menu: agricultura camponesa
-images_hd: //farm6.staticflickr.com/5702/30447811665_1c794fb82d_b.jpg
+images_hd: //farm6.staticflickr.com/5785/30448371785_acc6a89fa6_b.jpg
 support_line: "Traduzindo do latim- amicus curiae -, quer dizer que foi dada à CPT a condição de “amiga da corte” no agravo de instrumento interposto pela União em desfavor da Usina Santa Helena. "
 layout: post
 files:
@@ -14,9 +16,17 @@ files:
     small: //farm6.staticflickr.com/5702/30447811665_1c794fb82d_n.jpg
     title: bandeira-centro.jpg
     $$hashKey: 048
+  - link: //farm6.staticflickr.com/5785/30448371785_acc6a89fa6_b.jpg
+    thumbnail: //farm6.staticflickr.com/5785/30448371785_acc6a89fa6_t.jpg
+    medium: //farm6.staticflickr.com/5785/30448371785_acc6a89fa6_z.jpg
+    small: //farm6.staticflickr.com/5785/30448371785_acc6a89fa6_n.jpg
+    title: bandeira-centro.jpg
+    $$hashKey: 05W
 created_date: "2016-10-20T10:56:49-02:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2016/04/2016-04-01-governo-dilma-destina-35-5-mil-hectares-de-terras-para-a-reforma-agraria.md
+  - _posts/2016/05/2016-05-05-mst-se-reune-com-incra-para-discutir-desapropriacoes-no-rs.md
 
 ---
 <p><em>Por Maisa Lima<br />
@@ -47,6 +57,6 @@ Relator do processo que analisa a adjudica&ccedil;&atilde;o das terras da Usina 
 
 <p>Superadas as preliminares suscitadas pela USH, o m&eacute;rito n&atilde;o foi apreciado, pois o relator pediu vistas afim de sanar algumas d&uacute;vidas. Com isto o julgamento do recurso ocorrer&aacute; no dia 01 de novembro, mesmo dia em que tamb&eacute;m ser&aacute; julgado o agravo de instrumento interposto pelo MST atacando a decis&atilde;o do juiz de Santa Helena na reintegra&ccedil;&atilde;o de posse e retirada das fam&iacute;lias que est&atilde;o acampadas em uma das fazendas da usina, ao qual foi dado efeito suspensivo, permitindo que as fam&iacute;lias permanecessem no local at&eacute; o julgamento definitivo.</p>
 
-<p>*Editado por Wesley Lima</p>
+<p><em>*Editado por Wesley Lima</em></p>
 
 <p>&nbsp;</p>
