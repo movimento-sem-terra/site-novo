@@ -7,7 +7,7 @@ tags:
   - tag: internacionalismo
   - tag: solidariedade-internacional
 title: Movimentos Populares se posicionam contra o avanço neoliberal na América Latina
-support_line: "“Reafirmamos que vamos nos manter nas ruas resistindo, mas também construindo a unidade e acumulando forças para reverter o projeto de restauração neoliberal\" "
+support_line: "“Vamos nos manter nas ruas resistindo, mas também construindo a unidade e acumulando forças para reverter o projeto de restauração neoliberal\" "
 menu: projeto popular
 images_hd: //farm9.staticflickr.com/8635/30363899151_d0ddf24dba_b.jpg
 layout: post
