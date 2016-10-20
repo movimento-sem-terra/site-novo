@@ -42,7 +42,8 @@ releated_posts:
 </figure>
 </div>
 
-<p><em>Por Coletivo de Comunica&ccedil;&atilde;o do MST na Bahia<br />
+<p><br />
+<em>Por Coletivo de Comunica&ccedil;&atilde;o do MST na Bahia<br />
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
@@ -64,9 +65,9 @@ A contribui&ccedil;&atilde;o se deu, principalmente, a partir do di&aacute;logo 
 A mesa redonda focou nas consequ&ecirc;ncias do modelo de desenvolvimento do agroneg&oacute;cio e o impacto deste na vida dos trabalhadores. Al&eacute;m disso, abordou os fen&ocirc;menos da seca dos rios e lagos; a morte da fauna e flora; a superlota&ccedil;&atilde;o das principais cidades da regi&atilde;o- Teixeira de Freitas, Eun&aacute;polis e Porto Seguro-; e o aumento dos &iacute;ndices de viol&ecirc;ncia.</p>
 
 <figure class="image" style="float:left"><img alt="IMG_8335.jpg" height="267" src="//farm9.staticflickr.com/8575/29820136014_ed225515a2_b.jpg" width="400" />
-<figcaption><em>&ldquo;A reforma que queremos no campo brasileiro busca contribuir<br />
-de forma permanente na constru&ccedil;&atilde;o de uma sociedade justa,<br />
-igualit&aacute;ria e fraterna&rdquo;, afirmou Eliane Oliveira.</em></figcaption>
+<figcaption><em>&ldquo;A reforma que queremos busca contribuir&nbsp;de forma permanente<br />
+na constru&ccedil;&atilde;o de uma sociedade justa, igualit&aacute;ria<br />
+e fraterna&rdquo;, afirmou Eliane Oliveira.</em></figcaption>
 </figure>
 
 <p><br />
