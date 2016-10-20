@@ -3,8 +3,8 @@ date: "2016-10-20T14:26:52-02:00"
 tags:
   - tag: onu
   - tag: monsanto
-title: "Parecer legal dos cinco juízes será divulgado em dezembro, apesar de não ter valor jurídico; empresa diz ser 'farsa'"
-support_line: "Durante três dias, os juízes ouviram 30 depoimentos de vítimas e opiniões de especialistas de 15 países diferentes para emitirem uma opinião legal."
+title: "Em Haia, Tribunal internacional faz 'julgamento moral' da multinacional Monsanto"
+support_line: "Parecer legal dos cinco juízes será divulgado em dezembro, apesar de não ter valor jurídico; empresa diz ser 'farsa'."
 menu: meio ambiente
 images_hd: //farm6.staticflickr.com/5738/30414936856_80b242c00f_b.jpg
 layout: post
