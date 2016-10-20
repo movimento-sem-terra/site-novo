@@ -65,9 +65,9 @@ A contribui&ccedil;&atilde;o se deu, principalmente, a partir do di&aacute;logo 
 A mesa redonda focou nas consequ&ecirc;ncias do modelo de desenvolvimento do agroneg&oacute;cio e o impacto deste na vida dos trabalhadores. Al&eacute;m disso, abordou os fen&ocirc;menos da seca dos rios e lagos; a morte da fauna e flora; a superlota&ccedil;&atilde;o das principais cidades da regi&atilde;o- Teixeira de Freitas, Eun&aacute;polis e Porto Seguro-; e o aumento dos &iacute;ndices de viol&ecirc;ncia.</p>
 
 <figure class="image" style="float:left"><img alt="IMG_8335.jpg" height="267" src="//farm9.staticflickr.com/8575/29820136014_ed225515a2_b.jpg" width="400" />
-<figcaption><em>&ldquo;A reforma que queremos busca contribuir&nbsp;de forma permanente<br />
-na constru&ccedil;&atilde;o de uma sociedade justa, igualit&aacute;ria<br />
-e fraterna&rdquo;, afirmou Eliane Oliveira.</em></figcaption>
+<figcaption><em>&ldquo;A reforma que queremos busca contribuir&nbsp;de forma<br />
+permanente&nbsp;na constru&ccedil;&atilde;o de uma sociedade justa,<br />
+igualit&aacute;ria&nbsp;e fraterna&rdquo;, afirmou Eliane Oliveira.</em></figcaption>
 </figure>
 
 <p><br />
