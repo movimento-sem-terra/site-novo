@@ -1,6 +1,8 @@
 ---
 date: "2016-10-20T15:18:19-02:00"
-tags: []
+tags:
+  - tag: decreto
+  - tag: juventude
 title: Senado forma comissão para avaliar MP do ensino médio
 support_line: Oposição reforçou críticas à proposta e pediu que MP seja analisada por todos os atores do sistema educacional.
 menu: direitos humanos
@@ -15,7 +17,11 @@ files:
     $$hashKey: "212"
 created_date: "2016-10-20T15:25:13-02:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2016/09/2016-09-28-nota-de-repudio-do-mst-ao-decreto-que-institui-o-programa-de-assentamentos-de-trabalhadores-rurais.md
+  - _posts/2016/06/2016-06-03-juventude-da-regiao-sul-denuncia-os-inimigos-da-reforma-agraria-e-da-democracia.md
+  - _posts/2016/08/2016-08-11-em-alagoas-juventude-sem-terra-realiza-mobilizacao-em-diversos-municipios.md
+  - _posts/2016/06/2016-06-24-jovens-de-mais-de-40-paises-debatem-a-politica-no-festival-da-utopia.md
 
 ---
 <p><em>Por Cristiane Sampaio<br />
