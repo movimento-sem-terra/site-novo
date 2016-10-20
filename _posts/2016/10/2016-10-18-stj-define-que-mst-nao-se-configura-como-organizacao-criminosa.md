@@ -77,7 +77,7 @@ Essa decis&atilde;o fortalece a continuidade da luta pela liberta&ccedil;&atilde
 Agradecemos a rede de solidariedade formada em torno da campanha contra a criminaliza&ccedil;&atilde;o da pol&iacute;tica e pela liberta&ccedil;&atilde;o dos presos pol&iacute;ticos, que come&ccedil;ou em Goi&aacute;s e se articula em todo o pa&iacute;s.</p>
 
 <p><br />
-Intensificaremos a mobiliza&ccedil;&atilde;o contra a criminaliza&ccedil;&atilde;o da milit&acirc;ncia dos movimentos populares, sindicatos, coletivos de jovens, mulheres, negros, lgbts e partidos, at&eacute; que nenhum lutador do povo esteja preto.</p>
+Intensificaremos a mobiliza&ccedil;&atilde;o contra a criminaliza&ccedil;&atilde;o da milit&acirc;ncia dos movimentos populares, sindicatos, coletivos de jovens, mulheres, negros, lgbts e partidos, at&eacute; que nenhum lutador do povo esteja preso.</p>
 
 <p><br />
 Vamos continuar a luta contra o latif&uacute;ndio e em defesa da reforma agr&aacute;ria, dos direitos humanos, sociais e pol&iacute;ticos e da democracia. Lutar, construir reforma agr&aacute;ria popular!</p>
