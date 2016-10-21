@@ -47,7 +47,7 @@ releated_posts:
 No dia 25 de agosto, o ruralista Marcos Prochet deveria ter sido julgado pela segunda vez, considerando que o primeiro julgamento, que resultou em sua condena&ccedil;&atilde;o de 15 anos, foi cancelado. Prochet &eacute; acusado de matar o trabalhador rural sem-terra Sebasti&atilde;o Camargo, em 1998.</p>
 
 <p><br />
-<strong>Caso Sebasti&atilde;o Camargo</strong></p>
+<a href="http://terradedireitos.org.br/2012/11/18/casosebastiaocamargo/"><strong>Caso Sebasti&atilde;o Camargo</strong></a></p>
 
 <p><br />
 Dessa vez, o j&uacute;ri popular de Marcos Prochet est&aacute; marcado para o pr&oacute;ximo dia 31, mais de 18 anos ap&oacute;s o assassinato do trabalhador rural sem terra Sebasti&atilde;o Camargo.</p>
@@ -59,13 +59,13 @@ Prochet, ex-presidente da Uni&atilde;o Democr&aacute;tica Ruralista &ndash; asso
 A a&ccedil;&atilde;o foi realizada durante o despejo ilegal de fam&iacute;lias acampadas na Fazenda Boa Sorte, na cidade de Marilena, Noroeste do Paran&aacute;.</p>
 
 <p><br />
-O ruralista j&aacute; foi julgado em 2013 e condenado a 15 anos e 9 meses de reclus&atilde;o em regime inicialmente fechado por ter sido considerado autor do disparo que vitimou Sebasti&atilde;o Camargo, mas teve a decis&atilde;o anulada pelo Tribunal de Justi&ccedil;a do Paran&aacute;. Prochet &eacute; a quarta pessoa a ir a j&uacute;ri popular pela morte de Sebasti&atilde;o Camargo.</p>
+O ruralista j&aacute; foi julgado em 2013 e <a href="http://terradedireitos.org.br/2014/08/22/ex-pistoleiro-da-udr-e-condenado-pelo-assassinato-de-trabalhador-sem-terra/">condenado a 15 anos e 9 meses de reclus&atilde;o</a> em regime inicialmente fechado por ter sido considerado autor do disparo que vitimou Sebasti&atilde;o Camargo, mas teve a <a href="http://terradedireitos.org.br/2014/12/19/tjpr-anula-o-juri-popular-que-condenou-o-ruralista-marcos-prochet-a-15-anos-de-prisao/">decis&atilde;o anulada</a> pelo Tribunal de Justi&ccedil;a do Paran&aacute;. Prochet &eacute; a quarta pessoa a ir a j&uacute;ri popular pela morte de Sebasti&atilde;o Camargo.</p>
 
 <p><br />
 Em 23 de agosto, dois dias antes do novo julgamento, a defesa de Prochet entrou com o pedido de Habeas Corpus, alegando que n&atilde;o poderia cumprir um prazo determinado pelo juiz da 2&ordf; Vara do Tribunal do J&uacute;ri. Pelo fato da defesa ter incorporado no processo cerca de 3mil p&aacute;ginas de documentos e 26 CDs em menos de uma semana antes do julgamento, o juiz determinou que os advogados apresentassem quais documentos e v&iacute;deos seriam utilizados no j&uacute;ri, para que houvesse tempo h&aacute;bil de an&aacute;lise por parte do Minist&eacute;rio P&uacute;blico.</p>
 
 <p><br />
-O julgamento foi suspenso por decis&atilde;o do relator do pedido, o desembargador do Tribunal de Justi&ccedil;a, Clayton Camargo, que j&aacute; declarou, durante sess&atilde;o, que integrantes do MST seriam &ldquo;bandidos, e n&atilde;o assentados&rdquo;.</p>
+O julgamento foi suspenso por decis&atilde;o do relator do pedido, o desembargador do Tribunal de Justi&ccedil;a, Clayton Camargo, que j&aacute; declarou, durante sess&atilde;o, que integrantes do MST seriam <a href="http://www.gazetadopovo.com.br/vida-e-cidadania/tj-determina-desocupacao-de-area-na-araupel-3qcphu8m7e9d8uuw0ls4srxqc">&ldquo;bandidos, e n&atilde;o assentados&rdquo;.</a></p>
 
 <p><br />
 <a href="http://terradedireitos.org.br/2016/08/22/familia-de-trabalhador-sem-terra-assassinato-denuncia-seletividade-penal-brasileira/">&gt;&gt; Leia: Fam&iacute;lia de trabalhador sem-terra assassinato denuncia seletividade penal brasileira</a></p>
