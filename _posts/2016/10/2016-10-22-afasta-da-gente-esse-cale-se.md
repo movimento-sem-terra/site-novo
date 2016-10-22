@@ -38,8 +38,8 @@ releated_posts:
 ---
 <p>&nbsp;</p>
 
-<p>Pedro Rafael Vilela*<br />
-Do Brasil de Fato&nbsp;</p>
+<p><em>Pedro Rafael Vilela*<br />
+Do Brasil de Fato&nbsp;</em></p>
 
 <p><br />
 Estudantes proibidos de se manifestarem pacificamente nas escolas, ativistas da reforma agr&aacute;ria presos por lutar pelo direito &agrave; terra, censura de opini&otilde;es pol&iacute;ticas em meios de comunica&ccedil;&atilde;o, espionagem de manifestantes, cassa&ccedil;&atilde;o sum&aacute;ria de mandatos. Parecem cenas dos tempos da ditadura militar, certo? Errado. Estamos falando de 2016, de hoje, deste exato momento. Por ser um direito fundamental, base de toda sociedade que se pretende democr&aacute;tica, a liberdade de express&atilde;o costuma ser o primeiro alvo da sanha conservadora. &Eacute; o que estamos vivendo no Brasil.</p>
