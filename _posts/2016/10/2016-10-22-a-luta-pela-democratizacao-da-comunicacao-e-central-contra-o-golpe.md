@@ -5,7 +5,7 @@ tags:
   - tag: comunicação-popular
   - tag: golpe
 title: A luta pela Democratização da Comunicação é central contra o Golpe
-support_line: Durante a Semana Nacional pela Democratização dos Meios de Comunicação que ocorre de 17 a 23 de outubro é preciso discutir o papel estratégico da comunicação na luta contra o Golpe e o ataque aos direitos no Brasil
+support_line: É preciso discutir o papel estratégico da comunicação na luta contra o Golpe e o ataque aos direitos no Brasil
 menu: "educação, cultura e comunicação"
 section: null
 label: articles
