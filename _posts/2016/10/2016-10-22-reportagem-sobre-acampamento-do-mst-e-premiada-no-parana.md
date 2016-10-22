@@ -58,14 +58,15 @@ releated_posts:
 Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
-Em sua 10&ordf; edi&ccedil;&atilde;o, o Pr&ecirc;mio Sangue Bom, que acorreu no &uacute;ltimo s&aacute;bado (15), em Curitiba (PR), premiou a reportagem &ldquo;24 horas num Acampamento Sem Terra&rdquo;,&nbsp;na categoria &ldquo;Reportagem para organiza&ccedil;&otilde;es sindicais, sociais e jornalismo independente&rdquo;. O evento &eacute; realizado todos os anos pelo Sindicato dos Jornalistas Profissionais<br />
-do Paran&aacute; (Sindijor/PR), e reconhece anualmente os melhores trabalhos jornal&iacute;sticos realizados pelos meios de comunica&ccedil;&atilde;o do estado.</p>
+Em sua 10&ordf; edi&ccedil;&atilde;o, o Pr&ecirc;mio Sangue Bom, que acorreu no &uacute;ltimo s&aacute;bado (15), em Curitiba (PR), premiou a reportagem &ldquo;24 horas num Acampamento Sem Terra&rdquo;,&nbsp;na categoria &ldquo;Reportagem para organiza&ccedil;&otilde;es sindicais,&nbsp;sociais e jornalismo independente&rdquo;.</p>
 
 <p><br />
-A mat&eacute;ria que foi produzida pela jornalista Paula Zarth Padinha e pelo rep&oacute;rter fotogr&aacute;fico Joka Madruga, atrav&eacute;s da parceria do portal de not&iacute;cias Terra Sem Males e a Revista&nbsp;&Aacute;gora, do Sindicato dos Servidores P&uacute;blicos Municipais de Curitiba (Sismuc), foi elaborada a partir de uma visita dos profissionais da comunica&ccedil;&atilde;o ao Acampamento Dom<br />
-Tom&aacute;s Baldu&iacute;no, &aacute;rea ocupada pelo Movimento dos Trabalhadores Rurais Sem Terra (MST) em 2015.</p>
+O evento &eacute; realizado todos os anos pelo Sindicato dos Jornalistas Profissionais&nbsp;do Paran&aacute; (Sindijor/PR), e reconhece anualmente os melhores trabalhos jornal&iacute;sticos realizados pelos meios de comunica&ccedil;&atilde;o do estado.</p>
 
-<figure class="image" style="float:right"><img alt="acampamento-domtomasbalduino_foto-jokamadruga02.jpg" height="300" src="//farm9.staticflickr.com/8621/30194528770_112559a25f_b.jpg" width="450" />
+<p><br />
+A mat&eacute;ria que foi produzida pela jornalista Paula Zarth Padinha e pelo rep&oacute;rter fotogr&aacute;fico Joka Madruga, atrav&eacute;s da parceria do portal de not&iacute;cias Terra Sem Males e a Revista&nbsp;&Aacute;gora, do Sindicato dos Servidores P&uacute;blicos Municipais de Curitiba (Sismuc), foi elaborada a partir de uma visita dos profissionais da comunica&ccedil;&atilde;o ao Acampamento Dom&nbsp;Tom&aacute;s Baldu&iacute;no, &aacute;rea ocupada pelo Movimento dos Trabalhadores Rurais Sem Terra (MST) em 2015.</p>
+
+<figure class="image" style="float:right"><img alt="acampamento-domtomasbalduino_foto-jokamadruga02.jpg" height="267" src="//farm9.staticflickr.com/8621/30194528770_112559a25f_b.jpg" width="400" />
 <figcaption></figcaption>
 </figure>
 
@@ -81,8 +82,8 @@ O texto jornal&iacute;stico relata a luta di&aacute;ria das 1,2 mil fam&iacute;l
 <p><br />
 A mat&eacute;ria aborda tamb&eacute;m a prioridade da educa&ccedil;&atilde;o nas &aacute;reas de acampamento, com as Escolas Itinerantes, a produ&ccedil;&atilde;o agroecol&oacute;gica, a luta pela comida sem veneno, saud&aacute;vel&nbsp;como processo de forma&ccedil;&atilde;o das fam&iacute;lias acampadas. Al&eacute;m disso, os jornalistas tamb&eacute;m relatam a criminaliza&ccedil;&atilde;o&nbsp;que o MST sofre por parte da m&iacute;dia local, e os sonhos de muitas&nbsp;fam&iacute;lias do MST que j&aacute; foram realizados com o assentamento em v&aacute;rias &aacute;reas na regi&atilde;o.</p>
 
-<figure class="image" style="float:left"><img alt="acampamento-domtomasbalduino_foto-jokamadruga18.jpg" height="267" src="//farm6.staticflickr.com/5576/29862363074_4d2c84f5ea_b.jpg" width="400" />
-<figcaption>Legenda</figcaption>
+<figure class="image" style="float:left"><img alt="acampamento-domtomasbalduino_foto-jokamadruga18.jpg" height="260" src="//farm6.staticflickr.com/5576/29862363074_4d2c84f5ea_b.jpg" width="390" />
+<figcaption></figcaption>
 </figure>
 
 <p><br />
