@@ -4,8 +4,8 @@ tags:
   - tag: internacionalismo
   - tag: solidariedade-internacional
   - tag: haiti
-title: "Entrevista: Integrante da Brigada Dessalines relata a situação do Haiti após passagem do furacão Matthew"
-support_line: “Não existem políticas públicas no Haiti. Este é um dos países mais pobres e desiguais do mundo”
+title: “Não existem políticas públicas no Haiti. Este é um dos países mais pobres e desiguais do mundo”
+support_line: Integrante da Brigada Dessalines relata a situação do Haiti após passagem do furacão Matthew.
 images_hd: //farm6.staticflickr.com/5609/29914885014_02ccc620a6_b.jpg
 menu: solidariedade
 section: null
@@ -22,6 +22,7 @@ published: true
 releated_posts:
   - _posts/2016/05/2016-05-19-negro-pobre-e-sem-terra-conheca-brasileiros-que-se-formarao-em-medicina-na-venezuela.md
   - _posts/2016/10/2016-10-20-movimentos-populares-se-posicionam-contra-o-avanco-neoliberal-na-america-latina.md
+label: interviews
 
 ---
 <p><br />
