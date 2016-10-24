@@ -63,14 +63,18 @@ De acordo com os dados do Conselho Nacional de Desenvolvimento Rural (2015), a a
 Assim, &ldquo;o di&aacute;logo direto com as pessoas &eacute; de fundamental import&acirc;ncia, valendo salientar que n&atilde;o foi um di&aacute;logo que foi s&oacute; discurso, mas materializado com a realidade de nossos territ&oacute;rios da reforma agr&aacute;ria, em que as pessoas viam os benef&iacute;cios de nossos alimentos, podiam saber de ondem vinham, por quem era produzido&rdquo;, assinala Ten&oacute;rio.</p>
 
 <p><br />
-<strong>Pronera &ndash; Educa&ccedil;&atilde;o do Campo: Direito nosso, dever do Estado!</strong><br />
+<strong>Pronera &ndash; Educa&ccedil;&atilde;o do Campo: Direito nosso, dever do Estado!</strong></p>
+
+<p><br />
 O Programa Nacional de Educa&ccedil;&atilde;o na Reforma Agr&aacute;ria (PRONERA) &eacute; uma conquista das organiza&ccedil;&otilde;es do campo por educa&ccedil;&atilde;o, constitu&iacute;do a partir de uma parceria entre as Universidades P&uacute;blicas e o Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (INCRA), que possibilita o acesso ao ensino superior aos povos do campo, sob a metodologia da Educa&ccedil;&atilde;o do campo.&nbsp;</p>
 
 <p><br />
 Cesar Sanson, Professor da UFRN e integrante da Coordena&ccedil;&atilde;o Pedag&oacute;gica do PRONERA, aponta: &ldquo;o espa&ccedil;o constru&iacute;do tamb&eacute;m tinha como objetivo mostrar o que &eacute; o PRONERA para o conjunto da Universidade, que atividades s&atilde;o desenvolvidas em articula&ccedil;&atilde;o com o INCRA e com os sujeitos do campo&rdquo;.</p>
 
 <p><br />
-<strong>Turma Rosa Luxemburgo</strong><br />
+<strong>Turma Rosa Luxemburgo</strong></p>
+
+<p><br />
 A turma &eacute; composta por aproximadamente 60 estudantes de cinco estados do Nordeste (CE, PB, PE, RN e SE), filhas e filhos de camponeses da Reforma Agr&aacute;ria, que est&atilde;o na quinta etapa do curso de Ci&ecirc;ncias Sociais da Terra (PRONERA/UFRN).&nbsp;</p>
 
 <p><br />
@@ -80,7 +84,9 @@ Durante a feira, as/os estudantes constru&iacute;ram uma mostra de banners sobre
 &ldquo;Em tempos de acirramento da luta de classes, criminaliza&ccedil;&atilde;o das organiza&ccedil;&otilde;es populares, &eacute; necess&aacute;rio disputar a universidade e a ci&ecirc;ncia de forma qualificada. A universidade, historicamente, teve suas portas fechadas para os trabalhadores, principalmente, os do campo. Mas n&oacute;s estamos mostrando que &eacute; poss&iacute;vel pint&aacute;-la de povo, de campon&ecirc;s, de trabalhador, de mulheres e jovens, que lutam diariamente em acampamentos e assentamentos do nordeste&rdquo;, afirma Ilena Barros.</p>
 
 <p><br />
-<strong>Mostra Cultural e Agita&ccedil;&atilde;o e Propaganda</strong><br />
+<strong>Mostra Cultural e Agita&ccedil;&atilde;o e Propaganda</strong></p>
+
+<p><br />
 Apostando nas diferentes linguagens culturais como ferramentas formativas, a Juventude Sem Terra e o Levante Popular da Juventude realizou algumas interven&ccedil;&otilde;es denunciando o projeto de morte do agroneg&oacute;cio, o governo golpista e denunciando a PEC/241, que prejudicar&aacute; a educa&ccedil;&atilde;o e a sa&uacute;de p&uacute;blica brasileira, sendo uma afronta aos direitos humanos fundamentais, consolidados na Constitui&ccedil;&atilde;o de 1988.</p>
 
 <p><br />
