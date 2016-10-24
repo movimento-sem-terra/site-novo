@@ -30,7 +30,7 @@ files:
     title: u7uged.jpg
     $$hashKey: 0XD
 created_date: "2016-10-24T20:03:00-02:00"
-published: true
+published: false
 releated_posts:
   - _posts/2016/10/2016-10-19-festival-da-cultura-campesina-movimenta-campo-do-meio.md
   - _posts/2016/02/2016-02-18-na-bahia-sem-terra-discutem-educacao-no-campo-e-agroecologia.md
