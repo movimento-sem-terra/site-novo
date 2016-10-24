@@ -22,16 +22,20 @@ published: true
 releated_posts:
   - _posts/2016/05/2016-05-26-os-golpistas-mostraram-a-que-vieram.md
   - _posts/2016/09/2016-09-15-fora-temer.md
+  - _posts/2016/10/2016-10-11-pec-241-que-rompe-pacto-de-1988-e-aprovada-em-primeiro-turno-na-camara.md
+  - _posts/2016/10/2016-10-16-pec-241-estado-nao-indutor-do-desenvolvimento-social-recurso-publico-para-quem-menos-precisa.md
+  - _posts/2016/10/2016-10-12-debate-sobre-a-pec-241-chega-ao-senado.md
 
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="30535407455_422d203f0a_z.jpg" height="467" src="//farm6.staticflickr.com/5552/30424730802_7d8ff59376_b.jpg" width="700" />
-<figcaption>&quot;Brasil tem sido violentamente roubado pelo Sistema da D&iacute;vida&quot;, afirma Maria Lucia / Nilson Bastian / C&acirc;mara dos Deputados</figcaption>
+<figcaption>&quot;Brasil tem sido violentamente roubado pelo Sistema da D&iacute;vida&quot;, afirma Maria Lucia</figcaption>
 </figure>
 </div>
 
 <p><br />
 <em>Por Maria Lucia Fattorelli<br />
+Foto: Nilson Bastian<br />
 Do Brasil de Fato</em></p>
 
 <p><br />
