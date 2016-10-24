@@ -8,7 +8,7 @@ title: "Entrevista: Integrante da Brigada Dessalines relata a situação do Hait
 support_line: “Não existem políticas públicas no Haiti. Este é um dos países mais pobres e desiguais do mundo”
 images_hd: //farm6.staticflickr.com/5609/29914885014_02ccc620a6_b.jpg
 menu: solidariedade
-section: featured-news
+section: null
 layout: post
 files:
   - link: //farm6.staticflickr.com/5609/29914885014_02ccc620a6_b.jpg
@@ -86,6 +86,6 @@ Atualmente a brigada est&aacute; trabalhando com os movimentos sociais em quatro
 Confira a nota de solidariedade emitida pela Alba:<br />
 http://www.mst.org.br/2016/10/12/movimentos-populares-se-solidarizam-com-o-haiti.html</p>
 
-<p>*Editado por Geanini Hackbardt</p>
+<p><em>*Editado por Geanini Hackbardt</em></p>
 
 <p>&nbsp;</p>
