@@ -39,8 +39,8 @@ releated_posts:
 <p><em>Por Coletivo de Comunica&ccedil;&atilde;o do MST na Bahia</em></p>
 
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="Plenária02.jpg" height="317" ng-click="insertImageCKEditor(file)" src="http://farm6.staticflickr.com/5491/30248202310_942aeb6caa_t.jpg" title="Plenária02.jpg" width="480" />
-<figcaption>O Movimento entregou um buqu&ecirc; de flores e sua bandeira &agrave; homenageada.</figcaption>
+<figure class="image" style="display:inline-block"><img alt="Plenária02.jpg" height="370" src="//farm6.staticflickr.com/5491/30248202310_942aeb6caa_b.jpg" width="556" />
+<figcaption>O Movimento entregou um buqu&ecirc; de flores e a bandeira &agrave; homenageada simbolizando o reconhecimento da organiza&ccedil;&atilde;o.</figcaption>
 </figure>
 </div>
 
@@ -59,7 +59,9 @@ releated_posts:
 <p>O deputado estadual, Marcelino Galo (PT), proponente da titula&ccedil;&atilde;o &agrave; Germani, afirmou que n&atilde;o podemos desassociar nossa homenagem do atual cen&aacute;rio pol&iacute;tico vivido em nosso pa&iacute;s, &ldquo;e a m&iacute;stica de abertura apresentada pela turma de direito aponta a necessidade de continuarmos firmes na luta, reconhecendo o trabalho que muitos de n&oacute;s vem realizando nos diversos setores da sociedade&rdquo;.<br />
 &nbsp;</p>
 
-<p><strong>&ldquo;Uma justa homenagem&rdquo;</strong><br />
+<p><strong>&ldquo;Uma justa homenagem&rdquo;</strong></p>
+
+<p><br />
 Pluralidade cultural, territorialidade e identidade de classe foram alguns temas abordados na homenagem, que atribu&iacute;dos a participa&ccedil;&atilde;o de Guiomar e sua for&ccedil;a empenhada na luta dos povos do campo, deram o tom as atividades realizadas.<br />
 &nbsp;</p>
 
@@ -93,7 +95,5 @@ Pluralidade cultural, territorialidade e identidade de classe foram alguns temas
 <p>Pensando nisto, o Movimento entregou um buqu&ecirc; de flores e sua bandeira a homenageada simbolizando o comprometimento da organiza&ccedil;&atilde;o com a contribui&ccedil;&atilde;o hist&oacute;rica que a mesma vem dando nas lutas em defesa da Reforma Agr&aacute;ria Popular.</p>
 
 <p><em>*Editado por Geanini Hackbardt</em></p>
-
-<p>&nbsp;</p>
 
 <p>&nbsp;</p>
