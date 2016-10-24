@@ -35,7 +35,7 @@ releated_posts:
 
 <p><br />
 <em>Por Maria Lucia Fattorelli<br />
-Foto: Nilson Bastian<br />
+Foto: Nilson Bastian*<br />
 Do Brasil de Fato</em></p>
 
 <p><br />
@@ -211,3 +211,6 @@ Em vez de desmontar esse cen&aacute;rio de escassez e corrigir as distor&ccedil;
 
 <p><br />
 A PEC 241 est&aacute; roubando voc&ecirc; e o pa&iacute;s que voc&ecirc; poderia e deveria ter. &Eacute; urgente denunciar esse verdadeiro crime de lesa P&aacute;tria, enfrentar essas amarras que impedem o nosso desenvolvimento socioecon&ocirc;mico, a fim de garantir vida digna para todas as pessoas.</p>
+
+<p><br />
+<em>*Nilson Bastian &eacute; fotografo da C&acirc;mara dos Deputados</em></p>
