@@ -30,7 +30,7 @@ files:
     title: TARDE-1.jpg
     $$hashKey: 3WT
 created_date: "2016-10-24T21:54:06-02:00"
-published: false
+published: true
 releated_posts:
   - _posts/2016/02/2016-02-18-na-bahia-sem-terra-discutem-educacao-no-campo-e-agroecologia.md
   - _posts/2016/10/2016-10-24-no-rn-feira-agroecologica-da-reforma-agraria-popular-ocupa-a-ufrn-com-producao-saudavel-e-cultura-camponesa.md
