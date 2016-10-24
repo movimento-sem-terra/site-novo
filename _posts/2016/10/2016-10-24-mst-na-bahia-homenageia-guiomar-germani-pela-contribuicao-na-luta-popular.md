@@ -31,6 +31,7 @@ releated_posts:
   - _posts/2016/05/2016-05-16-unipampa-adere-a-jornada-universitaria-em-defesa-da-reforma-agraria.md
   - _posts/2016/03/2016-03-22-stedile-recebe-homenagem-da-camara-municipal-de-macae.md
   - _posts/2016/03/2016-03-25-sem-terra-se-foma-em-agronomia-no-estado-de-sao-paulo.md
+  - _posts/2016/10/2016-10-18-militantes-do-mst-homenageiam-paulo-kageyama-no-extremo-sul-da-bahia.md
 
 ---
 <p>&nbsp;</p>
