@@ -6,7 +6,7 @@ tags:
   - tag: reforma-agrária-popular
   - tag: universidade
   - tag: educação
-title: MST na Bahia homenageia Guiomar Germani pela contribuição na luta popular
+title: Movimentos Sociais homenageiam Guiomar Germani pela contribuição na luta popular
 support_line: "Pluralidade cultural, territorialidade e identidade de classe foram alguns temas abordados na homenagem."
 menu: "educação, cultura e comunicação"
 images_hd: //farm6.staticflickr.com/5570/29913490703_6f1d8d402c_b.jpg
