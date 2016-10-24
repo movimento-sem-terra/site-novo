@@ -4,7 +4,7 @@ tags:
   - tag: internacionalismo
   - tag: solidariedade-internacional
   - tag: haiti
-title: "Entrevista: Integrante da Brigada Dessalines relata a situação do Haiti após passagem do furacão"
+title: "Entrevista: Integrante da Brigada Dessalines relata a situação do Haiti após passagem do furacão Matthew"
 support_line: “Não existem políticas públicas no Haiti. Este é um dos países mais pobres e desiguais do mundo”
 images_hd: //farm6.staticflickr.com/5609/29914885014_02ccc620a6_b.jpg
 menu: solidariedade
@@ -84,8 +84,8 @@ Atualmente a brigada est&aacute; trabalhando com os movimentos sociais em quatro
 
 <p><br />
 Confira a nota de solidariedade emitida pela Alba:<br />
-http://www.mst.org.br/2016/10/12/movimentos-populares-se-solidarizam-com-o-haiti.html</p>
+<a href="http://www.mst.org.br/2016/10/12/movimentos-populares-se-solidarizam-com-o-haiti.html">http://www.mst.org.br/2016/10/12/movimentos-populares-se-solidarizam-com-o-haiti.html</a></p>
 
-<p><em>*Editado por Geanini Hackbardt</em></p>
+<p><em>*Editada&nbsp;por Geanini Hackbardt</em></p>
 
 <p>&nbsp;</p>
