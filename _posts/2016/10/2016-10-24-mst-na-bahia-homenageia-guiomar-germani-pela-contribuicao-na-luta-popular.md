@@ -39,8 +39,8 @@ releated_posts:
 <p><em>Por Coletivo de Comunica&ccedil;&atilde;o do MST na Bahia</em></p>
 
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="Plenária02.jpg" height="370" src="//farm6.staticflickr.com/5491/30248202310_942aeb6caa_b.jpg" width="556" />
-<figcaption>O Movimento entregou um buqu&ecirc; de flores e a bandeira &agrave; homenageada simbolizando o reconhecimento da organiza&ccedil;&atilde;o.</figcaption>
+<figure class="image" style="display:inline-block"><img alt="Plenária02.jpg" height="376" src="//farm6.staticflickr.com/5491/30248202310_942aeb6caa_b.jpg" width="565" />
+<figcaption>O Movimento entregou um buqu&ecirc; de flores e a bandeira &agrave; homenageada.</figcaption>
 </figure>
 </div>
 
@@ -95,5 +95,3 @@ Pluralidade cultural, territorialidade e identidade de classe foram alguns temas
 <p>Pensando nisto, o Movimento entregou um buqu&ecirc; de flores e sua bandeira a homenageada simbolizando o comprometimento da organiza&ccedil;&atilde;o com a contribui&ccedil;&atilde;o hist&oacute;rica que a mesma vem dando nas lutas em defesa da Reforma Agr&aacute;ria Popular.</p>
 
 <p><em>*Editado por Geanini Hackbardt</em></p>
-
-<p>&nbsp;</p>
