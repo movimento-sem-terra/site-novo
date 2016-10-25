@@ -5,8 +5,8 @@ tags:
   - tag: feira
   - tag: educação-do-campo
   - tag: cultura
-title: No RN Feira Agroecológica da Reforma Agrária Popular ocupa a UFRN com produção saudável e cultura camponesa
-support_line: "Organizada pela turma Rosa Luxemburgo, de Ciências Sociais da Terra (PRONERA/UFRN) e MST a iniciativa pretende travar o debate sobre a questão agrária brasileira, agroecologia e Reforma Agrária Popular."
+title: Feira ocupa a UFRN com produção saudável e cultura camponesa
+support_line: "Organizada pela turma Rosa Luxemburgo, de Ciências Sociais da Terra e o MST, a iniciativa pretende travar o debate sobre a questão agrária brasileira, agroecologia e Reforma Agrária Popular"
 menu: reforma agrária
 images_hd: //farm6.staticflickr.com/5707/29913001493_f98ce7f411_b.jpg
 layout: post
@@ -41,10 +41,10 @@ releated_posts:
 <p>&nbsp;</p>
 
 <p><em>Por Jailma Lopes<br />
-Da P&aacute;gina do MST</em><br />
-&nbsp;</p>
+Da P&aacute;gina do MST</em></p>
 
-<p>Entre os dias 19 e 21 de outubro, durante a Semana de Ci&ecirc;ncia, Tecnologia e Cultura (CIENTEC), o MST ocupou&nbsp;a Universidade Federal do Rio Grande do Norte com sua Feira Estadual e Cultural da Reforma Agr&aacute;ria Popular. Organizada pela turma Rosa Luxemburgo, de Ci&ecirc;ncias Sociais da Terra (PRONERA/UFRN), e o Movimento das Trabalhadoras e Trabalhadores Rurais Sem Terra (MST), a iniciativa pretende travar o debate sobre a quest&atilde;o agr&aacute;ria brasileira, agroecologia e Reforma Agr&aacute;ria Popular.</p>
+<p><br />
+Entre os dias 19 e 21 de outubro, durante a Semana de Ci&ecirc;ncia, Tecnologia e Cultura (CIENTEC), o MST ocupou&nbsp;a Universidade Federal do Rio Grande do Norte com sua Feira Estadual e Cultural da Reforma Agr&aacute;ria Popular. Organizada pela turma Rosa Luxemburgo, de Ci&ecirc;ncias Sociais da Terra (PRONERA/UFRN), e o Movimento das Trabalhadoras e Trabalhadores Rurais Sem Terra (MST), a iniciativa pretende travar o debate sobre a quest&atilde;o agr&aacute;ria brasileira, agroecologia e Reforma Agr&aacute;ria Popular.</p>
 
 <p><br />
 Foram tr&ecirc;s dias de muito di&aacute;logo, debates, constru&ccedil;&atilde;o da unidade campo e cidade e ac&uacute;mulo de for&ccedil;as para a Reforma Agr&aacute;ria Popular, constituindo um momento simb&oacute;lico de ocupa&ccedil;&atilde;o da Universidade, da ci&ecirc;ncia e de materializa&ccedil;&atilde;o do projeto de vida defendido pelo povo Sem Terra.</p>
@@ -53,7 +53,9 @@ Foram tr&ecirc;s dias de muito di&aacute;logo, debates, constru&ccedil;&atilde;o
 Diariamente na CIENTEC circularam cerca de 20 mil pessoas. A feira recebeu estudantes universit&aacute;rios, secundaristas, professoras e professores, pesquisadores de v&aacute;rias &aacute;reas, al&eacute;m de muitos setores da popula&ccedil;&atilde;o que a prestigiaram.&ldquo;A produ&ccedil;&atilde;o de alimentos saud&aacute;veis, a cultura, os saberes populares, a produ&ccedil;&atilde;o cient&iacute;fica das/os estudantes e do ac&uacute;mulo hist&oacute;rico do MST, a luta e a mem&oacute;ria, legitimam o que s&atilde;o de fato os Sem Terras, diferente do que passa na m&iacute;dia&rdquo;, ressalta uma das professoras que visitou o espa&ccedil;o.</p>
 
 <p>&nbsp;<br />
-O MST do Rio Grande do Norte avalia que as feiras culturais e agroecol&oacute;gicas s&atilde;o uma das ferramentas mais eficientes de di&aacute;logo direto com a sociedade e de disputa contra o modelo hegem&ocirc;nico do agroneg&oacute;cio. &nbsp;<br />
+O MST do Rio Grande do Norte avalia que as feiras culturais e agroecol&oacute;gicas s&atilde;o uma das ferramentas mais eficientes de di&aacute;logo direto com a sociedade e de disputa contra o modelo hegem&ocirc;nico do agroneg&oacute;cio. &nbsp;</p>
+
+<p><br />
 Segundo Evanilson Ten&oacute;rio, dirigente estadual do Setor de Produ&ccedil;&atilde;o, &ldquo;a recep&ccedil;&atilde;o por parte de todos que passaram na feira foi muito positiva, com nossa produ&ccedil;&atilde;o de alimentos saud&aacute;veis e a pre&ccedil;o acess&iacute;vel, conseguimos fazer um debate muito eficiente, mostrando a produ&ccedil;&atilde;o dos acampamentos e assentamentos produzem e que a Reforma Agr&aacute;ria Popular, &eacute; sim uma alternativa concreta para o campo brasileiro, em que as pessoas vivem dignamente gerando emprego em renda&rdquo;, avalia.</p>
 
 <p><br />
@@ -92,6 +94,7 @@ Apostando nas diferentes linguagens culturais como ferramentas formativas, a Juv
 <p><br />
 Na universidade durante os tr&ecirc;s dias ecoavam m&iacute;sticas, m&uacute;sica, poesia, palavras de ordem, exposi&ccedil;&atilde;o fotogr&aacute;fica e v&aacute;rias linguagens culturais desenvolvidas pelas/os Sem Terras, expressando sua identidade. Al&eacute;m disso, contou-se com a presen&ccedil;a de militantes potiguares da cultura, como o poeta e cordelista popular Paulo Varela; e o poeta, m&uacute;sico, cantor, e compositor Zelito Coringa, que fez um show de encerramento da I Feira Agroecol&oacute;gica: Reforma Agr&aacute;ria Produzindo Alimentos Saud&aacute;veis e Preservando a Vida.</p>
 
-<p><em>*Editada por Geanini Hackbardt</em></p>
+<p><br />
+<em>*Editada por Geanini Hackbardt</em></p>
 
 <p>&nbsp;</p>
