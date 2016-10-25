@@ -27,7 +27,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="14711130_1080093365445765_952688361498346062_o.jpg" height="467" src="//farm6.staticflickr.com/5716/29925036033_28ed61db12_b.jpg" width="700" />
-<figcaption>C&iacute;rculo de debate no estande da turma de Ci&ecirc;ncias Sociais Rosa Luxemburgo.</figcaption>
+<figcaption><em>C&iacute;rculo de debate no estande da turma de Ci&ecirc;ncias Sociais Rosa Luxemburgo.</em></figcaption>
 </figure>
 </div>
 
