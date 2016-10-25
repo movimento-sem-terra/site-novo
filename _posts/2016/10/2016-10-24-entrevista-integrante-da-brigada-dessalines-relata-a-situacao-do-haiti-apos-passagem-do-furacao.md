@@ -62,14 +62,18 @@ Em 2004, quando foi anunciado o deslocamento de tropas estrangeira ao Haiti, mov
 Al&eacute;m das vidas que foram perdidas, muitas pessoas perderam tudo que tinham, casas e pequenos com&eacute;rcios. No caso dos camponeses, o impacto &eacute; ainda maior. H&aacute; dois anos, o Haiti vinha enfrentando uma forte seca e esse ano como est&aacute; chovendo eles estavam tentando recuperar o que haviam perdido. Por&eacute;m, com a passagem do furac&atilde;o, tudo foi destru&iacute;do.</p>
 
 <p><br />
-Devido &agrave; cat&aacute;strofe, outro forte impacto na vida do povo haitiano ser&aacute; o aumento dos pre&ccedil;os dos alimentos e, consequentemente, o crescimento da popula&ccedil;&atilde;o que vive abaixo da linha de mis&eacute;ria.<br />
-Comente a atual situa&ccedil;&atilde;o do pa&iacute;s em termos de pol&iacute;ticas p&uacute;blicas para garantir os direitos b&aacute;sicos, como sa&uacute;de e educa&ccedil;&atilde;o, mesmo antes da recente cat&aacute;strofe.</p>
+Devido &agrave; cat&aacute;strofe, outro forte impacto na vida do povo haitiano ser&aacute; o aumento dos pre&ccedil;os dos alimentos e, consequentemente, o crescimento da popula&ccedil;&atilde;o que vive abaixo da linha de mis&eacute;ria.</p>
+
+<p><br />
+<strong>Comente a atual situa&ccedil;&atilde;o do pa&iacute;s em termos de pol&iacute;ticas p&uacute;blicas para garantir os direitos b&aacute;sicos, como sa&uacute;de e educa&ccedil;&atilde;o, mesmo antes da recente cat&aacute;strofe.</strong></p>
 
 <p><br />
 N&atilde;o existem pol&iacute;ticas p&uacute;blicas no Haiti. Este &eacute; um dos pa&iacute;ses mais pobres e desiguais do mundo, sem sa&uacute;de, educa&ccedil;&atilde;o, nem seguran&ccedil;a de nenhum tipo.&nbsp;Existem pouqu&iacute;ssimas escolas e o acesso a elas &eacute; um privil&eacute;gio de poucos. A maioria da popula&ccedil;&atilde;o haitiana que queira estudar precisa pagar uma escola particular, considerando que em grande parte dessas escolas n&atilde;o h&aacute; estrutura adequada ou profissionais capacitados para lecionar.</p>
 
 <p><br />
-No caso da sa&uacute;de a situa&ccedil;&atilde;o &eacute; ainda pior, pois mesmo em hospitais considerados &ldquo;p&uacute;blicos&rdquo; &eacute; preciso pagar para ter acesso a servi&ccedil;os b&aacute;sicos como consultas e interna&ccedil;&atilde;o. Com exce&ccedil;&atilde;o dos m&eacute;dicos cubanos e alguns hospitais filantr&oacute;picos que atendem gratuitamente, se voc&ecirc; n&atilde;o tem dinheiro espera a morte chegar em casa.<br />
+No caso da sa&uacute;de a situa&ccedil;&atilde;o &eacute; ainda pior, pois mesmo em hospitais considerados &ldquo;p&uacute;blicos&rdquo; &eacute; preciso pagar para ter acesso a servi&ccedil;os b&aacute;sicos como consultas e interna&ccedil;&atilde;o. Com exce&ccedil;&atilde;o dos m&eacute;dicos cubanos e alguns hospitais filantr&oacute;picos que atendem gratuitamente, se voc&ecirc; n&atilde;o tem dinheiro espera a morte chegar em casa.</p>
+
+<p><br />
 Entre os camponeses, mais de 98% n&atilde;o t&ecirc;m acesso a cr&eacute;ditos ou assist&ecirc;ncia t&eacute;cnica. O &uacute;nico projeto do governo &eacute; o chamado &ldquo;moderniza&ccedil;&atilde;o da agricultura&rdquo;, cuja &uacute;nica fun&ccedil;&atilde;o &eacute; de transferir terras para grandes empresas e assim expulsar os camponeses dos seus territ&oacute;rios.</p>
 
 <p><br />
