@@ -41,7 +41,9 @@ De acordo com informa&ccedil;&otilde;es enviadas por organiza&ccedil;&otilde;es 
 Durante todos esses anos de intervencionismo externo, o Estado haitiano foi transformado em um Estado m&iacute;nimo incapaz de gerenciar qualquer crise. Quem nos apresenta essa leitura &eacute; o grupo da Brigada Dessalines, organizada pela Via Campesina Brasil, e que h&aacute; oito anos contribui com o povo haitiano.</p>
 
 <p><br />
-&ldquo;O capitalismo predat&oacute;rio tem colocado n&atilde;o apenas o Estado haitiano no desamparo, mas tamb&eacute;m massacrado o povo haitiano que sofre com a inexist&ecirc;ncia de pol&iacute;ticas p&uacute;blicas b&aacute;sicas que garantam seus direitos humanos&rdquo;.<br />
+&ldquo;O capitalismo predat&oacute;rio tem colocado n&atilde;o apenas o Estado haitiano no desamparo, mas tamb&eacute;m massacrado o povo haitiano que sofre com a inexist&ecirc;ncia de pol&iacute;ticas p&uacute;blicas b&aacute;sicas que garantam seus direitos humanos&rdquo;.</p>
+
+<p><br />
 Em entrevista para a P&aacute;gina do MST, os militantes da Brigada Dessalines comentam a atual situa&ccedil;&atilde;o do pa&iacute;s, ap&oacute;s mais uma cat&aacute;strofe e reafirmam a necessidade dos Movimentos populares se manterem em solidariedade permanente com o Haiti.</p>
 
 <p><br />
