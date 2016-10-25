@@ -56,12 +56,12 @@ Na mesa de abertura foi discutida a &ldquo;Atualidade do Modelo agr&iacute;cola 
 <p><br />
 <strong>Agricultura dependente</strong></p>
 
+<figure class="image" style="float:left"><img alt="DSC09069.JPG" height="239" src="//farm6.staticflickr.com/5805/29925729953_07cea7d16a_b.jpg" width="400" />
+<figcaption><em>Mesa de abertura do Semin&aacute;rio.</em></figcaption>
+</figure>
+
 <p><br />
 Jo&atilde;o Pedro Stedile, da coordena&ccedil;&atilde;o nacional do MST/Via Campesina, tamb&eacute;m integrou a mesa e comentou que o plano de desenvolvimento da agricultura sempre foi dependente do capital e que as corpora&ccedil;&otilde;es transnacionais ao se apropriarem dos bens da natureza controlam os alimentos e promovem uma padroniza&ccedil;&atilde;o da mercadoria.</p>
-
-<figure class="image" style="float:left"><img alt="DSC09069.JPG" height="239" src="//farm6.staticflickr.com/5805/29925729953_07cea7d16a_b.jpg" width="400" />
-<figcaption>Mesa de abertura do Semin&aacute;rio.</figcaption>
-</figure>
 
 <p><br />
 &ldquo;Os inimigos principais agora s&atilde;o os bancos e as corpora&ccedil;&otilde;es transnacionais, aliados &agrave; m&iacute;dia burguesa&rdquo;, ressaltou ao falar da ofensiva do capital sobre os territ&oacute;rios.</p>
