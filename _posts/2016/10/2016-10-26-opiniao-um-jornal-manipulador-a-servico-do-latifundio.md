@@ -2,7 +2,7 @@
 date: "2016-10-26T14:43:10-02:00"
 tags: []
 title: "Opinião: Um jornal manipulador a serviço do latifúndio"
-support_line: "Em artigo, a professora de direito da UnB, Beatriz, responde ao editorial do Estadão em que criminaliza o MST.\n"
+support_line: "Em artigo, a professora de direito da UnB, Beatriz, responde ao editorial do Estadão em que criminaliza o MST."
 menu: direitos humanos
 section: cover
 label: articles
@@ -26,8 +26,10 @@ published: true
 releated_posts: []
 
 ---
+<p><img alt="estadão.jpg" src="//farm9.staticflickr.com/8626/30582685425_c439ff63a4_b.jpg" /></p>
+
 <p><br />
-Por Beatriz Vargas*</p>
+<em>Por Beatriz Vargas*</em></p>
 
 <p><br />
 O editorial do Estad&atilde;o de 24 de outubro, segunda-feira, &ldquo;O MST e a Lei 12.850/13&rdquo;, tratou do julgamento, pela Sexta Turma do Superior Tribunal de Justi&ccedil;a (STJ), do habeas corpus impetrado em favor de quatro militantes do Movimento dos Trabalhadores Rurais Sem-Terra (MST). O texto requer esclarecimentos e corre&ccedil;&otilde;es aqui apresentados na sequ&ecirc;ncia.</p>
