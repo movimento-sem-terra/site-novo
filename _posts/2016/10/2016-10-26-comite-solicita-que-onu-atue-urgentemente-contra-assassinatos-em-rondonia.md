@@ -41,7 +41,10 @@ releated_posts:
 <p><em>Da Justi&ccedil;a Global</em></p>
 
 <p><br />
-O grave cen&aacute;rio de assassinatos, viol&ecirc;ncia e criminaliza&ccedil;&atilde;o em Rond&ocirc;nia leva os membros do Comit&ecirc; Brasileiro de Defensoras e Defensores de Direitos Humanos a encaminhar, nesta segunda-feira, uma A&ccedil;&atilde;o Urgente &agrave; ONU para que intervenha junto ao Estado brasileiro, exigindo que medidas sejam tomadas para modificar a situa&ccedil;&atilde;o. De janeiro a outubro deste ano, o n&uacute;mero de defensoras e defensores mortos no estado j&aacute; chega a, pelo menos, 17, o que representa 30% do total de assassinatos de defensores de direitos humanos no pa&iacute;s. Mesmo com os n&uacute;meros alarmantes, os governos federal e estadual n&atilde;o tomam medidas para refrear a onda de viola&ccedil;&otilde;es.</p>
+O grave cen&aacute;rio de assassinatos, viol&ecirc;ncia e criminaliza&ccedil;&atilde;o em Rond&ocirc;nia leva os membros do Comit&ecirc; Brasileiro de Defensoras e Defensores de Direitos Humanos a encaminhar, nesta segunda-feira, uma A&ccedil;&atilde;o Urgente &agrave; ONU para que intervenha junto ao Estado brasileiro, exigindo que medidas sejam tomadas para modificar a situa&ccedil;&atilde;o.</p>
+
+<p><br />
+De janeiro a outubro deste ano, o n&uacute;mero de defensoras e defensores mortos no estado j&aacute; chega a, pelo menos, 17, o que representa 30% do total de assassinatos de defensores de direitos humanos no pa&iacute;s. Mesmo com os n&uacute;meros alarmantes, os governos federal e estadual n&atilde;o tomam medidas para refrear a onda de viola&ccedil;&otilde;es.</p>
 
 <p><br />
 Segundo dados da Comiss&atilde;o Pastoral da Terra, Rond&ocirc;nia teve, em 2015, o maior n&uacute;mero de mortes em conflitos agr&aacute;rios, com 20 assassinatos, dentre ind&iacute;genas, quilombolas, posseiros, sem-terra, ambientalistas, trabalhadores rurais e lideran&ccedil;as, muitos deles com evidentes caracter&iacute;sticas de execu&ccedil;&atilde;o. A situa&ccedil;&atilde;o em 2016 mostra um agravamento, o que leva a decis&atilde;o do Comit&ecirc; de solicitar interven&ccedil;&atilde;o da ONU.</p>
