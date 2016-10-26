@@ -4,7 +4,7 @@ tags: []
 title: "Opinião: Um jornal manipulador a serviço do latifúndio"
 support_line: "Em artigo, a professora de direito da UnB, Beatriz, responde ao editorial do Estadão em que criminaliza o MST."
 menu: direitos humanos
-section: cover
+section: null
 label: articles
 images_hd: //farm6.staticflickr.com/5589/30582686585_0b0c9c4be7_b.jpg
 layout: post
