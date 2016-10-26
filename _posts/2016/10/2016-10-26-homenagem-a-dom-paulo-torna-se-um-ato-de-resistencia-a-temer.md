@@ -7,15 +7,15 @@ tags:
 title: Homenagem a dom Paulo torna-se um ato de resistência a Temer
 support_line: "A comemoração dos 95 anos do arcebispo emérito de São Paulo, fundamental na luta contra a ditadura, foi marcada por duras críticas ao atual governo"
 menu: direitos humanos
-images_hd: //farm6.staticflickr.com/5799/29954934644_1f6852eb40_b.jpg
+images_hd: //farm6.staticflickr.com/5757/29953221133_910f74d9db_b.jpg
 layout: post
 files:
-  - link: //farm6.staticflickr.com/5799/29954934644_1f6852eb40_b.jpg
-    thumbnail: //farm6.staticflickr.com/5799/29954934644_1f6852eb40_t.jpg
-    medium: //farm6.staticflickr.com/5799/29954934644_1f6852eb40_z.jpg
-    small: //farm6.staticflickr.com/5799/29954934644_1f6852eb40_n.jpg
-    title: f55de82c-2264-45be-9f10-e23706690f5d.jpg
-    $$hashKey: 05W
+  - link: //farm6.staticflickr.com/5757/29953221133_910f74d9db_b.jpg
+    thumbnail: //farm6.staticflickr.com/5757/29953221133_910f74d9db_t.jpg
+    medium: //farm6.staticflickr.com/5757/29953221133_910f74d9db_z.jpg
+    small: //farm6.staticflickr.com/5757/29953221133_910f74d9db_n.jpg
+    title: IMG_9686.jpg
+    $$hashKey: 0JO
 created_date: "2016-10-26T18:57:29-02:00"
 published: true
 releated_posts:
@@ -24,13 +24,13 @@ releated_posts:
   - _posts/2016/10/2016-10-24-mst-na-bahia-homenageia-guiomar-germani-pela-contribuicao-na-luta-popular.md
 
 ---
-<p>&nbsp;</p>
+<p><br />
+&nbsp;</p>
 
-<p style="text-align:center"><img alt="f55de82c-2264-45be-9f10-e23706690f5d.jpg" height="466" src="//farm6.staticflickr.com/5799/29954934644_1f6852eb40_b.jpg" width="700" /></p>
+<p style="text-align:center"><img alt="IMG_9686.jpg" height="467" src="//farm6.staticflickr.com/5757/29953221133_910f74d9db_b.jpg" width="700" /></p>
 
-<p>&nbsp;</p>
-
-<p><em>Por&nbsp;Miguel Martins<br />
+<p><br />
+<em>Por&nbsp;Miguel Martins<br />
 Da Carta Capital</em></p>
 
 <p>&nbsp;<br />
