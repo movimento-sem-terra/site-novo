@@ -89,3 +89,10 @@ Em 1975, o arcebispo organizou um ato inter-religioso em homenagem a Valdimir He
 
 <p><br />
 Al&eacute;m da resist&ecirc;ncia aos militares, Dom Paulo foi fundamental para a consolida&ccedil;&atilde;o das Comunidades Eclesiais de Base, que buscavam substituir a supremacia das par&oacute;quias na organiza&ccedil;&atilde;o da vida religiosa pela valoriza&ccedil;&atilde;o de comunidades menores, com a presen&ccedil;a tanto de integrantes da Igreja quanto de leigos.&nbsp;</p>
+
+<p><br />
+Confira, neste v&iacute;deo, um trecho da transmiss&atilde;o ao vivo feita pelo <a href="http://brasildefato.com.br/">Brasil de Fato</a> do ato em homenagem a Dom Paulo Evaristo Arns:&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/TquC6u4ners" width="640"></iframe></p>
