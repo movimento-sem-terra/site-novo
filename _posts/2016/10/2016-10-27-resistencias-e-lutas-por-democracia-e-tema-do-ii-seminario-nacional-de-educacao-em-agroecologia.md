@@ -1,6 +1,9 @@
 ---
 date: "2016-10-27T17:23:47-02:00"
-tags: []
+tags:
+  - tag: agroecologia
+  - tag: seminário
+  - tag: rio-de-janeiro
 title: “Resistências e lutas por democracia” é tema do II Seminário Nacional de Educação em Agroecologia
 support_line: "Com o tema “Educação em Agroecologia: Resistências e lutas por democracia!” o objetivo do Seminário é identificar, sistematizar, refletir e articular experiências de educação em agroecologia e indicar caminhos para seu fortalecimento."
 menu: agricultura camponesa
@@ -33,7 +36,8 @@ files:
     $$hashKey: 1LX
 created_date: "2016-10-27T17:38:25-02:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2016/10/2016-10-27-sem-terra-reafirmam-agroecologia-como-instrumento-de-luta-em-defesa-da-vida.md
 
 ---
 <p>&nbsp;</p>
