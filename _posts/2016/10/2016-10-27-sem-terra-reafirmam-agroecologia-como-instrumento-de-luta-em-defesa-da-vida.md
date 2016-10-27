@@ -50,14 +50,11 @@ Para Izaura Santos, da dire&ccedil;&atilde;o estadual do MST, a metodologia util
 <p>&ldquo;O semin&aacute;rio foi de grande import&acirc;ncia, pois n&atilde;o s&oacute; denunciou os malef&iacute;cios do agroneg&oacute;cio, mas tamb&eacute;m mostrou os meios alternativos para contrapor essa l&oacute;gica&rdquo;, afirmou a dirigente Sem Terra.</p>
 
 <p><br />
-&ldquo;As a&ccedil;&otilde;es pr&aacute;ticas nos permitiu compreender que a agroecologia n&atilde;o &eacute; simplesmente um meio de trabalhar, mas sim um modo de vida&rdquo;, avaliou Izaura.<br />
-&nbsp;</p>
+&ldquo;As a&ccedil;&otilde;es pr&aacute;ticas nos permitiu compreender que a agroecologia n&atilde;o &eacute; simplesmente um meio de trabalhar, mas sim um modo de vida&rdquo;, avaliou Izaura.</p>
 
 <p>&nbsp;</p>
 
 <p style="text-align:center"><img alt="Seminário Bahia 2.JPG" src="//farm6.staticflickr.com/5334/29966414504_8362a73f2a_b.jpg" /></p>
-
-<p>&nbsp;</p>
 
 <p><br />
 <br />
