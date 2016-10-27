@@ -5,7 +5,7 @@ tags:
   - tag: bahia
   - tag: formação-política
   - tag: seminário
-title: Sem Terra reafirmam agroecologia como instrumento de luta em defesa da Vida
+title: Sem Terra reafirmam agroecologia como instrumento de luta em defesa da vida
 support_line: "Durante seminário de formação, cerca de 100 trabalhadores no Extremo Sul da Bahia, apontam a agroecologia como modelo viável para a defesa da vida e reafirmam seu compromisso com a luta.\n"
 menu: agricultura camponesa
 images_hd: //farm6.staticflickr.com/5505/30561814886_b503c81848_b.jpg
