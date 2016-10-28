@@ -3,7 +3,7 @@ date: "2016-10-28T10:51:24-02:00"
 tags:
   - tag: cultura
   - tag: minas-gerais
-title: "Cultura Sem Terra conquista o interior mineiro\n"
+title: Cultura Sem Terra conquista o interior de Minas Gerais
 images_hd: //farm9.staticflickr.com/8681/30501008632_665c5e0611_b.jpg
 support_line: Mais de 2 mil pessoas passaram no Festival de Cultura Campesina em Campo do Meio.
 menu: "educação, cultura e comunicação"
