@@ -22,10 +22,10 @@ releated_posts:
   - _posts/2016/03/2016-03-22-stedile-recebe-homenagem-da-camara-municipal-de-macae.md
   - _posts/2016/10/2016-10-18-militantes-aguardam-em-vigilia-libertacao-dos-presos-politicos-do-mst.md
   - _posts/2016/10/2016-10-24-mst-na-bahia-homenageia-guiomar-germani-pela-contribuicao-na-luta-popular.md
+section: featured-news
 
 ---
-<p><br />
-&nbsp;</p>
+<p>&nbsp;</p>
 
 <p style="text-align:center"><img alt="IMG_9686.jpg" height="467" src="//farm6.staticflickr.com/5757/29953221133_910f74d9db_b.jpg" width="700" /></p>
 
