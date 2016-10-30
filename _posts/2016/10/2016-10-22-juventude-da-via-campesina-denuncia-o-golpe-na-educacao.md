@@ -4,10 +4,10 @@ tags:
   - tag: juventude
   - tag: golpe
   - tag: educacao
-title: "Juventude da Via Campesina denuncia o golpe na educação\n\n"
+title: Juventude da Via Campesina denuncia o golpe na educação
 support_line: A saída para a crise não passa pelo ataque aos direitos do povo brasileiro. Usam a desculpa da crise para aumentar a desigualdade social e retirar nossos direitos
 menu: reforma agrária
-section: cover
+section: featured-news
 images_hd: //farm9.staticflickr.com/8571/29859435263_cf2b3525a8_b.jpg
 layout: post
 files:
