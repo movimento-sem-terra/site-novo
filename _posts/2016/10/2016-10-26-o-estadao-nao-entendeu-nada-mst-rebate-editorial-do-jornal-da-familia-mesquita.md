@@ -4,7 +4,7 @@ tags: []
 title: "\"O Estadão não entendeu nada\"; MST rebate editorial do jornal da família Mesquita"
 support_line: "Em nota, o MST rebate o editorial do Estadão em que distorce uma série de fatos sobre o julgamento de quatro militantes do Movimento."
 menu: direitos humanos
-section: cover
+section: featured-news
 images_hd: //farm6.staticflickr.com/5579/29951869294_448d439698_b.jpg
 layout: post
 files:
