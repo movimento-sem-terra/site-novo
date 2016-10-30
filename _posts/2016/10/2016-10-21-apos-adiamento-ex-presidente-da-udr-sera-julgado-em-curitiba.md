@@ -9,7 +9,7 @@ title: "Após adiamento, ex-presidente da UDR será julgado em Curitiba"
 support_line: "Mais de 18 anos após o assassinato do sem terra Sebastião Camargo, no próximo dia 31 o ruralista Marcos Prochet irá a júri popular novamente"
 menu: direitos humanos
 images_hd: //farm6.staticflickr.com/5326/29842683534_37fafb7be0_b.jpg
-section: featured-news
+section: cover
 layout: post
 files:
   - link: //farm6.staticflickr.com/5568/29842467734_b59189d42d_b.jpg
