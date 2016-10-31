@@ -39,7 +39,7 @@ releated_posts:
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="IMG_7664.JPG" height="467" src="//farm6.staticflickr.com/5721/30576617362_7e3323cfe7_b.jpg" width="700" />
-<figcaption>&ldquo;N&atilde;o t&iacute;nhamos acesso a essas tecnologias e &agrave; internet no assentamento. Foi lindo ver os jovens conhecendo como operar uma m&aacute;quina fotogr&aacute;fica e filmadora, e as v&aacute;rias possibilidades que hoje a internet nos oferece. Podemos divulgar nosso trabalho no assentamento, na escola e as atividades que ocorrem no interior, distante da cidade&rdquo;, comemora Marciane.</figcaption>
+<figcaption></figcaption>
 </figure>
 </div>
 
