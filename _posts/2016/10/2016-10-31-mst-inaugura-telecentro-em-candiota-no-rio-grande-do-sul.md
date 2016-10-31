@@ -1,7 +1,9 @@
 ---
 date: "2016-10-31T15:21:46-02:00"
-tags: []
-title: "MST inaugura Telecentro em Candiota, no Rio Grande do Sul"
+tags:
+  - tag: cultura-e-comunicação
+  - tag: tecnologia
+title: MST inaugura Telecentro Roça Nova no Rio Grande do Sul
 support_line: O Projeto de Olho na Terra cria novos horizontes em relação às tecnologias da informação e comunicação e empodera a juventude do campo para atua na área da comunicação e cultura
 images_hd: //farm6.staticflickr.com/5794/30692564065_3f1e7bf643_b.jpg
 menu: "educação, cultura e comunicação"
@@ -27,7 +29,10 @@ files:
     $$hashKey: "036"
 created_date: "2016-10-31T15:37:50-02:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2016/08/2016-08-31-casa-digital-patricia-galvao-e-inaugurada-no-parana.md
+  - _posts/2016/09/2016-09-04-curta-metragem-produzido-na-venezuela-discute-a-relacao-do-campones-com-a-terra.md
+  - _posts/2016/09/2016-09-26-curta-annoni-30-anos-de-marcos-e-selecionado-para-seu-quarto-festival-no-pais.md
 
 ---
 <p>&nbsp;</p>
