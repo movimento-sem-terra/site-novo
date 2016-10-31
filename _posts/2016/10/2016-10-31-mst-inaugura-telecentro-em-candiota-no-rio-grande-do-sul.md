@@ -39,7 +39,8 @@ releated_posts:
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="IMG_7664.JPG" height="467" src="//farm6.staticflickr.com/5721/30576617362_7e3323cfe7_b.jpg" width="700" />
-<figcaption><em>Participantes da oficina de tecnologia em frente ao telecentro rec&eacute;m inaugurado. Foto: Solange Engelmann</em></figcaption>
+<figcaption><em>Participantes da oficina de tecnologia em frente ao telecentro rec&eacute;m inaugurado.<br />
+Foto: Solange Engelmann</em></figcaption>
 </figure>
 </div>
 
