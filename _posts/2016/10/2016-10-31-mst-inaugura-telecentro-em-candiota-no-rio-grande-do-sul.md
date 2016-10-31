@@ -21,12 +21,12 @@ files:
     small: //farm6.staticflickr.com/5784/30060866704_aef0b38c6a_n.jpg
     title: IMG_7572.JPG
     $$hashKey: "033"
-  - link: //farm6.staticflickr.com/5794/30692564065_3f1e7bf643_b.jpg
-    thumbnail: //farm6.staticflickr.com/5794/30692564065_3f1e7bf643_t.jpg
-    medium: //farm6.staticflickr.com/5794/30692564065_3f1e7bf643_z.jpg
-    small: //farm6.staticflickr.com/5794/30692564065_3f1e7bf643_n.jpg
+  - link: //farm6.staticflickr.com/5721/30576617362_7e3323cfe7_b.jpg
+    thumbnail: //farm6.staticflickr.com/5721/30576617362_7e3323cfe7_t.jpg
+    medium: //farm6.staticflickr.com/5721/30576617362_7e3323cfe7_z.jpg
+    small: //farm6.staticflickr.com/5721/30576617362_7e3323cfe7_n.jpg
     title: IMG_7664.JPG
-    $$hashKey: "036"
+    $$hashKey: 0HZ
 created_date: "2016-10-31T15:37:50-02:00"
 published: true
 releated_posts:
@@ -38,8 +38,8 @@ releated_posts:
 <p>&nbsp;</p>
 
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="IMG_7664.JPG" height="683" src="//farm6.staticflickr.com/5794/30692564065_3f1e7bf643_b.jpg" width="750" />
-<figcaption><em>Participantes das oficinas sobre tecnologia em frente ao telecentro inaugurado. Foto? Solange Engelmann</em></figcaption>
+<figure class="image" style="display:inline-block"><img alt="IMG_7664.JPG" height="467" src="//farm6.staticflickr.com/5721/30576617362_7e3323cfe7_b.jpg" width="700" />
+<figcaption>&ldquo;N&atilde;o t&iacute;nhamos acesso a essas tecnologias e &agrave; internet no assentamento. Foi lindo ver os jovens conhecendo como operar uma m&aacute;quina fotogr&aacute;fica e filmadora, e as v&aacute;rias possibilidades que hoje a internet nos oferece. Podemos divulgar nosso trabalho no assentamento, na escola e as atividades que ocorrem no interior, distante da cidade&rdquo;, comemora Marciane.</figcaption>
 </figure>
 </div>
 
@@ -75,7 +75,9 @@ Foto: Solange Engelmann</em></figcaption>
 &ldquo;N&atilde;o t&iacute;nhamos acesso a essas tecnologias e &agrave; internet no assentamento. Foi lindo ver os jovens conhecendo como operar uma m&aacute;quina fotogr&aacute;fica e filmadora, e as v&aacute;rias possibilidades que hoje a internet nos oferece. Podemos divulgar nosso trabalho no assentamento, na escola e as atividades que ocorrem no interior, distante da cidade&rdquo;, comemora Marciane.</p>
 
 <p><br />
-Para ela, o telecentro tamb&eacute;m ser&aacute; fundamental para a continuidade na forma&ccedil;&atilde;o da juventude do campo e o envolvimento dos jovens pobres da periferia atrav&eacute;s de parcerias com a prefeitura de Candiota. Al&eacute;m de fortalecer a R&aacute;dio Terra Livre de Hulha Negra, que este ano completa 20 anos.<br />
+Para ela, o telecentro tamb&eacute;m ser&aacute; fundamental para a continuidade na forma&ccedil;&atilde;o da juventude do campo e o envolvimento dos jovens pobres da periferia atrav&eacute;s de parcerias com a prefeitura de Candiota. Al&eacute;m de fortalecer a R&aacute;dio Terra Livre de Hulha Negra, que este ano completa 20 anos.</p>
+
+<p><br />
 O prefeito de Candiota, eleito nas elei&ccedil;&otilde;es municipais deste ano, Adriano Santos (PT), ressaltou o papel central do MST no munic&iacute;pio e colocou a prefeitura &agrave; disposi&ccedil;&atilde;o para a cria&ccedil;&atilde;o das pol&iacute;ticas p&uacute;blicas para o campo e as condi&ccedil;&otilde;es para o acesso ao conhecimento a e forma&ccedil;&atilde;o dos jovens nos assentamentos.</p>
 
 <p><br />
