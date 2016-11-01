@@ -7,7 +7,7 @@ tags:
 title: Intoxicações por agrotóxico quadruplicam no Sudeste
 support_line: "Pesquisa do Ministério da Saúde revela: volume de veneno por área plantada aumenta a passos largos no país, assim como o de pessoas intoxicadas; De Olho publica série com dados por região"
 menu: agronegócio
-images_hd: //farm6.staticflickr.com/5697/30714534455_203edbeff7_b.jpg
+images_hd: //farm6.staticflickr.com/5717/30598368422_5865824038_b.jpg
 layout: post
 files:
   - link: //farm6.staticflickr.com/5452/30714414155_1399f0139c_b.jpg
@@ -28,12 +28,12 @@ files:
     small: //farm6.staticflickr.com/5700/30626017911_9ed735d977_n.jpg
     title: agrotoxicos-sudeste03.jpg
     $$hashKey: 03O
-  - link: //farm6.staticflickr.com/5697/30714534455_203edbeff7_b.jpg
-    thumbnail: //farm6.staticflickr.com/5697/30714534455_203edbeff7_t.jpg
-    medium: //farm6.staticflickr.com/5697/30714534455_203edbeff7_z.jpg
-    small: //farm6.staticflickr.com/5697/30714534455_203edbeff7_n.jpg
-    title: images.jpeg
-    $$hashKey: "071"
+  - link: //farm6.staticflickr.com/5717/30598368422_5865824038_b.jpg
+    thumbnail: //farm6.staticflickr.com/5717/30598368422_5865824038_t.jpg
+    medium: //farm6.staticflickr.com/5717/30598368422_5865824038_z.jpg
+    small: //farm6.staticflickr.com/5717/30598368422_5865824038_n.jpg
+    title: sb_agrotoxico_alergia_alimentar.jpg
+    $$hashKey: 0BS
 created_date: "2016-11-01T14:34:45-02:00"
 published: true
 releated_posts:
@@ -45,7 +45,7 @@ releated_posts:
   - _posts/2016/10/2016-10-10-governo-temer-aprova-milho-transgenicos-no-brasil.md
 
 ---
-<p>&nbsp;</p>
+<p><img alt="images.jpeg" src="//farm6.staticflickr.com/5697/30714534455_203edbeff7_b.jpg" /></p>
 
 <p style="text-align:center"><img alt="agrotoxicos-sudeste02.jpg" height="481" src="//farm6.staticflickr.com/5452/30714414155_1399f0139c_b.jpg" width="700" /></p>
 
