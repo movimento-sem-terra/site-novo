@@ -6,7 +6,7 @@ tags:
   - tag: violência-no-campo
   - tag: direitos-humanos
 title: "Militante do MST recebe visita do Comitê de Direitos Humanos na prisão "
-support_line: "Lázaro Pereira da Luz, foi preso no dia 15 de junho em Itapaci, "
+support_line: "Lázaro Pereira da Luz, foi preso no dia 15 de junho em Itapaci, acusado de formação de quadrilha por ser do MST"
 menu: direitos humanos
 images_hd: //farm6.staticflickr.com/5561/30086294604_46c0398735_b.jpg
 layout: post
