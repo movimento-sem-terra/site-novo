@@ -4,7 +4,7 @@ tags:
   - tag: sem-terrinha
   - tag: "educação,-cultura-e-comunicação"
 title: "No Pará, Sem Terrinha encerram encontro de solidariedade e formação"
-support_line: Com o tema central “Jornada Cultural Nacional por Alimentação Saudável” as crianças participaram de vários espaços de formação e brincadeiras
+support_line: "Durante todo o encontro, as crianças participaram de vários espaços de formação e brincadeiras"
 menu: lutas e mobilizações
 images_hd: //farm6.staticflickr.com/5524/30062640994_4ea7a6e632_b.jpg
 layout: post
@@ -54,13 +54,13 @@ releated_posts:
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Entre os dias 27 e 30 de outubro, os Sem Terrinha participaram de encontro na escola Crescendo na Pr&aacute;tica, localizada no assentamento Palmares II, em Parauapebas, sul do Par&aacute;.</p>
+Entre os dias 27 e 30 de outubro, os Sem Terrinha participaram de encontro na escola Oziel Alves Pereira, localizada no assentamento Palmares II, em Parauapebas, sul do Par&aacute;.</p>
 
 <p><br />
-Com o tema central &ldquo;Jornada Cultural Nacional por Alimenta&ccedil;&atilde;o Saud&aacute;vel&rdquo; as crian&ccedil;as participaram de v&aacute;rios espa&ccedil;os de forma&ccedil;&atilde;o e brincadeiras.</p>
+A &ldquo;Jornada Cultural Nacional por Alimenta&ccedil;&atilde;o Saud&aacute;vel&rdquo; foi um dos temas abordado. Durante todo o encontro, as&nbsp;crian&ccedil;as participaram de v&aacute;rios espa&ccedil;os de forma&ccedil;&atilde;o e brincadeiras.&nbsp;</p>
 
 <p><br />
-O encontro foi muito representativo e contou com a participa&ccedil;&atilde;o de 320 crian&ccedil;as das regionais Cabana, Eldorado, Araguaia e Caraj&aacute;s. Deste total, 20% eram adolescentes de 13 e 14 anos.</p>
+A atividade foi muito representativa&nbsp;e contou com a participa&ccedil;&atilde;o de 320 crian&ccedil;as das regionais Cabana, Eldorado, Araguaia e Caraj&aacute;s. Deste total, 20% eram adolescentes de 13 e 14 anos.</p>
 
 <p><br />
 Crian&ccedil;a e adolescente, que tempo &eacute; este?, combate ao abuso e explora&ccedil;&atilde;o sexual, internacionalismo e solidariedade &agrave;s crian&ccedil;as da S&iacute;ria e direito &agrave; inf&acirc;ncia e cultura, foram alguns dos temas trabalhados com as crian&ccedil;as que tamb&eacute;m participaram das oficinas de teatro jornal, artes visuais, constru&ccedil;&atilde;o de brinquedos alternativos, cinema e roda de leitura.</p>
@@ -73,7 +73,7 @@ Crian&ccedil;a e adolescente, que tempo &eacute; este?, combate ao abuso e explo
 As crian&ccedil;as participaram de todo processo de constru&ccedil;&atilde;o do encontro, desde a sua prepara&ccedil;&atilde;o at&eacute; o encerramento.</p>
 
 <p><br />
-&ldquo;No Movimento, este &eacute; um fator importante, pois a crian&ccedil;as s&atilde;o protagonistas de sua pr&oacute;pria hist&oacute;ria. Al&eacute;m disso, participam do debate nacional do MST sobre a alimenta&ccedil;&atilde;o saud&aacute;vel e ajudam a construir o futuro da organiza&ccedil;&atilde;o. Esse &eacute; o maior legado que nossos encontros nos deixam&rdquo;, afirma Deusamar Sales, do setor de educa&ccedil;&atilde;o do MST.</p>
+&ldquo;No Movimento, este &eacute; um fator importante, pois a crian&ccedil;as s&atilde;o protagonistas de sua pr&oacute;pria hist&oacute;ria. Al&eacute;m disso, participam do debate nacional do MST sobre a alimenta&ccedil;&atilde;o saud&aacute;vel e ajudam a construir o presente da organiza&ccedil;&atilde;o. Esse &eacute; o maior legado que nossos encontros nos deixam&rdquo;, afirma Deusamar Sales, do setor de educa&ccedil;&atilde;o do MST.</p>
 
 <p><br />
 Outra tem&aacute;tica abordada com as crian&ccedil;as, foram as ocupa&ccedil;&otilde;es das escolas realizadas pelos estudantes em v&aacute;rias cidades do Brasil. Deusamar afirma que essas a&ccedil;&otilde;es, feitas pelos pr&oacute;prios estudantes, &eacute; uma luta deles por seus direitos e assim assumem a luta pela educa&ccedil;&atilde;o.</p>
