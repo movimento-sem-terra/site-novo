@@ -4,7 +4,7 @@ tags:
   - tag: frente-brasil-popular
   - tag: distrito-federal
   - tag: educação
-title: "FPB manifesta apoio à ocupação de escolas no DF "
+title: "FBP manifesta apoio à ocupação de escolas no DF "
 support_line: "\"Denunciamos o MPDF, que atua de forma arbitrária e exacerba as suas funções ao requerer o pedido de reintegração de posse, alegando o abandono de crianças e adolescentes\""
 menu: direitos humanos
 images_hd: //farm6.staticflickr.com/5771/30433593340_1af94487f9_b.jpg
