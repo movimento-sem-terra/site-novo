@@ -14,14 +14,11 @@ files:
     thumbnail: //farm6.staticflickr.com/5771/30433593340_1af94487f9_t.jpg
     medium: //farm6.staticflickr.com/5771/30433593340_1af94487f9_z.jpg
     small: //farm6.staticflickr.com/5771/30433593340_1af94487f9_n.jpg
-    title: 1nov2016---estudantes-discursam-em-escola-ocupada-no-distrito-federal-1478023910754_615x300.jpg
-    $$hashKey: 0BZ
-created_date: "2016-11-02T12:56:01-02:00"
+    title: 1nov2016
+    $$hashKey: 0FR
+created_date: "2016-11-02T12:56:53-02:00"
 published: true
-releated_posts:
-  - _posts/2016/05/2016-05-24-fbp-realiza-plenaria-de-resistencia-ao-golpe-em-brasilia.md
-  - _posts/2016/06/2016-06-01-mst-participa-de-debate-sobre-a-conjuntura-com-a-frente-brasil-popular-em-sao-paulo.md
-  - _posts/2016/03/2016-03-08-mulheres-do-mst-realizam-marcha-em-formosa-go.md
+releated_posts: []
 
 ---
 <p>&nbsp;</p>
@@ -39,8 +36,6 @@ Nesta ter&ccedil;a-feira (01),&nbsp;para desocupar uma escola p&uacute;blica de 
 
 <p><br />
 &Eacute; neste contexto, que a Frente Brasil Popular no DF lan&ccedil;a uma nota de apoio &agrave;s ocupa&ccedil;&otilde;es e condena a a&ccedil;&atilde;o do Minist&eacute;rio Publico ao afirmar que este &quot;atua de forma arbitr&aacute;ria e exacerba as suas fun&ccedil;&otilde;es ao requerer o pedido de reintegra&ccedil;&atilde;o de posse, alegando o abandono de crian&ccedil;as e adolescentes&quot;.</p>
-
-<p>&nbsp;</p>
 
 <p><br />
 A nota ainda defende a atua&ccedil;&atilde;o dos estudantes nessa mobiliza&ccedil;&atilde;o pelo direito &agrave; educa&ccedil;&atilde;o. &quot;A auto-organiza&ccedil;&atilde;o dos estudantes para a ocupa&ccedil;&atilde;o das escolas se constitu&iacute; como direito coletivo e express&atilde;o da cidadania, com o objetivo de pressionar o governo pelo cumprimento do direito social &agrave; educa&ccedil;&atilde;o previsto na Constitui&ccedil;&atilde;o.&quot;</p>
