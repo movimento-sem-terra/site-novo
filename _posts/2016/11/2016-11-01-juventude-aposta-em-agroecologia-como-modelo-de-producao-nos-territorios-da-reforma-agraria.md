@@ -4,7 +4,7 @@ tags:
   - tag: agroecologia
   - tag: juventude
   - tag: paraíba
-title: Juventude aposta em agroecologia como modelo de produção nos territórios da reforma agrária
+title: Juventude aposta em agroecologia como modelo de produção nos territórios da Reforma Agrária
 support_line: "Uma iniciativa que tem como objetivos, discutir os problemas enfrentados pela juventude camponesa, debater ideias e lutar por direitos"
 menu: agricultura camponesa
 images_hd: //farm6.staticflickr.com/5457/30598225822_b2e90a9467_b.jpg
