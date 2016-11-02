@@ -33,8 +33,7 @@ releated_posts:
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="30057282423_b20b15dc8c_z.jpg" height="525" src="//farm6.staticflickr.com/5731/30100487254_6912f0af44_b.jpg" width="700" />
-<figcaption><em>Alunos da rede p&uacute;blica de Maric&aacute; aprendem na pr&aacute;tica a import&acirc;ncia de produzir alimentos saud&aacute;veis<br />
-Foto: MST</em></figcaption>
+<figcaption><em>Alunos da rede p&uacute;blica de Maric&aacute; aprendem na pr&aacute;tica a import&acirc;ncia de produzir alimentos saud&aacute;veis. Foto: MST</em></figcaption>
 </figure>
 </div>
 
@@ -43,7 +42,6 @@ Foto: MST</em></figcaption>
 Do Brasil de Fato&nbsp;</em></p>
 
 <p><br />
-Alunos da rede p&uacute;blica de Maric&aacute; aprendem na pr&aacute;tica a import&acirc;ncia de produzir alimentos saud&aacute;veis / Foto: MST<br />
 O cultivo de verduras e hortali&ccedil;as sem veneno j&aacute; &eacute; realidade em seis escolas p&uacute;blicas de Maric&aacute;, na regi&atilde;o dos Lagos, no interior do Rio de Janeiro. Os alunos come&ccedil;aram a plantar hortas agroecol&oacute;gicas em mar&ccedil;o desse ano. A iniciativa faz parte do Programa Maric&aacute; Popular: construindo a soberania alimentar, desenvolvido pelo Movimento dos Trabalhadores Rurais Sem Terra (MST) em parceria com a prefeitura da cidade, administrada por Washington Qu&aacute;qu&aacute; (PT).</p>
 
 <p><br />
