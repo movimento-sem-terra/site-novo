@@ -4,7 +4,7 @@ tags:
   - tag: agrotóxicos
   - tag: agronegócio
   - tag: sul
-title: "Região Sul consome 23% dos agrotóxicos do país; Paraná só perde para SP e MT"
+title: "Região Sul consome 23% dos agrotóxicos do país"
 support_line: "Entre 2007 e 2013, região teve aumento significativo do uso de veneno por área plantada; Curitiba é o quinto município com mais intoxicações no Brasil"
 menu: agronegócio
 images_hd: //farm6.staticflickr.com/5814/30646107731_c99a739aab_b.jpg
