@@ -26,12 +26,16 @@ releated_posts:
   - _posts/2016/09/2016-09-21-a-luta-por-agroecologia-e-uma-bandeira-internacionalista.md
 
 ---
-<figure class="image"><img alt="unnamed (4).jpg" height="253" src="//farm6.staticflickr.com/5821/30645012092_fa23894a1c_b.jpg" width="450" />
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="unnamed (4).jpg" height="394" src="//farm6.staticflickr.com/5821/30645012092_fa23894a1c_b.jpg" width="700" />
 <figcaption>Sem Terra participaram de inaugura&ccedil;&atilde;o de Agrovilas Agroecol&oacute;gicas</figcaption>
 </figure>
+</div>
 
 <p><em>Por Coletivo de Comunica&ccedil;&atilde;o do MST na Bahia<br />
 Da P&aacute;gina do MST</em></p>
+
+<p>&nbsp;</p>
 
 <p>Mais de 3 mil trabalhadores e trabalhadoras Sem Terra participaram do Ato Pol&iacute;tico de inaugura&ccedil;&atilde;o de Agrovilas Agroecol&oacute;gicas, nos Assentamentos Jaci Rocha e Ant&ocirc;nio Ara&uacute;jo, localizados no Prado, Extremo Sul da Bahia.</p>
 
@@ -45,17 +49,23 @@ Da P&aacute;gina do MST</em></p>
 
 <p>Para os Sem Terra, a conquista da terra e constru&ccedil;&atilde;o de agrovilas representam que a Reforma Agr&aacute;ria &eacute; poss&iacute;vel, especialmente, numa regi&atilde;o de grandes latif&uacute;ndios controlados por grupos pol&iacute;ticos conservadores, que oprimem a classe trabalhadora e podam os sonhos de transforma&ccedil;&atilde;o.</p>
 
+<p>&nbsp;</p>
+
 <p><strong>Luta pela terra</strong></p>
 
 <p>Ao recordar os primeiros dias nos barracos do acampamento, Genoaria da Concei&ccedil;&atilde;o, mais conhecida como Gina, casada e m&atilde;e de tr&ecirc;s filhos, assentada no Jaci Rocha, se emocionou. &ldquo;As dificuldades foram muitas, mas nunca desisti e sempre sonhei com a conquista da terra. Hoje quero seguir lutando e trazer mais pessoas para terra&rdquo;, afirma Gina.</p>
 
 <p>Ela conta que se n&atilde;o estivesse vivendo no assentamento e produzindo, estaria trabalhando em alguma planta&ccedil;&atilde;o de eucalipto e sendo explorada.</p>
 
+<p>&nbsp;</p>
+
 <p><strong>Organiza&ccedil;&atilde;o de agrovilas</strong></p>
 
 <p>Os assentamentos Jaci Rocha e Ant&ocirc;nio Araujo se transformaram em base de resist&ecirc;ncia e constru&ccedil;&atilde;o da agroecologia. A partir da conquista da &aacute;rea em 2015, as fam&iacute;lias come&ccedil;aram um processo de organiza&ccedil;&atilde;o e demarca&ccedil;&atilde;o da terra em agrovilas, de acordo com as aptid&otilde;es produtivas de cada um.</p>
 
 <p>O processo garantiu a constru&ccedil;&atilde;o de assentamentos agroecol&oacute;gicos capazes de recuperar a fauna e flora da regi&atilde;o, diminuindo o grande passivo ambiental provocado pelos monocultivos de eucalipto da antiga fazenda. A princ&iacute;pio, o objetivo &eacute; potencializar a produ&ccedil;&atilde;o agroecol&oacute;gica, o interc&acirc;mbio de experi&ecirc;ncias e a constru&ccedil;&atilde;o coletiva do conhecimento.</p>
+
+<p>&nbsp;</p>
 
 <p><strong>Produ&ccedil;&atilde;o agroecol&oacute;gica</strong></p>
 
@@ -64,6 +74,8 @@ Da P&aacute;gina do MST</em></p>
 <p>&ldquo;Fazer ocupa&ccedil;&atilde;o e manter a resist&ecirc;ncia &eacute; a forma que o MST encontrou para transformar o mundo&rdquo;, salientou.</p>
 
 <p>O deputado explica que diante do modelo de produ&ccedil;&atilde;o do capital e a destrui&ccedil;&atilde;o do meio ambiente e da vida humana, a luta pela agroecologia e defesa da soberania alimentar se tornam a principal bandeira dos trabalhadores e trabalhadoras. &ldquo;Temos que potencializar a produ&ccedil;&atilde;o de maneira agroecol&oacute;gica&rdquo;, completa Assun&ccedil;&atilde;o.</p>
+
+<p>&nbsp;</p>
 
 <p><em>*Editado por Solange Engelmann</em></p>
 
