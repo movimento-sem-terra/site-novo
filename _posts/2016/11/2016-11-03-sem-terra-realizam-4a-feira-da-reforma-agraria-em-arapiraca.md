@@ -42,32 +42,14 @@ Da P&aacute;gina do MST</em></p>
 
 <p>Macaxeira, inhame, banana, laranja, ab&oacute;bora, galinha de capoeira, s&atilde;o alguns dos produtos que os arapiraquenses devem encontrar nas barracas dos camponeses e camponesas durante a Feira.&nbsp;</p>
 
-<figure class="image" style="float:left"><img alt="unnamed.jpg" height="267" src="//farm6.staticflickr.com/5673/30636685332_ccc465d196_b.jpg" width="400" />
+<figure class="image" style="float:right"><img alt="unnamed.jpg" height="267" src="//farm6.staticflickr.com/5673/30636685332_ccc465d196_b.jpg" width="400" />
 <figcaption>Feira oferece alimentos saud&aacute;veis &agrave; popula&ccedil;&atilde;o de&nbsp;Arapiraca</figcaption>
 </figure>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
 
 <p>Segundo, Jos&eacute; Roberto, a Feira apresenta os frutos da luta pela terra e a import&acirc;ncia da Reforma Agr&aacute;ria para a sociedade. &ldquo;Temos a possibilidade de mostrar para a popula&ccedil;&atilde;o arapiraquense a import&acirc;ncia e a necessidade da Reforma Agr&aacute;ria no estado e no pa&iacute;s, gerando trabalho, renda e produzindo alimentos saud&aacute;veis para a mesa do povo brasileiro&rdquo;, disse.</p>
 
 <p>Com atra&ccedil;&otilde;es culturais todas as noites, a Feira promete movimentar o centro da cidade com a produ&ccedil;&atilde;o e cultura camponesa. A partir das 17 horas, o Festival de Cultura Popular toma conta do palco principal da Feira, com uma diversidade de atra&ccedil;&otilde;es locais e apresenta&ccedil;&atilde;o de artistas das &aacute;reas de Reforma Agr&aacute;ria.</p>
+
+<p><em>*Editado por Solange Engelmann</em></p>
 
 <p><span style="font-size: 6.5pt; font-family: Arial, sans-serif;"><o:p></o:p></span></p>
