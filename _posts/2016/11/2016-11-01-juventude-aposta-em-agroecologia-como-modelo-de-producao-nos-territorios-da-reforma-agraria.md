@@ -50,7 +50,7 @@ Da P&aacute;gina do MST</em></p>
 Em outubro de 2015, nascia nos assentamentos de Pitimbu, litoral sul da Para&iacute;ba, o Coletivo de Jovens Semente Nativa. Uma iniciativa criada a partir das confer&ecirc;ncias territoriais que tem como objetivos, discutir os problemas enfrentados pela juventude camponesa, debater ideias e lutar por direitos.</p>
 
 <p><br />
-J&aacute; em 2007, os assentados da regi&atilde;o aprovaram e executaram a&ccedil;&otilde;es do Projeto &ldquo;Preservar e Produzir: uma possibilidade real&rdquo;, com recursos da Secretaria de Pol&iacute;ticas das Mulheres (SPM) para a juventude rural. Por&eacute;m, ao longo dos &uacute;ltimos anos, com o surgimento de novas demandas, suas a&ccedil;&otilde;es foram reduzidas.</p>
+J&aacute; em 2007, os assentados da regi&atilde;o aprovaram e executaram a&ccedil;&otilde;es do Projeto &ldquo;Preservar e Produzir: uma possibilidade real&rdquo;, com recursos da Servi&ccedil;o da Pastoral do Migrante&nbsp;(SPM) para a juventude rural. Por&eacute;m, ao longo dos &uacute;ltimos anos, com o surgimento de novas demandas, suas a&ccedil;&otilde;es foram reduzidas.</p>
 
 <p><br />
 <strong>Coletivo de Jovens Sementes Nativa</strong></p>
