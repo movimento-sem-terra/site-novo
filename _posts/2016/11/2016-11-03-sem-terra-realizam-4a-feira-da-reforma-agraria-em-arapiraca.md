@@ -1,6 +1,9 @@
 ---
 date: "2016-11-03T12:04:35-02:00"
-tags: []
+tags:
+  - tag: feira-da-reforma-agrária
+  - tag: alagoas
+  - tag: produtos-orgânicos
 images_hd: //farm6.staticflickr.com/5721/30636668612_cc1565829b_b.jpg
 title: Sem Terra realizam 4ª Feira da Reforma Agrária em Arapiraca
 support_line: "Macaxeira, inhame, banana, laranja, abóbora, galinha de capoeira, são alguns dos produtos saudáveis e a preços baixos, que a população encontra nas barracas da Feira"
@@ -22,7 +25,11 @@ files:
     $$hashKey: 06G
 created_date: "2016-11-03T12:09:48-02:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2016/09/2016-09-02-mst-realiza-17a-feira-da-reforma-agraria-em-maceio.md
+  - _posts/2016/09/2016-09-14-mst-comercializa-mais-de-400-toneladas-de-alimentos-durante-feira-em-maceio.md
+  - _posts/2016/09/2016-09-05-mais-de-15-toneladas-de-alimentos-sao-vendidos-na-1a-feira-capixaba-de-produtos-da-reforma-agraria.md
+  - _posts/2016/09/2016-09-06-mst-inicia-17a-feira-da-reforma-agraria-em-alagoas.md
 
 ---
 <p>&nbsp;</p>
