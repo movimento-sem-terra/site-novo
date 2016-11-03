@@ -25,13 +25,14 @@ published: true
 releated_posts: []
 
 ---
-<p><em>Por Gustavo Marinho<br />
-Da P&aacute;gina do MST</em></p>
+<p>&nbsp;</p>
 
 <p style="text-align:center"><img alt="Arapiraca Feira.png" height="334" src="//farm6.staticflickr.com/5721/30636668612_cc1565829b_b.jpg" width="450" /></p>
 
-<p><br />
-Pela quarta vez consecutiva, as trabalhadoras e trabalhadores rurais Sem Terra levam para a segunda maior cidade de Alagoas, a Feira da Reforma Agr&aacute;ria. A atividade tem in&iacute;cio nesta quinta-feira (03) e vai at&eacute; o dia 05, em Arapiraca, Agreste do estado.</p>
+<p><em>Por Gustavo Marinho<br />
+Da P&aacute;gina do MST</em></p>
+
+<p>Pela quarta vez consecutiva, as trabalhadoras e trabalhadores rurais Sem Terra levam para a segunda maior cidade de Alagoas, a Feira da Reforma Agr&aacute;ria. A atividade tem in&iacute;cio nesta quinta-feira (03) e vai at&eacute; o dia 05, em Arapiraca, Agreste do estado.</p>
 
 <p>Os camponeses e camponesas comercializam uma diversidade de produtos dos acampamentos e assentamentos de Reforma Agr&aacute;ria, produzidos sem agrot&oacute;xicos e &agrave; pre&ccedil;os baixos.</p>
 
