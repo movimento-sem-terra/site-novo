@@ -37,8 +37,8 @@ releated_posts:
 ---
 <p>&nbsp;</p>
 
-<p>Por In&ecirc;s Castilho<br />
-De Olho nos Ruralistas&nbsp;</p>
+<p><em>Por In&ecirc;s Castilho<br />
+De Olho nos Ruralistas&nbsp;</em></p>
 
 <p><br />
 O volume de agrot&oacute;xicos por &aacute;rea plantada dobrou na regi&atilde;o Nordeste em sete anos, saltando de 5,47 para 10,61 quilos por hectare (kg/ha) entre 2007 e 2013. A quantidade consumida aumentou de 70 mil toneladas em 2007 a 123 mil toneladas em 2013, enquanto a &aacute;rea plantada teve redu&ccedil;&atilde;o, de 12,8 milh&otilde;es de hectares em 2007 para 11,6 milh&otilde;es/ha em 2013. A incid&ecirc;ncia de intoxica&ccedil;&otilde;es passou de 1,56 para 5,39 casos por 100 mil habitantes no per&iacute;odo, um aumento que n&atilde;o &eacute; proporcional e sugere subnotifica&ccedil;&atilde;o.</p>
