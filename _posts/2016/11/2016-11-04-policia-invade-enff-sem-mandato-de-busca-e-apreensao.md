@@ -45,7 +45,7 @@ releated_posts:
 <p><em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Na manh&atilde; desta sexta-feira (04), cerca de 10 viaturas da pol&iacute;cia civil e militar invadiram a Escola Nacional Florestan Fernandes (ENFF) em Guararema, S&atilde;o Paulo.</p>
+Na manh&atilde; desta sexta-feira (04), cerca de 10 viaturas da pol&iacute;cia civil invadiram a Escola Nacional Florestan Fernandes (ENFF) em Guararema, S&atilde;o Paulo.</p>
 
 <figure class="image" style="float:left"><img alt="índice1.jpeg" height="411" src="//farm6.staticflickr.com/5819/30470829260_2a873679a0_b.jpg" width="330" />
 <figcaption></figcaption>
