@@ -4,7 +4,7 @@ tags:
   - tag: direitos-humanos
   - tag: violação-de-direitos
   - tag: mst
-title: Policia invade ENFF sem mandato de busca e apreensão
+title: Policia invade ENFF sem mandado de busca e apreensão
 support_line: "A Escola Nacional "
 images_hd: //farm6.staticflickr.com/5336/30470829120_7fb5e82961_b.jpg
 menu: direitos humanos
@@ -46,7 +46,7 @@ Na manh&atilde; desta sexta-feira (04) cerca de 10 viaturas da policia civil e m
 De acordo os relatos, os policiais chegaram por volta das 09h25, fechou o port&atilde;o da Escola e pulou a janela da recep&ccedil;&atilde;o dando tiros para o ar. Os estilha&ccedil;os de balas recolhidos comprovam que nenhuma delas eram de borracha e sim letais.</p>
 
 <p><br />
-Neste momento a policia est&aacute; em frente &agrave; ENFF, recuaram e est&atilde;o aguardando um mandato de pris&atilde;o.</p>
+Neste momento a policia est&aacute; em frente &agrave; ENFF, recuaram e est&atilde;o aguardando um mandado de pris&atilde;o.</p>
 
 <p><br />
 O MST repudia a a&ccedil;&atilde;o da policia de S&atilde;o Paulo e exige que o governo tome as medidas cab&iacute;veis nesse processo. &quot;Somos um movimento que luta pela democratiza&ccedil;&atilde;o do acesso a terra no pa&iacute;s e n&atilde;o uma organiza&ccedil;&atilde;o criminosa&quot;.</p>
