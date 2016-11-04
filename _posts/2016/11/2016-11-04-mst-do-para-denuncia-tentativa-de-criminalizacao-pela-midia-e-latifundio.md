@@ -1,6 +1,9 @@
 ---
 date: "2016-11-04T11:09:33-02:00"
-tags: []
+tags:
+  - tag: criminalização
+  - tag: pará
+  - tag: reforma-agrária
 title: "MST do Pará denuncia tentativa de criminalização pela mídia e latifúndio "
 support_line: "MST denuncia a imparcialidade e manipulação da mídia, em mais uma tentativa de criminalizar movimentos populares legítimos"
 menu: direitos humanos
@@ -15,7 +18,10 @@ files:
     $$hashKey: 09C
 created_date: "2016-11-04T11:29:06-02:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2016/04/2016-04-14-impunidade-em-mortes-e-motor-da-violencia-no-campo.md
+  - _posts/2016/04/2016-04-21-sem-terra-ocupam-sede-do-incra-em-belem.md
+  - _posts/2016/10/2016-10-03-mst-denuncia-criminalizacao-da-luta-pela-terra-em-rondonia.md
 
 ---
 <p><br />
