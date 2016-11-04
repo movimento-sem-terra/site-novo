@@ -108,7 +108,10 @@ Pela internet, o MST recebeu manifesta&ccedil;&otilde;es pessoais de militantes 
 Confira <strong><a href="https://docs.google.com/uc?id=0Bwus_4SL8MWDTm5fWC1VSVQtLVk&amp;export=download">aqui</a></strong>&nbsp;as notas na &iacute;ntegra em espanhol e algumas abaixo:</p>
 
 <p><br />
-<a href="http://www.cloc-viacampesina.net/noticias/la-cloc-la-campesina-latinoamerica-repudiamos-energicamente-la-criminalizacion-de-la-lucha">Coordena&ccedil;&atilde;o Latino-americana de Organiza&ccedil;&otilde;es do Campo (Cloc) &ndash; Via Campesina</a><br />
-<a href="http://crbz.org/?p=43516">Corrente Revolucion&aacute;ria Bol&iacute;var e Zamora</a></p>
+<a href="http://www.cloc-viacampesina.net/noticias/la-cloc-la-campesina-latinoamerica-repudiamos-energicamente-la-criminalizacion-de-la-lucha">Coordena&ccedil;&atilde;o Latino-americana de Organiza&ccedil;&otilde;es do Campo (Cloc) &ndash; Via Campesina</a></p>
+
+<p><a href="http://crbz.org/?p=43516">Corrente Revolucion&aacute;ria Bol&iacute;var e Zamora</a></p>
+
+<p><a href="https://clocvcparaguay.wordpress.com/2016/11/04/solidaridad-desde-conamuri-hacia-el-mst-y-repudio-a-la-actuacion-del-gobierno-terrorista-de-temer/">CLOC-V&iacute;a Campesina Paraguay</a></p>
 
 <p>&nbsp;</p>
