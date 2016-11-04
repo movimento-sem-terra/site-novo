@@ -5,8 +5,8 @@ tags:
   - tag: violação-de-direitos
   - tag: mst
 title: Policia invade ENFF sem mandado de busca e apreensão
-support_line: "A Escola Nacional "
-images_hd: //farm6.staticflickr.com/5336/30470829120_7fb5e82961_b.jpg
+support_line: "Os policiais chegaram por volta das 09h25, pularam o portão da Escola e a janela da recepção e entraram atirando em direção às pessoas que se encontravam no local"
+images_hd: //farm6.staticflickr.com/5514/30140710324_47faa885fa_b.jpg
 menu: direitos humanos
 section: cover
 layout: post
@@ -23,6 +23,12 @@ files:
     small: //farm6.staticflickr.com/5819/30470829260_2a873679a0_n.jpg
     title: índice1.jpeg
     $$hashKey: "033"
+  - link: //farm6.staticflickr.com/5514/30140710324_47faa885fa_b.jpg
+    thumbnail: //farm6.staticflickr.com/5514/30140710324_47faa885fa_t.jpg
+    medium: //farm6.staticflickr.com/5514/30140710324_47faa885fa_z.jpg
+    small: //farm6.staticflickr.com/5514/30140710324_47faa885fa_n.jpg
+    title: índice6.jpeg
+    $$hashKey: 0AI
 created_date: "2016-11-04T10:26:12-02:00"
 published: true
 releated_posts:
