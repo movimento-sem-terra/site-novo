@@ -5,7 +5,7 @@ tags:
   - tag: lutas-e-mobilizações
   - tag: solidariedade-internacional
 title: MST recebe solidariedade internacional de organizações e militantes
-support_line: "O apoio veio de organizações da Venezuela, Argentina, Colômbia, México, além de inúmeras manifestações nas redes sociais"
+support_line: "O apoio veio de organizações da Venezuela, Argentina, Colômbia, México, Paraguai, além de inúmeras manifestações nas redes sociais"
 menu: solidariedade
 images_hd: //farm6.staticflickr.com/5600/30662304682_505ba9e7cc_b.jpg
 layout: post
@@ -34,6 +34,12 @@ files:
     small: //farm6.staticflickr.com/5466/30143801903_d656ae6500_n.jpg
     title: Michelle Ramos_estudante Boliviana.png
     $$hashKey: 06P
+  - link: //farm6.staticflickr.com/5350/30743134296_7ed49d591a_b.jpg
+    thumbnail: //farm6.staticflickr.com/5350/30743134296_7ed49d591a_t.jpg
+    medium: //farm6.staticflickr.com/5350/30743134296_7ed49d591a_z.jpg
+    small: //farm6.staticflickr.com/5350/30743134296_7ed49d591a_n.jpg
+    title: a.jpg
+    $$hashKey: 0S0
 created_date: "2016-11-04T18:45:28-02:00"
 published: true
 releated_posts:
@@ -66,9 +72,11 @@ O Movimento Popular P&aacute;tria Grande cobrou do governo brasileiro e das inst
 <p><br />
 O Movimento Projeto Popular repudiou a escala da persegui&ccedil;&atilde;o a movimentos sociais na Am&eacute;rica Latina, sobretudo, onde ascenderam governos conservadores e golpistas. &ldquo;Buscam estigmatizar, atacar e perseguir a milit&acirc;ncia popular que enfrenta os governos neoliberais, golpistas e anti-populares. Lutar &eacute; um direito&rdquo;.</p>
 
-<figure class="image" style="float:left"><img alt="Carlos aznarez_Resumen Latinoamericano.jpg" height="320" src="//farm6.staticflickr.com/5638/30143739443_a998e8b534_b.jpg" width="400" />
-<figcaption><em>Carlos Arnarez da Resumen Latinoamericano.</em></figcaption>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="a.jpg" height="394" src="//farm6.staticflickr.com/5350/30743134296_7ed49d591a_b.jpg" width="700" />
+<figcaption><em>Militantes do Instituto Agroecol&oacute;gico Latinoamericano (IALA-Guaran&iacute;).</em></figcaption>
 </figure>
+</div>
 
 <p><br />
 <strong>Col&ocirc;mbia</strong></p>
