@@ -5,7 +5,7 @@ tags:
   - tag: vaticano
   - tag: papa-francisco
 title: João Pedro Stédile comenta encontro dos movimentos populares com Papa Francisco
-support_line: "Para ele, o encontro será importante para aprofundar o debate político e ajudar a construir saídas pelos movimentos populares para enfrentar os graves problemas mundiais"
+support_line: O Encontro será importante para aprofundar o debate político e ajudar os movimentos populares a construir saídas no enfretamento aos graves problemas mundiais
 images_hd: //farm6.staticflickr.com/5476/30646721512_ee59c903b2_b.jpg
 menu: projeto popular
 layout: post
