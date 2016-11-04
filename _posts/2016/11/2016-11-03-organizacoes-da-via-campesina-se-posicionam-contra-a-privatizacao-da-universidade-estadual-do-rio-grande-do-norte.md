@@ -4,7 +4,7 @@ tags:
   - tag: educacao
   - tag: "educação,-cultura-e-comunicação"
   - tag: educação-do-campo
-title: Via Campesina se posiciona contra a privatização da Universidade Estadual do RN
+title: Via Campesina se posiciona contra privatização da Universidade Estadual do RN
 support_line: "Os movimentos defendem um projeto de sociedade, com a manutenção de direitos fundamentais como uma educação pública e de qualidade, que não pode ser pensada como mercadoria"
 menu: "educação, cultura e comunicação"
 images_hd: //farm6.staticflickr.com/5451/30642028842_eed157eab5_b.jpg
