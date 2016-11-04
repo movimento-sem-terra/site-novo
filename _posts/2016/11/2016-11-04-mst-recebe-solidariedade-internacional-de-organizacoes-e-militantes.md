@@ -45,7 +45,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="2.jpg" height="500" src="//farm6.staticflickr.com/5600/30662304682_505ba9e7cc_b.jpg" width="700" />
-<figcaption><em>Equipe da Alba TV de Carac&aacute;s.</em></figcaption>
+<figcaption><em>Equipe da Alba TV de Caracas.</em></figcaption>
 </figure>
 </div>
 
