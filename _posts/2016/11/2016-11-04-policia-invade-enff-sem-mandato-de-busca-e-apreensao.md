@@ -8,7 +8,7 @@ title: Policia invade ENFF sem mandado de busca e apreensão
 support_line: "Os policiais chegaram por volta das 09h25, pularam o portão da Escola e a janela da recepção e entraram atirando em direção às pessoas que se encontravam no local"
 images_hd: //farm6.staticflickr.com/5514/30140710324_47faa885fa_b.jpg
 menu: direitos humanos
-section: cover
+section: featured-news
 layout: post
 files:
   - link: //farm6.staticflickr.com/5336/30470829120_7fb5e82961_b.jpg
