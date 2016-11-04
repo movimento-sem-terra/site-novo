@@ -2,7 +2,7 @@
 date: "2016-11-04T13:34:59-02:00"
 tags: []
 title: "Nota de Comitê Goiano de \nDireitos Humanos repudia violência contra estudantes"
-support_line: "O Comitê denuncia ações truculentas e arbitrárias da polícia contra os estudantes e professores do estado e se solidariza com as ocupações estudantis "
+support_line: O Comitê se solidariza com as ocupações estudantis e denuncia as ações truculentas e arbitrárias da polícia contra os estudantes e professores no estado
 menu: lutas e mobilizações
 images_hd: //farm6.staticflickr.com/5773/30738061706_c4d3279827_b.jpg
 layout: post
