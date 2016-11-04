@@ -114,4 +114,6 @@ Confira <strong><a href="https://docs.google.com/uc?id=0Bwus_4SL8MWDTm5fWC1VSVQt
 
 <p><a href="https://clocvcparaguay.wordpress.com/2016/11/04/solidaridad-desde-conamuri-hacia-el-mst-y-repudio-a-la-actuacion-del-gobierno-terrorista-de-temer/">CLOC-V&iacute;a Campesina Paraguay</a></p>
 
+<p><a href="https://ialaguarani.wordpress.com/2016/11/04/luchar-es-un-derecho-el-iala-guarani-expresa-su-solidaridad-al-mst-y-la-enff/">Instituto Agroecol&oacute;gico Latinoamericano - IALA Guaran&iacute;</a></p>
+
 <p>&nbsp;</p>
