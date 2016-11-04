@@ -4,7 +4,7 @@ tags:
   - tag: violência-no-campo
   - tag: golpe
   - tag: violência-reforma-agrária
-title: Sistema Judiciário empenha ações para criminalização da luta popular e do MST
+title: Sistema Judiciário articula ações de criminalização das lutas populares
 support_line: "Processo envolve articuladas relações entre setores da polícia e do agronegócio, mídia privada e poderes locais"
 section: cover
 menu: direitos humanos
