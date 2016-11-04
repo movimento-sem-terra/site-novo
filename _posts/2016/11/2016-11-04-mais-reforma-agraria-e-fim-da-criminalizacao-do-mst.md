@@ -24,7 +24,7 @@ releated_posts:
   - _posts/2016/11/2016-11-04-policia-invade-enff-sem-mandato-de-busca-e-apreensao.md
 
 ---
-<p style="margin-bottom: 0cm; line-height: 100%"><img alt="índice6.jpeg" src="//farm6.staticflickr.com/5570/30685670851_989cf0902d_b.jpg" /></p>
+<p style="margin-bottom: 0cm; line-height: 100%"><img alt="índice6.jpeg" height="467" src="//farm6.staticflickr.com/5570/30685670851_989cf0902d_b.jpg" width="700" /></p>
 
 <p><br />
 <em>Da P&aacute;gina do MST</em></p>
