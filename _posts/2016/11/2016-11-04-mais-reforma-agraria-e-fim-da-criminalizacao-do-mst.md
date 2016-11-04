@@ -8,7 +8,7 @@ title: "Em nota, MST pede por mais Reforma Agrária e pelo fim da criminalizaç�
 images_hd: //farm6.staticflickr.com/5570/30685670851_989cf0902d_b.jpg
 menu: direitos humanos
 section: cover
-support_line: "Em nota, o MST denuncia a “escalada da repressão contra a luta pela terra, onde predominam os interesses do agronegócio associado a violência do Estado de Exceção”"
+support_line: "O MST denuncia a “escalada da repressão contra a luta pela terra, onde predominam os interesses do agronegócio associado a violência do Estado de Exceção” após ação da Polícia Civil do PR nesta sexta."
 layout: post
 files:
   - link: //farm6.staticflickr.com/5570/30685670851_989cf0902d_b.jpg
@@ -24,9 +24,10 @@ releated_posts:
   - _posts/2016/11/2016-11-04-policia-invade-enff-sem-mandato-de-busca-e-apreensao.md
 
 ---
-<p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
+<p style="margin-bottom: 0cm; line-height: 100%"><img alt="índice6.jpeg" src="//farm6.staticflickr.com/5570/30685670851_989cf0902d_b.jpg" /></p>
 
-<p><em>Da P&aacute;gina do MST</em></p>
+<p><br />
+<em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
 Nesta sexta-feira (4), o MST amanheceu sobre os holofotes da criminaliza&ccedil;&atilde;o. Uma a&ccedil;&atilde;o truculenta da pol&iacute;cia, batizada de &ldquo;Castra&rdquo;, envolveu tr&ecirc;s estados, Paran&aacute;, S&atilde;o Paulo e Mato Grosso do Sul, e teve como principal objetivo prender e criminalizar as lideran&ccedil;as dos Acampamentos Dom Tom&aacute;s Baldu&iacute;no e Herdeiros da Luta pela Terra, militantes assentados da regi&atilde;o central do Paran&aacute;.</p>
