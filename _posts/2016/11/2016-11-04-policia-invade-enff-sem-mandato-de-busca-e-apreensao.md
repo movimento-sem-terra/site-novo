@@ -32,21 +32,23 @@ releated_posts:
 ---
 <p>&nbsp;</p>
 
-<p><br />
-<em>Da P&aacute;gina do MST</em></p>
+<p><em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Na manh&atilde; desta sexta-feira (04) cerca de 10 viaturas da policia civil e militar invadiram a Escola Nacional Florestan Fernandes (ENFF) em Guararema, S&atilde;o Paulo.</p>
+Na manh&atilde; desta sexta-feira (04), cerca de 10 viaturas da pol&iacute;cia civil e militar invadiram a Escola Nacional Florestan Fernandes (ENFF) em Guararema, S&atilde;o Paulo.</p>
 
-<figure class="image" style="float:left"><img alt="índice1.jpeg" height="461" src="//farm6.staticflickr.com/5819/30470829260_2a873679a0_b.jpg" width="370" />
+<figure class="image" style="float:left"><img alt="índice1.jpeg" height="411" src="//farm6.staticflickr.com/5819/30470829260_2a873679a0_b.jpg" width="330" />
 <figcaption></figcaption>
 </figure>
 
 <p><br />
-De acordo os relatos, os policiais chegaram por volta das 09h25, fechou o port&atilde;o da Escola e pulou a janela da recep&ccedil;&atilde;o dando tiros para o ar. Os estilha&ccedil;os de balas recolhidos comprovam que nenhuma delas eram de borracha e sim letais.</p>
+De acordo os relatos, os policiais chegaram por volta das 09h25, pularam o port&atilde;o da Escola e a janela da recep&ccedil;&atilde;o e entraram atirando em dire&ccedil;&atilde;o &agrave;s pessoas que se encontravam na escola. Os estilha&ccedil;os de balas recolhidos comprovam que nenhuma delas s&atilde;o de borracha e sim letais.</p>
 
 <p><br />
-Neste momento a policia est&aacute; em frente &agrave; ENFF, recuaram e est&atilde;o aguardando um mandado de pris&atilde;o.</p>
+Neste momento, a pol&iacute;cia est&aacute; em frente &agrave; ENFF. Diante da a&ccedil;&atilde;o de advogados, os policiais recuaram. A invas&atilde;o na Escola ocorreu sem mandado judicial, o que &eacute; ilegal.</p>
 
 <p><br />
-O MST repudia a a&ccedil;&atilde;o da policia de S&atilde;o Paulo e exige que o governo tome as medidas cab&iacute;veis nesse processo. &quot;Somos um movimento que luta pela democratiza&ccedil;&atilde;o do acesso a terra no pa&iacute;s e n&atilde;o uma organiza&ccedil;&atilde;o criminosa&quot;.</p>
+O MST repudia a a&ccedil;&atilde;o da pol&iacute;cia de S&atilde;o Paulo e exige que o governo e as institui&ccedil;&otilde;es competentes tomem as medidas cab&iacute;veis nesse processo. Somos um movimento que luta pela democratiza&ccedil;&atilde;o do acesso a terra no pa&iacute;s e a a&ccedil;&atilde;o descabida da pol&iacute;cia fere&nbsp; direitos constitucionais e democr&aacute;ticos.</p>
+
+<p><br />
+A opera&ccedil;&atilde;o em SP decorre de a&ccedil;&otilde;es deflagradas no estado do Paran&aacute; e Mato Grosso do Sul. A Pol&iacute;cia Civil executa mandados de pris&atilde;o contra militantes do MST, reeditando a tese de que movimentos sociais s&atilde;o organiza&ccedil;&otilde;es criminosas, j&aacute; repudiado por diversas organiza&ccedil;&otilde;es de Direitos Humanos e at&eacute; mesmo por senten&ccedil;as do STJ.</p>
