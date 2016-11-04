@@ -27,7 +27,8 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="02-11-II_Econtro_Movimentos_populares.jpg" height="339" src="//farm6.staticflickr.com/5476/30646721512_ee59c903b2_b.jpg" width="700" />
-<figcaption>Segundo Encontro Mundial dos Movimentos Populares aconteceu em 2015, na Bol&iacute;via. (Foto: divulga&ccedil;&atilde;o)</figcaption>
+<figcaption>Segundo Encontro Mundial dos Movimentos Populares ocorreu em 2015, na Bol&iacute;via.<br />
+(Foto: divulga&ccedil;&atilde;o)</figcaption>
 </figure>
 </div>
 
