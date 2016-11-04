@@ -43,8 +43,8 @@ A Cloc lembrou, ainda, a perda de direito dos trabalhadores historicamente conqu
 <p><br />
 <em>Confira o documento na &iacute;ntegra abaixo:</em></p>
 
-<h2 style="text-align: center;"><br />
-<strong>Nota de Rep&uacute;dio da CLOC-Via Campesina Brasil contra a criminaliza&ccedil;&atilde;o da luta e em solidariedade ao MST</strong></h2>
+<p style="text-align: center;"><br />
+<strong>Nota de Rep&uacute;dio da CLOC-Via Campesina Brasil contra a criminaliza&ccedil;&atilde;o da luta e em solidariedade ao MST</strong></p>
 
 <p><br />
 N&oacute;s, organiza&ccedil;&otilde;es que comp&otilde;em a CLOC-Via Campesina - Brasil, vimos por meio desta expressar nosso profundo rep&uacute;dio a a&ccedil;&atilde;o desencadeada nessa manh&atilde; de sexta-feira (04/11/16) contra o MST e a Escola Nacional Florestan Fernandes (ENFF), onde as pol&iacute;cias civil e militar do estado de S&atilde;o Paulo promoveram uma a&ccedil;&atilde;o truculenta ao invadirem a ENFF.</p>
