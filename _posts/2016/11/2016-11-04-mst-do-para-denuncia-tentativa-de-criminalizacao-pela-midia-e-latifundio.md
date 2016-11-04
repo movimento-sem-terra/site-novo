@@ -5,7 +5,7 @@ tags:
   - tag: pará
   - tag: reforma-agrária
 title: "MST do Pará denuncia tentativa de criminalização pela mídia e latifúndio "
-support_line: "MST denuncia a imparcialidade e manipulação da mídia, em mais uma tentativa de criminalizar movimentos populares legítimos"
+support_line: "Os Sem Terra denunciam a imparcialidade e manipulação da mídia, em mais uma tentativa de criminalizar movimentos populares legítimos"
 menu: direitos humanos
 images_hd: //farm6.staticflickr.com/5805/30772386065_d9cdaf271c_b.jpg
 layout: post
