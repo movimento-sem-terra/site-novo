@@ -38,7 +38,7 @@ releated_posts:
 ---
 <p>&nbsp;</p>
 
-<p style="text-align:center"><img alt="índice6.jpeg" height="683" src="//farm6.staticflickr.com/5514/30140710324_47faa885fa_b.jpg" width="500" /></p>
+<p><img alt="índice6.jpeg" height="467" src="//farm6.staticflickr.com/5514/30140710324_47faa885fa_b.jpg" width="700" /></p>
 
 <p>&nbsp;</p>
 
