@@ -35,7 +35,7 @@ releated_posts:
 Os Sem Terra denunciam que as informa&ccedil;&otilde;es divulgadas pelos meios de comunica&ccedil;&atilde;o do estado s&atilde;o falsas, desinformando a popula&ccedil;&atilde;o. E que em nenhum momento a imprensa procurou o MST para checar a veracidade das informa&ccedil;&otilde;es e esclarecer o fato.</p>
 
 <p><br />
-Diante disso, o MST denuncia a imparcialidade e manipula&ccedil;&atilde;o da m&iacute;dia, em mais uma tentativa de criminalizar movimentos populares leg&iacute;timos, que lutam pela por Reforma Agr&aacute;ria e uma sociedade democr&aacute;tica.</p>
+Diante disso, o MST denuncia a imparcialidade e manipula&ccedil;&atilde;o da m&iacute;dia, em mais uma tentativa de criminalizar movimentos populares leg&iacute;timos, que lutam por Reforma Agr&aacute;ria, democracia e justi&ccedil;a social.</p>
 
 <p>&nbsp;</p>
 
