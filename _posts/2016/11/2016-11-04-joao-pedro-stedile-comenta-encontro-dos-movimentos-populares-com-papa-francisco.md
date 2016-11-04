@@ -50,7 +50,7 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p>Para ele, o encontro &eacute; importante porque deve aprofundar o debate sobre o tema da falsa democracia e o fracasso dos Estados nacionais, que se imp&otilde;e com o avan&ccedil;o do neoliberalismo, o poder das empresas e do capital financeiro. Bem como, ajudar no debate pol&iacute;tico e na constru&ccedil;&atilde;o de sa&iacute;das pelos movimentos populares para enfrentar os graves problemas enfrentados no mundo.</p>
+<p>Para ele, o encontro &eacute; importante porque vai permitir aprofundar o debate sobre o tema da falsa democracia e o fracasso dos Estados nacionais, que se imp&otilde;e com o avan&ccedil;o do neoliberalismo, o poder das empresas e do capital financeiro. Bem como, ajudar no debate pol&iacute;tico e na constru&ccedil;&atilde;o de sa&iacute;das pelos movimentos populares para enfrentar os graves problemas enfrentados no mundo.</p>
 
 <p>&nbsp;</p>
 
