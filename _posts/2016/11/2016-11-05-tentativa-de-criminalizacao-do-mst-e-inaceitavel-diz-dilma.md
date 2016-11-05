@@ -28,7 +28,7 @@ releated_posts:
 ---
 <p>Da P&aacute;gina do MST</p>
 
-<p>Em defesa do Movimento dos Trabalhadores Rurais Sem Terra (MST), a presidenta afastada Dilma Rousseff enviou nota em solidariedade &agrave; Escola Nacional Florestan Fernandes (ENFF), que foi invadida por policiais civis nesta sexta-feira (4). Na nota, Dilma disse ser inaceit&aacute;vel que se tente criminalizar o movimento.&nbsp;</p>
+<p>Em defesa do Movimento dos Trabalhadores Rurais Sem Terra (MST), a presidenta afastada Dilma Rousseff enviou nota de solidariedade &agrave; Escola Nacional Florestan Fernandes (ENFF), que foi invadida por policiais civis nesta sexta-feira (4). Na nota, Dilma disse ser inaceit&aacute;vel que se tente criminalizar o movimento.&nbsp;</p>
 
 <p>Para ela, h&aacute; um processo assustador de retrocesso no Brasil, que foi iniciado com o golpe, e mant&eacute;m em curso um &quot;Estado de Exce&ccedil;&atilde;o no Pa&iacute;s&quot;.</p>
 
