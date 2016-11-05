@@ -25,6 +25,6 @@ releated_posts: []
 
 <p>Cerca de 600 pessoas participam neste momento de ato em solidariedade &agrave; Escola Nacional Florestan Fernandes (ENFF), em Guararema, no interior paulista. A ENFF foi alvo, nesta sexta-feira (4), de opera&ccedil;&atilde;o truculenta contra o MST, com o intuito de criminalizar o movimento. A atividade conta com a participa&ccedil;&atilde;o do ex-presidente Lu&iacute;s In&aacute;cio Lula da Silva,&nbsp;parlamentares, representantes de movimentos populares, sindicatos e militantes de pelo menos 36 nacionalidades.</p>
 
-<p>Acompanhe ao vivo pela p&aacute;gina do MST no <a href="https://web.facebook.com/MovimentoSemTerra/videos/1297272610345450/">Facebook</a>.</p>
+<p>Acompanhe ao vivo pela p&aacute;gina do MST no <a href="https://web.facebook.com/MovimentoSemTerra/videos/1297354910337220/">Facebook</a>.</p>
 
 <p>&nbsp;</p>
