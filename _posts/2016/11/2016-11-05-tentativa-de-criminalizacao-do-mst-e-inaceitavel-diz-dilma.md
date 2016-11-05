@@ -7,7 +7,7 @@ tags:
 hat: Apoio
 title: "Tentativa de criminalização do MST é inaceitável, diz Dilma\n\n"
 support_line: "Presidenta, afastada por um golpe, enviou nota de solidariedade à Escola do movimento, que foi invadida por policiais civis nesta sexta-feira (4)\n\n"
-section: featured-news
+section: cover
 menu: lutas e mobilizações
 images_hd: //farm6.staticflickr.com/5718/30710489621_71f8b7241a_b.jpg
 layout: post
