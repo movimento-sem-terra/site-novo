@@ -40,6 +40,36 @@ files:
     small: //farm6.staticflickr.com/5350/30743134296_7ed49d591a_n.jpg
     title: a.jpg
     $$hashKey: 0S0
+  - link: "https://docs.google.com/uc?id=0Bwus_4SL8MWDd0tsbzF5Q1VOdGc&export=download"
+    thumbnail: "http://farm4.staticflickr.com/3852/15187675380_7b00f5fdff_b.jpg"
+    title: El Movimiento de Liberación Nacional.pdf
+    basename: El Movimiento de Liberación Nacional
+    embed: "https://docs.google.com/uc?id=0Bwus_4SL8MWDd0tsbzF5Q1VOdGc"
+    $$hashKey: 05I
+  - link: "https://docs.google.com/uc?id=0Bwus_4SL8MWDYlpyZlFmek1sMDQ&export=download"
+    thumbnail: "http://farm4.staticflickr.com/3852/15187675380_7b00f5fdff_b.jpg"
+    title: Pronunciamiento CEAAL Allanamiento ENFF MST.pdf
+    basename: Pronunciamiento CEAAL Allanamiento ENFF MST
+    embed: "https://docs.google.com/uc?id=0Bwus_4SL8MWDYlpyZlFmek1sMDQ"
+    $$hashKey: 05K
+  - link: "https://docs.google.com/uc?id=0Bwus_4SL8MWDcHRqdHg2WG9yX3M&export=download"
+    thumbnail: "http://farm4.staticflickr.com/3852/15187675380_7b00f5fdff_b.jpg"
+    title: Turma Cordon Cerrillos.pdf
+    basename: Turma Cordon Cerrillos
+    embed: "https://docs.google.com/uc?id=0Bwus_4SL8MWDcHRqdHg2WG9yX3M"
+    $$hashKey: 05M
+  - link: "https://docs.google.com/uc?id=0Bwus_4SL8MWDZ0hCVEd4S2F1Wm8&export=download"
+    thumbnail: "http://farm4.staticflickr.com/3852/15187675380_7b00f5fdff_b.jpg"
+    title: El Partido Workers World.pdf
+    basename: El Partido Workers World
+    embed: "https://docs.google.com/uc?id=0Bwus_4SL8MWDZ0hCVEd4S2F1Wm8"
+    $$hashKey: 05O
+  - link: "https://docs.google.com/uc?id=0Bwus_4SL8MWDNnlqeGc3YTdlZHc&export=download"
+    thumbnail: "http://farm4.staticflickr.com/3852/15187675380_7b00f5fdff_b.jpg"
+    title: Frente Francisco de Miranda.pdf
+    basename: Frente Francisco de Miranda
+    embed: "https://docs.google.com/uc?id=0Bwus_4SL8MWDNnlqeGc3YTdlZHc"
+    $$hashKey: 05Q
 created_date: "2016-11-04T18:45:28-02:00"
 published: true
 releated_posts:
@@ -123,6 +153,22 @@ Confira <strong><a href="https://docs.google.com/uc?id=0Bwus_4SL8MWDTm5fWC1VSVQt
 <p><a href="https://clocvcparaguay.wordpress.com/2016/11/04/solidaridad-desde-conamuri-hacia-el-mst-y-repudio-a-la-actuacion-del-gobierno-terrorista-de-temer/">CLOC-V&iacute;a Campesina Paraguay</a></p>
 
 <p><a href="https://ialaguarani.wordpress.com/2016/11/04/luchar-es-un-derecho-el-iala-guarani-expresa-su-solidaridad-al-mst-y-la-enff/">Instituto Agroecol&oacute;gico Latinoamericano - IALA Guaran&iacute;</a></p>
+
+<p><a href="https://docs.google.com/uc?id=0Bwus_4SL8MWDd0tsbzF5Q1VOdGc&amp;export=download">El Movimiento de Liberaci&oacute;n Nacional</a></p>
+
+<p><a href="http://www.albamovimientos.org/2016/11/paraguay-el-movimiento-15-de-junio-manifiesta-su-energico-rechazo-a-los-violentos-atropellos-a-la-escuela-nacional-florestan-fernandes-del-movimiento-de-trabajadores-rurales-sin-tierra-de-brasil/">ALBA Movimientos - Paraguay</a></p>
+
+<p><a href="http://crbz.org/?p=43516">Coordinaci&oacute;n Nacional de la Corriente Revolucionaria Bol&iacute;var y Zamora &ndash; Frente Patri&oacute;tico Hugo Ch&aacute;vez</a></p>
+
+<p><a href="http://congresodelospueblos.org/regiones/cp-nuestra-america/item/976-congreso-de-los-pueblos-rechaza-ataques-al-movimiento-sin-tierra-en-brasil.html">Congreso de los Pueblos de Colombia</a></p>
+
+<p><a href="https://docs.google.com/uc?id=0Bwus_4SL8MWDYlpyZlFmek1sMDQ&amp;export=download">Pronunciamiento CEAAL Allanamiento ENFF MST</a></p>
+
+<p><a href="https://docs.google.com/uc?id=0Bwus_4SL8MWDcHRqdHg2WG9yX3M&amp;export=download">Turma Cordon Cerrillos</a></p>
+
+<p><a href="https://docs.google.com/uc?id=0Bwus_4SL8MWDZ0hCVEd4S2F1Wm8&amp;export=download">El Partido Workers World</a></p>
+
+<p><a href="https://docs.google.com/uc?id=0Bwus_4SL8MWDNnlqeGc3YTdlZHc&amp;export=download">Frente Francisco de Miranda</a></p>
 
 <p><br />
 <em>*&nbsp;Esta lista est&aacute; sendo atualizada permanentemente</em></p>
