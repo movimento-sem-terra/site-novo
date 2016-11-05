@@ -17,6 +17,7 @@ files:
 created_date: "2016-11-05T21:04:27-02:00"
 published: true
 releated_posts: []
+section: featured-news
 
 ---
 <p>Da P&aacute;gina do MST</p>
