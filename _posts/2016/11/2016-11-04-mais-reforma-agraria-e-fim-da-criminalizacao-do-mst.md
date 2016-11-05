@@ -7,7 +7,7 @@ tags:
 title: "Em nota, MST pede por mais Reforma Agrária e pelo fim da criminalização do Movimento"
 images_hd: //farm6.staticflickr.com/5570/30685670851_989cf0902d_b.jpg
 menu: direitos humanos
-section: cover
+section: featured-news
 support_line: "O MST denuncia a “escalada da repressão contra a luta pela terra, onde predominam os interesses do agronegócio associado a violência do Estado de Exceção” após ação da Polícia Civil do PR nesta sexta."
 layout: post
 files:
