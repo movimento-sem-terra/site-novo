@@ -124,4 +124,5 @@ Confira <strong><a href="https://docs.google.com/uc?id=0Bwus_4SL8MWDTm5fWC1VSVQt
 
 <p><a href="https://ialaguarani.wordpress.com/2016/11/04/luchar-es-un-derecho-el-iala-guarani-expresa-su-solidaridad-al-mst-y-la-enff/">Instituto Agroecol&oacute;gico Latinoamericano - IALA Guaran&iacute;</a></p>
 
-<p>&nbsp;</p>
+<p><br />
+<em>*&nbsp;Esta lista est&aacute; sendo atualizada permanentemente</em></p>
