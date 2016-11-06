@@ -70,6 +70,48 @@ files:
     basename: Frente Francisco de Miranda
     embed: "https://docs.google.com/uc?id=0Bwus_4SL8MWDNnlqeGc3YTdlZHc"
     $$hashKey: 05Q
+  - link: "https://docs.google.com/uc?id=0Bwus_4SL8MWDZGdZNzVDMlJ6bU0&export=download"
+    thumbnail: "http://farm4.staticflickr.com/3852/15187675380_7b00f5fdff_b.jpg"
+    title: Confederación Nacional de Asociaciones Gremiales y Organizaciones de Pequeños Productores Campesinos de Chile.pdf
+    basename: Confederación Nacional de Asociaciones Gremiales y Organizaciones de Pequeños Productores Campesinos de Chile
+    embed: "https://docs.google.com/uc?id=0Bwus_4SL8MWDZGdZNzVDMlJ6bU0"
+    $$hashKey: 05N
+  - link: "https://docs.google.com/uc?id=0Bwus_4SL8MWDR0NhSVZYd1NCQVU&export=download"
+    thumbnail: "http://farm4.staticflickr.com/3852/15187675380_7b00f5fdff_b.jpg"
+    title: MAIZ-Costa Rica.pdf
+    basename: MAIZ-Costa Rica
+    embed: "https://docs.google.com/uc?id=0Bwus_4SL8MWDR0NhSVZYd1NCQVU"
+    $$hashKey: 05P
+  - link: "https://docs.google.com/uc?id=0Bwus_4SL8MWDRjVYY1licU5sUjg&export=download"
+    thumbnail: "http://farm4.staticflickr.com/3852/15187675380_7b00f5fdff_b.jpg"
+    title: Rede Internacional de Teatro e Sociedade.pdf
+    basename: Rede Internacional de Teatro e Sociedade
+    embed: "https://docs.google.com/uc?id=0Bwus_4SL8MWDRjVYY1licU5sUjg"
+    $$hashKey: 05R
+  - link: "https://docs.google.com/uc?id=0Bwus_4SL8MWDWWQ2S096MlNsX2c&export=download"
+    thumbnail: "http://farm4.staticflickr.com/3852/15187675380_7b00f5fdff_b.jpg"
+    title: "Confederação dos Sindicatos dos Pequenos Agricultores (ÇİFTÇİ-SEN), TURQUIA.pdf"
+    basename: "Confederação dos Sindicatos dos Pequenos Agricultores (ÇİFTÇİ-SEN), TURQUIA"
+    embed: "https://docs.google.com/uc?id=0Bwus_4SL8MWDWWQ2S096MlNsX2c"
+    $$hashKey: 05T
+  - link: "https://docs.google.com/uc?id=0Bwus_4SL8MWDRnZWZ0R4NkEyUlE&export=download"
+    thumbnail: "http://farm4.staticflickr.com/3852/15187675380_7b00f5fdff_b.jpg"
+    title: ALBA Social Movements Canada.pdf
+    basename: ALBA Social Movements Canada
+    embed: "https://docs.google.com/uc?id=0Bwus_4SL8MWDRnZWZ0R4NkEyUlE"
+    $$hashKey: 05V
+  - link: "https://docs.google.com/uc?id=0Bwus_4SL8MWDdGkxUnkwaXNPekU&export=download"
+    thumbnail: "http://farm4.staticflickr.com/3852/15187675380_7b00f5fdff_b.jpg"
+    title: Consejo Latinoamericano de Ciencias Sociales.pdf
+    basename: Consejo Latinoamericano de Ciencias Sociales
+    embed: "https://docs.google.com/uc?id=0Bwus_4SL8MWDdGkxUnkwaXNPekU"
+    $$hashKey: 05X
+  - link: "https://docs.google.com/uc?id=0Bwus_4SL8MWDYjJZOU9SeVlMWjA&export=download"
+    thumbnail: "http://farm4.staticflickr.com/3852/15187675380_7b00f5fdff_b.jpg"
+    title: Amigos do MST na França.pdf
+    basename: Amigos do MST na França
+    embed: "https://docs.google.com/uc?id=0Bwus_4SL8MWDYjJZOU9SeVlMWjA"
+    $$hashKey: 05Z
 created_date: "2016-11-04T18:45:28-02:00"
 published: true
 releated_posts:
@@ -169,6 +211,30 @@ Confira <strong><a href="https://docs.google.com/uc?id=0Bwus_4SL8MWDTm5fWC1VSVQt
 <p><a href="https://docs.google.com/uc?id=0Bwus_4SL8MWDZ0hCVEd4S2F1Wm8&amp;export=download">El Partido Workers World</a></p>
 
 <p><a href="https://docs.google.com/uc?id=0Bwus_4SL8MWDNnlqeGc3YTdlZHc&amp;export=download">Frente Francisco de Miranda</a></p>
+
+<p><a href="https://m.facebook.com/461055923996059/photos/a.462340360534282.1073741828.461055923996059/950871801681133/?type=3">Pa&ntilde;uelos en Rebeldia</a></p>
+
+<p><a href="https://docs.google.com/uc?id=0Bwus_4SL8MWDZGdZNzVDMlJ6bU0&amp;export=download">Confederaci&oacute;n Nacional de Asociaciones Gremiales y Organizaciones de Peque&ntilde;os Productores Campesinos de Chile</a></p>
+
+<p><a href="https://docs.google.com/uc?id=0Bwus_4SL8MWDR0NhSVZYd1NCQVU&amp;export=download">MAIZ - Costa Rica</a></p>
+
+<p><a href="http://www.cloc-viacampesina.net/noticias/panama-solidaridad-de-la-ucp-con-el-mst-brasil-nuestra-lucha-no-se-criminaliza">CLOC - Via Campesina Panam&aacute;</a></p>
+
+<p><a href="http://www.cloc-viacampesina.net/noticias/cloc-campesina-peru-rechazamos-brutal-agresion-al-mst">CLOC - Via Campesina Per&uacute;</a></p>
+
+<p><a href="http://www.cloc-viacampesina.net/noticias/chile-solidaridad-de-la-cloc-vc-chile-con-trabajadores-sin-tierra-mst-brasil">CLOC - Via Campesina Chile</a></p>
+
+<p><a href="http://www.cloc-viacampesina.net/noticias/argentina-el-mnci-se-solidariza-con-el-mst-brasil-y-repudia-el-accionar-de-la-policia">CLOC - Via Campesina Argentina</a></p>
+
+<p><a href="https://docs.google.com/uc?id=0Bwus_4SL8MWDRjVYY1licU5sUjg&amp;export=download">Rede Internacional de Teatro e Sociedade</a></p>
+
+<p><a href="https://docs.google.com/uc?id=0Bwus_4SL8MWDWWQ2S096MlNsX2c&amp;export=download">Confedera&ccedil;&atilde;o dos Sindicatos dos Pequenos Agricultores (&Ccedil;İFT&Ccedil;İ-SEN) - TURQUIA</a></p>
+
+<p><a href="https://docs.google.com/uc?id=0Bwus_4SL8MWDRnZWZ0R4NkEyUlE&amp;export=download">ALBA Social Movements Canada</a></p>
+
+<p><a href="https://docs.google.com/uc?id=0Bwus_4SL8MWDdGkxUnkwaXNPekU&amp;export=download">Consejo Latinoamericano de Ciencias Sociales</a></p>
+
+<p><a href="https://docs.google.com/uc?id=0Bwus_4SL8MWDYjJZOU9SeVlMWjA&amp;export=download">Amigos do MST na Fran&ccedil;a</a></p>
 
 <p><br />
 <em>*&nbsp;Esta lista est&aacute; sendo atualizada permanentemente</em></p>
