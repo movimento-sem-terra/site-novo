@@ -34,11 +34,19 @@ releated_posts:
 
 <p>O Conselho Nacional dos Direitos Humanos (CNDH) encaminhou, na &uacute;ltima sexta-feira (4/11), expediente &agrave;s Secretarias de Seguran&ccedil;a P&uacute;blica dos Estados de Paran&aacute;, S&atilde;o Paulo e Mato Grosso do Sul solicitando informa&ccedil;&otilde;es sobre a realiza&ccedil;&atilde;o da denominada &quot;Opera&ccedil;&atilde;o Castra&quot;, que articulou a&ccedil;&atilde;o policial nos tr&ecirc;s Estados e, conforme noticiado, objetivou a pris&atilde;o de lideran&ccedil;as dos Acampamentos Dom Tom&aacute;s Baldu&iacute;no e Herdeiros da Luta pela Terra, no Paran&aacute;.&nbsp;</p>
 
+<p>&nbsp;</p>
+
 <p>O documento tamb&eacute;m questiona o ingresso de agentes policiais na Escola Nacional Florestan Fernandes, do MST, em Guararema-SP, que conforme as informa&ccedil;&otilde;es recebidas pelo Conselho, teriam agido com emprego de viol&ecirc;ncia, na aus&ecirc;ncia de mandado espec&iacute;fico e com uso de armas de fogo.&nbsp;</p>
+
+<p>&nbsp;</p>
 
 <p>&quot;O CNDH tem atuado de forma reiterada no combate &agrave; criminaliza&ccedil;&atilde;o dos movimentos sociais, em conson&acirc;ncia com a liberdade de manifesta&ccedil;&atilde;o, organiza&ccedil;&atilde;o e de associa&ccedil;&atilde;o, prevista na Constitui&ccedil;&atilde;o Federal&quot;, afirma a presidente do Conselho, Ivana Farina, que lembra a atribui&ccedil;&atilde;o do CNDH, prevista por Lei, de agir para promover e defender os direitos humanos com base na Constitui&ccedil;&atilde;o Federal e nos tratados e atos internacionais celebrados pelo Brasil.&nbsp;</p>
 
+<p>&nbsp;</p>
+
 <p>O CNDH tamb&eacute;m encaminhou, na sexta-feira, documento &agrave;s Procuradorias Gerais de Justi&ccedil;a dos tr&ecirc;s Estados, solicitando informa&ccedil;&otilde;es sobre as a&ccedil;&otilde;es desenvolvidas pelo Minist&eacute;rio P&uacute;blico para apura&ccedil;&atilde;o de eventuais abusos e ilegalidades no &acirc;mbito da opera&ccedil;&atilde;o.&nbsp;</p>
+
+<p>&nbsp;</p>
 
 <p>&quot;&Eacute; compet&ecirc;ncia do CNDH receber representa&ccedil;&otilde;es ou den&uacute;ncias de condutas ou situa&ccedil;&otilde;es contr&aacute;rias aos direitos humanos, apurar as respectivas responsabilidades e realizar procedimentos apurat&oacute;rios de condutas e situa&ccedil;&otilde;es contr&aacute;rias aos direitos humanos&quot;, conclui a presidente do CNDH.</p>
 
