@@ -4,7 +4,7 @@ tags:
   - tag: direitos-humanos
   - tag: criminalização
   - tag: violência-no-campo
-title: Histórico de violência da Araupel contra Sem Terra busca manter domínio sobre terras públicas
+title: Histórico de violência da Araupel contra Sem Terra busca manter domínio sobre áreas públicas
 support_line: Aliança entre Araupel e forças policiais resultaram em assassinatos e prisões arbitrárias
 section: cover
 menu: direitos humanos
@@ -76,10 +76,10 @@ releated_posts:
 Mais uma vez explode o conflito em torno da Reforma Agr&aacute;ria no estado do Paran&aacute;. Mesmo com a afirma&ccedil;&atilde;o do Superior Tribunal de Justi&ccedil;a em outubro desse ano, de que &ldquo;o MST &eacute; um movimento social popular leg&iacute;timo&rdquo;, mais uma a&ccedil;&atilde;o foi realizada para prender e criminalizar lideran&ccedil;as dos Acampamentos Dom Tom&aacute;s Baldu&iacute;no e Herdeiros da Luta pela Terra, e militantes assentados da regi&atilde;o central do Paran&aacute;.&nbsp;</p>
 
 <p><br />
-A a&ccedil;&atilde;o truculenta e violenta realizada pela Policia Civil do Paran&aacute;, na manh&atilde; da &uacute;ltima sexta-feira (04/11), foi batizada de &ldquo;Castra&rdquo;, prendeu oito Sem Terra e h&aacute; outros mandados de pris&atilde;o para outros trabalhadores, sob diversas acusa&ccedil;&otilde;es, inclusive organiza&ccedil;&atilde;o criminosa.</p>
+A a&ccedil;&atilde;o truculenta e violenta realizada pela Policia Civil do Paran&aacute;, na manh&atilde; da &uacute;ltima sexta-feira (4), foi batizada de &ldquo;Castra&rdquo;, prendeu oito Sem Terra e h&aacute; outros mandados de pris&atilde;o para outros trabalhadores, sob diversas acusa&ccedil;&otilde;es, inclusive organiza&ccedil;&atilde;o criminosa.</p>
 
 <p><br />
-Nos acampamentos do Movimento na regi&atilde;o central do Paran&aacute;, local onde morava grande parte dos trabalhadores presos, desde maio de 2014 aproximadamente 3 mil fam&iacute;lias acampadas, ocupam &aacute;reas griladas pela empresa Araupel. Essas &aacute;reas foram declaradas pela Justi&ccedil;a Federal terras p&uacute;blicas, pertencentes &agrave; Uni&atilde;o que devem ser destinadas para a Reforma Agr&aacute;ria.&nbsp;</p>
+Nos acampamentos do Movimento na regi&atilde;o central do Paran&aacute;, local onde morava grande parte dos trabalhadores presos, desde maio de 2014 cerca de 3 mil fam&iacute;lias acampadas&nbsp;ocupam as &aacute;reas griladas pela empresa Araupel. Essas &aacute;reas foram declaradas pela Justi&ccedil;a Federal terras p&uacute;blicas, pertencentes &agrave; Uni&atilde;o que devem ser destinadas para a Reforma Agr&aacute;ria.&nbsp;</p>
 
 <p><br />
 Em S&atilde;o Paulo, 10 viaturas da pol&iacute;cia civil invadiu a Escola Nacional Florestan Fernandes (ENFF), em Guararema, S&atilde;o Paulo. Dois militantes foram detidos nessa a&ccedil;&atilde;o.</p>
@@ -88,13 +88,10 @@ Em S&atilde;o Paulo, 10 viaturas da pol&iacute;cia civil invadiu a Escola Nacion
 <a href="http://www.mst.org.br/2016/11/04/mais-reforma-agraria-e-fim-da-criminalizacao-do-mst.html">Em nota, MST pede por mais Reforma Agr&aacute;ria e pelo fim da criminaliza&ccedil;&atilde;o do Movimento</a></p>
 
 <p><br />
-De acordo os relatos, os policiais chegaram por volta das 09h25, pularam o port&atilde;o da Escola e a janela da recep&ccedil;&atilde;o e entraram atirando em dire&ccedil;&atilde;o &agrave;s pessoas que se encontravam na escola. Os estilha&ccedil;os de balas recolhidos comprovam que nenhuma delas s&atilde;o de borracha e sim letais.</p>
+De acordo com os relatos, os policiais chegaram por volta das 9h25, pularam o port&atilde;o da Escola e a janela da recep&ccedil;&atilde;o e entraram atirando em dire&ccedil;&atilde;o &agrave;s pessoas que se encontravam na escola. Os estilha&ccedil;os de balas recolhidos comprovam que nenhuma delas s&atilde;o de borracha e sim letais.</p>
 
 <p><br />
-J&aacute; no Mato Grosso do Sul, 3 viaturas policiais, com placas do Paran&aacute;, entraram no Centro de Pesquisa e Capacita&ccedil;&atilde;o Geraldo Garcia (CEPEGE), em Sidrol&acirc;ndia. A a&ccedil;&atilde;o policial procurava por militantes do MST do Paran&aacute; que, supostamente, estariam naquele centro. Os policiais permaneceram no local at&eacute;, aproximadamente, 9h da manh&atilde; quando foram embora sem ningu&eacute;m preso. Durante a a&ccedil;&atilde;o foi impedida a utiliza&ccedil;&atilde;o de celulares.</p>
-
-<p><br />
-A milit&acirc;ncia que estava no CEPEGE realizava trabalhos de limpeza e manuten&ccedil;&atilde;o do espa&ccedil;o.</p>
+J&aacute; no Mato Grosso do Sul, 3 viaturas policiais, com placas do Paran&aacute;, entraram no Centro de Pesquisa e Capacita&ccedil;&atilde;o Geraldo Garcia (CEPEGE), em Sidrol&acirc;ndia. A a&ccedil;&atilde;o policial procurava por militantes do MST do Paran&aacute; que, supostamente, estariam naquele centro. Os policiais permaneceram no local at&eacute; umas&nbsp;9h da manh&atilde; quando foram embora sem ningu&eacute;m preso. Durante a a&ccedil;&atilde;o foi impedida a utiliza&ccedil;&atilde;o de celulares. A milit&acirc;ncia que estava no CEPEGE realizava trabalhos de limpeza e manuten&ccedil;&atilde;o do espa&ccedil;o.</p>
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="22620056204_950692b28d_b.jpg" height="394" src="//farm6.staticflickr.com/5538/30802662586_9b12086e7f_b.jpg" width="700" />
@@ -106,16 +103,16 @@ A milit&acirc;ncia que estava no CEPEGE realizava trabalhos de limpeza e manuten
 <strong>Quem &eacute; a Araupel?&nbsp;</strong></p>
 
 <p><br />
-De acordo, a <a href="http://www.incra.gov.br/noticias/nota-oficial-morte-de-trabalhadores-rurais-em-quedas-do-iguacu-pr">superintend&ecirc;ncia regional do INCRA</a> no Paran&aacute;, h&aacute; anos que a Araupel S/A, antiga Giacomet Marodin S/A, explora irregularmente &aacute;rea da Uni&atilde;o e degrada &aacute;rea p&uacute;blica, substituindo mata nativa por monocultura de pinus e arauc&aacute;ria no estado.&nbsp;</p>
+De acordo com&nbsp;a <a href="http://www.incra.gov.br/noticias/nota-oficial-morte-de-trabalhadores-rurais-em-quedas-do-iguacu-pr">superintend&ecirc;ncia regional do INCRA</a> no Paran&aacute;, h&aacute; anos que a Araupel S/A, antiga Giacomet Marodin S/A, explora irregularmente &aacute;reas da Uni&atilde;o e degrada terras p&uacute;blicas, substituindo mata nativa por monocultura de pinus e arauc&aacute;ria.</p>
 
 <p><br />
-Fundada por grupos madeireiros com atua&ccedil;&atilde;o desde a d&eacute;cada de 1910 no Paran&aacute;, em 1972, as duas empresas Madeireira Giacomet S.A. e Marodin S.A. Exporta&ccedil;&atilde;o, se uniram e constitu&iacute;ram a Giacomet-Marodin Ind&uacute;stria de Madeiras S.A e seguiram com seu hist&oacute;rico de conflito e degrada&ccedil;&atilde;o ambiental na regi&atilde;o. Somente em 1997, a empresa altera sua raz&atilde;o social para Araupel S.A.</p>
+Fundada por grupos madeireiros com atua&ccedil;&atilde;o desde a d&eacute;cada de 1910 no Paran&aacute;, em 1972&nbsp;as duas empresas Madeireira Giacomet S.A. e Marodin S.A. Exporta&ccedil;&atilde;o&nbsp;se uniram e constitu&iacute;ram a Giacomet-Marodin Ind&uacute;stria de Madeiras S.A, e seguiram com seu hist&oacute;rico de conflito e degrada&ccedil;&atilde;o ambiental na regi&atilde;o. Somente em 1997, a empresa altera sua raz&atilde;o social para Araupel S.A.</p>
 
 <p><br />
-A empresa tem em seu hist&oacute;rico, o uso constante da viol&ecirc;ncia contra trabalhadores rurais e posseiros, atuando diversas vezes em conluio com o aparato policial civil, militar e poder pol&iacute;tico, por meio do financiamento de campanhas pol&iacute;ticas de autoridades p&uacute;blicas, tais como o chefe da Casa Civil do Governo Beto Richa, Valdir Rossoni, como estrat&eacute;gias de manter dom&iacute;nio sobre as terras p&uacute;blicas locais.</p>
+A Araupel tem um hist&oacute;rico de uso constante da viol&ecirc;ncia contra trabalhadores rurais e posseiros, atuando diversas vezes em conluio com o aparato policial civil, militar e poder pol&iacute;tico, por meio do financiamento de campanhas pol&iacute;ticas de autoridades p&uacute;blicas, tais como o chefe da Casa Civil do Governo Beto Richa, Valdir Rossoni. Essas s&atilde;o apenas algumas das&nbsp;estrat&eacute;gias utilizadas pela empresa para manter seu dom&iacute;nio sobre as terras p&uacute;blicas locais.</p>
 
 <p><br />
-Entre 1997 e 1998, o INCRA desapropriou uma &aacute;rea de cerca de 25 mil hectares do T&iacute;tulo Pinhal Ralo, em posse da Araupel, por ser considerada improdutiva. Mais de 1500 fam&iacute;lias foram assentadas ali. Atualmente, as cerca de 7 mil pessoas que vivem hoje nos assentamentos s&atilde;o a base da economia do munic&iacute;pio de Rio Bonito do Igua&ccedil;u. Vale ressaltar que na &eacute;poca, a empresa recebeu indeniza&ccedil;&atilde;o pelas benfeitorias.</p>
+Entre 1997 e 1998, o Incra desapropriou uma &aacute;rea de cerca de 25 mil hectares do T&iacute;tulo Pinhal Ralo, em posse da Araupel, por ser considerada improdutiva. Mais de 1500 fam&iacute;lias foram assentadas ali. Atualmente, as cerca de 7 mil pessoas que vivem hoje nos assentamentos s&atilde;o a base da economia do munic&iacute;pio de Rio Bonito do Igua&ccedil;u. Vale ressaltar que na &eacute;poca, a empresa recebeu indeniza&ccedil;&atilde;o pelas benfeitorias.</p>
 
 <figure class="image" style="float:left"><img alt="PR - Sebastião Salgado.jpg" height="248" src="//farm6.staticflickr.com/5610/30537344740_61c2a3994b_b.jpg" width="400" />
 <figcaption><em>Ocupa&ccedil;&atilde;o de &aacute;rea grilada pela Araupel na d&eacute;cada e 90.<br />
@@ -125,10 +122,9 @@ Foto: Sebati&atilde;o Salgado</em></figcaption>
 <p>Em 2003, o Incra buscou a compra de 23 mil hectares do T&iacute;tulo Rio das Cobras, na qual a Justi&ccedil;a Federal determinou a imiss&atilde;o provis&oacute;ria do Incra na posse do im&oacute;vel onde, posteriormente, foi criado o Projeto de Assentamento Celso Furtado, com 1.107 fam&iacute;lias, em Quedas do Igua&ccedil;u.&nbsp;</p>
 
 <p><br />
-A import&acirc;ncia social e econ&ocirc;mica do assentamento Celso Furtado se demonstra em sua produ&ccedil;&atilde;o e renda, que impulsionaram o desenvolvimento do munic&iacute;pio de Quedas do Igua&ccedil;u. Mais uma vez, se reafirma o papel das &aacute;reas de Reforma Agr&aacute;ria para o desenvolvimento local. Uma vez que, a produ&ccedil;&atilde;o dos trabalhadores rurais impulsionou o desenvolvimento do munic&iacute;pio. Na &eacute;poca, a Justi&ccedil;a condenou a empresa Araupel a devolver as indeniza&ccedil;&otilde;es recebidas pelas benfeitorias, j&aacute; que a madeireira usava indevidamente &aacute;rea p&uacute;blica.&nbsp;</p>
+A import&acirc;ncia social e econ&ocirc;mica do assentamento Celso Furtado se demonstra em sua produ&ccedil;&atilde;o e renda, que impulsionaram o desenvolvimento do munic&iacute;pio de Quedas do Igua&ccedil;u. Mais uma vez, se reafirma o papel das &aacute;reas de Reforma Agr&aacute;ria para o desenvolvimento local, j&aacute; que&nbsp;a produ&ccedil;&atilde;o dos trabalhadores rurais impulsionou o desenvolvimento do munic&iacute;pio. Na &eacute;poca, a Justi&ccedil;a condenou a empresa Araupel a devolver as indeniza&ccedil;&otilde;es recebidas pelas benfeitorias, j&aacute; que a madeireira usava indevidamente &aacute;rea p&uacute;blica.&nbsp;</p>
 
-<p><br />
-<a href="http://www.mst.org.br/2015/05/27/justica-decide-que-araupel-nao-e-dona-da-fazenda-rio-das-cobras.html">Em maio de 2015, a Justi&ccedil;a Federal proferiu a senten&ccedil;a em favor da Uni&atilde;o, reconheceu a nulidade do t&iacute;tulo Rio das Cobras e condenou a empresa Araupel a devolver as indeniza&ccedil;&otilde;es recebidas pelo uso indevido de &aacute;rea p&uacute;blica (benfeitorias).</a></p>
+<p>&nbsp;</p>
 
 <p><br />
 Ap&oacute;s isso, o Incra, Uni&atilde;o e Procuradoria Federal do Paran&aacute; prop&ocirc;s uma A&ccedil;&atilde;o Civil P&uacute;blica para questionar o restante da dominialidade da &aacute;rea remanescente do im&oacute;vel Rio das Cobras/PR, com 12 mil hectares, al&eacute;m de posse imediata da &aacute;rea para solucionar o conflito agr&aacute;rio. Tanto Incra como Araupel entraram com recurso da decis&atilde;o, que aguarda julgamento.</p>
