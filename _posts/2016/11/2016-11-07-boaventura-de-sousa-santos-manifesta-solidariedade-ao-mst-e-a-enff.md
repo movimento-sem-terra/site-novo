@@ -6,7 +6,7 @@ tags:
   - tag: violação-de-direitos
   - tag: criminalização
 title: Boaventura de Sousa Santos manifesta solidariedade ao MST e à ENFF
-support_line: "O intelectual reafirma seu apoio aos direitos do MST e dos demais movimentos, em se manifestarem e organizarem de forma livre, democrática e autônoma"
+support_line: "O intelectual reafirma seu apoio aos direitos do MST e dos demais movimentos, de se manifestarem e organizarem de forma livre, democrática e autônoma"
 menu: direitos humanos
 images_hd: //farm6.staticflickr.com/5808/30206713633_64424639f0_b.jpg
 layout: post
@@ -47,8 +47,6 @@ Boaventura afirma que a ENFF &eacute; uma das conquistas mais simb&oacute;licas 
 
 <p><br />
 Diante do panorama de sucessivos ataques &agrave;s bases do Estado democr&aacute;tico de direito, o intelectual aponta que as denuncias de ataque contra os direitos s&atilde;o fundamentais e reafirma seu apoio aos direitos do MST e dos demais movimentos sociais que se manifestarem e de se organizarem de forma livre, democr&aacute;tica e aut&ocirc;noma, &ldquo;pois entendemos que &lsquo;Lutar n&atilde;o &eacute; crime!&rdquo;, denuncia a nota.</p>
-
-<p>&nbsp;</p>
 
 <p>&nbsp;</p>
 
