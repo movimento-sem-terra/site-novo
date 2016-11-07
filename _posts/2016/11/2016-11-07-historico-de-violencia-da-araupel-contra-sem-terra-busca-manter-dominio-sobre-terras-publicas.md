@@ -76,7 +76,7 @@ releated_posts:
 Mais uma vez explode o conflito em torno da Reforma Agr&aacute;ria no estado do Paran&aacute;. Mesmo com a afirma&ccedil;&atilde;o do Superior Tribunal de Justi&ccedil;a em outubro desse ano, de que &ldquo;o MST &eacute; um movimento social popular leg&iacute;timo&rdquo;, mais uma a&ccedil;&atilde;o foi realizada para prender e criminalizar lideran&ccedil;as dos Acampamentos Dom Tom&aacute;s Baldu&iacute;no e Herdeiros da Luta pela Terra, e militantes assentados da regi&atilde;o central do Paran&aacute;.&nbsp;</p>
 
 <p><br />
-A a&ccedil;&atilde;o truculenta e violenta realizada pela Policia Civil do Paran&aacute;, na manh&atilde; da &uacute;ltima sexta-feira (04/11), foi batizada de &ldquo;Castra&rdquo;, prendeu oito Sem Terra e h&aacute; outros mandatos de pris&atilde;o para outros trabalhadores, sob diversas acusa&ccedil;&otilde;es, inclusive organiza&ccedil;&atilde;o criminosa.</p>
+A a&ccedil;&atilde;o truculenta e violenta realizada pela Policia Civil do Paran&aacute;, na manh&atilde; da &uacute;ltima sexta-feira (04/11), foi batizada de &ldquo;Castra&rdquo;, prendeu oito Sem Terra e h&aacute; outros mandados de pris&atilde;o para outros trabalhadores, sob diversas acusa&ccedil;&otilde;es, inclusive organiza&ccedil;&atilde;o criminosa.</p>
 
 <p><br />
 Nos acampamentos do Movimento na regi&atilde;o central do Paran&aacute;, local onde morava grande parte dos trabalhadores presos, desde maio de 2014 aproximadamente 3 mil fam&iacute;lias acampadas, ocupam &aacute;reas griladas pela empresa Araupel. Essas &aacute;reas foram declaradas pela Justi&ccedil;a Federal terras p&uacute;blicas, pertencentes &agrave; Uni&atilde;o que devem ser destinadas para a Reforma Agr&aacute;ria.&nbsp;</p>
