@@ -40,10 +40,10 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p>O professor portugu&ecirc;s da Universidade de Coimbra, Boaventura de Sousa Santos, enviou no &uacute;ltimo s&aacute;bado (05), nota de solidariedade ao MST e &agrave; Escola Nacional Florestan Fernandes (ENFF), em que repudia a violenta invas&atilde;o da pol&iacute;cia civil de S&atilde;o Paulo na Escola, que ocorreu na &uacute;ltima sexta-feira (04).&nbsp;</p>
+<p>O professor portugu&ecirc;s da Universidade de Coimbra, Boaventura de Sousa Santos, enviou no &uacute;ltimo s&aacute;bado (05), nota de solidariedade ao MST e &agrave; Escola Nacional Florestan Fernandes (Enff), em que repudia a violenta invas&atilde;o da Pol&iacute;cia Civil de S&atilde;o Paulo na Escola, que ocorreu na &uacute;ltima sexta-feira (04).&nbsp;</p>
 
 <p><br />
-Boaventura afirma que a ENFF &eacute; uma das conquistas mais simb&oacute;licas do MST na &ldquo;&aacute;rdua luta por justi&ccedil;a social e fraternidade&rdquo;. E tem se tornado um espa&ccedil;o de forma&ccedil;&otilde;es e interc&acirc;mbios, contribuindo para o fortalecimento da atua&ccedil;&atilde;o de movimentos sociais na Am&eacute;rica Latina e de outros continentes.</p>
+Boaventura afirma que a Enff &eacute; uma das conquistas mais simb&oacute;licas do MST na &ldquo;&aacute;rdua luta por justi&ccedil;a social e fraternidade&rdquo;. E tem se tornado um espa&ccedil;o de forma&ccedil;&otilde;es e interc&acirc;mbios, contribuindo para o fortalecimento da atua&ccedil;&atilde;o de movimentos sociais na Am&eacute;rica Latina e de outros continentes.</p>
 
 <p><br />
 Diante do panorama de sucessivos ataques &agrave;s bases do Estado democr&aacute;tico de direito, o intelectual aponta que as denuncias de ataque contra os direitos s&atilde;o fundamentais e reafirma seu apoio aos direitos do MST e dos demais movimentos sociais que se manifestarem e de se organizarem de forma livre, democr&aacute;tica e aut&ocirc;noma, &ldquo;pois entendemos que &lsquo;Lutar n&atilde;o &eacute; crime!&rdquo;, denuncia a nota.</p>
