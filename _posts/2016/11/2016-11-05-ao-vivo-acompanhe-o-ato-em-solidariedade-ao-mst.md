@@ -5,7 +5,7 @@ tags:
 hat: Mobilização
 title: "Ao vivo: acompanhe o ato em solidariedade ao MST "
 support_line: "Atividade ocorre na Escola Nacional Florestan Fernandes, em Guararema (SP), que foi um dos alvos da ação policial truculenta com intuito de criminalizar o movimento"
-section: cover
+section: null
 menu: lutas e mobilizações
 images_hd: //farm6.staticflickr.com/5821/30680560022_e0c3184ba1_b.jpg
 layout: post
