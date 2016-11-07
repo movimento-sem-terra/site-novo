@@ -117,8 +117,9 @@ A empresa tem em seu hist&oacute;rico, o uso constante da viol&ecirc;ncia contra
 <p><br />
 Entre 1997 e 1998, o INCRA desapropriou uma &aacute;rea de cerca de 25 mil hectares do T&iacute;tulo Pinhal Ralo, em posse da Araupel, por ser considerada improdutiva. Mais de 1500 fam&iacute;lias foram assentadas ali. Atualmente, as cerca de 7 mil pessoas que vivem hoje nos assentamentos s&atilde;o a base da economia do munic&iacute;pio de Rio Bonito do Igua&ccedil;u. Vale ressaltar que na &eacute;poca, a empresa recebeu indeniza&ccedil;&atilde;o pelas benfeitorias.</p>
 
-<figure class="image" style="float:left"><img alt="PR - Sebastião Salgado.jpg" height="279" src="//farm6.staticflickr.com/5610/30537344740_61c2a3994b_b.jpg" width="450" />
-<figcaption>Ocupa&ccedil;&atilde;o de &aacute;rea grilada pela Araupel na d&eacute;cada e 90. Foto: Sebati&atilde;o Salgado</figcaption>
+<figure class="image" style="float:left"><img alt="PR - Sebastião Salgado.jpg" height="248" src="//farm6.staticflickr.com/5610/30537344740_61c2a3994b_b.jpg" width="400" />
+<figcaption><em>Ocupa&ccedil;&atilde;o de &aacute;rea grilada pela Araupel na d&eacute;cada e 90.<br />
+Foto: Sebati&atilde;o Salgado</em></figcaption>
 </figure>
 
 <p>Em 2003, o Incra buscou a compra de 23 mil hectares do T&iacute;tulo Rio das Cobras, na qual a Justi&ccedil;a Federal determinou a imiss&atilde;o provis&oacute;ria do Incra na posse do im&oacute;vel onde, posteriormente, foi criado o Projeto de Assentamento Celso Furtado, com 1.107 fam&iacute;lias, em Quedas do Igua&ccedil;u.&nbsp;</p>
