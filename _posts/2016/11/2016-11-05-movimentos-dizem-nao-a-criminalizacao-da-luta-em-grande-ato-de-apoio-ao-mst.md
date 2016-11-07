@@ -1,6 +1,9 @@
 ---
 date: "2016-11-05T20:58:32-02:00"
-tags: []
+tags:
+  - tag: solidariedade
+  - tag: mst
+  - tag: criminalização
 title: Movimentos dizem não à criminalização da luta em grande ato de apoio ao MST
 support_line: "Participaram do ato cerca de mil pessoas, de 36 nacionalidade, incluindo o ex-presidente Lula, parlamentares, líderes sindicais, movimentos populares, entre outros"
 hat: Solidariedade
@@ -16,7 +19,11 @@ files:
     $$hashKey: 02P
 created_date: "2016-11-05T21:04:27-02:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2016/11/2016-11-05-tentativa-de-criminalizacao-do-mst-e-inaceitavel-diz-dilma.md
+  - _posts/2016/11/2016-11-01-o-mst-nao-e-organizacao-criminosa.md
+  - _posts/2016/11/2016-11-04-mais-reforma-agraria-e-fim-da-criminalizacao-do-mst.md
+  - _posts/2016/09/2016-09-21-crb-nacional-emite-nota-sobre-situacao-de-presos-politicos-do-mst.md
 section: featured-news
 
 ---
