@@ -119,6 +119,7 @@ releated_posts:
   - _posts/2016/10/2016-10-19-stj-concede-habeas-corpus-a-preso-politico-do-mst-de-goias.md
   - _posts/2016/10/2016-10-19-vigilia-reune-cerca-de-700-pessoas-em-nove-cidades-goianas.md
   - _posts/2016/09/2016-09-21-crb-nacional-emite-nota-sobre-situacao-de-presos-politicos-do-mst.md
+section: featured-news
 
 ---
 <div style="text-align:center">
