@@ -41,7 +41,14 @@ releated_posts:
 ---
 <p>&nbsp;</p>
 
-<p><em>Por Lizely Borges<br />
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="Em audiência pública na Câmara do Distrito Federal, secundaristas denunciam a ação policial nas desocupações. Foto Mídia Ninja.jpg" height="466" src="//farm6.staticflickr.com/5589/30230842223_5e97822df1_b.jpg" width="700" />
+<figcaption><em>Em audi&ecirc;ncia p&uacute;blica na C&acirc;mara do Distrito Federal, secundaristas denunciam a a&ccedil;&atilde;o policial nas desocupa&ccedil;&otilde;es. Foto M&iacute;dia Ninja</em></figcaption>
+</figure>
+</div>
+
+<p><br />
+<em>Por Lizely Borges<br />
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
@@ -95,15 +102,12 @@ A autoriza&ccedil;&atilde;o pelo juiz Alex foi estendida para outras escolas por
 <p><br />
 Um grupo de senadores interp&ocirc;s junto ao Conselho Nacional de Justi&ccedil;a (CNJ) uma a&ccedil;&atilde;o contra o juiz Alex, ao enquadrar a medida do magistrado como pr&aacute;tica de tortura. Durante a audi&ecirc;ncia o deputado distrital Chico Vigilante (PT) refor&ccedil;ou a necessidade de levar o caso para o CNJ. &ldquo;Um juiz de direito que cuida da Vara da Inf&acirc;ncia e Adolesc&ecirc;ncia e manda torturar alunos, jovens, com restri&ccedil;&otilde;es e buzinas intermitentes &eacute; tortura (...) Temos que ter coragem de fazer representa&ccedil;&atilde;o, (...), temos q saber se os ministros concordam com essa arbitrariedade&rdquo;, anuncia.</p>
 
-<p><br />
-O uso da for&ccedil;a policial tamb&eacute;m esteve presente na invas&atilde;o da PM na ENFF. Em depoimento &agrave; Delegacia de Pol&iacute;cia de Guararema, o professor e morador da Escola de Forma&ccedil;&atilde;o, Ronaldo Valen&ccedil;a, de 64 anos, relatou que, ao ser solicitada pela PM a apresenta&ccedil;&atilde;o dos documentos de identifica&ccedil;&atilde;o &agrave;s pessoas presentes na entrada da escola, e diante da resposta de Ronaldo de que iria buscar seu documento, o professor conta que um dos policiais pulou a janela de acesso &agrave; ENFF, declarou voz de pris&atilde;o ao professor e o algemou, lan&ccedil;ando-o com for&ccedil;a ao ch&atilde;o.<br />
-&nbsp;</p>
-
-<div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="Ação da polícia civil na Escola Florestan Fernandes. Foto acervo MST.jpg" height="467" src="//farm6.staticflickr.com/5742/30565117750_a2d8ba1bdf_b.jpg" width="700" />
+<figure class="image" style="float:left"><img alt="Ação da polícia civil na Escola Florestan Fernandes. Foto acervo MST.jpg" height="300" src="//farm6.staticflickr.com/5742/30565117750_a2d8ba1bdf_b.jpg" width="450" />
 <figcaption><em>A&ccedil;&atilde;o da policia civil na ENFF, em Guararema, S&atilde;o Paulo. Foto: MST</em></figcaption>
 </figure>
-</div>
+
+<p><br />
+O uso da for&ccedil;a policial tamb&eacute;m esteve presente na invas&atilde;o da PM na ENFF. Em depoimento &agrave; Delegacia de Pol&iacute;cia de Guararema, o professor e morador da Escola de Forma&ccedil;&atilde;o, Ronaldo Valen&ccedil;a, de 64 anos, relatou que, ao ser solicitada pela PM a apresenta&ccedil;&atilde;o dos documentos de identifica&ccedil;&atilde;o &agrave;s pessoas presentes na entrada da escola, e diante da resposta de Ronaldo de que iria buscar seu documento, o professor conta que um dos policiais pulou a janela de acesso &agrave; ENFF, declarou voz de pris&atilde;o ao professor e o algemou, lan&ccedil;ando-o com for&ccedil;a ao ch&atilde;o.</p>
 
 <p><br />
 Com Parkinson, Ronaldo teve uma costela fraturada constatada por exame de raio-x no posto de sa&uacute;de local, em decorr&ecirc;ncia de socos e pontap&eacute;s de PMs quando j&aacute; estava imobilizado. O professor ainda relata que, neste momento, foram disparados tiros pela pol&iacute;cia como forma de afastar pessoas que tentarem prestar socorro a ele. Na ocasi&atilde;o mais uma integrante da Escola foi ferida.</p>
@@ -126,9 +130,16 @@ Os estudantes relatam que n&atilde;o foi apresentado a eles mandados de reintegr
 <p><br />
 Em nota divulgada no dia 04, a Pol&iacute;cia Civil de Mogi das Cruzes, respons&aacute;vel pela a&ccedil;&atilde;o, informou que o comando foi recebido na ENFF com viol&ecirc;ncia. O comunicado ainda diz que &ldquo;cerca de 200 pessoas que estavam presentes tentaram desarmar os agentes&rdquo;. O conte&uacute;do da nota contradiz imagens da c&acirc;mera de seguran&ccedil;a da Escola Nacional, veiculadas nas redes sociais, fotografias registradas e o depoimento de Ronaldo, que relata que n&atilde;o houve resist&ecirc;ncia &agrave; a&ccedil;&atilde;o ou agress&atilde;o aos agentes de seguran&ccedil;a, ainda mais em decorr&ecirc;ncia da fragilidade f&iacute;sica.</p>
 
+<figure class="image" style="float:right"><img alt="Comanda policial na desocupação da escola em Taguatinha. Foto Correio Brasiliense.jpg" height="266" src="//farm6.staticflickr.com/5511/30778200721_e129efa1bd_b.jpg" width="400" />
+<figcaption><em>Comanda policial na desocupa&ccedil;&atilde;o da escola em Taguatinha.<br />
+Foto Correio Brasiliense</em></figcaption>
+</figure>
+
 <p><br />
 H&aacute; contradi&ccedil;&atilde;o tamb&eacute;m nas vers&otilde;es dos estudantes e poder p&uacute;blico do DF. Durante a audi&ecirc;ncia p&uacute;blica a fala da Secretaria de Seguran&ccedil;a P&uacute;blica do DF foi contestada por estudantes e defensores de direitos humanos. A secret&aacute;ria de Seguran&ccedil;a P&uacute;blica, M&aacute;rcia de Alencar Ara&uacute;jo, disse de que a orienta&ccedil;&atilde;o do governador Rodrigo Rollemberg (PSB) foi a de &ldquo;que n&atilde;o fosse feito uso progressivo da for&ccedil;a&rdquo; e que &ldquo;a presen&ccedil;a da pol&iacute;cia foi feita exclusivamente para acompanhar as reintegra&ccedil;&otilde;es&rdquo;. Em resposta &aacute; fala, os estudantes deram detalhes dos contextos de viol&ecirc;ncia que sofreram e apoiadores mostraram &aacute;udio de aluno solicitando socorro. &ldquo;A secretaria disse aqui n&atilde;o houve viol&ecirc;ncia - &nbsp;ou desconhece o que ocorreu nas escolas ou est&aacute; mentindo&rdquo;, denuncia o conselheiro tutelar, Vinicius Lob&atilde;o.</p>
 
-<p>Constru&ccedil;&atilde;o de di&aacute;logo</p>
+<p><br />
+<strong>Constru&ccedil;&atilde;o de di&aacute;logo</strong></p>
 
-<p>O secret&aacute;rio de educa&ccedil;&atilde;o do DF, J&uacute;lio Greg&oacute;rio, anunciou a realiza&ccedil;&atilde;o de f&oacute;runs nas 14 regionais de ensino neste e no pr&oacute;ximo ano para debate com estudantes, professores e gestores sobre reorganiza&ccedil;&atilde;o do ensino m&eacute;dio &ndash; uma das demandas defendidas com intensidade pelos adolescentes. Segundo a assessoria da Secretaria a primeira atividade deve ocorrer no dia 24 de novembro, em Ceil&acirc;ndia. Em consulta, os estudantes disseram desconhecer a atividade, no entanto valorizam a a&ccedil;&atilde;o. Eles tamb&eacute;m afirmar lamentar que o desenho da consulta n&atilde;o tenha inclu&iacute;do as contribui&ccedil;&atilde;o dos adolescentes.&nbsp;</p>
+<p><br />
+O secret&aacute;rio de educa&ccedil;&atilde;o do DF, J&uacute;lio Greg&oacute;rio, anunciou a realiza&ccedil;&atilde;o de f&oacute;runs nas 14 regionais de ensino neste e no pr&oacute;ximo ano para debate com estudantes, professores e gestores sobre reorganiza&ccedil;&atilde;o do ensino m&eacute;dio &ndash; uma das demandas defendidas com intensidade pelos adolescentes. Segundo a assessoria da Secretaria a primeira atividade deve ocorrer no dia 24 de novembro, em Ceil&acirc;ndia. Em consulta, os estudantes disseram desconhecer a atividade, no entanto valorizam a a&ccedil;&atilde;o. Eles tamb&eacute;m afirmar lamentar que o desenho da consulta n&atilde;o tenha inclu&iacute;do as contribui&ccedil;&atilde;o dos adolescentes.&nbsp;</p>
