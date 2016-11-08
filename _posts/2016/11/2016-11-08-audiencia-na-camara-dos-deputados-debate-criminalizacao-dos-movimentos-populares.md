@@ -36,7 +36,7 @@ Na tarde desta quarta-feira (09), ocorre uma Audi&ecirc;ncia P&uacute;blica na C
 Diante disso, os movimentos que comp&otilde;em a Frente Brasil Popular no Distrito Federal, convoca todos os brasileiros e brasileiras preocupados com a escalada repressiva Brasil para participar do debate.&nbsp;</p>
 
 <p><br />
-&ldquo;As pr&aacute;ticas arbitr&aacute;rias e os m&eacute;todos espetaculares cristalizados pela Opera&ccedil;&atilde;o Lava Jato, que busca o seu auge com a persegui&ccedil;&atilde;o ao presidente Lula, abriram o caminho para que ju&iacute;zes, procuradores, promotores, delegados e agentes das pol&iacute;cias passassem atuar sem qualquer limite e acima da lei&rdquo;, destaca trecho da convocat&oacute;ria.&nbsp;</p>
+&ldquo;A liberdade de manifesta&ccedil;&atilde;o est&aacute; em suspenso, e a luta popular e seus dirigentes est&atilde;o sob amea&ccedil;a com o enraizamento do Estado de Exce&ccedil;&atilde;o que atropela direitos civis, a presun&ccedil;&atilde;o de inoc&ecirc;ncia e o direito de defesa&rdquo;, destaca trecho da convocat&oacute;ria.&nbsp;</p>
 
 <p><br />
 <strong>Confira abaixo na &iacute;ntegra. &nbsp;</strong></p>
