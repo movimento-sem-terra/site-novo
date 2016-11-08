@@ -112,6 +112,12 @@ files:
     basename: Amigos do MST na França
     embed: "https://docs.google.com/uc?id=0Bwus_4SL8MWDYjJZOU9SeVlMWjA"
     $$hashKey: 05Z
+  - link: "https://docs.google.com/uc?id=0Bwus_4SL8MWDQUp5NDJ2Smx4YXM&export=download"
+    thumbnail: "http://farm4.staticflickr.com/3852/15187675380_7b00f5fdff_b.jpg"
+    title: Notas Internacionais de solidariedade ao MST .pdf
+    basename: "Notas Internacionais de solidariedade ao MST "
+    embed: "https://docs.google.com/uc?id=0Bwus_4SL8MWDQUp5NDJ2Smx4YXM"
+    $$hashKey: 2V2
 created_date: "2016-11-04T18:45:28-02:00"
 published: true
 releated_posts:
@@ -127,6 +133,8 @@ section: featured-news
 <figcaption><em>Equipe da Alba TV de Caracas.</em></figcaption>
 </figure>
 </div>
+
+<p>&nbsp;</p>
 
 <p><em>Da P&aacute;gina do MST</em></p>
 
@@ -147,7 +155,7 @@ O Movimento Projeto Popular repudiou a escala da persegui&ccedil;&atilde;o a mov
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="a.jpg" height="394" src="//farm6.staticflickr.com/5350/30743134296_7ed49d591a_b.jpg" width="700" />
-<figcaption><em>Militantes do Instituto Agroecol&oacute;gico Latinoamericano (IALA-Guaran&iacute;).</em></figcaption>
+<figcaption><em>Militantes do Instituto Agroecol&oacute;gico Latinoamericano (IALA-Guaran&iacute;), no Paraguai.</em></figcaption>
 </figure>
 </div>
 
@@ -186,7 +194,10 @@ A Coordena&ccedil;&atilde;o Latino-americana de Organiza&ccedil;&otilde;es do Ca
 Pela internet, o MST recebeu manifesta&ccedil;&otilde;es pessoais de militantes sociais de diversas partes do mundo. Venezuela, Bol&iacute;via, Equador, Costa Rica foram alguma das localidades que se mobilizaram em defesa da legitimidade da atua&ccedil;&atilde;o do Movimento Sem Terra. Com a hashtag #Lutar&Eacute;UmDireito, a mensagem de apoio ao movimento foi replicada milhares de vezes pelas redes sociais e ficou entre as mais compartilhadas no Twitter nesta sexta.</p>
 
 <p><br />
-Confira <strong><a href="https://docs.google.com/uc?id=0Bwus_4SL8MWDTm5fWC1VSVQtLVk&amp;export=download">aqui</a></strong>&nbsp;as notas na &iacute;ntegra em espanhol e algumas abaixo:</p>
+Confira <a href="https://docs.google.com/uc?id=0Bwus_4SL8MWDQUp5NDJ2Smx4YXM&amp;export=download">Notas Internacionais de solidariedade ao MST</a>&nbsp;na &iacute;ntegra em ingl&ecirc;s&nbsp;e&nbsp;espanhol.</p>
+
+<p><br />
+Abaixo segue outros links na &iacute;ntegra:</p>
 
 <p><br />
 <a href="http://www.cloc-viacampesina.net/noticias/la-cloc-la-campesina-latinoamerica-repudiamos-energicamente-la-criminalizacion-de-la-lucha">Coordena&ccedil;&atilde;o Latino-americana de Organiza&ccedil;&otilde;es do Campo (Cloc) &ndash; Via Campesina</a></p>
