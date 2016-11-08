@@ -32,28 +32,28 @@ releated_posts:
 
 <p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
 
-<p style="margin-bottom: 0cm; line-height: 100%"><em>Por Coletivo de Comunica&ccedil;&atilde;o do MST na Bahia</em></p>
+<p><em>Por Coletivo de Comunica&ccedil;&atilde;o do MST na Bahia</em></p>
 
-<p style="margin-bottom: 0cm; line-height: 100%"><br />
+<p><br />
 Cerca de 100 fam&iacute;lias reocuparam a fazenda Santa Maria, localizada em Ruy Barbosa, na Chapada Diamantina, na manh&atilde; deste domingo (06), com o objetivo de denunciar a improdutividade da &aacute;rea e agilizar o processo de desapropria&ccedil;&atilde;o para fins de Reforma Agr&aacute;ria.</p>
 
-<p style="margin-bottom: 0cm; line-height: 100%"><br />
+<p><br />
 A ocupa&ccedil;&atilde;o &eacute; proveniente de um despejo, realizado nesta &uacute;ltima quinta-feira (03), emitido pela justi&ccedil;a local.</p>
 
-<p style="margin-bottom: 0cm; line-height: 100%"><br />
+<p><br />
 De acordo com as fam&iacute;lias, o processo de reocupa&ccedil;&atilde;o foi tenso e conflituoso por conta da invas&atilde;o de pistoleiros na &aacute;rea do acampamento. Diversas amea&ccedil;as foram realizadas para pressionar os trabalhadores e trabalhadoras a desocuparem a fazenda. Como as fam&iacute;lias n&atilde;o se intimidaram, os pistoleiros sa&iacute;ram do acampamento afirmando que voltariam em n&uacute;mero maior e usariam a for&ccedil;a f&iacute;sica para expuls&aacute;-los.</p>
 
-<p style="margin-bottom: 0cm; line-height: 100%"><br />
+<p><br />
 O latif&uacute;ndio pertence a Nilza Passos Baleeiro, da Empresa Est&acirc;ncia Baleeiro LTDA. A &aacute;rea possui mais 1,6 mil hectares e o MST realizou diversas den&uacute;ncias de desmatamento e venda ilegal de madeira. At&eacute; ent&atilde;o, os processos est&atilde;o travados.</p>
 
-<p style="margin-bottom: 0cm; line-height: 100%"><br />
+<p><br />
 O Movimento destaca que um ind&iacute;cio claro da improdutividade da &aacute;rea est&aacute; do arrendamento das terras. Nilza Baleeiro arrendou a fazenda para diversas pessoas, uma delas &eacute; Rog&eacute;rio Valverde, &ldquo;representante legal e respons&aacute;vel pela contrata&ccedil;&atilde;o de jagun&ccedil;os que est&atilde;o amea&ccedil;ando as fam&iacute;lias&rdquo;.</p>
 
-<p style="margin-bottom: 0cm; line-height: 100%"><br />
+<p><br />
 As fam&iacute;lias entraram em contato com a Casa Militar para denunciar as constantes amea&ccedil;as, por&eacute;m n&atilde;o houve retorno.</p>
 
-<p style="margin-bottom: 0cm; line-height: 100%"><br />
+<p><br />
 Este j&aacute; &eacute; o segundo despejo sofrido pelas fam&iacute;lias Sem Terra que seguem resistindo. Desse processo de luta nasceu o Acampamento Olga Ben&aacute;rio, onde h&aacute; mais de dois anos produzem diversos alimentos saud&aacute;veis que s&atilde;o comercializados em feiras locais.</p>
 
-<p style="margin-bottom: 0cm; line-height: 100%"><br />
+<p><br />
 <em>*Editado por Iris Pacheco</em></p>
