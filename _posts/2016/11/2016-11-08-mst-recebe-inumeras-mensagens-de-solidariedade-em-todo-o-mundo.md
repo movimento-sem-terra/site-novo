@@ -5,7 +5,7 @@ tags:
   - tag: criminalização
   - tag: mst
 title: "MST recebe inúmeras mensagens de solidariedade em todo o mundo "
-support_line: Confira algumas delas em nosso canal no youtube
+support_line: "Artistas, intelectuais, movimentos e organizações enviam mensagens de Solidariedade. Confira algumas delas em nosso canal no youtube"
 menu: direitos humanos
 section: featured-news
 video: "https://www.youtube.com/playlist?list=PLs_FebLgno7acADI0yrMKLa7iDCY2ayW4"
@@ -34,4 +34,22 @@ releated_posts:
   - _posts/2016/11/2016-11-07-historico-de-violencia-da-araupel-contra-sem-terra-busca-manter-dominio-sobre-terras-publicas.md
 
 ---
+<p>&nbsp;</p>
+
+<p><em>Da P&aacute;gina do MST*</em></p>
+
+<p><br />
+Ap&oacute;s <a href="http://www.mst.org.br/2016/11/04/mais-reforma-agraria-e-fim-da-criminalizacao-do-mst.html">a&ccedil;&atilde;o policial que envolveu tr&ecirc;s estados: Paran&aacute;, S&atilde;o Paulo e Mato Grosso do Sul</a>, e teve como principal objetivo prender e criminalizar as lideran&ccedil;as dos Acampamentos Dom Tom&aacute;s Baldu&iacute;no e Herdeiros da Luta pela Terra, militantes assentados da regi&atilde;o central do Paran&aacute;. No PR, oito militantes foram presos, o MST recebeu in&uacute;meras mensagens de solidariedade provenientes de artistas, intelectuais, movimentos e organiza&ccedil;&otilde;es em todo o mundo.&nbsp;</p>
+
+<p><br />
+<a href="http://www.mst.org.br/2016/11/04/mst-recebe-solidariedade-internacional-de-organizacoes-e-militantes.html">Confira compilado de notas internacionais aqui&nbsp;</a></p>
+
+<p><br />
+Abaixo um compilado dos apoios recebidos em v&iacute;deo.&nbsp;</p>
+
+<p>&nbsp;</p>
+
 <p><iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/videoseries?list=PLs_FebLgno7acADI0yrMKLa7iDCY2ayW4" width="560"></iframe></p>
+
+<p><br />
+<em>* Esta lista est&aacute; sendo atualizada permanentemente</em></p>
