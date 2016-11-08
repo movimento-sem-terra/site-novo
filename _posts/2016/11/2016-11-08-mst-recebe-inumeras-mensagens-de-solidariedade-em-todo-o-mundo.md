@@ -9,15 +9,15 @@ support_line: Confira algumas delas em nosso canal no youtube
 menu: direitos humanos
 section: featured-news
 video: "https://www.youtube.com/playlist?list=PLs_FebLgno7acADI0yrMKLa7iDCY2ayW4"
-images_hd: //farm6.staticflickr.com/5558/30829207416_265f72117b_b.jpg
+images_hd: //farm6.staticflickr.com/5821/30829416046_06a9e8f1b3_b.jpg
 layout: post
 files:
-  - link: //farm6.staticflickr.com/5558/30829207416_265f72117b_b.jpg
-    thumbnail: //farm6.staticflickr.com/5558/30829207416_265f72117b_t.jpg
-    medium: //farm6.staticflickr.com/5558/30829207416_265f72117b_z.jpg
-    small: //farm6.staticflickr.com/5558/30829207416_265f72117b_n.jpg
-    title: ENFF 05-11-2016_Formato WEB_Pablo Vergara-51.JPG
-    $$hashKey: 2D5
+  - link: //farm6.staticflickr.com/5821/30829416046_06a9e8f1b3_b.jpg
+    thumbnail: //farm6.staticflickr.com/5821/30829416046_06a9e8f1b3_t.jpg
+    medium: //farm6.staticflickr.com/5821/30829416046_06a9e8f1b3_z.jpg
+    small: //farm6.staticflickr.com/5821/30829416046_06a9e8f1b3_n.jpg
+    title: ENFF 05-11-2016_Formato WEB_Pablo Vergara-48.JPG
+    $$hashKey: 2JI
 created_date: "2016-11-08T18:09:11-02:00"
 published: true
 releated_posts:
@@ -34,4 +34,4 @@ releated_posts:
   - _posts/2016/11/2016-11-07-historico-de-violencia-da-araupel-contra-sem-terra-busca-manter-dominio-sobre-terras-publicas.md
 
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLs_FebLgno7acADI0yrMKLa7iDCY2ayW4" frameborder="0" allowfullscreen></iframe>
+<p><iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/videoseries?list=PLs_FebLgno7acADI0yrMKLa7iDCY2ayW4" width="560"></iframe></p>
