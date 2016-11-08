@@ -1,5 +1,5 @@
 ---
-date: "2016-11-08T18:17:48-02:00"
+date: "2016-11-07T18:17:48-02:00"
 tags:
   - tag: criminalização
   - tag: lutas-e-mobilizações
