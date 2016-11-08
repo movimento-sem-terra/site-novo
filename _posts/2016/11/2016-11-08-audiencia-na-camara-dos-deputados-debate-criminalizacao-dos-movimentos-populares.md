@@ -63,7 +63,7 @@ Diante das ocupa&ccedil;&otilde;es das escolas, o Minist&eacute;rio P&uacute;bli
 Na decis&atilde;o do juiz, est&aacute; registrada, inclusive, a autoriza&ccedil;&atilde;o para o uso de &quot;instrumentos sonoros cont&iacute;nuos, direcionados ao local da ocupa&ccedil;&atilde;o, para impedir o per&iacute;odo de sono&quot;, considerado como forma de tortura.</p>
 
 <p><br />
-As pr&aacute;ticas arbitr&aacute;rias e os m&eacute;todos espetaculares cristalizados pela Opera&ccedil;&atilde;o Lava Jato, que busca o seu auge com a persegui&ccedil;&atilde;Audi&ecirc;ncia p&uacute;blica para discutir viola&ccedil;&otilde;es aos direitos humanos individuais e coletivos de express&atilde;o, de reuni&atilde;o e de associa&ccedil;&atilde;o e para debater a criminaliza&ccedil;&atilde;o indevida de movimentos sociais.o ao presidente Lula, abriram o caminho para que ju&iacute;zes, procuradores, promotores, delegados e agentes das pol&iacute;cias passassem atuar sem qualquer limite e acima da lei.</p>
+As pr&aacute;ticas arbitr&aacute;rias e os m&eacute;todos espetaculares cristalizados pela Opera&ccedil;&atilde;o Lava Jato, que busca o seu auge com a persegui&ccedil;&atilde;o ao presidente Lula, abriram o caminho para que ju&iacute;zes, procuradores, promotores, delegados e agentes das pol&iacute;cias passassem atuar sem qualquer limite e acima da lei.</p>
 
 <p><br />
 A liberdade de manifesta&ccedil;&atilde;o est&aacute; em suspenso, e a luta popular e seus dirigentes est&atilde;o sob amea&ccedil;a com o enraizamento do Estado de Exce&ccedil;&atilde;o que atropela direitos civis, a presun&ccedil;&atilde;o de inoc&ecirc;ncia e o direito de defesa.</p>
