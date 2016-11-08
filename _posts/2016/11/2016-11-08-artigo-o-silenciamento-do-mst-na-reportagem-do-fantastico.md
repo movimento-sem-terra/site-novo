@@ -36,8 +36,8 @@ releated_posts:
 ---
 <p>&nbsp;</p>
 
-<p>Por Maurini Souza<br />
-Do Brasil de Fato&nbsp;</p>
+<p><em>Por Maurini Souza<br />
+Do Brasil de Fato&nbsp;</em></p>
 
 <p><br />
 Neste domingo (6), o programa Fant&aacute;stico, da Rede Globo, veiculou uma mat&eacute;ria de seis minutos e catorze segundos sobre o que os apresentadores chamaram de &ldquo;uma opera&ccedil;&atilde;o policial em um acampamento do MST&rdquo; no Paran&aacute; que encontrou &ldquo;uma organiza&ccedil;&atilde;o&rdquo; que &ldquo;funcionava como um estado paralelo&rdquo;. A reportagem se inicia informando que &ldquo;por tr&aacute;s da bandeira do MST uma quadrilha atuava no interior do Paran&aacute;&rdquo; e segue com algumas entrevistas e informa&ccedil;&otilde;es sobre as atua&ccedil;&otilde;es das pol&iacute;cias militares de S&atilde;o Paulo e Mato Grosso do Sul, que tamb&eacute;m realizaram opera&ccedil;&otilde;es, em seus estados, buscando os 14 suspeitos.</p>
