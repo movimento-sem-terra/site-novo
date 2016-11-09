@@ -5,7 +5,7 @@ tags:
   - tag: educação-do-campo
   - tag: lutas-e-mobilizações
 title: Crianças do MST realizam atos políticos na capital paranaense
-support_line: "As atividades são parte do 12º Encontro estadual dos Sem Terrinhas, e cobram do Estado o direito de acesso à educação pública e de qualidade, com transporte escolar e a construção e reforma de escolas nos assentamentos e acampamentos"
+support_line: "As atividades fazem parte do 12º Encontro estadual dos Sem Terrinhas, que cobra o direito de acesso à educação pública e de qualidade nos assentamentos e acampamentos"
 menu: lutas e mobilizações
 images_hd: //farm6.staticflickr.com/5705/30248426994_17de6b5365_b.jpg
 layout: post
@@ -28,12 +28,12 @@ files:
     small: //farm6.staticflickr.com/5659/30844210936_3ac910fa7e_n.jpg
     title: 14947749_1302489669823744_5661827181383471307_n.jpg
     $$hashKey: 06G
-  - link: //farm6.staticflickr.com/5499/30844213816_260651a83d_b.jpg
-    thumbnail: //farm6.staticflickr.com/5499/30844213816_260651a83d_t.jpg
-    medium: //farm6.staticflickr.com/5499/30844213816_260651a83d_z.jpg
-    small: //farm6.staticflickr.com/5499/30844213816_260651a83d_n.jpg
+  - link: //farm6.staticflickr.com/5707/30579852870_65ec399630_b.jpg
+    thumbnail: //farm6.staticflickr.com/5707/30579852870_65ec399630_t.jpg
+    medium: //farm6.staticflickr.com/5707/30579852870_65ec399630_z.jpg
+    small: //farm6.staticflickr.com/5707/30579852870_65ec399630_n.jpg
     title: 15027712_1302489819823729_6511558956243992429_n.jpg
-    $$hashKey: 06J
+    $$hashKey: 0QT
 created_date: "2016-11-09T14:29:12-02:00"
 published: true
 releated_posts:
@@ -44,7 +44,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="14947968_1302486216490756_9147729261435707536_n.jpg" height="394" src="//farm6.staticflickr.com/5655/30579087370_a54e08a77a_b.jpg" width="700" />
-<figcaption>Crian&ccedil;as Sem Terra realizam ato p&uacute;blico no Incra em Curitiba. Fotos: Welligton Leno</figcaption>
+<figcaption>Crian&ccedil;as Sem Terra realizam ato p&uacute;blico por educa&ccedil;&atilde;o do campo, no Incra em Curitiba. Fotos: Welligton Leno</figcaption>
 </figure>
 </div>
 
@@ -59,8 +59,8 @@ releated_posts:
 <p><br />
 O primeiro acontece desde as 09h15, no Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra), no qual o objetivo dos Sem Terrinha &eacute; estudar o Estatuto da Crian&ccedil;a e do Adolescente (ECA), cobrar a constru&ccedil;&atilde;o e reforma das escolas, a garantia das condi&ccedil;&otilde;es de circula&ccedil;&atilde;o do transporte escolar e acesso as escolas nos assentamentos, com a manuten&ccedil;&atilde;o permanente das estradas rurais. Tamb&eacute;m reivindicam a desapropria&ccedil;&atilde;o de terras para o assentamento das 10 mil fam&iacute;lias acampadas no estado.</p>
 
-<figure class="image" style="float:left"><img alt="15027712_1302489819823729_6511558956243992429_n.jpg" height="711" src="//farm6.staticflickr.com/5499/30844213816_260651a83d_b.jpg" width="400" />
-<figcaption>Sem Terrinhas reivindicam melhorias em escolas dos assentamentos e acampamentos.</figcaption>
+<figure class="image" style="float:right"><img alt="15027712_1302489819823729_6511558956243992429_n.jpg" height="507" src="//farm6.staticflickr.com/5707/30579852870_65ec399630_b.jpg" width="400" />
+<figcaption>Sem Terrinhas reivindicam melhorias em escolas do campo.</figcaption>
 </figure>
 
 <p>O segundo ato acontece a partir das 13h30, na Catedral Bas&iacute;lica Menor Nossa Senhora da Luz, na Pra&ccedil;a Tiradentes. A &ldquo;Celebra&ccedil;&atilde;o da Terra e da Vida com os Sem Terrinha&rdquo;, contar&aacute; com a presen&ccedil;a do arcebispo de Curitiba, Dom Jos&eacute; Ant&ocirc;nio Peruzzo.</p>
@@ -69,7 +69,8 @@ O primeiro acontece desde as 09h15, no Instituto Nacional de Coloniza&ccedil;&at
 As atividades s&atilde;o parte da Jornada Nacional do Sem Terrinha, com iniciou ontem (08/11) no Paran&aacute;, e que re&uacute;ne crian&ccedil;as de 06 a 12 anos. O objetivo &eacute; dar visibilidade &agrave; realidade vivenciada pelas crian&ccedil;as acampadas e assentadas, pautando temas que as afetam diretamente, como o direito de acesso &agrave; educa&ccedil;&atilde;o de qualidade, independentemente do local em que vivem, conforme prev&ecirc; o ECA.</p>
 
 <figure class="image" style="float:left"><img alt="14947749_1302489669823744_5661827181383471307_n.jpg" height="225" src="//farm6.staticflickr.com/5659/30844210936_3ac910fa7e_b.jpg" width="400" />
-<figcaption>O Encontro Sem Terrinha tamb&eacute;m cobra o assentamento de fam&iacute;lias acampadas no estado.</figcaption>
+<figcaption>Encontro tamb&eacute;m cobra o assentamento das &nbsp;fam&iacute;lias Sem Terra<br />
+acampadas no estado.</figcaption>
 </figure>
 
 <p>Na programa&ccedil;&atilde;o ainda est&atilde;o previstos passeios p&uacute;blicos e apresenta&ccedil;&otilde;es culturais.</p>
