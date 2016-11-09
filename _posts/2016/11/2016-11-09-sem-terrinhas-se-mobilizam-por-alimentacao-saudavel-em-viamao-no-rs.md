@@ -74,8 +74,8 @@ Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
-<figure class="image" style="float:left"><img alt="unnamed (1).jpg" height="226" src="//farm6.staticflickr.com/5585/30793252901_50ddee8eb0_b.jpg" width="400" />
-<figcaption>Crian&ccedil;as tamb&eacute;m participam de apresenta&ccedil;&otilde;es art&iacute;sticas e oficinas</figcaption>
+<figure class="image" style="float:right"><img alt="unnamed (1).jpg" height="226" src="//farm6.staticflickr.com/5585/30793252901_50ddee8eb0_b.jpg" width="400" />
+<figcaption>Crian&ccedil;as tamb&eacute;m participam de oficinas</figcaption>
 </figure>
 
 <p>Os Sem Terrinhas de Viam&atilde;o tamb&eacute;m participaram de apresenta&ccedil;&otilde;es art&iacute;sticas e de oficinas sobre agroecologia, viol&atilde;o, percuss&atilde;o, pintura, conta&ccedil;&atilde;o de hist&oacute;rias, arte com semente, capoeira, xadrez e palha&ccedil;aria.</p>
