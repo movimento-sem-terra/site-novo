@@ -46,7 +46,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="unnamed (3).jpg" height="322" src="//farm6.staticflickr.com/5590/30793250581_f46314f17f_b.jpg" width="700" />
-<figcaption>Sem Terrinhas discutem pr&aacute;tica da alimenta&ccedil;&atilde;o saud&aacute;vel. Fotos: Coptec</figcaption>
+<figcaption>Sem Terrinhas discutem pr&aacute;ticas de alimenta&ccedil;&atilde;o saud&aacute;vel. Fotos: Coptec</figcaption>
 </figure>
 </div>
 
@@ -72,7 +72,9 @@ Da P&aacute;gina do MST</em></p>
 
 <p>&ldquo;Com o apoio da Coptec mostramos &agrave;s crian&ccedil;as como essa quest&atilde;o est&aacute; inserida no assentamento, que hoje &eacute; refer&ecirc;ncia em produ&ccedil;&atilde;o agroecol&oacute;gica. Elas entenderam um pouco mais sobre o que representa o lugar onde vivem e a import&acirc;ncia que ele tem na produ&ccedil;&atilde;o de alimentos saud&aacute;veis&rdquo;, explica Camila.</p>
 
-<figure class="image" style="float:left"><img alt="unnamed (1).jpg" height="254" src="//farm6.staticflickr.com/5585/30793252901_50ddee8eb0_b.jpg" width="450" />
+<p>&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="unnamed (1).jpg" height="226" src="//farm6.staticflickr.com/5585/30793252901_50ddee8eb0_b.jpg" width="400" />
 <figcaption>Crian&ccedil;as tamb&eacute;m participam de apresenta&ccedil;&otilde;es art&iacute;sticas e oficinas</figcaption>
 </figure>
 
