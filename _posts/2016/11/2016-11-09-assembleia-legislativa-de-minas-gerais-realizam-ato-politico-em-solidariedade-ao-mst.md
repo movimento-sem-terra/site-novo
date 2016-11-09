@@ -5,8 +5,8 @@ tags:
   - tag: mst
   - tag: minas-gerais
   - tag: lutas-e-mobilizações
-title: Assembleia Legislativa de Minas Gerais realizam ato político em solidariedade ao MST
-support_line: "Estará em discussão o acirramento da criminalização dos movimentos sociais após o impeachment do governo Dilma e a continuidade na implantação do golpe "
+title: Assembleia Legislativa de Minas Gerais realiza ato político em solidariedade ao MST
+support_line: "Será discutido o acirramento da criminalização dos movimentos sociais após o impeachment do governo Dilma e a continuidade na implantação do golpe "
 menu: lutas e mobilizações
 images_hd: //farm6.staticflickr.com/5542/30580334810_92c5533923_b.jpg
 layout: post
