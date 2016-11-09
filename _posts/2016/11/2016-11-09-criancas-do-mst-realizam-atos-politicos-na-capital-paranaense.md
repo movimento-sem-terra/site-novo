@@ -63,7 +63,8 @@ releated_posts:
 <p>&nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="15027712_1302489819823729_6511558956243992429_n.jpg" height="507" src="//farm6.staticflickr.com/5707/30579852870_65ec399630_b.jpg" width="400" />
-<figcaption>Sem Terrinhas reivindicam melhorias em escolas do campo.</figcaption>
+<figcaption>Sem Terrinhas reivindicam melhorias em escolas dos<br />
+assentamentos e acampamentos.</figcaption>
 </figure>
 
 <p>O segundo ato acontece a partir das 13h30, na Catedral Bas&iacute;lica Menor Nossa Senhora da Luz, na Pra&ccedil;a Tiradentes. A &ldquo;Celebra&ccedil;&atilde;o da Terra e da Vida com os Sem Terrinha&rdquo;, contar&aacute; com a presen&ccedil;a do arcebispo de Curitiba, Dom Jos&eacute; Ant&ocirc;nio Peruzzo.</p>
