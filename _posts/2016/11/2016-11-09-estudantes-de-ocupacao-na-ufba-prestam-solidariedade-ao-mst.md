@@ -6,7 +6,7 @@ tags:
   - tag: lutas-e-mobilizações
 title: Estudantes de ocupação na UFBA prestam solidariedade ao MST
 images_hd: //farm6.staticflickr.com/5488/30844624646_9c7b7e94a3_b.jpg
-support_line: "O processo de criminalização dos movimentos sociais foi debatido em espaço  da universidade, ocupada pelos estudantes contra a PEC 241 e, em defesa dos direitos da classe trabalhadora brasileira"
+support_line: "O processo de criminalização dos movimentos sociais foi debatido em espaço  da universidade ocupado pelos estudantes contra a PEC 241 e, em defesa dos direitos da classe trabalhadora brasileira"
 menu: "educação, cultura e comunicação"
 layout: post
 files:
@@ -74,7 +74,7 @@ Ocupa UFBA</p>
 
 <p>&nbsp;</p>
 
-<p>Professora da UFBA, Celi Taffarel, comenta a criminaliza&ccedil;&atilde;o do MST e da luta de classe!&nbsp;</p>
+<p>Professora da UFBA, Celi Taffarel, comenta criminaliza&ccedil;&atilde;o do MST e da luta de classe!&nbsp;</p>
 
 <p><iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/sxfXg4ICkvc" width="640"></iframe></p>
 
