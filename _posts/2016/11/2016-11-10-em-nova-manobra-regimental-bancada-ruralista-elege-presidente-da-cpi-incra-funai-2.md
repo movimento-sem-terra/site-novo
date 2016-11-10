@@ -24,6 +24,7 @@ releated_posts:
   - _posts/2016/11/2016-11-07-cndh-pede-esclarecimentos-a-executivo-e-ministerio-publico-sobre-acao-policial-da-operacao-castra.md
   - _posts/2016/08/2016-08-31-em-paralelo-a-votacao-do-impeachment-cpi-da-funai-e-do-incra-sao-recriadas-na-camara.md
   - _posts/2016/10/2016-10-30-parlamentares-denunciam-ilegalidade-na-eleicao-do-presidente-da-cpi-da-funai-incra-2.md
+section: featured-news
 
 ---
 <p>&nbsp;</p>
