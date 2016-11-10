@@ -4,7 +4,7 @@ tags:
   - tag: criminalização
   - tag: direitos-humanos
   - tag: movimentos-populares
-title: Audiência pública destaca o entrecruzamento entre violência e criminalização de movimentos
+title: Audiência destaca o entrecruzamento entre violência e criminalização de movimentos
 support_line: "De acordo com os participantes, as desocupações nas escolas e a invasão policial à ENFF evidenciam a fragilidade da democracia"
 images_hd: //farm6.staticflickr.com/5710/30593703720_01ebdfd833_b.jpg
 menu: direitos humanos
