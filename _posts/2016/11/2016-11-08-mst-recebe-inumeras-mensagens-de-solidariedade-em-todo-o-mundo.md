@@ -42,7 +42,7 @@ releated_posts:
 Ap&oacute;s <a href="http://www.mst.org.br/2016/11/04/mais-reforma-agraria-e-fim-da-criminalizacao-do-mst.html">a&ccedil;&atilde;o policial que envolveu tr&ecirc;s estados: Paran&aacute;, S&atilde;o Paulo e Mato Grosso do Sul</a>, e teve como principal objetivo prender e criminalizar as lideran&ccedil;as dos Acampamentos Dom Tom&aacute;s Baldu&iacute;no e Herdeiros da Luta pela Terra, militantes assentados da regi&atilde;o central do Paran&aacute;. No PR, oito militantes foram presos, o MST recebeu in&uacute;meras mensagens de solidariedade provenientes de artistas, intelectuais, movimentos e organiza&ccedil;&otilde;es em todo o mundo.&nbsp;</p>
 
 <p><br />
-<a href="http://www.mst.org.br/2016/11/04/mst-recebe-solidariedade-internacional-de-organizacoes-e-militantes.html">Confira compilado de notas internacionais aqui&nbsp;</a></p>
+<a href="http://www.mst.org.br/2016/11/07/mst-recebe-solidariedade-internacional-de-organizacoes-e-militantes.html">Confira compilado de notas internacionais aqui&nbsp;</a></p>
 
 <p><br />
 Abaixo um compilado dos apoios recebidos em v&iacute;deo.&nbsp;</p>
