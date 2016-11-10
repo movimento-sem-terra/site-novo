@@ -7,16 +7,16 @@ tags:
 title: “Um educador popular que sempre esteve na troca cotidiana com a classe trabalhadora”
 support_line: "Em nota, MST lamenta falecimento do filósofo Jean Pierre Leroy e lembra que ele sempre foi firme ao princípios libertadores da humanidade."
 menu: solidariedade
-images_hd: //farm6.staticflickr.com/5777/30863718096_1b52939543_b.jpg
+images_hd: //farm6.staticflickr.com/5619/30267566724_308e6be6d0_b.jpg
 section: cover
 layout: post
 files:
-  - link: //farm6.staticflickr.com/5777/30863718096_1b52939543_b.jpg
-    thumbnail: //farm6.staticflickr.com/5777/30863718096_1b52939543_t.jpg
-    medium: //farm6.staticflickr.com/5777/30863718096_1b52939543_z.jpg
-    small: //farm6.staticflickr.com/5777/30863718096_1b52939543_n.jpg
-    title: índice5.jpeg
-    $$hashKey: 28S
+  - link: //farm6.staticflickr.com/5619/30267566724_308e6be6d0_b.jpg
+    thumbnail: //farm6.staticflickr.com/5619/30267566724_308e6be6d0_t.jpg
+    medium: //farm6.staticflickr.com/5619/30267566724_308e6be6d0_z.jpg
+    small: //farm6.staticflickr.com/5619/30267566724_308e6be6d0_n.jpg
+    title: índice6.jpeg
+    $$hashKey: 2K4
 created_date: "2016-11-10T15:33:44-02:00"
 published: true
 releated_posts:
@@ -39,7 +39,8 @@ O MST lamenta seu falecimento e solidariza-se com familiares e amigos. A nota qu
 <p><br />
 Fil&oacute;sofo Franc&ecirc;s, militante e intelectual, educador popular e lutador das quest&otilde;es Ambientais, da Reforma Agr&aacute;ria, da agroecologia e das mais diversas lutas por direitos. Essas qualidades de Jean possibilitaram uma aproxima&ccedil;&atilde;o com o Movimento.&nbsp;</p>
 
-<p>Em 2011, Jean esteve na Escola Nacional Florestan Fernandes e gravou um v&iacute;deo de apoio ao MST. Assista seu depoimento.&nbsp;</p>
+<p><br />
+Em 2011, Jean esteve na Escola Nacional Florestan Fernandes e gravou um v&iacute;deo de apoio ao MST. Assista seu depoimento.&nbsp;</p>
 
 <p>&nbsp;</p>
 
@@ -74,7 +75,11 @@ N&atilde;o sabemos ao certo o dia e hora que se realizou a aproxima&ccedil;&atil
 Sempre nos enchia com o seu otimismo e esperan&ccedil;a, presente em toda sua vida, at&eacute; mesmo neste per&iacute;odo de mais dificuldade devido a sua doen&ccedil;a, se mostrou comprometido, firme aos princ&iacute;pios libertadores da humanidade.&nbsp;</p>
 
 <p><br />
-&Eacute; com esse esp&iacute;rito de luta e resist&ecirc;ncia que o MST lamenta o falecimento de Jean Pierre e se solidariza com familiares e amigos. Certamente esse seu legado &eacute; apenas uma das qualidades &nbsp;que o &nbsp;destaca como um dos grandes intelectuais do povo. Jean estar&aacute; vivo no pensamento, nas a&ccedil;&otilde;es e lutas de todo Sem Terra, Campon&ecirc;s, Quilombola, Ind&iacute;gena, e de toda classe trabalhadora deste mundo.</p>
+&Eacute; com esse esp&iacute;rito de luta e resist&ecirc;ncia que o MST lamenta o falecimento de Jean Pierre&nbsp;e solidariza-se&nbsp;com&nbsp;toda a sua fam&iacute;lia, parentes, amigos/as, aos companheiros/as da FASE.&nbsp;com familiares e amigos. Certamente esse seu legado &eacute; apenas uma das qualidades &nbsp;que o &nbsp;destaca como um dos grandes intelectuais do povo. Jean estar&aacute; vivo no pensamento, nas a&ccedil;&otilde;es e lutas de todo Sem Terra, Campon&ecirc;s, Quilombola, Ind&iacute;gena, e de toda classe trabalhadora deste mundo.&nbsp;Reafirmamos que estaremos juntos na continuidade da luta de nosso querido Jean e de todos/as lutadores e lutadas do povo.&nbsp;</p>
+
+<p style="text-align: right;"><br />
+<em style="text-align: right;">Dire&ccedil;&atilde;o Nacional do Movimento dos Trabalhadores Rurais Sem Terra<br />
+S&atilde;o Paulo, 10 de Novembro de 2016&nbsp;</em></p>
 
 <p><br />
 <strong>Sol em Primavera.</strong></p>
@@ -114,7 +119,3 @@ Sol em primavera!</p>
 
 <p><strong>Charles Trocate&nbsp;</strong><br />
 <em>(10/11/2016 - Santa Quit&eacute;ria/CE - Encontro Estadual do MAM)</em></p>
-
-<p style="text-align: right;"><br />
-<em>Dire&ccedil;&atilde;o Nacional do Movimento dos Trabalhadores Rurais Sem Terra<br />
-S&atilde;o Paulo, 10 de Novembro de 2016&nbsp;</em></p>
