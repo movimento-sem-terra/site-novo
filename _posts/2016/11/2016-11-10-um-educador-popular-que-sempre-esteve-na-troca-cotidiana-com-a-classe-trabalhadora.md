@@ -39,8 +39,17 @@ O MST lamenta seu falecimento e solidariza-se com familiares e amigos. A nota qu
 <p><br />
 Fil&oacute;sofo Franc&ecirc;s, militante e intelectual, educador popular e lutador das quest&otilde;es Ambientais, da Reforma Agr&aacute;ria, da agroecologia e das mais diversas lutas por direitos. Essas qualidades de Jean possibilitaram uma aproxima&ccedil;&atilde;o com o Movimento.&nbsp;</p>
 
+<p>Em 2011, Jean esteve na Escola Nacional Florestan Fernandes e gravou um v&iacute;deo de apoio ao MST. Assista seu depoimento.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/TguP-Sks_PM" width="640"></iframe></p>
+
 <p><br />
-<strong>Confira abaixo na &iacute;ntegra.&nbsp;</strong></p>
+J&aacute; em 2014, mesmo impossibilitado de estar presente no 6&deg;&nbsp;Congresso Nacional do MST, o ambientalista envio uma <a href="http://antigo.mst.org.br/node/15688">mensagem saudando o Movimento por&nbsp;30 anos&nbsp;e parabenizar pela realiza&ccedil;&atilde;o do 6&deg;&nbsp;Congresso</a>.&nbsp;os caminhos percorridos e o futuro do MST&nbsp;</p>
+
+<p><br />
+<strong>Confira abaixo a nota do MST.&nbsp;</strong></p>
 
 <p><br />
 <strong>NOTA DO MST EM HOMENAGEM A JEAN PIERRE LEROY</strong></p>
