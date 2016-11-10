@@ -25,6 +25,7 @@ releated_posts:
   - _posts/2016/03/2016-03-23-em-manifesto-povos-do-campo-e-cidade-se-posicionam-contra-o-golpe-a-midia-e-o-capitalismo-internacional.md
   - _posts/2016/08/2016-08-25-em-carta-frente-brasil-popular-reafirma-luta-em-defesa-da-democracia.md
   - _posts/2016/08/2016-08-29-se-ha-golpe-havera-luta.md
+section: cover
 
 ---
 <p>&nbsp;</p>
