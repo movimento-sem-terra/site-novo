@@ -75,7 +75,7 @@ N&atilde;o sabemos ao certo o dia e hora que se realizou a aproxima&ccedil;&atil
 Sempre nos enchia com o seu otimismo e esperan&ccedil;a, presente em toda sua vida, at&eacute; mesmo neste per&iacute;odo de mais dificuldade devido a sua doen&ccedil;a, se mostrou comprometido, firme aos princ&iacute;pios libertadores da humanidade.&nbsp;</p>
 
 <p><br />
-&Eacute; com esse esp&iacute;rito de luta e resist&ecirc;ncia que o MST lamenta o falecimento de Jean Pierre&nbsp;e solidariza-se&nbsp;com&nbsp;toda a sua fam&iacute;lia, parentes, amigos/as, aos companheiros/as da FASE.&nbsp;com familiares e amigos. Certamente esse seu legado &eacute; apenas uma das qualidades &nbsp;que o &nbsp;destaca como um dos grandes intelectuais do povo. Jean estar&aacute; vivo no pensamento, nas a&ccedil;&otilde;es e lutas de todo Sem Terra, Campon&ecirc;s, Quilombola, Ind&iacute;gena, e de toda classe trabalhadora deste mundo.&nbsp;Reafirmamos que estaremos juntos na continuidade da luta de nosso querido Jean e de todos/as lutadores e lutadas do povo.&nbsp;</p>
+&Eacute; com esse esp&iacute;rito de luta e resist&ecirc;ncia que o MST lamenta o falecimento de Jean Pierre&nbsp;e solidariza-se&nbsp;com&nbsp;toda a sua fam&iacute;lia, parentes, amigos/as, aos companheiros/as da FASE. Certamente seu legado seguir&aacute; vivo no pensamento, nas a&ccedil;&otilde;es e lutas de todo Sem Terra, Campon&ecirc;s, Quilombola, Ind&iacute;gena, e de toda classe trabalhadora deste mundo.&nbsp;Reafirmamos que estaremos juntos na continuidade da luta de nosso querido Jean e de todos/as lutadores e lutadas do povo.&nbsp;</p>
 
 <p style="text-align: right;"><br />
 <em style="text-align: right;">Dire&ccedil;&atilde;o Nacional do Movimento dos Trabalhadores Rurais Sem Terra<br />
