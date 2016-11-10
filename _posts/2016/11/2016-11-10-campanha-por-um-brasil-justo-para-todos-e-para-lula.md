@@ -5,7 +5,7 @@ tags:
   - tag: campanhas
   - tag: contra-o-golpe
 support_line: "Evento no centro de São Paulo lança, nesta quinta-feira, campanha e “amplo movimento” em defesa da democracia, do Estado de direito e do ex-presidente"
-title: "Campanha \"por um Brasil justo para todos e para Lula\""
+title: "Campanha defende \"um Brasil justo para todos e para Lula\""
 menu: lutas e mobilizações
 images_hd: //farm6.staticflickr.com/5588/30894696285_40ce7088ba_b.jpg
 layout: post
