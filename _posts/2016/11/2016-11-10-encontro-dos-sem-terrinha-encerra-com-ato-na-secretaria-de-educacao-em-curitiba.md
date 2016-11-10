@@ -5,7 +5,7 @@ tags:
   - tag: paraná
   - tag: "educação,-cultura-e-comunicação"
 title: Encontro dos Sem Terrinha encerra com ato na secretaria de educação em Curitiba
-support_line: "As crianças cobram a continuidade do Termo de Cooperação Técnica e Financeira (Convênio) entre a SEED e a ACAP, que atende cerca educandos da educação infantil ao médio"
+support_line: "As crianças cobram a continuidade do Termo de Cooperação Técnica e Financeira (Convênio) entre a SEED e a ACAP, que atende educandos da educação infantil ao médio"
 menu: "educação, cultura e comunicação"
 images_hd: //farm6.staticflickr.com/5492/30263177724_25967e8a5b_b.jpg
 layout: post
