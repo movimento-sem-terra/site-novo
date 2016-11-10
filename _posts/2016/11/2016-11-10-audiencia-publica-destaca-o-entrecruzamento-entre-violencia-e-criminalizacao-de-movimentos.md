@@ -36,12 +36,10 @@ releated_posts:
 ---
 <p>&nbsp;</p>
 
-<div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="Audência pública realizada na Câmara de Deputados debate a criminalização dos movimentos populares. Foto Lizely Borges.jpg" height="576" src="//farm6.staticflickr.com/5710/30593703720_01ebdfd833_b.jpg" width="700" />
+<figure class="image"><img alt="Audência pública realizada na Câmara de Deputados debate a criminalização dos movimentos populares. Foto Lizely Borges.jpg" height="394" src="//farm6.staticflickr.com/5710/30593703720_01ebdfd833_b.jpg" width="700" />
 <figcaption><em>Aud&ecirc;ncia p&uacute;blica realizada na C&acirc;mara de Deputados debate a criminaliza&ccedil;&atilde;o dos movimentos populares.<br />
 Foto Lizely Borges</em></figcaption>
 </figure>
-</div>
 
 <p><br />
 <em>Por Lizely Borges<br />
