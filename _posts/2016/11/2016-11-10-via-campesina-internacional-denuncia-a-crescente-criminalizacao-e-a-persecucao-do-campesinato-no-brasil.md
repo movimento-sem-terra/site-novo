@@ -69,4 +69,5 @@ Globalizemos a luta, globalizemos a esperan&ccedil;a!</em></p>
 <p><br />
 <a href="https://viacampesina.org/es/index.php/temas-principales-mainmenu-27/derechos-humanos-mainmenu-40/2826-la-via-campesina-denuncia-la-creciente-criminalizacion-y-persecucion-contra-el-campesinado-en-brasil">Confira manifesto em espanhol</a><br />
 <br />
-<em>*Tradu&ccedil;&atilde;o J&uacute;lia Gimenez</em></p>
+<em>*Tradu&ccedil;&atilde;o J&uacute;lia Gimenez<br />
+**Edi&ccedil;&atilde;o Iris Pacheco</em></p>
