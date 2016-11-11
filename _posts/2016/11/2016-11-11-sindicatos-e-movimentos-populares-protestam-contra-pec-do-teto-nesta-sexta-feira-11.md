@@ -22,6 +22,7 @@ releated_posts:
   - _posts/2016/10/2016-10-25-greve-geral-e-uma-necessidade-diz-dirigente-da-cut.md
   - _posts/2016/11/2016-11-10-centrais-e-movimentos-populares-farao-paralisacoes-e-protestos-nesta-sexta.md
   - _posts/2016/09/2016-09-21-centrais-promovem-dia-de-mobilizacao-nacional-na-quinta-22.md
+section: cover
 
 ---
 <p><iframe height="360" src="http://radar.brasildefato.com.br" width="640"></iframe></p>
