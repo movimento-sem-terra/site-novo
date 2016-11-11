@@ -5,7 +5,7 @@ tags:
   - tag: produção
   - tag: ceará
 title: "MST realiza III Feira Cultural da Reforma Agrária Ceará\n "
-support_line: "O evento pretende dar visibilidade à produção camponesa e agroecológica, ao ofertar alimentos produzidos em áreas de assentamentos para a população urbana a possibilidade de consumir produtos livres de agrotóxicos"
+support_line: "O evento pretende dar visibilidade à produção camponesa e agroecológica, ao ofertar alimentos produzidos em áreas de assentamentos para a população urbana"
 menu: agricultura camponesa
 images_hd: //farm6.staticflickr.com/5807/30832778791_5e87481f02_b.jpg
 layout: post
