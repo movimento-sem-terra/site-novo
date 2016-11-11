@@ -45,29 +45,27 @@ releated_posts:
 <em>Da Via Campesina</em></p>
 
 <p><br />
-A Via Campesina, movimento campon&ecirc;s internacional, denuncia a tr&iacute;plice alian&ccedil;a entre o governo golpista de Temer, os interesses transacionais e os m&eacute;dios massivo de comunica&ccedil;&atilde;o, que procura crer um cen&aacute;rio da opini&atilde;o p&uacute;blica para criminalizar aos movimentos sociais no Brasil no seu leg&iacute;timo direito a resistir e protestar.&nbsp;</p>
+A Via Campesina, movimento campon&ecirc;s internacional, denuncia a tr&iacute;plice alian&ccedil;a entre o governo golpista de Temer, os interesses transacionais e os meios massivos de comunica&ccedil;&atilde;o, que procuram criar um cen&aacute;rio na opini&atilde;o p&uacute;blica para criminalizar aos movimentos sociais no Brasil no seu leg&iacute;timo direito a resistir e a protestar.&nbsp;</p>
 
 <p><br />
-Desde a posse no poder, o governo Temer, tem fortalecido o projeto neoliberal de reduzir custos do trabalho, entregar recursos, privatizar e privilegiar ao agroneg&oacute;cio em detrimento dos setores populares, camponeses, ind&iacute;genas e as popula&ccedil;&otilde;es mais pobres; os recursos que antes estavam destinado ao setor p&uacute;blico como educa&ccedil;&atilde;o, sa&uacute;de e direitos das e dos trabalhadores foram pisoteados dias ap&oacute;s da sua pose. Impondo uma pol&iacute;tica de medo, persecu&ccedil;&atilde;o e criminaliza&ccedil;&atilde;o orquestrada pelos m&eacute;dios de comunica&ccedil;&atilde;o como Globo onde nossos companheiros e companheiras s&atilde;o apresentados como &nbsp;criminais violentando o seus direitos civis e seus direito &agrave; organiza&ccedil;&atilde;o.</p>
+Desde sua posse no poder, o governo Temer tem fortalecido o projeto neoliberal de reduzir custos do trabalho, entregar recursos, privatizar e dar previl&eacute;gios ao agroneg&oacute;cio em detrimento dos setores populares, camponeses, ind&iacute;genas e as popula&ccedil;&otilde;es mais pobres; os recursos que antes estavam destinados ao setor p&uacute;blico como educa&ccedil;&atilde;o, sa&uacute;de e direitos das trabalhadoras e dos trabalhadores foram pisoteados dias ap&oacute;s sua posse. Impondo uma pol&iacute;tica de medo, persegui&ccedil;&atilde;o e criminaliza&ccedil;&atilde;o orquestrada pelos meios de comunica&ccedil;&atilde;o como a Rede Globo, onde nossos companheiros e companheiras s&atilde;o apresentados como criminosos, violentando assim os seus direitos civis e o seu direito &agrave; organiza&ccedil;&atilde;o.</p>
 
 <p><br />
-Diante os recentes fatos acontecidos contra o Movimento dos Trabalhadores Rurais Sem Terra (MST) -&nbsp;Brasil, membro da&nbsp;Via Campesina, expressamos que &eacute; preocupante estes atentados aos direitos civis e que se pretenda&nbsp;criminalizar os movimentos sociais.</p>
+Diante dos recentes fatos acontecidos contra o Movimento dos Trabalhadores Rurais Sem Terra (MST) do Brasil, membro da Via Campesina, expressamos que &eacute; preocupante estes atentados aos direitos civis e que se pretenda criminalizar os movimentos sociais.</p>
 
 <p><br />
-Neste sentido, como a Via&nbsp;Campesina Internacional vem&nbsp;impulsionando uma Declara&ccedil;&atilde;o dos Direitos Camponeses dentro das Na&ccedil;&otilde;es Unidas onde ressaltamos que &eacute; urgente que se garantam os direitos das camponesas e camponeses a liberdade da associa&ccedil;&atilde;o e organiza&ccedil;&atilde;o, assim como o direito a n&atilde;o serem criminalizados pelas suas demandas e pelas suas lutas legitimas.</p>
+Neste sentido, como Via Campesina Internacional estamos impulsionando uma Declara&ccedil;&atilde;o dos Direitos Camponeses dentro das Na&ccedil;&otilde;es Unidas, onde ressaltamos que &eacute; urgente que se garantam os direitos das camponesas e camponeses a liberdade de associa&ccedil;&atilde;o e organiza&ccedil;&atilde;o, assim como o direito a n&atilde;o serem criminalizados pelas suas demandas e pelas suas lutas legitimas.</p>
 
 <p><br />
-Como movimento internacional olhamos com preocupa&ccedil;&atilde;o este tipo de pol&iacute;tica de &oacute;dio que se consolida com governos de direita no poder; pelo que denunciamos e chamamos as nossas organiza&ccedil;&otilde;es, amigos e aliados a manter-nos alertas para que estas a&ccedil;&otilde;es de persecu&ccedil;&atilde;o, encarceramento e &nbsp;criminaliza&ccedil;&atilde;o n&atilde;o se repitam, pois o &uacute;nico que provocam &eacute; um grave enfraquecimento da democracia.</p>
+Como movimento internacional, olhamos com preocupa&ccedil;&atilde;o este tipo de pol&iacute;tica de &oacute;dio que se consolida com governos de direita no poder; pelo que denunciamos e chamamos as nossas organiza&ccedil;&otilde;es, amigos/as e aliados/as a manter-nos alertas para que estas a&ccedil;&otilde;es de persegui&ccedil;&atilde;o, encarceramento e criminaliza&ccedil;&atilde;o n&atilde;o se repitam, pois o &uacute;nico que provocam &eacute; um grave enfraquecimento da democracia.</p>
 
 <p><br />
-Os povos do mundo tem&nbsp;o direito a resistir e a protestar diante as pol&iacute;ticas neoliberais que reduzem os nossos direitos e atentam contra a vida. &Eacute; por isso que como a Via Campesina soma-se &agrave;s vozes de denuncia e resist&ecirc;ncia de centos de organiza&ccedil;&otilde;es, figuras p&uacute;blicas, acad&ecirc;micos e artistas de diferentes continentes, a n&iacute;vel mundial, que tem manifestado a sua solidariedade e apoio com o MST e com os povos organizados do Brasil.</p>
+Os povos do mundo t&ecirc;m o direito a resistir e a protestar diante das pol&iacute;ticas neoliberais que reduzem os nossos direitos e atentam contra a vida. &Eacute; por isso que como Via Campesina nos somamos &agrave;s vozes de den&uacute;ncia e resist&ecirc;ncia de centenas de organiza&ccedil;&otilde;es, figuras p&uacute;blicas, acad&ecirc;micos e artistas de diferentes continentes, a n&iacute;vel mundial, que tem manifestado a sua solidariedade e apoio ao MST e com os povos organizados do Brasil.</p>
 
 <p><br />
 <em>O MST n&atilde;o est&aacute; sozinho!<br />
 Globalizemos a luta, globalizemos a esperan&ccedil;a!</em></p>
 
 <p><br />
-<a href="https://viacampesina.org/es/index.php/temas-principales-mainmenu-27/derechos-humanos-mainmenu-40/2826-la-via-campesina-denuncia-la-creciente-criminalizacion-y-persecucion-contra-el-campesinado-en-brasil">Confira manifesto em espanhol</a><br />
-<br />
 <em>*Tradu&ccedil;&atilde;o J&uacute;lia Gimenez<br />
 **Edi&ccedil;&atilde;o Iris Pacheco</em></p>
