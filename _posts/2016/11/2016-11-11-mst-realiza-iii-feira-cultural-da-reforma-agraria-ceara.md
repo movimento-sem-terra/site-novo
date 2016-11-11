@@ -10,18 +10,18 @@ menu: agricultura camponesa
 images_hd: //farm6.staticflickr.com/5807/30832778791_5e87481f02_b.jpg
 layout: post
 files:
-  - link: //farm6.staticflickr.com/5772/30884521836_7013af0654_b.jpg
-    thumbnail: //farm6.staticflickr.com/5772/30884521836_7013af0654_t.jpg
-    medium: //farm6.staticflickr.com/5772/30884521836_7013af0654_z.jpg
-    small: //farm6.staticflickr.com/5772/30884521836_7013af0654_n.jpg
-    title: feira ii.jpg
-    $$hashKey: 0N1
   - link: //farm6.staticflickr.com/5807/30832778791_5e87481f02_b.jpg
     thumbnail: //farm6.staticflickr.com/5807/30832778791_5e87481f02_t.jpg
     medium: //farm6.staticflickr.com/5807/30832778791_5e87481f02_z.jpg
     small: //farm6.staticflickr.com/5807/30832778791_5e87481f02_n.jpg
     title: feira i.jpg
     $$hashKey: 0N4
+  - link: //farm6.staticflickr.com/5540/30884637976_b74144bfb6_b.jpg
+    thumbnail: //farm6.staticflickr.com/5540/30884637976_b74144bfb6_t.jpg
+    medium: //farm6.staticflickr.com/5540/30884637976_b74144bfb6_z.jpg
+    small: //farm6.staticflickr.com/5540/30884637976_b74144bfb6_n.jpg
+    title: feira.jpg
+    $$hashKey: 08U
 created_date: "2016-11-11T17:56:01-02:00"
 published: true
 releated_posts:
@@ -44,7 +44,7 @@ Neste s&aacute;bado (12), o MST realiza a III Feira Cultural da Reforma Agr&aacu
 <p><br />
 A III Feira Cultural da Reforma Agraria tem como objetivo dar visibilidade &agrave;&nbsp;produ&ccedil;&atilde;o camponesa e agroecol&oacute;gica, ao ofertar alimentos produzidos em &aacute;reas de&nbsp;assentamentos para&nbsp;a popula&ccedil;&atilde;o urbana a possibilidade de consumir produtos livres de agrot&oacute;xicos.</p>
 
-<figure class="image" style="float:left"><img alt="feira ii.jpg" height="287" src="//farm6.staticflickr.com/5772/30884521836_7013af0654_b.jpg" width="430" />
+<figure class="image" style="float:left"><img alt="feira.jpg" height="400" src="//farm6.staticflickr.com/5540/30884637976_b74144bfb6_b.jpg" width="390" />
 <figcaption></figcaption>
 </figure>
 
