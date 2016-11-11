@@ -8,7 +8,7 @@ title: “Um educador popular que sempre esteve na troca cotidiana com a classe 
 support_line: "Em nota, MST lamenta falecimento do filósofo Jean Pierre Leroy e lembra que ele sempre foi firme ao princípios libertadores da humanidade."
 menu: solidariedade
 images_hd: //farm6.staticflickr.com/5619/30267566724_308e6be6d0_b.jpg
-section: cover
+section: featured-news
 layout: post
 files:
   - link: //farm6.staticflickr.com/5619/30267566724_308e6be6d0_b.jpg
