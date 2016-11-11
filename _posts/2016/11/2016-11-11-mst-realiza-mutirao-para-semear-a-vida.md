@@ -71,7 +71,10 @@ No entanto, foi preciso cuidar da terra primeiro, como explica Marlene Lemes da 
 O Assentamento Oziel Alves, antiga fazenda Minist&eacute;rio, foi palco da luta pela terra desde os anos 50, quando o sindicato dos trabalhadores rurais da regi&atilde;o se mobilizou para incluir a &aacute;rea nas propostas de Reforma Agr&aacute;ria anunciadas pelo ent&atilde;o presidente Jo&atilde;o Goulart.&nbsp;</p>
 
 <p><br />
-A desapropria&ccedil;&atilde;o foi interrompida com a derrubada do presidente e as terras tomadas pelos militares. Por isso, o processo de harmoniza&ccedil;&atilde;o foi necess&aacute;rio, contou a dirigente do MST no Vale do Rio Doce, Teresinha Sabino. &ldquo;Esse momento &eacute; muito importante. Al&eacute;m de cuidar do lugar que foi regado com sangue dos mortos de 64, estamos tirando o dia para cuidar da nossa m&atilde;e, terra, e cuidar da sa&uacute;de dos nossos companheiros e companheiras&rdquo;, ressalta Teresinha. Al&eacute;m da harmoniza&ccedil;&atilde;o, os trabalhadores tamb&eacute;m fizeram canteiros, que foram cobertos com folhas secas, e semearam mais de 30 esp&eacute;cies de plantas para recuperar a biodiversidade do solo.</p>
+A desapropria&ccedil;&atilde;o foi interrompida com a derrubada do presidente e as terras tomadas pelos militares. Por isso, o processo de harmoniza&ccedil;&atilde;o foi necess&aacute;rio, contou a dirigente do MST no Vale do Rio Doce, Teresinha Sabino.</p>
+
+<p><br />
+&ldquo;Esse momento &eacute; muito importante. Al&eacute;m de cuidar do lugar que foi regado com sangue dos mortos de 64, estamos tirando o dia para cuidar da nossa m&atilde;e, terra, e cuidar da sa&uacute;de dos nossos companheiros e companheiras&rdquo;, ressalta Teresinha. Al&eacute;m da harmoniza&ccedil;&atilde;o, os trabalhadores tamb&eacute;m fizeram canteiros, que foram cobertos com folhas secas, e semearam mais de 30 esp&eacute;cies de plantas para recuperar a biodiversidade do solo.</p>
 
 <p><br />
 <strong>Projeto</strong></p>
