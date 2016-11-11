@@ -4,7 +4,7 @@ tags:
   - tag: multirão
   - tag: minas-gerais
   - tag: reforma-agrária
-title: MST realiza multirão para semear a vida
+title: MST realiza mutirão para semear a vida
 support_line: "Famílias do Vale do Rio do Doce (MG) se reuniram para implantar um sistema agroflorestal, no Assentamento Oziel Alves"
 menu: meio ambiente
 images_hd: //farm6.staticflickr.com/5494/30884088136_a760456e4d_b.jpg
