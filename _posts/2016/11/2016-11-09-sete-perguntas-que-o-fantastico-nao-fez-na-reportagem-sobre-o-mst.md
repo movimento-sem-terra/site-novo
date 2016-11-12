@@ -64,6 +64,7 @@ releated_posts:
   - _posts/2016/11/2016-11-04-mais-reforma-agraria-e-fim-da-criminalizacao-do-mst.md
   - _posts/2016/11/2016-11-05-tentativa-de-criminalizacao-do-mst-e-inaceitavel-diz-dilma.md
   - _posts/2016/11/2016-11-05-movimentos-dizem-nao-a-criminalizacao-da-luta-em-grande-ato-de-apoio-ao-mst.md
+label: interviews
 
 ---
 <p>&nbsp;</p>
