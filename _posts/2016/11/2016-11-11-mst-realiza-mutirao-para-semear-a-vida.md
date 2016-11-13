@@ -34,6 +34,7 @@ releated_posts:
   - _posts/2016/04/2016-04-14-mst-mg-forma-convenio-para-implantar-e-recuperar-infraestrutura-em-assentamentos.md
   - _posts/2016/05/2016-05-20-mesmo-sob-cerco-policial-sem-terra-retomam-a-sede-de-ariadnopolis.md
   - _posts/2016/10/2016-10-25-seminario-internacional-discute-a-luta-contra-os-agrotoxicos.md
+section: featured-news
 
 ---
 <p>&nbsp;</p>
