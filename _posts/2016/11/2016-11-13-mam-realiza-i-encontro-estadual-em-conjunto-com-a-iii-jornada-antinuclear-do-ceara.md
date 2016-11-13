@@ -5,7 +5,7 @@ tags:
   - tag: mineração
   - tag: ceará
 title: MAM realiza I Encontro Estadual em conjunto com a III Jornada Antinuclear do Ceará
-support_line: "A atividade dá continuidade às jornadas antinucleares realizadas anteriormente debatendo o Projeto de Santa Quitéria, empreendimento que pretende realizar a exploração e o beneficiamento de urânio e fosfato no município"
+support_line: "A atividade dá continuidade às jornadas antinucleares realizadas para debater o Projeto de Santa Quitéria, que pretende realizar a exploração e o beneficiamento de urânio e fosfato no município"
 menu: meio ambiente
 images_hd: //farm6.staticflickr.com/5597/30664187680_59fe9771c7_b.jpg
 layout: post
