@@ -16,6 +16,12 @@ files:
     small: //farm6.staticflickr.com/5519/25329393699_b2f67a520a_n.jpg
     title: DSC_2929.JPG
     $$hashKey: 05Q
+  - link: //farm6.staticflickr.com/5565/30965282065_a68f7d217e_b.jpg
+    thumbnail: //farm6.staticflickr.com/5565/30965282065_a68f7d217e_t.jpg
+    medium: //farm6.staticflickr.com/5565/30965282065_a68f7d217e_z.jpg
+    small: //farm6.staticflickr.com/5565/30965282065_a68f7d217e_n.jpg
+    title: DSC_2898.JPG
+    $$hashKey: 0BD
 created_date: "2016-11-13T19:15:40-02:00"
 published: true
 releated_posts:
@@ -44,6 +50,10 @@ Para Ibrahim Abu Ayyash, diretor da Union of Agricultural Work Committees (Uni&a
 
 <p><br />
 &ldquo;Acompanhamos com tristeza e apreens&atilde;o os ataques contra o MST e &agrave; ENFF. Entendemos que a liberta&ccedil;&atilde;o de um povo s&oacute; &eacute; poss&iacute;vel com a liberta&ccedil;&atilde;o de sua terra. Isso perpassa pela luta constante e di&aacute;ria. Negar isso a um povo, como fazem aqui com os palestinos, &eacute; negar sua capacidade de luta e resist&ecirc;ncia&rdquo;, disse.</p>
+
+<figure class="image" style="float:left"><img alt="DSC_2898.JPG" height="298" src="//farm6.staticflickr.com/5565/30965282065_a68f7d217e_b.jpg" width="450" />
+<figcaption></figcaption>
+</figure>
 
 <p><br />
 J&aacute; Nassar Ibrahim, da Alternative Information Center (Centro de Informa&ccedil;&atilde;o Alternativa &ndash; AIC), destacou a criminaliza&ccedil;&atilde;o sofrida pelo movimentos sociais no Brasil. Para ele, a ofensiva que visa atacar nacionalmente o MST &eacute; parte de uma t&aacute;tica que tem como objetivo enfraquecer a luta pelas causas sociais no pa&iacute;s.</p>
