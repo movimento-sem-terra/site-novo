@@ -45,7 +45,9 @@ releated_posts:
 Nesse s&aacute;bado (12), cerca de 50 pessoas representantes de organiza&ccedil;&otilde;es do Oriente M&eacute;dio se reuniram em um ato de apoio e solidariedade ao MST em Bel&eacute;m, na Palestina.</p>
 
 <p><br />
-As entidades recha&ccedil;aram a invas&atilde;o ocorrida na Escola Nacional Florestan Fernandes (ENFF), ocorrida no &uacute;ltimo dia 4, e a tentativa de criminaliza&ccedil;&atilde;o sofrida pelo Movimento nos estados do Paran&aacute; e Mato Grosso do Sul.&nbsp;<br />
+As entidades recha&ccedil;aram a invas&atilde;o ocorrida na Escola Nacional Florestan Fernandes (ENFF), ocorrida no &uacute;ltimo dia 4, e a tentativa de criminaliza&ccedil;&atilde;o sofrida pelo Movimento nos estados do Paran&aacute; e Mato Grosso do Sul.&nbsp;</p>
+
+<p><br />
 Para Ibrahim Abu Ayyash, diretor da Union of Agricultural Work Committees (Uni&atilde;o dos Comit&ecirc;s de Trabalhadores na Agricultura &ndash; UAWC), a invas&atilde;o da ENFF &eacute; inadmiss&iacute;vel em um pa&iacute;s que valoriza sua democracia.</p>
 
 <p><br />
