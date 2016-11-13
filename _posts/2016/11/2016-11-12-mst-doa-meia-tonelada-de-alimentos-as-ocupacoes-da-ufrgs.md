@@ -27,6 +27,7 @@ created_date: "2016-11-12T15:33:37-02:00"
 published: true
 releated_posts:
   - _posts/2016/09/2016-09-06-para-o-tcu-os-assentados-estao-proibidos-de-melhorar-de-vida-diz-mst.md
+section: cover
 
 ---
 <p>&nbsp;</p>
