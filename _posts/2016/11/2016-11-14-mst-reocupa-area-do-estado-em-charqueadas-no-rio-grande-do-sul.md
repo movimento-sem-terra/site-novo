@@ -7,7 +7,7 @@ tags:
 title: "MST reocupa área do Estado em Charqueadas, no Rio Grande do Sul"
 support_line: "A ocupação exige o cumprimento de Termo de Compromisso de caráter “irretratável e irrevogável” assinado, ainda em 2014, pela CEEE e o Incra, para a criação de assentamento no local."
 menu: lutas e mobilizações
-images_hd: //farm6.staticflickr.com/5628/30901740231_f0e963307a_b.jpg
+images_hd: //farm6.staticflickr.com/5492/22811460048_2c15738929_b.jpg
 layout: post
 files:
   - link: //farm6.staticflickr.com/5628/30901740231_f0e963307a_b.jpg
