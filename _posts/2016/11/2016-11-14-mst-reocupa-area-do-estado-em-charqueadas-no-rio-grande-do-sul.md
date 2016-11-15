@@ -5,7 +5,7 @@ tags:
   - tag: rio-grande-do-sul
   - tag: lutas-e-mobilizações
 title: "MST reocupa área do Estado em Charqueadas, no Rio Grande do Sul"
-support_line: "A ocupação exige o cumprimento de Termo de Compromisso de caráter “irretratável e irrevogável” assinado, ainda em 2014, pela Companhia Estadual de Distribuição de Energia Elétrica (CEEE) e o Incra, para a criação de assentamento no local."
+support_line: "A ocupação exige o cumprimento de Termo de Compromisso de caráter “irretratável e irrevogável” assinado, ainda em 2014, pela CEEE e o Incra, para a criação de assentamento no local."
 menu: lutas e mobilizações
 images_hd: //farm6.staticflickr.com/5628/30901740231_f0e963307a_b.jpg
 layout: post
@@ -34,7 +34,7 @@ releated_posts:
 
 ---
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="20161114-mst-ocupa-charqueadas-768x576.jpg" height="525" src="//farm6.staticflickr.com/5628/30901740231_f0e963307a_b.jpg" width="700" />
+<figure class="image" style="display:inline-block"><img alt="20161114-mst-ocupa-charqueadas-768x576.jpg" height="563" src="//farm6.staticflickr.com/5628/30901740231_f0e963307a_b.jpg" width="750" />
 <figcaption>Ocupa&ccedil;&atilde;o do MST em &aacute;rea da CEEE, cobra a destina&ccedil;&atilde;o do local para assentamento, no RS.</figcaption>
 </figure>
 </div>
@@ -61,7 +61,7 @@ O documento revela o interesse do Incra em comprar o horto, que tem 1080 hectare
 
 <p>&nbsp;</p>
 
-<p><img alt="20161114-mst-ocupacao-charqueadas-768x576.jpg" height="338" src="//farm6.staticflickr.com/5492/22811460048_2c15738929_b.jpg" style="float:right" width="450" />&ldquo;O governo do Estado n&atilde;o criou nenhum assentamento nos &uacute;ltimos anos, sendo que h&aacute; &aacute;reas, como esta, com caracter&iacute;sticas para isso. Queremos que o acordo entre a CEEE e o Incra seja cumprido, e que a &aacute;rea seja destinada &agrave; reforma agr&aacute;ria para podermos produzir nossos alimentos&rdquo;, diz o acampado Laerte Lima, que lembra que esta &eacute; a terceira vez que o Movimento ocupa o im&oacute;vel desde 2014.</p>
+<p><img alt="20161114-mst-ocupacao-charqueadas-768x576.jpg" height="338" src="//farm6.staticflickr.com/5492/22811460048_2c15738929_b.jpg" style="float:left" width="450" />&ldquo;O governo do Estado n&atilde;o criou nenhum assentamento nos &uacute;ltimos anos, sendo que h&aacute; &aacute;reas, como esta, com caracter&iacute;sticas para isso. Queremos que o acordo entre a CEEE e o Incra seja cumprido, e que a &aacute;rea seja destinada &agrave; reforma agr&aacute;ria para podermos produzir nossos alimentos&rdquo;, diz o acampado Laerte Lima, que lembra que esta &eacute; a terceira vez que o Movimento ocupa o im&oacute;vel desde 2014.</p>
 
 <p>&nbsp;</p>
 
