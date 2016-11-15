@@ -61,7 +61,7 @@ O documento revela o interesse do Incra em comprar o horto, que tem 1080 hectare
 
 <p>&nbsp;</p>
 
-<p><img alt="20161114-mst-ocupacao-charqueadas-768x576.jpg" height="300" src="//farm6.staticflickr.com/5492/22811460048_2c15738929_b.jpg" style="float:left" width="400" /></p>
+<p><img alt="20161114-mst-ocupacao-charqueadas-768x576.jpg" height="338" src="//farm6.staticflickr.com/5492/22811460048_2c15738929_b.jpg" style="float:left" width="450" /></p>
 
 <p>&nbsp;</p>
 
