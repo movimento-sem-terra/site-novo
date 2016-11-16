@@ -50,7 +50,7 @@ Da P&aacute;gina do MST&nbsp;</em></p>
 Na quarta-feira, 02 de novembro, fam&iacute;lias do Vale do Rio do Doce (MG) se reuniram para implantar um sistema agroflorestal, no Assentamento Oziel Alves, Governador Valares. Este foi o primeiro plantio do projeto &ldquo;Recuperando &Aacute;reas Degradadas em Assentamentos da Reforma Agr&aacute;ria&rdquo; (RADAR), que pretende devolver &agrave; natureza 30 milh&otilde;es de mudas de &aacute;rvores nativas at&eacute; 2018.&nbsp;</p>
 
 <p><br />
-Para come&ccedil;ar, viveiros com capacidade de produzir 20 mil mudas cada um, est&atilde;o em constru&ccedil;&atilde;o no Assentamento Liberdade, vizinho ao local, e em outras 3 regi&otilde;es: Sul, Norte e Tri&acirc;ngulo Mineiro. A inten&ccedil;&atilde;o do movimento &eacute; expandir para mais 5 regi&otilde;es.&nbsp;</p>
+Para come&ccedil;ar, viveiros com capacidade de produzir 120 mil mudas cada um, est&atilde;o em constru&ccedil;&atilde;o no Assentamento Liberdade, vizinho ao local, e em outras 3 regi&otilde;es: Sul, Norte e Tri&acirc;ngulo Mineiro. A inten&ccedil;&atilde;o do movimento &eacute; expandir para mais 5 regi&otilde;es.&nbsp;</p>
 
 <p><br />
 &ldquo;Estamos apenas no come&ccedil;o do projeto, mas em pouco tempo poderemos ver o resultado em &aacute;reas que produzir&atilde;o muita &aacute;gua e alimentos, atrav&eacute;s de Sistemas Agroflorestais&rdquo;, apontou Tiago Mendes, Coordenador do Projeto. &ldquo;Esperamos tamb&eacute;m a amplia&ccedil;&atilde;o dos recursos projeto. Na vers&atilde;o original prevemos a atua&ccedil;&atilde;o em 9 regi&otilde;es do Estado&rdquo;, lembrou o coordenador.&nbsp;</p>
