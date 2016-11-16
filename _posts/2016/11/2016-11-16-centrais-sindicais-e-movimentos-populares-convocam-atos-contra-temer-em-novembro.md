@@ -46,7 +46,7 @@ As centrais sindicais e os movimentos populares organizam para este m&ecirc;s de
 Est&atilde;o programados ainda manifesta&ccedil;&otilde;es no Dia Consci&ecirc;ncia Negra, no dia 20 de novembro, e uma atividade encabe&ccedil;ada pelo Movimento dos Trabalhadores Sem Teto (MTST) contra a Proposta de Emenda &agrave; Constitui&ccedil;&atilde;o (PEC) 55, no dia 27 de novembro.&nbsp;</p>
 
 <p><br />
-Confira a vers&atilde;o em &aacute;udio da mat&eacute;ria (para baixar o arquivo, clique na seta &agrave; esquerda do bot&atilde;o compartilhar):</p>
+<a href="https://soundcloud.com/brasil-de-fato/centrais-sindicais-e-movimentos-populares-convocam-atos-contra-temer-em-novembro">Confira a vers&atilde;o em &aacute;udio da mat&eacute;ria</a> (para baixar o arquivo, clique na seta &agrave; esquerda do bot&atilde;o compartilhar)</p>
 
 <p><br />
 O coordenador nacional do MTST, Guilherme Boulos, destaca que as paralisa&ccedil;&otilde;es do &uacute;ltimo dia 11 foram s&oacute; o come&ccedil;o da press&atilde;o que os trabalhadores far&atilde;o contra o governo ileg&iacute;timo.&nbsp;</p>
