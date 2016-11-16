@@ -36,7 +36,7 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p><em>Por Pablo Vergara, Campos dos Goytacazes/RJ<br />
+<p><em>Por Pablo Vergara<br />
 Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p>&nbsp;</p>
@@ -45,7 +45,7 @@ Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p>&nbsp;</p>
 
-<p>Aproximadamente 120 crian&ccedil;as do MST do Rio de Janeiro, de diversos assentamentos e acampamentos da Reforma Agr&aacute;ria da regi&atilde;o norte-fluminense se reuniram nos dias 12 e 13 de novembro, no XIX Encontro Regional Sem Terrinha. A atividade foi realizada no Col&eacute;gio Agr&iacute;cola Ant&ocirc;nio Sarlo, no Munic&iacute;pio de Campos dos Goytacazes.</p>
+<p>Aproximadamente 120 crian&ccedil;as do MST do Rio de Janeiro, de diversos assentamentos e acampamentos da Reforma Agr&aacute;ria da regi&atilde;o norte-fluminense se reuniram no dia 12 de novembro, no XIX Encontro Regional Sem Terrinha. A atividade foi realizada no Col&eacute;gio Agr&iacute;cola Ant&ocirc;nio Sarlo, no Munic&iacute;pio de Campos dos Goytacazes.</p>
 
 <p>&nbsp;</p>
 
