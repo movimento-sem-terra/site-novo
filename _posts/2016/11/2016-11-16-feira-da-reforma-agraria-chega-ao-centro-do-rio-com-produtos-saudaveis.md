@@ -30,6 +30,7 @@ releated_posts:
   - _posts/2016/05/2016-05-27-mst-realiza-a-iii-feira-agraria-no-ceara.md
   - _posts/2016/09/2016-09-02-mst-realiza-17a-feira-da-reforma-agraria-em-maceio.md
   - _posts/2016/09/2016-09-05-mais-de-15-toneladas-de-alimentos-sao-vendidos-na-1a-feira-capixaba-de-produtos-da-reforma-agraria.md
+section: featured-news
 
 ---
 <p>&nbsp;</p>
