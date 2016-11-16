@@ -5,7 +5,7 @@ tags:
   - tag: alagoas
   - tag: reforma-agrária-popular
 title: ​Sem Terra entregam cerca de 4 toneladas de alimentos na periferia de Maceió
-support_line: "Cerca de 4 toneladas de alimentos vindo dos acampamentos e assentamentos da Reforma Agrária na Zona da Mata Alagoana, foram entregues aos moradores"
+support_line: Alimentos vieram dos acampamentos e assentamentos da Reforma Agrária na Zona da Mata Alagoana e foram entregues aos moradores da comunidade
 menu: agricultura camponesa
 section: featured-news
 images_hd: //farm6.staticflickr.com/5572/25393658539_c98531fb82_b.jpg
