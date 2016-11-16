@@ -61,8 +61,8 @@ Da P&aacute;gina do MST</em></p>
 Cerca de 4 toneladas de alimentos vindo dos acampamentos e assentamentos da Reforma Agr&aacute;ria da regi&atilde;o de Atalaia, Zona da Mata Alagoana, foram entregues aos moradores do conjunto. Milhares de sacolas com macaxeira, batata, feij&atilde;o de corda e laranja chegaram &agrave;s casas das fam&iacute;lias da comunidade que, mesmo com chuva, fizeram fila e festa para receber os alimentos das m&atilde;os dos Sem Terra.</p>
 
 <figure class="image" style="float:left"><img alt="unnamed (2).jpg" height="266" src="//farm6.staticflickr.com/5779/30728473110_c611e73cb4_b.jpg" width="370" />
-<figcaption><em>&nbsp;Ya Vera Rodrigues junto ao Maracatu Ra&iacute;zes da Tradi&ccedil;&atilde;o.<br />
-Foto: Gustavo Marinho</em></figcaption>
+<figcaption><em>&nbsp;Ya Vera Rodrigues junto ao Maracatu Ra&iacute;zes da<br />
+Tradi&ccedil;&atilde;o.&nbsp;Foto: Gustavo Marinho</em></figcaption>
 </figure>
 
 <p><br />
@@ -78,8 +78,8 @@ Ressaltando a necessidade da alian&ccedil;a entre campo e cidade, D&eacute;bora 
 &ldquo;Vivemos um momento dif&iacute;cil, onde os governantes n&atilde;o garantem sa&uacute;de, escola, moradia, trabalho... Mas j&aacute; aprendemos em nossa hist&oacute;ria que &eacute; preciso organiza&ccedil;&atilde;o e luta, seja no campo ou na cidade, para fazer com que nossos direitos sejam garantidos&rdquo;, comentou. &ldquo;&Eacute; exatamente por isso que muitas vezes nossas ocupa&ccedil;&otilde;es, lutas e marchas n&atilde;o s&atilde;o compreendidas, pois s&oacute; com organiza&ccedil;&atilde;o e luta, enfrentando o que for preciso, conquistaremos a garantia de condi&ccedil;&otilde;es dignas para a nossa vida, nosso trabalho e produzir alimentos saud&aacute;veis para abastecer a mesa do povo brasileiro&rdquo;.</p>
 
 <figure class="image" style="float:right"><img alt="unnamed (1).jpg" height="277" src="//farm6.staticflickr.com/5720/22851758228_56c2ae2af0_b.jpg" width="400" />
-<figcaption><em>&quot;&Eacute; com muita satisfa&ccedil;&atilde;o que a gente divide o resultado do nosso<br />
-trabalho na terra&rdquo;. Foto: Gustavo Marinho</em></figcaption>
+<figcaption><em>&quot;&Eacute; com muita satisfa&ccedil;&atilde;o que a gente divide o resultado<br />
+do nosso&nbsp;trabalho na terra&rdquo;. Foto: Gustavo Marinho</em></figcaption>
 </figure>
 
 <p><br />
