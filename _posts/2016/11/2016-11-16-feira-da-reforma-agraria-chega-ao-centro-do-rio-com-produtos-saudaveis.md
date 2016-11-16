@@ -52,7 +52,10 @@ Este &eacute; um evento de exposi&ccedil;&atilde;o e comercializa&ccedil;&atilde
 Durante os tr&ecirc;s dias ser&atilde;o comercializadas mais de 100 toneladas de alimentos, com in&uacute;meros produtos oriundos de assentamentos da Reforma Agr&aacute;ria no estado.&nbsp;</p>
 
 <p><br />
-Segundo a coordena&ccedil;&atilde;o do Movimento, &ldquo;a diversidade dos alimentos oferecidos surpreende os que passam pela Feira: quantas vezes pensamos nas outras possibilidades de arroz para al&eacute;m do branco?&rdquo; A feira traz v&aacute;rios tipos de arroz, suco de uva integral, frutas, polpas de frutas, feij&atilde;o vermelho e de corda, sucos, legumes, verduras, produtos derivados de cana-de- a&ccedil;&uacute;car (a&ccedil;&uacute;car mascavo, melado, rapadura), ervas medicinal, fitoter&aacute;picos e fitocosm&eacute;ticos.</p>
+Segundo a coordena&ccedil;&atilde;o do Movimento, &ldquo;a diversidade dos alimentos oferecidos surpreende os que passam pela Feira: quantas vezes pensamos nas outras possibilidades de arroz para al&eacute;m do branco?&rdquo;</p>
+
+<p><br />
+A feira traz v&aacute;rios tipos de arroz, suco de uva integral, frutas, polpas de frutas, feij&atilde;o vermelho e de corda, sucos, legumes, verduras, produtos derivados de cana-de- a&ccedil;&uacute;car (a&ccedil;&uacute;car mascavo, melado, rapadura), ervas medicinal, fitoter&aacute;picos e fitocosm&eacute;ticos.</p>
 
 <p><br />
 <a href="https://www.facebook.com/events/1633989300234308/">Confira aqui o evento no facebook e participe!&nbsp;</a></p>
