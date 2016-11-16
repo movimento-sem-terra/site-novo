@@ -8,7 +8,7 @@ title: Centrais sindicais e movimentos populares convocam atos contra Temer em n
 support_line: "Além da Marcha da Consciência Negra, no dia 20 de novembro, sindicatos organizam nova paralisação geral no dia 25"
 menu: lutas e mobilizações
 images_hd: //farm6.staticflickr.com/5762/22846096388_b33be54b9c_b.jpg
-section: cover
+section: featured-news
 layout: post
 files:
   - link: //farm6.staticflickr.com/5762/22846096388_b33be54b9c_b.jpg
