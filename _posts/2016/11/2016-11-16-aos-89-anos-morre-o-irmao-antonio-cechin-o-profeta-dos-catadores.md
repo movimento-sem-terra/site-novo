@@ -25,9 +25,16 @@ files:
     small: //farm6.staticflickr.com/5651/22852261208_385f93fa80_n.jpg
     title: Por-Ramiro-Furquim-_OAF1082.jpg
     $$hashKey: "171"
+  - link: //farm6.staticflickr.com/5331/30888581882_f4329a94f0_b.jpg
+    thumbnail: //farm6.staticflickr.com/5331/30888581882_f4329a94f0_t.jpg
+    medium: //farm6.staticflickr.com/5331/30888581882_f4329a94f0_z.jpg
+    small: //farm6.staticflickr.com/5331/30888581882_f4329a94f0_n.jpg
+    title: Por-Ramiro-Furquim-_OAF1084.jpg
+    $$hashKey: 03A
 created_date: "2016-11-16T15:26:11-02:00"
 published: true
 releated_posts: []
+label: interviews
 
 ---
 <p>&nbsp;</p>
@@ -96,7 +103,9 @@ Esta Lei das Carro&ccedil;as &eacute; desta administra&ccedil;&atilde;o. O vice-
 N&atilde;o s&oacute; o governo, &eacute; toda a sociedade que n&atilde;o tem consci&ecirc;ncia. O Brasil &eacute; o segundo pa&iacute;s do mundo em produ&ccedil;&atilde;o de lixo. As atividades dos catadores s&atilde;o vitais para a sa&uacute;de do meio ambiente. Aqui o governo criou uns cont&ecirc;ineres que todos acham uma maravilha, mas est&aacute; misturando o lixo seco com o org&acirc;nico e acabando com a mat&eacute;ria-prima dos recicladores. Por outro lado, quando vejo essas campanhas institucionais sobre a educa&ccedil;&atilde;o eu me contor&ccedil;o de raiva. Esta burguesia n&atilde;o sabe nem separar o lixo em casa e quer falar em educa&ccedil;&atilde;o! Recentemente eu conheci um projeto implantado em S&atilde;o Paulo e no Rio de Janeiro um pouco antes da Rio+20, o &ldquo;Pimp My Carro&ccedil;a&rdquo;. Eles foram em dire&ccedil;&atilde;o a uma centena de carroceiros. Um mutir&atilde;o de carpinteiros ajudou a consertar as carro&ccedil;as, artistas decoraram com grafite, ofereceram servi&ccedil;os de higiene para os trabalhadores. Me comoveu tanto ver isso que pensei: quem dera que, ao inv&eacute;s da Lei das Carro&ccedil;as, Porto Alegre pudesse ter feito isso. H&aacute; um preconceito das pessoas com os catadores, principalmente das que moram perto das unidades de reciclagem ,que se isolam com muros e grades como se estas pessoas fossem lixo.</p>
 
 <figure class="image" style="float:right"><img alt="Por-Ramiro-Furquim-_OAF1082.jpg" height="299" src="//farm6.staticflickr.com/5651/22852261208_385f93fa80_b.jpg" width="450" />
-<figcaption>Legendahttp://www.sul21.com.br/jornal/2012/12/prefeitura-de-porto-alegre-lanca-programa-para-dar-nova-opcao-de-trabalho-a-carroceiros/</figcaption>
+<figcaption><em>&ldquo;Quando vejo essas campanhas sobre educa&ccedil;&atilde;o, me contor&ccedil;o de raiva.<br />
+Esta burguesia n&atilde;o sabe nem separar o lixo em casa e quer falar em<br />
+educa&ccedil;&atilde;o!&rdquo;. Foto: Ramiro Furquim/Sul 21</em></figcaption>
 </figure>
 
 <p><br />
@@ -135,6 +144,12 @@ Algumas coisas j&aacute; est&atilde;o sendo reveladas. Assim que a Comiss&atilde
 <p><br />
 O manifesto antitradicionalista, elaborado por um grupo de missioneiros que n&atilde;o aceitam essa situa&ccedil;&atilde;o, aponta as falhas deste movimento que n&atilde;o tem nada de tradicionalista. &Eacute; um gauchismo inventado por Barbosa Lessa, Paix&atilde;o C&ocirc;rtes e outros dois jovens do Col&eacute;gio J&uacute;lio de Castilhos em 1948 que, com saudade do interior das fazendas, come&ccedil;aram com este gauchismo aqui em Porto Alegre. &Eacute; um gauchismo que n&atilde;o vem na linha do povo guarani, que criou o chimarr&atilde;o, por exemplo: &eacute; de origem a&ccedil;oriana. Os guaranis na Miss&atilde;o Jesu&iacute;ticas dos Sete Povos foram considerados por Voltaire &ndash; um dos ilustres intelectuais da Revolu&ccedil;&atilde;o Francesa &ndash; em seu romance Candido, como o maior triunfo da humanidade. Um povo de economia eminentemente solid&aacute;ria, sem moedas, apenas na conviv&ecirc;ncia por trocas. Para acabarem com esta experi&ecirc;ncia, algo completamente diferente do capitalismo trazido de Portugal, os reis da Espanha e Portugal se mancomunaram para um novo Tratado de Tordesilhas e para acabar com as miss&otilde;es aqui. Esta &eacute; a fonte da hist&oacute;ria do RS. E este grande triunfo da humanidade, que nos jogou para hist&oacute;ria global e influenciou as miss&otilde;es jesu&iacute;ticas da Argentina e Paraguai, que em 1975 foram proclamadas patrim&ocirc;nio da humanidade pela ONU, n&atilde;o &eacute; nem lembrado pela juventude de hoje. Este gauchismo de hoje, dentro dos CTGs, n&atilde;o apresenta milit&acirc;ncia em nenhum sentido para mudar alguma coisa. Para o ga&uacute;cho machista, Deus n&atilde;o pode existir porque n&atilde;o pode haver ningu&eacute;m acima dele, nem mesmo Deus pode humilh&aacute;-lo. O pai patr&atilde;o, t&iacute;pico da grande fazenda, &eacute; o c&uacute;mulo da blasf&ecirc;mia.<br />
 &ldquo;Lula firmou a classe trabalhadora no poder. Por&eacute;m, tanto ele quanto Dilma t&ecirc;m o governo, mas n&atilde;o t&ecirc;m o poder. O poder est&aacute; no dinheiro&rdquo;</p>
+
+<figure class="image" style="float:left"><img alt="Por-Ramiro-Furquim-_OAF1084.jpg" height="299" src="//farm6.staticflickr.com/5331/30888581882_f4329a94f0_b.jpg" width="450" />
+<figcaption>&rdquo;Eu costumo dizer que os mesmos que oprimem o povo pobre s&atilde;o os que<br />
+oprimem a&nbsp;natureza. Mas depois dos governos populares na Am&eacute;rica Latina,<br />
+as pessoas est&atilde;o buscando o bem viver&rdquo;<em>. Foto: Ramiro Furquim/Sul 21</em>&nbsp;</figcaption>
+</figure>
 
 <p><br />
 <strong>O senhor falou h&aacute; pouco sobre a Teologia da Liberta&ccedil;&atilde;o, que &eacute; um movimento que acaba tendo certa oposi&ccedil;&atilde;o por parte de setores mais tradicionais da Igreja&hellip;</strong></p>
