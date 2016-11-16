@@ -1,8 +1,8 @@
 ---
 date: "2016-11-16T15:07:11-02:00"
 tags: []
-title: "Aos 89 anos, morre o Irmão Antônio Cechin, o profeta dos catadores"
-support_line: "Comprometido com a causa dos catadores e carroceiros, irmão marista critica governo, movimento tradicionalista e conservadorismo na Igreja Católica"
+title: "Aos 89 anos, morre o Irmão Antônio Cechin, um lutador dos movimentos populares"
+support_line: lutador dos movimentos populares
 images_hd: //farm6.staticflickr.com/5733/30994885486_0632ae7de2_b.jpg
 menu: meio ambiente
 layout: post
@@ -32,7 +32,7 @@ files:
     title: Por-Ramiro-Furquim-_OAF1084.jpg
     $$hashKey: 03A
 created_date: "2016-11-16T15:26:11-02:00"
-published: true
+published: false
 releated_posts: []
 label: interviews
 
@@ -41,18 +41,53 @@ label: interviews
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Por-Ramiro-Furquim-_OAF1093.jpg" height="466" src="//farm6.staticflickr.com/5733/30994885486_0632ae7de2_b.jpg" width="700" />
-<figcaption><em>Conhecido nacionalmente como uma esp&eacute;cie de profeta da ecologia, fala que &ldquo;geralmente os que defendem os pobres n&atilde;o s&atilde;o ouvidos&rdquo; pela grande imprensa. Foto:&nbsp;Ramiro Furquim/Sul21</em></figcaption>
+<figcaption><em>Foto:&nbsp;Ramiro Furquim/Sul21</em></figcaption>
 </figure>
 </div>
 
-<p><br />
-<em>Do Sul 21</em></p>
+<p>Ant&ocirc;nio Chechin: Presente, presente, presente!</p>
+
+<p>Com pesar informamos o falecimento do Irm&atilde;o Ant&ocirc;nio Cechin, ocorrido na manh&atilde; desta quinta-feira (16), em Porto Alegre, Rio Grande do Sul.</p>
+
+<p>Cechin, nosso eterno grande amigo e conselheiro, nos deixou aos 89 anos de idade. Em uma vida inteira de lutas ao lado dos movimentos e organiza&ccedil;&otilde;es populares, ajudou a fundar o MST, a Comiss&atilde;o Pastoral da Terra, a Pastoral da Ecologia da CNBB, a ONG Caminho das &Aacute;guas, a Romaria da Terra e a Romaria das &Aacute;guas. Tamb&eacute;m foi o idealizador da missa em honra a Sep&eacute; Tiaraju, e teve atua&ccedil;&atilde;o direta no trabalho de mobiliza&ccedil;&atilde;o e organiza&ccedil;&atilde;o dos catadores de materiais recicl&aacute;veis.</p>
+
+<p>Um verdadeiro profeta da terra, defensor das causas populares e da reforma agr&aacute;ria, Cechin nos acompanhou desde a ocupa&ccedil;&atilde;o da antiga Fazenda Annoni, em Pont&atilde;o, na regi&atilde;o Norte do RS. Ele sempre esteve presente nos momentos de conflitos e de conquistas.</p>
+
+<p>Sua luta ao lado dos mais pobres ser&aacute; eternamente inspira&ccedil;&atilde;o para n&oacute;s, Sem Terra, continuarmos lutando pela concretiza&ccedil;&atilde;o da Reforma Agr&aacute;ria Popular. Ao companheiro Cechin, nosso eterno obrigado!</p>
+
+<p>Ant&ocirc;nio Checcin<br />
+Presente! Presente! Presente!</p>
 
 <p><br />
-O fundador da CPT-RS (Comiss&atilde;o Pastoral da Terra do Rio Grande do Sul), Ant&ocirc;nio Cechin, morreu aos 89 anos nesta quarta-feira (16). Nascido em Santa Maria/RS, no dia no dia 17 de junho de 1927, ele foi Irm&atilde;o Marista, militante dos movimentos sociais. Tamb&eacute;m foi fundador da Pastoral da Ecologia, da ONG Caminho das &Aacute;guas, do Movimento dos Trabalhadores Rurais Sem Terra (MST), criador da Romaria da Terra e da Romaria das &Aacute;guas, idealizador da missa em honra a Sep&eacute; Tiaraju. Ele estava internado no Hospital S&atilde;o Lucas da PUCRS, onde se recuperava de uma fratura na bacia.</p>
+MST/RS<br />
+Lutar, Construir, Reforma Agr&aacute;ria Popular!</p>
+
+<p><em>Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
-O vel&oacute;rio de Ant&ocirc;nio Cechin est&aacute; sendo realizado nesta quarta (16), &agrave;s 13h, na Capela dos Maristas em Viam&atilde;o, pr&oacute;ximo ao Posto da Pol&iacute;cia Rodovi&aacute;ria Federal na RS 040.</p>
+Nesta quarta-feira (16), o&nbsp;fundador da CPT-RS (Comiss&atilde;o Pastoral da Terra do Rio Grande do Sul), Ant&ocirc;nio Cechin, veio a falecer&nbsp;aos 89 anos.&nbsp;Nascido em Santa Maria/RS, no dia no dia 17 de junho de 1927, ele foi Irm&atilde;o Marista, militante dos movimentos sociais.</p>
+
+<p><br />
+Al&eacute;m de&nbsp;fundador da Pastoral da Ecologia, da ONG Caminho das &Aacute;guas, e do Movimento dos Trabalhadores Rurais Sem Terra (MST), tamb&eacute;m ajudou a&nbsp;criar&nbsp;a Romaria da Terra e da Romaria das &Aacute;guas e foi&nbsp;idealizador da missa em honra a Sep&eacute; Tiaraju. Ele estava internado no Hospital S&atilde;o Lucas da PUCRS, onde se recuperava de uma fratura na bacia.</p>
+
+<p><br />
+O vel&oacute;rio de Ant&ocirc;nio Cechin est&aacute; sendo realizado na Capela dos Maristas em Viam&atilde;o, pr&oacute;ximo ao Posto da Pol&iacute;cia Rodovi&aacute;ria Federal na RS 040.</p>
+
+<p>Ant&ocirc;nio Chechin: Presente, presente, presente!</p>
+
+<p>Com pesar informamos o falecimento do Irm&atilde;o Ant&ocirc;nio Cechin, ocorrido na manh&atilde; desta quinta-feira (16), em Porto Alegre, Rio Grande do Sul.</p>
+
+<p>Cechin, nosso eterno grande amigo e conselheiro, nos deixou aos 89 anos de idade. Em uma vida inteira de lutas ao lado dos movimentos e organiza&ccedil;&otilde;es populares, ajudou a fundar o MST, a Comiss&atilde;o Pastoral da Terra, a Pastoral da Ecologia da CNBB, a ONG Caminho das &Aacute;guas, a Romaria da Terra e a Romaria das &Aacute;guas. Tamb&eacute;m foi o idealizador da missa em honra a Sep&eacute; Tiaraju, e teve atua&ccedil;&atilde;o direta no trabalho de mobiliza&ccedil;&atilde;o e organiza&ccedil;&atilde;o dos catadores de materiais recicl&aacute;veis.</p>
+
+<p>Um verdadeiro profeta da terra, defensor das causas populares e da reforma agr&aacute;ria, Cechin nos acompanhou desde a ocupa&ccedil;&atilde;o da antiga Fazenda Annoni, em Pont&atilde;o, na regi&atilde;o Norte do RS. Ele sempre esteve presente nos momentos de conflitos e de conquistas.</p>
+
+<p>Sua luta ao lado dos mais pobres ser&aacute; eternamente inspira&ccedil;&atilde;o para n&oacute;s, Sem Terra, continuarmos lutando pela concretiza&ccedil;&atilde;o da Reforma Agr&aacute;ria Popular. Ao companheiro Cechin, nosso eterno obrigado!</p>
+
+<p>Ant&ocirc;nio Checcin<br />
+Presente! Presente! Presente!</p>
+
+<p>Movimento dos Trabalhadores Rurais Sem Terra (MST)<br />
+Lutar, Construir, Reforma Agr&aacute;ria Popular!</p>
 
 <p><br />
 Em janeiro de 2013, o Irm&atilde;o concedeu uma entrevista ao Sul21, relembre abaixo:</p>
