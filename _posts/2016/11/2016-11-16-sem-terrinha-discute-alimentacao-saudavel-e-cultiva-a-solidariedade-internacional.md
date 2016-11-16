@@ -71,6 +71,10 @@ A escola foi ocupada pelas crian&ccedil;as com muita m&iacute;stica, risos solto
 <p><br />
 O Sem Terrinha Matheus, de 9 anos, na roda de conversa l&uacute;dica sobre &ldquo;Identidade e inf&acirc;ncia Sem Terrinha&rdquo;, lembrou que antes da invas&atilde;o portuguesa, as terras do Brasil eram cuidadas apenas pelos ind&iacute;genas e que n&atilde;o havia tanta destrui&ccedil;&atilde;o como existe hoje.&nbsp;</p>
 
+<figure class="image" style="float:left"><img alt="20161112_103937.jpg" height="658" src="//farm6.staticflickr.com/5750/30992789576_32b2bab911_b.jpg" width="370" />
+<figcaption></figcaption>
+</figure>
+
 <p><br />
 &ldquo;Hoje a gente v&ecirc; a natureza destru&iacute;da pelo homem que s&oacute; quer saber de dinheiro, enquanto um monte de gente sofre no mundo&rdquo;, afirma.</p>
 
@@ -100,6 +104,10 @@ Sua avalia&ccedil;&atilde;o aponta a necessidade do conhecimento ser ocupado pel
 
 <p><br />
 Para o MST, essa constru&ccedil;&atilde;o coletiva &eacute; central para a luta em defesa dos direitos dos povos do campo, principalmente em tempos de golpe onde a Educa&ccedil;&atilde;o do Campo corre muitos riscos, com a PEC 55, a &ldquo;Lei da Morda&ccedil;a&rdquo;, e a paralisa&ccedil;&atilde;o da Reforma Agr&aacute;ria.&nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="20161112_110936.jpg" height="334" src="//farm6.staticflickr.com/5495/25392187459_7fa82771fb_b.jpg" width="450" />
+<figcaption></figcaption>
+</figure>
 
 <p><br />
 &ldquo;Estamos em um tempo que exige solidariedade entre e os esfor&ccedil;os na constru&ccedil;&atilde;o da unidade pela classe trabalhadora e de todos aqueles que est&atilde;o construindo lutas pela transforma&ccedil;&atilde;o da sociedade brasileira&rdquo;, destaca Alexandra Cordeiro.</p>
