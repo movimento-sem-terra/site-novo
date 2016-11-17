@@ -4,7 +4,7 @@ tags:
   - tag: solidariedade
   - tag: mst
   - tag: criminalização
-title: MST agradece solidariedade nacional e internacional enviada por diversos seguimentos sociais
+title: MST agradece solidariedade enviada por diversos seguimentos sociais
 support_line: "“A melhor forma é seguir lutando a cada dia contra todas as formas de opressão, em qualquer parte do mundo”"
 menu: solidariedade
 section: cover
