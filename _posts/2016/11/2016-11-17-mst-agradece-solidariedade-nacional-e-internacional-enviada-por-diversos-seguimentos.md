@@ -30,7 +30,7 @@ files:
     embed: "https://docs.google.com/uc?id=0Bwus_4SL8MWDdHJZaUZxR1B1WTg"
     $$hashKey: 0SE
 created_date: "2016-11-17T09:23:40-02:00"
-published: true
+published: false
 releated_posts:
   - _posts/2016/11/2016-11-05-tentativa-de-criminalizacao-do-mst-e-inaceitavel-diz-dilma.md
   - _posts/2016/11/2016-11-10-sem-terra-participam-de-ato-sobre-desagravo-na-assembleia-legislativa-de-minas-gerais.md
