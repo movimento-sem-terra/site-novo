@@ -66,7 +66,7 @@ O Assentamento Denis Gon&ccedil;alves recebeu as atividades, das quais participa
 <p><br />
 As crian&ccedil;as iniciaram o dia com um tradicional caf&eacute; da manh&atilde; da ro&ccedil;a, com mandioca cozida, p&atilde;o caseiro feito pelo coletivo de mulheres do Assentamento Olga Ben&aacute;rio, suco natural e iogurte feito ali mesmo, a base de leite, frutas e mandioca.</p>
 
-<figure class="image" style="float:left"><img alt="WhatsApp Image 2016-11-16 at 12.24.11.jpeg" height="299" src="//farm6.staticflickr.com/5692/31051319375_c522097553_b.jpg" width="450" />
+<figure class="image" style="float:left"><img alt="WhatsApp Image 2016-11-16 at 12.24.11.jpeg" height="266" src="//farm6.staticflickr.com/5692/31051319375_c522097553_b.jpg" width="400" />
 <figcaption><em>Foto: Dowglas Silva</em></figcaption>
 </figure>
 
@@ -82,7 +82,7 @@ Os Sem terrinhas caminharam em cortejo para a escola do assentamento, onde parti
 <p><br />
 Em seguida, divididos em n&uacute;cleos, houve uma forma&ccedil;&atilde;o sobre alimenta&ccedil;&atilde;o saud&aacute;vel. V&iacute;tor Gon&ccedil;alves, de 7 anos, deu o exemplo: &ldquo;eu n&atilde;o tomo refrigerante, gosto muito de suco. Na minha casa a gente toma suco todo dia e n&atilde;o entra refrigerante porque faz mal pra sa&uacute;de&rdquo;, comentou.</p>
 
-<figure class="image" style="float:right"><img alt="photo955605532049254541.jpg" height="299" src="//farm6.staticflickr.com/5613/30937216711_f1b033b205_b.jpg" width="450" />
+<figure class="image" style="float:right"><img alt="photo955605532049254541.jpg" height="266" src="//farm6.staticflickr.com/5613/30937216711_f1b033b205_b.jpg" width="400" />
 <figcaption><em>Foto: Dowglas Silva</em></figcaption>
 </figure>
 
