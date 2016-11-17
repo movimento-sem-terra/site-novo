@@ -17,6 +17,18 @@ files:
     small: //farm6.staticflickr.com/5479/31050293295_954466c0e0_n.jpg
     title: ocupação-araupel-quedas-do-iguaçu.jpg
     $$hashKey: 0ML
+  - link: "https://docs.google.com/uc?id=0Bwus_4SL8MWDcm5xakIyeXRvVUE&export=download"
+    thumbnail: "http://farm4.staticflickr.com/3852/15187675380_7b00f5fdff_b.jpg"
+    title: carta aos amigxs ESP.pdf
+    basename: carta aos amigxs ESP
+    embed: "https://docs.google.com/uc?id=0Bwus_4SL8MWDcm5xakIyeXRvVUE"
+    $$hashKey: 0SC
+  - link: "https://docs.google.com/uc?id=0Bwus_4SL8MWDdHJZaUZxR1B1WTg&export=download"
+    thumbnail: "http://farm4.staticflickr.com/3852/15187675380_7b00f5fdff_b.jpg"
+    title: carta aos amigxs - agradecimento solidariedade_ING.pdf
+    basename: carta aos amigxs - agradecimento solidariedade_ING
+    embed: "https://docs.google.com/uc?id=0Bwus_4SL8MWDdHJZaUZxR1B1WTg"
+    $$hashKey: 0SE
 created_date: "2016-11-17T09:23:40-02:00"
 published: true
 releated_posts:
@@ -58,7 +70,7 @@ Para o Movimento, as centenas de mensagens recebidas mostraram que se o inimigo 
 <p><iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/6XgA6CguwYU" width="640"></iframe></p>
 
 <p><br />
-<strong>Leiam&nbsp;carta de agradecimento na &iacute;ntegra&nbsp;</strong></p>
+<strong>Leiam&nbsp;carta de agradecimento na &iacute;ntegra em portugu&ecirc;s.&nbsp;Tem tamb&eacute;m vers&otilde;es em </strong><a href="https://docs.google.com/uc?id=0Bwus_4SL8MWDcm5xakIyeXRvVUE&amp;export=download">espanhol</a><strong> e </strong><a href="https://docs.google.com/uc?id=0Bwus_4SL8MWDdHJZaUZxR1B1WTg&amp;export=download">ingl&ecirc;s</a><strong>.</strong></p>
 
 <p><br />
 Queridas amigas e amigos, companheiros e companheiras,</p>
