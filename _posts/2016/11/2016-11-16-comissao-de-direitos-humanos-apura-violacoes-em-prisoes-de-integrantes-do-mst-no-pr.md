@@ -8,11 +8,17 @@ tags:
 title: Comissão de Direitos Humanos apura violações em prisões de integrantes do MST no PR
 support_line: "O foco será apurar ações de criminalização de lideranças por parte da polícia, durante a  Operação Castra, realizada no dia 04 de novembro"
 menu: direitos humanos
-images_hd: !<tag:yaml.org,2002:js/function> "function link() { [native code] }"
+images_hd: //farm6.staticflickr.com/5447/30907370252_a0690c2124_b.jpg
 section: cover
 layout: post
 files:
   - "\"Authentication failed : 'https://api.flickr.com/services/upload/' - Filetype was not recognised\""
+  - link: //farm6.staticflickr.com/5447/30907370252_a0690c2124_b.jpg
+    thumbnail: //farm6.staticflickr.com/5447/30907370252_a0690c2124_t.jpg
+    medium: //farm6.staticflickr.com/5447/30907370252_a0690c2124_z.jpg
+    small: //farm6.staticflickr.com/5447/30907370252_a0690c2124_n.jpg
+    title: revisao-direitos-humanos-1fase-oab.jpg
+    $$hashKey: 07A
 created_date: "2016-11-16T16:17:01-02:00"
 published: true
 releated_posts:
