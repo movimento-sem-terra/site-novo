@@ -51,7 +51,7 @@ Ap&oacute;s<a href="http://www.mst.org.br/2016/11/04/mais-reforma-agraria-e-fim-
 <a href="http://www.mst.org.br/2016/11/08/mst-recebe-inumeras-mensagens-de-solidariedade-em-todo-o-mundo.html">Confira compilado de notas internacionais aqui&nbsp;</a></p>
 
 <p><br />
-Diante de tamanha&nbsp;solidariedade recebida, o Movimento divulga uma carta de agradecimento em que afirma que a melhor de faz&ecirc;-lo &quot;&eacute;&nbsp;seguir lutando a cada dia contra todas as formas de&nbsp;opress&atilde;o, em qualquer parte do mundo e como o grande mestre e patrono da Escola, Florestan&nbsp;Fernandes nos ensinou &ldquo;n&atilde;o se deixar cooptar, n&atilde;o se deixar dividir, n&atilde;o se deixar esmagar, Lutar&nbsp;Sempre!&rdquo;.&nbsp;</p>
+Diante de tamanha&nbsp;solidariedade recebida, o Movimento divulga uma carta de agradecimento em que afirma que a melhor forma de faz&ecirc;-lo &quot;&eacute;&nbsp;seguir lutando a cada dia contra todas as formas de&nbsp;opress&atilde;o, em qualquer parte do mundo e como o grande mestre e patrono da Escola, Florestan&nbsp;Fernandes nos ensinou &ldquo;n&atilde;o se deixar cooptar, n&atilde;o se deixar dividir, n&atilde;o se deixar esmagar, Lutar&nbsp;Sempre!&rdquo;.&nbsp;</p>
 
 <p><br />
 <a href="http://www.mst.org.br/2016/11/10/mst-recebe-solidariedade-de-movimentos-e-personalidades-brasileiras.html">Acesse o compilado de notas nacionais aqui&nbsp;</a></p>
