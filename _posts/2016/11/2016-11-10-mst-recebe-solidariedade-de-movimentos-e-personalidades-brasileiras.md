@@ -58,3 +58,6 @@ Abaixo um compilado dos apoios recebidos em v&iacute;deo.&nbsp;</p>
 <p>&nbsp;</p>
 
 <p><iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/6XgA6CguwYU" width="640"></iframe></p>
+
+<p><br />
+<em>* Esta lista est&aacute; sendo atualizada permanentemente</em></p>
