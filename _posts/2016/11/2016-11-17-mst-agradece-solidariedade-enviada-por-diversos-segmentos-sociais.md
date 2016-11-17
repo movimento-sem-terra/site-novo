@@ -7,17 +7,11 @@ tags:
   - tag: violação-de-direitos
 title: MST agradece solidariedade enviada por diversos segmentos sociais
 support_line: "“A melhor forma é seguir lutando a cada dia contra todas as formas de opressão, em qualquer parte do mundo”"
-images_hd: //farm6.staticflickr.com/5747/31052959505_4ebd8254f5_b.jpg
+images_hd: //farm6.staticflickr.com/5828/31018729646_8ec680866d_b.jpg
 menu: solidariedade
 section: cover
 layout: post
 files:
-  - link: //farm6.staticflickr.com/5747/31052959505_4ebd8254f5_b.jpg
-    thumbnail: //farm6.staticflickr.com/5747/31052959505_4ebd8254f5_t.jpg
-    medium: //farm6.staticflickr.com/5747/31052959505_4ebd8254f5_z.jpg
-    small: //farm6.staticflickr.com/5747/31052959505_4ebd8254f5_n.jpg
-    title: MST_06142007 (cópia).jpg
-    $$hashKey: 12K
   - link: "https://docs.google.com/uc?id=0Bwus_4SL8MWDcmJNMzA4Tm5KdGM&export=download"
     thumbnail: "http://farm4.staticflickr.com/3852/15187675380_7b00f5fdff_b.jpg"
     title: carta aos amigxs-1portugues.pdf
@@ -30,6 +24,12 @@ files:
     basename: carta aos amigxs - agradecimento solidariedade_ING
     embed: "https://docs.google.com/uc?id=0Bwus_4SL8MWDd2lodmRSRFBOazQ"
     $$hashKey: 14B
+  - link: //farm6.staticflickr.com/5828/31018729646_8ec680866d_b.jpg
+    thumbnail: //farm6.staticflickr.com/5828/31018729646_8ec680866d_t.jpg
+    medium: //farm6.staticflickr.com/5828/31018729646_8ec680866d_z.jpg
+    small: //farm6.staticflickr.com/5828/31018729646_8ec680866d_n.jpg
+    title: ocupação-araupel-quedas-do-iguaçu.jpg
+    $$hashKey: 05S
 created_date: "2016-11-17T11:21:52-02:00"
 published: true
 releated_posts:
