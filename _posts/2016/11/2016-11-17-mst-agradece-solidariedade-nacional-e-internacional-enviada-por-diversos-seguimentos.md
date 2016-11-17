@@ -76,44 +76,25 @@ Para o Movimento, as centenas de mensagens recebidas mostraram que se o inimigo 
 Queridas amigas e amigos, companheiros e companheiras,</p>
 
 <p><br />
-Sexta-feira, dia 04 de novembro, acordamos com o cora&ccedil;&atilde;o apertado. Os tempos sombrios de<br />
-viol&ecirc;ncia e injusti&ccedil;a desmedida, que tivemos esperan&ccedil;a n&atilde;o se repetiriam em nosso pa&iacute;s, pairavam no ar. Estava em curso uma persegui&ccedil;&atilde;o policial ao nosso movimento, e mais que isso, uma persegui&ccedil;&atilde;o simb&oacute;lica aos valores e projeto que defendemos.</p>
+Sexta-feira, dia 04 de novembro, acordamos com o cora&ccedil;&atilde;o apertado. Os tempos sombrios de&nbsp;viol&ecirc;ncia e injusti&ccedil;a desmedida, que tivemos esperan&ccedil;a n&atilde;o se repetiriam em nosso pa&iacute;s, pairavam no ar. Estava em curso uma persegui&ccedil;&atilde;o policial ao nosso movimento, e mais que isso, uma persegui&ccedil;&atilde;o simb&oacute;lica aos valores e projeto que defendemos.</p>
 
 <p><br />
-5h Paran&aacute;: 08 pris&otilde;es. 7hs Mato Grosso do Sul: cerco a Centro de Forma&ccedil;&atilde;o do MST. 9hs Escola<br />
-Nacional Florestan Fernandes: 10 cambur&otilde;es, chutes, tiros, algemas, amea&ccedil;as de morte e duas<br />
-pris&otilde;es.&nbsp;</p>
+5h Paran&aacute;: 08 pris&otilde;es. 7hs Mato Grosso do Sul: cerco a Centro de Forma&ccedil;&atilde;o do MST. 9hs Escola&nbsp;Nacional Florestan Fernandes: 10 cambur&otilde;es, chutes, tiros, algemas, amea&ccedil;as de morte e duas&nbsp;pris&otilde;es.&nbsp;</p>
 
 <p><br />
-Nesse momento, sem saber de nada, uma poetiza maranhense citava o escritor mo&ccedil;ambicano Mia<br />
-Couto: &ldquo;Este mundo tem mais dentes que bocas. &Eacute; mais f&aacute;cil morder que beijar&rdquo;. E logo em seguida<br />
-evocava Che Guevara: &ldquo;Hay que endurecerse pero sin perder la ternura jam&aacute;s&rdquo;. O debate era parte da Semana de Arte e Cultura da ENFF a qual assistiam mais de 150 militantes de organiza&ccedil;&otilde;es e<br />
-movimentos populares de mais de 40 pa&iacute;ses de todo o mundo, o tema, a cultura popular e a batalha<br />
-de ideias, trincheira cada vez mais urgente e necess&aacute;ria.</p>
+Nesse momento, sem saber de nada, uma poetiza maranhense citava o escritor mo&ccedil;ambicano Mia&nbsp;Couto: &ldquo;Este mundo tem mais dentes que bocas. &Eacute; mais f&aacute;cil morder que beijar&rdquo;. E logo em seguida&nbsp;evocava Che Guevara: &ldquo;Hay que endurecerse pero sin perder la ternura jam&aacute;s&rdquo;. O debate era parte da Semana de Arte e Cultura da ENFF a qual assistiam mais de 150 militantes de organiza&ccedil;&otilde;es e&nbsp;movimentos populares de mais de 40 pa&iacute;ses de todo o mundo, o tema, a cultura popular e a batalha&nbsp;de ideias, trincheira cada vez mais urgente e necess&aacute;ria.</p>
 
 <p><br />
-Poderiam as palavras barrar a for&ccedil;a das armas que invadiam a escola naquele momento? Como<br />
-enfrentar a trucul&ecirc;ncia de homens raivosos sob mando de um estado que n&atilde;o respeita trabalhadores e nem mesmo crian&ccedil;as ou idosos? Resistir&iacute;amos?</p>
+Poderiam as palavras barrar a for&ccedil;a das armas que invadiam a escola naquele momento? Como&nbsp;enfrentar a trucul&ecirc;ncia de homens raivosos sob mando de um estado que n&atilde;o respeita trabalhadores e nem mesmo crian&ccedil;as ou idosos? Resistir&iacute;amos?</p>
 
 <p><br />
-Nossas armas n&atilde;o s&atilde;o as mesmas. Naquele dia, com os rostos estampados de incredibilidade,<br />
-d&uacute;vidas e mesmo medo, cantamos, falamos de poesia, gritamos por nossos direitos e, na mesma<br />
-hora, palavras de indigna&ccedil;&atilde;o, solidariedade e protesto come&ccedil;aram a chegar de todas as partes do<br />
-mundo, como se os mais de duzentos que est&aacute;vamos na escola, resistindo, se multiplicassem. O<br />
-sentimento de cerco rapidamente se transformou no calor de um abra&ccedil;o apertado. O olhar de cada<br />
-um e cada uma que se fizeram presentes nesse dia e, em especial, no dia seguinte refor&ccedil;aram nossa<br />
-confian&ccedil;a na luta. As centenas de mensagens recebidas nos mostraram que se o inimigo &eacute; forte, ainda somos muitos os que n&atilde;o esmorecemos.</p>
+Nossas armas n&atilde;o s&atilde;o as mesmas. Naquele dia, com os rostos estampados de incredibilidade,&nbsp;d&uacute;vidas e mesmo medo, cantamos, falamos de poesia, gritamos por nossos direitos e, na mesma&nbsp;hora, palavras de indigna&ccedil;&atilde;o, solidariedade e protesto come&ccedil;aram a chegar de todas as partes do&nbsp;mundo, como se os mais de duzentos que est&aacute;vamos na escola, resistindo, se multiplicassem. O&nbsp;sentimento de cerco rapidamente se transformou no calor de um abra&ccedil;o apertado. O olhar de cada&nbsp;um e cada uma que se fizeram presentes nesse dia e, em especial, no dia seguinte refor&ccedil;aram nossa&nbsp;confian&ccedil;a na luta. As centenas de mensagens recebidas nos mostraram que se o inimigo &eacute; forte, ainda somos muitos os que n&atilde;o esmorecemos.</p>
 
 <p><br />
-As palavras, em t&atilde;o diferentes idiomas, tiveram for&ccedil;a para parar, pelo menos desta vez, a for&ccedil;a das<br />
-armas e impediram que o pior acontecesse. As lutas se fizeram uma s&oacute;, uma luta por justi&ccedil;a e<br />
-dignidade, aqui e em qualquer parte do mundo.</p>
+As palavras, em t&atilde;o diferentes idiomas, tiveram for&ccedil;a para parar, pelo menos desta vez, a for&ccedil;a das&nbsp;armas e impediram que o pior acontecesse. As lutas se fizeram uma s&oacute;, uma luta por justi&ccedil;a e&nbsp;dignidade, aqui e em qualquer parte do mundo.&nbsp;</p>
 
 <p><br />
-Como retribuir tamanha solidariedade que recebemos mais uma vez e t&atilde;o prontamente na ENFF e no MST? Acreditamos que a melhor forma &eacute; seguir lutando a cada dia contra todas as formas de<br />
-opress&atilde;o, em qualquer parte do mundo e como o grande mestre e patrono da Escola, Florestan<br />
-Fernandes nos ensinou &ldquo;n&atilde;o se deixar cooptar, n&atilde;o se deixar dividir, n&atilde;o se deixar esmagar, Lutar<br />
-Sempre!&rdquo;</p>
+Como retribuir tamanha solidariedade que recebemos mais uma vez e t&atilde;o prontamente na ENFF e no MST? Acreditamos que a melhor forma &eacute; seguir lutando a cada dia contra todas as formas de&nbsp;opress&atilde;o, em qualquer parte do mundo e como o grande mestre e patrono da Escola, Florestan&nbsp;Fernandes nos ensinou &ldquo;n&atilde;o se deixar cooptar, n&atilde;o se deixar dividir, n&atilde;o se deixar esmagar, Lutar&nbsp;Sempre!&rdquo;</p>
 
 <p><br />
 Nosso caloroso e fraterno abra&ccedil;o!</p>
