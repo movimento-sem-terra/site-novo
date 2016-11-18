@@ -6,7 +6,7 @@ tags:
   - tag: "educação,-cultura-e-comunicação"
   - tag: bahia
 title: Jovens investem em formação política frente à criminalização das lutas populares
-support_line: "A atividade contou com uma programação que discutiu a democratização da comunicação como bandeira de enfrentamento às estruturas do capital e os diversos processos de criminalização "
+support_line: A atividade discutiu a democratização da comunicação como bandeira de enfrentamento às estruturas do capital e o processos de criminalização
 menu: reforma agrária
 images_hd: //farm6.staticflickr.com/5608/30940310462_91b44822b0_b.jpg
 layout: post
