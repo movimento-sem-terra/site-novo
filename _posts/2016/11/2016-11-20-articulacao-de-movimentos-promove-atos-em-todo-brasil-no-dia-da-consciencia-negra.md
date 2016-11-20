@@ -1,5 +1,5 @@
 ---
-date: "2016-11-20T16:41:58-02:00"
+date: "2016-11-20T14:41:58-02:00"
 tags:
   - tag: consciência-negra
   - tag: 20-de-novembro
@@ -25,8 +25,7 @@ releated_posts:
   - _posts/2016/09/2016-09-01-mst-repudia-golpe-e-afirma-seguir-na-luta-pela-restauracao-da-democracia-brasileira.md
 
 ---
-<p><br />
-&nbsp;</p>
+<p>&nbsp;</p>
 
 <p><em>Por Lilian Campelo<br />
 Do Brasil de Fato</em></p>
