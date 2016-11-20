@@ -9,7 +9,7 @@ title: MST agradece solidariedade enviada por diversos segmentos sociais
 support_line: "“A melhor forma é seguir lutando a cada dia contra todas as formas de opressão, em qualquer parte do mundo”"
 images_hd: //farm6.staticflickr.com/5828/31018729646_8ec680866d_b.jpg
 menu: solidariedade
-section: cover
+section: featured-news
 layout: post
 files:
   - link: "https://docs.google.com/uc?id=0Bwus_4SL8MWDcmJNMzA4Tm5KdGM&export=download"
