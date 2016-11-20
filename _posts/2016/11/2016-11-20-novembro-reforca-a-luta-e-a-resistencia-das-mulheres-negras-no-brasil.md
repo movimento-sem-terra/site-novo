@@ -22,11 +22,10 @@ releated_posts:
   - _posts/2016/11/2016-11-20-articulacao-de-movimentos-promove-atos-em-todo-brasil-no-dia-da-consciencia-negra.md
 
 ---
-<p><br />
-&nbsp;</p>
+<p>&nbsp;</p>
 
-<p>Por Elen Carvalho<br />
-Do Brasil de Fato</p>
+<p><em>Por Elen Carvalho<br />
+Do Brasil de Fato</em></p>
 
 <p><br />
 Novembro &eacute; um m&ecirc;s importante para as mulheres negras no Brasil. O dia 20- Dia da Consci&ecirc;ncia Negra - e o dia 25 - Dia Latino-americano e Caribenho pelo fim da viol&ecirc;ncia contra a mulher &ndash;s&atilde;o duas datas simb&oacute;licas para trazer &agrave; mem&oacute;ria a hist&oacute;ria de luta e resist&ecirc;ncia das mulheres negras e refletir sobre as condi&ccedil;&otilde;es atuais de vida dessa popula&ccedil;&atilde;o. Diante disso, diversos movimentos e coletivos feminista do Recife e Regi&atilde;o Metropolitana realizam a Jornada Feminista em Combate ao Racismo e &agrave; Viol&ecirc;ncia contra a Mulher, que iniciou no dia 11 e vai at&eacute; o dia 25 desse m&ecirc;s com uma vasta programa&ccedil;&atilde;o.</p>
