@@ -4,7 +4,7 @@ tags:
   - tag: criminalização
   - tag: enff
   - tag: direitos-humanos
-title: Movimentos populares e organizações sociais protocolam denúncia em órgãos públicos e espaços de defesa de direitos humanos
+title: Movimentos populares e organizações sociais protocolam denúncia em defesa dos direitos humanos
 support_line: A peça jurídica solicita informações ainda não respondidas sobre a invasão policial da Escola Florestan Fernandes e pede a responsabilização dos agentes de segurança envolvidos
 menu: direitos humanos
 images_hd: //farm6.staticflickr.com/5655/31160311316_e9502ae307_b.jpg
