@@ -18,7 +18,7 @@ files:
     title: conquista.jpg
     $$hashKey: 05Z
 created_date: "2015-09-28T09:02:06-03:00"
-published: true
+published: false
 releated_posts:
   - 2015/08/2015-08-20-durante-jornada-sem-terra-conquistam-tres-areas-emblematicas-em-minas-gerais.md
   - 2015/05/2015-05-29-secretaria-de-educacao-de-mg-lanca-diretrizes-para-a-educacao-do-campo.md
