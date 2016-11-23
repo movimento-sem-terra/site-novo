@@ -37,7 +37,7 @@ files:
     title: minas_vit.jpg
     $$hashKey: 0I7
 created_date: "2015-08-20T09:36:34-03:00"
-published: true
+published: false
 releated_posts:
   - 2015/05/2015-05-29-secretaria-de-educacao-de-mg-lanca-diretrizes-para-a-educacao-do-campo.md
   - 2013/05/2013-05-21-mst-cobra-punicao-dos-culpados-do-massacre-de-felisburgo.md
