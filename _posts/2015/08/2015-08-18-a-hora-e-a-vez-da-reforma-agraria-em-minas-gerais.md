@@ -30,7 +30,7 @@ files:
     title: "minas!!!.jpg"
     $$hashKey: 1EM
 created_date: "2015-08-18T10:04:02-03:00"
-published: true
+published: false
 releated_posts:
   - 2015/08/2015-08-18-movimentos-e-sindicatos-querem-saida-pela-esquerda-para-crise-politica-e-economica.md
   - 2015/08/2015-08-03-sem-terra-ocupam-11-ministerios-da-fazenda-em-todo-o-pais.md
