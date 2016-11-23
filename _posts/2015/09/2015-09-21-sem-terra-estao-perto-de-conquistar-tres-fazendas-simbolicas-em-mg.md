@@ -17,7 +17,7 @@ files:
     title: Mídia_NINJA5.jpg
     $$hashKey: 0QD
 created_date: "2015-09-21T14:49:05-03:00"
-published: true
+published: false
 releated_posts:
   - 2015/04/2015-04-30-antigo-latifundio-de-eucalipto-vira-assentamento-agroecologico.md
   - 2015/05/2015-05-28-governo-federal-corta-mais-de-50-dos-recursos-da-reforma-agraria.md
