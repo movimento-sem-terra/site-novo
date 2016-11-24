@@ -5,7 +5,7 @@ tags:
   - tag: produção
   - tag: produtos-orgânicos
 support_line: ​A variedade de produtos mostra os resultados da Reforma Agrária e sua capacidade de oferecer alimentos saudáveis à população brasileira
-title: "Cooperativa lança cesta de produtos da reforma agrária em Brasília "
+title: "Cooperativa lança cesta de produtos da Reforma Agrária em Brasília "
 menu: agricultura camponesa
 images_hd: //farm6.staticflickr.com/5324/30393165494_f37c3d78d0_b.jpg
 layout: post
