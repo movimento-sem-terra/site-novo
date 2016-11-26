@@ -28,7 +28,10 @@ releated_posts:
 ---
 <p>&nbsp;</p>
 
-<p><em>Da P&aacute;gina do MST&nbsp;</em></p>
+<p><img alt="15224635_1252116588181820_1581130109_o.jpg" height="259" src="//farm6.staticflickr.com/5680/31258697485_ae625f110e_b.jpg" width="700" /></p>
+
+<p><br />
+<em>Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
 Na noite desta sexta-feira (25), o revolucion&aacute;rio Fidel Castro veio a falecer. O&nbsp;governo de Cuba decretou nove dias de luto nacional, contados a partir deste s&aacute;bado (26). Havana tamb&eacute;m anunciou que o funeral de Fidel ser&aacute; no dia 4 de dezembro, no cemit&eacute;rio Santa Efig&ecirc;ncia, na cidade de Santiago de Cuba. Mas o corpo do ex-presidente deve ser cremado ainda hoje, conforme a vontade do pr&oacute;prio Fidel, informou seu irm&atilde;o e sucessor pol&iacute;tico, Ra&uacute;l Castro.</p>
