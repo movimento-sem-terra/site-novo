@@ -4,11 +4,11 @@ tags:
   - tag: lutas-e-mobilizações
   - tag: alagoas
   - tag: reforma-agrária
-title: "Sem Terra de todas as regiões de Alagoas mobilizam-se na capital contra a paralisia da Reforma Agrária\n"
+title: "Sem Terra de toda Alagoas mobilizam-se contra a paralisia da Reforma Agrária\n"
 menu: lutas e mobilizações
 section: cover
 images_hd: //farm6.staticflickr.com/5548/31296596515_0f41aafc65_b.jpg
-support_line: desde abril um Acórdão publicado pelo Tribunal de Contas da União (TCU) vem afetando a vida de 578 mil assentados e assentadas da Reforma Agrária
+support_line: Desde abril um Acórdão publicado pelo Tribunal de Contas da União (TCU) vem afetando a vida de 578 mil assentados e assentadas da Reforma Agrária
 layout: post
 files:
   - link: //farm6.staticflickr.com/5772/30928362890_cb3b0c8ded_b.jpg
