@@ -8,7 +8,7 @@ title: "Em nota, MST ressalta a importância do legado de Fidel para as geraçõ
 support_line: "\"O papel do individuo na história Fidel o preencheu com a de um Comandante Revolucionário: sábio, incansável, forte e humano.\""
 menu: solidariedade
 images_hd: //farm6.staticflickr.com/5680/31258697485_ae625f110e_b.jpg
-section: cover
+section: featured-news
 layout: post
 files:
   - link: //farm6.staticflickr.com/5680/31258697485_ae625f110e_b.jpg
