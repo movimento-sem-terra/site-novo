@@ -28,6 +28,7 @@ releated_posts:
   - _posts/2016/10/2016-10-25-sem-terra-realizam-curso-de-formacao-intersetorial-no-extremo-sul-da-bahia.md
   - _posts/2016/05/2016-05-31-mst-abre-jornada-de-alfabetizacao-no-maranhao.md
   - _posts/2016/11/2016-11-09-estudantes-de-ocupacao-na-ufba-prestam-solidariedade-ao-mst.md
+section: featured-news
 
 ---
 <p>&nbsp;</p>
