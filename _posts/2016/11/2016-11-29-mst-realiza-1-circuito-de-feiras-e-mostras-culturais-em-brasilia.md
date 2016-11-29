@@ -4,7 +4,7 @@ tags:
   - tag: reforma-agrária
   - tag: alimentação-saudável
   - tag: nossa-produção
-title: MST realiza 1° Circuito de Feiras e Mostras Culturais em Brasilia
+title: MST realiza 1° Circuito de Feiras e Mostras Culturais no Distrito Federal
 images_hd: //farm6.staticflickr.com/5443/31282018206_9178eb1f79_b.jpg
 support_line: "Serão disponibilizados pelos assentados e acampados uma diversidade de alimentos produzidos de maneira agroecológica, saudável e a preço justo"
 menu: agricultura camponesa
