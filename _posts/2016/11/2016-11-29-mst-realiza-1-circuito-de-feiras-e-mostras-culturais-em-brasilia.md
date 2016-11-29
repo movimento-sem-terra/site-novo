@@ -29,7 +29,7 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p>Mais de 500 agricultores se re&uacute;nem entre os dias&nbsp;9&nbsp;e&nbsp;11 de dezembro na Pra&ccedil;a S&atilde;o Sebasti&atilde;o em Planaltina para&nbsp;o 1&ordm; Circuito de Feiras e Mostras Culturais da Reforma Agr&aacute;ria do Distrito Federal e Entorno.</p>
+<p>Mais de 500 agricultores se re&uacute;nem entre os dias&nbsp;9&nbsp;e&nbsp;11 de dezembro, na Pra&ccedil;a S&atilde;o Sebasti&atilde;o, em&nbsp;Planaltina para&nbsp;o 1&ordm; Circuito de Feiras e Mostras Culturais da Reforma Agr&aacute;ria do Distrito Federal e Entorno.</p>
 
 <p><br />
 Ser&atilde;o disponibilizados pelos assentados e acampados&nbsp;da regional do noroeste mineiro, nordeste goiano e do Distrito Federal uma diversidade de alimentos produzidos de maneira agroecol&oacute;gica, saud&aacute;vel e a&nbsp;pre&ccedil;o justo.</p>
