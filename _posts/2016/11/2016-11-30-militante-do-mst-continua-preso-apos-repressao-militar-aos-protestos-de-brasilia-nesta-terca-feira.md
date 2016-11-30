@@ -5,7 +5,7 @@ tags:
   - tag: repressão
   - tag: direitos-humanos
 images_hd: //farm6.staticflickr.com/5581/30516493904_0835cbe7b5_b.jpg
-title: Militante do MST continua preso após repressão militar aos protestos de Brasília nesta terça-feira
+title: Militante do MST continua preso após repressão militar aos protestos de Brasília
 support_line: "O único manifestante que participou do protesto contra a PEC 55, realizado na tarde de terça-feira (29/11), que continua preso é Bruno Leandro de Oliveira Maciel, coordenador regional do MST-DFE."
 menu: direitos humanos
 layout: post
@@ -36,7 +36,7 @@ releated_posts:
 <p>Ap&oacute;s momentos de desespero devido &agrave; repress&atilde;o da pol&iacute;cia ao protesto organizado nesta ter&ccedil;a-feira (29) em Bras&iacute;lia contra a a PEC dos gastos p&uacute;blicos, o saldo foi de perdas, desaparecimentos, indigna&ccedil;&atilde;o e, distante completamente da vontade popular, a aprova&ccedil;&atilde;o pelo Senado em primeiro turno ao final do dia, com 55 votos a favor, do congelamento por vinte anos dos or&ccedil;amentos de sa&uacute;de, educa&ccedil;&atilde;o e outras &aacute;reas essenciais.</p>
 
 <p><br />
-Segundo a Uni&atilde;o Nacional dos Estudantes (UNE), 21 pessoas foram detidas durante os protestos, mas liberadas em seguida. Um militante, contudo, continua preso. &Eacute; o estudante de Gest&atilde;o Ambiental Bruno Leandro de Oliveira Maciel, do campus Planaltina da Universidade de Bras&iacute;lia (UnB) e acampado da Reforma Agr&aacute;ria no Distrito Federal.</p>
+Segundo a Uni&atilde;o Nacional dos Estudantes (UNE), 21 pessoas foram detidas durante os protestos, mas liberadas em seguida. Um militante, contudo, continua preso. &Eacute; o estudante de Gest&atilde;o Ambiental Bruno Leandro de Oliveira Maciel, do campus Planaltina da Universidade de Bras&iacute;lia (UnB), 36 anos e acampado da Reforma Agr&aacute;ria no Acampamento Roseli Nunes.</p>
 
 <p><br />
 Bruno, que &eacute; coordenador regional do MST, teve negados direitos b&aacute;sicos, como acesso a advogado e possibilidade de liga&ccedil;&atilde;o ap&oacute;s ser detido. Somente no final da manh&atilde; desta quarta-feira (30), o Setor de Direitos Humanos do MST no Distrito Federal e Entorno p&ocirc;de ter acesso ao militante, que denuncia ter sido encapuzado e torturado.</p>
