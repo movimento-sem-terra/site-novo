@@ -45,7 +45,7 @@ releated_posts:
 
 ---
 <figure class="image"><img alt="Estudantes de todas as regiões do país participaram do ato contra a PEC de congelamento dos gastos sociais. Foto Lula Marques.jpg" height="467" src="//farm6.staticflickr.com/5688/31335295105_71ca2e0a62_b.jpg" width="700" />
-<figcaption>Manifestantes em Bras&iacute;lia contra a PEC 55</figcaption>
+<figcaption>Manifestantes em Bras&iacute;lia contra a PEC 55. Foto: Lula Marques/Ag&ecirc;ncia PT.</figcaption>
 </figure>
 
 <p>&nbsp;</p>
@@ -97,7 +97,7 @@ Desde a apresenta&ccedil;&atilde;o da mat&eacute;ria em maio deste ano, parlamen
 No entanto, como previam membros da base de governo em an&uacute;ncio realizado nesta segunda-feira (28), o texto-base foi aprovado &agrave;s 22h40 pelo Senado por maioria ampla: 61 votos favor&aacute;veis &agrave; PEC e 14 contr&aacute;rios. N&atilde;o houve absten&ccedil;&otilde;es. As emendas que propunham a exclus&atilde;o das despesas da sa&uacute;de e educa&ccedil;&atilde;o no novo regime fiscal e a realiza&ccedil;&atilde;o de um referendo popular, para consulta &agrave; popula&ccedil;&atilde;o sobre a medida, tamb&eacute;m foram rejeitadas.</p>
 
 <figure class="image"><img alt="A policia militar do Distrito Federal fez uso de bombas de lacrimogêmio e balas de borracha contra os manifestantes em frente ao Congresso Nacional. Foto Lula Marques.jpg" height="400" src="//farm6.staticflickr.com/5687/30513008364_679e437ebd_b.jpg" width="600" />
-<figcaption>Bombas sendo jogadas contra os manifestantes em Bras&iacute;lia&nbsp;</figcaption>
+<figcaption>Bombas sendo jogadas contra os manifestantes em Bras&iacute;lia. Foto: Lula Marques/Ag&ecirc;ncia PT.</figcaption>
 </figure>
 
 <p>&nbsp;</p>
@@ -128,7 +128,7 @@ Por press&atilde;o da bancada de oposi&ccedil;&atilde;o ao governo e movimentos 
 <p>A medida tamb&eacute;m incidir&aacute; sobre leis estaduais e municipais e em pol&iacute;ticas relacionadas ao funcionalismo p&uacute;blico e valor do sal&aacute;rio m&iacute;nimo. De acordo com o economista e professor da USP, M&aacute;rcio Pochmann, <a href="http://www.mst.org.br/2016/11/23/a-pec-do-teto-dos-gastos-e-contra-o-povo-e-a-favor-do-rentismo-declara-o-economista-marcio-pochmann.html">em entrevista ao MST</a>, a aprova&ccedil;&atilde;o da PEC viola um acordo pol&iacute;tica estabelecido pela Constitui&ccedil;&atilde;o de 1988 no qual determinava os gastos sociais como principais determinantes da pol&iacute;tica econ&ocirc;mica. Para ele, a desvincula&ccedil;&atilde;o dos gastos sociais com o or&ccedil;amento p&uacute;blico desloca a economia de lugar central para o desenvolvimento humano. &nbsp;&ldquo;Com esta medida n&oacute;s possivelmente teremos um retrocesso, de forma que a economia passa a ser um fim em si mesmo e o gasto social um mero atributo da economia&rdquo;, diz.&nbsp;</p>
 
 <figure class="image"><img alt="Policia militar responde à manifestação com bombas de lacrimogênio e balas de borracha. Foto Bruno Pillon.jpg" height="466" src="//farm6.staticflickr.com/5665/30513008704_9b863eae72_b.jpg" width="700" />
-<figcaption>Bombas sendo jogadas contra os manifestantes em Bras&iacute;lia&nbsp;</figcaption>
+<figcaption>Bombas sendo jogadas contra os manifestantes em Bras&iacute;lia. Foto: Bruno Pillon/MPA</figcaption>
 </figure>
 
 <p><br />
