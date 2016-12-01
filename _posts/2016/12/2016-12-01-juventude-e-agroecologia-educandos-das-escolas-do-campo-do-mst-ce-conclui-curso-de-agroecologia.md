@@ -4,9 +4,9 @@ tags:
   - tag: juventude
   - tag: ceará
   - tag: agroecologia
-title: "Juventude e Agroecologia: Educandos das Escolas do Campo do MST-CE, Conclui Curso de Agroecologia."
+title: Educandos das Escolas do Campo do MST-CE concluem Curso de Agroecologia.
 menu: agricultura camponesa
-support_line: "o curso deixou em cada participante a certeza de que a educação em agroecologia não se constrói sem resistência, luta, rebeldia e compromisso."
+support_line: "O curso deixou em cada participante a certeza de que a educação em agroecologia não se constrói sem resistência, luta, rebeldia e compromisso."
 images_hd: //farm6.staticflickr.com/5569/31210555282_891e750952_b.jpg
 layout: post
 files:
