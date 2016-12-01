@@ -30,8 +30,8 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p>Por Catiana de Medeiros<br />
-Da P&aacute;gina do MST</p>
+<p><em>Por Catiana de Medeiros<br />
+Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
