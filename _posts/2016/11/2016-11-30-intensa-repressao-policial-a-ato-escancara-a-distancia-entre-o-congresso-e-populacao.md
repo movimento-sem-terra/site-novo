@@ -5,7 +5,7 @@ tags:
   - tag: repressão
   - tag: michel-temer
 title: Intensa repressão policial à ato escancara a distância entre o Congresso e população
-support_line: A tramitação da PEC 55 que congela gastos sociais por 20 anos segue pelo Senado à revelia do ato desta terça (29) fortemente reprimido e consulta pública contrário à matéria
+support_line: A tramitação da PEC 55 que congela gastos sociais por 20 anos segue pelo Senado à revelia do ato desta terça (29) fortemente reprimido e consulta pública contrária à matéria
 menu: direitos humanos
 section: cover
 images_hd: //farm6.staticflickr.com/5792/31220329041_2e793bc5da_b.jpg
@@ -54,7 +54,7 @@ releated_posts:
 Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
-Estudantes secundaristas e universit&aacute;rios, trabalhadores do servi&ccedil;o p&uacute;blico, movimentos populares e organiza&ccedil;&otilde;es sociais reunidas em Bras&iacute;lia-DF, nesta ter&ccedil;a-feira (29), em ato nacional contra a Proposta de Emenda Constitucional (PEC) 33/16 (antiga 241), de autoria da equipe econ&ocirc;mica de Michel Temer (PMDB), foram fortemente reprimidos pela pol&iacute;cia militar do Distrito Federal. &nbsp;</p>
+Estudantes secundaristas e universit&aacute;rios, trabalhadores do servi&ccedil;o p&uacute;blico, movimentos populares e organiza&ccedil;&otilde;es sociais reunidas em Bras&iacute;lia-DF, nesta ter&ccedil;a-feira (29), em ato nacional contra a Proposta de Emenda Constitucional (PEC) 55/16 (antiga 241), de autoria da equipe econ&ocirc;mica de Michel Temer (PMDB), foram fortemente reprimidos pela pol&iacute;cia militar do Distrito Federal. &nbsp;</p>
 
 <p><br />
 A marcha iniciada na catedral, com participa&ccedil;&atilde;o de cerca de 30 mil pessoas, segundo organizadores do ato, dirigiu-se sem grandes intercorr&ecirc;ncias pela Esplanada. Ao posicionarem-se em frente ao Congresso Nacional para acompanhar a vota&ccedil;&atilde;o da PEC em 1&ordm; turno pelo Senado, o conjunto dos manifestantes contr&aacute;rios &agrave; mat&eacute;ria que estabelece o limite de gastos prim&aacute;rios da Uni&atilde;o para os pr&oacute;ximos 20 anos foi alvo de bombas de g&aacute;s lacrimog&ecirc;nio, spray de pimenta e tiros de borracha.&nbsp;</p>
