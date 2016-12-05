@@ -65,7 +65,9 @@ A agroind&uacute;stria que beneficiar&aacute; frutas e castanha de caju tem sua 
 &ldquo;Esse &eacute; um momento muito importante para todos os que lutam pela Reforma Agr&aacute;ria. &Eacute; um passo firme que o nosso movimento d&aacute; na gera&ccedil;&atilde;o de emprego e renda para as fam&iacute;lias assentadas da Reforma Agr&aacute;ria e pequenos agricultores da regi&atilde;o&rdquo;, refor&ccedil;ou D&eacute;bora Nunes, da coordena&ccedil;&atilde;o nacional do MST.</p>
 
 <p><br />
-Segundo a coordenadora do movimento, que tamb&eacute;m integra o Setor de Produ&ccedil;&atilde;o do MST, a agroind&uacute;stria deve gerar 38 empregos diretos e mais de 700 indiretos a partir da produ&ccedil;&atilde;o. Com &aacute;rea de 250 m&sup2;, a agroind&uacute;stria produzir&aacute; 16 produtos, entre doce em calda, doce em pasta, polpa de frutas e castanha de caju.<br />
+Segundo a coordenadora do movimento, que tamb&eacute;m integra o Setor de Produ&ccedil;&atilde;o do MST, a agroind&uacute;stria deve gerar 38 empregos diretos e mais de 700 indiretos a partir da produ&ccedil;&atilde;o. Com &aacute;rea de 250 m&sup2;, a agroind&uacute;stria produzir&aacute; 16 produtos, entre doce em calda, doce em pasta, polpa de frutas e castanha de caju.</p>
+
+<p><br />
 Gerida pela Cooperativa de Produ&ccedil;&atilde;o Agropecu&aacute;ria da Reforma Agr&aacute;ria no Sert&atilde;o (CooperaSert&atilde;o), a Agroind&uacute;stria da Reforma Agr&aacute;ria, como ser&aacute; batizada, receber&aacute; produtos dos camponeses e camponesas da regi&atilde;o e deve comercializar seus produtos beneficiados nos mercados convencional e institucional.&nbsp;</p>
 
 <figure class="image"><img alt="IMG_2825.JPG" height="468" src="//farm6.staticflickr.com/5762/31322071501_c22530f762_b.jpg" width="700" />
