@@ -16,6 +16,12 @@ files:
     small: //farm6.staticflickr.com/5558/31292197782_a10bdec78b_n.jpg
     title: 29395671841_01b1390493_b.jpg
     $$hashKey: 0F3
+  - link: //farm6.staticflickr.com/5580/30617856424_c71a2f1bb4_b.jpg
+    thumbnail: //farm6.staticflickr.com/5580/30617856424_c71a2f1bb4_t.jpg
+    medium: //farm6.staticflickr.com/5580/30617856424_c71a2f1bb4_z.jpg
+    small: //farm6.staticflickr.com/5580/30617856424_c71a2f1bb4_n.jpg
+    title: "Banner__9x1,2m__4-0.png"
+    $$hashKey: 1IL
 created_date: "2016-12-05T12:48:06-02:00"
 published: true
 releated_posts:
@@ -67,3 +73,7 @@ De acordo com o extinto Minist&eacute;rio do Desenvolvimento Agr&aacute;rio a pe
 
 <p><br />
 O 1&ordf; Circuito inclui tamb&eacute;m manifesta&ccedil;&otilde;es culturais diversas, entre elas a exibi&ccedil;&atilde;o de filmes, oficinas de stencil e percuss&atilde;o e apresenta&ccedil;&otilde;es musicais de viola, samba de roda, rap e coco.</p>
+
+<p>&nbsp;</p>
+
+<p style="text-align:center"><img alt="Banner__9x1,2m__4-0.png" height="667" src="//farm6.staticflickr.com/5580/30617856424_c71a2f1bb4_b.jpg" width="500" /></p>
