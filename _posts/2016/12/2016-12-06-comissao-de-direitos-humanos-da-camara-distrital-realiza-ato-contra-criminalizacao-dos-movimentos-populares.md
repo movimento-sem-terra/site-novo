@@ -4,7 +4,7 @@ tags:
   - tag: criminalização
   - tag: direitos-humanos
   - tag: violação-de-direitos
-title: Comissão de Direitos Humanos da Câmara Distrital realiza ato contra criminalização dos movimentos populares
+title: CDH da Câmara Distrital realiza ato contra criminalização dos movimentos populares
 support_line: "Fatos recentes como as desocupações violentas das escolas secundaristas, a repressão policial à manifestações e detenção de lideranças serão abordados na atividade"
 menu: direitos humanos
 images_hd: //farm6.staticflickr.com/5690/31423162316_a06cf3af73_b.jpg
