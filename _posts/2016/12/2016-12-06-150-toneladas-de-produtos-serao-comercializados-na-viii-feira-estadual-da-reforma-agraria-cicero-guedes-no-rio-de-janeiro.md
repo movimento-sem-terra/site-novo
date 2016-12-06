@@ -4,8 +4,8 @@ tags:
   - tag: feira-da-reforma-agrária
   - tag: produção
   - tag: rio-de-janeiro
-title: 150 toneladas de produtos serão comercializados na VIII Feira Estadual da Reforma Agrária Cícero Guedes no Rio de Janeiro
-support_line: "Durante os três dias serão comercializados cerca de 150 toneladas de produtos, entre alimentos in natura e industrializados, fitoterápicos, fitocosméticos e artesanatos"
+title: 150 toneladas de produtos serão comercializados na VIII Feira Estadual da Reforma Agrária no RJ
+support_line: "Na feira também é possível encontrar alimentos in natura, fitoterápicos, fitocosméticos e artesanatos"
 menu: agricultura camponesa
 images_hd: //farm6.staticflickr.com/5498/31422888926_ff2aea74ca_b.jpg
 section: cover
