@@ -23,6 +23,7 @@ releated_posts:
   - _posts/2016/09/2016-09-02-em-nota-mst-repudia-violencia-da-policia-militar-do-estado-de-sao-paulo.md
   - _posts/2016/11/2016-11-30-intensa-repressao-policial-a-ato-escancara-a-distancia-entre-o-congresso-e-populacao.md
   - _posts/2016/08/2016-08-23-acampamento-marli-pereira-da-silva-completa-sete-anos-de-resistencia.md
+section: cover
 
 ---
 <p>&nbsp;</p>
@@ -34,10 +35,16 @@ Foto de Capa: M&iacute;dia Ninja</em></p>
 
 <p>&nbsp;</p>
 
-<p>Durante a realiza&ccedil;&atilde;o da VIII Feira Estadual da Reforma Agr&aacute;ria C&iacute;cero Guedes, no Rio de Janeiro, os feirantes e p&uacute;blico visitante teve que lidar com uma situa&ccedil;&atilde;o inesperada. Pela primeira vez em oito edi&ccedil;&otilde;es, as atividades tiveram que ser interrompidas antes do hor&aacute;rio. Tudo isso ocorreu em fun&ccedil;&atilde;o da batalha campal orquestrada pelas for&ccedil;as policiais contra trabalhadores e trabalhadoras do servi&ccedil;o p&uacute;blico estadual que protestavam contra o &quot;Pacote de Maldades&quot; do governo do RJ para jogar no lombo da classe trabalhadora os resultados da crise.</p>
+<p>Durante a realiza&ccedil;&atilde;o da VIII Feira Estadual da Reforma Agr&aacute;ria C&iacute;cero Guedes, no Rio de Janeiro, os feirantes e p&uacute;blico visitante teve que lidar com uma situa&ccedil;&atilde;o inesperada. Pela primeira vez em oito edi&ccedil;&otilde;es, as atividades tiveram que ser interrompidas antes do hor&aacute;rio.</p>
 
 <p><br />
-&quot;Infelizmente, a trucul&ecirc;ncia alcan&ccedil;ou a nossa Feira e tivemos que, pela primeira vez em oito edi&ccedil;&otilde;es, encerrar as atividades mais cedo, visando preservar a seguran&ccedil;a dos feirantes de todas as idades, bem como o enorme p&uacute;blico que assistia a apresenta&ccedil;&atilde;o cultural&quot;, classificou em nota a organiza&ccedil;&atilde;o do evento. Neste sentido, os camponeses que seguem em Feira at&eacute; o final desta quarta-feira (7), se solidarizaram com as v&iacute;timas dessa trucul&ecirc;ncia policial.</p>
+Tudo isso ocorreu em fun&ccedil;&atilde;o da batalha campal orquestrada pelas for&ccedil;as policiais contra trabalhadores e trabalhadoras do servi&ccedil;o p&uacute;blico estadual que protestavam contra o &quot;Pacote de Maldades&quot; do governo do RJ para jogar no lombo da classe trabalhadora os resultados da crise.</p>
+
+<p><br />
+&quot;Infelizmente, a trucul&ecirc;ncia alcan&ccedil;ou a nossa Feira e tivemos que, pela primeira vez em oito edi&ccedil;&otilde;es, encerrar as atividades mais cedo, visando preservar a seguran&ccedil;a dos feirantes de todas as idades, bem como o enorme p&uacute;blico que assistia a apresenta&ccedil;&atilde;o cultural&quot;, classificou em nota a organiza&ccedil;&atilde;o do evento.</p>
+
+<p><br />
+Neste sentido, os camponeses que seguem em Feira at&eacute; o final desta quarta-feira (7), se solidarizaram com as v&iacute;timas dessa trucul&ecirc;ncia policial.</p>
 
 <p><br />
 Confira a nota emitida:</p>
