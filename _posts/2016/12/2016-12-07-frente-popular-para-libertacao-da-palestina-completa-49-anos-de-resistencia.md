@@ -7,15 +7,21 @@ title: Frente Popular para Libertação da Palestina completa 49 anos de resist�
 support_line: "O MST reafirma a aliança com o povo palestino contra o colonialismo, pelo direito ao retorno dos refugiados e por um Estado Palestino único nas fronteiras históricas."
 menu: solidariedade
 section: featured-news
-images_hd: //farm6.staticflickr.com/5601/31487306305_cbb1b659aa_b.jpg
+images_hd: //farm6.staticflickr.com/5656/30646425464_6461f1f68d_b.jpg
 layout: post
 files:
-  - link: //farm6.staticflickr.com/5601/31487306305_cbb1b659aa_b.jpg
-    thumbnail: //farm6.staticflickr.com/5601/31487306305_cbb1b659aa_t.jpg
-    medium: //farm6.staticflickr.com/5601/31487306305_cbb1b659aa_z.jpg
-    small: //farm6.staticflickr.com/5601/31487306305_cbb1b659aa_n.jpg
+  - link: //farm6.staticflickr.com/5656/30646425464_6461f1f68d_b.jpg
+    thumbnail: //farm6.staticflickr.com/5656/30646425464_6461f1f68d_t.jpg
+    medium: //farm6.staticflickr.com/5656/30646425464_6461f1f68d_z.jpg
+    small: //farm6.staticflickr.com/5656/30646425464_6461f1f68d_n.jpg
+    title: palestina corte.jpg
+    $$hashKey: 0II
+  - link: //farm6.staticflickr.com/5822/31341123502_704d06f0dd_b.jpg
+    thumbnail: //farm6.staticflickr.com/5822/31341123502_704d06f0dd_t.jpg
+    medium: //farm6.staticflickr.com/5822/31341123502_704d06f0dd_z.jpg
+    small: //farm6.staticflickr.com/5822/31341123502_704d06f0dd_n.jpg
     title: WhatsApp Image 2016-12-07 at 14.49.28.jpeg
-    $$hashKey: "030"
+    $$hashKey: 0IL
 created_date: "2016-12-07T15:16:59-02:00"
 published: true
 releated_posts:
@@ -49,8 +55,13 @@ Para: Frente Popular para a Liberta&ccedil;&atilde;o da Palestina (FPLP)</p>
 <p style="text-align: center;"><br />
 <strong>HOMENAGEM PELOS 49 ANOS DE LUTA CONTRA O COLONIALISMO, PELO DIREITO AO RETORNO E PELA LIBERTA&Ccedil;&Atilde;O NACIONAL!</strong></p>
 
-<p><br />
-O Movimento dos Trabalhadores Rurais Sem Terra - MST Brasil, vem homenagear os militantes e m&aacute;rtires da FPLP e de toda a resist&ecirc;ncia palestina nesse anivers&aacute;rio de 49 anos de uma organiza&ccedil;&atilde;o que luta por paz, justi&ccedil;a e direitos humanos na Palestina. A luta anticolonialista sempre foi uma luta prolongada, com momentos de ofensiva e defensiva, com erros e acertos, mas quando uma causa &eacute; justa a vit&oacute;ria &eacute; certa. Quanto tempo e quantas dificuldades n&atilde;o sofreram os povos do Vietn&atilde; e da &Aacute;frica do Sul antes que pudessem se ver livres do colonialismo e do regime do Apartheid? Mas eles venceram, e nenhuma for&ccedil;a militar, por mais poderosa, conseguiu impedir a marcha do povo pela sua liberta&ccedil;&atilde;o. Assim ser&aacute; na Palestina. O caminho da luta e da resist&ecirc;ncia &eacute; o caminho da justi&ccedil;a e da vit&oacute;ria.</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="WhatsApp Image 2016-12-07 at 14.49.28.jpeg" height="450" src="//farm6.staticflickr.com/5822/31341123502_704d06f0dd_b.jpg" width="306" />
+<figcaption></figcaption>
+</figure>
+
+<p>O Movimento dos Trabalhadores Rurais Sem Terra - MST Brasil, vem homenagear os militantes e m&aacute;rtires da FPLP e de toda a resist&ecirc;ncia palestina nesse anivers&aacute;rio de 49 anos de uma organiza&ccedil;&atilde;o que luta por paz, justi&ccedil;a e direitos humanos na Palestina. A luta anticolonialista sempre foi uma luta prolongada, com momentos de ofensiva e defensiva, com erros e acertos, mas quando uma causa &eacute; justa a vit&oacute;ria &eacute; certa. Quanto tempo e quantas dificuldades n&atilde;o sofreram os povos do Vietn&atilde; e da &Aacute;frica do Sul antes que pudessem se ver livres do colonialismo e do regime do Apartheid? Mas eles venceram, e nenhuma for&ccedil;a militar, por mais poderosa, conseguiu impedir a marcha do povo pela sua liberta&ccedil;&atilde;o. Assim ser&aacute; na Palestina. O caminho da luta e da resist&ecirc;ncia &eacute; o caminho da justi&ccedil;a e da vit&oacute;ria.</p>
 
 <p><br />
 A luta anticolonialista &eacute; uma luta justa, que tem apoio no direito internacional e nas pr&oacute;prias resolu&ccedil;&otilde;es da ONU. O movimento de liberta&ccedil;&atilde;o nacional na Palestina &eacute; um movimento de leg&iacute;tima defesa diante da ilegal ocupa&ccedil;&atilde;o colonialista do chamado &ldquo;Estado de Israel&rdquo;. A ONU n&atilde;o tinha o direito de dividir a Palestina em 29 de novembro de 1947. As causas do conflito atual s&atilde;o o colonialismo sionista, o colonialismo brit&acirc;nico, a partilha da Palestina e a cria&ccedil;&atilde;o do Estado de Israel, pois antes desses fen&ocirc;menos pol&iacute;ticos e sociais judeus, crist&atilde;os e mu&ccedil;ulmanos viviam em paz e coexist&ecirc;ncia pac&iacute;fica em todo o territ&oacute;rio da Palestina. Os fracassos de Oslo s&oacute; tem fortalecido cada vez mais a ideia de que no futuro dever&aacute; existir um Estado Palestino &uacute;nico, laico e democr&aacute;tico, em toda a Palestina hist&oacute;rica, onde todos os cidad&atilde;os ter&atilde;o direitos iguais, independente da religi&atilde;o ou posi&ccedil;&atilde;o pol&iacute;tica.</p>
