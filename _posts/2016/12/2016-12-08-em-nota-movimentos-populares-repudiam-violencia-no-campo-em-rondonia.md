@@ -4,7 +4,7 @@ tags:
   - tag: violação-de-direitos
   - tag: rondonia
   - tag: movimentos-populares
-title: "Em nota, Movimentos populares repudiam violência no campo em Rondônia"
+title: Movimentos populares e de Direitos Humanos repudiam violência no campo em Rondônia
 support_line: “Conclamamos solidariedade a todas as organizações nacionais e internacionais que respeitam a vida e os direitos humanos”
 section: featured-news
 menu: direitos humanos
