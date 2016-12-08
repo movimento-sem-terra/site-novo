@@ -28,9 +28,12 @@ releated_posts:
   - _posts/2016/11/2016-11-25-i-encontro-estadual-de-professores-do-mst-e-realizado-no-rio-de-janeiro.md
   - _posts/2016/11/2016-11-25-centrais-fazem-novo-ato-nacional-nesta-sexta-contra-reformas.md
   - _posts/2016/09/2016-09-08-organizacoes-do-campo-afirmam-continuidade-das-mobilizacoes-apos-acampamento-unitario.md
+section: cover
 
 ---
-<p>&nbsp;</p>
+<figure class="image"><img alt="8c23455a3a4305014fddf5199464dcc7.jpg" src="//farm6.staticflickr.com/5831/31471841976_ceffee2ea3_b.jpg" />
+<figcaption>Cr&eacute;dito: Lidyane Ponciano&nbsp;</figcaption>
+</figure>
 
 <p><em>Da P&aacute;gina do MST&nbsp;</em></p>
 
