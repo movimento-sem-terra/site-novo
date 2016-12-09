@@ -4,11 +4,11 @@ tags:
   - tag: feira-da-reforma-agrária
   - tag: produção
   - tag: rio-de-janeiro
-title: 150 toneladas de produtos serão comercializados na VIII Feira Estadual da Reforma Agrária no RJ
+title: 150 toneladas de produtos serão comercializados na VIII Feira da Reforma Agrária no RJ
 support_line: "Na feira também é possível encontrar alimentos in natura, fitoterápicos, fitocosméticos e artesanatos"
 menu: agricultura camponesa
 images_hd: //farm6.staticflickr.com/5498/31422888926_ff2aea74ca_b.jpg
-section: cover
+section: featured-news
 sector: production
 layout: post
 files:
