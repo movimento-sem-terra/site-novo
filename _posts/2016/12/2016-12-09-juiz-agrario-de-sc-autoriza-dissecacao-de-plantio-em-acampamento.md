@@ -46,6 +46,10 @@ O documento alega que as fam&iacute;lias arrendam as terras. Por&eacute;m, o que
 <p><br />
 Osvaldo comenta que desde o in&iacute;cio as fam&iacute;lias dividiram o espa&ccedil;o de plantio e chegaram a um consenso de quantos ha cada um conseguiria plantar. Muitos plantaram de 5 a 10 ha e como tinha dificuldades com os maquin&aacute;rios acabaram conseguindo emprestado.</p>
 
+<figure class="image" style="float:left"><img alt="IMG_2429.JPG" height="267" src="//farm1.staticflickr.com/357/31422714751_b9463211af_b.jpg" width="400" />
+<figcaption></figcaption>
+</figure>
+
 <p><br />
 O acampamento tem aproximadamente 62 fam&iacute;lias acampadas. Elas aguardam uma resposta, pois dependem desse plantio para sobreviver no pr&oacute;ximo per&iacute;odo.</p>
 
