@@ -28,6 +28,12 @@ files:
     small: //farm1.staticflickr.com/43/31421835811_60a7756bcc_n.jpg
     title: 803712359_149174_7120916527099035402.jpg
     $$hashKey: "054"
+  - link: //farm1.staticflickr.com/421/31165742330_2e9d8fef90_b.jpg
+    thumbnail: //farm1.staticflickr.com/421/31165742330_2e9d8fef90_t.jpg
+    medium: //farm1.staticflickr.com/421/31165742330_2e9d8fef90_z.jpg
+    small: //farm1.staticflickr.com/421/31165742330_2e9d8fef90_n.jpg
+    title: 803702850_13280_12125957322066578295.jpg
+    $$hashKey: 0SD
 created_date: "2016-12-09T19:57:47-02:00"
 published: true
 releated_posts:
@@ -83,7 +89,16 @@ Loureiro aponta ainda que, a escolha do local para a realiza&ccedil;&atilde;o da
 Dentro da concep&ccedil;&atilde;o da soberania alimentar a programa&ccedil;&atilde;o do primeiro dia do Circuito foi recheado de debates sobre alimenta&ccedil;&atilde;o saud&aacute;vel.&nbsp; Assentados, moradores da regi&atilde;o e convidados participaram de um semin&aacute;rio com a tem&aacute;tica &ldquo;O que a cidade come?&rdquo;. Al&eacute;m disso, no cineclube, assistiram o filme: O veneno est&aacute; na mesa II.</p>
 
 <p><br />
+A tarde da Feira da Reforma Agr&aacute;ria tamb&eacute;m &eacute; de forma&ccedil;&atilde;o pol&iacute;tica. Nesta sexta aconteceu o semin&aacute;rio &#39;O qu&ecirc; comemos?&#39;. Para debater o tema, foram convidados o Professor Adjunto da Faculdade UnB Planaltina, Tamiel Jacobson e o pesquisador da Embrapa Vicente Almeida. Tamb&eacute;m vieram F&aacute;bio Miranda, da Campanha Contra os Agrot&oacute;xicos e Iridiane Seibert, do Movimento de Mulheres Camponesas. Empoderamento da popula&ccedil;&atilde;o do campo enquanto estrat&eacute;gia de emancipa&ccedil;&atilde;o popular, unindo for&ccedil;as com a cidade para continuar as transforma&ccedil;&otilde;es sociais.</p>
+
+<p><br />
 A Feira promove ainda uma vasta programa&ccedil;&atilde;o cultural, com oficinas, interven&ccedil;&otilde;es de agita&ccedil;&atilde;o e propaganda, al&eacute;m de shows.&nbsp; Hoje acontece a Noite da Viola, com apresenta&ccedil;&otilde;es de Idelbrando e Barcellus, Chico Nogueira, Z&eacute; Pinto e Z&eacute; Mulato e Cassiano.</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="803702850_13280_12125957322066578295.jpg" height="466" src="//farm1.staticflickr.com/421/31165742330_2e9d8fef90_b.jpg" width="700" />
+<figcaption><em>Tarde de forma&ccedil;&atilde;o pol&iacute;tica com o Semin&aacute;rio &#39;O qu&ecirc; comemos?&#39;. Foto: Leonardo Milano</em></figcaption>
+</figure>
+</div>
 
 <p><br />
 <em>*Editado por Iris Pacheco</em></p>
