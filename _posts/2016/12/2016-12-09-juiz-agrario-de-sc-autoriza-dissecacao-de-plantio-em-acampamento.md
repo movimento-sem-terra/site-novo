@@ -5,7 +5,7 @@ tags:
   - tag: acampamento
   - tag: plantação
 title: Juiz agrário de SC autoriza dissecação de plantio em acampamento
-support_line: "O acampamento tem aproximadamente 62 famílias acampadas. Elas aguardam uma resposta, pois dependem desse plantio para sobreviver no próximo período"
+support_line: O acampamento tem aproximadamente 62 famílias acampadas e elas dependem desse plantio para sobreviver no próximo período
 menu: reforma agrária
 images_hd: //farm6.staticflickr.com/5323/31391746092_bd72840f61_b.jpg
 layout: post
