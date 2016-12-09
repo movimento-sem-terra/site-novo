@@ -75,7 +75,7 @@ Loureiro aponta ainda que, a escolha do local para a realiza&ccedil;&atilde;o da
 <p><br />
 <strong>Alimenta&ccedil;&atilde;o Saud&aacute;vel</strong></p>
 
-<figure class="image" style="float:right"><img alt="803712359_149174_7120916527099035402.jpg" height="300" src="//farm1.staticflickr.com/43/31421835811_60a7756bcc_b.jpg" width="450" />
+<figure class="image" style="float:right"><img alt="803712359_149174_7120916527099035402.jpg" height="267" src="//farm1.staticflickr.com/43/31421835811_60a7756bcc_b.jpg" width="400" />
 <figcaption><em>Assentado comercializa produtos na Feira</em></figcaption>
 </figure>
 
