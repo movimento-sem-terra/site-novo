@@ -61,9 +61,9 @@ O depoimento acima &eacute; de Evelaine, do assentamento de Barreirinho, munic&i
 <p><br />
 A atividade que come&ccedil;ou nesta sexta-feira (09), na Pra&ccedil;a S&atilde;o Sebasti&atilde;o, em Planaltina, vai at&eacute; domingo (11). Durante os tr&ecirc;s dias ser&atilde;o realizados semin&aacute;rios, cineclube, teatro, al&eacute;m da venda de alimentos e produtos variados produzidos pelos mais de 200 assentados que est&atilde;o com barracas na feira.</p>
 
-<figure class="image" style="float:left"><img alt="803704229_13967_12954601916480063589.jpg" height="300" src="//farm1.staticflickr.com/222/30696586604_15769b9c20_b.jpg" width="450" />
-<figcaption><em>V&aacute;rias organiza&ccedil;&otilde;es estiveram presente na abertura do evento<br />
-esta manh&atilde; desta sexta-feira (09)</em></figcaption>
+<figure class="image" style="float:left"><img alt="803704229_13967_12954601916480063589.jpg" height="267" src="//farm1.staticflickr.com/222/30696586604_15769b9c20_b.jpg" width="400" />
+<figcaption><em>V&aacute;rias organiza&ccedil;&otilde;es estiveram presente na abertura do<br />
+evento esta manh&atilde; desta sexta-feira (09)</em></figcaption>
 </figure>
 
 <p><br />
