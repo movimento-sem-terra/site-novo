@@ -50,7 +50,7 @@ Da P&aacute;gina do MST<br />
 Fotos: M&iacute;dia Ninja</em></p>
 
 <p><br />
-&ldquo;A Feira representa um grande passo para que possamos mostrar &agrave; sociedade que produzimos alimentos de qualidade, sem agrot&oacute;xicos, al&eacute;m de ser uma fonte de renda para os assentados. Esse evento mostra a diversidade dos assentamentos, da produ&ccedil;&atilde;o, com comida boa e de qualidade.&rdquo;</p>
+&ldquo;A Feira representa um grande passo para&nbsp;mostrarmos &agrave; sociedade que produzimos alimentos de qualidade, sem agrot&oacute;xicos, al&eacute;m de ser uma fonte de renda para os assentados. Esse evento mostra a diversidade dos assentamentos, da produ&ccedil;&atilde;o, com comida boa e de qualidade.&rdquo;</p>
 
 <p><br />
 O depoimento acima &eacute; de Evelaine, do assentamento de Barreirinho, munic&iacute;pio de Una&iacute;. A assentada que participa do 1&ordm; Circuito de Feiras e Mostras Culturais da Reforma Agr&aacute;ria do Distrito Federal e Entorno, destaca que os produtos vendidos na feira, entre eles: mudas de morango, pimenta do reino, artesanatos, produtos de limpeza e outros, s&atilde;o produzidos pelas mulheres do assentamento.</p>
