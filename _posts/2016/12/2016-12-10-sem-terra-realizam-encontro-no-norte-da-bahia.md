@@ -61,12 +61,12 @@ Cerca de 280 Sem Terra participaram da atividade, que al&eacute;m de avaliar as 
 <p><br />
 A abertura do encontro reuniu o Coordenador Regional do MST, Jovanildo de Jesus, o Vereador Sem Terra e Vice-Presidente da C&acirc;mara Municipal de Juazeiro, Tiano Felix (PT), a lideran&ccedil;a do Movimento dos Atingidos por Barragem (MAB), Ma&iacute;ra, o militante do MST de Pernambuco, Florisvaldo Alves, o Diretor do Instituto Federal da Bahia (IFBA) &ndash; Campus Juazeiro, o presidente do Sinserp, C&iacute;cero Sales, o vereador eleito de Casa Nova, Uilian Pereira, Emmannuel Victor e o Secret&aacute;rio de Agricultura do Munic&iacute;pio de Juazeiro, Jorge Cerqueira, representando o prefeito Isaac Carvalho.</p>
 
-<p><br />
-Com foco na pol&iacute;tica e no processo de criminaliza&ccedil;&atilde;o dos movimentos e organiza&ccedil;&otilde;es populares do campo e cidade, M&aacute;rcio Matos, representando do deputado federal Valmir Assun&ccedil;&atilde;o (PT), trouxe elementos importantes para incentivar a avalia&ccedil;&atilde;o interna do Movimento.</p>
-
 <figure class="image" style="float:left"><img alt="20161207_170257.jpg" height="300" src="//farm1.staticflickr.com/761/30745962893_be76c52fd5_b.jpg" width="400" />
 <figcaption><em>Sem Terrinha participam de m&iacute;stica no encontro.&nbsp;</em></figcaption>
 </figure>
+
+<p><br />
+Com foco na pol&iacute;tica e no processo de criminaliza&ccedil;&atilde;o dos movimentos e organiza&ccedil;&otilde;es populares do campo e cidade, M&aacute;rcio Matos, representando do deputado federal Valmir Assun&ccedil;&atilde;o (PT), trouxe elementos importantes para incentivar a avalia&ccedil;&atilde;o interna do Movimento.</p>
 
 <p><br />
 Com base em aspectos que apontam os avan&ccedil;os, limites e os novos desafios para o MST e toda esquerda, M&aacute;rcio disse que esse atual cen&aacute;rio pol&iacute;tico &eacute; de incertezas e retrocessos.</p>
@@ -86,5 +86,15 @@ Afirmou tamb&eacute;m que nos resta se organizar e preparar a milit&acirc;ncia p
 <p><br />
 Al&eacute;m de mesas de debate, plen&aacute;rias e planejamento de a&ccedil;&otilde;es, o MST na regi&atilde;o comp&ocirc;s as inst&acirc;ncias do Movimento e indicaram os trabalhadores e trabalhadoras que participar&atilde;o do 29&ordm; Encontro Estadual do MST na Bahia, que deve acontecer em Salvador, em janeiro de 2017.</p>
 
-<p><img alt="20161207_172436.jpg" src="//farm1.staticflickr.com/305/31408486102_efcea0010d_b.jpg" /><br />
-<em>*Vinicius atua na assessoria parlamentar do vereador Tiano Felix e contribui com o Coletivo de Comunica&ccedil;&atilde;o do MST na Bahia</em></p>
+<p>&nbsp;</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="20161207_172436.jpg" height="525" src="//farm1.staticflickr.com/305/31408486102_efcea0010d_b.jpg" width="700" />
+<figcaption></figcaption>
+</figure>
+</div>
+
+<p><br />
+&nbsp;</p>
+
+<p><em>*Vinicius atua na assessoria parlamentar do vereador Tiano Felix e contribui com o Coletivo de Comunica&ccedil;&atilde;o do MST na Bahia</em></p>
