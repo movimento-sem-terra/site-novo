@@ -8,7 +8,7 @@ tags:
 title: Documentário feito pelo MAB denuncia 1 ano de impunidade do crime de Marina
 support_line: "\"Testemunhamos a enorme angústia, inimaginável tristeza de quem perdeu familiares e amigos, suas referências culturais, sua casa, seu meio de subsistência\""
 menu: lutas e mobilizações
-section: tv
+section: null
 video: "https://www.youtube.com/watch?v=sV-cSHwTJzs"
 layout: post
 files:
@@ -27,6 +27,7 @@ releated_posts:
   - _posts/2016/04/2016-04-19-caravana-territorial-do-rio-doce-cobra-participacao-social-e-transparencia-a-samarco-em-governador-valadares-mg.md
   - _posts/2016/05/2016-05-20-mab-lanca-documentario-sobre-jirau-e-santo-antonio-em-porto-velho.md
   - _posts/2016/09/2016-09-21-mab-fara-encontro-para-denunciar-um-ano-de-impunidade-do-crime-da-samarco.md
+images_hd: //farm1.staticflickr.com/259/31520128666_495fcf8458_b.jpg
 
 ---
 <p>&nbsp;</p>
