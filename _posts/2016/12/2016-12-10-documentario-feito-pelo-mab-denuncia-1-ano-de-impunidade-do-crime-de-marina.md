@@ -12,18 +12,12 @@ section: tv
 video: "https://www.youtube.com/watch?v=sV-cSHwTJzs"
 layout: post
 files:
-  - link: //farm1.staticflickr.com/601/31411129452_a2e57a46df_b.jpg
-    thumbnail: //farm1.staticflickr.com/601/31411129452_a2e57a46df_t.jpg
-    medium: //farm1.staticflickr.com/601/31411129452_a2e57a46df_z.jpg
-    small: //farm1.staticflickr.com/601/31411129452_a2e57a46df_n.jpg
+  - link: //farm1.staticflickr.com/259/31520128666_495fcf8458_b.jpg
+    thumbnail: //farm1.staticflickr.com/259/31520128666_495fcf8458_t.jpg
+    medium: //farm1.staticflickr.com/259/31520128666_495fcf8458_z.jpg
+    small: //farm1.staticflickr.com/259/31520128666_495fcf8458_n.jpg
     title: "Distrito de bento Rodrigues, pertencente ao município de Mariana, após a passagem da lama da barragem do Fundão. Foto Guilherme Weimann.jpg"
-    $$hashKey: 05U
-  - link: //farm1.staticflickr.com/304/31520062356_ae9114e967_b.jpg
-    thumbnail: //farm1.staticflickr.com/304/31520062356_ae9114e967_t.jpg
-    medium: //farm1.staticflickr.com/304/31520062356_ae9114e967_z.jpg
-    small: //farm1.staticflickr.com/304/31520062356_ae9114e967_n.jpg
-    title: 30601578821_4cd9d85b39_b.jpg
-    $$hashKey: 05X
+    $$hashKey: 05O
 created_date: "2016-12-10T18:53:18-02:00"
 published: true
 video_thumbnail: "http://img.youtube.com/vi/sV-cSHwTJzs/0.jpg"
@@ -37,7 +31,14 @@ releated_posts:
 ---
 <p>&nbsp;</p>
 
-<p><em>Da P&aacute;gina do MST *</em></p>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="Distrito de bento Rodrigues, pertencente ao município de Mariana, após a passagem da lama da barragem do Fundão. Foto Guilherme Weimann.jpg" height="462" src="//farm1.staticflickr.com/259/31520128666_495fcf8458_b.jpg" width="700" />
+<figcaption><em>Distrito de bento Rodrigues, pertencente ao munic&iacute;pio de Mariana, ap&oacute;s a passagem da lama da barragem do Fund&atilde;o. Foto Guilherme Weimann</em></figcaption>
+</figure>
+</div>
+
+<p><br />
+<em>Da P&aacute;gina do MST *</em></p>
 
 <p><br />
 1 ano ap&oacute;s o crime da Samarco (Vale/BHP Billiton), que matou o Rio Doce, o Movimento dos Atingidos por Barragens (MAB) refez o caminho inverso da lama. A marcha que percorreu mais de 700 km se iniciou na Vila de Reg&ecirc;ncia (ES), na manh&atilde; da segunda-feira (31) de outubro, local onde a lama encontrou o mar.</p>
