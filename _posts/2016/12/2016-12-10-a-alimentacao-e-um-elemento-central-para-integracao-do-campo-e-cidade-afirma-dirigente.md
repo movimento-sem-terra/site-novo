@@ -52,10 +52,11 @@ Da P&aacute;gina do MST</em></p>
 <p><br />
 Para uma alimenta&ccedil;&atilde;o saud&aacute;vel na mesa da popula&ccedil;&atilde;o brasileira &eacute; fundamental que elementos como a Reforma Agr&aacute;ria, a soberania alimentar e a agroecologia sejam colocados em pauta e discutidos pelos trabalhadores e trabalhadoras do campo e da cidade, &eacute; o que afirma Marco Ant&ocirc;nio Baratto, da dire&ccedil;&atilde;o nacional do MST/DF.&nbsp;</p>
 
-<p style="box-sizing: inherit; margin: 0px 0px 11px; font-size: 1.1em; color: rgb(85, 85, 85); font-family: &quot;Exo 2&quot;, Helvetica, Arial, sans-serif;"><a href="https://www.facebook.com/circuitodefeirasdoDF" style="box-sizing: inherit; color: rgb(0, 100, 0); text-decoration: none;">Acompanhe a cobertura do evento&nbsp;</a></p>
+<p><br />
+<a href="https://www.facebook.com/circuitodefeirasdoDF/">Acompanhe a cobertura do evento</a></p>
 
 <p><br />
-Com a realiza&ccedil;&atilde;o do 1&ordm; Circuito de Feiras e Mostras Culturais da Reforma Agr&aacute;ria do Distrito Federal e Entorno, que teve in&iacute;cio na sexta-feira (9), em Planaltina, Baratto destaca que o evento vem para materializar a reforma agr&aacute;ria popular que o MST defende.&nbsp;</p>
+Com a realiza&ccedil;&atilde;o do 1&ordm; Circuito de Feiras e Mostras Culturais da Reforma Agr&aacute;ria do Distrito Federal e Entorno, que teve in&iacute;cio na sexta-feira (9), em Planaltina, Baratto destaca que o evento vem para materializar a reforma agr&aacute;ria popular que o MST defende. &nbsp;</p>
 
 <p><br />
 &ldquo;A Feira apresenta uma resposta pol&iacute;tica &agrave; conjuntura de retrocessos e ataques que vivemos. &Eacute; um ato pol&iacute;tico de resist&ecirc;ncia contra setores estrat&eacute;gicos que a burguesia domina, como o agroneg&oacute;cio. Al&eacute;m disso, o circuito apresenta uma alternativa &agrave; alimenta&ccedil;&atilde;o, produzida por meio da agroecologia e livre de veneno&rdquo;, aponta o dirigente.&nbsp;</p>
@@ -80,6 +81,9 @@ De acordo com Marco Baratto, &eacute; essencial a discuss&atilde;o sobre a comid
 <p><br />
 &ldquo;Criar espa&ccedil;os que aproximem os trabalhadores rurais e urbanos, como a Feira, viabiliza a reflex&atilde;o sobre o que comemos e de onde vem a alimenta&ccedil;&atilde;o, al&eacute;m de compreender que &eacute; poss&iacute;vel potencializar uma nova matriz de produ&ccedil;&atilde;o que relacione com a terra e a vida. Logo, a alimenta&ccedil;&atilde;o &eacute; um elemento central para integra&ccedil;&atilde;o do campo e cidade&rdquo;, conclui.&nbsp;</p>
 
+<p>&nbsp;</p>
+
 <p><img alt="31437733001_c6ab96798c_z.jpg" src="//farm1.staticflickr.com/644/30749343983_ce5d28a58a_b.jpg" /></p>
 
-<p>&nbsp;</p>
+<p><br />
+<em>*Editado por Iris Pacheco</em></p>
