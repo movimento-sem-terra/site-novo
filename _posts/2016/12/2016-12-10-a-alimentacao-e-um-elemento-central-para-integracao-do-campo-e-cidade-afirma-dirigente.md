@@ -8,7 +8,7 @@ tags:
 title: "“A alimentação é um elemento central para integração do campo e cidade”, afirma dirigente "
 support_line: "Para Marco Baratto, da direção nacional do MST, é preciso criar espaços, como a Feira, que aproximem os trabalhadores rurais e urbanos, e que coloquem a reflexão sobre a alimentação e uma nova matriz produtiva"
 menu: reforma agrária
-images_hd: //farm1.staticflickr.com/197/31186590140_148af4c2e8_b.jpg
+images_hd: //farm6.staticflickr.com/5499/31559050805_fe3d2fa63d_b.jpg
 layout: post
 files:
   - link: //farm1.staticflickr.com/197/31186590140_148af4c2e8_b.jpg
@@ -23,12 +23,12 @@ files:
     small: //farm1.staticflickr.com/161/31558791615_2ed98a90fe_n.jpg
     title: 803712453_149466_3813577328186162983.jpg
     $$hashKey: 0RW
-  - link: //farm1.staticflickr.com/644/30749343983_ce5d28a58a_b.jpg
-    thumbnail: //farm1.staticflickr.com/644/30749343983_ce5d28a58a_t.jpg
-    medium: //farm1.staticflickr.com/644/30749343983_ce5d28a58a_z.jpg
-    small: //farm1.staticflickr.com/644/30749343983_ce5d28a58a_n.jpg
-    title: 31437733001_c6ab96798c_z.jpg
-    $$hashKey: 0RZ
+  - link: //farm6.staticflickr.com/5499/31559050805_fe3d2fa63d_b.jpg
+    thumbnail: //farm6.staticflickr.com/5499/31559050805_fe3d2fa63d_t.jpg
+    medium: //farm6.staticflickr.com/5499/31559050805_fe3d2fa63d_z.jpg
+    small: //farm6.staticflickr.com/5499/31559050805_fe3d2fa63d_n.jpg
+    title: 803701999_149481_11814942082530916417.jpg
+    $$hashKey: 0E7
 created_date: "2016-12-10T19:47:21-02:00"
 published: true
 releated_posts:
@@ -40,8 +40,8 @@ releated_posts:
 <p>&nbsp;</p>
 
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="803712359_149174_7120916527099035402.jpg" height="466" src="//farm1.staticflickr.com/197/31186590140_148af4c2e8_b.jpg" width="700" />
-<figcaption></figcaption>
+<figure class="image" style="display:inline-block"><img alt="803701999_149481_11814942082530916417.jpg" height="466" src="//farm6.staticflickr.com/5499/31559050805_fe3d2fa63d_b.jpg" width="700" />
+<figcaption><em>Alguns dos produtos comercializados na Feira do MST no DF. Foto: M&iacute;dia Ninja</em></figcaption>
 </figure>
 </div>
 
@@ -62,7 +62,8 @@ Com a realiza&ccedil;&atilde;o do 1&ordm; Circuito de Feiras e Mostras Culturais
 &ldquo;A Feira apresenta uma resposta pol&iacute;tica &agrave; conjuntura de retrocessos e ataques que vivemos. &Eacute; um ato pol&iacute;tico de resist&ecirc;ncia contra setores estrat&eacute;gicos que a burguesia domina, como o agroneg&oacute;cio. Al&eacute;m disso, o circuito apresenta uma alternativa &agrave; alimenta&ccedil;&atilde;o, produzida por meio da agroecologia e livre de veneno&rdquo;, aponta o dirigente.&nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="803712453_149466_3813577328186162983.jpg" height="267" src="//farm1.staticflickr.com/161/31558791615_2ed98a90fe_b.jpg" width="400" />
-<figcaption></figcaption>
+<figcaption><em>Marco Baratto na abertura do&nbsp;1&ordm; Circuito de Feiras e<br />
+Mostras Culturais da Reforma Agr&aacute;ria. Foto: M&iacute;dia Ninja</em></figcaption>
 </figure>
 
 <p><br />
@@ -83,7 +84,11 @@ De acordo com Marco Baratto, &eacute; essencial a discuss&atilde;o sobre a comid
 
 <p>&nbsp;</p>
 
-<p><img alt="31437733001_c6ab96798c_z.jpg" src="//farm1.staticflickr.com/644/30749343983_ce5d28a58a_b.jpg" /></p>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="803712359_149174_7120916527099035402.jpg" height="466" src="//farm1.staticflickr.com/197/31186590140_148af4c2e8_b.jpg" width="700" />
+<figcaption><em>Sem Terra expondo produtos em estande da Feira. Foto: M&iacute;dia Ninja</em></figcaption>
+</figure>
+</div>
 
 <p><br />
 <em>*Editado por Iris Pacheco</em></p>
