@@ -65,8 +65,9 @@ Entre os convidados para mediar o debate, esteve presente Agostinho Reis da TV C
 Ainda nessa perspectiva, Wellington comentou sobre o projeto Coletivo de Cinema de Ceil&acirc;ndia. &ldquo;A ideia era fazer comunica&ccedil;&atilde;o na comunidade, com e para a comunidade. Com o CEICINE, o povo passou a se sentir representado e isso incomodou a grande imprensa. O processo do coletivo mostrou pra comunidade que &eacute; poss&iacute;vel fazer comunica&ccedil;&atilde;o de verdade&rdquo;, salientou.</p>
 
 <figure class="image" style="float:left"><img alt="seminario2.jpg" height="266" src="//farm1.staticflickr.com/244/31437980371_9a7e5feced_b.jpg" width="400" />
-<figcaption><em>O Circuito tamb&eacute;m tem funcionado como laborat&oacute;rio para a forma&ccedil;&atilde;o<br />
-da juventude em comunica&ccedil;&atilde;o. Foto: Leonardo Milano</em></figcaption>
+<figcaption><em>O Circuito tamb&eacute;m tem funcionado como laborat&oacute;rio<br />
+para a forma&ccedil;&atilde;o&nbsp;da juventude em comunica&ccedil;&atilde;o.<br />
+Foto: Leonardo Milano</em></figcaption>
 </figure>
 
 <p><br />
@@ -81,7 +82,7 @@ Sheila Campos, da R&aacute;dio Cultura, colocou apontamentos sobre a familiarida
 <p><br />
 &quot;Quando a gente n&atilde;o ocupa os espa&ccedil;os da comunica&ccedil;&atilde;o, outro grupo ocupa ou monopoliza&quot;, &eacute; assim que Sheila sugere o desafio da democratiza&ccedil;&atilde;o da comunica&ccedil;&atilde;o em nosso pa&iacute;s.&nbsp;</p>
 
-<figure class="image" style="float:right"><img alt="seminario1.jpg" height="266" src="//farm1.staticflickr.com/371/31181567040_7bbb1d68b3_b.jpg" width="400" />
+<figure class="image" style="float:right"><img alt="seminario1.jpg" height="299" src="//farm1.staticflickr.com/371/31181567040_7bbb1d68b3_b.jpg" width="450" />
 <figcaption></figcaption>
 </figure>
 
