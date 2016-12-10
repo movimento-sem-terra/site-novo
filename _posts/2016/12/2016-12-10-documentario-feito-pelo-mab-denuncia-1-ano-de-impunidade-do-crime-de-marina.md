@@ -48,7 +48,10 @@ images_hd: //farm1.staticflickr.com/259/31520128666_495fcf8458_b.jpg
 A atividade percorreu in&uacute;meros munic&iacute;pios &agrave;s margens do rio at&eacute; chegar ao seu ponto final: o distrito de Bento Rodrigues, em Mariana (MG), povoado que foi totalmente devastado pela lama. No local, o MAB realizou o Encontro dos Atingidos da bacia do Rio Doce, entre os dias 2 e 5 de novembro. <a href="http://bit.ly/2gJf4Pz">Leia o documento final da Marcha e do Encontro</a></p>
 
 <p><br />
-Durante o trajeto, foi poss&iacute;vel testemunhar o sofrimento e ang&uacute;stia das pessoas atingidas. &ldquo;Vimos surtos de doen&ccedil;as multiplicando-se aos milhares, fam&iacute;lias com medo de beber a &aacute;gua... Testemunhamos a enorme ang&uacute;stia, inimagin&aacute;vel tristeza de quem perdeu familiares e amigos, suas refer&ecirc;ncias culturais, sua casa, seu meio de subsist&ecirc;ncia, o seu emprego e trabalho, os pertences pessoais, os brinquedos das crian&ccedil;as, o rio, a &aacute;gua, animais dom&eacute;sticos, peixes e grande parte da natureza&rdquo;.</p>
+Durante o trajeto, foi poss&iacute;vel testemunhar o sofrimento e ang&uacute;stia das pessoas atingidas. Desse percurso e da luta dos atingidos resultou o document&aacute;rio &quot;A&nbsp;luta vencer&aacute; a lama: uma marcha por justi&ccedil;a no Rio Doce. O material produzido pelo Coletivo de Comunica&ccedil;&atilde;o do MAB denuncia a impunidade do caso de Mariana e destaca os impactos na regi&atilde;o.&nbsp;</p>
+
+<p><br />
+&ldquo;Vimos surtos de doen&ccedil;as multiplicando-se aos milhares, fam&iacute;lias com medo de beber a &aacute;gua... Testemunhamos a enorme ang&uacute;stia, inimagin&aacute;vel tristeza de quem perdeu familiares e amigos, suas refer&ecirc;ncias culturais, sua casa, seu meio de subsist&ecirc;ncia, o seu emprego e trabalho, os pertences pessoais, os brinquedos das crian&ccedil;as, o rio, a &aacute;gua, animais dom&eacute;sticos, peixes e grande parte da natureza&rdquo;.</p>
 
 <p><br />
 <strong>Mais informa&ccedil;&otilde;es:</strong><a href="http://http://tragedianunciada.mabnacional.org.br/"><strong>&nbsp;</strong>http://tragedianunciada.mabnacional.org.br/</a></p>
