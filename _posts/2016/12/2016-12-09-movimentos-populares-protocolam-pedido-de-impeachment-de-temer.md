@@ -5,7 +5,7 @@ tags:
   - tag: fora-temer
   - tag: movimentos-populares
 title: "Movimentos populares protocolam pedido de impeachment de Temer "
-support_line: "De acordo com as organizações, a pressão popular é estratégia para incidir em um parlamento aliado ao presidente e seu projeto político"
+support_line: "De acordo com as organizações, a pressão popular é estratégica para incidir em um parlamento aliado ao presidente e seu projeto político"
 images_hd: //farm1.staticflickr.com/28/31418939611_f0fb168bed_b.jpg
 menu: direitos humanos
 layout: post
