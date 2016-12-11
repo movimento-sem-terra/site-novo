@@ -8,7 +8,7 @@ title: Carta de Belo Horizonte aponta rumo para o próximo período da FBP
 support_line: Plenária reuniu mais de 350 militantes de 100 organizações de 24 Estados
 images_hd: //farm6.staticflickr.com/5535/31383567992_1121d07a79_b.jpg
 menu: projeto popular
-section: cover
+section: featured-news
 layout: post
 files:
   - link: //farm6.staticflickr.com/5535/31383567992_1121d07a79_b.jpg
@@ -26,8 +26,7 @@ releated_posts:
 <p>&nbsp;</p>
 
 <figure class="image"><img alt="8fa63968df135154990581423bd5d65e.jpg" height="467" src="//farm6.staticflickr.com/5535/31383567992_1121d07a79_b.jpg" width="700" />
-<figcaption><em>Cr&eacute;dito: Lidyane Ponciano/Sind-UTE MG e CUT Minas</em><br />
-</figcaption>
+<figcaption><em>Cr&eacute;dito: Lidyane Ponciano/Sind-UTE MG e CUT Minas</em></figcaption>
 </figure>
 
 <p><br />
