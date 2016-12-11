@@ -35,14 +35,14 @@ releated_posts:
   - _posts/2016/12/2016-12-09-mst-inicia-circuito-de-feira-da-reforma-agraria-no-df.md
   - _posts/2016/11/2016-11-03-os-desafios-da-agroecologia-desde-dentro.md
   - _posts/2016/12/2016-12-05-1o-circuito-de-feiras-e-mostras-culturais-do-df-e-entorno-oferta-variedade-de-alimentos-agroecologicos.md
+section: featured-news
 
 ---
 <p>&nbsp;</p>
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="503_1280x853_855141073_900x600.jpg" height="467" src="//farm6.staticflickr.com/5777/31200668860_c9ed207445_b.jpg" width="700" />
-<figcaption><em>Marco Baratto na abertura do 1&ordm; Circuito de Feiras e Mostras Culturais da Reforma Agr&aacute;ria. Foto: M&iacute;dia Ninja</em><br />
-</figcaption>
+<figcaption><em>Marco Baratto na abertura do 1&ordm; Circuito de Feiras e Mostras Culturais da Reforma Agr&aacute;ria. Foto: M&iacute;dia Ninja</em></figcaption>
 </figure>
 </div>
 
