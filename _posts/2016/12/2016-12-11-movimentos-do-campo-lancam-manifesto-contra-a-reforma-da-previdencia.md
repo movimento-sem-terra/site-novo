@@ -6,7 +6,7 @@ tags:
   - tag: manifesto
   - tag: movimentos-do-campo
 title: Movimentos do campo lançam manifesto contra a reforma da previdência
-support_line: O documento assinado por diversas organizaçõe o governo golpista pela retirada de direitos de seguridade social
+support_line: O documento assinado por diversas organizações o governo golpista pela retirada de direitos de seguridade social
 menu: direitos humanos
 section: cover
 images_hd: //farm1.staticflickr.com/554/31426456422_7b5c8d28b1_b.jpg
@@ -35,7 +35,7 @@ Movimentos e organiza&ccedil;&otilde;es camponesas lan&ccedil;am um manifesto co
 De acordo os movimentos, os impactos dessa reforma ser&atilde;o tremendos e exigem que o governo apresente publicamente as contas da seguridade social para justificar as mudan&ccedil;as. &ldquo;Isso comprovaria a fraude que essas representam.&rdquo;</p>
 
 <p><br />
-O manifesto ainda denuncia o golpe e o controle do Estado Brasileiro pelo Congresso Nacional, o Poder Judici&aacute;rio e a Globo que seguem a l&oacute;gica de explora&ccedil;&atilde;o m&aacute;xima dos trabalhadores.</p>
+O manifesto &nbsp;denuncia ainda o golpe e o controle do Estado Brasileiro pelo Congresso Nacional, o Poder Judici&aacute;rio e a Globo que seguem a l&oacute;gica de explora&ccedil;&atilde;o m&aacute;xima dos trabalhadores.</p>
 
 <p><br />
 &ldquo;Lutaremos em todos os cantos do Brasil, com todos os nossos meios de press&atilde;o e em todas as inst&acirc;ncias contra a aprova&ccedil;&atilde;o desta lei e vamos cobrar de todos os deputados e senadores que receberam votos das fam&iacute;lias agricultoras para que rejeitem o projeto de lei que golpeia duramente quem alimenta o pa&iacute;s&rdquo;, finaliza manifesto.</p>
@@ -56,7 +56,7 @@ As principais mudan&ccedil;as que atingem todos os trabalhadores/as s&atilde;o o
 Em rela&ccedil;&atilde;o aos agricultores/as familiares, camponeses/as e trabalhadores/as rurais as mudan&ccedil;as propostas s&atilde;o radicais e profundas:</p>
 
 <p><br />
-1&ordm; - Extingue a figura jur&iacute;dica de segurado especial, sistema solid&aacute;rio/contributivo de Previd&ecirc;ncia, criado ainda nos Governo Militar e consolidado com a Constitui&ccedil;&atilde;o de 1988, que garante uma aposentadoria de um sal&aacute;rio m&iacute;nimo para os homens, aos 60 anos e para as mulheres aos 55 anos, com a comprova&ccedil;&atilde;o de atividade agr&iacute;cola por no m&iacute;nimo 15 anos. No entanto os Militares e as Pol&iacute;cias Militares que tamb&eacute;m possuem um sistema diferenciado continuaram sendo Segurados Especiais.</p>
+1&ordm; - Extingue a figura jur&iacute;dica de segurado especial, sistema solid&aacute;rio/contributivo de Previd&ecirc;ncia, criado ainda nos Governo Militar e consolidado com a Constitui&ccedil;&atilde;o de 1988, que garante uma aposentadoria de um sal&aacute;rio m&iacute;nimo para os homens, aos 60 anos e para as mulheres aos 55 anos, com a comprova&ccedil;&atilde;o de atividade agr&iacute;cola por no m&iacute;nimo 15 anos. No entanto, os Militares e as Pol&iacute;cias Militares que tamb&eacute;m possuem um sistema diferenciado continuaram sendo Segurados Especiais.</p>
 
 <p><br />
 2&ordm; - Obriga os agricultores/as familiares, camponeses/as e trabalhadores/as rurais a ingressar no sistema do INSS, com pagamento mensal em dinheiro, para ter acesso &agrave; aposentadoria aos 65 anos, com a comprova&ccedil;&atilde;o de pagamento de INSS por 25 anos.</p>
