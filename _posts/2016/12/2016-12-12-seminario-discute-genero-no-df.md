@@ -6,7 +6,7 @@ tags:
   - tag: mulheres
 images_hd: //farm1.staticflickr.com/516/31559396876_af1bd9e815_b.jpg
 menu: lutas e mobilizações
-title: "Seminário discute gênero no DF "
+title: "Seminário discute questões de gênero no DF "
 support_line: O evento integra a programação do 1º Circuito de Feiras e Mostras Culturais da Reforma Agrária
 layout: post
 files:
