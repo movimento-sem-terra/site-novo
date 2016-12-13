@@ -16,12 +16,6 @@ files:
     small: //farm1.staticflickr.com/700/31608965955_81fdc5478c_n.jpg
     title: Midia Ninja2.jpg
     $$hashKey: 08U
-  - link: //farm1.staticflickr.com/460/30767604164_085c57c11f_b.jpg
-    thumbnail: //farm1.staticflickr.com/460/30767604164_085c57c11f_t.jpg
-    medium: //farm1.staticflickr.com/460/30767604164_085c57c11f_z.jpg
-    small: //farm1.staticflickr.com/460/30767604164_085c57c11f_n.jpg
-    title: Midia Ninja.jpg
-    $$hashKey: 08X
   - link: //farm6.staticflickr.com/5690/30767603644_f888a168b3_b.jpg
     thumbnail: //farm6.staticflickr.com/5690/30767603644_f888a168b3_t.jpg
     medium: //farm6.staticflickr.com/5690/30767603644_f888a168b3_z.jpg
@@ -40,6 +34,12 @@ files:
     small: //farm1.staticflickr.com/685/31462246492_7157b0997c_n.jpg
     title: 803729674_111677_11211203898122398586.jpg
     $$hashKey: 096
+  - link: //farm6.staticflickr.com/5751/30767935204_976b6e6767_b.jpg
+    thumbnail: //farm6.staticflickr.com/5751/30767935204_976b6e6767_t.jpg
+    medium: //farm6.staticflickr.com/5751/30767935204_976b6e6767_z.jpg
+    small: //farm6.staticflickr.com/5751/30767935204_976b6e6767_n.jpg
+    title: 31406783262_7674a52d0d_z.jpg
+    $$hashKey: 0BP
 created_date: "2016-12-12T22:36:08-02:00"
 published: true
 releated_posts:
@@ -71,6 +71,10 @@ Al&eacute;m de artesanato, culin&aacute;ria da terra, cineclube, semin&aacute;ri
 <p><br />
 Quem compareceu ao evento pode visitar as mais de 50 barracas e comprar licores, mandioca, farinha, ab&oacute;bora, doces, sucos, arroz, compotas, pimentas, produtos derivados do leite, entre outras del&iacute;cias.</p>
 
+<figure class="image" style="float:left"><img alt="31406783262_7674a52d0d_z.jpg" height="300" src="//farm6.staticflickr.com/5751/30767935204_976b6e6767_b.jpg" width="450" />
+<figcaption><em>Quem passou pela Feira teve v&aacute;rias op&ccedil;&otilde;es de produtos. Foto: M&iacute;dia Ninja</em></figcaption>
+</figure>
+
 <p><br />
 Para Marco Ant&ocirc;nio Baratto, da dire&ccedil;&atilde;o nacional do MST, o 1&ordm; Circuito de Feiras foi uma oportunidade para compartilhar com a comunidade de Planaltina alguns elementos importantes que dialogam com a Reforma Agr&aacute;ria Popular.</p>
 
@@ -97,17 +101,15 @@ O processo de renova&ccedil;&atilde;o da luta pela Reforma Agr&aacute;ria e o di
 Na Feira da Reforma Agr&aacute;ria em Planaltina elas deram a gra&ccedil;a da sua presen&ccedil;a. Meninas e meninos deixaram o seu recado contra o uso indiscriminado de agrot&oacute;xicos, sobre a import&acirc;ncia da agricultura familiar para a mesa dos brasileiros e brasileiras e mostraram, mais uma vez, que a esperan&ccedil;a continua sendo a t&ocirc;nica do movimento.</p>
 
 <p><br />
-<strong>Cultura popular no Circuito</strong><br />
-&nbsp;</p>
-
-<figure class="image" style="float:left"><img alt="Midia Ninja3.jpg" height="299" src="//farm6.staticflickr.com/5690/30767603644_f888a168b3_b.jpg" width="450" />
-<figcaption><br />
-<em>Martinha do Coco contagia o p&uacute;blico no &uacute;ltimo dia de atividades.<br />
-&nbsp;Foto: M&iacute;dia Ninja</em></figcaption>
-</figure>
+<strong>Cultura popular no Circuito</strong></p>
 
 <p><br />
 Al&eacute;m da comercializa&ccedil;&atilde;o de produtos oriundos de assentamentos o espa&ccedil;o tamb&eacute;m se configurou como Mostra Cultural da Reforma Agr&aacute;ria, cuja proposta integrou cultura popular, viola caipira, hip hop e cine debates.</p>
+
+<figure class="image" style="float:left"><img alt="Midia Ninja3.jpg" height="299" src="//farm6.staticflickr.com/5690/30767603644_f888a168b3_b.jpg" width="450" />
+<figcaption><em>Martinha do Coco contagia o p&uacute;blico no &uacute;ltimo dia de atividades.<br />
+&nbsp;Foto: M&iacute;dia Ninja</em></figcaption>
+</figure>
 
 <p><br />
 Imposs&iacute;vel ficar parado com uma programa&ccedil;&atilde;o t&atilde;o diversa. Nos tr&ecirc;s dias de evento passou pelo palco central muita m&uacute;sica sertaneja, o som gostoso da ro&ccedil;a, como grande homenageada por Idelbrando e Barcellus, Chico Nogueira, Z&eacute; Pinto e Z&eacute; Mulato e Cassiano.</p>
