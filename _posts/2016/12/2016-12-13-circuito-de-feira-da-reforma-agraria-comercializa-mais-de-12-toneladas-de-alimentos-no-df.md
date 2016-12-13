@@ -48,6 +48,7 @@ releated_posts:
   - _posts/2016/12/2016-12-10-seminario-discute-juventude-comunicacao-e-cultura-no-atual-cenario-politico.md
   - _posts/2016/09/2016-09-14-mst-comercializa-mais-de-400-toneladas-de-alimentos-durante-feira-em-maceio.md
   - _posts/2016/09/2016-09-19-mais-de-50-toneladas-de-produtos-da-reforma-agraria-foram-comercializadas-em-sergipe.md
+section: featured-news
 
 ---
 <p>&nbsp;</p>
