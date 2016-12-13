@@ -86,6 +86,10 @@ O dirigente ressalta ainda que a partir da realiza&ccedil;&atilde;o da Feira &ea
 <p><br />
 J&aacute; o assentado Jair, 51 anos, do assentamento Dom Tomaz Baldu&iacute;no, em Formosa-Goi&aacute;s, v&ecirc; a Feira como uma oportunidade de comercializa&ccedil;&atilde;o e divulga&ccedil;&atilde;o da agricultura da Reforma Agr&aacute;ria. &ldquo;Vendi muitos doces que foram produzidos no assentamento. A comunidade esteve presente e pode conhecer toda nossa variedade de produtos. Que venham outras feiras!&rdquo;.</p>
 
+<figure class="image" style="float:right"><img alt="30795243093_304bd7e5fe_z.jpg" height="267" src="//farm1.staticflickr.com/31/31608966145_9865029a3f_b.jpg" width="400" />
+<figcaption><em>Atividade com a Ciranda Infantil da Feira. Foto: M&iacute;dia Ninja</em></figcaption>
+</figure>
+
 <p><br />
 O processo de renova&ccedil;&atilde;o da luta pela Reforma Agr&aacute;ria e o direito &agrave; terra &eacute; uma constante no MST. Conhecidas como &#39;sem-terrinha&#39;, as crian&ccedil;as do MST desde cedo aprendem a import&acirc;ncia da solidariedade e do cooperativismo para seguirem avan&ccedil;ando coletivamente.</p>
 
@@ -115,9 +119,8 @@ Na segunda noite, a integra&ccedil;&atilde;o campo e cidade com a cultura hip ho
 E para fechar, a &uacute;ltima noite do Circuito foi uma uni&atilde;o manifestada em dan&ccedil;a, canto e versos. Ritmos regionais, m&uacute;sica caipira e g&ecirc;neros populares embalados por Martinha Do Coco e sua apresenta&ccedil;&atilde;o contagiante. Teve tamb&eacute;m Samba de roda e Pilado de Barbat&atilde;o. E a m&uacute;sica popular, apresentada pelo mineiro Pereira da Viola, deixou a Feira ainda mais bonita. A riqueza de sua viola caipira e poesia fizeram deste espa&ccedil;o, um resgate da cultura popular brasileira.</p>
 
 <p><br />
-Dentro do circuito, ser&atilde;o realizadas outras tr&ecirc;s feiras, em 2017, na regi&atilde;o do Distrito e Federal e entorno, o objetivo &eacute; aprofundar o di&aacute;logo com a sociedade e potencializar os elementos da alimenta&ccedil;&atilde;o saud&aacute;vel livre de veneno, da cultura popular e da arte, mostrando outra perspectiva de produ&ccedil;&atilde;o de alimentos, da pol&iacute;tica, no qual a reforma agr&aacute;ria possui papel central para a constru&ccedil;&atilde;o de outra sociedade.</p>
-
-<p>&nbsp;</p>
+Dentro do circuito, ser&atilde;o realizadas outras tr&ecirc;s feiras, em 2017, na regi&atilde;o do Distrito e Federal e entorno, o objetivo &eacute; aprofundar o di&aacute;logo com a sociedade e potencializar os elementos da alimenta&ccedil;&atilde;o saud&aacute;vel livre de veneno, da cultura popular e da arte, mostrando outra perspectiva de produ&ccedil;&atilde;o de alimentos, da pol&iacute;tica, no qual a reforma agr&aacute;ria possui papel central para a constru&ccedil;&atilde;o de outra sociedade.<br />
+&nbsp;</p>
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Midia Ninja2.jpg" height="466" src="//farm1.staticflickr.com/700/31608965955_81fdc5478c_b.jpg" width="700" />
