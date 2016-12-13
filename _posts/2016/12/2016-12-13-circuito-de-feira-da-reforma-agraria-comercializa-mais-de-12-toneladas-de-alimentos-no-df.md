@@ -116,3 +116,11 @@ E para fechar, a &uacute;ltima noite do Circuito foi uma uni&atilde;o manifestad
 
 <p><br />
 Dentro do circuito, ser&atilde;o realizadas outras tr&ecirc;s feiras, em 2017, na regi&atilde;o do Distrito e Federal e entorno, o objetivo &eacute; aprofundar o di&aacute;logo com a sociedade e potencializar os elementos da alimenta&ccedil;&atilde;o saud&aacute;vel livre de veneno, da cultura popular e da arte, mostrando outra perspectiva de produ&ccedil;&atilde;o de alimentos, da pol&iacute;tica, no qual a reforma agr&aacute;ria possui papel central para a constru&ccedil;&atilde;o de outra sociedade.</p>
+
+<p>&nbsp;</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="Midia Ninja2.jpg" height="466" src="//farm1.staticflickr.com/700/31608965955_81fdc5478c_b.jpg" width="700" />
+<figcaption><em>Ciranda da Reforma Agr&aacute;ria com Pereira da Viola. Foto: M&iacute;dia Ninja</em></figcaption>
+</figure>
+</div>
