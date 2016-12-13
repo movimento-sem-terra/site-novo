@@ -121,6 +121,9 @@ Na segunda noite, a integra&ccedil;&atilde;o campo e cidade com a cultura hip ho
 E para fechar, a &uacute;ltima noite do Circuito foi uma uni&atilde;o manifestada em dan&ccedil;a, canto e versos. Ritmos regionais, m&uacute;sica caipira e g&ecirc;neros populares embalados por Martinha Do Coco e sua apresenta&ccedil;&atilde;o contagiante. Teve tamb&eacute;m Samba de roda e Pilado de Barbat&atilde;o. E a m&uacute;sica popular, apresentada pelo mineiro Pereira da Viola, deixou a Feira ainda mais bonita. A riqueza de sua viola caipira e poesia fizeram deste espa&ccedil;o, um resgate da cultura popular brasileira.</p>
 
 <p><br />
+<a href="https://www.facebook.com/circuitodefeirasdoDF/"><strong>Confira mais momentos do evento</strong></a></p>
+
+<p>&nbsp;<br />
 Dentro do circuito, ser&atilde;o realizadas outras tr&ecirc;s feiras, em 2017, na regi&atilde;o do Distrito e Federal e entorno, o objetivo &eacute; aprofundar o di&aacute;logo com a sociedade e potencializar os elementos da alimenta&ccedil;&atilde;o saud&aacute;vel livre de veneno, da cultura popular e da arte, mostrando outra perspectiva de produ&ccedil;&atilde;o de alimentos, da pol&iacute;tica, no qual a reforma agr&aacute;ria possui papel central para a constru&ccedil;&atilde;o de outra sociedade.<br />
 &nbsp;</p>
 
