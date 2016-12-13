@@ -52,7 +52,7 @@ Esta foi uma das reflex&otilde;es realizadas no acolhimento &agrave; organiza&cc
 Realizada anualmente, a atividade se prop&otilde;e a resgatar as lutas empenhadas durante o ano, ler o cen&aacute;rio que se avizinha e refor&ccedil;ar parcerias com o conjunto diverso de apoiadores do Movimento.</p>
 
 <p><br />
-&ldquo;Estamos firmes depois de um ano muito duro. Em 2015 n&atilde;o tivemos nenhuma &aacute;rea desapropriada. J&aacute; faz&iacute;amos a leitura de que ir&iacute;amos nos lascar com o projeto empenhado por Levy [Joaquim, ministro da economia do governo Dilma] e K&aacute;tia Abreu [ministra da Agricultura, Pecu&aacute;ria e Abastecimento de Dilma]. Apesar de n&atilde;o termos a pauta da reforma agr&aacute;ria atendida, n&atilde;o nos furtamos na defesa da democracia e fizemos uma luta implac&aacute;vel&rdquo;, destaca, Alexandre Concei&ccedil;&atilde;o, da coordena&ccedil;&atilde;o nacional do MST, no relato sobre a a&ccedil;&atilde;o do Movimento contra o processo de impeachment sustentado por setores conservadores no ano de 2016.</p>
+&ldquo;Estamos firmes depois de um ano muito duro. Em 2015 n&atilde;o tivemos nenhuma &aacute;rea desapropriada. J&aacute; faz&iacute;amos a leitura de que ir&iacute;amos nos lascar com o projeto empenhado por Levy [Joaquim, ministro da economia do governo Dilma] e K&aacute;tia Abreu [ministra da Agricultura, Pecu&aacute;ria e Abastecimento de Dilma]. Apesar de n&atilde;o termos a pauta da Reforma Agr&aacute;ria atendida, n&atilde;o nos furtamos na defesa da democracia e fizemos uma luta implac&aacute;vel&rdquo;, destaca, Alexandre Concei&ccedil;&atilde;o, da coordena&ccedil;&atilde;o nacional do MST, no relato sobre a a&ccedil;&atilde;o do Movimento contra o processo de impeachment sustentado por setores conservadores no ano de 2016.</p>
 
 <p><br />
 Alexandre destacou a a&ccedil;&atilde;o da juventude nas ocupa&ccedil;&otilde;es em universidades, escolas secundaristas e nas marchas. Em refer&ecirc;ncia &agrave;s a&ccedil;&otilde;es do governo federal como a reforma da previd&ecirc;ncia e a Comiss&atilde;o Parlamentar de Inqu&eacute;rito (CPI) Incra/e Funai, e defesa da ascens&atilde;o ao poder na mais alta esfera de governo por algu&eacute;m legitimado pelas urnas, ele atentou para vigil&acirc;ncia permanente &agrave;s a&ccedil;&otilde;es em curso e a realiza&ccedil;&atilde;o de novas elei&ccedil;&otilde;es.</p>
@@ -70,8 +70,8 @@ A professora da Universidade de Bras&iacute;lia (UnB) e integrante do F&oacute;r
 A progressiva criminaliza&ccedil;&atilde;o dos coletivos e lideran&ccedil;as populares tamb&eacute;m foi objeto de an&aacute;lise pelos participantes. As a&ccedil;&otilde;es judiciais movidas neste ano contra integrantes do MST do Paran&aacute; e Goi&aacute;s, numa a&ccedil;&atilde;o articulada entre setores do agroneg&oacute;cio, Sistema de Justi&ccedil;a e poderes locais foi destacada durante a atividade.</p>
 
 <figure class="image" style="float:left"><img alt="Movimentos diversos e parlamentares progressistas participam de encontro do MST. Foto Márcio Garcez. Asssessoria deputado João Daniel.jpg" height="300" src="//farm6.staticflickr.com/5521/30810037853_7b5dcbb31f_b.jpg" width="450" />
-<figcaption><em>Movimentos diversos e parlamentares progressistas participam<br />
-de encontro do MST. Foto M&aacute;rcio Garcez.<br />
+<figcaption><em>Movimentos diversos e parlamentares progressistas<br />
+participam de encontro do MST. Foto M&aacute;rcio Garcez.<br />
 Assessoria deputado Jo&atilde;o Daniel</em></figcaption>
 </figure>
 
@@ -100,10 +100,10 @@ Gilmar exemplifica a greve dos banc&aacute;rios, realizada no segundo semestre d
 O coordenador pontua ainda a dificuldade de incorpora&ccedil;&atilde;o de alguns segmentos &agrave; luta de movimentos tradicionais. &ldquo;Carecemos de novas formas de organiza&ccedil;&atilde;o que mesmo com muita luta n&atilde;o consegue incorporar mulheres, a juventude que n&atilde;o se v&ecirc; dentre delas, nas usas formas organizativas&rdquo;, complementa.</p>
 
 <p><br />
-O avan&ccedil;o na compreens&atilde;o pela popula&ccedil;&atilde;o da import&acirc;ncia da compra e consumo de alimentos saud&aacute;veis e da import&acirc;ncia da amplia&ccedil;&atilde;o do di&aacute;logo entre campo e cidade foi colocado como destaque por Gilmar. &ldquo;Precisamos de uma reforma agraria de um novo tempo, n&atilde;o esta reforma distributiva cl&aacute;ssica, mas uma que pense em um novo modelo agr&iacute;cola, em que o alimento &eacute; fundamental ao ser humano e que se estenda do campo para a cidade&rdquo;, diz.&nbsp; &nbsp;</p>
+O avan&ccedil;o na compreens&atilde;o pela popula&ccedil;&atilde;o da import&acirc;ncia da compra e consumo de alimentos saud&aacute;veis e da import&acirc;ncia da amplia&ccedil;&atilde;o do di&aacute;logo entre campo e cidade foi colocado como destaque por Gilmar. &ldquo;Precisamos de uma Reforma Agr&aacute;ria de um novo tempo, n&atilde;o esta reforma distributiva cl&aacute;ssica, mas uma que pense em um novo modelo agr&iacute;cola, em que o alimento &eacute; fundamental ao ser humano e que se estenda do campo para a cidade&rdquo;, diz.&nbsp; &nbsp;</p>
 
 <p><br />
-Por fim, deu enfase &agrave; responsabilidade do conjunto dos sujeitos sociais na mudan&ccedil;a desejada, ainda que em cen&aacute;rio adverso. &ldquo;Somos todos respons&aacute;veis pela crise de alguma forma. E somos todos respons&aacute;veis pela sa&iacute;da. Ningu&eacute;m constr&oacute;i nada sozinho e um projeto pol&iacute;tico n&atilde;o vir&aacute; de cima para baixo, mas do povo. Nos preparemos para esse tempo de profunda crise, com mem&oacute;ria de que os outros em outras condi&ccedil;&otilde;es conseguiram superar as dificuldades&rdquo;, enfatiza.</p>
+Por fim, deu &ecirc;nfase &agrave; responsabilidade do conjunto dos sujeitos sociais na mudan&ccedil;a desejada, ainda que em cen&aacute;rio adverso. &ldquo;Somos todos respons&aacute;veis pela crise de alguma forma. E somos todos respons&aacute;veis pela sa&iacute;da. Ningu&eacute;m constr&oacute;i nada sozinho e um projeto pol&iacute;tico n&atilde;o vir&aacute; de cima para baixo, mas do povo. Nos preparemos para esse tempo de profunda crise, com mem&oacute;ria de que os outros em outras condi&ccedil;&otilde;es conseguiram superar as dificuldades&rdquo;, enfatiza.</p>
 
 <p><br />
 <em>*Editado por Iris Pacheco</em></p>
