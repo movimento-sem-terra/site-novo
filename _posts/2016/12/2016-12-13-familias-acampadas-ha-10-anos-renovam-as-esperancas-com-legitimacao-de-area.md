@@ -44,7 +44,7 @@ Na manh&atilde; da &uacute;ltima sexta-feira (09), cerca de 30 fam&iacute;lias S
 O ato aconteceu durante um caf&eacute; da manh&atilde;&nbsp;que contou com a participa&ccedil;&atilde;o de amigos do MST e da dire&ccedil;&atilde;o do Movimento.&nbsp;</p>
 
 <p><br />
-Para Armando, da dire&ccedil;&atilde;o estadual do MST, a legitima&ccedil;&atilde;o do Beira Rio foi uma grande conquista, pois reacende o esp&iacute;rito de luta dos trabalhadores.</p>
+Para Armando, da dire&ccedil;&atilde;o estadual do MST, &quot;a legitima&ccedil;&atilde;o do Beira Rio foi uma grande conquista, pois reacende o esp&iacute;rito de luta dos trabalhadores&quot;.</p>
 
 <p><br />
 Por outro lado, Jovanildo de Jesus, tamb&eacute;m da dire&ccedil;&atilde;o do MST, afirmou que essa conquista foi &nbsp;mais um passo dado para o processo de constru&ccedil;&atilde;o da Reforma Agr&aacute;ria Popular.</p>
