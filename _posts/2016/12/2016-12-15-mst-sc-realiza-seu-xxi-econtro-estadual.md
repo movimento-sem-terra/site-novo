@@ -5,7 +5,7 @@ tags:
   - tag: encontro-estadual
   - tag: conjuntura
 support_line: O objetivo do encontro é debater sobre a conjuntura em que o país está vivendo e traçar estratégias para o próximo período.
-title: MST-SC realiza seu XXI Encontro Estadual
+title: MST realiza seu XXI Encontro Estadual em Santa Catarina
 menu: reforma agrária
 images_hd: //farm1.staticflickr.com/130/30852917803_35f34e9343_b.jpg
 layout: post
