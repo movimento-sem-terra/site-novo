@@ -136,6 +136,8 @@ Nos mobilizaremos e lutaremos em todos os cantos do Brasil, com todos os nossos 
 
 <p style="text-align: right;"><em>Movimento pela soberania popular sobre a minera&ccedil;&atilde;o (MAM)</em></p>
 
+<p style="text-align: right;"><em>Movimento de Mulheres Camponesas (MMC)</em></p>
+
 <p style="text-align: right;"><em>Pastoral da Juventude Rural (PJR)</em></p>
 
 <p style="text-align: right;"><em>Via Campesina Brasil&nbsp;&nbsp;</em></p>
