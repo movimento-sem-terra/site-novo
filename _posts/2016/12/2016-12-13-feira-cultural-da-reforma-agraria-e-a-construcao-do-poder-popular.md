@@ -8,7 +8,7 @@ hat: ""
 title: Feira Cultural da Reforma Agrária e a construção do poder popular
 support_line: "Com as feiras o MST permite que a cidade compreenda que a Reforma Agrária não é uma pauta do passado, que o debate sobre produção de alimentos saudáveis é uma questão de segurança e soberania alimentar"
 menu: reforma agrária
-section: featured-news
+section: null
 label: articles
 images_hd: //farm1.staticflickr.com/549/30810322823_7b7e9ae72f_b.jpg
 layout: post
