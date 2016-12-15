@@ -35,7 +35,7 @@ releated_posts:
   - _posts/2016/12/2016-12-09-mst-inicia-circuito-de-feira-da-reforma-agraria-no-df.md
   - _posts/2016/11/2016-11-03-os-desafios-da-agroecologia-desde-dentro.md
   - _posts/2016/12/2016-12-05-1o-circuito-de-feiras-e-mostras-culturais-do-df-e-entorno-oferta-variedade-de-alimentos-agroecologicos.md
-section: featured-news
+section: null
 
 ---
 <p>&nbsp;</p>
