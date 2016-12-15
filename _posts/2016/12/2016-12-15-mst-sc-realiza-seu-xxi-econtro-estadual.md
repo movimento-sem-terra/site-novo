@@ -5,18 +5,18 @@ tags:
   - tag: encontro-estadual
   - tag: conjuntura
 support_line: O objetivo do encontro é debater sobre a conjuntura em que o país está vivendo e traçar estratégias para o próximo período.
-title: MST-SC realiza seu XXI Econtro Estadual
+title: MST-SC realiza seu XXI Encontro Estadual
 menu: reforma agrária
-images_hd: //farm1.staticflickr.com/273/31663087735_bce72ea59f_b.jpg
+images_hd: //farm1.staticflickr.com/130/30852917803_35f34e9343_b.jpg
 layout: post
 files:
-  - link: //farm1.staticflickr.com/273/31663087735_bce72ea59f_b.jpg
-    original: //farm1.staticflickr.com/273/31663087735_432e5be794_o.jpg
-    thumbnail: //farm1.staticflickr.com/273/31663087735_bce72ea59f_t.jpg
-    medium: //farm1.staticflickr.com/273/31663087735_bce72ea59f_z.jpg
-    small: //farm1.staticflickr.com/273/31663087735_bce72ea59f_n.jpg
-    title: IMG_0255.JPG
-    $$hashKey: 06U
+  - link: //farm1.staticflickr.com/130/30852917803_35f34e9343_b.jpg
+    original: //farm1.staticflickr.com/130/30852917803_f77bf293da_o.jpg
+    thumbnail: //farm1.staticflickr.com/130/30852917803_35f34e9343_t.jpg
+    medium: //farm1.staticflickr.com/130/30852917803_35f34e9343_z.jpg
+    small: //farm1.staticflickr.com/130/30852917803_35f34e9343_n.jpg
+    title: encontro estadual SC 2016.jpg
+    $$hashKey: 0DF
 created_date: "2016-12-15T13:54:01-02:00"
 published: true
 releated_posts:
