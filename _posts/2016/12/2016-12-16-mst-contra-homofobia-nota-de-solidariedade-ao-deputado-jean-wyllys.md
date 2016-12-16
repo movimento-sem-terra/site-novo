@@ -35,7 +35,7 @@ releated_posts:
   - _posts/2016/09/2016-09-09-na-bahia-eddie-conway-visita-ocupacao-do-mst-no-incra.md
 
 ---
-<figure class="image"><img alt="db184a20-87e8-499e-a224-af94381885af.jpg" height="701" src="//farm6.staticflickr.com/5626/30838770184_8cbc9c244a_b.jpg" width="700" />
+<figure class="image"><img alt="db184a20-87e8-499e-a224-af94381885af.jpg" height="601" src="//farm6.staticflickr.com/5626/30838770184_8cbc9c244a_b.jpg" width="600" />
 <figcaption></figcaption>
 </figure>
 
