@@ -7,16 +7,23 @@ tags:
 title: "MST realiza encontro estadual no Ceará "
 support_line: "Para Irineuda Lopes da direção nacional do MST, \"no atual contexto histórico é necessário  fortalecermos e manter a base formada e informada para derrotar esse governo golpista e suas medidas neoliberais\""
 menu: lutas e mobilizações
-images_hd: //farm6.staticflickr.com/5322/31679560835_ba096dafb4_b.jpg
+images_hd: //farm1.staticflickr.com/386/30870209363_3d622e5120_b.jpg
 layout: post
 files:
-  - link: //farm6.staticflickr.com/5322/31679560835_ba096dafb4_b.jpg
-    original: //farm6.staticflickr.com/5322/31679560835_d17552f629_o.jpg
-    thumbnail: //farm6.staticflickr.com/5322/31679560835_ba096dafb4_t.jpg
-    medium: //farm6.staticflickr.com/5322/31679560835_ba096dafb4_z.jpg
-    small: //farm6.staticflickr.com/5322/31679560835_ba096dafb4_n.jpg
-    title: 23743662412_b7bd46cc90_b.jpg
-    $$hashKey: 0DM
+  - link: //farm6.staticflickr.com/5795/31307795270_f8e107b544_b.jpg
+    original: //farm6.staticflickr.com/5795/31307795270_441c0f2a34_o.jpg
+    thumbnail: //farm6.staticflickr.com/5795/31307795270_f8e107b544_t.jpg
+    medium: //farm6.staticflickr.com/5795/31307795270_f8e107b544_z.jpg
+    small: //farm6.staticflickr.com/5795/31307795270_f8e107b544_n.jpg
+    title: 31679158715_8dfa7af794_o (1).jpg
+    $$hashKey: "193"
+  - link: //farm1.staticflickr.com/386/30870209363_3d622e5120_b.jpg
+    original: //farm1.staticflickr.com/386/30870209363_7c55e1a297_o.jpg
+    thumbnail: //farm1.staticflickr.com/386/30870209363_3d622e5120_t.jpg
+    medium: //farm1.staticflickr.com/386/30870209363_3d622e5120_z.jpg
+    small: //farm1.staticflickr.com/386/30870209363_3d622e5120_n.jpg
+    title: 31642377746_556441c71e_o.jpg
+    $$hashKey: "196"
 created_date: "2016-12-16T11:15:55-02:00"
 published: true
 releated_posts:
@@ -26,6 +33,10 @@ releated_posts:
   - _posts/2016/12/2016-12-05-amigos-do-mst-recebem-homenagem-pela-contribuicao-na-luta-popular.md
 
 ---
+<figure class="image"><img alt="31679158715_8dfa7af794_o (1).jpg" height="436" src="//farm6.staticflickr.com/5795/31307795270_f8e107b544_b.jpg" width="700" />
+<figcaption></figcaption>
+</figure>
+
 <p>&nbsp;</p>
 
 <p><em>Por: Aline Oliveira&nbsp;</em></p>
