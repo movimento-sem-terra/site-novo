@@ -7,16 +7,16 @@ tags:
 title: Ameaça aos direitos indígenas gera tensão no MS
 support_line: Despejo forçado ameaça famílias de três retomadas indígenas na Terra Indígena Dourados-Amambai Peguá I.
 menu: direitos humanos
-images_hd: //farm6.staticflickr.com/5790/31707092416_5972d5c99a_b.jpg
+images_hd: //farm6.staticflickr.com/5486/31710768466_00062d485a_b.jpg
 layout: post
 files:
-  - link: //farm6.staticflickr.com/5790/31707092416_5972d5c99a_b.jpg
-    original: //farm6.staticflickr.com/5790/31707092416_ce73669f29_o.jpg
-    thumbnail: //farm6.staticflickr.com/5790/31707092416_5972d5c99a_t.jpg
-    medium: //farm6.staticflickr.com/5790/31707092416_5972d5c99a_z.jpg
-    small: //farm6.staticflickr.com/5790/31707092416_5972d5c99a_n.jpg
-    title: guarani ms.jpg
-    $$hashKey: 03D
+  - link: //farm6.staticflickr.com/5486/31710768466_00062d485a_b.jpg
+    original: //farm6.staticflickr.com/5486/31710768466_1cca9c8d10_o.jpg
+    thumbnail: //farm6.staticflickr.com/5486/31710768466_00062d485a_t.jpg
+    medium: //farm6.staticflickr.com/5486/31710768466_00062d485a_z.jpg
+    small: //farm6.staticflickr.com/5486/31710768466_00062d485a_n.jpg
+    title: WhatsApp Image 2016-12-19 at 14.06.59.jpeg
+    $$hashKey: 05J
 created_date: "2016-12-19T13:15:16-02:00"
 published: true
 releated_posts:
@@ -30,7 +30,8 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p><em>Da P&aacute;gina do MST</em></p>
+<p><em>Da P&aacute;gina do MST<br />
+Foto de capa: Janelson Ferreira/MST</em></p>
 
 <p>&nbsp;</p>
 
