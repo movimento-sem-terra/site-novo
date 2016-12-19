@@ -43,6 +43,9 @@ As retomadas nomeadas de Jeroky Guasu, &Ntilde;amoi Guaviray, e Kunumi Poty Ver&
 As organiza&ccedil;&otilde;es alertam para a escalada de viola&ccedil;&otilde;es dos direitos ind&iacute;genas na regi&atilde;o, desde o ataque paramilitar organizado por fazendeiros e pistoleiros em junho deste ano, que resultou na morte do agente comunit&aacute;rio de sa&uacute;de Clodiodi de Souza. Esta nova ordem de despejo se soma &agrave; expectativa de mudan&ccedil;as na regulamenta&ccedil;&atilde;o das demarca&ccedil;&otilde;es, nova ofensiva do governo golpista de Temer contra os povos tradicionais.</p>
 
 <p><br />
+<iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/7cydEai17n0" width="640"></iframe></p>
+
+<p><br />
 Leia a &iacute;ntegra do comunicado:</p>
 
 <p style="text-align: center;"><br />
