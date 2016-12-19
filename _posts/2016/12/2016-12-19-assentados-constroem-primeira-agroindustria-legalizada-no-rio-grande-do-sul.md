@@ -4,7 +4,7 @@ tags:
   - tag: reforma-agrária
   - tag: agroindústria
   - tag: rio-grande-do-sul
-title: Assentados constroem primeira agroindústria legalizada no Rio Grande do Sul
+title: "Assentados constroem primeira agroindústria legalizada em Salto do Jacuí, no Rio Grande do Sul"
 support_line: Os panificados do empreendimento Semeando Sabores têm o selo Sabor Gaúcho e podem ser vendidos em todo o território do estado
 images_hd: //farm6.staticflickr.com/5494/30902462444_c7574e1c40_b.jpg
 menu: reforma agrária
