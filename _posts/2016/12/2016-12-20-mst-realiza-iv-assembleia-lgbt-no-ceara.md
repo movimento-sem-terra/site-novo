@@ -5,7 +5,7 @@ tags:
   - tag: direitos-humanos
   - tag: encontro-estadual
 title: MST realiza IV assembleia LGBT no Ceará
-support_line: A atividade teve como um dos objetivos construir novas relações de gênero dentro do MST
+support_line: A atividade teve como um dos objetivos centrais a construção de novas relações de gênero dentro do MST
 menu: direitos humanos
 images_hd: //farm1.staticflickr.com/643/31768486475_da0e08c885_b.jpg
 layout: post
