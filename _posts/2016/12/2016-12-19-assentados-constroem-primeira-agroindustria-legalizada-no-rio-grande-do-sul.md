@@ -62,7 +62,7 @@ Da P&aacute;gina do MST&nbsp;</em></p>
 <p>O assentamento Rinc&atilde;o do Iva&iacute;, um dos primeiros do MST&nbsp;no Rio Grande do Sul, inaugurou na &uacute;ltima&nbsp;ter&ccedil;a-feira (13), a primeira agroind&uacute;stria legalizada do munic&iacute;pio de Salto do Jacu&iacute;, no Noroeste do estado.</p>
 
 <p><br />
-A agroind&uacute;stria &#39;Semeando Sabores&#39;, localizada em um&nbsp;lote de cerca de 10 hectares fica h&aacute;&nbsp;52 quil&ocirc;metros do centro da cidade, &eacute; administrada pela assentada Jane da Silva, 33 anos, que come&ccedil;ou com o empreendimento h&aacute; tr&ecirc;s anos atr&aacute;s, quando fazia panif&iacute;cios na varanda de sua casa para vender.</p>
+A agroind&uacute;stria &#39;Semeando Sabores&#39;, localizada em um&nbsp;lote de cerca de 10 hectares fica h&aacute;&nbsp;52 quil&ocirc;metros do centro da cidade, &eacute; administrada pela assentada Jane da Silva, 33 anos, que come&ccedil;ou com o empreendimento h&aacute; tr&ecirc;s anos, quando fazia panif&iacute;cios na varanda de sua casa para vender.</p>
 
 <p><br />
 &ldquo;&Eacute; um sonho que realizamos a partir da supera&ccedil;&atilde;o de dificuldades. Tudo o que temos hoje &eacute; fruto de muito suor e esfor&ccedil;o coletivo&rdquo;, diz.</p>
