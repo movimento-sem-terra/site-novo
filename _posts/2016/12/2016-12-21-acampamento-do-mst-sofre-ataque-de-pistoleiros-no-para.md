@@ -1,5 +1,5 @@
 ---
-date: "2016-12-21T09:17:20-03:00"
+date: "2016-12-21T10:17:20-02:00"
 tags:
   - tag: pará
   - tag: violência-no-campo
@@ -8,7 +8,7 @@ tags:
 title: Acampamento do MST sofre ataque de pistoleiros no Pará
 support_line: Os ataques começaram na segunda-feira e três caminhonetes ajudam na ação criminosa.
 menu: direitos humanos
-section: featured-news
+section: cover
 images_hd: //farm1.staticflickr.com/550/30941152454_b24fcd0081_b.jpg
 layout: post
 files:
