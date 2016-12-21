@@ -68,7 +68,7 @@ Participaram do evento de inaugura&ccedil;&atilde;o&nbsp;deputados da cidade, o 
 Vilson Santin, dirigente nacional do MST relata que, desde o in&iacute;cio da constru&ccedil;&atilde;o do assentamento o debate acerca da organiza&ccedil;&atilde;o e produ&ccedil;&atilde;o era feito.</p>
 
 <p><br />
-&ldquo;Hoje somos umas das refer&ecirc;ncias em&nbsp;n&iacute;vel nacional com rela&ccedil;&atilde;o a assist&ecirc;ncia t&eacute;cnica e organiza&ccedil;&atilde;o de cooperativas e, isso n&atilde;o foi por acaso, &eacute; fruto de um grande esfor&ccedil;o e de um longo planejamento. Seja por partte das fam&iacute;lias assentadas, seja pelos&nbsp;amigos e amigas que sempre nos apoiaram&rdquo;,&nbsp;diz&nbsp;Santin.</p>
+&ldquo;Hoje somos umas das refer&ecirc;ncias em&nbsp;n&iacute;vel nacional com rela&ccedil;&atilde;o a assist&ecirc;ncia t&eacute;cnica e organiza&ccedil;&atilde;o de cooperativas e, isso n&atilde;o foi por acaso, &eacute; fruto de um grande esfor&ccedil;o e de um longo planejamento. Seja por parte das fam&iacute;lias assentadas, seja pelos&nbsp;amigos e amigas que sempre nos apoiaram&rdquo;,&nbsp;diz&nbsp;Santin.</p>
 
 <p><br />
 O deputado estadual, Dirceu Dresch, falou sobre a &nbsp;import&acirc;ncia de investimentos como esse para o desenvolvimento das fam&iacute;lias que resistem na terra.</p>
