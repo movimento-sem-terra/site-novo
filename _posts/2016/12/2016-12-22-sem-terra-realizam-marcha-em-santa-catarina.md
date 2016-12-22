@@ -48,7 +48,11 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p>Cera de 700 Sem Terra moradores do acampamento Marcelino Chiarello, localizado entre Xanxer&ecirc;&nbsp;e Faxinal dos Guedes,&nbsp;Santa Catarina, participaram de uma marcha na manh&atilde; desta quarta-feira (21).</p>
+<p><em>Por Fabio Reis&nbsp;<br />
+Da P&aacute;gina do MST</em></p>
+
+<p><br />
+Cera de 700 Sem Terra moradores do acampamento Marcelino Chiarello, localizado entre Xanxer&ecirc;&nbsp;e Faxinal dos Guedes,&nbsp;Santa Catarina, participaram de uma marcha na manh&atilde; desta quarta-feira (21).</p>
 
 <p><br />
 O objetivo da caminhada foi foi chamar a aten&ccedil;&atilde;o da popula&ccedil;&atilde;o local para a defesa da Reforma Agr&aacute;ria na regi&atilde;o e para os direitos dos trabalhadores.</p>
