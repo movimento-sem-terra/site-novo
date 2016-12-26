@@ -5,7 +5,7 @@ tags:
   - tag: solidariedade
   - tag: lutas-e-mobilizações
 title: "Sem Terra participam de mutirão oftalmológico na Bahia "
-support_line: "310 óculos foram distribuídos pela “Caravana da Brigada de Alfabetização Carolina de Jesus”, que está desenvolvendo atividades de formação no estado"
+support_line: "213 óculos foram distribuídos pela “Caravana da Brigada de Alfabetização Carolina de Jesus”, para 310 estudantes "
 menu: projeto popular
 images_hd: //farm1.staticflickr.com/283/31890119815_d60b3eb9aa_b.jpg
 layout: post
@@ -39,7 +39,7 @@ releated_posts:
 Entre os dias 21 e 22, as brigadas Elias Gon&ccedil;alves de Meura e Ernesto Che&nbsp;Guevara, localizadas no extremo sul da Bahia, receberam a &ldquo;Caravana da Brigada de Alfabetiza&ccedil;&atilde;o Carolina de Jesus&rdquo;, que est&aacute; desenvolvendo atividades de forma&ccedil;&atilde;o atrav&eacute;s do m&eacute;todo cubano de erradica&ccedil;&atilde;o do analfabetismo &ldquo;Sim, eu posso&rdquo;.</p>
 
 <p><br />
-Na ocasi&atilde;o, a Caravana realizou a entrega de 310 &oacute;culos de grau aos estudantes do projeto, que pretende alfabetizar trabalhadores e trabalhadoras Sem Terra em poucos meses.</p>
+Na ocasi&atilde;o, a Caravana realizou a entrega de 213&nbsp;&oacute;culos de grau aos estudantes do projeto, que pretende alfabetizar trabalhadores e trabalhadoras Sem Terra em poucos meses.</p>
 
 <p><br />
 A brigada de alfabetiza&ccedil;&atilde;o j&aacute; passou em 11 &aacute;reas que comp&otilde;e o projeto de assentamentos agroecol&oacute;gicos Fidel Castro, entregando 213 &oacute;culos e 30 televisores que v&atilde;o contribuir no processo de aprendizagem.</p>
