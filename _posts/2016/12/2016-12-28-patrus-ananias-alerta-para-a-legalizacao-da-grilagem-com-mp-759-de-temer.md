@@ -4,8 +4,8 @@ tags:
   - tag: governo-temer
   - tag: reforma-agrária
   - tag: terras
-support_line: "É um descalabro, sorrateiro, mas não surpreendente. É próprio de um governo golpista comprometido com o capital especulativo transnacional, que mira com olhos gulosos o solo de nossa pátria."
-title: Patrus Ananias alerta para a legalização da grilagem com MP 759 de Temer
+support_line: "É próprio de um governo golpista comprometido com o capital especulativo transnacional, que mira com olhos gulosos o solo de nossa pátria."
+title: Patrus Ananias alerta para a legalização da grilagem com MP 759
 menu: reforma agrária
 section: cover
 images_hd: //farm1.staticflickr.com/651/31564950250_b824910c85_b.jpg
