@@ -56,7 +56,7 @@ Durante os dias de encontro, toda a milit&acirc;ncia do Movimento no estado part
 De acordo com Margarida da Silva, da dire&ccedil;&atilde;o nacional do MST, o momento &eacute; de organiza&ccedil;&atilde;o, resist&ecirc;ncia e luta para enfrentar os ataques &agrave; classe trabalhadora.&nbsp;</p>
 
 <p><br />
-&ldquo;Vivemos uma conjuntura extremamente dif&iacute;cil para o povo brasileiro, que enfrenta diversos retrocessos nos direitos no campo e na cidade. &Eacute; fundamental que possamos analisar o momento para, coletivamente, tra&ccedil;armos um planejamento para a organiza&ccedil;&atilde;o e a luta na defesa de vida digna para o povo.&rdquo;</p>
+&ldquo;Vivemos uma conjuntura extremamente dif&iacute;cil para o povo brasileiro, que enfrenta diversos retrocessos nos direitos no campo e na cidade. &Eacute; fundamental que possamos analisar o momento para&nbsp;coletivamente, tra&ccedil;armos um planejamento para a organiza&ccedil;&atilde;o e a luta na defesa de vida digna para o povo.&rdquo;</p>
 
 <p><br />
 Margarida destacou ainda que a diversidade de representa&ccedil;&atilde;o no encontro possibilita qualificar essa an&aacute;lise.&nbsp;&rdquo;Temos uma representa&ccedil;&atilde;o da dimens&atilde;o do nosso Movimento: homens, mulheres, jovens e crian&ccedil;as de todos os nossos assentamentos e acampamentos em Alagoas, que est&atilde;o dispostos a debater as nossas tarefas e desafios deste momento pol&iacute;tico que estamos&rdquo;.&nbsp;</p>
