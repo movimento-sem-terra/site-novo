@@ -48,7 +48,9 @@ Mesmo sendo v&iacute;timas de um atentado violento com arma de fogo, os agricult
 Leia a den&uacute;ncia do Movimento no Estado:</p>
 
 <p><br />
-A dire&ccedil;&atilde;o do MST-GO denuncia o atentado praticado pela Usina Santa Helena contra o acampamento Leonir Orbak. Nesse &uacute;ltimo dia 04, no final da tarde, dois vigilantes fardados da Usina se aproximaram do acampamento e efetuaram v&aacute;rios disparos de pistola. Os tiros foram efetuados em dire&ccedil;&atilde;o de um grupo de fam&iacute;lias onde, inclusive, haviam crian&ccedil;as. Ap&oacute;s mobiliza&ccedil;&atilde;o dos acampados, os atiradores fugiram, mas deixaram cair um pente de muni&ccedil;&atilde;o.<br />
+A dire&ccedil;&atilde;o do MST-GO denuncia o atentado praticado pela Usina Santa Helena contra o acampamento Leonir Orbak. Nesse &uacute;ltimo dia 04, no final da tarde, dois vigilantes fardados da Usina se aproximaram do acampamento e efetuaram v&aacute;rios disparos de pistola. Os tiros foram efetuados em dire&ccedil;&atilde;o de um grupo de fam&iacute;lias onde, inclusive, haviam crian&ccedil;as. Ap&oacute;s mobiliza&ccedil;&atilde;o dos acampados, os atiradores fugiram, mas deixaram cair um pente de muni&ccedil;&atilde;o.</p>
+
+<p><br />
 Imediatamente ao ocorrido a dire&ccedil;&atilde;o do acampamento se articulou com o N&uacute;cleo de Direitos Humanos de Rio Verde e Regi&atilde;o e se dirigiu &agrave; delegacia de Santa Helena para efetuar o Boletim de Ocorr&ecirc;ncia e cobrar provid&ecirc;ncias. Houve claro descaso com a denuncia, n&atilde;o sendo lavrado a entrega do pente de munica&ccedil;&atilde;o e at&eacute; o presente momento o delegado da regi&atilde;o n&atilde;o deu qualquer informa&ccedil;&atilde;o, tampouco providenciou dilig&ecirc;ncias para conseguir outras provas do atentado.</p>
 
 <p><br />
