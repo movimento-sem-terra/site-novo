@@ -1,5 +1,5 @@
 ---
-date: "2016-12-28T13:11:51-03:00"
+date: "2016-12-28T14:11:51-02:00"
 tags:
   - tag: governo-temer
   - tag: reforma-agrária
@@ -7,7 +7,7 @@ tags:
 support_line: "É próprio de um governo golpista comprometido com o capital especulativo transnacional, que mira com olhos gulosos o solo de nossa pátria."
 title: Patrus Ananias alerta para a legalização da grilagem com MP 759
 menu: reforma agrária
-section: cover
+section: featured-news
 images_hd: //farm1.staticflickr.com/651/31564950250_b824910c85_b.jpg
 layout: post
 files:
