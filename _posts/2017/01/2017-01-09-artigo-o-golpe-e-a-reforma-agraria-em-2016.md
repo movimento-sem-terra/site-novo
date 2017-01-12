@@ -31,7 +31,8 @@ releated_posts:
 ---
 <p>&nbsp;</p>
 
-<p><em>Da P&aacute;gina do MST&nbsp;</em></p>
+<p><em>Por Gerson Teixeira<br />
+Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
 O governo Dilma j&aacute; entrou para a hist&oacute;ria por ter sido interrompido por meio de um golpe pol&iacute;tico protagonizado por uma ampla alian&ccedil;a das classes conservadoras. Tais setores, n&atilde;o apenas fulminaram a ordem democr&aacute;tica; em tempo sum&aacute;rio, violaram a soberania do pa&iacute;s; solaparam direitos dos trabalhadores; e est&atilde;o retroagindo, de forma intensa a economia e o quadro social brasileiro para posi&ccedil;&atilde;o anterior a 2003. &Eacute; como se tivessem colocado o pa&iacute;s numa m&aacute;quina do tempo para uma viagem de volta s&uacute;bita a um passado que julg&aacute;vamos ter superado.</p>
