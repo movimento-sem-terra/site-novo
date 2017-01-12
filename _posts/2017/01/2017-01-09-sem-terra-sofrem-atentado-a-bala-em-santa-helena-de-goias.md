@@ -8,7 +8,7 @@ images_hd: //farm1.staticflickr.com/752/31833768200_4954814ebe_b.jpg
 title: Sem Terra sofrem atentado à bala em Santa Helena de Goiás
 support_line: "Numa ação miliciana, os atiradores fugiram deixando cair um pente carregado de munição."
 menu: direitos humanos
-section: cover
+section: featured-news
 layout: post
 files:
   - link: //farm1.staticflickr.com/752/31833768200_4954814ebe_b.jpg
