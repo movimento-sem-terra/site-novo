@@ -6,17 +6,17 @@ tags:
   - tag: terras-públicas
 title: MST ocupa área apropriada indevidamente pela Fíbria em Aracruz-ES
 menu: lutas e mobilizações
-images_hd: //farm6.staticflickr.com/5509/32166280981_3e73c649bf_b.jpg
+images_hd: //farm1.staticflickr.com/714/32287941985_7a4579f4d7_b.jpg
 support_line: As famílias ocupantes já estabeleceram o acampamento e agora preparam a terra para o cultivo de alimentos livres de agrotóxicos.
 layout: post
 files:
-  - link: //farm6.staticflickr.com/5509/32166280981_3e73c649bf_b.jpg
-    original: //farm6.staticflickr.com/5509/32166280981_d530ce96af_o.jpg
-    thumbnail: //farm6.staticflickr.com/5509/32166280981_3e73c649bf_t.jpg
-    medium: //farm6.staticflickr.com/5509/32166280981_3e73c649bf_z.jpg
-    small: //farm6.staticflickr.com/5509/32166280981_3e73c649bf_n.jpg
+  - link: //farm1.staticflickr.com/714/32287941985_7a4579f4d7_b.jpg
+    original: //farm1.staticflickr.com/714/32287941985_69882991fe_o.jpg
+    thumbnail: //farm1.staticflickr.com/714/32287941985_7a4579f4d7_t.jpg
+    medium: //farm1.staticflickr.com/714/32287941985_7a4579f4d7_z.jpg
+    small: //farm1.staticflickr.com/714/32287941985_7a4579f4d7_n.jpg
     title: WhatsApp Image 2017-01-13 at 08.41.50.jpeg
-    $$hashKey: 02P
+    $$hashKey: 0LY
 created_date: "2017-01-13T14:06:55-02:00"
 published: true
 releated_posts:
