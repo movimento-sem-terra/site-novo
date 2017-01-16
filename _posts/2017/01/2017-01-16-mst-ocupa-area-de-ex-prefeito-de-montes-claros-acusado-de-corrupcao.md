@@ -31,6 +31,13 @@ files:
     small: //farm1.staticflickr.com/704/32350248165_b514a60b72_n.jpg
     title: norte america-12.jpg
     $$hashKey: 02Y
+  - link: //farm1.staticflickr.com/758/32352168805_5f82872a42_b.jpg
+    original: //farm1.staticflickr.com/758/32352168805_6ea4302903_o.jpg
+    thumbnail: //farm1.staticflickr.com/758/32352168805_5f82872a42_t.jpg
+    medium: //farm1.staticflickr.com/758/32352168805_5f82872a42_z.jpg
+    small: //farm1.staticflickr.com/758/32352168805_5f82872a42_n.jpg
+    title: 16121760_1370447259691886_1524807969_o.jpg
+    $$hashKey: 0TN
 created_date: "2017-01-16T16:29:13-02:00"
 published: true
 releated_posts:
@@ -91,5 +98,11 @@ Muniz responde a in&uacute;meros casos de desvio de recursos p&uacute;blicos uti
 Outro caso &eacute; de desvio de gasolina da Empresa Municipal de Servi&ccedil;os, Obras e Urbaniza&ccedil;&atilde;o (Esurb), com um rombo estimado em mais de R$ 20 milh&otilde;es, dinheiro que seria usado para pagar as presta&ccedil;&otilde;es da mans&atilde;o da fam&iacute;lia Muniz. Para possibilitar o esquema, Leonardo Andrade e Cristiano J&uacute;nior foram nomeados em cargos estrat&eacute;gicos na administra&ccedil;&atilde;o municipal. Ambos s&atilde;o apontados como &ldquo;laranjas&rdquo;, de Muniz, figurando como s&oacute;cios do &ldquo;conglomerado empresarial&rdquo;.</p>
 
 <p><br />
-De acordo com investiga&ccedil;&atilde;o do Minist&eacute;rio P&uacute;blico, o grupo do ex-prefeito e da deputada soma 146 pessoas jur&iacute;dicas que sugam milh&otilde;es dos recursos p&uacute;blicos h&aacute; anos, atrav&eacute;s das chamadas entidades filantr&oacute;picas.<br />
+De acordo com investiga&ccedil;&atilde;o do Minist&eacute;rio P&uacute;blico, o grupo do ex-prefeito e da deputada soma 146 pessoas jur&iacute;dicas que sugam milh&otilde;es dos recursos p&uacute;blicos h&aacute; anos, atrav&eacute;s das chamadas entidades filantr&oacute;picas.</p>
+
+<p><br />
 &nbsp;</p>
+
+<figure class="image"><img alt="16121760_1370447259691886_1524807969_o.jpg" height="525" src="//farm1.staticflickr.com/758/32352168805_5f82872a42_b.jpg" width="700" />
+<figcaption></figcaption>
+</figure>
