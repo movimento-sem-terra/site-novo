@@ -30,6 +30,7 @@ releated_posts:
   - _posts/2016/05/2016-05-18-durante-acao-de-despejo-sem-terra-denunciam-abuso-de-poder-do-judiciario-na-bahia.md
   - _posts/2016/07/2016-07-22-apos-um-ano-acampados-sem-terra-sofrem-despejo-no-extremo-sul-baiano.md
   - _posts/2016/05/2016-05-05-em-nota-mst-repudia-ataque-contra-militante-do-mtst.md
+section: cover
 
 ---
 <figure class="image"><img alt="WhatsApp Image 2017-01-17 at 12.24.14 (2).jpeg" height="394" src="//farm6.staticflickr.com/5573/32246854061_84b1aece15_b.jpg" width="700" />
