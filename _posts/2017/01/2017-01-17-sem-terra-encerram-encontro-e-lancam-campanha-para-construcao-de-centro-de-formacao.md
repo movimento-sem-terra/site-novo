@@ -4,9 +4,9 @@ tags:
   - tag: formação
   - tag: encontro-estadual
   - tag: reforma-agrária
-title: Sem Terra encerram Encontro e lançam campanha para construção de Centro de Formação
+title: "Sem Terra encerram Encontro Estadual na Bahia "
 images_hd: //farm1.staticflickr.com/719/31528581654_e1e55166e9_b.jpg
-support_line: "Segundo a direção do Movimento no estado, a  construção do centro atende à demanda de ter um espaço onde os trabalhadores possam formular sobre as diversas questões que envolvem a luta"
+support_line: Na ocasião também foi lançada a campanha para a construção de um centro de formação no estado
 menu: lutas e mobilizações
 layout: post
 files:
