@@ -60,7 +60,7 @@ O deputado federal Valmir Assun&ccedil;&atilde;o (PT) falou &nbsp;da primeira ca
 
 <p>&nbsp;</p>
 
-<p>Segundo a dire&ccedil;&atilde;o do Movimento no estado, a &nbsp;constru&ccedil;&atilde;o do centro atende &agrave; demanda de ter um espa&ccedil;o de forma&ccedil;&atilde;o&nbsp;pol&iacute;tica que agregue novos elementos, um espe&ccedil;o onde&nbsp;os&nbsp;trabalhadores possam formular sobre as diversas quest&otilde;es que envolvem a luta de classe no mundo.</p>
+<p>Segundo a dire&ccedil;&atilde;o do Movimento no estado, a &nbsp;constru&ccedil;&atilde;o do centro atende &agrave; demanda de um&nbsp;espa&ccedil;o de forma&ccedil;&atilde;o&nbsp;pol&iacute;tica que agregue novos elementos, um espe&ccedil;o onde&nbsp;os&nbsp;trabalhadores possam formular sobre as diversas quest&otilde;es que envolvem a luta de classe no mundo.</p>
 
 <p><br />
 Foi pensando nisto, que para o MST &eacute; invi&aacute;vel &nbsp;discutir forma&ccedil;&atilde;o, sem debater primeiro o projeto pol&iacute;tico que aponte um &nbsp;amplo processo de transforma&ccedil;&atilde;o social e dos sujeitos em sua &nbsp;individualidade.</p>
