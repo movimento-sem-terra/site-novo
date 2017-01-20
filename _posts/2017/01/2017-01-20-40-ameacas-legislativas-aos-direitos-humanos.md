@@ -4,7 +4,7 @@ tags:
   - tag: direitos-humanos
   - tag: fora-temer
   - tag: retirada-de-direitos
-title: 40 ameaças legislativas aos direitos humanos
+title: Relatório mostra as 40 ameaças legislativas aos direitos humanos
 menu: direitos humanos
 support_line: "Parte das iniciativas já foi aprovada em 2016, parte ainda tramita no Congresso"
 images_hd: //farm1.staticflickr.com/719/31580128004_a38a29db69_b.jpg
