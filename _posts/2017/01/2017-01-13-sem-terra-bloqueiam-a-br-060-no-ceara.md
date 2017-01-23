@@ -37,7 +37,9 @@ releated_posts:
   - _posts/2017/01/2017-01-09-mst-realiza-5a-feira-cultural-da-reforma-agraria-no-ceara.md
 
 ---
-<p><img alt="03.jpg" src="//farm1.staticflickr.com/389/32137248492_34c7d6b86c_b.jpg" /></p>
+<figure class="image"><img alt="03.jpg" height="394" src="//farm1.staticflickr.com/389/32137248492_34c7d6b86c_b.jpg" width="700" />
+<figcaption></figcaption>
+</figure>
 
 <p>&nbsp;</p>
 
