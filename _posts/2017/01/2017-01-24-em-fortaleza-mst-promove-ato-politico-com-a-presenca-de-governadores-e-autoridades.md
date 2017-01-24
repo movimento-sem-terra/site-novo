@@ -4,7 +4,7 @@ tags:
   - tag: reforma-agrária
   - tag: direitos-sociais
   - tag: democracia
-title: "Em Fortaleza, MST promove ato político com a presença de governadores e autoridades"
+title: MST promove ato político com a presença de governadores e autoridades
 support_line: "O ato pautará a defesa da Reforma Agrária, da democracia e marca o posicionamento contra a retirada de direitos sociais capitaneada pelo governo Temer."
 menu: lutas e mobilizações
 images_hd: //farm1.staticflickr.com/644/31694666623_a640d4e065_b.jpg
