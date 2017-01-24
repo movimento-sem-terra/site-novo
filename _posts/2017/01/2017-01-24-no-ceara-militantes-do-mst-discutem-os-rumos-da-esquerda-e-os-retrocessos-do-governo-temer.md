@@ -64,7 +64,9 @@ Ainda para Amorin, todos os trabalhadores de um modo geral v&atilde;o perder com
 J&aacute; o professor Sergio Gabrielli, falou sobre os fatos internacionais que interferem diretamente na conjuntura brasileira.&nbsp;</p>
 
 <p><br />
-Como exemplo citou a vit&oacute;ria de Donald Trump nos Estados Unidos o desmonte da Uni&atilde;o Europeia, entre outros.<br />
+Como exemplo citou a vit&oacute;ria de Donald Trump nos Estados Unidos o desmonte da Uni&atilde;o Europeia e a mudan&ccedil;a&nbsp;na economia chinesa.</p>
+
+<p><br />
 Gabrielli tamb&eacute;m falou sobre os desafios que dever&atilde;o ser enfrentados pela esquerda brasileira. &quot;Nesse momento de indefini&ccedil;&atilde;o do bloco dominante, n&oacute;s tamb&eacute;m temos indefini&ccedil;&atilde;o no bloco de oposi&ccedil;&atilde;o, ou bloco popular. Precisamos redefinir alian&ccedil;as, uma pauta. Mas tamb&eacute;m precisamos avan&ccedil;ar em termos de propostas para reconquistar os brasileiros&quot;, pontuou.</p>
 
 <p><br />
@@ -77,7 +79,7 @@ Paralelo a isso, Jandyra Uherara da CUT, lembrou que a esquerda mundial vive um 
 &quot;Temos o desafio de vincular as manifesta&ccedil;&otilde;es e coesionar a unidade pol&iacute;tica em torno de um projeto para o pa&iacute;s. Isso tende a dar uma resposta concreta ao conjunto de necessidades da classe trabalhadora. O que estamos vivendo &eacute; reflexo de nossos erros. N&atilde;o h&aacute; concilia&ccedil;&atilde;o de classes, mas, sim, o exerc&iacute;cio de avan&ccedil;ar na organiza&ccedil;&atilde;o, no retorno das lutas de massa e num programa horizonte estrat&eacute;gico para a classe trabalhadora&quot;, salientou.</p>
 
 <p><br />
-Nesse contexto, Sergio Sauer , frisou que o governo golpista tomou iniciativas que indicam as inten&ccedil;&otilde;es de Temer em rela&ccedil;&atilde;o &agrave; Reforma Agr&aacute;ria, como a destrui&ccedil;&atilde;o do Minist&eacute;rio do Desenvolvimento Agr&aacute;rio (MDA) e o fechamento da Ouvidoria Agr&aacute;ria. &nbsp;Sauer tamb&eacute;m apontou a volta da Comiss&atilde;o Parlamentar de Inqu&eacute;rito (CPI) da Funda&ccedil;&atilde;o Nacional do &Iacute;ndio (Funai), o atual processo de demarca&ccedil;&atilde;o de terras ind&iacute;genas como &quot;atitudes que identificam quais as inten&ccedil;&otilde;es do atual governo em rela&ccedil;&atilde;o as pautas centrais da classe trabalhadora&quot;.&nbsp;</p>
+Nesse contexto, Sergio Sauer , frisou que o governo golpista tomou iniciativas que indicam as inten&ccedil;&otilde;es de Temer em rela&ccedil;&atilde;o &agrave; Reforma Agr&aacute;ria, como a destrui&ccedil;&atilde;o do Minist&eacute;rio do Desenvolvimento Agr&aacute;rio (MDA) e o fechamento da Ouvidoria Agr&aacute;ria. Sauer tamb&eacute;m apontou a volta da Comiss&atilde;o Parlamentar de Inqu&eacute;rito (CPI) da Funda&ccedil;&atilde;o Nacional do &Iacute;ndio (Funai) e do Instituto de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra) o atual processo de demarca&ccedil;&atilde;o de terras ind&iacute;genas como &quot;atitudes que identificam quais as inten&ccedil;&otilde;es do atual governo em rela&ccedil;&atilde;o as pautas centrais da classe trabalhadora&quot;.&nbsp;</p>
 
 <p><br />
 <strong>Ato pol&iacute;tico&nbsp;</strong></p>
