@@ -4,7 +4,7 @@ tags:
   - tag: educação
   - tag: formação
   - tag: bahia
-title: Método cubano de alfabetização pretende zerar o analfabetismo em 11 áreas do MST na Bahia
+title: Método cubano pretende zerar o analfabetismo em 11 áreas do MST
 images_hd: //farm1.staticflickr.com/447/32362596911_595081a2b4_b.jpg
 support_line: A  brigada nacional foi criada com o objetivo de formar educadores  populares para atuarem em seus respectivos estados numa campanha que  pretende zerar o analfabetismo em todas as áreas do Movimento
 menu: "educação, cultura e comunicação"
