@@ -4,7 +4,7 @@ tags:
   - tag: mobilizações
   - tag: conjuntura
   - tag: contra-o-golpe
-support_line: "\"Não estamos vivendo em qualquer tempo. Estamos. A saída de Dilma, do ponto de vista da burguesia, era uma necessidade para que se pudesse aplicar um programa a serviço do capital\""
+support_line: "\"Não estamos vivendo em qualquer tempo. A saída de Dilma, do ponto de vista da burguesia, era uma necessidade para que se pudesse aplicar um programa a serviço do capital\""
 menu: lutas e mobilizações
 section: cover
 title: "No Ceará, militantes do MST discutem os rumos da esquerda e os retrocessos do governo Temer "
