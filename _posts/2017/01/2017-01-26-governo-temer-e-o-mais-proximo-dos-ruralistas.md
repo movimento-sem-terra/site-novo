@@ -26,8 +26,7 @@ releated_posts:
 ---
 <p>&nbsp;</p>
 
-<p><em>Por Rafael Tatemoto<br />
-Especial para P&aacute;gina do MST&nbsp;</em></p>
+<p><em>Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
 &ldquo;Nunca se viu uma aproxima&ccedil;&atilde;o t&atilde;o forte com a bancada ruralista&rdquo;. Essa &eacute; a avalia&ccedil;&atilde;o de Sergio Sauer, professor do programa de p&oacute;s-gradua&ccedil;&atilde;o em Meio Ambiente e Desenvolvimento Rural da Universidade de Bras&iacute;lia, sobre o governo n&atilde;o eleito de Michel Temer (PMDB).&nbsp;</p>
