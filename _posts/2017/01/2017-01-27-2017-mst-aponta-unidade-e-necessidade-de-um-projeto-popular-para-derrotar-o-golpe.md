@@ -26,6 +26,7 @@ releated_posts:
   - _posts/2016/10/2016-10-30-pobreza-rural-atinge-60-milhoes-de-pessoas-na-america-latina-diz-oit.md
   - _posts/2016/09/2016-09-26-fora-temer-nenhum-direito-a-menos-diretas-ja.md
   - _posts/2016/10/2016-10-06-derrotas-da-esquerda-o-que-2016-tem-a-nos-ensinar.md
+section: cover
 
 ---
 <p><img alt="WhatsApp Image 2017-01-27 at 19.08.56.jpeg" height="463" src="//farm1.staticflickr.com/494/32517994536_54fba90b7f_b.jpg" width="700" /></p>
