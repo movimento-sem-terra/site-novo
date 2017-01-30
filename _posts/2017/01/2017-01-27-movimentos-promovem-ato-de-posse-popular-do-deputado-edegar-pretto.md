@@ -4,7 +4,7 @@ tags:
   - tag: lutas-e-mobilizações
   - tag: porto-alegre
   - tag: mobilizações
-title: Movimentos promovem Ato de Posse Popular do deputado Edegar Pretto
+title: Movimentos promovem Ato Popular de Posse do deputado Edegar Pretto
 support_line: O ato deve reunir cerca de duas mil pessoas que virão de todas as regiões do estado e vai destacar a importância do protagonismo popular no parlamento
 menu: lutas e mobilizações
 images_hd: //farm1.staticflickr.com/466/32177597920_e0156954d3_b.jpg
