@@ -4,7 +4,7 @@ tags:
   - tag: futebol
   - tag: lutas
   - tag: reforma-agrária
-title: "Historicamente, o estado do Espírito Santo é emblemático nesse processo formativo, pois foi neste estado que se realizou o I Seminário Nacio"
+title: Goleira do MST é convocada para Seleção Brasileira de futebol
 support_line: "Maike Weber passou boa parte de sua infância no Assentamento Conquista na Fronteira, no oeste de Santa Catarina"
 images_hd: //farm1.staticflickr.com/647/32570211226_41a442bc72_b.jpg
 menu: reforma agrária
