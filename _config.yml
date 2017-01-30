@@ -36,3 +36,10 @@ exclude:
   - node/
   - templates/
   - skelleton.json
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
+  blanklines: false
+  profile: false
+  startings: [html, head, body]
