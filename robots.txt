@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://www.mst.org.br/sitemap.xml
