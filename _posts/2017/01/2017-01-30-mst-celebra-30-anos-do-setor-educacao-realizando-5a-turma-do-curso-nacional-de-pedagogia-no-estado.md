@@ -62,7 +62,7 @@ Do Sindiupes</em></p>
 <p>At&eacute; o dia 30 de janeiro acontecem no Centro de Forma&ccedil;&atilde;o Maria Olinda (CEFORMA), no munic&iacute;pio de S&atilde;o Mateus, norte do Esp&iacute;rito Santo, as atividades da 5&ordf; Turma do Curso Nacional de Pedagogia do Movimento Sem Terra MST.</p>
 
 <p><br />
-O curso que contou com o apoio da Funda&ccedil;&atilde;o Rosa Luxemburgo -, teve&nbsp;a participa&ccedil;&atilde;o de 224 pessoas de 16 estados, (AL, CE, DF, ES, GO, MA, MG, MS, PE, PI, PR, RN, RJ, RS, SP e BA), em sua maioria educadores e educadoras que atuam em escolas de Assentamentos e Acampamentos, estudantes e militantes de outros setores da organiza&ccedil;&atilde;o.</p>
+O curso&nbsp;contou com a participa&ccedil;&atilde;o de 224 pessoas de 16 estados, (AL, CE, DF, ES, GO, MA, MG, MS, PE, PI, PR, RN, RJ, RS, SP e BA), em sua maioria educadores e educadoras que atuam em escolas de Assentamentos e Acampamentos, estudantes e militantes de outros setores da organiza&ccedil;&atilde;o.</p>
 
 <p><br />
 O objetivo &eacute; reunir militantes e educadores para aprofundar conhecimentos em torno do Projeto Educativo do MST e celebrar os 30 anos do Setor de Educa&ccedil;&atilde;o do Movimento.</p>
