@@ -46,16 +46,16 @@ releated_posts:
 <p><em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
-A partir dos 11 de fevereiro, acontece no Centro de Forma&ccedil;&atilde;o, Capacita&ccedil;&atilde;o e Pesquisa Frei Humberto&nbsp;a VI Feira Cultural da Reforma Agr&aacute;ria.</p>
+Come&ccedil;a no pr&oacute;ximo s&aacute;bado (11),&nbsp;no Centro de Forma&ccedil;&atilde;o, Capacita&ccedil;&atilde;o e Pesquisa Frei Humberto&nbsp;a VI Feira Cultural da Reforma Agr&aacute;ria.</p>
 
 <p><br />
-Como j&aacute; &eacute; de costume durante as feiras da Reforma Agr&aacute;ria acontecem debates com temas&nbsp;da atualidade, nessa edi&ccedil;&atilde;o ser&aacute; debatido &ldquo;os desafios da cultura em tempos de golpe&rdquo; que ser&aacute; facilitado por: Marcio Caetano ex-secret&aacute;rio de cultura de Fortaleza, Jairo Pontes, advogado e professor na (UFERSA) em Mossor&oacute;&nbsp;no Rio Grande do Norte e Parayba Medeiros do Grupo CIA Bate Palmas.</p>
+Como j&aacute; &eacute; de costume durante as feiras da Reforma Agr&aacute;ria acontecem debates entre os temas dessa edi&ccedil;&atilde;o &nbsp;est&aacute; &ldquo;os desafios da cultura em tempos de golpe&rdquo; que ser&aacute; facilitado por: Marcio Caetano ex-secret&aacute;rio de cultura de Fortaleza, Jairo Pontes, advogado e professor na (UFERSA) em Mossor&oacute;&nbsp;no Rio Grande do Norte e Parayba Medeiros do Grupo CIA Bate Palmas.</p>
 
 <p><br />
 A VI Feira Cultural da Reforma Agr&aacute;ria tem o&nbsp;objetivo dar visibilidade a produ&ccedil;&atilde;o camponesa e agroecol&oacute;gica, trazendo alimentos produzidos nos assentamentos e oferecendo a popula&ccedil;&atilde;o urbana a possibilidade de consumir produtos livres de agrot&oacute;xicos.&nbsp;</p>
 
 <p><br />
-Para al&eacute;m dos produtos da Reforma Agr&aacute;ria, a feira cultural &nbsp;tamb&eacute;m trar&aacute; &nbsp;produ&ccedil;&atilde;o intelectual brasileira e internacional com a participa&ccedil;&atilde;o do Plebeu Gabinete de Leitura.</p>
+Para al&eacute;m dos produtos da Reforma Agr&aacute;ria, a feira&nbsp;tamb&eacute;m trar&aacute; a produ&ccedil;&atilde;o intelectual brasileira e internacional com a participa&ccedil;&atilde;o do Plebeu Gabinete de Leitura.</p>
 
 <p><br />
 &nbsp;</p>
