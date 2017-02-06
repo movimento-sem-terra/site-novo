@@ -4,7 +4,7 @@ tags:
   - tag: reforma-agrária
   - tag: assentamento
   - tag: agroecologia
-title: "Biógrafa de Ana Maria Primavesi visita assentamento Mario Lago e acampameto Paulo Botelho-RP, do MST"
+title: "Biógrafa de Ana Maria Primavesi visita áreas do MST em São Paulo "
 images_hd: //farm1.staticflickr.com/540/32745057915_cf1278fe71_b.jpg
 support_line: "A intenção foi conhecer a estrutura do MST, colher informações, conhecer pessoas, aprofundar a pesquisa de campo para o documentário sobre a vida desta pioneira da agroecologia no país"
 menu: agricultura camponesa
