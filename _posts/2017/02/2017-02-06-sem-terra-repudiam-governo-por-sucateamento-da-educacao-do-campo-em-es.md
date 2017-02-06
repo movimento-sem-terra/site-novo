@@ -23,6 +23,7 @@ releated_posts:
   - _posts/2016/09/2016-09-12-sem-terra-ocupa-area-da-fibria-no-espirito-santo.md
   - _posts/2016/09/2016-09-05-em-vitoria-sem-terra-ocupa-incra-e-reivindica-a-criacao-de-assentamentos.md
   - _posts/2016/11/2016-11-30-mst-inaugura-escola-e-homenageia-a-resistencia-negra-no-es.md
+section: featured-news
 
 ---
 <p>&nbsp;</p>
