@@ -23,6 +23,7 @@ releated_posts:
   - _posts/2016/10/2016-10-07-fundo-americano-de-professores-passa-a-controlar-270-mil-hectares-no-brasil.md
   - _posts/2016/07/2016-07-19-debatedores-divergem-sobre-projeto-de-lei-que-regula-compra-de-terras-por-estrangeiros.md
   - _posts/2016/06/2016-06-30-venda-de-terras-para-estrangeiros-prejudica-a-soberania-nacional-e-dificulta-acesso-a-terra-avaliam-especialistas.md
+section: featured-news
 
 ---
 <p>&nbsp;</p>
