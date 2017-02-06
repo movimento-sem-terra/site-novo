@@ -30,6 +30,7 @@ releated_posts:
   - _posts/2016/11/2016-11-16-aos-89-anos-morre-o-irmao-antonio-cechin-um-lutador-dos-movimentos-populares.md
   - _posts/2016/06/2016-06-10-mst-na-bahia-lamenta-o-falecimento-do-militante-pedro-ribeiro.md
   - _posts/2016/12/2016-12-15-mst-lamenta-a-morte-de-dom-paulo-evaristo-arns.md
+section: featured-news
 
 ---
 <p>&nbsp;</p>
