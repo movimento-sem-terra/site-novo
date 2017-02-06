@@ -8,16 +8,16 @@ title: "Agroecologia nas escolas do campo: construção do futuro feita à mão 
 support_line: "\"Os alimentos são a base de sustentação da vida humana, toda ela e em qualquer tempo ou forma social. E sua produção é o objetivo principal da agricultura.\""
 menu: reforma agrária
 label: articles
-images_hd: //farm1.staticflickr.com/688/31933835593_539688b9c2_b.jpg
+images_hd: //farm1.staticflickr.com/506/32748107375_6aefcb1e97_b.jpg
 layout: post
 files:
-  - link: //farm1.staticflickr.com/688/31933835593_539688b9c2_b.jpg
-    original: //farm1.staticflickr.com/688/31933835593_0b7d14f2a6_o.jpg
-    thumbnail: //farm1.staticflickr.com/688/31933835593_539688b9c2_t.jpg
-    medium: //farm1.staticflickr.com/688/31933835593_539688b9c2_z.jpg
-    small: //farm1.staticflickr.com/688/31933835593_539688b9c2_n.jpg
+  - link: //farm1.staticflickr.com/506/32748107375_6aefcb1e97_b.jpg
+    original: //farm1.staticflickr.com/506/32748107375_9143e566d7_o.jpg
+    thumbnail: //farm1.staticflickr.com/506/32748107375_6aefcb1e97_t.jpg
+    medium: //farm1.staticflickr.com/506/32748107375_6aefcb1e97_z.jpg
+    small: //farm1.staticflickr.com/506/32748107375_6aefcb1e97_n.jpg
     title: mst-b-1-300x200.jpg
-    $$hashKey: 0K2
+    $$hashKey: 0Y7
 created_date: "2017-02-06T14:22:28-02:00"
 published: true
 releated_posts:
