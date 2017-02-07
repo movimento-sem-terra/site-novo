@@ -4,8 +4,8 @@ tags:
   - tag: governo-temer
   - tag: maranhão
   - tag: soberania-nacional
-title: Movimentos protocolam em Brasília documento contra entrega da Base de Alcântara aos EUA
-support_line: "A notícia de que o Sr. José Serra, Ministro das Relações Exteriores, retomou contatos para “oferecer” o Centro de Lançamento de Alcântara, no Maranhão, é mais uma comprovação do DNA entreguista desse governo."
+title: Movimentos se posicionam contra entrega da Base de Alcântara aos EUA
+support_line: "As organizações entendem que a política de entreguismo do atual governo, fruto de um Golpe Institucional, é uma afronta à soberania do país."
 section: cover
 menu: lutas e mobilizações
 images_hd: //farm1.staticflickr.com/691/32723180216_15bc5bdcf5_b.jpg
