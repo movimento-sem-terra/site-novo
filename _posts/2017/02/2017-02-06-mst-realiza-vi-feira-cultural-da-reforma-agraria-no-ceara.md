@@ -46,7 +46,7 @@ releated_posts:
 <p><em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Come&ccedil;a no pr&oacute;ximo s&aacute;bado (11),&nbsp;no Centro de Forma&ccedil;&atilde;o, Capacita&ccedil;&atilde;o e Pesquisa Frei Humberto&nbsp;a VI Feira Cultural da Reforma Agr&aacute;ria.</p>
+Acontece no pr&oacute;ximo s&aacute;bado (11),&nbsp;no Centro de Forma&ccedil;&atilde;o, Capacita&ccedil;&atilde;o e Pesquisa Frei Humberto&nbsp;a VI Feira Cultural da Reforma Agr&aacute;ria.</p>
 
 <p><br />
 Como j&aacute; &eacute; de costume durante as feiras da Reforma Agr&aacute;ria acontecem debates entre os temas dessa edi&ccedil;&atilde;o &nbsp;est&aacute; &ldquo;os desafios da cultura em tempos de golpe&rdquo; que ser&aacute; facilitado por: Marcio Caetano ex-secret&aacute;rio de cultura de Fortaleza, Jairo Pontes, advogado e professor na (UFERSA) em Mossor&oacute;&nbsp;no Rio Grande do Norte e Parayba Medeiros do Grupo CIA Bate Palmas.</p>
