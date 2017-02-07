@@ -31,8 +31,8 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p>Por Geanini Hackbardt<br />
-Da P&aacute;gina do MST</p>
+<p><em>Por Geanini Hackbardt<br />
+Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
