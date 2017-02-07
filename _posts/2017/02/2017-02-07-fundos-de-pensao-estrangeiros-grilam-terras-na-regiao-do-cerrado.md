@@ -17,6 +17,13 @@ files:
     small: //farm1.staticflickr.com/515/32641453431_642a558254_n.jpg
     title: 32640250971_ae0372884b_z.jpg
     $$hashKey: 05Z
+  - link: //farm1.staticflickr.com/426/32642900521_c8dcaf789a_b.jpg
+    original: //farm1.staticflickr.com/426/32642900521_acd9384122_o.png
+    thumbnail: //farm1.staticflickr.com/426/32642900521_c8dcaf789a_t.jpg
+    medium: //farm1.staticflickr.com/426/32642900521_c8dcaf789a_z.jpg
+    small: //farm1.staticflickr.com/426/32642900521_c8dcaf789a_n.jpg
+    title: 31949716463_54d8b965d2_o.png
+    $$hashKey: 0HI
 created_date: "2017-02-07T12:42:55-02:00"
 published: true
 releated_posts:
@@ -59,9 +66,11 @@ Segundo a pesquisa, estas &aacute;reas no Piau&iacute; e Maranh&atilde;o estavam
 A pesquisa ainda informa que a Fazenda Sagit&aacute;rio, adquirida pela Tellus S/A, est&aacute; localizada em uma &aacute;rea devoluta. Foi nessa &aacute;rea que a empresa Colonizadora De Carli (Codeca) iniciou a monocultura da soja na d&eacute;cada de 1990. A empresa pertence ao &ldquo;&lsquo;Maior Grileiro da Regi&atilde;o&rsquo; e parte integrante de seu Grupo Empresarial De Carli&rdquo;.</p>
 
 <p><br />
-Para Maur&iacute;cio Correia, da Associa&ccedil;&atilde;o dos Advogados dos Trabalhadores Rurais (AATR) da Bahia, &ldquo;n&atilde;o se faz expans&atilde;o da fronteira agr&iacute;cola na legalidade&rdquo;. Segundo ele, pesquisadores como o professor Ariovaldo Umbelino, chefe do Departamento de Geografia da USP, apontam que 80% do oeste baiano, regi&atilde;o que integra o Plano de Desenvolvimento Agropecu&aacute;rio (PDA-Matopiba), &eacute; composto por terras devolutas.</p>
+Para Maur&iacute;cio Correia, da Associa&ccedil;&atilde;o dos Advogados dos Trabalhadores Rurais (AATR) da Bahia, &ldquo;n&atilde;o se faz expans&atilde;o da fronteira agr&iacute;cola na legalidade&rdquo;. Segundo ele, pesquisadores como o professor Ariovaldo Umbelino, chefe do Departamento de Geografia da USP, apontam que 80% do oeste baiano, regi&atilde;o que integra o Plano de Desenvolvimento Agropecu&aacute;rio (PDA-Matopiba), &eacute; composto por terras devolutas.<br />
+&nbsp;</p>
 
-<p><br />
+<p><img alt="31949716463_54d8b965d2_o.png" src="//farm1.staticflickr.com/426/32642900521_c8dcaf789a_b.jpg" /><br />
+<br />
 <strong>Formas de grilagem</strong></p>
 
 <p><br />
