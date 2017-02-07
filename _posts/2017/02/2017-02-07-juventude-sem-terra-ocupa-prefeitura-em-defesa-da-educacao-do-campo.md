@@ -39,7 +39,7 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p>Por Coletivo de Comunica&ccedil;&atilde;o do MST na Bahia</p>
+<p><em>Por Coletivo de Comunica&ccedil;&atilde;o do MST na Bahia</em></p>
 
 <p>&nbsp;</p>
 
