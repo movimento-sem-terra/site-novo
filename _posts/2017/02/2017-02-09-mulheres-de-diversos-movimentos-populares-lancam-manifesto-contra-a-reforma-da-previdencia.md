@@ -17,6 +17,12 @@ files:
     small: //farm3.staticflickr.com/2510/32801363885_8174f53d6d_n.jpg
     title: Mulheres2.jpg
     $$hashKey: 05F
+  - link: "https://drive.google.com/uc?id=0Bwus_4SL8MWDZlNYZ1E4QnRpd2M&export=download"
+    thumbnail: "http://farm4.staticflickr.com/3852/15187675380_7b00f5fdff_b.jpg"
+    title: Manifesto das mulheres.pdf
+    basename: Manifesto das mulheres
+    embed: "https://drive.google.com/uc?id=0Bwus_4SL8MWDZlNYZ1E4QnRpd2M"
+    $$hashKey: 0BM
 created_date: "2017-02-09T11:57:29-02:00"
 published: true
 releated_posts:
@@ -55,7 +61,7 @@ Para trabalhadoras e trabalhadores rurais, a PEC 287/2016 prop&otilde;e v&aacute
 &ldquo;S&oacute; com uma ampla mobiliza&ccedil;&atilde;o impediremos esses retrocessos. Nosso caminho e alternativa &eacute; resistir e lutar juntas!!! Por isso, convocamos a todas as mulheres e organiza&ccedil;&otilde;es de mulheres a participar do processo de constru&ccedil;&atilde;o das a&ccedil;&otilde;es do Dia Internacional de Luta das Mulheres, 08 de mar&ccedil;o: lutas em defesa dos nossos direitos contra a reforma da Previd&ecirc;ncia Social&rdquo;, finaliza documento.</p>
 
 <p align="justify" style="margin-bottom: 0cm; line-height: 100%"><br />
-Confira manifesto na &iacute;ntegra</p>
+Confira <a href="https://drive.google.com/uc?id=0Bwus_4SL8MWDZlNYZ1E4QnRpd2M&amp;export=download">Manifesto dos Movimentos de Mulheres</a>&nbsp;na &iacute;ntegra</p>
 
 <p align="justify" style="margin-bottom: 0cm; line-height: 100%"><br />
 <em>Editado por Iris Pacheco</em></p>
