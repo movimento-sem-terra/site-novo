@@ -29,6 +29,7 @@ releated_posts:
   - _posts/2016/12/2016-12-11-movimentos-do-campo-lancam-manifesto-contra-a-reforma-da-previdencia.md
   - _posts/2016/05/2016-05-12-interino-ilegitimo-machista-e-patriarcal.md
   - _posts/2016/09/2016-09-05-movimentos-do-campo-divulgam-manifesto-exigindo-respeito-aos-direitos-do-povo-brasileiro.md
+section: featured-news
 
 ---
 <p>
