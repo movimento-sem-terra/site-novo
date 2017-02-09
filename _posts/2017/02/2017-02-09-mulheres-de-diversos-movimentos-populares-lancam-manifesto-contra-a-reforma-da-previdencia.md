@@ -39,29 +39,29 @@ releated_posts:
 
 <p><em>Da P&aacute;gina do MST</em></p>
 
-<p align="justify" style="margin-bottom: 0cm; line-height: 100%"><br />
+<p><br />
 Nesta quarta-feira (08), mulheres de diversos Movimentos Populares lan&ccedil;am manifesto contra a reforma da previd&ecirc;ncia golpista e convocam lutas para o m&ecirc;s de mar&ccedil;o.</p>
 
-<p align="justify" style="margin-bottom: 0cm; line-height: 100%"><br />
+<p><br />
 O documento denuncia o aprofundamento do golpe parlamentar, midi&aacute;tico e jur&iacute;dico que rompeu com a democracia em 2016, e relaciona os impactos do avan&ccedil;o do conservadorismo, da perda de direitos sociais e trabalhistas historicamente conquistados &agrave; vida das mulheres.</p>
 
-<p align="justify" style="margin-bottom: 0cm; line-height: 100%"><br />
+<p><br />
 &ldquo;Os desmontes dos direitos e das pol&iacute;ticas sociais atingem de forma particular as mulheres. Quanto mais avan&ccedil;am a privatiza&ccedil;&atilde;o e a precariza&ccedil;&atilde;o da sa&uacute;de e da educa&ccedil;&atilde;o, por exemplo, mais se intensifica a sobrecarga de responsabiliza&ccedil;&atilde;o e de trabalho das mulheres, aumentando desigualdades de g&ecirc;nero, classe, ra&ccedil;a e de gera&ccedil;&atilde;o&rdquo;, salienta trecho do documento.</p>
 
-<p align="justify" style="margin-bottom: 0cm; line-height: 100%"><br />
+<p><br />
 No entanto, um dos temas centrais do documento &eacute; a Reforma da Previd&ecirc;ncia apresentada pelo governo golpista de Michel Temer, que prop&otilde;e igualar a idade de homens e mulheres, trabalhadores(as) rurais e urbanos para 65 anos, com 25 anos de contribui&ccedil;&atilde;o. Dessa forma, as trabalhadoras rurais, por exemplo, que at&eacute; agora se aposentavam com 55 anos, precisar&atilde;o trabalhar pelo menos 10 anos a mais.</p>
 
-<p align="justify" style="margin-bottom: 0cm; line-height: 100%"><br />
+<p><br />
 &ldquo;Equiparar a idade de homens e mulheres para aposentadoria &eacute; desconsiderar a tripla jornada de trabalho das mulheres, que garantem a realiza&ccedil;&atilde;o do trabalho dom&eacute;stico e de cuidados, al&eacute;m da reprodu&ccedil;&atilde;o da for&ccedil;a de trabalho. Com as novas regras, as pens&otilde;es por morte e os benef&iacute;cios assistenciais definidos pela Lei Org&acirc;nica de Assist&ecirc;ncia Social (LOAS) deixam de ser vinculados ao sal&aacute;rio m&iacute;nimo e a idade de acesso do Benef&iacute;cio da Presta&ccedil;&atilde;o Continuada (BPC) passar&aacute; para 70 anos, retirando o acesso de milhares de pessoas ao benef&iacute;cio que, em diversas fam&iacute;lias, &eacute; a &uacute;nica fonte de renda&rdquo;, denuncia.</p>
 
-<p align="justify" style="margin-bottom: 0cm; line-height: 100%"><br />
+<p><br />
 Para trabalhadoras e trabalhadores rurais, a PEC 287/2016 prop&otilde;e v&aacute;rias mudan&ccedil;as que dificultam significativamente o acesso aos direitos previdenci&aacute;rios. As mulheres trabalhadoras do campo, da floresta, das &aacute;guas e da cidade, manifestam sua posi&ccedil;&atilde;o contr&aacute;ria &agrave; reforma da Previd&ecirc;ncia que retira direitos adquiridos pela classe trabalhadora, mas n&atilde;o mexe nos privil&eacute;gios das classes dominantes e convoca todas as mulheres para a luta.</p>
 
-<p align="justify" style="margin-bottom: 0cm; line-height: 100%"><br />
+<p><br />
 &ldquo;S&oacute; com uma ampla mobiliza&ccedil;&atilde;o impediremos esses retrocessos. Nosso caminho e alternativa &eacute; resistir e lutar juntas!!! Por isso, convocamos a todas as mulheres e organiza&ccedil;&otilde;es de mulheres a participar do processo de constru&ccedil;&atilde;o das a&ccedil;&otilde;es do Dia Internacional de Luta das Mulheres, 08 de mar&ccedil;o: lutas em defesa dos nossos direitos contra a reforma da Previd&ecirc;ncia Social&rdquo;, finaliza documento.</p>
 
-<p align="justify" style="margin-bottom: 0cm; line-height: 100%"><br />
-Confira <span style="text-align: justify;">na &iacute;ntegra o&nbsp;</span><a href="https://drive.google.com/uc?id=0Bwus_4SL8MWDZlNYZ1E4QnRpd2M&amp;export=download">Manifesto dos Movimentos de Mulheres</a>&nbsp;</p>
+<p><br />
+Confira na &iacute;ntegra o <a href="https://drive.google.com/uc?id=0Bwus_4SL8MWDZlNYZ1E4QnRpd2M&amp;export=download">Manifesto dos Movimentos de Mulheres</a></p>
 
-<p align="justify" style="margin-bottom: 0cm; line-height: 100%"><br />
+<p><br />
 <em>Editado por Iris Pacheco</em></p>
