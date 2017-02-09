@@ -61,7 +61,7 @@ Para trabalhadoras e trabalhadores rurais, a PEC 287/2016 prop&otilde;e v&aacute
 &ldquo;S&oacute; com uma ampla mobiliza&ccedil;&atilde;o impediremos esses retrocessos. Nosso caminho e alternativa &eacute; resistir e lutar juntas!!! Por isso, convocamos a todas as mulheres e organiza&ccedil;&otilde;es de mulheres a participar do processo de constru&ccedil;&atilde;o das a&ccedil;&otilde;es do Dia Internacional de Luta das Mulheres, 08 de mar&ccedil;o: lutas em defesa dos nossos direitos contra a reforma da Previd&ecirc;ncia Social&rdquo;, finaliza documento.</p>
 
 <p align="justify" style="margin-bottom: 0cm; line-height: 100%"><br />
-Confira <a href="https://drive.google.com/uc?id=0Bwus_4SL8MWDZlNYZ1E4QnRpd2M&amp;export=download">Manifesto dos Movimentos de Mulheres</a>&nbsp;na &iacute;ntegra</p>
+Confira <span style="text-align: justify;">na &iacute;ntegra o&nbsp;</span><a href="https://drive.google.com/uc?id=0Bwus_4SL8MWDZlNYZ1E4QnRpd2M&amp;export=download">Manifesto dos Movimentos de Mulheres</a>&nbsp;</p>
 
 <p align="justify" style="margin-bottom: 0cm; line-height: 100%"><br />
 <em>Editado por Iris Pacheco</em></p>
