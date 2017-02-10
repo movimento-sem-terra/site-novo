@@ -46,6 +46,7 @@ releated_posts:
   - _posts/2016/12/2016-12-13-mutirao-de-exames-oferta-oculos-para-estudantes-do-sim-eu-posso.md
   - _posts/2016/12/2016-12-13-a-educacao-e-um-passo-fundamental-para-conquista-da-reforma-agraria.md
   - _posts/2016/12/2016-12-13-atos-em-todo-o-pais-marcarao-dia-de-protesto-contra-votacao-final-da-pec-55.md
+section: featured-news
 
 ---
 <figure class="image"><img alt="DSCF1341.JPG" height="525" src="//farm1.staticflickr.com/482/31903015564_e738b1cf4c_b.jpg" width="700" />
