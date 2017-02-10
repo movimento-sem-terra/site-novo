@@ -4,19 +4,27 @@ tags:
   - tag: cultura
   - tag: golpe
   - tag: brasil
-section: tv
-video: "https://www.youtube.com/watch?v=nwlsk7VBRBo&feature=youtu.be"
+section: null
+video: !<tag:yaml.org,2002:js/undefined> ""
 title: Coletivo Terra em Cena analisa retomada do neoliberalismo no Brasil
 support_line: Por meio de um programa de TV o Coletivo investiga as causas e impactos do desmonte acelerado do país
 menu: direitos humanos
 layout: post
-files: []
+files:
+  - link: //farm1.staticflickr.com/269/32666273722_c467976e37_b.jpg
+    original: //farm1.staticflickr.com/269/32666273722_1a4237e12c_o.jpg
+    thumbnail: //farm1.staticflickr.com/269/32666273722_c467976e37_t.jpg
+    medium: //farm1.staticflickr.com/269/32666273722_c467976e37_z.jpg
+    small: //farm1.staticflickr.com/269/32666273722_c467976e37_n.jpg
+    title: 8e86d0d6-eb85-485f-8ccf-56f6b4eb97b1.jpg
+    $$hashKey: 0GS
 created_date: "2017-02-10T11:50:07-02:00"
 published: true
 video_thumbnail: "http://img.youtube.com/vi/nwlsk7VBRBo/0.jpg"
 releated_posts:
   - _posts/2016/05/2016-05-20-tom-morello-sauda-o-mst-e-protesta-contra-o-golpe-no-brasil.md
   - _posts/2016/09/2016-09-01-mst-repudia-golpe-e-afirma-seguir-na-luta-pela-restauracao-da-democracia-brasileira.md
+images_hd: //farm1.staticflickr.com/269/32666273722_c467976e37_b.jpg
 
 ---
 <p>&nbsp;</p>
