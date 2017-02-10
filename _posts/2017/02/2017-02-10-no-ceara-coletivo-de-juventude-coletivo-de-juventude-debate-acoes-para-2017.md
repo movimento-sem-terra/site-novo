@@ -1,10 +1,10 @@
 ---
-date: "2017-02-10T15:31:07-02:00"
+date: "2017-02-10T14:31:07-03:00"
 tags:
   - tag: juventude
   - tag: formação
   - tag: debate
-title: "No Ceará, coletivo de juventude Coletivo de Juventude debate ações para 2017"
+title: "No Ceará, coletivo de juventude debate ações para 2017"
 menu: "educação, cultura e comunicação"
 images_hd: //farm3.staticflickr.com/2229/32442356750_4f7c08f545_b.jpg
 support_line: "A atividade tem como objetivo analisar a atual conjuntura, discutir o papel dos jovens no contexto da luta de classes"
