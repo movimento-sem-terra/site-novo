@@ -1,5 +1,5 @@
 ---
-date: "2017-02-08T11:28:28-03:00"
+date: "2017-02-08T12:28:28-02:00"
 tags:
   - tag: frente-brasil-popular
   - tag: reforma-da-previdencia
@@ -104,10 +104,12 @@ Conclamamos que todos os comit&ecirc;s locais e estaduais, todos os militantes d
 <p><br />
 DIA 8 DE MAR&Ccedil;O, nos somaremos com os movimentos das mulheres, em todo mundo e aqui, em todos munic&iacute;pios, respeitando seu protagonismo, na defesa dos direitos das mulheres, contra a viol&ecirc;ncia e contra a reforma da previd&ecirc;ncia.</p>
 
-<p>&nbsp;
+<p>&nbsp;</p>
+
 <p><br />
 Dia 15 de mar&ccedil;o, nos somaremos &agrave; greve geral da educa&ccedil;&atilde;o que vai paralisar todas as escolas de ensino m&eacute;dio e fundamental. Em defesa da educa&ccedil;&atilde;o p&uacute;blica e de qualidade, contra a reforma do ensino. Contra a reforma da previd&ecirc;ncia, que vai obrigar os professores a estarem em sala de aula, at&eacute; os 65 anos. A greve ser&aacute; nacional e por tempo indeterminado, convocada por todos os sindicatos estaduais aglutinados pela CNTE e com apoio de todas entidades estudantis e movimentos populares do pa&iacute;s.</p>
-</p>
+
+<p>&nbsp;</p>
 
 <p><br />
 E no dia 31 de mar&ccedil;o, lembraremos com dor, os dois golpes de estado, de 1964 e de 2016, para seguirmos a luta pela retomada&nbsp; da democracia e a necess&aacute;ria convoca&ccedil;&atilde;o de elei&ccedil;&otilde;es gerais,</p>
