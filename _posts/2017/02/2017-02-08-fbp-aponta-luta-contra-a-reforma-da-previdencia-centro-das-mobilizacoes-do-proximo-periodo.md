@@ -1,5 +1,5 @@
 ---
-date: "2017-02-08T12:28:28-02:00"
+date: "2017-02-08T11:28:28-03:00"
 tags:
   - tag: frente-brasil-popular
   - tag: reforma-da-previdencia
@@ -25,6 +25,7 @@ releated_posts:
   - _posts/2016/11/2016-11-02-fpb-manifesta-apoio-a-ocupacao-de-escolas-no-df.md
   - _posts/2016/12/2016-12-11-movimentos-do-campo-lancam-manifesto-contra-a-reforma-da-previdencia.md
   - _posts/2017/02/2017-02-07-entrevista-o-objetivo-da-reforma-da-previdencia-e-privatizar.md
+section: cover
 
 ---
 <p>&nbsp;</p>
@@ -83,4 +84,39 @@ Os efeitos da proposta da reforma da previd&ecirc;ncia s&atilde;o desastrosos. I
 De acordo com a coordenadora do Dieese a regra de transi&ccedil;&atilde;o ser&aacute; somente ao direito ao acesso. A quest&atilde;o do valor come&ccedil;a a vigorar imediatamente. &ldquo;Hoje, quando voc&ecirc; vai se aposentar por idade &eacute; feito o c&aacute;lculo de 70% do valor da contribui&ccedil;&atilde;o, mas se for o texto for aprovado, o valor da aposentadoria ser&aacute; de 52% do total da contribui&ccedil;&atilde;o para 54,5 milh&otilde;es que ter&atilde;o efeito imediato de rebaixamento do valor da aposentadoria&rdquo;, esclarece Patr&iacute;cia.</p>
 
 <p><br />
-&Eacute; fundamental que os comit&ecirc;s estaduais da Frente Brasil Popular se organize para participar das manifesta&ccedil;&otilde;es do Dia Internacional da Mulher, no dia 08, e do Dia Nacional de Luta Contra a Reforma da Previd&ecirc;ncia, no dia 15 de mar&ccedil;o.</p>
+&Eacute; fundamental que os comit&ecirc;s estaduais da Frente Brasil Popular se organizem para participar das manifesta&ccedil;&otilde;es do Dia Internacional da Mulher, no dia 08, e do Dia Nacional de Luta Contra a Reforma da Previd&ecirc;ncia, no dia 15 de mar&ccedil;o.</p>
+
+<p><br />
+<strong>Confira a conclama&ccedil;&atilde;o constru&iacute;da pelos movimentos populares na &uacute;ltima reuni&atilde;o da Frente Brasil Popular, em S&atilde;o Paulo</strong>:</p>
+
+<p><br />
+Est&atilde;o sendo organizadas manifesta&ccedil;&otilde;es no maior numero poss&iacute;vel de munic&iacute;pios de todo Brasil, algumas capitais e Bras&iacute;lia, numa jornada nacional durante todo m&ecirc;s de mar&ccedil;o, contra a reforma da previd&ecirc;ncia, por nenhum direito a menos, e pelo retorno &agrave; democracia, com a convoca&ccedil;&atilde;o das DIRETAS J&Aacute;!,&nbsp; para todos os cargos.</p>
+
+<p><br />
+Ajude a organizar, divulgue e motive seus espa&ccedil;os para fazerem atividades de protestos.</p>
+
+<p style="text-align: center;"><br />
+<strong>CONCLAMA&Ccedil;&Atilde;O</strong></p>
+
+<p><br />
+Conclamamos que todos os comit&ecirc;s locais e estaduais, todos os militantes dos movimentos populares e sindicais que participam da Frente Brasil Popular se organizem e preparem as manifesta&ccedil;&otilde;es programadas.</p>
+
+<p><br />
+DIA 8 DE MAR&Ccedil;O, nos somaremos com os movimentos das mulheres, em todo mundo e aqui, em todos munic&iacute;pios, respeitando seu protagonismo, na defesa dos direitos das mulheres, contra a viol&ecirc;ncia e contra a reforma da previd&ecirc;ncia.</p>
+
+<p>&nbsp;
+<p><br />
+Dia 15 de mar&ccedil;o, nos somaremos &agrave; greve geral da educa&ccedil;&atilde;o que vai paralisar todas as escolas de ensino m&eacute;dio e fundamental. Em defesa da educa&ccedil;&atilde;o p&uacute;blica e de qualidade, contra a reforma do ensino. Contra a reforma da previd&ecirc;ncia, que vai obrigar os professores a estarem em sala de aula, at&eacute; os 65 anos. A greve ser&aacute; nacional e por tempo indeterminado, convocada por todos os sindicatos estaduais aglutinados pela CNTE e com apoio de todas entidades estudantis e movimentos populares do pa&iacute;s.</p>
+</p>
+
+<p><br />
+E no dia 31 de mar&ccedil;o, lembraremos com dor, os dois golpes de estado, de 1964 e de 2016, para seguirmos a luta pela retomada&nbsp; da democracia e a necess&aacute;ria convoca&ccedil;&atilde;o de elei&ccedil;&otilde;es gerais,</p>
+
+<p style="text-align: right;"><br />
+S&atilde;o Paulo,&nbsp; 7 de fevereiro de 2017.</p>
+
+<p style="text-align: center;"><br />
+Coletivo das&nbsp; 80 entidades/movimentos que comp&otilde;em a coordena&ccedil;&atilde;o nacional da</p>
+
+<p style="text-align: center;"><br />
+<strong>FRENTE BRASIL POPULAR</strong></p>
