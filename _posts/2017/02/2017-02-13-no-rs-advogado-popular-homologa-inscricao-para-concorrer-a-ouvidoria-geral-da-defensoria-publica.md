@@ -4,7 +4,7 @@ tags:
   - tag: rede-de-advogados-populares
   - tag: justiça
   - tag: formação
-title: "No RS, advogado popular homologa inscrição para concorrer à Ouvidoria-Geral da Defensoria Pública\n"
+title: "No RS, advogado popular concorre à Ouvidoria-Geral da Defensoria Pública\n"
 images_hd: //farm3.staticflickr.com/2654/32878858015_2e1059917a_b.jpg
 support_line: "Medeiros é membro da (Renap), atua há 17 anos em causas de movimentos populares e advoga em diversas áreas dos direitos humanos."
 menu: direitos humanos
