@@ -44,14 +44,14 @@ releated_posts: []
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="99b09558-0b4b-459f-97e8-058af674279a.jpg" height="576" src="//farm3.staticflickr.com/2362/32725272232_1b9d3eb67b_b.jpg" width="700" />
-<figcaption>Educandos recebendo diplomas de alfabetizados no Maranh&atilde;o.&nbsp;&quot;O mar tem o gosto salgado da saudade, o calor e o frio do lar, ao qual saudosos, sem querer, choramos pedindo colo, mesmo sem &agrave;s vezes recordar de qual lar estamos falando. Quando me sinto perdido, &eacute; certo encontrar-me &agrave; beira da praia, pois se eu n&atilde;o encontrar a paz em qualquer outro lugar, ali, ela &eacute; quem me encontra.&quot;</figcaption>
+<figcaption><em>Educandos recebendo diplomas de alfabetizados no Maranh&atilde;o. Foto: Alzerina Montello</em></figcaption>
 </figure>
 </div>
 
 <p><em>Por Reynaldo Costa<br />
 Da P&aacute;gina do MST</em></p>
 
-<p>Foto Alzerina Montello</p>
+<p>&nbsp;</p>
 
 <p>Depois de resultados importantes na redu&ccedil;&atilde;o dos &iacute;ndices de analfabetismo em munic&iacute;pios de menor &Iacute;ndice de Desenvolvimento Humanos (IDH) do Maranh&atilde;o, o Programa de Alfabetiza&ccedil;&atilde;o &ldquo;Sim, eu posso!&rdquo; ter&aacute; continuidade e ser&aacute; ampliado para mais regi&otilde;es.</p>
 
