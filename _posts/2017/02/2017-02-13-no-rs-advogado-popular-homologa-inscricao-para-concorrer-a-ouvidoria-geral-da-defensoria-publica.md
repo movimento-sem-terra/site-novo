@@ -41,10 +41,7 @@ A Defensoria P&uacute;blica do Estado do Rio Grande do Sul recebe inscri&ccedil;
 O advogado popular Rodrigo Medeiros homologou sua inscri&ccedil;&atilde;o nesta sexta-feira (10), com a participa&ccedil;&atilde;o de representantes da Associa&ccedil;&atilde;o dos Ge&oacute;grafos Brasileiros (AGB); Coletivo A Cidade que Queremos; Movimento de Luta nos Bairros, Vilas e Favelas (MLB); Movimento dos Trabalhadores Rurais Sem Terra (MST); Movimento Nacional de Luta pela Moradia (MNLM); Rede Nacional de Advogados e Advogadas Populares (Renap); Movimento Ga&uacute;cho em Defesa do Meio Ambiente (Mogdema); e F&oacute;rum Estadual da Reforma Urbana.</p>
 
 <p><br />
-Segundo o Rodrigo, a Ouvidoria-Geral &eacute; uma ferramenta que contribui para o sistema de justi&ccedil;a e a garantia da participa&ccedil;&atilde;o social. &ldquo;Ocupar esse cargo &eacute; ter a responsabilidade de colaborar para que as pessoas mais necessitadas tenham acesso &agrave;s institui&ccedil;&otilde;es.</p>
-
-<p><br />
-A Defensoria P&uacute;blica &eacute; de suma import&acirc;ncia para a realiza&ccedil;&atilde;o da justi&ccedil;a, a sociedade compreende bem este papel e apoia o espa&ccedil;o de sua Ouvidoria.&rdquo;, explica.</p>
+Segundo o Rodrigo, a Ouvidoria-Geral &eacute; uma ferramenta que contribui para o sistema de justi&ccedil;a e a garantia da participa&ccedil;&atilde;o social. &ldquo;Ocupar esse cargo &eacute; ter a responsabilidade de colaborar para que as pessoas mais necessitadas tenham acesso &agrave;s institui&ccedil;&otilde;es. A Defensoria P&uacute;blica &eacute; de suma import&acirc;ncia para a realiza&ccedil;&atilde;o da justi&ccedil;a, a sociedade compreende bem este papel e apoia o espa&ccedil;o de sua Ouvidoria&rdquo;, explica.</p>
 
 <p><br />
 Medeiros &eacute; membro da Rede Nacional de Advogados e Advogadas Populares (Renap), atua h&aacute; 17 anos em causas de movimentos populares e advoga em diversas &aacute;reas dos direitos humanos fundamentais. Tamb&eacute;m participa de articula&ccedil;&otilde;es com institui&ccedil;&otilde;es do Sistema de Justi&ccedil;a, contribuindo com a Defensoria P&uacute;blica. Atualmente, &eacute; assessor jur&iacute;dico em Projeto Social no bairro Guajuviras, no munic&iacute;pio de Canoas.</p>
