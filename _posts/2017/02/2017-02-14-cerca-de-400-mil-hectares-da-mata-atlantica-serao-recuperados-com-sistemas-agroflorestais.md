@@ -8,7 +8,7 @@ hat: ""
 support_line: "A princípio, acredita-se que 92 municípios serão contemplados com a revitalização de uma grande economia de base na Mata Atlântica"
 menu: meio ambiente
 images_hd: //farm3.staticflickr.com/2328/32522468770_aa4a97cb80_b.jpg
-title: Cerca de 400 mil hectares da Mata Atlântica serão recuperados com sistemas agroflorestais
+title: Cerca de 400 mil ha da Mata Atlântica serão recuperados com sistemas agroflorestais
 layout: post
 files:
   - link: //farm3.staticflickr.com/2098/32059681944_19411a71aa_b.jpg
