@@ -38,7 +38,9 @@ A proposta de Michel Temer para a reforma da Previd&ecirc;ncia prev&ecirc; que a
 Ou seja, ter&atilde;o que atingir idade m&iacute;nima de 65 anos, al&eacute;m de 25 de contribui&ccedil;&atilde;o m&iacute;nima. Hoje, ela &ndash; que equivale a um sal&aacute;rio m&iacute;nimo &ndash; pode ser requerida ao se completar 60 anos (homens) e 55 (mulheres), bastando a comprova&ccedil;&atilde;o do trabalho no campo. A aposentadoria por tempo de contribui&ccedil;&atilde;o &eacute; poss&iacute;vel a partir de 15 anos de pagamentos.</p>
 
 <p><br />
-Enquadram-se pequenos produtores rurais (que j&aacute; devem contribuir, ali&aacute;s, com o INSS no momento da venda de seus produtos), trabalhadores rurais, seringueiros, pequenos extrativistas vegetais (como catadoras de baba&ccedil;u), pescadores artesanais, ou seja, o pessoal que bota a comida em nossa mesa ou garante, atrav&eacute;s de seu suor a produ&ccedil;&atilde;o de commodities utilizadas para a produ&ccedil;&atilde;o de alimentos industrializados, vestu&aacute;rio, energia, ve&iacute;culos.<br />
+Enquadram-se pequenos produtores rurais (que j&aacute; devem contribuir, ali&aacute;s, com o INSS no momento da venda de seus produtos), trabalhadores rurais, seringueiros, pequenos extrativistas vegetais (como catadoras de baba&ccedil;u), pescadores artesanais, ou seja, o pessoal que bota a comida em nossa mesa ou garante, atrav&eacute;s de seu suor a produ&ccedil;&atilde;o de commodities utilizadas para a produ&ccedil;&atilde;o de alimentos industrializados, vestu&aacute;rio, energia, ve&iacute;culos.</p>
+
+<p><br />
 N&atilde;o importa que o desgaste dos trabalhadores rurais, n&atilde;o raro, seja maior que a dos urbanos e sua qualidade de vida menor. E, portanto, tenham uma expectativa de vida mais curta, de acordo com dados do IBGE e do IPEA, aproveitando menos de sua aposentadoria.</p>
 
 <p><br />
