@@ -43,6 +43,7 @@ published: true
 releated_posts:
   - _posts/2016/05/2016-05-31-mst-abre-jornada-de-alfabetizacao-no-maranhao.md
   - _posts/2017/02/2017-02-06-sim-eu-posso-ler-e-escrever-sim-eu-posso-mais.md
+section: featured-news
 
 ---
 <p>&nbsp;</p>
