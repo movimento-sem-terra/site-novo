@@ -4,7 +4,7 @@ tags:
   - tag: alfabetização
   - tag: sim-eu-posso
   - tag: maranhão
-title: "Após alfabetizar 10 mil pessoas, “Sim, eu posso!” será ampliado para outros municípios"
+title: "Após alfabetizar cerca 07 mil pessoas, “Sim, eu posso!” será ampliado para outros municípios"
 support_line: A meta é que mais 19 mil novas pessoas possam ser assistidas pelo programa no Maranhão
 menu: "educação, cultura e comunicação"
 images_hd: //farm3.staticflickr.com/2362/32725272232_1b9d3eb67b_b.jpg
@@ -81,7 +81,7 @@ Todos os munic&iacute;pios atingidos pelo programa est&atilde;o realizando event
 A Jornada de Alfabetiza&ccedil;&atilde;o que &eacute; um programa do Governo do Maranh&atilde;o e tem o MST como parceiro, se realiza atualmente em oito dos 30 munic&iacute;pios de menores &iacute;ndices de Desenvolvimento Humano no Estado. No in&iacute;cio desta semana o Governador Fl&aacute;vio Dino, anunciou que o Programa ser&aacute; ampliado para mais sete munic&iacute;pios, passando a totalizar 15 cidades beneficiadas.</p>
 
 <p><br />
-Na primeira fase cerca de 10 mil pessoas foram alfabetizadas. O governador do estado, Fl&aacute;vio Dino (PCdoB) afirma com a amplia&ccedil;&atilde;o a meta &eacute;&nbsp;que&nbsp;mais 19 mil novas pessoas possam ser assistidas pelo Sim, eu posso!</p>
+Na primeira fase cerca de 07&nbsp;mil pessoas foram alfabetizadas. O governador do estado, Fl&aacute;vio Dino (PCdoB) afirma com a amplia&ccedil;&atilde;o a meta &eacute;&nbsp;que&nbsp;mais 19 mil novas pessoas possam ser assistidas pelo Sim, eu posso!</p>
 
 <p><br />
 A coordena&ccedil;&atilde;o do MST v&ecirc; positivamente os n&uacute;meros alcan&ccedil;ados nessa primeira fase da Jornada. &ldquo;&Eacute; um momento do triunfo do trabalho coletivo, d&aacute; solidariedade de classe e uma a&ccedil;&atilde;o junto aos que mais precisam&rdquo;, afirma Simone Silva, pedagoga do MST e uma das coordenadoras do programa.</p>
