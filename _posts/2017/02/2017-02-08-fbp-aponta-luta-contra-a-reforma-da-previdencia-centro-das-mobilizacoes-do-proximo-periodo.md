@@ -25,7 +25,7 @@ releated_posts:
   - _posts/2016/11/2016-11-02-fpb-manifesta-apoio-a-ocupacao-de-escolas-no-df.md
   - _posts/2016/12/2016-12-11-movimentos-do-campo-lancam-manifesto-contra-a-reforma-da-previdencia.md
   - _posts/2017/02/2017-02-07-entrevista-o-objetivo-da-reforma-da-previdencia-e-privatizar.md
-section: cover
+section: featured-news
 
 ---
 <p>&nbsp;</p>
