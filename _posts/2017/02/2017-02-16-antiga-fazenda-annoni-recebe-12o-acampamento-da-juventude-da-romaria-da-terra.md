@@ -4,7 +4,7 @@ tags:
   - tag: romaria-da-terra-e-das-Águas
   - tag: mobilizações
   - tag: fazenda-annoni
-title: Antiga Fazenda Annoni recebe 12º Acampamento da Juventude da Romaria da Terra
+title: Annoni recebe 12º Acampamento da Juventude da Romaria da Terra
 support_line: "Evento será realizado nos dias 26 e 27 de fevereiro, no Assentamento 29 de Outubro"
 menu: "educação, cultura e comunicação"
 images_hd: //farm3.staticflickr.com/2628/32119419483_e0e7f08be8_b.jpg
@@ -27,6 +27,7 @@ releated_posts:
   - _posts/2016/09/2016-09-26-curta-annoni-30-anos-de-marcos-e-selecionado-para-seu-quarto-festival-no-pais.md
 
 ---
+
 <p>&nbsp;</p>
 
 <figure class="image"><img alt="Última edição do Acampamento da Juventude foi realizada em 201, no município de São Gabriel, na Fronteira Oeste do RS..jpg" height="465" src="//farm3.staticflickr.com/2628/32119419483_e0e7f08be8_b.jpg" width="700" />
