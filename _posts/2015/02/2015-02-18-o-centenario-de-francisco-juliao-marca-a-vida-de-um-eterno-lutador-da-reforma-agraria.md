@@ -1,11 +1,11 @@
 ---
-date: "2015-02-18T17:31:19-02:00"
+date: "2015-02-16T17:31:19-02:00"
 tags:
   - tag: reforma-agrária
   - tag: francisco-julião
   - tag: ligas-camponesas
-title: O centenário de Francisco Julião marca a vida de um eterno lutador da Reforma Agrária
-support_line: "O advogado, político e escritor Francisco Julião foi uma das lideranças das Ligas Camponesas. Se estivesse vivo completaria 100 anos."
+title: "Francisco Julião, um eterno lutador da Reforma Agrária"
+support_line: "O advogado, político e escritor Francisco Julião foi uma das lideranças das Ligas Camponesas. Se estivesse vivo completaria 101 anos."
 menu: reforma agrária
 layout: post
 files:
@@ -25,12 +25,14 @@ releated_posts:
 
 ---
 <p><br />
-<img alt="francisco julião.jpg" src="http://farm9.staticflickr.com/8649/16386996609_16850268ab_b.jpg" /></p>
+<img alt="francisco julião.jpg" height="508" src="http://farm9.staticflickr.com/8649/16386996609_16850268ab_b.jpg" width="700" /></p>
+
+<p>&nbsp;</p>
 
 <p><em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Na &uacute;ltima segunda-feira (16), o advogado e militante Francisco Juli&atilde;o Arruda completaria 100 anos se estivesse vivo.</p>
+Na &uacute;ltima quinta-feira (16), o advogado e militante Francisco Juli&atilde;o Arruda completaria 101&nbsp;anos se estivesse vivo.</p>
 
 <p><br />
 Juli&atilde;o nasceu no Engenho Boa Esperan&ccedil;a, no agreste pernambucano. Formou-se em 1939, em Recife, e foi um dos grandes respons&aacute;veis, junto &agrave;s Ligas Camponesas, pela desapropria&ccedil;&atilde;o das terras no Engenho Galil&eacute;ia, a primeira desapropria&ccedil;&atilde;o de terra no Brasil ap&oacute;s a 2&ordf; Guerra Mundial.</p>
@@ -43,6 +45,9 @@ Diante da situa&ccedil;&atilde;o de pen&uacute;ria geral, os trabalhadores decid
 
 <p><br />
 Juli&atilde;o assumiu a defesa jur&iacute;dica da SAPPP, e, sendo eleito deputado em 1954 pelo PSB (o primeiro parlamentar eleito pelo partido no estado), apresentou, na Assembl&eacute;ia Legislativa, o primeiro projeto de lei para desapropria&ccedil;&atilde;o do Engenho Galil&eacute;ia, argumentando que &quot;a Constitui&ccedil;&atilde;o do Estado declara, no seu artigo 155, que &#39;o uso da propriedade ser&aacute; condicionado ao bem-estar social&rsquo;&rdquo;.</p>
+
+<p><br />
+Em 2015, comemorou-se o centen&aacute;rio de Francisco Juli&atilde;o. Confira abaixo o v&iacute;deo em homenagem a este grande lutador da Reforma Agr&aacute;ria:&nbsp;</p>
 
 <p><br />
 <iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/4P7dpJnhNhM" width="640"></iframe></p>
