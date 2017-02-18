@@ -4,7 +4,7 @@ tags:
   - tag: encontro-estadual
   - tag: são-paulo
   - tag: reforma-agrária-popular
-title: Ato político marca abertura de encontro do MST em São Paulo
+title: Ato político marca abertura de encontro do MST no estado de São Paulo
 support_line: "“A defesa da Reforma Agrária Popular, significa uma tarefa imediata não só internamente, mas também com toda a sociedade, sobre a compreensão da luta pela terra.”"
 menu: reforma agrária
 images_hd: //farm4.staticflickr.com/3927/32129504144_656322644e_b.jpg
