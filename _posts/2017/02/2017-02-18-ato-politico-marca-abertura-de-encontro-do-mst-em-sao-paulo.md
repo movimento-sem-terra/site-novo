@@ -76,7 +76,7 @@ A Reforma Agr&aacute;ria &eacute; uma das pautas que mais sofre retrocessos no p
 <p><br />
 Kelli Mafort, da dire&ccedil;&atilde;o nacional do MST, aponta que &ldquo;a defesa da Reforma Agr&aacute;ria de car&aacute;ter popular, significa uma tarefa imediata n&atilde;o s&oacute; internamente, mas tamb&eacute;m com toda a sociedade, sobre a compreens&atilde;o da luta pela terra.&rdquo;</p>
 
-<figure class="image" style="float:left"><img alt="_DSC0168.JPG" height="295" src="//farm1.staticflickr.com/621/32129574184_0709a0542c_b.jpg" width="400" />
+<figure class="image" style="float:left"><img alt="_DSC0168.JPG" height="287" src="//farm1.staticflickr.com/621/32129574184_0709a0542c_b.jpg" width="390" />
 <figcaption></figcaption>
 </figure>
 
