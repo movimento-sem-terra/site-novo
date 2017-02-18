@@ -71,7 +71,7 @@ Nesse bojo de denuncia dos retrocessos, o deputado federal Paulo Teixeira (PT-SP
 <strong>E a Reforma Agr&aacute;ria?</strong></p>
 
 <p><br />
-A Reforma Agr&aacute;ria &eacute; uma das pautas que mais sofre retrocessos no pacote de maldades do governo golpista de Michel Temer. Em tempos de retrocessos que impacta o campo de diversas formas, a luta pela Reforma Agr&aacute;ria n&atilde;o pode ser somente de resist&ecirc;ncia e sim um debate ampliado com a sociedade sobre a import&acirc;ncia da luta pela terra.&nbsp;</p>
+A Reforma Agr&aacute;ria &eacute; uma das pautas que mais sofre retrocessos no pacote de maldades do governo golpista de Michel Temer. Em tempos de medidas golpistas que impactam o campo de diversas formas, a luta pela Reforma Agr&aacute;ria n&atilde;o pode ser somente de resist&ecirc;ncia e sim um debate ampliado com a sociedade sobre a import&acirc;ncia da luta pela terra.</p>
 
 <p><br />
 Kelli Mafort, da dire&ccedil;&atilde;o nacional do MST, aponta que &ldquo;a defesa da Reforma Agr&aacute;ria de car&aacute;ter popular, significa uma tarefa imediata n&atilde;o s&oacute; internamente, mas tamb&eacute;m com toda a sociedade, sobre a compreens&atilde;o da luta pela terra.&rdquo;</p>
@@ -88,3 +88,6 @@ Al&eacute;m das representa&ccedil;&otilde;es pol&iacute;ticas j&aacute; citadas,
 
 <p><br />
 O encontro segue com seu processo de estudos e debates e finaliza neste domingo (19), com o retorno das trabalhadoras e trabalhadores rurais para suas respectivas regi&otilde;es.&nbsp;</p>
+
+<p><br />
+<em>*Editado por Iris Pacheco</em></p>
