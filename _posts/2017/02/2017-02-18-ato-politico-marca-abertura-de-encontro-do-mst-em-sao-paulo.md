@@ -36,7 +36,7 @@ releated_posts:
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="IMG_0616.JPG" height="373" src="//farm4.staticflickr.com/3927/32129504144_656322644e_b.jpg" width="700" />
-<figcaption><em>Abertura do 28&ordm; Encontro Estadual do MST em S&atilde;o Paulo.</em></figcaption>
+<figcaption><em>Abertura do 28&ordm; Encontro Estadual do MST em Rosana, S&atilde;o Paulo.</em></figcaption>
 </figure>
 </div>
 
