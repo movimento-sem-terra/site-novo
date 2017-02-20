@@ -33,7 +33,7 @@ Da P&aacute;gina do MST&nbsp;</em></p>
 Na madrugada desta segunda - feira (20), o trabalhadores rurais sem terra ocupam a sede do Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (INCRA) em Pernambuco e em Petrolina no sert&atilde;o do estado.</p>
 
 <p><br />
-Cerca de 400 fam&iacute;lias chegaram em Recife nesta madrugada. A&nbsp;coordena&ccedil;&atilde;o do MST estima que este n&uacute;mero pode chegar a mil trabalhadores e trabalhadoras rurais sem terra. J&aacute; em Petrolina 600 fam&iacute;lias se dirigiram para a sede do Incra na manh&atilde; desta segunda - feira (20).</p>
+Cerca de 400 fam&iacute;lias chegaram em Recife nesta madrugada. A&nbsp;coordena&ccedil;&atilde;o do MST estima que este n&uacute;mero pode chegar a mil trabalhadores e trabalhadoras rurais sem terra. J&aacute; em Petrolina, 600 fam&iacute;lias se dirigiram para a sede do Incra na manh&atilde; desta segunda - feira (20).</p>
 
 <p><br />
 Os Sem Terra afirmam que permanecer&atilde;o acampados no local por tempo indeterminado. Eles esperam serem recebidos pelos dois superintendentes do estado com a presen&ccedil;a do Incra de Bras&iacute;lia.</p>
