@@ -8,7 +8,7 @@ tags:
 title: Acampamento do MST em Pernambuco é incendiado por capangas
 support_line: Pistoleiros chegaram atirando e dispersaram o acampamento de mais de 3 anos.
 menu: direitos humanos
-section: cover
+section: featured-news
 images_hd: //farm3.staticflickr.com/2189/32138194953_fec6e71005_b.jpg
 layout: post
 files:
