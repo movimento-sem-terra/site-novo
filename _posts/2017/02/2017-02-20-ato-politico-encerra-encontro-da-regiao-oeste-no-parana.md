@@ -58,7 +58,7 @@ Esteve presente o prefeito de Cascavel, Leonaldo Paranhos (PSC), o vereador de C
 Reunidos no munic&iacute;pio que &eacute; ber&ccedil;o do MST, os camponeses reafirmaram a necessidade da Reforma Agr&aacute;ria, contra a titula&ccedil;&atilde;o que privatiza os assentamentos e a reforma da presid&ecirc;ncia, mostrando para os convidados presentes o quanto essas mudan&ccedil;as nas leis sociais ir&atilde;o prejudicar os trabalhadores, principalmente do campo.</p>
 
 <figure class="image" style="float:left"><img alt="Foto_Paulo Porto (2).jpg" height="307" src="//farm3.staticflickr.com/2261/32175507694_ee8eaa897b_b.jpg" width="460" />
-<figcaption></figcaption>
+<figcaption><em>Foto: Paulo Porto</em></figcaption>
 </figure>
 
 <p><br />
