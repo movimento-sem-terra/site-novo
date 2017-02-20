@@ -76,13 +76,16 @@ Como parte da programa&ccedil;&atilde;o de encerramento, na tarde do dia 17, foi
 No ato batizado de &ldquo;Nenhum passo atr&aacute;s na alfabetiza&ccedil;&atilde;o e emancipa&ccedil;&atilde;o do povo do Maranh&atilde;o&rdquo; as falas firmaram o compromisso com a continuidade no combate ao analfabetismo em todo estado.&nbsp;</p>
 
 <p><br />
-Para Divina Lopes do setor de educa&ccedil;&atilde;o do MST, o sucesso da primeira jornada deve-se ao fato desta ter sido uma obra coletiva. &ldquo;Esses resultados s&oacute; foram poss&iacute;veis gra&ccedil;as &agrave; constru&ccedil;&atilde;o dos esfor&ccedil;os entre os militantes do MST, o governo local e os coordenadores e educadores de cada munic&iacute;pio&rdquo;, disse.&nbsp;<br />
+Para Divina Lopes do setor de educa&ccedil;&atilde;o do MST, o sucesso da primeira jornada deve-se ao fato desta ter sido uma obra coletiva. &ldquo;Esses resultados s&oacute; foram poss&iacute;veis gra&ccedil;as &agrave; constru&ccedil;&atilde;o dos esfor&ccedil;os entre os militantes do MST, o governo local e os coordenadores e educadores de cada munic&iacute;pio&rdquo;, disse.&nbsp;</p>
+
+<p><br />
 Durante a atividade v&aacute;rios educandos puderam escrever de pr&oacute;prio punho seus nomes no registro de identidade, gesto feito agora gra&ccedil;as &agrave; alfabetiza&ccedil;&atilde;o.&nbsp;</p>
 
 <p><br />
-Para Jo&atilde;o Pedro St&eacute;dile da Coordena&ccedil;&atilde;o Nacional do MST, a Jornada est&aacute; devolvendo a dignidade a milhares de pessoas que se quer podiam escrever o pr&oacute;prio nome.&nbsp;<br />
-<br />
-Ainda para Stedile: &ldquo;&eacute; um crime existir 14 milh&otilde;es de pessoas analfabetas no Brasil&rdquo;. &nbsp;&ldquo;N&atilde;o podemos dormir em paz sabendo que existe esse tanto de analfabeto pelas pa&iacute;s afora, finalizou&rdquo;. &nbsp;</p>
+Para Jo&atilde;o Pedro St&eacute;dile da Coordena&ccedil;&atilde;o Nacional do MST, a Jornada est&aacute; devolvendo a dignidade a milhares de pessoas que se quer podiam escrever o pr&oacute;prio nome.&nbsp;</p>
+
+<p><br />
+Ainda para Stedile: &ldquo;&eacute; um crime existir 14 milh&otilde;es de pessoas analfabetas no Brasil. &nbsp;N&atilde;o podemos dormir em paz sabendo que existe esse tanto de analfabeto pelas pa&iacute;s afora, finalizou&rdquo;. &nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="39bbea21-3c07-4012-b683-ace0fe63e0c0.jpg" height="346" src="//farm4.staticflickr.com/3755/32891754621_fcaf338f2d_b.jpg" width="460" />
 <figcaption></figcaption>
