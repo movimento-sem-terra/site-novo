@@ -53,7 +53,13 @@ O evento que homenageia Seu <a href="http://www.mst.org.br/2016/07/27/107-anos-d
 A abertura do encontro nesta sexta-feira (17), foi marcada por um ato pol&iacute;tico que, al&eacute;m dos Sem Terra, uniu representantes pol&iacute;ticos de diversos campos, entre eles parlamentares estaduais e federais.&nbsp;</p>
 
 <p><br />
-Em geral, as falas foram direcionadas para uma breve an&aacute;lise de conjuntura em torno do contexto pol&iacute;tico nacional e internacional, pontuando as contradi&ccedil;&otilde;es do bloco golpista e os desafios do bloco de resist&ecirc;ncia na constru&ccedil;&atilde;o da unidade pelo Fora Temer e em defesa dos direitos da classe trabalhadora.&nbsp;</p>
+Estiveram presentes os deputados&nbsp;federais Vicentinho (PT), Ana Perugini (PT), Nilton Tatto (PT), Paulo Teixeira (PT)&nbsp;e o l&iacute;der da bancada na c&acirc;mara&nbsp;Carlos Zarattini. J&aacute; a bancada estadual foi representada por&nbsp;Marcia Lia (PT), Carlos Neder (PT), Jos&eacute; Zico Prado (PT) e Alencar (PT). O&nbsp;vice-prefeito de Rosana, Valdir Ferreira e o presidente do PT&nbsp;na cidade, S&eacute;rgio D&acute; Angelo tamb&eacute;m compareceram ao ato.</p>
+
+<p><br />
+Tamb&eacute;m marcaram presen&ccedil;a a diretora da Federa&ccedil;&atilde;o &Uacute;nica de Petroleiros (FUP)&nbsp;Cibele Vieira,&nbsp;Ana Flores, da CUT e da Frente Brasil Popular e&nbsp;o ex-ministro e integrante da executiva do PT, Luiz Marinho.&nbsp;</p>
+
+<p><br />
+Em geral, as falas foram direcionadas para uma breve an&aacute;lise de conjuntura em torno do contexto pol&iacute;tico nacional e internacional, pontuando as contradi&ccedil;&otilde;es do bloco golpista e os desafios do bloco de resist&ecirc;ncia na constru&ccedil;&atilde;o da unidade pelo Fora Temer e em defesa da Reforma Agr&aacute;ria e dos direitos da classe trabalhadora.&nbsp;</p>
 
 <p><br />
 Nesse sentido, Ana Flores, da CUT e da Frente Brasil Popular, ressaltou a import&acirc;ncia do Movimento realizar seu encontro em um local hist&oacute;rico na luta pela terra e apontou que para derrubar a reforma da previd&ecirc;ncia, uma das medidas golpistas de Temer que tamb&eacute;m impacta diretamente o campo, ser&aacute; preciso derrubar o golpe com a mobiliza&ccedil;&atilde;o da sociedade. &ldquo;Nosso trabalho vai ter que ser com a popula&ccedil;&atilde;o em geral&rdquo;, afirma.&nbsp;</p>
@@ -82,9 +88,6 @@ Kelli Mafort, da dire&ccedil;&atilde;o nacional do MST, aponta que &ldquo;a defe
 
 <p><br />
 Sobre a retirada de direitos, Kelli afirma que o Movimento se coloca em luta para fazer enfrentamento dessas medidas golpistas. Mafort aponta que a agenda de luta para o 08 e 15 de mar&ccedil;o ser&aacute; de &ldquo;den&uacute;ncia da reforma da previd&ecirc;ncia golpista que esconde a viol&ecirc;ncia do patriarcado sobre as mulheres.... N&atilde;o podemos permitir que o golpe destrua nossas vidas e conquistas&rdquo;, finaliza.&nbsp;</p>
-
-<p><br />
-Al&eacute;m das representa&ccedil;&otilde;es pol&iacute;ticas j&aacute; citadas, esteve presente no ato a deputada estadual Marcia Lia (PT-SP), os deputados estaduais pelo PT, Alencar Santana e Zico Pisolo, o deputado federal Carlos Zarattini (PT-SP), o ex-ministro e integrante da executiva PT, Luiz Marinho. Al&eacute;m do Vice-Prefeito de Rosana, Valdir Ferreira e o presidente do PT&nbsp;de Rosana, S&eacute;rgio.</p>
 
 <p><br />
 O encontro segue com seu processo de estudos e debates e finaliza neste domingo (19), com o retorno das trabalhadoras e trabalhadores rurais para suas respectivas regi&otilde;es.&nbsp;</p>
