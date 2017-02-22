@@ -4,7 +4,7 @@ tags:
   - tag: estrangeirização
   - tag: golpe
   - tag: venda-de-terras
-title: "O Brasil é do povo brasileiro, a estrangeirização de terras deve ser combatida em diálogo com a sociedade "
+title: "\"A estrangeirização de terras deve ser combatida em diálogo com a sociedade\""
 support_line: "A sanha do governo de Michel Temer em atrair capital estrangeiro para o Brasil, com o objetivo de garantir a acumulação dos seus agentes financeiros parece não ter limites"
 menu: agronegócio
 images_hd: //farm1.staticflickr.com/281/33017769925_25208401b2_b.jpg
@@ -30,7 +30,7 @@ section: cover
 ---
 <p>&nbsp;</p>
 
-<p><em>Por Leonardo Fernandes&nbsp;<br />
+<p><em>Por Leonardo Fernandes e Iris Pacheco<br />
 Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
