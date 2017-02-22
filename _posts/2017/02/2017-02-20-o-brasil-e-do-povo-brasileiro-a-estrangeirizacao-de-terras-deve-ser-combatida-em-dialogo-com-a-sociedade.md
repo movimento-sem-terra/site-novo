@@ -25,7 +25,7 @@ releated_posts:
   - _posts/2016/07/2016-07-19-debatedores-divergem-sobre-projeto-de-lei-que-regula-compra-de-terras-por-estrangeiros.md
   - _posts/2016/08/2016-08-04-movimentos-populares-em-alerta-a-sociedade-contra-a-venda-de-terras-para-estrangeiros.md
   - _posts/2017/01/2017-01-04-sobre-a-liberacao-da-venda-de-terras-para-estrangeiros-no-brasil.md
-section: cover
+section: featured-news
 
 ---
 <p>&nbsp;</p>
