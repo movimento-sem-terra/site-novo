@@ -25,6 +25,7 @@ releated_posts:
   - _posts/2017/02/2017-02-09-mulheres-de-diversos-movimentos-populares-lancam-manifesto-contra-a-reforma-da-previdencia.md
   - _posts/2016/06/2016-06-09-via-campesina-lanca-manifesto-pedindo-fora-temer.md
   - _posts/2016/05/2016-05-23-por-uma-sociedade-sem-opressoes-mulheres-sem-terra-pautam-a-unidade-de-classe-contra-o-capital.md
+label: articles
 
 ---
 <p>&nbsp;</p>
