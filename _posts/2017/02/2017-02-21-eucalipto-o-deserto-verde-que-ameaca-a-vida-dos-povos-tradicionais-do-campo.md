@@ -23,6 +23,7 @@ releated_posts:
   - _posts/2016/12/2016-12-15-no-maranhao-mst-debate-os-desafios-da-luta-por-direitos-sociais.md
   - _posts/2017/02/2017-02-07-movimentos-protocolam-em-brasilia-documento-contra-entrega-da-base-de-alcantara-aos-eua.md
   - _posts/2016/12/2016-12-01-simbolo-de-resistencia-no-maranhao-assentamento-cipo-cortado-festeja-nove-anos.md
+section: featured-news
 
 ---
 <p>&nbsp;</p>
