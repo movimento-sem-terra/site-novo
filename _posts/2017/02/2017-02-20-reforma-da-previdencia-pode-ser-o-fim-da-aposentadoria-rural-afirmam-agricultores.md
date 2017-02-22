@@ -24,6 +24,7 @@ releated_posts:
   - _posts/2017/02/2017-02-07-entrevista-o-objetivo-da-reforma-da-previdencia-e-privatizar.md
   - _posts/2017/02/2017-02-14-nova-previdencia-transforma-trabalhador-rural-em-objeto-descartavel.md
   - _posts/2017/02/2017-02-14-reforma-da-previdencia-ignora-rusd-426-bilhoes-devidos-por-empresas-ao-inss.md
+section: featured-news
 
 ---
 <p>&nbsp;</p>
