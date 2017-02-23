@@ -5,7 +5,7 @@ tags:
   - tag: justiça
   - tag: ruralistas
 title: Ex-presidente da UDR é condenado a 34 anos de prisão no Paraná
-support_line: "Alessandro Meneguel foi apresentado pela promotoria do julgamento, como um homem impulsivo e com grande histórico policial."
+support_line: Alessandro Meneguel foi apresentado pela promotoria do julgamento como um homem impulsivo e com grande histórico policial.
 menu: direitos humanos
 section: cover
 images_hd: //farm4.staticflickr.com/3703/32230424824_31153b4c68_b.jpg
@@ -51,7 +51,7 @@ A defesa de Meneguel se utilizou do argumento de que ele havia agido em leg&iacu
 <strong>Hist&oacute;rico de viol&ecirc;ncia</strong></p>
 
 <p><br />
-Alessandro Meneguel foi apresentado pela promotoria do julgamento, como um homem impulsivo e com grande hist&oacute;rico no setor policial.</p>
+Alessandro Meneguel foi apresentado pela promotoria do julgamento como um homem impulsivo e com grande hist&oacute;rico no setor policial.</p>
 
 <p><br />
 Em 2006, ele liderou um grupo de fazendeiros para trancar a BR 277, onde integrantes do MST participavam de uma marcha. Ao final da a&ccedil;&atilde;o, cerca de 10 trabalhadores ficaram feridos, inclusive o Keno, que foi agredido com peda&ccedil;os de pau.</p>
