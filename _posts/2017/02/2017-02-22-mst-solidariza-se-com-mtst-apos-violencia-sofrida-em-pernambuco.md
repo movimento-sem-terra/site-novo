@@ -7,7 +7,7 @@ tags:
 title: "MST solidariza-se com MTST após violência sofrida em Pernambuco "
 support_line: A luta do MTST é por uma cidade de todos e todas. Suas reivindicações são legítimas frente a um Estado que pouco fez nesse setor e que ameaça acabar com o pouco que já foi feito
 menu: lutas e mobilizações
-section: cover
+section: featured-news
 images_hd: //farm3.staticflickr.com/2926/32901067122_64e48daacb_b.jpg
 layout: post
 files:
