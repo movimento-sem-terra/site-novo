@@ -82,20 +82,29 @@ A soja entrou no estado a uma velocidade assustadora: a &aacute;rea sob cultivo 
 O avan&ccedil;o do agroneg&oacute;cio no MT foi acompanhado da narrativa de levar &ldquo;desenvolvimento para o estado&rdquo; mas, segundo Andreia Fanzeres, coordenadora do programa de direitos ind&iacute;genas da Opera&ccedil;&atilde;o Amaz&ocirc;nia Nativa (OPAN), ONG que trabalha com povos ind&iacute;genas na regi&atilde;o, tais &ldquo;benef&iacute;cios&rdquo; n&atilde;o alcan&ccedil;aram todos que ali viviam. Como ocorreu em epis&oacute;dios anteriores de coloniza&ccedil;&atilde;o na Amaz&ocirc;nia, as popula&ccedil;&otilde;es tradicionais que habitavam a regi&atilde;o h&aacute; centenas de anos nunca foram consultadas ou beneficiadas com a ind&uacute;stria da soja: &ldquo;As comunidades ind&iacute;genas e agricultores familiares de forma geral sempre estiveram &agrave; margem do processo de decis&atilde;o sobre que tipo de desenvolvimento querem&rdquo;.</p>
 
 <p><br />
-&ldquo;H&aacute; certas regi&otilde;es, como ali pr&oacute;ximo &agrave; Brasnorte [munic&iacute;pio &agrave;s margens do rio Juruena], por exemplo, onde voc&ecirc; pode olhar 360 graus ao redor sem ver uma &uacute;nica &aacute;rvore&rdquo;, comenta o antrop&oacute;logo Rinaldo Arruda, professor da Pontif&iacute;cia Universidade Cat&oacute;lica de S&atilde;o Paulo.</p>
+&ldquo;H&aacute; certas regi&otilde;es, como ali pr&oacute;ximo &agrave; Brasnorte [munic&iacute;pio &agrave;s margens do rio Juruena], por exemplo, onde voc&ecirc; pode olhar 360 graus ao redor sem ver uma &uacute;nica &aacute;rvore&rdquo;, comenta o antrop&oacute;logo Rinaldo Arruda, professor da Pontif&iacute;cia Universidade Cat&oacute;lica de S&atilde;o Paulo.<br />
+&nbsp;</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="Mapa-Soja-Rio-Teles-Pires-Tapajos-Agronegocio-Sinop-copy-1486997388-e1487005140595-1000x609.jpg" height="426" src="//farm3.staticflickr.com/2900/33092537875_ee497ab976_b.jpg" width="700" />
+<figcaption><em>Norte de Mato Grosso: em apenas 30 anos, o avan&ccedil;o do agroneg&oacute;cio reduziu drasticamente a cobertura florestal da regi&atilde;o. Montagem: Mauricio Torres.</em></figcaption>
+</figure>
+</div>
 
 <p><br />
-Mapa-Soja-Rio-Teles-Pires-Tapajos-Agronegocio-Sinop-copy-1486997388<br />
-<br />
-Norte de Mato Grosso: em apenas 30 anos, o avan&ccedil;o do agroneg&oacute;cio reduziu drasticamente a cobertura florestal da regi&atilde;o. Montagem: Mauricio Torres.<br />
-Chantagem &ldquo;Moderna&rdquo;</p>
+<strong>Chantagem &ldquo;Moderna&rdquo;</strong></p>
 
 <p><br />
-O cultivo da soja &nbsp;exige grandes extens&otilde;es de terra para ser lucrativo. Assim, sua expans&atilde;o no estado levou &agrave; concentra&ccedil;&atilde;o fundi&aacute;ria. Com a valoriza&ccedil;&atilde;o da commodity e o aumento da produtividade, a economia nacional foi se tornando cada vez mais dependente das divisas oriundas da exporta&ccedil;&atilde;o desse bem prim&aacute;rio. O peso da soja na balan&ccedil;a comercial brasileira &ldquo;garante poder pol&iacute;tico para influenciar a implementa&ccedil;&atilde;o de infraestrutura e log&iacute;stica, como a pavimenta&ccedil;&atilde;o das estradas e at&eacute; a constru&ccedil;&atilde;o de hidrovias&rdquo;, explica Ioris, sintetizando: &ldquo;O agroneg&oacute;cio chantageia o pa&iacute;s&rdquo;.</p>
+O cultivo da soja &nbsp;exige grandes extens&otilde;es de terra para ser lucrativo. Assim, sua expans&atilde;o no estado levou &agrave; concentra&ccedil;&atilde;o fundi&aacute;ria. Com a valoriza&ccedil;&atilde;o da commodity e o aumento da produtividade, a economia nacional foi se tornando cada vez mais dependente das divisas oriundas da exporta&ccedil;&atilde;o desse bem prim&aacute;rio. O peso da soja na balan&ccedil;a comercial brasileira &ldquo;garante poder pol&iacute;tico para influenciar a implementa&ccedil;&atilde;o de infraestrutura e log&iacute;stica, como a pavimenta&ccedil;&atilde;o das estradas e at&eacute; a constru&ccedil;&atilde;o de hidrovias&rdquo;, explica Ioris, sintetizando: &ldquo;O agroneg&oacute;cio chantageia o pa&iacute;s&rdquo;.<br />
+&nbsp;</p>
 
-<p>fundiaria-agronegocio-reforma-agraria-tensao-constante-3-1486997682<br />
-<br />
-A concentra&ccedil;&atilde;o fundi&aacute;ria provocada pelo agroneg&oacute;cio abarca terras que deveriam estar destinadas &agrave; reforma agr&aacute;ria. resultado &eacute; tens&atilde;o constante. Foto: Tha&iacute;s Borges<br />
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="fundiaria-agronegocio-reforma-agraria-tensao-constante-3-1486997682-1000x546.jpg" height="382" src="//farm1.staticflickr.com/749/33092537705_c888f34676_b.jpg" width="700" />
+<figcaption><em>A concentra&ccedil;&atilde;o fundi&aacute;ria provocada pelo agroneg&oacute;cio abarca terras que deveriam estar destinadas &agrave; reforma agr&aacute;ria. resultado &eacute; tens&atilde;o constante. Foto: Tha&iacute;s Borges</em></figcaption>
+</figure>
+</div>
+
+<p><br />
 Em todos os n&iacute;veis, o agroneg&oacute;cio na regi&atilde;o &eacute; amplamente promovido por governos e ind&uacute;stria como sin&ocirc;nimo de &ldquo;modernidade&rdquo; e &ldquo;desenvolvimento&rdquo;.</p>
 
 <p><br />
