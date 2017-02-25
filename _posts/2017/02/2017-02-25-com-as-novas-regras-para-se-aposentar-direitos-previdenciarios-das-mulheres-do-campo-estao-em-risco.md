@@ -2,7 +2,7 @@
 date: "2017-02-25T10:17:59-03:00"
 tags: []
 section: boletim
-soundcloud: "https://soundcloud.com/movimento-sem-terra/com-as-novas-regras-para-se-aposentar-direitos-previdenciarios-das-mulheres-do-campo-estao-em-risco"
+soundcloud: "<iframe width=\"100%\" height=\"450\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/309415659&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true\"></iframe>"
 images_hd: //farm3.staticflickr.com/2634/32261330494_e3fdd29ea1_b.jpg
 title: "Com as novas regras para se aposentar, direitos previdenciários das mulheres do campo estão em risco"
 support_line: Confira o boletim emitido pela Rádio Brasil Atual
