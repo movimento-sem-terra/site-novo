@@ -4,7 +4,7 @@ tags:
   - tag: rio-grande-do-sul
   - tag: fazenda-annoni
   - tag: romaria-da-terra-e-das-Águas
-title: 40ª Romaria da Terra resgata luta do MST para a conquista da fazenda Annoni
+title: 40ª Romaria da Terra resgata luta do MST para conquista da fazenda Annoni
 support_line: A romaria ainda destacou o papel fundamental que as mulheres tiveram no desmanche do latifúndio de mais de 9 mil hectares.
 menu: lutas e mobilizações
 section: cover
