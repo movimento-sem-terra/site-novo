@@ -7,7 +7,7 @@
   width: 100vw;
   height: 100vh;
   display: flex;
-	justify-content: space-between;
+  justify-content: space-between;
 }
 
 .jornadas-mulheres-2017 .responsive-image {
@@ -15,6 +15,16 @@
   align-self: flex-end;
 }
 
+.jornadas-mulheres-2017 .responsive-image.mulheres {
+  background-image: url(/assets/img/jornadas-mulheres-2017/mulheres-2017.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: auto;
+  height: 100%;
+  max-height: 640px;
+}
+
 .jornadas-mulheres-2017 .responsive-image.logo {
   align-self: flex-start;
+  max-width: 500px;
 }
