@@ -1,3 +1,11 @@
+---
+---
+
+@import "../bourbon/bourbon";
+@import "../neat/neat";
+@import "../_sass/variables";
+@import "../_sass/_includes/mixins";
+
 .jornadas-mulheres-2017 .main-picture {
   background-image: url(//farm1.staticflickr.com/739/32247259564_d55a84cc80_b.jpg);
   background-repeat: no-repeat;
@@ -7,7 +15,11 @@
   width: 100vw;
   height: 100vh;
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
+
+  @include media($desktop){
+    justify-content: space-between;
+  }
 }
 
 .jornadas-mulheres-2017 .responsive-image {
@@ -16,15 +28,55 @@
 }
 
 .jornadas-mulheres-2017 .responsive-image.mulheres {
-  background-image: url(/assets/img/jornadas-mulheres-2017/mulheres-2017.png);
-  background-repeat: no-repeat;
-  background-size: cover;
-  width: auto;
-  height: 100%;
-  max-height: 640px;
+  display: none;
+
+  @include media($desktop){
+    display: block;
+    background-image: url(/assets/img/jornadas-mulheres-2017/mulheres-2017.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    max-height: 640px;
+    width: 40vw;
+    max-width: 580px;
+ }
 }
 
 .jornadas-mulheres-2017 .responsive-image.logo {
-  align-self: flex-start;
+  width: 100%;
+  align-self: center;
   max-width: 500px;
+
+  @include media($desktop){
+    width: auto;
+    margin: 80px;
+    align-self: flex-start;
+  }
+}
+
+#special.jornadas-mulheres-2017 #information {
+  font-size: 1.7em;
+  padding: 0;
+
+  .content {
+    justify-content: center;
+  }
+
+  .content span {
+    text-shadow: 1px 2px 1px #000000;
+    font-family: 'Exo 2';
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 1.1em;
+    align-self: center;
+  }
+}
+
+.jornadas-mulheres-2017 #description {
+  margin-top: 30px;
+
+  .content p {
+    line-height: 1.6;
+    margin-bottom: 20px;
+  }
 }
