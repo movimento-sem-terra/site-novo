@@ -3,6 +3,7 @@ date: "2017-03-02T12:05:08-03:00"
 tags:
   - tag: jornada-nacional-de-lutas
   - tag: mulheres
+  - tag: contra-o-golpe
 title: "Em Jornada Nacional de Lutas, mulheres Sem Terra denunciam os desmandos do governo Temer"
 images_hd: //farm4.staticflickr.com/3744/32825433740_49d0bab481_b.jpg
 special-page: women-2017
@@ -29,6 +30,9 @@ files:
 created_date: "2017-03-02T12:19:16-03:00"
 published: true
 releated_posts:
+  - _posts/2016/09/2016-09-05-jornada-unitaria-dos-movimentos-do-campo-mobiliza-milhares-de-pessoas-em-todo-pais.md
+  - _posts/2016/09/2016-09-08-mst-ocupa-incra-em-minas-gerais.md
+  - _posts/2016/09/2016-09-08-organizacoes-do-campo-afirmam-continuidade-das-mobilizacoes-apos-acampamento-unitario.md
   - _posts/2016/09/2016-09-06-para-o-tcu-os-assentados-estao-proibidos-de-melhorar-de-vida-diz-mst.md
   - _posts/2016/12/2016-12-12-seminario-discute-genero-no-df.md
   - _posts/2016/11/2016-11-25-mulheres-da-via-campesina-se-mobilizam-em-seis-regioes-do-rs-nesta-sexta-feira.md
