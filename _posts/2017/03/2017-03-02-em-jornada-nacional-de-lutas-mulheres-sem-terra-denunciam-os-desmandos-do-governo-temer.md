@@ -94,7 +94,8 @@ O importante aqui &eacute; ressaltar que estamos juntos de todos e todas que sae
 <p><br />
 <strong>Por que o recorte de g&ecirc;nero em rela&ccedil;&atilde;o a reforma da Previd&ecirc;ncia &eacute; t&atilde;o importante?</strong></p>
 
-<p>Ao igualar o tempo de contribui&ccedil;&atilde;o entre homens e mulheres, a proposta desconsidera a jornada de trabalho e as diferentes condi&ccedil;&otilde;es urbanas e rurais, dificultando significativamente o acesso aos direitos previdenci&aacute;rios. Um dos maiores problemas est&aacute; na obrigatoriedade da contribui&ccedil;&atilde;o individual.</p>
+<p><br />
+Ao igualar o tempo de contribui&ccedil;&atilde;o entre homens e mulheres, a proposta desconsidera a jornada de trabalho e as diferentes condi&ccedil;&otilde;es urbanas e rurais, dificultando significativamente o acesso aos direitos previdenci&aacute;rios. Um dos maiores problemas est&aacute; na obrigatoriedade da contribui&ccedil;&atilde;o individual.</p>
 
 <p><br />
 No contexto das rela&ccedil;&otilde;es desiguais na fam&iacute;lia, quando a fam&iacute;lia tiver que optar por um membro para contribuir, dificilmente ser&aacute; a mulher. Outra altera&ccedil;&atilde;o dr&aacute;stica ser&aacute; a desvincula&ccedil;&atilde;o&nbsp;da aposentadoria do sal&aacute;rio m&iacute;nimo, que ser&aacute; 51% da m&eacute;dia dos sal&aacute;rios de contribui&ccedil;&atilde;o, somados a 1% por ano de contribui&ccedil;&atilde;o. Isto significa que, para se aposentar com um sal&aacute;rio m&iacute;nimo, um/a trabalhador/a rural necessitar&aacute; ter contribu&iacute;do por 49 anos e ter come&ccedil;ado a contribuir aos 16 anos<br />
