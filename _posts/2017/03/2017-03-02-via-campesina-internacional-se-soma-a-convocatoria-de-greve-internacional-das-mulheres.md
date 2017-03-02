@@ -9,6 +9,7 @@ support_line: "\"Estamos comprometidas a construir alianças para a luta das mul
 menu: lutas e mobilizações
 images_hd: //farm3.staticflickr.com/2850/33170231056_ea838815e2_b.jpg
 layout: post
+special-page: women-2017
 files:
   - link: //farm3.staticflickr.com/2913/32829190570_ed427b60f0_b.jpg
     original: //farm3.staticflickr.com/2913/32829190570_d95c379411_o.png

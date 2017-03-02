@@ -18,7 +18,7 @@
 {% if page.path contains '_posts' %}
   <meta content="{{ page.menu }}" itemprop="articleSection"/>
 {% endif %}
-    
+
 {% if page.description and page.description != '' %}
   <meta property="og:description" content="{{ page.description  | truncate: 200 | xml_escape }}" />
 {% else if page.support_line and page.support_line != '' %}
