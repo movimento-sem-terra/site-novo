@@ -7,7 +7,7 @@ tags:
 title: 40ª Romaria da Terra resgata luta do MST para conquista da fazenda Annoni
 support_line: A romaria ainda destacou o papel fundamental que as mulheres tiveram no desmanche do latifúndio de mais de 9 mil hectares.
 menu: lutas e mobilizações
-section: cover
+section: featured-news
 images_hd: //farm1.staticflickr.com/613/33152078596_b65b695170_b.jpg
 layout: post
 files:
