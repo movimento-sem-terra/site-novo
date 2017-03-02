@@ -13,8 +13,8 @@ collections:
   banners:
 timezone: BR
 lollipop:
-  title: Musicoteca 
-  link: musicoteca
+  title:  Jornada Nacional de Lutas das Mulheres Sem Terra
+  link: jornada-nacional-das-mulheres-2017
   enabled: true
 gems:
   - jekyll-sitemap
