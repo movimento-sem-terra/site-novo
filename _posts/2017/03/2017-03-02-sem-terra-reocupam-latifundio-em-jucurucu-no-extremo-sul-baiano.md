@@ -51,38 +51,38 @@ releated_posts:
 
 <p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
 
-<p style="margin-bottom: 0cm; line-height: 100%"><em>Por Coletivo de Comunica&ccedil;&atilde;o do MST na Bahia<br />
+<p><em>Por Coletivo de Comunica&ccedil;&atilde;o do MST na Bahia<br />
 Da P&aacute;gina do MST</em></p>
 
-<p style="margin-bottom: 0cm; line-height: 100%"><br />
+<p><br />
 Nas primeiras horas da ter&ccedil;a-feira (21), a fazenda Caled&ocirc;nia, de Alvaro Pereira Filho, mais conhecido como Alvino Para Todos, foi reocupada por 50 fam&iacute;lias Sem Terra, com o objetivo de denunciar a improdutividade da &aacute;rea e as diversas irregularidades.</p>
 
-<p style="margin-bottom: 0cm; line-height: 100%"><br />
+<p><br />
 H&aacute; mais de dois anos o MST vem ocupando e reivindicando a desapropria&ccedil;&atilde;o da fazenda para fins de Reforma Agr&aacute;ria, e em contrapartida, seis liminares de despejo foram emitidas pelo poder judici&aacute;rio local, sem levar em considera&ccedil;&atilde;o as den&uacute;ncias realizadas pelos trabalhadores.</p>
 
-<p style="margin-bottom: 0cm; line-height: 100%"><br />
+<p><br />
 O &uacute;ltimo despejo ocorreu no dia 15 de fevereiro. Os barracos e planta&ccedil;&otilde;es foram destru&iacute;das por um trator, sem contar as in&uacute;meras amea&ccedil;as realizadas por pistoleiros as fam&iacute;lias acampadas.</p>
 
-<p style="margin-bottom: 0cm; line-height: 100%"><br />
+<p><br />
 <strong>Reocupar e resistir</strong></p>
 
-<p style="margin-bottom: 0cm; line-height: 100%"><br />
+<p><br />
 Para dire&ccedil;&atilde;o do MST na regi&atilde;o, a reocupa&ccedil;&atilde;o &eacute; s&iacute;mbolo de resist&ecirc;ncia e luta cont&iacute;nua contra os grandes latifundi&aacute;rios que desenvolvem um modelo de produ&ccedil;&atilde;o insustent&aacute;vel e desumano, ao atentar, inclusive, contra os Direitos Humanos.</p>
 
-<p style="margin-bottom: 0cm; line-height: 100%"><br />
+<p><br />
 Al&eacute;m disso, as in&uacute;meras pr&aacute;ticas de abuso de poder e concentra&ccedil;&atilde;o de riqueza na regi&atilde;o s&atilde;o marcos da expans&atilde;o da monocultura, que paralelo a isso, coloca milhares de trabalhadores abaixo da linha da pobreza.</p>
 
-<p style="margin-bottom: 0cm; line-height: 100%"><br />
+<p><br />
 A dire&ccedil;&atilde;o destaca ainda que &eacute; inadmiss&iacute;vel os trabalhadores serem tratados com tanta negligencia e exige um posicionamento do governo do Estado frente a essa situa&ccedil;&atilde;o.</p>
 
-<p style="margin-bottom: 0cm; line-height: 100%"><br />
+<p><br />
 <strong>Um novo acampamento</strong></p>
 
-<p style="margin-bottom: 0cm; line-height: 100%"><br />
+<p><br />
 Na reocupa&ccedil;&atilde;o, a lona preta foi estendida sobre o latif&uacute;ndio, demarcando a constru&ccedil;&atilde;o de novos barracos e o in&iacute;cio de um novo plantio.</p>
 
-<p style="margin-bottom: 0cm; line-height: 100%"><br />
+<p><br />
 Ao homenagear Bruna Ara&uacute;jo, dando seu nome ao acampamento, os Sem Terra apontaram que o modelo de produ&ccedil;&atilde;o do agroneg&oacute;cio n&atilde;o garante a alimenta&ccedil;&atilde;o na mesa dos trabalhadores e &eacute; respons&aacute;vel pelo aumento do &ecirc;xodo rural e nos &iacute;ndices de desigualdades sociais.</p>
 
-<p style="margin-bottom: 0cm; line-height: 100%"><br />
+<p><br />
 As fam&iacute;lias afirmam que s&oacute; sair&atilde;o da &aacute;rea com um decreto de desapropria&ccedil;&atilde;o.</p>
