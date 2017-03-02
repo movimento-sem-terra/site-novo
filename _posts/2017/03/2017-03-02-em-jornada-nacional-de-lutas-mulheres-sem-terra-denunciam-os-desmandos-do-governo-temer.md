@@ -80,7 +80,10 @@ As Mulheres Sem Terra, ap&oacute;s debate sobre os desafios impostos para a clas
 <strong>Qual expectativa do Movimento? Ser&atilde;o quantos atos e em quais estados?</strong></p>
 
 <p><br />
-A expectativa &eacute; que todas as mulheres Sem Terra ou n&atilde;o, tomem &agrave;s ruas e digam: &ldquo;Nenhum Direito a Menos&rdquo; para o povo brasileiro. Para todo o povo brasileiro, porque nossa luta &eacute; contra todas as formas de opress&atilde;o: o racismo, a lgbtfobia. As nossas atividades v&atilde;o acontecer em todos os estados onde o MST est&aacute; organizado. Cada regi&atilde;o est&aacute; construindo as a&ccedil;&otilde;es da Jornada conforme suas especificidades.&nbsp;</p>
+A expectativa &eacute; que todas as mulheres Sem Terra ou n&atilde;o, tomem &agrave;s ruas e digam: &ldquo;Nenhum Direito a Menos&rdquo; para o povo brasileiro, porque nossa luta &eacute; contra todas as formas de opress&atilde;o: o racismo, a lgbtfobia.</p>
+
+<p><br />
+As nossas atividades v&atilde;o acontecer em todos os estados onde o MST est&aacute; organizado. Cada regi&atilde;o est&aacute; construindo as a&ccedil;&otilde;es da Jornada conforme suas especificidades.&nbsp;</p>
 
 <p><br />
 <strong>Al&eacute;m do MST, quais outros movimentos camponeses articulam, apoiam e v&atilde;o participar das mobiliza&ccedil;&otilde;es?</strong></p>
