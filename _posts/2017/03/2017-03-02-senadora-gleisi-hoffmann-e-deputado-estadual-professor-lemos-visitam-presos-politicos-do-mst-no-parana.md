@@ -5,7 +5,7 @@ tags:
   - tag: presos-políticos
   - tag: direitos-humanos
   - tag: criminalização
-title: Senadora Gleisi Hoffmann e Deputado Estadual Professor Lemos visitam presos Políticos do MST no Paraná
+title: Senadora Gleisi Hoffmann e Deputado Professor Lemos visitam presos políticos do MST
 section: featured-news
 support_line: "O MST denuncia a escalada da repressão contra a luta pela terra, onde predominam os interesses do agronegócio e da empresa Araupel."
 menu: direitos humanos
