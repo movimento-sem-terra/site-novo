@@ -33,6 +33,7 @@ releated_posts:
   - _posts/2017/02/2017-02-22-mulheres-da-via-campesina-se-posicionam-contra-a-reforma-da-previdencia-social.md
   - _posts/2016/12/2016-12-14-curso-sobre-feminismo-e-marxismo-e-realizado-no-rio-grande-do-sul.md
   - _posts/2016/08/2016-08-22-nao-descansaremos-enquanto-nao-libertamos-todos-os-nossos-presos-politicos-afirma-via-campesina.md
+section: featured-news
 
 ---
 <p>&nbsp;</p>
