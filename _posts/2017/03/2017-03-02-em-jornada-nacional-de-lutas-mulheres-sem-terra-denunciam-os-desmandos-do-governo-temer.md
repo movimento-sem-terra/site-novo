@@ -4,7 +4,7 @@ tags:
   - tag: jornada-nacional-de-lutas
   - tag: mulheres
   - tag: contra-o-golpe
-title: "Em Jornada Nacional de Lutas, mulheres Sem Terra denunciam os desmandos do governo Temer"
+title: "Em Jornada de Lutas, mulheres Sem Terra denunciam desmandos do governo Temer"
 images_hd: //farm4.staticflickr.com/3744/32825433740_49d0bab481_b.jpg
 special-page: women-2017
 label: interviews
