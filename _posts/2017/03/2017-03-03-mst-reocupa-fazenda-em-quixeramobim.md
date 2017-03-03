@@ -8,7 +8,7 @@ title: MST reocupa Fazenda em Quixeramobim
 images_hd: //farm1.staticflickr.com/669/33186125496_683669efd6_b.jpg
 menu: lutas e mobilizações
 support_line: "Hoje existem aproximadamente 2 mil famílias acampadas em todo Ceará, na expectativa de ter o acesso à terra."
-section: cover
+section: featured-news
 layout: post
 files:
   - link: //farm1.staticflickr.com/669/33186125496_683669efd6_b.jpg
