@@ -30,6 +30,7 @@ releated_posts:
   - _posts/2017/01/2017-01-04-ibge-as-mudancas-na-cobertura-e-uso-da-terra-no-brasil.md
   - _posts/2017/01/2017-01-10-20-grupos-estrangeiros-tem-3-milhoes-de-ha-de-terras-no-brasil.md
   - _posts/2017/01/2017-01-17-o-capitalismo-pode-destruir-nossa-sociedade-de-25-maneiras-diferentes.md
+label: articles
 
 ---
 <p>&nbsp;</p>
