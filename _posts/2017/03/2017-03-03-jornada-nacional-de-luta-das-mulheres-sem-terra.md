@@ -7,7 +7,7 @@ target: _self
 label: special-stories
 images_hd: //farm1.staticflickr.com/767/32847317080_82eab032c0_b.jpg
 support_line: Jornada nacional de luta das mulheres sem terra
-hat: Jornada
+hat: Especial
 title: Jornada nacional de luta das mulheres sem terra
 layout: post
 files:
