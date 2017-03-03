@@ -4,7 +4,7 @@ tags:
   - tag: solidariedade-internacional
   - tag: impunidade
   - tag: lutadores-e-lutadoras-do-povo
-title: "Berta Cárceres: um ano de impunidade"
+title: "Berta Cáceres: um ano de impunidade"
 images_hd: //farm4.staticflickr.com/3667/32845452170_52a6ef9e5d_b.jpg
 support_line: Reafirmamos nosso compromisso em honrar as mulheres e homens caídos na luta pela defesa da vida.
 menu: direitos humanos
