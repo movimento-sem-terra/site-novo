@@ -4,7 +4,7 @@ tags:
   - tag: jornada-de-lutas
   - tag: mulheres
   - tag: lutas-e-mobilizações
-title: "Em março, MST  mobiliza mais de 5 mil mulheres no interior e na capital baiana"
+title: MST mobiliza mais de cinco mil mulheres no interior e na capital baiana
 images_hd: //farm1.staticflickr.com/727/33285259555_c2736df7d1_b.jpg
 support_line: "a Jornada vai denunciar o capital estrangeiro na agricultura brasileira por meio das empresas transnacionais, chamando a atenção da sociedade ao modelo destrutivo do agronegócio "
 menu: lutas e mobilizações
