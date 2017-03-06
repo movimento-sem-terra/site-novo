@@ -4,7 +4,7 @@ tags: []
 section: campaign
 link: "http://www.mst.org.br/jornada-nacional-das-mulheres-2017/"
 target: _self
-label: special-stories
+label: null
 images_hd: //farm1.staticflickr.com/767/32847317080_82eab032c0_b.jpg
 support_line: Jornada nacional de luta das mulheres sem terra
 hat: Especial
