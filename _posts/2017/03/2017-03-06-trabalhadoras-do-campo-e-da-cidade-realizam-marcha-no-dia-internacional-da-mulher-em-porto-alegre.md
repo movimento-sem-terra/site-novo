@@ -5,18 +5,18 @@ tags:
   - tag: mulheres
   - tag: lutas-e-mobilizações
 title: Trabalhadoras do campo e da cidade realizam marcha em Porto Alegre
-images_hd: //farm4.staticflickr.com/3821/33244323776_4e7220c0f7_b.jpg
+images_hd: //farm1.staticflickr.com/271/32444028394_cb75968a17_b.jpg
 support_line: "O objetivo é marcar o Dia Internacional da Mulher como de luta em defesa dos direitos previdenciários e trabalhistas, rumo à uma greve geral"
 menu: lutas e mobilizações
 layout: post
 files:
-  - link: //farm4.staticflickr.com/3821/33244323776_4e7220c0f7_b.jpg
-    original: //farm4.staticflickr.com/3821/33244323776_354a628302_o.jpg
-    thumbnail: //farm4.staticflickr.com/3821/33244323776_4e7220c0f7_t.jpg
-    medium: //farm4.staticflickr.com/3821/33244323776_4e7220c0f7_z.jpg
-    small: //farm4.staticflickr.com/3821/33244323776_4e7220c0f7_n.jpg
-    title: sem-terra-rs_1.jpg
-    $$hashKey: 0B8
+  - link: //farm1.staticflickr.com/271/32444028394_cb75968a17_b.jpg
+    original: //farm1.staticflickr.com/271/32444028394_5d9d4ea15d_o.jpg
+    thumbnail: //farm1.staticflickr.com/271/32444028394_cb75968a17_t.jpg
+    medium: //farm1.staticflickr.com/271/32444028394_cb75968a17_z.jpg
+    small: //farm1.staticflickr.com/271/32444028394_cb75968a17_n.jpg
+    title: 17994257.jpg
+    $$hashKey: 0G2
 created_date: "2017-03-06T10:57:17-03:00"
 published: true
 releated_posts:
