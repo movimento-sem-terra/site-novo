@@ -5,7 +5,7 @@ tags:
   - tag: jornada-nacional-de-lutas
   - tag: mulheres
   - tag: agronegócio
-title: "Contra o agronegócio e a Reforma da Previdência, mulheres ocupam usina e Incra na BA"
+title: "Contra agronegócio e Reforma da Previdência, mulheres ocupam usina e Incra na BA"
 support_line: "As ações fazem parte da Jornada Nacional de Lutas das Mulheres Sem Terra, que no mês de março intensificam as mobilizações e ocupações."
 menu: lutas e mobilizações
 section: featured-news
@@ -73,7 +73,7 @@ Al&eacute;m disso, denunciam as medidas golpistas do Governo de Michel Temer (PM
 A Medasa, empresa do Grupo S&atilde;o Luiz, fundada em 1984 e que operou por cerca de 20 anos no extremo sul da Bahia, com a explora&ccedil;&atilde;o da cultura da cana-de-a&ccedil;&uacute;car, segundo o MST, possu&iacute; d&iacute;vidas milion&aacute;rias junto ao BNDES e diversos processos trabalhistas de viola&ccedil;&atilde;o aos direitos humanos e a destrui&ccedil;&atilde;o do meio ambiente.</p>
 
 <figure class="image" style="float:left"><img alt="WhatsApp Image 2017-03-06 at 08.58.59.jpeg" height="197" src="//farm4.staticflickr.com/3864/33289750375_5900af246e_b.jpg" width="350" />
-<figcaption>Mais de 5 mil mulheres se mobilizam em toda Bahia.</figcaption>
+<figcaption>Mais de 5 mil mulheres se mobilizam na Bahia.</figcaption>
 </figure>
 
 <p><br />
@@ -92,7 +92,7 @@ Entretanto, quando se analisa alguns detalhes, se percebe que o acionista majori
 O Incra em Salvador foi pintado de vermelho com as bandeiras do MST, gritos de ordem e as m&uacute;sicas de rebeldia cantadas por mais de mil trabalhadoras Sem Terra, de dez regi&otilde;es da Bahia, ap&oacute;s ocupa&ccedil;&atilde;o realizada na manh&atilde; dessa segunda-feira (6).</p>
 
 <figure class="image" style="float:right"><img alt="WhatsApp Image 2017-03-06 at 10.47.38 (1).jpeg" height="233" src="//farm1.staticflickr.com/766/33161422121_601db71673_b.jpg" width="350" />
-<figcaption>Em Salvador, o alvo foi a sede do Incra.</figcaption>
+<figcaption>Na capital baiana, o alvo foi a sede do Incra.</figcaption>
 </figure>
 
 <p><br />
@@ -111,7 +111,7 @@ Destaca ainda que a atual proposta aumentar&aacute; a idade m&iacute;nima de con
 &quot;Al&eacute;m disso, privatizar&aacute; o servi&ccedil;o para os bancos. Com isso, as contribui&ccedil;&otilde;es mensais de cada trabalhador ser&atilde;o recolhidas pela rede privada de bancos, sem o pagamento de juros, e apenas com a promessa de ser devolvida em aposentadoria ap&oacute;s 35 anos&quot;, finaliza.</p>
 
 <figure class="image"><img alt="WhatsApp Image 2017-03-06 at 10.47.39 (1).jpeg" height="333" src="//farm1.staticflickr.com/463/32446789164_7e63b85a7d_b.jpg" width="500" />
-<figcaption>Entre interven&ccedil;&otilde;es art&iacute;sticas e palavras de ordem, as mulheres denunciam o governo Temer.</figcaption>
+<figcaption>Entre interven&ccedil;&otilde;es e gritos de ordem, mulheres denunciam governo Temer.</figcaption>
 </figure>
 
 <p><br />
