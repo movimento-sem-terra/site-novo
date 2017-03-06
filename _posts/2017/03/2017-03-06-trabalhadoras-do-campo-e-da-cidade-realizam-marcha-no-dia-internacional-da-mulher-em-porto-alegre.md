@@ -4,7 +4,7 @@ tags:
   - tag: jornada-de-lutas
   - tag: mulheres
   - tag: lutas-e-mobilizações
-title: "Trabalhadoras do campo e da cidade realizam marcha no Dia Internacional da Mulher, em Porto Alegre"
+title: Trabalhadoras do campo e da cidade realizam marcha em Porto Alegre
 images_hd: //farm4.staticflickr.com/3821/33244323776_4e7220c0f7_b.jpg
 support_line: "O objetivo é marcar o Dia Internacional da Mulher como de luta em defesa dos direitos previdenciários e trabalhistas, rumo à uma greve geral"
 menu: lutas e mobilizações
