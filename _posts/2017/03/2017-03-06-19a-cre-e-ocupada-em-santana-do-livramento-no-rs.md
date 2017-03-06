@@ -8,7 +8,7 @@ title: "19ª CRE é ocupada em Santana do Livramento, no RS"
 support_line: "Conforme as pessoas que ocupam o local, o prédio será desocupado somente com a reabertura da escola e o início das aulas"
 menu: lutas e mobilizações
 images_hd: //farm6.staticflickr.com/5770/33288253325_5f6d41a353_b.jpg
-special-page: women-2017
+special-page: null
 layout: post
 files:
   - link: //farm6.staticflickr.com/5770/33288253325_5f6d41a353_b.jpg
