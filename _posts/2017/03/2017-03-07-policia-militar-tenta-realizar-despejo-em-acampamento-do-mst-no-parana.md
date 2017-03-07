@@ -34,7 +34,7 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p>Na manh&atilde; desta ter&ccedil;a-feira (7), viaturas da pol&iacute;cia militar tentaram realizar um despejo no acampamento Herdeiros da Terra de Porecatu, regi&atilde;o Norte do estado do Paran&aacute;, quando os trabalhadores estavam na colheita da produ&ccedil;&atilde;o do acampamento.</p>
+<p>Na manh&atilde; desta ter&ccedil;a-feira (7), viaturas da pol&iacute;cia militar tentaram realizar um despejo no acampamento Herdeiros da Luta de Porecatu, regi&atilde;o Norte do estado do Paran&aacute;, quando os trabalhadores estavam na colheita da produ&ccedil;&atilde;o do acampamento.</p>
 
 <p><br />
 Segundo informa&ccedil;&otilde;es dos pr&oacute;prios acampados, a pol&iacute;cia chegou, sem conversa, acompanhada por dois tratores, expulsando os camponeses que se encontravam na ro&ccedil;a. Com as m&aacute;quinas, eles come&ccedil;aram a destruir a planta&ccedil;&atilde;o dos acampados, sem negocia&ccedil;&atilde;o e di&aacute;logo.</p>
