@@ -4,7 +4,7 @@ tags: []
 section: tv
 video: "https://youtu.be/7Xz1EnqMLz4"
 menu: lutas e mobilizações
-title: Mulheres ocupam a Vale Fertilizantes em Cubatão - SP.
+title: Mulheres ocupam a Vale Fertilizantes em Cubatão - SP
 support_line: "Hoje 07/03, cerca de 1500 mulheres ocuparam a Vale Fertilizantes em Cubatão - SP, contra a Reforma da Previdência. Mulheres em resistência, contra a reforma da previdência! #8M"
 layout: post
 files: []
