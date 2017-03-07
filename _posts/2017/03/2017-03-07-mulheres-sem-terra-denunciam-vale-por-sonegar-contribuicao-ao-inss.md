@@ -8,17 +8,31 @@ title: Mulheres Sem Terra denunciam Vale por sonegar contribuição ao INSS
 support_line: A dívida da empresa é de R$ 276 milhões.
 menu: lutas e mobilizações
 section: featured-news
-images_hd: //farm4.staticflickr.com/3878/32458212444_cf34bfd89c_b.jpg
+images_hd: //farm4.staticflickr.com/3822/33309820245_96d25ddba5_b.jpg
 special-page: women-2017
 layout: post
 files:
-  - link: //farm4.staticflickr.com/3878/32458212444_cf34bfd89c_b.jpg
-    original: //farm4.staticflickr.com/3878/32458212444_73afb86a02_o.png
-    thumbnail: //farm4.staticflickr.com/3878/32458212444_cf34bfd89c_t.jpg
-    medium: //farm4.staticflickr.com/3878/32458212444_cf34bfd89c_z.jpg
-    small: //farm4.staticflickr.com/3878/32458212444_cf34bfd89c_n.jpg
-    title: memeMuV-2017.png
-    $$hashKey: 02P
+  - link: //farm4.staticflickr.com/3822/33309820245_96d25ddba5_b.jpg
+    original: //farm4.staticflickr.com/3822/33309820245_0ba88bfacc_o.jpg
+    thumbnail: //farm4.staticflickr.com/3822/33309820245_96d25ddba5_t.jpg
+    medium: //farm4.staticflickr.com/3822/33309820245_96d25ddba5_z.jpg
+    small: //farm4.staticflickr.com/3822/33309820245_96d25ddba5_n.jpg
+    title: DSC_8581.jpg
+    $$hashKey: 15H
+  - link: //farm4.staticflickr.com/3877/33269101276_0042740534_b.jpg
+    original: //farm4.staticflickr.com/3877/33269101276_da9259b3b4_o.jpg
+    thumbnail: //farm4.staticflickr.com/3877/33269101276_0042740534_t.jpg
+    medium: //farm4.staticflickr.com/3877/33269101276_0042740534_z.jpg
+    small: //farm4.staticflickr.com/3877/33269101276_0042740534_n.jpg
+    title: DSC_8616.jpg
+    $$hashKey: 15K
+  - link: //farm3.staticflickr.com/2866/33269108976_d2d7e0301c_b.jpg
+    original: //farm3.staticflickr.com/2866/33269108976_2d448e4025_o.jpg
+    thumbnail: //farm3.staticflickr.com/2866/33269108976_d2d7e0301c_t.jpg
+    medium: //farm3.staticflickr.com/2866/33269108976_d2d7e0301c_z.jpg
+    small: //farm3.staticflickr.com/2866/33269108976_d2d7e0301c_n.jpg
+    title: DSC_8607.jpg
+    $$hashKey: 15N
 created_date: "2017-03-07T06:17:56-03:00"
 published: true
 releated_posts:
@@ -29,7 +43,7 @@ releated_posts:
   - _posts/2017/03/2017-03-02-em-jornada-nacional-de-lutas-mulheres-sem-terra-denunciam-os-desmandos-do-governo-temer.md
 
 ---
-<p>&nbsp;</p>
+<p><img alt="DSC_8581.jpg" height="467" src="//farm4.staticflickr.com/3822/33309820245_96d25ddba5_b.jpg" width="700" /></p>
 
 <p>&nbsp;</p>
 
@@ -63,6 +77,10 @@ Com a proposta do governo ileg&iacute;timo de Temer para a previd&ecirc;ncia, ha
 <p><br />
 Al&eacute;m de dever R$ 276 milh&otilde;es ao INSS, a Vale ainda lidera a lista de maiores devedores inscritos na d&iacute;vida ativa da Uni&atilde;o. S&atilde;o 41,9 bi de reais. A d&iacute;vida ativa &eacute; composta por todos os cr&eacute;ditos de natureza tribut&aacute;ria ou n&atilde;o-tribut&aacute;ria regularmente inscritos pela Procuradoria-Geral da Fazenda Nacional depois de esgotado o prazo fixado para pagamento.</p>
 
+<figure class="image" style="float:left"><img alt="DSC_8616.jpg" height="233" src="//farm4.staticflickr.com/3877/33269101276_0042740534_b.jpg" width="350" />
+<figcaption></figcaption>
+</figure>
+
 <p><br />
 &ldquo;N&atilde;o &eacute; um crime dever em nosso pa&iacute;s, a legisla&ccedil;&atilde;o n&atilde;o &eacute; r&iacute;gida nesse aspectos e grandes grupos empresariais se beneficiam disso, questionam valores na Justi&ccedil;a e ficam protelando a vida inteira fazendo com que o trabalhador arque com os preju&iacute;zos&rdquo;, explica Esther.</p>
 
@@ -80,6 +98,10 @@ Al&eacute;m desses, a Vale tamb&eacute;m &eacute; respons&aacute;vel por in&uacu
 
 <p><br />
 A a&ccedil;&atilde;o em S&atilde;o Paulo integra a Jornada Nacional de Lutas das Mulheres Sem Terra, que se iniciou nesta segunda-feira (06) em todo o Brasil.</p>
+
+<figure class="image" style="float:right"><img alt="DSC_8607.jpg" height="233" src="//farm3.staticflickr.com/2866/33269108976_d2d7e0301c_b.jpg" width="350" />
+<figcaption></figcaption>
+</figure>
 
 <p><br />
 Com o lema &ldquo;Estamos todas despertas! Contra o Capital e o Agroneg&oacute;cio. Nenhum Direito a Menos!&rdquo;, as camponesas denunciam que s&atilde;o as mulheres as primeiras a sofrerem com as consequ&ecirc;ncias do programa golpista de corte de direitos e defendem uma Previd&ecirc;ncia Social p&uacute;blica, universal e solid&aacute;ria.</p>
