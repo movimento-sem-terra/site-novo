@@ -241,8 +241,6 @@ Al&eacute;m do MST, participam das a&ccedil;&otilde;es da Jornada de Lutas no es
 </figure>
 </div>
 
-<p>&nbsp;</p>
-
 <p><br />
 <strong>Rio Grande do Sul</strong></p>
 
@@ -271,7 +269,10 @@ Dezenas de mulheres do MST se concentraram na capital Palmas e realizaram uma ma
 <strong>Pernambuco</strong></p>
 
 <p><br />
-Na ter&ccedil;a-feira (7), mobiliza&ccedil;&otilde;es percorrem as diversas regi&otilde;es de Pernambuco, quando cerca de 1100 mulheres ocuparam as ag&ecirc;ncias do INSS de Vit&oacute;ria de Santo Ant&atilde;o e Goiaba. Na passagem do Dia Internacional de Luta das Mulheres (8/3), as mobiliza&ccedil;&otilde;es se intensificaram. Mais de 1500 Sem Terra se juntam em mobiliza&ccedil;&otilde;es na capital Recife, onde se pretende unificar mais de 10 mil mulheres em marcha contra a Reforma da Previd&ecirc;ncia. Em Petrolina, 500 mulheres Sem Terra ocuparam a Companhia de Desenvolvimento do Vale do S&atilde;o Francisco (CODEVASF) e em seguida realizaram ato no INSS em conjunto com outras organiza&ccedil;&otilde;es, somando mais de 1000 pessoas; Em Caruaru, mais de 400 mulheres caminharam para C&acirc;mara de Vereadores e Prefeitura e ocuparam o INSS. No munic&iacute;pio de Amaraji, 400 militantes realizaram ato no INSS. Na Zona da Mata, em Palmares 150 mulheres realizam tamb&eacute;m manifesta&ccedil;&atilde;o no INSS, assim como nos munic&iacute;pios de Alian&ccedil;a, Floresta e Petrol&acirc;ndia, com contingentes de 300, 350 e 500 mulheres, respectivamente, nas ag&ecirc;ncias do INSS das cidades.</p>
+Na ter&ccedil;a-feira (7), mobiliza&ccedil;&otilde;es percorrem as diversas regi&otilde;es de Pernambuco, quando cerca de 1100 mulheres ocuparam as ag&ecirc;ncias do INSS de Vit&oacute;ria de Santo Ant&atilde;o e Goiaba. Na passagem do Dia Internacional de Luta das Mulheres (8/3), as mobiliza&ccedil;&otilde;es se intensificaram. Mais de 1500 Sem Terra se juntam em mobiliza&ccedil;&otilde;es na capital Recife, onde se pretende unificar mais de 10 mil mulheres em marcha contra a Reforma da Previd&ecirc;ncia.</p>
+
+<p><br />
+Em Petrolina, 500 mulheres Sem Terra ocuparam a Companhia de Desenvolvimento do Vale do S&atilde;o Francisco (CODEVASF) e em seguida realizaram ato no INSS em conjunto com outras organiza&ccedil;&otilde;es, somando mais de 1000 pessoas; Em Caruaru, mais de 400 mulheres caminharam para C&acirc;mara de Vereadores e Prefeitura e ocuparam o INSS. No munic&iacute;pio de Amaraji, 400 militantes realizaram ato no INSS. Na Zona da Mata, em Palmares 150 mulheres realizam tamb&eacute;m manifesta&ccedil;&atilde;o no INSS, assim como nos munic&iacute;pios de Alian&ccedil;a, Floresta e Petrol&acirc;ndia, com contingentes de 300, 350 e 500 mulheres, respectivamente, nas ag&ecirc;ncias do INSS das cidades.</p>
 
 <p><br />
 <strong>Rio Grande do Norte</strong></p>
@@ -375,8 +376,5 @@ Num total de 1000 manifestantes em diversas regi&otilde;es do estado, as mulhere
 <p><br />
 Camponesas organizadas pela Via Campesina, Levante Popular da Juventude e Movimento dos Trabalhadores por Direitos (MTD) participaram de audi&ecirc;ncia p&uacute;blica em Padre Bernardo, cuja pauta principal debateu os retrocessos da reforma da previd&ecirc;ncia.</p>
 
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p><em>*Editado por Rafael Soriano</em></p>
+<p><br />
+<em>*Editado por Rafael Soriano</em></p>
