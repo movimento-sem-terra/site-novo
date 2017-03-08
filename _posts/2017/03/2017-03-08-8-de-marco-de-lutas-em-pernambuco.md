@@ -4,7 +4,7 @@ tags:
   - tag: jornada-de-lutas
   - tag: mulheres
   - tag: pernambuco
-title: 8 de Março de Lutas em Pernambuco
+title: Mulheres camponesas se mobilizam em todo o estado de Pernambuco
 menu: lutas e mobilizações
 special-page: women-2017
 images_hd: //farm3.staticflickr.com/2935/32484764224_df1dc06b4f_b.jpg
