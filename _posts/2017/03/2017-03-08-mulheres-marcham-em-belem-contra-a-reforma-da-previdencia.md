@@ -45,13 +45,14 @@ releated_posts:
 <p>&nbsp;</p>
 
 <p><em>Da P&aacute;gina do MST<br />
+Por Coletivo de Comunica&ccedil;&atilde;o do MST no Par&aacute;<br />
 Fotos: Carlinhos Luz</em></p>
 
 <p><br />
-Na manh&atilde; desta quarta-feira (08), cerca de 1000 mulheres &nbsp;do MST, sindicatos, movimento negro, partidos de esquerda, estudantes, Fetagri, MAB, movimentos de bairros, Consulta Popular e Levante Popular &nbsp;da Juventude realizam Marcha das Mulheres em Bel&eacute;m.&nbsp;</p>
+Na manh&atilde; desta quarta-feira (08), cerca de 1000 mulheres do MST, sindicatos, movimento negro, partidos de esquerda, estudantes, Fetagri, MAB, movimentos de bairros, Consulta Popular e Levante Popular &nbsp;da Juventude realizam Marcha das Mulheres em Bel&eacute;m.&nbsp;</p>
 
 <p><br />
-Al&eacute;m disso, pela manh&atilde; ocuparam o pr&eacute;dio da Previd&ecirc;ncia Social em Bel&eacute;m para denunciar a contrarreforma que impacta diretamente a vida das mulheres.&nbsp;</p>
+Al&eacute;m disso, pela manh&atilde; ocuparam o pr&eacute;dio da Previd&ecirc;ncia Social em Bel&eacute;m para denunciar a contrarreforma que impacta diretamente a vida das mulheres. &nbsp;</p>
 
 <p>&ldquo;Estamos nas ruas de todo o Brasil lutando pela reforma agr&aacute;ria, &nbsp;contra a reforma da previd&ecirc;ncia, &nbsp;o machismo, a viol&ecirc;ncia contra a mulher e &nbsp;o governo golpista de Michel Temer&rdquo;, afirma Carla Lag&oacute;ia, militante do MST.&nbsp;</p>
 
@@ -61,6 +62,9 @@ Al&eacute;m disso, pela manh&atilde; ocuparam o pr&eacute;dio da Previd&ecirc;nc
 
 <p><br />
 A a&ccedil;&atilde;o organizada pela Frente Feminista, composta por diversas organiza&ccedil;&otilde;es de Mulheres, far&aacute; uma marcha contra a reforma da previd&ecirc;ncia, contra o racismo, pelo fim da viol&ecirc;ncia contra a mulher, intoler&acirc;ncia religiosa, entre outras. A marcha segue at&eacute; o Mercado do Ver o Peso onde encerrar&aacute; com grande ato pol&iacute;tico. &nbsp; &nbsp;&nbsp;</p>
+
+<p><br />
+Em Marab&aacute;, 400 mulheres do campo e da cidade&nbsp;marcharam pelas ruas da cidade&nbsp;contra a reforma da previd&ecirc;ncia social, pela vida das mulheres e contra toda forma de viol&ecirc;ncias sofrida pelas mulheres, fechando a transamaz&ocirc;nica por 20 minutos,&nbsp;em frente ao F&oacute;rum do munic&iacute;pio para lembrar a&nbsp;mem&oacute;ria de todas mulheres que morreram na regi&atilde;o.</p>
 
 <p><br />
 A jornada de luta das mulheres Sem Terra que acontece em todo o Brasil tem como tema: &ldquo;Estamos Todas Despertas, Contra o Capital e o agroneg&oacute;cio. Nenhum direito a menos!&rdquo; vem denunciando o agroneg&oacute;cio, as transnacionais, os impactos no meio ambiente, as amea&ccedil;as &agrave; soberania alimentar e o governo ileg&iacute;timo de Michel Temer.</p>
