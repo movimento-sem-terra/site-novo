@@ -91,3 +91,7 @@ Fa&ccedil;am faixas com as frases e levem para os atos:</p>
 <p>Sigamos todas despertas! Liberdade &agrave; Fabiana j&aacute;!</p>
 
 <p><em>JORNADA NACIONAL DE LUTAS DAS MULHERES SEM TERRA</em></p>
+
+<p>&nbsp;</p>
+
+<p><em>Edi&ccedil;&atilde;o: Iris Pacheco</em></p>
