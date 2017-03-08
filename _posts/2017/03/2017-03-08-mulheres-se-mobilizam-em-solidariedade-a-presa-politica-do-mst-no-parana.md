@@ -31,6 +31,7 @@ releated_posts:
   - _posts/2017/03/2017-03-02-senadora-gleisi-hoffmann-e-deputado-estadual-professor-lemos-visitam-presos-politicos-do-mst-no-parana.md
   - _posts/2017/03/2017-03-07-em-jornada-de-lutas-sem-terra-mobilizam-se-no-parana.md
   - _posts/2017/03/2017-03-06-em-marco-mst-mobiliza-mais-de-5-mil-mulheres-no-interior-e-na-capital-baiana.md
+section: featured-news
 
 ---
 <p>&nbsp;</p>
