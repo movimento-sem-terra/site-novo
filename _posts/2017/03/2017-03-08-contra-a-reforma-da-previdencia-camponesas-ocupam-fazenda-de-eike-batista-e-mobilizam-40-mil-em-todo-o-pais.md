@@ -6,7 +6,7 @@ tags:
   - tag: reforma-da-previdencia
   - tag: inss
 title: Camponesas ocupam fazenda de Eike e mobilizam 40 mil em todo o país
-support_line: "Durante a Jornada  foram realizadas marchas, ocupações de órgãos públicos, de terras, trancamentos e debates "
+support_line: "Durante a Jornada foram realizadas marchas, ocupações de órgãos públicos, de terras, trancamentos e debates "
 menu: lutas e mobilizações
 special-page: women-2017
 section: cover
@@ -158,9 +158,18 @@ Em <strong>S&atilde;o Paulo</strong>, as mulheres realizaram na manh&atilde; des
 </div>
 
 <p><br />
-No <strong>Maranh&atilde;o</strong>, cerca de 20 mil mulheres se mobilizaram desde a capital S&atilde;o Lu&iacute;s at&eacute; a realiza&ccedil;&atilde;o de trancamentos de rodovias estaduais e federais em 14 pontos, entre os quais o entroncamento das BR 135 e BR 316, em Alto Alegre do Maranh&atilde;</p>
+No <strong>Maranh&atilde;o</strong>, cerca de 20 mil mulheres se mobilizaram desde a capital S&atilde;o Lu&iacute;s at&eacute; a realiza&ccedil;&atilde;o de trancamentos de rodovias estaduais e federais em 14 pontos, entre os quais o entroncamento das BR 135 e BR 316, em Alto Alegre do Maranh&atilde;o.</p>
 
-<p>J&aacute; em <strong>Goi&aacute;s</strong>, houve rea&ccedil;&atilde;o por parte da Pol&iacute;cia Militar, criminalizando a luta das mulheres, que n&atilde;o querem perder direitos consolidados. Ap&oacute;s a ocupa&ccedil;&atilde;o da ag&ecirc;ncia do Instituto Nacional de Seguridade Social (INSS) de Formosa de Goi&aacute;s, 80 mulheres foram encarceradas em um &ocirc;nibus pela PM-GO, que exigia a entrega de dois militantes para serem presos. Ainda no estado, marchas foram realizadas em Goi&acirc;nia e Crix&aacute;s.</p>
+<p>&nbsp;</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="17098570_1483518265054216_3334562401268299031_n.jpg" height="525" src="//farm4.staticflickr.com/3804/32946237140_fdd00fedbe_b.jpg" width="700" />
+<figcaption><em>Maranh&atilde;o</em></figcaption>
+</figure>
+</div>
+
+<p><br />
+J&aacute; em <strong>Goi&aacute;s</strong>, houve rea&ccedil;&atilde;o por parte da Pol&iacute;cia Militar, criminalizando a luta das mulheres, que n&atilde;o querem perder direitos consolidados. Ap&oacute;s a ocupa&ccedil;&atilde;o da ag&ecirc;ncia do Instituto Nacional de Seguridade Social (INSS) de Formosa de Goi&aacute;s, 80 mulheres foram encarceradas em um &ocirc;nibus pela PM-GO, que exigia a entrega de dois militantes para serem presos. Ainda no estado, marchas foram realizadas em Goi&acirc;nia e Crix&aacute;s.</p>
 
 <p><br />
 Confira o balan&ccedil;o nos demais estados:</p>
