@@ -6,7 +6,7 @@ tags:
   - tag: goiás
 title: "Camponesas são encarceradas em ônibus em Formosa de Goiás "
 menu: direitos humanos
-support_line: A política exige que as mulheres entreguem 03 pessoas para serem presas por conta da ocupação
+support_line: A polícia exige que as mulheres entreguem 03 pessoas para serem presas por conta da ocupação
 images_hd: //farm3.staticflickr.com/2875/32480223774_92378e2843_b.jpg
 section: cover
 layout: post
