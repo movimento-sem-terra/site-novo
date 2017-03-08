@@ -38,13 +38,31 @@ releated_posts:
 <p><em>Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
+Ap&oacute;s realizarem protesto contra a reforma da Previd&ecirc;ncia proposta pelo governo Temer, aproximadamente 80 mulheres camponesas organizadas no Movimento dos Trabalhadores Rurais Sem Terra (MST) s&atilde;o mantidas encarceradas dentro de um &ocirc;nibus pela Pol&iacute;cia Militar (PM-GO).</p>
+
+<p><br />
+O Movimento alerta para a continuidade da persegui&ccedil;&atilde;o aos movimentos populares, j&aacute; recorrente por esta institui&ccedil;&atilde;o.</p>
+
+<p><br />
+&quot;Seguindo a linha de trucul&ecirc;ncia e repress&atilde;o com que tem agido contra os movimentos populares no &uacute;ltimo ano, mant&eacute;m 80 companheiras presas dentro de um &ocirc;nibus, exigindo que entreguem 03 pessoas para serem presas por conta da ocupa&ccedil;&atilde;o&quot;, salienta a nota emitida pela Dire&ccedil;&atilde;o Estadual do MST em GO. Confira a &iacute;ntegra.</p>
+
+<p><br />
+<strong>NOTA</strong></p>
+
+<p><br />
 Na manh&atilde; deste dia 08 de mar&ccedil;o, Dia Internacional da Luta das Mulheres, cerca de 200 camponesas assentadas ocuparam o pr&eacute;dio do INSS, no munic&iacute;pio de Formosa, Goi&aacute;s. A mobiliza&ccedil;&atilde;o denuncia o projeto de reforma da previd&ecirc;ncia, que ataca principalmente o campesinato e as mulheres.</p>
 
 <p><br />
-Apesar de ser uma luta pac&iacute;fica e integrante de um calend&aacute;rio nacional de lutas, a pol&iacute;cia do estado de Goi&aacute;s, seguindo a linha de trucul&ecirc;ncia e repress&atilde;o com que tem agido contra os movimentos populares no &uacute;ltimo ano, mant&eacute;m 80 mulheres camponesas dentro de um &ocirc;nibus, exigindo que entreguem 03 pessoas para serem presas por conta da ocupa&ccedil;&atilde;o.</p>
+Apesar de ser uma luta pac&iacute;fica e integrante de um calend&aacute;rio nacional de mobiliza&ccedil;&otilde;es, a pol&iacute;cia do estado de Goi&aacute;s, seguindo a linha de trucul&ecirc;ncia e repress&atilde;o com que tem agido contra os movimentos populares no &uacute;ltimo ano, mant&eacute;m 80 companheiras presas dentro de um &ocirc;nibus, exigindo que entreguem 03 pessoas para serem presas por conta da ocupa&ccedil;&atilde;o.</p>
 
 <p><br />
-O MST exige o respeito &agrave; liberdade de organiza&ccedil;&atilde;o e a libera&ccedil;&atilde;o imediata das mulheres Sem Terra na luta por seus direitos.&nbsp;</p>
+Exigimos o respeito &agrave; liberdade de organiza&ccedil;&atilde;o e a libera&ccedil;&atilde;o das companheiras que est&atilde;o reivindicando seus direitos!</p>
+
+<p><br />
+Nenhum direito a menos! Viva a luta das mulheres camponesas!</p>
+
+<p><br />
+Dire&ccedil;&atilde;o Estadual do MST - Goi&aacute;s</p>
 
 <p><br />
 A mobiliza&ccedil;&atilde;o das mulheres faz parte da Jornada Nacional de Luta contra os impactos do capital e agroneg&oacute;cio no campo. Elas ainda denunciam a retirada de direitos da classe trabalhadora pelo governo golpista de Michel Temer.&nbsp;</p>
