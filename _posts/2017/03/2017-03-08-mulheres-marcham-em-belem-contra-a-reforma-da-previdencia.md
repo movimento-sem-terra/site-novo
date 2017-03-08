@@ -74,4 +74,4 @@ A jornada de luta das mulheres Sem Terra que acontece em todo o Brasil tem como 
 No Par&aacute;, as mulheres do MST se unem em luta e resist&ecirc;ncia diante do avan&ccedil;o do capital no campo brasileiro que afeta diretamente a vida das mulheres camponesas. Elas participar&atilde;o das a&ccedil;&otilde;es em Bel&eacute;m e Marab&aacute;.&nbsp;</p>
 
 <p><br />
-*Editado por Iris Pacheco</p>
+<em>*Editado por Iris Pacheco</em></p>
