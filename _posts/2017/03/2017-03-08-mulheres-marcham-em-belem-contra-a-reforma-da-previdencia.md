@@ -36,6 +36,7 @@ releated_posts:
   - _posts/2017/03/2017-03-07-mulheres-sem-terra-denunciam-vale-por-sonegar-contribuicao-ao-inss.md
   - _posts/2017/03/2017-03-06-trabalhadoras-do-campo-e-da-cidade-realizam-marcha-no-dia-internacional-da-mulher-em-porto-alegre.md
   - _posts/2017/03/2017-03-06-19a-cre-e-ocupada-em-santana-do-livramento-no-rs.md
+special-page: women-2017
 
 ---
 <p>&nbsp;</p>
@@ -70,5 +71,7 @@ Em Marab&aacute;, 400 mulheres do campo e da cidade&nbsp;marcharam pelas ruas da
 A jornada de luta das mulheres Sem Terra que acontece em todo o Brasil tem como tema: &ldquo;Estamos Todas Despertas, Contra o Capital e o agroneg&oacute;cio. Nenhum direito a menos!&rdquo; vem denunciando o agroneg&oacute;cio, as transnacionais, os impactos no meio ambiente, as amea&ccedil;as &agrave; soberania alimentar e o governo ileg&iacute;timo de Michel Temer.</p>
 
 <p><br />
-No Par&aacute;, as mulheres do MST se unem em luta e resist&ecirc;ncia diante do avan&ccedil;o do capital no campo brasileiro que afeta diretamente a vida das mulheres camponesas. Elas participar&atilde;o das a&ccedil;&otilde;es em Bel&eacute;m e Marab&aacute;.&nbsp;<br />
-&nbsp;</p>
+No Par&aacute;, as mulheres do MST se unem em luta e resist&ecirc;ncia diante do avan&ccedil;o do capital no campo brasileiro que afeta diretamente a vida das mulheres camponesas. Elas participar&atilde;o das a&ccedil;&otilde;es em Bel&eacute;m e Marab&aacute;.&nbsp;</p>
+
+<p><br />
+*Editado por Iris Pacheco</p>
