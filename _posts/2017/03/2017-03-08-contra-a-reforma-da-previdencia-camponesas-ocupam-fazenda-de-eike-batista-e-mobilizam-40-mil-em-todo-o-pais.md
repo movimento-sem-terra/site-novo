@@ -4,9 +4,9 @@ tags:
   - tag: jornada-de-lutas
   - tag: mulheres
   - tag: reforma-da-previdencia
-  - tag: inss
+  - tag: lutas-e-mobilizações
 title: Camponesas ocupam fazenda de Eike e mobilizam 40 mil em todo o país
-support_line: "Durante a Jornada foram realizadas marchas, ocupações de órgãos públicos, de terras, trancamentos e debates "
+support_line: "Durante a Jornada foram realizadas marchas, ocupações de órgãos públicos, de terras, trancamentos e debates."
 menu: lutas e mobilizações
 special-page: women-2017
 section: cover
@@ -114,16 +114,23 @@ files:
 created_date: "2017-03-08T17:22:09-03:00"
 published: true
 releated_posts:
+  - _posts/2017/03/2017-03-06-em-marco-mst-mobiliza-mais-de-5-mil-mulheres-no-interior-e-na-capital-baiana.md
   - _posts/2017/03/2017-03-06-trabalhadoras-do-campo-e-da-cidade-realizam-marcha-no-dia-internacional-da-mulher-em-porto-alegre.md
+  - _posts/2017/03/2017-03-06-19a-cre-e-ocupada-em-santana-do-livramento-no-rs.md
+  - _posts/2017/03/2017-03-07-em-jornada-de-lutas-sem-terra-mobilizam-se-no-parana.md
+  - _posts/2016/10/2016-10-07-movimentos-denunciam-governo-golpista-na-retirada-de-direitos-do-campo.md
   - _posts/2017/03/2017-03-07-mulheres-sem-terra-denunciam-vale-por-sonegar-contribuicao-ao-inss.md
   - _posts/2017/03/2017-03-07-mulheres-protestam-contra-a-reforma-da-previdencia-no-aeroporto-de-porto-alegre.md
   - _posts/2017/03/2017-03-07-camponesas-ocupam-sede-do-incra-em-maceio-e-dao-inicio-a-jornada-de-lutas.md
-  - _posts/2017/03/2017-03-07-em-jornada-de-lutas-sem-terra-mobilizam-se-no-parana.md
   - _posts/2017/03/2017-03-08-contra-a-reforma-da-previdencia-superintendencia-do-inss-em-maceio-e-ocupado-por-mulheres.md
   - _posts/2017/03/2017-03-08-mulheres-marcham-em-belem-contra-a-reforma-da-previdencia.md
   - _posts/2017/03/2017-03-06-contra-o-agronegocio-e-a-reforma-da-previdencia-mulheres-ocupam-usina-e-incra-na-ba.md
   - _posts/2017/03/2017-03-07-sem-terra-ocupam-superintendencia-do-incra-em-sergipe.md
-  - _posts/2017/02/2017-02-08-fbp-aponta-luta-contra-a-reforma-da-previdencia-centro-das-mobilizacoes-do-proximo-periodo.md
+  - _posts/2017/03/2017-03-08-mulheres-se-mobilizam-em-solidariedade-a-presa-politica-do-mst-no-parana.md
+  - _posts/2017/03/2017-03-08-em-cuiaba-mulheres-camponesas-em-marcha-defendem-direitos-sociais.md
+  - _posts/2017/03/2017-03-08-mulheres-sem-terra-marcham-em-santa-catarina-em-jornada-nacional-de-lutas.md
+  - _posts/2017/03/2017-03-07-mulheres-sem-terra-se-mobilizam-contra-o-agronegocio-no-mt.md
+  - _posts/2017/03/2017-03-08-8-de-marco-de-lutas-em-pernambuco.md
 
 ---
 <p>&nbsp;</p>
