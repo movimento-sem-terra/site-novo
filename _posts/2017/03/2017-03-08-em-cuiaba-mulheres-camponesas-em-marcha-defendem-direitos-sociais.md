@@ -29,22 +29,22 @@ releated_posts: []
 
 <p style="margin-bottom: 0cm; line-height: 13px;">&nbsp;</p>
 
-<p style="margin-bottom: 0cm; line-height: 13px;"><em>Da P&aacute;gina do MST&nbsp;</em></p>
+<p><em>Da P&aacute;gina do MST&nbsp;</em></p>
 
-<p style="margin-bottom: 0cm; line-height: 13px;"><br />
+<p><br />
 Nesta ter&ccedil;a-feira (07), as Camponesas Sem Terra tomaram as ruas da capital matogrossense Cuiab&aacute;, em marcha por mais direitos para a classe trabalhadora do campo e cidade. Tamb&eacute;m denunciaram os retrocessos aos direitos fundamentais, conquistados atrav&eacute;s luta da classe trabalhadora na Constitui&ccedil;&atilde;o Cidad&atilde; de 1988, e que agora est&atilde;o amea&ccedil;ados pelo governo golpista e pelo Congresso Nacional.</p>
 
-<p style="margin-bottom: 0cm; line-height: 13px;"><br />
+<p><br />
 Durante a marcha ainda foi realizado um ato em frente ao Minist&eacute;rio P&uacute;blico Federal para exigir dessa institui&ccedil;&atilde;o uma atua&ccedil;&atilde;o voltada para a defesa dos direitos coletivos da sociedade. Al&eacute;m disso, foi protocolado um documento no qual o movimento apresenta ao MPF um conjunto de reivindica&ccedil;&otilde;es.</p>
 
-<p style="margin-bottom: 0cm; line-height: 13px;"><br />
+<p><br />
 Em seguida, a marcha se dirigiu ao Incra, onde foi entregue a pauta do movimento e realizada uma audi&ecirc;ncia com o atual superintendente do &oacute;rg&atilde;o. O principal ponto da reuni&atilde;o foi o direito &agrave; terra, a cr&eacute;ditos e &agrave; habita&ccedil;&atilde;o rural. O Incra se comprometeu a responder as reivindica&ccedil;&otilde;es at&eacute; a pr&oacute;xima semana.</p>
 
-<p style="margin-bottom: 0cm; line-height: 13px;"><br />
+<p><br />
 Ainda como parte das atividades da Jornada de Lutas, foi realizada uma noite cultural com apresenta&ccedil;&atilde;o de artistas do povo e o tradicional Baile da Reforma Agr&aacute;ria Popular.</p>
 
-<p style="margin-bottom: 0cm; line-height: 13px;"><br />
-Na manh&atilde; desta quarta-feira (08), as&nbsp;Mulheres Sem Terra permaneceram em luta e realizaram uma marcha rumo ao INSS contra a Reforma da Previd&ecirc;ncia.</p>
+<p><br />
+Na manh&atilde; desta quarta-feira (08), as Mulheres Sem Terra permaneceram em luta e realizaram uma marcha rumo ao INSS contra a Reforma da Previd&ecirc;ncia.</p>
 
-<p style="margin-bottom: 0cm; line-height: 13px;"><br />
+<p><br />
 <em>Editado por Iris Pacheco</em></p>
