@@ -42,7 +42,8 @@ releated_posts:
 <p class="m_4446128256503801372gmail-p1">&nbsp;</p>
 
 <p class="m_4446128256503801372gmail-p1"><em>Por Phillyp Mikell<br />
-Da P&aacute;gina do MST&nbsp;</em></p>
+Da P&aacute;gina do MST&nbsp;<br />
+Foto: Paulo Henrique</em></p>
 
 <p class="m_4446128256503801372gmail-p1">&nbsp;</p>
 
