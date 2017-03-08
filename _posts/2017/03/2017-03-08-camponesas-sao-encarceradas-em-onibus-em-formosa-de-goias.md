@@ -27,6 +27,7 @@ releated_posts:
   - _posts/2016/07/2016-07-19-prisoes-de-militantes-do-mst-sao-denunciadas-na-romaria-dos-martires.md
   - _posts/2016/11/2016-11-23-o-que-observamos-e-uma-banalizacao-da-violencia-onde-ha-decisoes-policiais-e-nao-judiciais-diz-juiz.md
   - _posts/2016/07/2016-07-04-manifesto-movimento-social-nao-e-organizacao-criminosa.md
+special-page: women-2017
 
 ---
 <p>&nbsp;</p>
