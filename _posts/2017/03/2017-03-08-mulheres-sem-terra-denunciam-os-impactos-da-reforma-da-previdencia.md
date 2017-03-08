@@ -45,6 +45,7 @@ releated_posts:
   - _posts/2017/02/2017-02-07-juventude-sem-terra-ocupa-prefeitura-em-defesa-da-educacao-do-campo.md
   - _posts/2017/02/2017-02-10-apos-ocupacao-prefeita-do-prado-se-recusa-sentar-com-trabalhadores-sem-terra.md
   - _posts/2016/06/2016-06-16-sem-terra-desocupam-codevasf-em-juazeiro-na-bahia.md
+special-page: women-2017
 
 ---
 <p>&nbsp;</p>
