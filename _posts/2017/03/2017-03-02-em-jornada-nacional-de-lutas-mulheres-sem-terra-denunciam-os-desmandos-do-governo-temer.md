@@ -8,7 +8,7 @@ title: "Em Jornada de Lutas, mulheres Sem Terra denunciam desmandos de Temer"
 images_hd: //farm4.staticflickr.com/3744/32825433740_49d0bab481_b.jpg
 special-page: women-2017
 label: interviews
-section: cover
+section: featured-news
 menu: lutas e mobilizações
 support_line: "O tema deste ano é um grito de resistência frente ao pacote de medidas do governo de Michel Temer que prevê, dentre outras coisas, a reforma da Previdência Social"
 layout: post
