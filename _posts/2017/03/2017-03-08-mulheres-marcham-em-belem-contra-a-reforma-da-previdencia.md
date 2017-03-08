@@ -51,10 +51,9 @@ Fotos: Carlinhos Luz</em></p>
 Na manh&atilde; desta quarta-feira (08), cerca de 1000 mulheres &nbsp;do MST, sindicatos, movimento negro, partidos de esquerda, estudantes, Fetagri, MAB, movimentos de bairros, Consulta Popular e Levante Popular &nbsp;da Juventude realizam Marcha das Mulheres em Bel&eacute;m.&nbsp;</p>
 
 <p><br />
-Al&eacute;m disso, as mulheres ocuparam o pr&eacute;dio da Previd&ecirc;ncia Social em Bel&eacute;m para denunciar a reforma da previd&ecirc;ncia e o governo golpista de Michel Temer.</p>
+Al&eacute;m disso, pela manh&atilde; ocuparam o pr&eacute;dio da Previd&ecirc;ncia Social em Bel&eacute;m para denunciar a contrarreforma que impacta diretamente a vida das mulheres.&nbsp;</p>
 
-<p><br />
-&ldquo;Estamos nas ruas de todo o Brasil lutando pela reforma agr&aacute;ria, &nbsp;contra a reforma da previd&ecirc;ncia, &nbsp;o machismo, a viol&ecirc;ncia contra a mulher e &nbsp;o governo golpista de Michel Temer&rdquo;, afirma Carla Lag&oacute;ia, militante do MST.&nbsp;</p>
+<p>&ldquo;Estamos nas ruas de todo o Brasil lutando pela reforma agr&aacute;ria, &nbsp;contra a reforma da previd&ecirc;ncia, &nbsp;o machismo, a viol&ecirc;ncia contra a mulher e &nbsp;o governo golpista de Michel Temer&rdquo;, afirma Carla Lag&oacute;ia, militante do MST.&nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="7f27714d-86cf-4ca1-ac70-e7e037405cd0.jpg" height="300" src="//farm4.staticflickr.com/3872/33283561056_cc0b60d2a5_b.jpg" width="450" />
 <figcaption></figcaption>
