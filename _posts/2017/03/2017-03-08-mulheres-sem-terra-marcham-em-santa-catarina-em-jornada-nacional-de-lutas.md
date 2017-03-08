@@ -4,7 +4,7 @@ tags:
   - tag: mulheres
   - tag: jornada-de-lutas
   - tag: mobilizações
-title: "Mulheres Sem Terra marcham em Santa Catarina em Jornada Nacional de Lutas "
+title: Mulheres marcham pela Previdência em Santa Catarina
 images_hd: //farm3.staticflickr.com/2912/33326947245_4e5da191c8_b.jpg
 special-page: women-2017
 menu: lutas e mobilizações
@@ -62,9 +62,11 @@ Na manh&atilde; desta quarta-feira (8), centenas de Sem Terra e de mulheres inte
 <strong>A&ccedil;&otilde;es&nbsp;</strong><br />
 No munic&iacute;pio de Chapec&oacute;, cerca de 5000 manifestantes realizam uma caminhada pelas ruas da cidade com o objetivo de dialogar com popula&ccedil;&atilde;o e somar for&ccedil;a com as&nbsp;</p>
 
-<p>&nbsp;
+<p>&nbsp;</p>
+
 <p>mobiliza&ccedil;&otilde;es que acontecem em todo pa&iacute;s.</p>
-</p>
+
+<p>&nbsp;</p>
 
 <p><br />
 Tamb&eacute;m acontecem mobiliza&ccedil;&otilde;es em Florian&oacute;polis, Lages, S&atilde;o Miguel do Oeste, Ca&ccedil;ador e Crici&uacute;ma. Para&nbsp;Sirlei Gasparetto do Movimento&nbsp;de Mulheres Camponesas (MMC), &quot;o&nbsp;direito a Previd&ecirc;ncia Social &eacute; garantido no artigo VI da Constitui&ccedil;&atilde;o Federal, por isso, esse direito conquistado pelos trabalhadores (as) deve ser mantido a todo custo.&nbsp;</p>
