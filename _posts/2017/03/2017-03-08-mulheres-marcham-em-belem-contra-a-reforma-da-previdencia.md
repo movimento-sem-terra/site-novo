@@ -17,22 +17,31 @@ files:
     small: //farm4.staticflickr.com/3841/33196388191_4ddde5207e_n.jpg
     title: 5e53801e-47dc-4181-a048-f19a0b0cb33d.jpg
     $$hashKey: 0Q9
+  - link: //farm4.staticflickr.com/3872/33283561056_cc0b60d2a5_b.jpg
+    original: //farm4.staticflickr.com/3872/33283561056_6d22f1d451_o.jpg
+    thumbnail: //farm4.staticflickr.com/3872/33283561056_cc0b60d2a5_t.jpg
+    medium: //farm4.staticflickr.com/3872/33283561056_cc0b60d2a5_z.jpg
+    small: //farm4.staticflickr.com/3872/33283561056_cc0b60d2a5_n.jpg
+    title: 7f27714d-86cf-4ca1-ac70-e7e037405cd0.jpg
+    $$hashKey: "116"
 created_date: "2017-03-08T12:20:02-03:00"
 published: true
 releated_posts:
-  - _posts/2016/08/2016-08-02-com-grandes-ocupacoes-de-terra-mst-exige-reforma-agraria.md
-  - _posts/2016/09/2016-09-05-600-familias-sem-terra-ocupam-area-improdutiva-no-rio-grande-do-norte.md
-  - _posts/2016/09/2016-09-05-em-vitoria-sem-terra-ocupa-incra-e-reivindica-a-criacao-de-assentamentos.md
-  - _posts/2016/09/2016-09-06-luta-em-defesa-pela-democracia-segue-na-reivindicacao-dos-movimentos-ao-governo-federal.md
-  - _posts/2016/10/2016-10-07-movimentos-denunciam-governo-golpista-na-retirada-de-direitos-do-campo.md
   - _posts/2016/09/2016-09-06-governo-alagoano-frustra-movimentos-e-remarca-audiencia-para-esta-terca-feira.md
   - _posts/2016/09/2016-09-06-para-o-tcu-os-assentados-estao-proibidos-de-melhorar-de-vida-diz-mst.md
   - _posts/2016/09/2016-09-06-movimentos-do-campo-realizam-manifestacao-no-incra-do-rj.md
   - _posts/2017/03/2017-03-06-em-marco-mst-mobiliza-mais-de-5-mil-mulheres-no-interior-e-na-capital-baiana.md
   - _posts/2016/09/2016-09-01-mst-repudia-golpe-e-afirma-seguir-na-luta-pela-restauracao-da-democracia-brasileira.md
   - _posts/2016/12/2016-12-05-amigos-do-mst-recebem-homenagem-pela-contribuicao-na-luta-popular.md
+  - _posts/2017/03/2017-03-07-mulheres-sem-terra-denunciam-vale-por-sonegar-contribuicao-ao-inss.md
+  - _posts/2017/03/2017-03-06-trabalhadoras-do-campo-e-da-cidade-realizam-marcha-no-dia-internacional-da-mulher-em-porto-alegre.md
+  - _posts/2017/03/2017-03-06-19a-cre-e-ocupada-em-santana-do-livramento-no-rs.md
 
 ---
+<p>&nbsp;</p>
+
+<p style="text-align:center"><img alt="5e53801e-47dc-4181-a048-f19a0b0cb33d.jpg" height="466" src="//farm4.staticflickr.com/3841/33196388191_4ddde5207e_b.jpg" width="700" /></p>
+
 <p>&nbsp;</p>
 
 <p><em>Da P&aacute;gina do MST<br />
@@ -46,6 +55,10 @@ Al&eacute;m disso, as mulheres ocuparam o pr&eacute;dio da Previd&ecirc;ncia Soc
 
 <p><br />
 &ldquo;Estamos nas ruas de todo o Brasil lutando pela reforma agr&aacute;ria, &nbsp;contra a reforma da previd&ecirc;ncia, &nbsp;o machismo, a viol&ecirc;ncia contra a mulher e &nbsp;o governo golpista de Michel Temer&rdquo;, afirma Carla Lag&oacute;ia, militante do MST.&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="7f27714d-86cf-4ca1-ac70-e7e037405cd0.jpg" height="300" src="//farm4.staticflickr.com/3872/33283561056_cc0b60d2a5_b.jpg" width="450" />
+<figcaption></figcaption>
+</figure>
 
 <p><br />
 A a&ccedil;&atilde;o organizada pela Frente Feminista, composta por diversas organiza&ccedil;&otilde;es de Mulheres, far&aacute; uma marcha contra a reforma da previd&ecirc;ncia, contra o racismo, pelo fim da viol&ecirc;ncia contra a mulher, intoler&acirc;ncia religiosa, entre outras. A marcha segue at&eacute; o Mercado do Ver o Peso onde encerrar&aacute; com grande ato pol&iacute;tico. &nbsp; &nbsp;&nbsp;</p>
