@@ -42,10 +42,13 @@ special-page: women-2017
 Ap&oacute;s realizarem protesto contra a reforma da Previd&ecirc;ncia proposta pelo governo Temer, aproximadamente 80 mulheres camponesas organizadas no Movimento dos Trabalhadores Rurais Sem Terra (MST) s&atilde;o mantidas encarceradas dentro de um &ocirc;nibus pela Pol&iacute;cia Militar (PM-GO).</p>
 
 <p><br />
-O Movimento alerta para a continuidade da persegui&ccedil;&atilde;o aos movimentos populares, j&aacute; recorrente por esta institui&ccedil;&atilde;o.</p>
+O Movimento alerta para a continuidade da persegui&ccedil;&atilde;o aos movimentos populares, j&aacute; recorrente por esta institui&ccedil;&atilde;o.&nbsp;</p>
 
 <p><br />
 &quot;Seguindo a linha de trucul&ecirc;ncia e repress&atilde;o com que tem agido contra os movimentos populares no &uacute;ltimo ano, mant&eacute;m 80 companheiras presas dentro de um &ocirc;nibus, exigindo que entreguem 03 pessoas para serem presas por conta da ocupa&ccedil;&atilde;o&quot;, salienta a nota emitida pela Dire&ccedil;&atilde;o Estadual do MST em GO. Confira a &iacute;ntegra.</p>
+
+<p><br />
+A mobiliza&ccedil;&atilde;o das mulheres faz parte da Jornada Nacional de Luta contra os impactos do capital e agroneg&oacute;cio no campo. Elas ainda denunciam a retirada de direitos da classe trabalhadora pelo governo golpista de Michel Temer.&nbsp;</p>
 
 <p><br />
 <strong>NOTA</strong></p>
@@ -64,6 +67,3 @@ Nenhum direito a menos! Viva a luta das mulheres camponesas!</p>
 
 <p><br />
 Dire&ccedil;&atilde;o Estadual do MST - Goi&aacute;s</p>
-
-<p><br />
-A mobiliza&ccedil;&atilde;o das mulheres faz parte da Jornada Nacional de Luta contra os impactos do capital e agroneg&oacute;cio no campo. Elas ainda denunciam a retirada de direitos da classe trabalhadora pelo governo golpista de Michel Temer.&nbsp;</p>
