@@ -24,6 +24,13 @@ files:
     small: //farm4.staticflickr.com/3872/33283561056_cc0b60d2a5_n.jpg
     title: 7f27714d-86cf-4ca1-ac70-e7e037405cd0.jpg
     $$hashKey: "116"
+  - link: //farm4.staticflickr.com/3766/32945352880_17127e43e0_b.jpg
+    original: //farm4.staticflickr.com/3766/32945352880_521d2625b8_o.jpg
+    thumbnail: //farm4.staticflickr.com/3766/32945352880_17127e43e0_t.jpg
+    medium: //farm4.staticflickr.com/3766/32945352880_17127e43e0_z.jpg
+    small: //farm4.staticflickr.com/3766/32945352880_17127e43e0_n.jpg
+    title: 67fddc8a-6100-4bb0-8f7c-212dd4032b67.jpg
+    $$hashKey: 14H
 created_date: "2017-03-08T12:20:02-03:00"
 published: true
 releated_posts:
@@ -41,13 +48,16 @@ special-page: women-2017
 ---
 <p>&nbsp;</p>
 
-<p style="text-align:center"><img alt="5e53801e-47dc-4181-a048-f19a0b0cb33d.jpg" height="466" src="//farm4.staticflickr.com/3841/33196388191_4ddde5207e_b.jpg" width="700" /></p>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="5e53801e-47dc-4181-a048-f19a0b0cb33d.jpg" height="466" src="//farm4.staticflickr.com/3841/33196388191_4ddde5207e_b.jpg" width="700" />
+<figcaption><em>Mulheres em marcha pelas ruas de Bel&eacute;m. Foto: Carlinhos Luz</em></figcaption>
+</figure>
+</div>
 
 <p>&nbsp;</p>
 
 <p><em>Da P&aacute;gina do MST<br />
-Por Coletivo de Comunica&ccedil;&atilde;o do MST no Par&aacute;<br />
-Fotos: Carlinhos Luz</em></p>
+Por Coletivo de Comunica&ccedil;&atilde;o do MST no Par&aacute;</em></p>
 
 <p><br />
 Na manh&atilde; desta quarta-feira (08), cerca de 1000 mulheres do MST, sindicatos, movimento negro, partidos de esquerda, estudantes, Fetagri, MAB, movimentos de bairros, Consulta Popular e Levante Popular &nbsp;da Juventude realizam Marcha das Mulheres em Bel&eacute;m.&nbsp;</p>
@@ -55,10 +65,11 @@ Na manh&atilde; desta quarta-feira (08), cerca de 1000 mulheres do MST, sindicat
 <p><br />
 Al&eacute;m disso, pela manh&atilde; ocuparam o pr&eacute;dio da Previd&ecirc;ncia Social em Bel&eacute;m para denunciar a contrarreforma que impacta diretamente a vida das mulheres. &nbsp;</p>
 
-<p>&ldquo;Estamos nas ruas de todo o Brasil lutando pela reforma agr&aacute;ria, &nbsp;contra a reforma da previd&ecirc;ncia, &nbsp;o machismo, a viol&ecirc;ncia contra a mulher e &nbsp;o governo golpista de Michel Temer&rdquo;, afirma Carla Lag&oacute;ia, militante do MST.&nbsp;</p>
+<p><br />
+&ldquo;Estamos nas ruas de todo o Brasil lutando pela reforma agr&aacute;ria, &nbsp;contra a reforma da previd&ecirc;ncia, &nbsp;o machismo, a viol&ecirc;ncia contra a mulher e &nbsp;o governo golpista de Michel Temer&rdquo;, afirma Carla Lag&oacute;ia, militante do MST.&nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="7f27714d-86cf-4ca1-ac70-e7e037405cd0.jpg" height="300" src="//farm4.staticflickr.com/3872/33283561056_cc0b60d2a5_b.jpg" width="450" />
-<figcaption></figcaption>
+<figcaption><em>Ocupa&ccedil;&atilde;o do pr&eacute;dio da Previd&ecirc;ncia Social em Bel&eacute;m. Foto Carlinho Luz</em></figcaption>
 </figure>
 
 <p><br />
@@ -71,7 +82,14 @@ Em Marab&aacute;, 400 mulheres do campo e da cidade&nbsp;marcharam pelas ruas da
 A jornada de luta das mulheres Sem Terra que acontece em todo o Brasil tem como tema: &ldquo;Estamos Todas Despertas, Contra o Capital e o agroneg&oacute;cio. Nenhum direito a menos!&rdquo; vem denunciando o agroneg&oacute;cio, as transnacionais, os impactos no meio ambiente, as amea&ccedil;as &agrave; soberania alimentar e o governo ileg&iacute;timo de Michel Temer.</p>
 
 <p><br />
-No Par&aacute;, as mulheres do MST se unem em luta e resist&ecirc;ncia diante do avan&ccedil;o do capital no campo brasileiro que afeta diretamente a vida das mulheres camponesas. Elas participar&atilde;o das a&ccedil;&otilde;es em Bel&eacute;m e Marab&aacute;.&nbsp;</p>
+No Par&aacute;, as mulheres do MST se unem em luta e resist&ecirc;ncia diante do avan&ccedil;o do capital no campo brasileiro que afeta diretamente a vida das mulheres camponesas. Elas participar&atilde;o das a&ccedil;&otilde;es em Bel&eacute;m e Marab&aacute;.&nbsp;<br />
+&nbsp;</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="67fddc8a-6100-4bb0-8f7c-212dd4032b67.jpg" height="525" src="//farm4.staticflickr.com/3766/32945352880_17127e43e0_b.jpg" width="700" />
+<figcaption><em>Marcha das mulheres do campo e cidade em Marab&aacute;. Foto: Nieves Rodrigues</em></figcaption>
+</figure>
+</div>
 
 <p><br />
 <em>*Editado por Iris Pacheco</em></p>
