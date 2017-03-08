@@ -4,7 +4,7 @@ tags:
   - tag: bahia
   - tag: sem-terra
   - tag: ocupação-incra
-title: Mulheres Sem Terra denunciam os impactos da Reforma da Previdência
+title: Sem Terra denunciam os impactos da Reforma da Previdência
 support_line: As mulheres ocuparam o Incra em Salvador e durante assembleia denunciaram denunciou a Reforma da Previdência e os impactos na vida das camponesas
 menu: lutas e mobilizações
 images_hd: //farm1.staticflickr.com/600/33282750186_25468760ff_b.jpg
