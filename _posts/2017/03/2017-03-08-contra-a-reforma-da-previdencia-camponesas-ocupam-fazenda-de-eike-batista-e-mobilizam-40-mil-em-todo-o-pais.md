@@ -5,12 +5,12 @@ tags:
   - tag: mulheres
   - tag: reforma-da-previdencia
   - tag: inss
-title: "Contra a Reforma da Previdência, camponesas ocupam fazenda de Eike e mobilizam 40 mil em todo o país"
-support_line: "São realizadas marchas, ocupações de órgãos públicos, ocupações de terras, trancamentos e debates pela passagem do 8 de março "
+title: Camponesas ocupam fazenda de Eike e mobilizam 40 mil em todo o país
+support_line: "Durante a Jornada são realizadas marchas, ocupações de órgãos públicos, de terras, trancamentos e debates "
 menu: lutas e mobilizações
 special-page: women-2017
 section: cover
-images_hd: //farm3.staticflickr.com/2890/33328680405_a44b7b74b1_b.jpg
+images_hd: //farm1.staticflickr.com/579/33329265895_3740765284_b.jpg
 layout: post
 files:
   - link: //farm3.staticflickr.com/2890/33328680405_a44b7b74b1_b.jpg
@@ -90,6 +90,27 @@ files:
     small: //farm1.staticflickr.com/724/33201256051_4a2e33fd71_n.jpg
     title: 17191348_1483506875055355_924984477777622948_n.jpg
     $$hashKey: 0YF
+  - link: //farm4.staticflickr.com/3926/32514757183_67f6bdb052_b.jpg
+    original: //farm4.staticflickr.com/3926/32514757183_b008d88bd8_o.jpg
+    thumbnail: //farm4.staticflickr.com/3926/32514757183_67f6bdb052_t.jpg
+    medium: //farm4.staticflickr.com/3926/32514757183_67f6bdb052_z.jpg
+    small: //farm4.staticflickr.com/3926/32514757183_67f6bdb052_n.jpg
+    title: fd1f1317-158f-4a50-9233-adc41ca4d2f2.jpg
+    $$hashKey: 14J
+  - link: //farm1.staticflickr.com/661/32486525554_2ba5da4f35_b.jpg
+    original: //farm1.staticflickr.com/661/32486525554_bec7bc62cb_o.jpg
+    thumbnail: //farm1.staticflickr.com/661/32486525554_2ba5da4f35_t.jpg
+    medium: //farm1.staticflickr.com/661/32486525554_2ba5da4f35_z.jpg
+    small: //farm1.staticflickr.com/661/32486525554_2ba5da4f35_n.jpg
+    title: 16996508_1483472085058834_2826567936721319053_n.jpg
+    $$hashKey: 14M
+  - link: //farm1.staticflickr.com/579/33329265895_3740765284_b.jpg
+    original: //farm1.staticflickr.com/579/33329265895_c426da0a00_o.jpg
+    thumbnail: //farm1.staticflickr.com/579/33329265895_3740765284_t.jpg
+    medium: //farm1.staticflickr.com/579/33329265895_3740765284_z.jpg
+    small: //farm1.staticflickr.com/579/33329265895_3740765284_n.jpg
+    title: 39f70ed4-e509-4e10-9af1-55071b642c5b.jpg
+    $$hashKey: 14R
 created_date: "2017-03-08T17:22:09-03:00"
 published: true
 releated_posts:
@@ -105,7 +126,7 @@ releated_posts:
   - _posts/2017/02/2017-02-08-fbp-aponta-luta-contra-a-reforma-da-previdencia-centro-das-mobilizacoes-do-proximo-periodo.md
 
 ---
-<p><img alt="WhatsApp Image 2017-03-08 at 11.23.46.jpeg" height="467" src="//farm3.staticflickr.com/2890/33328680405_a44b7b74b1_b.jpg" width="700" /></p>
+<p>&nbsp;</p>
 
 <p>&nbsp;</p>
 
@@ -117,13 +138,26 @@ Foto de Capa: M&iacute;dia Ninja</em></p>
 <p>A Jornada Nacional de Lutas das Mulheres Sem Terra, cujo lema &eacute; &ldquo;Estamos Todas Despertas! Contra o Capital e o Agroneg&oacute;cio! Nenhum Direito a menos!&rdquo;, j&aacute; mobiliza mais de 40 mil mulheres em todo o Brasil. A&ccedil;&otilde;es de den&uacute;ncia e enfrentamento, focadas principalmente em barrar a Reforma da Previd&ecirc;ncia do governo Temer, j&aacute; movimentaram 22 estados e o Distrito Federal. &nbsp;</p>
 
 <p><br />
-Em <strong>Minas Gerais</strong>, cerca de 200 mulheres ocuparam nesta manh&atilde; a fazenda Santa Terezinha, em Itatuaiu&ccedil;u-MG, de propriedade do empres&aacute;rio Eike Batista.&ldquo;Estamos ocupando a fazenda do Eike Batista, que foi preso por pagamento de propina no Rio de Janeiro&rdquo;, explica Esther Hoffmann, da dire&ccedil;&atilde;o do MST.</p>
+Em <strong>Minas Gerais</strong>, cerca de 200 mulheres ocuparam nesta manh&atilde; a fazenda Santa Terezinha, em Itatuaiu&ccedil;u-MG, de propriedade do empres&aacute;rio Eike Batista.&ldquo;Estamos ocupando a fazenda do Eike Batista, que foi preso por pagamento de propina no Rio de Janeiro&rdquo;, explica Esther Hoffmann, da dire&ccedil;&atilde;o do MST.<br />
+&nbsp;</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2017-03-08 at 11.23.46.jpeg" height="467" src="//farm3.staticflickr.com/2890/33328680405_a44b7b74b1_b.jpg" width="700" />
+<figcaption>Minas Gerais&nbsp;</figcaption>
+</figure>
+</div>
 
 <p><br />
 &ldquo;Assim como as empresas sonegam ou s&atilde;o isentas do INSS, apenas se elas pagassem o que devem, j&aacute; n&atilde;o teria &lsquo;rombo&rsquo; na Previd&ecirc;ncia. Essa &aacute;rea est&aacute; relacionada a quem s&atilde;o os verdadeiros devedores e corruptos, mas quem paga a conta da crise s&atilde;o trabalhadores com a retirada de direitos&quot;, salienta.</p>
 
 <p><br />
 Em <strong>S&atilde;o Paulo</strong>, as mulheres realizaram na manh&atilde; desta ter&ccedil;a-feira (7) uma a&ccedil;&atilde;o de den&uacute;ncia na unidade da Vale Fertilizantes, em Cubat&atilde;o-SP. Com picha&ccedil;&otilde;es e palavras de ordem, elas deixaram claro que se existe um &ldquo;rombo&rdquo; na Previd&ecirc;ncia, est&aacute; relacionado ao calote de grandes companhias como a Vale, que, sozinha, deve R$ 27 milh&otilde;es.</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="39f70ed4-e509-4e10-9af1-55071b642c5b.jpg" height="466" src="//farm1.staticflickr.com/579/33329265895_3740765284_b.jpg" width="700" />
+<figcaption>S&atilde;o Paulo&nbsp;</figcaption>
+</figure>
+</div>
 
 <p><br />
 No <strong>Maranh&atilde;o</strong>, cerca de 20 mil mulheres se mobilizaram desde a capital S&atilde;o Lu&iacute;s at&eacute; a realiza&ccedil;&atilde;o de trancamentos de rodovias estaduais e federais em 14 pontos, entre os quais o entroncamento das BR 135 e BR 316, em Alto Alegre do Maranh&atilde;o.</p>
@@ -197,7 +231,17 @@ Em Guarapuava, cerca de 200 mulheres do campo e da cidade se reuniram em frente 
 Desde a &uacute;ltima ter&ccedil;a-feira (7), cerca de 1500 mulheres realizam mobiliza&ccedil;&otilde;es em Macei&oacute;. Elas ocuparam a Superintend&ecirc;ncia do Incra e do INSS, respectivamente, na manh&atilde; e na tarde desta ter&ccedil;a. Nesta quarta-feira, as mulheres realizaram uma marcha em Macei&oacute; em conjunto com as mulheres da cidade. Tamb&eacute;m foram ocupados postos do INSS em Arapiraca e em Delmiro Gouveia, Alto Sert&atilde;o.</p>
 
 <p><br />
-Al&eacute;m do MST, participam das a&ccedil;&otilde;es da Jornada de Lutas no estado de Alagoas o Movimento de Liberta&ccedil;&atilde;o dos Sem Terra (MLST), a Comiss&atilde;o Pastoram da Terra (CPT), o Movimento Via do Trabalho (MVT), Movimento Terra, Trabalho e Liberdade (MTL), Movimento de Luta pela Terra (MLT), Movimento Unidos Pela Terra (MUPT) e Terra Livre.</p>
+Al&eacute;m do MST, participam das a&ccedil;&otilde;es da Jornada de Lutas no estado de Alagoas o Movimento de Liberta&ccedil;&atilde;o dos Sem Terra (MLST), a Comiss&atilde;o Pastoram da Terra (CPT), o Movimento Via do Trabalho (MVT), Movimento Terra, Trabalho e Liberdade (MTL), Movimento de Luta pela Terra (MLT), Movimento Unidos Pela Terra (MUPT) e Terra Livre.<br />
+<br />
+&nbsp;</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="16996508_1483472085058834_2826567936721319053_n.jpg" height="394" src="//farm1.staticflickr.com/661/32486525554_2ba5da4f35_b.jpg" width="700" />
+<figcaption>Alagoas</figcaption>
+</figure>
+</div>
+
+<p>&nbsp;</p>
 
 <p><br />
 <strong>Rio Grande do Sul</strong></p>
@@ -235,13 +279,17 @@ Na ter&ccedil;a-feira (7), mobiliza&ccedil;&otilde;es percorrem as diversas regi
 <p><br />
 Em Cear&aacute;-Mirim, Mossor&oacute; e Jo&atilde;o C&acirc;mara, as militantes ocuparam ag&ecirc;ncias do INSS denunciando a Reforma da Previd&ecirc;ncia, num total de 1200 mulheres. Na capital, o ato &eacute; unificado com organiza&ccedil;&otilde;es da cidade.</p>
 
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="fd1f1317-158f-4a50-9233-adc41ca4d2f2.jpg" height="394" src="//farm4.staticflickr.com/3926/32514757183_67f6bdb052_b.jpg" width="700" />
+<figcaption>Rio Grande do Norte&nbsp;</figcaption>
+</figure>
+</div>
+
 <p><br />
 <strong>Cear&aacute;</strong></p>
 
 <p><br />
 A Jornada de Lutas das Mulheres Sem Terra no Cear&aacute; mobilizou mais de 7 mil mulheres. Aconteceram mobiliza&ccedil;&otilde;es em varias regi&otilde;es do estado: na regi&atilde;o do&nbsp;Cariri, 500 mulheres marcharam pelo o centro da cidade; na regi&atilde;o do Litoral, no munic&iacute;pio de Itapipoca, 600 mulheres ocuparam a ag&ecirc;ncia do INSS local; na regi&atilde;o dos Inhamuns, em Crate&uacute;s, 800 mulheres marcharam pelo o centro da cidade e ocuparam ag&ecirc;ncia do INSS regional; e no Sert&atilde;o, no munic&iacute;pio de Canind&eacute;, 400 mulheres marcharam pelo o centro comercial do munic&iacute;pio. J&aacute; na capital cearense, 5 mil mulheres da Frente Brasil Popular marcharam pelo o centro da capital.</p>
-
-<p>&nbsp;</p>
 
 <p><br />
 <strong>Esp&iacute;rito Santo</strong></p>
