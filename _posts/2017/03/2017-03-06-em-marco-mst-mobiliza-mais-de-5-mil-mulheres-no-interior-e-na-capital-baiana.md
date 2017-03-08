@@ -26,6 +26,7 @@ releated_posts:
   - _posts/2017/02/2017-02-13-durante-assembleia-mst-denuncia-negligencia-da-prefeita-mayra-brito.md
   - _posts/2017/02/2017-02-17-com-luta-e-resistencia-mst-tem-pauta-da-educacao-atendida-no-prado.md
   - _posts/2017/02/2017-02-20-no-baixo-sul-da-bahia-mst-lanca-campanha-de-solidariedade-a-escola-luana-carvalho.md
+special-page: women-2017
 
 ---
 <p>&nbsp;</p>
