@@ -5,7 +5,7 @@ tags:
   - tag: jornada-de-lutas
   - tag: espirito-santo
 menu: lutas e mobilizações
-title: 8M de luta no Espírito Santo
+title: Reforma da Previdência gera protesto no ES
 support_line: "Em todo o estado, 2700 trabalhadoras do campo e da cidade se uniram para protestar contra a reforma da Previdência e por direitos. "
 special-page: women-2017
 images_hd: //farm3.staticflickr.com/2937/32498461544_23bc7032bd_b.jpg
