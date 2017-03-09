@@ -1,6 +1,9 @@
 ---
 date: "2017-03-09T12:30:04-03:00"
-tags: []
+tags:
+  - tag: mulheres
+  - tag: jornada-de-lutas
+  - tag: mato-grosso
 title: Mulheres tomam as ruas de Campo Grande
 support_line: "No Mato Grosso do Sul, 8M foi marcado por manifestações contra o desmonte da Previdência e contra a violência de gênero."
 menu: lutas e mobilizações
@@ -24,7 +27,14 @@ files:
     $$hashKey: 0FR
 created_date: "2017-03-09T13:05:04-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2017/03/2017-03-07-camponesas-ocupam-sede-do-incra-em-maceio-e-dao-inicio-a-jornada-de-lutas.md
+  - _posts/2017/03/2017-03-08-em-cuiaba-mulheres-camponesas-em-marcha-defendem-direitos-sociais.md
+  - _posts/2017/03/2017-03-06-trabalhadoras-do-campo-e-da-cidade-realizam-marcha-no-dia-internacional-da-mulher-em-porto-alegre.md
+  - _posts/2017/03/2017-03-07-mulheres-sem-terra-denunciam-vale-por-sonegar-contribuicao-ao-inss.md
+  - _posts/2017/03/2017-03-07-em-jornada-de-lutas-sem-terra-mobilizam-se-no-parana.md
+  - _posts/2017/03/2017-03-06-em-marco-mst-mobiliza-mais-de-5-mil-mulheres-no-interior-e-na-capital-baiana.md
+  - _posts/2017/03/2017-03-07-mulheres-protestam-contra-a-reforma-da-previdencia-no-aeroporto-de-porto-alegre.md
 
 ---
 <p><img alt="EFJ_8950.JPG" height="463" src="//farm3.staticflickr.com/2829/33187506242_1d02334661_b.jpg" width="700" /></p>
