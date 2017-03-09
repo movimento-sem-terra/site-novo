@@ -4,7 +4,7 @@ tags:
   - tag: mulheres
   - tag: lutas
   - tag: mobilizações
-title: "No 8 de Março, seminário aborda os impactos da reforma da Previdência na vida das mulheres- usem em nosso veiculos"
+title: Seminário aborda os impactos da reforma da Previdência na vida das mulheres
 images_hd: //farm1.staticflickr.com/692/33302325676_89408a340e_b.jpg
 support_line: "Representando a Via Campesina, a trabalhadora rural Salete Carollo disse que “se aprovada, a Reforma da Previdência trará consequências drásticas, principalmente, para os mais pobres, mulheres, idosos, jovens e trabalhadores rurais"
 menu: lutas e mobilizações
