@@ -156,7 +156,7 @@ Em <strong>Minas Gerais</strong>, cerca de 200 mulheres ocuparam nesta manh&atil
 &ldquo;Assim como as empresas sonegam ou s&atilde;o isentas do INSS, apenas se elas pagassem o que devem, j&aacute; n&atilde;o teria &lsquo;rombo&rsquo; na Previd&ecirc;ncia. Essa &aacute;rea est&aacute; relacionada a quem s&atilde;o os verdadeiros devedores e corruptos, mas quem paga a conta da crise s&atilde;o trabalhadores com a retirada de direitos&quot;, salienta.</p>
 
 <p><br />
-Em <strong>S&atilde;o Paulo</strong>, as mulheres realizaram na manh&atilde; desta ter&ccedil;a-feira (7) uma a&ccedil;&atilde;o de den&uacute;ncia na unidade da Vale Fertilizantes, em Cubat&atilde;o-SP. Com picha&ccedil;&otilde;es e palavras de ordem, elas deixaram claro que se existe um &ldquo;rombo&rdquo; na Previd&ecirc;ncia, est&aacute; relacionado ao calote de grandes companhias como a Vale, que, sozinha, deve R$ 27 milh&otilde;es.</p>
+Em <strong>S&atilde;o Paulo</strong>, as mulheres realizaram na manh&atilde; desta ter&ccedil;a-feira (7) uma a&ccedil;&atilde;o de den&uacute;ncia na unidade da Vale Fertilizantes, em Cubat&atilde;o-SP. Com picha&ccedil;&otilde;es e palavras de ordem, elas deixaram claro que se existe um &ldquo;rombo&rdquo; na Previd&ecirc;ncia, est&aacute; relacionado ao calote de grandes companhias como a Vale, que, sozinha, deve R$ 276 milh&otilde;es.</p>
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="39f70ed4-e509-4e10-9af1-55071b642c5b.jpg" height="466" src="//farm1.staticflickr.com/579/33329265895_3740765284_b.jpg" width="700" />
