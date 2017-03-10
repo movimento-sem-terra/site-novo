@@ -9,7 +9,7 @@ title: Camponesas ocupam fazenda de Eike e mobilizam 40 mil em todo o país
 support_line: "Durante a Jornada foram realizadas marchas, ocupações de órgãos públicos, de terras, trancamentos e debates."
 menu: lutas e mobilizações
 special-page: women-2017
-section: cover
+section: featured-news
 images_hd: //farm1.staticflickr.com/579/33329265895_3740765284_b.jpg
 layout: post
 files:
