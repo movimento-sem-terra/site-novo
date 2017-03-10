@@ -58,8 +58,7 @@ releated_posts:
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="17190452_1433635206667081_3080717450787074754_n.jpg" height="549" src="//farm1.staticflickr.com/749/33324859436_a84bcdc4c9_b.jpg" width="700" />
-<figcaption><em>Marcha das mulheres pelas ruas de Fortaleza, Cear&aacute;, denunciando a contrarreforma da previd&ecirc;ncia.<br />
-Foto: Elitiel Guedes</em></figcaption>
+<figcaption><em>Marcha das mulheres pelas ruas de Fortaleza, Cear&aacute;, denunciando a contrarreforma da previd&ecirc;ncia. Foto: Elitiel Guedes</em></figcaption>
 </figure>
 </div>
 
@@ -81,10 +80,13 @@ Para Iridiane Steibert, al&eacute;m de desconsiderar propositalmente as longas j
 &ldquo;N&oacute;s consideramos que a Previd&ecirc;ncia Social, tal como est&aacute; hoje, &eacute; a maior pol&iacute;tica de distribui&ccedil;&atilde;o de renda que temos no nosso pa&iacute;s, e representa mais de 70% dos ingressos de recursos para os munic&iacute;pios. Ent&atilde;o essa proposta deve representar um impacto grande para o desenvolvimento das pequenas comunidades rurais, ou seja, o retorno &agrave; mis&eacute;ria, &agrave; fome. Al&eacute;m disso, &eacute; uma das poucas pol&iacute;ticas que realmente considera a desigualdade hist&oacute;rica entre homens e mulheres nos espa&ccedil;os de trabalho&rdquo; afirma.</p>
 
 <p><br />
-A proposta, j&aacute; apelidada como &lsquo;o golpe da Previd&ecirc;ncia&rsquo;, ter&aacute; impactos ainda maiores para para a popula&ccedil;&atilde;o camponesa, especialmente para as mulheres. Mafort explica que hoje, os trabalhadores e trabalhadoras do campo s&atilde;o considerados &lsquo;segurados especiais&rsquo;. Com esse projeto de reforma, eles deixar&atilde;o de ser &lsquo;segurados especiais&rsquo; e passar&atilde;o a ser &lsquo;contribuintes&rsquo;.&nbsp;&nbsp;que representa um grave golpe contra aqueles que s&atilde;o os produtores e produtoras de alimentos do nosso pa&iacute;s. Al&eacute;m disso, com a regra atual, as mulheres camponesas se aposentam com 55 anos e os homens do campo, com 60 anos, devido ao fato de que exercem um trabalho sob condi&ccedil;&otilde;es mais duras na agricultura. Com essa proposta de reforma da Previd&ecirc;ncia, esse beneficio acaba e todos se aposentar&atilde;o com 65 anos.&nbsp;</p>
+A proposta, j&aacute; apelidada como &lsquo;o golpe da Previd&ecirc;ncia&rsquo;, ter&aacute; impactos ainda maiores para para a popula&ccedil;&atilde;o camponesa, especialmente para as mulheres. Mafort explica que hoje, os trabalhadores e trabalhadoras do campo s&atilde;o considerados &lsquo;segurados especiais&rsquo;.</p>
 
 <p><br />
-&ldquo;N&atilde;o h&aacute; d&uacute;vidas de que as mulheres do campo s&atilde;o as mais impactadas, porque perdem 10 anos do direito conquistado. &Eacute; preciso dizer que a expectativa de vida de uma trabalhadora rural do nordeste do Brasil &eacute; de 66 anos de idade. Ent&atilde;o se ela vai se aposentar com 65 anos, isso significa que ela vai morrer trabalhando e n&atilde;o vai se aposentar. Ent&atilde;o &eacute; preciso lutar contra esse golpe na Previd&ecirc;ncia, que n&atilde;o &eacute; uma reforma, e s&oacute; serve para piorar e retirar os direitos da classe trabalhadora&rdquo; explica Kelli Mafort, do MST. &nbsp;</p>
+&quot;Com esse projeto de reforma, eles deixar&atilde;o de ser &lsquo;segurados especiais&rsquo; e passar&atilde;o a ser &lsquo;contribuintes&rsquo;. O que representa um grave golpe contra aqueles que s&atilde;o os produtores e produtoras de alimentos do nosso pa&iacute;s. Al&eacute;m disso, com a regra atual, as mulheres camponesas se aposentam com 55 anos e os homens do campo, com 60 anos, devido ao fato de que exercem um trabalho sob condi&ccedil;&otilde;es mais duras na agricultura. Com essa proposta de reforma da Previd&ecirc;ncia, esse beneficio acaba e todos se aposentar&atilde;o com 65 anos&quot;, salienta &nbsp;</p>
+
+<p><br />
+De acordo Kelli, n&atilde;o h&aacute; d&uacute;vidas de que as mulheres do campo s&atilde;o as mais impactadas, porque perdem 10 anos do direito conquistado. &quot;&Eacute; preciso dizer que a expectativa de vida de uma trabalhadora rural do nordeste do Brasil &eacute; de 66 anos de idade. Ent&atilde;o se ela vai se aposentar com 65 anos, isso significa que ela vai morrer trabalhando e n&atilde;o vai se aposentar. Ent&atilde;o &eacute; preciso lutar contra esse golpe na Previd&ecirc;ncia, que n&atilde;o &eacute; uma reforma, e s&oacute; serve para piorar e retirar os direitos da classe trabalhadora&rdquo;.</p>
 
 <p><br />
 <strong>O capital atenta contra a vida das mulheres&nbsp;</strong></p>
