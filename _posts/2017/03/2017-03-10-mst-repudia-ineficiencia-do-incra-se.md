@@ -5,7 +5,7 @@ tags:
   - tag: ocupação
   - tag: sergipe
   - tag: reintegração-de-posse
-title: MST repudia ineficiência do Incra - SE
+title: MST repudia ação do Incra em Sergipe
 support_line: "Sem Terra que ocupam desde segunda-feira (6) as instalações da Superintendência Regional, foram notificados por uma inédita liminar de despejo"
 menu: lutas e mobilizações
 images_hd: //farm3.staticflickr.com/2834/33235061651_4656138f36_b.jpg
@@ -29,6 +29,7 @@ releated_posts:
   - _posts/2017/01/2017-01-13-familias-ocupam-fazenda-em-minas-gerais.md
   - _posts/2017/01/2017-01-16-mst-ocupa-area-de-ex-prefeito-de-montes-claros-acusado-de-corrupcao.md
   - _posts/2017/02/2017-02-07-juventude-sem-terra-ocupa-prefeitura-em-defesa-da-educacao-do-campo.md
+section: cover
 
 ---
 <p>&nbsp;</p>
