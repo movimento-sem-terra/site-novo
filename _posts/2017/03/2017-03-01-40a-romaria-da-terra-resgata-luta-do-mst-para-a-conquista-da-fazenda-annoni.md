@@ -99,6 +99,4 @@ Ap&oacute;s chegarem ao Assentamento Nossa Senhora Aparecida, os romeiros partic
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
-
 <p><em>*Editado por Rafael Soriano</em></p>
