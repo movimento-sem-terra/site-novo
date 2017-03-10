@@ -4,7 +4,7 @@ tags:
   - tag: mulheres
   - tag: paraná
   - tag: jornada-de-lutas
-title: 300 mulheres do Norte Pioneiro do Paraná protestam contra o governo golpista
+title: Mulheres do Norte Pioneiro do Paraná protestam contra o governo golpista
 support_line: "Trabalhadoras rurais e professoras da mesorregião paranaense se mobilizaram contra o 'pacote de maldades' do governo de Michel Temer"
 menu: lutas e mobilizações
 special-page: women-2017
