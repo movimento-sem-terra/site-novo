@@ -4,7 +4,7 @@ tags:
   - tag: jornada-de-lutas
   - tag: mulheres
   - tag: bahia
-title: "Três mil trabalhadoras ocupam às ruas do Comércio, em Salvador, no 8 de março"
+title: "Três mil trabalhadoras ocupam às ruas do Comércio, em Salvador"
 images_hd: //farm4.staticflickr.com/3714/33207916022_29440af2f1_b.jpg
 support_line: "De acordo com Lucinéia Durães, da direção estadual do MST, é nas ruas e na ocupação do latifúndio que barraremos esse golpe político que retira direitos das trabalhadoras"
 menu: lutas e mobilizações
