@@ -7,7 +7,7 @@ tags:
   - tag: reforma-da-previdencia
 title: "“O golpe na Previdência, não é uma reforma, pois retira direitos da classe trabalhadora” "
 support_line: "Nesta semana as Mulheres Sem Terra e da Via Campesina mobilizaram mais de 40 mil contra o capital, o agronegócio e as medidas do governo ilegítimo de Temer."
-images_hd: //farm1.staticflickr.com/700/33324759676_12331b65ed_b.jpg
+images_hd: //farm1.staticflickr.com/749/33324859436_a84bcdc4c9_b.jpg
 menu: lutas e mobilizações
 section: featured-news
 layout: post
@@ -26,6 +26,20 @@ files:
     small: //farm3.staticflickr.com/2890/32551001423_7198fb97fc_n.jpg
     title: 8 M MST.jpg
     $$hashKey: 0R4
+  - link: //farm1.staticflickr.com/749/33324859436_a84bcdc4c9_b.jpg
+    original: //farm1.staticflickr.com/749/33324859436_c8c602ea56_o.jpg
+    thumbnail: //farm1.staticflickr.com/749/33324859436_a84bcdc4c9_t.jpg
+    medium: //farm1.staticflickr.com/749/33324859436_a84bcdc4c9_z.jpg
+    small: //farm1.staticflickr.com/749/33324859436_a84bcdc4c9_n.jpg
+    title: 17190452_1433635206667081_3080717450787074754_n.jpg
+    $$hashKey: 08T
+  - link: //farm4.staticflickr.com/3831/32522366854_6fc91c4bef_b.jpg
+    original: //farm4.staticflickr.com/3831/32522366854_c6a59b35e8_o.jpg
+    thumbnail: //farm4.staticflickr.com/3831/32522366854_6fc91c4bef_t.jpg
+    medium: //farm4.staticflickr.com/3831/32522366854_6fc91c4bef_z.jpg
+    small: //farm4.staticflickr.com/3831/32522366854_6fc91c4bef_n.jpg
+    title: 33283531306_c4be69f101_z.jpg
+    $$hashKey: 08W
 created_date: "2017-03-10T18:54:31-03:00"
 published: true
 releated_posts:
@@ -41,6 +55,13 @@ releated_posts:
 
 ---
 <p>&nbsp;</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="17190452_1433635206667081_3080717450787074754_n.jpg" height="549" src="//farm1.staticflickr.com/749/33324859436_a84bcdc4c9_b.jpg" width="700" />
+<figcaption><em>Marcha das mulheres pelas ruas de Fortaleza, Cear&aacute;, denunciando a contrarreforma da previd&ecirc;ncia.<br />
+Foto: Elitiel Guedes</em></figcaption>
+</figure>
+</div>
 
 <p>&nbsp;</p>
 
@@ -93,6 +114,10 @@ Se o fundamento do estado capitalista &eacute; a propriedade privada, que por su
 <p><br />
 Segundo relat&oacute;rio da Organiza&ccedil;&atilde;o das Na&ccedil;&otilde;es Unidas para Alimenta&ccedil;&atilde;o e Agricultura (FAO), finalizado em 2013, &ldquo;as mulheres enfrentam desigualdades em rela&ccedil;&atilde;o &agrave; propriedade sobre a terra. Essa diferen&ccedil;a est&aacute; historicamente relacionada a fatores como a prefer&ecirc;ncia masculina na heran&ccedil;a, os privil&eacute;gios dos homens no casamento, a tend&ecirc;ncia de favorecimento dos homens na distribui&ccedil;&atilde;o da terra por parte das comunidades camponesas e ind&iacute;genas e tamb&eacute;m nos programas estatais de redistribui&ccedil;&atilde;o&rdquo;.</p>
 
+<figure class="image" style="float:left"><img alt="33283531306_c4be69f101_z.jpg" height="300" src="//farm4.staticflickr.com/3831/32522366854_6fc91c4bef_b.jpg" width="450" />
+<figcaption><em>&quot;Quem rouba a previd&ecirc;ncia &eacute; a Vale&quot;</em></figcaption>
+</figure>
+
 <p><br />
 Para Kelli Mafort, integrante do Setor de G&ecirc;nero do MST, as dificuldades impostas &agrave;s mulheres do campo demonstram a evidente perpetua&ccedil;&atilde;o dos valores patriarcais. &ldquo;A dificuldade de acesso ao cr&eacute;dito e &agrave;s condi&ccedil;&otilde;es para se desenvolver no campo &eacute; uma forma de opress&atilde;o contra as mulheres camponesas. Isso porque a maior parte dos recursos dispon&iacute;veis, s&atilde;o destinados ao agroneg&oacute;cio. E mesmo dentro da agricultura familiar h&aacute; toda uma hierarquia imposta, que coloca os homens como os verdadeiros chefes de fam&iacute;lia. Ent&atilde;o pouco a pouco as mulheres t&ecirc;m lutado por pol&iacute;ticas p&uacute;bicas que invertam essa prioridade, para que passem a ser visibilizadas, para que o trabalho no campo seja realmente reconhecido como trabalho&rdquo;, comenta Mafort.</p>
 
@@ -108,15 +133,15 @@ Ao contr&aacute;rio do que propagam as publicidades do neg&oacute;cio de aliment
 <p><br />
 &ldquo;&Eacute; preciso revelar para a sociedade que o agroneg&oacute;cio e a minera&ccedil;&atilde;o s&atilde;o atividades extremamente dependentes do Estado brasileiro. Prova disso &eacute; a medida provis&oacute;ria do REFIS, que &eacute; um grande presente do golpe e do governo ileg&iacute;timo de Michel Temer a esse setor. O refinanciamento da d&iacute;vida do agroneg&oacute;cio vai praticamente perdoar cerca de tr&ecirc;s trilh&otilde;es e 800 milh&otilde;es de reais. Ou seja, um setor que deve esta quantia, &eacute; um setor que n&atilde;o se sustenta. S&oacute; existe porque age como um parasita do Estado brasileiro&rdquo; afirma Mafort.</p>
 
-<figure class="image" style="float:left"><img alt="8 M MST.jpg" height="450" src="//farm3.staticflickr.com/2890/32551001423_7198fb97fc_b.jpg" width="450" />
-<figcaption>Legenda</figcaption>
-</figure>
-
 <p><br />
 <strong>Unidade global das mulheres contra o capital</strong></p>
 
 <p><br />
 Neste 8 de mar&ccedil;o, mulheres de mais de 30 pa&iacute;ses se somaram &agrave; convocat&oacute;ria de greve internacional feminina, com o objetivo de denunciar as desigualdades de g&ecirc;nero e protestar contra a viol&ecirc;ncia machista. O movimento &eacute; inspirado no Dia Livre de Mulheres, ocorrido em 1975, na Isl&acirc;ndia, quando cerca de 90% das mulheres trabalhadoras deixaram seus postos de trabalho por um dia, para protestar contra a desigualdade de direitos entre os g&ecirc;neros.</p>
+
+<figure class="image" style="float:right"><img alt="8 M MST.jpg" height="450" src="//farm3.staticflickr.com/2890/32551001423_7198fb97fc_b.jpg" width="450" />
+<figcaption></figcaption>
+</figure>
 
 <p><br />
 Para Kelli Mafort, o movimento campon&ecirc;s deve estar conectado com a perspectiva global de organiza&ccedil;&atilde;o das trabalhadoras de todo o mundo. &ldquo;Esse ano, o Movimento dos Sem Terra organizou mais uma vez a sua Jornada de Luta das Mulheres, que mobilizou mais de 40 mil mulheres em todo o pa&iacute;s. Ela ocorreu em v&aacute;rios estados, com espa&ccedil;os de forma&ccedil;&atilde;o, de debate, a partir da realidade das trabalhadoras dos acampamentos e assentamentos. Tamb&eacute;m integramos um processo de constru&ccedil;&atilde;o junto com outras organiza&ccedil;&otilde;es da Via Campesina, no campo, e com movimentos de trabalhadoras urbanas&rdquo;.</p>
