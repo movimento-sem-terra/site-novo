@@ -4,7 +4,7 @@ tags:
   - tag: ocupação
   - tag: lutas-e-mobilizações
   - tag: mulheres
-title: "Após ocupação, trabalhadoras possuem respostas positivas sobre desapropriação da Usina Santa Maria"
+title: "Após ocupação, Sem Terra recebem respostas positivas sobre desapropriação na Bahia"
 images_hd: //farm1.staticflickr.com/771/33379788556_4cfd6b17b6_b.jpg
 support_line: "A ação faz parte da Jornada Nacional de Lutas das Mulheres Sem Terra, que no mês de março tem intensificado as mobilizações e ocupações contra o capital e o agronegócio"
 menu: lutas e mobilizações
