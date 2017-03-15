@@ -4,9 +4,9 @@ tags:
   - tag: direitos-humanos
   - tag: presos-políticos
   - tag: solidariedade
-title: O significado político-jurídico da visita de juízas/es às/aos Sem Terra
+title: "O significado político das visitas jurídicas aos presos Sem Terra "
 images_hd: //farm4.staticflickr.com/3777/33264797982_dc547445f1_b.jpg
-support_line: "A iniciativa dessa visita de magistradas/os às/aos pode estar causando surpresa, mas ela marca uma diferença notável na conduta costumeira de juízas/es"
+support_line: "A iniciativa pode estar causando surpresa, mas ela marca uma diferença notável na conduta costumeira dos magistrados"
 menu: direitos humanos
 label: articles
 layout: post
