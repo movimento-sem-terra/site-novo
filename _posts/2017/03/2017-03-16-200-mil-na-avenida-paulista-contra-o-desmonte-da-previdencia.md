@@ -52,19 +52,23 @@ Foto: Pedro Biava</i></p>
 A manifesta&ccedil;&atilde;o foi convocada pelas Frentes Brasil Popular e Povo Sem Medo, al&eacute;m das centrais sindicais e movimentos populares do campo e da cidade. &ldquo;Esse dia vai ficar para a hist&oacute;ria da luta do povo trabalhador do Brasil&rdquo;, afirmou a dirigente nacional Sem Terra Kelli Mafort, durante sua interven&ccedil;&atilde;o no carro de som.</p>
 
 <p><br />
-Segundo Mafort, o projeto de reforma da Previd&ecirc;ncia impacta&nbsp;todos os trabalhadores e trabalhadoras, de modo geral, mas incide de maneira ainda mais violenta sobre a vida das mulheres, especialmente das trabalhadoras rurais. &ldquo;Trata-se de uma crueldade com as mulheres, porque passa por cima da divis&atilde;o sexual do trabalho, da desigualdade que existe na nossa sociedade e&nbsp;do machismo, quando iguala a idade de homens e mulheres para 65 anos. Ent&atilde;o, n&oacute;s estamos nas ruas em defesa da aposentadoria rural, pelo nosso direito de ser assegurados especiais, pelo direito de que as mulheres camponesas possam aposentar-se aos 55 anos e os homens aos 60 anos&rdquo; afirmou. Para ela, s&oacute; o povo mobilizado ser&aacute; capaz de derrotar o projeto golpista. &ldquo;A popula&ccedil;&atilde;o do campo precisa de fato realizar um grande levante no pa&iacute;s&rdquo;, afirmou.&nbsp;</p>
+Segundo Mafort, o projeto de reforma da Previd&ecirc;ncia impacta todos os trabalhadores e trabalhadoras, de modo geral, mas incide de maneira ainda mais violenta sobre a vida das mulheres, especialmente das trabalhadoras rurais. &ldquo;Trata-se de uma crueldade com as mulheres, porque passa por cima da divis&atilde;o sexual do trabalho, da desigualdade que existe na nossa sociedade e do machismo, quando iguala a idade de homens e mulheres para 65 anos. Ent&atilde;o, n&oacute;s estamos nas ruas em defesa da aposentadoria rural, pelo nosso direito de ser assegurados especiais, pelo direito de que as mulheres camponesas possam aposentar-se aos 55 anos e os homens aos 60 anos&rdquo; afirmou. Para ela, s&oacute; o povo mobilizado ser&aacute; capaz de derrotar o projeto golpista. &ldquo;A popula&ccedil;&atilde;o do campo precisa de fato realizar um grande levante no pa&iacute;s&rdquo;, afirmou.&nbsp;</p>
 
 <p><br />
-Apesar da enorme quantidade de pessoas que saiu &agrave;s ruas da maior cidade do pa&iacute;s e ocupou o cora&ccedil;&atilde;o do centro financeiro do Brasil, os meios de comunica&ccedil;&atilde;o tradicionais evitaram falar em n&uacute;meros esfor&ccedil;ado-se&nbsp;uma vez mais para criminalizar as a&ccedil;&otilde;es de luta dos movimentos populares. Segundo Mafort, a postura da grande m&iacute;dia &eacute; reflexo do medo que os setores dominantes t&ecirc;m do povo organizado. E completou&nbsp;dizendo que o sucesso do&nbsp;15M foi&nbsp;somente o come&ccedil;o de um processo que objetiva a defesa dos direitos da classe trabalhadora e a restaura&ccedil;&atilde;o da democracia no Brasil. &ldquo;Mexer com a Previd&ecirc;ncia significa provocar o povo para tomar as ruas. Esse &eacute; s&oacute; o come&ccedil;o. Daqui para frente, faremos um processo de luta permanente, que come&ccedil;ou no 8 de Mar&ccedil;o, com a mobiliza&ccedil;&atilde;o das mulheres, chegamos a este 15M, e n&atilde;o vamos parar at&eacute; o governo Temer sair e a aposentadoria ficar&rdquo; finalizou.</p>
+Apesar da enorme quantidade de pessoas que saiu &agrave;s ruas da maior cidade do pa&iacute;s e ocupou o cora&ccedil;&atilde;o do centro financeiro do Brasil, os meios de comunica&ccedil;&atilde;o tradicionais evitaram falar em n&uacute;meros esfor&ccedil;ado-se uma vez mais para criminalizar as a&ccedil;&otilde;es de luta dos movimentos populares. Segundo Mafort, a postura da grande m&iacute;dia &eacute; reflexo do medo que os setores dominantes t&ecirc;m do povo organizado. E completou dizendo que o sucesso do 15M foi somente o come&ccedil;o de um processo que objetiva a defesa dos direitos da classe trabalhadora e a restaura&ccedil;&atilde;o da democracia no Brasil. &ldquo;Mexer com a Previd&ecirc;ncia significa provocar o povo para tomar as ruas. Esse &eacute; s&oacute; o come&ccedil;o. Daqui para frente, faremos um processo de luta permanente, que come&ccedil;ou no 8 de Mar&ccedil;o, com a mobiliza&ccedil;&atilde;o das mulheres, chegamos a este 15M, e n&atilde;o vamos parar at&eacute; o governo Temer sair e a aposentadoria ficar&rdquo; finalizou</p>
 
-<p><b>Outras a&ccedil;&otilde;es na capital paulista</b></p>
+<p>&nbsp;</p>
 
-<figure class="image" style="float:left"><img alt="_MG_0588.jpg" height="240" src="//farm1.staticflickr.com/623/32632461444_51716129bd_b.jpg" width="350" />
-<figcaption></figcaption>
-</figure>
+<p><strong>Outras a&ccedil;&otilde;es na capital paulista</strong></p>
 
 <p><br />
-Mais cedo, outras mobiliza&ccedil;&otilde;es j&aacute; tinham sido realizadas pelos movimentos populares na capital paulista. As mulheres Sem Terra participaram da ocupa&ccedil;&atilde;o do edif&iacute;cio do INSS, no centro da cidade. A atividade foi realizada por 200 comp anheirasdo MST, Movimento de Atingidos por Barragens, Marcha Mundial de Mulheres, entre outras organiza&ccedil;&otilde;es.&nbsp;</p>
+Mais cedo, outras mobiliza&ccedil;&otilde;es j&aacute; tinham sido realizadas pelos movimentos populares na capital paulista. As mulheres Sem Terra participaram da ocupa&ccedil;&atilde;o do edif&iacute;cio do INSS, no centro da cidade. A atividade foi realizada por 200 mulheres do MST, Movimento de Atingidos por Barragens, Marcha Mundial de Mulheres, entre outras organiza&ccedil;&otilde;es.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Greve dos professores&nbsp;</strong></p>
+
+<p>&nbsp;</p>
 
 <p><br />
 Os professores da rede estadual, organizados na Apeoesp, chegaram a reunir mais de 45 mil pessoas na Pra&ccedil;a da Rep&uacute;blica, onde realizaram uma assembleia hist&oacute;rica. Nela, decidiram iniciar uma greve permanente a partir do dia 28 de mar&ccedil;o. Tamb&eacute;m nos dias 20 e 27 de mar&ccedil;o, a categoria organiza protestos em diversos aeroportos do pa&iacute;s, com o objetivo de pressionar os deputados e deputadas, senadores e senadoras, a se posicionar contra o projeto de desmonte da Previd&ecirc;ncia Social. Segundo a assessoria da Apeoesp, em todo o estado de S&atilde;o Paulo, mais de 80% dos professores aderiram &agrave; paralisa&ccedil;&atilde;o.&nbsp;</p>
@@ -73,7 +77,7 @@ Os professores da rede estadual, organizados na Apeoesp, chegaram a reunir mais 
 Outras categorias tamb&eacute;m realizaram assembleias e atos durante o dia, como os metrovi&aacute;rios, que desafiaram uma decis&atilde;o judicial, que proibia a greve, e pararam as atividades durante todo o dia. Os &ocirc;nibus tamb&eacute;m deixaram de circular na capital. Trabalhadores dos correios e os banc&aacute;rios tamb&eacute;m aderiram &agrave; paralisa&ccedil;&atilde;o.&nbsp;</p>
 
 <p><br />
-<b>Protestos no interior</b></p>
+<strong>Protestos no interior</strong></p>
 
 <p><br />
 Diversas cidades do interior paulista se mobilizaram nesse 15M. Foi o caso dos trabalhadores da ind&uacute;stria automotiva de S&atilde;o Bernardo do Campo, que al&eacute;m de cruzar os bra&ccedil;os para o trabalho, realizaram uma grande mobiliza&ccedil;&atilde;o nas redondezas do complexo industrial.&nbsp;</p>
@@ -82,7 +86,7 @@ Diversas cidades do interior paulista se mobilizaram nesse 15M. Foi o caso dos t
 Tamb&eacute;m houve protestos em Campinas, Bauru, Osasco, Mar&iacute;lia, Santos, S&atilde;o Sebasti&atilde;o, Piracicaba, S&atilde;o Jos&eacute; do Rio Preto, S&atilde;o Jos&eacute; dos Campos, Ribeir&atilde;o Preto, Sorocaba, Americana, entre outros munic&iacute;pios do estado.&nbsp;</p>
 
 <p><br />
-<b>Lula na Paulista</b></p>
+<strong>Lula na Paulista</strong></p>
 
 <p><br />
 O ex-presidente Lula tamb&eacute;m participou do ato contra a reforma da Previd&ecirc;ncia em S&atilde;o Paulo. Lula fez uma interven&ccedil;&atilde;o breve e chamou a aten&ccedil;&atilde;o para o verdadeiro motivador do golpe parlamentar contra a presidenta Dilma no ano passado. &ldquo;Est&aacute; ficando cada vez mais claro que o golpe n&atilde;o foi contra a Dilma, mas foi para colocar no governo um cidad&atilde;o ileg&iacute;timo para aprovar medidas que retiram os direitos da classe trabalhadora do Brasil&rdquo; disse o ex-presidente.&nbsp;</p>
@@ -96,3 +100,5 @@ O ex-presidente parabenizou as organiza&ccedil;&otilde;es populares pela jornada
 <p>&nbsp;</p>
 
 <p>&nbsp;</p>
+
+<p><em>*Editado por Maura Silva&nbsp;</em></p>
