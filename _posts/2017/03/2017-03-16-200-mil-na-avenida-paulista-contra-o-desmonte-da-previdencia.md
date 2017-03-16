@@ -70,8 +70,11 @@ Mais cedo, outras mobiliza&ccedil;&otilde;es j&aacute; tinham sido realizadas pe
 
 <p>&nbsp;</p>
 
-<p><br />
-Os professores da rede estadual, organizados na Apeoesp, chegaram a reunir mais de 45 mil pessoas na Pra&ccedil;a da Rep&uacute;blica, onde realizaram uma assembleia hist&oacute;rica. Nela, decidiram iniciar uma greve permanente a partir do dia 28 de mar&ccedil;o. Tamb&eacute;m nos dias 20 e 27 de mar&ccedil;o, a categoria organiza protestos em diversos aeroportos do pa&iacute;s, com o objetivo de pressionar os deputados e deputadas, senadores e senadoras, a se posicionar contra o projeto de desmonte da Previd&ecirc;ncia Social. Segundo a assessoria da Apeoesp, em todo o estado de S&atilde;o Paulo, mais de 80% dos professores aderiram &agrave; paralisa&ccedil;&atilde;o.&nbsp;</p>
+<figure class="image" style="float:left"><img alt="_MG_0588.jpg" height="240" src="//farm1.staticflickr.com/623/32632461444_51716129bd_b.jpg" width="350" />
+<figcaption></figcaption>
+</figure>
+
+<p>Os professores da rede estadual, organizados na Apeoesp, chegaram a reunir mais de 45 mil pessoas na Pra&ccedil;a da Rep&uacute;blica, onde realizaram uma assembleia hist&oacute;rica. Nela, decidiram iniciar uma greve permanente a partir do dia 28 de mar&ccedil;o. Tamb&eacute;m nos dias 20 e 27 de mar&ccedil;o, a categoria organiza protestos em diversos aeroportos do pa&iacute;s, com o objetivo de pressionar os deputados e deputadas, senadores e senadoras, a se posicionar contra o projeto de desmonte da Previd&ecirc;ncia Social. Segundo a assessoria da Apeoesp, em todo o estado de S&atilde;o Paulo, mais de 80% dos professores aderiram &agrave; paralisa&ccedil;&atilde;o.&nbsp;</p>
 
 <p><br />
 Outras categorias tamb&eacute;m realizaram assembleias e atos durante o dia, como os metrovi&aacute;rios, que desafiaram uma decis&atilde;o judicial, que proibia a greve, e pararam as atividades durante todo o dia. Os &ocirc;nibus tamb&eacute;m deixaram de circular na capital. Trabalhadores dos correios e os banc&aacute;rios tamb&eacute;m aderiram &agrave; paralisa&ccedil;&atilde;o.&nbsp;</p>
