@@ -4,8 +4,8 @@ tags:
   - tag: mulheres
   - tag: jornada-de-lutas
   - tag: bahia
-title: Companheiras sempre presentes
-support_line: Ocupação do Incra na Bahia homenageia mulheres que morreram lutando pela Reforma Agrária e pelo socialismo.
+title: MST na Bahia homenageia mulheres que morreram na luta pela Reforma Agrária
+support_line: "Homenagem aconteceu nas instalações do Incra, em Salvador, que segue ocupado desde o dia 6 de março. "
 menu: lutas e mobilizações
 special-page: women-2017
 images_hd: //farm1.staticflickr.com/594/33327398251_51a16a5aa5_b.jpg
