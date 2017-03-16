@@ -1,8 +1,11 @@
 ---
 date: "2017-03-16T12:49:12-03:00"
-tags: []
+tags:
+  - tag: fora-temer
+  - tag: reforma-da-previdencia
+  - tag: mobilizações
 title: 200 mil na Avenida Paulista contra o desmonte da Previdência
-support_line: "Trabalhadores de mais de 60 organizações e movimentos populares realizaram ações durante toda a jornada do 15M, finalizando com um grande protesto na noite desta quarta-feira (15)"
+support_line: Trabalhadores de mais de 60 organizações e movimentos populares realizaram ações durante toda a jornada do 15M
 menu: lutas e mobilizações
 images_hd: //farm4.staticflickr.com/3902/33092282580_1e34a17d78_b.jpg
 layout: post
@@ -22,8 +25,12 @@ files:
     title: _MG_0588.jpg
     $$hashKey: 0CU
 created_date: "2017-03-16T12:58:11-03:00"
-published: false
-releated_posts: []
+published: true
+releated_posts:
+  - _posts/2016/12/2016-12-09-movimentos-populares-protocolam-pedido-de-impeachment-de-temer.md
+  - _posts/2017/02/2017-02-16-reforma-da-previdencia-aprofundando-o-deserto-na-vida-dos-trabalhadores.md
+  - _posts/2017/02/2017-02-20-reforma-da-previdencia-pode-ser-o-fim-da-aposentadoria-rural-afirmam-agricultores.md
+  - _posts/2017/02/2017-02-22-mulheres-da-via-campesina-se-posicionam-contra-a-reforma-da-previdencia-social.md
 
 ---
 <p>
@@ -45,20 +52,19 @@ Foto: Pedro Biava</i></p>
 A manifesta&ccedil;&atilde;o foi convocada pelas Frentes Brasil Popular e Povo Sem Medo, al&eacute;m das centrais sindicais e movimentos populares do campo e da cidade. &ldquo;Esse dia vai ficar para a hist&oacute;ria da luta do povo trabalhador do Brasil&rdquo;, afirmou a dirigente nacional Sem Terra Kelli Mafort, durante sua interven&ccedil;&atilde;o no carro de som.</p>
 
 <p><br />
-Segundo Mafort, o projeto de reforma da Previd&ecirc;ncia impacta a todos os trabalhadores e trabalhadoras, de modo geral, mas incide de maneira ainda mais violenta sobre a vida das mulheres, especialmente das trabalhadoras rurais. &ldquo;Trata-se de uma crueldade com as mulheres, porque passa por cima da divis&atilde;o sexual do trabalho, da desigualdade que existe na nossa sociedade, do machismo, quando iguala a idade de homens e mulheres para 65 anos. Ent&atilde;o n&oacute;s estamos nas ruas em defesa da aposentadoria rural, pelo nosso direito de ser assegurados especiais, pelo direito de que as mulheres camponesas possam se aposentar aos 55 anos e os homens aos 60 anos&rdquo; afirmou. Para ela, s&oacute; o povo mobilizado ser&aacute; capaz de derrotar o projeto golpista. &ldquo;A popula&ccedil;&atilde;o do campo precisa de fato realizar um grande levante no pa&iacute;s&rdquo;, asseverou.&nbsp;</p>
+Segundo Mafort, o projeto de reforma da Previd&ecirc;ncia impacta&nbsp;todos os trabalhadores e trabalhadoras, de modo geral, mas incide de maneira ainda mais violenta sobre a vida das mulheres, especialmente das trabalhadoras rurais. &ldquo;Trata-se de uma crueldade com as mulheres, porque passa por cima da divis&atilde;o sexual do trabalho, da desigualdade que existe na nossa sociedade e&nbsp;do machismo, quando iguala a idade de homens e mulheres para 65 anos. Ent&atilde;o, n&oacute;s estamos nas ruas em defesa da aposentadoria rural, pelo nosso direito de ser assegurados especiais, pelo direito de que as mulheres camponesas possam aposentar-se aos 55 anos e os homens aos 60 anos&rdquo; afirmou. Para ela, s&oacute; o povo mobilizado ser&aacute; capaz de derrotar o projeto golpista. &ldquo;A popula&ccedil;&atilde;o do campo precisa de fato realizar um grande levante no pa&iacute;s&rdquo;, afirmou.&nbsp;</p>
 
 <p><br />
-Apesar da enorme quantidade de pessoas que saiu &agrave;s ruas da maior cidade do pa&iacute;s e ocupou o cora&ccedil;&atilde;o do centro financeiro do Brasil, os meios de comunica&ccedil;&atilde;o tradicionais evitaram falar em n&uacute;meros, e se esfor&ccedil;aram uma vez mais para criminalizar as a&ccedil;&otilde;es de luta dos movimentos populares. Segundo Mafort, a postura da grande m&iacute;dia &eacute; reflexo do medo que os setores dominantes t&ecirc;m do povo organizado. E completa dizendo que o sucesso desse 15M &eacute; somente o come&ccedil;o de um processo que objetiva a defesa dos direitos da classe trabalhadora e a restaura&ccedil;&atilde;o da democracia no Brasil. &ldquo;Mexer com a Previd&ecirc;ncia significa provocar o povo para tomar as ruas. Esse &eacute; s&oacute; o come&ccedil;o. Daqui para frente, faremos um processo de luta permanente, que come&ccedil;ou no 8 de Mar&ccedil;o, com a mobiliza&ccedil;&atilde;o das mulheres, chegamos a este 15M, e n&atilde;o vamos parar at&eacute; o governo Temer sair e a aposentadoria ficar&rdquo; sentenciou.</p>
+Apesar da enorme quantidade de pessoas que saiu &agrave;s ruas da maior cidade do pa&iacute;s e ocupou o cora&ccedil;&atilde;o do centro financeiro do Brasil, os meios de comunica&ccedil;&atilde;o tradicionais evitaram falar em n&uacute;meros esfor&ccedil;ado-se&nbsp;uma vez mais para criminalizar as a&ccedil;&otilde;es de luta dos movimentos populares. Segundo Mafort, a postura da grande m&iacute;dia &eacute; reflexo do medo que os setores dominantes t&ecirc;m do povo organizado. E completou&nbsp;dizendo que o sucesso do&nbsp;15M foi&nbsp;somente o come&ccedil;o de um processo que objetiva a defesa dos direitos da classe trabalhadora e a restaura&ccedil;&atilde;o da democracia no Brasil. &ldquo;Mexer com a Previd&ecirc;ncia significa provocar o povo para tomar as ruas. Esse &eacute; s&oacute; o come&ccedil;o. Daqui para frente, faremos um processo de luta permanente, que come&ccedil;ou no 8 de Mar&ccedil;o, com a mobiliza&ccedil;&atilde;o das mulheres, chegamos a este 15M, e n&atilde;o vamos parar at&eacute; o governo Temer sair e a aposentadoria ficar&rdquo; finalizou.</p>
 
-<p><br />
-<b>Outras a&ccedil;&otilde;es na capital paulista</b></p>
+<p><b>Outras a&ccedil;&otilde;es na capital paulista</b></p>
 
 <figure class="image" style="float:left"><img alt="_MG_0588.jpg" height="240" src="//farm1.staticflickr.com/623/32632461444_51716129bd_b.jpg" width="350" />
 <figcaption></figcaption>
 </figure>
 
 <p><br />
-Mais cedo, outras a&ccedil;&otilde;es j&aacute; tinham sido realizadas pelos movimentos populares na capital paulista. As mulheres Sem Terra participaram da ocupa&ccedil;&atilde;o do edif&iacute;cio do INSS, no centro da cidade. A atividade foi realizada por cerca de 200 companheiras do MST, Movimento de Atingidos por Barragens, Marcha Mundial de Mulheres, entre outras organiza&ccedil;&otilde;es.&nbsp;</p>
+Mais cedo, outras mobiliza&ccedil;&otilde;es j&aacute; tinham sido realizadas pelos movimentos populares na capital paulista. As mulheres Sem Terra participaram da ocupa&ccedil;&atilde;o do edif&iacute;cio do INSS, no centro da cidade. A atividade foi realizada por 200 comp anheirasdo MST, Movimento de Atingidos por Barragens, Marcha Mundial de Mulheres, entre outras organiza&ccedil;&otilde;es.&nbsp;</p>
 
 <p><br />
 Os professores da rede estadual, organizados na Apeoesp, chegaram a reunir mais de 45 mil pessoas na Pra&ccedil;a da Rep&uacute;blica, onde realizaram uma assembleia hist&oacute;rica. Nela, decidiram iniciar uma greve permanente a partir do dia 28 de mar&ccedil;o. Tamb&eacute;m nos dias 20 e 27 de mar&ccedil;o, a categoria organiza protestos em diversos aeroportos do pa&iacute;s, com o objetivo de pressionar os deputados e deputadas, senadores e senadoras, a se posicionar contra o projeto de desmonte da Previd&ecirc;ncia Social. Segundo a assessoria da Apeoesp, em todo o estado de S&atilde;o Paulo, mais de 80% dos professores aderiram &agrave; paralisa&ccedil;&atilde;o.&nbsp;</p>
