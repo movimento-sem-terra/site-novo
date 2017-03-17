@@ -24,6 +24,7 @@ releated_posts:
   - _posts/2017/03/2017-03-08-mulheres-sem-terra-marcham-em-santa-catarina-em-jornada-nacional-de-lutas.md
   - _posts/2017/03/2017-03-01-mst-reune-a-militancia-em-confraternizacao-no-extremo-sul-da-bahia.md
   - _posts/2017/03/2017-03-02-sem-terra-reocupam-latifundio-em-jucurucu-no-extremo-sul-baiano.md
+section: cover
 
 ---
 <p>&nbsp;</p>
