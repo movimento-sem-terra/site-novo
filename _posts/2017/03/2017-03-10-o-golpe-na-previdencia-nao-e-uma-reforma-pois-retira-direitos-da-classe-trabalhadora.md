@@ -94,8 +94,9 @@ De acordo Kelli, n&atilde;o h&aacute; d&uacute;vidas de que as mulheres do campo
 <p><br />
 O capitalismo n&atilde;o criou a opress&atilde;o contra as mulheres, mas foi o respons&aacute;vel por incorporar os valores do patriarcado &agrave;s rela&ccedil;&otilde;es de trabalho formais, que passaram a inclu&iacute;-las, a partir das chamadas &lsquo;revolu&ccedil;&otilde;es burguesas&rsquo;. Desde ent&atilde;o, e produto da organiza&ccedil;&atilde;o e luta das mulheres trabalhadoras, elas foram ocupando os espa&ccedil;os, antes exclusivos aos homens, mas nunca em condi&ccedil;&otilde;es de igualdade.</p>
 
-<figure class="image" style="float:right"><img alt="33309820245_96d25ddba5_b.jpg" height="300" src="//farm1.staticflickr.com/700/33324759676_12331b65ed_b.jpg" width="450" />
-<figcaption><em>A&ccedil;&atilde;o de den&uacute;ncia da Vale em Cubat&atilde;o por dever R$ 276 milh&otilde;es para o INSS.</em></figcaption>
+<figure class="image" style="float:right"><img alt="33309820245_96d25ddba5_b.jpg" height="267" src="//farm1.staticflickr.com/700/33324759676_12331b65ed_b.jpg" width="400" />
+<figcaption><em>A&ccedil;&atilde;o de den&uacute;ncia da Vale em Cubat&atilde;o por dever R$ 276 milh&otilde;es<br />
+para o INSS.</em></figcaption>
 </figure>
 
 <p><br />
