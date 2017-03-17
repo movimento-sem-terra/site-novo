@@ -23,6 +23,7 @@ releated_posts:
   - _posts/2017/03/2017-03-03-mst-realiza-o-1o-seminario-regional-de-saude-popular-da-bahia.md
   - _posts/2017/03/2017-03-06-contra-o-agronegocio-e-a-reforma-da-previdencia-mulheres-ocupam-usina-e-incra-na-ba.md
   - _posts/2017/03/2017-03-08-mulheres-sem-terra-denunciam-os-impactos-da-reforma-da-previdencia.md
+section: cover
 
 ---
 <p><img alt="notaderepudioSEESE.jpg" height="409" src="//farm3.staticflickr.com/2815/32651447024_9f86de71b6_b.jpg" width="700" /></p>
