@@ -8,7 +8,7 @@ title: "Na luta contra a reforma da previdência, movimentos ocupam Ministério 
 images_hd: //farm3.staticflickr.com/2827/33454280665_f0789c29c2_b.jpg
 support_line: "A perda de direitos e os retrocessos promovidos pelo governo Temer são os principais motivadores da ocupação, que tem sua centralidade na luta contra a reforma da previdência, enviada pelo presidente Michel Temer em dezembro do ano passado"
 menu: lutas e mobilizações
-section: featured-news
+section: null
 layout: post
 files:
   - link: //farm3.staticflickr.com/2827/33454280665_f0789c29c2_b.jpg
