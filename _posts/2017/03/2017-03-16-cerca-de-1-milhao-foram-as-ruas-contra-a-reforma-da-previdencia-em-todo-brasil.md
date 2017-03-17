@@ -37,6 +37,7 @@ releated_posts:
   - _posts/2017/01/2017-01-26-mst-promove-unidade-das-forcas-em-ato-politico-no-ceara.md
   - _posts/2017/02/2017-02-16-reforma-da-previdencia-aprofundando-o-deserto-na-vida-dos-trabalhadores.md
   - _posts/2017/02/2017-02-14-reforma-da-previdencia-ignora-rusd-426-bilhoes-devidos-por-empresas-ao-inss.md
+section: featured-news
 
 ---
 <div style="text-align:center">
