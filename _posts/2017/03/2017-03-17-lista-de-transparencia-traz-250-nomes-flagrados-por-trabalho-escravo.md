@@ -18,6 +18,12 @@ files:
     small: //farm4.staticflickr.com/3865/33338482512_b14f6eb66a_n.jpg
     title: clip_image0012.jpg
     $$hashKey: "030"
+  - link: "https://drive.google.com/uc?id=0Bwus_4SL8MWDQVVwMkhCNTFMU2c&export=download"
+    thumbnail: "http://farm4.staticflickr.com/3852/15187675380_7b00f5fdff_b.jpg"
+    title: Lista-de-Transparência_-dez2014-2016.pdf
+    basename: Lista-de-Transparência_-dez2014-2016
+    embed: "https://drive.google.com/uc?id=0Bwus_4SL8MWDQVVwMkhCNTFMU2c"
+    $$hashKey: 0AW
 created_date: "2017-03-17T14:14:09-03:00"
 published: true
 releated_posts:
@@ -34,7 +40,7 @@ Da Rep&oacute;rter Brasil</em></p>
 
 <p>&nbsp;</p>
 
-<p>Obtida atrav&eacute;s da Lei de Acesso &agrave; Informa&ccedil;&atilde;o (LAI), a &ldquo;Lista de Transpar&ecirc;ncia sobre Trabalho Escravo Contempor&acirc;neo&rdquo; traz dados de empregadores autuados em decorr&ecirc;ncia de caracteriza&ccedil;&atilde;o de trabalho an&aacute;logo ao de escravo e que tiveram decis&atilde;o administrativa final. A solicita&ccedil;&atilde;o busca garantir transpar&ecirc;ncia &agrave; pol&iacute;tica de combate a essa viola&ccedil;&atilde;o aos direitos fundamentais enquanto o governo federal n&atilde;o voltar a divulgar a informa&ccedil;&atilde;o, como costumava fazer.&nbsp; Clique aqui para baixar a lista.</p>
+<p>Obtida atrav&eacute;s da Lei de Acesso &agrave; Informa&ccedil;&atilde;o (LAI), a &ldquo;Lista de Transpar&ecirc;ncia sobre Trabalho Escravo Contempor&acirc;neo&rdquo; traz dados de empregadores autuados em decorr&ecirc;ncia de caracteriza&ccedil;&atilde;o de trabalho an&aacute;logo ao de escravo e que tiveram decis&atilde;o administrativa final. A solicita&ccedil;&atilde;o busca garantir transpar&ecirc;ncia &agrave; pol&iacute;tica de combate a essa viola&ccedil;&atilde;o aos direitos fundamentais enquanto o governo federal n&atilde;o voltar a divulgar a informa&ccedil;&atilde;o, como costumava fazer. Para acessar o documento, <a href="https://drive.google.com/uc?id=0Bwus_4SL8MWDQVVwMkhCNTFMU2c&amp;export=download">Clique aqui.</a></p>
 
 <p><br />
 Os dados sobre flagrantes que caracterizaram trabalho escravo tornaram-se o centro de uma pol&ecirc;mica ap&oacute;s o Minist&eacute;rio do Trabalho, &oacute;rg&atilde;o respons&aacute;vel por sua publiciza&ccedil;&atilde;o semestral desde 2003, evitar, na Justi&ccedil;a, a divulga&ccedil;&atilde;o do cadastro de empregadores flagrados por esse crime, a chamada &ldquo;lista suja&ldquo;. O Minist&eacute;rio alega a necessidade de aprimorar as regras a fim de n&atilde;o prejudicar empregadores.</p>
