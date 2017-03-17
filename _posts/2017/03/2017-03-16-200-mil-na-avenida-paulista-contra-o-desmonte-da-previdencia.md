@@ -31,6 +31,7 @@ releated_posts:
   - _posts/2017/02/2017-02-16-reforma-da-previdencia-aprofundando-o-deserto-na-vida-dos-trabalhadores.md
   - _posts/2017/02/2017-02-20-reforma-da-previdencia-pode-ser-o-fim-da-aposentadoria-rural-afirmam-agricultores.md
   - _posts/2017/02/2017-02-22-mulheres-da-via-campesina-se-posicionam-contra-a-reforma-da-previdencia-social.md
+section: featured-news
 
 ---
 <p>
