@@ -28,6 +28,7 @@ releated_posts:
   - _posts/2017/01/2017-01-17-o-capitalismo-pode-destruir-nossa-sociedade-de-25-maneiras-diferentes.md
   - _posts/2017/01/2017-01-20-gigantes-do-agronegocio-o-risco-das-fusoes-para-a-agroecologia.md
   - _posts/2017/02/2017-02-21-a-rainha-da-selva-soja-destroi-a-amazonia-e-chantageia-o-pais.md
+section: featured-news
 
 ---
 <p>&nbsp;</p>
