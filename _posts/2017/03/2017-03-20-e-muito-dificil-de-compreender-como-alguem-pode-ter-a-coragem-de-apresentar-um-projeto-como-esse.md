@@ -4,7 +4,7 @@ tags:
   - tag: DIEESE
   - tag: reforma-da-previdencia
   - tag: governo-temer
-title: "Patrícia Pelatieri do Diesse analisa os impactos da Reforma da Previdência no campo "
+title: "Patrícia Pelatieri do Diesse, analisa os impactos da Reforma da Previdência no campo "
 images_hd: //farm4.staticflickr.com/3859/33428434901_2368138c96_b.jpg
 menu: lutas e mobilizações
 support_line: "\"Há uma condição muito diferenciada entre os trabalhadores do campo e da cidade, no que diz respeito à inserção no mercado de trabalho\""
