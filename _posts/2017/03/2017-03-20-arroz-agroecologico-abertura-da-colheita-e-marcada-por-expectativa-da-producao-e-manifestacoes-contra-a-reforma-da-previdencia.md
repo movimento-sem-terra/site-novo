@@ -5,7 +5,7 @@ tags:
   - tag: arroz
   - tag: colheita
   - tag: rio-grande-do-sul
-title: "Arroz Agroecológico: abertura da colheita é marcada por expectativa da produção e manifestações contra a reforma da Previdência"
+title: "Arroz Agroecológico: abertura da colheita é marcada por expectativa da produção "
 support_line: "Cerca de 1,5 mil pessoas participaram das atividades nesta sexta-feira (17), no Rio Grande do Sul"
 images_hd: //farm4.staticflickr.com/3716/32736556523_793f5b8fe3_b.jpg
 menu: agricultura camponesa
