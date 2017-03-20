@@ -32,6 +32,7 @@ releated_posts:
   - _posts/2016/10/2016-10-17-ato-politico-na-camara-dos-deputados-marcara-25-anos-do-fndc.md
   - _posts/2016/10/2016-10-20-campanha-reune-denuncias-de-violacoes-a-liberdade-de-expressao.md
   - _posts/2016/10/2016-10-22-afasta-da-gente-esse-cale-se.md
+section: featured-news
 
 ---
 <p>&nbsp;</p>
