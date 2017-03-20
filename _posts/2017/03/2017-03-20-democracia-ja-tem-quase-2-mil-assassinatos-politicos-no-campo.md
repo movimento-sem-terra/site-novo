@@ -189,12 +189,23 @@ Em 17 de abril de 1996, 19 trabalhadores rurais sem-terra foram mortos pela Pol&
 <p><br />
 O gerente da Transbrasiliana que recebeu a ordem &ndash; e o dinheiro &ndash; se chama Gumercindo de Castro. O funcion&aacute;rio da Vale que contratou os servi&ccedil;os se chama James. Como explicar que uma empresa estatal contrate uma empresa particular para transportar tropas da PM que iriam desfazer uma manifesta&ccedil;&atilde;o p&uacute;blica?&rdquo;, questiona Eric Nepomuceno, autor do livro O Massacre: Eldorado dos Caraj&aacute;s: Uma hist&oacute;ria de impunidade (Ed. Planeta).</p>
 
+<figure class="image" style="float:left"><img alt="CHICO-MENDES_1409923700007-FOTO-MEMORIAL-CHICO-MENDES-DIVULGAÇÃO.jpg" height="202" src="//farm1.staticflickr.com/664/33558147395_a5f3eb56c7_b.jpg" width="380" />
+<figcaption><em>&nbsp;Foto: Memorial Chico Mendes/Divulga&ccedil;&atilde;o</em></figcaption>
+</figure>
+
 <p><br />
 O l&iacute;der seringueiro Francisco Alves Mendes Filho, Chico Mendes, presidente do Sindicato dos Trabalhadores Rurais do Acre, foi assassinado aos 44 anos, no dia 22 de dezembro de 1988, em Xapuri, com tiros de escopeta, por Darci Alves a mando do pai, o fazendeiro Darli Alves. Ambos foram condenados, em 1990, a 19 anos de deten&ccedil;&atilde;o, mas fugiram da pris&atilde;o em 1993, tendo sido recapturados tr&ecirc;s anos depois. Foram beneficiados com progress&otilde;es para regimes domiciliar e semiaberto.</p>
 
-<p>&nbsp;Foto: CPT/Divulga&ccedil;&atilde;o |&nbsp;<br />
-Foto: CPT/Divulga&ccedil;&atilde;o<br />
+<figure class="image" style="float:right"><img alt="Dorothy-Stang-CPT-Divulgação.jpg" height="259" src="//farm3.staticflickr.com/2868/33429551551_ea20fdf49f_b.jpg" width="380" />
+<figcaption><em>Foto: CPT/Divulga&ccedil;&atilde;o</em></figcaption>
+</figure>
+
+<p><br />
 A mission&aacute;ria norte-americana Dorothy Mae Stang, ativista dos direitos socioambientais e defensora de um projeto de sustentabilidade para a Amaz&ocirc;nia, foi assassinada aos 73 anos, em 12 de fevereiro de 2005, no interior de Anapu, nas margens da Transamaz&ocirc;nica, no Par&aacute;. A religiosa naturalizada brasileira vivia na regi&atilde;o desde a d&eacute;cada de 1970 e pressionou pela cria&ccedil;&atilde;o da reserva Esperan&ccedil;a, projeto do Incra, onde foi emboscada por pistoleiros. Dois mandantes do crime, Vitalmiro Bastos de Moura e Regivaldo Pereira Galv&atilde;o, est&atilde;o em liberdade. Clodoaldo Batista e Rayfran das Neves Sales, que executaram o crime, foram condenados a 18 anos e 27 anos de pris&atilde;o, respectivamente.</p>
 
-<p>&nbsp;Foto: Greenpeace/Felipe Milanez |&nbsp;<br />
-Foto: Greenpeace/Felipe Milanez</p>
+<figure class="image" style="float:left"><img alt="ZE_CLAUDIO_DNA_MARIA_1_FOTO-©GreenpeaceFelipe-Milanez.jpg" height="285" src="//farm4.staticflickr.com/3681/33429416691_e1039ef075_b.jpg" width="380" />
+<figcaption><em>Foto: Greenpeace/Felipe Milanez&nbsp;</em></figcaption>
+</figure>
+
+<p><br />
+O casal de agricultores Jos&eacute; Claudio Ribeiro da Silva e Maria do Esp&iacute;rito Santo da Silva foi executado na manh&atilde; de 24 de maio de 2011, em Nova Ipixuna, sudeste do Par&aacute;. No dia 6 de dezembro de 2016, a Tribunal do Juri de Bel&eacute;m condenou a 60 anos o fazendeiro Jos&eacute; Rodrigues Moreira, que encomendou as execu&ccedil;&otilde;es. Z&eacute; Cl&aacute;udio e Maria eram ambientalistas e extrativistas, e denunciavam grilagem de terras, desmatamento ilegal no interior do assentamento agroextrativista da localidade.</p>
