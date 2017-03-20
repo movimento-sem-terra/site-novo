@@ -6,7 +6,7 @@ tags:
   - tag: comunicação-popular
 title: FNDC lança campanha para fortalecer a luta pela democratização da comunicação
 support_line: "A entidade busca recursos para desenvolver campanhas na defesa do direito à comunicação. Agora, organizações não-filiadas e pessoas físicas também podem contribuir financeiramente."
-images_hd: //farm3.staticflickr.com/2887/33422340761_14c5bd36a8_b.jpg
+images_hd: //farm4.staticflickr.com/3729/33512297656_9124c2348a_b.jpg
 menu: "educação, cultura e comunicação"
 layout: post
 files:
@@ -17,6 +17,13 @@ files:
     small: //farm3.staticflickr.com/2887/33422340761_14c5bd36a8_n.jpg
     title: efeb2537547e5a238f19cffc5f81b592.png
     $$hashKey: 0BZ
+  - link: //farm4.staticflickr.com/3729/33512297656_9124c2348a_b.jpg
+    original: //farm4.staticflickr.com/3729/33512297656_d9fed47616_o.jpg
+    thumbnail: //farm4.staticflickr.com/3729/33512297656_9124c2348a_t.jpg
+    medium: //farm4.staticflickr.com/3729/33512297656_9124c2348a_z.jpg
+    small: //farm4.staticflickr.com/3729/33512297656_9124c2348a_n.jpg
+    title: download.jpg
+    $$hashKey: 05H
 created_date: "2017-03-20T12:58:35-03:00"
 published: true
 releated_posts:
@@ -54,7 +61,7 @@ Atualmente, o FNDC est&aacute; organizado em quase todo o territ&oacute;rio naci
 <strong>Doa&ccedil;&otilde;es online</strong></p>
 
 <p><br />
-A novidade desta campanha &eacute; a plataforma para doa&ccedil;&otilde;es online. Voltada para pessoas f&iacute;sicas e organiza&ccedil;&otilde;es que n&atilde;o est&atilde;o filiadas ao F&oacute;rum, mas desejam contribuir com a luta pela democratiza&ccedil;&atilde;o da comunica&ccedil;&atilde;o, essa plataforma aceita doa&ccedil;&otilde;es a partir de R$ 30, via boleto ou cart&atilde;o de cr&eacute;dito. Os recursos ser&atilde;o destinados exclusivamente para financiar a&ccedil;&otilde;es do FNDC para promo&ccedil;&atilde;o de pol&iacute;ticas p&uacute;blicas de comunica&ccedil;&atilde;o.&nbsp;<img alt="efeb2537547e5a238f19cffc5f81b592.png" src="//farm3.staticflickr.com/2887/33422340761_14c5bd36a8_b.jpg" /></p>
+A novidade desta campanha &eacute; a plataforma para doa&ccedil;&otilde;es online. Voltada para pessoas f&iacute;sicas e organiza&ccedil;&otilde;es que n&atilde;o est&atilde;o filiadas ao F&oacute;rum, mas desejam contribuir com a luta pela democratiza&ccedil;&atilde;o da comunica&ccedil;&atilde;o, essa plataforma aceita doa&ccedil;&otilde;es a partir de R$ 30, via boleto ou cart&atilde;o de cr&eacute;dito. Os recursos ser&atilde;o destinados exclusivamente para financiar a&ccedil;&otilde;es do FNDC para promo&ccedil;&atilde;o de pol&iacute;ticas p&uacute;blicas de comunica&ccedil;&atilde;o.&nbsp;</p>
 
 <p><br />
 <strong>Apoie o FNDC!</strong><br />
