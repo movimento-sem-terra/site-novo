@@ -50,6 +50,7 @@ releated_posts:
   - _posts/2017/01/2017-01-31-agroecologia-e-tema-de-oficina-no-norte-da-bahia.md
   - _posts/2017/03/2017-03-15-mst-promove-14a-abertura-oficial-da-colheita-do-arroz-agroecologico-no-rs.md
   - _posts/2017/02/2017-02-06-biografa-de-ana-maria-primavesi-visita-assentamento-mario-lago-e-acampameto-paulo-botelho-rp-do-mst.md
+section: featured-news
 
 ---
 <div style="text-align:center">
