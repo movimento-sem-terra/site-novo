@@ -4,19 +4,19 @@ tags:
   - tag: pará
   - tag: violência-no-campo
   - tag: nota-de-falecimento
-images_hd: //farm3.staticflickr.com/2930/32740607023_6fd42f6afa_b.jpg
+images_hd: //farm3.staticflickr.com/2898/32743444623_aa5f1963fe_b.jpg
 menu: direitos humanos
-title: MST se solidariza com família de agricultor assassinado no Pará
+title: MST solidariza-se com família de agricultor assassinado no Pará
 support_line: "O MST cobra que as investigações esclareçam o caso e alega que o clima de \"recorrente impunidade\" com casos de assassinatos de trabalhadores no Pará é um impulsionador de violências deste tipo."
 layout: post
 files:
-  - link: //farm3.staticflickr.com/2930/32740607023_6fd42f6afa_b.jpg
-    original: //farm3.staticflickr.com/2930/32740607023_381e856bff_o.jpg
-    thumbnail: //farm3.staticflickr.com/2930/32740607023_6fd42f6afa_t.jpg
-    medium: //farm3.staticflickr.com/2930/32740607023_6fd42f6afa_z.jpg
-    small: //farm3.staticflickr.com/2930/32740607023_6fd42f6afa_n.jpg
-    title: 13007175_132176077182645_617384651832262323_n.jpg
-    $$hashKey: "030"
+  - link: //farm3.staticflickr.com/2898/32743444623_aa5f1963fe_b.jpg
+    original: //farm3.staticflickr.com/2898/32743444623_dff7491da3_o.jpg
+    thumbnail: //farm3.staticflickr.com/2898/32743444623_aa5f1963fe_t.jpg
+    medium: //farm3.staticflickr.com/2898/32743444623_aa5f1963fe_z.jpg
+    small: //farm3.staticflickr.com/2898/32743444623_aa5f1963fe_n.jpg
+    title: 32740607023_6fd42f6afa_b.jpg
+    $$hashKey: 0M6
 created_date: "2017-03-20T14:57:58-03:00"
 published: true
 releated_posts:
@@ -33,9 +33,8 @@ releated_posts:
 
 <p><em>Da P&aacute;gina do MST</em></p>
 
-<p>&nbsp;</p>
-
-<p>O MST no estado do Par&aacute; emitiu na tarde desta segunda-feira (20) uma nota para se solidarizar com a fam&iacute;lia do militante Waldomiro Costa Pereira, que foi assassinado esta madrugada no Hospiotal Geral de Parauapebas, no interior do estado.</p>
+<p><br />
+O MST no estado do Par&aacute; emitiu na tarde desta segunda-feira (20) uma nota para se solidarizar com a fam&iacute;lia do militante Waldomiro Costa Pereira, que foi assassinado esta madrugada no Hospiotal Geral de Parauapebas, no interior do estado.</p>
 
 <p><br />
 Waldomiro, que n&atilde;o participava no per&iacute;odo recente de inst&acirc;ncias de dire&ccedil;&atilde;o do Movimento no estado, tamb&eacute;m era militante do Partido dos Trabalhadores e havia assumido um cargo de assessoria na Prefeitura da cidade.</p>
