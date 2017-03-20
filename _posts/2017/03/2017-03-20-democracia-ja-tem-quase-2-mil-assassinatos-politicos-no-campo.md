@@ -65,12 +65,6 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="Foto-Comissão-Guarani-Yvyrupa-–-CGY.jpg" height="466" src="//farm4.staticflickr.com/3750/32743682723_f9344d773c_b.jpg" width="700" />
-<figcaption></figcaption>
-</figure>
-</div>
-
 <p><br />
 <em>Por Cau&ecirc; Seigner Ameni<br />
 De Olho nos Ruralistas&nbsp;</em></p>
