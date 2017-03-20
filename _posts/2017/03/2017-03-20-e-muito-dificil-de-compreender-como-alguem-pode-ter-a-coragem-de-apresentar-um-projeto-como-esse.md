@@ -4,10 +4,10 @@ tags:
   - tag: DIEESE
   - tag: reforma-da-previdencia
   - tag: governo-temer
-title: "\"É muito difícil de compreender como alguém pode ter a coragem de apresentar um projeto como esse\""
+title: "Patrícia Pelatieri do Diesse analisa os impactos da Reforma da Previdência no campo "
 images_hd: //farm4.staticflickr.com/3859/33428434901_2368138c96_b.jpg
 menu: lutas e mobilizações
-support_line: "Patrícia Pelatieri, coordenadora de pesquisas do Dieese, explica em entrevista exclusiva os impactos do projeto de reforma da Previdência, proposto pelo governo de Michel Temer. "
+support_line: "\"Há uma condição muito diferenciada entre os trabalhadores do campo e da cidade, no que diz respeito à inserção no mercado de trabalho\""
 layout: post
 files:
   - link: //farm4.staticflickr.com/3859/33428434901_2368138c96_b.jpg
