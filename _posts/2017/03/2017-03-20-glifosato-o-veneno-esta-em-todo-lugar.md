@@ -26,6 +26,7 @@ releated_posts:
   - _posts/2016/11/2016-11-13-para-triplica-consumo-de-agrotoxicos-na-amazonia-soja-avanca-para-roraima.md
   - _posts/2016/10/2016-10-10-pesquisa-mostra-que-a-rejeicao-aos-agrotoxicos-ganhou-a-consciencia-da-populacao.md
   - _posts/2016/10/2016-10-17-anvisa-abre-consulta-publica-sobre-agrotoxicos-com-prazo-de-nove-dias.md
+label: articles
 
 ---
 <p>&nbsp;</p>
