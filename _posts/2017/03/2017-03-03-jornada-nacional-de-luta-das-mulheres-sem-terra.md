@@ -19,7 +19,7 @@ files:
     title: 8 de Março 2017.jpg
     $$hashKey: "036"
 created_date: "2017-03-03T16:07:58-03:00"
-published: true
+published: false
 releated_posts: []
 
 ---
