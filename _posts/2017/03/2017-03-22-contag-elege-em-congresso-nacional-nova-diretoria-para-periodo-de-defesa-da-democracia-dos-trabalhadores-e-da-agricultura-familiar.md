@@ -4,7 +4,7 @@ tags:
   - tag: CONTAG
   - tag: congresso
   - tag: lutas-e-mobilizações
-title: "Contag elege em congresso nacional nova diretoria para período de defesa da democracia, dos trabalhadores e da agricultura familiar\n"
+title: "Contag elege em congresso nacional nova diretoria "
 support_line: "12º Congresso defende a ampliação da participação de mulheres e jovens nos cargos de direção. A construção da unidade das organizações do campo também é destaque\n"
 images_hd: //farm3.staticflickr.com/2893/33460202761_879a696691_b.jpg
 menu: lutas e mobilizações
