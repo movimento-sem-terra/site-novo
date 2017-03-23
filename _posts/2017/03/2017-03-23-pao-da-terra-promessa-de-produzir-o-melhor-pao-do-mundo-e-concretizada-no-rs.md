@@ -217,9 +217,11 @@ Centro Universit&aacute;rio Metodista (Ipa) - &Agrave;s quintas-feiras, das 13h 
 
 <p>&nbsp;</p>
 
-<figure class="image" style="float:left"><img alt="Segundo Maria Inês, com os novos equipamentos, a cooperativa vai ter condições de produzir 1 mil quilos de alimentos por semana.jpg" height="200" src="//farm4.staticflickr.com/3845/33449008172_5e6443041b_b.jpg" width="300" />
+<figure class="image" style="float:left"><img alt="Segundo Maria Inês, com os novos equipamentos, a cooperativa vai ter condições de produzir 1 mil quilos de alimentos por semana.jpg" height="400" src="//farm4.staticflickr.com/3845/33449008172_5e6443041b_b.jpg" width="600" />
 <figcaption>Segundo Maria Inês, com os novos equipamentos, a cooperativa vai ter condições de produzir 1 mil quilos de alimentos por semana</figcaption>
 </figure>
+
+<p>&nbsp;</p>
 
 <p>Col&eacute;gio Jo&atilde;o XXIII - &Agrave;s quintas-feiras (a cada 15 dias), das 10h &agrave;s 18h30. (Rua Sep&eacute; Tiaraju, 1013 - Bairro Medianeira) quinta das 10 h a 18h30.</p>
 
