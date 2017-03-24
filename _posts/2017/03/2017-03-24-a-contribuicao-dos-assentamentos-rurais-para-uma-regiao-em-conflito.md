@@ -8,7 +8,7 @@ tags:
 title: A contribuição dos assentamentos rurais para uma região em conflito
 support_line: "Rio Bonito do Iguaçu, no Paraná, se desenvolveu a partir da chegada dos Sem Terra\n\n"
 menu: reforma agrária
-section: cover
+section: featured-news
 images_hd: //farm4.staticflickr.com/3920/33496100241_9bae58b76f_b.jpg
 layout: post
 files:
@@ -92,8 +92,7 @@ Na margem direita da rodovia, pr&oacute;ximo &agrave; encosta do rio, est&aacute
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="33167187380_4a5ffe68a1_o.jpg" height="474" src="//farm4.staticflickr.com/3894/33584477946_541a07f9b2_b.jpg" width="700" />
-<figcaption>(Cr&eacute;dito: Sebasti&atilde;o Salgado)<br />
-</figcaption>
+<figcaption>(Cr&eacute;dito: Sebasti&atilde;o Salgado)</figcaption>
 </figure>
 </div>
 
@@ -121,8 +120,7 @@ O vereador mais votado na &uacute;ltima elei&ccedil;&atilde;o no munic&iacute;pi
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="33550945465_5e99eb9494_o.jpg" height="467" src="//farm3.staticflickr.com/2822/33496102541_0fe760264c_b.jpg" width="700" />
-<figcaption>(Cr&eacute;dito: Wellington Lenon)<br />
-</figcaption>
+<figcaption>(Cr&eacute;dito: Wellington Lenon)</figcaption>
 </figure>
 </div>
 
@@ -155,8 +153,7 @@ Escolas, postos de sa&uacute;de, igrejas, centros comunit&aacute;rios. Conforme 
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="33509943186_e324d8aba6_o.jpg" height="394" src="//farm3.staticflickr.com/2845/32782678334_7edcbaab74_b.jpg" width="700" />
-<figcaption>(Cr&eacute;dito: Wellington Lenon)<br />
-</figcaption>
+<figcaption>(Cr&eacute;dito: Wellington Lenon)</figcaption>
 </figure>
 </div>
 
@@ -186,8 +183,7 @@ Em 1996, o MST definiu como estrat&eacute;gia pol&iacute;tica ocupar as terras g
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="32707301854_23756c9fa5_o.jpg" height="467" src="//farm1.staticflickr.com/593/33625255225_438d5e3409_b.jpg" width="700" />
-<figcaption>(Cr&eacute;dito: Wellington Lenon)<br />
-</figcaption>
+<figcaption>(Cr&eacute;dito: Wellington Lenon)</figcaption>
 </figure>
 </div>
 
@@ -213,7 +209,6 @@ N&atilde;o a paz concentrada dos latif&uacute;ndios, mas uma paz sublime como a 
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="33551001205_eb837d3c02_o.jpg" height="466" src="//farm1.staticflickr.com/732/32811382603_1c2c9d73b3_b.jpg" width="700" />
-<figcaption>(Cr&eacute;dito: Isabella Lanave)<br />
-</figcaption>
+<figcaption>(Cr&eacute;dito: Isabella Lanave)</figcaption>
 </figure>
 </div>
