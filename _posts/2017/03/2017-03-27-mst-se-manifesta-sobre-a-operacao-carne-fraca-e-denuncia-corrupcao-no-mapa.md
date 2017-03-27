@@ -21,7 +21,9 @@ files:
     $$hashKey: 04N
 created_date: "2017-03-27T10:45:00-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2016/09/2016-09-23-nota-do-mst-sobre-a-atual-conjuntura-politica.md
+  - _posts/2016/10/2016-10-06-derrotas-da-esquerda-o-que-2016-tem-a-nos-ensinar.md
 
 ---
 <p>&nbsp;</p>
