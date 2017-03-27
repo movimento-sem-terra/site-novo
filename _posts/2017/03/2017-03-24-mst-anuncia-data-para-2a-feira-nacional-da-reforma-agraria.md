@@ -8,7 +8,7 @@ title: MST anuncia data para 2ª Feira Nacional da Reforma Agrária
 images_hd: //farm1.staticflickr.com/672/33245787720_d759bdbac9_b.jpg
 support_line: "O Parque da Água Branca abrigará um conjunto de feiras, que integram a programação principal: alimentos saudáveis, literatura, culinária, artes e troca de mudas e sementes."
 menu: reforma agrária
-section: cover
+section: featured-news
 layout: post
 files:
   - link: //farm1.staticflickr.com/672/33245787720_d759bdbac9_b.jpg
