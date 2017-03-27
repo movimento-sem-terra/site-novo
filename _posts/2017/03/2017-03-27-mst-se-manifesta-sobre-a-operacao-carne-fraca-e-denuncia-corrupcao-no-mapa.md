@@ -1,5 +1,5 @@
 ---
-date: "2017-03-27T10:42:37-03:00"
+date: "2017-03-27T08:42:37-03:00"
 tags:
   - tag: nota
   - tag: operação-carne-fraca
