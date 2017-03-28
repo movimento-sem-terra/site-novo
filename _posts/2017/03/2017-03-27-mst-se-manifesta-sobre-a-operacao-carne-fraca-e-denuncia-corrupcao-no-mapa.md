@@ -9,7 +9,7 @@ title: "MST se manifesta sobre a Operação Carne Fraca e denuncia corrupção n
 images_hd: //farm4.staticflickr.com/3795/33297024120_8320c30f3f_b.jpg
 support_line: "\"Denunciamos o conluio entre a mídia e o governo golpista para escamotear o processo de corrupção entre as empresas do agronegócio e os fiscais do Ministério da Agricultura (MAPA).\""
 menu: agronegócio
-section: cover
+section: featured-news
 layout: post
 files:
   - link: //farm4.staticflickr.com/3795/33297024120_8320c30f3f_b.jpg
