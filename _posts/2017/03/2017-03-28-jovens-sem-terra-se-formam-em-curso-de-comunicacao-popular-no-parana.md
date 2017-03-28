@@ -19,7 +19,9 @@ files:
     $$hashKey: 05N
 created_date: "2017-03-28T15:36:09-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2016/10/2016-10-22-a-luta-pela-democratizacao-da-comunicacao-e-central-contra-o-golpe.md
+  - _posts/2017/03/2017-03-10-nosso-desafio-e-impulsionar-a-luta-pela-democratizacao-da-comunicacao.md
 
 ---
 <p>&nbsp;</p>
