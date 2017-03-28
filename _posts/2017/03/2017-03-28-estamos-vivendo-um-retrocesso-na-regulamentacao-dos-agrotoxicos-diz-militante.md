@@ -5,17 +5,17 @@ tags:
   - tag: lutas-e-mobilizações
 title: "“Estamos vivendo um retrocesso na regulamentação dos agrotóxicos”, diz militante\n"
 support_line: "Campanha pede aprovação pelo Congresso Nacional da Política Nacional de Redução de Agrotóxicos\n\n"
-images_hd: //farm4.staticflickr.com/3945/33545343912_c88270435e_b.jpg
+images_hd: //farm3.staticflickr.com/2927/33572875041_703d68f1de_b.jpg
 menu: lutas e mobilizações
 layout: post
 files:
-  - link: //farm4.staticflickr.com/3945/33545343912_c88270435e_b.jpg
-    original: //farm4.staticflickr.com/3945/33545343912_5a6cd8d9e8_o.jpg
-    thumbnail: //farm4.staticflickr.com/3945/33545343912_c88270435e_t.jpg
-    medium: //farm4.staticflickr.com/3945/33545343912_c88270435e_z.jpg
-    small: //farm4.staticflickr.com/3945/33545343912_c88270435e_n.jpg
-    title: 33457974181_c0b06bfaaf_z.jpg
-    $$hashKey: 0CB
+  - link: //farm3.staticflickr.com/2927/33572875041_703d68f1de_b.jpg
+    original: //farm3.staticflickr.com/2927/33572875041_331f018e34_o.jpg
+    thumbnail: //farm3.staticflickr.com/2927/33572875041_703d68f1de_t.jpg
+    medium: //farm3.staticflickr.com/2927/33572875041_703d68f1de_z.jpg
+    small: //farm3.staticflickr.com/2927/33572875041_703d68f1de_n.jpg
+    title: 32844794734_8f9a7f87d9_z.jpg
+    $$hashKey: 0V6
 created_date: "2017-03-28T12:05:58-03:00"
 published: true
 releated_posts:
