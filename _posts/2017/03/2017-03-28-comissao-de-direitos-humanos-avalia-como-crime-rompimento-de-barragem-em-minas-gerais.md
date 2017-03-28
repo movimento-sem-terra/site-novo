@@ -4,7 +4,7 @@ tags:
   - tag: vale
   - tag: violação-de-direitos
   - tag: minas-gerais
-title: Comissão de Direitos Humanos avalia como crime rompimento de barragem em Minas Gerais
+title: Comissão de Direitos Humanos avalia como crime rompimento de barragem em MG
 support_line: "Além do reconhecimento de ação criminosa por parte da Samarco (Vale/BHP), Comissão da Câmara dos Deputados verificou diversas violações de direitos humanos ao longo da bacia do rio Doce."
 menu: meio ambiente
 images_hd: //farm4.staticflickr.com/3767/33663688196_fe29a66d30_b.jpg
