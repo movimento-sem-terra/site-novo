@@ -4,7 +4,7 @@ tags:
   - tag: frente-brasil-popular
   - tag: frente-povo-sem-medo
   - tag: greve
-title: Frentes se unem às centrais sindicais e fortalecem a greve do dia 28 de abril
+title: Frentes se unem às centrais sindicais e fortalecem a greve geral do 28 de abril
 support_line: O povo brasileiro demonstrou nos dias 08 e 15 de março que haverá muita luta e mobilização contra as medidas do Governo Golpista.
 menu: lutas e mobilizações
 section: cover
