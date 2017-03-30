@@ -65,7 +65,7 @@ Antes mesmo de ser registrado o uso por primeira vez de agrot&oacute;xicos nas l
 Com a mudan&ccedil;a de governo em 2016, depois do golpe de estado contra a presidenta Dilma Rousseff, a situa&ccedil;&atilde;o s&oacute; se agravou. &ldquo;No governo Dilma este processo j&aacute; ocorria, mas de forma lenta, porque avan&ccedil;ava contra a vontade de boa parte dos agentes de governo. Havia uma maior possibilidade de influ&ecirc;ncia das organiza&ccedil;&otilde;es sociais, dos conselhos, das comiss&otilde;es com representa&ccedil;&atilde;o da sociedade organizada&rdquo;, destaca o engenheiro agr&ocirc;nomo, Leonardo Melgarejo.</p>
 
 <figure class="image" style="float:left"><img alt="29_01_Leonardo-Melhgarejo_presidente-da-Agapan_foto_MST.jpg" height="233" src="//farm4.staticflickr.com/3927/33704454006_39b52ffe39_b.jpg" width="350" />
-<figcaption><em>Leonardo Melgarejo</em></figcaption>
+<figcaption><em>Leonardo Melgarejo, engenheiro agr&ocirc;nomo</em></figcaption>
 </figure>
 
 <p><br />
