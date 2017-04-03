@@ -5,7 +5,7 @@ tags:
   - tag: frente-povo-sem-medo
   - tag: lutas-e-mobilizações
 title: Milhares vão às ruas em todo Brasil anunciando a greve geral
-support_line: Greve Geral de 28 de abril ganha força nas mobilizações do 31M
+support_line: Greve Geral de 28 de abril ganha força nas mobilizações do 31M.
 menu: lutas e mobilizações
 images_hd: //farm1.staticflickr.com/673/33692092251_c6e919a4a8_b.jpg
 section: cover
