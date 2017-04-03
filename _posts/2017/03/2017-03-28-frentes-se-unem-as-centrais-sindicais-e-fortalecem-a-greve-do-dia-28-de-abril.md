@@ -7,7 +7,7 @@ tags:
 title: Frentes se unem às centrais sindicais e fortalecem a greve geral do 28 de abril
 support_line: O povo brasileiro demonstrou nos dias 08 e 15 de março que haverá muita luta e mobilização contra as medidas do Governo Golpista.
 menu: lutas e mobilizações
-section: cover
+section: featured-news
 images_hd: //farm3.staticflickr.com/2832/33322722790_8fe4a61fb6_b.jpg
 layout: post
 files:
