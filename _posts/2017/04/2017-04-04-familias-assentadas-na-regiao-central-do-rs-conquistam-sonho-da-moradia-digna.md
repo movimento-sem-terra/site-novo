@@ -18,6 +18,20 @@ files:
     small: //farm4.staticflickr.com/3938/33684497162_c635f28e73_n.jpg
     title: Casas inauguradas tiveram seus projetos contratados em novembro de 2014.jpg
     $$hashKey: 02P
+  - link: //farm4.staticflickr.com/3778/33027155553_25be224a0b_b.jpg
+    original: //farm4.staticflickr.com/3778/33027155553_c50b01fe5e_o.jpg
+    thumbnail: //farm4.staticflickr.com/3778/33027155553_25be224a0b_t.jpg
+    medium: //farm4.staticflickr.com/3778/33027155553_25be224a0b_z.jpg
+    small: //farm4.staticflickr.com/3778/33027155553_25be224a0b_n.jpg
+    title: Inauguração simbólica das 23 unidades habitacionais foi realizada em frente à casa de dona Inês.jpg
+    $$hashKey: 0DZ
+  - link: //farm4.staticflickr.com/3736/33027168213_7e3a7cf506_b.jpg
+    original: //farm4.staticflickr.com/3736/33027168213_9f3bd29a96_o.jpg
+    thumbnail: //farm4.staticflickr.com/3736/33027168213_7e3a7cf506_t.jpg
+    medium: //farm4.staticflickr.com/3736/33027168213_7e3a7cf506_z.jpg
+    small: //farm4.staticflickr.com/3736/33027168213_7e3a7cf506_n.jpg
+    title: "Dona Inês Guerreiro Pegoraro morou 24 anos num galpão, antes de conquistar moradia própria.jpg"
+    $$hashKey: 0E2
 created_date: "2017-04-04T14:57:22-03:00"
 published: true
 releated_posts:
@@ -46,6 +60,11 @@ Os dias mais frios do ano - de junho a setembro - no centro do territ&oacute;rio
 <p><br />
 &ldquo;Quando vim para c&aacute; com meus filhos, num m&ecirc;s de julho, ficamos numa casinha cheia de frestas. Lembro que caiu um chuv&atilde;o e tentamos tapar as coisas e as crian&ccedil;as com panos, porque al&eacute;m da chuva fazia muito frio, mas molhou tudo. Depois de algum tempo fomos morar num galp&atilde;o que meu marido construiu. Inicialmente, divid&iacute;amos o espa&ccedil;o com as m&aacute;quinas de trabalho do nosso grupo de produ&ccedil;&atilde;o. A&iacute; logo veio outra tormenta de pedras que danificou todo o telhado. Dali para frente foi cada vez pior, ao longo dos anos perdemos muitas coisas e passamos muito frio devido &agrave;s condi&ccedil;&otilde;es prec&aacute;rias&rdquo;, recorda a assentada.</p>
 
+<figure class="image" style="float:right"><img alt="Dona Inês Guerreiro Pegoraro morou 24 anos num galpão, antes de conquistar moradia própria.jpg" height="233" src="//farm4.staticflickr.com/3736/33027168213_7e3a7cf506_b.jpg" width="350" />
+<figcaption>Dona Inês Guerreiro Pegoraro morou 24 anos num<br />
+galpão, antes de conquistar moradia própria.</figcaption>
+</figure>
+
 <p><br />
 Este ac&uacute;mulo de problemas em rela&ccedil;&atilde;o &agrave; habita&ccedil;&atilde;o foi revertido em esperan&ccedil;a de dias melhores n&atilde;o apenas para a fam&iacute;lia de dona In&ecirc;s, mas tamb&eacute;m para outras 22 que vivem em comunidades de quatro assentamentos de Tupanciret&atilde; - Nova Tup&atilde;, Invernada, Nova Am&eacute;rica e Nossa Senhora Aparecida - e que em novembro de 2014 tiveram seus projetos contratados via PNHR. As obras foram conclu&iacute;das este ano, num investimento total de R$ 34 mil cada unidade habitacional, sendo R$ 4,5 mil de contrapartida do ent&atilde;o governo Tarso Genro.</p>
 
@@ -69,6 +88,12 @@ Cidade destaca ainda a import&acirc;ncia dos 17 assentamentos existentes em Tupa
 
 <p><br />
 <strong>Novas demandas</strong></p>
+
+<p>&nbsp;</p>
+
+<figure class="image"><img alt="Inauguração simbólica das 23 unidades habitacionais foi realizada em frente à casa de dona Inês.jpg" height="392" src="//farm4.staticflickr.com/3778/33027155553_25be224a0b_b.jpg" width="600" />
+<figcaption>Inauguração simbólica das unidades habitacionais foi realizada em frente à casa de dona Inês.</figcaption>
+</figure>
 
 <p><br />
 Somente no RS, em &aacute;reas da Reforma Agr&aacute;ria, h&aacute; a demanda de 6 mil casas para serem reformadas e 650 para serem constru&iacute;das. Por&eacute;m, com o corte de recursos e as novas regras impostas pelo governo Michel Temer (PMDB) para o programa nacional de habita&ccedil;&atilde;o, o tempo de espera dos Sem Terra para acessar essa pol&iacute;tica p&uacute;blica pode ser tornar ainda mais demorado.</p>
