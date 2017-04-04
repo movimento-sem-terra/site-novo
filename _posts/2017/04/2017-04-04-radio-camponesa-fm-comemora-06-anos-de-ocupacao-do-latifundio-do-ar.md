@@ -4,7 +4,7 @@ tags:
   - tag: ceará
   - tag: comunicação-popular
   - tag: democratização-da-comunicação
-title: Rádio Camponesa FM comemora 06 anos de ocupação do latifúndio do ar
+title: Rádio Camponesa FM comemora seis anos de ocupação do latifúndio do ar
 images_hd: //farm4.staticflickr.com/3847/32993880384_f9af6d1a76_b.jpg
 section: featured-news
 menu: "educação, cultura e comunicação"
