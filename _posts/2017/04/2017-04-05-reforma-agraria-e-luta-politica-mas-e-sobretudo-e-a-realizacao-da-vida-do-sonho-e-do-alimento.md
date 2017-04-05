@@ -9,7 +9,7 @@ images_hd: //farm4.staticflickr.com/3676/33016075934_a092f904a1_b.jpg
 menu: reforma agrária
 section: null
 label: interviews
-title: "Reforma Agrária é luta política, mas é sobretudo é a realização da vida, do sonho, e do alimento"
+title: "Reforma Agrária é luta política, mas também a realização da vida, do sonho, e do alimento"
 layout: post
 files:
   - link: //farm4.staticflickr.com/3676/33016075934_a092f904a1_b.jpg
