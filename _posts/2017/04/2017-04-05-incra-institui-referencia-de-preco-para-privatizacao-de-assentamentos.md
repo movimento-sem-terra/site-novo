@@ -49,7 +49,10 @@ Ainda de acordo com a autarquia federal, a defini&ccedil;&atilde;o de valores de
 A tabela de refer&ecirc;ncia de pre&ccedil;os comp&otilde;e o Relat&oacute;rio da An&aacute;lise do Custo de Obten&ccedil;&atilde;o de Im&oacute;veis Rurais, documento este elaborado pela Casa Civil, &oacute;rg&atilde;o ao qual o Incra est&aacute; submetido desde a extin&ccedil;&atilde;o do Minist&eacute;rio do Desenvolvimento Agr&aacute;rio (MDA) em 30 de maio, durante o governo interino de Michel Temer.</p>
 
 <p><br />
-A Casa Civil, sob administra&ccedil;&atilde;o de Eliseu Padilha (PMDB), tamb&eacute;m responde pela administra&ccedil;&atilde;o das cinco secretarias ligadas &agrave; Reforma Agr&aacute;ria, antes alojadas no MDA. De acordo com o Relat&oacute;rio da An&aacute;lise do Custo de Obten&ccedil;&atilde;o de Im&oacute;veis Rurais (<a href="http://www.incra.gov.br/sites/default/files/port_incra_p_199.pdf">acesse aqui</a>), a planilha vinha sendo gestada h&aacute; mais de 6 meses &ndash; per&iacute;odo coincidente com o deslocamento da pol&iacute;tica agr&aacute;ria para a Casa Civil.</p>
+A Casa Civil, sob administra&ccedil;&atilde;o de Eliseu Padilha (PMDB), tamb&eacute;m responde pela administra&ccedil;&atilde;o das cinco secretarias ligadas &agrave; Reforma Agr&aacute;ria, antes alojadas no MDA. De acordo com o Relat&oacute;rio da An&aacute;lise do Custo de Obten&ccedil;&atilde;o de Im&oacute;veis Rurais (acesse abaixo), a planilha vinha sendo gestada h&aacute; mais de 6 meses &ndash; per&iacute;odo coincidente com o deslocamento da pol&iacute;tica agr&aacute;ria para a Casa Civil.</p>
+
+<p><br />
+<a href="http://www.incra.gov.br/sites/default/files/port_incra_p_199.pdf">&gt;&gt; Acesse aqui a tabela de pre&ccedil;os estabelecida pelo Incra, Anexos do Relat&oacute;rio da An&aacute;lise do Custo de Obten&ccedil;&atilde;o de Im&oacute;veis Rurais &lt;&lt;</a></p>
 
 <p><br />
 Os valores da terra s&atilde;o definidos a partir de crit&eacute;rios regionais. De acordo com o Relat&oacute;rio, este par&acirc;metro considera &ldquo;a din&acirc;mica geogr&aacute;fica tra&ccedil;ada pela produ&ccedil;&atilde;o agroindustrial, os fluxos e as fun&ccedil;&otilde;es das cidades e dos campos, relativizado tamb&eacute;m os grandes centros consumidores e produtores de insumos&rdquo;, destaca o documento.</p>
