@@ -7,7 +7,7 @@ tags:
 support_line: "“Nossos alimentos são para alimentar a vida e não a morte”, afirma Antônia Ivaneide, a Neném, do setor de produção do MST"
 images_hd: //farm4.staticflickr.com/3676/33016075934_a092f904a1_b.jpg
 menu: reforma agrária
-section: null
+section: cover
 label: interviews
 title: "Reforma Agrária é luta política, mas também a realização da vida, do sonho e do alimento"
 layout: post
