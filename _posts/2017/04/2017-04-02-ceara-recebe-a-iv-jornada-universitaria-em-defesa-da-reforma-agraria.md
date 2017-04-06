@@ -33,7 +33,11 @@ releated_posts:
   - _posts/2017/02/2017-02-24-sem-terra-formam-se-na-universidade-estadual-de-maringa.md
 
 ---
-<p>&nbsp;</p>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="DSC09295.JPG" height="393" src="//farm1.staticflickr.com/768/33746967161_f39ec842af_b.jpg" width="700" />
+<figcaption></figcaption>
+</figure>
+</div>
 
 <p><em>Da P&aacute;gina do MST&nbsp;</em></p>
 
