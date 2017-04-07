@@ -4,7 +4,7 @@ tags:
   - tag: feira-da-reforma-agrária
   - tag: distrito-federal
   - tag: alimentos-saudáveis
-title: Formosa de Goiás recebe o I Circuito de Feiras e Mostras Culturais da Reforma Agrária do DFE
+title: Formosa de Goiás recebe Circuito de Feiras e Mostras Culturais da Reforma Agrária do DFE
 support_line: "O circuito, que teve sua primeira etapa em Planaltina, no Distrito Federal, agora ocupa o Goiás trazendo diálogo entre os Sem Terra e moradores da região."
 images_hd: //farm4.staticflickr.com/3703/33855227316_9d8e7565fd_b.jpg
 section: featured-news
@@ -88,7 +88,7 @@ Ao todo, aproximadamente 30 assentamentos e acampamentos est&atilde;o participan
 no Vale da Esperan&ccedil;a em Formosa.</figcaption>
 </figure>
 
-<p>De acordo com Augusto, dirigente estadual do MST no DFE e assentado no Vale da Esperan&ccedil;a em Formosa, &ldquo;a feira &eacute; importante pois aproxima das pessoas a realidade da Reforma Agr&aacute;ria e mostra para a sociedade que o MST &eacute; o oposto do que a grande m&iacute;dia coloca. Afirmam que os assentados n&atilde;o produzem e que a Reforma Agr&aacute;ria n&atilde;o d&aacute; certo pois n&atilde;o h&aacute; produ&ccedil;&atilde;o. A feira est&aacute; aqui para mostrar o contr&aacute;rio!&rdquo;</p>
+<p>De acordo com Augusto Targino, dirigente estadual do MST no DFE e assentado no Vale da Esperan&ccedil;a em Formosa, &ldquo;a feira &eacute; importante pois aproxima das pessoas a realidade da Reforma Agr&aacute;ria e mostra para a sociedade que o MST &eacute; o oposto do que a grande m&iacute;dia coloca. Afirmam que os assentados n&atilde;o produzem e que a Reforma Agr&aacute;ria n&atilde;o d&aacute; certo pois n&atilde;o h&aacute; produ&ccedil;&atilde;o. A feira est&aacute; aqui para mostrar o contr&aacute;rio!&rdquo;</p>
 
 <p><br />
 Ainda segundo Augusto, 85% do alimento consumido na cidade de Formosa, que tem 115 mil habitantes, vem da pequena agricultura e dos assentamentos.</p>
