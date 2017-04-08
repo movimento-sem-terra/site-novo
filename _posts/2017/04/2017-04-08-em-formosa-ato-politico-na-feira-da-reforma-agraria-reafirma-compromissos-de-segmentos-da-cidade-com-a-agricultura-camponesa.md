@@ -4,8 +4,8 @@ tags:
   - tag: distrito-federal
   - tag: feira-da-reforma-agrária
   - tag: reforma-agrária
-title: "Em Formosa, ato político na Feira da Reforma Agrária reafirma compromissos de segmentos da cidade com a agricultura camponesa"
-support_line: "“Esse ato político demarca a necessidade urgente da Reforma Agrária no Brasil e fortalece os assentamentos e acampamentos”, disse dirigente nacional do MST."
+title: "Em Formosa-GO, ato político reafirma compromissos com a agricultura camponesa"
+support_line: Segmentos do campo e da cidade demarca a necessidade urgente da Reforma Agrária no Brasil e fortalecem os assentamentos e acampamentos.
 menu: reforma agrária
 images_hd: //farm3.staticflickr.com/2837/33916143085_1bd4035831_b.jpg
 layout: post
