@@ -38,6 +38,7 @@ releated_posts:
   - _posts/2017/03/2017-03-15-mst-promove-14a-abertura-oficial-da-colheita-do-arroz-agroecologico-no-rs.md
   - _posts/2017/03/2017-03-01-militantes-do-mst-no-rj-visitam-escola-popular-egidio-brunetto-da-bahia.md
   - _posts/2016/12/2016-12-05-cooperativas-do-mst-estruturam-comercializacao-de-seus-alimentos-no-rs.md
+label: interviews
 
 ---
 <div style="text-align:center">
