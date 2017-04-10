@@ -1,5 +1,5 @@
 ---
-date: "2017-04-02T12:12:40-03:00"
+date: "2017-04-03T12:12:40-03:00"
 tags:
   - tag: jura
   - tag: jornada-universitária
@@ -24,6 +24,13 @@ files:
     small: //farm1.staticflickr.com/768/33746967161_f39ec842af_n.jpg
     title: DSC09295.JPG
     $$hashKey: 08C
+  - link: //farm3.staticflickr.com/2844/33955963775_e48388fb75_b.jpg
+    original: //farm3.staticflickr.com/2844/33955963775_78ddaf22cf_o.jpg
+    thumbnail: //farm3.staticflickr.com/2844/33955963775_e48388fb75_t.jpg
+    medium: //farm3.staticflickr.com/2844/33955963775_e48388fb75_z.jpg
+    small: //farm3.staticflickr.com/2844/33955963775_e48388fb75_n.jpg
+    title: DSC09299.JPG
+    $$hashKey: 0B7
 created_date: "2017-04-06T12:30:12-03:00"
 published: true
 releated_posts:
@@ -42,7 +49,7 @@ releated_posts:
 <p><em>Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
-Na &uacute;ltima segunda-feira (3), foi realizada a abertura da IV Jornada Universit&aacute;ria em Defesa da Reforma Agr&aacute;ria, no audit&oacute;rio central da Universidade Estadual do Cear&aacute; (UECE).</p>
+Nessa&nbsp;segunda-feira (3), foi realizada a abertura da IV Jornada Universit&aacute;ria em Defesa da Reforma Agr&aacute;ria, no audit&oacute;rio central da Universidade Estadual do Cear&aacute; (UECE).</p>
 
 <p><br />
 A confer&ecirc;ncia teve como tema &ldquo;Via Campesina e a luta pela Reforma Agr&aacute;ria na Am&eacute;rica Latina&rdquo; com o professor Peter Rosset (militante da Via Campesina Internacional e professor do Colegio de la Frontera Sur - Ecosur M&eacute;xico), Doutor em Agroecologia e pesquisador visitante do PPGS/ UECE.</p>
