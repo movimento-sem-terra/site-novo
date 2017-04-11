@@ -28,4 +28,4 @@ releated_posts:
   - _posts/2017/04/2017-04-03-no-maranhao-trabalhadores-rurais-acampados-sao-perseguidos-pela-empresa-suzano.md
 
 ---
-<p></p>
+<p>&lt;iframe width=&quot;100%&quot; height=&quot;450&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/317189397&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;visual=true&quot;&gt;&lt;/iframe&gt;</p>
