@@ -62,7 +62,7 @@ Da M&iacute;dia Ninja</em></p>
 
 <p>&nbsp;</p>
 
-<p>Dando continuidade &agrave; segunda etapa do I Circuito de Feiras e Mostras Culturais da Reforma Agr&aacute;ria, neste s&aacute;bado (8) trabalhadores rurais, moradores da regi&atilde;o e convidados, em meio a artesanatos, alimentos livres de veneno e comidas t&iacute;picas, debateram sobre alimenta&ccedil;&atilde;o saud&aacute;vel e agroecologia.</p>
+<p>Dando continuidade &agrave; segunda etapa do I Circuito de Feiras e Mostras Culturais da Reforma Agr&aacute;ria, realizado no Distrito Federal e Entorno,&nbsp;neste s&aacute;bado (8), trabalhadores rurais, moradores da regi&atilde;o e convidados, em meio a artesanatos, alimentos livres de veneno e comidas t&iacute;picas, debateram sobre alimenta&ccedil;&atilde;o saud&aacute;vel e agroecologia.</p>
 
 <p><br />
 Pela manh&atilde;, em roda de conversa, foi discutida como alternativa &agrave; alimenta&ccedil;&atilde;o saud&aacute;vel e livre de veneno uma nova rela&ccedil;&atilde;o entre agricultores e consumidores, trazendo experi&ecirc;ncias de Comunidades que Sustentam a Agricultura (CSA).</p>
@@ -81,7 +81,7 @@ Com o projeto, os agricultores entregam uma vez por semana os alimentos diretame
 
 <p>&nbsp;</p>
 
-<p><img alt="photo_2017-04-08_15-31-11.jpg" height="400" src="//farm3.staticflickr.com/2941/33124375793_0d09a61b0b_b.jpg" width="600" /></p>
+<p style="text-align:center"><img alt="photo_2017-04-08_15-31-11.jpg" height="400" src="//farm3.staticflickr.com/2941/33124375793_0d09a61b0b_b.jpg" width="600" /></p>
 
 <p><br />
 Ap&oacute;s exibi&ccedil;&atilde;o do Filme &ldquo;O veneno est&aacute; na mesa&rdquo;, foi realizado mais um debate. Na ocasi&atilde;o, F&aacute;bio Miranda, da Campanha Permanente contra Agrot&oacute;xicos e Pela Vida, disse que parcela consider&aacute;vel do pre&ccedil;o embutido nos alimentos fica na m&atilde;o dos intermedi&aacute;rios. &ldquo;H&aacute; pesquisas comprovando que por conta do atravessador os alimentos org&acirc;nicos s&atilde;o aumentados em at&eacute; 600% ap&oacute;s sair das m&atilde;os do agricultor&rdquo;, pontuou.</p>
@@ -100,7 +100,7 @@ Na agroecologia, a grande parte dos recursos acaba diretamente nas m&atilde;os d
 
 <p>&nbsp;</p>
 
-<p><img alt="photo_2017-04-08_20-18-59.jpg" height="400" src="//farm4.staticflickr.com/3816/33896268096_270d00aaba_b.jpg" width="600" /></p>
+<p style="text-align:center"><img alt="photo_2017-04-08_20-18-59.jpg" height="400" src="//farm4.staticflickr.com/3816/33896268096_270d00aaba_b.jpg" width="600" /></p>
 
 <p><br />
 Para B&aacute;rbara Loureiro, do Setor de Produ&ccedil;&atilde;o do MST, a agroecologia prop&otilde;e uma outra rela&ccedil;&atilde;o do ser humano com a natureza, diretamente ligada ao modelo da Reforma Agr&aacute;ria Popular, que defende a democratiza&ccedil;&atilde;o do acesso &agrave; terra e a produ&ccedil;&atilde;o de alimentos em quantidade e com qualidade suficientes para garantir uma vida digna &agrave; popula&ccedil;&atilde;o brasileira.</p>
