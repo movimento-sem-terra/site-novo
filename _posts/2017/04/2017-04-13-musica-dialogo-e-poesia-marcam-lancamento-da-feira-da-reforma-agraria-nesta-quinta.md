@@ -20,7 +20,6 @@ files:
 created_date: "2017-04-13T15:53:40-03:00"
 published: true
 releated_posts:
-  - _posts/2017/03/2017-03-24-mst-anuncia-data-para-2a-feira-nacional-da-reforma-agraria.md
   - _posts/2017/04/2017-04-07-formosa-de-goias-recebe-o-i-circuito-de-feiras-e-mostras-culturais-da-reforma-agraria-do-dfe.md
   - _posts/2017/03/2017-03-27-as-feiras-sao-resultado-de-um-processo-organizativo-do-mst-e-um-traco-muito-forte-da-cultura-do-nosso-povo.md
 
@@ -37,7 +36,6 @@ releated_posts:
 Do Brasil de Fato</em>&nbsp;</p>
 
 <p><br />
-Segunda edi&ccedil;&atilde;o da feira contar&aacute; com mais de 600 feirantes de todas as regi&otilde;es e estados brasileiros / MST<br />
 A data da 2&ordm; Feira da Reforma Agr&aacute;ria em S&atilde;o Paulo (SP) se aproxima. Para o <a href="https://www.facebook.com/events/1258820754186440/">lan&ccedil;amento</a> da segunda edi&ccedil;&atilde;o do encontro, que reunir&aacute; feirantes de todas as localidades brasileiras e suas produ&ccedil;&otilde;es no in&iacute;cio de maio, o Movimento dos Trabalhadores Rurais Sem Terra (MST) organiza um ato pol&iacute;tico-cultural com m&uacute;sica e poesia para esta quinta-feira (13), &agrave;s 19h, no Armaz&eacute;m do Campo, no centro de S&atilde;o Paulo.</p>
 
 <p><br />
