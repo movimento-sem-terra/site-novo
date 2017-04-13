@@ -25,7 +25,7 @@ files:
     title: AndrésPasquis-11-e1490752267849.jpg
     $$hashKey: 0FF
 created_date: "2017-04-12T12:49:01-03:00"
-published: true
+published: false
 releated_posts:
   - _posts/2016/09/2016-09-27-apos-dez-anos-de-luta-45-familias-sao-assentadas-no-sudeste-goiano.md
   - _posts/2016/10/2016-10-28-sem-terra-comemoram-a-demarcacao-de-agrovilas-agroecologicas-no-sul-da-bahia.md
