@@ -162,8 +162,11 @@ Segundo a presidente do Conselho, as retomadas representam a situa&ccedil;&atild
 <p><br />
 Os Guarani Kaiow&aacute; tamb&eacute;m relataram &agrave; comitiva persegui&ccedil;&otilde;es e inseguran&ccedil;a constante em meio &agrave;s fazendas, onde veem seu direito de ir e vir prejudicado. Para o Consea, Mato Grosso do Sul representa um ambiente racista para os &iacute;ndios. O racismo denunciado pelos &iacute;ndios &eacute; ilustrado por situa&ccedil;&otilde;es humilhantes: dificuldade de arrumar emprego, ou de serem atendidos pelos postos de sa&uacute;de; e at&eacute; a dificuldade de conseguirem atestados quando est&atilde;o doentes.</p>
 
+<figure class="image" style="float:right"><img alt="consea-ameaças.jpg" height="110" src="//farm3.staticflickr.com/2859/34018476465_780b5d7773_b.jpg" width="350" />
+<figcaption><em>(Reprodu&ccedil;&atilde;o/ Consea)</em></figcaption>
+</figure>
+
 <p><br />
-(Reprodu&ccedil;&atilde;o: Consea)<br />
 Em uma das aldeias visitadas, o grupo ouviu um relato de racismo institucional no ambiente escolar. Um &nbsp;diretor de escola teria humilhado publicamente estudantes do ensino m&eacute;dio, chamando-os de &ldquo;&iacute;ndios fedidos&rdquo;. At&eacute; os funcion&aacute;rios da Sesai destacaram total inseguran&ccedil;a ao visitarem as retomadas. Isso porque, conforme o relat&oacute;rio, s&atilde;o amea&ccedil;ados por seguran&ccedil;as contratados pelos fazendeiros.</p>
 
 <p><br />
@@ -188,7 +191,11 @@ Antes, Apyka&rsquo;i era composta por nove fam&iacute;lias que ocupavam parte da
 O Consea reuniu-se em setembro com dois ju&iacute;zes federais em Mato Grosso do Sul, Mois&eacute;s Anderson da Silva e F&aacute;bio Kaiut Nunes. Segundo o Conselho, os magistrados representam parcialidade e defesa da propriedade privada. O relat&oacute;rio destaca o trabalho do magistrado F&aacute;bio Kaiut, juiz substituto da 1&ordf; Vara Federal de Dourados:</p>
 
 <p><br />
-<strong>&ndash; O entendimento jur&iacute;dico amplamente adotado nas decis&otilde;es da Comarca de Dourados, inclusive nas liminares concedidas, tem sido pautado preponderantemente na defesa do direito &agrave; propriedade privada, que &eacute; considerado um instituto jur&iacute;dico leg&iacute;timo. Segundo os ju&iacute;zes federais, o Estado brasileiro concedeu os t&iacute;tulos de posse da terra aos propriet&aacute;rios atuais. Na perspectiva da 1&ordf; Vara, a revis&atilde;o dessa titularidade em favor dos povos ind&iacute;genas Guarani e Kaiow&aacute; feriria o princ&iacute;pio da seguran&ccedil;a jur&iacute;dica, pois anularia atos jur&iacute;dicos.</strong></p>
+<em>&ndash; O entendimento jur&iacute;dico amplamente adotado nas decis&otilde;es da Comarca de Dourados, inclusive nas liminares concedidas, tem sido pautado preponderantemente na defesa do direito &agrave; propriedade privada, que &eacute; considerado um instituto jur&iacute;dico leg&iacute;timo. Segundo os ju&iacute;zes federais, o Estado brasileiro concedeu os t&iacute;tulos de posse da terra aos propriet&aacute;rios atuais. Na perspectiva da 1&ordf; Vara, a revis&atilde;o dessa titularidade em favor dos povos ind&iacute;genas Guarani e Kaiow&aacute; feriria o princ&iacute;pio da seguran&ccedil;a jur&iacute;dica, pois anularia atos jur&iacute;dicos.</em></p>
+
+<figure class="image" style="float:left"><img alt="consea-juizes.jpg" height="217" src="//farm4.staticflickr.com/3946/34018477555_a1777cde59_b.jpg" width="400" />
+<figcaption><em>(Reprodu&ccedil;&atilde;o/ Consea)</em></figcaption>
+</figure>
 
 <p><br />
 Os ju&iacute;zes relataram ao grupo que as propriedades rurais incidentes nas terras reivindicadas s&atilde;o de &ldquo;agricultores de pequeno porte, que teriam cerca de 30 hectares de terra por t&iacute;tulo de posse&rdquo;. &ldquo;De acordo com essa linha de interpreta&ccedil;&atilde;o jur&iacute;dica&rdquo;, observa o relat&oacute;rio, &ldquo;ocorre no Mato Grosso do Sul um conflito entre pequenos agricultores, cujos direitos s&atilde;o considerados leg&iacute;timos, e ind&iacute;genas, que atuam de forma ilegal ao invadir essas &lsquo;pequenas&rsquo; propriedades privadas&rdquo;.</p>
@@ -227,8 +234,7 @@ Para o Consea, a Subsecretaria de Pol&iacute;ticas P&uacute;blicas para a Popula
 A comitiva tamb&eacute;m visitou espa&ccedil;os da sa&uacute;de ind&iacute;gena, como a Casa de Apoio &agrave; Sa&uacute;de Ind&iacute;gena (Casai), onde constatou situa&ccedil;&atilde;o de vulnerabilidade de rec&eacute;m nascidos:</p>
 
 <p><br />
-<br />
-&ndash; Crian&ccedil;as com baixo peso ao nascer devem receber aten&ccedil;&atilde;o &agrave; sa&uacute;de por profissionais especializados(as), em locais estruturados para o tipo de cuidado necess&aacute;rio. &nbsp;N&atilde;o foi o que a comitiva observou e ouviu durante a visita &agrave; Casai, demonstrando uma conduta omissa da sa&uacute;de do munic&iacute;pio, onde um prematuro (nascido com menos de 39 semanas) de baixo peso (menor que 2.500 kg) 45 foi entregue &agrave; Casai com sua m&atilde;e adolescente e inexperiente, local sem a menor estrutura para o cuidado de neonatos e pu&eacute;rperas.</p>
+<em>&ndash; Crian&ccedil;as com baixo peso ao nascer devem receber aten&ccedil;&atilde;o &agrave; sa&uacute;de por profissionais especializados(as), em locais estruturados para o tipo de cuidado necess&aacute;rio. &nbsp;N&atilde;o foi o que a comitiva observou e ouviu durante a visita &agrave; Casai, demonstrando uma conduta omissa da sa&uacute;de do munic&iacute;pio, onde um prematuro (nascido com menos de 39 semanas) de baixo peso (menor que 2.500 kg) 45 foi entregue &agrave; Casai com sua m&atilde;e adolescente e inexperiente, local sem a menor estrutura para o cuidado de neonatos e pu&eacute;rperas.</em></p>
 
 <p><br />
 Conclus&atilde;o do Consea: uma trag&eacute;dia humanit&aacute;ria.</p>
