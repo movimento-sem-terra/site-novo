@@ -66,6 +66,13 @@ files:
     small: //farm4.staticflickr.com/3841/33977502166_ac8b771085_n.jpg
     title: consea-foto03.jpg
     $$hashKey: 06F
+  - link: //farm3.staticflickr.com/2837/33633370760_909a5936d7_b.jpg
+    original: //farm3.staticflickr.com/2837/33633370760_695bfc43c9_o.jpg
+    thumbnail: //farm3.staticflickr.com/2837/33633370760_909a5936d7_t.jpg
+    medium: //farm3.staticflickr.com/2837/33633370760_909a5936d7_z.jpg
+    small: //farm3.staticflickr.com/2837/33633370760_909a5936d7_n.jpg
+    title: consea-mapa-300x266.jpg
+    $$hashKey: 0BD
 created_date: "2017-04-13T16:59:07-03:00"
 published: true
 releated_posts:
@@ -101,8 +108,11 @@ Intitulado &lsquo;Tekoha: Direitos dos Povos Guarani e Kaiow&aacute;&ldquo;, o r
 <p><br />
 A presidente do Consea, Maria Em&iacute;lia Lisboa Pacheco, destacou a tradicionalidade da terra para os Guarani Kaiow&aacute;. A necessidade que eles t&ecirc;m de matas, com frutos para coleta, plantas medicinais, &aacute;reas para plantio da ro&ccedil;a familiar ou coletiva. Cultura que eles est&atilde;o sendo impedidos de viver. &ldquo;A comitiva constatou um quadro de viol&ecirc;ncia com mortes por assassinato, manifesta&ccedil;&otilde;es de preconceitos e viola&ccedil;&atilde;o de direitos humanos, em especial o Direito Humano &agrave; Alimenta&ccedil;&atilde;o Adequada&rdquo;, diz o relat&oacute;rio. &ldquo;Uma verdadeira trag&eacute;dia humana!&rdquo;</p>
 
+<figure class="image" style="float:right"><img alt="consea-mapa-300x266.jpg" height="310" src="//farm3.staticflickr.com/2837/33633370760_909a5936d7_b.jpg" width="350" />
+<figcaption><em>(Reprodu&ccedil;&atilde;o/ Consea)</em></figcaption>
+</figure>
+
 <p><br />
-(Reprodu&ccedil;&atilde;o/ Consea)<br />
 A presidente do Consea critica o que chamou de &ldquo;expans&atilde;o do agroneg&oacute;cio, com um alto n&iacute;vel de degrada&ccedil;&atilde;o ambiental e contamina&ccedil;&atilde;o por agrot&oacute;xicos do solo e dos mananciais&rdquo;, al&eacute;m do &ldquo;confinamento a que est&atilde;o submetidos esses povos&rdquo;. Para a entidade, a quest&atilde;o s&oacute; tem uma resposta: demarca&ccedil;&atilde;o e titula&ccedil;&atilde;o de terra, a garantia do Direito Humano &agrave; Alimenta&ccedil;&atilde;o e o acesso a pol&iacute;ticas p&uacute;blicas, &ldquo;em conformidade com as cl&aacute;usulas de nossa Constitui&ccedil;&atilde;o cidad&atilde;&rdquo;.</p>
 
 <p><br />
@@ -233,17 +243,23 @@ Para o Consea, a Subsecretaria de Pol&iacute;ticas P&uacute;blicas para a Popula
 <p><br />
 A comitiva tamb&eacute;m visitou espa&ccedil;os da sa&uacute;de ind&iacute;gena, como a Casa de Apoio &agrave; Sa&uacute;de Ind&iacute;gena (Casai), onde constatou situa&ccedil;&atilde;o de vulnerabilidade de rec&eacute;m nascidos:</p>
 
+<figure class="image" style="float:right"><img alt="consea-criança.jpg" height="180" src="//farm3.staticflickr.com/2831/33175410304_1cb06dc01c_b.jpg" width="350" />
+<figcaption><em>(Reprodu&ccedil;&atilde;o/ Consea)</em></figcaption>
+</figure>
+
 <p><br />
 <em>&ndash; Crian&ccedil;as com baixo peso ao nascer devem receber aten&ccedil;&atilde;o &agrave; sa&uacute;de por profissionais especializados(as), em locais estruturados para o tipo de cuidado necess&aacute;rio. &nbsp;N&atilde;o foi o que a comitiva observou e ouviu durante a visita &agrave; Casai, demonstrando uma conduta omissa da sa&uacute;de do munic&iacute;pio, onde um prematuro (nascido com menos de 39 semanas) de baixo peso (menor que 2.500 kg) 45 foi entregue &agrave; Casai com sua m&atilde;e adolescente e inexperiente, local sem a menor estrutura para o cuidado de neonatos e pu&eacute;rperas.</em></p>
 
 <p><br />
-Conclus&atilde;o do Consea: uma trag&eacute;dia humanit&aacute;ria.</p>
+<strong>Conclus&atilde;o do Consea: uma trag&eacute;dia humanit&aacute;ria.</strong></p>
 
 <p><br />
-&ndash; A comitiva concluiu que a realidade vivida pelos povos Guarani e Kaiow&aacute; pode ser denominada como uma trag&eacute;dia humanit&aacute;ria e denota explicitamente a nega&ccedil;&atilde;o sistem&aacute;tica de direitos humanos em fun&ccedil;&atilde;o da omiss&atilde;o do Poder P&uacute;blico. Foi poss&iacute;vel constatar em todas as comunidades visitadas a ocorr&ecirc;ncia de fome e desnutri&ccedil;&atilde;o, a precariedade do acesso a sa&uacute;de, a &aacute;gua e a educa&ccedil;&atilde;o, a aus&ecirc;ncia de documenta&ccedil;&atilde;o civil, um constante sentimento de medo de ataques violentos por ordem dos fazendeiros da regi&atilde;o e uma forte criminaliza&ccedil;&atilde;o das lideran&ccedil;as ind&iacute;genas que resistem e reagem aos abusos de poder dos &oacute;rg&atilde;os de pol&iacute;cia.</p>
+&ndash; A comitiva concluiu que a realidade vivida pelos povos Guarani e Kaiow&aacute; pode ser denominada como uma trag&eacute;dia humanit&aacute;ria e denota explicitamente a nega&ccedil;&atilde;o sistem&aacute;tica de direitos humanos em fun&ccedil;&atilde;o da omiss&atilde;o do Poder P&uacute;blico. Foi poss&iacute;vel constatar em todas as comunidades visitadas a ocorr&ecirc;ncia de fome e desnutri&ccedil;&atilde;o, a precariedade do acesso a sa&uacute;de, a &aacute;gua e a educa&ccedil;&atilde;o, a aus&ecirc;ncia de documenta&ccedil;&atilde;o civil, um constante sentimento de medo de ataques violentos por ordem dos fazendeiros da regi&atilde;o e uma forte criminaliza&ccedil;&atilde;o das lideran&ccedil;as ind&iacute;genas que resistem e reagem aos abusos de poder dos &oacute;rg&atilde;os de pol&iacute;cia.<br />
+&nbsp;</p>
 
-<p><br />
-O Consea finaliza afirmando que a demarca&ccedil;&atilde;o das terras ind&iacute;genas &eacute; &ldquo;a condi&ccedil;&atilde;o prim&aacute;ria para a realiza&ccedil;&atilde;o do Direito Humano &agrave; Alimenta&ccedil;&atilde;o Adequada dos povos ind&iacute;genas Guarani e Kaiow&aacute; do Cone Sul do Mato Grosso do Sul e para o acesso a todas as pol&iacute;ticas p&uacute;blicas previstas no Plano Nacional de Seguran&ccedil;a Alimentar e Nutricional&rdquo;.</p>
+<p><img alt="consea-foto01.jpg" src="//farm3.staticflickr.com/2942/33175409634_8fde7fe529_b.jpg" /></p>
+
+<p>O Consea finaliza afirmando que a demarca&ccedil;&atilde;o das terras ind&iacute;genas &eacute; &ldquo;a condi&ccedil;&atilde;o prim&aacute;ria para a realiza&ccedil;&atilde;o do Direito Humano &agrave; Alimenta&ccedil;&atilde;o Adequada dos povos ind&iacute;genas Guarani e Kaiow&aacute; do Cone Sul do Mato Grosso do Sul e para o acesso a todas as pol&iacute;ticas p&uacute;blicas previstas no Plano Nacional de Seguran&ccedil;a Alimentar e Nutricional&rdquo;.</p>
 
 <p><br />
 Elogios, somente para os ind&iacute;genas. Para a comitiva, os Guarani Kaiow&aacute; apresentam &ldquo;sentimento e a atitude firme de resist&ecirc;ncia e forte disposi&ccedil;&atilde;o de continuar lutando por seus direitos, bem como a convic&ccedil;&atilde;o do direito ao territ&oacute;rio e das garantias constitucionais apesar de todas as adversidades e retrocessos&rdquo;.</p>
