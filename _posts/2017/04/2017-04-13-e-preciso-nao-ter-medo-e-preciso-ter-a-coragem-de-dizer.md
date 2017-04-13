@@ -19,7 +19,10 @@ files:
     $$hashKey: 04P
 created_date: "2017-04-13T17:47:35-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2016/09/2016-09-13-comunidade-quilombola-afirma-resistencia-politica-e-cultural-em-aracati.md
+  - _posts/2017/03/2017-03-27-lutar-nao-e-crime.md
+  - _posts/2017/03/2017-03-31-defender-a-terra-e-central-na-resistencia-palestina.md
 
 ---
 <p>&nbsp;</p>
