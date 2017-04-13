@@ -38,7 +38,7 @@ Do Brasil de Fato</em>&nbsp;</p>
 
 <p><br />
 Segunda edi&ccedil;&atilde;o da feira contar&aacute; com mais de 600 feirantes de todas as regi&otilde;es e estados brasileiros / MST<br />
-A data da 2&ordm; Feira da Reforma Agr&aacute;ria em S&atilde;o Paulo (SP) se aproxima. Para o lan&ccedil;amento da segunda edi&ccedil;&atilde;o do encontro, que reunir&aacute; feirantes de todas as localidades brasileiras e suas produ&ccedil;&otilde;es no in&iacute;cio de maio, o Movimento dos Trabalhadores Rurais Sem Terra (MST) organiza um ato pol&iacute;tico-cultural com m&uacute;sica e poesia para esta quinta-feira (13), &agrave;s 19h, no Armaz&eacute;m do Campo, no centro de S&atilde;o Paulo.</p>
+A data da 2&ordm; Feira da Reforma Agr&aacute;ria em S&atilde;o Paulo (SP) se aproxima. Para o <a href="https://www.facebook.com/events/1258820754186440/">lan&ccedil;amento</a> da segunda edi&ccedil;&atilde;o do encontro, que reunir&aacute; feirantes de todas as localidades brasileiras e suas produ&ccedil;&otilde;es no in&iacute;cio de maio, o Movimento dos Trabalhadores Rurais Sem Terra (MST) organiza um ato pol&iacute;tico-cultural com m&uacute;sica e poesia para esta quinta-feira (13), &agrave;s 19h, no Armaz&eacute;m do Campo, no centro de S&atilde;o Paulo.</p>
 
 <p><br />
 O evento contar&aacute; com atividades culturais, trazendo a presen&ccedil;a do sarau &ldquo;M&uacute;sica, Prosa e Poesia&rdquo;, al&eacute;m de conversas ligadas &agrave; vida no campo e ao tema central da feira: a reforma agr&aacute;ria popular. Quem conta isso &eacute; um dos membros do setor de produ&ccedil;&atilde;o do MST, Milton Farnazieri.</p>
