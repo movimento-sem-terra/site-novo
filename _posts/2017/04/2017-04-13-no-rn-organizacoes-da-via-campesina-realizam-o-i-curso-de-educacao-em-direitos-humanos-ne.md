@@ -4,8 +4,8 @@ tags:
   - tag: direitos-humanos
   - tag: formação
   - tag: nordeste
-title: "No RN, organizações da Via Campesina realizam o I Curso de Educação em Direitos Humanos NE"
-support_line: "No RN, organizações da Via Campesina debatem a criminalização da luta popular no I Curso de Educação em Direitos Humanos NE"
+title: Organizações da Via Campesina realizam primeiro Curso de Educação em Direitos Humanos
+support_line: O objetivo do espaço foi fortalecer a luta em defesa dos direitos humanos e contra a criminalização da luta popular.
 menu: direitos humanos
 section: featured-news
 images_hd: //farm3.staticflickr.com/2925/33973231616_a577d3b5d8_b.jpg
