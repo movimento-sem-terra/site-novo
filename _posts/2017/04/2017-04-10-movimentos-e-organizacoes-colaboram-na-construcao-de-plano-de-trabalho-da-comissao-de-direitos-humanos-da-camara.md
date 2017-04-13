@@ -4,7 +4,7 @@ tags:
   - tag: direitos-humanos
   - tag: brasilia
   - tag: câmara
-title: "No DF, movimentos e organizações participam da construção do plano de trabalho da CDH da Câmara\n"
+title: "Movimentos e organizações participam da construção do plano de trabalho da CDH da Câmara em Brasília\n"
 support_line: "Diante de congelamento de gastos públicos, reformas estruturais e criminalização dos movimentos, uma agenda propositiva constitui em desafio, apontam as lideranças"
 images_hd: //farm3.staticflickr.com/2812/33915523096_ff2fe68e9e_b.jpg
 menu: direitos humanos
