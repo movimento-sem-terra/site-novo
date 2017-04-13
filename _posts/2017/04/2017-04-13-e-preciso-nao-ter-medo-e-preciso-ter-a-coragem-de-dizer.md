@@ -6,7 +6,7 @@ tags:
   - tag: direitos-humanos
 menu: direitos humanos
 title: "‘É preciso não ter medo, é preciso ter a coragem de dizer’"
-support_line: "Evento reuniu militantes históricos, que ao lado de Carlos Marighella resistiram à Ditadura Militar, Martinelli e Fon Filho seguem firmes na defesa do povo brasileiro"
+support_line: "Evento organizado por movimentos populares reuniu militantes históricos, que ao lado de Carlos Marighella resistiram à Ditadura Militar."
 images_hd: //farm3.staticflickr.com/2944/33206659363_f26fe669cc_b.jpg
 layout: post
 files:
@@ -17,6 +17,13 @@ files:
     small: //farm3.staticflickr.com/2944/33206659363_f26fe669cc_n.jpg
     title: DSC_0297.JPG
     $$hashKey: 04P
+  - link: //farm3.staticflickr.com/2887/33176106734_2c45505968_b.jpg
+    original: //farm3.staticflickr.com/2887/33176106734_c9e6285132_o.jpg
+    thumbnail: //farm3.staticflickr.com/2887/33176106734_2c45505968_t.jpg
+    medium: //farm3.staticflickr.com/2887/33176106734_2c45505968_z.jpg
+    small: //farm3.staticflickr.com/2887/33176106734_2c45505968_n.jpg
+    title: DSC_0312.JPG
+    $$hashKey: 0JI
 created_date: "2017-04-13T17:47:35-03:00"
 published: true
 releated_posts:
@@ -58,8 +65,12 @@ Por conta desse epis&oacute;dio, Marighella escreve o livro &ldquo;Por que resis
 <p><br />
 Para al&eacute;m, as atitudes do guerrilheiro pol&iacute;tico tamb&eacute;m demonstram e d&atilde;o sentido a uma de suas frases famosas. &ldquo;A a&ccedil;&atilde;o faz a organiza&ccedil;&atilde;o&rdquo;, pois, a partir do seu ac&uacute;mulo pol&iacute;tico, Marighella defendia que &eacute; o homem atrav&eacute;s da sua a&ccedil;&atilde;o que revoluciona a sociedade. &ldquo;Era no pr&oacute;prio combate que o revolucion&aacute;rio se formava&rdquo;, reiterou Fon Filho.&nbsp;</p>
 
-<p><br />
-<strong>Desafios da atualidade</strong></p>
+<p>&nbsp;</p>
+
+<p><img alt="DSC_0312.JPG" src="//farm3.staticflickr.com/2887/33176106734_2c45505968_b.jpg" /><br />
+&nbsp;</p>
+
+<p><strong>Desafios da atualidade</strong></p>
 
 <p><br />
 Carlos Marighella tamb&eacute;m contribuiu para dar exemplos de como um revolucion&aacute;rio se comporta diante da realidade. &ldquo;Um grande exemplo que ele nos d&aacute; &eacute; que um revolucion&aacute;rio tem que estar preparado para atuar em quaisquer conjuntura e em quaisquer momentos hist&oacute;ricos&rdquo;, enfatizou Lucil&eacute;ia Miranda, militante do Levante Popular da Juventude.&nbsp;</p>
