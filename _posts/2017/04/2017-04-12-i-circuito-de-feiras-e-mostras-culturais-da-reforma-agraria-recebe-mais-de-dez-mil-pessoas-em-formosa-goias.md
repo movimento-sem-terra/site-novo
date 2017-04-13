@@ -3,7 +3,7 @@ date: "2017-04-12T11:57:13-03:00"
 tags:
   - tag: feira-reforma-agrária
   - tag: goiás
-title: "I Circuito de Feiras e Mostras Culturais da Reforma Agrária recebe mais de dez mil pessoas em Formosa, Goiás"
+title: Circuito de Feiras e Mostras Culturais da Reforma Agrária recebe mais de dez mil pessoas em Formosa
 support_line: "2ª etapa do evento ocorreu entre os dias 7 e 9 de abril e promoveu o debate sobre a importância da luta pela terra e da alimentação saudável. Próxima etapa será em Unaí, Minas Gerais. "
 images_hd: //farm3.staticflickr.com/2950/33610745170_3c366334ea_b.jpg
 menu: agricultura camponesa
@@ -37,9 +37,8 @@ releated_posts:
 <p><em>Isabela Indai&aacute;<br />
 Setor de Comunica&ccedil;&atilde;o do MST/DFE</em></p>
 
-<p>&nbsp;</p>
-
-<p>Entre barracas de roupas, artesanatos, medicinas naturais, alimentos sem veneno e comidas t&iacute;picas, os semin&aacute;rios e rodas de conversa da 2&ordf;&nbsp;etapa do I Circuito de Feiras e Mostras Culturais da Reforma Agr&aacute;ria do Distrito Federal e Entorno, ocorreram&nbsp;entre os dias 7 e 9 de abril, e promoveram a consci&ecirc;ncia dos trabalhadores e trabalhadoras da regi&atilde;o sobre o direito &agrave; terra e &agrave; alimenta&ccedil;&atilde;o saud&aacute;vel.</p>
+<p><br />
+Entre barracas de roupas, artesanatos, medicinas naturais, alimentos sem veneno e comidas t&iacute;picas, os semin&aacute;rios e rodas de conversa da 2&ordf;&nbsp;etapa do I Circuito de Feiras e Mostras Culturais da Reforma Agr&aacute;ria do Distrito Federal e Entorno, ocorreram&nbsp;entre os dias 7 e 9 de abril, e promoveram a consci&ecirc;ncia dos trabalhadores e trabalhadoras da regi&atilde;o sobre o direito &agrave; terra e &agrave; alimenta&ccedil;&atilde;o saud&aacute;vel.</p>
 
 <p><br />
 No primeiro dia de evento, os&nbsp;assentados, acampados e moradores da cidade de Formosa se reuniram para assistir&nbsp;a&nbsp;palestra da professora Kelci Anne, da UNB/FUP, que teve como tema central a educa&ccedil;&atilde;o no campo. &ldquo;A&nbsp;educa&ccedil;&atilde;o do campo &eacute; um projeto de recusa &agrave; educa&ccedil;&atilde;o que nos &eacute; imposta pela burguesia&rdquo;, afirmou a professora.</p>
