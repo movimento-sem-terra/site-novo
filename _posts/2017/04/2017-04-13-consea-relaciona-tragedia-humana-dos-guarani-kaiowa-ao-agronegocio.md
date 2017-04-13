@@ -151,7 +151,7 @@ Os ind&iacute;genas relataram aos membros da comitiva a dificuldade de acesso a 
 Outra situa&ccedil;&atilde;o descrita pelos povos ind&iacute;genas &eacute; a falta de acesso ao transporte escolar dentro das comunidades, especialmente em dias de chuva. As crian&ccedil;as, obrigadas a percorrer o caminho a p&eacute;, s&atilde;o v&iacute;timas constantes de atropelamento.</p>
 
 <p><br />
-&ldquo;UM AMBIENTE RACISTA&rdquo;</p>
+<strong>&ldquo;UM AMBIENTE RACISTA&rdquo;</strong></p>
 
 <p><br />
 A comitiva tamb&eacute;m visitou o munic&iacute;pio de Caarap&oacute;, onde percorreu a Reserva Tey Kue e a terra ocupada pelos &iacute;ndios em 2016. Foi esse o cen&aacute;rio do assassinato do agente de sa&uacute;de Clodiodi Aquileu Rodrigues, no dia 14 de junho. Em todas as comunidades o Consea se deparou com os mesmos problemas: diminui&ccedil;&atilde;o ou paralisa&ccedil;&atilde;o do envio de cestas b&aacute;sicas, aus&ecirc;ncia de documentos dos ind&iacute;genas, dificuldade de acesso &agrave;s escolas.</p>
@@ -167,7 +167,7 @@ Os Guarani Kaiow&aacute; tamb&eacute;m relataram &agrave; comitiva persegui&cced
 Em uma das aldeias visitadas, o grupo ouviu um relato de racismo institucional no ambiente escolar. Um &nbsp;diretor de escola teria humilhado publicamente estudantes do ensino m&eacute;dio, chamando-os de &ldquo;&iacute;ndios fedidos&rdquo;. At&eacute; os funcion&aacute;rios da Sesai destacaram total inseguran&ccedil;a ao visitarem as retomadas. Isso porque, conforme o relat&oacute;rio, s&atilde;o amea&ccedil;ados por seguran&ccedil;as contratados pelos fazendeiros.</p>
 
 <p><br />
-O DESPEJO DE BUMLAI E O CONFINAMENTO</p>
+<strong>O DESPEJO DE BUMLAI E O CONFINAMENTO</strong></p>
 
 <p><br />
 O Consea constatou que as aldeias e reservas tornaram-se insustent&aacute;veis para o bem estar dos ind&iacute;genas. O espa&ccedil;o irris&oacute;rio desses locais n&atilde;o &eacute; suficiente para que as fam&iacute;lias morem, plantem e estabele&ccedil;am sua cultura tradicional. As consequ&ecirc;ncias da marginaliza&ccedil;&atilde;o dos &iacute;ndios tamb&eacute;m foram denunciadas: os Guarani e Kaiow&aacute; s&atilde;o cada vez mais alcan&ccedil;ados pelas drogas, &aacute;lcool e viol&ecirc;ncias.</p>
@@ -179,37 +179,37 @@ A visita a retomadas, comunidades e aldeias nos munic&iacute;pios de Coronel Sap
 Antes, Apyka&rsquo;i era composta por nove fam&iacute;lias que ocupavam parte da fazenda Serrana, &aacute;rea da Usina S&atilde;o Fernando, arrendada pelo pecuarista Jos&eacute; Carlos Bumlai, preso desde 2015 na Opera&ccedil;&atilde;o Lava Jato. Desde que foram despejadas para a beira da estrada, oito crian&ccedil;as ind&iacute;genas j&aacute; teriam sido atropeladas. Diz o relat&oacute;rio do Consea:</p>
 
 <p><br />
-&ndash; As fam&iacute;lias vivem em moradias de lona e madeira sem energia el&eacute;trica e &aacute;gua pot&aacute;vel e sem estrutura para cozimento de alimentos, tendo dispon&iacute;vel pequena quantidade de gravetos para acender o fogo. Al&eacute;m desses problemas, as crian&ccedil;as est&atilde;o expostas ao risco de atropelamento na rodovia, pois j&aacute; ocorreram oito mortes de crian&ccedil;as por esse motivo, segundo relatos.</p>
+<em>&ndash; As fam&iacute;lias vivem em moradias de lona e madeira sem energia el&eacute;trica e &aacute;gua pot&aacute;vel e sem estrutura para cozimento de alimentos, tendo dispon&iacute;vel pequena quantidade de gravetos para acender o fogo. Al&eacute;m desses problemas, as crian&ccedil;as est&atilde;o expostas ao risco de atropelamento na rodovia, pois j&aacute; ocorreram oito mortes de crian&ccedil;as por esse motivo, segundo relatos.</em></p>
 
 <p><br />
-JU&Iacute;ZES RURALISTAS</p>
+<strong>JU&Iacute;ZES RURALISTAS</strong></p>
 
 <p><br />
 O Consea reuniu-se em setembro com dois ju&iacute;zes federais em Mato Grosso do Sul, Mois&eacute;s Anderson da Silva e F&aacute;bio Kaiut Nunes. Segundo o Conselho, os magistrados representam parcialidade e defesa da propriedade privada. O relat&oacute;rio destaca o trabalho do magistrado F&aacute;bio Kaiut, juiz substituto da 1&ordf; Vara Federal de Dourados:</p>
 
 <p><br />
-&ndash; O entendimento jur&iacute;dico amplamente adotado nas decis&otilde;es da Comarca de Dourados, inclusive nas liminares concedidas, tem sido pautado preponderantemente na defesa do direito &agrave; propriedade privada, que &eacute; considerado um instituto jur&iacute;dico leg&iacute;timo. Segundo os ju&iacute;zes federais, o Estado brasileiro concedeu os t&iacute;tulos de posse da terra aos propriet&aacute;rios atuais. Na perspectiva da 1&ordf; Vara, a revis&atilde;o dessa titularidade em favor dos povos ind&iacute;genas Guarani e Kaiow&aacute; feriria o princ&iacute;pio da seguran&ccedil;a jur&iacute;dica, pois anularia atos jur&iacute;dicos.</p>
+<strong>&ndash; O entendimento jur&iacute;dico amplamente adotado nas decis&otilde;es da Comarca de Dourados, inclusive nas liminares concedidas, tem sido pautado preponderantemente na defesa do direito &agrave; propriedade privada, que &eacute; considerado um instituto jur&iacute;dico leg&iacute;timo. Segundo os ju&iacute;zes federais, o Estado brasileiro concedeu os t&iacute;tulos de posse da terra aos propriet&aacute;rios atuais. Na perspectiva da 1&ordf; Vara, a revis&atilde;o dessa titularidade em favor dos povos ind&iacute;genas Guarani e Kaiow&aacute; feriria o princ&iacute;pio da seguran&ccedil;a jur&iacute;dica, pois anularia atos jur&iacute;dicos.</strong></p>
 
 <p><br />
 Os ju&iacute;zes relataram ao grupo que as propriedades rurais incidentes nas terras reivindicadas s&atilde;o de &ldquo;agricultores de pequeno porte, que teriam cerca de 30 hectares de terra por t&iacute;tulo de posse&rdquo;. &ldquo;De acordo com essa linha de interpreta&ccedil;&atilde;o jur&iacute;dica&rdquo;, observa o relat&oacute;rio, &ldquo;ocorre no Mato Grosso do Sul um conflito entre pequenos agricultores, cujos direitos s&atilde;o considerados leg&iacute;timos, e ind&iacute;genas, que atuam de forma ilegal ao invadir essas &lsquo;pequenas&rsquo; propriedades privadas&rdquo;.</p>
 
 <p><br />
-O Consea rebate essa opini&atilde;o:</p>
+<strong>O Consea rebate essa opini&atilde;o:</strong></p>
 
 <p><br />
-&ndash; Foi percept&iacute;vel ao longo das visitas que se trata de grandes propriedades de soja e de cana-de-a&ccedil;&uacute;car destinadas &agrave; exporta&ccedil;&atilde;o de commoditties. (&hellip;) A tese adotada pela Comarca de Dourados desconsidera os direitos territoriais ind&iacute;genas garantidos pela Constitui&ccedil;&atilde;o Federal e se pauta exclusivamente no direito &agrave; propriedade privada.</p>
+<em>&ndash; Foi percept&iacute;vel ao longo das visitas que se trata de grandes propriedades de soja e de cana-de-a&ccedil;&uacute;car destinadas &agrave; exporta&ccedil;&atilde;o de commoditties. (&hellip;) A tese adotada pela Comarca de Dourados desconsidera os direitos territoriais ind&iacute;genas garantidos pela Constitui&ccedil;&atilde;o Federal e se pauta exclusivamente no direito &agrave; propriedade privada.</em></p>
 
 <p><br />
 O Conselho Guarani Kaiow&aacute; Aty Guasu entregou uma carta aos membros da comitiva, na qual denunciam a &ldquo;persegui&ccedil;&atilde;o&rdquo; do juiz F&aacute;bio Kaiut Nunes, que for&ccedil;aria a pol&iacute;cia a cumprir ordens de despejo &ldquo;mesmo quando a pol&iacute;cia entende a a&ccedil;&atilde;o como excessiva e n&atilde;o quer cumprir&rdquo;. Segundo o relat&oacute;rio, &ldquo;fica evidente que os princ&iacute;pios da imparcialidade e do contradit&oacute;rio s&atilde;o negligenciados nas a&ccedil;&otilde;es que tramitam na referida comarca, comprometendo a seguran&ccedil;a jur&iacute;dica defendida pelos pr&oacute;prios magistrados&rdquo;.</p>
 
 <p><br />
-GOVERNO DO MS &Eacute; OMISSO</p>
+<strong>GOVERNO DO MS &Eacute; OMISSO</strong></p>
 
 <p><br />
 O grupo tamb&eacute;m se reuniu com o Minist&eacute;rio P&uacute;blico Federal (MPF-MS) e com secretarias estaduais: Secretaria de Governo e Secretaria Estadual de Direitos Humanos, Assist&ecirc;ncia Social e Trabalho (Sedhast). Para o Consea, a posi&ccedil;&atilde;o do governo estadual &eacute; a mesma da Justi&ccedil;a Federal de Dourados. O documento exp&ocirc;s a opini&atilde;o do secret&aacute;rio de governo Eduardo Riedel, ex-presidente da Federa&ccedil;&atilde;o de Agricultura e Pecu&aacute;ria de Mato Grosso do Sul (Famasul), bra&ccedil;o direito do governador Reinaldo Azambuja (PSDB):</p>
 
 <p><br />
-&ndash; Riedel defendeu que os fazendeiros possuem direitos igualmente leg&iacute;timos aos direitos dos ind&iacute;genas, pois o Estado ratificou os t&iacute;tulos de propriedade emitidos aos fazendeiros. Alegou ainda que os fazendeiros podem ser considerados agricultores familiares, pois suas propriedades n&atilde;o ultrapassam 30 hectares.</p>
+<strong>&ndash; Riedel defendeu que os fazendeiros possuem direitos igualmente leg&iacute;timos aos direitos dos ind&iacute;genas, pois o Estado ratificou os t&iacute;tulos de propriedade emitidos aos fazendeiros. Alegou ainda que os fazendeiros podem ser considerados agricultores familiares, pois suas propriedades n&atilde;o ultrapassam 30 hectares.</strong></p>
 
 <p><br />
 O relat&oacute;rio observa que, diante disso, o governo entende n&atilde;o ser poss&iacute;vel atender integralmente ao modelo territorial proposto pelos Guarani Kaiow&aacute;. O governo tamb&eacute;m afirma que algumas organiza&ccedil;&otilde;es de defesa dos direitos ind&iacute;genas t&ecirc;m fomentado uma &ldquo;pol&iacute;tica de conflito&rdquo;. O Consea rebate novamente a afirma&ccedil;&atilde;o de que o conflito envolve pequenos propriet&aacute;rios. E faz mais cr&iacute;ticas ao governo: &ldquo;pesar desse Inqu&eacute;rito Civil, o governo estadual deixou de entregar cestas de alimentos para fam&iacute;lias que residem em &aacute;reas de retomada, alegando que vivem em &aacute;reas n&atilde;o regularizadas&rdquo;.</p>
@@ -221,13 +221,13 @@ O MPF-MS e a Defensoria P&uacute;blica da Uni&atilde;o ingressaram na Justi&cced
 Para o Consea, a Subsecretaria de Pol&iacute;ticas P&uacute;blicas para a Popula&ccedil;&atilde;o Ind&iacute;gena, vinculada &agrave; Sedhast, falha na representatividade: &ldquo;A comitiva percebeu que a representa&ccedil;&atilde;o ind&iacute;gena que comp&otilde;e o quadro de recursos humanos dessa subsecretaria &eacute; majoritariamente do povo Terena que possui uma realidade socioecon&ocirc;mica distinta da situa&ccedil;&atilde;o vivida pelos povos Guarani e Kaiow&aacute;&rdquo;.</p>
 
 <p><br />
-CRIAN&Ccedil;AS DESNUTRIDAS</p>
+<strong>CRIAN&Ccedil;AS DESNUTRIDAS</strong></p>
 
 <p><br />
 A comitiva tamb&eacute;m visitou espa&ccedil;os da sa&uacute;de ind&iacute;gena, como a Casa de Apoio &agrave; Sa&uacute;de Ind&iacute;gena (Casai), onde constatou situa&ccedil;&atilde;o de vulnerabilidade de rec&eacute;m nascidos:</p>
 
 <p><br />
-(Reprodu&ccedil;&atilde;o: Consea)<br />
+<br />
 &ndash; Crian&ccedil;as com baixo peso ao nascer devem receber aten&ccedil;&atilde;o &agrave; sa&uacute;de por profissionais especializados(as), em locais estruturados para o tipo de cuidado necess&aacute;rio. &nbsp;N&atilde;o foi o que a comitiva observou e ouviu durante a visita &agrave; Casai, demonstrando uma conduta omissa da sa&uacute;de do munic&iacute;pio, onde um prematuro (nascido com menos de 39 semanas) de baixo peso (menor que 2.500 kg) 45 foi entregue &agrave; Casai com sua m&atilde;e adolescente e inexperiente, local sem a menor estrutura para o cuidado de neonatos e pu&eacute;rperas.</p>
 
 <p><br />
