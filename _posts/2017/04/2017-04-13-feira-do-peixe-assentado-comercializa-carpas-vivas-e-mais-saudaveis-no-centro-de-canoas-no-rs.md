@@ -4,8 +4,8 @@ tags:
   - tag: reforma-agraria
   - tag: produção
   - tag: rio-grande-do-sul
-title: "Feira do Peixe: assentado comercializa carpas vivas e mais saudáveis no centro de Canoas, no RS\n"
-support_line: "Seu Darcy Zatti vende sua produção de peixes há mais de 20 anos na Praça da Bandeira, no Centro da cidade"
+title: "Assentado comercializa carpas vivas e saudáveis no centro de Canoas, no RS \n"
+support_line: "Seu Darcy Zatti vende sua produção de peixes há mais de 20 anos na Praça da Bandeira, no Centro da cidade."
 images_hd: //farm3.staticflickr.com/2883/33172021974_720568447e_b.jpg
 menu: projeto popular
 layout: post
@@ -31,6 +31,13 @@ files:
     small: //farm3.staticflickr.com/2937/33629876880_8135070882_n.jpg
     title: Peixes vivos atraem público consumidor até a banca 1.jpg
     $$hashKey: "036"
+  - link: //farm4.staticflickr.com/3956/33889717191_5d6dcc22f1_b.jpg
+    original: //farm4.staticflickr.com/3956/33889717191_d5396b9b08_o.jpg
+    thumbnail: //farm4.staticflickr.com/3956/33889717191_5d6dcc22f1_t.jpg
+    medium: //farm4.staticflickr.com/3956/33889717191_5d6dcc22f1_z.jpg
+    small: //farm4.staticflickr.com/3956/33889717191_5d6dcc22f1_n.jpg
+    title: DSC_0312.JPG
+    $$hashKey: 0OZ
 created_date: "2017-04-13T17:15:38-03:00"
 published: true
 releated_posts:
@@ -49,7 +56,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Na Feira do Peixe, as carpas de seu Zatti pesam entre quatro a seis quilos.jpg" height="463" src="//farm3.staticflickr.com/2883/33172021974_720568447e_b.jpg" width="700" />
-<figcaption>Na Feira do Peixe, as carpas de seu Zatti pesam entre quatro a seis quilos</figcaption>
+<figcaption><em>Na Feira do Peixe, as carpas de seu Zatti pesam entre quatro a seis quilos.</em></figcaption>
 </figure>
 </div>
 
@@ -58,9 +65,8 @@ releated_posts:
 <p><em>Por Catiana de Medeiros<br />
 Da P&aacute;gina do MST</em></p>
 
-<p>&nbsp;</p>
-
-<p>O caminho para a Feira do Peixe de Canoas, na regi&atilde;o Metropolitana de Porto Alegre, seu Darcy Zatti, 61 anos de idade, j&aacute; conhece bem, afinal s&atilde;o mais de duas d&eacute;cadas de rela&ccedil;&atilde;o direta com o consumidor por meio da comercializa&ccedil;&atilde;o do alimento no bairro Centro da cidade do Rio Grande do Sul. O assentado exp&otilde;e sua produ&ccedil;&atilde;o durante a Semana Santa, uma tradicional celebra&ccedil;&atilde;o da Igreja Cat&oacute;lica em refer&ecirc;ncia &agrave; paix&atilde;o, morte e ressurrei&ccedil;&atilde;o de Jesus Cristo.</p>
+<p><br />
+O caminho para a Feira do Peixe de Canoas, na regi&atilde;o Metropolitana de Porto Alegre, seu Darcy Zatti, 61 anos de idade, j&aacute; conhece bem, afinal s&atilde;o mais de duas d&eacute;cadas de rela&ccedil;&atilde;o direta com o consumidor por meio da comercializa&ccedil;&atilde;o do alimento no bairro Centro da cidade do Rio Grande do Sul. O assentado exp&otilde;e sua produ&ccedil;&atilde;o durante a Semana Santa, uma tradicional celebra&ccedil;&atilde;o da Igreja Cat&oacute;lica em refer&ecirc;ncia &agrave; paix&atilde;o, morte e ressurrei&ccedil;&atilde;o de Jesus Cristo.</p>
 
 <p><br />
 Atrav&eacute;s da Associa&ccedil;&atilde;o de Piscicultores de Nova Santa Rita, Zatti mant&eacute;m at&eacute; o meio dia de amanh&atilde; (14) uma piscina de carpas vivas na banca 1 da Feira do Peixe da Pra&ccedil;a da Bandeira, situada ao lado da esta&ccedil;&atilde;o de trem. O local &eacute; considerado estrat&eacute;gico para a venda, uma vez que h&aacute; grande circula&ccedil;&atilde;o de pessoas, at&eacute; mesmo de outros munic&iacute;pios, que utilizam o transporte p&uacute;blico e aproveitam para adquirir peixes para consumir durante a semana. &ldquo;As pessoas v&ecirc;m, j&aacute; vendi peixe at&eacute; de madrugada, principalmente de quinta para sexta-feira. A maior parte do p&uacute;blico &eacute; quem utiliza trem, mora ou trabalha aqui perto da pra&ccedil;a&rdquo;, explica o assentado.</p>
@@ -72,9 +78,7 @@ Zatti estima comercializar este ano aproximadamente duas toneladas de peixe vivo
 Toda a produ&ccedil;&atilde;o do lote de Zatti &eacute; livre de venenos, uma realidade que tamb&eacute;m &eacute; compartilhada por 90% das fam&iacute;lias que moram no Assentamento Itapui. Al&eacute;m de peixes, o assentado investe em cana-de-a&ccedil;&uacute;car para fazer caldo de cana e maracuj&aacute; para suco, alimentos que s&atilde;o comercializados anualmente na Exposi&ccedil;&atilde;o Internacional de Animais, M&aacute;quinas, Implementos e Produtos Agropecu&aacute;rios (Expointer), em Esteio, a 16 quil&ocirc;metros da cidade de Nova Santa Rita. Contudo, a produ&ccedil;&atilde;o de Zatti n&atilde;o se limita a esses itens: ele prioriza a diversidade de alimentos para a subsist&ecirc;ncia da fam&iacute;lia. &ldquo;Planto de tudo, desde feij&atilde;o at&eacute; frutas e verduras&rdquo;, complementa.</p>
 
 <p><br />
-Quem quiser comprar peixe vivo de seu Zatti pode ir &agrave; Pra&ccedil;a da Bandeira, em Canoas, at&eacute; o meio dia desta sexta-feira &ndash; hoje a comercializa&ccedil;&atilde;o acontece at&eacute; as 21 horas. Ainda no munic&iacute;pio, um outro agricultor ligado &agrave; associa&ccedil;&atilde;o est&aacute; com ponto de venda na Feira do Peixe da Pra&ccedil;a Dona Mocinha, no bairro Niter&oacute;i. Em Nova Santa Rita tamb&eacute;m &eacute; poss&iacute;vel adquirir o alimento numa banca montada na &aacute;rea central da cidade.</p>
-
-<p><br />
+Quem quiser comprar peixe vivo de seu Zatti pode ir &agrave; Pra&ccedil;a da Bandeira, em Canoas, at&eacute; o meio dia desta sexta-feira &ndash; hoje a comercializa&ccedil;&atilde;o acontece at&eacute; as 21 horas. Ainda no munic&iacute;pio, um outro agricultor ligado &agrave; associa&ccedil;&atilde;o est&aacute; com ponto de venda na Feira do Peixe da Pra&ccedil;a Dona Mocinha, no bairro Niter&oacute;i. Em Nova Santa Rita tamb&eacute;m &eacute; poss&iacute;vel adquirir o alimento numa banca montada na &aacute;rea central da cidade.<br />
 &nbsp;</p>
 
 <div style="text-align:center">
@@ -100,10 +104,11 @@ Na Pra&ccedil;a da Bandeira, a informa&ccedil;&atilde;o de que os clientes, ao o
 E seu Zatti est&aacute; certo. De acordo com o Minist&eacute;rio da Agricultura, os brasileiros passaram a consumir mais peixe desde 2009, quando se consumia 9 quilos da carne ao ano por pessoa. Hoje, o consumo chega a 14 quilos - dois a mais que o recomendado pela Organiza&ccedil;&atilde;o das Na&ccedil;&otilde;es Unidas para Alimenta&ccedil;&atilde;o e a Agricultura (FAO) e seis quilos a menos que a m&eacute;dia mundial.</p>
 
 <p><br />
-Segundo a nutricionista Cristina Ara&uacute;jo, o ideal &eacute; inserir peixe, pelo menos, duas vezes por semana nas refei&ccedil;&otilde;es. &ldquo;O peixe &eacute; um &oacute;timo aliado da sa&uacute;de, porque tem uma carne mais leve, muito nutritiva e rica em &ocirc;mega 3, que faz bem ao cora&ccedil;&atilde;o&rdquo;, aponta.</p>
+Segundo a nutricionista Cristina Ara&uacute;jo, o ideal &eacute; inserir peixe, pelo menos, duas vezes por semana nas refei&ccedil;&otilde;es. &ldquo;O peixe &eacute; um &oacute;timo aliado da sa&uacute;de, porque tem uma carne mais leve, muito nutritiva e rica em &ocirc;mega 3, que faz bem ao cora&ccedil;&atilde;o&rdquo;, aponta.<br />
+&nbsp;</p>
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Peixes vivos atraem público consumidor até a banca 1.jpg" height="444" src="//farm3.staticflickr.com/2937/33629876880_8135070882_b.jpg" width="700" />
-<figcaption>Peixes vivos atraem público consumidor até a banca 1</figcaption>
+<figcaption><em>Peixes vivos atraem público consumidor até a banca 1.</em></figcaption>
 </figure>
 </div>
