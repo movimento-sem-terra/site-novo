@@ -7,7 +7,7 @@ tags:
 title: Formosa de Goiás recebe Circuito de Feiras e Mostras Culturais da Reforma Agrária do DFE
 support_line: "O circuito, que teve sua primeira etapa em Planaltina, no Distrito Federal, agora ocupa o Goiás trazendo diálogo entre os Sem Terra e moradores da região."
 images_hd: //farm4.staticflickr.com/3703/33855227316_9d8e7565fd_b.jpg
-section: featured-news
+section: null
 menu: reforma agrária
 layout: post
 files:
