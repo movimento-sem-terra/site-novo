@@ -265,4 +265,4 @@ A comitiva tamb&eacute;m visitou espa&ccedil;os da sa&uacute;de ind&iacute;gena,
 Elogios, somente para os ind&iacute;genas. Para a comitiva, os Guarani Kaiow&aacute; apresentam &ldquo;sentimento e a atitude firme de resist&ecirc;ncia e forte disposi&ccedil;&atilde;o de continuar lutando por seus direitos, bem como a convic&ccedil;&atilde;o do direito ao territ&oacute;rio e das garantias constitucionais apesar de todas as adversidades e retrocessos&rdquo;.</p>
 
 <p><br />
-Veja o documento completo aqui.</p>
+Veja o documento completo <a href="http://www4.planalto.gov.br/consea/publicacoes/revisado-final-compressed.pdf/view">aqui</a>.</p>
