@@ -66,7 +66,6 @@ files:
     small: //farm4.staticflickr.com/3841/33977502166_ac8b771085_n.jpg
     title: consea-foto03.jpg
     $$hashKey: 06F
-  - "\"Authentication failed : 'https://api.flickr.com/services/upload/' - Filetype was not recognised\""
 created_date: "2017-04-13T16:59:07-03:00"
 published: true
 releated_posts:
@@ -97,7 +96,7 @@ Ligado diretamente &agrave; Presid&ecirc;ncia da Rep&uacute;blica, o Conselho Na
 Intitulado &lsquo;Tekoha: Direitos dos Povos Guarani e Kaiow&aacute;&ldquo;, o relat&oacute;rio critica o poder p&uacute;blico de forma abrangente. Ap&oacute;s constatar a fome, a sa&uacute;de prec&aacute;ria e demais viol&ecirc;ncias sofridas pelas comunidades, o Consea afirma que os Guarani Kaiow&aacute; vivem uma trag&eacute;dia humana no Mato Grosso do Sul. O teor de den&uacute;ncia do relat&oacute;rio n&atilde;o economizou nos detalhes: de juiz ruralista &agrave; omiss&atilde;o do governo estadual, passando pela persegui&ccedil;&atilde;o de pistoleiros aos agentes de sa&uacute;de da Secretaria Especial de Sa&uacute;de Ind&iacute;gena (Sesai).</p>
 
 <p><br />
-O PAPEL DO AGRONEG&Oacute;CIO</p>
+<strong>O PAPEL DO AGRONEG&Oacute;CIO</strong></p>
 
 <p><br />
 A presidente do Consea, Maria Em&iacute;lia Lisboa Pacheco, destacou a tradicionalidade da terra para os Guarani Kaiow&aacute;. A necessidade que eles t&ecirc;m de matas, com frutos para coleta, plantas medicinais, &aacute;reas para plantio da ro&ccedil;a familiar ou coletiva. Cultura que eles est&atilde;o sendo impedidos de viver. &ldquo;A comitiva constatou um quadro de viol&ecirc;ncia com mortes por assassinato, manifesta&ccedil;&otilde;es de preconceitos e viola&ccedil;&atilde;o de direitos humanos, em especial o Direito Humano &agrave; Alimenta&ccedil;&atilde;o Adequada&rdquo;, diz o relat&oacute;rio. &ldquo;Uma verdadeira trag&eacute;dia humana!&rdquo;</p>
@@ -110,20 +109,23 @@ A presidente do Consea critica o que chamou de &ldquo;expans&atilde;o do agroneg
 O documento tamb&eacute;m destaca a hist&oacute;ria da coloniza&ccedil;&atilde;o do Estado, e critica a marginaliza&ccedil;&atilde;o dos &iacute;ndios durante o processo. Desde 1920, &eacute;poca da cria&ccedil;&atilde;o dos &ldquo;aldeamentos&rdquo; pelo Estado, as diminutas &aacute;reas reservadas para a popula&ccedil;&atilde;o Guarani:</p>
 
 <p><br />
-&ndash; Entre os anos 50 e 70, a expans&atilde;o do agroneg&oacute;cio no Centro-Oeste brasileiro deu-se por meio da expuls&atilde;o dos povos ind&iacute;genas Guarani e Kaiow&aacute; de suas terras tradicionais, que contou com o apoio e o incentivo governamental das tr&ecirc;s esferas (Uni&atilde;o, estado e munic&iacute;pio) e dos tr&ecirc;s Poderes (Executivo, Judici&aacute;rio e Legislativo), demonstrados objetivamente por meio da autoriza&ccedil;&atilde;o da emiss&atilde;o de t&iacute;tulos de propriedade para terceiros, pela impunidade dos crimes cometidos contra os povos ind&iacute;genas do estado e pela aus&ecirc;ncia de pol&iacute;ticas p&uacute;blicas adequadas de sa&uacute;de, educa&ccedil;&atilde;o e alimenta&ccedil;&atilde;o.</p>
+<em>&ndash; Entre os anos 50 e 70, a expans&atilde;o do agroneg&oacute;cio no Centro-Oeste brasileiro deu-se por meio da expuls&atilde;o dos povos ind&iacute;genas Guarani e Kaiow&aacute; de suas terras tradicionais, que contou com o apoio e o incentivo governamental das tr&ecirc;s esferas (Uni&atilde;o, estado e munic&iacute;pio) e dos tr&ecirc;s Poderes (Executivo, Judici&aacute;rio e Legislativo), demonstrados objetivamente por meio da autoriza&ccedil;&atilde;o da emiss&atilde;o de t&iacute;tulos de propriedade para terceiros, pela impunidade dos crimes cometidos contra os povos ind&iacute;genas do estado e pela aus&ecirc;ncia de pol&iacute;ticas p&uacute;blicas adequadas de sa&uacute;de, educa&ccedil;&atilde;o e alimenta&ccedil;&atilde;o.</em></p>
 
 <p><br />
 Para a presidente, a viola&ccedil;&atilde;o aos direitos territoriais dos &iacute;ndios continua at&eacute; hoje, e pode ser ilustrada pela &ldquo;consuma&ccedil;&atilde;o de interpreta&ccedil;&otilde;es jur&iacute;dicas preconceituosas e parciais em prol dos interesses econ&ocirc;micos locais&rdquo;.</p>
 
 <p><br />
-EM SEIS MUNIC&Iacute;PIOS, A MESMA TRAG&Eacute;DIA</p>
+<strong>EM SEIS MUNIC&Iacute;PIOS, A MESMA TRAG&Eacute;DIA</strong></p>
 
 <p><br />
 O relat&oacute;rio deu aten&ccedil;&atilde;o especial a situa&ccedil;&atilde;o das crian&ccedil;as Kaiow&aacute;, que enfrentam, entre outras adversidades, a desnutri&ccedil;&atilde;o, a falta de pol&iacute;ticas de sa&uacute;de e a marginaliza&ccedil;&atilde;o da educa&ccedil;&atilde;o p&uacute;blica. O Consea cita dados do Sistema de Vigil&acirc;ncia Alimentar e Nutricional (Sisvan) para relatar a desnutri&ccedil;&atilde;o de crian&ccedil;as menores de 5 anos. No munic&iacute;pio de Ant&ocirc;nio Jo&atilde;o, por exemplo, as crian&ccedil;as apresentaram um d&eacute;ficit de altura em rela&ccedil;&atilde;o &agrave; idade de 24,6%:</p>
 
+<figure class="image" style="float:right"><img alt="consea-desnutrição.jpg" height="142" src="//farm3.staticflickr.com/2831/33633077430_875c211682_b.jpg" width="350" />
+<figcaption><em>(Reprodu&ccedil;&atilde;o/ Consea)</em></figcaption>
+</figure>
+
 <p><br />
-(Reprodu&ccedil;&atilde;o/ Consea)<br />
-&ndash; As &aacute;reas de retomada/acampamentos ind&iacute;genas apresentam o pior quadro de vulnerabilidade social. De acordo com dados disponibilizados pela Secretaria Especial de Sa&uacute;de Ind&iacute;gena (Sesai) do Minist&eacute;rio da Sa&uacute;de, h&aacute; uma m&eacute;dia anual de 250 crian&ccedil;as ind&iacute;genas menores de cinco anos com d&eacute;ficit nutricional (baixo peso e muito baixo peso) de um total de 6.194. Estes n&uacute;meros n&atilde;o se restringem apenas &agrave;s crian&ccedil;as ind&iacute;genas.</p>
+<em>&ndash; As &aacute;reas de retomada/acampamentos ind&iacute;genas apresentam o pior quadro de vulnerabilidade social. De acordo com dados disponibilizados pela Secretaria Especial de Sa&uacute;de Ind&iacute;gena (Sesai) do Minist&eacute;rio da Sa&uacute;de, h&aacute; uma m&eacute;dia anual de 250 crian&ccedil;as ind&iacute;genas menores de cinco anos com d&eacute;ficit nutricional (baixo peso e muito baixo peso) de um total de 6.194. Estes n&uacute;meros n&atilde;o se restringem apenas &agrave;s crian&ccedil;as ind&iacute;genas.</em></p>
 
 <p><br />
 A comitiva visitou seis munic&iacute;pios de Mato Grosso do Sul e diversas comunidades. Em Rio Brilhante, o Consea esteve na comunidade Laranjeira Nhande Ru, que existe h&aacute; 9 anos e integra o Grupo de Trabalho Brilhante Pegu&aacute; II da Funda&ccedil;&atilde;o nacional do &Iacute;ndio (Funai), que realiza estudos demarcat&oacute;rios. Trinta e seis fam&iacute;lias ocupam uma &aacute;rea aproximada de 15 hectares, de acordo com o documento.</p>
@@ -132,10 +134,14 @@ A comitiva visitou seis munic&iacute;pios de Mato Grosso do Sul e diversas comun
 O local, no entanto, fica em uma &Aacute;rea de Preserva&ccedil;&atilde;o Permanente (APP). &ldquo;No local em que se encontram, n&atilde;o possuem acesso a &aacute;gua pot&aacute;vel, tampouco a espa&ccedil;o adequado para forma&ccedil;&atilde;o de ro&ccedil;as de subsist&ecirc;ncia&rdquo;, cita o relat&oacute;rio. Os ind&iacute;genas sobrevivem de trabalhos espor&aacute;dicos, como diaristas, e da coleta de material recicl&aacute;vel.</p>
 
 <p><br />
-AGROT&Oacute;XICOS CEGARAM BEB&Ecirc;</p>
+<strong>AGROT&Oacute;XICOS CEGARAM BEB&Ecirc;</strong><br />
+&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="consea-agrotoxicos.jpg" height="162" src="//farm4.staticflickr.com/3941/33861263692_8232916232_b.jpg" width="350" />
+<figcaption><em>(Reprodu&ccedil;&atilde;o/ Consea)</em></figcaption>
+</figure>
 
 <p><br />
-(Reprodu&ccedil;&atilde;o: Consea)<br />
 Entre as viol&ecirc;ncias percebidas pela comitiva est&aacute; o despejo de agrot&oacute;xicos sobre as comunidades. Os venenos, conforme os relatos, causam doen&ccedil;as e os Guarani Kaiow&aacute; recebem atendimento prec&aacute;rio da Sesai. O relat&oacute;rio do Consea aponta &ldquo;desrespeito &agrave; dist&acirc;ncia m&iacute;nima recomendada para a aplica&ccedil;&atilde;o de agrot&oacute;xicos, causando a contamina&ccedil;&atilde;o dos c&oacute;rregos e de crian&ccedil;as pela pulveriza&ccedil;&atilde;o, que, inclusive, atingiu um beb&ecirc; que perdeu a vis&atilde;o de um dos olhos&rdquo;.</p>
 
 <p><br />
