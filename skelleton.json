@@ -210,7 +210,8 @@
   "type":{
     "view": "select",
     "options": [
-      {"name": "Jornada Nacional das Mulheres 2017", "id": "women-2017"}
+      {"name": "Jornada Nacional das Mulheres 2017", "id": "women-2017"},
+      {"name": "Jornada Nacional das Mulheres 2017", "id": "jornadas-2017"}
       ]
   }
 },
