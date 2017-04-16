@@ -38,26 +38,47 @@
 //END
 
 .jornadas {
-	.header.description{
-		h1 {
-			text-align: center;
-		}
+  .header.description{
+    h1 {
+      text-align: center;
+    }
 
-		.cover {
-			background-color: black;
-			max-width: none;
-			box-shadow: none;
-			display: flex;
-			justify-content: center;
-			margin-bottom: 15px;
-		}
-	}
-	.youtube-playlist {
-  background-color: #111;
-  width: 100vw;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  padding: 15px;
-	}
+    .cover {
+      background-color: black;
+      max-width: none;
+      box-shadow: none;
+      display: flex;
+      justify-content: center;
+      margin-bottom: 15px;
+    }
+  }
+  .youtube-playlist {
+    background-color: #111;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+  }
+
+  .big-content {
+    font-size: 1.8em;
+    line-height: 1.6;
+    margin: 20px 0;
+  }
+
+  .big-text article {
+    line-height: 1.5;
+    font-size: 1.1em;
+  }
+
+  .big-header {
+    width: 100%;
+    text-align: center;
+    display: block;
+    font-weight: bold;
+    margin: 20px 0;
+    border-bottom: 1px solid rgba(50,50,50, 0.15);
+    padding-bottom: 20px;
+  }
 }
