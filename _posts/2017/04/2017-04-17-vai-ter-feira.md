@@ -38,6 +38,13 @@ files:
     small: //farm3.staticflickr.com/2944/34100344415_63b4fac6bb_n.jpg
     title: 17966529_1535067019899340_5117757930907331645_o.jpg
     $$hashKey: 039
+  - link: //farm4.staticflickr.com/3842/33258065204_ca55c4be0d_b.jpg
+    original: //farm4.staticflickr.com/3842/33258065204_a30c5caecd_o.jpg
+    thumbnail: //farm4.staticflickr.com/3842/33258065204_ca55c4be0d_t.jpg
+    medium: //farm4.staticflickr.com/3842/33258065204_ca55c4be0d_z.jpg
+    small: //farm4.staticflickr.com/3842/33258065204_ca55c4be0d_n.jpg
+    title: IMG_20170413_201046243.jpg
+    $$hashKey: 0C2
 created_date: "2017-04-17T14:38:13-03:00"
 published: true
 releated_posts:
@@ -64,10 +71,18 @@ releated_posts:
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Um ato pol&iacute;tico-cultural marcou o lan&ccedil;amento oficial da 2&ordf; Feira Nacional da Reforma Agr&aacute;ria, que ser&aacute; realizada entre os dias 4 e 7 de maio no Parque da &Aacute;gua Branca, zona oeste da capital paulista. O evento ocorreu na noite desta quinta-feira (13), no Armaz&eacute;m do Campo, ponto permanente de comercializa&ccedil;&atilde;o dos produtos oriundos dos assentamentos do MST.</p>
+Um ato pol&iacute;tico-cultural marcou o lan&ccedil;amento oficial da 2&ordf; Feira Nacional da Reforma Agr&aacute;ria, que ser&aacute; realizada entre os dias 4 e 7 de maio no Parque da &Aacute;gua Branca, zona oeste da capital paulista. O evento ocorreu na noite desta quinta-feira (13), no <a href="https://www.facebook.com/ArmazemDoCampoProdutosDaTerra/">Armaz&eacute;m do Campo</a>, ponto permanente de comercializa&ccedil;&atilde;o dos produtos oriundos dos assentamentos do MST.</p>
 
 <p><br />
-&ldquo;Esse ato de hoje serve para dizermos &agrave; popula&ccedil;&atilde;o de S&atilde;o Paulo e nas redes sociais para todos os cantos do Brasil que vamos ter a 2&ordf; Feira Nacional da Reforma Agr&aacute;ria. E porque S&atilde;o Paulo? Porque h&aacute; uma simbologia. S&atilde;o Paulo &eacute; o estado que mais concentra o agroneg&oacute;cio, e consequentemente &eacute; a maior cidade em consumo de alimentos envenenados por esse modelo. E tamb&eacute;m h&aacute; uma simbologia fazer esse lan&ccedil;amento aqui no Armaz&eacute;m do Campo, que &eacute; esse espa&ccedil;o permanente, onde podemos comercializar os produtos da Reforma Agr&aacute;ria, vindos de todos os cantos do pa&iacute;s&rdquo;, afirmou Jo&atilde;o Paulo Rodrigues, da Dire&ccedil;&atilde;o Nacional do MST.</p>
+&ldquo;Esse ato de hoje serve para dizermos &agrave; popula&ccedil;&atilde;o de S&atilde;o Paulo e nas redes sociais para todos os cantos do Brasil que vamos ter a 2&ordf; Feira Nacional da Reforma Agr&aacute;ria. E porque S&atilde;o Paulo? Porque h&aacute; uma simbologia. S&atilde;o Paulo &eacute; o estado que mais concentra o agroneg&oacute;cio, e consequentemente &eacute; a maior cidade em consumo de alimentos envenenados por esse modelo. E tamb&eacute;m h&aacute; uma simbologia fazer esse lan&ccedil;amento aqui no Armaz&eacute;m do Campo, que &eacute; esse espa&ccedil;o permanente, onde podemos comercializar os produtos da Reforma Agr&aacute;ria, vindos de todos os cantos do pa&iacute;s&rdquo;, afirmou Jo&atilde;o Paulo Rodrigues, da Dire&ccedil;&atilde;o Nacional do MST.<br />
+<br />
+&nbsp;</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="IMG_20170413_201046243.jpg" height="525" src="//farm4.staticflickr.com/3842/33258065204_ca55c4be0d_b.jpg" width="700" />
+<figcaption>Jo&atilde;o Paulo Rodrigues e Rosana Fernandez&nbsp;</figcaption>
+</figure>
+</div>
 
 <p><br />
 O ato de lan&ccedil;amento da 2&ordf; Feira Nacional da Reforma Agr&aacute;ria contou com apresenta&ccedil;&otilde;es musicais, sarau de poesia e interven&ccedil;&otilde;es pol&iacute;ticas, que deram o tom de como ser&aacute; o grande evento, dentro de algumas semanas.</p>
