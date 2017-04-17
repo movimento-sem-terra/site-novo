@@ -4,7 +4,7 @@ tags:
   - tag: pará
   - tag: feira-reforma-agrária
   - tag: jornada-nacional-de-lutas
-title: Feira da Reforma Agrária “Mamede Gomes” é realizada em Belém.
+title: Feira da Reforma Agrária “Mamede Gomes” é realizada em Belém
 support_line: "Atividade integra as ações da Jornada Nacional de Lutas pela Reforma Agrária. "
 menu: lutas e mobilizações
 special-page: jornadas-2017
