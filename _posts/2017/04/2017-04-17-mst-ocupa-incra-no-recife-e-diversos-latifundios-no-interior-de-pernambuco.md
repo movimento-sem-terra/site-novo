@@ -9,7 +9,7 @@ images_hd: //farm3.staticflickr.com/2818/34057737896_9ecdc0f9c5_b.jpg
 special-page: jornadas-2017
 section: featured-news
 title: MST ocupa Incra no Recife e diversos latifúndios no interior de Pernambuco
-support_line: "As ações já se desenrolam desde o último dia 8, mobilizando todas as regiões do estado."
+support_line: "As ações da Jornada Nacional já se desenrolam desde o último dia 8, mobilizando todas as regiões do estado."
 menu: lutas e mobilizações
 layout: post
 files:
