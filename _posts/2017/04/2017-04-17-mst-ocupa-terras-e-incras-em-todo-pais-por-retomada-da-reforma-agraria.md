@@ -55,7 +55,7 @@ section: featured-news
 Em todo o pa&iacute;s, s&atilde;o mais de 120 mil fam&iacute;lias &agrave; espera em acampamentos para serem assentadas. &ldquo;A pol&iacute;tica de Reforma Agr&aacute;ria, que j&aacute; vinha sofrendo com os ajustes do per&iacute;odo anterior, teve um sufocamento definitivo ap&oacute;s o golpe, com uma amea&ccedil;a de enterrar de vez a esperan&ccedil;a de centenas de milhares de fam&iacute;lias brasileiras de terem terra para plantar alimentos saud&aacute;veis&rdquo;, avalia Marina dos Santos, da Dire&ccedil;&atilde;o Nacional do MST.</p>
 
 <p><br />
-Fam&iacute;lias de trabalhadores Sem Terra se mobilizam em Santa Catarina, Par&aacute;, Pernambuco, Piau&iacute;, S&atilde;o Paulo, Alagoas, Rio Grande do Sul, Minas Gerais, Goi&aacute;s, Cear&aacute;, Bahia, Paran&aacute; e Distrito Federal. Em 1996, nesta data, 21 trabalhadores foram brutalmente massacrados pela Pol&iacute;cia Militar quando se dirigiam numa marcha &agrave; capital Bel&eacute;m.</p>
+Fam&iacute;lias de trabalhadores Sem Terra se mobilizam em Santa Catarina, Par&aacute;, Pernambuco, Piau&iacute;, S&atilde;o Paulo, Alagoas, Rio Grande do Sul, Minas Gerais, Goi&aacute;s, Cear&aacute;, Bahia, Mato Grosso, Paran&aacute; e Distrito Federal. Em 1996, nesta data, 21 trabalhadores foram brutalmente massacrados pela Pol&iacute;cia Militar quando se dirigiam numa marcha &agrave; capital Bel&eacute;m.</p>
 
 <figure class="image" style="float:right"><img alt="WhatsApp Image 2017-04-17 at 11.19.21.jpeg" height="233" src="//farm3.staticflickr.com/2843/34096530455_5430b143a0_b.jpg" width="350" />
 <figcaption>Ocupa&ccedil;&atilde;o em Agudos-SP.</figcaption>
