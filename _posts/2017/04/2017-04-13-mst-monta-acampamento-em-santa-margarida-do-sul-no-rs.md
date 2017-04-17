@@ -31,6 +31,7 @@ releated_posts:
   - _posts/2017/02/2017-02-27-mst-e-mpa-ocupam-fazenda-suspeita-de-grilagem-em-pontao-no-rs.md
   - _posts/2017/03/2017-03-07-mulheres-protestam-contra-a-reforma-da-previdencia-no-aeroporto-de-porto-alegre.md
   - _posts/2017/03/2017-03-01-40a-romaria-da-terra-resgata-luta-do-mst-para-a-conquista-da-fazenda-annoni.md
+special-page: jornadas-2017
 
 ---
 <p>&nbsp;</p>
