@@ -8,7 +8,7 @@ tags:
 title: Jornada de Lutas no RS começa com duas ocupações do MST
 support_line: Os órgãos públicos somente serão desocupados após negociações com o Incra e Governo Federal pela retomada da Reforma Agrária.
 menu: lutas e mobilizações
-section: featured-news
+section: null
 special-page: jornadas-2017
 images_hd: //farm3.staticflickr.com/2902/33712729930_127823907c_b.jpg
 layout: post
