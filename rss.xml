@@ -7,6 +7,16 @@
 		<atom:link href="http://www.mst.org.br/rss.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Vai ter feira!
+</title>
+				<description>Lançamento oficial da 2ª Feira Nacional da Reforma Agrária, ocorreu na quinta-feira (13), durante um evento no Armazém do Campo
+</description>
+				<pubDate>Mon, 17 Apr 2017 17:21:51 +0000</pubDate>
+				<link>http://www.mst.org.br/2017/04/17/vai-ter-feira.html</link>
+				<guid isPermaLink="true">http://www.mst.org.br/2017/04/17/vai-ter-feira.html</guid>
+			</item>
+		
+			<item>
 				<title>Feira da Reforma Agrária “Mamede Gomes” é realizada em Belém</title>
 				<description>Atividade integra as ações da Jornada Nacional de Lutas pela Reforma Agrária. </description>
 				<pubDate>Mon, 17 Apr 2017 16:18:43 +0000</pubDate>
@@ -76,14 +86,6 @@
 				<pubDate>Mon, 17 Apr 2017 12:31:41 +0000</pubDate>
 				<link>http://www.mst.org.br/2017/04/17/jornada-nacional-de-lutas-pela-reforma-agraria-2017.html</link>
 				<guid isPermaLink="true">http://www.mst.org.br/2017/04/17/jornada-nacional-de-lutas-pela-reforma-agraria-2017.html</guid>
-			</item>
-		
-			<item>
-				<title>Música, diálogo e poesia marcam lançamento da Feira da Reforma Agrária nesta quinta</title>
-				<description>Evento no Armazém do Campo inicia os diálogos com a sociedade paulistana sobre a feira, que acontecerá no início de maio</description>
-				<pubDate>Fri, 14 Apr 2017 01:50:31 +0000</pubDate>
-				<link>http://www.mst.org.br/2017/04/14/musica-dialogo-e-poesia-marcam-lancamento-da-feira-da-reforma-agraria-nesta-quinta.html</link>
-				<guid isPermaLink="true">http://www.mst.org.br/2017/04/14/musica-dialogo-e-poesia-marcam-lancamento-da-feira-da-reforma-agraria-nesta-quinta.html</guid>
 			</item>
 		
 	</channel>
