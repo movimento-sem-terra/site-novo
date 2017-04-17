@@ -7,6 +7,14 @@
 		<atom:link href="http://www.mst.org.br/rss.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Violência: os recordes de 2016</title>
+				<description>Em 2016 foram registrados 61 assassinatos em conflitos no campo. Isso equivale a uma média de cinco assassinatos por mês</description>
+				<pubDate>Mon, 17 Apr 2017 19:55:32 +0000</pubDate>
+				<link>http://www.mst.org.br/2017/04/17/violencia-os-recordes-de-2016.html</link>
+				<guid isPermaLink="true">http://www.mst.org.br/2017/04/17/violencia-os-recordes-de-2016.html</guid>
+			</item>
+		
+			<item>
 				<title>Sem Terra ocupam Incra em Goiânia </title>
 				<description>A ação faz parte da Jornada Nacional de Luta pela Terra</description>
 				<pubDate>Mon, 17 Apr 2017 18:07:44 +0000</pubDate>
@@ -78,14 +86,6 @@
 				<pubDate>Mon, 17 Apr 2017 14:37:42 +0000</pubDate>
 				<link>http://www.mst.org.br/2017/04/17/mst-ocupa-terras-e-incras-em-todo-pais-por-retomada-da-reforma-agraria.html</link>
 				<guid isPermaLink="true">http://www.mst.org.br/2017/04/17/mst-ocupa-terras-e-incras-em-todo-pais-por-retomada-da-reforma-agraria.html</guid>
-			</item>
-		
-			<item>
-				<title>Durante Jornada, MST ocupa área grilada pela Cutrale em SP</title>
-				<description>Outra ocupação de terras reivindicando Reforma Agrária ocorreu na região do Vale do Paraíba.</description>
-				<pubDate>Mon, 17 Apr 2017 13:20:25 +0000</pubDate>
-				<link>http://www.mst.org.br/2017/04/17/durante-jornada-mst-ocupa-area-grilada-pela-cutrale-em-sp.html</link>
-				<guid isPermaLink="true">http://www.mst.org.br/2017/04/17/durante-jornada-mst-ocupa-area-grilada-pela-cutrale-em-sp.html</guid>
 			</item>
 		
 	</channel>
