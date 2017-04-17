@@ -38,6 +38,7 @@ releated_posts:
   - _posts/2016/10/2016-10-07-movimentos-denunciam-governo-golpista-na-retirada-de-direitos-do-campo.md
   - _posts/2017/04/2017-04-11-novas-ocupacoes-despertam-santa-catarina.md
 special-page: jornadas-2017
+section: featured-news
 
 ---
 <p><img alt="Jornada de Luta Pela RA CARD.jpg" height="700" src="//farm3.staticflickr.com/2863/33711886360_763775af16_b.jpg" width="700" /></p>
