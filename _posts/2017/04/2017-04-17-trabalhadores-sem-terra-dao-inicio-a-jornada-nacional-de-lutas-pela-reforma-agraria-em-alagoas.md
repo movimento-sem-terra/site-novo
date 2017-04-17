@@ -4,7 +4,7 @@ tags:
   - tag: alagoas
   - tag: jornada-nacional-de-lutas
   - tag: reforma-agrária
-title: Sem Terra dão início à Jornada  Nacional de Lutas pela Reforma Agrária em Alagoas
+title: Sem Terra dão início à Jornada Nacional de Lutas pela Reforma Agrária em Alagoas
 support_line: Cerca de três mil pessoas participaram de um ato em Maceió para relembrar os 21 anos do massacre de Eldorado dos Carajás e exigir o fim da violência no campo.
 special-page: jornadas-2017
 images_hd: //farm3.staticflickr.com/2872/34057062286_0b2601725c_b.jpg
