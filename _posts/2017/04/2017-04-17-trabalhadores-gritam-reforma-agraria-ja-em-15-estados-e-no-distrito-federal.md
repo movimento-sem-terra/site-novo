@@ -62,7 +62,7 @@ releated_posts:
 &ldquo;Convocamos toda nossa milit&acirc;ncia pra dizer que um povo, ele n&atilde;o se mata. Que, se matarem cem, milhares de trabalhadores germinar&atilde;o dos campos dessa regi&atilde;o e do Brasil afora. Porque o nosso projeto de sociedade, nosso sonho de ver a Reforma Agr&aacute;ria realizada, &eacute; um projeto maior do que nossos interesses, nossos medos e amea&ccedil;as casuais&rdquo;, declara Ayala Ferreira, da Dire&ccedil;&atilde;o Nacional do MST, em celebra&ccedil;&atilde;o no Par&aacute;.</p>
 
 <p><br />
-No Norte de Minas, o MST a Fazenda Arapuim, no munic&iacute;pio de Maria da Cruz, que possui 10 mil hectares e j&aacute; chegou a funcionar como modelo em projetos de irriga&ccedil;&atilde;o. Atualmente est&aacute; penhorada pelo BNDES e encontra-se totalmente abandonada. J&aacute; em S&atilde;o Paulo, o Movimento ocupou mais uma vez a fazenda Santo Henrique, terra p&uacute;blica grilada pela empresa multinacional Cutrale.</p>
+No Norte de Minas, o MST ocupou a Fazenda Arapuim, no munic&iacute;pio de Maria da Cruz, que possui 10 mil hectares e j&aacute; chegou a funcionar como modelo em projetos de irriga&ccedil;&atilde;o. Atualmente est&aacute; penhorada pelo BNDES e encontra-se totalmente abandonada. J&aacute; em S&atilde;o Paulo, o Movimento ocupou mais uma vez a fazenda Santo Henrique, terra p&uacute;blica grilada pela empresa multinacional Cutrale.</p>
 
 <p><br />
 O MST aproveita a passagem deste Dia Internacional de Luta Camponesa para cobrar dos governos a realiza&ccedil;&atilde;o da Reforma Agr&aacute;ria, com destina&ccedil;&atilde;o de terras e demais pol&iacute;ticas p&uacute;blicas para um contingente de mais de 120 mil fam&iacute;lias hoje acampadas em fazendas ou &agrave; beira de estradas.</p>
