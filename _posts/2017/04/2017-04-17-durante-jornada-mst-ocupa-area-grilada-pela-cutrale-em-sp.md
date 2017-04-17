@@ -8,7 +8,7 @@ title: "Durante Jornada, MST ocupa área grilada pela Cutrale em SP"
 support_line: Outra ocupação de terras reivindicando Reforma Agrária ocorreu na região do Vale do Paraíba.
 images_hd: //farm3.staticflickr.com/2916/33938381212_92a2df6fef_b.jpg
 menu: lutas e mobilizações
-section: cover
+section: featured-news
 layout: post
 files:
   - link: //farm3.staticflickr.com/2916/33938381212_92a2df6fef_b.jpg
@@ -33,7 +33,7 @@ special-page: jornadas-2017
 <p>&nbsp;</p>
 
 <p><em>Por Setor de Comunica&ccedil;&atilde;o MST/SP<br />
-D&aacute; P&aacute;gina do MST</em></p>
+Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
