@@ -40,7 +40,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2017-04-17 at 16.04.53 (1).jpeg" height="393" src="//farm3.staticflickr.com/2880/34104027345_4d6bdfced4_b.jpg" width="700" />
-<figcaption></figcaption>
+<figcaption><em>Fotos: Pablo Vergara&nbsp;</em></figcaption>
 </figure>
 </div>
 
