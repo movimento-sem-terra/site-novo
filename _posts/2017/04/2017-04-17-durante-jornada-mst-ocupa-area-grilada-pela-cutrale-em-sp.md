@@ -25,6 +25,7 @@ releated_posts:
   - _posts/2016/09/2016-09-03-acoes-de-temer-mostram-total-descompromisso-com-a-reforma-agraria-no-brasil-destaca-patrus.md
   - _posts/2016/09/2016-09-06-para-o-tcu-os-assentados-estao-proibidos-de-melhorar-de-vida-diz-mst.md
   - _posts/2017/04/2017-04-11-novas-ocupacoes-despertam-santa-catarina.md
+special-page: jornadas-2017
 
 ---
 <p>&nbsp;</p>
