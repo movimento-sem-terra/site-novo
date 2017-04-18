@@ -32,7 +32,7 @@ files:
     title: 33259095674_b21c2d7896_o.jpg
     $$hashKey: 19B
 created_date: "2017-04-17T18:06:54-03:00"
-published: true
+published: false
 releated_posts:
   - _posts/2017/04/2017-04-17-mst-ocupa-terras-e-incras-em-todo-pais-por-retomada-da-reforma-agraria.md
   - _posts/2017/03/2017-03-20-poderes-do-rs-realizam-agendas-em-brasilia-em-defesa-da-compensacao-das-perdas-da-lei-kandir.md
