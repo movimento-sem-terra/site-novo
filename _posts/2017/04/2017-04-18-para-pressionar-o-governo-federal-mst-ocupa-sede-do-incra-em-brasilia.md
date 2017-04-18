@@ -31,6 +31,7 @@ releated_posts:
   - _posts/2016/09/2016-09-06-para-o-tcu-os-assentados-estao-proibidos-de-melhorar-de-vida-diz-mst.md
   - _posts/2016/09/2016-09-06-movimentos-do-campo-realizam-manifestacao-no-incra-do-rj.md
   - _posts/2016/10/2016-10-07-movimentos-denunciam-governo-golpista-na-retirada-de-direitos-do-campo.md
+special-page: jornadas-2017
 
 ---
 <p><img alt="WhatsApp Image 2017-04-18 at 15.22.02.jpeg" height="411" src="//farm3.staticflickr.com/2864/33312089623_801686a1a6_b.jpg" width="700" /></p>
