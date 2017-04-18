@@ -7,7 +7,7 @@ tags:
 title: "Trabalhadores gritam “Reforma Agrária Já!” em 15 estados e no Distrito Federal"
 images_hd: //farm4.staticflickr.com/3838/33721351670_35c5d65837_b.jpg
 special-page: jornadas-2017
-section: cover
+section: featured-news
 menu: lutas e mobilizações
 support_line: "A reivindicação principal é o assentamento das mais de 120 mil famílias acampadas, mas o Movimento também aproveita para criticar medidas do governo golpista."
 layout: post
