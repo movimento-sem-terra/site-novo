@@ -8,7 +8,7 @@ special-page: jornadas-2017
 menu: lutas e mobilizações
 title: "Jovens Sem Terra se reúnem na Curva do 'S' para homenagear as vítimas de Carajás"
 support_line: XII Acampamento Pedagógico Oziel Alves Pereira reúne jovens lutadores para relembrar os 21 anos do massacre de Eldorado dos Carajás.
-images_hd: //farm3.staticflickr.com/2929/33712548930_700db0e70d_b.jpg
+images_hd: //farm3.staticflickr.com/2881/33965375872_8aa884dc9f_b.jpg
 layout: post
 files:
   - link: //farm3.staticflickr.com/2929/33712548930_700db0e70d_b.jpg
@@ -18,16 +18,24 @@ files:
     small: //farm3.staticflickr.com/2929/33712548930_700db0e70d_n.jpg
     title: WhatsApp Image 2017-04-13 at 11.37.20.jpeg
     $$hashKey: "035"
+  - link: //farm3.staticflickr.com/2881/33965375872_8aa884dc9f_b.jpg
+    original: //farm3.staticflickr.com/2881/33965375872_31172869d4_o.jpg
+    thumbnail: //farm3.staticflickr.com/2881/33965375872_8aa884dc9f_t.jpg
+    medium: //farm3.staticflickr.com/2881/33965375872_8aa884dc9f_z.jpg
+    small: //farm3.staticflickr.com/2881/33965375872_8aa884dc9f_n.jpg
+    title: WhatsApp Image 2017-04-18 at 14.31.36.jpeg
+    $$hashKey: 0DY
 created_date: "2017-04-17T12:19:03-03:00"
 published: true
 releated_posts:
   - _posts/2017/03/2017-03-08-mulheres-marcham-em-belem-contra-a-reforma-da-previdencia.md
+  - _posts/2017/03/2017-03-10-unidas-e-despertas-mulheres-protagonizam-jornada-de-lutas-em-cuiaba.md
+  - _posts/2016/11/2016-11-18-jovens-investem-em-formacao-politica-frente-a-criminalizacao-das-lutas-populares.md
+  - _posts/2016/12/2016-12-21-acampamento-do-mst-sofre-ataque-de-pistoleiros-no-para.md
+  - _posts/2016/09/2016-09-12-acampamento-do-mst-sofre-ataque-de-fazendeiro-em-maraba.md
 
 ---
-<p>
-<style type="text/css">p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: justify; font: 12.0px Helvetica; color: #454545}
-</style>
-<img alt="WhatsApp Image 2017-04-13 at 11.37.20.jpeg" height="525" src="//farm3.staticflickr.com/2929/33712548930_700db0e70d_b.jpg" width="700" /></p>
+<p><img alt="WhatsApp Image 2017-04-18 at 14.31.36.jpeg" height="466" src="//farm3.staticflickr.com/2881/33965375872_8aa884dc9f_b.jpg" width="700" /></p>
 
 <p>&nbsp;</p>
 
