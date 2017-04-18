@@ -24,6 +24,13 @@ files:
     small: //farm4.staticflickr.com/3844/33308472443_526d8ce781_n.jpg
     title: "A sessão solene é referente ao dia da reforma agrária, datado em 17 de abril. Foto Márcio Garcez. Assessoria Dep. Fed. João Daniel.jpg"
     $$hashKey: 09G
+  - link: //farm3.staticflickr.com/2918/33279198494_476b0a0bfd_b.jpg
+    original: //farm3.staticflickr.com/2918/33279198494_7b856162b7_o.jpg
+    thumbnail: //farm3.staticflickr.com/2918/33279198494_476b0a0bfd_t.jpg
+    medium: //farm3.staticflickr.com/2918/33279198494_476b0a0bfd_z.jpg
+    small: //farm3.staticflickr.com/2918/33279198494_476b0a0bfd_n.jpg
+    title: 33289788753_8e79d38574_o.jpg
+    $$hashKey: 0NA
 created_date: "2017-04-18T12:11:38-03:00"
 published: true
 releated_posts:
@@ -36,8 +43,8 @@ releated_posts:
 
 ---
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="O membro da coordenação nacional do MST, Alexandre Conceição, resgata a luta pela reforma agrária. Foto Márcio Garcez. Assessoria dep. fed João Daniel (1).jpg" height="466" src="//farm3.staticflickr.com/2854/33308471943_6c73565753_b.jpg" width="700" />
-<figcaption>Alexandre Concei&ccedil;&atilde;o, da Dire&ccedil;&atilde;o Nacional do MST&nbsp;</figcaption>
+<figure class="image" style="display:inline-block"><img alt="A sessão solene é referente ao dia da reforma agrária, datado em 17 de abril. Foto Márcio Garcez. Assessoria Dep. Fed. João Daniel.jpg" height="466" src="//farm4.staticflickr.com/3844/33308472443_526d8ce781_b.jpg" width="700" />
+<figcaption>A sess&atilde;o solene &eacute; referente ao dia da reforma agr&aacute;ria, datado em 17 de abril. Foto M&aacute;rcio Garcez. Assessoria Dep. Fed. Jo&atilde;o Daniel</figcaption>
 </figure>
 </div>
 
@@ -62,6 +69,12 @@ Com composi&ccedil;&atilde;o majorit&aacute;ria nas cadeiras do Congresso Nacion
 <p><br />
 &ldquo;A nossa hist&oacute;ria, a nosso pa&iacute;s tem a d&iacute;vida hist&oacute;rica com o campo. E n&atilde;o ser&aacute; uma na&ccedil;&atilde;o justa enquanto n&atilde;o der o tratamento que exige a garantia da terra aos povos ind&iacute;genas, sem-terra, posseiros, quilombolas &ndash; que &eacute; o direito &agrave; terra. &Eacute; a luta mais justa que podemos ter. Quando se completa um ano que esta Casa autorizou, sem prova e crime, a retirada da presidente Dilma n&oacute;s fazemos, com a presen&ccedil;a de voc&ecirc;s, um momento para garantir que a esperan&ccedil;a de que este pa&iacute;s ainda encontrar&aacute; o dia da justi&ccedil;a&rdquo;, afirma o deputado federal Jo&atilde;o Daniel (PT-SE) em sauda&ccedil;&atilde;o aos movimentos presentes na sess&atilde;o. &ldquo;E a justi&ccedil;a n&atilde;o poder&aacute; vir sen&atilde;o a partir da terra para os quilombolas, sem-terra, posseiros para aquelas que dela vivem e &nbsp;trabalham&rdquo;, completa.&nbsp;</p>
 
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="O membro da coordenação nacional do MST, Alexandre Conceição, resgata a luta pela reforma agrária. Foto Márcio Garcez. Assessoria dep. fed João Daniel (1).jpg" height="466" src="//farm3.staticflickr.com/2854/33308471943_6c73565753_b.jpg" width="700" />
+<figcaption>O membro da coordena&ccedil;&atilde;o nacional do MST, Alexandre Concei&ccedil;&atilde;o, resgata a luta pela reforma agr&aacute;ria. Foto M&aacute;rcio Garcez. Assessoria dep. fed Jo&atilde;o Daniel</figcaption>
+</figure>
+</div>
+
 <p><br />
 Em refer&ecirc;ncia &agrave; Medida Provis&oacute;ria (MP) 759/2016, editada no final do ano por interesse da bancada ruralista, Alexandre reafirma a oposi&ccedil;&atilde;o e resist&ecirc;ncia &agrave; medida. &ldquo;Enquanto houver latif&uacute;ndio haver&aacute; foice e fac&atilde;o derrubando cerca para fazer a reforma agr&aacute;ria avan&ccedil;ar. Enquanto houver latif&uacute;ndio n&oacute;s lutaremos para haver democracia, enquanto houver mis&eacute;ria no campo n&atilde;o haver&aacute; paz para governo golpista que agora tenta empurrar o retrocesso da reforma agr&aacute;ria atrav&eacute;s da MP 759. N&atilde;o obedeceremos nenhuma lei. Essa lei ter&aacute; da nossa parte a luta e resist&ecirc;ncia por uma reforma agr&aacute;ria popular&rdquo;, diz.&nbsp;</p>
 
@@ -82,6 +95,12 @@ Ele recorda que no dia 19 de abril, nesta mesma semana, tamb&eacute;m &eacute; c
 
 <p><br />
 Ainda que o cen&aacute;rio recente tenha sido de aumento da concentra&ccedil;&atilde;o das terras em grandes propriedades em pelo menos 2,5%, (Dados Incra 2010-2014) e de redu&ccedil;&atilde;o dos n&uacute;meros de novos assentamentos rurais ou de titula&ccedil;&atilde;o de territ&oacute;rios ind&iacute;genas e de quilombos, com apenas 31 mil fam&iacute;lias assentadas neste mesmo quadri&ecirc;nio, enquanto 120 mil aguardam acampadas em rodovias, os movimentos e organiza&ccedil;&otilde;es presentes na sess&atilde;o reconhecem, a exemplo de Caraj&aacute;s, a resist&ecirc;ncia na hist&oacute;ria de luta pelo direito &agrave; terra.&nbsp;</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="33289788753_8e79d38574_o.jpg" height="466" src="//farm3.staticflickr.com/2918/33279198494_476b0a0bfd_b.jpg" width="700" />
+<figcaption>Movimentos campesinos, parlamentares e organiza&ccedil;&otilde;es sociais apoiadoras da causa agr&aacute;ria participam de sess&atilde;o solene. Foto M&aacute;rcio Garcez. Assessoria Dep Fed Jo&atilde;o Daniel</figcaption>
+</figure>
+</div>
 
 <p><br />
 &ldquo;Tivemos h&aacute; 21 anos o Massacre de Caraj&aacute;s. H&aacute; um ano a deposi&ccedil;&atilde;o da presidenta eleita pelo instrumento mais elementar da express&atilde;o da soberania popular, que &eacute; o voto. Voto desrespeitado h&aacute; um ano nesta casa. Mas temos a capacidade em transformar a dor em luta. E &eacute; por isso que no dia 28 de abril que vamos estar em luta. Essa capacidade &eacute; que possamos estar nas trincheiras&rdquo;, convoca o integrante do Colegiado do Instituto de Estudos Socioecon&ocirc;micos (Inesc), Jos&eacute; Ant&ocirc;nio Moroni, em refer&ecirc;ncia &agrave; paralisa&ccedil;&atilde;o nacional nesta data em protesto &agrave;s reformas trabalhistas e previdenci&aacute;ria em tramita&ccedil;&atilde;o.&nbsp;</p>
