@@ -132,6 +132,10 @@ Outra organiza&ccedil;&atilde;o ligada &agrave; pesquisa que repudiou as altera&
 <p><br />
 Ao listar os preju&iacute;zos para o conhecimento, a AGB pontua que retirar as quest&otilde;es torna imposs&iacute;vel analisar os processos de desenvolvimento da produ&ccedil;&atilde;o familiar, &ldquo;eliminando as informa&ccedil;&otilde;es relativas ao maior universo social do campo brasileiro, os camponeses (agricultores familiares), considerando que estes sujeitos sociais respondem por mais de 70% da produ&ccedil;&atilde;o nacional de alimentos e mais de 80% do pessoal ocupado no campo brasileiro&rdquo;.</p>
 
+<figure class="image" style="float:right"><img alt="censoagropecuario2006-768x543.jpg" height="247" src="//farm3.staticflickr.com/2886/33992532881_a89ddfd1be_b.jpg" width="350" />
+<figcaption><em>(Imagem: Divulga&ccedil;&atilde;o/MDA)</em></figcaption>
+</figure>
+
 <p><br />
 Segundo a AGB, os camponeses foram benefici&aacute;rios das v&aacute;rias pol&iacute;ticas p&uacute;blicas voltadas para a produ&ccedil;&atilde;o, a assist&ecirc;ncia t&eacute;cnica, a comercializa&ccedil;&atilde;o e a distribui&ccedil;&atilde;o de alimentos, tais como o Programa de Aquisi&ccedil;&atilde;o de Alimentos (PAA), Programa Nacional de Alimenta&ccedil;&atilde;o Escolar (PNAE), entre outras. Esses programas, de acordo com a organiza&ccedil;&atilde;o, consolidaram a rede de Seguran&ccedil;a Alimentar e Nutricional (SAN) &ldquo;e que tamb&eacute;m colher&aacute; preju&iacute;zos de acompanhamento de seus resultados&rdquo;.</p>
 
@@ -139,13 +143,13 @@ Segundo a AGB, os camponeses foram benefici&aacute;rios das v&aacute;rias pol&ia
 Deixar de perguntar sobre os agrot&oacute;xicos implica, para a AGB, &ldquo;o n&atilde;o reconhecimento da import&acirc;ncia de dados sobre a produ&ccedil;&atilde;o agroecol&oacute;gica e uso de agrot&oacute;xicos, uma vez que a retirada das quest&otilde;es sobre os processos produtivos impossibilitam identificar as mudan&ccedil;as nas pr&aacute;ticas de manejo ambientalmente corretas e o reconhecimento do pluralismo social e tecnol&oacute;gico da produ&ccedil;&atilde;o agr&iacute;cola brasileira&rdquo;.</p>
 
 <p><br />
-&lsquo;DECIS&Atilde;O INVISIBILIZA AS POPULA&Ccedil;&Otilde;ES DO CAMPO&rsquo;</p>
+<strong>&lsquo;DECIS&Atilde;O INVISIBILIZA AS POPULA&Ccedil;&Otilde;ES DO CAMPO&rsquo;</strong></p>
 
 <p><br />
 A Rede de Estudos Rurais &ndash; que re&uacute;ne diversas universidades &ndash; tamb&eacute;m publicou, no boletim do grupo, uma carta aberta ao IBGE. A rede observa que, ao suprimir as quest&otilde;es, a mensagem pol&iacute;tica enviada pelo IBGE &eacute; a de que a aloca&ccedil;&atilde;o de recursos para a agricultura familiar deixa de ser uma necessidade:</p>
 
 <p><br />
-&ndash; Essas omiss&otilde;es no formul&aacute;rio do censo, alegadamente motivadas pelo corte de or&ccedil;amento (fato concreto), tiveram uma seletividade que configura uma decis&atilde;o pol&iacute;tica pela invisibilidade dessas popula&ccedil;&otilde;es do campo, a maior parte daqueles que s&atilde;o benefici&aacute;rios das pol&iacute;ticas p&uacute;blicas estimuladas pela Lei da Agricultura Familiar.</p>
+<em>&ndash; Essas omiss&otilde;es no formul&aacute;rio do censo, alegadamente motivadas pelo corte de or&ccedil;amento (fato concreto), tiveram uma seletividade que configura uma decis&atilde;o pol&iacute;tica pela invisibilidade dessas popula&ccedil;&otilde;es do campo, a maior parte daqueles que s&atilde;o benefici&aacute;rios das pol&iacute;ticas p&uacute;blicas estimuladas pela Lei da Agricultura Familiar.</em></p>
 
 <p><br />
 A organiza&ccedil;&atilde;o diz que o IBGE d&aacute; invisibilidade &agrave;s express&otilde;es que as quest&otilde;es agr&aacute;ria, ambiental e das popula&ccedil;&otilde;es tradicionais assumem no mundo rural, &ldquo;para al&eacute;m das produ&ccedil;&otilde;es agr&iacute;colas e pecu&aacute;rias&rdquo;. &ldquo;Se tais popula&ccedil;&otilde;es deixam de contar nas estat&iacute;sticas, deixam de ser relevantes na aloca&ccedil;&atilde;o de recursos para as mais diferentes pol&iacute;ticas p&uacute;blicas&rdquo;, assinala a Rede de Estudos Rurais, &ldquo;notadamente aquelas voltadas para a promo&ccedil;&atilde;o do seu desenvolvimento sustent&aacute;vel&rdquo;.</p>
