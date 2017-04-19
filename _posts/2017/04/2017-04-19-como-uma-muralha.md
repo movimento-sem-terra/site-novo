@@ -7,17 +7,17 @@ tags:
 title: "Como uma Muralha \n"
 support_line: "Na quinta noite do acampamento, nossos inimigos passaram em frente a Casa da Memória e atiraram pra cima. Algozes do latifúndio usando a linguagem armada que tão bem conhece a Curva do S"
 menu: lutas e mobilizações
-images_hd: //farm3.staticflickr.com/2942/33330306113_4bd4a49463_b.jpg
+images_hd: //farm3.staticflickr.com/2913/33985649842_59b8e5e73a_b.jpg
 label: articles
 layout: post
 files:
-  - link: //farm3.staticflickr.com/2942/33330306113_4bd4a49463_b.jpg
-    original: //farm3.staticflickr.com/2942/33330306113_424e4e0bce_o.jpg
-    thumbnail: //farm3.staticflickr.com/2942/33330306113_4bd4a49463_t.jpg
-    medium: //farm3.staticflickr.com/2942/33330306113_4bd4a49463_z.jpg
-    small: //farm3.staticflickr.com/2942/33330306113_4bd4a49463_n.jpg
-    title: WhatsApp Image 2017-04-19 at 12.43.09.jpeg
-    $$hashKey: 08Q
+  - link: //farm3.staticflickr.com/2913/33985649842_59b8e5e73a_b.jpg
+    original: //farm3.staticflickr.com/2913/33985649842_6a2b020b95_o.jpg
+    thumbnail: //farm3.staticflickr.com/2913/33985649842_59b8e5e73a_t.jpg
+    medium: //farm3.staticflickr.com/2913/33985649842_59b8e5e73a_z.jpg
+    small: //farm3.staticflickr.com/2913/33985649842_59b8e5e73a_n.jpg
+    title: IMG-20170418-WA0079 (1).jpg
+    $$hashKey: 0VG
 created_date: "2017-04-19T13:31:27-03:00"
 published: true
 releated_posts:
@@ -41,8 +41,6 @@ Famintos<br />
 Nus<br />
 Provocadores&nbsp;<br />
 Declamando poemas.&nbsp;</p>
-
-<p>&nbsp;</p>
 
 <p><br />
 E estavam certos.&nbsp;</p>
