@@ -6,7 +6,7 @@ tags:
   - tag: lutas-e-mobilizações
   - tag: jornada-nacional-de-lutas
 images_hd: //farm4.staticflickr.com/3944/33325059383_ff3b953f1a_b.jpg
-title: "Na jornada de luta, Pequenos Agricultores e Sem Terra retomam as terras do Açu"
+title: "Na Jornada de Luta, pequenos agricultores e Sem Terra retomam as terras do Açu"
 support_line: As terras foram tomadas pela empresa LLX do empresário Eike Batista e visava a implantação de um distrito industrial.
 menu: lutas e mobilizações
 special-page: jornadas-2017
