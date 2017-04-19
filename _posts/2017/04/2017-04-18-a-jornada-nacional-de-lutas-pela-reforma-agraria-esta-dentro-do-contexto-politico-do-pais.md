@@ -8,7 +8,7 @@ support_line: "Em todo o Brasil, serão realizadas diversas atividades como part
 images_hd: //farm3.staticflickr.com/2832/34078758586_bdca365d2c_b.jpg
 special-page: jornadas-2017
 label: interviews
-section: cover
+section: featured-news
 menu: lutas e mobilizações
 title: "\"A Jornada Nacional de Lutas pela Reforma Agrária está dentro do contexto político do país\""
 layout: post
