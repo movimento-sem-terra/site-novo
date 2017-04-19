@@ -4,7 +4,7 @@ tags:
   - tag: reforma-da-previdencia
   - tag: oab
   - tag: retirada-de-direitos
-title: "OAB lança nota criticando a Reforma da Previdência "
+title: "Entidades lançam nota criticando a Reforma da Previdência "
 support_line: "No documento a entidade afirma que: \"nenhuma reforma que afete direitos básicos da população pode ser formulada, sem a devida discussão com o conjunto da sociedade e suas organizações\""
 menu: lutas e mobilizações
 images_hd: //farm3.staticflickr.com/2813/33984974372_4091fb37fe_b.jpg
@@ -35,13 +35,13 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p>A Ordem dos Advogados do Brasil (OAB), lan&ccedil;ou uma nota nesta quarta-feira (19), criticando a atuais medidas na Reforma da Previd&ecirc;ncia comandadas pelo governo de Michel Temer.</p>
+<p>A <span style="text-align: center;">Confer&ecirc;ncia Nacional dos Bispos do Brasil (CNBB), a&nbsp;</span>Ordem dos Advogados do Brasil (OAB) e o <span style="text-align: center;">Conselho Federal de Economia (COFECON)</span>&nbsp;lan&ccedil;aram&nbsp;uma nota nesta quarta-feira (19), criticando a atuais medidas na Reforma da Previd&ecirc;ncia comandadas pelo governo de Michel Temer.</p>
 
 <p><br />
-No documento a entidade afirma que: &quot;nenhuma reforma que afete direitos b&aacute;sicos da popula&ccedil;&atilde;o pode ser formulada, sem a devida discuss&atilde;o com o conjunto da sociedade e suas organiza&ccedil;&otilde;es&quot;.&nbsp;</p>
+No documento as entidades afirmam que: &quot;nenhuma reforma que afete direitos b&aacute;sicos da popula&ccedil;&atilde;o pode ser formulada, sem a devida discuss&atilde;o com o conjunto da sociedade e suas organiza&ccedil;&otilde;es&quot;.&nbsp;</p>
 
 <p><br />
-A OAB&nbsp;conclama a sociedade civil para a urg&ecirc;ncia no debate e para &agrave;s amea&ccedil;as de retrocesso que rondam a classe trabalhadora.&nbsp;</p>
+As organiza&ccedil;&otilde;es conclamam a sociedade civil para a urg&ecirc;ncia no debate e para &agrave;s amea&ccedil;as de retrocesso que rondam a classe trabalhadora.&nbsp;</p>
 
 <p><br />
 <strong>Leia a nota na &iacute;ntegra:&nbsp;</strong></p>
@@ -74,9 +74,9 @@ As entidades infra firmadas convidam seus membros e as organiza&ccedil;&otilde;e
 Bras&iacute;lia, 19 de abril de 2017.</p>
 
 <p style="text-align: center;"><br />
-Confer&ecirc;ncia Nacional dos Bispos do Brasil-CNBB<br />
-Ordem dos Advogados do Brasil-OAB<br />
-Conselho Federal de Economia-COFECON</p>
+Confer&ecirc;ncia Nacional dos Bispos do Brasil - CNBB<br />
+Ordem dos Advogados do Brasil - OAB<br />
+Conselho Federal de Economia - COFECON</p>
 
 <p style="text-align: center;">&nbsp;</p>
 
