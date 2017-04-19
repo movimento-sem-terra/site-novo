@@ -28,6 +28,7 @@ releated_posts:
   - _posts/2017/04/2017-04-17-trabalhadores-gritam-reforma-agraria-ja-em-15-estados-e-no-distrito-federal.md
   - _posts/2017/04/2017-04-18-mst-ocupa-secretaria-do-desenvolvimento-rural-no-rs.md
   - _posts/2016/08/2016-08-24-cimi-denuncia-que-cpi-beneficiou-ataque-ruralista-contra-direitos-dos-povos-dos-campos.md
+special-page: jornadas-2017
 
 ---
 <div style="text-align:center">
