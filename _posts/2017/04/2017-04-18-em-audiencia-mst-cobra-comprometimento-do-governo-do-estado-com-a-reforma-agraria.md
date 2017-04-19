@@ -5,7 +5,7 @@ tags:
   - tag: lutas-e-mobilizações
   - tag: jornada-nacional-de-lutas
   - tag: reforma-agrária
-title: "Em audiência, MST cobra comprometimento do governo do estado com a Reforma Agrária"
+title: "Em audiência, MST cobra comprometimento do governo do RS com a Reforma Agrária"
 support_line: "Chefe da Casa Civil, Biolchi se comprometeu a dar encaminhamentos para solucionar os problemas junto a órgãos estaduais e a acompanhar todo o processo para acelerar o destravamento da pauta."
 menu: lutas e mobilizações
 special-page: jornadas-2017
