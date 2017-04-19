@@ -41,6 +41,7 @@ releated_posts:
   - _posts/2016/09/2016-09-06-movimentos-do-campo-realizam-manifestacao-no-incra-do-rj.md
   - _posts/2017/03/2017-03-28-estamos-vivendo-um-retrocesso-na-regulamentacao-dos-agrotoxicos-diz-militante.md
   - _posts/2017/03/2017-03-30-trabalhadores-do-campo-fecham-as-duas-br-do-espirito-santo-contra-a-reforma-da-previdencia.md
+special-page: jornadas-2017
 
 ---
 <p><img alt="WhatsApp Image 2017-04-11 at 07.27.48.jpeg" height="533" src="//farm3.staticflickr.com/2852/33591685310_ef53a88ecc_b.jpg" width="700" /></p>
