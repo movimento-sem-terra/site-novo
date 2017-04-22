@@ -32,7 +32,7 @@ $screen-big: 1400px;
 /* breakpoints */
 
 $desktop: new-breakpoint(min-width $screen-sm);
-$tablet: new-breakpoint(max-width $screen-sm + 1);
+$tablet: new-breakpoint(min-width $screen-sm);
 $mobile: new-breakpoint(max-width $screen-sm);
 
 $home_screen_big: 65%;
