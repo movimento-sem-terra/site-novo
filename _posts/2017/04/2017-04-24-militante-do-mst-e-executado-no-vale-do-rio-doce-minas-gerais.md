@@ -56,5 +56,5 @@ O clima em Minas Gerais &eacute; de muita tens&atilde;o. No dia 9 de abril desse
 <p><br />
 Atualmente existem quarenta e sete acampamentos com aproximadamente sete mil fam&iacute;lias acampadas do MST, em nove regi&otilde;es do estado. A solu&ccedil;&atilde;o destes conflitos s&oacute; ser&aacute; poss&iacute;vel com medidas concretas do Estado: assentar nossas fam&iacute;lias e punir os respons&aacute;veis por estas atrocidades. A impunidade &eacute; uma das principais causas destes crimes, por isso exigimos a imediata apura&ccedil;&atilde;o e pris&atilde;o dos criminosos.</p>
 
-<p><br />
-&nbsp;</p>
+<p style="text-align: right;"><br />
+Dire&ccedil;&atilde;o Estadual MST / MG&nbsp;</p>
