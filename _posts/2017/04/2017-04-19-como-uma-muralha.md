@@ -22,7 +22,6 @@ created_date: "2017-04-19T13:31:27-03:00"
 published: true
 releated_posts:
   - _posts/2017/03/2017-03-24-a-contribuicao-dos-assentamentos-rurais-para-uma-regiao-em-conflito.md
-  - _posts/2017/03/2017-03-28-brasilia-sera-palco-do-acampamento-terra-livre-que-reunira-mais-de-1-5-indigenas.md
   - _posts/2017/01/2017-01-10-nota-de-pesar-pela-morte-do-companheiro-jesuino-brito-o-dinha.md
 
 ---
@@ -33,8 +32,9 @@ Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
-<p>O coro da m&iacute;stica atravessou a pista e formou a primeira muralha do dia. &nbsp;Com voz altiva anunciaram:<br />
-<br />
+<p>O coro da m&iacute;stica atravessou a pista e formou a primeira muralha do dia. &nbsp;Com voz altiva anunciaram:</p>
+
+<p><br />
 Aqui persisitimos,&nbsp;<br />
 como uma muralha<br />
 Famintos<br />
@@ -49,7 +49,7 @@ E estavam certos.&nbsp;</p>
 Na quinta noite do acampamento, nossos inimigos passaram em frente a Casa da Mem&oacute;ria e atiraram pra cima. Algozes do latif&uacute;ndio usando a linguagem armada que t&atilde;o bem conhece a Curva do S, era o recado hostil dos assassinos da regi&atilde;o. No sexto dia, mandaram avisar &agrave; dire&ccedil;&atilde;o que pensassem bem no que diriam no ato do dia 17 de abril. &nbsp;</p>
 
 <p><br />
-Eles ainda organizam medo contra n&oacute;s. Eles ainda pensam que 21 anos depois da persegui&ccedil;&atilde;o daquelas fam&iacute;lias, podem nos amea&ccedil;ar numa esperan&ccedil;a de morda&ccedil;a. Eles n&atilde;o sabem nada sobre o nosso medo. Nosso medo organiza. Nossa medo &eacute; chumbo contra eles.&nbsp;</p>
+Eles ainda organizam medo contra n&oacute;s. Eles ainda pensam que 21 anos depois da persegui&ccedil;&atilde;o daquelas fam&iacute;lias, podem nos amea&ccedil;ar numa esperan&ccedil;a de morda&ccedil;a. Eles n&atilde;o sabem nada sobre o nosso medo. Nosso medo organiza. Nosso medo &eacute; chumbo contra eles.&nbsp;</p>
 
 <p><br />
 Pois que nos sentamos, no raiar alto da alvorada, e decidimos: vamos falar sim! Nos encar&aacute;vamos tensos, nenhuma resposta estava pronta e pela tens&atilde;o que andava sinistra pelas redondezas nos &uacute;ltimos dias, seria necess&aacute;rio pensar estrat&eacute;gias pra proteger nossos camaradas, dirigentes da Regi&atilde;o Amaz&ocirc;nica amea&ccedil;ados de morte, durante a fala no ato, sabendo que a fala delimita a ordem do alvo da bala. Decidimos que a fala do movimento seria coletiva, como fizemos em Curion&oacute;polis nos jograis.&nbsp;</p>
@@ -64,7 +64,7 @@ Quando a for&ccedil;a mata cem<br />
 Vem mil e substitui.&nbsp;</p>
 
 <p><br />
-Ao final do primeiro coro, passamos de 15 para 30. Helena disse: quanto mais gente melhor. E ali, antes da not&iacute;cia chegar, n&oacute;s j&aacute; nos colocamos como uma muralha humana no palco, a segunda do dia. S&eacute;rios. Tensos. E nunca t&atilde;o firmes.&nbsp;</p>
+Ao final do primeiro coro, passamos de 15 para 30. Maria disse: quanto mais gente melhor. E ali, antes da not&iacute;cia chegar, n&oacute;s j&aacute; nos colocamos como uma muralha humana no palco, a segunda do dia. S&eacute;rios. Tensos. E nunca t&atilde;o firmes.&nbsp;</p>
 
 <p><br />
 Quando passamos para 50 pessoas lado a lado, um camarada acenou l&aacute; de baixo, a express&atilde;o compenetrada:</p>
@@ -91,7 +91,7 @@ Em algum lugar na multid&atilde;o, o militante, com todo aquele tamanho de gigan
 A equipe de comunica&ccedil;&atilde;o, fez quest&atilde;o de apontar a c&acirc;mera para a cara de todos os inimigos confirmados e tamb&eacute;m dos suspeitos, com a mesma aud&aacute;cia e amea&ccedil;a com que eles nos filmaram durante toda a semana, nos ca&ccedil;ando como animais.</p>
 
 <p><br />
-O cara amarelou. Eles amarelaram. Olharam pra cima do palco, muita gente. Os Sem Terra tavam sabendo da presen&ccedil;a deles e estavam preparados. Gente do Maranh&atilde;o, gente do Tocantins... Um monte de jovem. Desconversou qualquer coisa, voz baixa.&nbsp;</p>
+O cara amarelou. Eles amarelaram. Olharam pra cima do palco, muita gente. Os Sem Terra &quot;tavam&quot;&nbsp;sabendo da presen&ccedil;a deles e estavam preparados. Gente do Maranh&atilde;o, gente do Tocantins... Um monte de jovem. Desconversou qualquer coisa, voz baixa.&nbsp;</p>
 
 <p><br />
 Foram embora os seis. De certo, com &oacute;dio.&nbsp;<br />
@@ -111,4 +111,6 @@ Ningu&eacute;m quis ir embora. Nosso desejo de permanecer juntos fim de tarde e 
 Se temos medo? Temos. Mas nosso medo nos organiza. Nosso medo &eacute; chumbo contra nossos inimigos.&nbsp;</p>
 
 <p><br />
-Nenhum passo atr&aacute;s, liberta&ccedil;&atilde;o ou morte!&nbsp;</p>
+Nenhum passo atr&aacute;s, liberta&ccedil;&atilde;o ou morte!</p>
+
+<p>&nbsp;</p>
