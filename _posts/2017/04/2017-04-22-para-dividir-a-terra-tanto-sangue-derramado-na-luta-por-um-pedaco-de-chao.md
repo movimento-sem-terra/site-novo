@@ -30,6 +30,7 @@ releated_posts:
   - _posts/2017/04/2017-04-07-stj-concede-habeas-corpus-a-militantes-do-mst.md
   - _posts/2017/04/2017-04-07-massacre-de-agricultores-sem-terra-no-parana-completa-um-ano.md
   - _posts/2017/04/2017-04-10-movimentos-e-organizacoes-colaboram-na-construcao-de-plano-de-trabalho-da-comissao-de-direitos-humanos-da-camara.md
+section: featured-news
 
 ---
 <p>&nbsp;</p>
