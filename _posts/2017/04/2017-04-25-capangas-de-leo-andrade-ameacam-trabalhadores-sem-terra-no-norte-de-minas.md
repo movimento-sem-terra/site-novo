@@ -4,7 +4,7 @@ tags:
   - tag: violência-no-campo
   - tag: ameaça
   - tag: direitos-humanos
-title: "Capangas de Leo Andrade ameaçam Trabalhadores Sem Terra no Norte de Minas. \n"
+title: "Capangas de Leo Andrade ameaçam Trabalhadores Sem Terra no Norte de Minas\n"
 menu: direitos humanos
 support_line: "Diante dos últimos acontecidos no Brasil percebemos que os mecanismos de justiça, de garantia dos direitos e segurança, em quase todas as chacinas, massacres e assassinatos nos conflitos agrários, não são levados a tempo"
 images_hd: //farm3.staticflickr.com/2885/34103917412_583e484833_b.jpg
