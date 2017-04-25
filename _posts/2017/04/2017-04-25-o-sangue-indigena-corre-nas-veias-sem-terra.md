@@ -58,7 +58,10 @@ Em uma &aacute;rea de 10ha, ao lado de uma reserva florestal, localizada em Dour
 Desde a primeira expuls&atilde;o, em 1999, estas pessoas lutam pela demarca&ccedil;&atilde;o de seu tekoh&aacute;, que hoje est&aacute; em posse da Usina S&atilde;o Fernando, pertencente a Jos&eacute; Carlos Bumlai, preso na opera&ccedil;&atilde;o Lava Jato. A usina, que na verdade &eacute; patrim&ocirc;nio da fazenda S&atilde;o Marcos, faz parte de um complexo de 5,5 mil hectares dedicados ao monocultivo de cana-de-a&ccedil;&uacute;car para o mercado internacional. &nbsp;Constru&iacute;da com recursos do BNDES e do Banco do Brasil, ap&oacute;s acumular uma d&iacute;vida de 1,3 bilh&atilde;o de reais a usina est&aacute; sendo vendida para a Amerra, uma gestora de fundos norte-americana.&nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="friedhof4.jpg" height="467" src="//farm3.staticflickr.com/2879/33427874774_1840a7c7a8_b.jpg" width="350" />
-<figcaption>&nbsp;o governo ileg&iacute;timo de Michel Temer marca um significativo retrocesso nas poucas leis existentes que visam proteger o direito ao modo de vida e territ&oacute;rios das popula&ccedil;&otilde;es ind&iacute;genas.</figcaption>
+<figcaption><em>O caso de Apyka&rsquo;i e dona Damiana representa,<br />
+nitidamente, a forma como o capitalismo vem<br />
+violentando os povos do campo na Am&eacute;rica Latina.<br />
+<strong>Foto:</strong>&nbsp;Thomas Bauer</em></figcaption>
 </figure>
 
 <p><br />
