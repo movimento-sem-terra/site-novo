@@ -29,6 +29,7 @@ releated_posts:
   - _posts/2017/04/2017-04-06-na-oab-de-conquista-mst-denuncia-os-quatro-anos-de-impunidade-do-caso-fabio-santos.md
   - _posts/2017/04/2017-04-07-massacre-de-agricultores-sem-terra-no-parana-completa-um-ano.md
   - _posts/2017/04/2017-04-07-stj-concede-habeas-corpus-a-militantes-do-mst.md
+section: featured-news
 
 ---
 <p>&nbsp;</p>
