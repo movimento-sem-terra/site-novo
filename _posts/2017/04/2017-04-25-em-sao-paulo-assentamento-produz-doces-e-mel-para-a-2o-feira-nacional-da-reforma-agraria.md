@@ -5,7 +5,7 @@ tags:
   - tag: produtos-orgânicos
   - tag: produção
 support_line: "Unidas, as mulheres trabalhadoras do Assentamento Dom Tomás são o exemplo de que a organização pode ajudar a contornar as dificuldades geradas pelo atual modelo de produção de alimentos"
-title: Em São Paulo assentamento produz doces e mel para a 2º Feira Nacional da Reforma Agrária
+title: "Em São Paulo, assentamento produz doces e mel para a 2º Feira Nacional da Reforma Agrária"
 menu: agricultura camponesa
 images_hd: //farm3.staticflickr.com/2943/34265191185_90d60d332a_b.jpg
 layout: post
@@ -24,6 +24,20 @@ files:
     small: //farm3.staticflickr.com/2943/34265191185_90d60d332a_n.jpg
     title: 1.JPG
     $$hashKey: 068
+  - link: //farm3.staticflickr.com/2950/34109203332_70dbc1f699_b.jpg
+    original: //farm3.staticflickr.com/2950/34109203332_28c534058e_o.jpg
+    thumbnail: //farm3.staticflickr.com/2950/34109203332_70dbc1f699_t.jpg
+    medium: //farm3.staticflickr.com/2950/34109203332_70dbc1f699_z.jpg
+    small: //farm3.staticflickr.com/2950/34109203332_70dbc1f699_n.jpg
+    title: 3.JPG
+    $$hashKey: 05F
+  - link: //farm3.staticflickr.com/2813/33456472493_412caf180a_b.jpg
+    original: //farm3.staticflickr.com/2813/33456472493_529565786b_o.jpg
+    thumbnail: //farm3.staticflickr.com/2813/33456472493_412caf180a_t.jpg
+    medium: //farm3.staticflickr.com/2813/33456472493_412caf180a_z.jpg
+    small: //farm3.staticflickr.com/2813/33456472493_412caf180a_n.jpg
+    title: 2.JPG
+    $$hashKey: 05I
 created_date: "2017-04-25T13:46:52-03:00"
 published: true
 releated_posts:
@@ -38,6 +52,12 @@ releated_posts:
   - _posts/2017/03/2017-03-30-mst-realiza-8a-feira-cultural-da-reforma-agraria-no-ceara.md
 
 ---
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="2.JPG" height="393" src="//farm3.staticflickr.com/2813/33456472493_412caf180a_b.jpg" width="700" />
+<figcaption></figcaption>
+</figure>
+</div>
+
 <p>&nbsp;</p>
 
 <p><em>Por Leonardo Fernandes<br />
@@ -52,8 +72,10 @@ Pomar cheio, horta de dar gosto&hellip; Agora &eacute; hora de preparar os produ
 <p><br />
 Al&eacute;m dos alimentos in natura, o Assentamento Dom Tom&aacute;s Baldu&iacute;no levar&aacute; doces, produzidos pelas mulheres assentadas.</p>
 
+<p>&nbsp;</p>
+
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="4.JPG" height="393" src="//farm3.staticflickr.com/2813/34107892602_1a86b81e4a_b.jpg" width="700" />
+<figure class="image" style="display:inline-block"><img alt="3.JPG" height="393" src="//farm3.staticflickr.com/2950/34109203332_70dbc1f699_b.jpg" width="700" />
 <figcaption></figcaption>
 </figure>
 </div>
@@ -75,5 +97,11 @@ Apesar da iniciativa ter sido tomada pelas assentadas, alguns companheiros se so
 
 <p><br />
 Unidas, as mulheres trabalhadoras do Assentamento Dom Tom&aacute;s s&atilde;o o exemplo de que a organiza&ccedil;&atilde;o pode ajudar a contornar as dificuldades geradas pelo atual modelo de produ&ccedil;&atilde;o de alimentos e pelo cen&aacute;rio pol&iacute;tico de golpe. A aus&ecirc;ncia de incentivos n&atilde;o impediu a cria&ccedil;&atilde;o de novos projetos produtivos, que geram renda &agrave;s fam&iacute;lias assentadas, e alimentos de qualidade para o povo trabalhador do Brasil.&nbsp;</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="4.JPG" height="393" src="//farm3.staticflickr.com/2813/34107892602_1a86b81e4a_b.jpg" width="700" />
+<figcaption></figcaption>
+</figure>
+</div>
 
 <p>&nbsp;</p>
