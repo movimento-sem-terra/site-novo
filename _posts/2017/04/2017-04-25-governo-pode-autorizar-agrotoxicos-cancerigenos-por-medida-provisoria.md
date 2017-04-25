@@ -30,6 +30,7 @@ releated_posts:
   - _posts/2016/11/2016-11-02-regiao-sul-consome-23-dos-agrotoxicos-do-pais-parana-so-perde-para-sp-e-mt.md
   - _posts/2016/12/2016-12-02-movimentos-repudiam-recomendacao-da-anvisa-sobre-como-tirar-agrotoxicos-dos-alimentos.md
   - _posts/2016/08/2016-08-29-livres-de-impostos-agrotoxicos-seguem-causando-cancer-malformacoes-e-mortes.md
+label: articles
 
 ---
 <div style="text-align:center">
