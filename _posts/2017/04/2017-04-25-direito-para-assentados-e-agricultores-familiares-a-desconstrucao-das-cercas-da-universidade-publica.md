@@ -18,6 +18,13 @@ files:
     small: //farm5.staticflickr.com/4184/33425011644_07f41f6e60_n.jpg
     title: encontr.jpg
     $$hashKey: 08G
+  - link: //farm3.staticflickr.com/2821/33457982383_c8aa6616c9_b.jpg
+    original: //farm3.staticflickr.com/2821/33457982383_6a58d4e5a7_o.jpg
+    thumbnail: //farm3.staticflickr.com/2821/33457982383_c8aa6616c9_t.jpg
+    medium: //farm3.staticflickr.com/2821/33457982383_c8aa6616c9_z.jpg
+    small: //farm3.staticflickr.com/2821/33457982383_c8aa6616c9_n.jpg
+    title: 17862784_269795806793837_7104349994501543726_n.jpg
+    $$hashKey: 0B1
 created_date: "2017-04-25T14:54:15-03:00"
 published: true
 releated_posts:
@@ -76,7 +83,9 @@ A experi&ecirc;ncia pioneira foi desenvolvida pela Universidade Federal de Goi&a
 Coordenadores dos cursos e professores que estiveram &agrave; frente na defesa de desenvolvimento do curso dirigido &agrave; estas popula&ccedil;&otilde;es apontam que a forma&ccedil;&atilde;o n&atilde;o destoa do curso regular &ndash; os cursos mant&ecirc;m a mesma grade da gradua&ccedil;&atilde;o daquele voltado ao aluno que acessa &agrave; universidade pelo vestibular tradicional. As especificidades do curso dirigido aos trabalhadores rurais se fazem no regime de altern&acirc;ncia - uma parte do ano letivo os universit&aacute;rios passam na universidade, outra parte nos seus territ&oacute;rios de origem. Neste &uacute;ltimo, os discentes s&atilde;o orientados a seguir um programa de estudos. &nbsp;</p>
 
 <p><br />
-De acordo com a professora da Universidade de Bras&iacute;lia (UnB), Maria do Socorro Silva, esse modelo educacional foi uma resposta da educa&ccedil;&atilde;o formal frente &agrave; realidade rural e &ldquo;possibilita a frequ&ecirc;ncia &agrave; escola tamb&eacute;m para quem vive fora dos centros urbanos&rdquo;, aponta. &nbsp;<br />
+De acordo com a professora da Universidade de Bras&iacute;lia (UnB), Maria do Socorro Silva, esse modelo educacional foi uma resposta da educa&ccedil;&atilde;o formal frente &agrave; realidade rural e &ldquo;possibilita a frequ&ecirc;ncia &agrave; escola tamb&eacute;m para quem vive fora dos centros urbanos&rdquo;, aponta. &nbsp;</p>
+
+<p><br />
 A primeira turma da UFG, composta por 57 estudantes de 19 estados brasileiros, formou-se em 2012. No ano passado foi iniciada nova turma nesta universidade. J&aacute; outras quatro universidades ainda passam pela experi&ecirc;ncia da primeira turma.</p>
 
 <p><br />
