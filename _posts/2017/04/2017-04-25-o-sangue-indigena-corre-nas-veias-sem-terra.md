@@ -38,6 +38,8 @@ releated_posts:
   - _posts/2016/10/2016-10-06-cardapio-da-bancada-ruralista-traz-venda-de-terras-a-estrangeiros-como-prioridade.md
   - _posts/2016/10/2016-10-19-o-agro-e-cidio.md
   - _posts/2016/09/2016-09-10-povos-e-comunidades-tradicionais-ameacados-pelo-governo-temer.md
+section: featured-news
+label: articles
 
 ---
 <p>&nbsp;</p>
@@ -76,6 +78,12 @@ Al&eacute;m disso, o governo ileg&iacute;timo de Michel Temer marca um significa
 <p><br />
 O cen&aacute;rio posto para os povos ind&iacute;genas &eacute; o mais cruel poss&iacute;vel: a nega&ccedil;&atilde;o da possibilidade de existir enquanto ind&iacute;gena &ndash; com todo seu modo de viver e ver o mundo &ndash; e pessoa &ndash; a naturaliza&ccedil;&atilde;o da viol&ecirc;ncia dentro das reservas ind&iacute;genas avan&ccedil;a a passos largos. Na verdade, n&atilde;o existe outra forma de caracterizar a realidade posta: os povos ind&iacute;genas no Brasil vivem em um estado de guerra. &Eacute; justamente por isto que o Acampamento Terra Livre, que ocorre durante esta semana em Bras&iacute;lia, reunindo ind&iacute;genas de todo o pa&iacute;s, &eacute; um significativo espa&ccedil;o de luta e resist&ecirc;ncia, que se fortalece mais ainda quando apoiado por camponeses e camponesas. O ATL ao afirmar que &eacute; necess&aacute;rio &ldquo;unificar as lutas em defesa do Brasil ind&iacute;gena&rdquo; deixa expl&iacute;cito que &eacute; somente pela unifica&ccedil;&atilde;o de toda classe trabalhadora que conseguir&aacute; superar o modelo de desenvolvimento posto.</p>
 
+<figure class="image" style="float:right"><img alt="EFJ_9694-Editar-Editar-Editar.JPG" height="232" src="//farm3.staticflickr.com/2924/34269592565_d32189893b_b.jpg" width="350" />
+<figcaption>A alian&ccedil;a entre Sem Terra e ind&iacute;genas &eacute; crucial para o<br />
+enfrentamento ao capitalismo e combate ao agroneg&oacute;cio.&nbsp;<em>&nbsp;<br />
+<strong>Foto:</strong>&nbsp;Eliel Freitas Jr.</em></figcaption>
+</figure>
+
 <p><br />
 A resist&ecirc;ncia dos Kaiow&aacute;s pode ser exemplar para toda a classe trabalhadora. Para eles, s&oacute; existe uma sa&iacute;da, que &eacute; a nega&ccedil;&atilde;o dos instrumentos falhos de resolu&ccedil;&atilde;o de conflitos postos pelo Estado e o enfrentamento direto ao capital, por meio das retomadas. As retomadas representam a &uacute;nica possibilidade real de garantir sua sobreviv&ecirc;ncia. Elas s&atilde;o o reflexo da busca pela autonomia deste povo, negando as respostas in&uacute;teis de governos, por mais tentadoras que possam ser suas promessas.</p>
 
@@ -84,5 +92,3 @@ Por isto que a alian&ccedil;a entre Sem Terra e ind&iacute;genas &eacute; crucia
 
 <p style="text-align: right;"><br />
 <em>Movimento dos Trabalhadores Rurais Sem Terra - Mato Grosso do Sul</em></p>
-
-<p>&nbsp;</p>
