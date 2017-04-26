@@ -5,7 +5,7 @@ tags:
   - tag: território-indigena
   - tag: violência
 images_hd: //farm3.staticflickr.com/2935/34285485215_4b4462014f_b.jpg
-title: "Em Campo Grande, militares agem com violência em retomada de território indígena"
+title: "Em Caarapó, militares agem com violência em retomada de território indígena"
 support_line: "O tekohá faz parte da Terra Indígena Dourados-Amambaipeguá I, que foi identificada pela Funai como de ocupação tradicional Guarani-Kaiowá em maio de 2016"
 menu: direitos humanos
 layout: post
