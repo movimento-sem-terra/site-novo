@@ -7,7 +7,7 @@ tags:
 title: "“O golpe contra a democracia se traduz em conflitos no campo”, declara CPT "
 support_line: "Relatório revela índices recordes de conflitos rurais, assassinatos e encarceramento de trabalhadores do campo no último ano\n"
 menu: direitos humanos
-section: cover
+section: featured-news
 images_hd: //farm3.staticflickr.com/2838/34087991612_13599c23ed_b.jpg
 layout: post
 files:
