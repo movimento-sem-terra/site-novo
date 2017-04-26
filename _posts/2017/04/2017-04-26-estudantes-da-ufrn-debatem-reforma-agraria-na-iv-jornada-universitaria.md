@@ -7,7 +7,7 @@ tags:
 menu: "educação, cultura e comunicação"
 title: Estudantes da UFRN debatem Reforma Agrária na IV Jornada Universitária
 support_line: A atividade que teve como objetivo pautar a atualidade da luta pela terra no Brasil e denunciar os 21 de impunidade do Massacre de Eldorado dos Carajás
-images_hd: //farm3.staticflickr.com/2866/34156038161_b86e4a4dde_b.jpg
+images_hd: //farm3.staticflickr.com/2838/34286954815_db0dfb8468_b.jpg
 layout: post
 files:
   - link: //farm3.staticflickr.com/2866/34156038161_b86e4a4dde_b.jpg
@@ -17,6 +17,13 @@ files:
     small: //farm3.staticflickr.com/2866/34156038161_b86e4a4dde_n.jpg
     title: WhatsApp Image 2017-04-21 at 20.46.28 (1).jpeg
     $$hashKey: 0HN
+  - link: //farm3.staticflickr.com/2838/34286954815_db0dfb8468_b.jpg
+    original: //farm3.staticflickr.com/2838/34286954815_dc623003cf_o.jpg
+    thumbnail: //farm3.staticflickr.com/2838/34286954815_db0dfb8468_t.jpg
+    medium: //farm3.staticflickr.com/2838/34286954815_db0dfb8468_z.jpg
+    small: //farm3.staticflickr.com/2838/34286954815_db0dfb8468_n.jpg
+    title: WhatsApp Image 2017-04-21 at 20.46.27.jpeg
+    $$hashKey: 0SQ
 created_date: "2017-04-26T14:49:21-03:00"
 published: true
 releated_posts:
