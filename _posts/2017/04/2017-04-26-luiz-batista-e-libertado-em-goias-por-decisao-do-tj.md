@@ -41,7 +41,7 @@ releated_posts:
 <p>Encontra-se em liberdade o agricultor perseguido pol&iacute;tico da Reforma Agr&aacute;ria, Luiz Batista Borges, encarcerado h&aacute; mais de um ano em Rio Verde de Goi&aacute;s.</p>
 
 <p><br />
-Luiz e outros militantes que lutam pelo direito ao acesso &agrave; terra no estado do Brasil central haviam sido enquadrados de forma in&eacute;dita na lei que tipifica o crime de organiza&ccedil;&atilde;o criminosa.</p>
+Luiz e outros militantes que lutam pelo direito ao acesso &agrave; terra no estado do Brasil central haviam sido enquadrados de forma in&eacute;dita na lei que tipifica o crime de organiza&ccedil;&atilde;o criminosa. <a href="http://www.mst.org.br/2016/06/11/valdir-e-luiz-batista-presos-politicos-em-goias.html">(Saiba mais)</a></p>
 
 <p><br />
 Outro preso pol&iacute;tico em Goi&aacute;s, Valdir Misnerovicz, j&aacute; havia sido liberado em outubro de 2016, por decis&atilde;o do Supremo Tribunal de Justi&ccedil;a (STJ).</p>
