@@ -36,6 +36,14 @@
       width: 100%;
       height: auto;
     }
+
+    @include media($tablet) {
+      background-image: radial-gradient(#ecdfd2, rgba(194,153,117,0.5)), url(http://farm1.staticflickr.com/706/22202311050_2dd299212e_b.jpg);
+      background-attachment: fixed;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+    }
   }
 
   .information {
