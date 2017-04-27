@@ -22,6 +22,7 @@ published: true
 releated_posts:
   - _posts/2017/04/2017-04-07-formosa-de-goias-recebe-o-i-circuito-de-feiras-e-mostras-culturais-da-reforma-agraria-do-dfe.md
   - _posts/2017/03/2017-03-27-as-feiras-sao-resultado-de-um-processo-organizativo-do-mst-e-um-traco-muito-forte-da-cultura-do-nosso-povo.md
+special-page: feira-2017
 
 ---
 <p>&nbsp;</p>
