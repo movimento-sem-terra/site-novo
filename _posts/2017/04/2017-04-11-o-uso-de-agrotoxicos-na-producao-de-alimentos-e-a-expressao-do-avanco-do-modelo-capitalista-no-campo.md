@@ -30,6 +30,7 @@ releated_posts:
   - _posts/2017/01/2017-01-10-agronegocio-na-amazonia-logistica-e-tecnologia-sustentam-modelo-colonialista.md
   - _posts/2017/01/2017-01-10-20-grupos-estrangeiros-tem-3-milhoes-de-ha-de-terras-no-brasil.md
   - _posts/2017/01/2017-01-20-gigantes-do-agronegocio-o-risco-das-fusoes-para-a-agroecologia.md
+special-page: feira-2017
 
 ---
 <p>&nbsp;</p>
