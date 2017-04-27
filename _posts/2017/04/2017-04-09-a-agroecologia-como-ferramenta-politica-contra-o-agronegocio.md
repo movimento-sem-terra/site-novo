@@ -51,6 +51,7 @@ releated_posts:
   - _posts/2017/02/2017-02-06-mst-realiza-vi-feira-cultural-da-reforma-agraria-no-ceara.md
   - _posts/2017/03/2017-03-27-as-feiras-sao-resultado-de-um-processo-organizativo-do-mst-e-um-traco-muito-forte-da-cultura-do-nosso-povo.md
   - _posts/2017/03/2017-03-24-mst-anuncia-data-para-2a-feira-nacional-da-reforma-agraria.md
+special-page: feira-2017
 
 ---
 <p><img alt="photo_2017-04-07_12-47-55.jpg" height="465" src="//farm4.staticflickr.com/3952/33779765962_191e4a6692_b.jpg" width="700" /></p>
