@@ -35,6 +35,7 @@ releated_posts:
   - _posts/2016/12/2016-12-09-superando-expectativas-feira-cicero-guedes-comercializa-cerca-de-180-toneladas-de-alimentos.md
   - _posts/2016/12/2016-12-13-feira-cultural-da-reforma-agraria-e-a-construcao-do-poder-popular.md
   - _posts/2016/12/2016-12-10-a-alimentacao-e-um-elemento-central-para-integracao-do-campo-e-cidade-afirma-dirigente.md
+special-page: feira-2017
 
 ---
 <div style="text-align:center">
