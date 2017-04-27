@@ -9,6 +9,7 @@ images_hd: //farm1.staticflickr.com/672/33245787720_d759bdbac9_b.jpg
 support_line: "O Parque da Água Branca abrigará um conjunto de feiras, que integram a programação principal: alimentos saudáveis, literatura, culinária, artes e troca de mudas e sementes."
 menu: reforma agrária
 section: featured-news
+special-page: feira-2017
 layout: post
 files:
   - link: //farm1.staticflickr.com/672/33245787720_d759bdbac9_b.jpg

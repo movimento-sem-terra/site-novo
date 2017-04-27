@@ -8,6 +8,7 @@ support_line: "Campanha pede aprovação pelo Congresso Nacional da Política Na
 images_hd: //farm3.staticflickr.com/2927/33572875041_703d68f1de_b.jpg
 menu: lutas e mobilizações
 layout: post
+special-page: feira-2017
 files:
   - link: //farm3.staticflickr.com/2927/33572875041_703d68f1de_b.jpg
     original: //farm3.staticflickr.com/2927/33572875041_331f018e34_o.jpg

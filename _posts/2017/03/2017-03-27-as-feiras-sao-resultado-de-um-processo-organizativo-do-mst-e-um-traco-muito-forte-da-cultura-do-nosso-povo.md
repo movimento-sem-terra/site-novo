@@ -8,6 +8,7 @@ title: “As feiras são resultado de um processo organizativo do MST e um traç
 support_line: "Débora Nunes, do setor de produção do MST, fala sobre os preparativos para a 2ª Feira Nacional da Reforma Agrária, que acontece entre os dias 4 e 7 de maio, no Parque da Água Branca, em São Paulo.\n\n"
 images_hd: //farm4.staticflickr.com/3756/32840074514_e6d2ce92ff_b.jpg
 menu: agricultura camponesa
+special-page: feira-2017
 layout: post
 files:
   - link: //farm4.staticflickr.com/3898/33683035395_a313388e34_b.jpg

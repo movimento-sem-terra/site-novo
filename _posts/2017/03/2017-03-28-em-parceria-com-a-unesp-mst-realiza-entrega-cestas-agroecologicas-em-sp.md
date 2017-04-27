@@ -20,6 +20,7 @@ files:
     $$hashKey: 0PG
 created_date: "2017-03-28T12:24:46-03:00"
 published: true
+special-page: feira-2017
 releated_posts:
   - _posts/2016/11/2016-11-02-mst-desenvolve-projeto-de-hortas-agroecologicas-em-escolas-de-marica-no-rj.md
   - _posts/2017/03/2017-03-15-mst-promove-14a-abertura-oficial-da-colheita-do-arroz-agroecologico-no-rs.md

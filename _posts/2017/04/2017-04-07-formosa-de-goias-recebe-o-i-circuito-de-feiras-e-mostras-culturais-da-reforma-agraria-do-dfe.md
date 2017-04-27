@@ -10,6 +10,7 @@ images_hd: //farm4.staticflickr.com/3703/33855227316_9d8e7565fd_b.jpg
 section: null
 menu: reforma agrária
 layout: post
+special-page: feira-2017
 files:
   - link: //farm4.staticflickr.com/3703/33855227316_9d8e7565fd_b.jpg
     original: //farm4.staticflickr.com/3703/33855227316_a8c0ba0fc4_o.jpg
