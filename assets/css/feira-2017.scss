@@ -134,12 +134,19 @@
 
     h1.header-title {
       width: 100%;
-      color: #000;
       text-transform: uppercase;
       text-align: center;
       font-size: 1.8em;
       border-bottom: 1px solid #aeaeae;
       padding: 20px 0px;
+      font-family: FeiraFont;
+      color: white;
+      text-shadow: 1px 2px 5px #000;
+      font-size: 2em;
+
+      @include media($tablet) {
+        font-size: 60px;
+      }
     }
 
 
