@@ -48,11 +48,17 @@ releated_posts:
 <p><em>Por Catiana de Medeiros<br />
 Da P&aacute;gina do MST</em></p>
 
-<p><br />
-Este ano as fam&iacute;lias assentadas, que organizam sua produ&ccedil;&atilde;o por meio de cooperativas e agroind&uacute;strias, enviar&atilde;o cerca de 24 mil quilos de alimentos &agrave; feira, entre eles v&aacute;rios tipos de arroz, &nbsp;feij&otilde;es, sucos, p&atilde;es, cucas, bolachas e bolos, al&eacute;m de milho, leite em p&oacute;, sementes de hortali&ccedil;as, farinhas de milho e trigo, linha&ccedil;a dourada, extrato de tomate, geleias, aipim, moranga, cuias, erva-mate e bombas de chimarr&atilde;o. A maior parte &eacute; produzida sem o uso de venenos.</p>
+<p>&nbsp;</p>
 
-<p><br />
-De acordo com Adelar Pretto, do setor de Produ&ccedil;&atilde;o do MTS/RS, a feira &eacute; um instrumento fundamental para os produtores estabelecerem rela&ccedil;&atilde;o direta com os consumidores e futuras rela&ccedil;&otilde;es comerciais. &ldquo;&Eacute; uma oportunidade de mostramos que a Reforma Agr&aacute;ria d&aacute; certo, que as fam&iacute;lias est&atilde;o fazendo com que a terra cumpra a sua fun&ccedil;&atilde;o social de produzir alimentos. A feira, al&eacute;m de oferecer uma produ&ccedil;&atilde;o saud&aacute;vel e diversificada, tamb&eacute;m contribui para elevar a unidade entre os trabalhadores camponeses e urbanos atrav&eacute;s de v&aacute;rios debates&rdquo;, complementa.</p>
+<div>Alimentos que s&atilde;o produzidos pelo Movimento dos Trabalhadores Rurais Sem Terra (MST) nos assentamentos do Rio Grande do Sul tamb&eacute;m ser&atilde;o comercializados de 4 a 7 de maio no Parque da &Aacute;gua Branca, localizado no bairro Barra Funda, na cidade de S&atilde;o Paulo, onde acontece a 2&ordm; Feira Nacional da Reforma Agr&aacute;ria.</div>
+
+<div>&nbsp;</div>
+
+<div><br />
+Este ano as fam&iacute;lias assentadas, que organizam sua produ&ccedil;&atilde;o por meio de cooperativas e agroind&uacute;strias, enviar&atilde;o cerca de 24 mil quilos de alimentos &agrave; feira, entre eles v&aacute;rios tipos de arroz, &nbsp;feij&otilde;es, sucos, p&atilde;es, cucas, bolachas e bolos, al&eacute;m de milho, leite em p&oacute;, sementes de hortali&ccedil;as, farinhas de milho e trigo, linha&ccedil;a dourada, extrato de tomate, geleias, aipim, moranga, cuias, erva-mate e bombas de chimarr&atilde;o. A maior parte &eacute; produzida sem o uso de venenos.<br />
+<br />
+<br />
+De acordo com Adelar Pretto, do setor de Produ&ccedil;&atilde;o do MTS/RS, a feira &eacute; um instrumento fundamental para os produtores estabelecerem rela&ccedil;&atilde;o direta com os consumidores e futuras rela&ccedil;&otilde;es comerciais. &ldquo;&Eacute; uma oportunidade de mostramos que a Reforma Agr&aacute;ria d&aacute; certo, que as fam&iacute;lias est&atilde;o fazendo com que a terra cumpra a sua fun&ccedil;&atilde;o social de produzir alimentos. A feira, al&eacute;m de oferecer uma produ&ccedil;&atilde;o saud&aacute;vel e diversificada, tamb&eacute;m contribui para elevar a unidade entre os trabalhadores camponeses e urbanos atrav&eacute;s de v&aacute;rios debates&rdquo;, complementa.</div>
 
 <p><br />
 Um dos alimentos que mais se destaca nas feiras em que o MST participa &eacute; o arroz agroecol&oacute;gico, que come&ccedil;ou a ser produzido no ano de 1999 em assentamentos da Reforma Agr&aacute;ria na regi&atilde;o Metropolitana de Porto Alegre. Hoje o cultivo do gr&atilde;o, que &eacute; 100% saud&aacute;vel e sem o uso de venenos, envolve 616 fam&iacute;lias em 22 assentamentos e 16 munic&iacute;pios ga&uacute;chos.</p>
