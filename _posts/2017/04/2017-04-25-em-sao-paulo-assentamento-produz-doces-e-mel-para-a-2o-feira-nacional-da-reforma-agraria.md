@@ -50,6 +50,7 @@ releated_posts:
   - _posts/2017/04/2017-04-07-formosa-de-goias-recebe-o-i-circuito-de-feiras-e-mostras-culturais-da-reforma-agraria-do-dfe.md
   - _posts/2017/04/2017-04-05-reforma-agraria-e-luta-politica-mas-e-sobretudo-e-a-realizacao-da-vida-do-sonho-e-do-alimento.md
   - _posts/2017/03/2017-03-30-mst-realiza-8a-feira-cultural-da-reforma-agraria-no-ceara.md
+special-page: feira-2017
 
 ---
 <div style="text-align:center">
