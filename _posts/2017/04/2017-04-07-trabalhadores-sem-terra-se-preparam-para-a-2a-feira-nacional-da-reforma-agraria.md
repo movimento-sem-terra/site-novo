@@ -44,6 +44,7 @@ releated_posts:
   - _posts/2017/03/2017-03-15-mst-promove-14a-abertura-oficial-da-colheita-do-arroz-agroecologico-no-rs.md
   - _posts/2017/03/2017-03-20-cooperativa-do-parana-se-prepara-para-receber-selo-organico-da-producao-de-leite.md
   - _posts/2017/03/2017-03-24-a-contribuicao-dos-assentamentos-rurais-para-uma-regiao-em-conflito.md
+special-page: feira-2017
 
 ---
 <div style="text-align:center">
