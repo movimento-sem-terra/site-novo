@@ -57,6 +57,7 @@ releated_posts:
   - _posts/2017/03/2017-03-24-mst-anuncia-data-para-2a-feira-nacional-da-reforma-agraria.md
   - _posts/2017/03/2017-03-27-as-feiras-sao-resultado-de-um-processo-organizativo-do-mst-e-um-traco-muito-forte-da-cultura-do-nosso-povo.md
   - _posts/2017/04/2017-04-05-reforma-agraria-e-luta-politica-mas-e-sobretudo-e-a-realizacao-da-vida-do-sonho-e-do-alimento.md
+special-page: feira-2017
 
 ---
 <div style="text-align:center">
