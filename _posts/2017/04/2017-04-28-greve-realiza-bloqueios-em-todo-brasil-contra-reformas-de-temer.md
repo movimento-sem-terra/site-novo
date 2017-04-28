@@ -89,3 +89,7 @@ Na avalia&ccedil;&atilde;o dos coordenadores do MST, esse &eacute; um ponto de v
 
 <p><br />
 A repercuss&atilde;o deste dia de a&ccedil;&otilde;es de Greve Geral atingiu propor&ccedil;&otilde;es internacionais. A hashtag #BrasilEmGreve se posicionou em primeiro lugar dos assuntos mais falados na rede social Twitter em todo o globo, desde as primeiras horas desta sexta-feira. Pronunciamentos de solidariedade chegaram de diferentes partes da Am&eacute;rica Latina, como Nicar&aacute;gua, Panam&aacute;, Venezuela, Cuba e outros.</p>
+
+<p>&nbsp;</p>
+
+<p><iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/WJz56Hiu_88" width="640"></iframe></p>
