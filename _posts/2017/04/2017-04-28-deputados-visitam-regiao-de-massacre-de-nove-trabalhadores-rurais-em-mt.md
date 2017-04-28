@@ -5,7 +5,7 @@ tags:
   - tag: violência-no-campo
   - tag: mato-grosso
 title: Deputados visitam região de massacre de nove trabalhadores rurais em MT
-support_line: "Parlamentares da Comissão de Direitos Humanos e Minorias (CMDH), da Câmara dos Deputados se encontram no local onde na quinta-feira (20), mais um caso de violência contra os trabalhadores do campo que deixou nove vítimas."
+support_line: "Parlamentares da CMDH da Câmara dos Deputados se encontram no local onde na quinta-feira (20), mais um caso de violência contra os trabalhadores do campo que deixou nove vítimas."
 menu: direitos humanos
 images_hd: //farm3.staticflickr.com/2811/33939266860_8687d09f5a_b.jpg
 layout: post
