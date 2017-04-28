@@ -7,6 +7,14 @@
 		<atom:link href="http://www.mst.org.br/rss.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Acompanhe minuto a minuto do #BrasilEmGreve</title>
+				<description>Veja em tempo real as paralisações no Brasil nesta sexta-feira</description>
+				<pubDate>Fri, 28 Apr 2017 12:45:14 +0000</pubDate>
+				<link>http://www.mst.org.br/2017/04/28/acompanhe-minuto-a-minuto-do-brasilemgreve.html</link>
+				<guid isPermaLink="true">http://www.mst.org.br/2017/04/28/acompanhe-minuto-a-minuto-do-brasilemgreve.html</guid>
+			</item>
+		
+			<item>
 				<title>Jagunços fortemente armados agridem trabalhadores rurais em Pernambuco </title>
 				<description>As famílias do acampamento estão amedrontadas com tamanha audácia dos pistoleiros em agir como milícias e com a conivência da polícia que não tomou nenhuma providência com as ações ilegais</description>
 				<pubDate>Thu, 27 Apr 2017 20:31:25 +0000</pubDate>
@@ -77,14 +85,6 @@
 				<pubDate>Wed, 26 Apr 2017 19:54:22 +0000</pubDate>
 				<link>http://www.mst.org.br/2017/04/26/depoimento-do-ex-presidente-lula-e-adiado.html</link>
 				<guid isPermaLink="true">http://www.mst.org.br/2017/04/26/depoimento-do-ex-presidente-lula-e-adiado.html</guid>
-			</item>
-		
-			<item>
-				<title>Militante Sem Terra é libertado em Goiás </title>
-				<description>Luis Batista ficou encarcerado injustamente, por lutar pela transformação da Usina Santa Helena, uma das maiores devedoras da União no país</description>
-				<pubDate>Wed, 26 Apr 2017 17:50:08 +0000</pubDate>
-				<link>http://www.mst.org.br/2017/04/26/militante-sem-terra-e-libertado-em-goias.html</link>
-				<guid isPermaLink="true">http://www.mst.org.br/2017/04/26/militante-sem-terra-e-libertado-em-goias.html</guid>
 			</item>
 		
 	</channel>
