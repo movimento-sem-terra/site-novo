@@ -4,7 +4,7 @@ tags:
   - tag: reforma-agrária
   - tag: jornada-nacional-de-lutas
   - tag: terras
-section: campaign
+section: null
 link: "http://www.mst.org.br/jornada-nacional-de-luta-por-reforma-agraria-2017/"
 target: _self
 images_hd: //farm3.staticflickr.com/2936/33282640763_538d08caf7_b.jpg
@@ -27,5 +27,6 @@ releated_posts:
   - _posts/2016/09/2016-09-08-mst-intensifica-a-luta-pela-terra-em-santa-catarina.md
   - _posts/2016/09/2016-09-08-sem-terra-permanecem-ocupando-incra-por-tempo-indeterminado.md
   - _posts/2016/12/2016-12-28-patrus-ananias-alerta-para-a-legalizacao-da-grilagem-com-mp-759-de-temer.md
+menu: lutas e mobilizações
 
 ---
