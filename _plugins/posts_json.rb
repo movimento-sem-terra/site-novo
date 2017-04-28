@@ -5,8 +5,8 @@ module Jekyll
   module PostsJSON
     include Jekyll::VideoEmbeded
 
-    def generate_json(obj, stdout=false)
-       array = Array(obj).flatten
+    def generate_json(obj, limit=-1, stdout=false)
+       array = Array(obj)[0..limit].flatten
 
        array.map do |post|
         result = {

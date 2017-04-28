@@ -2,5 +2,6 @@
 layout: null
 ---
 
-{% assign posts = site.posts  | where: "special-page", "feira-2017" | limit: 8 %}
-{% include posts.json posts=posts %}
+{% assign posts = site.posts  | where: "special-page", "feira-2017" %}
+
+{{ posts | generate_json: 10 }}
