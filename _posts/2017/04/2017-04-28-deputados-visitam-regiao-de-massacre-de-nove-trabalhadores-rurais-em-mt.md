@@ -30,6 +30,7 @@ releated_posts:
   - _posts/2017/01/2017-01-09-sem-terra-sofrem-atentado-a-bala-em-santa-helena-de-goias.md
   - _posts/2017/04/2017-04-22-para-dividir-a-terra-tanto-sangue-derramado-na-luta-por-um-pedaco-de-chao.md
   - _posts/2017/04/2017-04-20-sem-julgamento-integrantes-do-mst-seguem-presos-ha-mais-de-cinco-meses.md
+section: featured-news
 
 ---
 <p>&nbsp;</p>
