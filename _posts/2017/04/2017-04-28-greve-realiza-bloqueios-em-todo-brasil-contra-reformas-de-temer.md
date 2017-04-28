@@ -18,20 +18,20 @@ files:
     small: //farm3.staticflickr.com/2812/33482051824_ce22c76133_n.jpg
     title: 0fe984d6-bfc2-4b69-bc23-b38135471f0b.jpeg
     $$hashKey: 0II
-  - link: //farm3.staticflickr.com/2821/33513904733_5f5f065da0_b.jpg
-    original: //farm3.staticflickr.com/2821/33513904733_5060daff70_o.jpg
-    thumbnail: //farm3.staticflickr.com/2821/33513904733_5f5f065da0_t.jpg
-    medium: //farm3.staticflickr.com/2821/33513904733_5f5f065da0_z.jpg
-    small: //farm3.staticflickr.com/2821/33513904733_5f5f065da0_n.jpg
-    title: WhatsApp Image 2017-04-28 at 09.38.01.jpeg
-    $$hashKey: 0TT
-  - link: //farm3.staticflickr.com/2948/33482313674_ee73c7160d_b.jpg
-    original: //farm3.staticflickr.com/2948/33482313674_8727a5f5ac_o.jpg
-    thumbnail: //farm3.staticflickr.com/2948/33482313674_ee73c7160d_t.jpg
-    medium: //farm3.staticflickr.com/2948/33482313674_ee73c7160d_z.jpg
-    small: //farm3.staticflickr.com/2948/33482313674_ee73c7160d_n.jpg
-    title: WhatsApp Image 2017-04-28 at 09.39.42.jpeg
-    $$hashKey: 0TW
+  - link: //farm3.staticflickr.com/2896/33515510873_d65abb59c7_b.jpg
+    original: //farm3.staticflickr.com/2896/33515510873_0de3b18f54_o.jpg
+    thumbnail: //farm3.staticflickr.com/2896/33515510873_d65abb59c7_t.jpg
+    medium: //farm3.staticflickr.com/2896/33515510873_d65abb59c7_z.jpg
+    small: //farm3.staticflickr.com/2896/33515510873_d65abb59c7_n.jpg
+    title: C-gEtTvXUAAO29R.jpg
+    $$hashKey: 0LU
+  - link: //farm3.staticflickr.com/2838/33515511823_e894e9cf2e_b.jpg
+    original: //farm3.staticflickr.com/2838/33515511823_ca6f9600fd_o.jpg
+    thumbnail: //farm3.staticflickr.com/2838/33515511823_e894e9cf2e_t.jpg
+    medium: //farm3.staticflickr.com/2838/33515511823_e894e9cf2e_z.jpg
+    small: //farm3.staticflickr.com/2838/33515511823_e894e9cf2e_n.jpg
+    title: WhatsApp Image 2017-04-28 at 07.37.3828MPB.jpeg
+    $$hashKey: 0LX
 created_date: "2017-04-28T14:12:01-03:00"
 published: true
 releated_posts:
@@ -63,6 +63,10 @@ No meio rural e tamb&eacute;m em algumas cidades, o Movimento dos Trabalhadores 
 Foram realizados bloqueios de rodovias pelos trabalhadores rurais e marchas nos seguintes estados: Mato Grosso do Sul, S&atilde;o Paulo, Pernambuco, Par&aacute;, Para&iacute;ba, Esp&iacute;rito Santo, Rio de Janeiro, Maranh&atilde;o, Rio Grande do Norte, Paran&aacute;, Piau&iacute;, Bahia, Tocantins, Alagoas, Minas Gerais, Rio Grande do Sul, Distrito Federal, Santa Catarina e Goi&aacute;s.<br />
 No Maranh&atilde;o, o Movimento bloqueou todas as entradas de acesso &agrave; capital S&atilde;o Lu&iacute;s e ao Porto de Itaqui.</p>
 
+<figure class="image" style="float:left"><img alt="WhatsApp Image 2017-04-28 at 07.37.3828MPB.jpeg" height="233" src="//farm3.staticflickr.com/2838/33515511823_e894e9cf2e_b.jpg" width="350" />
+<figcaption></figcaption>
+</figure>
+
 <p><br />
 Trabalhadores de Alagoas bloquearam 11 pontos de rodovias. Em Pernambuco, foram 34 bloqueios. Nos diversos outros estados, o MST se somou a a&ccedil;&otilde;es da Frente Brasil Popular, com marchas massivas, como a que levou 50 mil trabalhadores &agrave;s ruas de Fortaleza esta manh&atilde;.</p>
 
@@ -77,6 +81,10 @@ Na avalia&ccedil;&atilde;o dos coordenadores do MST, esse &eacute; um ponto de v
 
 <p><br />
 &ldquo;Nesse 28 de abril, o Brasil acordou em clima de Greve Geral. Nem a grande m&iacute;dia consegue esconder a indigna&ccedil;&atilde;o organizada da classe trabalhadora contra o governo golpista de Temer e suas medidas frutos tamb&eacute;m do golpismo. &Eacute; uma grande demonstra&ccedil;&atilde;o de for&ccedil;as e, se seguirmos assim, podemos barrar essas reformas e derrubar esse governo ileg&iacute;timo. Fora Temer! Nenhum direito a menos! Viva essa grande mobiliza&ccedil;&atilde;o!&quot;</p>
+
+<figure class="image" style="float:right"><img alt="C-gEtTvXUAAO29R.jpg" height="197" src="//farm3.staticflickr.com/2896/33515510873_d65abb59c7_b.jpg" width="350" />
+<figcaption></figcaption>
+</figure>
 
 <p><br />
 A repercuss&atilde;o deste dia de a&ccedil;&otilde;es de Greve Geral atingiu propor&ccedil;&otilde;es internacionais. A hashtag #BrasilEmGreve se posicionou em primeiro lugar dos assuntos mais falados na rede social Twitter em todo o globo, desde as primeiras horas desta sexta-feira. Pronunciamentos de solidariedade chegaram de diferentes partes da Am&eacute;rica Latina, como Nicar&aacute;gua, Panam&aacute;, Venezuela, Cuba e outros.</p>
