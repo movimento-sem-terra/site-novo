@@ -5,7 +5,7 @@ tags:
   - tag: ocupação
   - tag: rio-de-janeiro
   - tag: latifundio
-title: "Em nota, Movimentos se solidarizam com os trabalhadores e trabalhadoras rurais de Açu"
+title: Movimentos se solidarizam com os trabalhadores e trabalhadoras rurais de Açu
 support_line: "O documento denuncia que nove anos depois da “publicação do decreto, quase 90% das terras desapropriadas não foram usadas e não cumprem sua função social, nem mesmo as finalidades atribuídas ao decreto”. "
 menu: lutas e mobilizações
 images_hd: //farm3.staticflickr.com/2830/34323090635_b1aaf556f6_b.jpg
@@ -39,6 +39,7 @@ releated_posts:
   - _posts/2016/09/2016-09-08-mst-ocupa-fazenda-improdutiva-ligada-a-senadora-ana-amelia-em-formosa.md
   - _posts/2016/09/2016-09-12-mst-ocupa-latifundio-no-interior-de-sao-paulo.md
   - _posts/2016/09/2016-09-12-sem-terra-ocupa-area-da-fibria-no-espirito-santo.md
+section: featured-news
 
 ---
 <div style="text-align:center">
