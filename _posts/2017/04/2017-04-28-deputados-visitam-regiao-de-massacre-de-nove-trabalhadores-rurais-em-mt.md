@@ -62,3 +62,10 @@ O material colhido da visita pode resultar em a&ccedil;&otilde;es no &acirc;mbit
 
 <p><br />
 Na noite desta quinta-feira (27), foi realizada uma audi&ecirc;ncia p&uacute;blica com a comunidade de Colniza, tamb&eacute;m com o objetivo de colher informa&ccedil;&otilde;es detalhadas e ouvir novas den&uacute;ncias sobre o conflito agr&aacute;rio na regi&atilde;o. A Comiss&atilde;o Pastoral da Terra (CPT) j&aacute; havia denunciado o aumento da viol&ecirc;ncia contra os trabalhadores rurais no Brasil, especialmente no estado do Mato Grosso, um dos mais violentos do pa&iacute;s.</p>
+
+<p><br />
+Confira v&iacute;deo &nbsp;abaixo produzido pela CPT Mato Grosso e Centro Popular de Audiovisual mostra o enterro de algumas das 9 v&iacute;timas do Massacre de Colniza, ocorrido no dia 19 de abril.</p>
+
+<p>&nbsp;</p>
+
+<p><iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/aLEiYW-5cok" width="640"></iframe></p>
