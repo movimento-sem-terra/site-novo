@@ -55,7 +55,10 @@ Desde a madrugada, milhares de camponeses Sem Terra estiveram mobilizados em div
 <p>Durante a manh&atilde;, integrantes do MST trancaram tr&ecirc;s rodovias no estado. Na BR-376, em Mau&aacute; da Serra, cerca de dois mil camponeses fecharam um grande trevo de circula&ccedil;&atilde;o de mercadorias, que liga as regi&otilde;es norte, centro e sul do estado. Com barricadas de pneus, eles bloquearam o tr&acirc;nsito at&eacute; o meio dia. Outras duas rodovias, a BR 473 e a BR 158, na regi&atilde;o central do estado tamb&eacute;m foram interditadas at&eacute; o meio dia por acampados e assentados da Reforma Agr&aacute;ria.</p>
 
 <p><br />
-De acordo com Jo&atilde;o Fl&aacute;vio, da Coordena&ccedil;&atilde;o Estadual do MST, este &eacute; um grande momento para a classe trabalhadora, pois com a retirada de direitos, os trabalhadores est&atilde;o se organizando e indo &agrave;s ruas. &ldquo;Esse 28 de abril &eacute; um dia para entrar na hist&oacute;ria da classe trabalhadora brasileira, &eacute; um dia de Greve Geral, e n&oacute;s, a classe trabalhadora do Brasil, vamos tentar realizar a grande virada para cima do golpe que estamos sofrendo no contexto atual brasileiro, contra as reformas antipopulares, a reforma da Previd&ecirc;ncia, a reforma trabalhista e pelo Fora Temer e Diretas j&aacute;&rdquo;, explicou.</p>
+De acordo com Jo&atilde;o Fl&aacute;vio, da Coordena&ccedil;&atilde;o Estadual do MST, este &eacute; um grande momento para a classe trabalhadora, pois com a retirada de direitos, os trabalhadores est&atilde;o se organizando e indo &agrave;s ruas.</p>
+
+<p><br />
+&ldquo;Esse 28 de abril &eacute; um dia para entrar na hist&oacute;ria da classe trabalhadora brasileira. &Eacute; dia de Greve Geral, e n&oacute;s, a classe trabalhadora do Brasil, vamos realizar a grande virada para cima do golpe que estamos sofrendo no contexto atual brasileiro. Contra as reformas antipopulares, a reforma da Previd&ecirc;ncia e&nbsp;trabalhista, pelo Fora Temer e Diretas j&aacute;&rdquo;, explicou.</p>
 
 <p><br />
 O MST tamb&eacute;m participou de outras mobiliza&ccedil;&otilde;es pelo estado, como em Curitiba, Londrina, Maring&aacute;, Cascavel e Foz do Igua&ccedil;u.</p>
