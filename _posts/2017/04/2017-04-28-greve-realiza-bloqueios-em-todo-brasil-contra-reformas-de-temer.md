@@ -57,7 +57,9 @@ section: cover
 <p><em>Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
-Uma movimenta&ccedil;&atilde;o de propor&ccedil;&otilde;es nunca vistas antes toma todo o territ&oacute;rio nacional nesta sexta-feira (28), com centenas de categorias de bra&ccedil;os cruzados nos 26 estados e no Distrito Federal dispostas a barrar as reformas previdenci&aacute;ria, trabalhista e a terceiriza&ccedil;&atilde;o. Na Greve Geral , convocada por todas as centrais sindicais e pelas Frentes Brasil Popular e Povo Sem Medo, acontecem marchas, piquetes, bloqueios de rodovias e atos culturais.<br />
+Uma movimenta&ccedil;&atilde;o de propor&ccedil;&otilde;es nunca vistas antes toma todo o territ&oacute;rio nacional nesta sexta-feira (28), com centenas de categorias de bra&ccedil;os cruzados nos 26 estados e no Distrito Federal dispostas a barrar as reformas previdenci&aacute;ria, trabalhista e a terceiriza&ccedil;&atilde;o. Na Greve Geral , convocada por todas as centrais sindicais e pelas Frentes Brasil Popular e Povo Sem Medo, acontecem marchas, piquetes, bloqueios de rodovias e atos culturais.</p>
+
+<p><br />
 No meio rural e tamb&eacute;m em algumas cidades, o Movimento dos Trabalhadores Rurais Sem Terra (MST) mobilizou intensamente sua base nesta sexta-feira (28).&nbsp;</p>
 
 <p><br />
