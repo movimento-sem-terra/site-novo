@@ -32,6 +32,7 @@ releated_posts:
   - _posts/2017/02/2017-02-06-os-venenos-genericos-do-ministerio-da-agricultura.md
   - _posts/2016/08/2016-08-29-livres-de-impostos-agrotoxicos-seguem-causando-cancer-malformacoes-e-mortes.md
   - _posts/2016/11/2016-11-28-golpe-na-anvisa-agrotoxico-na-comida-e-aceitavel.md
+section: featured-news
 
 ---
 <p>&nbsp;</p>
