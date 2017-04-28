@@ -13,9 +13,9 @@ collections:
   banners:
 timezone: BR
 lollipop:
-  title:  Jornada Nacional de Lutas das Mulheres Sem Terra
-  link: jornada-nacional-das-mulheres-2017
-  enabled: false
+  title:  II Feira Nacional da Reforma Agrária
+  link: II-feira-nacional-da-reforma-agraria
+  enabled: true
 gems:
   - jekyll-sitemap
 exclude:
