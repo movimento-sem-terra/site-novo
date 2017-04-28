@@ -30,7 +30,8 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p><em>Da Frente Brasil Popular </em></p>
+<p><em>Da Frente Brasil Popular<br />
+Foto: Elitiel Guedes/MST</em></p>
 
 <p>&nbsp;</p>
 
