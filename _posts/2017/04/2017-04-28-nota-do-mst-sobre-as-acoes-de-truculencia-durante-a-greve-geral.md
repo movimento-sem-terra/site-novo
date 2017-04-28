@@ -37,7 +37,7 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p>O MST emitiu ao final da tarde desta sexta-feira (28) uma Nota P&uacute;blica condenando a criminaliza&ccedil;&atilde;o das lutas e a trucul&ecirc;ncia das policias &quot;comandadas pelos Governos dos Estados&quot;. Casos de agress&atilde;o f&iacute;sica e impedimento do direito de manifesta&ccedil;&atilde;o foram registados pelo menos em Goi&acirc;nia, Rio de Janeiro e S&atilde;o Paulo, segundo o Movimento.</p>
+<p>O MST emitiu ao final da tarde desta sexta-feira (28) uma Nota P&uacute;blica condenando a criminaliza&ccedil;&atilde;o das lutas e a trucul&ecirc;ncia das policias &quot;comandadas pelos Governos dos Estados&quot;. Casos de agress&atilde;o f&iacute;sica e impedimento do direito de manifesta&ccedil;&atilde;o foram registrados pelo menos em Goi&acirc;nia, Rio de Janeiro e S&atilde;o Paulo, segundo o Movimento.</p>
 
 <p><br />
 Confira a &iacute;ntegra do posicionamento.</p>
