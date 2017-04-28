@@ -5,7 +5,7 @@ tags:
   - tag: bloqueio
   - tag: lutas-e-mobilizações
   - tag: fora-temer
-title: Greve realiza bloqueios em todo Brasil contra reformas de Temer
+title: Trabalhadores realizam bloqueios em todo Brasil contra reformas de Temer
 support_line: "A defesa da Previdência e da Consolidação das Leis Trabalhistas leva brasileiros no campo e na cidade a aderir ao movimento da greve geral. "
 menu: lutas e mobilizações
 images_hd: //farm3.staticflickr.com/2812/33482051824_ce22c76133_b.jpg
