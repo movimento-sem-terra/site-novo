@@ -25,7 +25,7 @@ releated_posts:
   - _posts/2016/09/2016-09-07-manifestantes-marcham-rumo-ao-congresso-e-defendem-fora-temer.md
   - _posts/2016/09/2016-09-07-com-o-lema-fora-temer-nenhum-direito-a-menos-ato-reune-milhares-em-sp.md
   - _posts/2016/09/2016-09-23-por-nenhum-direito-a-menos-trabalhadores-do-campo-e-da-cidade-fazem-piquetes-e-caminhadas-em-porto-alegre.md
-section: cover
+section: featured-news
 
 ---
 <p><a class="twitter-timeline" data-partner="tweetdeck" href="https://twitter.com/Brasil_de_Fato/timelines/857729899389480961 …">#GreveGeral - Curated tweets by Brasil_de_Fato</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
