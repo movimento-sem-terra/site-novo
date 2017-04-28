@@ -2,7 +2,7 @@
 date: "2017-04-28T13:16:43-03:00"
 tags:
   - tag: reforma-agrária
-title: "Dentro do pacote de austeridades do governo Temer, MP 759 é “assalto ao patrimônio público federal”"
+title: MP 759 é “assalto ao patrimônio público federal”
 images_hd: //farm3.staticflickr.com/2884/33513334793_056282bd8a_b.jpg
 support_line: "Especialistas indicam que a Medida Provisória 759, que privatiza os assentamentos da Reforma Agrária, é inconstitucional. "
 menu: reforma agrária
