@@ -33,7 +33,7 @@ releated_posts:
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="18198231_876725945818885_3523442663019188697_n.jpg" height="466" src="//farm3.staticflickr.com/2828/34327400585_5f298b8fc6_b.jpg" width="700" />
-<figcaption>x</figcaption>
+<figcaption><strong>&atilde;o</strong></figcaption>
 </figure>
 </div>
 
