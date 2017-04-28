@@ -38,10 +38,16 @@ Da P&aacute;gina do MST</em></p>
 
 <p>O MST se somou a v&aacute;rias a&ccedil;&otilde;es, principalmente nas cidades de S&atilde;o Lu&iacute;s, Imperatriz, A&ccedil;ailandia, Newton Belo e Itapecuru Mirim. Os trabalhadores e trabalhadoras Sem Terra trancaram as rodovias BRs 010, 222, 316 e 135. Esta &uacute;ltima, &uacute;nico acesso por terra &agrave; ilha de S&atilde;o Luis, permaneceu trancada por mais de oito horas.</p>
 
-<p>Na avalia&ccedil;&atilde;o da Coordena&ccedil;&atilde;o do MST no Maranh&atilde;o, o momento &eacute; de unificar todas as categorias de trabalhadores para impedir a perda de direitos, e acumular for&ccedil;as para novas e necess&aacute;rias conquistas.</p>
+<p><br />
+Em S&atilde;o Luis, Imperatriz e A&ccedil;ailandia, parte expressiva do com&eacute;rcio n&atilde;o funcionou. Em todas as cidades, pelo menos 80% dos servidores p&uacute;blicos pararam. Em Imperatriz e S&atilde;o Luis a ades&atilde;o dos rodovi&aacute;rios foi grande. Os banc&aacute;rios tamb&eacute;m pararam em todo o estado.</p>
+
+<p><br />
+Na avalia&ccedil;&atilde;o da Coordena&ccedil;&atilde;o do MST no Maranh&atilde;o, o momento &eacute; de unificar todas as categorias de trabalhadores para impedir a perda de direitos, e acumular for&ccedil;as para novas e necess&aacute;rias conquistas.</p>
 
 <p>&nbsp;</p>
 
 <p><em>*Editado por Leonardo Fernandes</em></p>
+
+<div class="webpki_lacunasoftware_com" id="webpki_lacunasoftware_com" style="display: none;">&nbsp;</div>
 
 <div class="webpki_lacunasoftware_com" id="webpki_lacunasoftware_com" style="display: none;">&nbsp;</div>
