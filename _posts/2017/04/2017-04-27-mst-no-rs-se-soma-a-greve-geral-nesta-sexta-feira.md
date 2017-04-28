@@ -6,7 +6,7 @@ tags:
   - tag: lutas
 title: MST no RS se soma à greve geral nesta sexta-feira
 support_line: "Conforme Cedenir de Oliveira, da direção estadual do MST, a greve geral é resultado de um esforço coletivo de várias categorias do campo e da cidade de barrar a retirada de direitos"
-images_hd: //farm3.staticflickr.com/2856/34266801646_ef451debdc_b.jpg
+images_hd: //farm5.staticflickr.com/4161/34149930312_e43d4d9811_b.jpg
 menu: lutas e mobilizações
 layout: post
 files:
