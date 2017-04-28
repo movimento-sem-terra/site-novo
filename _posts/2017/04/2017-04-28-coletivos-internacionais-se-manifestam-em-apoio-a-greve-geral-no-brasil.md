@@ -37,11 +37,12 @@ releated_posts:
 </figure>
 </div>
 
-<p><em>Da P&aacute;gina do MST</em></p>
-
 <p>&nbsp;</p>
 
-<p><strong><span style="font-weight: normal">Atentos aos acontecimentos dessa sexta-feira (28), dia de Greve Geral no Brasil, representantes de organiza&ccedil;&otilde;es e coletivos internacionais lan&ccedil;aram um manifesto de apoio ao protesto dos trabalhadores e das trabalhadoras brasileiras. </span></strong></p>
+<p><em>Da P&aacute;gina do MST</em></p>
+
+<p><br />
+<strong><span style="font-weight: normal">Atentos aos acontecimentos dessa sexta-feira (28), dia de Greve Geral no Brasil, representantes de organiza&ccedil;&otilde;es e coletivos internacionais lan&ccedil;aram um manifesto de apoio ao protesto dos trabalhadores e das trabalhadoras brasileiras. </span></strong></p>
 
 <p><br />
 <strong><span style="font-weight: normal">O documento destaca o direito &agrave; resist&ecirc;ncia e &agrave; rebeli&atilde;o, consagrado pela Declara&ccedil;&atilde;o Universal dos Direitos Humanos, </span></strong>&quot;como condi&ccedil;&atilde;o hist&oacute;rica para o surgimento, exist&ecirc;ncia, manuten&ccedil;&atilde;o, desenvolvimento e evolu&ccedil;&atilde;o dos Estados Democr&aacute;ticos de Direito modernos&quot;<strong><span style="font-weight: normal">. </span></strong></p>
@@ -71,7 +72,7 @@ Repudiamos os reiterados ataques aos direitos trabalhistas conquistados atrav&ea
 <em>LUTAR N&Atilde;O &Eacute; CRIME! VIVA A LUTA DOS TRABALHADORES!</em></p>
 
 <p><br />
-Signat&aacute;rios Iniciais:</p>
+Signat&aacute;rios Iniciais. Para assinar o manifesto clique <a href="https://docs.google.com/forms/d/e/1FAIpQLSfsusALvR0A_zAN9YFjB1vh0xnyv56568CPBG_mzDbRWsKyDA/viewform?c=0&amp;w=1">aqui</a>.&nbsp;</p>
 
 <p><br />
 Brazilian Expats for Democracy and Social Justice - Washington, DC<br />
@@ -84,5 +85,3 @@ Friends of MST - U.S.</p>
 <p><em>*Editado por Leonardo Fernandes</em></p>
 
 <div class="webpki_lacunasoftware_com" id="webpki_lacunasoftware_com" style="display: none;">&nbsp;</div>
-
-<div>&nbsp;</div>
