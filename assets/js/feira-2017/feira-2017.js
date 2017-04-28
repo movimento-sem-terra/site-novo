@@ -69,11 +69,6 @@ $(document).ready(function() {
     $.each(data, function(index, post){
       addCarousel(post);
     });
-    var moreNews = "<div class='more-news'>"+
-                   "  <a href='novidades/'>saiba mais...</a>"+
-                   "</div>";
-
-    $('.js-carousel').slick('slickAdd', moreNews);
   });
 
 });
