@@ -43,6 +43,7 @@ releated_posts:
   - _posts/2016/09/2016-09-21-centrais-promovem-dia-de-mobilizacao-nacional-na-quinta-22.md
   - _posts/2016/10/2016-10-25-greve-geral-e-uma-necessidade-diz-dirigente-da-cut.md
   - _posts/2016/11/2016-11-11-sindicatos-e-movimentos-populares-protestam-contra-pec-do-teto-nesta-sexta-feira-11.md
+section: cover
 
 ---
 <div style="text-align:center">
