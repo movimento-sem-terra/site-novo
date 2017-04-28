@@ -5,7 +5,7 @@ tags:
   - tag: fora-temer
   - tag: lutas-e-mobilizações
 title: MST vai bloquear as rodovias do Brasil neste dia de Greve Geral
-section: featured-news
+section: null
 menu: lutas e mobilizações
 support_line: Mobilização da classe trabalhadora unificada pode derrotar a sucessão de ataques do governo de Michel Temer e Congresso.
 images_hd: //farm3.staticflickr.com/2814/34150583232_a8079631d0_b.jpg
