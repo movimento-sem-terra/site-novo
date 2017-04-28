@@ -8,7 +8,7 @@ images_hd: //farm5.staticflickr.com/4172/33498397003_93438406d8_b.jpg
 title: "Jagunços fortemente armados agridem trabalhadores rurais em Pernambuco "
 support_line: As famílias do acampamento estão amedrontadas com tamanha audácia dos pistoleiros em agir como milícias e com a conivência da polícia que não tomou nenhuma providência com as ações ilegais
 menu: direitos humanos
-section: featured-news
+section: null
 layout: post
 files:
   - link: //farm5.staticflickr.com/4171/34177275051_a520dea0d5_b.jpg
