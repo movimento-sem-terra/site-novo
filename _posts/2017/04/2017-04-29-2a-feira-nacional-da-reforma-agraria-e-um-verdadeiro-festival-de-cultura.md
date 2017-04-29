@@ -53,7 +53,7 @@ A diversidade da produ&ccedil;&atilde;o de alimentos saud&aacute;veis de acampam
 O evento, organizado pelo Movimento dos Trabalhadores Rurais Sem Terra (MST), recebe nomes j&aacute; consagrados, como Emicida, Tulipa Ruiz, Targino Gondim, Tico Santa Cruz e Chico C&eacute;sar. O Palco da Arena e o Palco Culin&aacute;ria da Terra tamb&eacute;m s&atilde;o espa&ccedil;os abertos a novos expoentes da m&uacute;sica popular e independente, das batucadas do samba e do coco &agrave; moda de viola, t&atilde;o popular entre os trabalhadores rurais.</p>
 
 <p><br />
-Acompanhe todas as not&iacute;cias da feira em &gt;&gt;&nbsp;http://www.mst.org.br/II-feira-nacional-da-reforma-agraria/</p>
+<strong>Acompanhe todas as not&iacute;cias da feira em &gt;&gt;</strong>&nbsp;<a href="http://www.mst.org.br/II-feira-nacional-da-reforma-agraria">www.mst.org.br</a></p>
 
 <p><br />
 Al&eacute;m das programa&ccedil;&otilde;es de shows nos palcos da 2&ordf; Feira Nacional da Reforma Agr&aacute;ria, os visitantes s&atilde;o convidados a conhecerem a Feira Liter&aacute;ria, espa&ccedil;o de publica&ccedil;&otilde;es em poesia e prosa, mas que traz tamb&eacute;m livros de cunho pol&iacute;tico-filos&oacute;fico. Culin&aacute;ria da Terra, por sua vez, &eacute; uma pra&ccedil;a de alimenta&ccedil;&atilde;o no meio da Feira com quitutes de todas as regi&otilde;es: pato no tucupi, acaraj&eacute;, arroz carreteiro, galinha com pequi e outras del&iacute;cias.</p>
@@ -72,6 +72,6 @@ Al&eacute;m das programa&ccedil;&otilde;es de shows nos palcos da 2&ordf; Feira 
 A programa&ccedil;&atilde;o pol&iacute;tico-cultural conta tamb&eacute;m com semin&aacute;rios. O semin&aacute;rio &ldquo;Alimenta&ccedil;&atilde;o Saud&aacute;vel &ndash; um direito de todos e todas&rdquo; recebe as palestrantes Bela Gil, Let&iacute;cia Sabatela, o ex-ministro da sa&uacute;de Alexandre Padilha, o ex-presidente do Uruguai, Jos&eacute; Pepe Mujica e o coordenador do MST, Jo&atilde;o Pedro St&eacute;dile.</p>
 
 <p><br />
-Confira a programa&ccedil;&atilde;o&nbsp;</p>
+Confira a <a href="http://www.mst.org.br/II-feira-nacional-da-reforma-agraria">programa&ccedil;&atilde;o completa</a></p>
 
 <p>&nbsp;</p>
