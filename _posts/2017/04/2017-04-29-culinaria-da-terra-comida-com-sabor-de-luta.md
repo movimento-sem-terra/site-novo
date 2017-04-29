@@ -32,6 +32,13 @@ files:
     small: //farm3.staticflickr.com/2914/34302298736_2d197df4ea_n.jpg
     title: 22380005856_be87874e20_z.jpg
     $$hashKey: 0BY
+  - link: //farm5.staticflickr.com/4177/33501875164_4672486122_b.jpg
+    original: //farm5.staticflickr.com/4177/33501875164_1117859e77_o.jpg
+    thumbnail: //farm5.staticflickr.com/4177/33501875164_4672486122_t.jpg
+    medium: //farm5.staticflickr.com/4177/33501875164_4672486122_z.jpg
+    small: //farm5.staticflickr.com/4177/33501875164_4672486122_n.jpg
+    title: 22432518825_52f0315be1_z.jpg
+    $$hashKey: 0HH
 created_date: "2017-04-29T14:41:39-03:00"
 published: true
 releated_posts:
@@ -43,9 +50,14 @@ releated_posts:
   - _posts/2017/04/2017-04-13-musica-dialogo-e-poesia-marcam-lancamento-da-feira-da-reforma-agraria-nesta-quinta.md
 
 ---
-<p>&nbsp;</p>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="22432518825_52f0315be1_z.jpg" height="466" src="//farm5.staticflickr.com/4177/33501875164_4672486122_b.jpg" width="700" />
+<figcaption><em>Feij&atilde;o tropeiro com carne de sol. Foto: Maria Aparecida.</em></figcaption>
+</figure>
+</div>
 
-<p><em>Por Leonardo Fernandes<br />
+<p><br />
+<em>Por Leonardo Fernandes<br />
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
@@ -53,6 +65,10 @@ S&atilde;o Paulo &eacute; conhecida como a capital gastron&ocirc;mica do Brasil.
 
 <p><br />
 A &lsquo;Culin&aacute;ria da Terra&rsquo; &eacute; um espa&ccedil;o dedicado &agrave; gastronomia regional, t&atilde;o presente no cotidiano dos lutadores e lutadoras da Reforma Agr&aacute;ria Popular. Durante a 2&ordf; edi&ccedil;&atilde;o da Feira Nacional da Reforma Agr&aacute;ria, que ocorre entre os dias 4 e 7 de maio, no Parque da &Aacute;gua Branca, zona oeste de S&atilde;o Paulo, os visitantes poder&atilde;o experimentar pratos de 22 estados, que estar&atilde;o representados no espa&ccedil;o gastron&ocirc;mico. &ldquo;Esta ser&aacute; uma feira onde apresentaremos o alimento como arte&rdquo;, anuncia Jo&atilde;o Paulo Rodrigues, dirigente nacional do MST.</p>
+
+<figure class="image" style="float:right"><img alt="28195574310_bbd49b0cb0_z.jpg" height="234" src="//farm3.staticflickr.com/2859/34212612531_66241d24a8_b.jpg" width="350" />
+<figcaption><em>Acaraj&eacute; da Bahia.&nbsp;</em></figcaption>
+</figure>
 
 <p><br />
 D&eacute;bora Nunes, da Dire&ccedil;&atilde;o Nacional do MST, destaca a import&acirc;ncia do espa&ccedil;o gastron&ocirc;mico como express&atilde;o das diversas dimens&otilde;es da luta pela Reforma Agr&aacute;ria. &ldquo;Queremos comercializar nossos produtos, produzidos nos assentamentos e acampamentos, mas tamb&eacute;m queremos trazer a S&atilde;o Paulo todo o resultado do nosso processo de organiza&ccedil;&atilde;o. E a &lsquo;Culin&aacute;ria da Terra&rsquo;, a comida produzida pelos trabalhadores e trabalhadoras Sem Terra no cotidiano de sua luta, &eacute; uma das mais importantes express&otilde;es culturais do nosso movimento&rdquo;.</p>
@@ -62,6 +78,11 @@ Quem quiser sentir o gostinho da Bahia, poder&aacute; experimentar a tradicional
 
 <p><br />
 S&atilde;o Paulo oferece uma variedade de quitutes, como bolos e tortas caseiras. J&aacute; Minas Gerais, seguindo suas mais saborosas tradi&ccedil;&otilde;es, serve o feij&atilde;o tropeiro, e claro que n&atilde;o poderia faltar o p&atilde;o de queijo mais famoso do mundo.</p>
+
+<figure class="image" style="float:left"><img alt="22218309268_da10906ac0_z.jpg" height="233" src="//farm3.staticflickr.com/2916/33501776654_a9ac037e70_b.jpg" width="350" />
+<figcaption><em>Galinhada com pequi, um fruto do cerrado.<br />
+Foto: Joka Madruga</em></figcaption>
+</figure>
 
 <p><br />
 Algumas regi&otilde;es v&atilde;o surpreender os visitantes, com sabores ex&oacute;ticos, pouco comuns na maior cidade do pa&iacute;s. &Eacute; o caso da regi&atilde;o centro-oeste, que traz a t&iacute;pica galinhada com pequi, um fruto do cerrado que provoca uma verdadeira explos&atilde;o de sabor e perfume inconfund&iacute;veis.</p>
