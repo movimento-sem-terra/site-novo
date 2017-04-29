@@ -3,8 +3,8 @@ date: "2017-04-29T10:52:15-03:00"
 tags:
   - tag: greve
 images_hd: //farm3.staticflickr.com/2924/33500005994_ddecd4541b_b.jpg
-title: Atos pela Greve Geral reforçam o diálogo entre campo e cidade
-support_line: "A paralisação da BR 020 em Formosa - Goiás, próximo à Syngenta, e a manifestação na Praça da Prefeitura são construções coletivas orientadas pela unidade dos trabalhadores."
+title: "Em Formosa, atos pela greve reforçam o diálogo entre campo e cidade"
+support_line: "A paralisação da BR 020, próximo à Syngenta, e a manifestação na Praça da Prefeitura são construções coletivas orientadas pela unidade dos trabalhadores."
 menu: lutas e mobilizações
 layout: post
 files:
@@ -30,19 +30,25 @@ releated_posts:
   - _posts/2017/04/2017-04-28-greve-realiza-bloqueios-em-todo-brasil-contra-reformas-de-temer.md
 
 ---
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="Trabalhadores rurais e da cidade em ação conjunta no trancaço da BR 020. Foto LIzely Borges.jpg" height="394" src="//farm3.staticflickr.com/2924/33500005994_ddecd4541b_b.jpg" width="700" />
+<figcaption><em>Trabalhadores rurais e da cidade em ação conjunta no trancaço da BR 020. Foto LIzely Borges</em></figcaption>
+</figure>
+</div>
+
 <p>&nbsp;</p>
 
 <p><em>Por Lizely Borges<br />
 Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p>&nbsp;<br />
-Na manh&atilde; desta sexta-feira (28) cerca de 300 militantes do Movimento dos Trabalhadores Rurais Sem Terra (MST) do Distrito Federal e Entorno e trabalhadores urbanos vinculados &agrave; &aacute;rea da sa&uacute;de, educa&ccedil;&atilde;o, cultura e demais setores paralisaram a BR-020, na altura do Km 20, na &aacute;rea rural do munic&iacute;pio de Formosa (GO). Perto das 11h da manh&atilde;, ap&oacute;s tr&ecirc;s hora de paralisa&ccedil;&atilde;o do tr&aacute;fego na rodovia, os manifestantes se dirigiram ao centro da cidade para participarem de ato na Pra&ccedil;a da Prefeitura.</p>
+Na manh&atilde; desta sexta-feira (28), cerca de 300 militantes do MST do Distrito Federal e Entorno e trabalhadores urbanos vinculados &agrave; &aacute;rea da sa&uacute;de, educa&ccedil;&atilde;o, cultura e demais setores paralisaram a BR-020, na altura do Km 20, na &aacute;rea rural do munic&iacute;pio de Formosa (GO). Perto das 11h da manh&atilde;, ap&oacute;s tr&ecirc;s horas de paralisa&ccedil;&atilde;o do tr&aacute;fego na rodovia, os manifestantes se dirigiram ao centro da cidade para participarem de ato na Pra&ccedil;a da Prefeitura.</p>
 
 <p><br />
 Os atos s&atilde;o uma constru&ccedil;&atilde;o coletiva do conjunto destas categorias e movimentos populares. &nbsp;A constru&ccedil;&atilde;o das atividades iniciou ap&oacute;s a defini&ccedil;&atilde;o de data greve geral, h&aacute; cerca de tr&ecirc;s semanas, e comp&otilde;em o conjunto de a&ccedil;&otilde;es pelo pa&iacute;s em resist&ecirc;ncia &agrave;s medidas adotadas pelo governo de Michel Temer (PMBD), como as reformas trabalhistas e previdenci&aacute;ria, que afetam diretamente as popula&ccedil;&otilde;es de menores rendimentos.</p>
 
 <p><br />
-O professor da rede estadual de Formosa e um dos organizadores dos atos unit&aacute;rios em Formosa, Maur&eacute;lio Moreira de Ara&uacute;jo, defende a necessidade de di&aacute;logo entre campo e cidade no avan&ccedil;o da organiza&ccedil;&atilde;o de resist&ecirc;ncia &agrave; retirada de direitos. &ldquo;S&atilde;o [os atos unit&aacute;rios] uma tomada de consci&ecirc;ncia da classe trabalhadora de entender que a cidade cumpre um papel importante, grande parte da popula&ccedil;&atilde;o mora na &aacute;rea urbana, mas que &eacute; preciso dialogar com o campo que nos alimenta. Hoje &eacute; um momento hist&oacute;rico - campo e cidade, v&aacute;rios setores da educa&ccedil;&atilde;o, sa&uacute;de correios, universit&aacute;rios, juventude, uma unidade entendendo que tem que ter um lado &ndash; o do povo - &nbsp;contra este projeto neoliberal que enterra esta perspectiva de direitos&rdquo;, diz.</p>
+O professor da rede estadual de Formosa e um dos organizadores dos atos unit&aacute;rios em Formosa, Maur&eacute;lio Moreira de Ara&uacute;jo, defende a necessidade de di&aacute;logo entre campo e cidade no avan&ccedil;o da organiza&ccedil;&atilde;o de resist&ecirc;ncia &agrave; retirada de direitos. &ldquo;S&atilde;o [os atos unit&aacute;rios] uma tomada de consci&ecirc;ncia da classe trabalhadora de entender que a cidade cumpre um papel importante, grande parte da popula&ccedil;&atilde;o mora na &aacute;rea urbana, mas que &eacute; preciso dialogar com o campo que nos alimenta. Hoje &eacute; um momento hist&oacute;rico&nbsp;contra este projeto neoliberal que enterra esta perspectiva de direitos&rdquo;, diz.</p>
 
 <p>&nbsp;<br />
 <strong>Rodovia das multinacionais do agrot&oacute;xico</strong></p>
@@ -64,6 +70,11 @@ Na avalia&ccedil;&atilde;o dos movimentos campesinos e organiza&ccedil;&otilde;e
 
 <p><br />
 Tanto Covatti quanto o atual ministro da Agricultura, Blairo Maggi (PP-RS), integram a Frente Parlamentar da Agropecu&aacute;ria (FPA), expoente de articula&ccedil;&atilde;o dos ruralistas nos cargos eletivos.</p>
+
+<figure class="image" style="float:left"><img alt="O agrcultor Nicanço de Jesus faz uso de plantas como repelentes e adubos naturais. Foto Lizely Borges.JPG" height="555" src="//farm5.staticflickr.com/4160/33500050074_0252f6c994_b.jpg" width="370" />
+<figcaption><em>O agricultor Nicanço de Jesus faz uso de plantas como repelentes<br />
+e adubos naturais. Foto Lizely Borges</em></figcaption>
+</figure>
 
 <p><br />
 Em oposi&ccedil;&atilde;o ao aumento de uso de agrot&oacute;xicos e transg&ecirc;nicos no plantio, as cerca de 500 fam&iacute;lias do Assentamento Dom Tom&aacute;s Baldu&iacute;no, localizado em Formosa, buscam progressivamente t&eacute;cnicas de transi&ccedil;&atilde;o para uma cultura sem uso de insumos agr&iacute;colas artificiais. Os trabalhadores rurais usam de plantas como a folha de mamona ou urtiga para produ&ccedil;&atilde;o de repelentes ou adubos naturais. &ldquo;Viemos a absorver a consci&ecirc;ncia ecol&oacute;gica de um tempo pra c&aacute;. A gente plantava sem conhecimento, tacava fogo na terra. Hoje &eacute; diferente, a gente n&atilde;o agride a natureza, n&atilde;o usa veneno&rdquo;, relata o agricultor Nica&ccedil;o de Jesus, de 53 anos.&nbsp;</p>
