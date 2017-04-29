@@ -149,6 +149,15 @@
       }
     }
 
+    .programacao-completa {
+      display: flex;
+      flex-direction: row;
+      width: 100%;
+      max-width: 700px;
+      flex-wrap: wrap;
+      justify-content: center;
+      padding: 40px 0;
+    }
 
     .agenda {
       display: flex;
