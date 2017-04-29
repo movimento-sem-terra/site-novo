@@ -22,6 +22,20 @@ files:
     small: //farm5.staticflickr.com/4160/33500050074_0252f6c994_n.jpg
     title: O agrcultor Nicanço de Jesus faz uso de plantas como repelentes e adubos naturais. Foto Lizely Borges.JPG
     $$hashKey: "045"
+  - link: //farm3.staticflickr.com/2845/34341773195_e94da70c00_b.jpg
+    original: //farm3.staticflickr.com/2845/34341773195_84f30745d4_o.jpg
+    thumbnail: //farm3.staticflickr.com/2845/34341773195_e94da70c00_t.jpg
+    medium: //farm3.staticflickr.com/2845/34341773195_e94da70c00_z.jpg
+    small: //farm3.staticflickr.com/2845/34341773195_e94da70c00_n.jpg
+    title: Manifestantes na paralisação da BR 020 Foto Lizely Borges.JPG
+    $$hashKey: 097
+  - link: //farm3.staticflickr.com/2870/34183844192_0ba4e0044d_b.jpg
+    original: //farm3.staticflickr.com/2870/34183844192_d31b142e09_o.jpg
+    thumbnail: //farm3.staticflickr.com/2870/34183844192_0ba4e0044d_t.jpg
+    medium: //farm3.staticflickr.com/2870/34183844192_0ba4e0044d_z.jpg
+    small: //farm3.staticflickr.com/2870/34183844192_0ba4e0044d_n.jpg
+    title: Ato em razão da greve nacional paralisa a BR 020 na região centro-oeste. Foto Lizely Borges.jpg
+    $$hashKey: 09A
 created_date: "2017-04-29T13:06:56-03:00"
 published: true
 releated_posts:
@@ -32,7 +46,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Trabalhadores rurais e da cidade em ação conjunta no trancaço da BR 020. Foto LIzely Borges.jpg" height="394" src="//farm3.staticflickr.com/2924/33500005994_ddecd4541b_b.jpg" width="700" />
-<figcaption><em>Trabalhadores rurais e da cidade em ação conjunta no trancaço da BR 020. Foto LIzely Borges</em></figcaption>
+<figcaption><em>Trabalhadores rurais e da cidade em ação conjunta no trancaço da BR 020. Foto: LIzely Borges</em></figcaption>
 </figure>
 </div>
 
@@ -49,6 +63,10 @@ Os atos s&atilde;o uma constru&ccedil;&atilde;o coletiva do conjunto destas cate
 
 <p><br />
 O professor da rede estadual de Formosa e um dos organizadores dos atos unit&aacute;rios em Formosa, Maur&eacute;lio Moreira de Ara&uacute;jo, defende a necessidade de di&aacute;logo entre campo e cidade no avan&ccedil;o da organiza&ccedil;&atilde;o de resist&ecirc;ncia &agrave; retirada de direitos. &ldquo;S&atilde;o [os atos unit&aacute;rios] uma tomada de consci&ecirc;ncia da classe trabalhadora de entender que a cidade cumpre um papel importante, grande parte da popula&ccedil;&atilde;o mora na &aacute;rea urbana, mas que &eacute; preciso dialogar com o campo que nos alimenta. Hoje &eacute; um momento hist&oacute;rico&nbsp;contra este projeto neoliberal que enterra esta perspectiva de direitos&rdquo;, diz.</p>
+
+<figure class="image" style="float:right"><img alt="Manifestantes na paralisação da BR 020 Foto Lizely Borges.JPG" height="233" src="//farm3.staticflickr.com/2845/34341773195_e94da70c00_b.jpg" width="350" />
+<figcaption><em>Manifestantes na paralisação da BR 020. Foto: Lizely Borges</em></figcaption>
+</figure>
 
 <p>&nbsp;<br />
 <strong>Rodovia das multinacionais do agrot&oacute;xico</strong></p>
@@ -71,9 +89,10 @@ Na avalia&ccedil;&atilde;o dos movimentos campesinos e organiza&ccedil;&otilde;e
 <p><br />
 Tanto Covatti quanto o atual ministro da Agricultura, Blairo Maggi (PP-RS), integram a Frente Parlamentar da Agropecu&aacute;ria (FPA), expoente de articula&ccedil;&atilde;o dos ruralistas nos cargos eletivos.</p>
 
-<figure class="image" style="float:left"><img alt="O agrcultor Nicanço de Jesus faz uso de plantas como repelentes e adubos naturais. Foto Lizely Borges.JPG" height="555" src="//farm5.staticflickr.com/4160/33500050074_0252f6c994_b.jpg" width="370" />
-<figcaption><em>O agricultor Nicanço de Jesus faz uso de plantas como repelentes<br />
-e adubos naturais. Foto Lizely Borges</em></figcaption>
+<figure class="image" style="float:left"><img alt="O agrcultor Nicanço de Jesus faz uso de plantas como repelentes e adubos naturais. Foto Lizely Borges.JPG" height="450" src="//farm5.staticflickr.com/4160/33500050074_0252f6c994_b.jpg" width="300" />
+<figcaption><em>O agricultor Nicanço de Jesus faz uso de plantas<br />
+como repelentes e adubos naturais.<br />
+Foto Lizely Borges</em></figcaption>
 </figure>
 
 <p><br />
@@ -88,15 +107,21 @@ O trabalhador rural nascido no campo em Pilar de Goi&aacute;s (GO), atra&iacute;
 <p><br />
 A trabalhadora rural Aleide Pereira de Jesus, tamb&eacute;m do Dom Tom&aacute;s, destacou a import&acirc;ncia de construir pontes de di&aacute;logo com a popula&ccedil;&atilde;o que atribui um sentido negativo &agrave; atos como paralisa&ccedil;&atilde;o de rodovias. &nbsp;Durante o tempo em que o grupo de militantes esteve na BR, a trabalhadora rural debateu com os trabalhadores em tr&acirc;nsito sobre os motivos do tranca&ccedil;o.</p>
 
-<p>&nbsp;</p>
-
-<p>&ldquo;Hoje &eacute; um dia de luta, o Brasil todo est&aacute; lutando por um objetivo nosso, dos nossos filhos e de muita gente. Mas tem companheiros que n&atilde;o admitem nossa luta e por isso eu busco conversar. Muita gente vem confrontar, eu explico que lutamos pelos mesmos direitos e ent&atilde;o, como todo trabalhador tem sofrido, o di&aacute;logo &eacute; estabelecido, conta.</p>
+<p><br />
+&ldquo;Hoje &eacute; um dia de luta, o Brasil todo est&aacute; lutando por um objetivo nosso, dos nossos filhos e de muita gente. Mas tem companheiros que n&atilde;o admitem nossa luta e por isso eu busco conversar. Muita gente vem confrontar, eu explico que lutamos pelos mesmos direitos e ent&atilde;o, como todo trabalhador tem sofrido, o di&aacute;logo &eacute; estabelecido, conta.</p>
 
 <p><br />
 Ampliar o di&aacute;logo com a popula&ccedil;&atilde;o tamb&eacute;m foi horizonte do ato no centro da cidade. Segundo os organizadores do ato na &aacute;rea urbana mais de 2 mil pessoas participaram do ato, participaram de debates e receberam panfletos.</p>
 
 <p><br />
-Pelo Brasil, a Central &Uacute;nica dos Trabalhadores (CUT) avalia que mais de 35 milh&otilde;es de trabalhadores esteve envolvido com a Greve Geral. Categorias importantes como metrovi&aacute;rios, rodovi&aacute;rios, servidores p&uacute;blicos e outros paralisaram suas atividades durante o dia.</p>
+Pelo Brasil, a Central &Uacute;nica dos Trabalhadores (CUT) avalia que mais de 35 milh&otilde;es de trabalhadores esteve envolvido com a Greve Geral. Categorias importantes como metrovi&aacute;rios, rodovi&aacute;rios, servidores p&uacute;blicos e outros paralisaram suas atividades durante o dia.<br />
+&nbsp;</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="Ato em razão da greve nacional paralisa a BR 020 na região centro-oeste. Foto Lizely Borges.jpg" height="394" src="//farm3.staticflickr.com/2870/34183844192_0ba4e0044d_b.jpg" width="700" />
+<figcaption><em>Ato em razão da greve nacional paralisa a BR 020 na região centro-oeste. Foto: Lizely Borges</em></figcaption>
+</figure>
+</div>
 
 <p><br />
 <em>*Editado por Iris Pacheco</em></p>
