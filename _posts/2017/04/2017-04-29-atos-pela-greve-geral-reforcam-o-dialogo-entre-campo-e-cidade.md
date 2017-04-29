@@ -65,7 +65,8 @@ Os atos s&atilde;o uma constru&ccedil;&atilde;o coletiva do conjunto destas cate
 O professor da rede estadual de Formosa e um dos organizadores dos atos unit&aacute;rios em Formosa, Maur&eacute;lio Moreira de Ara&uacute;jo, defende a necessidade de di&aacute;logo entre campo e cidade no avan&ccedil;o da organiza&ccedil;&atilde;o de resist&ecirc;ncia &agrave; retirada de direitos. &ldquo;S&atilde;o [os atos unit&aacute;rios] uma tomada de consci&ecirc;ncia da classe trabalhadora de entender que a cidade cumpre um papel importante, grande parte da popula&ccedil;&atilde;o mora na &aacute;rea urbana, mas que &eacute; preciso dialogar com o campo que nos alimenta. Hoje &eacute; um momento hist&oacute;rico&nbsp;contra este projeto neoliberal que enterra esta perspectiva de direitos&rdquo;, diz.</p>
 
 <figure class="image" style="float:right"><img alt="Manifestantes na paralisação da BR 020 Foto Lizely Borges.JPG" height="233" src="//farm3.staticflickr.com/2845/34341773195_e94da70c00_b.jpg" width="350" />
-<figcaption><em>Manifestantes na paralisação da BR 020. Foto: Lizely Borges</em></figcaption>
+<figcaption><em>Manifestantes na paralisação da BR 020.<br />
+Foto: Lizely Borges</em></figcaption>
 </figure>
 
 <p>&nbsp;<br />
@@ -90,8 +91,8 @@ Na avalia&ccedil;&atilde;o dos movimentos campesinos e organiza&ccedil;&otilde;e
 Tanto Covatti quanto o atual ministro da Agricultura, Blairo Maggi (PP-RS), integram a Frente Parlamentar da Agropecu&aacute;ria (FPA), expoente de articula&ccedil;&atilde;o dos ruralistas nos cargos eletivos.</p>
 
 <figure class="image" style="float:left"><img alt="O agrcultor Nicanço de Jesus faz uso de plantas como repelentes e adubos naturais. Foto Lizely Borges.JPG" height="450" src="//farm5.staticflickr.com/4160/33500050074_0252f6c994_b.jpg" width="300" />
-<figcaption><em>O agricultor Nicanço de Jesus faz uso de plantas<br />
-como repelentes e adubos naturais.<br />
+<figcaption><em>O agricultor Nicanço de Jesus faz uso de<br />
+plantas como repelentes e adubos naturais.<br />
 Foto Lizely Borges</em></figcaption>
 </figure>
 
