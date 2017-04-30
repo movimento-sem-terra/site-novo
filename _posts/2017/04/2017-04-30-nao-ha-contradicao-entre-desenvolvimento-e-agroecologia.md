@@ -3,7 +3,7 @@ date: "2017-04-30T20:01:04-03:00"
 tags:
   - tag: agroecologia
   - tag: agrotóxicos
-  - tag: saúde
+  - tag: golpe
 title: "\"Não há contradição entre desenvolvimento e agroecologia\""
 support_line: "Para Leonardo Melgarejo, agrônomo e doutor em engenharia da produção, a contradição é entre o crescimento econômico que despreza as externalidades e atribui valor zero ao ambiente e o desenvolvimento. "
 images_hd: //farm3.staticflickr.com/2858/34370350445_2d7a438455_b.jpg
@@ -24,12 +24,23 @@ files:
     small: //farm5.staticflickr.com/4183/33559640923_0e8834ea7c_n.jpg
     title: 17362808_1303588046415367_5059066774362875629_n.jpg
     $$hashKey: 0M4
+  - link: //farm3.staticflickr.com/2848/34329275886_bd025bfd7d_b.jpg
+    original: //farm3.staticflickr.com/2848/34329275886_7f23ca56a3_o.jpg
+    thumbnail: //farm3.staticflickr.com/2848/34329275886_bd025bfd7d_t.jpg
+    medium: //farm3.staticflickr.com/2848/34329275886_bd025bfd7d_z.jpg
+    small: //farm3.staticflickr.com/2848/34329275886_bd025bfd7d_n.jpg
+    title: 18198437_1554208607985181_2753967600512149320_n.jpg
+    $$hashKey: 16C
 created_date: "2017-04-30T20:31:57-03:00"
 published: true
 releated_posts:
+  - _posts/2017/03/2017-03-03-estudo-identifica-agrotoxicos-mais-frequentes-em-alimentos-consumidos-no-brasil.md
+  - _posts/2017/04/2017-04-25-governo-pode-autorizar-agrotoxicos-cancerigenos-por-medida-provisoria.md
+  - _posts/2017/02/2017-02-07-temer-antecipa-pacote-do-veneno-e-proibe-anvisa-de-se-manifestar-sobre-agrotoxicos.md
+  - _posts/2017/03/2017-03-30-a-pressao-do-agronegocio-para-manter-o-veneno-na-mesa-do-povo-brasileiro.md
   - _posts/2016/11/2016-11-30-audiencia-publica-aponta-avanco-do-contrabando-e-falsificacao-de-agrotoxicos.md
-  - _posts/2016/09/2016-09-28-mst-realiza-mutirao-de-saude-no-assentamento-bela-manha-em-teixeira-de-freitas.md
-  - _posts/2017/01/2017-01-31-agroecologia-e-tema-de-oficina-no-norte-da-bahia.md
+  - _posts/2017/03/2017-03-27-as-feiras-sao-resultado-de-um-processo-organizativo-do-mst-e-um-traco-muito-forte-da-cultura-do-nosso-povo.md
+special-page: feira-2017
 
 ---
 <p>&nbsp;</p>
@@ -94,8 +105,19 @@ Para D&eacute;bora Nunes, do Setor de Produ&ccedil;&atilde;o do MST, as feiras s
 <p><br />
 Al&eacute;m das feiras regionais, que ocorrem ao longo do ano em diversos estados do Brasil, em 2015, o MST realizou a 1&ordf; Feira Nacional da Reforma Agr&aacute;ria. Em quatro dias, o evento atraiu mais de 150 mil pessoas. Mais de 200 toneladas de alimentos produzidos nos assentamentos e acampamentos do MST foram comercializados.</p>
 
+<figure class="image" style="float:left"><img alt="18198437_1554208607985181_2753967600512149320_n.jpg" height="350" src="//farm3.staticflickr.com/2848/34329275886_bd025bfd7d_b.jpg" width="350" />
+<figcaption><em>Presen&ccedil;as confirmadas na Confer&ecirc;ncia de abertura<br />
+da Feira .</em><br />
+</figcaption>
+</figure>
+
 <p><br />
 Em 2017, a <a href="http://www.mst.org.br/II-feira-nacional-da-reforma-agraria">Feira Nacional da Reforma Agr&aacute;ria</a> ter&aacute; a sua 2&ordf; edi&ccedil;&atilde;o, entre os dias 4 e 7 de maio, no Parque da &Aacute;gua Branca, zona oeste da capital paulista. Al&eacute;m da comercializa&ccedil;&atilde;o de alimentos da Reforma Agr&aacute;ria, o p&uacute;blico vai poder contar com uma pra&ccedil;a de alimenta&ccedil;&atilde;o, apresenta&ccedil;&otilde;es culturais e espa&ccedil;os de debate, dedicados a promover a agroecologia e a combater o modelo perverso do agroneg&oacute;cio.</p>
 
 <p><br />
 Tamb&eacute;m em S&atilde;o Paulo, o MST mant&eacute;m um ponto de distribui&ccedil;&atilde;o permanente de produtos da Reforma Agr&aacute;ria, o <a href="https://www.facebook.com/ArmazemDoCampoProdutosDaTerra">Armaz&eacute;m do Campo</a>, localizado na Alameda Eduardo Prado, n&ordm; 499 - Campos El&iacute;seos, na regi&atilde;o central da capital paulista.</p>
+
+<p>&nbsp;</p>
+
+<p><em>*Editado por Iris Pacheco<br />
+**Este material integra o conjunto de reportagens do Especial para o site do MST: &ldquo;Agrot&oacute;xicos no Brasil: Impactos e resist&ecirc;ncia&nbsp;popular&rdquo;, como forma de apontar a import&acirc;ncia&nbsp;da produ&ccedil;&atilde;o e consumos de alimentos saud&aacute;veis, bem como. compreender o processo de interesses pol&iacute;ticos&nbsp;que est&aacute; envolvido neste contexto.&nbsp;</em></p>
