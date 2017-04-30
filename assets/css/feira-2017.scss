@@ -157,13 +157,14 @@
       flex-wrap: wrap;
       justify-content: center;
       padding: 40px 0;
-      
+      transition: transform .2s ease-in-out;
+
       @include media($tablet) {
         max-width: 800px;
         align-self: center;
         img:hover {
           transform: scale(1.5);
-        }  
+        }
       }
     }
 
@@ -174,13 +175,13 @@
       flex-wrap: wrap;
       justify-content: center;
       padding: 40px 0;
-      
+
       @include media($tablet) {
         max-width: 800px;
         align-self: center;
         img:hover {
           transform: scale(1.5);
-        }  
+        }
       }
     }
     .agenda {
