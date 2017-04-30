@@ -175,6 +175,7 @@
       flex-wrap: wrap;
       justify-content: center;
       padding: 40px 0;
+      transition: transform .2s ease-in-out;
 
       @include media($tablet) {
         max-width: 800px;
