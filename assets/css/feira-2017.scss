@@ -149,16 +149,22 @@
       }
     }
 
-    .programacao-completa {
+    .agenda-completa {
       display: flex;
       flex-direction: row;
       width: 100%;
-      max-width: 700px;
       flex-wrap: wrap;
       justify-content: center;
       padding: 40px 0;
+      
+      @include media($tablet) {
+        max-width: 800px;
+        align-self: center;
+        img:hover {
+          transform: scale(1.5);
+        }  
+      }
     }
-
     .agenda {
       display: flex;
       flex-direction: row;
