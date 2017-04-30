@@ -4,8 +4,8 @@ tags:
   - tag: agroecologia
   - tag: agrotóxicos
   - tag: saúde
-title: "\"Não há contradição entre desenvolvimento e agroecologia\" "
-support_line: "Para Leonardo Melgarejo, só há contradição entre o crescimento econômico que despreza as externalidades e atribui valor zero ao ambiente e o desenvolvimento. "
+title: "\"Não há contradição entre desenvolvimento e agroecologia\""
+support_line: "Para Leonardo Melgarejo, agrônomo e doutor em engenharia da produção, a contradição é entre o crescimento econômico que despreza as externalidades e atribui valor zero ao ambiente e o desenvolvimento. "
 images_hd: //farm3.staticflickr.com/2858/34370350445_2d7a438455_b.jpg
 menu: reforma agrária
 layout: post
@@ -38,7 +38,7 @@ releated_posts:
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
-&ldquo;N&atilde;o h&aacute; contradi&ccedil;&atilde;o entre o desenvolvimento e a agroecologia. Mas h&aacute; uma contradi&ccedil;&atilde;o forte entre o crescimento econ&ocirc;mico medido de forma besta, desprezando externalidades e atribuindo valor zero ao ambiente, e o desenvolvimento&rdquo;, afirma Leonardo Melgarejo&nbsp;ao defender uma mudan&ccedil;a de paradigmas de produ&ccedil;&atilde;o da vida, que atenda ao crit&eacute;rio da sustentabilidade social e ambiental.</p>
+&ldquo;N&atilde;o h&aacute; contradi&ccedil;&atilde;o entre o desenvolvimento e a agroecologia. Mas h&aacute; uma contradi&ccedil;&atilde;o forte entre o crescimento econ&ocirc;mico medido de forma besta, desprezando externalidades e atribuindo valor zero ao ambiente, e o desenvolvimento&rdquo;, afirma o agr&ocirc;nomo&nbsp;Leonardo Melgarejo&nbsp;ao defender uma mudan&ccedil;a de paradigmas de produ&ccedil;&atilde;o da vida, que atenda ao crit&eacute;rio da sustentabilidade social e ambiental.</p>
 
 <p><br />
 Enquanto as a&ccedil;&otilde;es dos agentes de poder caminham na dire&ccedil;&atilde;o contr&aacute;ria ao desenvolvimento nacional, priorizando toda e qualquer a&ccedil;&atilde;o que vise o acumulo de capital, agravando a degrada&ccedil;&atilde;o do ambiente e contaminando solos e &aacute;guas, a agroecologia opera em caminho diverso, sem desprezar o desenvolvimento econ&ocirc;mico.</p>
