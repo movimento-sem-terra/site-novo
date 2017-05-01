@@ -18,7 +18,6 @@ files:
     small: //farm3.staticflickr.com/2889/33561156383_17278e02a3_n.jpg
     title: 2feiradareformaagrriadearapiraca_15525762952_o.jpg
     $$hashKey: "175"
-  - "\"Authentication failed : 'https://api.flickr.com/services/upload/' - Filetype was not recognised\""
   - link: //farm3.staticflickr.com/2888/34240954961_b29f546282_b.jpg
     original: //farm3.staticflickr.com/2888/34240954961_448469f004_o.jpg
     thumbnail: //farm3.staticflickr.com/2888/34240954961_b29f546282_t.jpg
@@ -26,6 +25,13 @@ files:
     small: //farm3.staticflickr.com/2888/34240954961_b29f546282_n.jpg
     title: agrotoxico19194.jpg
     $$hashKey: 1EK
+  - link: //farm5.staticflickr.com/4162/33529805944_1108be7eca_b.jpg
+    original: //farm5.staticflickr.com/4162/33529805944_acf6981361_o.jpg
+    thumbnail: //farm5.staticflickr.com/4162/33529805944_1108be7eca_t.jpg
+    medium: //farm5.staticflickr.com/4162/33529805944_1108be7eca_z.jpg
+    small: //farm5.staticflickr.com/4162/33529805944_1108be7eca_n.jpg
+    title: 0a11f-agrotoxicos.jpg
+    $$hashKey: 1K5
 created_date: "2017-04-30T22:08:26-03:00"
 published: true
 releated_posts:
@@ -36,6 +42,7 @@ releated_posts:
   - _posts/2017/03/2017-03-30-a-pressao-do-agronegocio-para-manter-o-veneno-na-mesa-do-povo-brasileiro.md
   - _posts/2017/03/2017-03-27-as-feiras-sao-resultado-de-um-processo-organizativo-do-mst-e-um-traco-muito-forte-da-cultura-do-nosso-povo.md
   - _posts/2017/03/2017-03-16-plataforma-chegadeagrotoxicos-e-lancada-no-brasil.md
+special-page: feira-2017
 
 ---
 <p>&nbsp;</p>
@@ -49,7 +56,10 @@ A cada atividade realizada pelo MST, o tema dos agrot&oacute;xicos &eacute; abor
 Nesse sentido, e por ocasi&atilde;o da <a href="http://www.mst.org.br/II-feira-nacional-da-reforma-agraria">2&ordf; Feira Nacional da Reforma Agr&aacute;ria</a>, que &eacute; realizada entre os dias 4 e 7 de maio de 2017, no Parque da &Aacute;gua Branca, em S&atilde;o Paulo, o MST conjunto de reportagens especiais &ldquo;Agrot&oacute;xicos no Brasil: Impactos e resist&ecirc;ncia popular&rdquo;, como forma de apontar a import&acirc;ncia da produ&ccedil;&atilde;o e consumos de alimentos saud&aacute;veis, bem como,&nbsp;compreender o processo de interesses pol&iacute;ticos envolvidos neste contexto.&nbsp;</p>
 
 <p><br />
-Al&eacute;m disso, o especial aborda os graves impactos gerados pelo uso de agrot&oacute;xicos na produ&ccedil;&atilde;o de alimentos &agrave; sa&uacute;de da popula&ccedil;&atilde;o consumidora, dos trabalhadores rurais e ao meio ambiente, bem como os movimentos de resist&ecirc;ncia ao modelo do agroneg&oacute;cio e a constru&ccedil;&atilde;o de um modelo agroecol&oacute;gico.</p>
+Al&eacute;m disso, o especial aborda os graves impactos gerados pelo uso de agrot&oacute;xicos na produ&ccedil;&atilde;o de alimentos &agrave; sa&uacute;de da popula&ccedil;&atilde;o consumidora, dos trabalhadores rurais e ao meio ambiente, bem como os movimentos de resist&ecirc;ncia ao modelo do agroneg&oacute;cio e a constru&ccedil;&atilde;o de um modelo agroecol&oacute;gico.<br />
+&nbsp;</p>
+
+<p style="text-align:center"><img alt="0a11f-agrotoxicos.jpg" height="497" src="//farm5.staticflickr.com/4162/33529805944_1108be7eca_b.jpg" width="700" /></p>
 
 <p><br />
 Frente &agrave; conjuntura de retrocesso nos direitos dos trabalhadores e das trabalhadoras, depois do golpe de estado em 2016, o especial tamb&eacute;m aborda as iniciativas do governo ileg&iacute;timo de Michel Temer para beneficiar o setor do agroneg&oacute;cio, como o PL 3200/2015, que tramita na C&acirc;mara dos Deputados, conhecido como &lsquo;Pacote do Veneno&rsquo;, que busca flexibilizar as normas de registro e facilitar a libera&ccedil;&atilde;o de novos venenos para serem usados na produ&ccedil;&atilde;o de alimentos.</p>
@@ -65,8 +75,6 @@ Desde 2008, o Brasil passou a ser o maior consumidor de agrot&oacute;xicos do mu
 
 <p><br />
 <a href="http://www.mst.org.br/2017/04/11/o-uso-de-agrotoxicos-na-producao-de-alimentos-e-a-expressao-do-avanco-do-modelo-capitalista-no-campo.html">O uso de agrot&oacute;xicos na produ&ccedil;&atilde;o de alimentos &eacute; a express&atilde;o do avan&ccedil;o do modelo capitalista no campo</a></p>
-
-<p>&nbsp;</p>
 
 <p><br />
 <a href="http://www.mst.org.br/2017/04/27/mais-de-duas-mil-pessoas-morreram-por-uso-de-agrotoxicos-no-brasil-nos-ultimos-anos.html">Mais de duas mil pessoas morreram por uso de agrot&oacute;xicos no Brasil nos &uacute;ltimos anos</a></p>
