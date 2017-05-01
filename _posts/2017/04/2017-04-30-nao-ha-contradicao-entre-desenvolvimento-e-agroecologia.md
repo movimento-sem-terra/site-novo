@@ -38,6 +38,13 @@ files:
     small: //farm5.staticflickr.com/4178/33986390380_1f48527a3a_n.jpg
     title: 33fayar.jpg
     $$hashKey: 0B8
+  - link: //farm3.staticflickr.com/2880/33986548810_966b4eee69_b.jpg
+    original: //farm3.staticflickr.com/2880/33986548810_73e371e8ae_o.jpg
+    thumbnail: //farm3.staticflickr.com/2880/33986548810_966b4eee69_t.jpg
+    medium: //farm3.staticflickr.com/2880/33986548810_966b4eee69_z.jpg
+    small: //farm3.staticflickr.com/2880/33986548810_966b4eee69_n.jpg
+    title: 33588824342_5bfaeb02d1_b.jpg
+    $$hashKey: 05T
 created_date: "2017-04-30T20:31:57-03:00"
 published: true
 releated_posts:
@@ -77,6 +84,10 @@ No dia 7 de abril de 2011, mesma data em que se comemora o Dia Mundial da Sa&uac
 <p><br />
 &ldquo;A Campanha Permanente contra agrot&oacute;xicos e pela vida na atualidade foi se tornando uma rede ampla de articula&ccedil;&atilde;o de diferentes setores desde movimentos populares da cidade e do campo, pesquisadores, institui&ccedil;&otilde;es de pesquisa e ensino, parlamentares&rdquo;, explica N&iacute;via Regina da Silva, da Dire&ccedil;&atilde;o Nacional do MST, e coordenadora da campanha .</p>
 
+<figure class="image" style="float:left"><img alt="33588824342_5bfaeb02d1_b.jpg" height="254" src="//farm3.staticflickr.com/2880/33986548810_966b4eee69_b.jpg" width="350" />
+<figcaption><em>Nivia Regina. Foto: Flaviano Quaresma</em></figcaption>
+</figure>
+
 <p><br />
 Segundo ela, a campanha &ldquo;tem como miss&atilde;o: atuar em defesa da vida e da natureza e lutar pela garantia da produ&ccedil;&atilde;o de alimentos saud&aacute;veis para a popula&ccedil;&atilde;o&rdquo;. &ldquo;A luta pelo fim dos agrot&oacute;xicos e transg&ecirc;nicos exige ado&ccedil;&atilde;o de medidas estrat&eacute;gicas&rdquo;, assegura N&iacute;via.</p>
 
@@ -96,7 +107,7 @@ Entre as demandas apresentadas pela Campanha Permanente contra os Agrot&oacute;x
 <strong>Principais a&ccedil;&otilde;es da <a href="http://contraosagrotoxicos.org/">Campanha Permanente contra os Agrot&oacute;xicos e pela Vida</a> para o enfrentamento ao projeto golpista:</strong></p>
 
 <p><br />
-1. Disputa de projetos no &acirc;mbito legislativo: Pacote do Veneno X <a href="http://contraosagrotoxicos.org/sdm_downloads/pnara-politica-nacional-de-reducao-de-agrotoxicos/">PNaRA</a>: Em dezembro de 2016, a campanha entrou com a proposta de projeto de lei da Pol&iacute;tica Nacional de Redu&ccedil;&atilde;o de Agrot&oacute;xicos (PNaRA) junto &agrave; Comiss&atilde;o de Legisla&ccedil;&atilde;o Participativa. A proposta foi aceita, e hoje tramita como PL 6670/2016.</p>
+1. Disputa de projetos no &acirc;mbito legislativo: Pacote do Veneno X PNaRA: Em dezembro de 2016, a campanha entrou com a proposta de projeto de lei da <a href="http://contraosagrotoxicos.org/sdm_downloads/pnara-politica-nacional-de-reducao-de-agrotoxicos/">Pol&iacute;tica Nacional de Redu&ccedil;&atilde;o de Agrot&oacute;xicos (PNaRA)</a> junto &agrave; Comiss&atilde;o de Legisla&ccedil;&atilde;o Participativa. A proposta foi aceita, e hoje tramita como PL 6670/2016.</p>
 
 <p><br />
 2. Informe da Relatora especial da ONU sobre Direito a Alimenta&ccedil;&atilde;o: atrav&eacute;s do Grupo de Trabalho de Direitos Humanos da ONU, e a partir de um esfor&ccedil;o que unificou diversas entidades nacionais e internacionais, como a a Via Campesina, foi elaborado um relat&oacute;rio sobre a situa&ccedil;&atilde;o do uso de agrot&oacute;xicos no Brasil, revelando casos graves, como os problemas gerados pela mudan&ccedil;a no processo regulat&oacute;rio, o esvaziamento na Anvisa e a press&atilde;o para mudan&ccedil;as dos marcos legislativos.</p>
@@ -117,8 +128,8 @@ Para D&eacute;bora Nunes, do Setor de Produ&ccedil;&atilde;o do MST, as feiras s
 Al&eacute;m das feiras regionais, que ocorrem ao longo do ano em diversos estados do Brasil, em 2015, o MST realizou a 1&ordf; Feira Nacional da Reforma Agr&aacute;ria. Em quatro dias, o evento atraiu mais de 150 mil pessoas. Mais de 200 toneladas de alimentos produzidos nos assentamentos e acampamentos do MST foram comercializados.</p>
 
 <figure class="image" style="float:left"><img alt="18198437_1554208607985181_2753967600512149320_n.jpg" height="350" src="//farm3.staticflickr.com/2848/34329275886_bd025bfd7d_b.jpg" width="350" />
-<figcaption><em>Presen&ccedil;as confirmadas na Confer&ecirc;ncia de abertura<br />
-da Feira .</em></figcaption>
+<figcaption><em>Presen&ccedil;as confirmadas na Confer&ecirc;ncia de<br />
+abertura da Feira .</em></figcaption>
 </figure>
 
 <p><br />
