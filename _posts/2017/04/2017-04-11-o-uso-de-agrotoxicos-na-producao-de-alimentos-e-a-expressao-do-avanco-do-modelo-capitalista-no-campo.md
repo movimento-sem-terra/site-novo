@@ -17,6 +17,20 @@ files:
     small: //farm4.staticflickr.com/3727/33846913741_18173f7223_n.jpg
     title: desmatamento.jpg
     $$hashKey: 0FC
+  - link: //farm3.staticflickr.com/2816/33529314934_08287b4bf9_b.jpg
+    original: //farm3.staticflickr.com/2816/33529314934_2212822791_o.jpg
+    thumbnail: //farm3.staticflickr.com/2816/33529314934_08287b4bf9_t.jpg
+    medium: //farm3.staticflickr.com/2816/33529314934_08287b4bf9_z.jpg
+    small: //farm3.staticflickr.com/2816/33529314934_08287b4bf9_n.jpg
+    title: 18157069_1347882661985905_4593807581605978401_n.jpg
+    $$hashKey: 0MR
+  - link: //farm3.staticflickr.com/2887/33529336944_19a308a06c_b.jpg
+    original: //farm3.staticflickr.com/2887/33529336944_78c3f2a77e_o.png
+    thumbnail: //farm3.staticflickr.com/2887/33529336944_19a308a06c_t.jpg
+    medium: //farm3.staticflickr.com/2887/33529336944_19a308a06c_z.jpg
+    small: //farm3.staticflickr.com/2887/33529336944_19a308a06c_n.jpg
+    title: dossie-444x480.png
+    $$hashKey: 0MU
 created_date: "2017-04-11T12:52:15-03:00"
 published: true
 releated_posts:
@@ -39,7 +53,11 @@ special-page: feira-2017
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Segundo o relat&oacute;rio da Associa&ccedil;&atilde;o Brasileira de Sa&uacute;de Coletiva (Abrasco) lan&ccedil;ado em 2015, o atual modelo de produ&ccedil;&atilde;o brasileiro, que implica na &ldquo;apropria&ccedil;&atilde;o, explora&ccedil;&atilde;o e expropria&ccedil;&atilde;o da natureza e da for&ccedil;a de trabalho&rdquo;, demonstra o poder do sistema s&oacute;cio-econ&ocirc;mico em que estamos inseridos.&nbsp;</p>
+Segundo o relat&oacute;rio da <a href="http://contraosagrotoxicos.org/dossie-abrasco/">Associa&ccedil;&atilde;o Brasileira de Sa&uacute;de Coletiva (Abrasco)</a> lan&ccedil;ado em 2015, o atual modelo de produ&ccedil;&atilde;o brasileiro, que implica na &ldquo;apropria&ccedil;&atilde;o, explora&ccedil;&atilde;o e expropria&ccedil;&atilde;o da natureza e da for&ccedil;a de trabalho&rdquo;, demonstra o poder do sistema s&oacute;cio-econ&ocirc;mico em que estamos inseridos.&nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="dossie-444x480.png" height="378" src="//farm3.staticflickr.com/2887/33529336944_19a308a06c_b.jpg" width="350" />
+<figcaption></figcaption>
+</figure>
 
 <p><br />
 O documento destaca a aprova&ccedil;&atilde;o do C&oacute;digo Florestal brasileiro, que evidenciou &ldquo;a imposi&ccedil;&atilde;o dos conceitos ruralistas, ou seja, os recursos naturais vistos como mat&eacute;ria-prima &agrave; disposi&ccedil;&atilde;o do capital, em contraposi&ccedil;&atilde;o ao pensamento contra-hegem&ocirc;nico, que estabelece limites de interesse p&uacute;blico&rdquo;.</p>
@@ -59,6 +77,10 @@ An&aacute;lises de amostras de sedimentos colhidas de um dos principais tribut&a
 <p><br />
 Segundo o dossi&ecirc;, &ldquo;a detec&ccedil;&atilde;o de res&iacute;duos de agrot&oacute;xicos no planalto mato-grossense, onde nascem os rios e afluentes do rio Paraguai, e na plan&iacute;cie pantaneira (pantanal), &eacute; preocupante. Em termos ecol&oacute;gicos, o efeito cr&ocirc;nico da contamina&ccedil;&atilde;o, mesmo em baixas concentra&ccedil;&otilde;es, implica riscos sobre a sa&uacute;de e o ambiente a m&eacute;dio e a longo prazos, como a diminui&ccedil;&atilde;o do potencial biol&oacute;gico de esp&eacute;cies animais (diminui&ccedil;&atilde;o do sucesso reprodutivo dos peixes, por exemplo) e vegetais&rdquo;.</p>
 
+<figure class="image" style="float:left"><img alt="18157069_1347882661985905_4593807581605978401_n.jpg" height="438" src="//farm3.staticflickr.com/2816/33529314934_08287b4bf9_b.jpg" width="350" />
+<figcaption><em>Charge: Ribs</em></figcaption>
+</figure>
+
 <p><br />
 Diversos outros casos t&ecirc;m sido denunciados em v&aacute;rias regi&otilde;es do Brasil. N&iacute;via Regina, da dire&ccedil;&atilde;o nacional do MST, destaca o exemplo dos Ind&iacute;genas Guaran&iacute;-Kaiow&aacute;, que vivem na Terra Ind&iacute;gna Tey&rsquo;i Ju&ccedil;u, no estado do Mato Grosso do Sul. Segundo ela, desde 2005 eles denunciam &ldquo;ataques sofridos com a pulveriza&ccedil;&atilde;o a&eacute;rea de agrot&oacute;xicos sobre suas aldeias, acompanhadas de amea&ccedil;as de pistoleiros. Al&eacute;m de sofrer intoxica&ccedil;&otilde;es, a &aacute;gua da comunidade foi contaminada&rdquo;.</p>
 
@@ -67,3 +89,6 @@ Frente aos graves registros de danos socioambientais gerados pelo modelo capital
 
 <p><br />
 A sociodiversidade cultural presente no campo e na floresta do Brasil se expressa nos povos que produzem alimento, vivem na terra e da terra, das &aacute;guas e da floresta&rdquo;, conclui.</p>
+
+<p><br />
+<em>*Este material integra o conjunto de reportagens do Especial para o site do MST: &ldquo;Agrot&oacute;xicos no Brasil: Impactos e resist&ecirc;ncia popular&rdquo;, como forma de apontar a import&acirc;ncia da produ&ccedil;&atilde;o e consumos de alimentos saud&aacute;veis, bem como. compreender o processo de interesses pol&iacute;ticos que est&aacute; envolvido neste contexto.&nbsp;</em></p>
