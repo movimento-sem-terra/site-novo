@@ -38,6 +38,7 @@ files:
 created_date: "2017-05-02T14:24:41-03:00"
 published: true
 releated_posts: []
+section: featured-news
 
 ---
 <p><img alt="paulo-freire.jpg" height="431" src="//farm3.staticflickr.com/2861/34368663506_8ec906d002_b.jpg" width="700" /></p>
