@@ -1,5 +1,5 @@
 ---
-date: "2017-04-30T22:21:38-03:00"
+date: "2017-05-03T22:21:38-03:00"
 tags:
   - tag: via-campesina
   - tag: assembleia
@@ -7,16 +7,16 @@ tags:
 title: Mais de 80 organizações se reúnem na 2° Assembleia Continental da CLOC
 support_line: "Os principais temas debatidos serão os avanços do imperialismo sobre os territórios, a aliança entre campo e cidade, os caminhos populares para a paz e o socialismo. "
 menu: agricultura camponesa
-images_hd: //farm3.staticflickr.com/2841/34330768966_9deb5b8be4_b.jpg
+images_hd: //farm5.staticflickr.com/4188/34302588401_0b44482049_b.jpg
 layout: post
 files:
-  - link: //farm3.staticflickr.com/2841/34330768966_9deb5b8be4_b.jpg
-    original: //farm3.staticflickr.com/2841/34330768966_c9620e4956_o.jpg
-    thumbnail: //farm3.staticflickr.com/2841/34330768966_9deb5b8be4_t.jpg
-    medium: //farm3.staticflickr.com/2841/34330768966_9deb5b8be4_z.jpg
-    small: //farm3.staticflickr.com/2841/34330768966_9deb5b8be4_n.jpg
-    title: 2012-12-22 asemblea cloc.jpg
-    $$hashKey: 1WM
+  - link: //farm5.staticflickr.com/4188/34302588401_0b44482049_b.jpg
+    original: //farm5.staticflickr.com/4188/34302588401_1aac41a6d6_o.jpg
+    thumbnail: //farm5.staticflickr.com/4188/34302588401_0b44482049_t.jpg
+    medium: //farm5.staticflickr.com/4188/34302588401_0b44482049_z.jpg
+    small: //farm5.staticflickr.com/4188/34302588401_0b44482049_n.jpg
+    title: 33590479554_e7739bf593_b.jpg
+    $$hashKey: 0WG
 created_date: "2017-04-30T22:35:01-03:00"
 published: true
 releated_posts:
@@ -26,6 +26,12 @@ releated_posts:
   - _posts/2016/10/2016-10-16-via-denuncia-ameaca-de-empresas-transnacionais-para-a-soberania-alimentar.md
 
 ---
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="33590479554_e7739bf593_b.jpg" height="413" src="//farm5.staticflickr.com/4188/34302588401_0b44482049_b.jpg" width="700" />
+<figcaption></figcaption>
+</figure>
+</div>
+
 <p>&nbsp;</p>
 
 <p><em>Por Comunica&ccedil;&atilde;o da CLOC/Via Campesina<br />
