@@ -23,7 +23,7 @@ files:
     title: FB_IMG_1493575371612.jpg
     $$hashKey: "033"
 created_date: "2017-05-03T15:28:17-03:00"
-published: true
+published: false
 releated_posts:
   - _posts/2016/09/2016-09-21-cloc-e-via-campesina-realizam-missao-de-solidariedade-com-o-campesinato-colombiano.md
   - _posts/2016/11/2016-11-04-cloc-via-campesina-presta-solidariedade-ao-mst.md
