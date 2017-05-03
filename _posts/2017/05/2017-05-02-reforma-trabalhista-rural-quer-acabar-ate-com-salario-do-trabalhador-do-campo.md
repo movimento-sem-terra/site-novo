@@ -23,6 +23,8 @@ releated_posts:
   - _posts/2017/03/2017-03-23-projeto-da-era-fhc-e-aprovado-pela-camara-e-libera-terceirizacao-ilimitada.md
   - _posts/2017/03/2017-03-30-a-pressao-do-agronegocio-para-manter-o-veneno-na-mesa-do-povo-brasileiro.md
   - _posts/2017/03/2017-03-31-governo-ilegitimo-paga-a-conta-do-golpe.md
+label: null
+section: featured-news
 
 ---
 <div style="text-align:center">
