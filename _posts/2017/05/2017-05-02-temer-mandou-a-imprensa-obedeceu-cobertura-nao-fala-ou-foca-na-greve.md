@@ -24,6 +24,7 @@ releated_posts:
   - _posts/2017/04/2017-04-28-coletivos-internacionais-se-manifestam-em-apoio-a-greve-geral-no-brasil.md
   - _posts/2017/04/2017-04-28-contra-as-reformas-de-temer-mst-se-soma-a-greve-geral-no-maranhao.md
   - _posts/2017/04/2017-04-28-no-df-grandes-multinacionais-do-veneno-sentiram-o-efeito-da-greve-geral.md
+label: articles
 
 ---
 <div style="text-align:center">
