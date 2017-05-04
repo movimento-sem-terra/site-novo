@@ -4,7 +4,7 @@ tags: []
 title: Festival de arte e cultura movimenta a Feira Nacional da Reforma Agrária
 support_line: "Teatro, música, literatura, estão na programação do evento, que começa nesta quinta-feira (4), no Parque da Água Branca, em São Paulo. Artistas de peso, como Tulipa Ruiz e Chico César se apresentarão no palco principal."
 menu: "educação, cultura e comunicação"
-section: cover
+section: null
 special-page: feira-2017
 images_hd: //farm5.staticflickr.com/4167/33607192834_a7cbfd9038_b.jpg
 layout: post
