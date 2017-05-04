@@ -5,16 +5,16 @@ tags:
 title: Nota de apoio ao povo Gamela
 support_line: "Entidades, pastorais, movimentos sociais e lideranças da sociedade civil se solidarizam com o povo tradicional frente ao ataque do último dia 30 de abril."
 menu: direitos humanos
-images_hd: //farm5.staticflickr.com/4173/34323883241_8e0e5354fe_b.jpg
+images_hd: //farm3.staticflickr.com/2887/34415458106_d50a6b5874_b.jpg
 layout: post
 files:
-  - link: //farm5.staticflickr.com/4173/34323883241_8e0e5354fe_b.jpg
-    original: //farm5.staticflickr.com/4173/34323883241_0bec9ab8b1_o.jpg
-    thumbnail: //farm5.staticflickr.com/4173/34323883241_8e0e5354fe_t.jpg
-    medium: //farm5.staticflickr.com/4173/34323883241_8e0e5354fe_z.jpg
-    small: //farm5.staticflickr.com/4173/34323883241_8e0e5354fe_n.jpg
-    title: Um dos indígenas agredidos no ataque realizado no domingo. Foto Ana Mendes. Cimi.jpg
-    $$hashKey: 0Z7
+  - link: //farm3.staticflickr.com/2887/34415458106_d50a6b5874_b.jpg
+    original: //farm3.staticflickr.com/2887/34415458106_42ac797261_o.jpg
+    thumbnail: //farm3.staticflickr.com/2887/34415458106_d50a6b5874_t.jpg
+    medium: //farm3.staticflickr.com/2887/34415458106_d50a6b5874_z.jpg
+    small: //farm3.staticflickr.com/2887/34415458106_d50a6b5874_n.jpg
+    title: Mais de 3 mil indigenas participaram do maior Acampamento Terra Livre realizado. Foto Nathália Clark. Greenpeace.jpg
+    $$hashKey: 05V
 created_date: "2017-05-04T17:36:42-03:00"
 published: true
 releated_posts:
@@ -25,11 +25,12 @@ releated_posts:
   - _posts/2016/12/2016-12-10-com-temer-a-questao-indigena-retrocede.md
 
 ---
-<p><img alt="Um dos indígenas agredidos no ataque realizado no domingo. Foto Ana Mendes. Cimi.jpg" height="467" src="//farm5.staticflickr.com/4173/34323883241_8e0e5354fe_b.jpg" width="700" /></p>
+<p><img alt="Mais de 3 mil indigenas participaram do maior Acampamento Terra Livre realizado. Foto Nathália Clark. Greenpeace.jpg" height="525" src="//farm3.staticflickr.com/2887/34415458106_d50a6b5874_b.jpg" width="700" /></p>
 
 <p>&nbsp;</p>
 
-<p><em>Da P&aacute;gina do MST</em></p>
+<p><em>Da P&aacute;gina do MST</em><br />
+<em>Foto: Nath&aacute;lia Clark</em></p>
 
 <p>&nbsp;</p>
 
@@ -139,6 +140,8 @@ Assim, responsabilizamos o Estado brasileiro por essa a&ccedil;&atilde;o violent
 <p>&nbsp;</p>
 
 <p><em>*Editado por Leonardo Fernandes</em></p>
+
+<div class="webpki_lacunasoftware_com" id="webpki_lacunasoftware_com" style="display: none;">&nbsp;</div>
 
 <div class="webpki_lacunasoftware_com" id="webpki_lacunasoftware_com" style="display: none;">&nbsp;</div>
 
