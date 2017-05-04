@@ -8,7 +8,7 @@ title: "Em defesa da vida, MST alerta sobre os perigos do modelo do agronegócio
 support_line: "Especial aborda os graves impactos gerados pelo uso de agrotóxicos na produção de alimentos à saúde da população consumidora, dos trabalhadores rurais e ao meio ambiente."
 menu: agronegócio
 images_hd: //farm3.staticflickr.com/2888/34240954961_b29f546282_b.jpg
-section: cover
+section: featured-news
 layout: post
 files:
   - link: //farm3.staticflickr.com/2889/33561156383_17278e02a3_b.jpg
@@ -80,6 +80,11 @@ Desde 2008, o Brasil passou a ser o maior consumidor de agrot&oacute;xicos do mu
 <a href="http://www.mst.org.br/2017/04/27/mais-de-duas-mil-pessoas-morreram-por-uso-de-agrotoxicos-no-brasil-nos-ultimos-anos.html">Mais de duas mil pessoas morreram por uso de agrot&oacute;xicos no Brasil nos &uacute;ltimos anos</a></p>
 
 <p><br />
-<a href="http://www.mst.org.br/2017/04/30/nao-ha-contradicao-entre-desenvolvimento-e-agroecologia.html">&quot;N&atilde;o h&aacute; contradi&ccedil;&atilde;o entre desenvolvimento e agroecologia&quot;</a></p>
+<a href="http://www.mst.org.br/2017/04/30/nao-ha-contradicao-entre-desenvolvimento-e-agroecologia.html">&quot;N&atilde;o h&aacute; contradi&ccedil;&atilde;o entre desenvolvimento e agroecologia&quot;</a><br />
+&nbsp;</p>
+
+<p><a href="http://www.mst.org.br/2017/05/03/superar-o-modelo-do-agronegocio-e-possivel-e-necessario.html">&quot;Superar o modelo do agroneg&oacute;cio &eacute; poss&iacute;vel e necess&aacute;rio&quot;</a></p>
 
 <p>&nbsp;</p>
+
+<div class="webpki_lacunasoftware_com" id="webpki_lacunasoftware_com" style="display: none;">&nbsp;</div>
