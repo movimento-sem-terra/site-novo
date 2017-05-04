@@ -26,9 +26,11 @@ releated_posts: []
 <div class="webpki_lacunasoftware_com" id="webpki_lacunasoftware_com" style="display: none;">&nbsp;</div>
 
 <p><em>Por Leonardo Fernandes<br />
-Da P&aacute;gina do MST</em><br />
-<br />
-Ser&atilde;o mais de 250 toneladas de alimentos oferecidos &agrave; popula&ccedil;&atilde;o de S&atilde;o Paulo durante os quatro dias da 2&ordf; Feira Nacional da Reforma Agr&aacute;ria. Al&eacute;m dos alimentos&nbsp;in natura, da culin&aacute;ria da terra, a feira conta ainda com espa&ccedil;os de debate, uma feira liter&aacute;ria e muita arte.<br />
+Da P&aacute;gina do MST</em></p>
+
+<p>&nbsp;</p>
+
+<p>Ser&atilde;o mais de 250 toneladas de alimentos oferecidos &agrave; popula&ccedil;&atilde;o de S&atilde;o Paulo durante os quatro dias da 2&ordf; Feira Nacional da Reforma Agr&aacute;ria. Al&eacute;m dos alimentos&nbsp;in natura, da culin&aacute;ria da terra, a feira conta ainda com espa&ccedil;os de debate, uma feira liter&aacute;ria e muita arte.<br />
 <br />
 Ao longo da programa&ccedil;&atilde;o da Feira, uma diversidade de atra&ccedil;&otilde;es musicais e teatrais devem envolver o p&uacute;blico de S&atilde;o Paulo&nbsp; em um grande festival de arte e cultura.<br />
 <br />
@@ -38,12 +40,22 @@ J&aacute; no primeiro dia de Feira, a Cia Canina de Teatro de Rua e Sem Dono apr
 <br />
 O festival de m&uacute;sicas se divide entre dois palcos: no &lsquo;Culin&aacute;ria da Terra, artistas regionais, como Slam da Guilhermina, com seu rap e poesia, que se apresenta logo no primeiro dia; a viola de Katya Teixeira; e o samba reggae do Bat Macumba. J&aacute; no palco &lsquo;Arena&rsquo; se apresentam artistas reconhecidos nacional e internacionalmente, como Liniker e os Caramelows, Tulipa Ruiz, Tico Santa Cruz, Emicida e Chico C&eacute;sar.<br />
 <br />
-&ldquo;Eu acho que os artistas potencializam a voz destes movimentos populares s&atilde;o muito importantes e precisam ser ouvidos, n&atilde;o s&oacute; pela sociedade, mas pelos governantes&rdquo;, declarou Tico Santa Cruz, que se apresenta &agrave;s 16 horas da sexta-feira (5).<br />
-<br />
-Tulipa Ruiz se apresenta na tarde do s&aacute;bado (6). Segundo ela, participar da feira &eacute; posicionar-se politicamente sobre um tema de alta relev&acirc;ncia: a alimenta&ccedil;&atilde;o saud&aacute;vel. &ldquo;A classe art&iacute;stica sempre teve um papel relevante, o problema &eacute; assumir esse papel, principalmente no atual contexto pol&iacute;tico que &eacute; regido pela polariza&ccedil;&atilde;o. Eu me impacto como artista-cidad&atilde; e acredito que o envolvimento da classe art&iacute;stica fortalece a urg&ecirc;ncia de reflex&atilde;o e contesta&ccedil;&atilde;o do momento pol&iacute;tico que a gente est&aacute; vivendo&rdquo;.<br />
-<br />
+&ldquo;Eu acho que os artistas potencializam a voz destes movimentos populares s&atilde;o muito importantes e precisam ser ouvidos, n&atilde;o s&oacute; pela sociedade, mas pelos governantes&rdquo;, declarou Tico Santa Cruz, que se apresenta &agrave;s 16 horas da sexta-feira (5).</p>
+
+<p><br />
+Tulipa Ruiz se apresenta na tarde do s&aacute;bado (6). Segundo ela, participar da feira &eacute; posicionar-se politicamente sobre um tema de alta relev&acirc;ncia: a alimenta&ccedil;&atilde;o saud&aacute;vel. &ldquo;A classe art&iacute;stica sempre teve um papel relevante, o problema &eacute; assumir esse papel, principalmente no atual contexto pol&iacute;tico que &eacute; regido pela polariza&ccedil;&atilde;o. Eu me impacto como artista-cidad&atilde; e acredito que o envolvimento da classe art&iacute;stica fortalece a urg&ecirc;ncia de reflex&atilde;o e contesta&ccedil;&atilde;o do momento pol&iacute;tico que a gente est&aacute; vivendo&rdquo;.</p>
+
+<p><br />
 Confira a programa&ccedil;&atilde;o completa da <a href="http://www.mst.org.br/II-feira-nacional-da-reforma-agraria/">2&ordf; Feira Nacional da Reforma Agr&aacute;ria</a></p>
 
 <p>&nbsp;</p>
 
 <p>&nbsp;</p>
+
+<p><em>*Editado por Gustavo Marinho</em></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<div class="webpki_lacunasoftware_com" id="webpki_lacunasoftware_com" style="display: none;">&nbsp;</div>
