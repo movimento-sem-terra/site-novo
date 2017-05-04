@@ -177,11 +177,20 @@
       padding: 40px 0;
       transition: transform .2s ease-in-out;
 
+      img {
+        max-width: 100%;
+      }
+
       @include media($tablet) {
         max-width: 800px;
         align-self: center;
+        img {
+          max-width: 250px;
+        }
+
         img:hover {
-          transform: scale(1.2);
+          transform: scale(1.02);
+          cursor: pointer;
           transition: transform .2s ease-in-out;
         }
       }
