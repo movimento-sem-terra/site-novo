@@ -5,7 +5,7 @@ tags:
 title: Ato político marca abertura da Feira da Reforma Agrária em São Paulo
 support_line: "O evento, organizado pelo MST, tem uma extensa programação, que inclui, além da feira de produtos in natura, um espaço gastronômico e diversas atividades culturais e de formação sobre o modelo de produção de alimentos agroecológicos. "
 menu: agricultura camponesa
-section: cover
+section: null
 images_hd: //farm5.staticflickr.com/4163/34294127272_7f5738be4f_b.jpg
 layout: post
 files:
