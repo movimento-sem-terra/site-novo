@@ -122,11 +122,7 @@ Assim, responsabilizamos o Estado brasileiro por essa a&ccedil;&atilde;o violent
 51. Centro de Documenta&ccedil;&atilde;o Ind&iacute;gena dos Mission&aacute;rios da Consolata, Boa Vista &ndash; RR<br />
 52. Cosmopol&iacute;ticas - N&uacute;cleo de Antropologia da Universidade Federal Fluminense<br />
 53. Movimento Interestadual das Quebradeiras de Coco Baba&ccedil;u- MIQCB<br />
-54. Central dos Movimentos Populares &ndash; CMP</p>
-
-<p>&nbsp;</p>
-
-<p><em>*Editado por Leonardo Fernandes</em><br />
+54. Central dos Movimentos Populares &ndash; CMP<br />
 55. Uni&atilde;o por Moradia Popular &ndash; UMP/MA<br />
 56. Comiss&atilde;o Justi&ccedil;a e Paz do Maranh&atilde;o - CBPJ<br />
 57. Cec&iacute;lia Amin Castro &ndash; Secretaria Executiva da Comiss&atilde;o Justi&ccedil;a e Paz da Arquidiocese de S&atilde;o Luis<br />
@@ -136,6 +132,14 @@ Assim, responsabilizamos o Estado brasileiro por essa a&ccedil;&atilde;o violent
 61. Movimento de Sa&uacute;de dos Povos do Maranh&atilde;o<br />
 62. Rede Social de Justi&ccedil;a e Direitos Humanos, SP<br />
 63. Centro de Documenta&ccedil;&atilde;o Eloy Ferreira da Silva - CEDEFES<br />
-04 de Maio de 2017</p>
+&nbsp;</p>
+
+<p>04 de Maio de 2017</p>
+
+<p>&nbsp;</p>
+
+<p><em>*Editado por Leonardo Fernandes</em></p>
+
+<div class="webpki_lacunasoftware_com" id="webpki_lacunasoftware_com" style="display: none;">&nbsp;</div>
 
 <div class="webpki_lacunasoftware_com" id="webpki_lacunasoftware_com" style="display: none;">&nbsp;</div>
