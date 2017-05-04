@@ -65,6 +65,14 @@ $(document).ready(function() {
     $('.js-carousel').slick('slickAdd', createNew(post));
   };
 
+  $("a.link-agenda").fancybox({
+    'transitionIn'  : 'elastic',
+    'transitionOut' : 'elastic',
+    'speedIn'   : 600,
+    'speedOut'    : 200,
+    'overlayShow' : false
+  });
+
   $.getJSON( 'noticias.json', function( data ) {
     $.each(data, function(index, post){
       addCarousel(post);
