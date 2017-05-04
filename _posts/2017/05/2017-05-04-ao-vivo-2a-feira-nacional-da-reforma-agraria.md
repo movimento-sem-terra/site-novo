@@ -4,7 +4,7 @@ tags: []
 title: "AO VIVO: 2ª Feira Nacional da Reforma Agrária"
 support_line: "Siga a cobertura especial do evento organizado pelo MST, através do Brasil de Fato."
 menu: reforma agrária
-section: cover
+section: featured-news
 special-page: feira-2017
 images_hd: //farm5.staticflickr.com/4175/34447657035_8fde6a02b9_b.jpg
 layout: post
@@ -21,4 +21,4 @@ published: true
 releated_posts: []
 
 ---
-<a class="twitter-timeline" href="https://twitter.com/Brasil_de_Fato/timelines/859871493601333248">Feira Reforma Agrária - Curated tweets by Brasil_de_Fato</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<p><a class="twitter-timeline" href="https://twitter.com/Brasil_de_Fato/timelines/859871493601333248">Feira Reforma Agr&aacute;ria - Curated tweets by Brasil_de_Fato</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
