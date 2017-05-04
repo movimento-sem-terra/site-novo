@@ -28,6 +28,7 @@ releated_posts:
   - _posts/2017/03/2017-03-24-mst-anuncia-data-para-2a-feira-nacional-da-reforma-agraria.md
   - _posts/2017/04/2017-04-07-formosa-de-goias-recebe-o-i-circuito-de-feiras-e-mostras-culturais-da-reforma-agraria-do-dfe.md
   - _posts/2017/04/2017-04-13-musica-dialogo-e-poesia-marcam-lancamento-da-feira-da-reforma-agraria-nesta-quinta.md
+section: featured-news
 
 ---
 <p>&nbsp;</p>
