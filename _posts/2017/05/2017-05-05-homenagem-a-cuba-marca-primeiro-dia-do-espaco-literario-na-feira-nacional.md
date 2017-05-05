@@ -44,11 +44,9 @@ releated_posts:
 ---
 <p>&nbsp;</p>
 
-<div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="photo_2017-05-05_10-13-48.jpg" height="233" src="//farm5.staticflickr.com/4174/34307778412_7fc2162d7e_b.jpg" width="350" />
+<figure class="image" style="float:left"><img alt="photo_2017-05-05_10-13-48.jpg" height="466" src="//farm5.staticflickr.com/4174/34307778412_7fc2162d7e_b.jpg" width="700" />
 <figcaption></figcaption>
 </figure>
-</div>
 
 <p><br />
 <em>Por Viviane Brigida<br />
