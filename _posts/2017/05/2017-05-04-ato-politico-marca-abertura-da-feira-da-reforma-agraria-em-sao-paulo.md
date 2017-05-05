@@ -58,14 +58,14 @@ O ato pol&iacute;tico com a presen&ccedil;a de autoridades e representantes de m
 <br />
 &ldquo;Estamos aqui hoje para inaugurar oficialmente este grande evento, esta grande feira dos trabalhadores e trabalhadoras Sem Terra de todo o Brasil&rdquo;, disse Delwek Matheus, da coordena&ccedil;&atilde;o da feira, no come&ccedil;o da atividade.<br />
 <br />
-O primeiro a falar foi o Secret&aacute;rio Estadual da Justi&ccedil;a e da Defesa da Cidadania de S&atilde;o Paulo, M&aacute;rio Fernando Elias Rosa. Representando o governo do estado, Rosa destacou a import&acirc;ncia do apoio &agrave; agricultura familiar. &ldquo;N&oacute;s do estado de S&atilde;o Paulo queremos acolher cada um de voc&ecirc;s. Acreditamos que a agricultura familiar deve ser uma prioridade para qualquer governo de qualquer estado. Por isso, contem conosco e sem bem-vindos&rdquo;.</p>
+O primeiro a falar foi o Secret&aacute;rio Estadual da Justi&ccedil;a e da Defesa da Cidadania de S&atilde;o Paulo, M&aacute;rio Fernando Elias Rosa. Representando o governo do estado, Rosa destacou a import&acirc;ncia do apoio &agrave; agricultura familiar. &ldquo;N&oacute;s do estado de S&atilde;o Paulo queremos acolher cada um de voc&ecirc;s. Acreditamos que a agricultura familiar deve ser uma prioridade para qualquer governo de qualquer estado. Por isso, contem conosco e sejam bem-vindos&rdquo;.</p>
 
 <figure class="image" style="float:left"><img alt="Feira_Nacional_RAP_04-05-2017_Baixa_Pablo_Vergara18.JPG" height="233" src="//farm3.staticflickr.com/2835/33611621774_b73871ddf8_b.jpg" width="350" />
 <figcaption></figcaption>
 </figure>
 
 <p><br />
-J&aacute; a deputada estadual paulista Beth Sah&atilde;o (PT) destacou que al&eacute;m das mais de sete mil fam&iacute;lias assentadas no estado, ainda existem milhares de outras acampadas, o que evidencia a necessidade de maior aten&ccedil;&atilde;o &agrave; pol&iacute;tica agr&aacute;ria pelo governo. &ldquo;Aqui no estado de S&atilde;o Paulo n&oacute;s ainda temos um longo caminho a percorrer, para poder ter de fato uma pol&iacute;tica agr&aacute;ria que resolva, n&atilde;o s&oacute; as quest&otilde;es relacionadas &agrave; regulariza&ccedil;&atilde;o fundi&aacute;ria, mas tamb&eacute;m o tema da alimenta&ccedil;&atilde;o de qualidade para toda a popula&ccedil;&atilde;o&rdquo;.<br />
+J&aacute; a deputada estadual paulista Beth Sah&atilde;o (PT) destacou que al&eacute;m das mais de sete mil fam&iacute;lias assentadas no estado, ainda existem milhares de outras acampadas, o que evidencia a necessidade de maior aten&ccedil;&atilde;o &agrave; pol&iacute;tica agr&aacute;ria pelos governos. &ldquo;Aqui no estado de S&atilde;o Paulo n&oacute;s ainda temos um longo caminho a percorrer, para poder ter de fato uma pol&iacute;tica agr&aacute;ria que resolva, n&atilde;o s&oacute; as quest&otilde;es relacionadas &agrave; regulariza&ccedil;&atilde;o fundi&aacute;ria, mas tamb&eacute;m o tema da alimenta&ccedil;&atilde;o de qualidade para toda a popula&ccedil;&atilde;o&rdquo;.<br />
 <br />
 Emocionada, a vereadora Juliana Cardoso (PT), que colaborou com a organiza&ccedil;&atilde;o da feira, comemorou o sucesso das primeiras horas de atividades. &ldquo;Contra a vontade dos poderosos e com muita resist&ecirc;ncia, o MST est&aacute; dando uma prova de que sim, &eacute; poss&iacute;vel construir uma sociedade diferente, atrav&eacute;s desta feira&rdquo;.</p>
 
@@ -82,11 +82,13 @@ Representantes de movimentos populares parceiros do MST tamb&eacute;m tomaram a 
 <p>Tamb&eacute;m participaram do ato pol&iacute;tico a representante da Uni&atilde;o Nacional dos Estudantes (UNE) e do Levante Popular da Juventude, Jessy Daiane, o diretor executivo do Instituto de Terras do Estado de S&atilde;o Paulo (Itesp), Marco Pilla, a integrante da Marcha Mundial de Mulheres, Maria Fernanda Marcelino, e Raimundo Bonfim, da Central de Movimentos Populares (CMP).</p>
 
 <p><br />
-Mais de 800 feirantes, trabalhadores e trabalhadoras acampados e assentados da Reforma Agr&aacute;ria, participam do evento. 250 toneladas de alimentos ser&atilde;o comercializados durante os quatro dias de atividades. Al&eacute;m da feira de produtos in natura, h&aacute; um espa&ccedil;o gastron&ocirc;mico dedicado &agrave; culin&aacute;ria dos 23 estados presentes, semin&aacute;rios sobre o tema da agroecologia e apresenta&ccedil;&otilde;es culturais diversas.<br />
+Mais de 800 feirantes, trabalhadores e trabalhadoras acampados e assentados da Reforma Agr&aacute;ria, participam do evento. 250 toneladas de alimentos ser&atilde;o comercializados durante os quatro dias de atividades. Al&eacute;m da feira de produtos in natura, h&aacute; um espa&ccedil;o gastron&ocirc;mico dedicado &agrave; culin&aacute;ria dos 23 estados presentes, semin&aacute;rios sobre o tema da alimenta&ccedil;&atilde;o saud&aacute;vel e apresenta&ccedil;&otilde;es culturais diversas.<br />
 <br />
 Confira aqui a programa&ccedil;&atilde;o completa da <a href="http://www.mst.org.br/II-feira-nacional-da-reforma-agraria/">2&ordf; Feira Nacional da Reforma Agr&aacute;ria.</a></p>
 
 <p><br />
 <em>*Editado por Gustavo Marinho</em></p>
+
+<div class="webpki_lacunasoftware_com" id="webpki_lacunasoftware_com" style="display: none;">&nbsp;</div>
 
 <div class="webpki_lacunasoftware_com" id="webpki_lacunasoftware_com" style="display: none;">&nbsp;</div>
