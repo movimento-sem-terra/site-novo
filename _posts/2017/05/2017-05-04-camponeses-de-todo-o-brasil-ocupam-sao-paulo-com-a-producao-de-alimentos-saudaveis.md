@@ -31,7 +31,7 @@ releated_posts:
   - _posts/2017/05/2017-05-03-feira-tera-presenca-de-pepe-mujica-e-bela-gil-em-conferencia-sobre-alimentacao-saudavel.md
   - _posts/2017/04/2017-04-29-2a-feira-nacional-da-reforma-agraria-e-um-verdadeiro-festival-de-cultura.md
   - _posts/2017/04/2017-04-29-culinaria-da-terra-comida-com-sabor-de-luta.md
-section: cover
+section: featured-news
 
 ---
 <p><img alt="photo4927147101872302012.jpg" height="466" src="//farm5.staticflickr.com/4176/34292766132_25c37e4030_b.jpg" width="700" /></p>
