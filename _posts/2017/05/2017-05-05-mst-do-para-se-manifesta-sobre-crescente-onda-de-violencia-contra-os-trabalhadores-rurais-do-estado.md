@@ -6,7 +6,7 @@ tags:
 title: MST se manifesta sobre crescente onda de violência contra os trabalhadores rurais
 support_line: "Há 21 anos do massacre de Eldorado dos Carajás, mais dois trabalhadores Sem Terra foram brutalmente assassinados no estado, somente nessa semana. "
 menu: direitos humanos
-images_hd: //farm3.staticflickr.com/2857/34474670825_a9895fd6b5_b.jpg
+images_hd: //farm5.staticflickr.com/4187/34474681665_d915af74ca_b.jpg
 layout: post
 files:
   - link: //farm5.staticflickr.com/4160/34343768861_faf90d3ac3_b.jpg
@@ -16,13 +16,13 @@ files:
     small: //farm5.staticflickr.com/4160/34343768861_faf90d3ac3_n.jpg
     title: 769f4f476f11fb83aa0035b39e336f90.jpg
     $$hashKey: 02P
-  - link: //farm3.staticflickr.com/2857/34474670825_a9895fd6b5_b.jpg
-    original: //farm3.staticflickr.com/2857/34474670825_c3de5501a2_o.jpg
-    thumbnail: //farm3.staticflickr.com/2857/34474670825_a9895fd6b5_t.jpg
-    medium: //farm3.staticflickr.com/2857/34474670825_a9895fd6b5_z.jpg
-    small: //farm3.staticflickr.com/2857/34474670825_a9895fd6b5_n.jpg
+  - link: //farm5.staticflickr.com/4187/34474681665_d915af74ca_b.jpg
+    original: //farm5.staticflickr.com/4187/34474681665_c575b361b9_o.jpg
+    thumbnail: //farm5.staticflickr.com/4187/34474681665_d915af74ca_t.jpg
+    medium: //farm5.staticflickr.com/4187/34474681665_d915af74ca_z.jpg
+    small: //farm5.staticflickr.com/4187/34474681665_d915af74ca_n.jpg
     title: entrevista_lavratti_01-1.jpg
-    $$hashKey: 0JM
+    $$hashKey: 0P6
 created_date: "2017-05-05T18:17:06-03:00"
 published: true
 releated_posts:
