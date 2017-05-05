@@ -4,7 +4,7 @@ tags:
   - tag: feira-da-reforma-agrária
   - tag: alimentos-saudáveis
   - tag: são-paulo
-title: Feira terá presença de Pepe Mujica e Bela Gil em conferência sobre alimentação saudável
+title: Conferência sobre alimentação saudável terá presença de Pepe Mujica e Bela Gil
 support_line: "A atriz Letícia Sabatella e o ex-ministro da saúde, Alexandre Padilha, também compõem a mesa. Outros espaços de formação ampliarão o debate sobre a Reforma Agrária Popular."
 menu: reforma agrária
 images_hd: //farm3.staticflickr.com/2892/34050511110_eb94bf8a29_b.jpg
