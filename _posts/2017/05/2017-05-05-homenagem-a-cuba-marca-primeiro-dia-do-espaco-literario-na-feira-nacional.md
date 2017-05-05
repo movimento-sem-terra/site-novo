@@ -42,6 +42,14 @@ releated_posts:
   - _posts/2016/11/2016-11-26-em-nota-mst-ressalta-a-importancia-do-legado-de-fidel-para-as-geracoes-futuras.md
 
 ---
+<p>&nbsp;</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="photo_2017-05-05_10-13-48.jpg" height="233" src="//farm5.staticflickr.com/4174/34307778412_7fc2162d7e_b.jpg" width="350" />
+<figcaption></figcaption>
+</figure>
+</div>
+
 <p><br />
 <em>Por Viviane Brigida<br />
 Da P&aacute;gina do MST<br />
@@ -74,6 +82,10 @@ Para a representante de Cuba, o crescimento e fortalecimento de exemplos dos tra
 Com Cuba, o Movimento Sem Terra desenvolveu pr&aacute;ticas nas &aacute;reas da educa&ccedil;&atilde;o como programa &ldquo;Sim, Eu Posso!&rdquo;, interc&acirc;mbios na produ&ccedil;&atilde;o e forma&ccedil;&atilde;o em sa&uacute;de, essas experi&ecirc;ncias seguem no fortalecimento de pr&aacute;ticas libertadoras por um mundo mais justo e humano.<br />
 <br />
 O Espa&ccedil;o Liter&aacute;rio possui programa&ccedil;&atilde;o at&eacute; o pr&oacute;ximo dia 7, &uacute;ltimo dia de Feira, no Parque da &Aacute;gua Branca, em S&atilde;o Paulo.</p>
+
+<p>&nbsp;</p>
+
+<p>Confira a programa&ccedil;&atilde;o completa da <a href="http://www.mst.org.br/II-feira-nacional-da-reforma-agraria/">2&ordf; Feira Nacional da Reforma Agr&aacute;ria.</a></p>
 
 <p><em>*Editado por Gustavo Marinho</em></p>
 
