@@ -55,7 +55,10 @@ de&nbsp;Neg&oacute;cios.</em></figcaption>
 Ela conseguiu. Sobreviveu &agrave;s dificuldades decorrentes da luta contra o agroneg&oacute;cio e logrou transform&aacute;-las em motiva&ccedil;&atilde;o para encarar outros desafios, ainda mais se tratando de uma mulher. &ldquo;Quando n&oacute;s ocupamos a terra, n&oacute;s t&iacute;nhamos um grande desafio que era produzir. Porque voc&ecirc; sabe que mulher, para provar que &eacute; boa na &aacute;rea de produ&ccedil;&atilde;o, ela tem que ser boa mesmo. E eu queria estar em p&eacute; de igualdade com os homens. E eu consegui mostrar que aqui a Reforma Agr&aacute;ria d&aacute; certo. Aqui tem uma mulher, que junto com outras companheiras, faz com que isso aconte&ccedil;a&rdquo;, disse.</p>
 
 <p><br />
-Tanto esfor&ccedil;o valeu &agrave; pena. Lurdinha recebeu em 2015 o Pr&ecirc;mio Sebrae - Mulher de Neg&oacute;cios - por ajudar a organizar o processo produtivo no assentamento, que hoje tem uma variedade enorme de produtos saud&aacute;veis. &ldquo;Logo que a gente ocupou, come&ccedil;amos a produzir uva irrigada. No primeiro momento foi muito dif&iacute;cil porque n&oacute;s n&atilde;o conhec&iacute;amos como era o processo de produ&ccedil;&atilde;o da uva. Hoje, a uva continua sendo o carro-chefe do assentamento, mas temos tamb&eacute;m melancia, ab&oacute;bora, goiaba, mam&atilde;o, uma produ&ccedil;&atilde;o bastante diversificada&rdquo;.</p>
+Tanto esfor&ccedil;o valeu &agrave; pena. Lurdinha recebeu em 2015 o Pr&ecirc;mio Sebrae - Mulher de Neg&oacute;cios - por ajudar a organizar o processo produtivo no assentamento, que hoje tem uma variedade enorme de produtos saud&aacute;veis.</p>
+
+<p><br />
+&ldquo;Logo que a gente ocupou, come&ccedil;amos a produzir uva irrigada. No primeiro momento foi muito dif&iacute;cil porque n&oacute;s n&atilde;o conhec&iacute;amos como era o processo de produ&ccedil;&atilde;o da uva. Hoje, a uva continua sendo o carro-chefe do assentamento, mas temos tamb&eacute;m melancia, ab&oacute;bora, goiaba, mam&atilde;o, uma produ&ccedil;&atilde;o bastante diversificada&rdquo;.</p>
 
 <p><br />
 <strong>Estreia na Feira</strong></p>
@@ -70,3 +73,6 @@ A barraca do Piau&iacute; oferece uma variedade de geleias produzidas pela assoc
 Visite a barraca do Piau&iacute; e dos outros 22 estados presentes na 2&ordf; Feira Nacional da Reforma Agr&aacute;ria. &Eacute; s&oacute; at&eacute; domingo.<br />
 <br />
 Confira a programa&ccedil;&atilde;o completa <a href="http://www.mst.org.br/II-feira-nacional-da-reforma-agraria">aqui</a>&nbsp;ou acesse o registro fotogr&aacute;fico no <a href="https://www.flickr.com/photos/mstoficial/albums/">flickr oficial do MST</a></p>
+
+<p><br />
+<em>*Editado por Iris Pacheco</em></p>
