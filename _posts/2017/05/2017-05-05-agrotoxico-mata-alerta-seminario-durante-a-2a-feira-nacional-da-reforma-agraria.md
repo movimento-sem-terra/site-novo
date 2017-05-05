@@ -5,7 +5,7 @@ tags:
   - tag: transgênicos
   - tag: feira-da-reforma-agrária
   - tag: campanha-contra-os-agrotóxicos
-title: "Agrotóxico mata! Alerta seminário durante a 2ª Feira Nacional da Reforma Agrária"
+title: "Agrotóxico mata! Alerta estudiosos"
 support_line: "Seminário faz parte da programação do evento, organizado pelo MST, no parque da Água Branca, zona oeste de São Paulo, até o próximo domingo."
 menu: agronegócio
 special-page: feira-2017
@@ -42,11 +42,16 @@ releated_posts:
   - _posts/2016/09/2016-09-20-fusao-entre-bayer-e-monsanto-deve-agravar-inseguranca-alimentar-no-brasil-diz-professor.md
   - _posts/2017/03/2017-03-16-plataforma-chegadeagrotoxicos-e-lancada-no-brasil.md
   - _posts/2016/10/2016-10-25-seminario-internacional-discute-a-luta-contra-os-agrotoxicos.md
+section: featured-news
 
 ---
 <figure class="image" style="float:left"><img alt="seminário 1.jpeg" height="467" src="//farm5.staticflickr.com/4165/34311865932_938d48b161_b.jpg" width="700" />
 <figcaption></figcaption>
 </figure>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
 
 <p><em>Por Leonardo Fernandes<br />
 Da P&aacute;gina do MST<br />
