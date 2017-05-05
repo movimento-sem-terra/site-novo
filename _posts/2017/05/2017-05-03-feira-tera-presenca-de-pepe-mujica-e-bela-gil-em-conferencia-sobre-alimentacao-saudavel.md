@@ -1,5 +1,5 @@
 ---
-date: "2017-05-03T18:07:33-03:00"
+date: "2017-05-05T18:07:33-03:00"
 tags:
   - tag: feira-da-reforma-agrária
   - tag: alimentos-saudáveis
@@ -28,7 +28,7 @@ releated_posts:
   - _posts/2017/03/2017-03-24-mst-anuncia-data-para-2a-feira-nacional-da-reforma-agraria.md
   - _posts/2017/04/2017-04-07-formosa-de-goias-recebe-o-i-circuito-de-feiras-e-mostras-culturais-da-reforma-agraria-do-dfe.md
   - _posts/2017/04/2017-04-13-musica-dialogo-e-poesia-marcam-lancamento-da-feira-da-reforma-agraria-nesta-quinta.md
-section: featured-news
+section: cover
 
 ---
 <p>&nbsp;</p>
