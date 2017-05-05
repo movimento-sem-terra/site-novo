@@ -44,7 +44,9 @@ releated_posts:
   - _posts/2016/10/2016-10-25-seminario-internacional-discute-a-luta-contra-os-agrotoxicos.md
 
 ---
-<p>&nbsp;</p>
+<figure class="image" style="float:left"><img alt="seminário 1.jpeg" height="467" src="//farm5.staticflickr.com/4165/34311865932_938d48b161_b.jpg" width="700" />
+<figcaption></figcaption>
+</figure>
 
 <p><em>Por Leonardo Fernandes<br />
 Da P&aacute;gina do MST<br />
@@ -60,20 +62,26 @@ O descontrole na utiliza&ccedil;&atilde;o desses qu&iacute;micos na produ&ccedil
 Nivia Regina, da Dire&ccedil;&atilde;o Nacional do MST e coordenadora da Campanha Permanente contra os Agrot&oacute;xicos e pela Vida, destaca que, com a mudan&ccedil;a de governo, depois do golpe de estado de 2016, as novas autoridades buscam esvaziar o papel de &oacute;rg&atilde;os p&uacute;blicos que historicamente foram respons&aacute;veis pelo controle da inser&ccedil;&atilde;o de novos venenos na agricultura brasileira.</p>
 
 <figure class="image" style="float:left"><img alt="seminário 3.jpeg" height="233" src="//farm5.staticflickr.com/4188/34341441161_4b4c098786_b.jpg" width="350" />
-<figcaption>&quot;Com esse governo golpista, o que temos visto, principalmente na pauta dos agrot&oacute;xicos e transg&ecirc;nicos, &eacute; a acelera&ccedil;&atilde;o do retrocesso.&quot;</figcaption>
+<figcaption></figcaption>
 </figure>
 
 <p><br />
 &ldquo;Com esse governo golpista, o que temos visto, principalmente na pauta dos agrot&oacute;xicos e transg&ecirc;nicos, &eacute; a acelera&ccedil;&atilde;o do retrocesso. Isso n&atilde;o ocorre somente na pauta geral, como &eacute; o caso das reformas da Previd&ecirc;ncia ou a trabalhista, mas tamb&eacute;m sobre esse tema que &eacute; t&atilde;o caro para toda a popula&ccedil;&atilde;o. Ao ponto de promover uma flexibiliza&ccedil;&atilde;o do controle desses alimentos. Flexibiliza&ccedil;&atilde;o inclusive da atua&ccedil;&atilde;o de institui&ccedil;&otilde;es como a Anvisa (Ag&ecirc;ncia Nacional de Vigil&acirc;ncia Sanit&aacute;ria), jogando a pauta dos agrot&oacute;xicos para o escanteio&rdquo;.<br />
 <br />
-Segundo a professora da Universidade Federal do Cariri e representante da Associa&ccedil;&atilde;o Brasileira de Sa&uacute;de Coletiva (Abrasco), Ada Cristina Pontes, somente as grandes empresas s&atilde;o beneficiadas por essa pol&iacute;tica. &ldquo;A produ&ccedil;&atilde;o do agroneg&oacute;cio, em larga escala, de commodities voltadas para exporta&ccedil;&atilde;o, gera grandes volumes de lucros para as grandes empresas que det&eacute;m esses processos. Mas o &ocirc;nus, as doen&ccedil;as, a contamina&ccedil;&atilde;o ambiental gerada por esse modelo recai principalmente sobre os grupos mais vulnerabilizados, ou seja, principalmente sobre os trabalhadores rurais, os agricultores, os moradores das cidades dos entornos dessas grandes empresas&rdquo;.<br />
-<br />
+Segundo a professora da Universidade Federal do Cariri e representante da Associa&ccedil;&atilde;o Brasileira de Sa&uacute;de Coletiva (Abrasco), Ada Cristina Pontes, somente as grandes empresas s&atilde;o beneficiadas por essa pol&iacute;tica. &ldquo;A produ&ccedil;&atilde;o do agroneg&oacute;cio, em larga escala, de commodities voltadas para exporta&ccedil;&atilde;o, gera grandes volumes de lucros para as grandes empresas que det&eacute;m esses processos. Mas o &ocirc;nus, as doen&ccedil;as, a contamina&ccedil;&atilde;o ambiental gerada por esse modelo recai principalmente sobre os grupos mais vulnerabilizados, ou seja, principalmente sobre os trabalhadores rurais, os agricultores, os moradores das cidades dos entornos dessas grandes empresas&rdquo;.</p>
+
+<figure class="image" style="float:right"><img alt="seminário 2.jpeg" height="233" src="//farm5.staticflickr.com/4159/34341657601_d73346bf7d_b.jpg" width="350" />
+<figcaption></figcaption>
+</figure>
+
+<p><br />
 Embora a reparti&ccedil;&atilde;o dos malef&iacute;cios da utiliza&ccedil;&atilde;o de agrot&oacute;xicos na produ&ccedil;&atilde;o de alimentos, alguns s&atilde;o mais prejudicados que outros. &ldquo;N&oacute;s costumamos dizer que h&aacute; um processo de injusti&ccedil;a ambiental, porque ao mesmo tempo que a libera&ccedil;&atilde;o indiscriminada de alimentos transg&ecirc;nicos e de agrot&oacute;xicos beneficiam uma pequena parcela da popula&ccedil;&atilde;o que lucra atrav&eacute;s desse tipo de produ&ccedil;&atilde;o, os malef&iacute;cios recaem sobre a maioria dos brasileiros, que s&atilde;o desde os trabalhadores rurais que trabalham nessas produ&ccedil;&otilde;es ou vivem no entorno delas, at&eacute; os consumidores que est&atilde;o nos grandes centros urbanos. Hoje n&atilde;o podemos dizer que determinado setor da popula&ccedil;&atilde;o brasileira n&atilde;o esteja exposto ou vulner&aacute;vel a esse tipo de problemas. Todos est&atilde;o expostos, alguns mais que outros&rdquo;.<br />
 <br />
 O semin&aacute;rio ainda contou com a participa&ccedil;&atilde;o de Fernanda Nogueira, representante do Instituto Nacional do C&acirc;ncer (Inca), que atestou a rela&ccedil;&atilde;o direta entre o aumento de incid&ecirc;ncia de c&acirc;ncer e o descontrole na utiliza&ccedil;&atilde;o de agrot&oacute;xicos e transg&ecirc;nicos para a produ&ccedil;&atilde;o de alimentos. Segundo o Inca, no Brasil, entre 2014 e 2015, 576 mil novos casos de c&acirc;ncer foram registrados. Em todo o mundo, uma m&eacute;dia de 14 milh&otilde;es de novos casos da doen&ccedil;a s&atilde;o diagnosticados anualmente, com um total de 8,2 milh&otilde;es de mortes decorrentes.<br />
 <br />
-Outro dado alarmante apresentado por Nogueira &eacute; o fato de mais de 80% dos c&acirc;nceres diagnosticados no Brasil serem consequ&ecirc;ncia de fatores ambientais, entre eles, a utiliza&ccedil;&atilde;o de qu&iacute;micos na produ&ccedil;&atilde;o de alimentos. Menos de 20% dos casos s&atilde;o por fatores heredit&aacute;rios.<br />
-<br />
+Outro dado alarmante apresentado por Nogueira &eacute; o fato de mais de 80% dos c&acirc;nceres diagnosticados no Brasil serem consequ&ecirc;ncia de fatores ambientais, entre eles, a utiliza&ccedil;&atilde;o de qu&iacute;micos na produ&ccedil;&atilde;o de alimentos. Menos de 20% dos casos s&atilde;o por fatores heredit&aacute;rios.</p>
+
+<p><br />
 <strong>Agrot&oacute;xico &eacute; veneno. Mas afinal, o que s&atilde;o os transg&ecirc;nicos?</strong><br />
 <br />
 &ldquo;As plantas transg&ecirc;nicas s&atilde;o aquelas que foram modificadas para vender mais veneno ou para produzir dentro delas o pr&oacute;prio veneno, tornando-as mais resistentes &agrave;s pragas. Ou seja, &eacute; um produto que foi geneticamente modificado para atender aos interesses das empresas, mas muito perigosos para toda a popula&ccedil;&atilde;o&rdquo;, explica Melgarejo.<br />
@@ -92,6 +100,6 @@ Ela &eacute; uma das 800 trabalhadoras e trabalhadores Sem Terra de 23 estados d
 <br />
 Al&eacute;m dos semin&aacute;rios e da feira in natura, tem ainda muita comida boa no espa&ccedil;o &#39;Culin&aacute;ria da Terra&#39;, teatro, m&uacute;sica poesia e muita boa prosa sobre a arte de se alimentar.<br />
 <br />
-D&ecirc; uma conferida na programa&ccedil;&atilde;o e confirme sua presen&ccedil;a no evento.</p>
-
-<p>&nbsp;</p>
+D&ecirc; uma conferida na <a href="http://www.mst.org.br/II-feira-nacional-da-reforma-agraria/">programa&ccedil;&atilde;o</a> e confirme sua presen&ccedil;a no <a href="https://web.facebook.com/events/429504294063124/?fref=ts">evento</a>.<br />
+<br />
+<em>*Editado por Gustavo Marinho</em></p>
