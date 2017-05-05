@@ -38,7 +38,7 @@ releated_posts: []
 
 ---
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="mudas.jpg" height="333" src="//farm5.staticflickr.com/4191/33659524483_a39c802ed1_b.jpg" width="500" />
+<figure class="image" style="display:inline-block"><img alt="mudas.jpg" height="467" src="//farm5.staticflickr.com/4191/33659524483_a39c802ed1_b.jpg" width="700" />
 <figcaption>No stand das mudas e sementes, s&atilde;o mais de 70 variedades de plantas, entre frut&iacute;feras, nativas, ornamentais e medicinais</figcaption>
 </figure>
 </div>
