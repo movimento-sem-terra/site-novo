@@ -73,6 +73,6 @@ Entre as mais procuradas est&atilde;o o alecrim, o guin&eacute;, a espada de S&a
 <br />
 O espa&ccedil;o de troca e venda de mudas e sementes ocorre todos os dias ao longo da programa&ccedil;&atilde;o da Feira, at&eacute; o pr&oacute;ximo dia 7.<br />
 <br />
-Confira a programa&ccedil;&atilde;o completa da 2&ordf; Feira Nacional da Reforma Agr&aacute;ria.<br />
+Confira a programa&ccedil;&atilde;o completa da <a href="http://www.mst.org.br/II-feira-nacional-da-reforma-agraria/">2&ordf; Feira Nacional da Reforma Agr&aacute;ria.</a><br />
 <br />
 <em>*Editado por Gustavo Marinho</em></p>
