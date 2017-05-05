@@ -26,7 +26,7 @@ releated_posts:
 <p>&nbsp;</p>
 
 <p><br />
-<em>Por Naiara Bittencourt<br />
+<em>Por Naiara Bittencourt*<br />
 Do Brasil de Fato</em></p>
 
 <p><br />
