@@ -26,6 +26,12 @@ releated_posts:
 ---
 <p>&nbsp;</p>
 
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="b0adceb3-bfcc-4db2-927b-47f8fabc0829.jpg" height="466" src="//farm5.staticflickr.com/4164/34448724356_4c1c3814f8_b.jpg" width="700" />
+<figcaption><em>Se uma tem como p&uacute;blico-alvo pessoas comuns, fam&iacute;lias que vivem em S&atilde;o Paulo e querem comprar uma variedade de alimentos diretamente dos produtores. Foto: Rica Retamal&nbsp;</em></figcaption>
+</figure>
+</div>
+
 <p>&nbsp;</p>
 
 <p><em>Por Igor Felippe Santos<br />
