@@ -41,7 +41,10 @@ releated_posts:
 <p>&nbsp;</p>
 
 <p><em>Por Mariana Castro<br />
-Da P&aacute;gina do MST</em><br />
+Da P&aacute;gina do MST<br />
+Fotos: C&aacute;ssia Miranda</em></p>
+
+<p><br />
 <br />
 Fac&otilde;es afiados, discurso combativo e uma doce fala. Jandira da Silva, 46 anos, sofreu com o violento despejo de sua fam&iacute;lia do assentamento Elizabeth Teixeira, essa, que deu nome &agrave; &aacute;rea, foi uma mulher marcada para morrer, mas que assim como Jandira e tantas outras, resiste aos di&aacute;rios massacres.<br />
 <br />
@@ -76,3 +79,5 @@ Confira o ensaio fotogr&aacute;fico completo <a href="https://www.flickr.com/pho
 <p><em>*Editado por Gustavo Marinho</em></p>
 
 <p>&nbsp;</p>
+
+<div class="webpki_lacunasoftware_com" id="webpki_lacunasoftware_com" style="display: none;">&nbsp;</div>
