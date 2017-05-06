@@ -66,8 +66,11 @@ Essa experi&ecirc;ncia de produ&ccedil;&atilde;o limpa, que se insere no projeto
 <p><br />
 <strong>Grupo Gestor do Arroz Agroecol&oacute;gico</strong></p>
 
-<p><br />
-&nbsp;</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="photo_2017-05-06_11-55-57.jpg" height="233" src="//farm5.staticflickr.com/4185/34104724330_9bcfcfdcd7_b.jpg" width="350" />
+<figcaption></figcaption>
+</figure>
 
 <p>Assim como diversas outras experi&ecirc;ncias agroecol&oacute;gicas que foram apresentadas durante o semin&aacute;rio, o sistema de produ&ccedil;&atilde;o utilizado pelos Sem Terra busca consolidar alternativas &agrave; agricultura do agroneg&oacute;cio, estabelecendo rela&ccedil;&atilde;o de integra&ccedil;&atilde;o e respeito entre os seres humanos e os recursos naturais. Para isto, s&atilde;o utilizadas t&eacute;cnicas que estimulam a fertilidade do solo e a produ&ccedil;&atilde;o de alimentos saud&aacute;veis, propiciando mais qualidade de vida aos produtores e consumidores.</p>
 
@@ -82,5 +85,7 @@ Essa tomada de consci&ecirc;ncia coletiva dos sujeitos do MST sobre a import&aci
 <p><em>*Editado por Leonardo Fernandes</em></p>
 
 <p>&nbsp;</p>
+
+<div class="webpki_lacunasoftware_com" id="webpki_lacunasoftware_com" style="display: none;">&nbsp;</div>
 
 <div class="webpki_lacunasoftware_com" id="webpki_lacunasoftware_com" style="display: none;">&nbsp;</div>
