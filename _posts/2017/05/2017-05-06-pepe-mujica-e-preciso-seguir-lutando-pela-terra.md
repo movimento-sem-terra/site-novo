@@ -26,7 +26,10 @@ files:
     $$hashKey: "033"
 created_date: "2017-05-06T13:32:06-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2016/09/2016-09-22-brasil-foi-timido-frente-aos-projetos-de-integracao-latina-diz-francois-houtart.md
+  - _posts/2017/03/2017-03-06-xiv-cupula-da-alianca-bolivariana-para-os-povos-da-nossa-america-e-realizada-em-caracas.md
+  - _posts/2017/05/2017-05-02-temer-mandou-a-imprensa-obedeceu-cobertura-nao-fala-ou-foca-na-greve.md
 
 ---
 <p>&nbsp;</p>
