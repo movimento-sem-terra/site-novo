@@ -25,7 +25,12 @@ files:
     $$hashKey: 09R
 created_date: "2017-05-06T11:16:13-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2017/04/2017-04-29-culinaria-da-terra-comida-com-sabor-de-luta.md
+  - _posts/2017/05/2017-05-04-camponeses-de-todo-o-brasil-ocupam-sao-paulo-com-a-producao-de-alimentos-saudaveis.md
+  - _posts/2017/05/2017-05-04-ato-politico-marca-abertura-da-feira-da-reforma-agraria-em-sao-paulo.md
+  - _posts/2017/05/2017-05-05-homenagem-a-cuba-marca-primeiro-dia-do-espaco-literario-na-feira-nacional.md
+  - _posts/2017/05/2017-05-05-feira-de-mudas-e-sementes-estimula-o-cultivo-de-plantas-e-hortalicas-em-casa.md
 
 ---
 <p><img alt="Rica_170505_IIFeiraDaReformaAgraria-1147.jpg" height="467" src="//farm5.staticflickr.com/4180/34486958695_d68d00beb5_b.jpg" width="700" /></p>
