@@ -14,6 +14,19 @@
 .feira {
   background-color: white;
 
+  .stream {
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+    iframe {
+      max-width: 507px;
+      align-self: center;
+      width: 100%;
+    }
+  }
+
   .capa {
     background-image: radial-gradient(#ecdfd2, rgba(194,153,117,0.5));
     width: 100vw;
