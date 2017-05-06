@@ -33,10 +33,7 @@ releated_posts: []
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="photo_2017-05-06_10-23-24.jpg" height="466" src="//farm5.staticflickr.com/4184/34489093735_3f04b1c0b2_b.jpg" width="700" />
-<figcaption>#FeiraMST Logo mais tem lan&ccedil;amento da plataforma #ChegaDeAgrot&oacute;xicos no Audit&oacute;rio do Instituto da Pesca, 14h.<br />
-Assine j&aacute;&gt;&gt;&gt; http://www.chegadeagrotoxicos.org.br/&nbsp;<br />
-A Let&iacute;cia Sabatela, Bela Gil, S&eacute;rgio Mamberti e Fernando Alves estiveram na Confer&ecirc;ncia sobre alimenta&ccedil;&atilde;o saud&aacute;vel, nesse s&aacute;bado (6) pela manh&atilde;, durante a 2&ordf; Feira Nacional da Reforma Agr&aacute;ria.<br />
-#VemPraFeira</figcaption>
+<figcaption></figcaption>
 </figure>
 </div>
 
