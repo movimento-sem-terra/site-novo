@@ -5,7 +5,7 @@ tags:
   - tag: feira
   - tag: são-paulo
 title: "Um espectro ronda São Paulo, a Feira Nacional da Reforma Agrária"
-support_line: A disputa de projetos para a agricultura brasileira se apresentou para a sociedade brasileira na realização na mesma semana de duas grandes feiras.
+support_line: A disputa de projetos para a agricultura brasileira se apresentou para a sociedade na realização na mesma semana de duas grandes feiras.
 menu: reforma agrária
 images_hd: //farm5.staticflickr.com/4164/34448724356_4c1c3814f8_b.jpg
 layout: post
@@ -39,7 +39,7 @@ label: articles
 Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
-A disputa de projetos para a agricultura brasileira se apresentou para a sociedade brasileira na realiza&ccedil;&atilde;o na mesma semana de duas grandes feiras. Na cidade de S&atilde;o Paulo, maior centro urbano do pa&iacute;s, os acampados e assentados da reforma agr&aacute;ria, organizados pelo MST, promovem a 2&ordf; Feira Nacional da Reforma Agr&aacute;ria. Em Ribeir&atilde;o Preto, ber&ccedil;o do agroneg&oacute;cio no interior paulista, associa&ccedil;&otilde;es dos grandes latifundi&aacute;rios realizaram uma das maiores feiras do segmento, a 24&ordf; Agrishow.</p>
+A disputa de projetos para a agricultura brasileira se apresentou para a sociedade na realiza&ccedil;&atilde;o na mesma semana de duas grandes feiras. Na cidade de S&atilde;o Paulo, maior centro urbano do pa&iacute;s, os acampados e assentados da reforma agr&aacute;ria, organizados pelo MST, promovem a 2&ordf; Feira Nacional da Reforma Agr&aacute;ria. Em Ribeir&atilde;o Preto, ber&ccedil;o do agroneg&oacute;cio no interior paulista, associa&ccedil;&otilde;es dos grandes latifundi&aacute;rios realizaram uma das maiores feiras do segmento, a 24&ordf; Agrishow.</p>
 
 <p><br />
 A feira da reforma agr&aacute;ria, que envolve mais de 800 camponeses e camponesas de 23 estados, comercializa 280 toneladas alimentos para os paulistanos: arroz, feij&atilde;o, tomate, mandioca, cebola, banana, abacaxi, queijos, leite, mel, suco de uva, produzidos em pequenas propriedades, a maior parte sem a utiliza&ccedil;&atilde;o de agrot&oacute;xicos.</p>
