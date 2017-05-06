@@ -59,7 +59,8 @@ Antes de participar de uma confer&ecirc;ncia sobre o direito a uma alimenta&cced
 &ldquo;Como latino-americano, aqui estou com os meus velhos ossos, porque o mundo est&aacute; se globalizando pela press&atilde;o das multinacionais, pelo jogo do capital financeiro e pela explos&atilde;o tecnol&oacute;gica, e n&atilde;o pelo interesse concreto da esp&eacute;cie humana&rdquo;, disse o ex-presidente ao defender a unidade dos povos em defesa da vida. &ldquo;Ou conquistamos uma integra&ccedil;&atilde;o e uma forma de respeito m&uacute;tuo para marchar com paz no mundo. Ou deixamos hipotecado o futuro das gera&ccedil;&otilde;es que vir&atilde;o depois de n&oacute;s&rdquo;.</p>
 
 <figure class="image" style="float:left"><img alt="photo_2017-05-06_10-23-28.jpg" height="233" src="//farm5.staticflickr.com/4163/34103961790_5fc2e24566_b.jpg" width="350" />
-<figcaption><em>&nbsp;&quot;&Eacute; preciso seguir lutando pela terra!&quot; Foto: Rica Retamal</em></figcaption>
+<figcaption><em>&nbsp;&quot;&Eacute; preciso seguir lutando pela terra!&quot; Foto:<br />
+Rica Retamal</em></figcaption>
 </figure>
 
 <p><br />
