@@ -22,6 +22,7 @@ published: true
 releated_posts:
   - _posts/2017/04/2017-04-28-especial-ii-feira-nacional-da-reforma-agraria.md
   - _posts/2017/05/2017-05-03-superar-o-modelo-do-agronegocio-e-possivel-e-necessario.md
+label: articles
 
 ---
 <p>&nbsp;</p>
