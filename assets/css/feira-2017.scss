@@ -14,6 +14,49 @@
 .feira {
   background-color: white;
 
+  .coletanea-fotos {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+
+    h1 {
+      font-family: sans-serif;
+      font-size: 3em;
+    }
+
+    figure {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      padding: 20px;
+      cursor: pointer;
+    }
+  }
+
+  .coletanea-fotos .mulheres-da-feira {
+    background-image: radial-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.5)), url("//c1.staticflickr.com/5/4193/34431706136_c1ea955d83.jpg");
+    height: 420px;
+    width: auto;
+    background-size: 100%;
+    background-repeat: repeat;
+    background-position-y: -500px;
+    transition: background-size .2s ease-in;
+    -moz-transition: background-size .2s ease-in;
+    -ms-transition: background-size .2s ease-in;
+    -o-transition: background-size .2s ease-in;
+    -webkit-transition: background-size .2s ease-in;
+
+    figcaption {
+      font-style: italic;
+    }
+
+    &:hover {
+      background-size: 110%;
+    }
+  }
+
   .stream {
     padding: 10px;
     display: flex;
