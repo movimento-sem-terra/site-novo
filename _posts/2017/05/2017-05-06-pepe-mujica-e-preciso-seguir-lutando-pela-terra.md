@@ -33,7 +33,7 @@ releated_posts: []
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="photo_2017-05-06_10-23-24.jpg" height="466" src="//farm5.staticflickr.com/4184/34489093735_3f04b1c0b2_b.jpg" width="700" />
-<figcaption></figcaption>
+<figcaption><em>&quot;Muito mais do que a tentativa de construir a cultura coletiva das sociedades.&rdquo; Foto: Rica Retamal</em></figcaption>
 </figure>
 </div>
 
@@ -54,6 +54,10 @@ Antes de participar de uma confer&ecirc;ncia sobre o direito a uma alimenta&cced
 
 <p><br />
 &ldquo;Como latino-americano, aqui estou com os meus velhos ossos, porque o mundo est&aacute; se globalizando pela press&atilde;o das multinacionais, pelo jogo do capital financeiro e pela explos&atilde;o tecnol&oacute;gica, e n&atilde;o pelo interesse concreto da esp&eacute;cie humana&rdquo;, disse o ex-presidente ao defender a unidade dos povos em defesa da vida. &ldquo;Ou conquistamos uma integra&ccedil;&atilde;o e uma forma de respeito m&uacute;tuo para marchar com paz no mundo. Ou deixamos hipotecado o futuro das gera&ccedil;&otilde;es que vir&atilde;o depois de n&oacute;s&rdquo;.</p>
+
+<figure class="image" style="float:left"><img alt="photo_2017-05-06_10-23-28.jpg" height="233" src="//farm5.staticflickr.com/4163/34103961790_5fc2e24566_b.jpg" width="350" />
+<figcaption><em>&nbsp;&quot;&Eacute; preciso seguir lutando pela terra!&quot; Foto: Rica Retamal</em></figcaption>
+</figure>
 
 <p><br />
 Ao falar da quest&atilde;o agr&aacute;ria no Brasil e na Am&eacute;rica Latina, Pepe Mujica lembrou que &#39;a hist&oacute;ria da Am&eacute;rica Latina &eacute; a hist&oacute;ria de duas na&ccedil;&otilde;es feudais, que repartiram a terra com crit&eacute;rios feudais&#39;, o que explica, em parte, a alta concentra&ccedil;&atilde;o de terras em grandes latif&uacute;ndios em todos os pa&iacute;ses do continente. Nesse sentido, defendeu a luta do Movimento Sem Terra e dos movimentos camponeses ao redor do mundo. &quot;&Eacute; preciso seguir lutando pela terra! A terra n&atilde;o deve ser propriedade privada, mas sim propriedade de uso, de tr&acirc;nsito. A terra pertence &agrave; humanidade&quot;.</p>
