@@ -3,7 +3,7 @@ date: "2017-05-06T17:49:47-03:00"
 tags:
   - tag: feira-da-reforma-agrária
 hat: ""
-title: Conferência sobre alimentação saudável reúne 10 mil pessoas na 2ª Feira da Reforma Agrária
+title: Conferência reúne 10 mil pessoas na Feira da Reforma Agrária
 support_line: "A conferência “Alimentação saudável: um direito de todos e de todas” na manhã deste sábado (6) teve a participação de José Pepe Mujica, Bela Gil, Alexandre Padilha, Letícia Sabatella e João Pedro Stédile."
 menu: agricultura camponesa
 special-page: feira-2017
