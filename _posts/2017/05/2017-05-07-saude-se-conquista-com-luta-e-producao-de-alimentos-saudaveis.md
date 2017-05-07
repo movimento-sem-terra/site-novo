@@ -22,6 +22,13 @@ files:
     small: //farm5.staticflickr.com/4193/34128128920_b024bb63ea_n.jpg
     title: feira saude.JPG
     $$hashKey: 05A
+  - link: //farm5.staticflickr.com/4165/33706644783_c6f4f9d6fe_b.jpg
+    original: //farm5.staticflickr.com/4165/33706644783_3e92f3df33_o.jpg
+    thumbnail: //farm5.staticflickr.com/4165/33706644783_c6f4f9d6fe_t.jpg
+    medium: //farm5.staticflickr.com/4165/33706644783_c6f4f9d6fe_z.jpg
+    small: //farm5.staticflickr.com/4165/33706644783_c6f4f9d6fe_n.jpg
+    title: Rica_170504_IIFeiraDaReformaAgraria-0213.jpg
+    $$hashKey: 0IZ
 created_date: "2017-05-07T14:54:49-03:00"
 published: true
 releated_posts: []
@@ -61,10 +68,16 @@ A tenda da sa&uacute;de presta homenagem a Maria Jos&eacute; Camargo Arag&atilde
 No espa&ccedil;o s&atilde;o oferecidas atendimento m&eacute;dico, massagens, orienta&ccedil;&otilde;es de sa&uacute;de e cuidados necess&aacute;rios, medicamentos fitoter&aacute;picos dos setores de sa&uacute;de dos estados, produzidos a partir dos saberes do campo, dos trabalhadores e trabalhadoras da reforma agr&aacute;ria valorizando desta forma a sa&uacute;de popular. Afirmando assim o lema de que sa&uacute;de, &eacute; a capacidade de lutar contra tudo aquilo que nos oprime.</p>
 
 <p><br />
-Banca de produtos</p>
+<strong>Banca de produtos</strong></p>
+
+<figure class="image" style="float:left"><img alt="Rica_170504_IIFeiraDaReformaAgraria-0213.jpg" height="267" src="//farm5.staticflickr.com/4165/33706644783_c6f4f9d6fe_b.jpg" width="400" />
+<figcaption>Foto Rica Retamal</figcaption>
+</figure>
 
 <p><br />
 Al&eacute;m da tenda de atendimento ao p&uacute;blico, durante a feira o setor de sa&uacute;de do MST conta com uma banca de venda de produtos naturais para tratamentos alternativos de sa&uacute;de. S&atilde;o comercializados extratos como pr&oacute;polis, &oacute;leos essenciais de arnica, angico, etc., tinturas e extratos de plantas medicinais, carv&atilde;o vegetal, argilas, sabonetes, shampoos, entre outros.</p>
+
+<p>&nbsp;</p>
 
 <p>&nbsp;</p>
 
