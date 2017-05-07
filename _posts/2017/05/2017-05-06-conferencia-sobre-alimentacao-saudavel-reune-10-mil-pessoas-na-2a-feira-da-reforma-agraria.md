@@ -34,13 +34,14 @@ releated_posts:
   - _posts/2017/05/2017-05-05-ciranda-infantil-acolhe-sem-terrinhas-de-todo-o-brasil-na-feira-reforma-agraria.md
 
 ---
-<p><img alt="Feira_Nacional_RAP_06-05-2017_Baixa_Pablo_Vergara23.JPG" height="467" src="//farm3.staticflickr.com/2879/34453087126_ba3eb425f2_b.jpg" width="700" /></p>
+<figure class="image"><img alt="Feira_Nacional_RAP_06-05-2017_Baixa_Pablo_Vergara23.JPG" height="467" src="//farm3.staticflickr.com/2879/34453087126_ba3eb425f2_b.jpg" width="700" />
+<figcaption><em>Fotos: Pablo Vergara</em></figcaption>
+</figure>
 
 <p>&nbsp;</p>
 
 <p><em>Por Gustavo Marinho<br />
-Da P&aacute;gina do MST<br />
-Fotos: Pablo Vergara</em></p>
+Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
@@ -64,7 +65,7 @@ St&eacute;dile apresentou um panorama hist&oacute;rico e pol&iacute;tico da luta
 <p>&nbsp;</p>
 
 <figure class="image"><img alt="photo_2017-05-06_11-17-48.jpg" height="457" src="//farm5.staticflickr.com/4187/34333837802_9cdd8d7698_b.jpg" width="700" />
-<figcaption></figcaption>
+<figcaption><em>Foto: M&iacute;dia Ninja</em></figcaption>
 </figure>
 
 <p>A apresentadora e culinarista Bela Gil compartilhou em sua fala tr&ecirc;s grandes oponentes para a garantia de uma alimenta&ccedil;&atilde;o saud&aacute;vel: a bancada ruralista, o oligop&oacute;lio das empresas de agrot&oacute;xicos e a intensa publicidade dos produtos ultraprocessados. Para Gil, a alimenta&ccedil;&atilde;o &eacute; uma ferramenta de mudan&ccedil;a, &ldquo;n&atilde;o &eacute; utopia pensarmos que a alimenta&ccedil;&atilde;o &eacute; um elemento para mudar o mundo. Mudan&ccedil;a no campo pol&iacute;tico, econ&ocirc;mico, social e ambiental&rdquo;, ressaltou.</p>
@@ -93,5 +94,7 @@ A 2&ordf; Feira Nacional da Reforma Agr&aacute;ria, que acontece desde a &uacute
 <p>&nbsp;</p>
 
 <p><em>*Editado por Leonardo Fernandes</em></p>
+
+<div class="webpki_lacunasoftware_com" id="webpki_lacunasoftware_com" style="display: none;">&nbsp;</div>
 
 <div class="webpki_lacunasoftware_com" id="webpki_lacunasoftware_com" style="display: none;">&nbsp;</div>
