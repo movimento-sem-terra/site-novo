@@ -43,15 +43,15 @@ Fotos: C&aacute;ssia Miranda</em></p>
 
 <p>&nbsp;</p>
 
-<p>Foi lan&ccedil;ada neste s&aacute;bado (6) a plataforma online &#39;<a href="http://chegadeagrotoxicos.org.br">chegadeagrotoxicos.org.br</a>&#39;, mais uma instrumento na luta contra os agrot&oacute;xicos e pela cria&ccedil;&atilde;o de pol&iacute;ticas que reduzam o uso de venenos na produ&ccedil;&atilde;o de alimentos no Brasil.</p>
+<p>Foi lan&ccedil;ada neste s&aacute;bado (6) a plataforma online <a href="http://www.chegadeagrotoxicos.org.br">ChegaDeAgrot&oacute;xicos</a>, mais uma instrumento na luta contra os agrot&oacute;xicos e pela cria&ccedil;&atilde;o de pol&iacute;ticas que reduzam o uso de venenos na produ&ccedil;&atilde;o de alimentos no Brasil.</p>
 
 <p>&nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="34347500512_8bd7ab6b0d_k.jpg" height="525" src="//farm5.staticflickr.com/4188/34511663235_30c99df96b_b.jpg" width="350" />
-<figcaption></figcaption>
+<figcaption><em>O ator S&eacute;rgio Mamberti tamb&eacute;m apoia esta causa.&nbsp;</em></figcaption>
 </figure>
 
-<p>A plataforma foi criada pela Campanha Permanente Contra os Agrot&oacute;xicos e Pela Vida. Apesar de j&aacute; estar em funcionamento desde o dia 15 de mar&ccedil;o, o lan&ccedil;amento oficial foi realizado no in&iacute;cio da tarde durante a 2&ordf; Feira Nacional da Reforma Agr&aacute;ria que &eacute; organizada pelo MST no Parque da &Aacute;gua Branca, em S&atilde;o Paulo.</p>
+<p>A plataforma foi criada pela Campanha Permanente Contra os Agrot&oacute;xicos e Pela Vida. Apesar de j&aacute; estar em funcionamento desde o dia 15 de mar&ccedil;o, o lan&ccedil;amento oficial foi realizado no in&iacute;cio da tarde durante a <a href="http://www.mst.org.br/II-feira-nacional-da-reforma-agraria">2&ordf; Feira Nacional da Reforma Agr&aacute;ria</a> que &eacute; organizada pelo MST no Parque da &Aacute;gua Branca, em S&atilde;o Paulo.</p>
 
 <p><br />
 O site tem o objetivo de ampliar a luta por uma alimenta&ccedil;&atilde;o saud&aacute;vel e fazer o enfrentamento direto ao chamado &#39;Pacote do Veneno&#39;, uma s&eacute;rie de medidas legislativas que visam facilitar a libera&ccedil;&atilde;o do uso de agrot&oacute;xicos no Brasil, e que est&aacute; em tramita&ccedil;&atilde;o no Congresso Nacional. A plataforma tamb&eacute;m busca coletar assinaturas pela a aprova&ccedil;&atilde;o do Projeto de Lei 6670/2016, que institui a Pol&iacute;tica Nacional de Redu&ccedil;&atilde;o de Agrot&oacute;xicos (PNaRA). O PL &eacute; uma iniciativa da sociedade civil, que prop&otilde;e mais de 100 medidas para reduzir os agrot&oacute;xicos no Brasil.</p>
@@ -63,7 +63,7 @@ O site tem o objetivo de ampliar a luta por uma alimenta&ccedil;&atilde;o saud&a
 No site, j&aacute; &eacute; poss&iacute;vel acessar artigos e outros documentos sobre a quest&atilde;o do uso do veneno na produ&ccedil;&atilde;o de alimentos e sobre suas consequ&ecirc;ncias para o meio ambiente e para a sa&uacute;de, al&eacute;m de materiais sobre outros temas relacionados, como os transg&ecirc;nicos.</p>
 
 <p><br />
-A plataforma &ldquo;chegadeagrotoxicos.org.br&rdquo; &eacute; assinada por uma articula&ccedil;&atilde;o que envolve v&aacute;rias organiza&ccedil;&otilde;es que atuam em diversas &aacute;reas ambientais e de produ&ccedil;&atilde;o de alimentos como o Greenpeace, a Associa&ccedil;&atilde;o Brasileira de Sa&uacute;de Coletiva, Associa&ccedil;&atilde;o Brasileira de Agroecologia, Articula&ccedil;&atilde;o Nacional de Agroecologia, Alian&ccedil;a pela Alimenta&ccedil;&atilde;o Saud&aacute;vel, Alian&ccedil;a de Controle do Tabagismo, Central &Uacute;nica dos Trabalhadores, F&oacute;rum Nacional de Combate aos Impactos dos Agrot&oacute;xicos, Via Campesina, entre outras.</p>
+A plataforma <a href="http://www.chegadeagrotoxicos.org.br">#ChegaDeAgrotoxicos</a>&nbsp;&eacute; assinada por uma articula&ccedil;&atilde;o que envolve v&aacute;rias organiza&ccedil;&otilde;es que atuam em diversas &aacute;reas ambientais e de produ&ccedil;&atilde;o de alimentos como o Greenpeace, a Associa&ccedil;&atilde;o Brasileira de Sa&uacute;de Coletiva, Associa&ccedil;&atilde;o Brasileira de Agroecologia, Articula&ccedil;&atilde;o Nacional de Agroecologia, Alian&ccedil;a pela Alimenta&ccedil;&atilde;o Saud&aacute;vel, Alian&ccedil;a de Controle do Tabagismo, Central &Uacute;nica dos Trabalhadores, F&oacute;rum Nacional de Combate aos Impactos dos Agrot&oacute;xicos, Via Campesina, entre outras.</p>
 
 <p>&nbsp;</p>
 
