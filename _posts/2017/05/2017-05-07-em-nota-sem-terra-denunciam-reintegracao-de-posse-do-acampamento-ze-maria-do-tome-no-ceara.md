@@ -1,7 +1,7 @@
 ---
 date: "2017-05-07T11:12:07-03:00"
 tags: []
-title: "Em nota, Sem Terra denunciam reintegração de posse do Acampamento Ze Maria do Tomé, no Ceará"
+title: "Sem Terra denunciam reintegração de posse do Acampamento Ze Maria do Tomé, no Ceará"
 support_line: "Os trabalhadores sobrem ameaça de reintegração de posse da área e perseguição da Federação das Associações do Perímetro Irrigado Jaguaribe Apodi – FAPIJA, que não é dona do local."
 menu: reforma agrária
 section: null
@@ -23,16 +23,24 @@ releated_posts: []
 <p style="text-align: justify;">Para exigir do Governo Federal e Estadual o assentamento dos Sem Terra no Cear&aacute;, nesta sexta-feira (05), o MST, juntamente com v&aacute;rias fam&iacute;lias das comunidades da Chapada ocuparam o Per&iacute;metro Irrigado Jaguaribe-Apodi, localizado na Chapada do Apodi, no munic&iacute;pio de Limoeiro do Norte.</p>
 
 <p style="text-align: justify;"><br />
-Os trabalhadores divulgaram nota denunciando a amea&ccedil;a de reintegra&ccedil;&atilde;o de posse da &aacute;rea, solicitado pela Federa&ccedil;&atilde;o das Associa&ccedil;&otilde;es do Per&iacute;metro Irrigado Jaguaribe Apodi &ndash; FAPIJA, que realiza uma ofensiva de persegui&ccedil;&atilde;o contra as fam&iacute;lias do Acampamento Z&eacute; Maria do Tom&eacute;.&nbsp;</p>
+&nbsp;</p>
+
+<p style="text-align: justify;">Os trabalhadores divulgaram nota denunciando a amea&ccedil;a de reintegra&ccedil;&atilde;o de posse da &aacute;rea, solicitado pela Federa&ccedil;&atilde;o das Associa&ccedil;&otilde;es do Per&iacute;metro Irrigado Jaguaribe Apodi &ndash; FAPIJA, que realiza uma ofensiva de persegui&ccedil;&atilde;o contra as fam&iacute;lias do Acampamento Z&eacute; Maria do Tom&eacute;.&nbsp;</p>
 
 <p style="text-align: justify;"><br />
-A nota denuncia que a FAPIJA n&atilde;o &eacute; propriet&aacute;ria da terra, por isso n&atilde;o tem legitimidade para pedir a reintegra&ccedil;&atilde;o de posse. Os Sem Terra tamb&eacute;m reivindicam a destina&ccedil;&atilde;o das terras ociosas e griladas do per&iacute;metros irrigados para a Reforma Agr&aacute;ria, com o assentamento das fam&iacute;lias e o desenvolvimento da agricultura camponesa e agroecol&oacute;gica.</p>
+&nbsp;</p>
+
+<p style="text-align: justify;">A nota denuncia que a FAPIJA n&atilde;o &eacute; propriet&aacute;ria da terra, por isso n&atilde;o tem legitimidade para pedir a reintegra&ccedil;&atilde;o de posse. Os Sem Terra tamb&eacute;m reivindicam a destina&ccedil;&atilde;o das terras ociosas e griladas do per&iacute;metros irrigados para a Reforma Agr&aacute;ria, com o assentamento das fam&iacute;lias e o desenvolvimento da agricultura camponesa e agroecol&oacute;gica.</p>
+
+<p style="text-align: justify;"><br />
+&nbsp;</p>
 
 <p style="text-align: justify;">Confira nota da integra:</p>
 
-<p style="text-align: justify;">&nbsp;</p>
+<p style="text-align: justify;"><br />
+&nbsp;</p>
 
-<p style="text-align: center;">&nbsp;NOTA CONTRA A REINTEGRA&Ccedil;&Atilde;O DE POSSE DO ACAMPAMENTO ZE MARIA DO TOM&Eacute;!</p>
+<p style="text-align: center;">NOTA CONTRA A REINTEGRA&Ccedil;&Atilde;O DE POSSE DO ACAMPAMENTO ZE MARIA DO TOM&Eacute;!</p>
 
 <p style="text-align: center;">ASSENTAMENTO IMEDIATO DAS FAMILIAS J&Aacute;!</p>
 
@@ -42,9 +50,9 @@ A nota denuncia que a FAPIJA n&atilde;o &eacute; propriet&aacute;ria da terra, p
 
 <p>Na madrugada do dia 05 de maio de 2014, centenas de fam&iacute;lias ligadas ao Movimento dos Trabalhadores Rurais Sem Terra &ndash; MST, de todo Estado do Cear&aacute;, e das fam&iacute;lias sem terra de 36 comunidades de Limoeiro do Norte, Quixer&eacute; e Tabuleiro do Norte, ocuparam a II etapa do per&iacute;metro irrigado Jaguaribe Apodi, reivindicando que a &aacute;rea fosse destinada para as fam&iacute;lias de agricultores sem terra e n&atilde;o para as empresas do agroneg&oacute;cio que envenenam, exploram e destroem a natureza na chapada Apodi.</p>
 
-<p>Esta a&ccedil;&atilde;o de enfrentamento na Chapada do Apodi contra este modelo do agroneg&oacute;cio vem sendo organizado por agricultores, entidades e movimentos sociais e outras formas de resist&ecirc;ncia, como foi o caso das lutas pela terra dos pequenos agricultores e contra os agrot&oacute;xicos, realizadas por Z&eacute; Maria do Tom&eacute; (atrav&eacute;s de Associa&ccedil;&otilde;es). Z&eacute; Maria foi brutalmente assassinado dia 21 de abril de 2010 a mando do agroneg&oacute;cio por defender terra, &aacute;gua e alimentos livres de venenos. Ele lutava pela proibi&ccedil;&atilde;o da pulveriza&ccedil;&atilde;o a&eacute;rea e por terra para quem nela trabalha. Para homenagear este companheiro que teve sua voz calada, as comunidades batizaram a ocupa&ccedil;&atilde;o com o nome de Z&eacute; Maria do Tom&eacute;.<br />
-&nbsp;<br />
-Por isso, n&oacute;s, Movimento dos Trabalhadores Rurais Sem Terra e comunidades da Chapada, com o apoio do Movimento 21 (Conlutas, FAFIDAM/UECE, UFC/TRAMAS, CPT Cear&aacute;, C&aacute;ritas Diocesana de Limoeiro do Norte, STTR do Apodi), ocupamos o Per&iacute;metro Irrigado Jaguaribe-Apodi para exigir do Governo Federal e Estadual, o atendimento imediato de nossas reivindica&ccedil;&otilde;es.&nbsp;</p>
+<p>Esta a&ccedil;&atilde;o de enfrentamento na Chapada do Apodi contra este modelo do agroneg&oacute;cio vem sendo organizado por agricultores, entidades e movimentos sociais e outras formas de resist&ecirc;ncia, como foi o caso das lutas pela terra dos pequenos agricultores e contra os agrot&oacute;xicos, realizadas por Z&eacute; Maria do Tom&eacute; (atrav&eacute;s de Associa&ccedil;&otilde;es). Z&eacute; Maria foi brutalmente assassinado dia 21 de abril de 2010 a mando do agroneg&oacute;cio por defender terra, &aacute;gua e alimentos livres de venenos. Ele lutava pela proibi&ccedil;&atilde;o da pulveriza&ccedil;&atilde;o a&eacute;rea e por terra para quem nela trabalha. Para homenagear este companheiro que teve sua voz calada, as comunidades batizaram a ocupa&ccedil;&atilde;o com o nome de Z&eacute; Maria do Tom&eacute;.</p>
+
+<p>Por isso, n&oacute;s, Movimento dos Trabalhadores Rurais Sem Terra e comunidades da Chapada, com o apoio do Movimento 21 (Conlutas, FAFIDAM/UECE, UFC/TRAMAS, CPT Cear&aacute;, C&aacute;ritas Diocesana de Limoeiro do Norte, STTR do Apodi), ocupamos o Per&iacute;metro Irrigado Jaguaribe-Apodi para exigir do Governo Federal e Estadual, o atendimento imediato de nossas reivindica&ccedil;&otilde;es.&nbsp;</p>
 
 <p>O Per&iacute;metro Jaguaribe Apodi foi implantado no final da d&eacute;cada de 1980, quando ocorreu a expropria&ccedil;&atilde;o, expuls&atilde;o e desmantelamento da produ&ccedil;&atilde;o de cerca de 6 mil fam&iacute;lias da regi&atilde;o, que antes produziam alimentos e mantinham rela&ccedil;&otilde;es de identidade com o territ&oacute;rio. Apenas 316 agricultores conseguiram entrar na I etapa do projeto irrigado, destes, 255 foram expulsos, ou seja, o equivalente a 81% de expropria&ccedil;&atilde;o, segundo estudo realizado pela Universidade Estadual do Cear&aacute;/FAFIDAM. Esse processo levou a luta desses agricultores pelo retorno &agrave; terra, atrav&eacute;s da Associa&ccedil;&atilde;o dos Ex-irrigantes Expropriados do Per&iacute;metro Jaguaribe-Apodi (AIJA), que foi presidida por Z&eacute; Maria do Tom&eacute;.&nbsp;</p>
 
@@ -84,8 +92,9 @@ Seguiremos em luta, em defesa da terra, da vida e pela constru&ccedil;&atilde;o 
 A chapada &eacute; nossa!<br />
 A chapada e do povo!</p>
 
-<p style="text-align: right;"><br />
-Fortaleza, 06 de Maio de 2017.<br />
+<p>&nbsp;</p>
+
+<p style="text-align: right;">Fortaleza, 06 de Maio de 2017.<br />
 Dire&ccedil;&atilde;o Estadual do MST Cear&aacute;<br />
 MOVIMENTO 21<br />
 CARITAS DOCESANA DE LIMOEIRODO NORTE<br />
