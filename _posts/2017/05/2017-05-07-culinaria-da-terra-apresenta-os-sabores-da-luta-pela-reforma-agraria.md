@@ -49,6 +49,8 @@ releated_posts: []
 </figure>
 </div>
 
+<p>&nbsp;</p>
+
 <p><em>Por Geanini Hackbardt<br />
 Da P&aacute;gina do MST</em></p>
 
@@ -63,7 +65,9 @@ Do outro lado se encontra o Entreveiro de Pinh&atilde;o, uma mistura com quatro 
 
 <p>&nbsp;</p>
 
-<p><img alt="Rica_170504_IIFeiraDaReformaAgraria-0327.jpg" height="267" src="//farm5.staticflickr.com/4193/34356029082_aa196bd2d5_b.jpg" style="float:right" width="400" /></p>
+<figure class="image" style="float:right"><img alt="Rica_170504_IIFeiraDaReformaAgraria-0327.jpg" height="267" src="//farm5.staticflickr.com/4193/34356029082_aa196bd2d5_b.jpg" width="400" />
+<figcaption></figcaption>
+</figure>
 
 <p>Para quem prefere o sabor apimentado da Bahia, h&aacute; moquecas com 4 op&ccedil;&otilde;es de peixe, acaraj&eacute;, caruru, vatap&aacute;, etc. Dona Dominga, uma baiana arretada da regi&atilde;o da chapada diamantina, coordena pela terceira vez essa barraca e acredita que essa &eacute; uma tarefa muito importante. &ldquo;A gente tr&aacute;s a cultura do estado para as pessoas que n&atilde;o conhecem. Nesse momento de muita criminaliza&ccedil;&atilde;o dos movimentos sociais, aqui dizemos porque a Reforma Agr&aacute;ria &eacute; necess&aacute;ria&rdquo;, conta ela, com os olhos marejados de emo&ccedil;&atilde;o.</p>
 
@@ -72,9 +76,7 @@ Al&eacute;m das cozinhas Sem Terra, est&atilde;o presentes um coletivo de quilom
 
 <p>&nbsp;</p>
 
-<figure class="image"><img alt="Rica_170504_IIFeiraDaReformaAgraria-0320.jpg" height="267" src="//farm5.staticflickr.com/4185/34131427270_5f37968afe_b.jpg" width="400" />
-<figcaption></figcaption>
-</figure>
+<p><img alt="Rica_170504_IIFeiraDaReformaAgraria-0320.jpg" height="267" src="//farm5.staticflickr.com/4185/34131427270_5f37968afe_b.jpg" width="400" /></p>
 
 <p><br />
 Para Ana Terra, da coordena&ccedil;&atilde;o da Culin&aacute;ria da Terra, esse &eacute; mais um espa&ccedil;o que expressa a cultura dos assentados e acampados pelo Brasil. &ldquo;Estamos aqui para apresentar a diversidade alimentar de nosso pa&iacute;s, em oposi&ccedil;&atilde;o a homogeneiza&ccedil;&atilde;o, imposta pelo mercado de alimentos. Al&eacute;m disso, &eacute; um espa&ccedil;o de troca de conhecimentos a partir da intera&ccedil;&atilde;o entre feirantes, que socializam as receitas, entre si e com aqueles que vem almo&ccedil;ar conosco&rdquo;, afirma ela.</p>
