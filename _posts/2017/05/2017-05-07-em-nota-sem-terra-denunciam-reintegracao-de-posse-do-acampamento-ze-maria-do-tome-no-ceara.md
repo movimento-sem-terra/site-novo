@@ -1,7 +1,7 @@
 ---
 date: "2017-05-07T11:12:07-03:00"
 tags: []
-title: Sem Terra denunciam reintegração de posse do Acampamento no Ceará
+title: Sem Terra denunciam reintegração de posse em Acampamento no Ceará
 support_line: "Os trabalhadores sobrem ameaça de reintegração de posse da área e perseguição da Federação das Associações do Perímetro Irrigado Jaguaribe Apodi – FAPIJA, que não é dona do local."
 menu: reforma agrária
 section: null
