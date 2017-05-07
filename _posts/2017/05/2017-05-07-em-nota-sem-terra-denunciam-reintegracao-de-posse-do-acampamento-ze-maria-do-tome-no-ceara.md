@@ -20,17 +20,17 @@ published: true
 releated_posts: []
 
 ---
-<p style="text-align: justify;">Para exigir do Governo Federal e Estadual o assentamento dos Sem Terra no Cear&aacute;, nesta sexta-feira (05), o MST, juntamente com v&aacute;rias fam&iacute;lias das comunidades da Chapada ocuparam o Per&iacute;metro Irrigado Jaguaribe-Apodi, localizado na Chapada do Apodi, no munic&iacute;pio de Limoeiro do Norte.</p>
+<p>Para exigir do Governo Federal e Estadual o assentamento dos Sem Terra no Cear&aacute;, nesta sexta-feira (05), o MST, juntamente com v&aacute;rias fam&iacute;lias das comunidades da Chapada ocuparam o Per&iacute;metro Irrigado Jaguaribe-Apodi, localizado na Chapada do Apodi, no munic&iacute;pio de Limoeiro do Norte.</p>
 
-<p style="text-align: justify;"><br />
+<p><br />
 &nbsp;</p>
 
-<p style="text-align: justify;">Os trabalhadores divulgaram nota denunciando a amea&ccedil;a de reintegra&ccedil;&atilde;o de posse da &aacute;rea, solicitado pela Federa&ccedil;&atilde;o das Associa&ccedil;&otilde;es do Per&iacute;metro Irrigado Jaguaribe Apodi &ndash; FAPIJA, que realiza uma ofensiva de persegui&ccedil;&atilde;o contra as fam&iacute;lias do Acampamento Z&eacute; Maria do Tom&eacute;.&nbsp;</p>
+<p>Os trabalhadores divulgaram nota denunciando a amea&ccedil;a de reintegra&ccedil;&atilde;o de posse da &aacute;rea, solicitado pela Federa&ccedil;&atilde;o das Associa&ccedil;&otilde;es do Per&iacute;metro Irrigado Jaguaribe Apodi &ndash; FAPIJA, que realiza uma ofensiva de persegui&ccedil;&atilde;o contra as fam&iacute;lias do Acampamento Z&eacute; Maria do Tom&eacute;.&nbsp;</p>
 
-<p style="text-align: justify;"><br />
+<p><br />
 &nbsp;</p>
 
-<p style="text-align: justify;">A nota denuncia que a FAPIJA n&atilde;o &eacute; propriet&aacute;ria da terra, por isso n&atilde;o tem legitimidade para pedir a reintegra&ccedil;&atilde;o de posse. Os Sem Terra tamb&eacute;m reivindicam a destina&ccedil;&atilde;o das terras ociosas e griladas do per&iacute;metros irrigados para a Reforma Agr&aacute;ria, com o assentamento das fam&iacute;lias e o desenvolvimento da agricultura camponesa e agroecol&oacute;gica.</p>
+<p>A nota denuncia que a FAPIJA n&atilde;o &eacute; propriet&aacute;ria da terra, por isso n&atilde;o tem legitimidade para pedir a reintegra&ccedil;&atilde;o de posse. Os Sem Terra tamb&eacute;m reivindicam a destina&ccedil;&atilde;o das terras ociosas e griladas do per&iacute;metros irrigados para a Reforma Agr&aacute;ria, com o assentamento das fam&iacute;lias e o desenvolvimento da agricultura camponesa e agroecol&oacute;gica.</p>
 
 <p style="text-align: justify;"><br />
 &nbsp;</p>
