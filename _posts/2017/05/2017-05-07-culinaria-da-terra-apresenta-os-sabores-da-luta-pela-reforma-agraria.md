@@ -76,6 +76,10 @@ Al&eacute;m das cozinhas Sem Terra, est&atilde;o presentes um coletivo de quilom
 
 <p>&nbsp;</p>
 
+<p>Confira mais imagens da Culin&aacute;ria da Terra no Flickr. Acesse&nbsp;https://flic.kr/s/aHskZmqVHr</p>
+
+<p>&nbsp;</p>
+
 <p><img alt="Rica_170504_IIFeiraDaReformaAgraria-0320.jpg" height="267" src="//farm5.staticflickr.com/4185/34131427270_5f37968afe_b.jpg" width="400" /></p>
 
 <p><br />
