@@ -4,7 +4,7 @@ tags: []
 title: "Em nota, Sem Terra denunciam reintegração de posse do Acampamento Ze Maria do Tomé, no Ceará"
 support_line: "Os trabalhadores sobrem ameaça de reintegração de posse da área e perseguição da Federação das Associações do Perímetro Irrigado Jaguaribe Apodi – FAPIJA, que não é dona do local."
 menu: reforma agrária
-section: featured-news
+section: null
 images_hd: //farm5.staticflickr.com/4188/34509451335_4da8fb79cd_b.jpg
 layout: post
 files:
