@@ -20,6 +20,9 @@ published: true
 releated_posts: []
 
 ---
+<p><br />
+&nbsp;</p>
+
 <p>Para exigir do Governo Federal e Estadual o assentamento dos Sem Terra no Cear&aacute;, nesta sexta-feira (05), o MST, juntamente com v&aacute;rias fam&iacute;lias das comunidades da Chapada ocuparam o Per&iacute;metro Irrigado Jaguaribe-Apodi, localizado na Chapada do Apodi, no munic&iacute;pio de Limoeiro do Norte.</p>
 
 <p><br />
