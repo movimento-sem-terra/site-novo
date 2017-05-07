@@ -27,10 +27,7 @@ published: true
 releated_posts: []
 
 ---
-<p style="margin: 0cm 0cm 6pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><em>Por Viviane Brigida<br />
-Da Pagina do MST​</em><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:#4D4D4D"><o:p></o:p></span></p>
-
-<p>&nbsp;</p>
+<p style="margin: 0cm 0cm 6pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">&nbsp;</p>
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="feira saude.JPG" height="421" src="//farm5.staticflickr.com/4159/34383256891_07740f0c56_b.jpg" width="700" />
@@ -39,7 +36,13 @@ Foto: Eliel Freitas</figcaption>
 </figure>
 </div>
 
+<p>&nbsp;</p>
+
+<p><em>Por Viviane Brigida<br />
+Da Pagina do MST​</em></p>
+
 <p><br />
+<br />
 Cuidar, promover e preservar s&atilde;o verbos que permeiam a tenda &ldquo;Maria Arag&atilde;o&rdquo;, onde s&atilde;o feitos os atendimentos da equipe do setor de sa&uacute;de do MST durante a 2&ordf; Feira Nacional da Reforma Agr&aacute;ria. Ao todo 22 profissionais militantes est&atilde;o atuando na equipe e contribuindo com evento.</p>
 
 <p><br />
