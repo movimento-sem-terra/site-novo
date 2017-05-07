@@ -19,14 +19,13 @@ published: true
 releated_posts: []
 
 ---
-<p>Por Pedro Carrano<br />
-Brasil de Fato | Curitiba (PR)</p>
-
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
+<p><em>Por Pedro Carrano<br />
+Brasil de Fato | Curitiba (PR)</em></p>
 
-<p>H&aacute; 20 anos, no dia 6 de maio de 1997, o governo Fernando Henrique Cardoso leiloava a principal empresa estrat&eacute;gica brasileira no ramo da minera&ccedil;&atilde;o e infraestrutura.</p>
+<p><br />
+H&aacute; 20 anos, no dia 6 de maio de 1997, o governo Fernando Henrique Cardoso leiloava a principal empresa estrat&eacute;gica brasileira no ramo da minera&ccedil;&atilde;o e infraestrutura.</p>
 
 <p><br />
 Agora, nesse per&iacute;odo quando se faz alarde que a Opera&ccedil;&atilde;o Lava Jato teria resgatado (menos de) R$ 10 bilh&otilde;es para a economia, n&atilde;o custa recordar que a Vale do Rio Doce (hoje apenas Vale) foi vendida por R$ 3,3 bilh&otilde;es, quando somente as suas reservas minerais eram calculadas em mais de R$ 100 bilh&otilde;es &agrave; &eacute;poca.</p>
@@ -67,8 +66,5 @@ Tudo isso foi privatizado h&aacute; vinte anos, sem debate com a sociedade, igno
 <p><br />
 Os 20 anos da privatiza&ccedil;&atilde;o da mineradora s&atilde;o mais uma oportunidade para debatermos que projeto de pa&iacute;s, de ind&uacute;stria e de futuro queremos. O que est&aacute; a&iacute; n&atilde;o interessa ao povo brasileiro.</p>
 
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>Edi&ccedil;&atilde;o: Reda&ccedil;&atilde;o BdF PR</p>
+<p><br />
+<em>Edi&ccedil;&atilde;o: Reda&ccedil;&atilde;o BdF PR</em></p>
