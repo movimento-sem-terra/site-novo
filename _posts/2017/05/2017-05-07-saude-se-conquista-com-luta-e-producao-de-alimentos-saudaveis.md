@@ -70,14 +70,15 @@ No espa&ccedil;o s&atilde;o oferecidas atendimento m&eacute;dico, massagens, ori
 <p><br />
 <strong>Banca de produtos</strong></p>
 
+<figure class="image" style="float:right"><img alt="Rica_170504_IIFeiraDaReformaAgraria-0213.jpg" height="300" src="//farm5.staticflickr.com/4165/33706644783_c6f4f9d6fe_b.jpg" width="450" />
+<figcaption>Foto: Rica Retamal</figcaption>
+</figure>
+
 <p><br />
 Al&eacute;m da tenda de atendimento ao p&uacute;blico, durante a feira o setor de sa&uacute;de do MST conta com uma banca de venda de produtos naturais para tratamentos alternativos de sa&uacute;de. S&atilde;o comercializados extratos como pr&oacute;polis, &oacute;leos essenciais de arnica, angico, etc., tinturas e extratos de plantas medicinais, carv&atilde;o vegetal, argilas, sabonetes, shampoos, entre outros.</p>
 
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
 <p><br />
+<br />
 <em>*Editado por Solange Engelmann</em></p>
 
 <p>&nbsp;</p>
