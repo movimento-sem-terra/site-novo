@@ -57,6 +57,12 @@ A tenda da sa&uacute;de presta homenagem a Maria Jos&eacute; Camargo Arag&atilde
 <p><br />
 No espa&ccedil;o s&atilde;o oferecidas atendimento m&eacute;dico, massagens, orienta&ccedil;&otilde;es de sa&uacute;de e cuidados necess&aacute;rios, medicamentos fitoter&aacute;picos dos setores de sa&uacute;de dos estados, produzidos a partir dos saberes do campo, dos trabalhadores e trabalhadoras da reforma agr&aacute;ria valorizando desta forma a sa&uacute;de popular. Afirmando assim o lema de que sa&uacute;de, &eacute; a capacidade de lutar contra tudo aquilo que nos oprime.</p>
 
+<p><br />
+Banca de produtos</p>
+
+<p><br />
+Al&eacute;m da tenda de atendimento ao p&uacute;blico, durante a feira o setor de sa&uacute;de do MST conta com uma banca de venda de produtos naturais para tratamentos alternativos de sa&uacute;de. S&atilde;o comercializados extratos como pr&oacute;polis, &oacute;leos essenciais de arnica, angico, etc., tinturas e extratos de plantas medicinais, carv&atilde;o vegetal, argilas, sabonetes, shampoos, entre outros.</p>
+
 <p>&nbsp;</p>
 
 <p><br />
