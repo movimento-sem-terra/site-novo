@@ -76,7 +76,7 @@ Al&eacute;m das cozinhas Sem Terra, est&atilde;o presentes um coletivo de quilom
 
 <p>&nbsp;</p>
 
-<p>Confira mais imagens da Culin&aacute;ria da Terra no Flickr. Acesse&nbsp;https://flic.kr/s/aHskZmqVHr</p>
+<p>Confira mais imagens do ensaio fotogr&aacute;fico Arauc&aacute;rias da Resist&ecirc;ncias e conhe&ccedil;a o prato <a href="https://www.flickr.com/photos/mstoficial/sets/72157683544286775/">Entreveiro de Pinh&atilde;o</a></p>
 
 <p>&nbsp;</p>
 
