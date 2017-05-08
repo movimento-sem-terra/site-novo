@@ -51,13 +51,13 @@ Fotos: C&aacute;ssia Miranda</em></p>
 <figcaption><em>O ator S&eacute;rgio Mamberti tamb&eacute;m apoia esta causa.&nbsp;</em></figcaption>
 </figure>
 
-<p>A plataforma foi criada pela <a href="http://www.contraosagrotoxicos.org.br">Campanha Permanente Contra os Agrot&oacute;xicos e Pela Vida</a>. Apesar de j&aacute; estar em funcionamento desde o dia 15 de mar&ccedil;o, o lan&ccedil;amento oficial foi realizado no in&iacute;cio da tarde durante a <a href="http://www.mst.org.br/II-feira-nacional-da-reforma-agraria">2&ordf; Feira Nacional da Reforma Agr&aacute;ria</a> que &eacute; organizada pelo MST no Parque da &Aacute;gua Branca, em S&atilde;o Paulo.</p>
+<p>Apesar de j&aacute; estar em funcionamento desde o dia 15 de mar&ccedil;o, o lan&ccedil;amento oficial foi realizado no in&iacute;cio da tarde durante a <a href="http://www.mst.org.br/II-feira-nacional-da-reforma-agraria">2&ordf; Feira Nacional da Reforma Agr&aacute;ria</a> que &eacute; organizada pelo MST no Parque da &Aacute;gua Branca, em S&atilde;o Paulo.</p>
 
 <p><br />
 O site tem o objetivo de ampliar a luta por uma alimenta&ccedil;&atilde;o saud&aacute;vel e fazer o enfrentamento direto ao chamado &#39;Pacote do Veneno&#39;, uma s&eacute;rie de medidas legislativas que visam facilitar a libera&ccedil;&atilde;o do uso de agrot&oacute;xicos no Brasil, e que est&aacute; em tramita&ccedil;&atilde;o no Congresso Nacional. A plataforma tamb&eacute;m busca coletar assinaturas pela a aprova&ccedil;&atilde;o do Projeto de Lei 6670/2016, que institui a Pol&iacute;tica Nacional de Redu&ccedil;&atilde;o de Agrot&oacute;xicos (PNaRA). O PL &eacute; uma iniciativa da sociedade civil, que prop&otilde;e mais de 100 medidas para reduzir os agrot&oacute;xicos no Brasil.</p>
 
 <p><br />
-&ldquo;A princ&iacute;pio, a plataforma busca coletar assinaturas para o abaixo-assinado contra o &#39;Pacote do Veneno&#39; e &eacute; tamb&eacute;m um instrumento de forma&ccedil;&atilde;o para as pessoas que querem avan&ccedil;ar no conhecimento sobre a tem&aacute;tica&rdquo;, explica Alan Tygel, da coordena&ccedil;&atilde;o da campanha, que tamb&eacute;m informou que j&aacute; est&aacute; em forma&ccedil;&atilde;o na C&acirc;mera dos Deputados a comiss&atilde;o que analisar&aacute; o PNaRA.</p>
+&ldquo;A plataforma &eacute; uma iniciativa de unidade entre diversas organiza&ccedil;&otilde;es de &aacute;reas de atua&ccedil;&atilde;o bem distintas, mas que encontram na luta contra os agrot&oacute;xicos um horizonte comum&rdquo;. explica Alan Tygel, da coordena&ccedil;&atilde;o da campanha, que tamb&eacute;m informou que j&aacute; est&aacute; em forma&ccedil;&atilde;o na C&acirc;mera dos Deputados a comiss&atilde;o que analisar&aacute; o PNaRA.</p>
 
 <p><br />
 No site, j&aacute; &eacute; poss&iacute;vel acessar artigos e outros documentos sobre a quest&atilde;o do uso do veneno na produ&ccedil;&atilde;o de alimentos e sobre suas consequ&ecirc;ncias para o meio ambiente e para a sa&uacute;de, al&eacute;m de materiais sobre outros temas relacionados, como os transg&ecirc;nicos.</p>
