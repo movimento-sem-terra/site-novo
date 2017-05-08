@@ -32,10 +32,9 @@ files:
 created_date: "2017-05-07T19:50:56-03:00"
 published: true
 releated_posts: []
+section: cover
 
 ---
-<p>&nbsp;</p>
-
 <p>&nbsp;</p>
 
 <div style="text-align:center">
