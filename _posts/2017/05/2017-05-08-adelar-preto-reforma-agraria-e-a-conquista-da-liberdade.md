@@ -6,7 +6,7 @@ title: "Adelar Preto: Reforma Agrária é a conquista da liberdade"
 support_line: Trabalhador do Rio Grande do Sul conta como foi o processo de luta no Assentamento Conquista da Liberdade. Ele é um dos 800 produtores que participaram da Feira da Reforma Agrária.
 menu: agricultura camponesa
 special-page: feira-2017
-images_hd: //farm5.staticflickr.com/4175/34498390146_a58269b248_b.jpg
+images_hd: //farm3.staticflickr.com/2947/34540343805_a0dd1e383f_b.jpg
 layout: post
 files:
   - link: //farm5.staticflickr.com/4175/34498390146_a58269b248_b.jpg
@@ -16,6 +16,13 @@ files:
     small: //farm5.staticflickr.com/4175/34498390146_a58269b248_n.jpg
     title: WhatsApp Image 2017-05-05 at 17.22.54(1).jpeg
     $$hashKey: 07I
+  - link: //farm3.staticflickr.com/2947/34540343805_a0dd1e383f_b.jpg
+    original: //farm3.staticflickr.com/2947/34540343805_c1292fe128_o.jpg
+    thumbnail: //farm3.staticflickr.com/2947/34540343805_a0dd1e383f_t.jpg
+    medium: //farm3.staticflickr.com/2947/34540343805_a0dd1e383f_z.jpg
+    small: //farm3.staticflickr.com/2947/34540343805_a0dd1e383f_n.jpg
+    title: WhatsApp Image 2017-05-05 at 17.22.54(1).jpeg
+    $$hashKey: 0BG
 created_date: "2017-05-08T17:17:51-03:00"
 published: true
 releated_posts:
