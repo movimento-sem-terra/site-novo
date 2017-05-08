@@ -72,7 +72,7 @@ Entre uma can&ccedil;&atilde;o e outra, Liniker e sua companheira de vocal Renat
 No final da apresenta&ccedil;&atilde;o, a banda recebeu no palco o Coletivo LGBT do MST, que fez uma interven&ccedil;&atilde;o em defesa do respeito &agrave; diversidade sexual e &agrave; identidade de g&ecirc;nero, e tamb&eacute;m em homenagem &agrave; banda pelo bel&iacute;ssimo trabalho de representa&ccedil;&atilde;o da luta LGBT no Brasil.</p>
 
 <p><br />
-J&aacute; no camarim, Liniker e o trompetista dos Caramelows, Marcio Bartoletti, concederam uma r&aacute;pida entrevista &agrave; equipe de imprensa do MST. &ldquo;Eu achei maravilhoso a feira ser aqui, nesse parque. Eu moro muito perto daqui e nunca havia entrado. E conhecer esse parque dessa forma &eacute; maravilhoso. E poder participar disso, poder fomentar for&ccedil;a pra esse movimento &eacute; incr&iacute;vel. No s&aacute;bado eu vim no show da Tulipa Ruiz... achei uma energia maravilhosa. Ver essas pessoas unidas em fun&ccedil;&atilde;o da terra, trabalhando junto... E hoje, esse mar de gente me deixou muito emocionada&rdquo;, disse Liniker que j&aacute; havia visitado a feira no dia anterior.</p>
+J&aacute; no camarim, Liniker e o trompetista dos Caramelows, M&aacute;rcio Bortolotti, concederam uma r&aacute;pida entrevista &agrave; equipe de imprensa do MST. &ldquo;Eu achei maravilhoso a feira ser aqui, nesse parque. Eu moro muito perto daqui e nunca havia entrado. E conhecer esse parque dessa forma &eacute; maravilhoso. E poder participar disso, poder fomentar for&ccedil;a pra esse movimento &eacute; incr&iacute;vel. No s&aacute;bado eu vim no show da Tulipa Ruiz... achei uma energia maravilhosa. Ver essas pessoas unidas em fun&ccedil;&atilde;o da terra, trabalhando junto... E hoje, esse mar de gente me deixou muito emocionada&rdquo;, disse Liniker que j&aacute; havia visitado a feira no dia anterior.</p>
 
 <p>&nbsp;</p>
 
@@ -80,7 +80,7 @@ J&aacute; no camarim, Liniker e o trompetista dos Caramelows, Marcio Bartoletti,
 <figcaption></figcaption>
 </figure>
 
-<p>Bartolotti se mostrou um grande admirador da luta do MST. &ldquo;A gente sabe que a feira &eacute; uma das a&ccedil;&otilde;es do Movimento Sem Terra. Eu admiro a resist&ecirc;ncia hist&oacute;rica! Apoio a agricultura familiar, porque de certa forma &eacute; ela que produz o alimento que chega &agrave; mesa dos brasileiros. E foi maravilhoso estar aqui, nessa jun&ccedil;&atilde;o de energia, com gente do Brasil inteiro, integrados a esse movimento. Estar aqui refor&ccedil;ando esse movimento, enquanto o movimento refor&ccedil;a a gente &eacute; muito especial&rdquo;.</p>
+<p>Bortolotti se mostrou um grande admirador da luta do MST. &ldquo;A gente sabe que a feira &eacute; uma das a&ccedil;&otilde;es do Movimento Sem Terra. Eu admiro a resist&ecirc;ncia hist&oacute;rica! Apoio a agricultura familiar, porque de certa forma &eacute; ela que produz o alimento que chega &agrave; mesa dos brasileiros. E foi maravilhoso estar aqui, nessa jun&ccedil;&atilde;o de energia, com gente do Brasil inteiro, integrados a esse movimento. Estar aqui refor&ccedil;ando esse movimento, enquanto o movimento refor&ccedil;a a gente &eacute; muito especial&rdquo;.</p>
 
 <p><br />
 Sobre o car&aacute;ter transformador de sua arte, Liniker disse que sua m&uacute;sica &eacute; um instrumento de resist&ecirc;ncia. &ldquo;A nossa arte busca criar um ambiente de resist&ecirc;ncia, de resgate da nossa hist&oacute;ria. Acho que, pelo fato de sermos do interior, e o interior nunca &eacute; valorizado. Ent&atilde;o, &eacute; um muito importante a gente poder trazer a nossa resist&ecirc;ncia, a nossa arte, a arte de Araraquara. E &eacute; muito bonito ver como o nosso trabalho tem transformado as pessoas e nos transformado tamb&eacute;m, porque tudo &eacute; uma grande troca&rdquo;.</p>
@@ -93,9 +93,11 @@ Sobre o car&aacute;ter transformador de sua arte, Liniker disse que sua m&uacute
 Os artistas ainda comentaram sobre a realidade de opress&atilde;o, criminaliza&ccedil;&atilde;o e viol&ecirc;ncia que sofrem os trabalhadores rurais do Brasil, especialmente os que ousam lutar pelo direito &agrave; terra. &ldquo;Respeitem as pessoas do MST. Parem de matar essas pessoas, que s&atilde;o trabalhadores da terra. Trata-se de dignidade humana, de respeito&rdquo;, disse Liniker, emocionada.</p>
 
 <p><br />
-&ldquo;H&aacute; todo um humanismo em torno da luta do MST. &Eacute; realmente um sonho ter uma Reforma Agr&aacute;ria no nosso pa&iacute;s. Sejam fortes na luta, n&atilde;o deixem de sonhar&rdquo;, completou Bartolotti.</p>
+&ldquo;H&aacute; todo um humanismo em torno da luta do MST. &Eacute; realmente um sonho ter uma Reforma Agr&aacute;ria no nosso pa&iacute;s. Sejam fortes na luta, n&atilde;o deixem de sonhar&rdquo;, completou Bortolotti.</p>
 
 <p><br />
 A 2&ordf; Feira Nacional da Reforma Agr&aacute;ria reuniu durante quatro dias 800 feirantes, trabalhadores e trabalhadoras, acampados e assentados do MST, no Parque da &Aacute;gua Branca, em S&atilde;o Paulo, onde foram comercializadas mais de 280 toneladas de alimentos saud&aacute;veis. Cerca de 170 mil pessoas passaram pelo evento.</p>
+
+<div class="webpki_lacunasoftware_com" id="webpki_lacunasoftware_com" style="display: none;">&nbsp;</div>
 
 <div class="webpki_lacunasoftware_com" id="webpki_lacunasoftware_com" style="display: none;">&nbsp;</div>
