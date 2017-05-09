@@ -44,6 +44,13 @@ releated_posts:
 
 <p><em>Da P&aacute;gina do MST</em></p>
 
+<p>&nbsp;</p>
+
+<p>Movimentos populares organiza&ccedil;&otilde;es e entidades sociais lan&ccedil;aram um manifesto em que condenam &agrave; agenda de desmonte do governo Temer. O documento enfatiza que as agendas socioambiental, de direitos humanos e de trabalhadores do campo t&ecirc;m sido alvos constantes de ataques sistem&aacute;ticos por grupos de interesse instalados no Congresso Nacional e no Executivo Federal. &quot;Em um trecho o texto diz: Atualmente estes ataques ganharam uma nova dimens&atilde;o. Em meio ao caos pol&iacute;tico que assola o pa&iacute;s, a bancada do agroneg&oacute;cio e o n&uacute;cleo central do governo federal fazem avan&ccedil;ar, de forma organizada e em tempo recorde, um pacote de medidas que inclui viola&ccedil;&otilde;es a direitos humanos, &quot;normaliza&ccedil;&atilde;o&quot; do crime ambiental e promo&ccedil;&atilde;o do caos fundi&aacute;rio. Se aprovadas, tais medidas produzir&atilde;o um retrocesso sem precedentes em todo o sistema de prote&ccedil;&atilde;o ambiental, de popula&ccedil;&otilde;es tradicionais e dos trabalhadores do campo, deixando o pa&iacute;s na imin&ecirc;ncia de ver perdidas importantes conquistas da sociedade ocorridas no per&iacute;odo democr&aacute;tico brasileiro&quot;.</p>
+
+<p><br />
+<span>Acompanhe a nota na &iacute;ntegra: </span></p>
+
 <p><br />
 Nos &uacute;ltimos anos, as agendas socioambiental, de direitos humanos e de trabalhadores do campo t&ecirc;m sido alvo de ataques sistem&aacute;ticos por grupos de interesse instalados no Congresso Nacional e no Executivo Federal. Nem mesmo direitos garantidos pela Constitui&ccedil;&atilde;o est&atilde;o a salvo.</p>
 
