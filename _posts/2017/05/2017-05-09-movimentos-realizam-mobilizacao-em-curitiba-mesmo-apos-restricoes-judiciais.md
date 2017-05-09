@@ -4,8 +4,8 @@ tags:
   - tag: lula
   - tag: democracia
   - tag: justiça
-title: Movimentos realizam mobilização em Curitiba mesmo após restrições judiciais
-support_line: Diversas entidades enviaram caravanas para acompanhar depoimento de Lula
+title: Movimentos realizam atos em Curitiba mesmo após restrições judiciais
+support_line: Diversas entidades enviaram caravanas para acompanhar depoimento de Lula.
 section: cover
 menu: direitos humanos
 images_hd: //farm5.staticflickr.com/4191/34176003500_3e320ff4d0_b.jpg
