@@ -88,64 +88,99 @@ m&aacute;-gest&atilde;o dos recursos p&uacute;blicos.</p>
 <p><br />
 <strong>Assinam:</strong></p>
 
-<p><br />
-1. 350.org<br />
-2. Actionaid<br />
-3. AdT/Amigos da Terra<br />
-4. AFES/A&ccedil;&atilde;o Franciscana de Ecologia e Solidariedade<br />
-5. ANA/Articula&ccedil;&atilde;o Nacional de Agroecologia<br />
-6. Amazon Watch<br />
-7. APIB/​ Articula&ccedil;&atilde;o dos Povos Ind&iacute;genas do Brasil<br />
-8. Apremavi/Associa&ccedil;&atilde;o de Preserva&ccedil;&atilde;o do Meio Ambiente e da Vida<br />
-9. Articula&ccedil;&atilde;o para o Monitoramento dos Direitos Humanos no Brasil<br />
-10. BVRio<br />
-11. CBJP/Comiss&atilde;o Brasileira Justi&ccedil;a e Paz<br />
-12. CIMI/Conselho Indigenista Mission&aacute;rio<br />
-13. Comiss&atilde;o Dominicana de Justi&ccedil;a e Paz do Brasil<br />
-14. Comit&ecirc; Nacional em Defesa dos Territ&oacute;rios Frente &agrave; Minera&ccedil;&atilde;o<br />
-15. Comiss&atilde;o Pr&oacute;-&Iacute;ndio de S&atilde;o Paulo<br />
-16. CONAQ/Coordena&ccedil;&atilde;o Nacional de Articula&ccedil;&atilde;o das Comunidades Negras Rurais<br />
-Quilombolas<br />
-17. CONECTAS<br />
-18. CNS/​ Conselho Nacional das Popula&ccedil;&otilde;es Extrativistas<br />
-19. Consulta Popular<br />
-20. CPT/Comiss&atilde;o Pastoral da Terra<br />
-21. CUT/Central &Uacute;nica dos Trabalhadores<br />
-22. Engajamundo<br />
-23. FASE/Federa&ccedil;&atilde;o de &Oacute;rg&atilde;os para Assist&ecirc;ncia Social e Educacional<br />
-24. F&oacute;rum Mudan&ccedil;as Clim&aacute;ticas e Justi&ccedil;a Social<br />
-25. FURPA/Funda&ccedil;&atilde;o Rio Parna&iacute;ba26. Greenpeace Brasil<br />
-27. Grupo Carta de Bel&eacute;m<br />
-28. IBASE<br />
-29. ICV<br />
-30. IDESAM<br />
-31. IEMA<br />
-32. IMAFLORA<br />
-33. IMAZON<br />
-34. INESC<br />
-35. International Rivers - Brasil<br />
-36. ISA/Instituto Socioambiental<br />
-37. Mater Natura - Instituto de Estudos Ambientais<br />
-38. MAM/Movimento pela Soberania Popular na Minera&ccedil;&atilde;o<br />
-39. MCP/Movimento Campon&ecirc;s Popular<br />
-40. MMC/Movimento de Mulheres Camponesas<br />
-41. MPA/Movimento dos Pequenos Agricultores<br />
-42. MST/ ​ Movimento dos Trabalhadores Rurais Sem Terra<br />
-43. N&uacute;cleo de Estudos das Diversidades, Intoler&acirc;ncias e Conflitos - Diversitas/USP<br />
-44. N&uacute;cleo de Pesquisa e Extens&atilde;o em Ambiente, Socioeconomia Agroecologia/NUPEAS-UFAM<br />
-45. Observat&oacute;rio do Clima<br />
-46. Organon/N&uacute;cleo de estudo, pesquisa e extens&atilde;o em mobiliza&ccedil;&otilde;es sociais da UFES<br />
-47. PHS/Hospitais Saud&aacute;veis<br />
-48. PJR/Pastoral da Juventude Rural<br />
-49. RAMH/Rede Acreana de Mulheres e Homens<br />
-50. Rede Brasileira de Informa&ccedil;&atilde;o Ambiental<br />
-51. REDE GTA<br />
-52. Sinfrajupe/Servi&ccedil;o Inter-Franciscano de Justi&ccedil;a, Paz e Ecologia<br />
-53. SBE/Sociedade Brasileira de Espeleologia<br />
-54. SOS Mata Atl&acirc;ntica<br />
-55. Toxisphera Associa&ccedil;&atilde;o de Sa&uacute;de Ambiental<br />
-56. Uma Gota no Oceano<br />
-57. Uni&atilde;o Brasileira de Mulheres/UBM<br />
-58. UNALGBT/Uni&atilde;o Nacional de L&eacute;sbicas, Gays, Bissexuais, Travestis e Transexuais<br />
-59. Via Campesina<br />
-60. WWF Brasil</p>
+<p>1. 350.org<br />
+2. Abra&ccedil;o Guarapiranga<br />
+3. Actionaid<br />
+4. AdT/Amigos da Terra<br />
+5. AFES/A&ccedil;&atilde;o Franciscana de Ecologia e Solidariedade<br />
+6. Aldeia Guarani Kalipty - Parelheiros<br />
+7. Aldeia Guarani Tenond&eacute; Por&atilde; - Parelheiros<br />
+8. ANA/Articula&ccedil;&atilde;o Nacional de Agroecologia<br />
+9. Amazon Watch<br />
+10. APIB/Articula&ccedil;&atilde;o dos Povos Ind&iacute;genas do Brasil<br />
+11. Apremavi/Associa&ccedil;&atilde;o de Preserva&ccedil;&atilde;o do Meio Ambiente e da Vida<br />
+12. Articula&ccedil;&atilde;o para o Monitoramento dos Direitos Humanos no Brasil<br />
+13. Associa&ccedil;&atilde;o Mico-Le&atilde;o-Dourado<br />
+14. BVRio<br />
+15. C&aacute;ritas Nacional<br />
+16. Casa Ecoativa - Ilha do Boror&eacute;<br />
+17. CEBES/Centro Brasileiro de Estudos de Sa&uacute;de<br />
+18. CBJP/Comiss&atilde;o Brasileira Justi&ccedil;a e Paz<br />
+19. CDDHEP/Centro de Defesa dos Direitos Humanos e Educa&ccedil;&atilde;o Popular do Acre<br />
+20. CIMI/Conselho Indigenista Mission&aacute;rio<br />
+21. Comiss&atilde;o Dominicana de Justi&ccedil;a e Paz do Brasil<br />
+22. Comit&ecirc; Nacional em Defesa dos Territ&oacute;rios Frente &agrave; Minera&ccedil;&atilde;o<br />
+23. Comiss&atilde;o Pr&oacute;-&Iacute;ndio de S&atilde;o Paulo<br />
+24. CONAQ/Coordena&ccedil;&atilde;o Nacional de Articula&ccedil;&atilde;o das Comunidades Negras Rurais Quilombolas<br />
+25. Conectas Direitos Humanos<br />
+26. CONTAG/Confedera&ccedil;&atilde;o Nacional dos Trabalhadores Rurais Agricultores e Agricultoras Familiares<br />
+27. Cora&ccedil;&atilde;o Amaz&ocirc;nico<br />
+28. Cooperapas/Cooperativa Agroecol&oacute;gica dos Produtores Rurais de &Aacute;gua Limpa -SP<br />
+29. CNS/Conselho Nacional das Popula&ccedil;&otilde;es Extrativistas<br />
+30. Consulta Popular<br />
+31. CPT/Comiss&atilde;o Pastoral da Terra<br />
+32. CUT/Central &Uacute;nica dos Trabalhadores<br />
+33. Engajamundo<br />
+34. Escola de Ativismo<br />
+35. Espa&ccedil;o de Forma&ccedil;&atilde;o Assessoria e Documenta&ccedil;&atilde;o<br />
+36. FAOR/F&oacute;rum da Amaz&ocirc;nia Oriental<br />
+37. FASE/Federa&ccedil;&atilde;o de &Oacute;rg&atilde;os para Assist&ecirc;ncia Social e Educacional<br />
+38. F&oacute;rum Mudan&ccedil;as Clim&aacute;ticas e Justi&ccedil;a Social<br />
+39. FURPA/Funda&ccedil;&atilde;o Rio Parna&iacute;ba<br />
+40. Greenpeace Brasil<br />
+41. Grupo Carta de Bel&eacute;m<br />
+42. IBASE/Instituto Brasileiro de An&aacute;lises Sociais e Econ&ocirc;micas<br />
+43. ICV/Instituto Centro de Vida<br />
+44. IDESAM/Instituto de Conserva&ccedil;&atilde;o e Desenvolvimento Sustent&aacute;vel do Amazonas<br />
+45. IDS/Instituto Democracia e Sustentabilidade<br />
+46. IEMA/Instituto de Energia e Meio Ambiente<br />
+47. Intersindical - Central da Classe Trabalhadora<br />
+48. IMAFLORA/Instituto de Manejo e Certifica&ccedil;&atilde;o Florestal e Agr&iacute;cola<br />
+49. Imargem - Arte, Meio Ambiente e Conviv&ecirc;ncia<br />
+50. IMAZON/ Instituto do Homem e Meio Ambiente da Amaz&ocirc;nia<br />
+51. INESC/ Instituto de Estudos Socioecon&ocirc;micos<br />
+52. International Rivers Brasil<br />
+53. Instituto P&oacute;lis<br />
+54. Instituto Avalia&ccedil;&atilde;o<br />
+55. ISA/Instituto Socioambiental<br />
+56. Justi&ccedil;a nos Trilhos<br />
+57. Liga Brasileira de L&eacute;sbicas<br />
+58. Mater Natura - Instituto de Estudos Ambientais<br />
+59. MAB/Movimento dos Atingidos por Barragens<br />
+60. MAM/Movimento pela Soberania Popular na Minera&ccedil;&atilde;o<br />
+61. MCP/Movimento Campon&ecirc;s Popular<br />
+62. MMC/Movimento de Mulheres Camponesas<br />
+63. Mogave/Movimento Gar&ccedil;a Vermelha<br />
+64. Movimento Contra o Aeroporto de Parelheiros<br />
+65. Movimento Aeroporto de Parelheiros N&Atilde;O!<br />
+66. MPA/Movimento dos Pequenos Agricultores<br />
+67. MST/ Movimento dos Trabalhadores Rurais Sem Terra<br />
+68. MTST/Movimento dos Trabalhadores Sem Teto<br />
+69. N&uacute;cleo de Estudos das Diversidades, Intoler&acirc;ncias e Conflitos - Diversitas/USP<br />
+70. N&uacute;cleo de Pesquisa e Extens&atilde;o em Ambiente, Socioeconomia e Agroecologia/NUPEAS-UFAM<br />
+71. Observat&oacute;rio do Clima<br />
+72. Observat&oacute;rio de Favelas, da favela da Mar&eacute;, Rio de Janeiro<br />
+73. OCCA/Observat&oacute;rio dos Conflitos do Campo - Universidade Federal do Esp&iacute;rito Santo (UFES)<br />
+74. Organon/N&uacute;cleo de estudo, pesquisa e extens&atilde;o em mobiliza&ccedil;&otilde;es sociais da UFES<br />
+75. PAD/Processo de Articula&ccedil;&atilde;o e Di&aacute;logo entre Ag&ecirc;ncias Ecum&ecirc;nicas Europeias e Parceiros Brasileiro<br />
+76. PHS/Hospitais Saud&aacute;veis<br />
+77. PFDC/Procuradoria Federal dos Direitos do Cidad&atilde;o do MPF/Minist&eacute;rio P&uacute;blico Federal<br />
+78. PJR/Pastoral da Juventude Rural<br />
+79. Plataforma Oper&aacute;ria e Camponesa para Energia<br />
+80. RAMH/Rede Acreana de Mulheres e Homens<br />
+81. Rede Brasileira de Informa&ccedil;&atilde;o Ambiental<br />
+82. Rede GTA/Grupo de Trabalho Amaz&ocirc;nico<br />
+83. SAVE Brasil<br />
+84. Sinfrajupe/Servi&ccedil;o InterFranciscano de Justi&ccedil;a, Paz e Ecologia<br />
+85. SBE/Sociedade Brasileira de Espeleologia<br />
+86. SOS Mata Atl&acirc;ntica<br />
+87. Toxisphera Associa&ccedil;&atilde;o de Sa&uacute;de Ambiental<br />
+88. UBM/Uni&atilde;o Brasileira de Mulheres<br />
+89. Uma Gota no Oceano<br />
+90. UNALGBT/Uni&atilde;o Nacional de L&eacute;sbicas, Gays, Bissexuais, Travestis e Transexuais<br />
+91. Via Campesina<br />
+92. WWF Brasil</p>
+
+<p>&nbsp;</p>
+
+<div class="webpki_lacunasoftware_com" id="webpki_lacunasoftware_com" style="display: none;">&nbsp;</div>
