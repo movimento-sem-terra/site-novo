@@ -15,7 +15,7 @@ timezone: BR
 lollipop:
   title:  II Feira Nacional da Reforma Agrária
   link: II-feira-nacional-da-reforma-agraria
-  enabled: true
+  enabled: false
 gems:
   - jekyll-sitemap
 exclude:
