@@ -4,7 +4,7 @@ tags:
   - tag: democracia
   - tag: mobilizações
   - tag: contra-o-golpe
-title: "“Temos que defender um programa com combate a privilégios, reforma no judiciário e ampliação da democracia”, diz Boulos"
+title: "“Temos que defender um programa de combate aos privilégios e ampliação da democracia”, diz Boulos"
 support_line: "Em evento promovido pela Associação de Juízes para a Democracia, coordenadores do MST e MTST apontaram saídas para a classe trabalhadora diante as crises no país"
 images_hd: //farm5.staticflickr.com/4164/34516111402_98958d7dd9_b.jpg
 menu: solidariedade
