@@ -3,7 +3,7 @@ date: "2017-05-15T13:27:46-03:00"
 tags:
   - tag: sao-paulo
   - tag: reforma-agrária-popular
-title: MST realiza audiência pública sobre a Reforma Agrária Popular no Vale do Paraíba (SP)
+title: MST realiza audiência pública sobre a Reforma Agrária Popular no Vale do Paraíba
 support_line: "Audiência será realizada no auditório da Ordem dos Advogados do Brasil, às 16h, em Taubaté. "
 menu: reforma agrária
 images_hd: //farm5.staticflickr.com/4166/33835871534_dcc99dd7fc_b.jpg
