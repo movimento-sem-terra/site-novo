@@ -6,7 +6,7 @@ tags:
   - tag: justiça
 title: Movimentos realizam atos em Curitiba mesmo após restrições judiciais
 support_line: Diversas entidades enviaram caravanas para acompanhar depoimento de Lula.
-section: cover
+section: null
 menu: direitos humanos
 images_hd: //farm5.staticflickr.com/4191/34176003500_3e320ff4d0_b.jpg
 layout: post
@@ -28,8 +28,6 @@ releated_posts:
   - _posts/2016/09/2016-09-01-um-dia-de-lagrimas-todos-os-outros-de-luta.md
 
 ---
-<p>&nbsp;</p>
-
 <p>&nbsp;</p>
 
 <p><em>Por Rafael Tatemoto<br />
