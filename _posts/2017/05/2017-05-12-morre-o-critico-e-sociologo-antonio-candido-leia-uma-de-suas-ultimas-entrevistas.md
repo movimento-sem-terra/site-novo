@@ -31,7 +31,7 @@ section: featured-news
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="34226952540_942a593e57_z.jpg" height="458" src="//farm5.staticflickr.com/4168/34613392485_ffe4641d78_b.jpg" width="700" />
-<figcaption>Antonio Candido faleceu nesta madrugada, em S&atilde;o Paulo / WikiCommons</figcaption>
+<figcaption><em>Antonio Candido faleceu nesta madrugada, em S&atilde;o Paulo / WikiCommons</em></figcaption>
 </figure>
 </div>
 
