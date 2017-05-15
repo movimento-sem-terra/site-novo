@@ -1,5 +1,5 @@
 ---
-date: "2017-05-10T13:34:49-03:00"
+date: "2017-05-15T13:34:49-03:00"
 tags:
   - tag: reforma-agrária
   - tag: mp759
@@ -22,6 +22,7 @@ published: true
 releated_posts:
   - _posts/2017/04/2017-04-28-dentro-do-pacote-de-austeridades-do-governo-temer-mp-759-e-assalto-ao-patrimonio-publico-federal.md
   - _posts/2017/05/2017-05-03-relatorio-da-mp-759-sera-votado-nesta-quarta-feira.md
+section: cover
 
 ---
 <figure class="image"><img alt="Comissão mista sobre a MP aprova relatório do senador Romero Jucá (PMDB). Foto Marcos Oliveira. Agência Senado.jpg" height="466" src="//farm5.staticflickr.com/4156/34190989450_af2df67773_b.jpg" width="700" />
