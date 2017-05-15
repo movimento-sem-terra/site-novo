@@ -26,6 +26,7 @@ releated_posts:
   - _posts/2016/11/2016-11-16-aos-89-anos-morre-o-irmao-antonio-cechin-um-lutador-dos-movimentos-populares.md
   - _posts/2017/03/2017-03-27-guila-flint-jornalista-brasileira-colaboradora-de-opera-mundi-em-israel-morre-aos-62-anos.md
   - _posts/2017/03/2017-03-08-mst-lamenta-a-morte-de-osvaldo-russo.md
+section: featured-news
 
 ---
 <div style="text-align:center">
