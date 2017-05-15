@@ -32,7 +32,7 @@ files:
 created_date: "2017-05-07T19:50:56-03:00"
 published: true
 releated_posts: []
-section: cover
+section: featured-news
 
 ---
 <p>&nbsp;</p>
