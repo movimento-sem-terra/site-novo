@@ -21,7 +21,7 @@ files:
     title: post_institucional-01.png
     $$hashKey: 06J
 created_date: "2017-04-28T18:31:55-03:00"
-published: true
+published: false
 releated_posts:
   - _posts/2016/08/2016-08-25-produtos-de-assentamentos-sao-expostos-em-feira-da-agricultura-familiar.md
   - _posts/2016/08/2016-08-30-mst-realiza-a-i-feira-capixaba-de-produtos-da-reforma-agraria.md
