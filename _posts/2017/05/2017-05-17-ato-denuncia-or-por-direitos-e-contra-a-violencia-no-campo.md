@@ -35,7 +35,8 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p><em>Da P&aacute;gina do MST</em></p>
+<p><em>Da P&aacute;gina do MST<br />
+Foto de capa: Ag&ecirc;ncia Brasil</em></p>
 
 <p>&nbsp;</p>
 
@@ -63,5 +64,7 @@ Hora: 14h<br />
 Local: Memorial do MPF &ndash; Procuradoria Geral da Rep&uacute;blica<br />
 Endere&ccedil;o: Setor de Administra&ccedil;&atilde;o Federal Sul, Quadra 4, Conjunto C, Bras&iacute;lia<br />
 Mais informa&ccedil;&otilde;es: (61) 2027- 3907 | <a href="http://www.atodenuncia.wordpress.com">www.atodenuncia.wordpress.com</a></em></p>
+
+<div class="webpki_lacunasoftware_com" id="webpki_lacunasoftware_com" style="display: none;">&nbsp;</div>
 
 <div class="webpki_lacunasoftware_com" id="webpki_lacunasoftware_com" style="display: none;">&nbsp;</div>
