@@ -77,10 +77,12 @@ A dirigente se refere ao Projeto de Lei (PL) 4059/2012, que est&aacute; anexado 
 A programa&ccedil;&atilde;o do ato est&aacute; organizada em tr&ecirc;s momentos. Inicialmente ser&atilde;o discutidos os crimes cometidos por ruralistas como o que houve em Colniza (MT) h&aacute; cerca de um m&ecirc;s, quando pistoleiros torturaram e mataram nove trabalhadores rurais; a Chacina de Una&iacute; (MG), o Massacre Felisburgo (MG), o recente assassinato do assentado Gouveia, em Governador Valadares (MG) e a emboscada ocorrida em Capit&atilde;o En&eacute;as.</p>
 
 <p><br />
-Outros casos como o massacre dos Gamela, no qual 13 ind&iacute;genas foram torturadas por fazendeiros no Par&aacute;, no dia 30 de abril, e os ataques contra o povo Xacriab&aacute;, em Itacarambi (MG), tamb&eacute;m estar&atilde;o em debate. Em seguida, representantes do governo e de institui&ccedil;&otilde;es jur&iacute;dicas se posicionar&atilde;o sobre os casos. O encerramento ser&aacute; prestigiado com interven&ccedil;&otilde;es art&iacute;sticas de Paco Paco e Raparigas, Pereira da Viola e o Grupo Cabar&eacute;.</p>
+Outros casos como o massacre dos Gamela, no qual 13 ind&iacute;genas foram torturadas por fazendeiros no Par&aacute;, no dia 30 de abril, e os ataques contra o povo Xacriab&aacute;, em Itacarambi (MG), tamb&eacute;m estar&atilde;o em debate. Em seguida, representantes do governo e de institui&ccedil;&otilde;es jur&iacute;dicas se posicionar&atilde;o sobre os casos. O encerramento ser&aacute; prestigiado com interven&ccedil;&otilde;es art&iacute;sticas de Paco Paco e Raparigas, Cassio Reny e Z&eacute; Kakila, Grupo Cabar&eacute; e Pereira da Viola.</p>
 
 <p>&nbsp;</p>
 
 <p><em>*Editada por Leonardo Fernandes</em></p>
+
+<div class="webpki_lacunasoftware_com" id="webpki_lacunasoftware_com" style="display: none;">&nbsp;</div>
 
 <div class="webpki_lacunasoftware_com" id="webpki_lacunasoftware_com" style="display: none;">&nbsp;</div>
