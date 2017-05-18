@@ -4,7 +4,7 @@ tags:
   - tag: mobilizações
   - tag: "diretas-já!"
   - tag: fora-temer
-title: "“Momento é de ir às ruas e pedir Diretas Já”, diz MST; acompanhe agenda de atos"
+title: "“Momento é de ir às ruas e pedir Diretas Já”: acompanhe agenda de atos"
 support_line: Frentes Brasil Popular e Povo Sem Medo organizam atos em todo o país entre esta quinta e domingo
 images_hd: //farm5.staticflickr.com/4157/34603027151_05da53af51_b.jpg
 menu: lutas e mobilizações
