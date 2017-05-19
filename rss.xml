@@ -7,6 +7,14 @@
 		<atom:link href="http://www.mst.org.br/rss.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Diretas já!</title>
+				<description>Com a eminente queda de Temer, a solução é Diretas Já!</description>
+				<pubDate>Thu, 18 May 2017 22:10:33 +0000</pubDate>
+				<link>http://www.mst.org.br/2017/05/18/diretas-ja.html</link>
+				<guid isPermaLink="true">http://www.mst.org.br/2017/05/18/diretas-ja.html</guid>
+			</item>
+		
+			<item>
 				<title>Stedile: &quot;Precisamos de diretas já e de um plano popular de emergência&quot;</title>
 				<description>&quot;Muitos fatores incidirão e o resultado não será algum plano maquiavélico de algum setor, mesmo da Globo, mas será resultado da luta de classes real, de como as classes se comportarão nas próximas horas, dias e semanas&quot;</description>
 				<pubDate>Thu, 18 May 2017 18:01:44 +0000</pubDate>
@@ -77,14 +85,6 @@
 				<pubDate>Wed, 17 May 2017 21:28:17 +0000</pubDate>
 				<link>http://www.mst.org.br/2017/05/17/ato-nacional-exige-punicao-aos-responsaveis-pela-violencia-no-campo.html</link>
 				<guid isPermaLink="true">http://www.mst.org.br/2017/05/17/ato-nacional-exige-punicao-aos-responsaveis-pela-violencia-no-campo.html</guid>
-			</item>
-		
-			<item>
-				<title>Após audiência com o Incra, MST decide pela desocupação temporária da fazenda Guassahy, em SP</title>
-				<description>Decisão ocorreu após o superintendente substituto do Incra se comprometer em mediar a destinação da terra à Reforma Agrária, além de solucionar os problemas estruturais dos assentamentos no estado. </description>
-				<pubDate>Wed, 17 May 2017 21:01:10 +0000</pubDate>
-				<link>http://www.mst.org.br/2017/05/17/apos-audiencia-com-o-incra-mst-decide-pela-desocupacao-temporaria-da-fazenda-guassahy-em-sp.html</link>
-				<guid isPermaLink="true">http://www.mst.org.br/2017/05/17/apos-audiencia-com-o-incra-mst-decide-pela-desocupacao-temporaria-da-fazenda-guassahy-em-sp.html</guid>
 			</item>
 		
 	</channel>
