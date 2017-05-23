@@ -38,6 +38,7 @@ releated_posts:
   - _posts/2017/04/2017-04-28-joao-paulo-rodrigues-da-direcao-nacional-do-mst-analisa-a-greve-geral-desta-sexta-feira-28.md
   - _posts/2016/09/2016-09-05-movimentos-populares-convocam-populacao-para-o-grito-em-brasilia.md
   - _posts/2017/04/2017-04-28-da-escravidao-a-reforma-trabalhista.md
+section: cover
 
 ---
 <p><img alt="fora-temer-paulista.jpeg" height="330" src="//farm5.staticflickr.com/4276/34001246214_2650eb9f6f_b.jpg" width="700" /></p>
@@ -78,6 +79,8 @@ As manifesta&ccedil;&otilde;es acontecer&atilde;o durante todo o dia 24. Uma age
 <p>&nbsp;</p>
 
 <p><em>Foto: Ag&ecirc;ncia PT</em></p>
+
+<div class="webpki_lacunasoftware_com" id="webpki_lacunasoftware_com" style="display: none;">&nbsp;</div>
 
 <div class="webpki_lacunasoftware_com" id="webpki_lacunasoftware_com" style="display: none;">&nbsp;</div>
 
