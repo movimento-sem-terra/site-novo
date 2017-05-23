@@ -6,7 +6,7 @@ tags:
   - tag: contra-o-golpe
 title: "Stedile: \"Precisamos de diretas já e de um plano popular de emergência\""
 menu: lutas e mobilizações
-section: cover
+section: featured-news
 images_hd: //farm5.staticflickr.com/4170/34607837011_485ded32ba_b.jpg
 support_line: "\"Muitos fatores incidirão e o resultado não será algum plano maquiavélico de algum setor, mesmo da Globo, mas será resultado da luta de classes real, de como as classes se comportarão nas próximas horas, dias e semanas\""
 layout: post
