@@ -73,10 +73,12 @@ Segundo Gilmar Mauro, da Coordena&ccedil;&atilde;o Nacional do Movimento dos Tra
 O MST, um dos movimentos populares respons&aacute;vel pela organiza&ccedil;&atilde;o da paralisa&ccedil;&atilde;o, tamb&eacute;m realizar&aacute; trancamentos de rodovias em diversas regi&otilde;es do Brasil. &quot;A ideia &eacute; fazer v&aacute;rios fechamentos de rodovias Brasil afora, e a pauta &eacute; &uacute;nica: &#39;Diretas, J&aacute;&#39;. No nosso modo de ver, mesmo com o Temer firme dizendo que n&atilde;o sair&aacute;, seu governo &eacute; insustent&aacute;vel. &Eacute; o mesmo discurso que o Collor dava tempos atr&aacute;s, assim como todo presidente na sua situa&ccedil;&atilde;o&quot;.</p>
 
 <p><br />
-As manifesta&ccedil;&otilde;es acontecer&atilde;o durante todo o dia 24. Uma agenda de hor&aacute;rios e locais de concentra&ccedil;&atilde;o foi divulgada pela CUT e pode ser acessada no site da Frente Brasil Popular.</p>
+As manifesta&ccedil;&otilde;es acontecer&atilde;o durante todo o dia 24. Uma agenda de hor&aacute;rios e locais de concentra&ccedil;&atilde;o foi divulgada pela CUT e pode ser acessada no site da <a href="http://www.frentebrasilpopular.org.br">Frente Brasil Popular</a>.</p>
 
 <p>&nbsp;</p>
 
 <p><em>Foto: Ag&ecirc;ncia PT</em></p>
+
+<div class="webpki_lacunasoftware_com" id="webpki_lacunasoftware_com" style="display: none;">&nbsp;</div>
 
 <div class="webpki_lacunasoftware_com" id="webpki_lacunasoftware_com" style="display: none;">&nbsp;</div>
