@@ -33,6 +33,7 @@ releated_posts:
   - _posts/2017/04/2017-04-03-milhares-vao-as-ruas-em-todo-brasil-anunciando-a-greve-geral.md
   - _posts/2017/04/2017-04-28-acompanhe-minuto-a-minuto-do-brasilemgreve.md
   - _posts/2017/04/2017-04-28-o-pais-amanhece-parado-em-dia-de-greve-geral.md
+section: featured-news
 
 ---
 <div style="text-align:center">
