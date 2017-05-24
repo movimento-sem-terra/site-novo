@@ -5,7 +5,7 @@ tags:
   - tag: "diretas-já!"
   - tag: fora-temer
 title: "Acompanhe \"Minuto a minuto\" as mobilizações do #OcupaBrasília"
-support_line: "#DiretasPorDireitos: 150 mil já se juntam à marcha em Brasília e em mobilizações país afora"
+support_line: "#DiretasPorDireitos: 150 mil já se juntam à marcha em Brasília e em mobilizações país afora."
 menu: lutas e mobilizações
 section: cover
 images_hd: //farm5.staticflickr.com/4196/34703178142_c09acaa529_b.jpg
