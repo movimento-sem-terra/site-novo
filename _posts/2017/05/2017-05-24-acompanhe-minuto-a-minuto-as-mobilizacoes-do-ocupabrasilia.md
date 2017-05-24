@@ -27,4 +27,4 @@ releated_posts:
   - _posts/2017/05/2017-05-23-frente-brasil-popular-apresenta-proposta-para-sair-da-crise-politica-e-economica.md
 
 ---
-<p><a class="twitter-timeline" data-partner="tweetdeck" href="https://twitter.com/Brasil_de_Fato/timelines/864988263534276609">Crise na Rep&uacute;blica - Curated tweets by Brasil_de_Fato</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>&lt;p&gt;&lt;a class=&quot;twitter-timeline&quot; data-partner=&quot;tweetdeck&quot; href=&quot;https://twitter.com/Brasil_de_Fato/timelines/864988263534276609&quot;&gt;Crise na Rep&amp;uacute;blica - Curated tweets by Brasil_de_Fato&lt;/a&gt; &lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;</p>
