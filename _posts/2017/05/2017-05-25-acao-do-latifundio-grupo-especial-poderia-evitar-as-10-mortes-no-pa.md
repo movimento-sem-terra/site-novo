@@ -67,7 +67,7 @@ De acordo com Afonso, as fam&iacute;lias retornaram &agrave; fazenda Santa Luzia
 Sob o argumento de que iriam cumprir mandado de pris&atilde;o por conta dessa morte, a pol&iacute;cia local chegou &agrave; fazenda e o resultado foram as mortes dos trabalhadores sem que nenhum respons&aacute;vel pelo ataque tenha sido identificado at&eacute; o momento.&nbsp;</p>
 
 <p><br />
-Ayala disse que as v&iacute;timas n&atilde;o fazem parte do MST mas tamb&eacute;m lutam para ter direito &agrave; terra onde possam viver com suas fam&iacute;lias. &ldquo;O fato &eacute; que &eacute; a pol&iacute;cia militar da cidade de Xinguara se somou com a pistolagem, com as empresas de seguran&ccedil;a do latif&uacute;ndio para fazer o despejo das fam&iacute;lias na base da viol&ecirc;ncia&rdquo;.&nbsp;</p>
+Ayala Ferreira, coordenadora nacional do Movimento Sem Terra,&nbsp;&nbsp;disse que as v&iacute;timas n&atilde;o fazem parte do MST mas tamb&eacute;m lutam para ter direito &agrave; terra onde possam viver com suas fam&iacute;lias. &ldquo;O fato &eacute; que &eacute; a pol&iacute;cia militar da cidade de Xinguara se somou com a pistolagem, com as empresas de seguran&ccedil;a do latif&uacute;ndio para fazer o despejo das fam&iacute;lias na base da viol&ecirc;ncia&rdquo;.&nbsp;</p>
 
 <p><br />
 &ldquo;Essa regi&atilde;o do Par&aacute; &eacute; uma regi&atilde;o, infelizmente, com possibilidades de ocorrerem mortes h&aacute; qualquer momento. Temos mais de 160 fazendas ocupadas por diferentes movimentos sociais. E a maioria desses conflitos s&atilde;o graves e j&aacute; duram muitos anos&rdquo;, analisou Afonso.</p>
@@ -89,3 +89,7 @@ Ayala contou que desde o agravamento das mortes os movimentos de trabalhadores r
 
 <p><br />
 No in&iacute;cio de maio, os trabalhadores rurais Etevaldo Soares Costa e K&aacute;tia Martins foram assassinados no Par&aacute;. Segundo o Instituto M&eacute;dico Legal de Marab&aacute; (IML), Etevaldo tinha marcas de tortura no corpo. K&aacute;tia era a l&iacute;der de um assentamento no munic&iacute;pio de Castanhal, no nordeste do Par&aacute;. O local do assentamento &eacute; uma &aacute;rea de conflito e K&aacute;tia havia sido amea&ccedil;ada.</p>
+
+<p>&nbsp;</p>
+
+<p><em>*Editado por Leonardo Fernandes</em></p>
