@@ -45,8 +45,8 @@ p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; color: #454545}
 
 <p>&nbsp;</p>
 
-<p>Por Rail&iacute;dia Carvalho<br />
-Do Vermelho</p>
+<p><em>Por Rail&iacute;dia Carvalho<br />
+Do Vermelho</em></p>
 
 <p><br />
 Afonso condenou o massacre de Pau D&rsquo;Arco come&ccedil;ando pela decis&atilde;o do juiz Erichson Alves em autorizar a pol&iacute;cia local a ser a respons&aacute;vel por fazer o despejo inicial. &ldquo;Isso &eacute; proibido desde o massacre de Eldorado dos Caraj&aacute;s. As pol&iacute;cias civil e militar tem uma proximidade muito grande com latifundi&aacute;rios, por isso em caso de despejos coletivos a orienta&ccedil;&atilde;o para as varas agr&aacute;rias &eacute; acionar o batalh&atilde;o especial da pol&iacute;cia de Bel&eacute;m, que &eacute; treinado para esses casos&rdquo;, explicou o advogado.</p>
