@@ -9,7 +9,7 @@ tags:
 title: MST condena violência durante a ocupação dos movimentos populares em Brasília
 support_line: "Ação violenta da Polícia Militar durante a manifestação desta quarta-feira (24) resultou em inúmeros feridos, entre eles um militante Sem Terra. "
 menu: lutas e mobilizações
-images_hd: //farm5.staticflickr.com/4220/34885233245_b9d76e14f2_b.jpg
+images_hd: //farm5.staticflickr.com/4197/34753875601_e3ddf1a6a5_b.jpg
 layout: post
 files:
   - link: //farm5.staticflickr.com/4220/34885233245_b9d76e14f2_b.jpg
@@ -19,6 +19,13 @@ files:
     small: //farm5.staticflickr.com/4220/34885233245_b9d76e14f2_n.jpg
     title: edbf3544-5f48-4f5b-bc31-a8590bba2c9e.jpeg
     $$hashKey: 1CC
+  - link: //farm5.staticflickr.com/4197/34753875601_e3ddf1a6a5_b.jpg
+    original: //farm5.staticflickr.com/4197/34753875601_594100e386_o.jpg
+    thumbnail: //farm5.staticflickr.com/4197/34753875601_e3ddf1a6a5_t.jpg
+    medium: //farm5.staticflickr.com/4197/34753875601_e3ddf1a6a5_z.jpg
+    small: //farm5.staticflickr.com/4197/34753875601_e3ddf1a6a5_n.jpg
+    title: Vinicius01.jpg
+    $$hashKey: 3E1
 created_date: "2017-05-25T11:04:28-03:00"
 published: true
 releated_posts:
