@@ -25,6 +25,7 @@ releated_posts:
   - _posts/2017/05/2017-05-18-momento-e-de-ir-as-ruas-e-pedir-diretas-ja-diz-mst-acompanhe-agenda-de-atos.md
   - _posts/2017/05/2017-05-19-conclamamos-todos-mesmo-os-pro-impeachment-a-ir-as-ruas-dizem-frentes-populares.md
   - _posts/2017/05/2017-05-23-frente-brasil-popular-apresenta-proposta-para-sair-da-crise-politica-e-economica.md
+section: featured-news
 
 ---
 <p>&nbsp;</p>
