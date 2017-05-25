@@ -7,10 +7,16 @@ tags:
 title: MST condena violência policial no Centro de São Paulo
 support_line: "Para o Movimento, uma questão de saúde pública está sendo intencionalmente transformada em caso de polícia."
 menu: direitos humanos
-images_hd: !<tag:yaml.org,2002:js/function> "function link() {\n    [native code]\n}"
+images_hd: //farm5.staticflickr.com/4197/34505908180_87a87dd98c_b.jpg
 layout: post
 files:
-  - "\"Authentication failed : 'https://api.flickr.com/services/upload/' - Filetype was not recognised\""
+  - link: //farm5.staticflickr.com/4197/34505908180_87a87dd98c_b.jpg
+    original: //farm5.staticflickr.com/4197/34505908180_ec980f1a8b_o.jpg
+    thumbnail: //farm5.staticflickr.com/4197/34505908180_87a87dd98c_t.jpg
+    medium: //farm5.staticflickr.com/4197/34505908180_87a87dd98c_z.jpg
+    small: //farm5.staticflickr.com/4197/34505908180_87a87dd98c_n.jpg
+    title: WhatsApp Image 2017-05-25 at 18.33.56.jpeg
+    $$hashKey: 0GZ
 created_date: "2017-05-25T18:12:48-03:00"
 published: true
 releated_posts:
@@ -21,7 +27,7 @@ releated_posts:
   - _posts/2017/05/2017-05-06-um-espectro-ronda-sao-paulo-a-feira-nacional-da-reforma-agraria.md
 
 ---
-<p>&nbsp;</p>
+<p><img alt="WhatsApp Image 2017-05-25 at 18.33.56.jpeg" height="467" src="//farm5.staticflickr.com/4197/34505908180_87a87dd98c_b.jpg" width="700" /></p>
 
 <p>&nbsp;</p>
 
