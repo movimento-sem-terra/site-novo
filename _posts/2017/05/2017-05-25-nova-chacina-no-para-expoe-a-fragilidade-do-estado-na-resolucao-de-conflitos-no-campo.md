@@ -43,8 +43,6 @@ section: cover
 ---
 <p>&nbsp;</p>
 
-<p><em>Por Maura Silva</em></p>
-
 <p><em>Por Maura Silva<br />
 Da P&aacute;gina do MST</em></p>
 
