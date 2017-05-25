@@ -6,7 +6,7 @@ tags:
   - tag: frente-povo-sem-medo
   - tag: fora-temer
   - tag: "diretas-já!"
-title: "Em nota, MST condena violência durante a ocupação dos movimentos populares em Brasília"
+title: MST condena violência durante a ocupação dos movimentos populares em Brasília
 support_line: "Ação violenta da Polícia Militar durante a manifestação desta quarta-feira (24) resultou em inúmeros feridos, entre eles um militante Sem Terra. "
 menu: lutas e mobilizações
 images_hd: //farm5.staticflickr.com/4220/34885233245_b9d76e14f2_b.jpg
