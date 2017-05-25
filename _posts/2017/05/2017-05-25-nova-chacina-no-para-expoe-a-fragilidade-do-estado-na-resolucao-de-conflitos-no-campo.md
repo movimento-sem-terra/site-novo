@@ -47,7 +47,7 @@ section: cover
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Dez posseiros - uma mulher e dez homens -, foram assassinados na manh&atilde; desta quarta-feira (24), no acampamento Nova Vida, localizado na Fazenda Santa L&uacute;cia, no munic&iacute;pio de Pau d&rsquo;Arco, no Par&aacute;. &nbsp;</p>
+Dez posseiros - uma mulher e nove&nbsp;homens -&nbsp;foram assassinados na manh&atilde; desta quarta-feira (24), no acampamento Nova Vida, localizado na Fazenda Santa L&uacute;cia, no munic&iacute;pio de Pau d&rsquo;Arco, no Par&aacute;. &nbsp;</p>
 
 <p><br />
 A chacina come&ccedil;ou a ganhar repercuss&atilde;o com a divulga&ccedil;&atilde;o de imagens dos corpos das v&iacute;timas que, segundo ve&iacute;culos de comunica&ccedil;&atilde;o local, foram levados por policiais para o necrot&eacute;rio do Hospital Municipal de Reden&ccedil;&atilde;o e depois transferidos para o Instituto M&eacute;dico Legal (IML) de Marab&aacute; e de Paraupebas.</p>
