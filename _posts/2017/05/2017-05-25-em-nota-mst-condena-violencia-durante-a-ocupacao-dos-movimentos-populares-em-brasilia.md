@@ -41,7 +41,8 @@ p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; color: #454545; m
 
 <p>&nbsp;</p>
 
-<p><em>Da P&aacute;gina do MST</em></p>
+<p><em>Da P&aacute;gina do MST<br />
+Foto: Daniele Orofino​</em></p>
 
 <p>&nbsp;</p>
 
