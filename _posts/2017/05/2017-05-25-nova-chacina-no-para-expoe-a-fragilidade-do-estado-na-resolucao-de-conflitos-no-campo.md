@@ -17,6 +17,13 @@ files:
     small: //farm5.staticflickr.com/4199/34756643651_d1eb8c4117_n.jpg
     title: Violência-no-Campo-Site.png
     $$hashKey: "065"
+  - link: //farm5.staticflickr.com/4268/34888787515_b40f44be3f_b.jpg
+    original: //farm5.staticflickr.com/4268/34888787515_cd31950b6d_o.jpg
+    thumbnail: //farm5.staticflickr.com/4268/34888787515_b40f44be3f_t.jpg
+    medium: //farm5.staticflickr.com/4268/34888787515_b40f44be3f_z.jpg
+    small: //farm5.staticflickr.com/4268/34888787515_b40f44be3f_n.jpg
+    title: 34876166695_839f62aebc_b.jpg
+    $$hashKey: 0RM
 created_date: "2017-05-25T14:08:37-03:00"
 published: true
 releated_posts:
@@ -62,6 +69,12 @@ Ainda segundo informa&ccedil;&otilde;es da CPT, no segundo semestre do ano passa
 
 <p><br />
 Diante da solicita&ccedil;&atilde;o, o ent&atilde;o Superintendente Regional do &oacute;rg&atilde;o em Marab&aacute;, Claudeck Alves Ferreira, assumiu compromisso de reunir-se com o propriet&aacute;rio da fazenda e negociar sua destina&ccedil;&atilde;o &agrave; Reforma Agr&aacute;ria. Na &eacute;poca, participaram da reuni&atilde;o o ent&atilde;o Ouvidor Agr&aacute;rio Nacional e Presidente da Comiss&atilde;o Nacional de Combate &agrave; Viol&ecirc;ncia no Campo, desembargador Gercino Jos&eacute; da Silva Filho; A&iacute;lson Silveira Machado, representante da Secretaria de Direitos Humanos do Minist&eacute;rio da Justi&ccedil;a e Cidadania; representantes regionais do INCRA; representante da Pol&iacute;cia Militar de Marab&aacute;; e coordenadores da (Fetraf - PA).</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="34876166695_839f62aebc_b.jpg" height="426" src="//farm5.staticflickr.com/4268/34888787515_b40f44be3f_b.jpg" width="700" />
+<figcaption>Armas que, segundo os policias, foram apreendidas na cena do crime &nbsp;</figcaption>
+</figure>
+</div>
 
 <p><br />
 <strong>Escalada de viol&ecirc;ncia e coniv&ecirc;ncia do Estado&nbsp;</strong></p>
