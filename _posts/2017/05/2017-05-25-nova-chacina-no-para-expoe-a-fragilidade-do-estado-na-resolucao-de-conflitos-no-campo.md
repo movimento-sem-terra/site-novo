@@ -31,6 +31,7 @@ releated_posts:
   - _posts/2017/04/2017-04-24-o-golpe-contra-a-democracia-se-traduz-em-conflitos-no-campo-declara-cpt.md
   - _posts/2017/04/2017-04-25-capangas-de-leo-andrade-ameacam-trabalhadores-sem-terra-no-norte-de-minas.md
   - _posts/2017/04/2017-04-27-jaguncos-fortemente-armados-agridem-trabalhadores-rurais-em-pernambuco.md
+section: cover
 
 ---
 <p>&nbsp;</p>
