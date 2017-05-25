@@ -4,7 +4,7 @@ tags:
   - tag: fora-temer
   - tag: oab
 images_hd: //farm5.staticflickr.com/4250/34720749082_890fef1dae_b.jpg
-title: "Beatriz Vargas: “Os vários pedidos de impeachment de Temer são mais que pressão política”"
+title: "Beatriz Vargas: “Pedidos de impeachment de Temer são mais que pressão política”"
 support_line: "Ciente da correlação de forças no Congresso, oposição aponta que pedidos evidenciam a insustentabilidade do projeto de governo e a diversidade de crimes cometidos por Temer."
 menu: lutas e mobilizações
 layout: post
