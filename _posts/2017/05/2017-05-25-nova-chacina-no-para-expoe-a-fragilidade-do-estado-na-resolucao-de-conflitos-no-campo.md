@@ -87,7 +87,7 @@ Para Ayala Ferreira, da Dire&ccedil;&atilde;o Nacional do MST, que acompanha os 
 &ldquo;Em 1996, quando aconteceu o massacre de Eldorado dos Caraj&aacute;s, a pol&iacute;cia falou em confronto. Esse, ali&aacute;s, &eacute; o discurso utilizado em todos os massacres, seja no campo ou na cidade. O que vale ressaltar aqui &eacute; que foi um &lsquo;confronto&rsquo; em que s&oacute; morreram acampados. Nenhum policial envolvido na a&ccedil;&atilde;o foi identificado at&eacute; o momento. A pr&oacute;pria PM desarmou o cen&aacute;rio do conflito ao retirar os corpos e carreg&aacute;-los amontoados em uma caminhonete at&eacute; Reden&ccedil;&atilde;o&rdquo;, concluiu.&nbsp;</p>
 
 <p><br />
-Os massacres ocasionados por disputa de terra em todo o Brasil t&ecirc;m ficado cada vez mais intensos. De acordo com a CPT, em 2016 foram registrados 61 assassinatos em conflitos, o maior n&uacute;mero desde o in&iacute;cio do monitoramento da entidade, em 2003. Em 2017, o total de mortes chegou a 26, sem contar os casos de ontem.</p>
+Os massacres ocasionados por disputa de terra em todo o Brasil t&ecirc;m ficado cada vez mais intensos. De acordo com a CPT, em 2016 foram registrados 61 assassinatos em conflitos, o maior n&uacute;mero desde 2003. Em 2017, o total de mortes chegou a 26, sem contar os casos de ontem.</p>
 
 <p><br />
 Em abril deste ano, nove trabalhadores rurais foram brutalmente assassinados por um grupo de homens encapuzados em uma chacina em Colniza, no Mato Grosso. At&eacute; o momento ningu&eacute;m foi preso.&nbsp;</p>
