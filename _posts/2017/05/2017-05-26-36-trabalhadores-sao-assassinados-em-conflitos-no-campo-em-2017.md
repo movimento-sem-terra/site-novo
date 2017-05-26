@@ -40,7 +40,7 @@ Foto: M&iacute;dia Ninja</em></p>
 
 <p>&nbsp;</p>
 
-<p>A chacina de 10 trabalhadores rurais na manh&atilde; desta quarta-feira (24), em uma reintegra&ccedil;&atilde;o de posse&nbsp;de um acampamento na Fazenda Santa L&uacute;cia, munic&iacute;pio de Pau d&rsquo;Arco, no sudeste do Par&aacute;, elevou para 36 o n&uacute;mero de assassinatos s&oacute; em 2017 &ndash; mais da metade dos 61 registrados em 2016. Os dados s&atilde;o da assessoria de comunica&ccedil;&atilde;o da Comiss&atilde;o Pastoral da Terra (CPT).&nbsp;</p>
+<p>A chacina de 10 trabalhadores rurais na manh&atilde; desta quarta-feira (24), em uma reintegra&ccedil;&atilde;o de posse&nbsp;de um acampamento na Fazenda Santa L&uacute;cia, munic&iacute;pio de Pau d&rsquo;Arco, no sudeste do Par&aacute;, elevou para 36 o n&uacute;mero de assassinatos s&oacute; em 2017 &ndash; mais da metade dos 61 registrados em 2016. Os dados s&atilde;o da assessoria de comunica&ccedil;&atilde;o da Comiss&atilde;o Pastoral da Terra (<a href="https://www.cptnacional.org.br/index.php/component/jdownloads/send/58-dados-2016/14059-violencia-os-recordes-de-2016-cpt-assessoria-de-comunicacao">CPT</a>).&nbsp;</p>
 
 <p><br />
 A chacina, que ficou conhecida como massacre de Reden&ccedil;&atilde;o, aconteceu um dia ap&oacute;s o ato-den&uacute;ncia contra a intensifica&ccedil;&atilde;o&nbsp;da viol&ecirc;ncia no campo e pelos direitos, realizado em Bras&iacute;lia pelo Conselho Nacional dos Direitos Humanos (CNDH), com apoio da CPT, Confedera&ccedil;&atilde;o Nacional dos Trabalhadores na Agricultura (Contag) e Movimento dos Trabalhadores Rurais Sem Terra (MST), entre outras entidades.</p>
