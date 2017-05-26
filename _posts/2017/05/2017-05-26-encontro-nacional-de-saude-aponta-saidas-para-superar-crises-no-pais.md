@@ -36,7 +36,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Análises das conjunturas foram feitas por Milton Viário, da Federação dos Metalúrgicos, e Silvia Reis Marques, da direção nacional do MST. (1).jpg" height="636" src="//farm5.staticflickr.com/4245/34521237270_2c32f97ed4_b.jpg" width="700" />
-<figcaption></figcaption>
+<figcaption>An&aacute;lises das conjunturas foram feitas por Milton Vi&aacute;rio, da Federa&ccedil;&atilde;o dos Metal&uacute;rgicos, e Silvia Reis Marques, da dire&ccedil;&atilde;o nacional do MST</figcaption>
 </figure>
 </div>
 
@@ -59,6 +59,12 @@ Segundo ele, com a dela&ccedil;&atilde;o premiada do propriet&aacute;rio da JBS,
 
 <p><br />
 J&aacute; na quest&atilde;o agr&aacute;ria, S&iacute;lvia disse que o agroneg&oacute;cio est&aacute; diretamente ligado a pol&iacute;ticos que hoje prejudicam os trabalhadores por meio de suas atua&ccedil;&otilde;es no Congresso Nacional e ao &ldquo;governo ileg&iacute;timo e golpista de Michel Temer, que quer paralisar integralmente o programa da Reforma Agr&aacute;ria&rdquo;.</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="Encontro reúne cerca de 50 militantes da área da saúde. (1).jpg" height="412" src="//farm5.staticflickr.com/4250/34521238110_73f691bc71_b.jpg" width="700" />
+<figcaption>Encontro re&uacute;ne cerca de 50 militantes da &aacute;rea da sa&uacute;de</figcaption>
+</figure>
+</div>
 
 <p><br />
 &ldquo;A democratiza&ccedil;&atilde;o do acesso &agrave; terra &eacute; assunto de quem produz alimentos, mas tamb&eacute;m &eacute; de quem est&aacute; na cidade e os consome. A Reforma Agr&aacute;ria &eacute; uma bandeira civilizat&oacute;ria e o caminho a ser percorrido para conquistarmos o socialismo. Mas nesse governo golpista n&atilde;o h&aacute; espa&ccedil;o para isto, ent&atilde;o precisamos de um projeto popular, que seja constru&iacute;do e executado pelos trabalhadores para atender a todos e todas&rdquo;, defende S&iacute;lvia.</p>
