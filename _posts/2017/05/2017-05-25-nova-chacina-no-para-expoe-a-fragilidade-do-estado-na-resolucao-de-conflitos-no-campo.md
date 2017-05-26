@@ -6,7 +6,7 @@ tags:
   - tag: direitos-humanos
 title: "Nova chacina no Pará expõe a fragilidade do Estado na resolução de conflitos no campo "
 menu: direitos humanos
-support_line: "Os massacres ocasionados por disputa de terra em todo o Brasil têm ficado cada vez mais intensos. De acordo com a CPT, em 2016 foram registrados 61 assassinatos em conflitos, o maior número desde o início do monitoramento da entidade"
+support_line: "Os massacres ocasionados por disputa de terra em todo o Brasil têm ficado cada vez mais intensos. De acordo com a CPT, em 2016 foram registrados 61 assassinatos em conflitos, o maior número desde 2003."
 images_hd: //farm5.staticflickr.com/4199/34756643651_d1eb8c4117_b.jpg
 layout: post
 files:
@@ -47,7 +47,7 @@ section: cover
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Dez posseiros - uma mulher e nove&nbsp;homens -&nbsp;foram assassinados na manh&atilde; desta quarta-feira (24), no acampamento Nova Vida, localizado na Fazenda Santa L&uacute;cia, no munic&iacute;pio de Pau d&rsquo;Arco, no Par&aacute;. &nbsp;</p>
+Dez posseiros - uma mulher e nove&nbsp;homens -&nbsp;foram assassinados na manh&atilde; desta quarta-feira (24), no acampamento Nova Vida, localizado na Fazenda Santa L&uacute;cia, no munic&iacute;pio de Pau d&rsquo;Arco, no Par&aacute;.</p>
 
 <p><br />
 A chacina come&ccedil;ou a ganhar repercuss&atilde;o com a divulga&ccedil;&atilde;o de imagens dos corpos das v&iacute;timas que, segundo ve&iacute;culos de comunica&ccedil;&atilde;o local, foram levados por policiais para o necrot&eacute;rio do Hospital Municipal de Reden&ccedil;&atilde;o e depois transferidos para o Instituto M&eacute;dico Legal (IML) de Marab&aacute; e de Paraupebas.</p>
@@ -77,7 +77,8 @@ Diante da solicita&ccedil;&atilde;o, o ent&atilde;o Superintendente Regional do 
 </figure>
 </div>
 
-<p><strong>Escalada de viol&ecirc;ncia e coniv&ecirc;ncia do Estado&nbsp;</strong></p>
+<p><br />
+<strong>Escalada de viol&ecirc;ncia e coniv&ecirc;ncia do Estado&nbsp;</strong></p>
 
 <p><br />
 Para Ayala Ferreira, da Dire&ccedil;&atilde;o Nacional do MST, que acompanha os casos de viol&ecirc;ncia no Par&aacute;, o governo do estado est&aacute; novamente usando o discurso que criminaliza a luta por terra na regi&atilde;o.&nbsp;</p>
@@ -98,5 +99,4 @@ Atos e a&ccedil;&otilde;es est&atilde;o sendo constru&iacute;dos em todo o estad
 Com a medida tomada pelo governo Temer de extinguir a Ouvidoria Agr&aacute;ria Nacional, entidade que era respons&aacute;vel por prevenir e mediar os conflitos agr&aacute;rios, a situa&ccedil;&atilde;o tende a se agravar cada vez mais, uma vez que o papel de media&ccedil;&atilde;o fica a cargo do estado, que j&aacute; provou ser incapaz de garantir a seguran&ccedil;a dos trabalhadores no campo.&nbsp;</p>
 
 <p><br />
-<br />
 <em>*Editado por Leonardo Fernandes&nbsp;</em></p>
