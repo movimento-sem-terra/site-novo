@@ -7,16 +7,16 @@ tags:
 title: "Ação do latifúndio: Grupo especial poderia evitar as 10 mortes no PA"
 support_line: São pelo menos 17 mortes de trabalhadores rurais em dois meses no estado do Pará.
 menu: direitos humanos
-images_hd: //farm5.staticflickr.com/4204/34720898182_a86383c46d_b.jpg
+images_hd: //farm5.staticflickr.com/4248/34094309613_e2b890f148_b.jpg
 layout: post
 files:
-  - link: //farm5.staticflickr.com/4204/34720898182_a86383c46d_b.jpg
-    original: //farm5.staticflickr.com/4204/34720898182_94ac0f925b_o.jpg
-    thumbnail: //farm5.staticflickr.com/4204/34720898182_a86383c46d_t.jpg
-    medium: //farm5.staticflickr.com/4204/34720898182_a86383c46d_z.jpg
-    small: //farm5.staticflickr.com/4204/34720898182_a86383c46d_n.jpg
-    title: divulgacao109629.jpeg
-    $$hashKey: 08Q
+  - link: //farm5.staticflickr.com/4248/34094309613_e2b890f148_b.jpg
+    original: //farm5.staticflickr.com/4248/34094309613_2ae266396d_o.jpg
+    thumbnail: //farm5.staticflickr.com/4248/34094309613_e2b890f148_t.jpg
+    medium: //farm5.staticflickr.com/4248/34094309613_e2b890f148_z.jpg
+    small: //farm5.staticflickr.com/4248/34094309613_e2b890f148_n.jpg
+    title: 18620334_1586808978058477_7268569077370079114_n.jpg
+    $$hashKey: 0AR
 created_date: "2017-05-25T09:57:07-03:00"
 published: true
 releated_posts:
@@ -41,7 +41,7 @@ releated_posts:
 p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; color: #454545; min-height: 14.0px}
 p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; color: #454545}
 </style>
-<img alt="divulgacao109629.jpeg" height="406" src="//farm5.staticflickr.com/4204/34720898182_a86383c46d_b.jpg" width="700" /></p>
+</p>
 
 <p>&nbsp;</p>
 
@@ -90,6 +90,5 @@ Ayala contou que desde o agravamento das mortes os movimentos de trabalhadores r
 <p><br />
 No in&iacute;cio de maio, os trabalhadores rurais Etevaldo Soares Costa e K&aacute;tia Martins foram assassinados no Par&aacute;. Segundo o Instituto M&eacute;dico Legal de Marab&aacute; (IML), Etevaldo tinha marcas de tortura no corpo. K&aacute;tia era a l&iacute;der de um assentamento no munic&iacute;pio de Castanhal, no nordeste do Par&aacute;. O local do assentamento &eacute; uma &aacute;rea de conflito e K&aacute;tia havia sido amea&ccedil;ada.</p>
 
-<p>&nbsp;</p>
-
-<p><em>*Editado por Leonardo Fernandes</em></p>
+<p><br />
+<em>*Editado por Leonardo Fernandes</em></p>
