@@ -7,7 +7,7 @@ tags:
 support_line: "Impunidade, grilagem de terras, concentração da estrutura fundiária e ambiente político-institucional forjado pelo golpe são fatores apontados."
 title: "Após chacina, entidades de luta pela terra no Pará denunciam acirramento da violência"
 menu: direitos humanos
-section: cover
+section: featured-news
 images_hd: //farm5.staticflickr.com/4247/34872174566_5841a14f88_b.jpg
 layout: post
 files:
