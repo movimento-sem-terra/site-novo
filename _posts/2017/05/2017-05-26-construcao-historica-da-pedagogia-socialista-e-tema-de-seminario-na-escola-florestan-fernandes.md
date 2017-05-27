@@ -54,7 +54,7 @@ Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
-<p>Mais de 150 pessoas vindas de 18 estados do Brasil, al&eacute;m de militantes de movimentos populares de 19 pa&iacute;ses, est&atilde;o reunidas na Escola Nacional Florestan Fernandes durante o semin&aacute;rio &ldquo;Constru&ccedil;&atilde;o hist&oacute;rica da Pedagogia Socialista: Legado da Revolu&ccedil;&atilde;o Russa de 1917 e os desafios atuais&rdquo;, embalados na m&iacute;stica revolucion&aacute;ria e avaliando os diversos desafios na atual conjuntura.<br />
+<p>Cerca de 350 pessoas vindas de 18 estados do Brasil, al&eacute;m de militantes de movimentos populares de 18&nbsp;pa&iacute;ses, est&atilde;o reunidas na Escola Nacional Florestan Fernandes durante o semin&aacute;rio &ldquo;Constru&ccedil;&atilde;o hist&oacute;rica da Pedagogia Socialista: Legado da Revolu&ccedil;&atilde;o Russa de 1917 e os desafios atuais&rdquo;, embalados na m&iacute;stica revolucion&aacute;ria e avaliando os diversos desafios na atual conjuntura.<br />
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
 
 <p>O Semin&aacute;rio que iniciou na manh&atilde; do dia 24 e segue com programa&ccedil;&atilde;o at&eacute; o pr&oacute;ximo dia 27, &eacute; fruto da articula&ccedil;&atilde;o dos professores de institui&ccedil;&otilde;es de educa&ccedil;&atilde;o superior com o MST, junto a Escola Nacional Florestan Fernandes (ENFF) e a Editora Express&atilde;o Popular, conta com a representa&ccedil;&atilde;o de 47 Institui&ccedil;&otilde;es de Ensino Superior do Brasil.<br />
