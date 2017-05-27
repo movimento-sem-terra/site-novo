@@ -22,4 +22,3 @@ releated_posts:
   - _posts/2017/04/2017-04-05-reforma-agraria-e-luta-politica-mas-e-sobretudo-e-a-realizacao-da-vida-do-sonho-e-do-alimento.md
 
 ---
-<p><iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/RUCmDe8oaeg" width="640"></iframe></p>
