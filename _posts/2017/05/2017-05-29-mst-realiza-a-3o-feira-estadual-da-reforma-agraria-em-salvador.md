@@ -55,7 +55,7 @@ Fotos: Marina Sena</i></p>
 
 <p>&nbsp;</p>
 
-<p>Entre os dias 8 e 10 de junho, o MST realiza na Pra&ccedil;a da Piedade, no centro de Salvador, a&nbsp;3&ordm; Feira Estadual da Reforma Agr&aacute;ria, com uma variedade de produtos oriundos dos assentamentos e acampamentos de dez regi&otilde;es do estado da&nbsp;Bahia.</p>
+<p>Entre os dias 8 e 10 de junho, o MST realiza na Pra&ccedil;a da Piedade, no centro de Salvador, a&nbsp;<a href="https://www.facebook.com/events/684357565022386/?acontext=%7B%22action_history%22%3A%22">3&ordm; Feira Estadual da Reforma Agr&aacute;ria</a>, com uma variedade de produtos oriundos dos assentamentos e acampamentos de dez regi&otilde;es do estado da&nbsp;Bahia.</p>
 
 <p>&nbsp;</p>
 
