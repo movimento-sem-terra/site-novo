@@ -36,7 +36,8 @@ p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; color: #454545; m
 <p>&nbsp;</p>
 
 <p><em>Por Suelyn da Luz<br />
-Da P&aacute;gina do MST</em></p>
+Da P&aacute;gina do MST<br />
+Foto: Jo&atilde;o Pompeu</em></p>
 
 <p>&nbsp;</p>
 
