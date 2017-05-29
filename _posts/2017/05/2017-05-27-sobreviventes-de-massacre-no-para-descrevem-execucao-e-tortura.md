@@ -8,7 +8,7 @@ title: Sobreviventes de massacre no Pará descrevem execução e tortura
 support_line: "“A polícia chegou atirando”, dizem testemunhas que conseguiram fugir antes do massacre de 10 trabalhadores. Depoimentos contrariam versão de confronto da polícia."
 images_hd: //farm5.staticflickr.com/4274/34545845340_784029c84c_b.jpg
 menu: direitos humanos
-section: cover
+section: featured-news
 layout: post
 files:
   - link: //farm5.staticflickr.com/4274/34545845340_784029c84c_b.jpg
