@@ -36,7 +36,7 @@ releated_posts:
 ---
 <p>&nbsp;</p>
 
-<p><em>Por Felipe Milanez<br />
+<p><em>Por Felipe Milanez *<br />
 Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p>&nbsp;</p>
@@ -92,3 +92,7 @@ N&atilde;o h&aacute; d&uacute;vidas de que a juventude camponesa no Par&aacute; 
 
 <p><br />
 O sangrento Par&aacute;, que sem jamais ter deixado de ser o mais violento espa&ccedil;o da morte no campo do Brasil, volta a ser o banho de sangue dos piores momentos da hist&oacute;ria pol&iacute;tica do Brasil, como na ditadura e na transi&ccedil;&atilde;o-intransitiva. Talvez porque o Brasil pol&iacute;tico, longe da fronteira, tamb&eacute;m tenha se esquecido do que significa a viol&ecirc;ncia do latif&uacute;ndio no Estado de Exce&ccedil;&atilde;o. &Eacute; no sangue que jorra no Par&aacute; que o latifundio, que o agro, mostra a sua verdadeira face.</p>
+
+<p>&nbsp;</p>
+
+<p><em>* Professor da Universidade Federal do Rec&ocirc;ncavo Baiano (UFRB)</em></p>
