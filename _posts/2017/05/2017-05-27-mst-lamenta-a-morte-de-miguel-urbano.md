@@ -40,7 +40,7 @@ releated_posts:
 O jornalista portugu&ecirc;s teve no Brasil o lar enquanto exilado. Ap&oacute;s a Revolu&ccedil;&atilde;o dos Cravos, retornou a Portugal e l&aacute; editou diversos di&aacute;rios (entre os quais o Avante!), foi parlamentar e professor universit&aacute;rio. Miguel Urbano faleceu neste s&aacute;bado (27), em Portugal, aos 91 anos.</p>
 
 <p><br />
-Confira a Mensagem do MST:</p>
+Confira a Mensagem do MST e o poema feito em sua homenagem por Ademar Bogo:</p>
 
 <p style="text-align: center;"><br />
 <strong>MST PERDE UM AMIGO, MESTRE, E INTERNACIONALISTA</strong></p>
@@ -60,3 +60,95 @@ Estamos todos muito tristes. e o MST perde um grande amigo e mestre, com quem ap
 
 <p style="text-align: center;">Miguel Urbano<br />
 &nbsp;02/08/1925 - 27/05/2017</p>
+
+<p style="text-align: center;">&nbsp;</p>
+
+<p style="text-align: center;"><strong>S&Aacute;BIO COMUNISTA</strong></p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
+
+<p style="text-align: right;">&nbsp;Ao Miguel Urbano</p>
+
+<p>&nbsp;</p>
+
+<p>De longe o fado sonolento,</p>
+
+<p>Avisa-nos que o s&aacute;bio adormeceu...</p>
+
+<p>Tal qual o oper&aacute;rio ao fim do dia</p>
+
+<p>Deixa o cansa&ccedil;o nas m&atilde;os da utopia</p>
+
+<p>E sai somente com o saber que &eacute; seu.</p>
+
+<p>Deixa nas letras as marcas de seus feitos</p>
+
+<p>Na sua luta contra os preconceitos</p>
+
+<p>Que passaram por dentro de suas vistas...</p>
+
+<p>Mas n&atilde;o tiveram um uma s&oacute; condescend&ecirc;ncia</p>
+
+<p>Foram golpeados pela for&ccedil;a da consci&ecirc;ncia</p>
+
+<p>Edificada no s&aacute;bio comunista.</p>
+
+<p>(Sua escrita, n&atilde;o dita!</p>
+
+<p>Grita, agita e faz que se reflita</p>
+
+<p>Sobre a maldita explora&ccedil;&atilde;o.</p>
+
+<p>&Eacute; fogo que queima</p>
+
+<p>&Eacute; paix&atilde;o que teima</p>
+
+<p>Mudar a ideia e o cora&ccedil;&atilde;o).</p>
+
+<p>Deixa, &eacute; verdade, a planta da obra ainda por fazer</p>
+
+<p>N&atilde;o &eacute; a obra apenas do poder</p>
+
+<p>Dos cravos florescidos e n&atilde;o colhidos...</p>
+
+<p>Das conquistas parciais e arremedos;</p>
+
+<p>Das Rep&uacute;blicas do terror e do medo</p>
+
+<p>Nem dos fr&aacute;geis governos de amizade.</p>
+
+<p>Mas a obra que eleva a humanidade</p>
+
+<p>Ao mais alto grau do esp&iacute;rito comunista;</p>
+
+<p>Onde o valor de troca &eacute; a solidariedade</p>
+
+<p>E a propriedade, internacionalista.</p>
+
+<p>Suas&nbsp; ideias como as imigra&ccedil;&otilde;es</p>
+
+<p>Seguir&atilde;o for&ccedil;ando as for&ccedil;as e as fronteiras.</p>
+
+<p>Em cada porto rompendo uma barreira</p>
+
+<p>Abrindo portas nas mentes e cora&ccedil;&otilde;es.</p>
+
+<p>E, no futuro, a Hist&oacute;ria quando olhar</p>
+
+<p>Ver&aacute; o passado no presente ainda a instigar</p>
+
+<p>Em meio aos textos, poesias e can&ccedil;&otilde;es...</p>
+
+<p>A perman&ecirc;ncia das revolu&ccedil;&otilde;es.</p>
+
+<p>&nbsp;</p>
+
+<p><em>Por&nbsp; Ademar Bogo</em></p>
+
+<p style="text-align: right;">Bahia, 27 de maio de 2017.</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><em>*Editado por Rafael Soriano</em></p>
