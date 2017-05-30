@@ -73,10 +73,10 @@ Em resposta a St&eacute;dile, Vagner Freitas, presidente nacional da Central &Ua
 <strong>Plano Popular</strong></p>
 
 <p><br />
-O Plano Popular de Emerg&ecirc;ncia cont&eacute;m dez eixos tem&aacute;ticos: (I) - Democratiza&ccedil;&atilde;o do Estado; (II) &ndash; Pol&iacute;tica de desenvolvimento, emprego e renda; (III) &ndash; Reforma Agr&aacute;ria e agricultura familiar; (IV) &ndash; Reforma tribut&aacute;ria; (V) &ndash; Direitos sociais e trabalhistas; (VI) &ndash; Direito &agrave; sa&uacute;de, educa&ccedil;&atilde;o, cultura e moradia; (VII) &ndash; Seguran&ccedil;a p&uacute;blica; (VIII) &ndash; Direitos Humanos e cidadania; (IX) &ndash; Defesa do meio ambiente; (X) &ndash; Pol&iacute;tica externa soberana.</p>
+O Plano Popular de Emerg&ecirc;ncia cont&eacute;m dez eixos program&aacute;ticos: (I) - Democratiza&ccedil;&atilde;o do Estado; (II) &ndash; Pol&iacute;tica de desenvolvimento, emprego e renda; (III) &ndash; Reforma Agr&aacute;ria e agricultura familiar; (IV) &ndash; Reforma tribut&aacute;ria; (V) &ndash; Direitos sociais e trabalhistas; (VI) &ndash; Direito &agrave; sa&uacute;de, educa&ccedil;&atilde;o, cultura e moradia; (VII) &ndash; Seguran&ccedil;a p&uacute;blica; (VIII) &ndash; Direitos Humanos e cidadania; (IX) &ndash; Defesa do meio ambiente; (X) &ndash; Pol&iacute;tica externa soberana.</p>
 
 <p><br />
-Cada um dos eixos s&atilde;o subdivididos em propostas de a&ccedil;&otilde;es concretas. Ao todo, s&atilde;o 76 propostas de interven&ccedil;&atilde;o pr&aacute;tica. Em rela&ccedil;&atilde;o &agrave; Reforma Agr&aacute;ria, por exemplo, o plano prop&otilde;e, entre outras coisas, a &lsquo;implanta&ccedil;&atilde;o de um programa nacional para a produ&ccedil;&atilde;o, industrializa&ccedil;&atilde;o e comercializa&ccedil;&atilde;o de alimentos saud&aacute;veis, com or&ccedil;amento de R$ 3 bilh&otilde;es anuais, a destina&ccedil;&atilde;o de R$ 2 bilh&otilde;es anuais para o Programa de Aquisi&ccedil;&atilde;o de Alimentos (PAA), a implementa&ccedil;&atilde;o do Plano Nacional de Erradica&ccedil;&atilde;o de Agrot&oacute;xicos (PRONARA) e do Plano Nacional de Agroecologia e Produ&ccedil;&atilde;o Org&acirc;nica (PLANAPO), bem como a recria&ccedil;&atilde;o do Minist&eacute;rio do Desenvolvimento Agr&aacute;rio (MDA).</p>
+Cada um dos eixos s&atilde;o subdivididos em propostas de a&ccedil;&otilde;es concretas. Ao todo, s&atilde;o 76 propostas de interven&ccedil;&atilde;o pr&aacute;tica. Em rela&ccedil;&atilde;o &agrave; Reforma Agr&aacute;ria, por exemplo, o plano prop&otilde;e, entre outras coisas, a &lsquo;implanta&ccedil;&atilde;o de um programa nacional para a produ&ccedil;&atilde;o, industrializa&ccedil;&atilde;o e comercializa&ccedil;&atilde;o de alimentos saud&aacute;veis, com or&ccedil;amento de R$ 3 bilh&otilde;es anuais, a destina&ccedil;&atilde;o de R$ 2 bilh&otilde;es anuais para o Programa de Aquisi&ccedil;&atilde;o de Alimentos (PAA), a implementa&ccedil;&atilde;o do Plano Nacional de Erradica&ccedil;&atilde;o de Agrot&oacute;xicos (PRONARA) e do Plano Nacional de Agroecologia e Produ&ccedil;&atilde;o Org&acirc;nica (PLANAPO), bem como a recria&ccedil;&atilde;o do Minist&eacute;rio do Desenvolvimento Agr&aacute;rio (MDA)&#39;.</p>
 
 <p><br />
 Jo&atilde;o Pedro St&eacute;dile disse que, como parte de um esfor&ccedil;o para que as pessoas se apropriem e discutam amplamente o conte&uacute;do do plano, ser&atilde;o feitas diversas a&ccedil;&otilde;es culturais e de comunica&ccedil;&atilde;o ao longo do pr&oacute;ximo per&iacute;odo. &ldquo;Nosso melhor documentarista, Silvio Tendler, far&aacute; um document&aacute;rio sobre o programa de emerg&ecirc;ncia&rdquo;, anunciou.</p>
@@ -98,5 +98,7 @@ Assista ao v&iacute;deo do lan&ccedil;amento no Tuca, produzido pela Brigada de 
 <p>&nbsp;</p>
 
 <p><em>*Editado por Rafael Soriano</em></p>
+
+<div class="webpki_lacunasoftware_com" id="webpki_lacunasoftware_com" style="display: none;">&nbsp;</div>
 
 <div class="webpki_lacunasoftware_com" id="webpki_lacunasoftware_com" style="display: none;">&nbsp;</div>
