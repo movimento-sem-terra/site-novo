@@ -4,7 +4,7 @@ tags:
   - tag: comunicação
   - tag: bahia
   - tag: juventude
-title: Jovens comunicadores realizam curso de imersão em audiovisual no extremo sul da Bahia
+title: Jovens comunicadores realizam curso de imersão em audiovisual no sul da Bahia
 images_hd: //farm5.staticflickr.com/4251/34859272591_0d68269d03_b.jpg
 menu: "educação, cultura e comunicação"
 support_line: "Como parte das ações comemorativas dos 30 anos do MST na Bahia, Juventude Sem Terra realiza diversas atividades de formação."
@@ -79,3 +79,5 @@ Para Izelia da Silva, tamb&eacute;m do coletivo de comunica&ccedil;&atilde;o e j
 <p>&nbsp;</p>
 
 <p><em>*Editado por Leonardo Fernandes</em></p>
+
+<div class="webpki_lacunasoftware_com" id="webpki_lacunasoftware_com" style="display: none;">&nbsp;</div>
