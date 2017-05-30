@@ -31,7 +31,7 @@ files:
     title: 34825962961_645a8723eb_o.jpg
     $$hashKey: 0SO
 created_date: "2017-05-29T12:35:29-03:00"
-published: true
+published: false
 releated_posts:
   - _posts/2016/12/2016-12-21-acampamento-do-mst-sofre-ataque-de-pistoleiros-no-para.md
   - _posts/2017/03/2017-03-20-mst-se-solidariza-com-familia-de-agricultor-assassinado-no-para.md
