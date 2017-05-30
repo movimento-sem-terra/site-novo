@@ -49,7 +49,7 @@ releated_posts:
   - _posts/2017/05/2017-05-21-o-local-de-encontro-da-populacao-com-a-politica-e-a-rua-aponta-integrante-da-consulta-popular.md
   - _posts/2017/05/2017-05-22-em-salvador-dois-mil-trabalhadores-marcham-ate-o-farol-da-barra-por-diretas-ja.md
   - _posts/2017/05/2017-05-23-ato-pelas-diretas-ja-deve-reunir-80-mil-pessoas-em-brasilia-nesta-quarta-24.md
-section: cover
+section: featured-news
 
 ---
 <p>
