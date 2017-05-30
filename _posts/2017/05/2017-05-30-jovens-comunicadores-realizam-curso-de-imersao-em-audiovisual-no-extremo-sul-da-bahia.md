@@ -4,7 +4,7 @@ tags:
   - tag: comunicação
   - tag: bahia
   - tag: juventude
-title: Jovens comunicadores realizam curso de imersão em audiovisual no sul da Bahia
+title: Jovens comunicadores realizam curso de imersão em audiovisual na Bahia
 images_hd: //farm5.staticflickr.com/4251/34859272591_0d68269d03_b.jpg
 menu: "educação, cultura e comunicação"
 support_line: "Como parte das ações comemorativas dos 30 anos do MST na Bahia, Juventude Sem Terra realiza diversas atividades de formação."
@@ -52,7 +52,7 @@ Da P&aacute;gina do MST</i></p>
 
 <p>&nbsp;</p>
 
-<p>Prestes a completar 30 anos, o MST na Bahia tem realizado diversas atividades a data de de luta. Pensando nisso, a Juventude Sem Terra, que atua no coletivo de comunica&ccedil;&atilde;o, se reuniu no Assentamento 40 45, o primeiro do estado, entre os dias 25 e 28 de maio, com o objetivo de construir um espa&ccedil;o de prepara&ccedil;&atilde;o e estudo em comunica&ccedil;&atilde;o popular, com foco na linguagem audiovisual.</p>
+<p>Prestes a completar 30 anos, o MST na Bahia tem realizado diversas atividades a data de forma&ccedil;&atilde;o e luta. Pensando nisso, a Juventude Sem Terra, que atua no coletivo de comunica&ccedil;&atilde;o, se reuniu no Assentamento 40 45, o primeiro do estado, entre os dias 25 e 28 de maio, com o objetivo de construir um espa&ccedil;o de prepara&ccedil;&atilde;o e estudo em comunica&ccedil;&atilde;o popular, com foco na linguagem audiovisual.</p>
 
 <p><br />
 O curso de imers&atilde;o prop&ocirc;s construir o debate a partir de outras linguagens de comunica&ccedil;&atilde;o, como o lambe-lambe e est&ecirc;ncil, para que os militantes possam ter uma vis&atilde;o ampla das variadas formas de di&aacute;logo com a sociedade.</p>
@@ -79,5 +79,7 @@ Para Izelia da Silva, tamb&eacute;m do coletivo de comunica&ccedil;&atilde;o e j
 <p>&nbsp;</p>
 
 <p><em>*Editado por Leonardo Fernandes</em></p>
+
+<div class="webpki_lacunasoftware_com" id="webpki_lacunasoftware_com" style="display: none;">&nbsp;</div>
 
 <div class="webpki_lacunasoftware_com" id="webpki_lacunasoftware_com" style="display: none;">&nbsp;</div>
