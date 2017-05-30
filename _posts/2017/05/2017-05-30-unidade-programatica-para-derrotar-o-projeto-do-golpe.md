@@ -45,7 +45,7 @@ Fotos: M&iacute;dia Ninja</em></p>
 
 <p>&nbsp;</p>
 
-<p>O Teatro da Pontif&iacute;cia Universidade Cat&oacute;lica de S&atilde;o Paulo (PUC=SP), popularmente conhecido como Tuca, ficou lotado para o lan&ccedil;amento do Plano Popular de Emerg&ecirc;ncia, na noite dessa ter&ccedil;a-feira (29). Participaram do evento pol&iacute;ticos, intelectuais, artistas e representantes dos movimentos populares. Na plateia, professores e estudantes da PUC, al&eacute;m de militantes dos diversos movimentos e partidos.</p>
+<p>O Teatro da Pontif&iacute;cia Universidade Cat&oacute;lica de S&atilde;o Paulo (PUC=SP), popularmente conhecido como Tuca, ficou lotado para o lan&ccedil;amento do Plano Popular de Emerg&ecirc;ncia, na noite dessa segunda-feira (29). Participaram do evento pol&iacute;ticos, intelectuais, artistas e representantes dos movimentos populares. Na plateia, professores e estudantes da PUC, al&eacute;m de militantes dos diversos movimentos e partidos.</p>
 
 <p><br />
 O documento foi elaborado pelas organiza&ccedil;&otilde;es que comp&otilde;em a Frente Brasil Popular com o objetivo de construir uma alternativa program&aacute;tica, que devolva a normalidade democr&aacute;tica ao pa&iacute;s e caminhe rumo &agrave; supera&ccedil;&atilde;o das crises econ&ocirc;mica, pol&iacute;tica, social e ambiental, garantindo os direitos do povo trabalhador.</p>
@@ -98,3 +98,5 @@ Assista ao v&iacute;deo do lan&ccedil;amento no Tuca, produzido pela Brigada de 
 <p>&nbsp;</p>
 
 <p><em>*Editado por Rafael Soriano</em></p>
+
+<div class="webpki_lacunasoftware_com" id="webpki_lacunasoftware_com" style="display: none;">&nbsp;</div>
