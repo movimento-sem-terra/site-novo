@@ -35,19 +35,19 @@ releated_posts:
 <p><em>Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
-A Cooperativa dos Agricultores Assentados da Regi&atilde;o de Porto Alegre (Cootap) inaugura nesta quinta-feira (1&ordm;) uma feira de alimentos org&acirc;nicos no Praia de Belas Shopping, localizado no bairro Praia de Belas, em Porto Alegre, no Rio Grande do Sul. O objetivo &eacute; propiciar mais qualidade de vida &agrave; popula&ccedil;&atilde;o local e aos visitantes do shopping, por meio da oferta de alimentos saud&aacute;veis.</p>
+A Cooperativa dos Agricultores Assentados da Regi&atilde;o de Porto Alegre (Cootap) inaugura nesta quinta-feira (1&ordm;),&nbsp;uma feira de alimentos org&acirc;nicos no Praia de Belas Shopping, localizado no bairro Praia de Belas, em Porto Alegre, no Rio Grande do Sul. O objetivo &eacute; propiciar mais qualidade de vida &agrave; popula&ccedil;&atilde;o local e aos visitantes do shopping, por meio da oferta de alimentos saud&aacute;veis.</p>
 
 <p><br />
 O ponto de venda de alimentos, todos certificados e produzidos sem o uso de venenos em assentamentos de Eldorado do Sul, Nova Santa Rita e Viam&atilde;o, vai funcionar nas quintas-feiras, das 15 &agrave;s 20 horas, no primeiro piso do edif&iacute;cio-garagem (entrada pela rua Marc&iacute;lio Dias).</p>
 
 <p><br />
-Conforme o agricultor Emerson Giacomelli e presidente da cooperativa, a feira &eacute; mais uma oportunidade que as fam&iacute;lias Sem Terra t&ecirc;m de mostrar &agrave; sociedade a produ&ccedil;&atilde;o dos assentamentos e de refor&ccedil;ar a import&acirc;ncia de ocorrer a reforma agr&aacute;ria no pa&iacute;s.</p>
+Conforme o agricultor Emerson Giacomelli e presidente da cooperativa, a feira &eacute; mais uma oportunidade que as fam&iacute;lias Sem Terra t&ecirc;m de mostrar &agrave; sociedade a produ&ccedil;&atilde;o dos assentamentos e de refor&ccedil;ar a import&acirc;ncia de ocorrer a Reforma Agr&aacute;ria no pa&iacute;s.</p>
 
 <p><br />
 &ldquo;O fato do shopping oferecer esse espa&ccedil;o para a nossa feira deixa claro que a popula&ccedil;&atilde;o quer ter acesso aos alimentos saud&aacute;veis, porque ela est&aacute; mais preocupada com a sua sa&uacute;de e a preserva&ccedil;&atilde;o do meio ambiente. N&oacute;s tamb&eacute;m estamos e queremos contribuir cada vez mais para isto atrav&eacute;s do modelo agroecol&oacute;gico de produ&ccedil;&atilde;o&rdquo;, complementa.&nbsp;</p>
 
 <p><br />
-Entre os alimentos que ser&atilde;o comercializados pela Cootap est&atilde;o hortali&ccedil;as, frutas, arroz, extrato de tomate, geleia de amora e sucos de laranja, uva e amora. O pre&ccedil;o deve variar entre R$ 2 e R$ 15, dependendo do tipo de produto. No local tamb&eacute;m ter&aacute; suco natural de laranja, feito na hora.</p>
+Entre os alimentos que ser&atilde;o comercializados pela Cootap est&atilde;o hortali&ccedil;as, frutas, arroz, extrato de tomate, geleia de amora e sucos de laranja, uva e amora. O pre&ccedil;o deve variar entre R$2,00 e R$15,00 dependendo do tipo de produto. No local tamb&eacute;m ter&aacute; suco natural de laranja, feito na hora.</p>
 
 <p><br />
 <strong>Cootap</strong></p>
