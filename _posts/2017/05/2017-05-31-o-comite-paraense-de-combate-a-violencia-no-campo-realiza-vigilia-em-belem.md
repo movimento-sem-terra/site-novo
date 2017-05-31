@@ -33,7 +33,8 @@ releated_posts:
 <p>&nbsp;</p>
 
 <p><em>Por Setor de Comunica&ccedil;&atilde;o MST/PA<br />
-Da P&aacute;gina do MST</em></p>
+Da P&aacute;gina do MST<br />
+Foto de capa: Itawi Albuquerque</em></p>
 
 <p>&nbsp;</p>
 
