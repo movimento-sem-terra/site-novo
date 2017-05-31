@@ -5,7 +5,7 @@ tags:
   - tag: direitos-humanos
   - tag: violência-no-campo
 images_hd: //farm5.staticflickr.com/4250/35012297235_c0cbf86423_b.jpg
-title: O Comitê Paraense de Combate à Violência no Campo realiza vigília em Belém
+title: Comitê Paraense de Combate à Violência no Campo realiza vigília em Belém
 menu: direitos humanos
 section: cover
 support_line: O evento marca o sétimo dia da chacina de nove trabalhadores e uma trabalhadora rural na Fazenda Santa Lúcia em Pau D´arco.
