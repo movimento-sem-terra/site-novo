@@ -7,16 +7,16 @@ tags:
 title: "Sem direito à terra em vida, massacre e morte indigna \n\n"
 support_line: "Em nota, entidades pastorais denunciam a impunidade e a violência no campo "
 menu: direitos humanos
-images_hd: //farm5.staticflickr.com/4203/35014330395_8cc06af75e_b.jpg
+images_hd: //farm5.staticflickr.com/4274/34203968893_085d968b14_b.jpg
 layout: post
 files:
-  - link: //farm5.staticflickr.com/4203/35014330395_8cc06af75e_b.jpg
-    original: //farm5.staticflickr.com/4203/35014330395_262e8d2c91_o.jpg
-    thumbnail: //farm5.staticflickr.com/4203/35014330395_8cc06af75e_t.jpg
-    medium: //farm5.staticflickr.com/4203/35014330395_8cc06af75e_z.jpg
-    small: //farm5.staticflickr.com/4203/35014330395_8cc06af75e_n.jpg
-    title: carajsyq7.jpg
-    $$hashKey: 0DH
+  - link: //farm5.staticflickr.com/4274/34203968893_085d968b14_b.jpg
+    original: //farm5.staticflickr.com/4274/34203968893_76d788db3d_o.jpg
+    thumbnail: //farm5.staticflickr.com/4274/34203968893_085d968b14_t.jpg
+    medium: //farm5.staticflickr.com/4274/34203968893_085d968b14_z.jpg
+    small: //farm5.staticflickr.com/4274/34203968893_085d968b14_n.jpg
+    title: carajás-720x300.jpg
+    $$hashKey: 0N8
 created_date: "2017-05-31T13:03:49-03:00"
 published: true
 releated_posts:
@@ -45,11 +45,7 @@ O documento frisa o fato de que &quot;exacerba&ccedil;&atilde;o dos conflitos ag
 <p><br />
 As organiza&ccedil;&otilde;es tamb&eacute;m exigem a imediata investiga&ccedil;&atilde;o, apura&ccedil;&atilde;o dos fatos e condena&ccedil;&atilde;o de todos os culpados sem eximir o Estado brasileiro que, segundo o texto: &quot;tem conseguido ultrapassar os limites do desrespeito &agrave; cidadania e aos interesses do povo, numa democracia de fachada, cinismo e desfa&ccedil;atez, que se alimenta de desmandos criminosos impunes&quot;.</p>
 
-<p>&nbsp;
-<p>&nbsp;
 <p>&nbsp;</p>
-</p>
-</p>
 
 <p><strong>Confira a nota na &iacute;ntegra:&nbsp;</strong></p>
 
