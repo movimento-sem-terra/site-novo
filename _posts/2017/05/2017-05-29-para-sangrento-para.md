@@ -8,7 +8,7 @@ title: "Pará, sangrento Pará\n"
 images_hd: //farm5.staticflickr.com/4197/34163163173_77e155d211_b.jpg
 label: articles
 menu: direitos humanos
-support_line: "Mesmo quando não mata, a polícia no Pará deixa matar"
+support_line: "Mesmo quando não mata, a polícia no Pará deixa matar."
 layout: post
 files:
   - link: //farm5.staticflickr.com/4197/34163163173_77e155d211_b.jpg
