@@ -4,7 +4,7 @@ tags:
   - tag: paraná
   - tag: mulheres
   - tag: alimentação-saudável
-title: Mulheres do Paraná por uma alimentação saudável de qualidade
+title: Mulheres do Paraná em defesa da alimentação saudável
 support_line: "Coletivo de trabalhadoras do Assentamento Eli Vive, em Londrina, amplia a produção de alimentos saudáveis para toda a região. "
 images_hd: //farm5.staticflickr.com/4245/34971931216_8110868187_b.jpg
 menu: agricultura camponesa
