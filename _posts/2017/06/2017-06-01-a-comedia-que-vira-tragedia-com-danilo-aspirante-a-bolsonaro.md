@@ -39,6 +39,7 @@ created_date: "2017-06-01T11:25:59-03:00"
 published: true
 releated_posts: []
 label: articles
+section: featured-news
 
 ---
 <p>&nbsp;</p>
