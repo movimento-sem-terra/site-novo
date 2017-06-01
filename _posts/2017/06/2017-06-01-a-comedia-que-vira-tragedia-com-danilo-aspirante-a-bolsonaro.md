@@ -36,7 +36,7 @@ files:
     title: 87c6a7e9-fa85-47c3-885e-00f805cfe2d1.jpeg
     $$hashKey: 05W
 created_date: "2017-06-01T11:25:59-03:00"
-published: false
+published: true
 releated_posts: []
 label: articles
 
