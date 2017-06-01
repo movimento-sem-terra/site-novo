@@ -3,7 +3,7 @@ date: "2017-06-01T18:10:46-03:00"
 tags:
   - tag: juventude
   - tag: acampamento-da-juventude
-title: III Acampamento da Juventude da Via Campesina em Rondônia
+title: Rondônia recebe o III Acampamento da Juventude da Via Campesina
 support_line: "Atividade acontece entre os dias 2 e 5 de junho e reunirá cerca de 150 jovens de todo o estado. "
 menu: lutas e mobilizações
 images_hd: //farm5.staticflickr.com/4250/34907173101_21abd3e628_b.jpg
@@ -67,5 +67,7 @@ Francisco Kelvim - MAB (69 99923-0179)</p>
 <p>&nbsp;</p>
 
 <p><em>*Editada por Leonardo Fernandes</em></p>
+
+<div class="webpki_lacunasoftware_com" id="webpki_lacunasoftware_com" style="display: none;">&nbsp;</div>
 
 <div class="webpki_lacunasoftware_com" id="webpki_lacunasoftware_com" style="display: none;">&nbsp;</div>
