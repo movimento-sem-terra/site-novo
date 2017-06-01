@@ -4,7 +4,7 @@ tags: []
 images_hd: //farm5.staticflickr.com/4200/34222017593_ed5bfd6bfb_b.jpg
 title: A comédia que vira tragédia com Danilo aspirante à Bolsonaro
 menu: direitos humanos
-support_line: Quem teve a oportunidade de assistir as demonstrações de machismo e autoritarismo do comediante Danilo Gentilli
+support_line: "Mulheres do MST presta solidariedade à deputada Maria do Rosário, que foi alvo de discurso de ódio do humorista televisivo Danilo Gentili, em vídeo publicado no Facebook."
 layout: post
 files:
   - link: //farm5.staticflickr.com/4270/34900532381_918b52f335_b.jpg
@@ -38,10 +38,9 @@ files:
 created_date: "2017-06-01T11:25:59-03:00"
 published: false
 releated_posts: []
+label: articles
 
 ---
-<p>&nbsp;</p>
-
 <p>&nbsp;</p>
 
 <p><em>Por Setor de G&ecirc;nero do MST<br />
