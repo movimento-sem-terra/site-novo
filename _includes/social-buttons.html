@@ -6,7 +6,7 @@
   {% endif %}
 
   {% if picture %}
-  	<a href="//www.facebook.com/dialog/share?app_id={{ site.facebook }}&display=popup&href={{ include.article.url | prepend: site.url | uri_escape }}&redirect_uri={{ site.url | uri_escape }}&picture={{ picture | uri_escape }}&name={{ include.article.title | xml_escape }}&description={{ include.article.support_line | truncate: 150 | xml_escape }}&link={{ include.article.url | prepend: site.url | uri_escape }}" target="_blank"><img src="{{site.url}}/assets/img/facebook.png" title="Facebook"  alt="Compartilhar no Facebook"></a>
+  	<a href="//www.facebook.com/dialog/feed?app_id={{ site.facebook }}&display=popup&href={{ include.article.url | prepend: site.url | uri_escape }}&redirect_uri={{ site.url | uri_escape }}&picture=http:{{ picture | uri_escape }}&name={{ include.article.title | xml_escape }}&description={{ include.article.support_line | truncate: 150 | xml_escape }}&link={{ include.article.url | prepend: site.url | uri_escape }}" target="_blank"><img src="{{site.url}}/assets/img/facebook.png" title="Facebook"  alt="Compartilhar no Facebook"></a>
 
     <a target="_blank"
       href="//www.twitter.com/share?url={{ include.article.url | prepend: site.url | uri_escape }}&via=MST_Oficial&related=MST_Oficial&text={{ include.article.title | xml_escape }}"
