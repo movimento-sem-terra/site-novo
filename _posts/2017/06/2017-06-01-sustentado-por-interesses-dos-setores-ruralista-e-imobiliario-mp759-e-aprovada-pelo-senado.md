@@ -100,81 +100,7 @@ Al&eacute;m de conter um conjunto de princ&iacute;pios que atendem somente a int
 <p>&nbsp;</p>
 
 <figure class="image"><img alt="O presidente da Câmara, Eunicio de Oliveira, e o relator da MP na Comissão Mista, Romero Jucá durante sessão. Foto Jonas Pereira. Agência Senado.jpg" height="465" src="//farm5.staticflickr.com/4225/34195382644_4432284dc2_b.jpg" width="700" />
-<figcaption>O presidenE-mail de verifica&ccedil;&atilde;o de erros para pagina@mst.org.br.&nbsp;&nbsp;Detalhes&nbsp;&nbsp;Dispensar<br />
-4 de 3.629<br />
-&nbsp;<br />
-Mat&eacute;ria MP aprovada<br />
-Entradax<br />
-Lizely Roberta Borges17:45 (H&aacute; 58 minutos)<br />
-para P&aacute;gina, Ed, Iris, mim<br />
-Ol&aacute; pessoal<br />
-<br />
-Segue mat&eacute;ria - custei a receber uma aspas do procurador do MS, mas veio.<br />
-<br />
-Selecionei duas fotos - j&aacute; com sugestao de legenda e com os creditos. ATEN&Ccedil;&Atilde;O AOS CREDITOS.<br />
-<br />
-Um abra&ccedil;o<br />
-<br />
-Liz<br />
-<br />
-<br />
-<strong>Sustentado por interesses dos setores ruralista e imobili&aacute;rio, MP 759 &eacute; aprovada pelo Senado </strong><br />
-<em>Medida &eacute; apontada pelos movimentos como inconstitucional ao desobrigar o Estado a desenvolver pol&iacute;ticas p&uacute;blicas junto &agrave; reforma agr&aacute;ria</em><br />
-&nbsp;<br />
-*Lizely Borges<br />
-<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Na noite desta quarta-feira (31) o plen&aacute;rio do Senado aprovou por 47 votos favor&aacute;veis a 12 contr&aacute;rios o Projeto de Lei de Convers&atilde;o 12/16 (anterior MP 759) que estabelece novas diretrizes legais sobre a regulariza&ccedil;&atilde;o de terras urbanas e rurais no pa&iacute;s. De autoria do presidente Michel Temer (PMDB) e publicada na antev&eacute;spera de natal do &uacute;ltimo ano, a vota&ccedil;&atilde;o da mat&eacute;ria pelo Senado evidencia a desigual correla&ccedil;&atilde;o de for&ccedil;as entre defensores de uma reforma agr&aacute;ria ampla e popular e expoentes do agroneg&oacute;cio.<br />
-<br />
-Bancada majorit&aacute;ria no Congresso, os parlamentares do agroneg&oacute;cio articularam, na vota&ccedil;&atilde;o de ontem, a ades&atilde;o &agrave; medida pos senadores de oito legendas (PSDB, DEM, PP, PR, PDT, PTB, PRB e PSB). Nos corredores do parlamento era conhecido o cen&aacute;rio favor&aacute;vel &agrave; aprova&ccedil;&atilde;o da PLV. Dos 81 senadores, 32 possuem estreitos v&iacute;nculos com interesses do agroneg&oacute;cio, segundo a Ag&ecirc;ncia A P&uacute;blica.<br />
-<br />
-<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Com exce&ccedil;&atilde;o das a&ccedil;&otilde;es de resist&ecirc;ncia por parlamentares do PT, do PSB, do PCdoB, PSOL e da Rede nas duas casas legislativas, a medida defendida pela Frente Parlamentar da Agropecu&aacute;ria (FPA) circulou com relativa facilidade pela Comiss&atilde;o Mista composta por senadores e deputados federais, C&acirc;mara e Senado e agora segue para san&ccedil;&atilde;o presidencial, &agrave; revelia da oposi&ccedil;&atilde;o de movimentos populares, organiza&ccedil;&otilde;es e &oacute;rg&atilde;os como o Conselho Nacional dos Direitos Humanos (CNDH) e Procuradoria Federal dos Direitos do Cidad&atilde;o (PFDC) do Minist&eacute;rio P&uacute;blico Federal, que manifestaram oposi&ccedil;&atilde;o p&uacute;blica &agrave; mat&eacute;ria e recomendaram sua retirada de pauta.<br />
-&nbsp;<br />
-<strong>Retrocessos</strong><br />
-Na avalia&ccedil;&atilde;o do presidente da Associa&ccedil;&atilde;o Brasileira de Reforma Agr&aacute;ria (ABRA), Gerson Teixeira, o texto encaminhado &agrave; san&ccedil;&atilde;o presidencial evidencia uma pol&iacute;tica de governo que quer, numa s&oacute; canetada, &ldquo;se livrar dos assentados e das terras p&uacute;blicas da Uni&atilde;o&rdquo;.<br />
-<br />
-Ele aponta que a normativa cria em seus dispositivos um contexto de vulnerabilidade ao assentado que, a curto prazo, pode significar na venda das terras aos grandes propriet&aacute;rios. Isto porque a Medida estabelece que o prazo limite para emancipar uma fam&iacute;lia passa a ser de 15 anos para a fam&iacute;lia que ser&aacute; assentada e tr&ecirc;s para aquela que j&aacute; est&aacute; na terra. Para Teixeira, o problema n&atilde;o est&aacute; no prazo limite de emancipa&ccedil;&atilde;o, mas na aus&ecirc;ncia de men&ccedil;&atilde;o no texto &agrave;s obriga&ccedil;&otilde;es do Estado, como prev&ecirc; o Artigo 188 da Constitui&ccedil;&atilde;o Federal. Pela lei constitucional, &ldquo;a destina&ccedil;&atilde;o de terras p&uacute;blicas e devolutas ser&aacute; compatibilizada com a pol&iacute;tica agr&iacute;cola e com o Plano Nacional de Reforma Agr&aacute;ria&rdquo;. O texto do PLV n&atilde;o faz men&ccedil;&atilde;o &agrave;s pol&iacute;ticas que devem acompanhar a emancipa&ccedil;&atilde;o do assentado, como infraestrutura, credito ou educa&ccedil;&atilde;o.<br />
-<br />
-<br />
-Outros dois dispositivos que evidenciam, segundo Gerson, a emancipa&ccedil;&atilde;o massiva &eacute; a antecipa&ccedil;&atilde;o da possibilidade de venda da terra pelo assentado, contando 10 anos a partir da chegada da fam&iacute;lia no lote, e a impossibilidade de escolha do t&iacute;tulo definitivo pelo assentado.<br />
-<br />
-<br />
-Defendido pelo Movimento dos Trabalhadores Rurais Sem Terra (MST), o t&iacute;tulo de concess&atilde;o real do uso da terra, ou seja, uso da terra sem posse de t&iacute;tulo, passa a n&atilde;o ser mais uma op&ccedil;&atilde;o ao assentado. A ele &eacute; possibilitado apenas o t&iacute;tulo de posse. Em contexto de fragilidade dos assentamentos, muitos deles sem &aacute;gua e luz, por exemplo, o agricultor fica vulner&aacute;vel &agrave; venda da terra ao mercado especulativo.<br />
-<br />
-<br />
-&ldquo;A maior parte dos assentamentos tem condi&ccedil;&otilde;es prec&aacute;rias. N&atilde;o tem cr&eacute;dito, n&atilde;o tem infraestrutura. Tem assentamento de 20 anos que n&atilde;o tem nenhum po&ccedil;o de &aacute;gua. Ao emancipar uma pessoa na condi&ccedil;&atilde;o que est&aacute;, sem ter condi&ccedil;&otilde;es de produzir, ela vai vender a terra&rdquo;, aponta Gerson. &ldquo;No fundo h&aacute; uma demanda dos ruralistas que querem os 80 milh&otilde;es de hectares de terras p&uacute;blicas da reforma agr&aacute;ria. Ao antecipar e acelerar massivamente a emancipa&ccedil;&atilde;o dos assentamentos, a maior parte prec&aacute;rios, gera o que o agroneg&oacute;cio quer &ndash; terras a venda&rdquo;, complementa.<br />
-<br />
-Outro dispositivo presente na norma que possibilita a reconcentra&ccedil;&atilde;o fundi&aacute;ria &eacute; a possibilidade de regulariza&ccedil;&atilde;o fundi&aacute;ria de megalatif&uacute;ndios. Nas normativas anteriores, o limite de &aacute;rea de terra p&uacute;blica regularizada era de 1,5 mil hectares na Amaz&ocirc;nia Legal, grande extens&atilde;o de terra dado o contexto da regi&atilde;o. Pelo novo texto, &aacute;reas de at&eacute; 2,5 mil hectares, em qualquer regi&atilde;o do pa&iacute;s, est&atilde;o inclu&iacute;das na pol&iacute;tica de regulariza&ccedil;&atilde;o. &ldquo;1,5 mil hectares fora da Amaz&ocirc;nia j&aacute; seria um absurdo de &aacute;rea, imagine 2,5 mil hectares&rdquo;, destaca Gerson.<br />
-<br />
-O integrante da coordena&ccedil;&atilde;o nacional do MST, Alexandre Concei&ccedil;&atilde;o, manifesta preocupa&ccedil;&atilde;o com o processo de sele&ccedil;&atilde;o das fam&iacute;lias acampadas. Pelo dispositivo, a escolha ser&aacute; feita por edital p&uacute;blico, com forte participa&ccedil;&atilde;o direta dos munic&iacute;pios. Para ele as rela&ccedil;&otilde;es de compadrio e coronelismo nos munic&iacute;pios devem influenciar fortemente na escolha dos assentados, destituindo a reforma agr&aacute;ria do seu car&aacute;ter inclusivo e pol&iacute;tico. &ldquo;A reforma agr&aacute;ria &eacute; um tema nacional e dever da federa&ccedil;&atilde;o, e agora passa para a responsabilidade de sele&ccedil;&atilde;o pelos munic&iacute;pios. Isso implica que muitos acampados devem perder o direito de ser assentado j&aacute; que a sele&ccedil;&atilde;o desconsidera aquele que luta pela terra&rdquo;, diz.<br />
-<br />
-Alexandre complementa que deve ocorrer um desvio de inten&ccedil;&atilde;o na realiza&ccedil;&atilde;o da reforma agr&aacute;ria. &ldquo;Nosso entendimento que &eacute; de direito &agrave; terra por aquele que busca a terra, que se organiza, que identifica o latif&uacute;ndio improdutivo e a terra que n&atilde;o cumpre sua fun&ccedil;&atilde;o social. &Eacute; de direito para aquele que produz alimentos e luta pela terra como meio de sobreviv&ecirc;ncia e justi&ccedil;a social, e n&atilde;o para outros interesses&rdquo;, diz em refer&ecirc;ncia &agrave;s 130 mil fam&iacute;lias acampadas pelo pa&iacute;s &agrave; espera de terra.<br />
-&nbsp;<br />
-<strong>Inconstitucionalidade</strong><br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Al&eacute;m de conter um conjunto de princ&iacute;pios de atendimento &agrave; interesses dos setores econ&ocirc;micos em detrimento da destina&ccedil;&atilde;o de terras para popula&ccedil;&atilde;o de menor rendimento, como orienta uma reforma agr&aacute;ria popular, os oposicionistas &agrave; mat&eacute;ria apontam que o PLV apresenta elementos de inconstitucionalidade.<br />
-<br />
-<br />
-Para o procurador da Rep&uacute;blica do Minist&eacute;rio P&uacute;blico Federal (MPF-MS), estes elementos est&atilde;o expressos na &ldquo;aus&ecirc;ncia dos requisitos constitucionais de urg&ecirc;ncia e relev&acirc;ncia [princ&iacute;pios na emiss&atilde;o de uma MP], utiliza&ccedil;&atilde;o de medida provis&oacute;ria para regular mat&eacute;ria reservada a lei complementar, &nbsp;a indeniza&ccedil;&atilde;o em dinheiro, e n&atilde;o em t&iacute;tulos da d&iacute;vida agr&aacute;ria&nbsp; em caso de desapropria&ccedil;&atilde;o para reforma agr&aacute;ria, destina&ccedil;&atilde;o de terras p&uacute;blicas em desacordo com a Pol&iacute;tica Nacional de Reforma Agr&aacute;ria, uma vez que as medidas acarretar&atilde;o a concentra&ccedil;&atilde;o fundi&aacute;ria&rdquo;, diz. &nbsp;O procurador foi uma das poucas vozes dissonantes ouvidas no reduzido n&uacute;mero de audi&ecirc;ncias p&uacute;blicas realizados pela Comiss&atilde;o Mista.<br />
-<br />
-<br />
-Gerson tamb&eacute;m destaca o ferimento &agrave; Lei de Responsabilidade Fiscal (LRF) na medida em que a nova norma estabelece valores abaixo de mercado para as terras p&uacute;blicas. Desta forma, o Estado brasileiro que sofre com a conten&ccedil;&atilde;o dos recursos p&uacute;blicos renuncia ao incremento da receita p&uacute;blica &ldquo;O pre&ccedil;o abaixo de mercado significa uma ren&uacute;ncia da receita&rdquo;, diz em refer&ecirc;ncia ao pre&ccedil;o final pago pelo Incra entre 10% a 50% do valor da terra nua, ou seja, o valor do im&oacute;vel rural sem nenhum investimento relacionado &agrave; atividade rural.<br />
-&nbsp;<br />
-<strong>Convuls&atilde;o no campo</strong><br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Na avalia&ccedil;&atilde;o dos movimentos, &oacute;rg&atilde;os de defesa da reforma agr&aacute;ria e dos direitos do cidad&atilde;o, a disponibiliza&ccedil;&atilde;o das terras p&uacute;blicas para o mercado deve gerar um ambiente progressivo de convuls&atilde;o social no campo. &ldquo;&Eacute; importante apontar que a possibilidade de regulariza&ccedil;&atilde;o de &aacute;reas a pre&ccedil;os &iacute;nfimos, especialmente de grandes propriedades rurais, acarretar&aacute; o incremento do desmatamento e da viol&ecirc;ncia do campo. Os casos recentes de viol&ecirc;ncia no MT, MA e PA apenas confirmam esta afirma&ccedil;&atilde;o&rdquo;, recorda o procurador.<br />
-<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A opini&atilde;o &eacute; compartilhada pela procuradora dos Direitos do Cidad&atilde;o da Procuradoria-Geral da Rep&uacute;blica (PFDC), Deborah Duprat que, com preocupa&ccedil;&atilde;o, lista os graves massacres recentes de Colniza (MT), Pau D&acute;Arco (PA) e contra os povos Gamela (MA). &ldquo;Em meio aos protestos foi aprovada o 759 que, entre in&uacute;meras inconstitucionalidades, transfere para dom&iacute;nio privado um estoque enorme de terras p&uacute;blicas. Com isso, v&aacute;rias pol&iacute;ticas que demandam a garantia de terras para povos, meio ambiente e unidades de conserva&ccedil;&atilde;o v&atilde;o ficar complemente comprometidas. Temos que nos preparar para um cen&aacute;rio no campo que, por fal&ecirc;ncia das pol&iacute;ticas de estado, a viol&ecirc;ncia deve crescer exponencialmente&rdquo; manifesta.<br />
-2 anexos<br />
-Clique aqui para selecionar uma destas op&ccedil;&otilde;es: &quot;Responder&quot;, &quot;Responder a todos&quot; ou &quot;Encaminhar&quot;<br />
-12,53 GB (83%) de 15 GB usados<br />
-<a href="https://www.google.com/settings/u/1/storage?hl=pt-BR">Gerenciar</a><br />
-<a href="https://www.google.com/intl/pt-BR/policies/terms/">Termos de Servi&ccedil;o</a> - <a href="https://www.google.com/intl/pt-BR/policies/privacy/">Privacidade</a><br />
-&Uacute;ltima atividade da conta: H&aacute; 0 minutos<br />
-Aberta em um outro local &nbsp;DetalhesMais 1<br />
-Lizely Roberta Borges<br />
-lizelyborges@gmail.com<br />
-Fotos recentes<br />
-Mostrar detalhes<br />
-O presidente da C&acirc;mara, Eunicio de Ol ... oto Jonas Pereira</figcaption>
+<figcaption></figcaption>
 </figure>
 
 <p>Para o procurador da Rep&uacute;blica do Minist&eacute;rio P&uacute;blico Federal (MPF-MS), estes elementos est&atilde;o expressos na &ldquo;aus&ecirc;ncia dos requisitos constitucionais de urg&ecirc;ncia e relev&acirc;ncia [princ&iacute;pios na emiss&atilde;o de uma MP], utiliza&ccedil;&atilde;o de medida provis&oacute;ria para regular mat&eacute;ria reservada a lei complementar,&nbsp; a indeniza&ccedil;&atilde;o em dinheiro, e n&atilde;o em t&iacute;tulos da d&iacute;vida agr&aacute;ria em caso de desapropria&ccedil;&atilde;o para Reforma Agr&aacute;ria, destina&ccedil;&atilde;o de terras p&uacute;blicas em desacordo com a Pol&iacute;tica Nacional de Reforma Agr&aacute;ria, uma vez que as medidas acarretar&atilde;o a concentra&ccedil;&atilde;o fundi&aacute;ria&rdquo;.&nbsp; O procurador foi uma das poucas vozes dissonantes ouvidas no reduzido n&uacute;mero de audi&ecirc;ncias p&uacute;blicas realizados pela Comiss&atilde;o Mista.</p>
@@ -194,5 +120,7 @@ A opini&atilde;o &eacute; compartilhada pela procuradora dos Direitos do Cidad&a
 <p>&nbsp;</p>
 
 <p><em>*Editado por Leonardo Fernandes</em></p>
+
+<div class="webpki_lacunasoftware_com" id="webpki_lacunasoftware_com" style="display: none;">&nbsp;</div>
 
 <div class="webpki_lacunasoftware_com" id="webpki_lacunasoftware_com" style="display: none;">&nbsp;</div>
