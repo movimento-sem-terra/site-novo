@@ -4,7 +4,7 @@ tags:
   - tag: latifundio
   - tag: agronegócio
   - tag: bancada-ruralista
-title: "Sustentado por interesses dos setores ruralista e imobiliário, MP759 é aprovada pelo Senado"
+title: "Sustentada por interesses dos setores ruralista e imobiliário, MP759 é aprovada pelo Senado"
 support_line: "Medida é apontada pelos movimentos como inconstitucional, por desobrigar o estado a desenvolver políticas públicas de Reforma Agrária."
 images_hd: //farm5.staticflickr.com/4221/34195369694_904262d7f5_b.jpg
 menu: reforma agrária
