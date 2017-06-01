@@ -40,23 +40,32 @@ releated_posts:
 <p>Atentos &agrave; grave situa&ccedil;&atilde;o de instabilidade pol&iacute;tica e econ&ocirc;mica que vive o pa&iacute;s, o grupo de amigos do Brasil convocou um ato de solidariedade para esta quinta-feira (1), em frente &agrave; Embaixada brasileira em Washington, capital dos Estados Unidos.</p>
 
 <p><br />
-Al&eacute;m de pedir o Fora Temer, o grupo entregar&aacute; &agrave;s autoridades brasileiras uma carta, denunciando a violenta repress&atilde;o contra as manifesta&ccedil;&otilde;es no Brasil. Leia abaixo a convocat&oacute;ria para o ato:</p>
+Al&eacute;m de pedir o Fora Temer, o grupo entregar&aacute; &agrave;s autoridades brasileiras uma carta, denunciando a violenta repress&atilde;o contra as manifesta&ccedil;&otilde;es no Brasil.</p>
 
 <p><br />
-<em>Os amigos do Brasil realizar&atilde;o uma manifesta&ccedil;&atilde;o solid&aacute;ria com os movimentos sociais no Brasil que inundaram as ruas brasileiras para protestar contra o governo corrupto e ilegal de Temer. Eles tamb&eacute;m denunciam a repress&atilde;o violenta do governo aos protestos e aos movimentos sociais, particularmente o Movimento Sem Terra (MST). Eles ir&atilde;o fazer eco ao chamado dos sindicatos e dos movimentos sociais do pa&iacute;s que est&atilde;o gritando&nbsp; &quot;Fora Temer&quot;.</em></p>
+<strong>Leia abaixo a convocat&oacute;ria para o ato:</strong></p>
 
 <p><br />
-<em>De acordo com os expatriados brasileiros para a democracia e a justi&ccedil;a social: &quot;Desde que um golpe parlamentar expulsou a presidente Dilma Rousseff, o Brasil passou por uma deteriora&ccedil;&atilde;o das institui&ccedil;&otilde;es democr&aacute;ticas onde os movimentos sociais foram cada vez mais criminalizados e os trabalhadores est&atilde;o perdendo os direitos constitucionais&quot;.</em></p>
+Os amigos do Brasil realizar&atilde;o uma manifesta&ccedil;&atilde;o solid&aacute;ria com os movimentos sociais no Brasil que inundaram as ruas brasileiras para protestar contra o governo corrupto e ilegal de Temer. Eles tamb&eacute;m denunciam a repress&atilde;o violenta do governo aos protestos e aos movimentos sociais, particularmente o Movimento Sem Terra (MST). Eles ir&atilde;o fazer eco ao chamado dos sindicatos e dos movimentos sociais do pa&iacute;s que est&atilde;o gritando&nbsp; &quot;Fora Temer&quot;.</p>
 
 <p><br />
-<em>O grupo enviar&aacute; uma carta &agrave; embaixada brasileira denunciando a violenta repress&atilde;o. O protesto tamb&eacute;m incluir&aacute; discursos, artes visuais e m&uacute;sica de Luci Murphy e Patricio Zamorano.</em></p>
+De acordo com os expatriados brasileiros para a democracia e a justi&ccedil;a social: &quot;Desde que um golpe parlamentar expulsou a presidente Dilma Rousseff, o Brasil passou por uma deteriora&ccedil;&atilde;o das institui&ccedil;&otilde;es democr&aacute;ticas onde os movimentos sociais foram cada vez mais criminalizados e os trabalhadores est&atilde;o perdendo os direitos constitucionais&quot;.</p>
 
 <p><br />
-<em>O evento &eacute; patrocinado pelo CODEPINK para a Paz, Amigos do MST, Expatriados Brasileiros pela Democracia e Justi&ccedil;a Social e LACAN (Rede de A&ccedil;&atilde;o da Am&eacute;rica Latina e Caribe) e a Coaliz&atilde;o ANSWER.</em></p>
+O grupo enviar&aacute; uma carta &agrave; embaixada brasileira denunciando a violenta repress&atilde;o. O protesto tamb&eacute;m incluir&aacute; discursos, artes visuais e m&uacute;sica de Luci Murphy e Patricio Zamorano.</p>
 
 <p><br />
-<em><strong>Servi&ccedil;o:</strong><br />
+O evento &eacute; patrocinado pelo CODEPINK para a Paz, Amigos do MST, Expatriados Brasileiros pela Democracia e Justi&ccedil;a Social e LACAN (Rede de A&ccedil;&atilde;o da Am&eacute;rica Latina e Caribe) e a Coaliz&atilde;o ANSWER.</p>
+
+<p><br />
+<strong>Servi&ccedil;o:</strong><br />
 Quando: 5h, quinta-feira, 1 de junho<br />
-Onde: Embaixada do Brasil, 3006 Massachusetts Ave NW, Washington DC</em></p>
+Onde: Embaixada do Brasil, 3006 Massachusetts Ave NW, Washington DC</p>
+
+<p>&nbsp;</p>
+
+<p><em>*Editado por Leonardo Fernandes</em></p>
+
+<div class="webpki_lacunasoftware_com" id="webpki_lacunasoftware_com" style="display: none;">&nbsp;</div>
 
 <div class="webpki_lacunasoftware_com" id="webpki_lacunasoftware_com" style="display: none;">&nbsp;</div>
