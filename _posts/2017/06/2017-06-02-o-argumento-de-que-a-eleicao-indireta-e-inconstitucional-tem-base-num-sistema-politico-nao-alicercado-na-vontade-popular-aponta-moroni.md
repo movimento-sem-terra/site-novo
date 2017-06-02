@@ -5,7 +5,7 @@ tags:
   - tag: "diretas-já!"
 title: "“O argumento de eleições indiretas tem base conservadora”, afirma Moroni"
 images_hd: //farm5.staticflickr.com/4217/34239443053_cbae39ceeb_b.jpg
-support_line: "Membro do Inesc aponta que o Brasil tem uma tradição em desrespeitar o voto popular e defende a quebra de rupturas políticas. "
+support_line: "Membro do Inesc aponta que o Brasil tem uma tradição em desrespeitar o voto popular e defende a ruptura política. "
 menu: projeto popular
 label: interviews
 layout: post
