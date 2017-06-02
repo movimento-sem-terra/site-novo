@@ -41,7 +41,7 @@
     {% endif %}
   {% if include.show_time %}
     <time datetime="{{ post.date }}">
-        {{ post.date | pretty_date }}
+        {{ post.date | date_to_rfc822 }}
     </time>
   {% endif %}
   <h1>
