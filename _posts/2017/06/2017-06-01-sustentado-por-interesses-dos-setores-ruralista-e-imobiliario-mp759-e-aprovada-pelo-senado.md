@@ -43,7 +43,9 @@ releated_posts:
   - _posts/2017/04/2017-04-11-o-uso-de-agrotoxicos-na-producao-de-alimentos-e-a-expressao-do-avanco-do-modelo-capitalista-no-campo.md
 
 ---
-<p><img alt="Senado aprova com facilidade a MP que trata da regularização fundiária no campo e cidade. Foto Marcos Oliveira. Agência Senado.jpg" height="466" src="//farm5.staticflickr.com/4221/34195369694_904262d7f5_b.jpg" width="700" /></p>
+<figure class="image"><img alt="Senado aprova com facilidade a MP que trata da regularização fundiária no campo e cidade. Foto Marcos Oliveira. Agência Senado.jpg" height="466" src="//farm5.staticflickr.com/4221/34195369694_904262d7f5_b.jpg" width="700" />
+<figcaption><em>Senado aprova com facilidade a MP que trata da regulariza&ccedil;&atilde;o fundi&aacute;ria no campo e cidade. Foto Marcos Oliveira. Ag&ecirc;ncia Senado</em></figcaption>
+</figure>
 
 <p>&nbsp;</p>
 
@@ -100,7 +102,7 @@ Al&eacute;m de conter um conjunto de princ&iacute;pios que atendem somente a int
 <p>&nbsp;</p>
 
 <figure class="image"><img alt="O presidente da Câmara, Eunicio de Oliveira, e o relator da MP na Comissão Mista, Romero Jucá durante sessão. Foto Jonas Pereira. Agência Senado.jpg" height="465" src="//farm5.staticflickr.com/4225/34195382644_4432284dc2_b.jpg" width="700" />
-<figcaption></figcaption>
+<figcaption><em>O presidente da C&acirc;mara, Eunicio de Oliveira, e o relator da MP na Comiss&atilde;o Mista, Romero Juc&aacute; durante sess&atilde;o. Foto Jonas Pereira. Ag&ecirc;ncia Senado</em></figcaption>
 </figure>
 
 <p>Para o procurador da Rep&uacute;blica do Minist&eacute;rio P&uacute;blico Federal (MPF-MS), estes elementos est&atilde;o expressos na &ldquo;aus&ecirc;ncia dos requisitos constitucionais de urg&ecirc;ncia e relev&acirc;ncia [princ&iacute;pios na emiss&atilde;o de uma MP], utiliza&ccedil;&atilde;o de medida provis&oacute;ria para regular mat&eacute;ria reservada a lei complementar,&nbsp; a indeniza&ccedil;&atilde;o em dinheiro, e n&atilde;o em t&iacute;tulos da d&iacute;vida agr&aacute;ria em caso de desapropria&ccedil;&atilde;o para Reforma Agr&aacute;ria, destina&ccedil;&atilde;o de terras p&uacute;blicas em desacordo com a Pol&iacute;tica Nacional de Reforma Agr&aacute;ria, uma vez que as medidas acarretar&atilde;o a concentra&ccedil;&atilde;o fundi&aacute;ria&rdquo;.&nbsp; O procurador foi uma das poucas vozes dissonantes ouvidas no reduzido n&uacute;mero de audi&ecirc;ncias p&uacute;blicas realizados pela Comiss&atilde;o Mista.</p>
