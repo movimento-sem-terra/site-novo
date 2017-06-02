@@ -3,7 +3,7 @@ date: "2017-06-02T09:38:18-03:00"
 tags:
   - tag: entrevista
   - tag: "diretas-já!"
-title: "“As eleições diretas resgatam o princípio básico de que todo o poder emana do povo”, afirma Moroni"
+title: "“O argumento de eleições indiretas tem base conservadora”, afirma Moroni"
 images_hd: //farm5.staticflickr.com/4217/34239443053_cbae39ceeb_b.jpg
 support_line: "Membro do Inesc aponta que o Brasil tem uma tradição em desrespeitar o voto popular e defende a quebra de rupturas políticas. "
 menu: projeto popular
