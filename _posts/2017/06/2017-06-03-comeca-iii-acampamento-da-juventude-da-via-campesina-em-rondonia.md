@@ -4,7 +4,7 @@ tags:
   - tag: acampamento-da-juventude
   - tag: rondônia
   - tag: juventude
-title: Começa III Acampamento da Juventude da Via Campesina em Rondônia
+title: Começa o III Acampamento da Juventude da Via Campesina em Rondônia
 support_line: "Mais de 150 jovens camponeses, Sem Terra, indígenas e atingidos por barragem se reúnem por quatro dias na cidade de Ouro Preto. "
 menu: lutas e mobilizações
 images_hd: //farm5.staticflickr.com/4197/34914936042_4b206e91b1_b.jpg
