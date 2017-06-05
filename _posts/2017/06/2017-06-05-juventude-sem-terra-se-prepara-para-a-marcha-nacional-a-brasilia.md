@@ -3,8 +3,8 @@ date: "2017-06-05T14:52:30-03:00"
 tags:
   - tag: juventude
   - tag: nordeste
-title: Juventude Sem Terra se prepara para a Marcha Nacional à Brasília
-support_line: "Turma do curso de juventude, comunicação e cultura da região nordeste, começa processo de mobilização de jovens para atividade marcada para o mês de agosto. "
+title: "Concluída 2ª Turma de Formação dos Coletivos de Juventude, Comunicação e Cultura do Nordeste"
+support_line: "Curso, realizado no Centro de Formação Paulo Freire, em Caruaru, Pernambuco, contribui para a movilização e formação da juventude Sem Terra. "
 menu: "educação, cultura e comunicação"
 images_hd: //farm5.staticflickr.com/4259/35079935866_b56db8c97a_b.jpg
 layout: post
@@ -24,7 +24,7 @@ files:
     title: WP_20170527_003.jpg
     $$hashKey: 04S
 created_date: "2017-06-05T15:19:25-03:00"
-published: false
+published: true
 releated_posts:
   - _posts/2017/05/2017-05-03-acampamento-da-juventude-do-campo-e-da-cidade-acontece-em-belem.md
   - _posts/2017/04/2017-04-17-jovens-sem-terra-se-reunem-na-curva-do-s-para-homenagear-as-vitimas-de-carajas.md
@@ -40,13 +40,13 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p>Envolvidos pela m&iacute;stica do processo de constru&ccedil;&atilde;o da Marcha Nacional do MST, entre os dias 27 e 31 de maio, ocorreu no Centro de Forma&ccedil;&atilde;o Paulo Freire, em Caruaru - Pernambuco, a II Turma de Forma&ccedil;&atilde;o dos Coletivos de Juventude, Comunica&ccedil;&atilde;o e Cultura do Nordeste (JCC - NE).</p>
+<p>Entre os dias 27 e 31 de maio, foi realizada no Centro de Forma&ccedil;&atilde;o Paulo Freire, em Caruaru - Pernambuco, a II Turma de Forma&ccedil;&atilde;o dos Coletivos de Juventude, Comunica&ccedil;&atilde;o e Cultura do Nordeste (JCC - NE).</p>
 
 <p><br />
 A turma contou a participa&ccedil;&atilde;o de cerca 30 jovens, representando todos os estados do nordeste, e teve como objetivo tra&ccedil;ar estrat&eacute;gias coletivas a partir das artes, da comunica&ccedil;&atilde;o popular e da cultura Sem Terra, construir um processo de enraizamento e fortalecimento do trabalho de base nos territ&oacute;rios do nordeste, bem como forjar militantes e dirigentes jovens capazes de assumir os desafios da constru&ccedil;&atilde;o da Reforma Agr&aacute;ria Popular e o enfrentamento aos desafios colocados pela conjuntura brasileira.</p>
 
 <p><br />
-Esse curso acontece em tr&ecirc;s etapas que permeiam as concep&ccedil;&otilde;es de &ldquo;tempo forma&ccedil;&atilde;o te&oacute;rico-pr&aacute;tica&rdquo; e &ldquo;tempo comunidade&rdquo;, em que a turma volta para os estados para aprofundar os estudos com as leituras e pr&aacute;ticas das linguagens, vinculados a organiza&ccedil;&atilde;o pol&iacute;tica dos coletivos nos territ&oacute;rios.</p>
+O curso acontece em tr&ecirc;s etapas que permeiam as concep&ccedil;&otilde;es de &ldquo;tempo forma&ccedil;&atilde;o te&oacute;rico-pr&aacute;tica&rdquo; e &ldquo;tempo comunidade&rdquo;, em que a turma volta para os estados para aprofundar os estudos com as leituras e pr&aacute;ticas das linguagens, vinculados a organiza&ccedil;&atilde;o pol&iacute;tica dos coletivos nos territ&oacute;rios.</p>
 
 <p><br />
 A primeira etapa ocorreu nesses cinco dias, que contou com muita anima&ccedil;&atilde;o, m&iacute;stica, forma&ccedil;&atilde;o e planejamento, tendo como mote principal, construir com a juventude a mobiliza&ccedil;&atilde;o da base Sem Terra para a Marcha Nacional, que ocorrer&aacute; no m&ecirc;s de agosto, rumo &agrave; Bras&iacute;lia, e avan&ccedil;ar na constru&ccedil;&atilde;o e fortalecimento desses coletivos no movimento.</p>
@@ -73,7 +73,7 @@ Ele acrescenta ainda que &ldquo;o MST &eacute; a &uacute;nica organiza&ccedil;&a
 <strong>Coletivo JCC - Nordeste</strong></p>
 
 <p><br />
-Com a realiza&ccedil;&atilde;o da 1&ordf; Turma &#39;Oziel Alves&#39;, conclu&iacute;da ano passado, a experi&ecirc;ncia demonstrou que o curso contribui na forma&ccedil;&atilde;o da milit&acirc;ncia jovem e na sua inser&ccedil;&atilde;o nos setores e coletivos do MST.</p>
+A experi&ecirc;ncia da 1&ordf; Turma &#39;Oziel Alves&#39;, conclu&iacute;da ano passado, demonstrou que o curso contribui na forma&ccedil;&atilde;o da milit&acirc;ncia jovem e na sua inser&ccedil;&atilde;o nos setores e coletivos do MST.</p>
 
 <p>&nbsp;</p>
 
@@ -84,27 +84,18 @@ Com a realiza&ccedil;&atilde;o da 1&ordf; Turma &#39;Oziel Alves&#39;, conclu&ia
 <p>Al&eacute;m disso, esta etapa teve como objetivo colocar a juventude no centro do debate da Reforma Agr&aacute;ria Popular como pauta central da sociedade brasileira. Neste momento de golpe e retirada de direitos, &eacute; fundamental que o povo volte a debater a Reforma Agr&aacute;ria Popular, e a juventude deve ser o baluarte na constru&ccedil;&atilde;o deste processo.</p>
 
 <p><br />
-De acordo com Diego Vicente, de 25 anos, participante da primeira turma e da Coordena&ccedil;&atilde;o Pol&iacute;tica e Pedag&oacute;gica,&nbsp; &ldquo;o JCC &eacute; mais que um processo de forma&ccedil;&atilde;o de militantes dos setores de juventude, comunica&ccedil;&atilde;o e cultura. &Eacute; a experi&ecirc;ncia de construir um processo de forma&ccedil;&atilde;o a partir pr&aacute;tica de valores do novo homem e nova mulher, cultivar a experi&ecirc;ncia de poder-se sentir jovem e com identidade camponesa, reconhecendo-se no outro e fortalecendo-se dia ap&oacute;s dia.</p>
+De acordo com Diego Vicente, de 25 anos, participante da primeira turma e integrante da Coordena&ccedil;&atilde;o Pol&iacute;tica e Pedag&oacute;gica,&nbsp; &ldquo;o JCC &eacute; mais que um processo de forma&ccedil;&atilde;o de militantes dos setores de juventude, comunica&ccedil;&atilde;o e cultura. &Eacute; a experi&ecirc;ncia de construir um processo de forma&ccedil;&atilde;o a partir pr&aacute;tica de valores do novo homem e nova mulher, cultivar a experi&ecirc;ncia de poder-se sentir jovem e com identidade camponesa, reconhecendo-se no outro e fortalecendo-se dia ap&oacute;s dia.</p>
 
 <p><br />
 Al&eacute;m disso, trata-se de espa&ccedil;o de articula&ccedil;&atilde;o, de troca de experi&ecirc;ncias entre os estados sobre as formas de organiza&ccedil;&atilde;o, fortalecendo uma unidade enquanto regi&atilde;o nordeste, tanto na forma&ccedil;&atilde;o, como nas lutas que est&atilde;o sendo travadas nesse tempo de golpes contra a classe trabalhadora.</p>
 
 <p><br />
-Dessa forma, o curso expressa o potencial de, a partir das linguagens, fortalecer o processo de forma&ccedil;&atilde;o, organiza&ccedil;&atilde;o e luta das ra&iacute;zes e identidade Sem Terra. &rdquo;</p>
-
-<p><br />
-<strong>Marcha Nacional</strong></p>
-
-<p><br />
-De acordo com o Coletivo, &ldquo;a Marcha Nacional ser&aacute; um grande momento para o MST e para o conjunto da classe trabalhadora, pois &eacute; a grande oportunidade de recolocarmos para o conjunto da sociedade nosso projeto de Reforma Agr&aacute;ria Popular e um projeto de na&ccedil;&atilde;o na ordem do dia&rdquo;.</p>
-
-<p><br />
-O MST herda a pr&aacute;tica de marchar dos processos revolucion&aacute;rios da Am&eacute;rica Latina e do mundo, e expressa a predisposi&ccedil;&atilde;o do povo Sem Terra em n&atilde;o recuar, mas seguir organizado e, combativamente, sendo uma grande escola de forma&ccedil;&atilde;o para sua milit&acirc;ncia e momento de trabalho de base com a sociedade.</p>
-
-<p>&nbsp;</p>
+Dessa forma, o curso expressa o potencial, a partir das linguagens, de fortalecer o processo de forma&ccedil;&atilde;o, organiza&ccedil;&atilde;o e luta das ra&iacute;zes e identidade Sem Terra.</p>
 
 <p>&nbsp;</p>
 
 <p><em>*Editado por Leonardo Fernandes</em></p>
+
+<div class="webpki_lacunasoftware_com" id="webpki_lacunasoftware_com" style="display: none;">&nbsp;</div>
 
 <div class="webpki_lacunasoftware_com" id="webpki_lacunasoftware_com" style="display: none;">&nbsp;</div>
