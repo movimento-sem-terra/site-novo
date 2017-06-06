@@ -3,7 +3,7 @@ date: "2017-06-06T09:02:21-03:00"
 tags:
   - tag: paraná
   - tag: agroecologia
-title: Escola Itinerante Carlos Mariguella e o fortalecimento de uma alimentação saudável para todos
+title: "Escola Carlos Mariguella: alimentação saudável para todos e todas"
 images_hd: //farm5.staticflickr.com/4268/34289997154_7d7c4bbe02_b.jpg
 menu: "educação, cultura e comunicação"
 support_line: "Espaço de formação em agroecologia e agrofloresta é desenvolvido junto a famílias acampadas e assentadas do Paraná. "
