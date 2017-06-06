@@ -28,6 +28,7 @@ releated_posts:
   - _posts/2017/05/2017-05-05-feira-de-mudas-e-sementes-estimula-o-cultivo-de-plantas-e-hortalicas-em-casa.md
   - _posts/2017/02/2017-02-08-agroecologia-e-saude-sao-temas-de-seminario-no-extremo-sul-da-bahia.md
   - _posts/2017/03/2017-03-03-mst-realiza-o-1o-seminario-regional-de-saude-popular-da-bahia.md
+section: featured-news
 
 ---
 <p><img alt="_MG_7684 1.JPG" height="467" src="//farm5.staticflickr.com/4217/34275178794_af5af9b870_b.jpg" width="700" /></p>
