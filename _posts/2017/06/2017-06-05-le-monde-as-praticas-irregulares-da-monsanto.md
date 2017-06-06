@@ -26,6 +26,7 @@ releated_posts:
   - _posts/2017/03/2017-03-03-estudo-identifica-agrotoxicos-mais-frequentes-em-alimentos-consumidos-no-brasil.md
   - _posts/2016/10/2016-10-03-modelo-agricola-alternativo-corre-o-risco-de-ser-controlado-pelas-multinacionais.md
   - _posts/2016/10/2016-10-16-via-denuncia-ameaca-de-empresas-transnacionais-para-a-soberania-alimentar.md
+section: featured-news
 
 ---
 <p><img alt="monsanto-hero.jpg" height="433" src="//farm5.staticflickr.com/4252/35120361395_e2eb3163e9_b.jpg" width="700" /></p>
@@ -223,3 +224,5 @@ Os ataques contra o Ramazzini e o CIRC certamente n&atilde;o v&atilde;o parar t&
 <p>&nbsp;</p>
 
 <p><em>*Editado por Leonardo Fernandes</em></p>
+
+<div class="webpki_lacunasoftware_com" id="webpki_lacunasoftware_com" style="display: none;">&nbsp;</div>
