@@ -1,6 +1,8 @@
 ---
 date: "2017-06-06T09:02:21-03:00"
-tags: []
+tags:
+  - tag: paraná
+  - tag: agroecologia
 title: Escola Itinerante Carlos Mariguella e o fortalecimento de uma alimentação saudável para todos
 images_hd: //farm5.staticflickr.com/4268/34289997154_7d7c4bbe02_b.jpg
 menu: "educação, cultura e comunicação"
@@ -30,7 +32,14 @@ files:
     $$hashKey: "036"
 created_date: "2017-06-06T09:14:44-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2016/09/2016-09-20-autogestao-e-dialogo-de-saberes-na-escola-latino-americana-de-agroecologia.md
+  - _posts/2016/11/2016-11-03-os-desafios-da-agroecologia-desde-dentro.md
+  - _posts/2017/03/2017-03-08-mulheres-se-mobilizam-em-solidariedade-a-presa-politica-do-mst-no-parana.md
+  - _posts/2017/03/2017-03-09-300-mulheres-do-norte-pioneiro-do-parana-protestam-contra-o-governo-golpista.md
+  - _posts/2017/03/2017-03-20-cooperativa-do-parana-se-prepara-para-receber-selo-organico-da-producao-de-leite.md
+  - _posts/2017/03/2017-03-28-jovens-sem-terra-se-formam-em-curso-de-comunicacao-popular-no-parana.md
+  - _posts/2017/05/2017-05-18-projeto-de-lei-ordinaria-ameaca-feiras-agroecologicas-em-pernambuco.md
 
 ---
 <p><img alt="Escola Itinerante Carlos Marig (1).jpeg" height="394" src="//farm5.staticflickr.com/4243/34324677063_1d89515732_b.jpg" width="700" /></p>
