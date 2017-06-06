@@ -36,7 +36,7 @@ releated_posts:
   - _posts/2017/05/2017-05-09-jovens-do-mst-realizam-jornada-em-preparacao-aos-30-anos-de-luta-na-bahia.md
   - _posts/2017/05/2017-05-23-na-bahia-educadores-da-reforma-agraria-debatem-agroecologia-e-politicas-educacionais.md
   - _posts/2017/05/2017-05-24-juventude-sem-terra-debate-saude-no-campo-em-seminario-na-bahia.md
-section: featured-news
+section: null
 
 ---
 <p><img alt="IMG_8021.JPG" height="467" src="//farm5.staticflickr.com/4246/34874164062_9450a68d5e_b.jpg" width="700" /></p>
