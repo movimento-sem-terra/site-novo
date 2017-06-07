@@ -77,7 +77,7 @@ Na &uacute;ltima segunda-feira, as fam&iacute;lias do bairro visitaram a unidade
 Para o secret&aacute;rio de Economia Solid&aacute;ria, Andr&eacute; Braga, o ponto fundamental do projeto &eacute; que ele possibilita que a cidade tenha suas demandas de alimentos atendidas no pr&oacute;prio munic&iacute;pio: &ldquo;A busca de uma produ&ccedil;&atilde;o em quantidade suficiente de alimentos agroecol&oacute;gicos na cidade &eacute; sin&ocirc;nimo de preocupa&ccedil;&atilde;o com a vida e a sa&uacute;de da popula&ccedil;&atilde;o, associada a sustentabilidade e a soberania alimentar&rdquo;, afirmou.</p>
 
 <p><br />
-As fam&iacute;lias que conheceram a unidade participaram&nbsp;de atividades formativas, oficinas e cursos, acumulando conhecimento sobre&nbsp;em agroecologia, com o objetivo de construir suas pr&oacute;prias hortas agroecol&oacute;gicas. A moradora Marta Rodrigues, 49 anos, disse ter ficado encantada com o projeto e espera fazer parte dele. &ldquo;&Eacute; bom para o bairro, para as escolas e para toda a cidade. Estou encantada com a possibilidade de ter produtos em minha mesa de qualidade e sem agrot&oacute;xicos&rdquo;, ressaltou.</p>
+As fam&iacute;lias que conheceram a unidade ainda v&atilde;o participar de atividades formativas, oficinas e cursos, acumulando conhecimento sobre&nbsp;em agroecologia, com o objetivo de construir suas pr&oacute;prias hortas agroecol&oacute;gicas. A moradora Marta Rodrigues, 49 anos, disse ter ficado encantada com o projeto e espera fazer parte dele. &ldquo;&Eacute; bom para o bairro, para as escolas e para toda a cidade. Estou encantada com a possibilidade de ter produtos em minha mesa de qualidade e sem agrot&oacute;xicos&rdquo;, ressaltou.</p>
 
 <p><br />
 Andreia Matheus, engenheira agr&ocirc;noma da COOPERAR, ressalta que &ldquo;com a instala&ccedil;&atilde;o da Unidade Agroecol&oacute;gica, a cidade de Maric&aacute; estar&aacute; dando um passo importante para o seu desenvolvimento e tamb&eacute;m para a constru&ccedil;&atilde;o da soberania alimentar. Poder oferecer hortali&ccedil;as limpas, sem agrot&oacute;xicos, a&nbsp;suas crian&ccedil;as &eacute; uma conquista muito grande&rdquo;. Ela lembrou ainda que o Instituto Nacional do C&acirc;ncer&nbsp;e outros &oacute;rg&atilde;os de pesquisa&nbsp;j&aacute; comprovaram que os agrot&oacute;xicos existentes na nossa alimenta&ccedil;&atilde;o s&atilde;o&nbsp;um dos principais causadores do c&acirc;ncer.</p>
@@ -94,3 +94,5 @@ A Unidade Agroecol&oacute;gia e as Hortas do Manu s&atilde;o o resultado&nbsp;de
 <p>&nbsp;</p>
 
 <p><em>*Editado por Leonardo Fernandes</em></p>
+
+<div class="webpki_lacunasoftware_com" id="webpki_lacunasoftware_com" style="display: none;">&nbsp;</div>
