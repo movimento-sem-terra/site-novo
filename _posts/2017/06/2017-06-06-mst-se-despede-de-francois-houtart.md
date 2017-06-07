@@ -6,7 +6,7 @@ tags:
   - tag: homenagem
 images_hd: //farm5.staticflickr.com/4212/35012856001_397f19b8a2_b.jpg
 menu: solidariedade
-support_line: "Sociólo e teólogo da libertação, amigo dos povos da América Latina e Caribe, faleceu nesta terça (6)."
+support_line: "Sociólogo e teólogo da libertação, amigo dos povos da América Latina e Caribe, faleceu nesta terça (6)."
 title: MST se despede de François Houtart
 section: cover
 layout: post
