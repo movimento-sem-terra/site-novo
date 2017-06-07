@@ -6,23 +6,30 @@ tags:
 title: "Em Salvador, feira do MST debaterá o momento político e a Reforma Agrária Popular"
 support_line: "3ª Feira Estadual da Reforma Agrária começa nesta quinta-feira (8) e vai até o sábado (10), na Praça da Piedade, centro da capital baiana. "
 menu: agricultura camponesa
-images_hd: //farm5.staticflickr.com/4220/34991847682_de8cf32c06_b.jpg
+images_hd: //farm5.staticflickr.com/4245/34992712222_c372f7ee47_b.jpg
 layout: post
 files:
-  - link: //farm5.staticflickr.com/4230/35156989325_c348d333e6_b.jpg
-    original: //farm5.staticflickr.com/4230/35156989325_2f1ed9aca3_o.jpg
-    thumbnail: //farm5.staticflickr.com/4230/35156989325_c348d333e6_t.jpg
-    medium: //farm5.staticflickr.com/4230/35156989325_c348d333e6_z.jpg
-    small: //farm5.staticflickr.com/4230/35156989325_c348d333e6_n.jpg
-    title: alimentos-arquivo1.jpg
-    $$hashKey: 0A5
-  - link: //farm5.staticflickr.com/4220/34991847682_de8cf32c06_b.jpg
-    original: //farm5.staticflickr.com/4220/34991847682_1bf5d5b8cc_o.jpg
-    thumbnail: //farm5.staticflickr.com/4220/34991847682_de8cf32c06_t.jpg
-    medium: //farm5.staticflickr.com/4220/34991847682_de8cf32c06_z.jpg
-    small: //farm5.staticflickr.com/4220/34991847682_de8cf32c06_n.jpg
-    title: 12063491_972209322851782_1772956413572413498_n.jpg
-    $$hashKey: 0A8
+  - link: //farm5.staticflickr.com/4245/34992712222_c372f7ee47_b.jpg
+    original: //farm5.staticflickr.com/4245/34992712222_58cbc8e5f1_o.jpg
+    thumbnail: //farm5.staticflickr.com/4245/34992712222_c372f7ee47_t.jpg
+    medium: //farm5.staticflickr.com/4245/34992712222_c372f7ee47_z.jpg
+    small: //farm5.staticflickr.com/4245/34992712222_c372f7ee47_n.jpg
+    title: IMG_3385.jpg
+    $$hashKey: 0HQ
+  - link: //farm5.staticflickr.com/4222/35157723975_a0397c4dda_b.jpg
+    original: //farm5.staticflickr.com/4222/35157723975_c3f658e9a4_o.jpg
+    thumbnail: //farm5.staticflickr.com/4222/35157723975_a0397c4dda_t.jpg
+    medium: //farm5.staticflickr.com/4222/35157723975_a0397c4dda_z.jpg
+    small: //farm5.staticflickr.com/4222/35157723975_a0397c4dda_n.jpg
+    title: IMG_3407.jpg
+    $$hashKey: 0HT
+  - link: //farm5.staticflickr.com/4205/34312755764_16639e9ceb_b.jpg
+    original: //farm5.staticflickr.com/4205/34312755764_0f692248a2_o.jpg
+    thumbnail: //farm5.staticflickr.com/4205/34312755764_16639e9ceb_t.jpg
+    medium: //farm5.staticflickr.com/4205/34312755764_16639e9ceb_z.jpg
+    small: //farm5.staticflickr.com/4205/34312755764_16639e9ceb_n.jpg
+    title: IMG_3410 1.jpg
+    $$hashKey: 0HW
 created_date: "2017-06-07T10:25:46-03:00"
 published: true
 releated_posts:
@@ -44,7 +51,7 @@ p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; color: #454545}
 p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; color: #454545; min-height: 14.0px}
 span.s1 {font: 12.0px Helvetica}
 </style>
-<img alt="alimentos-arquivo1.jpg" height="463" src="//farm5.staticflickr.com/4230/35156989325_c348d333e6_b.jpg" width="700" /></p>
+<img alt="IMG_3407.jpg" height="467" src="//farm5.staticflickr.com/4222/35157723975_a0397c4dda_b.jpg" width="700" /></p>
 
 <p>&nbsp;</p>
 
@@ -62,8 +69,13 @@ Al&eacute;m de reunir os produtos da Reforma Agr&aacute;ria de dez regi&otilde;e
 <p><br />
 Alguns temas j&aacute; est&atilde;o confirmados, como: &ldquo;Pol&iacute;ticas P&uacute;blicas e Circuito de Comercializa&ccedil;&atilde;o&rdquo;; &ldquo;Alimenta&ccedil;&atilde;o Saud&aacute;vel e Campanha Nacional Contra os Agrot&oacute;xicos&rdquo;; &ldquo;Educa&ccedil;&atilde;o Popular&rdquo;; e &ldquo;An&aacute;lise de Conjuntura Nacional&rdquo;.</p>
 
-<p><br />
-Para compor esses espa&ccedil;os de discuss&atilde;o, o MST contar&aacute; com a presen&ccedil;a de Valmir Assun&ccedil;&atilde;o, deputado federal (PT-BA), Jo&atilde;o Pedro Stedile, da Dire&ccedil;&atilde;o Nacional do MST, N&iacute;vea Regina, tamb&eacute;m da Dire&ccedil;&atilde;o Nacional do Movimento, Renata Rossi, da Coordena&ccedil;&atilde;o de Desenvolvimento Agr&aacute;rio (CDA), Lucineia Dur&atilde;es, da Dire&ccedil;&atilde;o Estadual do MST, Jeandro Ribeiro, da Secretaria de Desenvolvimento Rural (SDR), e Jo&atilde;o Dagoberto, da Escola Superior de Agricultura Luiz de Queiroz (ESALQ &ndash; USP).</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="IMG_3410 1.jpg" height="233" src="//farm5.staticflickr.com/4205/34312755764_16639e9ceb_b.jpg" width="350" />
+<figcaption></figcaption>
+</figure>
+
+<p>Para compor esses espa&ccedil;os de discuss&atilde;o, o MST contar&aacute; com a presen&ccedil;a de Valmir Assun&ccedil;&atilde;o, deputado federal (PT-BA), Jo&atilde;o Pedro Stedile, da Dire&ccedil;&atilde;o Nacional do MST, N&iacute;vea Regina, tamb&eacute;m da Dire&ccedil;&atilde;o Nacional do Movimento, Renata Rossi, da Coordena&ccedil;&atilde;o de Desenvolvimento Agr&aacute;rio (CDA), Lucineia Dur&atilde;es, da Dire&ccedil;&atilde;o Estadual do MST, Jeandro Ribeiro, da Secretaria de Desenvolvimento Rural (SDR), e Jo&atilde;o Dagoberto, da Escola Superior de Agricultura Luiz de Queiroz (ESALQ &ndash; USP).</p>
 
 <p><br />
 Segundo Evanildo Costa, do MST, o espa&ccedil;o da feira ser&aacute; importante para trazer debates e ser mais um instrumento de inser&ccedil;&atilde;o das lutas pelas &ldquo;Diretas J&aacute;&rdquo; e por &ldquo;Fora Temer&rdquo; no cen&aacute;rio baiano.</p>
