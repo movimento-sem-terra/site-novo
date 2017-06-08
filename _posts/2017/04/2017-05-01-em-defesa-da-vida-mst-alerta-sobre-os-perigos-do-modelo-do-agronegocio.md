@@ -7,7 +7,7 @@ tags:
 title: "Em defesa da vida, MST alerta sobre os perigos do modelo do agronegócio"
 support_line: "Especial aborda os graves impactos gerados pelo uso de agrotóxicos na produção de alimentos à saúde da população consumidora, dos trabalhadores rurais e ao meio ambiente."
 menu: agronegócio
-images_hd: //farm3.staticflickr.com/2888/34240954961_b29f546282_b.jpg
+images_hd: //farm5.staticflickr.com/4240/35013435262_6d6fbc5221_b.jpg
 section: featured-news
 layout: post
 files:
@@ -32,6 +32,13 @@ files:
     small: //farm5.staticflickr.com/4162/33529805944_1108be7eca_n.jpg
     title: 0a11f-agrotoxicos.jpg
     $$hashKey: 1K5
+  - link: //farm5.staticflickr.com/4240/35013435262_6d6fbc5221_b.jpg
+    original: //farm5.staticflickr.com/4240/35013435262_6758998c8d_o.jpg
+    thumbnail: //farm5.staticflickr.com/4240/35013435262_6d6fbc5221_t.jpg
+    medium: //farm5.staticflickr.com/4240/35013435262_6d6fbc5221_z.jpg
+    small: //farm5.staticflickr.com/4240/35013435262_6d6fbc5221_n.jpg
+    title: agrotoxicos-1.jpg
+    $$hashKey: 0QE
 created_date: "2017-04-30T22:08:26-03:00"
 published: true
 releated_posts:
