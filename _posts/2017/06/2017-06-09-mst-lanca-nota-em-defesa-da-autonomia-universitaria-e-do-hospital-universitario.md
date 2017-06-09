@@ -5,7 +5,7 @@ tags:
   - tag: governo-temer
   - tag: universidade
   - tag: alagoas
-title: MST lança nota em defesa da autonomia universitária e do Hospital Universitário
+title: MST lança nota em defesa da autonomia universitária e do Hospital Universitário da Ufal
 menu: projeto popular
 support_line: Diversas organizações têm manifestado repúdio a ação e em defesa do Hospital que presta um importante serviço aos alagoanos do campo e da cidade.
 images_hd: //farm5.staticflickr.com/4230/35072287961_4a00d93bb8_b.jpg
