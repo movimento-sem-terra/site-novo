@@ -44,6 +44,7 @@ releated_posts:
   - _posts/2017/05/2017-05-31-praia-de-belas-shopping-tera-feira-de-alimentos-sem-venenos.md
   - _posts/2016/12/2016-12-13-circuito-de-feira-da-reforma-agraria-comercializa-mais-de-12-toneladas-de-alimentos-no-df.md
   - _posts/2016/12/2016-12-09-mst-inicia-circuito-de-feira-da-reforma-agraria-no-df.md
+section: featured-news
 
 ---
 <div style="text-align:center">
