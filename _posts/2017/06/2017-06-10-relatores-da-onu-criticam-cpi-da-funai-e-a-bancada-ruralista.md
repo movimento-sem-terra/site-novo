@@ -25,14 +25,12 @@ files:
     title: CPIFunai-EBC-300x200.jpg
     $$hashKey: "075"
 created_date: "2017-06-10T14:26:08-03:00"
-published: false
+published: true
 releated_posts:
   - _posts/2016/11/2016-11-10-em-nova-manobra-regimental-bancada-ruralista-elege-presidente-da-cpi-incra-funai-2.md
   - _posts/2017/05/2017-05-24-relatorio-da-cpi-da-funai-e-incra-e-uma-compilacao-de-insanidades.md
 
 ---
-<p>&nbsp;</p>
-
 <p>&nbsp;</p>
 
 <p><em>De Olhos nos Ruralistas&nbsp;</em></p>
