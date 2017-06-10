@@ -7,7 +7,7 @@ tags:
 title: Relatores da ONU criticam CPI da Funai e a bancada ruralista
 support_line: "Relatores para ambiente, direitos humanos e povos indígenas lamentam criminalização da ONU no Congresso e projetos que facilitam licenciamento ambiental."
 menu: agronegócio
-images_hd: //farm5.staticflickr.com/4262/34832620210_65b351fc42_b.jpg
+images_hd: //farm5.staticflickr.com/4226/34410592253_db577888c6_b.jpg
 layout: post
 files:
   - link: //farm5.staticflickr.com/4217/34832607450_ffda8b69c2_b.jpg
@@ -24,6 +24,13 @@ files:
     small: //farm5.staticflickr.com/4262/34832620210_65b351fc42_n.jpg
     title: CPIFunai-EBC-300x200.jpg
     $$hashKey: "075"
+  - link: //farm5.staticflickr.com/4226/34410592253_db577888c6_b.jpg
+    original: //farm5.staticflickr.com/4226/34410592253_f9222f5107_o.jpg
+    thumbnail: //farm5.staticflickr.com/4226/34410592253_db577888c6_t.jpg
+    medium: //farm5.staticflickr.com/4226/34410592253_db577888c6_z.jpg
+    small: //farm5.staticflickr.com/4226/34410592253_db577888c6_n.jpg
+    title: indigenas-stf-750x410.jpg
+    $$hashKey: "051"
 created_date: "2017-06-10T14:26:08-03:00"
 published: true
 releated_posts:
