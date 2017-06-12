@@ -17,6 +17,13 @@ files:
     small: //farm5.staticflickr.com/4218/34884563900_dca6de81fd_n.jpg
     title: 54213-fotografia-m.jpg
     $$hashKey: 068
+  - link: //farm5.staticflickr.com/4261/35105406552_84c112a3c7_b.jpg
+    original: //farm5.staticflickr.com/4261/35105406552_2cc7cc44fd_o.jpg
+    thumbnail: //farm5.staticflickr.com/4261/35105406552_84c112a3c7_t.jpg
+    medium: //farm5.staticflickr.com/4261/35105406552_84c112a3c7_z.jpg
+    small: //farm5.staticflickr.com/4261/35105406552_84c112a3c7_n.jpg
+    title: IMG-20170612-WA0064.jpg
+    $$hashKey: 0GR
 created_date: "2017-06-12T19:28:34-03:00"
 published: true
 releated_posts:
@@ -70,3 +77,7 @@ releated_posts:
 <p style="text-align: right;"><br style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;" />
 <br style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;" />
 <span style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;">Dire&ccedil;&atilde;o Nacional do MST, 12 de junho de 2017.</span></p>
+
+<p style="text-align: right;">&nbsp;</p>
+
+<p style="text-align:center"><img alt="IMG-20170612-WA0064.jpg" height="707" src="//farm5.staticflickr.com/4261/35105406552_84c112a3c7_b.jpg" width="500" /></p>
