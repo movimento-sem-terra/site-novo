@@ -86,10 +86,12 @@ Na mesma linha, Valmir Assun&ccedil;&atilde;o disse que as ruas precisam pertenc
 <strong>Dia 30 tem Greve Geral</strong></p>
 
 <p><br />
-Com foco na Greve Geral, convocada para o dia 30 de junho, Stedile afirmou que o MST vai fechar as BRs para derrubar o governo. A Greve &eacute; convocada pelos v&aacute;rios movimentos e organiza&ccedil;&otilde;es sociais que constroem as frentes Brasil Popular e Povo Sem Medo, que lan&ccedil;aram o &ldquo;Plano Popular de Emerg&ecirc;ncia&rdquo; para tirar o pa&iacute;s das crises.</p>
+Com foco na Greve Geral, convocada para o dia 30 de junho, Stedile afirmou que o MST vai fechar as BRs para derrubar o governo. A Greve &eacute; convocada pelos v&aacute;rios movimentos e organiza&ccedil;&otilde;es sociais que constroem as frentes Povo Sem Medo e Brasil Popular, esta &uacute;ltima, que lan&ccedil;ou o&nbsp;&ldquo;Plano Popular de Emerg&ecirc;ncia&rdquo;, um documento que lista uma s&eacute;rie de medidas propostas pelas organiza&ccedil;&otilde;es populares, para tirar o pa&iacute;s das crises.</p>
 
 <p>&nbsp;</p>
 
 <p><em>*Editado por Leonardo Fernandes</em></p>
+
+<div class="webpki_lacunasoftware_com" id="webpki_lacunasoftware_com" style="display: none;">&nbsp;</div>
 
 <div class="webpki_lacunasoftware_com" id="webpki_lacunasoftware_com" style="display: none;">&nbsp;</div>
