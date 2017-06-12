@@ -75,42 +75,7 @@ Fotos: Gabriela Barros</em></p>
 De 08 a 10<em> </em>de junho, foram mais de 80 toneladas de alimentos vendidos para cerca de 30 mil trabalhadores soteropolitanos, que levaram para casa uma diversidade de alimentos saud&aacute;veis produzidos pelos trabalhadores e trabalhadoras Sem Terra de dez regi&otilde;es da Bahia.<br />
 &nbsp;</p>
 
-<figure class="image" style="float:left"><img alt="Gabriela_Barros(94).jpg" height="467" src="//farm5.staticflickr.com/4260/34459960183_61b2378740_b.jpg" width="700" />
-<figcaption><em>Grande diversidade de alimentos foi vendida durante os tr&ecirc;s dias de feira. </em></figcaption>
-</figure>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p><br />
-Nesse sentido, a feira cumpriu o objetivo de ampliar o di&aacute;logo com a popula&ccedil;&atilde;o sobre a Reforma Agr&aacute;ria Popular, a produ&ccedil;&atilde;o de alimentos saud&aacute;veis, e al&eacute;m disso, denunciou o atual momento pol&iacute;tico de golpe e crise que vive o Brasil.</p>
+<p>Nesse sentido, a feira cumpriu o objetivo de ampliar o di&aacute;logo com a popula&ccedil;&atilde;o sobre a Reforma Agr&aacute;ria Popular, a produ&ccedil;&atilde;o de alimentos saud&aacute;veis, e al&eacute;m disso, denunciou o atual momento pol&iacute;tico de golpe e crise que vive o Brasil.</p>
 
 <p><br />
 Ao avaliar o seu processo de constru&ccedil;&atilde;o e os resultados, a dire&ccedil;&atilde;o do MST destaca que conseguiu aglutinar muitas pessoas e construir um ambiente importante para trabalhar a quest&atilde;o da forma&ccedil;&atilde;o pol&iacute;tica dos trabalhadores com v&aacute;rias mesas tem&aacute;ticas e atividades culturais.</p>
@@ -140,6 +105,8 @@ Com um sorriso no rosto, Lucin&eacute;ia Dur&atilde;es, da Dire&ccedil;&atilde;o
 <p>&nbsp;</p>
 
 <p><em>*Editado por Leonardo Fernandes</em></p>
+
+<div class="webpki_lacunasoftware_com" id="webpki_lacunasoftware_com" style="display: none;">&nbsp;</div>
 
 <div class="webpki_lacunasoftware_com" id="webpki_lacunasoftware_com" style="display: none;">&nbsp;</div>
 
