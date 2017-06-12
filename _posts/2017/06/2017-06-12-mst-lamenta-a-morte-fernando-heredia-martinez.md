@@ -34,22 +34,27 @@ releated_posts:
   - _posts/2017/03/2017-03-28-mst-lamenta-a-morte-do-militante-arcanjo-neto.md
 
 ---
-<p><span style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;">O Movimento dos Trabalhadores Rurais Sem Terra manifesta seu profundo</span><br style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;" />
-<span style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;">pesar pela perda de nosso professor, companheiro e amigo Fernando</span><br style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;" />
-<span style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;">Heredia Martinez neste dia 12 de junho.</span><br style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;" />
-<br style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;" />
-<br style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;" />
-<span style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;">Fil&oacute;sofo, ocupou o cargo de diretor da Faculdade de Filosofia de Havana</span><br style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;" />
-<span style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;">at&eacute; 1971, foi diretor-fundador da revista Pensamento Cr&iacute;tico, entre 1967</span><br style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;" />
-<span style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;">e 1971, e autor de diversos livros, entre eles, &ldquo;Che, el socialismo y el</span><br style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;" />
-<span style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;">comunismo&rdquo;, pelo qual recebeu o Premio Extraordin&aacute;rio da Casa de las</span><br style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;" />
-<span style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;">Am&eacute;ricas, em 1989.</span></p>
+<p>&nbsp;</p>
+
+<p><em>Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
-<span style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;">Militante do MR-26 e fundador do Partido Comunista Cubano, Heredia fez</span><br style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;" />
-<span style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;">jus em vida a express&atilde;o &ldquo;intelectual org&acirc;nico&rdquo;, pois dedicou seus</span><br style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;" />
-<span style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;">estudos e reflex&otilde;es aos problemas concretos e eminentes da realidade</span><br style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;" />
-<span style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;">cubana, latino-americana e mundial.</span><br />
+O Movimento dos Trabalhadores Rurais Sem Terra manifesta seu profundo<br />
+pesar pela perda de nosso professor, companheiro e amigo Fernando<br />
+Heredia Martinez neste dia 12 de junho.<br />
+<br />
+<br />
+Fil&oacute;sofo, ocupou o cargo de diretor da Faculdade de Filosofia de Havana<br />
+at&eacute; 1971, foi diretor-fundador da revista Pensamento Cr&iacute;tico, entre 1967<br />
+e 1971, e autor de diversos livros, entre eles, &ldquo;Che, el socialismo y el<br />
+comunismo&rdquo;, pelo qual recebeu o Premio Extraordin&aacute;rio da Casa de las<br />
+Am&eacute;ricas, em 1989.</p>
+
+<p><br />
+Militante do MR-26 e fundador do Partido Comunista Cubano, Heredia fez<br />
+jus em vida a express&atilde;o &ldquo;intelectual org&acirc;nico&rdquo;, pois dedicou seus<br />
+estudos e reflex&otilde;es aos problemas concretos e eminentes da realidade<br />
+cubana, latino-americana e mundial.<br />
 <br />
 <span style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;">Internacionalista, contribuiu com a reflex&atilde;o e a forma&ccedil;&atilde;o de milhares de</span><br style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;" />
 <span style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;">estudantes em toda Am&eacute;rica Latina. Tivemos o prazer de t&ecirc;-lo entre os</span><br style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;" />
