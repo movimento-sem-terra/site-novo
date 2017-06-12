@@ -30,6 +30,7 @@ releated_posts:
   - _posts/2017/05/2017-05-25-nova-chacina-no-para-expoe-a-fragilidade-do-estado-na-resolucao-de-conflitos-no-campo.md
   - _posts/2017/05/2017-05-25-mst-condena-violencia-policial-no-centro-de-sao-paulo.md
   - _posts/2017/05/2017-05-26-apos-chacina-entidades-de-luta-pela-terra-no-para-denunciam-acirramento-da-violencia.md
+section: cover
 
 ---
 <p>&nbsp;</p>
