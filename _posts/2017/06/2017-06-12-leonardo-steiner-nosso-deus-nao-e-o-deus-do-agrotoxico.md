@@ -4,7 +4,7 @@ tags:
   - tag: cnbb
   - tag: agrotóxicos
   - tag: campanha-contra-os-agrotóxicos
-title: "Leonardo Steiner: \"Nosso Deus não é o deus do agrotóxico"
+title: "Leonardo Steiner: \"Nosso Deus não é o deus do agrotóxico\""
 support_line: Secretário Geral da Conferência de Bispos do Brasil (CNBB) fez duras críticas ao modelo do agronegócio durante Encontro de Comunicadores da Rede Eclesial Pan-Amazônica (REPAM).
 menu: agronegócio
 images_hd: //farm5.staticflickr.com/4264/35093093792_9e57327e72_b.jpg
