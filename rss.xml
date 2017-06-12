@@ -7,6 +7,14 @@
 		<atom:link href="http://www.mst.org.br/rss.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Trabalhadores e povos do campo sob ataque</title>
+				<description>Os casos aparentemente sem ligação encontram uma conexão, entretanto, com o contexto político de recrudescimento do conservadorismo e da ascensão das forças golpistas</description>
+				<pubDate>Mon, 12 Jun 2017 18:32:14 +0000</pubDate>
+				<link>http://www.mst.org.br/2017/06/12/trabalhadores-e-povos-do-campo-sob-ataque.html</link>
+				<guid isPermaLink="true">http://www.mst.org.br/2017/06/12/trabalhadores-e-povos-do-campo-sob-ataque.html</guid>
+			</item>
+		
+			<item>
 				<title>Mídia alternativa debate liberdade de expressão em tempos de exceção
 </title>
 				<description>3º Encontro Estadual de Bloguei@s e Ativistas Digitais foi realizado nos dias 9 e 10 de junho, em São Paulo</description>
@@ -77,14 +85,6 @@
 				<pubDate>Sat, 10 Jun 2017 16:21:34 +0000</pubDate>
 				<link>http://www.mst.org.br/2017/06/10/uma-educacao-que-nasce-do-povo-e-para-o-povo.html</link>
 				<guid isPermaLink="true">http://www.mst.org.br/2017/06/10/uma-educacao-que-nasce-do-povo-e-para-o-povo.html</guid>
-			</item>
-		
-			<item>
-				<title>Ato político aponta retomada democrática como ponto central das lutas</title>
-				<description>Durante o ato foi apontado a necessidade de avançar na luta pela Reforma Agrária Popular e retomar a democracia no Brasil.</description>
-				<pubDate>Fri, 09 Jun 2017 19:24:49 +0000</pubDate>
-				<link>http://www.mst.org.br/2017/06/09/ato-politico-aponta-retomada-democratica-como-ponto-central-das-lutas.html</link>
-				<guid isPermaLink="true">http://www.mst.org.br/2017/06/09/ato-politico-aponta-retomada-democratica-como-ponto-central-das-lutas.html</guid>
 			</item>
 		
 	</channel>
