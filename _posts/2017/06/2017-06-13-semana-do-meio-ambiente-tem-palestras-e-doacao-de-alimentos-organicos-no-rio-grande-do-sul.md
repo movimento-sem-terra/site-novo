@@ -3,7 +3,7 @@ date: "2017-06-13T10:22:56-03:00"
 tags:
   - tag: rio-grande-do-sul
   - tag: meio-ambiente
-title: Semana do Meio Ambiente tem palestras e doação de alimentos orgânicos no Rio Grande do Sul
+title: Semana do Meio Ambiente tem palestras e doação de alimentos orgânicos no RS
 support_line: Ações tiveram o objetivo de conscientizar estudantes sobre a importância da produção e do consumo de alimentos saudáveis.
 images_hd: //farm5.staticflickr.com/4200/34473835023_2358fb106a_b.jpg
 menu: meio ambiente
