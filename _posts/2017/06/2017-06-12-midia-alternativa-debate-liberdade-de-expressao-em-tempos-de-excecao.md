@@ -98,7 +98,7 @@ Gleisi Hoffmann fez uma autocr&iacute;tica e reconheceu que o PT errou em n&atil
 A jornalista Maria In&ecirc;s Nassif foi na mesma linha:&nbsp;&#39;o grande erro foi acreditar que ganhar a presid&ecirc;ncia da Rep&uacute;blica era o mesmo que conquistar hegemonia&#39;. Para&nbsp;ela, a popula&ccedil;&atilde;o de &#39;novos consumidores&#39;, criada pela pelas pol&iacute;ticas sociais dos governo petistas n&atilde;o foi suficiente para defender esses governos dos ataques da m&iacute;dia oligopolizada. &ldquo;Hoje, a grande unidade da esquerda &eacute; a democracia&rdquo;, destacou.</p>
 
 <p><br />
-A programa&ccedil;&atilde;o do encontrou contou ainda com uma mesa de debate sobre a batalha comunicacional na Am&eacute;rica Latina, diversas rodas de conversa sobre tem&aacute;ticas diversas, como o papel da mulher na m&iacute;dia, a diversidade e a comunica&ccedil;&atilde;o, e a rela&ccedil;&atilde;o da grande imprensa com o genoc&iacute;dio do povo negro, al&eacute;m de oficinas de memes, fotografia e transmiss&otilde;es ao vivo.</p>
+A programa&ccedil;&atilde;o do encontrou contou ainda com uma mesa de debate sobre a batalha comunicacional na Am&eacute;rica Latina, rodas de conversa sobre diversas tem&aacute;ticas, como o papel da mulher na m&iacute;dia, a diversidade e a comunica&ccedil;&atilde;o, e a rela&ccedil;&atilde;o da grande imprensa com o genoc&iacute;dio do povo negro, al&eacute;m de oficinas de memes, fotografia e transmiss&otilde;es ao vivo.</p>
 
 <p><br />
 O debate de encerramento discutiu as semelhan&ccedil;as entre os golpes de 1964 e 2016, principalmente no que se refere &agrave; implanta&ccedil;&atilde;o de um estado de exce&ccedil;&atilde;o que envolve, inclusive, a persegui&ccedil;&atilde;o jur&iacute;dica e policial contra jornalistas, blogueiros e formadores de opini&atilde;o.</p>
@@ -117,3 +117,5 @@ Altamiro Borges, presidente do Centro de Estudos Bar&atilde;o de Itarar&eacute;,
 <p>&nbsp;</p>
 
 <p><em>*Editado por Maura Silva&nbsp;</em></p>
+
+<div class="webpki_lacunasoftware_com" id="webpki_lacunasoftware_com" style="display: none;">&nbsp;</div>
