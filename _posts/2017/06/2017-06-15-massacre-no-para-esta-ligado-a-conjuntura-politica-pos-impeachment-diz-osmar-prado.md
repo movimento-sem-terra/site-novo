@@ -54,7 +54,7 @@ A audi&ecirc;ncia p&uacute;blica, presidida pelo senador Paulo Paim (PT-RS) cont
 Paim fez coro &agrave; colega. &ldquo;Praticamente 20 cadeiras est&atilde;o vagas. &Eacute; para n&atilde;o dar qu&oacute;rum para que se vote mat&eacute;rias relativas a direitos humanos&rdquo;, apontou.</p>
 
 <p><br />
-Hist&oacute;rico</p>
+<strong>Hist&oacute;rico</strong></p>
 
 <p><br />
 O padre Ricardo Rezende Figueira, integrante do Grupo de Pesquisas sobre Trabalho Escravo Contempor&acirc;neo, ligado &agrave; Universidade Federal do Rio de Janeiro (UFRJ), destacou o hist&oacute;rico de viol&ecirc;ncia e mortes no estado do Par&aacute; desde a d&eacute;cada de 1980, e a escalada da viol&ecirc;ncia no per&iacute;odo recente.</p>
@@ -75,7 +75,7 @@ Figueira relata que propriet&aacute;rios de latif&uacute;ndios t&ecirc;m contrat
 Na vis&atilde;o do deputado estadual Carlos Bodaro (PT), presidente da Comiss&atilde;o de Direitos Humanos da Assembleia Legislativa do Par&aacute;, a viol&ecirc;ncia no campo &eacute; decorrente da grilagem de terras no estado. Segundo ele, um levantamento conduzido pelo Tribunal de Justi&ccedil;a do estado apontou grandes distor&ccedil;&otilde;es no registro de im&oacute;veis: &ldquo;Ou se resolve a quest&atilde;o das terras irregulares ou essa quest&atilde;o se repetir&aacute;. Existem, no Par&aacute;, mais de dez mil t&iacute;tulos fraudulentos, equivalentes a quatro vezes a &aacute;rea do estado&rdquo;.</p>
 
 <p><br />
-Federaliza&ccedil;&atilde;o</p>
+<strong>Federaliza&ccedil;&atilde;o</strong></p>
 
 <p><br />
 Falas durante a audi&ecirc;ncia p&uacute;blica defenderam a federaliza&ccedil;&atilde;o do caso. Juliana Oliveira, defensora p&uacute;blica no Par&aacute;, afirmou que todos os requisitos legais para o &ldquo;deslocamento para a compet&ecirc;ncia federal&rdquo; est&atilde;o presentes, ressaltando que o hist&oacute;rico destes casos pode ser resumido de forma simples: &ldquo;As v&iacute;timas s&atilde;o pobres e impera a impunidade&rdquo;.</p>
