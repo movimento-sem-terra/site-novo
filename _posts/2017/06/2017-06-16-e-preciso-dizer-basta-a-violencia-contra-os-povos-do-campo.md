@@ -120,6 +120,10 @@ Ao fim do dia ser&aacute; realizado um ato p&uacute;blico no centro de Bel&eacut
 
 <p>&nbsp;</p>
 
+<p><em>*Editado por Maura Silva</em></p>
+
+<p>&nbsp;</p>
+
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="divulgação Seminário Ato Nacional.jpeg" height="520" src="//farm5.staticflickr.com/4248/35341862855_5e11992951_b.jpg" width="400" />
 <figcaption></figcaption>
