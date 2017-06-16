@@ -63,6 +63,8 @@ No escopo de processamento de insumos agr&iacute;colas, a meta da BioNatur para 
 <p><br />
 Segundo Alcemar Ad&iacute;lio Inhaia, presidente da BioNatur, a conquista de um novo escopo de certifica&ccedil;&atilde;o pela Coceargs &eacute; simb&oacute;lica, porque mostra que o Movimento dos Trabalhadores Rurais Sem Terra (MST) est&aacute; conseguindo construir um processo de autogest&atilde;o na &aacute;rea da produ&ccedil;&atilde;o de alimentos. &ldquo;Estamos produzindo, constitu&iacute;do agroind&uacute;strias, beneficiando alimentos e tamb&eacute;m certificando para atender demandas e chegar ao mercado com um produto dentro do padr&atilde;o org&acirc;nico&rdquo;, afirma. Ele acrescenta que, futuramente, a inten&ccedil;&atilde;o da BioNatur &eacute; expandir a certifica&ccedil;&atilde;o via OPAC-Coceargs para o estado de Minas Gerais, onde a rede tamb&eacute;m produz sementes agroecol&oacute;gicas. &ldquo;Daqui para frente n&oacute;s vamos dar passos significativos e importantes para desenvolver a&ccedil;&otilde;es na parceria BioNatur - Coceargs&rdquo;, complementa Inhaia.</p>
 
+<p>&nbsp;</p>
+
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Com a conquista, a Coceargs poderá certificar mudas orgânicas. Foto Divulgaçãojpg.jpg" height="491" src="//farm5.staticflickr.com/4226/34504450063_a525628d40_b.jpg" width="700" />
 <figcaption>Com a conquista, a Coceargs poderá certificar mudas orgânicas. Foto Divulgação</figcaption>
@@ -80,3 +82,6 @@ Mas o hist&oacute;rico da Coceargs no sistema de certifica&ccedil;&atilde;o part
 
 <p><br />
 O seu cadastro pelo Mapa como um OPAC ocorreu em mar&ccedil;o de 2015, quando passou a certificar a produ&ccedil;&atilde;o prim&aacute;ria vegetal e a produ&ccedil;&atilde;o prim&aacute;ria animal dos assentamentos. A partir de abril de 2016, conquistou os escopos de processamento de produtos de origem animal e de processamento de produtos de origem vegetal. Por meio da OPAC-Coceargs, que permite &agrave;s fam&iacute;lias comercializarem seus alimentos no mercado nacional, atualmente a produ&ccedil;&atilde;o de 83 fam&iacute;lias &eacute; certificada nos munic&iacute;pios de Viam&atilde;o, Eldorado do Sul, Gua&iacute;ba, Nova Santa Rita, Encruzilhada do Sul e S&atilde;o Jer&ocirc;nimo, tamb&eacute;m na regi&atilde;o Metropolitana de Porto Alegre. Al&eacute;m disto, duas agroind&uacute;strias vegetais localizadas em Viam&atilde;o e Nova Santa Rita e uma padaria em Viam&atilde;o j&aacute; s&atilde;o certificadas como unidades de produ&ccedil;&atilde;o org&acirc;nica via OPAC-Coceargs.</p>
+
+<p><br />
+<em>*Editado por Maura Silva&nbsp;</em></p>
