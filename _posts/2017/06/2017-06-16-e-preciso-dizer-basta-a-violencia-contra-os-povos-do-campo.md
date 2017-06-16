@@ -7,7 +7,7 @@ tags:
 title: "É preciso dizer basta à violência contra os povos do campo\n"
 support_line: Número de assassinatos de trabalhadores rurais no Brasil cresceu exponencialmente nos últimos anos
 menu: direitos humanos
-images_hd: //farm5.staticflickr.com/4253/34531333853_40ba8717c5_b.jpg
+images_hd: //farm5.staticflickr.com/4199/34954576250_61a20474d0_b.jpg
 layout: post
 files:
   - link: //farm5.staticflickr.com/4253/34531333853_40ba8717c5_b.jpg
@@ -31,6 +31,13 @@ files:
     small: //farm5.staticflickr.com/4226/35174707162_b73cbce042_n.jpg
     title: Violência-no-Campo-Site.png
     $$hashKey: 06O
+  - link: //farm5.staticflickr.com/4199/34954576250_61a20474d0_b.jpg
+    original: //farm5.staticflickr.com/4199/34954576250_a1dd6b6f13_o.jpg
+    thumbnail: //farm5.staticflickr.com/4199/34954576250_61a20474d0_t.jpg
+    medium: //farm5.staticflickr.com/4199/34954576250_61a20474d0_z.jpg
+    small: //farm5.staticflickr.com/4199/34954576250_61a20474d0_n.jpg
+    title: expo-620.jpg
+    $$hashKey: 0C3
 created_date: "2017-06-16T09:38:45-03:00"
 published: true
 releated_posts:
