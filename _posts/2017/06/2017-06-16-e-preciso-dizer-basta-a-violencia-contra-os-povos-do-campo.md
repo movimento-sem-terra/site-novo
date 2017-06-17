@@ -86,7 +86,7 @@ Segundo o relat&oacute;rio Conflitos no Campo Brasil 2016, elaborado pela CPT, a
 Somente no que vai desse ano, 36 trabalhadores rurais foram assassinados em todo o Brasil. O &uacute;ltimo, ocorreu no munic&iacute;pio paraense de Pau d&rsquo;Arco, no dia 24 de maio, quando dez pessoas foram mortas, entre elas, uma mulher. A chacina ocorreu durante uma tentativa de reintegra&ccedil;&atilde;o de posse no Acampamento Nova Vida, localizado na Fazenda Santa L&uacute;cia.</p>
 
 <p><br />
-Segundo Thiago Valetim, esse caso escancara a atua&ccedil;&atilde;o violentadas for&ccedil;as de seguran&ccedil;a do estado para defender os interesses do poder privado. &ldquo;Assim como aconteceu em 19 de abril de 1996, em Eldorado dos Caraj&aacute;s, quando 19 pessoas foram mortas pela PM e apenas dois policiais foram responsabilizados, tamb&eacute;m em Pau d&#39;Arco, no Par&aacute;, no dia 24 de maio, dez trabalhadores rurais Sem Terra foram assassinados pela pol&iacute;cia, sendo sete deles pertencentes &agrave; mesma fam&iacute;lia&rdquo;.</p>
+Segundo Thiago Valetim, esse caso escancara a atua&ccedil;&atilde;o violentadas for&ccedil;as de seguran&ccedil;a do estado para defender os interesses do poder privado. &ldquo;Assim como aconteceu em 17 de abril de 1996, em Eldorado dos Caraj&aacute;s, quando 21 pessoas foram mortas pela PM e apenas dois policiais foram responsabilizados, tamb&eacute;m em Pau d&#39;Arco, no Par&aacute;, no dia 24 de maio, dez trabalhadores rurais Sem Terra foram assassinados pela pol&iacute;cia, sendo sete deles pertencentes &agrave; mesma fam&iacute;lia&rdquo;.</p>
 
 <p><br />
 Apesar dos n&uacute;meros demonstrarem que a viol&ecirc;ncia do poder p&uacute;blico &eacute; menor do que a praticada pelo poder privado, para Valentim, o estado &eacute; correspons&aacute;vel pela situa&ccedil;&atilde;o. &ldquo;Geralmente, quem expulsa as fam&iacute;lias, quem coloca pistoleiros para perseguir as fam&iacute;lias, quem destr&oacute;i as ro&ccedil;as, as casas dos trabalhadores e trabalhadoras, s&atilde;o pessoas que, de alguma maneira, recebem apoio e prote&ccedil;&atilde;o do poder p&uacute;blico. Ent&atilde;o h&aacute; uma rela&ccedil;&atilde;o direta entre e a viol&ecirc;ncia praticada pelo poder p&uacute;blico&rdquo;, afirma.</p>
@@ -129,3 +129,5 @@ Ao fim do dia ser&aacute; realizado um ato p&uacute;blico no centro de Bel&eacut
 <figcaption></figcaption>
 </figure>
 </div>
+
+<div class="webpki_lacunasoftware_com" id="webpki_lacunasoftware_com" style="display: none;">&nbsp;</div>
