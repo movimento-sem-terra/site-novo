@@ -63,7 +63,13 @@ p.p7 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; font: 12.0px Helvetic
 p.p8 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: right; font: 12.0px Helvetica; color: #454545}
 span.Apple-tab-span {white-space:pre}
 </style>
-<img alt="WhatsApp Image 2017-06-19 at 11.24.29.jpeg" height="525" src="//farm5.staticflickr.com/4248/35239339082_a17e3cd722_b.jpg" width="700" /></p>
+</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2017-06-19 at 11.24.29.jpeg" height="450" src="//farm5.staticflickr.com/4248/35239339082_a17e3cd722_b.jpg" width="600" />
+<figcaption></figcaption>
+</figure>
+</div>
 
 <p>&nbsp;</p>
 
@@ -108,12 +114,7 @@ O manifesto elenca 14 itens que deveriam nortear as a&ccedil;&otilde;es do gover
 
 <p>4)Prote&ccedil;&atilde;o aos defensores de direitos humanos amea&ccedil;ados de morte e ado&ccedil;&atilde;o de medidas sociais em prol das fam&iacute;lias que perderam seus entes queridos em fun&ccedil;&atilde;o da atua&ccedil;&atilde;o criminosa de agentes do Estado em conflitos no campo.&nbsp;</p>
 
-<p><br />
-<em>Mais Informa&ccedil;&otilde;es:</em></p>
-
-<p>Viviane MST -&nbsp;&nbsp;91 9 9139 0907<br />
-Vera Paoloni&nbsp;- 91 9 8401 6825<br />
-&Eacute;rika Morhy - 91 9 9918 0228</p>
+<p>&nbsp;</p>
 
 <p><br />
 <strong><em>Leia abaixo a &iacute;ntegra da carta ao governador Sim&atilde;o Jatene:</em></strong></p>
@@ -233,21 +234,21 @@ Bel&eacute;m, 19 de junho de 2017.</p>
 Assinam esta comunica&ccedil;&atilde;o:</p>
 
 <p style="text-align: center;"><br />
-<b>Federa&ccedil;&atilde;o dos Trabalhadores Rurais Agricultores e Agricultoras Familiares do Estado do Par&aacute; &ndash; FETAGRI</b></p>
+<b>Federa&ccedil;&atilde;o dos Trabalhadores Rurais Agricultores e Agricultoras Familiares do Estado do Par&aacute; -&nbsp;FETAGRI</b></p>
 
-<p style="text-align: center;"><b>Federa&ccedil;&atilde;o dos Trabalhadores na Agricultura Familiar - FETRAF</b></p>
+<p style="text-align: center;"><b>Federa&ccedil;&atilde;o dos Trabalhadores na Agricultura Familiar -&nbsp;FETRAF</b></p>
 
-<p style="text-align: center;"><b>Movimento dos Trabalhadores Rurais Sem-Terra &ndash; MST</b></p>
+<p style="text-align: center;"><b>Movimento dos Trabalhadores Rurais Sem-Terra -&nbsp;MST</b></p>
 
-<p style="text-align: center;"><b>Comiss&atilde;o Pastoral da Terra &ndash; CPT</b></p>
+<p style="text-align: center;"><b>Comiss&atilde;o Pastoral da Terra -&nbsp;CPT</b></p>
 
-<p style="text-align: center;"><b>Central &Uacute;nica dos Trabalhadores &ndash; CUT/PA</b></p>
+<p style="text-align: center;"><b>Central &Uacute;nica dos Trabalhadores -&nbsp;CUT/PA</b></p>
 
-<p style="text-align: center;"><b>Confedera&ccedil;&atilde;o Nacional dos Trabalhadores na Agricultura Familiar &ndash; CONTAG</b></p>
+<p style="text-align: center;"><b>Confedera&ccedil;&atilde;o Nacional dos Trabalhadores na Agricultura Familiar -&nbsp;CONTAG</b></p>
 
 <p style="text-align: center;"><b>Via Campesina</b></p>
 
-<p style="text-align: center;"><b>Sociedade Paraense de Defesa dos Direitos Humanos &ndash; SDDH</b></p>
+<p style="text-align: center;"><b>Sociedade Paraense de Defesa dos Direitos Humanos -&nbsp;SDDH</b></p>
 
 <p style="text-align: center;"><b>Instituto Humanos Direitos</b></p>
 
