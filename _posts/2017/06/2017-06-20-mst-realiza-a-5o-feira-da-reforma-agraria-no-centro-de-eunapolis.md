@@ -7,16 +7,16 @@ tags:
 title: "MST realiza a 5º Feira da Reforma Agrária no centro de Eunápolis\n"
 support_line: "Para o Movimento, a feira é considerada um instrumento de contraposição ao modelo de produção dos grandes latifúndios e tem se tornado uma tradição entre a população"
 menu: reforma agrária
-images_hd: //farm5.staticflickr.com/4228/34617794613_ac7a23500b_b.jpg
+images_hd: //farm5.staticflickr.com/4236/35297824911_44d71570f6_b.jpg
 layout: post
 files:
-  - link: //farm5.staticflickr.com/4228/34617794613_ac7a23500b_b.jpg
-    original: //farm5.staticflickr.com/4228/34617794613_bf3c62bf99_o.jpg
-    thumbnail: //farm5.staticflickr.com/4228/34617794613_ac7a23500b_t.jpg
-    medium: //farm5.staticflickr.com/4228/34617794613_ac7a23500b_z.jpg
-    small: //farm5.staticflickr.com/4228/34617794613_ac7a23500b_n.jpg
-    title: mst-feira.jpg
-    $$hashKey: 06B
+  - link: //farm5.staticflickr.com/4236/35297824911_44d71570f6_b.jpg
+    original: //farm5.staticflickr.com/4236/35297824911_b6323bd760_o.jpg
+    thumbnail: //farm5.staticflickr.com/4236/35297824911_44d71570f6_t.jpg
+    medium: //farm5.staticflickr.com/4236/35297824911_44d71570f6_z.jpg
+    small: //farm5.staticflickr.com/4236/35297824911_44d71570f6_n.jpg
+    title: "IMG-20170617-WA0020[1].jpg"
+    $$hashKey: 0BE
 created_date: "2017-06-20T12:26:14-03:00"
 published: true
 releated_posts:
@@ -34,6 +34,12 @@ releated_posts:
   - _posts/2017/06/2017-06-08-10a-feira-cultural-da-reforma-agraria-e-realizada-no-ceara.md
 
 ---
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="IMG-20170617-WA0020[1].jpg" height="525" src="//farm5.staticflickr.com/4236/35297824911_44d71570f6_b.jpg" width="700" />
+<figcaption></figcaption>
+</figure>
+</div>
+
 <p>&nbsp;</p>
 
 <p><em>Por Coletivo de Comunica&ccedil;&atilde;o do MST na Bahia<br />
@@ -62,3 +68,7 @@ Ela acredita ainda, que a Feira deveria acontecer pelo menos uma vez por m&ecirc
 
 <p><br />
 Com car&aacute;ter cultural e artistas populares a feira demarcou seu espa&ccedil;o no centro de Eun&aacute;polis.</p>
+
+<p>&nbsp;</p>
+
+<p><em>*Editado por Maura Silva&nbsp;</em></p>
