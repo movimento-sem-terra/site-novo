@@ -8,7 +8,7 @@ title: "Após 21 anos do Massacre de Eldorado dos Carajás, organizações do ca
 menu: direitos humanos
 section: cover
 images_hd: //farm5.staticflickr.com/4204/34620808623_ca69ec8b3d_b.jpg
-support_line: São 18 mortes no Pará somente em 2017.
+support_line: São 18 mortes em 2017 somente no Pará.
 layout: post
 files:
   - link: //farm5.staticflickr.com/4204/34620808623_ca69ec8b3d_b.jpg
