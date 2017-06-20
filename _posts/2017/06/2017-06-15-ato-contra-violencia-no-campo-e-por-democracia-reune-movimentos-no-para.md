@@ -7,7 +7,7 @@ tags:
 title: "Ato contra violência no campo e por democracia reúne movimentos no Pará\n"
 support_line: "A progressiva violência no campo tem se sustentado em ações no campo institucional com cortes de direitos e mudanças brutais nas legislações, mas também em ações orquestradas por distintos atores sociais "
 menu: direitos humanos
-section: cover
+section: featured-news
 images_hd: //farm5.staticflickr.com/4284/35273932906_3131a3ff8f_b.jpg
 layout: post
 files:
