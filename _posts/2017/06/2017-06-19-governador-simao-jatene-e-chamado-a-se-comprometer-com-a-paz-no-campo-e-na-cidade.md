@@ -50,7 +50,7 @@ releated_posts:
   - _posts/2017/05/2017-05-31-o-comite-paraense-de-combate-a-violencia-no-campo-realiza-vigilia-em-belem.md
   - _posts/2017/05/2017-05-31-sem-direito-a-terra-em-vida-massacre-e-morte-indigna.md
   - _posts/2017/05/2017-05-25-nova-chacina-no-para-expoe-a-fragilidade-do-estado-na-resolucao-de-conflitos-no-campo.md
-section: cover
+section: featured-news
 
 ---
 <p>
