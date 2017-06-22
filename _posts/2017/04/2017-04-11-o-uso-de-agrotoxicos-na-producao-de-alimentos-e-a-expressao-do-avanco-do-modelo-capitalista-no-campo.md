@@ -91,7 +91,9 @@ Frente aos graves registros de danos socioambientais gerados pelo modelo capital
 A sociodiversidade cultural presente no campo e na floresta do Brasil se expressa nos povos que produzem alimento, vivem na terra e da terra, das &aacute;guas e da floresta&rdquo;, conclui.</p>
 
 <p><br />
-<span style="color: rgb(69, 69, 69); font-family: Helvetica; font-size: 17.6px;">Leia a seguir a segunda mat&eacute;ria do especial&nbsp;</span><i style="box-sizing: inherit; color: rgb(69, 69, 69); font-family: Helvetica; font-size: 17.6px;">&ldquo;Agrot&oacute;xicos no Brasil: Impactos e resist&ecirc;ncia popular&rdquo;:</i></p>
+Leia a seguir a terceira mat&eacute;ria do especial&nbsp;<i>&ldquo;Agrot&oacute;xicos no Brasil: Impactos e resist&ecirc;ncia popular&rdquo;:</i></p>
+
+<p><a href="http://www.mst.org.br/2017/04/30/nao-ha-contradicao-entre-desenvolvimento-e-agroecologia.html">&quot;N&atilde;o h&aacute; contradi&ccedil;&atilde;o entre desenvolvimento e agroecologia&quot;</a></p>
 
 <p><br />
 <em>*Este material integra o conjunto de reportagens do Especial para o site do MST: &ldquo;Agrot&oacute;xicos no Brasil: Impactos e resist&ecirc;ncia popular&rdquo;, como forma de apontar a import&acirc;ncia da produ&ccedil;&atilde;o e consumos de alimentos saud&aacute;veis, bem como. compreender o processo de interesses pol&iacute;ticos que est&aacute; envolvido neste contexto.&nbsp;</em></p>
