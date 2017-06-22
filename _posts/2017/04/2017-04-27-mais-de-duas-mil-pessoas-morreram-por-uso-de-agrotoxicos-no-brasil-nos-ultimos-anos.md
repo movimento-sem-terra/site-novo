@@ -71,7 +71,7 @@ Segundo N&iacute;via Regina da Silva, da Dire&ccedil;&atilde;o Nacional do MST, 
 O <a href="http://contraosagrotoxicos.org/dossie-abrasco/">dossi&ecirc; realizado pela Abrasco</a>, com dados do Instituto de Sa&uacute;de Coletiva da Universidade Federal da Bahia, revela que 2.052 &oacute;bitos por intoxica&ccedil;&atilde;o por agrot&oacute;xico foram registrados no Brasil entre 2000 e 2009. Com destaque para a regi&atilde;o nordeste, que respondeu a 41,8% dos &oacute;bitos. O relat&oacute;rio ainda ressalta as falhas no sistema de registro. Segundo a Organiza&ccedil;&atilde;o Mundial da Sa&uacute;de, se estima que para cada notificado, outros 50 n&atilde;o o foram, ou seja, cerca de 300 mil casos podem ter permanecido ocultos.</p>
 
 <p><br />
-Mas a morte n&atilde;o &eacute; a &uacute;nica consequ&ecirc;ncia do envenenamento generalizado, provocado pelo uso de agrot&oacute;xicos na produ&ccedil;&atilde;o de alimentos. Os impactos sobre a sa&uacute;de p&uacute;blica s&atilde;o muitos e prolongados.</p>
+Mas a <a href="http://www.mst.org.br/2017/04/27/mais-de-duas-mil-pessoas-morreram-por-uso-de-agrotoxicos-no-brasil-nos-ultimos-anos.html">morte</a> n&atilde;o &eacute; a &uacute;nica consequ&ecirc;ncia do envenenamento generalizado, provocado pelo uso de agrot&oacute;xicos na produ&ccedil;&atilde;o de alimentos. Os impactos sobre a sa&uacute;de p&uacute;blica s&atilde;o muitos e prolongados.</p>
 
 <p><br />
 &ldquo;Costumamos pensar na morte por envenenamento, porque os n&uacute;meros indicam grande volume de casos. Mas a morte nem sempre &eacute; o pior. Imagine os casos de crian&ccedil;as que nascem com defici&ecirc;ncia, de adultos com c&acirc;ncer, ou mesmo de uma &uacute;nica pessoa, em estado terminal, morrendo como um peixe, por insufici&ecirc;ncia respirat&oacute;ria causada por danos nos pulm&otilde;es. &Eacute; dif&iacute;cil calcular o sofrimento de todos que acompanham uma situa&ccedil;&atilde;o dessas&rdquo;, afirma o engenheiro agr&ocirc;nomo Leonardo Melgarejo.</p>
@@ -97,9 +97,8 @@ Com tantos e t&atilde;o graves riscos &agrave; sa&uacute;de da popula&ccedil;&at
 <p><br />
 Leia a seguir a terceira mat&eacute;ria do especial&nbsp;<em>&ldquo;Agrot&oacute;xicos no Brasil: Impactos e resist&ecirc;ncia popular&rdquo;:</em></p>
 
-<p><a href="http://www.mst.org.br/2017/04/27/mais-de-duas-mil-pessoas-morreram-por-uso-de-agrotoxicos-no-brasil-nos-ultimos-anos.html">Mais de duas mil pessoas morreram por uso de agrot&oacute;xicos no Brasil nos &uacute;ltimos anos​</a></p>
-
-<p><br />
+<p><a href="http://www.mst.org.br/2017/04/30/nao-ha-contradicao-entre-desenvolvimento-e-agroecologia.html">&quot;N&atilde;o h&aacute; contradi&ccedil;&atilde;o entre desenvolvimento e agroecologia&quot;</a><br />
+<br />
 &nbsp;</p>
 
 <p><em>*Este material integra o conjunto de reportagens do Especial para o site do MST: &ldquo;Agrot&oacute;xicos no Brasil: Impactos e resist&ecirc;ncia popular&rdquo;, como forma de apontar a import&acirc;ncia da produ&ccedil;&atilde;o e consumos de alimentos saud&aacute;veis, bem como. compreender o processo de interesses pol&iacute;ticos que est&aacute; envolvido neste contexto.&nbsp;</em></p>
