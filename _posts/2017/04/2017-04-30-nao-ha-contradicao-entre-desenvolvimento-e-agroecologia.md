@@ -138,6 +138,23 @@ Em 2017, a <a href="http://www.mst.org.br/II-feira-nacional-da-reforma-agraria">
 <p><br />
 Tamb&eacute;m em S&atilde;o Paulo, o MST mant&eacute;m um ponto de distribui&ccedil;&atilde;o permanente de produtos da Reforma Agr&aacute;ria, o <a href="https://www.facebook.com/ArmazemDoCampoProdutosDaTerra">Armaz&eacute;m do Campo</a>, localizado na Alameda Eduardo Prado, n&ordm; 499 - Campos El&iacute;seos, na regi&atilde;o central da capital paulista.</p>
 
+<p><br />
+&nbsp;</p>
+
+<p>
+<style type="text/css">p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; color: #454545}
+p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; color: #454545; min-height: 14.0px}
+</style>
+</p>
+
+<p class="p1">&nbsp;</p>
+
+<p class="p1">Leia a seguir a segunda mat&eacute;ria do especial&nbsp;<i>&ldquo;Agrot&oacute;xicos no Brasil: Impactos e resist&ecirc;ncia popular&rdquo;:</i></p>
+
+<p class="p2">&nbsp;</p>
+
+<p class="p1"><a href="http://www.mst.org.br/2017/05/03/superar-o-modelo-do-agronegocio-e-possivel-e-necessario.html">&quot;Superar o modelo do Agroneg&oacute;cio &eacute; poss&iacute;vel e necess&aacute;rio&quot;</a></p>
+
 <p>&nbsp;</p>
 
 <p><em>*Editado por Iris Pacheco<br />
