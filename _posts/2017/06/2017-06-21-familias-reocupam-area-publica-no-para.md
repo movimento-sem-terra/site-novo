@@ -37,7 +37,7 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p>O MST no estado do Par&aacute; emitiu na tarde desta quarta-feira (21) uma nota contextualizando o conflito por terras na regi&atilde;o de Curion&oacute;polis. No &uacute;ltimo dia 19, as fam&iacute;lias que produzem nas terra, reocuparam o local onde fica o Acampamento Frei Henri.</p>
+<p>O MST no estado do Par&aacute; emitiu na tarde desta quarta-feira (21) uma nota contextualizando o conflito por terras na regi&atilde;o de Curion&oacute;polis. No &uacute;ltimo dia 19, as fam&iacute;lias que produzem nas terras reocuparam o local onde fica o Acampamento Frei Henri.</p>
 
 <p><br />
 Dispostos a lutar pela Reforma Agr&aacute;ria e denunciando a imin&ecirc;ncia de uma a&ccedil;&atilde;o violenta por parte do latif&uacute;ndio que j&aacute; atacam e intimidam as fam&iacute;lias acampadas &quot;com tiros e bombas em dire&ccedil;&atilde;o ao acampamento e pistoleiros armados circulando dentro da fazenda.&quot;</p>
