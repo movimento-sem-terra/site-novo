@@ -50,6 +50,8 @@ releated_posts:
   - _posts/2017/02/2017-02-24-mato-grosso-no-rastro-da-soja-o-deserto-verde.md
 
 ---
+<p><img alt="24808775686_f69c3be2f2_b.jpg" height="590" src="//farm3.staticflickr.com/2827/33704519246_6fbcc1e158_b.jpg" width="700" /></p>
+
 <p>&nbsp;</p>
 
 <p><em>Por Leonardo Fernandes<br />
@@ -97,7 +99,12 @@ Para Melgarejo, &ldquo;qualquer iniciativa ou metodologia simplificadora, destin
 Na contram&atilde;o do projeto golpista, o MST realiza por todo o pa&iacute;s Jornadas de Agroecologia, Feiras da Reforma Agr&aacute;ria, Jornadas de Alimenta&ccedil;&atilde;o Saud&aacute;vel, com o objetivo de ampliar com toda a sociedade o debate sobre a necessidade de uma Reforma Agr&aacute;ria Popular, que garanta o direito &agrave; terra aos produtores e produtoras rurais, uma alimenta&ccedil;&atilde;o de qualidade para toda a sociedade, livre de venenos, em benef&iacute;cio da sa&uacute;de p&uacute;blica e do meio ambiente.</p>
 
 <p><br />
-Entre os dias 4 e 7 de maio de 2017, o Parque da &Aacute;gua Branca, na zona oeste de S&atilde;o Paulo, ser&aacute; o cen&aacute;rio para uma das mais importantes materializa&ccedil;&otilde;es da luta do povo Sem Terra: a <a href="http://www.mst.org.br/2017/03/24/mst-anuncia-data-para-2a-feira-nacional-da-reforma-agraria.html">2&ordf; Feira Nacional da Reforma Agr&aacute;ria</a>.&nbsp;Al&eacute;m disso integra a <a href="http://contraosagrotoxicos.org/">Campanha Permanente contra os Agrot&oacute;xicos e Pela Vida</a> que recentemente, junto a outros segmentos da sociedade,&nbsp;lan&ccedil;ou a plataforma&nbsp;<a href="http://www.chegadeagrotoxicos.org.br/">#ChegadeAgrot&oacute;xicos</a>&nbsp;que defende a aprova&ccedil;&atilde;o da Lei que institui a Pol&iacute;tica Nacional de Redu&ccedil;&atilde;o de Agrot&oacute;xicos (PNaRA) e barra&nbsp;o Projeto de Lei (PL) 6299/2002, conhecido como &ldquo;Pacote do Veneno&rdquo;.&nbsp;</p>
+Leia a seguir a segunda mat&eacute;ria do especial&nbsp;<em>&ldquo;Agrot&oacute;xicos no Brasil: Impactos e resist&ecirc;ncia popular&rdquo;:</em></p>
+
+<p><em>&ldquo;Agrot&oacute;xicos no Brasil: Impactos e resist&ecirc;ncia popular&rdquo;</em></p>
+
+<p><br />
+&nbsp;</p>
 
 <p><br />
 <em>*Editado por Iris Pacheco<br />
