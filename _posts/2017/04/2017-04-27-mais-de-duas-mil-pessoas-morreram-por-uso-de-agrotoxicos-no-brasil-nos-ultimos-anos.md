@@ -95,4 +95,11 @@ A exposi&ccedil;&atilde;o aos agrot&oacute;xicos tamb&eacute;m pode provocar enf
 Com tantos e t&atilde;o graves riscos &agrave; sa&uacute;de da popula&ccedil;&atilde;o, n&atilde;o &eacute; exagero dizer que a atual pol&iacute;tica do governo ileg&iacute;timo de Michel Temer para a libera&ccedil;&atilde;o de novos registros de agrot&oacute;xicos no Brasil, coloca o pa&iacute;s no caminho contr&aacute;rio da defesa da vida.</p>
 
 <p><br />
-<em>*Este material integra o conjunto de reportagens do Especial para o site do MST: &ldquo;Agrot&oacute;xicos no Brasil: Impactos e resist&ecirc;ncia popular&rdquo;, como forma de apontar a import&acirc;ncia da produ&ccedil;&atilde;o e consumos de alimentos saud&aacute;veis, bem como. compreender o processo de interesses pol&iacute;ticos que est&aacute; envolvido neste contexto.&nbsp;</em></p>
+Leia a seguir a terceira mat&eacute;ria do especial&nbsp;<em>&ldquo;Agrot&oacute;xicos no Brasil: Impactos e resist&ecirc;ncia popular&rdquo;:</em></p>
+
+<p><a href="http://www.mst.org.br/2017/04/27/mais-de-duas-mil-pessoas-morreram-por-uso-de-agrotoxicos-no-brasil-nos-ultimos-anos.html">Mais de duas mil pessoas morreram por uso de agrot&oacute;xicos no Brasil nos &uacute;ltimos anos​</a></p>
+
+<p><br />
+&nbsp;</p>
+
+<p><em>*Este material integra o conjunto de reportagens do Especial para o site do MST: &ldquo;Agrot&oacute;xicos no Brasil: Impactos e resist&ecirc;ncia popular&rdquo;, como forma de apontar a import&acirc;ncia da produ&ccedil;&atilde;o e consumos de alimentos saud&aacute;veis, bem como. compreender o processo de interesses pol&iacute;ticos que est&aacute; envolvido neste contexto.&nbsp;</em></p>
