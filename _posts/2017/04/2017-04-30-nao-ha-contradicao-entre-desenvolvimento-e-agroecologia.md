@@ -149,7 +149,7 @@ p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; color: #454545; m
 
 <p class="p1">&nbsp;</p>
 
-<p class="p1">Leia a seguir a segunda mat&eacute;ria do especial&nbsp;<i>&ldquo;Agrot&oacute;xicos no Brasil: Impactos e resist&ecirc;ncia popular&rdquo;:</i></p>
+<p class="p1">Leia a seguir a quarta mat&eacute;ria do especial&nbsp;<i>&ldquo;Agrot&oacute;xicos no Brasil: Impactos e resist&ecirc;ncia popular&rdquo;:</i></p>
 
 <p class="p2">&nbsp;</p>
 
