@@ -5,7 +5,7 @@ tags:
   - tag: golpe
   - tag: congresso
 title: "Decisão do STF sobre aprovação da MP 759 evidencia conduta inconstitucional do Senado\n"
-support_line: Barroso determina retorno à Câmara da Medida de regularização fundiária para apreciação das emendas invisibilizadas durante a votação na Casa revisora
+support_line: Barroso determina retorno da Medida de regularização fundiária à Câmara para apreciação das emendas invisibilizadas durante a votação na Casa revisora
 images_hd: //farm5.staticflickr.com/4213/35087543960_1db1789d45_b.jpg
 menu: lutas e mobilizações
 layout: post
