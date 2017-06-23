@@ -4,8 +4,8 @@ tags:
   - tag: cnbb
   - tag: funai
   - tag: indigenas
-title: CNBB manifesta repúdio ao atentado à direitos dos povos indígenas pela CPI Funai-Incra
-support_line: "Organismo denuncia a correlação entre atuação legislativa dos parlamentares ruralistas e manifesta apoio ao CIMI\n"
+title: "CPI Funai-Incra: CNBB manifesta repúdio ao atentado à direitos dos povos indígenas"
+support_line: "Organismo denuncia a correlação entre atuação legislativa dos parlamentares ruralistas e manifesta apoio ao CIMI.\n"
 images_hd: //farm5.staticflickr.com/4221/35086337130_8990ba6bfc_b.jpg
 menu: direitos humanos
 layout: post
