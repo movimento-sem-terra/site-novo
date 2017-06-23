@@ -8,7 +8,7 @@ tags:
 title: Famílias reocupam área pública no Pará
 support_line: "No último dia 19, as famílias que produzem nas terra, reocuparam o local onde fica o Acampamento Frei Henri."
 menu: lutas e mobilizações
-section: cover
+section: featured-news
 images_hd: //farm5.staticflickr.com/4196/34645521313_a64e1aa0eb_b.jpg
 layout: post
 files:
