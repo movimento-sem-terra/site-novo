@@ -36,7 +36,7 @@ Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
-<p>Na&uacute;ltima quinta-feira (23), educadores e educadoras da Reforma Agr&aacute;ria participaram do Semin&aacute;rio Educa&ccedil;&atilde;o do Campo da brigada Pau de Colher, no Assentamento Cana&atilde;, em Remanso, Norte baiano.</p>
+<p>Na quinta-feira (23), educadores e educadoras da Reforma Agr&aacute;ria participaram do Semin&aacute;rio Educa&ccedil;&atilde;o do Campo da brigada Pau de Colher, no Assentamento Cana&atilde;, em Remanso, Norte baiano.</p>
 
 <p><br />
 Um dos objetivos do semin&aacute;rio foi o de estudar a hist&oacute;ria do MST e resgatar os princ&iacute;pios da educa&ccedil;&atilde;o do campo para constru&ccedil;&atilde;o de sujeitos hist&oacute;ricos e pedag&oacute;gicos, atrav&eacute;s do tema &ldquo;A Hist&oacute;ria da Educa&ccedil;&atilde;o do MST: Desafios e Perspectivas&rdquo;.</p>
