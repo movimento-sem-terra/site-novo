@@ -7,7 +7,7 @@ tags:
 title: "Documentário “Seu churrasco tem soja?” é lançado e disponibilizado para o público "
 images_hd: //farm5.staticflickr.com/4240/35400949992_5a54b55d8c_b.jpg
 menu: agronegócio
-support_line: "A produção debate os impactos causados nas populações locais e no meio ambiente por conta da demanda mundial por carne, a partir da soja"
+support_line: "Filme debate os impactos nas populações e no meio ambiente a partir da soja por conta da demanda mundial por carne. Assista aqui!"
 layout: post
 files:
   - link: //farm5.staticflickr.com/4240/35400949992_5a54b55d8c_b.jpg
@@ -25,6 +25,7 @@ releated_posts:
   - _posts/2017/03/2017-03-16-plataforma-chegadeagrotoxicos-e-lancada-no-brasil.md
   - _posts/2017/03/2017-03-28-camara-analisa-pl-que-propoe-reducao-progressiva-de-agrotoxicos.md
   - _posts/2017/03/2017-03-20-glifosato-o-veneno-esta-em-todo-lugar.md
+section: cover
 
 ---
 <p>&nbsp;</p>
@@ -41,7 +42,7 @@ Produzido por Thomas Bauer, agente da Comiss&atilde;o Pastoral da Terra (CPT) na
 A produ&ccedil;&atilde;o debate os impactos causados nas popula&ccedil;&otilde;es locais e no meio ambiente por conta da demanda mundial por carne, a partir da soja, produto base na produ&ccedil;&atilde;o de carne bovina, su&iacute;na, aves e outras, atrav&eacute;s da ra&ccedil;&atilde;o utilizada nesses criat&oacute;rios. A produ&ccedil;&atilde;o de soja domina hoje dois ter&ccedil;os das terras f&eacute;rteis do mundo, e o Brasil &eacute; um dos maiores exportadores de grande parte desta soja.</p>
 
 <p><br />
-O document&aacute;rio &ldquo;Seu churrasco tem soja?&rdquo; est&aacute; dispon&iacute;vel no site da <a href="https://www.cptnacional.org.br/">Comiss&atilde;o Pastoral da Terra</a> e no da <a href="http://semcerrado.org.br/">Campanha Nacional em Defesa do Cerrado</a>.</p>
+O document&aacute;rio &ldquo;Seu churrasco tem soja?&rdquo; est&aacute; dispon&iacute;vel no site da <a href="https://www.cptnacional.org.br/">Comiss&atilde;o Pastoral da Terra</a> no da <a href="http://semcerrado.org.br/">Campanha Nacional em Defesa do Cerrado</a>.</p>
 
 <p><br />
 <strong>Sinopse</strong></p>
