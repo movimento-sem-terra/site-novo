@@ -4,7 +4,7 @@ tags:
   - tag: lutas-e-mobilizações
   - tag: pesar
   - tag: lutadores
-title: "Perdemos Alípio de Freitas: "
+title: "Perdemos Alípio de Freitas "
 support_line: "Sacerdote e missionário português, que virou revolucionário no Brasil e organizador das ligas camponesas no Maranhão.\n"
 images_hd: //farm5.staticflickr.com/4266/35400649852_d291c94fd1_b.jpg
 menu: solidariedade
