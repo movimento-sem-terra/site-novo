@@ -25,7 +25,7 @@ releated_posts:
   - _posts/2017/03/2017-03-16-plataforma-chegadeagrotoxicos-e-lancada-no-brasil.md
   - _posts/2017/03/2017-03-28-camara-analisa-pl-que-propoe-reducao-progressiva-de-agrotoxicos.md
   - _posts/2017/03/2017-03-20-glifosato-o-veneno-esta-em-todo-lugar.md
-section: cover
+section: featured-news
 
 ---
 <p>&nbsp;</p>
