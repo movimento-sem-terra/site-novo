@@ -8,7 +8,7 @@ tags:
 title: " São Paulo terá ato no dia 30 contra reformas e por eleições diretas"
 support_line: Greves e manifestações ocorrerão em todo o país.
 menu: lutas e mobilizações
-section: cover
+section: featured-news
 images_hd: //farm5.staticflickr.com/4238/35488290706_49546a2893_b.jpg
 layout: post
 files:
