@@ -41,6 +41,7 @@ releated_posts:
   - _posts/2017/05/2017-05-25-alheio-a-reivindicacao-de-200-mil-manifestantes-governo-tentar-conquistar-legitimidade-com-repressao.md
   - _posts/2017/05/2017-05-29-150-mil-pessoas-lotam-praia-de-copacabana-em-ato-historico-por-diretas-ja.md
   - _posts/2017/05/2017-05-29-onu-e-cidh-condenam-uso-excessivo-da-forca-durante-manifestacoes-no-brasil.md
+section: featured-news
 
 ---
 <p>
