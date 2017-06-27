@@ -19,6 +19,13 @@ files:
     small: //farm5.staticflickr.com/4234/34735615224_681b1d3fe7_n.jpg
     title: O advogado do Instituto Socioabiental lista o conjunto de medidas movidas por parlamentares ruralistas. Foto Jefferson Rudy.jpg
     $$hashKey: "030"
+  - link: //farm5.staticflickr.com/4231/35446471581_1387c88398_b.jpg
+    original: //farm5.staticflickr.com/4231/35446471581_f090f381dc_o.jpg
+    thumbnail: //farm5.staticflickr.com/4231/35446471581_1387c88398_t.jpg
+    medium: //farm5.staticflickr.com/4231/35446471581_1387c88398_z.jpg
+    small: //farm5.staticflickr.com/4231/35446471581_1387c88398_n.jpg
+    title: Bancada ruralista no Congresso é a mais numerosa. Fonte Banco da Imagens Cãmara.jpg
+    $$hashKey: 0CO
 created_date: "2017-06-27T18:52:55-03:00"
 published: true
 releated_posts:
@@ -28,7 +35,9 @@ releated_posts:
   - _posts/2016/12/2016-12-06-movimentos-alertam-para-retorno-de-conflitos-violentos-no-campo.md
 
 ---
-<p>&nbsp;</p>
+<figure class="image"><img alt="Bancada ruralista no Congresso é a mais numerosa. Fonte Banco da Imagens Cãmara.jpg" height="459" src="//farm5.staticflickr.com/4231/35446471581_1387c88398_b.jpg" width="700" />
+<figcaption>Bancada ruralista no Congresso &eacute; a mais numerosa. Fonte: Banco da Imagens/C&acirc;mara</figcaption>
+</figure>
 
 <p>&nbsp;</p>
 
