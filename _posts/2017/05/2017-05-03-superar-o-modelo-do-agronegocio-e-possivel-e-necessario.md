@@ -87,5 +87,11 @@ Os esfor&ccedil;os do MST para a supera&ccedil;&atilde;o do modelo predat&oacute
 Segundo ela, fazer este caminho &eacute; pensar a&ccedil;&otilde;es internas e externas ao sistema produtivo como processo cont&iacute;nuo, multilinear e crescente no tempo: internamente &eacute; preciso fazer a substitui&ccedil;&atilde;o dos insumos qu&iacute;micos sint&eacute;ticos e externos ao sistema, realizar o manejo da agrobiodiversidade, e redesenhar os sistemas produtivos. Externamente, &eacute; preciso estimular a consci&ecirc;ncia p&uacute;blica, organizar os mercados e a infraestrutura, promover rela&ccedil;&otilde;es institucionais (pesquisa, ensino e extens&atilde;o), formular pol&iacute;ticas p&uacute;blicas integradas e sist&ecirc;micas. Desta forma &eacute; poss&iacute;vel construir a produ&ccedil;&atilde;o alimentos saud&aacute;veis de alto valor biol&oacute;gico, cultivados em agroecossistemas cheios de vida, livres de agrot&oacute;xicos e transg&ecirc;nicos.</p>
 
 <p><br />
-<em>*Editado por Iris Pacheco<br />
+Leia a seguir a quinta mat&eacute;ria do especial&nbsp;<i>&ldquo;Agrot&oacute;xicos no Brasil: Impactos e resist&ecirc;ncia popular&rdquo;:</i></p>
+
+<p><a href="http://www.mst.org.br/2017/04/27/mais-de-duas-mil-pessoas-morreram-por-uso-de-agrotoxicos-no-brasil-nos-ultimos-anos.html">Mais de duas mil pessoas morreram por uso de agrot&oacute;xicos no Brasil nos &uacute;ltimos anos</a></p>
+
+<p>&nbsp;</p>
+
+<p><em>*Editado por Iris Pacheco<br />
 **Este material integra o conjunto de reportagens do Especial para o site do MST: &ldquo;Agrot&oacute;xicos no Brasil: Impactos e resist&ecirc;ncia popular&rdquo;, como forma de apontar a import&acirc;ncia da produ&ccedil;&atilde;o e consumos de alimentos saud&aacute;veis, bem como. compreender o processo de interesses pol&iacute;ticos que est&aacute; envolvido neste contexto.&nbsp;</em></p>
