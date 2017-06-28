@@ -9,7 +9,7 @@ support_line: "“Em momento de denúncia contra Temer, é provável que a Câma
 title: Mauricío Guetta reflete sobre a votação das emendas da MP 759
 images_hd: //farm5.staticflickr.com/4234/34735615224_681b1d3fe7_b.jpg
 menu: reforma agrária
-section: cover
+section: featured-news
 layout: post
 files:
   - link: //farm5.staticflickr.com/4234/34735615224_681b1d3fe7_b.jpg
