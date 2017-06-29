@@ -100,8 +100,8 @@ A tramita&ccedil;&atilde;o da reforma, objeto de intensa preocupa&ccedil;&atilde
 &ldquo;N&oacute;s n&atilde;o pod&iacute;amos estar discutindo qualquer outra mat&eacute;ria, muito menos as reformas, que retiram direitos dos trabalhadores&rdquo;, declarou a senadora e presidenta do PT, Gleisi Hoffmann (PT-PR), anteriormente &agrave; vota&ccedil;&atilde;o pela CCJ.</p>
 
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="Info reforma trabalhista 2.png" height="577" src="//farm5.staticflickr.com/4159/35482887401_65e7245fa0_b.jpg" width="700" />
-<figcaption></figcaption>
+<figure class="image" style="display:inline-block"><img alt="Reforma trabalhista já está na pauta do Plenário do Senado. Foto Edilson Rodrigues Agência Senado.jpg" height="466" src="//farm5.staticflickr.com/4056/35445081672_09f341b07b_b.jpg" width="700" />
+<figcaption>Reforma trabalhista j&aacute; est&aacute; na pauta do Plen&aacute;rio do Senado. Foto Edilson Rodrigues Ag&ecirc;ncia Senado - Atalho</figcaption>
 </figure>
 </div>
 
@@ -130,8 +130,8 @@ O presidente da CUT aponta que, gradualmente, a popula&ccedil;&atilde;o tem venc
 A an&aacute;lise do cutista &eacute; compartilhada pelo membro da coordena&ccedil;&atilde;o nacional do Movimento dos Trabalhadores Sem-Terra (MST), Alexandre Concei&ccedil;&atilde;o. &ldquo;As crescentes mobiliza&ccedil;&otilde;es, a ida &agrave;s ruas, tem possibilitado que o povo debata sobre a viol&ecirc;ncia desta proposta. &Eacute; mais do que urgente fazer uma greve geral para derrotar esse governo que n&atilde;o pode seguir administrando o pa&iacute;s&rdquo;, diz convocando a popula&ccedil;&atilde;o a se somar aos atos do dia 30.</p>
 
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="Reforma trabalhista já está na pauta do Plenário do Senado. Foto Edilson Rodrigues Agência Senado.jpg" height="466" src="//farm5.staticflickr.com/4056/35445081672_09f341b07b_b.jpg" width="700" />
-<figcaption>Reforma trabalhista j&aacute; est&aacute; na pauta do Plen&aacute;rio do Senado. Foto Edilson Rodrigues Ag&ecirc;ncia Senado - Atalho</figcaption>
+<figure class="image" style="display:inline-block"><img alt="Info reforma trabalhista 2.png" height="577" src="//farm5.staticflickr.com/4159/35482887401_65e7245fa0_b.jpg" width="700" />
+<figcaption></figcaption>
 </figure>
 </div>
 
