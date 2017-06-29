@@ -148,24 +148,24 @@ Veja abaixo alguns dos principais pontos presentes na proposta. Somado aos itens
 Acordado sobre o legislado &ndash; principal item da proposta, incide sobre um conjunto de quest&otilde;es (jornada de trabalho, intervalo, banco de horas, etc). Determina que &ldquo;a conven&ccedil;&atilde;o ou o acordo coletivo de trabalho tem for&ccedil;a de lei e prevalecer&aacute; sobre as disposi&ccedil;&otilde;es legais&quot;. Isto significa que o empregado e patr&atilde;o negociam, sem intermedia&ccedil;&atilde;o de sindicatos e independente do que prev&ecirc; a lei. Cria a figura do representante dos trabalhadores dentro das empresas.</p>
 
 <p><br />
-Como &eacute; hoje: Sindicatos representam as categorias. Quest&otilde;es s&atilde;o determinadas por lei.</p>
+<strong>Como &eacute; hoje: Sindicatos representam as categorias. Quest&otilde;es s&atilde;o determinadas por lei.</strong></p>
 
 <p><br />
 Trabalho insalubre para gestantes e lactantes - As gestantes e lactantes poder&atilde;o trabalhar em locais de pequeno ou m&eacute;dio grau de insalubridade, mediante apresenta&ccedil;&atilde;o de atestado m&eacute;dio. &nbsp;Ser&atilde;o afastadas quando atestarem que a atividade laboral pode apresentar risco &agrave; sa&uacute;de sua e/ou do beb&ecirc;.<br />
 Como &eacute; hoje: Por lei, gestantes e lactantes s&atilde;o automaticamente afastadas de qualquer trabalho insalubre.</p>
 
 <p><br />
-Jornadas de trabalho &ndash; De negocia&ccedil;&atilde;o com o patr&atilde;o, pode chegar a 12 horas di&aacute;rias, e limite de 48h/semana.<br />
+<strong>Jornadas de trabalho &ndash; </strong>De negocia&ccedil;&atilde;o com o patr&atilde;o, pode chegar a 12 horas di&aacute;rias, e limite de 48h/semana.<br />
 Como &eacute; hoje: A CLT determina que a jornada semanal &eacute; de, no m&aacute;ximo, 44 horas, com limite de 8 horas di&aacute;rias.&nbsp;</p>
 
 <p><br />
-Transporte &ndash; Nos casos em que a empresa fornece transporte coletivo (quando n&atilde;o h&aacute; acesso ao transporte p&uacute;blico), o tempo gasto no percurso entre resid&ecirc;ncia e trabalho n&atilde;o ser&aacute; mais computado na jornada de trabalho.<br />
+<strong>Transporte &ndash;</strong> Nos casos em que a empresa fornece transporte coletivo (quando n&atilde;o h&aacute; acesso ao transporte p&uacute;blico), o tempo gasto no percurso entre resid&ecirc;ncia e trabalho n&atilde;o ser&aacute; mais computado na jornada de trabalho.<br />
 Como &eacute; hoje: O tempo para deslocamento &eacute; inclu&iacute;do como parte da jornada de trabalho.</p>
 
 <p><br />
-Intervalos de trabalho &ndash; Tamb&eacute;m vulner&aacute;vel &agrave; negocia&ccedil;&atilde;o com patr&atilde;o, pode ser de tempo menor do que uma hora. O tempo restante, entre 1h e o tempo real de intervalo, passa a ser ignorado.<br />
+<strong>Intervalos de trabalho &ndash;</strong> Tamb&eacute;m vulner&aacute;vel &agrave; negocia&ccedil;&atilde;o com patr&atilde;o, pode ser de tempo menor do que uma hora. O tempo restante, entre 1h e o tempo real de intervalo, passa a ser ignorado.<br />
 Como &eacute; hoje: Em jornadas acima de seis horas di&aacute;rias, o trabalhador tem direito a uma hora de intervalo para alimenta&ccedil;&atilde;o e repouso. Nos casos em que o intervalo &eacute; de menos de uma hora, o TST determina que empregador pague adicional.</p>
 
 <p><br />
-Contribui&ccedil;&atilde;o sindical &ndash; a proposta de reforma torna facultativo o pagamento da contribui&ccedil;&atilde;o.<br />
+<strong>Contribui&ccedil;&atilde;o sindical &ndash;</strong>&nbsp;A&nbsp;proposta de reforma torna facultativo o pagamento da contribui&ccedil;&atilde;o.<br />
 Como &eacute; hoje: O pagamento &eacute; obrigat&oacute;rio e independe se o trabalhador &eacute; associado ou n&atilde;o &agrave;s entidades de classe. O valor equivale a um dia de trabalho para pagamento pelo trabalhador. Para a empresa o valor &eacute; definido por uma al&iacute;quota, de acordo com parte da empresa.</p>
