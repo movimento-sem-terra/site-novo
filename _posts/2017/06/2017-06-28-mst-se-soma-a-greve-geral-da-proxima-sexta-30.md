@@ -44,7 +44,7 @@ Da P&aacute;gina do MST</em></p>
 A convocat&oacute;ria da greve partiu das centrais sindicais e de movimentos populares que se agrupam nas frentes Brasil Popular e Povo Sem Medo e j&aacute; conta com a ades&atilde;o de diversas categorias.</p>
 
 <p><br />
-Kelly Mafort, da Dire&ccedil;&atilde;o Nacional do MST, explica porque o movimento se soma a esta convoca&ccedil;&atilde;o. &ldquo;Essas reformas t&ecirc;m a ver com a conjuntura que vivemos no pa&iacute;s, de acelera&ccedil;&atilde;o da perdas de direitos t&atilde;o agressiva, t&atilde;o avassaladora, que nos leva a uma condi&ccedil;&atilde;o de profundo retrocessos quase ao tempo da escravid&atilde;o, como &eacute; o caso da reforma trabalhista em rela&ccedil;&atilde;o ao campo&rdquo;, afirmou, ao fazer refer&ecirc;ncia a uma das medidas inclu&iacute;das na PL 6442/2016, que tramita no Congresso, e que prev&ecirc; alimenta&ccedil;&atilde;o e habita&ccedil;&atilde;o como formas de remunera&ccedil;&atilde;o ao trabalhador rural.</p>
+Kelly Mafort, da Dire&ccedil;&atilde;o Nacional do MST, explica porque o movimento se soma a esta convoca&ccedil;&atilde;o. &ldquo;Essas reformas t&ecirc;m a ver com a conjuntura que vivemos no pa&iacute;s, de acelera&ccedil;&atilde;o da perdas de direitos t&atilde;o agressiva, t&atilde;o avassaladora, que nos leva a uma condi&ccedil;&atilde;o de profundo retrocesso&nbsp;quase ao tempo da escravid&atilde;o, como &eacute; o caso da reforma trabalhista em rela&ccedil;&atilde;o ao campo&rdquo;, afirmou, ao fazer refer&ecirc;ncia a uma das medidas inclu&iacute;das na PL 6442/2016, que tramita no Congresso, e que prev&ecirc; alimenta&ccedil;&atilde;o e habita&ccedil;&atilde;o como formas de remunera&ccedil;&atilde;o ao trabalhador rural.</p>
 
 <p><br />
 &ldquo;Por outro lado &ndash; completa &ndash; h&aacute; enormes retrocessos em rela&ccedil;&atilde;o &agrave; garantia dos direitos fundamentais, como a organiza&ccedil;&atilde;o popular, por meio da criminaliza&ccedil;&atilde;o da luta. Estamos acompanhando agora mudan&ccedil;as na chamada lei antiterrorismo, justamente no ponto que protegia os movimentos populares&rdquo;, chamando a aten&ccedil;&atilde;o para o estado de exce&ccedil;&atilde;o que se instaura no pa&iacute;s.</p>
@@ -65,7 +65,7 @@ Mafort alerta ainda que embora as mobiliza&ccedil;&otilde;es tenham sido multitu
 O PL 6442/2016 tem forte apoio da bancada ruralista no Congresso, o que por si j&aacute; demonstra que o projeto caminha na dire&ccedil;&atilde;o contr&aacute;ria dos interesses dos trabalhadores rurais, pequenos agricultores e trabalhadores Sem Terra.</p>
 
 <p><br />
-Depois de d&eacute;cadas de esfor&ccedil;o por combater o trabalho an&aacute;logo &agrave; escravid&atilde;o, a reforma trabalhista do governo Temer prop&otilde;es, entre outros descalabros, novas regras no que diz respeito &agrave; remunera&ccedil;&atilde;o, jornada de trabalho, entre outros pontos sens&iacute;veis ao trabalhador rural.</p>
+Depois de d&eacute;cadas de esfor&ccedil;o por combater o trabalho an&aacute;logo &agrave; escravid&atilde;o, a reforma trabalhista do governo Temer prop&otilde;e, entre outros descalabros, novas regras no que diz respeito &agrave; remunera&ccedil;&atilde;o, jornada de trabalho, entre outros pontos sens&iacute;veis ao trabalhador rural.</p>
 
 <p><br />
 Um dos maiores absurdos &eacute; a extens&atilde;o da jornada de trabalho para 12 horas di&aacute;rias, &ldquo;ante necessidade imperiosa ou em face de motivo de for&ccedil;a maior, causas acidentais, ou ainda para atender a realiza&ccedil;&atilde;o ou conclus&atilde;o de servi&ccedil;os inadi&aacute;veis, ou cuja inexecu&ccedil;&atilde;o possa acarretar preju&iacute;zos manifestos&rdquo;, segundo diz o texto.</p>
@@ -89,7 +89,7 @@ Em Rio Branco, no Acre, a concentra&ccedil;&atilde;o iniciar&aacute; &agrave;s 8
 No Par&aacute;, est&atilde;o marcadas mobiliza&ccedil;&otilde;es nas cidades de Bel&eacute;m, Santar&eacute;m, Altamira, Marab&aacute; e Marituba. Na capital paraense, os movimentos populares se reunir&atilde;o a partir das 11h na Pra&ccedil;a da Rep&uacute;blica. Em Altamira, a concentra&ccedil;&atilde;o est&aacute; marcada &agrave;s 8h no mercado municipal. Em Marab&aacute;, sudoeste do estado, a concentra&ccedil;&atilde;o est&aacute; marcada para as 7h30 em frente ao est&aacute;dio Zinho Oliveira. Em Marituba, regi&atilde;o metropolitana de Bel&eacute;m, os manifestantes se reunir&atilde;o &agrave;s 7h na entrada da Al&ccedil;a Vi&aacute;ria.</p>
 
 <p><br />
-Outras cidades tamb&eacute;m t&ecirc;m atos programados. Confira a agenda no site da Frente Brasil Popular (<a href="http://www.frentebrasilpopular.org.br/">clique aqui</a>).</p>
+Outras cidades tamb&eacute;m t&ecirc;m atos programados. Confira a agenda no site da <a href="http://www.frentebrasilpopular.org.br/">Frente Brasil Popular</a>.</p>
 
 <p>&nbsp;</p>
 
