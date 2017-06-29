@@ -5,7 +5,7 @@ tags:
   - tag: governo-temer
   - tag: senado
   - tag: brasilia
-title: "Após vitória na CCJ, desmonte trabalhista pode ser votada nesta quinta-feira pelo Plenário\n"
+title: "Após vitória na CCJ, desmonte trabalhista pode ser votado nesta quinta-feira pelo Plenário\n"
 support_line: "Alheio à reprovação popular e de setores da justiça do trabalho, a base de apoio tenta antecipar votação pelo Senado antes da Greve Geral. Entenda as mudanças"
 images_hd: //farm5.staticflickr.com/4056/35445081672_09f341b07b_b.jpg
 menu: lutas e mobilizações
