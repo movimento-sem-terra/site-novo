@@ -4,7 +4,7 @@ tags:
   - tag: greve
   - tag: fora-temer
   - tag: defesa-de-direitos
-section: cover
+section: featured-news
 title: MST se soma à Greve Geral da próxima sexta (30)
 support_line: "Movimento Sem Terra se mobiliza em todas as regiões do país contra as reformas trabalhista e da Previdência, pelo Fora Temer e diretas já!"
 menu: lutas e mobilizações
@@ -23,7 +23,6 @@ published: true
 releated_posts:
   - _posts/2017/06/2017-06-25-sao-paulo-tera-ato-no-dia-30-contra-reformas-e-por-eleicoes-diretas.md
   - _posts/2017/04/2017-04-27-mst-vai-bloquear-as-rodovias-do-brasil-neste-dia-de-greve-geral.md
-  - _posts/2017/04/2017-04-28-acompanhe-minuto-a-minuto-do-brasilemgreve.md
   - _posts/2017/04/2017-04-28-o-pais-amanhece-parado-em-dia-de-greve-geral.md
   - _posts/2017/04/2017-04-28-da-escravidao-a-reforma-trabalhista.md
   - _posts/2017/04/2017-04-28-greve-realiza-bloqueios-em-todo-brasil-contra-reformas-de-temer.md
