@@ -4,7 +4,7 @@ tags:
   - tag: lutas-e-mobilizações
   - tag: Greve
   - tag: paralisação
-title: DF se soma à Greve Geral nesta sexta-feira (30)
+title: DF se soma à Greve Geral desta sexta-feira (30)
 support_line: "Com paralisação de várias categorias, ações buscam dialogar com a população sobre reformas e eleições diretas"
 menu: lutas e mobilizações
 sector: mass-front
