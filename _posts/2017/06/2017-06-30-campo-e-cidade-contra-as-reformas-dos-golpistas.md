@@ -53,6 +53,13 @@ files:
     small: //farm5.staticflickr.com/4235/35599171956_54ab4cfe9a_n.jpg
     title: WhatsApp Image 2017-06-30 at 09.48.10.jpeg
     $$hashKey: 068
+  - link: //farm5.staticflickr.com/4267/34797367024_38367889cd_b.jpg
+    original: //farm5.staticflickr.com/4267/34797367024_bae38e79c7_o.jpg
+    thumbnail: //farm5.staticflickr.com/4267/34797367024_38367889cd_t.jpg
+    medium: //farm5.staticflickr.com/4267/34797367024_38367889cd_z.jpg
+    small: //farm5.staticflickr.com/4267/34797367024_38367889cd_n.jpg
+    title: 19601213_1477388148975811_7857181648199733829_n.jpg
+    $$hashKey: 05L
 created_date: "2017-06-30T20:41:03-03:00"
 published: true
 releated_posts:
@@ -76,6 +83,12 @@ releated_posts:
 
 <p><br />
 A Greve Geral &eacute; uma realidade de Norte a Sul do pa&iacute;s, seja nos grandes centros urbanos, seja nos territ&oacute;rios mais remotos de nossa imensid&atilde;o continental. O MST e demais trabalhadores e povos do campo marcam presen&ccedil;a dando mais for&ccedil;a para as lutas que pretendem barrar as reformas trabalhista e da Previd&ecirc;ncia Social.</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="19601213_1477388148975811_7857181648199733829_n.jpg" height="399" src="//farm5.staticflickr.com/4267/34797367024_38367889cd_b.jpg" width="600" />
+<figcaption>S&atilde;o Paulo&nbsp;</figcaption>
+</figure>
+</div>
 
 <p><br />
 A t&ocirc;nica da cr&iacute;tica vai na dire&ccedil;&atilde;o do &ldquo;Fora Temer&rdquo; e do restabelecimento da democracia golpeada, com convoca&ccedil;&atilde;o de elei&ccedil;&otilde;es diretas. Foram realizados trancamentos de rodovias, libera&ccedil;&atilde;o do ped&aacute;gio em Minas Gerais, bloqueio de portos, marchas unit&aacute;rias nas cidades e ocupa&ccedil;&otilde;es de terra.</p>
