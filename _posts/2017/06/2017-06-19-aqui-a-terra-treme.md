@@ -4,7 +4,7 @@ tags:
   - tag: violência-no-campo
   - tag: pará
   - tag: assassinatos
-support_line: "Riqueza, pobreza e violência nas terras de Carajás"
+support_line: "Riqueza, pobreza e violência nas terras de Carajás."
 title: Aqui a terra treme
 menu: direitos humanos
 label: articles
