@@ -71,7 +71,7 @@ Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
-<p>No &uacute;ltimo fim&nbsp;de semana, o&nbsp;Assentamento Monte Alegre, em Tamboril, no Cear&aacute;, realizou a XVIII edi&ccedil;&atilde;o do festival de quadrilhas juninas da Reforma Agr&aacute;ria. A atividade, que &eacute; organizada pela Associa&ccedil;&atilde;o Comunit&aacute;ria dos Assentados do Assentamento Monte Alegre (ASCOAMA), &nbsp;j&aacute; acontece h&aacute; 18 anos e dessa vez,&nbsp;contou com diversas apreens&otilde;es de grupos juninos de assentamentos e comunidades tradicionais da regi&atilde;o de Crate&uacute;s, al&eacute;m de apresenta&ccedil;&otilde;es de bandas de forr&oacute; da regi&atilde;o.</p>
+<p>No &uacute;ltimo fim&nbsp;de semana, o&nbsp;Assentamento Monte Alegre, em Tamboril, no Cear&aacute;, realizou a XVIII edi&ccedil;&atilde;o do Festival de Quadrilhas Juninas da Reforma Agr&aacute;ria. A atividade, que &eacute; organizada pela Associa&ccedil;&atilde;o Comunit&aacute;ria dos Assentados do Assentamento Monte Alegre (ASCOAMA), &nbsp;j&aacute; acontece h&aacute; 18 anos e dessa vez,&nbsp;contou com diversas apreens&otilde;es de grupos juninos de assentamentos e comunidades tradicionais da regi&atilde;o de Crate&uacute;s, al&eacute;m de apresenta&ccedil;&otilde;es de bandas de forr&oacute; da regi&atilde;o.</p>
 
 <p>&nbsp;</p>
 
