@@ -49,7 +49,7 @@ p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; color: #454545}
 <p>&nbsp;</p>
 
 <p><em>Por Simone Freire<br />
-Da P&aacute;gina do MST<br />
+*Especial para a P&aacute;gina do MST<br />
 Foto:&nbsp;Kate Janse van Rensburg / Pan-Africa Today</em></p>
 
 <p>&nbsp;</p>
