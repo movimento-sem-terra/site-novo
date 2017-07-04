@@ -7,7 +7,7 @@ tags:
 title: "Campo e cidade contra as reformas dos golpistas\n\n"
 support_line: "A tônica da crítica vai na direção do “Fora Temer” e do restabelecimento da democracia golpeada, com convocação de eleições diretas"
 menu: lutas e mobilizações
-section: cover
+section: featured-news
 images_hd: //farm5.staticflickr.com/4199/34797179084_d4387f53c0_b.jpg
 layout: post
 files:
