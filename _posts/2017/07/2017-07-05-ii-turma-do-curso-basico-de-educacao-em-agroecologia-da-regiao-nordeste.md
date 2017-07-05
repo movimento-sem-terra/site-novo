@@ -85,7 +85,7 @@ Para Emilia Moreira, professora doutora em Geografia da <span style="color: rgb(
 </figure>
 </div>
 
-<p>bater</p>
+<p>&nbsp;</p>
 
 <p>No segundo dia de forma&ccedil;&atilde;o&nbsp;o tema: Legado de Che Guevara: Em Mem&oacute;ria, 50 anos! Em homenagem aos cinquenta anos da morte do comandante revolucion&aacute;rio, tivemos a presen&ccedil;a do Consul de Cuba Alexis Cruz realizando uma exposi&ccedil;&atilde;o sobre o legado de Ernesto &#39;Che&#39; Guevara de la Serna.</p>
 
