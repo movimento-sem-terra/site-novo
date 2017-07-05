@@ -5,7 +5,7 @@ tags:
   - tag: solidariedade
   - tag: mobilizações
 title: "Liberdade para Khalida Jarrar e Khitam Saafin, militantes palestinas detidas pelas forças de ocupação israelenses\n"
-support_line: Reiteramos nosso repúdio à ocupação de todo o território palestino e também nosso compromisso de seguir em luta e solidariedade por seu povo
+support_line: "Em nota, MST reitera o repúdio à ocupação de todo o território palestino "
 menu: solidariedade
 images_hd: //farm5.staticflickr.com/4212/35350529640_ee6fc0e0ea_b.jpg
 section: cover
@@ -74,3 +74,7 @@ O povo palestino tem o direito de lutar contra a ocupa&ccedil;&atilde;o de suas 
 Solidariedade com as mulheres palestinas e com o povo palestino!&nbsp;<br />
 &nbsp;<br />
 Coletivo de Mulheres da Dire&ccedil;&atilde;o Nacional</p>
+
+<p style="text-align: right;">&nbsp;</p>
+
+<p>Assine a peti&ccedil;&atilde;o online que pela liberta&ccedil;&atilde;o dos prisioneiros palestinos <a href="https://www.change.org/p/israeli-occupation-forces-free-khalida-jarrar-and-khitam-saafin-now?recruiter=317339427&amp;utm_source=share_petition&amp;utm_medium=copylink&amp;utm_campaign=share_petition">aqui</a>.&nbsp;&nbsp;</p>
