@@ -46,6 +46,7 @@ releated_posts:
   - _posts/2017/06/2017-06-21-esvaziamento-da-democracia-e-dos-direitos-lgbts-estao-conectados-aponta-seminario.md
   - _posts/2017/04/2017-04-13-no-rn-organizacoes-da-via-campesina-realizam-o-i-curso-de-educacao-em-direitos-humanos-ne.md
   - _posts/2017/06/2017-06-05-juventude-sem-terra-se-prepara-para-a-marcha-nacional-a-brasilia.md
+section: cover
 
 ---
 <p>
