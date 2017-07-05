@@ -54,7 +54,7 @@ Entre as prisioneiras est&atilde;o&nbsp;Khalida Jarrar, parlamentar de esquerda 
 Neste domingo, 2 de julho, as for&ccedil;as de ocupa&ccedil;&atilde;o israelenses realizaram uma opera&ccedil;&atilde;o onde detiveram Khalida Jarrar, parlamentar de esquerda palestina e advogada dos presos pol&iacute;ticos palestinos, e Khitam Saafin, presidente da Uni&atilde;o dos Comit&ecirc;s de Mulheres Palestinas, com pelo menos mais nove outras pessoas, incluindo Ihab Massoud, libertado h&aacute; menos de seis meses das pris&otilde;es israelenses e quatro l&iacute;deres comunit&aacute;rios, no campo de refugiados de al-Aroub.&nbsp;</p>
 
 <p><br />
-A pris&atilde;o Khalida Jarrar e Khitam Saafin, l&iacute;deres feministas e progressistas palestinas e lutadoras comprometidas com a liberdade e a liberta&ccedil;&atilde;o de seu povo, &eacute; uma evidente iniciativa de ataque aos movimentos populares palestinos, na tentativa de elimin&aacute;-los pelo medo, pris&otilde;es e intimida&ccedil;&otilde;es realizadas por uma for&ccedil;a de ocupa&ccedil;&atilde;o massiva israelense.&nbsp;</p>
+A pris&atilde;o de Khalida Jarrar e Khitam Saafin, l&iacute;deres feministas e progressistas palestinas e lutadoras comprometidas com a liberdade e a liberta&ccedil;&atilde;o de seu povo, &eacute; uma evidente iniciativa de ataque aos movimentos populares palestinos, na tentativa de elimin&aacute;-los pelo medo, pris&otilde;es e intimida&ccedil;&otilde;es realizadas por uma for&ccedil;a de ocupa&ccedil;&atilde;o massiva israelense.&nbsp;</p>
 
 <p><br />
 O exercito israelense informou que a deten&ccedil;&atilde;o de Khalida Jarrar se deve &agrave;s suas atividades como membro da Frente Popular pela Liberta&ccedil;&atilde;o Palestina (FPLP), organiza&ccedil;&atilde;o marxista considerada terrorista por Israel, e n&atilde;o por seu cargo de deputada. No entanto, Jarrar j&aacute; havia sido detida pela &uacute;ltima vez em 2 de abril de 2015 e liberada em junho de 2016. Sem acusa&ccedil;&otilde;es ou julgamento, sua pris&atilde;o foi ordenada como deten&ccedil;&atilde;o administrativa, pr&aacute;tica recorrente quando n&atilde;o h&aacute; motivos criminais para confinar palestinos. O protesto internacional sobre seu caso fez com que essa deten&ccedil;&atilde;o administrativa fosse cancelada.</p>
@@ -71,9 +71,12 @@ O povo palestino tem o direito de lutar contra a ocupa&ccedil;&atilde;o de suas 
 <p style="text-align: right;">&nbsp;</p>
 
 <p style="text-align: right;">Por uma Palestina Livre!<br />
-Solidariedade com as mulheres palestinas e com o povo palestino!&nbsp;<br />
+Solidariedade com as mulheres palestinas e com o povo palestino!&nbsp;</p>
+
+<p style="text-align: center;"><br />
 &nbsp;<br />
-Coletivo de Mulheres da Dire&ccedil;&atilde;o Nacional</p>
+<strong>Coletivo de Mulheres da Dire&ccedil;&atilde;o Nacional<br />
+Movimento dos Trabalhadores Rurais Sem Terra</strong></p>
 
 <p style="text-align: right;">&nbsp;</p>
 
