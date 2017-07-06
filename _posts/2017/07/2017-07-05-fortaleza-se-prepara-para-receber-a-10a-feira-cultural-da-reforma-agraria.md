@@ -1,47 +1,22 @@
 ---
 date: "2017-07-05T12:41:18-03:00"
-tags:
-  - tag: ceará
-  - tag: feira-da-reforma-agrária
-images_hd: //farm5.staticflickr.com/4057/34915503564_ffbe06b5ab_b.jpg
-support_line: "Evento ocorre no próximo sábado (8) na capital cearense, com o tema \"A questão ambiental no Ceará: os conflitos ambientais e os impactos das grandes obras”."
-title: "Fortaleza se prepara para receber a 11ª Feira Cultural da Reforma Agrária "
+tags: []
+images_hd: //farm5.staticflickr.com/4147/34922004944_54284078ae_b.jpg
+support_line: teste
+title: teste
 menu: agricultura camponesa
 layout: post
 files:
-  - link: //farm5.staticflickr.com/4096/35350582040_f202309965_b.jpg
-    original: //farm5.staticflickr.com/4096/35350582040_1219309274_o.jpg
-    thumbnail: //farm5.staticflickr.com/4096/35350582040_f202309965_t.jpg
-    medium: //farm5.staticflickr.com/4096/35350582040_f202309965_z.jpg
-    small: //farm5.staticflickr.com/4096/35350582040_f202309965_n.jpg
-    title: FOTOS FEIRA.jpg
-    $$hashKey: "033"
-  - link: //farm5.staticflickr.com/4039/34946756653_7946abf46d_b.jpg
-    original: //farm5.staticflickr.com/4039/34946756653_29bb8c83fa_o.jpg
-    thumbnail: //farm5.staticflickr.com/4039/34946756653_7946abf46d_t.jpg
-    medium: //farm5.staticflickr.com/4039/34946756653_7946abf46d_z.jpg
-    small: //farm5.staticflickr.com/4039/34946756653_7946abf46d_n.jpg
-    title: DSC09467.JPG
-    $$hashKey: 05V
-  - link: //farm5.staticflickr.com/4057/34915503564_ffbe06b5ab_b.jpg
-    original: //farm5.staticflickr.com/4057/34915503564_71c57ac339_o.jpg
-    thumbnail: //farm5.staticflickr.com/4057/34915503564_ffbe06b5ab_t.jpg
-    medium: //farm5.staticflickr.com/4057/34915503564_ffbe06b5ab_z.jpg
-    small: //farm5.staticflickr.com/4057/34915503564_ffbe06b5ab_n.jpg
-    title: DSC09418.JPG
-    $$hashKey: 05Y
+  - link: //farm5.staticflickr.com/4147/34922004944_54284078ae_b.jpg
+    original: //farm5.staticflickr.com/4147/34922004944_f5d9cf69ca_o.jpg
+    thumbnail: //farm5.staticflickr.com/4147/34922004944_54284078ae_t.jpg
+    medium: //farm5.staticflickr.com/4147/34922004944_54284078ae_z.jpg
+    small: //farm5.staticflickr.com/4147/34922004944_54284078ae_n.jpg
+    title: 35350529640_ee6fc0e0ea_b.jpg
+    $$hashKey: "065"
 created_date: "2017-07-05T12:51:10-03:00"
 published: true
-releated_posts:
-  - _posts/2017/03/2017-03-06-mst-realiza-vii-feira-cultural-da-reforma-agraria-no-ceara.md
-  - _posts/2017/03/2017-03-30-mst-realiza-8a-feira-cultural-da-reforma-agraria-no-ceara.md
-  - _posts/2017/05/2017-05-22-mst-realiza-iv-feira-da-reforma-agraria-no-sertao-central-do-ceara.md
-  - _posts/2017/06/2017-06-08-10a-feira-cultural-da-reforma-agraria-e-realizada-no-ceara.md
-  - _posts/2017/06/2017-06-05-medicina-popular-estara-presente-na-3o-feira-da-reforma-agraria-em-salvador.md
-  - _posts/2017/05/2017-05-12-sem-terra-realizam-ato-em-defesa-de-assentamento-no-ceara.md
-  - _posts/2017/06/2017-06-07-em-salvador-feira-do-mst-debatera-o-momento-politico-e-a-reforma-agraria-popular.md
-  - _posts/2017/06/2017-06-09-ato-politico-aponta-retomada-democratica-como-ponto-central-das-lutas.md
-  - _posts/2017/06/2017-06-08-em-salvador-mst-ocupa-a-piedade-com-alimentos-saudaveis-na-3o-feira-da-reforma-agraria.md
+releated_posts: []
 
 ---
 <p>
@@ -49,43 +24,6 @@ releated_posts:
 </style>
 </p>
 
-<p><img alt="DSC09418.JPG" height="393" src="//farm5.staticflickr.com/4057/34915503564_ffbe06b5ab_b.jpg" width="700" /></p>
-
 <p>&nbsp;</p>
 
-<p><em>Por Aline Oliveira<br />
-Da P&aacute;gina do MST</em></p>
-
 <p>&nbsp;</p>
-
-<p>No pr&oacute;ximo s&aacute;bado (8), acontece no Cear&aacute; a 11&ordf; Feira Cultural da Reforma Agr&aacute;ria do MST. O evento ser&aacute; realizado no Centro de Forma&ccedil;&atilde;o, Capacita&ccedil;&atilde;o e Pesquisa Frei Humberto, localizado na Rua Paulo Firmeza, 445, bairro S&atilde;o Jo&atilde;o do Tauap&eacute;, em Fortaleza.</p>
-
-<p><br />
-Como j&aacute; &eacute; de costume, durante as feiras da Reforma Agr&aacute;ria ocorrem debates sobre&nbsp;temas relevantes da atualidade. Nessa edi&ccedil;&atilde;o, o tema ser&aacute; &ldquo;a&nbsp;quest&atilde;o ambiental no Cear&aacute;: os conflitos ambientais e os impactos das&nbsp;grandes obras&rdquo;, mediado&nbsp;por Ant&ocirc;nia Ivaneide, do MST, e Jeov&aacute; Meireles, da Universidade Federal do Cear&aacute; (UFC).</p>
-
-<p><br />
-A 11&ordf; Feira Cultural da Reforma Agr&aacute;ria tem o objetivo de dar visibilidade &agrave; produ&ccedil;&atilde;o camponesa e agroecol&oacute;gica, trazendo alimentos produzidos nos assentamentos e oferecendo &agrave; popula&ccedil;&atilde;o urbana a possibilidade de consumir produtos livres de agrot&oacute;xicos. Tem tamb&eacute;m a inten&ccedil;&atilde;o de dialogar com o conjunto da sociedade sobre a necessidade da realiza&ccedil;&atilde;o da Reforma Agr&aacute;ria Popular.</p>
-
-<p><br />
-Feij&atilde;o, batata, galinha caipira, cheiro verde, queijo, banana, mam&atilde;o, ab&oacute;bora, tomate, mel de abelha, castanha, doce de leite, rapadura e coalhada s&atilde;o alguns dos produtos que poder&atilde;o ser encontrados na feira.</p>
-
-<p><br />
-Al&eacute;m dos produtos da Reforma Agr&aacute;ria, a feira cultural tamb&eacute;m ter&aacute; um espa&ccedil;o para a&nbsp;produ&ccedil;&atilde;o intelectual brasileira e internacional com a participa&ccedil;&atilde;o do Plebeu Gabinete de Leitura.</p>
-
-<p><br />
-O evento &eacute; aberto ao p&uacute;blico e est&aacute; previsto encerramento para as 16&nbsp;horas.</p>
-
-<p><br />
-A 11&ordf; Feira Cultural do Cear&aacute; vai ser em clima de S&atilde;o Jo&atilde;o!</p>
-
-<p><br />
-<em>Confira abaixo a programa&ccedil;&atilde;o completa:</em></p>
-
-<p><br />
-<img alt="FOTOS FEIRA.jpg" height="990" src="//farm5.staticflickr.com/4096/35350582040_f202309965_b.jpg" width="700" /></p>
-
-<p>&nbsp;</p>
-
-<p><em>*Editado por Leonardo Fernandes</em></p>
-
-<p class="p1">&nbsp;</p>
