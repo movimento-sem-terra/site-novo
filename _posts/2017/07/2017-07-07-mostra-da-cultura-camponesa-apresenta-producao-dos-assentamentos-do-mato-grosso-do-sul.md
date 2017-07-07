@@ -5,7 +5,7 @@ tags:
   - tag: cultura
   - tag: campo-e-cidade
   - tag: mato-grosso-do-sul
-title: Mostra da Cultura Camponesa apresenta produção dos assentamentos do Mato Grosso do Sul
+title: Mostra da Cultura Camponesa expõe produção de assentamentos do MS
 images_hd: //farm5.staticflickr.com/4264/35778648455_6b24d8fabb_b.jpg
 support_line: O que se destaca na Mostra é a efetiva participação das mulheres.
 menu: reforma agrária
