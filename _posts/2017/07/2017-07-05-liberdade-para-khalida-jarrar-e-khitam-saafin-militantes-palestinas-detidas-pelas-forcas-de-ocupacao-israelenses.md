@@ -5,10 +5,10 @@ tags:
   - tag: solidariedade
   - tag: mobilizações
 title: "Liberdade para Khalida Jarrar e Khitam Saafin, militantes palestinas detidas pelas forças de ocupação israelenses\n"
-support_line: "Em nota, MST reitera o repúdio à ocupação de todo o território palestino "
+support_line: "Em nota, MST reitera o repúdio à ocupação de todo o território palestino."
 menu: solidariedade
 images_hd: //farm5.staticflickr.com/4212/35350529640_ee6fc0e0ea_b.jpg
-section: cover
+section: featured-news
 layout: post
 files:
   - link: //farm5.staticflickr.com/4212/35350529640_ee6fc0e0ea_b.jpg
@@ -41,7 +41,10 @@ releated_posts:
 <p><em>Da P&aacute;gina do MST </em></p>
 
 <p><br />
-O MST vem a p&uacute;blico expressar sua solidariedade aos militantes palestinos presos na &uacute;ltima semana em mais uma opera&ccedil;&atilde;o arbitr&aacute;ria do ex&eacute;rcito israelense.&nbsp;</p>
+O MST vem a p&uacute;blico expressar sua solidariedade aos militantes palestinos presos na &uacute;ltima semana em mais uma opera&ccedil;&atilde;o arbitr&aacute;ria do ex&eacute;rcito israelense.</p>
+
+<p><br />
+Assine a peti&ccedil;&atilde;o online que pela liberta&ccedil;&atilde;o dos prisioneiros palestinos <a href="https://www.change.org/p/israeli-occupation-forces-free-khalida-jarrar-and-khitam-saafin-now?recruiter=317339427&amp;utm_source=share_petition&amp;utm_medium=copylink&amp;utm_campaign=share_petition">aqui</a>.&nbsp;&nbsp;</p>
 
 <p><br />
 Entre as prisioneiras est&atilde;o&nbsp;Khalida Jarrar, parlamentar de esquerda palestina e advogada dos presos pol&iacute;ticos palestinos, e Khitam Saafin, presidente da Uni&atilde;o dos Comit&ecirc;s de Mulheres Palestinas, duas figuras centrais de resist&ecirc;ncia e luta pela liberta&ccedil;&atilde;o do povo palestino. Reiteramos nosso rep&uacute;dio &agrave; ocupa&ccedil;&atilde;o de todo o territ&oacute;rio palestino e tamb&eacute;m nosso compromisso de seguir em luta e solidariedade por seu povo.&nbsp;</p>
