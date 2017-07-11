@@ -8,7 +8,7 @@ title: Romaria da terra e das águas reafirma a luta pelo território e contra o
 images_hd: //farm5.staticflickr.com/4242/35454864960_90fbb39f09_b.jpg
 support_line: "Na ocasião, foi feita a leitura da carta final que apresentou uma síntese das plenárias e da trajetória de luta que a Romaria tem construído em suas 40 edições."
 menu: lutas e mobilizações
-section: cover
+section: featured-news
 layout: post
 files:
   - link: //farm5.staticflickr.com/4242/35454864960_90fbb39f09_b.jpg
