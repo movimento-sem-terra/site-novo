@@ -62,7 +62,7 @@ Da P&aacute;gina do MST</em></p>
 <p>Na quarta-feira (5), o desembargador Eduardo de Azevedo Paiva, da 18&ordf; C&acirc;mara C&iacute;vel do Tribunal de Justi&ccedil;a do Estado do Rio de Janeiro (TJ-RJ), decidiu rejeitar o pedido de reintegra&ccedil;&atilde;o de posse de uma &aacute;rea na regi&atilde;o do A&ccedil;u, distrito do munic&iacute;pio de S&atilde;o Jo&atilde;o da Barra, norte do Estado do Rio de Janeiro.</p>
 
 <p><br />
-As terras&nbsp;haviam sido reocupadas por trabalhadores Sem Terra no dia 19 de abril, durante a Jornada Nacional de Lutas pela Reforma Agr&aacute;ria. Os agricultores haviam sido retirados da &aacute;rea h&aacute; oito anos, por for&ccedil;a de um decreto estadual de 2009, que autorizou a empresa LLX, do empres&aacute;rio Eike Batista, a tomar posse do local.</p>
+As terras&nbsp;haviam sido reocupadas por agricultores no dia 19 de abril, durante a Jornada Nacional de Lutas pela Reforma Agr&aacute;ria. Os trabalhadores haviam sido retirados da &aacute;rea h&aacute; oito anos, por for&ccedil;a de um decreto estadual de 2009, que autorizou a empresa LLX, do empres&aacute;rio Eike Batista, a tomar posse do local.</p>
 
 <p><br />
 Os trabalhadores que reocuparam a &aacute;rea argumentam que os objetos que teriam justificado o decreto de desapropria&ccedil;&atilde;o e nortearam a tomada da terra deixaram de existir. As empresas que ocupariam a enorme &aacute;rea (duas sider&uacute;rgicas, duas cimenteiras, usinas termel&eacute;tricas, estaleiros e outras) terminaram ocupando menos de 10% das terras.</p>
@@ -78,7 +78,7 @@ Os trabalhadores que reocuparam a &aacute;rea argumentam que os objetos que teri
 
 <p><br />
 Na decis&atilde;o dessa quarta-feira, o desembargador reafirmou a decis&atilde;o do juiz da 1&ordf; Vara da Comarca de S&atilde;o Jo&atilde;o da Barra - Paulo Maur&iacute;cio Sim&atilde;o Filho que negou o pedido de reintegra&ccedil;&atilde;o de posse solicitado pelas empresas Prumo, GSA e pela Companhia de Desenvolvimento Industrial do Estado do Rio de Janeiro (Codin-RJ).<br />
-O desembargador do TJ-RJ destacou a falta de argumentos da Prumo e Condin-RJ sobre a subutiliza&ccedil;&atilde;o da &aacute;rea. Apesar de a decis&atilde;o ter sido favor&aacute;vel aos trabalhadores Sem Terra, os trabalhadores ainda exigem a anula&ccedil;&atilde;o do decreto de desapropria&ccedil;&atilde;o de 2009 e a devolu&ccedil;&atilde;o formal das terras os trabalhadores e trabalhadoras.</p>
+O desembargador do TJ-RJ destacou a falta de argumentos da Prumo e Condin-RJ sobre a subutiliza&ccedil;&atilde;o da &aacute;rea. Apesar de a decis&atilde;o ter sido favor&aacute;vel aos agricultores, os trabalhadores ainda exigem a anula&ccedil;&atilde;o do decreto de desapropria&ccedil;&atilde;o de 2009 e a devolu&ccedil;&atilde;o formal das terras os trabalhadores e trabalhadoras.</p>
 
 <p><br />
 <strong>Hist&oacute;rico</strong></p>
