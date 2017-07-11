@@ -4,7 +4,7 @@ tags:
   - tag: rio-de-janeiro
   - tag: ocupação
 images_hd: //farm5.staticflickr.com/4237/35468752830_b7c5df3a2a_b.jpg
-title: Vitória dos Trabalhadores em Açu (RJ)
+title: Continua a luta dos agricultores do Açu
 support_line: "Desembargador Eduardo de Azevedo Paiva, da 18ª Câmara Cível do Tribunal de Justiça do Estado do Rio de Janeiro (TJ-RJ) rejeitou pedido de reintegração de posse da área reocupada por agricultores no norte do estado."
 menu: lutas e mobilizações
 section: featured-news
