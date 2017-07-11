@@ -24,6 +24,7 @@ releated_posts:
   - _posts/2017/04/2017-04-05-incra-institui-referencia-de-preco-para-privatizacao-de-assentamentos.md
   - _posts/2017/04/2017-04-17-sem-terra-acampam-em-frente-ao-incra-de-curitiba-como-parte-da-jornada-de-lutas.md
   - _posts/2017/05/2017-05-31-mulheres-do-parana-por-uma-alimentacao-saudavel-de-qualidade.md
+section: cover
 
 ---
 <p>&nbsp;</p>
