@@ -6,7 +6,7 @@ tags:
 title: Começa a V Turma de Especialização em Estudos Latino-Americanos
 support_line: Aula inaugural na UFJF apontou caminhos para a resistência na America Latina diante dos golpes
 menu: projeto popular
-section: cover
+section: featured-news
 images_hd: //farm5.staticflickr.com/4263/35858762886_09499f6d26_b.jpg
 layout: post
 files:
@@ -26,7 +26,9 @@ releated_posts:
   - _posts/2016/10/2016-10-25-sem-terra-realizam-curso-de-formacao-intersetorial-no-extremo-sul-da-bahia.md
 
 ---
-<p>Da P&aacute;gina do MST&nbsp;</p>
+<p>&nbsp;</p>
+
+<p><em>Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
 A conjuntura latino-americana e o protagonismo dos movimentos populares foi tema de palestra da aula inaugural da V Turma de&nbsp;Especializa&ccedil;&atilde;o em Estudos Latino-Americanos nesta segunda-feira (10).&nbsp;</p>
@@ -72,6 +74,7 @@ J&aacute; para Jarbas Vieira, militante do MAM, educando e representante da turm
 &quot;O conservadorismo da sociedade brasileira n&atilde;o quer preto, mulheres, a diversidade na universidade... Estar neste espa&ccedil;o &eacute; uma vit&oacute;ria da classe trabalhadora&quot;, afirma.</p>
 
 <p><br />
-A V turma da Especializa&ccedil;&atilde;o em Estudos Latino-Americanos conta com 39 inscritos. Os alunos do curso s&atilde;o indicados &agrave; ENFF pelos movimentos populares e, em seguida, selecionados pelos docentes do curso. A metodologia utilizada &eacute; a de altern&acirc;ncia, com aulas presenciais concentradas nos meses de janeiro e julho, de modo que os diversos estudantes tenham oportunidade de participar.</p>
+A V turma da Especializa&ccedil;&atilde;o em Estudos Latino-Americanos conta com 39 inscritos. Os alunos do curso s&atilde;o indicados &agrave; ENFF pelos movimentos populares e, em seguida, selecionados pelos docentes do curso. A metodologia utilizada &eacute; a de altern&acirc;ncia, com aulas presenciais concentradas nos meses de janeiro e julho, de modo que os diversos estudantes tenham oportunidade de participar.<br />
+&nbsp;</p>
 
 <p><em>Editado por Geanini Hackbardt</em></p>
