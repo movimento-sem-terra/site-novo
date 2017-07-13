@@ -33,7 +33,7 @@ releated_posts:
   - _posts/2017/03/2017-03-27-lutar-nao-e-crime.md
 
 ---
-<p style="text-align:center"><img alt="Cerca de mil Sem Terras participam das mobilizações." height="267" src="//farm5.staticflickr.com/4290/35901080925_40b777696d_b.jpg" width="400" /></p>
+<p style="text-align:center"><img alt="Cerca de mil Sem Terras participam das mobilizações." height="467" src="//farm5.staticflickr.com/4290/35901080925_40b777696d_b.jpg" width="700" /></p>
 
 <p>&nbsp;</p>
 
