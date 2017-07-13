@@ -21,6 +21,13 @@ files:
     small: //farm5.staticflickr.com/4261/35859166966_fd94bf6dfc_n.jpg
     title: Foto 2- Lisian Jardim Santos - MST.jpeg
     $$hashKey: "070"
+  - link: //farm5.staticflickr.com/4289/35092189253_64fc13c582_b.jpg
+    original: //farm5.staticflickr.com/4289/35092189253_9a14d610c5_o.jpg
+    thumbnail: //farm5.staticflickr.com/4289/35092189253_64fc13c582_t.jpg
+    medium: //farm5.staticflickr.com/4289/35092189253_64fc13c582_z.jpg
+    small: //farm5.staticflickr.com/4289/35092189253_64fc13c582_n.jpg
+    title: Foto Lisian Jardim Santos - MST.jpeg
+    $$hashKey: 05D
 created_date: "2017-07-13T12:48:37-03:00"
 published: true
 releated_posts:
@@ -35,6 +42,8 @@ releated_posts:
   - _posts/2017/06/2017-06-06-escola-itinerante-carlos-mariguella-e-o-fortalecimento-de-uma-alimentacao-saudavel-para-todos.md
 
 ---
+<p><img alt="Foto 2- Lisian Jardim Santos - MST.jpeg" height="435" src="//farm5.staticflickr.com/4261/35859166966_fd94bf6dfc_b.jpg" width="700" /></p>
+
 <p>&nbsp;</p>
 
 <p><em>Por Catiana de Medeiros</em><br />
