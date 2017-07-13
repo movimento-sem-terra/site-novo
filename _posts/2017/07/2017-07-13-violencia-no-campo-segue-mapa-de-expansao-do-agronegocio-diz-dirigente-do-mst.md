@@ -5,7 +5,7 @@ tags:
   - tag: entrevista
   - tag: violência-no-campo
 section: boletim
-soundcloud: "https://soundcloud.com/movimento-sem-terra/violencia-no-campo-segue-mapa-de-expansao-do-agronegocio-diz-dirigente-do-mst"
+soundcloud: "<iframe width=\"100%\" height=\"450\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/331579916&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true\"></iframe>"
 title: "Violência no campo segue mapa de expansão do agronegócio, diz dirigente do MST"
 support_line: Entrevista foi concedida à Radioagência Brasil de Fato.
 menu: direitos humanos
