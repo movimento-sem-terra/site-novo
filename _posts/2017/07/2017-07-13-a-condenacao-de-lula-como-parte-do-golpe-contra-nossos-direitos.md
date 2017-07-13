@@ -5,7 +5,7 @@ tags:
   - tag: solidariedade
   - tag: golpe
   - tag: fora-temer
-support_line: Conclamamos toda a militância a participar das manifestações da Frente Brasil Popular contra a perseguição do Poder Judiciário e o avanço do Estado de Exceção.
+support_line: Conclamamos toda a militância a participar das manifestações contra a perseguição do Poder Judiciário e o avanço do Estado de Exceção.
 title: A condenação de Lula como parte do Golpe contra nossos direitos
 menu: direitos humanos
 section: cover
