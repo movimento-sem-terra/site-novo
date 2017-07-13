@@ -7,7 +7,7 @@ tags:
 title: MST condena nova legislação fundiária aprovada hoje pelos golpistas
 support_line: "A Medida  foi editada no final do ano passado por Michel Temer, atendendo a uma demanda da bancada ruralista, fiadora do Golpe."
 menu: reforma agrária
-section: cover
+section: featured-news
 images_hd: //farm5.staticflickr.com/4218/35026145084_da7bee96c3_b.jpg
 layout: post
 files:
