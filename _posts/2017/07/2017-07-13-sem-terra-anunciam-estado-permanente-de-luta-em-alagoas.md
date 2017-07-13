@@ -3,12 +3,12 @@ date: "2017-07-13T13:30:38-03:00"
 tags:
   - tag: lutas-e-mobilizações
   - tag: lutas
-  - tag: alagoas
   - tag: unidade
+  - tag: alagoas
 support_line: As ações exigem agilidade na destinação da massa falida de João Lyra para fins de Reforma Agrária
 title: Sem Terra anunciam estado permanente de luta em Alagoas
 menu: lutas e mobilizações
-images_hd: //farm5.staticflickr.com/4290/35901080925_40b777696d_b.jpg
+images_hd: //farm5.staticflickr.com/4259/35731440652_2f72dc7e23_b.jpg
 layout: post
 files:
   - link: //farm5.staticflickr.com/4259/35731440652_2f72dc7e23_b.jpg
@@ -26,14 +26,15 @@ files:
     title: al (1 de 1).jpg
     $$hashKey: 0IC
 created_date: "2017-07-13T13:48:11-03:00"
-published: false
+published: true
 releated_posts:
   - _posts/2016/12/2016-12-05-amigos-do-mst-recebem-homenagem-pela-contribuicao-na-luta-popular.md
   - _posts/2017/05/2017-05-18-stedile-precisamos-de-diretas-ja-e-de-um-plano-popular-de-emergencia.md
   - _posts/2017/03/2017-03-27-lutar-nao-e-crime.md
-  - _posts/2017/05/2017-05-12-sem-terra-realizam-ato-em-defesa-de-assentamento-no-ceara.md
 
 ---
+<p style="text-align:center"><img alt="Cerca de mil Sem Terras participam das mobilizações." height="267" src="//farm5.staticflickr.com/4290/35901080925_40b777696d_b.jpg" width="400" /></p>
+
 <p>&nbsp;</p>
 
 <p><em>Por Gustavo Marinho<br />
