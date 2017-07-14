@@ -26,12 +26,13 @@ published: true
 releated_posts: []
 
 ---
+<p>&nbsp;</p>
+
 <p><br />
-&nbsp;</p>
+<em>Por Comiss&atilde;o Pastoral da Terra<br />
+Imagem: Thomas Bauer/CPT Bahia</em></p>
 
-<p><em>Por Comiss&atilde;o Pastoral da Terra</em></p>
-
-<p><em>Imagem: Thomas Bauer/CPT Bahia</em></p>
+<p>&nbsp;</p>
 
 <p><br />
 Na &uacute;ltima quarta-feira, (12) foi realizado em S&atilde;o Lu&iacute;s, no Maranh&atilde;, o lan&ccedil;amento da 1&ordm; Romaria Nacional do Cerrado, que acontece de 29 a 30 de setembro, em Balsas, sul do estado.</p>
@@ -63,6 +64,8 @@ Organiza&ccedil;&atilde;o</p>
 
 <p>&nbsp;</p>
 
-<p><em>Editado por Solange Engelmann</em></p>
+<p>&nbsp;</p>
+
+<p><em>*Editado por Solange Engelmann</em></p>
 
 <p>&nbsp;</p>
