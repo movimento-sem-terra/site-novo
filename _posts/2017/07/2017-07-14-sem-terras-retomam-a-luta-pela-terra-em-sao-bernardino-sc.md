@@ -1,8 +1,8 @@
 ---
 date: "2017-07-14T11:23:36-03:00"
 tags: []
-title: "Sem Terras retomam a luta pela terra em São Bernardino, SC"
-support_line: A vontade de voltar a viver da terra fez com que muitas famílias do Acampamento Neri Fabris estejam retornando as terras onde cresceram
+title: "Sem Terra retomam a luta pela terra em São Bernardino, SC"
+support_line: Muitas famílias do Acampamento Neri Fabris estão retornando às terras onde cresceram.
 menu: reforma agrária
 images_hd: //farm5.staticflickr.com/4229/35078720224_0ba38fcfd3_b.jpg
 layout: post
@@ -46,7 +46,7 @@ Desde o dia 07 de julho, cerca de 60 fam&iacute;lias est&atilde;o acampadas na F
 Nesta regi&atilde;o, como em outras do longo do pa&iacute;s, muitas fam&iacute;lias de agricultores foram expulsas para as cidades com o &ecirc;xodo rural. A falta de condi&ccedil;&otilde;es de perman&ecirc;ncia dos pequenos agricultores no campo, somada a sede dos fazendeiros em acumular terras, tem gerado o esvaziamento nas &aacute;reas rurais.</p>
 
 <figure class="image" style="float:right"><img alt="LRM_EXPORT_20170713_175407.jpg" height="300" src="//farm5.staticflickr.com/4288/35748761932_e00b5abab2_b.jpg" width="450" />
-<figcaption>Acampamento Neri Fabris abriga agricultores que est&atilde;o retornando &agrave; terra</figcaption>
+<figcaption>Acampamento &eacute; esperan&ccedil;a para fam&iacute;lias expulsas do campo</figcaption>
 </figure>
 
 <p><br />
