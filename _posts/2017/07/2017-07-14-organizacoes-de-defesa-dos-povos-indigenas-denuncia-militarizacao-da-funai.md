@@ -94,4 +94,6 @@ OPAN - Opera&ccedil;&atilde;o Amaz&ocirc;nia Nativa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 
 <p>&nbsp;</p>
 
-<p><em>Editado por Solange Engelmann</em></p>
+<p>&nbsp;</p>
+
+<p><em>*Editado por Solange Engelmann</em></p>
