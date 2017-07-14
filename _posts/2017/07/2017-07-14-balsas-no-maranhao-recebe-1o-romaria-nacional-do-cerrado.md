@@ -1,8 +1,8 @@
 ---
 date: "2017-07-14T11:11:00-03:00"
 tags: []
-title: "Balsas, no Maranhão, recebe 1º Romaria Nacional do Cerrado"
-support_line: "O tema do evento é “Cerrado: os povos gritam por água e território livres”, em referência a luta do povo pelos dois elementos fundamentais para a vida: a água e o território. \n"
+title: Balsas recebe 1º Romaria Nacional do Cerrado
+support_line: "O tema do evento é “Cerrado: os povos gritam por água e território livres”."
 menu: lutas e mobilizações
 images_hd: //farm5.staticflickr.com/4305/35877633106_09ee96b1e9_b.jpg
 layout: post
