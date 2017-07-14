@@ -51,3 +51,9 @@ Nesta regi&atilde;o, como em outras do longo do pa&iacute;s, muitas fam&iacute;l
 
 <p><br />
 Mas, a ilus&atilde;o de que a cidade seria a solu&ccedil;&atilde;o para os trabalhadores do campo tem se desfeito. E para muitas pessoas que migraram do campo, a vontade de voltar a viver da terra continua presente. Isso fez com que muitas dessas fam&iacute;lias do Acampamento Neri Fabris estejam retornando as terras onde cresceram.</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><em>Editado por Solange Engelmann</em></p>
