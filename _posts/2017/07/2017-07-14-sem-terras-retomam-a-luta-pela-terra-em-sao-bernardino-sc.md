@@ -56,4 +56,4 @@ Mas, a ilus&atilde;o de que a cidade seria a solu&ccedil;&atilde;o para os traba
 
 <p>&nbsp;</p>
 
-<p><em>Editado por Solange Engelmann</em></p>
+<p><em>*Editado por Solange Engelmann</em></p>
