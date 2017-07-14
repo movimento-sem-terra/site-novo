@@ -42,8 +42,9 @@ releated_posts: []
 ---
 <p><img alt="33963007535_a658d70ab9_k.jpg" src="//farm5.staticflickr.com/4290/35534325920_f47c710b1c_b.jpg" /></p>
 
+<p>&nbsp;</p>
+
 <p><br />
-<br />
 <em>Por Adriana Gomes<br />
 Da P&aacute;gina do MST</em></p>
 
@@ -96,6 +97,8 @@ Al&eacute;m de Ceil&acirc;ndia, o Circuito de Feiras e Mostras Culturais da Refo
 
 <p>&nbsp;</p>
 
-<p><em>Editado por Solange Engelmann</em></p>
+<p>&nbsp;</p>
 
 <p>&nbsp;</p>
+
+<p><em>*Editado por Solange Engelmann</em></p>
