@@ -25,16 +25,18 @@ releated_posts: []
 <em>Por Conselho Indigenista Mission&aacute;rio</em></p>
 
 <p><br />
-Estarrecidos com a militariza&ccedil;&atilde;o da Funai, o crescimento da viol&ecirc;ncia e os constantes ataques aos direitos ind&iacute;genas, nesta quinta-feira (13), um conjunto de organiza&ccedil;&otilde;es de defesa dos povos ind&iacute;genas publicou Nota P&uacute;blica, em repudio a cria&ccedil;&atilde;o de um Grupo de Trabalho (GT), com objetivo de elaborar propostas, medidas &ldquo;e estrat&eacute;gias que visem &agrave; integra&ccedil;&atilde;o social das comunidades ind&iacute;genas e quilombolas&rdquo;.</p>
+Estarrecidos com a militariza&ccedil;&atilde;o da Funai, o crescimento da viol&ecirc;ncia e os constantes ataques aos direitos ind&iacute;genas, nesta quinta-feira (13), um conjunto de organiza&ccedil;&otilde;es de defesa dos povos ind&iacute;genas publicou Nota P&uacute;blica, em rep&uacute;dio &agrave; cria&ccedil;&atilde;o de um Grupo de Trabalho (GT), com objetivo de elaborar propostas, medidas &ldquo;e estrat&eacute;gias que visem &agrave; integra&ccedil;&atilde;o social das comunidades ind&iacute;genas e quilombolas&rdquo;.</p>
 
 <p><br />
-As organiza&ccedil;&otilde;es exigem a revoga&ccedil;&atilde;o imediata do GT. Segundo a nota a cria&ccedil;&atilde;o desse GT apresenta semelhan&ccedil;as com os ideais integracionistas da doutrina de seguran&ccedil;a nacional, adotada durante a ditadura militar. &ldquo;O discurso da integra&ccedil;&atilde;o e da assimila&ccedil;&atilde;o da ditadura militar serviu para legitimar, nos campos jur&iacute;dico e te&oacute;rico, a usurpa&ccedil;&atilde;o das terras ind&iacute;genas sob o pretexto da perda da identidade desses povos&rdquo;, denuncia a nota.</p>
+As organiza&ccedil;&otilde;es exigem a revoga&ccedil;&atilde;o imediata do GT, pois a cria&ccedil;&atilde;o do mesmo apresenta semelhan&ccedil;as com os ideais integracionistas da doutrina de seguran&ccedil;a nacional, adotada durante a ditadura militar. &ldquo;O discurso da integra&ccedil;&atilde;o e da assimila&ccedil;&atilde;o da ditadura militar serviu para legitimar, nos campos jur&iacute;dico e te&oacute;rico, a usurpa&ccedil;&atilde;o das terras ind&iacute;genas sob o pretexto da perda da identidade desses povos&rdquo;, denuncia a nota.</p>
 
 <p><br />
 A nota tamb&eacute;m repudia a efetiva&ccedil;&atilde;o do general Franklinberg Ribeiro de Freitas no cargo da presid&ecirc;ncia da Funda&ccedil;&atilde;o Nacional do &Iacute;ndio (Funai), o uso da institui&ccedil;&atilde;o pelo governo ileg&iacute;timo de Temer como moeda de troca e a subordina&ccedil;&atilde;o da pol&iacute;tica indigenista aos interesses da bancada ruralista no Congresso Nacional.</p>
 
 <p><br />
-Veja <a href="http://cimi.org.br/site/pt-br/?system=news&amp;conteudo_id=9385&amp;action=read">Nota na &iacute;ntegra</a>:</p>
+Confira a&nbsp;<a href="http://cimi.org.br/site/pt-br/?system=news&amp;conteudo_id=9385&amp;action=read">Nota na &iacute;ntegra</a>:</p>
+
+<p>&nbsp;</p>
 
 <p><strong>De volta ao integracionismo?</strong></p>
 
