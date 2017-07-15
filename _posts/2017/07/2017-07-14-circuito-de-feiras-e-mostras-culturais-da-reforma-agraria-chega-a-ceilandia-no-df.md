@@ -43,6 +43,7 @@ releated_posts: []
 <p><img alt="33963007535_a658d70ab9_k.jpg" src="//farm5.staticflickr.com/4290/35534325920_f47c710b1c_b.jpg" /></p>
 
 <p><br />
+<br />
 <em>Por Adriana Gomes<br />
 Da P&aacute;gina do MST</em></p>
 
@@ -74,7 +75,8 @@ Al&eacute;m, da Feira o Circuito traz em sua programa&ccedil;&atilde;o semin&aac
 O 1&ordm; Circuito de Feiras e Mostras Culturais da Reforma Agr&aacute;ria do Distrito Federal e Entorno tamb&eacute;m &eacute; uma oportunidade de aprofundar o di&aacute;logo pol&iacute;tico e social entre a popula&ccedil;&atilde;o do campo e da cidade, sobre a necessidade da Reforma Agr&aacute;ria para a produ&ccedil;&atilde;o de alimentos saud&aacute;veis, com sistemas agroecol&oacute;gicos, e na constru&ccedil;&atilde;o de um Projeto Popular de sociedade.<br />
 <br />
 <br />
-&ldquo;Defendemos a agroecologia como sa&iacute;da para uma alimenta&ccedil;&atilde;o sem veneno e uma produ&ccedil;&atilde;o que tem no trabalho campon&ecirc;s e na organiza&ccedil;&atilde;o do trabalho cooperado, o contraponto &agrave; hegemonia do agroneg&oacute;cio&rdquo;, destaca Baratto.</p>
+&ldquo;Defendemos a Agroecologia como sa&iacute;da para uma alimenta&ccedil;&atilde;o sem veneno e uma produ&ccedil;&atilde;o que tem no trabalho campon&ecirc;s e na organiza&ccedil;&atilde;o do trabalho cooperado, o contraponto &agrave; hegemonia do agroneg&oacute;cio&rdquo;, destaca Baratto.<br />
+&nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="33804971692_65e4428e7f_k.jpg" height="266" src="//farm5.staticflickr.com/4287/35882030306_b452f6fd86_b.jpg" width="400" />
 <figcaption></figcaption>
@@ -93,6 +95,6 @@ Al&eacute;m de Ceil&acirc;ndia, o Circuito de Feiras e Mostras Culturais da Refo
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
-
-<p><em>*Editado por Solange Engelmann</em></p>
+<p><br />
+<br />
+<em>*Editado por Solange Engelmann</em></p>
