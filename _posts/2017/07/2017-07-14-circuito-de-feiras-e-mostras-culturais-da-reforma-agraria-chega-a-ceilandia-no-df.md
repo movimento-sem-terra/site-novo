@@ -42,13 +42,9 @@ releated_posts: []
 ---
 <p><img alt="33963007535_a658d70ab9_k.jpg" src="//farm5.staticflickr.com/4290/35534325920_f47c710b1c_b.jpg" /></p>
 
-<p>&nbsp;</p>
-
 <p><br />
 <em>Por Adriana Gomes<br />
 Da P&aacute;gina do MST</em></p>
-
-<p>&nbsp;</p>
 
 <p><br />
 Entre os dias 4 e 6 de agosto, cerca de 200 camponesas e camponeses do MST participam da 3&ordf; etapa do Circuito de Feiras e Mostras Culturais da Reforma Agr&aacute;ria do Distrito Federal e Entorno.</p>
@@ -65,8 +61,6 @@ Al&eacute;m, da Feira o Circuito traz em sua programa&ccedil;&atilde;o semin&aac
 &nbsp;</p>
 
 <p>Marco Antonio Baratto, da Dire&ccedil;&atilde;o Nacional do MST, explica que a atividade busca demonstrar &agrave; popula&ccedil;&atilde;o urbana, que quem produz a maioria dos alimentos consumidos pelos brasileiros s&atilde;o os pequenos agricultores, assentados e camponeses. E tudo isso com custos menores para o trabalhador.</p>
-
-<p>&nbsp;</p>
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="33119318064_a015c299c6_k.jpg" height="299" src="//farm5.staticflickr.com/4295/35534312870_e94fbaa50d_b.jpg" width="450" />
