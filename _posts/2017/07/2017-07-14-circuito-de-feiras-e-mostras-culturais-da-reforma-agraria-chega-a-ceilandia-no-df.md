@@ -62,6 +62,8 @@ Al&eacute;m, da Feira o Circuito traz em sua programa&ccedil;&atilde;o semin&aac
 
 <p>Marco Antonio Baratto, da Dire&ccedil;&atilde;o Nacional do MST, explica que a atividade busca demonstrar &agrave; popula&ccedil;&atilde;o urbana, que quem produz a maioria dos alimentos consumidos pelos brasileiros s&atilde;o os pequenos agricultores, assentados e camponeses. E tudo isso com custos menores para o trabalhador.</p>
 
+<p>&nbsp;</p>
+
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="33119318064_a015c299c6_k.jpg" height="299" src="//farm5.staticflickr.com/4295/35534312870_e94fbaa50d_b.jpg" width="450" />
 <figcaption>Feira oferece alimentos saud&aacute;veis com pre&ccedil;os baixos</figcaption>
@@ -69,9 +71,8 @@ Al&eacute;m, da Feira o Circuito traz em sua programa&ccedil;&atilde;o semin&aac
 </div>
 
 <p><br />
-O 1&ordm; Circuito de Feiras e Mostras Culturais da Reforma Agr&aacute;ria do Distrito Federal e Entorno tamb&eacute;m &eacute; uma oportunidade de aprofundar o di&aacute;logo pol&iacute;tico e social entre a popula&ccedil;&atilde;o do campo e da cidade, sobre a necessidade da Reforma Agr&aacute;ria para a produ&ccedil;&atilde;o de alimentos saud&aacute;veis, com sistemas agroecol&oacute;gicos, e na constru&ccedil;&atilde;o de um Projeto Popular de sociedade.</p>
-
-<p><br />
+O 1&ordm; Circuito de Feiras e Mostras Culturais da Reforma Agr&aacute;ria do Distrito Federal e Entorno tamb&eacute;m &eacute; uma oportunidade de aprofundar o di&aacute;logo pol&iacute;tico e social entre a popula&ccedil;&atilde;o do campo e da cidade, sobre a necessidade da Reforma Agr&aacute;ria para a produ&ccedil;&atilde;o de alimentos saud&aacute;veis, com sistemas agroecol&oacute;gicos, e na constru&ccedil;&atilde;o de um Projeto Popular de sociedade.<br />
+<br />
 <br />
 &ldquo;Defendemos a agroecologia como sa&iacute;da para uma alimenta&ccedil;&atilde;o sem veneno e uma produ&ccedil;&atilde;o que tem no trabalho campon&ecirc;s e na organiza&ccedil;&atilde;o do trabalho cooperado, o contraponto &agrave; hegemonia do agroneg&oacute;cio&rdquo;, destaca Baratto.</p>
 
@@ -80,7 +81,6 @@ O 1&ordm; Circuito de Feiras e Mostras Culturais da Reforma Agr&aacute;ria do Di
 </figure>
 
 <p><br />
-<br />
 Al&eacute;m de Ceil&acirc;ndia, o Circuito de Feiras e Mostras Culturais da Reforma Agr&aacute;ria do DF e Entorno passar&aacute; por Una&iacute; (MG) no final do ano. Cidades como Planaltina (DF) e Formosa (GO) j&aacute; receberam o evento.</p>
 
 <p>&nbsp;</p>
