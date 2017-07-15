@@ -21,7 +21,7 @@ releated_posts: []
 
 ---
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="photo_2017-07-13_20-03-57.jpg" height="918" src="//farm5.staticflickr.com/4294/35118378653_99ab57cfaa_b.jpg" width="700" />
+<figure class="image" style="display:inline-block"><img alt="photo_2017-07-13_20-03-57.jpg" height="722" src="//farm5.staticflickr.com/4294/35118378653_99ab57cfaa_b.jpg" width="550" />
 <figcaption>J&uacute;nior, militante do MPA foi assassinado a tiros enquanto trabalhava em seu lote.</figcaption>
 </figure>
 </div>
@@ -36,7 +36,7 @@ Nesta sexta-feira (14), as trabalhadoras e trabalhadores do MST da Bahia, lan&cc
 O militante que atuava no Movimento dos Pequenos Agricultores (MPA) foi assassinado nesta quinta-feira (13) na Comunidade Quilombola de Jiboia, localizada no munic&iacute;pio de Ant&ocirc;nio Gon&ccedil;alves, no Norte Bahia.</p>
 
 <p><br />
-O MST denuncia que os n&uacute;meros alarmantes de assassinatos de trabalhadores rurais, que dispararam a partir de 2016 demonstram o pa&iacute;s passa por um per&iacute;odo de persegui&ccedil;&atilde;o &agrave; luta dos movimentos e organiza&ccedil;&otilde;es populares e de suas lideran&ccedil;as. E que isso faz parte de um conjunto de articula&ccedil;&otilde;es do agroneg&oacute;cio que tenta sufocar as bandeiras das lutas populares.</p>
+O MST denuncia que os n&uacute;meros alarmantes de assassinatos de trabalhadores rurais, que dispararam a partir de 2016 demonstram que o pa&iacute;s passa por um per&iacute;odo de persegui&ccedil;&atilde;o &agrave; luta dos movimentos e organiza&ccedil;&otilde;es populares e de suas lideran&ccedil;as. Isso faz parte de um conjunto de articula&ccedil;&otilde;es do agroneg&oacute;cio que tenta sufocar as bandeiras das lutas populares e democr&aacute;ticas.</p>
 
 <p><br />
 &ldquo;A morte do companheiro J&uacute;nior se soma aos altos &iacute;ndices de viol&ecirc;ncia. N&atilde;o podemos esquecer do amplo processo de criminaliza&ccedil;&atilde;o que tem atuado atrav&eacute;s de diversas frentes, representadas pelos poderes executivo, legislativo, judici&aacute;rio e pelos grandes ve&iacute;culos de comunica&ccedil;&atilde;o&rdquo;, denuncia a nota.</p>
@@ -50,6 +50,8 @@ Confira nota na &iacute;ntegra:</p>
 <p>&nbsp;</p>
 
 <p><strong>Que nosso luto se transforme em luta!</strong></p>
+
+<p>&nbsp;</p>
 
 <p style="text-align: justify;">Comprometido com a educa&ccedil;&atilde;o popular, defensor da Agroecologia e de melhores condi&ccedil;&otilde;es de vida aos pequenos produtores e comunidades quilombolas, Jos&eacute; Raimundo Mota de Souza J&uacute;nior, conhecido como J&uacute;nior do MPA, por conta de sua milit&acirc;ncia no Movimento dos Pequenos Agricultores (MPA), foi assassinado na tarde desta quinta-feira (13) na Comunidade Quilombola de Jiboia, localizada no munic&iacute;pio de Ant&ocirc;nio Gon&ccedil;alves, Norte baiano.</p>
 
