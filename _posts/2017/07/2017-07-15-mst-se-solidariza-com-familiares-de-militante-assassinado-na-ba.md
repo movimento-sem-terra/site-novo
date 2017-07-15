@@ -15,20 +15,13 @@ files:
     small: //farm5.staticflickr.com/4294/35118378653_99ab57cfaa_n.jpg
     title: photo_2017-07-13_20-03-57.jpg
     $$hashKey: 1BP
-  - link: //farm5.staticflickr.com/4290/35886797756_315decf3c5_b.jpg
-    original: //farm5.staticflickr.com/4290/35886797756_c9a96799ff_o.jpg
-    thumbnail: //farm5.staticflickr.com/4290/35886797756_315decf3c5_t.jpg
-    medium: //farm5.staticflickr.com/4290/35886797756_315decf3c5_z.jpg
-    small: //farm5.staticflickr.com/4290/35886797756_315decf3c5_n.jpg
-    title: photo_2017-07-14_19-00-41.jpg
-    $$hashKey: 1BS
 created_date: "2017-07-14T21:50:26-03:00"
 published: true
 releated_posts: []
 
 ---
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="photo_2017-07-14_19-00-41.jpg" height="394" src="//farm5.staticflickr.com/4290/35886797756_315decf3c5_b.jpg" width="700" />
+<figure class="image" style="display:inline-block"><img alt="photo_2017-07-13_20-03-57.jpg" height="918" src="//farm5.staticflickr.com/4294/35118378653_99ab57cfaa_b.jpg" width="700" />
 <figcaption>J&uacute;nior, militante do MPA foi assassinado a tiros enquanto trabalhava em seu lote.</figcaption>
 </figure>
 </div>
