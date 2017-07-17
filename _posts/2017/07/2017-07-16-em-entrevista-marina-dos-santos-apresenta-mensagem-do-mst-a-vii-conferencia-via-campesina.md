@@ -5,7 +5,7 @@ tags:
   - tag: capitalismo
   - tag: reforma-agrária
   - tag: internacionalismo
-title: "Em entrevista, Marina dos Santos apresenta mensagem do MST à VII Conferência Via Campesina"
+title: Marina dos Santos traz mensagem do MST à VII Conferência da Via Campesina
 support_line: "“Globalizar a luta é globalizar a esperança”, afirma Marina dos Santos sobre o evento no País Basco."
 menu: solidariedade
 section: cover
