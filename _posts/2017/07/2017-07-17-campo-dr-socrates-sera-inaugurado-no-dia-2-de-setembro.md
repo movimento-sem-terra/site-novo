@@ -97,3 +97,6 @@ A constru&ccedil;&atilde;o do campo levou cerca de um ano para ficar pronta. Par
 Segundo a Coordena&ccedil;&atilde;o da ENFF, n&atilde;o se trata s&oacute; de um espa&ccedil;o de lazer, &lsquo;mas de um lugar de pensamento pol&iacute;tico, coletivo e democr&aacute;tico, que tem como objetivo reunir, atrav&eacute;s do esfor&ccedil;o popular, todos os valores contidos no punho esquerdo de S&oacute;crates&rsquo;.<br />
 <br />
 &ldquo;Dr. S&oacute;crates &eacute; homenageado pela ENFF por seu legado hist&oacute;rico e por nos lembrar sempre que futebol nunca ser&aacute; &oacute;pio do povo, mas uma trincheira de luta&rdquo;.</p>
+
+<p><br />
+<em>*Editado por Maura Silva&nbsp;</em></p>
