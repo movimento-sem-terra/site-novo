@@ -5,10 +5,10 @@ tags:
   - tag: mobilizações
   - tag: Sócrates
 title: "Campo Dr. Sócrates será inaugurado no dia 2 de setembro\n"
-support_line: "Espaço esportivo que homenageia o líder da democracia corinthiana está na fase final de construção na Escola Nacional Florestán Fernandes, localizada em Guararema, região metropolitana de São Paulo"
+support_line: "Espaço esportivo está na fase final de construção na Escola Nacional Florestan Fernandes, em Guararema."
 images_hd: //farm5.staticflickr.com/4327/35596214300_c7fc851660_b.jpg
 menu: "educação, cultura e comunicação"
-section: cover
+section: featured-news
 layout: post
 files:
   - link: //farm5.staticflickr.com/4327/35596214300_c7fc851660_b.jpg
