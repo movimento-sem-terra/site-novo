@@ -3,7 +3,7 @@ date: "2017-07-14T21:38:31-03:00"
 tags: []
 title: "MST se solidariza com familiares de militante assassinado, na BA"
 support_line: "Que Júnior permaneça presente em cada sopro de ousadia, em cada canto de esperança."
-section: cover
+section: featured-news
 menu: direitos humanos
 images_hd: //farm5.staticflickr.com/4294/35118378653_99ab57cfaa_b.jpg
 layout: post
