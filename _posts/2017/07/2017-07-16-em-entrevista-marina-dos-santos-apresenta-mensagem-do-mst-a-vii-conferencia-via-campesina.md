@@ -30,6 +30,7 @@ created_date: "2017-07-16T14:36:02-03:00"
 published: true
 releated_posts:
   - _posts/2016/10/2016-10-25-seminario-internacional-discute-a-luta-contra-os-agrotoxicos.md
+label: interviews
 
 ---
 <p><img alt="marina via.jpg" src="//farm5.staticflickr.com/4312/35963053945_b65a7f9cce_b.jpg" /></p>
