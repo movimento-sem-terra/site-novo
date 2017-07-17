@@ -62,3 +62,6 @@ Para dire&ccedil;&atilde;o do Movimento &eacute; necess&aacute;rio entender que 
 
 <p><br />
 Os cursos de forma&ccedil;&atilde;o regional preparam a milit&acirc;ncia Sem Terra para curso de forma&ccedil;&atilde;o do estado que acontecer&aacute; neste segundo semestre.</p>
+
+<p><br />
+<em>​*Editado por Maura Silva&nbsp;</em></p>
