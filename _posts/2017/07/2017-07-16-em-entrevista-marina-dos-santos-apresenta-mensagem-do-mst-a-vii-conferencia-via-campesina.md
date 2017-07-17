@@ -8,7 +8,7 @@ tags:
 title: Marina dos Santos traz mensagem do MST à VII Conferência da Via Campesina
 support_line: "“Globalizar a luta é globalizar a esperança”, afirma Marina dos Santos sobre o evento no País Basco."
 menu: solidariedade
-section: cover
+section: featured-news
 images_hd: //farm5.staticflickr.com/4312/35963053945_b65a7f9cce_b.jpg
 layout: post
 files:
