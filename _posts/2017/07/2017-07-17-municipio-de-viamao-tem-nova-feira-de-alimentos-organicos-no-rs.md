@@ -96,3 +96,5 @@ Ainda no lote do seu Jos&eacute; h&aacute; duas hectares de caqui, 300 p&eacute;
 <figcaption></figcaption>
 </figure>
 </div>
+
+<p><em>​*Editado por Maura Silva&nbsp;</em>&nbsp;</p>
