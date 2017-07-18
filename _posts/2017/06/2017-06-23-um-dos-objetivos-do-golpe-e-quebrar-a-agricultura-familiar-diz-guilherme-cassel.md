@@ -7,7 +7,7 @@ images_hd: //farm5.staticflickr.com/4282/35483703715_61cab58b97_b.jpg
 title: "“Um dos objetivos do golpe é quebrar a agricultura familiar”, diz Guilherme Cassel"
 support_line: Ex-ministro do Desenvolvimento Agrário afirma que o governo Temer busca reconcentrar a terra no Brasil.
 menu: agricultura camponesa
-label: interviews
+label: null
 layout: post
 files:
   - link: //farm5.staticflickr.com/4282/35483703715_61cab58b97_b.jpg
