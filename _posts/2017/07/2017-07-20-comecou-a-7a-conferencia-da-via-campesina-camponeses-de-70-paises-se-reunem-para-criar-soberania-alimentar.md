@@ -59,7 +59,9 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p>A 7&ordf; Confer&ecirc;ncia Internacional da Via Campesina, o maior movimento campon&ecirc;s do mundo, come&ccedil;a hoje (19) em Derio, um tranquilo povoado na prov&iacute;ncia de Bizkaia, no Pa&iacute;s Basco, e acontecer&aacute; at&eacute; o dia 24 de julho.<br />
+<p>A 7&ordf; Confer&ecirc;ncia Internacional da Via Campesina, o maior movimento campon&ecirc;s do mundo, come&ccedil;a hoje (19) em Derio, um tranquilo povoado na prov&iacute;ncia de Bizkaia, no Pa&iacute;s Basco, e acontecer&aacute; at&eacute; o dia 24 de julho.</p>
+
+<p><br />
 Cerca de 450 movimentos camponeses de todas as partes do mundo se re&uacute;nem para continuar a luta contra o capitalismo e propor medidas concretas para construir um mundo alternativo baseado na dignidade e na soberania alimentar. Esta confer&ecirc;ncia, um encontro &uacute;nico e vibrante dos movimentos camponeses, acontece a cada quatro anos e &eacute; o espa&ccedil;o mais importante da tomada de decis&otilde;es da Via Campesina.</p>
 
 <p><br />
