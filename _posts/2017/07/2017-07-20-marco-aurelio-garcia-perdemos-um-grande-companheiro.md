@@ -27,7 +27,7 @@ releated_posts: []
 
 ---
 <p><br />
-<img alt="WhatsApp Image 2017-07-20 at 18.41.11.jpg" src="//farm5.staticflickr.com/4318/35663466340_fa0a193753_b.jpg" /></p>
+<img alt="WhatsApp Image 2017-07-20 at 18.41.11.jpg" height="845" src="//farm5.staticflickr.com/4318/35663466340_fa0a193753_b.jpg" width="650" /></p>
 
 <p><br />
 &nbsp;</p>
@@ -35,7 +35,6 @@ releated_posts: []
 <p><em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
-<br />
 Partiu hoje, aos 76 anos, v&iacute;tima de um infarto fulminante, nosso companheiro Marco Aur&eacute;lio Garcia.</p>
 
 <p><br />
@@ -63,5 +62,7 @@ E n&oacute;s do MST perdemos um grande colaborador e amigo.</p>
 Nosso abra&ccedil;o fraterno aos seus familiares e a todos os/as companheiros/as que atuaram com ele, nas muitas estradas que trilhou.</p>
 
 <p><br />
-Dire&ccedil;&atilde;o Nacional do MST<br />
+&nbsp;</p>
+
+<p>Dire&ccedil;&atilde;o Nacional do MST<br />
 S&atilde;o Paulo, 20 de julho de 2017</p>
