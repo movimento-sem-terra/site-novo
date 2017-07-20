@@ -48,7 +48,7 @@ releated_posts:
 
 ---
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="Oficinas foram realizadas em duas escolas de São Luiz Gonzaga..jpg" height="520" src="//farm5.staticflickr.com/4324/35912785231_ac16384024_b.jpg" width="700" />
+<figure class="image" style="display:inline-block"><img alt="Oficinas foram realizadas em duas escolas de São Luiz Gonzaga..jpg" height="446" src="//farm5.staticflickr.com/4324/35912785231_ac16384024_b.jpg" width="600" />
 <figcaption>Oficinas foram realizadas em duas escolas de São Luiz Gonzaga.</figcaption>
 </figure>
 </div>
@@ -64,11 +64,11 @@ Da P&aacute;gina do MST</em></p>
 <p><br />
 As atividades mais recentes que incentivam o consumo de alimentos saud&aacute;veis foram feitas na Escola Municipal de Ensino Fundamental Uni&atilde;o, situada no Assentamento Campos do Pont&atilde;o, onde estudam 15 crian&ccedil;as; e na Escola Municipal de Ensino Fundamental Santa Rita de C&aacute;ssia, localizada no Assentamento 28 de Maio, a qual atende 65 crian&ccedil;as, sendo elas tamb&eacute;m do Assentamento Sep&eacute; Tiaraju e do Assentamento Palma. Cerca de 90% dos educandos que estudam nas duas escolas s&atilde;o filhos de camponeses assentados.</p>
 
-<figure class="image" style="float:left"><img alt="Assistente social Maria Isabel Fernandes colocou fogo em salgadinhos para mostrar às crianças o quanto são prejudiciais à saúde.jpg" height="461" src="//farm5.staticflickr.com/4330/35875889032_fbd8ae0100_b.jpg" width="300" />
-<figcaption>Assistente social Maria Isabel Fernandes colocou fogo em salgadinhos para mostrar às crianças o quanto são prejudiciais à saúde</figcaption>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="Assistente social Maria Isabel Fernandes colocou fogo em salgadinhos para mostrar às crianças o quanto são prejudiciais à saúde.jpg" height="461" src="//farm5.staticflickr.com/4330/35875889032_fbd8ae0100_b.jpg" width="300" />
+<figcaption>Assistente social coloca fogo em salgadinhos para mostrar às crianças o quanto são prejudiciais à saúde</figcaption>
 </figure>
-
-<p>&nbsp;</p>
+</div>
 
 <p>&nbsp;</p>
 
@@ -86,13 +86,8 @@ Para mostrar &agrave;s crian&ccedil;as que participaram das oficinas, todas entr
 <p><br />
 Maria tamb&eacute;m ajudou os educandos a confeccionarem pratos de alimentos em formato de mandala, utilizando papel&atilde;o, cola, folha de EVA e sementes de ab&oacute;bora, arroz, feij&atilde;o e milho. &ldquo;As crian&ccedil;as colocaram o artesanato na cozinha de suas casas, para sempre lembrarem de comer alimentos saud&aacute;veis&rdquo;, diz Isabel.</p>
 
-<p>&nbsp;</p>
-
-<figure class="image" style="float:right"><img alt="Artesanato foi colocado na cozinha das casas das crianças. Foto Catiana de Medeiros - MST (1).jpg" height="294" src="//farm5.staticflickr.com/4297/35912803261_c821d63f2a_b.jpg" width="200" />
-<figcaption>Artesanato foi colocado na cozinha das casas das crianças. Foto Catiana de Medeiros - MST (1)</figcaption>
-</figure>
-
-<p>A iniciativa da Coptec, entidade contratada pelo Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra/RS) para prestar assist&ecirc;ncia t&eacute;cnica &agrave;s fam&iacute;lias assentadas, integra uma s&eacute;rie de atividades do Coletivo Nacional de Educa&ccedil;&atilde;o do Movimento dos Trabalhadores Rurais Sem Terra (MST) na Jornada Cultural Nacional &lsquo;Alimenta&ccedil;&atilde;o saud&aacute;vel, um direito de todos&rsquo;.</p>
+<p><br />
+A iniciativa da Coptec, entidade contratada pelo Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra/RS) para prestar assist&ecirc;ncia t&eacute;cnica &agrave;s fam&iacute;lias assentadas, integra uma s&eacute;rie de atividades do Coletivo Nacional de Educa&ccedil;&atilde;o do Movimento dos Trabalhadores Rurais Sem Terra (MST) na Jornada Cultural Nacional &lsquo;Alimenta&ccedil;&atilde;o saud&aacute;vel, um direito de todos&rsquo;.</p>
 
 <p><br />
 O intuito &eacute; debater a tem&aacute;tica nas escolas localizadas em &aacute;reas de assentamento de todo pa&iacute;s, a fim de incentivar a produ&ccedil;&atilde;o e o consumo de alimentos saud&aacute;veis.</p>
