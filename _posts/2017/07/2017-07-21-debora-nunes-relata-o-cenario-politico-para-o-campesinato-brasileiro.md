@@ -51,7 +51,7 @@ releated_posts:
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
-O Brasil enfrenta mudan&ccedil;as pol&iacute;ticas desde a crise que resultou na sa&iacute;da de Dilma Roussef da presid&ecirc;ncia. Alguns setores da sociedade, contudo, sofrem medidas espec&iacute;ficas no corte de direitos e nas viola&ccedil;&otilde;es de direitos humanos. Neste contexto, o Movimento dos Trabalhadores Rurais Sem Terra (MST) sustenta a luta por uma Reforma Agr&aacute;ria Popular, que construa soberania alimentar para fam&iacute;lias que vivem no campo e na cidade.</p>
+O Brasil enfrenta mudan&ccedil;as pol&iacute;ticas desde a crise que resultou na sa&iacute;da de Dilma Roussef da presid&ecirc;ncia. Alguns setores da sociedade, contudo, sofrem medidas espec&iacute;ficas no corte de direitos e nas viola&ccedil;&otilde;es de direitos humanos. Neste contexto, o MST&nbsp;sustenta a luta por uma Reforma Agr&aacute;ria Popular, que construa soberania alimentar para fam&iacute;lias que vivem no campo e na cidade.</p>
 
 <p><br />
 D&eacute;bora Nunes, da Dire&ccedil;&atilde;o Nacional do MST, dialoga conosco sobre o atual cen&aacute;rio de luta pela terra no mundo, mas vai al&eacute;m: remete &agrave; necessidade de fortalecimento de articula&ccedil;&otilde;es como as do Papa Francisco e a pr&oacute;pria Via Campesina, como alternativas vi&aacute;veis de mobiliza&ccedil;&atilde;o contra o capitalismo.</p>
