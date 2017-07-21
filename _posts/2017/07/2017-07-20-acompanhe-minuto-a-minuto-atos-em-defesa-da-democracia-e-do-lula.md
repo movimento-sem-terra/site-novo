@@ -8,7 +8,7 @@ tags:
 title: "Acompanhe Minuto a Minuto: Atos em Defesa da Democracia e do Lula"
 support_line: "De norte a sul do país, movimentos populares e sindicais promovem manifestações por direitos e em apoio a Lula."
 menu: lutas e mobilizações
-section: cover
+section: null
 images_hd: //farm5.staticflickr.com/4316/35207852524_a6a814daa7_b.jpg
 layout: post
 files:
