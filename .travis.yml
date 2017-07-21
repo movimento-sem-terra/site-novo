@@ -1,6 +1,7 @@
-deploy:
-  provider: pages
-  skip_cleanup: true
-  github_token: $GITHUB_TOKEN # Set in travis-ci.org dashboard
-  on:
-    branch: master
+language: ruby
+sudo: false
+rvm: 2.2.0
+script: bundle exec rake deploy
+env:
+  global:
+  - secure: PpFZVTDR/Uj6oTuIGrsdhLh8XwXQ5qRMQ6Tt+VyaZZJPg2fzCn1lkdUA9PyvKXJEwwyLdczBXKiqjPgkyncrZscCbCmSXnPg+oxkl7IqM1qb6sSyNsk1t/mS4zSS7HMDrnyN39PijQ6+7Px4tyzVwssbTW1f2fgfWbJa2ev8O7I=
