@@ -91,8 +91,7 @@ S&Atilde;O PAULO</p>
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="35213805554_666d4b6718_o.jpg" height="466" src="//farm5.staticflickr.com/4297/36066649735_dfd8fbd48b_b.jpg" width="700" />
-<figcaption>Foto: J&uacute;lia Dolce/Brasil de Fato<br />
-</figcaption>
+<figcaption>Foto: J&uacute;lia Dolce/Brasil de Fato</figcaption>
 </figure>
 </div>
 
@@ -210,3 +209,7 @@ Pela manh&atilde;, cerca de oito homens encapuzados e armados invadiram o local 
 
 <p><br />
 A a&ccedil;&atilde;o durou por volta de 40 minutos e o presidente da CUT-CE, Will Pereira, e outras pessoas que estavam no local foram mantidas ref&eacute;ns. As entidades v&atilde;o definir uma nova data para o ato.</p>
+
+<p>&nbsp;</p>
+
+<p><iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/GPVZkYpErcU" width="640"></iframe></p>
