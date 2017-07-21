@@ -37,11 +37,12 @@ releated_posts:
   - _posts/2017/01/2017-01-24-no-ceara-militantes-do-mst-discutem-os-rumos-da-esquerda-e-os-retrocessos-do-governo-temer.md
   - _posts/2017/03/2017-03-02-em-jornada-nacional-de-lutas-mulheres-sem-terra-denunciam-os-desmandos-do-governo-temer.md
   - _posts/2017/06/2017-06-27-perdemos-alipio-de-freitas.md
+label: interviews
 
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="8fe40072-36d2-43da-a1f9-4d0f57f91e43.jpg" height="466" src="//farm5.staticflickr.com/4291/36029186456_7ff1ce7d04_b.jpg" width="700" />
-<figcaption></figcaption>
+<figcaption>Fotos: Gustavo Marinho&nbsp;</figcaption>
 </figure>
 </div>
 
