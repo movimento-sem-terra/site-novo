@@ -51,7 +51,9 @@ releated_posts:
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
-O Brasil enfrenta mudan&ccedil;as pol&iacute;ticas desde a crise que resultou na sa&iacute;da de Dilma Roussef da presid&ecirc;ncia. Alguns setores da sociedade, contudo, sofrem medidas espec&iacute;ficas no corte de direitos e nas viola&ccedil;&otilde;es de direitos humanos. Neste contexto, o Movimento dos Trabalhadores Rurais Sem Terra (MST) sustenta a luta por uma Reforma Agr&aacute;ria Popular, que construa soberania alimentar para fam&iacute;lias que vivem no campo e na cidade.<br />
+O Brasil enfrenta mudan&ccedil;as pol&iacute;ticas desde a crise que resultou na sa&iacute;da de Dilma Roussef da presid&ecirc;ncia. Alguns setores da sociedade, contudo, sofrem medidas espec&iacute;ficas no corte de direitos e nas viola&ccedil;&otilde;es de direitos humanos. Neste contexto, o Movimento dos Trabalhadores Rurais Sem Terra (MST) sustenta a luta por uma Reforma Agr&aacute;ria Popular, que construa soberania alimentar para fam&iacute;lias que vivem no campo e na cidade.</p>
+
+<p><br />
 D&eacute;bora Nunes, da Dire&ccedil;&atilde;o Nacional do MST, dialoga conosco sobre o atual cen&aacute;rio de luta pela terra no mundo, mas vai al&eacute;m: remete &agrave; necessidade de fortalecimento de articula&ccedil;&otilde;es como as do Papa Francisco e a pr&oacute;pria Via Campesina, como alternativas vi&aacute;veis de mobiliza&ccedil;&atilde;o contra o capitalismo.</p>
 
 <p><br />
@@ -92,14 +94,18 @@ Muito fortalecido. Pois neste momento a bancada ruralista tem garantido &nbsp;no
 <strong>Como o MST e os demais movimentos sociais tem enfrentado esta conjuntura de retrocessos nos direitos da classe trabalhadora, que atingem com viol&ecirc;ncia o campesinato?</strong></p>
 
 <p><br />
-Primeiro, na consci&ecirc;ncia de que vivemos um golpe articulado por setores conservadores da elite brasileira, judici&aacute;rio, minist&eacute;rio publico federal, congresso federal, a grande m&iacute;dia e o imperialismo, ter essa compreens&atilde;o &eacute; fundamental para podermos enfrentar a situa&ccedil;&atilde;o. Isso nos possibilita entender que os nossos inimigos s&atilde;o grandes e est&atilde;o muito bem articulados, logo s&oacute; &eacute; poss&iacute;vel enfrenta-los com um amplo processo de unidade da classe trabalhadora e de setores progressistas da nossa sociedade. Por isso que temos gasto energia e de maneira generosa contribu&iacute;do para o fortalecimento de instrumentos que apontem nesta dire&ccedil;&atilde;o, a exemplo da Frente Brasil Popular, uma frente ampla que tem sido constru&iacute;da com centenas de organiza&ccedil;&otilde;es, n&atilde;o apenas para termos unidade de leitura e reflex&atilde;o, mas sobretudo de a&ccedil;&atilde;o, de constru&ccedil;&atilde;o e realiza&ccedil;&atilde;o de lutas conjuntas.<br />
+Primeiro, na consci&ecirc;ncia de que vivemos um golpe articulado por setores conservadores da elite brasileira, judici&aacute;rio, minist&eacute;rio publico federal, congresso federal, a grande m&iacute;dia e o imperialismo, ter essa compreens&atilde;o &eacute; fundamental para podermos enfrentar a situa&ccedil;&atilde;o. Isso nos possibilita entender que os nossos inimigos s&atilde;o grandes e est&atilde;o muito bem articulados, logo s&oacute; &eacute; poss&iacute;vel enfrenta-los com um amplo processo de unidade da classe trabalhadora e de setores progressistas da nossa sociedade. Por isso que temos gasto energia e de maneira generosa contribu&iacute;do para o fortalecimento de instrumentos que apontem nesta dire&ccedil;&atilde;o, a exemplo da Frente Brasil Popular, uma frente ampla que tem sido constru&iacute;da com centenas de organiza&ccedil;&otilde;es, n&atilde;o apenas para termos unidade de leitura e reflex&atilde;o, mas sobretudo de a&ccedil;&atilde;o, de constru&ccedil;&atilde;o e realiza&ccedil;&atilde;o de lutas conjuntas.</p>
+
+<p><br />
 Mas ainda temos grandes desafios para enfrentarmos o golpe e suas consequ&ecirc;ncias, precisamos comunicar melhor e organizar as massas. A forma&ccedil;&atilde;o politica tamb&eacute;m &eacute; condi&ccedil;&atilde;o para que todos compreendam o que esta em jogo e enfrentem essa classe dominante que saqueia nosso pa&iacute;s e massacra o nosso povo h&aacute; 2017 anos.</p>
 
 <p><br />
 <strong>Qual a movimenta&ccedil;&atilde;o do Golpe? Como o movimento interpreta este cen&aacute;rio?</strong></p>
 
 <p><br />
-N&atilde;o h&aacute; necessariamente um golpe dentro do golpe, mas etapas de um mesmo golpe que tem objetivos bem definidos e que est&aacute; aproveitando o momento para realizar todas as reformas necess&aacute;rias para viabilizar o capital financeiro, &agrave;s custas da retirada de direitos dos/as trabalhadores/as. Assim para os interesses do golpe trocar o presidente golpista Temer pelo presidente da C&acirc;mara Maia, &eacute; como trocar 6 por meia d&uacute;zia.<br />
+N&atilde;o h&aacute; necessariamente um golpe dentro do golpe, mas etapas de um mesmo golpe que tem objetivos bem definidos e que est&aacute; aproveitando o momento para realizar todas as reformas necess&aacute;rias para viabilizar o capital financeiro, &agrave;s custas da retirada de direitos dos/as trabalhadores/as. Assim para os interesses do golpe trocar o presidente golpista Temer pelo presidente da C&acirc;mara Maia, &eacute; como trocar 6 por meia d&uacute;zia.</p>
+
+<p><br />
 N&atilde;o importa quem est&aacute; na &ldquo;condu&ccedil;&atilde;o&rdquo;, mas que aquilo que foi tra&ccedil;ado seja garantido, as reformas trabalhista e da previd&ecirc;ncia, redu&ccedil;&atilde;o do custo trabalho, precariza&ccedil;&atilde;o, libera&ccedil;&atilde;o de terras para estrangeiros, retrocessos sociais etc.</p>
 
 <p><br />
