@@ -8,7 +8,7 @@ title: "Em nota, MST condena reintegração de posse do Porto do Açu  "
 support_line: "A ação foi determinada pelo juiz da 1° vara da Comarca de São João da Barra "
 menu: lutas e mobilizações
 images_hd: //farm5.staticflickr.com/4315/35259183613_656298e9b4_b.jpg
-section: cover
+section: featured-news
 layout: post
 files:
   - link: //farm5.staticflickr.com/4315/35259183613_656298e9b4_b.jpg
