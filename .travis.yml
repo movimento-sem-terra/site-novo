@@ -1,6 +1,8 @@
 language: ruby
 sudo: false
 rvm: 2.2.0
+before_script: bundle exec neat install
+before_script: bundle exec bourbon install
 script: bundle exec rake deploy
 env:
   global:
