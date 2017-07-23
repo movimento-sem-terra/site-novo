@@ -8,7 +8,7 @@ title: Débora Nunes relata o cenário político para o campesinato brasileiro
 support_line: "“O desafio que se coloca é justamente articular as diversas resistências num processo único, numa articulação e ação global que possa enfrentar o capitalismo”."
 menu: lutas e mobilizações
 images_hd: //farm5.staticflickr.com/4294/35680344680_b535494f12_b.jpg
-section: cover
+section: featured-news
 layout: post
 files:
   - link: //farm5.staticflickr.com/4291/36029186456_7ff1ce7d04_b.jpg
