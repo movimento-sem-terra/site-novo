@@ -7,6 +7,14 @@
 		<atom:link href="http://www.mst.org.br/rss.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Fonte da Vida</title>
+				<description>Marquinhos Monteiro </description>
+				<pubDate>Mon, 24 Jul 2017 20:42:30 +0000</pubDate>
+				<link>http://www.mst.org.br/2017/07/24/fonte-da-vida.html</link>
+				<guid isPermaLink="true">http://www.mst.org.br/2017/07/24/fonte-da-vida.html</guid>
+			</item>
+		
+			<item>
 				<title>João Pedro convoca para Jornada de Lutas</title>
 				<description>Agronegócio corrupto e golpista.</description>
 				<pubDate>Mon, 24 Jul 2017 20:08:25 +0000</pubDate>
@@ -81,14 +89,6 @@
 				<pubDate>Sun, 23 Jul 2017 17:39:47 +0000</pubDate>
 				<link>http://www.mst.org.br/2017/07/23/nem-pop-nem-tech-o-agro-e-corrupto.html</link>
 				<guid isPermaLink="true">http://www.mst.org.br/2017/07/23/nem-pop-nem-tech-o-agro-e-corrupto.html</guid>
-			</item>
-		
-			<item>
-				<title>5ª Assembleia de Mulheres da Via Campesina</title>
-				<description>Atividade precedeu a VII Conferência Internacional da Via, em Derio, no País Basco.</description>
-				<pubDate>Fri, 21 Jul 2017 18:07:50 +0000</pubDate>
-				<link>http://www.mst.org.br/2017/07/21/5a-assembleia-de-mulheres-da-via-campesina.html</link>
-				<guid isPermaLink="true">http://www.mst.org.br/2017/07/21/5a-assembleia-de-mulheres-da-via-campesina.html</guid>
 			</item>
 		
 	</channel>
