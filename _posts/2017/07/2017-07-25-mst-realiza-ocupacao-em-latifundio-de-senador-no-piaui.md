@@ -5,19 +5,19 @@ tags:
   - tag: agronegócio
   - tag: acampamento
   - tag: piaui
-images_hd: //farm5.staticflickr.com/4323/35762713910_5ebc6bd4bd_b.jpg
+images_hd: //farm5.staticflickr.com/4302/35353143733_7efe5efced_b.jpg
 title: MST realiza ocupação em latifúndio de senador no Piauí
 support_line: As famílias denunciam a improdutividade da área de Ciro Nogueira e reivindicam sua desapropriação
 menu: lutas e mobilizações
 layout: post
 files:
-  - link: //farm5.staticflickr.com/4323/35762713910_5ebc6bd4bd_b.jpg
-    original: //farm5.staticflickr.com/4323/35762713910_21bb966f62_o.jpg
-    thumbnail: //farm5.staticflickr.com/4323/35762713910_5ebc6bd4bd_t.jpg
-    medium: //farm5.staticflickr.com/4323/35762713910_5ebc6bd4bd_z.jpg
-    small: //farm5.staticflickr.com/4323/35762713910_5ebc6bd4bd_n.jpg
-    title: WhatsApp Image 2017-07-25 at 07.37.57.jpeg
-    $$hashKey: "030"
+  - link: //farm5.staticflickr.com/4302/35353143733_7efe5efced_b.jpg
+    original: //farm5.staticflickr.com/4302/35353143733_8f39f33b89_o.jpg
+    thumbnail: //farm5.staticflickr.com/4302/35353143733_7efe5efced_t.jpg
+    medium: //farm5.staticflickr.com/4302/35353143733_7efe5efced_z.jpg
+    small: //farm5.staticflickr.com/4302/35353143733_7efe5efced_n.jpg
+    title: fe3aa529-8a78-44c0-b0ed-a009e1800b97.jpg
+    $$hashKey: 0MD
 created_date: "2017-07-25T08:41:29-03:00"
 published: true
 releated_posts:
@@ -28,6 +28,12 @@ releated_posts:
 
 ---
 <p>&nbsp;</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="fe3aa529-8a78-44c0-b0ed-a009e1800b97.jpg" height="394" src="//farm5.staticflickr.com/4302/35353143733_7efe5efced_b.jpg" width="700" />
+<figcaption></figcaption>
+</figure>
+</div>
 
 <p>&nbsp;</p>
 
