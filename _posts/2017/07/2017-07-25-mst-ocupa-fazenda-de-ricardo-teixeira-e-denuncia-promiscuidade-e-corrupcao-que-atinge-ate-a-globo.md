@@ -8,16 +8,16 @@ tags:
 title: MST ocupa fazenda de Ricardo Teixeira e denuncia promiscuidade e corrupção que atinge até a Globo
 support_line: "Na região Sul do Estado do Rio de Janeiro, Teixeira mantém latifúndios, que são reivindicados pelos trabalhadores como punição aos corruptos."
 menu: lutas e mobilizações
-images_hd: //farm5.staticflickr.com/4312/35311924944_37ac89130f_b.jpg
+images_hd: //farm5.staticflickr.com/4293/35984394732_b2f9cf178b_b.jpg
 layout: post
 files:
-  - link: //farm5.staticflickr.com/4312/35311924944_37ac89130f_b.jpg
-    original: //farm5.staticflickr.com/4312/35311924944_1d16d5f681_o.jpg
-    thumbnail: //farm5.staticflickr.com/4312/35311924944_37ac89130f_t.jpg
-    medium: //farm5.staticflickr.com/4312/35311924944_37ac89130f_z.jpg
-    small: //farm5.staticflickr.com/4312/35311924944_37ac89130f_n.jpg
-    title: WhatsApp Image 2017-03-07 at 06.24.37.jpeg
-    $$hashKey: 0T7
+  - link: //farm5.staticflickr.com/4293/35984394732_b2f9cf178b_b.jpg
+    original: //farm5.staticflickr.com/4293/35984394732_23d8639268_o.jpg
+    thumbnail: //farm5.staticflickr.com/4293/35984394732_b2f9cf178b_t.jpg
+    medium: //farm5.staticflickr.com/4293/35984394732_b2f9cf178b_z.jpg
+    small: //farm5.staticflickr.com/4293/35984394732_b2f9cf178b_n.jpg
+    title: WhatsApp Image 2017-07-25 at 07.01.38.jpeg
+    $$hashKey: 05C
 created_date: "2017-07-25T05:55:38-03:00"
 published: true
 releated_posts:
@@ -29,7 +29,7 @@ releated_posts:
   - _posts/2017/07/2017-07-11-vitoria-dos-trabalhadores-em-acu-rj.md
 
 ---
-<p>&nbsp;</p>
+<p><img alt="WhatsApp Image 2017-07-25 at 07.01.38.jpeg" height="525" src="//farm5.staticflickr.com/4293/35984394732_b2f9cf178b_b.jpg" width="700" /></p>
 
 <p>&nbsp;</p>
 
