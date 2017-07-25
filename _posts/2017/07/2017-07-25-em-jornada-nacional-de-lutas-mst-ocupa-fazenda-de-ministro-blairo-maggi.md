@@ -10,16 +10,16 @@ tags:
 title: "Em Jornada Nacional de lutas, MST ocupa fazenda de Ministro Blairo Maggi\n"
 support_line: "Movimento denuncia práticas de corrupção do Ministro da Agricultura em favor próprio e do agronegócio.\n"
 menu: lutas e mobilizações
-images_hd: //farm5.staticflickr.com/4325/35345453493_4508687520_b.jpg
+images_hd: //farm5.staticflickr.com/4321/36113279866_554dedbeaa_b.jpg
 layout: post
 files:
-  - link: //farm5.staticflickr.com/4325/35345453493_4508687520_b.jpg
-    original: //farm5.staticflickr.com/4325/35345453493_dd27548293_o.jpg
-    thumbnail: //farm5.staticflickr.com/4325/35345453493_4508687520_t.jpg
-    medium: //farm5.staticflickr.com/4325/35345453493_4508687520_z.jpg
-    small: //farm5.staticflickr.com/4325/35345453493_4508687520_n.jpg
-    title: mst-bandeira-por-de-sol-grande-750x410.jpg
-    $$hashKey: 0CP
+  - link: //farm5.staticflickr.com/4321/36113279866_554dedbeaa_b.jpg
+    original: //farm5.staticflickr.com/4321/36113279866_7cf33657fa_o.jpg
+    thumbnail: //farm5.staticflickr.com/4321/36113279866_554dedbeaa_t.jpg
+    medium: //farm5.staticflickr.com/4321/36113279866_554dedbeaa_z.jpg
+    small: //farm5.staticflickr.com/4321/36113279866_554dedbeaa_n.jpg
+    title: 20401222_1609444095792200_532626162_n.jpg
+    $$hashKey: 0I5
 created_date: "2017-07-25T07:09:48-03:00"
 published: true
 releated_posts:
