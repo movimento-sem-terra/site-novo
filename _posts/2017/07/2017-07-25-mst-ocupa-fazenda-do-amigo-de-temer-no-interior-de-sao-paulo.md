@@ -28,6 +28,7 @@ releated_posts:
   - _posts/2017/06/2017-06-06-frente-brasil-popular-lanca-em-brasilia-plano-com-diretrizes-economicas-e-sociais-para-o-pais.md
   - _posts/2017/04/2017-04-18-para-pressionar-o-governo-federal-mst-ocupa-sede-do-incra-em-brasilia.md
   - _posts/2017/06/2017-06-28-mst-se-soma-a-greve-geral-da-proxima-sexta-30.md
+section: featured-news
 
 ---
 <p>&nbsp;</p>
