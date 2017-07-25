@@ -4,6 +4,9 @@ tags:
   - tag: reforma-agrária
   - tag: jornada-nacional-de-lutas
   - tag: mobilizações
+  - tag: ocupação
+  - tag: agronegócio
+  - tag: acampamento
 title: "Em Jornada Nacional de lutas, MST ocupa fazenda de Ministro Blairo Maggi\n"
 support_line: "Movimento denuncia práticas de corrupção do Ministro da Agricultura em favor próprio e do agronegócio.\n"
 menu: lutas e mobilizações
@@ -20,25 +23,21 @@ files:
 created_date: "2017-07-25T07:09:48-03:00"
 published: true
 releated_posts:
-  - _posts/2017/04/2017-04-18-a-jornada-nacional-de-lutas-pela-reforma-agraria-esta-dentro-do-contexto-politico-do-pais.md
-  - _posts/2017/04/2017-04-20-mst-encerra-mobilizacoes-em-porto-alegre-com-doacao-de-alimentos-para-escola-indigena.md
-  - _posts/2017/04/2017-04-18-superintendencia-do-incra-de-bh-e-ocupada-pelo-mst.md
-  - _posts/2017/01/2017-01-13-sem-terra-bloqueiam-a-br-060-no-ceara.md
-  - _posts/2017/03/2017-03-24-a-contribuicao-dos-assentamentos-rurais-para-uma-regiao-em-conflito.md
+  - _posts/2017/07/2017-07-25-mst-ocupa-fazenda-de-ricardo-teixeira-e-denuncia-promiscuidade-e-corrupcao-que-atinge-ate-a-globo.md
+  - _posts/2016/12/2016-12-02-menos-de-1-das-propriedades-agricolas-detem-quase-metade-da-area-rural-no-pais.md
+  - _posts/2016/12/2016-12-14-proprietarios-de-terra-devem-quase-rusd-1-trilhao-a-uniao.md
   - _posts/2017/04/2017-04-18-mp-do-governo-golpista-que-altera-normas-fundiarias-e-inconstitucional-afirma-mpf-em-nota-tecnica.md
   - _posts/2017/04/2017-04-17-jornada-nacional-de-lutas-pela-reforma-agraria-2017.md
-  - _posts/2017/04/2017-04-17-mst-ocupa-terras-e-incras-em-todo-pais-por-retomada-da-reforma-agraria.md
-  - _posts/2017/04/2017-04-17-jornada-de-lutas-no-rs-comeca-com-duas-ocupacoes-do-mst.md
-  - _posts/2017/04/2017-04-17-trabalhadores-sem-terra-dao-inicio-a-jornada-nacional-de-lutas-pela-reforma-agraria-em-alagoas.md
-  - _posts/2017/07/2017-07-18-acampados-e-acampadas-nas-terras-de-eike-batista-lutam-para-evitar-despejo.md
-  - _posts/2017/07/2017-07-24-com-apoio-do-mst-e-da-onu-venezuela-investe-na-producao-de-sementes-agroecologicas.md
-  - _posts/2017/07/2017-07-19-sem-terra-promovem-seminario-no-palacio-das-araucarias-para-tratar-sobre-a-reforma-agraria-no-parana.md
 
 ---
-<p>Da P&aacute;gina do MST&nbsp;</p>
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><em>Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
-Como parte da Jornada Nacional de Luta pela Reforma Agr&aacute;ria e, cerca de 1000 fam&iacute;lias de todos os estados da regi&atilde;o centro-oeste e Distrito Federal ocuparam a fazenda ocuparam, nesta madrugada (25), a fazenda do ministro da Agricultura, Blairo Maggi (PP), localizada em Rondon&oacute;polis, a 210 quil&ocirc;metros da capital Cuiab&aacute;.</p>
+Como parte da Jornada Nacional de Luta pela Reforma Agr&aacute;ria, cerca de 1000 fam&iacute;lias de todos os estados da regi&atilde;o centro-oeste e Distrito Federal ocuparam a fazenda ocuparam, nesta madrugada (25), a fazenda do ministro da Agricultura, Blairo Maggi (PP), localizada em Rondon&oacute;polis, a 210 quil&ocirc;metros da capital Cuiab&aacute;.</p>
 
 <p><br />
 Conhecido como &ldquo;Rei da Soja&rdquo;, Maggi &eacute; dono de um grande imp&eacute;rio econ&ocirc;mico, o grupo Amaggi, e envolvido em conjunto de den&uacute;ncias de uso das legislaturas, como o de senador, para legislar em causa pr&oacute;pria e para o fortalecimento das empresas de agroneg&oacute;cio. No ano de 2006 o Greenpeace lhe concedeu o pr&ecirc;mio Motosserra do ano, por elevados danos ao meio ambiente. Blairo tamb&eacute;m estava envolvido em eventos ainda n&atilde;o esclarecidos como a intercepta&ccedil;&atilde;o pela For&ccedil;a &Aacute;rea Brasileira (FAB) de uma avia&ccedil;&atilde;o que transportava 500 quilos de coca&iacute;na. Segundo a FAB, a aeronave decolou da Fazenda Itamarati Norte, localizada no munic&iacute;pio de Campo Novo do Pareceis (MT). A fazenda pertence ao grupo Maggi.</p>
@@ -56,6 +55,9 @@ O dirigente faz refer&ecirc;ncia ao conjunto de a&ccedil;&otilde;es articuladas 
 &ldquo;Estamos lutando pela desapropria&ccedil;&atilde;o de terras para assentar as mais de 130 mil fam&iacute;lias e nela produzir alimento saud&aacute;vel na agroecologia e gerar empregos no campo&rdquo;, complementa o dirigente.&nbsp;</p>
 
 <p><br />
+Confira nota emitida pelos manifestantes.</p>
+
+<p style="text-align: center;"><br />
 <strong>Nota da regi&atilde;o Centro-oeste</strong></p>
 
 <p><br />
