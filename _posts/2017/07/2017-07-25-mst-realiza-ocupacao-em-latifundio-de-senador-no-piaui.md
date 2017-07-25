@@ -40,8 +40,13 @@ releated_posts:
 <p><br />
 A fazenda fica localizada pr&oacute;ximo &agrave; BR-316, a 22km da capital Teresina, regi&atilde;o metropolitana do estado.</p>
 
+<p>Em Maio deste ano o senador Ciro Nogueira foi um dos citados na dela&ccedil;&atilde;o de Ricardo Saud, diretor de Rela&ccedil;&otilde;es Institucionais do Grupo J&amp;F dono do frigor&iacute;fico JBS por recebimento de doa&ccedil;&otilde;es para campanha de 2014. O mesmo mencionou o pagamento de 42 milh&otilde;es ao Partido Progressista, do qual Ciro Nogueira &eacute; presidente Nacional, e que as tentativas se deram diretamente com o parlamentar piauiense.</p>
+
 <p><br />
 As fam&iacute;lias denunciam a improdutividade da &aacute;rea e reivindicam sua desapropria&ccedil;&atilde;o para fins de Reforma Agr&aacute;ria.</p>
+
+<p><br />
+De acordo com Jo&atilde;o Luis, da dire&ccedil;&atilde;o nacional do Movimento, &quot;n&atilde;o podemos permitir que milh&otilde;es de pessoas&nbsp; passem fome, enquanto a terra est&aacute; concentrada nas m&atilde;os de poucos&quot;. Ele adverte: &quot;al&eacute;m de que essas terras de corruptos tem que ser destinadas para os trabalhadores&quot;.</p>
 
 <p><br />
 A ocupa&ccedil;&atilde;o faz parte da Jornada de Luta pela Reforma Agr&aacute;ria que, com o lema &quot;Corruptos, devolvam nossas terras!&quot;, mobiliza trabalhadores rurais em todo o pa&iacute;s.</p>
