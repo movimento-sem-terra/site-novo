@@ -40,7 +40,8 @@ releated_posts:
 <p><br />
 A fazenda fica localizada pr&oacute;ximo &agrave; BR-316, a 22km da capital Teresina, regi&atilde;o metropolitana do estado.</p>
 
-<p>Em Maio deste ano o senador Ciro Nogueira foi um dos citados na dela&ccedil;&atilde;o de Ricardo Saud, diretor de Rela&ccedil;&otilde;es Institucionais do Grupo J&amp;F dono do frigor&iacute;fico JBS por recebimento de doa&ccedil;&otilde;es para campanha de 2014. O mesmo mencionou o pagamento de 42 milh&otilde;es ao Partido Progressista, do qual Ciro Nogueira &eacute; presidente Nacional, e que as tentativas se deram diretamente com o parlamentar piauiense.</p>
+<p><br />
+Em Maio deste ano o senador Ciro Nogueira foi um dos citados na dela&ccedil;&atilde;o de Ricardo Saud, diretor de Rela&ccedil;&otilde;es Institucionais do Grupo J&amp;F dono do frigor&iacute;fico JBS por recebimento de doa&ccedil;&otilde;es para campanha de 2014. O mesmo mencionou o pagamento de 42 milh&otilde;es ao Partido Progressista, do qual Ciro Nogueira &eacute; presidente Nacional, e que as tentativas se deram diretamente com o parlamentar piauiense.</p>
 
 <p><br />
 As fam&iacute;lias denunciam a improdutividade da &aacute;rea e reivindicam sua desapropria&ccedil;&atilde;o para fins de Reforma Agr&aacute;ria.</p>
