@@ -8,7 +8,7 @@ tags:
 title: "MST: Corruptos, devolvam nossas terras!"
 support_line: "Ocupando terras de Temer, Blairo Maggi e Ricardo Teixeira, Jornada de lutas exige Reforma Agrária e denuncia os corruptos ruralistas que sustentam o governo."
 menu: lutas e mobilizações
-section: cover
+section: featured-news
 images_hd: //farm5.staticflickr.com/4307/36113049826_6029a8d401_b.jpg
 layout: post
 files:
