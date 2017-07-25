@@ -27,9 +27,14 @@ releated_posts:
   - _posts/2017/04/2017-04-25-justica-nega-reintegracao-de-posse-em-area-ocupada-pelo-mst-no-rio-de-janeiro.md
   - _posts/2017/04/2017-04-28-em-nota-movimentos-se-solidarizam-com-os-trabalhadores-e-trabalhadoras-rurais-de-acu.md
   - _posts/2017/07/2017-07-11-vitoria-dos-trabalhadores-em-acu-rj.md
+section: featured-news
 
 ---
-<p><img alt="WhatsApp Image 2017-07-25 at 07.01.38.jpeg" height="525" src="//farm5.staticflickr.com/4293/35984394732_b2f9cf178b_b.jpg" width="700" /></p>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2017-07-25 at 07.01.38.jpeg" height="525" src="//farm5.staticflickr.com/4293/35984394732_b2f9cf178b_b.jpg" width="700" />
+<figcaption></figcaption>
+</figure>
+</div>
 
 <p>&nbsp;</p>
 
@@ -37,10 +42,10 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p>Como parte da Jornada Nacional do MST em defesa da Reforma Agr&aacute;ria e pautando a aquisi&ccedil;&atilde;o das terras dos corruptos, mais de 350 fam&iacute;lias ocuparam a fazenda Santa Rosa do ex-presidente da CBF, Ricardo Teixeira, not&oacute;rio denunciado e indiciado em casos de corrup&ccedil;&atilde;o. O latif&uacute;ndio fica localizado no munic&iacute;pio de Pira&iacute;, regi&atilde;o Sul Fluminense, e concentra mais de 1500 h&aacute;.</p>
+<p>Como parte da Jornada Nacional do MST em defesa da Reforma Agr&aacute;ria e pautando a aquisi&ccedil;&atilde;o das terras dos corruptos, mais de 350 fam&iacute;lias ocuparam a fazenda Santa Rosa do ex-presidente da CBF, Ricardo Teixeira, not&oacute;rio denunciado e indiciado em casos de corrup&ccedil;&atilde;o. O latif&uacute;ndio fica localizado no munic&iacute;pio de Pira&iacute;, regi&atilde;o Sul Fluminense, e concentra mais de 1500 hectares.</p>
 
 <p><br />
-A m&aacute;fia no futebol brasileiro &eacute; produto de exporta&ccedil;&atilde;o. Ricardo Teixeira n&atilde;o s&oacute; desencadeou todo um sistema de estelionato sobre o futebol e lavagem de dinheiro no Brasil, segundo estimam procuradores do Minist&eacute;rio P&uacute;blico Federal, como sua expertisse em corrup&ccedil;&atilde;o no futebol &eacute; pauta do FBI e da pol&iacute;cia Espanhola.</p>
+A m&aacute;fia no futebol brasileiro &eacute; produto de exporta&ccedil;&atilde;o. Ricardo Teixeira n&atilde;o s&oacute; desencadeou todo um sistema de estelionato sobre o futebol e lavagem de dinheiro no Brasil, segundo estimam procuradores do Minist&eacute;rio P&uacute;blico Federal, como sua expertise em corrup&ccedil;&atilde;o no futebol &eacute; pauta do FBI e da pol&iacute;cia Espanhola.</p>
 
 <p><br />
 Muitas destas lavagens de dinheiro passam pelo contexto da aquisi&ccedil;&atilde;o e valoriza&ccedil;&atilde;o especulativa de grandes extens&otilde;es de terras. Na ocupa&ccedil;&atilde;o os trabalhadores tamb&eacute;m denunciam que a Rede Globo tem contas a prestar nas rela&ccedil;&otilde;es com a CBF e FIFA comandadas por Teixeira, j&aacute; que foram anos usufruindo diretamente com a compra exclusiva de direitos de transmiss&atilde;o.</p>
