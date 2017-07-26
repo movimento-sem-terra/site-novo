@@ -9,7 +9,7 @@ title: "Em diálogo com o anseio popular, MST quer Reforma Agrária nas terras d
 images_hd: //farm5.staticflickr.com/4310/35359537683_0b9ecb7eb2_b.jpg
 support_line: Jornada mobiliza nove estados em todas as regiões do país.
 menu: lutas e mobilizações
-section: cover
+section: featured-news
 layout: post
 files:
   - link: //farm5.staticflickr.com/4321/35359536893_28ec22cfa9_b.jpg
