@@ -50,7 +50,7 @@ No Rio Grande do Norte, a constru&ccedil;&atilde;o dessa obra tem impactado dire
 </figure>
 
 <p><br />
-Desde a &uacute;ltima ter&ccedil;a-feira (25), o MST se mobiliza ocupando as terras ligadas a Michel Temer (em S&atilde;o Paulo), Blairo Maggi (no Mato Grosso), Ricardo Teixeira (no Rio de Janeiro), Ciro Nogueira (no Piaui), todos envolvidos em casos de puni&ccedil;&atilde;o.&nbsp;</p>
+Desde a &uacute;ltima ter&ccedil;a-feira (25), o MST se mobiliza ocupando as terras ligadas a Michel Temer (em S&atilde;o Paulo), Blairo Maggi (no Mato Grosso), Ricardo Teixeira (no Rio de Janeiro), Ciro Nogueira (no Piaui), todos envolvidos em casos de corrup&ccedil;&atilde;o..&nbsp;</p>
 
 <p><br />
 &ldquo;Essas terras obtidas ou envolvidas nos esquemas de corrup&ccedil;&atilde;o precisam ser confiscadas e destinadas a fam&iacute;lias Sem Terra, para que elas tenham trabalho e produzam alimentos pro campo e pra cidade&rdquo;, declara Gilmar Mauro, da dire&ccedil;&atilde;o do MST. Outros dois latif&uacute;ndios foram ocupados tamb&eacute;m nos estados do Mato Grosso do Sul e Paran&aacute;.</p>
