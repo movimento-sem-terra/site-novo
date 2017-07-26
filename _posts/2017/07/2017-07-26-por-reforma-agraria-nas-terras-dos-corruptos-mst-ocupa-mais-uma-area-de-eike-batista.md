@@ -4,7 +4,7 @@ tags:
   - tag: ocupação
   - tag: jornada-nacional-de-lutas
   - tag: mobilizações
-title: "Por reforma agrária nas terras dos corruptos, MST ocupa mais uma área de Eike Batista"
+title: "Por Reforma Agrária nas terras dos corruptos, MST ocupa mais uma área de Eike Batista"
 support_line: As atividades da MMX podem acarretar numa crise do abastecimento de água da Região Metropolitana de Belo Horizonte.
 images_hd: //farm5.staticflickr.com/4317/35789332360_46360ddcf9_b.jpg
 menu: lutas e mobilizações
