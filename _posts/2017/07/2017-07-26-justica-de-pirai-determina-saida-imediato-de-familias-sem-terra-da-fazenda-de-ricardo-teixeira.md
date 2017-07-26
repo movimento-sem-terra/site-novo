@@ -4,7 +4,7 @@ tags:
   - tag: ocupação
   - tag: acampamento
   - tag: agronegócio
-title: Justiça de Piraí determina saída imediato de famílias Sem Terra da fazenda de Ricardo Teixeira
+title: Justiça de Piraí determina saída imediata de Sem Terras da fazenda de Ricardo Teixeira
 support_line: As famílias de trabalhadores rurais sem terra seguem resistindo e lutando pela destinação de terras de corruptos para Reforma Agrária.
 menu: direitos humanos
 images_hd: //farm5.staticflickr.com/4317/35362420363_8e8e83658e_b.jpg
@@ -31,7 +31,8 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p><em>Da P&aacute;gina do MST</em></p>
+<p><em>Da P&aacute;gina do MST<br />
+Fotos: M&iacute;dia Ninja</em></p>
 
 <p>&nbsp;</p>
 
