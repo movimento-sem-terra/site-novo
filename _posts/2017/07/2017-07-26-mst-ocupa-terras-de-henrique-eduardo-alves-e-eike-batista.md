@@ -112,3 +112,15 @@ Desde 8 de Mar&ccedil;o desse ano, 600 fam&iacute;lias, ocupam a fazenda Santa T
 <p><br />
 Eike Batista possui aproximadamente 10 mil hectares de terra na regi&atilde;o metropolitana de Belo Horizonte. Preso, acusado de corrup&ccedil;&atilde;o, ele responde ao processo em pris&atilde;o domiciliar, dentro de sua mans&atilde;o. Enquanto isso, os trabalhadores brasileiros continuam sofrendo com o desemprego, a falta de moradia e de acesso &agrave; terra.<br />
 Por isso, al&eacute;m da reivindica&ccedil;&atilde;o das terras dos corruptos, o MST exige &ldquo;FORA TEMER, NENHUM DIREITO A MENOS e DIRETAS J&Aacute;!&rdquo;</p>
+
+<p>&nbsp;</p>
+
+<p>Acompanhe as ocupa&ccedil;&otilde;es de hoje (26)&nbsp;</p>
+
+<p><a href="http://www.mst.org.br/2017/07/26/sem-terra-ocupam-perimetro-irrigado-no-rio-grande-do-norte.html">Sem Terra ocupam per&iacute;metro irrigado no Rio Grande do Norte</a></p>
+
+<p><a href="http://Por reforma agrária nas terras dos corruptos, MST ocupa mais uma área de Eike Batista">Por reforma agr&aacute;ria nas terras dos corruptos, MST ocupa mais uma &aacute;rea de Eike Batista</a></p>
+
+<p>&nbsp;</p>
+
+<p>Para informa&ccedil;&otilde;es sobre as a&ccedil;&otilde;es de ontem (25), clique <a href="http://www.mst.org.br/2017/07/25/em-dialogo-com-o-anseio-popular-mst-quer-reforma-agraria-nas-terras-dos-corruptos.html">aqui&nbsp;</a></p>
