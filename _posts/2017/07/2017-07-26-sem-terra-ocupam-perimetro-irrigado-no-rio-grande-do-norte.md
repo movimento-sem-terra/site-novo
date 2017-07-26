@@ -7,16 +7,9 @@ tags:
 title: "Sem Terra ocupam perímetro irrigado no Rio Grande do Norte "
 support_line: "O Perímetro Irrigado é conhecido como “Projeto da Morte” e está localizado na Chapada do Apodi, palco de conflito e resistência camponesa "
 menu: lutas e mobilizações
-images_hd: //farm5.staticflickr.com/4329/36178732175_7e7d8b775e_b.jpg
+images_hd: //farm5.staticflickr.com/4323/36178939465_be07bd2e87_b.jpg
 layout: post
 files:
-  - link: //farm5.staticflickr.com/4330/35374099713_cb117338b5_b.jpg
-    original: //farm5.staticflickr.com/4330/35374099713_8a91ca9ae7_o.jpg
-    thumbnail: //farm5.staticflickr.com/4330/35374099713_cb117338b5_t.jpg
-    medium: //farm5.staticflickr.com/4330/35374099713_cb117338b5_z.jpg
-    small: //farm5.staticflickr.com/4330/35374099713_cb117338b5_n.jpg
-    title: a46bbe9a-99f6-47dc-af77-baecebb51fc9.jpg
-    $$hashKey: "064"
   - link: //farm5.staticflickr.com/4329/36178732175_7e7d8b775e_b.jpg
     original: //farm5.staticflickr.com/4329/36178732175_d427d2b175_o.jpg
     thumbnail: //farm5.staticflickr.com/4329/36178732175_7e7d8b775e_t.jpg
@@ -24,6 +17,13 @@ files:
     small: //farm5.staticflickr.com/4329/36178732175_7e7d8b775e_n.jpg
     title: 9ef28252-6bf3-410d-b996-39e2b7a997e1.jpg
     $$hashKey: "067"
+  - link: //farm5.staticflickr.com/4323/36178939465_be07bd2e87_b.jpg
+    original: //farm5.staticflickr.com/4323/36178939465_e673259e16_o.jpg
+    thumbnail: //farm5.staticflickr.com/4323/36178939465_be07bd2e87_t.jpg
+    medium: //farm5.staticflickr.com/4323/36178939465_be07bd2e87_z.jpg
+    small: //farm5.staticflickr.com/4323/36178939465_be07bd2e87_n.jpg
+    title: 2bbf3202-7124-4104-9253-73e90d60b3bf.jpg
+    $$hashKey: 05L
 created_date: "2017-07-26T11:23:11-03:00"
 published: true
 releated_posts:
@@ -39,7 +39,7 @@ releated_posts:
 
 ---
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="a46bbe9a-99f6-47dc-af77-baecebb51fc9.jpg" height="525" src="//farm5.staticflickr.com/4330/35374099713_cb117338b5_b.jpg" width="700" />
+<figure class="image" style="display:inline-block"><img alt="9ef28252-6bf3-410d-b996-39e2b7a997e1.jpg" height="394" src="//farm5.staticflickr.com/4329/36178732175_7e7d8b775e_b.jpg" width="700" />
 <figcaption></figcaption>
 </figure>
 </div>
