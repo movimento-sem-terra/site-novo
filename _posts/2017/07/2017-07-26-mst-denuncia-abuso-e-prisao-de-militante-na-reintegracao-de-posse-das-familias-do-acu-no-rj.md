@@ -4,7 +4,7 @@ tags:
   - tag: rio-de-janeiro
   - tag: acampamento
   - tag: lutas-e-mobilizações
-title: "MST denuncia abuso e prisão de Militante na reintegração de posse das familias do Açu, no RJ"
+title: MST denuncia abuso e prisão de militante na reintegração de posse das famílias do Açu (RJ)
 support_line: "Trabalhadores que haviam sido expulsos com a chegada da OLX decidiram reocupar suas terras, apoiados pelo MST."
 menu: direitos humanos
 images_hd: //farm5.staticflickr.com/4325/36053502011_bd4cbca800_b.jpg
