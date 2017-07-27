@@ -41,6 +41,7 @@ releated_posts:
   - _posts/2017/07/2017-07-26-sem-terra-ocupam-perimetro-irrigado-no-rio-grande-do-norte.md
   - _posts/2017/07/2017-07-24-cercados-pelos-tres-poderes-manifestantes-reivindicam-a-restauracao-da-democracia.md
   - _posts/2017/07/2017-07-21-mst-encaminha-documento-a-ministro-osmar-terra-com-reivindicacoes-de-cooperativas.md
+section: cover
 
 ---
 <div style="text-align:center">
