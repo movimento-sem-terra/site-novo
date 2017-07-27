@@ -4,7 +4,7 @@ tags:
   - tag: cultura
   - tag: formação
   - tag: juventude
-title: "MST cria peça teatral sobre realidade das mulheres operárias, negras, camponesas, indígenas e da comunidade LGBT"
+title: MST cria peça teatral sobre realidade das mulheres e da comunidade LGBT
 support_line: "Iniciativa é do Grupo de Teatro ‘Peça Pro Povo’, constituído em 2005 pelo MST no Rio Grande do Sul.\n"
 images_hd: //farm5.staticflickr.com/4301/35395639083_db82af526d_b.jpg
 menu: "educação, cultura e comunicação"
