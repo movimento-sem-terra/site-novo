@@ -5,7 +5,7 @@ tags:
   - tag: agroecologia
   - tag: alimentação-saudável
 title: "“As Feiras são expressões da nossa organização e resistência”, afirma dirigente Sem Terra\n"
-support_line: "A trajetória das Feiras em Alagoas tem possibilitado a aproximação com diversos setores da sociedade, em especial, através da comercialização dos alimentos dos acampamentos e assentamentos"
+support_line: "A trajetória das Feiras em Alagoas tem possibilitado a aproximação com diversos setores da sociedade, em especial, através da comercialização dos alimentos dos acampamentos e assentamentos."
 menu: agricultura camponesa
 images_hd: //farm5.staticflickr.com/4292/36037335252_a8bb45ac58_b.jpg
 layout: post
@@ -51,6 +51,7 @@ releated_posts:
   - _posts/2017/06/2017-06-08-10a-feira-cultural-da-reforma-agraria-e-realizada-no-ceara.md
   - _posts/2017/06/2017-06-09-ato-politico-aponta-retomada-democratica-como-ponto-central-das-lutas.md
   - _posts/2017/06/2017-06-15-cooperativa-do-mst-vai-certificar-producao-de-sementes-e-mudas-organicas.md
+section: cover
 
 ---
 <div style="text-align:center">
