@@ -55,7 +55,7 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p><em>Por Leonardo Fernandes<br />
+<p><em>Por Leonardo Fernandes, enviado especial a Caracas<br />
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
