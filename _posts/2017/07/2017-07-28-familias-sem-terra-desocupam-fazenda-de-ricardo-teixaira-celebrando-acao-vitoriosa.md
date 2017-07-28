@@ -5,7 +5,7 @@ tags:
   - tag: agronegócio
   - tag: acampamento
   - tag: rio-de-janeiro
-title: Famílias Sem Terra desocupam fazenda de Ricardo Teixaira celebrando ação vitoriosa
+title: Famílias Sem Terra desocupam fazenda de Ricardo Teixeira celebrando ação vitoriosa
 support_line: "Ação em Piaraí-RJ  integrou a Jornada Nacional de Luta pela Reforma Agrária, iniciada no dia 25."
 menu: lutas e mobilizações
 section: featured-news
