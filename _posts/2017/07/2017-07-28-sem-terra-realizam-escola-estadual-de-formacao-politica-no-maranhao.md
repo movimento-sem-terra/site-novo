@@ -7,16 +7,23 @@ tags:
 title: "Sem Terra realizam escola estadual de formação política no Maranhão \n\n"
 support_line: "O curso, voltado para juventude contou com a participação de 62 jovens de diversas organizações "
 menu: "educação, cultura e comunicação"
-images_hd: //farm5.staticflickr.com/4322/35834732550_04298bec32_b.jpg
+images_hd: //farm5.staticflickr.com/4311/36077166112_ed39f208db_b.jpg
 layout: post
 files:
-  - link: //farm5.staticflickr.com/4322/35834732550_04298bec32_b.jpg
-    original: //farm5.staticflickr.com/4322/35834732550_6025939c83_o.jpg
-    thumbnail: //farm5.staticflickr.com/4322/35834732550_04298bec32_t.jpg
-    medium: //farm5.staticflickr.com/4322/35834732550_04298bec32_z.jpg
-    small: //farm5.staticflickr.com/4322/35834732550_04298bec32_n.jpg
-    title: 35095685426_42c72715cf_b.jpg
-    $$hashKey: 0K5
+  - link: //farm5.staticflickr.com/4311/36077166112_ed39f208db_b.jpg
+    original: //farm5.staticflickr.com/4311/36077166112_b695679506_o.jpg
+    thumbnail: //farm5.staticflickr.com/4311/36077166112_ed39f208db_t.jpg
+    medium: //farm5.staticflickr.com/4311/36077166112_ed39f208db_z.jpg
+    small: //farm5.staticflickr.com/4311/36077166112_ed39f208db_n.jpg
+    title: a6fd5ed9-53a0-4ae9-9280-d21870f4baa4.jpg
+    $$hashKey: 05D
+  - link: //farm5.staticflickr.com/4300/35438668033_2d162ae76f_b.jpg
+    original: //farm5.staticflickr.com/4300/35438668033_c4c6fc68ae_o.jpg
+    thumbnail: //farm5.staticflickr.com/4300/35438668033_2d162ae76f_t.jpg
+    medium: //farm5.staticflickr.com/4300/35438668033_2d162ae76f_z.jpg
+    small: //farm5.staticflickr.com/4300/35438668033_2d162ae76f_n.jpg
+    title: de7a7a1d-be0f-4133-a1e3-e14c2c746f8d.jpg
+    $$hashKey: 05G
 created_date: "2017-07-28T17:00:15-03:00"
 published: true
 releated_posts:
@@ -31,7 +38,11 @@ releated_posts:
   - _posts/2017/06/2017-06-25-educadores-apontam-os-desafios-e-perspectivas-da-educacao-do-campo-no-norte-da-bahia.md
 
 ---
-<p>&nbsp;</p>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="de7a7a1d-be0f-4133-a1e3-e14c2c746f8d.jpg" height="525" src="//farm5.staticflickr.com/4300/35438668033_2d162ae76f_b.jpg" width="700" />
+<figcaption></figcaption>
+</figure>
+</div>
 
 <p><em>Por Reynaldo Costa&nbsp;<br />
 Da P&aacute;gina do MST</em></p>
