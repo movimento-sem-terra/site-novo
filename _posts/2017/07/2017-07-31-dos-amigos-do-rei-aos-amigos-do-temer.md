@@ -34,7 +34,7 @@ releated_posts:
 <p>&nbsp;</p>
 
 <p><em>Por M&aacute;rcia Lia*<br />
-Da Carta Capital&nbsp;</em></p>
+Publicado na Carta Capital&nbsp;</em></p>
 
 <p><br />
 Temos acompanhado nossos irm&atilde;os do MST em uma incans&aacute;vel jornada de lutas em busca do direito a terras e que, desta vez, teve como foco fazendas do c&iacute;rculo de amigos de Michel Temer.</p>
