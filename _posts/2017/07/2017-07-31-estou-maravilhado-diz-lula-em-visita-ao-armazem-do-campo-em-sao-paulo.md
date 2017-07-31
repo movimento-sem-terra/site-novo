@@ -5,7 +5,7 @@ tags:
   - tag: lula
   - tag: agroecologia
 title: "\"Estou maravilhado\", diz Lula em visita ao Armazém do Campo, em São Paulo \n"
-support_line: Ex-presidente da República foi recebido calorosamente na loja de produtos da reforma agrária que comemora um ano de existência neste domingo (30)
+support_line: Ex-presidente da República foi recebido calorosamente na loja de produtos da Reforma Agrária que comemora um ano de existência neste domingo (30)
 menu: agricultura camponesa
 images_hd: //farm5.staticflickr.com/4305/35484393953_a50d882f08_b.jpg
 layout: post
@@ -31,6 +31,7 @@ releated_posts:
   - _posts/2017/01/2017-01-12-lula-denuncia-o-golpe-e-diz-que-um-novo-brasil-e-possivel.md
   - _posts/2017/05/2017-05-09-movimentos-realizam-mobilizacao-em-curitiba-mesmo-apos-restricoes-judiciais.md
   - _posts/2017/05/2017-05-09-pr-ato-na-br-277-abre-jornada-pela-democracia-prf-confisca-enxadas-de-agricultores.md
+section: cover
 
 ---
 <div style="text-align:center">
@@ -44,7 +45,7 @@ releated_posts:
 <p><em>Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
-Em meio a muitos abra&ccedil;os, fotos e manifesta&ccedil;&otilde;es de carinho, o ex-presidente da Rep&uacute;blica Luiz In&aacute;cio Lula da Silva visitou o Armaz&eacute;m do Campo na tarde deste s&aacute;bado (29). A loja, que vende produtos processados e in natura produzidos por cooperativas do Movimento dos Trabalhadores Rurais Sem Terra (MST) no centro de S&atilde;o Paulo (SP), comemora um ano de exist&ecirc;ncia neste domingo (30).</p>
+Em meio a muitos abra&ccedil;os, fotos e manifesta&ccedil;&otilde;es de carinho, o ex-presidente da Rep&uacute;blica Luiz In&aacute;cio Lula da Silva visitou o Armaz&eacute;m do Campo na tarde deste s&aacute;bado (29). A loja, que vende produtos processados e in natura produzidos por cooperativas do MST&nbsp;no centro de S&atilde;o Paulo (SP), comemora um ano de exist&ecirc;ncia neste domingo (30).</p>
 
 <p><br />
 &quot;Eu estou maravilhado com o que estou vendo, porque &eacute; um grande come&ccedil;o&quot;, afirmou Lula com um pacote de arroz org&acirc;nico nas m&atilde;os.</p>
