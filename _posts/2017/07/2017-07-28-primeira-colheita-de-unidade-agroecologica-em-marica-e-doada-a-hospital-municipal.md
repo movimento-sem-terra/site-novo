@@ -5,7 +5,7 @@ tags:
   - tag: agroecologia
   - tag: campo-e-cidade
   - tag: agricultura-camponesa
-title: Primeira colheita de Unidade Agroecológica em Maricá é doada à Hospital Municipal
+title: Primeira colheita de Unidade Agroecológica em Maricá é doada a Hospital Municipal
 images_hd: //farm5.staticflickr.com/4328/36185724056_33ff7660dd_b.jpg
 support_line: "Júlio Carolino, secretário de agricultura, declarou que as entregas ao Hospital e escolas serão rotineiras."
 menu: agricultura camponesa
