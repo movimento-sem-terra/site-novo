@@ -25,7 +25,7 @@ files:
     title: IMG-20170731-WA0040.jpg
     $$hashKey: 04L
 created_date: "2017-08-01T16:17:59-03:00"
-published: true
+published: false
 releated_posts:
   - _posts/2017/04/2017-04-19-no-maranhao-sem-terra-seguem-ocupando-o-incra-em-luta-pela-reforma-agraria.md
   - _posts/2017/03/2017-03-20-arroz-agroecologico-abertura-da-colheita-e-marcada-por-expectativa-da-producao-e-manifestacoes-contra-a-reforma-da-previdencia.md
