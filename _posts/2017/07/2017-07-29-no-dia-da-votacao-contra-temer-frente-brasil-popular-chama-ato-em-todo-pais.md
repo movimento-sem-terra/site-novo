@@ -31,6 +31,7 @@ releated_posts:
   - _posts/2017/06/2017-06-29-pastorais-do-campo-apoiam-mobilizacoes-amplas-e-permanentes-contra-agressoes-do-golpe.md
   - _posts/2017/06/2017-06-28-mst-se-soma-a-greve-geral-da-proxima-sexta-30.md
   - _posts/2017/06/2017-06-26-greve-geral-confira-a-agenda-de-atividades-da-proxima-sexta-feira-30.md
+section: cover
 
 ---
 <p>&nbsp;</p>
