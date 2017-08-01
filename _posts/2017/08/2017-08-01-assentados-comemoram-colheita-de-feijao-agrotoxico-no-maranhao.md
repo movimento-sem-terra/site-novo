@@ -4,7 +4,7 @@ tags:
   - tag: maranhão
   - tag: colheita
   - tag: agricultura-camponesa
-title: Assentados comemoram colheita de feijão agrotóxico no Maranhão
+title: Assentados comemoram colheita de feijão sem agrotóxico no Maranhão
 support_line: "Para o próximo período, os trabalhadores já planejam dobrar o tamanho da área a ser cultivada."
 menu: agricultura camponesa
 images_hd: //farm5.staticflickr.com/4304/35481604144_3f59301e04_b.jpg
