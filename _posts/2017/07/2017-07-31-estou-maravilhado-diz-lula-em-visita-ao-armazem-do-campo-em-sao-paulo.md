@@ -31,7 +31,7 @@ releated_posts:
   - _posts/2017/01/2017-01-12-lula-denuncia-o-golpe-e-diz-que-um-novo-brasil-e-possivel.md
   - _posts/2017/05/2017-05-09-movimentos-realizam-mobilizacao-em-curitiba-mesmo-apos-restricoes-judiciais.md
   - _posts/2017/05/2017-05-09-pr-ato-na-br-277-abre-jornada-pela-democracia-prf-confisca-enxadas-de-agricultores.md
-section: cover
+section: featured-news
 
 ---
 <div style="text-align:center">
