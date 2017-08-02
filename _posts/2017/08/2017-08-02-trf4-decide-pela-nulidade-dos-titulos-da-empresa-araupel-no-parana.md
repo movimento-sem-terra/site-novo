@@ -8,16 +8,23 @@ title: TRF4 decide pela nulidade dos títulos da empresa Araupel no Paraná
 support_line: "A área está localizado no imóvel Rio das Cobras, que foi grilado pela empresa Araupel."
 menu: reforma agrária
 section: featured-news
-images_hd: //farm5.staticflickr.com/4353/35500379454_74667fc089_b.jpg
+images_hd: //farm5.staticflickr.com/4382/35527789553_e0c287c958_b.jpg
 layout: post
 files:
-  - link: //farm5.staticflickr.com/4353/35500379454_74667fc089_b.jpg
-    original: //farm5.staticflickr.com/4353/35500379454_ddd66530a2_o.jpg
-    thumbnail: //farm5.staticflickr.com/4353/35500379454_74667fc089_t.jpg
-    medium: //farm5.staticflickr.com/4353/35500379454_74667fc089_z.jpg
-    small: //farm5.staticflickr.com/4353/35500379454_74667fc089_n.jpg
-    title: Arquivo_MST.jpg
-    $$hashKey: 0PK
+  - link: //farm5.staticflickr.com/4382/35527789553_e0c287c958_b.jpg
+    original: //farm5.staticflickr.com/4382/35527789553_36766cffbb_o.jpg
+    thumbnail: //farm5.staticflickr.com/4382/35527789553_e0c287c958_t.jpg
+    medium: //farm5.staticflickr.com/4382/35527789553_e0c287c958_z.jpg
+    small: //farm5.staticflickr.com/4382/35527789553_e0c287c958_n.jpg
+    title: Foto_Wellington Lenon (1).JPG
+    $$hashKey: 0LD
+  - link: //farm5.staticflickr.com/4437/35500435634_cf962213a9_b.jpg
+    original: //farm5.staticflickr.com/4437/35500435634_44c84ef3e3_o.jpg
+    thumbnail: //farm5.staticflickr.com/4437/35500435634_cf962213a9_t.jpg
+    medium: //farm5.staticflickr.com/4437/35500435634_cf962213a9_z.jpg
+    small: //farm5.staticflickr.com/4437/35500435634_cf962213a9_n.jpg
+    title: Foto_Wellington Lenon (2).JPG
+    $$hashKey: 0LG
 created_date: "2017-08-02T14:35:56-03:00"
 published: true
 releated_posts:
@@ -28,7 +35,11 @@ releated_posts:
   - _posts/2017/07/2017-07-03-apos-12-anos-de-ocupacao-familias-desfazem-acampamento-no-oeste-do-parana.md
 
 ---
-<p>&nbsp;</p>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="Foto_Wellington Lenon (2).JPG" height="467" src="//farm5.staticflickr.com/4437/35500435634_cf962213a9_b.jpg" width="700" />
+<figcaption>Fotos: Wellington Leno&nbsp;</figcaption>
+</figure>
+</div>
 
 <p>&nbsp;</p>
 
