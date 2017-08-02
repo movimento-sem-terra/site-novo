@@ -38,9 +38,6 @@ releated_posts:
 Nesta ter&ccedil;a-feira (1), o governo publicou no Di&aacute;rio Oficial da Uni&atilde;o a MP que alivia as d&iacute;vidas previdenci&aacute;rias dos ruralistas, avaliadas no total de R$ 8 bilh&otilde;es a R$ 10 bilh&otilde;es em tributos atrasados para os cofres p&uacute;blicos. A medida tamb&eacute;m diminui quase pela metade o percentual da al&iacute;quota paga para o Fundo de Assist&ecirc;ncia ao Trabalhador Rural (Funrural), passando de uma contribui&ccedil;&atilde;o de 2,1% para 1,3%. Os valores incidem diretamente sobre a receita dos produtores.</p>
 
 <p><br />
-Acompanhe o Minuto a Minuto da vota&ccedil;&atilde;o da den&uacute;ncia contra Temer na C&acirc;mara :: https://goo.gl/mJvpBj</p>
-
-<p><br />
 A a&ccedil;&atilde;o &eacute; reivindicada pela Frente Parlamentar Agropecu&aacute;ria desde o fim de mar&ccedil;o, quando o STF decidiu que a Uni&atilde;o poderia cobrar dos empregadores rurais a contribui&ccedil;&atilde;o para o Funrural.&nbsp;</p>
 
 <p><br />
