@@ -7,7 +7,7 @@ tags:
 title: TRF4 decide pela nulidade dos títulos da empresa Araupel no Paraná
 support_line: "A área está localizado no imóvel Rio das Cobras, que foi grilado pela empresa Araupel."
 menu: reforma agrária
-section: featured-news
+section: cover
 images_hd: //farm5.staticflickr.com/4382/35527789553_e0c287c958_b.jpg
 layout: post
 files:
