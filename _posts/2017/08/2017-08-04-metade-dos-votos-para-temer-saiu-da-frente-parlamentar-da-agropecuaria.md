@@ -31,6 +31,7 @@ releated_posts:
   - _posts/2017/07/2017-07-25-em-jornada-nacional-de-lutas-mst-ocupa-fazenda-de-ministro-blairo-maggi.md
   - _posts/2017/07/2017-07-25-movimentos-bloqueiam-entrada-da-base-de-lancamento-de-alcantara-no-maranhao.md
   - _posts/2017/07/2017-07-25-familias-sem-terra-ocupam-area-que-ja-foi-declarada-improdutiva-no-parana.md
+section: cover
 
 ---
 <p>&nbsp;</p>
