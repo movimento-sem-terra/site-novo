@@ -29,6 +29,10 @@ releated_posts:
 ---
 <p>&nbsp;</p>
 
+<p style="text-align:center"><img alt="reuniao Grito dos Excluidos 2017 1.jpg" height="525" src="//farm5.staticflickr.com/4388/36202867862_f2d53740ec_b.jpg" width="700" /></p>
+
+<p>&nbsp;</p>
+
 <p><em>Do Setor de Comunica&ccedil;&atilde;o do Sergipe&nbsp;<br />
 Da P&aacute;gina do MST</em></p>
 
