@@ -4,7 +4,7 @@ tags:
   - tag: grito-dos-excluídos
   - tag: mobilizações
   - tag: sergipe
-title: "Em Sergipe, iniciam-se os preparativos para a 23ª edicaço do Grito dos Excluídos "
+title: "Em Sergipe, iniciam-se os preparativos o Grito dos Excluídos "
 support_line: "Para a dirigente MST em Sergipe, Gislene Reis, O Grito é uma oportunidade de criar unidade em torno das lutas sociais, no campo e cidade. "
 menu: "educação, cultura e comunicação"
 images_hd: //farm5.staticflickr.com/4388/36202867862_f2d53740ec_b.jpg
