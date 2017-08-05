@@ -40,6 +40,8 @@ releated_posts:
 </figure>
 </div>
 
+<p>&nbsp;</p>
+
 <p><em>Por Viviane Brochardt*<br />
 Da Articula&ccedil;&atilde;o Nacional de Agroecologia &nbsp;(ANA)</em></p>
 
