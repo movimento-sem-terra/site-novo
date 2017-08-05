@@ -57,12 +57,12 @@ O curso envolveu cerca de 50 jovens bolsistas, e teve como objetivo qualificar o
 A forma&ccedil;&atilde;o de agentes culturais veio ao encontro da estrat&eacute;gia de fortalecimento do papel da juventude na continuidade do Movimento. Ana Paula, do coletivo estadual de juventude, ressalta que o curso ajudou a manter os jovens no campo, sobretudo os que estavam concluindo o ensino m&eacute;dio, al&eacute;m de contribuir no processo de forma&ccedil;&atilde;o dos coletivos de juventude nas brigadas.</p>
 
 <figure class="image" style="float:left"><img alt="2017-07-08 - ab luz - jornada cultural - seminario de medio - aula inaugural ed campo (86).jpg" height="292" src="//farm5.staticflickr.com/4398/35990346860_a57bd16f97_b.jpg" width="450" />
-<figcaption><em>O curso envolveu cerca de 50 jovens na forma&ccedil;&atilde;o de agentes culturais.</em></figcaption>
+<figcaption><em>O curso envolveu cerca de 50 jovens na forma&ccedil;&atilde;o de agentes<br />
+culturais.</em></figcaption>
 </figure>
 
 <p><br />
-Iniciado em Janeiro de 2016, o processo envolveu um programa de forma&ccedil;&atilde;o pol&iacute;tica e art&iacute;stica, alternando etapas prolongadas, oficinas aos finais de semana e encontros. Os jovens tamb&eacute;m elaboraram projetos culturais que foram desenvolvidos nas comunidades onde vivem, como forma de multiplicar os conhecimentos adquiridos.&nbsp;<br />
-Ap&oacute;s um ano e meio de atividades, o curso se encerra com a promo&ccedil;&atilde;o das Jornadas Culturais Regionais organizadas e coordenadas pela juventude Sem Terra.&nbsp;</p>
+Iniciado em Janeiro de 2016, o processo envolveu um programa de forma&ccedil;&atilde;o pol&iacute;tica e art&iacute;stica, alternando etapas prolongadas, oficinas aos finais de semana e encontros. Os jovens tamb&eacute;m elaboraram projetos culturais que foram desenvolvidos nas comunidades onde vivem, como forma de multiplicar os conhecimentos adquiridos.&nbsp;Ap&oacute;s um ano e meio de atividades, o curso se encerra com a promo&ccedil;&atilde;o das Jornadas Culturais Regionais organizadas e coordenadas pela juventude Sem Terra.&nbsp;</p>
 
 <p><br />
 Segundo Marilaine Schultz a juventude tem o desafio de dar continuidade nas atividades iniciadas com o projeto. &ldquo;Estamos fazendo um v&iacute;deo com depoimentos de fam&iacute;lias e nos preparando para realizar as jornadas culturais nos assentamentos&rdquo;, explica.&nbsp;</p>
