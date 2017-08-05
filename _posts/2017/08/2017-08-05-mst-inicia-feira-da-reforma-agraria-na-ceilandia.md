@@ -64,7 +64,7 @@ A 3&ordf; etapa do Circuito de Feiras e Mostras Culturais da Reforma Agr&aacute;
 <p><br />
 No ato pol&iacute;tico de abertura da Feira, ocorrido na noite desta sexta-feira (04), diversos representantes de sindicatos, partidos pol&iacute;ticos como os deputados distritais do PT, Ricardo Vale e Chico Vigilante, bem como a deputada federal Erica Kokay, que saudou a iniciativa do Movimento e afirmou que &ldquo;a luta pela terra &eacute; a luta pela nossa brasilidade&rdquo;.&nbsp;</p>
 
-<figure class="image" style="float:left"><img alt="eee1b51e-b154-48fc-a5d6-a22423c71507.jpg" height="299" src="//farm5.staticflickr.com/4394/36341244256_332994a8fd_b.jpg" width="450" />
+<figure class="image" style="float:left"><img alt="eee1b51e-b154-48fc-a5d6-a22423c71507.jpg" height="303" src="//farm5.staticflickr.com/4394/36341244256_332994a8fd_b.jpg" width="456" />
 <figcaption><em>Ato pol&iacute;tico de abertura da do Circuito na noite desta sexta-feira.<br />
 Foto: M&iacute;dia Ninja.</em></figcaption>
 </figure>
