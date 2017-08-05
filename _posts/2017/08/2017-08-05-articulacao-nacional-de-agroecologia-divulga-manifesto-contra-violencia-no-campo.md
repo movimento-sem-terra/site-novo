@@ -7,7 +7,7 @@ tags:
 title: Articulação Nacional de Agroecologia divulga manifesto contra violência no campo
 images_hd: //farm5.staticflickr.com/4357/36254486861_39db011a65_b.jpg
 menu: direitos humanos
-support_line: "O documento pontua a postura ativa do Estado na responsabilização das violações e na garantia de medidas efetivas de proteção aos defensores/as de direitos humanos no Brasil. "
+support_line: "O documento pontua a postura ativa do Estado na promoção das violações e na garantia de medidas efetivas de proteção aos defensores/as de direitos humanos no Brasil. "
 layout: post
 files:
   - link: //farm5.staticflickr.com/4357/36254486861_39db011a65_b.jpg
