@@ -5,7 +5,7 @@ tags:
   - tag: juventude-sem-terra
   - tag: cultura
   - tag: santa-catarina
-title: Juventude Sem Terra realiza jornadas culturais em Santa Catarina
+title: Juventude Sem Terra realiza Jornada Cultural em Santa Catarina
 menu: "educação, cultura e comunicação"
 support_line: "A Jornada marca o encerramento do curso de Formação de Agentes Culturais da Juventude Camponesa, uma modalidade de Residência Agrária Jovem."
 images_hd: //farm5.staticflickr.com/4399/36386816825_6294112878_b.jpg
