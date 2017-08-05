@@ -43,7 +43,13 @@ releated_posts:
 ---
 <p>&nbsp;</p>
 
-<p>Para continuar tendo apoio da bancada ruralista, a Casa Civil se prepara para desengavetar uma Medida Provis&oacute;ria que altera as regras do uso de agrot&oacute;xicos no pa&iacute;s</p>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="Planosafra1107_007-850x567.jpg" height="467" src="//farm5.staticflickr.com/4363/36387787955_93e281270c_b.jpg" width="700" />
+<figcaption><em>Para continuar tendo apoio da bancada ruralista, a Casa Civil se prepara para desengavetar uma Medida Provis&oacute;ria que altera as regras do uso de agrot&oacute;xicos no pa&iacute;s.</em></figcaption>
+</figure>
+</div>
+
+<p>&nbsp;</p>
 
 <p><em>Por Cau&ecirc; Seignemartin Ameni<br />
 De Olho nos Ruralistas&nbsp;</em></p>
@@ -75,8 +81,11 @@ Segundo ela, os estudos s&atilde;o limitados porque s&atilde;o realizados com um
 <p><br />
 Em outras palavras: os brasileiros consomem, na alimenta&ccedil;&atilde;o, um coquetel de agrot&oacute;xicos. &ldquo;A Anvisa j&aacute; encontrou at&eacute; dez agrot&oacute;xicos em um &uacute;nico alimento&rdquo;, conta Karen. &ldquo;Ou seja, essa mistura n&atilde;o &eacute; testada nos laborat&oacute;rios para o registro. Se temos um agrot&oacute;xico com risco de causar c&acirc;ncer individualmente, na presen&ccedil;a de misturas essa probabilidade pode aumentar&rdquo;.</p>
 
+<figure class="image" style="float:left"><img alt="Karen_Friedrich_foto_Flaviano_Quaresma.jpg" height="327" src="//farm5.staticflickr.com/4384/35552361084_a3ddcf9dc2_b.jpg" width="450" />
+<figcaption><em>Karen Friedrich, da Fiocruz. (Foto: Flaviano Quaresma)</em></figcaption>
+</figure>
+
 <p><br />
-Karen Friedrich, da Fiocruz. (Foto: Flaviano Quaresma)<br />
 <br />
 A pesquisadora, graduada em biomedicina com doutorado em toxicologia e sa&uacute;de, v&ecirc; com preocupa&ccedil;&atilde;o a falta de dialogo do governo e criticou tamb&eacute;m a ideia que circula no Pal&aacute;cio do Planalto, segundo reportagem de O Globo, de retirar a Anvisa do processo de autoriza&ccedil;&atilde;o de novos agrot&oacute;xicos:</p>
 
@@ -106,6 +115,10 @@ A ideia de contemplar uma antiga demanda da bancada ruralista n&atilde;o &eacute
 
 <p><br />
 Quando o documento foi apresentado no come&ccedil;o do ano no Comit&ecirc; T&eacute;cnico de Assessoramento, integrado pelo Ibama, Anvisa e Minist&eacute;rio da Agricultura, encarregado de avaliar os crit&eacute;rios para uso de agrot&oacute;xicos no pa&iacute;s, ele foi criticado pela falta de participa&ccedil;&atilde;o dos dois &oacute;rg&atilde;os. Cabe &agrave; Anvisa analisar os impactos dos produtos na sa&uacute;de e ao Ibama mensurar os efeitos dos agrot&oacute;xicos no ambiente.</p>
+
+<figure class="image" style="float:right"><img alt="1416213248325.jpg" height="309" src="//farm5.staticflickr.com/4433/35991384530_b21c522a83_b.jpg" width="450" />
+<figcaption></figcaption>
+</figure>
 
 <p><br />
 Cada brasileiro consome anualmente um gal&atilde;o de cinco litros de agrot&oacute;xicos, segundo o Instituto Nacional do C&acirc;ncer (Inca). De acordo com o El Pa&iacute;s, o Brasil ocupa, desde 2008, o primeiro lugar no ranking mundial de consumo de pesticidas. O Dossi&ecirc; Abrasco: um alerta sobre o impacto dos agrot&oacute;xicos na sa&uacute;de aponta que 70% dos alimentos in natura est&atilde;o contaminados &ndash; e, segundo a Anvisa, 28% cont&ecirc;m subst&acirc;ncias n&atilde;o autorizadas.</p>
