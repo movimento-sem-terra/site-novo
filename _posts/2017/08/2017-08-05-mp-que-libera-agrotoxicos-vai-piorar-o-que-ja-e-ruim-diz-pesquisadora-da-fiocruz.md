@@ -7,7 +7,7 @@ tags:
 title: "MP que libera agrotóxicos “vai piorar o que já é ruim”, diz pesquisadora da Fiocruz"
 support_line: Medida Provisória faz parte de acordo de Temer com ruralistas; Karen Friedrich a define como “uma temeridade”; Ibama aponta potencial cancerígeno
 menu: agronegócio
-images_hd: //farm5.staticflickr.com/4363/36387787955_93e281270c_b.jpg
+images_hd: //farm5.staticflickr.com/4433/35991384530_b21c522a83_b.jpg
 layout: post
 files:
   - link: //farm5.staticflickr.com/4384/35552361084_a3ddcf9dc2_b.jpg
@@ -45,7 +45,7 @@ releated_posts:
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Planosafra1107_007-850x567.jpg" height="467" src="//farm5.staticflickr.com/4363/36387787955_93e281270c_b.jpg" width="700" />
-<figcaption><em>Para continuar tendo apoio da bancada ruralista, a Casa Civil se prepara para desengavetar uma Medida Provis&oacute;ria que altera as regras do uso de agrot&oacute;xicos no pa&iacute;s.</em></figcaption>
+<figcaption><em>Temer atua para continuar tendo apoio da bancada ruralista e movimenta para desengavetar uma Medida Provis&oacute;ria que altera as regras do uso de agrot&oacute;xicos no pa&iacute;s.</em></figcaption>
 </figure>
 </div>
 
