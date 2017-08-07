@@ -7,7 +7,7 @@ tags:
 title: "MST ocupa Incra em Maceió\n"
 support_line: "De acordo com José Roberto, da direção nacional do MST, a ocupação do Incra em Maceió com Sem Terra de todo o estado, demonstra a insatisfação dos camponeses com a paralisia da Reforma Agrária.\n\n"
 menu: lutas e mobilizações
-images_hd: //farm5.staticflickr.com/4422/36290947131_4478e71d2e_b.jpg
+images_hd: //farm5.staticflickr.com/4425/36260727832_67a161e60a_b.jpg
 layout: post
 files:
   - link: //farm5.staticflickr.com/4434/35592750054_0327718de8_b.jpg
@@ -24,13 +24,6 @@ files:
     small: //farm5.staticflickr.com/4379/36382328436_353a2f0c0c_n.jpg
     title: WhatsApp Image 2017-08-07 at 12.57.29 (2).jpeg
     $$hashKey: 02S
-  - link: //farm5.staticflickr.com/4422/36290947131_4478e71d2e_b.jpg
-    original: //farm5.staticflickr.com/4422/36290947131_ddaafddb5c_o.jpg
-    thumbnail: //farm5.staticflickr.com/4422/36290947131_4478e71d2e_t.jpg
-    medium: //farm5.staticflickr.com/4422/36290947131_4478e71d2e_z.jpg
-    small: //farm5.staticflickr.com/4422/36290947131_4478e71d2e_n.jpg
-    title: WhatsApp Image 2017-07-25 at 16.20.19.jpeg
-    $$hashKey: 02V
   - link: //farm5.staticflickr.com/4393/35620030783_67d931486a_b.jpg
     original: //farm5.staticflickr.com/4393/35620030783_e248091fd8_o.jpg
     thumbnail: //farm5.staticflickr.com/4393/35620030783_67d931486a_t.jpg
@@ -38,6 +31,13 @@ files:
     small: //farm5.staticflickr.com/4393/35620030783_67d931486a_n.jpg
     title: WhatsApp Image 2017-08-07 at 12.57.29.jpeg
     $$hashKey: 02Y
+  - link: //farm5.staticflickr.com/4425/36260727832_67a161e60a_b.jpg
+    original: //farm5.staticflickr.com/4425/36260727832_45366e4438_o.jpg
+    thumbnail: //farm5.staticflickr.com/4425/36260727832_67a161e60a_t.jpg
+    medium: //farm5.staticflickr.com/4425/36260727832_67a161e60a_z.jpg
+    small: //farm5.staticflickr.com/4425/36260727832_67a161e60a_n.jpg
+    title: WhatsApp Image 2017-08-07 at 10.57.55.jpeg
+    $$hashKey: 0MK
 created_date: "2017-08-07T13:51:37-03:00"
 published: true
 releated_posts:
