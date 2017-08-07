@@ -68,7 +68,9 @@ Da P&aacute;gina do MST&nbsp;</em></p>
 De acordo com Jos&eacute; Roberto, da dire&ccedil;&atilde;o nacional do MST, a ocupa&ccedil;&atilde;o do Incra em Macei&oacute; com Sem Terra de todo o estado, demonstra a insatisfa&ccedil;&atilde;o dos camponeses com a paralisia da Reforma Agr&aacute;ria.</p>
 
 <p><br />
-&ldquo;N&atilde;o temos hoje uma pol&iacute;tica s&eacute;ria para o campo e se a gente n&atilde;o fizer luta para pressionar pelo que &eacute; nosso por direito, eles ser&atilde;o cada vez mais negados para quem vive no campo&rdquo;, destacou.<br />
+&ldquo;N&atilde;o temos hoje uma pol&iacute;tica s&eacute;ria para o campo e se a gente n&atilde;o fizer luta para pressionar pelo que &eacute; nosso por direito, eles ser&atilde;o cada vez mais negados para quem vive no campo&rdquo;, destacou.</p>
+
+<p><br />
 Segundo o dirigente, consequ&ecirc;ncia de diversas lutas do MST no estado, uma agenda de atividades e a&ccedil;&otilde;es do Incra para a resolu&ccedil;&otilde;es de antigos problemas nas &aacute;reas de Reforma Agr&aacute;ria em Alagoas tinha sido firmada, mas nada avan&ccedil;ou at&eacute; o momento.</p>
 
 <p><br />
