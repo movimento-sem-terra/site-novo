@@ -7,6 +7,14 @@
 		<atom:link href="http://www.mst.org.br/rss.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Lima: o coronel de Temer</title>
+				<description>Desde 2016, o MST vem denunciando a relação espúria entre o presidente Michel Temer e o Coronel Lima, citado na delação da JBS.</description>
+				<pubDate>Tue, 08 Aug 2017 19:58:29 +0000</pubDate>
+				<link>http://www.mst.org.br/2017/08/08/lima-o-coronel-de-temer.html</link>
+				<guid isPermaLink="true">http://www.mst.org.br/2017/08/08/lima-o-coronel-de-temer.html</guid>
+			</item>
+		
+			<item>
 				<title>No Baixo Sul, MST realiza Seminário de Educação do Campo e Agroecologia
 </title>
 				<description>Um dos pontos de discussão será a inserção da agroecologia na matriz curricular das escolas do campo.
@@ -87,14 +95,6 @@
 				<pubDate>Sat, 05 Aug 2017 20:33:15 +0000</pubDate>
 				<link>http://www.mst.org.br/2017/08/05/articulacao-nacional-de-agroecologia-divulga-manifesto-contra-violencia-no-campo.html</link>
 				<guid isPermaLink="true">http://www.mst.org.br/2017/08/05/articulacao-nacional-de-agroecologia-divulga-manifesto-contra-violencia-no-campo.html</guid>
-			</item>
-		
-			<item>
-				<title>Conflitos no campo não são casos isolados: é um &#39;projeto de matança&#39;</title>
-				<description>Segundo relatório da Comissão Pastoral da Terra, 61 pessoas foram assassinadas em disputas agrárias no Brasil em 2016, segundo maior número em 25 anos. Região amazônica concentra 57% dos casos.</description>
-				<pubDate>Sat, 05 Aug 2017 17:38:15 +0000</pubDate>
-				<link>http://www.mst.org.br/2017/08/05/conflitos-no-campo-nao-sao-casos-isolados-e-um-projeto-de-matanca.html</link>
-				<guid isPermaLink="true">http://www.mst.org.br/2017/08/05/conflitos-no-campo-nao-sao-casos-isolados-e-um-projeto-de-matanca.html</guid>
 			</item>
 		
 	</channel>
