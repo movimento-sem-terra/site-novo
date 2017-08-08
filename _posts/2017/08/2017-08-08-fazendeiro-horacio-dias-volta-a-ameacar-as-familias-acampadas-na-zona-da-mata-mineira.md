@@ -8,7 +8,7 @@ title: Fazendeiro Horácio Dias volta a ameaçar famílias acampadas em MG
 images_hd: //farm5.staticflickr.com/4393/35610680714_dc2ea33b7f_b.jpg
 menu: direitos humanos
 support_line: A possibilidade de conflito é iminente.
-section: cover
+section: null
 layout: post
 files:
   - link: //farm5.staticflickr.com/4390/36048855150_999f136fff_b.jpg
