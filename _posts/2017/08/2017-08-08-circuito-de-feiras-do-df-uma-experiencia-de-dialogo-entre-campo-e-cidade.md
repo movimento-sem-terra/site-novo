@@ -5,25 +5,36 @@ tags:
   - tag: distrito-federal
   - tag: campo-e-cidade
 title: "Circuito de Feiras do DF: uma experiência de diálogo entre campo e cidade"
-images_hd: //farm5.staticflickr.com/4419/36399800306_79d05521ce_b.jpg
+images_hd: //farm5.staticflickr.com/4357/35638184833_0e4840c06c_b.jpg
 support_line: "Durante três dias, rodas de conversa e seminários abordaram temas importantes para os trabalhadores."
 menu: reforma agrária
 section: featured-news
 layout: post
 files:
-  - link: //farm5.staticflickr.com/4419/36399800306_79d05521ce_b.jpg
-    original: //farm5.staticflickr.com/4419/36399800306_206f0ac3c3_o.jpg
-    thumbnail: //farm5.staticflickr.com/4419/36399800306_79d05521ce_t.jpg
-    medium: //farm5.staticflickr.com/4419/36399800306_79d05521ce_z.jpg
-    small: //farm5.staticflickr.com/4419/36399800306_79d05521ce_n.jpg
-    title: photo_2017-08-06_11-05-39.jpg
-    $$hashKey: "030"
+  - link: //farm5.staticflickr.com/4410/36400341346_79502dc611_b.jpg
+    original: //farm5.staticflickr.com/4410/36400341346_275e1bf8fe_o.jpg
+    thumbnail: //farm5.staticflickr.com/4410/36400341346_79502dc611_t.jpg
+    medium: //farm5.staticflickr.com/4410/36400341346_79502dc611_z.jpg
+    small: //farm5.staticflickr.com/4410/36400341346_79502dc611_n.jpg
+    title: photo_2017-08-06_15-47-23.jpg
+    $$hashKey: 0MX
+  - link: //farm5.staticflickr.com/4357/35638184833_0e4840c06c_b.jpg
+    original: //farm5.staticflickr.com/4357/35638184833_d66571edd1_o.jpg
+    thumbnail: //farm5.staticflickr.com/4357/35638184833_0e4840c06c_t.jpg
+    medium: //farm5.staticflickr.com/4357/35638184833_0e4840c06c_z.jpg
+    small: //farm5.staticflickr.com/4357/35638184833_0e4840c06c_n.jpg
+    title: photo_2017-08-06_10-58-57.jpg
+    $$hashKey: 0O8
 created_date: "2017-08-08T12:10:29-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2017/06/2017-06-12-mst-leva-80-toneladas-de-alimentos-a-populacao-de-salvador.md
+  - _posts/2017/07/2017-07-06-13a-feira-latino-americana-de-economia-solidaria-tera-tunel-com-alimentos-da-reforma-agraria.md
+  - _posts/2017/04/2017-04-07-formosa-de-goias-recebe-o-i-circuito-de-feiras-e-mostras-culturais-da-reforma-agraria-do-dfe.md
+  - _posts/2016/12/2016-12-13-feira-cultural-da-reforma-agraria-e-a-construcao-do-poder-popular.md
 
 ---
-<p><img alt="photo_2017-08-06_11-05-39.jpg" height="466" src="//farm5.staticflickr.com/4419/36399800306_79d05521ce_b.jpg" width="700" /></p>
+<p><img alt="photo_2017-08-06_15-47-23.jpg" height="466" src="//farm5.staticflickr.com/4410/36400341346_79502dc611_b.jpg" width="700" /></p>
 
 <p>&nbsp;</p>
 
@@ -49,6 +60,10 @@ Para ampliar o di&aacute;logo, o MST promoveu a roda de conversa &ldquo;Mulheres
 
 <p><br />
 No &uacute;ltimo dia de feira, no semin&aacute;rio &ldquo;Os golpes na classe trabalhadora e os desafios atuais&rdquo;, foi abordado como o atual governo golpista est&aacute; prejudicando todos e todas trabalhadores em diversas &aacute;reas, na educa&ccedil;&atilde;o, ind&iacute;gena, sa&uacute;de e trabalho.</p>
+
+<figure class="image" style="float:right"><img alt="photo_2017-08-06_10-58-57.jpg" height="233" src="//farm5.staticflickr.com/4357/35638184833_0e4840c06c_b.jpg" width="350" />
+<figcaption></figcaption>
+</figure>
 
 <p><br />
 Na mesa, os participantes falaram com propriedade sobre esses setores que est&atilde;o sendo prejudicados pelo governo atual. &ldquo;As reformas n&atilde;o servem aos acampados, aos trabalhadores, mas a elite, a um Estado menos democr&aacute;tico e mais elitista&rdquo;, destacou Rodrigo Rodrigues, representante da CUT.</p>
