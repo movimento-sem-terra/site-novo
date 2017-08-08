@@ -4,7 +4,7 @@ tags:
   - tag: minas-gerais
   - tag: conflitos-no-campo
   - tag: acampamento
-title: Fazendeiro Horácio Dias volta a ameaçar as famílias acampadas na Zona da Mata mineira
+title: Fazendeiro Horácio Dias volta a ameaçar famílias acampadas em MG
 images_hd: //farm5.staticflickr.com/4393/35610680714_dc2ea33b7f_b.jpg
 menu: direitos humanos
 support_line: A possibilidade de conflito é iminente.
