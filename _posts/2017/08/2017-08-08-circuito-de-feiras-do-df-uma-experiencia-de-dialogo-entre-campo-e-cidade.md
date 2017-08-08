@@ -2,6 +2,8 @@
 date: "2017-08-08T12:05:35-03:00"
 tags:
   - tag: feira-da-reforma-agrária
+  - tag: distrito-federal
+  - tag: campo-e-cidade
 title: "Circuito de Feiras do DF: uma experiência de diálogo entre campo e cidade"
 images_hd: //farm5.staticflickr.com/4419/36399800306_79d05521ce_b.jpg
 support_line: "Durante três dias, rodas de conversa e seminários abordaram temas importantes para os trabalhadores."
