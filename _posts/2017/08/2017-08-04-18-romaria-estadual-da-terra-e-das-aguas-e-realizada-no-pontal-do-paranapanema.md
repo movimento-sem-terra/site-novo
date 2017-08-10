@@ -44,11 +44,11 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p><em>Por Camila Bonassa e Gerson&nbsp;<br />
+<p><em>Por Gerson de Souza<br />
 Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
-Com o tema &ldquo;Fazenda Nazar&eacute;: Terra devoluta &eacute; terra de quem luta&rdquo; e o lema: &ldquo;A luta pela terra &eacute; a m&atilde;e de todas as lutas&rdquo;, cerca de 100 pessoas se reuniram no &uacute;ltimo dia 30 de julho na fazenda Nazar&eacute;, uma &aacute;rea de 4850 hectares no munic&iacute;pio de Marab&aacute; Paulista na regi&atilde;o do Pontal do Paranapanema para a 18&ordf; Romaria da Terra e das &Aacute;guas do Estado de S&atilde;o Paulo e a 10&ordf; Romaria da Diocese de Presidente Prudente, organizada pela Comiss&atilde;o Pastoral da Terra (CPT) e o MST.</p>
+Com o tema &ldquo;Fazenda Nazar&eacute;: Terra devoluta &eacute; terra de quem luta&rdquo; e o lema: &ldquo;A luta pela terra &eacute; a m&atilde;e de todas as lutas&rdquo;, cerca de 1000 pessoas se reuniram no &uacute;ltimo dia 30 de julho na fazenda Nazar&eacute;, uma &aacute;rea de 4850 hectares no munic&iacute;pio de Marab&aacute; Paulista na regi&atilde;o do Pontal do Paranapanema para a 18&ordf; Romaria da Terra e das &Aacute;guas do Estado de S&atilde;o Paulo e a 10&ordf; Romaria da Diocese de Presidente Prudente, organizada pela Comiss&atilde;o Pastoral da Terra (CPT) e o MST.</p>
 
 <p>&nbsp;</p>
 
@@ -69,8 +69,7 @@ O tema da Romaria n&atilde;o poderia sintetizar melhor a luta pela &aacute;rea q
 <p><br />
 O conflito maior agora se deve a escolha do nome do assentamento, que de acordo com as fam&iacute;lias acampadas h&aacute; quase 10 anos, deve ser uma homenagem &agrave; companheira Maria Gorete de Souza como assentamento Irm&atilde; Gorete. No entanto, a proposta do governo do Estado de S&atilde;o Paulo e do Instituto de Terras do Estado de S&atilde;o Paulo (ITESP), contr&aacute;rio &agrave;s fam&iacute;lias acampadas quer arbitrariamente nomear a &aacute;rea de Andr&eacute; Franco Montoro, afrontando a organiza&ccedil;&atilde;o popular e a decis&atilde;o coletiva das fam&iacute;lias que ser&atilde;o assentadas na &aacute;rea.</p>
 
-<p><br />
-&nbsp;</p>
+<p>&nbsp;</p>
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="18Romaria Marcha4.jpg" height="631" src="//farm5.staticflickr.com/4413/36370657845_98707cdd3a_b.jpg" width="500" />
