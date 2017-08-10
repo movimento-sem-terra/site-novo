@@ -14,7 +14,7 @@ function initializeCarousel() {
     $item.autoScroll = function(){
       change_slide(this);
       if($item.loop == true){
-        $item.interval = setTimeout(function(){ $item.autoScroll() },4000);
+        $item.interval = setTimeout(function(){ $item.autoScroll() }, 8000);
       }
     }
 
@@ -29,7 +29,7 @@ function initializeCarousel() {
     $item.find('.container > a').on('click', $item.handleClick);
 
     if ($item.loop){
-      $item.interval = setTimeout(function(){ $item.autoScroll() },4000);
+      $item.interval = setTimeout(function(){ $item.autoScroll() }, 8000);
     }
 
   });
