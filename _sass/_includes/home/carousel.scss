@@ -1,10 +1,10 @@
 body > main.home > section.carousel{
   padding-bottom: 0;
   &[data-index="0"] .container > ul > li:first-child { margin-left: 0; }
-  &[data-index="1"] .container > ul > li:first-child { margin-left: -378px; }
-  &[data-index="2"] .container > ul > li:first-child { margin-left: -756px; }
-  &[data-index="3"] .container > ul > li:first-child { margin-left:-1134px; }
-  &[data-index="4"] .container > ul > li:first-child { margin-left:-1512px; }
+  &[data-index="1"] .container > ul > li:first-child { margin-left: -370px; }
+  &[data-index="2"] .container > ul > li:first-child { margin-left: calc(calc(740px + 3px) * -1); }
+  &[data-index="3"] .container > ul > li:first-child { margin-left: calc(calc(1110px + 6px) * -1); }
+  &[data-index="4"] .container > ul > li:first-child { margin-left: calc(calc(1480px + 9px) * -1); }
 
   .container{
     position: relative;
@@ -99,10 +99,10 @@ body > main.home > section.carousel{
       }
 
       &[data-index="0"] .container > ul > li:first-child { margin-left: 0; }
-      &[data-index="1"] .container > ul > li:first-child { margin-left: -458px; }
-      &[data-index="2"] .container > ul > li:first-child { margin-left: -916px; }
-      &[data-index="3"] .container > ul > li:first-child { margin-left:-1374px; }
-      &[data-index="4"] .container > ul > li:first-child { margin-left:-1832px; }
+      &[data-index="1"] .container > ul > li:first-child { margin-left: -450px; }
+      &[data-index="2"] .container > ul > li:first-child { margin-left: calc(calc(900px + 3px) * -1); }
+      &[data-index="3"] .container > ul > li:first-child { margin-left: calc(calc(1350px + 6px) * -1); }
+      &[data-index="4"] .container > ul > li:first-child { margin-left: calc(calc(1800px + 9px) * -1); }
 
       @media(min-width: $screen-md) {
         width: 450px;
@@ -113,9 +113,9 @@ body > main.home > section.carousel{
   }
   @media(min-width: $screen-sm) {
     &[data-index="0"] .container > ul > li:first-child { margin-left: 0; }
-    &[data-index="1"] .container > ul > li:first-child { margin-left: -458px; }
-    &[data-index="2"] .container > ul > li:first-child { margin-left: -916px; }
-    &[data-index="3"] .container > ul > li:first-child { margin-left:-1374px; }
-    &[data-index="4"] .container > ul > li:first-child { margin-left:-1832px; }
+    &[data-index="1"] .container > ul > li:first-child { margin-left: -450px; }
+    &[data-index="2"] .container > ul > li:first-child { margin-left: calc(calc(900px + 3px) * -1); }
+    &[data-index="3"] .container > ul > li:first-child { margin-left: calc(calc(1350px + 6px) * -1); }
+    &[data-index="4"] .container > ul > li:first-child { margin-left: calc(calc(1800px + 9px) * -1); }
   }
 }
