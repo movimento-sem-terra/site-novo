@@ -7,7 +7,7 @@ tags:
 title: "Lima: o coronel de Temer"
 support_line: "Desde 2016, o MST vem denunciando a relação espúria entre o presidente Michel Temer e o Coronel Lima, citado na delação da JBS."
 menu: agronegócio
-section: cover
+section: featured-news
 images_hd: //farm5.staticflickr.com/4349/36054447070_12f862ed7b_b.jpg
 layout: post
 files:
