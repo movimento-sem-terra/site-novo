@@ -19,7 +19,7 @@ files:
     title: Margaridxs .jpg
     $$hashKey: "169"
 created_date: "2017-08-11T14:25:55-03:00"
-published: false
+published: true
 releated_posts:
   - _posts/2017/03/2017-03-09-no-8-de-marco-seminario-aborda-os-impactos-da-reforma-da-previdencia-na-vida-das-mulheres-usem-em-nosso-veiculos.md
   - _posts/2017/03/2017-03-28-cavalgada-entre-amigos-mobiliza-santo-amaro-no-reconcavo-baiano.md
