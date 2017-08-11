@@ -54,7 +54,7 @@ Em meio a muitos abra&ccedil;os, fotos e manifesta&ccedil;&otilde;es de carinho,
 Ao longo da visita, ele conversou com Jo&atilde;o Paulo Rodrigues e Jo&atilde;o Pedro Stedile, dirigentes da coordena&ccedil;&atilde;o nacional do MST, e com trabalhadores do Armaz&eacute;m do Campo sobre o desenvolvimento do espa&ccedil;o e os planos de expans&atilde;o por todo o pa&iacute;s.</p>
 
 <p><br />
-&quot;Estou aqui com os companheiros que trabalham no Armaz&eacute;m para dizer para o povo brasileiro que &eacute; muito importante comprar produtos org&acirc;nicos. Voc&ecirc; vai cuidar da sua sa&uacute;de, vai cuidar da sua fam&iacute;lia e vai ajudar o pequeno produtor rural. (...) &Eacute; uma alegria muito grande stataestar visitando o armaz&eacute;m e estar conndo [o sucesso do espa&ccedil;o] com os olhos&quot;, comemorou o ex-presidente.</p>
+&quot;Estou aqui com os companheiros que trabalham no Armaz&eacute;m para dizer para o povo brasileiro que &eacute; muito importante comprar produtos org&acirc;nicos. Voc&ecirc; vai cuidar da sua sa&uacute;de, vai cuidar da sua fam&iacute;lia e vai ajudar o pequeno produtor rural. (...) &Eacute; uma alegria muito grande visitar&nbsp;o armaz&eacute;m e poder ver&nbsp;[o sucesso do espa&ccedil;o] com os olhos&quot;, comemorou o ex-presidente.</p>
 
 <p><br />
 Lula permaneceu no espa&ccedil;o por cerca de 1h30, onde comprou uma s&eacute;rie de produtos org&acirc;nicos, al&eacute;m de conversar e dar aten&ccedil;&atilde;o a pessoas de todas idades.&nbsp;</p>
