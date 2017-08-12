@@ -21,7 +21,7 @@ files:
     title: "Miriam Farias, paraibana, durante a Jornada de Lutas das Mulheres Sem Terra, em março de 2017.jpeg"
     $$hashKey: 1BW
 created_date: "2017-08-11T16:22:31-03:00"
-published: false
+published: true
 releated_posts:
   - _posts/2017/05/2017-05-06-durante-feira-nacional-camponesas-trazem-a-producao-e-resistencia-agroecologica.md
   - _posts/2017/03/2017-03-20-diversidade-e-luta-marcam-entrega-do-titulo-de-cidada-baiana-a-eliana-rolemberg.md
