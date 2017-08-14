@@ -9,7 +9,7 @@ title: "Miriam Farias: “Somos milhares, talvez milhões de ‘Margaridas’”
 support_line: "Conterrânea de Margarida Alves, a militante do MST na Paraíba fala sobre o Dia Nacional contra a Violência no Campo e em Defesa da Reforma Agrária"
 images_hd: //farm5.staticflickr.com/4339/36109903770_b6cc770647_b.jpg
 menu: lutas e mobilizações
-section: cover
+section: featured-news
 label: interviews
 layout: post
 files:
