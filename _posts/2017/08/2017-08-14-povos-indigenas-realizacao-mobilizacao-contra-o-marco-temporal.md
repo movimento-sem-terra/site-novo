@@ -4,7 +4,7 @@ tags:
   - tag: indigenas
   - tag: mobilizações
   - tag: marco-temporal
-title: "Povos Indígenas realização mobilização contra o marco temporal\n"
+title: "Povos Indígenas realizam mobilização contra o marco temporal\n"
 support_line: "No Dia Internacional dos Povos indígenas, Supremo deve decidir sobre três áreas não demarcadas, cujas medidas favorecem a bancada ruralista\n"
 menu: lutas e mobilizações
 images_hd: //farm5.staticflickr.com/4392/36524456746_72d0d83dd0_b.jpg
