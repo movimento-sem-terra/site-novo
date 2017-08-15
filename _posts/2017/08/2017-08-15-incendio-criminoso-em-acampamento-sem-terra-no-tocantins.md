@@ -4,8 +4,9 @@ tags:
   - tag: direitos-humanos
   - tag: ameaça
   - tag: acampamento
+  - tag: tocantins
 title: "Incêndio criminoso em acampamento Sem Terra no Tocantins\n"
-support_line: "Mais de 50 barracos, onde viviam 80 famílias, foram destruídos na tarde desta segunda-feira (14). Trabalhadores denunciam tensão na região há mais de dois anos.\n"
+support_line: "Mais de 50 barracos, onde viviam 80 famílias, foram destruídos. Famílias vinham recebendo ameaças de fazendeiro.\n"
 menu: direitos humanos
 images_hd: //farm5.staticflickr.com/4394/36193756420_1335296647_b.jpg
 section: cover
@@ -44,10 +45,13 @@ published: true
 releated_posts:
   - _posts/2016/12/2016-12-21-acampamento-do-mst-sofre-ataque-de-pistoleiros-no-para.md
   - _posts/2017/02/2017-02-24-apos-ser-atacado-por-capangas-mst-consegue-acordo-com-incra.md
+  - _posts/2017/04/2017-04-25-capangas-de-leo-andrade-ameacam-trabalhadores-sem-terra-no-norte-de-minas.md
   - _posts/2017/07/2017-07-17-acampamento-hugo-chavez-sofre-ataque-de-pistoleiros-no-para.md
   - _posts/2017/07/2017-07-14-com-troca-de-membros-da-base-do-governo-ccjc-rejeita-relatorio-de-denuncia-contra-temer.md
   - _posts/2017/07/2017-07-13-brasil-e-o-pais-mais-perigoso-para-lutar-por-direitos-e-pelo-meio-ambiente.md
   - _posts/2017/07/2017-07-18-acampados-e-acampadas-nas-terras-de-eike-batista-lutam-para-evitar-despejo.md
+  - _posts/2017/06/2017-06-01-mst-denuncia-despejo-iminente-no-tocantins.md
+  - _posts/2017/07/2017-07-11-juventude-camponesa-ocupa-secretaria-de-educacao-durante-encontro-em-tocantins.md
 
 ---
 <div style="text-align:center">
@@ -102,3 +106,9 @@ Por fim, os movimentos alertavam para a intensifica&ccedil;&atilde;o dos conflit
 <figcaption></figcaption>
 </figure>
 </div>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><em>*Editado por Maura Silva</em></p>
