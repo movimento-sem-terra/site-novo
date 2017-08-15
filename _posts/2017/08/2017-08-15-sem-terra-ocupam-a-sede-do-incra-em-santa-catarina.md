@@ -50,7 +50,7 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p>A&nbsp;principal reivindica&ccedil;&atilde;o dos trabalhadores &eacute; o assentamento imediato das&nbsp;fam&iacute;lias e&nbsp;a volta da distribui&ccedil;&atilde;o de lonas e cestas b&aacute;sicas, atividades de responsabilidade do Incra&nbsp;e da&nbsp;<span style="color: rgb(84, 84, 84); font-family: arial, sans-serif; font-size: small;">Companhia Nacional de Abastecimento (</span>Conab) e que est&atilde;o paralisadas a quatro anos afetando a vida de milhares de pessoas.</p>
+<p>A&nbsp;principal reivindica&ccedil;&atilde;o dos trabalhadores &eacute; o assentamento imediato das&nbsp;fam&iacute;lias e&nbsp;a volta da distribui&ccedil;&atilde;o de lonas e cestas b&aacute;sicas, atividades de responsabilidade do Incra&nbsp;e da&nbsp;Companhia Nacional de Abastecimento (Conab) e que est&atilde;o paralisadas a quatro anos afetando a vida de milhares de pessoas.</p>
 
 <p><br />
 Devido a uma solicita&ccedil;&atilde;o do MST amanh&atilde; &agrave;s 9h ser&aacute; realizada uma audi&ecirc;ncia com o Cl&oacute;vis Figueiredo Cardoso, Diretor de Obten&ccedil;&atilde;o de Terras do INCRA nacional. V&aacute;rias &aacute;reas no estado j&aacute; est&atilde;o em nome do INCRA &nbsp;mas o &oacute;rg&atilde;o n&atilde;o efetua o assentamento de nenhuma fam&iacute;lia h&aacute;&nbsp;mais de quatro&nbsp;anos.</p>
