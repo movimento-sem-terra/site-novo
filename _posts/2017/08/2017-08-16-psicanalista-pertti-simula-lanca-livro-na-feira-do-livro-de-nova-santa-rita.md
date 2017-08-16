@@ -7,7 +7,7 @@ tags:
 title: "Psicanalista Pertti Simula lança livro na Feira do Livro de Nova Santa Rita\n"
 support_line: "Lançamento será na próxima sexta-feira e faz parte da programação oficial da Feira do Livro do município\n\n"
 menu: "educação, cultura e comunicação"
-images_hd: //farm5.staticflickr.com/4345/36564628536_591eb2439a_b.jpg
+images_hd: //farm5.staticflickr.com/4334/36611450635_d8a303ba0b_b.jpg
 layout: post
 files:
   - link: //farm5.staticflickr.com/4434/36442086312_54eb26cd8d_b.jpg
@@ -17,13 +17,13 @@ files:
     small: //farm5.staticflickr.com/4434/36442086312_54eb26cd8d_n.jpg
     title: Capa do livro.png
     $$hashKey: 05T
-  - link: //farm5.staticflickr.com/4345/36564628536_591eb2439a_b.jpg
-    original: //farm5.staticflickr.com/4345/36564628536_0074c6a2d3_o.jpg
-    thumbnail: //farm5.staticflickr.com/4345/36564628536_591eb2439a_t.jpg
-    medium: //farm5.staticflickr.com/4345/36564628536_591eb2439a_z.jpg
-    small: //farm5.staticflickr.com/4345/36564628536_591eb2439a_n.jpg
-    title: Pertti Simula. Foto Divulgação.jpg
-    $$hashKey: 05W
+  - link: //farm5.staticflickr.com/4334/36611450635_d8a303ba0b_b.jpg
+    original: //farm5.staticflickr.com/4334/36611450635_c43ddcc097_o.jpg
+    thumbnail: //farm5.staticflickr.com/4334/36611450635_d8a303ba0b_t.jpg
+    medium: //farm5.staticflickr.com/4334/36611450635_d8a303ba0b_z.jpg
+    small: //farm5.staticflickr.com/4334/36611450635_d8a303ba0b_n.jpg
+    title: maxresdefault.jpg
+    $$hashKey: 0NL
 created_date: "2017-08-16T13:16:16-03:00"
 published: true
 releated_posts:
