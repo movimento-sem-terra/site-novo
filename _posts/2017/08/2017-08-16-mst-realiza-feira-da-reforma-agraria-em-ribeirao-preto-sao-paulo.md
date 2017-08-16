@@ -4,7 +4,7 @@ tags:
   - tag: agroecologia
   - tag: feira-da-reforma-agrária
   - tag: produtos-orgânicos
-title: "MST realiza feira da Reforma Agrária em Ribeirão Preto, São Paulo "
+title: "MST realiza feira da Reforma Agrária em Presidente Prudente, São Paulo "
 support_line: "Ao todo foram comercializados cerca de 800 quilos de alimentos.\n\n"
 images_hd: //farm5.staticflickr.com/4437/36564874276_164a48a9bf_b.jpg
 menu: agricultura camponesa
