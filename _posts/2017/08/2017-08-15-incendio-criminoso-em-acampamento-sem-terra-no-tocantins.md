@@ -9,7 +9,7 @@ title: "Incêndio criminoso em acampamento Sem Terra no Tocantins\n"
 support_line: "Mais de 50 barracos, onde viviam 80 famílias, foram destruídos. Famílias vinham recebendo ameaças de fazendeiro.\n"
 menu: direitos humanos
 images_hd: //farm5.staticflickr.com/4394/36193756420_1335296647_b.jpg
-section: cover
+section: featured-news
 layout: post
 files:
   - link: //farm5.staticflickr.com/4394/36193756420_1335296647_b.jpg
