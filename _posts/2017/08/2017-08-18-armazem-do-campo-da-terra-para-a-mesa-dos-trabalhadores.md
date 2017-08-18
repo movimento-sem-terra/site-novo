@@ -4,7 +4,7 @@ tags:
   - tag: armazem-do-campo
   - tag: nossa-produção
   - tag: assentamento
-title: "Armazém do Campo: Da terra para a mesa dos trabalhadores"
+title: "Armazém do Campo: da terra para a mesa dos trabalhadores"
 support_line: "No Assentamento Nova Esperança, são produzidos alimentos comercializados no Armazém do Campo. "
 menu: agricultura camponesa
 section: cover
