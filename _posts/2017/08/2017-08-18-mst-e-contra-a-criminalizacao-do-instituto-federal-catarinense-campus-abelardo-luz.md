@@ -42,12 +42,22 @@ span.s2 {text-decoration: underline ; color: #e4af09}
 
 <p>&nbsp;</p>
 
-<p><em>Por Juliana Adriano<br />
-Da P&aacute;gina do MST</em></p>
+<p><em>Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
-<p>O MST vem a p&uacute;blico esclarecer que o ocorrido na manh&atilde; da &uacute;ltima quarta-feira (16) &eacute; parte de uma ofensiva do estado em negar o direito &agrave; educa&ccedil;&atilde;o aos povos do campo. Minist&eacute;rio P&uacute;blico e Pol&iacute;cia Federal promoveram uma a&ccedil;&atilde;o de apreens&atilde;o de instrumentos de trabalho dos servidores p&uacute;blicos Maicon Fontanive e Ricardo Velho. Al&eacute;m disso, solicitaram o afastamento deles&nbsp;de suas fun&ccedil;&otilde;es no Instituto Federal Catarinense &ndash; Campus Avan&ccedil;ado Abelardo Luz/SC, e quebraram&nbsp;o sigilo telef&ocirc;nico dos funcion&aacute;rios&nbsp;e da reitora Sonia Regina.</p>
+<p>Na &uacute;ltima quarta-feira (16), os funcion&aacute;rios do Instituto Federal Catarinense - Campus Abelardo Luz, foram surpreendidos por uma a&ccedil;&atilde;o do Minist&eacute;rio P&uacute;blico e da Pol&iacute;cia Federal, autorizada pela 1&ordf; Vara da Justi&ccedil;a Federal de Chapec&oacute;. Segundo a decis&atilde;o do tribunal, a medida buscou, supostamente, apurar a interven&ccedil;&atilde;o do MST nas atividades da institui&ccedil;&atilde;o. Com esse argumento, foram apreendidos computadores pessoais, telefones celulares, e solicitada a quebra de sigilo telef&ocirc;nico e de e-mails enviados e recebidos pelos servidores.&nbsp;</p>
+
+<p><br />
+Em nota, o MST condena&nbsp;a opera&ccedil;&atilde;o e afirma que n&atilde;o h&aacute; d&uacute;vidas sobre seus reais interesses: criminalizar a atua&ccedil;&atilde;o do Instituto, como parte de uma &#39;ofensiva do estado em negar o direito &agrave; educa&ccedil;&atilde;o dos povos do campo&#39;.&nbsp;</p>
+
+<p><br />
+<strong><em>Confirma abaixo a &iacute;ntegra da nota:</em></strong></p>
+
+<p><br />
+O MST vem a p&uacute;blico esclarecer que o ocorrido na manh&atilde; da &uacute;ltima quarta-feira (16) &eacute; parte de uma ofensiva do estado em negar o direito &agrave; educa&ccedil;&atilde;o aos povos do campo. Minist&eacute;rio P&uacute;blico e Pol&iacute;cia Federal promoveram uma a&ccedil;&atilde;o de apreens&atilde;o de instrumentos de trabalho dos servidores p&uacute;blicos Maicon Fontanive e Ricardo Velho. Al&eacute;m disso, solicitaram o afastamento deles&nbsp;de suas fun&ccedil;&otilde;es no Instituto Federal Catarinense &ndash; Campus Avan&ccedil;ado Abelardo Luz/SC, e quebraram&nbsp;o sigilo telef&ocirc;nico dos funcion&aacute;rios&nbsp;e da reitora Sonia Regina.</p>
+
+<p>&nbsp;</p>
 
 <p><br />
 No Brasil h&aacute; somente duas unidades de Institutos Federais localizadas em &aacute;reas de Reforma Agr&aacute;ria. Desde o in&iacute;cio da implementa&ccedil;&atilde;o do campus em Abelardo Luz, foram in&uacute;meras den&uacute;ncias infundadas, parte de uma ofensiva que visa retirar o IFC do meio rural. Neste mesmo sentido, nas &uacute;ltimas d&eacute;cadas, milhares de escolas do campo t&ecirc;m sido fechadas, demonstrando a nega&ccedil;&atilde;o ao direito a educa&ccedil;&atilde;o aos trabalhadores e trabalhadoras do campo e a estrat&eacute;gia de inviabilizar seu modo de&nbsp;vida.</p>
