@@ -4,7 +4,7 @@ tags:
   - tag: via-campesina
   - tag: projeto-popular
   - tag: lgbt
-title: Via Campesina inicia o debate sobre a diversidade de gênero e orientação sexual nos movimentos
+title: Via Campesina inicia o debate sobre a diversidade de gênero e orientação sexual
 images_hd: //farm5.staticflickr.com/4411/36652907345_77df1783ab_b.jpg
 support_line: "Pela primeira vez na história da Via Campesina, sujeitos LGBTI* debatem aberta e internacionalmente sobre a diversidade de gênero e orientação sexual"
 menu: solidariedade
