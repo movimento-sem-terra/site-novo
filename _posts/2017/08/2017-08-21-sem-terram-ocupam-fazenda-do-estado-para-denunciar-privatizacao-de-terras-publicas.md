@@ -4,7 +4,7 @@ tags:
   - tag: ocupação
   - tag: reforma-agrária
   - tag: são-paulo
-title: "Sem Terram ocupam Fazenda do Estado para denunciar privatização de terras públicas\n"
+title: "Sem Terra ocupam fazenda do Estado para denunciar privatização de terras públicas\n"
 images_hd: //farm5.staticflickr.com/4347/36713463015_04273c5edd_b.jpg
 support_line: "Com a ocupação, o MST denuncia a tentativa de privatização, parcelamento e destinação das terras públicas estaduais para outros fins que não sejam do interesse social."
 menu: lutas e mobilizações
@@ -35,10 +35,13 @@ releated_posts:
 ---
 <p>&nbsp;</p>
 
-<p><em>Da P&aacute;gina do MST&nbsp;</em></p>
+<p>&nbsp;</p>
 
-<p><br />
-Na manh&atilde; desta segunda-feira (21), cerca de 60 fam&iacute;lias Sem Terra&nbsp;ocuparam parte da &ldquo;Fazenda do Estado&rdquo;, pertencente ao Polo Regional do Vale do Para&iacute;ba da Ag&ecirc;ncia Paulista de Tecnologia do Agroneg&oacute;cio (APTA), no munic&iacute;pio de Pindamonhangaba. A fazenda possui 350 hectares de terras improdutivas que est&atilde;o autorizadas para privatiza&ccedil;&atilde;o pela Lei 16.338, decretada pelo governador Geraldo Alckmin (PSDB), em 14 de dezembro de 2016.</p>
+<p><em>Da P&aacute;gina do MST </em></p>
+
+<p>&nbsp;</p>
+
+<p>Na manh&atilde; desta segunda-feira (21), cerca de 60 fam&iacute;lias Sem Terra&nbsp;ocuparam parte da &ldquo;Fazenda do Estado&rdquo;, pertencente ao Polo Regional do Vale do Para&iacute;ba da Ag&ecirc;ncia Paulista de Tecnologia do Agroneg&oacute;cio (APTA), no munic&iacute;pio de Pindamonhangaba. A fazenda possui 350 hectares de terras improdutivas que est&atilde;o autorizadas para privatiza&ccedil;&atilde;o pela Lei 16.338, decretada pelo governador Geraldo Alckmin (PSDB), em 14 de dezembro de 2016.</p>
 
 <p><br />
 No total, a &aacute;rea possui 1425 hectares nas proximidades da Rodovia Presidente Dutra, mas o governo sinaliza privatizar cerca de 30% da &aacute;rea. Al&eacute;m desta fazenda, mais 55 &aacute;reas est&atilde;o na lista da lei, a maioria pertencente &agrave; institutos de pesquisa em tecnologia agr&iacute;cola e pecu&aacute;ria.</p>
