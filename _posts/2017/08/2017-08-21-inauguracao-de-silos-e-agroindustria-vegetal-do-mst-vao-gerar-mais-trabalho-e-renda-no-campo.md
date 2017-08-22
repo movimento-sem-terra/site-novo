@@ -4,7 +4,7 @@ tags:
   - tag: agroindústria
   - tag: reforma-agrária
   - tag: rio-grande-do-sul
-title: "Inauguração de silos e agroindústria vegetal do MST vão gerar mais trabalho e renda no campo\n"
+title: "Inauguração de silos e agroindústria vegetal do MST vai gerar mais trabalho e renda no campo\n"
 support_line: "Estruturas foram construídas no Assentamento Conquista da Fronteira, na região da Campanha do RS.\n"
 menu: projeto popular
 images_hd: //farm5.staticflickr.com/4393/36545340852_7c6e9eb64d_b.jpg
