@@ -37,7 +37,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="30072017-_DSC1447.jpg" height="467" src="//farm5.staticflickr.com/4391/35948871103_0b9c57c2f6_b.jpg" width="700" />
-<figcaption></figcaption>
+<figcaption>Foto:&nbsp;Tiago Giannichini</figcaption>
 </figure>
 </div>
 
