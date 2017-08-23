@@ -57,7 +57,7 @@ Da P&aacute;gina do MST</em></p>
 &ldquo;Este ato, em defesa da Paz na Venezuela, &eacute; de irrestrita solidariedade com o povo e governo bolivarianos, em defesa de sua Constitui&ccedil;&atilde;o, pela paz e garantia de sua autodetermina&ccedil;&atilde;o&rdquo;, declarou Socorro Gomes, representante do Comit&ecirc; Brasileiro pela Paz na Venezuela, que fez a convocat&oacute;ria.</p>
 
 <p><br />
-Manifesta&ccedil;&otilde;es acontecem em Bras&iacute;lia, Recife, Belo Horizonte, Rio de Janeiro, S&atilde;o Paulo, Salvador e Cuiab&aacute;. No interior de S&atilde;o Paulo ocorreram atos em Campinas e na Escola Nacional Florest&aacute;n Fernandes, localizada em Guararema, onde estudantes de 42 pa&iacute;ses, representando mais de 80 organiza&ccedil;&otilde;es sociais realizaram um ato simb&oacute;lico em solidariedade &agrave; Revolu&ccedil;&atilde;o Bolivariana. Na capital federal, a embaixada dos Estados Unidos teve seus muros pixados com mensagens de protestos e den&uacute;ncia contra a inger&ecirc;ncia do governo Trump. As picha&ccedil;&otilde;es repudiavam as tentativas de desestabiliza&ccedil;&atilde;o da Venezuela por parte do governo estadunidense.</p>
+Manifesta&ccedil;&otilde;es acontecem no Distrito Federal, Minas Gerais, Rio de Janeiro, S&atilde;o Paulo, Paran&aacute;, Pernambuco,&nbsp;Bahia e Mato Grosso. No interior de S&atilde;o Paulo ocorreram atos em Campinas e na Escola Nacional Florest&aacute;n Fernandes, localizada em Guararema, onde estudantes de 42 pa&iacute;ses, representando mais de 80 organiza&ccedil;&otilde;es sociais realizaram um ato simb&oacute;lico em solidariedade &agrave; Revolu&ccedil;&atilde;o Bolivariana. Na capital federal, a embaixada dos Estados Unidos teve seus muros pixados com mensagens de protestos e den&uacute;ncia contra a inger&ecirc;ncia do governo Trump. As picha&ccedil;&otilde;es repudiavam as tentativas de desestabiliza&ccedil;&atilde;o da Venezuela por parte do governo estadunidense.</p>
 
 <figure class="image" style="float:right"><img alt="Homenagem a Hugo Chávez em bairro popular de Caracas.JPG" height="233" src="//farm5.staticflickr.com/4439/36694987266_b218c392e7_b.jpg" width="350" />
 <figcaption></figcaption>
@@ -69,8 +69,16 @@ O movimento de solidariedade pretende encaminhar ao governo dos Estados Unidos e
 <p><br />
 O documento ainda lista sete posi&ccedil;&otilde;es conjuntas dos &quot;movimentos populares, organiza&ccedil;&otilde;es pol&iacute;ticas, intelectuais e artistas&quot;, entre as quais, a exig&ecirc;ncia do &quot;pleno respeito ao direito internacional e apoiamos incondicionalmente o direito da Venezuela &agrave; autodetermina&ccedil;&atilde;o e &agrave; soberania&quot; e a defesa do &quot;dialogo construtivo&quot; e da diplomacia como como forma de solucionar qualquer &quot;diferen&ccedil;a ou desacordo que possa existir entre a Venezuela e os Estados Unidos&quot;.</p>
 
-<p><br />
-Al&eacute;m da jornada de solidariedade desta ter&ccedil;a-feira (22), o Comit&ecirc; Brasileiro pela Paz na Venezuela (<a href="https://www.facebook.com/paznavenezuela/">saiba mais</a>) realizar&aacute;, no pr&oacute;ximo dia 1/09, &agrave;s 18h, um Ato Pol&iacute;tico em Solidariedade &agrave; Venezuela, no Sindicato dos Arquitetos, localizado na Rua Ara&uacute;jo, 216 &ndash; Rep&uacute;blica, regi&atilde;o central de S&atilde;o Paulo.</p>
+<p>
+<style type="text/css">@page { margin: 2cm }
+		p { margin-bottom: 0.25cm; line-height: 120% }
+		a:link { so-language: zxx }
+</style>
+</p>
+
+<p style="margin-bottom: 0cm; line-height: 100%"><font face="Calibri, sans-serif"><font style="font-size: 11pt">Os meios de comunica&ccedil;&atilde;o empresariais tentam passar ao mundo uma imagem irreal, mentirosa sobre a Venezuela. E com isso, justificam as amea&ccedil;as lan&ccedil;adas todos os dias pelo governo dos Estados Unidos, inclusive de invas&atilde;o militar contra o povo soberano. N&oacute;s, dos movimentos sociais da ALBA, estamos realizando uma campanha de solidariedade, com atos p&uacute;blicos, debates, oficinas, para explicar sobre a real situa&ccedil;&atilde;o na Venezuela. Seguiremos firmes nesse prop&oacute;sito, pois estamos &eacute; hora de estar juntos &agrave; Venezuela nesse momento, em defesa de sua soberania.&nbsp;</font></font></p>
+
+<p>Al&eacute;m da jornada de solidariedade desta ter&ccedil;a-feira (22), o Comit&ecirc; Brasileiro pela Paz na Venezuela (<a href="https://www.facebook.com/paznavenezuela/">saiba mais</a>) realizar&aacute;, no pr&oacute;ximo dia 1/09, &agrave;s 18h, um Ato Pol&iacute;tico em Solidariedade &agrave; Venezuela, no Sindicato dos Arquitetos, localizado na Rua Ara&uacute;jo, 216 &ndash; Rep&uacute;blica, regi&atilde;o central de S&atilde;o Paulo.</p>
 
 <p><br />
 <strong>Leia a &iacute;ntegra da Carta P&uacute;blica:</strong></p>
