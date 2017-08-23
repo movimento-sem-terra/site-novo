@@ -6,7 +6,7 @@ tags:
   - tag: constituinte
 menu: solidariedade
 images_hd: //farm5.staticflickr.com/4351/35925335234_f7df123500_b.jpg
-title: "Ato em solidariedade a Venezuela reúne centenas de pessoas em Recife "
+title: "Ato em solidariedade a Venezuela reúne centenas de pessoas no Recife "
 support_line: "Como forma de exercer o principio da solidariedade aos povos oprimidos de todo mundo, o MST organizou atos em todo o Brasil. "
 layout: post
 files:
