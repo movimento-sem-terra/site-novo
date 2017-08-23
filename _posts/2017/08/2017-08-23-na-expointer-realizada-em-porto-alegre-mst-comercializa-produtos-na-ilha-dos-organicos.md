@@ -4,7 +4,7 @@ tags:
   - tag: agroecologia
   - tag: produtos-orgânicos
   - tag: reforma-agrária
-title: "Na Expointer, realizada em Porto Alegre, MST comercializa produtos na ‘ilha dos orgânicos’\n"
+title: "Na Expointer, realizada em Esteio, MST comercializa produtos na ‘ilha dos orgânicos’\n"
 support_line: "Movimento Sem Terra estará representado por três cooperativas e três agroindústrias familiares nos estandes da Via Campesina.\n"
 menu: agricultura camponesa
 images_hd: //farm5.staticflickr.com/4391/35948871103_0b9c57c2f6_b.jpg
