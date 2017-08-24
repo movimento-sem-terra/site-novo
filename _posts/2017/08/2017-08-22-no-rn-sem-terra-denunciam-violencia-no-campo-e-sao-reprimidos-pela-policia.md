@@ -7,7 +7,7 @@ tags:
   - tag: violência-no-campo
 title: "No RN, Sem Terra denunciam violência no campo e são reprimidos pela polícia"
 menu: direitos humanos
-section: cover
+section: featured-news
 images_hd: //farm5.staticflickr.com/4394/36739715765_9038f957cf_b.jpg
 support_line: "Com diversas violações legais e de direitos humanos, a Tropa de Choque, indiscriminadamente, atacou homens, mulheres, idosos e crianças."
 layout: post
