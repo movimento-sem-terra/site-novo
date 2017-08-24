@@ -4,7 +4,7 @@ tags:
   - tag: santa-catarina
   - tag: ocupação
   - tag: acampamento
-title: MST ocupa área em Araquari-SCSC
+title: MST ocupa área em Araquari-SC
 support_line: "Segundo informações, a área está abandonada pelo proprietário faz mais de 4 anos. "
 menu: lutas e mobilizações
 images_hd: //farm5.staticflickr.com/4349/36730959366_7a8bc9569b_b.jpg
@@ -27,7 +27,7 @@ releated_posts:
   - _posts/2017/07/2017-07-25-em-jornada-nacional-de-lutas-mst-ocupa-fazenda-de-ministro-blairo-maggi.md
 
 ---
-<p>&nbsp;</p>
+<p><img alt="IMG-20170823-WA0045.jpg" height="420" src="//farm5.staticflickr.com/4349/36730959366_7a8bc9569b_b.jpg" width="700" /></p>
 
 <p>&nbsp;</p>
 
