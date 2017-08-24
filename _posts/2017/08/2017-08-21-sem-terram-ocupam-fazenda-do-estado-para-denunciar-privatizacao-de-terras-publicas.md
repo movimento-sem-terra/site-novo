@@ -8,7 +8,7 @@ title: "Sem Terra ocupam fazenda do Estado para denunciar privatização de terr
 images_hd: //farm5.staticflickr.com/4347/36713463015_04273c5edd_b.jpg
 support_line: "Com a ocupação, o MST denuncia a tentativa de privatização, parcelamento e destinação das terras públicas estaduais para outros fins que não sejam do interesse social."
 menu: lutas e mobilizações
-section: cover
+section: featured-news
 layout: post
 files:
   - link: //farm5.staticflickr.com/4347/36713463015_04273c5edd_b.jpg
