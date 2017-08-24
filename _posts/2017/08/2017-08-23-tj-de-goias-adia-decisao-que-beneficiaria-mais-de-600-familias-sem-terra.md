@@ -18,7 +18,7 @@ files:
     title: 36345795430_da0fe903fb_z.jpg
     $$hashKey: 1H5
 created_date: "2017-08-23T17:18:30-03:00"
-published: true
+published: false
 releated_posts:
   - _posts/2017/04/2017-04-19-na-jornada-de-luta-pequenos-agricultores-e-sem-terra-retomam-as-terras-do-acu.md
   - _posts/2017/01/2017-01-18-mst-lanca-campanha-em-preparacao-aos-30-anos-de-luta-na-ba.md
