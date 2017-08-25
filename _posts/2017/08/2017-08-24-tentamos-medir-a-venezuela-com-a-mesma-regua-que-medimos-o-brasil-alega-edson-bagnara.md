@@ -7,7 +7,7 @@ tags:
   - tag: conjuntura
 title: "“Tentamos medir a Venezuela com a mesma régua que medimos o Brasil”, alega Edson Bagnara"
 support_line: Coordenador da Brigada Internacionalista do MST na Venezuela fala sobre o trabalho do movimento para contribuir para a produção de alimentos no país.
-section: featured-news
+section: cover
 menu: solidariedade
 images_hd: //farm5.staticflickr.com/4408/35943319904_3900bbbe72_b.jpg
 layout: post
