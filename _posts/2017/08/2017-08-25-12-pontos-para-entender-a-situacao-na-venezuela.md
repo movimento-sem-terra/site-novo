@@ -68,7 +68,7 @@ files:
     title: 30j4.jpg
     $$hashKey: 03L
 created_date: "2017-08-25T12:31:45-03:00"
-published: true
+published: false
 releated_posts:
   - _posts/2017/03/2017-03-07-movimentos-sociais-participam-da-cupula-do-alba-e-dao-apoio-a-venezuela.md
   - _posts/2017/06/2017-06-29-frente-brasil-popular-respalda-a-revolucao-bolivariana-e-o-governo-maduro.md
