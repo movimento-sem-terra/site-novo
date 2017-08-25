@@ -11,12 +11,6 @@ menu: reforma agrária
 section: cover
 layout: post
 files:
-  - link: "https://drive.google.com/uc?id=0Bwus_4SL8MWDSmVBUlVqUnN2dGM&export=download"
-    thumbnail: "http://farm4.staticflickr.com/3852/15187675380_7b00f5fdff_b.jpg"
-    title: AtendimentoOnLine_ACAO_00321832_20170816134735.pdf
-    basename: AtendimentoOnLine_ACAO_00321832_20170816134735
-    embed: "https://drive.google.com/uc?id=0Bwus_4SL8MWDSmVBUlVqUnN2dGM"
-    $$hashKey: 0AJ
   - link: //farm5.staticflickr.com/4439/36749601896_3c01375a1a_b.jpg
     original: //farm5.staticflickr.com/4439/36749601896_bd971a19f6_o.jpg
     thumbnail: //farm5.staticflickr.com/4439/36749601896_3c01375a1a_t.jpg
@@ -60,7 +54,7 @@ Da P&aacute;gina do MST</em></p>
 <p>A 9&ordf; Vara Federal de Porto Alegre (RS) proibiu na &uacute;ltima quinta-feira (17) o Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra) e a Uni&atilde;o de adotar medidas que paralisem a Reforma Agr&aacute;ria. A decis&atilde;o tamb&eacute;m determina o restabelecimento do acesso &agrave;s pol&iacute;ticas p&uacute;blicas do Programa Nacional de Reforma Agr&aacute;ria (PNRA) aos 578 mil benefici&aacute;rios, que est&atilde;o impossibilitados de acessarem pol&iacute;ticas p&uacute;blicas indispens&aacute;veis para a vida no campo, ressaltando que a medida sequer respeitou o direito ao contradit&oacute;rio e &agrave; ampla defesa.</p>
 
 <p><br />
-O autor da a&ccedil;&atilde;o civil p&uacute;blica n&ordm; 5026000-47.2017.4.04.7100/RS (<a href="https://drive.google.com/uc?id=0Bwus_4SL8MWDSmVBUlVqUnN2dGM&amp;export=download">clique aqui</a>) &eacute; o Minist&eacute;rio P&uacute;blico Federal (MPF), que, por meio do procurador regional dos Direitos do Cidad&atilde;o, Fabiano de Moraes, desde maio deste ano ajuizou o processo, cuja liminar foi emitida pela ju&iacute;za Clarides Rahmeiero.</p>
+O autor da a&ccedil;&atilde;o civil p&uacute;blica n&ordm; 5026000-47.2017.4.04.7100/RS &eacute; o Minist&eacute;rio P&uacute;blico Federal (MPF), que, por meio do procurador regional dos Direitos do Cidad&atilde;o, Fabiano de Moraes, desde maio deste ano ajuizou o processo, cuja liminar foi emitida pela ju&iacute;za Clarides Rahmeiero.</p>
 
 <p><br />
 No documento, a Justi&ccedil;a Federal pondera que as conclus&otilde;es que embasaram as medidas do TCU, foram provenientes de informa&ccedil;&otilde;es obtidas de cruzamentos de dados entre sistemas e n&atilde;o de um trabalho de campo com interlocu&ccedil;&atilde;o pr&eacute;via com os benefici&aacute;rios.</p>
