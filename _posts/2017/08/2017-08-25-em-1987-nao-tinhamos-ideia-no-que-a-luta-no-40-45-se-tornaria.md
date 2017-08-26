@@ -38,7 +38,7 @@ releated_posts:
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Baiano, nascido em Teixeira de Freitas, asManoel Messi Dias do Vale (54), &eacute; pai de cinco filhos e contribuiu na constru&ccedil;&atilde;o do MST na Bahia, ao ajudar no trabalho de base e organiza&ccedil;&atilde;o das fam&iacute;lias Sem Terra.</p>
+Baiano, nascido em Teixeira de Freitas, Manoel Messi Dias do Vale (54), &eacute; pai de cinco filhos e contribuiu na constru&ccedil;&atilde;o do MST na Bahia, ao ajudar no trabalho de base e organiza&ccedil;&atilde;o das fam&iacute;lias Sem Terra.</p>
 
 <p><br />
 Com 22 anos de milit&acirc;ncia na Central &Uacute;nica dos Trabalhadores (CUT), Messias, em 1987, fez o primeiro contato com as igrejas, sindicatos e as Comunidades Eclesiais de Base (CEBES), presentes no Extremo Sul da Bahia, para se somarem ao processo de constru&ccedil;&atilde;o da luta pela terra.</p>
@@ -50,7 +50,7 @@ Assim que o MST come&ccedil;ou a se organizar, ele esteve inserido nas reuni&oti
 &ldquo;Junto com os demais companheiros e companheiras, ajudei na constru&ccedil;&atilde;o da primeira ocupa&ccedil;&atilde;o realizada na fazenda 40 45&rdquo;, explica Messias, que comp&ocirc;s uma das primeiras equipes de trabalho do Movimento no estado.</p>
 
 <p><br />
-&ldquo;Naquele per&iacute;odo crescia de maneira avassaladora o plantio de Eucalipto na regi&atilde;o a partir de algumas empresas, como a Flonibra [atual Aracruz Celulose]. Esse processo fez a gente pensar a import&acirc;ncia de fazer uma den&uacute;ncia ao modelo de produ&ccedil;&atilde;o dessas empresas ocupando seu territ&oacute;rio. Foi a&iacute; que conhecemos a fazenda 40 45&rdquo;.</p>
+&ldquo;Naquele per&iacute;odo crescia de maneira avassaladora o plantio de Eucalipto na regi&atilde;o a partir de algumas empresas, como a Flonibra [atual Aracruz Celulose]. Esse processo nos fez&nbsp;pensar na&nbsp;import&acirc;ncia de fazer uma den&uacute;ncia ao modelo de produ&ccedil;&atilde;o dessas empresas ocupando seu territ&oacute;rio. Foi a&iacute; que conhecemos a fazenda 40 45&rdquo;.</p>
 
 <p><br />
 A fazenda era de dif&iacute;cil acesso, mesmo assim, a ocupa&ccedil;&atilde;o aconteceu no dia 07 de setembro com 400 fam&iacute;lias organizadas.</p>
