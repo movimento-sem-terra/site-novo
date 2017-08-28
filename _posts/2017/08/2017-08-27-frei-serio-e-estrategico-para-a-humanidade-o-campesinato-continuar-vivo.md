@@ -3,7 +3,7 @@ date: "2017-08-27T16:30:30-03:00"
 tags:
   - tag: lançamento
   - tag: reforma-agrária
-title: "Frei Sério: ‘É estratégico para a humanidade o campesinato continuar vivo’"
+title: "Frei Sérgio: ‘É estratégico para a humanidade o campesinato continuar vivo’"
 support_line: "Em entrevista ao Sul21, Frei Sérgio fala sobre a origem e a situação atual desse modelo que segue dominante no campo brasileiro e aponta os desafios dos movimentos sociais do campo diante da atual conjuntura. "
 menu: reforma agrária
 images_hd: //farm5.staticflickr.com/4417/36709882121_b7b29d4704_b.jpg
