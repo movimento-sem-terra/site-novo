@@ -33,7 +33,7 @@ files:
     title: AL 2009 Marcha Estadual (133).JPG
     $$hashKey: 0AR
 created_date: "2017-08-25T12:18:32-03:00"
-published: false
+published: true
 releated_posts:
   - _posts/2017/04/2017-04-18-para-pressionar-o-governo-federal-mst-ocupa-sede-do-incra-em-brasilia.md
   - _posts/2017/08/2017-08-23-incra-quer-destinar-area-de-chacina-no-para-a-reforma-agraria.md
