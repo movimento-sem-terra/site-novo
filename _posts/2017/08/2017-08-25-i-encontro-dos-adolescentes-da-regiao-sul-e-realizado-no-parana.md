@@ -5,8 +5,8 @@ tags:
   - tag: formação
   - tag: cultura
 images_hd: //farm5.staticflickr.com/4394/36663859551_c5affaa2e6_b.jpg
-title: "I Encontro de jovens da Região sul é realizado no Paraná "
-support_line: "O encontro tem como objetivo discutir o lugar dos jovens no MST, sua auto-organização e a participação dos mesmos na luta pela educação, Reforma Agrária e por um Projeto Popular para o Brasil."
+title: "I Encontro de adolescentes da Região sul é realizado no Paraná "
+support_line: "O encontro tem como objetivo discutir a auto-organização e a participação dos mesmos na luta pela educação, Reforma Agrária e por um Projeto Popular para o Brasil."
 menu: "educação, cultura e comunicação"
 layout: post
 files:
@@ -41,13 +41,13 @@ releated_posts:
 Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
-De 28 a 30 de agosto, na Escola Latina Americana de Agroecologia (ELAA), no munic&iacute;pio da Lapa, Paran&aacute;, acontecer&aacute; o I encontro de jovens&nbsp;das &aacute;reas de Reforma Agr&aacute;ria da regi&atilde;o sul do Brasil, com a participa&ccedil;&atilde;o de aproximadamente 140 educandos das escolas de acampamentos e assentamentos da regi&atilde;o.&nbsp;</p>
+De 28 a 30 de agosto, na Escola Latina Americana de Agroecologia (ELAA), no munic&iacute;pio da Lapa, Paran&aacute;, acontecer&aacute; o I encontro de adolescentes&nbsp;das &aacute;reas de Reforma Agr&aacute;ria da regi&atilde;o sul do Brasil, com a participa&ccedil;&atilde;o de aproximadamente 140 educandos das escolas de acampamentos e assentamentos da regi&atilde;o.&nbsp;</p>
 
 <p><br />
 O encontro tem como objetivo discutir o lugar dos jovens no MST, sua auto-organiza&ccedil;&atilde;o e a participa&ccedil;&atilde;o dos mesmos na luta pela educa&ccedil;&atilde;o, Reforma Agr&aacute;ria e por um Projeto Popular para o Brasil.</p>
 
 <p><br />
-Para Valter Leite, da coordena&ccedil;&atilde;o do setor de educa&ccedil;&atilde;o do MST, o encontro surgiu pelo pr&oacute;prio entusiasmo dos jovens, pois a partir do 12 anos de idades eles j&aacute; n&atilde;o podem participar do encontro Sem Terrinha, assim, ficava uma lacuna de participa&ccedil;&atilde;o at&eacute; chegar ao coletivo da juventude.</p>
+Para Valter Leite, da coordena&ccedil;&atilde;o do setor de educa&ccedil;&atilde;o do MST, o encontro surgiu pelo pr&oacute;prio entusiasmo dos adolescentes, pois a partir do 12 anos de idades eles j&aacute; n&atilde;o podem participar do encontro Sem Terrinha, assim, ficava uma lacuna de participa&ccedil;&atilde;o at&eacute; chegar ao coletivo da juventude.</p>
 
 <p><br />
 &ldquo;Diante desse cen&aacute;rio, originou-se a possibilidade de realizar um encontro&nbsp;com o intuito de oportunizar ambientes formativos que os permitam os discutir seu papel na constru&ccedil;&atilde;o do MST&rdquo;, disse Leite.</p>
