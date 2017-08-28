@@ -98,7 +98,7 @@ O programa social foi inaugurado em 2009 com o objetivo de promover reformas nas
 Um milh&atilde;o e 60 mil fam&iacute;lias foram atendidas pela &lsquo;Misi&oacute;n Barrio Nuevo, Barrio Tricolor&rsquo; atrav&eacute;s de 73 projetos de desenvolvimento urbano em todo o pa&iacute;s.</p>
 
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="barrio nuevo, barrio tricolor.jpg" height="465" src="//farm5.staticflickr.com/4432/36703455582_5cb29e275b_b.jpg" width="700" />
+<figure class="image" style="display:inline-block"><img alt="barrio nuevo, barrio tricolor.jpg" height="399" src="//farm5.staticflickr.com/4432/36703455582_5cb29e275b_b.jpg" width="600" />
 <figcaption>Misi&oacute;n Barrio Nuevo, Barrio Tricolor</figcaption>
 </figure>
 </div>
