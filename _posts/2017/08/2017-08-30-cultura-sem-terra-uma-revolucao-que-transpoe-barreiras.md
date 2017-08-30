@@ -3,8 +3,9 @@ date: "2017-08-30T13:27:38-03:00"
 tags:
   - tag: arte-e-cultura
   - tag: cultura-popular
-  - tag: feira
   - tag: circuito
+  - tag: cultura
+  - tag: minas-gerais
 title: "Cultura Sem Terra: uma revolução que transpõe barreiras"
 support_line: Arte para abrandar a luta e dar força às novas gerações a partir do exemplo
 menu: "educação, cultura e comunicação"
@@ -29,6 +30,8 @@ created_date: "2017-08-30T14:00:44-03:00"
 published: true
 releated_posts:
   - _posts/2017/08/2017-08-29-arte-e-cultura-de-raiz-tomam-a-praca-em-valadares.md
+  - _posts/2017/08/2017-08-25-mst-ocupa-minas-gerais-com-arte-e-cultura-da-reforma-agraria.md
+  - _posts/2017/07/2017-07-20-30-anos-de-arte-e-cultura-na-bahia.md
 
 ---
 <div><em>por<span style="white-space:pre"> </span>Agatha Azevedo</em></div>
