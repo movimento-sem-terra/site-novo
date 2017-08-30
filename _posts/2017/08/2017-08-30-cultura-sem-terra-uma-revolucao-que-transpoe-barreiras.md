@@ -33,17 +33,25 @@ releated_posts:
 ---
 <div><em>por<span style="white-space:pre"> </span>Agatha Azevedo</em></div>
 
-<div><em>Jornalistas Livres</em>&nbsp;&nbsp;</div>
+<div><em>Jornalistas Livres</em></div>
 
 <p>&nbsp;</p>
 
 <div>Al&eacute;m da produ&ccedil;&atilde;o de alimentos de forma saud&aacute;vel, em harmonia com a natureza, em cooperativa e sem explora&ccedil;&atilde;o do trabalho, o Movimento dos Trabalhadores Rurais sem Terra &eacute; tamb&eacute;m marcado pela beleza de suas tradi&ccedil;&otilde;es, que s&atilde;o passadas como ensinamentos a cada gera&ccedil;&atilde;o que nasce nos acampamentos espalhados pelo Brasil. Nat&aacute;lia e Lucinha s&atilde;o exemplos de como este trabalho carinhoso e cotidiano &eacute; importante.</div>
 
-<div>&nbsp;</div>
+<p>&nbsp;</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="Max-V.jpg" height="300" src="//farm5.staticflickr.com/4390/36920583445_a2b09d74f1_b.jpg" width="450" />
+<figcaption>&quot;A arte p&otilde;e o dedo na ferida&quot;, diz Nat&aacute;lia Pereira.</figcaption>
+</figure>
+</div>
 
 <p>&nbsp;</p>
 
 <div>Nat&aacute;lia Pereira &eacute; um dos frutos deste trabalho de forma&ccedil;&atilde;o. Filha da militante Lucinha, ela conta que nasceu, cresceu e se formou enquanto artista e agente da cultura no Movimento: &ldquo;Desde que eu me entendo por gente eu sou sem terra n&eacute;, eu fui com muitos poucos meses para debaixo da lona&rdquo;.&nbsp;</div>
+
+<p>&nbsp;</p>
 
 <div>Para subverter &agrave; l&oacute;gica imposta de que nem todos ter&atilde;o acesso &agrave; arte e cultura, o MST produz, com panos de chita, m&uacute;sica, poesia e alegria, a pr&oacute;pria forma de retratar sua realidade coletiva atrav&eacute;s da arte, que tem papel fundamental na forma&ccedil;&atilde;o da identidade coletiva de seu povo enquanto um movimento forte e potente em todas as &aacute;reas.</div>
 
@@ -67,7 +75,7 @@ releated_posts:
 
 <p>&ldquo;Foi em uma a&ccedil;&atilde;o que fizemos dentro do Encontro Estadual realizado no Vale do Rio Doce, e nele a cultura foi nossa forma de falar. Aconteceu uma m&iacute;stica que teve um impacto muito grande, tanto que at&eacute; hoje ela &eacute; muito falada. S&oacute; nesse dia que eu fui perceber o peso que a arte tem na hora de falar. Foi quando as mulheres se empoderaram, e se n&oacute;s tiv&eacute;ssemos usado outro tipo de linguagem, que n&atilde;o a arte, n&atilde;o ter&iacute;amos conquistado nosso espa&ccedil;o. Todo mundo conseguiu se comover com nossa causa e nosso lugar de fala. A arte p&otilde;e o dedo na ferida. Nesse momento eu me apaixonei pela arte.&rdquo;</p>
 
-<p><img alt="" draggable="true" height="15" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" title="Click e arraste para mover" width="15" /></p>
+<p>&nbsp;</p>
 
 <p>Apaixonada pelo Movimento, Nat&aacute;lia fala sobre como a cultura est&aacute; presente desde o primeiro barraco de lona erguido em cada acampamento, criando a magia e a beleza de ser sem terra. Como sua principal refer&ecirc;ncia, ela aponta a Lucinha Pereira, sua m&atilde;e, que al&eacute;m de estar na pol&iacute;tica e envolvida com diversas outras tarefas, como o plantio, &eacute; bastante engajada na frente de cultura do MST.</p>
 
