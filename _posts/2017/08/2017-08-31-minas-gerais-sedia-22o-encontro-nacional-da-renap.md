@@ -5,7 +5,7 @@ tags:
   - tag: renap
   - tag: encontro
 title: "Minas Gerais sedia 22º Encontro Nacional da Renap\n\n"
-images_hd: !<tag:yaml.org,2002:js/function> "function link() { [native code] }"
+images_hd: "function link() { [native code] }"
 support_line: "Este ano o evento de abertura contará com a presença da socióloga e ouvidora externa da Defensoria Pública da Bahia, Vilma Reis, que falará sobre o “Sistema de Justiça, retrocessos sociais e lutas populares”"
 menu: projeto popular
 layout: post
@@ -13,6 +13,12 @@ files:
   - "\"Authentication failed : 'https://api.flickr.com/services/upload/' - Filetype was not recognised\""
   - "\"Authentication failed : 'https://api.flickr.com/services/upload/' - Filetype was not recognised\""
   - "\"Authentication failed : 'https://api.flickr.com/services/upload/' - Filetype was not recognised\""
+  - link: //farm5.staticflickr.com/4414/36133316993_60b686a949_b.jpg
+    original: //farm5.staticflickr.com/4414/36133316993_08b7e57c1e_o.jpg
+    thumbnail: //farm5.staticflickr.com/4414/36133316993_60b686a949_t.jpg
+    medium: //farm5.staticflickr.com/4414/36133316993_60b686a949_z.jpg
+    small: //farm5.staticflickr.com/4414/36133316993_60b686a949_n.jpg
+    title: Renap.jpg
 created_date: "2017-08-31T12:52:50-03:00"
 published: true
 releated_posts:
