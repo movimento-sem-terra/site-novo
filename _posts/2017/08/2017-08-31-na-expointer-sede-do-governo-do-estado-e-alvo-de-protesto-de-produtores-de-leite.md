@@ -6,12 +6,18 @@ tags:
   - tag: mobilizações
 title: "Na Expointer, sede do governo do estado é alvo de protesto de produtores de leite\n\n"
 support_line: A insatisfação diante medidas do atual governo foi expressa pelos produtores através do derramamento de litros de leite no pátio da Casa Branca.
-images_hd: !<tag:yaml.org,2002:js/function> "function link() { [native code] }"
+images_hd: "function link() { [native code] }"
 menu: lutas e mobilizações
 layout: post
 files:
   - "\"Authentication failed : 'https://api.flickr.com/services/upload/' - Filetype was not recognised\""
   - "\"Authentication failed : 'https://api.flickr.com/services/upload/' - Filetype was not recognised\""
+  - link: //farm5.staticflickr.com/4340/36770960222_10f057f839_b.jpg
+    original: //farm5.staticflickr.com/4340/36770960222_eb9c9eb86c_o.jpg
+    thumbnail: //farm5.staticflickr.com/4340/36770960222_10f057f839_t.jpg
+    medium: //farm5.staticflickr.com/4340/36770960222_10f057f839_z.jpg
+    small: //farm5.staticflickr.com/4340/36770960222_10f057f839_n.jpg
+    title: Foto Catiana de Medeiros.JPG
 created_date: "2017-08-31T13:06:06-03:00"
 published: true
 releated_posts:
