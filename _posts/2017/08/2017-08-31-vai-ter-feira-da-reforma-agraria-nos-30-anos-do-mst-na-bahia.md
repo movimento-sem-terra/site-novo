@@ -18,6 +18,7 @@ files:
     medium: //farm5.staticflickr.com/4397/36107738594_1c6431b716_z.jpg
     small: //farm5.staticflickr.com/4397/36107738594_1c6431b716_n.jpg
     title: Daniela Moura-III Feira da Reforma Agrária-08062017-668-10.jpg
+  - "\"Authentication failed : 'https://api.flickr.com/services/upload/' - Filetype was not recognised\""
 created_date: "2017-08-31T12:58:47-03:00"
 published: true
 releated_posts:
