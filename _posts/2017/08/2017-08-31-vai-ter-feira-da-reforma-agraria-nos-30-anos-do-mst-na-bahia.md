@@ -7,7 +7,7 @@ tags:
 title: "Vai ter Feira da Reforma Agrária nos 30 anos do MST na Bahia\n"
 support_line: "Cerca de 1200 Sem Terra, de dez regiões, estão sendo esperados e diversos estandes serão montados para garantir a comercialização dos produtos.\n"
 menu: agricultura camponesa
-images_hd: !<tag:yaml.org,2002:js/function> "function link() { [native code] }"
+images_hd: "function link() { [native code] }"
 layout: post
 files:
   - "\"Authentication failed : 'https://api.flickr.com/services/upload/' - Filetype was not recognised\""
