@@ -37,7 +37,7 @@ releated_posts:
 ---
 <p>&nbsp;</p>
 
-<p><em>Por Coletivo de Comunica&ccedil;&atilde;o do MST na Bahia<br />
+<p><em>Por Coletivo de Comunica&ccedil;&atilde;o do MST na Bahia - Foto Daniela&nbsp;Moura - M&iacute;dia Ninja&nbsp;<br />
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
