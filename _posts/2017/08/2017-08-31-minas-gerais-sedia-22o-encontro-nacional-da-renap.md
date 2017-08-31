@@ -5,7 +5,7 @@ tags:
   - tag: renap
   - tag: encontro
 title: "Minas Gerais sedia 22º Encontro Nacional da Renap\n\n"
-images_hd: "function link() { [native code] }"
+images_hd: //farm5.staticflickr.com/4336/36548458990_899440e73c_b.jpg
 support_line: "Este ano o evento de abertura contará com a presença da socióloga e ouvidora externa da Defensoria Pública da Bahia, Vilma Reis, que falará sobre o “Sistema de Justiça, retrocessos sociais e lutas populares”"
 menu: projeto popular
 layout: post
@@ -18,6 +18,36 @@ files:
     thumbnail: //farm5.staticflickr.com/4414/36133316993_60b686a949_t.jpg
     medium: //farm5.staticflickr.com/4414/36133316993_60b686a949_z.jpg
     small: //farm5.staticflickr.com/4414/36133316993_60b686a949_n.jpg
+    title: Renap.jpg
+  - link: //farm5.staticflickr.com/4431/36110238174_fcdf181f13_b.jpg
+    original: //farm5.staticflickr.com/4431/36110238174_ef6fbe6024_o.jpg
+    thumbnail: //farm5.staticflickr.com/4431/36110238174_fcdf181f13_t.jpg
+    medium: //farm5.staticflickr.com/4431/36110238174_fcdf181f13_z.jpg
+    small: //farm5.staticflickr.com/4431/36110238174_fcdf181f13_n.jpg
+    title: Renap.jpg
+  - link: //farm5.staticflickr.com/4359/36944488045_88f57eca9e_b.jpg
+    original: //farm5.staticflickr.com/4359/36944488045_4b66dff2c3_o.jpg
+    thumbnail: //farm5.staticflickr.com/4359/36944488045_88f57eca9e_t.jpg
+    medium: //farm5.staticflickr.com/4359/36944488045_88f57eca9e_z.jpg
+    small: //farm5.staticflickr.com/4359/36944488045_88f57eca9e_n.jpg
+    title: Renap.jpg
+  - link: //farm5.staticflickr.com/4336/36548458990_899440e73c_b.jpg
+    original: //farm5.staticflickr.com/4336/36548458990_fe304ee1b4_o.jpg
+    thumbnail: //farm5.staticflickr.com/4336/36548458990_899440e73c_t.jpg
+    medium: //farm5.staticflickr.com/4336/36548458990_899440e73c_z.jpg
+    small: //farm5.staticflickr.com/4336/36548458990_899440e73c_n.jpg
+    title: Renap.jpg
+  - link: //farm5.staticflickr.com/4431/36110258394_392454a278_b.jpg
+    original: //farm5.staticflickr.com/4431/36110258394_aa88f38585_o.jpg
+    thumbnail: //farm5.staticflickr.com/4431/36110258394_392454a278_t.jpg
+    medium: //farm5.staticflickr.com/4431/36110258394_392454a278_z.jpg
+    small: //farm5.staticflickr.com/4431/36110258394_392454a278_n.jpg
+    title: Renap.jpg
+  - link: //farm5.staticflickr.com/4337/36756972976_61124516a6_b.jpg
+    original: //farm5.staticflickr.com/4337/36756972976_db6d96acf7_o.jpg
+    thumbnail: //farm5.staticflickr.com/4337/36756972976_61124516a6_t.jpg
+    medium: //farm5.staticflickr.com/4337/36756972976_61124516a6_z.jpg
+    small: //farm5.staticflickr.com/4337/36756972976_61124516a6_n.jpg
     title: Renap.jpg
 created_date: "2017-08-31T12:52:50-03:00"
 published: true
