@@ -29,6 +29,7 @@ releated_posts:
   - _posts/2017/07/2017-07-04-mst-denuncia-intimidacao-do-boe-em-ocupacao-no-rio-grande-do-sul.md
   - _posts/2017/07/2017-07-04-familias-despejadas-em-capela-de-santana-vao-para-o-trevo-de-charqueadas-no-rs.md
   - _posts/2017/07/2017-07-10-mst-presente-na-maior-feira-de-economia-solidaria-da-america-latina.md
+section: cover
 
 ---
 <p>&nbsp;</p>
@@ -38,10 +39,13 @@ Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
-<p>Cerca de 300 produtores de leite no Rio Grande do Sul realizaram um protesto nesta quarta-feira (30) na Casa Branca, sede do governo do estado na 40&ordf; Expointer, no munic&iacute;pio de Esteio, para denunciar o impacto das importa&ccedil;&otilde;es de leite em p&oacute; vindo de pa&iacute;ses vizinhos na cadeia produtiva do setor, a partir de decreto do governador Jos&eacute; Ivo Sartori (PMDB). Os manifestantes s&atilde;o ligados &agrave; Via Campesina, Movimento dos Trabalhadores Rurais Sem Terra (MST), Movimento dos Pequenos Agricultores (MPA) e Federa&ccedil;&atilde;o dos Trabalhadores e Trabalhadoras na Agricultura Familiar (Fetraf).</p>
+<p>Cerca de 300 produtores de leite no Rio Grande do Sul realizaram um protesto nesta quarta-feira (30) na Casa Branca, sede do governo do estado na 40&ordf; Expointer, no munic&iacute;pio de Esteio, para denunciar o impacto das importa&ccedil;&otilde;es de leite em p&oacute; vindo de pa&iacute;ses vizinhos na cadeia produtiva do setor, a partir de decreto do governador Jos&eacute; Ivo Sartori (PMDB).</p>
 
 <p><br />
-A insatisfa&ccedil;&atilde;o diante medidas do atual governo foi expressa pelos produtores atrav&eacute;s do derramamento de litros de leite no p&aacute;tio da Casa Branca. &Agrave; tarde, representantes dos movimentos v&atilde;o se reunir com a Casa Civil e marcar uma audi&ecirc;ncia com o governador a fim de tratar sobre o assunto. Segundo os manifestantes, a Nestle (su&iacute;&ccedil;a) e a Lactalis (francesa) est&atilde;o entre as empresas multinacionais mais beneficiadas com o decreto 53.059/2016 do governo estadual, que baixou a al&iacute;quota do ICMS para importa&ccedil;&atilde;o de 18% para 12%. Se a empresa importadora enviar a mat&eacute;ria-prima para ser industrializada em outro estado a al&iacute;quota cai para 4%.</p>
+Os manifestantes s&atilde;o ligados &agrave; Via Campesina, Movimento dos Trabalhadores Rurais Sem Terra (MST), Movimento dos Pequenos Agricultores (MPA) e Federa&ccedil;&atilde;o dos Trabalhadores e Trabalhadoras na Agricultura Familiar (Fetraf).</p>
+
+<p><br />
+A insatisfa&ccedil;&atilde;o diante medidas do atual governo foi expressa pelos produtores atrav&eacute;s do derramamento de litros de leite no p&aacute;tio da Casa Branca. Os representantes dos movimentos se reuniram com a Casa Civil para&nbsp;marcar uma audi&ecirc;ncia com o governador a fim de tratar sobre o assunto. Segundo os manifestantes, a Nestle (su&iacute;&ccedil;a) e a Lactalis (francesa) est&atilde;o entre as empresas multinacionais mais beneficiadas com o decreto 53.059/2016 do governo estadual, que baixou a al&iacute;quota do ICMS para importa&ccedil;&atilde;o de 18% para 12%. Se a empresa importadora enviar a mat&eacute;ria-prima para ser industrializada em outro estado a al&iacute;quota cai para 4%.</p>
 
 <p><br />
 Os produtores afirmam que a importa&ccedil;&atilde;o ga&uacute;cha de leite em p&oacute; do Uruguai passou de 27 mil toneladas em 2015 para 50 mil toneladas em 2016, ap&oacute;s o decreto. Somente nos primeiros cinco meses do ano o RS j&aacute; buscou no pa&iacute;s vizinho cerca de 15 mil toneladas. Conforme Adelar Pretto, representante da Via Campesina, isto provocou a queda do pre&ccedil;o do leite pago pela ind&uacute;stria aos agricultores do estado, que recebem atualmente em torno de R$ 0,90 o litro &mdash; R$ 0,90 a menos que exatamente a um ano atr&aacute;s.</p>
