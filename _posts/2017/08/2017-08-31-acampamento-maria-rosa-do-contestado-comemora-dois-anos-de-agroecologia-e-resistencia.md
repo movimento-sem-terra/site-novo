@@ -4,7 +4,7 @@ tags:
   - tag: agroecologia
   - tag: reforma-agrária
   - tag: assentamento
-images_hd: !<tag:yaml.org,2002:js/function> "function link() { [native code] }"
+images_hd: //farm5.staticflickr.com/4334/36942231325_d4499199ec_b.jpg
 title: Acampamento Maria Rosa do Contestado comemora dois anos de agroecologia e resistência
 support_line: "Além das 200 famílias que residem no acampamento, a confraternização contou com a presença de pessoas de várias regiões do estado, colaboradores e simpatizantes da luta pela terra. "
 menu: reforma agrária
