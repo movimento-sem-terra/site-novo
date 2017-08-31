@@ -7,13 +7,19 @@ tags:
 title: "Militante Sem Terra recebe a Medalha Zumbi dos Palmares\n"
 support_line: "Fabya Reis foi homenageada pela tarefa militante, acadêmica e institucional que tem desempenhado desde os 19 anos de idade.\n"
 menu: "educação, cultura e comunicação"
-images_hd: !<tag:yaml.org,2002:js/function> "function link() { [native code] }"
+images_hd: //farm5.staticflickr.com/4427/36773352002_159ddc83a4_b.jpg
 layout: post
 files:
   - "\"Authentication failed : 'https://api.flickr.com/services/upload/' - Filetype was not recognised\""
   - "\"Authentication failed : 'https://api.flickr.com/services/upload/' - Filetype was not recognised\""
   - "\"Authentication failed : 'https://api.flickr.com/services/upload/' - Filetype was not recognised\""
   - "\"Authentication failed : 'https://api.flickr.com/services/upload/' - Filetype was not recognised\""
+  - link: //farm5.staticflickr.com/4427/36773352002_159ddc83a4_b.jpg
+    original: //farm5.staticflickr.com/4427/36773352002_069ca20721_o.jpg
+    thumbnail: //farm5.staticflickr.com/4427/36773352002_159ddc83a4_t.jpg
+    medium: //farm5.staticflickr.com/4427/36773352002_159ddc83a4_z.jpg
+    small: //farm5.staticflickr.com/4427/36773352002_159ddc83a4_n.jpg
+    title: 8fce00dd-76f8-4bf1-8d7d-4341163198ac.jpg
 created_date: "2017-08-31T13:18:31-03:00"
 published: true
 releated_posts:
