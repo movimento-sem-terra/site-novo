@@ -4,7 +4,7 @@ tags:
   - tag: mobilizações
   - tag: agricultores
   - tag: rio-grande-do-sul
-title: "Agricultore pedem a extinção imediata de decretos que prejudicam a produção de leite no RS\n"
+title: "Agricultores pedem a extinção imediata de decretos que prejudicam a produção de leite no RS\n"
 images_hd: //farm5.staticflickr.com/4348/36803539911_9dbb164d54_b.jpg
 menu: lutas e mobilizações
 support_line: "Organizado pela presidência da Assembleia Legislativa, o encontro propôs discutir alternativas às medidas do governo estadual que vem estimulando a importação do produto."
