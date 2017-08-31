@@ -7,12 +7,19 @@ tags:
 title: "Vai ter Feira da Reforma Agrária nos 30 anos do MST na Bahia\n"
 support_line: "Cerca de 1200 Sem Terra, de dez regiões, estão sendo esperados e diversos estandes serão montados para garantir a comercialização dos produtos.\n"
 menu: agricultura camponesa
-images_hd: !<tag:yaml.org,2002:js/function> "function link() { [native code] }"
+images_hd: //farm5.staticflickr.com/4397/36107738594_1c6431b716_b.jpg
 layout: post
 files:
   - "\"Authentication failed : 'https://api.flickr.com/services/upload/' - Filetype was not recognised\""
+  - "\"Authentication failed : 'https://api.flickr.com/services/upload/' - Filetype was not recognised\""
+  - link: //farm5.staticflickr.com/4397/36107738594_1c6431b716_b.jpg
+    original: //farm5.staticflickr.com/4397/36107738594_0d77353987_o.jpg
+    thumbnail: //farm5.staticflickr.com/4397/36107738594_1c6431b716_t.jpg
+    medium: //farm5.staticflickr.com/4397/36107738594_1c6431b716_z.jpg
+    small: //farm5.staticflickr.com/4397/36107738594_1c6431b716_n.jpg
+    title: Daniela Moura-III Feira da Reforma Agrária-08062017-668-10.jpg
 created_date: "2017-08-31T12:58:47-03:00"
-published: false
+published: true
 releated_posts:
   - _posts/2017/06/2017-06-02-agroecologia-so-se-faz-com-o-povo-organizado.md
   - _posts/2017/08/2017-08-23-mst-comercializa-seis-toneladas-de-alimentos-em-itaberaba-na-chapada-diamantina.md
