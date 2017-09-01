@@ -1,0 +1,454 @@
+---
+---
+
+@import "../bourbon/bourbon";
+@import "../neat/neat";
+@import "../_sass/variables";
+@import "../_sass/_includes/mixins";
+
+@font-face {
+    font-family: FestivalFontLight;
+    src: url(/assets/fonts/festival/Antonio-Light.ttf);
+}
+@font-face {
+    font-family: FestivalFontBold;
+    src: url(/assets/fonts/festival/Antonio-Bold.ttf);
+}
+@font-face {
+    font-family: EspecialFontLight;
+    src: url(/assets/fonts/festival/WCManoNegraBta_835513655.otf);
+}
+@font-face {
+    font-family: EspecialFontBold;
+    src: url(/assets/fonts/festival/WCManoNegraBta-Bold_3698615530.otf);
+}
+
+#site-header, .search, body > footer {
+  display: none;
+}
+
+body {
+  @include media($desktop) {
+    $left: "//farm8.staticflickr.com/7241/26949842432_d20f3b5bc5_b.jpg";
+    $right: "//farm4.staticflickr.com/7490/27010978706_36eb968e2e_b.jpg";
+    background-image: url($left), url($right);
+    background-position: left bottom, right bottom;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }// @include media($desktop) {
+  @include media($mobile) {
+    &:after{
+      content: " ";
+      position: absolute;
+      left: -26%;
+      top: 0;
+      width: 100%;
+      height: 100%;
+      z-index: -2;
+      opacity: 0.2;
+      background-image: url(//farm8.staticflickr.com/7558/26769695760_ebcbb7b08b_n.jpg);
+      background-repeat: no-repeat;
+      background-position: 50% 0;
+      -ms-background-size: cover;
+      -o-background-size: cover;
+      -moz-background-size: cover;
+      -webkit-background-size: cover;
+      background-size: cover;
+    }
+  }// @include media($mobile) {
+
+}
+
+.festival {
+  height: 100vh;
+  width: 100vw;
+  max-width: 100%;
+  display: inline-block;
+  justify-content: space-between;
+
+  @include media($desktop) {
+		display: flex;
+  }
+
+  img {
+    width: 100%;
+  }
+  figure {
+    margin: 0;
+  }
+
+  a {
+    color: white;
+  }
+  a:hover, a:focus {
+    color: white;
+    text-decoration: underline;
+  }
+}// .festival
+
+.festival .capa {
+  display: none;
+
+  @include media($desktop) {
+    display: inline-block;
+    max-width: 720px;
+    height: 100%;
+    width: 100%;
+    background-image: url(/assets/img/festival/capa.png);
+    background-repeat: no-repeat;
+  }
+}
+
+.festival .informacoes {
+  align-self: flex-start;
+  display: inline-block;
+  flex-direction: column;
+  height: 100vh;
+  padding: 0;
+
+  @include media($desktop) {
+		display: flex;
+  }
+
+  span {
+    font-family: 'Exo 2', sans-serif;
+  }
+}// .festival .informacoes {
+
+.festival .informacoes .letreiro{
+  max-width: 500px;
+  align-self: center;
+  text-align: center;
+
+  h1 {
+    font-family: EspecialFontBold;
+    margin: 0;
+    font-size: 4em;
+    word-spacing: 0.2em;
+    letter-spacing: 2px;
+  }
+  h2 {
+    font-family: FestivalFontLight;
+    text-transform: uppercase;
+    font-size: 1.3em;
+    margin: 0;
+    margin-top: 2px;
+  }
+  h3 {
+    font-family: EspecialFontLight;
+    font-size: 1.2em;
+    margin: 0;
+    margin-top: 2px;
+  }
+  @include media($desktop) {
+    h2 {
+      font-size: 1.5em;
+    }
+    h3 {
+      font-size: 1.4em;
+    }
+  }// @include media($desktop) {
+}// .festival .informacoes .letreiro{
+
+.festival .informacoes .mostras {
+  display: block;
+  flex-wrap: wrap;
+  justify-content: center;
+  max-width: 750px;
+	flex-direction: column;
+
+  @include media($desktop) {
+		display: flex;
+  }
+
+  img {
+    max-width: 280px;
+  }
+
+  .poesia, .musica {
+    background-image: url(/assets/img/festival/borao.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: white;
+    width: 200px;
+    text-align: center;
+    font-size: 1.2em;
+    margin: 6px;
+  }
+  .poesia, .musica, .feira {
+    align-self: center;
+  }
+
+  .feira {
+    text-align: center;
+    font-size: 1.5em;
+  }
+
+  @include media($desktop) {
+    flex-direction: initial;
+
+    .poesia, .musica, .feira {
+      align-self: initial;
+    }
+
+    .feira {
+      font-size: 2em;
+    }
+  }// @include media($desktop) {
+} // .festival .informacoes .mostras{
+
+.festival .informacoes .feira {
+
+}// .festival .informacoes .feira {
+
+.festival .informacoes .frase {
+  display: none;
+  padding: 10px;
+
+  @include media($desktop) {
+    display: inline-block;
+    span {
+      margin-top: 20px;
+      width: 100%;
+      text-align: center;
+      display: inline-block;
+      line-height: 0.9em;
+      font-size: 2em;
+    }
+  }
+}// .festival .informacoes .frase {
+
+.festival .informacoes .inscricao {
+  align-self: center;
+  display: flex;
+  padding: 0;
+  margin-top: auto;
+  width: 100%;
+  justify-content: space-between;
+  letter-spacing: 5px;
+
+  @include media($desktop) {
+    justify-content: space-around;
+  }// @include media($desktop) {
+}// .festival .informacoes .inscricao {
+
+.festival .informacoes .descricao {
+  p {
+   font-family: FestivalFontLight;
+   font-size: 1.1em;
+   line-height: 1.6em;
+   padding: 0 20px;
+   text-shadow: 0px 0px 1px #aeaeae;
+  }// p
+}// .festival .informacoes .descricao
+
+.agenda {
+	display: inline-block;
+	padding: 10px;
+  height: 100vh;
+
+  @include media($desktop) {
+		display: block;
+		padding: 40px 10%;
+  }
+
+  ul#tabs{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    max-width: 100% !important;
+    height: 32px;
+    border-bottom: solid 1px #CFCFD0;
+    display: inline-block;
+
+		@include media($mobile) {
+			display: block;
+      li {
+				display: block;
+        width: 100%;
+			}
+		}
+
+    a {
+      color: #666;
+    }
+
+    li {
+      border: solid 1px #CFCFD0;
+      border-bottom: none;
+      float: left;
+      margin: 0 .25em 0 0;
+      padding: .25em .5em;
+
+      &.active {
+        background: #666;
+
+        a {
+         color: white;
+        }// a
+      }// &.active
+    }// li
+  }// ul.tabs
+
+  .programacao {
+    padding: 0;
+    .item-content .item-image-content {
+      width: 20%;
+
+			@include media($mobile) {
+				width: 100%;
+			}
+      .bold {
+        font-size: 1.6em;
+      }
+    }
+  }// .programacao
+
+  .filter {
+		@include media($mobile) {
+			display: inline-block;
+      .item-content {
+				min-height: initial;
+				padding-top: 0;
+
+				.item-content .day-schedule {
+					font-size: 1.1em;
+				}
+      }
+		}
+  }
+}// .agenda
+.menu {
+  z-index: 1000;
+	font-family: FestivalFontBold;
+	color: white;
+	letter-spacing: initial;
+	display: none;
+  width: 95%;
+
+  @include media($desktop) {
+		display: inline-block;
+  }
+
+  ul {
+		width: 100%;
+		display: flex;
+    justify-content: center;
+  }
+
+  ul li:nth-child(even) {
+   background-color: rgba(228,148,118,1);
+  }
+  ul li:nth-child(odd) {
+   background-color: rgba(159,138,159,1);
+  }
+  ul li {
+		font-size: 1.2em;
+		font-weight: bold;
+    flex-grow: 1;
+    padding: 0;
+    -webkit-box-shadow: 4px 2px 13px 0px rgba(50, 50, 50, 0.75);
+    -moz-box-shadow:    4px 2px 13px 0px rgba(50, 50, 50, 0.75);
+    box-shadow:         4px 2px 13px 0px rgba(50, 50, 50, 0.75);
+  }
+}//.menu
+
+.noticias {
+	display: inline-block;
+  height: 100vh;
+  width: 100%;
+
+  @include media($desktop) {
+		padding: 40px 10%;
+  }
+
+  @include default-figure-images();
+
+  .container{
+    display: flex;
+    .item {
+      margin: 10px 10px 20px 5px;
+      box-shadow: 0px 0px 10px 0px  rgba(34,25,25,0.4);
+      padding-bottom: 5px;
+      border-radius: 3px;
+      width: 100%;
+
+
+      @include media($screen-sm) {
+        width: 48%;
+      }
+      @include media($screen-md) {
+        width: 30%;
+      }
+      @include media($screen-big) {
+        width: 22%;
+      }
+
+      .headline {
+        .support-line,
+        time,
+        h1 {
+          padding: 0 10px;
+        }
+
+        h1 a {
+          color: $mst-red;
+        }
+      }
+    }
+  }
+}// .noticias
+
+.radio {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}//.radio
+
+.local {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+
+  iframe {
+    width: 100vw;
+  }
+}//.radio
+
+.apresentacao {
+	width: 100vw;
+	background-color: black;
+	display: flex;
+  justify-content: center;
+  padding:  0 10px;
+  margin: 20px 0;
+
+
+  iframe {
+		width: 100%;
+		max-width: 530px;
+	}
+}//.apresentacao
+
+.selecionados {
+	display: flex;
+  justify-content: center;
+  flex-direction: column;
+
+  .resultados {
+		display: flex;
+		justify-content: space-around;
+  }
+
+  h2 {
+    display: inline-block;
+    font-family: FestivalFontBold;
+    text-transform: uppercase;
+    font-size: 1.5em;
+    margin: 0;
+    margin-top: 2px;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+}//.selecionados

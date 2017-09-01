@@ -1,0 +1,200 @@
+---
+layout: white_page
+styles: ["circuito-de-arte.css", "tabs.css", "justifiedGallery.min.css"]
+scripts: ["circuito-de-arte.js", "feira/jflickrfeed.min.js"]
+title: "Circuito Mineiro de Arte e Cultura da Reforma Agrária"
+description: "Artes e Cultura da Reforma Agrária."
+images_hd: "http://farm8.staticflickr.com/7558/26769695760_ebcbb7b08b_n.jpg"
+external_scripts: ["//code.jquery.com/jquery-3.1.0.min.js","//cdnjs.cloudflare.com/ajax/libs/masonry/3.3.0/masonry.pkgd.min.js","//cdnjs.cloudflare.com/ajax/libs/jquery.sticky/1.0.3/jquery.sticky.min.js", "//cdnjs.cloudflare.com/ajax/libs/justifiedGallery/3.6.1/js/jquery.justifiedGallery.min.js","//cdnjs.cloudflare.com/ajax/libs/jquery.colorbox/1.6.3/jquery.colorbox-min.js"]
+---
+<article class="festival" itemscope itemtype="http://schema.org/Event">
+  <figure class="capa" title="arte da capa do circuito">
+    <meta content="/assets/img/festival/capa.png"  itemprop="image"/>
+  </figure>
+    <section class="informacoes">
+      <header class="letreiro">
+        <meta itemprop="name" content="Circuito Mineiro de Arte e Cultura da Reforma Agrária"/>
+        <meta itemprop="startDate" content="2016-07-20T09:00"/>
+        <meta itemprop="endDate" content="2016-07-24T20:00"/>
+        <h1>
+          Circuito Mineiro
+        </h1>
+        <h2>
+          de Artes e Cultura da Reforma Agrária
+        </h2>
+        <h3 itemprop="location" itemscope itemtype="http://schema.org/Place">
+          <meta itemprop="address name" content="Belo Horizonte - MG"/>
+          20 a 24 de Julho/2016 Belo Horizonte-MG
+        </h3>
+      </header>
+      <figure class="mostras">
+        <span class="poesia">
+          <a href="/2016/04/05/mst-realiza-festival-nacional-de-artes-e-cultura-da-reforma-agraria.html">
+            I Mostra de Poesia
+          </a>
+        </span>
+        <span class="musica">
+          <a href="/2016/04/05/mst-realiza-festival-nacional-de-artes-e-cultura-da-reforma-agraria.html">
+            II Festival de Música
+          </a>
+        </span>
+        <span class="feira">
+          + Feira da Reforma Agrária
+        </span>
+      </figure>
+      <section class="frase">
+        <span>
+          "Da luta brotam
+          <br/>
+          vozes da liberdade"
+        </span>
+      </section>
+      <section class="descricao">
+        <span>
+          <p>
+            Alimentar a luta, cultivar a arte! Este é o lema que, a partir do dia 2 de setembro, vai conquistar sete regiões do estado e a capital no Circuito Mineiro de Arte e Cultura da Reforma Agrária, do Movimento dos Trabalhadores Rurais Sem Terra.
+          </p>
+        </span>
+        <span>
+          <p>
+            Os eventos contarão com atrações como apresentações musicais, teatro, cinema, capoeira, sarau de poesia, mostras fotográficas e das. Tudo produzido por sem terras e parceiros do movimento que constroem e apoiam o projeto de Reforma Agrária Popular. Enquanto o público se diverte com as atividades artísticas, poderá se deliciar com a cozinha da roça, a culinária da melhor qualidade trazida direto dos fogões a lenha, dos fundos das casas do interior mineiro. Vem conferir!
+            
+          </p>
+        </span>
+      </section><!-- informações section -->
+      <section class="menu">
+        <ul>
+          <li>
+            <a data-animation="scroll" data-offset="132"  href="#apresentacao">
+              Apresentação
+            </a>
+          </li>
+          <li>
+            <a data-animation="scroll" data-offset="132"  href="#agenda">
+              Agenda
+            </a>
+          </li>
+          <li>
+            <a data-animation="scroll" data-offset="132"  href="#local">
+              Local
+            </a>
+          </li>
+          <li>
+            <a data-animation="scroll" data-offset="132"  href="#noticias">
+              Noticias
+            </a>
+          </li>
+          <li>
+            <a data-animation="scroll" data-offset="132"  href="#fotos">
+              Fotos
+            </a>
+          </li>
+          <li>
+            <a data-animation="scroll" data-offset="132"  href="#selecionados">
+              Selecionados
+            </a>
+          </li>
+          <li>
+            <a data-animation="scroll" data-offset="132"  href="#radio">
+              Nossa Rádio
+            </a>
+          </li>
+        </ul>
+      </section>
+    </section><!-- informações section -->
+</article>
+<section class="apresentacao" id="apresentacao">
+  <iframe
+    height="315"
+    src="//www.youtube.com/embed/eNjrEXOdLNw?showinfo=0&controls=0"
+    frameborder="0" allowfullscreen>
+  </iframe>
+</section><!-- apresentacao section -->
+<section class="agenda" id="agenda">
+  <ul id="tabs">
+    {% for p in site.data.festival.programacao %}
+    <li>
+      <a href="#tab-informacao-{{ forloop.index }}">
+        {{ p.dia }}
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
+  {% for p in site.data.festival.programacao %}
+  <div id="tab-informacao-{{ forloop.index }}" class="filter">
+    {% for e in p.eventos %}
+    <section class="programacao">
+      <article class="item-content">
+        <div class="item-image-content">
+          <span class="bold">{{ e.horario }}</span>
+        </div>
+
+        <div class="item-content divisor">
+          <div class="day-container">
+            <h3 class="day-schedule">{{ e.nome }}</h3>
+            {% for item in e.detalhes %}
+            <p class="item">{{ item }}</p>
+            {% endfor %}
+          </div>
+        </div>
+      </article>
+    </section><!-- programacao filter -->
+    {% endfor %}
+  </div><!-- tab-programacao -->
+  {% endfor %}
+</section><!-- agenda section -->
+<section id="local" class="local">
+  <iframe style="pointer-events:none;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3751.107582528897!2d-43.9342002!3d-19.9198708!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xa699f00ada1a7f%3A0x1f9d35ed100ec0cc!2sSERRARIA+SOUZA+PINTO+-+Centro%2C+Belo+Horizonte+-+MG!5e0!3m2!1spt-BR!2sbr!4v1469216477587" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
+  </iframe>
+</section>
+<section class="noticias" id="noticias">
+  {% assign posts = site.posts  | where: "special-page", "festival" %}
+  <article class="container">
+  {% for post in posts | limit: 8 %}
+  <div class="item">
+    <article class="headline">
+      {% if post.images_hd and post.images_hd != '' %}
+        <a href="{{ post.url }}">
+          <figure style="background-image:url( {{ post | find_image: 'tiny' }} );"
+              alt="imagem da capa da noticia">
+          </figure>
+        </a>
+      {% endif %}
+      <h1>
+        <a href="{{ post.url }}">
+          {{ post.title }}
+        </a>
+      </h1>
+      <p class="support-line">
+      {{ post.support_line }}
+      </p>
+    </article>
+  </div> <!-- div item container -->
+  {% endfor %}
+  </article>
+</section><!-- div noticias -->
+<section class="selecionados" id="selecionados">
+  <h2>
+   Selecionados
+  </h2>
+  <div class="resultados">
+     <a rel="colorbox" href="//farm9.staticflickr.com/8175/28216296970_b398452fb0_b.jpg" title="lista final do festival de música parte 1">
+       <img src="//farm9.staticflickr.com/8175/28216296970_b398452fb0_n.jpg" alt="lista final do festival de música parte 2" class="gallery-item"/>
+     </a>
+     <a rel="colorbox" href="//farm9.staticflickr.com/8157/28499481845_13a99c07ef_b.jpg" title="lista final do festival de música parte 1">
+       <img src="//farm9.staticflickr.com/8157/28499481845_13a99c07ef_n.jpg" alt="lista final do festival de música parte 2" class="gallery-item"/>
+     </a>
+  </div>
+</section><!-- div gallery -->
+<section class="gallery" id="fotos">
+
+</section><!-- div gallery -->
+<section class="radio" id="radio">
+  <iframe width="480"
+          height="270"
+     src="http://www.ustream.tv/embed/22627387?html5ui"
+   scrolling="no"
+  allowfullscreen webkitallowfullscreen frameborder="0"
+                                       style="border: 0 none transparent;">
+  </iframe>
+</section><!-- div noticias -->
