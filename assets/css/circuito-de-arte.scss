@@ -233,8 +233,7 @@ body {
   }// @include media($desktop) {
 }// .festival .informacoes .inscricao {
 
-.festival .informacoes .descricao {
-  p {
+.festival .informacoes  {
    font-family: FestivalFontLight;
    font-size: 1.1em;
    line-height: 1.6em;
@@ -242,6 +241,15 @@ body {
    text-shadow: 0px 0px 1px #aeaeae;
   }// p
 }// .festival .informacoes .descricao
+ 
+.descricao {
+  p {
+   font-family:"Exo 2",Helvetica,Arial,sans-serif; 
+   font-size: 1em;
+   line-height: 1.6em;
+   padding: 0 20px;
+   text-shadow: 0px 0px 1px #aeaeae;
+  }
 
 .agenda {
 	display: inline-block;
