@@ -35,6 +35,7 @@ body {
     background-position: left bottom, right bottom;
     background-repeat: no-repeat;
     background-attachment: fixed;
+    background-color: #F7FFF8;
   }// @include media($desktop) {
   @include media($mobile) {
     &:after{
@@ -111,7 +112,7 @@ body {
   }
 
   span {
-    font-family: 'Exo 2', sans-serif;
+    font-family: EspecialFontLight;
   }
 }// .festival .informacoes {
 
