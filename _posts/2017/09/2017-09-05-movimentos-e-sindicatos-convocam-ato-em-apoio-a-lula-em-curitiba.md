@@ -17,6 +17,13 @@ files:
     small: //farm5.staticflickr.com/4344/36214670294_8ba8c1fc08_n.jpg
     title: 36881285401_da6266f64c_z.jpg
     $$hashKey: "153"
+  - link: //farm5.staticflickr.com/4409/36214709204_ecd149d84b_b.jpg
+    original: //farm5.staticflickr.com/4409/36214709204_c3d39ac4a2_o.jpg
+    thumbnail: //farm5.staticflickr.com/4409/36214709204_ecd149d84b_t.jpg
+    medium: //farm5.staticflickr.com/4409/36214709204_ecd149d84b_z.jpg
+    small: //farm5.staticflickr.com/4409/36214709204_ecd149d84b_n.jpg
+    title: 21271298_10212683394012620_2217979065972781183_n.jpg
+    $$hashKey: 1DJ
 created_date: "2017-09-05T16:05:01-03:00"
 published: true
 releated_posts:
@@ -50,3 +57,12 @@ Na avalia&ccedil;&atilde;o de integrantes dos movimentos populares no Paran&aacu
 
 <p><br />
 &ldquo;&Eacute; um dia de luta, vamos recepcionar o ex-presidente, enquanto Frente Brasil Popular, para divulgar tamb&eacute;m o Plano Popular de Emerg&ecirc;ncia e apresentar alternativas ao pa&iacute;s. Tamb&eacute;m definimos que elei&ccedil;&otilde;es sem Lula se configuram em fraude&rdquo;, explica Regina Cruz, da dire&ccedil;&atilde;o da Frente Brasil Popular do Paran&aacute;.&nbsp;</p>
+
+<p><br />
+&nbsp;</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="21271298_10212683394012620_2217979065972781183_n.jpg" height="600" src="//farm5.staticflickr.com/4409/36214709204_ecd149d84b_b.jpg" width="600" />
+<figcaption></figcaption>
+</figure>
+</div>
