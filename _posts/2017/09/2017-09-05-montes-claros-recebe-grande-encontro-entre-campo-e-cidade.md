@@ -66,9 +66,3 @@ Nos dias 8, 9 e 10 de setembro o evento contar&aacute; com programa&ccedil;&atil
 Tamb&eacute;m est&atilde;o previstos shows com artistas populares de renome regional e nacional. Dentre eles: Cevisa e os brinquedos sonoros, A Outra Banda da Lua, Wilson dias, Pedro Boi, Bruno e Fabiana, Jukita Queiroz, Z&eacute; Pinto e Pereira da Viola.</p>
 
 <p>&nbsp;</p>
-
-<div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="IMG-20170904-WA0056.jpg" height="288" src="//farm5.staticflickr.com/4387/36874346642_4d88590a76_b.jpg" width="500" />
-<figcaption></figcaption>
-</figure>
-</div>
