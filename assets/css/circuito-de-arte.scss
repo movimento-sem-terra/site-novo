@@ -29,7 +29,7 @@
 
 body {
   @include media($desktop) {
-    $left: "//farm8.staticflickr.com/7241/26949842432_d20f3b5bc5_b.jpg";
+    $left: radial-gradient(#FFFDEF, rgba(255,253,239,0.5)),url("//farm8.staticflickr.com/7241/26949842432_d20f3b5bc5_b.jpg");
     $right: "//farm4.staticflickr.com/7490/27010978706_36eb968e2e_b.jpg";
     background-image: url($left), url($right);
     background-position: left bottom, right bottom;
