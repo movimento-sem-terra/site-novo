@@ -54,7 +54,7 @@ external_scripts: ["//code.jquery.com/jquery-3.1.0.min.js","//cdnjs.cloudflare.c
         </span>
         <span>
           <p>
-            Os eventos contarão com atrações como apresentações musicais, teatro, cinema, capoeira, sarau de poesia, mostras fotográficas e das. Tudo produzido por sem terras e parceiros do movimento que constroem e apoiam o projeto de Reforma Agrária Popular. Enquanto o público se diverte com as atividades artísticas, poderá se deliciar com a cozinha da roça, a culinária da melhor qualidade trazida direto dos fogões a lenha, dos fundos das casas do interior mineiro. Vem conferir!
+            Os eventos contarão com atrações como apresentações musicais, teatro, cinema, capoeira, sarau de poesia, mostras fotográficas e das. Tudo produzido por sem terras e parceiros do movimento que constroem e apoiam o projeto de Reforma Agrária Popular. Enquanto o público se diverte com as atividades artísticas, poderá se deliciar com a cozinha da roça, a culinária da melhor qualidade trazida direto dos fogões a lenha, dos fundos das casas do interior mineiro. <br>Vem conferir!
             
           </p>
         </span>
@@ -130,10 +130,7 @@ external_scripts: ["//code.jquery.com/jquery-3.1.0.min.js","//cdnjs.cloudflare.c
   </div><!-- tab-programacao -->
   {% endfor %}
 </section><!-- agenda section -->
-<section id="local" class="local">
-  <iframe style="pointer-events:none;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3751.107582528897!2d-43.9342002!3d-19.9198708!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xa699f00ada1a7f%3A0x1f9d35ed100ec0cc!2sSERRARIA+SOUZA+PINTO+-+Centro%2C+Belo+Horizonte+-+MG!5e0!3m2!1spt-BR!2sbr!4v1469216477587" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
-  </iframe>
-</section>
+<!-- remove Local/Maps  -->
 <section class="noticias" id="noticias">
   {% assign posts = site.posts  | where: "special-page", "festival" %}
   <article class="container">
