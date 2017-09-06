@@ -6,7 +6,7 @@ tags:
   - tag: circuito
 title: "Atenção Minas Gerais: já começou o Circuito Mineiro de Arte e Cultura da Reforma Agrária\n"
 support_line: "Luana Oliveira, do Setor de Cultura do MST, fala sobre a concepção do Circuito e a relação entre arte e cultura com o projeto de Reforma Agrária Popular.\n"
-images_hd: //farm5.staticflickr.com/4430/37068664585_cf68d28045_b.jpg
+images_hd: //farm5.staticflickr.com/4333/36234663754_44604ac1f0_b.jpg
 menu: "educação, cultura e comunicação"
 layout: post
 files:
@@ -17,6 +17,13 @@ files:
     small: //farm5.staticflickr.com/4430/37068664585_cf68d28045_n.jpg
     title: WhatsApp Image 2017-09-05 at 19.11.39.jpeg
     $$hashKey: 0KC
+  - link: //farm5.staticflickr.com/4333/36234663754_44604ac1f0_b.jpg
+    original: //farm5.staticflickr.com/4333/36234663754_da59d5e5ab_o.jpg
+    thumbnail: //farm5.staticflickr.com/4333/36234663754_44604ac1f0_t.jpg
+    medium: //farm5.staticflickr.com/4333/36234663754_44604ac1f0_z.jpg
+    small: //farm5.staticflickr.com/4333/36234663754_44604ac1f0_n.jpg
+    title: maxresdefault.jpg
+    $$hashKey: 13T
 created_date: "2017-09-06T14:38:51-03:00"
 published: true
 releated_posts:
@@ -29,6 +36,12 @@ releated_posts:
   - _posts/2017/06/2017-07-01-no-ceara-escola-do-campo-recebe-ii-festival-de-arte-e-cultura-da-reforma-agraria.md
 
 ---
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2017-09-05 at 19.11.39.jpeg" height="467" src="//farm5.staticflickr.com/4430/37068664585_cf68d28045_b.jpg" width="700" />
+<figcaption>Luana Oliveira, da Coordena&ccedil;&atilde;o Nacional do Coletivo de Cultura do MST</figcaption>
+</figure>
+</div>
+
 <p><br />
 <em>Por Leonardo Fernandes<br />
 Da P&aacute;gina do MST</em></p>
