@@ -43,11 +43,14 @@ releated_posts:
 Do Brasil de Fato&nbsp;</em></p>
 
 <p><br />
-O Projeto de Lei Or&ccedil;ament&aacute;ria Anual (PLOA) de 2018, enviado por Michel Temer ao Congresso, promove cortes severos em a&ccedil;&otilde;es estrat&eacute;gicas para a popula&ccedil;&atilde;o do campo, quilombolas e ind&iacute;genas.<br />
+O Projeto de Lei Or&ccedil;ament&aacute;ria Anual (PLOA) de 2018, enviado por Michel Temer ao Congresso, promove cortes severos em a&ccedil;&otilde;es estrat&eacute;gicas para a popula&ccedil;&atilde;o do campo, quilombolas e ind&iacute;genas.</p>
+
+<p><br />
 Segundo estudo apresentado por Gerson Teixeira, ex-presidente da Associa&ccedil;&atilde;o Brasileira de Reforma Agr&aacute;ria, e Jo&atilde;o Intini, assessor t&eacute;cnico da lideran&ccedil;a do Partido dos Trabalhadores na C&acirc;mara, a queda pode chegar a 95%, na compara&ccedil;&atilde;o com 2015.</p>
 
 <p><br />
 Isso, porque o valor destinado &agrave; obten&ccedil;&atilde;o de terras para a reforma agr&aacute;ria para 2018 ser&aacute; de R$ 34,2 milh&otilde;es. Em 2015, ainda no governo da presidenta Dilma Rousseff, esse valor chegou a R$ 800 milh&otilde;es.<br />
+<br />
 Para Alexandre Concei&ccedil;&atilde;o, coordenador nacional do Movimento dos Trabalhadores Rurais Sem Terra (MST), o governo vai criar ainda mais instabilidade nas &aacute;reas rurais.</p>
 
 <p><br />
