@@ -29,7 +29,7 @@
 
 body {
   @include media($desktop) {
-    $left: radial-gradient(#FFFDEF, rgba(255,253,239,0.5)),url("//farm8.staticflickr.com/7241/26949842432_d20f3b5bc5_b.jpg");
+    $left: "//farm8.staticflickr.com/7241/26949842432_d20f3b5bc5_b.jpg";
     $right: "//farm4.staticflickr.com/7490/27010978706_36eb968e2e_b.jpg";
     background-image: url($left), url($right);
     background-position: left bottom, right bottom;
@@ -250,6 +250,7 @@ body {
    font-size: 1em;
    line-height: 1.6em;
    padding: 0 20px;
+
    text-shadow: 0px 0px 1px #aeaeae;
   }
 }
@@ -348,10 +349,10 @@ body {
   }
 
   ul li:nth-child(even) {
-   background-color: rgba(228,148,118,1);
+   background-color: #d8157d;
   }
   ul li:nth-child(odd) {
-   background-color: rgba(159,138,159,1);
+   background-color: #50b9b5;
   }
   ul li {
 		font-size: 1.2em;
