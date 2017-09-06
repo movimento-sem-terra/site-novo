@@ -29,7 +29,7 @@
 
 body {
   @include media($desktop) {
-    $left: "//farm5.staticflickr.com/4403/36236226774_d599c7f673_o.png";
+    $left: "//farm8.staticflickr.com/7241/26949842432_d20f3b5bc5_b.jpg";
     $right: "//farm4.staticflickr.com/7490/27010978706_36eb968e2e_b.jpg";
     background-image: url($left), url($right);
     background-position: left bottom, right bottom;
@@ -95,7 +95,7 @@ body {
     max-width: 720px;
     height: 100%;
     width: 100%;
-    background-image: url(/assets/img/festival/capa.png);
+    background-image: url("//farm5.staticflickr.com/4403/36236226774_d599c7f673_o.png");
     background-repeat: no-repeat;
   }
 }
