@@ -38,7 +38,7 @@ external_scripts: ["//code.jquery.com/jquery-3.1.0.min.js","//cdnjs.cloudflare.c
           </a>
         </span>
         <span class="feira">
-          + Feira da Reforma Agrária
+          + Feira da Reforma Agrária <br>
         </span>
       </figure>
       <section class="frase">
@@ -66,11 +66,8 @@ external_scripts: ["//code.jquery.com/jquery-3.1.0.min.js","//cdnjs.cloudflare.c
               Apresentação
             </a>
           </li>
-          <li>
-            <a data-animation="scroll" data-offset="132"  href="#agenda">
-              Agenda
-            </a>
-          </li>
+          <!-- remove <li> agenda  -->
+
           
           <!-- remove <li> local  -->
           <li>
@@ -97,39 +94,8 @@ external_scripts: ["//code.jquery.com/jquery-3.1.0.min.js","//cdnjs.cloudflare.c
     frameborder="0" allowfullscreen>
   </iframe>
 </section><!-- apresentacao section -->
-<section class="agenda" id="agenda">
-  <ul id="tabs">
-    {% for p in site.data.festival.programacao %}
-    <li>
-      <a href="#tab-informacao-{{ forloop.index }}">
-        {{ p.dia }}
-      </a>
-    </li>
-    {% endfor %}
-  </ul>
-  {% for p in site.data.festival.programacao %}
-  <div id="tab-informacao-{{ forloop.index }}" class="filter">
-    {% for e in p.eventos %}
-    <section class="programacao">
-      <article class="item-content">
-        <div class="item-image-content">
-          <span class="bold">{{ e.horario }}</span>
-        </div>
-
-        <div class="item-content divisor">
-          <div class="day-container">
-            <h3 class="day-schedule">{{ e.nome }}</h3>
-            {% for item in e.detalhes %}
-            <p class="item">{{ item }}</p>
-            {% endfor %}
-          </div>
-        </div>
-      </article>
-    </section><!-- programacao filter -->
-    {% endfor %}
-  </div><!-- tab-programacao -->
-  {% endfor %}
-</section><!-- agenda section -->
+<!-- remove section Selecionados  -->
+<!-- remove agenda section -->
 <!-- remove Local/Maps  -->
 <section class="noticias" id="noticias">
   {% assign posts = site.posts  | where: "special-page", "festival" %}
