@@ -29,7 +29,7 @@
 
 body {
   @include media($desktop) {
-    $left: "//farm8.staticflickr.com/7241/26949842432_d20f3b5bc5_b.jpg";
+    $left: "//farm5.staticflickr.com/4403/36236226774_d599c7f673_o.png";
     $right: "//farm4.staticflickr.com/7490/27010978706_36eb968e2e_b.jpg";
     background-image: url($left), url($right);
     background-position: left bottom, right bottom;
