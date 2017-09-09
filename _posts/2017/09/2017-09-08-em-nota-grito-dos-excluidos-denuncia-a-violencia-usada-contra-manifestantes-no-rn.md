@@ -5,7 +5,7 @@ tags:
   - tag: violência
   - tag: rio-grande-do-norte
 images_hd: //farm5.staticflickr.com/4390/36293063483_00985381ce_b.jpg
-title: "Em nota, Grito dos Excluídos denuncia a violência usada contra manifestantes no RN"
+title: Grito dos Excluídos denuncia a violência usada contra manifestantes no RN
 support_line: "Movimento legítimo e pacífico, o grito incomoda a quem? Gritar por saúde, educação, segurança, cultura, moradia, terra expõe a má gestão dos recursos públicos e a desigualdade que assola a cidade, o estado e o país."
 menu: direitos humanos
 layout: post
