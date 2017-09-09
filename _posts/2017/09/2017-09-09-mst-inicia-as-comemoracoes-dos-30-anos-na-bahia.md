@@ -4,7 +4,7 @@ tags:
   - tag: bahia
   - tag: reforma-agrária-popular
   - tag: comemorações
-title: "\nMST inicia as comemorações dos 30 anos na Bahia"
+title: MST inicia as comemorações dos 30 anos na Bahia
 support_line: Foi com o sentimento de luta e a “mística revolucionária” apontada nas canções e gritos de ordem que foi oficializado o início das comemorações.
 menu: reforma agrária
 images_hd: //farm5.staticflickr.com/4428/36923941566_19208db4c0_b.jpg
@@ -17,8 +17,29 @@ files:
     small: //farm5.staticflickr.com/4428/36923941566_19208db4c0_n.jpg
     title: photo_2017-09-08_16-45-50.jpg
     $$hashKey: "034"
+  - link: //farm5.staticflickr.com/4344/37112402935_197010efbe_b.jpg
+    original: //farm5.staticflickr.com/4344/37112402935_a9aca266e0_o.jpg
+    thumbnail: //farm5.staticflickr.com/4344/37112402935_197010efbe_t.jpg
+    medium: //farm5.staticflickr.com/4344/37112402935_197010efbe_z.jpg
+    small: //farm5.staticflickr.com/4344/37112402935_197010efbe_n.jpg
+    title: photo_2017-09-08_16-45-58.jpg
+    $$hashKey: 0AW
+  - link: //farm5.staticflickr.com/4355/36923984536_c5eaa21d4b_b.jpg
+    original: //farm5.staticflickr.com/4355/36923984536_46e70e4cb9_o.jpg
+    thumbnail: //farm5.staticflickr.com/4355/36923984536_c5eaa21d4b_t.jpg
+    medium: //farm5.staticflickr.com/4355/36923984536_c5eaa21d4b_z.jpg
+    small: //farm5.staticflickr.com/4355/36923984536_c5eaa21d4b_n.jpg
+    title: Daniela Moura-07092017-4862 1.jpg
+    $$hashKey: 0AZ
+  - link: //farm5.staticflickr.com/4399/36942350852_90cc9336f7_b.jpg
+    original: //farm5.staticflickr.com/4399/36942350852_9c9cd16bbe_o.jpg
+    thumbnail: //farm5.staticflickr.com/4399/36942350852_90cc9336f7_t.jpg
+    medium: //farm5.staticflickr.com/4399/36942350852_90cc9336f7_z.jpg
+    small: //farm5.staticflickr.com/4399/36942350852_90cc9336f7_n.jpg
+    title: photo_2017-09-08_16-46-07.jpg
+    $$hashKey: 0B2
 created_date: "2017-09-08T21:57:13-03:00"
-published: false
+published: true
 releated_posts:
   - _posts/2017/08/2017-08-24-uma-historia-de-luta-e-resistencia-em-defesa-da-terra.md
   - _posts/2017/08/2017-08-25-em-1987-nao-tinhamos-ideia-no-que-a-luta-no-40-45-se-tornaria.md
@@ -27,17 +48,30 @@ releated_posts:
 ---
 <p>&nbsp;</p>
 
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="photo_2017-09-08_16-45-50.jpg" height="466" src="//farm5.staticflickr.com/4428/36923941566_19208db4c0_b.jpg" width="700" />
+<figcaption></figcaption>
+</figure>
+</div>
+
+<p>&nbsp;</p>
+
 <p><em>Por Coletivo de Comunica&ccedil;&atilde;o do MST na Bahia<br />
 Do Voz do Movimento</em></p>
 
 <p><br />
-Ao construir os passos dados por cada trabalhador Sem Terra durante a primeira ocupa&ccedil;&atilde;o realizada pelo MST no estado da Bahia, uma grande marcha dentro do Assentamento 40 45, em Alcoba&ccedil;a, fruto dessa luta, d&aacute; in&iacute;cio as comemora&ccedil;&otilde;es dos 30 anos do Movimento nesta &uacute;ltima quinta-feira (7).</p>
+Ao construir os passos dados por cada trabalhador Sem Terra durante a primeira ocupa&ccedil;&atilde;o realizada pelo MST no estado da Bahia, uma grande marcha dentro do Assentamento 40 45, munic&iacute;pio de Alcoba&ccedil;a, fruto dessa luta, d&aacute; in&iacute;cio as comemora&ccedil;&otilde;es dos 30 anos do Movimento nesta &uacute;ltima quinta-feira (7).</p>
 
 <p><br />
 Com mudas nas m&atilde;os, olhares atentos e passos vagarosos em dire&ccedil;&atilde;o ao local exato onde a primeira foice cortou o arame farpado, na madrugada do dia 07 de setembro de 1987, a simbologia da luta &eacute; reconstru&iacute;da.</p>
 
 <p><br />
 &ldquo;Nos comprometemos a permanecer em movimento contra a explora&ccedil;&atilde;o, o agroneg&oacute;cio e o capital&rdquo;, enfatizavam os marchantes, ao apontar a import&acirc;ncia da constru&ccedil;&atilde;o coletiva de mais 30 anos de luta em defesa da Reforma Agr&aacute;ria.</p>
+
+<figure class="image" style="float:left"><img alt="photo_2017-09-08_16-45-58.jpg" height="266" src="//farm5.staticflickr.com/4344/37112402935_197010efbe_b.jpg" width="400" />
+<figcaption><em>Marcha tradicional de comemora&ccedil;&atilde;o ao anivers&aacute;rio do MST<br />
+no Assentamento 40 45. </em></figcaption>
+</figure>
 
 <p><br />
 A comemora&ccedil;&atilde;o tem o objetivo de reunir e celebrar as conquistas que o MST tem protagonizado atrav&eacute;s do enfrentamento permanente, organiza&ccedil;&atilde;o e forma&ccedil;&atilde;o.</p>
@@ -57,6 +91,10 @@ Jos&eacute; Mendes da Mota, da dire&ccedil;&atilde;o estadual do MST, participou
 <p><br />
 Ao longo desses 30 anos na Bahia, o MST possu&iacute; 20.467 fam&iacute;lias acampadas distribu&iacute;das em 218 acampamentos e 10.397 fam&iacute;lias assentadas em 146 assentamentos.</p>
 
+<figure class="image" style="float:right"><img alt="Daniela Moura-07092017-4862 1.jpg" height="267" src="//farm5.staticflickr.com/4355/36923984536_c5eaa21d4b_b.jpg" width="400" />
+<figcaption></figcaption>
+</figure>
+
 <p><br />
 Al&eacute;m disso, tem realizado diversos acampamentos e cursos de forma&ccedil;&atilde;o com as Mulheres e a Juventude; constru&iacute;do ve&iacute;culos de comunica&ccedil;&atilde;o populares e livres; desenvolvido mecanismos de coopera&ccedil;&atilde;o e agroind&uacute;stria; fomentado a realiza&ccedil;&atilde;o de feiras em todo estado; consolidado a pauta da agroecologia no bojo das lutas; criado escolas no campo e defendido uma educa&ccedil;&atilde;o digna e popular; entrado nas universidades p&uacute;blicas e formado pedagogos, agr&ocirc;nomos, advogados, jornalistas, professores, t&eacute;cnicos em sa&uacute;de, em coopera&ccedil;&atilde;o agr&iacute;cola; ocupado o latif&uacute;ndio improdutivo e denunciado as contradi&ccedil;&otilde;es do capital.</p>
 
@@ -71,6 +109,10 @@ Fabya Reis, secret&aacute;ria de promo&ccedil;&atilde;o da igualdade racial e mi
 
 <p><br />
 Nesse sentido, Jo&atilde;o Paulo Rodrigues, da dire&ccedil;&atilde;o nacional do MST, destacou elementos da hist&oacute;ria, com foco no protagonismo nordestino para constru&ccedil;&atilde;o do Movimento a n&iacute;vel nacional. &ldquo;&Eacute; desse ponto do nordeste que sa&iacute; quadros pol&iacute;ticos, formula&ccedil;&otilde;es e muitas lutas contra o agroneg&oacute;cio&rdquo;, enfatizou.</p>
+
+<figure class="image" style="float:left"><img alt="photo_2017-09-08_16-46-07.jpg" height="266" src="//farm5.staticflickr.com/4399/36942350852_90cc9336f7_b.jpg" width="400" />
+<figcaption><em>Jo&atilde;o Paulo Rodrigues no ato de abertura &agrave;s comemora&ccedil;&otilde;es.</em></figcaption>
+</figure>
 
 <p><br />
 <strong>Programa&ccedil;&atilde;o</strong></p>
