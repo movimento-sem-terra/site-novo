@@ -31,6 +31,7 @@ releated_posts:
   - _posts/2017/07/2017-07-26-sem-terra-ocupam-perimetro-irrigado-no-rio-grande-do-norte.md
   - _posts/2017/08/2017-08-03-no-rio-grande-do-norte-sem-terra-ocupam-mais-um-local-no-perimetro-irrigado-do-apodi.md
   - _posts/2017/08/2017-08-05-um-caminho-possivel-producao-de-alimentos-saudaveis-e-preservacao-ambiental.md
+section: featured-news
 
 ---
 <div style="text-align:center">
@@ -56,4 +57,4 @@ Os sujeitos Sem Terra, reconhecem que o Movimento foi e &eacute; constru&iacute;
 Portanto, queremos comemorar e compartilhar os frutos de nossas lutas com toda a classe trabalhadora, e fazer do nosso Circuito Cultural e Mostra de Feira da Reforma Agr&aacute;ria popular, um espa&ccedil;o de di&aacute;logo, de trabalho de base e disputa da sociedade nessa conjuntura de golpe, de ataques ao povo brasileiro e de criminaliza&ccedil;&atilde;o da luta popular.</p>
 
 <p><br />
-Confirme participa&ccedil;&atilde;o no evento <a href="https://goo.gl/mygu8B">aqui&nbsp;&nbsp;</a></p>
+Confirme participa&ccedil;&atilde;o no evento <a href="https://goo.gl/mygu8B">aqui </a></p>
