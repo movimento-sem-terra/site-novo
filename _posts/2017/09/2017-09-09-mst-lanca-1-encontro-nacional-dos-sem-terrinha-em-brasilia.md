@@ -5,11 +5,11 @@ tags:
   - tag: encontro-nacional
   - tag: brasília
   - tag: lançamento
-title: MST lança 1° Encontro Nacional dos Sem Terrinha em Brasília
+title: MST lança 1° Encontro Nacional das crianças Sem Terrinha em Brasília
 sector: education
 section: null
 menu: "educação, cultura e comunicação"
-support_line: Cerca de 30 Sem Terrinha participam da oficina preparatória para o encontro nacional na capital federal.
+support_line: 30 crianças Sem Terrinha participam da oficina preparatória para o encontro nacional na capital federal.
 images_hd: //farm5.staticflickr.com/4442/36943297082_da09cabef8_b.jpg
 layout: post
 files:
@@ -54,10 +54,10 @@ Da P&aacute;gina do MST<br />
 Fotos: Iara Kauanne**</em></p>
 
 <p><br />
-Estamos no lan&ccedil;amento do 1&deg; encontro nacional dos Sem Terrinha e participando da oficina preparat&oacute;ria que &eacute; para organizar esse encontro e nos ensinar a fazer um monte de coisas.</p>
+Estamos no lan&ccedil;amento do 1&deg; Encontro Nacional das crian&ccedil;as Sem Terrinha e participando da oficina preparat&oacute;ria que &eacute; para organizar esse encontro e nos ensinar a fazer um monte de coisas.</p>
 
 <p><br />
-Somos n&oacute;s, os Sem Terrinha, que vamos coordenar o encontro, que ser&aacute; em um galp&atilde;o gigante, e receber&aacute; 1000 crian&ccedil;as de todo o pa&iacute;s.</p>
+Somos n&oacute;s, os/as Sem Terrinha, que vamos coordenar o encontro, que ser&aacute; em um galp&atilde;o gigante, e receber&aacute; 1000 crian&ccedil;as de todo o pa&iacute;s.</p>
 
 <p><br />
 <a href="https://www.facebook.com/MovimentoSemTerra/videos/1718856404853733/"><strong><em>Veja como foi o lan&ccedil;amento transmitido ao vivo na fanpage do MST por Thaine Carneiro***</em></strong></a></p>
@@ -69,7 +69,7 @@ Somos n&oacute;s, os Sem Terrinha, que vamos coordenar o encontro, que ser&aacut
 <p><br />
 <strong><em>Nota da editora:</em></strong><br />
 <br />
-Desde a quarta-feira (6), cerca de 30 Sem Terrinha participam da oficina preparat&oacute;ria para o encontro nacional na capital federal para a realiza&ccedil;&atilde;o do 1&ordm; Encontro Nacional dos Sem Terrinha, que ocorrer&aacute; em 2018, em Bras&iacute;lia.</p>
+Desde a quarta-feira (6),&nbsp;30 crian&ccedil;as Sem Terrinha participam da oficina preparat&oacute;ria para o Encontro Nacional dos Sem Terrinha, que ocorrer&aacute; em 2018 na capital federal, Bras&iacute;lia.</p>
 
 <p><br />
 O lan&ccedil;amento do encontro que ocorreu no Sinpro-DF, na noite de quarta-feira (6), contou com a presen&ccedil;a de organiza&ccedil;&otilde;es sindicais e movimentos populares que saudaram a iniciativa do Movimento e parabenizaram as crian&ccedil;as Sem Terrinha pela participa&ccedil;&atilde;o e condu&ccedil;&atilde;o do processo.</p>
@@ -79,7 +79,9 @@ O lan&ccedil;amento do encontro que ocorreu no Sinpro-DF, na noite de quarta-fei
 </figure>
 
 <p><br />
-O objetivo da oficina &eacute; que os pequenos ajudem a pensar a programa&ccedil;&atilde;o do evento, mas tamb&eacute;m se preparem politicamente para lidar com temas da atualidade.<br />
+O objetivo da oficina &eacute; que os pequenos ajudem a pensar a programa&ccedil;&atilde;o do evento, mas tamb&eacute;m se preparem politicamente para lidar com temas da atualidade.</p>
+
+<p><br />
 A oficina preparat&oacute;ria se encerra neste s&aacute;bado (9) e inclui v&aacute;rias atividades de forma&ccedil;&atilde;o como audiovisual, dan&ccedil;a, atelier e comunica&ccedil;&atilde;o popular.</p>
 
 <p><br />
