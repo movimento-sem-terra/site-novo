@@ -4,7 +4,7 @@ tags:
   - tag: circuito
   - tag: arte-e-cultura
   - tag: minas-gerais
-title: Começou a etapa de Montes Claros do Circuito Mineiro de Arte e Cultura da Reforma Agrária
+title: Montes Claros recebe Circuito Mineiro de Arte e Cultura da Reforma Agrária
 support_line: "As atrações seguem até o domingo, com apresentações de músicos regionais."
 menu: "educação, cultura e comunicação"
 images_hd: //farm5.staticflickr.com/4342/36963346021_a010e6d9f9_b.jpg
