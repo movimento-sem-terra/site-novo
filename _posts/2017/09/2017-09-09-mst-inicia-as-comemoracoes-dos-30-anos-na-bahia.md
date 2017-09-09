@@ -69,8 +69,8 @@ Com mudas nas m&atilde;os, olhares atentos e passos vagarosos em dire&ccedil;&at
 &ldquo;Nos comprometemos a permanecer em movimento contra a explora&ccedil;&atilde;o, o agroneg&oacute;cio e o capital&rdquo;, enfatizavam os marchantes, ao apontar a import&acirc;ncia da constru&ccedil;&atilde;o coletiva de mais 30 anos de luta em defesa da Reforma Agr&aacute;ria.</p>
 
 <figure class="image" style="float:left"><img alt="photo_2017-09-08_16-45-58.jpg" height="266" src="//farm5.staticflickr.com/4344/37112402935_197010efbe_b.jpg" width="400" />
-<figcaption><em>Marcha tradicional de comemora&ccedil;&atilde;o ao anivers&aacute;rio do MST<br />
-no Assentamento 40 45. </em></figcaption>
+<figcaption><em>Marcha tradicional de comemora&ccedil;&atilde;o ao anivers&aacute;rio<br />
+do MST no Assentamento 40 45. </em></figcaption>
 </figure>
 
 <p><br />
@@ -111,7 +111,8 @@ Fabya Reis, secret&aacute;ria de promo&ccedil;&atilde;o da igualdade racial e mi
 Nesse sentido, Jo&atilde;o Paulo Rodrigues, da dire&ccedil;&atilde;o nacional do MST, destacou elementos da hist&oacute;ria, com foco no protagonismo nordestino para constru&ccedil;&atilde;o do Movimento a n&iacute;vel nacional. &ldquo;&Eacute; desse ponto do nordeste que sa&iacute; quadros pol&iacute;ticos, formula&ccedil;&otilde;es e muitas lutas contra o agroneg&oacute;cio&rdquo;, enfatizou.</p>
 
 <figure class="image" style="float:left"><img alt="photo_2017-09-08_16-46-07.jpg" height="266" src="//farm5.staticflickr.com/4399/36942350852_90cc9336f7_b.jpg" width="400" />
-<figcaption><em>Jo&atilde;o Paulo Rodrigues no ato de abertura &agrave;s comemora&ccedil;&otilde;es.</em></figcaption>
+<figcaption><em>Jo&atilde;o Paulo Rodrigues no ato de abertura &agrave;s<br />
+comemora&ccedil;&otilde;es.</em></figcaption>
 </figure>
 
 <p><br />
