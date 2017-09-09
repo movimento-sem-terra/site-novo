@@ -10,7 +10,7 @@ sector: education
 section: null
 menu: "educação, cultura e comunicação"
 support_line: Cerca de 30 Sem Terrinha participam da oficina preparatória para o encontro nacional na capital federal.
-images_hd: //farm5.staticflickr.com/4389/36300732493_6fd6163a15_b.jpg
+images_hd: //farm5.staticflickr.com/4442/36943297082_da09cabef8_b.jpg
 layout: post
 files:
   - link: //farm5.staticflickr.com/4389/36300732493_6fd6163a15_b.jpg
@@ -20,13 +20,6 @@ files:
     small: //farm5.staticflickr.com/4389/36300732493_6fd6163a15_n.jpg
     title: IMG_7228.jpg
     $$hashKey: 05P
-  - link: //farm5.staticflickr.com/4442/37113391715_1a4fc231b5_b.jpg
-    original: //farm5.staticflickr.com/4442/37113391715_7e17ec1739_o.jpg
-    thumbnail: //farm5.staticflickr.com/4442/37113391715_1a4fc231b5_t.jpg
-    medium: //farm5.staticflickr.com/4442/37113391715_1a4fc231b5_z.jpg
-    small: //farm5.staticflickr.com/4442/37113391715_1a4fc231b5_n.jpg
-    title: IMG_7336.jpg
-    $$hashKey: "061"
   - link: //farm5.staticflickr.com/4442/36943297082_da09cabef8_b.jpg
     original: //farm5.staticflickr.com/4442/36943297082_9002c52cdc_o.jpg
     thumbnail: //farm5.staticflickr.com/4442/36943297082_da09cabef8_t.jpg
@@ -34,6 +27,13 @@ files:
     small: //farm5.staticflickr.com/4442/36943297082_da09cabef8_n.jpg
     title: IMG_7197.jpg
     $$hashKey: "064"
+  - link: //farm5.staticflickr.com/4423/36716971720_7b70531d34_b.jpg
+    original: //farm5.staticflickr.com/4423/36716971720_e8118c5257_o.jpg
+    thumbnail: //farm5.staticflickr.com/4423/36716971720_7b70531d34_t.jpg
+    medium: //farm5.staticflickr.com/4423/36716971720_7b70531d34_z.jpg
+    small: //farm5.staticflickr.com/4423/36716971720_7b70531d34_n.jpg
+    title: IMG_7057.jpg
+    $$hashKey: 05A
 created_date: "2017-09-08T23:24:46-03:00"
 published: true
 releated_posts:
@@ -43,10 +43,8 @@ releated_posts:
   - _posts/2017/08/2017-08-21-em-minas-gerais-sem-terrinhas-comemoram-um-ano-do-viveiro-de-mudas-silvino-gouveia.md
 
 ---
-<p>&nbsp;</p>
-
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="IMG_7228.jpg" height="401" src="//farm5.staticflickr.com/4389/36300732493_6fd6163a15_b.jpg" width="700" />
+<figure class="image" style="display:inline-block"><img alt="IMG_7197.jpg" height="529" src="//farm5.staticflickr.com/4442/36943297082_da09cabef8_b.jpg" width="700" />
 <figcaption></figcaption>
 </figure>
 </div>
@@ -64,13 +62,21 @@ Somos n&oacute;s, os Sem Terrinha, que vamos coordenar o encontro, que ser&aacut
 <p><br />
 <a href="https://www.facebook.com/MovimentoSemTerra/videos/1718856404853733/"><strong><em>Veja como foi o lan&ccedil;amento transmitido ao vivo na fanpage do MST por Thaine Carneiro***</em></strong></a></p>
 
-<p><img alt="IMG_7336.jpg" src="//farm5.staticflickr.com/4442/37113391715_1a4fc231b5_b.jpg" /><br />
-<strong><em>Nota da editora:</em></strong><br />
-<br />
-Desde a quarta-feira (6), cerca de 30 Sem Terrinha participam da oficina preparat&oacute;ria para o encontro nacional na capital federal. Elas participam da oficina preparat&oacute;ria para a realiza&ccedil;&atilde;o do 1&ordm; Encontro Nacional dos Sem Terrinha, que ocorrer&aacute; em 2018, em Bras&iacute;lia.</p>
+<figure class="image" style="float:left"><img alt="IMG_7228.jpg" height="229" src="//farm5.staticflickr.com/4389/36300732493_6fd6163a15_b.jpg" width="400" />
+<figcaption></figcaption>
+</figure>
 
 <p><br />
-Durante o lan&ccedil;amento esteve presente organiza&ccedil;&otilde;es sindicais e movimentos populares que saudaram a iniciativa do Movimento e parabenizaram as crian&ccedil;as Sem Terrinha por sua desenvoltura.</p>
+<strong><em>Nota da editora:</em></strong><br />
+<br />
+Desde a quarta-feira (6), cerca de 30 Sem Terrinha participam da oficina preparat&oacute;ria para o encontro nacional na capital federal para a realiza&ccedil;&atilde;o do 1&ordm; Encontro Nacional dos Sem Terrinha, que ocorrer&aacute; em 2018, em Bras&iacute;lia.</p>
+
+<p><br />
+O lan&ccedil;amento do encontro que ocorreu no Sinpro-DF, na noite de quarta-feira (6), contou com a presen&ccedil;a de organiza&ccedil;&otilde;es sindicais e movimentos populares que saudaram a iniciativa do Movimento e parabenizaram as crian&ccedil;as Sem Terrinha pela participa&ccedil;&atilde;o e condu&ccedil;&atilde;o do processo.</p>
+
+<figure class="image" style="float:right"><img alt="IMG_7057.jpg" height="457" src="//farm5.staticflickr.com/4423/36716971720_7b70531d34_b.jpg" width="350" />
+<figcaption></figcaption>
+</figure>
 
 <p><br />
 O objetivo da oficina &eacute; que os pequenos ajudem a pensar a programa&ccedil;&atilde;o do evento, mas tamb&eacute;m se preparem politicamente para lidar com temas da atualidade.<br />
