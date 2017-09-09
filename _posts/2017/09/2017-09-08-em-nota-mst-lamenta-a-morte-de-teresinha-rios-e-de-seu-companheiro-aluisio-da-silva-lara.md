@@ -4,7 +4,7 @@ tags:
   - tag: pesar
   - tag: nota-de-falecimento
   - tag: violência-no-campo
-title: "Em nota, MST lamenta a morte de Teresinha Rios e de  seu companheiro Aluísio da Silva Lara"
+title: "Em nota, MST lamenta a morte de Teresinha Rios e de Aluísio da Silva Lara"
 support_line: "​Executores ainda mataram porcos e galinhas, transformando o local em um cenário terrível e outros animais, como vacas, desapareceram. "
 menu: direitos humanos
 images_hd: //farm5.staticflickr.com/4353/36964623471_46be12ac65_b.jpg
@@ -29,7 +29,7 @@ releated_posts:
 ---
 <p>&nbsp;</p>
 
-<p><em>Da Pagina do MST&nbsp;</em></p>
+<p><em>Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
 A ex-candidata a vice-prefeita de Nossa Senhora Livramento Tereza Rios, foi encontrada morta a tiros na tarde desta quinta-feira (07), dentro de uma propriedade rural no munic&iacute;pio. As informa&ccedil;&otilde;es s&atilde;o da Pol&iacute;cia Militar.</p>
@@ -55,10 +55,10 @@ O MST lamenta com indigna&ccedil;&atilde;o mais essa&nbsp;perca para a agricultu
 <p style="text-align: right;">&nbsp;</p>
 
 <p style="text-align: right;"><br />
-Teresinha Rios! Presente, Presente, Presente. Para sempre</p>
+<em>Teresinha Rios! Presente, Presente, Presente. Para sempre</em></p>
 
-<p style="text-align: right;">Cuiab&aacute;, 8 de setembro de 2017</p>
+<p style="text-align: right;"><em>Cuiab&aacute;, 8 de setembro de 2017</em></p>
 
-<p style="text-align: right;">Dire&ccedil;&atilde;o Estadual MST-MT</p>
+<p style="text-align: right;"><em>Dire&ccedil;&atilde;o Estadual MST-MT</em></p>
 
 <p style="text-align: right;">&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
