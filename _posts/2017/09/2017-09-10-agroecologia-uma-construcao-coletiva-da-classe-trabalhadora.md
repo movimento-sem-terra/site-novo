@@ -43,15 +43,9 @@ created_date: "2017-09-10T08:23:28-03:00"
 published: true
 releated_posts:
   - _posts/2017/01/2017-01-18-mst-lanca-campanha-em-preparacao-aos-30-anos-de-luta-na-ba.md
-  - _posts/2017/04/2017-04-18-povos-do-campo-e-das-florestas-realizam-a-5o-jornada-de-agroecologia-no-extremo-sul-da-bahia.md
-  - _posts/2017/06/2017-06-16-apos-despejo-familias-sem-terra-reocupam-fazenda-em-ribeirao-do-largo.md
-  - _posts/2017/08/2017-08-02-familias-comemoram-seis-anos-de-luta-no-pre-assentamento-irma-dorothy.md
-  - _posts/2017/08/2017-08-14-em-teixeira-de-freitas-estudantes-ocupam-nucleo-da-diretoria-regional-de-educacao.md
-  - _posts/2017/03/2017-03-01-militantes-do-mst-no-rj-visitam-escola-popular-egidio-brunetto-da-bahia.md
-  - _posts/2017/03/2017-03-22-escola-popular-lanca-o-1o-caderno-de-formacao-em-agroecologia-na-educacao-basica.md
-  - _posts/2017/03/2017-03-27-sem-terra-estudam-os-metodos-de-cooperacao-na-producao-de-alimentos-saudaveis.md
-  - _posts/2017/05/2017-05-23-na-bahia-educadores-da-reforma-agraria-debatem-agroecologia-e-politicas-educacionais.md
-  - _posts/2017/05/2017-05-24-juventude-sem-terra-debate-saude-no-campo-em-seminario-na-bahia.md
+  - _posts/2017/08/2017-08-24-uma-historia-de-luta-e-resistencia-em-defesa-da-terra.md
+  - _posts/2017/08/2017-08-25-em-1987-nao-tinhamos-ideia-no-que-a-luta-no-40-45-se-tornaria.md
+  - _posts/2017/08/2017-08-28-lucinha-mulher-guerreira-e-lutadora.md
 
 ---
 <p>&nbsp;</p>
