@@ -51,7 +51,7 @@ Da P&aacute;gina Aberta</i></p>
 
 <p>&nbsp;</p>
 
-<p>O MST&nbsp;conquistou&nbsp;<b><i>cinquenta projetos produtivos de Caprinos</i></b>&nbsp;para Assentamentos do munic&iacute;pio de Monsenhor Tabosa (CE). As comunidades contempladas ser&atilde;o: Assentamento Xique &ndash; Xique e Santana.&nbsp; A conquista &eacute; fruto das lutas do MST junto ao Governo Federal e Estadual. O Secretario de Desenvolvimento Agr&aacute;rio do Estado do Cear&aacute;, Dede Teixeira, representantes do MST e uma comitiva do Governo do Estado se reunir&atilde;o no Assentamento Santana, no pr&oacute;ximo dia 16 de setembro, &agrave;s 9 horas, onde participam da entrega de&nbsp;600 matrizes de caprinos para fam&iacute;lias assentadas.</p>
+<p>O MST&nbsp;conquistou&nbsp;<b><i>cinquenta projetos produtivos de Caprinos</i></b>&nbsp;para Assentamentos do munic&iacute;pio de Monsenhor Tabosa (CE). As comunidades contempladas ser&atilde;o: Assentamento Xique &ndash; Xique e Santana.&nbsp; A conquista &eacute; fruto das lutas do MST junto ao Governo Federal e Estadual.&nbsp;</p>
 
 <p><br />
 Os projetos produtivos conquistados pelo MST ser&atilde;o implantados em diversos munic&iacute;pios do Cear&aacute;, dentre estes: Monsenhor Tabosa, Tamboril, Crate&uacute;s, Santa Quit&eacute;ria, Quixeramobim, Madalena e Canind&eacute;. De acordo com Margarida de Souza Oliveira, coordenadora do MST em Monsenhor Tabosa (CE), esse projeto &eacute; fruto de muita luta e mobiliza&ccedil;&otilde;es por&nbsp;direitos e melhores condi&ccedil;&otilde;es de vida.&nbsp;&quot;Ele tem como objetivo melhorar a renda de nossas fam&iacute;lias assentadas. Sabemos que os assentamentos &eacute; uma prova viva de que &eacute; poss&iacute;vel construir alternativas no semi&aacute;rido, mas acreditamos que temos que continuar lutando para construirmos um campo desenvolvido e que ajude a produzir alimentos de qualidade para as comunidades e para a cidade&rdquo;, diz ela.<br />
@@ -65,6 +65,9 @@ Os projetos produtivos conquistados pelo MST ser&atilde;o implantados em diverso
 
 <p><br />
 Os recursos para os projetos produtivos s&atilde;o oriundos do Governo Federal e foram disponibilizado no segundo mandato da presidenta Dilma&nbsp;por meio do Instituto de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra), em parceria com o Governo do Estado do Cear&aacute;. Cada fam&iacute;lia beneficiada ir&aacute; receber 15 matrizes de caprinos de leite e um reprodutor.&nbsp;</p>
+
+<p><br />
+O ato de entrega das 600 matrizes de caprinos para as fam&iacute;lias assentadas ocorre no no pr&oacute;ximo s&aacute;bado (16), &agrave;s 9 horas, no Assentamento Santana, com a presen&ccedil;a do&nbsp;secret&aacute;rio de Desenvolvimento Agr&aacute;rio do Estado do Cear&aacute;, Ded&eacute;&nbsp;Teixeira, representantes do MST e uma comitiva do Governo do Estado.</p>
 
 <p>&nbsp;</p>
 
