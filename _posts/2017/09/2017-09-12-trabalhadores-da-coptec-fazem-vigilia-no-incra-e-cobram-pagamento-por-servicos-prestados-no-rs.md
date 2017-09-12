@@ -4,7 +4,7 @@ tags:
   - tag: rio-grande-do-sul
   - tag: porto-alegre
   - tag: incra
-title: Trabalhadores da Coptec fazem vigília no Incra e cobram pagamento por serviços prestados no RS
+title: Trabalhadores da Coptec fazem vigília no Incra de Porto Alegre por salários atrasados
 support_line: Técnicos estão desde o último mês de fevereiro sem receber salário.
 images_hd: //farm5.staticflickr.com/4429/37014841032_26729dd064_b.jpg
 menu: lutas e mobilizações
