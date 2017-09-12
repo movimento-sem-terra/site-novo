@@ -60,11 +60,16 @@ Atualmente, 55 trabalhadores atuam em dez n&uacute;cleos operacionais da Coptec 
 
 <p>&nbsp;</p>
 
-<figure class="image" style="float:left"><img alt="vigilia Incra - Foto Letícia Stasiak.jpg" height="202" src="//farm5.staticflickr.com/4419/37044408271_0862bcab46_b.jpg" width="350" />
-<figcaption>Trabalhadores fazem vig&iacute;lia em frente ao Incra</figcaption>
+<figure class="image" style="float:right"><img alt="vigilia Incra - Foto Letícia Stasiak.jpg" height="202" src="//farm5.staticflickr.com/4419/37044408271_0862bcab46_b.jpg" width="350" />
+<figcaption><em>Trabalhadores fazem vig&iacute;lia em frente ao Incra.</em></figcaption>
 </figure>
 
-<p><span style="text-align: center; background-color: rgba(0, 0, 0, 0.05);">Segundo &Aacute;lvaro Delatorre, presidente da cooperativa, a n&atilde;o libera&ccedil;&atilde;o dos recursos financeiros e or&ccedil;ament&aacute;rios por parte do Incra est&aacute; provocando a falta de pagamento dos trabalhadores da cooperativa, que est&atilde;o desde o &uacute;ltimo m&ecirc;s de fevereiro sem receber seus sal&aacute;rios. Isto tamb&eacute;m implica diretamente na inviabilidade da assist&ecirc;ncia t&eacute;cnica nos assentamentos.</span><br />
+<p>Segundo
+<style type="text/css">p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; color: #454545}
+</style>
+&nbsp;&Aacute;lvaro Delatorre, presidente da cooperativa, a n&atilde;o libera&ccedil;&atilde;o dos valores financeiros e or&ccedil;ament&aacute;rios por parte do Incra est&aacute; provocando a falta de pagamento dos trabalhadores da cooperativa, que est&atilde;o desde o &uacute;ltimo m&ecirc;s de fevereiro sem receber seus sal&aacute;rios. Isto tamb&eacute;m implica diretamente na inviabilidade da assist&ecirc;ncia t&eacute;cnica nos assentamentos.</p>
+
+<p><br />
 &ldquo;Diante esta situa&ccedil;&atilde;o fomos obrigados a vir ao Incra, onde vamos permanecer por tempo indeterminado, at&eacute; que o Instituto cumpra suas obriga&ccedil;&otilde;es. Tamb&eacute;m estamos aqui para defender o programa de Ater, porque acreditamos que ele &eacute; fundamental para viabilizar a Reforma Agr&aacute;ria Popular e desenvolver os assentamentos&rdquo;, explica Delatorre. Ele acrescenta que os servi&ccedil;os prestados pela Superintend&ecirc;ncia do Incra em Porto Alegre n&atilde;o ser&atilde;o afetados com a vig&iacute;lia.</p>
 
 <p>&nbsp;</p>
