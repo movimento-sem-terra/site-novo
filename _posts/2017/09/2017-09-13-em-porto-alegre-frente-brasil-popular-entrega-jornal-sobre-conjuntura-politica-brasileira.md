@@ -3,7 +3,7 @@ date: "2017-09-13T13:51:34-03:00"
 tags:
   - tag: porto-alegre
   - tag: rio-grande-do-sul
-title: "Em Porto Alegre, Frente Brasil Popular entrega jornal sobre conjuntura política brasileira"
+title: "Em Porto Alegre, Frente Brasil Popular entrega jornal sobre conjuntura brasileira"
 support_line: 50 mil exemplares de uma edição especial do Brasil de Fato são distribuídos nesta quarta-feira (13) à população da cidade.
 images_hd: //farm5.staticflickr.com/4390/36371847914_21b1017fe9_b.jpg
 menu: projeto popular
