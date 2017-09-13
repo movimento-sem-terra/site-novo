@@ -58,7 +58,7 @@ Al&eacute;m da exposi&ccedil;&atilde;o e venda de produtos que expressam toda a 
 Na programa&ccedil;&atilde;o cultural tamb&eacute;m aconteceram&nbsp;diversas atra&ccedil;&otilde;es como Regional da Nair, Grupo de forr&oacute; Chap&eacute;u de Palha, e 5. Samba, al&eacute;m de Teatro do Oprimido e o lan&ccedil;amento do livro - Poesia Sem Terra: Produ&ccedil;&atilde;o da juventude dos assentamentos do MST, editora Cousa.&nbsp;</p>
 
 <p><br />
-No Esp&iacute;rito Santo, existem nove&nbsp;assentamentos rurais, sendo que 62 s&atilde;o organizados pelo MST, num total de 2786 fam&iacute;lias assentadas em mais de 31 mil hectares de terras, que antes improdutivas agora cumprem sua fun&ccedil;&atilde;o social.</p>
+No Esp&iacute;rito Santo, existem 89 assentamentos rurais, sendo que 62 s&atilde;o organizados pelo MST, num total de 2786 fam&iacute;lias assentadas em mais de 31 mil hectares de terras, que antes improdutivas agora cumprem sua fun&ccedil;&atilde;o social.</p>
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="20800259_1901085090141850_1759154724656663549_n.jpg" height="675" src="//farm5.staticflickr.com/4356/37168057005_665890410d_b.jpg" width="500" />
