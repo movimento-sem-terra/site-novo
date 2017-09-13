@@ -8,7 +8,7 @@ title: CNBB divulga mensagem aos brasileiros para as celebrações do dia 7 de s
 images_hd: //farm5.staticflickr.com/4391/36886550211_85e98a0a64_b.jpg
 support_line: "Encorajamos, mais uma vez, as pessoas de boa vontade, particularmente em nossas comunidades, a se mobilizarem pacificamente na defesa da dignidade e dos direitos do povo brasileiro, propondo “a vida em primeiro lugar”."
 menu: lutas e mobilizações
-section: featured-news
+section: null
 layout: post
 files:
   - link: //farm5.staticflickr.com/4332/36219690513_3d4b36b503_b.jpg
