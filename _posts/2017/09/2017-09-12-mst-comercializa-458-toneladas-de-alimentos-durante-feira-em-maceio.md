@@ -7,7 +7,7 @@ title: MST comercializa 458 toneladas de alimentos durante feira em Maceió
 support_line: 18ª Feira Estadual da Reforma Agrária ocorreu na capital alagoana entre os dias 6 e 9 de setembro.
 images_hd: //farm5.staticflickr.com/4434/37018058232_7e3bc9e606_b.jpg
 menu: agricultura camponesa
-section: cover
+section: null
 layout: post
 files:
   - link: //farm5.staticflickr.com/4434/37018058232_7e3bc9e606_b.jpg
