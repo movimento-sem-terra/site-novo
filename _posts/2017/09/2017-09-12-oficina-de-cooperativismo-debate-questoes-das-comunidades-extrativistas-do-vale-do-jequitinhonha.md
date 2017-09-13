@@ -3,7 +3,7 @@ date: "2017-09-12T13:09:21-03:00"
 tags:
   - tag: minas-gerais
   - tag: arte-e-cultura
-title: Oficina de Cooperativismo debate questões das comunidades extrativistas do Vale do Jequitinhonha.
+title: Oficina debate realidade das comunidades extrativistas do Vale do Jequitinhonha
 support_line: "Atividade foi parte da programação do Circuito Mineiro de Arte e Cultura da Reforma Agrária, que ocorre entre os meses de setembro a novembro de 2017, em todas as regiões do estado de Minas Gerais."
 images_hd: //farm5.staticflickr.com/4341/37046745461_1cabe48cd9_b.jpg
 menu: "educação, cultura e comunicação"
