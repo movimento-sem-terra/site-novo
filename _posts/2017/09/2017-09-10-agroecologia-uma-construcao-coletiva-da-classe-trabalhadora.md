@@ -46,6 +46,7 @@ releated_posts:
   - _posts/2017/08/2017-08-24-uma-historia-de-luta-e-resistencia-em-defesa-da-terra.md
   - _posts/2017/08/2017-08-25-em-1987-nao-tinhamos-ideia-no-que-a-luta-no-40-45-se-tornaria.md
   - _posts/2017/08/2017-08-28-lucinha-mulher-guerreira-e-lutadora.md
+section: featured-news
 
 ---
 <p>&nbsp;</p>
