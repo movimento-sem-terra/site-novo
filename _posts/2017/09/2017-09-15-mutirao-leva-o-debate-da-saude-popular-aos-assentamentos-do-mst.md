@@ -100,4 +100,4 @@ Cerca de 100 cuidadores e m&eacute;dicos populares s&atilde;o aguardados para di
 
 <p>&nbsp;</p>
 
-<p><em>Editado por Leonardo Fernandes</em></p>
+<p><em>*Editado por Leonardo Fernandes</em></p>
