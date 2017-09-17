@@ -13,9 +13,9 @@ collections:
   banners:
 timezone: BR
 lollipop:
-  title:  II Feira Nacional da Reforma Agrária
-  link: II-feira-nacional-da-reforma-agraria
-  enabled: false
+  title:  Circuito Mineiro de Arte e Cultura da Reforma Agrária
+  link:   circuito-mineiro-de-arte-e-cultura
+  enabled: true
 gems:
   - jekyll-sitemap
 exclude:
