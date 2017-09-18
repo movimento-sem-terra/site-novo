@@ -4,7 +4,7 @@ tags:
   - tag: arte-e-cultura
   - tag: minas-gerais
   - tag: reforma-agrária
-title: "Com cinco toneladas de alimentos comercializados e 22 apresentações culturais, MST encerra 1º Festival de Arte e Cultura do Vale do Rio Doce"
+title: MST encerra 1º Festival de Arte e Cultura do Vale do Rio Doce
 support_line: O encontro entre campo e cidade reuniu cerca de 300 Sem Terras que afirmaram a alimentação saudável e a cultura popular como parte da vida de assentamentos e acampamentos da região.
 menu: "educação, cultura e comunicação"
 images_hd: //farm5.staticflickr.com/4357/36628231610_0a99022318_b.jpg
