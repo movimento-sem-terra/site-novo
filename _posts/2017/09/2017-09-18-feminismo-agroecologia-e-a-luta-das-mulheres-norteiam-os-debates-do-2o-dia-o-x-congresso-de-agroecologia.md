@@ -4,7 +4,7 @@ tags:
   - tag: agroecologia
   - tag: via-campesina
   - tag: mulheres
-title: "Feminismo, agroecologia e a luta das mulheres norteiam os debates do 2º dia o X Congresso de Agroecologia"
+title: A luta das mulheres norteiam os debates do 2º dia o X Congresso de Agroecologia
 support_line: "Para o MMC e demais movimentos que compões a Via Campesina, a agroecologia faz parte de um projeto e que não é possível qualquer tipo de conciliação com o agronegócio ou com a violência doméstica e de qualquer outra natureza"
 images_hd: //farm5.staticflickr.com/4414/37114021686_f883beb8bf_b.jpg
 menu: agricultura camponesa
