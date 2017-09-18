@@ -8,16 +8,9 @@ tags:
 title: MST faz balanço dos seus 27 anos no Rio Grande do Norte
 support_line: "O debate foi conduzido pela companheira Fátima Ribeiro, da Coordenação Nacional. Houve homenagem aos companheiros que tombaram ao longo desses 27 anos."
 menu: reforma agrária
-images_hd: //farm5.staticflickr.com/4366/37132626682_e1c4b21b79_b.jpg
+images_hd: //farm5.staticflickr.com/4441/36491865313_ae255cd2f1_b.jpg
 layout: post
 files:
-  - link: //farm5.staticflickr.com/4366/37132626682_e1c4b21b79_b.jpg
-    original: //farm5.staticflickr.com/4366/37132626682_56ff8e2376_o.jpg
-    thumbnail: //farm5.staticflickr.com/4366/37132626682_e1c4b21b79_t.jpg
-    medium: //farm5.staticflickr.com/4366/37132626682_e1c4b21b79_z.jpg
-    small: //farm5.staticflickr.com/4366/37132626682_e1c4b21b79_n.jpg
-    title: IMG_0011.JPG
-    $$hashKey: 087
   - link: //farm5.staticflickr.com/4355/36468036174_955ec3f846_b.jpg
     original: //farm5.staticflickr.com/4355/36468036174_55529b796a_o.jpg
     thumbnail: //farm5.staticflickr.com/4355/36468036174_955ec3f846_t.jpg
