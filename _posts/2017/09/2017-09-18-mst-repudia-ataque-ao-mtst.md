@@ -48,14 +48,16 @@ A ocupa&ccedil;&atilde;o do MTST fica em frente &agrave; empresa Scania e tem co
 A ocupa&ccedil;&atilde;o, que iniciou com cerca de 500 fam&iacute;lias, hoje tem sete&nbsp;mil. S&atilde;o trabalhadoras e trabalhadores em busca da moradia digna, na sua grande maioria desempregados, afetados pela grave crise econ&ocirc;mica.&nbsp;</p>
 
 <p><br />
-O judici&aacute;rio local rapidamente decidiu pela reintegra&ccedil;&atilde;o de posse da &aacute;rea, mas com um recurso no Tribunal de Justi&ccedil;a de S&atilde;o Paulo, as fam&iacute;lias conquistaram o direito de permanecer na &aacute;rea.<br />
+O judici&aacute;rio local rapidamente decidiu pela reintegra&ccedil;&atilde;o de posse da &aacute;rea, mas com um recurso no Tribunal de Justi&ccedil;a de S&atilde;o Paulo, as fam&iacute;lias conquistaram o direito de permanecer na &aacute;rea.</p>
+
+<p><br />
 Novas fam&iacute;lias n&atilde;o param de chegar. Somente em S&atilde;o Bernardo do Campo, s&atilde;o 90 mil sem teto, e 130 mil em todo ABC.&nbsp;</p>
 
 <p><br />
 Exigimos que o prefeito Orlando Morando (PSDB) mantenha um canal de di&aacute;logo e negocia&ccedil;&atilde;o com o MTST, para atendimento da pauta. E que os respons&aacute;veis por essa odiosa tentativa de massacre, sejam punidos e responsabilizados.</p>
 
 <p><br />
-Toda nossa solidariedade &agrave;s fam&iacute;lias sem teto da Ocupa&ccedil;&atilde;o Povo Sem Medo. S&oacute; quem luta, conquista!!</p>
+Toda nossa solidariedade &agrave;s fam&iacute;lias sem teto da Ocupa&ccedil;&atilde;o Povo Sem Medo. S&oacute; quem luta, conquista.</p>
 
 <p style="text-align: right;"><br />
 PELO FIM DO LATIF&Uacute;NDIO NO CAMPO E NA CIDADE!<br />
