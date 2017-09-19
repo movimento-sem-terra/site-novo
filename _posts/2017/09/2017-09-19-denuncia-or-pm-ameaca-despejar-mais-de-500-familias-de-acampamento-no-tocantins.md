@@ -8,7 +8,7 @@ title: "DENÚNCIA | PM ameaça despejar mais de 500 famílias de acampamento no 
 support_line: "Acampamento Olga Benário, localizado no município de Fortaleza to Tabocão (TO), está sob alerta por possível despejo forçado."
 images_hd: //farm5.staticflickr.com/4340/37153275932_dcb3bd4b8b_b.jpg
 menu: lutas e mobilizações
-special-page: feira-2017
+special-page: null
 layout: post
 files:
   - link: //farm5.staticflickr.com/4340/37153275932_dcb3bd4b8b_b.jpg
