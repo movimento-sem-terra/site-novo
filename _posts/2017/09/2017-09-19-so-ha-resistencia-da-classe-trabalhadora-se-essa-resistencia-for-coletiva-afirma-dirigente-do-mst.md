@@ -5,7 +5,7 @@ images_hd: //farm5.staticflickr.com/4333/37136234956_619ec8c9ca_b.jpg
 title: "\"Só há resistência da classe trabalhadora se for coletiva\", afirma dirigente do MST. "
 support_line: "1° Seminário do #Resista ocorre entre os dias 18 e 19 de setembro em Brasília (DF)."
 menu: projeto popular
-special-page: feira-2017
+special-page: null
 layout: post
 files:
   - link: //farm5.staticflickr.com/4333/37136234956_619ec8c9ca_b.jpg
@@ -87,10 +87,10 @@ No que se refere &agrave; Reforma Agr&aacute;ria, sobre a aquisi&ccedil;&atilde;
 &quot;A MP traz um processo cruel de acabar com a Reforma Agr&aacute;ria, colocando uma grande possibilidade de reconcentra&ccedil;&atilde;o da terra e perda dos territ&oacute;rios conquistados com muita luta pelas trabalhadoras e trabalhadores&quot;.&nbsp;</p>
 
 <p><br />
-J&aacute; Henrique Botelho, do Instituto P&oacute;lis, que &eacute; vinculado &agrave;&nbsp;pauta da Reforma Urbana, comenta que a agenda administrativa urbana sempre esteve do lado oposto da ambiental que &eacute; unificada pela quest&atilde;o fundi&aacute;ria. Portanto, a lei que se diz de regulariza&ccedil;&atilde;o fundi&aacute;ria &eacute; mais uma pol&iacute;tica de regulariza&ccedil;&atilde;o que vai al&eacute;m e inclui o campo como um dos principais territ&oacute;rios afetados.&nbsp;</p>
+J&aacute; Henrique Botelho, do Instituto P&oacute;lis, que &eacute; vinculado &agrave;&nbsp;pauta da Reforma Urbana, comenta que a agenda administrativa urbana sempre esteve do lado oposto da ambiental que &eacute; unificada pela quest&atilde;o fundi&aacute;ria. Portanto, a lei que se diz de regulariza&ccedil;&atilde;o fundi&aacute;ria &eacute; mais uma pol&iacute;tica de regulariza&ccedil;&atilde;o que vai al&eacute;m e inclui o campo como um dos principais territ&oacute;rios afetados.</p>
 
 <p><br />
-<span class="s1">Segundo Botelho, fazem isso &quot;s</span>ob o manto de assegurar direito &agrave; moradia, mas n&atilde;o passa de discurso, porque os instrumentos reais s&atilde;o de aliena&ccedil;&atilde;o do patrim&ocirc;nio p&uacute;blico e comum, dos segmentos, dos despossu&iacute;dos. Estamos tratando de um retrocesso que n&atilde;o come&ccedil;ou com o golpe&quot;, ressalta.&nbsp;</p>
+Segundo Botelho, fazem isso &quot;sob o manto de assegurar direito &agrave; moradia, mas n&atilde;o passa de discurso, porque os instrumentos reais s&atilde;o de aliena&ccedil;&atilde;o do patrim&ocirc;nio p&uacute;blico e comum, dos segmentos, dos despossu&iacute;dos. Estamos tratando de um retrocesso que n&atilde;o come&ccedil;ou com o golpe&quot;, ressalta.&nbsp;</p>
 
 <p><br />
 O 1&deg; semin&aacute;rio do #Resista termina nesta ter&ccedil;a-feira, 19, mas se aponta como um espa&ccedil;o fundamental de articula&ccedil;&atilde;o pol&iacute;tica e de constru&ccedil;&atilde;o de a&ccedil;&otilde;es de den&uacute;ncias e enfrentamento aos retrocessos&nbsp;que envolvem as quest&otilde;es fundi&aacute;rias, agr&aacute;rias e ambientais do governo golpista no pa&iacute;s.</p>
