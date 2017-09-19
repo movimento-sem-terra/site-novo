@@ -53,6 +53,7 @@ releated_posts:
   - _posts/2017/04/2017-04-18-superintendencia-do-incra-de-bh-e-ocupada-pelo-mst.md
   - _posts/2017/07/2017-07-18-acampados-e-acampadas-nas-terras-de-eike-batista-lutam-para-evitar-despejo.md
   - _posts/2017/09/2017-09-04-conserva-de-jurubeba-e-carne-de-lata-ja-experimentou.md
+special-page: circuito-mineiro
 
 ---
 <div style="text-align:center">
