@@ -39,6 +39,7 @@ releated_posts:
   - _posts/2017/08/2017-08-03-no-rio-grande-do-norte-sem-terra-ocupam-mais-um-local-no-perimetro-irrigado-do-apodi.md
   - _posts/2017/08/2017-08-05-um-caminho-possivel-producao-de-alimentos-saudaveis-e-preservacao-ambiental.md
 section: featured-news
+special-page: circuito-mineiro
 
 ---
 <p>&nbsp;</p>
