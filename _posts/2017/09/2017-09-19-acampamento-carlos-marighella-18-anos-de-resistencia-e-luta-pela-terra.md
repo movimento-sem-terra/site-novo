@@ -7,7 +7,7 @@ title: "Acampamento Carlos Marighella: 18 anos de resistência e luta pela terra
 support_line: "A cada dia sob a quentura da lona, o desconforto com a injustiça aumentava e isso refletia na organização de novas ocupações e na resistência das famílias."
 images_hd: //farm5.staticflickr.com/4352/37152832752_1b9f81d0ef_b.jpg
 menu: reforma agrária
-special-page: feira-2017
+special-page: null
 layout: post
 files:
   - link: //farm5.staticflickr.com/4352/37152832752_1b9f81d0ef_b.jpg
