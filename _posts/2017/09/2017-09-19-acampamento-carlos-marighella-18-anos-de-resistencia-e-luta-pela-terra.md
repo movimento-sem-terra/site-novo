@@ -38,6 +38,7 @@ releated_posts:
   - _posts/2017/09/2017-09-04-mst-realiza-curso-de-formacao-no-sudoeste-baiano.md
   - _posts/2017/09/2017-09-06-30-anos-de-enfrentamento-ao-analfabetismo.md
   - _posts/2017/09/2017-09-08-valmir-assuncao-o-deputado-sem-terra.md
+section: featured-news
 
 ---
 <p>
