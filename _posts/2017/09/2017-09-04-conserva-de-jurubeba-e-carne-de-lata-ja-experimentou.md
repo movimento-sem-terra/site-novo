@@ -46,6 +46,7 @@ releated_posts:
   - _posts/2017/08/2017-08-21-em-minas-gerais-sem-terrinhas-comemoram-um-ano-do-viveiro-de-mudas-silvino-gouveia.md
   - _posts/2017/06/2017-06-28-um-sao-joao-com-significado-de-luta-e-resgate-da-cultura-popular.md
   - _posts/2017/06/2017-06-26-lancamento-or-arte-no-campo.md
+special-page: circuito-mineiro
 
 ---
 <div style="text-align:center">
