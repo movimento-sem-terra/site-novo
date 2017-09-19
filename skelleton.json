@@ -206,7 +206,7 @@
 {
   "name": "special-page",
   "title": "Página Especial",
-  "required": true,
+  "required": false,
   "type":{
     "view": "select",
     "options": [
