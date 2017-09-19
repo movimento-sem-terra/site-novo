@@ -35,6 +35,7 @@ created_date: "2017-09-05T12:10:38-03:00"
 published: true
 releated_posts:
   - _posts/2017/06/2017-06-28-um-sao-joao-com-significado-de-luta-e-resgate-da-cultura-popular.md
+special-page: circuito-mineiro
 
 ---
 <div style="text-align:center">
