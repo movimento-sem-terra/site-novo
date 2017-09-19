@@ -3,7 +3,7 @@ date: "2017-09-19T12:10:10-03:00"
 tags: []
 images_hd: //farm5.staticflickr.com/4333/37136234956_619ec8c9ca_b.jpg
 title: "\"Só há resistência da classe trabalhadora se for coletiva\", afirma dirigente do MST. "
-support_line: "1° Seminário do #Resista ocorre entre os dias 18 e 19 de setembro em Brasília (DF).,"
+support_line: "1° Seminário do #Resista ocorre entre os dias 18 e 19 de setembro em Brasília (DF)."
 menu: projeto popular
 special-page: feira-2017
 layout: post
