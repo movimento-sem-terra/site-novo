@@ -45,6 +45,7 @@ releated_posts:
   - _posts/2017/07/2017-07-07-mostra-da-cultura-camponesa-apresenta-producao-dos-assentamentos-do-mato-grosso-do-sul.md
   - _posts/2017/09/2017-09-08-comecou-a-etapa-de-montes-claros-do-circuito-mineiro-de-arte-e-cultura-da-reforma-agraria.md
   - _posts/2017/09/2017-09-06-atencao-minas-gerais-ja-comecou-o-circuito-mineiro-de-arte-e-cultura-da-reforma-agraria.md
+special-page: circuito-mineiro
 
 ---
 <p><img alt="_MG_0036.JPG" height="467" src="//farm5.staticflickr.com/4389/37099777081_e4823fbc34_b.jpg" width="700" /></p>
