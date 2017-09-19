@@ -7,7 +7,7 @@ title: Policial que assassinou Sem Terra com tiro pelas costas vai a júri popul
 images_hd: //farm5.staticflickr.com/4411/36487626974_e289f11796_b.jpg
 support_line: "Na próxima quinta-feira (21), será realizado o júri popular do policial militar Alexandre Curto dos Santos, que assassinou com um tiro pelas costas o trabalhador rural Sem Terra Elton Brum da Silva há oito anos. "
 menu: projeto popular
-special-page: feira-2017
+special-page: null
 layout: post
 files:
   - link: //farm5.staticflickr.com/4411/36487626974_e289f11796_b.jpg
