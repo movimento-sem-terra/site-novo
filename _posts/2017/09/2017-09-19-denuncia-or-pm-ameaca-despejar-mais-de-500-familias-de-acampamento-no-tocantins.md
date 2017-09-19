@@ -45,6 +45,7 @@ releated_posts:
   - _posts/2017/08/2017-08-22-rio-grande-do-norte-acorda-em-luta.md
   - _posts/2017/05/2017-05-09-apos-ataque-de-policiais-e-jaguncos-mst-cobra-reforma-agraria-em-pernambuco.md
   - _posts/2017/05/2017-05-19-mst-condena-acao-do-poder-judiciario-de-sergipe.md
+section: cover
 
 ---
 <p>
