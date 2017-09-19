@@ -37,6 +37,7 @@ releated_posts:
   - _posts/2017/06/2017-06-14-praticas-pedagogicas-do-mst-sao-debatidas-na-universidade-do-estado-da-bahia.md
   - _posts/2017/06/2017-06-17-educadores-debatem-os-desafios-da-educacao-do-campo-no-norte-da-bahia.md
   - _posts/2017/06/2017-06-22-comissao-avalia-que-mec-esta-matando-as-licenciaturas-de-educacao-do-campo.md
+special-page: circuito-mineiro
 
 ---
 <p>
