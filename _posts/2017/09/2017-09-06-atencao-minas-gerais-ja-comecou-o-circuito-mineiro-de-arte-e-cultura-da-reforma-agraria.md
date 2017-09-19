@@ -34,6 +34,7 @@ releated_posts:
   - _posts/2017/09/2017-09-04-com-cinco-toneladas-de-alimentos-comercializados-e-22-apresentacoes-culturais-mst-encerra-1o-festival-de-arte-e-cultura-do-vale-do-rio-doce.md
   - _posts/2017/08/2017-08-16-um-ano-do-armazem-do-campo.md
   - _posts/2017/06/2017-07-01-no-ceara-escola-do-campo-recebe-ii-festival-de-arte-e-cultura-da-reforma-agraria.md
+special-page: circuito-mineiro
 
 ---
 <div style="text-align:center">
