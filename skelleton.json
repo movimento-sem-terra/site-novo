@@ -211,7 +211,7 @@
     "view": "select",
     "options": [
       {"name": "Feira 2017", "id": "feira-2017"},
-      {"name": "Jornada de Lutas 2017", "id": "jornadas-2017"}
+      {"name": "Circuito Mineiro", "id": "circuito-mineiro"}
       ]
   }
 },
