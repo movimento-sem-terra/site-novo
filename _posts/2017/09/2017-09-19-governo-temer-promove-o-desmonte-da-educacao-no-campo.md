@@ -4,7 +4,7 @@ tags:
   - tag: educação-no-campo
   - tag: pronera
   - tag: lutas
-title: "Governo Temer promove o desmonte da educação no campo\n"
+title: "Governo Temer promove o desmonte da educação do campo\n"
 support_line: "Orçamento para o Programa Nacional de Educação na Reforma Agrária (Pronera) reduziu de R$ 30 milhões em 2016, para pouco mais de 11 milhões em 2017. Previsão orçamentária para 2018 é de somente R$ 3 mi.\n"
 menu: "educação, cultura e comunicação"
 images_hd: //farm5.staticflickr.com/4413/36932255020_fae3b59173_b.jpg
