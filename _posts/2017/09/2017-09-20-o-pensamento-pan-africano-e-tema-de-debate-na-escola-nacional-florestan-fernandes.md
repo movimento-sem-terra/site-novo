@@ -39,7 +39,7 @@ files:
     title: FullSizeRender_4.jpg
     $$hashKey: 05B
 created_date: "2017-09-20T17:33:35-03:00"
-published: false
+published: true
 releated_posts:
   - _posts/2017/05/2017-05-26-construcao-historica-da-pedagogia-socialista-e-tema-de-seminario-na-escola-florestan-fernandes.md
   - _posts/2017/03/2017-03-22-a-repressao-policial-um-livro-e-joao.md
@@ -61,16 +61,16 @@ Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p>&nbsp;</p>
 
-<p>Durante cinco dias representantes de movimentos populares, organiza&ccedil;&otilde;es e articula&ccedil;&otilde;es do movimento negro no Brasil discutiram o pensamento Pan-africano na Escola Nacional Florestan Fernandes (ENFF).&nbsp;</p>
+<p>Durante cinco dias representantes de movimentos populares, organiza&ccedil;&otilde;es e articula&ccedil;&otilde;es do movimento negro no Brasil discutiram o pensamento Pan-africano na Escola Nacional Florestan Fernandes (ENFF), em Guararema/SP.&nbsp;</p>
 
 <p><br />
-O evento que ocorreu no in&iacute;cio deste m&ecirc;s de setembro, de 08 a 13, possibilitou que diversos militantes tivessem um olhar mais aprofundado sobre o tema, considerando os desafios colocados no que se refere &agrave; quest&atilde;o &eacute;tnico-racial conformada na sociedade brasileira.</p>
+O evento realizado&nbsp;no in&iacute;cio do&nbsp;m&ecirc;s de setembro, de 08 a 13, possibilitou que diversos militantes tivessem um olhar mais aprofundado sobre o tema, considerando os desafios&nbsp;no que se refere &agrave; quest&atilde;o &eacute;tnico-racial na sociedade brasileira.</p>
 
 <p><br />
 Para o professor Muryatan S. Barbosa, da Universidade Federal do ABC (UFABC), construir esse processo &eacute; um primeiro passo fundamental, uma vez que, o Pan-africanismo &eacute; mal conhecido no Brasil ainda.&nbsp;</p>
 
 <p><br />
-&ldquo;Como tradi&ccedil;&atilde;o de pensamento o pan-africanismo &eacute; importante tanto teoricamente, quanto para a supera&ccedil;&atilde;o do eurocentrismo abstrato, mas pol&iacute;tico tamb&eacute;m no Brasil. A esquerda brasileira ainda &eacute; muito euroc&ecirc;ntrica. O pan-africanismo tem muito a contribuir para que n&oacute;s consigamos prever os nossos problemas e solu&ccedil;&otilde;es de outras formas, com novos olhos. A ENFF deu um primeiro passo e espero que v&aacute; dar muitos frutos pela frente nesse campo de pesquisa e pol&iacute;tico&rdquo;.&nbsp;</p>
+&ldquo;Como tradi&ccedil;&atilde;o de pensamento o pan-africanismo &eacute; importante tanto teoricamente, quanto para a supera&ccedil;&atilde;o do eurocentrismo abstrato, mas pol&iacute;tico tamb&eacute;m no Brasil. A esquerda brasileira ainda &eacute; muito euroc&ecirc;ntrica. O pan-africanismo tem muito a contribuir para que consigamos prever os nossos problemas e solu&ccedil;&otilde;es de outras formas, com novos olhos. A ENFF deu um primeiro passo e espero que v&aacute; dar muitos frutos pela frente nesse campo de pesquisa e pol&iacute;tico&rdquo;, argumentou.&nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="IMG-2716.JPG" height="338" src="//farm5.staticflickr.com/4406/37353160805_85d1494959_b.jpg" width="450" />
 <figcaption><em>Para o professor Muryatan S. Barbosa, construir esse processo de<br />
@@ -87,25 +87,25 @@ J&aacute; Rosana Fernandes, coordenadora Pol&iacute;tica Pedag&oacute;gica da EN
 Professor da Universidade Federal de Ouro Preto (UFOP), Erisvaldo Santos que tamb&eacute;m &eacute; Babalorix&aacute; do Il&ecirc; Ax&eacute; Ogunfunmilayo (Casa de Ax&eacute; Ogum Traz Alegria), na regi&atilde;o metropolitana de BH, aponta o semin&aacute;rio como um marco para um novo momento da discuss&atilde;o racial junto &agrave; esquerda brasileira.&nbsp;</p>
 
 <p><br />
-&ldquo;Durante muito tempo a esquerda em sua grande maioria, teve problemas em pautar a quest&atilde;o do racismo, da ra&ccedil;a junto com a discuss&atilde;o de classe. Esse momento tamb&eacute;m reflete uma inflex&atilde;o no que se diz respeito &agrave; ideia que o marxismo &eacute; s&oacute; classe, conseguimos perceber que ele se atualiza, afirmando a centralidade da perspectiva de classe junto a outros elementos da estrutura de domina&ccedil;&atilde;o e das rela&ccedil;&otilde;es de poder na sociedade capitalista&rdquo;, pontuou.&nbsp;</p>
+&ldquo;Durante muito tempo a esquerda em sua maioria, teve problemas em pautar a quest&atilde;o do racismo, da ra&ccedil;a junto com a discuss&atilde;o de classe. Esse momento tamb&eacute;m reflete uma inflex&atilde;o no que diz respeito &agrave; ideia que o marxismo &eacute; s&oacute; classe.&nbsp;Conseguimos perceber que ele se atualiza, afirmando a centralidade da perspectiva de classe junto a outros elementos da estrutura de domina&ccedil;&atilde;o e das rela&ccedil;&otilde;es de poder na sociedade capitalista&rdquo;, pontuou.&nbsp;</p>
 
 <p><br />
 <strong>O pensamento pan-africano&nbsp;</strong></p>
 
 <p><br />
-O pan-africanismo n&atilde;o &eacute; apenas sobre um processo hist&oacute;rico, &eacute; preciso entend&ecirc;-lo como um movimento ideol&oacute;gico e pol&iacute;tico de emancipa&ccedil;&atilde;o dos africanos que tamb&eacute;m envolve as rela&ccedil;&otilde;es sociais de ra&ccedil;a, classe e g&ecirc;nero para assim enfrentar e superar as formas de opress&atilde;o do capitalismo.&nbsp;</p>
+O pan-africanismo n&atilde;o se restringe a um processo hist&oacute;rico, &eacute; preciso entend&ecirc;-lo como um movimento ideol&oacute;gico e pol&iacute;tico de emancipa&ccedil;&atilde;o dos africanos&nbsp;que tamb&eacute;m envolve as rela&ccedil;&otilde;es sociais de ra&ccedil;a, classe e g&ecirc;nero, para assim enfrentar e superar as formas de opress&atilde;o do capitalismo.&nbsp;</p>
 
 <p><br />
 O professor e doutor socialista em economia na Z&acirc;mbia, Cosmas Musumali, dialoga sobre a constru&ccedil;&atilde;o dessa resist&ecirc;ncia em &Aacute;frica e afirma que este &eacute; sobretudo, um movimento de emancipa&ccedil;&atilde;o.&nbsp;</p>
 
 <p><br />
-&ldquo;Se a gente quer transformar o pan-africanismo a um debate que sirva para a emancipa&ccedil;&atilde;o, temos que achar pontos em comum, que seriam a base para a a&ccedil;&atilde;o coletiva. N&atilde;o tem jeito de encurtar o caminho, temos que debater juntos para entender as ideias que v&atilde;o servir para a luta. &Eacute; dif&iacute;cil construir consenso. Mas agora o MST est&aacute; fazendo uma tentativa, ao proporcionar espa&ccedil;o para come&ccedil;ar essa constru&ccedil;&atilde;o e minha vinda at&eacute; aqui foi para isso&rdquo;, ressaltou.</p>
+&ldquo;Se a gente quer transformar o pan-africanismo em um debate que sirva para a emancipa&ccedil;&atilde;o, temos que achar pontos em comum, que seriam a base para a a&ccedil;&atilde;o coletiva. N&atilde;o tem jeito de encurtar o caminho, temos que debater juntos para entender as ideias que v&atilde;o servir para a luta. &Eacute; dif&iacute;cil construir consenso. Mas agora o MST est&aacute; fazendo uma tentativa, ao proporcionar espa&ccedil;o para come&ccedil;ar essa constru&ccedil;&atilde;o e minha vinda at&eacute; aqui foi para isso&rdquo;, ressaltou.</p>
 
 <p><br />
-Para Cosmas, o pan-africanismo sobrevive hoje pelas oportunidades que foram dadas por diferentes pessoas, grupos e povos. Que o tratamento dados para as novas formas do pan-africanismo, seus problemas e desafios tem sido um processo constru&iacute;do conjuntamente. Ele lembra que &ldquo;para o Brasil esse movimento &eacute; especialmente importante porque o pa&iacute;s tem um n&uacute;mero muito alto de descendentes africanos&rdquo;.</p>
+Para Cosmas, o pan-africanismo sobrevive hoje pelas oportunidades que foram dadas por diferentes pessoas, grupos e povos. O tratamento dado&nbsp;para as novas formas do pan-africanismo, seus problemas e desafios tem sido um processo constru&iacute;do conjuntamente. Ele lembra que &ldquo;para o Brasil esse movimento &eacute; especialmente importante porque o pa&iacute;s tem um n&uacute;mero muito alto de descendentes africanos&rdquo;.</p>
 
 <p><br />
-Segundo Rafael Pinto, da coordena&ccedil;&atilde;o estadual do Centro Nacional de Africanidade e Resist&ecirc;ncia Afro-Brasileira (Cenarab) e da Coordena&ccedil;&atilde;o Nacional de Entidades Negras (Conen), essa iniciativa de colocar o pensamento pan-africano no centro do debate envolve um di&aacute;logo com outros movimentos, principalmente o movimento negro, que &ldquo;coloca uma pauta hist&oacute;rica de constru&ccedil;&atilde;o internacional na perspectiva de emancipa&ccedil;&atilde;o dos povos, que permite o fortalecimento dos la&ccedil;os de solidariedade e a busca pelos caminhos efetivos de constru&ccedil;&atilde;o de uma sociedade justa, livre e igualit&aacute;ria.&rdquo;&nbsp;</p>
+Segundo Rafael Pinto, da coordena&ccedil;&atilde;o estadual do Centro Nacional de Africanidade e Resist&ecirc;ncia Afro-Brasileira (Cenarab) e da Coordena&ccedil;&atilde;o Nacional de Entidades Negras (Conen), essa iniciativa de localizar&nbsp;o pensamento pan-africano no centro do debate envolve um di&aacute;logo com outros movimentos, principalmente o movimento negro, que &ldquo;coloca uma pauta hist&oacute;rica de constru&ccedil;&atilde;o internacional na perspectiva de emancipa&ccedil;&atilde;o dos povos, que permite o fortalecimento dos la&ccedil;os de solidariedade e a busca pelos caminhos efetivos de constru&ccedil;&atilde;o de uma sociedade justa, livre e igualit&aacute;ria.&rdquo;&nbsp;</p>
 
 <p>&nbsp;</p>
 
