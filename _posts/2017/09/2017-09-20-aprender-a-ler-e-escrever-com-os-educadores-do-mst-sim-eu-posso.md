@@ -2,7 +2,7 @@
 date: "2017-09-20T11:32:52-03:00"
 tags: []
 title: "Aprender a ler e escrever com os educadores do MST: Sim, eu posso!"
-support_line: "As salas de aulas ficam nas periferias, comunidades rurais e acampamentos e assentamentos, nos municípios de Delmiro Gouveia, Olho D’Água do Casado e Piranhas."
+support_line: "Educandos e educandas de vários estados do país participam da campanha da alfabetização \"Sim, eu posso!\", em Alagoas."
 menu: "educação, cultura e comunicação"
 images_hd: //farm5.staticflickr.com/4362/37203672531_7ccf2b3dc0_b.jpg
 layout: post
@@ -35,7 +35,7 @@ releated_posts: []
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="IMG_7646.jpg" height="545" src="//farm5.staticflickr.com/4341/37155978276_477009dcd2_b.jpg" width="700" />
-<figcaption>Educandos e educandas de v&aacute;rios estados pa&iacute;s participam de campanha da alfabetiza&ccedil;&atilde;o &quot;Sim, eu posso!&quot;, em Alagoas.</figcaption>
+<figcaption>Nos tr&ecirc;s munic&iacute;pios onde ser&aacute; realizada a campanha de alfabetiza&ccedil;&atilde;o h&aacute; cerca de 14 mil pessoas n&atilde;o alfabetizadas.</figcaption>
 </figure>
 </div>
 
@@ -43,8 +43,7 @@ releated_posts: []
 &nbsp;</p>
 
 <p><em>Por Gustavo Marinho<br />
-Da P&aacute;gina do MST&nbsp;<br />
-Fotos: Regis Philippe</em></p>
+Da P&aacute;gina do MST&nbsp;Fotos: Regis Philippe</em></p>
 
 <p>&nbsp;</p>
 
@@ -97,7 +96,7 @@ Davi de Lacerda, do Levante Popular da Juventude, refor&ccedil;ou a import&acirc
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="IMG_7644.jpg" height="271" src="//farm5.staticflickr.com/4345/37174164692_399fc4b694_b.jpg" width="450" />
-<figcaption>Ao todo 68 turmas de jovens e adultos v&atilde;o funcionar em tr&ecirc;s munic&iacute;pios no sert&atilde;o alagoano.</figcaption>
+<figcaption>Ao todo 68 turmas de jovens e adultos far&atilde;o parte da campanha de alfabetiza&ccedil;&atilde;o.</figcaption>
 </figure>
 </div>
 
