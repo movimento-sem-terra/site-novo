@@ -4,7 +4,7 @@ tags:
   - tag: pan-africanismo
   - tag: enff
   - tag: debate
-title: O Pensamento Pan-africano é tema de debate na Escola Nacional Florestan Fernandes
+title: Pensamento Pan-africano é tema de debate na Escola Nacional Florestan Fernandes
 support_line: "“Se a gente quer transformar o pan-africanismo a um debate que sirva para a emancipação, temos que achar pontos em comum, que seriam a base para a ação coletiva“, afirma o professor Cosmas Musumali."
 menu: projeto popular
 images_hd: //farm5.staticflickr.com/4413/36955894570_1a0382dda1_b.jpg
@@ -31,6 +31,13 @@ files:
     small: //farm5.staticflickr.com/4335/36540668003_d42245b7bd_n.jpg
     title: 20170909_075723.jpg
     $$hashKey: 05R
+  - link: //farm5.staticflickr.com/4437/37353457615_283aafaf25_b.jpg
+    original: //farm5.staticflickr.com/4437/37353457615_79ff28de10_o.jpg
+    thumbnail: //farm5.staticflickr.com/4437/37353457615_283aafaf25_t.jpg
+    medium: //farm5.staticflickr.com/4437/37353457615_283aafaf25_z.jpg
+    small: //farm5.staticflickr.com/4437/37353457615_283aafaf25_n.jpg
+    title: FullSizeRender_4.jpg
+    $$hashKey: 05B
 created_date: "2017-09-20T17:33:35-03:00"
 published: false
 releated_posts:
@@ -64,6 +71,12 @@ Para o professor Muryatan S. Barbosa, da Universidade Federal do ABC (UFABC), co
 <p><br />
 &ldquo;Como tradi&ccedil;&atilde;o de pensamento o pan-africanismo &eacute; importante tanto teoricamente, quanto para a supera&ccedil;&atilde;o do eurocentrismo abstrato, mas pol&iacute;tico tamb&eacute;m no Brasil. A esquerda brasileira ainda &eacute; muito euroc&ecirc;ntrica. O pan-africanismo tem muito a contribuir para que n&oacute;s consigamos prever os nossos problemas e solu&ccedil;&otilde;es de outras formas, com novos olhos. A ENFF deu um primeiro passo e espero que v&aacute; dar muitos frutos pela frente nesse campo de pesquisa e pol&iacute;tico&rdquo;.&nbsp;</p>
 
+<figure class="image" style="float:left"><img alt="IMG-2716.JPG" height="338" src="//farm5.staticflickr.com/4406/37353160805_85d1494959_b.jpg" width="450" />
+<figcaption>Para o professor Muryatan S. Barbosa, construir esse processo &eacute; um primeiro<br />
+passo fundamental, uma vez que, o Pan-africanismo &eacute; mal conhecido no Brasil ainda.&nbsp;<br />
+</figcaption>
+</figure>
+
 <p><br />
 J&aacute; Rosana Fernandes, coordenadora Pol&iacute;tica Pedag&oacute;gica da ENFF, comenta que a iniciativa de realiza&ccedil;&atilde;o do Semin&aacute;rio sobre o Pensamento Pan-africano foi uma iniciativa nova, tanto para a escola quanto para o MST, por conta do amplo debate que envolve, mas que a presen&ccedil;a de v&aacute;rias organiza&ccedil;&otilde;es do movimento negro possibilitou um outro olhar sobre o tema.&nbsp;</p>
 
@@ -79,7 +92,7 @@ Professor da Universidade Federal de Ouro Preto (UFOP), Erisvaldo Santos que tam
 <p><br />
 <strong>O pensamento pan-africano&nbsp;</strong></p>
 
-<p><img alt="20170909_075723.jpg" src="//farm5.staticflickr.com/4335/36540668003_d42245b7bd_b.jpg" /><br />
+<p><br />
 O pan-africanismo n&atilde;o &eacute; apenas sobre um processo hist&oacute;rico, &eacute; preciso entend&ecirc;-lo como um movimento ideol&oacute;gico e pol&iacute;tico de emancipa&ccedil;&atilde;o dos africanos que tamb&eacute;m envolve as rela&ccedil;&otilde;es sociais de ra&ccedil;a, classe e g&ecirc;nero para assim enfrentar e superar as formas de opress&atilde;o do capitalismo.&nbsp;</p>
 
 <p><br />
