@@ -43,6 +43,7 @@ published: false
 releated_posts:
   - _posts/2017/05/2017-05-26-construcao-historica-da-pedagogia-socialista-e-tema-de-seminario-na-escola-florestan-fernandes.md
   - _posts/2017/03/2017-03-22-a-repressao-policial-um-livro-e-joao.md
+section: featured-news
 
 ---
 <p>&nbsp;</p>
@@ -72,9 +73,8 @@ Para o professor Muryatan S. Barbosa, da Universidade Federal do ABC (UFABC), co
 &ldquo;Como tradi&ccedil;&atilde;o de pensamento o pan-africanismo &eacute; importante tanto teoricamente, quanto para a supera&ccedil;&atilde;o do eurocentrismo abstrato, mas pol&iacute;tico tamb&eacute;m no Brasil. A esquerda brasileira ainda &eacute; muito euroc&ecirc;ntrica. O pan-africanismo tem muito a contribuir para que n&oacute;s consigamos prever os nossos problemas e solu&ccedil;&otilde;es de outras formas, com novos olhos. A ENFF deu um primeiro passo e espero que v&aacute; dar muitos frutos pela frente nesse campo de pesquisa e pol&iacute;tico&rdquo;.&nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="IMG-2716.JPG" height="338" src="//farm5.staticflickr.com/4406/37353160805_85d1494959_b.jpg" width="450" />
-<figcaption>Para o professor Muryatan S. Barbosa, construir esse processo &eacute; um primeiro<br />
-passo fundamental, uma vez que, o Pan-africanismo &eacute; mal conhecido no Brasil ainda.&nbsp;<br />
-</figcaption>
+<figcaption><em>Para o professor Muryatan S. Barbosa, construir esse processo de<br />
+estudo&nbsp;sobre o Pan-africanismo &eacute; fundamental no Brasil.</em></figcaption>
 </figure>
 
 <p><br />
@@ -107,6 +107,14 @@ Para Cosmas, o pan-africanismo sobrevive hoje pelas oportunidades que foram dada
 <p><br />
 Segundo Rafael Pinto, da coordena&ccedil;&atilde;o estadual do Centro Nacional de Africanidade e Resist&ecirc;ncia Afro-Brasileira (Cenarab) e da Coordena&ccedil;&atilde;o Nacional de Entidades Negras (Conen), essa iniciativa de colocar o pensamento pan-africano no centro do debate envolve um di&aacute;logo com outros movimentos, principalmente o movimento negro, que &ldquo;coloca uma pauta hist&oacute;rica de constru&ccedil;&atilde;o internacional na perspectiva de emancipa&ccedil;&atilde;o dos povos, que permite o fortalecimento dos la&ccedil;os de solidariedade e a busca pelos caminhos efetivos de constru&ccedil;&atilde;o de uma sociedade justa, livre e igualit&aacute;ria.&rdquo;&nbsp;</p>
 
+<p>&nbsp;</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="20170909_075723.jpg" height="394" src="//farm5.staticflickr.com/4335/36540668003_d42245b7bd_b.jpg" width="700" />
+<figcaption><em>O debate sobre o pan-africanismo foi o primeiro passo para o desdobramento de in&uacute;meros outros processos.&nbsp;</em></figcaption>
+</figure>
+</div>
+
 <p><br />
 <strong>Um encontro de gera&ccedil;&otilde;es&nbsp;</strong></p>
 
@@ -137,6 +145,12 @@ Gabriela Cristina, estudante da Universidade Federal do Rio de Janeiro (UFRJ) e 
 
 <p><br />
 Como resultado de um espa&ccedil;o que se coloca em constru&ccedil;&atilde;o no campo da classe trabalhadora, sobretudo dos movimentos populares, o debate sobre o pan-africanismo concluiu seu primeiro passo que prop&otilde;e o desdobramento de in&uacute;meros outros processos.&nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="FullSizeRender_4.jpg" height="300" src="//farm5.staticflickr.com/4437/37353457615_283aafaf25_b.jpg" width="400" />
+<figcaption><em>Cosmas lembra que &ldquo;para o Brasil o pan-africanismo &eacute;<br />
+especialmente importante porque o pa&iacute;s tem um n&uacute;mero muito<br />
+alto&nbsp;&nbsp;de descendentes africanos&rdquo;.</em></figcaption>
+</figure>
 
 <p><br />
 O professor Cosmas coloca que a hist&oacute;ria &eacute; feita pelas massas e que o processo de luta e mudan&ccedil;a deve ser iniciado agora, logo os valores constru&iacute;dos em um semin&aacute;rio como este vai construir possibilidades para os pr&oacute;ximos quatro ou cinco anos. &Eacute; algo gradual, permanente e cont&iacute;nuo.&nbsp;</p>
