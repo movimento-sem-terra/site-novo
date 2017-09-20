@@ -43,7 +43,8 @@ releated_posts: []
 &nbsp;</p>
 
 <p><em>Por Gustavo Marinho<br />
-Da P&aacute;gina do MST&nbsp;Fotos: Regis Philippe</em></p>
+Da P&aacute;gina do MST&nbsp;<br />
+Fotos: Regis Philippe​</em></p>
 
 <p>&nbsp;</p>
 
