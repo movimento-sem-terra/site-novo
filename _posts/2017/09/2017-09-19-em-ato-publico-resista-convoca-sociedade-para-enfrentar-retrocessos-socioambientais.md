@@ -97,3 +97,7 @@ Convocamos toda a sociedade, os povos das &aacute;guas, do campo e das florestas
 
 <p style="text-align: right;"><br />
 <strong><em>#RESISTA!</em></strong></p>
+
+<p style="text-align: right;">&nbsp;</p>
+
+<p><em>*Editada por Iris Pacheco</em></p>
