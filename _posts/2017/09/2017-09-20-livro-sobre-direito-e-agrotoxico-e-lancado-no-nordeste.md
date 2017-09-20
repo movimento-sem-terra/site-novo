@@ -26,7 +26,7 @@ published: true
 releated_posts: []
 
 ---
-<p><a href="http://bit.ly/2xfzRFZ">http://bit.ly/2xfzRFZ</a></p>
+<p>&nbsp;</p>
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="21641120_1288956074566128_3129024372964169996_o.jpg" height="343" src="//farm5.staticflickr.com/4430/37160582696_dcf56c6ffc_b.jpg" width="700" />
@@ -112,7 +112,7 @@ Os eventos est&atilde;o sendo realizados no audit&oacute;rio do CTARN (PROEC), s
 
 <p><br />
 <br />
-Se inscreva aqui para o evento aberto ao p&uacute;blico: http://bit.ly/2xfzRFZ</p>
+Confira a inscri&ccedil;&atilde;o para o evento aberto ao p&uacute;blico:&nbsp;<a href="http://bit.ly/2xfzRFZ">http://bit.ly/2xfzRFZ</a></p>
 
 <p><br />
 <br />
