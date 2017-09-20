@@ -51,7 +51,10 @@ Realizada desde 2002, a Jornada de Agroecologia &eacute; um evento anual, promov
 
 <p><br />
 <br />
-A integrante da coordena&ccedil;&atilde;o da Jornada, Ceres Hadich, afirma que o evento &eacute; resultado de um processo de constru&ccedil;&atilde;o da agroecologia nas comunidades, assentamentos e territ&oacute;rios tradicionais do Paran&aacute;.<br />
+A integrante da coordena&ccedil;&atilde;o da Jornada, Ceres Hadich, afirma que o evento &eacute; resultado de um processo de constru&ccedil;&atilde;o da agroecologia nas comunidades, assentamentos e territ&oacute;rios tradicionais do Paran&aacute;.</p>
+
+<p><br />
+<br />
 &ldquo;Nas jornadas h&aacute; um encontro das culturas, das diferentes culturas que resistem ao modelo imposto pelo agroneg&oacute;cio, um modelo de agricultura que degrada, que expulsa, que n&atilde;o se relaciona com a natureza e n&atilde;o respeita as demais formas de vida&rdquo;, explica.&nbsp;</p>
 
 <p><br />
@@ -69,7 +72,10 @@ O &#39;Memorial de Luta e Resist&ecirc;ncia&#39; tamb&eacute;m deve reunir expos
 
 <p><br />
 <br />
-Al&eacute;m de debates relacionados a uma agricultura de respeito aos trabalhadores, consumidores e meio ambiente, os participantes da Jornada de Agroecologia tamb&eacute;m podem ter o contato com a pr&aacute;tica.<br />
+Al&eacute;m de debates relacionados a uma agricultura de respeito aos trabalhadores, consumidores e meio ambiente, os participantes da Jornada de Agroecologia tamb&eacute;m podem ter o contato com a pr&aacute;tica.</p>
+
+<p><br />
+<br />
 Na quinta-feira, interc&acirc;mbios e oficinas ser&atilde;o realizadas em comunidades que desenvolvem experi&ecirc;ncias agroecol&oacute;gicas na regi&atilde;o. As tem&aacute;ticas s&atilde;o as mais diversas: desde oficina de bioenergia e biosa&uacute;de, at&eacute; de cria&ccedil;&atilde;o de cabras ou do uso sustent&aacute;vel do bambu.</p>
 
 <p><br />
