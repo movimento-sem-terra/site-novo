@@ -2,7 +2,7 @@
 date: "2017-09-20T11:32:52-03:00"
 tags: []
 title: "Aprender a ler e escrever com os educadores do MST: Sim, eu posso!"
-support_line: "Educandos e educandas de vários estados do país participam da campanha da alfabetização \"Sim, eu posso!\", em Alagoas."
+support_line: "Educadores e educadoras de vários estados do país participam da campanha da alfabetização \"Sim, eu posso!\", em Alagoas."
 menu: "educação, cultura e comunicação"
 images_hd: //farm5.staticflickr.com/4362/37203672531_7ccf2b3dc0_b.jpg
 layout: post
