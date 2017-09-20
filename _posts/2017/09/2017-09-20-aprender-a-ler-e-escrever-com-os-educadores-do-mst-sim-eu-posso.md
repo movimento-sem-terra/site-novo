@@ -35,7 +35,7 @@ releated_posts: []
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="IMG_7646.jpg" height="545" src="//farm5.staticflickr.com/4341/37155978276_477009dcd2_b.jpg" width="700" />
-<figcaption>Nos tr&ecirc;s munic&iacute;pios onde ser&aacute; realizada a campanha de alfabetiza&ccedil;&atilde;o h&aacute; cerca de 14 mil pessoas n&atilde;o alfabetizadas.</figcaption>
+<figcaption>Nos tr&ecirc;s munic&iacute;pios onde ser&aacute; realizada a campanha de alfabetiza&ccedil;&atilde;o h&aacute; cerca de 14 mil pessoas n&atilde;o alfabetizadas</figcaption>
 </figure>
 </div>
 
@@ -97,7 +97,7 @@ Davi de Lacerda, do Levante Popular da Juventude, refor&ccedil;ou a import&acirc
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="IMG_7644.jpg" height="271" src="//farm5.staticflickr.com/4345/37174164692_399fc4b694_b.jpg" width="450" />
-<figcaption>Ao todo 68 turmas de jovens e adultos far&atilde;o parte da campanha de alfabetiza&ccedil;&atilde;o.</figcaption>
+<figcaption>Ao todo 68 turmas de jovens e adultos far&atilde;o parte da campanha&nbsp;</figcaption>
 </figure>
 </div>
 
