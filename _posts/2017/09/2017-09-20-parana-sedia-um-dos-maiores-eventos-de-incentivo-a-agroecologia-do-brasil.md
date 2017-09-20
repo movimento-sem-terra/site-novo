@@ -2,7 +2,7 @@
 date: "2017-09-20T14:17:05-03:00"
 tags: []
 title: Paraná sedia um dos maiores eventos de incentivo à agroecologia do Brasil
-support_line: "Além da culinária e da feira de produtos da reforma agrária, a jornada traz oficinas e debates da prática agroecológica"
+support_line: "Além da culinária e da feira de produtos da Reforma Agrária, a jornada traz oficinas e debates da prática agroecológica"
 menu: agricultura camponesa
 images_hd: //farm5.staticflickr.com/4333/37349831325_0169a5ce5e_b.jpg
 layout: post
