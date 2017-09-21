@@ -43,8 +43,7 @@ releated_posts:
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="IMG-20170919-WA0034.jpg" height="394" src="//farm5.staticflickr.com/4347/37178649206_e966acd44e_b.jpg" width="700" />
-<figcaption><em>Cerca de 400 pessoas, entre militantes, educadores e educadoras da Reforma Agr&aacute;ria de todo o Brasil, reuniram-se&nbsp;<br />
-em Caruaru.</em></figcaption>
+<figcaption><em>Cerca de 400 pessoas, entre militantes, educadores e educadoras da Reforma Agr&aacute;ria de todo o Brasil, reuniram-se&nbsp;em Caruaru.</em></figcaption>
 </figure>
 </div>
 
