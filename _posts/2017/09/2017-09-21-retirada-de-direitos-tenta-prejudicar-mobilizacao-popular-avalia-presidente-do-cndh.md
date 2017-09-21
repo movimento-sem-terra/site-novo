@@ -59,19 +59,19 @@ Atingir os direitos sociais seria, na avalia&ccedil;&atilde;o de Frigo, uma das 
 <strong>Amea&ccedil;a econ&ocirc;mica e social</strong></p>
 
 <p><br />
-Uma das grandes amea&ccedil;a aos direitos sociais, segundo o presidente do CNDH, &eacute; Emenda Constitucional 55, que congela os gastos p&uacute;blicos por 20 anos. Ele indica que grandes cortes v&atilde;o ocorrer em programas de distribui&ccedil;&atilde;o de renda e de incentivo &agrave; produ&ccedil;&atilde;o agroecol&oacute;gica.</p>
+Uma das grandes amea&ccedil;as aos direitos sociais, segundo o presidente do CNDH, &eacute; a Emenda Constitucional 55, que congela os gastos p&uacute;blicos por 20 anos. Ele indica que grandes cortes v&atilde;o ocorrer em programas de distribui&ccedil;&atilde;o de renda e de incentivo &agrave; produ&ccedil;&atilde;o agroecol&oacute;gica.</p>
 
 <p><br />
 O Programa de Aquisi&ccedil;&atilde;o de Alimentos (PAA), que incentiva a agricultura familiar por meio da compra da parte da produ&ccedil;&atilde;o dos agricultores, pode sofrer duros cortes. Se em 2017 foram previstos R$ 318 milh&otilde;es para o PAA, apenas R$ 750 mil devem ser disponibilizados para o programa em 2018. O problema, alerta Frigo, &eacute; que o or&ccedil;amento do pr&oacute;ximo ano servir&aacute; de base para os pr&oacute;ximos 20 anos.</p>
 
 <p><br />
-Situa&ccedil;&atilde;o semelhante atinge a pol&iacute;tica de reforma agr&aacute;ria. O valor destinado &agrave; aquisi&ccedil;&atilde;o de terras para a cria&ccedil;&atilde;o de assentamentos atrav&eacute;s do Incra passar&aacute; de R$ 257 milh&otilde;es para R$ 34 milh&otilde;es, em 2018. &ldquo;Essas reformas atacam o n&uacute;cleo da Constitui&ccedil;&atilde;o Federal de 1988&rdquo;, alerta o presidente do CNDH.</p>
+Situa&ccedil;&atilde;o semelhante atinge a pol&iacute;tica de Reforma Agr&aacute;ria. O valor destinado &agrave; aquisi&ccedil;&atilde;o de terras para a cria&ccedil;&atilde;o de assentamentos atrav&eacute;s do Incra passar&aacute; de R$ 257 milh&otilde;es para R$ 34 milh&otilde;es, em 2018. &ldquo;Essas reformas atacam o n&uacute;cleo da Constitui&ccedil;&atilde;o Federal de 1988&rdquo;, alerta o presidente do CNDH.</p>
 
 <p><br />
 <strong>Estado fraco</strong></p>
 
 <p><br />
-Frigo destaca que, ao mesmo tempo em que junto direitos sociais retrocedem, a repress&atilde;o &agrave; manifesta&ccedil;&atilde;o popular aumenta. Exemplo disso foi ataque sofrido por manifestantes em Bras&iacute;lia, no dia 24 de maio. Cerca de 200 mil pessoas protestavam contra o governo de Michel Temer quando foram atacados pela Pol&iacute;cia Militar. &ldquo;Estado fraco para sal&aacute;rio m&iacute;nimo e para reforma agr&aacute;ria, mas estado forte na repress&atilde;o aos pobres&rdquo;, se indigna.</p>
+Frigo destaca que, ao mesmo tempo em que junto direitos sociais retrocedem, a repress&atilde;o &agrave; manifesta&ccedil;&atilde;o popular aumenta. Exemplo disso foi o ataque sofrido por manifestantes em Bras&iacute;lia, no dia 24 de maio. Cerca de 200 mil pessoas protestavam contra o governo de Michel Temer quando foram atacados pela Pol&iacute;cia Militar. &ldquo;Estado fraco para sal&aacute;rio m&iacute;nimo e para reforma agr&aacute;ria, mas estado forte na repress&atilde;o aos pobres&rdquo;, se indigna.</p>
 
 <p><br />
 A repress&atilde;o &agrave; organiza&ccedil;&atilde;o popular tem se fortalecido por meio da criminaliza&ccedil;&atilde;o dos movimentos sociais. Um caso emblem&aacute;tico dessa situa&ccedil;&atilde;o foi registrada no Paran&aacute;, em novembro de 2016. A&ccedil;&atilde;o da Pol&iacute;cia Civil, a Opera&ccedil;&atilde;o Castra prendeu sete integrantes do Movimento dos Trabalhadores Rurais Sem Terra, acusados de crime de organiza&ccedil;&atilde;o criminosa.</p>
