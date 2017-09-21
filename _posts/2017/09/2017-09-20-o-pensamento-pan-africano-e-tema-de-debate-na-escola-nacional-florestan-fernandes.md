@@ -73,8 +73,9 @@ Para o professor Muryatan S. Barbosa, da Universidade Federal do ABC (UFABC), co
 &ldquo;Como tradi&ccedil;&atilde;o de pensamento o pan-africanismo &eacute; importante tanto teoricamente, quanto para a supera&ccedil;&atilde;o do eurocentrismo abstrato, mas pol&iacute;tico tamb&eacute;m no Brasil. A esquerda brasileira ainda &eacute; muito euroc&ecirc;ntrica. O pan-africanismo tem muito a contribuir para que consigamos prever os nossos problemas e solu&ccedil;&otilde;es de outras formas, com novos olhos. A ENFF deu um primeiro passo e espero que v&aacute; dar muitos frutos pela frente nesse campo de pesquisa e pol&iacute;tico&rdquo;, argumentou.&nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="IMG-2716.JPG" height="338" src="//farm5.staticflickr.com/4406/37353160805_85d1494959_b.jpg" width="450" />
-<figcaption><em>Para o professor Muryatan S. Barbosa, construir esse processo de<br />
-estudo&nbsp;sobre o Pan-africanismo &eacute; fundamental no Brasil.</em></figcaption>
+<figcaption><em>Para o professor Muryatan S. Barbosa, construir esse<br />
+processo de&nbsp;estudo&nbsp;sobre o Pan-africanismo &eacute; fundamental<br />
+no Brasil.</em></figcaption>
 </figure>
 
 <p><br />
@@ -148,8 +149,8 @@ Como resultado de um espa&ccedil;o que se coloca em constru&ccedil;&atilde;o no 
 
 <figure class="image" style="float:right"><img alt="FullSizeRender_4.jpg" height="300" src="//farm5.staticflickr.com/4437/37353457615_283aafaf25_b.jpg" width="400" />
 <figcaption><em>Cosmas lembra que &ldquo;para o Brasil o pan-africanismo &eacute;<br />
-especialmente importante porque o pa&iacute;s tem um n&uacute;mero muito<br />
-alto&nbsp;&nbsp;de descendentes africanos&rdquo;.</em></figcaption>
+especialmente importante porque o pa&iacute;s tem um<br />
+n&uacute;mero muito&nbsp;alto de descendentes africanos&rdquo;.</em></figcaption>
 </figure>
 
 <p><br />
