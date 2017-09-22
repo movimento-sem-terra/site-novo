@@ -112,4 +112,4 @@ A Ciranda Paulo Freire estar&aacute; presente em todo Circuito do Festival de Ar
 Diversos artistas estiveram presentes no festival levando animando os participantes com sua arte e levantando a bandeira da Reforma Agr&aacute;ria Popular. Foram 22 atra&ccedil;&otilde;es culturais envolvendo apresenta&ccedil;&otilde;es musicais, teatro, oficinas, agita&ccedil;&atilde;o e propaganda e dan&ccedil;a.</p>
 
 <p><br />
-&ldquo;Um evento cultural como esse, ele &eacute; importante de qualquer forma, porque ele faz a divulga&ccedil;&atilde;o da cultura e do trabalho do MST&rdquo;, afirma Paulinho Manac&aacute;, artista popular regional.</p>
+&ldquo;Um evento cultural como esse, ele &eacute; importante de qualquer forma, porque ele faz a divulga&ccedil;&atilde;o da cultura e do trabalho do MST&rdquo;, &nbsp;afirma Paulinho Manac&aacute;, artista popular regional.</p>
