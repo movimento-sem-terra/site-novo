@@ -4,7 +4,7 @@ tags:
   - tag: violência-no-campo
   - tag: justiça
   - tag: direitos-humanos
-title: "Caso Elton Brum da Silva: policial militar é condenado a 12 anos de prisão e a perda de cargo\n\n"
+title: "Caso Elton Brum: policial militar é condenado a 12 anos de prisão e a perda de cargo"
 support_line: "Sete cidadãos compuseram via sorteio o júri popular, sendo quatro mulheres e três homens. O julgamento começou por volta das 10h30 e terminou quase 24 horas"
 menu: direitos humanos
 images_hd: //farm5.staticflickr.com/4450/37215138912_a11303f366_b.jpg
