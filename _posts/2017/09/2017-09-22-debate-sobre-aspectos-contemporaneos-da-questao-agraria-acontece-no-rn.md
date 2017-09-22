@@ -7,16 +7,16 @@ tags:
 title: Debate sobre aspectos contemporâneos da questão agrária acontece no RN
 support_line: "Evento trouxe um resgate do direito e sua herança colonial, percorrendo seu processo histórico até os dias atuais, analisando como a questão agrária é tratada pelo estado brasileiro. "
 menu: reforma agrária
-images_hd: //farm5.staticflickr.com/4403/36535701554_419bc4c1e3_b.jpg
+images_hd: //farm5.staticflickr.com/4487/36575753953_45a6bbe0f6_b.jpg
 layout: post
 files:
-  - link: //farm5.staticflickr.com/4403/36535701554_419bc4c1e3_b.jpg
-    original: //farm5.staticflickr.com/4403/36535701554_6bb5907493_o.jpg
-    thumbnail: //farm5.staticflickr.com/4403/36535701554_419bc4c1e3_t.jpg
-    medium: //farm5.staticflickr.com/4403/36535701554_419bc4c1e3_z.jpg
-    small: //farm5.staticflickr.com/4403/36535701554_419bc4c1e3_n.jpg
-    title: 21686244_1288955981232804_2219994218703944300_n.jpg
-    $$hashKey: 0H2
+  - link: //farm5.staticflickr.com/4487/36575753953_45a6bbe0f6_b.jpg
+    original: //farm5.staticflickr.com/4487/36575753953_9fc2efce5a_o.jpg
+    thumbnail: //farm5.staticflickr.com/4487/36575753953_45a6bbe0f6_t.jpg
+    medium: //farm5.staticflickr.com/4487/36575753953_45a6bbe0f6_z.jpg
+    small: //farm5.staticflickr.com/4487/36575753953_45a6bbe0f6_n.jpg
+    title: 21687668_1290110651117337_2711207001530708091_n.jpg
+    $$hashKey: 0MV
 created_date: "2017-09-22T12:03:24-03:00"
 published: true
 releated_posts:
