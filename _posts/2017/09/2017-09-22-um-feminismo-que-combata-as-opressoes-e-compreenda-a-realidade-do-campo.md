@@ -47,6 +47,8 @@ releated_posts:
 </figure>
 </div>
 
+<p>&nbsp;</p>
+
 <p><em>Por Coletivo de Comunica&ccedil;&atilde;o do MST na Bahia<br />
 Da P&aacute;gina do MST</em></p>
 
