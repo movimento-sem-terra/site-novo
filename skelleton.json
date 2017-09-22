@@ -210,7 +210,6 @@
   "type":{
     "view": "select",
     "options": [
-      {"name": "Circuito Mineiro", "id": "circuito-mineiro"},
       {"name": "Circuito Mineiro", "id": "circuito-mineiro"}
       ]
   }
