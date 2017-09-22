@@ -17,6 +17,13 @@ files:
     small: //farm5.staticflickr.com/4450/37215138912_a11303f366_n.jpg
     title: Alexandre Curto dos Santos.jpg
     $$hashKey: 10L
+  - link: //farm5.staticflickr.com/4342/37200565716_3989129782_b.jpg
+    original: //farm5.staticflickr.com/4342/37200565716_e3517d12f3_o.jpg
+    thumbnail: //farm5.staticflickr.com/4342/37200565716_3989129782_t.jpg
+    medium: //farm5.staticflickr.com/4342/37200565716_3989129782_z.jpg
+    small: //farm5.staticflickr.com/4342/37200565716_3989129782_n.jpg
+    title: 37213820052_882d376787_b.jpg
+    $$hashKey: 0MN
 created_date: "2017-09-22T11:12:24-03:00"
 published: true
 releated_posts:
@@ -37,6 +44,11 @@ Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
 O policial militar Alexandre Curto dos Santos, que assassinou com um tiro pelas costas o trabalhador rural Sem Terra Elton Brum da Silva, foi condenado por homic&iacute;dio qualificado. A decis&atilde;o &eacute; do j&uacute;ri popular realizado nesta quinta-feira (21) no Foro Central I da Comarca de Porto Alegre, no Rio Grande do Sul. A senten&ccedil;a de 12 anos de pris&atilde;o em regime fechado, perda de cargo e pris&atilde;o imediata ocorre mais de oito anos ap&oacute;s o crime.</p>
+
+<figure class="image" style="float:left"><img alt="Alexandre Curto dos Santos.jpg" height="266" src="//farm5.staticflickr.com/4450/37215138912_a11303f366_b.jpg" width="400" />
+<figcaption><em>Policial militar Alexandre Curto dos Santos,<br />
+que assassinou com um tiro pelas costas o Sem Terra&nbsp;</em></figcaption>
+</figure>
 
 <p><br />
 Sete cidad&atilde;os compuseram via sorteio o j&uacute;ri popular, sendo quatro mulheres e tr&ecirc;s homens. O julgamento come&ccedil;ou por volta das 10h30 e terminou quase 24 horas. Neste per&iacute;odo, o j&uacute;ri acompanhou as manifesta&ccedil;&otilde;es das testemunhas de acusa&ccedil;&atilde;o (Patr&iacute;cia Couto, ouvidora da Defensoria P&uacute;blica do Estado e Carlos C&eacute;sar D&#39;Elia, do Comit&ecirc; Estadual Contra a Tortura), que acompanharam o ocorrido &agrave; &eacute;poca.</p>
