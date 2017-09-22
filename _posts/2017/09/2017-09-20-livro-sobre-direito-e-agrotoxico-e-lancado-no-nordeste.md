@@ -1,6 +1,9 @@
 ---
 date: "2017-09-20T15:27:34-03:00"
-tags: []
+tags:
+  - tag: agrotóxicos
+  - tag: rio-grande-do-norte
+  - tag: questão-agrária
 title: Livro sobre Direito e Agrotóxico é lançado no Nordeste
 support_line: O livro é resultado de uma construção coletiva forjada nas lutas dos movimentos populares da Via Campesina e da Campanha Contra os Agrotóxicos e Pela Vida.
 menu: agronegócio
@@ -23,7 +26,10 @@ files:
     $$hashKey: 1CQ
 created_date: "2017-09-20T15:40:38-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2017/09/2017-09-21-paraquate-e-banido-por-ser-mutagenico-so-que-nao.md
+  - _posts/2017/03/2017-03-03-estudo-identifica-agrotoxicos-mais-frequentes-em-alimentos-consumidos-no-brasil.md
+  - _posts/2017/04/2017-04-25-governo-pode-autorizar-agrotoxicos-cancerigenos-por-medida-provisoria.md
 
 ---
 <p>&nbsp;</p>
