@@ -7,7 +7,7 @@ tags:
 title: Nota do MST sobre o julgamento do caso Elton Brum da Silva
 support_line: "Repudiamos qualquer tipo de violência, contra qualquer trabalhador e trabalhadora. Queremos que o ocorrido com Elton Brum não se repita"
 menu: direitos humanos
-images_hd: //farm5.staticflickr.com/4379/37196171446_1a2e59e6d8_b.jpg
+images_hd: //farm5.staticflickr.com/4465/37213820052_882d376787_b.jpg
 section: cover
 layout: post
 files:
