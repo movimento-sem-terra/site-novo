@@ -31,6 +31,7 @@ releated_posts:
   - _posts/2017/06/2017-06-04-trabalhadores-ocupam-latifundio-na-zona-da-mata-mineira.md
   - _posts/2017/03/2017-03-03-mst-reocupa-fazenda-em-quixeramobim.md
   - _posts/2017/04/2017-04-13-mst-monta-acampamento-em-santa-margarida-do-sul-no-rs.md
+section: cover
 
 ---
 <p>&nbsp;</p>
