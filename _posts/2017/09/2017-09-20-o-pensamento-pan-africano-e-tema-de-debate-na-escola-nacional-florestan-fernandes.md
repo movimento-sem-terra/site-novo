@@ -97,7 +97,7 @@ Professor da Universidade Federal de Ouro Preto (UFOP), Erisvaldo Santos que tam
 O pan-africanismo n&atilde;o se restringe a um processo hist&oacute;rico, &eacute; preciso entend&ecirc;-lo como um movimento ideol&oacute;gico e pol&iacute;tico de emancipa&ccedil;&atilde;o dos africanos&nbsp;que tamb&eacute;m envolve as rela&ccedil;&otilde;es sociais de ra&ccedil;a, classe e g&ecirc;nero, para assim enfrentar e superar as formas de opress&atilde;o do capitalismo.&nbsp;</p>
 
 <p><br />
-O professor e doutor socialista em economia na Z&acirc;mbia, Cosmas Musumali, dialoga sobre a constru&ccedil;&atilde;o dessa resist&ecirc;ncia em &Aacute;frica e afirma que este &eacute; sobretudo, um movimento de emancipa&ccedil;&atilde;o.&nbsp;</p>
+O professor doutro, secret&aacute;rio geral do Partido Socialista da Z&acirc;mbia, Cosmas Musumali, dialoga sobre a constru&ccedil;&atilde;o dessa resist&ecirc;ncia em &Aacute;frica e afirma que este &eacute; sobretudo, um movimento de emancipa&ccedil;&atilde;o.&nbsp;</p>
 
 <p><br />
 &ldquo;Se a gente quer transformar o pan-africanismo em um debate que sirva para a emancipa&ccedil;&atilde;o, temos que achar pontos em comum, que seriam a base para a a&ccedil;&atilde;o coletiva. N&atilde;o tem jeito de encurtar o caminho, temos que debater juntos para entender as ideias que v&atilde;o servir para a luta. &Eacute; dif&iacute;cil construir consenso. Mas agora o MST est&aacute; fazendo uma tentativa, ao proporcionar espa&ccedil;o para come&ccedil;ar essa constru&ccedil;&atilde;o e minha vinda at&eacute; aqui foi para isso&rdquo;, ressaltou.</p>
