@@ -36,6 +36,7 @@ releated_posts:
   - _posts/2017/08/2017-08-25-na-justica-do-para-dano-patrimonial-pesa-mais-que-morte-de-sem-terra.md
   - _posts/2017/08/2017-08-24-acampamento-no-tocantins-e-atacado-por-pistoleiros.md
   - _posts/2017/08/2017-08-23-incra-quer-destinar-area-de-chacina-no-para-a-reforma-agraria.md
+section: cover
 
 ---
 <div style="text-align:center">
