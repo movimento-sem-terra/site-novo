@@ -4,7 +4,7 @@ tags:
   - tag: violência-no-campo
   - tag: direitos-humanos
   - tag: defensoria
-title: "DENÚNCIA | Comitê de DH atribui aumento da violência no campo à negligência do estado\n\n\n"
+title: "Denúncia: Comitê de DH atribui aumento da violência no campo à negligência do estado\n\n\n"
 support_line: Carta aberta do Comitê Brasileiro de Defensoras e Defensores de Direitos Humanos afirma que o poder público deixou de atuar para prevenir mortes e assassinatos previamente anunciados
 menu: direitos humanos
 images_hd: //farm5.staticflickr.com/4492/37333347731_534f79c300_b.jpg
@@ -36,7 +36,7 @@ releated_posts:
   - _posts/2017/08/2017-08-25-na-justica-do-para-dano-patrimonial-pesa-mais-que-morte-de-sem-terra.md
   - _posts/2017/08/2017-08-24-acampamento-no-tocantins-e-atacado-por-pistoleiros.md
   - _posts/2017/08/2017-08-23-incra-quer-destinar-area-de-chacina-no-para-a-reforma-agraria.md
-section: cover
+section: featured-news
 
 ---
 <div style="text-align:center">
