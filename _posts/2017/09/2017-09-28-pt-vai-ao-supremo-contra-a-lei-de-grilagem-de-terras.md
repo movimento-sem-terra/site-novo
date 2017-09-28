@@ -23,14 +23,18 @@ releated_posts:
   - _posts/2017/09/2017-09-22-a-eterna-marcha-da-violencia-no-campo.md
   - _posts/2017/09/2017-09-14-bancada-ruralista-ja-propos-25-projetos-de-lei-que-ameacam-demarcacao-de-terras-indigenas-e-quilombolas.md
   - _posts/2017/03/2017-03-28-aatr-realiza-seminario-e-lanca-livro-sobre-grilagem-na-bahia.md
+section: cover
 
 ---
 <p>&nbsp;</p>
 
+<p>&nbsp;</p>
+
 <p><em>Da P&aacute;gina do MST</em></p>
 
-<p><br />
-Nesta quinta-feira (28), o Partido dos Trabalhadores deu entrada com uma A&ccedil;&atilde;o Direta de Inconstitucionalidade (ADI) junto ao Supremo Tribunal Federal, para questionar 15 pontos da nova &ldquo;lei da grilagem&rdquo; (Lei 13.465/17), sancionada no m&ecirc;s de julho, e que alterou mais de 20 leis, gerando impactos sem precedentes ao direito &agrave; terra.</p>
+<p>&nbsp;</p>
+
+<p>Nesta quinta-feira (28), o Partido dos Trabalhadores deu entrada com uma A&ccedil;&atilde;o Direta de Inconstitucionalidade (ADI) junto ao Supremo Tribunal Federal, para questionar 15 pontos da nova &ldquo;lei da grilagem&rdquo; (Lei 13.465/17), sancionada no m&ecirc;s de julho, e que alterou mais de 20 leis, gerando impactos sem precedentes ao direito &agrave; terra.</p>
 
 <p><br />
 Um dos questionamentos levantados na ADI se refere &agrave; ren&uacute;ncia de receita por parte da Uni&atilde;o sem a respectiva previs&atilde;o do impacto or&ccedil;ament&aacute;rio. Segundo o site do PT na C&acirc;mara, a exig&ecirc;ncia de uma previs&atilde;o or&ccedil;ament&aacute;ria &lsquo;est&aacute; no artigo 113 do Ato das Disposi&ccedil;&otilde;es Constitucionais Transit&oacute;rias, que estabelece que toda lei, ao promover qualquer tipo de ren&uacute;ncia de receita, detalhe tamb&eacute;m a estimativa de impacto or&ccedil;ament&aacute;rio e financeiro. O que n&atilde;o ocorreu&rsquo;.</p>
