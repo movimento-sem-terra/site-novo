@@ -23,7 +23,7 @@ releated_posts:
   - _posts/2017/09/2017-09-22-a-eterna-marcha-da-violencia-no-campo.md
   - _posts/2017/09/2017-09-14-bancada-ruralista-ja-propos-25-projetos-de-lei-que-ameacam-demarcacao-de-terras-indigenas-e-quilombolas.md
   - _posts/2017/03/2017-03-28-aatr-realiza-seminario-e-lanca-livro-sobre-grilagem-na-bahia.md
-section: cover
+section: featured-news
 
 ---
 <p>&nbsp;</p>
