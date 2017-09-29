@@ -5,18 +5,18 @@ tags:
   - tag: indigenas
   - tag: demarcação-de-terras
 title: MST apoia a luta do povo Tupi e Guarani pela demarcação da TI Ywyty Guaçu (Renascer) em Ubatuba/SP
-images_hd: //farm5.staticflickr.com/4374/36685093584_dcd8c4eb40_b.jpg
+images_hd: //farm5.staticflickr.com/4470/37347093576_c5cd177f71_b.jpg
 support_line: " Essas comunidades que ocupam seus territórios há gerações, estão ameaçadas pelo agronegócio, pela mineração e pela especulação imobiliária"
 menu: lutas e mobilizações
 layout: post
 files:
-  - link: //farm5.staticflickr.com/4374/36685093584_dcd8c4eb40_b.jpg
-    original: //farm5.staticflickr.com/4374/36685093584_9dfcef98a8_o.jpg
-    thumbnail: //farm5.staticflickr.com/4374/36685093584_dcd8c4eb40_t.jpg
-    medium: //farm5.staticflickr.com/4374/36685093584_dcd8c4eb40_z.jpg
-    small: //farm5.staticflickr.com/4374/36685093584_dcd8c4eb40_n.jpg
-    title: 20160316_101529.jpg
-    $$hashKey: 03N
+  - link: //farm5.staticflickr.com/4470/37347093576_c5cd177f71_b.jpg
+    original: //farm5.staticflickr.com/4470/37347093576_0413eaaee2_o.jpg
+    thumbnail: //farm5.staticflickr.com/4470/37347093576_c5cd177f71_t.jpg
+    medium: //farm5.staticflickr.com/4470/37347093576_c5cd177f71_z.jpg
+    small: //farm5.staticflickr.com/4470/37347093576_c5cd177f71_n.jpg
+    title: DFSD.jpg
+    $$hashKey: 05D
 created_date: "2017-09-29T14:07:31-03:00"
 published: true
 releated_posts:
