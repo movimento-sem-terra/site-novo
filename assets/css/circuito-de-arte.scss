@@ -139,7 +139,7 @@ body {
     font-family: EspecialFontLight;
     font-size: 1.2em;
     margin: 0;
-    margin-top: 2px;
+    margin-top: 0;
   }
   @include media($desktop) {
     h2 {
@@ -432,8 +432,8 @@ body {
 	background-color: #DDEBCF;
 	display: flex;
   justify-content: center;
-  padding:  50px;
-  margin: 20px 0;
+  padding:  1%;
+  margin: 2% 0;
 
 
   iframe {
