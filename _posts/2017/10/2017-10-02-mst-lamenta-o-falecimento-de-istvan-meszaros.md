@@ -51,7 +51,9 @@ Leia a &iacute;ntegra da nota.</p>
 As trabalhadoras e os trabalhadores rurais Sem Terra do MST do Brasil lamentam profundamente o falecimento de Istv&aacute;n M&eacute;sz&eacute;ros, fil&oacute;sofo marxista, escritor e militante, nascido na Hungria em 1930.</p>
 
 <p><br />
-M&eacute;sz&aacute;ros faleceu ontem (01), vitima de fal&ecirc;ncia m&uacute;ltipla de &oacute;rg&atilde;os, decorrente de dois derrames que avan&ccedil;aram para um agravamento fatal. Estava na UTI hospitalar, sempre assistido por familiares e amigos.<br />
+M&eacute;sz&aacute;ros faleceu ontem (01), vitima de fal&ecirc;ncia m&uacute;ltipla de &oacute;rg&atilde;os, decorrente de dois derrames que avan&ccedil;aram para um agravamento fatal. Estava na UTI hospitalar, sempre assistido por familiares e amigos.</p>
+
+<p><br />
 Dedicava-se no &uacute;ltimo per&iacute;odo &agrave; sua nova obra com &ecirc;nfase na an&aacute;lise cr&iacute;tica sobre o Estado, &quot;Para Al&eacute;m do Leviat&atilde;&quot;, tema fundamental para a formula&ccedil;&atilde;o estrat&eacute;gica e retomada necess&aacute;ria da ofensiva socialista.</p>
 
 <p><br />
