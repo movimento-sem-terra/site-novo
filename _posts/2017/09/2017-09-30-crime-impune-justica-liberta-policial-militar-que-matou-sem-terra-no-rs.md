@@ -7,7 +7,7 @@ tags:
 title: "Crime impune: justiça liberta policial militar que matou Sem Terra no RS"
 support_line: "​A mensagem enviada pela justiça, segundo os trabalhadores, é de impunidade."
 menu: direitos humanos
-section: cover
+section: featured-news
 images_hd: //farm5.staticflickr.com/4448/37384697242_a7e61ed8e6_b.jpg
 layout: post
 files:
