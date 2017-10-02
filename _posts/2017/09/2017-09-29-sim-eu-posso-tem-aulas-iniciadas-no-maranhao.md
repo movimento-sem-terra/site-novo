@@ -7,7 +7,7 @@ tags:
 title: "“Sim, eu posso!” tem aulas iniciadas no Maranhão"
 support_line: Mais de 15 mil educandos já estão em salas de aula num massivo mutirão de alfabetização
 menu: "educação, cultura e comunicação"
-section: cover
+section: featured-news
 images_hd: //farm5.staticflickr.com/4374/37135456740_ce4c9593d1_b.jpg
 layout: post
 files:
