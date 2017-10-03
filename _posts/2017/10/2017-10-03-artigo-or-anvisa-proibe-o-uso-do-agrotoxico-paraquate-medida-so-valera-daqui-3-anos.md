@@ -2,7 +2,7 @@
 date: "2017-10-03T12:03:35-03:00"
 tags:
   - tag: agrotóxicos
-title: "Artigo | ANVISA proíbe o uso do agrotóxico paraquate; medida só valerá daqui 3 anos"
+title: "Artigo: ANVISA proíbe o uso do agrotóxico paraquate; medida só valerá daqui 3 anos"
 support_line: "Nos melhores casos, o contato com o veneno leva à morte rápida. Nos piores, leva à fibrose pulmonar e morte lenta."
 images_hd: //farm5.staticflickr.com/4335/37444208902_bb60e38f55_b.jpg
 menu: agronegócio
