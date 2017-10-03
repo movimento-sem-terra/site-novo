@@ -5,7 +5,7 @@ tags:
   - tag: indigenas
   - tag: direitos-humanos
 support_line: "Ao final do encontro foram elaboradas diversas cartas denunciando a atual situação do povo Guarani e Kaiowá. Os documentos também detalham as principais reivindicações deste povo, principalmente no que diz respeito às mulheres.\n"
-title: "Em assembleia, mulheres Guaranis e Kaiowas reafirma a continuidade da luta pela terra "
+title: "Em assembleia, mulheres Guaranis e Kaiowas reafirmam a continuidade da luta pela terra "
 menu: direitos humanos
 images_hd: //farm5.staticflickr.com/4492/23606830008_ca0988ff8d_b.jpg
 layout: post
