@@ -44,8 +44,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="03.jpg" height="466" src="//farm5.staticflickr.com/4355/36766612634_38c44e11c0_b.jpg" width="700" />
-<figcaption>Fotos: Prefeitura de Nova Santa Rita<br />
-</figcaption>
+<figcaption>Fotos: Prefeitura de Nova Santa Rita</figcaption>
 </figure>
 </div>
 
