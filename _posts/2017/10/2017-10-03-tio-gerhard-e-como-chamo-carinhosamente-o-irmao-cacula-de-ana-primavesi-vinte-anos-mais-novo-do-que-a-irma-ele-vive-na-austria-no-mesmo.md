@@ -4,7 +4,7 @@ tags:
   - tag: agroecologia
   - tag: primavesi
   - tag: meio-ambiente
-title: "Tio Gerhard é como chamo carinhosamente o irmão caçula de Ana Primavesi. Vinte anos mais novo do que a irmã, ele vive na Áustria, no mesmo \n"
+title: "Enfim, é primavera: 97 anos de Ana Primavesi, pioneira da agroecologia no Brasil\n"
 support_line: "Primavesi foi a primeira pessoa num meio científico majoritariamente masculino a defender que o solo tem vida\n\n"
 images_hd: //farm5.staticflickr.com/4335/37428305466_d03e7de0ff_b.jpg
 menu: agricultura camponesa
