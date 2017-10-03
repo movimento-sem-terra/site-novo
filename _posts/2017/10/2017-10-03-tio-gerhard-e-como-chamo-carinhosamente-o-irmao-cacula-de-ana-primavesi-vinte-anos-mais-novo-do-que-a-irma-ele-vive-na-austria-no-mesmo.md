@@ -17,13 +17,13 @@ files:
     small: //farm5.staticflickr.com/4335/37428305466_d03e7de0ff_n.jpg
     title: 37429792512_f7cf26b182_z.jpg
     $$hashKey: 0EL
-  - link: //farm5.staticflickr.com/4510/23623963018_cc76cf4596_b.jpg
-    original: //farm5.staticflickr.com/4510/23623963018_defe720056_o.jpg
-    thumbnail: //farm5.staticflickr.com/4510/23623963018_cc76cf4596_t.jpg
-    medium: //farm5.staticflickr.com/4510/23623963018_cc76cf4596_z.jpg
-    small: //farm5.staticflickr.com/4510/23623963018_cc76cf4596_n.jpg
-    title: 36685380343_77fc0788c2_b.jpg
-    $$hashKey: 0EO
+  - link: //farm5.staticflickr.com/4446/37429914936_138fd43f69_b.jpg
+    original: //farm5.staticflickr.com/4446/37429914936_083fd081e3_o.jpg
+    thumbnail: //farm5.staticflickr.com/4446/37429914936_138fd43f69_t.jpg
+    medium: //farm5.staticflickr.com/4446/37429914936_138fd43f69_z.jpg
+    small: //farm5.staticflickr.com/4446/37429914936_138fd43f69_n.jpg
+    title: 36763403604_400fc3b6fb_o.jpg
+    $$hashKey: 0Y3
 created_date: "2017-10-03T13:15:03-03:00"
 published: true
 releated_posts:
@@ -62,7 +62,7 @@ Tio Gerhard mostra o tambor onde biodinamiza os preparados em &aacute;gua. Repar
 Depois do almo&ccedil;o o tio pegou um livro cheio de figuras de lagartas, com as respectivas imagens de quais borboletas se tornariam. A bela lagarta listrada seria uma borboleta marrom comum, sem nenhum atrativo. &ldquo;Uma lagarta t&atilde;o bonita para uma borboleta t&atilde;o sem gra&ccedil;a&rdquo;, ele disse. Rimos. Perguntei sobre os cristais. Ele mostrou como os triturava e os incorporava ao seu l&iacute;quido biodin&acirc;mico, para fortalecer energeticamente a terra. Um trabalho pesado que justificava ainda mais aquelas m&atilde;os sofridas do trabalho pesado do campo e que marcaram minha mente para sempre.</p>
 
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="36685380343_77fc0788c2_b.jpg" height="538" src="//farm5.staticflickr.com/4510/23623963018_cc76cf4596_b.jpg" width="700" />
+<figure class="image" style="display:inline-block"><img alt="36763403604_400fc3b6fb_o.jpg" height="700" src="//farm5.staticflickr.com/4446/37429914936_138fd43f69_b.jpg" width="700" />
 <figcaption></figcaption>
 </figure>
 </div>
