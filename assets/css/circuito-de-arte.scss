@@ -8,19 +8,19 @@
 
 @font-face {
     font-family: FestivalFontLight;
-    src: url(/assets/fonts/festival/Antonio-Light.ttf);
+    src: url(/assets/fonts/circuito-mineiro/Merienda-Regular.ttf);
 }
 @font-face {
     font-family: FestivalFontBold;
-    src: url(/assets/fonts/festival/Antonio-Bold.ttf);
+    src: url(/assets/fonts/circuito-mineiro/Merienda-Bold.ttf);
 }
 @font-face {
     font-family: EspecialFontLight;
-    src: url(/assets/fonts/festival/WCManoNegraBta_835513655.otf);
+    src: url(/assets/fonts/circuito-mineiro/OpenSans-Light.ttf);
 }
 @font-face {
     font-family: EspecialFontBold;
-    src: url(/assets/fonts/festival/WCManoNegraBta-Bold_3698615530.otf);
+    src: url(/assets/fonts/circuito-mineiro/OpenSans-LightBold.ttf);
 }
 
 #site-header, .search, body > footer {
@@ -34,6 +34,7 @@ body {
     background-image: url($left), url($right);
     background-position: left bottom, right bottom;
     background-repeat: no-repeat;
+    background-size: contain;
     background-attachment: fixed;
     background-color: #F7FFF8;
   }// @include media($desktop) {
@@ -114,7 +115,7 @@ body {
   }
 
   span {
-    font-family: EspecialFontLight;
+    font-family: FestivalFontLight;
   }
 }// .festival .informacoes {
 
@@ -124,7 +125,7 @@ body {
   text-align: center;
 
   h1 {
-    font-family: EspecialFontBold;
+    font-family: FestivalFontBold;
     margin: 0;
     font-size: 4em;
     word-spacing: 0.2em;
@@ -138,7 +139,7 @@ body {
     margin-top: 2px;
   }
   h3 {
-    font-family: EspecialFontLight;
+    font-family: FestivalFontBold;
     font-size: 1.2em;
     margin: 0;
     margin-top: 0;
@@ -212,7 +213,7 @@ body {
   @include media($desktop) {
     display: inline-block;
     span {
-      margin-top: 20px;
+      /*margin-top: 20px;*/
       width: 100%;
       text-align: center;
       display: inline-block;
@@ -248,9 +249,9 @@ body {
  
 .descricao {
   p {
-   font-family:"Exo 2",Helvetica,Arial,sans-serif; 
+   font-family: EspecialFontLight; 
    font-size: 1em;
-   line-height: 1.6em;
+   line-height: 1.2em;
    padding: 0 20px;
    margin: 0;
 
@@ -436,7 +437,7 @@ body {
 	display: flex;
   justify-content: center;
   padding:  1%;
-  margin: 30px 0;
+  margin: 8% 0;
 
 
   iframe {
