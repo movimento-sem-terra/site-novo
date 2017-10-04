@@ -51,7 +51,7 @@ Foto: Divulga&ccedil;&atilde;o</em></p>
 <p>Na pr&oacute;xima segunda-feira (9), o MST inicia o curso P&oacute;s-m&eacute;dio em Agroecologia na Escola Popular Eg&iacute;dio Brunetto, localizada no Assentamento Jaci Rocha, no munic&iacute;pio do Prado, Extremo Sul da Bahia.</p>
 
 <p><br />
-O curso &eacute; um anexo do Centro de Estudos Psicanal&iacute;tico, Teol&oacute;gico, Educacional e Pedag&oacute;gico (CETEP) de Teixeira de Freitas e aposta em um modelo de educa&ccedil;&atilde;o profissional que alie o debate da agroecologia ao desenvolvimento social e econ&ocirc;mico, com foco na participa&ccedil;&atilde;o popular e na cria&ccedil;&atilde;o de oportunidades.</p>
+O curso &eacute; um anexo do Centro de Territorial de Educa&ccedil;&atilde;o Profissional do Extremo Sul&nbsp;(CETEPES) de Teixeira de Freitas e aposta em um modelo de educa&ccedil;&atilde;o profissional que alie o debate da agroecologia ao desenvolvimento social e econ&ocirc;mico, com foco na participa&ccedil;&atilde;o popular e na cria&ccedil;&atilde;o de oportunidades.</p>
 
 <p><br />
 Para isso, pretende-se construir um trabalho de forma&ccedil;&atilde;o integral, atrav&eacute;s da metodologia da altern&acirc;ncia, que consiste em dois tempos de estudo: o&nbsp;primeiro &eacute; o tempo escola, onde os jovens e adultos passam 15 dias na Escola Popular; e por &uacute;ltimo, 15 dias nas comunidades, colocando em pr&aacute;tica o conhecimento adquirido.</p>
