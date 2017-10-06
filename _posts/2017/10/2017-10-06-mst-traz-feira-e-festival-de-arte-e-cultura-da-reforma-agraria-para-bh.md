@@ -5,7 +5,7 @@ tags:
   - tag: minas-gerais
   - tag: arte-e-cultura
 title: MST traz feira e festival de arte e cultura da Reforma Agrária para BH
-support_line: "É a segunda vez que o MST ocupa a cidade de Belo Horizonte com uma feira e um festival, dialogando sobre a necessidade da Reforma Agrária."
+support_line: É a segunda vez que o MST ocupa a cidade de Belo Horizonte com uma feira e um festival dialogando sobre a necessidade da Reforma Agrária.
 images_hd: //farm5.staticflickr.com/4489/36865295343_45be3b1a35_b.jpg
 menu: reforma agrária
 section: featured-news
