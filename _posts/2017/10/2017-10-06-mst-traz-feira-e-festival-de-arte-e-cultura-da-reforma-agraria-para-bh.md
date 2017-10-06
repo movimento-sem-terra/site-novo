@@ -47,7 +47,7 @@ p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; color: #454545; m
 <em>Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
-Num encontro entre campo e cidade, Belo Horizonte recebe na Serraria Souza Pinto, a etapa do Circuito Mineiro de Arte e Cultura da Reforma Agr&aacute;ria, com uma feira de produtos agroecol&oacute;gicos e um festival de&nbsp; apresenta&ccedil;&otilde;es gratuitas. O evento come&ccedil;a nesta sexta-feira (06), e vai at&eacute; o pr&oacute;ximo domingo (8), acolhendo a popula&ccedil;&atilde;o de BH com produ&ccedil;&atilde;o saud&aacute;vel in natura e agroindustrializada, al&eacute;m de muita festa.</p>
+Num encontro entre campo e cidade, Belo Horizonte recebe na Serraria Souza Pinto, a etapa do <a href="https://www.facebook.com/events/128953697752233/permalink/130881397559463/">Circuito Mineiro de Arte e Cultura da Reforma Agr&aacute;ria</a>, com uma feira de produtos agroecol&oacute;gicos e um festival de&nbsp; apresenta&ccedil;&otilde;es gratuitas. O evento come&ccedil;a nesta sexta-feira (06), e vai at&eacute; o pr&oacute;ximo domingo (8), acolhendo a popula&ccedil;&atilde;o de BH com produ&ccedil;&atilde;o saud&aacute;vel in natura e agroindustrializada, al&eacute;m de muita festa.</p>
 
 <p><br />
 &ldquo;Ocupamos com as diversas dimens&otilde;es da vida do campo o centro da capital mineira. Trazendo desde a nossa produ&ccedil;&atilde;o de alimentos sem agrot&oacute;xicos, mas tamb&eacute;m o artesanato, as artes, a musicalidade camponesa&rdquo;, afirma Ester Hoffman, da coordena&ccedil;&atilde;o do MST, que organiza o evento. &ldquo;&Eacute; um momento de celebra&ccedil;&atilde;o entre campo e cidade, colhendo os frutos da luta&rdquo;, conclui.</p>
@@ -71,23 +71,23 @@ N&atilde;o &eacute; todos os dias que a cidade de Belo Horizonte recebe uma vari
 
 <p>&nbsp;</p>
 
-<p>&ldquo;Ao todo ser&atilde;o 13 cozinhas da ro&ccedil;a, que funcionar&atilde;o durante os tr&ecirc;s dias do Circuito de Arte e Cultura da Reforma Agr&aacute;ria. O card&aacute;pio est&aacute; recheado de produtos deliciosos produzidos pelos Sem Terra&rdquo;, de acordo Olivia da coordena&ccedil;&atilde;o do MST em Minas Gerais.</p>
+<p>&ldquo;Ao todo ser&atilde;o 13 cozinhas da ro&ccedil;a, que funcionar&atilde;o durante os tr&ecirc;s dias do Circuito de Arte e Cultura da Reforma Agr&aacute;ria. O card&aacute;pio est&aacute; recheado de produtos deliciosos produzidos pelos Sem Terra&rdquo;, de acordo Olivia Leal,&nbsp;da coordena&ccedil;&atilde;o do MST em Minas Gerais.</p>
 
 <p><br />
 O Alto da Alto Parana&iacute;ba mais o Tri&acirc;ngulo vai estar presente com quitandas, p&atilde;es, bolos, biscoitos. A regi&atilde;o Metropolitana vai preparar aquela dobradinha deliciosa, al&eacute;m de galop&eacute; e f&iacute;gado com jil&oacute;. E tem o Norte de Minas garantindo o tropeiro faceiro com galinha caipira, angu de milho verde, carne de sol com mandioca e arroz com Pequi.</p>
 
 <p><br />
-Sul de Minas: Arroz com galinha caipira, Arroz com Pato e Taioba, Porco no Rolete, Feijoada<br />
-Zona da Mata: Tropeiro, Torresmo com mandioca, Torresmo com ling&uuml;i&ccedil;a<br />
-Jequitinhonha e Vale do Mucuri: Sopa de banana com Costelinha de Porco Caipira, Beij&uacute;.<br />
-Vale do Rio Doce: Mandioca com Carne de Sol, Sopa de banana.</p>
+<strong>Sul de Minas:</strong> Arroz com galinha caipira, Arroz com Pato e Taioba, Porco no Rolete, Feijoada<br />
+<strong>Zona da Mata: </strong>Tropeiro, Torresmo com mandioca, Torresmo com ling&uuml;i&ccedil;a<br />
+<strong>Jequitinhonha e Vale do Mucuri: </strong>Sopa de banana com Costelinha de Porco Caipira, Beij&uacute;.<br />
+<strong>Vale do Rio Doce: </strong>Mandioca com Carne de Sol, Sopa de banana.</p>
 
 <p><strong>Estados convidados</strong><br />
 <br />
-Bahia: Moqueca de tucunar&eacute; com camar&atilde;o, Moqueca de vermelho com camar&atilde;o , Moqueca de surubi, Moqueca de dourado , Peixe frito, Galinha caipira , Bode assado , Carne de sol com aipim , Escondidinho de carne de sol , Bob&oacute; de camar&atilde;o ,Caldo se sururu, Tapioca, Sucos variados<br />
-Espirito Santo:&nbsp; Muqueca Capixaba, Bob&oacute; de Camar&atilde;o, Tapioca<br />
-Distrito Federal: Galinhada com Pequi, Carne Sol com mandioca (manteiga de garrafa)<br />
-Goi&aacute;s: Frango com gueroba, Arroz com pequi, Pastel, Caldo de Cana</p>
+<strong>Bahia: </strong>Moqueca de tucunar&eacute; com camar&atilde;o, Moqueca de vermelho com camar&atilde;o, Moqueca de surubi, Moqueca de dourado, Peixe frito, Galinha caipira, Bode assado, Carne de sol com aipim,&nbsp;Escondidinho de carne de sol, Bob&oacute; de camar&atilde;o, Caldo se sururu, Tapioca, Sucos variados<br />
+<strong>Espirito Santo:</strong>&nbsp; Muqueca Capixaba, Bob&oacute; de Camar&atilde;o, Tapioca<br />
+<strong>Distrito Federal: </strong>Galinhada com Pequi, Carne Sol com mandioca (manteiga de garrafa)<br />
+<strong>Goi&aacute;s: </strong>Frango com gueroba, Arroz com pequi, Pastel, Caldo de Cana</p>
 
 <p><br />
 <em>*Editado por Iris Pacheco</em></p>
