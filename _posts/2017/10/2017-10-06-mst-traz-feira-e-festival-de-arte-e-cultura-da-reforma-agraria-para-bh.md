@@ -60,7 +60,9 @@ Num encontro entre campo e cidade, Belo Horizonte recebe na Serraria Souza Pinto
 A programa&ccedil;&atilde;o &eacute; vasta e vai muito al&eacute;m da comercializa&ccedil;&atilde;o de produtos da Reforma Agr&aacute;ria. O festival de artes traz o espa&ccedil;o Cantoria e uma faixa de programa&ccedil;&atilde;o com a cultura Sem Terra, vinda dos assentamentos e acampamentos. Grandes shows tamb&eacute;m s&atilde;o esperados, como Renegado, Aline Calixto, Z&eacute; Mulato e Cassiano, Pereira da Viola, Z&eacute; Pinto e Titane. Vai ter folia de reis e Meninas de Sinh&aacute;, entre outros grupos de cultura popular.</p>
 
 <p><br />
-Um dos grandes momentos do Circuito &eacute; a confer&ecirc;ncia &ldquo;Silvino Golveia: Alimentar &eacute; um ato pol&iacute;tico&rdquo;, na manh&atilde; do s&aacute;bado (8), a partir das 10h, com a presen&ccedil;a da chef do Bar da Dona On&ccedil;a, Jana&iacute;na Rueda, o ex ministro da sa&uacute;de, Alexandre Padilha, D&eacute;bora Nunes, do MST, e a professora Irene Cardoso, da Universidade Federal de Vi&ccedil;osa (UFV).<br />
+Um dos grandes momentos do Circuito &eacute; a confer&ecirc;ncia &ldquo;Silvino Golveia: Alimentar &eacute; um ato pol&iacute;tico&rdquo;, na manh&atilde; do s&aacute;bado (8), a partir das 10h, com a presen&ccedil;a da chef do Bar da Dona On&ccedil;a, Jana&iacute;na Rueda, o ex ministro da sa&uacute;de, Alexandre Padilha, D&eacute;bora Nunes, do MST, e a professora Irene Cardoso, da Universidade Federal de Vi&ccedil;osa (UFV).</p>
+
+<p><br />
 Debates, encontros, feira, m&uacute;sica, rodadas de neg&oacute;cio para comercializa&ccedil;&atilde;o de produtos, cozinhas da ro&ccedil;a e at&eacute; atendimento gratuito numa tenda de cuidados e sa&uacute;de popular: a programa&ccedil;&atilde;o &eacute; um convite para todas as gera&ccedil;&otilde;es!</p>
 
 <p><br />
