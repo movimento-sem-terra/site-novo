@@ -89,24 +89,4 @@ Elizabeth, militante do MST no Esp&iacute;rito Santo, trouxe pra BH as mudas que
 <p><br />
 &ldquo;Tudo org&acirc;nico e nada de agrot&oacute;xico&rdquo;, diz outra companheira, Sanuza, tamb&eacute;m respons&aacute;vel pelo espa&ccedil;o de agrofloresta do evento. Em meio &agrave;s v&aacute;rias esp&eacute;cies de mentas, cidreira, sai&atilde;o &ndash; esse que cura tosse, Sanuza explica como o MST encara a produ&ccedil;&atilde;o de plantas. &ldquo;Aqui, al&eacute;m de fazer mostra do produto, a gente faz sa&uacute;de do corpo, da mente e da alma&rdquo;, declara. O evento segue at&eacute; o pr&oacute;ximo domingo (8), durante todo o dia.</p>
 
-<p><br />
-<strong>Servi&ccedil;o:</strong></p>
-
-<p><strong>Onde:</strong> Serraria Souza Pinto - Av. Assis Chateaubriand, 890 - Centro, Belo Horizonte.<br />
-<strong>Quando:</strong> Entre 6 e 9, sempre das 6 horas da manh&atilde; (Feira) at&eacute; &agrave;s 23 horas.</p>
-
-<p><strong>ENTRADA LIVRE</strong></p>
-
-<p><br />
-<strong>Outras informa&ccedil;&otilde;es:</strong></p>
-
-<p><em>32 99806 0686<br />
-Geanini Hackbardt<br />
-Setor de Comunica&ccedil;&atilde;o - MST</em></p>
-
-<p><br />
-<em>11 94196 7747<br />
-Rafael Soriano<br />
-Setor de Comunica&ccedil;&atilde;o</em></p>
-
 <p>&nbsp;</p>
