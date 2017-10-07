@@ -74,6 +74,10 @@ Com todo esse apoio pol&iacute;tico e social, o MST de Minas Gerais, que ir&aacu
 <p><br />
 Em cada fala de quem comp&ocirc;s a mesa, era poss&iacute;vel notar a admira&ccedil;&atilde;o e o respeito pelo Movimento, que tem se mostrado para a popula&ccedil;&atilde;o como &eacute; essencial n&atilde;o somente para a alimenta&ccedil;&atilde;o e consequente bem-estar, mas tamb&eacute;m para a conserva&ccedil;&atilde;o do meio ambiente e o cuidado com a terra.&nbsp;</p>
 
+<figure class="image" style="float:right"><img alt="03c6f1fa-3e80-41fb-bcec-60395fc27976.jpeg" height="300" src="//farm5.staticflickr.com/4486/37294430870_632282e2fd_b.jpg" width="450" />
+<figcaption></figcaption>
+</figure>
+
 <p><br />
 &quot;Esse Festival n&atilde;o traz s&oacute; alimentos e uma cultura diferente, mas tamb&eacute;m &eacute; uma demonstra&ccedil;&atilde;o da resist&ecirc;ncia rural, mesmo na atualidade de retirada de direitos e venda das riquezas naturais brasileiras para o capital estrangeiro. Resist&ecirc;ncia em sorrisos, em uma nota musical, em um sabor diferente. Feita com paz, cores e aromas. O Circuito de Arte e Cultura da Reforma Agr&aacute;ria veio para ficar em Belo Horizonte, e promete seguir em luta at&eacute; que todas e todos tenham sua terra para que possam plantar e !&quot;, afirma Esther.&nbsp;</p>
 
