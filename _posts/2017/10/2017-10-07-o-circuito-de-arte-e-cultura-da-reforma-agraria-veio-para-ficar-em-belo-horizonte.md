@@ -42,6 +42,7 @@ releated_posts:
   - _posts/2017/09/2017-09-06-atencao-minas-gerais-ja-comecou-o-circuito-mineiro-de-arte-e-cultura-da-reforma-agraria.md
   - _posts/2017/08/2017-08-25-mst-ocupa-minas-gerais-com-arte-e-cultura-da-reforma-agraria.md
   - _posts/2017/09/2017-09-04-conserva-de-jurubeba-e-carne-de-lata-ja-experimentou.md
+section: cover
 
 ---
 <p>&nbsp;</p>
