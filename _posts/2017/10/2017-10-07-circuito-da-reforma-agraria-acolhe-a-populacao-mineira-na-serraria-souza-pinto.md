@@ -46,6 +46,7 @@ releated_posts:
   - _posts/2017/10/2017-10-06-mst-traz-feira-e-festival-de-arte-e-cultura-da-reforma-agraria-para-bh.md
   - _posts/2017/03/2017-03-30-mst-realiza-8a-feira-cultural-da-reforma-agraria-no-ceara.md
   - _posts/2017/08/2017-08-25-mst-ocupa-minas-gerais-com-arte-e-cultura-da-reforma-agraria.md
+special-page: circuito-mineiro
 
 ---
 <p><img alt="photo5100852857975973831.jpg" height="466" src="//farm5.staticflickr.com/4478/23702963648_8eea7e82f1_b.jpg" width="700" /></p>
