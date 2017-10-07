@@ -4,7 +4,7 @@ tags:
   - tag: arte-e-cultura
   - tag: minas-gerais
   - tag: reforma-agrária
-title: ˜O Circuito de Arte e Cultura da Reforma Agrária veio para ficar em Belo Horizonte˜
+title: O Circuito de Arte e Cultura da Reforma Agrária veio para ficar em Belo Horizonte
 images_hd: //farm5.staticflickr.com/4484/23700651478_041226bf93_b.jpg
 menu: reforma agrária
 support_line: Ato político marca abertura do Circuito e MST promete seguir em luta até que todas e todos tenham sua terra para que  possam produzir alimentos saudáveis.
