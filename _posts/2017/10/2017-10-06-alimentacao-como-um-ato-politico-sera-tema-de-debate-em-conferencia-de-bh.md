@@ -8,7 +8,7 @@ title: "Alimentação como um ato político será tema de debate em Conferência
 support_line: "A chef Janaína Rueda e o ex ministro da saúde, Alexandre Padilha, compõem a mesa que tem como objetivo ampliar o diálogo sobre a Reforma Agrária Popular com a sociedade mineira.\n"
 menu: agricultura camponesa
 special-page: circuito-mineiro
-section: cover
+section: null
 images_hd: //farm5.staticflickr.com/4453/36823705664_953884bb86_b.jpg
 layout: post
 files:
