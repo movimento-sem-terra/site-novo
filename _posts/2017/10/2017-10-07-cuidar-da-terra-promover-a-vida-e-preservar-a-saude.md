@@ -38,13 +38,13 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p><em>Por Gabriel Cardoso<br />
+<p><em>Por Gabriel Teodoro<br />
 Do Circuito Mineiro de Arte e Cultura da Reforma Agr&aacute;ria&nbsp;</em><br />
 &nbsp;</p>
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="" height="300" src="http://farm5.staticflickr.com/4502/37298821970_ba418c6075_b.jpg" width="450" />
-<figcaption><em>Foto: Leonardo Milano-M&iacute;dia Ninja</em></figcaption>
+<figcaption><em>Foto: Leonardo Milano|M&iacute;dia Ninja</em></figcaption>
 </figure>
 </div>
 
@@ -56,7 +56,8 @@ Do Circuito Mineiro de Arte e Cultura da Reforma Agr&aacute;ria&nbsp;</em><br />
 <p>Tudo come&ccedil;ou no Assentamento Nova Conquista, munic&iacute;pio de Pinheiros. &ldquo;Quando come&ccedil;amos, t&iacute;nhamos duas ou tr&ecirc;s pessoas que nos acompanhavam; hoje, toda a comunidade nos acompanha na produ&ccedil;&atilde;o e distribui&ccedil;&atilde;o de mudas&rdquo;, diz a mulher, que tamb&eacute;m cita Paulo Freire para justificar o engajamento dos outros companheiros do assentamento. &ldquo;Paulo Freire nos diz que a primeira inst&acirc;ncia do saber &eacute; o querer. Aos poucos o povo foi querendo e hoje o Esp&iacute;rito Santo carrega suas mudas para todos os lugares&rdquo;. L&aacute;, tamb&eacute;m se produz para dois programas do Governo Federal, por meio de projetos aprovados pelo PNAE e o PAA, duas importantes conquistas para a estrutura&ccedil;&atilde;o da produ&ccedil;&atilde;o, distribui&ccedil;&atilde;o e integra&ccedil;&atilde;o do movimento com o restante da sociedade. &ldquo;Reforma agr&aacute;ria popular &eacute; integra&ccedil;&atilde;o e qualidade de vida no campo e na cidade&rdquo;, diz Beth.<br />
 &nbsp;</p>
 
-<p>http://www.otempo.com.br/cidades/de-volta-a-bh-feira-da-reforma-agr%C3%A1ria-apresenta-produtos-variados-1.1528960, tamb&eacute;m respons&aacute;vel pelo viveiro, feito majoritariamente por mulheres. Em meio a v&aacute;rias esp&eacute;cies de mentas, cidreira, sai&atilde;o &ndash; esse que cura tosse, Sanuza me explica como o MST encara a produ&ccedil;&atilde;o de plantas. &ldquo;Aqui, al&eacute;m de fazer mostra do produto, a gente faz sa&uacute;de do corpo, da mente e da alma&rdquo;. De todas, suas preferidas s&atilde;o manjeric&atilde;o e alecrim. &ldquo;Essas duas a gente pode usar para alimenta&ccedil;&atilde;o, para sa&uacute;de e tamb&eacute;m para energizar o ambiente e, por que n&atilde;o, enfeit&aacute;-lo tamb&eacute;m? &Eacute; t&atilde;o bom chegar num bar e ver alecrim na mesa&rdquo;. Para Sanuza, a cidade precisa retomar o contato com a natureza e dizer n&atilde;o aos agrot&oacute;xicos. Ela cita o exemplo das hortas urbanas como a&ccedil;&otilde;es importantes para a constru&ccedil;&atilde;o de uma sociedade diferente.</p>
+<p>&ldquo;Tudo org&acirc;nico e nada de agrot&oacute;xico&rdquo; diz a&nbsp;companheira&nbsp;Sanuza,&nbsp;tamb&eacute;m respons&aacute;vel pelo viveiro, feito majoritariamente por mulheres. Em meio a v&aacute;rias esp&eacute;cies de mentas, cidreira, sai&atilde;o &ndash; esse que cura tosse, Sanuza me explica como o MST encara a produ&ccedil;&atilde;o de plantas. &ldquo;Aqui, al&eacute;m de fazer mostra do produto, a gente faz sa&uacute;de do corpo, da mente e da alma&rdquo;. De todas, suas preferidas s&atilde;o manjeric&atilde;o e alecrim. &ldquo;Essas duas a gente pode usar para alimenta&ccedil;&atilde;o, para sa&uacute;de e tamb&eacute;m para energizar o ambiente e, por que n&atilde;o, enfeit&aacute;-lo tamb&eacute;m? &Eacute; t&atilde;o bom chegar num bar e ver alecrim na mesa&rdquo;. Para Sanuza, a cidade precisa retomar o contato com a natureza e dizer n&atilde;o aos agrot&oacute;xicos. Ela cita o exemplo das hortas urbanas como a&ccedil;&otilde;es importantes para a constru&ccedil;&atilde;o de uma sociedade diferente.<br />
+&nbsp;</p>
 
 <p>De uma ro&ccedil;a no Esp&iacute;rito Santo para o centro de Belo Horizonte. Da terra para a cozinha e tamb&eacute;m para o espa&ccedil;o da sa&uacute;de. Esse &eacute; o bonito caminho que as plantas fazem nesta festa de luta!&nbsp; Coopera&ccedil;&atilde;o, trabalho e qualidade de vida para transforma&ccedil;&atilde;o social. &Eacute; nisso que aposta o MST com a produ&ccedil;&atilde;o agroflorestal. Quem planta sa&uacute;de, planta a Revolu&ccedil;&atilde;o.<br />
 &nbsp;</p>
@@ -64,10 +65,10 @@ Do Circuito Mineiro de Arte e Cultura da Reforma Agr&aacute;ria&nbsp;</em><br />
 <p>J&aacute; quase no fim de nossa conversa, avisto Luciana, costureira e m&atilde;e de Enzo &ndash; feliz com sua nova peteca artesanal, adquirida em uma das tendas. &Eacute; a primeira vez que a fam&iacute;lia visita uma mostra organizada pelo MST.<br />
 &nbsp;</p>
 
-<p>Luciana veio do campo para a cidade e sabe o valor que a terra tem. &ldquo;Em belo horizonte h&aacute; muitos quadrados e poucas pessoas t&ecirc;m a chance de pensar fora deles!&rdquo;, afirma. A costureira, que diz que costura sonhos e n&atilde;o somente panos, enxerga o MST como um movimento que luta pelo direito de construir o mundo. &ldquo;Vivemos em um mundo que n&atilde;o constru&iacute;mos, que constroem para n&oacute;s e eles t&ecirc;m constru&iacute;do a morte, quando na verdade precisamos construir a vida&rdquo;, declara.&nbsp;</p>
+<p>Luciana veio do campo para a cidade e sabe o valor que a terra tem. &ldquo;Em belo horizonte h&aacute; muitos quadrados e poucas pessoas t&ecirc;m a chance de pensar fora deles!&rdquo;, afirma. A costureira, que diz que costura sonhos e n&atilde;o somente panos, enxerga o MST como um movimento que luta pelo direito de construir o mundo. &ldquo;Vivemos em um mundo que n&atilde;o constru&iacute;mos, que constroem para n&oacute;s e eles t&ecirc;m constru&iacute;do a morte, quando na verdade precisamos construir a vida&rdquo;, declara.<br />
+&nbsp;</p>
 
-<p><br />
-E seguimos: eu para a escrita, Elizabeth e Sanuza para mais trocas com o p&uacute;blico, e a fam&iacute;lia de Luciana com mudas de menta, hibisco e a peteca de Enzo. Essa &eacute; a beleza da uni&atilde;o entre campo e da cidade, entre saber de experi&ecirc;ncia e saber t&eacute;cnico. Este festival &eacute; a&ccedil;&atilde;o cultural e produto cultural. &Eacute; imposs&iacute;vel s&oacute; um dedo de prosa. &Eacute; preciso mais dedos, m&atilde;os, bra&ccedil;os, homens e mulheres para seguirmos em luta conjunta. J&aacute; podemos sentir, agora, que alimentar &eacute; ato pol&iacute;tico.</p>
+<p>E seguimos: eu para a escrita, Elizabeth e Sanuza para mais trocas com o p&uacute;blico, e a fam&iacute;lia de Luciana com mudas de menta, hibisco e a peteca de Enzo. Essa &eacute; a beleza da uni&atilde;o entre campo e da cidade, entre saber de experi&ecirc;ncia e saber t&eacute;cnico. Este festival &eacute; a&ccedil;&atilde;o cultural e produto cultural. &Eacute; imposs&iacute;vel s&oacute; um dedo de prosa. &Eacute; preciso mais dedos, m&atilde;os, bra&ccedil;os, homens e mulheres para seguirmos em luta conjunta. J&aacute; podemos sentir, agora, que alimentar &eacute; ato pol&iacute;tico.</p>
 
 <p>&nbsp;&nbsp;</p>
 
