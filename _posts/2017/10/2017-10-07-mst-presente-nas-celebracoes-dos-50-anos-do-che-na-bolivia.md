@@ -19,6 +19,7 @@ files:
 created_date: "2017-10-07T15:26:21-03:00"
 published: true
 releated_posts: []
+section: featured-news
 
 ---
 <p><img alt="unnamed.jpg" height="525" src="//farm5.staticflickr.com/4494/37554870191_893950e065_b.jpg" width="700" /></p>
