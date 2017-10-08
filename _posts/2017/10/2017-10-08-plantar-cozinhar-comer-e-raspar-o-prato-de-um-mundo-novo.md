@@ -62,7 +62,8 @@ Ol&iacute;via, militante da regi&atilde;o metropolitana, comenta que a cozinha d
 Minas Gerais, Esp&iacute;rito Santo, Goi&aacute;s e Bahia. Alto Parana&iacute;ba, Tri&acirc;ngulo Mineiro, Metropolitana, Norte de minas, Vale do Rio Doce e Sul de Minas. Essas eram as plaquinhas que nomeavam as barracas de sabores e sorrisos estampados nos rostos de quem sabe que fazer comida &eacute; mais do que alimentar para ficar forte. &Eacute; respeitar a vida e enxergar o humano como parte da Natureza. &ldquo;H&aacute; tanta vida em um porco como tem em um p&eacute; de alface&rdquo;, diz Ol&iacute;via.&nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="photo5064799150146693104.jpg" height="300" src="//farm5.staticflickr.com/4513/36868445874_d23035d99d_b.jpg" width="450" />
-<figcaption><em>&nbsp;O porco do rolete &eacute; uma tradi&ccedil;&atilde;o da culin&aacute;ria mineira. Foto: Jornalista Livres</em></figcaption>
+<figcaption><em>&nbsp;O porco do rolete &eacute; uma tradi&ccedil;&atilde;o da culin&aacute;ria mineira.<br />
+Foto: Jornalista Livres</em></figcaption>
 </figure>
 
 <p><br />
