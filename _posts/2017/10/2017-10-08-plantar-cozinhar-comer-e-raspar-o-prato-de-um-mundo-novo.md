@@ -7,16 +7,9 @@ tags:
 menu: reforma agrária
 support_line: "Comer no Circuito Mineiro de Arte e Cultura da Reforma Agrária é um prato feito para a junção de beleza, saúde, respeito e justiça social."
 title: "“Plantar, cozinhar, comer e raspar o prato de um mundo novo”"
-images_hd: //farm5.staticflickr.com/4458/36868445794_007ef0ef7c_b.jpg
+images_hd: //farm5.staticflickr.com/4459/37531263256_8ee1ce14c3_b.jpg
 layout: post
 files:
-  - link: //farm5.staticflickr.com/4458/36868445794_007ef0ef7c_b.jpg
-    original: //farm5.staticflickr.com/4458/36868445794_8e59f14491_o.jpg
-    thumbnail: //farm5.staticflickr.com/4458/36868445794_007ef0ef7c_t.jpg
-    medium: //farm5.staticflickr.com/4458/36868445794_007ef0ef7c_z.jpg
-    small: //farm5.staticflickr.com/4458/36868445794_007ef0ef7c_n.jpg
-    title: photo5098601058162288604.jpg
-    $$hashKey: 07Z
   - link: //farm5.staticflickr.com/4506/37578556361_bb2497872c_b.jpg
     original: //farm5.staticflickr.com/4506/37578556361_c24bc3fb3d_o.jpg
     thumbnail: //farm5.staticflickr.com/4506/37578556361_bb2497872c_t.jpg
@@ -24,25 +17,40 @@ files:
     small: //farm5.staticflickr.com/4506/37578556361_bb2497872c_n.jpg
     title: photo5100755022915938248.jpg
     $$hashKey: 082
-  - link: //farm5.staticflickr.com/4513/36868445874_d23035d99d_b.jpg
-    original: //farm5.staticflickr.com/4513/36868445874_15e21a9971_o.jpg
-    thumbnail: //farm5.staticflickr.com/4513/36868445874_d23035d99d_t.jpg
-    medium: //farm5.staticflickr.com/4513/36868445874_d23035d99d_z.jpg
-    small: //farm5.staticflickr.com/4513/36868445874_d23035d99d_n.jpg
-    title: photo5064799150146693104.jpg
-    $$hashKey: 085
+  - link: //farm5.staticflickr.com/4449/23727294368_7379323a09_b.jpg
+    original: //farm5.staticflickr.com/4449/23727294368_02b5bd32fd_o.jpg
+    thumbnail: //farm5.staticflickr.com/4449/23727294368_7379323a09_t.jpg
+    medium: //farm5.staticflickr.com/4449/23727294368_7379323a09_z.jpg
+    small: //farm5.staticflickr.com/4449/23727294368_7379323a09_n.jpg
+    title: photo5102835238786148293.jpg
+    $$hashKey: 0KJ
+  - link: //farm5.staticflickr.com/4459/37531263256_8ee1ce14c3_b.jpg
+    original: //farm5.staticflickr.com/4459/37531263256_1fbbdd2258_o.jpg
+    thumbnail: //farm5.staticflickr.com/4459/37531263256_8ee1ce14c3_t.jpg
+    medium: //farm5.staticflickr.com/4459/37531263256_8ee1ce14c3_z.jpg
+    small: //farm5.staticflickr.com/4459/37531263256_8ee1ce14c3_n.jpg
+    title: photo5102835238786148297.jpg
+    $$hashKey: 0KM
+  - link: //farm5.staticflickr.com/4476/23727299188_f7eca8daec_b.jpg
+    original: //farm5.staticflickr.com/4476/23727299188_f45dcdcfaf_o.jpg
+    thumbnail: //farm5.staticflickr.com/4476/23727299188_f7eca8daec_t.jpg
+    medium: //farm5.staticflickr.com/4476/23727299188_f7eca8daec_z.jpg
+    small: //farm5.staticflickr.com/4476/23727299188_f7eca8daec_n.jpg
+    title: photo5102835238786148298.jpg
+    $$hashKey: 0KP
 created_date: "2017-10-08T17:35:00-03:00"
 published: true
 releated_posts:
   - _posts/2017/10/2017-10-06-alimentacao-como-um-ato-politico-sera-tema-de-debate-em-conferencia-de-bh.md
+  - _posts/2017/09/2017-09-29-circuito-mineiro-de-arte-e-cultura-da-reforma-agraria-chega-a-belo-horizonte.md
 section: featured-news
 
 ---
 <p>&nbsp;</p>
 
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="photo5098601058162288604.jpg" height="466" src="//farm5.staticflickr.com/4458/36868445794_007ef0ef7c_b.jpg" width="700" />
-<figcaption><em>Foto: M&iacute;dia Ninja</em></figcaption>
+<figure class="image" style="display:inline-block"><img alt="photo5102835238786148297.jpg" height="466" src="//farm5.staticflickr.com/4459/37531263256_8ee1ce14c3_b.jpg" width="700" />
+<figcaption><em>Fotos: David&nbsp;</em></figcaption>
 </figure>
 </div>
 
@@ -59,13 +67,13 @@ Em meio &agrave; programa&ccedil;&atilde;o foi imposs&iacute;vel n&atilde;o repa
 <p><br />
 Ol&iacute;via, militante da regi&atilde;o metropolitana, comenta que a cozinha da reforma agr&aacute;ria &ldquo;&eacute; uma forma de amar as pessoas, pois o alimento &eacute; vida, e tamb&eacute;m &eacute; luta. N&atilde;o basta o alimento ser saud&aacute;vel, o processo tamb&eacute;m deve ser saud&aacute;vel. &Eacute; preciso que entendamos o processo vivo de sua feitura&quot;, essa &eacute; a linguagem do movimento.</p>
 
+<figure class="image" style="float:left"><img alt="photo5102835238786148298.jpg" height="300" src="//farm5.staticflickr.com/4476/23727299188_f7eca8daec_b.jpg" width="450" />
+<figcaption><em>&nbsp;O porco do rolete &eacute; uma tradi&ccedil;&atilde;o da culin&aacute;ria mineira.<br />
+Foto: David</em></figcaption>
+</figure>
+
 <p><br />
 Minas Gerais, Esp&iacute;rito Santo, Goi&aacute;s e Bahia. Alto Parana&iacute;ba, Tri&acirc;ngulo Mineiro, Metropolitana, Norte de minas, Vale do Rio Doce e Sul de Minas. Essas eram as plaquinhas que nomeavam as barracas de sabores e sorrisos estampados nos rostos de quem sabe que fazer comida &eacute; mais do que alimentar para ficar forte. &Eacute; respeitar a vida e enxergar o humano como parte da Natureza. &ldquo;H&aacute; tanta vida em um porco como tem em um p&eacute; de alface&rdquo;, diz Ol&iacute;via.&nbsp;</p>
-
-<figure class="image" style="float:left"><img alt="photo5064799150146693104.jpg" height="300" src="//farm5.staticflickr.com/4513/36868445874_d23035d99d_b.jpg" width="450" />
-<figcaption><em>&nbsp;O porco do rolete &eacute; uma tradi&ccedil;&atilde;o da culin&aacute;ria mineira.<br />
-Foto: Jornalista Livres</em></figcaption>
-</figure>
 
 <p><br />
 Quente e picante, o prato capixaba era devorado por mim enquanto Ol&iacute;via falava sobre o processo de fazer do porco do rolete.&nbsp;&ldquo;Hoje em dia, &eacute; quase imposs&iacute;vel que a gente veja algu&eacute;m fazendo nossa comida. Isso aqui &eacute; a agricultura familiar. Comer um porco no rolete, ou um feij&atilde;o tropeiro aqui, &eacute; diferente de comer em outros lugares. A gente sabe que, desde o tempero, at&eacute; o porco e a farinha s&atilde;o produzidos pelo setor produtivo do nosso movimento&rdquo;.&nbsp;</p>
