@@ -35,6 +35,7 @@ created_date: "2017-10-08T17:35:00-03:00"
 published: true
 releated_posts:
   - _posts/2017/10/2017-10-06-alimentacao-como-um-ato-politico-sera-tema-de-debate-em-conferencia-de-bh.md
+section: featured-news
 
 ---
 <p>&nbsp;</p>
