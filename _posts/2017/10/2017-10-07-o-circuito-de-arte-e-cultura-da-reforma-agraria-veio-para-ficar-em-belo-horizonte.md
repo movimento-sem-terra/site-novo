@@ -47,11 +47,16 @@ section: cover
 ---
 <p>&nbsp;</p>
 
-<p style="text-align:center"><img alt="428857c0-2242-465e-978e-183c6cc10abe.jpeg" height="466" src="//farm5.staticflickr.com/4484/23700651478_041226bf93_b.jpg" width="700" /></p>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="428857c0-2242-465e-978e-183c6cc10abe.jpeg" height="466" src="//farm5.staticflickr.com/4484/23700651478_041226bf93_b.jpg" width="700" />
+<figcaption><em>Foto: M&iacute;dia Ninja&nbsp;</em></figcaption>
+</figure>
+</div>
 
 <p>&nbsp;</p>
 
-<p><em>Da P&aacute;gina do MST&nbsp;</em></p>
+<p><em>Por Thanee Desgasperi - M&iacute;dia Ninja</em><br />
+<em>Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
 Nesta sexta-feira (06), se iniciou o Circuito de Arte e Cultura da Reforma Agr&aacute;ria em Belo Horizonte. &Eacute; a segunda vez que capital mineira recebe um evento com esse car&aacute;ter organizado pelos Sem Terra.&nbsp;</p>
@@ -60,7 +65,7 @@ Nesta sexta-feira (06), se iniciou o Circuito de Arte e Cultura da Reforma Agr&a
 Com uma programa&ccedil;&atilde;o recheado de diversas atividades &eacute; uma representa&ccedil;&atilde;o do modo de vida do campo, do trabalhador rural, que oferece para a popula&ccedil;&atilde;o de Belo Horizonte produtos provenientes da agricultura familiar, traz a cultura e arte produzidas pelo povo campon&ecirc;s, e acima de tudo, demonstra a resist&ecirc;ncia e a luta do povo Sem Terra.&nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="47ca7804-7333-41f8-be69-c6d6f826d24c.jpeg" height="300" src="//farm5.staticflickr.com/4505/37294232640_e3a91291fb_b.jpg" width="450" />
-<figcaption></figcaption>
+<figcaption><em>Foto: M&iacute;dia Ninja</em></figcaption>
 </figure>
 
 <p><br />
@@ -76,7 +81,7 @@ Com todo esse apoio pol&iacute;tico e social, o MST de Minas Gerais, que ir&aacu
 Em cada fala de quem comp&ocirc;s a mesa, era poss&iacute;vel notar a admira&ccedil;&atilde;o e o respeito pelo Movimento, que tem se mostrado para a popula&ccedil;&atilde;o como &eacute; essencial n&atilde;o somente para a alimenta&ccedil;&atilde;o e consequente bem-estar, mas tamb&eacute;m para a conserva&ccedil;&atilde;o do meio ambiente e o cuidado com a terra.&nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="03c6f1fa-3e80-41fb-bcec-60395fc27976.jpeg" height="300" src="//farm5.staticflickr.com/4486/37294430870_632282e2fd_b.jpg" width="450" />
-<figcaption></figcaption>
+<figcaption><em>Foto: M&iacute;dia Ninja</em></figcaption>
 </figure>
 
 <p><br />
