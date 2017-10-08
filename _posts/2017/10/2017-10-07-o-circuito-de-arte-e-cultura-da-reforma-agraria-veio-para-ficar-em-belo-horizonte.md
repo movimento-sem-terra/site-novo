@@ -55,7 +55,7 @@ section: cover
 
 <p>&nbsp;</p>
 
-<p><em>Por Thanee Desgasperi - M&iacute;dia Ninja</em><br />
+<p><em>Por Thanee Degasperi - M&iacute;dia Ninja</em><br />
 <em>Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
