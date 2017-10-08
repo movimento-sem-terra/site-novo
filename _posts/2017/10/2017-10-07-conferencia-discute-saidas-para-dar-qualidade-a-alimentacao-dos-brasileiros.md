@@ -40,8 +40,8 @@ releated_posts:
 ---
 <p><br />
 <br />
-<em>Por Thanee Desgasperi</em><br />
-<em>Da M&iacute;dia Ninja</em></p>
+<em>Por Thanee Desgasperi/M&iacute;dia Ninja</em><br />
+<em>Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
