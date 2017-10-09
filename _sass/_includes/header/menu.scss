@@ -20,6 +20,7 @@
 
     li {
       margin-left: 0px;
+      text-transform: uppercase;
     }
   }
 
@@ -67,6 +68,8 @@
         width: auto;
         font-size: 17px;
         text-align: left;
+        text-transform: uppercase;
+        
 
         li {
           @include line-menu();
@@ -89,6 +92,8 @@
 
       li {
         display: inline-block;
+        text-transform: uppercase;
+        
 
         a, a:hover, a:visited {
           display: inline-block;
@@ -127,6 +132,8 @@
       li {
         display: block;
         margin: 0px 5px;
+        text-transform: uppercase;
+        
 
         a {
           display: block;
