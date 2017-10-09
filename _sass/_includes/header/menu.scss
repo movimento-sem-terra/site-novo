@@ -8,7 +8,7 @@
     opacity: 0;
     overflow: hidden;
     margin: 0;
-    padding: 0;
+    padding: 10px 0;
     @include transition(opacity, 0.2s, ease-in);
 
     &.active {
@@ -21,6 +21,7 @@
     li {
       margin-left: 0px;
       text-transform: uppercase;
+      padding: 5px;
     }
   }
 
@@ -29,7 +30,7 @@
   }
 
   a, a:visited {
-    padding: 0;
+    padding: 10px 0;
     display: block;
     color: $color_menu;
 
@@ -59,7 +60,7 @@
       opacity: 0;
       overflow: hidden;
       margin: 0 20px;
-      padding: 0;
+      padding: 10px 0;
       @include transition(opacity, 0.2s, ease-in);
 
       &, ul {
