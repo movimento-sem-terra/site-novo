@@ -2,7 +2,7 @@
 date: "2017-10-10T11:45:13-03:00"
 tags: []
 title: MST reocupa área no Espírito Santo
-support_line: "Fazenda Nelina, localizada no Córrego Serra de Cima, no município capixaba de Nova Venécia, foi ocupado por cerca de 300 famílias no último domingo (8)."
+support_line: "Fazenda Neblina, localizada no Córrego Serra de Cima, no município capixaba de Nova Venécia, foi ocupado por cerca de 300 famílias no último domingo (8)."
 menu: lutas e mobilizações
 images_hd: //farm5.staticflickr.com/4468/37568472786_a3741d4115_b.jpg
 layout: post
