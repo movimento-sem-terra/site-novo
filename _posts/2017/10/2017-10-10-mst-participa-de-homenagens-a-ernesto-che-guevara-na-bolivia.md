@@ -98,3 +98,7 @@ O ato de encerramento ocorreu na em Vallegrande, e contou ainda com a presen&cce
 Veja <a href="https://www.facebook.com/MovimentoSemTerra/videos/1756482027757837/">aqui</a> um pouco do quem tem sido nossa jornada pela Bol&iacute;via&nbsp;</p>
 
 <p>&nbsp;</p>
+
+<p><em>*Editado por Maura Silva</em></p>
+
+<p>&nbsp;</p>
