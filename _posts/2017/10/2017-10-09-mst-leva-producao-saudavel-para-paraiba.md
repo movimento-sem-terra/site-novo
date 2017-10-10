@@ -66,12 +66,6 @@ Fam&iacute;lias do assentamento Oziel Pereira tamb&eacute;m marcaram presen&cced
 <p><br />
 Al&eacute;m da variedade de produtos, a Feira&nbsp;que durou todo o dia seguiu com apresenta&ccedil;&otilde;es art&iacute;sticas que reuniu talentos da cultura popular do campo e da cidade.&nbsp;&nbsp;</p>
 
-<p>&nbsp;</p>
+<p><strong>Veja abaixo um pouco do que foi a 2&deg; Feira de Produtos da Reforma Agr&aacute;ria da Para&iacute;ba&nbsp;</strong></p>
 
-<div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="Feira Estadual de  Produtos da Reforma Agrária_MST-PB_foto Thaís Peregrino_IMG_8144.jpg" height="493" src="//farm5.staticflickr.com/4454/36884826234_6536fbfe65_b.jpg" width="700" />
-<figcaption></figcaption>
-</figure>
-</div>
-
-<p>&nbsp;</p>
+<p><iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/3o6ay-jt2P8" width="640"></iframe></p>
