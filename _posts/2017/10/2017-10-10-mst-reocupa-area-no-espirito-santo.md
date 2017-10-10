@@ -1,6 +1,8 @@
 ---
 date: "2017-10-10T11:45:13-03:00"
-tags: []
+tags:
+  - tag: espirito-santo
+  - tag: ocupação
 title: MST reocupa área no Espírito Santo
 support_line: "Fazenda Neblina, localizada no Córrego Serra de Cima, no município capixaba de Nova Venécia, foi ocupado por cerca de 300 famílias no último domingo (8)."
 menu: lutas e mobilizações
@@ -30,7 +32,16 @@ files:
     $$hashKey: 09C
 created_date: "2017-10-10T11:54:38-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2017/05/2017-05-15-mst-reocupa-area-da-petrobras-em-linhares.md
+  - _posts/2017/03/2017-03-09-8m-de-luta-no-espirito-santo.md
+  - _posts/2017/03/2017-03-30-trabalhadores-do-campo-fecham-as-duas-br-do-espirito-santo-contra-a-reforma-da-previdencia.md
+  - _posts/2017/06/2017-06-22-a-experiencia-capixaba-na-producao-de-sementes-crioulas-e-plantas-medicinais.md
+  - _posts/2017/08/2017-08-14-infancia-no-mst-e-tema-de-seminario-dos-sem-terrinha-no-espirito-santo.md
+  - _posts/2017/08/2017-08-11-piaui-estudantes-ocupam-reitoria-e-garantem-240-novas-vagas-para-educacao-do-campo.md
+  - _posts/2017/08/2017-08-14-em-teixeira-de-freitas-estudantes-ocupam-nucleo-da-diretoria-regional-de-educacao.md
+  - _posts/2017/08/2017-08-21-sem-terram-ocupam-fazenda-do-estado-para-denunciar-privatizacao-de-terras-publicas.md
+  - _posts/2017/08/2017-08-21-mst-ocupa-duas-areas-no-interior-de-sao-paulo.md
 
 ---
 <p><img alt="Ocupação MST ES.jpg" height="394" src="//farm5.staticflickr.com/4468/37568472786_a3741d4115_b.jpg" width="700" /></p>
