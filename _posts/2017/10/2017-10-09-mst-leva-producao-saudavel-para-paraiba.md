@@ -66,6 +66,7 @@ Fam&iacute;lias do assentamento Oziel Pereira tamb&eacute;m marcaram presen&cced
 <p><br />
 Al&eacute;m da variedade de produtos, a Feira&nbsp;que durou todo o dia seguiu com apresenta&ccedil;&otilde;es art&iacute;sticas que reuniu talentos da cultura popular do campo e da cidade.&nbsp;&nbsp;</p>
 
-<p><strong>Veja abaixo um pouco do que foi a 2&deg; Feira de Produtos da Reforma Agr&aacute;ria da Para&iacute;ba&nbsp;</strong></p>
+<p><br />
+<strong>Veja abaixo um pouco do que foi a 2&deg; Feira de Produtos da Reforma Agr&aacute;ria da Para&iacute;ba&nbsp;</strong></p>
 
 <p><iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/3o6ay-jt2P8" width="640"></iframe></p>
