@@ -56,4 +56,7 @@ Um dos objetivos do encontro foi promover o debate sobre a conjuntura pol&iacute
 Ao final do evento, foi lan&ccedil;ada a &quot;Carta de Comunicadoras e Comunicadores Populares do Nordeste&quot;. O texto repudia a retirada de direitos intensificada com o governo golpista de Michel Temer (PMDB). Para somar for&ccedil;as contra as a&ccedil;&otilde;es de desmonte, as entidades afirmam que &eacute; necess&aacute;rio fortalecer a elabora&ccedil;&atilde;o e a circula&ccedil;&atilde;o conjunta de conte&uacute;dos das m&iacute;dias populares.&nbsp;</p>
 
 <p><br />
+Confira a &iacute;ntegra da carta <a href="https://www.dropbox.com/s/y4bbqdpk68p8yku/CARTA.pdf?dl=0">aqui</a>.&nbsp;</p>
+
+<p><br />
 &nbsp;</p>
