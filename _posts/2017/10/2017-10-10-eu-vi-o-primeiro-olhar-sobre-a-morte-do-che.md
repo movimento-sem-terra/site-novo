@@ -86,7 +86,9 @@ Biava destaca a import&acirc;ncia do olhar sens&iacute;vel de Helle Alves, que t
 <p>&ldquo;Naquele momento, est&aacute;vamos vivendo um momento dif&iacute;cil na regi&atilde;o, e eu acredito que a maneira como a Dona Helle descreve os fatos, sem tomar partido de nenhum lado, mas evidenciando a quest&atilde;o humana, a como&ccedil;&atilde;o da popula&ccedil;&atilde;o de Vallegrande que nem sabia bem o que estava acontecendo... Esse olhar foi o que permitiu que o texto fosse publicado sem maiores problemas. Por isso o t&iacute;tulo do filme, que tamb&eacute;m &eacute; o t&iacute;tulo do livro de mem&oacute;rias dela. Em primeira pessoa, afinal, o que nos chama a aten&ccedil;&atilde;o &eacute; esse olhar t&atilde;o particular de um fato hist&oacute;rico como esse&rdquo;.</p>
 
 <p><br />
-Apesar de o filme ter sido produzido com pouqu&iacute;ssimos recursos e uma equipe reduzida, o document&aacute;rio de cerca de 20 minutos recebeu v&aacute;rios pr&ecirc;mios dentro e fora do Brasil, e foi reproduzido em festivais de cinema do mundo inteiro, entre eles o Festival de Cinema de Havana, onde o filme teve uma grande repercuss&atilde;o.<br />
+Apesar de o filme ter sido produzido com pouqu&iacute;ssimos recursos e uma equipe reduzida, o document&aacute;rio de cerca de 20 minutos recebeu v&aacute;rios pr&ecirc;mios dentro e fora do Brasil, e foi reproduzido em festivais de cinema do mundo inteiro, entre eles o Festival de Cinema de Havana, onde o filme teve uma grande repercuss&atilde;o.</p>
+
+<p><br />
 Al&eacute;m das entrevistas com a jornalista Helle Alves, o filme tr&aacute;s ainda o depoimento do ex-editor-chefe dos Di&aacute;rios Associados, Wilson Gomes e da filha de Che Guevara, Aleida Guevara.&nbsp;</p>
 
 <div style="text-align:center">
