@@ -4,8 +4,8 @@ tags:
   - tag: comunicação-popular
   - tag: rio-grande-do-norte
   - tag: comunicação
-title: "Sem Terra comemoram imissão de posse no sertão sergipano "
-support_line: "Ao final do evento, foi lançada a \"Carta de Comunicadoras e Comunicadores Populares do Nordeste\". O texto repudia a retirada de direitos intensificada com o governo golpista de Michel Temer"
+title: "Em encontro, movimentos lançam carta em defesa da comunicação popular"
+support_line: O texto repudia a retirada de direitos intensificada com o governo golpista de Michel Temer
 menu: lutas e mobilizações
 images_hd: //farm5.staticflickr.com/4454/36947792993_e43141bdce_b.jpg
 layout: post
