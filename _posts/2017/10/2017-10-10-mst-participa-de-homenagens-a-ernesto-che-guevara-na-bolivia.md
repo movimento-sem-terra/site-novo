@@ -49,7 +49,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="008_50 anos de Che na Bolívia_Ft Kanova.jpg" height="467" src="//farm5.staticflickr.com/4479/37568565916_e923ef1e9a_b.jpg" width="700" />
-<figcaption></figcaption>
+<figcaption>Fotos: Ant&ocirc;nio Kanova&nbsp;</figcaption>
 </figure>
 </div>
 
@@ -74,7 +74,7 @@ A manh&atilde;&nbsp; do s&aacute;bado (7), foi marcada por mesas de debates que 
 </div>
 
 <p><br />
-Em entrevista &agrave; equipe de comunica&ccedil;&atilde;o da brigada do MST na Bol&iacute;via, Borregos falou sobre a import&acirc;ncia&nbsp; dos povos do campo para a revolu&ccedil;&atilde;o e enviou sauda&ccedil;&otilde;es a toda milit&acirc;ncia do movimento, &quot;envio uma sauda&ccedil;&atilde;o especial e pessoal, meus pais eram camponeses e fui nascido e criado no campo. A import&acirc;ncia da for&ccedil;a camponesa na revolu&ccedil;&atilde;o cubana foi decisiva e importante, mas n&atilde;o se pode dizer que foi a &uacute;nica. Ganhar a confian&ccedil;a e apoio dos camponeses e camponesas foi decisivo. Infelizmente, t&iacute;nhamos um alto &iacute;ndice de analfabetismo no campo. Por isso n&atilde;o podemos ficar apenas no discurso filos&oacute;fico artificial sobre a agricultura, que muitos revolucion&aacute;rios t&ecirc;m, desconhecendo sua linguagem, sua a vida no campo. N&atilde;o se podemos falar do campesinato sem estar perto do povo campon&ecirc;s&rdquo;, afirmou.</p>
+Em entrevista &agrave; equipe de comunica&ccedil;&atilde;o da brigada do MST na Bol&iacute;via, Borrego&nbsp;falou sobre a import&acirc;ncia&nbsp; dos povos do campo para a revolu&ccedil;&atilde;o e enviou sauda&ccedil;&otilde;es a toda milit&acirc;ncia do movimento, &quot;envio uma sauda&ccedil;&atilde;o especial e pessoal, meus pais eram camponeses e fui nascido e criado no campo. A import&acirc;ncia da for&ccedil;a camponesa na revolu&ccedil;&atilde;o cubana foi decisiva e importante, mas n&atilde;o se pode dizer que foi a &uacute;nica. Ganhar a confian&ccedil;a e apoio dos camponeses e camponesas foi decisivo. Infelizmente, t&iacute;nhamos um alto &iacute;ndice de analfabetismo no campo. Por isso n&atilde;o podemos ficar apenas no discurso filos&oacute;fico artificial sobre a agricultura, que muitos revolucion&aacute;rios t&ecirc;m, desconhecendo sua linguagem, sua a vida no campo. N&atilde;o se podemos falar do campesinato sem estar perto do povo campon&ecirc;s&rdquo;, afirmou.</p>
 
 <p><br />
 J&aacute; no domingo (8), data em que se relembra os cinquenta anos da captura ainda com vida de Ernesto Guevara, a brigada do MST e Levante Popular da Juventude participou das homenagens realizadas no povoado La Higuera, local onde ocorreu a pris&atilde;o e posterior execu&ccedil;&atilde;o do comandante e outros guerrilheiros em 1967.</p>
@@ -92,7 +92,7 @@ Concentrados na cidade vizinha de Pucar&aacute; com outros movimentos sociais la
 O presidente da Bol&iacute;via, Evo Morales, liderou a marcha a partir da Quebrada del Churro, caminhando por uma hora at&eacute; La Higuera, onde fez quest&atilde;o de destacar a atualidade do pensamento anti-imperialista de Ernesto Che Guevara: &quot;a luta dos povos segue e seguir&aacute; at&eacute; que exista o explora&ccedil;&atilde;o do imperialismo norte-americano&quot;, disse.</p>
 
 <p><br />
-O ato de encerramento ocorreu na em Vallegrande, e contou ainda com a presen&ccedil;a da ex-presidenta da Argentina, Cristina Fern&aacute;ndez de Kirchner, e do atual presidente do Equador, Lenin Moreno, al&eacute;m do vice-presidente de Cuba e comandante hist&oacute;rico da Revolu&ccedil;&atilde;o, Ramiro Vald&eacute;s, da filha e do irm&atilde;o de Che, Aleida Guevara e Ramiro Guevara.</p>
+O ato de encerramento ocorreu em Vallegrande, e contou ainda com a presen&ccedil;a da ex-presidenta da Argentina, Cristina Fern&aacute;ndez de Kirchner, e do atual presidente do Equador, Lenin Moreno, al&eacute;m do vice-presidente de Cuba e comandante hist&oacute;rico da Revolu&ccedil;&atilde;o, Ramiro Vald&eacute;s, da filha e do irm&atilde;o de Che, Aleida Guevara e Ramiro Guevara.</p>
 
 <p><br />
 Veja <a href="https://www.facebook.com/MovimentoSemTerra/videos/1756482027757837/">aqui</a> um pouco do quem tem sido nossa jornada pela Bol&iacute;via&nbsp;</p>
