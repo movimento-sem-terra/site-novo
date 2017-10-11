@@ -31,6 +31,13 @@ files:
     small: //farm5.staticflickr.com/4448/36932618274_9d8a85610f_n.jpg
     title: Foto Caco Argemi 3.jpg
     $$hashKey: 08C
+  - link: //farm5.staticflickr.com/4450/36932749884_3e45014dc9_b.jpg
+    original: //farm5.staticflickr.com/4450/36932749884_fa44a7c5b0_o.jpg
+    thumbnail: //farm5.staticflickr.com/4450/36932749884_3e45014dc9_t.jpg
+    medium: //farm5.staticflickr.com/4450/36932749884_3e45014dc9_z.jpg
+    small: //farm5.staticflickr.com/4450/36932749884_3e45014dc9_n.jpg
+    title: Foto Caco Argemi.jpg
+    $$hashKey: 05P
 created_date: "2017-10-11T18:58:26-03:00"
 published: true
 releated_posts:
@@ -41,7 +48,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Foto Caco Argemi 3.jpg" height="467" src="//farm5.staticflickr.com/4448/36932618274_9d8a85610f_b.jpg" width="700" />
-<figcaption>&nbsp;Let&iacute;cia Stasiak</figcaption>
+<figcaption>Foto: Caco Argemi</figcaption>
 </figure>
 </div>
 
@@ -74,7 +81,7 @@ O chefe da Casa Civil se comprometeu a encaminhar as demandas apresentadas para 
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Foto Catiana de Medieros.jpg" height="467" src="//farm5.staticflickr.com/4514/37643783661_af14ea9319_b.jpg" width="700" />
-<figcaption></figcaption>
+<figcaption>Foto Catiana de Medeiros&nbsp;</figcaption>
 </figure>
 </div>
 
@@ -83,3 +90,12 @@ O chefe da Casa Civil se comprometeu a encaminhar as demandas apresentadas para 
 
 <p><br />
 A audi&ecirc;ncia na Casa Civil faz parte da 19&ordf; Jornada dos Sem Terrinha do Rio Grande do Sul, que iniciou no &uacute;ltimo s&aacute;bado (7) com um encontro regional no Sul do estado. At&eacute; a pr&oacute;xima sexta-feira (13) acontecem encontros em outras regi&otilde;es onde o MST est&aacute; organizado, com o tema &ldquo;Reforma Agr&aacute;ria Popular e Agroecologia&rdquo;. A previs&atilde;o &eacute; que cerca de 1 mil crian&ccedil;as estejam mobilizadas em v&aacute;rias atividades, entre elas a prepara&ccedil;&atilde;o ao 1&ordm; Encontro Nacional dos Sem Terrinha, que ocorrer&aacute; em maio de 2018 em Bras&iacute;lia.</p>
+
+<p><br />
+&nbsp;</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="Foto Caco Argemi.jpg" height="467" src="//farm5.staticflickr.com/4450/36932749884_3e45014dc9_b.jpg" width="700" />
+<figcaption>Foto: Caco Argemi&nbsp;</figcaption>
+</figure>
+</div>
