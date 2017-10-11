@@ -92,7 +92,7 @@ Concentrados na cidade vizinha de Pucar&aacute; com outros movimentos sociais la
 O presidente da Bol&iacute;via, Evo Morales, liderou a marcha a partir da Quebrada del Churro, caminhando por uma hora at&eacute; La Higuera, onde fez quest&atilde;o de destacar a atualidade do pensamento anti-imperialista de Ernesto Che Guevara: &quot;a luta dos povos segue e seguir&aacute; at&eacute; que exista o explora&ccedil;&atilde;o do imperialismo norte-americano&quot;, disse.</p>
 
 <p><br />
-O ato de encerramento ocorreu em Vallegrande, e contou ainda com a presen&ccedil;a da ex-presidenta da Argentina, Cristina Fern&aacute;ndez de Kirchner, e do atual presidente do Equador, Lenin Moreno, al&eacute;m do vice-presidente de Cuba e comandante hist&oacute;rico da Revolu&ccedil;&atilde;o, Ramiro Vald&eacute;s, da filha e do irm&atilde;o de Che, Aleida Guevara e Ramiro Guevara.</p>
+O ato de encerramento ocorreu em Vallegrande, e contou ainda com a presen&ccedil;a do vice-presidente de Cuba e comandante hist&oacute;rico da Revolu&ccedil;&atilde;o, Ramiro Vald&eacute;s, da filha e do irm&atilde;o de Che, Aleida Guevara e Ramiro Guevara.</p>
 
 <p><br />
 Veja <a href="https://www.facebook.com/MovimentoSemTerra/videos/1756482027757837/">aqui</a> um pouco do quem tem sido nossa jornada pela Bol&iacute;via&nbsp;</p>
