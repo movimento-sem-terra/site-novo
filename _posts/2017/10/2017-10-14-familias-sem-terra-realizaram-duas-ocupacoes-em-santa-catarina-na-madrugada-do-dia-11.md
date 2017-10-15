@@ -32,3 +32,26 @@ releated_posts:
   - _posts/2017/08/2017-08-21-avanca-na-justica-processo-sobre-terra-ocupada-pelo-mst-em-goias.md
 
 ---
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><em>Por Juliana Adriano<br />
+Da P&aacute;gina do MST</em></p>
+
+<p>&nbsp;</p>
+
+<p>Fam&iacute;lias Sem Terra realizaram duas ocupa&ccedil;&otilde;es em Santa Catarina na madrugada do dia 11 de outubro. Elas aconteceram simultaneamente nos munic&iacute;pios de Calmon e Doutor Pedrinho.</p>
+
+<p><br />
+A &aacute;rea em Calmon &eacute; conhecida por Fazenda Pinhal, possui cerca de dois mil hectares. H&aacute; 30 anos, a madeira empregava cerca de 400 funcion&aacute;rios. Hoje, as estruturas est&atilde;o abandonadas, deteriorando. Os crimes ambientais foram de diversas ordens e as informa&ccedil;&otilde;es indicam que h&aacute; 20 anos a fazenda est&aacute; hipotecada junto ao Banco do Brasil e que as d&iacute;vidas n&atilde;o foram pagas junto a Receita Federal. A expectativa da Dire&ccedil;&atilde;o do MST &eacute; de que at&eacute; o final de semana cerca de 100 fam&iacute;lias estejam instaladas na &aacute;rea.</p>
+
+<p><br />
+Em Doutor Pedrinho, a ocupa&ccedil;&atilde;o aconteceu pr&oacute;xima ao Acampamento Gina Couto. A partir das 6h da manh&atilde;, cerca de 80 fam&iacute;lias come&ccedil;aram a construir seus barracos. A &aacute;rea em quest&atilde;o possui cerca de 400 hectares&nbsp;e foi negociada na d&eacute;cada de 1990, mas o pagamento n&atilde;o foi efetivado. Seu Antonio, que era o dono da &aacute;rea, faleceu sem ver a quest&atilde;o resolvida. Seus filhos seguiram reclamando a &aacute;rea&nbsp;na justi&ccedil;a, mas a senten&ccedil;a foi favor&aacute;vel ao comprador. Hoje, a fam&iacute;lia paga aluguel em Rio Negrinho. Atualmente, o fazendeiro Marve se diz dono da &aacute;rea, mas a informa&ccedil;&atilde;o &eacute; que o mesmo n&atilde;o possui documenta&ccedil;&atilde;o da &aacute;rea.</p>
+
+<p><br />
+Para o dirigente do MST Jacemir, essas ocupa&ccedil;&otilde;es s&atilde;o tamb&eacute;m &quot;uma forma de resposta a este governo corrupto, que busca entregar nossas terras aos estrangeiros. Entendemos que as terras ocupadas n&atilde;o cumprem sua fun&ccedil;&atilde;o social e devem ser distribu&iacute;das ao nosso povo, que precisa de espa&ccedil;o digno para morar e produzir&quot;.</p>
+
+<p>&nbsp;</p>
+
+<p><em>*Editada por Leonardo Fernandes</em></p>
