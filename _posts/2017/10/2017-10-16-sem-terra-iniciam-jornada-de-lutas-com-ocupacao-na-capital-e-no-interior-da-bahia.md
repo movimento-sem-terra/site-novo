@@ -48,7 +48,7 @@ Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
-<p>Cerca de mil trabalhadores e trabalhadoras Sem Terra de dez regi&otilde;es do estado da Bahia ocuparam na manh&atilde; desta segunda-feira (16) o Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra), localizado no Centro Administrativo da Bahia (CAB), e em Ponto Novo. No Norte baiano, 450 fam&iacute;lias ligadas ao MST e ao Movimento dos Pequenos Agricultores (MPA) ocuparam a sede do s&iacute;tio Barreira, cuja &aacute;rea possui mais de 2 mil hectares.</p>
+<p>Cerca de mil trabalhadores e trabalhadoras Sem Terra de dez regi&otilde;es do estado da Bahia ocuparam na manh&atilde; desta segunda-feira (16) o Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra), localizado no Centro Administrativo da Bahia (CAB). Tamb&eacute;m em Ponto Novo, no Norte baiano, 450 fam&iacute;lias ligadas ao MST e ao Movimento dos Pequenos Agricultores (MPA) ocuparam a sede do s&iacute;tio Barreira, cuja &aacute;rea possui mais de 2 mil hectares.</p>
 
 <p><br />
 As a&ccedil;&otilde;es fazem parte da Jornada Nacional de Lutas em Defesa da Reforma Agr&aacute;ria, que mobiliza milhares de fam&iacute;lias Sem Terra em todo Brasil. Na Bahia, o MST reivindica uma pauta antiga junto ao Incra, que vai desde o processo de desapropria&ccedil;&atilde;o de &aacute;reas hist&oacute;ricas &agrave; garantia de direitos b&aacute;sicos nos assentamentos, como estradas, cr&eacute;dito para produ&ccedil;&atilde;o e assist&ecirc;ncia t&eacute;cnica.</p>
