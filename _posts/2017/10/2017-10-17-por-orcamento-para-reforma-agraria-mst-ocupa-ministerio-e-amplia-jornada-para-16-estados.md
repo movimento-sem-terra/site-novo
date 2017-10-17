@@ -79,6 +79,7 @@ releated_posts:
   - _posts/2017/07/2017-07-27-sem-terra-ocupam-os-trilhos-da-ferrovia-ferronorte-em-rondonopolis-mato-grosso.md
   - _posts/2017/07/2017-07-27-juventude-faz-escracho-em-frente-a-casa-de-eunicio-oliveira-no-ceara.md
   - _posts/2017/07/2017-07-26-na-bahia-sem-terra-ocupam-o-incra-em-defesa-da-reforma-agraria.md
+section: cover
 
 ---
 <div style="text-align:center">
