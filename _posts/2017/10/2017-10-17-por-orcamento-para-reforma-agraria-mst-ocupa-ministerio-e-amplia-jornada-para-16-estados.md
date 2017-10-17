@@ -81,6 +81,12 @@ releated_posts:
   - _posts/2017/07/2017-07-26-na-bahia-sem-terra-ocupam-o-incra-em-defesa-da-reforma-agraria.md
 
 ---
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="SecEducação5 (1).jpg" height="466" src="//farm5.staticflickr.com/4448/37760905111_04d4e77c93_b.jpg" width="700" />
+<figcaption></figcaption>
+</figure>
+</div>
+
 <p>&nbsp;</p>
 
 <p><em>Da P&aacute;gina do MST</em></p>
