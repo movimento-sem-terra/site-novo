@@ -15,7 +15,7 @@ timezone: BR
 lollipop:
   title:  Circuito Mineiro de Arte e Cultura da Reforma Agrária
   link:   circuito-mineiro-de-arte-e-cultura
-  enabled: true
+  enabled: false
 gems:
   - jekyll-sitemap
 exclude:
