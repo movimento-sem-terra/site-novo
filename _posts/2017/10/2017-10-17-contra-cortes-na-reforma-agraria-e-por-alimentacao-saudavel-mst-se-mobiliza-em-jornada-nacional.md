@@ -55,7 +55,7 @@ releated_posts:
 A mobiliza&ccedil;&atilde;o busca denunciar o desmonte da pol&iacute;tica de Reforma Agr&aacute;ria e cobrar restitui&ccedil;&atilde;o de seus or&ccedil;amentos.</p>
 
 <p><br />
-A Jornada Nacional de Lutas de Outubro j&aacute; mobiliza cerca de dez mil militantes dos estados de Mato Grosso, Goi&aacute;s, Alagoas, Pernambuco, Bahia, Sergipe, Cear&aacute; e Para&iacute;ba, al&eacute;m do Distrito Federal. Foram ocupadas dez unidades do Incra.</p>
+A Jornada Nacional de Lutas de Outubro j&aacute; mobiliza cerca de dez mil militantes dos estados de Mato Grosso, Goi&aacute;s, Alagoas, Pernambuco, Tocantins, Bahia, Sergipe, Cear&aacute; e Para&iacute;ba, al&eacute;m do Distrito Federal. Foram ocupadas onze unidades do Incra at&eacute; a noite desta segunda.</p>
 
 <p><br />
 Para reivindicar terras para produ&ccedil;&atilde;o de alimentos saud&aacute;veis, tamb&eacute;m foram ocupadas tr&ecirc;s fazendas improdutivas: na Bahia, no Mato Grosso e em Goi&aacute;s (esta ainda no domingo, 15).</p>
