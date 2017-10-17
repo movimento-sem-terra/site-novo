@@ -94,7 +94,7 @@ section: cover
 
 <p>&nbsp;</p>
 
-<p>O Movimento dos Trabalhadores Rurais Sem Terra (MST) segue mobilizado na Jornada Nacional de Lutas de Outubro. Iniciada nesta segunda-feira (16), com mobiliza&ccedil;&otilde;es em nove estados e no Distrito Federal, a Jornada se amplia e j&aacute; atinge 16 unidades da federa&ccedil;&atilde;o nesta ter&ccedil;a-feira (17). S&atilde;o mais de 15 mil trabalhadores realizando a&ccedil;&otilde;es em todo pa&iacute;s.</p>
+<p>O MST segue mobilizado na Jornada Nacional de Lutas de Outubro. Iniciada nesta segunda-feira (16), com mobiliza&ccedil;&otilde;es em nove estados e no Distrito Federal, a Jornada se amplia e j&aacute; atinge 16 unidades da federa&ccedil;&atilde;o nesta ter&ccedil;a-feira (17). S&atilde;o mais de 15 mil trabalhadores realizando a&ccedil;&otilde;es em todo pa&iacute;s.</p>
 
 <p><br />
 Foram ocupadas sedes do Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra) nas seguintes localidades: Fortaleza, Jo&atilde;o Pessoa, Recife, Petrolina-PE, Macei&oacute;, Salvador, Ponto Novo-BA, Aracaju, Palmas, S&atilde;o Lu&iacute;s, Porto Alegre, Curitiba, Florian&oacute;polis, S&atilde;o Paulo e Belo Horizonte.</p>
