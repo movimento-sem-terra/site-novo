@@ -24,6 +24,13 @@ files:
     small: //farm5.staticflickr.com/4490/37707566276_fb10e0582b_n.jpg
     title: photo_2017-10-16_22-01-58.jpg
     $$hashKey: 0QW
+  - link: //farm5.staticflickr.com/4488/37707634246_55845f587c_b.jpg
+    original: //farm5.staticflickr.com/4488/37707634246_684c6c341e_o.jpg
+    thumbnail: //farm5.staticflickr.com/4488/37707634246_55845f587c_t.jpg
+    medium: //farm5.staticflickr.com/4488/37707634246_55845f587c_z.jpg
+    small: //farm5.staticflickr.com/4488/37707634246_55845f587c_n.jpg
+    title: photo_2017-10-16_22-01-23.jpg
+    $$hashKey: "146"
 created_date: "2017-10-17T13:15:53-02:00"
 published: true
 releated_posts:
@@ -75,6 +82,12 @@ Diante disso, Djacira colocou como desafios: erradicar o analfabetismo; fortalec
 
 <p><br />
 &ldquo;Fica como tarefa nossa, enquanto educadores e educadoras, dialogar com as fam&iacute;lias assentadas e acampadas sobre a import&acirc;ncia da educa&ccedil;&atilde;o do campo e explicar, que diante da atual conjuntura em que estamos vivendo, &eacute; preciso lutar e resistir para construir uma educa&ccedil;&atilde;o em que o sujeito seja construtor da sua trajet&oacute;ria&rdquo;, destacou.</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="photo_2017-10-16_22-01-23.jpg" height="466" src="//farm5.staticflickr.com/4488/37707634246_55845f587c_b.jpg" width="700" />
+<figcaption>Djacira Ara&uacute;jo, da dire&ccedil;&atilde;o estadual do MST</figcaption>
+</figure>
+</div>
 
 <p><br />
 <strong>Encontro Estadual</strong></p>
