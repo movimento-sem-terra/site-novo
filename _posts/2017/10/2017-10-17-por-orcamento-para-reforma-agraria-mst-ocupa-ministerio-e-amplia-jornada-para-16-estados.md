@@ -1,10 +1,13 @@
 ---
 date: "2017-10-17T17:25:40-02:00"
-tags: []
+tags:
+  - tag: jornada-nacional-de-lutas
+  - tag: mobilizações
+  - tag: reforma-agrária
 title: "Por orçamento para Reforma Agrária, MST ocupa Ministério e amplia jornada para 16 estados"
 menu: lutas e mobilizações
 support_line: Os militantes advertem que não vão desocupar nenhum órgão enquanto o governo federal não os receber.
-images_hd: //farm5.staticflickr.com/4508/37051557844_c570dcdefa_b.jpg
+images_hd: //farm5.staticflickr.com/4448/37760905111_04d4e77c93_b.jpg
 layout: post
 files:
   - link: //farm5.staticflickr.com/4508/37051557844_c570dcdefa_b.jpg
@@ -14,13 +17,70 @@ files:
     small: //farm5.staticflickr.com/4508/37051557844_c570dcdefa_n.jpg
     title: WhatsApp Image 2017-10-16 at 09.17.04.jpeg
     $$hashKey: "034"
+  - link: //farm5.staticflickr.com/4468/37090463313_c8629ec70e_b.jpg
+    original: //farm5.staticflickr.com/4468/37090463313_6cc8f3a12b_o.jpg
+    thumbnail: //farm5.staticflickr.com/4468/37090463313_c8629ec70e_t.jpg
+    medium: //farm5.staticflickr.com/4468/37090463313_c8629ec70e_z.jpg
+    small: //farm5.staticflickr.com/4468/37090463313_c8629ec70e_n.jpg
+    title: 22528333_1765412710198102_667093128975840363_n.jpg
+    $$hashKey: 03K
+  - link: //farm5.staticflickr.com/4467/37051726884_143e259b45_b.jpg
+    original: //farm5.staticflickr.com/4467/37051726884_727797e9c1_o.jpg
+    thumbnail: //farm5.staticflickr.com/4467/37051726884_143e259b45_t.jpg
+    medium: //farm5.staticflickr.com/4467/37051726884_143e259b45_z.jpg
+    small: //farm5.staticflickr.com/4467/37051726884_143e259b45_n.jpg
+    title: 22552551_1765518243520882_2764898486018279110_n.jpg
+    $$hashKey: 03N
+  - link: //farm5.staticflickr.com/4484/37712186156_730887f230_b.jpg
+    original: //farm5.staticflickr.com/4484/37712186156_0dda9430b1_o.jpg
+    thumbnail: //farm5.staticflickr.com/4484/37712186156_730887f230_t.jpg
+    medium: //farm5.staticflickr.com/4484/37712186156_730887f230_z.jpg
+    small: //farm5.staticflickr.com/4484/37712186156_730887f230_n.jpg
+    title: 22528451_1765575116848528_7739573293622939996_n.jpg
+    $$hashKey: 03Q
+  - link: //farm5.staticflickr.com/4457/37090562453_675fdd3db1_b.jpg
+    original: //farm5.staticflickr.com/4457/37090562453_8f49938220_o.jpg
+    thumbnail: //farm5.staticflickr.com/4457/37090562453_675fdd3db1_t.jpg
+    medium: //farm5.staticflickr.com/4457/37090562453_675fdd3db1_z.jpg
+    small: //farm5.staticflickr.com/4457/37090562453_675fdd3db1_n.jpg
+    title: 22449972_1765593613513345_2839905577261530901_n.jpg
+    $$hashKey: 03T
+  - link: //farm5.staticflickr.com/4506/37051799544_3ef2f03531_b.jpg
+    original: //farm5.staticflickr.com/4506/37051799544_a9710f519d_o.jpg
+    thumbnail: //farm5.staticflickr.com/4506/37051799544_3ef2f03531_t.jpg
+    medium: //farm5.staticflickr.com/4506/37051799544_3ef2f03531_z.jpg
+    small: //farm5.staticflickr.com/4506/37051799544_3ef2f03531_n.jpg
+    title: 22449864_1765599060179467_6970110366079231532_n.jpg
+    $$hashKey: 03W
+  - link: //farm5.staticflickr.com/4458/37728797492_c492188a42_b.jpg
+    original: //farm5.staticflickr.com/4458/37728797492_2d7698cce5_o.jpg
+    thumbnail: //farm5.staticflickr.com/4458/37728797492_c492188a42_t.jpg
+    medium: //farm5.staticflickr.com/4458/37728797492_c492188a42_z.jpg
+    small: //farm5.staticflickr.com/4458/37728797492_c492188a42_n.jpg
+    title: 22539826_1765643160175057_941462620929203154_n.jpg
+    $$hashKey: 04H
+  - link: //farm5.staticflickr.com/4448/37760905111_04d4e77c93_b.jpg
+    original: //farm5.staticflickr.com/4448/37760905111_1a843a32e5_o.jpg
+    thumbnail: //farm5.staticflickr.com/4448/37760905111_04d4e77c93_t.jpg
+    medium: //farm5.staticflickr.com/4448/37760905111_04d4e77c93_z.jpg
+    small: //farm5.staticflickr.com/4448/37760905111_04d4e77c93_n.jpg
+    title: SecEducação5 (1).jpg
+    $$hashKey: 07D
 created_date: "2017-10-17T17:38:01-02:00"
-published: false
-releated_posts: []
+published: true
+releated_posts:
+  - _posts/2017/04/2017-04-20-mst-encerra-mobilizacoes-em-porto-alegre-com-doacao-de-alimentos-para-escola-indigena.md
+  - _posts/2017/07/2017-07-25-em-jornada-nacional-de-lutas-mst-ocupa-fazenda-de-ministro-blairo-maggi.md
+  - _posts/2017/04/2017-04-18-a-jornada-nacional-de-lutas-pela-reforma-agraria-esta-dentro-do-contexto-politico-do-pais.md
+  - _posts/2017/04/2017-04-18-jornada-de-lutas-continua-em-maceio-com-ocupacao-do-incra.md
+  - _posts/2017/07/2017-07-26-sem-terra-ocupam-perimetro-irrigado-no-rio-grande-do-norte.md
+  - _posts/2017/07/2017-07-26-sem-terra-ocupam-fazenda-de-cana-no-ms.md
+  - _posts/2017/04/2017-04-17-em-maceio-organizacoes-do-campo-convocam-vigilia-em-frente-ao-tribunal-de-justica.md
+  - _posts/2017/07/2017-07-27-sem-terra-ocupam-os-trilhos-da-ferrovia-ferronorte-em-rondonopolis-mato-grosso.md
+  - _posts/2017/07/2017-07-27-juventude-faz-escracho-em-frente-a-casa-de-eunicio-oliveira-no-ceara.md
+  - _posts/2017/07/2017-07-26-na-bahia-sem-terra-ocupam-o-incra-em-defesa-da-reforma-agraria.md
 
 ---
-<p>&nbsp;</p>
-
 <p>&nbsp;</p>
 
 <p><em>Da P&aacute;gina do MST</em></p>
@@ -53,12 +113,50 @@ Para Marina, a Jornada est&aacute; intimamente ligada a conjuntura de resist&eci
 &ldquo;Esse governo ileg&iacute;timo precisa saber que n&oacute;s, as fam&iacute;lias Sem Terra acampadas e assentadas, n&atilde;o vamos nos calar diante da retirada de direitos que particularmente os povos do campo, mas toda a classe trabalhadora, estamos sofrendo neste momento&rdquo;, conclui.</p>
 
 <p><br />
-Confira em imagens as a&ccedil;&otilde;es nos diversos estados:</p>
+<strong>Confira em imagens algumas&nbsp;a&ccedil;&otilde;es nos diversos estados:</strong></p>
 
-<p><br />
-&nbsp;</p>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="22528333_1765412710198102_667093128975840363_n.jpg" height="525" src="//farm5.staticflickr.com/4468/37090463313_c8629ec70e_b.jpg" width="700" />
+<figcaption>Cerca de 1000 Sem Terra ocuparam nesta madrugada Minist&eacute;rio do Planejamento, em Bras&iacute;lia.</figcaption>
+</figure>
+</div>
 
-<p>&nbsp;</p>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="22552551_1765518243520882_2764898486018279110_n.jpg" height="467" src="//farm5.staticflickr.com/4467/37051726884_143e259b45_b.jpg" width="700" />
+<figcaption>300 Sem Terra, ocupam o Incra, que fica localizado na regi&atilde;o central de Belo Horizonte em Minas Gerais.</figcaption>
+</figure>
+</div>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="22528451_1765575116848528_7739573293622939996_n.jpg" height="394" src="//farm5.staticflickr.com/4484/37712186156_730887f230_b.jpg" width="700" />
+<figcaption>Em Macei&oacute;, trabalhadores e trabalhadoras rurais Sem Terra marcham no Centro da Cidade.<br />
+Desde a manh&atilde; desta segunda-feira, os Sem Terra ocupa os pr&eacute;dios do Incra e Minist&eacute;rio da Fazenda e seguem a Jornada de Lutas em Defesa da Reforma Agr&aacute;ria na capital alagoana.</figcaption>
+</figure>
+</div>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="22449972_1765593613513345_2839905577261530901_n.jpg" height="525" src="//farm5.staticflickr.com/4457/37090562453_675fdd3db1_b.jpg" width="700" />
+<figcaption>2000 Sem Terra marcham no centro de Curitiba rumo a superintend&ecirc;ncia do Incra no estado do Paran&aacute;.</figcaption>
+</figure>
+</div>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="22449864_1765599060179467_6970110366079231532_n.jpg" height="525" src="//farm5.staticflickr.com/4506/37051799544_3ef2f03531_b.jpg" width="700" />
+<figcaption>Em Santa Catarina, cerca de 300 fam&iacute;lias ocupam o INCRA denunciando o desmonte da Reforma Agr&aacute;ria promovido pelo governo golpista de Michel Temer.</figcaption>
+</figure>
+</div>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="22539826_1765643160175057_941462620929203154_n.jpg" height="467" src="//farm5.staticflickr.com/4458/37728797492_c492188a42_b.jpg" width="700" />
+<figcaption>Seguindo a Jornada, o MST da Para&iacute;ba realiza ocupa&ccedil;&atilde;o no Minist&eacute;rio da Fazenda em Bras&iacute;lia.&nbsp;</figcaption>
+</figure>
+</div>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="SecEducação5 (1).jpg" height="466" src="//farm5.staticflickr.com/4448/37760905111_04d4e77c93_b.jpg" width="700" />
+<figcaption>Com o objetivo de reafirmar a educa&ccedil;&atilde;o do campo enquanto direito e denunciar o descaso que a pauta das escolas dos assentamentos do MST vem sendo conduzida pelo Governo do Estado, mil trabalhadores e trabalhadoras Sem Terra ocuparam na manh&atilde; a Secretaria de Educa&ccedil;&atilde;o da Bahia.</figcaption>
+</figure>
+</div>
 
 <p>&nbsp;</p>
 
