@@ -1,11 +1,11 @@
 ---
-date: "2017-10-18T13:00:56-02:00"
+date: "2017-10-18T12:00:56-03:00"
 tags:
   - tag: radionovela
   - tag: arte-e-cultura
   - tag: internacionalismo
 title: "Já está no ar: radionovela Rosa Luxemburgo\n"
-support_line: "Parceria entre a Fundação Rosa Luxemburgo, MST e Radioagência Brasil de Fato lança a cada dia um capítulo sobre a vida e obra da revolucionária polonesa.\n"
+support_line: "Parceria entre a Fundação Rosa Luxemburgo, MST e Radioagência Brasil de Fato lança, a cada dia, capítulo sobre a vida e obra da revolucionária polonesa. Acompanhe aqui!\n"
 menu: "educação, cultura e comunicação"
 images_hd: //farm5.staticflickr.com/4488/37743674362_d8d742d3aa_b.jpg
 layout: post
@@ -25,8 +25,13 @@ releated_posts:
   - _posts/2017/10/2017-10-07-o-circuito-de-arte-e-cultura-da-reforma-agraria-veio-para-ficar-em-belo-horizonte.md
   - _posts/2017/10/2017-10-06-mst-traz-feira-e-festival-de-arte-e-cultura-da-reforma-agraria-para-bh.md
   - _posts/2017/10/2017-10-07-circuito-da-reforma-agraria-acolhe-a-populacao-mineira-na-serraria-souza-pinto.md
+section: featured-news
 
 ---
+<p><iframe frameborder="no" height="300" scrolling="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/347537474&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true" width="100%"></iframe></p>
+
+<p><strong>Cap&iacute;tulo 4.</strong></p>
+
 <p>&nbsp;</p>
 
 <p><em>Por Leonardo Fernandes<br />
