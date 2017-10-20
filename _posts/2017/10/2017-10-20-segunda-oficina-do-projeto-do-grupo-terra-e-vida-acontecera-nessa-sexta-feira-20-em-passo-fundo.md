@@ -7,7 +7,7 @@ tags:
 title: "Segunda oficina do Projeto do Grupo Terra e Vida acontecerá nessa sexta-feira (20), em Passo Fundo\n\n"
 support_line: "Evento pretende dialogar sobre o tema da reforma agrária popular e agroecologia\n\n"
 menu: agricultura camponesa
-images_hd: //farm5.staticflickr.com/4500/37811222141_2e5dc6f42f_b.jpg
+images_hd: //farm5.staticflickr.com/4444/37146284033_a5af0bab46_b.jpg
 layout: post
 files:
   - link: //farm5.staticflickr.com/4500/37811222141_2e5dc6f42f_b.jpg
@@ -17,6 +17,13 @@ files:
     small: //farm5.staticflickr.com/4500/37811222141_2e5dc6f42f_n.jpg
     title: 22449796_1484438574997291_1725615945151827384_n.jpg
     $$hashKey: 05L
+  - link: //farm5.staticflickr.com/4444/37146284033_a5af0bab46_b.jpg
+    original: //farm5.staticflickr.com/4444/37146284033_617c93fe60_o.jpg
+    thumbnail: //farm5.staticflickr.com/4444/37146284033_a5af0bab46_t.jpg
+    medium: //farm5.staticflickr.com/4444/37146284033_a5af0bab46_z.jpg
+    small: //farm5.staticflickr.com/4444/37146284033_a5af0bab46_n.jpg
+    title: 20170824-acampamento_terra_e_vida2c_em_passo_fundo-1-2.jpg
+    $$hashKey: 05J
 created_date: "2017-10-20T11:15:22-02:00"
 published: true
 releated_posts:
