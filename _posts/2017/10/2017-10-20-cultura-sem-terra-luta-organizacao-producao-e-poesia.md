@@ -74,7 +74,7 @@ Para Ant&ocirc;nia Rorigues, do setor de produ&ccedil;&atilde;o: &quot;as nossas
 </div>
 
 <p><br />
-<strong>Confira abaixo a carta oficial em que&nbsp;o setor de cultura do MST reafirma seu compromisso com a luta e o enfrentamento por uma sociedade melhor:&nbsp;&nbsp;</strong></p>
+<strong>Confira abaixo a carta em que&nbsp;o coletivo de cultura do MST reafirma seu compromisso com a luta e o enfrentamento por uma sociedade melhor:&nbsp;&nbsp;</strong></p>
 
 <p><br />
 Como Trabalhadoras e Trabalhadores de um pa&iacute;s marcado pela expropria&ccedil;&atilde;o, nosso corpo &eacute; a marca dos a&ccedil;oites da escravid&atilde;o. Nosso olhar firme e nossa voz que canta foram constru&iacute;dos muito antes de n&oacute;s, por antepassados, por outros sujeitos hist&oacute;ricos em culturas e sociedades diferentes que n&atilde;o existem mais em nenhum lugar sen&atilde;o em nosso canto e nossa liga&ccedil;&atilde;o com a terra.</p>
