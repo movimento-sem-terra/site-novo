@@ -4,7 +4,7 @@ tags:
   - tag: comunicação
   - tag: redemocratização
   - tag: lutas
-title: Redemocratização do Brasil passa pela democratização do oligopólio midiático
+title: Redemocratização do Brasil passa pelo fim do oligopólio midiático
 menu: "educação, cultura e comunicação"
 section: cover
 label: articles
@@ -28,6 +28,8 @@ releated_posts:
   - _posts/2017/08/2017-08-10-movimentos-e-organizacoes-populares-lancam-grito-dos-excluidos-no-distrito-federal.md
 
 ---
+<p>&nbsp;</p>
+
 <p>&nbsp;</p>
 
 <p><em>Por Setor de Comunica&ccedil;&atilde;o do MST&nbsp;<br />
