@@ -51,7 +51,8 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p><em>Do Setor de Cultura do MST&nbsp;</em></p>
+<p><em>Do Coletivo de Cultura do MST&nbsp;<br />
+Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
