@@ -35,7 +35,7 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p>Nesta sexta-feira (20/10), cerca de 100 fam&iacute;lias do MST, ocuparam o Horto Tatu, em Limeira SP. Mesmo sem mandato de reintegra&ccedil;&atilde;o de posse, Guarda Municipal e Pol&iacute;cia Militar famea&ccedil;am despejar as fam&iacute;lias.</p>
+<p>Nesta sexta-feira (20/10), cerca de 100 fam&iacute;lias do MST, ocuparam o Horto Tatu, em Limeira SP. Mesmo sem mandato de reintegra&ccedil;&atilde;o de posse, Guarda Municipal e Pol&iacute;cia Militar amea&ccedil;am despejar as fam&iacute;lias.</p>
 
 <p><br />
 A hist&oacute;ria de luta na &aacute;rea &eacute; antiga e remonta ao dia 21/04/2007, quando cerca de 300 fam&iacute;lias ocuparam as terras pertencentes ao Horto Tatu. Logo em 29/11 daquele ano, o acampamento Elizabeth Teixeira sofre despejo violento por parte da pol&iacute;cia.</p>
