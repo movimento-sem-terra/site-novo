@@ -6,7 +6,7 @@ tags:
   - tag: reforma-agrária
 title: "Resistência no semiárido: a luta pela terra nos perímetros irrigados\n"
 support_line: "Com a realização de mais uma Jornada Nacional de Lutas, o MST na Bahia levanta a pauta dos perímetros irrigados, que tem gerado muitos processos de resistência no norte do estado.\n"
-images_hd: //farm5.staticflickr.com/4480/37553666640_a34f3639bf_b.jpg
+images_hd: //farm5.staticflickr.com/4478/23959027778_db8a3119db_b.jpg
 menu: lutas e mobilizações
 layout: post
 files:
