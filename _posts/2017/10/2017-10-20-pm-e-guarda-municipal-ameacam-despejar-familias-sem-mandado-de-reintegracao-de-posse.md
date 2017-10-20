@@ -35,7 +35,10 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p>Nesta sexta-feira (20/10), cerca de 100 fam&iacute;lias do MST, ocuparam o Horto Tatu, em Limeira SP. A hist&oacute;ria de luta na &aacute;rea &eacute; antiga e remonta ao dia 21/04/2007, quando cerca de 300 fam&iacute;lias ocuparam as terras pertencentes ao Horto Tatu. Logo em 29/11 daquele ano, o acampamento Elizabeth Teixeira sofre despejo violento por parte da pol&iacute;cia.</p>
+<p>Nesta sexta-feira (20/10), cerca de 100 fam&iacute;lias do MST, ocuparam o Horto Tatu, em Limeira SP. Mesmo sem mandato de reintegra&ccedil;&atilde;o de posse, Guarda Municipal e Pol&iacute;cia Militar famea&ccedil;am despejar as fam&iacute;lias.</p>
+
+<p><br />
+A hist&oacute;ria de luta na &aacute;rea &eacute; antiga e remonta ao dia 21/04/2007, quando cerca de 300 fam&iacute;lias ocuparam as terras pertencentes ao Horto Tatu. Logo em 29/11 daquele ano, o acampamento Elizabeth Teixeira sofre despejo violento por parte da pol&iacute;cia.</p>
 
 <p><br />
 Desde de 11/12/2007, ent&atilde;o, as fam&iacute;lias reocuparam a &aacute;rea e permanecem em luta pela regulariza&ccedil;&atilde;o do assentamento de Reforma Agr&aacute;ria. Em terras federais e remanescentes da antiga Fepasa, o Horto, como terra p&uacute;blica, tem 768 ha, e j&aacute; havia sido destinado &agrave; Reforma Agr&aacute;ria desde a d&eacute;cada de 1980, por isso o MST entende que deve cumprir a fun&ccedil;&atilde;o social da terra. &nbsp;</p>
