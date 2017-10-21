@@ -1,5 +1,5 @@
 ---
-date: "2017-10-18T13:00:56-02:00"
+date: "2017-10-18T12:00:56-03:00"
 tags:
   - tag: radionovela
   - tag: arte-e-cultura
@@ -28,11 +28,9 @@ releated_posts:
 section: featured-news
 
 ---
-<p><strong>Cap&iacute;tulo 5</strong></p>
+<p><iframe frameborder="no" height="300" scrolling="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/347911452&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true" width="100%"></iframe></p>
 
-<p><iframe frameborder="no" height="300" scrolling="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/347773245&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true" width="100%"></iframe></p>
-
-<p>&nbsp;</p>
+<p><strong>Cap&iacute;tulo 6.</strong></p>
 
 <p>&nbsp;</p>
 
@@ -84,3 +82,19 @@ Os cap&iacute;tulos da radionovela ser&atilde;o lan&ccedil;ados diariamente pela
 <p><strong>Cap&iacute;tulo 4&nbsp;</strong></p>
 
 <p><iframe frameborder="no" height="300" scrolling="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/347537474&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true" width="100%"></iframe></p>
+
+<p>&nbsp;</p>
+
+<p><strong>Cap&iacute;tulo 5</strong></p>
+
+<p><iframe frameborder="no" height="300" scrolling="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/347773245&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true" width="100%"></iframe></p>
+
+<p>&nbsp;</p>
+
+<p><em>*Editado por Maura Silva</em></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
