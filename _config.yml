@@ -13,9 +13,9 @@ collections:
   banners:
 timezone: BR
 lollipop:
-  title:  Circuito Mineiro de Arte e Cultura da Reforma Agrária
-  link:   circuito-mineiro-de-arte-e-cultura
-  enabled: false
+  title:  Rádionovela sobre a vida de Rosa Luxemburgo!
+  link:   ja-esta-no-ar-radionovela-rosa-luxemburgo.html
+  enabled: true
 gems:
   - jekyll-sitemap
 exclude:
