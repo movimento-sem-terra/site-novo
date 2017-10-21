@@ -14,7 +14,7 @@ collections:
 timezone: BR
 lollipop:
   title:  Rádionovela sobre a vida de Rosa Luxemburgo!
-  link:   ja-esta-no-ar-radionovela-rosa-luxemburgo.html
+  link:   ja-esta-no-ar-radionovela-rosa-luxemburgo
   enabled: false
 gems:
   - jekyll-sitemap
