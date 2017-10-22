@@ -32,7 +32,6 @@ releated_posts:
   - _posts/2017/07/2017-07-25-movimentos-bloqueiam-entrada-da-base-de-lancamento-de-alcantara-no-maranhao.md
   - _posts/2017/07/2017-07-25-familias-sem-terra-ocupam-area-que-ja-foi-declarada-improdutiva-no-parana.md
 section: featured-news
-
 ---
 <p>&nbsp;</p>
 
