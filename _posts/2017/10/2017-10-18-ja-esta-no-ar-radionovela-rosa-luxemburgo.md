@@ -1,5 +1,5 @@
 ---
-date: "2017-10-18T12:00:56-03:00"
+date: "2017-10-18T13:00:56-02:00"
 tags:
   - tag: radionovela
   - tag: arte-e-cultura
@@ -28,9 +28,11 @@ releated_posts:
 section: featured-news
 
 ---
-<p><strong>Cap&iacute;tulo 7.</strong></p>
+<p><strong>Cap&iacute;tulo 8.</strong></p>
 
-<p><iframe frameborder="no" height="300" scrolling="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/348053755&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true" width="100%"></iframe></p>
+<p><iframe frameborder="no" height="300" scrolling="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/348194883&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true" width="100%"></iframe></p>
+
+<p>&nbsp;</p>
 
 <p>&nbsp;</p>
 
@@ -39,11 +41,13 @@ section: featured-news
 <p><em>Por Leonardo Fernandes<br />
 Da P&aacute;gina do MST</em></p>
 
+<p>&nbsp;</p>
+
 <p><br />
 O primeiro cap&iacute;tulo da radionovela sobre a vida e obra da revolucion&aacute;ria polonesa Rosa Luxemburgo foi ao ar na &uacute;ltima segunda-feira (16). A iniciativa &eacute; uma parceria entre a Funda&ccedil;&atilde;o Rosa Luxemburgo, a Radioag&ecirc;ncia Brasil de Fato e o Coletivo de Cultura do MST.</p>
 
 <p><br />
-<strong>Confira&nbsp;abaixo os cap&iacute;tulos 1, 2, 3 e 4.&nbsp;</strong></p>
+<strong>Confira&nbsp;abaixo os cap&iacute;tulos 1, 2, 3, 4, 5, 6 e 7.&nbsp;</strong></p>
 
 <p><br />
 <iframe frameborder="no" height="300" scrolling="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/347224157&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true" width="100%"></iframe>&nbsp;</p>
@@ -92,6 +96,16 @@ Os cap&iacute;tulos da radionovela ser&atilde;o lan&ccedil;ados diariamente pela
 <p><strong>Cap&iacute;tulo 6.</strong></p>
 
 <p><iframe frameborder="no" height="300" scrolling="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/347911452&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true" width="100%"></iframe></p>
+
+<p><strong>Cap&iacute;tulo 7.</strong></p>
+
+<p><iframe frameborder="no" height="300" scrolling="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/348053755&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true" width="100%"></iframe></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
 
 <p>&nbsp;</p>
 
