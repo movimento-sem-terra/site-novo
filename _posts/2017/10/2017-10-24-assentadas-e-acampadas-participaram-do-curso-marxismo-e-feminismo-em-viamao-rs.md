@@ -43,17 +43,17 @@ releated_posts:
 
 <p style="box-sizing: inherit; margin: 0px 0px 11px; font-size: 1.1em; color: rgb(85, 85, 85); font-family: &quot;Exo 2&quot;, Helvetica, Arial, sans-serif;"><em>Por Let&iacute;cia Stasiak&nbsp;<br />
 Da P&aacute;gina do MST</em><br />
+&nbsp;</p>
+
+<p style="box-sizing: inherit; margin: 0px 0px 11px; font-size: 1.1em; color: rgb(85, 85, 85); font-family: &quot;Exo 2&quot;, Helvetica, Arial, sans-serif;">&nbsp;de<span style="font-size: 14.3px;">Os principais</span><span style="font-size: 1.1em;">bates foram os desafios na constru&ccedil;&atilde;o do movimento enquanto instrumento pol&iacute;ti</span><span style="font-size: 1.1em;">co de luta, a descriminaliza&ccedil;&atilde;o do aborto, a Reforma Agr&aacute;ria Popular e a alimenta&ccedil;&atilde;o saud&aacute;vel, os tipos de viol&ecirc;ncia na vida das mulheres e o trabalho dom&eacute;stico no pensamento Marxista.</span></p>
+
+<p><br />
+Setenta e cinco camponesas assentadas e acampadas do MST&nbsp;da regi&atilde;o Sul do Brasil participaram do Curso Marxismo e Feminismo, dos dias 18 a 20 de outubro, no Assentamento Filhos de Sep&eacute;, localizado no munic&iacute;pio de Viam&atilde;o, na regi&atilde;o Metropolitana de Porto Alegre (RS).</p>
+
+<p><br />
+O curso tinha como objetivo a forma&ccedil;&atilde;o das mulheres militantes do MST para o enfrentamento &agrave;&nbsp;viol&ecirc;ncia&nbsp;e ao machismo.<br />
 <br />
-. Os principais debates foram os desafios na constru&ccedil;&atilde;o do movimento enquanto instrumento pol&iacute;ti<span style="font-size: 1.1em;">co de luta, a descriminaliza&ccedil;&atilde;o do aborto, a Reforma Agr&aacute;ria Popular e a alimenta&ccedil;&atilde;o saud&aacute;vel, os tipos de viol&ecirc;ncia na vida das mulheres e o trabalho dom&eacute;stico no pensamento Marxista.</span></p>
-
-<p style="box-sizing: inherit; margin: 0px 0px 11px; font-size: 1.1em; color: rgb(85, 85, 85); font-family: &quot;Exo 2&quot;, Helvetica, Arial, sans-serif;"><span style="font-size: 14.3px;">Setenta e cinco camponesas assentadas e acampadas do MST&nbsp;da regi&atilde;o Sul do Brasil participaram do Curso Marxismo e Feminismo, dos dias 18 a 20 de outubro, no Assentamento Filhos de Sep&eacute;, localizado no munic&iacute;pio de Viam&atilde;o, na regi&atilde;o Metropolitana de Porto Alegre (RS).</span></p>
-
-<p><span style="color: rgb(85, 85, 85); font-family: &quot;Exo 2&quot;, Helvetica, Arial, sans-serif; font-size: 14.3px;">&nbsp;</span></p>
-
-<p>&nbsp;
-<p style="box-sizing: inherit; margin: 0px 0px 11px; font-size: 1.1em; color: rgb(85, 85, 85); font-family: &quot;Exo 2&quot;, Helvetica, Arial, sans-serif;"><span style="font-size: 14.3px;">O curso tinha como objetivo a forma&ccedil;&atilde;o das mulheres militantes do MST para o enfrentamento &agrave;&nbsp;viol&ecirc;ncia&nbsp;e ao machismo</span>&nbsp;<br />
 Para Roberta Coimbra, do Setor de G&ecirc;nero do MST no RS, o&nbsp;marxismo se une ao debate do feminismo a partir do momento em que traz em seus estudos a origem das diferen&ccedil;as de classes e a opress&atilde;o da classe trabalhadora e faz repensar como as mulheres s&atilde;o oprimidas pelo sistema capitalista da propriedade privada.</p>
-</p>
 
 <p><br />
 &ldquo;O marxismo diz que tudo que est&aacute; na esfera do humano &eacute; constru&iacute;do socialmente e o feminismo &eacute; a luta das mulheres por igualdade de direitos nos diversos espa&ccedil;os da sociedade, por isso precisamos entender para combater&rdquo;, ressaltou.</p>
