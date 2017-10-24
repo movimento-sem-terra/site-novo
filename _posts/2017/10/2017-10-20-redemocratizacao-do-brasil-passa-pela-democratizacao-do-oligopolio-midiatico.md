@@ -6,7 +6,7 @@ tags:
   - tag: lutas
 title: Redemocratização do Brasil passa pelo fim do oligopólio midiático
 menu: "educação, cultura e comunicação"
-section: cover
+section: featured-news
 label: articles
 support_line: A disputa da hegemonia dos oligopólios midiáticos é necessária para combater a disseminação dos discursos de ódio contra a democracia e a criminalização das lutas populares
 images_hd: //farm5.staticflickr.com/4459/37764042486_1c5c136a0c_b.jpg
