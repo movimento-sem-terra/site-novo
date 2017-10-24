@@ -28,18 +28,20 @@ releated_posts:
 section: featured-news
 
 ---
-<p><strong>Cap&iacute;tulo 8.</strong></p>
+<p><strong>Cap&iacute;tulo 9.</strong></p>
 
-<p><iframe frameborder="no" height="300" scrolling="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/348194883&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true" width="100%"></iframe></p>
-
-<p>&nbsp;</p>
+<p><iframe frameborder="no" height="300" scrolling="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/348358532&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true" width="100%"></iframe></p>
 
 <p>&nbsp;</p>
 
 <p>&nbsp;</p>
 
-<p><em>Por Leonardo Fernandes<br />
-Da P&aacute;gina do MST</em></p>
+<p><em>Por Leonardo Fernandes</em><br />
+<em>Da P&aacute;gina do MST</em></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
 
 <p>&nbsp;</p>
 
@@ -100,6 +102,10 @@ Os cap&iacute;tulos da radionovela ser&atilde;o lan&ccedil;ados diariamente pela
 <p><strong>Cap&iacute;tulo 7.</strong></p>
 
 <p><iframe frameborder="no" height="300" scrolling="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/348053755&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true" width="100%"></iframe></p>
+
+<p><strong>Cap&iacute;tulo 8.</strong></p>
+
+<p><iframe frameborder="no" height="300" scrolling="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/348194883&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true" width="100%"></iframe></p>
 
 <p>&nbsp;</p>
 
