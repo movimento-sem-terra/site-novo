@@ -36,11 +36,11 @@ p.p5 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: right; font: 12.0px Helvetica
 p.p6 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: right; font: 12.0px Helvetica; color: #454545; min-height: 14.0px}
 span.Apple-tab-span {white-space:pre}
 </style>
-<img alt="20171023_143202.jpg" height="393" src="//farm5.staticflickr.com/4474/37214156124_11a9ab97e1_b.jpg" width="700" /></p>
+</p>
 
 <p>&nbsp;</p>
 
-<p><em>Por&nbsp;<span style="color: rgb(69, 69, 69); font-family: Helvetica; font-size: 12px; text-align: right;">Rafael Villas B&ocirc;as*</span></em></p>
+<p><em>Por Rafael Villas B&ocirc;as* </em></p>
 
 <p>&nbsp;</p>
 
