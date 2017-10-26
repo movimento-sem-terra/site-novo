@@ -36,24 +36,15 @@ section: featured-news
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
 <p><em>Por Leonardo Fernandes</em><br />
 <em>Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
+<p>O primeiro cap&iacute;tulo da radionovela sobre a vida e obra da revolucion&aacute;ria polonesa Rosa Luxemburgo foi ao ar na &uacute;ltima segunda-feira (16). A iniciativa &eacute; uma parceria entre a Funda&ccedil;&atilde;o Rosa Luxemburgo, a Radioag&ecirc;ncia Brasil de Fato e o Coletivo de Cultura do MST.</p>
 
 <p><br />
-O primeiro cap&iacute;tulo da radionovela sobre a vida e obra da revolucion&aacute;ria polonesa Rosa Luxemburgo foi ao ar na &uacute;ltima segunda-feira (16). A iniciativa &eacute; uma parceria entre a Funda&ccedil;&atilde;o Rosa Luxemburgo, a Radioag&ecirc;ncia Brasil de Fato e o Coletivo de Cultura do MST.</p>
-
-<p><br />
-<strong>Confira&nbsp;abaixo os cap&iacute;tulos 1, 2, 3, 4, 5, 6 e 7.&nbsp;</strong></p>
+<strong>Confira&nbsp;abaixo os cap&iacute;tulos 1, 2, 3, 4, 5, 6,&nbsp;7, 8 e 9.&nbsp;</strong></p>
 
 <p><br />
 <iframe frameborder="no" height="300" scrolling="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/347224157&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true" width="100%"></iframe>&nbsp;</p>
