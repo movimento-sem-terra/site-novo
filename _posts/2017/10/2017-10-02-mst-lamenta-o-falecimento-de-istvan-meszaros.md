@@ -68,6 +68,8 @@ Pois para o Capital, &quot;seres humanos s&atilde;o, ao mesmo tempo, absolutamen
 <p style="text-align: center;"><br />
 <em>M&eacute;sz&aacute;ros est&aacute; no MST e continuar&aacute; vivo!</em></p>
 
+<p style="text-align: center;">&nbsp;</p>
+
 <p style="text-align: center;"><br />
 <strong>Movimento dos Trabalhadores Rurais Sem Terra - Brasil</strong></p>
 
