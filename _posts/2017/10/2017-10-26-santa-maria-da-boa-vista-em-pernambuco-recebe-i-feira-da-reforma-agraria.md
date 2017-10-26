@@ -55,14 +55,27 @@ Evidenciando o papel dos assentamentos e dos/as assentados/as como sujeitos ativ
 <div>&nbsp;</div>
 
 <div><br />
-A Feira da Reforma Agr&aacute;ria ser&aacute; um espa&ccedil;o multicultural. Pois, &quot;do ponto de vista da produ&ccedil;&atilde;o, possibilitar&aacute; os agricultores expor e comercializar seus produtos, socializar suas experi&ecirc;ncias nas comunidades, como cada um produz e onde produz&quot;, destaca xxx. Proporcionar&aacute; espa&ccedil;os de interc&acirc;mbio comercial/econ&ocirc;mico, pol&iacute;tico e sociocultural, entre os assentamentos da reforma agr&aacute;ria fruto desse processo de luta e das comunidades, proporcionado momentos de constru&ccedil;&atilde;o de propostas voltados &agrave; preserva&ccedil;&atilde;o ambiental, sociocultural e produtiva.</div>
+A Feira da Reforma Agr&aacute;ria ser&aacute; um espa&ccedil;o multicultural. Pois, &quot;do ponto de vista da produ&ccedil;&atilde;o, possibilitar&aacute; os agricultores expor e comercializar seus produtos, socializar suas experi&ecirc;ncias nas comunidades, como cada um produz e onde produz&quot;, destaca Cristiane Albuquerque, da dire&ccedil;&atilde;o do MST.</div>
+
+<div><br />
+A Feira proporcionar&aacute; ainda espa&ccedil;os de interc&acirc;mbio comercial/econ&ocirc;mico, pol&iacute;tico e sociocultural, entre os assentamentos da Reforma Agr&aacute;ria, fruto desse processo de luta e das comunidades, criando momentos de constru&ccedil;&atilde;o de propostas voltados &agrave; preserva&ccedil;&atilde;o ambiental, sociocultural e produtiva.</div>
 
 <div>&nbsp;</div>
 
 <div><br />
-Na programa&ccedil;&atilde;o cultural, a feira proporcionar&aacute; momentos de reafirma&ccedil;&atilde;o da cultura e da culin&aacute;ria popular. M&uacute;sicas e cantigas locais e regionais, banda de p&iacute;fano, sanfoneiros, poetas e artistas locais e regionais.</div>
+Na programa&ccedil;&atilde;o cultural, a Feira proporcionar&aacute; momentos de reafirma&ccedil;&atilde;o da cultura e da culin&aacute;ria popular. M&uacute;sicas e cantigas locais e regionais, banda de p&iacute;fano, sanfoneiros, poetas e artistas locais e regionais.</div>
 
 <div>&nbsp;</div>
 
 <div><br />
 Como elemento pr&aacute;tico, haver&aacute; as trocas de experi&ecirc;ncias entre os participantes, em s&iacute;ntese, a feira visa reunir diretamente um p&uacute;blico regional, para a exposi&ccedil;&atilde;o e debates contando com a participa&ccedil;&atilde;o dos assentado/as da reforma agr&aacute;ria, bem como da sociedade Boavistana e regi&atilde;o.&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div><em>*Editado por Rafael Soriano</em></div>
