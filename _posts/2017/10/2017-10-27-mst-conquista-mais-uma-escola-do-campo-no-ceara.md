@@ -7,16 +7,30 @@ tags:
 title: "MST conquista mais uma escola do campo no Ceará "
 support_line: "A escola recebeu o nome de Patativa do Assaré, em homenagem ao poeta popular cearense, que traduz em suas poesias o amor à terra e a identidade camponesa e nordestina"
 menu: "educação, cultura e comunicação"
-images_hd: //farm5.staticflickr.com/4485/26193455309_66f3d42b4e_b.jpg
+images_hd: //farm5.staticflickr.com/4475/37918917656_c4ed1f4cfc_b.jpg
 layout: post
 files:
-  - link: //farm5.staticflickr.com/4485/26193455309_66f3d42b4e_b.jpg
-    original: //farm5.staticflickr.com/4485/26193455309_613025a44d_o.jpg
-    thumbnail: //farm5.staticflickr.com/4485/26193455309_66f3d42b4e_t.jpg
-    medium: //farm5.staticflickr.com/4485/26193455309_66f3d42b4e_z.jpg
-    small: //farm5.staticflickr.com/4485/26193455309_66f3d42b4e_n.jpg
-    title: 36683930194_2bf2591157_b.jpg
-    $$hashKey: 1I9
+  - link: //farm5.staticflickr.com/4475/37918917656_c4ed1f4cfc_b.jpg
+    original: //farm5.staticflickr.com/4475/37918917656_e497cd0110_o.jpg
+    thumbnail: //farm5.staticflickr.com/4475/37918917656_c4ed1f4cfc_t.jpg
+    medium: //farm5.staticflickr.com/4475/37918917656_c4ed1f4cfc_z.jpg
+    small: //farm5.staticflickr.com/4475/37918917656_c4ed1f4cfc_n.jpg
+    title: WhatsApp Image 2017-10-27 at 17.09.00.jpeg
+    $$hashKey: 0PJ
+  - link: //farm5.staticflickr.com/4505/37942077102_600d965761_b.jpg
+    original: //farm5.staticflickr.com/4505/37942077102_2af4640fd9_o.jpg
+    thumbnail: //farm5.staticflickr.com/4505/37942077102_600d965761_t.jpg
+    medium: //farm5.staticflickr.com/4505/37942077102_600d965761_z.jpg
+    small: //farm5.staticflickr.com/4505/37942077102_600d965761_n.jpg
+    title: WhatsApp Image 2017-10-27 at 17.09.14.jpeg
+    $$hashKey: 0PM
+  - link: //farm5.staticflickr.com/4508/37262592354_5897a06e27_b.jpg
+    original: //farm5.staticflickr.com/4508/37262592354_9984df8688_o.jpg
+    thumbnail: //farm5.staticflickr.com/4508/37262592354_5897a06e27_t.jpg
+    medium: //farm5.staticflickr.com/4508/37262592354_5897a06e27_z.jpg
+    small: //farm5.staticflickr.com/4508/37262592354_5897a06e27_n.jpg
+    title: WhatsApp Image 2017-10-27 at 17.09.04.jpeg
+    $$hashKey: 0PP
 created_date: "2017-10-27T14:15:18-02:00"
 published: true
 releated_posts:
@@ -28,6 +42,12 @@ releated_posts:
 
 ---
 <p>&nbsp;</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2017-10-27 at 17.09.04.jpeg" height="394" src="//farm5.staticflickr.com/4508/37262592354_5897a06e27_b.jpg" width="700" />
+<figcaption></figcaption>
+</figure>
+</div>
 
 <p>&nbsp;</p>
 
@@ -51,7 +71,11 @@ Para Irineuda Lopes, da dire&ccedil;&atilde;o nacional do MST, &ldquo;a&nbsp;esc
 Para o&nbsp;governador do Cear&aacute;, Camilo Santana, a escola se diferencia&nbsp; das demais escolas tradicionais no Cear&aacute;.&nbsp;<br />
 &quot;Al&eacute;m de representar um futuro melhor pra nossa juventude, essa &eacute; uma escola que cuida de filhos&nbsp;e filhas dos&nbsp;agricultores&nbsp;do Cear&aacute;,&nbsp; a sociedade criou uma esp&eacute;cie de preconceito com rela&ccedil;&atilde;o ao homem do campo, mas, eu sempre digo&nbsp;que s&atilde;o homens e mulheres que lutam todos os dias para garantir&nbsp;a alimenta&ccedil;&atilde;o nas nossas mesas, finalizou.&nbsp;</p>
 
-<p>&nbsp;</p>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2017-10-27 at 17.09.14.jpeg" height="394" src="//farm5.staticflickr.com/4505/37942077102_600d965761_b.jpg" width="700" />
+<figcaption></figcaption>
+</figure>
+</div>
 
 <p>&nbsp;</p>
 
