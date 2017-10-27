@@ -7,20 +7,19 @@ tags:
 title: "1ª Feira Agroecológica de São Leopoldo acontece no próximo sábado (28)\n"
 support_line: "Evento faz parte da Programação da 1ª Semana da Alimentação e contará com produtos do MST, Economia Solidária e Agricultura Familiar\n"
 menu: agricultura camponesa
-images_hd: //farm5.staticflickr.com/4452/37966399801_a828129360_b.jpg
+images_hd: //farm5.staticflickr.com/4462/37913822156_f99fb08243_b.jpg
 layout: post
 files:
-  - link: //farm5.staticflickr.com/4452/37966399801_a828129360_b.jpg
-    original: //farm5.staticflickr.com/4452/37966399801_75595c6a39_o.jpg
-    thumbnail: //farm5.staticflickr.com/4452/37966399801_a828129360_t.jpg
-    medium: //farm5.staticflickr.com/4452/37966399801_a828129360_z.jpg
-    small: //farm5.staticflickr.com/4452/37966399801_a828129360_n.jpg
-    title: download (1).jpg
-    $$hashKey: "064"
+  - link: //farm5.staticflickr.com/4462/37913822156_f99fb08243_b.jpg
+    original: //farm5.staticflickr.com/4462/37913822156_8cdb811335_o.jpg
+    thumbnail: //farm5.staticflickr.com/4462/37913822156_f99fb08243_t.jpg
+    medium: //farm5.staticflickr.com/4462/37913822156_f99fb08243_z.jpg
+    small: //farm5.staticflickr.com/4462/37913822156_f99fb08243_n.jpg
+    title: 6efefd54-a6d0-4ee8-b213-decdef4c8736.jpeg
+    $$hashKey: 1BJ
 created_date: "2017-10-27T11:59:19-02:00"
 published: true
 releated_posts:
-  - _posts/2017/04/2017-04-09-a-agroecologia-como-ferramenta-politica-contra-o-agronegocio.md
   - _posts/2017/03/2017-03-20-arroz-agroecologico-abertura-da-colheita-e-marcada-por-expectativa-da-producao-e-manifestacoes-contra-a-reforma-da-previdencia.md
   - _posts/2017/05/2017-05-19-mst-produz-mais-de-30-variedades-de-feijao-sem-veneno-no-rio-grande-do-sul.md
   - _posts/2017/07/2017-07-17-municipio-de-viamao-tem-nova-feira-de-alimentos-organicos-no-rs.md
