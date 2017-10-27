@@ -22,7 +22,7 @@ releated_posts: []
 ---
 <p>&nbsp;</p>
 
-<p><em>Por Giane Ambr&oacute;sio &Aacute;lvares<br />
+<p><em>Por Giane Ambr&oacute;sio &Aacute;lvares*<br />
 Para o CBDDH</em></p>
 
 <p><br />
@@ -76,4 +76,4 @@ Nota</p>
 <p><br />
 [1] HC &ndash; CONSTITUCIONAL &ndash; HABEAS CORPUS &ndash; REFORMA AGR&Aacute;RIA &ndash; MOVIMENTO SEM TERRA &ndash; (&hellip;) Movimento popular visando a implantar a reforma agr&aacute;ria n&atilde;o caracteriza crime contra o Patrim&ocirc;nio. Configura direito coletivo, express&atilde;o da cidadania, visando a implantar programa constante da Constitui&ccedil;&atilde;o da Rep&uacute;blica. A press&atilde;o popular &eacute; pr&oacute;pria do Estado de Direito Democr&aacute;tico. (STJ. HC n&ordm; 5.574, relator designado ministro Luiz Vicente Cernicchiaro).</p>
 
-<p>* Giane Ambr&oacute;sio &Aacute;lvares &eacute; advogada, mestre em processo penal pela PUC/SP e membro da Rede Nacional de Advogadas e Advogados Populares &ndash; RENAP.</p>
+<p>* Giane Ambr&oacute;sio &Aacute;lvares &eacute; advogada, mestre em processo penal pela PUC/SP, membro da Rede Nacional de Advogadas e Advogados Populares (RENAP) e do Setor de Direitos Humanos do MST.&nbsp;</p>
