@@ -24,11 +24,17 @@ files:
     small: //farm5.staticflickr.com/4489/37260781134_fc655d0909_n.jpg
     title: _GIG0798 1.jpg
     $$hashKey: 07B
+  - link: //farm5.staticflickr.com/4461/24120024188_86638d04a2_b.jpg
+    original: //farm5.staticflickr.com/4461/24120024188_17142c98a2_o.jpg
+    thumbnail: //farm5.staticflickr.com/4461/24120024188_86638d04a2_t.jpg
+    medium: //farm5.staticflickr.com/4461/24120024188_86638d04a2_z.jpg
+    small: //farm5.staticflickr.com/4461/24120024188_86638d04a2_n.jpg
+    title: _GIG1072.jpg
+    $$hashKey: 0F8
 created_date: "2017-10-27T15:38:55-02:00"
 published: true
 releated_posts:
   - _posts/2017/06/2017-06-02-educadores-debatem-a-educacao-do-campo-na-formacao-das-familias-sem-terra.md
-  - _posts/2017/03/2017-03-16-governador-rui-costa-se-recusa-receber-pauta-de-movimentos-e-organizacoes-populares.md
   - _posts/2017/06/2017-06-30-e-greve-geral-a-bahia-para-contra-a-retirada-de-direitos.md
   - _posts/2017/07/2017-07-03-em-salvador-30-mil-pessoas-marcham-contra-as-reformas-do-governo-temer.md
   - _posts/2017/07/2017-07-17-mst-realiza-cursos-de-formacao-com-a-militancia-na-bahia.md
@@ -69,6 +75,12 @@ Djacira Ara&uacute;jo, do setor estadual de educa&ccedil;&atilde;o, destaca a im
 
 <p><br />
 Nesse sentido, Rowenna Brito, da Secretaria de Educa&ccedil;&atilde;o do Estado da Bahia, ao fazer uma an&aacute;lise desses retrocessos fala da necessidade de fazer uma reforma do ensino m&eacute;dio, n&atilde;o uma reforma como prop&otilde;e o governo ileg&iacute;timo de Michel Temer, que visa o retrocesso do Brasil. &ldquo;Precisamos de uma escola que pensa e prioriza o indiv&iacute;duo de forma integral&rdquo;, ressalta Brito.</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="_GIG1072.jpg" height="467" src="//farm5.staticflickr.com/4461/24120024188_86638d04a2_b.jpg" width="700" />
+<figcaption></figcaption>
+</figure>
+</div>
 
 <p><br />
 O Governo alega ter feito a Reforma do Ensino M&eacute;dio com a perspectiva da flexibiliza&ccedil;&atilde;o, o mesmo usado na primeira reforma em 1961 quando os militares fizeram. &ldquo;Isso quer dizer que n&oacute;s da classe trabalhadora n&atilde;o conseguiremos concluir os estudos e que j&aacute; sairemos prontos para ingressar no mercado de trabalho, oferecendo m&atilde;o de obra barata ao capital&rdquo;, explica Stella Rodrigues, da Universidade do Estado da Bahia (UNEB).</p>
