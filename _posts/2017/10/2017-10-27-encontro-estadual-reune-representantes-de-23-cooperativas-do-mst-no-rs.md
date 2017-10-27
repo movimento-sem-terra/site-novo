@@ -90,3 +90,9 @@ Entre as medidas apontadas para impulsionar o desenvolvimento das produ&ccedil;&
 
 <p><br />
 Nos meses de novembro e dezembro o Assentamento Filhos de Sep&eacute; sediar&aacute; o Encontro Nacional das Cooperativas do MST. Segundo Salete, o evento vai abordar novamente os temas da organiza&ccedil;&atilde;o das cadeias produtivas e a comercializa&ccedil;&atilde;o dos alimentos da Reforma Agr&aacute;ria. Al&eacute;m disto, trar&aacute; o debate da soberania alimentar e o Projeto da Reforma Agr&aacute;ria Popular.</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><em>Editado por Maura Silva&nbsp;</em></p>
