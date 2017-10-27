@@ -81,3 +81,9 @@ A luta da Escola Che Guevara se soma as diversas experi&ecirc;ncias constru&iacu
 
 <p><br />
 Com o tema &ldquo;30 anos do MST: por uma educa&ccedil;&atilde;o p&uacute;blica, popular e socialista&rdquo; diversos debates e interven&ccedil;&otilde;es fazem parte da programa&ccedil;&atilde;o do evento.</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><em>*Editado por Maura Silva&nbsp;</em></p>
