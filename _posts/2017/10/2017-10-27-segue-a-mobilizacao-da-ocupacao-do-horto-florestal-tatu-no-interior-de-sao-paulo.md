@@ -41,7 +41,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="visita_limeira.JPG" height="467" src="//farm5.staticflickr.com/4488/37257003964_5f2183ed3a_b.jpg" width="700" />
-<figcaption>Monsenhor Bruno-Marie Duffe em visita &agrave;&nbsp;ocupa&ccedil;&atilde;o do Horto Florestal Tatu&nbsp;</figcaption>
+<figcaption>Monsenhor Bruno-Marie Duffe recebe acampados do MST&nbsp;</figcaption>
 </figure>
 </div>
 
