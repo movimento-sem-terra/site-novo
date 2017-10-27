@@ -59,3 +59,7 @@ A feira &eacute; promovida pela Prefeitura e Sindicato Rural de S&atilde;o Leopo
 
 <p><br />
 A organiza&ccedil;&atilde;o pede que as pessoas tragam suas sacolas n&atilde;o descart&aacute;veis, cadeiras e chimarr&atilde;o. Em caso de chuva o evento ser&aacute; realizado no Largo Rui Porto (pir&acirc;mides).</p>
+
+<p>&nbsp;</p>
+
+<p><em>*Editado por Maura Silva&nbsp;</em></p>
