@@ -25,6 +25,7 @@ releated_posts:
   - _posts/2017/07/2017-07-11-mst-condena-nova-legislacao-fundiaria-aprovada-hoje-pelos-golpistas.md
   - _posts/2017/09/2017-09-22-stedile-perdemos-o-controle-de-nossas-riquezas-porque-perdemos-nossa-soberania.md
   - _posts/2017/10/2017-10-22-carta-politica-da-frente-brasil-popular-defende-soberania.md
+section: cover
 
 ---
 <p><img alt="tomaz silva.jpg" src="//farm5.staticflickr.com/4460/37264015274_475834a8d4_b.jpg" /></p>
