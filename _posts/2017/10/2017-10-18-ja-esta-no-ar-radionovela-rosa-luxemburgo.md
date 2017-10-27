@@ -1,5 +1,5 @@
 ---
-date: "2017-10-18T12:00:56-03:00"
+date: "2017-10-18T13:00:56-02:00"
 tags:
   - tag: radionovela
   - tag: arte-e-cultura
@@ -41,7 +41,7 @@ section: featured-news
 
 <p>&nbsp;</p>
 
-<p>O primeiro cap&iacute;tulo da radionovela sobre a vida e obra da revolucion&aacute;ria polonesa Rosa Luxemburgo foi ao ar na &uacute;ltima segunda-feira (16). A iniciativa &eacute; uma parceria entre a Funda&ccedil;&atilde;o Rosa Luxemburgo, a Radioag&ecirc;ncia Brasil de Fato e o Coletivo de Cultura do MST.</p>
+<p>O primeiro cap&iacute;tulo da radionovela sobre a vida e obra da revolucion&aacute;ria polonesa Rosa Luxemburgo foi ao ar na segunda-feira (16). A iniciativa &eacute; uma parceria entre a Funda&ccedil;&atilde;o Rosa Luxemburgo, a Radioag&ecirc;ncia Brasil de Fato e o Coletivo de Cultura do MST.</p>
 
 <p><br />
 <strong>Confira&nbsp;abaixo os cap&iacute;tulos 1, 2, 3, 4, 5, 6,&nbsp;7, 8 e 9.&nbsp;</strong></p>
@@ -71,7 +71,7 @@ Al&eacute;m das quest&otilde;es relacionadas &agrave; diversidade e igualdade de
 Nascida no dia 5 de mar&ccedil;o de 1871, na Pol&ocirc;nia, Rosa Luxemburgo foi uma das mais influentes pensadoras marxistas de sua &eacute;poca, fundando diversas organiza&ccedil;&otilde;es de esquerda e participando das lutas sociais na Europa no final do s&eacute;culo 19 e come&ccedil;o do s&eacute;culo 20.</p>
 
 <p><br />
-Os cap&iacute;tulos da radionovela ser&atilde;o lan&ccedil;ados diariamente pelas redes sociais, no site do <a href="http://www.mst.org.br/">MST</a>,&nbsp;pelo&nbsp;portal do <a href="https://www.brasildefato.com.br/">Brasil de Fato</a>&nbsp;e pela <a href="http://rosaluxspba.org/">Funda&ccedil;&atilde;o Rosa Luxemburgo</a>.&nbsp;</p>
+Os cap&iacute;tulos da radionovela foram lan&ccedil;ados diariamente pelas redes sociais, no site do <a href="http://www.mst.org.br/">MST</a>,&nbsp;pelo&nbsp;portal do <a href="https://www.brasildefato.com.br/">Brasil de Fato</a>&nbsp;e pela <a href="http://rosaluxspba.org/">Funda&ccedil;&atilde;o Rosa Luxemburgo</a>.&nbsp;</p>
 
 <p><br />
 <strong>Cap&iacute;tulo 2</strong></p>
