@@ -46,14 +46,14 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="_GIG1167.jpg" height="467" src="//farm5.staticflickr.com/4484/24187087868_aa982f8797_b.jpg" width="700" />
-<figcaption></figcaption>
+<figcaption>Fotos: Gleiton Guima&nbsp;<br />
+&nbsp;</figcaption>
 </figure>
 </div>
 
 <p>&nbsp;</p>
 
-<p><em>Por Coletivo de Comunica&ccedil;&atilde;o do MST na Bahia<br />
-Fotos: Gleiton Guima&nbsp;</em></p>
+<p><em>Por Coletivo de Comunica&ccedil;&atilde;o do MST na Bahia</em></p>
 
 <p><br />
 &ldquo;Cabe a n&oacute;s fazermos da escola, que &eacute; uma institui&ccedil;&atilde;o preocupada com o saber cientifico, um espa&ccedil;o de socializa&ccedil;&atilde;o do conhecimento&rdquo;, explica Paulo Jos&eacute; Orso, da Universidade Estadual do Oeste do Paran&aacute; (Unioeste), ao participar da mesa &ldquo;Educa&ccedil;&atilde;o e Luta de Classes-Concep&ccedil;&atilde;o e Propostas Pedag&oacute;gicas&rdquo;, na desta &uacute;ltima sexta-feira (27), no 19&ordm; Encontro Estadual dos Educadores e Educadoras do MST, em Salvador.</p>
