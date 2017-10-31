@@ -36,10 +36,10 @@ releated_posts:
 <p><em>Da CUT -&nbsp;S&atilde;o Paulo&nbsp;</em></p>
 
 <p><br />
-Na &uacute;ltima sexta-feira, 27, a subsede de Bauru da CUT-SP, em parceria com o MST, MSLT e Frentes Brasil Popular e Povo Sem Medo, realizaram uma audi&ecirc;ncia p&uacute;blica sobre o tema &ldquo;Terra e Moradia &ndash; O papel das propriedades p&uacute;blicas frente &agrave; promo&ccedil;&atilde;o da igualdade social&rdquo;. Cerca de 400 pessoas (vindas dos acampamentos urbanos e rurais da regi&atilde;o de Bauru) lotaram a galeria e os corredores da C&acirc;mara Municipal.</p>
+Na &uacute;ltima sexta-feira, 27, a subsede de Bauru da CUT-SP, em parceria com o MST, MSLT e Frentes Brasil Popular e Povo Sem Medo, realizou uma audi&ecirc;ncia p&uacute;blica sobre o tema &ldquo;Terra e Moradia &ndash; O papel das propriedades p&uacute;blicas frente &agrave; promo&ccedil;&atilde;o da igualdade social&rdquo;. Cerca de 400 pessoas (vindas dos acampamentos urbanos e rurais da regi&atilde;o de Bauru) lotaram a galeria e os corredores da C&acirc;mara Municipal.</p>
 
 <p><br />
-Lideran&ccedil;as pol&iacute;ticas como o deputado estadual Carlos Neder (PT) e representa&ccedil;&atilde;o do deputado federal Paulo Teixeira (PT), Gilmar Mauro e Kelli Mafort (MST), representantes do PT, PSOL e PCO, sindicatos e Movimentos sociais, e representantes do Incra/SP, debateram o tema por mais de duas horas. O presidente da C&acirc;mara Municipal de Bauru, Alexssandro Bussola (PDT) tamb&eacute;m compareceu na audi&ecirc;ncia e saudou os participantes. O Vereador teria sido criticado por alguns de seus colegas pelo fato de &ldquo;conceder o Plen&aacute;rio da C&acirc;mara para os movimentos sociais em luta por terra e moradia&rdquo;.</p>
+Lideran&ccedil;as pol&iacute;ticas como o deputado estadual Carlos Neder (PT) e representa&ccedil;&atilde;o do deputado federal Paulo Teixeira (PT), Gilmar Mauro e Kelli Mafort (MST), representantes do PT, PSOL e PCO, sindicatos e Movimentos sociais, e representantes do Incra/SP, debateram o tema por mais de duas horas. O presidente da C&acirc;mara Municipal de Bauru, Alexssandro Bussola (PDT) tamb&eacute;m compareceu na audi&ecirc;ncia e saudou os participantes.</p>
 
 <p><br />
 <strong>Novo &ldquo;Pontal&rdquo;</strong></p>
