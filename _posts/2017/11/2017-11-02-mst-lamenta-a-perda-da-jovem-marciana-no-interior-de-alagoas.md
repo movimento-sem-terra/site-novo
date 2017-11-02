@@ -7,7 +7,7 @@ tags:
 title: "MST lamenta a perda da jovem Marciana no interior de Alagoas\n"
 images_hd: //farm5.staticflickr.com/4475/38112200941_e56b33fd69_b.jpg
 menu: lutas e mobilizações
-support_line: "Graduada pelos Mais Médicos, Marciana era antes de tudo uma grande militante"
+support_line: "Graduada em Cuba e trabalhando no programa 'Mais Médicos', Marciana era antes de tudo uma grande militante"
 layout: post
 files:
   - link: //farm5.staticflickr.com/4475/38112200941_e56b33fd69_b.jpg
@@ -35,7 +35,7 @@ O MST recebe com&nbsp;tristeza a not&iacute;cia do falecimento da jovem Marciana
 No &uacute;ltimo domingo (22), Marciana sofreu um grave acidente na rodovia AL-200 e veio a falecer devido &agrave; gravidade de seus ferimentos na tarde desta quarta-feira (1).</p>
 
 <p><br />
-No ano de 2014, Marciana graduou-se em medicina ap&oacute;s sete&nbsp;anos de estudos em Cuba. Marciana era&nbsp;antes de tudo militante do MST, contribu&iacute;a com o setor de sa&uacute;de e estava sempre alegre e disposta a ajudar os que necessitavam de seus cuidados.&nbsp;</p>
+No ano de 2014,&nbsp;graduou-se em medicina ap&oacute;s sete&nbsp;anos de estudos em Cuba. Marciana era&nbsp;antes de tudo militante do MST, contribu&iacute;a com o setor de sa&uacute;de e estava sempre alegre e disposta a ajudar os que necessitavam de seus cuidados.&nbsp;</p>
 
 <p><br />
 O MST&nbsp;solidariza-se com a&nbsp;dor dos&nbsp;familiares e amigos&nbsp;de Marciana e mant&eacute;m firme sua disposi&ccedil;&atilde;o de construir pol&iacute;ticas p&uacute;blicas que garantam a perman&ecirc;ncia e o acesso dos jovens &agrave; terra, &agrave; educa&ccedil;&atilde;o e &agrave; liberdade.&nbsp;</p>
