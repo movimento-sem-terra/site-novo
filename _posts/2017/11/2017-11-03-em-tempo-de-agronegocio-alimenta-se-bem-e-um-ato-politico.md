@@ -59,8 +59,11 @@ releated_posts:
 
 <div><em>Da P&aacute;gina do MST&nbsp;</em></div>
 
-<div><br />
-Entre os dias 25 e 26 de Outubro de 2017, o setor de produ&ccedil;&atilde;o do MST junto com o Levante Popular da Juventude organizaram o I Circuito de Forma&ccedil;&atilde;o dos Grupos de Consumo Respons&aacute;vel das Cestas Agroecol&oacute;gicas Camponesas na Universidade Federal de Minas Gerais (UFMG).</div>
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>Entre os dias 25 e 26 de Outubro de 2017, o setor de produ&ccedil;&atilde;o do MST junto com o Levante Popular da Juventude organizaram o I Circuito de Forma&ccedil;&atilde;o dos Grupos de Consumo Respons&aacute;vel das Cestas Agroecol&oacute;gicas Camponesas na Universidade Federal de Minas Gerais (UFMG).</div>
 
 <p><br />
 Aconteceram&nbsp;atividades no Campus da Pampulha e no Campus da Sa&uacute;de. O objetivo do&nbsp;I Circuito de Forma&ccedil;&atilde;o foi promover o di&aacute;logo sobre Alimenta&ccedil;&atilde;o Saud&aacute;vel e Reforma Agr&aacute;ria Popular.</p>
