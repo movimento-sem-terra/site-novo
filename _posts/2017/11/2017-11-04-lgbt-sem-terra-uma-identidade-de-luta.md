@@ -1,6 +1,7 @@
 ---
 date: "2017-11-04T13:09:27-02:00"
-tags: []
+tags:
+  - tag: lgbt
 title: "LGBT Sem Terra: uma identidade de luta"
 support_line: "Fruto da auto-organização dos sujeitos LGBT dentro do movimento, o MST tomou como decisão política pensar e articular o processo de fortalecimento das lutas e visibilidade dos LGBT Sem Terra."
 images_hd: //farm5.staticflickr.com/4471/24311733568_56f5d53d0e_b.jpg
@@ -37,7 +38,10 @@ files:
     $$hashKey: 09F
 created_date: "2017-11-04T13:37:32-02:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2017/08/2017-08-18-via-campesina-inicia-o-debate-sobre-a-diversidade-de-genero-e-orientacao-sexual-nos-movimentos.md
+  - _posts/2017/07/2017-07-05-lgbt-sem-terra-realizam-curso-de-formacao-politica-no-nordeste.md
+  - _posts/2017/06/2017-06-21-esvaziamento-da-democracia-e-dos-direitos-lgbts-estao-conectados-aponta-seminario.md
 
 ---
 <p><img alt="WhatsApp Image 2017-11-03 at 15.29.09.jpeg" height="466" src="//farm5.staticflickr.com/4530/37454390444_9997790153_b.jpg" width="700" /></p>
