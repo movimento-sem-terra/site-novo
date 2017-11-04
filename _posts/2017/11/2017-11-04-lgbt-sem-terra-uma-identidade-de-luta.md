@@ -70,7 +70,7 @@ Agnaldo Cordeiro, educador do campo em Santa Catarina e sujeito LGBT Sem Terra, 
 <figcaption><em>Sereia, travesti e Sem Terra. </em></figcaption>
 </figure>
 
-<p>A travesti tocantinense Sereia atua no Setor de Frente de Massa em seu estado e para ela, os LGBT avan&ccedil;aram dentro da organiza&ccedil;&atilde;o, tendo em vista que houve a ocupa&ccedil;&atilde;o de diversos espa&ccedil;os nas dire&ccedil;&otilde;es, onde diversas decis&otilde;es s&atilde;o tomadas por esses sujeitos, com reflexo em todo corpo organizativo do movimento.</p>
+<p>A travesti maranhense Sereia atua no Setor de Frente de Massa em seu estado e para ela, os LGBT avan&ccedil;aram dentro da organiza&ccedil;&atilde;o, tendo em vista que houve a ocupa&ccedil;&atilde;o de diversos espa&ccedil;os nas dire&ccedil;&otilde;es, onde diversas decis&otilde;es s&atilde;o tomadas por esses sujeitos, com reflexo em todo corpo organizativo do movimento.</p>
 
 <p><br />
 &ldquo;Hoje em dia temos travestis assentadas que desenvolvem v&aacute;rias atividades importantes, e isso &eacute; reflexo de um empoderamento desses sujeitos LGBT. Nossa tarefa &eacute; ocupar mais espa&ccedil;os&rdquo;, enfatiza Sereia.</p>
@@ -103,5 +103,7 @@ Fruto dessa compreens&atilde;o, o MST reuniu cerca de 80 LGBT Sem Terra, de dive
 <p>&nbsp;</p>
 
 <p><em>*Editado por Leonardo Fernandes</em></p>
+
+<div class="webpki_lacunasoftware_com" id="webpki_lacunasoftware_com" style="display: none;">&nbsp;</div>
 
 <div class="webpki_lacunasoftware_com" id="webpki_lacunasoftware_com" style="display: none;">&nbsp;</div>
