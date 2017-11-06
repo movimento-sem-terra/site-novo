@@ -31,6 +31,12 @@ releated_posts:
   - _posts/2017/06/2017-06-23-acampamento-frei-henri-em-resistencia-permanente.md
 
 ---
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="DSC08429.JPG" height="415" src="//farm5.staticflickr.com/4473/37510888424_62de492062_b.jpg" width="700" />
+<figcaption></figcaption>
+</figure>
+</div>
+
 <p>&nbsp;</p>
 
 <p><em>Da P&aacute;gina do MST&nbsp;</em></p>
@@ -66,14 +72,14 @@ Para proteger o interesse de uma meia d&uacute;zia de latifundi&aacute;rios, o E
 
 <p style="text-align: right;">&nbsp;</p>
 
-<p style="text-align: right;">&nbsp;</p>
-
-<p style="text-align: right;">Marab&aacute;, 6 de novembro de 2017.</p>
-
-<p style="text-align: center;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
-
-<p style="text-align: center;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Movimento dos Trabalhadores Rurais SemTerra &ndash; MST&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Comiss&atilde;o Pastoral da terra &ndash;CPT</p>
+<p>Marab&aacute;, 6 de novembro de 2017</p>
 
 <p>&nbsp;</p>
 
-<p style="text-align: right;">&nbsp;</p>
+<p>Movimento dos Trabalhadores Rurais Sem Terra &ndash; MST&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+
+<p>Comiss&atilde;o Pastoral da terra &ndash; CPT</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
