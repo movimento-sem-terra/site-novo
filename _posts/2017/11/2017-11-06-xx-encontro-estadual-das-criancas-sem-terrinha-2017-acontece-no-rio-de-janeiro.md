@@ -6,17 +6,38 @@ tags:
   - tag: mobilizações
 title: "XX Encontro Estadual das Crianças Sem Terrinha 2017, acontece no Rio de Janeiro\n\n"
 support_line: "Sob o lema 'Por Escola, Terra e Alimento Sem Veneno! Rumo ao I Encontro Nacional', encontro ocorreu entre os dias 28 e 30 de outubro"
-images_hd: //farm5.staticflickr.com/4491/38159197026_1bff36af33_b.jpg
+images_hd: //farm5.staticflickr.com/4514/38183272732_cf8994d85c_b.jpg
 menu: "educação, cultura e comunicação"
 layout: post
 files:
-  - link: //farm5.staticflickr.com/4491/38159197026_1bff36af33_b.jpg
-    original: //farm5.staticflickr.com/4491/38159197026_85a12401fd_o.jpg
-    thumbnail: //farm5.staticflickr.com/4491/38159197026_1bff36af33_t.jpg
-    medium: //farm5.staticflickr.com/4491/38159197026_1bff36af33_z.jpg
-    small: //farm5.staticflickr.com/4491/38159197026_1bff36af33_n.jpg
+  - link: //farm5.staticflickr.com/4551/37504130944_561568d9c7_b.jpg
+    original: //farm5.staticflickr.com/4551/37504130944_237aac7966_o.jpg
+    thumbnail: //farm5.staticflickr.com/4551/37504130944_561568d9c7_t.jpg
+    medium: //farm5.staticflickr.com/4551/37504130944_561568d9c7_z.jpg
+    small: //farm5.staticflickr.com/4551/37504130944_561568d9c7_n.jpg
     title: 22894224_710289252479587_7342038157240728595_n.jpg
-    $$hashKey: "034"
+    $$hashKey: 0B6
+  - link: //farm5.staticflickr.com/4458/24362484678_6cb5016f3a_b.jpg
+    original: //farm5.staticflickr.com/4458/24362484678_1f8ce7478e_o.jpg
+    thumbnail: //farm5.staticflickr.com/4458/24362484678_6cb5016f3a_t.jpg
+    medium: //farm5.staticflickr.com/4458/24362484678_6cb5016f3a_z.jpg
+    small: //farm5.staticflickr.com/4458/24362484678_6cb5016f3a_n.jpg
+    title: 22852914_1773080829382864_1376227456552994586_n.jpg
+    $$hashKey: 0B9
+  - link: //farm5.staticflickr.com/4514/38183272732_cf8994d85c_b.jpg
+    original: //farm5.staticflickr.com/4514/38183272732_0de593b24b_o.jpg
+    thumbnail: //farm5.staticflickr.com/4514/38183272732_cf8994d85c_t.jpg
+    medium: //farm5.staticflickr.com/4514/38183272732_cf8994d85c_z.jpg
+    small: //farm5.staticflickr.com/4514/38183272732_cf8994d85c_n.jpg
+    title: 2Q8A5517.jpg
+    $$hashKey: 0BC
+  - link: //farm5.staticflickr.com/4446/24362581998_e81e38e450_b.jpg
+    original: //farm5.staticflickr.com/4446/24362581998_f0a59c867d_o.jpg
+    thumbnail: //farm5.staticflickr.com/4446/24362581998_e81e38e450_t.jpg
+    medium: //farm5.staticflickr.com/4446/24362581998_e81e38e450_z.jpg
+    small: //farm5.staticflickr.com/4446/24362581998_e81e38e450_n.jpg
+    title: IMG_7414.jpg
+    $$hashKey: 0BF
 created_date: "2017-11-06T12:51:22-02:00"
 published: true
 releated_posts:
@@ -32,6 +53,12 @@ releated_posts:
 
 ---
 <div dir="ltr" style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;">
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="22852914_1773080829382864_1376227456552994586_n.jpg" height="467" src="//farm5.staticflickr.com/4458/24362484678_6cb5016f3a_b.jpg" width="700" />
+<figcaption></figcaption>
+</figure>
+</div>
+
 <p style="color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; font-size: 13px;">&nbsp;</p>
 
 <p style="color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; font-size: 13px;"><em>Por B&aacute;rbara Vida<br />
@@ -59,7 +86,7 @@ O encontro estadual do Rio de Janeiro desse ano teve o tema:&nbsp;<b>Por escola,
 </div>
 
 <p style="color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; font-size: 13px;"><br />
-<b>OS ENCONTROS SEM TERRINHA</b></p>
+<b>Os encontros Sem Terrinha&nbsp;</b></p>
 
 <p style="color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; font-size: 13px;"><br />
 As crian&ccedil;as nos assentamentos e acampamentos t&ecirc;m um papel fundamental, pois crian&ccedil;a em qualquer lugar &eacute; sinal de &acirc;nimo renovado. Vem da&iacute; a necessidade de mostrar a import&acirc;ncia dos &ldquo;Sem Terrinha&rdquo; no meio em que vivem.</p>
@@ -74,10 +101,7 @@ Trata-se de uma atividade realizada anualmente pelo Setor de Educa&ccedil;&atild
 Os encontros estaduais e regionais das crian&ccedil;as Sem Terrinha acontecem em todo Brasil&nbsp;desde 1994, com a realiza&ccedil;&atilde;o do primeiro encontro estadual em Porto Alegre, Rio Grande do Sul. Em 2017, os encontros t&ecirc;m por objetivo ser um espa&ccedil;os de prepara&ccedil;&atilde;o para o I Encontro Nacional das Crian&ccedil;as Sem Terrinha, que ser&aacute; realizado&nbsp;em Bras&iacute;lia, onde se espera reunir 1500 crian&ccedil;as de todo o Brasil para estudar, brincar e lutar pela Reforma Agr&aacute;ria Popular e por uma Educa&ccedil;&atilde;o do Campo que as emancipe enquanto sujeitos.</p>
 
 <p style="color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; font-size: 13px;"><br />
-<b>(FOTO 3)</b></p>
-
-<p style="color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; font-size: 13px;"><br />
-<b>MST E A EDUCA&Ccedil;&Atilde;O NO/DO CAMPO</b></p>
+<b>O MST e a educa&ccedil;&atilde;o no campo&nbsp;</b></p>
 
 <p style="color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; font-size: 13px;"><br />
 A educa&ccedil;&atilde;o brasileira vive um processo de precariza&ccedil;&atilde;o generalizada, seja dos seus recursos estruturais, como a parte de infraestrutura e de pessoal, como tamb&eacute;m do seu projeto pedag&oacute;gico. Podemos questionar sobre qual&nbsp;contribui&ccedil;&atilde;o a educa&ccedil;&atilde;o precarizada pode influenciar na forma&ccedil;&atilde;o e na vida de das crian&ccedil;as, jovens e adultos? Se as escolas urbanas, principalmente das periferias, vivem essa escassez educativa, nas escolas do campo, essa situa&ccedil;&atilde;o &eacute; potencializada pela falta de profissionais, de estruturas m&iacute;nimas de trabalho e pelo processo fechamento das escolas, que obriga crian&ccedil;as e jovens a se deslocaram quil&ocirc;metros para estudarem na escola mais pr&oacute;xima da sua cidade. Processo&nbsp;que faz com que estes sujeitos simplesmente parem de estudar para se dedicarem ao trabalho e&nbsp;contribu&iacute;rem financeiramente com suas fam&iacute;lias.</p>
@@ -95,21 +119,17 @@ Diante desta realidade, o MST vem lutando contra o fechamento das escolas e por 
 Desta forma, a organiza&ccedil;&atilde;o XX Encontro das Crian&ccedil;as Sem Terrinha recoloca atrav&eacute;s da Audi&ecirc;ncia P&uacute;blica, articulada pelo Deputado Fl&aacute;vio Serafini, da Comiss&atilde;o de Educa&ccedil;&atilde;o, que este espa&ccedil;o do brincar, da arte, da cultura &eacute; tamb&eacute;m de educa&ccedil;&atilde;o, forma&ccedil;&atilde;o,&nbsp;como um instrumento do trabalho de base, propiciando a auto- organiza&ccedil;&atilde;o das crian&ccedil;as, como sujeitos de direitos e de luta.</p>
 
 <p style="color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; font-size: 13px;"><br />
-O recado foi dado pelas crian&ccedil;as Sem Terra para Secretaria de Estado da Educa&ccedil;&atilde;o do Rio de Janeiro: fechar escolas &eacute; crime!!!</p>
+O recado foi dado pelas crian&ccedil;as Sem Terra para Secretaria de Estado da Educa&ccedil;&atilde;o do Rio de Janeiro: fechar escolas &eacute; crime!</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="IMG_7414.jpg" height="467" src="//farm5.staticflickr.com/4446/24362581998_e81e38e450_b.jpg" width="700" />
+<figcaption></figcaption>
+</figure>
+</div>
 
 <p style="color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; font-size: 13px;"><br />
 <i>Sem Terrinha em a&ccedil;&atilde;o pra fazer revolu&ccedil;&atilde;o!</i></p>
 
 <p style="color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; font-size: 13px;"><br />
-<b>(FOTO 4)</b></p>
-
-<p style="color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; font-size: 13px;">&nbsp;</p>
-
-<p style="color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; font-size: 13px;">&nbsp;</p>
-
-<p style="color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; font-size: 13px;">Para saber mais:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;PUBLICAR VIDEO DO LINK&nbsp;<a data-saferedirecturl="https://www.google.com/url?hl=pt-BR&amp;q=https://www.facebook.com/semterrinha/videos/956055864575593/&amp;source=gmail&amp;ust=1510065418857000&amp;usg=AFQjCNGv2KFfAVyRd8LjfM53K3kb2geSig" href="https://www.facebook.com/semterrinha/videos/956055864575593/" target="_blank"><span class="m_3573821902245711865gmail-s2" style="color: rgb(228, 175, 9);">https://www.facebook.com/<wbr />semterrinha/videos/<wbr />956055864575593/</span></a>&nbsp;)</p>
-</div>
-
-<div class="yj6qo ajU" style="cursor: pointer; outline: none; padding: 10px 0px; width: 22px; margin: 2px 0px 0px; color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;">
-<div aria-label="Mostrar conteúdo cortado" class="ajR" data-tooltip="Mostrar conteúdo cortado" id=":14u" role="button" style="background-color: rgb(241, 241, 241); border: 1px solid rgb(221, 221, 221); clear: both; line-height: 6px; outline: none; position: relative; width: 20px;" tabindex="0"><img alt="" class="ajT" src="https://ssl.gstatic.com/ui/v1/icons/mail/images/cleardot.gif" style="background: url(&quot;//ssl.gstatic.com/ui/v1/icons/mail/ellipsis.png&quot;) no-repeat; height: 8px; opacity: 0.3; width: 20px;" /></div>
+Para saber mais, ver mais sobre clique <a href="https://www.facebook.com/semterrinha/videos/956055864575593/">aqui</a>.&nbsp;</p>
 </div>
