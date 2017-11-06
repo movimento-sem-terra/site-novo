@@ -8,16 +8,16 @@ title: "Mais de duas mil famílias perderão suas casas e plantações no Pará 
 support_line: "A operação atende aos pedidos dos fazendeiros da região que nos últimos meses vem exigindo do Governo do Estado e do Juiz da Vara Agrária de Marabá, o cumprimento das liminares e o despejo das famílias"
 menu: direitos humanos
 section: cover
-images_hd: //farm5.staticflickr.com/4534/38164922576_74fc253dc5_b.jpg
+images_hd: //farm5.staticflickr.com/4473/37510888424_62de492062_b.jpg
 layout: post
 files:
-  - link: //farm5.staticflickr.com/4534/38164922576_74fc253dc5_b.jpg
-    original: //farm5.staticflickr.com/4534/38164922576_f3ee1dc0e9_o.jpg
-    thumbnail: //farm5.staticflickr.com/4534/38164922576_74fc253dc5_t.jpg
-    medium: //farm5.staticflickr.com/4534/38164922576_74fc253dc5_z.jpg
-    small: //farm5.staticflickr.com/4534/38164922576_74fc253dc5_n.jpg
-    title: 2012_21_jun_mst_na_sede_da_cedro-004.jpg
-    $$hashKey: 0WK
+  - link: //farm5.staticflickr.com/4473/37510888424_62de492062_b.jpg
+    original: //farm5.staticflickr.com/4473/37510888424_5618282127_o.jpg
+    thumbnail: //farm5.staticflickr.com/4473/37510888424_62de492062_t.jpg
+    medium: //farm5.staticflickr.com/4473/37510888424_62de492062_z.jpg
+    small: //farm5.staticflickr.com/4473/37510888424_62de492062_n.jpg
+    title: DSC08429.JPG
+    $$hashKey: 1A7
 created_date: "2017-11-06T17:10:01-02:00"
 published: true
 releated_posts:
