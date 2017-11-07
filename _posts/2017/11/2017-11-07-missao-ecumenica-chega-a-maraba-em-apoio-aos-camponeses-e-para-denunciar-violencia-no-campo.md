@@ -5,7 +5,7 @@ tags:
   - tag: violência-no-campo
   - tag: pará
 support_line: "Nesta quarta-feira (8) terá início, em Marabá (PA), a Missão Ecumênica em apoio aos camponeses e camponesas do estado. Às 11h, no Centro de Formação da Diocese de Marabá, será realizada uma coletiva de imprensa."
-title: Missão Ecumênica chega a Marabá em apoio aos camponeses e para denunciar violência no campo
+title: Missão Ecumênica chega a Marabá para apoiar camponeses e denunciar violência no campo
 menu: direitos humanos
 images_hd: //farm5.staticflickr.com/4510/26466184579_07c0a64262_b.jpg
 layout: post
