@@ -7,7 +7,7 @@ tags:
 title: "Mais de duas mil famílias perderão suas casas e plantações no Pará     "
 support_line: "A operação atende aos pedidos dos fazendeiros da região que nos últimos meses vem exigindo do Governo do Estado e do Juiz da Vara Agrária de Marabá, o cumprimento das liminares e o despejo das famílias"
 menu: direitos humanos
-section: cover
+section: featured-news
 images_hd: //farm5.staticflickr.com/4473/37510888424_62de492062_b.jpg
 layout: post
 files:
