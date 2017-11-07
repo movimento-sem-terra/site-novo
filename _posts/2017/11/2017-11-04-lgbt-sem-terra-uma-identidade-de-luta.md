@@ -49,7 +49,8 @@ releated_posts:
 <p>&nbsp;</p>
 
 <p><em>Por Wesley Lima<br />
-Fotos: Dowglas Silva</em></p>
+Fotos: Dowglas Silva<br />
+Foto de Capa: Maria Silva</em></p>
 
 <p>&nbsp;</p>
 
