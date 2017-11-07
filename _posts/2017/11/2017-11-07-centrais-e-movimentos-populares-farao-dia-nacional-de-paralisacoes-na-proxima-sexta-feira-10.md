@@ -4,7 +4,7 @@ tags:
   - tag: frente-brasil-popular
   - tag: cut
   - tag: reforma-trabalhista
-title: "Centrais e movimentos populares farão Dia Nacional de Paralisações, na próxima sexta-feira (10)"
+title: "Na próxima sexta (10), centrais e movimentos farão Dia Nacional de Paralisações."
 support_line: "Um dia antes da entrada em vigor da nova lei, mobilizações estão marcadas para acontecer em diversas cidades do país para denunciar o desmonte da \"deforma trabalhista\"."
 section: cover
 menu: lutas e mobilizações
