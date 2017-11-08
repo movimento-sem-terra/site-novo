@@ -6,7 +6,7 @@ tags:
   - tag: reforma-trabalhista
 title: "Nesta sexta (10), centrais e movimentos farão Dia Nacional de Paralisações"
 support_line: "A um dia da entrada em vigor da nova lei, mobilizações acontecem em diversas cidades do país para denunciar a \"deforma trabalhista\"."
-section: cover
+section: featured-news
 menu: lutas e mobilizações
 images_hd: //farm5.staticflickr.com/4536/38213883792_ac45742cd2_b.jpg
 layout: post
@@ -54,7 +54,7 @@ As entidades tamb&eacute;m produziram um material informativo sobre os atos em t
 &ldquo;N&oacute;s estamos nos organizando para mobilizar o povo para fazemos grandes mobiliza&ccedil;&otilde;es em todo o pa&iacute;s, parando os trabalhos nas f&aacute;bricas, para denunciar o que n&oacute;s chamamos de deforma trabalhista do governo Temer&rdquo;, declarou o secret&aacute;rio-geral da CUT/SP, Jo&atilde;o Cayres.<br />
 &nbsp;</p>
 
-<p><img alt="28a-881x480.jpg" src="//farm5.staticflickr.com/4467/38213884202_5734df742a_b.jpg" /></p>
+<p><img alt="28a-881x480.jpg" height="381" src="//farm5.staticflickr.com/4467/38213884202_5734df742a_b.jpg" width="700" /></p>
 
 <p><br />
 O &quot;Dia Nacional de Paralisa&ccedil;&atilde;o&quot; busca mostrar &agrave; popula&ccedil;&atilde;o as mazelas do desmonte dos direitos sociais promovidos pelo governo ileg&iacute;timo de Michel Temer. As centrais pretendem ainda se antecipar sobre outros ataques dos setores golpistas que ainda est&atilde;o por vir, como a Reforma da Previd&ecirc;ncia, que j&aacute; est&aacute; na pauta do Congresso.</p>
