@@ -5,7 +5,7 @@ tags:
   - tag: reforma-agrária
   - tag: jornada-nacional-de-lutas
 title: Governo golpista mantém cortes na Reforma Agrária e na Agricultura Familiar
-support_line: "Alexandre Conceição, da Direção Nacional do MST, apresenta uma análise sobre a proposta orçamentária de 2018 do governo golpista para a área Agrícola e Agrária."
+support_line: "Alexandre Conceição, da Direção Nacional do MST, apresenta uma análise sobre a proposta orçamentária de 2018 do governo golpista para as pastas."
 menu: reforma agrária
 section: cover
 images_hd: //farm5.staticflickr.com/4561/38211200006_d57a559a19_b.jpg
