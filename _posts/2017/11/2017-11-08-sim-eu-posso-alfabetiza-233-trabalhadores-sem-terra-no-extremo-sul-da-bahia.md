@@ -23,6 +23,13 @@ files:
     small: //farm5.staticflickr.com/4578/37552847204_678dcba4fd_n.jpg
     title: IMG_2710 1.jpg
     $$hashKey: 0LF
+  - link: //farm5.staticflickr.com/4516/24392327728_99bd4916fa_b.jpg
+    original: //farm5.staticflickr.com/4516/24392327728_864af873da_o.jpg
+    thumbnail: //farm5.staticflickr.com/4516/24392327728_99bd4916fa_t.jpg
+    medium: //farm5.staticflickr.com/4516/24392327728_99bd4916fa_z.jpg
+    small: //farm5.staticflickr.com/4516/24392327728_99bd4916fa_n.jpg
+    title: IMG_6180 (1).jpg
+    $$hashKey: 0YC
 created_date: "2017-11-08T11:01:54-02:00"
 published: true
 releated_posts:
@@ -51,8 +58,13 @@ O &ldquo;Sim, Eu Posso&rdquo; tem avan&ccedil;ado na populariza&ccedil;&atilde;o
 <p><br />
 <strong>Implementa&ccedil;&atilde;o</strong></p>
 
-<p><br />
-Em 2011, as primeiras turmas foram constru&iacute;das atrav&eacute;s da &ldquo;Campanha de Erradica&ccedil;&atilde;o do Analfabetismo&rdquo;, que se somou ao projeto &ldquo;Assentamentos Agroecol&oacute;gicos&rdquo;. A campanha marca o in&iacute;cio de um processo de luta permanente pelo direito a educa&ccedil;&atilde;o no campo e a partir da agroecologia, um debate que tamb&eacute;m se apresentou com for&ccedil;a na &eacute;poca, dinamizou a aprendizagem ao unir o modelo produtivo &aacute;s rela&ccedil;&otilde;es sociais, com foco na alfabetiza&ccedil;&atilde;o. Desde ent&atilde;o, as turmas com o m&eacute;todo cubano cresceram e se espalharam por toda regi&atilde;o.</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="IMG_6180 (1).jpg" height="233" src="//farm5.staticflickr.com/4516/24392327728_99bd4916fa_b.jpg" width="350" />
+<figcaption></figcaption>
+</figure>
+
+<p>Em 2011, as primeiras turmas foram constru&iacute;das atrav&eacute;s da &ldquo;Campanha de Erradica&ccedil;&atilde;o do Analfabetismo&rdquo;, que se somou ao projeto &ldquo;Assentamentos Agroecol&oacute;gicos&rdquo;. A campanha marca o in&iacute;cio de um processo de luta permanente pelo direito a educa&ccedil;&atilde;o no campo e a partir da agroecologia, um debate que tamb&eacute;m se apresentou com for&ccedil;a na &eacute;poca, dinamizou a aprendizagem ao unir o modelo produtivo &aacute;s rela&ccedil;&otilde;es sociais, com foco na alfabetiza&ccedil;&atilde;o. Desde ent&atilde;o, as turmas com o m&eacute;todo cubano cresceram e se espalharam por toda regi&atilde;o.</p>
 
 <p><br />
 A Dire&ccedil;&atilde;o do MST na Bahia avalia de maneira positiva os resultados do &ldquo;Sim, Eu Posso&rdquo; e acredita que a formatura ser&aacute; mais um espa&ccedil;o para legitimar o processo de escolariza&ccedil;&atilde;o dos trabalhadores Sem Terra e apontar a constru&ccedil;&atilde;o de novas turmas at&eacute; erradicar, por definitivo, o analfabetismo nos assentamentos e acampamentos de todo estado.</p>
