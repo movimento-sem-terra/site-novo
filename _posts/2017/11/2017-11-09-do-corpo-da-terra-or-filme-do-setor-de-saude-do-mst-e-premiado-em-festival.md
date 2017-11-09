@@ -4,7 +4,7 @@ tags:
   - tag: arte-e-cultura
   - tag: filme
   - tag: saúde
-title: "Do Corpo da Terra | Filme do Setor de Saúde do MST é premiado em festival\n"
+title: "Do Corpo da Terra: Filme do Setor de Saúde do MST é premiado em festival\n"
 support_line: "Dirigido por Julia Mariano, a produção ganhou uma menção honrosa na 12ª edição do Festival Taguatinga de Cinema, realizado no começo do mês de novembro.\n"
 images_hd: //farm5.staticflickr.com/4575/26510268099_faea4e5e01_b.jpg
 menu: "educação, cultura e comunicação"
