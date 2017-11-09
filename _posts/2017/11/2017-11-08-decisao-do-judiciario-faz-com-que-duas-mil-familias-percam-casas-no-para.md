@@ -8,7 +8,7 @@ title: Decisão do Judiciário faz com que duas mil famílias percam casas no Pa
 support_line: Vara Agrária de Marabá determinou desocupação de áreas até o final do ano.
 images_hd: //farm5.staticflickr.com/4548/37557012984_d8dcbc5ea5_b.jpg
 menu: direitos humanos
-section: featured-news
+section: cover
 layout: post
 files:
   - link: //farm5.staticflickr.com/4548/37557012984_d8dcbc5ea5_b.jpg
