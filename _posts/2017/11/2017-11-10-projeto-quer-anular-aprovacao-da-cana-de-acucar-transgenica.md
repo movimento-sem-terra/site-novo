@@ -4,7 +4,7 @@ tags:
   - tag: transgênicos
   - tag: governo-temer
   - tag: ctnbio
-title: Projeto quer anular aprovação da cana de açúcar transgênica
+title: Projeto quer anular aprovação da cana-de-açúcar transgênica
 support_line: "Para o autor, deputado Nilto Tatto (PT), a liberação desrespeita o consumidor e o meio ambiente e aponta para a falta de ética nas relações entre a CTNBio e o setor canavieiro."
 images_hd: //farm5.staticflickr.com/4580/26533559119_cc16900c3d_b.jpg
 menu: transgênicos
