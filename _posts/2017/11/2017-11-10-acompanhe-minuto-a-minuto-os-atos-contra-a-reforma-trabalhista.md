@@ -27,7 +27,7 @@ releated_posts:
 
 ---
 <figure class="image"><img alt="WhatsApp Image 2017-11-10 at 10.18.01.jpeg" height="389" src="//farm5.staticflickr.com/4522/24436726548_08c48688c4_b.jpg" width="700" />
-<figcaption>Manifestantes em S&atilde;o Lu&iacute;s, no Maranh&atilde;o. (Foto: Jonas Borges/MST)</figcaption>
+<figcaption>Manifestantes em S&atilde;o Lu&iacute;s, no Maranh&atilde;o. (Foto: Cl&aacute;udio Castro)</figcaption>
 </figure>
 
 <p>&nbsp;</p>
