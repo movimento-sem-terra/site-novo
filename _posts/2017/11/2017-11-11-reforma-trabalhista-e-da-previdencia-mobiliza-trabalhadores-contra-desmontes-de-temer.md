@@ -32,7 +32,8 @@ releated_posts:
 <p><br />
 O Dia nacional&nbsp;de Luta contra as Reformas Trabalhista e da Previd&ecirc;ncia terminou com mobiliza&ccedil;&otilde;es em mais dez estados brasileiros e no Distrito Federal.</p>
 
-<p>Em diversas cidades, trabalhadoras e trabalhadores cruzaram os bra&ccedil;os em resposta &agrave;s novas regras da reforma trabalhista, que entra&nbsp;em vigor neste s&aacute;bado (11) e altera mais de cem pontos da Consolida&ccedil;&atilde;o das Leis do Trabalho (CLT), lei que regulamenta as rela&ccedil;&otilde;es trabalhistas no Brasil.</p>
+<p><br />
+Em diversas cidades, trabalhadoras e trabalhadores cruzaram os bra&ccedil;os em resposta &agrave;s novas regras da reforma trabalhista, que entra&nbsp;em vigor neste s&aacute;bado (11) e altera mais de cem pontos da Consolida&ccedil;&atilde;o das Leis do Trabalho (CLT), lei que regulamenta as rela&ccedil;&otilde;es trabalhistas no Brasil.</p>
 
 <p><br />
 <strong>Paran&aacute;</strong></p>
