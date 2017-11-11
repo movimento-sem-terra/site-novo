@@ -11,7 +11,7 @@ sass:
   style: :compressed
 collections:
   banners:
-timezone: BR
+timezone: America/Sao_Paulo
 lollipop:
   title:  Radionovela sobre a vida de Rosa Luxemburgo!
   link:   /2017/10/18/ja-esta-no-ar-radionovela-rosa-luxemburgo.html
