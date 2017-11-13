@@ -4,7 +4,7 @@ tags:
   - tag: educação-no-campo
   - tag: paraíba
   - tag: EJA
-title: "Na Paraíba, encontro reúne educadores do Programa Brasil Alfabetizado"
+title: "Na Paraíba, encontro reúne educadores do Programa de Educação de Jovens e Adultos"
 images_hd: //farm5.staticflickr.com/4562/37681249734_0f2470abdd_b.jpg
 menu: "educação, cultura e comunicação"
 support_line: "No último dia de atividade, a formação resgatou as práticas da revolucionária Krupskaya Lenin em comemoração ao centenário da Revolução Russa."
