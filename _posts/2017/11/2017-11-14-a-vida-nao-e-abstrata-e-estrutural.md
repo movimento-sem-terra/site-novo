@@ -55,7 +55,9 @@ O mito da democracia racial no Brasil formulado e naturalizado pela ra&ccedil;a/
 Os resqu&iacute;cios coloniais foram instrumentalizados para manter a explora&ccedil;&atilde;o e precariza&ccedil;&atilde;o da vida da popula&ccedil;&atilde;o negra, e independente da rela&ccedil;&atilde;o de poder e formas de opress&atilde;o, seja ela de ordem patriarcal, racista, LGBTf&oacute;bica, a moral colonizadora enraizada nas rela&ccedil;&otilde;es sociais, refor&ccedil;a a viol&ecirc;ncia sist&ecirc;mica e viola&ccedil;&atilde;o dos corpos.</p>
 
 <p><br />
-E o corpo enquanto campo de batalha &eacute; bombardeado e expropriado continuamente de sua identidade racial e sexual, bem como, estruturalmente esta popula&ccedil;&atilde;o &eacute; expulsa das m&iacute;nimas organiza&ccedil;&otilde;es sociais, como a vida em fam&iacute;lia, acesso &agrave; educa&ccedil;&atilde;o, sa&uacute;de, moradia, emprego, amor, n&atilde;o dotando de qualquer privil&eacute;gio.<br />
+E o corpo enquanto campo de batalha &eacute; bombardeado e expropriado continuamente de sua identidade racial e sexual, bem como, estruturalmente esta popula&ccedil;&atilde;o &eacute; expulsa das m&iacute;nimas organiza&ccedil;&otilde;es sociais, como a vida em fam&iacute;lia, acesso &agrave; educa&ccedil;&atilde;o, sa&uacute;de, moradia, emprego, amor, n&atilde;o dotando de qualquer privil&eacute;gio.</p>
+
+<p><br />
 O sistema patriarcal-heterossexista, racista e LGBTf&oacute;bica s&atilde;o estruturais e funcionais para manuten&ccedil;&atilde;o do sistema capitalista, que se apropria dos corpos, tempo, consci&ecirc;ncia e conformam a divis&atilde;o social, racial e sexual do trabalho, na sociedade capitalista, estabelecendo a ideologia de inferioridade e minando a humanidade dos sujeitos, para continuidade da superexplora&ccedil;&atilde;o, precariza&ccedil;&atilde;o do trabalho e submiss&atilde;o para manter os privil&eacute;gios da classe burguesa.&nbsp;</p>
 
 <p><br />
