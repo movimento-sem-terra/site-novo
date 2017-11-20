@@ -7,7 +7,7 @@ tags:
 support_line: "A Feira, além da comercialização de produtos, contará com culinária da terra, debates sobre alimentação saudável, agroecologia e apresentações artísticas."
 title: Feira Estadual reúne diversidade da Reforma Agrária no MS
 menu: reforma agrária
-section: cover
+section: featured-news
 images_hd: //farm5.staticflickr.com/4533/37808422364_ab08787760_b.jpg
 layout: post
 files:
