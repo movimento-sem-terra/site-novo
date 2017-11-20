@@ -45,7 +45,7 @@ releated_posts:
 <p>Se o novembro &eacute; marcado como m&ecirc;s da consci&ecirc;ncia negra em mem&oacute;ria do l&iacute;der quilombola Zumbi dos Palmares, n&atilde;o tem com pensar nesse per&iacute;odo sem relacionar com o Movimento dos Sem Terra, que tamb&eacute;m trava uma luta contra os poderes hegem&ocirc;nicos, elitistas e brancos que se apossaram do Brasil h&aacute; mais de 500 anos.&nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="40-45 057.jpg" height="525" src="//farm5.staticflickr.com/4579/38512501142_896d3d0953_b.jpg" width="350" />
-<figcaption></figcaption>
+<figcaption>Foto: Wesley Lima/MST</figcaption>
 </figure>
 
 <p><br />
