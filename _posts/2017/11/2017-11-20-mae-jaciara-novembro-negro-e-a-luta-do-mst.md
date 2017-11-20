@@ -5,7 +5,7 @@ tags:
   - tag: projeto-popular
   - tag: campo-e-cidade
 title: "Mãe Jaciara: Novembro Negro e a luta do MST"
-support_line: "\"Vejo que nossas lutas passam pro trilhos que comungam e pretendem ao fim e ao cabo o mesmo propósito de libertação\", afirma a Yalorixá em artigo para a Página do MST."
+support_line: "\"Vejo que nossas lutas passam por trilhos que comungam e pretendem ao fim e ao cabo o mesmo propósito de libertação\", afirma a Yalorixá em artigo para a Página do MST."
 section: cover
 menu: projeto popular
 images_hd: //farm5.staticflickr.com/4524/37828048464_8681c710a8_b.jpg
@@ -45,7 +45,7 @@ releated_posts:
 <p>Se o novembro &eacute; marcado como m&ecirc;s da consci&ecirc;ncia negra em mem&oacute;ria do l&iacute;der quilombola Zumbi dos Palmares, n&atilde;o tem com pensar nesse per&iacute;odo sem relacionar com o Movimento dos Sem Terra, que tamb&eacute;m trava uma luta contra os poderes hegem&ocirc;nicos, elitistas e brancos que se apossaram do Brasil h&aacute; mais de 500 anos.&nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="40-45 057.jpg" height="525" src="//farm5.staticflickr.com/4579/38512501142_896d3d0953_b.jpg" width="350" />
-<figcaption>Foto: Wesley Lima/MST</figcaption>
+<figcaption>Foto: Arquivo/MST</figcaption>
 </figure>
 
 <p><br />
@@ -58,7 +58,7 @@ Toda essa hist&oacute;ria tamb&eacute;m guarda rela&ccedil;&atilde;o com as resi
 No final das contas nossas lutas se traduzem em busca pelo reconhecimento do direito de ter ch&atilde;o nosso pra pisar e criar as formas de viver com dignidade dentro das nossas perspectivas de bem-estar. O Movimento de Sem Terras &eacute; fundamental para o enfrentamento que o Movimento Negro organizado faz por outras vias e com outros m&eacute;todos, mas sempre na perspectiva de ocupa&ccedil;&atilde;o dos espa&ccedil;os, n&atilde;o exclusivamente das terras, mas dos territ&oacute;rios em que se constr&oacute;i e decide a vida do pa&iacute;s.</p>
 
 <p><br />
-Eu, mulher negra de Candombl&eacute;, vejo que nossas lutas passam pro trilhos que comungam e pretendem ao fim e ao cabo o mesmo prop&oacute;sito de liberta&ccedil;&atilde;o, de rompimento com as novas e recriadas formas de coloniza&ccedil;&atilde;o e escravid&atilde;o dos nossos corpos e nossas viv&ecirc;ncias. Marchar e ocupar pra existir!!! Estamos aqui!!!</p>
+Eu, mulher negra de Candombl&eacute;, vejo que nossas lutas passam por trilhos que comungam e pretendem ao fim e ao cabo o mesmo prop&oacute;sito de liberta&ccedil;&atilde;o, de rompimento com as novas e recriadas formas de coloniza&ccedil;&atilde;o e escravid&atilde;o dos nossos corpos e nossas viv&ecirc;ncias. Marchar e ocupar pra existir!!! Estamos aqui!!!</p>
 
 <p>&nbsp;</p>
 
