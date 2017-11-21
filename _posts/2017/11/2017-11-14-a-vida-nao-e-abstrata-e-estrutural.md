@@ -6,7 +6,7 @@ tags:
   - tag: história
 title: "A vida não é abstrata, é estrutural"
 menu: lutas e mobilizações
-section: cover
+section: null
 label: articles
 images_hd: //farm5.staticflickr.com/4580/37707366714_4ee99cb2d6_b.jpg
 support_line: "Novembro chegou, e com ele a memória de Luta e Resistência do povo Negro que transpassa o calendário há mais de 400 anos"
