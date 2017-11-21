@@ -23,6 +23,7 @@ releated_posts:
   - _posts/2017/04/2017-04-19-como-uma-muralha.md
   - _posts/2017/11/2017-11-11-suzane-jardim-e-uma-obrigacao-dos-movimentos-sociais-pensarem-a-questao-racial-para-alem-dos-meses-tematicos-e-datas-simbolicas.md
   - _posts/2017/11/2017-11-14-a-vida-nao-e-abstrata-e-estrutural.md
+label: interviews
 
 ---
 <p>&nbsp;</p>
