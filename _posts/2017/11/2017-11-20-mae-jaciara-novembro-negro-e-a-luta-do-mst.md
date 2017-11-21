@@ -1,12 +1,12 @@
 ---
-date: "2017-11-20T13:17:10-03:00"
+date: "2017-11-20T14:17:10-02:00"
 tags:
   - tag: novembro-negro
   - tag: projeto-popular
   - tag: campo-e-cidade
 title: "Mãe Jaciara: Novembro Negro e a luta do MST"
 support_line: "\"Vejo que nossas lutas passam por trilhos que comungam e pretendem ao fim e ao cabo o mesmo propósito de libertação\", afirma a Yalorixá em artigo para a Página do MST."
-section: cover
+section: featured-news
 menu: projeto popular
 images_hd: //farm5.staticflickr.com/4524/37828048464_8681c710a8_b.jpg
 layout: post
