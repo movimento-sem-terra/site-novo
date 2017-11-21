@@ -8,7 +8,7 @@ title: "Suzane Jardim: \"É uma obrigação dos movimentos sociais pensarem a qu
 support_line: "Historiadora, blogueira e ativista, Suzane Jardim, fala  sobre a importância do Novembro Negro e sobre questões raciais "
 images_hd: //farm5.staticflickr.com/4583/38302237542_d3cac34975_b.jpg
 menu: lutas e mobilizações
-section: cover
+section: null
 layout: post
 files:
   - link: //farm5.staticflickr.com/4583/38302237542_d3cac34975_b.jpg
@@ -29,6 +29,7 @@ releated_posts:
   - _posts/2017/08/2017-08-11-luta-de-margarida-alves-serve-de-inspiracao-aos-movimentos-sociais-do-campo.md
   - _posts/2017/09/2017-09-05-no-7-de-setembro-movimentos-vao-as-ruas-contra-reformas-e-retirada-de-direitos.md
   - _posts/2017/10/2017-10-20-no-rio-de-janeiro-sem-terra-fecham-a-jornada-de-luta-com-marcha-em-defesa-da-reforma-agraria.md
+label: interviews
 
 ---
 <div style="text-align:center">
