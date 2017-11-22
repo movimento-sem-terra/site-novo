@@ -7,7 +7,7 @@ tags:
 menu: lutas e mobilizações
 title: "No sudeste paraense, o MST inicia Jornada de lutas e resistência"
 support_line: A mobilização organiza a resistência das trabalhadoras e trabalhadores Sem Terra contra os despejos anunciados.
-section: cover
+section: featured-news
 images_hd: //farm5.staticflickr.com/4557/26788721019_01f9b2a1ef_b.jpg
 layout: post
 files:
