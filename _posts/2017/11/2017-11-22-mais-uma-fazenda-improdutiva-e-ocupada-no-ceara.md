@@ -43,7 +43,7 @@ Da P&aacute;gina do MST</em></p>
 <p>Na manh&atilde;&nbsp;desta quarta-feira (22), por volta das 6h, cerca de 200 fam&iacute;lias do MST&nbsp;ocuparam a fazenda V&eacute;dica Maharishi-Paraiso, conhecida como Cinco Lagoas, no munic&iacute;pio de Jaguaruana, a 186 km da capital Fortaleza, no Cear&aacute;.&nbsp;A propriedade tem&nbsp;mais de tr&ecirc;s mil hectares&nbsp;e est&aacute;&nbsp;h&aacute;&nbsp;mais de 10 anos abandonada e sem produzir.&nbsp;&nbsp;</p>
 
 <p><br />
-Segundo as fam&iacute;lias, elas vieram para morar, j&aacute; que muitas n&atilde;o t&ecirc;m casa&nbsp;nem terra, Os trabalhadores e trabalhadoras j&aacute; come&ccedil;am a se organizar para prepararem as &aacute;reas onde ser&atilde;o feitos os cultivos.&nbsp;</p>
+Segundo as fam&iacute;lias, elas vieram para morar, j&aacute; que muitas n&atilde;o t&ecirc;m casa&nbsp;nem terra. Os trabalhadores e trabalhadoras j&aacute; come&ccedil;am a se organizar para prepararem as &aacute;reas onde ser&atilde;o feitos os cultivos.&nbsp;</p>
 
 <p><br />
 A propriedade j&aacute; havia sido reivindicada pelos trabalhadores desde 2010, quando eles montaram um&nbsp;acampamento nas proximidades da fazenda, exigindo a desapropria&ccedil;&atilde;o da &aacute;rea. Durante os sete anos de acampamento, foram feitas duas vistorias, e mesmo sem cumprir sua fun&ccedil;&atilde;o social, os laudos foram favor&aacute;veis aos propriet&aacute;rios.&nbsp;</p>
@@ -55,7 +55,7 @@ A Coordena&ccedil;&atilde;o do MST denuncia que a &aacute;rea ainda n&atilde;o f
 No m&ecirc;s de agosto de 2017, quando o acampamento ainda estava nas proximidades da fazenda, jagun&ccedil;os a mando da propriet&aacute;ria chegaram a fazer disparos de armas de fogo em frente ao port&atilde;o principal da propriedade.&nbsp;</p>
 
 <p><br />
-Durante esse per&iacute;odo, as fam&iacute;lias ficavam todas as noites acordas, fazendo vig&iacute;lias de seus barracos, e durante o dia, viviam em constante desespero e afli&ccedil;&atilde;o, j&aacute; que os jagun&ccedil;os andavam livremente em frente ao acampamento, portando armas de fogo e intimidando os moradores.&nbsp;</p>
+Durante esse per&iacute;odo, as fam&iacute;lias ficavam todas as noites acordadas, fazendo vig&iacute;lias de seus barracos, e durante o dia, viviam em constante desespero e afli&ccedil;&atilde;o, j&aacute; que os jagun&ccedil;os andavam livremente em frente ao acampamento, portando armas de fogo e intimidando os moradores.&nbsp;</p>
 
 <p><br />
 Tamb&eacute;m no mesmo per&iacute;odo, as fam&iacute;lias Sem Terra denunciaram a omiss&atilde;o e repress&atilde;o da pol&iacute;cia&nbsp;local, que vinha&nbsp;apoiando aos jagun&ccedil;os&nbsp;e intimidando os moradores e militantes do movimento, chegando a entrar&nbsp;no acampamento para perguntar aos moradores sobre o MST.&nbsp;</p>
