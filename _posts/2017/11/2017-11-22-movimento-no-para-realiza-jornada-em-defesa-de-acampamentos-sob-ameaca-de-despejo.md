@@ -1,5 +1,5 @@
 ---
-date: "2017-11-21T21:12:50-03:00"
+date: "2017-11-21T22:12:50-02:00"
 tags:
   - tag: pará
   - tag: despejo
@@ -7,7 +7,7 @@ tags:
 title: Movimento no Pará realiza Jornada em defesa de acampamentos sob ameaça de despejo
 support_line: Os bloqueios de rodovia e mobilização continuam durante toda a semana em vigília contra despejos de mais de mil famílias.
 menu: lutas e mobilizações
-section: cover
+section: featured-news
 images_hd: //farm5.staticflickr.com/4562/24698494718_fa8c8e71fc_b.jpg
 layout: post
 files:
