@@ -5,7 +5,7 @@ tags:
   - tag: educação-do-campo
   - tag: agroecologia
 title: Escola do MST recebe prêmio em feira de ciência e tecnologia em Santa Catarina
-support_line: "O projeto 'uso das caldas em sistemas agroecológicos recebeu o 3º lugar na XII Feira de Ciência e Tecnologia do estado. "
+support_line: "O projeto \"uso das caldas em sistemas agroecológicos\" recebeu o 3º lugar na XII Feira de Ciência e Tecnologia do estado. "
 images_hd: //farm5.staticflickr.com/4528/37884751714_0086f9941c_b.jpg
 menu: "educação, cultura e comunicação"
 layout: post
@@ -52,7 +52,7 @@ Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
-<p>A Escola Vinte e Cinco de Maio&nbsp;recebeu o 3&ordm; lugar na XII Feira de Ci&ecirc;ncia e Tecnologia do Estado de Santa Catarina,&nbsp;no dia 17 de novembro. A escola est&aacute;&nbsp;&nbsp;localizada no Assentamento 25 de Maio, em Fraiburgo, e onde estudam jovens de assentamentos e acampamentos.</p>
+<p>A Escola Vinte e Cinco de Maio&nbsp;recebeu o 3&ordm; lugar na XII Feira de Ci&ecirc;ncia e Tecnologia do Estado de Santa Catarina,&nbsp;no dia 17 de novembro. A escola est&aacute;&nbsp;&nbsp;localizada no Assentamento Vit&oacute;ria da Conquista, em Fraiburgo, e onde estudam jovens de assentamentos e acampamentos.</p>
 
 <p><br />
 O evento, realizado no gin&aacute;sio do Instituto Estadual de Educa&ccedil;&atilde;o, reuniu cerca de 330 participantes, entre estudantes&nbsp;e educadores, que apresentaram 99 trabalhos para um p&uacute;blico aproximado de seis mil&nbsp;pessoas.</p>
