@@ -6,7 +6,7 @@ tags:
   - tag: acampamento
 title: Movimentos realizam grande ato contra despejos de mil famílias no Pará
 menu: lutas e mobilizações
-section: cover
+section: featured-news
 support_line: "Jornada iniciada há dois dias com bloqueios e mobilizações, chega nesta quinta a Marabá para vigília."
 images_hd: //farm5.staticflickr.com/4525/38601563621_d3f255b037_b.jpg
 layout: post
