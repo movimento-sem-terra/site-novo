@@ -27,8 +27,6 @@ files:
 created_date: "2017-11-25T16:01:01-02:00"
 published: true
 releated_posts:
-  - _posts/2017/09/2017-09-18-mst-faz-balanco-dos-seus-27-anos-no-rio-grande-do-norte.md
-  - _posts/2017/09/2017-09-18-rio-grande-do-norte-cultura-popular-e-resistencia-sem-terra.md
   - _posts/2017/11/2017-11-19-feira-estadual-reune-diversidade-da-reforma-agraria-no-ms.md
   - _posts/2017/11/2017-11-21-o-debate-sobre-a-alimentacao-saudavel-se-constitui-em-uma-ferramenta-de-luta-para-nos.md
   - _posts/2017/11/2017-11-24-feira-da-reforma-agraria-ocupa-o-centro-do-campo-grande-com-alimentos-saudaveis.md
