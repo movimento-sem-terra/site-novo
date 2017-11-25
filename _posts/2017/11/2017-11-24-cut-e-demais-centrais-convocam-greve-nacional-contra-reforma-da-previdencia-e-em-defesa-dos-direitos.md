@@ -4,7 +4,7 @@ tags:
   - tag: lutas-e-mobilizações
   - tag: cut
   - tag: reforma-da-previdência
-title: CUT e demais centrais convocam greve nacional contra reforma da Previdência e em defesa dos direitos
+title: "CUT e demais centrais convocam greve nacional contra reforma da Previdência "
 support_line: "Brasil vai parar no dia 5 de dezembro e derrotar a reforma golpista\n\n"
 menu: lutas e mobilizações
 images_hd: //farm5.staticflickr.com/4545/37735569915_174afd3873_b.jpg
