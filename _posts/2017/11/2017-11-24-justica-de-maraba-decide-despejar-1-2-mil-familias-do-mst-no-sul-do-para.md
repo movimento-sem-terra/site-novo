@@ -8,7 +8,7 @@ title: "Justiça de Marabá decide despejar 1,2 mil famílias do MST no Sul do P
 support_line: Movimento ocupa área desde 2010; ação de despejo será realizada na próxima segunda-feira (27) e famílias prometem resistir.
 images_hd: //farm5.staticflickr.com/4549/37730518415_45eb531f1c_b.jpg
 menu: direitos humanos
-section: cover
+section: featured-news
 layout: post
 files:
   - link: //farm5.staticflickr.com/4549/37730518415_45eb531f1c_b.jpg
