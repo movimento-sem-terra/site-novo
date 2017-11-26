@@ -29,6 +29,8 @@ published: true
 releated_posts:
   - _posts/2017/04/2017-04-04-radio-camponesa-fm-comemora-06-anos-de-ocupacao-do-latifundio-do-ar.md
   - _posts/2017/06/2017-06-01-mst-conquista-vitoria-historica-na-luta-pela-reforma-agraria-no-ceara.md
+  - _posts/2017/09/2017-09-29-encontro-de-comunicacao-popular-do-nordeste-discute-monopolio-da-midia-no-brasil.md
+  - _posts/2017/10/2017-10-10-sem-terra-comemoram-imissao-de-posse-no-sertao-sergipano.md
 
 ---
 <p>&nbsp;</p>
@@ -38,6 +40,8 @@ releated_posts:
 <figcaption></figcaption>
 </figure>
 </div>
+
+<p>&nbsp;</p>
 
 <p><em>Da P&aacute;gina do MST</em></p>
 
