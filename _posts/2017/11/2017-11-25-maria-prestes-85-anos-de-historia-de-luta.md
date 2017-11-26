@@ -71,7 +71,7 @@ Hoje, Maria percorre o interior do Brasil levando um pouco do legado deixado pel
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Foto David Robins.jpg" height="466" src="//farm5.staticflickr.com/4572/37923739134_2741e162a3_b.jpg" width="700" />
-<figcaption>Foto Davis Robins</figcaption>
+<figcaption>Foto David Robins</figcaption>
 </figure>
 </div>
 
@@ -112,6 +112,6 @@ A cerveja Maria Prestes &eacute; um dos mais de 250 produtos que ser&atilde;o co
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Foto David Robin.jpg" height="466" src="//farm5.staticflickr.com/4579/38608900702_ae0847db3d_b.jpg" width="700" />
-<figcaption>Foto David Robin</figcaption>
+<figcaption>Foto David Robins</figcaption>
 </figure>
 </div>
