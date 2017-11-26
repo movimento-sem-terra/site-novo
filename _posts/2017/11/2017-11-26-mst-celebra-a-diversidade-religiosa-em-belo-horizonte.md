@@ -59,7 +59,7 @@ Fotos: David Robins</em></p>
 O segundo dia do Circuito Mineiro de Arte e Cultura da Reforma Agr&aacute;ria &ndash; edi&ccedil;&atilde;o regional metropolitana &ndash; foi de celebra&ccedil;&atilde;o da diversidade religiosa, t&atilde;o presente nos acampamentos e assentamentos do MST espalhados pelo Brasil. O circuito &eacute; realizado paralelo &agrave; inaugura&ccedil;&atilde;o do Armaz&eacute;m do Campo de Belo Horizonte.</p>
 
 <p><br />
-Na manh&atilde; deste domingo (26), foi realizada uma celebra&ccedil;&atilde;o ecum&ecirc;nica, com a participa&ccedil;&atilde;o do frei cat&oacute;lico Gilvander Moreira, a pastora evang&eacute;lica S&ocirc;nia e a m&atilde;e de santo Cota Mafugeme.</p>
+Na manh&atilde; deste domingo (26), foi realizada uma celebra&ccedil;&atilde;o ecum&ecirc;nica, com a participa&ccedil;&atilde;o do frei cat&oacute;lico Gilvander Moreira, a pastora evang&eacute;lica S&ocirc;nia e a M&atilde;e de Santo Cota Mafugeme.</p>
 
 <p><br />
 &ldquo;Quando a gente est&aacute; nessa caminhada, nada mais pertinente que voc&ecirc; realmente se junte com os desiguais, com o diferente, para l&aacute; na frente sermos todos iguais&rdquo;, defendeu Mafugeme.</p>
@@ -81,9 +81,7 @@ A m&atilde;e de santo destacou ainda o car&aacute;ter racista da intoler&acirc;n
 Segundo a pastora S&ocirc;nia, &eacute; preciso superar a intoler&acirc;ncia usando o pr&oacute;prio evangelho como forma de combate ao &oacute;dio, &agrave; discrimina&ccedil;&atilde;o e o desrespeito. &ldquo;N&oacute;s estamos trocando ent&atilde;o o nome toler&acirc;ncia religiosa para respeito entre as pessoas, e envolve diversas quest&otilde;es que temos que tratar e cuidar. E a mensagem de Cristo &eacute; exatamente isso, &eacute; vivenciar o amor, a toler&acirc;ncia, o respeito&rdquo;, afirmou.</p>
 
 <p><br />
-O Circuito Mineiro de Arte e Cultura da Reforma Agr&aacute;ria &ndash; edi&ccedil;&atilde;o regional metropolitana &ndash; ocorre neste s&aacute;bado e domingo (25 e 26), em frente ao rec&eacute;m inaugurado Armaz&eacute;m do Campo, localizado na Avenida Augusto de Lima n&ordm; 2136, Barro Preto. A partir da segunda-feira (27), o espa&ccedil;o estar&aacute; aberto ao p&uacute;blico de segunda a sexta, das 8h &agrave;s 22h, e nos s&aacute;bados, das 8h &agrave;s 15h.</p>
-
-<p><br />
+O Circuito Mineiro de Arte e Cultura da Reforma Agr&aacute;ria &ndash; edi&ccedil;&atilde;o regional metropolitana &ndash; ocorre neste s&aacute;bado e domingo (25 e 26), em frente ao rec&eacute;m inaugurado Armaz&eacute;m do Campo, localizado na Avenida Augusto de Lima n&ordm; 2136, Barro Preto. A partir da segunda-feira (27), o espa&ccedil;o estar&aacute; aberto ao p&uacute;blico de segunda a sexta, das 8h &agrave;s 22h, e nos s&aacute;bados, das 8h &agrave;s 15h.<br />
 &nbsp;</p>
 
 <div style="text-align:center">
