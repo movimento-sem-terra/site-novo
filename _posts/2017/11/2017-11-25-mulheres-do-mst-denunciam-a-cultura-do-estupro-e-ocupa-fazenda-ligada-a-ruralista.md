@@ -8,7 +8,7 @@ title: Mulheres do MST denunciam a cultura do estupro e ocupa fazenda ligada a r
 support_line: "A ocupação de denuncia foi realizada em uma fazenda no município de Avaré (SP). A área é ligada ao ex-médico Roger Abdelmassih, condenado a 181 anos por estupro de aproximadamente 40 mulheres."
 menu: lutas e mobilizações
 images_hd: //farm5.staticflickr.com/4541/38638856401_0460a81c17_b.jpg
-section: cover
+section: featured-news
 layout: post
 files:
   - link: //farm5.staticflickr.com/4547/38638856421_d4f38a1e13_b.jpg
