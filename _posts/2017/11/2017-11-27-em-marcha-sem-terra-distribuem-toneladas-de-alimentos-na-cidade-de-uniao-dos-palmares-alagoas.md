@@ -5,19 +5,19 @@ tags:
   - tag: acampamento
   - tag: lutas-e-mobilizações
   - tag: reforma-agrária
-title: "Em marcha, Sem Terra distribuem toneladas de alimentos na cidade de União dos Palmares, Alagoas"
-images_hd: //farm5.staticflickr.com/4577/38622294416_fb57eee77f_b.jpg
+title: "Em marcha, Sem Terra distribuem toneladas de alimentos em União dos Palmares, Alagoas"
+images_hd: //farm5.staticflickr.com/4564/37791295315_ff94574425_b.jpg
 support_line: "Os Sem Terra denunciam a ameaça de reabertura da Usina Laginha, parte da massa falida do Grupo João Lyra, que poderia ser destinada à Reforma Agrária."
 menu: lutas e mobilizações
 layout: post
 files:
-  - link: //farm5.staticflickr.com/4577/38622294416_fb57eee77f_b.jpg
-    original: //farm5.staticflickr.com/4577/38622294416_11f0b0e853_o.jpg
-    thumbnail: //farm5.staticflickr.com/4577/38622294416_fb57eee77f_t.jpg
-    medium: //farm5.staticflickr.com/4577/38622294416_fb57eee77f_z.jpg
-    small: //farm5.staticflickr.com/4577/38622294416_fb57eee77f_n.jpg
-    title: 35901080925_40b777696d_b.jpg
-    $$hashKey: 04K
+  - link: //farm5.staticflickr.com/4564/37791295315_ff94574425_b.jpg
+    original: //farm5.staticflickr.com/4564/37791295315_1e5c7fc525_o.jpg
+    thumbnail: //farm5.staticflickr.com/4564/37791295315_ff94574425_t.jpg
+    medium: //farm5.staticflickr.com/4564/37791295315_ff94574425_z.jpg
+    small: //farm5.staticflickr.com/4564/37791295315_ff94574425_n.jpg
+    title: WhatsApp Image 2017-11-27 at 12.07.31.jpeg
+    $$hashKey: 0AS
 created_date: "2017-11-27T11:46:12-02:00"
 published: true
 releated_posts:
@@ -26,7 +26,7 @@ releated_posts:
   - _posts/2017/10/2017-10-11-por-reivindicacoes-mst-ocupa-prefeitura-de-atalaia-em-alagoas.md
 
 ---
-<p>&nbsp;</p>
+<p><img alt="WhatsApp Image 2017-11-27 at 12.07.31.jpeg" height="525" src="//farm5.staticflickr.com/4564/37791295315_ff94574425_b.jpg" width="700" /></p>
 
 <p>&nbsp;</p>
 
