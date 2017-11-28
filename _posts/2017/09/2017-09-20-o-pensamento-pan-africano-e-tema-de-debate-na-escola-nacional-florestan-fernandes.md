@@ -72,7 +72,7 @@ Para o professor Muryatan S. Barbosa, da Universidade Federal do ABC (UFABC), co
 <p><br />
 &ldquo;Como tradi&ccedil;&atilde;o de pensamento o pan-africanismo &eacute; importante tanto teoricamente, quanto para a supera&ccedil;&atilde;o do eurocentrismo abstrato, mas pol&iacute;tico tamb&eacute;m no Brasil. A esquerda brasileira ainda &eacute; muito euroc&ecirc;ntrica. O pan-africanismo tem muito a contribuir para que consigamos prever os nossos problemas e solu&ccedil;&otilde;es de outras formas, com novos olhos. A ENFF deu um primeiro passo e espero que v&aacute; dar muitos frutos pela frente nesse campo de pesquisa e pol&iacute;tico&rdquo;, argumentou.&nbsp;</p>
 
-<figure class="image" style="float:left"><img alt="IMG-2716.JPG" height="338" src="//farm5.staticflickr.com/4406/37353160805_85d1494959_b.jpg" width="450" />
+<figure class="image" style="float:left"><img alt="IMG-2716.JPG" height="300" src="//farm5.staticflickr.com/4406/37353160805_85d1494959_b.jpg" width="400" />
 <figcaption><em>Para o professor Muryatan S. Barbosa, construir esse<br />
 processo de&nbsp;estudo&nbsp;sobre o Pan-africanismo &eacute; fundamental<br />
 no Brasil.</em></figcaption>
