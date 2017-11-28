@@ -100,6 +100,10 @@ O Armaz&eacute;m do Campo &eacute; uma proposta do MST para estabelecer pontos p
 <p><br />
 <strong>A gente n&atilde;o quer s&oacute; comida</strong></p>
 
+<p>&nbsp;</p>
+
+<p><img alt="foto David Robins (3).jpg" height="400" src="//farm5.staticflickr.com/4555/24832897928_7b1ab82087_b.jpg" width="600" /></p>
+
 <p><br />
 A inaugura&ccedil;&atilde;o do Armaz&eacute;m do campo em BH ocorreu paralelamente &agrave; realiza&ccedil;&atilde;o do Circuito Mineiro de Arte e Cultura da Reforma Agr&aacute;ria - edi&ccedil;&atilde;o regional metropolitana -, que ocorre em todo o estado de Minas Gerais desde o m&ecirc;s de setembro.</p>
 
@@ -109,10 +113,12 @@ A inaugura&ccedil;&atilde;o do Armaz&eacute;m do campo em BH ocorreu paralelamen
 <p><br />
 &ldquo;Tudo isso que trazemos para Belo Horizonte, seja o Armaz&eacute;m do Campo ou esses circuitos culturais, s&oacute; foi poss&iacute;vel porque houve ocupa&ccedil;&atilde;o de terra, houve luta pelo direito desses trabalhadores e trabalhadoras de poderem produzir. E muito mais do que produzir alimentos saud&aacute;veis, agroecol&oacute;gicos, &eacute; produzir tamb&eacute;m cultura&rdquo;, afirmou.</p>
 
+<figure class="image" style="float:left"><img alt="Iami Rane, integrante do grupo Xicas da Silva - Foto Geanini Hackbardt .jpg" height="525" src="//farm5.staticflickr.com/4575/38705594421_86ff49a98f_b.jpg" width="350" />
+<figcaption></figcaption>
+</figure>
+
 <p><br />
 A programa&ccedil;&atilde;o do Circuito contou ainda com uma feira e a tradicional Culin&aacute;ria da Terra. J&aacute; as tendas receberam importantes debates sobre os temas da viol&ecirc;ncia contra a mulher, a quest&atilde;o racional, a toler&acirc;ncia religiosa, al&eacute;m de animados shows de parceiros do MST, como a Poesia das Mana, Di Souza, o grupo Xicas da Silva, cantor mineiro Pereira da Viola, entre outros.</p>
-
-<p><img alt="Iami Rane, integrante do grupo Xicas da Silva - Foto Geanini Hackbardt .jpg" src="//farm5.staticflickr.com/4575/38705594421_86ff49a98f_b.jpg" /></p>
 
 <p><br />
 &ldquo;J&aacute; temos uma parceria com o MST h&aacute; algum tempo. Estivemos presentes em v&aacute;rios eventos organizados pelos Sem Terra. N&atilde;o tem como ser um artista sem assumir uma postura pol&iacute;tica. N&oacute;s sabemos de que lado estamos. Ent&atilde;o para n&oacute;s &eacute; muito participar desse circuito aqui em Belo Horizonte&rdquo;, disse emocionada a integrante do grupo Xicas da Silva, Iami Rane.</p>
