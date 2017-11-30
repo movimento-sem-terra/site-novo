@@ -32,9 +32,14 @@ releated_posts:
   - _posts/2017/11/2017-11-07-missao-ecumenica-chega-a-maraba-em-apoio-aos-camponeses-e-para-denunciar-violencia-no-campo.md
   - _posts/2017/10/2017-10-09-mst-leva-producao-saudavel-para-paraiba.md
   - _posts/2017/08/2017-08-16-mst-inaugura-espaco-de-exposicao-e-comercializacao-de-produtos-da-reforma-agraria-no-rio-de-janeiro.md
+section: cover
 
 ---
-<p><img alt="WhatsApp Image 2017-11-30 at 12.07.17.jpeg" height="700" src="//farm5.staticflickr.com/4540/38027820894_06dd8d0d2a_b.jpg" width="700" /></p>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2017-11-30 at 12.07.17.jpeg" height="600" src="//farm5.staticflickr.com/4540/38027820894_06dd8d0d2a_b.jpg" width="600" />
+<figcaption></figcaption>
+</figure>
+</div>
 
 <p>&nbsp;</p>
 
