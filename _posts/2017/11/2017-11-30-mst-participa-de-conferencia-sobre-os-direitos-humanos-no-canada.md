@@ -184,3 +184,7 @@ Coletivo Brasil-Montreal<br />
 GRAIN<br />
 Rede de Observadores da Consulta Pr&eacute;via na Am&eacute;rica Latina (Rede Observa)<br />
 Funda&ccedil;&atilde;o para o Devido Processo (DPLF)</p>
+
+<p>&nbsp;</p>
+
+<p>Para mais informa&ccedil;&otilde;es e imagens do evento, clique <a href="https://www.facebook.com/events/284664102036995/">aqui</a>.&nbsp;</p>
