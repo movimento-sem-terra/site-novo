@@ -4,7 +4,7 @@ tags:
   - tag: escola-do-campo
   - tag: lutas-e-mobilizações
   - tag: educação
-title: "MST lança pedra fundamental de Escola do Campo em Ribeirão Preto "
+title: "MST lança pneu fundamental de Escola do Campo em Ribeirão Preto "
 images_hd: //farm5.staticflickr.com/4519/37878137415_0c4c8f5e40_b.jpg
 support_line: A Escola do Campo Antonio Gramsci e Lev Semyonovich Vygotsk atenderá as demandas educacionais e formativas dos Sem Terrinha da região
 menu: lutas e mobilizações
