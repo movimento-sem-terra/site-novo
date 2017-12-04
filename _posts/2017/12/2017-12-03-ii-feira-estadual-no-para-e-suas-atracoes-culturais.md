@@ -1,5 +1,5 @@
 ---
-date: "2017-12-03T16:53:44-03:00"
+date: "2017-12-03T17:53:44-02:00"
 tags:
   - tag: pará
   - tag: feira-da-reforma-agrária
@@ -8,7 +8,7 @@ support_line: Três dias com cultura de resistência na Amazônia.
 title: II Feira Estadual no Pará e suas atrações culturais
 menu: reforma agrária
 images_hd: //farm5.staticflickr.com/4546/37927068215_72fb2fa884_b.jpg
-section: cover
+section: featured-news
 layout: post
 files:
   - link: //farm5.staticflickr.com/4546/37927068215_72fb2fa884_b.jpg
