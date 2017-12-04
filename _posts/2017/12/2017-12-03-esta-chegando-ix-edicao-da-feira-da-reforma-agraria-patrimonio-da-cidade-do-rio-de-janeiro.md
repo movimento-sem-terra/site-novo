@@ -1,13 +1,13 @@
 ---
-date: "2017-12-03T17:37:11-03:00"
+date: "2017-12-03T18:37:11-02:00"
 tags:
   - tag: rio-de-janeiro
   - tag: feira-da-reforma-agrária
   - tag: nossa-produção
-title: "Está chegando IX edição da Feira da Reforma Agrária, patrimônio da cidade do Rio de Janeiro"
+title: "Chegou a IX edição da Feira da Reforma Agrária, patrimônio da cidade do Rio de Janeiro"
 support_line: A estimativa é que cerca de 120 agricultores estejam presentes na feira divulgando suas produções in natura e industrializadas.
 menu: reforma agrária
-section: featured-news
+section: cover
 images_hd: //farm5.staticflickr.com/4546/38813705561_4d1209f9d6_b.jpg
 layout: post
 files:
