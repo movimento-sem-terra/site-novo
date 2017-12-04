@@ -2,6 +2,7 @@
 date: "2017-12-04T11:41:34-02:00"
 tags:
   - tag: bionatur
+  - tag: agroecologia
 title: BioNatur celebra 20 anos de resistência na produção de sementes agroecológicas
 support_line: Rede de produtores do MST é referência internacional na cadeia produtiva de sementes
 menu: agricultura camponesa
@@ -38,7 +39,13 @@ files:
     $$hashKey: 0C5
 created_date: "2017-12-04T12:03:09-02:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2017/12/2017-12-01-20-anos-da-bionatur-somos-referencia-porque-permanecermos-com-a-mesma-credibilidade-e-seriedade-no-trabalho-de-producao-de-sementes.md
+  - _posts/2017/10/2017-10-26-regiao-sul-realiza-ii-seminario-de-agroecologia-das-escolas-do-campo.md
+  - _posts/2017/10/2017-10-27-1a-feira-agroecologica-de-sao-leopoldo-acontece-no-proximo-sabado-28.md
+  - _posts/2017/11/2017-11-03-agricultura-familiar-e-responsavel-por-70-dos-alimentos-consumidos-no-brasil.md
+  - _posts/2017/11/2017-11-07-ceagro-or-20-anos-de-lutas-e-conquistas.md
+  - _posts/2017/11/2017-11-07-area-externa-da-assembleia-legislativa-abrigara-1a-feira-organica-no-centro-de-porto-alegre.md
 
 ---
 <p><img alt="Para a BioNatur, produzir semenets agroecológicas é sinônimo de resistência. Foto Catiana de Medeiros .jpg" height="443" src="//farm5.staticflickr.com/4517/24957640118_31981a7973_b.jpg" width="700" /></p>
