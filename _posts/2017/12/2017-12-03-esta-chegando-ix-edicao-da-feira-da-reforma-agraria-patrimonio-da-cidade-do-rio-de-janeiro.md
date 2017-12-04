@@ -7,7 +7,7 @@ tags:
 title: "Chegou a IX edição da Feira da Reforma Agrária, patrimônio da cidade do Rio de Janeiro"
 support_line: A estimativa é que cerca de 120 agricultores estejam presentes na feira divulgando suas produções in natura e industrializadas.
 menu: reforma agrária
-section: cover
+section: featured-news
 images_hd: //farm5.staticflickr.com/4546/38813705561_4d1209f9d6_b.jpg
 layout: post
 files:
