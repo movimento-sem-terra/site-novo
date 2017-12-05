@@ -5,7 +5,7 @@ tags:
   - tag: rio-de-janeiro
   - tag: agroecologia
 support_line: A estimativa é que cerca de 120 agricultores estejam presentes na feira divulgando suas produções in natura e industrializadas.
-title: Começou hoje no Rio de janeiro a IX edição da Feira da Reforma Agrária
+title: Rio de janeiro recebe a IX edição da Feira da Reforma Agrária
 menu: reforma agrária
 images_hd: //farm5.staticflickr.com/4545/37948945275_e41a86d0cb_b.jpg
 layout: post
@@ -32,7 +32,7 @@ releated_posts:
   - _posts/2017/08/2017-08-07-em-teixeira-de-freitas-mst-participa-da-feira-de-produtos-organicos.md
   - _posts/2017/06/2017-06-07-em-marica-familias-visitam-unidade-agroecologica.md
   - _posts/2017/07/2017-07-24-delmiro-gouveia-recebe-primeira-feira-da-reforma-agraria.md
-section: cover
+section: null
 
 ---
 <div dir="ltr">
