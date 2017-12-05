@@ -71,3 +71,7 @@ Depois do Espirito Santo, a caravana segue para o Rio de Janeiro, onde o ex-pres
 
 <p><br />
 O ato em Vit&oacute;ria tamb&eacute;m contou com a presen&ccedil;a de v&aacute;rias artistas locais, entre eles a Banda de Congo Do Ros&aacute;rio, de Vila&nbsp;do Riacho em Aracruz, com o Mestre Ant&ocirc;nio; Bande de Congo Tambores Tupiniquim, de&nbsp;Caeira Velha em Aracruz, com o Mestre Olindo e um grupo ind&iacute;gena da aldeia Boa Esperan&ccedil;a&nbsp;em Aracruz, com a apresenta&ccedil;&atilde;o &ldquo;cantiga da resist&ecirc;ncia da luta&rdquo;, do grupo Koendju Retxaka&nbsp;(em portugu&ecirc;s significa brilho dourado do amanhecer).&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><em>*Editado por Maura Silva&nbsp;</em></p>
