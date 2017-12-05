@@ -32,6 +32,7 @@ releated_posts:
   - _posts/2017/11/2017-11-17-existe-um-zumbi-em-cada-um-de-nos.md
   - _posts/2017/11/2017-11-27-terra-raca-e-classe-a-classe-trabalhadora-e-negra.md
   - _posts/2017/11/2017-11-20-mae-jaciara-novembro-negro-e-a-luta-do-mst.md
+label: articles
 
 ---
 <p><img alt="33510432445_e15f041e28_k.jpg" height="467" src="//farm5.staticflickr.com/4534/38744943311_363af9a3c9_b.jpg" width="700" /></p>
