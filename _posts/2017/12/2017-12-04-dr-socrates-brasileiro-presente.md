@@ -1,5 +1,5 @@
 ---
-date: "2017-12-04T20:01:46-03:00"
+date: "2017-12-04T21:01:46-02:00"
 tags:
   - tag: homenagem
   - tag: lutadores-e-lutadoras-do-povo
@@ -8,7 +8,7 @@ title: "Dr Sócrates Brasileiro: Presente!"
 support_line: Nesta segunda-feira (4) faz seis anos da morte do Doutor. O Campo Dr Sócrates Brasileiro será inaugurado em Guararema no próximo dia 23.
 images_hd: //farm5.staticflickr.com/4575/38809347592_2c4cb3cb2e_b.jpg
 menu: projeto popular
-section: featured-news
+section: cover
 layout: post
 files:
   - link: //farm5.staticflickr.com/4575/38809347592_2c4cb3cb2e_b.jpg
@@ -37,8 +37,6 @@ releated_posts:
   - _posts/2017/10/2017-10-02-mst-lamenta-o-falecimento-de-istvan-meszaros.md
 
 ---
-<p>&nbsp;</p>
-
 <p>&nbsp;</p>
 
 <p><em>Da P&aacute;gina do MST</em></p>
