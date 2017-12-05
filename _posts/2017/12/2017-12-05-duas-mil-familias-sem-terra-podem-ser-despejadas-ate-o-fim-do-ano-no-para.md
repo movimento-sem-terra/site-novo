@@ -8,7 +8,7 @@ tags:
 title: Duas mil famílias Sem Terra podem ser despejadas até o fim do ano no Pará
 support_line: "Especial do Brasil de Fato: o aumento dos conflitos agrários e dos assassinatos de camponeses no Sul e no Sudeste do Pará. "
 menu: direitos humanos
-images_hd: //farm5.staticflickr.com/4552/23990624287_abf42438b0_b.jpg
+images_hd: //farm5.staticflickr.com/4562/27079525069_0af18a45fa_b.jpg
 layout: post
 files:
   - link: //farm5.staticflickr.com/4552/23990624287_abf42438b0_b.jpg
