@@ -46,6 +46,7 @@ releated_posts:
   - _posts/2017/11/2017-11-03-agricultura-familiar-e-responsavel-por-70-dos-alimentos-consumidos-no-brasil.md
   - _posts/2017/11/2017-11-07-ceagro-or-20-anos-de-lutas-e-conquistas.md
   - _posts/2017/11/2017-11-07-area-externa-da-assembleia-legislativa-abrigara-1a-feira-organica-no-centro-de-porto-alegre.md
+section: cover
 
 ---
 <p><img alt="Para a BioNatur, produzir semenets agroecológicas é sinônimo de resistência. Foto Catiana de Medeiros .jpg" height="443" src="//farm5.staticflickr.com/4517/24957640118_31981a7973_b.jpg" width="700" /></p>
