@@ -46,7 +46,8 @@ releated_posts:
 ---
 <p>&nbsp;</p>
 
-<p><em>Por Coletivo de Comunica&ccedil;&atilde;o MST/SP</em></p>
+<p><em>Por Coletivo de Comunica&ccedil;&atilde;o MST/SP<br />
+Da P&aacute;gina do MST</em></p>
 
 <p><br />
 A ocupa&ccedil;&atilde;o expandida Elizabeth Teixeira, localizada em Limeira interior de&nbsp;S&atilde;o Paulo, sofreu um corte arbitr&aacute;rio no abastecimento de &aacute;gua realizado pela prefeitura municipal. No dia 30 de novembro, por volta das 18h, representantes da BRK Ambiental (empresa terceirizada que fornece os servi&ccedil;os de &aacute;gua e esgoto para o munic&iacute;pio) chegaram ao acampamento e bloquearam o ponto de distribui&ccedil;&atilde;o de &aacute;gua utilizado pelas fam&iacute;lias no Horto Tatu. Com essa atitude foram atingidas, n&atilde;o s&oacute; as fam&iacute;lias da &aacute;rea expandida, mas tamb&eacute;m os 64 posseiros que vivem na regi&atilde;o h&aacute; mais de 20 anos e dependem desse canal de fornecimento h&iacute;drico.</p>
@@ -75,3 +76,7 @@ O desbloqueio do hidr&ocirc;metro obstru&iacute;do e a restaura&ccedil;&atilde;o
 
 <p><br />
 Na tarde do dia 20 de outubro, as fam&iacute;lias expandiram o acampamento para mais uma parte do Horto. No dia 25, frente &agrave; forte articula&ccedil;&atilde;o jur&iacute;dica entre o MST e aliados, o juiz estadual da Vara da Fazenda P&uacute;blica de Limeira remeteu o processo da &aacute;rea &agrave; Justi&ccedil;a Federal. Agora, o escrit&oacute;rio estadual da Secretaria de Patrim&ocirc;nio da Uni&atilde;o (SPU) e o Incra (SP) est&atilde;o em di&aacute;logo e trabalho conjunto para que a posse de parte da &aacute;rea do Horto Florestal seja transferida ao Instituto afim de regularizar a situa&ccedil;&atilde;o das fam&iacute;lias do Acampamento Elizabeth Teixeira.</p>
+
+<p>&nbsp;</p>
+
+<p><em>*Editado por Maura Silva&nbsp;</em></p>
