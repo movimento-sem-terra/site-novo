@@ -5,7 +5,7 @@ tags:
   - tag: lutadores-e-lutadoras-do-povo
   - tag: enff
 title: "Dr Sócrates Brasileiro: Presente!"
-support_line: Nesta segunda-feira (4) fazem seis anos da morte do Doutor. O Campo Dr Sócrates Brasileiro será inaugurado em Guararema no próximo dia 23.
+support_line: Nesta segunda-feira (4) faz seis anos da morte do Doutor. O Campo Dr Sócrates Brasileiro será inaugurado em Guararema no próximo dia 23.
 images_hd: //farm5.staticflickr.com/4575/38809347592_2c4cb3cb2e_b.jpg
 menu: projeto popular
 section: featured-news
@@ -45,7 +45,7 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p>Nesta segunda-feira (4), fazem seis anos do falecimento de S&oacute;crates, o Doutor, um grande brasileiro. S&oacute;crates Brasileiro Sampaio de Souza Vieira de Oliveira morreu aos 57 anos, deixando um legado de conquistas para o futebol e de resist&ecirc;ncia para a luta democr&aacute;tica.&nbsp;</p>
+<p>Nesta segunda-feira (4), faz&nbsp;seis anos do falecimento de S&oacute;crates, o Doutor, um grande brasileiro. S&oacute;crates Brasileiro Sampaio de Souza Vieira de Oliveira morreu aos 57 anos, deixando um legado de conquistas para o futebol e de resist&ecirc;ncia para a luta democr&aacute;tica.&nbsp;</p>
 
 <p><br />
 Jogador de futebol, m&eacute;dico, politizado e carism&aacute;tico, S&oacute;crates &eacute; lembrado por seu engajamento na constru&ccedil;&atilde;o da Democracia Corinthiana e na luta pelas Diretas J&aacute;. O MST considera fundamental manter viva a mem&oacute;ria de S&oacute;crates, os valores por ele abra&ccedil;ados e semeados.</p>
