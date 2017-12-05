@@ -5,7 +5,7 @@ tags:
   - tag: espírito-santo
   - tag: rio-de-janeiro
 section: featured-news
-title: Acompanhe a caravana Lula pelo Espírito Santo e pelo Rio de Janeiro
+title: Acompanhe cobertura da nova etapa caravana Lula pelo Brasil
 support_line: Você pode conferir a cobertura multimídia completa no Minuto a Minuto do Brasil de Fato.
 menu: projeto popular
 images_hd: //farm5.staticflickr.com/4526/38806225272_031aa1aa6f_b.jpg
