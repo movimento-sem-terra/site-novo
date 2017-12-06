@@ -6,7 +6,7 @@ tags:
 menu: projeto popular
 title: A resistência negra brasileira também é mulher negra camponesa
 support_line: "Enfrentar uma luta que combina as relações sociais de raça, gênero e classe com a questão da terra, requer a conquista de espaços em diferentes dimensões da existência."
-section: featured-news
+section: null
 images_hd: //farm5.staticflickr.com/4534/38744943311_363af9a3c9_b.jpg
 layout: post
 files:
