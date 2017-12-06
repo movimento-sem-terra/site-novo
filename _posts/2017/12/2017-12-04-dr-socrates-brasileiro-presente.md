@@ -8,7 +8,7 @@ title: "Dr Sócrates Brasileiro: Presente!"
 support_line: Nesta segunda-feira (4) faz seis anos da morte do Doutor. O Campo Dr Sócrates Brasileiro será inaugurado em Guararema no próximo dia 23.
 images_hd: //farm5.staticflickr.com/4575/38809347592_2c4cb3cb2e_b.jpg
 menu: projeto popular
-section: cover
+section: featured-news
 layout: post
 files:
   - link: //farm5.staticflickr.com/4575/38809347592_2c4cb3cb2e_b.jpg
