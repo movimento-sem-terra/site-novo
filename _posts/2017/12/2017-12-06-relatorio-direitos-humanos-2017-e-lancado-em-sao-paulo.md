@@ -72,7 +72,7 @@ Para Daniela Stefano, uma das jornalistas respons&aacute;vel pela publica&ccedil
 <strong>Viol&ecirc;ncia no Campo&nbsp;</strong></p>
 
 <p><br />
-Os conflitos no campo brasileiro tamb&eacute;m &eacute; destaque no relat&oacute;rio de 2017. Levantamento da Comiss&atilde;o Pastoral da Terra (CPT) mostra que o cen&aacute;rio no meio rural j&aacute; era preocupante em 2016, quando 61 mortes foram contabilizadas. At&eacute; outubro, o n&uacute;mero em 2017 alcan&ccedil;ava 63 mortes.</p>
+O&nbsp;conflito&nbsp;no campo brasileiro tamb&eacute;m &eacute; destaque no relat&oacute;rio de 2017. Levantamento da Comiss&atilde;o Pastoral da Terra (CPT) mostra que o cen&aacute;rio no meio rural j&aacute; era preocupante em 2016, quando 61 mortes foram contabilizadas. At&eacute; outubro, o n&uacute;mero em 2017 alcan&ccedil;ava 63 mortes.</p>
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="A vereadora de SP pelo PT, Juliana Cardoso, homenageada [Foto - Leonardo Fernandes].jpg" height="467" src="//farm5.staticflickr.com/4576/37988129275_bcd0e3367c_b.jpg" width="700" />
