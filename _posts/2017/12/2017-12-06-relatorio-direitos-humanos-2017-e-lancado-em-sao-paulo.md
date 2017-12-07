@@ -1,5 +1,5 @@
 ---
-date: "2017-12-06T14:09:57-02:00"
+date: "2017-12-06T13:09:57-03:00"
 tags:
   - tag: direitos-humanos
   - tag: violência-no-campo
@@ -37,7 +37,7 @@ releated_posts:
   - _posts/2017/11/2017-11-07-missao-ecumenica-chega-a-maraba-em-apoio-aos-camponeses-e-para-denunciar-violencia-no-campo.md
   - _posts/2017/11/2017-11-03-em-nota-mst-condena-violencia-contra-manifestantes-no-mt.md
   - _posts/2017/11/2017-11-22-juri-popular-encerra-19-anos-de-impunidades-e-condena-assassinos-de-trabalhadora-rural-no-maranhao.md
-section: cover
+section: featured-news
 
 ---
 <div style="text-align:center">
