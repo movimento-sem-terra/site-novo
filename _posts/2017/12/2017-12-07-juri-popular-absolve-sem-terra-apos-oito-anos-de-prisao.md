@@ -4,7 +4,7 @@ tags:
   - tag: lutas-e-mobilizações
   - tag: reforma-agrária
   - tag: direitos-humanos
-title: "Júri popular absolve Sem Terra após oito anos de prisão "
+title: "Júri popular absolve Sem Terras após oito anos de prisão "
 support_line: "Decisão foi tomada pela 4ª Vara do Tribunal do Júri de Recife (PE) por falta de provas\n\n"
 menu: lutas e mobilizações
 images_hd: //farm5.staticflickr.com/4554/24029903597_07d7394873_b.jpg
