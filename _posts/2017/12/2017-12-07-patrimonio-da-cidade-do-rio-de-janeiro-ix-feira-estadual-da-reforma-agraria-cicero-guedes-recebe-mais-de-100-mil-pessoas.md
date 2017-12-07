@@ -1,12 +1,12 @@
 ---
-date: "2017-12-07T16:20:15-02:00"
+date: "2017-12-07T15:20:15-03:00"
 tags:
   - tag: feira-da-reforma-agrária
   - tag: rio-de-janeiro
   - tag: agroecologia
-title: "Patrimônio da Cidade do Rio de Janeiro, IX Feira Estadual da Reforma Agrária Cícero Guedes recebe mais de 100 mil pessoas\n\n"
+title: "IX Feira Estadual da Reforma Agrária Cícero Guedes recebe mais de 100 mil pessoas\n\n"
 images_hd: //farm5.staticflickr.com/4583/27121108889_5e8728ec80_b.jpg
-support_line: Ao todo foram 115 toneladas de alimentos e 105 feirantes vindos de assentamentos e acampamentos do estado do Rio de janeiro e também de Goiás
+support_line: "Patrimônio da Cidade do Rio de Janeiro, a Feira recebeu ao todo 115 toneladas de alimentos e 105 feirantes, de assentamentos e acampamentos do estado do Rio de Janeiro e também de Goiás."
 menu: agricultura camponesa
 layout: post
 files:
@@ -49,6 +49,7 @@ releated_posts:
   - _posts/2017/10/2017-10-27-1a-feira-agroecologica-de-sao-leopoldo-acontece-no-proximo-sabado-28.md
   - _posts/2017/11/2017-11-19-feira-estadual-reune-diversidade-da-reforma-agraria-no-ms.md
   - _posts/2017/11/2017-11-24-feira-da-reforma-agraria-ocupa-o-centro-do-campo-grande-com-alimentos-saudaveis.md
+section: cover
 
 ---
 <p>&nbsp;</p>
