@@ -43,7 +43,10 @@ Da P&aacute;gina do MST</em></p>
 <p>O MST comemora a absolvi&ccedil;&atilde;o dos Sem Terra Aluciano Ferreira dos Santos e Antonio Honorato da Silva no caso de S&atilde;o Joaquim do Monte, ocorrido no acampamento Jabuticaba em Pernambuco.</p>
 
 <p><br />
-A decis&atilde;o foi promulgada&nbsp; na tarde desta quarta-feira (6), na 4&deg; Vara do J&uacute;ri em Recife por falta de provas. Os trabalhadores estiveram presos durante oito anos, e estavam respondendo o processo em liberdade desde o m&ecirc;s de abril deste ano quando o Superior Tribunal de Justi&ccedil;a (STJ) tomou a decis&atilde;o de coloc&aacute;-los em liberdade por conta da demora no processo de julgamento. Durante o julgamento, o Tribunal do J&uacute;ri acatou a tese de defesa dos dois acusados, inocentando-os do caso por falta de provas.&nbsp;</p>
+A decis&atilde;o foi promulgada&nbsp; na tarde desta quarta-feira (6), na 4&deg; Vara do J&uacute;ri em Recife. Durante o julgamento, o Tribunal do J&uacute;ri acatou a tese de defesa dos dois acusados, inocentando-os do caso por falta de provas.&nbsp;</p>
+
+<p><br />
+Os trabalhadores estiveram presos durante oito anos, e estavam respondendo o processo em liberdade desde o m&ecirc;s de abril deste ano quando o Superior Tribunal de Justi&ccedil;a (STJ) tomou a decis&atilde;o de coloc&aacute;-los em liberdade por conta da demora no processo de julgamento.&nbsp;</p>
 
 <p><br />
 Os trabalhadores estavam sendo acusados desde 2009 por homic&iacute;dio ocorrido durante um conflito agr&aacute;rio relacionado a ocupa&ccedil;&atilde;o de terras no munic&iacute;pio de S&atilde;o Joaquim do Monte, Agreste de Pernambuco.&nbsp;</p>
