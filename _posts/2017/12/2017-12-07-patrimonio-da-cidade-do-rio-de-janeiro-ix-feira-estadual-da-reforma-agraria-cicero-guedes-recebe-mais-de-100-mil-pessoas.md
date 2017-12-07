@@ -61,7 +61,7 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p><em>Por Phillyp Mikell<br />
+<p><em>Por Pablo Vergara<br />
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
