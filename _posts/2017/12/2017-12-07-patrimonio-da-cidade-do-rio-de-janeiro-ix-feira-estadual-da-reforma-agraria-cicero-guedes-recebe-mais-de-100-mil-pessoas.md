@@ -65,7 +65,7 @@ releated_posts:
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Chegou ao fim nessa quarta-feira (6), a IX Feira Estadual da Reforma Agr&aacute;ria C&iacute;cero Guedes. O&nbsp;evento que foi coroado&nbsp;patrim&ocirc;nio&nbsp;da cidade do Rio de janeiro (Lei 5.999-2015), contou com a presen&ccedil;a de mais de 100 mil pessoas que passaram pela feira durante os tr&ecirc;s dias.</p>
+Chegou ao fim nessa quarta-feira (6), a IX Feira Estadual da Reforma Agr&aacute;ria C&iacute;cero Guedes. O&nbsp;evento que foi coroado&nbsp;patrim&ocirc;nio&nbsp;da cidade do Rio de janeiro (Lei 5.999-2015), contou com a presen&ccedil;a de mais de 100 mil pessoas que passaram pela feira durante tr&ecirc;s dias.</p>
 
 <p><br />
 Apesar da conjuntura imposta por&nbsp;um governo de retrocessos e&nbsp;dos recuos das pol&iacute;ticas de apoio &agrave; Reforma Agr&aacute;ria, a Feira reafirmou-se como&nbsp;instrumento de&nbsp;integra&ccedil;&atilde;o entre campo e cidade, pautando temas importantes como a soberania alimentar e a produ&ccedil;&atilde;o agroecol&oacute;gica realizada pela agricultura familiar e camponesa.</p>
