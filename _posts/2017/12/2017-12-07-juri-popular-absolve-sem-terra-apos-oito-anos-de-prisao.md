@@ -71,3 +71,9 @@ A decis&atilde;o do J&uacute;ri Popular evidencia a injusti&ccedil;a a qual os S
 O MST avalia a possibilidade de entrar com uma a&ccedil;&atilde;o indenizat&oacute;ria contra o Estado por danos morais e materiais, assim que o processo transitar em julgado, quando n&atilde;o couber mais recurso por parte do Minist&eacute;rio P&uacute;blico.</p>
 
 <p>&nbsp;</p>
+
+<p><em>*Editado por Maura Silva&nbsp;</em></p>
+
+<div>&nbsp;</div>
+
+<p>&nbsp;</p>
