@@ -107,6 +107,6 @@ A gastronomia se destacou na Culin&aacute;ria da Terra, com pratos que foram fei
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
+<p><em>*Editado por Maura Silva&nbsp;</em></p>
 
 <p>&nbsp;</p>
