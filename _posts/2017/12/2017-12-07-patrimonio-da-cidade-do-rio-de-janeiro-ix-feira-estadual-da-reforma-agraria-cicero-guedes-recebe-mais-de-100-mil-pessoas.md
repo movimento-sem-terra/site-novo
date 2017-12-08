@@ -1,10 +1,10 @@
 ---
-date: "2017-12-07T15:20:15-03:00"
+date: "2017-12-07T16:20:15-02:00"
 tags:
   - tag: feira-da-reforma-agrária
   - tag: rio-de-janeiro
   - tag: agroecologia
-title: "IX Feira Estadual da Reforma Agrária Cícero Guedes recebe mais de 100 mil pessoas\n\n"
+title: IX Feira Estadual da Reforma Agrária Cícero Guedes recebe mais de 100 mil pessoas
 images_hd: //farm5.staticflickr.com/4583/27121108889_5e8728ec80_b.jpg
 support_line: "Patrimônio da Cidade do Rio de Janeiro, a Feira recebeu ao todo 115 toneladas de alimentos e 105 feirantes, de assentamentos e acampamentos do estado do Rio de Janeiro e também de Goiás."
 menu: agricultura camponesa
@@ -75,7 +75,8 @@ Apesar da conjuntura imposta por&nbsp;um governo de retrocessos e&nbsp;dos recuo
 Ao todo foram&nbsp;115 toneladas de alimentos e&nbsp;105 feirantes vindos de&nbsp;assentamentos e acampamentos do estado do Rio de janeiro e tamb&eacute;m&nbsp;de Goi&aacute;s.&nbsp;&nbsp;</p>
 
 <p><br />
-Para Raoni, dirigente estadual do setor de produ&ccedil;&atilde;o do MST, &quot;a feira &eacute; uma grande ferramente de integra&ccedil;&atilde;o entre campo e cidade al&eacute;m de fomentar a articula&ccedil;&atilde;o entre movimento e organiza&ccedil;&otilde;es que se colocam a servi&ccedil;o da agricultura camponesa&nbsp;em contraposi&ccedil;&atilde;o ao agroneg&oacute;cio&quot;.</p>
+Para Raoni, dirigente estadual do setor de produ&ccedil;&atilde;o do MST, &quot;a feira &eacute; uma grande ferramente de integra&ccedil;&atilde;o entre campo e cidade al&eacute;m de fomentar a articula&ccedil;&atilde;o entre movimento e organiza&ccedil;&otilde;es que se colocam a servi&ccedil;o da agricultura camponesa&nbsp;em contraposi&ccedil;&atilde;o ao agroneg&oacute;cio&quot;.<br />
+&nbsp;</p>
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="IX Feira Estadual da Reforma Agraria_05-12-2017_Pablo Vergara-4 (1).JPG" height="467" src="//farm5.staticflickr.com/4557/38897472241_36d9b6750a_b.jpg" width="700" />
@@ -83,7 +84,8 @@ Para Raoni, dirigente estadual do setor de produ&ccedil;&atilde;o do MST, &quot;
 </figure>
 </div>
 
-<p><strong>Homenagens</strong></p>
+<p><br />
+<strong>Homenagens</strong></p>
 
 <p><br />
 A&nbsp;IX Feira Estadual da Reforma Agr&aacute;ria C&iacute;cero Guedes teve como ponto alto a entrega da medalha Tiradentes concedida pela Assembleia Legislativa do Rio de Janeiro (ALERJ) pelas m&atilde;os do deputado estadual Flavio Serafim.&nbsp;</p>
@@ -98,7 +100,8 @@ A Feira tamb&eacute;m foi destaque pelos&nbsp;espa&ccedil;os de forma&ccedil;&at
 A musicalidade tamb&eacute;m esteve presente com diversas express&otilde;es culturais se apresentando numa&nbsp;rica programa&ccedil;&atilde;o musical com g&ecirc;neros que foram desde o samba, funk, forr&oacute;, coco, passando pelo afox&eacute; e o maracatu.</p>
 
 <p><br />
-A gastronomia se destacou na Culin&aacute;ria da Terra, com pratos que foram feitos com alimentos vindos dos assentamentos e acampamentos e com a cerveja Subversiva, do coletivo de mulheres do MST.</p>
+A gastronomia se destacou na Culin&aacute;ria da Terra, com pratos que foram feitos com alimentos vindos dos assentamentos e acampamentos e com a cerveja Subversiva, do coletivo de mulheres do MST.<br />
+&nbsp;</p>
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="IX Feira Estadual Cicero Guedes Afroxé Filhos de Gandhi 3_Pablo Vergara.jpg" height="467" src="//farm5.staticflickr.com/4517/27121108899_3f256fbe67_b.jpg" width="700" />
@@ -106,8 +109,5 @@ A gastronomia se destacou na Culin&aacute;ria da Terra, com pratos que foram fei
 </figure>
 </div>
 
-<p>&nbsp;</p>
-
-<p><em>*Editado por Maura Silva&nbsp;</em></p>
-
-<p>&nbsp;</p>
+<p><br />
+<em>*Editado por Maura Silva&nbsp;</em></p>
