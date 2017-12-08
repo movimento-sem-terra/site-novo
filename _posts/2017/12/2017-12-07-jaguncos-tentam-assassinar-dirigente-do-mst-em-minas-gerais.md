@@ -1,5 +1,5 @@
 ---
-date: "2017-12-06T22:34:28-03:00"
+date: "2017-12-06T23:34:28-02:00"
 tags:
   - tag: minas-gerais
   - tag: violência-no-campo
@@ -7,7 +7,7 @@ tags:
 title: Jagunços tentam assassinar dirigente do MST em Minas Gerais
 support_line: "O crime não se efetivou porque durante a intimidação outro veículo passou pelo local e os pistoleiros fugiram de carro. "
 menu: direitos humanos
-section: cover
+section: featured-news
 images_hd: //farm5.staticflickr.com/4573/38166930564_727302b1db_b.jpg
 layout: post
 files:
@@ -30,14 +30,11 @@ releated_posts:
 ---
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
-
 <p><em>Por Geanini Hackbardt<br />
 Da P&aacute;gina do MST</em></p>
 
-<p>&nbsp;</p>
-
-<p>Na tarde desta quarta-feira (6), por volta das 16h30, dois homens armados cercaram o dirigente do MST, Silvio Netto, apontando armas contra sua cabe&ccedil;a. Silvinho, como &eacute; conhecido, voltava da &aacute;rea Quilombo Campo Grande (antiga Usina Aridn&oacute;polis), onde &eacute; assentado, quando os homens o obrigaram a parar o carro e realizaram as amea&ccedil;as.</p>
+<p><br />
+Na tarde desta quarta-feira (6), por volta das 16h30, dois homens armados cercaram o dirigente do MST, Silvio Netto, apontando armas contra sua cabe&ccedil;a. Silvinho, como &eacute; conhecido, voltava da &aacute;rea Quilombo Campo Grande (antiga Usina Aridn&oacute;polis), onde &eacute; assentado, quando os homens o obrigaram a parar o carro e realizaram as amea&ccedil;as.</p>
 
 <p><br />
 O crime n&atilde;o se efetivou&nbsp;porque durante a intimida&ccedil;&atilde;o outro ve&iacute;culo passou pelo local e os pistoleiros fugiram de carro. Eles ainda deram um prazo de dois dias para que Silvio deixasse a cidade, ou matariam sua esposa e filhos.</p>
@@ -51,8 +48,5 @@ O Movimento encaminhou o boletim de ocorr&ecirc;ncia e exige que o poder p&uacut
 <p><br />
 &Eacute; sintom&aacute;tico como as coisas acontecem ao mesmo tempo, de acordo com o MST. Enquanto os atuais reitores e os ex-reitores da UFMG s&atilde;o conduzidos coercitivamente, empregando a Pol&iacute;cia Federal para uma opera&ccedil;&atilde;o completamente arbitraria, no campo, a direita se manifesta tamb&eacute;m com os velhos jagun&ccedil;os, amea&ccedil;as e assassinatos de lideran&ccedil;as.</p>
 
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p><em>*Editado por Rafael Soriano</em></p>
+<p><br />
+<em>*Editado por Rafael Soriano</em></p>
