@@ -4,7 +4,7 @@ tags:
   - tag: encontro-estadual
   - tag: rio-grande-do-sul
   - tag: reforma-agrária
-title: "MST se prepara para o seu 18º Encontro Estadual no Rio Grande do Sul "
+title: "Sem Terra se prepara para 18º Encontro Estadual no Rio Grande do Sul "
 support_line: "Evento será realizado dos dias 13 a 15 deste mês na antiga fazenda Annoni, na região Norte gaúcha."
 images_hd: //farm5.staticflickr.com/4554/25045622408_7a967b381a_b.jpg
 menu: transgênicos
