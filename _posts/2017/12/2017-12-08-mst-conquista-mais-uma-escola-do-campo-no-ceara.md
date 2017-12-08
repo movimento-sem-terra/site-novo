@@ -61,10 +61,12 @@ Na tarde desta quinta-feira (07), foi inaugurada mais uma escola de ensino m&eac
 <p><br />
 A solenidade de entrega contou com a participa&ccedil;&atilde;o de aproximadamente 800 trabalhadores e trabalhadoras Sem Terra. Esteve presente o Governador do Estado Camilo Santana (PT), o presidente da Assembleia Legislativa do Cear&aacute;, Zezinho Albuquerque, o Secret&aacute;rio de Educa&ccedil;&atilde;o Idilvan Alencar, a prefeita da Cidade de Ocara Am&aacute;lia Lopes (PP), al&eacute;m de Deputados Estaduais e Federais.</p>
 
-<p>Governador Camilo Santana</p>
-
 <p><br />
 A Escola recebeu o nome de Francisca pinto dos Santos, em homenagem a uma mulher, m&atilde;e, educadora popular militante do MST e Assentada da Reforma Agr&aacute;ria, no Assentamento Ant&ocirc;nio Conselheiro, que durante toda sua vida se dedicou &agrave; milit&acirc;ncia pela educa&ccedil;&atilde;o do campo e as lutas populares. No ano de 2012 veio a falecer, mas deixou seu legado de for&ccedil;a, coragem e persist&ecirc;ncia.</p>
+
+<figure class="image" style="float:right"><img alt="IMG_4253.JPG" height="267" src="//farm5.staticflickr.com/4729/38916246371_feaa778f6c_b.jpg" width="400" />
+<figcaption><em>Governador&nbsp; do Cear&aacute;, Camilo Santana.</em></figcaption>
+</figure>
 
 <p><br />
 O Governador Camilo Santana reafirmou o compromisso com os trabalhadores e destacou que &ldquo;essa escola &eacute; fruto da luta e do trabalho do MST, dos assentados e assentadas da Reforma Agr&aacute;ria do Cear&aacute;, portanto, parab&eacute;ns e viva a educa&ccedil;&atilde;o do nosso Estado&rdquo;.</p>
