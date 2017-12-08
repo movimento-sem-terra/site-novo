@@ -4,7 +4,7 @@ tags:
   - tag: lutas-e-mobilizações
   - tag: reintegração-de-posse
   - tag: direitos-humanos
-title: "Mães do acampamento Marcelino Chiarello escrevem carta endereçada a juíza que concedeu liminar de despejo "
+title: "Mães do acampamento Marcelino escrevem carta para juíza que concedeu liminar de despejo "
 support_line: "A área pública, que está em nome do Incra, e da qual a empresa Sementes Prezzotto havia tomado posse, foi ocupada pelos trabalhadores há cerca de um ano e meio."
 menu: lutas e mobilizações
 images_hd: //farm5.staticflickr.com/4521/38007378515_5bb0ff9261_b.jpg
