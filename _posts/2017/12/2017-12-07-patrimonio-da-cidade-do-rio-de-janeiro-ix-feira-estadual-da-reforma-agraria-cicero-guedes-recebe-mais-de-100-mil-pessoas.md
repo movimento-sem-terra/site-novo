@@ -49,7 +49,7 @@ releated_posts:
   - _posts/2017/10/2017-10-27-1a-feira-agroecologica-de-sao-leopoldo-acontece-no-proximo-sabado-28.md
   - _posts/2017/11/2017-11-19-feira-estadual-reune-diversidade-da-reforma-agraria-no-ms.md
   - _posts/2017/11/2017-11-24-feira-da-reforma-agraria-ocupa-o-centro-do-campo-grande-com-alimentos-saudaveis.md
-section: cover
+section: featured-news
 
 ---
 <p>&nbsp;</p>
