@@ -4,7 +4,7 @@ tags:
   - tag: minas-gerais
   - tag: violência-no-campo
   - tag: acampamento
-title: Ato denuncia tentativa de assassinato e ameaças a trabalhadores rurais sem terra
+title: Ato denuncia tentativa de assassinato e ameaças a trabalhadores Sem Terra
 support_line: Somente a desapropriação definitiva nas terras da antiga usina Ariadnópolis pode estancar a violência crescente.
 menu: lutas e mobilizações
 section: cover
