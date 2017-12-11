@@ -53,10 +53,10 @@ releated_posts:
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
-No &uacute;ltimo s&aacute;bado (9), em Veran&oacute;polis, na regi&atilde;o da Serra ga&uacute;cha,&nbsp;aconteceu a formatura da turma do Curso de Licenciatura em Hist&oacute;ria formada por militantes sociais.&nbsp;</p>
+No &uacute;ltimo s&aacute;bado (9), em Veran&oacute;polis, na regi&atilde;o da Serra Ga&uacute;cha,&nbsp;aconteceu a formatura da turma do Curso de Licenciatura em Hist&oacute;ria formada por militantes sociais.&nbsp;</p>
 
 <p><br />
-A turma que come&ccedil;ou&nbsp;em 2013 e que conta com militantes do&nbsp;MST, Movimento dos Atingidos por Barragens (MAB), Pastoral da Juventude Rural (PJR) e Pastoral da Juventude do Meio Popular (PJMP),&nbsp;formou 38 educandos e educandas das quatro regi&otilde;es do pa&iacute;s.&nbsp;</p>
+A turma que come&ccedil;ou&nbsp;em 2013 e que conta com militantes do&nbsp;MST, Movimento dos Atingidos por Barragens (MAB), Pastoral da Juventude Rural (PJR) e Pastoral da Juventude do Meio Popular (PJMP),&nbsp;formou 38 educandos e educandas das cinco regi&otilde;es do pa&iacute;s.&nbsp;</p>
 
 <p><br />
 O curso foi&nbsp;viabilizado em parceria com a Universidade Federal Fronteira Sul (UFFS), o Instituto T&eacute;cnico de Capacita&ccedil;&atilde;o em Pesquisa da Reforma Agr&aacute;ria (ITERRA) e o Programa Nacional de Educa&ccedil;&atilde;o na Reforma Agr&aacute;ria (Pronera).&nbsp;</p>
