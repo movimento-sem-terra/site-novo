@@ -7,7 +7,7 @@ tags:
 images_hd: //farm5.staticflickr.com/4729/38984169471_a724b9051b_b.jpg
 menu: direitos humanos
 title: "Sem Terra sofrem com clima de instabilidade e ameaça em Campo do Meio "
-support_line: "O conflito nas terras da antiga Usina da Ariadnópolis se estende há 20 anos. A área está decretada pelo Governo do Estado, mas segue a briga judicial sem resolução"
+support_line: "O conflito nas terras da antiga Usina da Ariadnópolis se estende há 20 anos. A área está decretada pelo Governo do Estado, mas segue a briga judicial sem resolução."
 layout: post
 files:
   - link: //farm5.staticflickr.com/4734/38947573162_156ce05d47_b.jpg
@@ -31,14 +31,18 @@ releated_posts:
   - _posts/2017/09/2017-09-27-cpt-e-repam-lancam-atlas-de-conflitos-na-amazonia-nesta-quinta-feira.md
   - _posts/2017/08/2017-08-08-fazendeiro-horacio-dias-volta-a-ameacar-as-familias-acampadas-na-zona-da-mata-mineira.md
   - _posts/2017/06/2017-06-01-mst-denuncia-despejo-iminente-no-tocantins.md
+section: cover
 
 ---
 <p>&nbsp;</p>
 
+<p>&nbsp;</p>
+
 <p><em>Da P&aacute;gina do MST&nbsp;</em></p>
 
-<p><br />
-O conflito nas terras da antiga Usina da Ariadn&oacute;polis se estende h&aacute; 20 anos. A &aacute;rea est&aacute; decretada pelo Governo do Estado, mas segue a briga judicial sem resolu&ccedil;&atilde;o.&nbsp;</p>
+<p>&nbsp;</p>
+
+<p>O conflito nas terras da antiga Usina da Ariadn&oacute;polis se estende h&aacute; 20 anos. A &aacute;rea est&aacute; decretada pelo Governo do Estado, mas segue a briga judicial sem resolu&ccedil;&atilde;o.&nbsp;</p>
 
 <p><br />
 Recentemente ataques por parte dos propriet&aacute;rios da regi&atilde;o e deputados ruralistas da Assembleia Legislativa de Minas Gerais tem se intensificado.</p>
