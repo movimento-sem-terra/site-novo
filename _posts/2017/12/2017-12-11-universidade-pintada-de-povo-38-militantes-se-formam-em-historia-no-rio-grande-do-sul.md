@@ -84,4 +84,6 @@ Segundo o doutor Jo&atilde;o Alfredo Braida, pr&oacute;-reitor da UFFS, &ldquo;e
 
 <p>&nbsp;</p>
 
+<p><em>*Editado por Maura Silva&nbsp;</em></p>
+
 <p>&nbsp;</p>
