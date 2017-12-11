@@ -31,7 +31,7 @@ releated_posts:
   - _posts/2017/09/2017-09-27-cpt-e-repam-lancam-atlas-de-conflitos-na-amazonia-nesta-quinta-feira.md
   - _posts/2017/08/2017-08-08-fazendeiro-horacio-dias-volta-a-ameacar-as-familias-acampadas-na-zona-da-mata-mineira.md
   - _posts/2017/06/2017-06-01-mst-denuncia-despejo-iminente-no-tocantins.md
-section: cover
+section: featured-news
 
 ---
 <p>&nbsp;</p>
