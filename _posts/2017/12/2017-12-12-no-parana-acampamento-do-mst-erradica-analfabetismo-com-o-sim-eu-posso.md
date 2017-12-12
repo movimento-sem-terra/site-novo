@@ -40,7 +40,7 @@ releated_posts:
 <p>&nbsp;</p>
 
 <p><em>Por Igor de Nadai*<br />
-Do Brasil de Fato&nbsp;</em>&nbsp;</p>
+Da P&aacute;gina do MST</em></p>
 
 <p><br />
 Neste caloroso s&aacute;bado (9), t&iacute;pico do Norte do Paran&aacute;, moradores do campo e da cidades, junto de 24 educandos e 10 educadores e educadoras, comemoraram a formatura de quatro turmas de alfabetiza&ccedil;&atilde;o baseadas no m&eacute;todo cubano &ldquo;Yo, si Puedo!&rdquo;, o &ldquo;Sim, eu posso!&rdquo;, na vers&atilde;o brasileira.</p>
