@@ -7,7 +7,7 @@ tags:
 title: Ato denuncia tentativa de assassinato e ameaças a trabalhadores Sem Terra
 support_line: Somente a desapropriação definitiva nas terras da antiga usina Ariadnópolis pode estancar a violência crescente.
 menu: lutas e mobilizações
-section: cover
+section: featured-news
 images_hd: //farm5.staticflickr.com/4578/27212244359_4e9aaa71ab_b.jpg
 layout: post
 files:
