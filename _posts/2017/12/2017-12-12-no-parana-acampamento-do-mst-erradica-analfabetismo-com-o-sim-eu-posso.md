@@ -35,7 +35,11 @@ releated_posts:
 ---
 <p>&nbsp;</p>
 
-<p style="text-align:center"><img alt="WhatsApp Image 2017-12-10 at 19.40.16.jpeg" height="525" src="//farm5.staticflickr.com/4598/27234222699_7e06ffc838_b.jpg" width="700" /></p>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2017-12-10 at 19.40.16.jpeg" height="525" src="//farm5.staticflickr.com/4598/27234222699_7e06ffc838_b.jpg" width="700" />
+<figcaption><em>Acampamento Fidel Castro, no munic&iacute;pio de Centen&aacute;rio do Sul, onde vivem os formandos. Ali, 400 fam&iacute;lias enfrentam h&aacute; 9 anos a luta contra o agroneg&oacute;cio da cana-de-a&ccedil;&uacute;car. Foto: Arquivo MST</em></figcaption>
+</figure>
+</div>
 
 <p>&nbsp;</p>
 
@@ -72,8 +76,8 @@ Beatriz, de 40 anos, &eacute; uma das educadora que vive na comunidade. Ela expl
 <p><br />
 &ldquo;Sempre &eacute; tempo de aprender, sempre &eacute; tempo de ensinar!&rdquo;. Essa foi a palavra de ordem escolhida pelas turmas do programa no acampamento, que simboliza bem o sentimento de dona Matilde, de 64 anos, acampada na luta pela terra h&aacute; 4 anos.</p>
 
-<figure class="image" style="float:left"><img alt="WhatsApp Image 2017-12-10 at 19.39.38.jpeg" height="300" src="//farm5.staticflickr.com/4597/39011777091_0e1b145cb1_b.jpg" width="400" />
-<figcaption></figcaption>
+<figure class="image" style="float:left"><img alt="WhatsApp Image 2017-12-10 at 19.39.38.jpeg" height="293" src="//farm5.staticflickr.com/4597/39011777091_0e1b145cb1_b.jpg" width="390" />
+<figcaption><em>Foto: Arquivo MST</em></figcaption>
 </figure>
 
 <p><br />
