@@ -153,11 +153,11 @@ Na verdade, todo esse contexto de conflitos tem, como pano de fundo, interesses 
 O setor de Direitos Humanos do MST atua de acordo com as linhas pol&iacute;ticas do Movimento, de modo a fortalecer a luta pela realiza&ccedil;&atilde;o da Reforma Agr&aacute;ria Popular, em conson&acirc;ncia com a luta pela efetiva&ccedil;&atilde;o dos direitos humanos e sociais da toda a classe trabalhadora. De forma mais espec&iacute;fica, o setor atua na defesa dos trabalhadores e trabalhadoras rurais que sofrem viola&ccedil;&otilde;es de direitos humanos ao fazer a luta pelo direito &agrave; terra, &aacute;gua, florestas. Diante disso destacamos tr&ecirc;s frentes principais de atua&ccedil;&atilde;o:</div>
 
 <div><br />
-&bull;<span style="white-space:pre"> </span>Atua&ccedil;&atilde;o na defesa dos direitos dos trabalhadores e trabalhadoras rurais por meio do acompanhamento aos processos criminais, c&iacute;veis, administrativos dentre outros que s&atilde;o movidos contra a organiza&ccedil;&atilde;o e seus lutadores e lutadoras.</div>
+&bull; Atua&ccedil;&atilde;o na defesa dos direitos dos trabalhadores e trabalhadoras rurais por meio do acompanhamento aos processos criminais, c&iacute;veis, administrativos dentre outros que s&atilde;o movidos contra a organiza&ccedil;&atilde;o e seus lutadores e lutadoras.</div>
 
-<div>&bull;<span style="white-space:pre"> </span>Estabelecimento de di&aacute;logo permanente junto aos defensores e defensoras que atuam nos &oacute;rg&atilde;os institucionais de realiza&ccedil;&atilde;o da justi&ccedil;a, conselhos, f&oacute;runs, redes e institutos de direitos humanos nos seus diferentes espa&ccedil;os de atua&ccedil;&atilde;o.</div>
+<div>&bull; Estabelecimento de di&aacute;logo permanente junto aos defensores e defensoras que atuam nos &oacute;rg&atilde;os institucionais de realiza&ccedil;&atilde;o da justi&ccedil;a, conselhos, f&oacute;runs, redes e institutos de direitos humanos nos seus diferentes espa&ccedil;os de atua&ccedil;&atilde;o.</div>
 
-<div>&bull;<span style="white-space:pre"> </span>Realiza&ccedil;&atilde;o da forma&ccedil;&atilde;o pol&iacute;tica e t&eacute;cnica em Direitos Humanos por meio da constru&ccedil;&atilde;o do Programa de Forma&ccedil;&atilde;o Permanente que objetiva fortalecer os e as estudantes que integram as turmas de gradua&ccedil;&atilde;o em Direito conquistadas pelos movimentos sociais e sindicais do campo, realizadas em parceria com o Programa Nacional de Educa&ccedil;&atilde;o na Reforma Agr&aacute;ria&nbsp;(Pronera)&nbsp;e Universidades p&uacute;blicas; como, tamb&eacute;m, realizar cursos para o aperfei&ccedil;oamento da atua&ccedil;&atilde;o dos advogados e das advogadas populares por meio&nbsp; da atualiza&ccedil;&atilde;o da t&eacute;cnica jur&iacute;dica, exerc&iacute;cio fundamental para o bom desempenho pol&iacute;tico profissional. E, ainda, tem o elabora&ccedil;&atilde;o pol&iacute;tico-te&oacute;rica que potencializa a luta pelos direitos dos trabalhadores e das trabalhadoras.</div>
+<div>&bull; Realiza&ccedil;&atilde;o da forma&ccedil;&atilde;o pol&iacute;tica e t&eacute;cnica em Direitos Humanos por meio da constru&ccedil;&atilde;o do Programa de Forma&ccedil;&atilde;o Permanente que objetiva fortalecer os e as estudantes que integram as turmas de gradua&ccedil;&atilde;o em Direito conquistadas pelos movimentos sociais e sindicais do campo, realizadas em parceria com o Programa Nacional de Educa&ccedil;&atilde;o na Reforma Agr&aacute;ria&nbsp;(Pronera)&nbsp;e Universidades p&uacute;blicas; como, tamb&eacute;m, realizar cursos para o aperfei&ccedil;oamento da atua&ccedil;&atilde;o dos advogados e das advogadas populares por meio&nbsp; da atualiza&ccedil;&atilde;o da t&eacute;cnica jur&iacute;dica, exerc&iacute;cio fundamental para o bom desempenho pol&iacute;tico profissional. E, ainda, tem o elabora&ccedil;&atilde;o pol&iacute;tico-te&oacute;rica que potencializa a luta pelos direitos dos trabalhadores e das trabalhadoras.</div>
 
 <div><br />
 <br />
@@ -169,7 +169,7 @@ Dada a conjuntura, temos o desafio de fortalecer o campo da luta pela efetiva&cc
 
 <div><br />
 <br />
-<strong>Qual o papel da sociedade civil nesse contexto?</strong></div>
+Qual o papel da sociedade civil nesse contexto?</div>
 
 <div><br />
 <br />
