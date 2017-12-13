@@ -6,7 +6,7 @@ tags:
   - tag: lutas-e-mobilizações
   - tag: violência-no-campo
 title: "\"A luta pela defesa e garantia de direitos humanos dos lutadores e das lutadoras sociais é uma ação constante e sem fim\""
-support_line: "Em entrevista, a integrante da coordenação nacional do setor de direitos humanos do MST, Mara de Carvalho falou sobre a importância da organização social na luta contra os retrocessos que ameaçam a aclasse trabalhadora "
+support_line: "Em entrevista, a integrante da coordenação nacional do setor de direitos humanos do MST, Euzamara de Carvalho falou sobre a importância da organização social na luta contra os retrocessos que ameaçam a aclasse trabalhadora "
 menu: direitos humanos
 section: cover
 images_hd: //farm5.staticflickr.com/4556/38994424112_4c771f9dfb_b.jpg
@@ -78,7 +78,7 @@ Da P&aacute;gina do MST</em></div>
 
 <div>&nbsp;</div>
 
-<div>Para falar um pouco sobre isso, conversamos com&nbsp;a integrante da coordena&ccedil;&atilde;o nacional do setor de&nbsp;direitos humanos&nbsp;do&nbsp;MST,&nbsp;Mara&nbsp;de&nbsp;Carvalho&nbsp;que falou sobre a import&acirc;ncia da organiza&ccedil;&atilde;o social na luta contra os retrocessos. &quot;&Eacute;&nbsp;necess&aacute;rio debater&nbsp;junto &agrave; popula&ccedil;&atilde;o brasileira&nbsp;a gravidade da amea&ccedil;a aos nossos&nbsp;direitos historicamente conquistados, de forma a alertar sobre a import&acirc;ncia de se engajarem na luta e na constru&ccedil;&atilde;o de um projeto popular e soberano para o Brasil. Caminhamos para um cen&aacute;rio bem mais dif&iacute;cil, o que exige a capacidade, diante da necessidade, de termos um campo forte e organizado para seguir contribuindo com o conjunto da luta da classe trabalhadora&quot;.</div>
+<div>Para falar um pouco sobre isso, conversamos com&nbsp;a integrante da coordena&ccedil;&atilde;o nacional do setor de&nbsp;direitos humanos&nbsp;do&nbsp;MST, Euzamara&nbsp;de&nbsp;Carvalho&nbsp;que falou sobre a import&acirc;ncia da organiza&ccedil;&atilde;o social na luta contra os retrocessos. &quot;&Eacute;&nbsp;necess&aacute;rio debater&nbsp;junto &agrave; popula&ccedil;&atilde;o brasileira&nbsp;a gravidade da amea&ccedil;a aos nossos&nbsp;direitos historicamente conquistados, de forma a alertar sobre a import&acirc;ncia de se engajarem na luta e na constru&ccedil;&atilde;o de um projeto popular e soberano para o Brasil. Caminhamos para um cen&aacute;rio bem mais dif&iacute;cil, o que exige a capacidade, diante da necessidade, de termos um campo forte e organizado para seguir contribuindo com o conjunto da luta da classe trabalhadora&quot;.</div>
 
 <div>&nbsp;</div>
 
