@@ -6,7 +6,7 @@ tags:
   - tag: lutas-e-mobilizações
   - tag: violência-no-campo
 title: "\"A luta pela defesa e garantia de direitos humanos dos lutadores e das lutadoras sociais é uma ação constante e sem fim\""
-support_line: "Em entrevista, a integrante da coordenação nacional do setor de direitos humanos do MST, Euzamara de Carvalho falou sobre a importância da organização social na luta contra os retrocessos que ameaçam a aclasse trabalhadora "
+support_line: "Em entrevista, a integrante da coordenação nacional do setor de direitos humanos do MST, Euzamara de Carvalho falou sobre a importância da organização social na luta contra os retrocessos que ameaçam a classe trabalhadora "
 menu: direitos humanos
 section: cover
 images_hd: //farm5.staticflickr.com/4556/38994424112_4c771f9dfb_b.jpg
