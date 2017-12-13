@@ -59,7 +59,13 @@ As fam&iacute;lias j&aacute; haviam concordado em sair do local de forma pac&iac
 Diante disso, a campanha &quot;Despejos De Natal&quot; foi criada com o objetivo de mobilizar a sociedade civil brasileira e a comunidade internacional a pressionar as autoridades p&uacute;blicas do estado do Par&aacute; para suspenderem o despejo das cerca de 300 fam&iacute;lias.</p>
 
 <p><br />
-<strong>Veja abaixo as manifesta&ccedil;&otilde;es:&nbsp;</strong></p>
+<strong>Veja abaixo algumas das manifesta&ccedil;&otilde;es:&nbsp;</strong></p>
+
+<p><br />
+O ge&oacute;grafo brit&acirc;nico e professor da&nbsp;The City University of New York,&nbsp;David Harvey condenou os ataques e exigiu uma resposta imediada das autoridades respons&aacute;veis.&nbsp;</p>
+
+<p><br />
+&quot;Eu condeno fortemente os ataques &agrave;s fam&iacute;lias do MST no Par&aacute; e os despejos ocorridos no campo Hugo Chavez. Solicito que as autoridades cessem e desistam de suas interven&ccedil;&otilde;es violentas e respeitem os direitos humanos das fam&iacute;lias do MST&quot;, afirmou.&nbsp;</p>
 
 <p><br />
 A Alian&ccedil;a Bolivariana para os Povos da Nossa Am&eacute;rica (ALBA) emitiu um comunicado exigindo a garantia da integridade f&iacute;sica dos acampados e repudiando a ofensiva do latif&uacute;ndio no norte do pa&iacute;s.&nbsp;</p>
@@ -68,8 +74,7 @@ A Alian&ccedil;a Bolivariana para os Povos da Nossa Am&eacute;rica (ALBA) emitiu
 &ldquo;Vemos com grande preocupa&ccedil;&atilde;o a escalada da viol&ecirc;ncia gerada pelo governo, orquestrada por assassinos e com a cumplicidade da m&iacute;dia, contra comunidades organizadas e movimentos sociais. O massacre de Eldorado dos Caraj&aacute;s, no Estado do Par&aacute;, ainda est&aacute; presente em nossas mentes e em nossos cora&ccedil;&otilde;es, quando h&aacute; 20 anos, as for&ccedil;as policiais mataram mais de 20 trabalhadores Sem Terra. Proibido esquecer!&rdquo;</p>
 
 <p><br />
-J&aacute; a Assembleia dos Povos do Sul saudou a decis&atilde;o das fam&iacute;lias de continuaram em luta e resist&ecirc;ncia.&nbsp; &ldquo;Parabenizamos a valente e corajosa decis&atilde;o da milit&acirc;ncia do MST do Par&aacute; em permanecer no acampamento&quot;Hugo Ch&aacute;vez&quot;apesar da situa&ccedil;&atilde;o cr&iacute;tica. Exigimos que as autoridades brasileiras ajam<br />
-com justi&ccedil;a para evitar les&otilde;es ou conseq&uuml;&ecirc;ncias fatais e assim, garantir o bem estar das crian&ccedil;as acampadas e de suas fam&iacute;lias&rdquo;.&nbsp;</p>
+J&aacute; a Assembleia dos Povos do Sul saudou a decis&atilde;o das fam&iacute;lias de continuaram em luta e resist&ecirc;ncia.&nbsp; &ldquo;Parabenizamos a valente e corajosa decis&atilde;o da milit&acirc;ncia do MST do Par&aacute; em permanecer no acampamento&quot;Hugo Ch&aacute;vez&quot;apesar da situa&ccedil;&atilde;o cr&iacute;tica. Exigimos que as autoridades brasileiras ajam com justi&ccedil;a para evitar les&otilde;es ou conseq&uuml;&ecirc;ncias fatais e assim, garantir o bem estar das crian&ccedil;as acampadas e de suas fam&iacute;lias&rdquo;.&nbsp;</p>
 
 <p><br />
 O Movimento Popular P&aacute;tria Grande da Argentina reiterou que: &ldquo;no contexto de um governo autorit&aacute;rio e corrupto imposto por um golpe de Estado, um forte ataque &agrave; luta pela terra se desencadeou no Brasil. Esta ofensiva inclui os propriet&aacute;rios com seus guardas privados, funcion&aacute;rios judiciais, meios de comunica&ccedil;&atilde;o e pol&iacute;cia militar&rdquo;.</p>
@@ -78,7 +83,9 @@ O Movimento Popular P&aacute;tria Grande da Argentina reiterou que: &ldquo;no co
 A Coordenadoria Ecum&ecirc;nica de Servi&ccedil;o (Cese), criada por Igrejas Crist&atilde;s como a Igreja Evang&eacute;lica de Confiss&atilde;o Luterana, a Presbiteriana Independente, a Episcopal Anglicana, a Igreja Cat&oacute;lica e a Alian&ccedil;a de Batistas tamb&eacute;m demonstraram apoio &agrave;s fam&iacute;lias.&nbsp;</p>
 
 <p><br />
-Ao saber do ataque, a deputada estadual Manuela d&#39;&Aacute;vila (PCdoB-RS), que havia visitado o local no final de semana, publicou um v&iacute;deo prestando sua solidariedade ao MST e ao acampamento Hugo Ch&aacute;vez.&nbsp;<br />
+Ao saber do ataque, a deputada estadual Manuela d&#39;&Aacute;vila (PCdoB-RS), que havia visitado o local no final de semana, publicou um v&iacute;deo prestando sua solidariedade ao MST e ao acampamento Hugo Ch&aacute;vez.&nbsp;</p>
+
+<p><br />
 O senador Lindbergh Farias (PT/RJ) tamb&eacute;m prestou sua solidariedade. Em v&iacute;deo publicado em suas redes sociais na internet, ele alertou o governador do Estado do Par&aacute; que o pa&iacute;s est&aacute; acompanhando os conflitos de viol&ecirc;ncia no campo.</p>
 
 <p><br />
