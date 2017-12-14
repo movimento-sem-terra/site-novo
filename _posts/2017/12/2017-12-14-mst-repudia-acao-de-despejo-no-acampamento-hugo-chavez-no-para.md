@@ -42,6 +42,7 @@ releated_posts:
   - _posts/2017/11/2017-11-28-pa-mais-de-700-familias-de-trabalhadores-rurais-ficam-sem-ter-para-onde-ir-apos-despejo.md
   - _posts/2017/11/2017-11-30-camponeses-do-mst-no-para-realizam-ii-feira-da-reforma-agraria.md
   - _posts/2017/11/2017-11-28-acampamento-marcelino-chiarello-pode-ser-despejado-a-qualquer-momento.md
+section: cover
 
 ---
 <p><img alt="WhatsApp Image 2017-12-14 at 13.08.41.jpeg" height="525" src="//farm5.staticflickr.com/4543/38172262035_fd2cb64ec8_b.jpg" width="700" /></p>
