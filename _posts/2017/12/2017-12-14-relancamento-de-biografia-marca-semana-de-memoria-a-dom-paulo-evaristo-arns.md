@@ -4,11 +4,11 @@ tags:
   - tag: lutadores-e-lutadoras-do-povo
   - tag: homenagem
   - tag: formação
-title: Relançamento de biografia marca semana de memória à Dom Paulo Evaristo Arns
+title: Relançamento de biografia marca semana de memória a Dom Paulo Evaristo Arns
 support_line: "Um ano após sua morte, Dom Paulo continua alimentando o espírito dos que lutam por justiça"
 menu: projeto popular
 section: featured-news
-images_hd: //farm5.staticflickr.com/4518/39024817062_1300b518b3_b.jpg
+images_hd: //farm5.staticflickr.com/4523/24194783537_c8976ca6c4_b.jpg
 layout: post
 files:
   - link: //farm5.staticflickr.com/4543/24194525807_f963700e89_b.jpg
@@ -18,13 +18,13 @@ files:
     small: //farm5.staticflickr.com/4543/24194525807_f963700e89_n.jpg
     title: DomPaulo.png
     $$hashKey: "030"
-  - link: //farm5.staticflickr.com/4518/39024817062_1300b518b3_b.jpg
-    original: //farm5.staticflickr.com/4518/39024817062_106ccbab15_o.jpg
-    thumbnail: //farm5.staticflickr.com/4518/39024817062_1300b518b3_t.jpg
-    medium: //farm5.staticflickr.com/4518/39024817062_1300b518b3_z.jpg
-    small: //farm5.staticflickr.com/4518/39024817062_1300b518b3_n.jpg
-    title: dom_paulo_mst.jpeg
-    $$hashKey: 04D
+  - link: //farm5.staticflickr.com/4523/24194783537_c8976ca6c4_b.jpg
+    original: //farm5.staticflickr.com/4523/24194783537_67b2da305b_o.png
+    thumbnail: //farm5.staticflickr.com/4523/24194783537_c8976ca6c4_t.jpg
+    medium: //farm5.staticflickr.com/4523/24194783537_c8976ca6c4_z.jpg
+    small: //farm5.staticflickr.com/4523/24194783537_c8976ca6c4_n.jpg
+    title: dom-paulo.png
+    $$hashKey: 05I
 created_date: "2017-12-14T16:56:37-03:00"
 published: true
 releated_posts:
@@ -36,7 +36,7 @@ releated_posts:
   - _posts/2017/10/2017-10-02-mst-lamenta-o-falecimento-de-istvan-meszaros.md
 
 ---
-<p>&nbsp;</p>
+<p><img alt="DomPaulo.png" src="//farm5.staticflickr.com/4543/24194525807_f963700e89_b.jpg" /></p>
 
 <p>&nbsp;</p>
 
