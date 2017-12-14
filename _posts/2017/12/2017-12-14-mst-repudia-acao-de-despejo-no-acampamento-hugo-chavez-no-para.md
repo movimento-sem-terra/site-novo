@@ -16,6 +16,20 @@ files:
     small: //farm5.staticflickr.com/4543/38172262035_fd2cb64ec8_n.jpg
     title: WhatsApp Image 2017-12-14 at 13.08.41.jpeg
     $$hashKey: 02P
+  - link: //farm5.staticflickr.com/4547/24192496867_2de5630f99_b.jpg
+    original: //farm5.staticflickr.com/4547/24192496867_61e6ee8aca_o.jpg
+    thumbnail: //farm5.staticflickr.com/4547/24192496867_2de5630f99_t.jpg
+    medium: //farm5.staticflickr.com/4547/24192496867_2de5630f99_z.jpg
+    small: //farm5.staticflickr.com/4547/24192496867_2de5630f99_n.jpg
+    title: WhatsApp Image 2017-12-14 at 13.08.38.jpeg
+    $$hashKey: 0DU
+  - link: //farm5.staticflickr.com/4559/39054128981_7eb491cd49_b.jpg
+    original: //farm5.staticflickr.com/4559/39054128981_eb47c55730_o.jpg
+    thumbnail: //farm5.staticflickr.com/4559/39054128981_7eb491cd49_t.jpg
+    medium: //farm5.staticflickr.com/4559/39054128981_7eb491cd49_z.jpg
+    small: //farm5.staticflickr.com/4559/39054128981_7eb491cd49_n.jpg
+    title: WhatsApp Image 2017-12-14 at 13.08.40.jpeg
+    $$hashKey: 0E3
 created_date: "2017-12-14T14:39:14-02:00"
 published: true
 releated_posts:
@@ -50,8 +64,13 @@ O MST no Par&aacute; criticou a a&ccedil;&atilde;o da Pol&iacute;cia, coordenada
 <p><br />
 No dia de hoje, sob chuva e frio, o Comando de Miss&otilde;es Especiais- CME chegou ao acampamento Hugo Ch&aacute;vez para efetuar o despejo das 300 fam&iacute;lias que ali moram. Esse &eacute; mais um despejo dentre os 20 programados na regi&atilde;o, todos eles expedido pelo juiz Amarildo Mazzuti da Vara Agraria de Marab&aacute;.</p>
 
-<p><br />
-Faltando 10 dias para o natal as fam&iacute;lias n&atilde;o t&ecirc;m para onde ir, e as crian&ccedil;as n&atilde;o ter&atilde;o como terminar o ano letivo. O governo do estado, assim como os demais &oacute;rg&atilde;os p&uacute;blicos n&atilde;o se posicionaram sobre a situa&ccedil;&atilde;o de viola&ccedil;&atilde;o de direitos humanos e n&atilde;o propuseram nenhuma alternativa para solu&ccedil;&atilde;o do conflito. As fam&iacute;lias resistiram at&eacute; o &uacute;ltimo momento, n&atilde;o podendo mais segurar a situa&ccedil;&atilde;o optaram por iniciar o desmonte dos barracos. Nesse momento, as fam&iacute;lias est&atilde;o organizando um acampamento provis&oacute;rio, em uma &aacute;rea pr&oacute;xima que est&aacute; localizada no assentamento do MST.</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="WhatsApp Image 2017-12-14 at 13.08.38.jpeg" height="263" src="//farm5.staticflickr.com/4547/24192496867_2de5630f99_b.jpg" width="350" />
+<figcaption></figcaption>
+</figure>
+
+<p>Faltando 10 dias para o natal as fam&iacute;lias n&atilde;o t&ecirc;m para onde ir, e as crian&ccedil;as n&atilde;o ter&atilde;o como terminar o ano letivo. O governo do estado, assim como os demais &oacute;rg&atilde;os p&uacute;blicos n&atilde;o se posicionaram sobre a situa&ccedil;&atilde;o de viola&ccedil;&atilde;o de direitos humanos e n&atilde;o propuseram nenhuma alternativa para solu&ccedil;&atilde;o do conflito. As fam&iacute;lias resistiram at&eacute; o &uacute;ltimo momento, n&atilde;o podendo mais segurar a situa&ccedil;&atilde;o optaram por iniciar o desmonte dos barracos. Nesse momento, as fam&iacute;lias est&atilde;o organizando um acampamento provis&oacute;rio, em uma &aacute;rea pr&oacute;xima que est&aacute; localizada no assentamento do MST.</p>
 
 <p><br />
 Nos &uacute;ltimos dias, os acampados sofreram ataques dos pistoleiros, o que gerou uma grande mobiliza&ccedil;&atilde;o de amigos e organiza&ccedil;&otilde;es que prestaram solidariedade e abriram mais uma vez o debate sobre a situa&ccedil;&atilde;o fundi&aacute;ria e a viol&ecirc;ncia na regi&atilde;o.&nbsp;</p>
