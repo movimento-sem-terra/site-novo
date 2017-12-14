@@ -15,6 +15,13 @@ files:
     small: //farm5.staticflickr.com/4689/27272947529_fe506c1138_n.jpg
     title: DSC_4765.JPG
     $$hashKey: 0GQ
+  - link: //farm5.staticflickr.com/4637/38168262705_b337e629a1_b.jpg
+    original: //farm5.staticflickr.com/4637/38168262705_753c83a5ba_o.jpg
+    thumbnail: //farm5.staticflickr.com/4637/38168262705_b337e629a1_t.jpg
+    medium: //farm5.staticflickr.com/4637/38168262705_b337e629a1_z.jpg
+    small: //farm5.staticflickr.com/4637/38168262705_b337e629a1_n.jpg
+    title: DSC_4789.JPG
+    $$hashKey: 0R9
 created_date: "2017-12-14T10:25:42-02:00"
 published: true
 releated_posts:
@@ -42,8 +49,13 @@ A sess&atilde;o solene que instituiu o 13 de novembro como Dia da Balaiada foi r
 <p><br />
 A cerim&ocirc;nia teve ainda o objetivo de homenagear v&aacute;rias personalidades entre acad&ecirc;micos, pol&iacute;ticos e militantes sociais pela contribui&ccedil;&atilde;o na manuten&ccedil;&atilde;o da memoria da luta da Balaiada. Entre os homenageados est&aacute; a militante do MST e atual vereadora do munic&iacute;pio de Nina Rodrigues, Maria Dolores Farias, que tamb&eacute;m &eacute; assentada na comunidade Palmares II.</p>
 
-<p><br />
-O projeto &eacute; de iniciativa do deputado estadual Bira do Pindar&eacute; (PSB), que durante&nbsp;a abertura da sess&atilde;o solene, destacou a import&acirc;ncia da sess&atilde;o, quando ainda n&atilde;o existia no calend&aacute;rio oficial do estado nenhuma data comemorativa que se referisse &agrave; Balaiada. &ldquo;Essa sess&atilde;o &eacute; uma singela homenagem a todos os homens e mulheres que de alguma forma contribuem para a preserva&ccedil;&atilde;o da mem&oacute;ria desse importante momento da hist&oacute;ria maranhense.&rdquo;&nbsp;</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="DSC_4789.JPG" height="234" src="//farm5.staticflickr.com/4637/38168262705_b337e629a1_b.jpg" width="350" />
+<figcaption><em>Maria Dolores, militante do MST e homenageada.</em></figcaption>
+</figure>
+
+<p>O projeto &eacute; de iniciativa do deputado estadual Bira do Pindar&eacute; (PSB), que durante&nbsp;a abertura da sess&atilde;o solene, destacou a import&acirc;ncia da sess&atilde;o, quando ainda n&atilde;o existia no calend&aacute;rio oficial do estado nenhuma data comemorativa que se referisse &agrave; Balaiada. &ldquo;Essa sess&atilde;o &eacute; uma singela homenagem a todos os homens e mulheres que de alguma forma contribuem para a preserva&ccedil;&atilde;o da mem&oacute;ria desse importante momento da hist&oacute;ria maranhense.&rdquo;&nbsp;</p>
 
 <p><br />
 Para Jonas Borges, da&nbsp;Coordena&ccedil;&atilde;o Estadual do MST, o projeto de lei do deputado Bira &eacute; importante para resgatar a mem&oacute;ria dos que lutam por liberdade no Maranh&atilde;o. &ldquo;A balaiada &eacute; a maior resist&ecirc;ncia popular do Maranh&atilde;o e uma das maiores do Brasil imperial. Ela tinha o&nbsp;objetivo de libertar os&nbsp;escravos e os&nbsp;pobres camponeses. Foi uma revolta por liberdade. &Eacute; justo uma data para se comemorar isso&rdquo;, afirmou.</p>
