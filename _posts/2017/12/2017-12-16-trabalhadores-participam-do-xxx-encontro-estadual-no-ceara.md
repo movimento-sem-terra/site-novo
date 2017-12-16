@@ -4,7 +4,7 @@ tags:
   - tag: lutas-e-mobilizações
   - tag: ceará
   - tag: encontro-estadual
-title: Trabalhadores participam do XXX encontro estadual no Ceará
+title: Trabalhadores participam do 30° encontro estadual no Ceará
 support_line: "Durante os quatro dias de atividade estão previstos temas ligados a conjuntura politica, agrária e a apresentação das experiências que veem contribuindo para o fortalecimento da construção da Reforma Agrária Popular"
 menu: lutas e mobilizações
 images_hd: //farm5.staticflickr.com/4637/25220924928_2196c01e17_b.jpg
@@ -35,7 +35,7 @@ releated_posts:
 Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
-Com o tema: &#39;MST Cear&aacute;, construindo a resist&ecirc;ncia em tempos de golpe&rdquo;,cerca de 700 Sem Terra de toda regi&atilde;o do Cear&aacute; se reuniram&nbsp;na manh&atilde; de ontem&nbsp;(15),&nbsp;no&nbsp;Centro de Ensino e Treinamento em Extens&atilde;o (CETREX), no munic&iacute;pio de Caucaia, grande Fortaleza para XXX encontro estadual do MST.</p>
+Com o tema: &#39;MST Cear&aacute;, construindo a resist&ecirc;ncia em tempos de golpe&rdquo;,cerca de 700 Sem Terra de toda regi&atilde;o do Cear&aacute; se reuniram&nbsp;na manh&atilde; de ontem&nbsp;(15),&nbsp;no&nbsp;Centro de Ensino e Treinamento em Extens&atilde;o (CETREX), no munic&iacute;pio de Caucaia, grande Fortaleza para 30&deg; encontro estadual do MST.</p>
 
 <p><br />
 Durante os quatro dias de atividade&nbsp;est&atilde;o previstos temas ligados a conjuntura politica, agr&aacute;ria e a apresenta&ccedil;&atilde;o das experi&ecirc;ncias que veem contribuindo para o fortalecimento da constru&ccedil;&atilde;o da Reforma Agr&aacute;ria Popular, al&eacute;m disso&nbsp;temas relacionados aos&nbsp;LGBTTs, mulheres e&nbsp;juventude tamb&eacute;m ser&atilde;o abordados.</p>
