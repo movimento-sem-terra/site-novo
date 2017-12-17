@@ -7,16 +7,23 @@ tags:
 title: Trabalhadores participam do 30° encontro estadual no Ceará
 support_line: "Durante os quatro dias de atividade estão previstos temas ligados a conjuntura politica, agrária e a apresentação das experiências que veem contribuindo para o fortalecimento da construção da Reforma Agrária Popular"
 menu: lutas e mobilizações
-images_hd: //farm5.staticflickr.com/4637/25220924928_2196c01e17_b.jpg
+images_hd: //farm5.staticflickr.com/4738/25240956628_21e68fc6fc_b.jpg
 layout: post
 files:
-  - link: //farm5.staticflickr.com/4637/25220924928_2196c01e17_b.jpg
-    original: //farm5.staticflickr.com/4637/25220924928_0b4873dea4_o.jpg
-    thumbnail: //farm5.staticflickr.com/4637/25220924928_2196c01e17_t.jpg
-    medium: //farm5.staticflickr.com/4637/25220924928_2196c01e17_z.jpg
-    small: //farm5.staticflickr.com/4637/25220924928_2196c01e17_n.jpg
-    title: 28223632312_34860b212e_b.jpg
-    $$hashKey: 05Q
+  - link: //farm5.staticflickr.com/4738/25240956628_21e68fc6fc_b.jpg
+    original: //farm5.staticflickr.com/4738/25240956628_9dc18c3977_o.jpg
+    thumbnail: //farm5.staticflickr.com/4738/25240956628_21e68fc6fc_t.jpg
+    medium: //farm5.staticflickr.com/4738/25240956628_21e68fc6fc_z.jpg
+    small: //farm5.staticflickr.com/4738/25240956628_21e68fc6fc_n.jpg
+    title: WhatsApp Image 2017-12-17 at 10.32.13.jpeg
+    $$hashKey: "067"
+  - link: //farm5.staticflickr.com/4643/38397503484_5efd9c3ec2_b.jpg
+    original: //farm5.staticflickr.com/4643/38397503484_e2a738c738_o.jpg
+    thumbnail: //farm5.staticflickr.com/4643/38397503484_5efd9c3ec2_t.jpg
+    medium: //farm5.staticflickr.com/4643/38397503484_5efd9c3ec2_z.jpg
+    small: //farm5.staticflickr.com/4643/38397503484_5efd9c3ec2_n.jpg
+    title: WhatsApp Image 2017-12-17 at 10.32.12.jpeg
+    $$hashKey: 06D
 created_date: "2017-12-16T10:21:11-02:00"
 published: true
 releated_posts:
@@ -31,6 +38,10 @@ releated_posts:
 ---
 <p>&nbsp;</p>
 
+<p style="text-align:center"><img alt="WhatsApp Image 2017-12-17 at 10.32.13.jpeg" height="446" src="//farm5.staticflickr.com/4738/25240956628_21e68fc6fc_b.jpg" width="700" /></p>
+
+<p>&nbsp;</p>
+
 <p><em>Por Aline Oliveira e Geni Santos<br />
 Da P&aacute;gina do MST&nbsp;</em></p>
 
@@ -40,9 +51,15 @@ Com o tema: &#39;MST Cear&aacute;, construindo a resist&ecirc;ncia em tempos de 
 <p><br />
 Durante os quatro dias de atividade&nbsp;est&atilde;o previstos temas ligados a conjuntura politica, agr&aacute;ria e a apresenta&ccedil;&atilde;o das experi&ecirc;ncias que veem contribuindo para o fortalecimento da constru&ccedil;&atilde;o da Reforma Agr&aacute;ria Popular, al&eacute;m disso&nbsp;temas relacionados aos&nbsp;LGBTTs, mulheres e&nbsp;juventude tamb&eacute;m ser&atilde;o abordados.</p>
 
+<figure class="image" style="float:left"><img alt="WhatsApp Image 2017-12-17 at 10.32.12.jpeg" height="280" src="//farm5.staticflickr.com/4643/38397503484_5efd9c3ec2_b.jpg" width="450" />
+<figcaption></figcaption>
+</figure>
+
 <p><br />
-Para Irineuda Lopes, da dire&ccedil;&atilde;o nacional do MST em tempos de golpe realizar o encontro estadual de trabalhadores, acampados e assentados do MST tem um significado simb&oacute;lico para a classe trabalhadora.<br />
-<br />
-&quot;&Eacute; o momento de reafirmamos nossa resist&ecirc;ncia,&nbsp; planejar os pr&oacute;ximos passos para um per&iacute;odo de muitas lutas. Tamb&eacute;m &eacute; momento de comemorar nossas conquistas, de homologa&ccedil;&atilde;o das inst&acirc;ncias para os pr&oacute;ximos dois anos que ter&aacute; como desafio construir a unidade da classe trabalhadora&rdquo;, afirmou.<br />
-<br />
+Para Irineuda Lopes, da dire&ccedil;&atilde;o nacional do MST em tempos de golpe realizar o encontro estadual de trabalhadores, acampados e assentados do MST tem um significado simb&oacute;lico para a classe trabalhadora.</p>
+
+<p><br />
+&quot;&Eacute; o momento de reafirmamos nossa resist&ecirc;ncia,&nbsp; planejar os pr&oacute;ximos passos para um per&iacute;odo de muitas lutas. Tamb&eacute;m &eacute; momento de comemorar nossas conquistas, de homologa&ccedil;&atilde;o das inst&acirc;ncias para os pr&oacute;ximos dois anos que ter&aacute; como desafio construir a unidade da classe trabalhadora&rdquo;, afirmou.</p>
+
+<p><br />
 J&aacute; para Vanderley Silva, assentado da Reforma Agr&aacute;ria: o encontro &eacute; uma espa&ccedil;o para&nbsp;aprender com as experi&ecirc;ncias, renovar a m&iacute;stica e planejar nossas lutas futuras. No decorrer do ano tivemos muitas lutas, muitas atividades, ent&atilde;o esse &eacute; um momento de socializar e&nbsp;tamb&eacute;m&nbsp;comemorar&rdquo;, finalizou.</p>
