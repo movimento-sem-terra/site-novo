@@ -31,7 +31,7 @@ releated_posts:
 ---
 <p>&nbsp;</p>
 
-<p><em>Por Aline Oliveira<br />
+<p><em>Por Aline Oliveira e Geni Santos<br />
 Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
