@@ -4,6 +4,8 @@ tags:
   - tag: futebol
   - tag: esporte
   - tag: reforma-agrária
+  - tag: enff
+  - tag: lutadores-e-lutadoras-do-povo
 title: Primeira Copa da Reforma Agrária é lançada no Ceará
 support_line: "A copa da Reforma Agrária acontecerá entre os meses de janeiro e maio de 2018, envolverá equipes de assentamentos e acampamentos de 64 municípios de todas as regiões do estado"
 menu: "educação, cultura e comunicação"
@@ -17,17 +19,25 @@ files:
     small: //farm5.staticflickr.com/4726/39089861342_e35f4eae83_n.jpg
     title: unnamed.jpg
     $$hashKey: 0MZ
+  - link: //farm5.staticflickr.com/4693/27362521889_ac624ff8e6_b.jpg
+    original: //farm5.staticflickr.com/4693/27362521889_83663e8539_o.jpg
+    thumbnail: //farm5.staticflickr.com/4693/27362521889_ac624ff8e6_t.jpg
+    medium: //farm5.staticflickr.com/4693/27362521889_ac624ff8e6_z.jpg
+    small: //farm5.staticflickr.com/4693/27362521889_ac624ff8e6_n.jpg
+    title: WhatsApp Image 2017-12-18 at 16.03.06.jpeg
+    $$hashKey: 1FC
 created_date: "2017-12-17T23:45:30-02:00"
 published: true
 releated_posts:
-  - _posts/2017/07/2017-07-17-campo-dr-socrates-sera-inaugurado-no-dia-2-de-setembro.md
+  - _posts/2017/12/2017-12-04-dr-socrates-brasileiro-presente.md
   - _posts/2017/11/2017-11-16-hulha-negra-sedia-fase-final-do-9o-campeonato-da-reforma-agraria-no-rio-grande-do-sul.md
-  - _posts/2017/05/2017-05-02-chico-buarque-e-maradona-estao-cotados-para-inauguracao-do-campo-de-futebol-do-mst.md
 
 ---
+<p><img alt="WhatsApp Image 2017-12-18 at 16.03.06.jpeg" height="440" src="//farm5.staticflickr.com/4693/27362521889_ac624ff8e6_b.jpg" width="700" /></p>
+
 <p>&nbsp;</p>
 
-<p><em>Por Aline Oliveira&nbsp;<br />
+<p><em>Por Gene Santos<br />
 Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
