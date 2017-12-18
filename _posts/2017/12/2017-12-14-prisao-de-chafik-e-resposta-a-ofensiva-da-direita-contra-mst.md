@@ -1,8 +1,12 @@
 ---
 date: "2017-12-14T19:01:28-02:00"
-tags: []
+tags:
+  - tag: impunidade
+  - tag: justiça
+  - tag: violência-no-campo
+  - tag: minas-gerais
 title: Prisão de Chafik é resposta à ofensiva da direita contra MST
-support_line: "O mandante do Massacre de Felisburgo estava foragido desde junho, agora pagará a pena de 115 anos de prisão"
+support_line: "O mandante do Massacre de Felisburgo estava foragido desde junho, agora pagará a pena de 115 anos de prisão."
 menu: direitos humanos
 images_hd: //farm5.staticflickr.com/4593/24196747707_3d3255871d_b.jpg
 layout: post
@@ -16,7 +20,14 @@ files:
     $$hashKey: 02P
 created_date: "2017-12-14T19:18:35-02:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2017/12/2017-12-07-jaguncos-tentam-assassinar-dirigente-do-mst-em-minas-gerais.md
+  - _posts/2017/09/2017-09-22-julgamento-de-policial-que-matou-sem-terra-ressuscita-velhos-discursos-contra-o-mst.md
+  - _posts/2017/09/2017-09-22-caso-elton-brum-da-silva-policial-militar-e-condenado-a-12-anos-de-prisao-e-a-perda-de-cargo.md
+  - _posts/2017/12/2017-12-11-ato-denuncia-tentativa-de-assassinato-e-ameacas-a-trabalhadores-rurais-sem-terra.md
+  - _posts/2017/05/2017-05-31-sem-direito-a-terra-em-vida-massacre-e-morte-indigna.md
+  - _posts/2017/11/2017-11-22-juri-popular-encerra-19-anos-de-impunidades-e-condena-assassinos-de-trabalhadora-rural-no-maranhao.md
+section: featured-news
 
 ---
 <p>&nbsp;</p>
