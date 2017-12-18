@@ -37,7 +37,7 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p><em>Por Gene Santos<br />
+<p><em>Por Gene Santos e Aline Oliveira<br />
 Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
