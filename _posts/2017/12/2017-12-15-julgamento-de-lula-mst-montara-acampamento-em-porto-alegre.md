@@ -48,7 +48,7 @@ releated_posts:
   - _posts/2017/08/2017-08-30-no-rn-lula-defende-a-petrobras-e-a-democratizacao-da-comunicacao.md
   - _posts/2017/07/2017-07-21-sem-terra-realizam-ix-encontro-estadual-de-educadores-e-educadoras-da-reforma-agraria-no-ceara.md
   - _posts/2017/09/2017-09-14-mst-comemora-27-anos-no-rn-debatendo-o-protagonismo-das-mulheres-sem-terra.md
-section: cover
+section: featured-news
 
 ---
 <p><img alt="Foto Letícia Stasiak.jpg" height="467" src="//farm5.staticflickr.com/4568/38362986534_18e7f7cc67_b.jpg" width="700" /></p>
