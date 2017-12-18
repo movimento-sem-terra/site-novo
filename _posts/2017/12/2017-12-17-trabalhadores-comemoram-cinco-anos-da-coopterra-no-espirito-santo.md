@@ -40,7 +40,7 @@ releated_posts:
 
 ---
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2017-12-17 at 13.20.55.jpeg" height="450" src="//farm5.staticflickr.com/4644/38408640694_712df79527_b.jpg" width="600" />
+<figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2017-12-17 at 13.20.55.jpeg" height="413" src="//farm5.staticflickr.com/4644/38408640694_712df79527_b.jpg" width="550" />
 <figcaption></figcaption>
 </figure>
 </div>
@@ -54,7 +54,7 @@ Da P&aacute;gina do MST</em></p>
 Lutar pela terra e faze-la produzir alimentos saud&aacute;veis &eacute; uma das grandes tarefas do MST, assim, a organiza&ccedil;&atilde;o da produ&ccedil;&atilde;o das fam&iacute;lias assentadas &eacute; um elemento central da Reforma Agr&aacute;ria Popular.&nbsp;</p>
 
 <p><br />
-A Cooperativa de Produ&ccedil;&atilde;o Comercializa&ccedil;&atilde;o e Beneficiamento dos Assentados (COOPTERRA) &eacute; uma iniciativa de um grupo de 31 fam&iacute;lias de assentados do munic&iacute;pio de S&atilde;o Mateus, norte do Esp&iacute;rito Santo, que no ano de 2013 se desafiaram a realizar a&ccedil;&otilde;es coletivas no processo de beneficiamento e comercializa&ccedil;&atilde;o de caf&eacute;. Ap&oacute;s 5 anos de exist&ecirc;ncia, essa cooperativa amplia seu n&uacute;mero de associados, ultrapassando 100 fam&iacute;lias e expande para outros 10 munic&iacute;pios e 16 assentamentos nas regi&otilde;es norte, noroeste e serrana do estado.</p>
+A Cooperativa de Produ&ccedil;&atilde;o Comercializa&ccedil;&atilde;o e Beneficiamento dos Assentados (COOPTERRA) &eacute; uma iniciativa de um grupo de 31 fam&iacute;lias de assentados do munic&iacute;pio de S&atilde;o Mateus, norte do Esp&iacute;rito Santo, que no ano de 2013 se desafiaram a realizar a&ccedil;&otilde;es coletivas no processo de beneficiamento e comercializa&ccedil;&atilde;o de caf&eacute;. Ap&oacute;s cinco anos de exist&ecirc;ncia, essa cooperativa amplia seu n&uacute;mero de associados, ultrapassando 100 fam&iacute;lias e expande para outros 10 munic&iacute;pios e 16 assentamentos nas regi&otilde;es norte, noroeste e serrana do estado.</p>
 
 <p><br />
 Os cinco anos parecem pouco diante das diversas a&ccedil;&otilde;es realizadas, tanto na &aacute;rea de beneficiamento e comercializa&ccedil;&atilde;o de caf&eacute; e pimenta do reino, duas atividades econ&ocirc;micas majorit&aacute;rias nas &aacute;reas de assentamento. Mas, entre outras a&ccedil;&otilde;es, a Cooperativa realizou no &uacute;ltimo ano a exporta&ccedil;&atilde;o de caf&eacute; torrado e mo&iacute;do para a Venezuela, a partir da intercoopera&ccedil;&atilde;o com a Cooperativa Camponesa (MG) e a Conop (PR).</p>
@@ -65,7 +65,7 @@ Os cinco anos parecem pouco diante das diversas a&ccedil;&otilde;es realizadas, 
 <figcaption></figcaption>
 </figure>
 
-<p>As a&ccedil;&otilde;es da Coopterra avan&ccedil;am na organiza&ccedil;&atilde;o das fam&iacute;lias assentadas, buscando elevar a qualidade de vida das fam&iacute;lias, atrav&eacute;s da coopera&ccedil;&atilde;o.&nbsp;Com muita anima&ccedil;&atilde;o e compromisso, no &uacute;ltimo s&aacute;bado dia 9 de dezembro de 2017, foi realizado a Assembleia geral de presta&ccedil;&atilde;o de contas e comemora&ccedil;&atilde;o aos 5 anos da cooperativa.</p>
+<p>As a&ccedil;&otilde;es da Coopterra avan&ccedil;am na organiza&ccedil;&atilde;o das fam&iacute;lias assentadas, buscando elevar a qualidade de vida das fam&iacute;lias, atrav&eacute;s da coopera&ccedil;&atilde;o.&nbsp;Com muita anima&ccedil;&atilde;o e compromisso, no &uacute;ltimo s&aacute;bado dia 9 de dezembro de 2017, foi realizado a Assembleia geral de presta&ccedil;&atilde;o de contas e comemora&ccedil;&atilde;o aos cinco&nbsp;anos da cooperativa.</p>
 
 <p><br />
 No ato de comemora&ccedil;&atilde;o, contando com a presen&ccedil;a dos familiares de grande parte dos mais de 100 associados, de parlamentares (municipal, estadual e federal), aliados e simpatizantes do MST, foi reconhecido o papel do MST na luta pela reforma agr&aacute;ria e da produ&ccedil;&atilde;o de alimentos saud&aacute;veis para o conjunto da sociedade. A coopera&ccedil;&atilde;o, tanto na produ&ccedil;&atilde;o, no beneficiamento, industrializa&ccedil;&atilde;o e comercializa&ccedil;&atilde;o da produ&ccedil;&atilde;o dos assentamentos, &eacute; uma das condi&ccedil;&otilde;es de avan&ccedil;ar na luta pela Reforma Agr&aacute;ria Popular na terra conquistada, al&eacute;m de garantir a eleva&ccedil;&atilde;o da qualidade de vida das fam&iacute;lias assentadas.</p>
