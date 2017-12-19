@@ -1,5 +1,5 @@
 ---
-date: "2017-12-19T10:27:42-03:00"
+date: "2017-12-19T11:27:42-02:00"
 tags:
   - tag: são-paulo
   - tag: acampamento
@@ -26,6 +26,7 @@ releated_posts:
   - _posts/2017/10/2017-10-24-ocupacao-do-mst-consegue-suspender-despejo-em-limeira-no-interior-de-sao-paulo.md
   - _posts/2017/12/2017-12-06-nova-ameaca-de-despejo-das-familias-sem-terra-no-horto-tatu.md
   - _posts/2017/08/2017-08-05-conflitos-no-campo-nao-sao-casos-isolados-e-um-projeto-de-matanca.md
+section: cover
 
 ---
 <p>&nbsp;</p>
