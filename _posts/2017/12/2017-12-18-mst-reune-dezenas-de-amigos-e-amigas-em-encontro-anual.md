@@ -8,7 +8,7 @@ title: MST reúne dezenas de amigos e amigas em Encontro Anual
 support_line: "Evento contou com a presença de políticos, professores e integrantes de movimentos populares."
 menu: projeto popular
 images_hd: //farm5.staticflickr.com/4734/39101893232_e345ba3763_b.jpg
-section: cover
+section: featured-news
 layout: post
 files:
   - link: //farm5.staticflickr.com/4682/38251564095_92aa279e4b_b.jpg
