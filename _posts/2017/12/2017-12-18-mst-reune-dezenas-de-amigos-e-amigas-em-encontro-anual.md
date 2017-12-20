@@ -49,7 +49,7 @@ releated_posts:
 
 <p><em>Por Rute Pina<br />
 Da P&aacute;gina do MST<br />
-Fotos: Luara del Chavion</em></p>
+Fotos: Luara dal Chiavon</em></p>
 
 <p>&nbsp;</p>
 
