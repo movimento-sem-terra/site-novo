@@ -43,6 +43,9 @@ releated_posts:
 &quot;A tentativa de marcar em tempo recorde para o dia 24 de janeiro a data do julgamento em segunda inst&acirc;ncia do processo de Lula nada tem de legalidade. Trata-se de um puro ato de persegui&ccedil;&atilde;o da lideran&ccedil;a pol&iacute;tica mais popular do pa&iacute;s&quot;, diz o manifesto.</p>
 
 <p><br />
+<strong><a href="https://www.change.org/p/sociedade-brasileira-em-defesa-do-direito-de-lula-ser-candidato-presidente-do-brasil?recruiter=843995033&amp;utm_source=share_petition&amp;utm_medium=copylink&amp;utm_campaign=share_petition&amp;utm_term=share_twitter_responsive">Seu apoio &eacute; muito importante. Voc&ecirc; pode assinar o manifesto clicando aqui!</a></strong></p>
+
+<p><br />
 O documento surgiu como uma iniciativa do Projeto Brasil Na&ccedil;&atilde;o e conta mais de 300 assinaturas. O linguista e fil&oacute;sofo norte-americano Noam Chomsky, o cantor Chico Buarque, os economistas Luiz Carlos Bresser Pereira e Leda Paulani, o jurista F&aacute;bio Konder Comparato, os cientistas pol&iacute;ticos Luiz Felipe de Alencastro e Maria Victoria Benevides, o embaixador Celso Amorim, os escritores Raduan Nassar e Milton Hatoum, os jornalistas Hildegard Angel, Mino Carta, Franklin Martins e Fernando Moraes e o ativista social Jo&atilde;o Pedro Stedile est&atilde;o entre os signat&aacute;rios.</p>
 
 <p><br />
