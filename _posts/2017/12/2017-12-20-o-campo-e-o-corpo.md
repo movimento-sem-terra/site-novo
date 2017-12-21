@@ -1,5 +1,5 @@
 ---
-date: "2017-12-20T20:03:07-03:00"
+date: "2017-12-20T21:03:07-02:00"
 tags:
   - tag: enff
   - tag: cultura
@@ -48,7 +48,7 @@ Da P&aacute;gina do MST</em></p>
 A visceralidade do j&aacute; conhecido timbre de voz do cantor pernambucano agrega sentido e emo&ccedil;&atilde;o &agrave; letra forte que remete a um ritual, segundo o parceiro de Lira na composi&ccedil;&atilde;o e grava&ccedil;&atilde;o da m&uacute;sica, o mineiro de Belo Horizonte, Dan Maia. &ldquo;Transportamos para o arranjo a ideia do corpo como campo, como se estiv&eacute;ssemos em um &lsquo;tor&eacute;&rsquo; ind&iacute;gena, um ritual sagrado que baliza as diferen&ccedil;as, ao mesmo tempo em que celebra a amizade e o sentimento de coletividade&rdquo;, afirma. &ldquo;O desafio de produzir com Lira &eacute; alcan&ccedil;ar com timbres e m&uacute;sica o estado febril que ele atinge ao colocar uma ideia&rdquo;, destaca.</p>
 
 <p><br />
-Cada detalhe da can&ccedil;&atilde;o foi pensado evocar, segundo Maia, o jogo, e tudo o que ele representa. &ldquo;Tem as cordas de um piano, tocadas com baquetas e um r&aacute;dio sendo sintonizado, remetendo ao est&aacute;dio, ao jogo &lsquo;oficial&rsquo;. Acho que assim evocamos &lsquo;todos os campos&rsquo; e &lsquo;todos os corpos&rsquo;, e indo al&eacute;m, &lsquo;todas as lutas&rsquo;, &lsquo;onde balan&ccedil;a a esperan&ccedil;a, eterna dan&ccedil;a, jogo sem fim&rsquo;&rdquo;, completa, citando versos da m&uacute;sica.</p>
+Cada detalhe da can&ccedil;&atilde;o foi pensado para evocar, segundo Maia, o jogo, e tudo o que ele representa. &ldquo;Tem as cordas de um piano, tocadas com baquetas e um r&aacute;dio sendo sintonizado, remetendo ao est&aacute;dio, ao jogo &lsquo;oficial&rsquo;. Acho que assim evocamos &lsquo;todos os campos&rsquo; e &lsquo;todos os corpos&rsquo;, e indo al&eacute;m, &lsquo;todas as lutas&rsquo;, &lsquo;onde balan&ccedil;a a esperan&ccedil;a, eterna dan&ccedil;a, jogo sem fim&rsquo;&rdquo;, completa, citando versos da m&uacute;sica.</p>
 
 <p><br />
 Um jogo de lutas, como as travadas pelos trabalhadores e trabalhadoras Sem Terra na constru&ccedil;&atilde;o de um novo projeto de pa&iacute;s que, para Lira, passa pela tarefa de jogar luz sobre as hist&oacute;rias perdidas de grandes brasileiros e brasileiras, como S&oacute;crates.</p>
