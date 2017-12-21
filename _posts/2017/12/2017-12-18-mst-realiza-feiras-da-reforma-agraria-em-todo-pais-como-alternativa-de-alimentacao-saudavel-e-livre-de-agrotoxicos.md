@@ -84,6 +84,7 @@ releated_posts:
   - _posts/2017/11/2017-11-25-arte-e-cultura-caminham-lado-a-lado-com-a-producao-de-alimentos-saudaveis.md
   - _posts/2017/11/2017-11-21-sem-terra-organiza-ampliacao-de-acampamento-agroecologico-no-vale-do-paraiba.md
   - _posts/2017/11/2017-11-24-feira-da-reforma-agraria-ocupa-o-centro-do-campo-grande-com-alimentos-saudaveis.md
+section: cover
 
 ---
 <div>
