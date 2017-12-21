@@ -59,6 +59,9 @@ Um jogo de lutas, como as travadas pelos trabalhadores e trabalhadoras Sem Terra
 <p><br />
 &ldquo;Eu tenho um profundo respeito e admira&ccedil;&atilde;o pelas a&ccedil;&otilde;es do MST e por esse trabalho de iluminar a nossa mem&oacute;ria. A inaugura&ccedil;&atilde;o do campo &eacute; uma celebra&ccedil;&atilde;o &agrave; mem&oacute;ria do Dr. S&oacute;crates, que &eacute; um personagem brasileiro que entendeu a m&iacute;stica do futebol na vida coletiva do nosso pa&iacute;s e fez da sua presen&ccedil;a nesse espa&ccedil;o uma trincheira de luta pela democracia, por um mundo mais solid&aacute;rio&rdquo;, argumenta Lira, com palavras carregadas de poesia.</p>
 
+<p><br />
+A inaugura&ccedil;&atilde;o do Campo Dr. S&oacute;crates Brasileiro acontece no s&aacute;bado (23) na Escola Nacional Florest&aacute;n Fernandes e contar&aacute; com a presen&ccedil;a de artistas, intelectuais e pol&iacute;ticos convidados, entre eles, Chico Buarque e o ex-presidente Lula. O jogo inaugural do campo, marcado para as 13:30, hor&aacute;rio local, ser&aacute; transmitido ao vivo pela R&aacute;dio Brasil em Movimento.</p>
+
 <p style="text-align: center;"><br />
 <strong>O campo &eacute; o corpo</strong><br />
 <em>(Lira / Dan Maia)</em></p>
