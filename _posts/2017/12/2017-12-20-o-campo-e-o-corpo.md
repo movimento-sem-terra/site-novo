@@ -62,8 +62,14 @@ Um jogo de lutas, como as travadas pelos trabalhadores e trabalhadoras Sem Terra
 <p><br />
 A inaugura&ccedil;&atilde;o do Campo Dr. S&oacute;crates Brasileiro acontece no s&aacute;bado (23) na Escola Nacional Florest&aacute;n Fernandes e contar&aacute; com a presen&ccedil;a de artistas, intelectuais e pol&iacute;ticos convidados, entre eles, Chico Buarque e o ex-presidente Lula. O jogo inaugural do campo, marcado para as 13:30, hor&aacute;rio local, ser&aacute; transmitido ao vivo pela R&aacute;dio Brasil em Movimento.</p>
 
+<p>&nbsp;</p>
+
+<p style="text-align: center;"><iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/TVQ_N2IJ-jA" width="640"></iframe></p>
+
 <p style="text-align: center;"><br />
-<strong>O campo &eacute; o corpo</strong><br />
+&nbsp;</p>
+
+<p style="text-align: center;"><strong>O campo &eacute; o corpo</strong><br />
 <em>(Lira / Dan Maia)</em></p>
 
 <p style="text-align: center;"><br />
