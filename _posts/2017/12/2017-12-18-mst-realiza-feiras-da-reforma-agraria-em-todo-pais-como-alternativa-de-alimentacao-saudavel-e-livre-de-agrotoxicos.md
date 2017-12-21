@@ -5,8 +5,8 @@ tags:
   - tag: agroecologia
   - tag: produção
   - tag: reforma-agrária
-support_line: "Ao todo, em 2017, 22 estados receberam feiras estaduais ou regionais"
-title: MST realiza Feiras da Reforma Agrária em todo país como alternativa de alimentação saudável e livre de agrotóxicos
+support_line: "Em 2017, 22 estados receberam feiras estaduais ou regionais, além da Feira Nacional que ocorreu em São Paulo no mês de maio. "
+title: "Feiras da Reforma Agrária: alimentação saudável com o selo do MST"
 menu: reforma agrária
 sector: production
 images_hd: //farm5.staticflickr.com/4690/39136473071_6acf755dfe_b.jpg
@@ -69,7 +69,7 @@ files:
     title: 34307618392_f3d9241740_o.jpg
     $$hashKey: 07E
 created_date: "2017-12-18T14:36:24-02:00"
-published: false
+published: true
 releated_posts:
   - _posts/2017/08/2017-08-23-mst-comercializa-seis-toneladas-de-alimentos-em-itaberaba-na-chapada-diamantina.md
   - _posts/2017/05/2017-05-03-superar-o-modelo-do-agronegocio-e-possivel-e-necessario.md
@@ -101,16 +101,17 @@ Da P&aacute;gina do MST</em></div>
 
 <div>&nbsp;</div>
 
-<div>Uma das principais contribui&ccedil;&otilde;es do MST para a sociedade brasileira &eacute; cumprir com o compromisso em produzir alimentos saud&aacute;veis para a popula&ccedil;&atilde;o.&nbsp;</div>
+<div>Uma das principais contribui&ccedil;&otilde;es do MST para a sociedade brasileira &eacute; cumprir com o compromisso de produzir alimentos saud&aacute;veis para a popula&ccedil;&atilde;o.&nbsp;</div>
 
 <div><br />
-Fruto da organiza&ccedil;&atilde;o de cooperativas, associa&ccedil;&otilde;es e agroind&uacute;strias nos assentamentos, as Feiras da Reforma Agr&aacute;ria se transformaram na materializa&ccedil;&atilde;o dessa produ&ccedil;&atilde;o.&nbsp;</div>
+Fruto da organiza&ccedil;&atilde;o de cooperativas, associa&ccedil;&otilde;es e agroind&uacute;strias constru&iacute;das nos assentamentos, as Feiras da Reforma Agr&aacute;ria se transformaram na materializa&ccedil;&atilde;o da luta do povo Sem Terra.&nbsp;</div>
 
 <div><br />
-Em 2017 as Feiras se espalharam por todo o pa&iacute;s levando o melhor da produ&ccedil;&atilde;o agroecol&oacute;gica, aproximando campo e cidade e mostrando que uma alimenta&ccedil;&atilde;o saud&aacute;vel, livre de agrot&oacute;xicos e fruto da Reforma Agr&aacute;ria Popular pode e deve estar presente nas mesas de todos.&nbsp;</div>
+Em 2017, as feiras se espalharam por todo o pa&iacute;s levando o melhor da produ&ccedil;&atilde;o agroecol&oacute;gica, aproximando campo e cidade e mostrando que uma alimenta&ccedil;&atilde;o saud&aacute;vel, livre de agrot&oacute;xicos e fruto da Reforma Agr&aacute;ria Popular pode e deve estar presente nas mesas de todos os brasileiros e brasileiras.&nbsp;</div>
 
 <div><br />
-Ao todo 22 estados receberam feiras estaduais ou regionais. Na cidade de S&atilde;o Paulo foi realizada pelo segundo ano a <a href="http://www.mst.org.br/II-feira-nacional-da-reforma-agraria/">Feira Nacional da Reforma Agr&aacute;ria</a> evento que j&aacute; se consolidou como a maior feira de produtos agroecol&oacute;gicos do estado e que segue j&aacute; com data marcada para 2018.&nbsp;</div>
+Ao todo, 22 estados receberam feiras estaduais ou regionais. Na cidade de S&atilde;o Paulo foi realizada pelo segundo ano a <a href="http://www.mst.org.br/II-feira-nacional-da-reforma-agraria/">Feira Nacional da Reforma Agr&aacute;ria</a> evento que j&aacute; se consolidou como a maior feira de produtos agroecol&oacute;gicos do estado e que j&aacute; tem data marcada para 2018.&nbsp;<br />
+&nbsp;</div>
 
 <div>
 <div style="text-align:center">
@@ -119,25 +120,25 @@ Ao todo 22 estados receberam feiras estaduais ou regionais. Na cidade de S&atild
 </figure>
 </div>
 <br />
-Para D&eacute;bora Nunes, do setor de produ&ccedil;&atilde;o do Movimento; as feiras s&atilde;o resultado de um processo organizativo do</div>
-
-<div>MST, mas, tamb&eacute;m s&atilde;o um tra&ccedil;o muito forte da cultura do povo Sem Terra.</div>
+Para D&eacute;bora Nunes, do setor de produ&ccedil;&atilde;o do movimento, as feiras s&atilde;o resultado de um processo organizativo do MST, mas, tamb&eacute;m s&atilde;o um tra&ccedil;o muito forte da cultura do povo Sem Terra.</div>
 
 <div><br />
 &ldquo;Al&eacute;m da comercializa&ccedil;&atilde;o, as feiras possibilitam trazer outro aspecto do que existe nos assentamentos, nos acampamentos e na luta pela Reforma Agr&aacute;ria como um todo. Isso implica na comercializa&ccedil;&atilde;o da produ&ccedil;&atilde;o, mas tamb&eacute;m na educa&ccedil;&atilde;o, na sa&uacute;de, na cultura que produzimos nos nossos assentamentos. Por isso, as feiras s&atilde;o uma express&atilde;o da diversidade dos sujeitos que comp&otilde;em o cotidiano Sem Terra em cada canto do pa&iacute;s&rdquo;, afirma.&nbsp;</div>
 
 <div><br />
-S&atilde;o cerca de 100 cooperativas, 96 agroind&uacute;strias e 1,9 mil associa&ccedil;&otilde;es que concentram a produ&ccedil;&atilde;o do MST. A &uacute;ltima Feira Nacional realizada de 4 a 7 de maio na cidade de S&atilde;o Paulo recebeu 170 mil pessoas, mais de 280 toneladas de produtos vindos dos acampamentos e assentamentos de todas as regi&otilde;es do pa&iacute;s. Entre alimentos in natura e agroindustrializados, foram mais de 600 itens que trouxeram para a maior capital do pa&iacute;s, uma mostra da diversidade e riqueza da vida no campo.</div>
+S&atilde;o cerca de 100 cooperativas, 96 agroind&uacute;strias e 1,9 mil associa&ccedil;&otilde;es que concentram a produ&ccedil;&atilde;o do MST. A &uacute;ltima Feira Nacional, realizada de 4 a 7 de maio na cidade de S&atilde;o Paulo, recebeu 170 mil pessoas. Mais de 280 toneladas de produtos vindos dos acampamentos e assentamentos de todas as regi&otilde;es do pa&iacute;s foram comercializados. Entre alimentos in natura e agroindustrializados, mais de 600 itens foram trazidos pelos trabalhadores Sem Terra de todo o Brasil para a maior capital do pa&iacute;s. Uma mostra da diversidade e riqueza da vida no campo.<br />
+&nbsp;</div>
 
 <div>
 <figure class="image" style="float:left"><img alt="34307618392_f3d9241740_o.jpg" height="199" src="//farm5.staticflickr.com/4638/24276675837_3104da3575_b.jpg" width="300" />
 <figcaption></figcaption>
 </figure>
 <br />
-J&aacute; em Macei&oacute; foram cerca de 200 camponeses e camponesas de todas as regi&otilde;es de Alagoas na 18&ordf; Feira da Reforma Agr&aacute;ria realizada em setembro, por onde passaram 50 mil pessoas na Pra&ccedil;a da Faculdade e foram comercializados 458 toneladas de alimentos saud&aacute;veis.</div>
+J&aacute; em Macei&oacute;, foram cerca de 200 camponeses e camponesas de todas as regi&otilde;es de Alagoas na 18&ordf; Feira da Reforma Agr&aacute;ria, realizada em setembro, por onde passaram 50 mil pessoas na Pra&ccedil;a da Faculdade e foram comercializados 458 toneladas de alimentos saud&aacute;veis.</div>
 
 <div><br />
-Em Salvador foram mais de 80 toneladas de alimentos vendidos para cerca de 30 mil trabalhadores soteropolitanos, que levaram para casa uma diversidade de alimentos saud&aacute;veis durante a 3&ordm; Feira Estadual da Reforma Agr&aacute;ria que aconteceu em junho.&nbsp;</div>
+Em Salvador, foram mais de 80 toneladas de alimentos vendidos para cerca de 30 mil trabalhadores soteropolitanos, que levaram para casa uma diversidade de alimentos saud&aacute;veis durante a 3&ordm; Feira Estadual da Reforma Agr&aacute;ria, realizada em junho.&nbsp;<br />
+&nbsp;</div>
 
 <div>
 <div style="text-align:center">
@@ -146,7 +147,7 @@ Em Salvador foram mais de 80 toneladas de alimentos vendidos para cerca de 30 mi
 </figure>
 </div>
 <br />
-Abaixo confira a lista dos estados que realizam feiras estaduais e regionais:</div>
+Confira abaixo a lista dos estados que realizam feiras estaduais e regionais:</div>
 
 <div>&nbsp;</div>
 
