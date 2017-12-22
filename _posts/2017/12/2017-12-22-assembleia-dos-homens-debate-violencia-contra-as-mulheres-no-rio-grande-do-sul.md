@@ -4,7 +4,7 @@ tags:
   - tag: violência
   - tag: lutas-e-mobilizações
   - tag: debate
-title: Assembleia dos homens debate violência contra as mulheres no Rio Grande do Sul
+title: Assembleia debate violência contra as mulheres no Rio Grande do Sul
 support_line: "Iniciativa foi realizada durante o 18º Encontro Estadual do MST, na antiga fazenda Annoni"
 menu: "educação, cultura e comunicação"
 images_hd: //farm5.staticflickr.com/4692/39192490912_6121ddbbaa_b.jpg
