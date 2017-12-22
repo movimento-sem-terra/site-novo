@@ -55,7 +55,7 @@ Eles assistiram a v&iacute;deocr&ocirc;nica &ldquo;S&ocirc; isso n&atilde;o, don
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Foto Letícia Stasiak.jpg" height="467" src="//farm5.staticflickr.com/4735/39220405811_f1747559a7_b.jpg" width="700" />
-<figcaption>Let&iacute;cia Stasiak</figcaption>
+<figcaption>Foto Let&iacute;cia Stasiak</figcaption>
 </figure>
 </div>
 
