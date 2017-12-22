@@ -45,14 +45,14 @@ releated_posts:
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2017-12-20 at 19.13.05.jpg" height="466" src="//farm5.staticflickr.com/4737/38325723665_5824bfdc6b_b.jpg" width="700" />
-<figcaption></figcaption>
+<figcaption>Registro: Thiarles Fran&ccedil;a</figcaption>
 </figure>
 </div>
 
 <p>&nbsp;</p>
 
-<p><em>Por Wellington Leno<br />
-Da P&aacute;gina do MST</em></p>
+<p><em>Por </em>Juliana Cristina&nbsp;<br />
+<em>Da P&aacute;gina do MST</em></p>
 
 <p style="box-sizing: inherit; margin: 0px 0px 11px; font-size: 1.1em; color: rgb(85, 85, 85); font-family: &quot;Exo 2&quot;, Helvetica, Arial, sans-serif;">&nbsp;</p>
 
@@ -77,7 +77,7 @@ A Escola tem como principal objetivo intensificar e qualificar o processo de ins
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2017-12-20 at 20.26.33.jpeg" height="394" src="//farm5.staticflickr.com/4646/24341217457_c082968abb_b.jpg" width="700" />
-<figcaption></figcaption>
+<figcaption>Registro: Thiarles Fran&ccedil;a</figcaption>
 </figure>
 </div>
 
