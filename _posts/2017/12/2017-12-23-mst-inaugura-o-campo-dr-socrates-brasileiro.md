@@ -5,7 +5,7 @@ tags:
   - tag: enff
   - tag: reforma-agrária
 support_line: "Direto da Escola Nacional Florestan Fernandes, em Guararema (SP)."
-title: Acompanhe em tempo real a inaugura do campo Dr. Sócrates
+title: Acompanhe em tempo real a inauguração do campo Dr. Sócrates
 menu: "educação, cultura e comunicação"
 images_hd: //farm5.staticflickr.com/4640/39211589532_927df3b94c_b.jpg
 section: cover
