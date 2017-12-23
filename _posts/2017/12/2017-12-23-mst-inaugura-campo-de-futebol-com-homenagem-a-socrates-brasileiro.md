@@ -111,8 +111,7 @@ J&aacute; Khalillou aben&ccedil;oou todos os povos que passam pela ENFF para os 
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="b7f4354d-d14e-4362-8db5-dc96df8c41d5.jpeg" height="466" src="//farm5.staticflickr.com/4691/27468074099_3008d3a064_b.jpg" width="700" />
-<figcaption><em>Mulheres do time do MST tiveram participa&ccedil;&atilde;o determinante no jogo de estreia do campo Dr. S&oacute;crates Brasileiro.&nbsp;<br />
-Foto: J&uacute;lia Dolce</em></figcaption>
+<figcaption><em>Mulheres do time do MST tiveram participa&ccedil;&atilde;o determinante no jogo de estreia do campo Dr. S&oacute;crates Brasileiro.&nbsp;Foto: J&uacute;lia Dolce</em></figcaption>
 </figure>
 </div>
 
