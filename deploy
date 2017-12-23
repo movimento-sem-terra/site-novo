@@ -45,7 +45,7 @@ function deploy {
     git commit -m "Deployed from master: $MASTER_HEAD_SHA"
 
     echo "Pushing code to branch gh-pages..."
-    git push origin gh-pages
+    git push origin gh-pages -f
   popd
 }
 
