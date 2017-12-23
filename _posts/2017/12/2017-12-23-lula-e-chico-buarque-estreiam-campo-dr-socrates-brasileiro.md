@@ -39,6 +39,13 @@ files:
     small: //farm5.staticflickr.com/4591/39245655181_ef785284f6_n.jpg
     title: Trabalhares Sem Terra participam da construção do Campo Dr. Sócrates Brasileiro - Foto - Pablo Vergara.jpeg
     $$hashKey: 06A
+  - link: //farm5.staticflickr.com/4727/39217511642_d59697c201_b.jpg
+    original: //farm5.staticflickr.com/4727/39217511642_54fa965cea_o.jpg
+    thumbnail: //farm5.staticflickr.com/4727/39217511642_d59697c201_t.jpg
+    medium: //farm5.staticflickr.com/4727/39217511642_d59697c201_z.jpg
+    small: //farm5.staticflickr.com/4727/39217511642_d59697c201_n.jpg
+    title: Foto Pedro Biava 7.jpg
+    $$hashKey: 0CG
 created_date: "2017-12-23T18:23:37-02:00"
 published: true
 releated_posts:
@@ -50,9 +57,14 @@ releated_posts:
 ---
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="Foto Pedro Biava 7.jpg" height="467" src="//farm5.staticflickr.com/4727/39217511642_d59697c201_b.jpg" width="700" />
+<figcaption><em>Lula e Chico em campo no jogo de inaugura&ccedil;&atilde;o. Foto: Pedro Biava</em></figcaption>
+</figure>
+</div>
 
-<p><em>Por Leonardo Fernandes<br />
+<p><br />
+<em>Por Leonardo Fernandes<br />
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
@@ -118,7 +130,7 @@ Todo o jogo foi transmitido ao vivo pela R&aacute;dio Brasil em Movimento. Em se
 Magr&atilde;o para os mais &iacute;ntimos, o Dr. S&oacute;crates, m&eacute;dico de forma&ccedil;&atilde;o, fez pol&iacute;tica com a bola no p&eacute;. Pode parecer confuso, mas o fundador da Democracia Corinthiana foi muito mais do que um jogador de futebol. Apesar de ser um militante das causas populares, se recusava a entrar na pol&iacute;tica, alegando ter um &lsquo;mandato mais interessante: ser um porta-voz do povo&rsquo;.</p>
 
 <figure class="image" style="float:left"><img alt="25994539_1856080047798034_5526241317603880803_n.jpg" height="300" src="//farm5.staticflickr.com/4682/39245652791_69d40793e7_b.jpg" width="450" />
-<figcaption><em>Foto: Joka Madruga</em></figcaption>
+<figcaption><em>Bandeir&atilde;o em homenagem &agrave; S&oacute;crates. Foto: Joka Madruga</em></figcaption>
 </figure>
 
 <p><br />
