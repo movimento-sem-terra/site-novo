@@ -19,4 +19,4 @@ releated_posts:
   - _posts/2017/12/2017-12-23-mst-inaugura-o-campo-dr-socrates-brasileiro.md
 
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yhy0g-yfpy8" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<p><iframe allow="encrypted-media" allowfullscreen="" frameborder="0" gesture="media" height="315" src="https://www.youtube.com/embed/yhy0g-yfpy8" width="560"></iframe></p>
