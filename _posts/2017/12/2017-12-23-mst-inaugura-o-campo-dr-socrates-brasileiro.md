@@ -4,8 +4,8 @@ tags:
   - tag: futebol
   - tag: enff
   - tag: reforma-agrária
-support_line: "Acompanhe em tempo real direto da Escola Nacional Florestan Fernandes, em Guararema (SP)."
-title: MST inaugura o campo Dr. Sócrates brasileiro
+support_line: "Direto da Escola Nacional Florestan Fernandes, em Guararema (SP)."
+title: Acompanhe em tempo real a inaugura do campo Dr. Sócrates
 menu: "educação, cultura e comunicação"
 images_hd: //farm5.staticflickr.com/4640/39211589532_927df3b94c_b.jpg
 section: cover
@@ -26,4 +26,4 @@ releated_posts:
   - _posts/2017/11/2017-11-16-hulha-negra-sedia-fase-final-do-9o-campeonato-da-reforma-agraria-no-rio-grande-do-sul.md
 
 ---
-<a class="twitter-timeline" data-partner="tweetdeck" href="https://twitter.com/Brasil_de_Fato/timelines/944554813777473536?ref_src=twsrc%5Etfw">#CampoDrSócrates - Curated tweets by Brasil_de_Fato</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<p><a class="twitter-timeline" data-partner="tweetdeck" href="https://twitter.com/Brasil_de_Fato/timelines/944554813777473536?ref_src=twsrc%5Etfw">#CampoDrS&oacute;crates - Curated tweets by Brasil_de_Fato</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
