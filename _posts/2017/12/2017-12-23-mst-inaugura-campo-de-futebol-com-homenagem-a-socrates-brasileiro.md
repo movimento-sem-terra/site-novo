@@ -76,7 +76,8 @@ A atividade reuniu um dos maiores p&uacute;blicos da ENFF desde sua funda&ccedil
 Antes do jogo de estreia do campo, Chico Buarque recebeu o pr&ecirc;mio Democracia e Liberdade Sempre, da Central &Uacute;nica dos Trabalhadores (CUT), na categoria Personalidade de Destaque na Luta por Democracia, Cidadania e Direitos Humanos.&nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="25552229_1856015751137797_893331011874769517_n.jpg" height="300" src="//farm5.staticflickr.com/4641/24381436007_4477c70de7_b.jpg" width="450" />
-<figcaption><em>Chico Buarque recebendo a homenagem da CUT.&nbsp;Foto: Francisco Proner</em></figcaption>
+<figcaption><em>Chico Buarque recebendo a homenagem da CUT.&nbsp;<br />
+Foto: Francisco Proner</em></figcaption>
 </figure>
 
 <p><br />
