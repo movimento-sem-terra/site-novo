@@ -149,8 +149,8 @@ Diferente do desfecho da m&uacute;sica do ex&iacute;mio futebolista, Chico Buarq
 &ldquo;A homenagem ao Dr. S&oacute;crates Brasileiro vem ao encontro do legado hist&oacute;rico que ele deixou para o povo brasileiro, transformando uma paix&atilde;o nacional, o futebol, em algo mais que uma partida, mas na possibilidade de atrav&eacute;s dela, refletir quest&otilde;es sociais e pol&iacute;ticas que se inserem no contexto brasileiro&rdquo;, ressalta Rosana Fernandes, coordenadora pedag&oacute;gica da ENFF.</p>
 
 <figure class="image" style="float:right"><img alt="Trabalhares Sem Terra participam da construção do Campo Dr. Sócrates Brasileiro - Foto - Pablo Vergara.jpeg" height="300" src="//farm5.staticflickr.com/4591/39245655181_ef785284f6_b.jpg" width="450" />
-<figcaption><em>Sem Terra participam da constru&ccedil;&atilde;o do Campo Dr. S&oacute;crates Brasileiro.<br />
-Foto: Pablo Vergara</em></figcaption>
+<figcaption><em>Sem Terra participam da constru&ccedil;&atilde;o do Campo Dr. S&oacute;crates<br />
+Brasileiro. Foto: Pablo Vergara</em></figcaption>
 </figure>
 
 <p><br />
