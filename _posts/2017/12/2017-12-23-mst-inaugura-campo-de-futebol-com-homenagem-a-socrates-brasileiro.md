@@ -99,7 +99,7 @@ Chico lembrou que <a href="https://www.youtube.com/watch?v=R9bxAbNCMVU">particip
 Os times entraram em campo ao som da <a href="http://www.mst.org.br/2017/12/20/o-campo-e-o-corpo.html">musica que o cantor pernambucano Lirinha comp&ocirc;s para a inaugura&ccedil;&atilde;o</a>.&nbsp;</p>
 
 <p><br />
-Antes das partidas, o local recebeu a ben&ccedil;&atilde;o ecumusica que o cantor pernambucano Lirinha comp&ocirc;s para a inaugura&ccedil;&atilde;om&ecirc;nica de Frei Betto,&nbsp; o ob&aacute; Fabr&iacute;cio, o pastor Ariovaldo Ramos e o sheik Hussein Khalillou.</p>
+Antes das partidas, o local recebeu a ben&ccedil;&atilde;o ecum&ecirc;nica de Frei Betto,&nbsp; o ob&aacute; Fabr&iacute;cio, o pastor Ariovaldo Ramos e o sheik Hussein Khalillou.</p>
 
 <p><br />
 &quot;Em nome de Deus, que aben&ccedil;oa este campo, eu quero dizer que, fora Temer, s&atilde;o todos bem-vindos&quot;, disse Betto.&nbsp;</p>
