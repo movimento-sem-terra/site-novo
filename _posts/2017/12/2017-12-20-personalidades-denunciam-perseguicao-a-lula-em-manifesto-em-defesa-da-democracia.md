@@ -7,7 +7,7 @@ tags:
   - tag: rio-grande-do-sul
 title: Personalidades denunciam perseguição a Lula em manifesto em defesa da democracia
 support_line: "Mais de 400 pessoas já assinaram o manifesto. Assine também!"
-section: cover
+section: featured-news
 menu: direitos humanos
 images_hd: //farm5.staticflickr.com/4690/39149419192_daab12c9d8_b.jpg
 layout: post
