@@ -118,7 +118,7 @@ A partida de inaugura&ccedil;&atilde;o teve torcida com casa cheia. As cerca de 
 &ldquo;Eu vou apitar o jogo hoje e quero dizer que deixo de ser Juca Kfouri para virar o juiz Juca Moro. E j&aacute; adverti Lula com cart&atilde;o amarelo antes mesmo do jogo come&ccedil;ar&rdquo;, brincou Kfouri antes de apitar o come&ccedil;o da partida.</p>
 
 <p><br />
-O time dos Amigos do Chico abriu uma vantagem de quatro gols contra o time do MS no primeiro tempo. Mas no segundo tempo o time do MST recuperou a desvantagem, e empatou o jogo, que terminou em 5 a 5.</p>
+O time dos Amigos do Chico abriu uma vantagem de quatro gols contra o time do MST no primeiro tempo. Mas no segundo tempo o time do MST recuperou a desvantagem, e empatou o jogo, que terminou em 5 a 5.</p>
 
 <p><br />
 Todo o jogo foi transmitido ao vivo pela R&aacute;dio Brasil em Movimento. Em seguida, outros times entraram em campo deixando a Escola Nacional Florest&aacute;n Fernandes em clima de campeonato. Terminadas as partidas, n&atilde;o podia faltar muito &lsquo;samba e amor&rsquo; para celebrar o esporte, a cultura e a luta do povo Sem Terra, que produziu mais essa conquista.</p>
