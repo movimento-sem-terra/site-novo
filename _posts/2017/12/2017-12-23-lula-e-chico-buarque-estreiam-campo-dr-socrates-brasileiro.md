@@ -4,7 +4,7 @@ tags:
   - tag: futebol
   - tag: enff
   - tag: reforma-agrária
-title: Lula e Chico Buarque estreiam Campo Dr. Sócrates Brasileiro
+title: Lula e Chico Buarque estreiam campo Dr. Sócrates brasileiro
 support_line: "Jogo de inauguração do campo entre os times Amigos do Chico e MST ocorreu neste sábado (23), na Escola Nacional Florestán Fernandes (ENFF), em Guararema, São Paulo."
 menu: reforma agrária
 section: cover
