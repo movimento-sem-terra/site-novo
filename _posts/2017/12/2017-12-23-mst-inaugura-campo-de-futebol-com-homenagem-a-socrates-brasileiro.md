@@ -18,13 +18,6 @@ files:
     small: //farm5.staticflickr.com/4735/39215395492_bc35169cef_n.jpg
     title: 0ecf5b36-5818-48dc-a56c-21caaf2590af.jpeg
     $$hashKey: 05W
-  - link: //farm5.staticflickr.com/4640/39243420621_8c19785979_b.jpg
-    original: //farm5.staticflickr.com/4640/39243420621_c9e4b36d34_o.jpg
-    thumbnail: //farm5.staticflickr.com/4640/39243420621_8c19785979_t.jpg
-    medium: //farm5.staticflickr.com/4640/39243420621_8c19785979_z.jpg
-    small: //farm5.staticflickr.com/4640/39243420621_8c19785979_n.jpg
-    title: DRvzVORWkAEzjOO.jpg
-    $$hashKey: 05Z
   - link: //farm5.staticflickr.com/4691/27468074099_3008d3a064_b.jpg
     original: //farm5.staticflickr.com/4691/27468074099_9e97097245_o.jpg
     thumbnail: //farm5.staticflickr.com/4691/27468074099_3008d3a064_t.jpg
@@ -113,6 +106,15 @@ Antes das partidas, o local recebeu a ben&ccedil;&atilde;o ecumusica que o canto
 <p><br />
 J&aacute; Khalillou aben&ccedil;oou todos os povos que passam pela ENFF para os cursos e atividades de forma&ccedil;&atilde;o: &quot;Esse grande espa&ccedil;o &eacute; um lugar que vai levar, com certeza , o conhecimento para os irm&atilde;os que querem se esfor&ccedil;ar para mudar a situa&ccedil;&atilde;o deste pa&iacute;s&quot;.</p>
 
+<p>&nbsp;</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="b7f4354d-d14e-4362-8db5-dc96df8c41d5.jpeg" height="466" src="//farm5.staticflickr.com/4691/27468074099_3008d3a064_b.jpg" width="700" />
+<figcaption><em>Mulheres do time do MST tiveram participa&ccedil;&atilde;o determinante no jogo de estreia do campo Dr. S&oacute;crates Brasileiro.&nbsp;<br />
+Foto: J&uacute;lia Dolce</em></figcaption>
+</figure>
+</div>
+
 <p><br />
 <strong>&Iacute;dolo do futebol</strong></p>
 
@@ -137,6 +139,10 @@ O coordenador nacional do MST Jo&atilde;o Pedro Stedile defendeu que a inaugura&
 <p><br />
 &quot;O futebol faz parte da nossa vida, faz parte da pol&iacute;tica, faz parte das nossas fam&iacute;lias e sentimos quando n&oacute;s se entusiasmamos com os nossos times, sofremos e ficamos alegres e por isso que o futebol tem tudo a ver com a nossa escola.&quot;&nbsp;</p>
 
+<figure class="image" style="float:right"><img alt="25593840_1855974901141882_1095615374417044977_n.jpg" height="300" src="//farm5.staticflickr.com/4598/24381441127_eba0b67567_b.jpg" width="450" />
+<figcaption><em>Foto: Pablo Vergara</em></figcaption>
+</figure>
+
 <p><br />
 Stedile ressaltou tamb&eacute;m a import&acirc;ncia da solidariedade de amigos do Movimento para a constru&ccedil;&atilde;o do campo.</p>
 
@@ -144,7 +150,7 @@ Stedile ressaltou tamb&eacute;m a import&acirc;ncia da solidariedade de amigos d
 &quot;A escola &eacute; fruto da solidariedade internacional e de todo povo brasileiro. N&oacute;s come&ccedil;amos a construir em fun&ccedil;&atilde;o do apoio que recebemos do Chico Buarque, Jos&eacute; Saramago e do Sebasti&atilde;o Salgado. E nesse mesmo esp&iacute;rito que n&oacute;s, devagarinho, fomos construindo a ideia de termos um campo de futebol.&quot;</p>
 
 <p><br />
-Voc&ecirc; pode mais detalhes da inaugura&ccedil;&atilde;o do campo Dr. S&oacute;crates Brasileiro na cobertura minuto a minuto no site mst.org.br.</p>
+Voc&ecirc; pode mais detalhes da inaugura&ccedil;&atilde;o do campo Dr. S&oacute;crates Brasileiro na cobertura minuto a minuto no site <a href="http://www.mst.org.br/">mst.org.br</a></p>
 
 <p><br />
 <em>*Editado por Iris Pacheco</em></p>
