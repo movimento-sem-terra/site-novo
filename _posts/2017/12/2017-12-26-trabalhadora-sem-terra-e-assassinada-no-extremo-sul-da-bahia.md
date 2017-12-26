@@ -6,7 +6,7 @@ tags:
   - tag: justiça
 title: "Trabalhadora Sem Terra é assassinada no extremo sul da Bahia\n\n\n"
 support_line: "Em repúdio ao crime as famílias acampadas trancaram a BR 367por quatro horas "
-images_hd: //farm5.staticflickr.com/4731/27536018669_c1d6bc044f_b.jpg
+images_hd: //farm5.staticflickr.com/4730/39284550082_2572fb717b_b.jpg
 menu: direitos humanos
 layout: post
 files:
@@ -17,6 +17,13 @@ files:
     small: //farm5.staticflickr.com/4731/27536018669_c1d6bc044f_n.jpg
     title: 4ac895a9-268f-469e-9d33-3b828733c944 2.jpg
     $$hashKey: "036"
+  - link: //farm5.staticflickr.com/4730/39284550082_2572fb717b_b.jpg
+    original: //farm5.staticflickr.com/4730/39284550082_52c6c3433b_o.jpg
+    thumbnail: //farm5.staticflickr.com/4730/39284550082_2572fb717b_t.jpg
+    medium: //farm5.staticflickr.com/4730/39284550082_2572fb717b_z.jpg
+    small: //farm5.staticflickr.com/4730/39284550082_2572fb717b_n.jpg
+    title: WhatsApp Image 2017-12-26 at 14.37.52.jpeg
+    $$hashKey: 0IM
 created_date: "2017-12-26T14:29:11-02:00"
 published: true
 releated_posts:
@@ -62,6 +69,12 @@ Os familiares de Damiana e a dire&ccedil;&atilde;o do MST na regi&atilde;o aguar
 <br />
 <br />
 As fam&iacute;lias acampadas ficaram revoltadas com o ocorrido e na manh&atilde; do s&aacute;bado (23) trancaram a BR por quatro horas e exigiram justi&ccedil;a. Na ocasi&atilde;o, cerca de 100 pessoas participaram da manifesta&ccedil;&atilde;o em den&uacute;ncia aos altos &iacute;ndices de viol&ecirc;ncia e a omiss&atilde;o da justi&ccedil;a e do Estado em d&aacute; respostas concretas.</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2017-12-26 at 14.37.52.jpeg" height="454" src="//farm5.staticflickr.com/4730/39284550082_2572fb717b_b.jpg" width="700" />
+<figcaption>Sem Terra trancaram a BR 367 por quatro horas em rep&uacute;dioa ao crime</figcaption>
+</figure>
+</div>
 
 <p><br />
 <strong>N&uacute;meros</strong></p>
