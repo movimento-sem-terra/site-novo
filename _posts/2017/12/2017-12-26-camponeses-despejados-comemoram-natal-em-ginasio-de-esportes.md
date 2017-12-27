@@ -35,6 +35,7 @@ releated_posts:
   - _posts/2017/11/2017-11-29-acampamento-marcelino-chiarello-sofre-despejo-em-santa-catarina.md
   - _posts/2017/11/2017-11-28-acampamento-marcelino-chiarello-pode-ser-despejado-a-qualquer-momento.md
   - _posts/2017/11/2017-11-28-pa-mais-de-700-familias-de-trabalhadores-rurais-ficam-sem-ter-para-onde-ir-apos-despejo.md
+section: featured-news
 
 ---
 <div dir="auto">&nbsp;</div>
