@@ -27,7 +27,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="27469745569_972fabeb49_z.jpg" height="525" src="//farm5.staticflickr.com/4590/25445104148_9bfcdac914_b.jpg" width="700" />
-<figcaption>Mulheres do MST ap&oacute;s o jogo de inaugura&ccedil;&atilde;o do campo Doutor S&oacute;crates Brasileiro em Guararema / Equipe Brasil de Fato</figcaption>
+<figcaption>Mulheres do MST ap&oacute;s o jogo de inaugura&ccedil;&atilde;o do campo Doutor S&oacute;crates Brasileiro em Guararema / Foto: Jade Percassi</figcaption>
 </figure>
 </div>
 
