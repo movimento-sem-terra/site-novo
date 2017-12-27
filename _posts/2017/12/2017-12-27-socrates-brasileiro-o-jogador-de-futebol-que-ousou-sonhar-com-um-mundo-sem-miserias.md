@@ -26,37 +26,17 @@ releated_posts:
 
 ---
 <blockquote><em>Por Norma Odara<br />
-Do Brasild e Fato</em></blockquote>
+Do Brasil de Fato</em></blockquote>
 
 <blockquote>
-<p style="text-align: center;">&nbsp;</p>
-
-<p style="text-align: center;">&nbsp;</p>
-
 <p style="text-align: center;">&quot;Com destino e eleg&acirc;ncia dan&ccedil;arino pensador&nbsp;</p>
-</blockquote>
 
-<blockquote style="text-align: center;">&nbsp;</blockquote>
-
-<blockquote>
 <p style="text-align: center;">S&oacute;cio da filosofia da cerveja e do suor&nbsp;</p>
-</blockquote>
 
-<blockquote style="text-align: center;">&nbsp;</blockquote>
-
-<blockquote>
 <p style="text-align: center;">Ao tocar de calcanhar o nosso fraco a nossa dor &nbsp;</p>
-</blockquote>
 
-<blockquote style="text-align: center;">&nbsp;</blockquote>
-
-<blockquote>
 <p style="text-align: center;">Viu um lance no vazio her&oacute;i civilizador&nbsp;</p>
-</blockquote>
 
-<blockquote style="text-align: center;">&nbsp;</blockquote>
-
-<blockquote>
 <p style="text-align: center;">O Doutor! &quot; &nbsp;</p>
 </blockquote>
 
@@ -68,15 +48,13 @@ Do Brasild e Fato</em></blockquote>
 Considerado um dos maiores jogadores brasileiros, S&oacute;crates iniciou sua carreira no futebol aos 17 anos, passando por times como o Botafogo de Ribeir&atilde;o Preto, Corinthians, Sele&ccedil;&atilde;o Brasileira, entre outros.&nbsp;</p>
 
 <p><br />
-<br />
 Famoso pelo &quot;chute de calcanhar&quot; que demonstrava toda a sua genialidade em campo, S&oacute;crates atuou pra al&eacute;m do futebol, como relembra o jornalista e amigo Juca Kfouri.</p>
 
 <p><br />
 &ldquo;Eu acho que &eacute; um legado de um jogador de futebol que foi muito mais do que um jogador de futebol. Um jogador de futebol que soube fazer da pr&aacute;tica, do of&iacute;cio dele, da miss&atilde;o dele como atleta muito mais do que isso. Como ser pol&iacute;tico, como algu&eacute;m participante da vida p&uacute;blica brasileira. Como algu&eacute;m que queria um Brasil mais justo, um Brasil menos desigual, um pa&iacute;s mais democr&aacute;tico, um Brasil sem fome, sem racismo, sem homofobia, mais tolerante, tudo aquilo que ele sempre encarnou&rdquo;.</p>
 
-<p>&nbsp;</p>
-
-<p>O MST construiu coletivamente um campo de futebol em homenagem ao legado de S&oacute;crates Brasileiro. O campo, localizado em Guararema, a 80 km de S&atilde;o Paulo, fica dentro da Escola Nacional Florestan Fernandes, espa&ccedil;o de forma&ccedil;&atilde;o pol&iacute;tica do movimento.&nbsp;</p>
+<p><br />
+O MST construiu coletivamente um campo de futebol em homenagem ao legado de S&oacute;crates Brasileiro. O campo, localizado em Guararema, a 80 km de S&atilde;o Paulo, fica dentro da Escola Nacional Florestan Fernandes, espa&ccedil;o de forma&ccedil;&atilde;o pol&iacute;tica do movimento.&nbsp;</p>
 
 <p><br />
 O jornalista Jos&eacute; Trajano fala sobre a homenagem a S&oacute;crates, com o campo de futebol do MST e a influ&ecirc;ncia dele para jogadores e toda popula&ccedil;&atilde;o brasileira: &ldquo;S&oacute; lembrar dele j&aacute; &eacute; um incentivo que as pessoas pensem e reflitam a import&acirc;ncia de um jogador de futebol sendo coerente, preocupado com a pol&iacute;tica, com a sociedade.&nbsp; Ent&atilde;o toda vez que o S&oacute;crates &eacute; lembrado e homenageado, &eacute; uma maneira de dar uma cutucada nos jogadores, para que se inspirem, se espelhem no S&oacute;crates&rdquo;, comenta, Trajano.</p>
@@ -85,7 +63,6 @@ O jornalista Jos&eacute; Trajano fala sobre a homenagem a S&oacute;crates, com o
 J&aacute; o jornalista Kfouri caracteriza a homenagem do MST muito mais importante do que qualquer outra, porque define a ideologia de S&oacute;crates, do que ele acreditava. Juca lamenta que o amigo n&atilde;o esteja presente para ver algo t&atilde;o significativo.</p>
 
 <p><br />
-<br />
 &ldquo;Tenho absoluta certeza de que uma homenagem como essa &eacute; muito mais coerente com o que o Magro sempre foi e o deixaria muito mais feliz do que se, por exemplo, resolvessem dar o nome do Maracan&atilde; ao nome dele, ou se resolvessem mudar o nome do Pacaembu pro nome dele, ou o est&aacute;dio do Corinthians, em Itaquera com o nome dele&rdquo;, diz Kfouri.</p>
 
 <p><br />
@@ -107,7 +84,8 @@ O jornalista Juca Kfouri, que na &eacute;poca trabalhava na revista Placar fala 
 </figure>
 </div>
 
-<p>Dr. S&oacute;crates faleceu em decorr&ecirc;ncia de uma infec&ccedil;&atilde;o generalizada, no dia em que seu time do cora&ccedil;&atilde;o, o Corinthians, conquistava o pentacampeonato brasileiro, em&nbsp;2011.</p>
+<p><br />
+Dr. S&oacute;crates faleceu em decorr&ecirc;ncia de uma infec&ccedil;&atilde;o generalizada, no dia em que seu time do cora&ccedil;&atilde;o, o Corinthians, conquistava o pentacampeonato brasileiro, em&nbsp;2011.</p>
 
 <p><br />
 Este grande &iacute;dolo do futebol nacional e internacional ser&aacute; homenageado no pr&oacute;ximo s&aacute;bado, na inaugura&ccedil;&atilde;o do campo Dr. S&oacute;crates Brasileiro, que ter&aacute; diversas partidas de futebol e a presen&ccedil;a de familiares de S&oacute;crates, da milit&acirc;ncia e lideran&ccedil;as do MST. O cantor Chico Buarque e o ex-presidente Lula tamb&eacute;m estar&atilde;o presentes e jogar&atilde;o uma das partidas de estr&eacute;ia do campo.</p>
