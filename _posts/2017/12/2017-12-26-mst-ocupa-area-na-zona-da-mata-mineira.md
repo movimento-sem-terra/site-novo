@@ -58,19 +58,18 @@ releated_posts:
 
 <div><br />
 <br />
-Na manh&atilde; desta (26), cerca de 50 fam&iacute;lias Sem Terra ocuparam mais uma &aacute;rea na Zona da Mata mineira.</div>
+Na manh&atilde; desta ter&ccedil;a-feira, 26, cerca de 50 fam&iacute;lias Sem Terra ocuparam mais uma &aacute;rea na zona da mata mineira.</div>
 
-<div><br />
-<br />
-Localizada no munic&iacute;pio de Tocantins em Minas Gerais, a fazenda que antigamente s&oacute; produzia cana de a&ccedil;&uacute;car, hoje ganha uma nova &quot;cara&quot;, a do povo Sem Terra.</div>
+<div>
+<p><br />
+Localizada no munic&iacute;pio de Tocantins/MG, a fazenda que antigamente s&oacute; produzia cana de a&ccedil;&uacute;car, hoje ganha uma nova &quot;cara&quot;, a do povo Sem Terra.&nbsp;</p>
 
-<div><br />
-<br />
-A &aacute;rea com 50 hectares, pertence ao governo do estado e tem previs&atilde;o de assentar 12 fam&iacute;lias. Os vizinhos s&atilde;o pequenos produtores de frutas e hortali&ccedil;as. As fam&iacute;lias Sem Terra ir&atilde;o montar uma linha de produ&ccedil;&atilde;o baseada na matriz agroecol&oacute;gica e sem o uso de agrot&oacute;xicos.</div>
+<p><br />
+A &aacute;rea com 50 Hectares, pertence ao governo do estado e tem previs&atilde;o de assentar 12 fam&iacute;lias. Os vizinhos s&atilde;o pequenos produtores de frutas e hortali&ccedil;as. As fam&iacute;lias Sem Terra ir&atilde;o montar uma linha de produ&ccedil;&atilde;o baseada na matriz agroecol&oacute;gica e sem o uso de agrot&oacute;xicos.&nbsp;</p>
 
-<div><br />
-<br />
-A &aacute;rea no C&oacute;rrego do Ibeba pertence ao Patrim&ocirc;nio do Estado de Minas e integra o acordo realizado na Mesa Estadual de Di&aacute;logo e Negocia&ccedil;&atilde;o Permanente com Ocupa&ccedil;&otilde;es Urbanas e Rurais que visa promover debates e negocia&ccedil;&otilde;es para resolver os conflitos em mat&eacute;ria socioambiental e fundi&aacute;ria, mediante a participa&ccedil;&atilde;o dos setores da sociedade civil e do governo diretamente envolvidos.</div>
+<p><br />
+A &aacute;rea no C&oacute;rrego do Ibeba pertence ao Patrim&ocirc;nio do Estado de Minas. Foi realizado um&nbsp; acordo na Mesa Estadual de Di&aacute;logo e Negocia&ccedil;&atilde;o Permanente com Ocupa&ccedil;&otilde;es Urbanas e Rurais que visa promover debates e negocia&ccedil;&otilde;es para resolver os conflitos em mat&eacute;ria socioambiental e fundi&aacute;ria, mediante a participa&ccedil;&atilde;o dos setores da sociedade civil e do Governo diretamente envolvidos. Nesse acordo as fam&iacute;lias se comprometeram a desocupar o local onde estavam, por isso ocuparam a &aacute;rea do Estado e aguardam um posicionamento do governo.</p>
+</div>
 
 <div>&nbsp;</div>
 
