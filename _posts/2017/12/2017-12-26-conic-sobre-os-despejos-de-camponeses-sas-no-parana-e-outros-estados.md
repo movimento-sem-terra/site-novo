@@ -28,6 +28,8 @@ releated_posts:
   - _posts/2017/12/2017-12-06-familias-do-mst-sao-ameacadas-pelo-pelotao-de-choque-da-brigada-militar-em-ocupacao-no-rs.md
   - _posts/2017/12/2017-12-07-maes-do-acampamento-marcelino-chiarello-escrevem-carta-enderecada-a-juiza-que-concedeu-liminar-de-despejo.md
   - _posts/2017/12/2017-12-11-sem-terra-sofrem-com-clima-de-instabilidade-e-ameaca-em-campo-do-meio.md
+label: articles
+section: featured-news
 
 ---
 <div>
