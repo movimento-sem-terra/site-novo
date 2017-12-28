@@ -218,17 +218,14 @@ Abaixo um pouco do que foi destaque em 2017, lembrando que essas e outras not&ia
 
 <p style="margin-bottom: 0cm; line-height: 100%"><a href="https://goo.gl/k1RKSb"><font size="3" style="font-size: 12pt">MST ocupa Minas Gerais com arte e cultura da Reforma Agr&aacute;ria</font></a></p>
 
-<p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
+<p style="margin-bottom: 0cm; line-height: 100%"><br />
+<a href="https://goo.gl/8fJFfv"><font size="3" style="font-size: 12pt">St&eacute;dile, Boulos e Celso Amorim se re&uacute;nem em ato pol&iacute;tico-cultural em solidariedade &agrave; Venezuela</font></a></p>
 
-<p style="margin-bottom: 0cm; line-height: 100%"><a href="https://goo.gl/8fJFfv"><font size="3" style="font-size: 12pt">St&eacute;dile, Boulos e Celso Amorim se re&uacute;nem em ato pol&iacute;tico-cultural em solidariedade &agrave; Venezuela</font></a></p>
+<p style="margin-bottom: 0cm; line-height: 100%"><br />
+<a href="https://goo.gl/NCBgRr"><font size="3" style="font-size: 12pt">&quot;S&ocirc; isso n&atilde;o, Dona&quot;: MST lan&ccedil;a videocr&ocirc;nica para debater viol&ecirc;ncia dom&eacute;stica</font></a></p>
 
-<p>&nbsp;</p>
-
-<p style="margin-bottom: 0cm; line-height: 100%"><a href="https://goo.gl/NCBgRr"><font size="3" style="font-size: 12pt">&quot;S&ocirc; isso n&atilde;o, Dona&quot;: MST lan&ccedil;a videocr&ocirc;nica para debater viol&ecirc;ncia dom&eacute;stica</font></a></p>
-
-<p>&nbsp;</p>
-
-<p style="margin-bottom: 0cm; line-height: 100%"><a href="https://goo.gl/v65Xjj"><font size="3" style="font-size: 12pt">Ocupa&ccedil;&atilde;o em Goi&aacute;s da in&iacute;cio &agrave; Jornada Nacional em Defesa da Reforma Agr&aacute;ria</font></a></p>
+<p style="margin-bottom: 0cm; line-height: 100%"><br />
+<a href="https://goo.gl/v65Xjj"><font size="3" style="font-size: 12pt">Ocupa&ccedil;&atilde;o em Goi&aacute;s da in&iacute;cio &agrave; Jornada Nacional em Defesa da Reforma Agr&aacute;ria</font></a></p>
 
 <p style="margin-bottom: 0cm; line-height: 100%"><br />
 <br />
