@@ -42,20 +42,17 @@ releated_posts:
 <p style="margin-top:0;margin-bottom:0"><em>Do </em><span><span>Coletivo de Comunica&ccedil;&atilde;o do MST na Bahia</span></span><br />
 <em>Da P&aacute;gina do MST</em></p>
 
-<p style="margin-top:0;margin-bottom:0"><br />
+<p><br />
 <br />
-Durante o<a href="https://goo.gl/etmL27">&nbsp;<u>30&ordm; Encontro Estadual do MST na Bahia</u></a>, que acontece entre os dias 10 e 14 de janeiro, no Centro de Treinamento da Secretaria de Desenvolvimento Rural (CTN-SDR), localizado no bairro Itapu&atilde;, em Salvador, o MST realizar&aacute; um Ato Pol&iacute;tico e Cultural com amigos em comemora&ccedil;&atilde;o aos 30 anos de luta na Bahia.</p>
+Durante o<a href="https://goo.gl/etmL27">&nbsp;30&ordm; Encontro Estadual do MST na Bahia</a>, que acontece entre os dias 10 e 14 de janeiro, no Centro de Treinamento da Secretaria de Desenvolvimento Rural (CTN-SDR), localizado no bairro Itapu&atilde;, em Salvador, o MST realizar&aacute; um Ato Pol&iacute;tico e Cultural com amigos em comemora&ccedil;&atilde;o aos 30 anos de luta na Bahia.</p>
+
+<p><br />
+O Ato pol&iacute;tico acontecer&aacute; na quarta-feira (10/1), a partir das 9h, e contar&aacute; com a presen&ccedil;a de movimentos populares, organiza&ccedil;&otilde;es sindicais, partidos de esquerda e figuras hist&oacute;ricas que t&ecirc;m contribu&iacute;do de maneira direta ou indireta na luta do Movimento.</p>
+
+<p><br />
+Ao reunir tantos parceiros e amigos, a atividade pretende resgatar a trajet&oacute;ria pol&iacute;tica e de luta popular constru&iacute;da pelos trabalhadores e trabalhadoras Sem Terra desde o dia 07 de setembro de 1984, data que ocorreu a primeira ocupa&ccedil;&atilde;o de terra e que consolidou o primeiro processo organizativo no estado: o Assentamento 40 45, em Alcoba&ccedil;a.</p>
 
 <div><br />
-<br />
-O Ato pol&iacute;tico acontecer&aacute; na quarta-feira (10/1), a partir das 9h, e contar&aacute; com a presen&ccedil;a de movimentos populares, organiza&ccedil;&otilde;es sindicais, partidos de esquerda e figuras hist&oacute;ricas que t&ecirc;m contribu&iacute;do de maneira direta ou indireta na luta do Movimento.</div>
-
-<div><br />
-<br />
-Ao reunir tantos parceiros e amigos, a atividade pretende resgatar a trajet&oacute;ria pol&iacute;tica e de luta popular constru&iacute;da pelos trabalhadores e trabalhadoras Sem Terra desde o dia 07 de setembro de 1984, data que ocorreu a primeira ocupa&ccedil;&atilde;o de terra e que consolidou o primeiro processo organizativo no estado: o Assentamento 40 45, em Alcoba&ccedil;a.</div>
-
-<div><br />
-<br />
 Integrado as comemora&ccedil;&otilde;es dos 30 anos do Movimento, que tiveram in&iacute;cio em setembro deste ano, o ato pol&iacute;tico reafirmar&aacute; a luta pela terra como uma bandeira popular.</div>
 
-<div class="yj6qo">&nbsp;</div>
+<div>&nbsp;</div>
