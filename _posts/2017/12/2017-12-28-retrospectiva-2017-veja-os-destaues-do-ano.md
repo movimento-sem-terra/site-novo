@@ -4,7 +4,7 @@ tags:
   - tag: reforma-agrária-popular
   - tag: lutas-e-mobilizações
   - tag: mst
-title: "Retrospectiva 2017: Veja os destaues do ano"
+title: "Retrospectiva 2017: Veja os destaques do ano"
 support_line: "2017 chega ao fim com um ano marcado por retrocessos, mas também por muita luta. Um ano em que a força Sem Terra esteve presenta em cada ato, cada mobilzação em cada passo"
 menu: lutas e mobilizações
 images_hd: //farm5.staticflickr.com/4682/24489543817_f502f4dc25_b.jpg
