@@ -56,21 +56,15 @@ Abaixo um pouco do que foi destaque em 2017, lembrando que essas e outras not&ia
 
 <p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
 
-<p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
-
 <p style="margin-bottom: 0cm; line-height: 100%"><a href="https://goo.gl/C5Bj6S"><font size="3" style="font-size: 12pt">20 grupos estrangeiros t&ecirc;m 3 milh&otilde;es de ha de terras no Brasil</font></a></p>
 
-<p>&nbsp;
+<p>&nbsp;</p>
+
 <p style="margin-bottom: 0cm; line-height: 100%"><a href="https://goo.gl/fyfyGv"><font size="3" style="font-size: 12pt">Lula denuncia o golpe e diz que um novo Brasil &eacute; poss&iacute;vel</font></a></p>
-</p>
 
-<p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
-
-<p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
+<p>&nbsp;</p>
 
 <p style="margin-bottom: 0cm; line-height: 100%"><a href="https://goo.gl/niMGYy"><font size="3" style="font-size: 12pt">MST ocupa &aacute;rea apropriada indevidamente pela F&iacute;bria em Aracruz-ES</font></a></p>
-
-<p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
 
 <p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
 
@@ -78,11 +72,7 @@ Abaixo um pouco do que foi destaque em 2017, lembrando que essas e outras not&ia
 
 <p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
 
-<p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
-
 <p style="margin-bottom: 0cm; line-height: 100%"><a href="https://goo.gl/jfof2L"><font size="3" style="font-size: 12pt">MST na Bahia se levanta contra LGBTfobia</font></a></p>
-
-<p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
 
 <p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
 
@@ -90,17 +80,11 @@ Abaixo um pouco do que foi destaque em 2017, lembrando que essas e outras not&ia
 
 <p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
 
-<p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
-
 <p style="margin-bottom: 0cm; line-height: 100%"><a href="https://goo.gl/cJFhiL"><font size="3" style="font-size: 12pt">M&eacute;todo cubano pretende zerar o analfabetismo em 11 &aacute;reas do MST</font></a></p>
 
 <p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
 
-<p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
-
 <p style="margin-bottom: 0cm; line-height: 100%"><a href="https://goo.gl/Puwizk"><font size="3" style="font-size: 12pt">Sem Terra desenvolvem permacultura em acampamento no Rio Grande do Sul</font></a></p>
-
-<p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
 
 <p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
 
@@ -116,11 +100,7 @@ Abaixo um pouco do que foi destaque em 2017, lembrando que essas e outras not&ia
 
 <p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
 
-<p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
-
 <p style="margin-bottom: 0cm; line-height: 100%"><a href="https://goo.gl/v9zCbn"><font size="3" style="font-size: 12pt">Reforma da Previd&ecirc;ncia pode ser o fim da aposentadoria rural, afirmam agricultores</font></a></p>
-
-<p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
 
 <p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
 
@@ -132,11 +112,7 @@ Abaixo um pouco do que foi destaque em 2017, lembrando que essas e outras not&ia
 
 <p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
 
-<p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
-
 <p style="margin-bottom: 0cm; line-height: 100%"><a href="https://goo.gl/Xu26jZ"><font size="3" style="font-size: 12pt">Vit&oacute;ria da Imperatriz, derrota do Agroneg&oacute;cio e da Globo</font></a></p>
-
-<p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
 
 <p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
 
@@ -144,11 +120,7 @@ Abaixo um pouco do que foi destaque em 2017, lembrando que essas e outras not&ia
 
 <p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
 
-<p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
-
 <p style="margin-bottom: 0cm; line-height: 100%"><a href="https://goo.gl/ueQieS"><font size="3" style="font-size: 12pt">&quot;Se reforma da Previd&ecirc;ncia fosse justa, valeria para pol&iacute;ticos&quot;, critica Stedile</font></a></p>
-
-<p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
 
 <p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
 
@@ -160,17 +132,11 @@ Abaixo um pouco do que foi destaque em 2017, lembrando que essas e outras not&ia
 
 <p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
 
-<p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
-
 <p style="margin-bottom: 0cm; line-height: 100%"><a href="https://goo.gl/QM61vR"><font size="3" style="font-size: 12pt">Acampamento do MST &eacute; invadido e tem irriga&ccedil;&atilde;o destru&iacute;da pela pol&iacute;cia</font></a></p>
 
 <p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
 
-<p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
-
 <p style="margin-bottom: 0cm; line-height: 100%"><a href="https://goo.gl/2BXvZt"><font size="3" style="font-size: 12pt">Milhares v&atilde;o &agrave;s ruas em todo Brasil anunciando a greve geral</font></a></p>
-
-<p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
 
 <p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
 
@@ -182,11 +148,7 @@ Abaixo um pouco do que foi destaque em 2017, lembrando que essas e outras not&ia
 
 <p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
 
-<p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
-
 <p style="margin-bottom: 0cm; line-height: 100%"><a href="https://goo.gl/1unKSB"><font size="3" style="font-size: 12pt">Jornada Nacional de Lutas pela Reforma Agr&aacute;ria - 2017</font></a></p>
-
-<p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
 
 <p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
 
@@ -194,11 +156,7 @@ Abaixo um pouco do que foi destaque em 2017, lembrando que essas e outras not&ia
 
 <p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
 
-<p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
-
 <p style="margin-bottom: 0cm; line-height: 100%"><a href="http://www.mst.org.br/2017/04/29/2a-feira-nacional-da-reforma-agraria-e-um-verdadeiro-festival-de-cultura.html"><font size="3" style="font-size: 12pt">2&ordf; Feira Nacional da Reforma Agr&aacute;ria &eacute; um verdadeiro festival de cultura</font></a></p>
-
-<p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
 
 <p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
 
@@ -206,11 +164,7 @@ Abaixo um pouco do que foi destaque em 2017, lembrando que essas e outras not&ia
 
 <p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
 
-<p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
-
 <p style="margin-bottom: 0cm; line-height: 100%"><a href="https://goo.gl/1rWtDK"><font size="3" style="font-size: 12pt">Centrais e movimentos populares planejam &quot;ocupar&quot; Bras&iacute;lia contra reformas</font></a></p>
-
-<p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
 
 <p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
 
@@ -218,11 +172,7 @@ Abaixo um pouco do que foi destaque em 2017, lembrando que essas e outras not&ia
 
 <p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
 
-<p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
-
 <p style="margin-bottom: 0cm; line-height: 100%"><a href="https://goo.gl/cL2BeA"><font size="3" style="font-size: 12pt">MST condena viol&ecirc;ncia durante a ocupa&ccedil;&atilde;o dos movimentos populares em Bras&iacute;lia</font></a></p>
-
-<p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
 
 <p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
 
@@ -230,17 +180,11 @@ Abaixo um pouco do que foi destaque em 2017, lembrando que essas e outras not&ia
 
 <p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
 
-<p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
-
 <p><a href="https://goo.gl/ksot24">Frente Brasil Popular lan&ccedil;a em Bras&iacute;lia plano com diretrizes econ&ocirc;micas e sociais para o pa&iacute;s</a></p>
 
 <p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
 
-<p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
-
 <p style="margin-bottom: 0cm; line-height: 100%"><a href="https://goo.gl/cgK6Ln"><font size="3" style="font-size: 12pt">Chacina de sem-terra em Pau D&rsquo;Arco &eacute; parte da sangrenta hist&oacute;ria de conflitos no Par&aacute;</font></a></p>
-
-<p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
 
 <p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
 
@@ -252,11 +196,7 @@ Abaixo um pouco do que foi destaque em 2017, lembrando que essas e outras not&ia
 
 <p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
 
-<p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
-
 <p style="margin-bottom: 0cm; line-height: 100%"><a href="https://goo.gl/b1P2gF"><font size="3" style="font-size: 12pt">MST ocupa &aacute;rea que era usada pelo tr&aacute;fico de drogas no oeste paranaense</font></a></p>
-
-<p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
 
 <p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
 
@@ -264,11 +204,7 @@ Abaixo um pouco do que foi destaque em 2017, lembrando que essas e outras not&ia
 
 <p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
 
-<p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
-
 <p style="margin-bottom: 0cm; line-height: 100%"><a href="https://goo.gl/xM9mVa"><font size="3" style="font-size: 12pt">MST ocupa fazenda de Ricardo Teixeira e denuncia promiscuidade e corrup&ccedil;&atilde;o que atinge at&eacute; a Globo</font></a></p>
-
-<p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
 
 <p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
 
@@ -276,11 +212,7 @@ Abaixo um pouco do que foi destaque em 2017, lembrando que essas e outras not&ia
 
 <p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
 
-<p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
-
 <p style="margin-bottom: 0cm; line-height: 100%"><a href="https://goo.gl/KXdGt9"><font size="3" style="font-size: 12pt">Armaz&eacute;m do Campo comemora 1 ano em S&atilde;o Paulo</font></a></p>
-
-<p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
 
 <p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
 
@@ -288,112 +220,73 @@ Abaixo um pouco do que foi destaque em 2017, lembrando que essas e outras not&ia
 
 <p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
 
-<p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
-
 <p style="margin-bottom: 0cm; line-height: 100%"><a href="https://goo.gl/8fJFfv"><font size="3" style="font-size: 12pt">St&eacute;dile, Boulos e Celso Amorim se re&uacute;nem em ato pol&iacute;tico-cultural em solidariedade &agrave; Venezuela</font></a></p>
 
-<p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
+<p>&nbsp;
+<p style="margin-bottom: 0cm; line-height: 100%"><br />
+<a href="https://goo.gl/NCBgRr"><font size="3" style="font-size: 12pt">&quot;S&ocirc; isso n&atilde;o, Dona&quot;: MST lan&ccedil;a videocr&ocirc;nica para debater viol&ecirc;ncia dom&eacute;stica</font></a></p>
+</p>
 
 <p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
 
-<p style="margin-bottom: 0cm; line-height: 100%"><font size="3" style="font-size: 12pt">Julgamento de policial que matou sem terra ressuscita velhos discursos contra o MST</font><br />
+<p style="margin-bottom: 0cm; line-height: 100%"><a href="https://goo.gl/v65Xjj"><font size="3" style="font-size: 12pt">Ocupa&ccedil;&atilde;o em Goi&aacute;s da in&iacute;cio &agrave; Jornada Nacional em Defesa da Reforma Agr&aacute;ria</font></a></p>
+
+<p style="margin-bottom: 0cm; line-height: 100%"><br />
 <br />
-<br />
-<br />
-<br />
-<br />
-<font size="3" style="font-size: 12pt">&quot;S&ocirc; isso n&atilde;o, Dona&quot;: MST lan&ccedil;a videocr&ocirc;nica para debater viol&ecirc;ncia dom&eacute;stica</font></p>
-
-<p style="margin-bottom: 0cm; line-height: 100%"><a href="https://goo.gl/NCBgRr"><font size="3" style="font-size: 12pt">https://goo.gl/NCBgRr</font></a></p>
+<a href="https://goo.gl/MjsiSj"><font size="3" style="font-size: 12pt">No ar: radionovela Rosa Luxemburgo</font></a></p>
 
 <p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
 
-<p style="margin-bottom: 0cm; line-height: 100%"><font size="3" style="font-size: 12pt">Ocupa&ccedil;&atilde;o em Goi&aacute;s da in&iacute;cio &agrave; Jornada Nacional em Defesa da Reforma Agr&aacute;ria</font></p>
-
-<p style="margin-bottom: 0cm; line-height: 100%"><font size="3" style="font-size: 12pt">https://goo.gl/v65Xjj</font><br />
-<br />
-&nbsp;</p>
-
-<p style="margin-bottom: 0cm; line-height: 100%"><font size="3" style="font-size: 12pt">No ar: radionovela Rosa Luxemburgo</font></p>
-
-<p style="margin-bottom: 0cm; line-height: 100%"><a href="https://goo.gl/MjsiSj"><font size="3" style="font-size: 12pt">https://goo.gl/MjsiSj</font></a></p>
+<p style="margin-bottom: 0cm; line-height: 100%"><a href="https://goo.gl/aY83wE"><font size="3" style="font-size: 12pt">Entre a esperan&ccedil;a e um novo horizonte</font></a></p>
 
 <p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
 
-<p style="margin-bottom: 0cm; line-height: 100%"><font size="3" style="font-size: 12pt">Entre a esperan&ccedil;a e um novo horizonte</font></p>
-
-<p style="margin-bottom: 0cm; line-height: 100%"><a href="https://goo.gl/aY83wE"><font size="3" style="font-size: 12pt">https://goo.gl/aY83wE</font></a></p>
+<p style="margin-bottom: 0cm; line-height: 100%"><a href="https://goo.gl/dCTWAW"><font size="3" style="font-size: 12pt">MST produz 150 mil mudas para reflorestar Bacia do Rio Doce contaminada pela Samarco</font></a></p>
 
 <p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
 
-<p style="margin-bottom: 0cm; line-height: 100%"><font size="3" style="font-size: 12pt">MST produz 150 mil mudas para reflorestar Bacia do Rio Doce contaminada pela Samarco</font></p>
-
-<p style="margin-bottom: 0cm; line-height: 100%"><a href="https://goo.gl/dCTWAW"><font size="3" style="font-size: 12pt">https://goo.gl/dCTWAW</font></a></p>
+<p style="margin-bottom: 0cm; line-height: 100%"><a href="https://goo.gl/MJyD2K"><font size="3" style="font-size: 12pt">65 toneladas de alimentos s&atilde;o comercializados Feira da Reforma Agr&aacute;ria em Sergipe</font></a></p>
 
 <p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
 
-<p style="margin-bottom: 0cm; line-height: 100%"><font size="3" style="font-size: 12pt">65 toneladas de alimentos s&atilde;o comercializados Feira da Reforma Agr&aacute;ria em Sergipe</font></p>
-
-<p style="margin-bottom: 0cm; line-height: 100%"><a href="https://goo.gl/MJyD2K"><font size="3" style="font-size: 12pt">https://goo.gl/MJyD2K</font></a></p>
+<p style="margin-bottom: 0cm; line-height: 100%"><a href="https://goo.gl/pJ4KfK"><font size="3" style="font-size: 12pt">Ocupa&ccedil;&atilde;o do MST no Paran&aacute; ganha pr&ecirc;mio por recupera&ccedil;&atilde;o da Mata Atl&acirc;ntica</font></a></p>
 
 <p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
 
-<p style="margin-bottom: 0cm; line-height: 100%"><font size="3" style="font-size: 12pt">Ocupa&ccedil;&atilde;o do MST no Paran&aacute; ganha pr&ecirc;mio por recupera&ccedil;&atilde;o da Mata Atl&acirc;ntica</font></p>
-
-<p style="margin-bottom: 0cm; line-height: 100%"><a href="https://goo.gl/pJ4KfK"><font size="3" style="font-size: 12pt">https://goo.gl/pJ4KfK</font></a></p>
+<p style="margin-bottom: 0cm; line-height: 100%"><a href="https://goo.gl/ztW3No"><font size="3" style="font-size: 12pt">Do Corpo da Terra: Filme do Setor de Sa&uacute;de do MST &eacute; premiado em festival</font></a></p>
 
 <p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
 
-<p style="margin-bottom: 0cm; line-height: 100%"><font size="3" style="font-size: 12pt">Do Corpo da Terra: Filme do Setor de Sa&uacute;de do MST &eacute; premiado em festival</font></p>
-
-<p style="margin-bottom: 0cm; line-height: 100%"><a href="https://goo.gl/ztW3No"><font size="3" style="font-size: 12pt">https://goo.gl/ztW3No</font></a></p>
+<p style="margin-bottom: 0cm; line-height: 100%"><a href="https://goo.gl/16gSuj"><font size="3" style="font-size: 12pt">Suzane Jardim: &quot;&Eacute; uma obriga&ccedil;&atilde;o dos movimentos sociais pensarem a quest&atilde;o racial para al&eacute;m dos meses tem&aacute;ticos e datas simb&oacute;licas&quot;</font></a></p>
 
 <p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
 
-<p style="margin-bottom: 0cm; line-height: 100%"><font size="3" style="font-size: 12pt">Suzane Jardim: &quot;&Eacute; uma obriga&ccedil;&atilde;o dos movimentos sociais pensarem a quest&atilde;o racial para al&eacute;m dos meses tem&aacute;ticos e datas simb&oacute;licas&quot;</font></p>
-
-<p style="margin-bottom: 0cm; line-height: 100%"><a href="https://goo.gl/16gSuj"><font size="3" style="font-size: 12pt">https://goo.gl/16gSuj</font></a></p>
+<p style="margin-bottom: 0cm; line-height: 100%"><a href="https://goo.gl/3CNLgy"><font size="3" style="font-size: 12pt">Foi preso Adriano Chafik Luedy, mandante do massacre de Felisburgo, MG: 13 anos depois</font></a></p>
 
 <p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
 
-<p style="margin-bottom: 0cm; line-height: 100%"><font size="3" style="font-size: 12pt">Foi preso Adriano Chafik Luedy, mandante do massacre de Felisburgo, MG: 13 anos depois</font></p>
-
-<p style="margin-bottom: 0cm; line-height: 100%"><a href="https://goo.gl/3CNLgy"><font size="3" style="font-size: 12pt">https://goo.gl/3CNLgy</font></a></p>
+<p style="margin-bottom: 0cm; line-height: 100%"><a href="https://goo.gl/D8x5q9"><font size="3" style="font-size: 12pt">PA: Mais de 700 fam&iacute;lias de trabalhadores rurais ficam sem ter para onde ir ap&oacute;s despejo</font></a></p>
 
 <p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
 
-<p style="margin-bottom: 0cm; line-height: 100%"><font size="3" style="font-size: 12pt">PA: Mais de 700 fam&iacute;lias de trabalhadores rurais ficam sem ter para onde ir ap&oacute;s despejo</font></p>
-
-<p style="margin-bottom: 0cm; line-height: 100%"><a href="https://goo.gl/D8x5q9"><font size="3" style="font-size: 12pt">https://goo.gl/D8x5q9</font></a></p>
+<p style="margin-bottom: 0cm; line-height: 100%"><a href="https://goo.gl/VvJUWa"><font size="3" style="font-size: 12pt">Jagun&ccedil;os tentam assassinar dirigente do MST em Minas Gerais</font></a></p>
 
 <p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
 
-<p style="margin-bottom: 0cm; line-height: 100%"><font size="3" style="font-size: 12pt">Jagun&ccedil;os tentam assassinar dirigente do MST em Minas Gerais</font></p>
-
-<p style="margin-bottom: 0cm; line-height: 100%"><a href="https://goo.gl/VvJUWa"><font size="3" style="font-size: 12pt">https://goo.gl/VvJUWa</font></a></p>
+<p style="margin-bottom: 0cm; line-height: 100%"><a href="https://goo.gl/LarYsC">&ldquo;<font size="3" style="font-size: 12pt">A primeira coisa que eu escrevi com meu l&aacute;pis e caderno novo foi MST&rdquo;</font></a></p>
 
 <p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
 
-<p style="margin-bottom: 0cm; line-height: 100%">&ldquo;<font size="3" style="font-size: 12pt">A primeira coisa que eu escrevi com meu l&aacute;pis e caderno novo foi MST&rdquo;</font></p>
-
-<p style="margin-bottom: 0cm; line-height: 100%"><a href="https://goo.gl/LarYsC"><font size="3" style="font-size: 12pt">https://goo.gl/LarYsC</font></a></p>
+<p style="margin-bottom: 0cm; line-height: 100%"><a href="https://goo.gl/7jHDgn"><font size="3" style="font-size: 12pt">2017: mesmo em meio &agrave; viol&ecirc;ncia, &eacute; na resist&ecirc;ncia dos povos que mantemos a esperan&ccedil;a na terra sem males</font></a></p>
 
 <p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
 
-<p style="margin-bottom: 0cm; line-height: 100%"><font size="3" style="font-size: 12pt">2017: mesmo em meio &agrave; viol&ecirc;ncia, &eacute; na resist&ecirc;ncia dos povos que mantemos a esperan&ccedil;a na terra sem males</font></p>
-
-<p style="margin-bottom: 0cm; line-height: 100%"><a href="https://goo.gl/7jHDgn"><font size="3" style="font-size: 12pt">https://goo.gl/7jHDgn</font></a></p>
+<p style="margin-bottom: 0cm; line-height: 100%"><a href="https://goo.gl/gfVv4S"><font size="3" style="font-size: 12pt">MST presenteia Belo Horizonte com o Armaz&eacute;m do Campo</font></a></p>
 
 <p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
 
-<p style="margin-bottom: 0cm; line-height: 100%"><font size="3" style="font-size: 12pt">MST presenteia Belo Horizonte com o Armaz&eacute;m do Campo</font></p>
-
-<p style="margin-bottom: 0cm; line-height: 100%"><a href="https://goo.gl/gfVv4S"><font size="3" style="font-size: 12pt">https://goo.gl/gfVv4S</font></a></p>
+<p style="margin-bottom: 0cm; line-height: 100%"><a href="https://goo.gl/XzvKrC"><font size="3" style="font-size: 12pt">Lula e Chico Buarque estreiam campo Dr. S&oacute;crates brasileiro</font></a></p>
 
 <p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
-
-<p style="margin-bottom: 0cm; line-height: 100%"><font size="3" style="font-size: 12pt">Lula e Chico Buarque estreiam campo Dr. S&oacute;crates brasileiro</font></p>
-
-<p style="margin-bottom: 0cm; line-height: 100%"><font size="3" style="font-size: 12pt">https://goo.gl/XzvKrC</font></p>
 
 <p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
