@@ -5,7 +5,7 @@ tags:
   - tag: encontro-estadual
 images_hd: //farm5.staticflickr.com/4682/38786477734_b8a8574d48_b.jpg
 title: MST realiza 30º Encontro Estadual na Bahia
-support_line: Evento será espaço de formação e de luta coletiva em defesa da Reforma Agrária Popular.
+support_line: Evento será espaço de formação e de luta coletiva em defesa da Reforma Agrária Popular
 menu: lutas e mobilizações
 layout: post
 files:
