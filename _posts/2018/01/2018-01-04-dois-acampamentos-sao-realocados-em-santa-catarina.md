@@ -63,6 +63,11 @@ No dia 29 de novembro, a ju&iacute;za federal Heloisa Menegitto Prozenato ordeno
 <p><br />
 Frente a essa realidade e inconformadas com o fato de continuarem vivendo num gin&aacute;sio de esportes, as fam&iacute;lias decidiram se mudar provisoriamente para uma &aacute;rea com menos de dois hectares, localizada na linha Tr&ecirc;s Pinheiros, em Faxinal dos Guedes. As fam&iacute;lias cobram dos poderes p&uacute;blicos que assistam as fam&iacute;lias em rela&ccedil;&atilde;o &agrave; demanda de uma infraestrutura m&iacute;nima no acampamento; al&eacute;m de exigir que o Incra agilize o processo de assentamento, j&aacute; que a &aacute;rea ocupada &eacute; de propriedade do instituto.</p>
 
+<p><br />
+Em outra &aacute;rea, as fam&iacute;lias do Acampamento Eg&iacute;dio Brunetto tamb&eacute;m seguem lutando por seus direitos. No dia 8 de dezembro, elas realizaram a ocupa&ccedil;&atilde;o da terceira &aacute;rea em menos de um ano, j&aacute; que o Incra n&atilde;o havia avan&ccedil;ado nos encaminhamentos necess&aacute;rios para efetiva&ccedil;&atilde;o da Reforma Agr&aacute;ria e justi&ccedil;a agr&aacute;ria, tendo somente solicitado a retirada das fam&iacute;lias da terra. Visando melhorar as condi&ccedil;&otilde;es de vida, as fam&iacute;lias decidiram mudar os barracos para uma outra &aacute;rea dentro da fazenda, mas com melhores condi&ccedil;&otilde;es pras moradias e para o cultivo da terra.</p>
+
 <p>&nbsp;</p>
 
 <p><em>*Editado por Leonardo Fernandes</em></p>
+
+<div class="webpki_lacunasoftware_com" id="webpki_lacunasoftware_com" style="display: none;">&nbsp;</div>
