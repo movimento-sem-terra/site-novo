@@ -92,4 +92,7 @@ Para ele, o Movimento Sem Terra tem ensinado que apenas com ocupa&ccedil;&atilde
 Sobre os desafios e perspectivas, Leomarcio Ara&uacute;jo, do Movimento dos Pequenos Agricultores (MPA), ressaltou o nome do Lula como uma base importante para garantir direitos e romper com a retirada de direitos implementas pelo governo ileg&iacute;timo de Michel Temer, do PMDB, e para isso &eacute; necess&aacute;rio construir uma ofensiva. &ldquo;Precisamos sair da condi&ccedil;&atilde;o de resist&ecirc;ncia e avan&ccedil;ar na ofensiva. Isso s&oacute; ser&aacute; poss&iacute;vel com Lula 2018&rdquo;.</p>
 
 <p><br />
-O 30&ordm; Encontro Estadual do MST na Bahia, que come&ccedil;ou na manh&atilde; desta quarta-feira (10) segue at&eacute; domingo (14), com uma programa&ccedil;&atilde;o diversa, m&iacute;stica e estudo sobre temas como a atual conjuntura brasileira, comunica&ccedil;&atilde;o, organicidade interna, cultura, g&ecirc;nero e educa&ccedil;&atilde;o do campo. Confira a programa&ccedil;&atilde;o aqui</p>
+O 30&ordm; Encontro Estadual do MST na Bahia, que come&ccedil;ou na manh&atilde; desta quarta-feira (10) segue at&eacute; domingo (14), com uma programa&ccedil;&atilde;o diversa, m&iacute;stica e estudo sobre temas como a atual conjuntura brasileira, comunica&ccedil;&atilde;o, organicidade interna, cultura, g&ecirc;nero e educa&ccedil;&atilde;o do campo.</p>
+
+<p><br />
+Confira a programa&ccedil;&atilde;o <a href="https://www.facebook.com/events/327548320987050/">aqui</a></p>
