@@ -5,7 +5,7 @@ tags:
   - tag: formação
   - tag: educação
   - tag: ceará
-title: "No Ceará, MST realiza escola de Formação para juventud"
+title: "No Ceará, MST realiza escola de Formação para juventude"
 images_hd: //farm5.staticflickr.com/4705/24860354807_e56ec2e50a_b.jpg
 support_line: "A programação da atividade contou com temas ligados à Reforma Agrária Popular, agitação e propaganda, violência e drogas, além de um intercâmbio cultural entre os participantes"
 menu: "educação, cultura e comunicação"
