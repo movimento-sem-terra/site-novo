@@ -18,6 +18,7 @@ files:
 created_date: "2018-01-18T11:44:04-02:00"
 published: true
 releated_posts: []
+section: featured-news
 
 ---
 <p><img alt="03445dd4-dd99-44c7-a069-7ae0acbeb247.jpeg" height="440" src="//farm5.staticflickr.com/4625/24891452207_b9a3776ef5_b.jpg" width="700" /></p>
