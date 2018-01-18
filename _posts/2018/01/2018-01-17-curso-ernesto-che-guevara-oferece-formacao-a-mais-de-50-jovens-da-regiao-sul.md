@@ -45,7 +45,7 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p><em>Por Wellington Leno<br />
+<p><em>Por Comunica&ccedil;&atilde;o MST/Paran&aacute;<br />
 Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
