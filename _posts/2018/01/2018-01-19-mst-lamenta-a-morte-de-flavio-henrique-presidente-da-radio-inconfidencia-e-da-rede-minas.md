@@ -40,7 +40,7 @@ releated_posts:
 Sempre progressista, aberto &agrave;s pautas dos direitos humanos e da comunica&ccedil;&atilde;o democr&aacute;tica, Fl&aacute;vio, juntamente com os companheiros Elias Santos e Cleiber Pac&iacute;fico e toda a equipe da R&aacute;dio Inconfid&ecirc;ncia, foi pe&ccedil;a fundamental para tirar do papel o programa Vozes da Terra, uma parceria realizada em 2017 entre a R&aacute;dio, o MST e o Centro Popular de M&iacute;dias.</p>
 
 <p><br />
-&Eacute; com pesar que n&oacute;s do MST lamentamos a morte de Fl&aacute;vio e ressaltamos a import&acirc;ncia de seu trabalho na Empresa Mineira de Comunica&ccedil;&atilde;o para construir um projeto de sociedade popular, justa e igualit&aacute;ria.</p>
+&Eacute; com pesar que n&oacute;s, do MST, lamentamos a morte de Fl&aacute;vio e ressaltamos a import&acirc;ncia de seu trabalho na Empresa Mineira de Comunica&ccedil;&atilde;o para construir um projeto de sociedade popular, justa e igualit&aacute;ria.</p>
 
 <p>&nbsp;</p>
 
