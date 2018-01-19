@@ -21,7 +21,7 @@ releated_posts:
   - _posts/2017/09/2017-09-15-medicos-do-mst-cuidaram-da-saude-de-lula-durante-a-caravana-pelo-nordeste.md
   - _posts/2017/12/2017-12-05-recebido-por-mais-de-cinco-mil-pessoas-lula-inicia-nova-fase-da-caravana-em-vitoria-es.md
   - _posts/2017/12/2017-12-15-julgamento-de-lula-mst-montara-acampamento-em-porto-alegre.md
-section: cover
+section: featured-news
 
 ---
 <p><img alt="39723819931_79bf08df06_z.jpg" src="//farm5.staticflickr.com/4608/24873959487_0c7d9d225f_b.jpg" /></p>
