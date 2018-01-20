@@ -1,5 +1,5 @@
 ---
-date: "2018-01-16T17:44:44-02:00"
+date: "2018-01-16T16:44:44-03:00"
 tags:
   - tag: lutas-e-mobilizações
   - tag: ligas-camponesas
@@ -23,6 +23,7 @@ releated_posts:
   - _posts/2017/06/2017-06-27-perdemos-alipio-de-freitas.md
   - _posts/2017/08/2017-08-11-miriam-farias-somos-milhares-talvez-milhoes-de-margaridas.md
   - _posts/2017/08/2017-08-08-negro-sem-terra-e-agricultor-conheca-a-historia-de-jose-mota.md
+section: featured-news
 
 ---
 <p>&nbsp;</p>
