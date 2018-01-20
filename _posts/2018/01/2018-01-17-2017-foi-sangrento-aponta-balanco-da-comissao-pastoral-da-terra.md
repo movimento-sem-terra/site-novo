@@ -1,11 +1,11 @@
 ---
-date: "2018-01-17T10:19:22-02:00"
+date: "2018-01-17T09:19:22-03:00"
 tags:
   - tag: violência-no-campo
 title: "'2017 foi sangrento', aponta balanço da Comissão Pastoral da Terra"
 support_line: "De acordo com dados parciais, foram 65 pessoas assassinadas em conflitos no campo, muitos com requintes de crueldade, índice que dá ao Brasil o título de país mais violento para os camponeses no mundo."
 menu: direitos humanos
-section: cover
+section: featured-news
 images_hd: //farm5.staticflickr.com/4610/25869800248_d9b6dd523f_b.jpg
 layout: post
 files:
