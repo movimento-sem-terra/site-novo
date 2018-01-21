@@ -17,6 +17,27 @@ files:
     small: //farm5.staticflickr.com/4616/39820709631_a936d1df14_n.jpg
     title: WhatsApp Image 2018-01-21 at 15.44.41.jpeg
     $$hashKey: 04G
+  - link: //farm5.staticflickr.com/4652/28042394609_0561ac1f6b_b.jpg
+    original: //farm5.staticflickr.com/4652/28042394609_e89f9e2575_o.jpg
+    thumbnail: //farm5.staticflickr.com/4652/28042394609_0561ac1f6b_t.jpg
+    medium: //farm5.staticflickr.com/4652/28042394609_0561ac1f6b_z.jpg
+    small: //farm5.staticflickr.com/4652/28042394609_0561ac1f6b_n.jpg
+    title: WhatsApp Image 2018-01-21 at 15.45.30.jpeg
+    $$hashKey: 0CW
+  - link: //farm5.staticflickr.com/4613/28042394649_f45986a918_b.jpg
+    original: //farm5.staticflickr.com/4613/28042394649_ed46d76e0a_o.jpg
+    thumbnail: //farm5.staticflickr.com/4613/28042394649_f45986a918_t.jpg
+    medium: //farm5.staticflickr.com/4613/28042394649_f45986a918_z.jpg
+    small: //farm5.staticflickr.com/4613/28042394649_f45986a918_n.jpg
+    title: WhatsApp Image 2018-01-21 at 15.45.35.jpeg
+    $$hashKey: 0CZ
+  - link: //farm5.staticflickr.com/4606/39111077004_fa92ae4a17_b.jpg
+    original: //farm5.staticflickr.com/4606/39111077004_b27f9c243d_o.jpg
+    thumbnail: //farm5.staticflickr.com/4606/39111077004_fa92ae4a17_t.jpg
+    medium: //farm5.staticflickr.com/4606/39111077004_fa92ae4a17_z.jpg
+    small: //farm5.staticflickr.com/4606/39111077004_fa92ae4a17_n.jpg
+    title: WhatsApp Image 2018-01-21 at 15.45.31.jpeg
+    $$hashKey: 0D2
 created_date: "2018-01-21T16:49:48-03:00"
 published: true
 releated_posts:
@@ -30,7 +51,8 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p><em>Da P&aacute;gina do MST</em></p>
+<p><em>Da P&aacute;gina do MST<br />
+Fotos: Divulga&ccedil;&atilde;o</em></p>
 
 <p>&nbsp;</p>
 
@@ -41,6 +63,10 @@ Os caminh&otilde;es j&aacute; descarregaram a estrutura e mais de 200 trabalhado
 
 <p><br />
 A largada da jornada ser&aacute; dada nesta segunda-feira, com a marcha de 5 mil camponeses do MST e Movimento dos Pequenos Agricultores (MPA), da Ponte do Gua&iacute;ba (BR 116) at&eacute; o local do acampamento, que come&ccedil;ar&aacute; a receber as delega&ccedil;&otilde;es. Haver&aacute;, a partir das 14h, um semin&aacute;rio sobre arbitrariedades do processo contra o presidente Lula.</p>
+
+<figure class="image" style="float:left"><img alt="WhatsApp Image 2018-01-21 at 15.45.31.jpeg" height="197" src="//farm5.staticflickr.com/4606/39111077004_fa92ae4a17_b.jpg" width="350" />
+<figcaption></figcaption>
+</figure>
 
 <p><br />
 Na ter&ccedil;a-feira, os acampados marcham at&eacute; o audit&oacute;rio Dante Barone, na Assembleia Legislativa, para o ato das mulheres pela democracia, a partir das 10h.</p>
