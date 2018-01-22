@@ -7,7 +7,7 @@ support_line: "Em Porto Alegre, movimentos populares dizem: #vaiteracampamento!"
 title: Movimentos dão início a Acampamento pela Democracia e em Defesa do direito de Lula ser candidato
 menu: lutas e mobilizações
 images_hd: //farm5.staticflickr.com/4616/39820709631_a936d1df14_b.jpg
-section: cover
+section: featured-news
 layout: post
 files:
   - link: //farm5.staticflickr.com/4616/39820709631_a936d1df14_b.jpg
