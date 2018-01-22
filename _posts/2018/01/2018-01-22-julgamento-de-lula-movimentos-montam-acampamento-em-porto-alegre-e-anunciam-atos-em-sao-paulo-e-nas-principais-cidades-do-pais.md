@@ -4,9 +4,9 @@ tags:
   - tag: lula
   - tag: julgamento
   - tag: mobilizações
-title: "Julgamento de Lula: Movimentos montam acampamento em Porto Alegre e anunciam atos em São Paulo e nas principais cidades do país\n "
+title: "Com Lula em SP, movimentos farão ato na Praça da República e caminhada até a Av. Paulista\n "
 images_hd: //farm5.staticflickr.com/4668/39839708501_e3f2cfe58f_b.jpg
-support_line: "O grande ato tem concentração a partir das 17h na Esquina Democrática, onde será o ato político, que será seguido por uma marcha pelo centro até o Anfiteatro Pôr do Sol, que será o local da Grande Vigília pela democracia"
+support_line: O Tribunal de Justiça do Estado de São Paulo não acatou o recurso feito pelas entidades dos movimentos sindicais e sociais que solicitaram a Avenida Paulista para a realização da atividade
 menu: lutas e mobilizações
 layout: post
 files:
@@ -31,24 +31,6 @@ releated_posts:
 <p>&nbsp;</p>
 
 <p><em><strong>Da P&aacute;gina do MST&nbsp;</strong></em></p>
-
-<p><br />
-Os movimentos da Frente Brasil Popular iniciaram, no Anfiteatro P&ocirc;r do Sol em Porto Alegre, o Acampamento pela Democracia e em Defesa do direito de Lula ser candidato.</p>
-
-<p><br />
-A largada da jornada foi dada nesta segunda-feira, com a marcha de 5 mil camponeses da Via campesina, da Ponte do Gua&iacute;ba (BR 116) at&eacute; o local do acampamento, que come&ccedil;a a receber as delega&ccedil;&otilde;es. Haver&aacute;, a partir das 14h, um semin&aacute;rio sobre arbitrariedades do processo contra o presidente Lula.</p>
-
-<p><br />
-Na ter&ccedil;a-feira, os acampados marcham at&eacute; o audit&oacute;rio Dante Barone, na Assembleia Legislativa, para o ato das mulheres pela democracia, a partir das 10h.</p>
-
-<p><br />
-No per&iacute;odo da tarde, o coordenador do MST e da Frente Brasil Popular, Jo&atilde;o Pedro Stedile, participa de semin&aacute;rio sobre a conjuntura brasileira, a partir das 14h.</p>
-
-<p><br />
-O grande ato tem concentra&ccedil;&atilde;o a partir das 17h na Esquina Democr&aacute;tica, onde ser&aacute; o ato pol&iacute;tico, que ser&aacute; seguido por uma marcha pelo centro at&eacute; o Anfiteatro P&ocirc;r do Sol, que ser&aacute; o local da Grande Vig&iacute;lia pela democracia, que acompanhar&aacute; a 2 quil&ocirc;metros do TRF 4 o julgamento do ex-presidente Lula.</p>
-
-<p><br />
-<strong>Com Lula em SP, movimentos far&atilde;o ato na Pra&ccedil;a da Rep&uacute;blica e caminhada at&eacute; a Av. Paulista</strong></p>
 
 <p><br />
 As Frentes Brasil Popular e Povo Sem Medo far&atilde;o ato na Pra&ccedil;a da Rep&uacute;blica no pr&oacute;ximo dia 24 de janeiro, data do julgamento do ex-presidente Luiz In&aacute;cio Lula da Silva. A manifesta&ccedil;&atilde;o come&ccedil;ar&aacute; &agrave;s 17 horas e terminar&aacute; na Av. Paulista ap&oacute;s caminhada democr&aacute;tica.</p>
