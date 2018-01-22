@@ -7,16 +7,16 @@ tags:
 title: Atos se espalham pelo Brasil em defesa do direito de Lula ser candidato
 support_line: "Vasta programação em Porto Alegre, outras capitais e pelo mundo se espalham em defesa da democracia brasileira."
 menu: lutas e mobilizações
-images_hd: //farm5.staticflickr.com/4715/39803515972_d1aee6b877_b.jpg
+images_hd: //farm5.staticflickr.com/4617/39803824832_b10f3871e0_b.jpg
 layout: post
 files:
-  - link: //farm5.staticflickr.com/4715/39803515972_d1aee6b877_b.jpg
-    original: //farm5.staticflickr.com/4715/39803515972_80be0c0ee2_o.jpg
-    thumbnail: //farm5.staticflickr.com/4715/39803515972_d1aee6b877_t.jpg
-    medium: //farm5.staticflickr.com/4715/39803515972_d1aee6b877_z.jpg
-    small: //farm5.staticflickr.com/4715/39803515972_d1aee6b877_n.jpg
+  - link: //farm5.staticflickr.com/4617/39803824832_b10f3871e0_b.jpg
+    original: //farm5.staticflickr.com/4617/39803824832_190e42e696_o.jpg
+    thumbnail: //farm5.staticflickr.com/4617/39803824832_b10f3871e0_t.jpg
+    medium: //farm5.staticflickr.com/4617/39803824832_b10f3871e0_z.jpg
+    small: //farm5.staticflickr.com/4617/39803824832_b10f3871e0_n.jpg
     title: lulapelobrasil.jpg
-    $$hashKey: 0DC
+    $$hashKey: 0N4
 created_date: "2018-01-22T11:12:13-02:00"
 published: true
 releated_posts:
@@ -40,10 +40,10 @@ releated_posts:
 <p>O m&ecirc;s de janeiro come&ccedil;ou com agenda intensa para os movimentos sociais por causa do&nbsp; julgamento do ex-presidente Luiz In&aacute;cio Lula Silva que ser&aacute; no dia 24 de janeiro, no Tribunal Regional Federal da Quarta Regi&atilde;o.</p>
 
 <p><br />
-As atividades em Porto Alegre come&ccedil;aram hoje, dia 22 com a Marcha da Via Campesina que far&aacute; um acampamento na cidade e vai at&eacute; o dia do julgamento onde os manifestantes far&atilde;o uma vig&iacute;lia.</p>
+As atividades em Porto Alegre come&ccedil;aram nesta segunda-feira (22), com a Marcha da Via Campesina que far&aacute; um acampamento na cidade e vai at&eacute; o dia do julgamento onde os manifestantes far&atilde;o uma vig&iacute;lia.</p>
 
 <p><br />
-O ato pol&iacute;tico que possivelmente receber&aacute; o ex-presidente ser&aacute; no dia 23 de janeiro. Veja abaixo a agenda internacional e em Porto Alegre e tabela com os atos pelo pa&iacute;s.:</p>
+O ato pol&iacute;tico que possivelmente receber&aacute; o ex-presidente ser&aacute; no dia 23 de janeiro. Veja abaixo a agenda internacional e em Porto Alegre e tabela com os atos pelo pa&iacute;s:</p>
 
 <p><br />
 <strong>22/01</strong></p>
