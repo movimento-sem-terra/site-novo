@@ -72,9 +72,9 @@ Eu lamento essas declara&ccedil;&otilde;es e acho que o presidente do TRF4, dese
 <p><br />
 O Judici&aacute;rio manda jovens que s&atilde;o pequenos infratores para pres&iacute;dios onde eles se juntam com bandidos de alta periculosidade. O Judici&aacute;rio brasileiro &eacute; hoje o maior formador de bandidos do Brasil porque mistura autores de pequenos delitos com lideran&ccedil;as de fac&ccedil;&otilde;es do tr&aacute;fico, transformando as nossas penitenci&aacute;rias em verdadeiras escolas do crime. Um jovem se transforma em criminoso de forma limpa e invis&iacute;vel aos olhos da sociedade. O Judici&aacute;rio n&atilde;o faz essa autocr&iacute;tica, mas agora esse poder est&aacute; exposto. Tenho dito e reafirmo aqui: &Eacute; o Judici&aacute;rio que vai a j&uacute;ri popular no dia 24. Ele tem uma chance de se reencontrar com a sua miss&atilde;o, com a cidadania brasileira e com a Constitui&ccedil;&atilde;o. Se perder essa chance, sair&aacute; muito menor do que entrou. N&atilde;o ser&aacute; uma contradi&ccedil;&atilde;o entre o Judici&aacute;rio e a cidadania brasileira, mas sim entre o Judici&aacute;rio e a comunidade jur&iacute;dica brasileira e internacional.</p>
 
-<figure class="image" style="float:left"><img alt="20180119-jornal-sul21-jb-190118-8616-19.jpg" height="300" src="//farm5.staticflickr.com/4724/39147970484_18c9a2846d_b.jpg" width="450" />
-<figcaption><em>&ldquo;Se o m&eacute;todo Moro for acolhido, se abrir&aacute; um fosso talvez intranspon&iacute;vel,<br />
-no curto prazo&rdquo;. (Foto: Joana Berwanger/Sul21)</em></figcaption>
+<figure class="image" style="float:left"><img alt="20180119-jornal-sul21-jb-190118-8616-19.jpg" height="267" src="//farm5.staticflickr.com/4724/39147970484_18c9a2846d_b.jpg" width="400" />
+<figcaption><em>&ldquo;Se o m&eacute;todo Moro for acolhido, se abrir&aacute; um fosso talvez<br />
+intranspon&iacute;vel,&nbsp;no curto prazo&rdquo;. (Foto: Joana Berwanger/Sul21)</em></figcaption>
 </figure>
 
 <p><br />
