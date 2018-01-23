@@ -5,7 +5,7 @@ tags:
   - tag: justiça
   - tag: julgamento
   - tag: eleição
-title: "Em nota, CEBIse manifesta sobre o julgamento de Lula"
+title: "Em nota, CEBI se manifesta sobre o julgamento de Lula"
 support_line: "\"A entidade reafirma sua posição contrária a todas as formas de corrupção, fenômeno social, político, econômico e jurídico que enfraquece a governabilidade e a garantia dos direitos inalienáveis para a vida humana digna e plena.\""
 images_hd: //farm5.staticflickr.com/4624/39148203054_9e4d4dd714_b.jpg
 menu: lutas e mobilizações
@@ -28,8 +28,6 @@ releated_posts:
   - _posts/2018/01/2018-01-17-julgamento-de-lula-sem-terra-debatem-momento-politico-e-preparam-mobilizacoes-em-porto-alegre.md
 
 ---
-<p>&nbsp;</p>
-
 <p>&nbsp;</p>
 
 <p><em>Da P&aacute;gina do MST</em></p>
