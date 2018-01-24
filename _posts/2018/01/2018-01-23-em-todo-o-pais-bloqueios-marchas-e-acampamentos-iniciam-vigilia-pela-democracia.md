@@ -8,7 +8,7 @@ title: "Em todo o país, bloqueios, marchas e acampamentos iniciam vigília pela
 support_line: "Em defesa da democracia e do direito de Lula ser candidato, movimentos do campo e da cidade realizam mobilizações nas diversas regiões do país"
 menu: lutas e mobilizações
 images_hd: //farm5.staticflickr.com/4707/25986264138_547c6aa4ca_b.jpg
-section: cover
+section: featured-news
 layout: post
 files:
   - link: //farm5.staticflickr.com/4623/39827325712_541ca92136_b.jpg
