@@ -3,7 +3,7 @@ date: "2018-01-24T18:33:26-02:00"
 tags:
   - tag: lula
 title: Frente Brasil Popular convoca trabalhadores às ruas em defesa de eleições democráticas
-support_line: "Em nota a Frente destaca que não é apenas o direito de Lula ser candidato que está em jogo: “é o rumo da nossa justiça e democracia”."
+support_line: "Em nota, a Frente destaca que não é apenas o direito de Lula ser candidato que está em jogo: “é o rumo da nossa justiça e democracia”"
 menu: direitos humanos
 images_hd: //farm5.staticflickr.com/4763/39880589211_e6f369ff8c_b.jpg
 layout: post
@@ -25,10 +25,10 @@ releated_posts:
 ---
 <p>&nbsp;</p>
 
-<p>Da P&aacute;gina do MST</p>
+<p><em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Ap&oacute;s julgamento realizado na tarde desta quarta-feira (24), no Tribunal Regional Federal da 4&ordf; Regi&atilde;o, em Porto Alegre (RS),&nbsp;a Frente Brasil Popular emitiu uma nota em rep&uacute;dio a decis&atilde;o que condena o ex-presidente Lula no caso Tr&iacute;plex.&nbsp;</p>
+Ap&oacute;s julgamento realizado na tarde desta quarta-feira (24), no Tribunal Regional Federal da 4&ordf; Regi&atilde;o, em Porto Alegre (RS),&nbsp;a Frente Brasil Popular emitiu uma nota em rep&uacute;dio a decis&atilde;o que condena o ex-presidente Lula no caso triplex.&nbsp;</p>
 
 <p><br />
 A frente destaca que a decis&atilde;o retira do povo brasileiro o direito de escolher seu candidato a presidente em elei&ccedil;&otilde;es livres. &ldquo;Impedir a participa&ccedil;&atilde;o de Lula na defini&ccedil;&atilde;o dos rumos do pa&iacute;s s&atilde;o condi&ccedil;&otilde;es para impor o programa de retirada de direitos dos trabalhadores, destrui&ccedil;&atilde;o do Estado social, entrega dos nossos recursos naturais e submiss&atilde;o ao imperialismo dos Estados Unidos&rdquo;, explica a nota.</p>
@@ -84,4 +84,4 @@ Continuaremos denunciando que elei&ccedil;&atilde;o sem Lula &eacute; fraude, &e
 
 <p style="text-align: right;">Frente Brasil Popular</p>
 
-<p><em>*Editado Por Wesley Lima</em></p>
+<p><em>*Editado por Wesley Lima</em></p>
