@@ -2,6 +2,8 @@
 date: "2018-01-24T18:33:26-02:00"
 tags:
   - tag: lula
+  - tag: democracia
+  - tag: justiça
 title: Frente Brasil Popular convoca trabalhadores às ruas em defesa de eleições democráticas
 support_line: "Em nota, a Frente destaca que não é apenas o direito de Lula ser candidato que está em jogo: “é o rumo da nossa justiça e democracia”"
 menu: direitos humanos
@@ -18,8 +20,14 @@ files:
 created_date: "2018-01-24T18:41:16-02:00"
 published: true
 releated_posts:
+  - _posts/2018/01/2018-01-19-mpf-fecha-acordo-com-movimentos-para-acampamento-em-apoio-a-lula-em-porto-alegre.md
   - _posts/2018/01/2018-01-23-quem-sera-julgado-dia-24-e-o-poder-judiciario-e-nao-lula-diz-stedile.md
+  - _posts/2018/01/2018-01-23-nao-permitiremos-a-prisao-de-lula-afirma-alexandre-conceicao-do-mst.md
   - _posts/2018/01/2018-01-23-frei-sergio-goergen-e-o-judiciario-que-vai-a-juri-popular-no-dia-24-de-janeiro.md
+  - _posts/2018/01/2018-01-24-trabalhadores-do-campo-e-da-cidade-intensificam-acoes-na-bahia.md
+  - _posts/2017/12/2017-12-20-em-ato-diante-do-trf4-juristas-defendem-que-processo-contra-lula-e-eivado-de-injusticas.md
+  - _posts/2018/01/2018-01-19-justica-intima-joao-pedro-stedile-dirigente-do-mst-por-manifestacao-em-porto-alegre.md
+  - _posts/2018/01/2018-01-19-eleicao-sem-lula-e-fraude.md
   - _posts/2018/01/2018-01-23-trabalhadores-sem-terra-fecham-rodovias-na-bahia-e-afirmam-eleicao-sem-lula-e-fraude.md
 
 ---
