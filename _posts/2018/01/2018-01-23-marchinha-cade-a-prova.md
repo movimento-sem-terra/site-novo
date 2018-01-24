@@ -30,3 +30,4 @@ releated_posts:
   - _posts/2018/01/2018-01-18-via-campesina-faz-intervencoes-em-porto-alegre-em-defesa-da-democracia-e-de-lula.md
 
 ---
+<p><iframe allow="autoplay" frameborder="no" height="300" scrolling="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/387597347&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true" width="100%"></iframe></p>
