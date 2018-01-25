@@ -29,7 +29,19 @@ releated_posts:
 ---
 <p>&nbsp;</p>
 
-<p><em>Da P&aacute;gina do MST</em></p>
+<p><em>Da P&aacute;gina do MST</em><br />
+&nbsp;</p>
+
+<p>&ldquo;Do Povo foi retirado seu desejo manifesto nas urnas com a elei&ccedil;&atilde;o de Dilma e, agora, sequer a possibilidade de eleger um Presidente pode ser exercida pela popula&ccedil;&atilde;o&rdquo;, afirma a dire&ccedil;&atilde;o do MST em nota, ap&oacute;s o resultado do julgamento do ex-presidente Lula, ao qual foi condenado.</p>
+
+<p><br />
+O Movimento, que participou de todas as mobiliza&ccedil;&otilde;es em defesa do direito de Lula ser candidato, repudia a decis&atilde;o tomada no Tribunal Regional Federal da 4&ordf; Regi&atilde;o (TRF-4) e destaca o &ldquo;desprezo&rdquo; do Judici&aacute;rio com a democracia brasileira, o &ldquo;que deveria ser a raz&atilde;o de sua exist&ecirc;ncia&rdquo;, explica no documento.&nbsp;</p>
+
+<p><br />
+Nesse sentido, reafirma a necessidade de permanecer em luta em todo Brasil na defesa do Lula e dos direitos hist&oacute;ricos conquistados pela classe trabalhadora, sem perder de vista a unidade e a participa&ccedil;&atilde;o pol&iacute;tica.</p>
+
+<p><br />
+<em>Confira a nota na &iacute;ntegra:</em></p>
 
 <p>&nbsp;</p>
 
