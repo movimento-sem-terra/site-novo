@@ -73,4 +73,4 @@ Seguiremos sim de &ldquo;m&atilde;os dadas&rdquo; construindo o MST e as tarefas
 <p>&nbsp;</p>
 
 <p><em>*Ayala Ferreira &eacute; dirigente nacional do MST pelo estado do Par&aacute;.<br />
-**Kelli Mafort tamb&eacute;m &eacute; dirigente nacional pelo estado de S&atilde;o Paulo e faz parte do coletivo de g&ecirc;nero.</em></p>
+**Kelli Mafort tamb&eacute;m &eacute; dirigente nacional pelo estado de S&atilde;o Paulo e faz parte do setor&nbsp;de g&ecirc;nero.</em></p>
