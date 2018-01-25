@@ -1,6 +1,9 @@
 ---
 date: "2018-01-24T22:05:56-02:00"
-tags: []
+tags:
+  - tag: História
+  - tag: MST
+  - tag: comemorações
 title: Parabéns MST pelos seus 34 anos
 support_line: "Aqui o sentimento é de orgulho pelo que construímos e pelo que ofertamos à classe trabalhadora neste momento de encruzilhada histórica "
 menu: "educação, cultura e comunicação"
@@ -16,7 +19,11 @@ files:
     $$hashKey: 0JN
 created_date: "2018-01-24T22:18:28-02:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2017/09/2017-09-13-comemoracoes-dos-30-anos-e-marcada-pelo-resgate-da-luta-pela-terra-na-bahia.md
+  - _posts/2017/08/2017-08-25-em-1987-nao-tinhamos-ideia-no-que-a-luta-no-40-45-se-tornaria.md
+  - _posts/2017/09/2017-09-08-27-anos-do-mst-no-rn-e-comemorado-com-circuito-cultural-e-feira-da-reforma-agraria.md
+  - _posts/2017/09/2017-09-04-a-vida-de-maria-80-anos-mae-de-15-filhos-e-fundadora-do-mst-no-ceara.md
 
 ---
 <div style="text-align:center">
