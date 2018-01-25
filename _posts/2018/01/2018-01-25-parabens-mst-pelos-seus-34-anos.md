@@ -24,6 +24,7 @@ releated_posts:
   - _posts/2017/08/2017-08-25-em-1987-nao-tinhamos-ideia-no-que-a-luta-no-40-45-se-tornaria.md
   - _posts/2017/09/2017-09-08-27-anos-do-mst-no-rn-e-comemorado-com-circuito-cultural-e-feira-da-reforma-agraria.md
   - _posts/2017/09/2017-09-04-a-vida-de-maria-80-anos-mae-de-15-filhos-e-fundadora-do-mst-no-ceara.md
+section: featured-news
 
 ---
 <div style="text-align:center">
