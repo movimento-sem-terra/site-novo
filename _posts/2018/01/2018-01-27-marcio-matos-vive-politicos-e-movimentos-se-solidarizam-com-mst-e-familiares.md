@@ -64,10 +64,76 @@ J&aacute; a Comiss&atilde;o Pastoral da Terra (CPT), ao resgatar o hist&oacute;r
 Assentamentos regados com o suor e o sangue de camponeses e camponesas que marcaram a resist&ecirc;ncia e a coragem de lutar por justi&ccedil;a social&rdquo;, afirma.</p>
 
 <p><br />
-&ldquo;Mesmo assim, ainda persiste a viol&ecirc;ncia nesse ch&atilde;o sagrado onde nasceu a CPT de Ruy Barbosa e marcou a chegada do MST na Chapada Diamantina&rdquo;, pontua a Pastoral. Confira abaixo a &iacute;ntegra dessas e outras notas:<br />
+&ldquo;Mesmo assim, ainda persiste a viol&ecirc;ncia nesse ch&atilde;o sagrado onde nasceu a CPT de Ruy Barbosa e marcou a chegada do MST na Chapada Diamantina&rdquo;, pontua a Pastoral.</p>
+
+<p>&nbsp;</p>
+
+<p>Confira abaixo a &iacute;ntegra dessas e outras notas:<br />
 <br />
 <a href="http://midianinja.org/news/midia-ninja- e-fora- do-eixo- se-solidarizam- com- familia-de- marcio-matos- e-mst/">M&iacute;dia Ninja&nbsp;</a><br />
-<a href="http://consultapopular.org.br/noticia/marcinho-presente- hoje-e- sempre">Consulta Popular&nbsp;</a><br />
-<a href="http://www.pt.org.br/nota-de- pesar-pelo- assassinato-de- marcio-matos- importante-lideranca- na-bahia/">Partido dos Trabalhadores</a> (PT-BA)&nbsp;<br />
-<a href="https://www.facebook.com/EPSPT/posts/1002099153264158">Esquerda Popular Socialista </a>(EPS-PT)<br />
+<br />
+<a href="http://consultapopular.org.br/noticia/marcinho-presente- hoje-e- sempre">Consulta Popular&nbsp;</a></p>
+
+<p><br />
+<a href="http://www.pt.org.br/nota-de- pesar-pelo- assassinato-de- marcio-matos- importante-lideranca- na-bahia/">Partido dos Trabalhadores</a> (PT-BA)&nbsp;</p>
+
+<p><br />
+<a href="https://www.facebook.com/EPSPT/posts/1002099153264158">Esquerda Popular Socialista </a>(EPS-PT)</p>
+
+<p><br />
 <a href="https://wsf2018.org/nota-de- pesar-marcio- matos/">F&oacute;rum Social Mundial</a> (FSM)&nbsp;</p>
+
+<p><br />
+<a href="https://www.cptnacional.org.br/publicacoes/noticias/conflitos-no- campo/4207-nota- de- pesar-marcio- matos-lideranca- do-mst- na-bahia- presente">Comiss&atilde;o Pastoral da Terra</a> (CPT)<br />
+<br />
+<a href="https://m.facebook.com/story.php?story_fbid=1976921949015709&amp;amp;substory_index=0&amp;amp;id=73 1837540190829">Mario Jac&oacute;</a> (PT)</p>
+
+<p><br />
+<a href="https://www.facebook.com/vereadorsuica/posts/704695339735033">Vereador Su&iacute;ca</a> (PT)<br />
+<br />
+<a href="http://www.eurovia.org/es/por-el- companero-marcio- mattos-movimiento- de-los- trabajadores-rurales- sin-tierra- mst/">Cordinadora Europea Via Campesina </a></p>
+
+<p><br />
+<a href="https://portal.uneb.br/noticias/2018/01/25/uneb- divulga-nota- de-repudio- ao-assassinato- do-militante- do-mst- marcio-matos- ex-aluno- do- pronerauneb/">Universidade do Estado da Bahia</a> (UNEB)</p>
+
+<p><br />
+<a href="https://www.facebook.com/GivaldoVieiraES/photos/a.189952777808464.48143.1877757313 59502/1131174830352916/?type=3&amp;amp;theater">Deputado Federal Givaldo Vieira</a> (PT-ES)</p>
+
+<p><br />
+<a href="http://www.irpaa.org/noticias/1775/nota-de- pesar-e- solidariedade-aos- companheiros-e- companheiras-do- mst">Instituto Regional da Pequena Agropecu&aacute;ria Apropriada</a> (IRPAA)</p>
+
+<p><br />
+<a href="https://drive.google.com/open?id=1ewWXzg1r9eHmECRRYblkF6sJB2w4LsDu">Associa&ccedil;&atilde;o de Advogados de Trabalhadores Rurais no Estado da Bahia </a>(AATR-BA)</p>
+
+<p><br />
+<a href="https://drive.google.com/open?id=1vKkaYcjXy1BUaNoyH3sASUMU3b1kM0_d">Bruno Dauster </a></p>
+
+<p><br />
+<a href="https://drive.google.com/open?id=17QYsNqMEAMs9jEywawlyDhgyJPm3VLYg">Emanuel Ribeiro Filho</a></p>
+
+<p>&nbsp;</p>
+
+<p><a href="https://drive.google.com/open?id=1eUWWwAHU3YyRPxrxDqnRvnpUcGFXOURw">Deputado Federal Valmir Assun&ccedil;&atilde;o (PT-BA)</a></p>
+
+<p><br />
+<a href="https://drive.google.com/open?id=1aqEAsR0rASSoG16zULybsVJn049-cJA9">Movimento dos Atingidos por Barragens (MAB)</a></p>
+
+<p><br />
+<a href="https://drive.google.com/open?id=1DwKcVJ77fPnek28LzHBF3CQ7iFMFAN4l">Partido Socialismo e Liberdade </a>(PSOL-BA)</p>
+
+<p><br />
+<a href="https://drive.google.com/open?id=1xSlVVgG71O298YbeH1w8NB4pk8BydQ6j">Sindicato dos Trabalhadores em Limpeza P&uacute;blica, Asseio, Conserva&ccedil;&atilde;o, Jardinagem e Controle<br />
+de Pragas Intermunicipal </a>(Sindilimp-BA)</p>
+
+<p><br />
+<a href="https://drive.google.com/open?id=1le157RDXR-HnhY1ZhvUD8BUjW3tcEan-">PT - Brasil </a></p>
+
+<p><br />
+<a href="https://drive.google.com/open?id=1Ip42uU7JRUZp-Wwr- _3ohqh-- y_sTcRy">Setor de Direitos Humanos do MST </a></p>
+
+<p><br />
+<a href="https://drive.google.com/open?id=1bWQETsQ_L69XrfboAWcEFLTx99rZKrF9">Vereador Makrisi Angeli (PT/ES)</a></p>
+
+<p><br />
+<a href="https://drive.google.com/open?id=1zZo3c28WX8ZE3Vz-3GmPxkYhl6CKxa7g">Movimento dos Pequenos Agricultores (MPA)</a><br />
+&nbsp;</p>
