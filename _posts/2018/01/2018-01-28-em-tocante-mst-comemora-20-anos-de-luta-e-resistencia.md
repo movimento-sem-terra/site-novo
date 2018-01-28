@@ -1,5 +1,5 @@
 ---
-date: "2018-01-28T14:26:48-02:00"
+date: "2018-01-28T13:26:48-03:00"
 tags:
   - tag: mobilizações
   - tag: tocantins
@@ -7,7 +7,7 @@ tags:
 menu: lutas e mobilizações
 images_hd: //farm5.staticflickr.com/4611/25076772447_6a966a8a77_b.jpg
 support_line: "O MST do Tocantins está inserido no contexto da Luta pela Terra na região do Bico do Papagaio enfrentando o latifúndio desde a década de 1980\n"
-title: "Em Tocante, MST comemora 20 anos de luta e resistência \n"
+title: "Em Tocantins, MST comemora 20 anos de luta e resistência \n"
 layout: post
 files:
   - link: //farm5.staticflickr.com/4611/25076772447_6a966a8a77_b.jpg
@@ -26,8 +26,8 @@ releated_posts:
 ---
 <p><br style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;" />
 <br style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;" />
-<span style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;">Por Hony Riquison Sobrinho</span><br style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;" />
-<span style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;">Da P&aacute;gina do MST</span><br style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;" />
+<em><span style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;">Por Hony Riquison Sobrinho</span><br style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;" />
+<span style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;">Da P&aacute;gina do MST</span></em><br style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;" />
 <br style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;" />
 <br style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;" />
 <span style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;">Em 2018 comemoramos duas d&eacute;cadas de lutas e conquistas do MST no estado do Tocantins, bem como nas regi&otilde;es sul do Maranh&atilde;o, Sudeste do Par&aacute; e Oeste da Bahia.</span><br style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;" />
