@@ -34,6 +34,7 @@ releated_posts:
   - _posts/2017/12/2017-12-13-para-impedir-despejosdenatal-no-para-mst-realiza-grande-ato-publico-contra-violencia.md
   - _posts/2017/12/2017-12-13-a-luta-pela-defesa-e-garantia-de-direitos-humanos-dos-lutadores-e-das-lutadoras-sociais-e-uma-acao-constante-e-sem-fim.md
   - _posts/2017/12/2017-12-11-em-nota-movimentos-populares-repudiam-condenacao-arbitraria-do-ex-presidente-da-fetagri-para.md
+section: featured-news
 
 ---
 <div style="text-align:center">
