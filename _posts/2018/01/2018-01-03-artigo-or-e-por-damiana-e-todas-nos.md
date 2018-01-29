@@ -5,7 +5,7 @@ tags:
   - tag: gênero
   - tag: mulheres
   - tag: bahia
-title: "ARTIGO | É por Damiana e todas nós"
+title: É por Damiana e todas nós
 images_hd: //farm5.staticflickr.com/4643/39472811901_f4d4fcc6c9_b.jpg
 support_line: "No último dia 22 de dezembro, mais uma mulher foi sentenciada. A Sem Terra Damiana Farias (46), moradora do acampamento Gildásio Sales Ribeiro foi morta."
 menu: lutas e mobilizações
