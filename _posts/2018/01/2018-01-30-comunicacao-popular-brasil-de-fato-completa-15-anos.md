@@ -100,8 +100,6 @@ Do Brasil de Fato</em></p>
 
 <p>Em uma das suas &uacute;ltimas entrevistas, o economista Celso Furtado, um dos intelectuais brasileiros mais importantes do s&eacute;culo XX, afirmou que a coragem &eacute; a chave da mudan&ccedil;a. A declara&ccedil;&atilde;o de Furtado, que faleceria em 2004, foi publicada h&aacute; exatos 15 anos, na edi&ccedil;&atilde;o zero do Brasil de Fato &mdash; projeto que nasceu com o corajoso objetivo de fazer comunica&ccedil;&atilde;o popular no pa&iacute;s.</p>
 
-<p>&nbsp;</p>
-
 <figure class="image"><img alt="bdfb.png" height="440" src="//farm5.staticflickr.com/4629/39953742452_473a8a073e_b.jpg" width="600" />
 <figcaption>Entrevista com Celso Furtado em 2003, publicada na edi&ccedil;&atilde;o zero do Brasil de Fato. Foto: Reprodu&ccedil;&atilde;o</figcaption>
 </figure>
@@ -112,24 +110,19 @@ No dia 25 de janeiro de 2003, 5 mil pessoas lotavam o gin&aacute;sio Ara&uacute;
 <p><br />
 O ato ocorreu durante o 3&ordm; F&oacute;rum Mundial Social, que reuniu naquele ano mais de 60 mil pessoas de todas as partes do mundo na capital ga&uacute;cha. Foi um ato hist&oacute;rico, lembra Nilton Viana, que foi editor-chefe do Brasil de Fato por dez anos, entre 2003 e 2013.</p>
 
-<p>&nbsp;</p>
-
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="bdfc.jpg" src="//farm5.staticflickr.com/4700/25114538537_e40c6415d3_b.jpg" />
 <figcaption>Gin&aacute;sio em Porto Alegre lotado para o lan&ccedil;amento do jornal. Foto:&nbsp;Jo&atilde;o Zinclar</figcaption>
 </figure>
 </div>
 
-<p><br />
-&quot;N&atilde;o tenho conhecimento de qualquer ato de lan&ccedil;amento de um ve&iacute;culo de comunica&ccedil;&atilde;o com a grandiosidade que foi aquele ato em Porto Alegre, onde n&oacute;s reunimos as principais lideran&ccedil;as da esquerda do Brasil e do mundo&quot;, diz.</p>
+<p>&quot;N&atilde;o tenho conhecimento de qualquer ato de lan&ccedil;amento de um ve&iacute;culo de comunica&ccedil;&atilde;o com a grandiosidade que foi aquele ato em Porto Alegre, onde n&oacute;s reunimos as principais lideran&ccedil;as da esquerda do Brasil e do mundo&quot;, diz.</p>
 
 <p><br />
 Entre nomes internacionais que marcaram presen&ccedil;a, estavam o da pediatra cubana Aleida Guevara - filha de Che Guevara -, do escritor uruguaio Eduardo Galeano, do historiador russo Kiva Maidanik, do linguista estadunidense Noam Chomsky e da ativista argentina Hebe de Bonafini.</p>
 
 <p><br />
 Grandes refer&ecirc;ncias brasileiras tamb&eacute;m participaram do lan&ccedil;amento: o fot&oacute;grafo Sebasti&atilde;o Salgado, o advogado e pol&iacute;tico Pl&iacute;nio de Arruda Sampaio, o bispo e te&oacute;logo Dom Tom&aacute;s Baldu&iacute;no, o historiador Raul Pont e o escritor Leonardo Boff.</p>
-
-<p>&nbsp;</p>
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="bdfd.jpg" src="//farm5.staticflickr.com/4666/26112707368_cb53fb9428_b.jpg" />
@@ -156,12 +149,13 @@ A articula&ccedil;&atilde;o para a cria&ccedil;&atilde;o do jornal, no entanto, 
 Os movimentos populares enfrentaram um per&iacute;odo de criminaliza&ccedil;&atilde;o e viol&ecirc;ncia, que culmina em massacres como o de Corumbiara, em 1995, e de Eldorado dos Caraj&aacute;s, em 1996.</p>
 
 <p><br />
-&quot;O cerco era tanto do ponto de vista de governo, como era articulado com todo o conjunto da m&iacute;dia brasileira, que sempre cumpriu esse papel hist&oacute;rico de omitir, quando n&atilde;o mentia, para a opini&atilde;o p&uacute;blica sobre as lutas da classe trabalhadora&quot;, pontua Viana.</p>
-
-<p>&nbsp;</p>
+&quot;O cerco era tanto do ponto de vista de governo, como era articulado com todo o conjunto da m&iacute;dia brasileira, que sempre cumpriu esse papel hist&oacute;rico de omitir, quando n&atilde;o mentia, para a opini&atilde;o p&uacute;blica sobre as lutas da classe trabalhadora&quot;, pontua Viana.<br />
+&nbsp;</p>
 
 <figure class="image"><img alt="bdfe.png" src="//farm5.staticflickr.com/4664/39984840361_edf0ee005e_b.jpg" />
-<figcaption>Movimentos populares buscavam meio de comunica&ccedil;&atilde;o . Na imagem, manifesta&ccedil;&atilde;o do MST pela reforma agr&aacute;ria em 2003. Foto: Luciney Martins</figcaption>
+<figcaption>Movimentos populares buscavam meio de comunica&ccedil;&atilde;o . Na<br />
+imagem, manifesta&ccedil;&atilde;o do MST pela reforma agr&aacute;ria em 2003.<br />
+Foto: Luciney Martins</figcaption>
 </figure>
 
 <p><br />
@@ -175,8 +169,6 @@ A inten&ccedil;&atilde;o era mais ousada e desafiadora: criar um jornal impresso
 
 <p><br />
 O cientista social Frederico Santana Rick, que participava do Conselho Editorial e Pol&iacute;tico, e hoje integra a equipe do Brasil de Fato MG, lembra que a elei&ccedil;&atilde;o de Luiz In&aacute;cio Lula da Silva (PT) tamb&eacute;m deu &acirc;nimo para a nova iniciativa &mdash; o lan&ccedil;amento do jornal no 3&ordm; F&oacute;rum Mundial Social ocorreu 25 dias ap&oacute;s a data que o metal&uacute;rgico chegou ao Pal&aacute;cio do Planalto.</p>
-
-<p>&nbsp;</p>
 
 <figure class="image"><img alt="bdff.png" height="532" src="//farm5.staticflickr.com/4717/39984841191_8d0a477654_b.jpg" width="600" />
 <figcaption>Uma&nbsp;das capas do jornal, em novembro de 2003. Foto: Reprodu&ccedil;&atilde;o</figcaption>
@@ -216,9 +208,8 @@ Mesmo com as dificuldades de financiamento, a edi&ccedil;&atilde;o do jornal tev
 &quot;Foi uma &aacute;rdua discuss&atilde;o para saber como seria o processo de posi&ccedil;&atilde;o, de produ&ccedil;&atilde;o de pautas assim como o t&iacute;tulo do jornal. Eu me lembro que teve uma discuss&atilde;o de mais de um m&ecirc;s para determinar o nome do Brasil de Fato. Eram reuni&otilde;es que a gente fazia com at&eacute; 80 pessoas&quot;, recorda.</p>
 
 <p><br />
-Ap&oacute;s o lan&ccedil;amento em Porto Alegre, foram criados comit&ecirc;s em todo o pa&iacute;s para debater pautas e caminhos do jornal com a base dos movimentos e que reuniam a pluralidade de vozes dentro da esquerda.</p>
-
-<p>&nbsp;</p>
+Ap&oacute;s o lan&ccedil;amento em Porto Alegre, foram criados comit&ecirc;s em todo o pa&iacute;s para debater pautas e caminhos do jornal com a base dos movimentos e que reuniam a pluralidade de vozes dentro da esquerda.<br />
+&nbsp;</p>
 
 <figure class="image"><img alt="bdfg.jpg" src="//farm5.staticflickr.com/4675/39087080355_1249b3c966_b.jpg" />
 <figcaption>O fot&oacute;grafo Jo&atilde;o Zinclar, falecido em 2013, foi um colaborador ass&iacute;duo do jornal. Na imagem, uma de suas fotografias&nbsp;sobre a transposi&ccedil;&atilde;o do Rio S&atilde;o Francisco. Foto:&nbsp;Jo&atilde;o Zinclar</figcaption>
@@ -251,9 +242,12 @@ Ao longo de sua trajet&oacute;ria, o jornal passou por diversas altera&ccedil;&o
 <p><br />
 Frederico Santana Rick explica que a decis&atilde;o ocorreu ap&oacute;s a constata&ccedil;&atilde;o de que o jornal, cujos leitores eram basicamente militantes e universit&aacute;rios, precisava se massificar: &quot;Naquele momento, ficou claro para n&oacute;s que, para dar sustenta&ccedil;&atilde;o &agrave; iniciativa do Brasil de Fato, era preciso ganhar ades&atilde;o e presen&ccedil;a mais fortemente nos estados, em uma percep&ccedil;&atilde;o que, a n&iacute;vel mundial, a imprensa caminhava neste sentido&quot;.</p>
 
-<p>&nbsp;</p>
+<p><br />
+&nbsp;</p>
 
-<p class="ckeditor-img-caption">Distribui&ccedil;&atilde;o de uma edi&ccedil;&atilde;o especial do BdF no bairro do&nbsp;Graja&uacute;, periferia da capital paulista. Foto: FBP</p>
+<figure class="image"><img alt="bdfh.jpg" height="400" src="//farm5.staticflickr.com/4716/39984841121_333c63bee2_b.jpg" width="600" />
+<figcaption>Distribui&ccedil;&atilde;o de uma edi&ccedil;&atilde;o especial do BdF no bairro do&nbsp;Graja&uacute;, periferia da capital paulista. Foto: FBP</figcaption>
+</figure>
 
 <p><br />
 A jornalista Monyse Ravena, editora do Brasil de Fato Pernambuco, v&ecirc; o surgimento dos tabloides regionais como uma continuidade do processo que o jornal trilhou desde 2003. Monyse come&ccedil;ou como colaboradora, ainda quando o jornal era um seman&aacute;rio e ela cursava Jornalismo na Universidade Federal do Cear&aacute; (UFC).</p>
@@ -266,6 +260,13 @@ Atualmente, quatro estados t&ecirc;m edi&ccedil;&otilde;es regionais semanais: M
 
 <p><br />
 Na &uacute;ltima sexta-feira (19), foi a vez de Sergipe ganhar a edi&ccedil;&atilde;o impressa, com evento de lan&ccedil;amento do Express&atilde;o Sergipana na capital Aracaju. A publica&ccedil;&atilde;o vai ocorrer com periodicidade mensal. Neste ano, a amplia&ccedil;&atilde;o do jornal tamb&eacute;m deve chegar ao Rio Grande do Norte, Bahia e Cear&aacute;.</p>
+
+<p><br />
+&nbsp;</p>
+
+<figure class="image"><img alt="bdfi.jpg" src="//farm5.staticflickr.com/4762/39087080455_14bb5e58e4_b.jpg" />
+<figcaption>Ato de lan&ccedil;amento do Brasil de Fato Bahia, em dezembro de 2017. Estado baiano vai ganhar edi&ccedil;&atilde;o impressa da publica&ccedil;&atilde;o. Foto:&nbsp;Gabi Barros</figcaption>
+</figure>
 
 <p><br />
 Outra aposta recente s&atilde;o as produ&ccedil;&otilde;es para r&aacute;dio, resgatando a iniciativa da Radioag&ecirc;ncia Not&iacute;cias do Planalto (Radioag&ecirc;ncia NP). Agora, a produ&ccedil;&atilde;o dos conte&uacute;dos tamb&eacute;m &eacute; voltada para r&aacute;dios comunit&aacute;rias e outras emissoras, por meio da Radioag&ecirc;ncia Brasil de Fato, al&eacute;m de programas veiculados semanalmente em r&aacute;dios comerciais.</p>
@@ -284,6 +285,13 @@ Jo&atilde;o Pedro Stedile pontua que, no per&iacute;odo recente, as coberturas d
 
 <p><br />
 &quot;O Brasil de Fato, hoje, acho que &eacute; a refer&ecirc;ncia nos movimentos populares e alcan&ccedil;ou um n&uacute;mero de seguidores muito significativo. E acho que ele tem tido, inclusive, um papel muito importante de difusor das lutas em especial naqueles momentos em que a luta de classe fica mais agudizada&quot;, diz.</p>
+
+<p><br />
+&nbsp;</p>
+
+<figure class="image"><img alt="bdfj.jpg" height="450" src="//farm5.staticflickr.com/4767/39953743292_dd07a72093_b.jpg" width="600" />
+<figcaption>Leitor do jornal em S&atilde;o Paulo (SP). Foto: Gabriela Guedes / Levante Popular da Juventude</figcaption>
+</figure>
 
 <p><br />
 Para Dafne Melo, os 15 anos de resist&ecirc;ncia do jornal j&aacute; &eacute; um feito hist&oacute;rico para a comunica&ccedil;&atilde;o alternativa: &quot;Eu acho que &eacute; uma vit&oacute;ria enorme que, depois de 15 anos, o jornal tenha resistido, fazendo um jornalismo com qualidade e sabendo se renovar tamb&eacute;m, que eu acho que &eacute; uma coisa importante que aconteceu nos &uacute;ltimos anos&quot;, declara a jornalista.</p>
