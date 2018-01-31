@@ -4,7 +4,7 @@ tags:
   - tag: direitos-humanos
   - tag: despejo
   - tag: lutas-e-mobilizações
-title: "Em PE, acampados em São Joaquim do Monte sofrem com despejo violento "
+title: "Em PE, acampados de São Joaquim do Monte sofrem com despejo violento "
 support_line: Os acampados lutam por essa terra desde a primeira ocupação ocorrida ainda no ano de 2001. Foram vários despejos e conflitos durante todo o processo
 menu: direitos humanos
 images_hd: //farm5.staticflickr.com/4660/28226202379_0e37c9b306_b.jpg
@@ -18,7 +18,7 @@ files:
     title: maxresdefault.jpg
     $$hashKey: "060"
 created_date: "2018-01-31T13:48:53-02:00"
-published: false
+published: true
 releated_posts:
   - _posts/2017/12/2017-12-05-em-sao-paulo-prefeitura-de-limeira-corta-fornecimento-de-agua-do-acampamento-elizabeth-teixeira.md
   - _posts/2017/07/2017-07-18-acampados-e-acampadas-nas-terras-de-eike-batista-lutam-para-evitar-despejo.md
