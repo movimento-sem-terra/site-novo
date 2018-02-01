@@ -28,7 +28,7 @@ releated_posts:
   - _posts/2018/01/2018-01-03-artigo-or-e-por-damiana-e-todas-nos.md
   - _posts/2017/12/2017-12-26-trabalhadora-sem-terra-e-assassinada-no-extremo-sul-da-bahia.md
   - _posts/2017/12/2017-12-13-a-luta-pela-defesa-e-garantia-de-direitos-humanos-dos-lutadores-e-das-lutadoras-sociais-e-uma-acao-constante-e-sem-fim.md
-section: cover
+section: featured-news
 
 ---
 <p>&nbsp;</p>
