@@ -8,7 +8,7 @@ title: "The Guardian: A revolução agroecológica do MST "
 support_line: Trabalhadores sem terra que ocupavam áreas agrícolas improdutivas e degradadas foram finalmente assentados - e descobriram a generosidade da terra através da agrofloresta.
 menu: agricultura camponesa
 images_hd: //farm5.staticflickr.com/4770/26147789028_3dec2bc8a2_b.jpg
-section: featured-news
+section: cover
 layout: post
 files:
   - link: //farm5.staticflickr.com/4770/26147789028_3dec2bc8a2_b.jpg
