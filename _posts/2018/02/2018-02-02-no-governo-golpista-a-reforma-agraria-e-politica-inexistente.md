@@ -4,8 +4,8 @@ tags:
   - tag: agronegócio
   - tag: governo-temer
   - tag: ruralistas
-title: "No Governo golpista, a Reforma Agrária é política inexistente.\n\n"
-support_line: "Em balanço apresentado ontem (1), no Palácio do Planalto, o ministro da Casa Civil, Eliseu Padilha, maquiou dados ao falar sobre a Reforma Agrária no país"
+title: "MST se posiciona contra números apresentados por Eliseu Padilha \n"
+support_line: "Em balanço divulgado ontem (1), no Palácio do Planalto, o ministro da Casa Civil, maquiou dados ao falar sobre a Reforma Agrária no país"
 images_hd: //farm5.staticflickr.com/4758/26171998528_211907c8e3_b.jpg
 menu: agronegócio
 layout: post
