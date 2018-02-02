@@ -48,10 +48,7 @@ releated_posts:
 
 <div dir="auto"><br />
 <br />
-Jo&atilde;o Pedro St&eacute;dile, da coordena&ccedil;&atilde;o nacional do MST, fala sobre os rumos da esquerda em ano de elei&ccedil;&atilde;o.</div>
-
-<p><br />
-O l&iacute;der do MST defende a participa&ccedil;&atilde;o do ex-presidente Lula nas elei&ccedil;&otilde;es 2018 e cita a grande jornada nacional de luta que ser&aacute; realizada entre os dias 19 e 23 de fevereiro. A jornada ter&aacute; tr&ecirc;s vertentes: Luta contra a Reforma da Previd&ecirc;ncia, Luta por elei&ccedil;&otilde;es livres e democr&aacute;ticas com a participa&ccedil;&atilde;o do ex-presidente e a contribui&ccedil;&atilde;o com propostas para mudan&ccedil;as no Brasil.&nbsp;</p>
+O coordenador do MST defende a participa&ccedil;&atilde;o do ex-presidente Lula nas elei&ccedil;&otilde;es 2018 e cita a grande jornada nacional de luta que ser&aacute; realizada entre os dias 19 e 23 de fevereiro. A jornada ter&aacute; tr&ecirc;s vertentes: Luta contra a Reforma da Previd&ecirc;ncia, Luta por elei&ccedil;&otilde;es livres e democr&aacute;ticas com a participa&ccedil;&atilde;o do ex-presidente e a contribui&ccedil;&atilde;o com propostas para mudan&ccedil;as no Brasil.&nbsp;</div>
 
 <p>&nbsp;</p>
 
