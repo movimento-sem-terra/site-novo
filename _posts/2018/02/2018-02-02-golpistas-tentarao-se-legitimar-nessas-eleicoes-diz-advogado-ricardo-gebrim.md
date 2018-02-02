@@ -41,10 +41,10 @@ releated_posts:
 
 <div dir="auto"><br />
 <br />
-Os partidos pol&iacute;ticos, organiza&ccedil;&otilde;es de m&iacute;dia e setores do judici&aacute;rio que se articularam para patrocinar o golpe contra a presidenta Dilma Rousseff em 2016, far&atilde;o de tudo para se legitimar nas elei&ccedil;&otilde;es deste ano. &Eacute; o que afirma Ricardo Gebrim, advogado e membro da Consulta Popular.</div>
+Os partidos pol&iacute;ticos, organiza&ccedil;&otilde;es de m&iacute;dia e setores do judici&aacute;rio que se articularam para patrocinar o golpe contpra a presidenta Dilma Rousseff em 2016, far&atilde;o de tudo para se legitimar nas elei&ccedil;&otilde;es deste ano. &Eacute; o que afirma Ricardo Gebrim, advogado e membro da Consulta Popular.</div>
 
 <p><br />
-Gebrim participou nesta quinta-feira (1&ordm;), da plen&aacute;ria da Frente Brasil Popular, entidade que re&uacute;ne movimentos populares, centrais sindicais e partidos pol&iacute;ticos, na Escola Nacional Florestan Fernandes, espa&ccedil;o formativo do Movimento dos Trabalhadores Rurais Sem Terra (MST), no interior de S&atilde;o Paulo.</p>
+Gebrim participou nesta quinta-feira (1&ordm;), da plen&aacute;ria da Frente Brasil Popular, entidade que re&uacute;ne movimentos populares, centrais sindicais e partidos ol&iacute;ticos, na Escola Nacional Florestan Fernandes, espa&ccedil;o formativo do Movimento dos Trabalhadores Rurais Sem Terra (MST), no interior de S&atilde;o Paulo.</p>
 
 <p><br />
 Para o advogado, que integrou a mesa de debates respons&aacute;vel por uma an&aacute;lise de conjuntura do pa&iacute;s, apesar da articula&ccedil;&atilde;o, as organiza&ccedil;&otilde;es golpistas n&atilde;o dever&atilde;o ter vida f&aacute;cil para eleger seu programa pol&iacute;tico, mesmo com as investidas do poder judici&aacute;rio contra Lula, que teve seu recurso contra a decis&atilde;o do juiz de primeira inst&acirc;ncia S&eacute;rgio Moro, negado pelo Tribunal Regional Federal da 4&ordf; Regi&atilde;o, em Porto Alegre, no &uacute;ltimo dia 24 de janeiro.</p>
