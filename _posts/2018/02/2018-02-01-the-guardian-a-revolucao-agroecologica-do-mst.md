@@ -1,5 +1,5 @@
 ---
-date: "2018-02-01T10:43:43-02:00"
+date: "2018-02-01T09:43:43-03:00"
 tags:
   - tag: agroecologia
   - tag: assentamento
@@ -8,7 +8,7 @@ title: "The Guardian: A revolução agroecológica do MST "
 support_line: Trabalhadores sem terra que ocupavam áreas agrícolas improdutivas e degradadas foram finalmente assentados - e descobriram a generosidade da terra através da agrofloresta.
 menu: agricultura camponesa
 images_hd: //farm5.staticflickr.com/4770/26147789028_3dec2bc8a2_b.jpg
-section: cover
+section: featured-news
 layout: post
 files:
   - link: //farm5.staticflickr.com/4770/26147789028_3dec2bc8a2_b.jpg
