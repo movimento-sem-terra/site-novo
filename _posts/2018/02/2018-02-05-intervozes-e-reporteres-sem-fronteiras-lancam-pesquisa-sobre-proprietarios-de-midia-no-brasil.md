@@ -31,16 +31,20 @@ releated_posts:
 
 <div dir="auto"><em>Da P&aacute;gina do MST&nbsp;</em></div>
 
-<div dir="auto"><br />
-<br />
-Na &uacute;ltima sexta&nbsp;(2) de fevereiro, ocorreu o lan&ccedil;amento do estudo <a href="https://brazil.mom-rsf.org/br/">Quem Controla a M&iacute;dia no Brasil</a> no audit&oacute;rio do Conselho Nacional do Minist&eacute;rio P&uacute;blico Federal na Procuradoria Geral da Rep&uacute;blica com profissionais, pesquisadores e demais interessados no tema. O levantamento identificou e atualizou os 40 principais grupos de<br />
-m&iacute;dia do Brasil, seus propriet&aacute;rios e os riscos &agrave; diversidade e &agrave; pluralidade no sistema de m&iacute;dia do pa&iacute;s.</div>
+<div dir="auto">&nbsp;
+<div dir="auto">&nbsp;</div>
 
-<p><br />
+<p dir="auto">Na &uacute;ltima sexta&nbsp;(2) de fevereiro, ocorreu o lan&ccedil;amento do estudo&nbsp;<a href="https://brazil.mom-rsf.org/br/">Quem Controla a M&iacute;dia no Brasil</a>&nbsp;no audit&oacute;rio do Conselho Nacional do Minist&eacute;rio P&uacute;blico Federal na Procuradoria Geral da Rep&uacute;blica com profissionais, pesquisadores e demais interessados no tema. O levantamento identificou e atualizou os 40 principais grupos de<br />
+m&iacute;dia do Brasil, seus propriet&aacute;rios e os riscos &agrave; diversidade e &agrave; pluralidade no sistema de m&iacute;dia do pa&iacute;s.</p>
+
+<p dir="auto"><br />
 O projeto faz parte de uma iniciativa internacional que ganhou o nome de Media Ownership Monitor - MOM (Monitor de Propriedade de M&iacute;dia), organizada pela Rep&oacute;rteres sem Fronteiras. O estudo do caso brasileiro foi realizado pelo Intervozes, entidade com quase 15 anos de pesquisas e atua&ccedil;&atilde;o no direito &agrave; comunica&ccedil;&atilde;o.</p>
 
-<p><br />
+<p dir="auto"><br />
 Participaram do lan&ccedil;amento a procuradora federal dos direitos do cidad&atilde;o, Deborah Duprat, o representante da Rep&oacute;rteres sem Fronteiras no Brasil, Emmanuel Colombi&eacute;, e o coordenador da pesquisa, Andr&eacute; Pasti. Essa pesquisa se apresenta como ferramenta que disponibiliza um mapeamento sobre a propriedade ve&iacute;culos de comunica&ccedil;&atilde;o e grupos detentores, al&eacute;m de suas atividades econ&ocirc;micas e pol&iacute;ticas.</p>
+
+<p>&nbsp;</p>
+</div>
 
 <p><br />
 &ldquo;Grande parte dos maiores grupos de comunica&ccedil;&atilde;o do Brasil, que controlam os principais ve&iacute;culos, tem rela&ccedil;&otilde;es com o agroneg&oacute;cio&rdquo;, afirmou Andr&eacute; Pasti do Intervozes. O estudo mostra rela&ccedil;&otilde;es hist&oacute;ricas como as do Grupo Folha, Globo e fam&iacute;lia Saad, da rede Bandeirantes com grandes investimentos e propriedade de terras<br />
