@@ -34,8 +34,7 @@ releated_posts:
 <div dir="auto"><br />
 <br />
 Na &uacute;ltima sexta&nbsp;(2) de fevereiro, ocorreu o lan&ccedil;amento do estudo <a href="https://brazil.mom-rsf.org/br/">Quem Controla a M&iacute;dia no Brasil</a> no audit&oacute;rio do Conselho Nacional do Minist&eacute;rio P&uacute;blico Federal na Procuradoria Geral da Rep&uacute;blica com profissionais, pesquisadores e demais interessados no tema. O levantamento identificou e atualizou os 40 principais grupos de<br />
-m&iacute;dia do Brasil, seus propriet&aacute;rios e os riscos &agrave; diversidade e &agrave; pluralidade no sistema<br />
-de m&iacute;dia do pa&iacute;s.</div>
+m&iacute;dia do Brasil, seus propriet&aacute;rios e os riscos &agrave; diversidade e &agrave; pluralidade no sistema de m&iacute;dia do pa&iacute;s.</div>
 
 <p><br />
 O projeto faz parte de uma iniciativa internacional que ganhou o nome de Media Ownership Monitor - MOM (Monitor de Propriedade de M&iacute;dia), organizada pela Rep&oacute;rteres sem Fronteiras. O estudo do caso brasileiro foi realizado pelo Intervozes, entidade com quase 15 anos de pesquisas e atua&ccedil;&atilde;o no direito &agrave; comunica&ccedil;&atilde;o.</p>
