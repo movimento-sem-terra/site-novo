@@ -4,7 +4,7 @@ tags:
   - tag: sementes
   - tag: lutas-e-mobilizações
   - tag: bahia
-title: "Festival aponta desafios e perspectivas na atual conjuntura\n"
+title: "Festival aponta desafios e perspectivas de luta atual conjuntura\n"
 support_line: "“É importante centrar forças para derrubar a Reforma Trabalhista e a Reforma Previdenciária”, afirma dirigente do MST"
 images_hd: //farm5.staticflickr.com/4743/39203495855_0a6ca16f95_b.jpg
 menu: agricultura camponesa
