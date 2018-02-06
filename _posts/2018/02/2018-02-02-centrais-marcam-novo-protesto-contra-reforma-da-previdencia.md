@@ -1,5 +1,5 @@
 ---
-date: "2018-02-02T12:06:38-03:00"
+date: "2018-02-02T13:06:38-02:00"
 tags:
   - tag: fora-temer
   - tag: lutas-e-mobilizações
@@ -25,7 +25,7 @@ releated_posts:
   - _posts/2017/08/2017-08-02-acompanhe-minuto-a-minuto-o-dia-do-foratemer-por-todo-o-pais.md
   - _posts/2017/07/2017-07-21-se-o-temer-tivesse-um-minimo-de-compromisso-com-o-povo-ele-renunciaria-diz-lula.md
   - _posts/2017/07/2017-07-25-mst-ocupa-fazenda-do-amigo-de-temer-no-interior-de-sao-paulo.md
-section: cover
+section: featured-news
 
 ---
 <div dir="auto" style="box-sizing: inherit; color: rgb(85, 85, 85); font-family: &quot;Exo 2&quot;, Helvetica, Arial, sans-serif; font-size: 16px;">&nbsp;</div>
