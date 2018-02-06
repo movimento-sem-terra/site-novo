@@ -40,9 +40,9 @@ releated_posts:
 
 <div dir="auto"><em>Do Brasil de Fato</em></div>
 
-<div dir="auto"><br />
+<p dir="auto"><br />
 <br />
-Entidades que fazem parte da Articula&ccedil;&atilde;o Nacional dos Trabalhadores e Trabalhadoras e Povos do Campo, das &Aacute;guas e das Florestas&nbsp;estiveram reunidos neste fim de semana na Escola Nacional Florestan Fernandes (ENFF), espa&ccedil;o formativo do MST,&nbsp;em Guararema (SP), e definiram uma s&eacute;rie de a&ccedil;&otilde;es, mobiliza&ccedil;&otilde;es e&nbsp;encontros com o objetivo de defender a democracia e enfrentar os retrocessos impostos pelo governo golpista de Michel Temer.&nbsp;</div>
+Entidades que fazem parte da Articula&ccedil;&atilde;o Nacional dos Trabalhadores e Trabalhadoras e Povos do Campo, das &Aacute;guas e das Florestas&nbsp;estiveram reunidos neste fim de semana na Escola Nacional Florestan Fernandes (ENFF), espa&ccedil;o formativo do MST,&nbsp;em Guararema (SP), e definiram uma s&eacute;rie de a&ccedil;&otilde;es, mobiliza&ccedil;&otilde;es e&nbsp;encontros com o objetivo de defender a democracia e enfrentar os retrocessos impostos pelo governo golpista de Michel Temer.&nbsp;</p>
 
 <p><br />
 Ap&oacute;s um in&iacute;cio de ano&nbsp;com mobiliza&ccedil;&otilde;es em todo o pa&iacute;s e uma s&eacute;rie de a&ccedil;&otilde;es em Porto Alegre,&nbsp;<a href="http://www.brasildefato.com.br/especiais/especial-or-eleicao-sem-lula-e-fraude/">em defesa da democracia e do direito de Lula ser candidato</a>, as mulheres dos movimentos populares j&aacute; se preparam para o Dia Internacional da&nbsp;Mulher&nbsp;Trabalhadora, em 8 de mar&ccedil;o.</p>
