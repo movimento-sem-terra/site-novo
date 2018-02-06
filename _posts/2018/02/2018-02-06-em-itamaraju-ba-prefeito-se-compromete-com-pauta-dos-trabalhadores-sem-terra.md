@@ -25,7 +25,7 @@ files:
     title: photo_2018-02-06_14-41-59.jpg
     $$hashKey: 0NC
 created_date: "2018-02-06T16:18:02-02:00"
-published: true
+published: false
 releated_posts:
   - _posts/2017/10/2017-10-20-resistencia-no-semiarido-a-luta-pela-terra-nos-perimetros-irrigados.md
   - _posts/2017/10/2017-10-22-na-bahia-mst-encerra-jornada-de-lutas-apos-respostas-positivas-do-incra-e-governo-do-estado.md
