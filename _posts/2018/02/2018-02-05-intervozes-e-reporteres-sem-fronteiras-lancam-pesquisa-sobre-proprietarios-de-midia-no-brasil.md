@@ -34,8 +34,7 @@ releated_posts:
 <div dir="auto">&nbsp;
 <div dir="auto">&nbsp;</div>
 
-<p dir="auto">Na &uacute;ltima sexta&nbsp;(2) de fevereiro, ocorreu o lan&ccedil;amento do estudo&nbsp;<a href="https://brazil.mom-rsf.org/br/">Quem Controla a M&iacute;dia no Brasil</a>&nbsp;no audit&oacute;rio do Conselho Nacional do Minist&eacute;rio P&uacute;blico Federal na Procuradoria Geral da Rep&uacute;blica com profissionais, pesquisadores e demais interessados no tema. O levantamento identificou e atualizou os 40 principais grupos de<br />
-m&iacute;dia do Brasil, seus propriet&aacute;rios e os riscos &agrave; diversidade e &agrave; pluralidade no sistema de m&iacute;dia do pa&iacute;s.</p>
+<p dir="auto">Na &uacute;ltima sexta&nbsp;(2), aconteceu&nbsp;o lan&ccedil;amento do estudo&nbsp;<a href="https://brazil.mom-rsf.org/br/">Quem Controla a M&iacute;dia no Brasil</a>&nbsp;no audit&oacute;rio do Conselho Nacional do Minist&eacute;rio P&uacute;blico Federal na Procuradoria Geral da Rep&uacute;blica em Bras&iacute;lia. Atividade&nbsp; contou com a presen&ccedil;a de&nbsp;profissionais, pesquisadores e demais interessados no tema. O levantamento identificou e atualizou os 40 principais grupos de m&iacute;dia do Brasil, seus propriet&aacute;rios e os riscos &agrave; diversidade e &agrave; pluralidade no sistema de m&iacute;dia do pa&iacute;s.</p>
 
 <p dir="auto"><br />
 O projeto faz parte de uma iniciativa internacional que ganhou o nome de Media Ownership Monitor - MOM (Monitor de Propriedade de M&iacute;dia), organizada pela Rep&oacute;rteres sem Fronteiras. O estudo do caso brasileiro foi realizado pelo Intervozes, entidade com quase 15 anos de pesquisas e atua&ccedil;&atilde;o no direito &agrave; comunica&ccedil;&atilde;o.</p>
@@ -43,25 +42,19 @@ O projeto faz parte de uma iniciativa internacional que ganhou o nome de Media O
 <p dir="auto"><br />
 Participaram do lan&ccedil;amento a procuradora federal dos direitos do cidad&atilde;o, Deborah Duprat, o representante da Rep&oacute;rteres sem Fronteiras no Brasil, Emmanuel Colombi&eacute;, e o coordenador da pesquisa, Andr&eacute; Pasti. Essa pesquisa se apresenta como ferramenta que disponibiliza um mapeamento sobre a propriedade ve&iacute;culos de comunica&ccedil;&atilde;o e grupos detentores, al&eacute;m de suas atividades econ&ocirc;micas e pol&iacute;ticas.</p>
 
-<p>&nbsp;</p>
-</div>
+<p dir="auto"><br />
+&ldquo;Grande parte dos maiores grupos de comunica&ccedil;&atilde;o do Brasil, que controlam os principais ve&iacute;culos, tem rela&ccedil;&otilde;es com o agroneg&oacute;cio&rdquo;, afirmou Andr&eacute; Pasti do Intervozes. O estudo mostra rela&ccedil;&otilde;es hist&oacute;ricas como as do Grupo Folha, Globo e fam&iacute;lia Saad, da rede Bandeirantes com grandes investimentos e propriedade de terras no pa&iacute;s.</p>
 
-<p><br />
-&ldquo;Grande parte dos maiores grupos de comunica&ccedil;&atilde;o do Brasil, que controlam os principais ve&iacute;culos, tem rela&ccedil;&otilde;es com o agroneg&oacute;cio&rdquo;, afirmou Andr&eacute; Pasti do Intervozes. O estudo mostra rela&ccedil;&otilde;es hist&oacute;ricas como as do Grupo Folha, Globo e fam&iacute;lia Saad, da rede Bandeirantes com grandes investimentos e propriedade de terras<br />
-no pa&iacute;s.</p>
-
-<p><br />
+<p dir="auto"><br />
 Andr&eacute; afirma que as rela&ccedil;&otilde;es da grande m&iacute;dia dificulta muito e invisibiliza as disputas pelos direitos dos trabalhadores do campo e acesso a terra. &ldquo;Os interesses do agroneg&oacute;cios est&atilde;o todos presentes nos grandes ve&iacute;culos de comunica&ccedil;&atilde;o&rdquo;, diz o pesquisador. A exemplo disso, &eacute; comum assistir nos intervalos da Rede Globo a<br />
 campanha &ldquo;agro &eacute; pop&rdquo;.</p>
 
-<p><br />
+<p dir="auto"><br />
 A rela&ccedil;&atilde;o dos grandes meios com o agroneg&oacute;cio pode ser observada tanto nos investimentos financeiros quanto na produ&ccedil;&atilde;o de conte&uacute;do das m&iacute;dias. O Grupo RBS, cujos acionistas s&atilde;o propriet&aacute;rios de terra, criaram o Canal Rural de TV, em 1996, posteriormente vendido para a J&amp;F Investimentos, controladora do Frigor&iacute;fico JBS, em 2013.</p>
 
-<p><br />
-A fam&iacute;lia Saad, do Grupo Bandeirantes, tamb&eacute;m propriet&aacute;rios de terras, possui o canal de TV a cabo Terraviva e, na Band News, o Jornal Terraviva reapresenta not&iacute;cias sobre o agroneg&oacute;cio produzidas pelo canal especializado.</p>
-
-<p><br />
-Em 1989, a fam&iacute;lia teve parte de suas terras desapropriada para a Reforma Agr&aacute;ria.</p>
+<p dir="auto"><br />
+A fam&iacute;lia Saad, do Grupo Bandeirantes, tamb&eacute;m propriet&aacute;rios de terras, possui o canal de TV a cabo Terraviva e, na Band News, o Jornal Terraviva reapresenta not&iacute;cias sobre o agroneg&oacute;cio produzidas pelo canal especializado. Em 1989, a fam&iacute;lia teve parte de suas terras desapropriada para a Reforma Agr&aacute;ria.</p>
+</div>
 
 <p><br />
 <a href="http://intervozes.org.br/arquivos/interliv003vozsmst.pdf"><strong>Vozes silenciadas</strong></a></p>
