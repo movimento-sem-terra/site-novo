@@ -25,7 +25,7 @@ files:
     title: photo_2018-02-06_14-41-59.jpg
     $$hashKey: 0NC
 created_date: "2018-02-06T16:18:02-02:00"
-published: false
+published: true
 releated_posts:
   - _posts/2017/10/2017-10-20-resistencia-no-semiarido-a-luta-pela-terra-nos-perimetros-irrigados.md
   - _posts/2017/10/2017-10-22-na-bahia-mst-encerra-jornada-de-lutas-apos-respostas-positivas-do-incra-e-governo-do-estado.md
@@ -69,7 +69,7 @@ Com a sinaliza&ccedil;&atilde;o positiva, Maristela afirmou: &ldquo;se a nossa p
 <strong>Pauta travada</strong></p>
 
 <p><br />
-A pauta de reivindica&ccedil;&atilde;o entregue &agrave; Prefeitura, faz parte de um processo hist&oacute;rico de lutas do MST na regi&atilde;o. No final do ano passado, por exemplo, algumas escolas quase foram fechadas por conta do descaso com as estruturas localizadas nos assentamentos de Reforma Agr&aacute;ria.</p>
+A pauta de reivindica&ccedil;&atilde;o entregue &agrave; Prefeitura, faz parte de um processo hist&oacute;rico de lutas&nbsp; do MST na regi&atilde;o. No final do ano passado, por exemplo, algumas escolas quase foram fechadas por conta do descaso com as estruturas localizadas nos assentamentos de Reforma Agr&aacute;ria.</p>
 
 <p><br />
 Claudia Nunes, do Assentamento Pau Brasil, localizado no munic&iacute;pio, acredita que se n&atilde;o fosse a luta di&aacute;ria, as fam&iacute;lias j&aacute; teriam perdido as escolas do campo. &ldquo;A educa&ccedil;&atilde;o nos assentamentos &eacute; fundamental para avan&ccedil;armos na forma&ccedil;&atilde;o de consci&ecirc;ncia e na escolariza&ccedil;&atilde;o das fam&iacute;lias Sem Terra. Por isso, que nossa luta precisa ser fortalecida de maneira constante&rdquo;, enfatizou Nunes.</p>
