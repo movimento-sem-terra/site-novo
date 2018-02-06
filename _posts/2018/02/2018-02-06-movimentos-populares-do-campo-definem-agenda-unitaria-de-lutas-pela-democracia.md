@@ -24,6 +24,8 @@ releated_posts:
   - _posts/2017/07/2017-07-13-sem-terra-anunciam-estado-permanente-de-luta-em-alagoas.md
   - _posts/2018/01/2018-01-13-mst-zona-da-mata-ocupa-mais-um-latifundio-improdutivo.md
   - _posts/2017/11/2017-11-17-o-que-levou-10-mil-pessoas-as-ruas-de-correntina-ba.md
+  - _posts/2018/01/2018-01-16-joao-pedro-teixeira-das-ligas-camponesas-e-inscrito-no-livro-dos-herois-da-patria.md
+section: cover
 
 ---
 <div style="text-align:center">
