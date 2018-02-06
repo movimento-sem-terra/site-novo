@@ -61,7 +61,8 @@ Fotos: Comunica&ccedil;&atilde;o MPA/BA</em></p>
 
 <p>O festival, que aconteceu entre os dias 2 e 3 de fevereiro, na pra&ccedil;a da Igreja S&atilde;o Crist&oacute;v&atilde;o, em Brumado, regi&atilde;o da Chapada Diamantina, cumpriu o objetivo de resgatar e fortalecer a produ&ccedil;&atilde;o agr&iacute;cola a partir do uso de sementes desenvolvidas e produzidas por agricultores familiares, assentados da Reforma Agr&aacute;ria, quilombolas e ind&iacute;genas.</p>
 
-<p>Na ocasi&atilde;o, Ara&uacute;jo apontou as crises sofridas pela classe trabalhadora e afirmou que &ldquo;n&atilde;o se trata apenas de uma crise pol&iacute;tica, mas tamb&eacute;m da crise do capitalismo, que se manifesta em diversas esferas, seja do ponto de vista econ&ocirc;mico, cultural ou social&rdquo;.</p>
+<p><br />
+Na ocasi&atilde;o, Ara&uacute;jo apontou as crises sofridas pela classe trabalhadora e afirmou que &ldquo;n&atilde;o se trata apenas de uma crise pol&iacute;tica, mas tamb&eacute;m da crise do capitalismo, que se manifesta em diversas esferas, seja do ponto de vista econ&ocirc;mico, cultural ou social&rdquo;.</p>
 
 <p><br />
 A partir disso, enfatizou que o avan&ccedil;o dessas crises trouxe consequ&ecirc;ncias aos valores sociais, pois tem fortalecido o pensamento conservador, onde prevalece a pr&aacute;tica do racismo, do machismo, da cultura do estupro, al&eacute;m do crescente n&uacute;mero de assassinatos de Jovens, Ind&iacute;genas, Quilombolas, Sem Terra e Negros.</p>
