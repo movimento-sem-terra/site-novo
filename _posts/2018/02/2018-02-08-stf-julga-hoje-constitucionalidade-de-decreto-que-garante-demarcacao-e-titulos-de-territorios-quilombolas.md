@@ -4,7 +4,7 @@ tags:
   - tag: quilombolas
   - tag: stf
   - tag: demarcação-de-terras
-title: STF julga hoje constitucionalidade de Decreto que garante demarcação e títulos de territórios Quilombolas
+title: STF julga constitucionalidade de decreto que garante demarcação e títulos de territórios quilombolas
 images_hd: //farm5.staticflickr.com/4627/25281200127_8a109505c6_b.jpg
 support_line: "O movimento quilombola possui grande expectativa no voto do ministro Fachin, porque o decreto é fundamental para a implementar políticas publicas nos territórios quilombolas."
 menu: direitos humanos
