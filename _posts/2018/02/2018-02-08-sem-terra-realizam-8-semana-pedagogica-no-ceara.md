@@ -44,10 +44,10 @@ Da P&aacute;gina do MST</em></p>
 A semana pedag&oacute;gica&nbsp;tem como objetivo analisar de maneira&nbsp;critica a&nbsp;privatiza&ccedil;&atilde;o da educa&ccedil;&atilde;o p&uacute;blica e o avan&ccedil;o do capital no pa&iacute;s</p>
 
 <p><br />
-De acordo com a dirigente&nbsp;estadual do setor de educa&ccedil;&atilde;o do MST-&nbsp;CE, Andr&eacute;ia Castro,&nbsp;&lsquo;&lsquo;a semana pedag&oacute;gica &eacute; um momento de avan&ccedil;ar na constru&ccedil;&atilde;o de estrat&eacute;gias e&nbsp;fortalecer a organiza&ccedil;&atilde;o coletiva das escolas do campo.<br />
-<br />
-J&aacute; para Alciene Lima, educanda da Escola Florestan Fernandes, localizada no assentamento Santana no munic&iacute;pio de Monsenhor Tabosa, &ldquo;a atividade&nbsp;&eacute; um momento importante de troca de saberes e para a&nbsp;constru&ccedil;&atilde;o<br />
-coletiva da educa&ccedil;&atilde;o do campo&rsquo;&rsquo;.&nbsp;</p>
+De acordo com a dirigente&nbsp;estadual do setor de educa&ccedil;&atilde;o do MST-&nbsp;CE, Andr&eacute;ia Castro,&nbsp;&lsquo;&lsquo;a semana pedag&oacute;gica &eacute; um momento de avan&ccedil;ar na constru&ccedil;&atilde;o de estrat&eacute;gias e&nbsp;fortalecer a organiza&ccedil;&atilde;o coletiva das escolas do campo.</p>
+
+<p><br />
+J&aacute; para Alciene Lima, educanda da Escola Florestan Fernandes, localizada no assentamento Santana no munic&iacute;pio de Monsenhor Tabosa, &ldquo;a atividade&nbsp;&eacute; um momento importante de troca de saberes e para a&nbsp;constru&ccedil;&atilde;o coletiva da educa&ccedil;&atilde;o do campo&rsquo;&rsquo;.&nbsp;</p>
 
 <p><br />
 Cristina Vargas do coletivo nacional de educa&ccedil;&atilde;o do MST que tamb&eacute;m participa da semana pedag&oacute;gica e destacou&nbsp;a import&acirc;ncia da presen&ccedil;a dos sujeitos construtores da educa&ccedil;&atilde;o do campo no processo de Reforma Agr&aacute;ria. Para ela:&nbsp;&ldquo;um dos principais desafios da educa&ccedil;&atilde;o em tempos de golpe&nbsp;&eacute; lutar contra a precariza&ccedil;&atilde;o na educa&ccedil;&atilde;o e&nbsp;contra os fechamentos de escolas do campo&quot;, concluiu.</p>
