@@ -33,35 +33,24 @@ releated_posts:
 ---
 <p>&nbsp;</p>
 
-<div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="foto semana pedagogica.jpg" height="525" src="//farm5.staticflickr.com/4624/40151406301_5059f5b127_b.jpg" width="700" />
-<figcaption>Fotos:&nbsp;Narcelio Santos</figcaption>
-</figure>
-</div>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
 <p><em>Por Pedro Neto<br />
-Da P&aacute;gina do MST&nbsp;</em></p>
+Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
-<p>Desde a &uacute;ltima segunda-feira (5)&nbsp;cerca de 350 educadores e educandos das escolas de ensino m&eacute;dio das &aacute;reas de Reforma Agr&aacute;ria&nbsp;do Cear&aacute; est&atilde;o participando da VIII semana pedag&oacute;gica das&nbsp;escolas do campo. A atividade est&aacute;&nbsp;sendo realizada na escola&nbsp;Jos&eacute; Fidelis de Moura, localizada no assentamento Bonfim Concei&ccedil;&atilde;o,&nbsp;no munic&iacute;pio de Santana do Acara&uacute;.</p>
-
-<p>&nbsp;acontece em uma conjuntura delicada para toda&nbsp;classe trabalhadora, e tem como objetivo atualizar a analise de conjuntura com&nbsp;foco na critica &aacute; privatiza&ccedil;&atilde;o da educa&ccedil;&atilde;o&nbsp;<br />
-A VIII semana pedag&oacute;gicap&uacute;blica e o avan&ccedil;o do capital.</p>
+<p>Cerca de 350 educadores e educandos das&nbsp;escolas de ensino m&eacute;dio das &aacute;reas de Reforma Agr&aacute;ria do Cear&aacute;, est&atilde;o reunidos desde a &uacute;ltima segunda-feira (5)&nbsp;na 8&deg;&nbsp;semana pedag&oacute;gica das escolas do campo. A&nbsp;atividade est&aacute;&nbsp;sendo realizada na escola Jos&eacute; Fidelis de Moura, que fica localizada no assentamento Bonfim Concei&ccedil;&atilde;o, no munic&iacute;pio de Santana do Acara&uacute;.</p>
 
 <p><br />
-De acordo com Andr&eacute;ia Castro, dirigente estadual do setor de educa&ccedil;&atilde;o do MST-CE:&nbsp;&lsquo;&lsquo;a semana pedag&oacute;gica tamb&eacute;m &eacute; um momento de avan&ccedil;ar na constru&ccedil;&atilde;o de estrat&eacute;gias did&aacute;ticas na rela&ccedil;&atilde;o teoria e pr&aacute;tica, educa&ccedil;&atilde;o e trabalho, escola e realidade, fortalecer a organiza&ccedil;&atilde;o coletiva das escolas do campo, seu vinculo com os assentamentos e as organiza&ccedil;&otilde;es sociais, al&eacute;m de realizar um balan&ccedil;o critico da caminha de 2017 e apontar desafios e prioridades pol&iacute;ticas e pedag&oacute;gicas para 2018, afirmou &agrave; dirigente&rsquo;&rsquo;.</p>
+A semana pedag&oacute;gica&nbsp;tem como objetivo analisar de maneira&nbsp;critica a&nbsp;privatiza&ccedil;&atilde;o da educa&ccedil;&atilde;o p&uacute;blica e o avan&ccedil;o do capital no pa&iacute;s</p>
 
 <p><br />
-Para Alciene Lima educanda da Escola Florestan Fernandes, localizada no assentamento Santana munic&iacute;pio de Monsenhor Tabosa/CE, &ldquo;a semana pedag&oacute;gica &eacute; um momento importante de troca de saberes e de constru&ccedil;&atilde;o<br />
-coletiva da educa&ccedil;&atilde;o do campo com a integra&ccedil;&atilde;o de educadores/as, e educandas/os&rsquo;&rsquo;.</p>
+De acordo com a dirigente&nbsp;estadual do setor de educa&ccedil;&atilde;o do MST-&nbsp;CE, Andr&eacute;ia Castro,&nbsp;&lsquo;&lsquo;a semana pedag&oacute;gica &eacute; um momento de avan&ccedil;ar na constru&ccedil;&atilde;o de estrat&eacute;gias e&nbsp;fortalecer a organiza&ccedil;&atilde;o coletiva das escolas do campo.<br />
+<br />
+J&aacute; para Alciene Lima, educanda da Escola Florestan Fernandes, localizada no assentamento Santana no munic&iacute;pio de Monsenhor Tabosa, &ldquo;a atividade&nbsp;&eacute; um momento importante de troca de saberes e para a&nbsp;constru&ccedil;&atilde;o<br />
+coletiva da educa&ccedil;&atilde;o do campo&rsquo;&rsquo;.&nbsp;</p>
 
 <p><br />
-Cristina Vargas do coletivo nacional de educa&ccedil;&atilde;o do MST participa da semana pedag&oacute;gica e destaca a import&acirc;ncia da presen&ccedil;a dos sujeitos construtores da educa&ccedil;&atilde;o do campo, educadores, gestores, educandos, assentados e assentadas da Reforma Agr&aacute;ria. De acordo com Cristina &ldquo;um dos principais desafios da educa&ccedil;&atilde;o em tempos de Golpes &eacute; lutar contra a precariza&ccedil;&atilde;o na educa&ccedil;&atilde;o, contra os fechamentos de escolas, por isso a luta pela educa&ccedil;&atilde;o p&uacute;blica e popular deve ser pauta de luta permanente, concluiu a dirigente&rdquo;.</p>
+Cristina Vargas do coletivo nacional de educa&ccedil;&atilde;o do MST que tamb&eacute;m participa da semana pedag&oacute;gica e destacou&nbsp;a import&acirc;ncia da presen&ccedil;a dos sujeitos construtores da educa&ccedil;&atilde;o do campo no processo de Reforma Agr&aacute;ria. Para ela:&nbsp;&ldquo;um dos principais desafios da educa&ccedil;&atilde;o em tempos de golpe&nbsp;&eacute; lutar contra a precariza&ccedil;&atilde;o na educa&ccedil;&atilde;o e&nbsp;contra os fechamentos de escolas do campo&quot;, concluiu.</p>
 
 <p><br />
-A semana pedag&oacute;gica faz parte do calend&aacute;rio anual do coletivo de educa&ccedil;&atilde;o do MST- CE, a programa&ccedil;&atilde;o acontece at&eacute; a pr&oacute;xima sexta feira, nove (9).</p>
+A semana pedag&oacute;gica faz parte do calend&aacute;rio anual do coletivo de educa&ccedil;&atilde;o do MST no Cear&aacute;.&nbsp;A&nbsp;programa&ccedil;&atilde;o acontece at&eacute; a pr&oacute;xima sexta-feira&nbsp;(9).</p>
