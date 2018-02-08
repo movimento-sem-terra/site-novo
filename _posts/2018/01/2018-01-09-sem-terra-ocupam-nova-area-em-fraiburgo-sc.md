@@ -18,7 +18,7 @@ files:
     title: LRM_EXPORT_20180108_165336(1).jpg
     $$hashKey: 09W
 created_date: "2018-01-09T11:53:58-02:00"
-published: true
+published: false
 releated_posts:
   - _posts/2017/08/2017-08-24-mst-ocupa-area-em-araquari-scsc.md
   - _posts/2017/05/2017-05-21-sem-terra-ocupam-area-em-santa-catarina.md
