@@ -46,3 +46,16 @@ releated_posts:
 <p>O interior do Maranh&atilde;o, tradicionalmente maltratado pela seca e pelo hist&oacute;rico de m&aacute; gest&atilde;o p&uacute;blica - em especial, nos quase 50 anos de oligarquia da fam&iacute;lia Sarney -, &eacute; o lugar onde hoje a esperan&ccedil;a faz escola.</p>
 </blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+<p>&nbsp;</p>
+
+<p>Confira as mat&eacute;rias do Especial do <em>Brasil de Fato</em>, reproduzidas na <em>P&aacute;gina do MST</em>:</p>
+
+<p><br />
+<a href="http://www.mst.org.br/2018/02/09/eu-vivia-na-escuridao-diz-agricultora-que-aprendeu-a-ler-com-metodo-cubano.html"><strong>&quot;Eu vivia na escurid&atilde;o&quot;, diz agricultora que aprendeu a ler com m&eacute;todo cubano</strong></a></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><em>*Editado por Rafael Soriano</em></p>
