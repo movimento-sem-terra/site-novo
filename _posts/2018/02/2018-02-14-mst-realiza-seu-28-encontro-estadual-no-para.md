@@ -4,7 +4,7 @@ tags:
   - tag: encontro-estadual
   - tag: mobilizações
   - tag: pará
-title: MST realiza seu 28° Encontro Estadual no Pará
+title: Sem Terra se reúnem no 28° Encontro Estadual no Pará
 support_line: "Com uma programação intensa, os militantes compartilharam momentos de debates, avaliações e reflexões sobre a atual conjuntura"
 menu: lutas e mobilizações
 images_hd: //farm5.staticflickr.com/4751/39551090854_1c56d107bc_b.jpg
@@ -99,7 +99,11 @@ Entre os debates em plen&aacute;ria e contribui&ccedil;&atilde;o dos participant
 
 <p>Durante as conversas&nbsp;tamb&eacute;m destacou-se a quest&atilde;o racial na luta de classes e as reflex&otilde;es sobre a identidade dos sujeitos e movimentos especialmente a presen&ccedil;a dos negros e negras na luta do campesinato, na luta Sem Terra pela terra.</p>
 
-<p>&nbsp;</p>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="IMG-20180208-WA0022.jpg" height="525" src="//farm5.staticflickr.com/4612/38451800310_11d9d642be_b.jpg" width="700" />
+<figcaption>Debatedores / Foto: Carlinhos Luz</figcaption>
+</figure>
+</div>
 
 <p><strong>Conjuntura Agr&aacute;ria e os desafios no Par&aacute;</strong></p>
 
