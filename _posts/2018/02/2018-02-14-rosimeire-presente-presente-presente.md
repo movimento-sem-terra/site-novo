@@ -48,7 +48,9 @@ V&iacute;tima de um edema pulmonar, Rose, como gostava de ser chamada, foi uma c
 Companheira hist&oacute;rica, h&aacute; 22 anos Rose tem contribu&iacute;do com as lutas do MST na Bahia e atualmente coordenava algumas escolas do campo na regi&atilde;o, contribuindo diretamente com o coletivo de educa&ccedil;&atilde;o do Movimento. M&atilde;e de quatro filhos, nos deixa um legado que inspira toda milit&acirc;ncia &agrave; luta di&aacute;ria pela constru&ccedil;&atilde;o de sujeitos emancipados.</p>
 
 <p style="text-align: justify;"><br />
-Em per&iacute;odo de crises, retrocessos e avan&ccedil;o de pautas conservadoras, a partida de nossa companheira e amiga se transforma em um motivo a mais para seguirmos em marcha, colocando a pauta da educa&ccedil;&atilde;o do campo como um elemento central na organicidade do MST, para assim, avan&ccedil;armos com o projeto de sociedade socialista.<br />
+Em per&iacute;odo de crises, retrocessos e avan&ccedil;o de pautas conservadoras, a partida de nossa companheira e amiga se transforma em um motivo a mais para seguirmos em marcha, colocando a pauta da educa&ccedil;&atilde;o do campo como um elemento central na organicidade do MST, para assim, avan&ccedil;armos com o projeto de sociedade socialista.</p>
+
+<p style="text-align: justify;"><br />
 Estendemos toda nossa solidariedade aos familiares, amigos e milit&acirc;ncia Sem Terra que sempre admirou o trabalho de Rose, n&atilde;o apenas pela compet&ecirc;ncia e dedica&ccedil;&atilde;o, mas tamb&eacute;m, por ter se tornado uma refer&ecirc;ncia de luta nas escolas do campo. Faremos da educa&ccedil;&atilde;o e de seus ensinamentos um legado de amor e revolu&ccedil;&atilde;o.</p>
 
 <p>&nbsp;</p>
