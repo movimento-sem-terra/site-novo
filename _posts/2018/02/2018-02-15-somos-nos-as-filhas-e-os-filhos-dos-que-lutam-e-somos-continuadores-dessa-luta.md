@@ -5,7 +5,7 @@ tags:
   - tag: juventude
   - tag: comunicação
 title: "“Somos nós as filhas e os filhos dos que lutam, e somos continuadores dessa luta!”"
-support_line: "No 1º Encontro de comunicação, cultura e juventude da Regional de Iaras, a juventude do MST reafirma seu compromisso com a luta pela transformação social e se prepara para o encontro nacional da juventude Sem Terra"
+support_line: "No 1º Encontro de comunicação, cultura e juventude da Regional de Iaras, a juventude do MST reafirma seu compromisso com a luta pela transformação social e se prepara para o encontro nacional da juventude Sem Terra."
 images_hd: //farm5.staticflickr.com/4755/40281226861_9521e83569_b.jpg
 menu: lutas e mobilizações
 layout: post
@@ -41,8 +41,12 @@ releated_posts:
   - _posts/2018/01/2018-01-31-em-pe-acampados-em-sao-joaquim-do-monte-sofrem-com-despejo-violento.md
 
 ---
-<p><br />
-<em>Por Coletivo de Comunica&ccedil;&atilde;o MST - SP</em></p>
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><em>Por Coletivo de Comunica&ccedil;&atilde;o MST - SP<br />
+Da P&aacute;gina do MST</em></p>
 
 <p><br />
 Em tom de alegria e disposi&ccedil;&atilde;o, teve in&iacute;cio no &uacute;ltimo s&aacute;bado (10) o 1&ordm; Encontro de Comunica&ccedil;&atilde;o, Cultura e Juventude da Regional de Iaras, que reuniu na Escola de Educa&ccedil;&atilde;o Popular Rosa Luxemburgo 19 jovens entre 14 e 29 anos, para celebrar, dialogar, debater e compartilhar experi&ecirc;ncias de organiza&ccedil;&atilde;o da juventude na Reforma Agr&aacute;ria Popular.</p>
@@ -52,8 +56,7 @@ Lisbet Julca, militante do MST na regi&atilde;o de Iaras, afirma que &ldquo;a ne
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="olol.jpg" height="525" src="//farm5.staticflickr.com/4608/39570296644_ddfde670e5_b.jpg" width="700" />
-<figcaption>1&ordm; Encontro de Comunica&ccedil;&atilde;o, Cultura e Juventude da Regional de Iaras/Foto: Lisbet Julca<br />
-</figcaption>
+<figcaption>1&ordm; Encontro de Comunica&ccedil;&atilde;o, Cultura e Juventude da Regional de Iaras/Foto: Lisbet Julca</figcaption>
 </figure>
 </div>
 
@@ -69,8 +72,7 @@ Neste sentido, foi debatida a lei 13.465/17 que trata da titula&ccedil;&atilde;o
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="rfrf.jpg" height="525" src="//farm5.staticflickr.com/4746/25410341937_1a4e79e3f8_b.jpg" width="700" />
-<figcaption>Juventude discute a lei de titula&ccedil;&atilde;o dos assentamentos<br />
-</figcaption>
+<figcaption>Juventude discute a lei de titula&ccedil;&atilde;o dos assentamentos</figcaption>
 </figure>
 </div>
 
@@ -110,5 +112,8 @@ Neste primeiro encontro da Juventude Regional queremos reafirmar nosso compromis
 <p><br />
 Real&ccedil;amos que neste primeiro encontro a aproxima&ccedil;&atilde;o &agrave; cultura da nossa organiza&ccedil;&atilde;o, que estamos a construir como seres humanos e como sujeitos para transforma&ccedil;&atilde;o social de nossos territ&oacute;rios mediante a educa&ccedil;&atilde;o do campo, a forma&ccedil;&atilde;o t&eacute;cnica, forma&ccedil;&atilde;o pol&iacute;tica e forma&ccedil;&atilde;o profissional. Por fim, queremos manifestar que este primeiro encontro da juventude fortalece a integra&ccedil;&atilde;o de n&oacute;s jovens da regional em unidade a juventude que luta no Brasil e no mundo.</p>
 
-<p style="text-align: right;"><br />
-&ldquo;Juventude que ousa lutar, constr&oacute;i o poder popular&rdquo; CCJ-MST/IARAS.</p>
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><em>*Editado por Maura Silva</em></p>
