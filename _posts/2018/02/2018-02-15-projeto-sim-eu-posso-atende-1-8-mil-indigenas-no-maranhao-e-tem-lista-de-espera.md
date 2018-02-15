@@ -67,7 +67,7 @@ Fotos: Leonardo Milano/M&iacute;dia Ninja</em></p>
 Baseado num m&eacute;todo cubano e adaptado para o Brasil pelo Movimento dos Trabalhadores Rurais Sem Terra (MST), o projeto &eacute; desenvolvido em parceria com o Governo do Estado do Maranh&atilde;o desde 2016. O estado &eacute; o terceiro em n&uacute;mero de analfabetos no Brasil, com 840 mil pessoas nessa condi&ccedil;&atilde;o, segundo dados do Instituto Brasileiro de Geografia e Estat&iacute;stica (IBGE).</p>
 
 <p><br />
-<strong><a href="http://www.mst.org.br/2018/02/08/sim-eu-posso-a-revolucao-que-vem-das-letras.html">Confira o Especial &quot;Sim Eu Posso! - A revolu&ccedil;&atilde;o que vem das letras&quot;, do Brasil de Fato.</a></strong>http://www.mst.org.br/2018/02/08/sim-eu-posso-a-revolucao-que-vem-das-letras.html</p>
+<strong><a href="http://www.mst.org.br/2018/02/08/sim-eu-posso-a-revolucao-que-vem-das-letras.html">Confira o Especial &quot;Sim Eu Posso! - A revolu&ccedil;&atilde;o que vem das letras&quot;, do Brasil de Fato.</a></strong></p>
 
 <p><br />
 Na aldeia Urucu, zona rural de Itaipava do Graja&uacute;, o entusiasmo do alunos sobrevive &agrave;s adversidades do espa&ccedil;o, que tem ilumina&ccedil;&atilde;o fraca e ventiladores quebrados. &quot;Eu estou achando bom esse programa e eu quero aprender a escrever e ler&quot;, diz Iran Costa Guajajara, 33 anos, j&aacute; ensaiando algumas palavras em portugu&ecirc;s.</p>
