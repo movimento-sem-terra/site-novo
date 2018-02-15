@@ -219,4 +219,4 @@ Queremos um programa que valorize a nossa cultura, a nossa m&uacute;sica, nossa 
 
 <p>&nbsp;</p>
 
-<p>*Jornalista e colunista de O Cafezinho</p>
+<p><em>*Jornalista e colunista de O Cafezinho</em></p>
