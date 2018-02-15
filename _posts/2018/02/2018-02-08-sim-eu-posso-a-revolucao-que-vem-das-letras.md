@@ -8,7 +8,7 @@ images_hd: //farm5.staticflickr.com/4657/39444488384_15619242ba_b.jpg
 title: "\"Sim, Eu Posso!\" - A revolução que vem das letras"
 support_line: "Com base em um método cubano, projeto de alfabetização alcança mais de 27 mil maranhenses. Leia no Especial do Brasil de Fato."
 menu: "educação, cultura e comunicação"
-section: cover
+section: featured-news
 layout: post
 files:
   - link: //farm5.staticflickr.com/4657/39444488384_15619242ba_b.jpg
