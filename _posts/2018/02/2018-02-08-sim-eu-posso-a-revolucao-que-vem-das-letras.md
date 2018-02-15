@@ -52,7 +52,10 @@ releated_posts:
 <p>Confira as mat&eacute;rias do Especial do <em>Brasil de Fato</em>, reproduzidas na <em>P&aacute;gina do MST</em>:</p>
 
 <p><br />
-<a href="http://www.mst.org.br/2018/02/09/eu-vivia-na-escuridao-diz-agricultora-que-aprendeu-a-ler-com-metodo-cubano.html"><strong>&quot;Eu vivia na escurid&atilde;o&quot;, diz agricultora que aprendeu a ler com m&eacute;todo cubano</strong></a></p>
+<a href="http://www.mst.org.br/2018/02/09/eu-vivia-na-escuridao-diz-agricultora-que-aprendeu-a-ler-com-metodo-cubano.html"><strong>&quot;Eu vivia na escurid&atilde;o&quot;, diz agricultora que aprendeu a ler com m&eacute;todo cubano </strong></a></p>
+
+<p><br />
+<strong><a href="http://www.mst.org.br/2018/02/15/projeto-sim-eu-posso-atende-1-8-mil-indigenas-no-maranhao-e-tem-lista-de-espera.html">Projeto &quot;Sim, Eu Posso!&quot; atende 1,8 mil ind&iacute;genas no Maranh&atilde;o e tem lista de espera</a></strong></p>
 
 <p>&nbsp;</p>
 
