@@ -4,7 +4,7 @@ tags:
   - tag: goiás
   - tag: sementes
   - tag: agroecologia
-title: MST e MCP produzem safra recorde de milho criolo no sudeste do Goiás
+title: MST e MCP produzem safra recorde de milho crioulo no sudeste do Goiás
 support_line: "A parceria é desdobramento do potencial produtivo agroecológico no Goiás, que gerou uma produção de 150 mil toneladas de sementes crioulas."
 menu: agricultura camponesa
 section: featured-news
@@ -54,7 +54,7 @@ Da P&aacute;gina do MST</em></p>
 <p>No sudeste goiano, o Pr&eacute;-Assentamento Ana Ferreira, do MST, celebram uma safra memor&aacute;vel de sementes. Em parceria com o Movimento Campon&ecirc;s Popular (MCP), foi poss&iacute;vel na safra 2016 e 2017 uma produ&ccedil;&atilde;o recorde.</p>
 
 <p><br />
-S&oacute; da variedade de milho criolo Sol da Manh&atilde;, o MST produziu 30 toneladas. J&aacute; comunidades camponesas organizadas no MCP geraram 120 toneladas de sementes. Destas, 20 toneladas s&atilde;o de 7 variedades de feij&atilde;o, 2 toneladas de arroz e 98 toneladas de 6 variedades de milho, todos crioulos.</p>
+S&oacute; da variedade de milho crioulo Sol da Manh&atilde;, o MST produziu 30 toneladas. J&aacute; comunidades camponesas organizadas no MCP geraram 120 toneladas de sementes. Destas, 20 toneladas s&atilde;o de 7 variedades de feij&atilde;o, 2 toneladas de arroz e 98 toneladas de 6 variedades de milho, todos crioulos.</p>
 
 <p><br />
 O Pr&eacute;-assentamento Ana Ferreira &eacute; um territ&oacute;rio de resist&ecirc;ncia localizado no munic&iacute;pio de Ipameri, regi&atilde;o dominada pelo agroneg&oacute;cio do complexo soja-milho e, mais recentemente, pela expans&atilde;o da atividade mineradora.</p>
@@ -102,7 +102,7 @@ Sementes crioulas podem ser entendidas como aquelas que s&atilde;o produzidas, d
 Parte dessa produ&ccedil;&atilde;o tamb&eacute;m j&aacute; foi vendida para o Programa de Aquisi&ccedil;&atilde;o de Alimentos (PAA), atrav&eacute;s da Companhia Nacional de Abastecimento (Conab). Esses produtos ser&atilde;o distribu&iacute;dos para v&aacute;rios munic&iacute;pios, alimentando banco de sementes pelo Goi&aacute;s e construindo o resgate dessas sementes dentro da agricultura familiar e camponesa no Estado.</p>
 
 <p><br />
-Da produ&ccedil;&atilde;o do MST foram adquiridos mais de 24 mil kg de milho criolo e do MCP mais 66 mil kg de sementes de arroz, feij&atilde;o e milho. Parte das sementes foi demandada pelo Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra), que as est&aacute; distribuindo de forma gratuita para mais de 500 fam&iacute;lias assentadas de cerca de 10 assentamentos em Goi&aacute;s.</p>
+Da produ&ccedil;&atilde;o do MST foram adquiridos mais de 24 mil kg de milho crioulo e do MCP mais 66 mil kg de sementes de arroz, feij&atilde;o e milho. Parte das sementes foi demandada pelo Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra), que as est&aacute; distribuindo de forma gratuita para mais de 500 fam&iacute;lias assentadas de cerca de 10 assentamentos em Goi&aacute;s.</p>
 
 <p><br />
 &ldquo;O papel do Estado &eacute; decisivo na agricultura. O PAA na sua modalidade doa&ccedil;&atilde;o de sementes &eacute; uma pequena, mas decisiva a&ccedil;&atilde;o para a soberania do campesinato. O governo golpista quer acabar com diversos programas e pol&iacute;ticas voltadas para a Reforma Agr&aacute;ria e agricultura familiar, inclusive privatizando a Conab e encerrando o PAA&rdquo;, afirma Luiz Zarref, do setor de produ&ccedil;&atilde;o, coopera&ccedil;&atilde;o e meio ambiente do MST em Goi&aacute;s.&nbsp;</p>
