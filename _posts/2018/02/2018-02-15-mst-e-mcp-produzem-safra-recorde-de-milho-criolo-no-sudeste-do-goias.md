@@ -5,7 +5,7 @@ tags:
   - tag: sementes
   - tag: agroecologia
 title: MST e MCP produzem safra recorde de milho crioulo no sudeste do Goiás
-support_line: "A parceria é desdobramento do potencial produtivo agroecológico no Goiás, que gerou uma produção de 150 mil toneladas de sementes crioulas."
+support_line: "A parceria é desdobramento do potencial produtivo agroecológico no Goiás, que gerou uma produção de 150 toneladas de sementes crioulas"
 menu: agricultura camponesa
 section: featured-news
 images_hd: //farm5.staticflickr.com/4719/38476938920_96f6d63796_b.jpg
@@ -54,10 +54,10 @@ Da P&aacute;gina do MST</em></p>
 <p>No sudeste goiano, o Pr&eacute;-Assentamento Ana Ferreira, do MST, celebram uma safra memor&aacute;vel de sementes. Em parceria com o Movimento Campon&ecirc;s Popular (MCP), foi poss&iacute;vel na safra 2016 e 2017 uma produ&ccedil;&atilde;o recorde.</p>
 
 <p><br />
-S&oacute; da variedade de milho crioulo Sol da Manh&atilde;, o MST produziu 30 toneladas. J&aacute; comunidades camponesas organizadas no MCP geraram 120 toneladas de sementes. Destas, 20 toneladas s&atilde;o de 7 variedades de feij&atilde;o, 2 toneladas de arroz e 98 toneladas de 6 variedades de milho, todos crioulos.</p>
+S&oacute; da variedade de milho crioulo Sol da Manh&atilde;, o MST produziu 30 toneladas. J&aacute; comunidades camponesas organizadas no MCP geraram 120 toneladas de sementes. Destas, 20 toneladas s&atilde;o de sete&nbsp;variedades de feij&atilde;o, duas&nbsp;toneladas de arroz e 98 toneladas de seis&nbsp;variedades de milho, todos crioulos.</p>
 
 <p><br />
-O Pr&eacute;-assentamento Ana Ferreira &eacute; um territ&oacute;rio de resist&ecirc;ncia localizado no munic&iacute;pio de Ipameri, regi&atilde;o dominada pelo agroneg&oacute;cio do complexo soja-milho e, mais recentemente, pela expans&atilde;o da atividade mineradora.</p>
+O pr&eacute;-assentamento Ana Ferreira &eacute; um territ&oacute;rio de resist&ecirc;ncia localizado no munic&iacute;pio de Ipameri, regi&atilde;o dominada pelo agroneg&oacute;cio do complexo soja-milho e, mais recentemente, pela expans&atilde;o da atividade mineradora.</p>
 
 <p><br />
 Historicamente ocupada pelo campesinato, &eacute; por esses munic&iacute;pios que grande parte da explora&ccedil;&atilde;o mineral e agr&iacute;cola dos sert&otilde;es do cerrado escoaram para o litoral, devido a sua proximidade com o Triangulo Mineiro e S&atilde;o Paulo.</p>
