@@ -48,11 +48,8 @@ Alckmin /&nbsp;Foto: Comunica&ccedil;&atilde;o Deputada Estadual Marcia Lia (PT/
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
-
-<p style="box-sizing: inherit; margin: 0px 0px 11px; font-size: 1.1em; color: rgb(85, 85, 85); font-family: &quot;Exo 2&quot;, Helvetica, Arial, sans-serif;"><em style="box-sizing: inherit;">Por Dese A</em><em style="font-size: 14.3px; box-sizing: inherit;">ni</em><em style="font-size: 1.1em; box-sizing: inherit;">ssis</em></p>
-
-<p style="box-sizing: inherit; margin: 0px 0px 11px; font-size: 1.1em; color: rgb(85, 85, 85); font-family: &quot;Exo 2&quot;, Helvetica, Arial, sans-serif;"><em style="box-sizing: inherit;">Do Cafezinho</em></p>
+<p><em>Do Coletivo de Comunica&ccedil;&atilde;o MST/SP<br />
+Para P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
 Depois de mais de dez anos da primeira ocupa&ccedil;&atilde;o, as fam&iacute;lias dos acampamentos 8 de Mar&ccedil;o, em Riversul<br />
