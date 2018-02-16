@@ -6,7 +6,7 @@ tags:
   - tag: amazônia
 title: "Pedro, Profeta e Poeta"
 support_line: Homenagem aos 90 anos (16 de fevereiro de 2018) do mestre de todos nós.
-section: cover
+section: featured-news
 menu: projeto popular
 images_hd: //farm5.staticflickr.com/4631/38490893720_840ecb1faa_b.jpg
 layout: post
