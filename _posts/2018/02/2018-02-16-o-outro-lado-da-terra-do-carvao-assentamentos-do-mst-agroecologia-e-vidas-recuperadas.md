@@ -110,7 +110,7 @@ releated_posts:
 <p>&nbsp;</p>
 
 <p style="box-sizing: inherit; margin: 0px 0px 11px; font-size: 1.1em; color: rgb(85, 85, 85); font-family: &quot;Exo 2&quot;, Helvetica, Arial, sans-serif;"><em style="box-sizing: inherit;">Por Denise Assis<br style="box-sizing: inherit;" />
-Do afezinho</em><em style="font-size: 14.3px; box-sizing: inherit;">C</em></p>
+Do C</em><em style="box-sizing: inherit;">afezinho</em></p>
 
 <p style="box-sizing: inherit; margin: 0px 0px 11px; font-size: 1.1em; color: rgb(85, 85, 85); font-family: &quot;Exo 2&quot;, Helvetica, Arial, sans-serif;">&nbsp;</p>
 
