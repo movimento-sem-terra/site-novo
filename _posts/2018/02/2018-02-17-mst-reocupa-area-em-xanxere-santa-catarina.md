@@ -6,7 +6,7 @@ tags:
   - tag: reforma-agrária
 title: "MST reocupa área em Xanxerê, Santa Catarina"
 images_hd: //farm5.staticflickr.com/4765/26446571588_54b3303b2b_b.jpg
-support_line: O local é o mesmo onde havia o acampamento Marcelino Chiarello que foi violentamente despejado em novembro de 2016.
+support_line: O local é o mesmo onde havia o acampamento Marcelino Chiarello que foi violentamente despejado em novembro de 2017.
 menu: lutas e mobilizações
 layout: post
 files:
