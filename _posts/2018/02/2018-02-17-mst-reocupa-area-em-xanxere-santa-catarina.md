@@ -47,7 +47,7 @@ Foto: Divulga&ccedil;&atilde;o MST</em></p>
 <p>&nbsp;</p>
 
 <p><br />
-Na manh&atilde; deste s&aacute;bado, 17, cerca de 400 fam&iacute;lias do MST de Santa Catarina reocupam &aacute;rea onde o acampamento Marcelino Chiarello sofreu violento despejo em novembro de 2016.</p>
+Na manh&atilde; deste s&aacute;bado, 17, cerca de 400 fam&iacute;lias do MST de Santa Catarina reocupam &aacute;rea onde o acampamento Marcelino Chiarello sofreu violento despejo em novembro de 2017.</p>
 
 <p><br />
 Trata-se de uma &aacute;rea de propriedade do Incra, que em 1991 passou, condicionalmente, para posse ao fazendeiro Prezzotto, por&eacute;m esse n&atilde;o pagou o que lhe era devido, por isso o INCRA em 25 de abril de 2016 cancelou o t&iacute;tulo da &aacute;rea e agora precisa avaliar os bens do im&oacute;vel que o Movimento demanda para fins de reforma agr&aacute;ria.</p>
