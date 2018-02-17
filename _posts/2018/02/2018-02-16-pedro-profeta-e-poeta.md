@@ -1,5 +1,5 @@
 ---
-date: "2018-02-16T12:15:01-02:00"
+date: "2018-02-16T11:15:01-03:00"
 tags:
   - tag: homenagem
   - tag: cpt
@@ -33,7 +33,7 @@ releated_posts:
 <p>&nbsp;</p>
 
 <p><em>Por Jo&atilde;o Pedro Stedile*<br />
-Da P&aacute;gina do MST</em></p>
+Publicado originalmente no <a href="http://www.nocaute.blog.br/brasil/dom-pedro-casaldaliga-o-pedrinho-90-anos-de-vida-meio-seculo-de-luta-pelos-brasileiros-pobres.html">Nocaute.blog</a></em></p>
 
 <p>&nbsp;</p>
 
