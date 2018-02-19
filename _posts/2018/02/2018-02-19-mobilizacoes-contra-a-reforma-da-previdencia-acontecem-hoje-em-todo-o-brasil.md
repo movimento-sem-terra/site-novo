@@ -6,17 +6,17 @@ tags:
   - tag: governo-temer
 title: "Mobilizações contra a Reforma da Previdência acontecem hoje em todo o Brasil "
 menu: lutas e mobilizações
-images_hd: //farm5.staticflickr.com/4694/25487842987_f62097b796_b.jpg
+images_hd: //farm5.staticflickr.com/4700/26490457908_ce35cc77cf_b.jpg
 support_line: "As mobilizações são organizadas por centrais sindicais e movimentos populares "
 layout: post
 files:
-  - link: //farm5.staticflickr.com/4694/25487842987_f62097b796_b.jpg
-    original: //farm5.staticflickr.com/4694/25487842987_374be97589_o.jpg
-    thumbnail: //farm5.staticflickr.com/4694/25487842987_f62097b796_t.jpg
-    medium: //farm5.staticflickr.com/4694/25487842987_f62097b796_z.jpg
-    small: //farm5.staticflickr.com/4694/25487842987_f62097b796_n.jpg
-    title: WhatsApp Image 2018-02-19 at 10.00.17 (2).jpeg
-    $$hashKey: 02P
+  - link: //farm5.staticflickr.com/4700/26490457908_ce35cc77cf_b.jpg
+    original: //farm5.staticflickr.com/4700/26490457908_02a41519d7_o.jpg
+    thumbnail: //farm5.staticflickr.com/4700/26490457908_ce35cc77cf_t.jpg
+    medium: //farm5.staticflickr.com/4700/26490457908_ce35cc77cf_z.jpg
+    small: //farm5.staticflickr.com/4700/26490457908_ce35cc77cf_n.jpg
+    title: WhatsApp Image 2018-02-19 at 10.34.13.jpeg
+    $$hashKey: 0B2
 created_date: "2018-02-19T11:20:43-03:00"
 published: true
 releated_posts:
@@ -30,4 +30,4 @@ releated_posts:
   - _posts/2018/02/2018-02-07-ato-contra-reforma-mobiliza-parlamentares-e-movimentos-populares.md
 
 ---
-<a class="twitter-timeline" data-partner="tweetdeck" href="https://twitter.com/Brasil_de_Fato?ref_src=twsrc%5Etfw">Tweets by Brasil_de_Fato</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<p><a class="twitter-timeline" data-partner="tweetdeck" href="https://twitter.com/Brasil_de_Fato?ref_src=twsrc%5Etfw">Tweets by Brasil_de_Fato</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
