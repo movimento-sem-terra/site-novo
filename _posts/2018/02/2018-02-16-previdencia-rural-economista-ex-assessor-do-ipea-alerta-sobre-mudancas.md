@@ -1,5 +1,5 @@
 ---
-date: "2018-02-16T12:37:57-02:00"
+date: "2018-02-16T11:37:57-03:00"
 tags:
   - tag: reforma-da-previdência
   - tag: golpe
@@ -26,6 +26,7 @@ releated_posts:
   - _posts/2018/02/2018-02-07-ato-contra-reforma-mobiliza-parlamentares-e-movimentos-populares.md
   - _posts/2017/08/2017-08-04-metade-dos-votos-para-temer-saiu-da-frente-parlamentar-da-agropecuaria.md
   - _posts/2017/09/2017-09-22-trabalhadores-querem-reverter-cortes-de-ate-99-nas-politicas-de-agricultura-familiar.md
+section: featured-news
 
 ---
 <p>&nbsp;</p>
