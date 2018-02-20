@@ -7,7 +7,7 @@ tags:
 title: Trabalhadores em todo país criticam mudanças na Previdência numa Jornada Nacional de Lutas
 support_line: "Bloqueios, atos em agências do INSS, marchas e muito diálogo com a população para dizer “Quero me aposentar!”"
 menu: lutas e mobilizações
-section: cover
+section: featured-news
 images_hd: //farm5.staticflickr.com/4722/40319571872_c8b57d069b_b.jpg
 layout: post
 files:
