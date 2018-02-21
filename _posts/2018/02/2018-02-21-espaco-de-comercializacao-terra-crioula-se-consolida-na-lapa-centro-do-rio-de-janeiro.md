@@ -18,6 +18,27 @@ files:
     small: //farm5.staticflickr.com/4650/38592137100_53993b4dfa_n.jpg
     title: pablovergara1.jpg
     $$hashKey: 04I
+  - link: //farm5.staticflickr.com/4612/38592810800_47b650abe2_b.jpg
+    original: //farm5.staticflickr.com/4612/38592810800_689aee5c4e_o.jpg
+    thumbnail: //farm5.staticflickr.com/4612/38592810800_47b650abe2_t.jpg
+    medium: //farm5.staticflickr.com/4612/38592810800_47b650abe2_z.jpg
+    small: //farm5.staticflickr.com/4612/38592810800_47b650abe2_n.jpg
+    title: 2(1).jpg
+    $$hashKey: 05D
+  - link: //farm5.staticflickr.com/4608/40403568811_e799f90594_b.jpg
+    original: //farm5.staticflickr.com/4608/40403568811_1ed64687c7_o.jpg
+    thumbnail: //farm5.staticflickr.com/4608/40403568811_e799f90594_t.jpg
+    medium: //farm5.staticflickr.com/4608/40403568811_e799f90594_z.jpg
+    small: //farm5.staticflickr.com/4608/40403568811_e799f90594_n.jpg
+    title: 3(1).jpg
+    $$hashKey: 05G
+  - link: //farm5.staticflickr.com/4661/39692838134_ce583de3b5_b.jpg
+    original: //farm5.staticflickr.com/4661/39692838134_36f23fedba_o.jpg
+    thumbnail: //farm5.staticflickr.com/4661/39692838134_ce583de3b5_t.jpg
+    medium: //farm5.staticflickr.com/4661/39692838134_ce583de3b5_z.jpg
+    small: //farm5.staticflickr.com/4661/39692838134_ce583de3b5_n.jpg
+    title: 4(1).jpg
+    $$hashKey: 05J
 created_date: "2018-02-21T13:19:00-03:00"
 published: true
 releated_posts:
@@ -53,6 +74,10 @@ Este espa&ccedil;o tem se caracterizado por ser um articulador entre o Campo e a
 <p><br />
 O Terra Crioula contempla a diversidade do MST&nbsp; no Rio de Janeiro e sua amplitude Inter setorial, &ldquo;e dessa forma que o espa&ccedil;o Terra Crioula se formula como um ponto de encontro e pedag&oacute;gico, onde as diversas dimens&otilde;es do movimento se relacionam com a popula&ccedil;&atilde;o carioca&rdquo;.</p>
 
+<figure class="image" style="float:right"><img alt="2(1).jpg" height="233" src="//farm5.staticflickr.com/4612/38592810800_47b650abe2_b.jpg" width="350" />
+<figcaption></figcaption>
+</figure>
+
 <p><br />
 Al&eacute;m da produ&ccedil;&atilde;o agr&iacute;cola in natura e agro industrializada dos camponeses sem-terra, temos tamb&eacute;m a Culin&aacute;ria da Terra, importante espa&ccedil;o que caracteriza a comercializa&ccedil;&atilde;o de comidas produzidas com alimentos sadios na procura de fortalecer o di&aacute;logo sobre a import&acirc;ncia da alimenta&ccedil;&atilde;o como um ato pol&iacute;tico e pela soberania alimentar, na mesa s&atilde;o pratos com alimentos agroecol&oacute;gicos produto da Reforma Agraria Popular. Encontramos o Setor de Sa&uacute;de, com sua ampla produ&ccedil;&atilde;o de Fitoter&aacute;picos e espa&ccedil;os de cuidados do corpo como a massoterapia, shiatsu e ventosaterapia, e o Setor de Educa&ccedil;&atilde;o trazendo os livros da Express&atilde;o Popular, bolsas, canecas, entre outros materiais.</p>
 
@@ -64,7 +89,10 @@ Diversas atividades com o car&aacute;ter de forma&ccedil;&atilde;o acontecem no 
 <p><strong>Culin&aacute;ria da terra </strong></p>
 
 <p><br />
-A cultura e musicalidade s&atilde;o elementos importantes nas atividades do espa&ccedil;o, com foco na resist&ecirc;ncia cultural. Durante as quartas feiras abrimos palco para m&uacute;sicos com hist&oacute;rico de resist&ecirc;ncia e fortalecimento da raiz cultural do Rio de janeiro.</p>
+A cultura e musicalidade s&atilde;o elementos importantes nas atividades do espa&ccedil;o, com foco na resist&ecirc;ncia cultural. Durante as quartas feiras abrimos palco para m&uacute;sicos com hist&oacute;rico de resist&ecirc;ncia e fortalecimento da raiz cultural do Rio de janeiro.<br />
+&nbsp;</p>
+
+<p><img alt="3(1).jpg" height="400" src="//farm5.staticflickr.com/4608/40403568811_e799f90594_b.jpg" width="600" /></p>
 
 <p><br />
 Apresenta&ccedil;&otilde;es de grupos de samba, MC&rsquo;s de Funk de protesto, MC&rsquo;s de Rap, bandas de forr&oacute; da capital, poesia e teatro. Desde o in&iacute;cio buscamos ampliar as apresenta&ccedil;&otilde;es e abrir espa&ccedil;os de apresenta&ccedil;&otilde;es para os parceiros e parceiras do movimento.</p>
@@ -80,6 +108,10 @@ Programa&ccedil;&atilde;o do Espa&ccedil;o esta Quarta Feira (21) conta com o DJ
 
 <p>&nbsp;</p>
 
+<p><img alt="4(1).jpg" height="467" src="//farm5.staticflickr.com/4661/39692838134_ce583de3b5_b.jpg" width="700" /></p>
+
 <p>&nbsp;</p>
 
-<p><em>#Editado por Rafael Soriano</em></p>
+<p>&nbsp;</p>
+
+<p><em>*Editado por Rafael Soriano</em></p>
