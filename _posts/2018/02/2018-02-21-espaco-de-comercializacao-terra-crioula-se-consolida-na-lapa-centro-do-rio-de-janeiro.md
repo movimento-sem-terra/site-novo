@@ -6,7 +6,7 @@ tags:
   - tag: nossa-produção
 title: "Espaço de comercialização Terra Crioula se consolida na Lapa, Centro do Rio de Janeiro"
 menu: agricultura camponesa
-section: cover
+section: featured-news
 images_hd: //farm5.staticflickr.com/4650/38592137100_53993b4dfa_b.jpg
 support_line: "O espaço surgiu, inicialmente, pela necessidade de trazer para a capital os produtos das áreas de Reforma Agrária do interior do Rio de Janeiro."
 layout: post
