@@ -56,7 +56,7 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p><em>Do do setor de g&ecirc;nero e de comunica&ccedil;&atilde;o do MST<br />
+<p><em>Do Setor de G&ecirc;nero e de Comunica&ccedil;&atilde;o do MST<br />
 Para P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
