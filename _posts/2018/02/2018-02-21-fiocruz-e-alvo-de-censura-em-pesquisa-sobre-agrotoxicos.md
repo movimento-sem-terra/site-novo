@@ -4,7 +4,7 @@ tags:
   - tag: agrotóxicos
   - tag: saúde
   - tag: agronegócio
-title: Fiocruz é alvo de censura em pesquisa sobre Agrotóxicos
+title: Fiocruz é alvo de censura em pesquisa sobre agrotóxicos
 support_line: "Das várias solicitações, destaca-se a que evitasse chamar os agrotóxicos de “veneno” e passasse a chamá-los de “defensivos agrícolas\"."
 menu: agronegócio
 images_hd: //farm5.staticflickr.com/4649/40406783331_46165e123c_b.jpg
