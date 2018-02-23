@@ -4,7 +4,7 @@ tags:
   - tag: paraná
   - tag: agroecologia
   - tag: nossa-produção
-title: Produção Agroecológica avança na região Centro do Paraná
+title: Produção agroecológica avança na região Centro do Paraná
 images_hd: //farm5.staticflickr.com/4674/25569914227_8bb640bb94_b.jpg
 support_line: "No acampamento, as famílias organizaram um grupo de produção agroecológica e transformam a luta pela terra em algo fascinante."
 menu: agricultura camponesa
