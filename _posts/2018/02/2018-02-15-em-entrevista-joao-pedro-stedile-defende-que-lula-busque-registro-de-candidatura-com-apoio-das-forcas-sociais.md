@@ -8,7 +8,7 @@ tags:
 title: "Em entrevista, João Pedro Stédile defende que Lula busque registro de candidatura, com apoio das forças sociais"
 label: interviews
 menu: projeto popular
-section: featured-news
+section: null
 support_line: "\"Todo povo pode rebelar-se contra leis ou governos que não expressem a vontade da maioria ou que aplicam procedimentos claramente injustos e desumanos\""
 images_hd: //farm5.staticflickr.com/4659/40237202402_5cda1b7607_b.jpg
 layout: post
