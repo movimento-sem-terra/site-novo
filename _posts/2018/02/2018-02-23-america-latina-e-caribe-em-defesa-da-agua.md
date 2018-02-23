@@ -41,6 +41,7 @@ releated_posts:
   - _posts/2018/02/2018-02-09-manifestantes-impedem-assembleia-de-privatizar-eletronorte.md
   - _posts/2017/11/2017-11-28-entenda-o-contexto-da-luta-pela-agua-em-correntina-ba.md
   - _posts/2017/09/2017-09-11-dialogos-sobre-uso-e-producao-de-agua-reunem-experiencias-distintas-para-analisar-a-atual-crise-hidrica.md
+label: articles
 
 ---
 <p><img alt="fama1.jpg" height="269" src="//farm5.staticflickr.com/4742/25569624237_75c4d21056_b.jpg" width="700" /></p>
