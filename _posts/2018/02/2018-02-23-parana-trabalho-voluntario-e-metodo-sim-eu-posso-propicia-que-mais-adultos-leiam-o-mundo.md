@@ -4,7 +4,7 @@ tags:
   - tag: sim-eu-posso
   - tag: paraná
   - tag: educação-do-campo
-title: "Paraná: trabalho voluntário e método Sim, Eu Posso propicia que mais adultos leiam o mundo"
+title: "Paraná: trabalho voluntário e método Sim, Eu Posso propicia mais adultos lerem o mundo"
 images_hd: //farm5.staticflickr.com/4651/39728234684_5837f49419_b.jpg
 section: featured-news
 support_line: "A população acampada anuncia que estão motivados para iniciar novas turmas, pois perceberam que é mesmo possível aprender a ler e escrever com o \"Sim, Eu posso\".."
