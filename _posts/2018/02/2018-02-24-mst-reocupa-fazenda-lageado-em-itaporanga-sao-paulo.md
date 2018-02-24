@@ -7,18 +7,18 @@ tags:
 title: "MST reocupa fazenda Lageado em Itaporanga, São Paulo\n"
 menu: lutas e mobilizações
 support_line: "Além da simbologia de transformar uma área da universidade em assentamento de Reforma Agrária, há um outro elemento importante nessa luta: se efetivado, o Izael Fagundes será o primeiro assentamento no município de Itaporanga"
-images_hd: //farm5.staticflickr.com/4606/39745893704_5211223a6a_b.jpg
+images_hd: //farm5.staticflickr.com/4667/39747341804_d1890efa3e_b.jpg
 layout: post
 files:
-  - link: //farm5.staticflickr.com/4606/39745893704_5211223a6a_b.jpg
-    original: //farm5.staticflickr.com/4606/39745893704_b7f72c11a5_o.jpg
-    thumbnail: //farm5.staticflickr.com/4606/39745893704_5211223a6a_t.jpg
-    medium: //farm5.staticflickr.com/4606/39745893704_5211223a6a_z.jpg
-    small: //farm5.staticflickr.com/4606/39745893704_5211223a6a_n.jpg
-    title: 26731557_1636851319728128_1399601860475269947_n.jpg
-    $$hashKey: 0K8
+  - link: //farm5.staticflickr.com/4667/39747341804_d1890efa3e_b.jpg
+    original: //farm5.staticflickr.com/4667/39747341804_6dda9896cb_o.jpg
+    thumbnail: //farm5.staticflickr.com/4667/39747341804_d1890efa3e_t.jpg
+    medium: //farm5.staticflickr.com/4667/39747341804_d1890efa3e_z.jpg
+    small: //farm5.staticflickr.com/4667/39747341804_d1890efa3e_n.jpg
+    title: 10458329_707103529362364_4297223723234569498_n.jpg
+    $$hashKey: 0UI
 created_date: "2018-02-24T10:23:34-03:00"
-published: false
+published: true
 releated_posts:
   - _posts/2017/11/2017-11-21-sem-terra-ocupam-fazenda-do-ex-deputado-estadual-roberto-cunha.md
   - _posts/2018/01/2018-01-13-mst-zona-da-mata-ocupa-mais-um-latifundio-improdutivo.md
