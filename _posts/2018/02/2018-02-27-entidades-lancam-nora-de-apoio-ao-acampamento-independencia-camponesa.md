@@ -36,13 +36,20 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p>Na&nbsp;noite da &uacute;ltima&nbsp;sexta-feira&nbsp;(23), cerca de 50 fam&iacute;lias do acampamento Independ&ecirc;ncia Camponesa, localizado as margens da barragem de Tabatinga, no munic&iacute;pio de Maca&iacute;ba, foi&nbsp;atacado por pistoleiros encapuzados.&nbsp;</p>
+<p>Nessa sexta feira (2), entidades e organiza&ccedil;&otilde;es de direitos humanos&nbsp;que defendem a luta pela terra e por Reforma Agr&aacute;ria, se mobilizam para&nbsp;participar&nbsp;da&nbsp;vig&iacute;lia de solidariedade ao acampamento Independ&ecirc;ncia Camponesa.&nbsp;</p>
+
+<p><br />
+Na&nbsp;noite da &uacute;ltima&nbsp;sexta-feira&nbsp;(23), cerca de 50 fam&iacute;lias do acampamento Independ&ecirc;ncia Camponesa, localizado as margens da barragem de Tabatinga, no munic&iacute;pio de Maca&iacute;ba, foi&nbsp;atacado por pistoleiros encapuzados.&nbsp;</p>
 
 <p><br />
 Os trabalhadores foram amea&ccedil;ados&nbsp;com disparos de arma de fogo, al&eacute;m disso, numa clara a&ccedil;&atilde;o de coa&ccedil;&atilde;o os pistoleiros anunciaram que os Sem Terra tem uma semana para deixar o local.&nbsp;</p>
 
 <p><br />
-O Movimento tem recebido diversas demonstra&ccedil;&otilde;es de apoio de organiza&ccedil;&otilde;es e da sociedade civil que denunciam o ocorrido e exigem medidas de seguran&ccedil;a para os trabalhadores.&nbsp;</p>
+O ocorrido mobilizou mais de cem men&ccedil;&otilde;es de solidariedade as fam&iacute;lias acampadas e contra a viol&ecirc;ncia no campo de setores da igreja, movimentos populares, entidades no estado e em &acirc;mbito nacional.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Al&eacute;m da vig&iacute;lia, que acontecer&aacute; no acampamento,&nbsp;visitas e audi&ecirc;ncias p&uacute;blicas est&atilde;o sendo organizadas com objetivo de tornar p&uacute;blico o debate sobre a&nbsp;viol&ecirc;ncia no campo. Os Sem Terra querem&nbsp;pressionar as autoridades competentes para que n&atilde;o negligenciem o ocorrido e garantam a&nbsp;seguran&ccedil;a das fam&iacute;lias.</p>
 
 <p><br />
 <strong>Abaixo uma nota assinada por entidades e organiza&ccedil;&otilde;es sociais:&nbsp;&nbsp;</strong></p>
