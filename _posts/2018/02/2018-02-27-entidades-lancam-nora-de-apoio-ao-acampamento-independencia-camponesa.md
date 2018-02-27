@@ -4,7 +4,7 @@ tags:
   - tag: direitos-humanos
   - tag: rio-grande-do-norte
   - tag: violência-no-campo
-title: Entidades lançam nora de apoio ao acampamento Independência Camponesa
+title: Entidades lançam nota de apoio ao acampamento Independência Camponesa
 support_line: "\"Esse ato de violência é inaceitável e, infelizmente, revela a forma truculenta com a qual trabalhadores e trabalhadoras que lutam pela terra são tratados\""
 menu: direitos humanos
 images_hd: //farm5.staticflickr.com/4766/25648238977_4f65bc9eb3_b.jpg
