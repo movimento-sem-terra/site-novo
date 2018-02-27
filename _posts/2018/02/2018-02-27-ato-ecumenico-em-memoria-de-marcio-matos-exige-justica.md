@@ -5,7 +5,7 @@ tags:
   - tag: direitos-humanos
   - tag: bahia
 images_hd: //farm5.staticflickr.com/4767/40520086471_07a458f624_b.jpg
-title: "Ato Ecumênico, em memória de Márcio Matos, exige justiça\n"
+title: "Ato ecumênico em memória de Márcio Matos exige justiça\n"
 menu: lutas e mobilizações
 support_line: "Durante o ato, o discurso emocionado dos presentes pontuou a importância da luta travada por Márcio na defesa da Reforma Agrária Popular "
 layout: post
