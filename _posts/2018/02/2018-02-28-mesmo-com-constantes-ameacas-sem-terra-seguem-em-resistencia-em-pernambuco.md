@@ -52,7 +52,7 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p><em>Por Francisco Terto&nbsp;<br />
+<p><em>Por&nbsp;Rozana Maria<br />
 Da P&aacute;gina do MST</em></p>
 
 <div>&nbsp;</div>
