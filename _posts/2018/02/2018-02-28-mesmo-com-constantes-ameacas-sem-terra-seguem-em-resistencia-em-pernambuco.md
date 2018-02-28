@@ -6,7 +6,7 @@ tags:
   - tag: mobilizações
 images_hd: //farm5.staticflickr.com/4626/38727648860_fa6bd22cdd_b.jpg
 menu: lutas e mobilizações
-title: "Mesmo com constantes ameaças, Sem Terra seguem em resistência em Pernambuco "
+title: "Mesmo com ameaças, Sem Terra seguem em resistência no estado de Pernambuco "
 support_line: "Os trabalhadores e trabalhadoras do campo estão em alerta e seguem firmes na luta contra o latifúndio, contra as elites e contra o agronegócio"
 layout: post
 files:
