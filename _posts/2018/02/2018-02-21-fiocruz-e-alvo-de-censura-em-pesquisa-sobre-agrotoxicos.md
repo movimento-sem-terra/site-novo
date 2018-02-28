@@ -44,7 +44,7 @@ Ap&oacute;s apresenta&ccedil;&atilde;o de pesquisador da Fiocruz Cear&aacute;, d
 Das v&aacute;rias solicita&ccedil;&otilde;es, destaca-se a que evitasse chamar os agrot&oacute;xicos de &ldquo;veneno&rdquo; e passasse a cham&aacute;-los de &ldquo;defensivos agr&iacute;colas. Exig&ecirc;ncia que fere a legisla&ccedil;&atilde;o nacional. Comunica&ccedil;&atilde;o em sa&uacute;de &eacute; um direito da popula&ccedil;&atilde;o e um dever do Estado.</p>
 
 <p><br />
-Confira na &iacute;tegra:</p>
+Confira na &iacute;ntegra:</p>
 
 <p><br />
 &quot;O Conselho Deliberativo da Fiocruz, reunido entre os dias 1&deg; e 2 de fevereiro de 2018, vem a p&uacute;blico se manifestar contra a censura e intimida&ccedil;&atilde;o de pesquisadores e pelo direito de se produzir ci&ecirc;ncia para a defesa da vida.</p>
