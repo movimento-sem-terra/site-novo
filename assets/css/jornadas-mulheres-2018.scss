@@ -7,6 +7,10 @@
 @import "../_sass/_includes/mixins";
 
 .jornadas-mulheres-2018 .main-picture {
+  background-image: url(//farm5.staticflickr.com/4603/40559988941_b746ba87ef_b.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
   background-position: center;
   width: 100vw;
   height: 100vh;
@@ -57,7 +61,7 @@
     justify-content: center;
   }
 
-  .content span {
+  .content h1 span {
     text-shadow: 1px 2px 1px #000000;
     font-family: 'Exo 2';
     color: #ffffff;
@@ -86,14 +90,14 @@
 }
 
 .jornadas-mulheres-2018 .album-de-fotos {
-  background-color: #E1D7CC;
-  display: flex;
-  justify-content: center;
-  align-content: center;
-  flex-direction: column;
-  align-items: center;
-  padding: 20px;
-  margin-top: 15px;
+    background-color: #E1D7CC;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    margin-top: 15px;
 }
 
 figcaption {
