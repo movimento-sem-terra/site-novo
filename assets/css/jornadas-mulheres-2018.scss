@@ -32,6 +32,7 @@
 
   @include media($desktop){
     display: block;
+    background-image: url(/assets/img/jornadas-mulheres-2017/mulheres-2017.png);
     background-repeat: no-repeat;
     background-size: cover;
     height: 100%;
@@ -61,7 +62,7 @@
     justify-content: center;
   }
 
-  .content h1 span {
+  .content span {
     text-shadow: 1px 2px 1px #000000;
     font-family: 'Exo 2';
     color: #ffffff;
@@ -90,18 +91,19 @@
 }
 
 .jornadas-mulheres-2018 .album-de-fotos {
-    background-color: #E1D7CC;
-    display: flex;
-    justify-content: center;
-    align-content: center;
-    flex-direction: column;
-    align-items: center;
-    padding: 20px;
-    margin-top: 15px;
+  background-color: #E1D7CC;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  margin-top: 15px;
 }
 
 figcaption {
   font-style: italic;
+  margin: 1%;
 }
 
 .jornadas-mulheres-2018 .soundcloud {
