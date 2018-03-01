@@ -28,6 +28,7 @@ releated_posts:
   - _posts/2017/11/2017-11-25-mulheres-do-mst-denunciam-a-cultura-do-estupro-e-ocupa-fazenda-ligada-a-ruralista.md
   - _posts/2017/11/2017-11-29-mulheres-do-campo-e-da-cidade-ocupam-o-ministerio-publico-em-joao-pessoa.md
   - _posts/2017/12/2017-12-15-enfrentar-o-patriarcado-e-central-na-luta-de-classes.md
+special-page: jornada-mulheres-2018
 
 ---
 <div style="text-align:center">
