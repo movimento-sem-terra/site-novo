@@ -7,7 +7,6 @@
 @import "../_sass/_includes/mixins";
 
 .jornadas-mulheres-2018 .main-picture {
-  background-image: url(/assets/img/jornadas-mulheres-2017/mulheres-2017.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
@@ -32,7 +31,7 @@
 
   @include media($desktop){
     display: block;
-    background-image: url(/assets/img/jornadas-mulheres-2017/mulheres-2017.png);
+    background-image: url(//farm5.staticflickr.com/4603/40559988941_b746ba87ef_b.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 100%;
@@ -104,13 +103,4 @@
 figcaption {
   font-style: italic;
   margin: 1%;
-}
-
-.jornadas-mulheres-2018 .soundcloud {
-  display: flex;
-  justify-content: center;
-  align-content: center;
-  background-color: #E1D7CC;
-  padding: 15px;
-  margin-top: 30px;
 }
