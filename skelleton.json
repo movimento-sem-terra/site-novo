@@ -210,7 +210,7 @@
   "type":{
     "view": "select",
     "options": [
-      {"name": "Circuito Mineiro", "id": "circuito-mineiro"}
+      {"name": "Jornada das mulheres 2018  ", "id": "jornada-mulheres-2018"}
       ]
   }
 },
