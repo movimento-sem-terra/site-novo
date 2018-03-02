@@ -25,6 +25,7 @@ releated_posts:
   - _posts/2017/07/2017-07-31-estou-maravilhado-diz-lula-em-visita-ao-armazem-do-campo-em-sao-paulo.md
   - _posts/2017/11/2017-11-28-receptividade-marca-inauguracao-do-armazem-do-campo-em-bh.md
   - _posts/2017/08/2017-08-16-um-ano-do-armazem-do-campo.md
+special-page: jornada-mulheres-2018
 
 ---
 <p>&nbsp;</p>
