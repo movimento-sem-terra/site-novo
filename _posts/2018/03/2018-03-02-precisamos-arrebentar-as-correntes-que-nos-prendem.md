@@ -50,8 +50,15 @@ releated_posts:
   - _posts/2017/12/2017-12-26-futebol-pode-empoderar-mulheres-afirmam-jogadoras.md
   - _posts/2018/01/2018-01-04-nos-que-amamos-a-revolucao-resistiremos.md
   - _posts/2017/12/2017-12-15-enfrentar-o-patriarcado-e-central-na-luta-de-classes.md
+special-page: jornada-mulheres-2018
 
 ---
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="Divulgação - MST 3.jpg" height="399" src="//farm5.staticflickr.com/4790/26703216488_1ef3f1ddd9_b.jpg" width="600" />
+<figcaption>Divulga&ccedil;&atilde;o MST&nbsp;</figcaption>
+</figure>
+</div>
+
 <p>&nbsp;</p>
 
 <p><em>Por Maura Silva<br />
@@ -64,13 +71,18 @@ Da P&aacute;gina do MST</em></p>
 A reforma da Previd&ecirc;ncia e a luta pela democracia seguem sendo as principais pautas de mobiliza&ccedil;&atilde;o. Outros pontos como o fechamento das escolas do campo e a falta de incentivo agr&iacute;cola para a produ&ccedil;&atilde;o nos assentamentos e a precariedade da sa&uacute;de tamb&eacute;m ser&atilde;o abordados.</p>
 
 <p><br />
-Em entrevista,&nbsp; Reis MarqueSilvias, da Dire&ccedil;&atilde;o Nacional do MST, fala sobre a Jornada e convoca as mulheres do campo e da cidade para juntas ocupar seu lugar de luta: &ldquo;Nessa grande Jornada Nacional de Lutas das Mulheres, chamamos todas para empunharem suas armas bandeiras para reivindicarem e protegerem n&atilde;o s&oacute; os direitos j&aacute; conquistados, mas tamb&eacute;m para batalhar por todo o conjunto da classe. Por isso n&oacute;s, mulheres Sem Terra que defendemos a terra e a Reforma Agr&aacute;ria tamb&eacute;m sairemos em defesa da democracia, da soberania e dos nossos bens naturais&rdquo;.</p>
+Em entrevista,&nbsp;Silvia&nbsp;Reis Marques, da Dire&ccedil;&atilde;o Nacional do MST, fala sobre a Jornada e convoca as mulheres do campo e da cidade para juntas ocupar seu lugar de luta: &ldquo;Nessa grande Jornada Nacional de Lutas das Mulheres, chamamos todas para empunharem suas armas bandeiras para reivindicarem e protegerem n&atilde;o s&oacute; os direitos j&aacute; conquistados, mas tamb&eacute;m para batalhar por todo o conjunto da classe. Por isso n&oacute;s, mulheres Sem Terra que defendemos a terra e a Reforma Agr&aacute;ria tamb&eacute;m sairemos em defesa da democracia, da soberania e dos nossos bens naturais&rdquo;.</p>
 
 <p><br />
 <strong>Hist&oacute;rico&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strong></p>
 
-<p><br />
-A Jornada Nacional de Lutas das Mulheres Sem Terra acontece desde a funda&ccedil;&atilde;o do MST, sempre na data do 8 de mar&ccedil;o. Nesse per&iacute;odo direitos hist&oacute;ricos como o sal&aacute;rio maternidade, a previd&ecirc;ncia rural, o acesso &agrave; educa&ccedil;&atilde;o pelas mulheres, assim como o acesso &agrave; terra, pautar&atilde;o a luta. A partir de 2006, a Jornada assumiu um car&aacute;ter do enfrentamento ao capital no campo, o agroneg&oacute;cio e a minera&ccedil;&atilde;o, atrav&eacute;s de uma a&ccedil;&atilde;o realizada pelas mulheres contra a empresa Aracruz no Rio Grande do Sul. Desde ent&atilde;o, as a&ccedil;&otilde;es seguem mobilizando milhares de mulheres pelo pa&iacute;s.</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="Ocupação da Vale 2017 - Divulgação MST.jpg" height="200" src="//farm5.staticflickr.com/4702/39680104945_604f036f39_b.jpg" width="300" />
+<figcaption>Mobiliza&ccedil;&atilde;o das mulheres 2017</figcaption>
+</figure>
+
+<p>A Jornada Nacional de Lutas das Mulheres Sem Terra acontece desde a funda&ccedil;&atilde;o do MST, sempre na data do 8 de mar&ccedil;o. Nesse per&iacute;odo direitos hist&oacute;ricos como o sal&aacute;rio maternidade, a previd&ecirc;ncia rural, o acesso &agrave; educa&ccedil;&atilde;o pelas mulheres, assim como o acesso &agrave; terra, pautar&atilde;o a luta. A partir de 2006, a Jornada assumiu um car&aacute;ter do enfrentamento ao capital no campo, o agroneg&oacute;cio e a minera&ccedil;&atilde;o, atrav&eacute;s de uma a&ccedil;&atilde;o realizada pelas mulheres contra a empresa Aracruz no Rio Grande do Sul. Desde ent&atilde;o, as a&ccedil;&otilde;es seguem mobilizando milhares de mulheres pelo pa&iacute;s.</p>
 
 <p><br />
 <strong>Fale um pouco sobre o lema escolhido para a Jornada deste ano.</strong></p>
@@ -80,7 +92,7 @@ O grande lema desse ano &eacute;: Quem n&atilde;o se movimenta, n&atilde;o sente
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Silvia Reis Marques, da Direção Nacional do MST - Foto Tiago Giannichini.JPG" height="427" src="//farm5.staticflickr.com/4719/40574729391_362b3804e4_b.jpg" width="600" />
-<figcaption></figcaption>
+<figcaption>Silvia&nbsp;Reis Marques, da Dire&ccedil;&atilde;o Nacional do MST</figcaption>
 </figure>
 </div>
 
