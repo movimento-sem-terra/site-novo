@@ -17,6 +17,20 @@ files:
     small: //farm5.staticflickr.com/4778/38823993590_f0e0cec104_n.jpg
     title: 28661308_1949076841831687_7651575821566854529_n.jpg
     $$hashKey: "030"
+  - link: //farm5.staticflickr.com/4746/25763957377_0826d4291d_b.jpg
+    original: //farm5.staticflickr.com/4746/25763957377_eae009018b_o.jpg
+    thumbnail: //farm5.staticflickr.com/4746/25763957377_0826d4291d_t.jpg
+    medium: //farm5.staticflickr.com/4746/25763957377_0826d4291d_z.jpg
+    small: //farm5.staticflickr.com/4746/25763957377_0826d4291d_n.jpg
+    title: WhatsApp Image 2018-03-05 at 11.38.03.jpeg
+    $$hashKey: 05E
+  - link: //farm5.staticflickr.com/4700/38824368780_443524ed91_b.jpg
+    original: //farm5.staticflickr.com/4700/38824368780_6deb9f89de_o.jpg
+    thumbnail: //farm5.staticflickr.com/4700/38824368780_443524ed91_t.jpg
+    medium: //farm5.staticflickr.com/4700/38824368780_443524ed91_z.jpg
+    small: //farm5.staticflickr.com/4700/38824368780_443524ed91_n.jpg
+    title: WhatsApp Image 2018-03-05 at 11.38.06.jpeg
+    $$hashKey: 05H
 created_date: "2018-03-05T11:32:10-03:00"
 published: true
 releated_posts:
@@ -31,6 +45,10 @@ releated_posts:
   - _posts/2018/02/2018-02-20-lugar-de-mulher-e-na-politica-afirmam-trabalhadoras-sem-terra.md
 
 ---
+<p style="text-align:center"><img alt="WhatsApp Image 2018-03-05 at 11.38.03.jpeg" height="600" src="//farm5.staticflickr.com/4746/25763957377_0826d4291d_b.jpg" width="600" /></p>
+
+<p>&nbsp;</p>
+
 <p>&nbsp;</p>
 
 <p><em>Da P&aacute;gina do MST&nbsp;</em></p>
@@ -47,8 +65,12 @@ A atividade, que come&ccedil;ar&aacute; &agrave;s 15h30, integra a programa&cced
 <p><br />
 O evento, que ser&aacute; transmitido ao vivo pelo Facebook, na p&aacute;gina &ldquo;Rede Soberania&rdquo;, tamb&eacute;m reunir&aacute; mulheres militantes de outras organiza&ccedil;&otilde;es populares, como o Movimento das Trabalhadoras e dos Trabalhadores por Direitos (MTD), o Movimento dos Pequenos Agricultores (MPA), o Movimento das Mulheres Camponesas (MMC), o Movimento dos Atingidos por Barragens (MAB) e o Levante Popular da Juventude, al&eacute;m de catadoras de materiais recicl&aacute;veis e v&aacute;rias outras trabalhadoras urbanas.</p>
 
+<p style="text-align:center"><img alt="WhatsApp Image 2018-03-05 at 11.38.06.jpeg" height="600" src="//farm5.staticflickr.com/4700/38824368780_443524ed91_b.jpg" width="600" /></p>
+
 <p><br />
-<strong>Marcha no dia 8 de Mar&ccedil;o</strong></p>
+&nbsp;</p>
+
+<p><strong>Marcha no dia 8 de Mar&ccedil;o</strong></p>
 
 <p><br />
 A Jornada Nacional de Luta das Mulheres Sem Terra acontece sempre na semana do 8 de Mar&ccedil;o, data conhecida como Dia Internacional da Mulher. Este ano o lema da jornada &eacute; &ldquo;Quem n&atilde;o se movimenta, n&atilde;o sente as correntes que a prendem&rdquo;, uma frase (adaptada) da revolucion&aacute;ria Rosa Luxemburgo. Da mesma forma que ocorreu em 2017, haver&aacute; na capital na pr&oacute;xima quinta-feira (8) uma grande marcha unificada, que envolver&aacute; pelo menos 2 mil trabalhadoras camponesas e urbanas.</p>
