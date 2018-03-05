@@ -3,7 +3,7 @@ date: "2018-03-05T11:11:37-03:00"
 tags:
   - tag: mulheres
   - tag: lutas
-title: "Semana do 8 de Março: Mulheres Sem Terra realizam conferência com Dilma e marcha em Porto Alegre"
+title: Mulheres Sem Terra realizam conferência com Dilma e marcha em Porto Alegre
 images_hd: //farm5.staticflickr.com/4778/38823993590_f0e0cec104_b.jpg
 special-page: jornada-mulheres-2018
 support_line: "O evento, que será transmitido ao vivo pelo Facebook, na página “Rede Soberania”, também reunirá mulheres militantes de outras organizações populares"
