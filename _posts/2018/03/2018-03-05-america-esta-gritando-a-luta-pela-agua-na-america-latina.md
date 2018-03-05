@@ -107,7 +107,8 @@ Abril de 2000. Com uma situa&ccedil;&atilde;o cr&iacute;tica de &aacute;gua e um
 A luta popular conseguiu barrar a privatiza&ccedil;&atilde;o e expulsar &agrave;s empresas, fazendo Banzer recuar. Mas tamb&eacute;m conseguiu marcar fortemente na mem&oacute;ria coletiva que &ldquo;a &aacute;gua &eacute; do povo&rdquo; e estabelecer um antecedente hist&oacute;rico de grande import&acirc;ncia na luta contra o neoliberalismo.&nbsp; &Oacute;scar Olivera, uma das lideran&ccedil;as da resist&ecirc;ncia, disse numa entrevista ao canal de Casa de Am&eacute;rica: &ldquo;Est&aacute;vamos frente a um processo brutal e irracional de privatiza&ccedil;&atilde;o da &aacute;gua, que na pr&aacute;tica significava converter a &aacute;gua numa mercadoria. Desde a perspectiva ind&iacute;gena e popular na Bol&iacute;via, a &aacute;gua &eacute; um presente generoso da Pachamama, &eacute; o sangue da madre terra. Ao ser um presente para todas e todos, ningu&eacute;m em particular pode se apropriar dela&rdquo;.</p>
 
 <figure class="image" style="float:left"><img alt="BRASIL-4_Foto_Thomas-Bauer_CPT-580x386.jpeg" height="299" src="//farm5.staticflickr.com/4757/39930383834_deb91c5701_b.jpg" width="450" />
-<figcaption><em>Brasil/ A luta hist&oacute;rica pela &Aacute;gua em Correntina.&nbsp;Foto: Thomas Bauer, CPT</em></figcaption>
+<figcaption><em>Brasil/ A luta hist&oacute;rica pela &Aacute;gua em Correntina.&nbsp;<br />
+Foto: Thomas Bauer, CPT</em></figcaption>
 </figure>
 
 <p><br />
@@ -149,8 +150,7 @@ Berta C&aacute;ceres foi assassinada por defender os rios. Em Honduras, que &eac
 Cajamarca, regi&atilde;o norte dos Andes peruanos. Terra rica em ouro, mas de gente sem dinheiro. A mineradora Yanacocha, uma das maiores da Am&eacute;rica Latina, quer aprovar o projeto &ldquo;Conga&rdquo; para extrair ouro a c&eacute;u aberto. Mas a resist&ecirc;ncia &eacute; enorme. Desde 2012 as comunidades da regi&atilde;o (que tinha sido declarada em Estado de Emerg&ecirc;ncia) t&ecirc;m realizado grandes protestos que foram duramente reprimidos, e contabilizam pelo menos cinco mortos. M&aacute;xima Acu&ntilde;a, camponesa da regi&atilde;o, virou o s&iacute;mbolo da resist&ecirc;ncia. Em 2010, quando voltava para casa, a mineradora tinha entrado com retro escavaderas para marcar um trilho, sob o argumento de que o terreno era da mineradora. Tempo depois, queimaram seu rancho, destru&iacute;ram sua horta, e a pol&iacute;cia chegou para tentar tirar M&aacute;xima e sua fam&iacute;lia do terreno. Foram golpeados, espancados, amea&ccedil;ados. A Yanacocha, que em Quechua significa &ldquo;Lagoa preta&rdquo;, quer remover 92 mil toneladas de pedra por dia durante 17 anos, depositando os rejeitos na Lagoa Azul que M&aacute;xima, assim como milhares de camponeses de Cajamarca, defendem com a vida.</p>
 
 <figure class="image" style="float:right"><img alt="Observatorio_MINERO-DEL_uRUGUAY-580x339.jpg" height="263" src="//farm5.staticflickr.com/4705/39930384764_76c91d6453_b.jpg" width="450" />
-<figcaption><em>Uruguai/ As potencialidades e os limites da institucionalidade.</em><br />
-</figcaption>
+<figcaption><em>Uruguai/ As potencialidades e os limites da institucionalidade.</em></figcaption>
 </figure>
 
 <p><br />
