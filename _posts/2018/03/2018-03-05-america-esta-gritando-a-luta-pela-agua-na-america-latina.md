@@ -18,6 +18,55 @@ files:
     small: //farm5.staticflickr.com/4757/26768364908_8ba904375b_n.jpg
     title: Chile_Foto_Patagonia_sin_represas_-580x365.jpg
     $$hashKey: 02P
+  - link: //farm5.staticflickr.com/4757/39930383834_deb91c5701_b.jpg
+    original: //farm5.staticflickr.com/4757/39930383834_caab5d8973_o.jpg
+    thumbnail: //farm5.staticflickr.com/4757/39930383834_deb91c5701_t.jpg
+    medium: //farm5.staticflickr.com/4757/39930383834_deb91c5701_z.jpg
+    small: //farm5.staticflickr.com/4757/39930383834_deb91c5701_n.jpg
+    title: BRASIL-4_Foto_Thomas-Bauer_CPT-580x386.jpeg
+    $$hashKey: 0AT
+  - link: //farm5.staticflickr.com/4780/40598313182_5f684d6ea7_b.jpg
+    original: //farm5.staticflickr.com/4780/40598313182_5c2693a8df_o.jpg
+    thumbnail: //farm5.staticflickr.com/4780/40598313182_5f684d6ea7_t.jpg
+    medium: //farm5.staticflickr.com/4780/40598313182_5f684d6ea7_z.jpg
+    small: //farm5.staticflickr.com/4780/40598313182_5f684d6ea7_n.jpg
+    title: Colombia_-Conciencia_Campesina-580x387.jpg
+    $$hashKey: 0AW
+  - link: //farm5.staticflickr.com/4614/38830160330_87b21bb781_b.jpg
+    original: //farm5.staticflickr.com/4614/38830160330_9d2efff9cc_o.jpg
+    thumbnail: //farm5.staticflickr.com/4614/38830160330_87b21bb781_t.jpg
+    medium: //farm5.staticflickr.com/4614/38830160330_87b21bb781_z.jpg
+    small: //farm5.staticflickr.com/4614/38830160330_87b21bb781_n.jpg
+    title: Bolivia_Aldo-Cardoso-580x387.jpg
+    $$hashKey: 0B2
+  - link: //farm5.staticflickr.com/4653/40640459411_1af3863d6f_b.jpg
+    original: //farm5.staticflickr.com/4653/40640459411_7ba39bf9d4_o.jpg
+    thumbnail: //farm5.staticflickr.com/4653/40640459411_1af3863d6f_t.jpg
+    medium: //farm5.staticflickr.com/4653/40640459411_1af3863d6f_z.jpg
+    small: //farm5.staticflickr.com/4653/40640459411_1af3863d6f_n.jpg
+    title: esquel-no-a-la-mina-580x435.jpg
+    $$hashKey: 0B5
+  - link: //farm5.staticflickr.com/4703/40598313462_bb64067450_b.jpg
+    original: //farm5.staticflickr.com/4703/40598313462_fc14d13599_o.jpg
+    thumbnail: //farm5.staticflickr.com/4703/40598313462_bb64067450_t.jpg
+    medium: //farm5.staticflickr.com/4703/40598313462_bb64067450_z.jpg
+    small: //farm5.staticflickr.com/4703/40598313462_bb64067450_n.jpg
+    title: BERTA_Foto_Goldman_Prize-820x598 (1).jpg
+    $$hashKey: 0B8
+  - link: //farm5.staticflickr.com/4782/39744563825_4c18eb86cc_b.jpg
+    original: //farm5.staticflickr.com/4782/39744563825_fd33040a52_o.jpg
+    thumbnail: //farm5.staticflickr.com/4782/39744563825_4c18eb86cc_t.jpg
+    medium: //farm5.staticflickr.com/4782/39744563825_4c18eb86cc_z.jpg
+    small: //farm5.staticflickr.com/4782/39744563825_4c18eb86cc_n.jpg
+    title: Máxima-580x290.jpg
+    $$hashKey: 0BB
+  - link: //farm5.staticflickr.com/4705/39930384764_76c91d6453_b.jpg
+    original: //farm5.staticflickr.com/4705/39930384764_e3c91ac780_o.jpg
+    thumbnail: //farm5.staticflickr.com/4705/39930384764_76c91d6453_t.jpg
+    medium: //farm5.staticflickr.com/4705/39930384764_76c91d6453_z.jpg
+    small: //farm5.staticflickr.com/4705/39930384764_76c91d6453_n.jpg
+    title: Observatorio_MINERO-DEL_uRUGUAY-580x339.jpg
+    $$hashKey: 0BE
 created_date: "2018-03-05T17:01:11-03:00"
 published: true
 releated_posts:
@@ -34,8 +83,12 @@ releated_posts:
 <em>Por Marcelo Aguilar<br />
 Do Movimento dos Atingidos por Barragem (MAB)</em></p>
 
-<p><br />
-As Am&eacute;ricas possuem a maior porcentagem de reservas de &aacute;gua doce do mundo, que incluem uma grande quantidade de rios caudalosos e os maiores aqu&iacute;feros do mundo, o Guarani (que abarca Brasil, Argentina, Paraguai e Uruguai) e o Aqu&iacute;fero Alter do Ch&atilde;o (na Amaz&ocirc;nia).&nbsp; Seja durante a onda privatizadora dos anos 90, ou atrav&eacute;s dos despejos causados pelo neodesenvolvimentismo, o grande capital sempre quis se apropriar dos territ&oacute;rios e recursos aqu&aacute;ticos por meio por meio da privatiza&ccedil;&atilde;o. Por&eacute;m, tamb&eacute;m houve diversas experi&ecirc;ncias de resist&ecirc;ncia nesse per&iacute;odo. Sem a pretens&atilde;o de abarcar todas elas, citamos aqui alguns casos exemplares de luta em defesa da &aacute;gua e dos territ&oacute;rios.</p>
+<p style="text-align: right;"><br />
+<em>As Am&eacute;ricas possuem a maior porcentagem de reservas de &aacute;gua doce do mundo, que incluem uma grande quantidade de rios caudalosos e os maiores aqu&iacute;feros do mundo, o Guarani (que abarca Brasil, Argentina, Paraguai e Uruguai) e o Aqu&iacute;fero Alter do Ch&atilde;o (na Amaz&ocirc;nia).&nbsp; Seja durante a onda privatizadora dos anos 90, ou atrav&eacute;s dos despejos causados pelo neodesenvolvimentismo, o grande capital sempre quis se apropriar dos territ&oacute;rios e recursos aqu&aacute;ticos por meio por meio da privatiza&ccedil;&atilde;o. Por&eacute;m, tamb&eacute;m houve diversas experi&ecirc;ncias de resist&ecirc;ncia nesse per&iacute;odo. Sem a pretens&atilde;o de abarcar todas elas, citamos aqui alguns casos exemplares de luta em defesa da &aacute;gua e dos territ&oacute;rios.</em></p>
+
+<figure class="image" style="float:left"><img alt="esquel-no-a-la-mina-580x435.jpg" height="338" src="//farm5.staticflickr.com/4653/40640459411_1af3863d6f_b.jpg" width="450" />
+<figcaption><em>Argentina/ No a la Mina. Foto: Divulga&ccedil;&atilde;o</em></figcaption>
+</figure>
 
 <p><br />
 Esquel, cidade localizada aos p&ecirc;s da Cordilheira dos Andes, na Prov&iacute;ncia de Chubut, Argentina, foi o primeiro obst&aacute;culo para a grande minera&ccedil;&atilde;o a c&eacute;u aberto no pa&iacute;s. Ali, depois de formar uma assembleia popular, o povo convocou uma consulta p&uacute;blica que, em mar&ccedil;o de 2003, resultou em um &ldquo;n&atilde;o&rdquo; marcante, e acabou se convertendo na primeira lei provincial de proibi&ccedil;&atilde;o desta atividade. Segundo a revista argentina Mu, a estimativa mais baixa de consumo de &aacute;gua que a mineradora previa era de um milh&atilde;o de litros di&aacute;rios, &ldquo;mas as compara&ccedil;&otilde;es com outros projetos revelam que o dado &eacute; falso, e que a cifra real ia atingir pelo menos doze milh&otilde;es de litros di&aacute;rios&rdquo;.</p>
@@ -43,11 +96,20 @@ Esquel, cidade localizada aos p&ecirc;s da Cordilheira dos Andes, na Prov&iacute
 <p><br />
 Isso sem contar a contamina&ccedil;&atilde;o das &aacute;guas causada pelo uso de cianuro na extra&ccedil;&atilde;o mineral. J&aacute; s&atilde;o nove as prov&iacute;ncias argentinas com leis de proibi&ccedil;&atilde;o total da minera&ccedil;&atilde;o, ou de alguns dos aspectos da atividade, como o uso dos produtos qu&iacute;micos. A Assembleia de Esquel tem inspirado muitas outras assembleias que continuam lutando pela vida em todo o pa&iacute;s.</p>
 
+<figure class="image" style="float:right"><img alt="Bolivia_Aldo-Cardoso-580x387.jpg" height="300" src="//farm5.staticflickr.com/4614/38830160330_87b21bb781_b.jpg" width="450" />
+<figcaption><em>Bol&iacute;via/ A guerra pela &Aacute;gua.&nbsp;Foto: Aldo Cardoso</em><br />
+</figcaption>
+</figure>
+
 <p><br />
 Abril de 2000. Com uma situa&ccedil;&atilde;o cr&iacute;tica de &aacute;gua e um hist&oacute;rico de conflitos locais pelo recurso, a regi&atilde;o de Cochabamba, no centro da Bol&iacute;via, levantou-se contra a privatiza&ccedil;&atilde;o. No final de 1999, o governo de Hugo Banzer, presidente por dois mandatos, o primeiro conquistado por meio de um golpe de Estado, vendeu a companhia municipal a um consorcio internacional. As tarifas subiram de um dia para o outro, a popula&ccedil;&atilde;o reagiu e os protestos se espalharam pela cidade. Banzer declarou o Estado de S&iacute;tio e sacou o ex&eacute;rcito &agrave;s ruas. O absurdo era tal que Aguas del Tunari &ndash;cons&oacute;rcio integrado por Bechtel e Edison (EUA), Abengoa (Espanha), entre outras &ndash; podia cobrar pela &aacute;gua que os moradores obtivessem dos rios, ou at&eacute; de seus pr&oacute;prios po&ccedil;os artesianos. Se n&atilde;o pagassem, podiam at&eacute; perder suas casas.</p>
 
 <p><br />
 A luta popular conseguiu barrar a privatiza&ccedil;&atilde;o e expulsar &agrave;s empresas, fazendo Banzer recuar. Mas tamb&eacute;m conseguiu marcar fortemente na mem&oacute;ria coletiva que &ldquo;a &aacute;gua &eacute; do povo&rdquo; e estabelecer um antecedente hist&oacute;rico de grande import&acirc;ncia na luta contra o neoliberalismo.&nbsp; &Oacute;scar Olivera, uma das lideran&ccedil;as da resist&ecirc;ncia, disse numa entrevista ao canal de Casa de Am&eacute;rica: &ldquo;Est&aacute;vamos frente a um processo brutal e irracional de privatiza&ccedil;&atilde;o da &aacute;gua, que na pr&aacute;tica significava converter a &aacute;gua numa mercadoria. Desde a perspectiva ind&iacute;gena e popular na Bol&iacute;via, a &aacute;gua &eacute; um presente generoso da Pachamama, &eacute; o sangue da madre terra. Ao ser um presente para todas e todos, ningu&eacute;m em particular pode se apropriar dela&rdquo;.</p>
+
+<figure class="image" style="float:left"><img alt="BRASIL-4_Foto_Thomas-Bauer_CPT-580x386.jpeg" height="299" src="//farm5.staticflickr.com/4757/39930383834_deb91c5701_b.jpg" width="450" />
+<figcaption><em>Brasil/ A luta hist&oacute;rica pela &Aacute;gua em Correntina.&nbsp;Foto: Thomas Bauer, CPT</em></figcaption>
+</figure>
 
 <p><br />
 O conflito pela &aacute;gua e terra vem de longe na regi&atilde;o Oeste da Bahia. Durante a ditadura militar (1964-1985), grupos de pistoleiros atuavam na regi&atilde;o ao servi&ccedil;o de grileiros de terras que amea&ccedil;avam e agrediam a popula&ccedil;&atilde;o com a prote&ccedil;&atilde;o do Estado e a ajuda da pr&oacute;pria pol&iacute;cia, fato que ocorre at&eacute; hoje. Entretanto, na atualidade a disputa pela &aacute;gua vem se acirrando por conta do n&iacute;vel de consumo das grandes empresas do agroneg&oacute;cio transnacional que operam na regi&atilde;o.</p>
