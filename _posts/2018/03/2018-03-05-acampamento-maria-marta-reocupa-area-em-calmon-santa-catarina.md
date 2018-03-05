@@ -24,6 +24,10 @@ releated_posts: []
 ---
 <p>&nbsp;</p>
 
+<p style="text-align:center"><img alt="LRM_EXPORT_20180304_134326.jpg" height="530" src="//farm5.staticflickr.com/4702/39924722734_d2536c6cc6_b.jpg" width="700" /></p>
+
+<p>&nbsp;</p>
+
 <p><em>Por Comunica&ccedil;&atilde;o MST/Santa Catarina<br />
 Da P&aacute;gina do MST&nbsp;</em></p>
 
