@@ -87,3 +87,7 @@ A ocupa&ccedil;&atilde;o faz parte da Jornada Nacional de Luta das Mulheres Sem 
 <p>&nbsp;</p>
 
 <p style="text-align:center"><img alt="1676a83f-9243-4b7f-b223-983a53461da9.jpg" height="525" src="//farm5.staticflickr.com/4651/25763082447_2c66e5abec_b.jpg" width="700" /></p>
+
+<p>&nbsp;</p>
+
+<p><em>*Editado por Iris Pacheco</em></p>
