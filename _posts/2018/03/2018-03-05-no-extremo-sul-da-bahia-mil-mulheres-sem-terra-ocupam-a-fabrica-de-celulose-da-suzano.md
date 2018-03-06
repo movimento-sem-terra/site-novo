@@ -46,6 +46,7 @@ releated_posts:
   - _posts/2017/10/2017-10-16-sem-terra-iniciam-jornada-de-lutas-com-ocupacao-na-capital-e-no-interior-da-bahia.md
   - _posts/2017/10/2017-10-22-na-bahia-mst-encerra-jornada-de-lutas-apos-respostas-positivas-do-incra-e-governo-do-estado.md
   - _posts/2018/01/2018-01-04-nos-que-amamos-a-revolucao-resistiremos.md
+special-page: jornada-mulheres-2018
 
 ---
 <p>&nbsp;</p>
