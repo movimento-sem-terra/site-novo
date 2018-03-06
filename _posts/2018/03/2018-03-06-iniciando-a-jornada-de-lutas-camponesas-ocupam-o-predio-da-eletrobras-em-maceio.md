@@ -6,7 +6,7 @@ tags:
   - tag: bahia
 title: "Iniciando a Jornada de Lutas, camponesas ocupam o prédio da Eletrobras em Maceió\n\n"
 images_hd: //farm5.staticflickr.com/4787/26785062278_e08092c9e9_b.jpg
-support_line: "Em todo estado, o Movimento vai realizar até o início de abril cerca de 12 atividades"
+support_line: "As Sem Terra permanecem em Maceió durante toda a semana, em diversas ações, inclusive no ato do 8 março"
 menu: lutas e mobilizações
 special-page: jornada-mulheres-2018
 layout: post
