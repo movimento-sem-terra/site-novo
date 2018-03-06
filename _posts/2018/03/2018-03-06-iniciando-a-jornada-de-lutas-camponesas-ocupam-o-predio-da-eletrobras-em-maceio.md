@@ -45,27 +45,31 @@ releated_posts:
   - _posts/2017/08/2017-08-12-um-feminismo-que-brota-da-terra.md
   - _posts/2018/02/2018-02-07-curso-de-formacao-qualifica-a-atuacao-de-sem-terras-nas-areas-de-reforma-agraria.md
   - _posts/2018/02/2018-02-20-lugar-de-mulher-e-na-politica-afirmam-trabalhadoras-sem-terra.md
+  - _posts/2018/03/2018-03-01-neste-sabado-3-mst-realiza-a-1o-plenaria-de-mulheres-do-nordeste-baiano.md
 
 ---
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2018-03-06 at 10.04.50 (1).jpeg" height="394" src="//farm5.staticflickr.com/4790/39946550854_443d8d8297_b.jpg" width="700" />
+<figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2018-03-06 at 10.07.54.jpeg" height="394" src="//farm5.staticflickr.com/4787/26785062278_e08092c9e9_b.jpg" width="700" />
 <figcaption>Divulga&ccedil;&atilde;o/MST</figcaption>
 </figure>
 </div>
 
 <p>&nbsp;</p>
 
-<p><em>Por Coletivo de Comunica&ccedil;&atilde;o do MST na Bahia<br />
+<p><em>Por Gustavo Marinho<br />
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Desde o in&iacute;cio de janeiro, o MST tem realizado v&aacute;rios Encontros Intersetoriais em toda Bahia com o objetivo de debater coletivamente os desafios impostos &agrave; luta pela terra nas dez regi&otilde;es onde o Movimento est&aacute; organizado. A partir das realidades de cada localidade, as atividades t&ecirc;m pensado o processo de forma&ccedil;&atilde;o e organiza&ccedil;&atilde;o das mulheres, da juventude, dos Sem Terrinha, o trabalho de base, a sa&uacute;de popular e a produ&ccedil;&atilde;o agroecol&oacute;gica. Em todo estado, o Movimento vai realizar at&eacute; o in&iacute;cio de abril cerca de 12 atividades.</p>
+Camponesas de todo o estado de Alagoas ocupam a sede da Eletrobras na capital Macei&oacute;, contra a privatiza&ccedil;&atilde;o do setor el&eacute;trico e em defesa da soberania. Ao todo s&atilde;o cerca de 1.000 mulheres trabalhadoras rurais Sem Terra que iniciam a Jornada de Lutas no estado, marcando a passagem do dia 8 de mar&ccedil;o, dia internacional de luta das mulheres.</p>
 
 <p><br />
-Ant&ocirc;nio Martins, do setor de forma&ccedil;&atilde;o, tem contribu&iacute;do com os intersetoriais, junto com os demais setores do Movimento, e em entrevista para nossa p&aacute;gina fala das tarefas da forma&ccedil;&atilde;o pol&iacute;tica na constru&ccedil;&atilde;o da Reforma Agr&aacute;ria Popular, sem perder de vista, o atual momento de instabilidade democr&aacute;tica e retirada de direitos da classe trabalhadora atrav&eacute;s das medidas antipopulares do governo Temer.</p>
+A ocupa&ccedil;&atilde;o acontece desde o in&iacute;cio da manh&atilde; de hoje (06), reunindo camponesas organizadas no MST, na Comiss&atilde;o Pastoral da Terra (CPT), no Movimento de Liberta&ccedil;&atilde;o dos Sem Terra (MLST) e no Movimento Via do Trabalho (MVT).&nbsp;</p>
 
 <p><br />
-Para ele, os intersetoriais cumprem a fun&ccedil;&atilde;o de pensar o processo organizativo do Movimento, mas tamb&eacute;m &eacute; um espa&ccedil;o de estudo e forma&ccedil;&atilde;o pol&iacute;tica dos sujeitos que constroem a luta. &ldquo;Nossos encontros foram criados com o objetivo de debater, planejar, provocar e propor a&ccedil;&otilde;es, para aprofundar o conhecimento sobre como funciona nossa sociedade e ampliar nossos espa&ccedil;os de luta pol&iacute;tica em defesa da reforma agr&aacute;ria&rdquo;, explica.</p>
+&nbsp;&ldquo;A partir de hoje iniciamos um grande processo de luta unit&aacute;rio com as mulheres do campo na capital alagoana, denunciando os ataques do governo golpista de Michel Temer ao povo brasileiro que afeta diretamente a vida das mulheres, seja no campo ou na cidade, a partir de seus projetos de privatiza&ccedil;&otilde;es e retirada dos direitos conquistados atrav&eacute;s da luta popular&rdquo;, explicou D&eacute;bora Nunes, da coordena&ccedil;&atilde;o nacional do MST.</p>
+
+<p><br />
+&nbsp;&ldquo;Durante a manh&atilde; de hoje os golpistas est&atilde;o querendo vender a Companhia de Energia de Alagoas, impedindo a participa&ccedil;&atilde;o do povo na audi&ecirc;ncia que deveria ser p&uacute;blica, com forte aparato policial para reprimir qualquer tentativa de den&uacute;ncia por parte da popula&ccedil;&atilde;o&rdquo;, denuncia Nunes. Segundo a coordenadora do MST, a ocupa&ccedil;&atilde;o das mulheres na sede da Eletrobras fortalece a luta contra as privatiza&ccedil;&otilde;es e a defesa da soberania nacional.</p>
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2018-03-06 at 09.57.00 (1).jpeg" height="525" src="//farm5.staticflickr.com/4785/38845949320_a93f7419d7_b.jpg" width="700" />
@@ -74,28 +78,10 @@ Para ele, os intersetoriais cumprem a fun&ccedil;&atilde;o de pensar o processo 
 </div>
 
 <p><br />
-Confira a entrevista na &iacute;ntegra:</p>
+&nbsp;&ldquo;A luta das mulheres e de toda a classe trabalhadora precisa colocar na rua e em di&aacute;logo com a sociedade o que n&oacute;s queremos para o pa&iacute;s. E n&oacute;s, mulheres camponesas iniciamos nossa jornada em Alagoas denunciando os ataques das elites na vida do povo e refor&ccedil;ando que &eacute; a luta o caminho para construir o pa&iacute;s em que nossos direitos n&atilde;o estejam sob constante amea&ccedil;a&rdquo;.</p>
 
 <p><br />
-<strong>Os Encontros Intersetoriais s&atilde;o realizados todos os anos pelo MST na Bahia. Qual o objetivo dessas atividades para o conjunto da organiza&ccedil;&atilde;o?</strong></p>
+Com acampamento montado no pr&eacute;dio sede da Eletrobras, as camponesas refor&ccedil;am tamb&eacute;m a necessidade de melhor abastecimento el&eacute;trico nas &aacute;reas de Reforma Agr&aacute;ria no estado. &ldquo;Temos acampamentos e assentamentos hoje que ainda vivem sem energia el&eacute;trica e os que possuem, a energia &eacute; t&atilde;o fraca que n&atilde;o &eacute; poss&iacute;vel ligar sequer uma m&aacute;quina de irriga&ccedil;&atilde;o, em alguns casos, o que prejudica o desenvolvimento da produ&ccedil;&atilde;o&rdquo;, disse D&eacute;bora.</p>
 
 <p><br />
-Os intersetoriais s&atilde;o a base de sustenta&ccedil;&atilde;o org&acirc;nica do nosso Movimento.&nbsp; Eles foram criados com o objetivo de n&oacute;s, dos setores, terem a oportunidade de debater, planejar, provocar e propor a&ccedil;&otilde;es com o objetivo de coletivizar as iniciativas e, juntamente, debater com as fam&iacute;lias assentadas e acampadas, que comp&otilde;e a base da nossa milit&acirc;ncia. A ideia &eacute; articular a forma&ccedil;&atilde;o em torno de temas que s&atilde;o centrais para constru&ccedil;&atilde;o da Reforma Agr&aacute;ria Popular.</p>
-
-<p><br />
-<strong>Como &eacute; que voc&ecirc; avalia a programa&ccedil;&atilde;o organizada nos encontros?</strong></p>
-
-<p><br />
-Cada regi&atilde;o da Bahia tem suas particularidades.&nbsp; No Extremo Sul temos um ponto de vista diferente do Norte, por conta dos enfrentamentos e como o agroneg&oacute;cio explora os trabalhadores e trabalhadoras.&nbsp; [&hellip;] No geral, a programa&ccedil;&atilde;o dos encontros tem apontado desafios da luta no campo da pol&iacute;tica, da reforma agr&aacute;ria e as tarefas que temos para barrar esse governo golpista que nos imp&otilde;e mais lutas.</p>
-
-<p><br />
-<strong>Que desafios s&atilde;o esses?</strong></p>
-
-<p><br />
-Acredito que a base de nossos desafios &eacute; a tarefa de forjar novos quadros pol&iacute;ticos e &eacute; importante impulsionar a tarefa do estudo permanente. A partir disso, outros desafios se apresentam, como conhecer na pr&aacute;tica e na teoria a realidade de nossas regi&otilde;es; e fazer com que a Reforma Agr&aacute;ria Popular seja implantada em nosso pa&iacute;s.</p>
-
-<p><br />
-<strong>Que tarefas est&atilde;o sendo projetadas &agrave; milit&acirc;ncia a partir dos intersetoriais?</strong></p>
-
-<p><br />
-As tarefas s&atilde;o as que o nosso programa agr&aacute;rio define. Entre elas temos que combater o latif&uacute;ndio e realizar ocupa&ccedil;&otilde;es de terra; qualificar nossa milit&acirc;ncia no campo da forma&ccedil;&atilde;o pol&iacute;tica. Precisamos tamb&eacute;m debater as quest&otilde;es relacionadas as nossas escolas, a comunica&ccedil;&atilde;o, as mulheres e a juventude. Temos que divulgar. Mostrar a sociedade o que n&oacute;s temos e o que produzimos.</p>
+As Sem Terra permanecem em Macei&oacute; durante toda a semana, em diversas a&ccedil;&otilde;es, onde tamb&eacute;m somam-se ao ato do 8 mar&ccedil;o convocado pelas organiza&ccedil;&otilde;es de mulheres em Alagoas que pretende levar milhares &agrave;s ruas em defesa da democracia e contra a viol&ecirc;ncia &agrave;s mulheres.</p>
