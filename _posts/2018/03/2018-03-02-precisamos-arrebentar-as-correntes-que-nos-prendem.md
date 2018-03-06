@@ -64,8 +64,7 @@ special-page: jornada-mulheres-2018
 <p><em>Por Maura Silva<br />
 Da P&aacute;gina do MST</em></p>
 
-<p><br />
-&ldquo;Quem n&atilde;o se movimenta, n&atilde;o sente as cadeias que o prendem&rdquo;, esse &eacute; o lema da Jornada Nacional de Luta das Mulheres Sem Terra que vai reunir milhares de camponesas em todo o pa&iacute;s de 8 a 10 de mar&ccedil;o. As mulheres promoveram grandes mobiliza&ccedil;&otilde;es e a&ccedil;&otilde;es que tem como objetivo recha&ccedil;ar o governo golpista de Michel Temer, bem como todas as medidas de sua pasta.</p>
+<p><span style="color: rgb(85, 85, 85); font-family: &quot;Exo 2&quot;, Helvetica, Arial, sans-serif; font-size: 17.6px;">&ldquo;Quem n&atilde;o se movimenta, n&atilde;o sente as correntes que a prendem&rdquo;</span>, esse &eacute; o lema da Jornada Nacional de Luta das Mulheres Sem Terra que vai reunir milhares de camponesas em todo o pa&iacute;s de 8 a 10 de mar&ccedil;o. As mulheres promoveram grandes mobiliza&ccedil;&otilde;es e a&ccedil;&otilde;es que tem como objetivo recha&ccedil;ar o governo golpista de Michel Temer, bem como todas as medidas de sua pasta.</p>
 
 <p><br />
 A reforma da Previd&ecirc;ncia e a luta pela democracia seguem sendo as principais pautas de mobiliza&ccedil;&atilde;o. Outros pontos como o fechamento das escolas do campo e a falta de incentivo agr&iacute;cola para a produ&ccedil;&atilde;o nos assentamentos e a precariedade da sa&uacute;de tamb&eacute;m ser&atilde;o abordados.</p>
