@@ -49,6 +49,7 @@ releated_posts:
   - _posts/2018/02/2018-02-20-lugar-de-mulher-e-na-politica-afirmam-trabalhadoras-sem-terra.md
   - _posts/2018/03/2018-03-05-no-extremo-sul-da-bahia-mil-mulheres-sem-terra-ocupam-a-fabrica-de-celulose-da-suzano.md
   - _posts/2018/03/2018-03-01-programa-de-radio-vozes-da-terra-prepara-programacao-especial-para-o-mes-de-marco.md
+section: featured-news
 
 ---
 <div style="text-align:center">
