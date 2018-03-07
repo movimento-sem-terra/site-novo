@@ -4,7 +4,7 @@ tags:
   - tag: encontro
   - tag: mulheres
   - tag: jornada-de-lutas
-title: "Debatendo o feminismo camponês e popular, as mulheres Sem Terra iniciam jornada de lutas no Pará"
+title: "Debatendo o feminismo camponês e popular, as mulheres Sem Terra iniciam Jornada de Lutas no Pará"
 images_hd: //farm5.staticflickr.com/4713/39963122794_d64411396f_b.jpg
 support_line: "A atividade na UFP reuniu cerca de 400 mulheres  "
 menu: lutas e mobilizações
@@ -43,7 +43,9 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p><em style="box-sizing: inherit; color: rgb(85, 85, 85); font-family: Helvetica, Arial, sans-serif; font-size: 17.6px;">Por Viviage BrigidaDa P&aacute;gina do MST&nbsp;</em></p>
+<p><br />
+<em>Por Viviane Brigida<br />
+Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p>&nbsp;</p>
 
