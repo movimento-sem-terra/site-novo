@@ -4,7 +4,7 @@ tags:
   - tag: mobilizações
   - tag: mulheres
   - tag: rio-grande-do-sul
-title: mulheres ocupam Conab em Porto Alegre
+title: Conab é ocupada por mulheres do campo em Porto Alegre
 support_line: As mulheres exigem o restabelecimento imediato das ações e do orçamento voltados ao PAA.
 menu: lutas e mobilizações
 images_hd: //farm5.staticflickr.com/4799/38867417930_78b4a17972_b.jpg
