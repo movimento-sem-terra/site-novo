@@ -4,7 +4,7 @@ tags:
   - tag: mulheres
   - tag: jornada-de-lutas
   - tag: mobilizações
-title: "Camponesas ocupam Secretaria de Agricultura, INCRA e Iteral em Alagoas\n\n"
+title: "Camponesas ocupam Secretaria de Agricultura, Incra e Iteral em Alagoas\n\n"
 images_hd: //farm5.staticflickr.com/4702/39963370654_e96e74aa4b_b.jpg
 special-page: jornada-mulheres-2018
 support_line: "Além do MST, participam das atividades em Alagoas mulheres do MLST, da CPT e do MVT\n\n"
