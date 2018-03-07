@@ -4,7 +4,7 @@ tags:
   - tag: mulheres
   - tag: ocupação-incra
   - tag: jornada-de-lutas
-title: "Sem Terra realizam debate em ocupação no Incra "
+title: Sem Terra realizam debate em ocupação no Incra em Santa Catarina
 support_line: As mulheres afirmaram que a luta pela terra é de todas as famílias e de todos que entendem a necessidade da produção de alimentos saudáveis
 menu: lutas e mobilizações
 images_hd: //farm5.staticflickr.com/4699/39779564645_1aee8214ec_b.jpg
