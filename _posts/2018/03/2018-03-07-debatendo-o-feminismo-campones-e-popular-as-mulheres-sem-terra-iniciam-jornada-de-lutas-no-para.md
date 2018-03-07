@@ -49,7 +49,7 @@ Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p>&nbsp;</p>
 
-<p>Na tarde desta ter&ccedil;a-feira (6), cerca de 400 Sem Terra &nbsp;participaram de uma atividade na&nbsp;Universidade Federal do Par&aacute; (UFP) que discutiu o feminismo campon&ecirc;s e as lutas no estado. O encontro faz parte da Jornada Nacional&nbsp;de Lutas das Mulheres Sem Terra que acontece at&eacute; o pr&oacute;ximo dia 8 em todo pa&iacute;s.&nbsp;</p>
+<p>Na tarde desta ter&ccedil;a-feira (6), cerca de 400 Sem Terra &nbsp;participaram de uma atividade na&nbsp;Universidade Federal do Par&aacute; (UFPA) que discutiu o feminismo campon&ecirc;s e as lutas no estado. O encontro faz parte da Jornada Nacional&nbsp;de Lutas das Mulheres Sem Terra que acontece at&eacute; o pr&oacute;ximo dia 8 em todo pa&iacute;s.&nbsp;</p>
 
 <p><br />
 Para Euciana Costa, quilombola e representante da Central &Uacute;nica dos Trabalhadores (CUT), a conquista dos espa&ccedil;os de luta n&atilde;o s&atilde;o f&aacute;ceis e as mulheres sempre ousaram com arte, ideias e m&iacute;stica para&nbsp;enfrentar os&nbsp;desafios.</p>
