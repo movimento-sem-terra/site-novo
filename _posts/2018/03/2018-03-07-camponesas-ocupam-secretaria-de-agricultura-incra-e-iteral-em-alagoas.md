@@ -119,3 +119,7 @@ Ainda na tarde de hoje (7), as Sem Terra convocam uma grande assembleia das mulh
 
 <p><br />
 &nbsp;&ldquo;Devemos reunir hoje uma diversidade de parceiras da luta pela terra e pela Reforma Agr&aacute;ria, apontando a import&acirc;ncia da unidade das mulheres do campo e da cidade na luta pela democracia, pela soberania e contra qualquer tipo de viol&ecirc;ncia &agrave; vida e aos direitos das mulheres&rdquo;, disse a coordenadora do MST.</p>
+
+<p>&nbsp;</p>
+
+<p><em>*Editado por Maura Silva&nbsp;</em></p>
