@@ -36,7 +36,7 @@ releated_posts:
 
 ---
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="IMG-20180306-WA0078 (1).jpg" height="525" src="//farm5.staticflickr.com/4649/26801599308_136f9f58d4_b.jpg" width="700" />
+<figure class="image" style="display:inline-block"><img alt="IMG-20180306-WA0078 (1).jpg" height="450" src="//farm5.staticflickr.com/4649/26801599308_136f9f58d4_b.jpg" width="600" />
 <figcaption>Divulga&ccedil;&atilde;o/MST</figcaption>
 </figure>
 </div>
@@ -74,3 +74,7 @@ Durante o debate, tamb&eacute;m foram&nbsp;realizadas&nbsp;rodas de estudos sobr
 
 <p><br />
 A programa&ccedil;&atilde;o Jornada das Mulheres em Bel&eacute;m segue at&eacute; o dia 8 de Mar&ccedil;o, quando ocorrer&aacute; uma marcha pelas ruas da cidade.</p>
+
+<p>&nbsp;</p>
+
+<p><em>*Editado por Maura Silva&nbsp;</em></p>
