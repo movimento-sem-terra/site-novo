@@ -36,6 +36,7 @@ releated_posts:
   - _posts/2018/03/2018-03-05-semana-do-8-de-marco-mulheres-sem-terra-realizam-conferencia-com-dilma-e-marcha-em-porto-alegre.md
   - _posts/2018/03/2018-03-06-8-de-marco-mulheres-sem-terra-e-uruguaias-se-mobilizam-na-fronteira-oeste-do-rs.md
   - _posts/2018/03/2018-03-06-iniciando-a-jornada-de-lutas-camponesas-ocupam-o-predio-da-eletrobras-em-maceio.md
+section: featured-news
 
 ---
 <div style="text-align:center">
