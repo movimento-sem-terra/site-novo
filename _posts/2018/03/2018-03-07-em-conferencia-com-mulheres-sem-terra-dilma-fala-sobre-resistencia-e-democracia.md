@@ -99,3 +99,7 @@ Confira <a href="https://goo.gl/8gaoFk">aqui</a> a &iacute;ntegra da atividade d
 <figcaption>Foto: Carolina Lima&nbsp;</figcaption>
 </figure>
 </div>
+
+<p>&nbsp;</p>
+
+<p><em>*Editado por Maura Silva&nbsp;</em>&nbsp;</p>
