@@ -41,8 +41,6 @@ releated_posts:
 </figure>
 </div>
 
-<p>&nbsp;</p>
-
 <p><br />
 <em>Por Viviane Brigida<br />
 Da P&aacute;gina do MST&nbsp;</em></p>
@@ -75,6 +73,5 @@ Durante o debate, tamb&eacute;m foram&nbsp;realizadas&nbsp;rodas de estudos sobr
 <p><br />
 A programa&ccedil;&atilde;o Jornada das Mulheres em Bel&eacute;m segue at&eacute; o dia 8 de Mar&ccedil;o, quando ocorrer&aacute; uma marcha pelas ruas da cidade.</p>
 
-<p>&nbsp;</p>
-
-<p><em>*Editado por Maura Silva&nbsp;</em></p>
+<p><br />
+<em>*Editado por Maura Silva&nbsp;</em></p>
