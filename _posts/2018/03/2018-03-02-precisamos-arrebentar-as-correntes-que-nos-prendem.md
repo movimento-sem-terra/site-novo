@@ -8,7 +8,7 @@ title: “Precisamos arrebentar as correntes que nos prendem”
 support_line: "Em entrevista Silvia Reis Marques, da Direção Nacional do MST, fala sobre a Jornada Nacional de Luta das Mulheres Sem Terra que em 2018 levará milhares de mulheres às ruas de 8 a 10 de março"
 images_hd: //farm5.staticflickr.com/4790/26703216488_1ef3f1ddd9_b.jpg
 menu: lutas e mobilizações
-section: cover
+section: featured-news
 layout: post
 files:
   - link: //farm5.staticflickr.com/4790/26703216488_1ef3f1ddd9_b.jpg
