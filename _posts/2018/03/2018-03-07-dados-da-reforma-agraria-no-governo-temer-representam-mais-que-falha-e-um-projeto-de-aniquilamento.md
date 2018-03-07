@@ -4,7 +4,7 @@ tags:
   - tag: mulheres
   - tag: jornada-nacional-de-lutas
   - tag: mobilizações
-title: “Dados da Reforma Agrária no governo Temer representam mais que falha. É um projeto de aniquilamento”
+title: “Dados da Reforma Agrária no governo Temer são mais que falha. É um projeto de aniquilamento”
 support_line: "Para Keli Mafort, da coordenação nacional do MST, a contrarreforma agrária do governo golpista deve ser derrotada nas lutas"
 menu: lutas e mobilizações
 special-page: jornada-mulheres-2018
@@ -18,6 +18,13 @@ files:
     small: //farm5.staticflickr.com/4711/25805553017_df0b935285_n.jpg
     title: 50fee9a8-3f6a-4409-be61-82768639cef8.jpg
     $$hashKey: 0GJ
+  - link: //farm5.staticflickr.com/4798/39782315215_3851fefcbe_b.jpg
+    original: //farm5.staticflickr.com/4798/39782315215_c1f106ea17_o.jpg
+    thumbnail: //farm5.staticflickr.com/4798/39782315215_3851fefcbe_t.jpg
+    medium: //farm5.staticflickr.com/4798/39782315215_3851fefcbe_z.jpg
+    small: //farm5.staticflickr.com/4798/39782315215_3851fefcbe_n.jpg
+    title: WhatsApp Image 2018-03-07 at 12.02.55.jpeg
+    $$hashKey: 0Q1
 created_date: "2018-03-07T15:29:58-03:00"
 published: true
 releated_posts:
@@ -38,17 +45,25 @@ releated_posts:
 </div>
 
 <p><br />
-<em>Por Rafael Soriano&nbsp;<br />
-Da P&aacute;gina do MST&nbsp;</em></p>
+&nbsp;</p>
 
-<p><br />
-O governo golpista de Michel Temer n&atilde;o assentou nenhuma fam&iacute;lia no ano de 2017. No ano de 2016, apenas 1686 fam&iacute;lias foram assentadas, resqu&iacute;cios de projetos de assentamentos criados ainda pela presidenta deposta, Dilma Rousseff. Estes dados foram divulgados na mat&eacute;ria &ldquo;Governo n&atilde;o assenta fam&iacute;lias em 2017, e reforma agr&aacute;ria tem freio in&eacute;dito no pa&iacute;s&rdquo;, <a href="https://noticias.uol.com.br/cotidiano/ultimas-noticias/2018/03/06/governo-nao-assenta-familias-em-2017-e-reforma-agraria-tem-freio-inedito-no-pais.htm">publicada no Portal UOL</a> na &uacute;ltima segunda-feira (5).</p>
+<p><em>Por Rafael Soriano&nbsp;<br />
+Da P&aacute;gina do MST </em></p>
+
+<p>&nbsp;</p>
+
+<p>O governo golpista de Michel Temer n&atilde;o assentou nenhuma fam&iacute;lia no ano de 2017. No ano de 2016, apenas 1686 fam&iacute;lias foram assentadas, resqu&iacute;cios de projetos de assentamentos criados ainda pela presidenta deposta, Dilma Rousseff. Estes dados foram divulgados na mat&eacute;ria &ldquo;Governo n&atilde;o assenta fam&iacute;lias em 2017, e reforma agr&aacute;ria tem freio in&eacute;dito no pa&iacute;s&rdquo;, <a href="https://noticias.uol.com.br/cotidiano/ultimas-noticias/2018/03/06/governo-nao-assenta-familias-em-2017-e-reforma-agraria-tem-freio-inedito-no-pais.htm">publicada no Portal UOL</a> na &uacute;ltima segunda-feira (5).</p>
 
 <p><br />
 A avalia&ccedil;&atilde;o de Keli Mafort, da coordena&ccedil;&atilde;o nacional do MST, &eacute; de que esses n&uacute;meros revelam uma disposi&ccedil;&atilde;o do atual governo em enterrar o sonho de fam&iacute;lias se assentarem, numa tentativa de &ldquo;aniquilamento da Reforma Agr&aacute;ria&rdquo;. Diversas mobiliza&ccedil;&otilde;es se somam essa semana em todo o pa&iacute;s na Jornada Nacional de Lutas das Mulheres Sem Terra para reposicionar a pauta da Reforma Agr&aacute;ria, mesmo em um cen&aacute;rio de golpe.</p>
 
-<p><br />
-&ldquo;Os acampamentos est&atilde;o sendo retomados, est&atilde;o crescendo por uma quest&atilde;o social. Mas por outro lado, a expectativa de conquista est&aacute; muito baixa&rdquo;, avalia Keli. Para ela, &ldquo;os dados que vieram novamente &agrave; tona, de que houve o assentamento de 0 fam&iacute;lias em 2017 pelo governo Temer, revelam n&atilde;o s&oacute; uma falha do governo em cumprir essa pol&iacute;tica, mas uma tentativa de aniquilamento da Reforma Agr&aacute;ria&rdquo;.</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="WhatsApp Image 2018-03-07 at 12.02.55.jpeg" height="499" src="//farm5.staticflickr.com/4798/39782315215_3851fefcbe_b.jpg" width="350" />
+<figcaption>Fonte: Reprodu&ccedil;&atilde;o/UOL</figcaption>
+</figure>
+
+<p>&ldquo;Os acampamentos est&atilde;o sendo retomados, est&atilde;o crescendo por uma quest&atilde;o social. Mas por outro lado, a expectativa de conquista est&aacute; muito baixa&rdquo;, avalia Keli. Para ela, &ldquo;os dados que vieram novamente &agrave; tona, de que houve o assentamento de 0 fam&iacute;lias em 2017 pelo governo Temer, revelam n&atilde;o s&oacute; uma falha do governo em cumprir essa pol&iacute;tica, mas uma tentativa de aniquilamento da Reforma Agr&aacute;ria&rdquo;.</p>
 
 <p><br />
 A militante explica que foram v&aacute;rias as medidas que sinalizam este projeto de aniquilamento, entre as quais a destitui&ccedil;&atilde;o do Minist&eacute;rio do Desenvolvimento Agr&aacute;rio (MDA), os bruscos cortes or&ccedil;ament&aacute;rios da pol&iacute;tica agr&aacute;ria e a lei 13.465 (que tramitou como MP 759/16). Para Mafort, al&eacute;m de legalizar a grilagem na Amaz&ocirc;nia, esta lei sinaliza para a privatiza&ccedil;&atilde;o dos assentamentos hoje consolidados.</p>
