@@ -29,6 +29,7 @@ releated_posts:
   - _posts/2017/07/2017-07-18-com-feminismo-e-soberania-alimentar-mudamos-o-mundo.md
   - _posts/2017/08/2017-08-12-um-feminismo-que-brota-da-terra.md
   - _posts/2018/03/2018-03-06-mulheres-sem-terra-ocupam-o-incra-em-santa-catarina.md
+special-page: jornada-mulheres-2018
 
 ---
 <p>&nbsp;</p>
