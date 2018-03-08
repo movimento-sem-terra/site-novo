@@ -41,6 +41,8 @@ releated_posts:
   - _posts/2018/02/2018-02-20-lugar-de-mulher-e-na-politica-afirmam-trabalhadoras-sem-terra.md
   - _posts/2018/03/2018-03-05-no-extremo-sul-da-bahia-mil-mulheres-sem-terra-ocupam-a-fabrica-de-celulose-da-suzano.md
   - _posts/2017/07/2017-07-18-com-feminismo-e-soberania-alimentar-mudamos-o-mundo.md
+section: cover
+special-page: jornada-mulheres-2018
 
 ---
 <p style="text-align:center"><img alt="1d2478ae-9c9a-4b8b-9810-c06e840c9081.jpeg" height="525" src="//farm5.staticflickr.com/4793/39791872565_5bf7ff359f_b.jpg" width="700" /></p>
