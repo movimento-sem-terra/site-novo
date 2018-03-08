@@ -11,13 +11,6 @@ images_hd: //farm5.staticflickr.com/4777/38883499760_b04e984e80_b.jpg
 support_line: Documento assinado por diversos movimentos e entidades faz parte das ações da Jornada Nacional de Luta das Mulheres Sem Terra
 layout: post
 files:
-  - link: //farm5.staticflickr.com/4789/38883422240_d8a3ca63bd_b.jpg
-    original: //farm5.staticflickr.com/4789/38883422240_109998ec9d_o.jpg
-    thumbnail: //farm5.staticflickr.com/4789/38883422240_d8a3ca63bd_t.jpg
-    medium: //farm5.staticflickr.com/4789/38883422240_d8a3ca63bd_z.jpg
-    small: //farm5.staticflickr.com/4789/38883422240_d8a3ca63bd_n.jpg
-    title: WhatsApp Image 2018-03-08 at 10.19.55 (1).jpeg
-    $$hashKey: 0MM
   - link: //farm5.staticflickr.com/4777/38883499760_b04e984e80_b.jpg
     original: //farm5.staticflickr.com/4777/38883499760_9328a2a119_o.jpg
     thumbnail: //farm5.staticflickr.com/4777/38883499760_b04e984e80_t.jpg
@@ -25,10 +18,15 @@ files:
     small: //farm5.staticflickr.com/4777/38883499760_b04e984e80_n.jpg
     title: 224f4812-4c32-4f57-8752-383c7e564922.jpg
     $$hashKey: 0MP
+  - link: "https://drive.google.com/uc?id=1xKvyn0HTPXAmhPkBXLq67VVT-IAyrJMn&export=download"
+    thumbnail: "http://farm4.staticflickr.com/3852/15187675380_7b00f5fdff_b.jpg"
+    title: DOCUMENTO 8 DE MARÇO  (1).pdf
+    basename: DOCUMENTO 8 DE MARÇO  (1)
+    embed: "https://drive.google.com/uc?id=1xKvyn0HTPXAmhPkBXLq67VVT-IAyrJMn"
+    $$hashKey: 05Z
 created_date: "2018-03-08T14:24:26-03:00"
 published: true
 releated_posts:
-  - _posts/2018/03/2018-03-02-precisamos-arrebentar-as-correntes-que-nos-prendem.md
   - _posts/2018/03/2018-03-05-no-extremo-sul-da-bahia-mil-mulheres-sem-terra-ocupam-a-fabrica-de-celulose-da-suzano.md
   - _posts/2018/03/2018-03-06-mulheres-sem-terra-ocupam-o-incra-em-santa-catarina.md
   - _posts/2018/03/2018-03-07-dados-da-reforma-agraria-no-governo-temer-representam-mais-que-falha-e-um-projeto-de-aniquilamento.md
@@ -38,18 +36,12 @@ releated_posts:
   - _posts/2018/03/2018-03-07-mulheres-do-campo-e-da-cidade-realizam-ato-unificado-no-goias.md
 
 ---
-<div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2018-03-08 at 10.19.55 (1).jpeg" height="338" src="//farm5.staticflickr.com/4789/38883422240_d8a3ca63bd_b.jpg" width="600" />
-<figcaption>Divulga&ccedil;&atilde;o/MST</figcaption>
-</figure>
-</div>
-
 <p>&nbsp;</p>
 
 <p><em>Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
-Na manh&atilde; desta quinta (8), cerca de 200 mulheres do Movimento Sem Terra <a href="http://www.mst.org.br/2018/03/08/mulheres-sem-terra-ocupam-superintendencia-do-incra-em-brasilia.html">ocuparam a superintend&ecirc;ncia regional do Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra)</a> em Bras&iacute;lia, Distrito Federal.</p>
+Na manh&atilde; desta quinta (8), cerca de 200 mulheres do Movimento Sem Terra <a href="http://www.mst.org.br/2018/03/08/mulheres-sem-terra-ocupam-superintendencia-do-incra-em-brasilia.html">ocuparam a superintend&ecirc;ncia regional do Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra)</a> em Bras&iacute;lia, Goi&aacute;s.</p>
 
 <p><br />
 A a&ccedil;&atilde;o fez parte da Jornada Nacional de Luta das Mulheres Sem Terra e buscou&nbsp;denunciar a viol&ecirc;ncia contra as mulheres, o agroneg&oacute;cio e a retirada&nbsp;de direitos comandada pelo governo de Michel Temer.</p>
@@ -87,4 +79,12 @@ Nos &uacute;ltimos anos, o Sistema &Uacute;nico de Sa&uacute;de (SUS) realizou c
 
 <p>&nbsp;</p>
 
-<p>Para acessar o documento na &iacute;ntegra, clique <a href="http://file:///C:/Users/comunicacao/Downloads/DOCUMENTO%208%20DE%20MARC%CC%A7O%20.pdf">aqui</a>.&nbsp;</p>
+<p>Veja abaixo o documento na &iacute;ntegra:&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><a href="https://drive.google.com/uc?id=1xKvyn0HTPXAmhPkBXLq67VVT-IAyrJMn&amp;export=download">DOCUMENTO 8 DE MARÇO (1).pdf</a></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
