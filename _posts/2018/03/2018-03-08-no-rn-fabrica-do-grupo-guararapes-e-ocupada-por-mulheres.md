@@ -5,10 +5,10 @@ tags:
   - tag: jornada-de-lutas
   - tag: rio-grande-do-norte
   - tag: mulheres
-title: "No RN, fábrica do grupo Guararapes é ocupada por mulheres "
+title: "No RN, fábrica do Grupo Guararapes é ocupada por mulheres "
 support_line: Trabalhadoras denunciam a articulação empresarial que patrocinou o golpe na presidenta Dilma e vem impondo um pacote de medidas contra os direitos sociais.
 menu: lutas e mobilizações
-images_hd: //farm5.staticflickr.com/4796/39977671914_03a1e8ccd6_b.jpg
+images_hd: //farm5.staticflickr.com/4793/26816620408_fdb445514c_b.jpg
 layout: post
 files:
   - link: //farm5.staticflickr.com/4796/39977671914_03a1e8ccd6_b.jpg
@@ -18,6 +18,13 @@ files:
     small: //farm5.staticflickr.com/4796/39977671914_03a1e8ccd6_n.jpg
     title: 310e804b-0ff1-48e0-9353-bf001664bdae.jpeg
     $$hashKey: 06T
+  - link: //farm5.staticflickr.com/4793/26816620408_fdb445514c_b.jpg
+    original: //farm5.staticflickr.com/4793/26816620408_83fb61c7c6_o.jpg
+    thumbnail: //farm5.staticflickr.com/4793/26816620408_fdb445514c_t.jpg
+    medium: //farm5.staticflickr.com/4793/26816620408_fdb445514c_z.jpg
+    small: //farm5.staticflickr.com/4793/26816620408_fdb445514c_n.jpg
+    title: 06333a1b-0494-4179-970c-23456a3d6c6e.jpeg
+    $$hashKey: 05C
 created_date: "2018-03-08T07:04:44-03:00"
 published: true
 releated_posts:
@@ -49,6 +56,10 @@ S&atilde;o cerca de 800 mulheres, vindas de v&aacute;rios munic&iacute;pios do e
 
 <p><br />
 De acordo com Vanuza Macedo, dirigente nacional do MST, Fl&aacute;vio&nbsp; Rocha, dono da Guararapes, da Riachuelo e candidato ao governo estadual, &quot;representa a hipocrisia do empresariado brasileiro, que saqueia direitos junto a pol&iacute;ticos como Rog&eacute;rio Marinho (PSDB) - relator da Reforma Trabalhista&quot;. A militante destaca que &quot;desde a d&eacute;cada de 50, seu grupo empresarial se beneficia de isen&ccedil;&otilde;es fiscais sendo financiado pelo poder p&uacute;blico. De 2009 a 2016, em per&iacute;odo de crise econ&ocirc;mica no Brasil, sua empresa chegou a receber financiamento p&uacute;blico de 1, 4 bilh&atilde;o de reais&quot;.</p>
+
+<figure class="image" style="float:left"><img alt="06333a1b-0494-4179-970c-23456a3d6c6e.jpeg" height="253" src="//farm5.staticflickr.com/4793/26816620408_fdb445514c_b.jpg" width="450" />
+<figcaption></figcaption>
+</figure>
 
 <p><br />
 Neste sentido, em per&iacute;odo de aprofundamento do golpe, de ataques &agrave; democracia, a a&ccedil;&atilde;o das mulheres segue para causar preju&iacute;zo aos que tem lucrado com a Reforma Trabalhista.</p>
