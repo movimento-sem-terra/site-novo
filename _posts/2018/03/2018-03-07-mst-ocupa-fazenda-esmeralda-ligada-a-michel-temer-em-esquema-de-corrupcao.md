@@ -9,7 +9,7 @@ support_line: Movimento reivindica que a área seja destinada para Reforma Agrá
 menu: lutas e mobilizações
 special-page: jornada-mulheres-2018
 images_hd: //farm5.staticflickr.com/4663/39775210935_c0b6ea1b5e_b.jpg
-section: cover
+section: featured-news
 layout: post
 files:
   - link: //farm5.staticflickr.com/4663/39775210935_c0b6ea1b5e_b.jpg
