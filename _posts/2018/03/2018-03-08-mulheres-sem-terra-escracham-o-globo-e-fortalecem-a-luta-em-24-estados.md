@@ -82,7 +82,7 @@ files:
     title: 39977671914_03a1e8ccd6_b.jpg
     $$hashKey: 0E7
 created_date: "2018-03-08T18:28:25-03:00"
-published: true
+published: false
 releated_posts:
   - _posts/2017/08/2017-08-07-no-rs-camponesas-sem-terra-debatem-violencia-contra-a-mulher.md
   - _posts/2018/03/2018-03-07-mst-ocupa-fazenda-esmeralda-ligada-a-michel-temer-em-esquema-de-corrupcao.md
