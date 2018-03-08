@@ -88,4 +88,8 @@ Jornada Nacional de Lutas das Mulheres Sem Terra 2018<br />
 &ldquo;Quem n&atilde;o se movimenta, n&atilde;o sente as correntes que a prendem&rdquo;</em><br />
 &nbsp;</p>
 
+<p><strong>* ATUALIZADO &Agrave;S&nbsp;16H</strong></p>
+
+<p><em>As Mulheres Sem Terra de MT, levando em considera&ccedil;&atilde;o o principio do CUIDADO, desocuparam a fazenda Entre Rios no municipio de Jaciara MT.&nbsp;&nbsp;</em></p>
+
 <p style="text-align: right;"><em>*Editado por Iris Pacheco</em></p>
