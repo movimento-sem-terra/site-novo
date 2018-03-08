@@ -34,6 +34,7 @@ releated_posts:
   - _posts/2018/02/2018-02-07-curso-de-formacao-qualifica-a-atuacao-de-sem-terras-nas-areas-de-reforma-agraria.md
   - _posts/2018/02/2018-02-20-lugar-de-mulher-e-na-politica-afirmam-trabalhadoras-sem-terra.md
   - _posts/2017/07/2017-07-26-sem-terra-ocupam-perimetro-irrigado-no-rio-grande-do-norte.md
+special-page: jornada-mulheres-2018
 
 ---
 <p>&nbsp;</p>
