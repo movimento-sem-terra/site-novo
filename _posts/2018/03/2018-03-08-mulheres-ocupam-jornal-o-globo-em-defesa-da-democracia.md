@@ -80,8 +80,12 @@ Ana Paula Silva destaca que a taxa de desemprego beira a 12% e, assim com o desm
 <strong>Decad&ecirc;ncia</strong></p>
 
 <p><br />
-O parque gr&aacute;fico ocupado &eacute; o maior da Am&eacute;rica Latina. Sua constru&ccedil;&atilde;o foi, em parte, financiada pelo BNDES, com o montante de R$ 217 milh&otilde;es, em valores atuais. Ele foi projetado para a impress&atilde;o de 800 mil jornais di&aacute;rios, mas a m&eacute;dia de produ&ccedil;&atilde;o do O Globo em 2017 n&atilde;o passa de 130 mil exemplares/dia, segundo dados do Instituto Verificador de Circula&ccedil;&atilde;o (IVC). Ou seja, n&atilde;o utiliza nem 50% da capacidade produtiva.<br />
-&ldquo;Este lugar &eacute; um elefante branco a servi&ccedil;o da desinforma&ccedil;&atilde;o. Com tanto recurso p&uacute;blico investido, deveriam ao menos se dignar a fazer um jornalismo de qualidade. N&atilde;o &eacute; &agrave; toa que o jornal est&aacute; em decad&ecirc;ncia. As trabalhadoras n&atilde;o engolem mais as mentiras e manipula&ccedil;&otilde;es da Globo&rdquo;, afirmou<br />
+O parque gr&aacute;fico ocupado &eacute; o maior da Am&eacute;rica Latina. Sua constru&ccedil;&atilde;o foi, em parte, financiada pelo BNDES, com o montante de R$ 217 milh&otilde;es, em valores atuais. Ele foi projetado para a impress&atilde;o de 800 mil jornais di&aacute;rios, mas a m&eacute;dia de produ&ccedil;&atilde;o do O Globo em 2017 n&atilde;o passa de 130 mil exemplares/dia, segundo dados do Instituto Verificador de Circula&ccedil;&atilde;o (IVC). Ou seja, n&atilde;o utiliza nem 50% da capacidade produtiva.</p>
+
+<p><br />
+&ldquo;Este lugar &eacute; um elefante branco a servi&ccedil;o da desinforma&ccedil;&atilde;o. Com tanto recurso p&uacute;blico investido, deveriam ao menos se dignar a fazer um jornalismo de qualidade. N&atilde;o &eacute; &agrave; toa que o jornal est&aacute; em decad&ecirc;ncia. As trabalhadoras n&atilde;o engolem mais as mentiras e manipula&ccedil;&otilde;es da Globo&rdquo;, afirmou.</p>
+
+<p><br />
 A a&ccedil;&atilde;o faz parte da Jornada Nacional de Luta das Mulheres Sem Terra, que tem por lema a c&eacute;lebre frase de Rosa Luxemburgo &ldquo;Quem n&atilde;o se movimenta, n&atilde;o sente as cadeias que a prendem&rdquo;.<br />
 &nbsp;</p>
 
