@@ -4,7 +4,7 @@ tags:
   - tag: lutas-e-mobilizações
   - tag: jornada-de-lutas
   - tag: mulheres
-title: "Jornada de Lutas das mulheres já mobiliza 6 mil trabalhadores em nove estados\n"
+title: "Jornada de Luta das mulheres já mobiliza 6 mil trabalhadoras em nove estados\n"
 support_line: "As mulheres em luta denunciam as diversas formas de violências que as atingem, entre elas a violência doméstica, os efeitos do capital transnacional e o Golpe"
 menu: lutas e mobilizações
 special-page: jornada-mulheres-2018
@@ -64,7 +64,7 @@ Da P&aacute;gina do MST&nbsp;&nbsp;</em></p>
 
 <p>&nbsp;</p>
 
-<p>Mar&ccedil;o &eacute; um m&ecirc;s que exala a luta das mulheres. Desde o in&iacute;cio da Jornada Nacional de Lutas das Mulheres Sem Terra, na &uacute;ltima segunda-feira (5), j&aacute; foram mobilizados cerca de 6 mil trabalhadores nos estados de Roraima, S&atilde;o Paulo, Bahia, Rio Grande do Sul, Alagoas, Goi&aacute;s, Santa Catarina, Paran&aacute; e Par&aacute;. Entre as a&ccedil;&otilde;es, na manh&atilde; desta quarta-feira (7), as mulheres ocuparam a fazenda do presidente golpista, Michel Temer, em SP.</p>
+<p>Mar&ccedil;o &eacute; um m&ecirc;s que exala a luta das mulheres. Desde o in&iacute;cio da Jornada Nacional de Lutas das Mulheres Sem Terra, na &uacute;ltima segunda-feira (5), j&aacute; foram mobilizados cerca de 6 mil trabalhadoras nos estados de Roraima, S&atilde;o Paulo, Bahia, Rio Grande do Sul, Alagoas, Goi&aacute;s, Santa Catarina, Paran&aacute; e Par&aacute;. Entre as a&ccedil;&otilde;es, na manh&atilde; desta quarta-feira (7), as mulheres ocuparam a fazenda do presidente golpista, Michel Temer, em SP.</p>
 
 <p><br />
 Recentemente, a fazenda foi citada nas dela&ccedil;&otilde;es de Ricardo Saud e Joesley Batista, em &acirc;mbito do inqu&eacute;rito que investiga MP dos Portos. Saud e Joesley relataram conversas com o Deputado Paulinho da For&ccedil;a (SD), onde este afirma que a Fazenda Esmeralda &eacute; de propriedade do presidente Michel Temer.</p>
