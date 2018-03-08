@@ -49,6 +49,7 @@ releated_posts:
   - _posts/2017/10/2017-10-20-sindicato-dos-aeroviarios-e-mst-realizam-protesto-no-aeroporto-de-salvador.md
   - _posts/2018/02/2018-02-19-mobilizacoes-contra-a-reforma-da-previdencia-acontecem-hoje-em-todo-o-brasil.md
   - _posts/2018/02/2018-02-19-trabalhadores-em-todo-pais-criticam-mudancas-na-previdencia-numa-jornada-nacional-de-lutas.md
+section: featured-news
 
 ---
 <div style="text-align:center">
