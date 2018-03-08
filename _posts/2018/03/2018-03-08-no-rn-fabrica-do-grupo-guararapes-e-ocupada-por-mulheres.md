@@ -6,7 +6,7 @@ tags:
   - tag: rio-grande-do-norte
   - tag: mulheres
 title: "No RN, fábrica do Grupo Guararapes é ocupada por mulheres "
-support_line: Trabalhadoras denunciam a articulação empresarial que patrocinou o golpe na presidenta Dilma e vem impondo um pacote de medidas contra os direitos sociais.
+support_line: "Grupo ligado à Riachuelo pertence ao empresário Flávio Rocha, defensor da reforma trabalhista e da Previdência."
 menu: lutas e mobilizações
 images_hd: //farm5.staticflickr.com/4793/26816620408_fdb445514c_b.jpg
 layout: post
