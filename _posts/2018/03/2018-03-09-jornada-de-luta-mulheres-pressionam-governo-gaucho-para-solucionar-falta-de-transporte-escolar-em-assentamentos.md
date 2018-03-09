@@ -5,7 +5,7 @@ tags:
   - tag: jornada-nacional-de-lutas
   - tag: mobilizações
 support_line: "Situação compromete o ano letivo de cerca de mil estudantes que vivem em áreas rurais do estado\n"
-title: "Jornada de Luta: Mulheres pressionam governo gaúcho para solucionar falta de transporte escolar em assentamentos\n"
+title: "No RS, mulheres pressionam governo gaúcho para solucionar falta de transporte escolar em assentamentos\n"
 images_hd: //farm5.staticflickr.com/4783/39814524265_79f3d5175f_b.jpg
 menu: lutas e mobilizações
 layout: post
