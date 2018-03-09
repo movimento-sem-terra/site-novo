@@ -58,7 +58,10 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
+<p style="box-sizing: inherit; margin: 0px 0px 11px; font-size: 1.1em; color: rgb(85, 85, 85); font-family: Helvetica, Arial, sans-serif;"><em style="box-sizing: inherit;">Por Thais Peregrino<br style="box-sizing: inherit;" />
+Da P&aacute;gina do MST</em></p>
+
+<div>&nbsp;</div>
 
 <p>Com o lema: &lsquo;&rsquo;Quem n&atilde;o se movimenta, n&atilde;o sente as correntes que as prendem&rsquo;&rsquo;, mulheres camponesas&nbsp;da Para&iacute;ba se mobilizaram em todo estado em mais uma&nbsp;e Lutas das Mulheres SemJornada Nacional d&nbsp;Terra.</p>
 
