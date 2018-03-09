@@ -6,7 +6,7 @@ tags:
   - tag: mulheres
 title: "Em Goiás, marcha e ocupação da Alego marcam as mobilizações deste 8 de março\n\n"
 images_hd: //farm5.staticflickr.com/4777/26825278958_74381f9417_b.jpg
-support_line: "Durante todo o dia foram desenvolvidas várias atividades, como a entrega da pauta de reivindicações aos deputados estaduais, oficinas culturais, atividades de formação política e um ato unificado com as organizações do campo e cidade"
+support_line: "Durante todo o dia foram desenvolvidas várias atividades, como a entrega da pauta de reivindicações aos deputados estaduais, oficinas culturais, atividades de formação política e um ato unificado do campo e cidade"
 menu: lutas e mobilizações
 special-page: jornada-mulheres-2018
 layout: post
@@ -68,7 +68,7 @@ Desde esta quarta-feira (7), as mulheres trabalhadoras rurais Sem Terra de diver
 Entre as principais denuncias e reivindica&ccedil;&otilde;es estava o combate &agrave; viol&ecirc;ncia contra a mulher e promo&ccedil;&atilde;o da sa&uacute;de no campo e cidade; a&nbsp;defesa da aposentadoria para a classe trabalhadora e contra a Reforma golpista de Michel Temer; a&nbsp;efetiva&ccedil;&atilde;o da lei n&uacute;mero 19.998/18 da agricultura familiar e camponesa e emendas parlamentares; bem como a compra de produtos e sementes da agriculta familiar.</p>
 
 <p><br />
-Confira aqui a <a href="https://drive.google.com/uc?id=10iiU7QSZYKtpAvurdcvztAZxasSJYAoV&amp;export=download">Reivinca&ccedil;&otilde;es das mulheres Sem Terra no Goi&aacute;s.pdf</a></p>
+<strong>Confira aqui a&nbsp;<a href="https://drive.google.com/uc?id=1Ox2BhcOvJ8zQLChOz8BL4WycLAOgfET_&amp;export=download">pauta de reivindica&ccedil;&otilde;es das mulheres sem terra no Goi&aacute;s</a></strong></p>
 
 <p><br />
 Durante todo o dia foram desenvolvidas v&aacute;rias atividades, como a entrega da pauta de reivindica&ccedil;&otilde;es aos deputados estaduais, oficinas culturais, atividades de forma&ccedil;&atilde;o pol&iacute;tica e um ato unificado com as organiza&ccedil;&otilde;es do campo e cidade. Todos com o intuito de discutir a viol&ecirc;ncia e dar visibilidade &agrave;s pautas pol&iacute;ticas importantes para o processo de retomada de direitos. Entre elas est&atilde;o a anula&ccedil;&atilde;o da reforma trabalhista, o rep&uacute;dio &agrave; reforma da previd&ecirc;ncia e a defesa intransigente da democracia.</p>
