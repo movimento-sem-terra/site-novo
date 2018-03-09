@@ -32,6 +32,12 @@ files:
     small: //farm5.staticflickr.com/4786/26825285758_a16a836181_n.jpg
     title: ee567f6d-3428-43dd-9e7b-416195ce4f9e.jpeg
     $$hashKey: 05M
+  - link: "https://drive.google.com/uc?id=1Ox2BhcOvJ8zQLChOz8BL4WycLAOgfET_&export=download"
+    thumbnail: "http://farm4.staticflickr.com/3852/15187675380_7b00f5fdff_b.jpg"
+    title: pauta de reivindicações das mulheres sem terra no Goiás.pdf
+    basename: pauta de reivindicações das mulheres sem terra no Goiás
+    embed: "https://drive.google.com/uc?id=1Ox2BhcOvJ8zQLChOz8BL4WycLAOgfET_"
+    $$hashKey: 05L
 created_date: "2018-03-08T18:10:41-03:00"
 published: true
 releated_posts:
@@ -53,8 +59,6 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
-
 <p><em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
@@ -62,6 +66,9 @@ Desde esta quarta-feira (7), as mulheres trabalhadoras rurais Sem Terra de diver
 
 <p><br />
 Entre as principais denuncias e reivindica&ccedil;&otilde;es estava o combate &agrave; viol&ecirc;ncia contra a mulher e promo&ccedil;&atilde;o da sa&uacute;de no campo e cidade; a&nbsp;defesa da aposentadoria para a classe trabalhadora e contra a Reforma golpista de Michel Temer; a&nbsp;efetiva&ccedil;&atilde;o da lei n&uacute;mero 19.998/18 da agricultura familiar e camponesa e emendas parlamentares; bem como a compra de produtos e sementes da agriculta familiar.</p>
+
+<p><br />
+Confira aqui a <a href="https://drive.google.com/uc?id=10iiU7QSZYKtpAvurdcvztAZxasSJYAoV&amp;export=download">Reivinca&ccedil;&otilde;es das mulheres Sem Terra no Goi&aacute;s.pdf</a></p>
 
 <p><br />
 Durante todo o dia foram desenvolvidas v&aacute;rias atividades, como a entrega da pauta de reivindica&ccedil;&otilde;es aos deputados estaduais, oficinas culturais, atividades de forma&ccedil;&atilde;o pol&iacute;tica e um ato unificado com as organiza&ccedil;&otilde;es do campo e cidade. Todos com o intuito de discutir a viol&ecirc;ncia e dar visibilidade &agrave;s pautas pol&iacute;ticas importantes para o processo de retomada de direitos. Entre elas est&atilde;o a anula&ccedil;&atilde;o da reforma trabalhista, o rep&uacute;dio &agrave; reforma da previd&ecirc;ncia e a defesa intransigente da democracia.</p>
