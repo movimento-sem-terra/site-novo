@@ -194,16 +194,4 @@ Confira em imagens como foi o dia de lutas por todo pa&iacute;s:<br />
 <figcaption></figcaption>
 </figure>
 
-<p>&nbsp;</p>
-
-<figure class="image"><img alt="WhatsApp Image 2018-03-08 at 13.40.21.jpeg" height="525" src="//farm5.staticflickr.com/4796/25825953407_8ed2a4a4d9_b.jpg" width="700" />
-<figcaption></figcaption>
-</figure>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
 <p><em>*Editado por Rafael Soriano</em></p>
