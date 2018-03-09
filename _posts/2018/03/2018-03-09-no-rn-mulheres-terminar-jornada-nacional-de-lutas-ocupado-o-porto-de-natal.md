@@ -7,7 +7,7 @@ tags:
 images_hd: //farm5.staticflickr.com/4794/38903818170_85d55f34f9_b.jpg
 menu: lutas e mobilizações
 special-page: jornada-mulheres-2018
-title: "No RN, mulheres terminar Jornada Nacional de Lutas ocupado o Porto de Natal "
+title: "No RN, mulheres terminam Jornada Nacional de Lutas ocupado o Porto de Natal "
 support_line: "O golpe e o agronegócio no Brasil, além de imporem o golpe ao povo brasileiro, bloquearam a Reforma\nAgrária"
 layout: post
 files:
@@ -59,35 +59,21 @@ Cerca de 400 mulheres ocuparam ontem (8), no final da tarde o Perto de Natal, lo
 <p><strong>Acompanhe:</strong></p>
 
 <p><br />
-N&oacute;s, mulheres Sem Terra, terminamos ato unit&aacute;rio, ocupando o Porto de Natal, como interven&ccedil;&atilde;o com o<br />
-objetivo de denunciar o agroneg&oacute;cio, bra&ccedil;o do golpe, que se apropria e viola nossos territ&oacute;rios e &aacute;gua, para<br />
-exportar commodities, financia o golpe e retrocessos ao povo brasileiro, junto a bancada ruralista.</p>
+N&oacute;s, mulheres Sem Terra, terminamos ato unit&aacute;rio, ocupando o Porto de Natal, como interven&ccedil;&atilde;o com o objetivo de denunciar o agroneg&oacute;cio, bra&ccedil;o do golpe, que se apropria e viola nossos territ&oacute;rios e &aacute;gua, para exportar commodities, financia o golpe e retrocessos ao povo brasileiro, junto a bancada ruralista.</p>
 
 <p><br />
-O golpe e o agroneg&oacute;cio no Brasil, al&eacute;m de imporem o golpe ao povo brasileiro, bloquearam a Reforma<br />
-Agr&aacute;ria, e desmontam as pol&iacute;ticas p&uacute;blicas, ganhando muito mais for&ccedil;a, avan&ccedil;ando na viabiliza&ccedil;&atilde;o de um<br />
-projeto mais conservador e violento para o campo brasileiro.</p>
+O golpe e o agroneg&oacute;cio no Brasil, al&eacute;m de imporem o golpe ao povo brasileiro, bloquearam a Reforma Agr&aacute;ria, e desmontam as pol&iacute;ticas p&uacute;blicas, ganhando muito mais for&ccedil;a, avan&ccedil;ando na viabiliza&ccedil;&atilde;o de um projeto mais conservador e violento para o campo brasileiro.</p>
 
 <p><br />
-Realizamos essa&nbsp;interven&ccedil;&atilde;o&nbsp;para denunciar, que quando o porto viabiliza de toda uma estrutura<br />
-para exporta&ccedil;&atilde;o da fruticultura irrigada do agroneg&oacute;cio, exporta nossa &aacute;gua, violando nossos territ&oacute;rios e a<br />
-vida das mulheres camponesas, isento de v&aacute;rias isen&ccedil;&otilde;es fiscais, deixando envenenamento nos nossos<br />
-munic&iacute;pios.</p>
+Realizamos essa&nbsp;interven&ccedil;&atilde;o&nbsp;para denunciar, que quando o porto viabiliza de toda uma estrutura para exporta&ccedil;&atilde;o da fruticultura irrigada do agroneg&oacute;cio, exporta nossa &aacute;gua, violando nossos territ&oacute;rios e a vida das mulheres camponesas, isento de v&aacute;rias isen&ccedil;&otilde;es fiscais, deixando envenenamento nos nossos munic&iacute;pios.</p>
 
 <p><br />
-Repudiamos as tentativas da criminaliza&ccedil;&atilde;o e desqualifica&ccedil;&atilde;o da nossa a&ccedil;&atilde;o, atrav&eacute;s de alguns meios de<br />
-comunica&ccedil;&atilde;o, especialmente, blogs locais, os mesmos que querem dizer as mulheres como ser, como se<br />
-vestir, se comportar e conspiram contra a democracia. Reafirmamos, que somos uma organiza&ccedil;&atilde;o<br />
-aut&ocirc;noma, que constr&oacute;i suas lutas com organiza&ccedil;&atilde;o e a solidariedade da classe trabalhadora.</p>
+Repudiamos as tentativas da criminaliza&ccedil;&atilde;o e desqualifica&ccedil;&atilde;o da nossa a&ccedil;&atilde;o, atrav&eacute;s de alguns meios de comunica&ccedil;&atilde;o, especialmente, blogs locais, os mesmos que querem dizer as mulheres como ser, como se vestir, se comportar e conspiram contra a democracia. Reafirmamos, que somos uma organiza&ccedil;&atilde;o aut&ocirc;noma, que constr&oacute;i suas lutas com organiza&ccedil;&atilde;o e a solidariedade da classe trabalhadora.</p>
 
 <p><br />
-Assim, seguimos, pois como o lema da Jornada das Mulheres Sem Terra, inspirado em Rosa Luxemburgo,<br />
-nos diz: &ldquo;Quem n&atilde;o se movimenta, n&atilde;o sente as correntes que as prendem!&rdquo; Seguiremos, construindo<br />
-unidade com as companheiras do campo e da cidade, defendendo a democracia, a previd&ecirc;ncia, e lutando<br />
-contra todas as viol&ecirc;ncias, sobretudo, a viol&ecirc;ncia do capital, que com o agroneg&oacute;cio, tem financiado o<br />
-golpe e tem lucrado com o suor e sangue de todas trabalhadoras e trabalhadores.</p>
+Assim, seguimos, pois como o lema da Jornada das Mulheres Sem Terra, inspirado em Rosa Luxemburgo, nos diz: &ldquo;Quem n&atilde;o se movimenta, n&atilde;o sente as correntes que as prendem!&rdquo; Seguiremos, construindo unidade com as companheiras do campo e da cidade, defendendo a democracia, a previd&ecirc;ncia, e lutando contra todas as viol&ecirc;ncias, sobretudo, a viol&ecirc;ncia do capital, que com o agroneg&oacute;cio, tem financiado o golpe e tem lucrado com o suor e sangue de todas trabalhadoras e trabalhadores.</p>
 
-<p style="text-align: right;"><br />
+<p><br />
 PRA VIDAS DAS MULHERES SEM TERRA MUDAR: REFORMA AGR&Aacute;RIA POPULAR!</p>
 
 <p style="text-align: right;">&nbsp;</p>
