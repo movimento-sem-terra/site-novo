@@ -4,7 +4,7 @@ tags:
   - tag: mulheres
   - tag: mobilizações
   - tag: jornada-de-lutas
-title: "Mulheres da Frente Brasil Popular sairão às ruas nesse 8 de março contra opressões e em defesa da democracia \n"
+title: "Mulheres da Frente Brasil Popular sairão às ruas neste 8 de março contra opressões e em defesa da democracia \n"
 support_line: "Delegações de todas as regiões do Ceará participam da atividade em Fortaleza\n"
 menu: lutas e mobilizações
 special-page: jornada-mulheres-2018
@@ -60,7 +60,7 @@ releated_posts:
 <p>&nbsp;</p>
 
 <p><em style="box-sizing: inherit; color: rgb(85, 85, 85); font-family: Helvetica, Arial, sans-serif; font-size: 17.6px;">Por Aline Oliveira<br style="box-sizing: inherit;" />
-Da P&aacute;gina do T</em><em style="box-sizing: inherit; color: rgb(85, 85, 85); font-family: Helvetica, Arial, sans-serif; font-size: 17.6px;">MS</em></p>
+Da P&aacute;gina do MST</em></p>
 
 <p><br />
 Ontem (8), cerca de cinco&nbsp;mil mulheres Sem Terra,&nbsp;organizadas pela Frente Brasil Popular, ocuparam as ruas do centro de Fortaleza&nbsp;para denunciar as os retrocessos, retirada de direitos e a viol&ecirc;ncia contra a mulher.</p>
@@ -85,3 +85,7 @@ Para Naira Silva, dirigente do setor de g&ecirc;nero do MST,&nbsp; fala sobre as
 
 <p><br />
 &ldquo;Para n&oacute;s o poder p&uacute;blico, Congresso e judici&aacute;rio n&atilde;o est&atilde;o&nbsp;interessados em combater essa realidade. Ao contr&aacute;rio, violam direitos, realizam interven&ccedil;&otilde;es militares, apoiam o neoliberalismo, refor&ccedil;ando o poder do patriarcado e o controle sobre as vidas das mulheres. Diante disso, nos mobilizamos para defender e realiza&ccedil;&atilde;o e a retomada de pol&iacute;ticas p&uacute;blicas de enfrentamento &agrave; viol&ecirc;ncia contra a mulher, a revoga&ccedil;&atilde;o da reforma trabalhista, o direito de Lula ser candidato, soberania energ&eacute;tica e alimentar, Reforma Agr&aacute;ria e urbana popular.&rdquo;</p>
+
+<p>&nbsp;</p>
+
+<p><em>*Editado por Maura Silva&nbsp;</em></p>
