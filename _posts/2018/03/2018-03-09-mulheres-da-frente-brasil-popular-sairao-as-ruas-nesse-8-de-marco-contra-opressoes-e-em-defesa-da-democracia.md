@@ -4,7 +4,7 @@ tags:
   - tag: mulheres
   - tag: mobilizações
   - tag: jornada-de-lutas
-title: "Mulheres da Frente Brasil Popular sairão às ruas neste 8 de março contra opressões e em defesa da democracia \n"
+title: "No Ceará, mulheres da Frente Brasil Popular marcham contra contra opressão e em defesa da democracia \n"
 support_line: "Delegações de todas as regiões do Ceará participam da atividade em Fortaleza\n"
 menu: lutas e mobilizações
 special-page: jornada-mulheres-2018
