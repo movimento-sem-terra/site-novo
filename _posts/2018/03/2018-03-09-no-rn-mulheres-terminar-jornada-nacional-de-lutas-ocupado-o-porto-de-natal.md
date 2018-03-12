@@ -7,7 +7,7 @@ tags:
 images_hd: //farm5.staticflickr.com/4794/38903818170_85d55f34f9_b.jpg
 menu: lutas e mobilizações
 special-page: jornada-mulheres-2018
-title: "No RN, mulheres terminam Jornada Nacional de Lutas ocupado o Porto de Natal "
+title: "No RN, mulheres terminam Jornada Nacional de Lutas ocupando o Porto de Natal "
 support_line: "O golpe e o agronegócio no Brasil, além de imporem o golpe ao povo brasileiro, bloquearam a Reforma\nAgrária"
 layout: post
 files:
