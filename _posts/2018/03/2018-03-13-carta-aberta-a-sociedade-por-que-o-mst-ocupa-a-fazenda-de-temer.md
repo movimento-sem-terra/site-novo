@@ -34,6 +34,7 @@ releated_posts:
   - _posts/2017/08/2017-08-08-lima-o-coronel-de-temer.md
   - _posts/2017/10/2017-10-24-ocupacao-do-mst-consegue-suspender-despejo-em-limeira-no-interior-de-sao-paulo.md
   - _posts/2017/10/2017-10-30-regiao-de-bauru-e-o-novo-pontal-revela-incra-em-audiencia-organizada-pela-cut-e-movimentos-sociais.md
+special-page: jornada-mulheres-2018
 
 ---
 <p>&nbsp;</p>
