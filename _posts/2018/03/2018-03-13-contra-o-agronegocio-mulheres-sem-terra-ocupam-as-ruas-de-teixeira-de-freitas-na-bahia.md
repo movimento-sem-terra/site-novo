@@ -4,7 +4,7 @@ tags:
   - tag: bahia
   - tag: mulheres
   - tag: jornada-nacional-de-lutas
-title: "Contra o agronegócio, Mulheres Sem Terra ocupam às ruas de Teixeira de Freitas na Bahia"
+title: "Contra o agronegócio, Mulheres Sem Terra ocupam às ruas de Teixeira de Freitas-BA"
 support_line: "Com faixas, cartazes, músicas e gritos de ordem, a empresa Suzano Papel e Celulose foi escrachada pelas mulheres."
 menu: lutas e mobilizações
 special-page: jornada-mulheres-2018
