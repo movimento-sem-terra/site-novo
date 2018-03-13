@@ -57,10 +57,10 @@ Com faixas, cartazes, m&uacute;sicas e gritos de ordem, a empresa Suzano Papel e
 <p>Para Valqu&iacute;ria Souza, da dire&ccedil;&atilde;o estadual do MST, a luta das mulheres Sem Terra &eacute; tamb&eacute;m pelo direito &agrave; terra e por uma pol&iacute;tica de Reforma Agr&aacute;ria eficiente, por&eacute;m destaca que o enfrentamento a todo tipo de viol&ecirc;ncia &eacute; central para consolida&ccedil;&atilde;o de uma sociedade com valores fraternos.</p>
 
 <p><br />
-&ldquo;Nossa luta &eacute; contra o capital, mas tamb&eacute;m contra o machismo e a viol&ecirc;ncia, que atinge diretamente as mulheres e os LGBT. [&hellip;] Estamos nas ruas para erguer nossa bandeira que representa a vida, daqueles e daquelas, que n&atilde;o desanimam de marchar&rdquo;, ressaltou Valqu&iacute;ria.</p>
+&ldquo;Nossa luta &eacute; contra o capital, mas tamb&eacute;m contra o machismo e a viol&ecirc;ncia, que atinge diretamente as mulheres e os LGBT. Estamos nas ruas para erguer nossa bandeira que representa a vida, daqueles e daquelas, que n&atilde;o desanimam de marchar&rdquo;, ressaltou Valqu&iacute;ria.</p>
 
 <p><br />
-A marcha percorreu as principais ruas de Teixeira Freitas e ap&oacute;s o percurso, as trabalhadoras desocuparam a fazenda C&eacute;u Azul, aonde estavam acampadas desde a &uacute;ltima segunda-feira (5), quando foi dado in&iacute;cio a Jornada Nacional na Bahia, que at&eacute; ent&atilde;o, j&aacute; mobilizou cerca de 2 mil pessoas.</p>
+A marcha percorreu as principais ruas de Teixeira Freitas e, ap&oacute;s o percurso, as trabalhadoras desocuparam a fazenda C&eacute;u Azul, aonde estavam acampadas desde a &uacute;ltima segunda-feira (5), quando foi dado in&iacute;cio a Jornada Nacional na Bahia, que at&eacute; ent&atilde;o, j&aacute; mobilizou cerca de 2 mil pessoas no estado.</p>
 
 <p>&nbsp;</p>
 
