@@ -94,7 +94,7 @@ releated_posts:
   - _posts/2018/03/2018-03-08-no-rn-fabrica-do-grupo-guararapes-e-ocupada-por-mulheres.md
   - _posts/2018/03/2018-03-08-acompanhe-minuto-a-minuto-a-jornada-internacional-de-lutas-das-mulheres.md
   - _posts/2018/03/2018-03-08-camponesas-ocupam-area-devedora-da-uniao-em-mato-grosso.md
-section: cover
+section: featured-news
 
 ---
 <p>&nbsp;</p>
