@@ -8,7 +8,7 @@ tags:
 title: "Carta aberta à sociedade: por que o MST ocupa a fazenda de Temer?"
 support_line: "No último dia 7/03, 350 famílias ocuparam novamente as terras que ficam no município de Duartina."
 menu: lutas e mobilizações
-section: cover
+section: featured-news
 images_hd: //farm5.staticflickr.com/4784/38980042930_2323f59398_b.jpg
 layout: post
 files:
