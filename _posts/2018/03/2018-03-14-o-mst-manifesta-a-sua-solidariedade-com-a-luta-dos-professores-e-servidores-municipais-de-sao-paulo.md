@@ -5,8 +5,8 @@ tags:
   - tag: reforma-da-previdência
   - tag: paralisação
 images_hd: //farm1.staticflickr.com/812/25940128637_83e6d9b32c_b.jpg
-title: O MST manifesta a sua solidariedade com a luta dos professores e servidores municipais de São Paulo
-support_line: "A paralisação já atinge 93% das 1150 escolas administradas pela prefeitura"
+title: MST manifesta solidariedade com professores e servidores municipais de São Paulo
+support_line: "A paralisação já atinge 93% das 1150 escolas administradas pela prefeitura. Nesta tarde, a mobilização foi duramente reprimida pela polícia."
 menu: lutas e mobilizações
 layout: post
 files:
@@ -35,9 +35,10 @@ releated_posts:
 <p>Desde o &uacute;ltimo dia (8),&nbsp;servidores municipais de S&atilde;o Paulo decidiram entrar em greve contra a proposta de reforma da Previd&ecirc;ncia municipal proposta pela gest&atilde;o de Jo&atilde;o Doria (PSDB).&nbsp;</p>
 
 <p><br />
-A&nbsp;paralisa&ccedil;&atilde;o j&aacute; atinge 93% das 1150 escolas administradas pela prefeitura. Em um protesto pac&iacute;fico realizado na tarde de hoje (14) em&nbsp;frente &agrave;&nbsp;C&acirc;mara Municipal de S&atilde;o Paulo, policiais atacaram e feriram os manifestantes.&nbsp;</p>
+A&nbsp;paralisa&ccedil;&atilde;o j&aacute; atinge 93% das 1150 escolas administradas pela prefeitura. Em um protesto pac&iacute;fico realizado na tarde de hoje (14) em&nbsp;frente &agrave;&nbsp;C&acirc;mara Municipal de S&atilde;o Paulo, policiais atacaram e feriram os manifestantes.</p>
 
-<p>O MST reitera seu apoio aos servidores e refirma sua luta contra a reforma da Previd&ecirc;ncia&nbsp;&nbsp;e contra toda a retirada de direitos da classe trabalhadora.&nbsp;</p>
+<p><br />
+O MST reitera seu apoio aos servidores e refirma sua luta contra a reforma da Previd&ecirc;ncia e contra toda a retirada de direitos da classe trabalhadora.&nbsp;</p>
 
 <p>&nbsp;</p>
 
