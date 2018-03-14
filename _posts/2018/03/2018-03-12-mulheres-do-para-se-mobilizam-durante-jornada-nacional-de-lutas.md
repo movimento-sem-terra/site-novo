@@ -7,7 +7,7 @@ tags:
 title: "Mulheres do Pará se mobilizam durante Jornada Nacional de Lutas  "
 menu: lutas e mobilizações
 special-page: jornada-mulheres-2018
-support_line: "Marchas, ocupações e debates contaram com a participação de milhares de mulheres em todo estado"
+support_line: "Foram marchas, ocupações e debates que contaram com a participação de milhares de mulheres em todo estado"
 images_hd: //farm5.staticflickr.com/4794/40809837491_d6241bd275_b.jpg
 layout: post
 files:
@@ -73,8 +73,10 @@ Da P&aacute;gina do MST&nbsp;&nbsp;</em></p>
 
 <p style="box-sizing: inherit; margin: 0px 0px 11px; font-size: 1.1em; color: rgb(85, 85, 85); font-family: Helvetica, Arial, sans-serif;">&nbsp;</p>
 
-<p>Entre os dias de 6 e&nbsp;8 de mar&ccedil;o, as mulheres Sem Terra estiveram em Bel&eacute;m para mais uma <a href="http://www.mst.org.br/jornada-nacional-das-mulheres-2018/">Jornada de Nacional de&nbsp;Lutas</a>. Foram dias de forma&ccedil;&atilde;o e debate com atividades realizadas na Universidade Federal do Par&aacute; (UFPA),&nbsp;plen&aacute;ria aberta com a participa&ccedil;&atilde;o da comunidade acad&ecirc;mica e uma audi&ecirc;ncia p&uacute;blica para tratar a<br />
-viol&ecirc;ncia contra as mulheres realizada no teatro Maria Silva Nunes, centro de Bel&eacute;m.&nbsp;</p>
+<p>Entre os dias de 6 e&nbsp;8 de mar&ccedil;o, as mulheres Sem Terra estiveram em Bel&eacute;m para mais uma <a href="http://www.mst.org.br/jornada-nacional-das-mulheres-2018/">Jornada de Nacional de&nbsp;Lutas</a>.</p>
+
+<p><br />
+Foram dias de forma&ccedil;&atilde;o e debate com atividades realizadas na Universidade Federal do Par&aacute; (UFPA),&nbsp;plen&aacute;ria aberta com a participa&ccedil;&atilde;o da comunidade acad&ecirc;mica e uma audi&ecirc;ncia p&uacute;blica para tratar a viol&ecirc;ncia contra as mulheres realizada no teatro Maria Silva Nunes, centro de Bel&eacute;m.&nbsp;</p>
 
 <p><br />
 <strong>Forma&ccedil;&atilde;o Permanente</strong></p>
