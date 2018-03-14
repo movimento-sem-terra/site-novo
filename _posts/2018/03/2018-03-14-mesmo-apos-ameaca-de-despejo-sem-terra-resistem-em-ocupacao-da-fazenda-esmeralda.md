@@ -28,6 +28,7 @@ releated_posts:
   - _posts/2017/12/2017-12-28-os-dez-piores-acontecimentos-de-2017-que-afetaram-a-vida-do-povo-brasileiro.md
   - _posts/2017/12/2017-12-27-medidas-do-governo-temer-atingiram-principalmente-os-mais-pobres.md
   - _posts/2018/02/2018-02-02-no-governo-golpista-a-reforma-agraria-e-politica-inexistente.md
+section: cover
 
 ---
 <p>&nbsp;</p>
