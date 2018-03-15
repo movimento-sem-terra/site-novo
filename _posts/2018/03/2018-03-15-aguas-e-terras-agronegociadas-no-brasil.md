@@ -31,7 +31,7 @@ releated_posts:
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
-A vaidade do homem consome a sede de viver&rdquo;. Com essa afirma&ccedil;&atilde;o o artista brasiliense Alberto Salgado faz um apelo ecol&oacute;gico sobre a situa&ccedil;&atilde;o da &aacute;gua atualmente no mundo. Apelo tamb&eacute;m aclamado pelo F&oacute;rum Alternativo Mundial da &Aacute;gua (Fama), no qual debater&aacute; e mobilizar&aacute; a sociedade em defesa da &aacute;gua como direito humano e<br />
+A vaidade do homem consome a sede de viver&rdquo;. Com essa afirma&ccedil;&atilde;o o artista brasiliense Alberto Salgado faz um apelo ecol&oacute;gico sobre a situa&ccedil;&atilde;o da &aacute;gua atualmente no mundo. Apelo tamb&eacute;m aclamado pelo <a href="http://www.fama2018.org.br">F&oacute;rum Alternativo Mundial da &Aacute;gua (Fama)</a>, no qual debater&aacute; e mobilizar&aacute; a sociedade em defesa da &aacute;gua como direito humano e<br />
 n&atilde;o como mercadoria. O evento, que ser&aacute; realizado entre os dias 17 e 22 de mar&ccedil;o, &eacute; contraponto ao 8&ordm; F&oacute;rum Mundial da &Aacute;gua (FMA) que acontecer&aacute; de 18 a 23 do mesmo m&ecirc;s, ambos em Bras&iacute;lia.<br />
 <br />
 Os f&oacute;runs acontecer&atilde;o no ber&ccedil;o das &aacute;guas brasileiras. O Cerrado abastece tr&ecirc;s das maiores bacias hidrogr&aacute;ficas da Am&eacute;rica do Sul: o Araguaia-Tocantins, S&atilde;o Francisco e Paran&aacute;. Tamb&eacute;m alimenta tr&ecirc;s dos maiores aqu&iacute;feros do mundo, o Guarani, Bambu&iacute; e Urucuia. &Aacute;guas presentes em terras de um bioma em intensa disputa contra o<br />
@@ -53,7 +53,8 @@ garantir a seguran&ccedil;a h&iacute;drica da popula&ccedil;&atilde;o&rdquo;, es
 <p><br />
 Osvaldo tamb&eacute;m aponta pelo menos quatro causas que merecem destaque para o avan&ccedil;o do agroneg&oacute;cio sobre a &aacute;gua superficial e subterr&acirc;nea:</p>
 
-<p>(i) a crise da produ&ccedil;&atilde;o de prote&iacute;na animal, em raz&atilde;o da doen&ccedil;a da vaca louca na Europa e nos Estados Unidos; (ii) a urbaniza&ccedil;&atilde;o e a mudan&ccedil;a de h&aacute;bitos alimentares em pa&iacute;ses do Oriente M&eacute;dio e da &Aacute;sia (com destaque para a China); (iii) a eleva&ccedil;&atilde;o da demanda mundial de soja e etanol;<br />
+<p><br />
+(i) a crise da produ&ccedil;&atilde;o de prote&iacute;na animal, em raz&atilde;o da doen&ccedil;a da vaca louca na Europa e nos Estados Unidos; (ii) a urbaniza&ccedil;&atilde;o e a mudan&ccedil;a de h&aacute;bitos alimentares em pa&iacute;ses do Oriente M&eacute;dio e da &Aacute;sia (com destaque para a China); (iii) a eleva&ccedil;&atilde;o da demanda mundial de soja e etanol;<br />
 (iv) a necessidade de o Brasil obter moedas internacionais para fazer frente aos custos<br />
 das importa&ccedil;&otilde;es e pagamento da conta servi&ccedil;os.<br />
 <br />
