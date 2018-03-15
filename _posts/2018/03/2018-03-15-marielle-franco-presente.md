@@ -27,6 +27,7 @@ releated_posts:
   - _posts/2017/12/2017-12-18-nota-de-pesar-pelo-assassinato-do-militante-luis-dos-santos-silva-o-luis-preto.md
   - _posts/2017/11/2017-11-11-nota-de-pesar-pelo-falecimento-de-moniz-bandeira.md
   - _posts/2017/11/2017-11-02-mst-lamenta-a-perda-da-jovem-marciana-no-interior-de-alagoas.md
+section: cover
 
 ---
 <p>&nbsp;</p>
