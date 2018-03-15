@@ -4,7 +4,7 @@ tags:
   - tag: rio-de-janeiro
   - tag: pesar
   - tag: direitos-humanos
-title: "Acompanhe as repercursões do assassinato de Marielle Franco "
+title: "Acompanhe as repercussões do assassinato de Marielle Franco "
 support_line: Marielle e o motorista Anderson Gomes foram mortos a tiros na noite desta quarta-feira (14) no centro do Rio de Janeiro..
 menu: direitos humanos
 images_hd: //farm5.staticflickr.com/4784/40824710031_0521b26079_b.jpg
