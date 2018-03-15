@@ -7,23 +7,16 @@ tags:
 title: "Acompanhe as repercursões do assassinato de Marielle Franco "
 support_line: Marielle e o motorista Anderson Gomes foram mortos a tiros na noite desta quarta-feira (14) no centro do Rio de Janeiro..
 menu: direitos humanos
-images_hd: //farm5.staticflickr.com/4785/39013946170_1ac1844448_b.jpg
+images_hd: //farm5.staticflickr.com/4784/40824710031_0521b26079_b.jpg
 layout: post
 files:
-  - link: //farm1.staticflickr.com/793/26954108128_1338a535e8_b.jpg
-    original: //farm1.staticflickr.com/793/26954108128_ceda18f263_o.jpg
-    thumbnail: //farm1.staticflickr.com/793/26954108128_1338a535e8_t.jpg
-    medium: //farm1.staticflickr.com/793/26954108128_1338a535e8_z.jpg
-    small: //farm1.staticflickr.com/793/26954108128_1338a535e8_n.jpg
-    title: 29186998_1969004836505554_1201296846543126528_n.jpg
-    $$hashKey: 05G
-  - link: //farm5.staticflickr.com/4785/39013946170_1ac1844448_b.jpg
-    original: //farm5.staticflickr.com/4785/39013946170_47957b6f62_o.jpg
-    thumbnail: //farm5.staticflickr.com/4785/39013946170_1ac1844448_t.jpg
-    medium: //farm5.staticflickr.com/4785/39013946170_1ac1844448_z.jpg
-    small: //farm5.staticflickr.com/4785/39013946170_1ac1844448_n.jpg
-    title: download.jpeg
-    $$hashKey: 0D2
+  - link: //farm5.staticflickr.com/4784/40824710031_0521b26079_b.jpg
+    original: //farm5.staticflickr.com/4784/40824710031_835a152239_o.jpg
+    thumbnail: //farm5.staticflickr.com/4784/40824710031_0521b26079_t.jpg
+    medium: //farm5.staticflickr.com/4784/40824710031_0521b26079_z.jpg
+    small: //farm5.staticflickr.com/4784/40824710031_0521b26079_n.jpg
+    title: marielle franco.jpg
+    $$hashKey: 0IJ
 created_date: "2018-03-15T10:38:06-03:00"
 published: true
 releated_posts:
