@@ -44,7 +44,7 @@ Marielle era&nbsp;uma amiga do MST, foi&nbsp;uma&nbsp;militante destacada na def
 Exigimos a r&aacute;pida apura&ccedil;&atilde;o desse crime e nos somaremos &agrave;s mobiliza&ccedil;&otilde;es para que a luta de Marielle n&atilde;o fique impune.</p>
 
 <p><br />
-Aos companheiros e companheiras do PSOL, &agrave; assessora que os acompanhava e aos familiares e amigos, nossa mais profunda solidariedade, carinho e respeito.&nbsp;&nbsp;</p>
+Aos companheiros e companheiras do PSOL, &agrave; assessora que os acompanhava,&nbsp;aos familiares e amigos de Marielle e Anderson, nossa mais profunda solidariedade, carinho e respeito.&nbsp;&nbsp;</p>
 
 <p style="text-align: right;"><br />
 Rio de Janeiro, 14 de Mar&ccedil;o de 2018</p>
