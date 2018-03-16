@@ -4,7 +4,7 @@ tags:
   - tag: reforma-agrária
   - tag: conquista
   - tag: assentamento
-title: "No MS, MST conquista área para construção de assentamento "
+title: MST conquista área para construção de assentamento no Mato Grosso do Sul
 support_line: A última vez em que o estado teve um projeto de assentamento foi em 2014 com a Fazenda Nazareth
 images_hd: //farm1.staticflickr.com/819/40843923231_8dd3b15815_b.jpg
 menu: reforma agrária
