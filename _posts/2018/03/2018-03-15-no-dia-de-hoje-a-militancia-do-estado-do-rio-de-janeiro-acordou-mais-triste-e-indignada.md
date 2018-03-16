@@ -4,10 +4,10 @@ tags:
   - tag: direitos-humanos
   - tag: violência
   - tag: lutas
-title: "No dia de hoje, a militância do Estado do Rio de Janeiro acordou mais triste e indignada\n\n"
+title: "A militância do Estado do Rio de Janeiro acordou mais triste e indignada\n\n"
 support_line: "Por sua atuação como defensora de direitos humanos, liderando processos de denúncias de violações do estado, Marielle foi colocada como potencial foco das forças repressoras\n\n"
 menu: direitos humanos
-images_hd: !<tag:yaml.org,2002:js/function> "function link() { [native code] }"
+images_hd: //farm1.staticflickr.com/794/40801594622_da8386d434_b.jpg
 layout: post
 files:
   - "\"Authentication failed : 'https://api.flickr.com/services/upload/' - Sorry, the Flickr API service is not currently available.\""
