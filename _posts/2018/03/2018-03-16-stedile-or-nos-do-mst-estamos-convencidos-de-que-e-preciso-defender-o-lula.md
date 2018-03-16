@@ -30,6 +30,7 @@ releated_posts:
   - _posts/2018/01/2018-01-23-entenda-como-se-organiza-o-acampamento-pela-democracia-em-porto-alegre.md
   - _posts/2018/01/2018-01-24-trf4-mantem-condenacao-de-lula-conheca-os-cenarios-futuros-para-o-ex-presidente.md
   - _posts/2018/01/2018-01-24-frente-brasil-popular-convoca-trabalhadores-as-ruas-em-defesa-de-eleicoes-democraticas.md
+section: cover
 
 ---
 <div style="text-align:center">
