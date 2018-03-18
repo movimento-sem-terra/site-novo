@@ -41,6 +41,7 @@ releated_posts:
   - _posts/2018/03/2018-03-12-conferencia-internacional-evidencia-producao-de-arroz-organico-do-mst.md
   - _posts/2017/11/2017-11-30-camponeses-do-mst-no-para-realizam-ii-feira-da-reforma-agraria.md
   - _posts/2018/03/2018-03-15-mst-abre-colheita-do-arroz-agroecologico-nesta-sexta-feira-16-no-rs.md
+section: cover
 
 ---
 <div style="text-align:center">
@@ -58,7 +59,7 @@ Da P&aacute;gina do MST</em></p>
 A lavoura do seu Ad&atilde;o Pietroski, 66 anos, foi palco do ato simb&oacute;lico que marcou, nesta sexta-feira (16), a 15&ordf; Abertura Oficial da Colheita do Arroz Agroecol&oacute;gico no Rio Grande do Sul. O evento, que &eacute; organizado pelo Movimento dos Trabalhadores Rurais Sem Terra (MST), aconteceu no Assentamento Filhos de Sep&eacute;, em Viam&atilde;o, na regi&atilde;o Metropolitana de Porto Alegre, onde h&aacute; a maior &aacute;rea plantada de arroz org&acirc;nico no estado.</p>
 
 <p><br />
-Enquanto trabalhadores colhiam o alimento, centenas de fam&iacute;lias acampadas e assentadas e lideran&ccedil;as pol&iacute;ticas e sociais, que estavam &agrave;s margens da lavoura, aplaudiam a colheita, que hoje &eacute; uma das mais importantes para o MST na &aacute;rea da produ&ccedil;&atilde;o. Para o seu Ad&atilde;o, que cultiva arroz org&acirc;nico h&aacute; 17 anos, sediar o ato simb&oacute;lico de abertura da colheita &eacute; motivo de orgulho e de alegria.</p>
+Enquanto trabalhadores colhiam o alimento, centenas de fam&iacute;lias acampadas e assentadas,&nbsp;lideran&ccedil;as pol&iacute;ticas e sociais, que estavam &agrave;s margens da lavoura, aplaudiam a colheita, que hoje &eacute; uma das mais importantes para o MST na &aacute;rea da produ&ccedil;&atilde;o. Para o seu Ad&atilde;o, que cultiva arroz org&acirc;nico h&aacute; 17 anos, sediar o ato simb&oacute;lico de abertura da colheita &eacute; motivo de orgulho e de alegria.</p>
 
 <p><br />
 &ldquo;Desde que vim para c&aacute; nunca botei veneno ou adubo qu&iacute;mico na lavoura. Hoje os meus filhos tamb&eacute;m trabalham com org&acirc;nicos e produzem arroz. Esta &eacute; a maior alegria que eu tenho, porque estamos protegendo a nossa sa&uacute;de e cuidando do meio ambiente&rdquo;, conta o assentado, que atualmente cultiva 10 hectares de arroz em seu lote.</p>
