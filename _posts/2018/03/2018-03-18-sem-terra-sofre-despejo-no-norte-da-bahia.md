@@ -4,7 +4,7 @@ tags:
   - tag: despejo
   - tag: mobilizações
   - tag: direitos-humanos
-title: "Sem Terra sofre despejo no norte da Bahia "
+title: "Sem Terra sofrem despejo no norte da Bahia "
 support_line: "O MST reivindica a desapropriação da área e denuncia descompromisso social\n\n"
 images_hd: //farm5.staticflickr.com/4775/40179764924_d3fabf9faf_b.jpg
 menu: direitos humanos
