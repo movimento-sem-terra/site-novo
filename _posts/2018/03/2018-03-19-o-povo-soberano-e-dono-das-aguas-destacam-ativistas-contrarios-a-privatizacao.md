@@ -33,7 +33,7 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p><em style="box-sizing: inherit; color: rgb(85, 85, 85); font-family: Helvetica, Arial, sans-serif; font-size: 17.6px;">Por Cristiane Sampaioatiana de Medeiros<br style="box-sizing: inherit;" />
+<p><em style="box-sizing: inherit; color: rgb(85, 85, 85); font-family: Helvetica, Arial, sans-serif; font-size: 17.6px;"><em style="box-sizing: inherit; font-size: 17.6px;">r&nbsp;</em>PoCristiane Sampaio<br style="box-sizing: inherit;" />
 Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
