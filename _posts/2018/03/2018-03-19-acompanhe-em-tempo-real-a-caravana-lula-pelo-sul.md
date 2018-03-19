@@ -29,6 +29,7 @@ releated_posts:
   - _posts/2018/01/2018-01-24-trf4-mantem-condenacao-de-lula-conheca-os-cenarios-futuros-para-o-ex-presidente.md
   - _posts/2018/01/2018-01-24-frente-brasil-popular-convoca-trabalhadores-as-ruas-em-defesa-de-eleicoes-democraticas.md
   - _posts/2018/01/2018-01-24-mst-se-manifesta-sobre-o-julgamento-do-presidente-lula-no-trf-4.md
+section: featured-news
 
 ---
 <p>&lt;a class=&quot;twitter-timeline&quot; data-partner=&quot;tweetdeck&quot; href=&quot;https://twitter.com/Brasil_de_Fato/timelines/975724660255002624?ref_src=twsrc%5Etfw&quot;&gt;#LulaPeloSul - Curated tweets by Brasil_de_Fato&lt;/a&gt; &lt;script async src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;</p>
