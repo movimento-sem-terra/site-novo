@@ -33,12 +33,12 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p><em style="box-sizing: inherit; color: rgb(85, 85, 85); font-family: Helvetica, Arial, sans-serif; font-size: 17.6px;"><em style="box-sizing: inherit; font-size: 17.6px;">r&nbsp;</em>PoCristiane Sampaio<br style="box-sizing: inherit;" />
+<p><br />
+<em>Por Cristiane Sampaio<br />
 Da P&aacute;gina do MST</em></p>
 
-<p>&nbsp;</p>
-
-<p>Reunidos no F&oacute;rum Alternativo Mundial da &Aacute;gua (Fama), em Bras&iacute;lia, segmentos populares e especialistas destacaram, neste domingo (18), a import&acirc;ncia de garantir o acesso &agrave; &aacute;gua &agrave;s mais diferentes popula&ccedil;&otilde;es. No Brasil, o avan&ccedil;o de a&ccedil;&otilde;es predat&oacute;rias por parte de empresas e outros grupos econ&ocirc;micos tem causado grandes problemas a diferentes comunidades, em especial a grupos como quilombolas, ind&iacute;genas, pescadores e agricultores familiares.&nbsp;&nbsp;</p>
+<p><br />
+Reunidos no F&oacute;rum Alternativo Mundial da &Aacute;gua (Fama), em Bras&iacute;lia, segmentos populares e especialistas destacaram, neste domingo (18), a import&acirc;ncia de garantir o acesso &agrave; &aacute;gua &agrave;s mais diferentes popula&ccedil;&otilde;es. No Brasil, o avan&ccedil;o de a&ccedil;&otilde;es predat&oacute;rias por parte de empresas e outros grupos econ&ocirc;micos tem causado grandes problemas a diferentes comunidades, em especial a grupos como quilombolas, ind&iacute;genas, pescadores e agricultores familiares.&nbsp;&nbsp;</p>
 
 <p><br />
 A ativista Isolete Nichinieski, da Campanha Nacional em Defesa do Cerrado, ressaltou que o recurso, al&eacute;m de ser um bem considerado essencial, &eacute; fundamental para a garantia dos direitos humanos como um todo.</p>
