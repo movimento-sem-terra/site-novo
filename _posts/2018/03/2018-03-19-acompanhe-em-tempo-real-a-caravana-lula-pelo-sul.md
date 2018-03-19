@@ -31,4 +31,4 @@ releated_posts:
   - _posts/2018/01/2018-01-24-mst-se-manifesta-sobre-o-julgamento-do-presidente-lula-no-trf-4.md
 
 ---
-<p>https://www.brasildefato.com.br/2018/03/19/acompanhe-em-tempo-real-a-caravana-lula-pelo-sul/</p>
+<p><a href="https://www.brasildefato.com.br/2018/03/19/acompanhe-em-tempo-real-a-caravana-lula-pelo-sul/">https://www.brasildefato.com.br/2018/03/19/acompanhe-em-tempo-real-a-caravana-lula-pelo-sul/</a></p>
