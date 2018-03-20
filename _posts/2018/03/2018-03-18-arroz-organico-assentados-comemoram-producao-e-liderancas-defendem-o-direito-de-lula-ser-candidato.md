@@ -129,4 +129,4 @@ Jo&atilde;o Pedro St&eacute;dile tamb&eacute;m avaliou a situa&ccedil;&atilde;o 
 
 <p>&nbsp;</p>
 
-<p><em><span style="color: rgb(84, 84, 84); font-family: arial, sans-serif; font-size: small;">* Editado por Maura Silva</span></em></p>
+<p><em>* Editado por Maura Silva</em></p>
