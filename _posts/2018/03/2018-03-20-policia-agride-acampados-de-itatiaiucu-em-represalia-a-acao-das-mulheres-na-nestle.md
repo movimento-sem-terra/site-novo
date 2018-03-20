@@ -4,7 +4,7 @@ tags:
   - tag: água
   - tag: jornada-nacional-de-lutas
   - tag: mulheres
-title: "Polícia agride acampados de Itatiaiuçu, em represália à ação das mulheres na Nestlé"
+title: Polícia agride acampados em represália à ação das mulheres na Nestlé
 support_line: "A ocupação da empresa de envase de água mineral denunciou a tentativa de privatização deste bem natural, conduzida pelo golpista Michel Temer. "
 menu: direitos humanos
 special-page: jornada-mulheres-2018
@@ -59,7 +59,7 @@ As fam&iacute;lias estavam &agrave; espera das mulheres, que voltavam desta ativ
 <p>&nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="WhatsApp Image 2018-03-20 at 17.57.07.jpeg" height="622" src="//farm1.staticflickr.com/816/40033600485_5b6c85518b_b.jpg" width="350" />
-<figcaption>A ocupa&ccedil;&atilde;o da empresa de envase de &aacute;gua mineral denunciou a tentativa de privatiza&ccedil;&atilde;o deste bem natural, conduzida pelo golpista Michel Temer.&nbsp;</figcaption>
+<figcaption><em>Divulga&ccedil;&atilde;o MST</em></figcaption>
 </figure>
 
 <p>A pol&iacute;cia chegou atirando balas de borracha, nas pessoas que se concentravam na Pra&ccedil;a do Viaduto de Santa Terezinha.&nbsp;</p>
