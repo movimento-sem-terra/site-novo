@@ -38,17 +38,17 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="SEMI III.jpg" height="450" src="//farm1.staticflickr.com/801/26049834257_e763b22f0d_b.jpg" width="600" />
-<figcaption></figcaption>
+<figcaption>Divulga&ccedil;&atilde;o/MST</figcaption>
 </figure>
 </div>
 
 <p>&nbsp;</p>
 
-<p style="box-sizing: inherit; margin: 0px 0px 11px; font-size: 1.1em; color: rgb(85, 85, 85); font-family: Helvetica, Arial, sans-serif;"><em style="box-sizing: inherit;">Por Aline de Oliveira<br style="box-sizing: inherit;" />
+<p><em>Por Aline de Oliveira<br />
 Da P&aacute;gina do MST&nbsp;</em></p>
 
-<p style="box-sizing: inherit; margin: 0px 0px 11px; font-size: 1.1em; color: rgb(85, 85, 85); font-family: Helvetica, Arial, sans-serif;"><br />
-Ngunda-feira (19), cerca de 200 Sem Terra&nbsp;participaram do semin&aacute;rio de organiza&ccedil;&atilde;o da 1&deg;&nbsp;Copa Estadual da Reforma Agr&aacute;ria do Cear&aacute;,<span style="font-size: 14.3px;">a tarde desta se</span><span style="font-size: 1.1em;">&nbsp;a atividade aconteceu no Centro de Forma&ccedil;&atilde;o Frei Humberto em Fortaleza e contou</span><span style="font-size: 1.1em;">&nbsp;com a participa&ccedil;&atilde;o de mais de 150 times de futebol&nbsp;</span><span style="font-size: 1.1em;">de a</span><span style="font-size: 1.1em;">ssentamentos e a</span><span style="font-size: 1.1em;">campamento de todo o estado do Cear&aacute;.</span></p>
+<p><br />
+Nesta gunda-feira (19), cerca de 200 Sem Terra&nbsp;participaram do semin&aacute;rio de organiza&ccedil;&atilde;o da 1&deg;&nbsp;Copa Estadual da Reforma Agr&aacute;ria do Cear&aacute;,a tarde desta se&nbsp;a atividade aconteceu no Centro de Forma&ccedil;&atilde;o Frei Humberto em Fortaleza e contou&nbsp;com a participa&ccedil;&atilde;o de mais de 150 times de futebol&nbsp;de assentamentos e acampamento de todo o estado do Cear&aacute;.</p>
 
 <p><br />
 Tamb&eacute;m participaram do ato de abertura o Deputado Estadual Elmano de Freitas (PT), a Deputada Estadual Raquel Marques (PT), o Secretario de Esporte Euler Barbosa, e Missias Bezerra da dire&ccedil;&atilde;o estadual do MST.</p>
