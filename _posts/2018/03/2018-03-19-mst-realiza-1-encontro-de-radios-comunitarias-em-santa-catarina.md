@@ -39,7 +39,8 @@ releated_posts:
   - _posts/2018/02/2018-02-07-curso-de-formacao-qualifica-a-atuacao-de-sem-terras-nas-areas-de-reforma-agraria.md
 
 ---
-<p>&nbsp;</p>
+<p><br />
+&nbsp;</p>
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="IMG-20180316-WA0001.jpeg" height="338" src="//farm1.staticflickr.com/814/27033063258_a17efb3801_b.jpg" width="600" />
@@ -74,3 +75,7 @@ Para Camila Bonassa, do setor de comunica&ccedil;&atilde;o do MST&nbsp;o encontr
 <figcaption>Divulga&ccedil;&atilde;o/MST</figcaption>
 </figure>
 </div>
+
+<p>&nbsp;</p>
+
+<p><em>*Editado por Maura Silva&nbsp;&nbsp;</em></p>
