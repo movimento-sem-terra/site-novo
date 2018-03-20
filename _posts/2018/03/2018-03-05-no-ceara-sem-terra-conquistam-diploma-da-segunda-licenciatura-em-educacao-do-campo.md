@@ -33,7 +33,10 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p><em style="box-sizing: inherit; color: rgb(85, 85, 85); font-family: &quot;Exo 2&quot;, Helvetica, Arial, sans-serif; font-size: 17.6px;">Por Aline Da P&aacute;gina do MST</em></p>
+<p style="box-sizing: inherit; margin: 0px 0px 11px; font-size: 1.1em; color: rgb(85, 85, 85); font-family: Helvetica, Arial, sans-serif;"><em style="box-sizing: inherit;">Por Aline de Oliveira&nbsp;<br style="box-sizing: inherit;" />
+D&aacute; P&aacute;gina do MST</em></p>
+
+<div>&nbsp;</div>
 
 <p>Na&nbsp;noite da &uacute;ltima sexta feira (2), o&nbsp;MST&nbsp;celebrou a formatura de 63 educadores e educadoras das &aacute;reas de Reforma Agr&aacute;ria do Cear&aacute;. O evento aconteceu no audit&oacute;rio central do campo Bet&acirc;nia, na Universidade Estadual Vale do Acara&uacute; (UVA), em Sobral, interior do Cear&aacute;.&nbsp;</p>
 
