@@ -65,7 +65,7 @@ Da P&aacute;gina do MST</em></p>
 &nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="photo5010669350897690633.jpg" height="233" src="//farm1.staticflickr.com/803/26037012947_dac0beb010_b.jpg" width="350" />
-<figcaption>M&iacute;stica de abertura do FAMA.</figcaption>
+<figcaption><em>M&iacute;stica de abertura do FAMA.</em></figcaption>
 </figure>
 
 <p>De acordo com as an&aacute;lises da plen&aacute;ria, o capital passou a se reestruturar em todo o mundo a partir de 2009, em busca do aumento de lucros e com a explora&ccedil;&atilde;o como sa&iacute;da para a sua crise. A retirada de direitos dos trabalhadores e a apropria&ccedil;&atilde;o dos recursos naturais, incluindo a &aacute;gua, fazem parte dessa estrat&eacute;gia.</p>
@@ -81,7 +81,7 @@ Representante do movimento P&aacute;tria Grande, Ivan, aponta que esse avan&cced
 &nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="photo5010669350897690609.jpg" height="233" src="//farm1.staticflickr.com/806/26037013007_d1585ac237_b.jpg" width="350" />
-<figcaption>&quot;&Aacute;gua &eacute; vida&quot;.</figcaption>
+<figcaption><em>&quot;&Aacute;gua &eacute; vida&quot;.</em></figcaption>
 </figure>
 
 <p>&ldquo;No Chile avan&ccedil;am os empreendimentos minerais, no Brasil querem privatizar a &aacute;gua, e na Argentina avan&ccedil;am as lavouras de soja transg&ecirc;nica e seus agrot&oacute;xicos. Em todo o continente latino-americano a explora&ccedil;&atilde;o de petr&oacute;leo e o desmatamento poluem, destroem e amea&ccedil;am a vida de camponeses, quilombolas, povos tradicionais e comunidades pobres&rdquo;, relata Ivan.&nbsp;</p>
@@ -96,12 +96,12 @@ Representante do movimento P&aacute;tria Grande, Ivan, aponta que esse avan&cced
 &ldquo;Ao lutar pela Reforma Agr&aacute;ria, n&oacute;s tamb&eacute;m lutamos pela &aacute;gua. Tanto a &aacute;gua que est&aacute; no solo, quanto a &aacute;gua que est&aacute; no subsolo, pois hoje elas est&atilde;o em disputas por interesses das corpora&ccedil;&otilde;es&rdquo;, diz Nenem, da dire&ccedil;&atilde;o&nbsp;do MST.</p>
 
 <p><br />
-Nenem afirma que o MST encampa o FAMA para trazer a experi&ecirc;ncia de luta pela terra, contra o controle das grandes empresas do capital internacional e agroneg&oacute;cio no campo. Mas tamb&eacute;m &ldquo;viemos pelo chamado de unidade da classe trabalhadora em defesa da &aacute;gua&rdquo;, conta a Sem Terra.<br />
+Nenem afirma que o MST encampa o FAMA para trazer a experi&ecirc;ncia de luta pela terra, contra o controle das grandes empresas do capital internacional e agroneg&oacute;cio no campo. Mas tamb&eacute;m &ldquo;viemos pelo chamado de unidade da classe trabalhadora em defesa da &aacute;gua&rdquo;, afirma a Sem Terra.<br />
 &nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="photo5008052122381559807.jpg" height="233" src="//farm5.staticflickr.com/4780/26037012987_6e2c0fc254_b.jpg" width="350" />
-<figcaption>Ant&ocirc;nia Ivoneide: &quot;Queremos a &aacute;gua para<br />
-produzirmos alimentos saud&aacute;veis</figcaption>
+<figcaption><em>Ant&ocirc;nia Ivoneide: &quot;Queremos a &aacute;gua para<br />
+produzirmos alimentos saud&aacute;veis</em></figcaption>
 </figure>
 
 <p>&ldquo;Queremos a &aacute;gua para produzirmos alimentos saud&aacute;veis, pra gente beber e viver. N&atilde;o para as grandes empresas a transformarem em mercadoria&rdquo;, conta a militante do MST.</p>
