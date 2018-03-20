@@ -32,13 +32,6 @@ releated_posts:
 section: featured-news
 
 ---
-<<<<<<< HEAD
-<section>	
-   <section>	
-      <iframe style="width: 100%; min-height:100vh;"    src="https://www.brasildefato.com.br/2018/03/19/acompanhe-em-tempo-real-a-caravana-lula-pelo-sul/">
-    </iframe>	
-   </section>	
-</section> 
-=======
-<p>&lt;a class=&quot;twitter-timeline&quot; data-partner=&quot;tweetdeck&quot; href=&quot;https://twitter.com/Brasil_de_Fato/timelines/975724660255002624?ref_src=twsrc%5Etfw&quot;&gt;#LulaPeloSul - Curated tweets by Brasil_de_Fato&lt;/a&gt; &lt;script async src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;</p>
->>>>>>> a47d6c47c6d5379019728bee02d1158e8dbe33d1
+<p><iframe src="https://www.brasildefato.com.br/2018/03/19/acompanhe-em-tempo-real-a-caravana-lula-pelo-sul/" style="width: 100%; min-height: 100vh;"></iframe></p>
+
+<p>&nbsp;</p>
