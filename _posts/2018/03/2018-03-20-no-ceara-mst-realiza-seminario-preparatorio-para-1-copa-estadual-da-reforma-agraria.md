@@ -48,16 +48,16 @@ releated_posts:
 Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
-Nesta segunda-feira (19), cerca de 200 Sem Terra&nbsp;participaram do Semin&aacute;rio de organiza&ccedil;&atilde;o da 1&deg;&nbsp;Copa Estadual da Reforma Agr&aacute;ria do Cear&aacute;. A&nbsp;atividade aconteceu no Centro de Forma&ccedil;&atilde;o Frei Humberto em Fortaleza e contou&nbsp;com a participa&ccedil;&atilde;o de mais de 150 times de futebol&nbsp;de assentamentos e acampamento de todo o estado do Cear&aacute;.</p>
+Nesta segunda-feira (19), cerca de 200 Sem Terra&nbsp;participaram do semin&aacute;rio de organiza&ccedil;&atilde;o da 1&deg;&nbsp;Copa Estadual da Reforma Agr&aacute;ria do Cear&aacute;. A&nbsp;atividade aconteceu no Centro de Forma&ccedil;&atilde;o Frei Humberto em Fortaleza e contou&nbsp;com a participa&ccedil;&atilde;o de mais de 150 times de futebol&nbsp;de assentamentos e acampamento de todo o estado do Cear&aacute;.</p>
 
 <p><br />
 Tamb&eacute;m participaram do ato de abertura o Deputado Estadual Elmano de Freitas (PT), a Deputada Estadual Raquel Marques (PT), o Secretario de Esporte Euler Barbosa, e Missias Bezerra da dire&ccedil;&atilde;o estadual do MST.</p>
 
 <p><br />
-Durante o ato as falas foram no sentido de assumir o compromisso com os projetos dos trabalhadores. O Movimento tamb&eacute;m foi parabenizado por trazer debater o esporte e fazer dele um importe instrumento na luta de classes.</p>
+Durante o ato as falas foram no sentido de assumir o compromisso com os projetos dos trabalhadores. O Movimento tamb&eacute;m foi parabenizado por trazer debater o esporte e fazer dele um importante instrumento na luta de classes.</p>
 
 <p><br />
-O Secret&aacute;rio de Esporte do Cear&aacute;, Euler Barbosa, falou sobre a import&acirc;ncia da atividade e dos impactos positivos da integra&ccedil;&atilde;o campo e cidade.&nbsp;</p>
+O Secret&aacute;rio de Esporte do Cear&aacute;, Euler Barbosa, falou sobre os impactos positivos da integra&ccedil;&atilde;o campo e cidade.&nbsp;</p>
 
 <p><br />
 &ldquo;Estou feliz e empolgado&nbsp;pelo apoio do Governador Camilo Santana.&nbsp;Desde que assumi a secret&aacute;ria eu&nbsp;tive um olhar voltado para o campo e&nbsp;para a integra&ccedil;&atilde;o entre o campo e a cidade. Precisamos chegar mais no interior, essa &eacute; uma grande oportunidade&nbsp;e,&nbsp;nesse sentido, garanto aqui&nbsp;os recursos necess&aacute;rios para realiza&ccedil;&atilde;o da Primeira Copa Estadual da Reforma Agr&aacute;ria est&aacute; garantido. Al&eacute;m disso,&nbsp;coloco a secretaria &agrave;&nbsp;disposi&ccedil;&atilde;o de todos para que possamos realizar essa integra&ccedil;&atilde;o da melhor maneira poss&iacute;vel&rdquo;.</p>
