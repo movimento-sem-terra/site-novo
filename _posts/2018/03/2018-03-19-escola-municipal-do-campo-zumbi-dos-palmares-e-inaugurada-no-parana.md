@@ -80,3 +80,7 @@ A diretora da escola,&nbsp;Maristela Solda, lembra que este momento &eacute; his
 
 <p><br />
 A escola conta com 854,20 metros quadrados de &aacute;rea constru&iacute;da. S&atilde;o&nbsp;seis salas de aula,&nbsp;laborat&oacute;rio de inform&aacute;tica, &aacute;rea administrativa, cozinha, p&aacute;tio coberto e banheiros.</p>
+
+<p>&nbsp;</p>
+
+<p><em>*Editado por Maura Silva&nbsp;</em></p>
