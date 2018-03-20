@@ -4,7 +4,7 @@ tags:
   - tag: nossa-produção
   - tag: arroz
   - tag: agroecologia
-title: "Arroz orgânico: assentados comemoram produção e lideranças defendem o direito de Lula ser candidato\n"
+title: "Arroz orgânico: assentados comemoram produção e lideranças defendem o direito de Lula ser candidato"
 support_line: "Evento reuniu mais de 1,5 mil pessoas no Assentamento Filhos de Sepé, em Viamão"
 menu: agricultura camponesa
 images_hd: //farm5.staticflickr.com/4779/40887617921_43ba39b74b_b.jpg
@@ -41,7 +41,7 @@ releated_posts:
   - _posts/2018/03/2018-03-12-conferencia-internacional-evidencia-producao-de-arroz-organico-do-mst.md
   - _posts/2017/11/2017-11-30-camponeses-do-mst-no-para-realizam-ii-feira-da-reforma-agraria.md
   - _posts/2018/03/2018-03-15-mst-abre-colheita-do-arroz-agroecologico-nesta-sexta-feira-16-no-rs.md
-section: cover
+section: featured-news
 
 ---
 <div style="text-align:center">
