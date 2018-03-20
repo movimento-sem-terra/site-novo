@@ -35,7 +35,7 @@ releated_posts:
 
 <p><br />
 <em>Por Cristiane Sampaio<br />
-Da P&aacute;gina do MST</em></p>
+Do Brasil de Fato</em></p>
 
 <p><br />
 Reunidos no F&oacute;rum Alternativo Mundial da &Aacute;gua (Fama), em Bras&iacute;lia, segmentos populares e especialistas destacaram, neste domingo (18), a import&acirc;ncia de garantir o acesso &agrave; &aacute;gua &agrave;s mais diferentes popula&ccedil;&otilde;es. No Brasil, o avan&ccedil;o de a&ccedil;&otilde;es predat&oacute;rias por parte de empresas e outros grupos econ&ocirc;micos tem causado grandes problemas a diferentes comunidades, em especial a grupos como quilombolas, ind&iacute;genas, pescadores e agricultores familiares.&nbsp;&nbsp;</p>
