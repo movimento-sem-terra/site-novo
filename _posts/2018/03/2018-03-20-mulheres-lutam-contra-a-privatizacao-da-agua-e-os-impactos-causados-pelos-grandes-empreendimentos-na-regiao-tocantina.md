@@ -4,7 +4,7 @@ tags:
   - tag: Suzano
   - tag: água
   - tag: mobilizações
-title: "Mulheres lutam contra a privatização da água e os impactos causados pelos grandes empreendimentos na região Tocantina\n\n"
+title: Mulheres lutam contra os impactos dos grandes empreendimentos na região Tocantina
 images_hd: //farm1.staticflickr.com/793/39112158470_c8c0183d3f_b.jpg
 menu: lutas e mobilizações
 support_line: "Realizada a fusão com a Fibria, a Suzano será a maior produtora de papel e celulose do mundo. Atualmente a empresa detém sob seu controle 476 mil hectares de terra nos estado do Pará, Maranhão e Tocantins"
@@ -30,17 +30,18 @@ releated_posts:
   - _posts/2018/03/2018-03-08-em-goias-marcha-e-ocupacao-da-alego-marcam-as-mobilizacoes-deste-8-de-marco.md
   - _posts/2018/03/2018-03-15-aguas-e-terras-agronegociadas-no-brasil.md
   - _posts/2018/02/2018-02-24-liderancas-de-24-municipios-pressionam-governo-para-diminuir-prejuizos-da-seca-no-rs.md
+  - _posts/2018/03/2018-03-19-o-povo-soberano-e-dono-das-aguas-destacam-ativistas-contrarios-a-privatizacao.md
+special-page: jornada-mulheres-2018
 
 ---
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2018-03-20 at 12.38.18.jpeg" height="338" src="//farm5.staticflickr.com/4784/40879726172_4afed40fc5_b.jpg" width="600" />
-<figcaption>Divulga&ccedil;&atilde;o/MST</figcaption>
+<figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2018-03-20 at 12.38.24.jpeg" height="525" src="//farm1.staticflickr.com/793/39112158470_c8c0183d3f_b.jpg" width="700" />
+<figcaption></figcaption>
 </figure>
 </div>
 
-<p>&nbsp;</p>
-
-<p><em>D&aacute; P&aacute;gina do MST&nbsp;</em></p>
+<p><br />
+<em>Da&nbsp;P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
 Al&eacute;m de ser o m&ecirc;s de luta das mulheres, mar&ccedil;o &eacute; tamb&eacute;m o m&ecirc;s da &aacute;gua. E, para denunciar o processo de privatiza&ccedil;&atilde;o, expropria&ccedil;&atilde;o e utiliza&ccedil;&atilde;o explorat&oacute;ria das &aacute;guas, 300 mulheres Sem Terra da regi&atilde;o Amaz&ocirc;nica, dos estados do Maranh&atilde;o, Par&aacute; e Tocantins, reuniram-se&nbsp; em Imperatriz (MA) nas proximidades da estrada que d&aacute; acesso &agrave; f&aacute;brica da Suzano Papel e Celulose.&nbsp;</p>
