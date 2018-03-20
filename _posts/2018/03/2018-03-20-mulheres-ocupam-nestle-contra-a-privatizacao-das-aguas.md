@@ -37,7 +37,7 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p>A sede da Nestl&eacute; em S&atilde;o Louren&ccedil;o, Sul de Minas Gerais, foi ocupada por 600 mulheres sem terra &agrave;s 6 horas da manh&atilde; desta ter&ccedil;a-feira (20). As mulheres, que seguem na Jornada Nacional de Lutas, denunciam a entrega das &aacute;guas &agrave;s corpora&ccedil;&otilde;es internacionais, conduzida a passos largos pelo governo golpista de Michel Temer. Elas alertam para as negociatas que ocorrem neste momento no F&oacute;rum Mundial das &Aacute;guas, em Bras&iacute;lia.</p>
+<p>A sede da Nestl&eacute; em S&atilde;o Louren&ccedil;o, Sul de Minas Gerais, foi ocupada por 600 mulheres Sem Terra &agrave;s 6 horas da manh&atilde; desta ter&ccedil;a-feira (20). As mulheres, que seguem na Jornada Nacional de Lutas, denunciam a entrega das &aacute;guas &agrave;s corpora&ccedil;&otilde;es internacionais, conduzida a passos largos pelo governo golpista de Michel Temer. Elas alertam para as negociatas que ocorrem neste momento no F&oacute;rum Mundial das &Aacute;guas, em Bras&iacute;lia.</p>
 
 <p><br />
 &ldquo;Imagina voc&ecirc; ser obrigada a comprar em garrafinhas toda a &aacute;gua para matar a sede durante o dia. Ningu&eacute;m aguentaria isso. &Eacute; o que querem as empresas reunidas nesse momento naquele F&oacute;rum&rdquo;, aponta Maria Gomes de Oliveira, da Dire&ccedil;&atilde;o do MST. &ldquo;&Eacute; muita petul&acirc;ncia fazer um f&oacute;rum internacional para comercializar nossas reservas de &aacute;gua. Eles n&atilde;o est&atilde;o l&aacute; para debater gest&atilde;o de nada, est&atilde;o fazendo um leil&atilde;o para vender o pa&iacute;s a pre&ccedil;o de banana&rdquo;, completa a dirigente.</p>
@@ -72,10 +72,5 @@ As mulheres Sem Terra reivindicam ainda a mem&oacute;ria de Marielle, exigindo j
 <p><br />
 As mulheres Sem Terra prometem continuar as lutas durante o ano. Nesse sentido, Maria Gomes de Oliveira &eacute; taxativa: &ldquo;Enquanto a burguesia continuar impondo este rompimento democr&aacute;tico, condenando a popula&ccedil;&atilde;o brasileira &agrave; perda de direitos, vamos seguir ocupando terras, empresas e propriedades para denunciar todos os articuladores do golpe. O povo precisa saber quem s&atilde;o os respons&aacute;veis pela mis&eacute;ria, pela sua explora&ccedil;&atilde;o e pela destrui&ccedil;&atilde;o do meio ambiente&rdquo;.</p>
 
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p><em>*Editado por Rafael Soriano</em></p>
+<p><br />
+<em>*Editado por Rafael Soriano</em></p>
