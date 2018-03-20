@@ -5,7 +5,7 @@ tags:
   - tag: mobilizações
   - tag: reforma-agrária
 images_hd: //farm1.staticflickr.com/817/40028728665_7454ab3be8_b.jpg
-title: "No Ceará, MST realiza seminário preparatório para 1° Copa Estadual da Reforma Agrária\n\n"
+title: "No Ceará, MST realiza seminário preparatório para 1° Copa Estadual da Reforma Agrária"
 menu: "educação, cultura e comunicação"
 support_line: "A abertura oficial da 1° Copa Estadual da Reforma Agrária acontece no dia 1º de maio, na Arena Castelão em Fortaleza"
 layout: post
@@ -48,7 +48,7 @@ releated_posts:
 Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
-Nesta gunda-feira (19), cerca de 200 Sem Terra&nbsp;participaram do semin&aacute;rio de organiza&ccedil;&atilde;o da 1&deg;&nbsp;Copa Estadual da Reforma Agr&aacute;ria do Cear&aacute;,a tarde desta se&nbsp;a atividade aconteceu no Centro de Forma&ccedil;&atilde;o Frei Humberto em Fortaleza e contou&nbsp;com a participa&ccedil;&atilde;o de mais de 150 times de futebol&nbsp;de assentamentos e acampamento de todo o estado do Cear&aacute;.</p>
+Nesta segunda-feira (19), cerca de 200 Sem Terra&nbsp;participaram do Semin&aacute;rio de organiza&ccedil;&atilde;o da 1&deg;&nbsp;Copa Estadual da Reforma Agr&aacute;ria do Cear&aacute;. A&nbsp;atividade aconteceu no Centro de Forma&ccedil;&atilde;o Frei Humberto em Fortaleza e contou&nbsp;com a participa&ccedil;&atilde;o de mais de 150 times de futebol&nbsp;de assentamentos e acampamento de todo o estado do Cear&aacute;.</p>
 
 <p><br />
 Tamb&eacute;m participaram do ato de abertura o Deputado Estadual Elmano de Freitas (PT), a Deputada Estadual Raquel Marques (PT), o Secretario de Esporte Euler Barbosa, e Missias Bezerra da dire&ccedil;&atilde;o estadual do MST.</p>
