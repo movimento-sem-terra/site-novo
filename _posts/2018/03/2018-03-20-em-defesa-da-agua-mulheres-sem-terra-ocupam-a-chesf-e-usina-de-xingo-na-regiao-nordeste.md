@@ -4,7 +4,7 @@ tags:
   - tag: mulheres
   - tag: água
   - tag: lutas-e-mobilizações
-title: "Em defesa da água, Mulheres Sem Terra ocupam a Chesf e Usina de Xingó na região Nordeste"
+title: "Em defesa da água, mulheres Sem Terra ocupam Chesf e Usina de Xingó, na região Nordeste"
 support_line: "“Um povo que não controla seus recursos naturais não tem condição de ser soberano”, afirma dirigente do MST."
 menu: lutas e mobilizações
 section: featured-news
