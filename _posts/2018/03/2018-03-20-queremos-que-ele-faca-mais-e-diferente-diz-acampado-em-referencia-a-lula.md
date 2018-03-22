@@ -53,7 +53,7 @@ releated_posts:
 <p>&nbsp;</p>
 
 <p><em>Por Catiana de Medeiros&nbsp;<br />
-D&aacute; P&aacute;gina do MST</em></p>
+Da&nbsp;P&aacute;gina do MST</em></p>
 
 <p><br />
 A Caravana Lula pelo Sul do Brasil carrega consigo a express&atilde;o da classe trabalhadora que v&ecirc; no ex-presidente a representa&ccedil;&atilde;o de um projeto popular para o pa&iacute;s. &Eacute; por isso que camponeses acampados e assentados da Reforma Agr&aacute;ria acompanham desde segunda-feira (19) as mobiliza&ccedil;&otilde;es no Rio Grande do Sul. Muitos deles s&atilde;o benefici&aacute;rios de pol&iacute;ticas p&uacute;blicas criadas pelo governo do petista, como o Programa Nacional de Educa&ccedil;&atilde;o na Reforma Agr&aacute;ria (Pronera).</p>
