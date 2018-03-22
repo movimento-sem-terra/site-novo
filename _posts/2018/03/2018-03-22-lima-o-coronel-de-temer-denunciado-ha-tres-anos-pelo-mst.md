@@ -7,7 +7,7 @@ tags:
 title: "Lima: o Coronel de Temer denunciado há três anos pelo MST \n"
 images_hd: //farm1.staticflickr.com/792/40956884751_a820f11957_b.jpg
 menu: lutas e mobilizações
-support_line: "Nós lutamos por terra, pela Reforma Agrária, mas, acima de tudo, o MST luta e ocupa por justiça\"\n\n"
+support_line: "Nós lutamos por terra, pela Reforma Agrária nas terras dos corruptos, mas, acima de tudo, o MST luta e ocupa por justiça\"\n\n"
 layout: post
 files:
   - link: //farm1.staticflickr.com/787/40914947992_83cc17fb84_b.jpg
@@ -39,7 +39,7 @@ files:
     title: 1463145877_368864_1463146047_noticia_normal_recorte1.jpg
     $$hashKey: 0GX
 created_date: "2018-03-22T13:58:02-03:00"
-published: false
+published: true
 releated_posts:
   - _posts/2017/08/2017-08-08-lima-o-coronel-de-temer.md
   - _posts/2018/03/2018-03-07-mst-ocupa-fazenda-esmeralda-ligada-a-michel-temer-em-esquema-de-corrupcao.md
@@ -53,6 +53,15 @@ releated_posts:
 <figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2018-03-22 at 10.06.00.jpeg" height="400" src="//farm1.staticflickr.com/787/40914947992_83cc17fb84_b.jpg" width="600" />
 <figcaption>Divulga&ccedil;&atilde;o MST&nbsp;</figcaption>
 </figure>
+</div>
+
+<div style="box-sizing: inherit; color: rgb(85, 85, 85); font-family: Helvetica, Arial, sans-serif; font-size: 16px;">
+<p style="box-sizing: inherit; margin: 0px 0px 11px; font-size: 1.1em;">&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><em>Maura Silva&nbsp;<br />
+Da&nbsp;P&aacute;gina do MST</em></p>
 </div>
 
 <p>&nbsp;</p>
@@ -107,7 +116,7 @@ Coronel Lima foi o bra&ccedil;o direito de Michel Temer em mais um esc&acirc;nda
 <strong>Lava Jato&nbsp;</strong></p>
 
 <p><br />
-Lima foi apontado por Florisvaldo Caetano de Oliveira, contador e delator da JBS como &ldquo;apanhador&rdquo; pessoal dos recursos de Temer. No &uacute;ltimo dia 13 de mar&ccedil;o, o ministro Lu&iacute;s Roberto Barroso, do Supremo Tribunal Federal (STF), autorizou a quebra dos sigilos telef&ocirc;nico e telem&aacute;tico (comunica&ccedil;&atilde;o por e-mail) de suspeitos de intermediarem propina para o presidente Michel.&nbsp; A autoriza&ccedil;&atilde;o se estende ao ex-deputado Rodrigo da Rocha Loures (MDB) e ao coronel Lima.&nbsp;</p>
+Lima foi apontado por Florisvaldo Caetano de Oliveira, contador da JBS como &ldquo;apanhador&rdquo; pessoal dos recursos de Temer. No &uacute;ltimo dia 13 de mar&ccedil;o, o ministro Lu&iacute;s Roberto Barroso, do Supremo Tribunal Federal (STF), autorizou a quebra dos sigilos telef&ocirc;nico e telem&aacute;tico (comunica&ccedil;&atilde;o por e-mail) de suspeitos de intermediarem propina para o presidente Michel.&nbsp; A autoriza&ccedil;&atilde;o se estende ao ex-deputado Rodrigo da Rocha Loures (MDB) e ao coronel Lima.&nbsp;</p>
 
 <p><br />
 <strong>Sil&ecirc;ncio da grande m&iacute;dia&nbsp;</strong></p>
@@ -116,8 +125,8 @@ Lima foi apontado por Florisvaldo Caetano de Oliveira, contador e delator da JBS
 Fomos os primeiros a correlacionar os fatos e expor a rela&ccedil;&atilde;o escusa que os dois mant&eacute;m h&aacute; d&eacute;cadas. Desde ent&atilde;o, s&atilde;o cada vez mais frequentes as denuncias de abusos e corrup&ccedil;&atilde;o. Para a Dire&ccedil;&atilde;o Nacional do MST, os as provas s&atilde;o irrefut&aacute;veis e n&atilde;o podemos contrari&aacute;-los.</p>
 
 <p><br />
-&ldquo;Michel Temer e Coronel Lima s&atilde;o corruptos &eacute; isso que o MST vem apontando desde 2016. O Movimento foi o primeiro a dar visibilidade a esse esquema de falcatruas que envolvem os dois.&nbsp;A quest&atilde;o &eacute;: por que a grande m&iacute;dia esconde esses fatos? Porque seria admitir que a imprensa silenciou todos esses anos o esquema de corrup&ccedil;&atilde;o que envolve 15 milh&otilde;es em patrim&ocirc;nios adquiridos por corrup&ccedil;&atilde;o, sendo que destes, 13 milh&otilde;es s&atilde;o investimentos em&nbsp; im&oacute;veis rurais no munic&iacute;pio de Duartina. S&atilde;o esc&acirc;ndalos que envolvem o Porto de Santos, Angra 3 no Rio de Janeiro, em outras palavras, Temer seria derrubado se a m&iacute;dia fosse precisa nas investiga&ccedil;&otilde;es que envolvem Coronel Lima. A justi&ccedil;a tamb&eacute;m silencia diante dos fatos, &eacute; morosa, n&atilde;o permite que a sociedade tenha acesso aos fatos. Exemplo: a Pol&iacute;cia Federal apreendeu no duplex de 446 metros quadrados de Lima, 17 recibos referentes a uma <em>offshore </em>Langley Trade. A empresa &eacute; domiciliada em Montevid&eacute;u, capital do Uruguai, conhecido para&iacute;so fiscal, no mesmo endere&ccedil;o da Panam&aacute; Papers. Maiores ind&iacute;cios que esses imposs&iacute;veis. &Eacute; isso que o MST denuncia h&aacute; anos. N&oacute;s lutamos e ocupamos por terra, pela Reforma Agr&aacute;ria, mas, acima de tudo &eacute;&nbsp; lutamos e ocupamos por justi&ccedil;a&quot;.&nbsp;</p>
+&ldquo;Michel Temer e Coronel Lima s&atilde;o corruptos &eacute; isso que o MST vem apontando desde 2016. O Movimento foi o primeiro a dar visibilidade a esse esquema de falcatruas que envolvem os dois.&nbsp;A quest&atilde;o &eacute;: por que a grande m&iacute;dia esconde esses fatos? Porque seria admitir que a imprensa silenciou todos esses anos o esquema de corrup&ccedil;&atilde;o que envolve 15 milh&otilde;es em patrim&ocirc;nios adquiridos por corrup&ccedil;&atilde;o, sendo que destes, 13 milh&otilde;es s&atilde;o investimentos em&nbsp; im&oacute;veis rurais no munic&iacute;pio de Duartina. S&atilde;o esc&acirc;ndalos que envolvem o Porto de Santos, Angra 3 no Rio de Janeiro, em outras palavras, Temer seria derrubado se a m&iacute;dia fosse precisa nas investiga&ccedil;&otilde;es que envolvem Coronel Lima. A justi&ccedil;a tamb&eacute;m silencia diante dos fatos, &eacute; morosa, n&atilde;o permite que a sociedade tenha acesso aos fatos. Exemplo: a Pol&iacute;cia Federal apreendeu no duplex de 446 metros quadrados de Lima, 17 recibos referentes a uma <em>offshore </em>Langley Trade. A empresa &eacute; domiciliada em Montevid&eacute;u, capital do Uruguai, conhecido para&iacute;so fiscal, no mesmo endere&ccedil;o da Panam&aacute; Papers. Maiores ind&iacute;cios que esses imposs&iacute;veis. &Eacute; isso que o MST denuncia h&aacute; anos. N&oacute;s lutamos e ocupamos por terra, pela Reforma Agr&aacute;ria nas terras dos corruptos, mas, acima de tudo &eacute;&nbsp; lutamos e ocupamos por justi&ccedil;a&quot;.&nbsp;</p>
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
+<p><iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/03twzkl0I0s" width="640"></iframe></p>
