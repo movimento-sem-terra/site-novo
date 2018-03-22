@@ -56,7 +56,7 @@ releated_posts:
 <p>&nbsp;</p>
 
 <p><em>Por Catiana de Medeiros&nbsp;<br />
-D&aacute; P&aacute;gina do MST</em></p>
+Da&nbsp;P&aacute;gina do MST</em></p>
 </div>
 
 <div>&nbsp;</div>
