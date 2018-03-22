@@ -84,12 +84,3 @@ Psol/Bauru<br />
 Sindicato dos Gr&aacute;ficos de Ja&uacute; e Regi&atilde;o<br />
 PT/Cabr&aacute;lia Paulista<br />
 Sindicato dos Jornalistas de SP</p>
-
-<p><br />
-<br />
-<br />
-&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
