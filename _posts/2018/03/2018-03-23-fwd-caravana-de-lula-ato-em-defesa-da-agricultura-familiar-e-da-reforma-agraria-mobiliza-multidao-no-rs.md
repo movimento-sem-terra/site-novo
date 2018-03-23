@@ -4,7 +4,7 @@ tags:
   - tag: caravana
   - tag: lula
   - tag: rio-grande-do-sul
-title: "Fwd: Caravana de Lula: Ato em defesa da agricultura familiar e da Reforma Agrária mobiliza multidão no RS\n"
+title: "Caravana de Lula: Ato em defesa da agricultura familiar e da Reforma Agrária mobiliza multidão no RS\n"
 support_line: "Evento aconteceu na região Norte gaúcha, considerada berço do PT no estado e de alguns movimentos populares\n"
 menu: lutas e mobilizações
 images_hd: //farm1.staticflickr.com/807/40259904754_49d04a2c2a_b.jpg
