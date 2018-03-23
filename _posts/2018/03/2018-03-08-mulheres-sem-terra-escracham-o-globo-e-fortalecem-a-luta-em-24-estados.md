@@ -99,8 +99,6 @@ section: featured-news
 ---
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
-
 <p><em>Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
