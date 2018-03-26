@@ -6,7 +6,7 @@ tags:
   - tag: mobilizações
 title: "Lula visita antiga fazenda Annoni e se compromete a fazer mais pela Reforma Agrária se eleito presidente\n"
 support_line: "Encontro com os acampados e assentados da Reforma Agrária aconteceu no último dia da Caravana de Lula pelo Rio Grande do Sul\n"
-images_hd: "function link() { [native code] }"
+images_hd: //farm1.staticflickr.com/817/26158703227_f3edf3535d_b.jpg
 menu: lutas e mobilizações
 layout: post
 files:
