@@ -6,7 +6,7 @@ tags:
   - tag: mobilizações
 title: "Lula visita antiga fazenda Annoni e se compromete a fazer mais pela Reforma Agrária se eleito presidente\n"
 support_line: "Encontro com os acampados e assentados da Reforma Agrária aconteceu no último dia da Caravana de Lula pelo Rio Grande do Sul\n"
-images_hd: !<tag:yaml.org,2002:js/function> "function link() { [native code] }"
+images_hd: "function link() { [native code] }"
 menu: lutas e mobilizações
 layout: post
 files:
@@ -107,6 +107,9 @@ A assentada Irene Manfio, trabalhadora da Coptar, conta que receber o ex-preside
 A assentada Salete Campigotto, refor&ccedil;ou que o encontro de Lula com os Sem Terra simboliza um comprometimento da classe pol&iacute;tica de esquerda com a luta pela Reforma Agr&aacute;ria. &ldquo;A Annoni era um latif&uacute;ndio que produzia meia d&uacute;zia de vacas magras, cobras e ratos. Depois que virou assentamentos, passou a produzir uma diversidade de alimentos. Por isso queremos que Lula fa&ccedil;a uma verdadeira Reforma Agr&aacute;ria, para que possamos produzir comida saud&aacute;vel, vida e cultura no campo. N&oacute;s n&atilde;o esperamos um Lula &ldquo;paz e amor&rdquo;, mas sim um Lula comprometido com a luta social&rdquo;, finalizou.</p>
 
 <p>&nbsp;</p>
+
+<p><br />
+Confira mais fotos do evento, <a href="https://www.flickr.com/photos/mst_rs/sets/72157694092600414">aqui</a>.&nbsp;</p>
 
 <p>&nbsp;</p>
 
