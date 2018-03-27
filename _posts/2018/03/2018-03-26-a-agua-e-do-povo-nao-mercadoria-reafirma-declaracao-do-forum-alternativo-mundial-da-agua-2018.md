@@ -4,7 +4,7 @@ tags:
   - tag: fama
   - tag: água
   - tag: mobilizações
-title: "A água é do povo, não mercadoria; reafirma declaração do Fórum Alternativo Mundial da Água 2018"
+title: "A água é do povo, não mercadoria; reafirma declaração do FAMA 2018"
 support_line: "Encerrado no dia 22 de março, Dia Mundial da Água, o fórum alternativo reuniu cerca de sete mil pessoas em Brasília que reafirmaram a luta pela vida e disputa hídrica no\nplaneta"
 images_hd: //farm1.staticflickr.com/817/26163550357_0b06fbbff8_b.jpg
 menu: lutas e mobilizações
@@ -35,9 +35,8 @@ releated_posts:
 <p><em>Por Webert da Cruz&nbsp;<br />
 Da P&aacute;gina do MST</em></p>
 
-<p>&nbsp;</p>
-
-<p>Nesta quinta-feira (22), Dia Mundial da &Aacute;gua, encerrou-se o F&oacute;rum Alternativo Mundial da &Aacute;gua (FAMA). O f&oacute;rum reuniu aproximadamente sete mil pessoas de 17 a 22 de mar&ccedil;o em Bras&iacute;lia (DF). Os participantes reiteraram a &aacute;gua como direito e mobilizaram discuss&otilde;es e luta contrapondo o 8&ordm; F&oacute;rum Mundial da &Aacute;gua (8FMA), realizado por grandes corpora&ccedil;&otilde;es, que articula esse bem comum como mercadoria.</p>
+<p><br />
+Nesta quinta-feira (22), Dia Mundial da &Aacute;gua, encerrou-se o F&oacute;rum Alternativo Mundial da &Aacute;gua (FAMA). O f&oacute;rum reuniu aproximadamente sete mil pessoas de 17 a 22 de mar&ccedil;o em Bras&iacute;lia (DF). Os participantes reiteraram a &aacute;gua como direito e mobilizaram discuss&otilde;es e luta contrapondo o 8&ordm; F&oacute;rum Mundial da &Aacute;gua (8FMA), realizado por grandes corpora&ccedil;&otilde;es, que articula esse bem comum como mercadoria.</p>
 
 <p><br />
 Compreendendo o FAMA para alem de um evento, as organiza&ccedil;&otilde;es da sociedade civil e participantes do f&oacute;rum que convergiram na constru&ccedil;&atilde;o da luta pela &aacute;gua, constru&iacute;ram uma declara&ccedil;&atilde;o final. O compromisso fundamental estabelecido &eacute; o de se manter em luta, enraizar processos de constru&ccedil;&atilde;o e resist&ecirc;ncia at&eacute; o momento, manter a<br />
