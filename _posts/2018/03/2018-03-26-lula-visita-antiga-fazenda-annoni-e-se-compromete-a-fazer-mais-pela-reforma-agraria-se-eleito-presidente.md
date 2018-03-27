@@ -38,6 +38,7 @@ releated_posts:
   - _posts/2018/03/2018-03-23-fwd-caravana-de-lula-ato-em-defesa-da-agricultura-familiar-e-da-reforma-agraria-mobiliza-multidao-no-rs.md
   - _posts/2018/02/2018-02-21-visita-ao-mst-afirma-minas-gerais-como-base-de-resistencia-para-eleicao-de-lula.md
   - _posts/2018/02/2018-02-15-em-entrevista-joao-pedro-stedile-defende-que-lula-busque-registro-de-candidatura-com-apoio-das-forcas-sociais.md
+section: featured-news
 
 ---
 <div style="text-align:center">
