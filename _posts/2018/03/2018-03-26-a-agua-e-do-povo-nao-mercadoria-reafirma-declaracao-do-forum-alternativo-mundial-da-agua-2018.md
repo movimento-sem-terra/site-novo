@@ -26,6 +26,7 @@ releated_posts:
   - _posts/2018/03/2018-03-19-acampamento-de-luta-pela-agua-do-fama-se-inicia-em-brasilia.md
   - _posts/2018/03/2018-03-20-carta-de-sao-lourenco-fora-nestle-a-agua-e-nossa.md
   - _posts/2018/03/2018-03-20-dividir-o-trabalho-e-formar-as-criancas-a-ciranda-no-fama.md
+section: featured-news
 
 ---
 <p style="text-align:center"><img alt="LRM_EXPORT_20180322_173830.jpg" height="400" src="//farm1.staticflickr.com/817/26163550357_0b06fbbff8_b.jpg" width="600" /></p>
