@@ -64,7 +64,7 @@ Na programa&ccedil;&atilde;o, temas como comunica&ccedil;&atilde;o m&iacute;dia 
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2018-03-26 at 07.01.13 (1).jpeg" height="400" src="//farm1.staticflickr.com/798/40991303742_77d14e1b29_b.jpg" width="600" />
-<figcaption>&nbsp;Monise Ravena, do Brasil de Fato e Iris Pacheco, dirigente nacional do setor de comunica&ccedil;&atilde;o do MST</figcaption>
+<figcaption><em>&nbsp;Monise Ravena, do Brasil de Fato e Iris Pacheco, dirigente nacional do setor de comunica&ccedil;&atilde;o do MST</em></figcaption>
 </figure>
 </div>
 
@@ -79,8 +79,3 @@ J&aacute; para Ihoranna Moraes, do coletivo de comunica&ccedil;&atilde;o do MST 
 
 <p><br />
 &quot;&Eacute; um espa&ccedil;o de fortalecimento da comunica&ccedil;&atilde;o popular no nosso estado&nbsp;e com essa cria&ccedil;&atilde;o da rede de comunicadores&nbsp;certamente vamos avan&ccedil;ar bastante nesse processo&quot;, finalizou.&nbsp;</p>
-
-<p><br />
-&nbsp;</p>
-
-<p>&nbsp;</p>
