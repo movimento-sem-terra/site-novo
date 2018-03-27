@@ -47,7 +47,7 @@ Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
-<p>Durante a Caravana Lula pelo Sul do Brasil, entre os dias 24 e 25 de mar&ccedil;o, em Santa Catarina, o ex-presidente esteve Florian&oacute;polis, Chapec&oacute;, Nova Erechim e S&atilde;o Miguel do Oeste. Nesta &uacute;ltima, Lula visitou a Cooperoeste, maior cooperativa do Movimento dos Trabalhadores e Trabalhadoras Rurais Sem Terra.</p>
+<p>Durante a Caravana Lula pelo Sul do Brasil, entre os dias 24 e 25 de mar&ccedil;o, em Santa Catarina, o ex-presidente esteve Florian&oacute;polis, Chapec&oacute;, Nova Erechim e S&atilde;o Miguel do Oeste. Nesta &uacute;ltima, Lula visitou a <a href="http://www.terravivasc.com.br/">Cooperoeste/Terra Viva</a>, maior cooperativa do Movimento dos Trabalhadores e Trabalhadoras Rurais Sem Terra.</p>
 
 <p><br />
 A atividade realizada na Cooperoeste foi organizada pelo MST, Movimento dos Atingidos por Barragens (MAB), Movimento&nbsp;de Mulheres Camponesas do Brasil&nbsp;(MMC), Movimento dos Pequenos Agricultores (MPA),&nbsp;Pastoral da Juventude Rural e integrantes da Via Campesina.</p>
