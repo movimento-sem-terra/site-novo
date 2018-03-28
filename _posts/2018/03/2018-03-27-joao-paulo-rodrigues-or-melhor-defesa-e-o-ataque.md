@@ -4,12 +4,12 @@ tags:
   - tag: mobilizações
   - tag: lula
   - tag: luta-de-classes
-title: "João Paulo Rodrigues | Melhor defesa é o ataque\n"
+title: "João Paulo Rodrigues | Melhor defesa é o ataque"
 support_line: "\"2018 será marcado por uma nova etapa da luta política no Brasil, de agudização da luta de classes\" \n"
 menu: lutas e mobilizações
 images_hd: //farm1.staticflickr.com/795/39239881670_7d0061807c_b.jpg
 label: articles
-section: cover
+section: featured-news
 layout: post
 files:
   - link: //farm1.staticflickr.com/795/39239881670_7d0061807c_b.jpg
