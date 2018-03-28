@@ -39,6 +39,7 @@ releated_posts:
   - _posts/2018/02/2018-02-15-em-entrevista-joao-pedro-stedile-defende-que-lula-busque-registro-de-candidatura-com-apoio-das-forcas-sociais.md
   - _posts/2017/11/2017-11-03-em-nota-mst-condena-violencia-contra-manifestantes-no-mt.md
   - _posts/2017/12/2017-12-22-assembleia-dos-homens-debate-violencia-contra-as-mulheres-no-rio-grande-do-sul.md
+section: cover
 
 ---
 <p><br />
@@ -64,8 +65,7 @@ De acordo com Hoffmann (PT-RS), os organizadores da Caravana v&ecirc;m denunciad
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="41018450422_8c6c44119f_z.jpg" height="447" src="//farm1.staticflickr.com/799/39263683980_fb4a86bfe7_b.jpg" width="600" />
-<figcaption>&Ocirc;nibus com assessores do PT e convidados tamb&eacute;m foi alvejado/Daniel Giovanaz/Brasil de Fato<br />
-</figcaption>
+<figcaption>&Ocirc;nibus com assessores do PT e convidados tamb&eacute;m foi alvejado/Daniel Giovanaz/Brasil de Fato</figcaption>
 </figure>
 </div>
 
