@@ -5,7 +5,7 @@ tags:
   - tag: oficinas
   - tag: bahia
 title: "“Defender a saúde popular é defender a democracia e o povo”, afirma dirigente do MST\n"
-support_line: "Saúde popular e luta política são temas debatidos no 2º Seminário do Setor de Saúde do MST\n\n"
+support_line: Saúde popular e luta política são temas debatidos no 2º Seminário do Setor de Saúde do MST
 images_hd: //farm1.staticflickr.com/792/27206965348_cd647e43d7_b.jpg
 menu: projeto popular
 layout: post
@@ -113,20 +113,7 @@ De acordo com Aimbere Jardim, da dire&ccedil;&atilde;o estadual do MST, a inicia
 
 <p><br />
 O semin&aacute;rio prepara o coletivo da regi&atilde;o para o Encontro Estadual de Sa&uacute;de, que acontecer&aacute; no in&iacute;cio do segundo semestre, em parceria com outros movimentos sociais, universidades e com os coletivos de juventude, LGBT, comunica&ccedil;&atilde;o e g&ecirc;nero do MST.</p>
-&nbsp;
-
-<div>&nbsp;</div>
-
-<div>&nbsp;
-<p>&nbsp;</p>
 </div>
 </div>
-
-<div>&nbsp;</div>
-</div>
-
-<div>&nbsp;</div>
 </div>
 </div>
-
-<div id=":ur">&nbsp;</div>
