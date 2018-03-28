@@ -49,42 +49,31 @@ releated_posts:
 <div><em>Por Coletivo de Comunica&ccedil;&atilde;o do MST na Bahia<br />
 Da P&aacute;gina do MST</em></div>
 
-<div><br />
-<br />
-Dialogar sobre as lutas do MST; divulgar as a&ccedil;&otilde;es e projetos defendidos; e debater os avan&ccedil;os organizativos e pol&iacute;ticos conquistados com a Jornada Nacional de Luta das Mulheres Sem Terra. Esses foram alguns dos objetivos que nortearam a visita da milit&acirc;ncia do MST &agrave; Universidade Federal do Sul Baiano (UFSB), no &uacute;ltimo dia 14, na cidade de Teixeira de Freitas, no extremo sul do estado.</div>
-
-<div><br />
-<br />
-Durante a visita foi constru&iacute;do um bate-papo, onde pontuou-se a import&acirc;ncia da inser&ccedil;&atilde;o da Universidade nas lutas em defesa da Reforma Agr&aacute;ria Popular, principalmente, agora no m&ecirc;s mar&ccedil;o, quando se intensificam as ocupa&ccedil;&otilde;es de terra.</div>
-
-<div><br />
-Paralelo a isso, o MST debateu a constru&ccedil;&atilde;o de um projeto que trabalhe, em parceria com a UFSB, a realiza&ccedil;&atilde;o de feiras agroecol&oacute;gicas. Uma delas j&aacute; tem data marcada: 5 de abril.</div>
-
-<div><br />
-<br />
-As feiras cumprir&atilde;o o objetivo de divulgar a produ&ccedil;&atilde;o de alimentos dos assentamentos e acampamentos do MST, a partir de um espa&ccedil;o de comercializa&ccedil;&atilde;o de produtos livres de veneno.</div>
-
-<div><br />
-<br />
-Victor Passos, da dire&ccedil;&atilde;o estadual do MST, acredita que a constru&ccedil;&atilde;o de uma parceria com a academia fortalece a luta. &ldquo;Precisamos ampliar nossa luta e permanecer em resist&ecirc;ncia pelo direito a terra, moradia, alimenta&ccedil;&atilde;o saud&aacute;vel e bem estar social&rdquo;, explica.</div>
-
-<div><br />
-<br />
-&ldquo;Com a feira, al&eacute;m da comercializa&ccedil;&atilde;o de alimentos em Teixeira de Freitas e nos munic&iacute;pios pr&oacute;ximos, queremos levar a toda popula&ccedil;&atilde;o o debate da agroecologia&rdquo;, pontua Passos.</div>
-
-<div>&nbsp;</div>
-
-<div><br />
-Entusiasmados com a proposta de parceria, o corpo acad&ecirc;mico que recebeu os militantes Sem Terra destacou que o processo de forma&ccedil;&atilde;o e a garantia de um interc&acirc;mbio entre experi&ecirc;ncias produtivas e de resist&ecirc;ncia&nbsp;do MST, s&oacute; fortalecem a universidade e os movimentos camponeses.</div>
-
-<div>
 <div>&nbsp;</div>
 
 <div>&nbsp;</div>
-</div>
 
 <div>
 <p>&nbsp;</p>
+
+<p>Dialogar sobre as lutas do MST; divulgar as a&ccedil;&otilde;es e projetos defendidos; e debater os avan&ccedil;os organizativos e pol&iacute;ticos conquistados com a Jornada Nacional de Luta das Mulheres Sem Terra. Esses foram alguns dos objetivos que nortearam a visita da milit&acirc;ncia do MST &agrave; Universidade Federal do Sul Baiano (UFSB), no &uacute;ltimo dia 14, na cidade de Teixeira de Freitas, no extremo sul do estado.</p>
+
+<p><br />
+Durante a visita foi constru&iacute;do um bate-papo, onde pontuou-se a import&acirc;ncia da inser&ccedil;&atilde;o da Universidade nas lutas em defesa da Reforma Agr&aacute;ria Popular, principalmente, agora no m&ecirc;s mar&ccedil;o, quando se intensificam as ocupa&ccedil;&otilde;es de terra.</p>
+
+<p>Paralelo a isso, o MST debateu a constru&ccedil;&atilde;o de um projeto que trabalhe, em parceria com a UFSB, a realiza&ccedil;&atilde;o de feiras agroecol&oacute;gicas. Uma delas j&aacute; tem data marcada: 5 de abril.</p>
+
+<p><br />
+As feiras cumprir&atilde;o o objetivo de divulgar a produ&ccedil;&atilde;o de alimentos dos assentamentos e acampamentos do MST, a partir de um espa&ccedil;o de comercializa&ccedil;&atilde;o de produtos livres de veneno.</p>
+
+<p><br />
+Victor Passos, da dire&ccedil;&atilde;o estadual do MST, acredita que a constru&ccedil;&atilde;o de uma parceria com a academia fortalece a luta. &ldquo;Precisamos ampliar nossa luta e permanecer em resist&ecirc;ncia pelo direito a terra, moradia, alimenta&ccedil;&atilde;o saud&aacute;vel e bem estar social&rdquo;, explica.</p>
+
+<p><br />
+&ldquo;Com a feira, al&eacute;m da comercializa&ccedil;&atilde;o de alimentos em Teixeira de Freitas e nos munic&iacute;pios pr&oacute;ximos, queremos levar a toda popula&ccedil;&atilde;o o debate da agroecologia&rdquo;, pontua Passos.</p>
+
+<p><br />
+Entusiasmados com a proposta de parceria, o corpo acad&ecirc;mico que recebeu os militantes Sem Terra destacou que o processo de forma&ccedil;&atilde;o e a garantia de um interc&acirc;mbio entre experi&ecirc;ncias produtivas e de resist&ecirc;ncia do MST, s&oacute; fortalecem a universidade e os movimentos camponeses.</p>
 </div>
 </div>
 
