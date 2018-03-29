@@ -60,7 +60,7 @@ section: cover
 <p style="box-sizing: inherit; margin: 0px 0px 11px; font-size: 1.1em;">&nbsp;</p>
 </div>
 
-<p><em>Maura Silva&nbsp;<br />
+<p><em>Por Maura Silva&nbsp;<br />
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
