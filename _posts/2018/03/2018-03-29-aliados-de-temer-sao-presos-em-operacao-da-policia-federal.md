@@ -74,7 +74,7 @@ Al&eacute;m de sediar atividades regionais do PMDB, a propriedade funcionou como
 <p><br />
 <strong>Wagner Rossi&nbsp;</strong><br />
 <br />
-Seguindo com&nbsp;as den&uacute;ncias, em junho de 2017, o MST tamb&eacute;m ocupou a fazenda de Wagner Rossi, em Ribeir&atilde;o Preto, interior de S&atilde;o Paulo.&nbsp;</p>
+Seguindo com&nbsp;as den&uacute;ncias, em junho de 2017, o MST tamb&eacute;m <a href="http://www.mst.org.br/2017/06/30/mst-e-fbp-ocupam-fazenda-de-wagner-rossi-em-ribeirao-preto-sao-paulo.html">ocupou a fazenda de Wagner Rossi</a>, em Ribeir&atilde;o Preto, interior de S&atilde;o Paulo.&nbsp;</p>
 
 <p><br />
 Rossi,&nbsp;filiou-se ao Partido do Movimento Democr&aacute;tico Brasileiro (PMDB) no in&iacute;cio da d&eacute;cada de 1980, elegendo-se deputado estadual e deputado federal por diversas vezes. Afilhado de Michel Temer, ocupou in&uacute;meros cargos p&uacute;blicos; como Secret&aacute;rio da Educa&ccedil;&atilde;o do Estado de S&atilde;o Paulo, Secret&aacute;rio de Transportes; presidiu a Companhia Docas do Estado de S&atilde;o Paulo (CODESP) e a Companhia Nacional de Abastecimento, chegando ao Minist&eacute;rio da Agricultura durante o primeiro governo de Dilma Rousseff.&nbsp;</p>
