@@ -4,7 +4,7 @@ tags:
   - tag: indigenas
   - tag: demarcação-de-terras
   - tag: mobilizações
-title: Convocatória do Acampamento Terra Livre (ATL) 2018
+title: "Em Brasília, indígenas realizam Acampamento Terra Livre"
 images_hd: //farm1.staticflickr.com/899/40386694474_507da9acc2_b.jpg
 support_line: "a Articulação dos Povos Indígenas do Brasil convoca aos povos e organizações indígenas de todas as regiões do país para a maior mobilização nacional indígena do ano "
 menu: lutas e mobilizações
@@ -28,8 +28,6 @@ releated_posts:
 
 ---
 <p style="text-align:center"><img alt="Artboard-1-copyatl.png" height="371" src="//farm1.staticflickr.com/899/40386694474_507da9acc2_b.jpg" width="600" /></p>
-
-<p>&nbsp;</p>
 
 <p>&nbsp;</p>
 
