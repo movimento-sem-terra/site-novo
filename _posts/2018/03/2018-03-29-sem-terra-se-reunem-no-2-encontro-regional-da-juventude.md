@@ -37,12 +37,6 @@ releated_posts:
   - _posts/2017/08/2017-08-18-juventude-ocupa-unidade-de-universidade-publica-no-para.md
 
 ---
-<div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="cxcx.png" height="235" src="//farm1.staticflickr.com/886/41052391052_74ce7b4cb6_b.jpg" width="500" />
-<figcaption>Divulga&ccedil;&atilde;o/MST</figcaption>
-</figure>
-</div>
-
 <div style="box-sizing: inherit; color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;">&nbsp;</div>
 
 <div>&nbsp;</div>
@@ -59,8 +53,13 @@ Da P&aacute;gina do MST</em></div>
 <p><br />
 Para uma das integrantes do coletivo de juventude do MST, Eleojane, o encontro serviu para corroborar o compromisso dos jovens do MST de defender a democracia e lutar contra a retirada de direitos da classe trabalhadora.</p>
 
-<p><br />
-&quot;Cabe as organiza&ccedil;&otilde;es sociais investir&nbsp;no trabalho de base, na forma&ccedil;&atilde;o, na pol&iacute;tica de alian&ccedil;as e, em especial, na juventude, por isso, n&oacute;s do MST estamos mobilizando os jovens&nbsp;em todos os estados onde o Movimento est&aacute;&nbsp;organizado&nbsp;para assumir de forma protagonista as tarefas do atual per&iacute;odo pol&iacute;tico em que vivemos&quot;.</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="cxcx.png" height="141" src="//farm1.staticflickr.com/886/41052391052_74ce7b4cb6_b.jpg" width="300" />
+<figcaption>Divulga&ccedil;&atilde;o/MST</figcaption>
+</figure>
+
+<p>&quot;Cabe as organiza&ccedil;&otilde;es sociais investir&nbsp;no trabalho de base, na forma&ccedil;&atilde;o, na pol&iacute;tica de alian&ccedil;as e, em especial, na juventude, por isso, n&oacute;s do MST estamos mobilizando os jovens&nbsp;em todos os estados onde o Movimento est&aacute;&nbsp;organizado&nbsp;para assumir de forma protagonista as tarefas do atual per&iacute;odo pol&iacute;tico em que vivemos&quot;.</p>
 
 <p><br />
 A regi&atilde;o onde foi realizado o encontro conta com&nbsp;aproximadamente 2000 mil fam&iacute;lias assentadas em 17 &agrave;&nbsp;margem do Rio S&atilde;o Francisco. A&nbsp;produ&ccedil;&atilde;o das fam&iacute;lias fica por conta da&nbsp;fruticultura irrigada, que garante um alto potencial de renda aos Sem Terra.</p>
