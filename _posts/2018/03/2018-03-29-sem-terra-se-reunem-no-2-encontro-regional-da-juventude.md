@@ -6,7 +6,7 @@ tags:
   - tag: mobilizações
 images_hd: //farm1.staticflickr.com/809/41052370202_6b591264af_b.jpg
 menu: "educação, cultura e comunicação"
-title: "Sem Terra se reúnem no 2° Encontro Regional da Juventude "
+title: "Sem Terra se reúnem em Pernambuco para 2° Encontro Regional da Juventude "
 support_line: "A atividade, que também serviu de preparação para o 1° Encontro Nacional da Juventude de Maricá"
 layout: post
 files:
