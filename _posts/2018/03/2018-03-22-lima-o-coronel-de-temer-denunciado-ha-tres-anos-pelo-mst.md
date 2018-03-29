@@ -45,6 +45,7 @@ releated_posts:
   - _posts/2018/03/2018-03-07-mst-ocupa-fazenda-esmeralda-ligada-a-michel-temer-em-esquema-de-corrupcao.md
   - _posts/2018/03/2018-03-13-carta-aberta-a-sociedade-por-que-o-mst-ocupa-a-fazenda-de-temer.md
   - _posts/2017/12/2017-12-28-os-dez-piores-acontecimentos-de-2017-que-afetaram-a-vida-do-povo-brasileiro.md
+section: cover
 
 ---
 <p>&nbsp;</p>
