@@ -8,7 +8,7 @@ title: "Cinco de anos de dor e impunidade. Entenda o caso do Sem Terra Fábio Sa
 support_line: "Todo processo está marcado por um conjunto de fatos que não o fazem andar\n"
 images_hd: //farm1.staticflickr.com/797/41146699822_599559d67e_b.jpg
 menu: direitos humanos
-label: articles
+label: null
 layout: post
 files:
   - link: //farm1.staticflickr.com/797/41146699822_599559d67e_b.jpg
