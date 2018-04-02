@@ -4,7 +4,7 @@ tags:
   - tag: homenagem
   - tag: lutadores-e-lutadoras-do-povo
   - tag: direitos-humanos
-title: Sem Terra é homenageada com Medalha Chico Mendes de resistência
+title: "Sem Terra é homenageada com Medalha Chico Mendes "
 support_line: "Fabiana Braga foi presa injustamente em outubro de 2016 por ter participado de uma manifestação contra empresa Araupel, organizada pelas mulheres da Via Campesin"
 menu: direitos humanos
 images_hd: //farm1.staticflickr.com/867/41187978651_900444e2d2_b.jpg
