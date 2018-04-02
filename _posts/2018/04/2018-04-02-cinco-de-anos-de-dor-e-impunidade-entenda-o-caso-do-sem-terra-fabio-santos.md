@@ -4,7 +4,7 @@ tags:
   - tag: violência-no-campo
   - tag: impunidade
   - tag: direitos-humanos
-title: "Cinco de anos de dor e impunidade. Entenda o caso do Sem Terra Fábio Santos\n"
+title: "Cinco anos de dor e impunidade. Entenda o caso do Sem Terra Fábio Santos\n"
 support_line: "Todo processo está marcado por um conjunto de fatos que não o fazem andar\n"
 images_hd: //farm1.staticflickr.com/797/41146699822_599559d67e_b.jpg
 menu: direitos humanos
@@ -60,7 +60,7 @@ Qualquer cen&aacute;rio que justifique a declara&ccedil;&atilde;o de suspeito do
 O crime aconteceu em Igua&iacute;. O juiz da comarca se deu por suspeito e o processo foi designado encaminhado para comarca de Po&ccedil;&otilde;es. Em Po&ccedil;&otilde;es n&atilde;o h&aacute; titular, o substituto &eacute; justamente o de Igua&iacute;.</p>
 
 <p><br />
-Logo ap&oacute;s, a comarca Po&ccedil;&otilde;es foi substitu&iacute;da pela de Planalto. A ju&iacute;za tamb&eacute;m se deu por suspeita. Ent&atilde;o o Tribunal de Justi&ccedil;a Federal (TJF) fez um sorteio para um juiz ou ju&iacute;za assumir o processo e caiu com a ju&iacute;za do munic&iacute;pio de Encruzilhada, Dra. Adiane Jaqueline Neves da Silva Oliveira.</p>
+Logo ap&oacute;s, a comarca Po&ccedil;&otilde;es foi substitu&iacute;da pela de Planalto. A ju&iacute;za tamb&eacute;m se deu por suspeita. Ent&atilde;o o Tribunal de Justi&ccedil;a&nbsp;(TJ) fez um sorteio para um juiz ou ju&iacute;za assumir o processo e caiu com a ju&iacute;za do munic&iacute;pio de Encruzilhada, Dra. Adiane Jaqueline Neves da Silva Oliveira.</p>
 
 <p><br />
 A mesma foi promovida para a comarca de Itamb&eacute; e o processo ficou em Encruzilhada. O juiz substituto de Encruzilhada entendeu que o processo n&atilde;o foi sorteado para a comarca, mas sim para a ju&iacute;za, e determinou que fosse para Itamb&eacute;. O processo saiu de Encruzilhada em janeiro deste ano e at&eacute; o dia 12 de mar&ccedil;o n&atilde;o tinha chegado em Itamb&eacute;.</p>
