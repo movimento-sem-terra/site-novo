@@ -7,7 +7,7 @@ tags:
 title: "Sem Terra é homenageada com Medalha Chico Mendes "
 support_line: "Fabiana Braga foi presa injustamente em outubro de 2016 por ter participado de uma manifestação contra empresa Araupel, organizada pelas mulheres da Via Campesin"
 menu: direitos humanos
-images_hd: //farm1.staticflickr.com/867/41187978651_900444e2d2_b.jpg
+images_hd: //farm1.staticflickr.com/785/41189076981_475d2e1ab6_b.jpg
 layout: post
 files:
   - link: //farm1.staticflickr.com/867/41187978651_900444e2d2_b.jpg
@@ -17,6 +17,13 @@ files:
     small: //farm1.staticflickr.com/867/41187978651_900444e2d2_n.jpg
     title: 33777716660_e82356046d_b.jpg
     $$hashKey: 058
+  - link: //farm1.staticflickr.com/785/41189076981_475d2e1ab6_b.jpg
+    original: //farm1.staticflickr.com/785/41189076981_8b9ea5e251_o.jpg
+    thumbnail: //farm1.staticflickr.com/785/41189076981_475d2e1ab6_t.jpg
+    medium: //farm1.staticflickr.com/785/41189076981_475d2e1ab6_z.jpg
+    small: //farm1.staticflickr.com/785/41189076981_475d2e1ab6_n.jpg
+    title: 34735931375_29061897f4_b.jpg
+    $$hashKey: 0ER
 created_date: "2018-04-02T13:27:57-03:00"
 published: true
 releated_posts:
