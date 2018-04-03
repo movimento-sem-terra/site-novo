@@ -4,7 +4,7 @@ tags:
   - tag: feira-da-reforma-agrária
   - tag: alimentos-saudáveis
   - tag: nossa-produção
-title: MST lança 3ª Feira Nacional da Reforma Agrária nesta sexta-feira
+title: Lançamento da 3ª Feira Nacional da Reforma Agrária acontece nesta sexta-feira
 support_line: Evento político cultural reúne militantes e apoiadores da Reforma Agrária em São Paulo.
 menu: reforma agrária
 section: cover
