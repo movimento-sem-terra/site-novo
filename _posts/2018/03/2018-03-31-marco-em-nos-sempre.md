@@ -9,7 +9,7 @@ support_line: Crescemos somente na ousadia.
 menu: lutas e mobilizações
 special-page: jornada-mulheres-2018
 label: articles
-section: cover
+section: featured-news
 images_hd: //farm1.staticflickr.com/807/40243503995_982360b7be_b.jpg
 layout: post
 files:
