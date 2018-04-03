@@ -32,7 +32,7 @@ releated_posts:
   - _posts/2017/08/2017-08-31-vai-ter-feira-da-reforma-agraria-nos-30-anos-do-mst-na-bahia.md
 
 ---
-<p>&nbsp;</p>
+<p><img alt="34307618392_ef80d05935_k.jpg" height="463" src="//farm1.staticflickr.com/863/27339257058_e75e117033_b.jpg" width="700" /></p>
 
 <p>&nbsp;</p>
 
