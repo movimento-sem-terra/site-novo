@@ -70,7 +70,13 @@ A conquista recebeu financiamento p&uacute;blico do Fundo Social de Apoio &agrav
 </div>
 
 <p><br />
-Avalia ainda que dos 7 projetos aprovados nos assentamentos do MST, 4 foram de aquisi&ccedil;&atilde;o de m&aacute;quinas e equipamentos e apenas 3 mantiveram esta perspectiva mais estrutural. A agroind&uacute;stria As Camponesas foi o primeiro destes 3 projetos 999que conseguiu romper com a burocracia excessiva do governo, com destaque ao protagonismo das mulheres auto- organizadas.</p>
+Avalia ainda que dos sete&nbsp;projetos aprovados nos assentamentos do MST, quatro&nbsp;foram de aquisi&ccedil;&atilde;o de m&aacute;quinas e equipamentos e apenas tr&ecirc;s&nbsp;mantiveram a&nbsp;perspectiva mais estrutural. A agroind&uacute;stria tamb&eacute;m&nbsp;foi o primeiro destes 3 projetos que conseguiu romper com a burocracia excessiva do governo, com destaque para o&nbsp;protagonismo das mulheres auto- organizadas.</p>
 
 <p><br />
 No ato da inaugura&ccedil;&atilde;o, assentados e agricultores familiares da regi&atilde;o fizeram uma m&iacute;stica em homenagem &agrave; companheira Virg&iacute;nia Xavier de Almeida e ao companheiro Jos&eacute; Marcos de Ara&uacute;jo, por toda a dedica&ccedil;&atilde;o de vida que deram &agrave; constru&ccedil;&atilde;o da regional do MST. A agroind&uacute;stria As Camponesas constitui assim, mais um importante passo na constru&ccedil;&atilde;o da Reforma Agr&aacute;ria Popular.</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><em>*Editado por Maura Silva&nbsp;</em></p>
