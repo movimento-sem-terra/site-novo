@@ -31,4 +31,14 @@ releated_posts:
   - _posts/2018/03/2018-03-22-caravana-no-rs-lula-destaca-a-importancia-da-educacao-para-o-desenvolvimento-do-pais.md
 
 ---
-<p>&lt;a class=&quot;twitter-timeline&quot; data-partner=&quot;tweetdeck&quot; href=&quot;https://twitter.com/Brasil_de_Fato/timelines/981512350724427777?ref_src=twsrc%5Etfw&quot;&gt;#LulaLivre - Curated tweets by Brasil_de_Fato&lt;/a&gt; &lt;script async src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;</p>
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><em>Do Brasil de Fato</em></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><a class="twitter-timeline" data-partner="tweetdeck" href="https://twitter.com/Brasil_de_Fato/timelines/981512350724427777?ref_src=twsrc%5Etfw">#LulaLivre - Curated tweets by Brasil_de_Fato</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
