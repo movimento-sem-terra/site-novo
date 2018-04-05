@@ -5,7 +5,7 @@ tags:
   - tag: lutas-e-mobilizações
   - tag: democracia
   - tag: lula
-title: "Em Brasília, Movimentos fazem ato em defesa da democracia do direito de Lula se candidatar"
+title: "Em Brasília, movimentos fazem ato em defesa da democracia e do direito de Lula se candidatar"
 support_line: A manifestação ocorreu diante do julgamento do mérito do habeas corpus do ex-presidente pelo STF.
 menu: lutas e mobilizações
 images_hd: //farm1.staticflickr.com/891/26387963587_f5e5d0feb0_b.jpg
