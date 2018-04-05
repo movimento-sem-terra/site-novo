@@ -4,8 +4,8 @@ tags:
   - tag: lula
   - tag: julgamento
   - tag: mobilizações
-title: "MINUTO A MINUTO: JULGAMENTO DO STF MOBILIZA POPULAÇÃO EM DEFESA DE LULA E DEMOCRACIA\n"
-support_line: "Acompanhe em tempo real todas as mobilizações em torno do julgamento do Habeas Corpus preventivo do ex-presidente no STF\n\n"
+title: Julgamento do STF mobiliza população em defesa Lula e Democracia
+support_line: Acompanhe em tempo real todas as mobilizações em torno do julgamento do Habeas Corpus preventivo do ex-presidente no STF
 menu: lutas e mobilizações
 images_hd: //farm1.staticflickr.com/796/40517568164_66e08ef29f_b.jpg
 layout: post
