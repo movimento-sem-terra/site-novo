@@ -7,7 +7,7 @@ tags:
 title: Lançamento da 3ª Feira Nacional da Reforma Agrária acontece nesta sexta-feira
 support_line: Evento político cultural reúne militantes e apoiadores da Reforma Agrária em São Paulo.
 menu: reforma agrária
-section: cover
+section: featured-news
 images_hd: //farm1.staticflickr.com/863/27339257058_e75e117033_b.jpg
 layout: post
 files:
