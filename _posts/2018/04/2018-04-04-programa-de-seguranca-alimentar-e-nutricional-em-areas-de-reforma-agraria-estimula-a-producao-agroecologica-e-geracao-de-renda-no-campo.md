@@ -4,8 +4,8 @@ tags:
   - tag: apicultura
   - tag: agroecologia
   - tag: reforma-agrária
-title: "Programa de Segurança Alimentar e Nutricional em áreas de Reforma Agrária estimula a produção agroecológica e geração de renda no campo\n"
-support_line: "Ao todo, quatro mil famílias de acampamentos e pré-assentamentos do MST em Minas Gerais foram beneficiadas pelo plano emergencial"
+title: "Programa de Segurança Alimentar estimula a produção agroecológica e gera renda no campo\n"
+support_line: "Ao todo, quatro mil famílias de acampamentos e pré-assentamentos do MST em Minas Gerais foram beneficiadas pelo plano emergencial."
 images_hd: //farm1.staticflickr.com/872/41188848692_c47fe21f82_b.jpg
 menu: agricultura camponesa
 layout: post
