@@ -4,8 +4,8 @@ tags:
   - tag: frente-brasil-popular
   - tag: democracia
   - tag: lula
-title: "Resistir, Defender a liberdade de Lula e lutar por eleições livres e democráticas"
-support_line: "o negar o princípio da presunção da inocência do ex-presidente Luiz Inácio Lula da Silva, o Supremo assumiu descaradamente que sempre fez parte do golpe."
+title: "Resistir, defender a liberdade de Lula e lutar por eleições livres e democráticas"
+support_line: "Negar o princípio da presunção da inocência do ex-presidente Luiz Inácio Lula da Silva, o Supremo assumiu descaradamente que sempre fez parte do golpe."
 menu: direitos humanos
 section: cover
 images_hd: //farm1.staticflickr.com/900/41216115172_06a0aa1da0_b.jpg
@@ -28,11 +28,11 @@ releated_posts:
   - _posts/2018/03/2018-03-27-joao-paulo-rodrigues-or-melhor-defesa-e-o-ataque.md
 
 ---
-<p>&nbsp;</p>
+<p><img alt="WhatsApp Image 2018-04-05 at 09.50.57.jpeg" height="700" src="//farm1.staticflickr.com/900/41216115172_06a0aa1da0_b.jpg" width="700" /></p>
 
 <p>&nbsp;</p>
 
-<p>Da Frente Brasil Popular</p>
+<p><em>Da Frente Brasil Popular</em></p>
 
 <p>&nbsp;</p>
 
