@@ -99,8 +99,7 @@ A perspectiva &eacute; de resist&ecirc;ncia democr&aacute;tica e de manuten&cced
 <p><br />
 <strong>Confira abaixo onde ocorreram as a&ccedil;&otilde;es.</strong></p>
 
-<p><br />
-Em Mato Grosso do Sul cerca de 500 Sem Terra trancaram as BRs 163 em Itaquirai, a 262 na altura de Dois Irm&atilde;os do Buriti, a 267 Casa Verde. J&aacute; no Mato Grosso, a BR 364 foi trancada na altura de Jaciara.</p>
+<p>&nbsp;</p>
 
 <p><br />
 No sul do pa&iacute;s, as mobiliza&ccedil;&otilde;es se iniciaram logo cedo com a ocupa&ccedil;&atilde;o das rodovias 473, Quedas do liga Quedas do Igua&ccedil;u a S&atilde;o Jorge d&#39;Oeste, no Paran&aacute;. Al&eacute;m das BRs 158, entre Rio Bonito do Igua&ccedil;u e Laranjeiras do Sul e a PR 170, Jo&atilde;o Lunardelli, entre Porecatu e Florest&oacute;polis. Ao todo mais de 3 mil Sem Terra foram mobilizados.</p>
@@ -125,4 +124,19 @@ Em Santa Catarina, a BR 116 foi trancada na altura de S&atilde;o Crist&oacute;v&
 </style>
 </p>
 
-<p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
+<p><br />
+No Rio Grande do Sul, apoiadores de Lula tomam as ruas de Pelotas, na regi&atilde;o Sul do estado e o&nbsp;MST tranca o Trevo da Vila Oper&aacute;ria, na BR-293, em Candiota, na regi&atilde;o da Campanha.&nbsp;</p>
+
+<p><br />
+O MST bloqueou a rodovia Castelo Branco no munic&iacute;pio de Iaras, km 208, em S&atilde;o Paulo. Tamb&eacute;m trancou a SP 258 no trevo de Itaber&aacute; e ocupou a rodovia Anhanguera em Ribeir&atilde;o Preto. No munic&iacute;pio de Promiss&atilde;o fecharam a BR 153 Transbrasiliana.&nbsp;</p>
+
+<p><br />
+Em Minas Gerais, na capital do estado, Belo Horizonte, os Sem Terra realizaram escracho na casa de Carmem L&uacute;cia, ministra do Supremo Tribunal Federal, junto com outros movimentos. Al&eacute;m disso, fecharam as BRs 381 (Fern&atilde;o Dias), que d&aacute; acesso de S&atilde;o Paulo &agrave; capital de Mineira e a 116 em Frei Inoc&ecirc;ncio.&nbsp;</p>
+
+<p style="line-height: 15.6px;"><br />
+Em Mato Grosso do Sul cerca de 500 Sem Terra trancaram as BRs 163 em Itaquirai, a 262 na altura de Dois Irm&atilde;os do Buriti, a 267 Casa Verde. J&aacute; no Mato Grosso, a BR 364 foi trancada na altura de Jaciara.</p>
+
+<p style="line-height: 15.6px;"><br />
+No DF. neste momento, cerca de mil pessoas se re&uacute;nem na Pra&ccedil;a Zumbi dos Palmares em Bras&iacute;lia para defender o Lula e protestar contra sua pris&atilde;o arbitr&aacute;ria.&nbsp;J&aacute; em Rond&ocirc;nia, cerca de 200 fam&iacute;lias trancaram&nbsp;a BR 364 que d&aacute; acesso &agrave; Porto Velho capital do estado.&nbsp;</p>
+
+<p style="line-height: 15.6px;">&nbsp;</p>
