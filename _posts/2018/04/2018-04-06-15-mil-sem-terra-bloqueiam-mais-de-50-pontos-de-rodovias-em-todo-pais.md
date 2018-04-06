@@ -38,6 +38,13 @@ files:
     small: //farm1.staticflickr.com/790/40386635725_176ef21cb9_n.jpg
     title: WhatsApp Image 2018-04-06 at 18.47.16.jpeg
     $$hashKey: 0B6
+  - link: //farm1.staticflickr.com/886/26411431457_4835f0e416_b.jpg
+    original: //farm1.staticflickr.com/886/26411431457_dca4786ca2_o.jpg
+    thumbnail: //farm1.staticflickr.com/886/26411431457_4835f0e416_t.jpg
+    medium: //farm1.staticflickr.com/886/26411431457_4835f0e416_z.jpg
+    small: //farm1.staticflickr.com/886/26411431457_4835f0e416_n.jpg
+    title: 29792926_2001014276637943_7874692721829478400_n.jpg
+    $$hashKey: 0GP
 created_date: "2018-04-06T16:31:02-03:00"
 published: true
 releated_posts:
@@ -74,7 +81,7 @@ Foram mobilizados 16 estados e o Distrito Federal com cerca de 20 mil trabalhado
 &ldquo;Estamos em resist&ecirc;ncia contra a pris&atilde;o do presidente Lula. A delibera&ccedil;&atilde;o pol&iacute;tica das frentes Brasil Popular e Povo Sem Medo &eacute; essa. N&atilde;o vamos deixar Lula se entregar, seja na cidade de S&atilde;o Paulo ou em Curitiba&rdquo;, adverte Jo&atilde;o Paulo Rodrigues, da dire&ccedil;&atilde;o nacional do MST.&nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="ecb5e818-85cd-4b5e-b505-504f2c205568.jpeg" height="338" src="//farm1.staticflickr.com/807/27410701118_e675cee18c_b.jpg" width="450" />
-<figcaption><em>Trancamento de BR na Bahia. Divulga&ccedil;&atilde;o/MST</em></figcaption>
+<figcaption><em>Trancamento de BR na Bahia. Foto: Divulga&ccedil;&atilde;o MST</em></figcaption>
 </figure>
 
 <p><br />
@@ -92,6 +99,30 @@ A perspectiva &eacute; de resist&ecirc;ncia democr&aacute;tica e de manuten&cced
 <p><br />
 <strong>Confira abaixo onde ocorreram as a&ccedil;&otilde;es.</strong></p>
 
-<p>&nbsp;</p>
+<p><br />
+Em Mato Grosso do Sul cerca de 500 Sem Terra trancaram as BRs 163 em Itaquirai, a 262 na altura de Dois Irm&atilde;os do Buriti, a 267 Casa Verde. J&aacute; no Mato Grosso, a BR 364 foi trancada na altura de Jaciara.</p>
+
+<p><br />
+No sul do pa&iacute;s, as mobiliza&ccedil;&otilde;es se iniciaram logo cedo com a ocupa&ccedil;&atilde;o das rodovias 473, Quedas do liga Quedas do Igua&ccedil;u a S&atilde;o Jorge d&#39;Oeste, no Paran&aacute;. Al&eacute;m das BRs 158, entre Rio Bonito do Igua&ccedil;u e Laranjeiras do Sul e a PR 170, Jo&atilde;o Lunardelli, entre Porecatu e Florest&oacute;polis. Ao todo mais de 3 mil Sem Terra foram mobilizados.</p>
 
 <p>&nbsp;</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="29792926_2001014276637943_7874692721829478400_n.jpg" height="394" src="//farm1.staticflickr.com/886/26411431457_4835f0e416_b.jpg" width="700" />
+<figcaption><em>A&ccedil;&otilde;es no Paran&aacute; come&ccedil;aram no in&iacute;cio da manh&atilde; desta sexta-feira, 06. Foto: Divulgga&ccedil;&atilde;o MST</em></figcaption>
+</figure>
+</div>
+
+<p><br />
+A sede da Associa&ccedil;&atilde;o Comercial de Maring&aacute; (ACIM) amanheceu pichada com a frase &quot;Lula livre&quot;. A&ccedil;&otilde;es parecidas ocorreram em todo Brasil, assim como o trancamento de rodovias. Os atos s&atilde;o contra a pris&atilde;o do ex-presidente Lula, decretada no fim da tarde desta quinta-feira pelo juiz de primeira inst&acirc;ncia Sergio Moro.</p>
+
+<p><br />
+Em Santa Catarina, a BR 116 foi trancada na altura de S&atilde;o Crist&oacute;v&atilde;o e em Xanxer&ecirc; o povo Sem Terra realizou uma marcha com cerca de 800 trabalhadores e trabalhadoras.</p>
+
+<p>
+<style type="text/css">@page { margin: 2cm }
+		p { margin-bottom: 0.25cm; line-height: 120% }
+</style>
+</p>
+
+<p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
