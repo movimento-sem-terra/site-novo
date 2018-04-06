@@ -190,3 +190,9 @@ Os Sem Terra tamb&eacute;m bloquearam&nbsp; a BR 020, no munic&iacute;pio de Boa
 
 <p><br />
 Em Tamboril, tamb&eacute;m houve marcha pelo centro da cidade, e em Crate&uacute;s, os movimentos populares j&aacute; iniciam a concentra&ccedil;&atilde;o na pra&ccedil;a dos Pirulitos, em frente ao monumento Comuna Prestes.</p>
+
+<p><br />
+Na Para&iacute;ba, Sem Terra sofreu tentativa de homic&iacute;dio pela direita em bloqueio de BR 101. Um homem ainda n&atilde;o identificado furou o bloqueio e atirou com arma de fogo contra Lindinalva Pereira de Lima Filha. A trabalhadora Sem Terra precisou ser encaminhada para o hospital.&nbsp;</p>
+
+<p><br />
+A BR 230, entre Jo&atilde;o Pessoa e Campina Grande, tamb&eacute;m foi trancada e em Pedra do Fogo a PB 250. Ao todo cerca de 750 Sem Terra foram mobilizados.&nbsp;</p>
