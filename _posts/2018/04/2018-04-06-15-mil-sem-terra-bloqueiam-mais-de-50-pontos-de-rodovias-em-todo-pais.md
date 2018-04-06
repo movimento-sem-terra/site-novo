@@ -202,3 +202,15 @@ No Piau&iacute;, a BR 360 foi trancada. Em Sergipe, a a&ccedil;&atilde;o ocorreu
 
 <p><br />
 As Frentes Brasil Popular e Povo Sem Medo bloquearam ainda as vias de acesso &agrave; TV Gazeta, afiliada da Rede Globo em Alagoas, na defesa de Lula e da democracia.</p>
+
+<p><br />
+Seguindo a luta em defesa de Lula e da democracia, no Rio Grande do Norte o MST trancou a BR 406, que d&aacute; acesso ao Aeroporto Internacional Augusto Severo</p>
+
+<p><br />
+Nesse processo amplo de mobiliza&ccedil;&atilde;o, a regi&atilde;o norte esteve mobilizada no Par&aacute; com o trancamento da BR 155, em Marab&aacute;. Em Santa Luzia do Par&aacute;, Sem Terra, sindicalistas, professores e estudantes se re&uacute;nem em frente a sede do STTR (Sindicato dos Trabalhadores Rurais) e realizam ato Pol&iacute;tico e Cultural em apoio ao ex-presidente Lula.&nbsp;</p>
+
+<p><br />
+No Maranh&atilde;o, na capital S&atilde;o Lu&iacute;s, houve um ato que reuniu cerca de 1500 pessoas e trancou avenidas e ponte pela cidade. No interior do estado BRs foram fechadas em Igarap&eacute; do Meio a 222, em Acail&acirc;ndia a 010 e em Pindar&eacute; Mirim um ato reuniu acampados do MST.</p>
+
+<p><br />
+<em>*As informa&ccedil;&otilde;es seguem atualizadas de acordo os atos que ocorrem nos estados.&nbsp;</em></p>
