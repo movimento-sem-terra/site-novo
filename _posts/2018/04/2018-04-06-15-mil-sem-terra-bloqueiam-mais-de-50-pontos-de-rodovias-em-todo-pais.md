@@ -4,8 +4,8 @@ tags:
   - tag: lula
   - tag: prisão
   - tag: mobilizações
-title: "15 mil Sem Terra bloqueiam mais de 50 pontos de rodovias em todo país\n"
-support_line: "Manifestações exigem a liberdade para o ex-presidente Lula, no dia de sua possível prisão\n"
+title: 15 mil Sem Terra bloqueiam mais de 50 pontos de rodovias em todo país
+support_line: "Manifestações exigem a liberdade para o ex-presidente Lula, no dia de sua possível prisão"
 menu: lutas e mobilizações
 images_hd: //farm1.staticflickr.com/900/39471569510_8f070e59d4_b.jpg
 layout: post
@@ -48,7 +48,7 @@ section: cover
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2018-04-06 at 08.45.51 (1).jpeg" height="450" src="//farm1.staticflickr.com/800/41237802992_49379e42de_b.jpg" width="600" />
-<figcaption>Divulga&ccedil;&atilde;o/MST</figcaption>
+<figcaption><em>Divulga&ccedil;&atilde;o/MST</em></figcaption>
 </figure>
 </div>
 
@@ -65,9 +65,11 @@ As mobiliza&ccedil;&otilde;es acontecem at&eacute; agora em 16 estados: Bahia, S
 <p><br />
 Al&eacute;m dos bloqueios de rodovias, uma multid&atilde;o n&atilde;o para de chegar ao Sindicato dos Metal&uacute;rgicos do ABC, em S&atilde;o Bernardo do Campo. Uma vig&iacute;lia democr&aacute;tica dos movimentos populares acompanha Lula durante o dia de hoje no sindicato. A decis&atilde;o das Frentes Povo Sem Medo e Brasil Popular &eacute; de resistir e n&atilde;o deixar a pol&iacute;cia executar o mandado de pris&atilde;o.</p>
 
+<p>&nbsp;</p>
+
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2018-04-06 at 15.19.20.jpeg" height="338" src="//farm1.staticflickr.com/783/27408486678_aa3505618d_b.jpg" width="600" />
-<figcaption>Divulga&ccedil;&atilde;o/MST</figcaption>
+<figcaption><em>Divulga&ccedil;&atilde;o/MST</em></figcaption>
 </figure>
 </div>
 
@@ -80,5 +82,3 @@ A popula&ccedil;&atilde;o mostra sua indigna&ccedil;&atilde;o com a pris&atilde;
 
 <p><br />
 A perspectiva &eacute; de resist&ecirc;ncia democr&aacute;tica e de manuten&ccedil;&atilde;o da vig&iacute;lia em todo o pa&iacute;s.</p>
-
-<p>&nbsp;</p>
