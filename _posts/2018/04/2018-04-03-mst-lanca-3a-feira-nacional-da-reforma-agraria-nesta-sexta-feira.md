@@ -19,7 +19,7 @@ files:
     title: 34307618392_ef80d05935_k.jpg
     $$hashKey: "033"
 created_date: "2018-04-03T14:23:33-03:00"
-published: true
+published: false
 releated_posts:
   - _posts/2017/09/2017-09-11-mst-realiza-a-ii-feira-de-produtos-da-reforma-agraria-do-espirito-santo.md
   - _posts/2017/10/2017-10-09-mst-leva-producao-saudavel-para-paraiba.md
