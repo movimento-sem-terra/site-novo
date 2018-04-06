@@ -5,7 +5,7 @@ tags:
   - tag: prisão
   - tag: mobilizações
 title: "15 mil Sem Terra bloqueiam mais de 50 pontos de rodovias em todo país\n"
-support_line: "Manifestações de camponeses em 16 estados exigem a liberdade para o ex-presidente Lula, no dia de sua possível prisão\n"
+support_line: "Manifestações exigem a liberdade para o ex-presidente Lula, no dia de sua possível prisão\n"
 menu: lutas e mobilizações
 images_hd: //farm1.staticflickr.com/900/39471569510_8f070e59d4_b.jpg
 layout: post
