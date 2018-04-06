@@ -144,3 +144,19 @@ Em Mato Grosso do Sul cerca de 500 Sem Terra trancaram as BRs 163 em Itaquirai, 
 
 <p style="line-height: 15.6px;"><br />
 No DF. neste momento, cerca de mil pessoas se re&uacute;nem na Pra&ccedil;a Zumbi dos Palmares em Bras&iacute;lia para defender o Lula e protestar contra sua pris&atilde;o arbitr&aacute;ria.&nbsp;J&aacute; em Rond&ocirc;nia, cerca de 200 fam&iacute;lias trancaram&nbsp;a BR 364 que d&aacute; acesso &agrave; Porto Velho capital do estado. Em Jaciara (MT), os&nbsp;Sem Terra trancaram a BR 364 contra a pris&atilde;o do ex-presidente Lula.&nbsp;&nbsp;</p>
+
+<p><br />
+Na regi&atilde;o nordeste, somente na Bahia, foram trancadas 12 pontos de 7 rodovias mobilizando cerca de 6 mil Sem Terra. :&nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="74f57b29-eedf-45b7-b7fe-d3d6cb5c3494.jpeg" height="338" src="//farm1.staticflickr.com/805/40386596485_e0b53b170b_b.jpg" width="450" />
+<figcaption><em>Trancamento da BA 367, no extremo sul da Bahia. Foto: Divulga&ccedil;&atilde;o MST</em></figcaption>
+</figure>
+
+<p><br />
+A BR 101 foi trancada em seis pontos, no km 832 em Itamaraju, Eun&aacute;polis, no Trevo de Teixeira de Freitas e no km 763 em Itabela, todos munic&iacute;pios no extremo sul do estado. Subindo a regi&atilde;o, a mesma BR foi parada em Arataca e Ibirapitanga.</p>
+
+<p><br />
+Ainda no extremo sul da Bahia, foram paradas as BAs 290, em Alcoba&ccedil;a e a 367, em Eun&aacute;polis sentido Porto Seguro, e a BA 330, em Jita&uacute;na na regi&atilde;o baixo sul do estado. Tamb&eacute;m foram trancadas as BRs 235, em Casa Nova, a 116, em Paulo Afonso e a 001, em Costa do Dend&ecirc; - Nilo Pe&ccedil;anha.&nbsp;</p>
+
+<p><br />
+Os Sem Terra tamb&eacute;m ocuparam a entrada do Aeroporto de Salvador e participa das a&ccedil;&otilde;es organizadas pela Frente Brasil Popular na capital do estado.&nbsp;</p>
