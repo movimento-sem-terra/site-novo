@@ -7,7 +7,7 @@ tags:
 title: "Resistir, defender a liberdade de Lula e lutar por eleições livres e democráticas"
 support_line: "Negar o princípio da presunção da inocência do ex-presidente Luiz Inácio Lula da Silva, o Supremo assumiu descaradamente que sempre fez parte do golpe."
 menu: direitos humanos
-section: cover
+section: featured-news
 images_hd: //farm1.staticflickr.com/900/41216115172_06a0aa1da0_b.jpg
 layout: post
 files:
