@@ -5,7 +5,7 @@ tags:
   - tag: democracia
   - tag: justiça
   - tag: golpe
-title: "Minuto a Minuto : Moro determina prisão de Lula"
+title: "Minuto a Minuto: Moro determina prisão de Lula"
 support_line: Acompanhe minuto a minuto os destaques do Brasil de Fato sobre os fatos envolvendo a prisão do ex-presidente Lula
 menu: direitos humanos
 section: cover
