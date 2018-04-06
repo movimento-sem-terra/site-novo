@@ -43,6 +43,7 @@ releated_posts:
   - _posts/2018/04/2018-04-06-contra-o-estado-de-excecao-liberdade-para-lula.md
   - _posts/2018/04/2018-04-06-minuto-a-minuto-moro-determina-prisao-de-lula.md
   - _posts/2018/04/2018-04-05-resistir-defender-a-liberdade-de-lula-e-lutar-por-eleicoes-livres-e-democraticas.md
+section: cover
 
 ---
 <div style="text-align:center">
