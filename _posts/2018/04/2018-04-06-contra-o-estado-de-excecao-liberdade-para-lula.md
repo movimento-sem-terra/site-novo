@@ -37,6 +37,8 @@ releated_posts:
   - _posts/2018/04/2018-04-05-resistir-defender-a-liberdade-de-lula-e-lutar-por-eleicoes-livres-e-democraticas.md
 
 ---
+<p>&nbsp;</p>
+
 <p><em>Da Frente Brasil Popular&nbsp;</em></p>
 
 <p>&nbsp;</p>
