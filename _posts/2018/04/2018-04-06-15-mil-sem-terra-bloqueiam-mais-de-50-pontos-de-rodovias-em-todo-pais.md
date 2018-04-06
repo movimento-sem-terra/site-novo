@@ -82,7 +82,7 @@ section: cover
 Desde as primeiras horas desta sexta-feira (06), mais de 50 pontos de rodovias j&aacute; foram bloqueados em todo o territ&oacute;rio nacional, seja nas capitais ou nos rinc&otilde;es mais distantes das zonas rurais do pa&iacute;s, contra o cumprimento do mandado de pris&atilde;o emitido pelo juiz Moro para o ex-presidente Lula.</p>
 
 <p><br />
-Foram mobilizados 16 estados e o Distrito Federal com cerca de 20 mil trabalhadores rurais Sem&nbsp; Terra que, al&eacute;m dos pontos de rodovias estaduais e federais, trancaram&nbsp; entradas de aeroportos, realizaram marchas e agora se somam aos atos nas capitais brasileiras, reagindo com indigna&ccedil;&atilde;o ao an&uacute;ncio da pris&atilde;o do Lula.</p>
+Foram mobilizados 18&nbsp;estados e o Distrito Federal com cerca de 20 mil trabalhadores rurais Sem&nbsp; Terra que, al&eacute;m dos pontos de rodovias estaduais e federais, trancaram&nbsp; entradas de aeroportos, realizaram marchas e agora se somam aos atos nas capitais brasileiras, reagindo com indigna&ccedil;&atilde;o ao an&uacute;ncio da pris&atilde;o do Lula.</p>
 
 <p><br />
 &ldquo;Estamos em resist&ecirc;ncia contra a pris&atilde;o do presidente Lula. A delibera&ccedil;&atilde;o pol&iacute;tica das frentes Brasil Popular e Povo Sem Medo &eacute; essa. N&atilde;o vamos deixar Lula se entregar, seja na cidade de S&atilde;o Paulo ou em Curitiba&rdquo;, adverte Jo&atilde;o Paulo Rodrigues, da dire&ccedil;&atilde;o nacional do MST.&nbsp;</p>
