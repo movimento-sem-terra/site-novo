@@ -146,11 +146,11 @@ Em Minas Gerais, na capital do estado, Belo Horizonte, os Sem Terra realizaram e
 </figure>
 </div>
 
-<p style="line-height: 15.6px;"><br />
+<p><br />
 Em Mato Grosso do Sul cerca de 500 Sem Terra trancaram as BRs 163 em Itaquirai, a 262 na altura de Dois Irm&atilde;os do Buriti, a 267 Casa Verde. J&aacute; no Mato Grosso, a BR 364 foi trancada na altura de Jaciara.</p>
 
-<p style="line-height: 15.6px;"><br />
-No DF. neste momento, cerca de mil pessoas se re&uacute;nem na Pra&ccedil;a Zumbi dos Palmares em Bras&iacute;lia para defender o Lula e protestar contra sua pris&atilde;o arbitr&aacute;ria.&nbsp;J&aacute; em Rond&ocirc;nia, cerca de 200 fam&iacute;lias trancaram&nbsp;a BR 364 que d&aacute; acesso &agrave; Porto Velho capital do estado. Em Jaciara (MT), os&nbsp;Sem Terra trancaram a BR 364 contra a pris&atilde;o do ex-presidente Lula.&nbsp;&nbsp;</p>
+<p><br />
+No DF. neste momento, cerca de mil pessoas se re&uacute;nem na Pra&ccedil;a Zumbi dos Palmares em Bras&iacute;lia para defender o Lula e protestar contra sua pris&atilde;o arbitr&aacute;ria. J&aacute; em Rond&ocirc;nia, cerca de 200 fam&iacute;lias trancaram a BR 364 que d&aacute; acesso &agrave; Porto Velho capital do estado. Em Jaciara (MT), os Sem Terra trancaram a BR 364 contra a pris&atilde;o do ex-presidente Lula.&nbsp;&nbsp;</p>
 
 <p><br />
 Na regi&atilde;o nordeste, somente na Bahia, foram trancadas 12 pontos de 7 rodovias mobilizando cerca de 6 mil Sem Terra. :&nbsp;</p>
