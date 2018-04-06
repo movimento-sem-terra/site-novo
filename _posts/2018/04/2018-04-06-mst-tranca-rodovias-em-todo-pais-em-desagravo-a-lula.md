@@ -8,7 +8,7 @@ title: "MST tranca rodovias em todo país em desagravo a Lula\n\n"
 support_line: "​As mensagens “Lula Livre!” e “Globo Golpista!”\n"
 menu: lutas e mobilizações
 images_hd: //farm1.staticflickr.com/865/40377938435_a444f19d20_b.jpg
-section: cover
+section: featured-news
 layout: post
 files:
   - link: //farm1.staticflickr.com/865/40377938435_a444f19d20_b.jpg
