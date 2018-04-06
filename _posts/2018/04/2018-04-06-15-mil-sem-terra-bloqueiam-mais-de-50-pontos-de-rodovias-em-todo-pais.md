@@ -99,8 +99,6 @@ A perspectiva &eacute; de resist&ecirc;ncia democr&aacute;tica e de manuten&cced
 <p><br />
 <strong>Confira abaixo onde ocorreram as a&ccedil;&otilde;es.</strong></p>
 
-<p>&nbsp;</p>
-
 <p><br />
 No sul do pa&iacute;s, as mobiliza&ccedil;&otilde;es se iniciaram logo cedo com a ocupa&ccedil;&atilde;o das rodovias 473, Quedas do liga Quedas do Igua&ccedil;u a S&atilde;o Jorge d&#39;Oeste, no Paran&aacute;. Al&eacute;m das BRs 158, entre Rio Bonito do Igua&ccedil;u e Laranjeiras do Sul e a PR 170, Jo&atilde;o Lunardelli, entre Porecatu e Florest&oacute;polis. Ao todo mais de 3 mil Sem Terra foram mobilizados.</p>
 
@@ -133,10 +131,16 @@ O MST bloqueou a rodovia Castelo Branco no munic&iacute;pio de Iaras, km 208, em
 <p><br />
 Em Minas Gerais, na capital do estado, Belo Horizonte, os Sem Terra realizaram escracho na casa de Carmem L&uacute;cia, ministra do Supremo Tribunal Federal, junto com outros movimentos. Al&eacute;m disso, fecharam as BRs 381 (Fern&atilde;o Dias), que d&aacute; acesso de S&atilde;o Paulo &agrave; capital de Mineira e a 116 em Frei Inoc&ecirc;ncio.&nbsp;</p>
 
+<p>&nbsp;</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="ee6d104c-ab35-4764-8eb7-4906f755d329.jpeg" height="394" src="//farm1.staticflickr.com/794/27410701128_e20c1df62d_b.jpg" width="700" />
+<figcaption><em>Escracho na casa de Carmem L&uacute;cia, ministra do Supremo Tribunal Federal, em MG. Foto: Divulga&ccedil;&atilde;o MST</em></figcaption>
+</figure>
+</div>
+
 <p style="line-height: 15.6px;"><br />
 Em Mato Grosso do Sul cerca de 500 Sem Terra trancaram as BRs 163 em Itaquirai, a 262 na altura de Dois Irm&atilde;os do Buriti, a 267 Casa Verde. J&aacute; no Mato Grosso, a BR 364 foi trancada na altura de Jaciara.</p>
 
 <p style="line-height: 15.6px;"><br />
-No DF. neste momento, cerca de mil pessoas se re&uacute;nem na Pra&ccedil;a Zumbi dos Palmares em Bras&iacute;lia para defender o Lula e protestar contra sua pris&atilde;o arbitr&aacute;ria.&nbsp;J&aacute; em Rond&ocirc;nia, cerca de 200 fam&iacute;lias trancaram&nbsp;a BR 364 que d&aacute; acesso &agrave; Porto Velho capital do estado.&nbsp;</p>
-
-<p style="line-height: 15.6px;">&nbsp;</p>
+No DF. neste momento, cerca de mil pessoas se re&uacute;nem na Pra&ccedil;a Zumbi dos Palmares em Bras&iacute;lia para defender o Lula e protestar contra sua pris&atilde;o arbitr&aacute;ria.&nbsp;J&aacute; em Rond&ocirc;nia, cerca de 200 fam&iacute;lias trancaram&nbsp;a BR 364 que d&aacute; acesso &agrave; Porto Velho capital do estado. Em Jaciara (MT), os&nbsp;Sem Terra trancaram a BR 364 contra a pris&atilde;o do ex-presidente Lula.&nbsp;&nbsp;</p>
