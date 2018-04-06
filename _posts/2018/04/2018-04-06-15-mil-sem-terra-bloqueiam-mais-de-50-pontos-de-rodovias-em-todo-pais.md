@@ -4,7 +4,7 @@ tags:
   - tag: lula
   - tag: prisão
   - tag: mobilizações
-title: 15 mil Sem Terra bloqueiam mais de 50 pontos de rodovias em todo país
+title: 20 mil Sem Terra bloqueiam mais de 50 pontos de rodovias em todo país
 support_line: "Manifestações exigem a liberdade para o ex-presidente Lula, no dia de sua possível prisão"
 menu: lutas e mobilizações
 images_hd: //farm1.staticflickr.com/790/40386635725_176ef21cb9_b.jpg
@@ -196,3 +196,9 @@ Na Para&iacute;ba, Sem Terra sofreu tentativa de homic&iacute;dio pela direita e
 
 <p><br />
 A BR 230, entre Jo&atilde;o Pessoa e Campina Grande, tamb&eacute;m foi trancada e em Pedra do Fogo a PB 250. Ao todo cerca de 750 Sem Terra foram mobilizados.&nbsp;</p>
+
+<p><br />
+No Piau&iacute;, a BR 360 foi trancada. Em Sergipe, a a&ccedil;&atilde;o ocorreu em tr&ecirc;s pontos, um na BR 280 em Itaporanga, outro na Avenida Bar&atilde;o de Maruin, capital do estado, Aracaju, e por fim, a ponte na divisa entre Sergipe e Alagoas.&nbsp;Em Alagoas, al&eacute;m de trancar as BRs 316, em Atalaia, a 101 em Teot&ocirc;nio Vilela e a 104 em Uni&atilde;o dos Palmares, os Sem Terra tamb&eacute;m bloquearam a AL 220, no Agreste.&nbsp;</p>
+
+<p><br />
+As Frentes Brasil Popular e Povo Sem Medo bloquearam ainda as vias de acesso &agrave; TV Gazeta, afiliada da Rede Globo em Alagoas, na defesa de Lula e da democracia.</p>
