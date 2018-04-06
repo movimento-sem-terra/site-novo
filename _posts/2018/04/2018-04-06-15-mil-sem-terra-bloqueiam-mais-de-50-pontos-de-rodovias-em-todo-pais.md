@@ -45,6 +45,13 @@ files:
     small: //farm1.staticflickr.com/886/26411431457_4835f0e416_n.jpg
     title: 29792926_2001014276637943_7874692721829478400_n.jpg
     $$hashKey: 0GP
+  - link: //farm1.staticflickr.com/865/41284134111_14988bab10_b.jpg
+    original: //farm1.staticflickr.com/865/41284134111_98c0fdd9be_o.jpg
+    thumbnail: //farm1.staticflickr.com/865/41284134111_14988bab10_t.jpg
+    medium: //farm1.staticflickr.com/865/41284134111_14988bab10_z.jpg
+    small: //farm1.staticflickr.com/865/41284134111_14988bab10_n.jpg
+    title: WhatsApp Image 2018-04-06 at 19.49.22.jpeg
+    $$hashKey: 0GN
 created_date: "2018-04-06T16:31:02-03:00"
 published: true
 releated_posts:
@@ -149,7 +156,8 @@ No DF. neste momento, cerca de mil pessoas se re&uacute;nem na Pra&ccedil;a Zumb
 Na regi&atilde;o nordeste, somente na Bahia, foram trancadas 12 pontos de 7 rodovias mobilizando cerca de 6 mil Sem Terra. :&nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="74f57b29-eedf-45b7-b7fe-d3d6cb5c3494.jpeg" height="338" src="//farm1.staticflickr.com/805/40386596485_e0b53b170b_b.jpg" width="450" />
-<figcaption><em>Trancamento da BA 367, no extremo sul da Bahia. Foto: Divulga&ccedil;&atilde;o MST</em></figcaption>
+<figcaption><em>Trancamento da BA 367, no extremo sul da Bahia.<br />
+Foto: Divulga&ccedil;&atilde;o MST</em></figcaption>
 </figure>
 
 <p><br />
@@ -160,3 +168,25 @@ Ainda no extremo sul da Bahia, foram paradas as BAs 290, em Alcoba&ccedil;a e a 
 
 <p><br />
 Os Sem Terra tamb&eacute;m ocuparam a entrada do Aeroporto de Salvador e participa das a&ccedil;&otilde;es organizadas pela Frente Brasil Popular na capital do estado.&nbsp;</p>
+
+<p><br />
+No Pernambuco, foram mobilizadas cerca de 6 mil Sem Terra nos pontos de trancamento das Brs 101 norte em Goian&aacute; e no sul do estado em Escada. Em Moreno, regi&atilde;o metropolitana, foi trancada a BR 232 e a 428 em Santa Maria da Boa Vista no sert&atilde;o do S&atilde;o Francisco e em Timba&uacute;ba a BR 480.&nbsp;</p>
+
+<p><br />
+Tamb&eacute;m foram trancadas as rodovias estaduais 085 em Amaraji na regi&atilde;o da Mata Sul, a PE 050 entre Gl&oacute;ria do Goit&aacute; na Mata Norte e Vit&oacute;ria de Santo Ant&atilde;o regi&atilde;o metropolitana e a 316 em Petrol&acirc;ndia Sert&atilde;o de Itaparica.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="WhatsApp Image 2018-04-06 at 19.49.22.jpeg" height="400" src="//farm1.staticflickr.com/865/41284134111_14988bab10_b.jpg" width="300" />
+<figcaption><em>Sete trabalhadores Sem Terra<br />
+foram alvejados por tiros disparados<br />
+pela pol&iacute;cia. Foto: Divulga&ccedil;&atilde;o MST</em></figcaption>
+</figure>
+
+<p>No Cear&aacute;, Sem Terra sofreram um ataque da Pol&iacute;cia Militar durante o bloqueio da rodovia BR 122 (Estrada do Algod&atilde;o) onde est&aacute; localizado o Assentamento Antonio Conselheiro, 07 pessoas foram feridas. Na a&ccedil;&atilde;o truculenta amea&ccedil;aram invadir a Escola Estadual Francisca Pinto, que fica localizada dentro do assentamento.</p>
+
+<p><br />
+Os Sem Terra tamb&eacute;m bloquearam&nbsp; a BR 020, no munic&iacute;pio de Boa Viagem, em Madalena realizaram uma marcha com fam&iacute;lias assentadas e acampadas dos munic&iacute;pios de Quixeramobim, Madalena e Canind&eacute;. Junto outras organiza&ccedil;&otilde;es populares trancaram e a rodovia estadual que liga Caucaia ao distrito de Capuan.</p>
+
+<p><br />
+Em Tamboril, tamb&eacute;m houve marcha pelo centro da cidade, e em Crate&uacute;s, os movimentos populares j&aacute; iniciam a concentra&ccedil;&atilde;o na pra&ccedil;a dos Pirulitos, em frente ao monumento Comuna Prestes.</p>
