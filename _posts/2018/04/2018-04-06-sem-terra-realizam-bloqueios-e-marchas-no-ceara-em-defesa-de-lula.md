@@ -43,23 +43,27 @@ releated_posts:
 <p><em>Por Aline de Oliveira<br />
 Da P&aacute;gina do MST</em></p>
 
-<p>&nbsp;</p>
+<p>Neste s&aacute;bado (8), cerca de cinco mil pessoas da Frente Brasil Popular pessoas amanheceram em vig&iacute;lia na capital Cear&aacute;.</p>
 
 <figure class="image" style="float:left"><img alt="WhatsApp Image 2018-04-06 at 17.46.15.jpeg" height="400" src="//farm1.staticflickr.com/891/41284190021_8ea65f1606_b.jpg" width="300" />
 <figcaption>Divulga&ccedil;&atilde;o/MST</figcaption>
 </figure>
 
-<p>Na tarde desta sexta-feira&nbsp;(6), cerca de 500 Sem Terra do Cear&aacute; sofreram um ataque da Pol&iacute;cia Militar&nbsp;durante o bloqueio na rodovia BR 122 (Estrada do Algod&atilde;o) onde est&aacute; localizado o assentamento Antonio Conselheiro. Ao todo, sete pessoas foram&nbsp;feridas na a&ccedil;&atilde;o truculenta da PM que tamb&eacute;m amea&ccedil;ou invadir a escola Estadual Francisca Pinto que&nbsp;fica localizada dentro do assentamento.</p>
+<p>J&aacute; na&nbsp;tarde desta sexta-feira&nbsp;(6), cerca de 500 Sem Terra do Cear&aacute; sofreram um ataque da Pol&iacute;cia Militar&nbsp;durante o bloqueio na rodovia BR 122 (Estrada do Algod&atilde;o) onde est&aacute; localizado o assentamento Antonio Conselheiro. Ao todo, sete pessoas foram&nbsp;feridas na a&ccedil;&atilde;o truculenta da PM que tamb&eacute;m amea&ccedil;ou invadir a escola Estadual Francisca Pinto que&nbsp;fica localizada dentro do assentamento.</p>
 
 <p><br />
 <strong>Atos pela cidade&nbsp;</strong></p>
 
 <p>&nbsp;</p>
 
-<p>Cerca de 500 trabalhadores&nbsp;do&nbsp;MST, Ind&iacute;genas/Tapebas, do Movimento dos Pequenos Agricultores (MPA), Quilombolas, do Sindicato Trabalhadores Servi&ccedil;o P&uacute;blico Federal (Sindsef), da Federa&ccedil;&atilde;o dos Trabalhadores no Servi&ccedil;o P&uacute;blico Municipal do Estado do Cear&aacute; (FETAMCE)&nbsp;e do Movimento dos Atingidos por Barragem (MAB) realizaram&nbsp;trancamento da&nbsp;rodovia&nbsp;que liga Caucaia ao distrito de Capuan. J&aacute; no&nbsp;munic&iacute;pio de Boa Viagem&nbsp;150 trabalhadores&nbsp;bloquearam&nbsp;a BR 020. Os assentados dos munic&iacute;pios de Quixeramobim, Madalena e Canind&eacute;&nbsp;bloquearam&nbsp;a BR 020.</p>
+<p>Cerca de 500 trabalhadores&nbsp;do&nbsp;MST, Ind&iacute;genas/Tapebas, do Movimento dos Pequenos Agricultores (MPA), Quilombolas, do Sindicato Trabalhadores Servi&ccedil;o P&uacute;blico Federal (Sindsef), da Federa&ccedil;&atilde;o dos Trabalhadores no Servi&ccedil;o P&uacute;blico Municipal do Estado do Cear&aacute; (FETAMCE)&nbsp;e do Movimento dos Atingidos por Barragem (MAB) realizaram&nbsp;trancamento da&nbsp;rodovia&nbsp;que liga Caucaia ao distrito de Capuan. J&aacute; no&nbsp;munic&iacute;pio de Boa Viagem&nbsp;150 trabalhadores&nbsp;bloquearam&nbsp;a BR 020 pela manh&atilde;. No per&iacute;odo da tarde o trecho foi bloqueado em Madalena.&nbsp;</p>
 
 <p><br />
-Em Tamboril, 300 trabalhadores&nbsp;de diversas organiza&ccedil;&otilde;es populares realizaram uma marcha pelo centro da cidade.<br />
-Em Crate&uacute;s, movimentos populares se concentraram na pra&ccedil;a dos Pirulitos, em frente ao monumento Comuna Prestes.</p>
+Em Tamboril, 300 trabalhadores&nbsp;de diversas organiza&ccedil;&otilde;es populares realizaram uma marcha pelo centro da cidade.</p>
+
+<p>Em Crate&uacute;s, movimentos populares se concentraram na pra&ccedil;a dos Pirulitos, em frente ao monumento Comuna Prestes onde foi realizado um ato.</p>
+
+<p><br />
+Defender Lula &eacute; salvar a democracia e garantir um estado de direito e n&atilde;o de exce&ccedil;&atilde;o. Esse tamb&eacute;m foi um dos recados das mais de 20 mil pessoas que ocuparam as ruas do Benfica, em Fortaleza no fim da tarde desta sexta-feira.&nbsp;</p>
 
 <p>&nbsp;</p>
