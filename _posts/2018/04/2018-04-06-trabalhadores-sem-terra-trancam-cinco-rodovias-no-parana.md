@@ -36,9 +36,15 @@ releated_posts:
   - _posts/2018/04/2018-04-06-mst-tranca-rodovias-em-todo-pais-em-desagravo-a-lula.md
 
 ---
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2018-04-06 at 15.02.38.jpeg" height="360" src="//farm1.staticflickr.com/895/40387832385_d17e51320d_b.jpg" width="600" />
+<figcaption>Divulga&ccedil;&atilde;o/MST</figcaption>
+</figure>
+</div>
+
 <p>&nbsp;</p>
 
-<p><em>Por Wellington Leno<br />
+<p><em>Por Setor de Comunica&ccedil;&atilde;o do MST no Paran&aacute;<br />
 Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
