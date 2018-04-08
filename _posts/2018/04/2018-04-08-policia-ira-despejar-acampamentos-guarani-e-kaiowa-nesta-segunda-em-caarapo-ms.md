@@ -45,8 +45,7 @@ releated_posts:
 <em>Do Cimi</em></p>
 
 <p><br />
-Dois acampamentos Guarani e Kaiow&aacute; poder&atilde;o ser violentamente despejados pela pol&iacute;cia nesta segunda-feira (9) em Caarap&oacute; (MS), no mesmo local onde foi assassinado o ind&iacute;gena Clodiodi Aquile de Souza, em 2016. A Pol&iacute;cia Federal dever&aacute; convocar a Pol&iacute;cia Militar para realizar<br />
-a a&ccedil;&atilde;o, prevista para iniciar &agrave;s 6 da manh&atilde;.</p>
+Dois acampamentos Guarani e Kaiow&aacute; poder&atilde;o ser violentamente despejados pela pol&iacute;cia nesta segunda-feira (9) em Caarap&oacute; (MS), no mesmo local onde foi assassinado o ind&iacute;gena Clodiodi Aquile de Souza, em 2016. A Pol&iacute;cia Federal dever&aacute; convocar a Pol&iacute;cia Militar para realizar&nbsp;a a&ccedil;&atilde;o, prevista para iniciar &agrave;s 6 da manh&atilde;.</p>
 
 <p><br />
 A informa&ccedil;&atilde;o foi recebida neste s&aacute;bado (7) pela comunidade, que teme um conflito sem precedentes. &ldquo;N&oacute;s estamos preparados para qualquer coisa&rdquo;, explica por telefone a lideran&ccedil;a Kunumi Apyka&rsquo;i Rory. &ldquo;O segundo massacre tem data marcada, porque a comunidade n&atilde;o aceitou recuar. Vamos esperar a pol&iacute;cia&rdquo;.</p>
