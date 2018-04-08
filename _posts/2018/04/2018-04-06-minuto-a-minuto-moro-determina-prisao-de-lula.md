@@ -8,7 +8,7 @@ tags:
 title: "Minuto a Minuto: Moro determina prisão de Lula"
 support_line: Acompanhe minuto a minuto os destaques do Brasil de Fato sobre os fatos envolvendo a prisão do ex-presidente Lula
 menu: direitos humanos
-section: cover
+section: featured-news
 images_hd: //farm1.staticflickr.com/882/41220928192_cde8043881_b.jpg
 layout: post
 files:
