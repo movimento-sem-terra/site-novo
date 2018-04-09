@@ -57,16 +57,16 @@ releated_posts:
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
-<span style="color: rgb(34, 34, 34); font-family: verdana, sans-serif; font-size: 12.8px;">A Associa&ccedil;&atilde;o de Produtores Ecol&oacute;gicos Conquista da Liberdade (Apecol) comemorou neste domingo (8) os tr&ecirc;s anos da sua funda&ccedil;&atilde;o. O evento celebrativo, que reuniu cerca de 300 pessoas, foi realizado na sede da entidade, localizada no Assentamento Conquista da Liberdade, no munic&iacute;pio de Piratini, na regi&atilde;o Sul do Rio Grande do Sul.</span></p>
+A Associa&ccedil;&atilde;o de Produtores Ecol&oacute;gicos Conquista da Liberdade (Apecol) comemorou neste domingo (8) os tr&ecirc;s anos da sua funda&ccedil;&atilde;o. O evento celebrativo, que reuniu cerca de 300 pessoas, foi realizado na sede da entidade, localizada no Assentamento Conquista da Liberdade, no munic&iacute;pio de Piratini, na regi&atilde;o Sul do Rio Grande do Sul.</p>
 
 <p><br />
-<span style="color: rgb(34, 34, 34); font-family: verdana, sans-serif; font-size: 12.8px;">As atividades come&ccedil;aram ainda pela manh&atilde;, com a presen&ccedil;a de autoridades e de lideran&ccedil;as locais e regionais, como prefeitos, vereadores e secret&aacute;rios municipais, al&eacute;m de representantes da Emater e de cooperativas do MST. &Agrave; tarde, ocorreram apresenta&ccedil;&otilde;es culturais e diversos jogos esportivos, como partidas de bocha e futebol.</span></p>
+As atividades come&ccedil;aram ainda pela manh&atilde;, com a presen&ccedil;a de autoridades e de lideran&ccedil;as locais e regionais, como prefeitos, vereadores e secret&aacute;rios municipais, al&eacute;m de representantes da Emater e de cooperativas do MST. &Agrave; tarde, ocorreram apresenta&ccedil;&otilde;es culturais e diversos jogos esportivos, como partidas de bocha e futebol.</p>
 
 <p><br />
-<span style="color: rgb(34, 34, 34); font-family: verdana, sans-serif; font-size: 12.8px;">Durante o evento, foi feita uma homenagem ao casal de camponeses assentados da Reforma Agr&aacute;ria, Elp&iacute;dio Alves da Silva e Lourdes Feliciana da Silvia. Ela foi respons&aacute;vel por resgatar com amigos e preservar, h&aacute; 25 anos, um tipo de tomate cereja gra&uacute;do, que gera bom rendimento em sementes e polpa.</span></p>
+Durante o evento, foi feita uma homenagem ao casal de camponeses assentados da Reforma Agr&aacute;ria, Elp&iacute;dio Alves da Silva e Lourdes Feliciana da Silvia. Ela foi respons&aacute;vel por resgatar com amigos e preservar, h&aacute; 25 anos, um tipo de tomate cereja gra&uacute;do, que gera bom rendimento em sementes e polpa.</p>
 
 <p><br />
-<span style="color: rgb(34, 34, 34); font-family: verdana, sans-serif; font-size: 12.8px;">O fruto em quest&atilde;o tem grande capacidade de produ&ccedil;&atilde;o e potencial de adapta&ccedil;&atilde;o para sistemas org&acirc;nicos e agroecol&oacute;gicos. Hoje, a variedade de tomate leva o nome de Bio Feliciana, em homenagem &agrave; dona Lourdes, e j&aacute; est&aacute; no Registro Nacional de Cultivares do Minist&eacute;rio da Agricultura (MAPA). Ela &eacute; produzida pela Rede de Sementes Agroecol&oacute;gicas Bionatur, que tamb&eacute;m &eacute; uma iniciativa do MST.</span></p>
+O fruto em quest&atilde;o tem grande capacidade de produ&ccedil;&atilde;o e potencial de adapta&ccedil;&atilde;o para sistemas org&acirc;nicos e agroecol&oacute;gicos. Hoje, a variedade de tomate leva o nome de Bio Feliciana, em homenagem &agrave; dona Lourdes, e j&aacute; est&aacute; no Registro Nacional de Cultivares do Minist&eacute;rio da Agricultura (MAPA). Ela &eacute; produzida pela Rede de Sementes Agroecol&oacute;gicas Bionatur, que tamb&eacute;m &eacute; uma iniciativa do MST.</p>
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Apecol faz feira, duas vezes por semana, no Centro de Piratini.jpg" height="400" src="//farm1.staticflickr.com/807/41299706812_849f91fb91_b.jpg" width="600" />
@@ -75,19 +75,19 @@ Da P&aacute;gina do MST</em></p>
 </div>
 
 <p><br />
-<b style="color: rgb(34, 34, 34); font-family: verdana, sans-serif; font-size: 12.8px;">Desafios</b></p>
+<strong>Desafios</strong></p>
 
 <p><br />
-<span style="color: rgb(34, 34, 34); font-family: verdana, sans-serif; font-size: 12.8px;">Conforme Jos&eacute; Ven&acirc;ncio, presidente da Apecol, a associa&ccedil;&atilde;o conta com 22 fam&iacute;lias associadas, que vivem no Assentamento Conquista da Liberdade e no Assentamento Conquista da Luta, ambos situados em Piratini. Elas produzem cerca de 60 variedades de sementes org&acirc;nicas de feij&atilde;o preto e de cor, que s&atilde;o comercializadas principalmente em feiras ecol&oacute;gicas.</span></p>
+Conforme Jos&eacute; Ven&acirc;ncio, presidente da Apecol, a associa&ccedil;&atilde;o conta com 22 fam&iacute;lias associadas, que vivem no Assentamento Conquista da Liberdade e no Assentamento Conquista da Luta, ambos situados em Piratini. Elas produzem cerca de 60 variedades de sementes org&acirc;nicas de feij&atilde;o preto e de cor, que s&atilde;o comercializadas principalmente em feiras ecol&oacute;gicas.</p>
 
 <p><br />
-<span style="color: rgb(34, 34, 34); font-family: verdana, sans-serif; font-size: 12.8px;">Para Ven&acirc;ncio, nestes tr&ecirc;s anos de funda&ccedil;&atilde;o, a avalia&ccedil;&atilde;o que se faz &eacute; positiva. &ldquo;Temos um grupo de fam&iacute;lias firmado, tanto na produ&ccedil;&atilde;o quando na comercializa&ccedil;&atilde;o, e que possui muitos conhecimentos em agroecologia. Hoje, a Apecol &eacute; uma refer&ecirc;ncia em produtos org&acirc;nicos na regi&atilde;o e tem ponto de feiras com vendas bem est&aacute;veis&rdquo;, conta.</span></p>
+Para Ven&acirc;ncio, nestes tr&ecirc;s anos de funda&ccedil;&atilde;o, a avalia&ccedil;&atilde;o que se faz &eacute; positiva. &ldquo;Temos um grupo de fam&iacute;lias firmado, tanto na produ&ccedil;&atilde;o quando na comercializa&ccedil;&atilde;o, e que possui muitos conhecimentos em agroecologia. Hoje, a Apecol &eacute; uma refer&ecirc;ncia em produtos org&acirc;nicos na regi&atilde;o e tem ponto de feiras com vendas bem est&aacute;veis&rdquo;, conta.</p>
 
 <p><br />
-<span style="color: rgb(34, 34, 34); font-family: verdana, sans-serif; font-size: 12.8px;">Segundo o presidente, o desafio da associa&ccedil;&atilde;o para os pr&oacute;ximos anos &eacute; permanecer organizada e motivada para produzir mais alimentos saud&aacute;veis e um n&uacute;mero maior de variedades de feij&atilde;o. &ldquo;Temos que ter cada vez mais consci&ecirc;ncia que a produ&ccedil;&atilde;o org&acirc;nica &eacute; a sa&iacute;da para a agricultura familiar, para termos uma vida digna no campo e com resist&ecirc;ncia &agrave; ofensiva do agroneg&oacute;cio e a sua destrui&ccedil;&atilde;o de vidas&rdquo;, acrescenta.</span></p>
+Segundo o presidente, o desafio da associa&ccedil;&atilde;o para os pr&oacute;ximos anos &eacute; permanecer organizada e motivada para produzir mais alimentos saud&aacute;veis e um n&uacute;mero maior de variedades de feij&atilde;o. &ldquo;Temos que ter cada vez mais consci&ecirc;ncia que a produ&ccedil;&atilde;o org&acirc;nica &eacute; a sa&iacute;da para a agricultura familiar, para termos uma vida digna no campo e com resist&ecirc;ncia &agrave; ofensiva do agroneg&oacute;cio e a sua destrui&ccedil;&atilde;o de vidas&rdquo;, acrescenta.</p>
 
 <p><br />
-<span style="color: rgb(34, 34, 34); font-family: verdana, sans-serif; font-size: 12.8px;">Ele diz, ainda, que o objetivo da Apecol &eacute; come&ccedil;ar a fazer o empacotamento e conquistar novos pontos de feira em outras cidades da regi&atilde;o Sul &mdash; Atualmente, a Apecol faz feira bisemanal no Centro de Piratini e diariamente nas margens da BR-293, no km 75/76, entre Pelotas e Bag&eacute;. Ela tamb&eacute;m participa da&nbsp;</span><font color="#000000" style="font-family: verdana, sans-serif; font-size: 12.8px;">Feira Latino-Americana de Economia Solid&aacute;ria(EcoSol), que acontece todos os anos em Santa Maria, na regi&atilde;o central do estado.</font><br style="color: rgb(34, 34, 34); font-family: verdana, sans-serif; font-size: 12.8px;" />
+Ele diz, ainda, que o objetivo da Apecol &eacute; come&ccedil;ar a fazer o empacotamento e conquistar novos pontos de feira em outras cidades da regi&atilde;o Sul &mdash; Atualmente, a Apecol faz feira bisemanal no Centro de Piratini e diariamente nas margens da BR-293, no km 75/76, entre Pelotas e Bag&eacute;. Ela tamb&eacute;m participa da&nbsp;Feira Latino-Americana de Economia Solid&aacute;ria(EcoSol), que acontece todos os anos em Santa Maria, na regi&atilde;o central do estado.<br />
 &nbsp;</p>
 
 <p><em>*&nbsp;Editado por Maura Silva</em></p>
