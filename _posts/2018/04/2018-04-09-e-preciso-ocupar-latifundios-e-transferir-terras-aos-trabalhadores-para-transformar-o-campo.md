@@ -8,7 +8,7 @@ title: “É preciso ocupar latifúndios e transferir terras aos trabalhadores p
 support_line: "Em entrevista, Marina dos Santos, do MST, fala da Jornada Nacional de Lutas pela Reforma Agrária, que acontece neste mês"
 menu: lutas e mobilizações
 images_hd: //farm1.staticflickr.com/868/39543442790_6441e5e122_b.jpg
-section: featured-news
+section: cover
 layout: post
 files:
   - link: //farm1.staticflickr.com/868/39543442790_6441e5e122_b.jpg
