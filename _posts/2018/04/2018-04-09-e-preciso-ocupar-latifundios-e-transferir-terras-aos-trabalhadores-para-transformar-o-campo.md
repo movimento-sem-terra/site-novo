@@ -21,7 +21,10 @@ files:
 created_date: "2018-04-09T19:53:36-03:00"
 published: true
 releated_posts:
-  - _posts/2017/07/2017-07-26-na-bahia-sem-terra-ocupam-o-incra-em-defesa-da-reforma-agraria.md
+  - _posts/2018/04/2018-04-04-minuto-a-minuto-julgamento-do-stf-mobiliza-populacao-em-defesa-de-lula-e-democracia.md
+  - _posts/2018/04/2018-04-06-15-mil-sem-terra-bloqueiam-mais-de-50-pontos-de-rodovias-em-todo-pais.md
+  - _posts/2018/03/2018-03-08-mulheres-saem-as-ruas-da-paraiba-em-jornada-nacional-de-lutas.md
+  - _posts/2018/03/2018-03-29-convocatoria-do-acampamento-terra-livre-atl-2018.md
 
 ---
 <div>
@@ -136,7 +139,7 @@ A Interven&ccedil;&atilde;o Militar no Rio de Janeiro e a execu&ccedil;&atilde;o
 <div>&nbsp;</div>
 
 <div><br />
-<strong>Qual s&atilde;o as principais quest&otilde;es apontadas pela Jornada Nacional de Lutas pela Reforma Agr&aacute;ria 2018?</strong></div>
+<strong>Quais&nbsp;s&atilde;o as principais quest&otilde;es apontadas pela Jornada Nacional de Lutas pela Reforma Agr&aacute;ria 2018?</strong></div>
 
 <div>&nbsp;</div>
 
