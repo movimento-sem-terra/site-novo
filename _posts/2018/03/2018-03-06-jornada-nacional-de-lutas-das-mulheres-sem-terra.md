@@ -18,7 +18,7 @@ files:
     title: 8 de Março 2018 card.jpg
     $$hashKey: 038
 created_date: "2018-03-06T15:42:21-03:00"
-published: true
+published: false
 releated_posts:
   - _posts/2018/03/2018-03-02-precisamos-arrebentar-as-correntes-que-nos-prendem.md
   - _posts/2018/02/2018-02-21-falemos-de-nos-que-falem-das-mulheres-sem-terra-da-nossa-resistencia-coletiva.md
