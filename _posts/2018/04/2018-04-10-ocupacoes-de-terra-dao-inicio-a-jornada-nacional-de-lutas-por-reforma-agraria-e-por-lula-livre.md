@@ -30,6 +30,8 @@ releated_posts:
   - _posts/2018/04/2018-04-06-15-mil-sem-terra-bloqueiam-mais-de-50-pontos-de-rodovias-em-todo-pais.md
 
 ---
+<p>&nbsp;</p>
+
 <p><em>Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
@@ -48,7 +50,10 @@ Marina &eacute; enf&aacute;tica ao classificar a justi&ccedil;a brasileira como 
 Ainda na Para&iacute;ba, foi ocupado por 250 fam&iacute;lias o latif&uacute;ndio Patroc&iacute;nio, terras da usina S&atilde;o Jo&atilde;o, no munic&iacute;pio de Santa Cruz do Esp&iacute;rito Santo. No Cear&aacute; foi ocupada uma &aacute;rea do Departamento Nacional de Obras Contra Seca (DNOCS), reivindicando, al&eacute;m da liberdade para Lula, a resolu&ccedil;&atilde;o do problema causado &agrave;s fam&iacute;lias pelo lago de Fronteira. At&eacute; hoje elas n&atilde;o foram indenizadas ou muitas nem s&atilde;o reconhecidas como benefici&aacute;rias (por serem atingidos indiretos).</p>
 
 <p><br />
-No Piau&iacute;, foram dois latif&uacute;ndios ocupados nesta manh&atilde;: a fazenda Amparo, na Zona Rural de Teresina, e a fazenda Piquete, no munic&iacute;pio de Curralinho. Em Goi&aacute;s, 150 fam&iacute;lias de trabalhadores rurais ocuparam a fazenda Fund&atilde;o, no munic&iacute;pio de Morro Agudo, com cerca de dois&nbsp;mil hectares.&nbsp;</p>
+No Piau&iacute;, foram dois latif&uacute;ndios ocupados nesta manh&atilde;: a fazenda Amparo, na Zona Rural de Teresina, e a fazenda Piquete, no munic&iacute;pio de Curralinho. Em Goi&aacute;s, 150 fam&iacute;lias de trabalhadores rurais ocuparam a fazenda Fund&atilde;o, no munic&iacute;pio de Morro Agudo, com cerca de dois&nbsp;mil hectares.</p>
+
+<p><br />
+J&aacute; no estado do Mato Grosso do Sul, o MST in&iacute;cia a Jornada Nacional de Lutas com o trancamento da BR 262, em Dois Irm&atilde;os do Buriti, e denunciam o desmonte&nbsp; das pol&iacute;ticas de reforma agr&aacute;ria.</p>
 
 <p><br />
 No Rio Grande do Sul, 300 pessoas bloquearam a ERS 324, em Pont&atilde;o. A manifesta&ccedil;&atilde;o foi organizada pelo MST, PT, PCdoB e outros apoiadores de Lula. Em Curitiba, o MST continua se somando na Vig&iacute;lia Democr&aacute;tica por Lula Livre, com atividades de di&aacute;logo com a popula&ccedil;&atilde;o e prestando solidariedade direta ao preso pol&iacute;tico, que est&aacute; encarcerado nas proximidades do acampamento.</p>
