@@ -37,7 +37,7 @@ Na madrugada desta segunda-feira (10), fam&iacute;lias Sem Terra ocuparam duas f
 Defensor&nbsp; do golpe e latifundi&aacute;rio, Maranh&atilde;o &eacute; um dos senadores pela Para&iacute;ba que segue levando a pauta de desmonte de direitos da classe trabalhadora.&nbsp;</p>
 
 <p><br />
-J&aacute; no Litoral, 250 fam&iacute;lias ocuparam a fazenda Patroc&iacute;nio, terras da Usina S&atilde;o Jo&atilde;o, munic&iacute;pio de Cruz do Esp&iacute;rito Snto.&nbsp;&nbsp;</p>
+J&aacute; no Litoral, 250 fam&iacute;lias ocuparam a fazenda Patroc&iacute;nio, terras da Usina S&atilde;o Jo&atilde;o, munic&iacute;pio de Cruz do Esp&iacute;rito Santo.&nbsp;&nbsp;</p>
 
 <p><br />
 As ocupa&ccedil;&otilde;es integram o calend&aacute;rio da Jornada Nacional de Lutas Pela Reforma Agr&aacute;ria, que al&eacute;m de rememorar os 22 anos do massacre&nbsp;de Eldorado dos Caraj&aacute;s, denuncia a paralisa&ccedil;&atilde;o da Reforma Agr&aacute;ria, o desmaonte das pol&iacute;ticas sociais e a criminaliza&ccedil;&atilde;o dos movimentos populares.&nbsp;&nbsp;</p>
