@@ -7,7 +7,7 @@ tags:
 special-page: jornadas-2017
 menu: lutas e mobilizações
 title: "Jovens Sem Terra se reúnem na Curva do 'S' para homenagear as vítimas de Carajás"
-support_line: XII Acampamento Pedagógico Oziel Alves Pereira reúne jovens lutadores para relembrar os 21 anos do massacre de Eldorado dos Carajás.
+support_line: XII Acampamento Pedagógico Oziel Alves Pereira reúne jovens lutadores para relembrar os 21 anos do massacre de Eldorado do Carajás.
 images_hd: //farm3.staticflickr.com/2881/33965375872_8aa884dc9f_b.jpg
 layout: post
 files:
@@ -43,7 +43,7 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p>Abril chegou e com ele a alegria e a disposi&ccedil;&atilde;o para a luta da juventude Sem Terra! Desde do dia 10, cerca de 600 jovens dos acampamentos e assentamentos do MST participam do XII Acampamento Pedag&oacute;gico &ldquo;Oziel Alves&nbsp;Pereira&rdquo; na Curva do &ldquo;S&rdquo;, em Eldorado dos Caraj&aacute;s, no Par&aacute;. Um lugar hist&oacute;rico, onde no dia&nbsp;17 de abril de 1996&nbsp;ocorreu&nbsp;o massacre de 19 trabalhadores rurais Sem Terra.</p>
+<p>Abril chegou e com ele a alegria e a disposi&ccedil;&atilde;o para a luta da juventude Sem Terra! Desde do dia 10, cerca de 600 jovens dos acampamentos e assentamentos do MST participam do XII Acampamento Pedag&oacute;gico &ldquo;Oziel Alves&nbsp;Pereira&rdquo; na Curva do &ldquo;S&rdquo;, em Eldorado do&nbsp;Caraj&aacute;s, no Par&aacute;. Um lugar hist&oacute;rico, onde no dia&nbsp;17 de abril de 1996&nbsp;ocorreu&nbsp;o massacre de 19 trabalhadores rurais Sem Terra.</p>
 
 <p><br />
 O acampamento pedag&oacute;gico homenageia Oziel Alves Pereira, o mais jovem militante, trabalhador rural de 18 anos, que sonhava com a transforma&ccedil;&atilde;o social a partir da Reforma Agr&aacute;ria e que foi brutalmente massacrado durante o que ficou mundialmente conhecido como Massacre de Eldorado dos Caraj&aacute;s. Ele estava entre os trabalhadores que marchavam para Bel&eacute;m. Oziel foi arrastado pela Pol&iacute;cia Militar enquanto gritava:<i>&nbsp;</i>viva o MST!</p>
@@ -60,6 +60,5 @@ Viva o MST!</p>
 <p><br />
 Viva a Juventude Sem Terra!</p>
 
-<p>&nbsp;</p>
-
-<p><i>*Editado por Leonardo Fernandes</i></p>
+<p><br />
+<i>*Editado por Leonardo Fernandes</i></p>
