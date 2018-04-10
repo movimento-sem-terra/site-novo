@@ -28,7 +28,7 @@ releated_posts:
 ---
 <p>&nbsp;</p>
 
-<p>Da P&aacute;gina do MST&nbsp;</p>
+<p><em>Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
 Na madrugada desta segunda-feira (10), fam&iacute;lias Sem Terra ocuparam duas fazendas foram ocupadas no estado da Para&iacute;ba. Uma delas, a fazenda &quot;Volta&quot;, que pertence a fam&iacute;lia do senador golpista Jos&eacute; Maranh&atilde;o e o deputado federal&nbsp; Benjamin Maranh&atilde;o, foi ocupada por 200 fam&iacute;lias.&nbsp;</p>
@@ -40,7 +40,7 @@ Defensor&nbsp; do golpe e latifundi&aacute;rio, Maranh&atilde;o &eacute; um dos 
 J&aacute; no Litoral, 250 fam&iacute;lias ocuparam a fazenda Patroc&iacute;nio, terras da Usina S&atilde;o Jo&atilde;o, munic&iacute;pio de Cruz do Esp&iacute;rito Snto.&nbsp;&nbsp;</p>
 
 <p><br />
-As ocupa&ccedil;&otilde;es integram o calend&aacute;rio da Jornada Nacional de Lutas Pela Reforma Agr&aacute;ria, que al&eacute;m de rememorar os 22 anos do massacre&nbsp; de Eldorado dos Caraj&aacute;s, denuncia a paralisa&ccedil;&atilde;o da Reforma Agr&aacute;ria, o desmaonte das pol&iacute;ticas sociais e a criminaliza&ccedil;&atilde;o dos movimentos populares.&nbsp;&nbsp;</p>
+As ocupa&ccedil;&otilde;es integram o calend&aacute;rio da Jornada Nacional de Lutas Pela Reforma Agr&aacute;ria, que al&eacute;m de rememorar os 22 anos do massacre&nbsp;de Eldorado dos Caraj&aacute;s, denuncia a paralisa&ccedil;&atilde;o da Reforma Agr&aacute;ria, o desmaonte das pol&iacute;ticas sociais e a criminaliza&ccedil;&atilde;o dos movimentos populares.&nbsp;&nbsp;</p>
 
 <p><br />
 A liberdade&nbsp; de Lula tamb&eacute;m est&aacute; em pauta, a jornada seguir&aacute; pressionando o poder judici&aacute;rio e denunciando o processo arbitr&aacute;rio de julgamento do presidente Lula.&nbsp;</p>
