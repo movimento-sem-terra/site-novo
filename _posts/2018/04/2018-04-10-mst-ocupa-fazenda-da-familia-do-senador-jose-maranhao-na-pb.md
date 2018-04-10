@@ -17,6 +17,13 @@ files:
     small: //farm1.staticflickr.com/805/26495172037_3f2d8d9f56_n.jpg
     title: WhatsApp Image 2018-04-10 at 06.37.20.jpeg
     $$hashKey: "052"
+  - link: //farm1.staticflickr.com/882/39559625680_754515dc65_b.jpg
+    original: //farm1.staticflickr.com/882/39559625680_76f5c94c2f_o.jpg
+    thumbnail: //farm1.staticflickr.com/882/39559625680_754515dc65_t.jpg
+    medium: //farm1.staticflickr.com/882/39559625680_754515dc65_z.jpg
+    small: //farm1.staticflickr.com/882/39559625680_754515dc65_n.jpg
+    title: WhatsApp Image 2018-04-10 at 13.51.36.jpeg
+    $$hashKey: 059
 created_date: "2018-04-10T11:36:36-03:00"
 published: true
 releated_posts:
@@ -24,8 +31,19 @@ releated_posts:
   - _posts/2017/11/2017-11-08-governo-golpista-mantem-cortes-na-reforma-agraria-e-na-agricultura-familiar.md
   - _posts/2018/04/2018-04-10-no-ceara-sem-terra-ocupa-area-do-dnocs.md
   - _posts/2018/04/2018-04-02-lideranca-do-mst-e-principal-homenageada-em-premio-de-participacao-social-do-governo.md
+  - _posts/2017/10/2017-10-09-mst-leva-producao-saudavel-para-paraiba.md
+  - _posts/2017/10/2017-10-11-sem-terrinha-na-luta-pela-alimentacao-saudavel.md
+  - _posts/2017/10/2017-10-16-na-pb-ocupacao-do-incra-da-inicio-a-jornada-nacional-em-defesa-da-reforma-agraria.md
 
 ---
+<p>&nbsp;</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2018-04-10 at 13.51.36.jpeg" height="466" src="//farm1.staticflickr.com/882/39559625680_754515dc65_b.jpg" width="700" />
+<figcaption></figcaption>
+</figure>
+</div>
+
 <p>&nbsp;</p>
 
 <p><em>Da P&aacute;gina do MST&nbsp;</em></p>
