@@ -210,7 +210,7 @@
   "type":{
     "view": "select",
     "options": [
-      {"name": "Jornada das mulheres 2018  ", "id": "jornada-mulheres-2018"}
+      {"name": "Jornada de Abril  ", "id": "jornadas-2018"}
       ]
   }
 },
