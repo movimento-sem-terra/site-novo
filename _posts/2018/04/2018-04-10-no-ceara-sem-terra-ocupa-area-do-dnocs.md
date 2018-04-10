@@ -36,10 +36,10 @@ releated_posts:
 <p><em>Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
-Na madrugada desta ter&ccedil;a-feira (10) Cerca de 200 fam&iacute;lias organizadas pelo Movimento dos Trabalhadores/as Rurais Sem Terra (MST) ocupam &aacute;rea do Departamento Nacional de Obras Contra as Secas (DENOCS) no munic&iacute;pio de Crate&uacute;s.&nbsp;</p>
+Na madrugada desta ter&ccedil;a-feira (10), cerca de 200 fam&iacute;lias organizadas pelo Movimento dos Trabalhadores/as Rurais Sem Terra (MST) ocuparam &aacute;rea do Departamento Nacional de Obras Contra as Secas (DENOCS) no munic&iacute;pio de Crate&uacute;s.&nbsp;</p>
 
 <p><br />
-A ocupa&ccedil;&atilde;o simboliza&nbsp; abertura da negocia&ccedil;&atilde;o para resolver a pauta das fam&iacute;lias atingidas pelo &ldquo;Lago de Fronteira&rdquo; que at&eacute; hoje n&atilde;o foram indenizadas ou est&atilde;o sem perspectivas de indeniza&ccedil;&atilde;o por serem&nbsp; pequenos agricultores ou atingido indiretamente.</p>
+A ocupa&ccedil;&atilde;o simboliza abertura da negocia&ccedil;&atilde;o para resolver a pauta das fam&iacute;lias atingidas pelo &ldquo;Lago de Fronteira&rdquo; que at&eacute; hoje n&atilde;o foram indenizadas ou est&atilde;o sem perspectivas de indeniza&ccedil;&atilde;o por serem&nbsp; pequenos agricultores ou atingido indiretamente.</p>
 
 <p><br />
 Tamb&eacute;m nesta madrugada, cerca de 100 fam&iacute;lias organizadas ocuparam a fazenda Serrote, localizada no munic&iacute;pio de Quixeramobim, no sert&atilde;o central do Cear&aacute;. A fazenda conta&nbsp; com 3.700 hectares&nbsp; e pertence a fam&iacute;lia Carneiro.</p>
