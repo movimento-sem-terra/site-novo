@@ -35,8 +35,11 @@ releated_posts:
 </div>
 </div>
 
-<div><br />
-Da P&aacute;gina do MST</div>
+<div>&nbsp;</div>
+
+<div><em>Por Webert da Cruz</em></div>
+
+<div><em>Da P&aacute;gina do MST</em></div>
 
 <div><br />
 <br />
@@ -118,6 +121,8 @@ A &uacute;nica forma do MST enfrentar e denunciar essa situa&ccedil;&atilde;o &e
 E denunciar que o Brasil &eacute; o segundo pa&iacute;s no mundo que mais concentra terra. Segundo dados do &uacute;ltimo senso agropecu&aacute;rio, de 2006, 1% de propriet&aacute;rios concentram 44% das terras produtivas desse pa&iacute;s. Esse processo de concentra&ccedil;&atilde;o s&oacute; aumenta, n&atilde;o s&oacute; em rela&ccedil;&atilde;o a terra, mas tamb&eacute;m aos outros elementos da natureza, como a &aacute;gua. Vejamos o exemplo da reuni&atilde;o das grandes corpora&ccedil;&otilde;es que aconteceu em Bras&iacute;lia, de 19 a 21 de mar&ccedil;o, como o objetivo de privatizar os reservat&oacute;rios de &aacute;gua doce que temos no Brasil e na Am&eacute;rica do Sul, como o Aqu&iacute;fero Guarani.&nbsp;</div>
 
 <div>&nbsp;</div>
+
+<p>&nbsp;</p>
 
 <div><br />
 Com essa pol&iacute;tica, &eacute; claro que vai haver conflitos porque o povo e os movimentos sociais n&atilde;o v&atilde;o aceitar tudo isso de forma pac&iacute;fica. &Eacute; preciso enfrentar o poder do agroneg&oacute;cio, das transnacionais e das pol&iacute;ticas golpistas. &Eacute; preciso construir uma resist&ecirc;ncia ativa frente &agrave; tudo isso e lutar com for&ccedil;a por outras pol&iacute;ticas para o campo brasileiro.&nbsp;</div>
