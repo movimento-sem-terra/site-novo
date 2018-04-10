@@ -5,7 +5,7 @@ tags:
   - tag: formação
   - tag: sem-terra
 support_line: "Formatura de 14 educandos foi realizada no último sábado, na Serra Gaúcha\n"
-title: "Jovens Sem Terra se forma no Rio Grande do Sul "
+title: "Jovens Sem Terra se formam no Rio Grande do Sul "
 menu: "educação, cultura e comunicação"
 images_hd: //farm1.staticflickr.com/874/26495427597_3037d60fd3_b.jpg
 layout: post
