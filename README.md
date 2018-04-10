@@ -29,7 +29,7 @@ Inicie o Jekyll:
 bundle exec jekyll serve
 ```
 
-Acesso o endereço [http://localhost:4000/]()
+Acesse o endereço [http://localhost:4000/]()
 
 ## Vagrant
 
@@ -37,7 +37,7 @@ Acesso o endereço [http://localhost:4000/]()
 
 * [VirtualBox](https://www.virtualbox.org/wiki/Downloads) - 5.2.8 ou mais recente
 * [Vagrant](https://www.vagrantup.com/downloads.html) - 2.0.3 ou mais recente
-* [ansible](http://www.ansible.com/) - 2.4.2 ou mais recente
+* [Ansible](http://www.ansible.com/) - 2.4.2 ou mais recente
 
 ### Instalação
 
@@ -73,7 +73,7 @@ Inicie o Jekyll (pode demorar):
 bundle exec jekyll serve --host 0.0.0.0
 ```
 
-Acesso o endereço [http://localhost:4000/]()
+Acesse o endereço [http://localhost:4000/]()
 
 Pronto :)
 
