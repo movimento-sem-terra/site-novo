@@ -45,4 +45,7 @@ Na regi&atilde;o, o local ocupado simboliza a abertura da negocia&ccedil;&atilde
 A centralidade da luta &eacute; a terra, a defesa da democracia e tamb&eacute;m a liberdade de Lula, pois a luta deve ser permanente em todos os campos de batalha da defesa dos direitos sociais do povo brasileiro.</p>
 
 <p><br />
+As ocupa&ccedil;&otilde;es&nbsp; integram&nbsp; o calend&aacute;rio da Jornada Nacional&nbsp; de&nbsp; Lutas Pela Reforma Agr&aacute;ria, que al&eacute;m de rememorar os 22 anos do massacre&nbsp; de Eldorado dos Caraj&aacute;s, denuncia a paralisa&ccedil;&atilde;o da reforma agr&aacute;ria, o desmantelo&nbsp; das pol&iacute;ticas&nbsp; de reforma&nbsp; agr&aacute;ria e a criminaliza&ccedil;&atilde;o dos movimentos sociais.&nbsp;</p>
+
+<p><br />
 <em>*Editado por Iris Pacheco</em></p>
