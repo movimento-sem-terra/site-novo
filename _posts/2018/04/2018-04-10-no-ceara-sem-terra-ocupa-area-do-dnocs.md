@@ -36,16 +36,16 @@ releated_posts:
 <p><em>Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
-No Cear&aacute;, a Jornada Nacional de Lutas Pela Reforma Agr&aacute;ria no Cear&aacute; se iniciou na manh&atilde; desta ter&ccedil;a-feira (10), com a ocupa&ccedil;&atilde;o de &aacute;rea desapropriada pelo Departamento Nacional de Obras Contra as Secas (DNOCS), em Crate&uacute;s.</p>
+Na madrugada desta ter&ccedil;a-feira (10) Cerca de 200 fam&iacute;lias organizadas pelo Movimento dos Trabalhadores/as Rurais Sem Terra (MST) ocupam &aacute;rea do Departamento Nacional de Obras Contra as Secas (DENOCS) no munic&iacute;pio de Crate&uacute;s.&nbsp;</p>
 
 <p><br />
-Na regi&atilde;o, o local ocupado simboliza a abertura da negocia&ccedil;&atilde;o para resolver a pauta das fam&iacute;lias atingidas pelo lago de Fronteira que at&eacute; ent&atilde;o n&atilde;o foram indenizadas ou est&atilde;o sem perspectiva de indeniza&ccedil;&atilde;o, justamente por serem pequenos agricultores ou atigido indiretamente.</p>
+A ocupa&ccedil;&atilde;o simboliza&nbsp; abertura da negocia&ccedil;&atilde;o para resolver a pauta das fam&iacute;lias atingidas pelo &ldquo;Lago de Fronteira&rdquo; que at&eacute; hoje n&atilde;o foram indenizadas ou est&atilde;o sem perspectivas de indeniza&ccedil;&atilde;o por serem&nbsp; pequenos agricultores ou atingido indiretamente.</p>
 
 <p><br />
-A centralidade da luta &eacute; a terra, a defesa da democracia e tamb&eacute;m a liberdade de Lula, pois a luta deve ser permanente em todos os campos de batalha da defesa dos direitos sociais do povo brasileiro.</p>
+Tamb&eacute;m nesta madrugada, cerca de 100 fam&iacute;lias organizadas ocuparam a fazenda Serrote, localizada no munic&iacute;pio de Quixeramobim, no sert&atilde;o central do Cear&aacute;. A fazenda conta&nbsp; com 3.700 hectares&nbsp; e pertence a fam&iacute;lia Carneiro.</p>
 
 <p><br />
-As ocupa&ccedil;&otilde;es&nbsp; integram&nbsp; o calend&aacute;rio da Jornada Nacional&nbsp; de&nbsp; Lutas Pela Reforma Agr&aacute;ria, que al&eacute;m de rememorar os 22 anos do massacre&nbsp; de Eldorado dos Caraj&aacute;s, denuncia a paralisa&ccedil;&atilde;o da reforma agr&aacute;ria, o desmantelo&nbsp; das pol&iacute;ticas&nbsp; de reforma&nbsp; agr&aacute;ria e a criminaliza&ccedil;&atilde;o dos movimentos sociais.&nbsp;</p>
+As ocupa&ccedil;&otilde;es&nbsp; integram&nbsp; o calend&aacute;rio da Jornada Nacional de Lutas Pela Reforma Agr&aacute;ria, em defesa dos direitos, rememorar os 22 anos do massacre&nbsp; de Eldorado dos Caraj&aacute;s, denunciar a paralisa&ccedil;&atilde;o da Reforma Agr&aacute;ria, a criminaliza&ccedil;&atilde;o dos Movimentos Populares, a viol&ecirc;ncia e a impunidade no campo, e pautar a democracia e a liberdade imediata do presidente Lula. A jornada&nbsp; de Lutas deste ano seguir&aacute;&nbsp; pressionando o poder judici&aacute;rio e denunciando o processo arbitr&aacute;rio de julgamento do presidente.</p>
 
 <p><br />
 <em>*Editado por Iris Pacheco</em></p>
