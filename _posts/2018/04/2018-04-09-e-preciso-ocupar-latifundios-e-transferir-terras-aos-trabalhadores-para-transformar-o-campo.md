@@ -35,14 +35,13 @@ releated_posts:
 </div>
 </div>
 
-<div>&nbsp;</div>
-
-<div><em>Por Webert da Cruz</em></div>
+<div><em>or Webert da Cruz</em></div>
 
 <div><em>Da P&aacute;gina do MST</em></div>
 
 <div><br />
 <br />
+<em>P</em><br />
 Cortes or&ccedil;ament&aacute;rios, asfixia da pol&iacute;tica agr&aacute;ria, fim de programas e o aumento da viol&ecirc;ncia, s&atilde;o algumas consequ&ecirc;ncias do Estado de recess&atilde;o em que vive o campon&ecirc;s brasileiro. &Eacute; frente a esse contexto pol&iacute;tico, que o MST realizar&aacute; a Jornada Nacional de Lutas pela Reforma Agr&aacute;ria 2018.</div>
 
 <div>&nbsp;</div>
@@ -72,8 +71,7 @@ No estado do Par&aacute;, com uma Marcha pac&iacute;fica para Bel&eacute;m, a PM
 
 <div>&nbsp;</div>
 
-<div><br />
-Foi uma trag&eacute;dia que girou o mundo. Um massacre de camponeses num pa&iacute;s com tanta terra, tanta &aacute;gua e tantos bens da natureza, de extens&atilde;o continental, mas tamb&eacute;m, com tanta concentra&ccedil;&atilde;o e m&aacute; utiliza&ccedil;&atilde;o dos recursos naturais, em que o latif&uacute;ndio e o agroneg&oacute;cio utilizam apenas com a inten&ccedil;&atilde;o de aumentar seus lucros.&nbsp;</div>
+<div>Foi uma trag&eacute;dia que girou o mundo. Um massacre de camponeses num pa&iacute;s com tanta terra, tanta &aacute;gua e tantos bens da natureza, de extens&atilde;o continental, mas tamb&eacute;m, com tanta concentra&ccedil;&atilde;o e m&aacute; utiliza&ccedil;&atilde;o dos recursos naturais, em que o latif&uacute;ndio e o agroneg&oacute;cio utilizam apenas com a inten&ccedil;&atilde;o de aumentar seus lucros.&nbsp;</div>
 
 <div>&nbsp;</div>
 
