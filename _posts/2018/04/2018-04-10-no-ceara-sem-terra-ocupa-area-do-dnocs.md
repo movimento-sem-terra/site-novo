@@ -39,7 +39,7 @@ releated_posts:
 No Cear&aacute;, a Jornada Nacional de Lutas Pela Reforma Agr&aacute;ria no Cear&aacute; se iniciou na manh&atilde; desta ter&ccedil;a-feira (10), com a ocupa&ccedil;&atilde;o de &aacute;rea desapropriada pelo Departamento Nacional de Obras Contra as Secas (DNOCS), em Crate&uacute;s.</p>
 
 <p><br />
-Na regi&atilde;o, o local ocupado simboliza a abertura da negocia&ccedil;&atilde;o para resolver a pauta das fam&iacute;lias atingidas pelo lago de Fronteira que at&eacute; ent&atilde;o n&atilde;o foram indenizadas ou est&atilde;o sem perspectiva de indeniza&ccedil;&atilde;o, justamente por serem pequenos agricultores ou atigido indiretamente,</p>
+Na regi&atilde;o, o local ocupado simboliza a abertura da negocia&ccedil;&atilde;o para resolver a pauta das fam&iacute;lias atingidas pelo lago de Fronteira que at&eacute; ent&atilde;o n&atilde;o foram indenizadas ou est&atilde;o sem perspectiva de indeniza&ccedil;&atilde;o, justamente por serem pequenos agricultores ou atigido indiretamente.</p>
 
 <p><br />
 A centralidade da luta &eacute; a terra, a defesa da democracia e tamb&eacute;m a liberdade de Lula, pois a luta deve ser permanente em todos os campos de batalha da defesa dos direitos sociais do povo brasileiro.</p>
