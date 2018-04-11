@@ -1,6 +1,8 @@
 ---
 date: "2018-04-11T16:18:28-03:00"
-tags: []
+tags:
+  - tag: jornada-nacional-de-lutas
+  - tag: despejo
 title: Ocupação em área do senador Zé Maranhão recebe liminar de despejo em tempo recorde
 support_line: A área foi ocupada na madrugada desta última terça-feira (10) e a polícia já se encontra no local
 menu: direitos humanos
@@ -24,7 +26,11 @@ files:
     $$hashKey: 08M
 created_date: "2018-04-11T16:24:22-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2018/04/2018-04-10-eldorado-dos-carajas-22-anos-de-impunidade.md
+  - _posts/2018/01/2018-01-27-no-rio-grande-do-norte-familias-sem-terra-sofrem-despejo.md
+  - _posts/2017/12/2017-12-26-conic-sobre-os-despejos-de-camponeses-sas-no-parana-e-outros-estados.md
+  - _posts/2017/12/2017-12-26-mst-ocupa-area-na-zona-da-mata-mineira.md
 
 ---
 <div style="text-align:center">
