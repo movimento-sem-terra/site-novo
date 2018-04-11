@@ -52,3 +52,7 @@ O Acampamento Lula Livre tamb&eacute;m comp&otilde;e a Jornada Nacional de Luta 
 
 <p><br />
 Ainda segundo Baratto, &ldquo;S&oacute; no ano de 2017, foram mais de 65 mortes de camponeses. N&atilde;o temos d&uacute;vidas que esse recorde de mortes e causado devido a impunidade, fortalecida com o golpe de 2016&rdquo;.</p>
+
+<p>&nbsp;</p>
+
+<p><em>*Editado por Maura Silva</em></p>
