@@ -4,7 +4,7 @@ tags:
   - tag: lula
   - tag: mobilizações
   - tag: lutas
-title: Militância ocupa Praça da Justiça de Fortaleza em defesa do Lula
+title: "Em Fortaleza, militância ocupa Praça da Justiça em defesa do Lula"
 support_line: "Centenas de pessoas ocupam neste momento a Praça da Justiça, em Fortaleza, em defesa de Lula e da Democracia. Já está montado um acampamento com extensa programação de atividades nos próximos dias"
 menu: lutas e mobilizações
 special-page: jornadas-2018
