@@ -29,7 +29,7 @@ releated_posts:
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="41283071541_f21429896a_z.jpg" height="466" src="//farm1.staticflickr.com/817/39580655430_82e88d51d5_b.jpg" width="700" />
-<figcaption></figcaption>
+<figcaption><em>A cada tr&ecirc;s anos, em m&eacute;dia, dois agricultores sem terra s&atilde;o assassinados no Paran&aacute; - Cr&eacute;ditos: J&uacute;lio Carignano</em></figcaption>
 </figure>
 </div>
 
