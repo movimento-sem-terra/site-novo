@@ -26,6 +26,7 @@ releated_posts:
   - _posts/2018/04/2018-04-09-e-preciso-ocupar-latifundios-e-transferir-terras-aos-trabalhadores-para-transformar-o-campo.md
   - _posts/2018/03/2018-03-09-no-rn-mulheres-terminar-jornada-nacional-de-lutas-ocupado-o-porto-de-natal.md
   - _posts/2018/03/2018-03-28-nota-publica-o-avanco-da-criminalizacao-nao-vai-parar-nossa-missao.md
+special-page: jornadas-2018
 
 ---
 <p><em>Da P&aacute;gina do MST&nbsp;</em></p>
