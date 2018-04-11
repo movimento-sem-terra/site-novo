@@ -5,7 +5,7 @@ tags:
   - tag: armazem-do-campo
   - tag: agroecologia
 title: "Almoço no Armazém do Campo marca contagem regressiva para 3ª Feira Nacional da Reforma Agrária\n\n"
-support_line: "Evento político cultural ocorre neste sábado (14), em São Paulo\n\n"
+support_line: "Evento político cultural ocorre neste sábado (14), em São Paulo"
 menu: agricultura camponesa
 images_hd: //farm1.staticflickr.com/787/41372561181_525bb8e4e2_b.jpg
 layout: post
@@ -32,6 +32,7 @@ releated_posts:
   - _posts/2017/08/2017-08-07-em-teixeira-de-freitas-mst-participa-da-feira-de-produtos-organicos.md
   - _posts/2017/12/2017-12-04-comecou-hoje-no-rio-de-janeiro-a-ix-edicao-da-feira-da-reforma-agraria.md
   - _posts/2018/04/2018-04-10-culinaria-da-terra-movimenta-parque-da-agua-branca-em-preparacao-a-3o-feira-da-reforma-agraria.md
+section: featured-news
 
 ---
 <p><em>Da P&aacute;gina do MST&nbsp;</em></p>
