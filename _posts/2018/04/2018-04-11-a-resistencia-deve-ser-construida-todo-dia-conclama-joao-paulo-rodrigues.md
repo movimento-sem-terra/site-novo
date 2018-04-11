@@ -5,7 +5,7 @@ tags:
   - tag: resistência
   - tag: mobilizações
 title: "\"A resistência deve ser construída todo dia\", conclama João Paulo Rodrigues"
-support_line: "Para o dirigente nacional do MST, após a prisão de Lula, a esquerda deve se unir em defesa da democracia\n"
+support_line: "Para o dirigente nacional do MST, após a prisão de Lula, a esquerda deve se unir em defesa da democracia"
 menu: lutas e mobilizações
 images_hd: //farm1.staticflickr.com/867/40674241444_275e0ab31e_b.jpg
 layout: post
@@ -28,6 +28,7 @@ releated_posts:
   - _posts/2018/04/2018-04-07-joao-pedro-stedile-hoje-foi-um-dia-de-resistencia-historica.md
   - _posts/2018/04/2018-04-06-15-mil-sem-terra-bloqueiam-mais-de-50-pontos-de-rodovias-em-todo-pais.md
   - _posts/2018/04/2018-04-06-contra-o-estado-de-excecao-liberdade-para-lula.md
+label: interviews
 
 ---
 <p>&nbsp;</p>
