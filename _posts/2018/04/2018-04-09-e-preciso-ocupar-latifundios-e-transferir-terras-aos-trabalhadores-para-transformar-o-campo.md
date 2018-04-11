@@ -26,6 +26,7 @@ releated_posts:
   - _posts/2018/03/2018-03-08-mulheres-saem-as-ruas-da-paraiba-em-jornada-nacional-de-lutas.md
   - _posts/2018/03/2018-03-29-convocatoria-do-acampamento-terra-livre-atl-2018.md
 special-page: jornadas-2018
+label: interviews
 
 ---
 <div>
