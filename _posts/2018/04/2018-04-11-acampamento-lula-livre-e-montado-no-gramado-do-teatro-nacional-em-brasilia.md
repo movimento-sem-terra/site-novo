@@ -7,16 +7,16 @@ tags:
 title: "Acampamento Lula Livre é montado no gramado do Teatro Nacional, em Brasilia "
 support_line: "Formação política, palestras e protestos públicos são previstos na programação do acampamento. Não há previsão de retorno dos militantes aos estados de origem"
 menu: lutas e mobilizações
-images_hd: //farm1.staticflickr.com/871/41388425431_578650f4aa_b.jpg
+images_hd: //farm1.staticflickr.com/791/40495826475_96d651d758_b.jpg
 layout: post
 files:
-  - link: //farm1.staticflickr.com/871/41388425431_578650f4aa_b.jpg
-    original: //farm1.staticflickr.com/871/41388425431_272127bbac_o.jpg
-    thumbnail: //farm1.staticflickr.com/871/41388425431_578650f4aa_t.jpg
-    medium: //farm1.staticflickr.com/871/41388425431_578650f4aa_z.jpg
-    small: //farm1.staticflickr.com/871/41388425431_578650f4aa_n.jpg
-    title: lula-7.jpg
-    $$hashKey: 0K1
+  - link: //farm1.staticflickr.com/791/40495826475_96d651d758_b.jpg
+    original: //farm1.staticflickr.com/791/40495826475_8faa42a969_o.jpg
+    thumbnail: //farm1.staticflickr.com/791/40495826475_96d651d758_t.jpg
+    medium: //farm1.staticflickr.com/791/40495826475_96d651d758_z.jpg
+    small: //farm1.staticflickr.com/791/40495826475_96d651d758_n.jpg
+    title: lula livre brasilia 11 04.jpeg
+    $$hashKey: 05P
 created_date: "2018-04-11T11:09:38-03:00"
 published: true
 releated_posts:
