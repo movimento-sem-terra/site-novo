@@ -34,6 +34,7 @@ releated_posts:
   - _posts/2017/10/2017-10-09-mst-leva-producao-saudavel-para-paraiba.md
   - _posts/2017/10/2017-10-11-sem-terrinha-na-luta-pela-alimentacao-saudavel.md
   - _posts/2017/10/2017-10-16-na-pb-ocupacao-do-incra-da-inicio-a-jornada-nacional-em-defesa-da-reforma-agraria.md
+special-page: jornadas-2018
 
 ---
 <p>&nbsp;</p>
