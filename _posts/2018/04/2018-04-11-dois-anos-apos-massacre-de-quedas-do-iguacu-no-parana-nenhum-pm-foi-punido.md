@@ -23,6 +23,7 @@ releated_posts:
   - _posts/2017/09/2017-09-21-retirada-de-direitos-tenta-prejudicar-mobilizacao-popular-avalia-presidente-do-cndh.md
   - _posts/2018/02/2018-02-27-ato-ecumenico-em-memoria-de-marcio-matos-exige-justica.md
   - _posts/2018/03/2018-03-27-apos-20-anos-assassinato-de-liderancas-sem-terra-no-para-permanece-impune.md
+section: featured-news
 
 ---
 <p>&nbsp;</p>
