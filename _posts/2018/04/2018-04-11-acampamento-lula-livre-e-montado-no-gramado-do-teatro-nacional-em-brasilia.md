@@ -31,6 +31,7 @@ releated_posts:
   - _posts/2018/04/2018-04-05-em-brasilia-movimentos-fazem-ato-em-defesa-da-democracia-do-direito-de-lula-se-candidatar.md
   - _posts/2018/04/2018-04-06-lula-so-sera-libertado-com-o-povo-nas-ruas-afirma-joao-pedro-stedile.md
   - _posts/2018/04/2018-04-06-contra-o-estado-de-excecao-liberdade-para-lula.md
+section: featured-news
 
 ---
 <p>&nbsp;</p>
