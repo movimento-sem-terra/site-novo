@@ -77,7 +77,8 @@ O Acampamento Pedag&oacute;gico na Curva do &ldquo;S&rdquo;, em Eldorado dos Car
 <p><br />
 Todo o m&ecirc;s abril em mem&oacute;ria as v&iacute;timas desta chacina, torna-se um lugar de forma&ccedil;&atilde;o, estudo, trabalho e ousadia da Juventude Sem Terra.</p>
 
-<p><strong>&quot;Nosso of&iacute;cio sobre a terra &eacute; ressucitar os mortos e apontar a cara dos assassinos&quot;</strong></p>
+<p><br />
+<strong>&quot;Nosso of&iacute;cio sobre a terra &eacute; ressucitar os mortos e apontar a cara dos assassinos&quot;</strong></p>
 
 <p><br />
 Todos os dias, durante o acampamento a partir das&nbsp;17h30,&nbsp;a juventude Sem Terra da Amaz&ocirc;nia, se reunir&aacute; na curva do S e&nbsp;fechar&atilde;o&nbsp;a pista em mem&oacute;ria aos 19 Sem Terras massacrados em 17 de abril de 1996, pela pol&iacute;cia do estado do Par&aacute;, sob as ordens do governo do PSDB.</p>
