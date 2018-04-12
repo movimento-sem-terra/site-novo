@@ -85,5 +85,13 @@ Todos os dias, durante o acampamento a partir das&nbsp;17h30,&nbsp;a juventude S
 <p><br />
 Por Justi&ccedil;a e Reforma Agr&aacute;ria! Marielle Vive! Lula Livre!&nbsp;</p>
 
+<p>&nbsp;</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2018-04-12 at 18.12.58.jpeg" height="450" src="//farm1.staticflickr.com/783/26545870547_880bd5554c_b.jpg" width="600" />
+<figcaption><em>&quot;Nosso of&iacute;cio sobre a terra &eacute; ressucitar os mortos e apontar a cara dos assassinos&quot;</em></figcaption>
+</figure>
+</div>
+
 <p><br />
 <em>*Editado por Iris Pacheco</em></p>
