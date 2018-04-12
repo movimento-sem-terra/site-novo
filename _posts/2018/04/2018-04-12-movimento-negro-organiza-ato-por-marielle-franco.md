@@ -61,3 +61,6 @@ Nesse sentido, neste m&ecirc;s de abril, que marca um m&ecirc;s da execu&ccedil;
 
 <p><br />
 Voc&ecirc; pode apoiar indo &agrave;s atividades previstas e organizadas pela Campanha, curtindo a p&aacute;gina <a href="https://www.facebook.com/ContraOGenocidio/?ref=br_rs">&ldquo;Contra o Genoc&iacute;dio Negro&rdquo;</a> no Facebook e compartilhando o conte&uacute;do postado, divulgando as artes, usando filtro da A&ccedil;&atilde;o na sua foto de perfil, feito pela artista pl&aacute;stica Patricia Ab&ograve;ris&aacute;, e usando a hastag #30diasporMarielle em posts. Caso queira colaborar sugerindo atividades que agreguem &agrave; programa&ccedil;&atilde;o, preencha o <a href="https://bit.ly/2H6bihp">formul&aacute;rio</a>.</p>
+
+<p><br />
+<em>*Editado por Iris Pacheco</em></p>
