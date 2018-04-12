@@ -34,10 +34,8 @@ releated_posts:
 section: featured-news
 
 ---
-<p>&nbsp;</p>
-
-<p><em>Por Janelson Ferreira<br />
-Da P&aacute;gina do MST</em></p>
+<p><br />
+<em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
 Na manh&atilde; desta quarta-feira (11), a <a href="http://www.frentebrasilpopular.org.br/">Frente Brasil Popular </a>montou&nbsp;o Acampamento Lula Livre, no gramado do Teatro Nacional. Cerca de 500 integrantes de movimentos sociais de todo pa&iacute;s&nbsp;est&atilde;o no espa&ccedil;o&nbsp;que dever&aacute; crescer ao longo dos pr&oacute;ximos dias. A a&ccedil;&atilde;o &eacute; do mesmo que&nbsp;car&aacute;ter da que acontece em Curitiba desde o &uacute;ltimo s&aacute;bado (7), dia da pris&atilde;o do ex-presidente Lula.</p>
