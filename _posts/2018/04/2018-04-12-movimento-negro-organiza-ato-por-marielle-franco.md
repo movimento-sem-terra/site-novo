@@ -4,7 +4,7 @@ tags:
   - tag: marielle-vive
   - tag: direitos-humanos
   - tag: rio-de-janeiro
-title: Movimento negro organiza ato por Marielle Franco
+title: Movimentos organizam ato por Marielle Franco
 support_line: "A atividade integra a Campanha #30diasporMarielle, que foi lançada no dia 31 de março por organizações e coletivos do movimento negro, entidades mistas e pessoas independentes de São Paulo. "
 menu: direitos humanos
 images_hd: //farm1.staticflickr.com/865/41374563602_d70d973d32_b.jpg
