@@ -52,16 +52,16 @@
       margin-bottom: 15px;
     }
   }
-  .youtube-playlist {
-    background-color: #E1D7CC;
-    width: 100vw;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 15px;
-  }
+  // .youtube-playlist {
+  //   background-color: #E1D7CC;
+  //   width: 100vw;
+  //   display: flex;
+  //   justify-content: center;
+  //   align-items: center;
+  //   padding: 15px;
+  // }
 
-  .album-de-fotos {
+  .youtube-playlist, .album-de-fotos-abril {
     background-color: #E1D7CC;
     display: flex;
     justify-content: center;
@@ -72,9 +72,10 @@
     margin-top: 15px;
   }
   
-  figcaption {
-    font-style: italic;
-    margin: 1%;
+  .header-title {
+    text-transform: uppercase;
+    font-size: 2.7em;
+    margin: 0;
   }
 
   .big-content {
