@@ -62,7 +62,7 @@ releated_posts:
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Na manh&atilde; desta quarta-feira (11), a Juventude Sem Terra iniciou o 12&deg; Acampamento Pedag&oacute;gico na Curva do &ldquo;S&rdquo;, em Eldorado dos Caraj&aacute;s. No m&ecirc;s abril em mem&oacute;ria a Oziel e as v&iacute;timas desta chacina, torna-se um lugar de forma&ccedil;&atilde;o, estudo, trabalho e ousadia da Juventude Sem Terra.</p>
+Na manh&atilde; desta ter&ccedil;a-feira (10), a Juventude Sem Terra iniciou o 12&deg; Acampamento Pedag&oacute;gico na Curva do &ldquo;S&rdquo;, em Eldorado dos Caraj&aacute;s. No m&ecirc;s abril em mem&oacute;ria a Oziel e as v&iacute;timas desta chacina, torna-se um lugar de forma&ccedil;&atilde;o, estudo, trabalho e ousadia da Juventude Sem Terra.</p>
 
 <p><br />
 Este ano, o Campo Sagrado, re&uacute;ne 350 jovens de todas as regi&otilde;es do Par&aacute; em defesa Democracia denunciando a pris&atilde;o arbitr&aacute;ria do ex-Presidente Lula e do Pe. Amaro, por Marielle, Frei Henri, por Fusquinha e Doutor e tantos m&aacute;rtires de nossa Amaz&ocirc;nia!&nbsp;</p>
