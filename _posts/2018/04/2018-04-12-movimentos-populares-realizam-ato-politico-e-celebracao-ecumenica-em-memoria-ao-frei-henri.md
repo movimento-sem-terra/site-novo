@@ -5,7 +5,7 @@ tags:
   - tag: homenagem
   - tag: pará
   - tag: direitos-humanos
-title: Movimentos populares realizam Ato Político e Celebração Ecumênica em Memória ao Frei Henri
+title: Movimentos realizam Ato Político e Celebração Ecumênica em Memória ao Frei Henri
 images_hd: //farm1.staticflickr.com/898/41373214342_fd63e99c94_b.jpg
 menu: lutas e mobilizações
 support_line: "O ato integra as ações de acolhidas das cinzas do Frei no acampamento do MST que leva seu nome, em Curionópolis."
