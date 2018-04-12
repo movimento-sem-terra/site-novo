@@ -61,6 +61,22 @@
     padding: 15px;
   }
 
+  .album-de-fotos {
+    background-color: #E1D7CC;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    margin-top: 15px;
+  }
+  
+  figcaption {
+    font-style: italic;
+    margin: 1%;
+  }
+
   .big-content {
     font-size: 1.8em;
     line-height: 1.6;
