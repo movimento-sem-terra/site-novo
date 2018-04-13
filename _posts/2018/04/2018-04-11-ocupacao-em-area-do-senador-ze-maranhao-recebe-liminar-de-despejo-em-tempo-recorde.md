@@ -39,6 +39,8 @@ releated_posts:
 </figure>
 </div>
 
+<p>&nbsp;</p>
+
 <p><em>Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
