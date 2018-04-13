@@ -17,3 +17,5 @@ index.php
 assets/css/.sanitized-sass/
 noticias.json
 Gemfile.lock
+.vagrant/
+*.retry

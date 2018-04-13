@@ -1,0 +1,6 @@
+---
+- name: Install Jekyll
+  shell: ./setup 
+  args:
+    chdir: site/
+  become: false
