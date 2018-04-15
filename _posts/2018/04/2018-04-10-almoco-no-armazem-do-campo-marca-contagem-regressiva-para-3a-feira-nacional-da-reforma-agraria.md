@@ -32,7 +32,7 @@ releated_posts:
   - _posts/2017/08/2017-08-07-em-teixeira-de-freitas-mst-participa-da-feira-de-produtos-organicos.md
   - _posts/2017/12/2017-12-04-comecou-hoje-no-rio-de-janeiro-a-ix-edicao-da-feira-da-reforma-agraria.md
   - _posts/2018/04/2018-04-10-culinaria-da-terra-movimenta-parque-da-agua-branca-em-preparacao-a-3o-feira-da-reforma-agraria.md
-section: cover
+section: null
 
 ---
 <p><em>Da P&aacute;gina do MST&nbsp;</em></p>
