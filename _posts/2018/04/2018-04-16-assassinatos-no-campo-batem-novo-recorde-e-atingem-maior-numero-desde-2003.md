@@ -42,7 +42,7 @@ releated_posts:
   - _posts/2018/02/2018-02-27-ato-ecumenico-em-memoria-de-marcio-matos-exige-justica.md
 
 ---
-<p>&nbsp;</p>
+<p><img alt="trabalho-escravo.jpg" src="//farm1.staticflickr.com/870/26633102217_8f05419750_b.jpg" width="700" /></p>
 
 <p>&nbsp;</p>
 
@@ -64,9 +64,11 @@ Contudo, j&aacute; que o Minist&eacute;rio P&uacute;blico Federal no Amazonas e 
 <p><br />
 A CPT ressalta, todavia, que, al&eacute;m dos dados de assassinatos que constam nesta rela&ccedil;&atilde;o, h&aacute; muitos outros que acontecem na imensid&atilde;o deste pa&iacute;s e que s&oacute; a dor das fam&iacute;lias &eacute; que os registram. &ldquo;A publica&ccedil;&atilde;o da CPT &eacute; apenas uma amostra dos conflitos no Brasil&rdquo;, dizia Dom Tom&aacute;s Balduino, bispo em&eacute;rito de Goi&aacute;s (GO) e um dos fundadores da Pastoral.</p>
 
-<p>&nbsp;</p>
+<p><br />
+<img alt="unnamed(4).png" src="//farm1.staticflickr.com/870/41503126561_e157a9917d_b.jpg" /></p>
 
-<p>Os assassinatos de trabalhadores e trabalhadoras rurais Sem Terra, de ind&iacute;genas, quilombolas, posseiros, pescadores, assentados, entre outros, tiveram um crescimento brusco a partir de 2015. O estado do Par&aacute; lidera o ranking de 2017 com 21 pessoas assassinadas, sendo 10 no Massacre de Pau D&rsquo;Arco; seguido pelo estado de Rond&ocirc;nia, com 17, e pela Bahia, com 10 assassinatos.</p>
+<p><br />
+Os assassinatos de trabalhadores e trabalhadoras rurais Sem Terra, de ind&iacute;genas, quilombolas, posseiros, pescadores, assentados, entre outros, tiveram um crescimento brusco a partir de 2015. O estado do Par&aacute; lidera o ranking de 2017 com 21 pessoas assassinadas, sendo 10 no Massacre de Pau D&rsquo;Arco; seguido pelo estado de Rond&ocirc;nia, com 17, e pela Bahia, com 10 assassinatos.</p>
 
 <p><br />
 Dos 70 assassinatos em 2017, 28 ocorreram em massacres, o que corresponde a 40% do total. Em agosto de 2017, a CPT lan&ccedil;ou uma <a href="http://(https://cptnacional.org.br/mnc/index.php)">p&aacute;gina especial</a> na internet sobre os massacres no campo registrados de 1985 a 2017. Foram 46 massacres com 220 v&iacute;timas ao longo desses 32 anos. Na p&aacute;gina &eacute; poss&iacute;vel consultar o hist&oacute;rico e imagens dos casos. O estado do Par&aacute; tamb&eacute;m lidera esse ranking, com 26 massacres ao longo desses anos, que vitimaram 125 pessoas.</p>
