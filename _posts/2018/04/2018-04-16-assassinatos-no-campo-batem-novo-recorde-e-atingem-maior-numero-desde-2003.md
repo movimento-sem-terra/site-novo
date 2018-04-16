@@ -32,6 +32,13 @@ files:
     small: //farm1.staticflickr.com/870/26633102217_8f05419750_n.jpg
     title: trabalho-escravo.jpg
     $$hashKey: 0XO
+  - link: //farm1.staticflickr.com/813/41503751281_a5e95f7c8c_b.jpg
+    original: //farm1.staticflickr.com/813/41503751281_75dd674b33_o.png
+    thumbnail: //farm1.staticflickr.com/813/41503751281_a5e95f7c8c_t.jpg
+    medium: //farm1.staticflickr.com/813/41503751281_a5e95f7c8c_z.jpg
+    small: //farm1.staticflickr.com/813/41503751281_a5e95f7c8c_n.jpg
+    title: unnamed(3).png
+    $$hashKey: 1DW
 created_date: "2018-04-16T16:49:23-03:00"
 published: true
 releated_posts:
@@ -60,6 +67,9 @@ Destacamos, ainda, a suspeita de ter ocorrido mais um massacre, de ind&iacute;ge
 
 <p><br />
 Contudo, j&aacute; que o Minist&eacute;rio P&uacute;blico Federal no Amazonas e a Funda&ccedil;&atilde;o Nacional do &Iacute;ndio (FUNAI), n&atilde;o chegaram a um consenso, e diante das poucas informa&ccedil;&otilde;es a que a CPT teve acesso, por se tratar de povos isolados, o caso n&atilde;o foi inserido na listagem por ora apresentada<a href="https://www.cptnacional.org.br/component/jdownloads/download/26-documentos/14073-politica-e-regras-de-uso-dos-dados-do-centro-de-documentacao-dom-tomas-balduino-da-comissao-pastoral-da-terra"> (Confira aqui a pol&iacute;tica e regras de uso dos dados da CPT)</a>.</p>
+
+<p><br />
+<img alt="unnamed(3).png" src="//farm1.staticflickr.com/813/41503751281_a5e95f7c8c_b.jpg" width="400" /></p>
 
 <p><br />
 A CPT ressalta, todavia, que, al&eacute;m dos dados de assassinatos que constam nesta rela&ccedil;&atilde;o, h&aacute; muitos outros que acontecem na imensid&atilde;o deste pa&iacute;s e que s&oacute; a dor das fam&iacute;lias &eacute; que os registram. &ldquo;A publica&ccedil;&atilde;o da CPT &eacute; apenas uma amostra dos conflitos no Brasil&rdquo;, dizia Dom Tom&aacute;s Balduino, bispo em&eacute;rito de Goi&aacute;s (GO) e um dos fundadores da Pastoral.</p>
