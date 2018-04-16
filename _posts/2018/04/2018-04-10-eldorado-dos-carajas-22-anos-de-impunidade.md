@@ -44,3 +44,96 @@ Epis&oacute;dio n&deg;1 O Massacre</p>
 <p>&nbsp;</p>
 
 <p><iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/PwovO_osWJA" width="640"></iframe></p>
+
+<p>&nbsp;</p>
+
+<p>Epis&oacute;dio n&deg;2&nbsp;Animus Necandi</p>
+
+<p><iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/VsgK6cCaMMc" width="640"></iframe></p>
+
+<p>&nbsp;</p>
+
+<p>Epis&oacute;dio n&deg;3 Sobre In&aacute;cio<iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/G6I7LHMDxJ0" width="640"></iframe>&nbsp;</p>
+
+<p><br />
+Epis&oacute;dio n&deg; Levantados do ch&atilde;o&nbsp;<iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/FANHZAkSPPM" width="640"></iframe></p>
+
+<p>&nbsp;</p>
+
+<p>Epis&oacute;dio n&deg;5&nbsp; Entreato da escuta<iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/bA5FXXLjQQA" width="640"></iframe></p>
+
+<p>&nbsp;</p>
+
+<p>Epis&oacute;dio n&deg;7&nbsp; A farsa da justi&ccedil;a burguesa - processo&nbsp;<iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/icjX6URCd84" width="640"></iframe></p>
+
+<p>&nbsp;</p>
+
+<p>Epis&oacute;dio n&deg; 8 A farsa da justi&ccedil;a burguesa - na marcha&nbsp;</p>
+
+<p><iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/Cmt2wR4yBgE" width="640"></iframe></p>
+
+<p>&nbsp;</p>
+
+<p>Epis&oacute;dio n&deg; 9 Todos na marcha</p>
+
+<p><iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/B_Ca5wtVBRM" width="640"></iframe></p>
+
+<p>&nbsp;</p>
+
+<p>Epis&oacute;dio n&deg; 10 - Final da marcha&nbsp;</p>
+
+<p><iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/v8g2lrCajJs" width="640"></iframe></p>
+
+<p>&nbsp;</p>
+
+<p>Epis&oacute;dio n&deg; 11&nbsp;<iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/UDEA2AgtyiI" width="640"></iframe></p>
+
+<p>&nbsp;</p>
+
+<p>Epis&oacute;dio n&deg; 12 Estudo de cena e a farsa da justi&ccedil;a&nbsp;</p>
+
+<p><iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/S_QYXfHTvOE" width="640"></iframe></p>
+
+<p>&nbsp;</p>
+
+<p>Epis&oacute;dio n&deg; 13 Juventude que ousa lutar</p>
+
+<p><iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/td5B7eNKVog" width="640"></iframe></p>
+
+<p>&nbsp;</p>
+
+<p>Epis&oacute;dio n&deg; 14 Mem&oacute;ria e resist&ecirc;ncia&nbsp;<iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/pEhBacidQgA" width="640"></iframe></p>
+
+<p>&nbsp;</p>
+
+<p>Epis&oacute;dio n&deg; 15 Celebra&ccedil;&atilde;o da vida&nbsp;</p>
+
+<p><iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/7C3LkSTKkzU" width="640"></iframe></p>
+
+<p>&nbsp;</p>
+
+<p>Epis&oacute;dio n&deg;16 pedagogia e teatro na curva do S</p>
+
+<p><iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/3TYh0iiX3Fg" width="640"></iframe></p>
+
+<p>&nbsp;</p>
+
+<p>Epis&oacute;dio n&deg; 17 Teatro e Reforma Agr&aacute;ria&nbsp;<iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/PpW2VNZkpak" width="640"></iframe></p>
+
+<p>&nbsp;</p>
+
+<p>Epis&oacute;dio n&deg; 18 A farsa em movimento&nbsp;<iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/PoCmtlm_pRo" width="640"></iframe></p>
+
+<p>&nbsp;</p>
+
+<p>Epis&oacute;dio n&deg; 19 Encontro com In&aacute;cio Pereira&nbsp;</p>
+
+<p><iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/Isrbn1ZhHQc" width="640"></iframe></p>
+
+<p>&nbsp;</p>
+
+<p>Epis&oacute;dio n&deg;&nbsp;20 Mem&oacute;ria, terra e minera&ccedil;&atilde;o&nbsp;<iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/Tc7h-FJ5baY" width="640"></iframe></p>
+
+<p>&nbsp;</p>
+
+<p>Epis&oacute;dio n&deg; 21 Fa&iacute;sca&nbsp;<iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/D5xnwDaXw7o" width="640"></iframe></p>
