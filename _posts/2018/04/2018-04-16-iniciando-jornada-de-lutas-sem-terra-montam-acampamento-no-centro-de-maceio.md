@@ -26,6 +26,7 @@ files:
     small: //farm1.staticflickr.com/878/41502241801_c47b164278_n.jpg
     title: WhatsApp Image 2018-04-15 at 17.12.59.jpeg
     $$hashKey: 09Y
+  - "\"Authentication failed : 'https://api.flickr.com/services/upload/' - Filetype was not recognised\""
 created_date: "2018-04-16T15:38:17-03:00"
 published: true
 releated_posts:
