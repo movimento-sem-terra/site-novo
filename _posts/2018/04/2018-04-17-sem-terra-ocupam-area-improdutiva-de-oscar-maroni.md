@@ -6,7 +6,7 @@ tags:
   - tag: lutas
 images_hd: //farm1.staticflickr.com/860/40810863214_6af5e6e1f8_b.jpg
 title: "Sem Terra ocupam área improdutiva de Oscar Maroni "
-support_line: "O MST já ocupou a Fazenda Santa Cecília outras três vezes. A primeira ocupação ocorreu em abril de 2009, quando mais de mil famílias denunciaram as irregularidades da área"
+support_line: "O MST já ocupou a Fazenda Santa Cecília outras três vezes. A primeira ocupação ocorreu em abril de 2009, com mais de mil famílias"
 special-page: jornadas-2018
 menu: lutas e mobilizações
 layout: post
