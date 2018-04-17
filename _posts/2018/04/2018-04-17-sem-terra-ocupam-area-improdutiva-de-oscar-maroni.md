@@ -41,6 +41,7 @@ releated_posts:
   - _posts/2018/04/2018-04-17-oscar-maroni-explorador-sexual-e-o-retrato-do-golpe-diz-militante-da-mmm.md
   - _posts/2018/04/2018-04-13-mst-volta-a-ocupar-a-fazenda-curata-no-pontal-do-paranapanema-em-sp.md
   - _posts/2018/04/2018-04-14-mst-ocupa-fazenda-improdutiva-em-valinhos-regiao-de-campinas.md
+section: cover
 
 ---
 <div style="text-align:center">
