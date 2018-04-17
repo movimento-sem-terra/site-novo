@@ -20,7 +20,7 @@ files:
     title: WhatsApp Image 2018-04-17 at 06.22.58.jpeg
     $$hashKey: 02P
 created_date: "2018-04-17T06:30:34-03:00"
-published: true
+published: false
 releated_posts:
   - _posts/2018/03/2018-03-08-em-jornada-de-luta-trabalhadoras-sem-terra-ocupam-prefeitura-de-boa-vista-do-tupim.md
   - _posts/2017/08/2017-08-03-no-rio-grande-do-norte-sem-terra-ocupam-mais-um-local-no-perimetro-irrigado-do-apodi.md
