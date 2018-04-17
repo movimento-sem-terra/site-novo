@@ -4,7 +4,7 @@ tags:
   - tag: direitos-humanos
   - tag: violência
   - tag: bahia
-title: "Ao denunciarem latifúndio improdutivo da família Marinho, trabalhadores Sem Terra sofrem constantes ameaças do coronelismo da Bahia\n"
+title: "Ao denunciarem latifúndio, trabalhadores Sem Terra sofrem ameaças do coronelismo da Bahia\n"
 support_line: "Ao denunciarem latifúndio improdutivo da família Marinho, trabalhadores Sem Terra sofrem constantes ameaças do coronelismo da região\n\n"
 images_hd: //farm1.staticflickr.com/917/40622367535_3af74fc382_b.jpg
 menu: lutas e mobilizações
