@@ -43,7 +43,7 @@ Para P&aacute;gina do MST</em></p>
 <p>Na madrugada do &uacute;ltimo&nbsp;s&aacute;bado (14), cerca de 150 fam&iacute;lias Sem Terra ocuparam o latif&uacute;ndio abandonado localizado&nbsp;na&nbsp;Fazenda Alian&ccedil;a, munic&iacute;pio de Eun&aacute;polis, Bahia.</p>
 
 <p><br />
-A fazenda de mais de 1000 metros quadrados, possui tr&ecirc;s sedes, uma planta&ccedil;&atilde;o de cacau abandonada h&aacute; mais de 10 anos,&nbsp;tomada pela vassoura de bruxa e um&nbsp;pasto que se tornou capoeira devido aos anos&nbsp;de abandono.</p>
+A fazenda de mais de mil hectares, possui tr&ecirc;s sedes, uma planta&ccedil;&atilde;o de cacau abandonada h&aacute; mais de 10 anos,&nbsp;tomada pela vassoura de bruxa e um&nbsp;pasto que se tornou capoeira devido aos anos&nbsp;de abandono.</p>
 
 <p><br />
 Os Sem Terra batizaram o acampamento M&aacute;rcio Matos, em homenagem ao lutador do povo assinado brutalmente na frente de seu filho de 6 anos, no dia 24 de janeiro deste ano.</p>
