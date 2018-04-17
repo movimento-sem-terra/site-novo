@@ -6,7 +6,7 @@ tags:
   - tag: rio-grande-do-sul
 title: Via Campesina faz marcha e cobra solução para problemas da estiagem na região Sul do RS
 support_line: "Trabalhadores também se mobilizam pela continuidade do Programa Camponês, Reforma Agrária e democracia\n"
-images_hd: //farm1.staticflickr.com/904/41516858391_4830247b63_b.jpg
+images_hd: //farm1.staticflickr.com/790/40629394805_d96716aefe_b.jpg
 menu: lutas e mobilizações
 layout: post
 files:
@@ -24,6 +24,20 @@ files:
     small: //farm1.staticflickr.com/925/40804011374_54851da2f5_n.jpg
     title: WhatsApp Image 2018-04-17 at 08.18.21.jpeg
     $$hashKey: 0EH
+  - link: //farm1.staticflickr.com/790/40629394805_d96716aefe_b.jpg
+    original: //farm1.staticflickr.com/790/40629394805_6852ed1364_o.jpg
+    thumbnail: //farm1.staticflickr.com/790/40629394805_d96716aefe_t.jpg
+    medium: //farm1.staticflickr.com/790/40629394805_d96716aefe_z.jpg
+    small: //farm1.staticflickr.com/790/40629394805_d96716aefe_n.jpg
+    title: Foto Catiana de Medeiros (7 de 7).jpg
+    $$hashKey: 0B3
+  - link: //farm1.staticflickr.com/839/41481566082_6058e0b377_b.jpg
+    original: //farm1.staticflickr.com/839/41481566082_cccb78268a_o.jpg
+    thumbnail: //farm1.staticflickr.com/839/41481566082_6058e0b377_t.jpg
+    medium: //farm1.staticflickr.com/839/41481566082_6058e0b377_z.jpg
+    small: //farm1.staticflickr.com/839/41481566082_6058e0b377_n.jpg
+    title: Foto Catiana de Medeiros (4 de 7).jpg
+    $$hashKey: 0B6
 created_date: "2018-04-17T08:29:36-03:00"
 published: true
 releated_posts:
@@ -38,8 +52,8 @@ releated_posts:
 
 ---
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2018-04-17 at 08.18.21.jpeg" height="525" src="//farm1.staticflickr.com/925/40804011374_54851da2f5_b.jpg" width="700" />
-<figcaption>Divulga&ccedil;&atilde;o MST&nbsp;</figcaption>
+<figure class="image" style="display:inline-block"><img alt="Foto Catiana de Medeiros (4 de 7).jpg" height="445" src="//farm1.staticflickr.com/839/41481566082_6058e0b377_b.jpg" width="700" />
+<figcaption>Foto Catiana de Medeiros&nbsp;</figcaption>
 </figure>
 </div>
 
