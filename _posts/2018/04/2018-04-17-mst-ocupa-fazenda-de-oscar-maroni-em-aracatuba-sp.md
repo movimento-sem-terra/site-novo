@@ -6,7 +6,7 @@ tags:
   - tag: ocupações
 images_hd: //farm1.staticflickr.com/831/27644741498_06a17199f1_b.jpg
 title: "MST ocupa fazenda de Oscar Maroni em Araçatuba (SP)\n"
-support_line: "Na manhã desta terça-feira (17), cerca de 300 integrantes do MST ocuparam a fazenda Santa Cecília, localizada em Araçatuba – SP, de propriedade de Oscar Maroni"
+support_line: A fazenda possui aproximadamente 1700 hectares e já esteve envolvida em processos trabalhistas que a puseram leilão em 2016
 menu: lutas e mobilizações
 special-page: jornadas-2018
 section: cover
