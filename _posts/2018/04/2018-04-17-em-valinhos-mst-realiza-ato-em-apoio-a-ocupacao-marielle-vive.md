@@ -42,6 +42,7 @@ releated_posts:
   - _posts/2018/04/2018-04-09-e-preciso-ocupar-latifundios-e-transferir-terras-aos-trabalhadores-para-transformar-o-campo.md
   - _posts/2018/04/2018-04-06-rodovias-sao-paralisadas-na-bahia-em-defesa-de-lula.md
   - _posts/2018/03/2018-03-19-escola-municipal-do-campo-zumbi-dos-palmares-e-inaugurada-no-parana.md
+special-page: jornadas-2018
 
 ---
 <div style="text-align:center">
