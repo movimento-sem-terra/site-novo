@@ -73,11 +73,11 @@ releated_posts:
 O dia 17 de abril &eacute; o marco do mundialmente conhecido Massacre de Eldorado dos Caraj&aacute;s, mas tamb&eacute;m se tornou marco do golpe parlamentar-industrial-midi&aacute;tico contra a democracia brasileira. O golpe iniciado em 2016 deu um novo passo com a pris&atilde;o do ex-presidente Lula. Por isso, a luta por terra e por Reforma Agr&aacute;ria se confunde, neste cen&aacute;rio, com a luta contra o avan&ccedil;o do golpe.</p>
 
 <p><br />
-Neste dia 17, a Jornada mobilizou 18 estados, com bloqueios de rodovias, ocupa&ccedil;&otilde;es de terra, ocupa&ccedil;&otilde;es da Rede Globo e dois acampamentos permanentes: um em Curitiba e outro em Bras&iacute;lia. Na manh&atilde;, cerca 300 trabalhadores ocuparam a fazenda Santa Cec&iacute;lia, em Ara&ccedil;atuba, interior de S&atilde;o Paulo, de propriedade de Oscar Maroni, reconhecido agenciador de mulheres para prostitui&ccedil;&atilde;o e golpista assumido.</p>
+Neste dia 17, a Jornada mobilizou 19&nbsp;estados, com bloqueios de rodovias, ocupa&ccedil;&otilde;es de terra, ocupa&ccedil;&otilde;es da Rede Globo e dois acampamentos permanentes: um em Curitiba e outro em Bras&iacute;lia. Na manh&atilde;, cerca 300 trabalhadores ocuparam a fazenda Santa Cec&iacute;lia, em Ara&ccedil;atuba, interior de S&atilde;o Paulo, de propriedade de Oscar Maroni, reconhecido agenciador de mulheres para prostitui&ccedil;&atilde;o e golpista assumido.</p>
 
 <figure class="image" style="float:right"><img alt="2a16291e-1442-4345-8386-babb5c46d145.jpg" height="263" src="//farm1.staticflickr.com/881/27658280578_17084e8e21_b.jpg" width="350" />
-<figcaption>Em Sergipe, movimentos populares escracham a filial da&nbsp;<br />
-rede Globo no estado. Foto: Divulga&ccedil;&atilde;o/MST</figcaption>
+<figcaption>Em Sergipe, movimentos escracham filial da&nbsp;rede<br />
+Globo no estado. Foto: Divulga&ccedil;&atilde;o/MST</figcaption>
 </figure>
 
 <p><br />
@@ -90,18 +90,18 @@ rede Globo no estado. Foto: Divulga&ccedil;&atilde;o/MST</figcaption>
 As sedes da rede Globo tamb&eacute;m foram alvos de protestos. Militantes de Cuiab&aacute;, de Belo Horizonte, de Aracaju e de S&atilde;o Paulo marcharam e escracharam a sede das filiais da rede dos Marinho. Em Salvador, a Rede Bahia foi ocupada por trabalhadores do campo e da cidade por aproximadamente 5 horas.</p>
 
 <figure class="image" style="float:left"><img alt="4f89ffae-f989-4adc-a048-c3c6fd29ed4f.jpg" height="197" src="//farm1.staticflickr.com/783/40635267955_6c146e0fff_b.jpg" width="350" />
-<figcaption>600 Sem Terras ocupam a Pra&ccedil;a da Liberdade, em BH, e se<br />
-somam &agrave; Jornada Nacional de Lutas. Foto: Divulga&ccedil;&atilde;o/MST</figcaption>
+<figcaption>600 Sem Terras ocupam a Pra&ccedil;a da Liberdade, em BH.&nbsp;<br />
+Foto: Divulga&ccedil;&atilde;o/MST</figcaption>
 </figure>
 
 <p><br />
 Em Curitiba, milhares de militantes seguem firmes acampados pr&oacute;ximos a delegacia da Pol&iacute;cia Federal, onde o ex-presidente Lula est&aacute; encarcerado injustamente. Com atividades de forma&ccedil;&atilde;o, a&ccedil;&otilde;es culturais e dando &ldquo;bom dia&rdquo;, &ldquo;boa tarde&rdquo; e &ldquo;boa noite&rdquo; todos os dias ao companheiro Lula, as organiza&ccedil;&otilde;es presentes no acampamento alertam que s&oacute; sair&atilde;o de l&aacute; com Lula nos bra&ccedil;os do povo, em liberdade.</p>
 
 <p><br />
-Ao longo da Jornada foram ocupados 15 latif&uacute;ndios, reivindicando a destina&ccedil;&atilde;o das terras para cria&ccedil;&atilde;o de assentamentos e trouxeram tamb&eacute;m a pauta da liberdade imediata para Lula. Foram bloqueados mais de 20 pontos de rodovias em todo pa&iacute;s. A Curva do &ldquo;S&rdquo;, palco do Massacre de Eldorado dos Caraj&aacute;s, em 1996, recebe durante toda a semana o Acampamento Pedag&oacute;gico da Juventude, com atividades simb&oacute;licas e formativas.</p>
+Ao longo da Jornada foram ocupados 26&nbsp;latif&uacute;ndios, reivindicando a destina&ccedil;&atilde;o das terras para cria&ccedil;&atilde;o de assentamentos e trouxeram tamb&eacute;m a pauta da liberdade imediata para Lula. Foram bloqueados mais de 20 pontos de rodovias em todo pa&iacute;s. A Curva do &ldquo;S&rdquo;, palco do Massacre de Eldorado dos Caraj&aacute;s, em 1996, recebe durante toda a semana o Acampamento Pedag&oacute;gico da Juventude, com atividades simb&oacute;licas e formativas.</p>
 
 <p><br />
-As a&ccedil;&otilde;es aconteceram nos estados do&nbsp;Paran&aacute;, Distrito Federal, Par&aacute;, Cear&aacute;, Alagoas, Rio Grande do Norte, Bahia, Rio de Janeiro, Rio Grande do Sul, Maranh&atilde;o, Para&iacute;ba, Sergipe, Mato Grosso do Sul, S&atilde;o Paulo, Goi&aacute;s, Piau&iacute;, Mato Grosso e Minas Gerais.</p>
+As a&ccedil;&otilde;es aconteceram nos estados do&nbsp;Paran&aacute;, Distrito Federal, Par&aacute;, Cear&aacute;, Alagoas, Rio Grande do Norte, Bahia, Pernambuco, Rio de Janeiro, Rio Grande do Sul, Maranh&atilde;o, Para&iacute;ba, Sergipe, Mato Grosso do Sul, S&atilde;o Paulo, Goi&aacute;s, Piau&iacute;, Mato Grosso e Minas Gerais.</p>
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="032b8515-a1b5-4a70-89f6-3e08356b3030.jpg" height="400" src="//farm1.staticflickr.com/937/40815770124_b921ee4665_b.jpg" width="600" />
