@@ -42,6 +42,7 @@ releated_posts:
   - _posts/2018/04/2018-04-10-rio-grande-do-sul-avanca-na-construcao-do-congresso-do-povo-brasileiro.md
   - _posts/2018/04/2018-04-10-ocupacoes-de-terra-dao-inicio-a-jornada-nacional-de-lutas-por-reforma-agraria-e-por-lula-livre.md
   - _posts/2018/04/2018-04-11-em-defesa-da-reforma-agraria-sem-terra-ocupam-mais-um-latifundio-no-ceara.md
+special-page: jornadas-2018
 
 ---
 <div style="text-align:center">
