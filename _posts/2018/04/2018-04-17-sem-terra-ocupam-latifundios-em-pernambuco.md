@@ -62,19 +62,19 @@ A maior ocupa&ccedil;&atilde;o do estado fica na Esta&ccedil;&atilde;o de Bombea
 
 <p>&nbsp;</p>
 
-<p>1- LULA LIVRE I - Engenho Terra Preta, munic&iacute;pio de Condado<br />
-2 - LULA LIVRE II - Engenho Goiana Grande, munic&iacute;pio de Goiana,<br />
-3 - LULA LIVRE III - Engenho Nova Cinta, munic&iacute;pio de Timba&uacute;ba<br />
-4- LULA LIVRE IV - Engenho Planalto, munic&iacute;pio de Pau D&#39; Alho<br />
-5- LULA LIVRE V- Engenho Mega; munic&iacute;pio Goiana<br />
-6- LULA LIVRE VI- &Aacute;rea adjacente do DNOCS do A&ccedil;ude Francisco Sab&oacute;ia<br />
+<p>LULA LIVRE I - Engenho Terra Preta, munic&iacute;pio de Condado<br />
+LULA LIVRE II - Engenho Goiana Grande, munic&iacute;pio de Goiana,<br />
+LULA LIVRE III - Engenho Nova Cinta, munic&iacute;pio de Timba&uacute;ba<br />
+LULA LIVRE IV - Engenho Planalto, munic&iacute;pio de Pau D&#39; Alho<br />
+LULA LIVRE V- Engenho Mega; munic&iacute;pio Goiana<br />
+LULA LIVRE VI- &Aacute;rea adjacente do DNOCS do A&ccedil;ude Francisco Sab&oacute;ia<br />
 munic&iacute;pio de Ibimirim<br />
-7- LULA LIVRE VII - Fazenda Amieiros do grupo Extra Bom, munic&iacute;pio de<br />
+LULA LIVRE VII - Fazenda Amieiros do grupo Extra Bom, munic&iacute;pio de<br />
 Gl&oacute;ria do Goit&aacute;<br />
-8- LULA LIVRE VIII - ocupa&ccedil;&atilde;o EB-2 &aacute;rea de transposi&ccedil;&atilde;o do rio S&atilde;o<br />
+LULA LIVRE VIII - ocupa&ccedil;&atilde;o EB-2 &aacute;rea de transposi&ccedil;&atilde;o do rio S&atilde;o<br />
 Francisco, eixo leste no a&ccedil;ude de areias entre os munic&iacute;pios de Floresta e<br />
 Petrol&acirc;ndia<br />
-9- LULA LIVRE IX- &aacute;rea comunidades baixas (fazenda Jatob&aacute;,&nbsp;munic&iacute;pio de<br />
+LULA LIVRE IX- &aacute;rea comunidades baixas (fazenda Jatob&aacute;,&nbsp;munic&iacute;pio de<br />
 Serra Talhada<br />
-10- LULA LIVRE X- Engenho Jenipapo, munic&iacute;pio Vit&oacute;ria do Santo Ant&atilde;o<br />
-11- LULA LIVRE XI- fazenda Mario, munic&iacute;pio de Lajedo</p>
+LULA LIVRE X- Engenho Jenipapo, munic&iacute;pio Vit&oacute;ria do Santo Ant&atilde;o<br />
+LULA LIVRE XI- fazenda Mario, munic&iacute;pio de Lajedo</p>
