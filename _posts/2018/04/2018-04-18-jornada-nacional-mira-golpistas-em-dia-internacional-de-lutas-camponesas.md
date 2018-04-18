@@ -53,6 +53,7 @@ releated_posts:
   - _posts/2018/03/2018-03-22-fama-2018-encerra-suas-atividades-com-marcha-e-ato-inter-religioso.md
   - _posts/2018/04/2018-04-05-em-brasilia-movimentos-fazem-ato-em-defesa-da-democracia-do-direito-de-lula-se-candidatar.md
   - _posts/2018/04/2018-04-13-mst-volta-a-ocupar-a-fazenda-curata-no-pontal-do-paranapanema-em-sp.md
+section: cover
 
 ---
 <div style="text-align:center">
