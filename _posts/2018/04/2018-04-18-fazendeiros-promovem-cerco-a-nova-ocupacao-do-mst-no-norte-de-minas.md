@@ -22,6 +22,7 @@ published: true
 releated_posts:
   - _posts/2018/03/2018-03-11-apos-ocupacao-familias-sofrem-com-ameaca-de-despejo-em-duartina.md
   - _posts/2018/04/2018-04-10-ocupacoes-de-terra-dao-inicio-a-jornada-nacional-de-lutas-por-reforma-agraria-e-por-lula-livre.md
+special-page: jornadas-2018
 
 ---
 <p>&nbsp;</p>
