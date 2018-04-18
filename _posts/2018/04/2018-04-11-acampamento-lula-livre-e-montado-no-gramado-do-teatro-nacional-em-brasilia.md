@@ -32,6 +32,7 @@ releated_posts:
   - _posts/2018/04/2018-04-06-lula-so-sera-libertado-com-o-povo-nas-ruas-afirma-joao-pedro-stedile.md
   - _posts/2018/04/2018-04-06-contra-o-estado-de-excecao-liberdade-para-lula.md
 section: featured-news
+special-page: jornadas-2018
 
 ---
 <p><br />
