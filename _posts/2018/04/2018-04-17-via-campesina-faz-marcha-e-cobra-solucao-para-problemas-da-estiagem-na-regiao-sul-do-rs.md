@@ -49,6 +49,7 @@ releated_posts:
   - _posts/2018/04/2018-04-10-rio-grande-do-sul-avanca-na-construcao-do-congresso-do-povo-brasileiro.md
   - _posts/2018/04/2018-04-10-ocupacoes-de-terra-dao-inicio-a-jornada-nacional-de-lutas-por-reforma-agraria-e-por-lula-livre.md
   - _posts/2017/08/2017-08-18-via-campesina-inicia-o-debate-sobre-a-diversidade-de-genero-e-orientacao-sexual-nos-movimentos.md
+special-page: jornadas-2018
 
 ---
 <div style="text-align:center">
