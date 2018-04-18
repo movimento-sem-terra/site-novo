@@ -31,6 +31,20 @@ files:
     small: //farm1.staticflickr.com/916/39731288470_7eaf248a33_n.jpg
     title: Jornada Nacional de Lutas_MST_PB_Thaís PeregrinoIMG_2295 (8).jpg
     $$hashKey: "110"
+  - link: //farm1.staticflickr.com/868/41499391352_fc357409d5_b.jpg
+    original: //farm1.staticflickr.com/868/41499391352_ed4a16a68c_o.jpg
+    thumbnail: //farm1.staticflickr.com/868/41499391352_fc357409d5_t.jpg
+    medium: //farm1.staticflickr.com/868/41499391352_fc357409d5_z.jpg
+    small: //farm1.staticflickr.com/868/41499391352_fc357409d5_n.jpg
+    title: Jornada Nacional de Lutas_MST_PB_Thaís PeregrinoIMG_2295 (14).jpg
+    $$hashKey: 1KS
+  - link: //farm1.staticflickr.com/865/39731447070_3b78d792ca_b.jpg
+    original: //farm1.staticflickr.com/865/39731447070_0899ecea06_o.jpg
+    thumbnail: //farm1.staticflickr.com/865/39731447070_3b78d792ca_t.jpg
+    medium: //farm1.staticflickr.com/865/39731447070_3b78d792ca_z.jpg
+    small: //farm1.staticflickr.com/865/39731447070_3b78d792ca_n.jpg
+    title: Jornada Nacional de Lutas_MST_PB_Thaís PeregrinoIMG_2295 (19).jpg
+    $$hashKey: 1KV
 created_date: "2018-04-18T11:51:16-03:00"
 published: true
 releated_posts:
@@ -61,6 +75,12 @@ Na tarde desta ter&ccedil;a-feira (17) 400 fam&iacute;lias Sem Terra realizaram&
 
 <p><br />
 A ocupa&ccedil;&atilde;o, que tem car&aacute;ter permanente, faz parte da Jornada Nacional de Lutas em Defesa da Reforma Agr&aacute;ria, que, al&eacute;m de rememorar os 22 anos do massacre de Eldorado do&nbsp;Caraj&aacute;s, denuncia a paralisa&ccedil;&atilde;o da Reforma Agr&aacute;ria, o desmantelo das pol&iacute;ticas p&uacute;blicas,&nbsp;a criminaliza&ccedil;&atilde;o dos movimentos sociais e a pris&atilde;o arbitr&aacute;ria do ex-presidente Lula.</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="Jornada Nacional de Lutas_MST_PB_Thaís PeregrinoIMG_2295 (14).jpg" height="467" src="//farm1.staticflickr.com/868/41499391352_fc357409d5_b.jpg" width="700" />
+<figcaption>Divulga&ccedil;&atilde;o MST&nbsp;</figcaption>
+</figure>
+</div>
 
 <p><br />
 Segundo Dilei, da dire&ccedil;&atilde;o nacional do MST, o acampamento tamb&eacute;m &eacute; um momento para&nbsp;dialogar com a sociedade. &quot;N&oacute;s n&atilde;o temos outra alternativa no Brasil, para tirar Lula da cadeia precisamos de um movimento muito forte&nbsp;e s&oacute; o povo tem poder para isso. Por isso, esse acampamento &eacute; importante, o que podemos ver aqui &eacute; uma c&uacute;mulo de for&ccedil;as&quot;, afirma.</p>
