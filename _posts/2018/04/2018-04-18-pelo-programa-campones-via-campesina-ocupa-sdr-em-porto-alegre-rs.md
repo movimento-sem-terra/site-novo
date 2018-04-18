@@ -53,6 +53,7 @@ releated_posts:
   - _posts/2018/03/2018-03-31-marco-em-nos-sempre.md
   - _posts/2018/04/2018-04-11-acampamento-lula-livre-e-montado-no-gramado-do-teatro-nacional-em-brasilia.md
   - _posts/2017/09/2017-09-27-seminario-continental-da-via-campesina-aponta-os-desafios-da-formacao-em-agroecologia.md
+special-page: jornadas-2018
 
 ---
 <div>
