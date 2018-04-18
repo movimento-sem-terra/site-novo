@@ -53,8 +53,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="IMG_20180417_150104_562.jpg" height="466" src="//farm1.staticflickr.com/872/26671843627_ca7bb2968f_b.jpg" width="700" />
-<figcaption>Fotos Matheus Alves/Levante Popular da Juventude<br />
-</figcaption>
+<figcaption>Fotos Matheus Alves/Levante Popular da Juventude</figcaption>
 </figure>
 </div>
 
@@ -93,11 +92,13 @@ O conferencista contextualizou o hist&oacute;rico de fal&ecirc;ncias de projetos
 </figure>
 </div>
 
-<p><br />
-Dados como os divulgados pela Folha de S&atilde;o Paulo, a partir de uma pesquisa da Oxfam, no qual afirma que os seis maiores bilion&aacute;rios t&ecirc;m a mesma riqueza que os 100 milh&otilde;es de brasileiros mais pobres foram utilizados na fala de Stedile para contextualizar o aumento da desigualdade. Tamb&eacute;m os mais de 13 milh&otilde;es de desempregados de acordo com o IBGE e outras informa&ccedil;&otilde;es como falta de distribui&ccedil;&atilde;o de renda, trabalho precarizado e nenhuma solu&ccedil;&atilde;o em vista a curto prazo.</p>
+<p>Jo&atilde;o Pedro contextualizou o aumento da desigualdade como uma chaga social. Ele trouxe em sua fala dados da Oxfam, no qual afirma que os seis maiores bilion&aacute;rios t&ecirc;m a mesma riqueza que os 100 milh&otilde;es de brasileiros mais pobres. Tamb&eacute;m falou dos mais de 13 milh&otilde;es de desempregados de acordo com o IBGE e outras informa&ccedil;&otilde;es como falta de distribui&ccedil;&atilde;o de renda, trabalho precarizado e nenhuma solu&ccedil;&atilde;o em vista a curto prazo.</p>
 
 <p><br />
-O dirigente&nbsp;finalizou sua fala de abertura convocando a constru&ccedil;&atilde;o de uma s&iacute;ntese de ideias para um projeto popular de Brasil. &quot;&Eacute; preciso massificar o debate de um novo projeto. Um novo projeto que envolva todas as classes, sem excluir setores. E o primeiro passo para a transforma&ccedil;&atilde;o, &eacute; construir um governo democr&aacute;tico: Lula &eacute; a porta de sa&iacute;da para um projeto popular&quot;.</p>
+O dirigente&nbsp;finalizou sua fala de abertura convocando a constru&ccedil;&atilde;o de uma s&iacute;ntese de ideias para um projeto popular de Brasil. &quot;&Eacute; preciso massificar essas ideias. Precisamos envolver todas as classes, sem excluir setores. E o primeiro passo para a transforma&ccedil;&atilde;o, &eacute; construir um governo democr&aacute;tico: Lula &eacute; a porta de sa&iacute;da para um projeto popular&quot;, disse St&eacute;dile.</p>
 
 <p><br />
-A programa&ccedil;&atilde;o do semin&aacute;rio segue com a socializa&ccedil;&atilde;o dos principais resultados de pesquisas realizadas por professores, estudantes e pesquisadores associados &agrave;s universidades brasileiras, em diferentes cursos de gradua&ccedil;&atilde;o e programas de p&oacute;s-gradua&ccedil;&atilde;o.&nbsp;</p>
+A programa&ccedil;&atilde;o do semin&aacute;rio segue com a socializa&ccedil;&atilde;o dos principais resultados de pesquisas realizadas por professores, estudantes e pesquisadores associados &agrave;s universidades brasileiras, em diferentes cursos de gradua&ccedil;&atilde;o e programas de p&oacute;s-gradua&ccedil;&atilde;o.&nbsp;<br />
+&nbsp;</p>
+
+<p style="color: rgb(34, 34, 34); margin: 0cm 0cm 7.45pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; font-size: 12pt; font-family: &quot;Times New Roman&quot;, serif;">&nbsp;</p>
