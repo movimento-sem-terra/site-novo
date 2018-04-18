@@ -12,5 +12,6 @@ created_date: "2018-04-17T15:51:03-03:00"
 published: true
 video_thumbnail: "http://img.youtube.com/vi/1zwtQQMl67k/0.jpg"
 releated_posts: []
+special-page: jornadas-2018
 
 ---
