@@ -4,8 +4,8 @@ tags:
   - tag: lutas-e-mobilizações
   - tag: via-campesina
   - tag: rio-grande-do-sul
-title: "Pelo Programa Camponês, Via Campesina ocupa SDR em Porto Alegre (RS)\n"
-images_hd: //farm1.staticflickr.com/784/41498575262_c2024bc333_b.jpg
+title: "Pelo Programa Camponês, Via Campesina realiza mobilizações em Pelotas e Porto Alegre \n"
+images_hd: //farm1.staticflickr.com/804/41539589491_c295e23bf0_b.jpg
 support_line: "Os agricultores começaram a chegar na SDR por volta das 6h45, com o intuito de pressionar o governo estadual a dar continuidade ao Programa de Apoio à Agricultura Familiar e Camponesa, mais conhecido como Programa Camponês"
 menu: lutas e mobilizações
 layout: post
@@ -31,6 +31,20 @@ files:
     small: //farm1.staticflickr.com/784/41498575262_c2024bc333_n.jpg
     title: 03 (1).jpg
     $$hashKey: 02V
+  - link: //farm1.staticflickr.com/789/39730570870_7685a9b99f_b.jpg
+    original: //farm1.staticflickr.com/789/39730570870_26c7d4bb06_o.jpg
+    thumbnail: //farm1.staticflickr.com/789/39730570870_7685a9b99f_t.jpg
+    medium: //farm1.staticflickr.com/789/39730570870_7685a9b99f_z.jpg
+    small: //farm1.staticflickr.com/789/39730570870_7685a9b99f_n.jpg
+    title: 02 (1).jpg
+    $$hashKey: 0CL
+  - link: //farm1.staticflickr.com/804/41539589491_c295e23bf0_b.jpg
+    original: //farm1.staticflickr.com/804/41539589491_9b9a8d04e7_o.jpg
+    thumbnail: //farm1.staticflickr.com/804/41539589491_c295e23bf0_t.jpg
+    medium: //farm1.staticflickr.com/804/41539589491_c295e23bf0_z.jpg
+    small: //farm1.staticflickr.com/804/41539589491_c295e23bf0_n.jpg
+    title: 01 (1).jpg
+    $$hashKey: 0CO
 created_date: "2018-04-18T11:07:55-03:00"
 published: true
 releated_posts:
@@ -59,19 +73,37 @@ Da P&aacute;gina do MST</em></p>
 <div>Cerca de 500 trabalhadores ligados &agrave; Via Campesina ocupam desde o in&iacute;cio da manh&atilde; desta quarta-feira (18) a Secretaria de Desenvolvimento Rural, Pesca e Cooperativismo (SDR) do Rio Grande do Sul, localizada no bairro Menino Deus, em Porto Alegre (Avenida Praia de Belas, 1.768). Eles exigem a continuidade da execu&ccedil;&atilde;o do Programa Campon&ecirc;s, uma solu&ccedil;&atilde;o urgente para o problema da estiagem que atinge v&aacute;rios munic&iacute;pios da metade Sul e assinatura imediata dos contratos de uma chamada p&uacute;blica para compra de alimentos da agricultura familiar. Para o MST, a mobiliza&ccedil;&atilde;o faz parte da Jornada Nacional de Luta pela Reforma Agr&aacute;ria.</div>
 
 <div><br />
-Os agricultores come&ccedil;aram a chegar na SDR por volta das 6h45, com o intuito de pressionar o governo estadual a dar continuidade ao Programa de Apoio &agrave; Agricultura Familiar e Camponesa, mais conhecido como Programa Campon&ecirc;s. Ele foi criado em 2012, a partir de lutas dos movimentos da Via Campesina e de organiza&ccedil;&otilde;es urbanas, para melhorar as condi&ccedil;&otilde;es de produ&ccedil;&atilde;o, transporte, industrializa&ccedil;&atilde;o e comercializa&ccedil;&atilde;o de alimentos saud&aacute;veis. Os trabalhadores tamb&eacute;m cobram a&ccedil;&otilde;es do governo para atender os munic&iacute;pios atingidos pela seca. Segundo eles, a inten&ccedil;&atilde;o &eacute; ficar na SDR at&eacute; que as reivindica&ccedil;&otilde;es sejam atendidas.&nbsp;</div>
-
-<div>&nbsp;</div>
+<br />
+Os agricultores come&ccedil;aram a chegar na SDR por volta das 6h45, com o intuito de pressionar o governo estadual a dar continuidade ao Programa de Apoio &agrave; Agricultura Familiar e Camponesa, mais conhecido como Programa Campon&ecirc;s. Ele foi criado em 2012, a partir de lutas dos movimentos da Via Campesina e de organiza&ccedil;&otilde;es urbanas, para melhorar as condi&ccedil;&otilde;es de produ&ccedil;&atilde;o, transporte, industrializa&ccedil;&atilde;o e comercializa&ccedil;&atilde;o de alimentos saud&aacute;veis. Os trabalhadores tamb&eacute;m cobram a&ccedil;&otilde;es do governo para atender os munic&iacute;pios atingidos pela seca. Segundo eles, a inten&ccedil;&atilde;o &eacute; ficar na SDR at&eacute; que as reivindica&ccedil;&otilde;es sejam atendidas.</div>
 
 <div>
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="01.jpg" height="394" src="//farm1.staticflickr.com/878/40646265765_0e76676d67_b.jpg" width="700" />
+<figure class="image" style="display:inline-block"><img alt="02 (1).jpg" height="466" src="//farm1.staticflickr.com/789/39730570870_7685a9b99f_b.jpg" width="700" />
 <figcaption>Divulga&ccedil;&atilde;o MST&nbsp;</figcaption>
 </figure>
 </div>
-</div>
+<br />
+<strong>Pelotas</strong></div>
 
-<div>Entenda os motivos da ocupa&ccedil;&atilde;o</div>
+<div><br />
+<br />
+Tamb&eacute;m na manh&atilde; desta quarta-feira (18), a Via Campesina realizou&nbsp; um tranca&ccedil;o na BR-392, na altura do km 62 (pr&oacute;ximo ao Posto Sim), em Pelotas, na regi&atilde;o Sul do Rio Grande do Sul. A a&ccedil;&atilde;o faz parte de uma s&eacute;rie de mobiliza&ccedil;&otilde;es que acontecem desde ontem para cobrar do governo do Estado uma solu&ccedil;&atilde;o urgente para o problema da estiagem que atinge 42 munic&iacute;pios na metade Sul ga&uacute;cha. Os trabalhadores tamb&eacute;m exigem a retornada da Reforma Agr&aacute;ria e do Programa Campon&ecirc;s, al&eacute;m da realiza&ccedil;&atilde;o de elei&ccedil;&atilde;o direta este ano.</div>
+
+<div>
+<p>&nbsp;</p>
+
+<p>O bloqueio da rodovia come&ccedil;ou por volta das 7 horas, pouco antes da Ponte L&eacute;o Guedes, que fica sobre o Canal S&atilde;o Gon&ccedil;alo e que liga os munic&iacute;pios de Pelotas e Rio Grande. O intuito &eacute; ficar no local por tempo indeterminado, at&eacute; que as reivindica&ccedil;&otilde;es sejam atendidas pelo governador Jos&eacute; Ivo Sartori. Conforme a Via Campesina, mais de 2 mil pessoas participam do protesto. Para o MST, a iniciativa faz parte da Jornada Nacional de Luta pela Reforma Agr&aacute;ria.</p>
+
+<p>&nbsp;</p>
+
+<p>As mobiliza&ccedil;&otilde;es na regi&atilde;o Sul do estado come&ccedil;aram na manh&atilde; desta ter&ccedil;a-feira (17), com uma marcha que saiu do Trevo do Atacad&atilde;o do Pov&atilde;o, localizado na ERS 256, em Cangu&ccedil;u. Ela passou pelas principais ruas da cidade e encerrou na BR 392, na altura do km 117. L&aacute;, os trabalhadores almo&ccedil;aram na beira da rodovia e a mantiveram bloqueada at&eacute; &agrave;s 15h40. O objetivo foi pressionar o governo do estado a se reunir com representantes dos camponeses para tratar das reivindica&ccedil;&otilde;es. Uma audi&ecirc;ncia j&aacute; foi marcada com a Casa Civil, em Porto Alegre, para &agrave;s 14 horas de hoje.</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="03 (1).jpg" height="394" src="//farm1.staticflickr.com/784/41498575262_c2024bc333_b.jpg" width="700" />
+<figcaption>Divulga&ccedil;&atilde;o MST&nbsp;</figcaption>
+</figure>
+</div>
+&nbsp;Entenda os motivos da ocupa&ccedil;&atilde;o</div>
 
 <div>&nbsp;</div>
 
