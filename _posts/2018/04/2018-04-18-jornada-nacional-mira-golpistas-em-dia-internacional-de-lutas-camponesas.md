@@ -73,7 +73,7 @@ releated_posts:
 O dia 17 de abril &eacute; o marco do mundialmente conhecido Massacre de Eldorado dos Caraj&aacute;s, mas tamb&eacute;m se tornou marco do golpe parlamentar-industrial-midi&aacute;tico contra a democracia brasileira. O golpe iniciado em 2016 deu um novo passo com a pris&atilde;o do ex-presidente Lula. Por isso, a luta por terra e por Reforma Agr&aacute;ria se confunde, neste cen&aacute;rio, com a luta contra o avan&ccedil;o do golpe.</p>
 
 <p><br />
-Neste dia 17, a Jornada mobilizou 19&nbsp;estados, com bloqueios de rodovias, ocupa&ccedil;&otilde;es de terra, ocupa&ccedil;&otilde;es da Rede Globo e dois acampamentos permanentes: um em Curitiba e outro em Bras&iacute;lia. Na manh&atilde;, cerca 300 trabalhadores ocuparam a fazenda Santa Cec&iacute;lia, em Ara&ccedil;atuba, interior de S&atilde;o Paulo, de propriedade de Oscar Maroni, reconhecido agenciador de mulheres para prostitui&ccedil;&atilde;o e golpista assumido.</p>
+Culminando neste dia 17, a Jornada mobilizou 19&nbsp;estados, com bloqueios de rodovias, ocupa&ccedil;&otilde;es de terra, ocupa&ccedil;&otilde;es da Rede Globo e dois acampamentos permanentes: um em Curitiba e outro em Bras&iacute;lia. Na manh&atilde;, cerca 300 trabalhadores ocuparam a fazenda Santa Cec&iacute;lia, em Ara&ccedil;atuba, interior de S&atilde;o Paulo, de propriedade de Oscar Maroni, reconhecido agenciador de mulheres para prostitui&ccedil;&atilde;o e golpista assumido.</p>
 
 <figure class="image" style="float:right"><img alt="2a16291e-1442-4345-8386-babb5c46d145.jpg" height="263" src="//farm1.staticflickr.com/881/27658280578_17084e8e21_b.jpg" width="350" />
 <figcaption>Em Sergipe, movimentos escracham filial da&nbsp;rede<br />
