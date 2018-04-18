@@ -4,8 +4,8 @@ tags:
   - tag: jornada-nacional-de-lutas
   - tag: alagoas
   - tag: mobilizações
-title: "Movimentos do campo realizam reunião com o governo de Alagoas na manhã desta quarta-feira\n\n"
-support_line: A ação integra a Jornada de Lutas pela Reforma Agrária que já mobiliza camponeses e camponesas em 18 estados do país
+title: "Movimentos do campo realizam reunião com o governo de Alagoas\n"
+support_line: "Segundo José Roberto, da coordenação do MST, as pautas junto ao governo do estado já são conhecidas da gestão e, mais uma vez, os Sem Terra devem cobrar soluções imediatas"
 menu: lutas e mobilizações
 images_hd: //farm1.staticflickr.com/812/39730822530_cdc46d4074_b.jpg
 special-page: jornadas-2018
@@ -60,7 +60,7 @@ Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
-<p>Seguindo a agenda de luta dos movimentos de luta pela terra de Alagoas, mobilizados em Macei&oacute; desde o &uacute;ltimo domingo (15), uma representa&ccedil;&atilde;o das organiza&ccedil;&otilde;es do campo re&uacute;nem-se com o governador do estado Renan Filho (MDB) na manh&atilde; de hoje (18). A reuni&atilde;o est&aacute; prevista para ocorrer &agrave;s 10 horas no Pal&aacute;cio do Governo, no centro da cidade.</p>
+<p>Seguindo a agenda de luta dos movimentos de luta pela terra de Alagoas, mobilizados em Macei&oacute; desde o &uacute;ltimo domingo (15), uma representa&ccedil;&atilde;o das organiza&ccedil;&otilde;es do campo re&uacute;nem-se com o governador do estado Renan Filho (MDB) na manh&atilde; de hoje (18). A reuni&atilde;o est&aacute; prevista para o final desta manh&atilde;&nbsp;no Pal&aacute;cio do Governo, no centro da cidade.</p>
 
 <p><br />
 A a&ccedil;&atilde;o integra a Jornada de Lutas pela Reforma Agr&aacute;ria que j&aacute; mobiliza camponeses e camponesas em 18 estados do pa&iacute;s, denunciando a paralisia da Reforma Agr&aacute;ria e cobrando o fim da viol&ecirc;ncia e a impunidade no campo em mem&oacute;ria aos 22 anos do massacre de Eldorado dos Caraj&aacute;s.</p>
