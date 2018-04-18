@@ -23,6 +23,7 @@ releated_posts:
   - _posts/2018/01/2018-01-23-entenda-como-se-organiza-o-acampamento-pela-democracia-em-porto-alegre.md
   - _posts/2018/04/2018-04-07-povo-toma-as-ruas-do-brasil-contra-a-prisao-de-lula.md
   - _posts/2018/04/2018-04-07-a-morte-de-um-combatente-nao-para-uma-revolucao-diz-lula-em-ato-no-abc.md
+special-page: jornadas-2018
 
 ---
 <p>&nbsp;</p>
