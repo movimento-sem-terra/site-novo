@@ -5,7 +5,7 @@ tags:
   - tag: violência
   - tag: nota-de-falecimento
 images_hd: //farm1.staticflickr.com/920/41501374722_7f686ff9a8_b.jpg
-title: "O MST presta solidariedade a família de nossa dirigente, Lucinéia Durães, após a trágico assassinato de seu pai, João Francisco do Rosário"
+title: "O MST presta solidariedade a família de nossa dirigente, Lucinéia Durães, após a morte de seu pai"
 support_line: O MST denuncia a negligência das autoridades responsáveis que só liberaram o corpo para a família 24 horas após o ocorrido
 menu: direitos humanos
 layout: post
@@ -38,7 +38,7 @@ O MST se solidariza com a milit&acirc;ncia da Bahia e, especialmente, com a fam&
 Jo&atilde;o Francisco foi uma grande&nbsp;amigo do Movimento e durante anos contribuiu na constru&ccedil;&atilde;o de alguns assentamentos hist&oacute;ricos na regi&atilde;o.</p>
 
 <p><br />
-O MST denuncia&nbsp;a neglig&ecirc;ncia das autoridades respons&aacute;veis que s&oacute; liberaram o corpo para a familia&nbsp;24 horas ap&oacute;s o ocorrido. Cobramos investiga&ccedil;&atilde;o e que os respons&aacute;veis sejam punidos.</p>
+O MST denuncia&nbsp;a neglig&ecirc;ncia das autoridades respons&aacute;veis que s&oacute; liberaram o corpo para a fam&iacute;lia 12&nbsp;horas ap&oacute;s o ocorrido. Cobramos investiga&ccedil;&atilde;o e que os respons&aacute;veis sejam punidos.</p>
 
 <p>&nbsp;</p>
 
