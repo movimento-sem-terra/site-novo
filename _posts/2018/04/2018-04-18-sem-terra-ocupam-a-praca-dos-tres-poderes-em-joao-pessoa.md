@@ -56,6 +56,7 @@ releated_posts:
   - _posts/2018/04/2018-04-16-iniciando-jornada-de-lutas-sem-terra-montam-acampamento-no-centro-de-maceio.md
   - _posts/2018/04/2018-04-17-em-maceio-sem-terra-realizam-ato-ecumenico-em-memoria-aos-22-anos-do-massacre-de-eldorado-dos-carajas.md
   - _posts/2018/04/2018-04-17-oscar-maroni-explorador-sexual-e-o-retrato-do-golpe-diz-militante-da-mmm.md
+special-page: jornadas-2018
 
 ---
 <p>&nbsp;</p>
