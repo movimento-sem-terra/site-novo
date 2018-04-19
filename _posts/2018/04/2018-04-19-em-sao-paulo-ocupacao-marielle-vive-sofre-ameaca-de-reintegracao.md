@@ -56,12 +56,6 @@ Convocamos &agrave; comunidade e organiza&ccedil;&otilde;es de Valinhos, Campina
 
 <p>&nbsp;</p>
 
-<p><strong>Venha apoiar nossa luta!&nbsp;&nbsp;</strong></p>
-
-<p><br />
-Ato pol&iacute;tico em defesa da Ocupa&ccedil;&atilde;o&nbsp;<br />
-Sexta-feira, 20/04, &agrave;s 15h . Endere&ccedil;o: Estrada do Jequitiba, km 7 (entre Vila Alpina e S&atilde;o Bento), Valinhos - SP.&nbsp;</p>
-
 <p>&nbsp;</p>
 
 <p style="text-align:center"><img alt="WhatsApp Image 2018-04-19 at 10.46.16.jpeg" height="401" src="//farm1.staticflickr.com/804/40849061294_28ab7fbfb8_b.jpg" width="600" /></p>
