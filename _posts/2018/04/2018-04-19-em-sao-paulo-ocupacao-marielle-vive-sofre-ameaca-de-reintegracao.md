@@ -17,18 +17,17 @@ files:
     small: //farm1.staticflickr.com/786/27690892318_bfeebbf0ff_n.jpg
     title: WhatsApp Image 2018-04-19 at 10.53.40.jpeg
     $$hashKey: "037"
-  - link: //farm1.staticflickr.com/804/40849061294_28ab7fbfb8_b.jpg
-    original: //farm1.staticflickr.com/804/40849061294_c0350741a1_o.jpg
-    thumbnail: //farm1.staticflickr.com/804/40849061294_28ab7fbfb8_t.jpg
-    medium: //farm1.staticflickr.com/804/40849061294_28ab7fbfb8_z.jpg
-    small: //farm1.staticflickr.com/804/40849061294_28ab7fbfb8_n.jpg
-    title: WhatsApp Image 2018-04-19 at 10.46.16.jpeg
-    $$hashKey: 0BH
+  - link: //farm1.staticflickr.com/885/26696029417_b20a446bc5_b.jpg
+    original: //farm1.staticflickr.com/885/26696029417_991d80b632_o.jpg
+    thumbnail: //farm1.staticflickr.com/885/26696029417_b20a446bc5_t.jpg
+    medium: //farm1.staticflickr.com/885/26696029417_b20a446bc5_z.jpg
+    small: //farm1.staticflickr.com/885/26696029417_b20a446bc5_n.jpg
+    title: WhatsApp Image 2018-04-19 at 15.23.58.jpeg
+    $$hashKey: 08M
 created_date: "2018-04-19T11:29:20-03:00"
 published: true
 releated_posts:
   - _posts/2018/01/2018-01-31-em-pe-acampados-em-sao-joaquim-do-monte-sofrem-com-despejo-violento.md
-  - _posts/2018/02/2018-02-24-acampamento-e-atacado-por-pistoleiros-no-rio-grande-do-norte.md
   - _posts/2017/12/2017-12-06-familias-do-mst-sao-ameacadas-pelo-pelotao-de-choque-da-brigada-militar-em-ocupacao-no-rs.md
   - _posts/2017/12/2017-12-07-maes-do-acampamento-marcelino-chiarello-escrevem-carta-enderecada-a-juiza-que-concedeu-liminar-de-despejo.md
   - _posts/2017/12/2017-12-07-juri-popular-absolve-sem-terra-apos-oito-anos-de-prisao.md
@@ -56,6 +55,4 @@ Convocamos &agrave; comunidade e organiza&ccedil;&otilde;es de Valinhos, Campina
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
-
-<p style="text-align:center"><img alt="WhatsApp Image 2018-04-19 at 10.46.16.jpeg" height="401" src="//farm1.staticflickr.com/804/40849061294_28ab7fbfb8_b.jpg" width="600" /></p>
+<p><img alt="WhatsApp Image 2018-04-19 at 15.23.58.jpeg" height="468" src="//farm1.staticflickr.com/885/26696029417_b20a446bc5_b.jpg" width="700" /></p>
