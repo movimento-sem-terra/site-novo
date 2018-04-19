@@ -17,6 +17,13 @@ files:
     small: //farm1.staticflickr.com/786/27690892318_bfeebbf0ff_n.jpg
     title: WhatsApp Image 2018-04-19 at 10.53.40.jpeg
     $$hashKey: "037"
+  - link: //farm1.staticflickr.com/804/40849061294_28ab7fbfb8_b.jpg
+    original: //farm1.staticflickr.com/804/40849061294_c0350741a1_o.jpg
+    thumbnail: //farm1.staticflickr.com/804/40849061294_28ab7fbfb8_t.jpg
+    medium: //farm1.staticflickr.com/804/40849061294_28ab7fbfb8_z.jpg
+    small: //farm1.staticflickr.com/804/40849061294_28ab7fbfb8_n.jpg
+    title: WhatsApp Image 2018-04-19 at 10.46.16.jpeg
+    $$hashKey: 0BH
 created_date: "2018-04-19T11:29:20-03:00"
 published: true
 releated_posts:
@@ -54,3 +61,7 @@ Convocamos &agrave; comunidade e organiza&ccedil;&otilde;es de Valinhos, Campina
 <p><br />
 Ato pol&iacute;tico em defesa da Ocupa&ccedil;&atilde;o&nbsp;<br />
 Sexta-feira, 20/04, &agrave;s 15h . Endere&ccedil;o: Estrada do Jequitiba, km 7 (entre Vila Alpina e S&atilde;o Bento), Valinhos - SP.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p style="text-align:center"><img alt="WhatsApp Image 2018-04-19 at 10.46.16.jpeg" height="401" src="//farm1.staticflickr.com/804/40849061294_28ab7fbfb8_b.jpg" width="600" /></p>
