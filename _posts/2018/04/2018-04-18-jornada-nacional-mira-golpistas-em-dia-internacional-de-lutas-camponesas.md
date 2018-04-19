@@ -45,6 +45,13 @@ files:
     small: //farm1.staticflickr.com/881/27658280578_17084e8e21_n.jpg
     title: 2a16291e-1442-4345-8386-babb5c46d145.jpg
     $$hashKey: 06S
+  - link: //farm1.staticflickr.com/920/40853360454_bbc01d8f73_b.jpg
+    original: //farm1.staticflickr.com/920/40853360454_0c87227478_o.jpg
+    thumbnail: //farm1.staticflickr.com/920/40853360454_bbc01d8f73_t.jpg
+    medium: //farm1.staticflickr.com/920/40853360454_bbc01d8f73_z.jpg
+    small: //farm1.staticflickr.com/920/40853360454_bbc01d8f73_n.jpg
+    title: ES (1).jpg
+    $$hashKey: 0E8
 created_date: "2018-04-17T21:34:03-03:00"
 published: true
 releated_posts:
@@ -88,7 +95,7 @@ Globo no estado. Foto: Divulga&ccedil;&atilde;o/MST</figcaption>
 &ldquo;Vivemos a combina&ccedil;&atilde;o de v&aacute;rias a&ccedil;&otilde;es. Os trabalhadores do campo, articulados com for&ccedil;as pol&iacute;ticas das cidades, evidenciam e denunciam esse contexto de viol&ecirc;ncia e de impunidade, o contexto de paraliza&ccedil;&atilde;o da Reforma Agr&aacute;ria e o golpe que nos atinge&rdquo;, completa Ferreira.</p>
 
 <p><br />
-As sedes da rede Globo tamb&eacute;m foram alvos de protestos. Militantes de Cuiab&aacute;, de Belo Horizonte, de Aracaju e de S&atilde;o Paulo marcharam e escracharam a sede das filiais da rede dos Marinho. Em Salvador, a Rede Bahia foi ocupada por trabalhadores do campo e da cidade por aproximadamente 5 horas.</p>
+As sedes da rede Globo tamb&eacute;m foram alvos de protestos. Militantes de Cuiab&aacute;, de Belo Horizonte, Espirito Santo, de Aracaju e S&atilde;o Paulo marcharam e escracharam a sede das filiais da rede dos Marinho. Em Salvador, a Rede Bahia foi ocupada por trabalhadores do campo e da cidade por aproximadamente 5 horas.</p>
 
 <figure class="image" style="float:left"><img alt="4f89ffae-f989-4adc-a048-c3c6fd29ed4f.jpg" height="197" src="//farm1.staticflickr.com/783/40635267955_6c146e0fff_b.jpg" width="350" />
 <figcaption>600 Sem Terras ocupam a Pra&ccedil;a da Liberdade, em BH.&nbsp;<br />
@@ -101,8 +108,16 @@ Em Curitiba, milhares de militantes seguem firmes acampados pr&oacute;ximos a de
 <p><br />
 Ao longo da Jornada foram ocupados 26&nbsp;latif&uacute;ndios, reivindicando a destina&ccedil;&atilde;o das terras para cria&ccedil;&atilde;o de assentamentos e trouxeram tamb&eacute;m a pauta da liberdade imediata para Lula. Foram bloqueados mais de 20 pontos de rodovias em todo pa&iacute;s. A Curva do &ldquo;S&rdquo;, palco do Massacre de Eldorado dos Caraj&aacute;s, em 1996, recebe durante toda a semana o Acampamento Pedag&oacute;gico da Juventude, com atividades simb&oacute;licas e formativas.</p>
 
+<p>Os militantes tamb&eacute;m ocuparam a sede&nbsp;da Justi&ccedil;a Federal em Vit&oacute;ria, no ES.&nbsp;</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="ES (1).jpg" height="394" src="//farm1.staticflickr.com/920/40853360454_bbc01d8f73_b.jpg" width="700" />
+<figcaption>Vit&oacute;ria, Esp&iacute;rito Santo</figcaption>
+</figure>
+</div>
+
 <p><br />
-As a&ccedil;&otilde;es aconteceram nos estados do&nbsp;Paran&aacute;, Distrito Federal, Par&aacute;, Cear&aacute;, Alagoas, Rio Grande do Norte, Bahia, Pernambuco, Rio de Janeiro, Rio Grande do Sul, Maranh&atilde;o, Para&iacute;ba, Sergipe, Mato Grosso do Sul, S&atilde;o Paulo, Goi&aacute;s, Piau&iacute;, Mato Grosso e Minas Gerais.</p>
+As a&ccedil;&otilde;es aconteceram nos estados do&nbsp;Paran&aacute;, Distrito Federal, Par&aacute;, Esp&iacute;rito Santo, Cear&aacute;, Alagoas, Rio Grande do Norte, Bahia, Pernambuco, Rio de Janeiro, Rio Grande do Sul, Maranh&atilde;o, Para&iacute;ba, Sergipe, Mato Grosso do Sul, S&atilde;o Paulo, Goi&aacute;s, Piau&iacute;, Mato Grosso e Minas Gerais.</p>
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="032b8515-a1b5-4a70-89f6-3e08356b3030.jpg" height="400" src="//farm1.staticflickr.com/937/40815770124_b921ee4665_b.jpg" width="600" />
