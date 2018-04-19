@@ -4,7 +4,7 @@ tags:
   - tag: via-campesina
   - tag: mobilizações
   - tag: solidariedade-internacional
-title: "No dia 17 de abril, exigimos que os direitos dos campesinos e campesinas sejam garantidos. Basta ao TLC, basta de impunidade!"
+title: "Exigimos que os direitos dos campesinos e campesinas sejam garantidos. Basta de TLC, basta de impunidade!"
 support_line: "Nesse dia, a Via Campesina também denunciou as sistemáticas e alarmantes violações dos direito fundamentais dos camponesas e das camponesas em todo mundo"
 menu: lutas e mobilizações
 images_hd: //farm1.staticflickr.com/831/39752894210_f1865cefe0_b.jpg
@@ -80,3 +80,9 @@ Alimentamos nossos povos e constru&iacute;mos um movimento para mudar o mundo!</
 
 <p><br />
 O relat&oacute;rio sobre a VII Confer&ecirc;ncia Internacional da Via Campesina est&aacute; dispon&iacute;vel <a href="https://viacampesina.org/es/informe-vii-conferencia-internacional-de-la-via-campesina/">aqui</a> [em espanhol, ingl&ecirc;s e franc&ecirc;s].</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><em>*Traduzido por Luiza Man&ccedil;ano</em></p>
