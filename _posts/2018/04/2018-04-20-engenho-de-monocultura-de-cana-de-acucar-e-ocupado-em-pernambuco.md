@@ -35,7 +35,7 @@ releated_posts: []
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Dando continuidade a Jornada de Lutas de abril, em defesa da democracia, denuncia da impunidade dos 22 anos do Massacre de Eldorado dos Caraj&aacute;s, 02 anos do golpe contra a Presidente Dilma Rousseff e por Reforma Agr&aacute;ria, o MST de Pernambuco ocupa mais um latif&uacute;ndio, o Engenho Po&ccedil;os da Usina Santa Tereza foi ocupado por 100 fam&iacute;lias no munic&iacute;pio de Itaquitinga localizado na regi&atilde;o da Mata Norte.oocu</p>
+Dando continuidade a Jornada de Lutas de abril, em defesa da democracia, denuncia da impunidade dos 22 anos do Massacre de Eldorado dos Caraj&aacute;s, 02 anos do golpe contra a Presidente Dilma Rousseff e por Reforma Agr&aacute;ria, o MST de Pernambuco ocupa mais um latif&uacute;ndio, o Engenho Po&ccedil;os da Usina Santa Tereza foi ocupado por 100 fam&iacute;lias no munic&iacute;pio de Itaquitinga localizado na regi&atilde;o da Mata Norte.</p>
 
 <figure class="image" style="float:left"><img alt="0feebf0b-affe-4d83-8ab9-8fe85896fea9.jpg" height="355" src="//farm1.staticflickr.com/932/41583766631_d60b897c69_b.jpg" width="400" />
 <figcaption>Engenho de monocultura de cana de a&ccedil;&uacute;car ocupado.</figcaption>
