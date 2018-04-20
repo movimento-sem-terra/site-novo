@@ -4,7 +4,7 @@ tags:
   - tag: pesar
   - tag: violência
   - tag: nota-de-falecimento
-images_hd: //farm1.staticflickr.com/920/41501374722_7f686ff9a8_b.jpg
+images_hd: //farm1.staticflickr.com/874/40689678615_e814bf284a_b.jpg
 title: "O MST presta solidariedade a família de nossa dirigente, Lucinéia Durães, após a morte de seu pai"
 support_line: O MST denuncia a negligência das autoridades responsáveis que só liberaram o corpo para a família 24 horas após o ocorrido
 menu: direitos humanos
@@ -17,6 +17,13 @@ files:
     small: //farm1.staticflickr.com/920/41501374722_7f686ff9a8_n.jpg
     title: WhatsApp Image 2018-04-18 at 13.37.24.jpeg
     $$hashKey: "350"
+  - link: //farm1.staticflickr.com/874/40689678615_e814bf284a_b.jpg
+    original: //farm1.staticflickr.com/874/40689678615_74c3a91e0d_o.jpg
+    thumbnail: //farm1.staticflickr.com/874/40689678615_e814bf284a_t.jpg
+    medium: //farm1.staticflickr.com/874/40689678615_e814bf284a_z.jpg
+    small: //farm1.staticflickr.com/874/40689678615_e814bf284a_n.jpg
+    title: Presos-do-MST-600x350.jpg
+    $$hashKey: 0S0
 created_date: "2018-04-18T13:45:43-03:00"
 published: true
 releated_posts:
@@ -31,15 +38,16 @@ releated_posts:
 
 <p><em>Da P&aacute;gina do MST&nbsp;</em></p>
 
-<p><br />
-O MST se solidariza com a milit&acirc;ncia da Bahia e, especialmente, com a fam&iacute;lia de nossa dirigente estadual, Lucin&eacute;ia Dur&atilde;es, ap&oacute;s a tr&aacute;gico assassinato de seu pai, Jo&atilde;o Francisco do Ros&aacute;rio, em um incidente ocorrido na cidade de Alcoba&ccedil;a, no Extremo Sul do estado, na comunidade Ribeir&atilde;o.</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="WhatsApp Image 2018-04-18 at 13.37.24.jpeg" height="555" src="//farm1.staticflickr.com/920/41501374722_7f686ff9a8_b.jpg" width="400" />
+<figcaption></figcaption>
+</figure>
+
+<p>O MST se solidariza com a milit&acirc;ncia da Bahia e, especialmente, com a fam&iacute;lia de nossa dirigente estadual, Lucin&eacute;ia Dur&atilde;es, ap&oacute;s a tr&aacute;gico assassinato de seu pai, Jo&atilde;o Francisco do Ros&aacute;rio, em um incidente ocorrido na cidade de Alcoba&ccedil;a, no Extremo Sul do estado, na comunidade Ribeir&atilde;o.</p>
 
 <p><br />
 Jo&atilde;o Francisco foi uma grande&nbsp;amigo do Movimento e durante anos contribuiu na constru&ccedil;&atilde;o de alguns assentamentos hist&oacute;ricos na regi&atilde;o.</p>
 
 <p><br />
 O MST denuncia&nbsp;a neglig&ecirc;ncia das autoridades respons&aacute;veis que s&oacute; liberaram o corpo para a fam&iacute;lia 12&nbsp;horas ap&oacute;s o ocorrido. Cobramos investiga&ccedil;&atilde;o e que os respons&aacute;veis sejam punidos.</p>
-
-<p>&nbsp;</p>
-
-<p align="center"><img alt="" src="https://ssl.gstatic.com/ui/v1/icons/mail/images/cleardot.gif" style="height:8px;width:20px;" /></p>
