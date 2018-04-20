@@ -26,7 +26,12 @@ files:
     $$hashKey: 0A6
 created_date: "2018-04-20T13:49:58-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2017/11/2017-11-02-no-parana-acampamento-maila-sabrina-sofre-com-constantes-ameacas.md
+  - _posts/2017/11/2017-11-02-representantes-da-cpi-de-questoes-fundiarias-do-parana-visita-acampamento-no-parana.md
+  - _posts/2017/10/2017-10-11-criancas-se-reunem-em-pernambuco-para-o-xiii-encontro-estadual-dos-sem-terrinha.md
+  - _posts/2018/04/2018-04-20-em-mt-o-mst-denuncia-morosidade-e-irregularidades-da-justica-com-a-reforma-agraria.md
+  - _posts/2018/04/2018-04-20-mst-entrega-alimentos-para-entidade-de-guaiba-no-rio-grande-do-sul.md
 
 ---
 <p>&nbsp;</p>
