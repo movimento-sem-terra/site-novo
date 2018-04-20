@@ -3,8 +3,8 @@ date: "2018-04-20T13:19:29-03:00"
 tags:
   - tag: reforma-agrária
   - tag: mato-grosso
-title: "Em MT, o MST denuncia morosidade e irregularidades da justiça com a Reforma Agrária"
-support_line: Movimento divulga nota denunciando o quanto o nosso sistema de justiça é injusta e latifundiária
+title: MST denuncia morosidade e irregularidades da justiça com a Reforma Agrária
+support_line: Movimento divulga nota denunciando o quanto o nosso sistema de justiça é injusta e latifundiária no Mato Grosso
 menu: lutas e mobilizações
 images_hd: //farm1.staticflickr.com/828/40690972055_8c74b9597d_b.jpg
 layout: post
