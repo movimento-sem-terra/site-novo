@@ -37,6 +37,10 @@ releated_posts:
 ---
 <p>&nbsp;</p>
 
+<p style="text-align:center"><img alt="Adriano-Karipuna-UN-headquarters2018-57-3000x2090 (1).jpg" height="487" src="//farm1.staticflickr.com/938/27691408508_5b8f069c64_b.jpg" width="700" /></p>
+
+<p>&nbsp;</p>
+
 <p><em>Por Ascom/Cimi</em></p>
 
 <p><br />
