@@ -4,7 +4,7 @@ tags:
   - tag: reforma-agrária
   - tag: alimentos-saudáveis
   - tag: rio-grande-do-sul
-title: "MST entrega alimentos para entidade de Guaíba, no Rio Grande do Sul"
+title: "MST entrega alimentos para Associação Beneficente de Matriz Africana em Guaíba, no RS"
 support_line: Iniciativa se dará por meio do Programa de Aquisição de Alimentos (PAA)
 menu: reforma agrária
 images_hd: //farm1.staticflickr.com/916/41540043872_f8ebb223c3_b.jpg
