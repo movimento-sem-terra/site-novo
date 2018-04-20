@@ -65,6 +65,6 @@ Hor&aacute;rio: Das 8h &agrave;s 20h<br />
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="IIIFeiraNacionaldaReformaAgraria.jpg" height="849" src="//farm1.staticflickr.com/792/27714036078_2b9dd2bf80_b.jpg" width="600" />
-<figcaption>Legenda</figcaption>
+<figcaption></figcaption>
 </figure>
 </div>
