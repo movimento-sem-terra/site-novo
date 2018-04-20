@@ -53,7 +53,7 @@ A comercializa&ccedil;&atilde;o de alimentos saud&aacute;veis dos assentamentos 
 Al&eacute;m da comercializa&ccedil;&atilde;o de alimentos saud&aacute;veis, os participantes ter&atilde;o acesso &agrave;s feiras de sementes, artesanato e liter&aacute;ria, al&eacute;m de semin&aacute;rios de forma&ccedil;&atilde;o pol&iacute;tico-cultural, confer&ecirc;ncias e outros eventos internos.</p>
 
 <p><br />
-A programa&ccedil;&atilde;o cultural ser&aacute; gratuita e contar&aacute; com participa&ccedil;&otilde;es especiais de artistas da cultura popular, entre elas, a banda Il&ecirc; Ayi&ecirc;, vinda de Salvador (BA), o m&uacute;sico pernambucano Siba e a bateria da Escola de Samba Unidos da Tuiuti, do Rio de Janeiro (RJ).</p>
+A programa&ccedil;&atilde;o cultural ser&aacute; gratuita e contar&aacute; com participa&ccedil;&otilde;es especiais de artistas da cultura popular, entre elas, a banda Il&ecirc; Aiyi&ecirc;, vinda de Salvador (BA), o m&uacute;sico pernambucano Siba e a bateria da Escola de Samba Unidos da Tuiuti, do Rio de Janeiro (RJ).</p>
 
 <p><br />
 <strong>Servi&ccedil;o</strong><br />
