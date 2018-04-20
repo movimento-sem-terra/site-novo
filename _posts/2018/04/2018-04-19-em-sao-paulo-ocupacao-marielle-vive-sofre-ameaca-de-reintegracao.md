@@ -38,11 +38,12 @@ releated_posts:
   - _posts/2018/03/2018-03-31-marco-em-nos-sempre.md
 
 ---
-<p><em>Da P&aacute;gina do MST&nbsp;</em></p>
-
 <p>&nbsp;</p>
 
-<p>Na quarta-feira, 18 de abril, a Justi&ccedil;a expediu uma ordem de reintegra&ccedil;&atilde;o de posse da &aacute;rea recentemente ocupada por mais de 500 fam&iacute;lias do Movimento dos Trabalhadores Rurais Sem Terra em Valinhos, regi&atilde;o de Campinas, S&atilde;o Paulo.</p>
+<p><em>Da P&aacute;gina do MST&nbsp;</em></p>
+
+<p><br />
+Na quarta-feira, 18 de abril, a Justi&ccedil;a expediu uma ordem de reintegra&ccedil;&atilde;o de posse da &aacute;rea recentemente ocupada por mais de 500 fam&iacute;lias do Movimento dos Trabalhadores Rurais Sem Terra em Valinhos, regi&atilde;o de Campinas, S&atilde;o Paulo.</p>
 
 <p><br />
 A ocupa&ccedil;&atilde;o que leva o nome Marielle Vive&nbsp;em mem&oacute;ria &agrave; vereadora assassinada h&aacute; um m&ecirc;s no Rio de Janeiro, compreende uma fazenda improdutiva que &eacute; considerada alvo de especula&ccedil;&atilde;o imobili&aacute;ria na regi&atilde;o.</p>
