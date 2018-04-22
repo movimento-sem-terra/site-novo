@@ -92,4 +92,4 @@ Mas, em Anapu, a verdadeira luta de Pe.Amaro &eacute; dar continuidade a causa d
 Dorothy Vive!</em></p>
 
 <p><br />
-<em>*Editador por Iris Pacheco</em></p>
+<em>*Editado&nbsp;por Iris Pacheco</em></p>
