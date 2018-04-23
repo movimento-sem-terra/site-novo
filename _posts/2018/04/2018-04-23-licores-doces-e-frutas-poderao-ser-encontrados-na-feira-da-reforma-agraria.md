@@ -26,8 +26,8 @@ releated_posts:
 ---
 <p>&nbsp;</p>
 
-<p>Por Luciana Console<br />
-Do Brasil de Fato&nbsp;&nbsp;</p>
+<p><em>Por Luciana Console<br />
+Do Brasil de Fato&nbsp;&nbsp;</em></p>
 
 <p><br />
 Eva Antunes &eacute; uma das expositoras confirmadas para 3&ordf; Feira Nacional da Reforma Agr&aacute;ria. Ela faz parte do grupo Raiz do Cerrado, um coletivo de produ&ccedil;&atilde;o org&acirc;nica composto somente por mulheres do Assentamento Andal&uacute;cia, na regional Pantaneiras, Mato Grosso do Sul. A agricultora conta como surgiu o coletivo:</p>
@@ -63,4 +63,4 @@ A agricultora informa que o licor &eacute; uma bebida digestiva e o ideal &eacut
 &quot;Porque os meus licores quanto mais velhos, melhores eles ficam, ent&atilde;o eu posso produzir com um ano de anteced&ecirc;ncia e as conservas, as geleias, os doces, como tudo &eacute; caseiro, artesanal, sem conversante, eu come&ccedil;o a produzir tr&ecirc;s meses antes da feira. A produtora de licores e doces vai com um grupo de 48 assentados que vai comercializar mais de 25 produtos diferentes de toda a regi&atilde;o. Hoje, Benaia envia encomendas para v&aacute;rias regi&otilde;es do pa&iacute;s gra&ccedil;as &agrave; divulga&ccedil;&atilde;o feita na Feira Nacional do Movimento.</p>
 
 <p><br />
-Edi&ccedil;&atilde;o: Guilherme Henrique</p>
+<em>Edi&ccedil;&atilde;o: Guilherme Henrique</em></p>
