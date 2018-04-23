@@ -1,6 +1,9 @@
 ---
 date: "2018-04-23T12:40:35-03:00"
-tags: []
+tags:
+  - tag: lula-livre
+  - tag: direitos-humanos
+  - tag: curitiba
 images_hd: //farm1.staticflickr.com/886/26781686427_e9aec27174_b.jpg
 title: "Boff a Lula: 'Estive preso e me impediram de visitar-te'"
 support_line: "Após ser impedido de encontrar-se com Lula na prisão, religioso escreve carta-manifesto de repúdio aos atos de excessão"
@@ -17,7 +20,9 @@ files:
     $$hashKey: "030"
 created_date: "2018-04-23T12:43:42-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2018/04/2018-04-16-brasilia-joao-pedro-stedile-e-recebido-por-acampamento-lula-livre-nesta-segunda.md
+  - _posts/2018/04/2018-04-18-sem-terra-ocupam-a-praca-dos-tres-poderes-em-joao-pessoa.md
 
 ---
 <div style="text-align:center">
