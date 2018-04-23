@@ -60,6 +60,10 @@ O professor Willian Sim&otilde;es afirmou que &quot;de acordo com um estudo da U
 <p><br />
 Juliana Adriano, integrante do setor de educa&ccedil;&atilde;o do MST/SC reiterou que permanecer no campo &eacute; direito dos povos do campo (Sem Terra, povos ind&iacute;genas, ribeirinhos, quilombolas, faxinalenses, sertanejos). &quot;Queremos uma educa&ccedil;&atilde;o no campo, ali no campo, a partir dos sujeitos e da realidade do campo. Uma educa&ccedil;&atilde;o libertadora, que permita a manuten&ccedil;&atilde;o e recria&ccedil;&atilde;o do modo de vida campon&ecirc;s, que contribua para a agroecologia&quot;.</p>
 
+<figure class="image" style="float:left"><img alt="LRM_EXPORT_20180421_173034.jpg" height="209" src="//farm1.staticflickr.com/880/39845510780_aa8a4826c1_b.jpg" width="400" />
+<figcaption></figcaption>
+</figure>
+
 <p><br />
 Neste sentido a audi&ecirc;ncia p&uacute;blica se posicionou a favor: da constru&ccedil;&atilde;o e continuidade das escolas do campo; de projetos pol&iacute;tico pedag&oacute;gico que considerem as especificidades do campo; publica&ccedil;&atilde;o de editais espec&iacute;ficos para contratar educadores nas escolas do campo; manuten&ccedil;&atilde;o dos direitos trabalhistas; forma&ccedil;&atilde;o de educadores; material did&aacute;tico e pedag&oacute;gico que considere as especificidades do campo; incentivo financeiro para as escolas do campo; transporte escolar de qualidade; merenda escolar n&atilde;o terceirizada; estrutura b&aacute;sica nas escolas do campo (&aacute;gua, saneamento, coleta de lixo), al&eacute;m de telefone, internet, computadores, laborat&oacute;rios; respeitar o calend&aacute;rio agr&iacute;cola. E terminantemente contra o fechamento de turmas e de escolas do campo; contra a criminaliza&ccedil;&atilde;o dos trabalhadores da educa&ccedil;&atilde;o do campo.</p>
 
