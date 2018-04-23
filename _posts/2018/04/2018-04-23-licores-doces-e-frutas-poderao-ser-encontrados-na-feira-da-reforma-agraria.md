@@ -26,6 +26,14 @@ releated_posts:
 ---
 <p>&nbsp;</p>
 
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="27696614868_6ab6114bdf_o.jpg" height="933" src="//farm1.staticflickr.com/898/39841170440_f75136c4a9_b.jpg" width="700" />
+<figcaption><em>Produtos da agricultora&nbsp;Benaia de Carvalho, de Goi&aacute;s, que estar&atilde;o na Feira Nacional da Reforma Agr&aacute;ria este ano</em></figcaption>
+</figure>
+</div>
+
+<p>&nbsp;</p>
+
 <p><em>Por Luciana Console<br />
 Do Brasil de Fato&nbsp;&nbsp;</em></p>
 
