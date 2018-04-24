@@ -6,7 +6,7 @@ tags:
 title: São Paulo recebe a 3ª Feira Nacional da Reforma Agrária em maio
 support_line: Produção camponesa de assentamentos e acampamentos de todo o país estarão no Parque da Água Branca
 menu: agricultura camponesa
-section: cover
+section: featured-news
 images_hd: //farm1.staticflickr.com/925/40691431855_2353cef278_b.jpg
 layout: post
 files:
