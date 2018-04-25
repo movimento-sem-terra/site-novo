@@ -4,7 +4,7 @@ tags:
   - tag: minas-gerais
   - tag: sim-eu-posso
   - tag: educação-do-campo
-title: Tudo pronto pro início do projeto que promete alfabetizar 1500 adultos em Minas Gerais
+title: "\"Sim, eu posso!\" promete alfabetizar 1500 adultos em Minas Gerais"
 support_line: "A Jornada Mineira de Alfabetizaçaõ \"Sim, eu posso!\" e Círculos de Cultura iniciou a fase de mobilização em fevereiro e oferece aulas gratuitas para jovens e adultos em 8 municípios do interior."
 menu: "educação, cultura e comunicação"
 section: cover
