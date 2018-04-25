@@ -41,7 +41,7 @@ section: cover
 <p>O Parque da &Aacute;gua Branca ser&aacute; palco mais uma vez do grande encontro entre o campo e a cidade, a 3&ordf; Feira Nacional da Reforma Agr&aacute;ria, sin&ocirc;nimo de fartura de alimentos saud&aacute;veis e de cultura popular. A programa&ccedil;&atilde;o cultural &eacute; aberta aos p&uacute;blicos de todas as idades e est&aacute; recheada com artistas populares que animam o evento organizado pelo Movimento dos Trabalhadores Rurais Sem Terra (MST).</p>
 
 <p><br />
-S&atilde;o quatro&nbsp;dias apresentando artistas nacionalmente consagrados, como os pernambucanos Siba e Otto, a cantora Ana Ca&ntilde;as, a banda afro Il&ecirc; Aiy&ecirc; e o sambista carioca Martinho da Vila, sempre ao cair da tarde. (Confira abaixo a &iacute;ntegra da programa&ccedil;&atilde;o)</p>
+S&atilde;o quatro&nbsp;dias apresentando artistas nacionalmente consagrados, como os pernambucanos Siba e Otto, a cantora Ana Ca&ntilde;as, a banda afro Il&ecirc; Aiy&ecirc; e o sambista carioca Martinho da Vila.</p>
 
 <p><br />
 A cultura maranhense tamb&eacute;m ter&aacute; espa&ccedil;o no palco Arena, com Ti&atilde;o Carvalho, organizador do Boi do Morro do Querosene. A escola de samba que foi a &ldquo;campe&atilde; popular&rdquo; do carnaval da Sapuca&iacute;, a Para&iacute;so do Tuiuti, tamb&eacute;m estar&aacute; presente com sua bateria.</p>
