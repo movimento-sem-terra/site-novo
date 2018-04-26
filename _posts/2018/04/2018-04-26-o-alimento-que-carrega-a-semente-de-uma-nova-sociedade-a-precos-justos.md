@@ -79,7 +79,7 @@ Nen&eacute;m tamb&eacute;m explica a rela&ccedil;&atilde;o dos pre&ccedil;os dos
 <strong>Confira a &iacute;ntegra da entrevista.</strong></p>
 
 <figure class="image" style="float:left"><img alt="juliana-adriano-ii-feira-nac-ref-ag-07maio2017-13-e1497190552652.jpg" height="249" src="//farm1.staticflickr.com/865/39914008230_01d2b06eb4_b.jpg" width="350" />
-<figcaption><strong>Legenda</strong></figcaption>
+<figcaption></figcaption>
 </figure>
 
 <p><strong>A Feira Nacional da Reforma Agr&aacute;ria &eacute; uma amostra de um universo maior. Qual o modelo defendido pelo MST para o campo brasileiro?</strong></p>
@@ -104,7 +104,7 @@ Temos que construir essa rela&ccedil;&atilde;o de produ&ccedil;&atilde;o de alim
 Do nosso ponto de vista do campon&ecirc;s, n&atilde;o. O agroneg&oacute;cio transforma a produ&ccedil;&atilde;o, mas tamb&eacute;m os bens da natureza como a &aacute;gua, a terra, as florestas, os min&eacute;rios, em lucro, para que possam ganhar em cima. O alimento, por sua vez, &eacute; vital para a vida. A gente vive porque come e bebe &aacute;gua, portanto o alimento &eacute; uma ess&ecirc;ncia da vida.</p>
 
 <p><br />
-O alimento deve ser pensado para al&eacute;m da mercadoria, porque mercadoria n&atilde;o importa o que e como &eacute; produzindo, mas se aquela mercadoria vai dar retorno financeiro.</p>
+O alimento deve ser pensado para al&eacute;m da mercadoria, porque mercadoria n&atilde;o importa o que e como &eacute; produzido, mas se essa mercadoria vai dar retorno financeiro.</p>
 
 <p><br />
 <strong>E os alimentos que estar&atilde;o em S&atilde;o Paulo, vindos de todo o Brasil?</strong></p>
