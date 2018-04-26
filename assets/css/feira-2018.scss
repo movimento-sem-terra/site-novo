@@ -76,7 +76,7 @@
   }
 
   .capa {
-    background-image: radial-gradient(#ecdfd2, rgba(194,153,117,0.5));
+    background-image: radial-gradient(#ecdfd2, rgba(248,240,211,0.3));
     width: 100vw;
     height: 157vh;
     display: flex;
@@ -99,7 +99,7 @@
     }
 
     @include media($tablet) {
-      background-image: radial-gradient(#ecdfd2, rgba(194,153,117,0.5)), url(//farm1.staticflickr.com/949/39891027380_b4c11eced6_b.jpg);
+      background-image: radial-gradient(#ecdfd2, rgba(248,240,211,0.3)), url(//farm1.staticflickr.com/949/39891027380_b4c11eced6_b.jpg);
       background-attachment: fixed;
       background-position: center;
       background-repeat: no-repeat;
@@ -293,7 +293,7 @@
       @include media($tablet) {
         padding: 20px;
         background-color: #fff;
-        background-image: radial-gradient(#ecdfd2, rgba(194,153,117,0.5)),url(//farm1.staticflickr.com/949/39891027380_b4c11eced6_b.jpg);
+        background-image: radial-gradient(#ecdfd2, rgba(248,240,211,0.3)),url(//farm1.staticflickr.com/949/39891027380_b4c11eced6_b.jpg);
         background-attachment: fixed;
         box-shadow: inset 0px 0 5px 0px black;
       }
