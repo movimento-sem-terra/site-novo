@@ -67,13 +67,12 @@ releated_posts:
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
-A cidade de S&atilde;o Paulo se prepara para receber mais uma vez a Feira Nacional da Reforma Agr&aacute;ria. Organizadora desta terceira edi&ccedil;&atilde;o, Ant&ocirc;nia Ivoneide, que vem do Cear&aacute;, traz uma reflex&atilde;o necess&aacute;ria sobre o alimento que chega &agrave; mesa dos brasileiros, a import&acirc;ncia da Reforma Agr&aacute;ria e de se mudar o modelo de viver no campo.</p>
+A cidade de S&atilde;o Paulo se prepara para receber mais uma vez a Feira Nacional da Reforma Agr&aacute;ria. Uma das organizadora desta terceira edi&ccedil;&atilde;o, Ant&ocirc;nia Ivoneide, que vem do Cear&aacute;, traz uma reflex&atilde;o necess&aacute;ria sobre o alimento que chega &agrave; mesa dos brasileiros, a import&acirc;ncia da Reforma Agr&aacute;ria e de se mudar o modelo de viver no campo.</p>
 
 <p><br />
-&ldquo;O que vem pra Feira &eacute; parte daquilo que eu alimento tamb&eacute;m a minha fam&iacute;lia&rdquo;, indica Nen&ecirc;, como &eacute; conhecida a agricultora, tamb&eacute;m integrante da Dire&ccedil;&atilde;o Nacional do MST. &ldquo;Vamos nos alimentar (e bem) aqui na Feira, como eu, como parte da comunidade que eu vivo, numa rela&ccedil;&atilde;o direta de respeito&rdquo;, completa.</p>
+&ldquo;O que vem pra Feira &eacute; parte daquilo que eu alimento tamb&eacute;m a minha fam&iacute;lia&rdquo;, indica Nen&eacute;m, como &eacute; conhecida a agricultora, tamb&eacute;m integrante da Dire&ccedil;&atilde;o Nacional do MST. &ldquo;Vamos nos alimentar (e bem) aqui na Feira, como eu, como parte da comunidade que eu vivo, numa rela&ccedil;&atilde;o direta de respeito&rdquo;, completa.</p>
 
-<p><br />
-Ela tamb&eacute;m explica a rela&ccedil;&atilde;o dos pre&ccedil;os dos produtos, que ser&atilde;o vendidos no Parque da &Aacute;gua Branca e adianta como ser&aacute; o espa&ccedil;o Culin&aacute;ria da Terra, com vinte cozinhas de todas as regi&otilde;es do pa&iacute;s.</p>
+<p>&eacute;em tamb&eacute;m explica a rela&ccedil;&atilde;o dos pre&ccedil;os dos produtos, que ser&atilde;o vendidos no Parque da &Aacute;gua Branca e adianta como ser&aacute; o espa&ccedil;o Culin&aacute;ria da Terra, com vinte cozinhas de todas as regi&otilde;es do pa&iacute;s.</p>
 
 <p><br />
 <strong>Confira a &iacute;ntegra da entrevista.</strong></p>
