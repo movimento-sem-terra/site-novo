@@ -123,7 +123,7 @@ A alimenta&ccedil;&atilde;o que vem pra Feira n&atilde;o &eacute; uma produ&cced
 </figure>
 
 <p><br />
-O Espa&ccedil;o Culin&aacute;ria da Terra vai trazer pra Feira os nossos sabores, os nossos gostos, o nosso jeito de fazer a comida e da rela&ccedil;&atilde;o n&atilde;o s&oacute; da produ&ccedil;&atilde;o, mas do preparo. Aqui se aproxima a realidade de produ&ccedil;&atilde;o trazida pra Feira, mas tamb&eacute;m da transforma&ccedil;&atilde;o do produto. A Culin&aacute;ria da Terra traz pra S&atilde;o Paulo o gosto da cozinha do campo, das camponesas e dos camponeses fazendo a alimenta&ccedil;&atilde;o. A rela&ccedil;&atilde;o com a terra, a comida e a pr&aacute;tica da cozinha.</p>
+O Espa&ccedil;o Culin&aacute;ria da Terra vai trazer pra Feira os nossos sabores, os nossos gostos, o nosso jeito de fazer a comida e da rela&ccedil;&atilde;o n&atilde;o s&oacute; da produ&ccedil;&atilde;o, mas do preparo. Aqui se aproxima a realidade de produ&ccedil;&atilde;o trazida pra Feira, mas tamb&eacute;m da transforma&ccedil;&atilde;o do produto. A Culin&aacute;ria da Terra traz para S&atilde;o Paulo o gosto da cozinha do campo, das camponesas e dos camponeses fazendo a alimenta&ccedil;&atilde;o. A rela&ccedil;&atilde;o com a terra, a comida e a pr&aacute;tica da cozinha.</p>
 
 <p><br />
 Voc&ecirc; que vive nessa cidade grande, venha ter um momento do campo aqui na Feira. Venha provar os sabores das mais de vinte cozinhas da Culin&aacute;ria da Terra, tocar, sentir o cheiro, perguntar como &eacute; cozido, preparado. &Eacute; o momento de conhecer e ter contato com essa dimens&atilde;o da cultura do alimento e do viver no campo.</p>
