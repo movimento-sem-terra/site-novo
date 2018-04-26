@@ -72,26 +72,26 @@ A cidade de S&atilde;o Paulo se prepara para receber mais uma vez a Feira Nacion
 <p><br />
 &ldquo;O que vem pra Feira &eacute; parte daquilo que eu alimento tamb&eacute;m a minha fam&iacute;lia&rdquo;, indica Nen&eacute;m, como &eacute; conhecida a agricultora, tamb&eacute;m integrante da Dire&ccedil;&atilde;o Nacional do MST. &ldquo;Vamos nos alimentar (e bem) aqui na Feira, como eu, como parte da comunidade que eu vivo, numa rela&ccedil;&atilde;o direta de respeito&rdquo;, completa.</p>
 
-<p>&eacute;em tamb&eacute;m explica a rela&ccedil;&atilde;o dos pre&ccedil;os dos produtos, que ser&atilde;o vendidos no Parque da &Aacute;gua Branca e adianta como ser&aacute; o espa&ccedil;o Culin&aacute;ria da Terra, com vinte cozinhas de todas as regi&otilde;es do pa&iacute;s.</p>
+<p><br />
+Nen&eacute;m tamb&eacute;m explica a rela&ccedil;&atilde;o dos pre&ccedil;os dos produtos, que ser&atilde;o vendidos no Parque da &Aacute;gua Branca e adianta como ser&aacute; o espa&ccedil;o Culin&aacute;ria da Terra, com vinte cozinhas de todas as regi&otilde;es do pa&iacute;s.</p>
 
 <p><br />
 <strong>Confira a &iacute;ntegra da entrevista.</strong></p>
 
 <figure class="image" style="float:left"><img alt="juliana-adriano-ii-feira-nac-ref-ag-07maio2017-13-e1497190552652.jpg" height="249" src="//farm1.staticflickr.com/865/39914008230_01d2b06eb4_b.jpg" width="350" />
-<figcaption></figcaption>
+<figcaption><strong>Legenda</strong></figcaption>
 </figure>
 
-<p><br />
-<strong>A Feira Nacional da Reforma Agr&aacute;ria &eacute; uma amostra de um universo maior. Qual o modelo defendido pelo MST para o campo brasileiro?</strong></p>
+<p><strong>A Feira Nacional da Reforma Agr&aacute;ria &eacute; uma amostra de um universo maior. Qual o modelo defendido pelo MST para o campo brasileiro?</strong></p>
 
 <p><br />
-O MST defende que a terra seja partilhada e esteja com aqueles que nela trabalham, aqueles que querem de fato viver na terra e tirar seu sustento desenvolvendo um processo de produ&ccedil;&atilde;o. A fun&ccedil;&atilde;o social da terra &eacute; produzir alimento, mas n&atilde;o qualquer alimento, e sim alimento agroecol&oacute;gico, que n&atilde;o use venenos e n&atilde;o reproduza as rela&ccedil;&otilde;es de explora&ccedil;&atilde;o de trabalho ou de g&ecirc;nero, de gera&ccedil;&atilde;o e de poder.</p>
+O MST defende que a terra seja partilhada e esteja com aqueles que nela trabalham, que queiram de fato viver na terra e tirar seu sustento com o desenvolvimento de um processo de produ&ccedil;&atilde;o. A fun&ccedil;&atilde;o social da terra &eacute; produzir alimento, mas n&atilde;o qualquer alimento, e sim um alimento saud&aacute;vel, agroecol&oacute;gico, que n&atilde;o use venenos e n&atilde;o reproduza as rela&ccedil;&otilde;es de explora&ccedil;&atilde;o de trabalho ou de g&ecirc;nero, de gera&ccedil;&atilde;o e de poder.</p>
 
 <p><br />
 Propomos a produ&ccedil;&atilde;o de alimento agroecol&oacute;gico que traz em si a rela&ccedil;&atilde;o entre as pessoas. Para isso, estamos numa transi&ccedil;&atilde;o que usa o caminho do alimento saud&aacute;vel.</p>
 
 <p><br />
-Temos que construir essa rela&ccedil;&atilde;o de produ&ccedil;&atilde;o de alimento, que se amplie na rela&ccedil;&atilde;o com a sociedade, com outros movimentos do campo, como quilombola e ind&iacute;gena, em defesa dos nossos territ&oacute;rios. Que a gente v&aacute; al&eacute;m da luta pela terra e pela Reforma Agr&aacute;ria, mas que englobe a defesa do territ&oacute;rio e de uma sociedade diferente no campo, em que o alimento e o todo da cultura t&ecirc;m uma rela&ccedil;&atilde;o fundamental.</p>
+Temos que construir essa rela&ccedil;&atilde;o de produ&ccedil;&atilde;o de alimento, que se amplie na rela&ccedil;&atilde;o com a sociedade, com outros movimentos do campo, como quilombola e ind&iacute;gena, em defesa dos nossos territ&oacute;rios. Que a gente v&aacute; al&eacute;m da luta pela terra e pela Reforma Agr&aacute;ria, que englobe a defesa do territ&oacute;rio e de uma sociedade diferente no campo, em que o alimento e o todo da cultura t&ecirc;m uma rela&ccedil;&atilde;o fundamental.</p>
 
 <figure class="image" style="float:right"><img alt="unnamed-1.jpg" height="233" src="//farm1.staticflickr.com/943/27852474168_fb1fe165b6_b.jpg" width="350" />
 <figcaption></figcaption>
