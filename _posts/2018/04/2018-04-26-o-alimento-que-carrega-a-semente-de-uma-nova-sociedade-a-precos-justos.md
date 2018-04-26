@@ -5,7 +5,7 @@ tags:
   - tag: são-paulo
   - tag: alimentação-saudável
 title: Preços justos e o alimento que carrega a semente de uma outra sociedade
-support_line: "A dirigente do MST e assentada da Reforma Agrária, Antônia Ivoneide, do Ceará, nos conta o que você encontra na 3ª Feira Nacional da Reforma Agrária"
+support_line: "A dirigente do MST e assentada da Reforma Agrária, Antônia Ivoneide, do Ceará, nos conta o que você encontra na III Feira Nacional da Reforma Agrária"
 images_hd: //farm1.staticflickr.com/823/41721549111_22b1d29af4_b.jpg
 menu: reforma agrária
 sector: production
