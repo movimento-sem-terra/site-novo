@@ -40,7 +40,7 @@ releated_posts:
 <p><em>Da P&aacute;gina do MST*&nbsp;</em></p>
 
 <p><br />
-Na madrugada do &uacute;ltimo s&aacute;bado (21), cerca de 200 fam&iacute;lias Sem Terra ocuparam a fazenda Rancho Sagit&aacute;rio, no munic&iacute;pio de Rio das Ostras, no interior do Rio de Janeiro, como forma de denunciar a omiss&atilde;o do poder p&uacute;blico que paulatinamente acaba com a Reforma Agr&aacute;ria.&nbsp;</p>
+Na madrugada do &uacute;ltimo s&aacute;bado (21), cerca de 200 fam&iacute;lias Sem Terra ocuparam a fazenda Montes Verdes, no munic&iacute;pio de Rio das Ostras, no interior do Rio de Janeiro, como forma de denunciar a omiss&atilde;o do poder p&uacute;blico que paulatinamente acaba com a Reforma Agr&aacute;ria.&nbsp;</p>
 
 <p><br />
 A propriedade &eacute; um latif&uacute;ndio improdutivo e o propriet&aacute;rio foi condenado em a&ccedil;&atilde;o civil p&uacute;blica por impacto ambiental ao despejar dejetos no leito do rio da propriedade que acabou por atingir a Reserva Biol&oacute;gica das Uni&atilde;o, um grande patrim&ocirc;nio ambiental pela sua riqueza em biodiversidade.</p>
