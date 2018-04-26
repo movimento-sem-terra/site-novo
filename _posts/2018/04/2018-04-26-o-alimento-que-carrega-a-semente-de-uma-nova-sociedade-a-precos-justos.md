@@ -4,9 +4,9 @@ tags:
   - tag: feira-da-reforma-agrária
   - tag: são-paulo
   - tag: alimentação-saudável
-title: O alimento que carrega a semente de uma nova sociedade a preços justos
+title: Preços justos e o alimento que carrega a semente de uma outra sociedade
 support_line: "A assentada da Reforma Agrária, Antônia Ivoneide, do Ceará, nos conta o que você encontra na 3ª Feira Nacional da Reforma Agrária"
-images_hd: //farm1.staticflickr.com/829/39913916480_152b503caa_b.jpg
+images_hd: //farm1.staticflickr.com/823/41721549111_22b1d29af4_b.jpg
 menu: reforma agrária
 sector: production
 label: interviews
@@ -40,6 +40,13 @@ files:
     small: //farm1.staticflickr.com/977/27852474298_0f96e5bb31_n.jpg
     title: maxresdefault.jpg
     $$hashKey: 06B
+  - link: //farm1.staticflickr.com/823/41721549111_22b1d29af4_b.jpg
+    original: //farm1.staticflickr.com/823/41721549111_7de1821306_o.jpg
+    thumbnail: //farm1.staticflickr.com/823/41721549111_22b1d29af4_t.jpg
+    medium: //farm1.staticflickr.com/823/41721549111_22b1d29af4_z.jpg
+    small: //farm1.staticflickr.com/823/41721549111_22b1d29af4_n.jpg
+    title: 22203459358_5e77da7bb8_k.jpg
+    $$hashKey: 05F
 created_date: "2018-04-26T15:09:49-03:00"
 published: true
 releated_posts:
@@ -113,7 +120,7 @@ A alimenta&ccedil;&atilde;o que vem pra Feira n&atilde;o &eacute; uma produ&cced
 <strong>Conta um pouco sobre o espa&ccedil;o Culin&aacute;ria da Terra!</strong></p>
 
 <figure class="image" style="float:left"><img alt="maxresdefault.jpg" height="197" src="//farm1.staticflickr.com/977/27852474298_0f96e5bb31_b.jpg" width="350" />
-<figcaption></figcaption>
+<figcaption><em>Arroz com Pequi, da regi&atilde;o Centro Oeste.</em></figcaption>
 </figure>
 
 <p><br />
