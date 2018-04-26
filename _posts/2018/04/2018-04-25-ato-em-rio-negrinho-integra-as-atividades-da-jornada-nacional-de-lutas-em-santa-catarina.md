@@ -4,9 +4,9 @@ tags:
   - tag: jornada-nacional-de-lutas
   - tag: mobilizações
   - tag: santa-catarina
-title: "Ato em Rio Negrinho integra as atividades da Jornada  Nacional de Lutas em Santa Catarina \n"
+title: "Ato em Rio Negrinho denuncia violência no campo "
 images_hd: //farm1.staticflickr.com/832/40799147925_778599c19d_b.jpg
-support_line: "A ação contou com a participação de 80 militantes de movimentos sociais, estudantis e sindicais "
+support_line: "A ação contou com a participação de 80 militantes de movimentos sociais, estudantis e sindicais"
 menu: lutas e mobilizações
 special-page: jornadas-2018
 layout: post
@@ -68,7 +68,9 @@ Da P&aacute;gina do MST</em></p>
 A a&ccedil;&atilde;o contou com a participa&ccedil;&atilde;o de&nbsp;80 militantes de&nbsp;movimentos sociais, estudantis e sindicais&nbsp;que, em frente ao f&oacute;rum de Rio Negrinho, declararam sua indigna&ccedil;&atilde;o e denunciaram o aumento da viol&ecirc;ncia sistem&aacute;tica do campo.&nbsp;</div>
 
 <div dir="auto"><br />
-Os manifestantes seguiram em marcha at&eacute; a rodovia BR-280 onde realizaram um trancamento.&nbsp;</div>
+Os manifestantes seguiram em marcha at&eacute; a rodovia BR-280 onde realizaram um trancamento. em Santa Catarina&nbsp;Ato&nbsp;integra as atividades da Jornada de Lutas pela Reforma Agr&aacute;ria.&nbsp;</div>
+
+<div dir="auto">&nbsp;</div>
 
 <div dir="auto">&nbsp;</div>
 
