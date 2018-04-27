@@ -61,7 +61,7 @@ Seu fruto, o umbu, al&eacute;m de ser a base para a produ&ccedil;&atilde;o de do
 <p><br />
 O assentado Jos&eacute; Severo, comenta sobre o processo dessa &aacute;rvore simbolo da resist&ecirc;ncia camponesa no sert&atilde;o nordestino.&nbsp;</p>
 
-<figure class="image" style="float:left"><img alt="photo5037425193265506250.jpg" height="245" src="//farm1.staticflickr.com/956/40840722575_8eed0a5aa5_b.jpg" width="350" />
+<figure class="image" style="float:left"><img alt="photo5037425193265506250.jpg" height="280" src="//farm1.staticflickr.com/956/40840722575_8eed0a5aa5_b.jpg" width="400" />
 <figcaption><em>O umbuzeiro, a grande &aacute;rvore sagrada do sert&atilde;o.<br />
 Foto: Comunica&ccedil;&atilde;o MST</em></figcaption>
 </figure>
