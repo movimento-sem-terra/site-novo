@@ -4,7 +4,7 @@ tags:
   - tag: minas-gerais
   - tag: sim-eu-posso
   - tag: educação-do-campo
-title: "\"Sim, eu posso!\" promete alfabetizar 1500 adultos em Minas Gerais"
+title: "\"Sim, eu posso!\" promete alfabetizar 2000 pessoas em Minas Gerais"
 support_line: "A Jornada Mineira de Alfabetizaçaõ \"Sim, eu posso!\" e Círculos de Cultura iniciou a fase de mobilização em fevereiro e oferece aulas gratuitas para jovens e adultos em 8 municípios do interior."
 menu: "educação, cultura e comunicação"
 section: featured-news
@@ -60,13 +60,13 @@ Da P&aacute;gina do MST</em></p>
 Com o lema &quot;Sim, eu posso!&quot;, a Jornada Mineira de Alfabetiza&ccedil;&atilde;o come&ccedil;ou o trabalho de mobiliza&ccedil;&atilde;o de turmas em fevereiro e levar&aacute; v&iacute;deo-aulas, c&iacute;rculos de cultura e outras atividades para oito munic&iacute;pios ao longo de 13 meses.</p>
 
 <p><br />
-As aulas se iniciam entre os dias 23 e 25 de abril. Durante esse per&iacute;odo, o projeto pretende ensinar mais de 1500 pessoas a ler e escrever.</p>
+As aulas se iniciam entre os dias 23 e 25 de abril. Durante esse per&iacute;odo, o projeto pretende ensinar mais de 2000 pessoas a ler e escrever.</p>
 
 <p><br />
 Para isto, a jornada faz uso de uma metodologia inovadora baseada em um sistema de ensino trazido de Cuba.</p>
 
 <p><br />
-&quot;O m&eacute;todo foi criado em 1961 pelo Instituto Pedag&oacute;gico Latinoamericano e Caribenho quando a sociedade cubana decidiu erradicar o analfabetismo no pa&iacute;s&quot;, explica Edilene, coordenadora do projeto.</p>
+&quot;O m&eacute;todo foi criado em 2001 pelo Instituto Pedag&oacute;gico Latinoamericano e Caribenho, inspirado na Jornada de Alfabetiza&ccedil;&atilde;o de 1961, quando a sociedade cubana decidiu erradicar o analfabetismo no pa&iacute;s&quot;, explica Edilene, coordenadora do projeto.</p>
 
 <p><br />
 Segundo ela, a forma de ensino utiliza um sistema de c&oacute;digos que permite a alfabetiza&ccedil;&atilde;o em at&eacute; 4 meses, mas precisou ser adaptada para a realidade brasileira. &quot;O processo final foi constru&iacute;do ao longo de mais de 13 anos de brigadas populares atuando no campo, e se mostrou bastante eficaz em combater a evas&atilde;o&quot;.</p>
