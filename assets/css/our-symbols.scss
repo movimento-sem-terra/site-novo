@@ -165,14 +165,14 @@
           will-change: top, left, -webkit-transform, -webkit-filter, opacity, filter, transform;
           cursor: pointer;
           &.active {
-            @include filter(drop-shadow(1px 7px 4px rgba(0, 0, 0, .8)));
-            @include transform(scale(1.05));
+            filter: drop-shadow(1px 7px 4px rgba(0, 0, 0, .8));
+            transform: scale(1.05);
             opacity: 1;
 
           }
 
           &:active {
-            @include transform(scale(1.1));
+            transform: scale(1.1);
             opacity: 1;
           }
         }
@@ -243,7 +243,7 @@
 
 
           top: -13%;
-          @include filter(drop-shadow(1px 5px 2px rgba(0, 0, 0, .4)));
+          filter: drop-shadow(1px 5px 2px rgba(0, 0, 0, .4));
         }
 
         #text {
@@ -461,7 +461,7 @@
           width: 100%;
           padding: 10px 30px;
           text-decoration: none;
-          @include transition(background-color 0.4s ease-out);
+          transition: background-color 0.4s ease-out;
 
           &:hover{
             background-color: $mst-red;

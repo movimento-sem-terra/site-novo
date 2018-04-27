@@ -1,0 +1,380 @@
+---
+---
+
+@import "../bourbon/bourbon";
+@import "../neat/neat";
+@import "../_sass/variables";
+@import "../_sass/_includes/mixins";
+
+@font-face {
+    font-family: FeiraFont;
+    src: url(/assets/fonts/feira-2018/SWZ721B.TTF);
+}
+
+.feira {
+  background-color: white;
+
+  .coletanea-fotos {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+
+    h1 {
+      font-family: sans-serif;
+      font-size: 3em;
+    }
+
+    figure {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      padding: 20px;
+      cursor: pointer;
+    }
+
+    a {
+      color: white;
+      text-decoration: none;
+    }
+  }
+
+  .coletanea-fotos .mulheres-da-feira {
+    background-image: radial-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.5)), url("//farm1.staticflickr.com/949/39891027380_b4c11eced6_b.jpg");
+    height: 420px;
+    width: auto;
+    background-size: 100%;
+    background-repeat: repeat;
+    background-position-y: -500px;
+    transition: background-size .2s ease-in;
+    -moz-transition: background-size .2s ease-in;
+    -ms-transition: background-size .2s ease-in;
+    -o-transition: background-size .2s ease-in;
+    -webkit-transition: background-size .2s ease-in;
+
+    figcaption {
+      font-style: italic;
+    }
+
+    &:hover {
+      background-size: 110%;
+    }
+  }
+
+  .stream {
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+    iframe {
+      max-width: 507px;
+      align-self: center;
+      width: 100%;
+    }
+  }
+
+  .capa {
+    background-image: radial-gradient(#ecdfd2, rgba(248,240,211,0.3));
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: center;
+    padding: 0;
+    box-shadow: 0px 0px 21px 0px #000;
+
+    img.central {
+      max-width: 500px;
+      width: 100%;
+      height: auto;
+    }
+
+    img.data {
+      max-width: 600px;
+      width: 100%;
+      height: auto;
+      margin-top: 30px;
+    }
+
+    @include media($tablet) {
+      background-image: radial-gradient(#ecdfd2, rgba(248,240,211,0.3)), url(//farm1.staticflickr.com/949/39891027380_b4c11eced6_b.jpg);
+      background-attachment: fixed;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+    }
+  }
+
+  .information {
+    width: 100vw;
+    height: 100%;
+    padding: 30px 0;
+    color: white;
+    background-color: #e3e2e2;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    box-shadow: inset 0px 1px 0px 0px #000;
+
+    .radio {
+      width: 100%;
+      height: 80px;
+    }
+
+    .description {
+      max-width: 800px;
+      align-self: center;
+      color: #000;
+      padding: 40px;
+      font-size: 1.2em;
+      line-height: 2;
+    }
+
+
+    hgroup {
+      font-family: FeiraFont;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      text-align: center;
+      text-shadow: 1px 2px 2px #000;
+      font-size: 2em;
+
+
+      h1 {
+        font-size: 2em;
+        text-transform: uppercase;
+      }
+      h2 {
+        font-size: 1.5em;
+      }
+    }
+
+    h3.como-chegar {
+      font-size: 1em;
+      text-align: center;
+      text-transform: uppercase;
+
+      a {
+        text-decoration: underline;
+      }
+
+      @include media($tablet) {
+        font-size: 40px;
+      }
+    }
+
+    .local {
+      margin: 0;
+      display: none;
+      justify-content: center;
+      position:relative;
+
+      iframe {
+        width: 100%;
+        box-shadow: 0px 2px 7px -1px rgba(200,190,166,0.8);
+      }
+      @include media($tablet) {
+        display: flex;
+        height: 500px;
+        align-self: center;
+      }
+    }
+
+    .overlay {
+      width:100%;
+      min-height:500px;
+      position:absolute;
+      top:0;
+    }
+
+    .separator {
+      width: 100vw;
+      height: 1px;
+      border-bottom: 1px solid #aeaeae;
+    }
+
+    h1.header-title {
+      width: 100%;
+      text-transform: uppercase;
+      text-align: center;
+      font-size: 1.8em;
+      border-bottom: 1px solid #aeaeae;
+      padding: 20px 0px;
+      font-family: FeiraFont;
+      color: white;
+      text-shadow: 1px 2px 5px #000;
+      font-size: 2em;
+
+      @include media($tablet) {
+        font-size: 60px;
+      }
+    }
+
+    .pessoas_confirmadas {
+      display: flex;
+      flex-direction: row;
+      width: 100%;
+      max-width: 700px;
+      flex-wrap: wrap;
+      justify-content: center;
+      padding: 40px 0;
+
+      img {
+        width: 100%;
+      }
+
+      @include media($tablet) {
+        max-width: 800px;
+        align-self: center;
+      }
+    }
+
+    .agenda-completa {
+      display: flex;
+      flex-direction: row;
+      width: 100%;
+      flex-wrap: wrap;
+      justify-content: center;
+      padding: 40px 0;
+      transition: transform .2s ease-in-out;
+
+      img {
+        max-width: 100%;
+      }
+
+      @include media($tablet) {
+        max-width: 800px;
+        align-self: center;
+        img {
+          max-width: 250px;
+        }
+
+        img:hover {
+          transform: scale(1.02);
+          cursor: pointer;
+          transition: transform .2s ease-in-out;
+        }
+      }
+    }
+    .agenda {
+      display: flex;
+      flex-direction: row;
+      width: 100%;
+      max-width: 700px;
+      flex-wrap: wrap;
+      justify-content: center;
+      padding: 40px 0;
+
+      img, figure {
+        max-width: 300px;
+        transition: transform .2s ease-in-out;
+      }
+
+      img:hover {
+        transform: scale(1.05);
+      }
+
+      @include media($tablet) {
+        max-width: 800px;
+        align-self: center;
+      }
+    }
+
+    .video {
+      display: flex;
+      width: 100vw;
+      justify-content: center;
+
+      @include media($tablet) {
+        padding: 20px;
+        background-color: #fff;
+        background-image: radial-gradient(#ecdfd2, rgba(248,240,211,0.3)),url(//farm1.staticflickr.com/949/39891027380_b4c11eced6_b.jpg);
+        background-attachment: fixed;
+        box-shadow: inset 0px 0 5px 0px black;
+      }
+    }
+
+
+    @include media($tablet) {
+      .date-and-local {
+        margin-top: 30px;
+        width: 100vw;
+        padding: 0;
+
+        .como-chegar {
+          display: none;
+        }
+      }
+    }
+  }
+
+  .more-news {
+    text-align: center;
+    font-size: 2em;
+
+    & > a {
+      text-decoration: underline;
+      margin: 10px 10px 20px 5px;
+    }
+  }
+
+  .carousel {
+    color: #555;
+    padding: 60px 10px;
+
+    figure {
+      margin: 0;
+      border-radius: 3px;
+      box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.125);
+      overflow: hidden;
+
+      iframe {
+        width: 100%;
+        height: 190px;
+      }
+    }
+
+    img {
+      vertical-align: middle;
+    }
+
+    .item {
+      margin: 10px 10px 20px 5px;
+      box-shadow: 0px 0px 10px 0px  rgba(34,25,25,0.4);
+      padding-bottom: 5px;
+      border-radius: 3px;
+      width: 100%;
+
+
+      @include media($screen-sm) {
+        width: 48%;
+      }
+      @include media($screen-md) {
+        width: 30%;
+      }
+      @include media($screen-big) {
+        width: 22%;
+      }
+
+      .headline {
+        .support-line,
+        time,
+        h1 {
+          padding: 0 10px;
+        }
+
+        h1 a {
+          color: $mst-red;
+        }
+      }
+
+    }
+
+  }
+}

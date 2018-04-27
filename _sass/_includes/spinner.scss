@@ -2,21 +2,27 @@
   $offset: 187;
   $duration: 1.4s;
 
-  @include animation(rotator $duration linear infinite);
+  animation-name: rotator;
+  animation-duration: $duration;
+  animation-direction: linear;
+  animation-iteration-count: infinite;
   .path{
     stroke-dasharray: $offset;
     stroke-dashoffset: 0;
     transform-origin: center;
     stroke: #fff;
-    @include animation(dash $duration ease-in-out infinite)
+    animation-name: dash;
+    animation-duration: $duration;
+    animation-direction: ease-in-out;
+    animation-iteration-count: infinite;
   }
 
-  @include keyframes(rotator) {
+  @keyframes rotator {
     0% { transform: rotate(0deg); }
     100% { transform: rotate(270deg); }
   }
 
-  @include keyframes(dash) {
+  @keyframes dash {
    0% { stroke-dashoffset: $offset; }
    50% {
      stroke-dashoffset: 1;

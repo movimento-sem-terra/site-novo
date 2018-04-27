@@ -9,7 +9,7 @@
     overflow: hidden;
     margin: 0;
     padding: 10px 0;
-    @include transition(opacity, 0.2s, ease-in);
+    transition: opacity, 0.2s, ease-in;
 
     &.active {
       padding: 5px 0;
@@ -61,7 +61,7 @@
       overflow: hidden;
       margin: 0 20px;
       padding: 10px 0;
-      @include transition(opacity, 0.2s, ease-in);
+      transition: opacity, 0.2s, ease-in;
 
       &, ul {
         line-height: 1;
@@ -70,7 +70,7 @@
         font-size: 14px;
         text-align: left;
         text-transform: uppercase;
-        
+
 
         li {
           @include line-menu();
@@ -94,7 +94,7 @@
       li {
         display: inline-block;
         text-transform: uppercase;
-        
+
 
         a, a:hover, a:visited {
           display: inline-block;
@@ -134,7 +134,7 @@
         display: block;
         margin: 0px 5px;
         text-transform: uppercase;
-        
+
 
         a {
           display: block;

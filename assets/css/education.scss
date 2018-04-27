@@ -268,14 +268,14 @@
         height: 100%;
         top: 0;
         left: 0;
-        @include filter(blur(10px));
+        filter: blur(10px);
         background-repeat: no-repeat;
         background-size: cover;
         opacity: .3;
         transition: background .3s;
 
         @include media($mobile) {
-          @include filter(none);
+          filter: none;
           transition: none;
         }
 
@@ -330,7 +330,7 @@
           margin-left: -36%;
 
           @include media($mobile) {
-            @include transform(none !important);
+            transform: none;
             margin-left: 0;
             text-align: center;
             display: block;
@@ -342,7 +342,7 @@
             opacity: 0.7;
             border: solid 3px transparent;
 
-            @include transition(all .3s);
+            transition: all .3s;
             @include media($mobile) {
               width: 7px;
               height: 7px;
@@ -357,7 +357,7 @@
             }
 
             &:active {
-              @include transform(scale(1.4));
+              transform: scale(1.4);
             }
 
             &.swiper-slide-active {

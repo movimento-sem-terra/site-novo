@@ -293,7 +293,7 @@
         width: 100%;
         padding: 10px 30px;
         text-decoration: none;
-        @include transition(background-color 0.4s ease-out);
+        transition: background-color 0.4s ease-out;
 
         &:hover{
           background-color: $mst-red;
@@ -344,7 +344,7 @@
               text-align: center;
               padding: 10% 10px 10px 10px;
               font-size: 1.07em;
-              @include linear-gradient(transparent, rgba(0, 0, 0, .7));
+              background: linear-gradient(transparent, rgba(0, 0, 0, .7));
               transition-duration: .5s;
               width: 100%;
             }
@@ -439,8 +439,8 @@
 
           }
           :hover img {
-            @include filter(hue-rotate(35deg));
-            @include transform(scale(1.05));
+            filter: hue-rotate(35deg);
+            transform: scale(1.05);
           }
 
 
@@ -451,7 +451,7 @@
           height: 2px;
           width: 85%;
           margin-bottom: 30px;
-          @include linear-gradient(left, rgba(0,0,0,0), rgba(150,15,19,0.75), rgba(0,0,0,0));
+          background: linear-gradient(left, rgba(0,0,0,0), rgba(150,15,19,0.75), rgba(0,0,0,0));
         }
 
         h4 {
@@ -513,14 +513,14 @@
           height: 100%;
           top: 0;
           left: 0;
-          @include filter(blur(10px));
+          filter: blur(10px);
           background-repeat: no-repeat;
           background-size: cover;
           opacity: .3;
           transition: background .3s;
 
           @include media($mobile) {
-            @include filter(none);
+            filter: none;
             transition: none;
           }
 
@@ -575,7 +575,7 @@
             margin-left: -36%;
 
             @include media($mobile) {
-              @include transform(none !important);
+              transform: none;
               margin-left: 0;
               text-align: center;
               display: block;
@@ -587,7 +587,7 @@
               opacity: 0.7;
               border: solid 3px transparent;
 
-              @include transition(all .3s);
+              transition: all .3s;
               @include media($mobile) {
                 width: 7px;
                 height: 7px;
@@ -602,7 +602,7 @@
               }
 
               &:active {
-                @include transform(scale(1.4));
+                transform: scale(1.4);
               }
 
               &.swiper-slide-active {
