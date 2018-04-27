@@ -7,7 +7,7 @@ tags:
 title: Representantes da sociedade civil são barrados no Planalto por utilizarem camiseta Lula Livre e cocar
 support_line: "4 mulheres e um indígena Tingui Botó da Comissão Nacional de Agroecologia e Produção Orgânica foram barrados na entrada de reunião no Planalto nesta quinta-feira, 26 de abril"
 menu: direitos humanos
-images_hd: //farm1.staticflickr.com/866/41736884861_5220651b30_b.jpg
+images_hd: //farm1.staticflickr.com/981/41743497011_d8ffe77a11_b.jpg
 layout: post
 files:
   - link: //farm1.staticflickr.com/866/41736884861_5220651b30_b.jpg
@@ -17,6 +17,13 @@ files:
     small: //farm1.staticflickr.com/866/41736884861_5220651b30_n.jpg
     title: WhatsApp Image 2018-04-26 at 13.24.21.jpeg
     $$hashKey: 0F5
+  - link: //farm1.staticflickr.com/981/41743497011_d8ffe77a11_b.jpg
+    original: //farm1.staticflickr.com/981/41743497011_a1bc43f3e0_o.png
+    thumbnail: //farm1.staticflickr.com/981/41743497011_d8ffe77a11_t.jpg
+    medium: //farm1.staticflickr.com/981/41743497011_d8ffe77a11_z.jpg
+    small: //farm1.staticflickr.com/981/41743497011_d8ffe77a11_n.jpg
+    title: Sem título.png
+    $$hashKey: 0N4
 created_date: "2018-04-27T10:11:58-03:00"
 published: true
 releated_posts:
@@ -42,7 +49,7 @@ Da P&aacute;gina do MST</em></p>
 Nesta quinta-feira (26),&nbsp; 4 participantes do Grupo de Trabalho (GT) de Mulheres da Articula&ccedil;&atilde;o Nacional de Agroecologia (ANA) foram impedidas de participarem da reuni&atilde;o no Pal&aacute;cio do Planalto por estarem utilizando camiseta e adesivos escritos &#39;Lula Livre&#39;.&nbsp; O constrangimento aconteceu na 20&ordf; Plen&aacute;ria da Comiss&atilde;o Nacional de Agroecologia e Produ&ccedil;&atilde;o Org&acirc;nica (CNAPO). Al&eacute;m delas, Jairan Santos, ind&iacute;gena Tingui Bot&oacute; (AL) membro da comiss&atilde;o, utilizava cocar e tamb&eacute;m foi barrado pelos seguran&ccedil;as. No caso de Jairan, ele nem usava camisa Lula Livre, nem portava adesivo.</p>
 
 <p><br />
-Uma das mulheres barradas, Eryka Galindo da Confedera&ccedil;&atilde;o Nacional dos Trabalhadores na Agricultura (Contag), conta que a confus&atilde;o foi uma grave amea&ccedil;a &agrave; ordem constitucional democr&aacute;tica do pa&iacute;s. &quot;Isso demonstra o cerceamento da liberdade de express&atilde;o. O golpe contra a democracia em que a gente esta vivendo. E n&oacute;s, como movimento sociais como organiza&ccedil;&otilde;es da sociedade civil, que integram a agenda agroecol&oacute;gica,&nbsp; vamos permanecer afirmando democracia e agroecologia como referencia de luta e transforma&ccedil;&atilde;o deste pa&iacute;s&quot;, afirma.</p>
+Uma das mulheres barradas, Eryka Galindo da Confedera&ccedil;&atilde;o Nacional dos Trabalhadores na Agricultura (Contag), conta que a confus&atilde;o foi uma grave amea&ccedil;a &agrave; ordem constitucional democr&aacute;tica do pa&iacute;s. &quot;Isso demonstra o cerceamento da liberdade de express&atilde;o. O golpe contra a democracia em que a gente esta vivendo. E n&oacute;s, como movimento sociais, como organiza&ccedil;&otilde;es da sociedade civil que integram a agenda agroecol&oacute;gica,&nbsp; vamos permanecer afirmando democracia e agroecologia como refer&ecirc;ncia de luta e transforma&ccedil;&atilde;o deste pa&iacute;s&quot;, afirma.</p>
 
 <p><br />
 <a href="https://www.facebook.com/articulacaonacionaldeagroecologia/videos/1680966175322163/">Confira v&iacute;deo de&nbsp;den&uacute;ncia pela ANA</a></p>
