@@ -16,7 +16,7 @@
   padding-bottom: 0;
   padding-top: 0;
   max-height: 0;
-  @include transition(max-height .8s ease-out);
+  transition: max-height .8s ease-out;
 
   p{
     padding: 0;
@@ -42,7 +42,7 @@
     height: auto;
 
     @include prefixer(box-shadow, 0 0 10px #111, webkit moz ms spec);
-    @include transition(opacity 0.4s cubic-bezier(0.175, 0.885, 0.320, 1.275));
+    transition: opacity 0.4s, cubic-bezier(0.175, 0.885, 0.320, 1.275);
 
     .arrow-pointer{
       display: block;
@@ -257,7 +257,7 @@ main.about-us {
           z-index: 500;
           .down-icon{
             float: left;
-            @include transition(transform .8s ease-out);
+            transition: transform .8s ease-out;
             @include media($desktop) {
               display: none;
             }
@@ -265,7 +265,7 @@ main.about-us {
 
           .down-icon{
             float: left;
-            @include transition(transform .8s ease-out);
+            transition: transform .8s ease-out;
             @include media($desktop) {
               display: none;
             }
@@ -295,7 +295,7 @@ main.about-us {
             }
 
             .down-icon{
-              @include transform(rotate(180deg));
+              transform: rotate(180deg);
             }
 
             .inner-content{
@@ -400,7 +400,7 @@ main.about-us {
               font-size: 20px;
               font-weight: bold;
               text-decoration: none;
-              @include transition(all .5s ease-out);
+              transition: all .5s ease-out;
 
               span.cut {
                 margin: 0 auto 10px auto;
@@ -410,7 +410,7 @@ main.about-us {
                 border-radius: 74px;
                 display: block;
                 border: solid 4px $mst-red;
-                @include transition(all .5s ease-out);
+                transition: all .5s ease-out;
                 img{
                   margin-left: -4px;
                   margin-top: -2px;
@@ -443,7 +443,7 @@ main.about-us {
           height: 2px;
           width: 85%;
           margin-bottom: 30px;
-          @include background-image(linear-gradient(left, rgba(0,0,0,0), rgba(150,15,19,0.75), rgba(0,0,0,0)));
+          background: linear-gradient(left, rgba(0,0,0,0), rgba(150,15,19,0.75), rgba(0,0,0,0));
         }
       }
   }
@@ -523,7 +523,7 @@ main.about-us {
         height: 95px;
         width: 1180px;
         li{
-          @include transition(all, .4s, ease-out);
+          transition: all, .4s, ease-out;
 
           background-color: #f8f8f9;
           text-align: center;

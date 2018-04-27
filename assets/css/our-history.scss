@@ -33,7 +33,7 @@
       top: 0;
       left: 0;
       overflow: hidden;
-      @include filter(blur(4px));
+      filter: blur(4px);
     }
   }
 
@@ -203,7 +203,7 @@
           }
 
           &:hover, &:after:hover {
-            @include transform(scale(1.1));
+            transform: scale(1.1);
           }
 
           &:after {
