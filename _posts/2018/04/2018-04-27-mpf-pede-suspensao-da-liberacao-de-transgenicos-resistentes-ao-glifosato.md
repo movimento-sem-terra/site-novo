@@ -5,7 +5,7 @@ tags:
   - tag: agrotoxicos
   - tag: ctnbio
 title: MPF pede suspensão da liberação de transgênicos resistentes ao glifosato
-support_line: "Pela ação, CTNBio só pode voltar a liberar conforme resultado da reavaliação toxicológica do produto,com uso desenfreado nas lavouras transgênicas. Agrotóxico está em vias de proibição na França"
+support_line: "Pela ação, CTNBio só pode voltar a liberar conforme resultado da reavaliação toxicológica do produto, com uso desenfreado nas lavouras transgênicas. Agrotóxico está em vias de proibição na França"
 menu: transgênicos
 images_hd: //farm1.staticflickr.com/960/40844413685_a8a7e507cd_b.jpg
 layout: post
