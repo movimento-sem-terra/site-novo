@@ -4,7 +4,7 @@ tags:
   - tag: acampamento
   - tag: indigenas
   - tag: brasília
-title: "Em referência ao genocídio, mais de 3.000 indígenas deixam rastro de “sangue” na Esplanada"
+title: "Contra o genocídio, mais de 3.000 indígenas deixam rastro de “sangue” na Esplanada"
 support_line: Os mais de 3 mil indígenas que participam da 15ª edição do Acampamento Terra Livre (ATL) saíram em marcha pela Esplanada dos Ministérios
 menu: lutas e mobilizações
 images_hd: //farm1.staticflickr.com/963/41021038044_f00cabce1d_b.jpg
