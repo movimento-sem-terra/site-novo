@@ -4,7 +4,7 @@ tags:
   - tag: feira-da-reforma-agrária
   - tag: alimentação-saudável
   - tag: bahia
-title: "A fruto da árvore sagrada do sertão, o umbu, poderá ser encontrado na Feira"
+title: "O fruto da árvore sagrada do sertão, o umbu, poderá ser encontrado na Feira"
 support_line: "Além de ser a base para a produção de doces, geleias, sorvete e sucos o umbu é o alimento para as diversas aves, animais domésticos, caprinos e ovinos no semiárido"
 menu: reforma agrária
 images_hd: //farm1.staticflickr.com/962/26871624767_822c6446da_b.jpg
