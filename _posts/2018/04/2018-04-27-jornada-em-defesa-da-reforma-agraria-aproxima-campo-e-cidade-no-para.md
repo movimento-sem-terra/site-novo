@@ -77,7 +77,9 @@ O Movimento entende que esta &eacute; mais uma oportunidade e aproxima&ccedil;&a
 </figure>
 
 <p><br />
-Para a coordena&ccedil;&atilde;o do evento, ela ser&aacute; multitem&aacute;tica diante da quantidade de quest&otilde;es a serem abordadas como a quest&atilde;o agr&aacute;ria, defesa da educa&ccedil;&atilde;o, criminaliza&ccedil;&atilde;o dos movimentos sociais e resist&ecirc;ncia ao golpe.&nbsp;<br />
+Para a coordena&ccedil;&atilde;o do evento, ela ser&aacute; multitem&aacute;tica diante da quantidade de quest&otilde;es a serem abordadas como a quest&atilde;o agr&aacute;ria, defesa da educa&ccedil;&atilde;o, criminaliza&ccedil;&atilde;o dos movimentos sociais e resist&ecirc;ncia ao golpe.&nbsp;</p>
+
+<p><br />
 Ainda, durante todo o evento acontece a Feira da Reforma Agr&aacute;ria, com vendas de produtos vindos diretamente das fam&iacute;lias camponesas, que representam sua comunidade e oferece produtos de qualidade como verduras, legumes e frutas.&nbsp;</p>
 
 <p><br />
