@@ -48,7 +48,7 @@ releated_posts:
 <p>&nbsp;</p>
 
 <p><em>Do Levante Popular da Juventude<br />
-Para P&aacute;gina do MST</em></p>
+Da P&aacute;gina do MST</em></p>
 
 <p><br />
 &ldquo;Gente nascida e criada na ro&ccedil;a &eacute; doida pra ter um pedacinho de terra para plantar, mas o latifundi&aacute;rio n&atilde;o quer que o camarada tenha aquilo&rdquo;. Essa fala &eacute; do companheiro Ti&atilde;o, militante do Movimento dos Trabalhadores sem Terra (MST). Ele &eacute; filho de camponeses e carrega no sangue o v&iacute;nculo com a terra que o aproximou dos movimentos sociais e da luta pela reforma agr&aacute;ria. &ldquo;A minha fam&iacute;lia toda &eacute; ligada &agrave; terra. Est&aacute; no sangue. Meu irm&atilde;o planta milho em Governador Valadares. O resto da minha fam&iacute;lia planta caf&eacute; no estado do Esp&iacute;rito Santo&rdquo;, conta.</p>
