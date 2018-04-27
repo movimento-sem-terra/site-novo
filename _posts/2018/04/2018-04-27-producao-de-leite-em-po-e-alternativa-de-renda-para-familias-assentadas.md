@@ -55,9 +55,11 @@ releated_posts:
   - _posts/2017/12/2017-12-18-mst-realiza-feiras-da-reforma-agraria-em-todo-pais-como-alternativa-de-alimentacao-saudavel-e-livre-de-agrotoxicos.md
 
 ---
-<figure class="image"><img alt="De forma indireta, o MST produz leite em pó há cerca de 15 anos.jpg" height="463" src="//farm1.staticflickr.com/872/41021528474_5f567f29cc_b.jpg" width="700" />
-<figcaption>De forma indireta, o MST produz leite em pó há cerca de 15 anos.</figcaption>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="De forma indireta, o MST produz leite em pó há cerca de 15 anos.jpg" height="463" src="//farm1.staticflickr.com/872/41021528474_5f567f29cc_b.jpg" width="700" />
+<figcaption><em>De forma indireta, o MST produz leite em pó há cerca de 15 anos.</em></figcaption>
 </figure>
+</div>
 
 <p>&nbsp;</p>
 
@@ -73,9 +75,9 @@ Em Piratini, munic&iacute;pio que fica na regi&atilde;o Sul ga&uacute;cha e a qu
 &nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="O trabalho dos produtores da Coopava no leite começa logo cedo e se repete ao final do dia. Foto Divulgação.jpg" height="564" src="//farm1.staticflickr.com/976/41698334802_fc8f5f1a70_b.jpg" width="350" />
-<figcaption>O trabalho dos produtores da Coopava<br />
+<figcaption><em>O trabalho dos produtores da Coopava<br />
 no leite começa logo cedo e se<br />
-repete ao final do dia. Foto: Divulgação</figcaption>
+repete ao final do dia. Foto: Divulgação</em></figcaption>
 </figure>
 
 <p>Conforme Seno Alceu Becker, assentado e presidente da Coopava, a produ&ccedil;&atilde;o de leite envolve o produtor numa &ldquo;rotina &aacute;rdua&rdquo;, n&atilde;o por significar muito trabalho, mas sim pela carga de responsabilidades que estabelece no dia a dia. &ldquo;&Eacute; uma lida di&aacute;ria, n&atilde;o importa se tem chuva ou sol, se &eacute; s&aacute;bado ou domingo, se &eacute; Natal ou Ano Novo. N&oacute;s temos esse compromisso todos os dias, independente das outras atividades que t&ecirc;m de ser feitas, mas temos v&aacute;rias experi&ecirc;ncias de ajuda m&uacute;tua. Assim, as fam&iacute;lias que trabalham de forma individual podem sair de casa, participar de uma luta ou visitar seus familiares, pois os vizinhos colaboram na lida&rdquo;, explica.</p>
@@ -93,8 +95,8 @@ Ele acrescenta que a rotina dos camponeses que trabalham coletivamente come&cced
 O governo do Estado do Rio Grande do Sul, no comando de Jos&eacute; Ivo Sartori (MDB), foi respons&aacute;vel por agravar recentemente a situa&ccedil;&atilde;o de milhares de fam&iacute;lias que vivem em pequenas &aacute;reas e trabalham com leite no estado. A partir da ado&ccedil;&atilde;o de uma pol&iacute;tica que valorizou a importa&ccedil;&atilde;o ga&uacute;cha do leite em p&oacute; vindo do Uruguai e de pa&iacute;ses vizinhos, e que desvalorizou a mat&eacute;ria-prima que &eacute; produzida no estado, milhares de agricultores chegaram a abandonar a atividade. O pre&ccedil;o do alimento para o produtor teve queda consider&aacute;vel (o litro baixou para R$ 60 centavos) e em muitas situa&ccedil;&otilde;es n&atilde;o cobriu os custos da m&atilde;o de obra.</p>
 
 <figure class="image"><img alt="Produção de leite é uma das principais fonte de renda para milhares de famílias assentadas. Foto Divulgação.jpg" height="365" src="//farm1.staticflickr.com/867/40840028665_0d895ba6c9_b.jpg" width="600" />
-<figcaption>Produção de leite é uma das principais fonte de renda para milhares de famílias assentadas.<br />
-Foto: Divulgação</figcaption>
+<figcaption>Produção de leite é uma das principais fonte de renda para milhares de famílias<br />
+assentadas. Foto: Divulgação</figcaption>
 </figure>
 
 <p>A situa&ccedil;&atilde;o ficou ainda mais delicada com a estiagem que atingiu 42 munic&iacute;pios da Metade Sul ga&uacute;cha, onde mais de 30 cidades decretaram estado de emerg&ecirc;ncia. A falta de chuva por um per&iacute;odo de tr&ecirc;s meses comprometeu a pastagem e a &aacute;gua para consumo, fazendo com que muitos perdessem planta&ccedil;&otilde;es e animais. Seno conta que as fam&iacute;lias que entregam leite para a Coopava conseguiram manter a produ&ccedil;&atilde;o porque tinham silagem de milho estocada. Mesmo assim, algumas, por falta de ajuda do governo e pelos fatores clim&aacute;ticos, desistiram da atividade ou tiveram a produtividade reduzida. &ldquo;Cerca de 50% dos produtores desistiram do leite e os que ficaram reduziram a produ&ccedil;&atilde;o. Houve uma queda muito grande por v&aacute;rios motivos, principalmente em fun&ccedil;&atilde;o do pre&ccedil;o, da estiagem e da crise do leite. Mas eu acredito que na entrada do inverno vai aumentar o n&uacute;mero de produtores. Agora, estamos fazendo silagem para um poss&iacute;vel problema clim&aacute;tico, ou seja, excesso de frio e geada&rdquo;, ressalta.</p>
@@ -116,9 +118,9 @@ Todo esse cuidado da Coopava, que tamb&eacute;m diz respeito a outras fam&iacute
 &nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="Leite em pó do MST pode ser encontrado na marca Terra Livre. Foto Divulgação Tiago Giannichini.jpg" height="243" src="//farm1.staticflickr.com/970/27870024288_4d92c66014_b.jpg" width="350" />
-<figcaption>Leite em pó do MST pode ser encontrado<br />
+<figcaption><em>Leite em pó do MST pode ser encontrado<br />
 na marca Terra Livre.<br />
-Foto: Tiago Giannichini</figcaption>
+Foto: Tiago Giannichini</em></figcaption>
 </figure>
 
 <p>Segundo dados do Sistema Integrado de Gest&atilde;o Rural da Ates (Sirga), 6.667 fam&iacute;lias ga&uacute;chas assentadas produziram 120 milh&otilde;es de litros de leite para a ind&uacute;stria em 2016. Elas est&atilde;o localizadas majoritariamente nas regi&otilde;es Norte e Sul do estado. A primeira tinha &agrave; &eacute;poca o maior n&uacute;mero de produtores de leite, com mais de 70% das fam&iacute;lias Sem Terra dedicando-se &agrave; atividade. Hoje o alimento <em>in natura</em> &eacute; produzido por camponeses associados a nove cooperativas do MST, localizadas nas duas regi&otilde;es. No entanto, a produ&ccedil;&atilde;o de leite em p&oacute; &eacute; oriunda do trabalho das fam&iacute;lias que vivem na parte Sul.</p>
@@ -131,9 +133,9 @@ Conforme Carlos Pansera, do setor comercial da Cooperativa Terra Livre, o MST pr
 &nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="Carlos Pansera explica que a meta da Cooperativa Terra Livre é colocar 50% da produção de leite em pó no mercado institucional. Foto Catiana de Medeiros.jpg" height="224" src="//farm1.staticflickr.com/947/41021528824_08ed256f57_b.jpg" width="350" />
-<figcaption>Carlos Pansera explica que a meta da Cooperativa Terra<br />
+<figcaption><em>Carlos Pansera explica que a meta da Cooperativa Terra<br />
 Livre é colocar 50% da produção de leite em pó<br />
-no mercado institucional. Foto: Catiana de Medeiros</figcaption>
+no mercado institucional. Foto: Catiana de Medeiros</em></figcaption>
 </figure>
 
 <p>O leite <em>in natura</em> &eacute; processado numa ind&uacute;stria da Cooperativa Sul-Rio-Grandense de Latic&iacute;nios (Cosulati), situada em Cap&atilde;o do Le&atilde;o, na regi&atilde;o Sul do estado. A comercializa&ccedil;&atilde;o do leite em p&oacute;, que agora leva a marca da Reforma Agr&aacute;ria, ocorre via Cooperativa Terra Livre, para a ind&uacute;stria aliment&iacute;cia (do ramo de biscoitos e doces, entre outros) e para prefeituras por meio do PNAE. A produ&ccedil;&atilde;o chega a 250 toneladas por m&ecirc;s. &ldquo;N&oacute;s atuamos no mercado institucional, entregando para a merenda escolar no Rio Grande do Sul e para a prefeitura de S&atilde;o Paulo. Recentemente ganhamos uma licita&ccedil;&atilde;o em Belo Horizonte e vamos entregar 200 toneladas para o PNAE a cada seis meses&rdquo;, conta Pansera.</p>
