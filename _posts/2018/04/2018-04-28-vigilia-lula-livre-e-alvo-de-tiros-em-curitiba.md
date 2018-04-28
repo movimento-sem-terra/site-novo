@@ -36,10 +36,7 @@ releated_posts:
 <p>Na madrugada deste s&aacute;bado (28), o acampamento Marisa Let&iacute;cia, que faz parte da vig&iacute;lia Lula Livre, em Curitiba, foi alvo de tiros. O ataque resultou em duas pessoas feridas, uma delas de forma grave com um tiro no pesco&ccedil;o.</p>
 
 <p><br />
-Em nota de rep&uacute;dio, as diversas organiza&ccedil;&otilde;es que comp&otilde;e a vig&iacute;lia, denunciam o ocorrido e destacam: &ldquo;N&atilde;o nos intimidar&atilde;o!&rdquo;.</p>
-
-<p><br />
-Leia da &iacute;ntegra.</p>
+Em nota de rep&uacute;dio, as diversas organiza&ccedil;&otilde;es que comp&otilde;e a vig&iacute;lia, denunciam o ocorrido e destacam: &ldquo;N&atilde;o nos intimidar&atilde;o!&rdquo;. Leia na&nbsp;&iacute;ntegra.</p>
 
 <p style="text-align: center;"><br />
 <strong>NOTA DA VIG&Iacute;LIA LULA LIVRE&nbsp;</strong></p>
