@@ -1,0 +1,7 @@
+---
+layout: null
+---
+
+{% assign posts = site.posts  | where: "special-page", "IIIFeira-2018" %}
+
+{{ posts | generate_json: 10 }}
