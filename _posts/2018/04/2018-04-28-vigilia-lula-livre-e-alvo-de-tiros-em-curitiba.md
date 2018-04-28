@@ -4,7 +4,7 @@ tags:
   - tag: nota-de-repudio
   - tag: violência
 title: "Vigília Lula Livre é alvo de tiros em Curitiba "
-support_line: "Em nota, diversas organizações que compõe a vigília, denunciam o ocorrido e destacam: “Não nos intimidarão!”"
+support_line: "Em nota, diversas organizações que integram a vigília, denunciam o ocorrido e destacam: “Não nos intimidarão!”"
 images_hd: //farm1.staticflickr.com/971/40856721085_ded53b3c07_b.jpg
 menu: direitos humanos
 layout: post
