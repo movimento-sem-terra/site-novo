@@ -54,6 +54,7 @@ releated_posts:
   - _posts/2018/04/2018-04-20-sao-paulo-recebe-a-3a-feira-nacional-da-reforma-agraria-em-maio.md
   - _posts/2018/04/2018-04-15-foi-lancada-a-3o-feira-nacional-da-reforma-agraria.md
 section: cover
+special-page: IIIFeira-2018
 
 ---
 <div style="text-align:center">
