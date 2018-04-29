@@ -28,6 +28,7 @@ releated_posts:
   - _posts/2017/12/2017-12-18-mst-realiza-feiras-da-reforma-agraria-em-todo-pais-como-alternativa-de-alimentacao-saudavel-e-livre-de-agrotoxicos.md
   - _posts/2017/12/2017-12-07-patrimonio-da-cidade-do-rio-de-janeiro-ix-feira-estadual-da-reforma-agraria-cicero-guedes-recebe-mais-de-100-mil-pessoas.md
   - _posts/2017/12/2017-12-03-esta-chegando-ix-edicao-da-feira-da-reforma-agraria-patrimonio-da-cidade-do-rio-de-janeiro.md
+special-page: IIIFeira-2018
 
 ---
 <div style="text-align:center">
