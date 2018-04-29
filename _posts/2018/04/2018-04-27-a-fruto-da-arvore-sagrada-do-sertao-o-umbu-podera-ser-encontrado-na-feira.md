@@ -34,6 +34,7 @@ releated_posts:
   - _posts/2017/10/2017-10-06-agroecologia-e-alternativa-para-garantir-alimentos-saudaveis-para-populacao-apontam-painelistas.md
   - _posts/2017/09/2017-09-21-cozinha-e-o-coracao-da-agroecologia.md
   - _posts/2018/03/2018-03-09-terra-vista-comemora-26-anos-de-luta-e-resistencia-na-regiao-do-cacau.md
+special-page: IIIFeira-2018
 
 ---
 <p>&nbsp;</p>
