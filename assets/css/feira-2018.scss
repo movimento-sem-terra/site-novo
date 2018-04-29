@@ -136,7 +136,7 @@
     height: 100%;
     padding: 30px 0;
     color: white;
-    background-color: #e3e2e2;
+    background-color: #F7F7F2;
     background-repeat: no-repeat;
     background-attachment: fixed;
     display: flex;
@@ -150,14 +150,28 @@
     }
 
     .description {
-      max-width: 800px;
+      max-width: 1200px;
       align-self: center;
       color: #000;
       padding: 40px;
       font-size: 1.2em;
       line-height: 2;
+      display: flex;
+      flex-direction: row;
+
+      p + p {
+        margin-top: 30px;
+      }
     }
 
+    .description-column {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .description-column + .description-column {
+      margin-left: 30px;
+    }
 
     hgroup {
       font-family: FeiraFont;
@@ -231,8 +245,10 @@
       padding: 20px 0px;
       font-family: FeiraFont;
       color: white;
-      text-shadow: 1px 2px 5px #000;
+      text-shadow: 1px 2px 5px #dad7d7e0;
       font-size: 2em;
+      color: #4a4443;
+      letter-spacing: 2px;
 
       @include media($tablet) {
         font-size: 60px;
@@ -287,27 +303,28 @@
     }
 
     .agenda {
+    }
+
+    .atracoes {
       display: flex;
-      flex-direction: row;
-      width: 100%;
-      max-width: 700px;
-      flex-wrap: wrap;
-      justify-content: center;
-      padding: 40px 0;
+      overflow-y: auto;
+      background-color: #000;
+      padding: 60px;
+      margin: 20px 0;
+      width: 100vw;
+    }
 
-      img, figure {
-        max-width: 300px;
-        transition: transform .2s ease-in-out;
-      }
+    .atracao-dia {
+      cursor: pointer;
+    }
 
-      img:hover {
-        transform: scale(1.05);
-      }
+    .atracao-dia img {
+      transition: transform .2s ease-in-out;
+      max-width: 300px;
+    }
 
-      @include media($tablet) {
-        max-width: 800px;
-        align-self: center;
-      }
+    .atracao-dia img:hover {
+      transform: scale(1.1);
     }
 
     @include media($tablet) {
