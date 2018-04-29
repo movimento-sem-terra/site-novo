@@ -5,7 +5,7 @@ tags:
   - tag: feira-da-reforma-agrária
   - tag: rio-grande-do-sul
 title: Produção de leite em pó é alternativa de renda para famílias assentadas
-support_line: "Alimento, que é produzido por meio de assentamentos do Rio Grande do Sul, será comercializado na Feira Nacional da Reforma Agrária."
+support_line: "Alimento, que é produzido por meio de assentamentos do Rio Grande do Sul, será comercializado na Feira Nacional da Reforma Agrária"
 menu: reforma agrária
 section: featured-news
 images_hd: //farm1.staticflickr.com/872/41021528474_5f567f29cc_b.jpg
@@ -53,6 +53,7 @@ releated_posts:
   - _posts/2017/11/2017-11-30-camponeses-do-mst-no-para-realizam-ii-feira-da-reforma-agraria.md
   - _posts/2017/12/2017-12-03-esta-chegando-ix-edicao-da-feira-da-reforma-agraria-patrimonio-da-cidade-do-rio-de-janeiro.md
   - _posts/2017/12/2017-12-18-mst-realiza-feiras-da-reforma-agraria-em-todo-pais-como-alternativa-de-alimentacao-saudavel-e-livre-de-agrotoxicos.md
+special-page: IIIFeira-2018
 
 ---
 <div style="text-align:center">
