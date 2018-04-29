@@ -30,6 +30,7 @@ releated_posts:
   - _posts/2018/04/2018-04-15-lancamento-da-feira-da-reforma-agraria-reune-dezenas-de-pessoas-no-armazem-do-campo.md
   - _posts/2018/02/2018-02-21-espaco-de-comercializacao-terra-crioula-se-consolida-na-lapa-centro-do-rio-de-janeiro.md
 section: featured-news
+special-page: IIIFeira-2018
 
 ---
 <p>&nbsp;</p>
