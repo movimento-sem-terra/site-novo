@@ -31,6 +31,7 @@ releated_posts:
   - _posts/2017/11/2017-11-27-no-ms-mais-de-18-mil-pessoas-participam-da-1o-feira-estadual-da-reforma-agraria.md
   - _posts/2017/12/2017-12-07-patrimonio-da-cidade-do-rio-de-janeiro-ix-feira-estadual-da-reforma-agraria-cicero-guedes-recebe-mais-de-100-mil-pessoas.md
   - _posts/2017/11/2017-11-30-camponeses-do-mst-no-para-realizam-ii-feira-da-reforma-agraria.md
+special-page: IIIFeira-2018
 
 ---
 <p>&nbsp;</p>
