@@ -31,7 +31,8 @@ releated_posts:
   - _posts/2017/11/2017-11-24-feira-da-reforma-agraria-ocupa-o-centro-do-campo-grande-com-alimentos-saudaveis.md
   - _posts/2017/11/2017-11-21-o-debate-sobre-a-alimentacao-saudavel-se-constitui-em-uma-ferramenta-de-luta-para-nos.md
   - _posts/2018/03/2018-03-12-conferencia-internacional-evidencia-producao-de-arroz-organico-do-mst.md
-section: cover
+section: null
+special-page: IIIFeira-2018
 
 ---
 <p><em>Por Julia Dolce<br />
