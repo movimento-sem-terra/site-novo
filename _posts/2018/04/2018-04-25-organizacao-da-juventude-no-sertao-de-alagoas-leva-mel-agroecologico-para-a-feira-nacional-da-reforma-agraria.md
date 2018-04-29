@@ -40,6 +40,7 @@ releated_posts:
   - _posts/2017/12/2017-12-07-patrimonio-da-cidade-do-rio-de-janeiro-ix-feira-estadual-da-reforma-agraria-cicero-guedes-recebe-mais-de-100-mil-pessoas.md
   - _posts/2018/02/2018-02-21-espaco-de-comercializacao-terra-crioula-se-consolida-na-lapa-centro-do-rio-de-janeiro.md
   - _posts/2017/12/2017-12-18-mst-realiza-feiras-da-reforma-agraria-em-todo-pais-como-alternativa-de-alimentacao-saudavel-e-livre-de-agrotoxicos.md
+special-page: IIIFeira-2018
 
 ---
 <div style="text-align:center">
