@@ -4,8 +4,8 @@ tags:
   - tag: feira-reforma-agrária
   - tag: agroecologia
   - tag: lutas-e-mobilizações
-title: "“Culinária da Terra” movimenta Parque da Água Branca em preparação à 3º Feira da Reforma Agrária\n"
-support_line: "Com caráter de oficina, foi preparado um sal temperado livre de ingredientes artificiais\n\n"
+title: “Culinária da Terra” movimenta Parque da Água Branca em preparação à 3º Feira da Reforma Agrária
+support_line: "Com caráter de oficina, foi preparado um sal temperado livre de ingredientes artificiais"
 images_hd: //farm1.staticflickr.com/902/27497345948_9a8c0af7c0_b.jpg
 menu: agricultura camponesa
 layout: post
@@ -25,12 +25,12 @@ releated_posts:
   - _posts/2017/08/2017-08-07-em-teixeira-de-freitas-mst-participa-da-feira-de-produtos-organicos.md
   - _posts/2017/12/2017-12-04-comecou-hoje-no-rio-de-janeiro-a-ix-edicao-da-feira-da-reforma-agraria.md
   - _posts/2017/08/2017-08-01-educadores-debatem-agroecologia-e-luta-de-classes-no-extremo-sul-da-bahia.md
+special-page: IIIFeira-2018
 
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="40631015184_c0948f0274_z (1).jpg" height="338" src="//farm1.staticflickr.com/902/27497345948_9a8c0af7c0_b.jpg" width="600" />
-<figcaption>Foto: Norma Odara / Brasil de Fato<br />
-</figcaption>
+<figcaption>Foto: Norma Odara / Brasil de Fato</figcaption>
 </figure>
 </div>
 
