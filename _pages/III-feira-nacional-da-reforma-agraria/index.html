@@ -136,6 +136,14 @@ external_scripts: ["https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.m
         </a>
       </figure>
     </section> -->
+    <sections class="photos">
+      <h1 class="header-title">
+        Galeria
+      </h1>
+      <figure class="flickr">
+        <iframe style="position: relative; top: 0; left: 0; width: 100%; height: 100%;" src="https://flickrembed.com/cms_embed.php?source=flickr&layout=responsive&input=www.flickr.com/photos/mstoficial/sets/72157680690082912&sort=0&by=album&theme=default_notextpanel&scale=fit&limit=15&skin=default&autoplay=true" scrolling="no" frameborder="0" allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"><p><a  href="">/</a></p><small>Powered by <a href="https://flickrembed.com">flickr embed</a>.</small></iframe><script type="text/javascript">function showpics(){var a=$("#box").val();$.getJSON("http://api.flickr.com/services/feeds/photos_public.gne?tags="+a+"&tagmode=any&format=json&jsoncallback=?",function(a){$("#images").hide().html(a).fadeIn("fast"),$.each(a.items,function(a,e){$("<img/>").attr("src",e.media.m).appendTo("#images")})})}</script>
+      </figure>
+    </sections>
     <section class="date-and-local">
       <h1 class="header-title">
         Como chegar?
@@ -158,7 +166,7 @@ external_scripts: ["https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.m
       </h1>
       <div class="js-carousel carousel">
       </div>
-      <a href='novidades/'>saiba mais...</a>
+      <a href="novidades/">saiba mais...</a>
     </section>
     <div class="sharethis-inline-share-buttons"></div>
   </section>

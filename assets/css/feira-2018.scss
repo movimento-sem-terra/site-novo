@@ -305,6 +305,20 @@
     .agenda {
     }
 
+    .photos {
+      display: block;
+    }
+
+    .flickr {
+      width: 100vw;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 500px;
+      background-color: black;
+      margin: 0;
+    }
+
     .atracoes {
       display: flex;
       overflow-y: auto;
