@@ -344,12 +344,17 @@
 
     .flickr {
       width: 100vw;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 500px;
+      display: block;
+      height: auto;
       background-color: black;
       margin: 0;
+
+      @include media($screen-md) {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 500px;
+      }
     }
 
     .atracoes {
