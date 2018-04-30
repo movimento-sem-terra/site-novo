@@ -1,6 +1,9 @@
 ---
 date: "2018-04-30T11:04:27-03:00"
-tags: []
+tags:
+  - tag: curitiba
+  - tag: lutas-e-mobilizações
+  - tag: lutas
 title: "Centrais sindicais se unem em Curitiba para 1º de Maio por Lula Livre\n"
 support_line: "Atos em defesa da democracia e de direitos marcarão Dia do Trabalhador pelo país\n"
 images_hd: //farm1.staticflickr.com/943/40903765225_d922e4df11_b.jpg
@@ -16,7 +19,8 @@ files:
     $$hashKey: "030"
 created_date: "2018-04-30T11:12:03-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2018/02/2018-02-06-movimentos-populares-do-campo-definem-agenda-unitaria-de-lutas-pela-democracia.md
 
 ---
 <p><br />
