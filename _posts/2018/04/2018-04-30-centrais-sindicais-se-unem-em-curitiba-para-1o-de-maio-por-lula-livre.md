@@ -24,13 +24,14 @@ releated_posts:
   - _posts/2018/02/2018-02-06-movimentos-populares-do-campo-definem-agenda-unitaria-de-lutas-pela-democracia.md
   - _posts/2018/04/2018-04-23-boff-a-lula-estive-preso-e-me-impediram-de-visitar-te.md
   - _posts/2018/04/2018-04-12-bela-gil-visita-acampamento-de-resistencia-lula-livre-em-curitiba.md
+  - _posts/2018/04/2018-04-07-a-morte-de-um-combatente-nao-para-uma-revolucao-diz-lula-em-ato-no-abc.md
 
 ---
 <p><br />
 &nbsp;</p>
 
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="ato 1 de maio.jpg" height="399" src="//farm1.staticflickr.com/943/40903765225_d922e4df11_b.jpg" width="600" />
+<figure class="image" style="display:inline-block"><img alt="ato 1 de maio.jpg" height="466" src="//farm1.staticflickr.com/943/40903765225_d922e4df11_b.jpg" width="700" />
 <figcaption>Ato em Curitiba est&aacute; previsto para &agrave;s 16 horas. Foto: Joka Madruga</figcaption>
 </figure>
 </div>
