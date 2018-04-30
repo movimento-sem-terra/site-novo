@@ -19,8 +19,6 @@ published: true
 releated_posts: []
 
 ---
-<p>&nbsp;</p>
-
 <p><em>Por Emilly Dulce<br />
 Do Brasil de Fato</em></p>
 
