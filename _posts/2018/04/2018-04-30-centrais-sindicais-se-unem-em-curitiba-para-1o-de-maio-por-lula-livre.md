@@ -4,6 +4,7 @@ tags:
   - tag: curitiba
   - tag: lutas-e-mobilizações
   - tag: lutas
+  - tag: lula-livre
 title: "Centrais sindicais se unem em Curitiba para 1º de Maio por Lula Livre\n"
 support_line: "Atos em defesa da democracia e de direitos marcarão Dia do Trabalhador pelo país\n"
 images_hd: //farm1.staticflickr.com/943/40903765225_d922e4df11_b.jpg
@@ -21,13 +22,15 @@ created_date: "2018-04-30T11:12:03-03:00"
 published: true
 releated_posts:
   - _posts/2018/02/2018-02-06-movimentos-populares-do-campo-definem-agenda-unitaria-de-lutas-pela-democracia.md
+  - _posts/2018/04/2018-04-23-boff-a-lula-estive-preso-e-me-impediram-de-visitar-te.md
+  - _posts/2018/04/2018-04-12-bela-gil-visita-acampamento-de-resistencia-lula-livre-em-curitiba.md
 
 ---
 <p><br />
 &nbsp;</p>
 
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="ato 1 de maio.jpg" height="300" src="//farm1.staticflickr.com/943/40903765225_d922e4df11_b.jpg" width="450" />
+<figure class="image" style="display:inline-block"><img alt="ato 1 de maio.jpg" height="399" src="//farm1.staticflickr.com/943/40903765225_d922e4df11_b.jpg" width="600" />
 <figcaption>Ato em Curitiba est&aacute; previsto para &agrave;s 16 horas. Foto: Joka Madruga</figcaption>
 </figure>
 </div>
