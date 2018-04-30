@@ -131,7 +131,15 @@
       display: none;
 
       @include media($screen-md) {
-        display: block;
+        height: 280px;
+        overflow: hidden;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        iframe {
+          max-width: 500px;
+        }
       }
     }
 

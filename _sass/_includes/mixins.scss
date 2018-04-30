@@ -1,3 +1,5 @@
+@charset "utf-8";
+
 @mixin default-figure-images(){
   figure {
     margin: 0;
@@ -18,7 +20,7 @@
 }
 @mixin default-section-mobile(){
   clear: both;
-  display: inline-block; 
+  display: inline-block;
   border-top: 1px solid;
 
   ul {
@@ -35,7 +37,7 @@
         line-height: 1.3em;
         margin-bottom: 3px;
       }
-      
+
       p {
        font-weight: normal;
        line-height: 1.1em;
