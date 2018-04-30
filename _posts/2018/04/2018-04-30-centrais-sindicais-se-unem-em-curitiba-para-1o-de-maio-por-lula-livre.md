@@ -19,7 +19,17 @@ published: true
 releated_posts: []
 
 ---
-<p><em>Por Emilly Dulce<br />
+<p><br />
+&nbsp;</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="ato 1 de maio.jpg" height="300" src="//farm1.staticflickr.com/943/40903765225_d922e4df11_b.jpg" width="450" />
+<figcaption>Ato em Curitiba est&aacute; previsto para &agrave;s 16 horas. Foto: Joka Madruga</figcaption>
+</figure>
+</div>
+
+<p><br />
+<em>Por Emilly Dulce<br />
 Do Brasil de Fato</em></p>
 
 <p><br />
