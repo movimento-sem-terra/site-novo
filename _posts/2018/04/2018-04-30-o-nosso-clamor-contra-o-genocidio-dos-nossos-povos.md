@@ -46,7 +46,7 @@ releated_posts:
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Mato Grosso do Sul tem mais de 60 mil ind&iacute;genas, divididos em 7 povos: Terena,&nbsp; Guaranis, Terena, Kadiw&eacute;u, Guat&oacute;, kinikinawa, nhandeva e&nbsp; Ofay&eacute;.&nbsp; Este &uacute;ltimo, j&aacute; com uma popula&ccedil;&atilde;o bem reduzida. S&atilde;o etnias diferentes, com tradi&ccedil;&otilde;es e culturas peculiares, mas com um mesmo v&iacute;nculo de luta pol&iacute;tica junto a outras 305 no Brasil: disputa por terra e direitos.</p>
+Mato Grosso do Sul tem mais de 60 mil ind&iacute;genas, divididos em 7 povos: Terena,&nbsp; Guaranis,&nbsp;Kadiw&eacute;u, Guat&oacute;, Kinikinawa, Nhandeva e&nbsp; Ofay&eacute;.&nbsp; Este &uacute;ltimo, j&aacute; com uma popula&ccedil;&atilde;o bem reduzida. S&atilde;o etnias diferentes, com tradi&ccedil;&otilde;es e culturas peculiares, mas com um mesmo v&iacute;nculo de luta pol&iacute;tica junto a outras 305 no Brasil: disputa por terra e direitos.</p>
 
 <p><br />
 &ldquo;Os ofay&eacute;s est&atilde;o em extin&ccedil;&atilde;o pela regi&atilde;o de Tr&ecirc;s Lagoas, pelo enfrentamento a barragens que foram feitas na regi&atilde;o, inundaram a terra deles e foram colocados na cidade, j&aacute; n&atilde;o temos tantos registros&rdquo;, conta Atiliana da Silva da na&ccedil;&atilde;o Terena, tamb&eacute;m da dire&ccedil;&atilde;o nacional do MST.&nbsp;</p>
