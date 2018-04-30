@@ -26,7 +26,7 @@ releated_posts:
 
 ---
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="Feira Literária.jpg" height="400" src="//farm1.staticflickr.com/826/41762301022_1ce31dea27_b.jpg" width="600" />
+<figure class="image" style="display:inline-block"><img alt="Feira Literária.jpg" height="467" src="//farm1.staticflickr.com/826/41762301022_1ce31dea27_b.jpg" width="700" />
 <figcaption>Editora Express&atilde;o Popular na II Feira Nacional da Reforma Agr&aacute;ria em 2017. Foto: Renata Gusm&atilde;o</figcaption>
 </figure>
 </div>
