@@ -15,7 +15,7 @@ test.css
 temp.css
 index.php
 assets/css/.sanitized-sass/
-noticias.json
+/noticias.json
 Gemfile.lock
 .vagrant/
 *.retry
