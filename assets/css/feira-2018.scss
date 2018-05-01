@@ -92,13 +92,14 @@
 
     img.central {
       max-width: 450px;
-      width: 100%;
+      width: 60%;
       height: auto;
       align-self: flex-end;
       order: 1;
 
       @include media($screen-md) {
         order: unset;
+        width: 100%;
       }
     }
 
