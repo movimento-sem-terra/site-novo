@@ -36,9 +36,11 @@ No Rio de Janeiro, MST denuncia mais um assassinato de um Sem Terra. Marcos Ant&
 <p>Em nota, o MST lamenta o caso e denuncia a viol&ecirc;ncia e a impunidade no campo. &quot;A morte do&nbsp;companheiro Marcos&nbsp;&eacute; resultado da viol&ecirc;ncia do latif&uacute;ndio, da impunidade das mortes dos Sem Terra e da lentid&atilde;o do Incra para assentar as fam&iacute;lias e fazer a Reforma Agr&aacute;ria, o medo existente e a viol&ecirc;ncia s&atilde;o os efeitos da inoper&acirc;ncia e do descompromisso com a Reforma Agr&aacute;ria&quot;, destaca um trecho da nota.<br />
 &nbsp;</p>
 
-<p>Confira abaixo a nota na &iacute;ntegra:</p>
+<p>Confira abaixo a nota na &iacute;ntegra:<br />
+&nbsp;</p>
 
-<p><strong>NOTA DE PESAR DIANTE DO ASSASSINATO DE MARCOS ANT&Ocirc;NIO GALDINO</strong></p>
+<p><strong>NOTA DE PESAR DIANTE DO ASSASSINATO DE MARCOS ANT&Ocirc;NIO GALDINO</strong><br />
+&nbsp;</p>
 
 <p>&Eacute; com profundo pesar e indigna&ccedil;&atilde;o que o Movimento dos Trabalhadores Rurais Sem Terra, do estado do Rio de Janeiro, noticia o assassinato de mais um companheiro na luta pela terra. Marcos Ant&ocirc;nio Galdino foi brutalmente assassinado na noite de 27 de Abril, no Acampamento Luis Maranh&atilde;o. Marco era um companheiro de luta, acampado h&aacute; cerca de um ano nas terras da extinta Usina Cambahyba em Campos dos Goytacazes, regi&atilde;o norte do estado do Rio de Janeiro.<br />
 &nbsp;</p>
