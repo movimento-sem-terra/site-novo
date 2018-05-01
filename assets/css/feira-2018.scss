@@ -212,7 +212,9 @@
     }
 
     .description-column + .description-column {
-      margin-left: 30px;
+      @include media($screen-md) {
+        margin-left: 30px;
+      }
     }
 
     hgroup {
