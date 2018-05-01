@@ -5,7 +5,7 @@ tags:
   - tag: direitos-humanos
   - tag: defesa-de-direitos
 title: O prédio ocupado em chamas e escombros no Dia do Trabalhador
-support_line: "Confira o artigo \"Desconstrução\", de Kelli Mafort, da Direção Nacional do MST."
+support_line: "Desconstrução - O prédio ocupado em chamas e escombros no Dia do Trabalhador\n"
 label: articles
 images_hd: //farm1.staticflickr.com/980/27959482088_f23c575489_b.jpg
 menu: direitos humanos
@@ -27,13 +27,8 @@ releated_posts:
 
 ---
 <p><br />
-<em>Da P&aacute;gina do MST</em><br />
-&nbsp;</p>
-
-<p style="text-align: center;"><strong>Desconstru&ccedil;&atilde;o - O pr&eacute;dio ocupado em chamas e escombros no Dia do Trabalhador</strong><br />
-&nbsp;</p>
-
-<p style="text-align: right;"><em>Kelli Mafort, Dire&ccedil;&atilde;o Nacional do MST</em><br />
+<em>Por Kelli Mafort*<br />
+Da P&aacute;gina do MST</em><br />
 &nbsp;</p>
 
 <p>A not&iacute;cia triste que rasgava a madrugada de 1&deg; de maio de 2018 na capital paulista anunciava um brutal inc&ecirc;ndio num pr&eacute;dio de 24 andares na regi&atilde;o central. Ali viviam cerca de 150 pessoas, que ocupavam o local, sendo boa parte delas, de imigrantes. As chamas consumiram rapidamente o pr&eacute;dio que desabou minutos depois.<br />
@@ -57,6 +52,7 @@ releated_posts:
 <p>Naquela madrugada, naquele pr&eacute;dio, certamente alguns amaram &ldquo;... daquela vez como se fosse a &uacute;ltima&rdquo;: &agrave; eles e &agrave; elas nossa homenagem e reconhecimento. Aos sobreviventes que n&atilde;o ca&iacute;ram na avenida Rio Branco feito &ldquo;... pacotes fl&aacute;cidos&rdquo;, toda nossa solidariedade. Aos que observam o tr&aacute;fego, nosso chamado a fazer da indigna&ccedil;&atilde;o, luta! E a construir nossas conquistas bem em cima da desconstru&ccedil;&atilde;o em ru&iacute;nas.<br />
 &nbsp;</p>
 
-<p><em>*Editado por Gustavo Marinho</em></p>
+<p><em>*Kelli Mafort integra a Dire&ccedil;&atilde;o Nacional do MST</em><br />
+<em>**Editado por Gustavo Marinho</em></p>
 
 <p>&nbsp;</p>
