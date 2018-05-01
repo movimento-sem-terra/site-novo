@@ -1,6 +1,9 @@
 ---
 date: "2018-05-01T11:22:55-03:00"
-tags: []
+tags:
+  - tag: lutas-e-mobilizações
+  - tag: ocupações
+  - tag: jornada-de-lutas
 title: "No 1º de maio, MST ocupa duas áreas no Distrito Federal"
 support_line: "“Nosso 1º de maio é em luta, ocupando o latifúndio, denunciando a paralisação da Reforma Agrária”, destaca Maria Feitosa, da Direção Nacional do MST."
 menu: lutas e mobilizações
@@ -16,7 +19,15 @@ files:
     $$hashKey: 0BD
 created_date: "2018-05-01T11:38:15-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2017/10/2017-10-20-sindicato-dos-aeroviarios-e-mst-realizam-protesto-no-aeroporto-de-salvador.md
+  - _posts/2018/03/2018-03-07-jornada-de-lutas-das-mulheres-ja-mobiliza-6-mil-trabalhadores-em-nove-estados.md
+  - _posts/2018/03/2018-03-05-acampamento-maria-marta-reocupa-area-em-calmon-santa-catarina.md
+  - _posts/2017/10/2017-10-16-sem-terra-ocupam-latifundio-improdutivo-no-mt.md
+  - _posts/2018/04/2018-04-17-no-parana-mst-abre-pedagios-contra-a-violencia-no-campo-e-pela-liberdade-de-lula.md
+  - _posts/2018/04/2018-04-19-em-sao-paulo-ocupacao-marielle-vive-sofre-ameaca-de-reintegracao.md
+  - _posts/2018/04/2018-04-18-pelo-programa-campones-via-campesina-ocupa-sdr-em-porto-alegre-rs.md
+  - _posts/2018/04/2018-04-18-jornada-nacional-mira-golpistas-em-dia-internacional-de-lutas-camponesas.md
 
 ---
 <p style="text-align:center"><img alt="IMG-20180501-WA0026.jpg" height="525" src="//farm1.staticflickr.com/905/41785000832_6f744b2360_b.jpg" width="700" /></p>
