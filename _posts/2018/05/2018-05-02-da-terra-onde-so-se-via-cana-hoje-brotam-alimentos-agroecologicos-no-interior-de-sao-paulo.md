@@ -4,7 +4,7 @@ tags:
   - tag: agroecologia
   - tag: feira-da-reforma-agrária
   - tag: feira-reforma-agrária
-title: "Da terra onde só se via cana, hoje brotam alimentos agroecológicos no interior de São Paulo"
+title: "Da terra onde só se via cana, hoje brotam alimentos agroecológicos"
 support_line: A Cooperativa Comuna da Terra estará presente na 3ª Feira Nacional da Reforma Agrária que será realizada no Parque da Água Branca em São Paulo entre os dias 3 e 6 de maio.
 menu: agricultura camponesa
 special-page: IIIFeira-2018
