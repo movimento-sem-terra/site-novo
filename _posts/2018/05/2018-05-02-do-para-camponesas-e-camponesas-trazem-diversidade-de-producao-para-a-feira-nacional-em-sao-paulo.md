@@ -3,7 +3,7 @@ date: "2018-05-02T09:52:12-03:00"
 tags:
   - tag: feira-da-reforma-agrária
   - tag: feira-reforma-agrária
-title: "Do Pará, camponesas e camponeses trazem diversidade de produção para a Feira Nacional em São Paulo"
+title: "Do Pará, Sem Terra trazem diversidade de produção para a Feira Nacional em São Paulo"
 support_line: "Os paraenses levarão para Feira os pratos típicos da região, além de uma variedade de frutas, licores e polpas."
 menu: agricultura camponesa
 special-page: IIIFeira-2018
@@ -28,6 +28,8 @@ releated_posts:
 
 ---
 <p style="text-align:center"><img alt="IMG-20180427-WA0098.jpg" height="420" src="//farm1.staticflickr.com/963/40041345650_d62afdee51_b.jpg" width="700" /></p>
+
+<p>&nbsp;</p>
 
 <p><em>Por Viviane Br&iacute;gida<br />
 Da P&aacute;gina do MST</em><br />
