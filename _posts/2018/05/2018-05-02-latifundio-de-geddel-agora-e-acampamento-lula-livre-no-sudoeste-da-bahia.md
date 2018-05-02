@@ -29,7 +29,8 @@ releated_posts:
   - _posts/2018/03/2018-03-29-aliados-de-temer-sao-presos-em-operacao-da-policia-federal.md
 
 ---
-<p class="Standard"><em>Da P&aacute;gina do MST</em><br />
+<p class="Standard"><br />
+<em>Da P&aacute;gina do MST</em><br />
 &nbsp;</p>
 
 <p class="Standard">Na manh&atilde; deste &uacute;ltimo domingo (29), o MST ocupou a fazenda Baixa do Caraim, do ex-ministro Geddel Vieira Lima (MDB), localizada nas margens da BA-130, no munic&iacute;pio de Maiquinique, sudoeste da Bahia.<br />
