@@ -3,7 +3,7 @@ date: "2018-05-02T09:06:32-03:00"
 tags:
   - tag: feira-da-reforma-agrária
   - tag: seminário
-support_line: "Atividade acontece de 3 e 6 de maio, no Parque da Água Branca, na zona oeste de São Paulo "
+support_line: "Atividade acontece de 3 e 6 de maio, no Parque da Água Branca, na Zona Oeste de São Paulo "
 title: "Com Seminários, Feira do MST debate a necessidade de uma alimentação saudável para os brasileiros "
 menu: "educação, cultura e comunicação"
 special-page: IIIFeira-2018
