@@ -31,14 +31,18 @@ releated_posts:
   - _posts/2018/04/2018-04-25-organizacao-da-juventude-no-sertao-de-alagoas-leva-mel-agroecologico-para-a-feira-nacional-da-reforma-agraria.md
   - _posts/2018/04/2018-04-25-do-campo-para-a-cidade-mst-traz-comidas-tipicas-e-sem-agrotoxicos-para-a-feira-da-reforma-agraria-em-sp.md
   - _posts/2018/04/2018-04-23-licores-doces-e-frutas-poderao-ser-encontrados-na-feira-da-reforma-agraria.md
+section: cover
 
 ---
 <p>&nbsp;</p>
 
-<p><em>Da P&aacute;gina do MST</em><br />
-&nbsp;</p>
+<p>&nbsp;</p>
 
-<p>Al&eacute;m de comercializar toneladas de produtos saud&aacute;veis, a 3&ordf; Feira Nacional da Reforma Agr&aacute;ria, organizada pelo Movimento dos Trabalhadores Rurais Sem Terra (MST), conta com uma vasta programa&ccedil;&atilde;o de semin&aacute;rios de forma&ccedil;&atilde;o pol&iacute;tico-cultural.A proposta das atividades &eacute; ampliar o debate com a popula&ccedil;&atilde;o, aproximando campo e cidade, sobre a necessidade e possibilidades de uma alimenta&ccedil;&atilde;o saud&aacute;vel no prato dos brasileiros.&nbsp;<br />
+<p><em>Da P&aacute;gina do MST</em></p>
+
+<p>&nbsp;</p>
+
+<p>Al&eacute;m de comercializar toneladas de produtos saud&aacute;veis, a 3&ordf; Feira Nacional da Reforma Agr&aacute;ria, organizada pelo Movimento dos Trabalhadores Rurais Sem Terra (MST), conta com uma vasta programa&ccedil;&atilde;o de semin&aacute;rios de forma&ccedil;&atilde;o pol&iacute;tico-cultural. A proposta das atividades &eacute; ampliar o debate com a popula&ccedil;&atilde;o, aproximando campo e cidade, sobre a necessidade e possibilidades de uma alimenta&ccedil;&atilde;o saud&aacute;vel no prato dos brasileiros.&nbsp;<br />
 &nbsp;</p>
 
 <p>&quot;A feira nacional cumpre um papel fundamental para a propaganda da reforma agr&aacute;ria porque a gente entende que a produ&ccedil;&atilde;o de alimentos saud&aacute;vel &eacute; a grande media&ccedil;&atilde;o que tem entre a reforma agr&aacute;ria e a sociedade brasileira. Por se tratar de uma perspectiva de projeto de alternativa, essa media&ccedil;&atilde;o n&atilde;o se d&aacute; s&oacute; no campo da produ&ccedil;&atilde;o de alimentos ou da venda de comercializa&ccedil;&atilde;o em si. Assim, os semin&aacute;rios v&ecirc;m promover debates, di&aacute;logos e complementa&ccedil;&otilde;es de diferentes olhares das dimens&otilde;es formativas da produ&ccedil;&atilde;o de alimentos&quot;, explica Ceres Hadich, integrante da dire&ccedil;&atilde;o nacional do MST.<br />
