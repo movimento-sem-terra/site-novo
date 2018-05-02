@@ -4,7 +4,7 @@ tags:
   - tag: reforma-agrária
   - tag: ocupação
   - tag: são-paulo
-title: "Deńuncia: Justiça autoriza PM a apreender crianças em abrigo durante despejo em SP"
+title: "Denúncia: Justiça autoriza PM a apreender crianças em abrigo durante despejo em SP"
 support_line: "A ocupação que leva o nome \"Marielle Vive!\" está sob ameaça de despejo e a juíza sentenciou que as crianças podem ser vítimas de busca e apreensão. "
 menu: direitos humanos
 images_hd: //farm1.staticflickr.com/869/41853167271_4e97e1e481_b.jpg
