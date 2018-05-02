@@ -85,4 +85,10 @@ Fotos: Filipe Peres</em><br />
 <p>A Cooperativa Comuna da Terra estar&aacute; presente na 3&ordf; Feira Nacional da Reforma Agr&aacute;ria que ser&aacute; realizada no Parque da &Aacute;gua Branca em S&atilde;o Paulo entre os dias 3 e 6 de maio. Confira a maravilha de um alimento que antes de chegar at&eacute; voc&ecirc;, ajudou a alimentar o solo e o ciclo da vida de uma floresta pulsante e cheia de gente.<br />
 &nbsp;</p>
 
-<p><em>*Editado por Gustavo Marinho&nbsp;&nbsp;</em></p>
+<p>Conhe&ccedil;a mais da produ&ccedil;&atilde;o em S&atilde;o Paulo atrav&eacute;s do Sistema Agroflorestal:<br />
+&nbsp;</p>
+
+<p><iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/VAu34cxTl3U?rel=0" width="640"></iframe><br />
+&nbsp;</p>
+
+<p><em>*Editado por Gustavo Marinho</em></p>
