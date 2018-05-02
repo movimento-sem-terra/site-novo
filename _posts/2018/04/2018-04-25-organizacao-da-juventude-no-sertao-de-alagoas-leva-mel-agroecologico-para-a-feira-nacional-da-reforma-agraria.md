@@ -4,7 +4,7 @@ tags:
   - tag: mel
   - tag: feira-da-reforma-agrária
   - tag: alagoas
-title: "Organização da juventude no Sertão de Alagoas leva mel agroecológico para a Feira Nacional da Reforma Agrária\n\n"
+title: Organização da juventude no Sertão de Alagoas leva mel agroecológico para a Feira da Reforma Agrária
 images_hd: //farm1.staticflickr.com/909/27828732888_1164ba548b_b.jpg
 support_line: "Somente no Sertão são 11 apiários coordenados pelo coletivo de juventude, onde todos já preparam a colheita do mel"
 menu: agricultura camponesa
