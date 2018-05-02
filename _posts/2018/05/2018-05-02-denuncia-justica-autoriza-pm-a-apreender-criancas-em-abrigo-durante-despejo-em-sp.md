@@ -69,6 +69,10 @@ As fam&iacute;lias tamb&eacute;m denunciam que na decis&atilde;o as crian&ccedil
 <p><br />
 Segundo C&eacute;lia Santos, representante da Ocupa&ccedil;&atilde;o, &quot;a ju&iacute;za fere os direitos das crian&ccedil;as, criando uma clima de terror entre as fam&iacute;lias. Lutamos pelo leg&iacute;timo direito das crian&ccedil;as permanecerem junto a seus pais e terem uma vida digna com o acesso a terra.&quot;</p>
 
+<figure class="image" style="float:left"><img alt="WhatsApp Image 2018-05-02 at 14.36.07.jpeg" height="266" src="//farm1.staticflickr.com/907/26984946767_991aa446d0_b.jpg" width="400" />
+<figcaption></figcaption>
+</figure>
+
 <p><br />
 A ordem foi agravada pela defesa, passando &agrave; esfera do Tribunal de Justi&ccedil;a (TJ). A Defensoria do Estado de S&atilde;o Paulo tamb&eacute;m entrou no processo no dia 25 de abril, pontuando a necessidade do cumprimento das normas relacionadas a conflitos possess&oacute;rios coletivos e da import&acirc;ncia de uma audi&ecirc;ncia de concilia&ccedil;&atilde;o omitida pela ju&iacute;za desde o come&ccedil;o.&nbsp;</p>
 
