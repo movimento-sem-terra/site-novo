@@ -45,6 +45,7 @@ releated_posts:
   - _posts/2018/04/2018-04-25-do-campo-para-a-cidade-mst-traz-comidas-tipicas-e-sem-agrotoxicos-para-a-feira-da-reforma-agraria-em-sp.md
   - _posts/2018/05/2018-05-02-do-para-camponesas-e-camponesas-trazem-diversidade-de-producao-para-a-feira-nacional-em-sao-paulo.md
   - _posts/2018/04/2018-04-25-organizacao-da-juventude-no-sertao-de-alagoas-leva-mel-agroecologico-para-a-feira-nacional-da-reforma-agraria.md
+section: featured-news
 
 ---
 <p style="text-align:center"><img alt="IMG_2075.JPG" height="420" src="//farm1.staticflickr.com/864/40950378095_f0c12f19f2_b.jpg" width="700" /></p>
