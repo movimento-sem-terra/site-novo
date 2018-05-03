@@ -77,7 +77,11 @@ Fotos: Jos&eacute; Eduardo Bernardes</em><br />
 <p>A delega&ccedil;&atilde;o maranhense, por exemplo, viajou tr&ecirc;s dias de &ocirc;nibus de Imperatriz (MA) para levar ao p&uacute;blico paulista o que &eacute; produzido no estado pelos sem-terra. O destaque &eacute; a garrafinha de azeite de baba&ccedil;u, que pode ser usada tanto para a prepara&ccedil;&atilde;o de alimentos como para fins cosm&eacute;ticos.&nbsp;<br />
 &nbsp;</p>
 
-<p><img alt="27000662337_b6bce81ab6_o.jpg" height="233" src="//farm1.staticflickr.com/864/41829112432_c9da04ed76_b.jpg" style="float:right" width="350" />Mileny Alves, do assentamento Vila Concei&ccedil;&atilde;o, localizado no munic&iacute;pio de Santa Filomena (MA), gosta de usar o produto para hidratar os cabelos. Ela conta que o estado &eacute; respons&aacute;vel por 90% da produ&ccedil;&atilde;o do coco baba&ccedil;u, importante fonte de renda para mulheres quebradeiras de coco da regi&atilde;o.&nbsp;<br />
+<figure class="image" style="float:right"><img alt="27000662337_b6bce81ab6_o.jpg" height="233" src="//farm1.staticflickr.com/864/41829112432_c9da04ed76_b.jpg" width="350" />
+<figcaption></figcaption>
+</figure>
+
+<p>Mileny Alves, do assentamento Vila Concei&ccedil;&atilde;o, localizado no munic&iacute;pio de Santa Filomena (MA), gosta de usar o produto para hidratar os cabelos. Ela conta que o estado &eacute; respons&aacute;vel por 90% da produ&ccedil;&atilde;o do coco baba&ccedil;u, importante fonte de renda para mulheres quebradeiras de coco da regi&atilde;o.&nbsp;<br />
 &nbsp;</p>
 
 <p>Da palmeira do coco baba&ccedil;u se aproveita tudo: o leite, a casca para fazer carv&atilde;o, mesocarpo para produzir a farinha e a folha para o artesanato &mdash; todos os produtos finais encontrados na feira.&nbsp;<br />
@@ -93,8 +97,13 @@ Fotos: Jos&eacute; Eduardo Bernardes</em><br />
 &nbsp;</p>
 
 <p>Do Centro-Oeste, quem passa pela Feira encontra o mais famoso alimento de Goi&aacute;s: o pequi. Os Sem Terra do assentamento Olga Ben&aacute;rio, localizado no munic&iacute;pio de Ipameri, no sudeste goiano, produzem o licor de pequi, o fruto tamb&eacute;m &eacute; encontrado em conserva, que pode ser utilizado para cozinhar arroz e temperar saladas.<br />
-<br />
-<img alt="40061577620_ff24312210_o.jpg" src="//farm1.staticflickr.com/829/41829112552_f2530af50e_b.jpg" style="float:left" width="350" />Outro representante do cerrado &eacute; a guavira, fruta colhida entre os meses de novembro e janeiro e que, na Feira Nacional da Reforma Agr&aacute;ria, &eacute; o ingrediente principal de licores, sucos, bombons e geleias. Na feira, a cacha&ccedil;a da guavira, produzida pelos assentados no munic&iacute;pio de Sidrol&acirc;ndia (MS). Outra express&atilde;o do estado &eacute; o mel de Jata&iacute;, de origem de pequenas abelhas nativas que n&atilde;o possuem ferr&atilde;o.&nbsp;<br />
+&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="40061577620_ff24312210_o.jpg" src="//farm1.staticflickr.com/829/41829112552_f2530af50e_b.jpg" width="350" />
+<figcaption></figcaption>
+</figure>
+
+<p>Outro representante do cerrado &eacute; a guavira, fruta colhida entre os meses de novembro e janeiro e que, na Feira Nacional da Reforma Agr&aacute;ria, &eacute; o ingrediente principal de licores, sucos, bombons e geleias. Na feira, a cacha&ccedil;a da guavira, produzida pelos assentados no munic&iacute;pio de Sidrol&acirc;ndia (MS). Outra express&atilde;o do estado &eacute; o mel de Jata&iacute;, de origem de pequenas abelhas nativas que n&atilde;o possuem ferr&atilde;o.&nbsp;<br />
 &nbsp;</p>
 
 <p>O produto tem sabor e valores nutricionais superiores ao mel comum. &quot;&Eacute; um rem&eacute;dio&quot;, afirmam os agricultores do assentamento Silvio Rodrigues, em Alto Para&iacute;so (GO).<br />
