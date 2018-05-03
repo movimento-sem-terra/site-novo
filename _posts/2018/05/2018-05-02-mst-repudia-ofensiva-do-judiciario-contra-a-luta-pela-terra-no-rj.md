@@ -7,17 +7,17 @@ tags:
   - tag: direitos-humanos
 title: "MST repudia ofensiva do judiciário contra a luta pela terra no RJ "
 menu: reforma agrária
-support_line: A oficial de justiça que foi fazer o despejo da área ocupada pelo MST em Rio das Ostras no dia 21 de abril deu voz de prisão as famílias que ali ainda permaneciam aguardando o deslocamento para a nova área
-images_hd: //farm1.staticflickr.com/967/41811251952_7a63028e63_b.jpg
+support_line: As famílias aguardavam deslocamento para uma nova área quando receberam ordem de prisão da oficial de justiça
+images_hd: //farm1.staticflickr.com/832/27988647808_6b933b479d_b.jpg
 layout: post
 files:
-  - link: //farm1.staticflickr.com/967/41811251952_7a63028e63_b.jpg
-    original: //farm1.staticflickr.com/967/41811251952_091c7c5c68_o.jpg
-    thumbnail: //farm1.staticflickr.com/967/41811251952_7a63028e63_t.jpg
-    medium: //farm1.staticflickr.com/967/41811251952_7a63028e63_z.jpg
-    small: //farm1.staticflickr.com/967/41811251952_7a63028e63_n.jpg
-    title: 40887077234_c921a901c5_b.jpg
-    $$hashKey: 0CO
+  - link: //farm1.staticflickr.com/832/27988647808_6b933b479d_b.jpg
+    original: //farm1.staticflickr.com/832/27988647808_c4f7519af6_o.jpg
+    thumbnail: //farm1.staticflickr.com/832/27988647808_6b933b479d_t.jpg
+    medium: //farm1.staticflickr.com/832/27988647808_6b933b479d_z.jpg
+    small: //farm1.staticflickr.com/832/27988647808_6b933b479d_n.jpg
+    title: 40954913105_dec79a9860_z.jpg
+    $$hashKey: 05C
 created_date: "2018-05-02T16:08:45-03:00"
 published: true
 releated_posts:
@@ -29,6 +29,12 @@ releated_posts:
   - _posts/2017/10/2017-10-29-sem-terra-ampliam-acampamento-no-vale-do-paraiba-em-sao-paulo.md
 
 ---
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="40954913105_dec79a9860_z.jpg" height="467" src="//farm1.staticflickr.com/832/27988647808_6b933b479d_b.jpg" width="700" />
+<figcaption><em>As fam&iacute;lias aguardavam deslocamento para uma nova &aacute;rea quando receberam ordem de pris&atilde;o da oficial de justi&ccedil;a, Foto: Pablo Vergara</em></figcaption>
+</figure>
+</div>
+
 <p>&nbsp;</p>
 
 <p><em>Da P&aacute;gina do MST&nbsp;</em></p>
