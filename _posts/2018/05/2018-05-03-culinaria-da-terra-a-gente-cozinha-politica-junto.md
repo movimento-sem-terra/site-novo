@@ -3,7 +3,7 @@ date: "2018-05-03T17:13:02-03:00"
 tags:
   - tag: "#FeiraMST-#ToNaFeira"
 title: "Culinária da Terra: a gente cozinha política junto"
-support_line: "São cerca de 50 pratos de 18 cozinhas diferentes, representando a cultura de cada cantinho do país. Seria possível fazer as três refeições ao dia, dura"
+support_line: "São cerca de 50 pratos de 18 cozinhas diferentes, representando a cultura de cada cantinho do país. Seria possível fazer as três refeições ao dia, durante toda a Feira sem repetir um prato."
 special-page: IIIFeira-2018
 images_hd: //farm1.staticflickr.com/947/28002734328_0d68e37acf_b.jpg
 menu: reforma agrária
@@ -45,7 +45,7 @@ files:
     title: WhatsApp Image 2018-05-03 at 13.58.28.jpeg
     $$hashKey: 03G
 created_date: "2018-05-03T17:21:36-03:00"
-published: false
+published: true
 releated_posts: []
 
 ---
