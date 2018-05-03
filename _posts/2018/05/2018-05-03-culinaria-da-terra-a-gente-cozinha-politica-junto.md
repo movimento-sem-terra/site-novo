@@ -77,12 +77,13 @@ Fotos: Pablo Vergara</em><br />
 
 <p>&nbsp;</p>
 
-<p>&Eacute; dif&iacute;cil escolher, suco de mangaba, cupua&ccedil;u, caj&aacute;, jenipapo, umbu ou bacuri para ado&ccedil;ar o dia?<br />
-J&aacute; na hora do almo&ccedil;o, no Rio Grande do Sul, s&atilde;o os homens quem pilotam o fog&atilde;o. Segundo eles, para mostrar que o machismo se desconstr&oacute;i desde agora. Marildo Mulinari, mais conhecido como Tubiano, exibe o pacote do Arroz Terra Livre, com o qual ele mesmo faz o Carreteiro do Sul. &ldquo;Aqui est&aacute; o resultado da nossa luta pela terra, a gente briga e aqui vem mostrar os nossos produtos e a nossa culin&aacute;ria. A gente cozinha pol&iacute;tica junto. E a gente sonha que um dia a sociedade vai entender e ela que vai nos levar a avan&ccedil;ar na luta pela reforma agr&aacute;ria democr&aacute;tica e popular que a gente sonha&rdquo;.</p>
+<p>&Eacute; dif&iacute;cil escolher, suco de mangaba, cupua&ccedil;u, caj&aacute;, jenipapo, umbu ou bacuri para ado&ccedil;ar o dia? J&aacute; na hora do almo&ccedil;o, no Rio Grande do Sul, s&atilde;o os homens quem pilotam o fog&atilde;o. Segundo eles, para mostrar que o machismo se desconstr&oacute;i desde agora. Marildo Mulinari, mais conhecido como Tubiano, exibe o pacote do Arroz Terra Livre, com o qual ele mesmo faz o Carreteiro do Sul. &ldquo;Aqui est&aacute; o resultado da nossa luta pela terra, a gente briga e aqui vem mostrar os nossos produtos e a nossa culin&aacute;ria. A gente cozinha pol&iacute;tica junto. E a gente sonha que um dia a sociedade vai entender e ela que vai nos levar a avan&ccedil;ar na luta pela reforma agr&aacute;ria democr&aacute;tica e popular que a gente sonha&rdquo;.</p>
 
-<figure class="image" style="float:right"><img alt="WhatsApp Image 2018-05-03 at 15.19.48 (2).jpeg" height="200" src="//farm1.staticflickr.com/823/40064378540_2479bd0e61_b.jpg" width="300" />
+<figure class="image" style="float:left"><img alt="WhatsApp Image 2018-05-03 at 15.19.48 (2).jpeg" height="200" src="//farm1.staticflickr.com/823/40064378540_2479bd0e61_b.jpg" width="300" />
 <figcaption></figcaption>
 </figure>
+
+<p>&nbsp;</p>
 
 <p>Alguns passos &agrave; frente e &eacute; poss&iacute;vel mergulhar na diversidade de aromas e sabores do Brasil profundo. O Cux&aacute;, mais conhecido como hibisco, &eacute; utilizado para fazer arroz ou creme com quiabo no Maranh&atilde;o. Com cebola, alho e azeite de coco, a erva de origem africana comumente utilizada em ch&aacute;s para emagrecer, se transforma numa iguaria. Mas se quiser algo mais forte, o Tocantins trouxe seu Chambari. O diferencial da carne cozida est&aacute; no tutano, &ldquo;um santo rem&eacute;dio para a ressaca&rdquo;, afirmam.</p>
 
