@@ -33,6 +33,7 @@ releated_posts:
   - _posts/2018/04/2018-04-27-a-fruto-da-arvore-sagrada-do-sertao-o-umbu-podera-ser-encontrado-na-feira.md
   - _posts/2018/04/2018-04-30-alimentar-se-de-livros-expressao-popular-participa-da-iii-feira-da-reforma-agraria.md
   - _posts/2017/11/2017-11-27-movimentos-sociais-buscam-fortalecer-a-resistencia-pelo-territorio-de-alcantara-no-ma.md
+special-page: IIIFeira-2018
 
 ---
 <p>&nbsp;</p>
