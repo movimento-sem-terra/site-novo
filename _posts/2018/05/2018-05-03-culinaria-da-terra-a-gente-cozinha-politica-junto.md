@@ -3,7 +3,7 @@ date: "2018-05-03T17:13:02-03:00"
 tags:
   - tag: "#FeiraMST-#ToNaFeira"
 title: "Culinária da Terra: a gente cozinha política junto"
-support_line: "São cerca de 50 pratos de 18 cozinhas diferentes, representando a cultura de cada cantinho do país. Seria possível fazer as três refeições ao dia, durante toda a Feira sem repetir um prato."
+support_line: "São cerca de 50 pratos de 18 cozinhas diferentes, representando a cultura de cada cantinho do país. Seria possível fazer três refeições ao dia, durante toda a Feira sem repetir um prato."
 special-page: IIIFeira-2018
 images_hd: //farm1.staticflickr.com/947/28002734328_0d68e37acf_b.jpg
 menu: reforma agrária
@@ -54,7 +54,7 @@ releated_posts: []
 
 <p>&nbsp;</p>
 
-<p>Uma fuma&ccedil;a que perfuma o ambiente e um bater de panelas incomum surpreende quem passa pelo Parque da &Aacute;gua Branca, logo de manh&atilde;zinha. S&atilde;o as equipes da Culin&aacute;ria da Terra cortando, picando, cozinhando temperando a todo vapor. S&atilde;o cerca de 50 pratos de 18 cozinhas diferentes, representando a cultura de cada cantinho do pa&iacute;s. E ainda tem as op&ccedil;&otilde;es vegetarianas e veganas trazidas pelo Levante Popular da Juventude. Seria poss&iacute;vel fazer as tr&ecirc;s refei&ccedil;&otilde;es ao dia, durante toda a Feira sem repetir um prato.</p>
+<p>Uma fuma&ccedil;a que perfuma o ambiente e um bater de panelas incomum surpreende quem passa pelo Parque da &Aacute;gua Branca, logo de manh&atilde;zinha. S&atilde;o as equipes da Culin&aacute;ria da Terra cortando, picando, cozinhando temperando a todo vapor. S&atilde;o cerca de 50 pratos de 18 cozinhas diferentes, representando a cultura de cada cantinho do pa&iacute;s. E ainda tem as op&ccedil;&otilde;es vegetarianas e veganas trazidas pelo Levante Popular da Juventude. Seria poss&iacute;vel fazer tr&ecirc;s refei&ccedil;&otilde;es ao dia, durante toda a Feira sem repetir um prato.</p>
 
 <p>&nbsp;</p>
 
