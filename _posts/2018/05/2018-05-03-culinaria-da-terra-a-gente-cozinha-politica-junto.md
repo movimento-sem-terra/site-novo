@@ -1,9 +1,11 @@
 ---
 date: "2018-05-03T17:13:02-03:00"
 tags:
-  - tag: "#FeiraMST-#ToNaFeira"
+  - tag: feira-da-reforma-agrária
+  - tag: mst
+  - tag: são-paulo
 title: "Culinária da Terra: a gente cozinha política junto"
-support_line: "São cerca de 50 pratos de 18 cozinhas diferentes, representando a cultura de cada cantinho do país. Seria possível fazer três refeições ao dia, durante toda a Feira sem repetir um prato."
+support_line: São cerca de 50 pratos de 18 cozinhas diferentes com a cultura de cada cantinho do país
 special-page: IIIFeira-2018
 images_hd: //farm1.staticflickr.com/947/28002734328_0d68e37acf_b.jpg
 menu: reforma agrária
@@ -46,10 +48,23 @@ files:
     $$hashKey: 03G
 created_date: "2018-05-03T17:21:36-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2017/09/2017-09-08-27-anos-do-mst-no-rn-e-comemorado-com-circuito-cultural-e-feira-da-reforma-agraria.md
+  - _posts/2018/04/2018-04-26-o-alimento-que-carrega-a-semente-de-uma-nova-sociedade-a-precos-justos.md
+  - _posts/2017/10/2017-10-25-mst-produz-150-mil-mudas-para-reflorestar-bacia-do-rio-doce-contaminada-pela-samarco.md
+  - _posts/2018/05/2018-05-02-do-para-camponesas-e-camponesas-trazem-diversidade-de-producao-para-a-feira-nacional-em-sao-paulo.md
 
 ---
-<p><em>Por Geanini Hackbardt</em><br />
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2018-05-03 at 13.58.28.jpeg" height="466" src="//farm1.staticflickr.com/825/40064378980_1a4052ce93_b.jpg" width="700" />
+<figcaption><em>Espa&ccedil;o Culin&aacute;ria da Terra no Parque da &Aacute;gua Branca (SP).</em></figcaption>
+</figure>
+</div>
+
+<p>&nbsp;</p>
+
+<p><em>Por Geanini Hackbardt<br />
+Fotos: Pablo Vergara</em><br />
 <em>Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
@@ -65,7 +80,9 @@ releated_posts: []
 <p>&Eacute; dif&iacute;cil escolher, suco de mangaba, cupua&ccedil;u, caj&aacute;, jenipapo, umbu ou bacuri para ado&ccedil;ar o dia?<br />
 J&aacute; na hora do almo&ccedil;o, no Rio Grande do Sul, s&atilde;o os homens quem pilotam o fog&atilde;o. Segundo eles, para mostrar que o machismo se desconstr&oacute;i desde agora. Marildo Mulinari, mais conhecido como Tubiano, exibe o pacote do Arroz Terra Livre, com o qual ele mesmo faz o Carreteiro do Sul. &ldquo;Aqui est&aacute; o resultado da nossa luta pela terra, a gente briga e aqui vem mostrar os nossos produtos e a nossa culin&aacute;ria. A gente cozinha pol&iacute;tica junto. E a gente sonha que um dia a sociedade vai entender e ela que vai nos levar a avan&ccedil;ar na luta pela reforma agr&aacute;ria democr&aacute;tica e popular que a gente sonha&rdquo;.</p>
 
-<p>&nbsp;</p>
+<figure class="image" style="float:right"><img alt="WhatsApp Image 2018-05-03 at 15.19.48 (2).jpeg" height="200" src="//farm1.staticflickr.com/823/40064378540_2479bd0e61_b.jpg" width="300" />
+<figcaption></figcaption>
+</figure>
 
 <p>Alguns passos &agrave; frente e &eacute; poss&iacute;vel mergulhar na diversidade de aromas e sabores do Brasil profundo. O Cux&aacute;, mais conhecido como hibisco, &eacute; utilizado para fazer arroz ou creme com quiabo no Maranh&atilde;o. Com cebola, alho e azeite de coco, a erva de origem africana comumente utilizada em ch&aacute;s para emagrecer, se transforma numa iguaria. Mas se quiser algo mais forte, o Tocantins trouxe seu Chambari. O diferencial da carne cozida est&aacute; no tutano, &ldquo;um santo rem&eacute;dio para a ressaca&rdquo;, afirmam.</p>
 
@@ -76,7 +93,3 @@ J&aacute; na hora do almo&ccedil;o, no Rio Grande do Sul, s&atilde;o os homens q
 <p>&nbsp;</p>
 
 <p>Luciana Luchesi &eacute; advogada em S&atilde;o Paulo e passou pela feira com a m&atilde;e. Ao acabar de almo&ccedil;ar na cozinha do Par&aacute; ela afirma, &ldquo;tive oportunidade de ir &agrave; Bel&eacute;m e o sabor &eacute; o mesmo, n&atilde;o perde nada. Os pre&ccedil;os s&atilde;o &oacute;timos, justos&rdquo;. Ela explica que em S&atilde;o Paulo &eacute; restrito o acesso a alimentos de qualidade como na feira. &ldquo;Aqui estamos acostumados a poucos lugares onde comprar comida sem agrot&oacute;xicos. A log&iacute;stica &eacute; dif&iacute;cil e os produtores vendem em pouca quantidade, acaba ficando elitizado. Os produtores s&atilde;o todos muito gentis, te explicam tudo, at&eacute; os usos medicinais, por isso vou de &ocirc;nibus para casa com a sacola e a barriga cheia&rdquo;. Para completar a refei&ccedil;&atilde;o ela leva, satisfeita, uma sobremesa de Guaran&aacute; da Amaz&ocirc;nia.</p>
-
-<p>&nbsp;</p>
-
-<p><em>Editado por Geanini Hackbardt</em></p>
