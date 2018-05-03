@@ -67,8 +67,8 @@ Temperos, docinho de leite, farinha, queijo, fitoter&aacute;picos, bananinha fri
 <p><br />
 S&atilde;o mais de trinta variedades de produtos somente da Zona da Mata mineira, regi&atilde;o que abriga o Assentamento Denis Gon&ccedil;alves, de 136 fam&iacute;lias, o assentamento Olga Ben&aacute;rio, de 30 fam&iacute;lias e o acampamento Gabriel Pimenta.&nbsp;&nbsp;</p>
 
-<figure class="image" style="float:left"><img alt="IMG_20180429_123410590.jpg" height="197" src="//farm1.staticflickr.com/903/27988885748_f8a5cd05c2_b.jpg" width="350" />
-<figcaption>egenda</figcaption>
+<figure class="image" style="float:left"><img alt="IMG_20180429_123410590.jpg" height="225" src="//farm1.staticflickr.com/903/27988885748_f8a5cd05c2_b.jpg" width="400" />
+<figcaption></figcaption>
 </figure>
 
 <p><br />
