@@ -30,7 +30,7 @@ releated_posts:
 &nbsp;</p>
 
 <p><em>Por Leonardo Fernandes<br />
-Do Brasil de Fato<br />
+Da P&aacute;gina do MST<br />
 Foto: Jos&eacute; Eduardo Bernardes</em><br />
 &nbsp;</p>
 
