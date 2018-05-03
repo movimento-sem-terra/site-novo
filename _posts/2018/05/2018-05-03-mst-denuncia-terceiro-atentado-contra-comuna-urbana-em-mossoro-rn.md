@@ -1,6 +1,8 @@
 ---
 date: "2018-05-03T15:08:52-03:00"
-tags: []
+tags:
+  - tag: violência-no-campo
+  - tag: rio-grande-do-norte
 title: MST denuncia terceiro atentado contra Comuna Urbana em Mossoró-RN
 support_line: "Um grupo desconhecido invadiu o acampamento, destruindo barracas e pertences das famílias que vivem no local"
 menu: direitos humanos
@@ -16,9 +18,17 @@ files:
     $$hashKey: "040"
 created_date: "2018-05-03T15:22:24-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2018/03/2018-03-05-vigilia-contra-a-violencia-no-campo-e-realizada-no-rn.md
+  - _posts/2018/03/2018-03-28-nota-publica-o-avanco-da-criminalizacao-nao-vai-parar-nossa-missao.md
+  - _posts/2018/04/2018-04-02-cinco-de-anos-de-dor-e-impunidade-entenda-o-caso-do-sem-terra-fabio-santos.md
+  - _posts/2018/04/2018-04-02-golpe-64-or-estado-brasileiro-nao-reconhece-camponeses-assassinados-na-ditadura.md
 
 ---
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
 <div><em>Da P&aacute;gina do MST​</em><br />
 &nbsp;</div>
 
@@ -43,12 +53,12 @@ Por meio de nota, os trabalhadores e trabalhadoras do MST do Rio Grande do Norte
 <div><br />
 &nbsp;</div>
 
-<div><strong>Confira nota completa:</strong></div>
+<div><strong>Confira a nota completa:</strong></div>
 
 <div>&nbsp;</div>
 
-<div><br />
-<strong><em>Nota &agrave; sociedade do Rio Grande do Norte</em></strong></div>
+<div style="text-align: center;"><br />
+<strong>Nota &agrave; sociedade do Rio Grande do Norte</strong></div>
 
 <div>&nbsp;</div>
 
