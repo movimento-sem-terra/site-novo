@@ -2,6 +2,8 @@
 date: "2018-04-30T12:03:38-03:00"
 tags:
   - tag: feira-da-reforma-agrária
+  - tag: sao-paulo
+  - tag: expressão-popular
 title: "Alimentar-se de livros: Expressão Popular participa da III Feira da Reforma Agrária\n"
 support_line: "A atividade acontece entre os dias 3 a 6 de maio, no Parque da Água Branca, região central de São Paulo (SP)\n"
 menu: "educação, cultura e comunicação"
@@ -19,9 +21,11 @@ files:
 created_date: "2018-04-30T12:07:36-03:00"
 published: true
 releated_posts:
+  - _posts/2018/04/2018-04-23-licores-doces-e-frutas-poderao-ser-encontrados-na-feira-da-reforma-agraria.md
+  - _posts/2018/04/2018-04-26-o-alimento-que-carrega-a-semente-de-uma-nova-sociedade-a-precos-justos.md
+  - _posts/2018/05/2018-05-02-sao-paulo-recebe-a-3a-feira-nacional-da-reforma-agraria-em-maio.md
   - _posts/2018/04/2018-04-15-foi-lancada-a-3o-feira-nacional-da-reforma-agraria.md
   - _posts/2018/04/2018-04-20-sao-paulo-recebe-a-3a-feira-nacional-da-reforma-agraria-em-maio.md
-  - _posts/2018/04/2018-04-23-licores-doces-e-frutas-poderao-ser-encontrados-na-feira-da-reforma-agraria.md
   - _posts/2018/04/2018-04-25-organizacao-da-juventude-no-sertao-de-alagoas-leva-mel-agroecologico-para-a-feira-nacional-da-reforma-agraria.md
 
 ---
