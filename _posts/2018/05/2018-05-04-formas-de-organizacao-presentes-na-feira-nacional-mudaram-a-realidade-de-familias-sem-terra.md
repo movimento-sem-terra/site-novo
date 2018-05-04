@@ -42,6 +42,7 @@ releated_posts:
   - _posts/2018/05/2018-05-03-a-feira-e-um-espaco-de-luta-onde-estara-presente-a-cultura-camponesa-de-todo-o-pais.md
   - _posts/2018/05/2018-05-03-mst-da-inicio-a-3a-feira-nacional-da-reforma-agraria.md
   - _posts/2017/12/2017-12-07-encontro-nacional-evidencia-a-producao-agroecologica-e-reune-experiencias-de-125-cooperativas-do-mst.md
+section: featured-news
 
 ---
 <div style="text-align:center">
