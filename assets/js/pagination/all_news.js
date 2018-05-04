@@ -21,7 +21,7 @@ $(document).ready(function() {
       if(!!post.support_line){
         support_line = '<p class="support-line">'+post.support_line+'</p>';
       }
-
+      debugger
       var article = '<article class="headline">'+
         image +
         '<h1>'+
