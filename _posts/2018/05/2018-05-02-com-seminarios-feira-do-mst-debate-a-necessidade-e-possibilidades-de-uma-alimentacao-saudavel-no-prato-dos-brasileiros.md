@@ -31,7 +31,7 @@ releated_posts:
   - _posts/2018/04/2018-04-25-organizacao-da-juventude-no-sertao-de-alagoas-leva-mel-agroecologico-para-a-feira-nacional-da-reforma-agraria.md
   - _posts/2018/04/2018-04-25-do-campo-para-a-cidade-mst-traz-comidas-tipicas-e-sem-agrotoxicos-para-a-feira-da-reforma-agraria-em-sp.md
   - _posts/2018/04/2018-04-23-licores-doces-e-frutas-poderao-ser-encontrados-na-feira-da-reforma-agraria.md
-section: cover
+section: null
 
 ---
 <p>&nbsp;</p>
