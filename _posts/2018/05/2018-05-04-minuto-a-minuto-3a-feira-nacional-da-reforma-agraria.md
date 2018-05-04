@@ -25,6 +25,7 @@ releated_posts:
   - _posts/2018/05/2018-05-02-da-terra-onde-so-se-via-cana-hoje-brotam-alimentos-agroecologicos-no-interior-de-sao-paulo.md
   - _posts/2018/05/2018-05-02-sao-paulo-recebe-a-3a-feira-nacional-da-reforma-agraria-em-maio.md
   - _posts/2018/05/2018-05-02-do-para-camponesas-e-camponesas-trazem-diversidade-de-producao-para-a-feira-nacional-em-sao-paulo.md
+section: cover
 
 ---
-<a class="twitter-timeline" data-partner="tweetdeck" href="https://twitter.com/Brasil_de_Fato/timelines/992032682912702464?ref_src=twsrc%5Etfw">#Feira - Curated tweets by Brasil_de_Fato</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<p><a class="twitter-timeline" data-partner="tweetdeck" href="https://twitter.com/Brasil_de_Fato/timelines/992032682912702464?ref_src=twsrc%5Etfw">#Feira - Curated tweets by Brasil_de_Fato</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
