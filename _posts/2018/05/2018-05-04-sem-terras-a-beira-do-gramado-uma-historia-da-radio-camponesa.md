@@ -1,7 +1,7 @@
 ---
 date: "2018-05-04T12:03:47-03:00"
 tags: []
-title: "Sem terras à beira do gramado: uma história da Rádio Camponesa"
+title: "Sem Terra à beira do gramado: uma história da Rádio Camponesa"
 support_line: "Através da cobertura esportiva, rádio do MST se populariza no interior do Ceará"
 menu: "educação, cultura e comunicação"
 images_hd: //farm1.staticflickr.com/982/40988672495_5935222fa6_b.jpg
@@ -26,7 +26,7 @@ published: true
 releated_posts: []
 
 ---
-<p>Vencerlau, Calisto e Guadameire no programa &ldquo;Parada Esportiva&rdquo;/C&aacute;ritas de Crate&uacute;s</p>
+<p>&nbsp;</p>
 
 <p><em>Por Vin&iacute;cius Sobreira<br />
 Do Brasil de Fato, Recife (PE)</em></p>
