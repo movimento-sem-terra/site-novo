@@ -53,6 +53,7 @@ releated_posts:
   - _posts/2018/04/2018-04-26-o-alimento-que-carrega-a-semente-de-uma-nova-sociedade-a-precos-justos.md
   - _posts/2017/10/2017-10-25-mst-produz-150-mil-mudas-para-reflorestar-bacia-do-rio-doce-contaminada-pela-samarco.md
   - _posts/2018/05/2018-05-02-do-para-camponesas-e-camponesas-trazem-diversidade-de-producao-para-a-feira-nacional-em-sao-paulo.md
+section: featured-news
 
 ---
 <div style="text-align:center">
