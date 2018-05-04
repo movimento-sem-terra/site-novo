@@ -82,3 +82,5 @@ Nossa legisla&ccedil;&atilde;o atual tem limites para garantir a reavalia&ccedil
 <a href="http://contraosagrotoxicos.org/manifesto-contra-o-pacote-do-veneno/">Acesse&nbsp;o link para assinar o Manifesto</a></p>
 
 <p>&nbsp;</p>
+
+<p><em>*Editado por Solange Engelmann</em></p>
