@@ -3,7 +3,7 @@ date: "2018-05-04T15:08:26-03:00"
 tags:
   - tag: feira-da-reforma-agrária
   - tag: feira
-title: "Alimentação infantil: alimentar educando para nutrir corpos e mentes"
+title: "Alimentação escolar: alimentar educando para nutrir corpos e mentes"
 support_line: "Seminário \"Alimentação saudável e nutrição na educação escolar\" fala da importância da infância bem nutrida na Feira Nacional do MST"
 menu: reforma agrária
 special-page: IIIFeira-2018
@@ -57,7 +57,7 @@ Foto: Kellyto Trindade</em><br />
 <p>Primavesi tamb&eacute;m falou da alimenta&ccedil;&atilde;o como o maior problema de sa&uacute;de do mundo, e da necessidade de cuidar do solo em um &quot;sistema de veneno que vai matando solos e gerando a fome&quot;.&nbsp;<br />
 &nbsp;</p>
 
-<p>Ana Estela Haddad, que fez parte do Programa Nacional de Alimenta&ccedil;&atilde;o Escolar (PNAE) de S&atilde;o Paulo, falou um pouco sobre a lei que obriga que 30% da alimenta&ccedil;&atilde;o escolar venha da agricultura familiar e tamb&eacute;m resgatou a afetividade no ato de comer, pois &quot;comer em grupo constr&oacute;i h&aacute;bitos saud&aacute;veis nas crian&ccedil;as e nos jovens&quot;. Em di&aacute;logo com ela e com a ideia de seguran&ccedil;a alimentar como um direito b&aacute;sico, Giorgia Russo, nutricionista da rede estadual de educa&ccedil;&atilde;o de SP, trouxe o exemplo das cozinhas da rede p&uacute;blica de S&atilde;o Paulo.&nbsp;<br />
+<p>Ana Estela Haddad, que fez parte do Programa Nacional de Alimenta&ccedil;&atilde;o Escolar (PNAE) de S&atilde;o Paulo, falou um pouco sobre a lei que garante&nbsp;que 30% da alimenta&ccedil;&atilde;o escolar venha da agricultura familiar e tamb&eacute;m resgatou a afetividade no ato de comer, pois &quot;comer em grupo constr&oacute;i h&aacute;bitos saud&aacute;veis nas crian&ccedil;as e nos jovens&quot;. Em di&aacute;logo com ela e com a ideia de seguran&ccedil;a alimentar como um direito b&aacute;sico, Giorgia Russo, nutricionista da rede estadual de educa&ccedil;&atilde;o de S&atilde;o Paulo, trouxe o exemplo das cozinhas da rede p&uacute;blica de S&atilde;o Paulo.&nbsp;<br />
 &nbsp;</p>
 
 <p>O projeto, que conta com a parceria da cozinheira Jana&iacute;na Rueda, levou receitas de alimenta&ccedil;&atilde;o saborosa, nutritiva e sem conservantes para a merenda escolar, mostrando que &eacute; poss&iacute;vel conciliar or&ccedil;amento e log&iacute;stica, com vida agroecol&oacute;gica.&nbsp;<br />
