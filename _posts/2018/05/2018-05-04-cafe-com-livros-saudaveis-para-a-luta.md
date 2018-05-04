@@ -9,7 +9,7 @@ title: Café com livros saudáveis para a luta
 support_line: A programação e o ambiente convidam para passar dias em debates no Café Literário
 menu: "educação, cultura e comunicação"
 special-page: IIIFeira-2018
-images_hd: //farm1.staticflickr.com/832/41173159224_f9f38f10bf_b.jpg
+images_hd: //farm1.staticflickr.com/961/40084707040_fd04a75c2f_b.jpg
 layout: post
 files:
   - link: //farm1.staticflickr.com/828/40991154825_f425d95ee8_b.jpg
@@ -33,6 +33,27 @@ files:
     small: //farm1.staticflickr.com/832/41173159224_f9f38f10bf_n.jpg
     title: Feira Literária.jpg
     $$hashKey: 1ZC
+  - link: //farm1.staticflickr.com/961/40084707040_fd04a75c2f_b.jpg
+    original: //farm1.staticflickr.com/961/40084707040_97b6c955c5_o.jpg
+    thumbnail: //farm1.staticflickr.com/961/40084707040_fd04a75c2f_t.jpg
+    medium: //farm1.staticflickr.com/961/40084707040_fd04a75c2f_z.jpg
+    small: //farm1.staticflickr.com/961/40084707040_fd04a75c2f_n.jpg
+    title: DSC_3903.JPG
+    $$hashKey: 3LY
+  - link: //farm1.staticflickr.com/965/27023796317_e4fff78d35_b.jpg
+    original: //farm1.staticflickr.com/965/27023796317_214714dd28_o.jpg
+    thumbnail: //farm1.staticflickr.com/965/27023796317_e4fff78d35_t.jpg
+    medium: //farm1.staticflickr.com/965/27023796317_e4fff78d35_z.jpg
+    small: //farm1.staticflickr.com/965/27023796317_e4fff78d35_n.jpg
+    title: DSC_3899.JPG
+    $$hashKey: 3M1
+  - link: //farm1.staticflickr.com/974/27023804247_b4f90ecfaa_b.jpg
+    original: //farm1.staticflickr.com/974/27023804247_82a5f74922_o.jpg
+    thumbnail: //farm1.staticflickr.com/974/27023804247_b4f90ecfaa_t.jpg
+    medium: //farm1.staticflickr.com/974/27023804247_b4f90ecfaa_z.jpg
+    small: //farm1.staticflickr.com/974/27023804247_b4f90ecfaa_n.jpg
+    title: DSC_3920.JPG
+    $$hashKey: 3M4
 created_date: "2018-05-04T14:52:53-03:00"
 published: true
 releated_posts:
@@ -44,10 +65,15 @@ releated_posts:
   - _posts/2018/04/2018-04-30-alimentar-se-de-livros-expressao-popular-participa-da-iii-feira-da-reforma-agraria.md
 
 ---
-<p>&nbsp;</p>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="DSC_3899.JPG" height="463" src="//farm1.staticflickr.com/965/27023796317_e4fff78d35_b.jpg" width="700" />
+<figcaption>Foto: Kellyto Trindade</figcaption>
+</figure>
+</div>
 
 <p><em>Por Geanini Hackbardt<br />
-Da P&aacute;gina do MST</em><br />
+Da P&aacute;gina do MST<br />
+Foto de capa: Kellyto Trindade</em><br />
 &nbsp;</p>
 
 <p>Quitutes, caf&eacute; org&acirc;nico e muito conhecimento. Tudo em baixo de uma curiosa tenda de circo, mas o assunto aqui &eacute; s&eacute;rio. &Eacute; ali que acontece a Feira Liter&aacute;ria, parte da programa&ccedil;&atilde;o da 3&ordf; Feira Nacional da Reforma Agr&aacute;ria.&nbsp;At&eacute; domingo (06) a Editora Express&atilde;o Popular e o Armaz&eacute;m do Campo promovem o encontro entre autores, leitores, acad&ecirc;micos, curiosos e militantes para boas prosas sobre as ideias da esquerda. Enquanto escolhe seus livros, o p&uacute;blico pode sentir os aromas do Armaz&eacute;m, que oferece caldos, canjicas, refrigerante org&acirc;nico, sucos naturais, salgados e docinhos.<br />
@@ -79,7 +105,14 @@ Da P&aacute;gina do MST</em><br />
 <p>A educadora Elis&acirc;ngela Gomes ficou surpresa ao encontrar as obras do fil&oacute;sofo e pedagogo, Dermeval Saviani, do qual &eacute; leitora ass&iacute;dua. &ldquo;Eu n&atilde;o imaginei que iria encontrar tantos livros aqui. Venho do Alto Tiet&ecirc; e n&atilde;o conhecia esse espa&ccedil;o, estou gostando muito. Quem vem aqui vai achar v&aacute;rios autores que v&atilde;o implementar mais a sua pesquisa. No meu caso, como eu estou fazendo mestrado, ent&atilde;o &eacute; tamb&eacute;m um auxilio nesse sentido. E j&aacute; vou at&eacute; me inscrever no Clube, aqui mesmo, para estar contribuindo e receber livros &oacute;timos sobre educa&ccedil;&atilde;o&rdquo;, se anima a visitante.<br />
 &nbsp;</p>
 
-<p>Pequenos leitores tamb&eacute;m s&atilde;o bem vindos. No cantinho mais colorido com stands baixinhos, a crian&ccedil;ada pode escolher entre livros de contos da cultura brasileira como Iemanj&aacute; e Suas Lendas, cl&aacute;ssicos como &ldquo;As mil e uma noites&rdquo; e &ldquo;O menino do dedo verde&rdquo; ou, at&eacute; mesmo economia pol&iacute;tica voltada para elas, como &ldquo;O capital para crian&ccedil;as&rdquo;.<br />
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="DSC_3920.JPG" height="265" src="//farm1.staticflickr.com/974/27023804247_b4f90ecfaa_b.jpg" width="400" />
+<figcaption>Foto: Kellyto Trindade</figcaption>
+</figure>
+</div>
+
+<p><br />
+Pequenos leitores tamb&eacute;m s&atilde;o bem vindos. No cantinho mais colorido com stands baixinhos, a crian&ccedil;ada pode escolher entre livros de contos da cultura brasileira como Iemanj&aacute; e Suas Lendas, cl&aacute;ssicos como &ldquo;As mil e uma noites&rdquo; e &ldquo;O menino do dedo verde&rdquo; ou, at&eacute; mesmo economia pol&iacute;tica voltada para elas, como &ldquo;O capital para crian&ccedil;as&rdquo;.<br />
 &nbsp;</p>
 
 <p>Confira a programa&ccedil;&atilde;o completa do espa&ccedil;o Caf&eacute; Liter&aacute;rio:</p>
