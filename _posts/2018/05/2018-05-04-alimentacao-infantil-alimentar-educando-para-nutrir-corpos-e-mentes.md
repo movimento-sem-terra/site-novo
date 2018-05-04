@@ -3,7 +3,7 @@ date: "2018-05-04T15:08:26-03:00"
 tags:
   - tag: feira-da-reforma-agrária
   - tag: feira
-title: "Alimentação escolar: alimentar educando para nutrir corpos e mentes"
+title: "Alimentação escolar: educação para nutrir corpos e mentes"
 support_line: "Seminário \"Alimentação saudável e nutrição na educação escolar\" fala da importância da infância bem nutrida na Feira Nacional do MST"
 menu: reforma agrária
 special-page: IIIFeira-2018
