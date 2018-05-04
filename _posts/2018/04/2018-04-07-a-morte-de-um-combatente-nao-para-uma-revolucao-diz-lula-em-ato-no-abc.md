@@ -8,7 +8,7 @@ title: "\"A morte de um combatente não para uma revolução\", diz Lula em ato 
 support_line: "O presidente Luiz Inácio Lula da Silva acaba de dizer que irá se apresentar à Polícia Federal neste sábado (7)\n"
 menu: lutas e mobilizações
 images_hd: //farm1.staticflickr.com/817/40584951134_f10659cfbb_b.jpg
-section: cover
+section: null
 layout: post
 files:
   - link: //farm1.staticflickr.com/817/40584951134_f10659cfbb_b.jpg
