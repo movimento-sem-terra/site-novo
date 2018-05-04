@@ -24,6 +24,13 @@ files:
     small: //farm1.staticflickr.com/957/40085376590_b545f12fec_n.jpg
     title: Conferencia.png
     $$hashKey: 4DX
+  - link: //farm1.staticflickr.com/866/40086619060_dce4d2bd4d_b.jpg
+    original: //farm1.staticflickr.com/866/40086619060_270b1ea0a9_o.jpg
+    thumbnail: //farm1.staticflickr.com/866/40086619060_dce4d2bd4d_t.jpg
+    medium: //farm1.staticflickr.com/866/40086619060_dce4d2bd4d_z.jpg
+    small: //farm1.staticflickr.com/866/40086619060_dce4d2bd4d_n.jpg
+    title: XXX.jpg
+    $$hashKey: 0NV
 created_date: "2018-05-04T17:13:24-03:00"
 published: true
 releated_posts:
@@ -44,15 +51,14 @@ section: cover
 <p>Na manh&atilde; deste s&aacute;bado (5/5), &agrave;s 10h, a Feira Nacional da Reforma Agr&aacute;ria promove a Confer&ecirc;ncia &ldquo;Alimenta&ccedil;&atilde;o Saud&aacute;vel, um direito de todos e todas&rdquo; com a participa&ccedil;&atilde;o da chef Bel Coelho e do integrante da dire&ccedil;&atilde;o do MST, Jo&atilde;o Pedro Stedile.&nbsp;<br />
 &nbsp;</p>
 
-<p>Tamb&eacute;m participar&aacute; da confer&ecirc;ncia Patr&iacute;cia Jaime, professora do Departamento de Nutri&ccedil;&atilde;o da Faculdade de Sa&uacute;de P&uacute;blica da Universidade de S&atilde;o Paulo e militante do campo da alimenta&ccedil;&atilde;o e nutri&ccedil;&atilde;o em sa&uacute;de coletiva. Al&eacute;m da nutricionista, o Arcebispo de Botucatu, Dom Maur&iacute;cio Grotto, tamb&eacute;m far&aacute; parte da mesa.&nbsp;<br />
+<p>Tamb&eacute;m participar&aacute; da confer&ecirc;ncia Patr&iacute;cia Jaime, professora do Departamento de Nutri&ccedil;&atilde;o da Faculdade de Sa&uacute;de P&uacute;blica da Universidade de S&atilde;o Paulo e militante do campo da alimenta&ccedil;&atilde;o e nutri&ccedil;&atilde;o em sa&uacute;de coletiva. Al&eacute;m da nutricionista, o Arcebispo de Botucatu, Dom Maur&iacute;cio Andrade, tamb&eacute;m far&aacute; parte da mesa.&nbsp;<br />
 &nbsp;</p>
 
-<figure class="image" style="float:left"><img alt="Conferencia.png" height="400" src="//farm1.staticflickr.com/957/40085376590_b545f12fec_b.jpg" width="400" />
+<figure class="image" style="float:left"><img alt="XXX.jpg" height="400" src="//farm1.staticflickr.com/866/40086619060_dce4d2bd4d_b.jpg" width="400" />
 <figcaption></figcaption>
 </figure>
 
-<p>&ldquo;Por meio da confer&ecirc;ncia, sintetizamos o principal debate da nossa 3&ordm; Feira Nacional: a alimenta&ccedil;&atilde;o saud&aacute;vel, uma das principais propostas da reforma agr&aacute;ria popular. Neste sentido, denunciamos o consumo e uso de agrot&oacute;xicos por parte do agroneg&oacute;cio, um modelo falido para a sa&uacute;de humana. Ao mesmo tempo, mostramos na pr&aacute;tica que &eacute; poss&iacute;vel o acesso e consumo de produtos agroecol&oacute;gicos e org&acirc;nicos, produ&ccedil;&atilde;o que depende diretamente da reforma agr&aacute;ria&rdquo;, disse Kelli Mafort, da dire&ccedil;&atilde;o nacional do MST.&nbsp;<br />
-&nbsp;</p>
+<p>&ldquo;Por meio da confer&ecirc;ncia, sintetizamos o principal debate da nossa 3&ordm; Feira Nacional: a alimenta&ccedil;&atilde;o saud&aacute;vel, uma das principais propostas da reforma agr&aacute;ria popular. Neste sentido, denunciamos o consumo e uso de agrot&oacute;xicos por parte do agroneg&oacute;cio, um modelo falido para a sa&uacute;de humana. Ao mesmo tempo, mostramos na pr&aacute;tica que &eacute; poss&iacute;vel o acesso e consumo de produtos agroecol&oacute;gicos e org&acirc;nicos, produ&ccedil;&atilde;o que depende diretamente da reforma agr&aacute;ria&rdquo;, disse Kelli Mafort, da dire&ccedil;&atilde;o nacional do MST.&nbsp;</p>
 
 <p>A Feira Nacional da Reforma Agr&aacute;ria acontece at&eacute; o pr&oacute;ximo domingo (6/5) no Parque da &Aacute;gua Branca da capital paulista. Em sua terceira edi&ccedil;&atilde;o, a Feira re&uacute;ne mais de 350 toneladas de alimentos saud&aacute;veis e a presen&ccedil;a de mais de 900 assentados/as, dos 23 estados e o Distrito Federal, onde h&aacute; organiza&ccedil;&atilde;o do MST.&nbsp;<br />
 &nbsp;</p>
