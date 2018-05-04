@@ -5,7 +5,7 @@ tags:
   - tag: cultura
   - tag: feira-reforma-agrária
 title: "Saberes, sabores e cultura popular "
-support_line: "Feira do MST incorpora poesia, música e alimentação da terra"
+support_line: "Feira do MST incorpora poesia, música e culinária da terra"
 menu: "educação, cultura e comunicação"
 special-page: IIIFeira-2018
 images_hd: //farm1.staticflickr.com/828/40989383625_7602516499_b.jpg
@@ -48,7 +48,7 @@ releated_posts:
 
 <p><em>Por Mariana Castro<br />
 Da P&aacute;gina do MST<br />
-Fotos: Matheus Alves</em><br />
+Foto: Matheus Alves</em><br />
 &nbsp;</p>
 
 <p>Durante todos os dias da 3&ordf; Feira Nacional da Reforma Agr&aacute;ria, que acontece entre 3 e 6 de maio no Parque da &Aacute;gua Branca, em S&atilde;o Paulo, os visitantes t&ecirc;m o prazer de almo&ccedil;ar pratos t&iacute;picos de qualquer regi&atilde;o do pa&iacute;s, ao som de expoentes da m&uacute;sica e poesia popular.&nbsp;<br />
