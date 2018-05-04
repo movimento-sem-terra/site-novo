@@ -50,8 +50,7 @@ releated_posts:
 Da P&aacute;gina do MST</em><br />
 &nbsp;</p>
 
-<p>Quitutes, caf&eacute; org&acirc;nico e muito conhecimento. Tudo em baixo de uma curiosa tenda de circo, mas o assunto aqui &eacute; s&eacute;rio. &Eacute; ali que acontece a Feira Liter&aacute;ria, parte da programa&ccedil;&atilde;o da 3&ordf; Feira Nacional da Reforma Agr&aacute;ria.&nbsp;<br />
-At&eacute; domingo (06) a Editora Express&atilde;o Popular e o Armaz&eacute;m do Campo promovem o encontro entre autores, leitores, acad&ecirc;micos, curiosos e militantes para boas prosas sobre as ideias da esquerda. Enquanto escolhe seus livros, o p&uacute;blico pode sentir os aromas do Armaz&eacute;m, que oferece caldos, canjicas, refrigerante org&acirc;nico, sucos naturais, salgados e docinhos.<br />
+<p>Quitutes, caf&eacute; org&acirc;nico e muito conhecimento. Tudo em baixo de uma curiosa tenda de circo, mas o assunto aqui &eacute; s&eacute;rio. &Eacute; ali que acontece a Feira Liter&aacute;ria, parte da programa&ccedil;&atilde;o da 3&ordf; Feira Nacional da Reforma Agr&aacute;ria.&nbsp;At&eacute; domingo (06) a Editora Express&atilde;o Popular e o Armaz&eacute;m do Campo promovem o encontro entre autores, leitores, acad&ecirc;micos, curiosos e militantes para boas prosas sobre as ideias da esquerda. Enquanto escolhe seus livros, o p&uacute;blico pode sentir os aromas do Armaz&eacute;m, que oferece caldos, canjicas, refrigerante org&acirc;nico, sucos naturais, salgados e docinhos.<br />
 &nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="e3c18542-1955-49b6-9a12-ca29e9de2ebb.jpg" height="233" src="//farm1.staticflickr.com/966/41889937321_3da9cbe825_b.jpg" width="350" />
@@ -85,14 +84,14 @@ At&eacute; domingo (06) a Editora Express&atilde;o Popular e o Armaz&eacute;m do
 
 <p>Confira a programa&ccedil;&atilde;o completa do espa&ccedil;o Caf&eacute; Liter&aacute;rio:</p>
 
-<p>Sexta (04):<br />
+<p><strong>Sexta (04)</strong><br />
 14h- Debate livro &quot;A verdade vencer&aacute;&quot;, com Ivana Jinkings, Gilberto Maringoni e Maria In&ecirc;s Nassif.</p>
 
-<p>S&aacute;bado (05):<br />
+<p><strong>S&aacute;bado (05)</strong><br />
 9:30 - Lan&ccedil;amentos: &quot;Confesso que perdi&quot;&nbsp;e &quot;Os beneditinos&quot;<br />
 14h-&nbsp; Ato Bi-centen&aacute;rio de Karl Marx</p>
 
-<p>Domingo (06):<br />
+<p><strong>Domingo (06)</strong><br />
 10h-&nbsp; Lan&ccedil;amento: &quot;Rosa Luxemburgo e o protagonismo das lutas de massas&quot;<br />
 13h-&nbsp; Lan&ccedil;amento &quot;Biocenose do Solo&quot;, de Ana Primavesi<br />
 &nbsp;</p>
