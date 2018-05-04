@@ -41,7 +41,7 @@ releated_posts:
 </figure>
 </div>
 
-<p><em>Da Reda&ccedil;&atilde;o<br />
+<p><em>Da P&aacute;gina do MST<br />
 Fotos: Rafael Stedile</em><br />
 &nbsp;</p>
 
