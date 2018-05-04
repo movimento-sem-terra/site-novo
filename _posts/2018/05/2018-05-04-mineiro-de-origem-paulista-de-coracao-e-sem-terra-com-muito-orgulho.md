@@ -58,7 +58,7 @@ Fotos: Rafael Stedile</em><br />
 &nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="LUIZ_-_RAFA_STEDILE_2.jpeg" height="233" src="//farm1.staticflickr.com/826/41848768162_cdd569b2c6_b.jpg" width="350" />
-<figcaption>Legenda</figcaption>
+<figcaption></figcaption>
 </figure>
 
 <p>Para Lu&iacute;s, nenhuma dificuldade encontrada na luta pela terra, os empecilhos judiciais, a opress&atilde;o policial, nada o desanima de seguir lutando pelo projeto de Reforma Agr&aacute;ria Popular defendido pelo MST e refletido hoje na Feira.<br />
