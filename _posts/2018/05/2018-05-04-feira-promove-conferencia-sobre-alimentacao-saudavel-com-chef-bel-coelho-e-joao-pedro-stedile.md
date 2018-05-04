@@ -34,6 +34,7 @@ releated_posts:
   - _posts/2018/05/2018-05-04-minuto-a-minuto-3a-feira-nacional-da-reforma-agraria.md
   - _posts/2018/05/2018-05-03-maciel-alves-nascido-na-luta.md
   - _posts/2018/05/2018-05-03-culinaria-da-terra-a-gente-cozinha-politica-junto.md
+section: cover
 
 ---
 <p><br />
