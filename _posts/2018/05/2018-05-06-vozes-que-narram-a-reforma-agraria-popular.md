@@ -42,13 +42,13 @@ Da P&aacute;gina do MST</em><br />
 <p>Al&eacute;m de ocupar latif&uacute;ndios em todo o pa&iacute;s, o MST tamb&eacute;m ousou transmitir a cultura camponesa e informa&ccedil;&atilde;o de qualidade nas frequ&ecirc;ncias de r&aacute;dio.<br />
 &nbsp;</p>
 
-<p>Camila Bonassa, do Setor de Comunica&ccedil;&atilde;o do MST, conta que &quot;a primeira experi&ecirc;ncia que o MST teve com r&aacute;dio foi bem no in&iacute;cio do Movimento, entre os anos de 87 e 88 e era um programa nacional mandado em fita cassete para todo o pa&iacute;s&quot;, conta.&nbsp;<br />
+<p>Camila Bonassa, do Setor de Comunica&ccedil;&atilde;o do MST, conta que &quot;a primeira experi&ecirc;ncia que o MST teve com r&aacute;dio foi bem no in&iacute;cio do Movimento, entre os anos de 87 e 88 em&nbsp;um programa nacional&quot;, conta.&nbsp;<br />
 &nbsp;</p>
 
 <p>Este programa, ent&atilde;o na R&aacute;dio Aparecida AM em S&atilde;o Paulo, surgiu da ideia de que o MST, que j&aacute; tinha o Jornal Sem Terra, pudesse chegar aos camponeses e camponesas, al&eacute;m do p&uacute;blico externo ao Movimento de maneira mais direta e popular. A r&aacute;dio contribuiu ainda como instrumento para potencializar a organiza&ccedil;&atilde;o do Movimento nos estados e a n&iacute;vel nacional.&nbsp;<br />
 &nbsp;</p>
 
-<p>Em mais ou menos um ano de programa na R&aacute;dio Aparecida AM, o Movimento adquiriu experi&ecirc;ncia para embarcar junto na efervesc&ecirc;ncia das r&aacute;dios comunit&aacute;rias, a partir dos anos 90 e construir r&aacute;dios em &aacute;reas de assentamento para al&eacute;m das experi&ecirc;ncias de r&aacute;dio poste. As principais experi&ecirc;ncias da &eacute;poca foram a r&aacute;dio Terra Livre de Santa Catarina, a de S&atilde;o Paulo e a Hulha Negra, no Rio Grande do Sul, que existem at&eacute; hoje.&nbsp;<br />
+<p>Em mais ou menos um ano de programa na R&aacute;dio Aparecida AM, o Movimento adquiriu experi&ecirc;ncia para embarcar junto na efervesc&ecirc;ncia das r&aacute;dios comunit&aacute;rias, a partir dos anos 90 e construir r&aacute;dios em &aacute;reas de assentamento para al&eacute;m das experi&ecirc;ncias de r&aacute;dio poste. As principais experi&ecirc;ncias da &eacute;poca foram a R&aacute;dio Terra Livre de Santa Catarina, a R&aacute;dio Camponesa&nbsp;de S&atilde;o Paulo e a Hulha Negra, no Rio Grande do Sul, que existem at&eacute; hoje.&nbsp;<br />
 &nbsp;</p>
 
 <p>Hoje o MST tem 14 emissoras FM em resist&ecirc;ncia ocupando os latif&uacute;ndios do ar, al&eacute;m de 10 programas em r&aacute;dios parceiras, fortalecendo a ideia de que a r&aacute;dio faz parte da cultura camponesa e est&aacute; na ess&ecirc;ncia do MST, sendo um projeto concreto desde o in&iacute;cio do Movimento.&nbsp;<br />
