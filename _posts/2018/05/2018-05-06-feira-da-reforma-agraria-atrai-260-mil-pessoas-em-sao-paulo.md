@@ -33,6 +33,20 @@ files:
     small: //farm1.staticflickr.com/911/41892001612_b6cec5a493_n.jpg
     title: BalancoFeira_Prancheta 1 (1).png
     $$hashKey: 0EA
+  - link: //farm1.staticflickr.com/911/41218072184_c0e5606d4a_b.jpg
+    original: //farm1.staticflickr.com/911/41218072184_19b38a57bf_o.jpg
+    thumbnail: //farm1.staticflickr.com/911/41218072184_c0e5606d4a_t.jpg
+    medium: //farm1.staticflickr.com/911/41218072184_c0e5606d4a_z.jpg
+    small: //farm1.staticflickr.com/911/41218072184_c0e5606d4a_n.jpg
+    title: IMG_20180506_173159_984.jpg
+    $$hashKey: 05J
+  - link: //farm1.staticflickr.com/980/27066668977_4867c00777_b.jpg
+    original: //farm1.staticflickr.com/980/27066668977_bd9aa1af79_o.jpg
+    thumbnail: //farm1.staticflickr.com/980/27066668977_4867c00777_t.jpg
+    medium: //farm1.staticflickr.com/980/27066668977_4867c00777_z.jpg
+    small: //farm1.staticflickr.com/980/27066668977_4867c00777_n.jpg
+    title: IMG_20180506_173023_766.jpg
+    $$hashKey: 05M
 created_date: "2018-05-06T17:29:10-03:00"
 published: true
 releated_posts:
@@ -110,6 +124,14 @@ Lula lamentou ainda n&atilde;o poder estar presente nesta edi&ccedil;&atilde;o. 
 
 <p><br />
 A 3&ordf; Feira Nacional da Reforma Agr&aacute;ria trouxe ainda para a capital paulista diversos espet&aacute;culos na Ciranda Infantil, interven&ccedil;&otilde;es itinerantes, cortejos e teatro. Al&eacute;m disso, teve os espa&ccedil;os Caf&eacute; Liter&aacute;rio, com a presen&ccedil;a da Editora Express&atilde;o Popular e do Armaz&eacute;m do Campo, e Feira de Sementes e Artesanato. Jongo, folia de reis, repente nordestino e coco de roda tamb&eacute;m fizeram parte da programa&ccedil;&atilde;o da maior feira de diversidade de produtos do pa&iacute;s.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="IMG_20180506_173023_766.jpg" height="466" src="//farm1.staticflickr.com/980/27066668977_4867c00777_b.jpg" width="700" />
+<figcaption></figcaption>
+</figure>
+</div>
 
 <p><br />
 <em>*Editado por Iris Pacheco</em></p>
