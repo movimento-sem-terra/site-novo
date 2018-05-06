@@ -43,7 +43,7 @@ Da P&aacute;gina do MST</em><br />
 <p>Em meio &agrave; diversidade de bebidas produzidas artesanalmente pelo povo Sem Terra que se encontra na Feira Nacional da Reforma Agr&aacute;ria, uma delas chama aten&ccedil;&atilde;o pelo nome e pela forma como &eacute; feita. A Subversiva &eacute; a gelada que vem do Rio de Janeiro, direto das m&atilde;os de mulheres de luta.<br />
 &nbsp;</p>
 
-<figure class="image" style="float:left"><img alt="11111 yy.jpg" height="622" src="//farm1.staticflickr.com/872/41209065534_7bbe3c69f3_b.jpg" width="350" />
+<figure class="image" style="float:left"><img alt="11111 yy.jpg" height="444" src="//farm1.staticflickr.com/872/41209065534_7bbe3c69f3_b.jpg" width="250" />
 <figcaption></figcaption>
 </figure>
 
@@ -55,8 +55,6 @@ Da P&aacute;gina do MST</em><br />
 
 <p>O coletivo da Subversiva se inspirou em outras produ&ccedil;&otilde;es artesanais que se organizam no Rio de Janeiro para popularizar o acesso &agrave; cerveja. A partir de uma oficina, elas come&ccedil;aram a se encontrar h&aacute; um ano e trocar experi&ecirc;ncias, fazer cursos, desenvolver as receitas, para qualificar o produto. Hoje elas possuem os pr&oacute;prios equipamentos e a cada encontro fazem 50 litros da bebida.<br />
 &nbsp;</p>
-
-<p>&nbsp;</p>
 
 <p>&ldquo;Queremos trazer a discuss&atilde;o da cerveja como um alimento que tamb&eacute;m pode ser saud&aacute;vel, com uma forma tanto de produ&ccedil;&atilde;o como de consumo muito mais consciente do que ficar repassando nosso dinheiro para essas grandes empresas&rdquo;, explica a produtora.<br />
 &nbsp;</p>
