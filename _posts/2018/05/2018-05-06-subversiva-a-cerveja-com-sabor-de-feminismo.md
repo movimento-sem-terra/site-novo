@@ -7,7 +7,7 @@ title: "Subversiva: a cerveja com sabor de feminismo"
 support_line: Cerveja artesanal produzida por mulheres do MST no Rio de Janeiro é comercializada em três sabores durante Feira Nacional da Reforma Agrária
 menu: agricultura camponesa
 special-page: IIIFeira-2018
-images_hd: //farm1.staticflickr.com/829/41883791652_f9936afac1_b.jpg
+images_hd: //farm1.staticflickr.com/948/41884426302_27960d2250_b.jpg
 layout: post
 files:
   - link: //farm1.staticflickr.com/965/41027822325_f984ea92d2_b.jpg
@@ -31,6 +31,13 @@ files:
     small: //farm1.staticflickr.com/829/41883791652_f9936afac1_n.jpg
     title: 11111 x.jpg
     $$hashKey: 0F8
+  - link: //farm1.staticflickr.com/948/41884426302_27960d2250_b.jpg
+    original: //farm1.staticflickr.com/948/41884426302_6936335ea9_o.jpg
+    thumbnail: //farm1.staticflickr.com/948/41884426302_27960d2250_t.jpg
+    medium: //farm1.staticflickr.com/948/41884426302_27960d2250_z.jpg
+    small: //farm1.staticflickr.com/948/41884426302_27960d2250_n.jpg
+    title: 11111 x.jpg
+    $$hashKey: 0QE
 created_date: "2018-05-06T09:45:54-03:00"
 published: true
 releated_posts:
