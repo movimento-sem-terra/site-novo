@@ -5,7 +5,7 @@ tags:
   - tag: são-paulo
   - tag: agroecologia
 title: "Feira da Reforma Agrária atrai 260 mil pessoas em São Paulo "
-support_line: A terceira edição do evento realizado em São Paulo ofereceu à população 240 toneladas de alimentos saudáveis
+support_line: A terceira edição do evento realizado ofereceu à população 240 toneladas de alimentos saudáveis
 menu: reforma agrária
 section: cover
 special-page: IIIFeira-2018
@@ -26,25 +26,17 @@ files:
     small: //farm1.staticflickr.com/947/41217654574_719fb4aa01_n.jpg
     title: seminario 04.jpg
     $$hashKey: 08H
-  - link: //farm1.staticflickr.com/971/41891719272_f0fb7f47fe_b.jpg
-    original: //farm1.staticflickr.com/971/41891719272_5d453db379_o.jpg
-    thumbnail: //farm1.staticflickr.com/971/41891719272_f0fb7f47fe_t.jpg
-    medium: //farm1.staticflickr.com/971/41891719272_f0fb7f47fe_z.jpg
-    small: //farm1.staticflickr.com/971/41891719272_f0fb7f47fe_n.jpg
-    title: yyyy2.jpg
-    $$hashKey: 08K
-  - link: //farm1.staticflickr.com/869/41936236851_451217d041_b.jpg
-    original: //farm1.staticflickr.com/869/41936236851_6cede4b9d9_o.png
-    thumbnail: //farm1.staticflickr.com/869/41936236851_451217d041_t.jpg
-    medium: //farm1.staticflickr.com/869/41936236851_451217d041_z.jpg
-    small: //farm1.staticflickr.com/869/41936236851_451217d041_n.jpg
-    title: BalancoFeira_Prancheta 1.png
-    $$hashKey: 08N
+  - link: //farm1.staticflickr.com/911/41892001612_b6cec5a493_b.jpg
+    original: //farm1.staticflickr.com/911/41892001612_3cac524aa5_o.png
+    thumbnail: //farm1.staticflickr.com/911/41892001612_b6cec5a493_t.jpg
+    medium: //farm1.staticflickr.com/911/41892001612_b6cec5a493_z.jpg
+    small: //farm1.staticflickr.com/911/41892001612_b6cec5a493_n.jpg
+    title: BalancoFeira_Prancheta 1 (1).png
+    $$hashKey: 0EA
 created_date: "2018-05-06T17:29:10-03:00"
 published: true
 releated_posts:
   - _posts/2018/04/2018-04-25-siba-ile-aiye-martinho-da-vila-tuiuti-e-muito-mais-animam-a-programacao-da-feira-do-mst.md
-  - _posts/2017/09/2017-09-05-no-ceara-mst-realiza-13a-feira-cultural-da-reforma-agraria.md
   - _posts/2017/10/2017-10-27-1a-feira-agroecologica-de-sao-leopoldo-acontece-no-proximo-sabado-28.md
   - _posts/2017/11/2017-11-07-area-externa-da-assembleia-legislativa-abrigara-1a-feira-organica-no-centro-de-porto-alegre.md
   - _posts/2017/12/2017-12-07-patrimonio-da-cidade-do-rio-de-janeiro-ix-feira-estadual-da-reforma-agraria-cicero-guedes-recebe-mais-de-100-mil-pessoas.md
@@ -71,7 +63,7 @@ Ao todo, foram 420 toneladas de produtos comercializados, a pre&ccedil;o justo, 
 <p><br />
 Segundo B&aacute;rbara Loureiro, da coordena&ccedil;&atilde;o do setor de Produ&ccedil;&atilde;o, em seus quatros dias de dura&ccedil;&atilde;o (3 a 6 de maio), a feira recebeu 260 mil visitantes &ndash; 90 mil a mais do que em sua segunda edi&ccedil;&atilde;o &ndash; de todas as idades. Al&eacute;m de adquirir produtos da Reforma Agr&aacute;ria e de experimentar comidas t&iacute;picas das cinco regi&otilde;es do pa&iacute;s, eles puderam acompanhar gratuitamente uma vasta programa&ccedil;&atilde;o cultural, com a participa&ccedil;&atilde;o de 367 artistas, que envolveu em shows no Palco Arena nomes nacionalmente consagrados e amigos do MST, como Il&ecirc; Aiy&ecirc;, Otto, Martinho da Vila, Siba, Ti&atilde;o Carvalho, Ana Ca&ntilde;as e a Escola de Samba Para&iacute;so do Tuiuti.&nbsp;</p>
 
-<figure class="image" style="float:right"><img alt="BalancoFeira_Prancheta 1.png" height="400" src="//farm1.staticflickr.com/869/41936236851_451217d041_b.jpg" width="400" />
+<figure class="image" style="float:right"><img alt="BalancoFeira_Prancheta 1 (1).png" height="400" src="//farm1.staticflickr.com/911/41892001612_b6cec5a493_b.jpg" width="400" />
 <figcaption></figcaption>
 </figure>
 
@@ -102,7 +94,7 @@ A feira propiciou semin&aacute;rios com representantes de movimentos populares, 
 <p>&nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="seminario 04.jpg" height="267" src="//farm1.staticflickr.com/947/41217654574_719fb4aa01_b.jpg" width="400" />
-<figcaption><em>Foto: Matheus Alves</em></figcaption>
+<figcaption><em>Confer&ecirc;ncia sobre Alimenta&ccedil;&atilde;o saud&aacute;vel. Foto: Matheus Alves</em></figcaption>
 </figure>
 
 <p><br />
