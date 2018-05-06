@@ -3,7 +3,7 @@ date: "2018-05-05T17:22:24-03:00"
 tags:
   - tag: feira-da-reforma-agrária
   - tag: feira-reforma-agrária
-title: "Viajar pelo Brasil dentro da Feira: visitantes celebram a fartura da Feira em São Paulo"
+title: "Viajar pelo Brasil dentro da Feira: visitantes celebram a fartura da Reforma Agrária Popular"
 support_line: "“Estou muito feliz pela riqueza desse espaço. Eu estou viajando pelo Brasil sem precisar viajar. E há ainda o sentido cultural e político, que para mim, é o maior valor da Feira”, disse uma das visitantes da Feira"
 menu: reforma agrária
 special-page: IIIFeira-2018
