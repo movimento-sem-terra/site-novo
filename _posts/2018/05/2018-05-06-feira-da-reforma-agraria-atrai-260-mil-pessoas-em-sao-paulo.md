@@ -4,7 +4,7 @@ tags:
   - tag: feira-da-reforma-agrária
   - tag: são-paulo
   - tag: agroecologia
-title: "Feira da Reforma Agrária atrai 260 mil pessoas em São Paulo "
+title: "Feira Nacional da Reforma Agrária atrai 260 mil pessoas em São Paulo "
 support_line: A terceira edição do evento realizado ofereceu à população 240 toneladas de alimentos saudáveis
 menu: reforma agrária
 section: cover
