@@ -120,7 +120,8 @@ A feira propiciou semin&aacute;rios com representantes de movimentos populares, 
 <p>&nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="seminario 04.jpg" height="267" src="//farm1.staticflickr.com/947/41217654574_719fb4aa01_b.jpg" width="400" />
-<figcaption><em>Confer&ecirc;ncia sobre Alimenta&ccedil;&atilde;o saud&aacute;vel. Foto: Matheus Alves</em></figcaption>
+<figcaption><em>Confer&ecirc;ncia sobre Alimenta&ccedil;&atilde;o saud&aacute;vel.<br />
+Foto: Matheus Alves</em></figcaption>
 </figure>
 
 <p><br />
