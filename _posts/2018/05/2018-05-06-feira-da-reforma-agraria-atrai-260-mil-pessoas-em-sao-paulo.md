@@ -47,6 +47,13 @@ files:
     small: //farm1.staticflickr.com/980/27066668977_4867c00777_n.jpg
     title: IMG_20180506_173023_766.jpg
     $$hashKey: 05M
+  - link: //farm1.staticflickr.com/956/27066801787_780c73efc8_b.jpg
+    original: //farm1.staticflickr.com/956/27066801787_514917ca0c_o.jpg
+    thumbnail: //farm1.staticflickr.com/956/27066801787_780c73efc8_t.jpg
+    medium: //farm1.staticflickr.com/956/27066801787_780c73efc8_z.jpg
+    small: //farm1.staticflickr.com/956/27066801787_780c73efc8_n.jpg
+    title: IMG_20180506_173034_292.jpg
+    $$hashKey: 0H3
 created_date: "2018-05-06T17:29:10-03:00"
 published: true
 releated_posts:
@@ -62,6 +69,12 @@ releated_posts:
 
 ---
 <p>&nbsp;</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="yyyyy.jpg" height="467" src="//farm1.staticflickr.com/965/40128824950_2616ab49f0_b.jpg" width="700" />
+<figcaption></figcaption>
+</figure>
+</div>
 
 <p>&nbsp;</p>
 
