@@ -33,13 +33,6 @@ files:
     small: //farm1.staticflickr.com/911/41892001612_b6cec5a493_n.jpg
     title: BalancoFeira_Prancheta 1 (1).png
     $$hashKey: 0EA
-  - link: //farm1.staticflickr.com/911/41218072184_c0e5606d4a_b.jpg
-    original: //farm1.staticflickr.com/911/41218072184_19b38a57bf_o.jpg
-    thumbnail: //farm1.staticflickr.com/911/41218072184_c0e5606d4a_t.jpg
-    medium: //farm1.staticflickr.com/911/41218072184_c0e5606d4a_z.jpg
-    small: //farm1.staticflickr.com/911/41218072184_c0e5606d4a_n.jpg
-    title: IMG_20180506_173159_984.jpg
-    $$hashKey: 05J
   - link: //farm1.staticflickr.com/980/27066668977_4867c00777_b.jpg
     original: //farm1.staticflickr.com/980/27066668977_bd9aa1af79_o.jpg
     thumbnail: //farm1.staticflickr.com/980/27066668977_4867c00777_t.jpg
@@ -47,13 +40,13 @@ files:
     small: //farm1.staticflickr.com/980/27066668977_4867c00777_n.jpg
     title: IMG_20180506_173023_766.jpg
     $$hashKey: 05M
-  - link: //farm1.staticflickr.com/956/27066801787_780c73efc8_b.jpg
-    original: //farm1.staticflickr.com/956/27066801787_514917ca0c_o.jpg
-    thumbnail: //farm1.staticflickr.com/956/27066801787_780c73efc8_t.jpg
-    medium: //farm1.staticflickr.com/956/27066801787_780c73efc8_z.jpg
-    small: //farm1.staticflickr.com/956/27066801787_780c73efc8_n.jpg
-    title: IMG_20180506_173034_292.jpg
-    $$hashKey: 0H3
+  - link: //farm1.staticflickr.com/909/41936827971_28531b3a4f_b.jpg
+    original: //farm1.staticflickr.com/909/41936827971_50475777ac_o.jpg
+    thumbnail: //farm1.staticflickr.com/909/41936827971_28531b3a4f_t.jpg
+    medium: //farm1.staticflickr.com/909/41936827971_28531b3a4f_z.jpg
+    small: //farm1.staticflickr.com/909/41936827971_28531b3a4f_n.jpg
+    title: photo_2018-05-04_22-40-52.jpg
+    $$hashKey: 0N0
 created_date: "2018-05-06T17:29:10-03:00"
 published: true
 releated_posts:
@@ -105,6 +98,12 @@ Segundo B&aacute;rbara, foram comercializadas na feira 1530 tipos de alimentos i
 
 <p><br />
 No espa&ccedil;o &ldquo;Culin&aacute;ria da Terra&rdquo;, os trabalhadores do MST e parceiros prepararam em 24 cozinhas refei&ccedil;&otilde;es nos quatro dias, todas com produtos da Reforma Agr&aacute;ria e com sabores variados de 75 pratos t&iacute;picos de todas as regi&otilde;es do pa&iacute;s.&nbsp; &ldquo;Oferecemos alimentos que n&atilde;o s&atilde;o encontrados aqui em S&atilde;o Paulo, como pato no tucupi, galinhada com pequi e a moqueca capixaba&rdquo;, acrescenta.</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="photo_2018-05-04_22-40-52.jpg" height="525" src="//farm1.staticflickr.com/909/41936827971_28531b3a4f_b.jpg" width="700" />
+<figcaption><em>Pato no tucupi vindo diretamente do Par&aacute;. Foto: Leonardo Martins</em></figcaption>
+</figure>
+</div>
 
 <p><br />
 De acordo com Milton Jos&eacute; Fornazieri, tamb&eacute;m da coordena&ccedil;&atilde;o nacional do setor de Produ&ccedil;&atilde;o, a feira cumpriu mais uma vez o seu papel ao mostrar que a Reforma Agr&aacute;ria d&aacute; certo, que produz alimentos saud&aacute;veis, e ao estabelecer di&aacute;logo direito com a popula&ccedil;&atilde;o de S&atilde;o Paulo.&nbsp;</p>
