@@ -65,7 +65,7 @@ releated_posts:
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="yyyyy.jpg" height="467" src="//farm1.staticflickr.com/965/40128824950_2616ab49f0_b.jpg" width="700" />
-<figcaption></figcaption>
+<figcaption><em>Culin&aacute;ria da Terra super movimentada nos quatro dias de feira. Foto: Matheus Alves</em></figcaption>
 </figure>
 </div>
 
