@@ -43,7 +43,7 @@ Da P&aacute;gina do MST</em><br />
 <p>Em meio &agrave; diversidade de bebidas produzidas artesanalmente pelo povo Sem Terra que se encontra na Feira Nacional da Reforma Agr&aacute;ria, uma delas chama aten&ccedil;&atilde;o pelo nome e pela forma como &eacute; feita. A Subversiva &eacute; a gelada que vem do Rio de Janeiro, direto das m&atilde;os de mulheres de luta.<br />
 &nbsp;</p>
 
-<figure class="image" style="float:right"><img alt="11111 x.jpg" height="600" src="//farm1.staticflickr.com/965/41027822325_f984ea92d2_b.jpg" width="400" />
+<figure class="image" style="float:left"><img alt="11111 yy.jpg" height="622" src="//farm1.staticflickr.com/872/41209065534_7bbe3c69f3_b.jpg" width="350" />
 <figcaption></figcaption>
 </figure>
 
@@ -56,10 +56,13 @@ Da P&aacute;gina do MST</em><br />
 <p>O coletivo da Subversiva se inspirou em outras produ&ccedil;&otilde;es artesanais que se organizam no Rio de Janeiro para popularizar o acesso &agrave; cerveja. A partir de uma oficina, elas come&ccedil;aram a se encontrar h&aacute; um ano e trocar experi&ecirc;ncias, fazer cursos, desenvolver as receitas, para qualificar o produto. Hoje elas possuem os pr&oacute;prios equipamentos e a cada encontro fazem 50 litros da bebida.<br />
 &nbsp;</p>
 
+<p>&nbsp;</p>
+
 <p>&ldquo;Queremos trazer a discuss&atilde;o da cerveja como um alimento que tamb&eacute;m pode ser saud&aacute;vel, com uma forma tanto de produ&ccedil;&atilde;o como de consumo muito mais consciente do que ficar repassando nosso dinheiro para essas grandes empresas&rdquo;, explica a produtora.<br />
 &nbsp;</p>
 
 <p>A Subversiva pode ser encontrada em tr&ecirc;s sabores. A Red Ipa, preferida delas, &eacute; mais forte, incorpada e com certo amargor. A Apa &eacute; mais clara, leve e de teor alco&oacute;lico mais baixo. J&aacute; a Amber Ale &eacute; uma media das duas. Elas trouxeram onze caixas e j&aacute; est&aacute; acabando. Quem quiser conferir, pode encontrar na <a href="http://www.mst.org.br/III-feira-nacional-da-reforma-agraria/">3&ordf; Feira Nacional da Reforma Agr&aacute;ria</a>, no&nbsp;Parque da &Aacute;gua Branca neste domingo, at&eacute; &agrave;s 18 horas.&nbsp;<br />
+<br />
 &nbsp;</p>
 
 <p>No Rio de Janeiro a Subversiva est&aacute; dispon&iacute;vel no Espa&ccedil;o de Comercializa&ccedil;&atilde;o Terra Crioula, que se localiza na rua da Lapa, 107, no bairro da Lapa.<br />
