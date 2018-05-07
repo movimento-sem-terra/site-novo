@@ -6,7 +6,7 @@ tags:
   - tag: curitiba
 images_hd: //farm1.staticflickr.com/886/26781686427_e9aec27174_b.jpg
 title: "Boff a Lula: 'Estive preso e me impediram de visitar-te'"
-support_line: "Após ser impedido de encontrar-se com Lula na prisão, religioso escreve carta-manifesto de repúdio aos atos de excessão"
+support_line: "Após ser impedido de encontrar-se com Lula na prisão, religioso escreve carta-manifesto de repúdio aos atos de exceção"
 menu: direitos humanos
 label: articles
 layout: post
