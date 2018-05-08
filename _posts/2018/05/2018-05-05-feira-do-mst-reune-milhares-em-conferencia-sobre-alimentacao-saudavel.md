@@ -9,7 +9,7 @@ tags:
 title: Feira do MST reúne milhares em conferência sobre alimentação saudável
 support_line: Atividade homenageou Paul Singer durante a 3ª Feira Nacional da Reforma Agrária em São Paulo
 menu: reforma agrária
-section: cover
+section: featured-news
 special-page: IIIFeira-2018
 images_hd: //farm1.staticflickr.com/968/41195188614_2a65ea7af5_b.jpg
 layout: post
