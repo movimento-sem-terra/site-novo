@@ -88,7 +88,7 @@ Segundo B&aacute;rbara Loureiro, da coordena&ccedil;&atilde;o do setor de Produ&
 </figure>
 
 <p><br />
-J&aacute; no Palco Culin&aacute;ria da Terra, dezenas de artistas populares se apresentaram, entre eles o quarteto As Cantadeiras, a cantora sergipana Val Santos e o autor da melodia que embala o hino do MST, o mineiro Z&eacute; Pinto, e artistas parceiros, como o grupo Mistura Popular. Foram essas apresenta&ccedil;&otilde;es que mais chamaram a aten&ccedil;&atilde;o de dona Marli Moreira de Sousa, 73 anos, moradora do bairro Butant&atilde; de S&atilde;o Paulo.&nbsp;</p>
+J&aacute; no Palco Culin&aacute;ria da Terra, dezenas de artistas populares se apresentaram, entre eles o quarteto As Cantadeiras, a cantora sergipana Val Santos,&nbsp;o mineiro Z&eacute; Pinto, e artistas parceiros, como o grupo Mistura Popular. Foram essas apresenta&ccedil;&otilde;es que mais chamaram a aten&ccedil;&atilde;o de dona Marli Moreira de Sousa, 73 anos, moradora do bairro Butant&atilde; de S&atilde;o Paulo.&nbsp;</p>
 
 <p><br />
 Ela veio para a feira pela primeira vez neste domingo, junto com sua professora e colegas de uma escola de Ensino Fundamental, e j&aacute; planeja voltar na pr&oacute;xima edi&ccedil;&atilde;o. &ldquo;&Eacute; muito bom, porque tem coisas diferentes. O que eu mais gostei foi da diversidade de produtos e dos m&uacute;sicos, porque eu adoro m&uacute;sica. Quero voltar ano que vem, se Deus quiser&rdquo;, afirmou.</p>
@@ -126,7 +126,7 @@ Foto: Matheus Alves</em></figcaption>
 
 <p><br />
 Ainda aconteceu uma confer&ecirc;ncia sobre alimenta&ccedil;&atilde;o saud&aacute;vel, que &eacute; uma das principais propostas do MST dentro do projeto da Reforma Agr&aacute;ria Popular. O objetivo foi ampliar o debate com a popula&ccedil;&atilde;o, aproximando campo e cidade, sobre a necessidade e possibilidades de uma alimenta&ccedil;&atilde;o saud&aacute;vel no prato dos brasileiros.&nbsp;<br />
-A atividade reuniu a chef de cozinha Bel Coelho, o coordenador nacional do MST Jo&atilde;o Pedro St&eacute;dile, a professora do Departamento de Nutri&ccedil;&atilde;o da Faculdade de Sa&uacute;de P&uacute;blica da Universidade de S&atilde;o Paulo, Patr&iacute;cia Jaime, e o Arcebispo de Botucatu, Dom Maur&iacute;cio Grotto. Na ocasi&atilde;o, tamb&eacute;m foi feita uma homenagem ao economista Paul Singer, que faleceu em abril deste ano e foi um dos idealizadores da Economia Solid&aacute;ria.</p>
+A atividade reuniu&nbsp;o coordenador nacional do MST Jo&atilde;o Pedro Stedile, a professora do Departamento de Nutri&ccedil;&atilde;o da Faculdade de Sa&uacute;de P&uacute;blica da Universidade de S&atilde;o Paulo, Patr&iacute;cia Jaime, e o bispo da igreja anglicana&nbsp;Dom Maur&iacute;cio Andrade. Na ocasi&atilde;o, tamb&eacute;m foi feita uma homenagem ao economista Paul Singer, que faleceu em abril deste ano e foi um dos idealizadores da Economia Solid&aacute;ria.</p>
 
 <p><br />
 Ainda durante a confer&ecirc;ncia, foi lida uma carta enviada de Curitiba pelo ex-presidente Luiz In&aacute;cio Lula da Silva, que esteve nas duas primeiras edi&ccedil;&otilde;es da feira nacional. &ldquo;Ela &eacute; uma demonstra&ccedil;&atilde;o para a sociedade, no cora&ccedil;&atilde;o da metr&oacute;pole, do resultado da luta do MST: fam&iacute;lias com uma vida digna no campo e alimentos saud&aacute;veis para a cidade. Mais de 70% do alimento consumido pelo brasileiro vem da agricultura familiar&rdquo;, diz trecho da carta.&nbsp;<br />
