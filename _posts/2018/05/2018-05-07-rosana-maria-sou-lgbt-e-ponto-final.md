@@ -3,7 +3,7 @@ date: "2018-05-07T17:12:57-03:00"
 tags:
   - tag: feira-da-reforma-agrária
   - tag: lgbt
-title: "Rosana Maria: sou LGBT e ponto final"
+title: "Rosana Maria: sou LGBT Sem Terra e ponto final"
 support_line: Assentada pernambucana afirma sua sexualidade sem vergonha de ser feliz
 menu: projeto popular
 special-page: IIIFeira-2018
@@ -19,7 +19,12 @@ files:
     $$hashKey: 04J
 created_date: "2018-05-07T17:17:19-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2017/11/2017-11-04-lgbt-sem-terra-uma-identidade-de-luta.md
+  - _posts/2018/05/2018-05-06-subversiva-a-cerveja-com-sabor-de-feminismo.md
+  - _posts/2018/05/2018-05-05-viajar-pelo-brasil-dentro-da-feira-visitantes-celebram-a-fartura-da-feira-em-sao-paulo.md
+  - _posts/2018/05/2018-05-05-feira-do-mst-reune-milhares-em-conferencia-sobre-alimentacao-saudavel.md
+  - _posts/2018/05/2018-05-05-feira-nacional-debate-politicas-publicas-e-comercializacao-em-seminario.md
 
 ---
 <div style="text-align:center">
