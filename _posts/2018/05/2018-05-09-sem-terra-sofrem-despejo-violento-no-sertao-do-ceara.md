@@ -4,7 +4,7 @@ tags:
   - tag: reintegração-de-posse
   - tag: violência
   - tag: ceará
-title: "Sem Terra sofrem despejo violento no sertão do Ceará "
+title: Sem Terra sofrem despejo violento no Sertão do São Francisco em Pernambuco
 menu: direitos humanos
 support_line: A reintegração de posse dos acampamentos aconteceu a pedido da (CODEVASF) e foi executada pela polícia juntamente com seguranças do projeto de irrigação
 images_hd: //farm1.staticflickr.com/972/40191359530_3cc5547550_b.jpg
