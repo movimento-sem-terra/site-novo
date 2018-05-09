@@ -4,8 +4,8 @@ tags:
   - tag: sem-terrinha
   - tag: educação
   - tag: cultura
-title: MST arrecada livros de literatura infantil para crianças Sem Terrinha
-support_line: "Os livros serão entregues no 1º Encontro Nacional das Crianças Sem Terrinha que acontecerá,\nem Brasília de 28 a 31 de maio"
+title: "MST arrecada livros de literatura infantil "
+support_line: "Os livros serão entregues no 1º Encontro Nacional de Crianças Sem Terrinha, que acontece de 28 a 31\nde maio, em Brasília\n\n"
 images_hd: //farm1.staticflickr.com/953/28127008928_a19f0e8b3e_b.jpg
 menu: "educação, cultura e comunicação"
 layout: post
@@ -49,8 +49,8 @@ releated_posts:
 Da P&aacute;gina do MST</em><br />
 &nbsp;</p>
 
-<p>&ldquo;A import&acirc;ncia de ouvir muitas, muitas hist&oacute;rias, escut&aacute;-las &eacute; o in&iacute;cio da aprendizagem para ser um leitor, e ser leitor &eacute; ter um caminho absolutamente infinito de descoberta e de compreens&atilde;o do mundo&rdquo;, afirmou Fanny Abramovich, escritora infanto-juvenil brasileira em 1994. Com essa linha de reflex&atilde;o sobre as contribui&ccedil;&otilde;es da literatura para a forma&ccedil;&atilde;o humana, o MST realiza a Campanha de Arrecada&ccedil;&atilde;o de Livros de Literatura Infantil, obras que ser&atilde;o distribu&iacute;das no 1&ordm; Encontro Nacional de Crian&ccedil;as Sem Terrinha que ser&aacute; realizado de 28 a 31<br />
-de maio, em Bras&iacute;lia.</p>
+<p>&ldquo;A import&acirc;ncia de ouvir muitas, muitas hist&oacute;rias, escut&aacute;-las &eacute; o in&iacute;cio da aprendizagem para ser um leitor, e ser leitor &eacute; ter um caminho absolutamente infinito de descoberta e de compreens&atilde;o do mundo&rdquo;, afirmou Fanny Abramovich, escritora infanto-juvenil brasileira em 1994. Com essa linha de reflex&atilde;o sobre as contribui&ccedil;&otilde;es da literatura para a forma&ccedil;&atilde;o humana, o MST realiza a Campanha de Arrecada&ccedil;&atilde;o de Livros de Literatura Infantil, obras que ser&atilde;o distribu&iacute;das no 1&ordm; Encontro Nacional de Crian&ccedil;as Sem Terrinha que ser&aacute; realizado&nbsp; 28 a 31<br />
+de maio, em Bras&iacute;lia.de</p>
 
 <p><br />
 O evento contar&aacute; com cerca de 1200 crian&ccedil;as e 400 educadores. Mobilizar crian&ccedil;as de acampamentos e assentamentos do Brasil e proporcionar espa&ccedil;os de socializa&ccedil;&atilde;o do fazer cultural e educativo da Inf&acirc;ncia Sem Terra &eacute; o objetivo do encontro. Momentos de muita festa, brincadeiras e forma&ccedil;&atilde;o est&atilde;o sendo preparados para<br />
@@ -100,7 +100,8 @@ Rua Alameda Bar&atilde;o de Limeira, 1232, Campos El&iacute;sios<br />
 secgeral@mst.org.br<br />
 Fone: (11) 21310850</p>
 
-<p>Pelos Correios:<br />
+<p><strong>Pelos Correios:</strong><br />
+<br />
 Escrit&oacute;rio Nacional MST Bras&iacute;lia<br />
 SCS &ndash; Quadra 6, Bloco A &ndash; 110 Ed. Arnaldo Villares, Sala 211<br />
 CEP: 70324900 Fone: (61)3226-0273<br />
