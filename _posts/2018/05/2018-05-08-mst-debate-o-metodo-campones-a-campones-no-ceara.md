@@ -42,7 +42,7 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p><em>Por Lia Pinheiro e&nbsp;Peter Rosser<br />
+<p><em>Por Lia Pinheiro e&nbsp;Peter Rosset<br />
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
