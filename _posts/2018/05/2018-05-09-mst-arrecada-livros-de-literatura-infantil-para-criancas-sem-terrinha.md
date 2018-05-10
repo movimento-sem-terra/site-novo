@@ -53,18 +53,20 @@ Da P&aacute;gina do MST</em><br />
 de maio, em Bras&iacute;lia.de</p>
 
 <p><br />
-O evento contar&aacute; com cerca de 1200 crian&ccedil;as e 400 educadores. Mobilizar crian&ccedil;as de acampamentos e assentamentos do Brasil e proporcionar espa&ccedil;os de socializa&ccedil;&atilde;o do fazer cultural e educativo da Inf&acirc;ncia Sem Terra &eacute; o objetivo do encontro. Momentos de muita festa, brincadeiras e forma&ccedil;&atilde;o est&atilde;o sendo preparados para<br />
-receber a garotada.</p>
+O evento contar&aacute; com cerca de 1200 crian&ccedil;as e 400 educadores. O objetivo principal &eacute; mobilizar crian&ccedil;as de acampamentos e assentamentos do Brasil e proporcionar espa&ccedil;os de socializa&ccedil;&atilde;o do fazer cultural e educativo da Inf&acirc;ncia Sem Terra. Momentos de muita festa, brincadeiras e forma&ccedil;&atilde;o est&atilde;o sendo preparados parareceber a garotada.</p>
 
 <p><br />
-Para fortalecer o h&aacute;bito da leitura e difus&atilde;o da literatura infantil, o Movimento tamb&eacute;m realiza a arrecada&ccedil;&atilde;o de produ&ccedil;&otilde;es liter&aacute;rias para as crian&ccedil;as. O MST esta recebendo livros novos ou seminovos. As obras solicitadas s&atilde;o oito especificadas e embarcam hist&oacute;rias como Meus contos africanos de Nelson Mandela e Sai pr&aacute; l&aacute;, dedo duro! da escritora Fanny Abramovich.</p>
+Para fortalecer o h&aacute;bito da leitura e difus&atilde;o da literatura infantil, o Movimento tamb&eacute;m realiza a arrecada&ccedil;&atilde;o de produ&ccedil;&otilde;es liter&aacute;rias para as crian&ccedil;as. As obras solicitadas incluem &#39;Meus contos africanos&#39; de Nelson Mandela e &#39;Sai pr&aacute; l&aacute;, dedo duro!&#39; da escritora Fanny Abramovich.</p>
 
 <p><br />
-Os pontos de recolhimento das doa&ccedil;&otilde;es est&atilde;o nos escrit&oacute;rios nacionais do MST em S&atilde;o Paulo, Rio de Janeiro e Bras&iacute;lia. Quem &eacute; de outro estado poder&aacute; enviar pelos Correios para o ponto na capital. A campanha seguir&aacute; at&eacute; o dia 21 de maio.</p>
+Os pontos de recolhimento das doa&ccedil;&otilde;es est&atilde;o nos escrit&oacute;rios nacionais do MST em S&atilde;o Paulo, Rio de Janeiro e Bras&iacute;lia. Quem &eacute; de outro estado poder&aacute; enviar tamb&eacute;m enviar pelos Correios. A campanha seguir&aacute; at&eacute; o dia 21 de maio.</p>
 
 <p><br />
-Para n&oacute;s pensarmos esse lugar da inf&acirc;ncia, com a literatura e a dimens&atilde;o pol&iacute;tica faz parte de todo um projeto educativo. A escolha de livros cr&iacute;ticos que permitam que as crian&ccedil;as pensem sobre o mundo &eacute; fundamental&amp;quot; afirma M&aacute;rcia Ramos do Coletivo Nacional de Educa&ccedil;&atilde;o do MST. Na perspectiva de que Reforma Agr&aacute;ria Popular n&atilde;o pode ser constru&iacute;da sem as crian&ccedil;as, M&aacute;rcia acredita que a literatura se apresenta como ferramenta para<br />
-fortalecer a criticidade, o exerc&iacute;cio do pensar e de participa&ccedil;&atilde;o de crian&ccedil;as como sujeitos hist&oacute;ricos e direitos no movimento. Em 2017, o MST mobilizou mais de 10 mil crian&ccedil;as nesse processo educativo nacionalmente.</p>
+Na perspectiva de que Reforma Agr&aacute;ria Popular n&atilde;o pode ser constru&iacute;da sem as crian&ccedil;as, M&aacute;rcia Ramos do coletivo nacional de educa&ccedil;&atilde;o do MST,&nbsp;acredita que a literatura se apresenta como ferramenta para fortalecer a criticidade, o exerc&iacute;cio do pensar e de participa&ccedil;&atilde;o de crian&ccedil;as como sujeitos hist&oacute;ricos e direitos no movimento.<br />
+<br />
+&quot;Para n&oacute;s pensarmos esse lugar da inf&acirc;ncia, com a literatura e a dimens&atilde;o pol&iacute;tica faz parte de todo um projeto educativo. A escolha de livros cr&iacute;ticos que permitam que as crian&ccedil;as pensem sobre o mundo &eacute; fundamental&quot;,&nbsp;afirma.</p>
+
+<p>Em 2017, o MST mobilizou mais de 10 mil crian&ccedil;as nesse processo educativo nacionalmente.</p>
 
 <p><br />
 <strong>Conhe&ccedil;a os livros solicitados para o 1&ordm; Encontro Nacional das Crian&ccedil;as Sem Terrinha:</strong></p>
