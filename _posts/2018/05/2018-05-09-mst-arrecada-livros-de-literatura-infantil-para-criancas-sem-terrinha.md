@@ -60,7 +60,7 @@ receber a garotada.</p>
 Para fortalecer o h&aacute;bito da leitura e difus&atilde;o da literatura infantil, o Movimento tamb&eacute;m realiza a arrecada&ccedil;&atilde;o de produ&ccedil;&otilde;es liter&aacute;rias para as crian&ccedil;as. O MST esta recebendo livros novos ou seminovos. As obras solicitadas s&atilde;o oito especificadas e embarcam hist&oacute;rias como Meus contos africanos de Nelson Mandela e Sai pr&aacute; l&aacute;, dedo duro! da escritora Fanny Abramovich.</p>
 
 <p><br />
-Os pontos de recolhimento das doa&ccedil;&otilde;es est&atilde;o nos escrit&oacute;rios nacionais do MST em S&atilde;o Paulo, Rio de Janeiro e Bras&iacute;lia. Quem &eacute; de outro estado, poder&aacute; enviar pelos Correios para o ponto na capital. A campanha seguir&aacute; at&eacute; o dia 21 de maio.</p>
+Os pontos de recolhimento das doa&ccedil;&otilde;es est&atilde;o nos escrit&oacute;rios nacionais do MST em S&atilde;o Paulo, Rio de Janeiro e Bras&iacute;lia. Quem &eacute; de outro estado poder&aacute; enviar pelos Correios para o ponto na capital. A campanha seguir&aacute; at&eacute; o dia 21 de maio.</p>
 
 <p><br />
 Para n&oacute;s pensarmos esse lugar da inf&acirc;ncia, com a literatura e a dimens&atilde;o pol&iacute;tica faz parte de todo um projeto educativo. A escolha de livros cr&iacute;ticos que permitam que as crian&ccedil;as pensem sobre o mundo &eacute; fundamental&amp;quot; afirma M&aacute;rcia Ramos do Coletivo Nacional de Educa&ccedil;&atilde;o do MST. Na perspectiva de que Reforma Agr&aacute;ria Popular n&atilde;o pode ser constru&iacute;da sem as crian&ccedil;as, M&aacute;rcia acredita que a literatura se apresenta como ferramenta para<br />
@@ -104,6 +104,6 @@ Fone: (11) 21310850</p>
 <br />
 Escrit&oacute;rio Nacional MST Bras&iacute;lia<br />
 SCS &ndash; Quadra 6, Bloco A &ndash; 110 Ed. Arnaldo Villares, Sala 211<br />
-CEP: 70324900 Fone: (61)3226-0273<br />
+CEP: 70324900 Fone: (61) 3226-0273<br />
 (A/C: Encontro Nacional das Crian&ccedil;as Sem Terrinha).<br />
 escnacional.bsb@gmail.com</p>
