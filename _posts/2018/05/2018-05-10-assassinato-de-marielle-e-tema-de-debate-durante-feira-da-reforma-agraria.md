@@ -32,7 +32,7 @@ releated_posts:
 
 <p dir="ltr">&nbsp;</p>
 
-<p dir="ltr"><em style="box-sizing: inherit; color: rgb(85, 85, 85); font-family: Helvetica, Arial, sans-serif; font-size: 17.6px;">Por&nbsp;<br style="box-sizing: inherit;" />
+<p dir="ltr"><em style="box-sizing: inherit; color: rgb(85, 85, 85); font-family: Helvetica, Arial, sans-serif; font-size: 17.6px;">Por Mariana Pitasse<br style="box-sizing: inherit;" />
 Do Brasil de Fato&nbsp;</em></p>
 
 <p dir="ltr">&nbsp;</p>
