@@ -50,7 +50,7 @@ Da P&aacute;gina do MST</em><br />
 &nbsp;</p>
 
 <p>&ldquo;A import&acirc;ncia de ouvir muitas, muitas hist&oacute;rias, escut&aacute;-las &eacute; o in&iacute;cio da aprendizagem para ser um leitor, e ser leitor &eacute; ter um caminho absolutamente infinito de descoberta e de compreens&atilde;o do mundo&rdquo;, afirmou Fanny Abramovich, escritora infanto-juvenil brasileira em 1994. Com essa linha de reflex&atilde;o sobre as contribui&ccedil;&otilde;es da literatura para a forma&ccedil;&atilde;o humana, o MST realiza a Campanha de Arrecada&ccedil;&atilde;o de Livros de Literatura Infantil, obras que ser&atilde;o distribu&iacute;das no 1&ordm; Encontro Nacional de Crian&ccedil;as Sem Terrinha que ser&aacute; realizado&nbsp; 28 a 31<br />
-de maio, em Bras&iacute;lia.de</p>
+de maio, em Bras&iacute;lia.</p>
 
 <p><br />
 O evento contar&aacute; com cerca de 1200 crian&ccedil;as e 400 educadores. O objetivo principal &eacute; mobilizar crian&ccedil;as de acampamentos e assentamentos do Brasil e proporcionar espa&ccedil;os de socializa&ccedil;&atilde;o do fazer cultural e educativo da Inf&acirc;ncia Sem Terra. Momentos de muita festa, brincadeiras e forma&ccedil;&atilde;o est&atilde;o sendo preparados parareceber a garotada.</p>
@@ -86,21 +86,37 @@ Na perspectiva de que Reforma Agr&aacute;ria Popular n&atilde;o pode ser constru
 <p><strong>Pontos de arrecada&ccedil;&atilde;o:</strong></p>
 
 <p><br />
-Escrit&oacute;rio Nacional MST Bras&iacute;lia<br />
+<strong>Escrit&oacute;rio Nacional MST Bras&iacute;lia</strong><br />
 SCS &ndash; Quadra 6, Bloco A &ndash; 110 Ed. Arnaldo Villares, Sala 211<br />
 (A/C: Encontro Nacional das Crian&ccedil;as Sem Terrinha).<br />
 escnacional.bsb@gmail.com<br />
 Fone: (61)3226-0273</p>
 
-<p>Escrit&oacute;rio Nacional MST Rio de Janeiro<br />
+<p><strong>Escrit&oacute;rio Nacional MST Rio de Janeiro</strong><br />
 Rua Sete de Setembro, 223, sala 301, Centro.<br />
 escritoriorj@mst.org.br<br />
 Fone: (21) 22408496</p>
 
-<p>Secretaria Nacional MST S&atilde;o Paulo<br />
+<p><br />
+<strong>Secretaria Nacional MST S&atilde;o Paulo</strong><br />
 Rua Alameda Bar&atilde;o de Limeira, 1232, Campos El&iacute;sios<br />
 secgeral@mst.org.br<br />
 Fone: (11) 21310850</p>
+
+<p><br />
+<strong>Secretaria Estadual de Santa Catarina</strong><br />
+<a href="https://maps.google.com/?q=Rua+Montevideo,+n%C2%BA+2135&amp;entry=gmail&amp;source=g">Rua Montevideo, n&ordm; 2135</a>&nbsp;D - Passo dos Fortes &ndash; Chapec&oacute; (SC)<br />
+Fone: 49. 3329-6400 &ndash; Correio Eletr&ocirc;nico:&nbsp;<a href="mailto:secretariamst.sc@gmail.com" target="_blank">secretariamst.sc@gmail.com</a></p>
+
+<p><br />
+<strong>Secretaria Estadual de Goi&aacute;s</strong><br />
+Rua Desembargador M&aacute;rio Caiado, Quadra 2 lote 4, n&uacute;mero 135 - Setor Crimeia Leste Goi&acirc;nia (GO) - Fones: 62. 3877-7647/ 99690-8750</p>
+
+<p><br />
+<strong>Cear&aacute;</strong><br />
+Centro de Forma&ccedil;&atilde;o Frei Humberto<br />
+<a href="https://maps.google.com/?q=Rua+Paulo+Firmeza+445,+Bairro+S%C3%A3o+Jo%C3%A3o+do+Tauape+%E2%80%93+Fortaleza+(CE&amp;entry=gmail&amp;source=g">Rua Paulo Firmeza 445, Bairro S&atilde;o Jo&atilde;o do Tauape &ndash; Fortaleza (CE</a>)<br />
+Fones: 85. 3257-5630/ 99918-1648</p>
 
 <p><strong>Pelos Correios:</strong><br />
 <br />
