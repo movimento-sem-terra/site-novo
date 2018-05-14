@@ -7,7 +7,7 @@ tags:
 title: "Feira Nacional da Reforma Agrária atrai 260 mil pessoas em São Paulo "
 support_line: A terceira edição do evento realizado ofereceu à população 240 toneladas de alimentos saudáveis
 menu: reforma agrária
-section: cover
+section: featured-news
 special-page: IIIFeira-2018
 images_hd: //farm1.staticflickr.com/965/40128824950_2616ab49f0_b.jpg
 layout: post
