@@ -4,7 +4,7 @@ tags:
   - tag: reforma-agrária
   - tag: lutas-e-mobilizações
   - tag: mst
-title: "Carta ao povo brasileiro "
+title: "Carta do MST ao povo brasileiro "
 menu: reforma agrária
 support_line: "Este momento exige das forças progressistas unidade na ação e esforço em construir um Projeto Popular para o Brasil, capaz de enfrentar os problemas estruturais de nosso país"
 images_hd: //farm1.staticflickr.com/944/27198233997_b8da1b4769_b.jpg
@@ -29,6 +29,7 @@ releated_posts:
   - _posts/2018/04/2018-04-18-pelo-programa-campones-via-campesina-ocupa-sdr-em-porto-alegre-rs.md
   - _posts/2018/04/2018-04-18-jornada-nacional-mira-golpistas-em-dia-internacional-de-lutas-camponesas.md
   - _posts/2018/04/2018-04-24-levante-campones-ajuda-a-vencer-barreiras-e-leva-governos-a-negociar-pauta-de-reivindicacoes.md
+section: cover
 
 ---
 <p>&nbsp;</p>
