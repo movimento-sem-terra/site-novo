@@ -59,4 +59,4 @@ S&atilde;o mais de 40 edi&ccedil;&otilde;es que servem como instrumento de forma
 
 <p>&nbsp;</p>
 
-<p>Para ver algumas capas hist&oacute;ricas do Jornal Sem Terra, clique aqui.&nbsp;</p>
+<p>Para ver algumas capas hist&oacute;ricas do Jornal Sem Terra, clique <a href="https://www.facebook.com/pg/MovimentoSemTerra/photos/?tab=album&amp;album_id=2054650191274351">aqui</a>.&nbsp;</p>
