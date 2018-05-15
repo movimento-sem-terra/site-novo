@@ -4,7 +4,7 @@ tags:
   - tag: cultura
   - tag: feira-da-reforma-agrária
   - tag: agroecologia
-title: "Acompanhe a produção audiovisual realizada durante a III Feira Nacional da Reforma Agrária "
+title: "Acompanhe os vídeos realizados durante a III Feira Nacional da Reforma Agrária "
 menu: "educação, cultura e comunicação"
 images_hd: //farm1.staticflickr.com/950/41320318304_1cca8eeb6a_b.jpg
 support_line: "Reveja os vídeos e fique por dentro de tudo o que rolou nesse quatro dias no Parque da Água Branca, em São Paulo "
@@ -57,3 +57,7 @@ Para ver os vlogs criados durante o evento, clique <a href="https://www.youtube.
 <p><iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/OgkTyLr8TSw" width="640"></iframe></p>
 
 <p>&nbsp;</p>
+
+<p>Quer ver quem visitou a feira? Clique <a href="https://www.youtube.com/watch?v=QRDkwlZBjXg&amp;list=PLs_FebLgno7a1Ls2OOovU4MPHUcompI0B&amp;index=34">aqui</a>.&nbsp;</p>
+
+<p><iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/Ko84LCw8SHA" width="640"></iframe></p>
