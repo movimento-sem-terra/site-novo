@@ -18,6 +18,13 @@ files:
     small: //farm1.staticflickr.com/912/42086588482_d5b17ce049_n.jpg
     title: WhatsApp Image 2018-05-14 at 17.44.50.jpeg
     $$hashKey: 0P7
+  - link: //farm1.staticflickr.com/970/42133919931_a286ce48d8_b.jpg
+    original: //farm1.staticflickr.com/970/42133919931_a9f8e6365f_o.jpg
+    thumbnail: //farm1.staticflickr.com/970/42133919931_a286ce48d8_t.jpg
+    medium: //farm1.staticflickr.com/970/42133919931_a286ce48d8_z.jpg
+    small: //farm1.staticflickr.com/970/42133919931_a286ce48d8_n.jpg
+    title: WhatsApp Image 2018-05-14 at 16.48.39.jpeg
+    $$hashKey: 1TI
 created_date: "2018-05-15T15:20:57-03:00"
 published: true
 releated_posts:
@@ -31,6 +38,8 @@ releated_posts:
   - _posts/2018/02/2018-02-05-intervozes-e-reporteres-sem-fronteiras-lancam-pesquisa-sobre-proprietarios-de-midia-no-brasil.md
 
 ---
+<p style="text-align:center"><img alt="WhatsApp Image 2018-05-14 at 16.48.39.jpeg" height="824" src="//farm1.staticflickr.com/970/42133919931_a286ce48d8_b.jpg" width="500" /></p>
+
 <p>&nbsp;</p>
 
 <p><em>Da P&aacute;gina do MST&nbsp;</em></p>
