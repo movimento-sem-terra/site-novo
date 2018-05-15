@@ -42,9 +42,10 @@ releated_posts:
 ---
 <p>&nbsp;</p>
 
-<p><em>Por Maura Silva*</em></p>
+<p><em style="box-sizing: inherit;">Por Maura Silva *<br style="box-sizing: inherit;" />
+Para Revista Di&aacute;spora</em></p>
 
-<p>&nbsp;</p>
+<p style="box-sizing: inherit; margin: 0px 0px 11px; font-size: 1.1em; color: rgb(85, 85, 85); font-family: Helvetica, Arial, sans-serif;">&nbsp;</p>
 
 <p>Era 14 de maio de 1948 quando o presidente da Ag&ecirc;ncia Judaica David Ben-Gurion proclamou em Tel Aviv o Estado de Israel. Assim, o primeiro Estado judeu foi estabelecido em dois mil anos.</p>
 
