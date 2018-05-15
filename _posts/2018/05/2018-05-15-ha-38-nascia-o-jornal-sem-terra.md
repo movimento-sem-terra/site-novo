@@ -5,7 +5,7 @@ tags:
   - tag: mst
   - tag: reforma-agrária
   - tag: comunicação
-title: "Há 38 nascia o Jornal Sem Terra "
+title: "Há 38 anos nascia o Jornal Sem Terra "
 images_hd: //farm1.staticflickr.com/912/42086588482_d5b17ce049_b.jpg
 support_line: "Num momento de nacionalização do Movimento, o jornal se tornou um dos principais instrumentos articuladores de formação política"
 menu: "educação, cultura e comunicação"
