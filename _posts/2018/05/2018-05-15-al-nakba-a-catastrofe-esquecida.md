@@ -4,7 +4,7 @@ tags:
   - tag: palestina
   - tag: nakba
   - tag: solidariedade-internacional
-title: "Al Nakba a catástrofe esquecida "
+title: "Al Nakba: a catástrofe esquecida "
 support_line: "Não é coincidência a criação do Estado de Israel ser relacionada a uma catástrofe, afinal de contas, essa é a palavra que melhor define sua trajetória desde então"
 menu: solidariedade
 label: articles
