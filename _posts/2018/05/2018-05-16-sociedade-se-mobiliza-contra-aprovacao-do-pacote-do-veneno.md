@@ -5,7 +5,7 @@ tags:
   - tag: veneno
   - tag: bancada-ruralista
 title: "Sociedade se mobiliza contra aprovação do Pacote do Veneno\n\n"
-support_line: "Bancada ruralista apensa 27 projetos de lei para impor de uma só vez mudanças bruscas em relação aos agrotóxicos\n\n"
+support_line: "Bancada ruralista apensa 27 projetos de lei para impor de uma só vez mudanças bruscas em relação aos agrotóxicos.\n\n"
 menu: agronegócio
 images_hd: //farm1.staticflickr.com/967/27281546717_e8d6fe8caa_b.jpg
 layout: post
@@ -25,13 +25,18 @@ releated_posts:
   - _posts/2017/12/2017-12-09-agrotoxicos-como-arma-quimica-a-permanente-guerra-agraria-no-brasil.md
   - _posts/2017/12/2017-12-18-agronegocio-do-ceara-tenta-calar-pesquisador-que-usou-veneno-em-vez-de-defensivo-agricola.md
   - _posts/2017/09/2017-09-18-pacote-do-veneno-e-denunciado-por-militantes-da-agroecologia.md
+section: cover
 
 ---
-<p><br />
-<em>Da P&aacute;gina do MST</em></p>
+<p>&nbsp;</p>
 
-<p><br />
-Nesta quarta-feira (16) ser&aacute; votado em uma comiss&atilde;o especial na C&acirc;mara dos Deputados o Pacote do Veneno, formulado pela bancada ruralista como apensamento de 27 projetos anteriores que tratam de mudan&ccedil;as nas regras sobre os agrot&oacute;xicos.</p>
+<p>&nbsp;</p>
+
+<p><em>Da P&aacute;gina do MST</em></p>
+
+<p>&nbsp;</p>
+
+<p>Nesta quarta-feira (16) ser&aacute; votado em uma comiss&atilde;o especial na C&acirc;mara dos Deputados o Pacote do Veneno, formulado pela bancada ruralista como apensamento de 27 projetos anteriores que tratam de mudan&ccedil;as nas regras sobre os agrot&oacute;xicos.</p>
 
 <p><br />
 &Eacute; um pacote que altera temas na legisla&ccedil;&atilde;o sobre a pesquisa, a experimenta&ccedil;&atilde;o, a produ&ccedil;&atilde;o, o registro, a embalagem e rotulagem, o transporte, o armazenamento, a comercializa&ccedil;&atilde;o, a propaganda comercial, a utiliza&ccedil;&atilde;o, a importa&ccedil;&atilde;o, a exporta&ccedil;&atilde;o, o destino final dos res&iacute;duos e embalagens, a classifica&ccedil;&atilde;o, o controle, a inspe&ccedil;&atilde;o e a fiscaliza&ccedil;&atilde;o de agrot&oacute;xicos. Tudo emplacado de uma s&oacute; vez no PL 6299/02.</p>
