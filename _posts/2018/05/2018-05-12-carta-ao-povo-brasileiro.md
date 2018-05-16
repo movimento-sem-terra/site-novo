@@ -29,7 +29,7 @@ releated_posts:
   - _posts/2018/04/2018-04-18-pelo-programa-campones-via-campesina-ocupa-sdr-em-porto-alegre-rs.md
   - _posts/2018/04/2018-04-18-jornada-nacional-mira-golpistas-em-dia-internacional-de-lutas-camponesas.md
   - _posts/2018/04/2018-04-24-levante-campones-ajuda-a-vencer-barreiras-e-leva-governos-a-negociar-pauta-de-reivindicacoes.md
-section: cover
+section: featured-news
 
 ---
 <p>&nbsp;</p>
