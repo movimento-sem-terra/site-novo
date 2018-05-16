@@ -55,7 +55,7 @@ Da P&aacute;gina do MST</em></p>
 <p><br />
 Ap&oacute;s tr&ecirc;s dias de negocia&ccedil;&atilde;o os integrantes do MST&nbsp;desocupam na manh&atilde; desta quarta feira (16)&nbsp;a sede do Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra) em Imperatriz, no Maranh&atilde;o. O MST avalia como positivo o espa&ccedil;o de discuss&atilde;o sobre a situa&ccedil;&atilde;o da Reforma Agr&aacute;ria no Maranh&atilde;o, mas v&ecirc; muita lentid&atilde;o na resolu&ccedil;&atilde;o dos impasses. Nova rodada de negocia&ccedil;&atilde;o ser&aacute; no in&iacute;cio de junho.<br />
 <br />
-Durante todo o dia desta ter&ccedil;a-feira (15), trabalhadores rurais de quinse&nbsp;acampamentos e assentamentos do sudoeste do Maranh&atilde;o que ocupavam a sede do Incra em Imperatriz, participaram de uma grande audi&ecirc;ncia com a Superintend&ecirc;ncia Regional do &oacute;rg&atilde;o no estado. De forma geral os trabalhadores cobraram do Incra mais compromisso e agilidade na conclus&atilde;o de processos de desapropria&ccedil;&atilde;o de &aacute;reas para reforma agr&aacute;ria e empenho para evitar despejos de comunidades com reintegra&ccedil;&atilde;o de posse.</p>
+Durante todo o dia desta ter&ccedil;a-feira (15), trabalhadores rurais de quinze&nbsp;acampamentos e assentamentos do sudoeste do Maranh&atilde;o que ocupavam a sede do Incra em Imperatriz, participaram de uma grande audi&ecirc;ncia com a Superintend&ecirc;ncia Regional do &oacute;rg&atilde;o no estado. De forma geral os trabalhadores cobraram do Incra mais compromisso e agilidade na conclus&atilde;o de processos de desapropria&ccedil;&atilde;o de &aacute;reas para Reforma Agr&aacute;ria e empenho para evitar despejos de comunidades com reintegra&ccedil;&atilde;o de posse.</p>
 
 <p><br />
 Organizada pelo MST&nbsp;e pelo Sindicato dos Trabalhadores e Trabalhadoras Rurais de A&ccedil;ail&acirc;ndia a pauta em debate ontem, foi entregue ao Superintendente do &Oacute;rg&atilde;o, George Arag&atilde;o, ainda no in&iacute;cio do m&ecirc;s de maio. Na ocasi&atilde;o a superintend&ecirc;ncia pediu quinze&nbsp;dias an&aacute;lise das reivindica&ccedil;&otilde;es.</p>
@@ -81,10 +81,7 @@ Na quest&atilde;o das infraestruturas para os assentamentos o impasse principal 
 <strong>Mobiliza&ccedil;&atilde;o permanente</strong></p>
 
 <p><br />
-&ldquo;O Incra ser&aacute; desocupado, mas voltaremos sempre que preciso at&eacute; se avan&ccedil;ar na reforma agr&aacute;ria na<br />
-regi&atilde;o&rdquo; discursa para os trabalhadores Arlando Diniz do Assentamento Cip&oacute; Cortado de Senador La<br />
-Roque. A frase a cima reflete o desejo de todas as comunidades presentes. Na proposta da coordena&ccedil;&atilde;o do<br />
-MST e do STTR de A&ccedil;ail&acirc;ndia &eacute; de luta permanente.</p>
+&ldquo;O Incra ser&aacute; desocupado, mas voltaremos sempre que preciso at&eacute; se avan&ccedil;ar na reforma agr&aacute;ria na regi&atilde;o&rdquo; discursa para os trabalhadores Arlando Diniz do Assentamento Cip&oacute; Cortado de Senador La Roque. A frase a cima reflete o desejo de todas as comunidades presentes. Na proposta da coordena&ccedil;&atilde;o do MST e do STTR de A&ccedil;ail&acirc;ndia &eacute; de luta permanente.</p>
 
 <p><br />
-Uma nova rodada de negocia&ccedil;&atilde;o ficou definida para o dia 05 de junho, na mesma unidade do &oacute;rg&atilde;o. Os trabalhadores rurais prometem voltar mais afinados e mais fortes.</p>
+Uma nova rodada de negocia&ccedil;&atilde;o ficou definida para o dia 5 de junho, na mesma unidade do &oacute;rg&atilde;o. Os trabalhadores rurais prometem voltar mais afinados e mais fortes.</p>
