@@ -52,7 +52,7 @@ releated_posts:
 <strong>Do Boletim ao Jornal Sem Terra</strong></p>
 
 <p><br />
-A comunica&ccedil;&atilde;o sempre foi base para o Movimento, uma de nossas ferramentas mais raras e importantes, prova disso &eacute; a exist&ecirc;ncia do boletim Sem Terra que sempre existiu, como uma ferramenta de aglutina&ccedil;&atilde;o interna, uma esp&eacute;cie de informe sobre os debates e decis&otilde;es tomadas pelo grupo</p>
+A comunica&ccedil;&atilde;o sempre foi base para o Movimento, uma de nossas ferramentas mais raras e importantes, prova disso &eacute; a exist&ecirc;ncia do boletim Sem Terra criado j&aacute; em 1980, como uma ferramenta de aglutina&ccedil;&atilde;o interna, uma esp&eacute;cie de informe sobre os debates e decis&otilde;es tomadas pelo grupo</p>
 
 <p><br />
 A partir de 1984 com a consolida&ccedil;&atilde;o do MST, o boletim vira Jornal Sem Terra. Muda o formato, a amplitude, o editorial e os objetivos. Num momento de nacionaliza&ccedil;&atilde;o do Movimento, o jornal se tornou&nbsp;um dos principais instrumentos articuladores de forma&ccedil;&atilde;o pol&iacute;tica.</p>
@@ -64,7 +64,7 @@ A comunica&ccedil;&atilde;o do MST &eacute; uma a&ccedil;&atilde;o pol&iacute;ti
 H&aacute; mais de tr&ecirc;s d&eacute;cadas o jornal Sem Terra contribui para a organiza&ccedil;&atilde;o do Movimento e para a consci&ecirc;ncia cr&iacute;tica dos seus militantes. Ganhou pr&ecirc;mios e men&ccedil;&otilde;es honrosas, entre eles a edi&ccedil;&atilde;o do Pr&ecirc;mio Vladimir Herzog de Anistia dos Direitos Humanos, um dos mais importantes do pa&iacute;s.</p>
 
 <p><br />
-S&atilde;o mais de 40 edi&ccedil;&otilde;es que servem como instrumento de forma&ccedil;&atilde;o, organiza&ccedil;&atilde;o e proje&ccedil;&atilde;o da classe trabalhadora.</p>
+S&atilde;o centenas de edi&ccedil;&otilde;es que servem como instrumento de forma&ccedil;&atilde;o, organiza&ccedil;&atilde;o e proje&ccedil;&atilde;o da classe trabalhadora.</p>
 
 <p>&nbsp;</p>
 
