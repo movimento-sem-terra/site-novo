@@ -4,7 +4,7 @@ tags:
   - tag: pará
   - tag: direitos-humanos
   - tag: ameaça
-title: "No Pará, advogado e militante histórico ameaçado de morte"
+title: "No Pará, advogado e militante histórico é ameaçado de morte"
 support_line: Entidade emitem nota conjunta denunciando ameaças a Rivelino Zarpellon
 menu: direitos humanos
 images_hd: //farm1.staticflickr.com/971/27301469277_d897b0c991_b.jpg
