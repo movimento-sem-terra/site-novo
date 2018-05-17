@@ -25,7 +25,7 @@ releated_posts:
   - _posts/2017/12/2017-12-09-agrotoxicos-como-arma-quimica-a-permanente-guerra-agraria-no-brasil.md
   - _posts/2017/12/2017-12-18-agronegocio-do-ceara-tenta-calar-pesquisador-que-usou-veneno-em-vez-de-defensivo-agricola.md
   - _posts/2017/09/2017-09-18-pacote-do-veneno-e-denunciado-por-militantes-da-agroecologia.md
-section: cover
+section: featured-news
 
 ---
 <p>&nbsp;</p>
