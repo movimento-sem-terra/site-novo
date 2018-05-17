@@ -39,7 +39,7 @@ Nesta quinta-feira (17) celebra-se o Dia Internacional Contra a Homofobia. Essa 
 Em todo o mundo, milhares de pessoas manifesta&ccedil;&otilde;es e atos de combate viol&ecirc;ncia contra pessoas por identidade de g&ecirc;nero e/ou orienta&ccedil;&atilde;o sexual.&nbsp;</p>
 
 <p><br />
-No Brasil, o pa&iacute;s que mais mata LGBTs em todo mundo - um a cada 19 horas segundo relat&oacute;rio do Grupo Gay da Bahia (GGB) - entidades se uniram em uma manifesto para pedir pela igualdade e o fim da viol&ecirc;ncia. O texto tamb&eacute;m ressalta que: a comunidade LGBTI &eacute;&nbsp;igualmente atingidos pelas consequ&ecirc;ncias de um cen&aacute;rio mundial de agravamento da crise do capitalismo e aprofundamento dos ataques do grande capital aos direitos sociais e a classe trabalhadora, e de um recrudescimento do conservadorismos atrav&eacute;s dos machismos, racismos, lgbtqifobia, xenofobia e de outras formas correlatas da intoler&acirc;ncia&quot;.</p>
+No Brasil, o pa&iacute;s que mais mata LGBTs em todo mundo - um a cada 19 horas segundo relat&oacute;rio do Grupo Gay da Bahia (GGB) - entidades se uniram em uma manifesto para pedir pela igualdade e o fim da viol&ecirc;ncia. O texto tamb&eacute;m ressalta que: &quot;a comunidade LGBTI &eacute;&nbsp;igualmente atingida&nbsp;pelas consequ&ecirc;ncias de um cen&aacute;rio mundial de agravamento da crise do capitalismo e aprofundamento dos ataques do grande capital aos direitos sociais e a classe trabalhadora, e de um recrudescimento do conservadorismos atrav&eacute;s dos machismos, racismos, lgbtqifobia, xenofobia e de outras formas correlatas da intoler&acirc;ncia&quot;.</p>
 
 <p><br />
 <strong>Acompanhe:</strong></p>
