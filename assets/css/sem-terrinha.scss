@@ -1,0 +1,111 @@
+---
+---
+
+@import "../bourbon/bourbon";
+@import "../neat/neat";
+@import "../_sass/variables";
+@import "../_sass/_includes/mixins";
+
+.encontro-semterrinha .main-picture {
+  background-image: url(//farm1.staticflickr.com/981/28324794088_927a7d0b5a_b.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+
+  @include media($desktop){
+    justify-content: space-between;
+  }
+}
+
+.encontro-semterrinha .responsive-image {
+  width: auto;
+  align-self: flex-end;
+}
+
+.encontro-semterrinha .responsive-image.criancas {
+  display: none;
+
+  @include media($desktop){
+    display: block;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    max-height: 640px;
+    width: 40vw;
+    max-width: 580px;
+ }
+}
+
+.encontro-semterrinha .responsive-image.logo {
+  width: 100%;
+  align-self: center;
+  max-width: 500px;
+
+  @include media($desktop){
+    width: auto;
+    margin: 80px;
+    align-self: flex-start;
+    display: none;
+  }
+}
+
+#special.encontro-semterrinha #information {
+  font-size: 1.7em;
+  padding: 0;
+
+  .content {
+    justify-content: center;
+  }
+
+  .content span {
+    text-shadow: 1px 2px 1px #000000;
+    font-family: 'KGMissKindergarten.tff';
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 1.2em;
+    align-self: center;
+  }
+}
+
+.encontro-semterrinha #description {
+  margin-top: 30px;
+
+  .content p {
+    line-height: 1.6;
+    margin-bottom: 20px;
+  }
+}
+
+.encontro-semterrinha .youtube-playlist {
+  background-color: #E1D7CC;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 15px;
+}
+
+.encontro-semterrinha .album-de-fotos {
+  background-color: #E1D7CC;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  margin-top: 15px;
+}
+
+figcaption {
+  font-style: italic;
+  margin: 1%;
+}
+.header-title{
+  font-size: 2.7em;
+  margin: 0;
+}

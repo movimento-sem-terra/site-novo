@@ -1,0 +1,6 @@
+---
+layout: null
+---
+
+{% assign posts = site.posts  | where: "special-page", "women-2017" %}
+{% include posts.json posts=posts %}
