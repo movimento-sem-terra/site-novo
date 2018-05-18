@@ -24,7 +24,7 @@ releated_posts:
   - _posts/2018/01/2018-01-30-livro-sobre-diversidade-sexual-e-genero-no-brasil-e-lancado-em-sp.md
   - _posts/2017/11/2017-11-04-lgbt-sem-terra-uma-identidade-de-luta.md
   - _posts/2017/12/2017-12-20-lgbts-sem-terra-realizam-assembleia-encontro-estadual-no-ceara.md
-section: cover
+section: featured-news
 
 ---
 <div>
