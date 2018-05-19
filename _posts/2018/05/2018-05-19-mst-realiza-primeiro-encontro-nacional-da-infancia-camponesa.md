@@ -4,8 +4,8 @@ tags:
   - tag: serm-terrinha
   - tag: encontro-nacional
   - tag: crianças
-title: MST realiza primeiro encontro nacional da infância camponesa
-support_line: "O 1º Encontro Nacional das Crianças Sem Terrinha reunirá 1200 crianças e 400 educadores em Brasília\n"
+title: "MST realiza 1º Encontro Nacional das Crianças Sem Terrinha "
+support_line: "A atividade reunirá mais de 1200 crianças na capital federal entre os dias 28 e 31 de maio\n"
 images_hd: //farm1.staticflickr.com/827/42163980582_a884644a65_b.jpg
 menu: lutas e mobilizações
 layout: post
