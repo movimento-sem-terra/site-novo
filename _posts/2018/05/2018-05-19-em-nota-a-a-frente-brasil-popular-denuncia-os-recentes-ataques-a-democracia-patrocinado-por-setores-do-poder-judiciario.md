@@ -4,7 +4,7 @@ tags:
   - tag: lutas-e-mobilizações
   - tag: frente-brasil-popular
   - tag: mobilizações
-title: Em nota a A Frente Brasil Popular denuncia os recentes ataques à democracia patrocinado por setores do Poder Judiciário
+title: "Em nota, Frente Brasil Popular denuncia os recentes ataques à democracia patrocinado por setores do Poder Judiciário"
 support_line: "As agressões contra a legalidade judicial integram os ataques contra os direitos sociais, as conquistas históricas do povo brasileiro e a soberania da nação. "
 menu: lutas e mobilizações
 images_hd: //farm1.staticflickr.com/980/28338349838_1fea7e6bc6_b.jpg
