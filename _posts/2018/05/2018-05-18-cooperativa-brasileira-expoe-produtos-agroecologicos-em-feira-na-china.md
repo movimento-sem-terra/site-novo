@@ -7,7 +7,7 @@ tags:
 title: Cooperativa brasileira expõe produtos agroecológicos em feira na China
 support_line: A participação da Terra Livre na Sial visa apresentar a produção agroecológica à China e abrir caminhos para a comercialização dos produtos da Reforma Agrária.
 menu: agricultura camponesa
-section: cover
+section: featured-news
 images_hd: //farm1.staticflickr.com/831/41470748894_146cb0ba7f_b.jpg
 layout: post
 files:
