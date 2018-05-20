@@ -34,8 +34,6 @@ files:
 created_date: "2018-05-18T18:26:02-03:00"
 published: true
 releated_posts:
-  - _posts/2017/09/2017-09-25-nao-existe-revolucao-sem-combate-ao-racismo-segundo-professor-pan-africanista.md
-  - _posts/2018/05/2018-05-13-130-anos-de-uma-abolicao-inacabada.md
   - _posts/2017/11/2017-11-27-terra-raca-e-classe-a-classe-trabalhadora-e-negra.md
 
 ---
@@ -64,11 +62,13 @@ As regi&otilde;es de Roraima, Goi&aacute;s e Mato Grosso lideram a lista de esta
 Nesse mesmo contexto, a juventude segue sendo v&iacute;tima. Mais de 318 mil jovens foram assassinados no Brasil entre 2005 e 2015. Apenas em 2015 foram 31.264 homic&iacute;dios de pessoas com idade entre 15 e 29 anos. No geral, cerca de 92% dos homic&iacute;dios acometem essa parcela da popula&ccedil;&atilde;o.</p>
 
 <p><br />
-Em Alagoas e Sergipe a taxa de viol&ecirc;ncia com homens jovens atingiu, respectivamente, 233 e 230,4 mortes por 100 mil homens jovens em 2015. De acordo com o Atlas, os negros possuem 23,5% de chances de serem assassinados em rela&ccedil;&atilde;o a brasileiros de outras ra&ccedil;as. Regina L&uacute;cia, militante do Movimento Negro Unificado (MNU), afirma que esse processo genocida da popula&ccedil;&atilde;o negra &eacute; hist&oacute;rico. &ldquo;O projeto genocida da popula&ccedil;&atilde;o negra est&aacute; em vigor desde o dia 14 de maio de 1888 [&hellip;] &Eacute; um projeto da elite branca sobre a popula&ccedil;&atilde;o negra. E ele est&aacute; entranhado na sa&uacute;de, na educa&ccedil;&atilde;o, na cultura, na moradia, no acesso a terra. N&atilde;o podemos esquecer do genoc&iacute;dio da bala, perpetrado pela pol&iacute;cia, pelos grupos de exterm&iacute;nio, pelo narcotr&aacute;fico e etc&rdquo;, explica.</p>
+Em Alagoas e Sergipe a taxa de viol&ecirc;ncia com homens jovens atingiu, respectivamente, 233 e 230,4 mortes por 100 mil homens jovens em 2015. De acordo com o Atlas, os negros possuem 23,5% de chances de serem assassinados em rela&ccedil;&atilde;o a brasileiros de outras ra&ccedil;as.</p>
 
 <p><br />
-Por outro lado, a militante destaca que a popula&ccedil;&atilde;o negra tem um projeto de resist&ecirc;ncia, numa perspectiva individual e coletiva, atrav&eacute;s dos movimentos negros e das sociedade culturais. &ldquo;A gente age em todas as frentes, visualizando a resist&ecirc;ncia individual, que &eacute; natural, com a coletiva, porque para existir n&oacute;s precisamos resistir. Temos a&ccedil;&otilde;es na &aacute;rea da educa&ccedil;&atilde;o; lutamos pela implementa&ccedil;&atilde;o do Plano nacional de Aten&ccedil;&atilde;o a Sa&uacute;de da<br />
-Popula&ccedil;&atilde;o Negra; lutamos por mais acesso a cultura, a moradia; lutamos tamb&eacute;m pela demarca&ccedil;&atilde;o das terras quilombolas e ind&iacute;genas; e estamos juntos em outras lutas universais, como a Reforma Agr&aacute;ria&rdquo;, pontua L&uacute;cia.</p>
+Regina L&uacute;cia, militante do Movimento Negro Unificado (MNU), afirma que esse processo genocida da popula&ccedil;&atilde;o negra &eacute; hist&oacute;rico. &ldquo;O projeto genocida da popula&ccedil;&atilde;o negra est&aacute; em vigor desde o dia 14 de maio de 1888 [&hellip;] &Eacute; um projeto da elite branca sobre a popula&ccedil;&atilde;o negra. E ele est&aacute; entranhado na sa&uacute;de, na educa&ccedil;&atilde;o, na cultura, na moradia, no acesso a terra. N&atilde;o podemos esquecer do genoc&iacute;dio da bala, perpetrado pela pol&iacute;cia, pelos grupos de exterm&iacute;nio, pelo narcotr&aacute;fico e etc&rdquo;, explica.</p>
+
+<p><br />
+Por outro lado, a militante destaca que a popula&ccedil;&atilde;o negra tem um projeto de resist&ecirc;ncia, numa perspectiva individual e coletiva, atrav&eacute;s dos movimentos negros e das sociedades culturais. &ldquo;A gente age em todas as frentes, visualizando a resist&ecirc;ncia individual, que &eacute; natural, com a coletiva, porque para existir n&oacute;s precisamos resistir. Temos a&ccedil;&otilde;es na &aacute;rea da educa&ccedil;&atilde;o; lutamos pela implementa&ccedil;&atilde;o do Plano nacional de Aten&ccedil;&atilde;o a Sa&uacute;de da Popula&ccedil;&atilde;o Negra; lutamos por mais acesso a cultura, a moradia; lutamos tamb&eacute;m pela demarca&ccedil;&atilde;o das terras quilombolas e ind&iacute;genas; e estamos juntos em outras lutas universais, como a Reforma Agr&aacute;ria&rdquo;, pontua L&uacute;cia.</p>
 
 <p style="text-align:center"><img alt="GenocidioNegro_Prancheta 1.png" height="700" src="//farm1.staticflickr.com/971/27326168687_6d4ffea7a3_b.jpg" width="700" /></p>
 
@@ -86,7 +86,7 @@ A CPT enfatiza que muitas dessas mortes tiveram requintes de crueldade, o que co
 L&uacute;cia acredita que o projeto genocida tem ganhado novas propor&ccedil;&otilde;es ap&oacute;s o golpe de 2016. &ldquo;&Eacute; um golpe que nos preocupa muito e que vem numa escalada fren&eacute;tica, retirando direitos [&hellip;]. Pois quem sofre com o golpe mais firmemente &eacute; a popula&ccedil;&atilde;o negra&rdquo;. Para ela &eacute; importante que os movimentos negros denunciem. &ldquo;A popula&ccedil;&atilde;o precisa perceber que esse golpe est&aacute; intimamente ligado a retirada de direitos da popula&ccedil;&atilde;o negra e que imp&otilde;e o genoc&iacute;dio de forma dr&aacute;stica e aguda. Precisamos avan&ccedil;ar em novas formas pr&aacute;ticas de resist&ecirc;ncia&rdquo;, conclui.</p>
 
 <p><br />
-Diante desse atual cen&aacute;rio de viol&ecirc;ncia crescente no Brasil e com o avan&ccedil;o do conservadorismo e do fascismo, o MST destaca em sua &ldquo;<a href="http://www.mst.org.br/2018/05/12/carta-ao-povo-brasileiro.html">Carta ao Povo Brasileiro</a>&rdquo; a necessidade de construir lutas di&aacute;rias contra todo tipo de viol&ecirc;ncia e de permanecer em virg&iacute;lia contra as impunidades. Nesse sentido, usa como exemplo o assassinato de Marielle Franco e de Anderson Gomes como motivos a mais para seguir em luta permanente.</p>
+Diante desse atual cen&aacute;rio de viol&ecirc;ncia crescente no Brasil e com o avan&ccedil;o do conservadorismo e do fascismo, o MST destaca em sua &ldquo;<a href="http://www.mst.org.br/2018/05/12/carta-ao-povo-brasileiro.html">Carta ao Povo Brasileiro</a>&rdquo; a necessidade de construir lutas di&aacute;rias contra todo tipo de viol&ecirc;ncia e de permanecer em vig&iacute;lia contra as impunidades. Nesse sentido, usa como exemplo o assassinato de Marielle Franco e de Anderson Gomes como motivos a mais para seguir em luta permanente.</p>
 
 <p>&nbsp;</p>
 
