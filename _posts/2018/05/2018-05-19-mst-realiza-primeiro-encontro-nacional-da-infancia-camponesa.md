@@ -30,8 +30,13 @@ releated_posts:
   - _posts/2017/10/2017-10-09-na-bahia-criancas-se-preparam-para-o-1o-encontro-nacional-dos-sem-terrinha.md
   - _posts/2018/05/2018-05-17-as-lutas-territoriais-devem-estar-casadas-com-as-lutas-por-um-projeto-politico-mineral-nacional-afirma-dirigente-do-mam.md
   - _posts/2017/09/2017-09-13-no-rio-de-janeiro-encontro-reunira-4-mil-atingidos-por-barragens.md
+section: cover
 
 ---
+<p style="text-align:center"><img alt="SEM TERRINHA.png" height="571" src="//farm1.staticflickr.com/964/42163888212_4f1dc3503f_b.jpg" width="700" /></p>
+
+<p>&nbsp;</p>
+
 <p>&nbsp;</p>
 
 <p><em>Por Webert Cruz<br />
@@ -56,13 +61,3 @@ Da P&aacute;gina do MST</em></p>
 <p>&nbsp;</p>
 
 <p>Ainda para Daros, estamos falando de pessoas que vivenciam o campo e o coletivo a partir de espa&ccedil;os educativos. Ela cita as diversas constru&ccedil;&otilde;es pedag&oacute;gicas desenvolvidas em atividades como as Cirandas Infantis nos acampamentos, assentamentos e escolas. &ldquo;Falamos de crian&ccedil;as que dan&ccedil;am, sonham e brincam como todas as outras, mas que est&atilde;o vinculadas a um movimento popular que tamb&eacute;m quer sempre ressignificar e melhorar o trabalho com elas. Isso al&eacute;m de fortalecer toda a nossa trajet&oacute;ria e ac&uacute;mulo que temos&nbsp;sobre a inf&acirc;ncia, colocar&aacute; em nosso cotidiano quest&otilde;es como: o queremos com as crian&ccedil;as, que mudan&ccedil;as s&atilde;o necess&aacute;rias fazermos e quais estruturas s&atilde;o necess&aacute;rias para que se avance o cuidado e trabalho com elas&rdquo;, finaliza.&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p style="text-align:center"><img alt="SEM TERRINHA.png" height="571" src="//farm1.staticflickr.com/964/42163888212_4f1dc3503f_b.jpg" width="700" /></p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
