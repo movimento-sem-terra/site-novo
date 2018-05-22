@@ -1,7 +1,7 @@
 ---
 date: "2018-05-22T15:12:03-03:00"
 tags: []
-title: As crianças da Paraíba e Santa Catarina já estão preparadas para o I Encontro Nacional das Crianças Sem Terrinha
+title: Paraíba e Santa Catarina já estão preparados para o I Encontro Nacional das Crianças Sem Terrinha
 support_line: O Encontro acontece de 28 a 31 de maio em Brasília e contará com cerca de 1200 crianças de todos os estados em que o MST está organizado
 menu: "educação, cultura e comunicação"
 section: tv
