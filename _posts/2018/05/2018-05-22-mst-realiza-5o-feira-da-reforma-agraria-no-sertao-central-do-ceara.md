@@ -93,6 +93,6 @@ Shows culturais: Banda de lata crian&ccedil;a feliz, Azanias e Banda, forr&oacut
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="59622a7c-1c99-4531-8ec8-77fd1852e223.jpg" height="849" src="//farm1.staticflickr.com/903/40475978400_461ab1ee34_b.jpg" width="600" />
-<figcaption>Legenda</figcaption>
+<figcaption></figcaption>
 </figure>
 </div>
