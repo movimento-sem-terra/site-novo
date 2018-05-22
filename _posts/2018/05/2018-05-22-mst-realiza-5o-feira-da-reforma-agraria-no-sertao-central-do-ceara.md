@@ -4,7 +4,7 @@ tags:
   - tag: ceará
   - tag: feira-da-reforma-agrária
 title: MST realiza 5º Feira da Reforma Agrária no Sertão Central do Ceará
-support_line: "Além da comercialização de produtos, os visitantes encontrarão uma vasta programação, com shows, intervenções culturais, seminários"
+support_line: "Além da comercialização de produtos, os visitantes terão acesso a uma programação, com shows, intervenções culturais e seminários"
 menu: agricultura camponesa
 images_hd: //farm1.staticflickr.com/956/28408763378_ee6de5f0cd_b.jpg
 layout: post
@@ -16,6 +16,13 @@ files:
     small: //farm1.staticflickr.com/956/28408763378_ee6de5f0cd_n.jpg
     title: 36214639444_ecac2a8021_b.jpg
     $$hashKey: "030"
+  - link: //farm1.staticflickr.com/903/40475978400_461ab1ee34_b.jpg
+    original: //farm1.staticflickr.com/903/40475978400_3c8c55a389_o.jpg
+    thumbnail: //farm1.staticflickr.com/903/40475978400_461ab1ee34_t.jpg
+    medium: //farm1.staticflickr.com/903/40475978400_461ab1ee34_z.jpg
+    small: //farm1.staticflickr.com/903/40475978400_461ab1ee34_n.jpg
+    title: 59622a7c-1c99-4531-8ec8-77fd1852e223.jpg
+    $$hashKey: 05A
 created_date: "2018-05-22T13:34:09-03:00"
 published: true
 releated_posts:
@@ -26,13 +33,13 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="36214639444_ecac2a8021_b.jpg" height="467" src="//farm1.staticflickr.com/956/28408763378_ee6de5f0cd_b.jpg" width="700" />
-<figcaption>Foto: Divulga&ccedil;&atilde;o / MST</figcaption>
+<figcaption><em>Foto: Divulga&ccedil;&atilde;o / MST</em></figcaption>
 </figure>
 </div>
 
 <p>&nbsp;</p>
 
-<p>Da P&aacute;gina do MST</p>
+<p><em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
 <br />
@@ -75,10 +82,17 @@ Em Quixeramobim, o evento acontece desde 2013. O espa&ccedil;o &eacute; organiza
 Apresenta&ccedil;&atilde;o de pe&ccedil;as de teatro e dan&ccedil;as das escolas do campo&nbsp;<br />
 Shows culturais: Banda de lata crian&ccedil;a feliz, Azanias e Banda, forr&oacute; do Bunitim, forr&oacute; do Canga&ccedil;o</p>
 
-<p><strong>S&aacute;bado (26/05)</strong><br />
+<p><br />
+<strong>S&aacute;bado (26/05)</strong><br />
 5h &ndash; Feira Livre (durante todo o dia)<br />
 9h &ndash; Semin&aacute;rios &ldquo;Agroecologia: Construindo Resist&ecirc;ncia em Tempos de Golpe&rdquo;<br />
 13h &agrave;s 17h &ndash; Feira Livre na pra&ccedil;a da prefeitura<br />
 19h &ndash; M&iacute;stica, ato de encerramento e Shows culturais com as bandas: Luan Rodrigues, L&iacute;via Mara, Tony Guerra e Forr&oacute; Sacode</p>
 
 <p>&nbsp;</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="59622a7c-1c99-4531-8ec8-77fd1852e223.jpg" height="849" src="//farm1.staticflickr.com/903/40475978400_461ab1ee34_b.jpg" width="600" />
+<figcaption>Legenda</figcaption>
+</figure>
+</div>
