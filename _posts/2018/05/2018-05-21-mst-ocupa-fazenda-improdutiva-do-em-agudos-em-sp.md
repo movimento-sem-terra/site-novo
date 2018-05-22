@@ -4,7 +4,7 @@ tags:
   - tag: são-paulo
   - tag: ocupação
   - tag: acampamento
-title: "MST ocupa fazenda improdutiva do em Agudos, em SP"
+title: "MST ocupa fazenda improdutiva em Agudos, em SP"
 images_hd: //farm1.staticflickr.com/977/40456992580_95d64b0d78_b.jpg
 support_line: "A área compõe o núcleo monções, terras do estado que foram apropriadas por empresas estrangeiras."
 menu: lutas e mobilizações
