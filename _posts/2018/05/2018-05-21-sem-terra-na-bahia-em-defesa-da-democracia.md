@@ -4,8 +4,8 @@ tags:
   - tag: bahia
   - tag: ocupações
   - tag: jornada-de-lutas
-title: Sem terra na Bahia em defesa da democracia
-support_line: "Trabalhadores  e Sem Terra, realizaram no mês de abril, diversas lutas em defensa  da  democracia , liberdade do presidente Luta e Reforma  Agrária"
+title: Sem Terra na Bahia em defesa da democracia
+support_line: "Trabalhadores Sem Terra realizaram no mês de abril diversas lutas em defensa  da  democracia, pela liberdade do presidente Luta e Reforma  Agrária"
 menu: lutas e mobilizações
 images_hd: //farm1.staticflickr.com/977/41541928714_d62f000901_b.jpg
 layout: post
@@ -31,7 +31,8 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p><em>Por Coletivo de Comunica&ccedil;&atilde;o do MST/Bahia</em></p>
+<p><em>Por Coletivo de Comunica&ccedil;&atilde;o do MST na Bahia<br />
+Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
