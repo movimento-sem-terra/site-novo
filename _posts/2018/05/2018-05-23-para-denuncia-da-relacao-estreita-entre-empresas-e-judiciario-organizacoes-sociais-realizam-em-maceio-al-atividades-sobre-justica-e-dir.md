@@ -4,7 +4,7 @@ tags:
   - tag: lutas
   - tag: judiciário
   - tag: mobilizações
-title: "Em Alagoas, rganizações sociais denunciam relação estreita entre empresas e Judiciário"
+title: "Em Alagoas, organizações sociais denunciam relação estreita entre empresas e Judiciário"
 support_line: "Contraponto ao Congresso da Associação Brasileiras dos Magistrados, realizado também na capital, em mesma data, as atividades buscam dialogar sobre o papel do Judiciário com a população"
 menu: lutas e mobilizações
 images_hd: //farm1.staticflickr.com/949/41579881074_202788e2fb_b.jpg
