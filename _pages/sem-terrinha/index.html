@@ -1,65 +1,48 @@
 ---
-layout: white_page
+layout: default
 scripts: ["pagination/infinite-scroll.js", "pagination/all_news.js", "special_news.js", "feira/init.js", "feira/jflickrfeed.min.js"]
-external_scripts: ["//code.jquery.com/jquery-3.1.0.min.js", "//cdnjs.cloudflare.com/ajax/libs/masonry/3.3.0/masonry.pkgd.min.js","//cdnjs.cloudflare.com/ajax/libs/jquery-infinitescroll/2.0b2.120519/jquery.infinitescroll.min.js","//cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/3.1.8/imagesloaded.min.js", "//cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.3/moment-with-locales.min.js", "//cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/3.1.8/imagesloaded.min.js", "//cdnjs.cloudflare.com/ajax/libs/jquery.colorbox/1.6.3/jquery.colorbox-min.js"]
-styles: ["jornadas.css", "special_news.css", "sem-terrinha.css","colorbox.css"]
-title: "Encontro Nacional das Crianças Sem Terrinha"
-description: "A participação de meninas e meninos nos movimentos populares é um exercício de democracia."
-images_hd: "http://farm4.staticflickr.com/3863/33081745661_199d9c690d_z.jpg"
-image_width: "600"
-image_height: "338"
+external_scripts: ["//cdnjs.cloudflare.com/ajax/libs/masonry/3.3.0/masonry.pkgd.min.js","//cdnjs.cloudflare.com/ajax/libs/jquery-infinitescroll/2.0b2.120519/jquery.infinitescroll.min.js","//cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/3.1.8/imagesloaded.min.js", "//cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.3/moment-with-locales.min.js", "//cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/3.1.8/imagesloaded.min.js", "//cdnjs.cloudflare.com/ajax/libs/jquery.colorbox/1.6.3/jquery.colorbox-min.js"]
+styles: ["jornadas.css", "special_news.css", "tabs.css", "colorbox.css"]
 ---
 
 
-<main id="special" class="all-news jornadas encontro-semterrinha"  itemscope itemtype="http://schema.org/Event">
-<article role="main" class="main-picture">
-  <img class= "responsive-image logo" src="/assets/img/sem-terrinha/ChamadaSemTerrinha2ParaFundoclaro.png"  alt="Chamada para o Encontro Sem Terrinha">
-  <img class= "responsive-image logo" src="/assets/img/sem-terrinha/Bandeira_MST.png"  alt="Ilustração bandeira MST">
-  <img class= "responsive-image logo" src="/assets/img/sem-terrinha/NUVEMmENOR.png"  alt="Nuvém">
-  <img class= "responsive-image logo" src="/assets/img/sem-terrinha/PIPAVERDE.png"  alt="Pipa cor verde">
-  <img class= "responsive-image logo" src="/assets/img/sem-terrinha/SOL.png"  alt="Sol">
-  <img class= "responsive-image logo" src="/assets/img/sem-terrinha/CASAvaRIAS.png"  alt="Várias casas coloridas">
-  <img class= "responsive-image logo" src="/assets/img/sem-terrinha/PINTINHO.png"  alt="Pintinho cor amarela">
- 
- 
-  <div class="responsive-image criancas" >
+<main id="special" class="all-news jornadas"  itemscope itemtype="http://schema.org/Event">
+<article role="main" >
+ <img class= "responsive-image" src="//farm1.staticflickr.com/874/27436552617_a2ff0bc947_b.jpg" >
 
-  </div>
 </article>
-  <section id="information">
-    <div class="content" itemprop="description" itemscope="" itemtype="http://schema.org/Event" role="contentinfo">
-        <span itempro="name">Encontro  Nacional das Crianças Sem Terrinha</span>
-    </div>
+ <section id="information">
+   <div class="content" itemprop="description" itemscope="" itemtype="http://schema.org/Event" role="contentinfo">
+     <span id="place">
+      <span itempro="name"> Encontro Nacional das Crianças Sem Terrinha </span>  
+     </span>
+   </div>
+ </section>
+ <section itemprop="description" class="description">
+   <div class="content">
+    <p>A participação de meninas e meninos nos movimentos populares é um exercício de democracia. Fruto de diversas atividades pelo Brasil, desde a primeira mobilização infanto-juvenil de Porto Alegre/RS em 1994, os encontros das crianças do campo têm consolidado a pauta da infância dentro do MST. </p>
+    <p>Na perspectiva de continuidade desse movimento educativo, acontece de 28 a 31 de maio, o 1º Encontro Nacional das Crianças Sem Terrinha no Pavilhão de Exposições do Parque da Cidade, em Brasília.</p>
+  </div>
+   <div class="content">
+     <p>“Sem Terrinha em Movimento: Brincar, Sorrir, Lutar por Reforma Agrária Popular” é o tema do encontro que pretende reunir participantes de todo o país para partilharem vivências da infância camponesa.</p> 
+     <p>O evento contará com cerca de 1200 crianças, acompanhadas por 400 educadores que participarão de uma programação educativa, lúdica e cultural a luz do Estatuto da Criança e do Adolescente (ECA), na perspectiva do direito à educação e alimentação saudável.</p>
+   </div>
+ </section>
+
+ <section class="youtube-playlist" >
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/playlist?list=PLs_FebLgno7YYzVf0huGzy_uTMHRsg0kC" frameborder="0" allowfullscreen>
+    </iframe>
   </section>
-  <section itemprop="description" id="description" class="description">
-    <div class="content">
-				<p>
-          A participação de meninas e meninos nos movimentos populares é um exercício de democracia. Fruto de diversas atividades pelo Brasil, desde a primeira mobilização infanto-juvenil de Porto Alegre/RS em 1994, os encontros das crianças do campo têm consolidado a pauta da infância dentro do MST.
-        </p>
-				<p>
-          Na perspectiva de continuidade desse movimento educativo, acontece de 28 a 31 de maio, o 1º Encontro Nacional das Crianças Sem Terrinha no Pavilhão de Exposições do Parque da Cidade, em Brasília.
-       </p>
-				
-    </div>
-    <div class="content">
-				<p>
-          “Sem Terrinha em Movimento: Brincar, Sorrir, Lutar por Reforma Agrária Popular” é o tema do encontro que pretende reunir participantes de todo o país para partilharem vivências da infância camponesa.
-        </p>
-				<p>
-        O evento contará com cerca de 1200 crianças, acompanhadas por 400 educadores que participarão de uma programação educativa, lúdica e cultural a luz do Estatuto da Criança e do Adolescente (ECA), na perspectiva do direito à educação e alimentação saudável. 
-        </p>
-    </div>
-  </section>
-  <section class="youtube-playlist" >
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/playlist?list=PLs_FebLgno7YYzVf0huGzy_uTMHRsg0kC" frameborder="0" allowfullscreen>
-   </iframe>
+
+ <!-- <section class= "album-de-fotos-abril">
+    <h1 class="header-title">
+        Fotos
+     </h1>
+    <a data-flickr-embed="true" data-context="true"  href="https://www.flickr.com/photos/mstoficial/41394498731/in/album-72157689771510610/" title="Manifestação em protesto contra o Massacre do Eldorado dos Carajás (Distrito Federal, 23 abr. 1996)"><img src="https://farm1.staticflickr.com/802/41394498731_90688f62ff_z.jpg" width="640" height="424" 
+      alt="Manifestação em protesto contra o Massacre do Eldorado dos Carajás (Distrito Federal, 23 abr. 1996)"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
+  </section> -->
+   <h2>Leia mais!</h2>
+   <section class="container">
    </section>
-    <!-- <section class= "album-de-fotos">
-    <a data-flickr-embed="true"  href="https://www.flickr.com/photos/mstoficial/albums/72157681019077396" title="Jornada Nacional de Lutas das Mulheres Sem Terra - 2017"><img src="https://c1.staticflickr.com/4/3770/33249391176_3048b57524_z.jpg" width="640" height="426" alt="Jornada Nacional de Lutas das Mulheres Sem Terra - 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-    </section>  -->
-  <aside class="releated" role="complementary">
-    <h2>Leia mais!</h2>
-    <section class="container">
-    </section>
-  </aside>
+ </aside>
 </main>

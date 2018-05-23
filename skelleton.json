@@ -210,7 +210,7 @@
   "type":{
     "view": "select",
     "options": [
-      {"name": "III Feira da Reforma Agraria", "id": "IIIFeira-2018"}
+      {"name": "Encontro Nacional das Crianças Sem Terrinha", "id": "sem-terrinha"}
       ]
   }
 },
