@@ -19,7 +19,7 @@ files:
     title: d3061bac.png
     $$hashKey: 0GO
 created_date: "2018-05-23T13:29:26-03:00"
-published: true
+published: false
 releated_posts:
   - _posts/2018/03/2018-03-28-nota-publica-o-avanco-da-criminalizacao-nao-vai-parar-nossa-missao.md
   - _posts/2018/04/2018-04-18-assassinatos-no-campo-subiram-105-desde-2013-aponta-cpt.md
