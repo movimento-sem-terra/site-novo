@@ -48,6 +48,7 @@ releated_posts:
   - _posts/2017/09/2017-09-22-cenario-e-de-acirramento-da-luta-de-classes-diz-dirigente-do-mst-do-parana.md
   - _posts/2017/09/2017-09-21-agroecologia-cresce-no-parana-garante-renda-e-alimentos-saudaveis.md
   - _posts/2017/09/2017-09-21-retirada-de-direitos-tenta-prejudicar-mobilizacao-popular-avalia-presidente-do-cndh.md
+section: cover
 
 ---
 <div style="text-align:center">
