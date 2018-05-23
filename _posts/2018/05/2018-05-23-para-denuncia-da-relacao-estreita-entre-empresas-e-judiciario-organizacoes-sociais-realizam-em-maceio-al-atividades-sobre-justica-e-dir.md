@@ -4,8 +4,8 @@ tags:
   - tag: lutas
   - tag: judiciário
   - tag: mobilizações
-title: "Para denúncia da relação estreita entre empresas e Judiciário, organizações sociais realizam, em Maceió (AL), atividades sobre justiça e dir"
-support_line: "Contraponto ao Congresso da Associação Brasileiras dos Magistrados, realizado também na capital, em mesma data, as atividades buscam dialogar sobre o papel do Judiciário com a população."
+title: "Em Alagoas, rganizações sociais denunciam relação estreita entre empresas e Judiciário"
+support_line: "Contraponto ao Congresso da Associação Brasileiras dos Magistrados, realizado também na capital, em mesma data, as atividades buscam dialogar sobre o papel do Judiciário com a população"
 menu: lutas e mobilizações
 images_hd: //farm1.staticflickr.com/949/41579881074_202788e2fb_b.jpg
 layout: post
@@ -20,7 +20,6 @@ files:
 created_date: "2018-05-23T11:31:32-03:00"
 published: true
 releated_posts:
-  - _posts/2017/10/2017-10-10-mtd-realiza-acoes-por-direitos-no-rio-grande-do-sul.md
   - _posts/2017/11/2017-11-11-suzane-jardim-e-uma-obrigacao-dos-movimentos-sociais-pensarem-a-questao-racial-para-alem-dos-meses-tematicos-e-datas-simbolicas.md
   - _posts/2017/11/2017-11-17-o-que-levou-10-mil-pessoas-as-ruas-de-correntina-ba.md
   - _posts/2017/11/2017-11-22-pescadores-ocupam-ministerio-do-planejamento-em-brasilia.md
@@ -74,7 +73,7 @@ Em face das decis&otilde;es do Sistema de Justi&ccedil;a que criminaliza defenso
 <p dir="ltr"><br />
 <strong>Calend&aacute;rio de atividades</strong></p>
 
-<p dir="ltr"><strong>24/05 QUINTA-FEIRA</strong></p>
+<p dir="ltr">24/05 QUINTA-FEIRA</p>
 
 <p>9h: Coletiva de Imprensa</p>
 
@@ -89,7 +88,7 @@ Em face das decis&otilde;es do Sistema de Justi&ccedil;a que criminaliza defenso
 <p dir="ltr">End: Sindicato dos Banc&aacute;rios <a href="https://maps.google.com/?q=de+Alagoas.+R.+Bar%C3%A3o+de+Atalaia,+50&amp;entry=gmail&amp;source=g">de Alagoas. R. Bar&atilde;o de Atalaia, 50</a> &ndash; Centro.</p>
 
 <p dir="ltr"><br />
-<strong>25/05 SEXTA-FEIRA</strong></p>
+25/05 SEXTA-FEIRA</p>
 
 <p dir="ltr">9h: Debate Mecanismos populares de controle do sistema de justi&ccedil;a</p>
 
@@ -100,4 +99,4 @@ Em face das decis&otilde;es do Sistema de Justi&ccedil;a que criminaliza defenso
 <p dir="ltr">End: Centro de Defesa dos Direitos das Mulheres (R. Imperatriz, n&ordm; 27. Conjunto Santos Dummond)</p>
 
 <p dir="ltr"><br />
-<strong>Realiza&ccedil;&atilde;o: </strong>Articula&ccedil;&atilde;o Justi&ccedil;a e Direitos Humanos (JusDh), Sindicato dos Jornalistas Profissionais do Estado de Alagoas (Sindjornal), Sindicato dos Banc&aacute;rios de Alagoas, Centro de Defesa dos Direitos das Mulheres, Movimento dos Trabalhadores Rurais Sem Terra (MST), Frente Brasil Popular, Sindicato dos Trabalhadores Em Sa&uacute;de, Trabalho e Previd&ecirc;ncia Social de Alagoas (Sindiprev), Rede Nacional de Advogados e Advogadas Populares/Alagoas (Renap), Plataforma dos Movimentos Sociais pela Reforma do Sistema Pol&iacute;tico, Confedera&ccedil;&atilde;o Nacional dos Trabalhadores na Agricultura (Contag), Central &Uacute;nica dos Trabalhadores (CUT/AL), Federa&ccedil;&atilde;o dos Trabalhadores na Agricultura - Alagoas, Marcha Mundial de Mulheres, Coordena&ccedil;&atilde;o Nacional das Comunidades Quilombolas do Brasil (Conaq), Movimento dos Atingidos por Barragens (MAB), Funda&ccedil;&atilde;o Friedrich Ebert</p>
+Realiza&ccedil;&atilde;o: Articula&ccedil;&atilde;o Justi&ccedil;a e Direitos Humanos (JusDh), Sindicato dos Jornalistas Profissionais do Estado de Alagoas (Sindjornal), Sindicato dos Banc&aacute;rios de Alagoas, Centro de Defesa dos Direitos das Mulheres, Movimento dos Trabalhadores Rurais Sem Terra (MST), Frente Brasil Popular, Sindicato dos Trabalhadores Em Sa&uacute;de, Trabalho e Previd&ecirc;ncia Social de Alagoas (Sindiprev), Rede Nacional de Advogados e Advogadas Populares/Alagoas (Renap), Plataforma dos Movimentos Sociais pela Reforma do Sistema Pol&iacute;tico, Confedera&ccedil;&atilde;o Nacional dos Trabalhadores na Agricultura (Contag), Central &Uacute;nica dos Trabalhadores (CUT/AL), Federa&ccedil;&atilde;o dos Trabalhadores na Agricultura - Alagoas, Marcha Mundial de Mulheres, Coordena&ccedil;&atilde;o Nacional das Comunidades Quilombolas do Brasil (Conaq), Movimento dos Atingidos por Barragens (MAB), Funda&ccedil;&atilde;o Friedrich Ebert</p>
