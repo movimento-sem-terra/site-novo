@@ -5,7 +5,7 @@ tags:
   - tag: governo-temer
   - tag: bancada-ruralista
 title: Agrogolpe
-support_line: "Os interesses da bancada ruralista no golpe está ligada a seus interesses político de classe.\n"
+support_line: "Os interesses da bancada ruralista no golpe estão ligados aos seus interesses políticos de classe\n"
 menu: agronegócio
 images_hd: //farm1.staticflickr.com/951/42325297051_17d41dcb44_b.jpg
 layout: post
