@@ -26,6 +26,7 @@ releated_posts:
   - 2015/05/2015-05-06-de-tijolo-em-tijolo-sem-terra-construiram-a-primeira-escola-do-campo.md
   - 2015/05/2015-05-04-seminario-discute-efeitos-do-consumo-de-agrotoxicos-na-saude-humana.md
   - 2015/05/2015-05-07-familias-sem-terra-ocupam-incra-em-bauru.md
+special-page: sem-terrinha
 
 ---
 <p><img alt="prefeitura_iaras.jpg" src="http://farm9.staticflickr.com/8795/17244398380_cf6fef9892_b.jpg" /><br />
