@@ -4,8 +4,8 @@ tags:
   - tag: pesar
   - tag: nota-de-falecimento
   - tag: lutadores
-title: "Nota de solidariedade do MST Ceará\n"
-support_line: "Jhey Oliveira do Levante Popular da Juventude estava desaparecido desde o dia 18 de maio "
+title: MST lamenta o assassinato do jovem Jhey Oliveira
+support_line: "Jhey era do Levante Popular da Juventude e estava desaparecido desde o dia 18 de maio "
 menu: direitos humanos
 images_hd: //farm1.staticflickr.com/977/41423522015_afee335b94_b.jpg
 layout: post
