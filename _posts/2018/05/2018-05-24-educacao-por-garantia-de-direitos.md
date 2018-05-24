@@ -7,7 +7,7 @@ tags:
 images_hd: //farm1.staticflickr.com/881/28451711428_509a806005_b.jpg
 menu: "educação, cultura e comunicação"
 special-page: sem-terrinha
-title: Educação por garantia de direitos
+title: Educar para garantir direitos
 support_line: "Em entrevista a educadora Andréa e a Sem Terrinha Lara falam um pouco do processo educacional do MST "
 layout: post
 files:
@@ -46,6 +46,7 @@ releated_posts:
   - _posts/2017/10/2017-10-14-sem-terrinhas-do-espirito-santo-se-preparam-para-encontro-nacional.md
   - _posts/2017/10/2017-10-11-criancas-se-reunem-em-pernambuco-para-o-xiii-encontro-estadual-dos-sem-terrinha.md
   - _posts/2017/10/2017-10-18-no-para-mst-inicia-encontro-estadual-dos-sem-terrinha.md
+section: cover
 
 ---
 <p dir="ltr">&nbsp;</p>
@@ -177,7 +178,7 @@ As crian&ccedil;as Sem Terrinhas elas v&atilde;o pra rua, lutar pelos nossos dir
 <strong>Voc&ecirc;s trabalham? </strong></p>
 
 <p dir="ltr"><br />
-Sim, nos setores na escola, de crian&ccedil;a. Os adultos s&oacute; acompanham a gente. A gente que faz. Sou do setor de agropecu&aacute;ria. A gente organiza as ferramentas, a gente tamb&eacute;m planeja as aulas de agropecu&aacute;ria.</p>
+Sim, nos setores na escola. Os adultos s&oacute; acompanham, n&oacute;s &eacute; que fazemos tudo. Sou do setor de agropecu&aacute;ria. A gente organiza as ferramentas e&nbsp;tamb&eacute;m planeja as aulas de agropecu&aacute;ria.</p>
 
 <p dir="ltr"><br />
 <strong>Voc&ecirc;s plantam? O que voc&ecirc;s costumam plantar? Para que?</strong></p>
@@ -189,7 +190,7 @@ Sim, cenoura, beterraba, coentro, alface, couve... Pra gente comer na escola, um
 <strong>E &eacute; importante? </strong></p>
 
 <p dir="ltr"><br />
-&Eacute; sim, porque algumas pessoas que tem muita comida, elas desperdi&ccedil;am. A&iacute; enquanto outras n&atilde;o t&ecirc;m nada, e s&oacute; ficam comendo as comidas que s&atilde;o do lixo.</p>
+&Eacute; sim, porque enquanto&nbsp;algumas pessoas que tem muita comida&nbsp;desperdi&ccedil;am. A outras n&atilde;o t&ecirc;m nada&nbsp;s&oacute; ficam comendo as comidas que s&atilde;o do lixo.</p>
 
 <p dir="ltr"><br />
 <strong>Tem outros motivos, al&eacute;m de n&atilde;o desperdi&ccedil;ar? </strong></p>
