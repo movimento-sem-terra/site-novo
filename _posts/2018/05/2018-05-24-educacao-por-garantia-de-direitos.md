@@ -51,7 +51,7 @@ section: cover
 ---
 <p dir="ltr">&nbsp;</p>
 
-<p dir="ltr"><em>Por Webert Cruz<br />
+<p dir="ltr"><em>Por Webert da Cruz<br />
 Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p dir="ltr">&nbsp;</p>
@@ -163,7 +163,7 @@ Tem... deixa eu pensar... tem muitas crian&ccedil;as que sofrem viol&ecirc;ncias
 <p dir="ltr">Lutar. A gente vai pra rua, ocupar os lugares. Ano passado a gente foi ocupar a SEDU (Secretaria de Estado da Educa&ccedil;&atilde;o) para que a nossa e as outras escolas n&atilde;o fossem fechadas. A gente fazia palavra de ordem, cantava.. um monte de coisas.</p>
 
 <p dir="ltr"><br />
-<strong>E o que voc&ecirc; espera do encontro das Crian&ccedil;as Sem Terrinha?</strong></p>
+<strong>Me fala sobre as suas expectativas para encontro das Crian&ccedil;as Sem Terrinha?</strong></p>
 
 <p dir="ltr"><br />
 Conhecer v&aacute;rias outras crian&ccedil;as Sem Terrinhas, aprender mais coisas do que eu j&aacute; sei e ensinar tamb&eacute;m. Anima&ccedil;&atilde;o e meus quatro amigos.</p>
@@ -187,16 +187,10 @@ Sim, nos setores na escola. Os adultos s&oacute; acompanham, n&oacute;s &eacute;
 Sim, cenoura, beterraba, coentro, alface, couve... Pra gente comer na escola, uma alimenta&ccedil;&atilde;o saud&aacute;vel.</p>
 
 <p dir="ltr"><br />
-<strong>E &eacute; importante? </strong></p>
+<strong>Na sua opini&atilde;o isso &eacute; importante? </strong></p>
 
 <p dir="ltr"><br />
-&Eacute; sim, porque enquanto&nbsp;algumas pessoas que tem muita comida&nbsp;desperdi&ccedil;am. A outras n&atilde;o t&ecirc;m nada&nbsp;s&oacute; ficam comendo as comidas que s&atilde;o do lixo.</p>
-
-<p dir="ltr"><br />
-<strong>Tem outros motivos, al&eacute;m de n&atilde;o desperdi&ccedil;ar? </strong></p>
-
-<p dir="ltr"><br />
-Tem, porque a gente planta e n&atilde;o bote veneno, a gente coloca adubo org&acirc;nico.</p>
+&Eacute; sim, porque enquanto&nbsp;algumas pessoas que tem muita comida&nbsp;desperdi&ccedil;am. A outras n&atilde;o t&ecirc;m nada&nbsp;s&oacute; ficam comendo as comidas que s&atilde;o do lixo. Al&eacute;m disso, a gente&nbsp;planta e n&atilde;o bota&nbsp;veneno, a gente usa adubo org&acirc;nico.</p>
 
 <p dir="ltr"><br />
 <strong>E por que isso &eacute; importante? </strong></p>
