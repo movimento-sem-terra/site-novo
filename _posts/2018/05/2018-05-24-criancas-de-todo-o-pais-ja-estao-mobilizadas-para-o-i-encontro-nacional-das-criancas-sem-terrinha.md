@@ -8,7 +8,7 @@ menu: "educação, cultura e comunicação"
 section: tv
 video: "https://www.youtube.com/watch?v=aHEgC8oLoaw"
 title: "Crianças de todo o país já estão mobilizadas para o I Encontro Nacional das Crianças Sem Terrinha\n"
-special-page: sem-terrinha
+special-page: null
 support_line: "Serão mais de 1000 crianças em Brasília partilhando a infância Sem Terra "
 layout: post
 files: []
