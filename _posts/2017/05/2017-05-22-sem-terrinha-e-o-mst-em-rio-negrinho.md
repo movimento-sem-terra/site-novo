@@ -52,6 +52,7 @@ releated_posts:
   - _posts/2016/11/2016-11-09-sem-terrinhas-se-mobilizam-por-alimentacao-saudavel-em-viamao-no-rs.md
   - _posts/2016/11/2016-11-10-encontro-dos-sem-terrinha-encerra-com-ato-na-secretaria-de-educacao-em-curitiba.md
   - _posts/2016/11/2016-11-11-no-parana-12o-encontro-dos-sem-terrinha-encerra-com-luta-cores-e-brincadeiras.md
+special-page: sem-terrinha
 
 ---
 <p>
