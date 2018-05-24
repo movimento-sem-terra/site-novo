@@ -30,7 +30,7 @@ releated_posts:
   - _posts/2017/10/2017-10-09-na-bahia-criancas-se-preparam-para-o-1o-encontro-nacional-dos-sem-terrinha.md
   - _posts/2018/05/2018-05-17-as-lutas-territoriais-devem-estar-casadas-com-as-lutas-por-um-projeto-politico-mineral-nacional-afirma-dirigente-do-mam.md
   - _posts/2017/09/2017-09-13-no-rio-de-janeiro-encontro-reunira-4-mil-atingidos-por-barragens.md
-section: cover
+section: featured-news
 special-page: sem-terrinha
 
 ---
