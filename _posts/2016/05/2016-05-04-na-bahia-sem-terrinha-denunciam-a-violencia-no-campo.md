@@ -37,6 +37,7 @@ releated_posts:
   - _posts/2015/10/2015-10-20-sem-terrinha-ocupam-prefeitura-de-olho-d-agua-do-casado-no-sertao-de-alagoas.md
   - _posts/2015/10/2015-10-20-sem-terrinha-se-mobilizam-por-educacao-em-tocantins.md
   - _posts/2015/10/2015-10-19-no-para-sem-terrinha-realizam-jornada-estadual-de-lutas.md
+special-page: sem-terrinha
 
 ---
 <figure class="image"><img alt="20160504053612.jpg" height="421" src="//farm8.staticflickr.com/7444/26542309650_beb3dff6bd_b.jpg" width="700" />
