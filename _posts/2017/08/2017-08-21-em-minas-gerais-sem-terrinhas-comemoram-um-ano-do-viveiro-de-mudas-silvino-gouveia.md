@@ -58,6 +58,7 @@ releated_posts:
   - _posts/2017/05/2017-05-22-sem-terrinha-e-o-mst-em-rio-negrinho.md
   - _posts/2017/07/2017-07-05-ii-turma-do-curso-basico-de-educacao-em-agroecologia-da-regiao-nordeste.md
   - _posts/2017/08/2017-08-14-infancia-no-mst-e-tema-de-seminario-dos-sem-terrinha-no-espirito-santo.md
+special-page: sem-terrinha
 
 ---
 <div>

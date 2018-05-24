@@ -29,6 +29,7 @@ releated_posts:
   - _posts/2017/09/2017-09-30-crime-impune-justica-liberta-policial-militar-que-matou-sem-terra-no-rs.md
   - _posts/2017/10/2017-10-02-mutirao-da-esperanca-camponesa-e-destaque-em-feira-de-encruzilhada-do-sul-no-rs.md
   - _posts/2017/10/2017-10-03-plano-popular-de-emergencia-e-lancado-no-rio-grande-do-sul.md
+special-page: sem-terrinha
 
 ---
 <p><img alt="Caminhada dos Sem Terrinha em Canguçu, na região Sul do Rio Grande do Sul, no último sábado 7. Foto Eduardo Teixeira - Divulgação.jpg" height="468" src="//farm5.staticflickr.com/4486/36925072214_e5b19e502f_b.jpg" width="700" /></p>

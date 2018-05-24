@@ -41,6 +41,7 @@ releated_posts:
   - _posts/2016/12/2016-12-20-1-encontro-dos-sem-terrinha-da-regional-do-df-e-realizado-em-brasilia.md
   - _posts/2017/08/2017-08-14-infancia-no-mst-e-tema-de-seminario-dos-sem-terrinha-no-espirito-santo.md
   - _posts/2017/08/2017-08-21-em-minas-gerais-sem-terrinhas-comemoram-um-ano-do-viveiro-de-mudas-silvino-gouveia.md
+special-page: sem-terrinha
 
 ---
 <div style="text-align:center">
