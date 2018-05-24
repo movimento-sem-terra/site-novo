@@ -63,7 +63,7 @@ section: cover
 
 <p>&nbsp;</p>
 
-<p>De 6 a 9 de junho, o centro de Curitiba recebe a 17&ordf; edi&ccedil;&atilde;o da Jornada de Agroecologia, um dos maiores eventos dedicados &agrave; agroecologia no Brasil. O evento, criado em 2002, tem car&aacute;ter itinerante e chega pela primeira vez na capital do estado.</p>
+<p>De 6 a 9 de junho, o centro de Curitiba recebe a 17&ordf; edi&ccedil;&atilde;o da Jornada de Agroecologia, um dos maiores eventos dedicados &agrave; agroecologia no Brasil. Criado em 2002, tem car&aacute;ter itinerante e chega pela primeira vez na capital do estado.</p>
 
 <p><br />
 A confer&ecirc;ncia de abertura ser&aacute; no teatro Gua&iacute;ra, com a presen&ccedil;a confirmada do te&oacute;logo Leonardo Boff e da artista Let&iacute;cia Sabatella. Dezenas de semin&aacute;rios, oficinas, shows e atividades culturais tamb&eacute;m est&atilde;o garantidas na programa&ccedil;&atilde;o e est&atilde;o previstas para ocorrer na Reitoria e no Pr&eacute;dio Hist&oacute;rico da Universidade Federal do Paran&aacute; (UFPR).</p>
