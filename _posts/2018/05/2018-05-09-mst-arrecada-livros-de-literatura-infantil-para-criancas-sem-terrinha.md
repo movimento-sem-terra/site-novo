@@ -35,6 +35,7 @@ releated_posts:
   - _posts/2017/10/2017-10-11-criancas-se-reunem-em-pernambuco-para-o-xiii-encontro-estadual-dos-sem-terrinha.md
   - _posts/2017/10/2017-10-11-em-audiencia-com-a-casa-civil-sem-terrinha-cobram-mais-comprometimento-de-sartori-com-a-educacao.md
   - _posts/2017/10/2017-10-14-sem-terrinhas-do-espirito-santo-se-preparam-para-encontro-nacional.md
+special-page: sem-terrinha
 
 ---
 <div style="text-align:center">
