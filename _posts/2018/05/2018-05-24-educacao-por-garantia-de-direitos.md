@@ -32,6 +32,20 @@ files:
     small: //farm1.staticflickr.com/881/28451711428_509a806005_n.jpg
     title: sel (40).JPG
     $$hashKey: 0BG
+  - link: //farm1.staticflickr.com/980/28456486568_4471ce4cc2_b.jpg
+    original: //farm1.staticflickr.com/980/28456486568_d1e86e7f24_o.jpg
+    thumbnail: //farm1.staticflickr.com/980/28456486568_4471ce4cc2_t.jpg
+    medium: //farm1.staticflickr.com/980/28456486568_4471ce4cc2_z.jpg
+    small: //farm1.staticflickr.com/980/28456486568_4471ce4cc2_n.jpg
+    title: WhatsApp Image 2018-05-24 at 16.46.26.jpeg
+    $$hashKey: 5D9
+  - link: //farm1.staticflickr.com/952/41427982735_4618aa1814_b.jpg
+    original: //farm1.staticflickr.com/952/41427982735_0f8ecfcd39_o.jpg
+    thumbnail: //farm1.staticflickr.com/952/41427982735_4618aa1814_t.jpg
+    medium: //farm1.staticflickr.com/952/41427982735_4618aa1814_z.jpg
+    small: //farm1.staticflickr.com/952/41427982735_4618aa1814_n.jpg
+    title: WhatsApp Image 2018-05-24 at 16.48.59.jpeg
+    $$hashKey: 5DC
 created_date: "2018-05-24T12:42:47-03:00"
 published: true
 releated_posts:
@@ -49,6 +63,12 @@ releated_posts:
 section: cover
 
 ---
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2018-05-24 at 16.46.26.jpeg" height="467" src="//farm1.staticflickr.com/980/28456486568_4471ce4cc2_b.jpg" width="700" />
+<figcaption>Divulga&ccedil;&atilde;o MST&nbsp;</figcaption>
+</figure>
+</div>
+
 <p dir="ltr">&nbsp;</p>
 
 <p dir="ltr"><em>Por Webert da Cruz<br />
