@@ -3,10 +3,10 @@ date: "2018-05-24T10:53:34-03:00"
 tags:
   - tag: frente-brasil-popular
   - tag: nota
-title: Frente Brasil Popular declara apoio a Greve dos Caminhoneiros
+title: Frente Brasil Popular declara apoio à Greve dos Caminhoneiros
 support_line: "Há protestos em pelo menos 20 estados, como São Paulo, Rio de Janeiro, Santa Catarina e Minas Gerais"
 menu: lutas e mobilizações
-images_hd: //farm1.staticflickr.com/882/41600261624_24d9d23944_b.jpg
+images_hd: //farm1.staticflickr.com/954/28450315058_4b5ac9933b_b.jpg
 layout: post
 files:
   - link: //farm1.staticflickr.com/882/41600261624_24d9d23944_b.jpg
@@ -16,6 +16,13 @@ files:
     small: //farm1.staticflickr.com/882/41600261624_24d9d23944_n.jpg
     title: índice.jpeg
     $$hashKey: 08E
+  - link: //farm1.staticflickr.com/954/28450315058_4b5ac9933b_b.jpg
+    original: //farm1.staticflickr.com/954/28450315058_e368db0838_o.jpg
+    thumbnail: //farm1.staticflickr.com/954/28450315058_4b5ac9933b_t.jpg
+    medium: //farm1.staticflickr.com/954/28450315058_4b5ac9933b_z.jpg
+    small: //farm1.staticflickr.com/954/28450315058_4b5ac9933b_n.jpg
+    title: manifestacoes-dos-caminhoneiros-ja-causam-desabastecimento-nos-supermerc.jpg
+    $$hashKey: 0KM
 created_date: "2018-05-24T10:57:45-03:00"
 published: true
 releated_posts:

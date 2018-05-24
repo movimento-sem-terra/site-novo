@@ -32,6 +32,7 @@ releated_posts:
   - 2015/01/2015-01-09-plantacoes-geneticamente-modificadas-ficcao-corporativa.md
   - 2014/10/2014-10-07-apos-oito-anos-de-pesquisas-relatorio-confirma-vinculacao-glifosatocancer.md
   - 2014/12/2014-11-19-preocupados-com-saude-da-populacao-governos-comecam-a-banir-o-glifosato.md
+special-page: sem-terrinha
 
 ---
 <p><img alt="img213.jpg" src="http://farm9.staticflickr.com/8723/16805891283_8572565440_b.jpg" /><br />
