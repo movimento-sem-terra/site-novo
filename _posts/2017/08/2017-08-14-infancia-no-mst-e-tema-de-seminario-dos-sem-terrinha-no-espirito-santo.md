@@ -32,6 +32,7 @@ releated_posts:
   - _posts/2016/11/2016-11-30-mst-inaugura-escola-e-homenageia-a-resistencia-negra-no-es.md
   - _posts/2017/03/2017-03-15-atingidos-pela-samarco-ocupam-linha-da-vale-no-es.md
   - _posts/2017/07/2017-07-17-mst-condena-brutalidade-do-estado-em-despejo-no-espirito-santo.md
+special-page: sem-terrinha
 
 ---
 <p>
