@@ -28,8 +28,6 @@ releated_posts:
 ---
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
-
 <p><em>Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
@@ -58,7 +56,7 @@ No dia 20 de maio, a Venezuela demonstrou mais uma vez que a batalha pela democr
 Recha&ccedil;amos total e completamente as declara&ccedil;&otilde;es dos governos e organismos internacionais, como a OEA (Organiza&ccedil;&atilde;o dos Estados Americanos), de n&atilde;o reconhecer o processo eleitoral.</p>
 
 <p><br />
-Os EUA ao declarar o aprofundamento das medidas de san&ccedil;&otilde;es econ&ocirc;micas contra a Venezuela, um dia ap&oacute;s seu o exerc&iacute;cio democr&aacute;tico e soberano, demonstra claramente o papel de inger&ecirc;ncia e autorit&aacute;rio sobre qualquer na&ccedil;&atilde;o que n&atilde;o esteja alinhada aos seus interesses.</p>
+Os EUA ao declarar o aprofundamento das medidas de san&ccedil;&otilde;es econ&ocirc;micas contra a Venezuela, um dia ap&oacute;s seu o exerc&iacute;cio democr&aacute;tico e soberano, demonstra claramente o papel de inger&ecirc;ncia e autoritarismo&nbsp;sobre qualquer na&ccedil;&atilde;o que n&atilde;o esteja alinhada aos seus interesses.</p>
 
 <p><br />
 Os governos da regi&atilde;o que n&atilde;o reconhecem as elei&ccedil;&otilde;es na Venezuela, como o golpista Temer, no Brasil, Henrique Pe&ntilde;a Nieto, no M&eacute;xico, Juan Manuel Santos, na Col&ocirc;mbia, entre outros, s&atilde;o governos claramente subordinados as politicas estadunidenses, que quer impor sua hegemonia na geopol&iacute;tica latino-americana.</p>
