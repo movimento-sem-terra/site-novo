@@ -2,13 +2,13 @@
 layout: null
 ---
 [
-{
-    "title":"Encontro Nacional das Crianças Sem Terrinha",
-    "url":"/sem-terrinha/",
-    "date":"2018-05-23 00:00:00 +0000",
-    "support_line":"A participação de meninas e meninos nos movimentos populares é um exercício de democracia. " ,
-    "cover":"//farm1.staticflickr.com/952/42305608921_3281987dca_b.jpg"
-},
+// {
+//     "title":"Encontro Nacional das Crianças Sem Terrinha",
+//     "url":"/sem-terrinha/",
+//     "date":"2018-05-23 00:00:00 +0000",
+//     "support_line":"A participação de meninas e meninos nos movimentos populares é um exercício de democracia. " ,
+//     "cover":"//farm1.staticflickr.com/952/42305608921_3281987dca_b.jpg"
+// },
 {
     "title":"III Feira Nacional da Reforma Agrária",
     "url":"/III-feira-nacional-da-reforma-agraria/",
