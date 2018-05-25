@@ -25,7 +25,7 @@ files:
     title: 2017 - sem terrinha RJ - por luana farias.jpg
     $$hashKey: "033"
 created_date: "2018-05-19T10:29:47-03:00"
-published: true
+published: false
 releated_posts:
   - _posts/2017/10/2017-10-09-na-bahia-criancas-se-preparam-para-o-1o-encontro-nacional-dos-sem-terrinha.md
   - _posts/2018/05/2018-05-17-as-lutas-territoriais-devem-estar-casadas-com-as-lutas-por-um-projeto-politico-mineral-nacional-afirma-dirigente-do-mam.md
