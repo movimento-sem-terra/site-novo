@@ -29,7 +29,8 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p><em>Por Solange Engelmann*</em></p>
+<p><em>Por Solange Engelmann*<br />
+Do <a href="http://www.globalsustentavel.com.br">Global Sustent&aacute;vel​</a></em></p>
 
 <p>&nbsp;</p>
 
