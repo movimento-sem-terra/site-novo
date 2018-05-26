@@ -2,7 +2,7 @@
 date: "2018-05-26T12:30:34-03:00"
 tags:
   - tag: mulheres
-title: "O não lugar da mulher nos espaços política brasileira "
+title: "O não lugar da mulher nos espaços da política brasileira "
 support_line: "Nossa sociedade capitalista excludente é misógina, machista, patriarcal e violenta contra as mulheres"
 menu: lutas e mobilizações
 label: articles
@@ -42,7 +42,9 @@ Nossa sociedade capitalista excludente &eacute; mis&oacute;gina, machista, patri
 Tamb&eacute;m sofremos com outros tipos de viol&ecirc;ncia, e com a desigualdade de g&ecirc;nero em v&aacute;rios setores e institui&ccedil;&otilde;es da sociedade.</p>
 
 <p><br />
-Por&eacute;m, segundo dados do Instituto Brasileiro de Geografia e Estat&iacute;stica (IBGE), coletados na Pesquisa Nacional por Amostra de Domic&iacute;lios (Pnad) de 2014, o Brasil tem mais de 6,3 milh&otilde;es de mulheres a mais que homens.<br />
+Por&eacute;m, segundo dados do Instituto Brasileiro de Geografia e Estat&iacute;stica (IBGE), coletados na Pesquisa Nacional por Amostra de Domic&iacute;lios (Pnad) de 2014, o Brasil tem mais de 6,3 milh&otilde;es de mulheres a mais que homens.</p>
+
+<p><br />
 Ao todo a popula&ccedil;&atilde;o brasileira &eacute; de 203,2 milh&otilde;es de habitantes, sendo 104,772 milh&otilde;es de mulheres (51,6%) e 98,419 milh&otilde;es de homens (48,4%).</p>
 
 <p><br />
