@@ -40,7 +40,7 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p>&ldquo;De julho de 2017 para c&aacute;, o pre&ccedil;o da gasolina e do Diesel nas refinarias aumentaram 59%&rdquo;, explica a Frente Brasil Popular em nota, divulgada nesta quarta-feira (23), em apoio a greve dos caminhoneiros que entra no seu 4 dia hoje (24).</p>
+<p>&ldquo;De julho de 2017 para c&aacute;, o pre&ccedil;o da gasolina e do Diesel nas refinarias aumentaram 59%&rdquo;, explica a Frente Brasil Popular em nota, divulgada nesta quarta-feira (23), em apoio a greve dos caminhoneiros que entra no seu 4&ordm; dia hoje (24).</p>
 
 <p><br />
 H&aacute; protestos em pelo menos 20 estados, como S&atilde;o Paulo, Rio de Janeiro, Santa Catarina e Minas Gerais. A Associa&ccedil;&atilde;o Brasileira dos Caminhoneiros (Abcam) diz que a greve continua at&eacute; o presidente Michel Temer sancionar uma lei para zerar a al&iacute;quota do PIS/Cofins sobre o diesel.</p>
