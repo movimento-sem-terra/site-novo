@@ -17,7 +17,7 @@ files:
     title: 1044956-df_14092016-vac_0059.jpg
     $$hashKey: 0DH
 created_date: "2018-05-26T12:37:19-03:00"
-published: false
+published: true
 releated_posts:
   - _posts/2018/03/2018-03-20-em-defesa-da-agua-mulheres-sem-terra-ocupam-a-chesf-e-usina-de-xingo-na-regiao-nordeste.md
   - _posts/2018/03/2018-03-20-policia-agride-acampados-de-itatiaiucu-em-represalia-a-acao-das-mulheres-na-nestle.md
@@ -72,7 +72,7 @@ Tamb&eacute;m temos o exemplo recente da vereadora do PSOL do Rio de Janeiro, Ma
 Al&eacute;m da baixa representatividade parlamentar no pa&iacute;s, as mulheres ainda correm risco de sofrer com a viol&ecirc;ncia simb&oacute;lica, f&iacute;sica e morrer pela sua atua&ccedil;&atilde;o pol&iacute;tica. Diante dessa realidade &eacute; muito importante para as mulheres a amplia&ccedil;&atilde;o da representatividade feminina na pol&iacute;tica brasileira.</p>
 
 <p><br />
-Nesse sentido, estamos retrocedendo no Brasil, no atual governo ileg&iacute;timo de Temer s&oacute; h&aacute; uma ministra mulher, Grace Mendon&ccedil;a, que assumiu a Advocacia Geral da Uni&atilde;o (AGU), em 2016, ap&oacute;s o governo ter sido muito criticado por formar um minist&eacute;rio sem mulheres.</p>
+Nesse sentido, estamos retrocedendo no Brasil. No atual governo ileg&iacute;timo de Temer s&oacute; h&aacute; uma ministra mulher, Grace Mendon&ccedil;a, que assumiu a Advocacia Geral da Uni&atilde;o (AGU), em 2016, ap&oacute;s o governo ter sido muito criticado por formar um minist&eacute;rio sem mulheres.</p>
 
 <p><br />
 A luta das mulheres na busca de direitos e a visibilidade das pautas de igualdade de g&ecirc;nero no espa&ccedil;o p&uacute;blico, depende do aumento da representatividade das mulheres no Congresso brasileiro.</p>
