@@ -60,7 +60,7 @@ releated_posts:
   - _posts/2017/10/2017-10-14-sem-terrinhas-do-espirito-santo-se-preparam-para-encontro-nacional.md
   - _posts/2017/10/2017-10-11-criancas-se-reunem-em-pernambuco-para-o-xiii-encontro-estadual-dos-sem-terrinha.md
   - _posts/2017/10/2017-10-18-no-para-mst-inicia-encontro-estadual-dos-sem-terrinha.md
-section: cover
+section: featured-news
 
 ---
 <div style="text-align:center">
