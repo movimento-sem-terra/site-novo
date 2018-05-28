@@ -16,7 +16,7 @@ files:
     title: 1527180891_038789_1527181387_noticia_normal.jpg
     $$hashKey: 085
 created_date: "2018-05-26T11:58:41-03:00"
-published: false
+published: true
 releated_posts:
   - _posts/2017/12/2017-12-07-mulheres-do-mst-se-solidarizam-com-agricultoras-e-agricultores-em-greve-de-fome.md
   - _posts/2017/12/2017-12-07-em-nota-publica-mpa-reafirma-o-compromisso-de-luta-e-resistencia-contra-a-reforma-da-previdencia.md
@@ -52,6 +52,6 @@ Ap&oacute;s uma tentativa de acordo com as dire&ccedil;&otilde;es das mobiliza&c
 N&atilde;o podemos aceitar que o lucro dos acionistas internacionais esteja acima dos interesses do povo brasileiro. N&atilde;o podemos aceitar que essa pol&iacute;tica de pre&ccedil;os que penaliza a popula&ccedil;&atilde;o mais pobre seja mantida. N&atilde;o podemos aceitar que Pedro Parente continue a frente da Petrobras.</p>
 
 <p style="text-align: right;"><br />
-25 de Maio de 2018<br />
+25 de Maio - 2018<br />
 Frente Brasil Popular<br />
 Frente Povo Sem Medo</p>
