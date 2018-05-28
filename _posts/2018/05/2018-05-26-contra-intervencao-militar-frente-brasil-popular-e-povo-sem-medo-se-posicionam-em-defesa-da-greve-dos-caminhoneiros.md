@@ -16,7 +16,7 @@ files:
     title: 1527180891_038789_1527181387_noticia_normal.jpg
     $$hashKey: 085
 created_date: "2018-05-26T11:58:41-03:00"
-published: true
+published: false
 releated_posts:
   - _posts/2017/12/2017-12-07-mulheres-do-mst-se-solidarizam-com-agricultoras-e-agricultores-em-greve-de-fome.md
   - _posts/2017/12/2017-12-07-em-nota-publica-mpa-reafirma-o-compromisso-de-luta-e-resistencia-contra-a-reforma-da-previdencia.md
@@ -24,10 +24,6 @@ releated_posts:
   - _posts/2017/12/2017-12-13-9o-dia-de-greve-de-fome-trabalhadores-do-campo-e-da-cidade-aderem-a-greve-em-todo-pais.md
 
 ---
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
 <p><em>Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
