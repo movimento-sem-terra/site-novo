@@ -17,7 +17,7 @@ files:
     title: 1044956-df_14092016-vac_0059.jpg
     $$hashKey: 0DH
 created_date: "2018-05-26T12:37:19-03:00"
-published: true
+published: false
 releated_posts:
   - _posts/2018/03/2018-03-20-em-defesa-da-agua-mulheres-sem-terra-ocupam-a-chesf-e-usina-de-xingo-na-regiao-nordeste.md
   - _posts/2018/03/2018-03-20-policia-agride-acampados-de-itatiaiucu-em-represalia-a-acao-das-mulheres-na-nestle.md
@@ -25,10 +25,6 @@ releated_posts:
   - _posts/2018/03/2018-03-23-a-reforma-agraria-popular-e-um-instrumento-que-legitima-as-mulheres-nos-espacos-de-poder.md
 
 ---
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
 <p><em>Por Solange Engelmann*<br />
 Do <a href="http://www.globalsustentavel.com.br">Global Sustent&aacute;vel​</a></em></p>
 
