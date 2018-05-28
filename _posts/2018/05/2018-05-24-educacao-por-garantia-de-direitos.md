@@ -76,7 +76,7 @@ Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p dir="ltr">&nbsp;</p>
 
-<p dir="ltr">Fruto de luta da segunda ocupa&ccedil;&atilde;o do MST no Esp&iacute;rito Santo, a Escola Estadual Pluridocente de Ensino Fundamental Vale da Vit&oacute;ria tem 32 anos e realiza diversas atividades educativas, agroecol&oacute;gicas e culturais. Cerca de 70 crian&ccedil;as, adolescentes e jovens do Assentamento Vale da Vit&oacute;ria no munic&iacute;pio de S&atilde;o Mateus (ES) vivenciam processos educativos do curr&iacute;culo b&aacute;sico de ensino do estado e a pedagogia do MST.</p>
+<p dir="ltr">Fruto de luta da segunda ocupa&ccedil;&atilde;o do MST no Esp&iacute;rito Santo, a Escola Estadual Pluridocente de Ensino Fundamental Vale da Vit&oacute;ria tem 32 anos e realiza diversas atividades educativas, agroecol&oacute;gicas e culturais. Cerca de 65 crian&ccedil;as, adolescentes e jovens do Assentamento Vale da Vit&oacute;ria no munic&iacute;pio de S&atilde;o Mateus (ES) vivenciam processos educativos do curr&iacute;culo b&aacute;sico de ensino do estado e a pedagogia do MST.</p>
 
 <p dir="ltr"><br />
 Elementos da organiza&ccedil;&atilde;o do movimento de luta pela terra comp&otilde;em o ensino e aprendizagem dos educadores e educandos, na constru&ccedil;&atilde;o de leituras mais cr&iacute;ticas de mundo e fortalecimento de uma educa&ccedil;&atilde;o do campo mais engajada. Conversamos com uma educanda e uma educadora dessa realidade para conhecermos mais dos processos educativos que as crian&ccedil;as Sem Terrinha participam no Movimento.</p>
