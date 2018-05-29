@@ -4,7 +4,7 @@ tags:
   - tag: frente-brasil-popular
   - tag: fora-temer
   - tag: conjuntura
-title: "Quarta-feira, 30 de maio, é Dia Nacional de Luta"
+title: "Quarta-feira, 30 de maio é Dia Nacional de Luta"
 support_line: "Pela redução do preço do gás e do combustível, Frentes convocam dia nacional de luta"
 menu: projeto popular
 section: cover
