@@ -27,7 +27,7 @@ releated_posts:
   - _posts/2018/01/2018-01-29-num-grande-acordo-nacional-com-supremo-com-tudo.md
 
 ---
-<p><img alt="6.jpg" height="467" src="//farm2.staticflickr.com/1745/42420240751_d762841fa5_b.jpg" width="700" /></p>
+<p>&nbsp;</p>
 
 <p>&nbsp;</p>
 
