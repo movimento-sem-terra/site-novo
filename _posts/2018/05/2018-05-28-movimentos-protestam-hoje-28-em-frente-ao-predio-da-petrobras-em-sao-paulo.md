@@ -7,7 +7,7 @@ tags:
 title: Movimentos protestam nesta segunda-feira em frente ao prédio da Petrobras em São Paulo
 support_line: Manifestação será na Avenida Paulista e exige redução do preço dos combustíveis.
 menu: lutas e mobilizações
-section: cover
+section: featured-news
 images_hd: //farm1.staticflickr.com/877/40606509290_05751b962f_b.jpg
 layout: post
 files:
