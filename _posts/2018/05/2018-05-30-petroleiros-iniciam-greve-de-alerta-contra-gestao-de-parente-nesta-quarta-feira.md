@@ -34,14 +34,9 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p dir="ltr" style="box-sizing: inherit; margin: 0px 0px 11px; font-size: 1.1em; color: rgb(85, 85, 85); font-family: Helvetica, Arial, sans-serif;"><em style="box-sizing: inherit;">Por&nbsp;</em></p>
-
-<address class="author" itemprop="author" rel="author" style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-style: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 1rem; line-height: normal; font-family: Merriweather, &quot;Times New Roman&quot;; vertical-align: baseline; color: rgb(26, 26, 26);">Frei S&eacute;rgio Ant&ocirc;nio G&ouml;rgen</address>
-
-<p dir="ltr" style="box-sizing: inherit; margin: 0px 0px 11px; font-size: 1.1em; color: rgb(85, 85, 85); font-family: Helvetica, Arial, sans-serif;"><br style="box-sizing: inherit;" />
-<em style="box-sizing: inherit;">Da P&aacute;gina do MST&nbsp;</em></p>
-
 <p dir="ltr" style="box-sizing: inherit; margin: 0px 0px 11px; font-size: 1.1em; color: rgb(85, 85, 85); font-family: Helvetica, Arial, sans-serif;">&nbsp;</p>
+
+<p>Petroleiros iniciam greve de alerta contra gest&atilde;o de Parente nesta quarta-feira</p>
 
 <p>&nbsp;</p>
 
