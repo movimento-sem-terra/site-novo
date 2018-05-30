@@ -4,7 +4,7 @@ tags:
   - tag: greve
   - tag: luta-de-classes
   - tag: mobilizações
-title: A classe trabalhadora é quem move as estruturas
+title: "A classe trabalhadora é a única capaz de mover as estruturas da sociedade "
 images_hd: //farm1.staticflickr.com/889/28586552138_d50535055a_b.jpg
 support_line: "As paralisações são ma forma de luta utilizada há no mínimo três séculos por trabalhadores no mundo todo. É o trabalhador detendo o poder sobre as demandas de sua classe.\n"
 menu: lutas e mobilizações
