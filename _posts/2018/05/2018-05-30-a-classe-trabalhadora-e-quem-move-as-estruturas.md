@@ -6,7 +6,7 @@ tags:
   - tag: mobilizações
 title: "A classe trabalhadora é a única capaz de mover as estruturas da sociedade "
 images_hd: //farm1.staticflickr.com/889/28586552138_d50535055a_b.jpg
-support_line: "As paralisações são ma forma de luta utilizada há no mínimo três séculos por trabalhadores no mundo todo. É o trabalhador detendo o poder sobre as demandas de sua classe.\n"
+support_line: As paralisações são uma forma de luta utilizada há no mínimo três séculos por trabalhadores no mundo todo
 menu: lutas e mobilizações
 layout: post
 files:
@@ -53,8 +53,6 @@ releated_posts:
 <p dir="ltr"><em>Por Maura Silva&nbsp;<br />
 Da P&aacute;gina do MST&nbsp;</em><br />
 &nbsp;</p>
-
-<p dir="ltr">&nbsp;</p>
 
 <p>Nos &uacute;ltimos dias vimos o pa&iacute;s parar em decorr&ecirc;ncia da greve dos caminhoneiros. Os trabalhadores protestaram contra os recentes aumentos nos pre&ccedil;os dos combust&iacute;veis e exigiram do governo federal a redu&ccedil;&atilde;o de impostos. Foram aproximadamente 10 dias de paralisa&ccedil;&atilde;o que afetaram o abastecimento dos postos de gasolina, al&eacute;m da oferta de diversos produtos e servi&ccedil;os. Mesmo com os transtornos a greve obteve forte apoio popular, muitas manifesta&ccedil;&otilde;es puderam ser observadas nas redes sociais e nas ruas. Fato incomum quando observamos as greves realizadas por outros setores como os professores, por exemplo.</p>
 
