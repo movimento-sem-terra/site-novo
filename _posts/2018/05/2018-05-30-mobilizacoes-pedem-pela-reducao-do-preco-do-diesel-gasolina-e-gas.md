@@ -18,7 +18,7 @@ files:
     title: inserir-no-post.jpeg
     $$hashKey: 02R
 created_date: "2018-05-30T11:42:52-03:00"
-published: true
+published: false
 releated_posts:
   - _posts/2017/10/2017-10-27-governo-temer-entrega-areas-do-pre-sal.md
   - _posts/2017/09/2017-09-28-pelo-petroleo-para-educacao-combater-os-inimigos-da-patria.md
