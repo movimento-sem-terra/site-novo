@@ -49,8 +49,7 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p><em>Por Renata Maria&nbsp;<br />
-Da P&aacute;gina do MST&nbsp;</em></p>
+<p><i>Do Levante Popular da Juventude</i></p>
 
 <p>&nbsp;</p>
 
