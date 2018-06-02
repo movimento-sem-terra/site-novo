@@ -36,7 +36,10 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p>O MST emitiu na tarde deste s&aacute;bado (02) uma nota se posicionando na conjuntura de recomposi&ccedil;&atilde;o da diretoria da Petrobras, ap&oacute;s greve dos petroleiros e do movimento de caminhoneiros que parou o Brasil na &uacute;ltima semana. O Movimento defende que &quot;&eacute; preciso uma mudan&ccedil;a substancial na pol&iacute;tica de gest&atilde;o da estatal que deve estar submetida a um projeto de desenvolvimento nacional que tenha como prioridade o bem estar do povo brasileiro e n&atilde;o o mercado&quot;.</p>
+<p>O MST emitiu na tarde deste s&aacute;bado (02) uma nota se posicionando na conjuntura de recomposi&ccedil;&atilde;o da diretoria da Petrobras, ap&oacute;s greve dos petroleiros e do movimento de caminhoneiros que parou o Brasil na &uacute;ltima semana.</p>
+
+<p><br />
+O Movimento defende que &quot;&eacute; preciso uma mudan&ccedil;a substancial na pol&iacute;tica de gest&atilde;o da estatal que deve estar submetida a um projeto de desenvolvimento nacional que tenha como prioridade o bem estar do povo brasileiro e n&atilde;o o mercado&quot;.</p>
 
 <p><br />
 Confira na &iacute;ntegra:</p>
