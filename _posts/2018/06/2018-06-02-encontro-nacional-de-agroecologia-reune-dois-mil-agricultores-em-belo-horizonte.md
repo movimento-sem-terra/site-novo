@@ -6,7 +6,7 @@ tags:
 title: Encontro Nacional de Agroecologia reúne dois mil agricultores em Belo Horizonte
 support_line: IV ENA é um grande encontro entre todos os produtores de tecnologias sociais para cultivar alimentos e vidas livres de agrotóxicos.
 menu: agricultura camponesa
-section: cover
+section: featured-news
 images_hd: //farm2.staticflickr.com/1738/41602058695_92210b6e67_b.jpg
 layout: post
 files:
