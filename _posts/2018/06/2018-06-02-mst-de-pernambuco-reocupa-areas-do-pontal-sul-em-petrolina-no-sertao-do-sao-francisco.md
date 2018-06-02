@@ -4,7 +4,7 @@ tags:
   - tag: pernambuco
   - tag: ocupação
   - tag: água
-title: MST de Pernambuco Reocupa Áreas do Pontal Sul em Petrolina no Sertão do São Francisco
+title: "MST de Pernambuco reocupa áreas do Pontal Sul, em Petrolina, no Sertão do São Francisco"
 menu: lutas e mobilizações
 support_line: "As áreas do Pontal Sul, que foram ocupadas desde 2007, estavam para ser leiloadas para as grandes empresas nacionais e do agronegócio brasileiro."
 images_hd: //farm2.staticflickr.com/1748/41800369654_482f41488d_b.jpg
