@@ -25,6 +25,12 @@ releated_posts:
   - _posts/2017/11/2017-11-30-luta-pela-terra-e-criminalizacao-dos-movimentos-populares-sao-pautas-de-encontro-da-renap-em-porto-alegre.md
 
 ---
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="5cfd0d40-fb4e-4eee-8613-e40da2566c5a.jpg" height="466" src="//farm2.staticflickr.com/1752/41658323625_17b33cd465_b.jpg" width="700" />
+<figcaption>Divulga&ccedil;&atilde;o/MST</figcaption>
+</figure>
+</div>
+
 <p>&nbsp;</p>
 
 <p><em>Da P&aacute;gina do MST&nbsp;</em></p>
