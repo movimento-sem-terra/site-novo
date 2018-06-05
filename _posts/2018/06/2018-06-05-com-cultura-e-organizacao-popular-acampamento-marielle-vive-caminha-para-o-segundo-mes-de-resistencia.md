@@ -66,7 +66,7 @@ Num fim de semana com muitas atividades, o Acampamento Marielle Vive!, localizad
 <div><br />
 O teatro veio atrav&eacute;s do Projeto Teatro e Mem&oacute;ria da Companhia Estudo de Cena com duas apresenta&ccedil;&otilde;es. Na sexta (01), &agrave;s 19h, apresentaram a pe&ccedil;a &quot;Guerras desconhecidas&quot;, que busca trazer para o publico tr&ecirc;s guerras brasileiras que n&atilde;o aparecem na hist&oacute;ria oficial do pa&iacute;s a partir da narrativa de tr&ecirc;s importantes personagens do imagin&aacute;rio social e de luta do nosso continente: Lampi&atilde;o, Zapata e Santa Dica. E no s&aacute;bado (02), tamb&eacute;m &agrave;s 19h, chegou a hora de &quot;A farsa da justi&ccedil;a&quot;, uma pe&ccedil;a inspirada no fato real de um sobrevivente do Massacre de Eldorado dos Caraj&aacute;s, In&aacute;cio Nascimento, que se fingiu de morto para salvar sua vida.&nbsp;</div>
 
-<div><br />
+<div>&nbsp;
 <figure class="image" style="float:left"><img alt="creditos coletivo socializando saberes Mariele vive 02052018 (14).jpeg" height="199" src="//farm2.staticflickr.com/1742/27720263207_deef66c43d_b.jpg" width="300" />
 <figcaption>Divulga&ccedil;&atilde;o MST&nbsp;</figcaption>
 </figure>
@@ -74,10 +74,10 @@ Al&eacute;m do teatro, no s&aacute;bado foi comemorado o Dia Internacional das P
 
 <div><br />
 <br />
-Junto a estas atividades, durante o fim de semana aconteceram as aulas de capoeira para adultos e crian&ccedil;as, que j&aacute; fazem parte do cronograma de atividades. Assim como as reuni&otilde;es dos 26 N&uacute;cleos de Base que d&atilde;o organicidade e vida ao Acampamento.&nbsp;</div>
+Junto a estas atividades, durante o fim de semana aconteceram as aulas de capoeira para adultos e crian&ccedil;as&nbsp;que j&aacute; fazem parte do cronograma de atividades. Assim como as reuni&otilde;es dos 26 N&uacute;cleos de Base que d&atilde;o organicidade e vida ao Acampamento.&nbsp;</div>
 
 <div><br />
-Atualmente as fam&iacute;lias acampadas no Marielle Vive! exigem que o poder p&uacute;blico respeite a norma constitucional e a garanta da Reforma Agr&aacute;ria. As fam&iacute;lias denunciam que sofrem amea&ccedil;as: em v&aacute;rias noites s&atilde;o escutados disparos de armas de fogo em frente ao acampamento, al&eacute;m disso, elas s&atilde;o insultadas e amea&ccedil;adas nas redes sociais e por quem passa na estrada.&nbsp;</div>
+Atualmente as fam&iacute;lias acampadas no Marielle Vive! exigem que o poder p&uacute;blico respeite a norma constitucional e a garantia de&nbsp;Reforma Agr&aacute;ria. As fam&iacute;lias denunciam que sofrem amea&ccedil;as: em v&aacute;rias noites s&atilde;o escutados disparos de armas de fogo em frente ao acampamento, al&eacute;m disso, elas s&atilde;o insultadas e amea&ccedil;adas nas redes sociais e por quem passa na estrada.&nbsp;</div>
 
 <div><br />
 Outra den&uacute;ncia &eacute; em rela&ccedil;&atilde;o a fazenda, homens vinculados aos fazendeiros rondam o acampamento ostentando armas e eles t&ecirc;m ingressado gado, de forma sistem&aacute;tica e certamente irregular, nas &aacute;reas das fazendas S&atilde;o Jo&atilde;o das Pedras e Fazenda Eldorado. O objetivo da empresa dona da fazenda &eacute; forjar provas para contrapor a decis&atilde;o do desembargador do Tribunal de Justi&ccedil;a que a principio de maio ordenou a suspens&atilde;o da reintegra&ccedil;&atilde;o de posse solicitada pelo propriet&aacute;rio.&nbsp;</div>
