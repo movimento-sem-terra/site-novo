@@ -50,14 +50,14 @@ releated_posts:
 <div>
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="creditos coletivo socializando saberes Mariele vive 02052018 (21).jpeg" height="394" src="//farm2.staticflickr.com/1742/41688005155_4304de8238_b.jpg" width="700" />
-<figcaption>Divulga&ccedil;&atilde;o MST&nbsp;</figcaption>
+<figcaption>Fotos: Coletivo Socializando Saberes</figcaption>
 </figure>
 </div>
 </div>
 
 <div>
 <p><br />
-<em>Por Comunica&ccedil;&atilde;o MST/ES</em></p>
+<em>Por Comunica&ccedil;&atilde;o MST/SP</em></p>
 
 <p><br />
 Num fim de semana com muitas atividades, o Acampamento Marielle Vive!, localizado em Valinhos, regi&atilde;o de Campinas (SP) demonstrou os avan&ccedil;os na organicidade e a for&ccedil;a dos apoiadores/as que contribuem para o crescimento da ocupa&ccedil;&atilde;o. A jornada come&ccedil;ou na sexta (01) e se entendeu at&eacute; domingo (03) com teatro, atividades para crian&ccedil;as, reuni&otilde;es de n&uacute;cleos e a comemora&ccedil;&atilde;o do Putas Dei/Day, realizada conjuntamente com a Associa&ccedil;&atilde;o Mulheres Guerreiras.</p>
@@ -68,7 +68,7 @@ O teatro veio atrav&eacute;s do Projeto Teatro e Mem&oacute;ria da Companhia Est
 
 <div>&nbsp;
 <figure class="image" style="float:left"><img alt="creditos coletivo socializando saberes Mariele vive 02052018 (14).jpeg" height="199" src="//farm2.staticflickr.com/1742/27720263207_deef66c43d_b.jpg" width="300" />
-<figcaption>Divulga&ccedil;&atilde;o MST&nbsp;</figcaption>
+<figcaption>Fotos: Coletivo Socializando Saberes</figcaption>
 </figure>
 Al&eacute;m do teatro, no s&aacute;bado foi comemorado o Dia Internacional das Prostitutas, a partir das atividades propostas pela Associa&ccedil;&atilde;o Mulheres Guerreias que re&uacute;ne trabalhadores/as do sexo de Campinas e regi&atilde;o.&nbsp; Seguindo a data internacional de luta, durante o Putas Dei-Day, o Marielle Vive! foi cen&aacute;rio de rodas de conversa, informa&ccedil;&atilde;o sobre sa&uacute;de integral das mulheres, filmes, uma merenda coletiva com confraterniza&ccedil;&atilde;o e quadrilha.&nbsp;</div>
 
