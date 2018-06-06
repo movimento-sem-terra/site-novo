@@ -5,18 +5,18 @@ tags:
   - tag: ocupação
   - tag: lutas
 title: "Contra os desmonte na Reforma Agrária, Sem Terras ocupam INCRA em Aracaju"
-images_hd: //farm2.staticflickr.com/1737/42593159591_310f1e6891_b.jpg
+images_hd: //farm2.staticflickr.com/1721/42619622351_713bc364a5_b.jpg
 menu: lutas e mobilizações
 support_line: Os trabalhadores também reivindicam vistoria e desapropriação imediata das áreas em processo para acelerar o assentamento da mais de nove mil famílias acampadas no estado
 layout: post
 files:
-  - link: //farm2.staticflickr.com/1737/42593159591_310f1e6891_b.jpg
-    original: //farm2.staticflickr.com/1737/42593159591_28fce22db0_o.jpg
-    thumbnail: //farm2.staticflickr.com/1737/42593159591_310f1e6891_t.jpg
-    medium: //farm2.staticflickr.com/1737/42593159591_310f1e6891_z.jpg
-    small: //farm2.staticflickr.com/1737/42593159591_310f1e6891_n.jpg
-    title: WhatsApp Image 2018-06-04 at 10.42.28 (5) (1).jpeg
-    $$hashKey: 0KZ
+  - link: //farm2.staticflickr.com/1721/42619622351_713bc364a5_b.jpg
+    original: //farm2.staticflickr.com/1721/42619622351_56a53650f8_o.jpg
+    thumbnail: //farm2.staticflickr.com/1721/42619622351_713bc364a5_t.jpg
+    medium: //farm2.staticflickr.com/1721/42619622351_713bc364a5_z.jpg
+    small: //farm2.staticflickr.com/1721/42619622351_713bc364a5_n.jpg
+    title: 28008072981_1a2eb4b41b_z.jpg
+    $$hashKey: 05J
 created_date: "2018-06-05T18:04:53-03:00"
 published: true
 releated_posts:
@@ -28,6 +28,10 @@ releated_posts:
   - _posts/2017/10/2017-10-17-mst-ocupa-ministerio-do-planejamento-e-denuncia-desmonte-da-reforma-agraria.md
 
 ---
+<p>&nbsp;</p>
+
+<p style="text-align:center"><img alt="28008072981_1a2eb4b41b_z.jpg" height="298" src="//farm2.staticflickr.com/1721/42619622351_713bc364a5_b.jpg" width="700" /></p>
+
 <p>&nbsp;</p>
 
 <p><em>Por Luiz Fernando&nbsp;<br />
