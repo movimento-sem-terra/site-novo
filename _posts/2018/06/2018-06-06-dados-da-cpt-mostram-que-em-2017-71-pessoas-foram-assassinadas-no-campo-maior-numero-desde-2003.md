@@ -32,7 +32,7 @@ files:
     title: Lancamento_Conflitos_no_Campo_2017_BSB_CPT_Nacional (2).jpg
     $$hashKey: 0GH
 created_date: "2018-06-06T13:00:33-03:00"
-published: true
+published: false
 releated_posts:
   - _posts/2018/03/2018-03-28-nota-publica-o-avanco-da-criminalizacao-nao-vai-parar-nossa-missao.md
   - _posts/2018/04/2018-04-18-assassinatos-no-campo-subiram-105-desde-2013-aponta-cpt.md
