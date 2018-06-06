@@ -7,7 +7,7 @@ tags:
 title: MST se posiciona após saída de Pedro Parente
 support_line: "Movimento saúda mais uma vitória conquistada pela greve dos petroleiros e pelo conjunto da classe trabalhadora, que resultou também na demissão do conselheiro da Shell."
 menu: projeto popular
-section: cover
+section: featured-news
 images_hd: //farm1.staticflickr.com/889/28649832458_f5bbf10c54_b.jpg
 layout: post
 files:
