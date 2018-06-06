@@ -88,7 +88,7 @@ Para Zarref, essas experi&ecirc;ncias s&atilde;o importantes pois batem de frent
 </figure>
 
 <p><br />
-Ele destaca que o capital tem se apropriado dos recursos naturais, na intens&atilde;o de diminuir o tempo de produ&ccedil;&atilde;o, com foco na agricultura industrial, onde o modelo agroqu&iacute;mico ganha uma grande dimens&atilde;o.</p>
+Ele destaca que o capital tem se apropriado dos bens naturais, na intens&atilde;o de diminuir o tempo de produ&ccedil;&atilde;o, com foco na agricultura industrial, onde o modelo agroqu&iacute;mico ganha uma grande dimens&atilde;o.</p>
 
 <p><br />
 &ldquo;As bases cient&iacute;ficas e as pesquisas foram fundamentais para o r&aacute;pido crescimento da agricultura qu&iacute;mica, exemplo disso foram as mudan&ccedil;as nas sementes, o crescimento dos agrot&oacute;xicos, dos maquin&aacute;rios pesados, al&eacute;m de uma forte discrimina&ccedil;&atilde;o territorialmente e mundial. Com isso, as pr&aacute;ticas tradicionais aparentemente foram ficando de lado. Mesmo assim, t&ecirc;m sido exercidas em comunidades de resist&ecirc;ncia, acampamentos e assentamentos de Reforma Agr&aacute;ria&rdquo;, afirma.</p>
