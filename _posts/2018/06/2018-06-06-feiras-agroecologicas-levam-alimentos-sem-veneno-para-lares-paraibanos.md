@@ -17,6 +17,34 @@ files:
     small: //farm2.staticflickr.com/1733/41720950065_1b81710679_n.jpg
     title: 42504494602_cecaec4e97_z.jpg
     $$hashKey: 03G
+  - link: //farm2.staticflickr.com/1722/28748107628_1156765c52_b.jpg
+    original: //farm2.staticflickr.com/1722/28748107628_1a3ee54a50_o.jpg
+    thumbnail: //farm2.staticflickr.com/1722/28748107628_1156765c52_t.jpg
+    medium: //farm2.staticflickr.com/1722/28748107628_1156765c52_z.jpg
+    small: //farm2.staticflickr.com/1722/28748107628_1156765c52_n.jpg
+    title: 28681735708_5b84026fa4_o.jpg
+    $$hashKey: 0B5
+  - link: //farm2.staticflickr.com/1748/28748107588_f885b5620d_b.jpg
+    original: //farm2.staticflickr.com/1748/28748107588_d1b6b737ee_o.jpg
+    thumbnail: //farm2.staticflickr.com/1748/28748107588_f885b5620d_t.jpg
+    medium: //farm2.staticflickr.com/1748/28748107588_f885b5620d_z.jpg
+    small: //farm2.staticflickr.com/1748/28748107588_f885b5620d_n.jpg
+    title: 28681529038_f1e6b39bc6_o.jpg
+    $$hashKey: 0B8
+  - link: //farm2.staticflickr.com/1750/28748107658_7af49d2fde_b.jpg
+    original: //farm2.staticflickr.com/1750/28748107658_01808b2e14_o.jpg
+    thumbnail: //farm2.staticflickr.com/1750/28748107658_7af49d2fde_t.jpg
+    medium: //farm2.staticflickr.com/1750/28748107658_7af49d2fde_z.jpg
+    small: //farm2.staticflickr.com/1750/28748107658_7af49d2fde_n.jpg
+    title: 41654008185_1b5cdaba79_o.jpg
+    $$hashKey: 0BB
+  - link: //farm2.staticflickr.com/1746/28748107868_70a9b6c02f_b.jpg
+    original: //farm2.staticflickr.com/1746/28748107868_848d338436_o.jpg
+    thumbnail: //farm2.staticflickr.com/1746/28748107868_70a9b6c02f_t.jpg
+    medium: //farm2.staticflickr.com/1746/28748107868_70a9b6c02f_z.jpg
+    small: //farm2.staticflickr.com/1746/28748107868_70a9b6c02f_n.jpg
+    title: 42503539322_044e9cdc48_o.jpg
+    $$hashKey: 0BE
 created_date: "2018-06-06T13:24:22-03:00"
 published: true
 releated_posts:
@@ -31,8 +59,7 @@ releated_posts:
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="42504494602_cecaec4e97_z.jpg" height="467" src="//farm2.staticflickr.com/1733/41720950065_1b81710679_b.jpg" width="700" />
-<figcaption><em>Na Para&iacute;ba existem cerca de cinquenta (50) feiras agroecol&oacute;gicas organizadas por assentados da reforma agr&aacute;ria e pequenos agricultores. / Tha&iacute;s Peregrino</em><br />
-</figcaption>
+<figcaption><em>Na Para&iacute;ba existem cerca de cinquenta (50) feiras agroecol&oacute;gicas organizadas por assentados da reforma agr&aacute;ria e pequenos agricultores. / Tha&iacute;s Peregrino</em></figcaption>
 </figure>
 </div>
 
@@ -47,7 +74,9 @@ Antes de ser assentada da reforma agr&aacute;ria, Dona Cida era vendedora ambula
 <p><br />
 &ldquo;Nas sextas-feiras meu dia come&ccedil;a uma hora da manh&atilde;. Come&ccedil;o logo organizando as verduras nas caixas, porque a gente j&aacute; deixa tudo arrumadinho um dia antes, mas a gente tem que remover de casa para estrada, a&iacute; arrumo, e duas horas &lsquo;em pontinho&rsquo; o carro chega. Chegamos aqui na feira quatro e quarenta da manh&atilde;&rdquo;, relatou D. Cida.</p>
 
-<p>Dona Cida e seus produtos na Feira da Ecov&aacute;rzea.</p>
+<figure class="image" style="float:left"><img alt="28681529038_f1e6b39bc6_o.jpg" height="301" src="//farm2.staticflickr.com/1748/28748107588_f885b5620d_b.jpg" width="400" />
+<figcaption><em>Dona Cida e seus produtos na Feira da Ecov&aacute;rzea.</em></figcaption>
+</figure>
 
 <p>Ainda est&aacute; escuro quando a feira come&ccedil;a a ser montada na UFPB, e j&aacute; tem fregueses &agrave; espera. &ldquo;Chego cedo porque os produtos s&atilde;o limitados por serem agroecol&oacute;gicos. Para conseguir comprar tudo, venho logo cedinho&rdquo;, conta-nos a chefe de cozinha Mariana Gomes.</p>
 
@@ -63,7 +92,11 @@ Muitos agricultores da reforma agr&aacute;ria, assim como Dona Cida e Seu Zizo, 
 <p><br />
 Essa experi&ecirc;ncia de produ&ccedil;&atilde;o e comercializa&ccedil;&atilde;o s&oacute; foi poss&iacute;vel porque a Comiss&atilde;o Pastoral da Terra (CPT) desde 1997 desenvolveu estrat&eacute;gias para enfrentar os problemas de comercializa&ccedil;&atilde;o dos produtos da agricultura familiar de &aacute;reas de assentamento. Inicialmente, foi junto aos agricultores da regi&atilde;o de Sap&eacute;; depois, entendeu-se para outras regi&otilde;es do estado. Segundo Luiz Dam&aacute;sio, mais conhecido como Luizinho, do assentamento Padre Gino e coordenador da CPT, o principal problema que identificavam era a depend&ecirc;ncia de atravessadores na hora da venda. &ldquo;A gente produzia e n&atilde;o tinha onde vender; vendia para os atravessadores, e eles levavam 50%. A&iacute; a gente se organizou e decidimos montar um espa&ccedil;o onde a gente pudesse comercializar os nossos produtos&rdquo;, relatou Luizinho. E complementou dizendo: &ldquo;depois de seis feiras, n&oacute;s paramos e descobrimos que nosso maior problema n&atilde;o era a comercializa&ccedil;&atilde;o, mas sim a produ&ccedil;&atilde;o. A nossa produ&ccedil;&atilde;o n&atilde;o tinha diversifica&ccedil;&atilde;o; n&oacute;s s&oacute; t&iacute;nhamos tr&ecirc;s, quatro produtos. Uma feira n&atilde;o sobrevive assim. Ela precisa de uma diversifica&ccedil;&atilde;o para que os consumidores venham e realizem seu desejo de compra&rdquo;.</p>
 
-<p>Seu Zizo &eacute; assentado da reforma agr&aacute;ria e participa da Feira da Ecov&aacute;rzea em Jo&atilde;o Pessoa desde o seu in&iacute;cio.</p>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="42503539322_044e9cdc48_o.jpg" height="467" src="//farm2.staticflickr.com/1746/28748107868_70a9b6c02f_b.jpg" width="700" />
+<figcaption><em>Seu Zizo &eacute; assentado da reforma agr&aacute;ria e participa da Feira da Ecov&aacute;rzea em Jo&atilde;o Pessoa desde o seu in&iacute;cio.</em></figcaption>
+</figure>
+</div>
 
 <p><br />
 Foi ent&atilde;o que, em 2001, a CPT organizou a primeira Feira Agroecol&oacute;gica de Assentados da Reforma Agr&aacute;ria em Jo&atilde;o Pessoa. Instalada inicialmente em uma pra&ccedil;a no bairro de Mangabeira, transferiu-se para a UFPB no ano seguinte, com apoio de alguns professores e funcion&aacute;rios. Em 2004, os feirantes/produtores criaram a Associa&ccedil;&atilde;o dos Agricultores e Agricultoras Agroecol&oacute;gicos da V&aacute;rzea Paraibana (Ecov&aacute;rzea).</p>
@@ -71,8 +104,10 @@ Foi ent&atilde;o que, em 2001, a CPT organizou a primeira Feira Agroecol&oacute;
 <p><br />
 Val&eacute;ria Vieira &eacute; funcion&aacute;ria da UFPB e cliente antiga da feira: &ldquo;Fa&ccedil;o essa op&ccedil;&atilde;o porque a feira &eacute; muito boa. Veja s&oacute;, o coentro do supermercado, em tr&ecirc;s, quatro dias, &#39;t&aacute;&#39; podre. O daqui passa 15 dias verdinho do mesmo jeito. O que se compra aqui &eacute; assim; tem muita diferen&ccedil;a o produto com veneno e o sem veneno&rdquo;.</p>
 
-<p><br />
-A feira agroecol&oacute;gica mais antiga de Jo&atilde;o Pessoa conta com freguesia certa todas as sextas-feiras de manh&atilde; na UFPB.</p>
+<figure class="image" style="float:right"><img alt="28681735708_5b84026fa4_o.jpg" height="267" src="//farm2.staticflickr.com/1722/28748107628_1156765c52_b.jpg" width="400" />
+<figcaption><em>A feira agroecol&oacute;gica mais antiga de Jo&atilde;o Pessoa conta<br />
+com freguesia certa todas as sextas-feiras de manh&atilde; na UFPB.</em></figcaption>
+</figure>
 
 <p><br />
 <strong>As feiras se multiplicaram</strong></p>
@@ -99,7 +134,11 @@ Durante tr&ecirc;s dias, a cidade de Campina Grande, no Agreste Paraibano, foi o
 O grande encaminhamento do encontro foi a cria&ccedil;&atilde;o da Rede Paraibana de Agroecologia, uma articula&ccedil;&atilde;o permanente que inclui todos os segmentos presentes no evento.&nbsp;</p>
 
 <p><br />
-Encontro reuniu cento e cinquenta integrantes de movimentos e organiza&ccedil;&otilde;es sociais do campo e da cidade.</p>
+&nbsp;</p>
+
+<figure class="image"><img alt="41654008185_1b5cdaba79_o.jpg" height="447" src="//farm2.staticflickr.com/1750/28748107658_7af49d2fde_b.jpg" width="700" />
+<figcaption>Encontro reuniu cento e cinquenta integrantes de movimentos e organiza&ccedil;&otilde;es sociais do campo e da cidade.</figcaption>
+</figure>
 
 <p><br />
 <strong>IV Encontro Nacional de Agroecologia</strong></p>
