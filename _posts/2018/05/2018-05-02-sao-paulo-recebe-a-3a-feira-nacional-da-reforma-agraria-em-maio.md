@@ -19,7 +19,7 @@ files:
     title: Cartaz Feira.jpg
     $$hashKey: 059
 created_date: "2018-05-02T14:02:54-03:00"
-published: true
+published: false
 releated_posts:
   - _posts/2018/04/2018-04-23-licores-doces-e-frutas-poderao-ser-encontrados-na-feira-da-reforma-agraria.md
   - _posts/2018/04/2018-04-26-o-alimento-que-carrega-a-semente-de-uma-nova-sociedade-a-precos-justos.md
