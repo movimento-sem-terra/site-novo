@@ -4,7 +4,7 @@ tags:
   - tag: incra
   - tag: ocupação
   - tag: lutas
-title: "Contra os desmonte na Reforma Agrária, Sem Terras ocupam INCRA em Aracaju"
+title: "Contra os desmonte na Reforma Agrária, Sem Terras ocupam Incra em Aracaju"
 images_hd: //farm2.staticflickr.com/1721/42619622351_713bc364a5_b.jpg
 menu: lutas e mobilizações
 support_line: Os trabalhadores também reivindicam vistoria e desapropriação imediata das áreas em processo para acelerar o assentamento da mais de nove mil famílias acampadas no estado
