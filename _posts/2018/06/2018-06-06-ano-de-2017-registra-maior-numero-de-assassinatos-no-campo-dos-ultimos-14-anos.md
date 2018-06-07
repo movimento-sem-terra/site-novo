@@ -108,7 +108,7 @@ De acordo Carlos Walter, professor ge&oacute;grafo da Universidade Federal de Go
 A impunidade tamb&eacute;m marca os desafios contra a viol&ecirc;ncia. Entre os 1.431 casos de conflitos no campo, que resultaram em 1.904 v&iacute;timas, apenas 113 (8%) foram julgados, com 31 mandantes e 94 executores condenados. A CPT afirma que o baixo n&uacute;mero de processos com continuidade mostra que a &ldquo;impunidade ainda &eacute; um dos pilares da viol&ecirc;ncia no campo&rdquo;. Dos n&uacute;meros totais, 658 ocorreram na Regi&atilde;o Norte, somente no Par&aacute; s&atilde;o 466.&nbsp;</p>
 
 <p><br />
-O relat&oacute;rio est&aacute; a venda no site da CPT. Entretanto, <a href="https://www.cptnacional.org.br/publicacoes-2/destaque/4371-conflitos-no-campo-brasil-2017">o site da organiza&ccedil;&atilde;o j&aacute; disponibiliza dados, tabelas e releases tem&aacute;ticos do documento</a>.</p>
+O relat&oacute;rio est&aacute; a venda no site da CPT, para acessar, clique <a href="https://cptnacional.org.br/">aqui</a>.&nbsp;&nbsp;<br />
+&nbsp;</p>
 
-<p><br />
-<em>*Editado por Iris Pacheco&nbsp;</em></p>
+<p><em>*Editado por Iris Pacheco&nbsp;</em></p>
