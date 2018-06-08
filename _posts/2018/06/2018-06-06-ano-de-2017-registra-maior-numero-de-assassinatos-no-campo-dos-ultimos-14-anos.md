@@ -8,7 +8,7 @@ title: "2017 registra maior número de assassinatos no campo dos últimos 14 ano
 support_line: "Ao todo, 71 pessoas foram assassinadas. Desde 2003, quando se computaram 73 vítimas, este é o maior número registrado pela Comissão Pastoral da Terra em seu relatório sobre os Conflitos no Campo."
 images_hd: //farm2.staticflickr.com/1753/28746776418_4efddbea5b_b.jpg
 menu: direitos humanos
-section: cover
+section: featured-news
 layout: post
 files:
   - link: //farm2.staticflickr.com/1753/28746776418_4efddbea5b_b.jpg
