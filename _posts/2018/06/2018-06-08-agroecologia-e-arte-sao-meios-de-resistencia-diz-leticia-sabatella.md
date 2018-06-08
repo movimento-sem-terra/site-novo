@@ -37,11 +37,10 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p style="box-sizing: inherit; margin: 0px 0px 11px; font-size: 1.1em; color: rgb(85, 85, 85); font-family: Helvetica, Arial, sans-serif;">&ldquo;Agroecologia e arte s&atilde;o meios de resist&ecirc;ncia&quot;, diz Let&iacute;cia Sabatella</p>
+<p style="box-sizing: inherit; margin: 0px 0px 11px; font-size: 1.1em; color: rgb(85, 85, 85); font-family: Helvetica, Arial, sans-serif;"><em style="box-sizing: inherit;">Por Ana Carolina Caldas<br style="box-sizing: inherit;" />
+Do Brasil de Fato</em></p>
 
-<p style="box-sizing: inherit; margin: 0px 0px 11px; font-size: 1.1em; color: rgb(85, 85, 85); font-family: Helvetica, Arial, sans-serif;">&nbsp;</p>
-
-<p>&nbsp;</p>
+<div>&nbsp;</div>
 
 <p>Com a Trupe dos Encantados, grupo cultural do MST, a atriz Let&iacute;cia Sabatella saudou os presentes &agrave; 17&ordf; Jornada de Agroecologia, no Teatro Gua&iacute;ra, com m&uacute;sica e cord&eacute;is. Destacou em sua fala a import&acirc;ncia da cultura brasileira como resist&ecirc;ncia. Em entrevista exclusiva para o Brasil de Fato, a atriz relata seu aprendizado com as tribos ind&iacute;genas sobre o uso da arte para a cura de si, do pr&oacute;ximo e da sociedade. Tamb&eacute;m afirma que a agroecologia &eacute; um dos pilares para a constru&ccedil;&atilde;o de um futuro sustent&aacute;vel, mais justo e equilibrado.</p>
 
