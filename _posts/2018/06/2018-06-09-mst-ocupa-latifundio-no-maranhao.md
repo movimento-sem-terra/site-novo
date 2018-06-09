@@ -41,7 +41,9 @@ Da P&aacute;gina do MST</em><br />
 &nbsp;</p>
 
 <p>As fam&iacute;lias do Acampamento Marielle Franco v&ecirc;m das periferias das cidades de A&ccedil;ail&acirc;ndia e Itinga, onde as dificuldades de emprego e a necessidade de terra para trabalhar levaram essas fam&iacute;lias &agrave; organiza&ccedil;&atilde;o.<br />
-O MST no Maranh&atilde;o j&aacute; reivindica a &aacute;rea junto ao Incra, que informou que a &aacute;rea pertence a Uni&atilde;o Federal e tem uma extens&atilde;o de cerca de 9 mil hectares, o que, segundo a coordena&ccedil;&atilde;o do MST, daria para assentar cerca de 200 fam&iacute;lias.</p>
+&nbsp;</p>
+
+<p>O MST no Maranh&atilde;o j&aacute; reivindica a &aacute;rea junto ao Incra, que informou que a &aacute;rea pertence a Uni&atilde;o Federal e tem uma extens&atilde;o de cerca de 9 mil hectares, o que, segundo a coordena&ccedil;&atilde;o do MST, daria para assentar cerca de 200 fam&iacute;lias.</p>
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2018-06-09 at 10.50.10.jpeg" height="267" src="//farm2.staticflickr.com/1742/41974952874_32bb206239_b.jpg" width="400" />
