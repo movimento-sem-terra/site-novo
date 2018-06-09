@@ -46,13 +46,16 @@ releated_posts:
   - _posts/2018/06/2018-06-08-agroecologia-e-arte-sao-meios-de-resistencia-diz-leticia-sabatella.md
 
 ---
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="f87e26ed-098c-47d5-8a21-37c614e8b51b.jpg" height="333" src="//farm2.staticflickr.com/1740/42650663172_ba30ce4c18_b.jpg" width="500" />
+<figcaption>Abertura da Jornada. Foto:&nbsp;Eduardo Matysiak (Ag&ecirc;ncia PT)</figcaption>
+</figure>
+</div>
+
 <p><br />
-<em>Da P&aacute;gina do MST</em><br />
-&nbsp;</p>
+<em>Da P&aacute;gina do MST</em></p>
 
 <p>Reunindo milhares de pessoas no Paran&aacute;, a 17&ordf; edi&ccedil;&atilde;o da Jornada de Agroecologia lan&ccedil;a carta final apontando os desafios e as tarefas de luta da sociedade na atual conjuntura na constru&ccedil;&atilde;o de um novo modelo de vida e rela&ccedil;&atilde;o com os bens naturais.</p>
-
-<p>&nbsp;</p>
 
 <p>&ldquo;Com a experi&ecirc;ncia que acumulamos nas 16 Jornadas anteriores e com a fortaleza dos debates e dos fazeres dessa 17&ordf; Jornada queremos al&ccedil;ar a voz para apresentar nossa cr&iacute;tica, precisa e direta, &agrave; domina&ccedil;&atilde;o das grandes empresas e corpora&ccedil;&otilde;es que transformam toda a biodiversidade em mercadoria e violam os direitos humanos&rdquo;, destaca um trecho da carta.<br />
 &nbsp;</p>
