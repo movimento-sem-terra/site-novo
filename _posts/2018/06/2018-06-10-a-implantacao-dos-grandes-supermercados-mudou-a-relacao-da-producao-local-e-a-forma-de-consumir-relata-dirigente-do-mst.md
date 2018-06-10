@@ -28,8 +28,7 @@ releated_posts: []
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="39913916480_152b503caa_b.jpg" height="466" src="//farm2.staticflickr.com/1723/42670886462_8a3bd2a3d5_b.jpg" width="700" />
-<figcaption>Dirigente do MST fala sobre a crise do abastecimento de alimentos nas cidades e o papel da Reforma Agr&aacute;ria.<br />
-&nbsp;&nbsp;Foto: Webert Cruz</figcaption>
+<figcaption>Dirigente do MST fala sobre a crise do abastecimento de alimentos nas cidades e o papel da Reforma Agr&aacute;ria. Foto: Webert Cruz</figcaption>
 </figure>
 </div>
 
@@ -46,7 +45,7 @@ Da P&aacute;gina do MST</em></p>
 
 <p><br />
 <br />
-A dirigente do MST e assentada da Reforma Agr&aacute;ria, Ant&ocirc;nia Ivoneide, do Cear&aacute;, mais conhecida como Nen&eacute;m, explica como era o abastecimento de produtos h&aacute; 20 anos, nas m&eacute;dias e pequenas cidade do interior do pa&iacute;s.&nbsp;</p>
+A dirigente do MST e assentada da Reforma Agr&aacute;ria, Ant&ocirc;nia Ivoneide, do Cear&aacute;, explica como era o abastecimento de produtos h&aacute; 20 anos, nas m&eacute;dias e pequenas cidade do interior do pa&iacute;s.&nbsp;</p>
 
 <p><br />
 <br />
@@ -76,7 +75,7 @@ Os produtos industrializados v&ecirc;m de muito longe, de v&aacute;rios cantos d
 A distribui&ccedil;&atilde;o dava-se por transporte mais regionais e locais de v&aacute;rios tipos, desde caminh&otilde;es, caminhonetes, tratores com carrocerias e etc. Pela proximidade, os produtos poderiam ser substitu&iacute;dos, a diversidade era maior, bem como em mais estabelecimentos. No lugar dessa produ&ccedil;&atilde;o concentrada nos grandes supermercados, t&iacute;nhamos v&aacute;rios com&eacute;rcios.&nbsp;</p>
 
 <p><br />
-Como o avan&ccedil;o do agroneg&oacute;cio a mudan&ccedil;a no abastecimento das pequenas cidades prejudicou a popula&ccedil;&atilde;o?<br />
+<strong>Como o avan&ccedil;o do agroneg&oacute;cio a mudan&ccedil;a no abastecimento das pequenas cidades prejudicou a popula&ccedil;&atilde;o?</strong><br />
 Sim, principalmente por conta da produ&ccedil;&atilde;o de commodities, gerando pouca variedade de produtos e ampliando a produ&ccedil;&atilde;o em larga escala, que acaba, de certo modo, impossibilitando a concorr&ecirc;ncia com a produ&ccedil;&atilde;o do pequeno agricultor.&nbsp;</p>
 
 <p><br />
