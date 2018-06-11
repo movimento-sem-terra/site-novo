@@ -5,7 +5,7 @@ tags:
   - tag: eleição
   - tag: candidato
 images_hd: //farm2.staticflickr.com/1744/28863346358_06856af0e9_b.jpg
-title: "Na PB, representantes de movimentos populares e partidos políticos se reúnem para o lançamento da candidatura de Lula à presidência "
+title: "Na PB, representantes de movimentos populares se reúnem para o lançamento da candidatura de Lula à presidência "
 menu: lutas e mobilizações
 support_line: "Mesmo preso, o ex-presidente lidera intenções de voto para o primeiro e segundo turno das eleições"
 layout: post
@@ -48,11 +48,11 @@ Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p>Na manh&atilde; do&nbsp;&uacute;ltimo s&aacute;bado (9), movimentos populares, partidos pol&iacute;ticos&nbsp;e demais setores da sociedade civil reuniram-se na pra&ccedil;a Clementino Proc&oacute;pio no&nbsp;centro de Campina Grande ma&nbsp;Para&iacute;ba,&nbsp;para lan&ccedil;ar a pr&eacute;-candidatura do ex-presidente Luiz In&aacute;cio&nbsp;Lula da Silva.</p>
 
-<p>O lan&ccedil;amento da campanha na cidade do maior S&atilde;o Jo&atilde;o do mundo foi&nbsp;acompanhado de muita m&uacute;sica e dan&ccedil;a. A m&iacute;stica,&nbsp;apresentada por militantes do MST&nbsp;e do Levante&nbsp;Popular da Juventude, lembrou&nbsp;que as minorias&nbsp;est&atilde;o com Lula e que o povo&nbsp;nordestino&nbsp;reconhece&nbsp;a transposi&ccedil;&atilde;o&nbsp;do Rio S&atilde;o Francisco como um legado deixado pelo governo Lula e Dilma para a&nbsp;regi&atilde;o.</p>
-
-<p>&nbsp;</p>
-
-<p>O presidente Lula, hoje preso pol&iacute;tico, lidera todas as pesquisas, esse fato prova que o povo reconhece a for&ccedil;a do presidente para defender os direitos da classe trabalhadora. Sundo Dieglei, dirigente do MST na Para&iacute;ba, Lula &eacute; a refer&ecirc;ncia de presidente para classe trabalhadora. O MST reafirma e est&aacute; convicto que Lula &eacute; o representante da classe trabalhadora no Brasil, por isso, Lula sempre ser&aacute; nosso candidato a presidente; afirma Dilei.</p>
+<p><br />
+O lan&ccedil;amento da campanha na cidade do maior S&atilde;o Jo&atilde;o do mundo foi&nbsp;acompanhado de muita m&uacute;sica e dan&ccedil;a. A m&iacute;stica,&nbsp;apresentada por militantes do MST&nbsp;e do Levante&nbsp;Popular da Juventude, lembrou&nbsp;que as minorias&nbsp;est&atilde;o com Lula e que o povo&nbsp;nordestino&nbsp;reconhece&nbsp;a transposi&ccedil;&atilde;o&nbsp;do Rio S&atilde;o Francisco como um legado deixado pelo governo Lula e Dilma para a&nbsp;regi&atilde;o.<br />
+<br />
+<br />
+O presidente Lula, hoje preso pol&iacute;tico, lidera todas as pesquisas, esse fato prova que o povo reconhece a for&ccedil;a do presidente para defender os direitos da classe trabalhadora. Sundo Dieglei, dirigente do MST na Para&iacute;ba, Lula &eacute; a refer&ecirc;ncia de presidente para classe trabalhadora. O MST reafirma e est&aacute; convicto que Lula &eacute; o representante da classe trabalhadora no Brasil, por isso, Lula sempre ser&aacute; nosso candidato a presidente; afirma Dilei.</p>
 
 <p><br />
 Lideran&ccedil;as pol&iacute;ticas como o deputado federal Luiz couto (PT), o vereador de Jo&atilde;o Pessoa Marcos Henriques (PT) e Jairo Oliveira presidente da OAB de campina Grande, lideran&ccedil;as do PT e de demais entidade tamb&eacute;m estiveram presentes</p>
