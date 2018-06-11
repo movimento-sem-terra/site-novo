@@ -64,11 +64,10 @@ Segundo uma das coordenadoras do acampamento que, por motivos de seguran&ccedil;
 
 <p dir="ltr" style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;">&nbsp;</p>
 
-<p dir="ltr" style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;"><strong>Hist&oacute;rico do acampamento</strong></p>
+<p dir="ltr"><strong>Hist&oacute;rico do acampamento</strong></p>
 
-<p dir="ltr" style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;">&nbsp;</p>
-
-<p dir="ltr">Atualmente o Marielle Vive! conta com mais de mil fam&iacute;lias acampadas h&aacute; dois meses numa &aacute;rea improdutiva destinada &agrave; especula&ccedil;&atilde;o imobili&aacute;ria.&nbsp;Sem Terras denunciam amea&ccedil;as sofridas e a entrada irregular de gado realizada no local em nome do propriet&aacute;rio. Segundo os acampados a a&ccedil;&atilde;o &eacute;&nbsp;uma clara tentativa de forjar provas e&nbsp;contrapor a <a href="http://www.mst.org.br/2018/05/05/justica-suspende-ordem-de-reintegracao-na-ocupacao-marielle-vive.html">decis&atilde;o do desembargador do Tribunal de Justi&ccedil;a de S&atilde;o Paulo</a> que, no in&iacute;cio de maio, ordenou a suspens&atilde;o da reintegra&ccedil;&atilde;o de posse.</p>
+<p dir="ltr"><br />
+Atualmente o Marielle Vive! conta com mais de mil fam&iacute;lias acampadas h&aacute; dois meses numa &aacute;rea improdutiva destinada &agrave; especula&ccedil;&atilde;o imobili&aacute;ria.&nbsp;Sem Terras denunciam amea&ccedil;as sofridas e a entrada irregular de gado realizada no local em nome do propriet&aacute;rio. Segundo os acampados a a&ccedil;&atilde;o &eacute;&nbsp;uma clara tentativa de forjar provas e&nbsp;contrapor a <a href="http://www.mst.org.br/2018/05/05/justica-suspende-ordem-de-reintegracao-na-ocupacao-marielle-vive.html">decis&atilde;o do desembargador do Tribunal de Justi&ccedil;a de S&atilde;o Paulo</a> que, no in&iacute;cio de maio, ordenou a suspens&atilde;o da reintegra&ccedil;&atilde;o de posse.</p>
 
 <p dir="ltr"><br />
 Os acampados&nbsp;tamb&eacute;m exigem da Prefeitura de Valinhos a garantia&nbsp;dos direitos b&aacute;sicos, como acesso &agrave; &aacute;gua pot&aacute;vel em quantidade suficiente para a subsist&ecirc;ncia&nbsp;das fam&iacute;lias.&nbsp;</p>
