@@ -37,8 +37,7 @@ releated_posts:
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Vozes do Marielle - Marielle Vive - MSTSP 10062018 2ch.jpg" height="467" src="//farm2.staticflickr.com/1757/42023046154_7f83f2624c_b.jpg" width="700" />
-<figcaption>Fotos: Julia Gim&eacute;nez<br />
-</figcaption>
+<figcaption>Fotos: Julia Gim&eacute;nez</figcaption>
 </figure>
 </div>
 
@@ -48,19 +47,18 @@ releated_posts:
 Da P&aacute;gina do MST </em></p>
 
 <p dir="ltr"><br />
-No &uacute;ltimo domingo (10), durante uma assembleia geral do <a href="http://www.mst.org.br/2018/05/10/acampamento-marielle-vive-resiste-ha-quase-um-mes-em-valinhos-sp.html">acampamento&nbsp;</a><span style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;"><a href="http://www.mst.org.br/2018/05/10/acampamento-marielle-vive-resiste-ha-quase-um-mes-em-valinhos-sp.html">Marielle Vive!</a>,&nbsp;localizado em Valinhos, S&atilde;o Paulo,&nbsp;</span>foi lan&ccedil;ado o Boletim Vozes do Marielle.&nbsp;A&nbsp;<span style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;">exemplo do Boletim Sem Terra, o informativo</span>&nbsp;surge&nbsp;como uma ferramenta para ecoar as vozes dos acampados e&nbsp;recuperar as experi&ecirc;ncias de constru&ccedil;&atilde;o na comunica&ccedil;&atilde;o popular desenvolvidas pelo MST.</p>
+No &uacute;ltimo domingo (10), durante uma assembleia geral do <a href="http://www.mst.org.br/2018/05/10/acampamento-marielle-vive-resiste-ha-quase-um-mes-em-valinhos-sp.html">acampamento&nbsp;</a><a href="http://www.mst.org.br/2018/05/10/acampamento-marielle-vive-resiste-ha-quase-um-mes-em-valinhos-sp.html">Marielle Vive!</a>,&nbsp;localizado em Valinhos, S&atilde;o Paulo,&nbsp;foi lan&ccedil;ado o Boletim Vozes do Marielle.&nbsp;A&nbsp;exemplo do Boletim Sem Terra, o informativo&nbsp;surge&nbsp;como uma ferramenta para ecoar as vozes dos acampados e&nbsp;recuperar as experi&ecirc;ncias de constru&ccedil;&atilde;o na comunica&ccedil;&atilde;o popular desenvolvidas pelo MST.</p>
 
 <p dir="ltr"><br />
-Segundo uma das coordenadoras do acampamento que, por motivos de seguran&ccedil;a preferiu n&atilde;o se identificar: &ldquo;Vozes do Marielle surge&nbsp;para dizer&nbsp;que, como a terra, a comunica&ccedil;&atilde;o tamb&eacute;m &eacute; um direito. Ainda que queiram monopolizar a informa&ccedil;&atilde;o, seguimos organizados e esse boletim &eacute;&nbsp;fruto dessa&nbsp;organiza&ccedil;&atilde;o popular</p>
+Segundo uma das coordenadoras do acampamento que, por motivos de seguran&ccedil;a preferiu n&atilde;o se identificar: &ldquo;Vozes do Marielle surge&nbsp;para dizer&nbsp;que, como a terra, a comunica&ccedil;&atilde;o tamb&eacute;m &eacute; um direito. Ainda que queiram monopolizar a informa&ccedil;&atilde;o, seguimos organizados e esse boletim &eacute;&nbsp;fruto dessa&nbsp;organiza&ccedil;&atilde;o popular&quot;.</p>
 
 <p dir="ltr" style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;">&nbsp;</p>
 
-<p dir="ltr" style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;">A ideia do Boletim &eacute; criar um espa&ccedil;o para circular informes, not&iacute;cias, atividades e tudo aquilo que tenha a ver com a vida e a din&acirc;mica do acampamento.&nbsp;</p>
+<p dir="ltr">A ideia do Boletim &eacute; criar um espa&ccedil;o para circular informes, not&iacute;cias, atividades e tudo aquilo que tenha a ver com a vida e a din&acirc;mica do acampamento.&nbsp;</p>
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Vozes do Marielle - Marielle Vive - MSTSP 10062018 3ch.jpg" height="467" src="//farm2.staticflickr.com/1735/42023046234_78b5be4a5d_b.jpg" width="700" />
-<figcaption>Fotos: Julia Gim&eacute;nez<br />
-</figcaption>
+<figcaption>Fotos: Julia Gim&eacute;nez</figcaption>
 </figure>
 </div>
 
@@ -70,9 +68,9 @@ Segundo uma das coordenadoras do acampamento que, por motivos de seguran&ccedil;
 
 <p dir="ltr" style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;">&nbsp;</p>
 
-<p dir="ltr" style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;">Atualmente o Marielle Vive! conta com mais de mil fam&iacute;lias acampadas h&aacute; dois meses numa &aacute;rea improdutiva destinada &agrave; especula&ccedil;&atilde;o imobili&aacute;ria.&nbsp;Sem Terras denunciam amea&ccedil;as sofridas e a entrada irregular de gado realizada no local em nome do propriet&aacute;rio. Segundo os acampados a a&ccedil;&atilde;o &eacute;&nbsp;uma clara tentativa de forjar provas e&nbsp;contrapor a <a href="http://www.mst.org.br/2018/05/05/justica-suspende-ordem-de-reintegracao-na-ocupacao-marielle-vive.html">decis&atilde;o do desembargador do Tribunal de Justi&ccedil;a de S&atilde;o Paulo</a> que, no in&iacute;cio de maio, ordenou a suspens&atilde;o da reintegra&ccedil;&atilde;o de posse.</p>
+<p dir="ltr">Atualmente o Marielle Vive! conta com mais de mil fam&iacute;lias acampadas h&aacute; dois meses numa &aacute;rea improdutiva destinada &agrave; especula&ccedil;&atilde;o imobili&aacute;ria.&nbsp;Sem Terras denunciam amea&ccedil;as sofridas e a entrada irregular de gado realizada no local em nome do propriet&aacute;rio. Segundo os acampados a a&ccedil;&atilde;o &eacute;&nbsp;uma clara tentativa de forjar provas e&nbsp;contrapor a <a href="http://www.mst.org.br/2018/05/05/justica-suspende-ordem-de-reintegracao-na-ocupacao-marielle-vive.html">decis&atilde;o do desembargador do Tribunal de Justi&ccedil;a de S&atilde;o Paulo</a> que, no in&iacute;cio de maio, ordenou a suspens&atilde;o da reintegra&ccedil;&atilde;o de posse.</p>
 
-<p dir="ltr" style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;"><br />
+<p dir="ltr"><br />
 Os acampados&nbsp;tamb&eacute;m exigem da Prefeitura de Valinhos a garantia&nbsp;dos direitos b&aacute;sicos, como acesso &agrave; &aacute;gua pot&aacute;vel em quantidade suficiente para a subsist&ecirc;ncia&nbsp;das fam&iacute;lias.&nbsp;</p>
 
 <p dir="ltr" style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;">&nbsp;</p>
