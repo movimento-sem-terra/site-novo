@@ -4,7 +4,7 @@ tags:
   - tag: enff
   - tag: entrevista
   - tag: projeto-popular
-title: Dilma visita Enff e ressalta o papel dos movimentos populares para 2018
+title: Dilma visita ENFF e ressalta o papel dos movimentos populares para 2018
 support_line: "Na Escola do MST, Dilma Rousseff conversou com jornalistas e afirmou as bases de um programa de radicalização democrática para a próxima etapa do Brasil."
 menu: projeto popular
 section: cover
@@ -191,6 +191,10 @@ Ent&atilde;o uma reforma tribut&aacute;ria tem que ser abertamente debatida no B
 <img alt="WhatsApp Image 2018-06-11 at 16.47.15 (2).jpeg" height="466" src="//farm2.staticflickr.com/1744/40942541490_1363086b99_b.jpg" width="700" /></p>
 
 <p>&nbsp;</p>
+
+<p>Confira o v&iacute;deo da visita:&nbsp;</p>
+
+<p><iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/8NsQ5ru-w_E" width="640"></iframe></p>
 
 <p>&nbsp;</p>
 
