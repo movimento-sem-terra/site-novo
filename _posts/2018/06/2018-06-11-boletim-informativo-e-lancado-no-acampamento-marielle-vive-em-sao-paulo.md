@@ -50,7 +50,7 @@ Da P&aacute;gina do MST </em></p>
 No &uacute;ltimo domingo (10), durante uma assembleia geral do <a href="http://www.mst.org.br/2018/05/10/acampamento-marielle-vive-resiste-ha-quase-um-mes-em-valinhos-sp.html">acampamento&nbsp;</a><a href="http://www.mst.org.br/2018/05/10/acampamento-marielle-vive-resiste-ha-quase-um-mes-em-valinhos-sp.html">Marielle Vive!</a>,&nbsp;localizado em Valinhos, S&atilde;o Paulo,&nbsp;foi lan&ccedil;ado o Boletim Vozes do Marielle.&nbsp;A&nbsp;exemplo do Boletim Sem Terra, o informativo&nbsp;surge&nbsp;como uma ferramenta para ecoar as vozes dos acampados e&nbsp;recuperar as experi&ecirc;ncias de constru&ccedil;&atilde;o na comunica&ccedil;&atilde;o popular desenvolvidas pelo MST.</p>
 
 <p dir="ltr"><br />
-Segundo uma das coordenadoras do acampamento que, por motivos de seguran&ccedil;a preferiu n&atilde;o se identificar: &ldquo;Vozes do Marielle surge&nbsp;para dizer&nbsp;que, como a terra, a comunica&ccedil;&atilde;o tamb&eacute;m &eacute; um direito. Ainda que queiram monopolizar a informa&ccedil;&atilde;o, seguimos organizados e esse boletim &eacute;&nbsp;fruto dessa&nbsp;organiza&ccedil;&atilde;o popular&quot;.</p>
+Segundo S&ocirc;nia do Nascimento, uma das coordenadoras do acampamento:&quot;O&nbsp;Vozes do Marielle surge&nbsp;para dizer&nbsp;que, como a terra, a comunica&ccedil;&atilde;o tamb&eacute;m &eacute; um direito. Ainda que queiram monopolizar a informa&ccedil;&atilde;o, seguimos organizados e esse boletim &eacute;&nbsp;fruto dessa&nbsp;organiza&ccedil;&atilde;o popular&quot;.</p>
 
 <p dir="ltr" style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;">&nbsp;</p>
 
