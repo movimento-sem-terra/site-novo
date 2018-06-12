@@ -47,8 +47,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Daniela Moura-III Feira da Reforma Agrária-08062017-668-193.jpg" height="467" src="//farm2.staticflickr.com/1724/42690598892_815498580e_b.jpg" width="700" />
-<figcaption>Foto: Daniela Moura<br />
-</figcaption>
+<figcaption>Foto: Daniela Moura</figcaption>
 </figure>
 </div>
 
@@ -58,7 +57,7 @@ Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
-<p>Entre os dias 14 e 16/6, o MST realiza sua 4&deg; Feira Estadual da Reforma Agr&aacute;ria, na Pra&ccedil;a da Piedade, no cora&ccedil;&atilde;o de Salvador. Com a participa&ccedil;&atilde;o de 400 trabalhadores e trabalhadoras Sem Terra, o evento re&uacute;ne cerca de 4 toneladas de alimentos produzidos em assentamentos e acampamentos do MST de dez regi&otilde;es da Bahia. Ser&atilde;o mais de 180 tipos de produtos, como hortali&ccedil;as, frutas, mudas, sementes e artesanatos.</p>
+<p>Entre os dias 14 e 16/6, o MST realiza sua 4&deg; Feira Estadual da Reforma Agr&aacute;ria, na Pra&ccedil;a da Piedade, no cora&ccedil;&atilde;o de Salvador. Com a participa&ccedil;&atilde;o de 400 trabalhadores e trabalhadoras Sem Terra, o evento re&uacute;ne cerca de 140 toneladas de alimentos produzidos em assentamentos e acampamentos do MST de dez regi&otilde;es da Bahia. Ser&atilde;o mais de 180 tipos de produtos, como hortali&ccedil;as, frutas, mudas, sementes e artesanatos.</p>
 
 <p><br />
 Para Felipe Campelo, do setor de produ&ccedil;&atilde;o do MST no estado, a Feira ser&aacute; mais um espa&ccedil;o de di&aacute;logo com a popula&ccedil;&atilde;o de Salvador sobre a luta pela terra, pela Reforma Agr&aacute;ria e por mudan&ccedil;as significativas em toda sociedade. &ldquo;Precisamos dialogar. Mostrar que os trabalhadores Sem Terra s&atilde;o sujeitos da luta e que a reforma agr&aacute;ria d&aacute; certo&rdquo;, pontua.</p>
