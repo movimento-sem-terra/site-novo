@@ -8,7 +8,7 @@ title: A 17ª Jornada de Agroecologia busca integrar o campo e a cidade
 support_line: Evento itinerante no Paraná começou hoje com o objetivo de construir um projeto popular e soberano para a agricultura.
 menu: agricultura camponesa
 images_hd: //farm2.staticflickr.com/1756/41756790965_6a3750e48a_b.jpg
-section: cover
+section: featured-news
 layout: post
 files:
   - link: //farm2.staticflickr.com/1756/41756790965_6a3750e48a_b.jpg
