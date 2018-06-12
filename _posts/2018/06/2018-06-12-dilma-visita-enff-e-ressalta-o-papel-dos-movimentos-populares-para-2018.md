@@ -5,7 +5,7 @@ tags:
   - tag: entrevista
   - tag: projeto-popular
 title: Dilma visita Enff e ressalta o papel dos movimentos populares para 2018
-support_line: "Na Escola Nacional Florestan Fernandes, Dilma Rousseff conversou com jornalistas e afirmou as bases de um programa de radicalização democrática para a próxima etapa do Brasil"
+support_line: "Na Escola do MST, Dilma Rousseff conversou com jornalistas e afirmou as bases de um programa de radicalização democrática para a próxima etapa do Brasil."
 menu: projeto popular
 section: cover
 label: interviews
@@ -142,7 +142,7 @@ Voc&ecirc; tamb&eacute;m pode conferir a integra da conversa:</p>
 Eu acredito que os movimentos populares nesta elei&ccedil;&atilde;o s&atilde;o ainda mais importantes. Mesmo considerando que na &uacute;ltima elei&ccedil;&atilde;o voc&ecirc;s j&aacute; tiveram uma import&acirc;ncia decisiva e estrat&eacute;gica porque nos ajudaram a decidir a elei&ccedil;&atilde;o. Agora, n&oacute;s temos uma amea&ccedil;a aberta &agrave; democracia e um conflito mais acirrado. Quando se tem um conflito acirrado e n&atilde;o queremos que isso se transforme num alimento da direita e do fascismo, temos que alimentar a esperan&ccedil;a.</p>
 
 <p><br />
-Porque as pessoas perderam a esperan&ccedil;a um pouco. N&oacute;s somos aqueles que temos que dizer. N&atilde;o. A esperan&ccedil;a existe. E a esperan&ccedil;a significa apostar no Brasil, numa radicaliza&ccedil;&atilde;o democr&aacute;tica.</p>
+Porque as pessoas perderam a esperan&ccedil;a um pouco. N&oacute;s somos aqueles que temos que dizer: &#39;N&atilde;o! A esperan&ccedil;a existe&#39;. E a esperan&ccedil;a significa apostar no Brasil, numa radicaliza&ccedil;&atilde;o democr&aacute;tica.</p>
 
 <p><br />
 <strong>O que ser&aacute; a base de um novo programa para o Brasil?</strong></p>
