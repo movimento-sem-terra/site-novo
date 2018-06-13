@@ -5,7 +5,7 @@ tags:
   - tag: educação
   - tag: cultura
 title: "MST arrecada livros de literatura infantil "
-support_line: "Os livros serão entregues no 1º Encontro Nacional de Crianças Sem Terrinha, que acontece de 28 a 31\nde maio, em Brasília\n\n"
+support_line: Os livros serão entregues no 1º Encontro Nacional de Crianças Sem Terrinha
 images_hd: //farm1.staticflickr.com/953/28127008928_a19f0e8b3e_b.jpg
 menu: "educação, cultura e comunicação"
 layout: post
