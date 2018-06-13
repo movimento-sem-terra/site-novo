@@ -75,54 +75,56 @@ Os pontos de recolhimento das doa&ccedil;&otilde;es est&atilde;o espalhados por 
 <p><br />
 <strong>Secretaria Nacional MST S&atilde;o Paulo</strong><br />
 Rua Alameda Bar&atilde;o de Limeira, 1232, Campos El&iacute;sios<br />
+CEP&nbsp;<span style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: small;">01218-012</span><br />
 secgeral@mst.org.br<br />
-Fone: (11) 21310850</p>
+(11) 2131-0850</p>
 
 <p><br />
 <strong>Secretaria Estadual de Santa Catarina</strong><br />
-<a href="https://maps.google.com/?q=Rua+Montevideo,+n%C2%BA+2135&amp;entry=gmail&amp;source=g">Rua Montevideo, n&ordm; 2135</a>&nbsp;D - Passo dos Fortes &ndash; Chapec&oacute; (SC)<br />
-Fone: 49. 3329-6400 &ndash; Correio Eletr&ocirc;nico:&nbsp;<a href="mailto:secretariamst.sc@gmail.com" target="_blank">secretariamst.sc@gmail.com</a></p>
+<a href="https://maps.google.com/?q=Rua+Montevideo,+n%C2%BA+2135&amp;entry=gmail&amp;source=g">Rua Montevideo, n&ordm; 2135</a>&nbsp;D - Passo dos Fortes - Chapec&oacute; (SC)<br />
+CEP&nbsp;<span style="color: rgb(84, 84, 84); font-family: arial, sans-serif; font-size: small;">89801-330&nbsp;</span><br />
+(49) 3329-6400<br />
+<a href="mailto:secretariamst.sc@gmail.com" target="_blank">secretariamst.sc@gmail.com</a></p>
 
 <p><br />
 <strong>Secretaria Estadual de Goi&aacute;s</strong><br />
-Rua Desembargador M&aacute;rio Caiado, Quadra 2 lote 4, n&uacute;mero 135 - Setor Crimeia Leste Goi&acirc;nia (GO) - Fones: 62. 3877-7647/ 99690-8750</p>
+Rua Desembargador M&aacute;rio Caiado, Quadra 2 lote 4, n&deg;&nbsp;135 - Setor Crimeia Leste Goi&acirc;nia (- Fones: 62. 3877-7647/ 99690-8750</p>
 
 <p><br />
-<strong>Cear&aacute;</strong><br />
-Centro de Forma&ccedil;&atilde;o Frei Humberto<br />
-<a href="https://maps.google.com/?q=Rua+Paulo+Firmeza+445,+Bairro+S%C3%A3o+Jo%C3%A3o+do+Tauape+%E2%80%93+Fortaleza+(CE&amp;entry=gmail&amp;source=g">Rua Paulo Firmeza 445, Bairro S&atilde;o Jo&atilde;o do Tauape &ndash; Fortaleza (CE</a>)<br />
-Fones: 85. 3257-5630/ 99918-1648</p>
-
-<p><br />
-<strong>Escrit&oacute;rio Nacional MST - Rio de Janeiro</strong></p>
-
-<p>Rua Sete de setembro, 223 sala 301 - Centro<br />
+<strong>Secretaria Estadual do Maranh&atilde;o</strong><br />
+Rua Sete de setembro, 62, Centro - S&atilde;o Luis<br />
+CEP&nbsp;<span style="color: rgb(84, 84, 84); font-family: arial, sans-serif; font-size: small;">65010-120</span><br />
+<strong>Secretaria Regional de Imperatriz&nbsp;</strong><br />
+Rua Guanabara, 539, Entroncamento - Imperatriz<br />
+CEP&nbsp;<span style="color: rgb(84, 84, 84); font-family: arial, sans-serif; font-size: small;">65903-040</span><br />
+mstma@veloxmail.com.br<br />
+(98) 3232-5372<br />
+<br />
+<strong>Escrit&oacute;rio Nacional MST - Rio de Janeiro</strong><br />
+Rua Sete de setembro, 223 sala 301 - Centro<br />
 CEP&nbsp;20050-006<br />
 <a href="mailto:escritoriorj@mst.org.br" target="_blank">escritoriorj@mst.org.br</a><br />
 (21) 2240-8496</p>
 
 <p>&nbsp;</p>
 
-<p><strong>Escrit&oacute;rio Nacional MST - Bras&iacute;lia</strong></p>
-
-<p>SCS &ndash; Quadra 6, bloco A &ndash; 110 Ed.&nbsp;&nbsp;Arnaldo Villares, sala 211<br />
+<p><strong>Escrit&oacute;rio Nacional MST - Bras&iacute;lia</strong><br />
+SCS -&nbsp;Quadra 6, bloco A -&nbsp;110 Ed.&nbsp;&nbsp;Arnaldo Villares, sala 211<br />
 CEP&nbsp;70324-900<br />
 <a href="mailto:escnacionalbsb@gmail.com" target="_blank">escnacionalbsb@gmail.com</a><br />
 (61) 3326-0273</p>
 
 <p>&nbsp;</p>
 
-<p><strong>Fortaleza -Centro de Forma&ccedil;&atilde;o Frei Humberto</strong></p>
-
-<p>Rua Jo&atilde;o Firmeza, 445 &ndash; S&atilde;o Jo&atilde;o de Tauap&eacute; - Fortaleza<br />
+<p><strong>Fortaleza - Centro de Forma&ccedil;&atilde;o Frei Humberto</strong><br />
+Rua Jo&atilde;o Firmeza, 445 -&nbsp;S&atilde;o Jo&atilde;o de Tauap&eacute; - Fortaleza<br />
 CEP&nbsp;60130-420.<br />
 (85) 3257-5630</p>
 
 <p>&nbsp;</p>
 
-<p><strong>Goi&acirc;nia - Secret&aacute;ria Estadual do MST</strong></p>
-
-<p>Rua M&aacute;rio Caiado, quadra 2 lote 4, n&uacute;mero 135 / setor Crim&eacute;ia Leste<br />
+<p><strong>Goi&acirc;nia - Secret&aacute;ria Estadual do MST</strong><br />
+Rua M&aacute;rio Caiado, quadra 2 lote 4, n&uacute;mero 135 / setor Crim&eacute;ia Leste<br />
 CEP&nbsp;74660-310<br />
 (62) 3877-7647</p>
 
@@ -130,15 +132,15 @@ CEP&nbsp;74660-310<br />
 
 <p><strong>Pernambuco - Secret&aacute;ria Estadual do MST</strong></p>
 
-<p>Rua Jader Figueiredo de Andrade e Silva, n&deg;155 &ndash; Vassoural &ndash; Caruaru<br />
+<p>Rua Jader Figueiredo de Andrade e Silva, n&deg;155 -&nbsp;Vassoural &ndash; Caruaru<br />
 CEP&nbsp;55028-410<br />
 seteducmst.pe@autlook<br />
 (81) 3722-3136</p>
 
 <p><br />
-<strong>Minas Gerais &ndash; Armaz&eacute;m do Campo &ndash; Belo Horizonte</strong></p>
+<strong>Minas Gerais -&nbsp;Armaz&eacute;m do Campo -&nbsp;Belo Horizonte</strong></p>
 
-<p>Avenida Augusto de Lima, n&deg;2136 &ndash; Barro Preto<br />
+<p>Avenida Augusto de Lima, n&deg;2136 -&nbsp;Barro Preto<br />
 CEP&nbsp;30190-001<br />
 (31) 99596-3391&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 
@@ -146,7 +148,7 @@ CEP&nbsp;30190-001<br />
 
 <p><strong>Paran&aacute; - Secret&aacute;ria Estadual do MST</strong></p>
 
-<p>Alameda Princesa Isabel, n&deg;714 &ndash; Merces<br />
+<p>Alameda Princesa Isabel, n&deg;714 -&nbsp;Merces<br />
 CEP&nbsp;80430-120<br />
 <a href="mailto:setoreducacaopr@gmail.com" target="_blank">setoreducacaopr@gmail.com</a><br />
 (41) 3324-7000</p>
