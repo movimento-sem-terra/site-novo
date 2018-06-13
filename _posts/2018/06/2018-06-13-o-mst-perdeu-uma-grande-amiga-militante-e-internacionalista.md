@@ -1,0 +1,68 @@
+---
+date: "2018-06-13T11:24:31-03:00"
+tags:
+  - tag: pesar
+  - tag: nota-de-falecimento
+  - tag: internacionalismo
+title: "O MST perdeu uma grande amiga, militante e internacionalista "
+support_line: "Serena Romagnoli foi uma pessoa  fantástica, solidária, humilde e  indignada contra qualquer injustiça em qualquer parte do mundo,  como todos deveríamos ser"
+menu: solidariedade
+images_hd: //farm2.staticflickr.com/1760/42058260904_be46c514a3_b.jpg
+layout: post
+files:
+  - link: //farm2.staticflickr.com/1760/42058260904_be46c514a3_b.jpg
+    original: //farm2.staticflickr.com/1760/42058260904_86c12eb0bc_o.jpg
+    thumbnail: //farm2.staticflickr.com/1760/42058260904_be46c514a3_t.jpg
+    medium: //farm2.staticflickr.com/1760/42058260904_be46c514a3_z.jpg
+    small: //farm2.staticflickr.com/1760/42058260904_be46c514a3_n.jpg
+    title: 65175_10200364376782127_1097914651_n.jpg
+    $$hashKey: 02P
+created_date: "2018-06-13T11:31:30-03:00"
+published: true
+releated_posts:
+  - _posts/2017/11/2017-11-02-mst-lamenta-a-perda-da-jovem-marciana-no-interior-de-alagoas.md
+  - _posts/2017/11/2017-11-11-nota-de-pesar-pelo-falecimento-de-moniz-bandeira.md
+  - _posts/2017/12/2017-12-18-nota-de-pesar-pelo-assassinato-do-militante-luis-dos-santos-silva-o-luis-preto.md
+  - _posts/2017/12/2017-12-28-mst-lamenta-a-morte-de-fernando-birri.md
+  - _posts/2018/03/2018-03-02-theotonio-dos-santos-partiu-um-ser-humano-e-intelectual-transcendente.md
+  - _posts/2018/03/2018-03-15-marielle-franco-presente.md
+  - _posts/2018/03/2018-03-26-fausto-dos-santos-um-legado-que-inspira-luta.md
+
+---
+<p>&nbsp;</p>
+
+<p><em>Da P&aacute;gina do MST&nbsp;</em></p>
+
+<p>&nbsp;</p>
+
+<p>Estimados amigos e amigas;<br />
+<br />
+Estamos muito doloridos em poder&nbsp; comunicar &nbsp;que&nbsp; perdemos a querida companheira Serena Romagnoli,&nbsp; que&nbsp; morava em&nbsp; Roma. Serena&nbsp; foi um exemplo de vida, companheirismo e de internacionalismo.</p>
+
+<p><br />
+Professora das escolas fundamentais, dedicou toda vida em ensinar as crian&ccedil;as romanas com paci&ecirc;ncia e&nbsp; sabedoria.&nbsp;&nbsp;Como internacionalista&nbsp; ajudou a organizar comit&ecirc;s de solidariedade com a causa palestina,&nbsp; haitiana e com a nossa luta pela reforma agraria no Brasil e na America Latina.</p>
+
+<p><br />
+Apreendeu o portugu&ecirc;s por conta, para poder&nbsp; se comunicar melhor. Esteve muitas vezes&nbsp; visitando nossos acampamentos e assentamentos.&nbsp; Participou de diversos congressos nacionais do MST. Nos deu guarida tantas vezes em sua&nbsp; casa em Roma.</p>
+
+<p><br />
+Foi uma pessoa&nbsp; fant&aacute;stica, solid&aacute;ria, humilde e&nbsp; indignada contra qualquer injusti&ccedil;a em qualquer parte do mundo,&nbsp; como todos dever&iacute;amos ser!</p>
+
+<p><br />
+Perdemos de forma acidental.&nbsp; Partiu&nbsp; muito antes do seu tempo.&nbsp; Sentiremos muito sua falta!</p>
+
+<p><br />
+Porem nos deixou um legado de milit&acirc;ncia, sabedoria, dedica&ccedil;&atilde;o &agrave; todas as causas justas do povo italiano e de todos os povos do mundo.</p>
+
+<p><br />
+Nos despedimos com muita dor e pesar.&nbsp;&nbsp;&nbsp; Enviando tamb&eacute;m um forte abra&ccedil;o&nbsp; a toda sua fam&iacute;lia, ao comite italiano de solidariedade ao MST e a todos seus companheiros e companheiras que certamente est&atilde;o tamb&eacute;m muito doloridos.</p>
+
+<p><br />
+J&aacute; estamos com saudades!</p>
+
+<p style="text-align: right;"><br />
+Movimento dos Trabalhadores Rurais Sem Terra</p>
+
+<p style="text-align: right;">S&atilde;o paulo, 13 de junho de 2018</p>
+
+<p style="text-align: right;">&nbsp;</p>
