@@ -7,16 +7,16 @@ tags:
 title: "O MST perdeu uma grande amiga, militante e internacionalista "
 support_line: "Serena Romagnoli foi uma pessoa  fantástica, solidária, humilde e  indignada contra qualquer injustiça em qualquer parte do mundo,  como todos deveríamos ser"
 menu: solidariedade
-images_hd: //farm2.staticflickr.com/1760/42058260904_be46c514a3_b.jpg
+images_hd: //farm2.staticflickr.com/1742/28902095868_c8bdd7d3cf_b.jpg
 layout: post
 files:
-  - link: //farm2.staticflickr.com/1760/42058260904_be46c514a3_b.jpg
-    original: //farm2.staticflickr.com/1760/42058260904_86c12eb0bc_o.jpg
-    thumbnail: //farm2.staticflickr.com/1760/42058260904_be46c514a3_t.jpg
-    medium: //farm2.staticflickr.com/1760/42058260904_be46c514a3_z.jpg
-    small: //farm2.staticflickr.com/1760/42058260904_be46c514a3_n.jpg
-    title: 65175_10200364376782127_1097914651_n.jpg
-    $$hashKey: 02P
+  - link: //farm2.staticflickr.com/1742/28902095868_c8bdd7d3cf_b.jpg
+    original: //farm2.staticflickr.com/1742/28902095868_ee1f87d462_o.jpg
+    thumbnail: //farm2.staticflickr.com/1742/28902095868_c8bdd7d3cf_t.jpg
+    medium: //farm2.staticflickr.com/1742/28902095868_c8bdd7d3cf_z.jpg
+    small: //farm2.staticflickr.com/1742/28902095868_c8bdd7d3cf_n.jpg
+    title: pp.jpg
+    $$hashKey: 0AO
 created_date: "2018-06-13T11:31:30-03:00"
 published: true
 releated_posts:
