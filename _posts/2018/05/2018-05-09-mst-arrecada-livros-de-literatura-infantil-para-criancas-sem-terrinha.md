@@ -72,23 +72,49 @@ Os pontos de recolhimento das doa&ccedil;&otilde;es est&atilde;o espalhados por 
 
 <p>&nbsp;</p>
 
-<p><br />
-<strong>Secretaria Nacional MST S&atilde;o Paulo</strong><br />
-Rua Alameda Bar&atilde;o de Limeira, 1232, Campos El&iacute;sios<br />
-CEP&nbsp;<span style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: small;">01218-012</span><br />
-secgeral@mst.org.br<br />
-(11) 2131-0850</p>
+<p><em>Por Webert da Cruz<br />
+Da P&aacute;gina do MST</em><br />
+&nbsp;</p>
+
+<p>&ldquo;A import&acirc;ncia de ouvir muitas, muitas hist&oacute;rias, escut&aacute;-las &eacute; o in&iacute;cio da aprendizagem para ser um leitor, e ser leitor &eacute; ter um caminho absolutamente infinito de descoberta e de compreens&atilde;o do mundo&rdquo;, afirmou Fanny Abramovich, escritora infanto-juvenil brasileira em 1994.</p>
 
 <p><br />
-<strong>Secretaria Estadual de Santa Catarina</strong><br />
+E, para fortalecer o h&aacute;bito da leitura e a difus&atilde;o da literatura infantil, o MST est&aacute; encabe&ccedil;ando uma campanha de&nbsp;arrecada&ccedil;&atilde;o de produ&ccedil;&otilde;es liter&aacute;rias para as crian&ccedil;as.&nbsp;As&nbsp;obras&nbsp;ser&atilde;o distribu&iacute;das no 1&ordm; Encontro Nacional de Crian&ccedil;as Sem Terrinha que ser&aacute; realizado no m&ecirc;s de julho, em Bras&iacute;lia.</p>
+
+<p><br />
+O principal objetivo do&nbsp;evento - que contar&aacute; com cerca de 1200 crian&ccedil;as e 400 educadores -&nbsp;&eacute; mobilizar crian&ccedil;as de acampamentos e assentamentos&nbsp;e proporcionar um espa&ccedil;o&nbsp;de socializa&ccedil;&atilde;o do fazer cultural e educativo da inf&acirc;ncia Sem Terra.&nbsp;</p>
+
+<p><br />
+Na perspectiva de que Reforma Agr&aacute;ria Popular n&atilde;o pode ser constru&iacute;da sem as crian&ccedil;as, M&aacute;rcia Ramos do coletivo nacional de educa&ccedil;&atilde;o do MST,&nbsp;acredita que a literatura se apresenta como ferramenta para fortalecer a criticidade, o exerc&iacute;cio do pensar e de participa&ccedil;&atilde;o de crian&ccedil;as como sujeitos hist&oacute;ricos e direitos no movimento.</p>
+
+<p><br />
+&quot;Para n&oacute;s pensarmos esse lugar da inf&acirc;ncia, com a literatura e a dimens&atilde;o pol&iacute;tica faz parte de todo um projeto educativo. A escolha de livros cr&iacute;ticos que permitam que as crian&ccedil;as pensem sobre o mundo &eacute; fundamental. Por isso, pedimos para que todos se mobilizem nessa campanha, para que juntos possamos fomentar esse saber&quot;, finaliza.</p>
+
+<p><br />
+Os pontos de recolhimento das doa&ccedil;&otilde;es est&atilde;o espalhados por todo o pa&iacute;s, as entregas podem ser feitas pessoalmente ou via Correio.&nbsp;</p>
+
+<p><br />
+<strong>Pontos de arrecada&ccedil;&atilde;o:</strong><br />
+&nbsp;</p>
+
+<p><strong>Secretaria Nacional MST S&atilde;o Paulo</strong><br />
+Rua Alameda Bar&atilde;o de Limeira, 1232, Campos El&iacute;sios<br />
+CEP&nbsp;<span style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: small;">01218-012</span><br />
+(11) 2131-0850<br />
+secgeral@mst.org.br<br />
+&nbsp;</p>
+
+<p><strong>Secretaria Estadual de Santa Catarina</strong><br />
 <a href="https://maps.google.com/?q=Rua+Montevideo,+n%C2%BA+2135&amp;entry=gmail&amp;source=g">Rua Montevideo, n&ordm; 2135</a>&nbsp;D - Passo dos Fortes - Chapec&oacute; (SC)<br />
 CEP&nbsp;<span style="color: rgb(84, 84, 84); font-family: arial, sans-serif; font-size: small;">89801-330&nbsp;</span><br />
-(49) 3329-6400<br />
+(49) 3329-6400&nbsp;<br />
 <a href="mailto:secretariamst.sc@gmail.com" target="_blank">secretariamst.sc@gmail.com</a></p>
 
 <p><br />
 <strong>Secretaria Estadual de Goi&aacute;s</strong><br />
-Rua Desembargador M&aacute;rio Caiado, Quadra 2 lote 4, n&deg;&nbsp;135 - Setor Crimeia Leste Goi&acirc;nia (- Fones: 62. 3877-7647/ 99690-8750</p>
+Rua Desembargador M&aacute;rio Caiado, Quadra 2 lote 4, n&deg;&nbsp;135 - Setor Crimeia Leste Goi&acirc;nia<br />
+CEP&nbsp;<span style="color: rgb(84, 84, 84); font-family: arial, sans-serif; font-size: small;">74660-310</span>&nbsp;<br />
+(62)&nbsp;3877-7647</p>
 
 <p><br />
 <strong>Secretaria Estadual do Maranh&atilde;o</strong><br />
@@ -97,63 +123,54 @@ CEP&nbsp;<span style="color: rgb(84, 84, 84); font-family: arial, sans-serif; fo
 <strong>Secretaria Regional de Imperatriz&nbsp;</strong><br />
 Rua Guanabara, 539, Entroncamento - Imperatriz<br />
 CEP&nbsp;<span style="color: rgb(84, 84, 84); font-family: arial, sans-serif; font-size: small;">65903-040</span><br />
-mstma@veloxmail.com.br<br />
 (98) 3232-5372<br />
-<br />
+mstma@veloxmail.com.br</p>
+
+<p><br />
 <strong>Escrit&oacute;rio Nacional MST - Rio de Janeiro</strong><br />
 Rua Sete de setembro, 223 sala 301 - Centro<br />
 CEP&nbsp;20050-006<br />
-<a href="mailto:escritoriorj@mst.org.br" target="_blank">escritoriorj@mst.org.br</a><br />
-(21) 2240-8496</p>
+(21) 2240-849<br />
+<a href="mailto:escritoriorj@mst.org.br" target="_blank">escritoriorj@mst.org.br</a></p>
 
-<p>&nbsp;</p>
-
-<p><strong>Escrit&oacute;rio Nacional MST - Bras&iacute;lia</strong><br />
+<p><br />
+<strong>Escrit&oacute;rio Nacional MST - Bras&iacute;lia</strong><br />
 SCS -&nbsp;Quadra 6, bloco A -&nbsp;110 Ed.&nbsp;&nbsp;Arnaldo Villares, sala 211<br />
 CEP&nbsp;70324-900<br />
+(61) 3326-027<br />
 <a href="mailto:escnacionalbsb@gmail.com" target="_blank">escnacionalbsb@gmail.com</a><br />
-(61) 3326-0273</p>
-
-<p>&nbsp;</p>
+&nbsp;</p>
 
 <p><strong>Fortaleza - Centro de Forma&ccedil;&atilde;o Frei Humberto</strong><br />
 Rua Jo&atilde;o Firmeza, 445 -&nbsp;S&atilde;o Jo&atilde;o de Tauap&eacute; - Fortaleza<br />
 CEP&nbsp;60130-420.<br />
 (85) 3257-5630</p>
 
-<p>&nbsp;</p>
-
-<p><strong>Goi&acirc;nia - Secret&aacute;ria Estadual do MST</strong><br />
+<p><br />
+<strong>Goi&acirc;nia - Secret&aacute;ria Estadual do MST</strong><br />
 Rua M&aacute;rio Caiado, quadra 2 lote 4, n&uacute;mero 135 / setor Crim&eacute;ia Leste<br />
 CEP&nbsp;74660-310<br />
 (62) 3877-7647</p>
 
-<p>&nbsp;</p>
-
-<p><strong>Pernambuco - Secret&aacute;ria Estadual do MST</strong></p>
-
-<p>Rua Jader Figueiredo de Andrade e Silva, n&deg;155 -&nbsp;Vassoural &ndash; Caruaru<br />
+<p><br />
+<strong>Pernambuco - Secret&aacute;ria Estadual do MS</strong><br />
+Rua Jader Figueiredo de Andrade e Silva, n&deg;155 -&nbsp;Vassoural &ndash; Caruaru<br />
 CEP&nbsp;55028-410<br />
-seteducmst.pe@autlook<br />
-(81) 3722-3136</p>
+(81) 3722-3136<br />
+seteducmst.pe@autlook</p>
 
 <p><br />
-<strong>Minas Gerais -&nbsp;Armaz&eacute;m do Campo -&nbsp;Belo Horizonte</strong></p>
-
-<p>Avenida Augusto de Lima, n&deg;2136 -&nbsp;Barro Preto<br />
+<strong>Minas Gerais -&nbsp;Armaz&eacute;m do Campo -&nbsp;Belo Horizont</strong><br />
+Avenida Augusto de Lima, n&deg;2136 -&nbsp;Barro Preto<br />
 CEP&nbsp;30190-001<br />
 (31) 99596-3391&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 
-<p>&nbsp;</p>
-
-<p><strong>Paran&aacute; - Secret&aacute;ria Estadual do MST</strong></p>
-
-<p>Alameda Princesa Isabel, n&deg;714 -&nbsp;Merces<br />
+<p><br />
+<strong>Paran&aacute; - Secret&aacute;ria Estadual do MS</strong><br />
+Alameda Princesa Isabel, n&deg;714 -&nbsp;Merces<br />
 CEP&nbsp;80430-120<br />
-<a href="mailto:setoreducacaopr@gmail.com" target="_blank">setoreducacaopr@gmail.com</a><br />
-(41) 3324-7000</p>
-
-<p>&nbsp;</p>
+(41) 3324-700<br />
+<a href="mailto:setoreducacaopr@gmail.com" target="_blank">setoreducacaopr@gmail.com</a></p>
 
 <p>&nbsp;</p>
 
