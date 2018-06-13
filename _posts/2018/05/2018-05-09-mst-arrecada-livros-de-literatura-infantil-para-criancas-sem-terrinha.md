@@ -99,30 +99,30 @@ Os pontos de recolhimento das doa&ccedil;&otilde;es est&atilde;o espalhados por 
 
 <p><strong>Secretaria Nacional MST S&atilde;o Paulo</strong><br />
 Rua Alameda Bar&atilde;o de Limeira, 1232, Campos El&iacute;sios<br />
-CEP&nbsp;<span style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: small;">01218-012</span><br />
+CEP&nbsp;01218-012<br />
 (11) 2131-0850<br />
 secgeral@mst.org.br<br />
 &nbsp;</p>
 
 <p><strong>Secretaria Estadual de Santa Catarina</strong><br />
 <a href="https://maps.google.com/?q=Rua+Montevideo,+n%C2%BA+2135&amp;entry=gmail&amp;source=g">Rua Montevideo, n&ordm; 2135</a>&nbsp;D - Passo dos Fortes - Chapec&oacute; (SC)<br />
-CEP&nbsp;<span style="color: rgb(84, 84, 84); font-family: arial, sans-serif; font-size: small;">89801-330&nbsp;</span><br />
+CEP&nbsp;89801-330&nbsp;<br />
 (49) 3329-6400&nbsp;<br />
 <a href="mailto:secretariamst.sc@gmail.com" target="_blank">secretariamst.sc@gmail.com</a></p>
 
 <p><br />
 <strong>Secretaria Estadual de Goi&aacute;s</strong><br />
 Rua Desembargador M&aacute;rio Caiado, Quadra 2 lote 4, n&deg;&nbsp;135 - Setor Crimeia Leste Goi&acirc;nia<br />
-CEP&nbsp;<span style="color: rgb(84, 84, 84); font-family: arial, sans-serif; font-size: small;">74660-310</span>&nbsp;<br />
+CEP&nbsp;74660-310&nbsp;<br />
 (62)&nbsp;3877-7647</p>
 
 <p><br />
 <strong>Secretaria Estadual do Maranh&atilde;o</strong><br />
 Rua Sete de setembro, 62, Centro - S&atilde;o Luis<br />
-CEP&nbsp;<span style="color: rgb(84, 84, 84); font-family: arial, sans-serif; font-size: small;">65010-120</span><br />
+CEP&nbsp;65010-120<br />
 <strong>Secretaria Regional de Imperatriz&nbsp;</strong><br />
 Rua Guanabara, 539, Entroncamento - Imperatriz<br />
-CEP&nbsp;<span style="color: rgb(84, 84, 84); font-family: arial, sans-serif; font-size: small;">65903-040</span><br />
+CEP&nbsp;65903-040<br />
 (98) 3232-5372<br />
 mstma@veloxmail.com.br</p>
 
