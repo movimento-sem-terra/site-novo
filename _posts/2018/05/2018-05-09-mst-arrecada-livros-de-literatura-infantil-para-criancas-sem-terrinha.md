@@ -65,33 +65,7 @@ Na perspectiva de que Reforma Agr&aacute;ria Popular n&atilde;o pode ser constru
 &quot;Para n&oacute;s pensarmos esse lugar da inf&acirc;ncia, com a literatura e a dimens&atilde;o pol&iacute;tica faz parte de todo um projeto educativo. A escolha de livros cr&iacute;ticos que permitam que as crian&ccedil;as pensem sobre o mundo &eacute; fundamental. Por isso, pedimos para que todos se mobilizem nessa campanha, para que juntos possamos fomentar esse saber&quot;, finaliza.</p>
 
 <p><br />
-Os pontos de recolhimento das doa&ccedil;&otilde;es est&atilde;o espalhados por todo o pa&iacute;s, as entregas podem ser feitas pessoalmente ou via Correio.&nbsp;</p>
-
-<p><br />
-<strong>Pontos de arrecada&ccedil;&atilde;o:</strong></p>
-
-<p>&nbsp;</p>
-
-<p><em>Por Webert da Cruz<br />
-Da P&aacute;gina do MST</em><br />
-&nbsp;</p>
-
-<p>&ldquo;A import&acirc;ncia de ouvir muitas, muitas hist&oacute;rias, escut&aacute;-las &eacute; o in&iacute;cio da aprendizagem para ser um leitor, e ser leitor &eacute; ter um caminho absolutamente infinito de descoberta e de compreens&atilde;o do mundo&rdquo;, afirmou Fanny Abramovich, escritora infanto-juvenil brasileira em 1994.</p>
-
-<p><br />
-E, para fortalecer o h&aacute;bito da leitura e a difus&atilde;o da literatura infantil, o MST est&aacute; encabe&ccedil;ando uma campanha de&nbsp;arrecada&ccedil;&atilde;o de produ&ccedil;&otilde;es liter&aacute;rias para as crian&ccedil;as.&nbsp;As&nbsp;obras&nbsp;ser&atilde;o distribu&iacute;das no 1&ordm; Encontro Nacional de Crian&ccedil;as Sem Terrinha que ser&aacute; realizado no m&ecirc;s de julho, em Bras&iacute;lia.</p>
-
-<p><br />
-O principal objetivo do&nbsp;evento - que contar&aacute; com cerca de 1200 crian&ccedil;as e 400 educadores -&nbsp;&eacute; mobilizar crian&ccedil;as de acampamentos e assentamentos&nbsp;e proporcionar um espa&ccedil;o&nbsp;de socializa&ccedil;&atilde;o do fazer cultural e educativo da inf&acirc;ncia Sem Terra.&nbsp;</p>
-
-<p><br />
-Na perspectiva de que Reforma Agr&aacute;ria Popular n&atilde;o pode ser constru&iacute;da sem as crian&ccedil;as, M&aacute;rcia Ramos do coletivo nacional de educa&ccedil;&atilde;o do MST,&nbsp;acredita que a literatura se apresenta como ferramenta para fortalecer a criticidade, o exerc&iacute;cio do pensar e de participa&ccedil;&atilde;o de crian&ccedil;as como sujeitos hist&oacute;ricos e direitos no movimento.</p>
-
-<p><br />
-&quot;Para n&oacute;s pensarmos esse lugar da inf&acirc;ncia, com a literatura e a dimens&atilde;o pol&iacute;tica faz parte de todo um projeto educativo. A escolha de livros cr&iacute;ticos que permitam que as crian&ccedil;as pensem sobre o mundo &eacute; fundamental. Por isso, pedimos para que todos se mobilizem nessa campanha, para que juntos possamos fomentar esse saber&quot;, finaliza.</p>
-
-<p><br />
-Os pontos de recolhimento das doa&ccedil;&otilde;es est&atilde;o espalhados por todo o pa&iacute;s, as entregas podem ser feitas pessoalmente ou via Correio.&nbsp;</p>
+Os pontos de recolhimento das doa&ccedil;&otilde;es est&atilde;o espalhados por todo o pa&iacute;s, as entregas podem ser feitas pessoalmente ou via Correios.&nbsp;</p>
 
 <p><br />
 <strong>Pontos de arrecada&ccedil;&atilde;o:</strong><br />
