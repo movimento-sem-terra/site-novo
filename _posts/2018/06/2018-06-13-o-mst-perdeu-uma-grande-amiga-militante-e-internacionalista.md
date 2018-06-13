@@ -33,29 +33,29 @@ releated_posts:
 
 <p><em>Da P&aacute;gina do MST&nbsp;</em></p>
 
-<p>&nbsp;</p>
-
-<p>Estimados amigos e amigas;<br />
-<br />
-Estamos muito doloridos em poder&nbsp; comunicar &nbsp;que&nbsp; perdemos a querida companheira Serena Romagnoli,&nbsp; que&nbsp; morava em&nbsp; Roma. Serena&nbsp; foi um exemplo de vida, companheirismo e de internacionalismo.</p>
+<p><br />
+Estimados amigos e amigas;</p>
 
 <p><br />
-Professora das escolas fundamentais, dedicou toda vida em ensinar as crian&ccedil;as romanas com paci&ecirc;ncia e&nbsp; sabedoria.&nbsp;&nbsp;Como internacionalista&nbsp; ajudou a organizar comit&ecirc;s de solidariedade com a causa palestina,&nbsp; haitiana e com a nossa luta pela reforma agraria no Brasil e na America Latina.</p>
+Estamos muito doloridos em&nbsp;comunicar que&nbsp;perdemos a querida companheira Serena Romagnoli,&nbsp; que&nbsp; morava em&nbsp; Roma. Serena&nbsp; foi um exemplo de vida, companheirismo e de internacionalismo.</p>
 
 <p><br />
-Apreendeu o portugu&ecirc;s por conta, para poder&nbsp; se comunicar melhor. Esteve muitas vezes&nbsp; visitando nossos acampamentos e assentamentos.&nbsp; Participou de diversos congressos nacionais do MST. Nos deu guarida tantas vezes em sua&nbsp; casa em Roma.</p>
+Professora das escolas fundamentais, dedicou toda vida ao&nbsp;ensino de&nbsp;crian&ccedil;as romanas com paci&ecirc;ncia e&nbsp; sabedoria.&nbsp;Como internacionalista&nbsp;ajudou a organizar comit&ecirc;s de solidariedade&nbsp;a causa palestina,&nbsp;haitiana e tamb&eacute;m a nossa luta pela Reforma Agraria no Brasil e na America Latina.</p>
 
 <p><br />
-Foi uma pessoa&nbsp; fant&aacute;stica, solid&aacute;ria, humilde e&nbsp; indignada contra qualquer injusti&ccedil;a em qualquer parte do mundo,&nbsp; como todos dever&iacute;amos ser!</p>
+Apreendeu&nbsp;portugu&ecirc;s por conta, para poder&nbsp; se comunicar melhor. Em muitas ocasi&otilde;es&nbsp;visitou&nbsp;nossos acampamentos e assentamentos.&nbsp;Participou de diversos congressos nacionais do MST. Solid&aacute;ria, nos deu guarida tantas vezes em sua&nbsp;casa em Roma.</p>
 
 <p><br />
-Perdemos de forma acidental.&nbsp; Partiu&nbsp; muito antes do seu tempo.&nbsp; Sentiremos muito sua falta!</p>
+Serena foi uma pessoa&nbsp; fant&aacute;stica, solid&aacute;ria, humilde e&nbsp;indignada contra qualquer injusti&ccedil;a em qualquer parte do mundo,&nbsp;como todos dever&iacute;amos ser!</p>
 
 <p><br />
-Porem nos deixou um legado de milit&acirc;ncia, sabedoria, dedica&ccedil;&atilde;o &agrave; todas as causas justas do povo italiano e de todos os povos do mundo.</p>
+N&oacute;s a perdemos de forma acidental.&nbsp;Partiu&nbsp;muito antes do seu tempo.&nbsp;Sentiremos muito sua falta!</p>
 
 <p><br />
-Nos despedimos com muita dor e pesar.&nbsp;&nbsp;&nbsp; Enviando tamb&eacute;m um forte abra&ccedil;o&nbsp; a toda sua fam&iacute;lia, ao comite italiano de solidariedade ao MST e a todos seus companheiros e companheiras que certamente est&atilde;o tamb&eacute;m muito doloridos.</p>
+Mas Serena nos deixou um legado de milit&acirc;ncia, sabedoria, dedica&ccedil;&atilde;o &agrave; todas as causas justas do povo italiano e de todos os povos do mundo.</p>
+
+<p><br />
+Nos despedimos com muita dor e pesar.&nbsp;Enviando tamb&eacute;m um forte abra&ccedil;o&nbsp;a toda sua fam&iacute;lia, ao comit&ecirc;&nbsp;italiano de solidariedade ao MST e a todos seus companheiros e companheiras que certamente est&atilde;o tamb&eacute;m muito doloridos.</p>
 
 <p><br />
 J&aacute; estamos com saudades!</p>
