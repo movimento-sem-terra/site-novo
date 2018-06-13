@@ -1,5 +1,5 @@
 ---
-date: "2018-05-09T12:56:36-03:00"
+date: "2018-06-13T12:56:36-03:00"
 tags:
   - tag: sem-terrinha
   - tag: educação
@@ -50,53 +50,27 @@ special-page: sem-terrinha
 Da P&aacute;gina do MST</em><br />
 &nbsp;</p>
 
-<p>&ldquo;A import&acirc;ncia de ouvir muitas, muitas hist&oacute;rias, escut&aacute;-las &eacute; o in&iacute;cio da aprendizagem para ser um leitor, e ser leitor &eacute; ter um caminho absolutamente infinito de descoberta e de compreens&atilde;o do mundo&rdquo;, afirmou Fanny Abramovich, escritora infanto-juvenil brasileira em 1994. Com essa linha de reflex&atilde;o sobre as contribui&ccedil;&otilde;es da literatura para a forma&ccedil;&atilde;o humana, o MST realiza a Campanha de Arrecada&ccedil;&atilde;o de Livros de Literatura Infantil, obras que ser&atilde;o distribu&iacute;das no 1&ordm; Encontro Nacional de Crian&ccedil;as Sem Terrinha que ser&aacute; realizado&nbsp; 28 a 31<br />
-de maio, em Bras&iacute;lia.</p>
+<p>&ldquo;A import&acirc;ncia de ouvir muitas, muitas hist&oacute;rias, escut&aacute;-las &eacute; o in&iacute;cio da aprendizagem para ser um leitor, e ser leitor &eacute; ter um caminho absolutamente infinito de descoberta e de compreens&atilde;o do mundo&rdquo;, afirmou Fanny Abramovich, escritora infanto-juvenil brasileira em 1994.</p>
 
 <p><br />
-O evento contar&aacute; com cerca de 1200 crian&ccedil;as e 400 educadores. O objetivo principal &eacute; mobilizar crian&ccedil;as de acampamentos e assentamentos do Brasil e proporcionar espa&ccedil;os de socializa&ccedil;&atilde;o do fazer cultural e educativo da Inf&acirc;ncia Sem Terra. Momentos de muita festa, brincadeiras e forma&ccedil;&atilde;o est&atilde;o sendo preparados parareceber a garotada.</p>
+E, para fortalecer o h&aacute;bito da leitura e a difus&atilde;o da literatura infantil, o MST est&aacute; encabe&ccedil;ando uma campanha de&nbsp;arrecada&ccedil;&atilde;o de produ&ccedil;&otilde;es liter&aacute;rias para as crian&ccedil;as.&nbsp;As&nbsp;obras&nbsp;ser&atilde;o distribu&iacute;das no 1&ordm; Encontro Nacional de Crian&ccedil;as Sem Terrinha que ser&aacute; realizado no m&ecirc;s de julho, em Bras&iacute;lia.</p>
 
 <p><br />
-Para fortalecer o h&aacute;bito da leitura e difus&atilde;o da literatura infantil, o Movimento tamb&eacute;m realiza a arrecada&ccedil;&atilde;o de produ&ccedil;&otilde;es liter&aacute;rias para as crian&ccedil;as. As obras solicitadas incluem &#39;Meus contos africanos&#39; de Nelson Mandela e &#39;Sai pr&aacute; l&aacute;, dedo duro!&#39; da escritora Fanny Abramovich.</p>
+O principal objetivo do&nbsp;evento - que contar&aacute; com cerca de 1200 crian&ccedil;as e 400 educadores -&nbsp;&eacute; mobilizar crian&ccedil;as de acampamentos e assentamentos&nbsp;e proporcionar um espa&ccedil;o&nbsp;de socializa&ccedil;&atilde;o do fazer cultural e educativo da inf&acirc;ncia Sem Terra.&nbsp;</p>
 
 <p><br />
-Os pontos de recolhimento das doa&ccedil;&otilde;es est&atilde;o nos escrit&oacute;rios nacionais do MST em S&atilde;o Paulo, Rio de Janeiro e Bras&iacute;lia. Quem &eacute; de outro estado poder&aacute; enviar tamb&eacute;m enviar pelos Correios. A campanha seguir&aacute; at&eacute; o dia 21 de maio.</p>
+Na perspectiva de que Reforma Agr&aacute;ria Popular n&atilde;o pode ser constru&iacute;da sem as crian&ccedil;as, M&aacute;rcia Ramos do coletivo nacional de educa&ccedil;&atilde;o do MST,&nbsp;acredita que a literatura se apresenta como ferramenta para fortalecer a criticidade, o exerc&iacute;cio do pensar e de participa&ccedil;&atilde;o de crian&ccedil;as como sujeitos hist&oacute;ricos e direitos no movimento.</p>
 
 <p><br />
-Na perspectiva de que Reforma Agr&aacute;ria Popular n&atilde;o pode ser constru&iacute;da sem as crian&ccedil;as, M&aacute;rcia Ramos do coletivo nacional de educa&ccedil;&atilde;o do MST,&nbsp;acredita que a literatura se apresenta como ferramenta para fortalecer a criticidade, o exerc&iacute;cio do pensar e de participa&ccedil;&atilde;o de crian&ccedil;as como sujeitos hist&oacute;ricos e direitos no movimento.<br />
-<br />
-&quot;Para n&oacute;s pensarmos esse lugar da inf&acirc;ncia, com a literatura e a dimens&atilde;o pol&iacute;tica faz parte de todo um projeto educativo. A escolha de livros cr&iacute;ticos que permitam que as crian&ccedil;as pensem sobre o mundo &eacute; fundamental&quot;,&nbsp;afirma.</p>
-
-<p>Em 2017, o MST mobilizou mais de 10 mil crian&ccedil;as nesse processo educativo nacionalmente.</p>
+&quot;Para n&oacute;s pensarmos esse lugar da inf&acirc;ncia, com a literatura e a dimens&atilde;o pol&iacute;tica faz parte de todo um projeto educativo. A escolha de livros cr&iacute;ticos que permitam que as crian&ccedil;as pensem sobre o mundo &eacute; fundamental. Por isso, pedimos para que todos se mobilizem nessa campanha, para que juntos possamos fomentar esse saber&quot;, finaliza.</p>
 
 <p><br />
-<strong>Conhe&ccedil;a os livros solicitados para o 1&ordm; Encontro Nacional das Crian&ccedil;as Sem Terrinha:</strong></p>
+Os pontos de recolhimento das doa&ccedil;&otilde;es est&atilde;o espalhados por todo o pa&iacute;s, as entregas podem ser feitas pessoalmente ou via Correio.&nbsp;</p>
 
 <p><br />
-1. Meus contos africanos&nbsp; &nbsp;Nelson Mandela -&nbsp;<br />
-2. Pascoalzinho p&eacute;-no ch&atilde;o -&nbsp; Chico Alencar<br />
-3. Sai pr&aacute; l&aacute;, dedo duro!&nbsp; &nbsp;Fanny Abramovich<br />
-4. Severino faz chover - Ana Maria Machado&nbsp;<br />
-5. A primavera da lagarta - Ruth Rocha&nbsp;<br />
-6. Robinson Cruso&eacute; -&nbsp; Daniel Defoe&nbsp;<br />
-7.- O menino maluquinho -&nbsp; Ziraldo&nbsp;<br />
-8 . Os tr&ecirc;s porquinhos pobres &ndash;&nbsp; &Eacute;rico Ver&iacute;ssimo</p>
+<strong>Pontos de arrecada&ccedil;&atilde;o:</strong></p>
 
 <p>&nbsp;</p>
-
-<p><strong>Pontos de arrecada&ccedil;&atilde;o:</strong></p>
-
-<p><br />
-<strong>Escrit&oacute;rio Nacional MST Bras&iacute;lia</strong><br />
-SCS &ndash; Quadra 6, Bloco A &ndash; 110 Ed. Arnaldo Villares, Sala 211<br />
-(A/C: Encontro Nacional das Crian&ccedil;as Sem Terrinha).<br />
-escnacional.bsb@gmail.com<br />
-Fone: (61)3226-0273</p>
-
-<p><strong>Escrit&oacute;rio Nacional MST Rio de Janeiro</strong><br />
-Rua Sete de Setembro, 223, sala 301, Centro.<br />
-escritoriorj@mst.org.br<br />
-Fone: (21) 22408496</p>
 
 <p><br />
 <strong>Secretaria Nacional MST S&atilde;o Paulo</strong><br />
@@ -119,10 +93,68 @@ Centro de Forma&ccedil;&atilde;o Frei Humberto<br />
 <a href="https://maps.google.com/?q=Rua+Paulo+Firmeza+445,+Bairro+S%C3%A3o+Jo%C3%A3o+do+Tauape+%E2%80%93+Fortaleza+(CE&amp;entry=gmail&amp;source=g">Rua Paulo Firmeza 445, Bairro S&atilde;o Jo&atilde;o do Tauape &ndash; Fortaleza (CE</a>)<br />
 Fones: 85. 3257-5630/ 99918-1648</p>
 
-<p><strong>Pelos Correios:</strong><br />
-<br />
-Escrit&oacute;rio Nacional MST Bras&iacute;lia<br />
-SCS &ndash; Quadra 6, Bloco A &ndash; 110 Ed. Arnaldo Villares, Sala 211<br />
-CEP: 70324900 Fone: (61) 3226-0273<br />
-(A/C: Encontro Nacional das Crian&ccedil;as Sem Terrinha).<br />
-escnacional.bsb@gmail.com</p>
+<p><br />
+<strong>Escrit&oacute;rio Nacional MST - Rio de Janeiro</strong></p>
+
+<p>Rua Sete de setembro, 223 sala 301 - Centro<br />
+CEP&nbsp;20050-006<br />
+<a href="mailto:escritoriorj@mst.org.br" target="_blank">escritoriorj@mst.org.br</a><br />
+(21) 2240-8496</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Escrit&oacute;rio Nacional MST - Bras&iacute;lia</strong></p>
+
+<p>SCS &ndash; Quadra 6, bloco A &ndash; 110 Ed.&nbsp;&nbsp;Arnaldo Villares, sala 211<br />
+CEP&nbsp;70324-900<br />
+<a href="mailto:escnacionalbsb@gmail.com" target="_blank">escnacionalbsb@gmail.com</a><br />
+(61) 3326-0273</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Fortaleza -Centro de Forma&ccedil;&atilde;o Frei Humberto</strong></p>
+
+<p>Rua Jo&atilde;o Firmeza, 445 &ndash; S&atilde;o Jo&atilde;o de Tauap&eacute; - Fortaleza<br />
+CEP&nbsp;60130-420.<br />
+(85) 3257-5630</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Goi&acirc;nia - Secret&aacute;ria Estadual do MST</strong></p>
+
+<p>Rua M&aacute;rio Caiado, quadra 2 lote 4, n&uacute;mero 135 / setor Crim&eacute;ia Leste<br />
+CEP&nbsp;74660-310<br />
+(62) 3877-7647</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Pernambuco - Secret&aacute;ria Estadual do MST</strong></p>
+
+<p>Rua Jader Figueiredo de Andrade e Silva, n&deg;155 &ndash; Vassoural &ndash; Caruaru<br />
+CEP&nbsp;55028-410<br />
+seteducmst.pe@autlook<br />
+(81) 3722-3136</p>
+
+<p><br />
+<strong>Minas Gerais &ndash; Armaz&eacute;m do Campo &ndash; Belo Horizonte</strong></p>
+
+<p>Avenida Augusto de Lima, n&deg;2136 &ndash; Barro Preto<br />
+CEP&nbsp;30190-001<br />
+(31) 99596-3391&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Paran&aacute; - Secret&aacute;ria Estadual do MST</strong></p>
+
+<p>Alameda Princesa Isabel, n&deg;714 &ndash; Merces<br />
+CEP&nbsp;80430-120<br />
+<a href="mailto:setoreducacaopr@gmail.com" target="_blank">setoreducacaopr@gmail.com</a><br />
+(41) 3324-7000</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
