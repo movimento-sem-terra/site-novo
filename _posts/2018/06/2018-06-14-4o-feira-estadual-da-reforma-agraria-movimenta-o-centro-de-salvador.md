@@ -54,9 +54,12 @@ A Feira come&ccedil;ou nesta quinta-feira (14) e segue at&eacute; s&aacute;bado 
 Num passeio r&aacute;pido pela Feira, o visitante encontra milho, licor e muito amendoim, produtos t&iacute;picos das festas juninas. Al&eacute;m dessa diversidade, o artesanato, as comidas t&iacute;picas, os fitoter&aacute;picos e as plantas ornamentais, possuem espa&ccedil;o garantido nas 150 barracas que est&atilde;o espalhadas pela Piedade.</p>
 
 <p><br />
-Para Katariny Ferreira Neto, uma jovem de apenas 20 anos, do Acampamento Roseli Nunes, em Itamb&eacute;, no Sudoeste baiano, participa pela primeira vez da Feira expondo plantas ornamentais ou suculentas, como s&atilde;o conhecidas.</p>
+Para Katariny Ferreira Neto, uma jovem de apenas 20 anos, do Acampamento Roseli Nunes, em Itamb&eacute;, no Sudoeste baiano, participa pela primeira vez da Feira expondo plantas ornamentais ou suculentas, como s&atilde;o conhecidas.<br />
+&nbsp;</p>
 
-<p>&nbsp;</p>
+<figure class="image" style="float:right"><img alt="cd1ccbf4-355d-4b03-a73b-f3a9bdcbaa8c.jpg" height="263" src="//farm2.staticflickr.com/1741/28928309958_da5a047f28_b.jpg" width="350" />
+<figcaption></figcaption>
+</figure>
 
 <p>Ela destaca a import&acirc;ncia da intera&ccedil;&atilde;o entre os trabalhadores e trabalhadoras Sem Terra e o povo da cidade, diante da diversidade e particularidades dos sujeitos. &ldquo;A produ&ccedil;&atilde;o de alimentos nos assentamentos e acampamentos do Movimento, a partir da agroecologia tem assumido um papel fundamental no enfrentamento ao modelo de produ&ccedil;&atilde;o convencional. Nossa feira precisa ser este instrumento de comercializa&ccedil;&atilde;o dos produtos e de luta, com pre&ccedil;os acess&iacute;veis&rdquo;, comenta Ferreira.</p>
 
