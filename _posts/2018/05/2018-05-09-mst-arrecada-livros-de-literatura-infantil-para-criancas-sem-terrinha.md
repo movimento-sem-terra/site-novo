@@ -111,8 +111,8 @@ CEP&nbsp;20050-006<br />
 <strong>Escrit&oacute;rio Nacional MST - Bras&iacute;lia</strong><br />
 SCS -&nbsp;Quadra 6, bloco A -&nbsp;110 Ed.&nbsp;&nbsp;Arnaldo Villares, sala 211<br />
 CEP&nbsp;70324-900<br />
-(61) 3326-027<br />
-<a href="mailto:escnacionalbsb@gmail.com" target="_blank">escnacionalbsb@gmail.com</a><br />
+(61) 3326-0273<br />
+<a href="mailto:escnacionalbsb@gmail.com" target="_blank">escnacionalmst.bsb@gmail.com</a><br />
 &nbsp;</p>
 
 <p><strong>Fortaleza - Centro de Forma&ccedil;&atilde;o Frei Humberto</strong><br />
