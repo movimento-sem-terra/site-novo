@@ -67,11 +67,12 @@ Entre os dias 12 e 15 de junho, cerca de 800&nbsp;camponeses e camponesas, educa
 
 <div dir="auto"><br />
 <br />
-De acordo com Eliane Novais Rocha, representante da UnB no F&oacute;rum Nacional de Educa&ccedil;&atilde;o do Campo (Fonec), a realiza&ccedil;&atilde;o da atividade &eacute; importante para que seja feito&nbsp;&quot;um balan&ccedil;o dos 20 anos de&nbsp;luta por educa&ccedil;&atilde;o do campo, das pol&iacute;ticas p&uacute;blicas e da articula&ccedil;&atilde;o que t&ecirc;m sido desempenhada&nbsp;pelos movimentos sociais para garantir essa educa&ccedil;&atilde;o. Esse semin&aacute;rio tamb&eacute;m tem como objetivo demonstrar uma forma de resist&ecirc;ncia ao desmonte das pol&iacute;ticas p&uacute;blicas de educa&ccedil;&atilde;o no Brasil, especialmente a&nbsp;educa&ccedil;&atilde;o do campo&quot;.</div>
+De acordo com Eliane Novais Rocha, representante da UnB no F&oacute;rum Nacional de Educa&ccedil;&atilde;o do Campo (Fonec), a realiza&ccedil;&atilde;o da atividade &eacute; importante para que seja feito&nbsp;&quot;um balan&ccedil;o dos 20 anos de&nbsp;luta por educa&ccedil;&atilde;o do campo, das pol&iacute;ticas p&uacute;blicas e da articula&ccedil;&atilde;o que t&ecirc;m sido desempenhada&nbsp;pelos movimentos sociais para garantir essa educa&ccedil;&atilde;o. Esse semin&aacute;rio tamb&eacute;m tem como objetivo demonstrar uma forma de resist&ecirc;ncia ao desmonte das pol&iacute;ticas p&uacute;blicas de educa&ccedil;&atilde;o no Brasil, especialmente a&nbsp;educa&ccedil;&atilde;o do campo&quot;.<br />
+&nbsp;</div>
 
-<div dir="auto"><br />
+<div dir="auto">&nbsp;
 <figure class="image" style="float:left"><img alt="WhatsApp Image 2018-06-15 at 12.51.11.jpeg" height="238" src="//farm2.staticflickr.com/1721/28944714528_e8c48eb42f_b.jpg" width="400" />
-<figcaption>Os debates durante a atividade&nbsp;refor&ccedil;aram que atualmente as lutas pelo direito &agrave; educa&ccedil;&atilde;o do campo se fazem ainda mais necess&aacute;rias, pois est&atilde;o envoltas em um projeto de sociedade onde sejam superadas as formas de explora&ccedil;&atilde;o&nbsp;</figcaption>
+<figcaption>Fotos Juliano Adriano&nbsp;</figcaption>
 </figure>
 Durante o encontro&nbsp;avaliou-se&nbsp;que a atual crise vivida no Brasil acirra a luta de classes e fere os direitos fundamentais dos trabalhadores, sobretudo no que tange a educa&ccedil;&atilde;o. A escola sem partido&nbsp;e o fechamento das escolas do campo s&atilde;o emblem&aacute;ticos.</div>
 
@@ -83,17 +84,23 @@ Hoje existem 60 mil escolas do campo, em 10 anos foram fechadas mais de 30 mil e
 <br />
 Para Matilde Oliveira de Ara&uacute;jo, do setor de educa&ccedil;&atilde;o do MST de Minas Gerais: &quot;a import&acirc;ncia da luta por educa&ccedil;&atilde;o do campo e a constru&ccedil;&atilde;o desse processo&nbsp;tem dois aspectos para serem destacados: o processo de fortalecimento das lutas por educa&ccedil;&atilde;o e tamb&eacute;m o articula&ccedil;&atilde;o constru&iacute;da dentro desse cen&aacute;rio&quot;.</div>
 
-<div dir="auto"><br />
-<br />
-Os debates durante a atividade refor&ccedil;aram que atualmente as lutas pelo direito &agrave; educa&ccedil;&atilde;o do campo se fazem ainda mais necess&aacute;rias, pois est&atilde;o envoltas em um projeto de sociedade onde sejam superadas as formas de explora&ccedil;&atilde;o do ser humano.</div>
+<div dir="auto">
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="LRM_EXPORT_20180614_212907.jpg" height="479" src="//farm1.staticflickr.com/887/42769228262_c92b2497fa_b.jpg" width="700" />
+<figcaption>Fotos Juliano Adriano&nbsp;</figcaption>
+</figure>
+</div>
 
-<div dir="auto"><br />
+<p><br />
 <br />
-O professor Miguel Arroyo que tamb&eacute;m esteve presente na atividade afirmou que a luta por educa&ccedil;&atilde;o do campo &eacute; parte de um processo hist&oacute;rico na Am&eacute;rica Latina.&nbsp;&nbsp;</div>
+Os debates durante a atividade refor&ccedil;aram que atualmente as lutas pelo direito &agrave; educa&ccedil;&atilde;o do campo se fazem ainda mais necess&aacute;rias, pois est&atilde;o envoltas em um projeto de sociedade onde sejam superadas as formas de explora&ccedil;&atilde;o do ser humano.<br />
+<br />
+<br />
+O professor Miguel Arroyo que tamb&eacute;m esteve presente na atividade afirmou que a luta por educa&ccedil;&atilde;o do campo &eacute; parte de um processo hist&oacute;rico na Am&eacute;rica Latina.&nbsp;</p>
 
-<div dir="auto"><br />
-<br />
-&quot;Desde que nuestra america&nbsp;foi colonizada, o primeiro direito negado foi o de ser reconhecido como humano. A educa&ccedil;&atilde;o n&atilde;o pode aceitar ser reduzida a luta por escola. Atrav&eacute;s da educa&ccedil;&atilde;o nos reafirmamos e humanos&nbsp;[...]&nbsp;Assim, ao comemorar os 20 anos da educa&ccedil;&atilde;o do campo, comemoramos tamb&eacute;m nosso potencial hist&oacute;rico de luta e transforma&ccedil;&atilde;o&quot;. finalizou.</div>
+<p><br />
+&quot;Desde que nuestra america&nbsp;foi colonizada, o primeiro direito negado foi o de ser reconhecido como humano. A educa&ccedil;&atilde;o n&atilde;o pode aceitar ser reduzida a luta por escola. Atrav&eacute;s da educa&ccedil;&atilde;o nos reafirmamos e humanos&nbsp;[...]&nbsp;Assim, ao comemorar os 20 anos da educa&ccedil;&atilde;o do campo, comemoramos tamb&eacute;m nosso potencial hist&oacute;rico de luta e transforma&ccedil;&atilde;o&quot;. finalizou.</p>
+</div>
 <br />
 &nbsp;</div>
 
