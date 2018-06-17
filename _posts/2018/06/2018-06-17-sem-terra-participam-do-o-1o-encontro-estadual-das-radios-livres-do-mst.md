@@ -17,6 +17,20 @@ files:
     small: //farm2.staticflickr.com/1743/28984496358_5889238fdc_n.jpg
     title: IMG_20180614_091311243.jpg
     $$hashKey: "034"
+  - link: //farm2.staticflickr.com/1739/42809169882_eb4e341d87_b.jpg
+    original: //farm2.staticflickr.com/1739/42809169882_5b9c5e39a6_o.jpg
+    thumbnail: //farm2.staticflickr.com/1739/42809169882_eb4e341d87_t.jpg
+    medium: //farm2.staticflickr.com/1739/42809169882_eb4e341d87_z.jpg
+    small: //farm2.staticflickr.com/1739/42809169882_eb4e341d87_n.jpg
+    title: IMG_20180614_163215374.jpg
+    $$hashKey: 05B
+  - link: //farm2.staticflickr.com/1783/42857682041_5e143cfba9_b.jpg
+    original: //farm2.staticflickr.com/1783/42857682041_11f9d87c6d_o.jpg
+    thumbnail: //farm2.staticflickr.com/1783/42857682041_5e143cfba9_t.jpg
+    medium: //farm2.staticflickr.com/1783/42857682041_5e143cfba9_z.jpg
+    small: //farm2.staticflickr.com/1783/42857682041_5e143cfba9_n.jpg
+    title: IMG_20180614_112644543.jpg
+    $$hashKey: 05E
 created_date: "2018-06-17T13:16:14-03:00"
 published: true
 releated_posts:
@@ -27,6 +41,14 @@ releated_posts:
   - _posts/2018/03/2018-03-19-mst-realiza-1-encontro-de-radios-comunitarias-em-santa-catarina.md
 
 ---
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="IMG_20180614_163215374.jpg" height="525" src="//farm2.staticflickr.com/1739/42809169882_eb4e341d87_b.jpg" width="700" />
+<figcaption>Divulga&ccedil;&atilde;o MST</figcaption>
+</figure>
+</div>
+
+<p>&nbsp;</p>
+
 <p><em>Por Aline Oliveira<br />
 Da P&aacute;gina do MST</em></p>
 
@@ -34,8 +56,13 @@ Da P&aacute;gina do MST</em></p>
 
 <p>Terminou neste domingo&nbsp;(15),&nbsp;o 1&ordm;&nbsp;Encontro Estadual das R&aacute;dios Livres do MST. A atividade que reuniu 35 comunicadores populares que comp&otilde;em&nbsp;o coletivo&nbsp;de&nbsp;r&aacute;dio&nbsp;do Movimento, aconteceu na sede da r&aacute;dio Camponesa, localizada no assentamento Palmares, no munic&iacute;pio de Crate&uacute;s, Cear&aacute;.&nbsp;</p>
 
-<p><br />
-O encontro teve como objetivo fortalecer a forma&ccedil;&atilde;o t&eacute;cnica e politica, consolidar o coletivo de comunica&ccedil;&atilde;o, discutir&nbsp;experi&ecirc;ncias, planejar a&ccedil;&otilde;es e elencar os desafios para as r&aacute;dios livres do MST&nbsp;&nbsp;no pr&oacute;ximo per&iacute;odo.</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="IMG_20180614_112644543.jpg" height="225" src="//farm2.staticflickr.com/1783/42857682041_5e143cfba9_b.jpg" width="300" />
+<figcaption>Divulga&ccedil;&atilde;o MST</figcaption>
+</figure>
+
+<p>O encontro teve como objetivo fortalecer a forma&ccedil;&atilde;o t&eacute;cnica e politica, consolidar o coletivo de comunica&ccedil;&atilde;o, discutir&nbsp;experi&ecirc;ncias, planejar a&ccedil;&otilde;es e elencar os desafios para as r&aacute;dios livres do MST&nbsp;&nbsp;no pr&oacute;ximo per&iacute;odo.</p>
 
 <p><br />
 A programa&ccedil;&atilde;o&nbsp;teve como tema central o papel da comunica&ccedil;&atilde;o na luta de classes, hegemonia e Reforma Agr&aacute;ria.</p>
