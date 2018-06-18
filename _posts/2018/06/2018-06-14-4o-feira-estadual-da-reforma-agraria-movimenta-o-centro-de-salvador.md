@@ -8,7 +8,7 @@ title: 4º Feira Estadual da Reforma Agrária movimenta o Centro de Salvador
 support_line: "A Feira começou nesta quinta-feira (14) e segue até sábado (16), com diversas atrações culturais, seminários e intervenções artísticas"
 images_hd: //farm1.staticflickr.com/895/28928309988_291b41353c_b.jpg
 menu: reforma agrária
-section: cover
+section: featured-news
 layout: post
 files:
   - link: //farm1.staticflickr.com/895/28928309988_291b41353c_b.jpg
