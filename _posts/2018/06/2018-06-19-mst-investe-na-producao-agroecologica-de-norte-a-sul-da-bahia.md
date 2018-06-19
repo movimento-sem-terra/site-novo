@@ -56,7 +56,7 @@ releated_posts:
 <div>
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="photo_2018-06-15_13-00-59.jpg" height="466" src="//farm1.staticflickr.com/896/41089590870_eed2c47daa_b.jpg" width="700" />
-<figcaption>Divulga&ccedil;&atilde;o MST&nbsp;</figcaption>
+<figcaption></figcaption>
 </figure>
 </div>
 </div>
@@ -65,6 +65,9 @@ releated_posts:
 
 <div><em>Por Coletivo de Comunica&ccedil;&atilde;o do MST na Bahia<br />
 Da P&aacute;gina do MST&nbsp;</em></div>
+
+<div><br />
+<em>Fotos: Jonas Santos</em></div>
 
 <div>&nbsp;</div>
 
@@ -91,7 +94,7 @@ De acordo com Felipe Campelo, a Feira &eacute; mais um espa&ccedil;o de di&aacut
 <div>&nbsp;
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="photo_2018-06-15_13-00-27 1.jpg" height="466" src="//farm2.staticflickr.com/1790/28031406867_f80d085bac_b.jpg" width="700" />
-<figcaption>Divulga&ccedil;&atilde;o MST&nbsp;</figcaption>
+<figcaption></figcaption>
 </figure>
 </div>
 <br />
