@@ -80,7 +80,7 @@ Da P&aacute;gina do MST&nbsp;</em></div>
 
 <p>&nbsp;</p>
 
-<figure class="image" style="float:left"><img alt="photo4992727034824337430.jpg" height="200" src="//farm2.staticflickr.com/1759/28036799787_1e182b815c_b.jpg" width="300" />
+<figure class="image" style="float:left"><img alt="photo4992727034824337430.jpg" height="266" src="//farm2.staticflickr.com/1759/28036799787_1e182b815c_b.jpg" width="400" />
 <figcaption>Foto: Raul Spinass&eacute;</figcaption>
 </figure>
 
@@ -117,4 +117,4 @@ J&aacute; Lucineia Dur&atilde;es&nbsp;da dire&ccedil;&atilde;o nacional do MST, 
 
 <p>&nbsp;</p>
 
-<p>Ao final da Feira, os produtos excedentes, que n&atilde;o foram vendidos, foram doados a organiza&ccedil;&otilde;es e entidades soteropolitana.</p>
+<p>Ao final da feira, os produtos excedentes, que n&atilde;o foram vendidos, foram doados a organiza&ccedil;&otilde;es e entidades soteropolitana.</p>
