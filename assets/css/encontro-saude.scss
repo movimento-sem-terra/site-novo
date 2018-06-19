@@ -1,0 +1,180 @@
+---
+---
+
+@import "../bourbon/bourbon";
+@import "../neat/neat";
+@import "../_sass/variables";
+@import "../_sass/_includes/mixins";
+
+@font-face {
+  font-family: SaudeFonte;
+  src: url(/assets/fonts/encontro-saude/DK-Brushzilla.otf);
+}
+
+*{
+  box-sizing: border-box;
+}
+.especial-saude{
+  background-color: #FFFFFF;
+  margin: 0;
+}
+h1 {
+  font-family: SaudeFonte;
+  font-size: 4em;
+} 
+
+.main-picture{
+  display: flex;
+  flex-direction: column;
+}
+ 
+.main-picture .logo-chamada {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;  
+}
+
+.capa{
+  width: 100%;
+  height: 100%;
+  background-image: url(/assets/img/nacional-saude/pachamaminha.png);
+  background-repeat: no-repeat; 
+  background-size: contain;
+}
+
+.capapai{
+  height: 95%;
+  flex: 1 0 30%;
+  display: flex;
+}
+
+.paragraph {
+  max-width: 600px;
+  font-family: 'Helvetica', Arial, sans-serif;
+  margin: 2%;
+}
+
+.imagem-paragrafos{
+  flex-basis: 60%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+ .main-picture .descricao {
+  display: flex;
+  max-width: 50%;
+  letter-spacing: 3px;
+  line-height: 2;
+  padding: 0 25px;
+  font-size: 15px;
+  text-align: justify;
+}
+
+.cards{
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 10vh;
+  padding: 20px 0;
+  }
+
+.escrito{
+  display: flex;
+  align-items: center;
+  flex-direction: column; 
+}
+.imagem-apoio{
+  display: flex;
+  justify-content: space-between;
+  align-items: center; 
+  width: 100vw;
+  overflow: hidden;
+}
+.title{
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.lateral-img{
+  width: 100%;
+  max-width: 200px; 
+  transform: translate(0, 100%);
+  opacity: 0.1;
+  transition-property: transform, opacity;
+  transition-duration: 3s;
+  transition-timing-function: ease-in-out;
+}
+
+.efeito {
+  transform: translate(0,0);
+  opacity: 1;
+}
+  
+.infographic {  
+  width: 100vw; 
+  min-height: 80vh;
+  padding: 20px 0;
+}
+
+.imagem-chamada{
+  width: 100%;
+}
+
+.youtube-playlist {
+  background-image: url("//farm2.staticflickr.com/1742/41842996424_aec5254744_b.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-direction: column;
+  align-items: center;
+  padding: 15px; 
+  }
+
+.album-de-fotos-saude {
+  background-image: url("//farm2.staticflickr.com/1742/41842996424_aec5254744_b.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  margin-top: 15px; 
+}
+.title{
+  font-size: 2.7em;
+  margin: 0;
+  color: #7152a5;
+  text-transform: uppercase; 
+}
+
+.news{
+  margin-top: 15px; 
+}
+
+figcaption {
+  max-width: 700px; 
+  font-style: italic;
+  margin: 1%;
+}
+
+.encontro-nacional{
+  font-family: 'Helvetica', Arial, sans-serif;
+  font-size: 1.7em;
+  max-width: 600px;
+
+}
