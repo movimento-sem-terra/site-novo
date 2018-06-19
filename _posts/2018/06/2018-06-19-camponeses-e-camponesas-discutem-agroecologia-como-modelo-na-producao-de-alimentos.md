@@ -7,7 +7,7 @@ tags:
 images_hd: //farm2.staticflickr.com/1736/42185704384_89f4e327f8_b.jpg
 menu: agricultura camponesa
 title: "Camponeses e camponesas discutem agroecologia como modelo na produção de alimentos "
-support_line: "Tema foi debatido durante durante curso de extensão no Pará "
+support_line: "Tema foi debatido  durante curso de extensão no Pará "
 layout: post
 files:
   - link: //farm2.staticflickr.com/1736/42185704384_89f4e327f8_b.jpg
