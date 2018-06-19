@@ -54,7 +54,7 @@ Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
-<p>Terminou neste domingo&nbsp;(15),&nbsp;o 1&ordm;&nbsp;Encontro Estadual das R&aacute;dios Livres do MST. A atividade que reuniu 35 comunicadores populares que comp&otilde;em&nbsp;o coletivo&nbsp;de&nbsp;r&aacute;dio&nbsp;do Movimento, aconteceu na sede da r&aacute;dio Camponesa, localizada no assentamento Palmares, no munic&iacute;pio de Crate&uacute;s, Cear&aacute;.&nbsp;</p>
+<p>Terminou neste s&aacute;bado&nbsp;(16),&nbsp;o 1&ordm;&nbsp;Encontro Estadual das R&aacute;dios Livres do MST. A atividade que reuniu 35 comunicadores populares que comp&otilde;em&nbsp;o coletivo&nbsp;de&nbsp;r&aacute;dio&nbsp;do Movimento, aconteceu na sede da r&aacute;dio Camponesa, localizada no assentamento Palmares, no munic&iacute;pio de Crate&uacute;s, Cear&aacute;.&nbsp;</p>
 
 <p>&nbsp;</p>
 
@@ -65,7 +65,7 @@ Da P&aacute;gina do MST</em></p>
 <p>O encontro teve como objetivo fortalecer a forma&ccedil;&atilde;o t&eacute;cnica e politica, consolidar o coletivo de comunica&ccedil;&atilde;o, discutir&nbsp;experi&ecirc;ncias, planejar a&ccedil;&otilde;es e elencar os desafios para as r&aacute;dios livres do MST&nbsp;&nbsp;no pr&oacute;ximo per&iacute;odo.</p>
 
 <p><br />
-A programa&ccedil;&atilde;o&nbsp;teve como tema central o papel da comunica&ccedil;&atilde;o na luta de classes, hegemonia e Reforma Agr&aacute;ria.</p>
+A programa&ccedil;&atilde;o&nbsp;teve como tema central o papel da comunica&ccedil;&atilde;o na luta de classes, na contra hegemonia e Reforma Agr&aacute;ria.</p>
 
 <p><br />
 Para Jo&atilde;o Paulo Alves da dire&ccedil;&atilde;o estadual do MST, a&nbsp;atividade simbolizou&nbsp;um acerto do Movimento que&nbsp;se preocupa&nbsp;com o fortalecimento da comunica&ccedil;&atilde;o.&nbsp;&ldquo;As&nbsp;r&aacute;dios s&atilde;o para o MST&nbsp;uma importante ferramenta na luta&nbsp;contra hegemonia.&nbsp;Esse encontro foi&nbsp;um espa&ccedil;o rico em troca de experi&ecirc;ncias&nbsp;de&nbsp;comunica&ccedil;&atilde;o feitas por e para os trabalhadores&rdquo;, finalizou.</p>
