@@ -12,5 +12,6 @@ created_date: "2018-06-18T17:50:07-03:00"
 published: true
 video_thumbnail: "http://img.youtube.com/vi/u732DEq4CXQ/0.jpg"
 releated_posts: []
+special-page: encontro-saude
 
 ---
