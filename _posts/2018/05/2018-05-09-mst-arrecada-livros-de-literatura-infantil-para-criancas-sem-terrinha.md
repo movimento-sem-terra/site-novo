@@ -6,7 +6,7 @@ tags:
   - tag: cultura
 title: "MST arrecada livros de literatura infantil "
 support_line: Os livros serão entregues no 1º Encontro Nacional de Crianças Sem Terrinha
-images_hd: //farm1.staticflickr.com/953/28127008928_a19f0e8b3e_b.jpg
+images_hd: //farm1.staticflickr.com/896/28051064147_e84a042324_b.jpg
 menu: "educação, cultura e comunicação"
 layout: post
 files:
@@ -24,6 +24,13 @@ files:
     small: //farm1.staticflickr.com/953/28127008928_a19f0e8b3e_n.jpg
     title: 36975953822_03c343ab90_k.jpg
     $$hashKey: 0GA
+  - link: //farm1.staticflickr.com/896/28051064147_e84a042324_b.jpg
+    original: //farm1.staticflickr.com/896/28051064147_f174cfdeed_o.jpg
+    thumbnail: //farm1.staticflickr.com/896/28051064147_e84a042324_t.jpg
+    medium: //farm1.staticflickr.com/896/28051064147_e84a042324_z.jpg
+    small: //farm1.staticflickr.com/896/28051064147_e84a042324_n.jpg
+    title: WhatsApp Image 2018-06-13 at 20.32.32.jpeg
+    $$hashKey: 086
 created_date: "2018-05-09T13:12:34-03:00"
 published: true
 releated_posts:
@@ -36,6 +43,7 @@ releated_posts:
   - _posts/2017/10/2017-10-11-em-audiencia-com-a-casa-civil-sem-terrinha-cobram-mais-comprometimento-de-sartori-com-a-educacao.md
   - _posts/2017/10/2017-10-14-sem-terrinhas-do-espirito-santo-se-preparam-para-encontro-nacional.md
 special-page: sem-terrinha
+section: featured-news
 
 ---
 <div style="text-align:center">
@@ -58,8 +66,13 @@ E, para fortalecer o h&aacute;bito da leitura e a difus&atilde;o da literatura i
 <p><br />
 O principal objetivo do&nbsp;evento - que contar&aacute; com cerca de 1200 crian&ccedil;as e 400 educadores -&nbsp;&eacute; mobilizar crian&ccedil;as de acampamentos e assentamentos&nbsp;e proporcionar um espa&ccedil;o&nbsp;de socializa&ccedil;&atilde;o do fazer cultural e educativo da inf&acirc;ncia Sem Terra.&nbsp;</p>
 
-<p><br />
-Na perspectiva de que Reforma Agr&aacute;ria Popular n&atilde;o pode ser constru&iacute;da sem as crian&ccedil;as, M&aacute;rcia Ramos do coletivo nacional de educa&ccedil;&atilde;o do MST,&nbsp;acredita que a literatura se apresenta como ferramenta para fortalecer a criticidade, o exerc&iacute;cio do pensar e de participa&ccedil;&atilde;o de crian&ccedil;as como sujeitos hist&oacute;ricos e direitos no movimento.</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="36975953822_03c343ab90_k.jpg" height="199" src="//farm1.staticflickr.com/953/28127008928_a19f0e8b3e_b.jpg" width="300" />
+<figcaption>Divulga&ccedil;&atilde;o MST&nbsp;</figcaption>
+</figure>
+
+<p>Na perspectiva de que Reforma Agr&aacute;ria Popular n&atilde;o pode ser constru&iacute;da sem as crian&ccedil;as, M&aacute;rcia Ramos do coletivo nacional de educa&ccedil;&atilde;o do MST,&nbsp;acredita que a literatura se apresenta como ferramenta para fortalecer a criticidade, o exerc&iacute;cio do pensar e de participa&ccedil;&atilde;o de crian&ccedil;as como sujeitos hist&oacute;ricos e direitos no movimento.</p>
 
 <p><br />
 &quot;Para n&oacute;s pensarmos esse lugar da inf&acirc;ncia, com a literatura e a dimens&atilde;o pol&iacute;tica faz parte de todo um projeto educativo. A escolha de livros cr&iacute;ticos que permitam que as crian&ccedil;as pensem sobre o mundo &eacute; fundamental. Por isso, pedimos para que todos se mobilizem nessa campanha, para que juntos possamos fomentar esse saber&quot;, finaliza.</p>
