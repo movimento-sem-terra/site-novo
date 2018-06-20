@@ -36,6 +36,7 @@ published: true
 releated_posts:
   - _posts/2018/02/2018-02-21-fiocruz-e-alvo-de-censura-em-pesquisa-sobre-agrotoxicos.md
   - _posts/2018/03/2018-03-28-defender-a-saude-popular-e-defender-a-democracia-e-o-povo-afirma-dirigente-do-mst.md
+special-page: encontro-saude
 
 ---
 <div style="text-align:center">
