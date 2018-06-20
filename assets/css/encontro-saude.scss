@@ -11,6 +11,11 @@
   src: url(/assets/fonts/encontro-saude/DK-Brushzilla.otf);
 }
 
+@font-face {
+  font-family: Especialfonte;
+  src: url(/assets/fonts/encontro-saude/DK-Pimpernel.otf);
+}
+
 *{
   box-sizing: border-box;
 }
@@ -58,12 +63,9 @@ h1 {
 
 .paragraph {
   max-width: 600px;
-  font-family: 'Helvetica', Arial, sans-serif;
+  font-family: Especialfonte;
   margin: 2%;
-  @include media($screen-xs) {
-    padding: 0;
-    font-size: 16px;
-  }
+  font-size: 25px;
 }
 
 .imagem-paragrafos{
@@ -138,6 +140,10 @@ h1 {
   width: 100%;
 }
 
+.chamada{
+  width: 80%;
+}
+
 .youtube-playlist {
   background-image: url("//farm2.staticflickr.com/1742/41842996424_aec5254744_b.jpg");
   background-attachment: fixed;
@@ -195,12 +201,12 @@ h1 {
 
 figcaption {
   max-width: 700px; 
-  font-style: italic;
+  font-size: 25px;
   margin: 1%;
+  font-family: Especialfonte;
 }
 
 .encontro-nacional{
-  font-family: 'Helvetica', Arial, sans-serif;
   font-size: 1.7em;
   max-width: 600px;
 
