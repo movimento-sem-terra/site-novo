@@ -4,7 +4,7 @@ tags:
   - tag: internacionalismo
   - tag: conjuntura
   - tag: solidariedade-internacional
-title: O que a eleição do Iván Duque na Colômbia significa para a América Latina e o Caribe?
+title: O que a eleição de Iván Duque na Colômbia significa para a América Latina e o Caribe?
 support_line: "Duque representa continuidade das politicas militaristas, da desigualdade econômica e da concentração de terra e mídia."
 menu: solidariedade
 label: articles
