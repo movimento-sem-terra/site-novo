@@ -18,7 +18,7 @@ files:
     title: 42846626472_a82751a0d4_z.jpg
     $$hashKey: 0C8
 created_date: "2018-06-21T13:17:25-03:00"
-published: true
+published: false
 releated_posts:
   - _posts/2018/01/2018-01-30-intercambio-fortalece-relacoes-entre-movimentos-populares-do-brasil-e-da-argentina.md
   - _posts/2018/02/2018-02-01-movimento-campones-na-palestina-um-avanco-chave-para-a-defesa-da-justica-social.md
