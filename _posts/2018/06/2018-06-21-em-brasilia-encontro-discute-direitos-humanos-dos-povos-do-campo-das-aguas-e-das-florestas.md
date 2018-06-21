@@ -75,9 +75,7 @@ Da P&aacute;gina do MST&nbsp;</em></p>
 <p dir="ltr">&ldquo;Foi aprovada Medida Provis&oacute;ria durante o Governo FHC que impedia fazer vistoria em &aacute;reas ocupadas. Essa MP visa impedir ocupa&ccedil;&otilde;es de terra e criminalizar os movimentos e est&aacute; em vigor at&eacute; hoje. A Constitui&ccedil;&atilde;o de 1988 tentou garantir uma Pol&iacute;tica de Reforma Agr&aacute;ria. Mas, h&aacute; um bloqueio protagonizado pelo setor pol&iacute;tico, judici&aacute;rio e pela m&iacute;dia tentando inviabilizar a reforma agr&aacute;ria&rdquo;, enfatizou.</p>
 
 <p><br />
-&nbsp;</p>
-
-<p dir="ltr">O encontro segue at&eacute; o fim da semana com discuss&otilde;es sobre direitos humanos em uma perspectiva popular, buscando &ldquo;quais brechas n&oacute;s podemos encontrar no Sistema de Just&iacute;&ccedil;a para fortalecer a organiza&ccedil;&atilde;o a base da classe trabalhadora. O encontro est&aacute; nessa expectativa&rdquo;, conta Ayala. &ldquo;E, evidentemente, &eacute; um momento de confraterniza&ccedil;&atilde;o. Encontrar tantos advogados e futuros advogados, defensores dos direitos humanos, para n&oacute;s em um momento pol&iacute;tico como esse em que estamos inseridos sempre &eacute; uma alegria. Ent&atilde;o confraternizar, conspirar como os bons e velhos lutadores da classe trabalhadora fazem, n&eacute;&rdquo;, finaliza.</p>
+O encontro segue at&eacute; o fim da semana com discuss&otilde;es sobre direitos humanos em uma perspectiva popular, buscando &ldquo;quais brechas n&oacute;s podemos encontrar no Sistema de Just&iacute;&ccedil;a para fortalecer a organiza&ccedil;&atilde;o a base da classe trabalhadora. O encontro est&aacute; nessa expectativa&rdquo;, conta Ayala. &ldquo;E, evidentemente, &eacute; um momento de confraterniza&ccedil;&atilde;o. Encontrar tantos advogados e futuros advogados, defensores dos direitos humanos, para n&oacute;s em um momento pol&iacute;tico como esse em que estamos inseridos sempre &eacute; uma alegria. Ent&atilde;o confraternizar, conspirar como os bons e velhos lutadores da classe trabalhadora fazem, n&eacute;&rdquo;, finaliza.</p>
 
 <div>&nbsp;</div>
 
