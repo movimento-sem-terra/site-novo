@@ -66,6 +66,15 @@ Carla Bueno, engenheira agr&ocirc;noma e integrante da Campanha Permanente Contr
 <p><br />
 Os ruralistas s&atilde;o quase 40% do Congresso Nacional, segundo dados da Ag&ecirc;ncia P&uacute;blica. Na Comiss&atilde;o Especial, a propor&ccedil;&atilde;o &eacute; ainda maior: 37 de 50. Apesar dos intensos esfor&ccedil;os para aprova&ccedil;&atilde;o do parecer do PL no colegiado, t&ecirc;m enfrentado forte oposi&ccedil;&atilde;o de parlamentares cr&iacute;ticos ao projeto, o que levou a diversos adiamentos da vota&ccedil;&atilde;o da mat&eacute;ria.</p>
 
+<p><br />
+&nbsp;</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="cards veneno1.jpg" src="//farm2.staticflickr.com/1798/42220821624_39c9ab4bcb_b.jpg" />
+<figcaption><em>Arte: Francisco Bertolo</em></figcaption>
+</figure>
+</div>
+
 <p>&nbsp;</p>
 
 <p>&nbsp;</p>
