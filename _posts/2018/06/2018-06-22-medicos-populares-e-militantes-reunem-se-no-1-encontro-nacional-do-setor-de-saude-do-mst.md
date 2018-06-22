@@ -6,7 +6,7 @@ tags:
   - tag: mobilizações
 images_hd: //farm2.staticflickr.com/1786/42956092861_ed05ed6bf1_b.jpg
 title: "Médicos populares e militantes reúnem-se no 1° Encontro Nacional do Setor de Saúde do MST "
-support_line: A atividade conta com participantes de 13 estados do país e acontece até o próximo domingo no Maranhão
+support_line: A atividade conta com participantes de 13 estados do país e acontece até o próximo domingo (24) no Maranhão
 menu: projeto popular
 layout: post
 files:
@@ -57,7 +57,7 @@ releated_posts:
 <p><em>Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
-Come&ccedil;ou nesta quinta-feira (21) em S&atilde;o Luiz, no Maranh&atilde;o, o 1 Encontro Nacional do Setor de Sa&uacute;de do MST, a atividade que re&uacute;ne representantes do setor de sa&uacute;de, m&eacute;dicos populares e militantes de 13 estados do pa&iacute;s, tem o objetivo de tra&ccedil;ar a atua&ccedil;&atilde;o do setor para os pr&oacute;ximos anos, al&eacute;m de aprofundar a discuss&atilde;o sobre como o atual cen&aacute;rio pol&iacute;tico afeta as politicas p&uacute;blicas no campo da sa&uacute;de.</p>
+Come&ccedil;ou nesta quinta-feira (21) em S&atilde;o Lu&iacute;s, no Maranh&atilde;o, o Encontro Nacional do Setor de Sa&uacute;de do MST, a atividade que re&uacute;ne representantes do setor de sa&uacute;de, m&eacute;dicos populares e militantes de 13 estados do pa&iacute;s, tem o objetivo de tra&ccedil;ar a atua&ccedil;&atilde;o do setor para os pr&oacute;ximos anos, al&eacute;m de aprofundar a discuss&atilde;o sobre como o atual cen&aacute;rio pol&iacute;tico afeta as politicas p&uacute;blicas no campo da sa&uacute;de.</p>
 
 <p><br />
 <strong>A sa&uacute;de e o MST</strong></p>
