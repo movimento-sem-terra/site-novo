@@ -69,10 +69,14 @@ releated_posts:
   - 2015/06/2015-06-19-faz-parte-da-reforma-agraria-a-disputa-do-modelo-de-producao-para-a-agricultura-afirma-dirigente.md
 
 ---
-<p><img alt="1Ferreira 03(1)!.jpg" src="http://farm1.staticflickr.com/687/22034859289_005260a6e1_b.jpg" /></p>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="1Ferreira 03(1)!.jpg" height="525" src="http://farm1.staticflickr.com/687/22034859289_005260a6e1_b.jpg" width="700" />
+<figcaption>Divulga&ccedil;&atilde;o MST&nbsp;</figcaption>
+</figure>
+</div>
 
 <p><br />
-<em>Por Solange Engelmann (<span style="line-height: 20.8px;">Texto e fotos)</span><br />
+<em>Por Solange Engelmann<br />
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
@@ -123,7 +127,13 @@ Criado em 1995, as fam&iacute;lias do Palmares II passaram por um ano de acampam
 A Escola de Educa&ccedil;&atilde;o Infantil e Ensino Fundamental &ldquo;Crescendo na Pr&aacute;tica&rdquo;, com cerca de 1.200 alunos, &eacute; mais um resultado da luta dos trabalhadores e trabalhadoras do assentamento, que contam ainda com um Posto de Sa&uacute;de da Fam&iacute;lia e uma cooperativa de transporte.<br />
 &nbsp;</p>
 
-<p><img alt="1crescendo na pratica!.jpg" src="http://farm1.staticflickr.com/647/22034043918_4782ce2eb6_b.jpg" /><br />
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="1crescendo na pratica!.jpg" height="525" src="http://farm1.staticflickr.com/647/22034043918_4782ce2eb6_b.jpg" width="700" />
+<figcaption>Divulga&ccedil;&atilde;o MST&nbsp;</figcaption>
+</figure>
+</div>
+
+<p><br />
 <br />
 <strong>Perman&ecirc;ncia no campo&nbsp;</strong></p>
 
@@ -141,9 +151,7 @@ Criada ainda na &eacute;poca em que as fam&iacute;lias estavam acampadas, em 199
 
 <p>&nbsp;</p>
 
-<figure class="image" style="float:right"><img alt="escola!!.jpg" src="http://farm6.staticflickr.com/5726/22033771570_438507bdfb_b.jpg" />
-<figcaption></figcaption>
-</figure>
+<p><img alt="escola!!.jpg" src="http://farm6.staticflickr.com/5726/22033771570_438507bdfb_b.jpg" style="float:right" /></p>
 
 <p>Um dos grandes desafios &eacute; justamente manter essa autonomia e garantir os princ&iacute;pios do projeto pol&iacute;tico pedag&oacute;gico, como a forma&ccedil;&atilde;o continuada de professores, para que conhe&ccedil;am mais a realidade do campo. &ldquo;H&aacute; mais de quatro anos que viemos construindo um coletivo mais efetivo. Temos 42 educadores e s&oacute; 50% deles moram no assentamento. &Eacute; um processo cont&iacute;nuo e de longo prazo&rdquo;, explica Cl&iacute;via.</p>
 
