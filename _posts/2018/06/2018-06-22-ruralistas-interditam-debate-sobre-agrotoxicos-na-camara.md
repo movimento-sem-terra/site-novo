@@ -25,7 +25,7 @@ files:
     title: 42889381002_c45c621207_o.jpg
     $$hashKey: "033"
 created_date: "2018-06-22T12:40:57-03:00"
-published: true
+published: false
 releated_posts:
   - _posts/2017/12/2017-12-05-agricultura-da-morte-estudo-mostra-que-produtos-brasileiros-tem-alto-nivel-de-veneno.md
   - _posts/2017/12/2017-12-09-agrotoxicos-como-arma-quimica-a-permanente-guerra-agraria-no-brasil.md
