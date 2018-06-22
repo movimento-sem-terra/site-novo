@@ -24,6 +24,7 @@ releated_posts:
   - _posts/2017/10/2017-10-06-agroecologia-e-alternativa-para-garantir-alimentos-saudaveis-para-populacao-apontam-painelistas.md
   - _posts/2017/12/2017-12-28-congresso-nacional-sanciona-dia-3-de-outubro-como-dia-nacional-da-agroecologia.md
   - _posts/2018/04/2018-04-30-vandana-shiva-a-comida-e-o-maior-problema-de-saude-no-mundo.md
+special-page: encontro-saude
 
 ---
 <p>&nbsp;</p>
@@ -39,8 +40,8 @@ Cerca de duas mil pessoas , vindas de Norte a Sul do pa&iacute;s, se encontram e
 <p><br />
 O encontro ocorre no momento em que o Brasil vive a discuss&atilde;o sobre o Pacote do Veneno, um Projeto de Lei que retira todos os controles legais que impedem o uso desenfreado de agrot&oacute;xicos nas lavouras e &eacute;, pelo 8&ordm; ano consecutivo, o maior consumidor de veneno no mundo. Soma-se a isso a crise generalizada que o pa&iacute;s atravessa assim, o lema do Encontro tr&aacute;s ao centro das discuss&otilde;es a resist&ecirc;ncia ao golpe: &ldquo;Agreocologia e democracia unindo campo e cidade&rdquo;.</p>
 
-<p><br />
-De todos os participantes, metade s&atilde;o mulheres, que despontam como sujeitos pol&iacute;ticos com grande capacidade de auto-organiza&ccedil;&atilde;o e de resist&ecirc;ncia ao avan&ccedil;o do agroneg&oacute;cio. Tanto que a primeira plen&aacute;ria do evento trouxe as vozes das mulheres para o centro da discuss&atilde;o. Lucineia Freitas, do Setor de G&ecirc;nero do MST, destacou a relev&acirc;ncia do encontro. &ldquo;O ENA &eacute; um evento importante para articular os v&aacute;rios coletivos que fazem esse debate de agroecologia. A participa&ccedil;&atilde;o do MST &eacute; uma contribui&ccedil;&atilde;o nos rumos pol&iacute;ticos da agroecologia como projeto de sociedade, no sentido da agroecologia que acreditamos, com car&aacute;ter antirracista, feminista e anticapitalista. Aqui defendemos a luta pela democracia popular e por Lula Livre, porque sabemos que as pol&iacute;ticas para levar alimentos saud&aacute;veis a todos s&oacute; ser&atilde;o retomadas com a restitui&ccedil;&atilde;o democr&aacute;tica e a revoga&ccedil;&atilde;o das medidas nefastas do governo golpistas de Temer&rdquo;.</p>
+<p>&nbsp;<br />
+De todos os participantes, metade s&atilde;o mulheres, que despontam como sujeitos pol&iacute;ticos com grande capacidade de auto-organiza&ccedil;&atilde;o e de resist&ecirc;ncia ao avan&ccedil;o do agroneg&oacute;cio. Tanto que a primeira plen&aacute;ria do evento trouxe as vozes das mulheres para o centro da discuss&atilde;o. Lucineia Freitas, do Setor de G&ecirc;nero do MST, destacou a relev&acirc;ncia do encontro. &ldquo;O ENA &eacute; um evento importante para articular os v&aacute;rios coletivos que fazem esse debate de agroecologia. A participa&ccedil;&atilde;o do MST &eacute; uma contribui&ccedil;&atilde;o nos rumos pol&iacute;ticos da agroecologia como projeto de sociedade, no sentido da agroecologia que acreditamos, com car&aacute;ter antirracista, feminista e anticapitalista. Aqui defendemos a luta pela democracia popular e por&nbsp; Lula Livre, porque sabemos que as pol&iacute;ticas para levar alimentos saud&aacute;veis a todos s&oacute; ser&atilde;o retomadas com a restitui&ccedil;&atilde;o democr&aacute;tica e a revoga&ccedil;&atilde;o das medidas nefastas do governo golpistas de Temer&rdquo;.</p>
 
 <p><br />
 Dentre os delegados est&atilde;o povos ind&iacute;genas, comunidades tradicionais, agricultores e agricultoras familiares, integrantes do MST. Todos e todas num processo de troca de experi&ecirc;ncias agroecol&oacute;gicas, discutindo os efeitos das pol&iacute;ticas p&uacute;blicas para a agricultura familiar e pautando as lutas do movimento para a sociedade.</p>
