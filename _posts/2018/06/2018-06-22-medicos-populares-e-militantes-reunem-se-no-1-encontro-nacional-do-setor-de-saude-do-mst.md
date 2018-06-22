@@ -48,7 +48,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="c0ffc0b8-d90e-48a1-873a-1cbe1921dae5.jpg" height="478" src="//farm2.staticflickr.com/1787/42956092871_f20f59742b_b.jpg" width="600" />
-<figcaption>Divulga&ccedil;&atilde;o MST&nbsp;</figcaption>
+<figcaption>Fotos: Elitiel Guedes&nbsp;</figcaption>
 </figure>
 </div>
 
@@ -68,7 +68,7 @@ Desde as primeiras ocupa&ccedil;&otilde;es a valoriza&ccedil;&atilde;o do cuidad
 <p>&nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="WhatsApp Image 2018-06-21 at 12.20.44.jpeg" height="200" src="//farm2.staticflickr.com/1806/28086760017_617cd25349_b.jpg" width="300" />
-<figcaption>Divulga&ccedil;&atilde;o MST</figcaption>
+<figcaption>Fotos: Elitiel Guedes&nbsp;</figcaption>
 </figure>
 
 <p>&ldquo;Desde as primeiras ocupa&ccedil;&otilde;es, t&iacute;nhamos a preocupa&ccedil;&atilde;o de resolver situa&ccedil;&otilde;es relacionadas &agrave; sa&uacute;de dos acampados, mas a organiza&ccedil;&atilde;o de um setor nacional, que com o tempo foi refletindo sobre o seu papel na Reforma Agr&aacute;ria Popular, come&ccedil;ou em 1998, com um curso de forma&ccedil;&atilde;o t&eacute;cnica e pol&iacute;tica no Instituto de Educa&ccedil;&atilde;o Josu&eacute; de Castro, na cidade ga&uacute;cha de Veran&oacute;polis.<br />
@@ -87,7 +87,7 @@ O 1&deg; Encontro Nacional de Sa&uacute;de do MST segue at&eacute; o pr&oacute;x
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2018-06-21 at 12.20.23.jpeg" height="400" src="//farm2.staticflickr.com/1779/28086760027_9c0ca63a69_b.jpg" width="600" />
-<figcaption>Divulga&ccedil;&atilde;o MST&nbsp;</figcaption>
+<figcaption>Fotos: Elitiel Guedes&nbsp;</figcaption>
 </figure>
 </div>
 
