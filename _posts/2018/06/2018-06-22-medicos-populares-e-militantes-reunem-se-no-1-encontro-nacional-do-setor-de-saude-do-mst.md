@@ -65,7 +65,7 @@ Come&ccedil;ou nesta quinta-feira (21) em S&atilde;o Lu&iacute;s, no Maranh&atil
 <strong>A sa&uacute;de e o MST</strong></p>
 
 <p><br />
-Nas primeiras ocupa&ccedil;&otilde;es do MST houve a&nbsp;valoriza&ccedil;&atilde;o do cuidado popular. Com o passar do tempo, o movimento constituiu o Setor Nacional de Sa&uacute;de, que tem entre suas bandeiras de lutas a busca por uma sa&uacute;de n&atilde;o comercial e cada vez mais democr&aacute;tica.</p>
+Nas primeiras ocupa&ccedil;&otilde;es do MST houve a&nbsp;valoriza&ccedil;&atilde;o do cuidado popular. Com o passar do tempo, o movimento constituiu o Setor Nacional de Sa&uacute;de, que tem entre suas bandeiras de luta&nbsp;a busca por uma sa&uacute;de n&atilde;o comercial e cada vez mais democr&aacute;tica.</p>
 
 <p>&nbsp;</p>
 
