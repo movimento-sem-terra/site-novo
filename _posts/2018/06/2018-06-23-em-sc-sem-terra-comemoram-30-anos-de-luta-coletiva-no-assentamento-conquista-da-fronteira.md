@@ -45,7 +45,7 @@ files:
     title: IMG_0135.JPG
     $$hashKey: "060"
 created_date: "2018-06-23T13:49:11-03:00"
-published: false
+published: true
 releated_posts:
   - _posts/2018/02/2018-02-17-mst-reocupa-area-em-xanxere-santa-catarina.md
   - _posts/2018/06/2018-06-12-acampamento-produz-alimentos-organicos-e-livres-de-veneno.md
@@ -89,31 +89,37 @@ O setor de produ&ccedil;&atilde;o, al&eacute;m de envolver as fam&iacute;lias nu
 <figcaption><em>Atividade de forma&ccedil;&atilde;o no assentamento.</em></figcaption>
 </figure>
 
-<p><em>O setor no assentamento tem uma equipe de alimenta&ccedil;&atilde;o, que &eacute; respons&aacute;vel, por exemplo, para que todos os dias as fam&iacute;lias recebam hortali&ccedil;as frescas para seu consumo, sem o uso de agrot&oacute;xicos.</em></p>
+<p>O setor no assentamento tem uma equipe de alimenta&ccedil;&atilde;o, que &eacute; respons&aacute;vel, por exemplo, para que todos os dias as fam&iacute;lias recebam hortali&ccedil;as frescas para seu consumo, sem o uso de agrot&oacute;xicos.</p>
 
 <p><br />
-<em>O setor de sa&uacute;de no assentamento fomenta a troca de mudas e cultiva cerca de 80 variedades de plantas medicinais, para produ&ccedil;&atilde;o de fitoter&aacute;picos e ch&aacute;s caseiros. O setor trabalha tamb&eacute;m com tratamentos preventivos e curativos; &eacute; respons&aacute;vel pelo saneamento b&aacute;sico; e acompanha a visita da equipe m&eacute;dica, que uma vez por semana atende as fam&iacute;lias Sem Terra.</em></p>
+O setor de sa&uacute;de no assentamento fomenta a troca de mudas e cultiva cerca de 80 variedades de plantas medicinais, para produ&ccedil;&atilde;o de fitoter&aacute;picos e ch&aacute;s caseiros. O setor trabalha tamb&eacute;m com tratamentos preventivos e curativos; &eacute; respons&aacute;vel pelo saneamento b&aacute;sico; e acompanha a visita da equipe m&eacute;dica, que uma vez por semana atende as fam&iacute;lias Sem Terra.</p>
 
 <p><br />
-<em>Em rela&ccedil;&atilde;o ao cuidado com o meio ambiente, o assentamento possui 40% de sua &aacute;rea composta por mata nativa, para que os animais possam se reproduzir e as futuras gera&ccedil;&otilde;es possam vivenciar a natureza.</em></p>
+Em rela&ccedil;&atilde;o ao cuidado com o meio ambiente, o assentamento possui 40% de sua &aacute;rea composta por mata nativa, para que os animais possam se reproduzir e as futuras gera&ccedil;&otilde;es possam vivenciar a natureza.</p>
 
 <p><br />
-<em>Ainda na perspectiva da organiza&ccedil;&atilde;o das fam&iacute;lias, o assentamento possui uma Ciranda Infantil que atende as crian&ccedil;as de 0 a 3 anos e tamb&eacute;m a Escola Construindo o Caminho, que atende at&eacute; o 5&ordm; ano. Ambos os espa&ccedil;os s&atilde;o acompanhados pelo setor de educa&ccedil;&atilde;o do assentamento, que incentiva o estudo nos diversos espa&ccedil;os de organiza&ccedil;&atilde;o familiar, como os n&uacute;cleos de base.</em></p>
+Ainda na perspectiva da organiza&ccedil;&atilde;o das fam&iacute;lias, o assentamento possui uma Ciranda Infantil que atende as crian&ccedil;as de 0 a 3 anos e tamb&eacute;m a Escola Construindo o Caminho, que atende at&eacute; o 5&ordm; ano. Ambos os espa&ccedil;os s&atilde;o acompanhados pelo setor de educa&ccedil;&atilde;o do assentamento, que incentiva o estudo nos diversos espa&ccedil;os de organiza&ccedil;&atilde;o familiar, como os n&uacute;cleos de base.</p>
 
 <p><br />
-<em>O lazer &eacute; outro elemento importante. No dia a dia do assentamento s&atilde;o praticados esportes, como futebol, bocha, bol&atilde;o e outros jogos. S&atilde;o realizadas tamb&eacute;m refei&ccedil;&otilde;es coletivas, brincadeiras e dan&ccedil;as. Al&eacute;m disso, o assentamento conquistou um Telecentro e um avi&aacute;rio das artes, onde a juventude organiza dan&ccedil;as, jogo de ping pong, produ&ccedil;&atilde;o de cer&acirc;mica e artesanatos.</em></p>
+O lazer &eacute; outro elemento importante. No dia a dia do assentamento s&atilde;o praticados esportes, como futebol, bocha, bol&atilde;o e outros jogos. S&atilde;o realizadas tamb&eacute;m refei&ccedil;&otilde;es coletivas, brincadeiras e dan&ccedil;as. Al&eacute;m disso, o assentamento conquistou um Telecentro e um avi&aacute;rio das artes, onde a juventude organiza dan&ccedil;as, jogo de ping pong, produ&ccedil;&atilde;o de cer&acirc;mica e artesanatos.</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="2017-07-14 e 15 - jornada cultural - residencia jovem - por juliana adriano (25).jpg" height="400" src="//farm2.staticflickr.com/1794/28100241237_1938ac82c4_b.jpg" width="600" />
+<figcaption></figcaption>
+</figure>
+</div>
 
 <p><br />
-<strong><em>Refer&ecirc;ncia</em></strong></p>
+<strong>Refer&ecirc;ncia</strong></p>
 
 <p><br />
-<em>O Conquista da Fronteira &eacute; um dos assentamentos mais conhecidos do MST no estado, por conta de sua organiza&ccedil;&atilde;o coletiva. Regularmente as fam&iacute;lias recebem visitas de v&aacute;rias organiza&ccedil;&otilde;es, universidades, de militantes e figuras pol&iacute;ticas de outros estados e pa&iacute;ses.</em></p>
+O Conquista da Fronteira &eacute; um dos assentamentos mais conhecidos do MST no estado, por conta de sua organiza&ccedil;&atilde;o coletiva. Regularmente as fam&iacute;lias recebem visitas de v&aacute;rias organiza&ccedil;&otilde;es, universidades, de militantes e figuras pol&iacute;ticas de outros estados e pa&iacute;ses.</p>
 
 <p><br />
-<em>Brunetto avalia que a experi&ecirc;ncia coletiva foi e est&aacute; sendo um grande desafio de coopera&ccedil;&atilde;o, onde todos os bens e capitais s&atilde;o coletivos. &ldquo;&Eacute; uma experi&ecirc;ncia muito significativa para o MST. &Eacute; um exemplo para muitos do campo&rdquo;.</em></p>
+Brunetto avalia que a experi&ecirc;ncia coletiva foi e est&aacute; sendo um grande desafio de coopera&ccedil;&atilde;o, onde todos os bens e capitais s&atilde;o coletivos. &ldquo;&Eacute; uma experi&ecirc;ncia muito significativa para o MST. &Eacute; um exemplo para muitos do campo&rdquo;.</p>
 
 <p><br />
-<em>Sobre os desafios, ela explica que foi dif&iacute;cil construir o processo organizativo que existe hoje, mas o maior desafio &eacute; manter essas experi&ecirc;ncias, por conta de todas as contradi&ccedil;&otilde;es que se enfrentam ao viver numa sociedade capitalista. &ldquo;Sempre buscamos resolver os problemas que aparecem. [...] Esse &eacute; um assentamento coletivo que deu certo e tudo isso &eacute; fruto da terra repartida. Pois antes uma era pessoa era dono e agora milhares de fam&iacute;lias s&atilde;o&rdquo;, conclui Brunetto.</em></p>
+Sobre os desafios, ela explica que foi dif&iacute;cil construir o processo organizativo que existe hoje, mas o maior desafio &eacute; manter essas experi&ecirc;ncias, por conta de todas as contradi&ccedil;&otilde;es que se enfrentam ao viver numa sociedade capitalista. &ldquo;Sempre buscamos resolver os problemas que aparecem. [...] Esse &eacute; um assentamento coletivo que deu certo e tudo isso &eacute; fruto da terra repartida. Pois antes uma era pessoa era dono e agora milhares de fam&iacute;lias s&atilde;o&rdquo;, conclui Brunetto.</p>
 
 <p><br />
 <em>*Editado por Wesley Lima</em></p>
