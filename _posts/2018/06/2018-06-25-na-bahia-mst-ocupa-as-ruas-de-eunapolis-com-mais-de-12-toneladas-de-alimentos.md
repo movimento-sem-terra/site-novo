@@ -62,15 +62,9 @@ Da P&aacute;gina do MST</em></p>
 <p>Nos dias 21 e 22/6, a cidade Eun&aacute;polis, localizada no Extremo Sul da Bahia, recebeu a 6&ordf; Feira da Reforma Agr&aacute;ria da brigada Elias Gon&ccedil;alves de Meura.</p>
 
 <p><br />
-<br />
-A Feira cumpriu o objetivo de dialogar com a sociedade atrav&eacute;s de alimentos saud&aacute;veis, produzidos nos acampamentos e assentamentos do MST nos munic&iacute;pios Eun&aacute;polis, Porto Seguro e Santa Cruz Cabr&aacute;lia, que comp&otilde;em o territ&oacute;rio de identidade Costa do Descobrimento.</p>
+A Feira cumpriu o objetivo de dialogar com a sociedade atrav&eacute;s de alimentos saud&aacute;veis, produzidos nos acampamentos e assentamentos do MST nos munic&iacute;pios Eun&aacute;polis, Porto Seguro e Santa Cruz Cabr&aacute;lia, que comp&otilde;em o territ&oacute;rio de identidade Costa do Descobrimento. Durante os dois dias, foram comercializados cerca de 12 toneladas de produtos e mais de mil pessoas visitaram o evento.</p>
 
 <p><br />
-<br />
-Durante os tr&ecirc;s dias, foram comercializados cerca de 12 toneladas de produtos e mais de mil pessoas visitaram o evento.</p>
-
-<p><br />
-<br />
 Segundo Ed Carlos Silva, da dire&ccedil;&atilde;o estadual do MST, a feira, que j&aacute; faz parte do calend&aacute;rio eunapolitano, cumpriu a tarefa de estreitar as rela&ccedil;&otilde;es com a popula&ccedil;&atilde;o sobre a produ&ccedil;&atilde;o de alimentos saud&aacute;veis, o atual momento pol&iacute;tico e o debate da soberania alimentar.</p>
 
 <p>&nbsp;</p>
@@ -79,11 +73,9 @@ Segundo Ed Carlos Silva, da dire&ccedil;&atilde;o estadual do MST, a feira, que 
 <figcaption><em>Foto: Divulga&ccedil;&atilde;o MST</em></figcaption>
 </figure>
 
-<p><br />
-&ldquo;Eun&aacute;polis, mais uma vez, mostrou sua confian&ccedil;a na reforma agr&aacute;ria, levando na sacola a luta, resist&ecirc;ncia e hist&oacute;ria do povo Sem Terra. Isso nos fortalece e demonstra o nosso compromisso com toda sociedade, com a alimenta&ccedil;&atilde;o saud&aacute;vel e com a defesa da Reforma Agr&aacute;ria Popular&rdquo;, afirmou Silva.</p>
+<p>&ldquo;Eun&aacute;polis, mais uma vez, mostrou sua confian&ccedil;a na reforma agr&aacute;ria, levando na sacola a luta, resist&ecirc;ncia e hist&oacute;ria do povo Sem Terra. Isso nos fortalece e demonstra o nosso compromisso com toda sociedade, com a alimenta&ccedil;&atilde;o saud&aacute;vel e com a defesa da Reforma Agr&aacute;ria Popular&rdquo;, afirmou Silva.</p>
 
 <p><br />
-<br />
 J&aacute; Maria D&rsquo;Ajuda, moradora de Eun&aacute;polis e visitante da Feira, apontou que a feira precisa acontecer rotineiramente no munic&iacute;pio. &ldquo;Numa passagem r&aacute;pido,&nbsp; estou levando na sacola uma variedade de produtos de qualidade, com pre&ccedil;o acess&iacute;vel e atendimento excelente. Parab&eacute;ns ao MST pela bel&iacute;ssima feira, cheia de m&uacute;sica e produtos deliciosos e o mais importante: sem agrot&oacute;xicos&rdquo;, destacou D&rsquo;Ajuda.</p>
 
 <p><br />
@@ -96,11 +88,9 @@ Feij&atilde;o, batata, galinha caipira, cheiro verde, queijo, banana, mam&atilde
 Neuza Souza &eacute; assentada e produtora de diversos alimentos comercializados na feira. Para ela, o evento tem cumprido um importante papel na luta por justi&ccedil;a e soberania alimentar.</p>
 
 <p><br />
-<br />
 &ldquo;A cada feira realizada no munic&iacute;pio estamos debatendo com a sociedade a import&acirc;ncia da organiza&ccedil;&atilde;o social e da luta pela terra como instrumentos de contraposi&ccedil;&atilde;o a esse modelo de sociedade que rouba nossos direitos e assalta nossa dignidade. Lutar por alimenta&ccedil;&atilde;o saud&aacute;vel, por terra, &eacute; tamb&eacute;m, defender um pa&iacute;s melhor para todos. Estamos avan&ccedil;ando nisso&rdquo;, pontuou.</p>
 
 <p><br />
-<br />
 Al&eacute;m da comercializa&ccedil;&atilde;o dos produtos, a feira foi palco de apresenta&ccedil;&otilde;es da Quadrilha Junina do MST, composta pela juventude do Assentamento Gild&aacute;sio Salles, de Santa Cruz Cabr&aacute;lia, no &ldquo;Arraia da Fam&iacute;lia&rdquo;, do Bairro Pequi. Ocorreu tamb&eacute;m a exposi&ccedil;&atilde;o de&nbsp; experi&ecirc;ncias agroecol&oacute;gica das escolas do campo e da Escola Popular de Agroecologia e Agrofloresta Eg&iacute;dio Brunetto.</p>
 
 <p>&nbsp;</p>
