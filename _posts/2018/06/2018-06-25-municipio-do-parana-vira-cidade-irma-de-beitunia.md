@@ -5,7 +5,7 @@ tags:
   - tag: solidariedade-internacional
   - tag: mobilizações
 title: "Município do Paraná vira cidade-irmã de Beitunia  "
-support_line: "O acordo foi assinado no no Assentamento Valmir da Mota, recém-inaugurada após funcionar por anos como escola itinerante do MST"
+support_line: "O acordo foi assinado na escola do Assentamento Valmir da Mota, recém-inaugurada após funcionar por anos como escola itinerante do MST"
 menu: solidariedade
 images_hd: //farm2.staticflickr.com/1826/41196266760_095eab4a95_b.jpg
 layout: post
