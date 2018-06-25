@@ -3,7 +3,7 @@ date: "2018-06-25T16:15:25-03:00"
 tags:
   - tag: feira-da-reforma-agrária
 title: "Na Bahia, MST ocupa às ruas de Eunápolis com mais de 12 toneladas de alimentos"
-support_line: "Além da comercialização de alimentos saudáveis,diversas atividades culturais e experiências agroecológicas foram apresentadas"
+support_line: "Além da comercialização de alimentos saudáveis, diversas atividades culturais e experiências agroecológicas foram apresentadas"
 menu: reforma agrária
 sector: production
 images_hd: //farm2.staticflickr.com/1809/42955983942_7e582cd0cd_b.jpg
