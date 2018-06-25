@@ -19,3 +19,4 @@ assets/css/.sanitized-sass/
 Gemfile.lock
 .vagrant/
 *.retry
+/.gtm/

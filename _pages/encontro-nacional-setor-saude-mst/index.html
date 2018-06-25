@@ -1,12 +1,13 @@
---- 
-layout: white_page 
-scripts: ["pagination/infinite-scroll.js", "pagination/all_news.js", "special_news.js", "feira/init.js", "feira/jflickrfeed.min.js", "encontro-saude.js"]
-external_scripts: ["//code.jquery.com/jquery-3.1.0.min.js", "//cdnjs.cloudflare.com/ajax/libs/masonry/3.3.0/masonry.pkgd.min.js","//cdnjs.cloudflare.com/ajax/libs/jquery-infinitescroll/2.0b2.120519/jquery.infinitescroll.min.js","//cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/3.1.8/imagesloaded.min.js", "//cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.3/moment-with-locales.min.js", "//cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/3.1.8/imagesloaded.min.js", "//cdnjs.cloudflare.com/ajax/libs/jquery.colorbox/1.6.3/jquery.colorbox-min.js"] 
-styles: ["jornadas.css", "special_news.css", "encontro-saude.css","colorbox.css"] 
-title: "Encontro Nacional do Setor de saúde MST" 
-description: "Neste mês de junho, o setor de saúde do Movimento dos Trabalhadores Sem Terra" 
+---
+layout: white_page
+scripts: ["feira-2017/feira-2017.js", "encontro-saude.js"]
+external_styles: ["https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.css", "https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick-theme.min.css", "https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.0.47/jquery.fancybox.min.css"]
+external_scripts: ["https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js", "https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.js", "https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.0.47/jquery.fancybox.min.js"]
+styles: ["encontro-saude.css"]
+title: "Encontro Nacional do Setor de saúde MST"
+description: "Neste mês de junho, o setor de saúde do Movimento dos Trabalhadores Sem Terra"
 images_hd: "http://farm2.staticflickr.com/1802/29031767058_56441a6ffd_z.jpg"
-image_width: "600" 
+image_width: "600"
 image_height: "338"
 ---
 <body class="especial-saude">
@@ -15,11 +16,11 @@ image_height: "338"
       <div class=" imagem-paragrafos">
         <img class="chamada" src="/assets/img/nacional-saude/chamadaoficial.png" alt="Chamada Encontro Nacional Setor de Saúde Logo MST">
         <div class="paragraph">
-          <p> Neste mês de junho, o setor de saúde do MST comemora 20 
+          <p> Neste mês de junho, o setor de saúde do MST comemora 20
             anos de organização política e de luta em defesa da Saúde Popular. E, para marcar essa data, entre os dias 21 e 24, em São Luís, no Maranhão, o MST realiza o Encontro Nacional do Setor de Saúde.
           </p>
           <p>
-              O Setor existe desde o início do Movimento e foi oficializado em 1998, com a responsabilidade de articular as dimensões do cuidado 
+              O Setor existe desde o início do Movimento e foi oficializado em 1998, com a responsabilidade de articular as dimensões do cuidado
               e da luta de maneira coletiva.  Nesse sentido, tem atuado na conquista e no fortalecimento da saúde, com saberes e práticas tradicionais,
               com educação popular e lutas em defesa do Sistema Único de Saúde (SUS).
           </p>
@@ -31,7 +32,7 @@ image_height: "338"
 
     </section>
 
-    <section class="container">
+    <section>
 
       <section class="cards">
         <h1 class="title">   Coletivo de Saúde </h1>
@@ -40,7 +41,7 @@ image_height: "338"
         <div class="imagem-apoio">
           <img class="lateral-img" src="/assets/img/nacional-saude/pilao.png" alt="Ilustração de uma Foice">
           <figure class="frase">
-            <figcaption>Nestes 20 anos de organização, 
+            <figcaption>Nestes 20 anos de organização,
               o setor de saúde tem sistematizado, a partir da luta, diversos conceitos e fortalecido o debate da Saúde Popular nos assentamentos e acampamentos do MST
             </figcaption>
           </figure>
@@ -89,6 +90,8 @@ image_height: "338"
         <h1 class="title">
           Notícias:
         </h1>
+        <div class="js-carousel carousel">
+        </div>
       </section>
     </section>
     <div class="sharethis-inline-share-buttons"></div>
