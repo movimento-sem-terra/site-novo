@@ -23,8 +23,22 @@ files:
     small: //farm1.staticflickr.com/896/41195969500_a427635606_n.jpg
     title: Olívio Dutra durante encontro estadual do MST no Rio Grande do Sul. Foto Tiago Giannichini.jpg
     $$hashKey: 0AX
+  - link: //farm2.staticflickr.com/1765/29134277428_53e474df44_b.jpg
+    original: //farm2.staticflickr.com/1765/29134277428_5d83b4cd71_o.jpg
+    thumbnail: //farm2.staticflickr.com/1765/29134277428_53e474df44_t.jpg
+    medium: //farm2.staticflickr.com/1765/29134277428_53e474df44_z.jpg
+    small: //farm2.staticflickr.com/1765/29134277428_53e474df44_n.jpg
+    title: Poster Filme - O Galo Missioneiro - a trajetória de um militante.jpg
+    $$hashKey: 05E
+  - link: //farm2.staticflickr.com/1815/28138028367_e3d49ac05b_b.jpg
+    original: //farm2.staticflickr.com/1815/28138028367_e2d0d68e0b_o.jpg
+    thumbnail: //farm2.staticflickr.com/1815/28138028367_e3d49ac05b_t.jpg
+    medium: //farm2.staticflickr.com/1815/28138028367_e3d49ac05b_z.jpg
+    small: //farm2.staticflickr.com/1815/28138028367_e3d49ac05b_n.jpg
+    title: Filme é dirigido pelo cinesta gaúcho Thiago Köche. Foto Caco Argemi.jpg
+    $$hashKey: 05H
 created_date: "2018-06-25T17:06:23-03:00"
-published: false
+published: true
 releated_posts:
   - _posts/2017/11/2017-11-09-do-corpo-da-terra-or-filme-do-setor-de-saude-do-mst-e-premiado-em-festival.md
   - _posts/2018/03/2018-03-07-mulheres-ocupam-conab-em-porto-alegre.md
@@ -36,7 +50,7 @@ releated_posts:
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Assentada Roberta Coimbra participa do filme sobre o Olívio. Foto Catiana de Medeiros.jpg" height="490" src="//farm2.staticflickr.com/1835/42956626392_e2f37918ea_b.jpg" width="700" />
 <figcaption><em>Assentada Roberta Coimbra participa do filme sobre o Olívio. </em><br />
-<img alt="Assentada Roberta Coimbra participa do filme sobre o Olívio. Foto Catiana de Medeiros.jpg" src="//farm2.staticflickr.com/1835/42956626392_e2f37918ea_b.jpg" /><em>Foto: Catiana de Medeiros</em></figcaption>
+<em>Foto: Catiana de Medeiros</em></figcaption>
 </figure>
 </div>
 
@@ -54,6 +68,12 @@ O longa-metragem ser&aacute; lan&ccedil;ado nesta ter&ccedil;a-feira (26), &agra
 <p><br />
 No filme, a camponesa Roberta Coimbra, que mora no Assentamento Rubira I &mdash; Conquista da Luta, localizado em Piratini, na regi&atilde;o Sul, destaca o trabalho feito pelo petista para que as fam&iacute;lias acampadas tivessem acesso &agrave; terra e condi&ccedil;&otilde;es de viver com dignidade no campo. &quot;O Ol&iacute;vio, desde que era prefeito de Porto Alegre, sempre esteve comprometido com a luta da Reforma Agr&aacute;ria. Quando se elegeu governador, n&oacute;s t&iacute;nhamos uma pauta junto a ele que era assentar quem estava acampado naquele momento. Tamb&eacute;m que constru&iacute;sse pol&iacute;ticas p&uacute;blicas que melhorassem de fato o dia a dia dos assentamentos e a vida das pessoas&rdquo;, recorda Coimbra.</p>
 
+<figure class="image" style="float:left"><img alt="Olívio Dutra durante encontro estadual do MST no Rio Grande do Sul. Foto Tiago Giannichini.jpg" height="199" src="//farm1.staticflickr.com/896/41195969500_a427635606_b.jpg" width="300" />
+<figcaption><em>Olívio Dutra durante encontro<br />
+estadual do MST no RS.<br />
+Foto: Tiago Giannichini</em></figcaption>
+</figure>
+
 <p><br />
 Enquanto governador, de 1999 a 2002, Ol&iacute;vio assentou cerca de 5 mil fam&iacute;lias do MST. Inclusive, o assentamento de Roberta somente foi criado, em 2000, devido a uma contrapartida do seu governo ao federal. At&eacute; o momento, sua gest&atilde;o foi a que mais assentou trabalhadores Sem Terra &mdash; todos s&atilde;o chamados &ldquo;Filhos de Ol&iacute;vio&rdquo;, uma forma carinhosa de reconhecer o trabalho do sindicalista em prol da Reforma Agr&aacute;ria-.</p>
 
@@ -65,6 +85,10 @@ Na &aacute;rea das pol&iacute;ticas p&uacute;blicas, Ol&iacute;vio criou program
 
 <p><br />
 Outra iniciativa do ex-governador, que teve influ&ecirc;ncia de Ad&atilde;o Pretto, deputado falecido em 2009, foi melhorar as condi&ccedil;&otilde;es das moradias das fam&iacute;lias assentadas, o que possibilitou a elas mais qualidade de vida e firmou a sua perman&ecirc;ncia no campo.</p>
+
+<figure class="image" style="float:right"><img alt="Poster Filme - O Galo Missioneiro - a trajetória de um militante.jpg" height="424" src="//farm2.staticflickr.com/1765/29134277428_53e474df44_b.jpg" width="300" />
+<figcaption><em>Poster do Filme.</em></figcaption>
+</figure>
 
 <p><br />
 Segundo Roberta, o comprometimento de Ol&iacute;vio com a Reforma Agr&aacute;ria tamb&eacute;m se deu por meio da instala&ccedil;&atilde;o de energia el&eacute;trica nos assentamentos e do fortalecimento da educa&ccedil;&atilde;o, com a cria&ccedil;&atilde;o de escolas itinerantes. &ldquo;Ele conseguiu olhar para quest&otilde;es estruturantes e fundamentais de quem mora no campo, de quem &eacute; agricultor, de quem est&aacute; iniciando um assentamento. Criou programas para manter as fam&iacute;lias na terra, com condi&ccedil;&otilde;es boas de viver e de produzir, considerando essa perspectiva da agroecologia, do consumo local, de conseguir estruturar a produ&ccedil;&atilde;o e abastecer a popula&ccedil;&atilde;o aqui no estado&rdquo;, argumenta.</p>
@@ -87,8 +111,14 @@ O document&aacute;rio, que foi gravado sem or&ccedil;amento e sem capta&ccedil;&
 <p><br />
 Thiago K&ouml;che acompanhou Ol&iacute;vio de forma independente e militante durante um ano, com uma c&acirc;mera e um microfone lapela no protagonista, al&eacute;m de resgatar imagens de arquivo e entrevistas com pessoas envolvidas na hist&oacute;ria.</p>
 
-<p><br />
-Depois, contou com ajuda de amigos que colaboraram na anima&ccedil;&atilde;o, artes, edi&ccedil;&atilde;o de som e mixagem. &ldquo;O mais f&aacute;cil foi o dia a dia do Ol&iacute;vio mesmo. Desde eventos pol&iacute;ticos at&eacute; ele andando de &ocirc;nibus ou bicicleta pela cidade&rdquo;, revela o diretor.</p>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="Filme é dirigido pelo cinesta gaúcho Thiago Köche. Foto Caco Argemi.jpg" height="377" src="//farm2.staticflickr.com/1815/28138028367_e3d49ac05b_b.jpg" width="600" />
+<figcaption><em>Filme é dirigido pelo cinesta gaúcho Thiago Köche.<br />
+Foto: Caco Argemi</em></figcaption>
+</figure>
+</div>
+
+<p>Depois, contou com ajuda de amigos que colaboraram na anima&ccedil;&atilde;o, artes, edi&ccedil;&atilde;o de som e mixagem. &ldquo;O mais f&aacute;cil foi o dia a dia do Ol&iacute;vio mesmo. Desde eventos pol&iacute;ticos at&eacute; ele andando de &ocirc;nibus ou bicicleta pela cidade&rdquo;, revela o diretor.</p>
 
 <p><br />
 Ele acrescenta que o filme, acima de tudo, serve para o debate pol&iacute;tico. Mas sem deixar de ser uma bela obra audiovisual. &ldquo;N&atilde;o h&aacute; ser apol&iacute;tico. Ou voc&ecirc; se soma ao debate, ou voc&ecirc; &eacute; conivente com o que h&aacute; de pior na pol&iacute;tica&rdquo;, afirma.</p>
