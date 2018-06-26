@@ -35,7 +35,7 @@ releated_posts:
 <p>&nbsp;</p>
 
 <p><em>Por Nadine Nascimento<br />
-Da Campanha Permanente contra os Agrot&oacute;xicos</em></p>
+Da Campanha Permanente contra os Agrot&oacute;xicos e pela Vida</em></p>
 
 <p>&nbsp;</p>
 
