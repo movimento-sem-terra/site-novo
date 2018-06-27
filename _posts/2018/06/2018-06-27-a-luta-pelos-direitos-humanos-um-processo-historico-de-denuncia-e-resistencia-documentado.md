@@ -7,7 +7,7 @@ tags:
 title: "A luta pelos Direitos Humanos: um processo histórico de denuncia e resistência documentado"
 images_hd: //farm2.staticflickr.com/1788/42995625552_f1fdb43b22_b.jpg
 menu: direitos humanos
-support_line: "Há 25 anos, a ONU realizou a Conferência Mundial dos Direitos Humanos, em Viena, durante o evento, o MST denunciou as violações  no campo brasileiro, "
+support_line: "Há 25 anos, a ONU realizou a Conferência Mundial dos Direitos Humanos, em Viena, durante o evento, o MST denunciou as violações  no campo brasileiro"
 layout: post
 files:
   - link: //farm2.staticflickr.com/1788/42995625552_f1fdb43b22_b.jpg
@@ -41,10 +41,13 @@ H&aacute; 25 anos, a Organiza&ccedil;&atilde;o das Na&ccedil;&otilde;es Unidas (
 A Confer&ecirc;ncia Mundial contou com participa&ccedil;&atilde;o de 171 Estados, 2 mil ONGs, reunindo ao todo cerca de 10 mil indiv&iacute;duos durante 15 dias. Ao final, como s&iacute;ntese dos discuss&otilde;es, foi constru&iacute;do outro documento, intitulado de &ldquo;Declara&ccedil;&atilde;o e programa de A&ccedil;&atilde;o de Viena&rdquo;. Esse texto foi considerado na &eacute;poca um marco para a luta pelos direitos humanos.</p>
 
 <p><br />
-As den&uacute;ncias realizadas pelo MST eram reflexos das desigualdades sociais no campo, pois o Brasil era campe&atilde;o mundial em concentra&ccedil;&atilde;o de renda. Nesse per&iacute;odo, os 10% mais ricos da popula&ccedil;&atilde;o detinham 50% da riqueza nacional produzida. &Eacute; importante destacar, que nesse mesmo per&iacute;odo, o pa&iacute;s estava sob controle do governo de<br />
-Itamar Franco (PMDB), que entregou as empresas nacionais para o capital internacional; com um congresso onde umas centenas de deputados j&aacute; tinham not&oacute;ria reputa&ccedil;&atilde;o corrupta; e uma ditadura dos meios de comunica&ccedil;&atilde;o, heran&ccedil;a da ditadura militar de 64. No campo, segundo dados de janeiro de 1995 do Fundo Internacional de Desenvolvimento Agr&iacute;cola, 73% da popula&ccedil;&atilde;o rural brasileira vivia abaixo da linha de pobreza, 88% das terras nas<br />
-m&atilde;os de 20% dos grandes propriet&aacute;rios e o analfabetismo alcan&ccedil;ava 44,7%. Essa realidade foi<br />
-denunciada pelo MST em 1993.</p>
+As den&uacute;ncias realizadas pelo MST eram reflexos das desigualdades sociais no campo, pois o Brasil era campe&atilde;o mundial em concentra&ccedil;&atilde;o de renda. Nesse per&iacute;odo, os 10% mais ricos da popula&ccedil;&atilde;o detinham 50% da riqueza nacional produzida.</p>
+
+<p><br />
+&Eacute; importante destacar, que nesse mesmo per&iacute;odo, o pa&iacute;s estava sob controle do governo de Itamar Franco (PMDB), que entregou as empresas nacionais para o capital internacional; com um congresso onde umas&nbsp; centenas de deputados j&aacute; tinham not&oacute;ria reputa&ccedil;&atilde;o corrupta; e uma ditadura dos meios de comunica&ccedil;&atilde;o, heran&ccedil;a da ditadura militar de 64.</p>
+
+<p><br />
+No campo, segundo dados de janeiro de 1995 do Fundo Internacional de Desenvolvimento Agr&iacute;cola, 73% da popula&ccedil;&atilde;o rural brasileira vivia abaixo da linha de pobreza, 88% das terras nas m&atilde;os de 20% dos grandes propriet&aacute;rios e o analfabetismo alcan&ccedil;ava 44,7%. Essa realidade foi denunciada pelo MST em 1993.</p>
 
 <p><br />
 De acordo com Mara Carvalho, do setor de direitos humanos do MST, o texto denunciou a situa&ccedil;&atilde;o de fome e a pobreza que o povo brasileiro enfrentava na conjuntura de 1993 e na atualidade essas desigualdades, principalmente no &acirc;mbito jur&iacute;dico e pol&iacute;tico, t&ecirc;m se acentuado. &ldquo;Passados 25 anos, nos deparamos com situa&ccedil;&otilde;es que se agravaram, a exemplo do descumprimento e a viola&ccedil;&atilde;o da Constitui&ccedil;&atilde;o Federal de 1988; com o esvaziamento do papel do Estado por meio da crise de funcionamento de sua estrutura; e da deslegitima&ccedil;&atilde;o dos seus agentes e institui&ccedil;&otilde;es&rdquo;, pontua.</p>
@@ -54,7 +57,7 @@ Para ela, essas quest&otilde;es impactam diretamente na possibilidade da efetiva
 Um exemplo de viola&ccedil;&atilde;o aos Direito Humanos na atualidade &eacute; o aumento dr&aacute;stico da viol&ecirc;ncia no campo. S&oacute; em 2017 foram 73 pessoas assassinadas. O n&uacute;mero &eacute; 16,4% maior que em 2016, quando aconteceram 61 assassinatos, e quase o dobro de 2014, com 36 v&iacute;timas. A an&aacute;lise consta no relat&oacute;rio Conflitos no Campo Brasil 2017, da Comiss&atilde;o Pastoral da Terra (CPT).</p>
 
 <p><br />
-Sobre os desafios impostos aos trabalhadores do campo e da cidade na luta pelos Direitos Humanos, Carvalho afirma que o movimentos sociais organizados possuem um papel importante no debate e no fazer da luta. &ldquo;Precisamos construir uma revers&atilde;o nesse quadro de viola&ccedil;&otilde;es de direitos instaurado no Brasil, de formar e<br />
+Sobre os desafios impostos aos trabalhadores do campo e da cidade na luta pelos Direitos Humanos, Carvalho afirma que o movimentos sociais organizados possuem um papel importante no debate e no fazer da luta. &ldquo;Precisamos construir uma revers&atilde;o nesse quadro de viola&ccedil;&otilde;es de direitos instaurado no Brasil, de forma a<br />
 superar o campo abstrato e idealista dos direitos humanos&rdquo;. &ldquo;Estamos caminhando para a marca dos 70 anos de proclama&ccedil;&atilde;o da Declara&ccedil;&atilde;o Universal dos Direitos Humanos (1948), no entanto, avaliamos que se faz importante<br />
 resignificar o tema, o debate e a garantia dos direitos, recolocando-o na centralidade da luta enquanto conquista social&rdquo;, conclui.</p>
 
