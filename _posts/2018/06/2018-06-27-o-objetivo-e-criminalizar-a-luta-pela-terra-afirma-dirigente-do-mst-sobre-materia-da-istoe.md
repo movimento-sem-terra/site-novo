@@ -6,7 +6,7 @@ tags:
   - tag: criminalização
 images_hd: //farm1.staticflickr.com/923/28174455237_4e06d42a0a_b.jpg
 menu: projeto popular
-title: "\"O objetivo é criminalizar a luta pela terra\", afirma dirigente do MST sobre matéria da IstoÉ"
+title: "\"O objetivo é criminalizar a luta pela terra\", afirma dirigente do MST sobre matéria da Isto É"
 support_line: "Em entrevista, Marco Baratto, da direção nacional do MST, comenta a histórica dinâmica antidemocrática do campo no DF"
 layout: post
 files:
@@ -43,10 +43,10 @@ Da P&aacute;gina do MST&nbsp;</em></p>
 federal. E a consequ&ecirc;ncia dessa situa&ccedil;&atilde;o pode ser verificada nos dias atuais. O Movimento Sem Terra, buscando denunciar estas irregularidades, realizou, no &uacute;ltimo per&iacute;odo, diversas ocupa&ccedil;&otilde;es em terras griladas. Defendendo a implementa&ccedil;&atilde;o de assentamentos e a constru&ccedil;&atilde;o da Reforma Agr&aacute;ria Popular, com produ&ccedil;&atilde;o de alimentos saud&aacute;veis. Diante dessa movimenta&ccedil;&atilde;o,&nbsp;o Movimento vem enfrentando forte press&atilde;o de setores conservadores do DF, ligados ao agroneg&oacute;cio e a especula&ccedil;&atilde;o imobili&aacute;ria.</p>
 
 <p><br />
-A ofensiva mais recente se deu com uma mat&eacute;ria publicada no site da revista Isto&Eacute;. O texto, publicado na &uacute;ltima semana, tenta&nbsp;vincular a a&ccedil;&atilde;o do MST na regi&atilde;o a&nbsp;fazendeiros, empres&aacute;rios, grileiros e casos de corrup&ccedil;&atilde;o numa clara demonstra&ccedil;&atilde;o de criminaliza&ccedil;&atilde;o e persegui&ccedil;&atilde;o.&nbsp;</p>
+A ofensiva mais recente se deu com uma mat&eacute;ria publicada no site da revista Isto &Eacute;. O texto, publicado na &uacute;ltima semana, tenta&nbsp;vincular a a&ccedil;&atilde;o do MST na regi&atilde;o a&nbsp;fazendeiros, empres&aacute;rios, grileiros e casos de corrup&ccedil;&atilde;o numa clara demonstra&ccedil;&atilde;o de criminaliza&ccedil;&atilde;o e persegui&ccedil;&atilde;o.</p>
 
 <p><br />
-Para falar sobre a&nbsp;hist&oacute;rica din&acirc;mica antidemocr&aacute;tica do campo no DF&nbsp;e sobre a&nbsp;atua&ccedil;&atilde;o de meios de comunica&ccedil;&atilde;o - como a revista Isto&Eacute; - no&nbsp;processo de criminaliza&ccedil;&atilde;o&nbsp;das lutas populares, conversamos com&nbsp;Marco Baratto, da dire&ccedil;&atilde;o nacional do MST, comenta a hist&oacute;rica din&acirc;mica antidemocr&aacute;tica do campo no DF.&nbsp;</p>
+Para&nbsp;falar sobre a&nbsp;hist&oacute;rica din&acirc;mica antidemocr&aacute;tica do campo no DF&nbsp;e sobre a&nbsp;atua&ccedil;&atilde;o de meios de comunica&ccedil;&atilde;o - como a revista Isto &Eacute; - no&nbsp;processo de criminaliza&ccedil;&atilde;o&nbsp;das lutas populares, conversamos com&nbsp;Marco Baratto, da dire&ccedil;&atilde;o nacional do MST.&nbsp;&nbsp;Para Baratto, a mat&eacute;ria &quot;&eacute; o retrato de&nbsp;uma m&iacute;dia que n&atilde;o tem nenhum compromisso com a &eacute;tica no jornalismo. Ela n&atilde;o tem a inten&ccedil;&atilde;o de informar e n&atilde;o se enquadra em um padr&atilde;o de jornalismo minimamente s&eacute;rio&quot;.</p>
 
 <p><br />
 <strong>Acompanhe:&nbsp;</strong><br />
