@@ -24,6 +24,7 @@ releated_posts:
   - _posts/2018/03/2018-03-16-stedile-or-nos-do-mst-estamos-convencidos-de-que-e-preciso-defender-o-lula.md
   - _posts/2018/04/2018-04-02-golpe-64-or-estado-brasileiro-nao-reconhece-camponeses-assassinados-na-ditadura.md
   - _posts/2018/04/2018-04-06-minuto-a-minuto-moro-determina-prisao-de-lula.md
+section: cover
 
 ---
 <div style="text-align:center">
