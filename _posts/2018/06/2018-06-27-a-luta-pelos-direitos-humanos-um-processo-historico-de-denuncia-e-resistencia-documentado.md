@@ -60,11 +60,10 @@ Um exemplo de viola&ccedil;&atilde;o aos Direito Humanos na atualidade &eacute; 
 
 <p><br />
 Sobre os desafios impostos aos trabalhadores do campo e da cidade na luta pelos Direitos Humanos, Carvalho afirma que o movimentos sociais organizados possuem um papel importante no debate e no fazer da luta. &ldquo;Precisamos construir uma revers&atilde;o nesse quadro de viola&ccedil;&otilde;es de direitos instaurado no Brasil, de forma a<br />
-superar o campo abstrato e idealista dos direitos humanos&rdquo;. &ldquo;Estamos caminhando para a marca dos 70 anos de proclama&ccedil;&atilde;o da Declara&ccedil;&atilde;o Universal dos Direitos Humanos (1948), no entanto, avaliamos que se faz importante<br />
-resignificar o tema, o debate e a garantia dos direitos, recolocando-o na centralidade da luta enquanto conquista social&rdquo;, conclui.</p>
+superar o campo abstrato e idealista dos direitos humanos&rdquo;. &ldquo;Estamos caminhando para a marca dos 70 anos de proclama&ccedil;&atilde;o da Declara&ccedil;&atilde;o Universal dos Direitos Humanos (1948), no entanto, avaliamos que se faz importante resignificar o tema, o debate e a garantia dos direitos, recolocando-o na centralidade da luta enquanto conquista social&rdquo;, conclui.</p>
 
 <p><br />
-Com olhar hist&oacute;rico sobre a luta dos Direitos Humanos desde 1993, a leitura do documento &ldquo;O Clamor dos Trabalhadores Rurais Sem Terra do Brasil&rdquo; apresenta a necessidade, no &acirc;mbito da pol&iacute;tica e das lutas populares, de se contribuir a justi&ccedil;a social.</p>
+Com olhar hist&oacute;rico sobre a luta dos Direitos Humanos desde 1993, o documento &ldquo;O Clamor dos Trabalhadores Rurais Sem Terra do Brasil&rdquo; apresenta a necessidade, no &acirc;mbito da pol&iacute;tica e das lutas populares, de construir a justi&ccedil;a social.</p>
 
 <p><br />
 Confira o documento na &iacute;ntegra:</p>
