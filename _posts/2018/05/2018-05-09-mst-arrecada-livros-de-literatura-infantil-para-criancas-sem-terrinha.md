@@ -5,7 +5,7 @@ tags:
   - tag: educação
   - tag: cultura
 title: "MST arrecada livros de literatura infantil "
-support_line: Os livros serão entregues no 1º Encontro Nacional de Crianças Sem Terrinha
+support_line: Os livros serão entregues no 1º Encontro Nacional das Crianças Sem Terrinha
 images_hd: //farm1.staticflickr.com/896/28051064147_e84a042324_b.jpg
 menu: "educação, cultura e comunicação"
 layout: post
