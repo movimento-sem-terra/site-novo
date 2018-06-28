@@ -8,7 +8,7 @@ title: MST aponta mentiras em reportagem publicada pela revista IstoÉ
 support_line: "A reportagem, assinada por Ary Filgueira, não possui consistência jornalística e muito menos investigativa. Trata-se de especulações, sem comprovações ou vínculos com a realidade"
 menu: lutas e mobilizações
 images_hd: //farm1.staticflickr.com/879/29133396628_eef2e292d6_b.jpg
-section: cover
+section: featured-news
 layout: post
 files:
   - link: //farm1.staticflickr.com/879/29133396628_eef2e292d6_b.jpg
