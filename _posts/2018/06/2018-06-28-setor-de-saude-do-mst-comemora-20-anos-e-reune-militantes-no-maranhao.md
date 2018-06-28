@@ -53,10 +53,6 @@ releated_posts:
 Da P&aacute;gina do MST&nbsp;</em><br />
 &nbsp;</p>
 
-<p><em>Por Reynaldo Costa<br />
-Da P&aacute;gina do MST&nbsp;</em><br />
-&nbsp;</p>
-
 <p>Terminou no &uacute;ltimo domingo (24) o I Encontro Nacional do Setor de Sa&uacute;de do MST, a atividade que tamb&eacute;m foi uma comemora&ccedil;&atilde;o aos 20 anos do setor de sa&uacute;de do MST, contou com&nbsp;representantes&nbsp;de 13 estados do pa&iacute;s&nbsp;teve como&nbsp;objetivo&nbsp;tra&ccedil;ar a atua&ccedil;&atilde;o do setor para os pr&oacute;ximos anos, al&eacute;m de aprofundar a discuss&atilde;o sobre como o atual cen&aacute;rio pol&iacute;tico afeta as politicas p&uacute;blicas no campo da sa&uacute;de.</p>
 
 <p><br />
@@ -111,6 +107,5 @@ Todos os trabalhos s&atilde;o de responsabilidade do coletivo de sa&uacute;de do
 <p><br />
 A manuten&ccedil;&atilde;o da sa&uacute;de tem um papel fundamental no bem-estar dos que&nbsp;lutam todos os dias.&nbsp;E esse&nbsp;cuidado pode ser observado&nbsp;desde o mais novo acampado aos dirigentes da organiza&ccedil;&atilde;o.</p>
 
-<p>&nbsp;</p>
-
-<p>Nesse sentido Silva&nbsp;reflete sobre as grandes atividades que o MST realiza, como os congressos nacionais marchas e as jornadas de lutas. Ele chama a aten&ccedil;&atilde;o para a resist&ecirc;ncia e o cuidado exigido nesses espa&ccedil;os. &ldquo;Essa luta s&oacute; &eacute; poss&iacute;vel&nbsp;porque conseguirmos manter s sa&uacute;de dos militantes minimamente est&aacute;vel, esse cuidado mant&eacute;m um&nbsp;equil&iacute;brio ativo em todos os nossos militantes&quot;, finaliza.</p>
+<p><br />
+Nesse sentido Silva&nbsp;reflete sobre as grandes atividades que o MST realiza, como os congressos nacionais marchas e as jornadas de lutas. Ele chama a aten&ccedil;&atilde;o para a resist&ecirc;ncia e o cuidado exigido nesses espa&ccedil;os. &ldquo;Essa luta s&oacute; &eacute; poss&iacute;vel&nbsp;porque conseguirmos manter s sa&uacute;de dos militantes minimamente est&aacute;vel, esse cuidado mant&eacute;m um&nbsp;equil&iacute;brio ativo em todos os nossos militantes&quot;, finaliza.</p>
