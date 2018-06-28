@@ -39,6 +39,7 @@ releated_posts:
   - _posts/2018/06/2018-06-22-medicos-populares-e-militantes-reunem-se-no-1-encontro-nacional-do-setor-de-saude-do-mst.md
   - _posts/2018/02/2018-02-22-encontro-nacional-de-agroecologia-promete-reunir-duas-mil-pessoas-em-minas-gerais.md
   - _posts/2018/06/2018-06-18-cooperativa-de-mulheres-organizada-pelo-mst-produz-ervas-medicinais-organicas.md
+special-page: encontro-saude
 
 ---
 <div style="text-align:center">
