@@ -7,7 +7,7 @@ tags:
 title: Comissão aprova projeto que retira restrições do uso de agrotóxicos
 support_line: "O projeto de lei é criticado por instituições como o Ministério da Saúde, o Ministério do Meio Ambiente e a Agência Nacional de Vigilância, além da Fiocruz, Ibama e o Instituto do Câncer."
 menu: agronegócio
-section: featured-news
+section: null
 images_hd: //farm2.staticflickr.com/1838/28141531537_abf6f7a8e7_b.jpg
 layout: post
 files:
