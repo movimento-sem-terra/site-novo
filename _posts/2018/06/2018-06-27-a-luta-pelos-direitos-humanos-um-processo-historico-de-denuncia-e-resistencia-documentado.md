@@ -53,7 +53,9 @@ No campo, segundo dados de janeiro de 1995 do Fundo Internacional de Desenvolvim
 De acordo com Mara Carvalho, do setor de direitos humanos do MST, o texto denunciou a situa&ccedil;&atilde;o de fome e a pobreza que o povo brasileiro enfrentava na conjuntura de 1993 e na atualidade essas desigualdades, principalmente no &acirc;mbito jur&iacute;dico e pol&iacute;tico, t&ecirc;m se acentuado. &ldquo;Passados 25 anos, nos deparamos com situa&ccedil;&otilde;es que se agravaram, a exemplo do descumprimento e a viola&ccedil;&atilde;o da Constitui&ccedil;&atilde;o Federal de 1988; com o esvaziamento do papel do Estado por meio da crise de funcionamento de sua estrutura; e da deslegitima&ccedil;&atilde;o dos seus agentes e institui&ccedil;&otilde;es&rdquo;, pontua.</p>
 
 <p><br />
-Para ela, essas quest&otilde;es impactam diretamente na possibilidade da efetiva&ccedil;&atilde;o de direitos conquistados pelos trabalhadores e trabalhadoras na luta organizada. &ldquo;A exemplo da aprova&ccedil;&atilde;o da PEC 95, que congela os investimentos sociais e acentuam o aumento da desigualdade e da pobreza em nosso pa&iacute;s&rdquo;, explica Carvalho.<br />
+Para ela, essas quest&otilde;es impactam diretamente na possibilidade da efetiva&ccedil;&atilde;o de direitos conquistados pelos trabalhadores e trabalhadoras na luta organizada. &ldquo;A exemplo da aprova&ccedil;&atilde;o da PEC 95, que congela os investimentos sociais e acentuam o aumento da desigualdade e da pobreza em nosso pa&iacute;s&rdquo;, explica Carvalho.</p>
+
+<p><br />
 Um exemplo de viola&ccedil;&atilde;o aos Direito Humanos na atualidade &eacute; o aumento dr&aacute;stico da viol&ecirc;ncia no campo. S&oacute; em 2017 foram 73 pessoas assassinadas. O n&uacute;mero &eacute; 16,4% maior que em 2016, quando aconteceram 61 assassinatos, e quase o dobro de 2014, com 36 v&iacute;timas. A an&aacute;lise consta no relat&oacute;rio Conflitos no Campo Brasil 2017, da Comiss&atilde;o Pastoral da Terra (CPT).</p>
 
 <p><br />
