@@ -108,3 +108,7 @@ A gente tamb&eacute;m est&aacute; empenhado em construir um meio de comunica&cce
 
 <p><br />
 Se n&oacute;s tiv&eacute;ssemos ficado s&oacute; nas lutas corporativas das ocupa&ccedil;&otilde;es de terra, j&aacute; ter&iacute;amos garantido nossa morte pol&iacute;tica. Tivemos que trabalhar a forma&ccedil;&atilde;o pol&iacute;tica, um projeto nacional maior, a comunica&ccedil;&atilde;o, etc.</p>
+
+<p>&nbsp;</p>
+
+<p><em>*Editado pelo Brasil de Fato</em></p>
