@@ -134,13 +134,13 @@ CEP&nbsp;60130-420.<br />
 (85) 3257-5630</p>
 
 <p><br />
-<strong>Goi&acirc;nia - Secret&aacute;ria Estadual do MST</strong><br />
+<strong>Goi&acirc;nia - Secretaria Estadual do MST</strong><br />
 Rua M&aacute;rio Caiado, quadra 2 lote 4, n&uacute;mero 135 / setor Crim&eacute;ia Leste<br />
 CEP&nbsp;74660-310<br />
 (62) 3877-7647</p>
 
 <p><br />
-<strong>Pernambuco - Secret&aacute;ria Estadual do MST</strong><br />
+<strong>Pernambuco - Secretaria Estadual do MST</strong><br />
 Rua Jader Figueiredo de Andrade e Silva, n&deg;155 -&nbsp;Vassoural &ndash; Caruaru<br />
 CEP&nbsp;55028-410<br />
 (81) 3722-3136<br />
@@ -153,7 +153,7 @@ CEP&nbsp;30190-001<br />
 (31) 99596-3391&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 
 <p><br />
-<strong>Paran&aacute; - Secret&aacute;ria Estadual do MST</strong><br />
+<strong>Paran&aacute; - Secretaria Estadual do MST</strong><br />
 Alameda Princesa Isabel, n&deg;714 -&nbsp;Merces<br />
 CEP&nbsp;80430-120<br />
 (41) 3324-700<br />
