@@ -85,7 +85,7 @@ Os pontos de recolhimento das doa&ccedil;&otilde;es est&atilde;o espalhados por 
 &nbsp;</p>
 
 <p><strong>Secretaria Nacional MST S&atilde;o Paulo</strong><br />
-Rua Alameda Bar&atilde;o de Limeira, 1232, Campos El&iacute;sios<br />
+Alameda Bar&atilde;o de Limeira, 1232, Campos El&iacute;sios<br />
 CEP&nbsp;01218-012<br />
 (11) 2131-0850<br />
 secgeral@mst.org.br<br />
@@ -129,7 +129,7 @@ CEP&nbsp;70324-900<br />
 &nbsp;</p>
 
 <p><strong>Fortaleza - Centro de Forma&ccedil;&atilde;o Frei Humberto</strong><br />
-Rua Jo&atilde;o Firmeza, 445 -&nbsp;S&atilde;o Jo&atilde;o de Tauap&eacute; - Fortaleza<br />
+Rua Paulo&nbsp;Firmeza, 445 -&nbsp;S&atilde;o Jo&atilde;o de Tauape&nbsp;- Fortaleza<br />
 CEP&nbsp;60130-420.<br />
 (85) 3257-5630</p>
 
@@ -140,20 +140,20 @@ CEP&nbsp;74660-310<br />
 (62) 3877-7647</p>
 
 <p><br />
-<strong>Pernambuco - Secret&aacute;ria Estadual do MS</strong><br />
+<strong>Pernambuco - Secret&aacute;ria Estadual do MST</strong><br />
 Rua Jader Figueiredo de Andrade e Silva, n&deg;155 -&nbsp;Vassoural &ndash; Caruaru<br />
 CEP&nbsp;55028-410<br />
 (81) 3722-3136<br />
 seteducmst.pe@autlook</p>
 
 <p><br />
-<strong>Minas Gerais -&nbsp;Armaz&eacute;m do Campo -&nbsp;Belo Horizont</strong><br />
+<strong>Minas Gerais -&nbsp;Armaz&eacute;m do Campo -&nbsp;Belo Horizonte</strong><br />
 Avenida Augusto de Lima, n&deg;2136 -&nbsp;Barro Preto<br />
 CEP&nbsp;30190-001<br />
 (31) 99596-3391&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 
 <p><br />
-<strong>Paran&aacute; - Secret&aacute;ria Estadual do MS</strong><br />
+<strong>Paran&aacute; - Secret&aacute;ria Estadual do MST</strong><br />
 Alameda Princesa Isabel, n&deg;714 -&nbsp;Merces<br />
 CEP&nbsp;80430-120<br />
 (41) 3324-700<br />
