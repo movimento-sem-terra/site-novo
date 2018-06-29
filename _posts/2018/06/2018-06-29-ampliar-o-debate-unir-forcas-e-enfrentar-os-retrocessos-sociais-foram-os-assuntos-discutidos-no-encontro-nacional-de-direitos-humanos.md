@@ -2,7 +2,7 @@
 date: "2018-06-29T14:46:10-03:00"
 tags:
   - tag: direitos-humanos
-title: "Ampliar o debate, unir forças e enfrentar os retrocessos sociais foram os assuntos discutidos no Encontro Nacional de Direitos Humanos "
+title: "Encontro Nacional de Direitos Humanos: Unir forças e enfrentar os retrocessos  "
 images_hd: //farm2.staticflickr.com/1821/28223671847_6c63a96d70_b.jpg
 menu: direitos humanos
 support_line: "A atividade reuniu estudantes, professores, advogados e dirigentes da Via Campesina e do Movimento Sindical da Agricultura Familiar "
