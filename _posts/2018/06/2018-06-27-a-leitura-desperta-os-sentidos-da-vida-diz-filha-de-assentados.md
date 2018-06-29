@@ -7,7 +7,7 @@ tags:
 title: "“A leitura desperta os sentidos da vida”, diz filha de assentados"
 support_line: Juliane Ribeiro conta como o hábito de ler se tornou seu fiel companheiro do dia a dia.
 menu: "educação, cultura e comunicação"
-section: featured-news
+section: null
 images_hd: //farm2.staticflickr.com/1808/42142875445_8917734e01_b.jpg
 layout: post
 files:
