@@ -117,7 +117,7 @@ mstma@veloxmail.com.br</p>
 <strong>Escrit&oacute;rio Nacional MST - Rio de Janeiro</strong><br />
 Rua Sete de setembro, 223 sala 301 - Centro<br />
 CEP&nbsp;20050-006<br />
-(21) 2240-849<br />
+(21) 2240-8496<br />
 <a href="mailto:escritoriorj@mst.org.br" target="_blank">escritoriorj@mst.org.br</a></p>
 
 <p><br />
