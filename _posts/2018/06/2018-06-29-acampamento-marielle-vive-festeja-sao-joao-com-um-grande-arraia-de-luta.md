@@ -49,7 +49,7 @@ Centenas de homens, mulheres e crian&ccedil;as da regi&atilde;o se somaram ao ev
 A festa tamb&eacute;m contou com a visita da Turma de Forma&ccedil;&atilde;o de Formadores Latinoamericana da Escola Nacional Florestan Fernandes. Os mais de 40 educandos e educandas de 17 pa&iacute;ses diferentes puderam vivenciar a realidade das fam&iacute;lias Sem Terra e festejar o processo de luta e resist&ecirc;ncia.</p>
 
 <p><br />
-Confira imagens e o v&iacute;deo do Arrai&aacute; Sem Terra no Acampamento Marielle Vive!</p>
+Confira o v&iacute;deo do Arrai&aacute; Sem Terra no Acampamento Marielle Vive!</p>
 
 <p><br />
 <iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/LELVP1xxP4o" width="640"></iframe></p>
