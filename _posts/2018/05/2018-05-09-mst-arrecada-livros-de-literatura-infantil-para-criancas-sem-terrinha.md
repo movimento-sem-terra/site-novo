@@ -61,10 +61,10 @@ Da P&aacute;gina do MST</em><br />
 <p>&ldquo;A import&acirc;ncia de ouvir muitas, muitas hist&oacute;rias, escut&aacute;-las &eacute; o in&iacute;cio da aprendizagem para ser um leitor, e ser leitor &eacute; ter um caminho absolutamente infinito de descoberta e de compreens&atilde;o do mundo&rdquo;, afirmou Fanny Abramovich, escritora infanto-juvenil brasileira em 1994.</p>
 
 <p><br />
-E, para fortalecer o h&aacute;bito da leitura e a difus&atilde;o da literatura infantil, o MST est&aacute; encabe&ccedil;ando uma campanha de&nbsp;arrecada&ccedil;&atilde;o de produ&ccedil;&otilde;es liter&aacute;rias para as crian&ccedil;as.&nbsp;As&nbsp;obras&nbsp;ser&atilde;o distribu&iacute;das no 1&ordm; Encontro Nacional de Crian&ccedil;as Sem Terrinha que ser&aacute; realizado no m&ecirc;s de julho, em Bras&iacute;lia.</p>
+E, para fortalecer o h&aacute;bito da leitura e a difus&atilde;o da literatura infantil, o MST est&aacute; encabe&ccedil;ando uma campanha de&nbsp;arrecada&ccedil;&atilde;o de produ&ccedil;&otilde;es liter&aacute;rias para as crian&ccedil;as.&nbsp;As&nbsp;obras&nbsp;ser&atilde;o distribu&iacute;das no 1&ordm; Encontro Nacional das&nbsp;Crian&ccedil;as Sem Terrinha que ser&aacute; realizado no m&ecirc;s de julho, em Bras&iacute;lia.</p>
 
 <p><br />
-O principal objetivo do&nbsp;evento - que contar&aacute; com cerca de 1200 crian&ccedil;as e 400 educadores -&nbsp;&eacute; mobilizar crian&ccedil;as de acampamentos e assentamentos&nbsp;e proporcionar um espa&ccedil;o&nbsp;de socializa&ccedil;&atilde;o do fazer cultural e educativo da inf&acirc;ncia Sem Terra.&nbsp;</p>
+O principal objetivo do&nbsp;evento - que contar&aacute; com cerca de 1200 crian&ccedil;as e 400 educadores -&nbsp;&eacute; mobilizar crian&ccedil;as de acampamentos e assentamentos&nbsp;e proporcionar um espa&ccedil;o&nbsp;de socializa&ccedil;&atilde;o do fazer cultural e educativo da Inf&acirc;ncia Sem Terra.&nbsp;</p>
 
 <p>&nbsp;</p>
 
