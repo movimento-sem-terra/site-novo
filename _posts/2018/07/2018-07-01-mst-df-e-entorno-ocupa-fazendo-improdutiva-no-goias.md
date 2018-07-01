@@ -4,7 +4,7 @@ tags:
   - tag: distrito-federal
   - tag: ocupação
   - tag: acampamento
-title: MST DF e Entorno ocupa fazendo improdutiva no Goiás
+title: MST DF e Entorno ocupa fazenda improdutiva no Goiás
 support_line: "Considerada improdutiva, há suspeita de que a terra seja grilada."
 menu: lutas e mobilizações
 images_hd: //farm2.staticflickr.com/1781/42223321745_bc0afa2c2a_b.jpg
