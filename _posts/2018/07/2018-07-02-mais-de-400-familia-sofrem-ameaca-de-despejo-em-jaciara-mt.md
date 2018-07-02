@@ -4,8 +4,8 @@ tags:
   - tag: lutas-e-mobilizações
   - tag: despejo
   - tag: mato-grosso
-title: Mais de 400 família sofrem ameaça de despejo em Jaciara (MT)
-support_line: As famílias estão acampadas há cerca de dois anos no local
+title: Mais de 400 famílias sofrem ameaça de despejo em Jaciara (MT)
+support_line: Os Sem Terra estão acampadas há cerca de dois anos no local
 menu: lutas e mobilizações
 images_hd: //farm2.staticflickr.com/1830/29288041018_40ef6e0042_b.jpg
 layout: post
