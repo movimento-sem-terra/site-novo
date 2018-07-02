@@ -42,7 +42,8 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p><em>Da P&aacute;gina do MST</em></p>
+<p><em>Por Igor Jatob&aacute;<br />
+Especial para P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
