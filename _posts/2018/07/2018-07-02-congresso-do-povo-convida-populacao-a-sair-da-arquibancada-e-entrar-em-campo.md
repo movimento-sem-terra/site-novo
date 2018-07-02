@@ -24,6 +24,7 @@ releated_posts:
   - _posts/2018/05/2018-05-19-em-nota-a-a-frente-brasil-popular-denuncia-os-recentes-ataques-a-democracia-patrocinado-por-setores-do-poder-judiciario.md
   - _posts/2018/04/2018-04-10-rio-grande-do-sul-avanca-na-construcao-do-congresso-do-povo-brasileiro.md
   - _posts/2018/05/2018-05-24-frente-brasil-popular-declara-apoio-a-greve-dos-caminhoneiros.md
+section: cover
 
 ---
 <div style="text-align:center">
