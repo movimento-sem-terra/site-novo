@@ -5,7 +5,7 @@ tags:
   - tag: violência-no-campo
   - tag: conflitos-no-campo
 title: Trabalhador Sem Terra sofre tentativa de homicídio no Oeste da Bahia
-support_line: Práticas de pistolagem e grilagem são comuns na Região Oeste da Bahia
+support_line: Práticas de pistolagem e grilagem são recorrentes na Região Oeste da Bahia.
 section: cover
 menu: direitos humanos
 images_hd: //farm2.staticflickr.com/1830/42209723355_bde9080d03_b.jpg
