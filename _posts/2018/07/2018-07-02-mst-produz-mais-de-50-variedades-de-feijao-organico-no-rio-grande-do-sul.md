@@ -76,3 +76,7 @@ Toda a produ&ccedil;&atilde;o da Apecol &eacute; certificada como org&acirc;nica
 
 <p><br />
 &ldquo;&Eacute; um resgate da sociedade para uma vida sustent&aacute;vel, para uma vida com menos dificuldade, com uma vida mais saud&aacute;vel, porque tu est&aacute; consumindo um produto que te diminui o risco de contamina&ccedil;&atilde;o&rdquo;.</p>
+
+<p>&nbsp;</p>
+
+<p><em>*Editado pelo Brasil de Fato&nbsp;</em></p>
