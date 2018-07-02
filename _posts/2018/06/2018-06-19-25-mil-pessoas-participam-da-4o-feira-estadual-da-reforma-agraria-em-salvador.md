@@ -58,7 +58,7 @@ releated_posts:
   - _posts/2018/06/2018-06-15-artistas-do-interior-e-da-capital-baiana-animam-as-noites-da-4o-feira-estadual-da-reforma-agraria.md
   - _posts/2018/05/2018-05-22-mst-realiza-5o-feira-da-reforma-agraria-no-sertao-central-do-ceara.md
   - _posts/2018/05/2018-05-11-acompanhe-a-producao-audiovisual-realizada-durante-a-iii-feira-nacional-da-reforma-agraria.md
-section: featured-news
+section: null
 
 ---
 <div>
