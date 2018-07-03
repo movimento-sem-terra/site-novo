@@ -7,7 +7,7 @@ tags:
 title: MST lança campanha de 30 anos em MG ocupando as terras de Eike Batista
 support_line: "Essa é a terceira área ocupada de Eike, que possui mais de 10 mil hectares de terra no entorno de Belo Horizonte. A ação inicia a campanha de 30 anos de MST em Minas Gerais, semeando e alimentando a ousadia."
 menu: lutas e mobilizações
-images_hd: //farm1.staticflickr.com/843/43173802131_4e764a2ab8_b.jpg
+images_hd: //farm2.staticflickr.com/1764/42269665685_133793b7aa_b.jpg
 layout: post
 files:
   - link: //farm1.staticflickr.com/843/43173802131_4e764a2ab8_b.jpg
@@ -17,6 +17,13 @@ files:
     small: //farm1.staticflickr.com/843/43173802131_4e764a2ab8_n.jpg
     title: WhatsApp Image 2018-07-03 at 09.46.39.jpeg
     $$hashKey: 06K
+  - link: //farm2.staticflickr.com/1764/42269665685_133793b7aa_b.jpg
+    original: //farm2.staticflickr.com/1764/42269665685_752cb3b8f1_o.jpg
+    thumbnail: //farm2.staticflickr.com/1764/42269665685_133793b7aa_t.jpg
+    medium: //farm2.staticflickr.com/1764/42269665685_133793b7aa_z.jpg
+    small: //farm2.staticflickr.com/1764/42269665685_133793b7aa_n.jpg
+    title: WhatsApp Image 2018-07-03 at 09.51.02.jpeg
+    $$hashKey: 0BX
 created_date: "2018-07-03T10:47:18-03:00"
 published: true
 releated_posts:
@@ -26,6 +33,14 @@ releated_posts:
   - _posts/2018/02/2018-02-06-sim-eu-posso-o-primeiro-passo-para-aprender-a-ler-e-escrever-ja-foi-dado-em-minas-gerais.md
 
 ---
+<p>&nbsp;</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2018-07-03 at 09.51.02.jpeg" height="525" src="//farm2.staticflickr.com/1764/42269665685_133793b7aa_b.jpg" width="700" />
+<figcaption></figcaption>
+</figure>
+</div>
+
 <p>&nbsp;</p>
 
 <p><em>Da P&aacute;gina do MST<br />
@@ -39,6 +54,10 @@ Na madrugada desta ter&ccedil;a-feira (03|07), cerca de 400 fam&iacute;lias do M
 
 <p><br />
 Sabemos que Eike Batista possui mais de 10 mil hectares de terra no entorno de Belo Horizonte. &ldquo;Aqui temos o exemplo dos danos causados por essa empresa falida: a minera&ccedil;&atilde;o ao lado da &aacute;gua, degradando o meio ambiente, enquanto a terra que poderia ser produtiva est&aacute; abandonada&rdquo;, completa a dirigente.</p>
+
+<figure class="image" style="float:left"><img alt="WhatsApp Image 2018-07-03 at 09.46.39.jpeg" height="253" src="//farm1.staticflickr.com/843/43173802131_4e764a2ab8_b.jpg" width="450" />
+<figcaption></figcaption>
+</figure>
 
 <p><br />
 Ap&oacute;s tr&ecirc;s d&eacute;cadas organizando a luta pela terra, pela reforma agr&aacute;ria e pela transforma&ccedil;&atilde;o social, o MST em Minas Gerais possui 42 assentamentos, 4 cooperativas de produ&ccedil;&atilde;o e comercializa&ccedil;&atilde;o, 41 acampamentos e tr&ecirc;s mil fam&iacute;lias acampadas.&nbsp;</p>
