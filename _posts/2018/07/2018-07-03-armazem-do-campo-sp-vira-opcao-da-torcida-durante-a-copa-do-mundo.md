@@ -62,7 +62,7 @@ O que come&ccedil;ou como uma ideia despretensiosa de reunir amigos para assisti
 <p>O espa&ccedil;o, que comercializa produtos oriundos de assentamentos da Reforma Agr&aacute;ria em todo pa&iacute;s, re&uacute;ne a cada jogo da sele&ccedil;&atilde;o brasileira dezenas de pessoas que querem ver um bom futebol, sem se esquecer do atual momento pelo qual passa o pa&iacute;s.</p>
 
 <p><br />
-&ldquo;Queremos, sim, ver um bom jogo, mas, sobretudo, cultivamos a vis&atilde;o cr&iacute;tica em rela&ccedil;&atilde;o &agrave; atual conjuntura brasileira. Torcemos pela nossa sele&ccedil;&atilde;o, mas tamb&eacute;m pela liberdade do ex-presidente Lula, pelo fim do golpe e pelo restabelecimento da democracia no pa&iacute;s&rdquo;, diz Ademar Ludwig, coordenador da rede Armaz&eacute;m do Campo.</p>
+&ldquo;Queremos, sim, ver um bom jogo, mas, sobretudo, cultivamos a vis&atilde;o cr&iacute;tica em rela&ccedil;&atilde;o &agrave; atual conjuntura brasileira. Torcemos pela nossa sele&ccedil;&atilde;o, mas tamb&eacute;m pela liberdade do ex-presidente Lula, pelo fim do golpe e pelo restabelecimento da democracia no pa&iacute;s&rdquo;, afirma&nbsp;Ademar Ludwig, coordenador da rede Armaz&eacute;m do Campo.</p>
 
 <p><br />
 Figuras como o ex-prefeito de S&atilde;o Paulo&nbsp;Fernando Haddad e o cantor e compositor Mateus Aleluia engrossaram o coro pelo hexa na &uacute;ltima segunda-feira durante a partida entre Brasil e M&eacute;xico.</p>
