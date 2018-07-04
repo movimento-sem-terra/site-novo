@@ -7,7 +7,7 @@ tags:
 title: "Com um governo à esquerda, México tem a chance de reverter índices de violência   "
 menu: solidariedade
 images_hd: //farm2.staticflickr.com/1788/29326825408_a3fc4bd035_b.jpg
-support_line: "Atualmente o México passa pelo momento mais violento de sua história, o número de mortes de 2017 superou o de 2011, ano em que a guerra contra os cartéis de drogas estava em pleno curso no país"
+support_line: "Atualmente o país passa pelo momento mais violento de sua história, o número de mortes de 2017 superou o de 2011, ano em que a guerra contra os cartéis de drogas estava em pleno curso "
 layout: post
 files:
   - link: //farm2.staticflickr.com/1788/29326825408_a3fc4bd035_b.jpg
