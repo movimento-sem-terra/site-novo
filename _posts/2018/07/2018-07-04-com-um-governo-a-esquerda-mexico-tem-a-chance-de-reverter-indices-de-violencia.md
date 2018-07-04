@@ -60,7 +60,7 @@ Atualmente o M&eacute;xico passa pelo momento mais violento de sua hist&oacute;r
 
 <p>&nbsp;</p>
 
-<figure class="image" style="float:left"><img alt="07452951_xl.jpg" height="196" src="//farm2.staticflickr.com/1783/41387955720_03a30ccc91_b.jpg" width="350" />
+<figure class="image" style="float:left"><img alt="07452951_xl.jpg" height="225" src="//farm2.staticflickr.com/1783/41387955720_03a30ccc91_b.jpg" width="400" />
 <figcaption>Ex&eacute;rcito nas ruas do M&eacute;xico / Divulga&ccedil;&atilde;o</figcaption>
 </figure>
 
