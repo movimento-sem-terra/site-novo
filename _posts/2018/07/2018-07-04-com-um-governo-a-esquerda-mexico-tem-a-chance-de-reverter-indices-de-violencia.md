@@ -76,13 +76,13 @@ Hoje o M&eacute;xico vive as consequ&ecirc;ncias de um plano falido, a corrup&cc
 Para C&aacute;ssia Bechara do Coletivo de Rela&ccedil;&otilde;es Internacionais do MST, o novo presidente tem um longo desafio pela frente uma vez que n&atilde;o &eacute; f&aacute;cil desmontar uma estrutura alimentada por d&eacute;cadas de governos &agrave; direita.</p>
 
 <p><br />
-&ldquo;Vai ser um grande desafio, assim como a corrup&ccedil;&atilde;o, a seguran&ccedil;a p&uacute;blica &eacute; um dos pontos nevr&aacute;lgicos do M&eacute;xico. Uma retroalimenta a outra. Para termos uma ideia, durante a campanha eleitoral que elegeu Obrador, 145 pol&iacute;ticos foram assassinados em todo o pa&iacute;s, isso sem contar os jornalistas e civis. Estamos confiantes com sua elei&ccedil;&atilde;o, em seu discurso ele afirmou que, &lsquo;mais do que o uso da for&ccedil;a, seu governo atender&aacute; &agrave;s causas que originam a inseguran&ccedil;a no pa&iacute;s&rsquo;. E n&oacute;s sabemos que a desigualdade social e a pobreza s&atilde;o as principais raz&otilde;es para o esfacelamento da seguran&ccedil;a de qualquer territ&oacute;rio&rdquo;, afirma.</p>
+&ldquo;Vai ser um grande desafio, assim como a corrup&ccedil;&atilde;o, a seguran&ccedil;a p&uacute;blica &eacute; um dos pontos nevr&aacute;lgicos do M&eacute;xico. Uma retroalimenta a outra. Para termos uma ideia, durante a campanha eleitoral que elegeu Obrador, 145 pol&iacute;ticos foram assassinados em todo o pa&iacute;s, isso sem contar os jornalistas e civis. Ainda assim, estamos confiantes com sua elei&ccedil;&atilde;o, em seu discurso ele afirmou que, &lsquo;mais do que o uso da for&ccedil;a, seu governo atender&aacute; &agrave;s causas que originam a inseguran&ccedil;a no pa&iacute;s&rsquo;. E n&oacute;s sabemos que a desigualdade social e a pobreza s&atilde;o as principais raz&otilde;es para o esfacelamento da seguran&ccedil;a de qualquer territ&oacute;rio&rdquo;, afirma.</p>
 
 <p><br />
 Ainda segundo Bechara, os &iacute;ndices de vota&ccedil;&atilde;o provam que a popula&ccedil;&atilde;o mexicana est&aacute; disposta a se abrir para um novo projeto de governo e de pa&iacute;s.</p>
 
 <p><br />
-&ldquo;Foi uma grande vit&oacute;ria, quebrar d&eacute;cadas de governos conservadores com amplo apoio da popula&ccedil;&atilde;o simbolizam a conson&acirc;ncia que um governo com tend&ecirc;ncias &agrave; esquerda pode ter com o povo&rdquo;, finaliza.</p>
+&ldquo;Foi uma grande vit&oacute;ria para o povo do M&eacute;xico, mas tamb&eacute;m para todo o povo da Am&eacute;rica Latina e do mundo, quebrar d&eacute;cadas de governos conservadores com amplo apoio da popula&ccedil;&atilde;o simbolizam a conson&acirc;ncia que um governo com tend&ecirc;ncias &agrave; esquerda pode ter com o povo&rdquo;, finaliza.</p>
 
 <p>&nbsp;</p>
 
