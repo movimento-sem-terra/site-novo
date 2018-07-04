@@ -32,7 +32,8 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p><em>Por Cida de Oliveira</em></p>
+<p><em>Por Cida de Oliveira<br />
+Da Rede Brasil Atual</em></p>
 
 <p>&nbsp;</p>
 
