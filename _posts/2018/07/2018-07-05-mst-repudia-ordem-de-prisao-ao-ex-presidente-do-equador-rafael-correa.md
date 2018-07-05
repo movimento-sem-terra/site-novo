@@ -6,7 +6,7 @@ tags:
   - tag: justiça
 title: "MST repudia ordem de prisão ao ex-presidente do Equador, Rafael Correa"
 images_hd: //farm2.staticflickr.com/1783/42311539815_ed72cb893a_b.jpg
-support_line: "\"Não podemos aceitar a mais essa forma de judicialização da política\", diz nota."
+support_line: "\"Não podemos aceitar mais essa forma de judicialização da política\", diz nota."
 menu: direitos humanos
 layout: post
 files:
@@ -49,7 +49,7 @@ Mesmo sem nenhuma prova que o relacione ao sequestro de Balda, havia uma determi
 A persegui&ccedil;&atilde;o &agrave; classe trabalhadora pela maioria do poder judici&aacute;rio &eacute; hist&oacute;rica, no entanto, se aprofunda e se amplia ainda mais nos &uacute;ltimos tempos com processos de persegui&ccedil;&atilde;o pol&iacute;tica a l&iacute;deres de Estados legitimados pelo povo como &eacute; o caso de Correa no Equador e Lula no Brasil.</p>
 
 <p><br />
-N&atilde;o podemos aceitar a mais essa forma de judicializa&ccedil;&atilde;o da pol&iacute;tica e nos somamos a outras vozes que se solidarizam e apoiam Rafael Correa, exigindo a imediata revoga&ccedil;&atilde;o dessa ordem de pris&atilde;o injusta.</p>
+N&atilde;o podemos aceitar mais essa forma de judicializa&ccedil;&atilde;o da pol&iacute;tica e nos somamos a outras vozes que se solidarizam e apoiam Rafael Correa, exigindo a imediata revoga&ccedil;&atilde;o dessa ordem de pris&atilde;o injusta.</p>
 
 <p style="text-align: right;"><br />
 S&atilde;o Paulo, 4 de julho de 2018.</p>
