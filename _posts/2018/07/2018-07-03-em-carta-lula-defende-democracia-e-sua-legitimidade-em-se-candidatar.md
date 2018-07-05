@@ -8,7 +8,7 @@ images_hd: //farm1.staticflickr.com/844/43131177452_c783262fb1_b.jpg
 title: "Em carta, Lula defende democracia e sua legitimidade em se candidatar"
 support_line: "“Se não querem que eu seja Presidente, a forma mais simples de o conseguir é ter a coragem de praticar a democracia e me derrotar nas urnas\", afirma."
 menu: direitos humanos
-section: featured-news
+section: null
 layout: post
 files:
   - link: //farm1.staticflickr.com/844/43131177452_c783262fb1_b.jpg
