@@ -82,7 +82,7 @@ Para C&aacute;ssia Bechara do Coletivo de Rela&ccedil;&otilde;es Internacionais 
 Ainda segundo Bechara, os &iacute;ndices de vota&ccedil;&atilde;o provam que a popula&ccedil;&atilde;o mexicana est&aacute; disposta a se abrir para um novo projeto de governo e de pa&iacute;s.</p>
 
 <p><br />
-&ldquo;Foi uma grande vit&oacute;ria para o povo do M&eacute;xico, mas tamb&eacute;m para todo o povo da Am&eacute;rica Latina e do mundo, quebrar d&eacute;cadas de governos conservadores com amplo apoio da popula&ccedil;&atilde;o simbolizam a conson&acirc;ncia que um governo com tend&ecirc;ncias &agrave; esquerda pode ter com o povo&rdquo;, finaliza.</p>
+&ldquo;Foi uma grande vit&oacute;ria para o povo do M&eacute;xico, mas tamb&eacute;m para todo o povo da Am&eacute;rica Latina e do mundo, quebrar d&eacute;cadas de governos conservadores com amplo apoio da popula&ccedil;&atilde;o simboliza&nbsp;a conson&acirc;ncia que um governo com tend&ecirc;ncias &agrave; esquerda pode ter com o povo&rdquo;, finaliza.</p>
 
 <p>&nbsp;</p>
 
