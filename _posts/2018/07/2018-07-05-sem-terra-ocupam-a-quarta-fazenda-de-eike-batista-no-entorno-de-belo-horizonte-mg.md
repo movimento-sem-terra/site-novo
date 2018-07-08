@@ -8,7 +8,7 @@ title: "Sem Terra ocupam a quarta fazenda de Eike Batista no entorno de Belo Hor
 menu: lutas e mobilizações
 support_line: "A ação também integra a campanha de memória do MST que, em 2018, completou 30 anos de organização em Minas Gerais"
 images_hd: //farm2.staticflickr.com/1830/29344052748_db9235c754_b.jpg
-section: featured-news
+section: null
 layout: post
 files:
   - link: //farm2.staticflickr.com/1790/42497025854_e84b554de0_b.jpg
