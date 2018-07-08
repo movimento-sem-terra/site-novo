@@ -19,3 +19,4 @@ published: true
 releated_posts: []
 
 ---
+<p>&lt;a class=&quot;twitter-timeline&quot; href=&quot;https://twitter.com/Brasil_de_Fato/timelines/1015996865576341505?ref_src=twsrc%5Etfw&quot;&gt;#LulaSolto - Curated tweets by Brasil_de_Fato&lt;/a&gt; &lt;script async src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;</p>
