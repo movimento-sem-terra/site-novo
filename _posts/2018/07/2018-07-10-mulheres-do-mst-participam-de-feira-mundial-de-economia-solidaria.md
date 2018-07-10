@@ -79,6 +79,10 @@ De acordo com a camponesa Salete Carollo, o MST ter&aacute; 13 bancas, que ser&a
 <p>Cerca de 300 mil pessoas s&atilde;o esperadas para os eventos. Quem passar pelo T&uacute;nel da Reforma Agr&aacute;ria, que ter&aacute; cerca de 100 metros de extens&atilde;o, encontrar&aacute; v&aacute;rios tipos de feij&atilde;o e arroz, farinhas de arroz, de trigo e de milho, linha&ccedil;a, suco de uva, geleias de uva e amora, leite em p&oacute;, biscoitos, p&atilde;es, bolachas, cucas, hortifrutigranjeiros, queijos, pizzas pr&eacute;-assadas, batata-doce, ab&oacute;bora, mandioca, amendoim, mel, ovos, melado, caf&eacute;, ervas medicinais, fitoter&aacute;picos e artesanatos variados.</p>
 
 <p><br />
-Os produtos poder&atilde;o ser adquiridos at&eacute; &agrave;s 20 horas, exceto no domingo (15), em que o encerramento das vendas ser&aacute; &agrave;s 18 horas.<br />
+Os produtos poder&atilde;o ser adquiridos at&eacute; &agrave;s 20 horas, exceto no domingo (15), em que o encerramento das vendas ser&aacute; &agrave;s 18 horas.</p>
+
+<p>&nbsp;</p>
+
+<p><em>*Editado por Maura Silva&nbsp;</em><br />
 <br />
 &nbsp;</p>
