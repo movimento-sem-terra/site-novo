@@ -24,7 +24,7 @@ releated_posts:
   - _posts/2018/04/2018-04-30-centrais-sindicais-se-unem-em-curitiba-para-1o-de-maio-por-lula-livre.md
   - _posts/2018/05/2018-05-29-movimentos-que-compoem-a-vigilia-lula-livre-afirmam-que-vao-lutar-contra-acao-de-despejo.md
   - _posts/2018/06/2018-06-12-pf-proibe-visita-de-assessor-do-papa-francisco-a-lula.md
-section: cover
+section: null
 
 ---
-<a class="twitter-timeline" href="https://twitter.com/Brasil_de_Fato/timelines/1015996865576341505?ref_src=twsrc%5Etfw">#LulaSolto - Curated tweets by Brasil_de_Fato</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<p><a class="twitter-timeline" href="https://twitter.com/Brasil_de_Fato/timelines/1015996865576341505?ref_src=twsrc%5Etfw">#LulaSolto - Curated tweets by Brasil_de_Fato</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
