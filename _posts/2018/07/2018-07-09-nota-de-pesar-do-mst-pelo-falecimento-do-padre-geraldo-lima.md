@@ -24,7 +24,7 @@ releated_posts:
   - _posts/2018/01/2018-01-03-patrocinio-henrique-presente.md
   - _posts/2018/03/2018-03-02-theotonio-dos-santos-partiu-um-ser-humano-e-intelectual-transcendente.md
   - _posts/2018/04/2018-04-18-o-mst-presta-solidariedade-a-familia-de-nossa-dirigente-lucineia-duraes-apos-a-tragico-assassinato-de-seu-pai-joao-francisco-do-rosario.md
-section: cover
+section: null
 
 ---
 <p>&nbsp;</p>
