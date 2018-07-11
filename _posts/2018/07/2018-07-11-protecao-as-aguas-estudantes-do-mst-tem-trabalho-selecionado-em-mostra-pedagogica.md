@@ -65,3 +65,7 @@ Para a professora Cenira Hahn, que acompanhou os estudantes, as mostras evidenci
 
 <p><br />
 Tamb&eacute;m foram selecionados para a etapa estadual outros trabalhos da Escola Estadual Justino Quintana, de Bag&eacute;, na categoria S&eacute;ries Finais, e da Escola Estadual Bernardino &Acirc;ngelo, de Dom Pedrito, no Ensino Profissionalizante. Conforme Delcimar Delabary, vice-diretora do 17&ordm; n&uacute;cleo do Cpers, as exposi&ccedil;&otilde;es refor&ccedil;am que &ldquo;a escola p&uacute;blica d&aacute; certo&rdquo;. &ldquo;Elas mostram que temos trabalhos extraordin&aacute;rios&rdquo;, finalizou.</p>
+
+<p>&nbsp;</p>
+
+<p><em>*Editado por Maura Silva&nbsp;</em></p>
