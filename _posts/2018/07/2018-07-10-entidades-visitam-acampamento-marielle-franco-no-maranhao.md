@@ -36,7 +36,9 @@ releated_posts:
   - _posts/2018/06/2018-06-06-ano-de-2017-registra-maior-numero-de-assassinatos-no-campo-dos-ultimos-14-anos.md
 
 ---
-<p><img alt="IMG-20180710-WA0023.jpg" height="394" src="//farm2.staticflickr.com/1785/43277026252_90d7bb4848_b.jpg" width="700" /></p>
+<figure class="image"><img alt="IMG-20180710-WA0023.jpg" height="394" src="//farm2.staticflickr.com/1785/43277026252_90d7bb4848_b.jpg" width="700" />
+<figcaption>Divulga&ccedil;&atilde;o MST&nbsp;</figcaption>
+</figure>
 
 <p>&nbsp;</p>
 
@@ -61,13 +63,13 @@ As entidades Associa&ccedil;&atilde;o dos Moradores do Povoado Piqui&aacute; de 
 <p>As organiza&ccedil;&otilde;es est&atilde;o arrecadando roupas, medicamentos, ferramentas e, principalmente, alimentos para os trabalhadores, que est&atilde;o em situa&ccedil;&atilde;o prec&aacute;ria.</p>
 
 <p><br />
-Os representantes das entidades presentes puderam conhecer a realidade do povo Sem Terra em situa&ccedil;&atilde;o de acampamento. &ldquo;Foi um momento de troca de experi&ecirc;ncias com os trabalhadores rurais e principalmente de aprendizado para n&oacute;s educadores&rdquo;, ressalta o professor Milton Teixeira, que representava o Centro de Defesa dos Direitos Humanos Carmem Bascar&aacute;n, de A&ccedil;ail&acirc;ndia.</p>
+Os representantes das entidades presentes puderam conhecer a realidade do povo Sem Terra em situa&ccedil;&atilde;o de acampamento. &ldquo;Foi um momento de troca de experi&ecirc;ncias com os trabalhadores rurais e principalmente de aprendizado para n&oacute;s educadores&rdquo;, ressalta o professor Milton Teixeira, que representava o Centro de Defesa dos Direitos Humanos Carmem Bascar&aacute;n, do Maranh&atilde;o.</p>
 
 <p><br />
 Nos dias 29 e 30 de junho o Acampamento Marielle ficou por mais de 20 horas sobre o cerco de um grupo de seguran&ccedil;a privada encapuzado e portando armas de fogo. As fam&iacute;lias foram humilhadas e sofreram press&otilde;es psicol&oacute;gicas, mas resistiram.</p>
 
 <p><br />
-Para Arlane Lima, do Sindicado dos Comerci&aacute;rios, o aumento da viol&ecirc;ncia no campo &eacute; vis&iacute;vel. Ele fala da import&acirc;ncia da unidade de classe: &ldquo;Precisamos fortalecer a unidade entre campo e cidade e desarmar este cerco sobre os trabalhadores que ame&ccedil;as direitos, conquistas e garantias sociais&rdquo;.</p>
+Para Arlane Lima, do Sindicado dos Urbanit&aacute;rios, o aumento da viol&ecirc;ncia no campo &eacute; vis&iacute;vel. Ele fala da import&acirc;ncia da unidade de classe: &ldquo;Precisamos fortalecer a unidade entre campo e cidade e desarmar este cerco sobre os trabalhadores que ame&ccedil;as direitos, conquistas e garantias sociais&rdquo;.</p>
 
 <p><br />
 Durante a estadia, os visitantes dialogaram com os trabalhadores atrav&eacute;s de reuni&otilde;es e com visitas aos barracos das fam&iacute;lias. Trocaram informa&ccedil;&otilde;es acerca das diversas realidades que passa cada movimento.</p>
