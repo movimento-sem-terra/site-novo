@@ -54,7 +54,7 @@ Os educandos apresentaram um trabalho sobre a prote&ccedil;&atilde;o das &aacute
 
 <p>&nbsp;</p>
 
-<figure class="image" style="float:left"><img alt="Foto Marciane Fischer.jpeg" height="167" src="//farm2.staticflickr.com/1782/42438299485_e733c3b7ea_b.jpg" width="300" />
+<figure class="image" style="float:left"><img alt="Foto Marciane Fischer.jpeg" height="223" src="//farm2.staticflickr.com/1782/42438299485_e733c3b7ea_b.jpg" width="400" />
 <figcaption>Fotos&nbsp;Marciane Fischer</figcaption>
 </figure>
 
