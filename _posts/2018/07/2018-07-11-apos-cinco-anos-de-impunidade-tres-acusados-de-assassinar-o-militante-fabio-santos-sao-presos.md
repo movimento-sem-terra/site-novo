@@ -5,7 +5,7 @@ tags:
   - tag: violência-no-campo
   - tag: direitos-humanos
 images_hd: //farm1.staticflickr.com/836/43348490431_c536ae6c5e_b.jpg
-title: "Após cinco anos de impunidade, três acusados de assassinar o militante Fabio Santos são presos "
+title: "Após cinco anos de impunidade, quatro acusados de assassinar o militante Fabio Santos são presos "
 support_line: Outros dois acusados estão foragidos. Para o MST a fuga é consequência da divulgação prévia do pedido de prisão feita pelo MPE da Bahia.
 menu: direitos humanos
 layout: post
@@ -76,7 +76,7 @@ O MST&nbsp;avalia que a fuga dos dois denunciados &eacute; consequ&ecirc;ncia da
 <p><strong>Caso&nbsp;</strong></p>
 
 <p><br />
-F&aacute;bio Santos foi uma das principais lideran&ccedil;as do MST no Sudoeste da Bahia. Seu assassinato &eacute; marcado por&nbsp;por cinco anos de impunidade e reviravoltas jur&iacute;dicas.</p>
+F&aacute;bio Santos foi uma das principais lideran&ccedil;as do MST no Sudoeste da Bahia. Seu assassinato &eacute; marcado por cinco anos de impunidade e reviravoltas jur&iacute;dicas.</p>
 
 <p>&nbsp;</p>
 
@@ -91,13 +91,13 @@ A segunda op&ccedil;&atilde;o era a comarca de Planalto. A ju&iacute;za&nbsp;Dan
 A primeira da lista era a ju&iacute;za da comarca de Encruzilhada, Adiane Jaqueline Neves da Silva. Todavia, pouco tempo depois Silva tamb&eacute;m&nbsp;foi promovida para a comarca de Itamb&eacute; e o processo ficou em Encruzilhada. O nome&nbsp;substituto de Encruzilhada (que era o titular de Po&ccedil;&otilde;es) entendeu que o processo n&atilde;o foi sorteado para a comarca, mas sim para a ju&iacute;za e determinou que fosse encaminhado para Itamb&eacute;.</p>
 
 <p><br />
-Mais uma vez a ju&iacute;za se declarou&nbsp;suspeita&nbsp;e o caso&nbsp;foi&nbsp;parar na comarca de Vit&oacute;ria da Conquista, nas m&atilde;os do do juiz&nbsp;Reno Viana Soares que&nbsp;ap&oacute;s cinco anos expediu&nbsp;os mandados de pris&atilde;o.</p>
+Mais uma vez a ju&iacute;za se declarou&nbsp;suspeita&nbsp;e o caso&nbsp;foi&nbsp;parar na comarca de Vit&oacute;ria da Conquista, nas m&atilde;os do juiz&nbsp;Reno Viana Soares que&nbsp;ap&oacute;s cinco anos expediu&nbsp;os mandados de pris&atilde;o.</p>
 
 <p><br />
-Outro ponto&nbsp;que chama aten&ccedil;&atilde;o nesse imbr&oacute;glio judicial &eacute; que quando&nbsp;o caso&nbsp;ainda estava em Iguai&nbsp;a promotora da comarca Solange Anatolio do Esp&iacute;rito Santo&nbsp;fez carga do processo, ou seja, pegou os autos para analisar fora da comarca e, ap&oacute;s mais de um&nbsp;ano em&nbsp;posse dos documentos, tamb&eacute;m se declarou&nbsp;suspeita.</p>
+Outro ponto&nbsp;que chama aten&ccedil;&atilde;o nesse imbr&oacute;glio judicial &eacute; que quando&nbsp;o caso&nbsp;ainda estava em Iguai&nbsp;a promotora da comarca Solange Anatolio, do Esp&iacute;rito Santo, fez carga do processo, ou seja, pegou os autos para analisar fora da comarca e, ap&oacute;s mais de um&nbsp;ano em&nbsp;posse dos documentos, tamb&eacute;m se declarou&nbsp;suspeita.</p>
 
 <p><br />
 Na &eacute;poca,&nbsp;a Procuradoria Geral&nbsp;designou&nbsp;o promotor especializado em quest&otilde;es agr&aacute;rias, Antonio Ferreira Leal Filho, que ent&atilde;o ap&oacute;s quatro&nbsp;anos e tr&ecirc;s&nbsp;meses ofereceu a den&uacute;ncia do caso.&nbsp;</p>
 
 <p><br />
-Durante todos esses anos o MST mobilizou-se&nbsp;com o objetivo de destravar o processo e exigir a puni&ccedil;&atilde;o dos culpados.&nbsp;Foram feitas in&uacute;meras vig&iacute;lias em f&oacute;runs municipais, marchas e&nbsp;ocupa&ccedil;&otilde;es em toda Bahia que tinham como objetivo pressionar a justi&ccedil;a por respostas. A&nbsp;dire&ccedil;&atilde;o do Movimento no estado comemora a pris&atilde;o de parte dos envolvidos na execu&ccedil;&atilde;o de F&aacute;bio e destaca que as lutas em defesa da terra s&atilde;o centrais para garantir dignidade dos trabalhadores e das trabalhadoras do campo e da cidade. O MST afirma ainda que seguir&aacute; cobrando os &oacute;rg&atilde;os competentes at&eacute; que todos os respons&aacute;veis presos.&nbsp;</p>
+Durante todos esses anos o MST mobilizou-se&nbsp;com o objetivo de destravar o processo e exigir a puni&ccedil;&atilde;o dos culpados.&nbsp;Foram feitas in&uacute;meras vig&iacute;lias em f&oacute;runs municipais, marchas e&nbsp;ocupa&ccedil;&otilde;es em toda Bahia que tinham como objetivo pressionar a justi&ccedil;a por respostas. A&nbsp;dire&ccedil;&atilde;o do Movimento no estado comemora a pris&atilde;o de parte dos envolvidos na execu&ccedil;&atilde;o de F&aacute;bio e destaca que as lutas em defesa da terra s&atilde;o centrais para garantir dignidade aos trabalhadores e trabalhadoras do campo e da cidade. O MST afirma ainda que seguir&aacute; cobrando os &oacute;rg&atilde;os competentes at&eacute; que todos os respons&aacute;veis sejam presos.&nbsp;</p>
