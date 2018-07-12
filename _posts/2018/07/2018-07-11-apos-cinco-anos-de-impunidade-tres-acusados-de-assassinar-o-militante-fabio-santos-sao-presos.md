@@ -39,7 +39,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Fábio Santos.jpg" height="450" src="//farm2.staticflickr.com/1765/41539543380_f5f022841d_b.jpg" width="600" />
-<figcaption>F&aacute;bio Santos&nbsp;F&aacute;bio foi assassinado&nbsp; com 15 tiros durante&nbsp;uma emboscada&nbsp;</figcaption>
+<figcaption>F&aacute;bio Santos foi assassinado com 15 tiros durante&nbsp;uma emboscada&nbsp;</figcaption>
 </figure>
 </div>
 
