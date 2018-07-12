@@ -35,6 +35,7 @@ releated_posts:
   - _posts/2018/02/2018-02-20-contra-violencia-no-campo-mst-realiza-culto-ecumenico-em-memoria-de-marcio-matos.md
   - _posts/2018/04/2018-04-11-dois-anos-apos-massacre-de-quedas-do-iguacu-no-parana-nenhum-pm-foi-punido.md
   - _posts/2018/04/2018-04-16-assassinatos-no-campo-batem-novo-recorde-e-atingem-maior-numero-desde-2003.md
+section: cover
 
 ---
 <div style="text-align:center">
