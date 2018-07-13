@@ -50,9 +50,6 @@ releated_posts:
 Da Pagina do MST</em></div>
 
 <div><br />
-<figure class="image" style="float:left"><img alt="IMG_20180705_170335_540.jpg" height="263" src="//farm1.staticflickr.com/916/42420059475_460296d4da_b.jpg" width="350" />
-<figcaption>Divulga&ccedil;&atilde;o MST&nbsp;</figcaption>
-</figure>
 Na madruga da &uacute;ltima quarta-feira (27), cerca de 50 fam&iacute;lias Sem Terra,&nbsp;reocuparam a fazenda Campo do P&oacute;,&nbsp;localizada no munic&iacute;pio de Nova Vi&ccedil;osa, Extremo Sul baiano.</div>
 
 <div>&nbsp;</div>
@@ -71,6 +68,10 @@ Os Sem Terra denunciam o poder Judici&aacute;rio local que n&atilde;o tem levado
 <div><strong>Hist&oacute;rico</strong></div>
 
 <p>&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="IMG_20180705_170335_540.jpg" height="300" src="//farm1.staticflickr.com/916/42420059475_460296d4da_b.jpg" width="400" />
+<figcaption>Divulga&ccedil;&atilde;o MST&nbsp;</figcaption>
+</figure>
 
 <p>A &aacute;rea de&nbsp;3.763 hectares foi ocupada pela primeira vez no m&ecirc;s de abril deste ano durante a Jornada Nacional de Lutas pela Reforma Agr&aacute;ria. A ocupa&ccedil;&atilde;o durou at&eacute; maio, m&ecirc;s em que os Sem Terra receberam&nbsp;uma liminar de despejo.<br />
 <br />
