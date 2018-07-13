@@ -54,3 +54,7 @@ Em suas alega&ccedil;&otilde;es finais, o Minist&eacute;rio P&uacute;blico Feder
 
 <p><br />
 &ldquo;Enquanto o juiz de Bras&iacute;lia, de forma imparcial, negou valor probat&oacute;rio &agrave; dela&ccedil;&atilde;o premiada de Delc&iacute;dio do Amaral por aus&ecirc;ncia de elementos de corrobora&ccedil;&atilde;o, o juiz de Curitiba deu valor absoluto ao depoimento de um corr&eacute;u e delator informal para condenar Lula. Espera-se que a Justi&ccedil;a tamb&eacute;m prevale&ccedil;a no caso do tr&iacute;plex, para restabelecer a liberdade plena de Lula&rdquo;, disse a nota, assinada pelo advogado Cristiano Zanin Martins.</p>
+
+<p>&nbsp;</p>
+
+<p><em>*Editado pelo Brasil de Fato&nbsp;</em></p>
