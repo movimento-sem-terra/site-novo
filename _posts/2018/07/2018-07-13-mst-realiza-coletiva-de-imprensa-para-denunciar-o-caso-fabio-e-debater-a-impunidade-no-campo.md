@@ -6,7 +6,7 @@ tags:
   - tag: bahia
 title: "MST realiza coletiva de imprensa para denunciar o caso Fábio e debater a impunidade no campo\n"
 menu: direitos humanos
-images_hd: //farm1.staticflickr.com/834/42479742535_72df94bd31_b.jpg
+images_hd: //farm1.staticflickr.com/834/29513940578_d587867cb5_b.jpg
 support_line: Durante a coletiva foi debatida a condenação e prisão de quatro dos acusados bem como a morosidade da justiça em relação ao caso
 layout: post
 files:
@@ -46,11 +46,16 @@ releated_posts:
 <div class="a3s aXjCH m16490600455df47b" id=":nt" style="overflow: hidden;">
 <div dir="auto">
 <div dir="auto" style="margin-bottom: 1rem !important;">
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
 <p><em>Por Coletivo de Comunica&ccedil;&atilde;o do MST na Bahia<br />
 Da Pagina do MST</em></p>
 
-<p><br />
-Nesta quinta-feira (12), o MST realizou&nbsp;em Vit&oacute;ria da Conquista, Bahia, uma coletiva de imprensa para denunciar a impunidade no campo e dialogar com a sociedade acerca do&nbsp;caso F&aacute;bio Santos. A atividade reuniu mais de 100 pessoas entre representantes da&nbsp;dire&ccedil;&atilde;o do Movimento, milit&acirc;ncia, amigos e parceiros do MST.</p>
+<p>&nbsp;</p>
+
+<p>Nesta quinta-feira (12), o MST realizou&nbsp;em Vit&oacute;ria da Conquista, Bahia, uma coletiva de imprensa para denunciar a impunidade no campo e dialogar com a sociedade acerca do&nbsp;caso F&aacute;bio Santos. A atividade reuniu mais de 100 pessoas entre representantes da&nbsp;dire&ccedil;&atilde;o do Movimento, milit&acirc;ncia, amigos e parceiros do MST.</p>
 
 <div dir="auto">
 <div>
