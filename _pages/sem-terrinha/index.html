@@ -1,47 +1,99 @@
 ---
-layout: default
-scripts: ["pagination/infinite-scroll.js", "pagination/all_news.js", "special_news.js", "feira/init.js", "feira/jflickrfeed.min.js"]
-external_scripts: ["//cdnjs.cloudflare.com/ajax/libs/masonry/3.3.0/masonry.pkgd.min.js","//cdnjs.cloudflare.com/ajax/libs/jquery-infinitescroll/2.0b2.120519/jquery.infinitescroll.min.js","//cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/3.1.8/imagesloaded.min.js", "//cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.3/moment-with-locales.min.js", "//cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/3.1.8/imagesloaded.min.js", "//cdnjs.cloudflare.com/ajax/libs/jquery.colorbox/1.6.3/jquery.colorbox-min.js"]
-styles: ["jornadas.css", "special_news.css", "tabs.css", "colorbox.css"]
+layout: white_page
+scripts: ["feira-2017/feira-2017.js", "sem-terrinha.js"]
+external_styles: ["https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.css", "https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick-theme.min.css", "https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.0.47/jquery.fancybox.min.css"]
+external_scripts: ["https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js", "https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.js", "https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.0.47/jquery.fancybox.min.js"]
+styles: ["sem-terrinha.css"]
+title: "Encontro Nacional das Crianças Sem Terra"
+description: "A participação de meninas e meninos nos movimentos populares é um exercício de democracia."
+images_hd: "http://farm2.staticflickr.com/1802/29031767058_56441a6ffd_z.jpg"
+image_width: "600"
+image_height: "338"
 ---
 
+<article role="main" class="main-picture" itemscope itemtype="http://schema.org/Event">
 
-<main id="special" class="all-news jornadas"  itemscope itemtype="http://schema.org/Event">
-<article role="main" >
- <img class= "responsive-image" src="//farm1.staticflickr.com/874/27436552617_a2ff0bc947_b.jpg" >
+  <section class="especial-criancas__capa">
+    <img class="especial-criancas__imagem nuvem nuvem-grande" src="/assets/img/sem-terrinha/nuvem.png" alt="Nuvém Ilustração">
+    <img class="especial-criancas__imagem nuvem nuvem-media" src="/assets/img/sem-terrinha/nuvem.png" alt="Nuvém Ilustração">
+    <img class="especial-criancas__imagem nuvem nuvem-menor" src="/assets/img/sem-terrinha/nuvem.png" alt="Nuvém Ilustração">
+    <img class="especial-criancas__imagem sol" src="/assets/img/sem-terrinha/sol.png" alt="Ilustração de um sol">
+    <img class="especial-criancas__imagem pipa" src="/assets/img/sem-terrinha/pipa.png" alt="Ilustração de uma pipa">
+    <img class="especial-criancas__imagem acampamento" src="/assets/img/sem-terrinha/acampamento.png" alt="Ilustração acampamento MST">
+    <img class="especial-criancas__imagem criancas_mst" src="/assets/img/sem-terrinha/galeramst.png" alt="Ilustração crianças MST">
 
-</article>
- <section id="information">
-   <div class="content" itemprop="description" itemscope="" itemtype="http://schema.org/Event" role="contentinfo">
-     <span id="place">
-      <span itempro="name"> Encontro Nacional das Crianças Sem Terrinha </span>  
-     </span>
-   </div>
- </section>
- <section itemprop="description" class="description">
-   <div class="content">
-    <p>A participação de meninas e meninos nos movimentos populares é um exercício de democracia. Fruto de diversas atividades pelo Brasil, desde a primeira mobilização infanto-juvenil de Porto Alegre/RS em 1994, os encontros das crianças do campo têm consolidado a pauta da infância dentro do MST. </p>
-    <p>Na perspectiva de continuidade desse movimento educativo, acontece de 28 a 31 de maio, o 1º Encontro Nacional das Crianças Sem Terrinha no Pavilhão de Exposições do Parque da Cidade, em Brasília.</p>
-  </div>
-   <div class="content">
-     <p>“Sem Terrinha em Movimento: Brincar, Sorrir, Lutar por Reforma Agrária Popular” é o tema do encontro que pretende reunir participantes de todo o país para partilharem vivências da infância camponesa.</p> 
-     <p>O evento contará com cerca de 1200 crianças, acompanhadas por 400 educadores que participarão de uma programação educativa, lúdica e cultural a luz do Estatuto da Criança e do Adolescente (ECA), na perspectiva do direito à educação e alimentação saudável.</p>
-   </div>
- </section>
-
- <section class="youtube-playlist" >
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/playlist?list=PLs_FebLgno7YYzVf0huGzy_uTMHRsg0kC" frameborder="0" allowfullscreen>
-    </iframe>
+    <section class="especial-criancas__titulo">
+      <h1>1º Encontro Nacional</h1>
+      <h2>das Crianças Sem Terrinha</h2>
+      <h3> 23 a 26 de julho 2018 • Brasília - DF</h3>
+    </section>
   </section>
 
-  <section class= "album-de-fotos-abril">
-    <h1 class="header-title">
+  <section class="container">
+
+    <section itemprop="description" id="description" class="description">
+      <div class="content">
+        <p>A participação de meninas e meninos nos movimentos populares é um exercício de democracia. Fruto de diversas atividades
+          pelo Brasil, desde a primeira mobilização infanto-juvenil de Porto Alegre/RS em 1994, os encontros das crianças
+          do campo têm consolidado a pauta da infância dentro do MST. </p>
+      </div>
+      <div class="content">
+        <p>Na perspectiva de continuidade desse movimento educativo, acontece de 23 a 26 de julho, o 1º Encontro Nacional das
+          Crianças Sem Terrinha no Pavilhão de Exposições do Parque da Cidade, em Brasília.</p>
+      </div>
+    </section>
+
+    <section class="youtube-playlist">
+      <h1 class="header-title">
+        Vídeos
+      </h1>
+      <iframe width="640" height="425" src="https://www.youtube.com/embed/playlist?list=PLs_FebLgno7YYzVf0huGzy_uTMHRsg0kC" frameborder="0"
+        allowfullscreen>
+      </iframe>
+    </section>
+
+    <section class="album-de-fotos-kids">
+      <h1 class="header-title">
+        Infância Sem Terra
+      </h1>
+      <a data-flickr-embed="true" data-context="true" href="https://www.flickr.com/photos/mstoficial/43368882421/in/album-72157698531758564/"
+        title="Assentamento Antonio Conselheiro_CE">
+        <img src="https://farm1.staticflickr.com/922/43368882421_2213bc9833_c.jpg" width="800" height="663" alt="Assentamento Antonio Conselheiro_CE">
+      </a>
+      <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+    </section>
+
+    <section class="cards">
+      <h1 class="header-title"> Campanha de Arrecadação </h1>
+      <div class="cartaz escrito">
+      </div>
+
+      <div class="imagem-apoio">
+        <img class="lateral-img" src="/assets/img/sem-terrinha/girlescreve.png" alt="Ilustração de uma menina desenhando">
+        <figure class="frase">
+          <figcaption>
+            <img class="card-campanha" src="/assets/img/sem-terrinha/agradecimento.png" alt="Ilustração pipa">
+          </figcaption>
+        </figure>
+        <img class="lateral-img" src="/assets/img/sem-terrinha/boyescreve.png" alt="Ilustração de um menino escrevendo Viva Cuba! ">
+      </div>
+    </section>
+
+    <section class="album-de-fotos-kids">
+      <h1 class="header-title">
         Fotos
-     </h1>
-     <a data-flickr-embed="true"  href="https://www.flickr.com/photos/mstoficial/sets/72157688307957236" title="Encontro Nacional de Crianças Sem Terrinha"><img src="https://c1.staticflickr.com/4/3770/33249391176_3048b57524_z.jpg" width="640" height="426" alt="Encontro Nacional de Crianças Sem Terrinha"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-  </section> 
-   <h2>Leia mais!</h2>
-   <section class="container">
-   </section>
- </aside>
-</main>
+      </h1>
+      <a data-flickr-embed="true" data-context="true" href="https://www.flickr.com/photos/mstoficial/37006040721/in/album-72157688307957236/"
+        title="Rumo ao Encontro Nacional das Crianças Sem Terrinha">
+        <img src="https://farm5.staticflickr.com/4362/37006040721_681cf9f644_z.jpg" width="640" height="425" alt="Rumo ao Encontro Nacional das Crianças Sem Terrinha">
+      </a>
+      <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+    </section>
+
+    <aside class="releated" role="complementary">
+      <h2 class="header-title">Leia mais!</h2>
+      <section class="container">
+      </section>
+    </aside>
+  </section>
+</article>
