@@ -1,0 +1,235 @@
+---
+---
+
+@import "../bourbon/bourbon";
+@import "../neat/neat";
+@import "../_sass/variables";
+@import "../_sass/_includes/mixins";
+
+@font-face {
+    font-family: SemTerrinhaFonte;
+    src: url(/assets/fonts/sem-terrinha/Letters_for_learners.ttf);
+  }
+  
+  @font-face {
+    font-family: SemTerrinhaTituloFonte;
+    src: url(/assets/fonts/sem-terrinha/Huruf_Miranti.ttf);
+  }
+  
+//   *{
+//     box-sizing: border-box;
+//   }
+  
+//   .sem-terrinha{
+//     background-color: #FFFFFF;
+//     margin: 0;
+//     font-family: SemTerrinhaFonte;
+//     font-size: 1.5em;
+    
+//   }
+  
+  .header-title {
+    margin: 0;
+    color:#555;
+    font-size: 3em;
+  }
+  
+  .main-picture{
+    display: flex;
+    flex-direction: column;
+  }
+   
+  .especial-criancas__capa {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;  
+    background-image: url(/assets/img/sem-terrinha/ceu.png);
+    background-attachment: fixed;
+    background-repeat: no-repeat; 
+    background-size: cover;
+    position: relative;
+  }
+  
+  .especial-criancas__titulo {
+    font-family: SemTerrinhaTituloFonte;
+    z-index: 1000;
+    max-width: 600px;
+    h1 {
+      text-transform: uppercase;
+      font-size: 45px;
+      margin: 0;
+      letter-spacing: 3px;
+      text-align: center;
+      color: #CC221A;
+    }
+    h2 {
+      font-size: 38px;
+      margin-top: 10px;
+      letter-spacing: 3px;
+      text-align: center;
+      color: #007149;
+    }
+    h3 {
+      font-size: 33px;
+      border-top: 1px solid black;
+      margin-top: 10px;
+      padding-top: 10px;
+      letter-spacing: 3px;
+      color: #4b4b4d;
+    }
+  }
+  
+  .nuvem{
+    position: absolute;
+  
+    &-grande {
+      top: 50px;
+      left: 50px;
+      width: 200px;
+    }
+    &-media{
+      top: 200px;
+      left: 120px;
+      width: 100px;
+    }
+    &-menor{
+      top: 170px;
+      left: 20px;
+      width: 80px;
+    }
+  }
+  
+  .sol{
+    position: absolute;
+    right: 10px;
+    width: 200px;
+    top: 10px;
+  }
+  
+  .kids{
+    width: 50%;
+    height: 50%;
+  }
+  
+  .acampamento{
+    position: absolute;
+    left: 10px;
+    bottom: 10px;
+    width: 300px;
+  }
+  
+  .criancas_mst{
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+    width: 300px;
+  }
+  .pipa {
+    width: 100px;
+    position: absolute;
+    right: 350px;
+    bottom: 405px;
+  }
+  
+  
+  
+  .especial-criancas__imagem{
+    @include media($screen-xs) {
+  
+    }
+     
+   
+  
+  }
+  .content{
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  
+  .description {
+    width: 100vw;
+    height: 80vh;
+    color: #555;
+    font-weight: 300;
+    padding: 10px;
+    font-size: 1.3em;
+    display: flex;
+    align-items: center;
+  }
+  
+  .youtube-playlist {
+    background-image: url("https://farm4.staticflickr.com/3726/10420515913_74c801a0b4_b.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: 60vh;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    align-items: center;
+    padding: 15px; 
+    @include media($tablet) {
+      padding: 20px;
+      box-shadow: inset 0px 0 5px 0px black;
+      }
+    }
+  
+  .album-de-fotos-kids {
+    background-image: url("//farm1.staticflickr.com/895/42072540545_2761b4df11_b.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    margin-top: 15px; 
+  }
+  
+  .cards{
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 80vh;
+    padding: 20px 0;
+   
+  
+    .escrito{
+      display: flex;
+      align-items: center;
+      flex-direction: column; 
+    }
+    .imagem-apoio{
+      display: flex;
+      justify-content: space-around;
+      align-items: center; 
+      width: 100vw;
+      overflow: hidden;
+    }
+  
+    .lateral-img{
+    width: 20%;
+  }
+  
+  .card-campanha {
+    width: 50vw;
+    max-width: 600px;
+    transition: transform .6s ease-in-out;
+  }
+  
+  img:hover {
+    transform: scale(1.05);
+  }
+    @include media($tablet) {
+      max-width: 800px;
+      align-self: center;
+    }
+  }
