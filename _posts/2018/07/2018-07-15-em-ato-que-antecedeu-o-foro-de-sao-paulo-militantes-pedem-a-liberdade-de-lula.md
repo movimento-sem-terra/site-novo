@@ -57,7 +57,7 @@ releated_posts:
 <p>Come&ccedil;ou&nbsp;hoje (15) em Havana,&nbsp;o XXVI Encontro do Foro de S&atilde;o Paulo. Durante quatro dias capital cubana ser&aacute; anfitri&atilde; dos partidos de esquerda e movimentos progressistas latino-americanos.&nbsp;</p>
 
 <p><br />
-<strong>Em Cuba exigimos&nbsp;liberdade agora</strong></p>
+<strong>&quot;Em Cuba exigimos&nbsp;liberdade agora&quot;</strong></p>
 
 <p>&nbsp;</p>
 
@@ -74,7 +74,7 @@ Os manifestantes exigiram sua liberdade imediata e denunciaram sua pris&atilde;o
 &quot;A luta pela soltura imediata de Luiz In&aacute;cio Lula da Silva n&atilde;o significa s&oacute;&nbsp;gesto de&nbsp;solidariedade ao presidente mais popular do Brasil. Significa tamb&eacute;m&nbsp;um&nbsp;gesto de solidariedade a todos brasileiros&nbsp;e&nbsp;brasileiras. Um gesto de exig&ecirc;ncia para que se respeite a justi&ccedil;a, pilar b&aacute;sico de qualquer&nbsp;sistema fundamentalmente democr&aacute;tico&quot;, afirmaram em documento.&nbsp;</p>
 
 <p><br />
-O Foro tamb&eacute;m convoca todas e todos para a luta diante do atual cen&aacute;rio brasileiro: &quot;Lula &eacute;&nbsp;um&nbsp;preso pol&iacute;tico em um pa&iacute;s em que o estado de direito est&aacute; em crise, com o pa&iacute;s &agrave; deriva, com o aumento da ascens&atilde;o dos riscos&nbsp;de naufr&aacute;gio, &eacute;&nbsp;imperativo retomar com urg&ecirc;ncia o rumo&nbsp;da normalidade. E isso s&oacute; ser&aacute; poss&iacute;vel atrav&eacute;s de elei&ccedil;&otilde;es livres que representam a vontade popular. Nos somamos a luta contra a arbitrariedade contra Lula. Exigimos sua liberdade e diante do atual cen&aacute;rio convocamos todo o povo para defender Lula e a democracia no Brasil&quot;.&nbsp;&nbsp;</p>
+O Foro tamb&eacute;m convocou&nbsp;todas e todos para a luta diante do atual cen&aacute;rio brasileiro: &quot;Lula &eacute;&nbsp;um&nbsp;preso pol&iacute;tico em um pa&iacute;s em que o estado de direito est&aacute; em crise, com o pa&iacute;s &agrave; deriva, com o aumento da ascens&atilde;o dos riscos&nbsp;de naufr&aacute;gio, &eacute;&nbsp;imperativo retomar com urg&ecirc;ncia o rumo&nbsp;da normalidade. E isso s&oacute; ser&aacute; poss&iacute;vel atrav&eacute;s de elei&ccedil;&otilde;es livres que representam a vontade popular. Nos somamos a luta contra a arbitrariedade contra Lula. Exigimos sua liberdade e diante do atual cen&aacute;rio convocamos todo o povo para defender Lula e a democracia no Brasil&quot;.&nbsp;&nbsp;</p>
 
 <p><br />
 Saiba mais sobre a confer&ecirc;ncia&nbsp;<a href="http://forodesaopaulo.org/">aqui</a>.</p>
