@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-gem 'jekyll', '~> 3.1.2'
+gem 'jekyll', '~> 3.8.2'
 gem 'jekyll-sitemap', '~> 0.10'
 gem 'neat', '~> 1.7.2'
 gem 'bourbon', '~> 4.3.4'

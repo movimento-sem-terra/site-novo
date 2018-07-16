@@ -2,5 +2,5 @@
 layout: null
 ---
 {% assign editoria = "internacional" %}
-{% assign posts = site.posts | where: "menu", editoria | where_not: "section", ["tv","campaign","newspaper"] %}
+{% assign posts = site.posts | where: "menu", editoria | where_not: "section", "tv","campaign","newspaper" %}
 {% include posts.json posts=posts %}

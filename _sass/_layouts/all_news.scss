@@ -8,7 +8,7 @@ main.all-news {
       padding-bottom: 5px;
       border-radius: 3px;
       width: 100%;
-
+      max-width: 370px;
 
       @include media($screen-sm) {
         width: 48%;

@@ -5,7 +5,7 @@
       <a href='/artigos' title='ver todos os artigos'>Opinião</a>
   </h2>
   <ul>
-    {% for post in posts | limit:3 %}
+    {% for post in posts limit:3 %}
 	    <li>
          {% include headline-with-image.html post=post support_line=true thumbnail=true %}
 	    </li>

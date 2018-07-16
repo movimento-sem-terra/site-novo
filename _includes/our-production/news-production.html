@@ -5,7 +5,7 @@
 <div class="content">
   <section id="know-more">
     <h4>Saiba mais</h4>
-    {% for post in know_more | limit: 5 %}
+    {% for post in know_more limit: 5 %}
       {% assign thumbnail = post | find_image: 'tiny' %}
       <div class="news">
         <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">
@@ -27,7 +27,7 @@
   <div id="others-container">
     <section id="keep-an-eye">
       <h4>Fique de olho</h4>
-      {% for post in keep | limit: 1 %}
+      {% for post in keep limit: 1 %}
         <div class='news'>
           <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">
             <img src="{{ post | find_image: 'hd' }}" />
@@ -40,7 +40,7 @@
     <div id="others" >
       <section id="video">
         <h4>Vídeos</h4>
-        {% for post in videos | limit: 2 %}
+        {% for post in videos limit: 2 %}
           <div class="news">
             <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">
               <iframe width="100%" src="{{ post.video | get_video_embeded }}" allowfullscreen frameborder="0"></iframe>

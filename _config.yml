@@ -8,6 +8,7 @@ asset_pipeline:
   gzip: true
 facebook: 784439748288439
 sass:
+  add_charset: true
   style: :compressed
 collections:
   banners:

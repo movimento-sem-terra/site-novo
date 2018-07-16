@@ -149,7 +149,7 @@ external_scripts: ["//code.jquery.com/jquery-3.1.0.min.js","//cdnjs.cloudflare.c
 <section class="noticias" id="noticias">
   {% assign posts = site.posts  | where: "special-page", "festival" %}
   <article class="container">
-  {% for post in posts | limit: 8 %}
+  {% for post in posts limit: 8 %}
   <div class="item">
     <article class="headline">
       {% if post.images_hd and post.images_hd != '' %}

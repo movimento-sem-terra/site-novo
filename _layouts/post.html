@@ -6,7 +6,7 @@ external_scripts: ["https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.19.1/mome
 ---
 
 <main class="post">
-  {% if page.section == 'musicoteca' and (page.type == 'tape' or page.type == 'album') %}
+  {% if page.type == 'tape' or page.type == 'album'  %}
     {% include musicoteca/album.html album = page %}
   {% else %}
 	  {% if page.section == 'tv'%}

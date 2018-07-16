@@ -25,14 +25,14 @@ layout: default
          </p>
        </details>
      {% endif %}
-    
+
   </header>
 
   {% if news.size > 0 %}
     <section class="news">
       <h2 class="hat">Notícias</h2>
       <ul>
-        {% for post in news | limit:3 %}
+        {% for post in news limit:3 %}
           <li>
             {% include headline-with-image.html post=post %}
           </li>
@@ -48,7 +48,7 @@ layout: default
     <section class="videos">
       <h2 class="hat">Vídeos</h2>
       <ul>
-        {% for post in videos | limit:3 %}
+        {% for post in videos limit:3 %}
           <li>
             {% include headline-with-video.html post=post %}
           </li>

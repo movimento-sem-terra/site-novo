@@ -15,7 +15,7 @@
 
   <div>
     <h3>Fique por dentro</h3>
-    {% for post in news | limit: 3 %}
+    {% for post in news limit: 3 %}
       <div class='news'>
         <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">
           <img src="{{ post | find_image: 'hd' }}" />
