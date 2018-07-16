@@ -75,7 +75,7 @@ Durante a coletiva foi debatida a condena&ccedil;&atilde;o e pris&atilde;o de qu
 Durante a coletiva tamb&eacute;m foi denunciada pelo Movimento&nbsp; o vazamento de informa&ccedil;&otilde;es sigilosas do caso permitindo que dois dos seis acusados fugissem.</p>
 
 <p><br />
-Ainda segundo Costa: &ldquo;O&nbsp;MST&nbsp;ir&aacute; tolerar&nbsp;a viol&ecirc;ncia e a criminaliza&ccedil;&atilde;o dos trabalhadores, por isso, lutaremos para que os outros dois criminosos sejam presos o quanto antes. Isso n&atilde;o s&oacute; nos garante a justi&ccedil;a do caso F&aacute;bio, mas tamb&eacute;m a seguran&ccedil;a dos outros companheiros da regi&atilde;o</p>
+Ainda segundo Costa: &ldquo;O&nbsp;MST n&atilde;o ir&aacute; tolerar&nbsp;a viol&ecirc;ncia e a criminaliza&ccedil;&atilde;o dos trabalhadores, por isso, lutaremos para que os outros dois criminosos sejam presos o quanto antes. Isso n&atilde;o s&oacute; nos garante a justi&ccedil;a do caso F&aacute;bio, mas tamb&eacute;m a seguran&ccedil;a dos outros companheiros da regi&atilde;o</p>
 
 <p>&nbsp;</p>
 
