@@ -4,7 +4,7 @@ tags:
   - tag: arte-e-cultura
   - tag: formação
   - tag: paraná
-title: Região Sul realiza curso de artes e cultura
+title: Região Sul realiza curso de arte e cultura
 support_line: A arte e a cultura fazem parte da construção da identidade Sem Terra e está presente desde o surgimento do MST.
 menu: "educação, cultura e comunicação"
 images_hd: //farm2.staticflickr.com/1786/29603709948_d0bab5a0b7_b.jpg
@@ -28,7 +28,9 @@ releated_posts:
   - _posts/2018/02/2018-02-23-parana-trabalho-voluntario-e-metodo-sim-eu-posso-propicia-que-mais-adultos-leiam-o-mundo.md
 
 ---
-<p><img alt="41648194350_e8bebe1656_k.jpg" height="467" src="//farm2.staticflickr.com/1786/29603709948_d0bab5a0b7_b.jpg" width="700" /></p>
+<figure class="image"><img alt="41648194350_e8bebe1656_k.jpg" height="467" src="//farm2.staticflickr.com/1786/29603709948_d0bab5a0b7_b.jpg" width="700" />
+<figcaption>Divulga&ccedil;&atilde;o MST&nbsp;</figcaption>
+</figure>
 
 <p>&nbsp;</p>
 
