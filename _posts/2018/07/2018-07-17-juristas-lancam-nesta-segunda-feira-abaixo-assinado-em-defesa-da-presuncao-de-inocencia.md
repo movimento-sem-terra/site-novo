@@ -4,7 +4,7 @@ tags:
   - tag: lula-livre
   - tag: juristas
   - tag: lutas
-title: "Juristas lançam nesta segunda-feira abaixo-assinado em defesa da presunção de inocência\n"
+title: "Juristas lançam abaixo-assinado em defesa da presunção de inocência\n"
 support_line: "Abaixo-assinado será entregue ao STF em setembro\n"
 images_hd: //farm1.staticflickr.com/847/43468067371_1260f56514_b.jpg
 menu: direitos humanos
