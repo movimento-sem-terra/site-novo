@@ -42,6 +42,8 @@ releated_posts:
 
 <div dir="auto">&nbsp;</div>
 
+<div dir="auto">&nbsp;</div>
+
 <div dir="auto"><em>Por&nbsp;Amanda Audi e Thallita Essi&nbsp;<br />
 Do Congresso em Foco </em></div>
 
@@ -56,6 +58,7 @@ Do Congresso em Foco </em></div>
 O parlamentar fez carreira como produtor de soja na regi&atilde;o de Marialva antes de entrar na pol&iacute;tica. Ele nega que ser&aacute; beneficiado caso o projeto vire lei.</div>
 
 <div dir="auto"><br />
+<br />
 Uma das empresas de Nishimori, a Mariagro Agricultura, chegou a vender um volume t&atilde;o grande de agrot&oacute;xicos que bateu a meta de vendas estipulada pela Syngenta, multinacional que fabrica defensivos. Segundo o deputado, sua empresa teve de entrar na Justi&ccedil;a para receber o pr&ecirc;mio em dinheiro. O processo ainda est&aacute; em aberto. Para Nishimori, a abertura do processo indica sua isen&ccedil;&atilde;o com rela&ccedil;&atilde;o a grandes ind&uacute;strias de agrot&oacute;xico.</div>
 
 <div dir="auto"><br />
