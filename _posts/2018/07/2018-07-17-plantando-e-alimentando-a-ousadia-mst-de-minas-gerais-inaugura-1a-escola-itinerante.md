@@ -58,13 +58,13 @@ Da P&aacute;gina do MST&nbsp;</em></p>
 <p>&nbsp;</p>
 </div>
 
-<div>Em comemora&ccedil;&atilde;o aos 30 anos do Movimento no estado, o setor de forma&ccedil;&atilde;o se desafiou a construir um curso b&aacute;sico de forma&ccedil;&atilde;o pol&iacute;tica seja leve conhecimento para todas as &aacute;reas do MST.</div>
+<div>Em comemora&ccedil;&atilde;o aos 30 anos do Movimento no estado, o setor de forma&ccedil;&atilde;o se desafiou a construir um curso b&aacute;sico de forma&ccedil;&atilde;o pol&iacute;tica que&nbsp;leve conhecimento para todas as &aacute;reas do MST.</div>
 
 <div><br />
 <br />
 A primeira etapa aconteceu entre quarta-feira (11) e s&aacute;bado (14) na Regional Rosinha Maxacali, no Vale do Jequitinhonha. Esta &eacute; a primeira vez que um curso com essa caracter&iacute;stica ir&aacute; circular pelas regionais do estado.&nbsp; A&nbsp;inten&ccedil;&atilde;o dos educadores &eacute;&nbsp;trabalhar temas como a organicidade, a quest&atilde;o agr&aacute;ria, a conjuntura, a hist&oacute;ria e os desafios do MST no pr&oacute;ximo per&iacute;odo.</div>
 
-<div><br />
+<div>&nbsp;
 <figure class="image" style="float:left"><img alt="seleção (41).JPG" height="267" src="//farm1.staticflickr.com/840/29600626018_27467dace4_b.jpg" width="400" />
 <figcaption>Foto Agatha Azevedo</figcaption>
 </figure>
