@@ -43,10 +43,10 @@ Fotos de&nbsp;Juliana Adriano</em></p>
 <p>Na manh&atilde; desta segunda-feira (16), iniciou-se a I Escola de Arte da Regi&atilde;o Sul. O curso acontece na Escola Latino Americana de Agroecologia (ELAA), localizado no Assentamento Contestado, na Lapa-PR, com cerca de 78 educandos e educandas dos tr&ecirc;s estado da regi&atilde;o Sul.</p>
 
 <p><br />
-O curso cumpre dois objetivos. O primeiro &eacute; de construir um processo de forma&ccedil;&atilde;o de consci&ecirc;ncia usando as potencialidades as diferentes linguagens art&iacute;sticas e, ainda, propiciar aos artistas Sem Terras um aprimoramento das t&eacute;cnicas art&iacute;sticas, al&eacute;m da troca de experi&ecirc;ncia.</p>
+O curso cumpre dois objetivos. O primeiro &eacute; de construir um processo de forma&ccedil;&atilde;o de consci&ecirc;ncia usando as potencialidades das diferentes linguagens art&iacute;sticas e, ainda, propiciar aos artistas Sem Terra o aprimoramento das t&eacute;cnicas art&iacute;sticas, al&eacute;m da troca de experi&ecirc;ncias.</p>
 
 <p><br />
-A arte e a cultura fazem parte da constru&ccedil;&atilde;o da identidade Sem Terra e est&aacute; presente desde o surgimento do MST, alega&nbsp;Sylviane Guilherme, integrante da coordena&ccedil;&atilde;o do curso.&nbsp;&ldquo;Pensar a cultura e criar espa&ccedil;os para desenvolvimento art&iacute;stico&nbsp;nos nossos espa&ccedil;os significa que mais pessoas passam a compreender a arte como elemento t&aacute;tico e fundamental em nossa luta&rdquo;, explica.</p>
+A arte e a cultura fazem parte da constru&ccedil;&atilde;o da identidade Sem Terra e est&aacute; presente desde o surgimento do MST, alega&nbsp;Sylviane Guilherme, integrante da coordena&ccedil;&atilde;o do curso.&nbsp;&ldquo;Pensar a cultura e criar espa&ccedil;os para desenvolvimento art&iacute;stico&nbsp;significa que mais pessoas passam a compreender a arte como elemento t&aacute;tico e fundamental em nossa luta&rdquo;, explica.</p>
 
 <p><br />
 A ideia do curso surge em 2017, ap&oacute;s o segundo Encontro de Arte e Cultura que define a necessidade de reunir e ampliar o fazer art&iacute;stico e cultural nas escolas, assentamentos e espa&ccedil;os de conv&iacute;vio coletivo.&nbsp;</p>
