@@ -46,7 +46,9 @@ O n&atilde;o cumprimento deste princ&iacute;pio afeta diariamente a popula&ccedi
 &quot;O espet&aacute;culo que se criou para justificar a pris&atilde;o do ex-presidente Lula acentua ainda mais esse risco, porque tem o apoio midi&aacute;tico que criou uma apar&ecirc;ncia de legalidade na execu&ccedil;&atilde;o da pena antes que se tenha comprovada a forma&ccedil;&atilde;o de sua culpa, em um processo em que desde o in&iacute;cio h&aacute; o questionamento de inexist&ecirc;ncia de provas&rdquo; complementa o jurista.&nbsp;</p>
 
 <p><br />
-Al&eacute;m da coleta de assinaturas, que devem ser entregues ao Supremo Tribunal Federal (STF) em setembro, est&atilde;o previstas outras atividades no pr&oacute;ximo per&iacute;odo como parte da Campanha em Defesa da Presun&ccedil;&atilde;o de Inoc&ecirc;ncia.&nbsp;<br />
+Al&eacute;m da coleta de assinaturas, que devem ser entregues ao Supremo Tribunal Federal (STF) em setembro, est&atilde;o previstas outras atividades no pr&oacute;ximo per&iacute;odo como parte da Campanha em Defesa da Presun&ccedil;&atilde;o de Inoc&ecirc;ncia.&nbsp;</p>
+
+<p><br />
 No dia 3 de agosto acontecer&aacute; um debate sobre o tema e no dia 16 do mesmo m&ecirc;s um ato pol&iacute;tico de lan&ccedil;amento oficial da campanha, os dois eventos acontecer&atilde;o na Faculdade de Direito da Universidade de S&atilde;o Paulo.&nbsp;</p>
 
 <p><br />
