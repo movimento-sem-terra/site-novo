@@ -23,6 +23,7 @@ releated_posts:
   - _posts/2018/06/2018-06-21-chico-buarque-e-martinho-da-vila-convocam-para-o-festival-lula-livre.md
   - _posts/2018/06/2018-06-22-vim-dar-um-abraco-em-um-querido-amigo-que-luta-diz-mujica.md
   - _posts/2018/06/2018-06-28-cartas-para-lula-marcam-o-inicio-da-caravana-sem-terra-em-alagoas.md
+section: featured-news
 
 ---
 <div style="text-align:center">
