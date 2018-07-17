@@ -88,9 +88,9 @@ Desejo um bom encontro a voc&ecirc;s e quero reafirmar meu inconformismo por est
 
 <div>&nbsp;</div>
 
-<div style="text-align: right;"><br />
+<div><br />
 Um grande abra&ccedil;o do Lula.</div>
 
-<div style="text-align: right;">&nbsp;</div>
+<div>&nbsp;</div>
 
 <div><em>*Com tradu&ccedil;&atilde;o do Brasil de Fato&nbsp;</em></div>
