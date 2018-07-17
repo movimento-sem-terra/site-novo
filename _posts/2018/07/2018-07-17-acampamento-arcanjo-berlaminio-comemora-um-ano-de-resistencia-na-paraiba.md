@@ -102,11 +102,11 @@ Localizado em Pedras de Fogo, munic&iacute;pio entre Para&iacute;ba e Pernambuco
 <figcaption>Foto Thais Peregrino&nbsp;</figcaption>
 </figure>
 
-<p>Segundo Ronaldo, da coordena&ccedil;&atilde;o do acampamento, as terras ocupadas nunca estiveram nas m&atilde;os da agricultura familiar. &quot;Apesar de ser uma &aacute;rea que n&atilde;o tivemos o confronto direto com o latif&uacute;ndio, &eacute; uma<br />
+<p>Segundo Ronaldo Costa, da coordena&ccedil;&atilde;o do acampamento, as terras ocupadas nunca estiveram nas m&atilde;os da agricultura familiar. &quot;Apesar de ser uma &aacute;rea que n&atilde;o tivemos o confronto direto com o latif&uacute;ndio, &eacute; uma<br />
 &aacute;rea bastante dif&iacute;cil devido a monocultura do&nbsp;bambu, hoje a nossa luta maior &eacute; desbravar esse bambu e trabalhar o solo que nunca experimentou a agricultura familiar&quot;,&nbsp;afirmou.</p>
 
 <p><br />
-Ainda segundo Ronaldo, a luta &eacute; o melhor caminho para o trabalhador frente a essa conjuntura. &quot;Essa comemora&ccedil;&atilde;o significa o primeiro ano de resist&ecirc;ncia. Resist&ecirc;ncia n&atilde;o s&oacute; pela&nbsp;terra, mas, tamb&eacute;m, por essa&nbsp;conjuntura dif&iacute;cil que enfrentamos hoje&quot;, concluiu.</p>
+Ainda segundo Costa, a luta &eacute; o melhor caminho para o trabalhador frente a essa conjuntura. &quot;Essa comemora&ccedil;&atilde;o significa o primeiro ano de resist&ecirc;ncia. Resist&ecirc;ncia n&atilde;o s&oacute; pela&nbsp;terra, mas, tamb&eacute;m, por essa&nbsp;conjuntura dif&iacute;cil que enfrentamos hoje&quot;, concluiu.</p>
 
 <p><br />
 <strong>Homenagens&nbsp;</strong></p>
