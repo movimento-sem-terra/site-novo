@@ -18,8 +18,15 @@
 
 .header-title {
   margin: 0;
-  color:#555;
+  color: #555;
   font-size: 3em;
+  font-family: SemTerrinhaTituloFonte;
+  margin-bottom: 20px;
+  font-weight: bold;
+}
+
+.container {
+  padding: 0;
 }
 
 .main-picture{
@@ -158,32 +165,32 @@
   bottom: 405px;
 }
 
-.especial-criancas__imagem{
-  @include media($screen-xs) {
-
-  }
-
-}
-
-.content{
-  max-width: 600px;
-  margin: 0 auto;
-}
-
-
 .description {
+  background-image: url("https://farm4.staticflickr.com/3726/10420515913_74c801a0b4_b.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
   width: 100vw;
-  height: 80vh;
   color: #555;
   font-weight: 300;
   padding: 10px;
   font-size: 1.3em;
   display: flex;
   align-items: center;
+  justify-content: space-evenly;
+  flex-direction: column;
+  padding: 10% 30px;
+}
+
+.description__paragraph {
+  max-width: 600px;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: SemTerrinhaFonte;
 }
 
 .youtube-playlist {
-  background-image: url("https://farm4.staticflickr.com/3726/10420515913_74c801a0b4_b.jpg");
+  background-image: url("//farm1.staticflickr.com/895/42072540545_2761b4df11_b.jpg");
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
@@ -195,10 +202,7 @@
   flex-direction: column;
   align-items: center;
   padding: 15px;
-  @include media($tablet) {
-    padding: 20px;
-    box-shadow: inset 0px 0 5px 0px black;
-  }
+  padding-top: 40px;
 }
 
 .album-de-fotos-kids {
@@ -211,24 +215,18 @@
   align-content: center;
   flex-direction: column;
   align-items: center;
-  padding: 20px;
-  margin-top: 15px;
+  padding: 15px;
+  padding-top: 40px;
 }
 
-.cards{
+.especial-criancas__campanha {
   width: 100vw;
   display: flex;
   flex-direction: column;
   align-items: center;
-  min-height: 80vh;
-  padding: 20px 0;
+  padding: 15px;
+  padding-top: 40px;
 
-
-  .escrito{
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-  }
   .imagem-apoio{
     display: flex;
     justify-content: space-around;
@@ -237,21 +235,48 @@
     overflow: hidden;
   }
 
-  .lateral-img{
-    width: 20%;
-  }
-
   .card-campanha {
-    width: 50vw;
+    width: 100%;
     max-width: 600px;
-    transition: transform .6s ease-in-out;
+  }
+}
+
+.especial-criancas__campanha-image {
+  position: absolute;
+  display: none;
+  max-width: 200px;
+
+  &-right {
+   right: 0;
   }
 
-  img:hover {
-    transform: scale(1.05);
+  &-left {
+   left: 0;
   }
-  @include media($tablet) {
-    max-width: 800px;
-    align-self: center;
+
+  @include media($screen-xs) {
+    display: block;
+  }
+}
+
+.especial-criancas__read-more {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.especial-criancas__flickr,
+.especial-criancas__flickr-slide {
+  width: 100vw;
+  display: block;
+  height: auto;
+  margin: 0;
+
+  @include media($screen-md) {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
   }
 }
