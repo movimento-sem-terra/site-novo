@@ -19,10 +19,14 @@
 .header-title {
   margin: 0;
   color: #555;
-  font-size: 3em;
+  font-size: 2.5em;
   font-family: SemTerrinhaTituloFonte;
   margin-bottom: 20px;
   font-weight: bold;
+
+  @include media($screen-xs) {
+    font-size: 3em;
+  }
 }
 
 .container {
