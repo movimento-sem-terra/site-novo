@@ -23,5 +23,6 @@ releated_posts:
   - _posts/2017/10/2017-10-18-no-para-mst-inicia-encontro-estadual-dos-sem-terrinha.md
   - _posts/2017/10/2017-10-14-sem-terrinhas-do-espirito-santo-se-preparam-para-encontro-nacional.md
   - _posts/2017/10/2017-10-19-criancas-do-mst-tomam-as-ruas-de-belem-na-luta-por-direitos-e-em-defesa-da-educacao.md
+special-page: sem-terrinha
 
 ---
