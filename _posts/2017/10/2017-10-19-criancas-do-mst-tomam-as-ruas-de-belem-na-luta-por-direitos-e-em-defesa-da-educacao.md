@@ -38,6 +38,7 @@ releated_posts:
   - _posts/2017/04/2017-04-19-radiodocumentario-relembra-21-anos-do-massacre-de-eldorado-dos-carajas.md
   - _posts/2017/04/2017-04-20-acampamento-frei-henri-ocupa-rodovia-pa-275.md
   - _posts/2017/10/2017-10-18-no-para-mst-inicia-encontro-estadual-dos-sem-terrinha.md
+special-page: sem-terrinha
 
 ---
 <p><img alt="20171018_174541.jpg" height="525" src="//farm5.staticflickr.com/4487/23939734158_6a7b1a655d_b.jpg" width="700" /></p>
