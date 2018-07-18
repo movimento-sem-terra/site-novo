@@ -25,6 +25,7 @@ releated_posts:
   - _posts/2018/03/2018-03-19-o-povo-soberano-e-dono-das-aguas-destacam-ativistas-contrarios-a-privatizacao.md
   - _posts/2018/03/2018-03-19-acampamento-de-luta-pela-agua-do-fama-se-inicia-em-brasilia.md
   - _posts/2018/03/2018-03-20-carta-de-sao-lourenco-fora-nestle-a-agua-e-nossa.md
+special-page: sem-terrinha
 
 ---
 <p><img alt="ciranda1.jpeg" height="466" src="//farm1.staticflickr.com/809/40033061145_19dea4de08_b.jpg" width="700" /></p>
