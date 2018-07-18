@@ -34,13 +34,8 @@ files:
 created_date: "2018-05-09T13:12:34-03:00"
 published: true
 releated_posts:
-  - _posts/2017/11/2017-11-06-xx-encontro-estadual-das-criancas-sem-terrinha-2017-acontece-no-rio-de-janeiro.md
   - _posts/2018/03/2018-03-20-dividir-o-trabalho-e-formar-as-criancas-a-ciranda-no-fama.md
   - _posts/2017/10/2017-10-31-com-educacao-e-cultura-e-possivel-mudar-essa-realidade-explica-dirigente-do-mst.md
-  - _posts/2017/12/2017-12-21-no-parana-comeca-a-primeira-etapa-da-9-turma-da-escola-da-juventude-sem-terra.md
-  - _posts/2017/10/2017-10-11-sem-terrinha-na-luta-pela-alimentacao-saudavel.md
-  - _posts/2017/10/2017-10-11-criancas-se-reunem-em-pernambuco-para-o-xiii-encontro-estadual-dos-sem-terrinha.md
-  - _posts/2017/10/2017-10-11-em-audiencia-com-a-casa-civil-sem-terrinha-cobram-mais-comprometimento-de-sartori-com-a-educacao.md
   - _posts/2017/10/2017-10-14-sem-terrinhas-do-espirito-santo-se-preparam-para-encontro-nacional.md
 special-page: sem-terrinha
 section: featured-news
