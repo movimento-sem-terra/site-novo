@@ -44,6 +44,7 @@ releated_posts:
   - _posts/2017/07/2017-07-20-comecou-a-7a-conferencia-da-via-campesina-camponeses-de-70-paises-se-reunem-para-criar-soberania-alimentar.md
   - _posts/2017/02/2017-02-24-em-alagoas-juventude-sem-terra-realiza-preparacao-para-mutirao-de-trabalho-de-base.md
   - _posts/2017/02/2017-02-20-ato-politico-encerra-encontro-da-regiao-oeste-no-parana.md
+special-page: sem-terrinha
 
 ---
 <div style="text-align:center">
