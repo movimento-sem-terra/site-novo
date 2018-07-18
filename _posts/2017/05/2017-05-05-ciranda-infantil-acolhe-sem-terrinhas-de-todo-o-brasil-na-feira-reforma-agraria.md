@@ -6,7 +6,7 @@ tags:
 title: Ciranda Infantil acolhe Sem Terrinhas de todo o Brasil na Feira da Reforma Agrária
 support_line: "Espaço educativo valoriza o cuidado e a formação de filhos de assentados e acampados durante o evento, em São Paulo."
 images_hd: //farm5.staticflickr.com/4156/34433773396_57fbcb54c3_b.jpg
-special-page: feira-2017
+special-page: sem-terrinha
 menu: agricultura camponesa
 layout: post
 files:
