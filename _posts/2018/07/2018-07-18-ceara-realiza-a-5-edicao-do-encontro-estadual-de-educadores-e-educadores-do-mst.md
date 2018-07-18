@@ -73,7 +73,7 @@ Durante a programa&ccedil;&atilde;o da atividade ser&atilde;o discutidos temas r
 J&aacute; para Erivando Barbosa, diretor da Escola do Campo Patativa do Assar&eacute;, o encontro dos educadores e educadoras &eacute; um espa&ccedil;o importante na forma&ccedil;&atilde;o dos sujeitos.&nbsp;&quot;A&nbsp;gente tem o entendimento de que a educa&ccedil;&atilde;o &eacute; uma arma poderosa e fundamental na luta de classes, atrav&eacute;s da educa&ccedil;&atilde;o formam&nbsp;seres humanos cr&iacute;ticos e participativos que s&atilde;o modificadores da realidade&quot;, enfatizou.</p>
 
 <p><br />
-Ainda segundo Castro:&nbsp;&quot;esse encontro tem sido este&nbsp;espa&ccedil;o de forma&ccedil;&atilde;o, de prepara&ccedil;&atilde;o de educadores, camponeses e camponeses para o&nbsp;fortalecimento da luta pela Reforma Agr&aacute;ria Popular e, principalmente, na luta por uma educa&ccedil;&atilde;o&nbsp;p&uacute;blica de qualidade&rdquo;, afirma Andreia Castro, dirigente do setor de educa&ccedil;&atilde;o do MST Cear&aacute;.</p>
+Ainda segundo Castro:&nbsp;&quot;esse encontro tem sido este&nbsp;espa&ccedil;o de forma&ccedil;&atilde;o, de prepara&ccedil;&atilde;o de educadores, camponeses e camponeses para o&nbsp;fortalecimento da luta pela Reforma Agr&aacute;ria Popular e, principalmente, na luta por uma educa&ccedil;&atilde;o&nbsp;p&uacute;blica de qualidade&rdquo;.</p>
 
 <p><br />
 O Encontro segue at&eacute; a pr&oacute;xima sexta-feira (20).&nbsp;</p>
