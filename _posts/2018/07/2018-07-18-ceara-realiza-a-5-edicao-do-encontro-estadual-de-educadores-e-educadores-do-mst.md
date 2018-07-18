@@ -4,7 +4,7 @@ tags:
   - tag: educação-no-campo
   - tag: formação
   - tag: ceará
-title: Ceará realiza a 5° edição do Encontro Estadual de Educadores e Educadores do MST
+title: Ceará realiza a 10° edição do Encontro Estadual de Educadores e Educadores do MST
 images_hd: //farm2.staticflickr.com/1762/42774469024_954ff39ee1_b.jpg
 menu: "educação, cultura e comunicação"
 support_line: Durante a programação da atividade serão discutidos temas relacionado à analise de conjuntura política e agrária e as consequências do golpe na educação
@@ -56,7 +56,7 @@ Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p style="box-sizing: inherit; margin: 0px 0px 11px; font-size: 1.1em; color: rgb(85, 85, 85); font-family: Helvetica, Arial, sans-serif;">&nbsp;</p>
 
-<p>Cerca de 300 educadores e educadores se reuniram&nbsp;nesta ter&ccedil;a-feira (17), na&nbsp;Escola do Campo Patativa do Assar&eacute;, no assentamento Santana da Cal,&nbsp;no munic&iacute;pio de Canind&eacute;, Cear&aacute;, para o 5&deg;&nbsp;Encontro Estadual de Educadores e Educadoras do MST.&nbsp;</p>
+<p>Cerca de 300 educadores e educadores se reuniram&nbsp;nesta ter&ccedil;a-feira (17), na&nbsp;Escola do Campo Patativa do Assar&eacute;, no assentamento Santana da Cal,&nbsp;no munic&iacute;pio de Canind&eacute;, Cear&aacute;, para o 10&deg;&nbsp;Encontro Estadual de Educadores e Educadoras do MST.&nbsp;</p>
 
 <p><br />
 Durante a programa&ccedil;&atilde;o da atividade ser&atilde;o discutidos temas relacionado &agrave; analise de conjuntura pol&iacute;tica e agr&aacute;ria e as consequ&ecirc;ncias do golpe na educa&ccedil;&atilde;o, a constru&ccedil;&atilde;o de&nbsp;projetos pol&iacute;ticos pedag&oacute;gicos nas escolas, os desafios de elabora&ccedil;&atilde;o da pedagogia libertadora, a tem&aacute;tica da agroecologia, dentre outros.&nbsp;</p>
@@ -67,7 +67,7 @@ Durante a programa&ccedil;&atilde;o da atividade ser&atilde;o discutidos temas r
 <figcaption>Divulga&ccedil;&atilde;o MST&nbsp;</figcaption>
 </figure>
 
-<p>&ldquo;O 5&deg;&nbsp;EERA &eacute; um espa&ccedil;o de muitas trocas de experi&ecirc;ncias e&nbsp;de socializa&ccedil;&atilde;o dos saberes. Ao longo dos &uacute;ltimos 10 anos temos nos desafiado a construir esse espa&ccedil;o&nbsp;por entender que nossos educadores e educadoras tem um papel fundamental na implementa&ccedil;&atilde;o de um projeto pol&iacute;tico pedag&oacute;gico que&nbsp;fa&ccedil;a a diferen&ccedil;a na vida dos educandos, afirma Andreia Castro, dirigente do setor de educa&ccedil;&atilde;o do MST Cear&aacute;.</p>
+<p>&ldquo;O 10&deg;&nbsp;EERA &eacute; um espa&ccedil;o de muitas trocas de experi&ecirc;ncias e&nbsp;de socializa&ccedil;&atilde;o dos saberes. Ao longo dos &uacute;ltimos 10 anos temos nos desafiado a construir esse espa&ccedil;o&nbsp;por entender que nossos educadores e educadoras tem um papel fundamental na implementa&ccedil;&atilde;o de um projeto pol&iacute;tico pedag&oacute;gico que&nbsp;fa&ccedil;a a diferen&ccedil;a na vida dos educandos, afirma Andreia Castro, dirigente do setor de educa&ccedil;&atilde;o do MST Cear&aacute;.</p>
 
 <p><br />
 J&aacute; para Erivando Barbosa, diretor da Escola do Campo Patativa do Assar&eacute;, o encontro dos educadores e educadoras &eacute; um espa&ccedil;o importante na forma&ccedil;&atilde;o dos sujeitos.&nbsp;&quot;A&nbsp;gente tem o entendimento de que a educa&ccedil;&atilde;o &eacute; uma arma poderosa e fundamental na luta de classes, atrav&eacute;s da educa&ccedil;&atilde;o formam&nbsp;seres humanos cr&iacute;ticos e participativos que s&atilde;o modificadores da realidade&quot;, enfatizou.</p>
