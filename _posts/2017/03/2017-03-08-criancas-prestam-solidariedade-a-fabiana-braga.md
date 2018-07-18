@@ -8,7 +8,7 @@ title: Crianças prestam solidariedade à Fabiana Braga
 images_hd: //farm1.staticflickr.com/613/32945111250_3517e4cf83_b.jpg
 support_line: "“Lutar por direitos não é crime, ser Sem Terra não é crime e ser mulher que luta por seus direitos também não é crime.\""
 menu: direitos humanos
-special-page: women-2017
+special-page: sem-terrinha
 layout: post
 files:
   - link: //farm1.staticflickr.com/613/32945111250_3517e4cf83_b.jpg
