@@ -30,6 +30,7 @@ releated_posts:
   - _posts/2017/10/2017-10-06-mst-traz-feira-e-festival-de-arte-e-cultura-da-reforma-agraria-para-bh.md
   - _posts/2017/10/2017-10-05-ana-canas-a-censura-faz-parte-da-manipulacao-da-elite-porque-a-arte-faz-pensar.md
   - _posts/2017/09/2017-09-29-circuito-mineiro-de-arte-e-cultura-da-reforma-agraria-chega-a-belo-horizonte.md
+special-page: sem-terrinha
 
 ---
 <div style="text-align:center">
