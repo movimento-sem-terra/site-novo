@@ -50,6 +50,7 @@ releated_posts:
   - _posts/2017/10/2017-10-11-sem-terrinha-na-luta-pela-alimentacao-saudavel.md
   - _posts/2017/10/2017-10-11-sem-terrinha-participam-de-audiencia-com-a-casa-civil-nesta-quarta-feira-11.md
   - _posts/2017/10/2017-10-10-sem-terrinhas-fazem-encontro-no-rio-grande-do-sul.md
+special-page: sem-terrinha
 
 ---
 <div dir="ltr" style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;">
