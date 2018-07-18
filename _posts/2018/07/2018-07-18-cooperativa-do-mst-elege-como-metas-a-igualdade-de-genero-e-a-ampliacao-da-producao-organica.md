@@ -58,9 +58,7 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p style="box-sizing: inherit; margin: 0px 0px 11px; font-size: 1.1em; color: rgb(85, 85, 85); font-family: Helvetica, Arial, sans-serif;">&nbsp;</p>
-
-<p style="box-sizing: inherit; margin: 0px 0px 11px; font-size: 1.1em; color: rgb(85, 85, 85); font-family: Helvetica, Arial, sans-serif;"><em>Por Catiana de Medeiros<br />
+<p><em>Por Catiana de Medeiros<br />
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
@@ -77,21 +75,21 @@ A atividade come&ccedil;ou com a leitura do edital de convoca&ccedil;&atilde;o d
 
 <p><strong>Avalia&ccedil;&atilde;o e metas</strong></p>
 
-<p>&nbsp;</p>
-
-<figure class="image" style="float:right"><img alt="Assembleia reuniu cerca de 200 associados da cooperativa.jpg" height="257" src="//farm2.staticflickr.com/1770/43489147391_6198f9a79f_b.jpg" width="400" />
-<figcaption>Assembleia reuniu cerca de 200 associados da cooperativa&nbsp;</figcaption>
-</figure>
-
-<p>Martins ressaltou a necessidade de defender um projeto popular e democr&aacute;tico para mudar a situa&ccedil;&atilde;o do pa&iacute;s, a partir da retomada da &ldquo;m&iacute;stica da revolu&ccedil;&atilde;o&rdquo; com o desejo de um mundo melhor para todos. Mas, para isso, segundo ele, deve-se construir um instrumento pol&iacute;tico, que &eacute; a Reforma Agr&aacute;ria Popular. &ldquo;A partir da produ&ccedil;&atilde;o de alimentos saud&aacute;veis, temos que avan&ccedil;ar nas rela&ccedil;&otilde;es de g&ecirc;nero e gerar uma nova cultura pol&iacute;tica, que esteja associada a esse projeto de vida nova que queremos&rdquo;, sinalizou.&nbsp;</p>
+<p><br />
+Martins ressaltou a necessidade de defender um projeto popular e democr&aacute;tico para mudar a situa&ccedil;&atilde;o do pa&iacute;s, a partir da retomada da &ldquo;m&iacute;stica da revolu&ccedil;&atilde;o&rdquo; com o desejo de um mundo melhor para todos. Mas, para isso, segundo ele, deve-se construir um instrumento pol&iacute;tico, que &eacute; a Reforma Agr&aacute;ria Popular. &ldquo;A partir da produ&ccedil;&atilde;o de alimentos saud&aacute;veis, temos que avan&ccedil;ar nas rela&ccedil;&otilde;es de g&ecirc;nero e gerar uma nova cultura pol&iacute;tica, que esteja associada a esse projeto de vida nova que queremos&rdquo;, sinalizou.&nbsp;</p>
 
 <p><br />
 Ele tamb&eacute;m colocou como desafio a constru&ccedil;&atilde;o do Congresso do Povo, para dialogar com os trabalhadores de todo o pa&iacute;s. &ldquo;Temos que tirar tempo para conversar com os companheiros da cidade, discutir nossos problemas e encontrar solu&ccedil;&otilde;es. Dialogar com as outras organiza&ccedil;&otilde;es populares e sindicais num imenso trabalho de base&rdquo;, apontou.</p>
 
 <p>A assistente social Sandra Rodrigues apresentou os trabalhos realizados nos &uacute;ltimos anos pela Cootap. Entre eles est&atilde;o assembleias em diversos munic&iacute;pios com integrantes dos coletivos de padarias, juventude, educa&ccedil;&atilde;o, al&eacute;m dos grupos gestores do arroz agroecol&oacute;gico, do leite, das frutas e das hortali&ccedil;as.</p>
 
-<p><br />
-Conforme Sandra, um dos pontos positivos destacados pelos associados &eacute; que a cooperativa conseguiu se manter em sua miss&atilde;o, que &eacute; ser refer&ecirc;ncia na produ&ccedil;&atilde;o agroecol&oacute;gica de alimentos. &ldquo;As feiras org&acirc;nicas avan&ccedil;aram na regi&atilde;o, temos cerca de 40 na Metropolitana. E apesar do desmonte de todas as pol&iacute;ticas p&uacute;blicas, n&oacute;s conseguimos retomar o PAA [Programa de Aquisi&ccedil;&atilde;o de Alimentos]&rdquo;, afirmou.</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="Assembleia reuniu cerca de 200 associados da cooperativa.jpg" height="257" src="//farm2.staticflickr.com/1770/43489147391_6198f9a79f_b.jpg" width="400" />
+<figcaption>Assembleia reuniu cerca de 200 associados da cooperativa&nbsp;</figcaption>
+</figure>
+
+<p>Conforme Sandra, um dos pontos positivos destacados pelos associados &eacute; que a cooperativa conseguiu se manter em sua miss&atilde;o, que &eacute; ser refer&ecirc;ncia na produ&ccedil;&atilde;o agroecol&oacute;gica de alimentos. &ldquo;As feiras org&acirc;nicas avan&ccedil;aram na regi&atilde;o, temos cerca de 40 na Metropolitana. E apesar do desmonte de todas as pol&iacute;ticas p&uacute;blicas, n&oacute;s conseguimos retomar o PAA [Programa de Aquisi&ccedil;&atilde;o de Alimentos]&rdquo;, afirmou.</p>
 
 <p><br />
 J&aacute; Nelson Luiz Krupinski, coordenador de vendas, evidenciou as metas da Cootap para os pr&oacute;ximos anos, como avan&ccedil;ar na produ&ccedil;&atilde;o de alimentos agroecol&oacute;gicos, construir um plano de vendas e fortalecer a organicidade dos jovens e das mulheres. &ldquo;Queremos que eles e elas participem mais, que venham para dentro da cooperativa, que nos ajudem com suas opini&otilde;es. Queremos refor&ccedil;ar a n&atilde;o viol&ecirc;ncia contra as mulheres, pois se queremos promover a agroecologia n&oacute;s temos que cuidar das companheiras&rdquo;, finalizou.</p>
