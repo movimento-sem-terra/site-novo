@@ -38,6 +38,7 @@ releated_posts:
   - _posts/2017/09/2017-09-09-mst-lanca-1-encontro-nacional-dos-sem-terrinha-em-brasilia.md
   - _posts/2017/10/2017-10-10-sem-terrinhas-fazem-encontro-no-rio-grande-do-sul.md
 section: cover
+special-page: sem-terrinha
 
 ---
 <div style="text-align:center">
