@@ -46,6 +46,7 @@ releated_posts:
   - _posts/2017/11/2017-11-09-mais-um-latifundio-ocupado-no-vale-do-rio-doce-em-mg.md
   - _posts/2017/11/2017-11-08-mst-ocupa-a-cemig-por-acesso-a-eletrificacao-rural.md
   - _posts/2017/11/2017-11-02-representantes-da-cpi-de-questoes-fundiarias-do-parana-visita-acampamento-no-parana.md
+special-page: sem-terrinha
 
 ---
 <div style="text-align:center">
