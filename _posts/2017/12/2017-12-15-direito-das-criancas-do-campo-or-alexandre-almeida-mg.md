@@ -12,5 +12,6 @@ created_date: "2017-12-15T14:53:34-02:00"
 published: true
 video_thumbnail: "http://img.youtube.com/vi/7VpZRzO-u4Y/0.jpg"
 releated_posts: []
+special-page: sem-terrinha
 
 ---
