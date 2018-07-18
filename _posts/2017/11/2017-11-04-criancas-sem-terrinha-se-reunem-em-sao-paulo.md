@@ -32,6 +32,7 @@ releated_posts:
   - _posts/2017/10/2017-10-11-sem-terrinha-na-luta-pela-alimentacao-saudavel.md
   - _posts/2017/10/2017-10-11-criancas-se-reunem-em-pernambuco-para-o-xiii-encontro-estadual-dos-sem-terrinha.md
   - _posts/2017/09/2017-09-13-mst-condena-a-criminalizacao-por-reforma-agraria-no-estado-de-sp.md
+special-page: sem-terrinha
 
 ---
 <p><img alt="P1040174.JPG" height="394" src="//farm5.staticflickr.com/4560/24311438548_6cee6d5130_b.jpg" width="700" /></p>
