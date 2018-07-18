@@ -7,7 +7,7 @@ tags:
 title: Crianças integram Jornada de Lutas das Mulheres no Mato Grosso
 support_line: "Atividades no estado incluiu espaços educativos para conscientizar as crianças sobre a luta por direitos. "
 menu: lutas e mobilizações
-special-page: women-2017
+special-page: sem-terrinha
 images_hd: //farm4.staticflickr.com/3875/33303185896_56dbcc4327_b.jpg
 layout: post
 files:
