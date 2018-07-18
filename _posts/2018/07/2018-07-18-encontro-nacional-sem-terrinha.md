@@ -5,18 +5,18 @@ tags:
 title: Encontro Nacional Sem Terrinha
 support_line: "Confira o especial do 1º Encontro Nacional Sem Terrinha "
 section: campaign
-images_hd: //farm2.staticflickr.com/1768/29620057098_6389ccec2c_b.jpg
+images_hd: //farm1.staticflickr.com/924/29620109038_f3642cfa4a_b.jpg
 link: "http://www.mst.org.br/sem-terrinha/"
 target: _self
 layout: post
 files:
-  - link: //farm2.staticflickr.com/1768/29620057098_6389ccec2c_b.jpg
-    original: //farm2.staticflickr.com/1768/29620057098_60dd5f19f4_o.png
-    thumbnail: //farm2.staticflickr.com/1768/29620057098_6389ccec2c_t.jpg
-    medium: //farm2.staticflickr.com/1768/29620057098_6389ccec2c_z.jpg
-    small: //farm2.staticflickr.com/1768/29620057098_6389ccec2c_n.jpg
-    title: Especial.png
-    $$hashKey: 0FS
+  - link: //farm1.staticflickr.com/924/29620109038_f3642cfa4a_b.jpg
+    original: //farm1.staticflickr.com/924/29620109038_a3080ec0ee_o.png
+    thumbnail: //farm1.staticflickr.com/924/29620109038_f3642cfa4a_t.jpg
+    medium: //farm1.staticflickr.com/924/29620109038_f3642cfa4a_z.jpg
+    small: //farm1.staticflickr.com/924/29620109038_f3642cfa4a_n.jpg
+    title: Especial (1).png
+    $$hashKey: 0MP
 created_date: "2018-07-18T12:11:11-03:00"
 published: true
 releated_posts: []
