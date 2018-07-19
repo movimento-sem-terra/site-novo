@@ -4,7 +4,7 @@ tags:
   - tag: lutas-e-mobilizações
   - tag: marcha
   - tag: lula-livre
-title: "Caravana Semiárido Contra a Fome é anunciada em ato político da Marcha Lula Livre\n"
+title: "Caravana Semiárido Contra a Fome é anunciada durante Marcha Lula Livre\n"
 support_line: "Iniciativa da Articulação Semiárido Brasileiro (ASA), que também tem realização do MST e outros movimentos e organizações populares\n"
 menu: lutas e mobilizações
 images_hd: //farm1.staticflickr.com/848/29637983608_8239d01080_b.jpg
