@@ -4,7 +4,7 @@ tags:
   - tag: educação-no-campo
   - tag: formação
   - tag: ceará
-title: Ceará realiza a 10° edição do Encontro Estadual de Educadores e Educadores do MST
+title: Ceará realiza a 10° edição do Encontro Estadual de Educadores e Educadoras do MST
 images_hd: //farm2.staticflickr.com/1762/42774469024_954ff39ee1_b.jpg
 menu: "educação, cultura e comunicação"
 support_line: Durante a programação da atividade serão discutidos temas relacionado à analise de conjuntura política e agrária e as consequências do golpe na educação
