@@ -79,10 +79,10 @@ Al&eacute;m disso, durante o Encontro Nacional&nbsp;os livros v&atilde;o ajudar 
 
 <p>&nbsp;</p>
 
-<p>No MST as crian&ccedil;as fazem parte da luta pela terra desde a funda&ccedil;&atilde;o. Existe a preocupa&ccedil;&atilde;o concreta de fazer com que essas crian&ccedil;as tenham um espa&ccedil;o educativo.&nbsp;&nbsp;</p>
+<p>&quot;No MST as crian&ccedil;as fazem parte da luta pela terra desde a funda&ccedil;&atilde;o. Existe a preocupa&ccedil;&atilde;o concreta de fazer com que essas crian&ccedil;as tenham um espa&ccedil;o educativo.&nbsp;&nbsp;</p>
 
 <p><br />
-A nossa sociedade &eacute; constru&iacute;da dentro dos moldes de conquista, do mercado e da individualidade. E n&atilde;o &eacute; essa a sociedade que o MST projeta, n&atilde;o &eacute; essa a perspectiva do Movimento.</p>
+A nossa sociedade &eacute; constru&iacute;da dentro dos moldes de conquista, do mercado e da individualidade. E n&atilde;o &eacute; essa a sociedade que o MST projeta, n&atilde;o &eacute; essa a perspectiva do Movimento&quot;, finalizou.</p>
 
 <p><br />
 A programa&ccedil;&atilde;o do 1&ordm; Encontro Nacional dos Sem Terrinha&nbsp;inclui diversas&nbsp;oficinas, como as de audiovisual, dan&ccedil;a e comunica&ccedil;&atilde;o popular. Estar&atilde;o presentes cerca de 1.200 crian&ccedil;as e 400 educadores&nbsp;dos diferentes estados brasileiros onde o MST atua.</p>
