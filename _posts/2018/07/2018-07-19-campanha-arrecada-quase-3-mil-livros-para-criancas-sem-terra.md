@@ -4,7 +4,7 @@ tags:
   - tag: sem-terrinha
   - tag: educação
   - tag: formação
-title: Campanha arrecada quase 3 mil livros para crianças Sem Terra
+title: Campanha arrecada quase 2 mil livros para crianças Sem Terra
 support_line: "Todas as obras arrecadadas serão distribuídas durante o 1º Encontro Nacional das Crianças Sem Terrinha, que irá acontecer em Brasília, de 23 a 26 de julho"
 menu: "educação, cultura e comunicação"
 special-page: sem-terrinha
@@ -58,7 +58,7 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p>A campanha de coleta de livros do MST&nbsp;j&aacute; arrecadou um total de 2.600&nbsp;volumes.&nbsp;Todas as obras arrecadadas ser&atilde;o distribu&iacute;das durante o 1&ordm; Encontro Nacional das Crian&ccedil;as Sem Terrinha, que ir&aacute; acontecer em Bras&iacute;lia, de 23 a 26 de julho.</p>
+<p>A campanha de coleta de livros do MST&nbsp;j&aacute; arrecadou um total de 1.600&nbsp;volumes.&nbsp;Todas as obras arrecadadas ser&atilde;o distribu&iacute;das durante o 1&ordm; Encontro Nacional das Crian&ccedil;as Sem Terrinha, que ir&aacute; acontecer em Bras&iacute;lia, de 23 a 26 de julho.</p>
 
 <p><br />
 Estados como S&atilde;o Paulo e Rio de Janeiro&nbsp;mobilizaram-se para garantir as doa&ccedil;&otilde;es, assim como os alagoanos e mineiros que realizaram campanhas de divulga&ccedil;&atilde;o regionais com pontos de coleta&nbsp;espalhados por v&aacute;rios munic&iacute;pios.&nbsp;</p>
