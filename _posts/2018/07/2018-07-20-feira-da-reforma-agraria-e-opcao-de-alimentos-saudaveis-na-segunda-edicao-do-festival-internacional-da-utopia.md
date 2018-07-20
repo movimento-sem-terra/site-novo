@@ -4,8 +4,8 @@ tags:
   - tag: reforma-agrária
   - tag: feira-reforma-agrária
   - tag: utopia
-title: "Feira da Reforma Agrária é opção de alimentos saudáveis na segunda edição do Festival Internacional da Utopia\n"
-support_line: "Evento tem extensa programação com diversos debates, além de atividades culturais e gastronômicas em Maricá (RJ)\n"
+title: "Feira da Reforma Agrária é opção de alimentos saudáveis do Festival Internacional da Utopia\n"
+support_line: "Na segunda edição, evento tem extensa programação com diversos debates, além de atividades culturais e gastronômicas em Maricá (RJ)\n"
 images_hd: //farm1.staticflickr.com/936/28645365397_5584d4df59_b.jpg
 menu: agricultura camponesa
 layout: post
