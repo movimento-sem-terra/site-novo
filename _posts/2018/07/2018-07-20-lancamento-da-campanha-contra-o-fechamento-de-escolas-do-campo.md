@@ -4,7 +4,7 @@ tags:
   - tag: escola-do-campo
   - tag: educação-do-campo
   - tag: "educação,-cultura-e-comunicação"
-title: Lançamento da Campanha contra o Fechamento de Escolas do Campo
+title: MST lança na Paraíba Campanha contra o Fechamento de Escolas do Campo
 support_line: Campanha contra o fechamento de escolas do campo ajudará as comunidades a se mobilizarem e levar informações contra o fechamento das escolas.
 menu: "educação, cultura e comunicação"
 images_hd: //farm1.staticflickr.com/851/42630514645_af0b74e058_b.jpg
