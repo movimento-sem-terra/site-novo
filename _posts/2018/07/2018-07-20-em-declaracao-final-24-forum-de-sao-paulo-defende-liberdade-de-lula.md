@@ -82,13 +82,13 @@ Acompanhe o texto na &iacute;ntegra:&nbsp;</p>
 	&nbsp;</li>
 	<li value="9">&nbsp;Preservar as experi&ecirc;ncias de soberania, de amplia&ccedil;&atilde;o da democracia, de governos com car&aacute;ter popular e com ideias anti-imperialistas, impulsionados por partidos de esquerda e progressistas; oferecer apoio e estimular os esfor&ccedil;os de emancipa&ccedil;&atilde;o e os ideias anti-capitalistas dos movimentos sociais e populares que assim atuam; trabalhar com vigor por consolidar uma paz duradoura com justi&ccedil;a social e impulsionar esfor&ccedil;os que permitam avan&ccedil;ar na integra&ccedil;&atilde;o soberana do que Marti chamou de Nossa Am&eacute;rica se transformam em imperativos pol&iacute;ticos e provas de honra para a esquerda continental.<br />
 	&nbsp;</li>
-	<li value="10">Como em 1990, quando o Foro de S&atilde;o Paulo emergiu como espa&ccedil;o de concentra&ccedil;&atilde;o e constru&ccedil;&atilde;o coletiva da plural esquerda latino-americana e caribenha, frente a uma conjuntura internacional marcada pela incerteza e desorienta&ccedil;&atilde;o gerada pelo desaparecimento da URSS e o chamado campo socialista, seguindo sua tradi&ccedil;&atilde;o de reflex&atilde;o cr&iacute;tica e formula&ccedil;&atilde;o pol&iacute;tica, agora se encontra diante de un novo desafio: examinar criticamente o caminho andado, reunificar for&ccedil;as e renovar for&ccedil;as para seguir construindo os consensos que a ofensiva em curso da direita exige.<br />
+	<li value="10">Como em 1990, quando o Foro de S&atilde;o Paulo emergiu como espa&ccedil;o de concentra&ccedil;&atilde;o e constru&ccedil;&atilde;o coletiva da plural esquerda latino-americana e caribenha, frente a uma conjuntura internacional marcada pela incerteza e desorienta&ccedil;&atilde;o gerada pelo desaparecimento da URSS e o chamado campo socialista, seguindo sua tradi&ccedil;&atilde;o de reflex&atilde;o cr&iacute;tica e formula&ccedil;&atilde;o pol&iacute;tica, agora se encontra diante de um&nbsp;novo desafio: examinar criticamente o caminho andado, reunificar for&ccedil;as e renovar for&ccedil;as para seguir construindo os consensos que a ofensiva em curso da direita exige.<br />
 	&nbsp;</li>
-	<li value="11">Os partidos pol&iacute;ticos membros do Foro de S&atilde;o Paulo chegam a este XXIV Encontro com um ac&uacute;mulo pol&iacute;tico superior que, por sua vez, se multiplica atrav&eacute;s da a&ccedil;&atilde;o articuladora do Foro e, com plena consci&ecirc;ncia da impossibilidade do capitalismo depredador para oferecer alternativas &agrave; humanidade, o que produz rebeldia popular e potenciais para a a&ccedil;&atilde;o transformadora do progressismo e da esquerda se esta se reorganiza, atua ao lado dos movimentos sociais, prepara quadros e melhora seus projetos de mudan&ccedil;a, alguns com uma clara orienta&ccedil;&atilde;o socialista. Existem exemplos suficientes na hist&oacute;ria da Am&eacute;rica Latina e do Caribe que comprovam que quando h&aacute; unidade, dire&ccedil;&atilde;o pol&iacute;tica decidida e capaz, objetivos claros de luta, coragem e enra&iacute;zamento nas classes populares, se multiplicam as op&ccedil;&otilde;es para conter qualquer&nbsp; ofensiva contra-revolucion&aacute;ria, conservadora e restauradora neoliberal, ou ainda mais, para venc&ecirc;-la.<br />
+	<li value="11">Os partidos pol&iacute;ticos membros do Foro de S&atilde;o Paulo chegam a este XXIV Encontro com um ac&uacute;mulo pol&iacute;tico superior que, por sua vez, se multiplica atrav&eacute;s da a&ccedil;&atilde;o articuladora do Foro e, com plena consci&ecirc;ncia da impossibilidade do capitalismo depredador para oferecer alternativas &agrave; humanidade, o que produz rebeldia popular e potenciais para a a&ccedil;&atilde;o transformadora do progressismo e da esquerda se esta se reorganiza, atua ao lado dos movimentos sociais, prepara quadros e melhora seus projetos de mudan&ccedil;a, alguns com uma clara orienta&ccedil;&atilde;o socialista. Existem exemplos suficientes na hist&oacute;ria da Am&eacute;rica Latina e do Caribe que comprovam que quando h&aacute; unidade, dire&ccedil;&atilde;o pol&iacute;tica decidida e capaz, objetivos claros de luta, coragem e enraizamento nas classes populares, se multiplicam as op&ccedil;&otilde;es para conter qualquer&nbsp; ofensiva contra-revolucion&aacute;ria, conservadora e restauradora neoliberal, ou ainda mais, para venc&ecirc;-la.<br />
 	&nbsp;</li>
-	<li value="12">Ceder ao derrotismo; promover ou tolerar os personalismos e sectarismos que emergem e proliferam em &eacute;pocas adversas; aceitar ou promover a perda da confian&ccedil;a na capacidade pol&iacute;tica dos nossos povos explorados n&atilde;o s&oacute; seria uma afronta aos her&oacute;is e m&aacute;rtires das lutas pela emancipa&ccedil;&atilde;o do contimente, mas uma concess&atilde;o gratuita e desnecess&aacute;ria aos EUA e seus aliados internacionais e locais.<br />
+	<li value="12">Ceder ao derrotismo; promover ou tolerar os personalismos e sectarismos que emergem e proliferam em &eacute;pocas adversas; aceitar ou promover a perda da confian&ccedil;a na capacidade pol&iacute;tica dos nossos povos explorados n&atilde;o s&oacute; seria uma afronta aos her&oacute;is e m&aacute;rtires das lutas pela emancipa&ccedil;&atilde;o do continente, mas uma concess&atilde;o gratuita e desnecess&aacute;ria aos EUA e seus aliados internacionais e locais.<br />
 	&nbsp;</li>
-	<li value="13">Diante do plano do imperalismo de socavar a soberania das nossas na&ccedil;&otilde;es e controlar nossos recursos naturais, nos opomos com aut&ecirc;ntico esp&iacute;rito internacionalista latino-americano e caribenho, com firmeza e com um sentido de dignidade inegoci&aacute;vel, o plano emancipat&oacute;rio dos nossos nobres povos.<br />
+	<li value="13">Diante do plano do imperialismo de socavar a soberania das nossas na&ccedil;&otilde;es e controlar nossos recursos naturais, nos opomos com aut&ecirc;ntico esp&iacute;rito internacionalista latino-americano e caribenho, com firmeza e com um sentido de dignidade inegoci&aacute;vel, o plano emancipat&oacute;rio dos nossos nobres povos.<br />
 	&nbsp;</li>
 	<li value="14">Vamos trabalhar para fortalecer as lutas por justi&ccedil;a e emancipa&ccedil;&atilde;o social, por soberania pol&iacute;tica e independ&ecirc;ncia econ&ocirc;mica pela soberania dos povos e a paz mundial. Reivindicar as melhores experi&ecirc;ncias emancipat&oacute;rias dos movimentos sociais e populares da regi&atilde;o!<br />
 	<br />
@@ -106,7 +106,7 @@ Acompanhe o texto na &iacute;ntegra:&nbsp;</p>
 	&nbsp;</li>
 	<li value="4">Ratificamos a vig&ecirc;ncia das seguintes causas e linhas de atua&ccedil;&atilde;o reivindicadas pelo XXIII Encontro do Foro de S&atilde;o Paulo, realizado em Man&aacute;gua no ano passado:<br />
 	<br />
-	Transformar a defesa da CELAC, maior a&ccedil;&atilde;o de uni&atilde;o dos &uacute;ltimos 200 anos, em objetivo pol&iacute;tico priorit&aacute;rio dos nossos partidos, movimentos sociais e populares, em cada escola, universidade ou espa&ccedil;o de cria&ccedil;&atilde;o intelectual. Semear o ideal integracionista na consci&ecirc;ncia dos nossos povos por si s&oacute; j&aacute; representar&aacute; um avan&ccedil;o frente &agrave; pol&iacute;tica divisionista impulsionada pelos Estados Unidos e seus aliados. Confiamos no valor das ideias justas: vamos assegurar que elas escutadas por cada um dos governos da Nossa Am&eacute;rica. &nbsp;</li>
+	Transformario dos nossos partidos, movimentos sociais e populares, em cada escola, universidade ou espa&ccedil;o de cria&ccedil;&atilde;o intelectual. Semear o ideal integracionista na consci&ecirc;ncia dos nossos povos por si s&oacute; j&aacute; representar&aacute; um avan&ccedil;o frente &agrave; pol&iacute;tica divisionista impulsionada pelos Estados Unidos e seus aliados. Confiamos no valor das ideias justas: vamos assegurar que elas escutadas por cada um dos governos da Nossa Am&eacute;rica.&nbsp;&nbsp;&nbsp;a defesa da CELAC, maior a&ccedil;&atilde;o de uni&atilde;o dos &uacute;ltimos 200 anos, em objetivo pol&iacute;tico priorit&aacute;r</li>
 </ol>
 
 <ul>
@@ -159,14 +159,14 @@ Acompanhe o texto na &iacute;ntegra:&nbsp;</p>
 
 <p style="text-align: center;">&nbsp;&nbsp;Lula Livre! Lula Inocente! Lula Presidente!</p>
 
-<p style="text-align: center;">&nbsp;</p>
+<p>&nbsp;</p>
 
 <ol>
 	<li value="5">Como h&aacute; um ano, ratificamos que a Am&eacute;rica Latina e o Caribe continuam em luta! E mant&ecirc;m a decis&atilde;o de atuar com otimismo, decis&atilde;o e um maior sentido unit&aacute;rio.</li>
 </ol>
 
-<p style="text-align: right;">&nbsp;</p>
+<p>&nbsp;</p>
 
 <p style="text-align: right;">&iexcl;Hasta la Victoria Siempre!</p>
 
-<p>&nbsp;</p>
+<p style="text-align: right;">&nbsp;</p>
