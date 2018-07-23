@@ -44,14 +44,17 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="photo5084765396543842263.jpg" height="483" src="//farm1.staticflickr.com/942/28700906627_b56840ce08_b.jpg" width="700" />
-<figcaption><em>Juventude do Curso de Arte e Cultura</em></figcaption>
+<figcaption><em>Juventude do Curso de Arte e Cultura.</em></figcaption>
 </figure>
 </div>
 
 <p>&nbsp;</p>
 
 <p><em>Por Antonio Kanova<br />
-Fotos: Juliana Adriano</em></p>
+Da P&aacute;gina do MST</em></p>
+
+<p><br />
+<em>Fotos: Juliana Adriano</em></p>
 
 <p><br />
 Na manh&atilde; desta &uacute;ltima sexta-feira (20), 78 jovens do I Curso de Arte da Regi&atilde;o Sul deram &ldquo;Bom Dia&rdquo; ao presidente Lula, na vig&iacute;lia Lula Livre, em Curitiba, no Paran&aacute;.</p>
@@ -69,7 +72,7 @@ Na vig&iacute;lia, os jovens fizeram um cortejo at&eacute; a proximidade da sede
 &ldquo;A nossa participa&ccedil;&atilde;o no &lsquo;Bom Dia&rsquo; ao presidente &eacute; para mostrar politicamente que a arte tamb&eacute;m &eacute; uma forma de luta e que n&oacute;s jovens estamos na defesa da bandeira Lula Livre&rdquo;, explicou Roan Teixeira, educando do curso de arte.</p>
 
 <figure class="image" style="float:left"><img alt="photo5084765396543842264.jpg" height="225" src="//farm1.staticflickr.com/929/28700917017_bf45e2a5de_b.jpg" width="300" />
-<figcaption><em>&quot;Bom dia&quot; ao presidente Lula</em></figcaption>
+<figcaption><em>&quot;Bom dia&quot; ao presidente Lula.</em></figcaption>
 </figure>
 
 <p><br />
@@ -86,7 +89,7 @@ Al&eacute;m do &ldquo;Bom dia&rdquo; ao presidente, os jovens realizaram visitas
 
 <figure class="image" style="float:right"><img alt="photo5084765396543842265.jpg" height="209" src="//farm1.staticflickr.com/856/28700939597_21582f9566_b.jpg" width="300" />
 <figcaption><em>&quot;A&nbsp;arte tamb&eacute;m &eacute; uma forma de luta&quot;,<br />
-explica Roan&nbsp;</em></figcaption>
+explica Roan.</em></figcaption>
 </figure>
 
 <p><br />
