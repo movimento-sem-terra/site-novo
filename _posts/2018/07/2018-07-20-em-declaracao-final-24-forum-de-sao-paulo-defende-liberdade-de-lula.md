@@ -4,7 +4,7 @@ tags:
   - tag: lula-livre
   - tag: solidariedade-internacional
   - tag: mobilizações
-title: Em declaração final 24° Fórum de São Paulo defende liberdade de Lula
+title: "Em declaração final, 24° Encontro do Foro de São Paulo defende liberdade de Lula"
 support_line: O encontro que reuniu representantes de partidos políticos de esquerda de mais de 20 países da América Latina aconteceu de 15 a 17 de julho em Havana
 menu: solidariedade
 images_hd: //farm2.staticflickr.com/1808/42627930415_ae085e8467_b.jpg
@@ -27,6 +27,7 @@ releated_posts:
   - _posts/2018/04/2018-04-25-eu-tenho-certeza-que-todos-nos-sairemos-maiores-e-mais-fortes-desta-situacao.md
   - _posts/2018/07/2018-07-13-lula-e-inocentado-em-processo-por-obstrucao-de-justica.md
   - _posts/2018/07/2018-07-10-lula-a-stedile-a-partir-de-janeiro-vamos-mudar-o-brasil.md
+section: featured-news
 
 ---
 <div style="text-align:center">
