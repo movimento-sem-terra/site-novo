@@ -190,4 +190,7 @@ releated_posts:
 
 <div style="text-align: center;"><strong>SEM TERRINHA EM MOVIMENTO:&nbsp;</strong></div>
 
-<div style="text-align: center;"><strong>BRINCAR, SORRIR, LUTAR POR REFORMA AGR&Aacute;RIA POPULAR!</strong></div>
+<div style="text-align: center;"><strong>BRINCAR, SORRIR, LUTAR POR REFORMA AGR&Aacute;RIA POPULAR!</strong><br />
+&nbsp;</div>
+
+<div>Confira o especial do <a href="http://www.mst.org.br/sem-terrinha/">Encontro Nacional das Crian&ccedil;as Sem Terrinha.</a></div>
