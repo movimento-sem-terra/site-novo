@@ -6,11 +6,10 @@ images: "http://www.mst.org.br/sites/default/files/imagecache/foto_destaque/Sem 
 video: ""
 tags:
   - tag: manchete
-  - tag: "6"
   - tag: 6° congresso nacional
   - tag: lutas e mobilizações
 type: news
-support_line: "Ação faz parte do VI Congresso do MST e denuncia precarização da educação no campo.&nbsp;"
+support_line: Ação faz parte do VI Congresso do MST e denuncia precarização da educação no campo
 section: null
 hat: ""
 picture_week: ""
@@ -20,9 +19,8 @@ published: true
 menu: lutas e mobilizações
 date: "2014-02-12T10:10:28-02:00"
 created_date: "2014-02-12 12:00"
-special-page: sem-terrinha
+special-page: null
 files:
-  - !<tag:yaml.org,2002:js/undefined> ""
   - link: //farm1.staticflickr.com/968/42325923921_fdf4077bac_b.jpg
     original: //farm1.staticflickr.com/968/42325923921_3e421cda78_o.jpg
     thumbnail: //farm1.staticflickr.com/968/42325923921_fdf4077bac_t.jpg
