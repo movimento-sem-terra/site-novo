@@ -55,12 +55,13 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Elitiel 007.jpg" height="467" src="//farm1.staticflickr.com/844/43568580242_d04d561460_b.jpg" width="700" />
-<figcaption>M&iacute;stica apresentou o debate em torno dos direitos das crian&ccedil;as. Foto: Elitiel Guedes</figcaption>
+<figcaption>M&iacute;stica apresentou o debate em torno dos direitos das crian&ccedil;as.&nbsp;</figcaption>
 </figure>
 </div>
 
 <p><em>Por Rafael Tatemoto<br />
-Da P&aacute;gina do MST</em><br />
+Da P&aacute;gina do MST<br />
+Fotos: Elitiel Guedes</em><br />
 &nbsp;</p>
 
 <p>Na primeira plen&aacute;ria realizada no Encontro Nacional das Crian&ccedil;as Sem Terrinha, as 1200 crian&ccedil;as presentes puderam aprender e debater sobre os direitos da crian&ccedil;a e do adolescente. Na discuss&atilde;o ocorrida nesta ter&ccedil;a-feira (24), o principal tema discutido foi a quest&atilde;o da educa&ccedil;&atilde;o no campo.<br />
@@ -76,7 +77,7 @@ Da P&aacute;gina do MST</em><br />
 &nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="Elitiel Direitos 002.jpg" height="244" src="//farm1.staticflickr.com/851/29746162458_f0f970bde1_b.jpg" width="350" />
-<figcaption>Sem Terrinha Kaylane, de Goi&aacute;s. Foto: Elitiel Guedes</figcaption>
+<figcaption>Sem Terrinha Kaylane, de Goi&aacute;s.&nbsp;</figcaption>
 </figure>
 
 <p>A Sem Terrinha Kaylane Dourado, de Goi&aacute;s, ressaltou a import&acirc;ncia de que o poder p&uacute;blico garanta escolas dentro dos assentamentos e acampamentos.&nbsp;<br />
