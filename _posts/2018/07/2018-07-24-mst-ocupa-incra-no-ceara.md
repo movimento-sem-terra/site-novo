@@ -51,7 +51,7 @@ Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
-<p>O MST ocuparam na noite desta segunda-feira (23) o Instituto de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra), em Fortaleza.</p>
+<p>O MST ocupou na noite desta segunda-feira (23) o Instituto de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra), em Fortaleza.</p>
 
 <p><br />
 A ocupa&ccedil;&atilde;o conta com aproximadamente 800 trabalhadores acampados e assentados das &aacute;reas de Reforma Agr&aacute;ria de todo Ceara e faz parte da jornada nacional de luta por terra, reforma agr&aacute;ria e por justi&ccedil;a.</p>
