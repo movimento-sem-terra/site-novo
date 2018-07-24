@@ -53,13 +53,12 @@ releated_posts:
 <p><em>Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
-Meu nome &eacute; Carlos Eduardo dos Santos, tenho 11 anos e moro no Assentamento Fidel Castro, em Alagoas.<br />
-Sair de Alagoas para ir ao Encontro Sem Terrinha em Bras&iacute;lia foi muito legal. No caminho teve brincadeiras, a gente cantou. Mas no come&ccedil;o eu fiquei um pouco enjoado no &ocirc;nibus, mas depois eu fiquei bem animado, a gente come&ccedil;ou a se divertir. No &ocirc;nibus a gente tirou muitas fotos das paisagens, conversamos muito e ainda aprendemos v&aacute;rias palavras de ordem, foi muito bom!</p>
+Meu nome &eacute; Carlos Eduardo dos Santos, tenho 11 anos e moro no Assentamento Fidel Castro, em Alagoas. Sair de Alagoas para ir ao Encontro Sem Terrinha em Bras&iacute;lia foi muito legal. No caminho teve brincadeiras, a gente cantou. Mas no come&ccedil;o eu fiquei um pouco enjoado no &ocirc;nibus, mas depois eu fiquei bem animado, a gente come&ccedil;ou a se divertir. No &ocirc;nibus a gente tirou muitas fotos das paisagens, conversamos muito e ainda aprendemos v&aacute;rias palavras de ordem, foi muito bom!</p>
 
 <p><br />
 Quando paramos para comer na estrada, tomei um caf&eacute; que era bem ruim.&nbsp;Quando a gente chegou eu fiquei meio surpreso, mas depois eu fui me acostumando. No come&ccedil;o fiquei impressionado, fez tanto frio quando a gente&nbsp; chegou no lugar do Encontro e logo a gente foi dormir.</p>
 
-<figure class="image" style="float:left"><img alt="Elitiel_04.jpg" height="267" src="//farm1.staticflickr.com/931/42883823574_5725c6a038_b.jpg" width="400" />
+<figure class="image" style="float:left"><img alt="Elitiel_04.jpg" height="234" src="//farm1.staticflickr.com/931/42883823574_5725c6a038_b.jpg" width="350" />
 <figcaption><em>Foto: Elitiel Guedes</em></figcaption>
 </figure>
 
