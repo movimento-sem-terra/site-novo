@@ -4,7 +4,7 @@ tags:
   - tag: sem-terrinha
   - tag: lutas
   - tag: comunicação
-title: "Ouça os spots feitos pelas crianças no 1º Encontro Nacional das Crianças Sem Terrinha "
+title: "Ouça a cobertura de rádio feita pelas crianças no 1º Encontro Nacional das Crianças Sem Terrinha "
 menu: "educação, cultura e comunicação"
 special-page: sem-terrinha
 images_hd: //farm1.staticflickr.com/855/29750659408_2079faf7d1_b.jpg
@@ -35,7 +35,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2018-07-23 at 20.41.09.jpeg" height="466" src="//farm1.staticflickr.com/843/29750793908_b472fbfe70_b.jpg" width="700" />
-<figcaption>Sem Terrinha grava &aacute;udio durante o Encontro</figcaption>
+<figcaption>Sem Terrinha grava entrevista durante o Encontro</figcaption>
 </figure>
 </div>
 
