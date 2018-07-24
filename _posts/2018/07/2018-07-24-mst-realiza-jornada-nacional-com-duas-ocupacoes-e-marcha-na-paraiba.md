@@ -70,13 +70,15 @@ Segundo Paulo S&eacute;rgio, da dire&ccedil;&atilde;o do MST, as fazendas da fam
 <p>&quot;A fazenda Volta e Carna&uacute;ba, as duas somam tr&ecirc;s mil hectares de terra, s&atilde;o terras improdutivas, que n&atilde;o geram emprego e n&atilde;o cumprem sua fun&ccedil;&atilde;o social. Para al&eacute;m disso, &eacute; uma &aacute;rea que historicamente teve grande explora&ccedil;&atilde;o dos trabalhadores e que expulsou muitos da propriedade. Agora essas fam&iacute;lias est&atilde;o se organizando na regi&atilde;o e reivindicando essa &aacute;rea&quot;, conta Paulo.</p>
 
 <p><br />
-Al&eacute;m das ocupa&ccedil;&otilde;es, os Sem Terras na Para&iacute;ba realizaram uma grande marcha que atravessou a cidade de Jo&atilde;o Pessoa. A marcha contou com a presen&ccedil;a de mais de 500 fam&iacute;lia. Durante todo trajeto, o Movimento denunciou a politiza&ccedil;&atilde;o do judici&aacute;rio, com palavras de ordem pela soltura do presidente Lula. Os manifestantes denunciam a condena&ccedil;&atilde;o sem provas do presidente Lula, que est&aacute; sendo movimentada para impedi-lo de se candidatar.</p>
+Al&eacute;m das ocupa&ccedil;&otilde;es, os Sem Terras na Para&iacute;ba realizaram uma grande marcha que atravessou a cidade de Jo&atilde;o Pessoa. A marcha contou com a presen&ccedil;a de mais de 500 fam&iacute;lias. Durante todo trajeto, o Movimento denunciou a politiza&ccedil;&atilde;o do judici&aacute;rio, com palavras de ordem pela soltura do presidente Lula. Os manifestantes denunciam a condena&ccedil;&atilde;o sem provas do presidente Lula, que est&aacute; sendo movimentada para impedi-lo de se candidatar.</p>
 
 <p><br />
 A marcha tamb&eacute;m denunciou o pacote do veneno de Temer, que amea&ccedil;a aprovar o uso e comercializa&ccedil;&atilde;o de subst&acirc;ncias j&aacute; proibidas no pa&iacute;s. E mais uma vez trouxe para a cidade o debate sobre a necessidade da Reforma Agr&aacute;ria Popular para uma sociedade mais justa e igualit&aacute;ria.</p>
 
 <p><br />
-Segundo, Eva Vilma, tamb&eacute;m da dire&ccedil;&atilde;o do estado, as marchas do MST d&atilde;o visibilidade &agrave; luta do Movimento.<br />
+Segundo, Eva Vilma, tamb&eacute;m da dire&ccedil;&atilde;o do estado, as marchas do MST d&atilde;o visibilidade &agrave; luta do Movimento.</p>
+
+<p><br />
 &quot;A marcha &eacute; uma ferramenta de visibilidade, nosso povo desafia o pr&oacute;prio corpo, caminham quil&ocirc;metros enfileirados, mostrando nossos s&iacute;mbolos, nossas palavras de ordem, dando visibilidade ao nosso Movimento e mostrando que estaremos em luta&quot;, diz.</p>
 
 <p><br />
