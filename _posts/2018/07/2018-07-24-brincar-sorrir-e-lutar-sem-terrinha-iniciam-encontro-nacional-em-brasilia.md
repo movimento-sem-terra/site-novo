@@ -39,6 +39,7 @@ releated_posts:
   - _posts/2018/05/2018-05-24-criancas-de-todo-o-pais-ja-estao-mobilizadas-para-o-i-encontro-nacional-das-criancas-sem-terrinha.md
   - _posts/2018/05/2018-05-24-educacao-por-garantia-de-direitos.md
   - _posts/2018/06/2018-06-26-doe-livros-para-os-sem-terrinha.md
+section: cover
 
 ---
 <div>
