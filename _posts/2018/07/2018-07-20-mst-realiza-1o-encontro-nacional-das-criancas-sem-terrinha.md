@@ -7,7 +7,7 @@ tags:
 title: MST realiza 1º Encontro Nacional das Crianças Sem Terrinha
 support_line: Mais de mil crianças de 24 estados do Brasil se reunirão para debater seus direitos
 menu: "educação, cultura e comunicação"
-section: cover
+section: null
 special-page: sem-terrinha
 images_hd: //farm1.staticflickr.com/834/28640548527_dd6663cd6a_b.jpg
 layout: post
