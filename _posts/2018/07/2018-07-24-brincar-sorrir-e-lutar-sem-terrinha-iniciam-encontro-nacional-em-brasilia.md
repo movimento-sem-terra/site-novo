@@ -67,8 +67,8 @@ Com muita anima&ccedil;&atilde;o, m&iacute;stica, m&uacute;sicas e brincadeiras,
 &ldquo;Estar aqui hoje representa um momento muito importante para a organiza&ccedil;&atilde;o das crian&ccedil;as Sem Terra, que historicamente ajudam na constru&ccedil;&atilde;o do MST e da luta pela terra. Sem as crian&ccedil;as o MST n&atilde;o seria o MST&rdquo;, refor&ccedil;ou Ramos.</p>
 
 <figure class="image" style="float:left"><img alt="photo_2018-07-23_19-04-19.jpg" height="267" src="//farm1.staticflickr.com/853/28713552247_2440ee0a0f_b.jpg" width="400" />
-<figcaption><em>Com a m&iacute;stica de abertura do ato apresentando a hist&oacute;ria do MST.&nbsp;<br />
-Foto: Elitiel Guedes</em></figcaption>
+<figcaption><em>Com a m&iacute;stica de abertura do ato apresentando<br />
+a hist&oacute;ria do MST.&nbsp;Foto: Elitiel Guedes</em></figcaption>
 </figure>
 
 <p><br />
@@ -88,7 +88,7 @@ O ato marcou o in&iacute;cio do Encontro que segue com uma variedade de atividad
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="photo_2018-07-23_19-04-35.jpg" height="467" src="//farm1.staticflickr.com/917/28713581927_553c9653b7_b.jpg" width="700" />
-<figcaption>Com a m&iacute;stica de abertura do ato apresentando a hist&oacute;ria do MST&nbsp;</figcaption>
+<figcaption><em>Nascemos nos acampamentos e assentamentos e l&aacute; aprendemos a viver coletivamente.&quot;&nbsp; Foto: Elitiel Guedes</em></figcaption>
 </figure>
 </div>
 
