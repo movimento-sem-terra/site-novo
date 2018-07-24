@@ -63,8 +63,8 @@ releated_posts:
 ---
 <div>
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="Elitiel 005.jpg" height="400" src="//farm1.staticflickr.com/916/28726579117_ae0f113695_b.jpg" width="600" />
-<figcaption>Foto: Elitiel Guedes</figcaption>
+<figure class="image" style="display:inline-block"><img alt="Elitiel 005.jpg" height="467" src="//farm1.staticflickr.com/916/28726579117_ae0f113695_b.jpg" width="700" />
+<figcaption>Lan&ccedil;amento do Manifesto durante o Encontro Nacional das Crian&ccedil;as Sem Terrinha. Foto: Elitiel Guedes</figcaption>
 </figure>
 </div>
 </div>
@@ -103,8 +103,11 @@ releated_posts:
 <div>N&oacute;s, Crian&ccedil;as Sem Terrinha, realizamos o nosso 1&ordm; Encontro Nacional em Bras&iacute;lia, de 23 a 26 de julho de 2018. Estamos bem felizes!!!&nbsp;<br />
 &nbsp;</div>
 
-<div>Desde 1994, todos os anos, fazemos em nossos estados a Jornada Nacional das Crian&ccedil;as Sem Terrinha. H&aacute; algum tempo, preparamos o Encontro, conversamos com muitas crian&ccedil;as sobre como &eacute; a vida em nossos assentamentos e acampamentos. A gente brinca, grita, canta, estuda e tamb&eacute;m luta. Por isso, viemos para esse Encontro gritando: &ldquo;Sem Terrinha em Movimento: brincar, sorrir, lutar por Reforma Agr&aacute;ria Popular!&rdquo;.&nbsp;<br />
-&nbsp;</div>
+<div>Desde 1994, todos os anos, fazemos em nossos estados a Jornada Nacional das Crian&ccedil;as Sem Terrinha. H&aacute; algum tempo, preparamos o Encontro, conversamos com muitas crian&ccedil;as sobre como &eacute; a vida em nossos assentamentos e acampamentos. A gente brinca, grita, canta, estuda e tamb&eacute;m luta. Por isso, viemos para esse Encontro gritando: &ldquo;Sem Terrinha em Movimento: brincar, sorrir, lutar por Reforma Agr&aacute;ria Popular!&rdquo;.&nbsp;
+<figure class="image" style="float:right"><img alt="Elitiel 006.jpg" height="200" src="//farm1.staticflickr.com/846/41806402430_0050b83a3d_b.jpg" width="300" />
+<figcaption>Foto: Elitiel Guedes</figcaption>
+</figure>
+</div>
 
 <div>O Encontro &eacute; um espa&ccedil;o pra gente conhecer muitas crian&ccedil;as Sem Terrinha e crian&ccedil;as de outros movimentos populares do campo e da cidade do Brasil e de outros pa&iacute;ses. J&aacute; conhecemos a hist&oacute;ria de luta das crian&ccedil;as da Palestina, da S&iacute;ria, do Haiti, de Cuba e da Venezuela. Queremos que todas as crian&ccedil;as do Brasil e do mundo possam ser felizes e livres, soltar pipa, jogar bola, brincar de roda e estudar.&nbsp;<br />
 &nbsp;</div>
