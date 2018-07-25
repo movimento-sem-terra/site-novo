@@ -69,7 +69,10 @@ releated_posts:
 <p><em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Bal&otilde;es, pipas, bonecos, bandeiras... Com todas as cores e irrever&ecirc;ncia, as crian&ccedil;as Sem Terrinha realizaram durante a manh&atilde; desta quarta-feira (25), o passeio cultural por Bras&iacute;lia. Durante o passeio, em passagem pelo Minist&eacute;rio da Educa&ccedil;&atilde;o, as crian&ccedil;as leram e entregaram o Manifesto das Crian&ccedil;as Sem Terrinha, denunciando o fechamento de escolas nas &aacute;reas de Reforma Agr&aacute;ria e em defesa da educa&ccedil;&atilde;o do campo.</p>
+Bal&otilde;es, pipas, bonecos, bandeiras... Com todas as cores e irrever&ecirc;ncia, as crian&ccedil;as Sem Terrinha realizaram durante a manh&atilde; desta quarta-feira (25), o passeio cultural por Bras&iacute;lia.</p>
+
+<p><br />
+Durante a atividade, em passagem pelo Minist&eacute;rio da Educa&ccedil;&atilde;o, as crian&ccedil;as leram e entregaram o Manifesto das Crian&ccedil;as Sem Terrinha, denunciando o fechamento de escolas nas &aacute;reas de Reforma Agr&aacute;ria e em defesa da educa&ccedil;&atilde;o do campo.</p>
 
 <p><br />
 &ldquo;Depois de dois anos de processo de elabora&ccedil;&atilde;o do manifesto, este &eacute; o momento esperado pelas crian&ccedil;as Sem Terrinha para conhecer um pouquinho de Bras&iacute;lia, mas principalmente entregar ao MEC o resultado dessa constru&ccedil;&atilde;o coletiva delas&rdquo;, explicou Marcia Ramos, da Coordena&ccedil;&atilde;o Nacional do MST.</p>
