@@ -5,7 +5,7 @@ tags:
   - tag: encontro-nacional
 special-page: sem-terrinha
 title: "Construção coletiva: diversas iniciativas possibilitam a vinda dos Sem Terrinha à Brasília"
-support_line: "Do Norte ao Sul do país, foram diversas iniciativas: realização de rifas, almoços e confraternizações nos assentamentos, mas, principalmente, a arrecadação de produtos dos acampamentos e assentamentos."
+support_line: "De Norte a Sul do país, foram diversas iniciativas: realização de rifas, almoços e confraternizações nos assentamentos, mas, principalmente, a arrecadação de produtos dos acampamentos e assentamentos."
 menu: reforma agrária
 images_hd: //farm1.staticflickr.com/928/42912594414_3149ce7db3_b.jpg
 layout: post
@@ -52,17 +52,17 @@ releated_posts:
 Da P&aacute;gina do MST<br />
 Fotos: Juliano Vieira</em></p>
 
-<p>Quem chega e sente o cheiro bom assim que chega nas proximidades da cozinha, n&atilde;o imagina o processo de constru&ccedil;&atilde;o coletiva que envolveu a organiza&ccedil;&atilde;o desse espa&ccedil;o para o 1&deg; Encontro Nacional das Crian&ccedil;as Sem Terrinha.<br />
+<p>Quem chega e sente o cheiro bom nas proximidades da cozinha, n&atilde;o imagina o processo de constru&ccedil;&atilde;o coletiva que envolveu a organiza&ccedil;&atilde;o desse espa&ccedil;o para o 1&deg; Encontro Nacional das Crian&ccedil;as Sem Terrinha.<br />
 &nbsp;</p>
 
-<p>Do&nbsp;Norte ao Sul do pa&iacute;s, foram diversas iniciativas: realiza&ccedil;&atilde;o de rifas, almo&ccedil;os e confraterniza&ccedil;&otilde;es nos assentamentos, mas, principalmente, a arrecada&ccedil;&atilde;o de produtos dos acampamentos e assentamentos.<br />
+<p>De&nbsp;Norte a&nbsp;Sul do pa&iacute;s, foram diversas iniciativas: realiza&ccedil;&atilde;o de rifas, almo&ccedil;os e confraterniza&ccedil;&otilde;es nos assentamentos, mas, principalmente, a arrecada&ccedil;&atilde;o de produtos dos acampamentos e assentamentos.<br />
 &nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="Juliano Cozinha 002.jpg" height="233" src="//farm1.staticflickr.com/856/29760104268_cbc78eaab2_b.jpg" width="350" />
 <figcaption></figcaption>
 </figure>
 
-<p>De acordo Esther Hoffmann, coordenadora do espa&ccedil;o, para o encontro das crian&ccedil;as Sem Terrinha, houve todo um esfor&ccedil;o dos estados onde o Movimento est&aacute; organizado, que vai desde a prepara&ccedil;&atilde;o pr&eacute;via para o Encontro, onde o debate da alimenta&ccedil;&atilde;o saud&aacute;vel aparece como elemento central, at&eacute; sua realiza&ccedil;&atilde;o em Bras&iacute;lia.<br />
+<p>De acordo com Esther Hoffmann, coordenadora do espa&ccedil;o, para o encontro das crian&ccedil;as Sem Terrinha, houve todo um esfor&ccedil;o dos estados onde o Movimento est&aacute; organizado, que vai desde a prepara&ccedil;&atilde;o pr&eacute;via para o Encontro, onde o debate da alimenta&ccedil;&atilde;o saud&aacute;vel aparece como elemento central, at&eacute; sua realiza&ccedil;&atilde;o em Bras&iacute;lia.<br />
 &nbsp;</p>
 
 <p>&quot;No MST realizamos a campanha sobre alimenta&ccedil;&atilde;o saud&aacute;vel, que tamb&eacute;m envolve atividades pedag&oacute;gicas nas escolas do campo, onde a gente trabalha esse elemento, desde a merenda escolar para a constru&ccedil;&atilde;o de um debate consciente sobre outros h&aacute;bitos alimentares, que tamb&eacute;m se configura como um ato pol&iacute;tico&quot;, comenta.<br />
