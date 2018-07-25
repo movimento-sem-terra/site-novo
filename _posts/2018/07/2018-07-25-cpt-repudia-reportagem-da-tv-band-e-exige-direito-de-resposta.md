@@ -43,10 +43,10 @@ Em dez pontos, o texto aponta contradi&ccedil;&otilde;es na reportagem e destaca
 Ao exigir direito de resposta, a CPT aponta que a reportagem &eacute; uma propaganda disfar&ccedil;ada dos empreendimentos do agroneg&oacute;cio, &ldquo;que causam imensa devasta&ccedil;&atilde;o socioambiental e que n&atilde;o foram denunciados&rdquo;.</p>
 
 <p><br />
-Confira o documento na &iacute;ntegra.</p>
+<em>Confira o documento na &iacute;ntegra.</em></p>
 
-<h2 style="text-align: center;"><br />
-<strong>Nota de Rep&uacute;dio &agrave; &ldquo;reportagem&rdquo; da TV Band: quem de fato est&aacute; devastando as margens do rio S&atilde;o Francisco?</strong></h2>
+<h3 style="text-align: center;"><br />
+<strong>Nota de Rep&uacute;dio &agrave; &ldquo;reportagem&rdquo; da TV Band: quem de fato est&aacute; devastando as margens do rio S&atilde;o Francisco?</strong></h3>
 
 <p><br />
 A Comiss&atilde;o Pastoral da Terra (CPT) &ndash; CPT Nacional e Regional Minas Gerais - v&ecirc;m a p&uacute;blico repudiar e exigir direito de resposta &agrave; Band (R&aacute;dio e Televis&atilde;o Bandeirantes S.A.) em face da reportagem da TV Bandeirantes veiculada &agrave;s 20h, do dia 19 de julho de 2018, e disponibilizada tamb&eacute;m em seu s&iacute;tio eletr&ocirc;nico, sob o t&iacute;tulo &ldquo;Grupos invadem terras e destroem vegeta&ccedil;&atilde;o perto do rio&rdquo;, que criminaliza os Povos e Comunidades Tradicionais e esconde a verdade a respeito dos conflitos agr&aacute;rios e socioambientais que acontecem &agrave;s margens do rio S&atilde;o Francisco, no norte de Minas Gerais. Esta &ldquo;reportagem&rdquo; revela que o jornalismo da Band n&atilde;o entende nada sobre este tema e, ao se meter nele, est&aacute; acintosamente a servi&ccedil;o dos ruralistas da regi&atilde;o, usurpadores de terras p&uacute;blicas e os reais destruidores do chamado &ldquo;rio da unidade nacional&rdquo;. Na realidade a &ldquo;reportagem&rdquo; &eacute; uma propaganda disfar&ccedil;ada que mostra o compromisso do jornalismo da Band com os interesses de empreendimentos do agroneg&oacute;cio, que causam imensa devasta&ccedil;&atilde;o socioambiental e que n&atilde;o foram denunciados.</p>
