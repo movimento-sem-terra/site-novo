@@ -82,7 +82,7 @@ Para Frente Brasil Popular, o Congresso do Povo Brasileiro &eacute; &ldquo;um ri
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Coletivos terão atuação estadual e regional. Foto divulgação.jpeg" height="450" src="//farm1.staticflickr.com/845/28745866977_e00b784e40_b.jpg" width="600" />
 <figcaption><em>Coletivos terão atuação estadual e regional.<br />
-Foto Divulgação/MST</em></figcaption>
+Foto: Divulgação/MST</em></figcaption>
 </figure>
 </div>
 
