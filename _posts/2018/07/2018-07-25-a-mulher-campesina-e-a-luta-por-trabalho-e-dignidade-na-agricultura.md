@@ -19,7 +19,7 @@ files:
     title: Imagem1.jpg
     $$hashKey: "030"
 created_date: "2018-07-25T11:36:03-03:00"
-published: false
+published: true
 releated_posts:
   - _posts/2018/03/2018-03-20-mulheres-agua-e-as-estrategias-de-comunicacao-em-rede.md
   - _posts/2018/03/2018-03-20-policia-agride-acampados-de-itatiaiucu-em-represalia-a-acao-das-mulheres-na-nestle.md
