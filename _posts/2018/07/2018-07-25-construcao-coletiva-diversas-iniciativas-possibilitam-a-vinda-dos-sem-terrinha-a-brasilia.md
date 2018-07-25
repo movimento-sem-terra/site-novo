@@ -74,7 +74,7 @@ Fotos: Juliano Vieira</em></p>
 <p>Quando falamos de Reforma Agr&aacute;ria Popular, falamos de alguns valores fundamentais para as rela&ccedil;&otilde;es de outra sociedade, como a coopera&ccedil;&atilde;o, a solidariedade, a partilha, e principalmente, a unidade em torno de um projeto pol&iacute;tico para o campo que garanta a diversidade de alimentos para os que a&iacute; vivem e para a sociedade brasileira.<br />
 &nbsp;</p>
 
-<p>Para o Encontro Nacional das Crian&ccedil;as Sem Terrinha o Movimento se mobilizou em um grande mutir&atilde;o de arrecada&ccedil;&atilde;o de v&aacute;rios alimentos, desde in natura, frutas, verduras, como feij&atilde;o, arroz, leite, queijo, manteiga, chocolate, rapadura, ovos etc., para contribuir e garantir esse processo.&nbsp;<br />
+<p>Para o Encontro Nacional das Crian&ccedil;as Sem Terrinha o Movimento se mobilizou em um grande mutir&atilde;o de arrecada&ccedil;&atilde;o de v&aacute;rios alimentos, desde in natura, frutas, verduras,&nbsp;feij&atilde;o, arroz, leite, queijo, manteiga, chocolate, rapadura, ovos etc., para contribuir e garantir esse processo.&nbsp;<br />
 &nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="Juliano Cozinha 003.jpg" height="233" src="//farm1.staticflickr.com/917/29760104238_c22b57b130_b.jpg" width="350" />
