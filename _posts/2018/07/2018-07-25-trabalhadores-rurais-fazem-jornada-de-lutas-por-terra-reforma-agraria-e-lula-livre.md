@@ -112,7 +112,9 @@ Desde o &uacute;ltimo final de semana, foram realizadas ocupa&ccedil;&otilde;es 
 Na madrugada desta ter&ccedil;a-feira (24), 150 fam&iacute;lias reocuparam as fazendas que pertencem &agrave; fam&iacute;lia dos golpistas senador Z&eacute; Maranh&atilde;o (MDB-PB) e do deputado federal Benjamin Maranh&atilde;o (SD-PB). As fazendas Volta e Carna&uacute;ba ficam localizadas no munic&iacute;pio de Tacima e n&atilde;o cumprem sua fun&ccedil;&atilde;o social. O MST reivindica os tr&ecirc;s mil hectares de terra improdutivos.</p>
 
 <p><br />
-As duas fazendas j&aacute; haviam sido ocupadas durante a Jornada de Lutas de Abril, entretanto, sofreram reintegra&ccedil;&atilde;o de posse e as fam&iacute;lias que lutavam por um peda&ccedil;o de ch&atilde;o foram despejadas.<br />
+As duas fazendas j&aacute; haviam sido ocupadas durante a Jornada de Lutas de Abril, entretanto, sofreram reintegra&ccedil;&atilde;o de posse e as fam&iacute;lias que lutavam por um peda&ccedil;o de ch&atilde;o foram despejadas.</p>
+
+<p><br />
 &ldquo;Estamos em luta em defesa da aquisi&ccedil;&atilde;o de terras para assentar as mais de 150 mil fam&iacute;lias hoje acampadas embaixo da lona preta&rdquo;, declara Ant&ocirc;nio Pereira, da dire&ccedil;&atilde;o nacional do MST.</p>
 
 <p><br />
