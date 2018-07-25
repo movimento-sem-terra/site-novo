@@ -8,7 +8,7 @@ title: Ouça a cobertura de rádio feita pelas crianças Sem Terrinha
 menu: "educação, cultura e comunicação"
 special-page: sem-terrinha
 images_hd: //farm1.staticflickr.com/855/29750659408_2079faf7d1_b.jpg
-support_line: Produzir o próprio conteúdo desperta habilidades e transforma os pequenos em protagonistas do próprio aprendizado.
+support_line: Produzir o próprio conteúdo desperta habilidades e transforma os pequenos em protagonistas do aprendizado.
 layout: post
 files:
   - link: //farm1.staticflickr.com/855/29750659408_2079faf7d1_b.jpg
