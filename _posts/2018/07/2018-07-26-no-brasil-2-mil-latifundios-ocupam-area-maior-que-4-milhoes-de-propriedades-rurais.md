@@ -29,8 +29,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="42925744384_4cc4044c89_z.jpg" height="467" src="//farm1.staticflickr.com/838/41844198180_5a79d9ccb7_b.jpg" width="700" />
-<figcaption><em>&Aacute;rea de planta&ccedil;&atilde;o de soja no noroeste do Mato Grosso, estado que mais tem propriedades acima de 10 mil hectares.<br />
-Foto: Marcelo Camargo/Ag&ecirc;ncia Brasil</em></figcaption>
+<figcaption><em>&Aacute;rea de planta&ccedil;&atilde;o de soja no noroeste do Mato Grosso, estado que mais tem propriedades acima de 10 mil hectares. Foto: Marcelo Camargo/Ag&ecirc;ncia Brasil</em></figcaption>
 </figure>
 </div>
 
