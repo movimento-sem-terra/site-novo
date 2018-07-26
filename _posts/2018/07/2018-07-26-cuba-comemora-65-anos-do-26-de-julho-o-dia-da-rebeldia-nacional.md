@@ -8,7 +8,7 @@ title: "Cuba comemora 65 anos do 26 de julho, o Dia da Rebeldia Nacional"
 support_line: "Vitoria das idéias: episódio de assalto a quarteis militares foi fundamental para impulsionar o sentimento de libertação nacional na população cubana."
 menu: solidariedade
 section: featured-news
-images_hd: //farm1.staticflickr.com/915/42941812374_9f6b0055c2_b.jpg
+images_hd: //farm1.staticflickr.com/940/42942952394_ab109a4c7e_b.jpg
 layout: post
 files:
   - link: //farm1.staticflickr.com/853/28769622147_1ddc4b9682_b.jpg
@@ -25,6 +25,13 @@ files:
     small: //farm1.staticflickr.com/915/42941812374_9f6b0055c2_n.jpg
     title: Moncada.png
     $$hashKey: 07A
+  - link: //farm1.staticflickr.com/940/42942952394_ab109a4c7e_b.jpg
+    original: //farm1.staticflickr.com/940/42942952394_64fde24cd8_o.png
+    thumbnail: //farm1.staticflickr.com/940/42942952394_ab109a4c7e_t.jpg
+    medium: //farm1.staticflickr.com/940/42942952394_ab109a4c7e_z.jpg
+    small: //farm1.staticflickr.com/940/42942952394_ab109a4c7e_n.jpg
+    title: Moncada2.png
+    $$hashKey: 0D7
 created_date: "2018-07-26T17:02:49-03:00"
 published: true
 releated_posts:
