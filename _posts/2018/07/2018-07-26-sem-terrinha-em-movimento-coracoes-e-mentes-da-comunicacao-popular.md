@@ -72,7 +72,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Comunica 004.jpg" height="467" src="//farm1.staticflickr.com/939/43612776552_23dc0c1e00_b.jpg" width="700" />
-<figcaption></figcaption>
+<figcaption>Coletiva de imprensa durante o Encontro Sem Terrinha. Foto: Elitiel Guedes</figcaption>
 </figure>
 </div>
 
@@ -91,7 +91,7 @@ Da P&aacute;gina do MST</em><br />
 &nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="Comunica 002.jpg" height="233" src="//farm1.staticflickr.com/922/42756544895_d5e6ed4fcf_b.jpg" width="350" />
-<figcaption></figcaption>
+<figcaption>Andr&eacute;, Sem Terrinha de Alagoas. Foto: Juliano Vieira</figcaption>
 </figure>
 
 <p>A comunica&ccedil;&atilde;o do Encontro se organizou internamente por frentes que prestigia as linguagens de r&aacute;dio, audiovisual, texto e fotografia. A proposta &eacute; que as comunicadoras e comunicadores adultos pudessem n&atilde;o apenas inseri-los neste processo de cobertura da atividade, mas pensar uma metodologia que possibilitasse a maior liberdade e criatividade poss&iacute;vel.<br />
@@ -113,7 +113,7 @@ Nesse sentido, pensar o processo de inser&ccedil;&atilde;o da crian&ccedil;a Sem
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Comunica 006.jpg" height="333" src="//farm1.staticflickr.com/926/28771225747_3db9023427_b.jpg" width="500" />
-<figcaption></figcaption>
+<figcaption>Equipe de r&aacute;dio durante o Encontro. Foto: Juliano Vieira</figcaption>
 </figure>
 </div>
 
@@ -124,7 +124,7 @@ Nesse sentido, pensar o processo de inser&ccedil;&atilde;o da crian&ccedil;a Sem
 &nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="Comunica 007.jpg" height="233" src="//farm1.staticflickr.com/846/29789751508_fab3501ed2_b.jpg" width="350" />
-<figcaption></figcaption>
+<figcaption>Foto: Juliano Vieira</figcaption>
 </figure>
 
 <p>Quando falamos da sua atua&ccedil;&atilde;o na frente de r&aacute;dio do encontro ele comenta que foi um processo enriquecedor, &quot;eu pude aprender mais coisas, como mexer no gravador que eu n&atilde;o sabia. Fizemos programa do Sem Terrinha e entrevistamos v&aacute;rias pessoas da cozinha e a professora de Santa Catarina que fez a oficina de cria&ccedil;&atilde;o de hist&oacute;ria. Eu sinto que estou ajudando as pessoas, levando informa&ccedil;&atilde;o para outros estados que puderam estar aqui&quot;, conclui.<br />
@@ -146,7 +146,7 @@ Nesse sentido, pensar o processo de inser&ccedil;&atilde;o da crian&ccedil;a Sem
 &nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="Comunica 003.jpg" height="233" src="//farm1.staticflickr.com/841/29789751538_3b2aa04427_b.jpg" width="350" />
-<figcaption></figcaption>
+<figcaption>Foto: Elitiel Guedes</figcaption>
 </figure>
 
 <p>A Sem Terrinha Eduarda Prates lembra que &eacute; preciso fortalecer a unidade e solidariedade. Quando questionada sobre sua intera&ccedil;&atilde;o com as demais crian&ccedil;as da equipe, comentou: &ldquo;a gente falou que um tem que ajudar o outro para n&atilde;o se sentir solit&aacute;rio quando se mais precisa e temos que ser amigas&rdquo;. E faz o seguinte apontamento para a pr&oacute;xima atividade: &ldquo;eu gostaria de ter liberdade para gravar um Encontro inteiro do MST, pois ele luta pelos direitos, mas tamb&eacute;m tem responsabilidades de cuidar das coisas e ser organizado&rdquo;, refor&ccedil;ou.<br />
