@@ -33,14 +33,6 @@ releated_posts:
   - _posts/2018/07/2018-07-18-encontro-nacional-sem-terrinha.md
 
 ---
-<div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2018-07-23 at 20.41.09.jpeg" height="466" src="//farm1.staticflickr.com/843/29750793908_b472fbfe70_b.jpg" width="700" />
-<figcaption><em>Sem Terrinha grava entrevista durante o Encontro.&nbsp;</em></figcaption>
-</figure>
-</div>
-
-<p>&nbsp;</p>
-
 <p><em>Da P&aacute;gina do MST </em></p>
 
 <p>&nbsp;</p>
@@ -60,8 +52,9 @@ Essa din&acirc;mica al&eacute;m de proporcionar uma divertida experi&ecirc;ncia 
 Ou&ccedil;a <a href="https://soundcloud.com/movimento-sem-terra/primeiro-encontro-nacional-das-criancas-sem-terrinha">aqui</a>&nbsp;a mat&eacute;ria feita&nbsp;durante o primeiro dia do 1&ordm; Encontro Nacional das Crian&ccedil;as Sem Terrinha</p>
 
 <p><br />
-c</p>
+Ou&ccedil;a <a href="https://soundcloud.com/movimento-sem-terra/1-encontro-nacional-das-criancas-sem-terrinha-dia-2">aqui </a>&nbsp;a mat&eacute;ria feita&nbsp;durante o segundo dia do 1&ordm; Encontro Nacional das Crian&ccedil;as Sem Terrinha</p>
 
-<p>&nbsp;</p>
+<p><br />
+Ou&ccedil;a <a href="https://soundcloud.com/movimento-sem-terra/manifesto-das-criancas-sem-terrinha">aqui </a>&nbsp;a mat&eacute;ria feita&nbsp;durante o segundo dia do 1&ordm; Encontro Nacional das Crian&ccedil;as Sem Terrinha</p>
 
 <p>&nbsp;</p>
