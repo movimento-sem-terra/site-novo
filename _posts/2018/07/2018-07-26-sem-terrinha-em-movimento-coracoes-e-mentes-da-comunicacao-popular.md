@@ -68,6 +68,7 @@ releated_posts:
   - _posts/2018/07/2018-07-24-queremos-que-todas-as-criancas-possam-ser-felizes-e-livres-afirma-manifesto-das-criancas-sem-terrinha.md
   - _posts/2018/07/2018-07-24-sem-terrinha-debatem-os-direitos-da-crianca.md
   - _posts/2018/07/2018-07-25-oficinas-animacao-e-comida-saudavel-o-segundo-dia-do-encontro-sem-terrinha.md
+section: featured-news
 
 ---
 <div style="text-align:center">
