@@ -3,7 +3,7 @@ date: "2018-07-26T16:33:00-03:00"
 tags:
   - tag: marcha
   - tag: sergipe
-title: "Durante Jornada de Lutas, Marcha dos Trabalhadores Sem Terra reúne mais de 10 mil pessoas em Aracaju"
+title: "Durante Jornada de Lutas, Marcha reúne mais de 10 mil pessoas em Aracaju"
 support_line: "Pelas principais ruas da capital, foi pautado o acesso a Terra, Reforma Agrária e a liberdade de Lula"
 menu: lutas e mobilizações
 images_hd: //farm1.staticflickr.com/843/29788242838_43e6ca5940_b.jpg
