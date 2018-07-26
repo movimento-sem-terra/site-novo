@@ -100,7 +100,9 @@ Da P&aacute;gina do MST</em><br />
 <p>E &eacute; sobre essa liberdade que Eduarda Prates Pianissola, 09 anos, do Assentamento Bela Vista, em Itamaraju, no estado da Bahia, expressa. A Sem Terrinha contribuiu com a frente de audiovisual do encontro e ao ser questionada sobre como se sente ao usar uma c&acirc;mera, ela responde: &quot;Eu me sinto livre! Liberdade de gravar o que eu quiser, essa &eacute; a liberdade&quot;.<br />
 &nbsp;</p>
 
-<p>Eduarda conta que j&aacute; vem contribuindo com a comunica&ccedil;&atilde;o em atividades preparat&oacute;rias ao Encontro e que durante a viagem tamb&eacute;m entrevistou as crian&ccedil;as sobre suas expectativas para a atividade.<br />
+<p>Eduarda conta que j&aacute; vem contribuindo com a comunica&ccedil;&atilde;o em atividades preparat&oacute;rias ao Encontro e que durante a viagem tamb&eacute;m entrevistou as crian&ccedil;as sobre suas expectativas para a atividade.</p>
+
+<p><br />
 Bonassa lembra que o processo de constru&ccedil;&atilde;o desse espa&ccedil;o foi um desafio para a comunica&ccedil;&atilde;o. &quot;A partir da defini&ccedil;&atilde;o da inser&ccedil;&atilde;o das crian&ccedil;as fomos construindo internamente essa proposta e nos desafiando a pensar e repensar nossa forma do fazer comunica&ccedil;&atilde;o. Em alguns estados, foram realizadas oficinas de comunica&ccedil;&atilde;o, mas &eacute; diferente de trabalhar junto no dia a dia. Ent&atilde;o desde o in&iacute;cio do planejamento foi necess&aacute;rio pensar a metodologia dessa inser&ccedil;&atilde;o, porque n&atilde;o dava para simplesmente dizer para as crian&ccedil;as fazerem o que a gente j&aacute; est&aacute; acostumada a fazer&quot;, afirma.<br />
 &nbsp;</p>
 
