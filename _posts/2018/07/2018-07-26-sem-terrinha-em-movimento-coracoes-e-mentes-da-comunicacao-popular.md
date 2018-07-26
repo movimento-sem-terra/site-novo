@@ -109,7 +109,9 @@ Bonassa lembra que o processo de constru&ccedil;&atilde;o desse espa&ccedil;o fo
 <p><strong>Brincar, sorrir, lutar por Reforma Agr&aacute;ria Popular</strong><br />
 &nbsp;</p>
 
-<p>No MST, fazer comunica&ccedil;&atilde;o popular requer que a gente compreenda a realidade onde estamos inseridas para que, a partir desta an&aacute;lise, possamos construir ferramentas comunicativas de resist&ecirc;ncia e emancipadoras.&nbsp;<br />
+<p>No MST, fazer comunica&ccedil;&atilde;o popular requer que a gente compreenda a realidade onde estamos inseridas para que, a partir desta an&aacute;lise, possamos construir ferramentas comunicativas de resist&ecirc;ncia e emancipadoras.&nbsp;</p>
+
+<p><br />
 Nesse sentido, pensar o processo de inser&ccedil;&atilde;o da crian&ccedil;a Sem Terrinha nestes espa&ccedil;os &eacute; um desafio para todas, tanto na concep&ccedil;&atilde;o quanto na forma, pois tudo deve ser constru&iacute;do junto com elas, o que ser&aacute; falado na r&aacute;dio, quais as imagens vamos captar para o v&iacute;deo, como enquadrar uma foto, o que &eacute; legal colocar num texto... Tudo vindo da realidade onde est&atilde;o inseridas.&nbsp;<br />
 &nbsp;</p>
 
