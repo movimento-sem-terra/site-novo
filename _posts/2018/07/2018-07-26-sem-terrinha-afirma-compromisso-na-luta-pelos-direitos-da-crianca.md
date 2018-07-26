@@ -27,6 +27,13 @@ files:
     small: //farm1.staticflickr.com/858/42756697835_3b3510f52f_n.jpg
     title: GERAL_01-7.JPG
     $$hashKey: 08K
+  - link: //farm1.staticflickr.com/931/29790182198_c37d65510a_b.jpg
+    original: //farm1.staticflickr.com/931/29790182198_bee386cf14_o.jpg
+    thumbnail: //farm1.staticflickr.com/931/29790182198_c37d65510a_t.jpg
+    medium: //farm1.staticflickr.com/931/29790182198_c37d65510a_z.jpg
+    small: //farm1.staticflickr.com/931/29790182198_c37d65510a_n.jpg
+    title: GERAL_01-13.JPG
+    $$hashKey: 05A
 created_date: "2018-07-26T18:37:57-03:00"
 published: true
 releated_posts:
@@ -37,6 +44,7 @@ releated_posts:
   - _posts/2018/07/2018-07-26-diario-sem-terrinha-sim-para-a-gratidao-e-nao-para-a-retirada-de-direitos.md
   - _posts/2018/07/2018-07-24-do-nordeste-para-o-cerrado-um-encontro-de-descobertas.md
   - _posts/2018/07/2018-07-24-sem-terrinha-debatem-os-direitos-da-crianca.md
+  - _posts/2018/07/2018-07-24-ouca-os-spots-feitos-pelas-criancas-no-1o-encontro-nacional-das-criancas-sem-terrinha.md
 
 ---
 <p>&nbsp;</p>
@@ -63,6 +71,12 @@ Na atividade de encerramento do Encontro, as crian&ccedil;as Sem Terrinha aprese
 
 <p><br />
 A carta ainda apontou a tarefa da luta pelas escolas do campo de Norte a Sul do Brasil. &ldquo;Nos comprometemos a ter manifesta&ccedil;&atilde;o das crian&ccedil;as para lutar pelos nossos estudos, devemos organizar espa&ccedil;os de leitura, fazer atividades culturais para as crian&ccedil;as e lutar por escolas do campo&rdquo;.</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="GERAL_01-13.JPG" height="467" src="//farm1.staticflickr.com/931/29790182198_c37d65510a_b.jpg" width="700" />
+<figcaption><em>Foto: Elitiel Guedes</em></figcaption>
+</figure>
+</div>
 
 <p><br />
 <strong>Alimenta&ccedil;&atilde;o saud&aacute;vel: um direito de todas e de todos</strong></p>
