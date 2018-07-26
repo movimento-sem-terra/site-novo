@@ -66,7 +66,8 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p><em>Da P&aacute;gina do MST</em></p>
+<p><em>Por Gustavo Marinho<br />
+Da P&aacute;gina do MST</em></p>
 
 <p><br />
 Bal&otilde;es, pipas, bonecos, bandeiras... Com todas as cores e irrever&ecirc;ncia, as crian&ccedil;as Sem Terrinha realizaram durante a manh&atilde; desta quarta-feira (25), o passeio cultural por Bras&iacute;lia.</p>
