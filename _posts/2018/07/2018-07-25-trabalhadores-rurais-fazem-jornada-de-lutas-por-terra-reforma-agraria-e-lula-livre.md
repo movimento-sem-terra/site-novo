@@ -9,7 +9,7 @@ title: "Trabalhadores rurais fazem jornada de lutas por terra, Reforma Agrária 
 support_line: MST aproveita o Dia do Trabalhador Rural (25 de julho) para lembrar da cifra de mais de 150 mil famílias ainda acampadas à espera de terra
 images_hd: //farm1.staticflickr.com/849/42718002735_229e19def9_b.jpg
 menu: lutas e mobilizações
-section: cover
+section: featured-news
 layout: post
 files:
   - link: //farm1.staticflickr.com/853/28734076707_9a0ec399ca_b.jpg
