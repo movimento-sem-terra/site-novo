@@ -60,4 +60,8 @@ Essa din&acirc;mica al&eacute;m de proporcionar uma divertida experi&ecirc;ncia 
 Ou&ccedil;a <a href="https://soundcloud.com/movimento-sem-terra/primeiro-encontro-nacional-das-criancas-sem-terrinha">aqui</a>&nbsp;a mat&eacute;ria feita&nbsp;durante o primeiro dia do 1&ordm; Encontro Nacional das Crian&ccedil;as Sem Terrinha</p>
 
 <p><br />
-Ou&ccedil;a <a href="https://soundcloud.com/movimento-sem-terra/1-encontro-nacional-das-criancas-sem-terrinha-dia-2">aqui </a>&nbsp;a mat&eacute;ria feita&nbsp;durante o segundo dia do 1&ordm; Encontro Nacional das Crian&ccedil;as Sem Terrinha</p>
+c</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
