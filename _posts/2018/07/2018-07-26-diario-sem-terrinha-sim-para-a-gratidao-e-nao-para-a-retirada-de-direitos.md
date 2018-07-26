@@ -5,7 +5,7 @@ tags:
   - tag: encontro-nacional
   - tag: brasília
 title: "Diário Sem Terrinha: Sim para a gratidão e não para a retirada de direitos"
-support_line: "O diário Sem Terrinha chega em seu terceiro dia e apresentar textos retirados do “Livro das Crianças\" no Espaço Carrapicho"
+support_line: "O diário Sem Terrinha chega em seu terceiro dia e apresenta textos retirados do “Livro das Crianças\" no Espaço Carrapicho"
 menu: reforma agrária
 special-page: sem-terrinha
 images_hd: //farm1.staticflickr.com/930/29772677108_7e768b861c_b.jpg
