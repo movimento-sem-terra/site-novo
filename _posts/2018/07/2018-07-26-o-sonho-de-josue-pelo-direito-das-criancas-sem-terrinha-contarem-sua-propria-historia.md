@@ -113,6 +113,7 @@ Da P&aacute;gina do MST</em></p>
 <p>A metodologia utilizada combinou cria&ccedil;&atilde;o de hist&oacute;ria e agroecologia, para assim fazer sentido com a vida das crian&ccedil;as presentes no encontro. &ldquo;A proposta foi que eles fizessem desenhos e escrevessem hist&oacute;rias, que eles fossem os nossos olhos, que eles escrevessem pra gente levar pra outras crian&ccedil;as que n&atilde;o conhecem o Movimento, que &agrave;s vezes tem um preconceito estabelecido sem ao menos conhecer ou ler nada sobre&rdquo;, acrescentou.<br />
 &nbsp;</p>
 
-<p>Acompanhe aqui o especial do <a href="http://www.mst.org.br/sem-terrinha/">I Encontro Nacional das Crian&ccedil;as Sem Terrinha</a>.</p>
+<p>Acompanhe aqui o especial do <a href="http://www.mst.org.br/sem-terrinha/">I Encontro Nacional das Crian&ccedil;as Sem Terrinha</a>.<br />
+&nbsp;</p>
 
 <p><em>*Editado por Gustavo Marinho</em></p>
