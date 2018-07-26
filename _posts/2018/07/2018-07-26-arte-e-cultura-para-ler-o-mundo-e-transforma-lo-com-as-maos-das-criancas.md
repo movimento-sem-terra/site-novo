@@ -65,7 +65,12 @@ Da P&aacute;gina do MST</em></p>
 <p><br />
 &ldquo;A arte e a cultura s&atilde;o elementos fundamentais na constru&ccedil;&atilde;o do Encontro Sem Terrinha&rdquo;, quem afirma &eacute; Maria Raimunda, da coordena&ccedil;&atilde;o do MST e que integra a equipe de cultura do Encontro em Bras&iacute;lia.</p>
 
-<p>&ldquo;Realizar o Encontro Sem Terrinha parte da constru&ccedil;&atilde;o cultural que temos acumulado em v&aacute;rios anos em torno das Jornadas Sem Terrinha nos estados, que &eacute; o espa&ccedil;o de viv&ecirc;ncia das mais variadas dimens&otilde;es e linguagens do desenvolvimento das crian&ccedil;as e que ajudam a dialogar com a leitura do mundo&rdquo;, explica Maria Raimunda.</p>
+<p><br />
+&ldquo;Realizar o Encontro Sem Terrinha parte da constru&ccedil;&atilde;o cultural que temos acumulado em v&aacute;rios anos em torno das Jornadas Sem Terrinha nos estados, que &eacute; o espa&ccedil;o de viv&ecirc;ncia das mais variadas dimens&otilde;es e linguagens do desenvolvimento das crian&ccedil;as e que ajudam a dialogar com a leitura do mundo&rdquo;, explica Maria Raimunda.</p>
+
+<figure class="image" style="float:left"><img alt="IMG_9258.JPG" height="267" src="//farm1.staticflickr.com/918/43595082532_075318e3d7_b.jpg" width="400" />
+<figcaption><em>Foto: Maison Bertoncello - SINPRO/DF</em></figcaption>
+</figure>
 
 <p><br />
 Vivenciar as diversas linguagens art&iacute;sticas e culturais percorreu a m&iacute;stica e a programa&ccedil;&atilde;o de todo o Encontro, que re&uacute;ne 1200 crian&ccedil;as dos acampamentos e assentamentos da Reforma Agr&aacute;ria de todo o pa&iacute;s. Atividades culturais, espa&ccedil;os de produ&ccedil;&atilde;o, oficinas, exposi&ccedil;&otilde;es... Tudo em di&aacute;logo afinado com o cotidiano e trajet&oacute;ria de vida das crian&ccedil;as.</p>
@@ -78,6 +83,10 @@ Joanita do Carmo uma das Sem Terrinha que participam do Encontro contou da exper
 
 <p><br />
 A m&uacute;sica que Joanita e seus colegas Sem Terrinha compuseram, levou o nome de &ldquo;Saco vazio n&atilde;o para em p&eacute;&rdquo; e trata sobre a produ&ccedil;&atilde;o de alimentos saud&aacute;veis e os riscos da utiliza&ccedil;&atilde;o dos agrot&oacute;xicos.</p>
+
+<figure class="image" style="float:right"><img alt="IMG_9356.JPG" height="267" src="//farm1.staticflickr.com/853/42925497964_9309759626_b.jpg" width="400" />
+<figcaption><em>Foto: Maison Bertoncello - SINPRO/DF</em></figcaption>
+</figure>
 
 <p><br />
 &ldquo;Veneno n&atilde;o queremos, isso nos faz mal, o agro n&atilde;o &eacute; tech nem &eacute; pop, &eacute; do mal&rdquo;, canta um trecho do samba compartilhado pelos Sem Terrinha ao final da oficina junto ao Bloco Eureca, que realiza a&ccedil;&otilde;es com crian&ccedil;as e adolescentes na produ&ccedil;&atilde;o cultural a partir dos debates em torno do Estatuto da Crian&ccedil;a e do Adolescente (ECA).</p>
@@ -96,6 +105,12 @@ Al&eacute;m das oficinas, tr&ecirc;s espa&ccedil;os foram dedicados aos Sem Terr
 
 <p><br />
 &ldquo;Tudo isso ajuda numa leitura de mundo, ajuda as crian&ccedil;as a compreenderem-se melhor enquanto sujeito, enquanto Sem Terrinha e como lutadores e lutadoras do povo&rdquo;, refor&ccedil;ou Raimunda. &ldquo;Nesse aspecto, a cultura e a arte s&atilde;o cruciais no processo, pois as crian&ccedil;as se permitem mais com a arte e a cultura. Despertando suas vontades, desejos e sensibilidades de conhecer o novo. Nosso Encontro Nacional Sem Terrinha n&atilde;o poderia ter elementos diferentes, que refor&ccedil;am a constru&ccedil;&atilde;o coletiva&rdquo;.</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="IMG_9205.JPG" height="467" src="//farm1.staticflickr.com/854/28754380637_d717ba63f9_b.jpg" width="700" />
+<figcaption><em>Foto: Maison Bertoncello - SINPRO/DF</em></figcaption>
+</figure>
+</div>
 
 <p><br />
 <em>*Editado por Iris Pacheco</em></p>
