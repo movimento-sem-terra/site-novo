@@ -27,6 +27,7 @@ releated_posts:
   - _posts/2017/11/2017-11-24-justica-de-maraba-decide-despejar-1-2-mil-familias-do-mst-no-sul-do-para.md
   - _posts/2017/11/2017-11-24-violencia-no-para-a-parte-que-te-cabe-neste-latifundio.md
   - _posts/2017/11/2017-11-27-familias-do-acampamento-helenira-rezende-resistem-a-acao-de-despejo.md
+section: cover
 
 ---
 <p>&nbsp;</p>
