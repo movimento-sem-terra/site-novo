@@ -8,7 +8,7 @@ tags:
 images_hd: //farm1.staticflickr.com/941/43659431411_53708d7d4e_b.jpg
 special-page: sem-terrinha
 menu: reforma agrária
-section: cover
+section: featured-news
 title: Sem Terrinha afirma compromisso na luta pelos direitos da criança
 support_line: "Elas apresentaram seus compromissos nos desafios da luta, da formação e da organização das crianças nos mais diversos acampamentos e assentamentos da Reforma Agrária."
 layout: post
