@@ -21,6 +21,7 @@ created_date: "2018-07-28T10:32:10-03:00"
 published: true
 releated_posts:
   - _posts/2018/04/2018-04-20-comite-em-apoio-ao-padre-amaro-divulga-nota-sobre-a-criminalizacao-da-luta-pela-terra.md
+section: cover
 
 ---
 <p>&nbsp;</p>
@@ -43,7 +44,7 @@ Ainda na madrugada, a dire&ccedil;&atilde;o do MST registrou a ocorr&ecirc;ncia 
 A Secretaria de Seguran&ccedil;a P&uacute;blica e a Promotoria da Vara Agr&aacute;ria&nbsp;tamb&eacute;m foram acionadas.</p>
 
 <p><br />
-A &aacute;rea, onde est&aacute; localizada o acampamento, foi ocupada na manh&atilde; desta &uacute;ltima sexta-feira (27) e as fam&iacute;lias relatam que est&aacute; instaurado um momento de p&acirc;nico e terror.</p>
+A &aacute;rea, onde est&aacute; localizada o acampamento, foi <a href="http://www.mst.org.br/2018/07/28/mst-reocupa-fazenda-em-maraba-por-reforma-agraria.html">ocupada na manh&atilde; desta &uacute;ltima sexta-feira (27)</a> e as fam&iacute;lias relatam que est&aacute; instaurado um momento de p&acirc;nico e terror.</p>
 
 <p><br />
 Publicamente, o MST tem repudiado a a&ccedil;&atilde;o de pistolagem, informado a sociedade e exigido das autoridades respons&aacute;veis medidas cab&iacute;veis contra mais esta tentativa de assassinato de trabalhadores e trabalhadoras no campo na regi&atilde;o.</p>
