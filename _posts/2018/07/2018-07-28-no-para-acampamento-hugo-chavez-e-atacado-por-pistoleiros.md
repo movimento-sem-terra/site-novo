@@ -21,6 +21,10 @@ created_date: "2018-07-28T10:32:10-03:00"
 published: true
 releated_posts:
   - _posts/2018/04/2018-04-20-comite-em-apoio-ao-padre-amaro-divulga-nota-sobre-a-criminalizacao-da-luta-pela-terra.md
+  - _posts/2018/05/2018-05-17-no-para-advogado-e-militante-historico-ameacado-de-morte.md
+  - _posts/2018/05/2018-05-11-20-anos-depois-assassinato-de-fusquinha-e-doutor-podera-ser-levado-a-juri-popular.md
+  - _posts/2018/05/2018-05-03-coco-babacu-pequi-e-mel-da-jatai-o-que-encontrar-na-3a-feira-da-reforma-agraria.md
+  - _posts/2018/04/2018-04-27-jornada-em-defesa-da-reforma-agraria-aproxima-campo-e-cidade-no-para.md
 section: cover
 
 ---
@@ -35,7 +39,7 @@ section: cover
 <p>Na madrugada deste s&aacute;bado (28), 450 fam&iacute;lias do Acampamento Hugo Ch&aacute;vez, localizado na fazenda Santa Tereza, em Marab&aacute;, Sudeste do Par&aacute;, foram atacadas por pistoleiros.&nbsp;</p>
 
 <p><br />
-Durante a trucul&ecirc;ncia, foram realizados&nbsp;diversos tiros&nbsp;contra as fam&iacute;lias e&nbsp;fogo foi ateado nos barracos e na estrada, interditando a &uacute;nica via de acesso ao acampamento. Neste momento, jagun&ccedil;os continuam rondando o acampamento.</p>
+Durante a trucul&ecirc;ncia, foram realizados&nbsp;diversos tiros&nbsp;contra as fam&iacute;lias e&nbsp;fogo foi ateado nos barracos e na estrada, interditando a &uacute;nica via de acesso ao acampamento. Neste momento, jagun&ccedil;os rondam&nbsp;o acampamento.</p>
 
 <p><br />
 Ainda na madrugada, a dire&ccedil;&atilde;o do MST registrou a ocorr&ecirc;ncia junto a Delegacia de Conflitos Agr&aacute;rios (DECA), por&eacute;m o comandante Rocha, respons&aacute;vel pelo departamento, se recusou realizar as investiga&ccedil;&otilde;es. Ele disse que poder&aacute; ocorrer uma carnificina, mas n&atilde;o iriam ao local do ocorrido sem ordens do comando de Bel&eacute;m.</p>
