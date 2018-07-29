@@ -4,7 +4,7 @@ tags:
   - tag: pará
   - tag: acampamento
   - tag: violência-no-campo
-title: "Nota em repúdio à violência e em solidariedade às trabalhadoras/es sem terra do Acampamento Hugo Chavéz, no Pará"
+title: Nota em repúdio à violência e em solidariedade aos trabalhadores Sem Terra do Acampamento Hugo Chavéz
 support_line: "Leia a nota Pública do Comitê Brasileiro de Defensoras e Defensores de Direitos Humanos (CBDDH) sobre o ataque ao acampamento Hugo Chavéz, localizado em Marabá"
 menu: direitos humanos
 images_hd: //farm1.staticflickr.com/932/41891680830_05392a0d8e_b.jpg
