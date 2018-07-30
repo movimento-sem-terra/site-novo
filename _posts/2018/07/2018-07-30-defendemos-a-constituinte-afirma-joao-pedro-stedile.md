@@ -23,6 +23,7 @@ published: true
 releated_posts:
   - _posts/2018/02/2018-02-02-golpistas-tentarao-se-legitimar-nessas-eleicoes-diz-advogado-ricardo-gebrim.md
   - _posts/2018/07/2018-07-29-caetes-pe-foi-o-marco-inicial-da-caravana-semiarido-contra-a-fome.md
+section: cover
 
 ---
 <p><br />
