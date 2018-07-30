@@ -25,7 +25,7 @@ releated_posts:
   - _posts/2018/05/2018-05-11-20-anos-depois-assassinato-de-fusquinha-e-doutor-podera-ser-levado-a-juri-popular.md
   - _posts/2018/05/2018-05-03-coco-babacu-pequi-e-mel-da-jatai-o-que-encontrar-na-3a-feira-da-reforma-agraria.md
   - _posts/2018/04/2018-04-27-jornada-em-defesa-da-reforma-agraria-aproxima-campo-e-cidade-no-para.md
-section: cover
+section: featured-news
 
 ---
 <p>&nbsp;</p>
