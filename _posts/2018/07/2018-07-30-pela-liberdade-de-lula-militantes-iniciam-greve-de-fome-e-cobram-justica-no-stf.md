@@ -5,7 +5,7 @@ tags:
   - tag: greve
   - tag: justiça
 title: "Pela liberdade de Lula, militantes iniciam greve de fome e cobram justiça no STF"
-support_line: "\"Jejuns comunitários, ações de solidariedade, dias de ato e mobilização em qualquer canto que a gente esteja. O importante é o povo entender que nós estamos em um momento decisivo da história\", aponta grevista"
+support_line: "\"Jejuns comunitários, ações de solidariedade, dias de ato e mobilização em qualquer canto que a gente esteja\", conclama grevista."
 menu: lutas e mobilizações
 section: cover
 images_hd: //farm2.staticflickr.com/1796/43700283782_755994acc0_b.jpg
@@ -64,7 +64,7 @@ Ainda de acordo com Amorim, a greve de fome apresenta dois objetivos centrais na
 <figcaption></figcaption>
 </figure>
 
-<p>Junto com Jaime Amorim, somam-se &agrave; greve de fome Frei S&eacute;rgio e Rafaela Santos, militantes do MPA; Vilmar Pac&iacute;fico e Zon&aacute;lia Santos, do MST; al&eacute;m de Luiz Gonzaga (Geg&ecirc;), da CMP.</p>
+<p>Junto com Jaime Amorim, somam-se &agrave; greve de fome Frei S&eacute;rgio e Rafaela Santos, militantes do Movimento dos Pequenos Agricultores (MPA); Vilmar Pac&iacute;fico e Zon&aacute;lia Santos, do MST; al&eacute;m de Luiz Gonzaga (Geg&ecirc;), da Central dos Movimentos Populares (CMP).</p>
 
 <p><br />
 Para Frei S&eacute;rgio, o fim da greve de fome cabe aos ministros do Supremo Tribunal Federal. &ldquo;N&oacute;s podemos passar fome por um gesto consciente de luta, mas se continuarmos nesse modelo de pa&iacute;s, a fome ser&aacute; uma imposi&ccedil;&atilde;o para diversos brasileiros e brasileiras. Para o povo, o s&iacute;mbolo da esperan&ccedil;a para mudar essa situa&ccedil;&atilde;o &eacute; Lula&rdquo;, completou.</p>
