@@ -38,7 +38,9 @@ section: cover
 
 <p>&nbsp;</p>
 
-<p>Na manh&atilde; desta sexta-feira (27/07), pela segunda vez, o Movimento dos Trabalhadores Rurais Sem Terra (MST) com 450 fam&iacute;lias reocupam a Fazenda Santa Tereza, no Munic&iacute;pio de Marab&aacute;, sudeste do Estado.<br />
+<p>Na manh&atilde; desta sexta-feira (27/07), pela segunda vez, o Movimento dos Trabalhadores Rurais Sem Terra (MST) com 450 fam&iacute;lias reocupam a Fazenda Santa Tereza, no Munic&iacute;pio de Marab&aacute;, sudeste do Estado.</p>
+
+<p><br />
 Desde dezembro, quando foram despejados &agrave;s v&eacute;speras do natal, as fam&iacute;lias estavam em uma &aacute;rea provis&oacute;ria. Cansados de tanto descaso do poder p&uacute;blico e como forma de den&uacute;ncia da paralisia da Reforma Agr&aacute;ria retornaram para &aacute;rea que &eacute; grilada pelo latifundi&aacute;rio Rafael Saldanha.</p>
 
 <p><br />
