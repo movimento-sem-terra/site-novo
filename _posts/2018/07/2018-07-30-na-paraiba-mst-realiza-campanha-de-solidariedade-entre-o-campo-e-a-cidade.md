@@ -4,7 +4,7 @@ tags:
   - tag: jornada-nacional-de-lutas
   - tag: paraíba
 title: "Na Paraíba, MST realiza Campanha de Solidariedade Entre o Campo e a Cidade"
-support_line: A campanha faz parte da Jornada Nacional de Lutas e denunciou o Pacote de Veneno
+support_line: A campanha fez parte da Jornada Nacional de Lutas e denunciou o Pacote de Veneno
 menu: reforma agrária
 images_hd: //farm2.staticflickr.com/1791/43741374171_926d36683d_b.jpg
 layout: post
