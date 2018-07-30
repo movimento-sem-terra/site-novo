@@ -5,7 +5,7 @@ tags:
   - tag: educação-do-campo
   - tag: reforma-agrária
   - tag: minas-gerais
-title: Acampamento Maria da Conceição irá erguer mais uma Escola do Campo na regional metropolitana
+title: "Acampamento Maria da Conceição irá erguer mais uma Escola do Campo "
 images_hd: //farm2.staticflickr.com/1831/43023682394_e8ecc2b5ef_b.jpg
 support_line: "A perspectiva é que depois de estruturada a escola possa ter do ensino infantil ao médio, contemplando assim todas as faixa etárias. "
 menu: "educação, cultura e comunicação"
