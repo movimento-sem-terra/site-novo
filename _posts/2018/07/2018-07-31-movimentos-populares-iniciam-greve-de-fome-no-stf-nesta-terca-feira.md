@@ -7,7 +7,7 @@ tags:
 title: Movimentos Populares iniciam greve de fome no STF nesta terça-feira
 menu: lutas e mobilizações
 support_line: A ação faz parte da Jornada Nacional de Lutas pela Democracia e libertação do ex-presidente Luís Inácio lula da Silva
-images_hd: //farm2.staticflickr.com/1794/43717047562_2ae4a95653_b.jpg
+images_hd: //farm2.staticflickr.com/1831/43721954742_a5bbbc4716_b.jpg
 layout: post
 files:
   - link: //farm2.staticflickr.com/1794/43717047562_2ae4a95653_b.jpg
@@ -17,6 +17,13 @@ files:
     small: //farm2.staticflickr.com/1794/43717047562_2ae4a95653_n.jpg
     title: Fotos Adilvane Spezia - MPA (2).JPG
     $$hashKey: 09I
+  - link: //farm2.staticflickr.com/1831/43721954742_a5bbbc4716_b.jpg
+    original: //farm2.staticflickr.com/1831/43721954742_1ab2b0db91_o.jpg
+    thumbnail: //farm2.staticflickr.com/1831/43721954742_a5bbbc4716_t.jpg
+    medium: //farm2.staticflickr.com/1831/43721954742_a5bbbc4716_z.jpg
+    small: //farm2.staticflickr.com/1831/43721954742_a5bbbc4716_n.jpg
+    title: WhatsApp Image 2018-07-31 at 16.26.45.jpeg
+    $$hashKey: 0LD
 created_date: "2018-07-31T13:21:09-03:00"
 published: true
 releated_posts:
@@ -27,9 +34,10 @@ releated_posts:
   - _posts/2017/12/2017-12-07-em-nota-publica-mpa-reafirma-o-compromisso-de-luta-e-resistencia-contra-a-reforma-da-previdencia.md
   - _posts/2017/12/2017-12-13-9o-dia-de-greve-de-fome-trabalhadores-do-campo-e-da-cidade-aderem-a-greve-em-todo-pais.md
   - _posts/2017/12/2017-12-11-7o-dia-de-greve-de-fome-grevistas-voltam-para-camara-dos-deputados-em-maior-numero.md
+section: cover
 
 ---
-<p><img alt="Fotos Adilvane Spezia - MPA (2).JPG" height="467" src="//farm2.staticflickr.com/1794/43717047562_2ae4a95653_b.jpg" width="700" /></p>
+<p><img alt="WhatsApp Image 2018-07-31 at 16.26.45.jpeg" height="394" src="//farm2.staticflickr.com/1831/43721954742_a5bbbc4716_b.jpg" width="700" /></p>
 
 <p>&nbsp;</p>
 
