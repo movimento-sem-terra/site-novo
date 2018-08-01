@@ -4,7 +4,7 @@ tags:
   - tag: paraná
   - tag: violência-no-campo
   - tag: cooperativas
-title: "Famílias assentadas denunciam incêndio criminoso, no Paraná"
+title: Famílias assentadas denunciam incêndio criminoso no Paraná
 support_line: "O fogo já destruiu 30 hectares de preservação permanente, plantação de cana, pastagem, árvores e a horta orgânica."
 menu: agronegócio
 images_hd: //farm1.staticflickr.com/928/43736756192_6b12e5edb2_b.jpg
