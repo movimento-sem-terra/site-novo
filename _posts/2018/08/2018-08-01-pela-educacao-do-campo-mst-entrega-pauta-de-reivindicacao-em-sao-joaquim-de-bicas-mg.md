@@ -17,7 +17,7 @@ files:
     title: WhatsApp Image 2018-08-01 at 11.05.08.jpeg
     $$hashKey: 02P
 created_date: "2018-08-01T16:53:20-03:00"
-published: false
+published: true
 releated_posts:
   - _posts/2018/07/2018-07-30-acampamento-maria-da-conceicao-ira-erguer-mais-uma-escola-do-campo-na-regional-metropolitana.md
   - _posts/2018/02/2018-02-22-encontro-nacional-de-agroecologia-promete-reunir-duas-mil-pessoas-em-minas-gerais.md
@@ -28,7 +28,16 @@ releated_posts:
   - _posts/2018/02/2018-02-22-em-carira-interior-de-sergipe-pais-e-alunos-lutam-contra-fechamento-de-escola.md
 
 ---
-<p>D</p>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2018-08-01 at 11.05.08.jpeg" height="525" src="//farm1.staticflickr.com/931/28853593837_0762182d42_b.jpg" width="700" />
+<figcaption><em>Ap&oacute;s marcha em S&atilde;o Joaquim de Bicas, MST entrega pauta de reivindica&ccedil;&atilde;o.<br />
+Foto: Divulga&ccedil;&atilde;o/MST</em>&nbsp;&nbsp;</figcaption>
+</figure>
+</div>
+
+<p>&nbsp;</p>
+
+<p><em>Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
@@ -45,3 +54,7 @@ Segundo Jos&eacute; Lu&iacute;s Rodrigues, da dire&ccedil;&atilde;o estadual do 
 
 <p><br />
 O MST em S&atilde;o Joaquim de Bicas exige que se inicie com celeridade a educa&ccedil;&atilde;o b&aacute;sica na Escola Elizabeth Teixeira, pois &eacute; direito do campo ter escola pr&oacute;xima de casa e n&atilde;o h&aacute; espa&ccedil;o nas escolas da cidade para as crian&ccedil;as acampadas.</p>
+
+<p>&nbsp;</p>
+
+<p><em>*Editado por Wesley Lima</em></p>
