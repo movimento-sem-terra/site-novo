@@ -106,112 +106,139 @@ A nutricionista d&aacute; uma dica para ajudar o consumidor a identificar os ali
 <p><br />
 <em>Confira locais e hor&aacute;rios de Feiras Ecol&oacute;gicas em Porto Alegre&nbsp;</em></p>
 
-<p><strong>AUXILIADORA</strong><br />
+<p><br />
+<strong>AUXILIADORA</strong><br />
 Ter&ccedil;as-feiras, 7h<br />
 Travessa Lanceiros Negros (passagem de pedestres entre as ruas Mata Bacelar e a Coronel Bordini)</p>
 
-<p><strong>BOM FIM</strong><br />
+<p><br />
+<strong>BOM FIM</strong><br />
 S&aacute;bados, 7h &agrave;s 12h30<br />
 Av. Jos&eacute; Bonif&aacute;cio, 675</p>
 
-<p><strong>MENIMO DEUS</strong><br />
+<p><br />
+<strong>MENIMO DEUS</strong><br />
 Quartas-feiras, 13h30 &agrave;s 18h30<br />
 S&aacute;bados, 7h &agrave;s 12h30<br />
 Av. Get&uacute;lio Vargas, 1384</p>
 
-<p><strong>PETR&Oacute;POLIS</strong><br />
+<p><br />
+<strong>PETR&Oacute;POLIS</strong><br />
 Quartas-feiras, 13h &agrave;s 18h<br />
 Rua General Tib&uacute;rcio (Pra&ccedil;a Ruy Teixeira)</p>
 
-<p><strong>TR&Ecirc;S FIGUEIRAS</strong><br />
+<p><br />
+<strong>TR&Ecirc;S FIGUEIRAS</strong><br />
 S&aacute;bados, 8h30 &agrave;s 13h<br />
 Rua Cel. Armando Assis (ao lado da Pra&ccedil;a Desembargador La Hire Guerra)</p>
 
-<p><strong>R&Ocirc;MULO TELLES</strong><br />
+<p><br />
+<strong>R&Ocirc;MULO TELLES</strong><br />
 S&aacute;bados, 7h &agrave;s 13h<br />
 Rua R&ocirc;mulo Telles Pessoa (ao lado da Pra&ccedil;a Andr&eacute; Forster)</p>
 
-<p><strong>TRISTEZA</strong><br />
+<p><br />
+<strong>TRISTEZA</strong><br />
 S&aacute;bados, 7h &agrave;s 12h30<br />
 Av. Otto Niemeyer (esquina com a Av. Wenceslau)</p>
 
-<p><strong>ASSEMBLEIA LEGISLATIVA</strong><br />
+<p><br />
+<strong>ASSEMBLEIA LEGISLATIVA</strong><br />
 Quartas-feiras, 13h &agrave;s 19h<br />
 Pra&ccedil;a Mal. Deodoro, 101</p>
 
-<p><strong>MINIST&Eacute;RIO DA AGRICULTURA</strong><br />
+<p><br />
+<strong>MINIST&Eacute;RIO DA AGRICULTURA</strong><br />
 Quartas-feiras, 10h30 &agrave;s 13h30<br />
 Av. Loureiro da Silva, 515</p>
 
-<p><strong>UFRGS Campus Central</strong><br />
+<p><br />
+<strong>UFRGS Campus Central</strong><br />
 Ter&ccedil;as-feiras, 9h &agrave;s 16h<br />
 Av. Paulo Gama, 110</p>
 
-<p><strong>URFGS Campus do Vale</strong><br />
+<p><br />
+<strong>URFGS Campus do Vale</strong><br />
 Quintas-feiras, 14h &agrave;s 19h<br />
 Av. Bento Gon&ccedil;alves, 9500</p>
 
-<p><strong>UFRFS Campus Sa&uacute;de</strong><br />
+<p><br />
+<strong>UFRFS Campus Sa&uacute;de</strong><br />
 Quartas-feiras, 9h &agrave;s 16h<br />
 Rua Ramiro Barcelos, 2705</p>
 
-<p><strong>UFRGS Fabico</strong><br />
+<p><br />
+<strong>UFRGS Fabico</strong><br />
 Quintas-feiras, 12h &agrave;s 18h<br />
 Rua Ramiro Barcelos, 2705</p>
 
-<p><strong>IPANEMA</strong><br />
+<p><br />
+<strong>IPANEMA</strong><br />
 S&aacute;bados, 8h as 12h&nbsp;<br />
 Av. Gua&iacute;ba, 10410 (Esquina com a Dea Coufal)</p>
 
-<p><strong>INCRA</strong><br />
+<p><br />
+<strong>INCRA</strong><br />
 Quartas-feiras, 10h &agrave;s 14h&nbsp;<br />
 Av. Loureiro da Silva, 515</p>
 
-<p><strong>SHOPPING IGUATEMI</strong><br />
+<p><br />
+<strong>SHOPPING IGUATEMI</strong><br />
 Ter&ccedil;as-feiras, 10h &agrave;s 16h<br />
 Av. Jo&atilde;o Wallig, 1800</p>
 
-<p><strong>SHOPPING PRAIA DE BELAS</strong><br />
+<p><br />
+<strong>SHOPPING PRAIA DE BELAS</strong><br />
 Quintas-feiras, 15h &agrave;s 20h<br />
 Av. Praia de Belas, 1181</p>
 
-<p><strong>SHOPPING TOTAL</strong><br />
+<p><br />
+<strong>SHOPPING TOTAL</strong><br />
 Quintas-feiras, 8h &agrave;s 13h30<br />
 Av. Crist&oacute;v&atilde;o Colombo, 545</p>
 
-<p><strong>COL&Eacute;GIO MARISTA ROS&Aacute;RIO</strong><br />
+<p><br />
+<strong>COL&Eacute;GIO MARISTA ROS&Aacute;RIO</strong><br />
 Na 1&ordf; ter&ccedil;a-feira do m&ecirc;s, 11h &agrave;s 19h<br />
 R. Pra&ccedil;a D. Sebasti&atilde;o, 2</p>
 
-<p><strong>COL&Eacute;GIO SANTA IN&Ecirc;S</strong><br />
+<p><br />
+<strong>COL&Eacute;GIO SANTA IN&Ecirc;S</strong><br />
 Na 2&ordf; e 3&ordf; ter&ccedil;as-feiras do m&ecirc;s, 11h &agrave;s 19h<br />
 Av. Prot&aacute;sio Alves, 2493</p>
 
-<p><strong>IPA</strong><br />
+<p><br />
+<strong>IPA</strong><br />
 Quintas-feiras, 13h &agrave;s 19h<br />
 Cel. Joaquim Pedro Salgado, 80</p>
 
-<p><strong>COL&Eacute;GIO JO&Atilde;O XXIII</strong><br />
+<p><br />
+<strong>COL&Eacute;GIO JO&Atilde;O XXIII</strong><br />
 Na 2&ordf; e 4&ordf; semana do m&ecirc;s,10h &agrave;s 19h<br />
 Rua Sep&eacute; Tiaraj&uacute;, 1013</p>
 
-<p><strong>COL&Eacute;GIO ISRAELITA BRASILEIRO</strong><br />
+<p><br />
+<strong>COL&Eacute;GIO ISRAELITA BRASILEIRO</strong><br />
 Na &uacute;ltima quinta-feira do m&ecirc;s, 13h &agrave;s 17h<br />
 Av. Prot&aacute;sio Alves, 943&nbsp;</p>
 
-<p><strong>CL&Iacute;NICA ONCOTRATA</strong><br />
+<p><br />
+<strong>CL&Iacute;NICA ONCOTRATA</strong><br />
 Quartas-feiras, 14h &agrave;s 18h30<br />
 Av. Pl&iacute;nio Brasil Milano, 80</p>
 
-<p><strong>SINTRAJUFE</strong><br />
-Quartas-feiras (quinzenal), 9h &agrave;s 13h<br />
+<p><br />
+<strong>SINTRAJUFE</strong><br />
+Quartas-feiras (semanal), 9h &agrave;s 13h<br />
 R. Marc&iacute;lio Dias, 660</p>
 
-<p><strong>SOGIPA</strong><br />
+<p><br />
+<strong>SOGIPA</strong><br />
 Quintas-feiras, 8h &agrave;s 14h&nbsp;<br />
 Pra&ccedil;a dos Laureados (sob a sede social)</p>
 
-<p><strong>FEIRA ECOL&Oacute;GICA DA JO&Atilde;O MANOEL</strong><br />
+<p><br />
+<strong>FEIRA ECOL&Oacute;GICA DA JO&Atilde;O MANOEL</strong><br />
 Sextas-feiras, 15h &agrave;s 20h no ver&atilde;o; e das 15h &agrave;s 19h30 no inverno<br />
 Rua Jo&atilde;o Manoel, 627 (perto da escadaria, fundos do estacionamento)</p>
 
