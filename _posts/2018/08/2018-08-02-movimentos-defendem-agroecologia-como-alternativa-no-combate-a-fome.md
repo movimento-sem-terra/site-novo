@@ -92,6 +92,5 @@ A Caravana segue para Guararema (SP) e depois para a Vig&iacute;lia Lula Livre, 
 
 <p>&nbsp;</p>
 
-<p>I</p>
-
-<p>Edi&ccedil;&atilde;o: Thalles Gomes</p>
+<p><em>*Com a colabora&ccedil;&atilde;o de Larissa Costa<br />
+**Editado por Thalles Gomes do Brasil de Fato</em></p>
