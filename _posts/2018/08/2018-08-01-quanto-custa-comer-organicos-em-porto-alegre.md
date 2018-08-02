@@ -104,7 +104,7 @@ Segundo a nutricionista Iara Martins, essas subst&acirc;ncias t&oacute;xicas pod
 A nutricionista d&aacute; uma dica para ajudar o consumidor a identificar os alimentos que realmente s&atilde;o livres de venenos. &ldquo;No supermercado, as embalagens devem conter o selo federal SisORG, que garante que o produto &eacute; org&acirc;nico; e nas feiras, as bancas devem ter a Declara&ccedil;&atilde;o de Conformidade Org&acirc;nica, que comprova que o agricultor produz org&acirc;nico&rdquo;, ressalta.</p>
 
 <p><br />
-<em>Confira locais e hor&aacute;rios de Feiras Ecol&oacute;gicas em Porto Alegre&nbsp;</em></p>
+<em>Confira locais e hor&aacute;rios de Feiras Ecol&oacute;gicas em Porto Alegre:</em></p>
 
 <p><br />
 <strong>AUXILIADORA</strong><br />
