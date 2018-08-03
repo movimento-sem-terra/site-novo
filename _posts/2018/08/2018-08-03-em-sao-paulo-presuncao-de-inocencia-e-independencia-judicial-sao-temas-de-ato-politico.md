@@ -2,7 +2,7 @@
 date: "2018-08-03T15:14:52-03:00"
 tags:
   - tag: direitos-humanos
-title: "Em São Paulo, Presunção de Inocência e Independência Judicial são temas de Ato Político"
+title: "Em São Paulo, Presunção de Inocência e Independência Judicial são temas de Ato "
 support_line: A atividade foi idealizada pela ABJD e faz parte da Campanha pela Presunção de Inocência
 menu: direitos humanos
 images_hd: //farm2.staticflickr.com/1793/43827987381_f2b3f5e2a6_b.jpg
