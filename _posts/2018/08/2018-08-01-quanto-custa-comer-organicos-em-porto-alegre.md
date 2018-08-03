@@ -63,7 +63,10 @@ Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
-<p>Na se&ccedil;&atilde;o de produtos org&acirc;nicos do Supermercado X, 1kg de piment&atilde;o verde custa R$ 15,97 e 1kg de cenoura R$ 15,58. O consumidor pode adquirir 1kg de tomate italiano por R$ 26,62 e 1kg de beterraba por R$ 12,98. J&aacute; nas feiras, os pre&ccedil;os s&atilde;o menores: 1kg de piment&atilde;o custa em m&eacute;dia R$ 10,00; 1kg de cenoura R$ 4,00; 1kg de tomate italiano R$ 8,00; e 1kg de beterraba R$ 4,00. Ao comprar esses produtos no Supermercado X o gasto foi de R$ 71,15. J&aacute; nas feiras, o consumidor desembolsa R$ 26,00. Uma economia de R$ 45,15 (63,4%).</p>
+<p>A resposta para a pergunta acima depende de um &uacute;nico fator: o local em que esses alimentos s&atilde;o adquiridos. No dia 23 de julho, o Jornal Brasil de Fato visitou uma unidade de uma das maiores redes de supermercado do pa&iacute;s, que trataremos nesta reportagem como Supermercado X. Tamb&eacute;m esteve nos &uacute;ltimos dias em feiras ecol&oacute;gicas da capital. O objetivo foi comparar o pre&ccedil;o dos org&acirc;nicos e quanto o consumidor desembolsa ao compr&aacute;-los.</p>
+
+<p><br />
+Na se&ccedil;&atilde;o de produtos org&acirc;nicos do Supermercado X, 1kg de piment&atilde;o verde custa R$ 15,97 e 1kg de cenoura R$ 15,58. O consumidor pode adquirir 1kg de tomate italiano por R$ 26,62 e 1kg de beterraba por R$ 12,98. J&aacute; nas feiras, os pre&ccedil;os s&atilde;o menores: 1kg de piment&atilde;o custa em m&eacute;dia R$ 10,00; 1kg de cenoura R$ 4,00; 1kg de tomate italiano R$ 8,00; e 1kg de beterraba R$ 4,00. Ao comprar esses produtos no Supermercado X o gasto foi de R$ 71,15. J&aacute; nas feiras, o consumidor desembolsa R$ 26,00. Uma economia de R$ 45,15 (63,4%).</p>
 
 <p><br />
 <strong>Escolha do pre&ccedil;o</strong></p>
