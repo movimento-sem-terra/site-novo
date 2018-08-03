@@ -5,7 +5,7 @@ tags:
 title: "Em São Paulo, Presunção de Inocência e Independência Judicial são temas de Ato Político"
 support_line: A atividade foi idealizada pela ABJD e faz parte da Campanha pela Presunção de Inocência
 menu: direitos humanos
-images_hd: //farm2.staticflickr.com/1815/28891542427_d6aaa19027_b.jpg
+images_hd: //farm2.staticflickr.com/1793/43827987381_f2b3f5e2a6_b.jpg
 layout: post
 files:
   - link: //farm2.staticflickr.com/1815/28891542427_d6aaa19027_b.jpg
@@ -15,6 +15,13 @@ files:
     small: //farm2.staticflickr.com/1815/28891542427_d6aaa19027_n.jpg
     title: largo-são-francisco-panorâmica.jpg
     $$hashKey: 04R
+  - link: //farm2.staticflickr.com/1793/43827987381_f2b3f5e2a6_b.jpg
+    original: //farm2.staticflickr.com/1793/43827987381_ed68a81b36_o.jpg
+    thumbnail: //farm2.staticflickr.com/1793/43827987381_f2b3f5e2a6_t.jpg
+    medium: //farm2.staticflickr.com/1793/43827987381_f2b3f5e2a6_z.jpg
+    small: //farm2.staticflickr.com/1793/43827987381_f2b3f5e2a6_n.jpg
+    title: presunção-de-inocência.jpg
+    $$hashKey: 0EX
 created_date: "2018-08-03T15:32:40-03:00"
 published: true
 releated_posts:
@@ -52,3 +59,7 @@ Confirmaram presen&ccedil;a no ato os artistas Arnaldo Freitas, Patr&iacute;cia 
 Data: 03 de julho de 2018<br />
 Hor&aacute;rio: 19 horas<br />
 Local: Sala do Estudante - Faculdade de Direito da USP - Largo S&atilde;o Francisco, 95 - S&atilde;o Paulo</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
