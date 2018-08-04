@@ -46,6 +46,7 @@ releated_posts:
   - _posts/2018/02/2018-02-03-mst-conquista-fazenda-do-agronegocio-na-regiao-de-ribeirao-preto.md
   - _posts/2018/02/2018-02-16-mst-garante-mais-um-passo-para-a-consolidacao-de-assentamentos-no-sudoeste-paulista.md
   - _posts/2018/05/2018-05-02-denuncia-justica-autoriza-pm-a-apreender-criancas-em-abrigo-durante-despejo-em-sp.md
+sector: null
 
 ---
 <p>&nbsp;</p>
@@ -119,5 +120,3 @@ Durante o Ato Pol&iacute;tico de comemora&ccedil;&atilde;o, foi realizado tamb&e
 
 <p><br />
 <em>*Editado por Iris Pacheco</em></p>
-
-<p>&nbsp;</p>
