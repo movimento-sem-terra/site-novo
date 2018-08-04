@@ -31,7 +31,7 @@ releated_posts:
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2018-08-02 at 14.39.58.jpeg" height="426" src="//farm1.staticflickr.com/848/28908298387_403e64e42d_b.jpg" width="700" />
-<figcaption></figcaption>
+<figcaption><em>Foto: Comunica&ccedil;&atilde;o Greve de Fome</em></figcaption>
 </figure>
 </div>
 
