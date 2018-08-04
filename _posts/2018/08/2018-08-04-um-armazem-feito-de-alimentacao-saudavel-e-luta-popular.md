@@ -45,7 +45,7 @@ releated_posts:
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Armazém do Campo fica lotado nesta sexta-feira (3), durante ato político..jpg" height="467" src="//farm1.staticflickr.com/934/42037080260_ec7aaa099b_b.jpg" width="700" />
-<figcaption><em>Armaz&eacute;m do Campo fica lotado nesta sexta-feira (3), durante ato pol&iacute;tico. Foto: Luara Dal Chiavon</em></figcaption>
+<figcaption><em>Armaz&eacute;m do Campo fica lotado nesta sexta-feira (3), durante ato pol&iacute;tico. Foto: Divulga&ccedil;&atilde;o/MST</em></figcaption>
 </figure>
 </div>
 
@@ -65,7 +65,7 @@ Na noite desta &uacute;ltima sexta-feira (3), foi realizado um Ato Pol&iacute;ti
 
 <figure class="image" style="float:left"><img alt="Ademar Ludwig, da coordenação política do Armazém..jpg" height="300" src="//farm2.staticflickr.com/1792/42037080580_1ee6987539_b.jpg" width="450" />
 <figcaption><em>Ademar Ludwig, da coordena&ccedil;&atilde;o pol&iacute;tica do Armaz&eacute;m.<br />
-Foto: Luara Dal Chiavon</em></figcaption>
+Foto: Divulga&ccedil;&atilde;o/MST</em></figcaption>
 </figure>
 
 <p>De acordo&nbsp;Ademar Ludwig, da coordena&ccedil;&atilde;o pol&iacute;tica do Armaz&eacute;m, tem muita coisa para se comemorar. &ldquo;Nossa loja &eacute; um instrumento de luta. Por aqui conseguimos estabelecer um di&aacute;logo direto com os trabalhadores da cidade. Quem passa pela loja, al&eacute;m de levar produtos org&acirc;nicos dos assentamentos e acampamentos de Reforma Agr&aacute;ria, leva tamb&eacute;m muito conhecimento sobre o processo produtivo e a luta pela terra em nosso pa&iacute;s&rdquo;, explica.</p>
