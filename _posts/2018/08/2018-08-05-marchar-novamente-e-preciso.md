@@ -46,7 +46,7 @@ Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
-<p>Marchar novamente &eacute; preciso para retomar a democracia, a Reforma Agr&aacute;ria, denunciar a retirada de direitos e exigir Lula Livre. Essas s&atilde;o as principais bandeiras de luta que impulsionam o processo de constru&ccedil;&atilde;o da&nbsp;Marcha <a href="http://www.facebook.com/events/253867308775118">Nacional Lula Livre</a>.</p>
+<p>Marchar novamente &eacute; preciso para retomar a democracia, a Reforma Agr&aacute;ria, denunciar a retirada de direitos e exigir Lula Livre. Essas s&atilde;o as principais bandeiras de luta que impulsionam o processo de constru&ccedil;&atilde;o da&nbsp;<a href="http://www.facebook.com/events/253867308775118">Marcha Nacional Lula Livre</a>.</p>
 
 <p>&nbsp;</p>
 
@@ -56,7 +56,7 @@ Da P&aacute;gina do MST</em></p>
 M&uacute;sicas e palavras de ordem ajudaram na constru&ccedil;&atilde;o de uma m&iacute;stica, avaliada como necess&aacute;ria para fortalecer os cora&ccedil;&otilde;es e mentes dos trabalhadores e trabalhadoras que estar&atilde;o em marcha entre os dias 10 e 15 de agosto, em dire&ccedil;&atilde;o a Bras&iacute;lia.</p>
 
 <p><br />
-Em solidariedade aos seis militantes de movimentos e organiza&ccedil;&otilde;es populares que est&atilde;o em&nbsp;<a href="http://www.mst.org.br/2018/07/31/movimentos-populares-iniciam-greve-de-fome-no-stf-nesta-terca-feira.html"><u>Greve de Fome por Justi&ccedil;a no Supremo Tribunal Federal (STF)</u></a>, em Bras&iacute;lia, desde o &uacute;ltimo dia 31 de julho, o Ato de Lan&ccedil;amento destacou a import&acirc;ncia de tomar medidas extremas em momentos em que a conjuntura coloca os trabalhadores em situa&ccedil;&otilde;es extremas.</p>
+Em solidariedade aos seis militantes de movimentos e organiza&ccedil;&otilde;es populares que est&atilde;o em&nbsp;<a href="http://www.mst.org.br/2018/07/31/movimentos-populares-iniciam-greve-de-fome-no-stf-nesta-terca-feira.html">Greve de Fome por Justi&ccedil;a no Supremo Tribunal Federal (STF)</a>, em Bras&iacute;lia, desde o &uacute;ltimo dia 31 de julho, o Ato de Lan&ccedil;amento destacou a import&acirc;ncia de tomar medidas extremas em momentos em que a conjuntura coloca os trabalhadores em situa&ccedil;&otilde;es extremas.</p>
 
 <p>&nbsp;</p>
 
