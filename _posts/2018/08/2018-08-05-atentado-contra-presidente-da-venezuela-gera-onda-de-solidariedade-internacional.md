@@ -14,11 +14,24 @@ files:
     small: //farm1.staticflickr.com/930/43871328601_45df27587e_n.jpg
     title: 1280906.jpg
     $$hashKey: 08D
+  - link: //farm2.staticflickr.com/1819/28936136687_9755d33b3a_b.jpg
+    original: //farm2.staticflickr.com/1819/28936136687_faf13f3668_o.jpg
+    thumbnail: //farm2.staticflickr.com/1819/28936136687_9755d33b3a_t.jpg
+    medium: //farm2.staticflickr.com/1819/28936136687_9755d33b3a_z.jpg
+    small: //farm2.staticflickr.com/1819/28936136687_9755d33b3a_n.jpg
+    title: venezuela-3.jpg
+    $$hashKey: 0CA
 created_date: "2018-08-05T19:39:47-03:00"
 published: true
 releated_posts: []
 
 ---
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="venezuela-3.jpg" height="467" src="//farm2.staticflickr.com/1819/28936136687_9755d33b3a_b.jpg" width="700" />
+<figcaption></figcaption>
+</figure>
+</div>
+
 <p>&nbsp;</p>
 
 <p><em>Por Fania Rodrigues<br />
@@ -91,5 +104,7 @@ Do Brasil de Fato de Caracas</em></p>
 <p>&nbsp;</p>
 
 <p><strong>Maduro agradece solidariedade</strong></p>
+
+<p>&nbsp;</p>
 
 <p>Diante das diversas express&otilde;es de apoio, o presidente da Venezuela agradeceu as notas e liga&ccedil;&otilde;es solid&aacute;rias. &quot;Agrade&ccedil;o aos povos e governos do mundo que se pronunciaram contra o atentado que pretendia acabar com minha vida. A Venezuela seguir&aacute; transitando pela trilha democr&aacute;tica, independente e socialista&quot;, publicou Maduro, em suas redes sociais nesse domingo (5).</p>
