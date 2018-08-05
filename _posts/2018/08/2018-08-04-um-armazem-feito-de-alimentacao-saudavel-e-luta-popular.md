@@ -53,7 +53,8 @@ sector: null
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Armazém do Campo fica lotado nesta sexta-feira (3), durante ato político..jpg" height="467" src="//farm1.staticflickr.com/934/42037080260_ec7aaa099b_b.jpg" width="700" />
-<figcaption><em>Armaz&eacute;m do Campo fica lotado nesta sexta-feira (3), durante ato pol&iacute;tico. Foto: Divulga&ccedil;&atilde;o/MST</em></figcaption>
+<figcaption><em>Armaz&eacute;m do Campo fica lotado nesta sexta-feira (3), durante ato pol&iacute;tico.<br />
+Foto: Divulga&ccedil;&atilde;o/MST</em></figcaption>
 </figure>
 </div>
 
