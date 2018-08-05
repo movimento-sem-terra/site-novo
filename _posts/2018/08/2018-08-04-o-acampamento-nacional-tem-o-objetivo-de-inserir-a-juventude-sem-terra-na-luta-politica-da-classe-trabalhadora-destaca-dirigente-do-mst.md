@@ -1,7 +1,10 @@
 ---
 date: "2018-08-04T15:57:39-03:00"
-tags: []
-images_hd: //farm2.staticflickr.com/1773/43798871882_237879cba0_b.jpg
+tags:
+  - tag: juventude-sem-terra
+  - tag: acampamento
+  - tag: marcha
+images_hd: //farm2.staticflickr.com/1837/29977560478_66aaf97143_b.jpg
 title: "“O Acampamento Nacional insere a Juventude Sem Terra na luta política”, destaca dirigente do MST"
 support_line: "A atividade é em preparação à Marcha Nacional Lula Livre, que acontece de 10 a 15 agosto, rumo à Brasília"
 menu: lutas e mobilizações
@@ -23,12 +26,19 @@ files:
     $$hashKey: 02S
 created_date: "2018-08-04T16:09:05-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2018/04/2018-04-12-juventude-sem-terra-realiza-acampamento-pedagogico-na-curva-do-s.md
+  - _posts/2018/02/2018-02-06-curso-de-ferias-reune-juventude-sem-terra-em-alagoas.md
+  - _posts/2018/03/2018-03-26-mst-realiza-curso-de-formacao-com-a-juventude-sem-terra.md
+  - _posts/2018/03/2018-03-29-sem-terra-se-reunem-no-2-encontro-regional-da-juventude.md
+  - _posts/2018/07/2018-07-10-entidades-visitam-acampamento-marielle-franco-no-maranhao.md
+  - _posts/2018/06/2018-06-07-juventude-camponesa-se-reune-encontro-estadual-no-rio-grande-do-norte-para.md
 
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Retrato PH.jpg" height="463" src="//farm2.staticflickr.com/1837/29977560478_66aaf97143_b.jpg" width="700" />
-<figcaption>Paulo Henrique Campos, do Coletivo Nacional de Juventude do MST fala sobre as tarefas da Juventude Sem Terra na Marcha Lula Livre</figcaption>
+<figcaption><em>Paulo Henrique, do coletivo nacional de juventude, fala sobre as tarefas da Juventude Sem Terra na Marcha Lula Livre.<br />
+Foto: Divulga&ccedil;&atilde;o/MST</em></figcaption>
 </figure>
 </div>
 
@@ -52,7 +62,7 @@ Durante entrevista para a P&aacute;gina do MST, Paulo Henrique refor&ccedil;ou o
 
 <p>&nbsp;</p>
 
-<p>Confira entrevista completa:</p>
+<p><em>Confira entrevista completa:</em></p>
 
 <p><br />
 <strong>Na conjuntura que vivemos, o que representa o Acampamento Nacional da Juventude Sem Terra?</strong></p>
@@ -64,6 +74,11 @@ O Acampamento cumpre ainda um papel hist&oacute;rico, anterior &agrave; Marcha N
 
 <p><br />
 Fruto de um amplo processo de trabalho de base, de organiza&ccedil;&atilde;o e de forma&ccedil;&atilde;o pol&iacute;tica com a nossa juventude Sem Terra. O Acampamento &eacute; a culmin&acirc;ncia de um processo de intensa mobiliza&ccedil;&atilde;o com a Juventude dos acampamentos e assentamentos do MST.</p>
+
+<figure class="image" style="float:left"><img alt="juventude.png" height="424" src="//farm2.staticflickr.com/1773/43798871882_237879cba0_b.jpg" width="300" />
+<figcaption><em>Arte do Acampamento Nacional<br />
+da Juventude Sem Terra.</em></figcaption>
+</figure>
 
 <p><br />
 <strong>Uma das tarefas do Acampamento &eacute; preparar a Juventude Sem Terra para a Marcha Nacional Lula Livre, como ser&aacute; esse processo?</strong></p>
@@ -118,5 +133,6 @@ Em conjunto com as organiza&ccedil;&otilde;es da Via Campesina e nossos aliados 
 <p><br />
 Al&eacute;m de refor&ccedil;ar coletivamente que precisamos construir um programa unit&aacute;rio de lutas, pautas e forma&ccedil;&atilde;o pol&iacute;tica, reafirmamos a nossa defesa da candidatura do companheiro Lula. Pois, temos consci&ecirc;ncia de que o avan&ccedil;o nas v&aacute;rias pol&iacute;ticas p&uacute;blicas para a juventude do campo foi em detrimento desse per&iacute;odo de avan&ccedil;o que vivemos nos &uacute;ltimos anos, com acesso &agrave; universidade e de diminui&ccedil;&atilde;o do &ecirc;xodo rural.</p>
 
-<p><br />
-<em>*Editado por Solange Engelmann</em></p>
+<p>&nbsp;</p>
+
+<p><em>*Editado por Solange Engelmann</em></p>
