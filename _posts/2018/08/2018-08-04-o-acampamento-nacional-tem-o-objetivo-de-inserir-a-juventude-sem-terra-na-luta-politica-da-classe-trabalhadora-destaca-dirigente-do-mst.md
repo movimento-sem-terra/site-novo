@@ -37,8 +37,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Retrato PH.jpg" height="463" src="//farm2.staticflickr.com/1837/29977560478_66aaf97143_b.jpg" width="700" />
-<figcaption><em>Paulo Henrique, do coletivo nacional de juventude, fala sobre as tarefas da Juventude Sem Terra na Marcha Lula Livre.<br />
-Foto: Divulga&ccedil;&atilde;o/MST</em></figcaption>
+<figcaption><em>Paulo Henrique, do coletivo nacional de juventude, fala sobre as tarefas da Juventude Sem Terra na Marcha Lula Livre. Foto: Divulga&ccedil;&atilde;o/MST</em></figcaption>
 </figure>
 </div>
 
