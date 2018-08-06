@@ -31,6 +31,7 @@ files:
 created_date: "2018-08-05T15:44:45-03:00"
 published: true
 releated_posts: []
+section: cover
 
 ---
 <div style="text-align:center">
