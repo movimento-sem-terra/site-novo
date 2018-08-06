@@ -6,7 +6,7 @@ title: MST lança Marcha Nacional Lula Livre
 support_line: Os marchantes da Via Campesina defendem a liberdade do ex-presidente Lula e seu direito de ser candidato às eleições presidenciais
 images_hd: //farm1.staticflickr.com/853/43107449694_2363b8ab86_b.jpg
 menu: lutas e mobilizações
-section: cover
+section: null
 layout: post
 files:
   - link: //farm1.staticflickr.com/853/43107449694_2363b8ab86_b.jpg
