@@ -1,7 +1,7 @@
 ---
 date: "2018-08-05T21:35:08-03:00"
 tags: []
-title: "Greve de Fome 6º dia: \"Com Lula e Dilma o nordestino voltou a sonhar com um futuro melhor\"!"
+title: "Greve de Fome 6º dia: \"Com Lula e Dilma o nordestino voltou a sonhar com um futuro melhor\", afirma grevista"
 support_line: "Em relato militante grevista de fome e dirigente do MST, Jaime Amorim, reafirma que somente a vitória de Lula nas eleições de outubro pode impedir retrocessos no Nordeste"
 menu: lutas e mobilizações
 images_hd: //farm2.staticflickr.com/1778/30003629128_332a1b71e5_b.jpg
