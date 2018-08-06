@@ -35,7 +35,7 @@ releated_posts: []
 <p>&nbsp;</p>
 
 <p><em>Por Fania Rodrigues<br />
-Do Brasil de Fato de Caracas</em></p>
+Do Brasil de Fato/de Caracas</em></p>
 
 <p>&nbsp;</p>
 
