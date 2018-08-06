@@ -36,7 +36,7 @@ section: cover
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Márcio Santos, da coordenação nacional do MST..jpg" height="493" src="//farm2.staticflickr.com/1837/29998046828_73ea417e95_b.jpg" width="700" />
-<figcaption>Para M&aacute;rcio Santos, da coordena&ccedil;&atilde;o nacional do MST, a Marcha busca alterar a atual conjuntura de golpe no pa&iacute;s</figcaption>
+<figcaption><em>Para M&aacute;rcio Santos, da coordena&ccedil;&atilde;o nacional do MST, a Marcha busca alterar a atual conjuntura de golpe no pa&iacute;s</em></figcaption>
 </figure>
 </div>
 
@@ -99,8 +99,7 @@ Em 1999, durante uma Jornada Nacional de Lutas, um conjunto de Movimentos do cam
 Outra Marcha hist&oacute;rica na luta popular brasileira foi realizada em 2005. No dia 02 de maio, o MST iniciou a Marcha Nacional pela Reforma Agr&aacute;ria, saindo de Goi&acirc;nia (GO) e at&eacute; Bras&iacute;lia, com mais de 12 mil pessoas. Diversos foram os pontos de pauta, entre eles se destacam a defesa da Amaz&ocirc;nia contra os interesses das transnacionais; impedir o processo de privatiza&ccedil;&atilde;o da &aacute;gua; barrar a libera&ccedil;&atilde;o dos transg&ecirc;nicos; demarcar imediatamente todas as terras ind&iacute;genas; expropriar as fazendas com trabalho escravo; dobrar o valor do sal&aacute;rio-m&iacute;nimo; realizar uma auditoria p&uacute;blica da d&iacute;vida e retirar as tropas do Haiti.<br />
 <br />
 <br />
-Confira mais informa&ccedil;&otilde;es sobre a Marcha Lula Livre no evento do Facebook: www.facebook.com/events/253867308775118</p>
+<a href="http://www.facebook.com/events/253867308775118">Confira mais informa&ccedil;&otilde;es sobre a Marcha Lula Livre no evento do Facebook</a></p>
 
-<p>&nbsp;</p>
-
-<p><em>*Editado por Solange Engelmann</em></p>
+<p><br />
+<em>*Editado por Solange Engelmann</em></p>
