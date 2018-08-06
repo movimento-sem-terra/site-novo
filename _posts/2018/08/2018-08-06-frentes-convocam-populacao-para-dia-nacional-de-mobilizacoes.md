@@ -4,7 +4,7 @@ tags:
   - tag: lutas-e-mobilizações
   - tag: frente-brasil-popular
   - tag: frente-povo-sem-medo
-title: "Frentes convocam população para dia nacional de mobilizações "
+title: "Frentes convocam mobilizações eparalisações para o dia do Basta!"
 support_line: "Tirado como o Dia do Basta pelas Frentes Brasil Popular e Povo Sem Medo, o 10 de agosto dá continuidade ao processo de luta contra os direitos trabalhistas."
 menu: lutas e mobilizações
 images_hd: //farm2.staticflickr.com/1798/42083602270_531d2b4d7f_b.jpg
