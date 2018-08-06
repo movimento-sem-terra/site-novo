@@ -33,6 +33,7 @@ releated_posts:
   - _posts/2018/03/2018-03-29-sem-terra-se-reunem-no-2-encontro-regional-da-juventude.md
   - _posts/2018/07/2018-07-10-entidades-visitam-acampamento-marielle-franco-no-maranhao.md
   - _posts/2018/06/2018-06-07-juventude-camponesa-se-reune-encontro-estadual-no-rio-grande-do-norte-para.md
+label: interviews
 
 ---
 <div style="text-align:center">
